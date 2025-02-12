@@ -15,25 +15,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4MjU2NDk4MDg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **DEDICATED**
 
@@ -50,10 +34,6 @@ FOR HIS PATRONAGE OF ORIENTAL LANGUAGES
 
 **BY THE AUTHORESS.**
 
-
-
-
-
 | **CONTENTS.** |                                         |
 |---------------|-----------------------------------------|
 | **१.**        | ** बालकाण्डः **(Balakandam)             |
@@ -63,13 +43,9 @@ FOR HIS PATRONAGE OF ORIENTAL LANGUAGES
 | **५. **       | **सुन्दरकाण्डः**(Sundarakandam)         |
 | **६.**        | ** युद्धकाण्डः **(Udhakandam)           |
 
-
-
 **FOREWORD**
 
   Śrimati V. Bālammāl, daughter of the late Dr. A. R. Vaidyanatha Sastriyar, M.A., M.B. & C.M. of Mysore, is the authoress of this little poetical work in Sanskrit called *Subōdharamacharitam.* It is written in the form of simple Anushṭubh verses and summarises the story of the Rāmāyaṇa. The language throughout is faultless and idiomatic and the style is very simple. Many verses in the work and particularly the Ãryās prefixed to each Kāṇḍa are of considerable poetic worth. Sister V. Bālammāl tells me that she studied Sanskrit, when she was a girl, under one of the most eminent Pandits of Southern India and the foremost of the Court Paṇḍits of Mysore, viz., the late *Mahamahōpādhyāya Brahmaśrī Sundara Sastriar of Pazhavānēri.* I am very favourably impressed with her attainments in Sanskrit and Tamil and
-
-
 
 **FOREWORD.**
 
@@ -85,15 +61,11 @@ Professor of Sanskrit and Comparative Philology,
 
 30th October, 1916.
 
-
-
 **INTRODUCTION.**
 
   Of all the Sanskrit works, the *‘*Rāmāyaṇa’, stands alone by its peculiar merit. It is as immortal as its Divine Hero, the object of its author that this work should serve as the bulwark of Āryan literature having never failed. While in other literatures of the later nations, the old have given place for the new with changes of thoughts and ideas, the Rāmāyaṇa of Valmiki, retains to this day that spotless fame which it had thousands of years ago and sways such a unifying force among the Hindus with a peculiar charm in its teaching of the Dharmās essential to every day life. The Hindu of whatever caste or tongue he may be, is never tired of hearing or reading the story of Rāmāyaṇa.
 
  Later on poets like Kalidāsa and many others have written the work in a number of dramas, verses, etc., for the sake of the spiritual pleasure they have derived from the work of the great sage. I have also shared that spiritual pleasure as the
-
-
 
 result of the Sanskrit education given to me by my beloved parents out of a true sense of duty. I am greatly indebted, specially to my mother, who took much interest for my Sanskrit education, for all my attainments in Sanskrit. I present this humble piece of composition to the generous public who, I strongly hope, will warmly welcome by this conviction.
 
@@ -106,8 +78,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **MADRAS,**
 
 ***31st October, 1916.***
-
-
 
 ![](../books_images/U-IMG-1703423413Screenshot2023-12-24183956.png)
 
@@ -124,8 +94,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **साकेतपुरनिवासंनाकेशसभाज्यपङ्क्तिरथपुत्रम्। **  
 **स्तोकेतरप्रतापंराकेन्दुमुखं नमामि रघुवीरम्॥**
 
-
-
 **प्रणम्य जगतामीशं श्रीहरिं श्रितवत्सलम्।  
 सुबोधरामचरितं कृतं बालाम्बिकाख्यया॥१॥**
 
@@ -140,8 +108,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **किं फलं राज्यभारेण यशसा वा महीयसा।  
 निष्फलं ह्यनपत्यस्य जातं जीवितमद्य मे॥५॥**
-
-
 
 **तदहं हयमेधेन यक्ष्ये तनयकारणात्।  
 यद्यत्रभवतां सम्यगभिप्रायोऽनुमन्यताम्॥६॥**
@@ -158,8 +124,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **अथो वसिष्ठमाचार्यं विभण्डकसुतं तथा।  
 पुरस्कृत्य क्रतुं कर्तुमारेभे भूपतिस्तदा॥१०॥**
 
-
-
 **तस्मिन्नवसरे देवा दशकन्धरपीडिताः।  
 विधात्रा सह शक्राद्याः प्रापुः क्षीरनिधेस्तटम्॥११॥**
 
@@ -174,8 +138,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **राज्ञः पङ्क्तिरथस्याद्य पुत्रार्थं कुर्वतः क्रतुम्।  
 सुतो भूत्वा चतुर्धाऽहं हनिष्यामि भवद्द्विषम्॥१५॥**
-
-
 
 **अथ सर्वे सुरास्तावदाज्ञया परमेष्ठिनः।  
 स्वांशैरुत्पादयामासुर्वालिमुख्यान्बहून्कपीन्॥१६॥**
@@ -192,8 +154,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **तस्मात्स्वीकृत्य सोऽप्येतन्निजपत्नीरपाययत्।  
 पीत्वा तद्राजपत्न्यस्ता अन्तर्वत्न्यऽभवन्द्रुतम्॥२०॥**
 
-
-
 **संपूर्ण द्वादशे मासि कौसल्या सुशुभे दिने।  
 सर्वलोकावनोत्कण्ठं सुतं राममजीजनत्॥२१॥**
 
@@ -208,8 +168,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **प्रवर्धमानेष्वेतेषु पूर्णिमाचन्द्रान्तिषु।  
 सर्वलोकाभिरामेषु मुमुदे सोऽधिकं नृपः॥२५॥**
-
-
 
 **तस्मिन्नवसरे गाधिसूनुरागत्य भूमिपं।  
 यज्ञरक्षणदक्षं मे रामं देहीत्ययाचत॥२६॥**
@@ -226,8 +184,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **रघूद्वहं ससौमित्रिं मार्गे कुशिकनन्दनः।  
 कथाभिर्नन्दयन्प्रापदाश्रमं स्वं गतश्रमः॥३०॥**
 
-
-
 **समारब्धे ततो यज्ञे विश्वामित्रेण धीमता।  
 सत्कर्मद्वेषिणो रुष्टा राक्षसाः पर्यवारयन्॥३१॥**
 
@@ -242,8 +198,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **सह गच्छन्नाघवाभ्यां मध्येसरणि कौशिकः।  
 गङ्गां त्रिपथगां दृष्ट्वाराममित्थमभाषत॥३५॥**
-
-
 
 **भगीरथेन नीतेयं त्वद्वंशगुरुणा धराम्।  
 तस्माद्भागीरथीत्येनां कथयन्ति जना भुवि॥३६॥**
@@ -260,8 +214,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **तत्रासौ पूजितो राज्ञा जनकेन सराघवः।  
 तद्दर्शितं धनुश्शैवं दर्शयन्नाममब्रवीत्॥४०॥**
 
-
-
 **यद्वर्शनेऽभूः कुतुकी तदिदं पश्य राघव।  
 शुल्कार्थं निर्मितमिदं धनुरारोप्यतां त्वया॥४१॥**
 
@@ -277,8 +229,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **माण्डवीं भरतायाथ कुशध्वजसुतां तथा।  
 श्रुतकीर्तिं महाभागां शत्रुघ्नाय च धीमते॥४५॥**
 
-
-
 **कृतोद्वाहैस्तनुभवैस्सह पङ्क्तिरथः पुरम्।  
 प्रत्यागच्छन्नपश्यत्तं जमदग्निसुतं पथि॥४६॥**
 
@@ -291,11 +241,7 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **राघवाद्यास्तु चत्वारस्सौशील्याद्यैर्गुणैर्युताः।  
 अन्वभूवन्सुखं वीरास्स्वकान्ताभिस्समं चिरम्॥४९॥**
 
-
-
 **॥ इति बालकाण्डस्समाप्तः ॥**
-
-
 
 **॥ अयोध्याकाण्डप्रारम्भः ॥**
 
@@ -306,8 +252,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **ततो जगाम भरतश्शत्रुघ्नेन समन्वितः।  
 युधाजिदभिधानस्य मातुलस्य गृहं प्रति॥१॥**
-
-
 
 **अथ पङ्क्तिरथः पौरानाहूय सचिवानपि।  
 नमस्कृत्य वसिष्ठादीनिदं वचनमब्रवीत्॥२॥**
@@ -324,8 +268,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **विबुधानन्दजननी कैकेयीं प्राप्य मन्थरा।  
 निर्मलं हृदयं तस्याश्चकार कलुषं क्षणात्॥६॥**
 
-
-
 **मुग्धे किं विस्मृतं राज्ञा पूर्वं दत्तं वरद्वयम्।  
 तस्माद्रामो वनं यातु भरतोऽस्तु महीपतिः॥७॥**
 
@@ -340,8 +282,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **चतुर्दशाब्दान्नामस्य वन्यवृत्त्या वने स्थितिः।  
 भरतस्यात्मजस्यैतद्राज्यप्राप्तिर्भवेदिति॥११॥**
-
-
 
 **कैकेय्योक्तं वचश्श्रुत्वा सत्यवाग्भूपतिस्तदा।  
 हा हन्त पुत्रवात्सल्यान्मूर्च्छितस्तत्र तत्क्षणात्॥१२॥**
@@ -358,8 +298,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **रक्षणीयं त्वया मातश्शरीरं जनकस्य मे।  
 गच्छामि वनमद्यैव माऽस्तु शोकस्तवाधुना॥१६॥**
 
-
-
 **वसिष्ठेनाभिषेकायाऽऽबद्धमङ्गलकौतुकः।  
 सीतालक्ष्मणसंयुक्तो रामो वनमगात्तदा॥१७॥**
 
@@ -374,8 +312,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **गत्वा त्वं नगरं भूपं समाश्वासय दुःखितम्।  
 मद्वियोगासहान्पौरानपि मातृगणानिति॥२१॥**
-
-
 
 **सीतालक्ष्मणसंयुक्तो जटाधारी सवल्कलः।  
 गुहेनानीतया नावा ततार स सुरापगाम्॥२२॥**
@@ -392,8 +328,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **तदा दूतैर्वसिष्ठोऽपि भरतं सानुजं द्रुतम्।  
 आनाययत्पुरं तस्मै माता सर्वं न्यवेदयत्॥२६॥**
 
-
-
 **दुःखार्तस्सोऽपि कैकेयीं विनिन्द्य जननीं ततः।  
 विधिवत्कृतवान्सर्वं स्वतातस्यौर्ध्वदैहिकम्॥२७॥**
 
@@ -408,8 +342,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **रामः स्वं हृदयं तञ्च समाश्वास्य सहानुजः।  
 सीतया सहितः स्नात्वा ददौ पित्रे तिलोदकम्॥३१॥**
-
-
 
 **प्रार्थितो भरतेनासौ नगरागमनं प्रति।  
 दत्त्वा स्वपादुके रामो भरतायेदमब्रवीत्॥३२॥**
@@ -426,11 +358,7 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **अत्रेर्महर्षेरावासं गत्वा विश्रम्य राघवः।  
 प्रतस्थे दण्डकारण्यं नक्तञ्चरगणैर्वृतम्॥३६॥**
 
-
-
 **॥ इति अयोध्याकाण्डस्समाप्तः॥**
-
-
 
 **॥अरण्यकाण्डप्रारम्भः॥**
 
@@ -441,8 +369,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **अथ दाशरथिस्सीतालक्ष्मणाभ्यां समन्वितः।  
 दण्डकाख्ये महारण्ये विचचार धनुर्धरः॥१॥**
-
-
 
 **तत्रागतं विराधाख्यं रक्षस्सीतापहारकम्।  
 निहत्याश्वास्य वैदेहीं रक्षोगात्रं बिलेऽक्षिपत्॥२॥**
@@ -459,8 +385,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **तत्र रामः पञ्चवट्यां गोदावर्यास्तटे चिरम्।  
 अवसल्लक्ष्मणोपेतस्सीतया सह कान्तया॥६॥**
 
-
-
 **तत्र शूर्पणखा नाम सञ्चरन्ती निशाचरी।  
 उपेत्य प्रार्थयामास राघवं मदनातुरा॥७॥**
 
@@ -475,8 +399,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **जवेन सा ततो गत्वा जनस्थानं खरालयम्।  
 खराय रक्षोमुख्याय सर्वं वृत्तं न्यवेदयत्॥११॥**
-
-
 
 **तच्छ्रुत्वा राक्षसास्सर्वे कोपाविष्टाः खरादयः।  
 क्षिप्रं पञ्चवटीं प्राप्य राघवं रुरुधुस्तदा॥१२॥**
@@ -493,8 +415,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **वैदेह्या देहसौन्दर्यं राघवस्य च विक्रमम्।  
 श्रुत्वा सीतापहरणे रावणो विदधे मतिम्॥१६॥**
 
-
-
 **मायाहरिणरूपेण मारीचेन रघूत्तमम्।  
 वञ्चयित्वा जनकजामपहर्तुमियेष सः॥१७॥**
 
@@ -509,8 +429,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **मायामृगेण रामोऽपि वञ्चितस्सन्प्रधावता।  
 नक्तञ्चर इति ज्ञात्वा जघानास्त्रेण तं मृगम्॥२१॥**
-
-
 
 **निजरूपेण मारीचो निपत्य धरणतिले।  
 हा हा लक्ष्मण वैदेहीत्युक्त्वाऽमुञ्चदसून्स्तदा॥२२॥**
@@ -527,8 +445,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **नियुध्य सुचिरं तेन कुपितो दशकन्धरः।  
 छित्त्वा खड्गेन तत्पक्षौ जगामाकाशवर्त्मना॥२६॥**
 
-
-
 **भूषणानि तदा सीताविमुक्तान्यम्बरस्थलात्। **  
 **महीध्रशिखरस्थस्य सुग्रीवस्यापतन्पुरः॥२७॥**
 
@@ -543,8 +459,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **प्रजावतीं विहायैकां विजने विपिने कुतः। **  
 **समागतोऽसि त्वरया मद्वाक्यमविचारयन्॥३१॥**
-
-
 
 **तच्छ्रुत्वा लक्ष्मणो रामं प्रणम्य सहसा ततः।  
 तवाशुभं शङ्कमाना सीता मां बहुधाऽन्वशात्॥३२॥**
@@ -561,8 +475,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **आश्वासितोऽसौ रामेण जटायुः प्राह राघवम्।  
 जहार रावणस्सीतां छित्त्वा पक्षयुगं मम॥३६॥**
 
-
-
 **एवमुक्त्वैव सपदि गतायुषि जटायुषि।  
 दुःखार्तोऽभूत्तदा रामो बुद्ध्वा कष्टपरंपराम्॥३७॥**
 
@@ -578,19 +490,13 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **लब्ध्वा दिव्याकृतिमसौ प्रोवाच रघुपुङ्गवम्।  
 सुग्रीवमेत्य वैदेहीमवाप्नोतु भवानिति॥४१॥**
 
-
-
 **तदादिष्टेन मार्गेण गच्छन्रामस्सहानुजः।  
 शबर्या कृतमातिथ्यं जग्राह प्रार्थितस्तया॥४२॥**
 
 **ससौमित्रिस्ततो रामश्शबर्यादिष्टवर्त्मना।  
 सीतावियोगविधुरः प्राप पम्पासरस्तटम्॥४३॥**
 
-
-
 **॥इति अरण्यकाण्डस्समाप्तः॥**
-
-
 
 **॥ किष्किन्धाकाण्डप्रारम्भः॥**
 
@@ -605,8 +511,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **प्रेषितस्सूर्यपुत्रेण सुग्रीवेणानिलात्मजः।  
 भिक्षुवेषं समाश्रित्य बभाषे रामलक्ष्मणौ॥३॥**
-
-
 
 **तदाशयज्ञो हनुमान्मतङ्गाश्रमवासिनः।  
 चकार सख्यं रामेण सुग्रीवस्याग्निसाक्षिकम्॥४॥**
@@ -623,8 +527,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **स पुनर्दुन्दुभेः कायं पादाङ्गुष्ठेन राघवः।  
 निरस्य दूरे सुग्रीवस्याशङ्कामप्यपाकरोत्॥८॥**
 
-
-
 **सप्तसालद्रुमान्रामस्तत्र सुग्रीवदर्शितान्। **  
 **बाणेनैकेन युगपदविध्यल्लघुविक्रमः॥९॥**
 
@@ -639,8 +541,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **आश्वास्य रामसुग्रीवं दुःखितं भ्रातृशोकतः।**  
 **वृत्ते च वालिसंस्कारे लक्ष्मणं वाक्यमब्रवीत्॥१३॥**
-
-
 
 **धृतव्रतस्य मे नार्हः प्रवेशो नगरस्य यत्। **  
 **अभिषेक्तुमिमं याहि किष्किन्धानगरीं ततः॥१४॥**
@@ -657,8 +557,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **किष्किन्धानगरं गत्वा कोपाविष्टस्स लक्ष्मणः। **  
 **चापघोषं तदा चक्रे कपिवीरभयप्रदम्॥१८॥**
 
-
-
 **तच्छ्रुत्वा भीतभीतस्स सुग्रीवो मदविह्वलः।  
 ताराशमितकोपं तं लक्ष्मणं समुपेयिवान्॥१९॥**
 
@@ -673,8 +571,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **दक्षिणाशागता वीरा हनूमत्प्रमुखास्तदा।  
 अन्विष्यन्तस्तत्र तत्र जग्मुः पथि महाबिलम्॥२३॥**
-
-
 
 **अदृष्ट्वा तत्र वैदेहीमथ दृष्ट्वा स्वयंप्रभाम्।  
 तस्मादङ्गदमुख्यास्ते तथा निर्गमिता बहिः॥२४॥**
@@ -691,16 +587,10 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **धीमता समयज्ञेन स्तुतो जाम्बवता तदा।  
 समुद्रलङ्घने श्रीमानुद्यतोऽभूत्स मारुतिः॥२८॥**
 
-
-
 **अभिवाद्य सुरान्सर्वाञ्जाम्बवत्प्रमुखानपि।  
 महेन्द्रभूधरप्रस्थमारुरोहानिलात्मजः॥२९॥**
 
-
-
 **इति किष्किन्धाकाण्डः समाप्तः॥**
-
-
 
 **॥ अथ सुन्दरकाण्डप्रारम्भः ॥**
 
@@ -715,8 +605,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **तामालोक्य पुरीं लङ्कां त्रिकूटशिखरे स्थिताम्।  
 असङ्ख्यैः स्वर्णकलशैरावृतां विस्मितोऽभवत्॥३॥**
-
-
 
 **अगाधमेतं जलधिं तरेयुर्वानराः कथम्।  
 इति सञ्चिन्तयामास बहुधा मारुतिस्तदा॥४॥**
@@ -733,8 +621,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **विचिन्वंस्तत्र वैदेहीं सुप्तां मन्दोदरीं तदा।  
 सीतेयमिति मन्वानस्तामद्राक्षीत्ससम्भ्रमम्॥८॥**
 
-
-
 **निशाचरीत्यमूं बुद्ध्वा शयानां शयने शुभे।  
 प्रासादं दशवक्त्रस्य प्रविवेशानिलात्मजः॥९॥**
 
@@ -749,8 +635,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **बहुधा चिन्तयन्नेवं विविधद्रुमसंयुताम्।  
 प्रविवेशाञ्जनासूनुरशोकवनिकां तदा॥१३॥**
-
-
 
 **विचिन्वंस्तत्र तां देवीं बहुधा राघवप्रियाम्।  
 शिंशुपाद्रुमवेद्यन्ते समैक्षत विदेहजाम्॥१४॥**
@@ -767,8 +651,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **तिरस्कृतेऽथ वैदेह्या निष्कान्ते दशकन्धरे।  
 पापेन तेन निर्दिष्टा राक्षस्यस्तामतर्जयन्॥१८॥**
 
-
-
 **राक्षसी त्रिजटा नाम तामाश्वास्य विदेहजाम्।  
 उवाच कञ्चन स्वप्नं स्वदृष्टं मैथिलीहितम्॥१९॥**
 
@@ -783,8 +665,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **सप्रणाममिदं वाक्यमुक्तवन्तं कृताञ्जलिम्।  
 मारुतिं वीक्ष्य सा सीता शशङ्के रावणं तदा॥२३॥**
-
-
 
 **तेन दत्तं ततो दृष्ट्वा रामनामाङ्गुलीयकम्।  
 मुमूर्च्छ तत्क्षणं सीता पतिदर्शनलालसा॥२४॥**
@@ -801,8 +681,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **जम्बुमालिनमाहत्य सप्त मन्त्रिसुतानपि।  
 पञ्च सेनापतींश्चाक्षं नीतश्शक्रजिता पुरम्॥२८॥**
 
-
-
 **सोऽब्रवीद्रावणं दृष्ट्वा मुञ्च राक्षस जानकीम्।**  
 **न चेद्राघवबाणस्त्वां नयेद्यमपुरीमिति॥२९॥**
 
@@ -817,8 +695,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **निशाचरास्ततस्सर्वे लाङ्गूलं तस्य वह्निना  
 संहृष्टा दीपयामासुः कार्पासपटवष्टितम्॥३३॥**
-
-
 
 **सीताभ्यर्थनशीतेन वह्निना तेन मारुतिः।  
 संवीक्ष्य रक्षसां वेश्मान्यशेषेण ददाह सः॥३४॥**
@@ -835,8 +711,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **अञ्जनातनयं दृष्ट्वा जाम्बवत्प्रमुखास्तदा।  
 ससम्भ्रमं तमालिङ्ग्य तुतुषुः प्लवगोत्तमाः॥३८॥**
 
-
-
 **अथ दृष्टेति वचनान्मुदितैस्तैस्सहाङ्गदैः।  
 गत्वा मधुवनं तत्र यथेच्छमपिबन्मधु॥३९॥**
 
@@ -849,11 +723,7 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **कान्ताविभूषणं दृष्ट्वा मत्वा तामङ्कवर्तिनीम्।  
 शुश्राव मारुतिमुखाज्जानकीवृत्तमादरात्॥४२॥**
 
-
-
 **॥ इति सुन्दरकाण्डस्समाप्तः ॥**
-
-
 
 **॥ अथ युद्धकांडप्रारम्भः ॥**
 
@@ -868,8 +738,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **तदा विभीषणो नाम राक्षसो रावणानुजः।  
 अग्रजं दुर्मतिं त्यक्त्वा राघवं शरणं ययौ॥३॥**
-
-
 
 **प्रणत त महाबाहुश्शरण्यश्श्रितवत्सलः।**  
 **उवाच रघुवीरोऽसौ धर्मात्मानं विभीषणम्॥४॥**
@@ -886,8 +754,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **सुवेलाधिष्ठितं रामं निशम्य शुकवाक्यतः।**  
 **निशाम्य च दशग्रीवो नैच्छद्दातुं विदेहजाम्॥८॥**
 
-
-
 **रघुवीरस्ततस्सैन्यैरसङ्ख्येयैस्समन्वितः।  
 रुरोध नगरीं शत्रोः रक्षस्सैन्यसमावृताम्॥९॥**
 
@@ -902,8 +768,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **मायया मेघनादस्तु निलीनो गगनस्थले।  
 कपिसैन्यान्यनेकानि जघान समिति कुधा॥१३॥**
-
-
 
 **यावद्बबन्ध नागास्त्रैस्स धीरावपि राघवौ।  
 तावत्तानि महास्त्राणि जगलुर्गरुडागमात्॥१४॥**
@@ -920,8 +784,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **ततो रावणनिर्दिष्टो ब्राह्मणास्त्रेण शक्रजित्।  
 बद्ध्वा सहानुजं रामं विजयी स्वपुरीमगात्॥१८॥**
 
-
-
 **अथ जाम्बवदादिष्टो मारुतिर्मारुतोपमः।  
 महौषधीनां लाभाय जगामौषधिपर्वतम्॥१९॥**
 
@@ -936,8 +798,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **गत्वाऽथ रावणिस्तत्र जयार्थं महतां द्विषां।  
 निकुम्भिलाख्यं सवनमारेभे नगराद्बहिः॥२३॥**
-
-
 
 **विभीषणस्य वचसा बुद्ध्वासर्वं रघूत्तमः।  
 वधाय रावणेस्तस्य प्रेषयामास लक्ष्मणम्॥२४॥**
@@ -954,8 +814,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **तुष्टुवुश्च महाभागं लक्ष्मणं सिद्धचारणाः।  
 तुतुषुर्मुनिसङ्घाश्च जगुर्गन्धर्वकिन्नराः॥२८॥**
 
-
-
 **अथ पुत्रवधं श्रुत्वा विदीर्णहृदयो भृशम्।  
 शोकावेगपरीतात्मा विललाप स रावणः॥२९॥**
 
@@ -970,8 +828,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **रथं मातलिनाऽऽनीतमिन्द्रेण प्रेषितं तदा।  
 समारुह्याथ युयुधे धृतचापस्स राघवः॥३३॥**
-
-
 
 **तेन युद्ध्वा चिरं रामोऽप्यस्त्राण्यस्त्रैर्निवारयन्।  
 चकर्त दशकण्ठस्य शिरांस्येकशतानि सः॥३४॥**
@@ -988,8 +844,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **कृताभिषेको लङ्कायां लक्ष्मणेन विभीषणः।  
 नीतवाञ्जानकीं साध्वीं रामस्य निकटं मुदा॥३८॥**
 
-
-
 **परुषं वाक्यमाकर्ण्य प्रविष्टां जातवेदसम्।  
 जग्राह सच्चरित्रांतां सीतां रामोऽग्निवाक्यतः॥३९॥**
 
@@ -1004,8 +858,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 **निवेद्य स्वागतिं पूर्वं भरताय हनूमता।  
 भरद्वाजाश्रमात्तस्मान्नन्दिग्राममगात्प्रभुः॥४३॥**
-
-
 
 **भरतेनार्थितो रामस्साकेतं प्राविशत्पुरम्।  
 निजागमनसन्तुष्टहृद्भिः पौरजनैर्वृतः॥४४॥**
@@ -1022,8 +874,6 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **रामानुज्ञातया दत्तं भूषणं सीतया मुदा।  
 कण्ठे कृत्वाऽञ्जनापुत्रशुशुभे तत्सभान्तरे॥४८॥**
 
-
-
 **अथानुज्ञाप्य सुग्रीवं लङ्केशं च विभीषणम्।  
 अनर्घैर्भूषणैर्वस्त्रैर्मानयामास राघवः॥४९॥**
 
@@ -1036,23 +886,10 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 **रञ्जयन्ननुजान्पौरान्मातृश्च सचिवानपि।  
 सीतया सहितो रामश्शशास धरणीं चिरम्॥५२॥**
 
-
-
 **॥ इति युद्धकाण्डस्समाप्तः॥**
 
 **॥सुबोधरामचरितं सम्पूर्णम् ॥**
 
 **• PRINTED AT THE LAW PRINTING HOUSE, MADRAS-1916.**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

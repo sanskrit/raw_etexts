@@ -16,31 +16,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzOTgyNjgwNTg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  These most remarkable poems contain almost all the history of ancient India, so far as it can be recovered; together with such inexhaustible details of its political, social and religious life, that the unique Hindu world reallystands epitomised in them.............The stories, songs, and ballads; the histories and genealogies; the nursery tales and religious discourses ; the art, the learning, the philosophy, the creeds, the moralities, the modes of thought, sayings, terms the very phrases, of expression and daily ideas of the Hindu people are taken from these poems.—***Sir Edwin Arnold.*** |
 
-
-
  
-
-
 
 **FOREWORD  
 ![](../books_images/U-IMG-1701062957Screenshot2023-11-27105857.png)**
@@ -49,13 +31,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzOTgyNjgwNTg
 
  Our moral nature owes a great deal of its growth and education to the work of artists. Even illiterate people are influenced by it far more profoundly than they know, for art exercises its power over us with or
 
-
-
 without our consent. When Shelley remarked that poets are the unacknowledged legislators of the world”, he meant that by their works they stir the imagination, move the mind, mould the will, in aword, change our life. Great poets are life changers.
 
  The literature of each generation reflects the turbulence of its times. It often echoes the stress in which it has been conceived. The Mahabharata takes up the original saga of the struggle between the Kauravas and the Pandavas, and weaves round it a mass of legendary lore and tradition as well as ethical and philosophical material. It describes to us an interesting period of Indian History when the country was parcelled out into little states under warlike kings, rivalling each other in the arts of peace and of war. It gives a just and illuminating account of the Indian genius both in its nobility and greatness and in its tragic weakness and insufficiencies. A strange slavery to ideas, hero worshipping and legend creating tendencies, which are still at work with us, are found there in plenty. It was the ambition of the author to take men and women as he found them and give a higher purpose to their lives. He describes the strong passions in the human breast, greed, jealousy, sensuality, addiction to drink, love of gambling, with great truth and terrible power. He yet shows that in the midst of
-
-
 
 the betrayal of ideals and the pursuit of shams, faith and purpose had not wholly gone out of life.
 
@@ -63,13 +41,9 @@ the betrayal of ideals and the pursuit of shams, faith and purpose had not wholl
 
  One or two illustrations of the valuable lessons which the Mahabharata has burnt into the Indian soul may here be given. Through the characters of Draupadi and Yudhisthira, Nala and Damayanti, Savitri and Satyavan, it emphasises the ancient tradition that the goal of perfection is through the discipline of suffering. The human instinct for justice naturally associates the thought of pain like the inevitability of death with the fact of injustice and wickedness.
 
-
-
 Pain is the shadow thrown by the dark form of evil. Not always. Pain is the means through which we fashion a better world. It is the inevitable accompaniment of the fuller triumph of the ethical order. The mystery of life is a creative sacrifice. To take another example. Though the Mahabharata describes a society distracted by deceit and intrigue and though the story is reeking with war and the spirit of war, the author clearly declares himself against the politics of power and looks upon the state not as an organisation of force but as a partnership in dharma. The modern apostles of the doctrine that the state is an end in itself with no higher duty than to maintain itself will not find support for their views in it. The view that the end of the state is to organise and establish dharma, that its powers are strictly limited by the unalterable laws which it can only enforce, has a greater appeal to the cultivated conscience of our times. *Yato* *dharmas tatojayah.* Victory waits on righteousness. The author refuses to be stampeded by the transient moods and agitations of the time but approves of the principle that righteousness exalteth a nation.
 
  This volume presents in readable English along with the Sanskrit text a condensed version of the great Epic. Translation has its limits. It vulgarises the original unless the translator is a writer of equal quality to the author. If we make allowance for the
-
-
 
 difficulties incident to the work of translation of ancient classics, it will be conceded that the present translator has achieved his work with remarkable success. To bring out in a handy volume the main incidents and the central teaching of a work of over 90,000 verses, which is of the character of an encyclopædia of life and knowledge, is a task whose difficulty and magnitude can be appreciated only by those who have attempted at one time or ofher similar undertakings. It is, however, easy to criticise the result and express one's surprise at the omission of certain passages and the inclusion of others. But there is ample justification for the claim that the abridgement represents the main theme of the story as well as its dominant teaching. The entire story is found here in a brief compass and the main incidents are narrated in the same order as in the original. It will be found useful by the modern reader who has little time and less inclination to listen to the whole epic.
 
@@ -77,14 +51,10 @@ difficulties incident to the work of translation of ancient classics, it will be
 
 **![](../books_images/U-IMG-1701067147Screenshot2023-11-27105857.png)**
 
-
-
 **TRANSLATOR'S NOTE  
 ![](../books_images/U-IMG-1701069889Screenshot2023-11-27105857.png)**
 
  THE great Epic of Mahabharata wascomposed by Sage Krishna Dvaipayana Vyasa, the grandfather of the heroes of the Epic. He taught his Epic to his son Suka and to his pupils, Vaisampayana and others. King Janamejaya, son of king Parikshit, the grandsonof the heroes of the Epic, performed a great sacrifice and during its session, the Epic was recited by Vaisampayana to Janamejaya at the bidding of Vyasa. Subsequently, Sauti recited the Epic, as done by Vaishampayana to Janamejaya, to the Brahmin Saunaka and others during a sacrifice performed by Saunaka in the Naimisa forest. The text presented in the following pages is condensed as narrated by Vaishampayana to Janamejaya, with the addition at the beginning of five benedictory lines and eight concluding lines at the end, belonging to Sauti's recital before Saunaka and others. Though Vaisampayana narrates the story all through, the account of the Great War alone is given by him as narrated by Sanjaya, the minister and charioteer, to the blind Dhritarashtra. The discourse of Bhishma in the Santi and Anusasana Parvas is given in the original, for the most part, as dialogues between
-
-
 
 several persons, but the condensed text here has given the discourse as Bhishma himself gave it to Yudhisthira.
 
@@ -94,13 +64,9 @@ several persons, but the condensed text here has given the discourse as Bhishma 
 
  Every effort has been made to render the English translation both faithful and
 
-
-
 readable. The translator is grateful to the kindness of those who helped him towards securing these two aims. If he has succeeded, it is due to Mr. K. Balasubrahmania Ayyar, Professors K. A. Nilakanta Sastri and K. Swaminathan who kindly went through the proofs and improved the rendering in many places; and to Professor Mahamahopadhyaya S. Kuppuswami Sastri who gave valuable suggestions. His thanks are due to them all. Finally, his thanks are due to Mr. G. A. Natesan also who has helped him at every stage of his work.
 
 **V. RAGHAVAN.**
-
-
 
 **PUBLISHER'S NOTE  
 ![](../books_images/U-IMG-1701067693Screenshot2023-11-27105857.png)**
@@ -118,15 +84,9 @@ readable. The translator is grateful to the kindness of those who helped him tow
 **Nov. 1935.**                            
                 **G. A. NATESAN.**
 
-
-
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  “Every scene on the shifting stage is a perfect and impressive picture. The tournament of the princes in which Arjun and Karna—the Achilles andHector of the Indian Epic—first met and each marked the other for his foe; the gorgeous bridal of Draupadi ; the equally gorgeous coronation of Yudhisthir and the death of the proud and boisterous Sisupala; the fatal game of dice and the scornful wrath of Draupadi against her insulters; the calm beauty of the forest life of the Pandavs; the cattle-lifting in Matsyaland in which the gallant Arjun threw off his disguise and stood forth as warrior and conqueror; and the Homeric speeches of the warriors in the council of war on the eve of the great contest—each scene of this venerable old Epic impresses itself on the mind of the hushed andastonished reader.”—*R. C. Dutt.* |
-
- 
-
-
 
 **?**
 
@@ -149,10 +109,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 |    वर्तित्वं     |
 |      देशेन       |
 
-
-
-
-
 |                    |
 |:------------------:|
 |  **CORRECT TEXT**  |
@@ -168,11 +124,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 |   प्रध्मापयन्तो    |
 |      -मर्चनं       |
 |     अविज्ञातो      |
-
-
-
-
-
 
 **CONTENTS  
 ![](../books_images/U-IMG-1701071042Screenshot2023-11-27105857.png)**
@@ -205,20 +156,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 
 ![](../books_images/U-IMG-1701071372Screenshot2023-11-27105857.png)  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **व्यासाय विष्णुरूपाय  
   व्यासरूपाय विष्णवे।  
 नमो वै ब्रह्मनिधये  
@@ -228,8 +165,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
   नरं चैव नरोत्तमम्।  
 देवीं सरस्वतीं व्यासं  
   ततो जयमुदीरयेत्॥**
-
-
 
 **॥ श्रीः ॥**
 
@@ -248,8 +183,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 प्रवक्ष्यामि मतं कृत्स्नं व्यासस्याद्भुतकर्मणः॥**
 
  Having made obeisance unto Hari, the primeval Being, the Master who is invoked and praised by many, the lord of our senses and the father of all that moves and all that moves not, I shall expound the whole of the thought of Vyasa of wonderful deeds.
-
-
 
 **नमो भगवते तस्मै व्यासायामिततेजसे।  
 यस्य प्रसादाद वक्ष्यामि नारायणकथामिमाम्॥**
@@ -275,8 +208,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 **तपस्तेपे सुतस्यार्थे सभार्यः \[कुरुनन्दन\]।  
 शान्तस्य जज्ञे सन्तानस्तस्मादासीत्स शान्तनुः॥**
 
-
-
  He, along with his wife, performed penance, for the sake of a son. To the Santa (Pratipa in quietude) was born a son to continue the race; and so the son came to be called Santanu.
 
 **स्वे च राज्येऽभिषिच्यैनं वनं राजा विवेश ह॥**
@@ -293,8 +224,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 चचार मृगयाशीलश्शान्तनुर्वनगोचरः॥**
 
  Endowed with the beauty of youth, manliness and strength, the virtuous Santanu, the descendant of Kuru, living happily in Hastinapura, roved (often) hunting in the forests.
-
-
 
 **स कदाचिन् \[महाराज\] ददर्श परमां स्त्रियम्।  
 यशस्विनी च साऽगच्छच्छान्तनोर्भूतये तदा॥**
@@ -316,8 +245,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 
  Promising her that it shall be so, the beautiful king Santanu rejoiced, having obtained that best of women.
 
-
-
 **अष्टावजनयत्पुत्रांस्तस्मादमरसन्निभान्।  
 जातं जातं च सा पुत्रं क्षिपत्यम्भसि \[भारत\]।  
 शान्तनुर्धर्मभङ्गाच्च नापृच्छत्तां कथञ्चन॥**
@@ -335,8 +262,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 **‘पुत्रकाम न ते हन्मि पुत्रं पुत्रवतां वर।  
 जीर्णस्तु मम वासोऽयं यथा स समयः कृतः।  
 स्वस्ति तेऽस्तु गमिष्यामि पुत्रं पाहि महाव्रतम्॥’**
-
-
 
 **Ganga—**
 
@@ -357,8 +282,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 
  Living thus happily with his son, the king of immense heroism spent four years.
 
-
-
 **स कदाचिद्वनं यातो यमुनामभितो नदीम्।  
 समीक्ष्य राजा दाशेयीं कामयामास शान्तनुः॥**
 
@@ -378,8 +301,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 **नाकामयत तं दातुं वरं दाशाय शान्तनुः।  
 प्रत्ययाद्धास्तिनपुरं कामोपहतचेतनः॥**
 
-
-
  Santanu did not like to grant the fisherman that boon. Love-mad, he returned to Hastinapura.
 
 **विवर्तु नाशकत्तस्य पिता पुत्रस्य शान्तनुः।  
@@ -398,8 +319,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 
  “I shall give (her),” replied the righteous fisherman.
 
-
-
 **ततोऽन्तरिक्षेऽप्सरसो देवास्सर्षिगणास्तदा।  
 अभ्यवर्षन्त कुसुमैः भीष्मोऽयमिति चाब्रुवन्॥**
 
@@ -415,8 +334,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 ‘त्वत्तो ह्यनुज्ञां संप्राप्य मृत्युः प्रभविताऽनघ’॥**
 
  Pleased with that actof his son, Santanu gave him a boon: “Impeccable soul! only after obtaining your permission shall Death prevail upon you.”
-
-
 
 **ततो विवाहे निर्वृत्ते सत्यवत्यामजायत।  
 वीरश्चित्राङ्गदो नाम वीर्यवान्पुरुषेश्वरः॥**
@@ -439,8 +356,6 @@ readable. The translator is grateful to the kindness of those who helped him tow
 
  At that time, a powerful Gandharva king of the same name came against
 
-
-
 Chitrangada. Between him and Chitrangada,. there was a very great battle in Kurukshetra. His superior in deceitful warfare, the Gandharva killed that warrior (Chitrangada), the best of the Kurus.
 
 **तस्मिन्पुरुषशार्दूले निहते भूरितेजसि।  
@@ -456,8 +371,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 
 **अथ काशिपतेः कन्या वृण्वाना वे स्वयंवरम्।  
 भीष्मो विचित्रवीर्याय प्रददौ विक्रमाहृताः॥**
-
-
 
  Then, Bhishma presented to Vichitravirya the daughters of the king of the Kasis, who were (then) choosing their husbands in Svayamvara and whom Bhishma had carried off by his valour.
 
@@ -475,8 +388,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 
  (Bhishma) gave Ambika and Ambalika as wives to his younger brother, Vichitravirya.
 
-
-
 **तयोः पाणी गृहीत्वा तु रूपयौवनदर्पितः।  
 ताभ्यां सह समास्सप्त विहरन्पृथिवीपतिः।  
 विचित्रवीर्यस्तरुणो यक्ष्मणा समगृह्यत॥**
@@ -493,8 +404,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 सुहृदश्च प्रहृष्येरंस्तथा कुरु परन्तप॥**
 
  Then, the dejected Satyavati spoke to Bhishma: “I know your great devotion to Truth, you hero of Truth; valorous Bhishma! act in such a manner that neither the continuity of your family nor your Dharma will suffer and that friends, too, will rejoice.”
-
-
 
 **भीष्मः—**
 
@@ -518,8 +427,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 **महर्षेः कीर्तने तस्य भीष्मः प्राञ्जलिरब्रवीत्।  
 ‘उक्तं भवत्या यच्छ्रेयस्तन्मह्यं रोचते भृशम्’॥**
 
-
-
  At the mention of thatgreat sage, Bhishma joined his hands in respect and said : “The good course that you have mentioned appeals to me strongly.”
 
 **ततस्तस्मिन्प्रतिशाते भीष्मेण \[कुरुनन्दन\]।  
@@ -537,8 +444,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 संस्कारैस्संस्कृतास्ते तु समपद्यन्त यौवनम्॥**
 
  Protected like his own sons by Bhishma from their birth, and purified by rites, they attained youth.
-
-
 
 **भीष्मेण राजा कौरव्यो धृतराष्ट्रोऽभिषेचितः।  
 अमात्यो मनुजेन्द्रस्य \[भीष्मेण\]\] विदुरः कृतः।  
@@ -558,8 +463,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 
 **‘श्रूयते यादवी कन्या स्वनुरूपा कुलस्य नः।  
 सुबलस्यात्मजा चैव तथा मद्रेश्वरस्य च ॥**
-
-
 
  “We hear that there is a Yadava maiden, suited to our family, and a daughter of Subala, and also a daughter of the king of the Madras.
 
@@ -582,8 +485,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 
  “You are our father, mother and greatest preceptor. Therefore, whatever may be for the good of this house, you yourself consider and do.”
 
-
-
 **ततो गान्धारराजस्य पुत्रः शकुनिरभ्ययात्।  
 स्वसारं धृतराष्ट्राय ददौ परमसत्कृताम्॥**
 
@@ -600,8 +501,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 जग्राह विधिवत्पाणि मायाः पाण्डुर्नराधिपः॥**
 
  Bhishma then went to the city of the king of the Madras and entered Hastinapura, bringing with him Madri, (the Madra princess). King Pandu married Madri, in the manner prescribed.
-
-
 
 **ततस्स कौरवो राजा विहृत्य त्रिदशा निशाः।  
 जिगीषया महीं पाण्डुर्निरक्रामत्पुरात् \[प्रभो\]॥**
@@ -623,8 +522,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 
  Then, Bhishma, the son of river Ganga, married the daughter of king Devaka by a Sudra wife to the lofty-minded Vidura.
 
-
-
 **तस्यां चोत्पादयामास विदुरः \[ कुरुनन्दन\]।  
 पुत्रान्विनयसम्पन्नान् आत्मनस्सदृशान्गुणैः॥**
 
@@ -640,8 +537,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 पितॄणां तु न मुक्तोऽस्मि तच्च तेभ्यो विशिष्यते॥**
 
  “Man is thus born on earth, a fourfold debtor. By doing my duties, I am released from the debts to the Seers, the gods and the people; but I am not released from the debt to the ancestors; and that debt is greater than those (other debts).”
-
-
 
 **‘अपत्यं नाम लोकेषु प्रतिष्ठा धर्मसंहिता।  
 इति कुन्ति विदुधराः शाश्वतं धर्मवादिनः’॥**
@@ -662,8 +557,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 
  That venerable Brahmin gave me a boon together with the power to bring the gods in person. He gave me this Mantra also and the time for its use has come.
 
-
-
 **‘अनुशाता त्वया देवमाद्द्येयमहं नृप।  
 अनपत्यकृतं यस्ते शोकं वीर विनेष्यति॥’**
 
@@ -683,8 +576,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 **धार्मिकं च सुतं दृष्ट्वा पाण्डुः कुन्तीमथाब्रवीत्।  
 ‘वायुमावादयस्वेति स देवो बलवत्तरः’॥**
 
-
-
  And seeing the righteous son, Pandu then told Kunti: “Invoke Vayu ; that god is mightier.”
 
 **तथोक्तवति सा काले वायुमेवाजुहाव ह।  
@@ -701,8 +592,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 यदकात्पतितो मातुश्शिलां गात्रैरचूर्णयत्॥**
 
  And as soon as Vrikodara (Bhima) was born, there happened this miracle : falling from the lap of his mother, (the child), with his limbs, reduced to dust the stone (underneath).
-
-
 
 **यस्मिन्नहनि भीमस्तु जज्ञे भीमपराक्रमः।  
 तामेव रात्रि पूर्वी तु जज्ञे दुर्योधनो नृपः॥**
@@ -724,8 +613,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 
  “It is clear, this son of yours is going to be the cause of the annihilation of the race; peace can be secured by abandoning him; great will be the impolicy in keeping him.
 
-
-
 **‘न केवलं कुलस्यान्तं क्षत्रियान्तं करिष्यति।  
 त्यजैनमेकं शान्ति चेत् कुलस्येच्छसि भारत॥’**
 
@@ -742,8 +629,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 
  Then, a full century of sons was born to Dhritarashtra in a century of days; and over and above that century of sons, a single daughter; also, a powerful and valorous son named Yuyutsu to a Vaisya wife of Dhritarashtra.
 
-
-
 **सर्वेषामनुरूपाश्च कृता दारा \[महीपते\]।  
 दुश्शलां चापि समये धृतराष्ट्रो नराधिपः।  
 जयद्रथाय प्रददौ विधिना \[भरतर्षभ\]॥**
@@ -759,8 +644,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 दिदेश कुन्त्याः कौरव्यो व्रतं सांवत्सरं शुभम्॥**
 
  Consulting then the great sages, king Pandu of the Kuru line directed Kunti to observe an auspicious vow for a year.
-
-
 
 **अथाजगाम देवेन्द्रो जनयामास चार्जुनम्॥**
 
@@ -782,8 +665,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 
  So told, (Kunti) asked Madri to meditate once on some deity. Then, after deliberation and alone, Madri meditated on the Asvins.
 
-
-
 **तावागस्य सुतौ तस्यां जनयामासतुर्यमौ।  
 नकुलं सहदेवं च रूपेणाप्रतिमौ भुवि॥**
 
@@ -803,8 +684,6 @@ Chitrangada. Between him and Chitrangada,. there was a very great battle in Kuru
 सर्वे ववृधिरेऽस्पेन कालेनाप्स्विव पङ्कजाः॥**
 
  These five and the hundred scions of the Kuru house grew up in a short time, like lotuses on the waters.
-
-
 
 **सुपुष्पितवने काले कदाचिन्मधुमाधवे।  
 भूतसंमोहने राजा सभार्यो व्यचरद्वनम्॥**
@@ -826,8 +705,6 @@ Uniting with her, Pandu died.
 
  Sorrow-stricken, Madri then told Kunti these words: “I am not so capable as you are of fostering sons. I therefore follow (my) husband; let your ladyship give me leave.”
 
-
-
 **मूध्र्न्युपाघ्राय बहुशः पार्थानात्मसुतौ तदा।  
 हस्ते युधिष्ठिरं गृह्य माद्री वाक्यमभाषत॥**
 
@@ -843,8 +720,6 @@ Uniting with her, Pandu died.
 तस्मात्सर्वे कुरुध्वं वै गुरुवृत्तिमतन्द्रिताः॥**
 
  Such as are devoted to the service of their elders and adhere to Truth and Right, never come to grief, never get humiliation. Therefore, all of you, serve your elder diligently.”
-
-
 
 **नमस्कृत्य चिताग्निस्थं धर्मपत्नी नरर्षभम्।  
 मद्रराजसुता तूर्णमन्वारोहद्यशस्विनी॥**
@@ -864,8 +739,6 @@ Uniting with her, Pandu died.
 **अथातवन्तो वेदोक्तान् संस्कारान्पाण्डवास्तदा।  
 धार्तराष्ट्रैश्च सहिताः क्रीडन्तो मुदितास्सुखम्॥**
 
-
-
  Undergoing then the purificatory rites mentioned in the Vedas, the sons of Pandu lived happily, playing in joy along with the sons of Dhritarashtra.
 
 **बालक्रीडासु सर्वासु विशिष्टास्तेजसाऽभवन्॥**
@@ -883,8 +756,6 @@ Uniting with her, Pandu died.
 
  Knowing then the very celebrated strength of Bhimasena, the powerful son of Dhritarashtra (Dhuryodhana) showed evil feelings. He was always on the look out for an opportune moment to harm the mighty Bhima.
 
-
-
 **प्रमाणकोट्यां संसुप्तं गङ्गायां प्राक्षिपज्जले।  
 उदतिष्ठद्वलाद् भूयस्तत्रैव प्रास्वपवली॥**
 
@@ -900,8 +771,6 @@ Uniting with her, Pandu died.
 तच्चापि भुक्त्वाऽजरयदविकारो वृकोदरः॥**
 
  Plotting with (an ally) Valana and in accordance with (his uncle) Sakuni's advice, Duryodhana then caused poison to be thrown into Bhima's food. And that also,Bhima ate and digested without being affected.
-
-
 
 **पाण्डवा ह्यपि तत्सर्वं प्रत्यजानम्नरिन्दमाः।  
 उद्भावनमकुर्वन्तो विदुरस्य मते स्थिताः॥**
@@ -923,8 +792,6 @@ Uniting with her, Pandu died.
 
  Vying with Arjuna, Karna, the very irascible son of the Charioteer (named Adhiratha), approached Drona then for learning the science of archery.
 
-
-
 **सर्वेषामेव शिष्याणां बभूवाभ्यधिकोऽर्जुनः।  
 अर्जुनः परमं यत्नमातिष्ठद्गुरुपूजने।  
 अस्त्रे च परमं योगम्, आह चैनं पुनर्गुरुः।  
@@ -941,8 +808,6 @@ Uniting with her, Pandu died.
 ते दर्शयेयुस्त्वां शिक्षां \[राजन्\] अनुमते तव॥**
 
  King, your sons have become fully educated; O best of the Kurus ! with your permission, they would exhibit what they have learnt.
-
-
 
 **ततो राजानमामन्त्र्य विदुरानुमतोऽपि हि।  
 भारद्वाजो महाप्राज्ञो मापयामास मेदिनीम्॥**
@@ -962,8 +827,6 @@ Uniting with her, Pandu died.
 **स्त्रियश्च राशस्सर्वास्तास्सप्रेष्यास्सपरिच्छदाः।  
 हर्षादारुरुहुर्मञ्चान् मेरुं देवस्त्रियो यथा॥**
 
-
-
 And all the ladies of the court, with their servants and retinue, ascended the galleries with joy, like celestial damsels ascending Mount Meru.
 
 **प्रवादितैश्च वादित्रैर्जनकौतूहलेन च।  
@@ -980,8 +843,6 @@ And all the ladies of the court, with their servants and retinue, ascended the g
 चक्रुः पूजां यथान्यायं द्रोणस्य च कृपस्य च॥**
 
  With finger-bands, the heroes of the Bharata race then entered. In accordance with propriety, they worshipped Drona and Kripa.
-
-
 
 **द्रोणेन समनुशाता गृह्य शस्त्रं परन्तपाः।  
 ज्याघोषं तलघोषं च कृत्वा भूतान्यमोहयन्॥**
@@ -1002,8 +863,6 @@ And all the ladies of the court, with their servants and retinue, ascended the g
 अवतीर्णौ गदाहस्तावेकशृङ्गाविवाचलौ।  
 चेरतुर्मण्डलगतौ समदाविव कुञ्जरौ॥**
 
-
-
  Then, those two eternal rivals, Duryodhana and Bhima, looking like two single-peaked mountains, entered with maces in their hands. Like rutting elephants, they moved, wheeling round and round.
 
 **कुरुराजे द्दि रङ्गस्थे भीमे च बलिनां वरे।  
@@ -1017,8 +876,6 @@ And all the ladies of the court, with their servants and retinue, ascended the g
  Victory to you, king of the Kurus! Victory to you, Bhima!": thus arose, all on a sudden, the very loud shouts of the people.
 
 **ततस्ताबुद्यतगदौ गुरुपुत्रेण वारितौ॥**
-
-
 
  Those two, Duryodhana and Bhima, having their maces uplifted, were then separated by Asvatthaman, the son of their teacher.
 
@@ -1039,8 +896,6 @@ And all the ladies of the court, with their servants and retinue, ascended the g
 
  “This is the glorious son of Kunti; this is the middle-born son of Pandu; he
 
-
-
 is the greatest of the masters of weapons, the most eminent of those who uphold righteousness. Thus were heard the tumultuous voices of the spectators.
 
 **दर्शयामास बीभत्सुराचार्यायास्त्रलाघवम्॥**
@@ -1056,8 +911,6 @@ is the greatest of the masters of weapons, the most eminent of those who uphold 
 
 **स निरीक्ष्य महाबाहुस्सर्वतो रङ्गमण्डलम्।  
 प्रणामं द्रोणकृपयोर्नात्याइतमिवाकरोत्॥**
-
-
 
  Looking round the amphitheatre, that Karna of mighty arm made a bow, as if not very respectfully, to Drona and Kripa.
 
@@ -1076,8 +929,6 @@ is the greatest of the masters of weapons, the most eminent of those who uphold 
 यन्त्रोत्क्षिप्त इवोत्तस्थौ क्षिप्रं वै सर्वतो जनः॥**
 
  Then, before Karna's speech was finished, the people around rose up suddenly, as if flung upwards by a machine.
-
-
 
 **प्रीतिश्च \[मनुजव्याघ्र\] दुर्योधनमुपाविशत् ।  
 हीश्च क्रोधश्च बीभत्सुं क्षणेनान्वाविवेश ह॥**
@@ -1100,8 +951,6 @@ is the greatest of the masters of weapons, the most eminent of those who uphold 
 
  “Welcome to you, O warrior of mighty arm ! you who have given us prestige ! it.
 
-
-
 is fortunate that you have come. Enjoy pleasures with me and be doing good to my kinsmen. You subduer of enemies! place your foot on the heads of all foes.”
 
 **ततः क्षिप्तमिवात्मानं मत्वा पार्थोऽभ्यभाषत।  
@@ -1117,8 +966,6 @@ is fortunate that you have come. Enjoy pleasures with me and be doing good to my
 
 **ततो दुर्योधनेनापि सभ्रात्रा समरोद्यतः।  
 परिष्वक्तस्स्थितः कर्णः प्रगृह्य सशरं धनुः॥**
-
-
 
  Then, Karna, embraced by Duryodhana along with his brothers, stood ready for fight, taking the bow with the arrow.
 
@@ -1140,8 +987,6 @@ is fortunate that you have come. Enjoy pleasures with me and be doing good to my
 
  “(Karna!), this younger son of Pandu, born of Kunti and the scion of the Kuru line, shall fight a duel with you.
 
-
-
 **‘त्वमप्येवं महाबाहो मातरं पितरं कुलम्।  
 कथयस्व नरेन्द्राणां येषां त्वं कुलभूषणम्॥  
 ततो विदित्वा पार्थस्त्वां प्रतियोत्स्यति वा न वा’॥**
@@ -1155,8 +1000,6 @@ is fortunate that you have come. Enjoy pleasures with me and be doing good to my
 
 **उवाच कौरवं \[राजन्\] वचनं स वृषस्तदा।  
 ‘अस्य राज्यप्रदानस्य सदृशं किं ददानि ते’॥**
-
-
 
  At that time, Karna told Duryodhana: “What shall I give you to equal this gift of a kingdom?”
 
@@ -1175,8 +1018,6 @@ is fortunate that you have come. Enjoy pleasures with me and be doing good to my
 
  On seeing him, Karna, bound by his respect for his father, threw the bow and, with his head wet with the coronation-water, bowed.
 
-
-
 **तं दृष्टा सूतपुत्रोऽयमिति सञ्चिन्त्य पाण्डवः।  
 भीमसेनस्तदा वाक्यमब्रवीत्प्रहसन्निव॥**
 
@@ -1192,8 +1033,6 @@ is fortunate that you have come. Enjoy pleasures with me and be doing good to my
 सोऽब्रवीन्द्रीमकर्माणं भीमसेनमवस्थितम्॥**
 
  The mighty Duryodhana then jumped up in ire and spoke to that Bhima of terrible deeds standing there:
-
-
 
 **‘वृकोदर न युक्तं ते वचनं वक्तुमीदृशम्।  
 शूराणां च नदोनां च प्रभवो दुर्विभावनः।  
@@ -1211,8 +1050,6 @@ is fortunate that you have come. Enjoy pleasures with me and be doing good to my
 रथमारुह्य पद्भ्यां स विनामयतु कार्मुकम्’॥**
 
  “This ruler of men merits the kingdom of the whole world, not the kingdom of the Angas only. And to whomsoever this act of mine is not bearable, let him mount
-
-
 
 the chariot and, with his feet, bend his bow.”
 
@@ -1234,8 +1071,6 @@ the chariot and, with his feet, bend his bow.”
 **अर्जुनेति जनः कश्चित् कश्चित्कर्णेति \[भारत\]।  
 कश्चिद्दुर्योधनेत्येवं ब्रुवन्तः प्रस्थित स्तदा॥**
 
-
-
  ‘Arjuna says one; ‘Karna’ says another; ‘Duryodhana' says a third; so saying, the people then departed.
 
 **दुर्योधनस्यापि तदा कर्णमास्थाय \[पार्थिव\]।  
@@ -1254,8 +1089,6 @@ the chariot and, with his feet, bend his bow.”
 स्थापितो धृतराष्ट्रेण पाण्डुपुत्रो युधिष्ठिरः॥**
 
  Then at the end of a year, Yudhisthira, the son of Pandu, was established as heir-apparent by Dhritarashtra.
-
-
 
 **ततोऽदीर्घेण कालेन कुन्तीपुत्रो युधिष्ठिरः।  
 पितुरन्तर्दधे कीर्ति शोलवृत्तसमाधिभिः॥**
@@ -1278,8 +1111,6 @@ the chariot and, with his feet, bend his bow.”
 
 **अपि चार्थे तव पुरा शक्रेण किल चोदितः॥**
 
-
-
  “Long ago, He was urged by Indra on your behalf.
 
 **(कृष्णः—)**
@@ -1300,8 +1131,6 @@ the chariot and, with his feet, bend his bow.”
 तस्मात्तवापि सदृशस्तं विनाऽभ्यधिकः पुमान्।  
 न चेह भविता लोके तमेव शरणं व्रज’॥**
 
-
-
  “So, Arjuna, did Hari (Krishna), the lord of all, tell Indra once (concerning you). Therefore, equal to you or superior to you, there will be none in the world except Him ; seek Him for (thy) protection.”
 
 **तथेति च प्रतिज्ञाय द्रोणाय कुरुपुङ्गवः।  
@@ -1321,8 +1150,6 @@ the chariot and, with his feet, bend his bow.”
 **भीमसेनसहायश्च रथानामयुतं च सः।  
 अर्जुनस्समरे प्राच्यान् सर्वानेकरथोऽजयत्॥**
 
-
-
  With a single chariot and with Bhima as his aid, Arjuna conquered in battle all the kings of the east with (their) myriad chariots.
 
 **तथैवैकरथो गत्वा दक्षिणामजयद्दिशम्।  
@@ -1340,8 +1167,6 @@ the chariot and, with his feet, bend his bow.”
 
  Thus did the Pandavas, all of them great souls and best of men, conquer the enemy kingdoms of yore and expand their own kingdom.
 
-
-
 **ततो बलमतिख्यातं विशाय दृढधन्विनाम्।  
 दूषितस्सहसा भावो धृतराष्ट्रस्य पाण्डुषु।  
 स चिन्तापरमो राजा न निद्रामलभन्निशि॥**
@@ -1358,8 +1183,6 @@ the chariot and, with his feet, bend his bow.”
 प्रत्याख्याय पुरा राज्यं न जातु ग्रहीष्यति॥**
 
  Having no eye, how can Dhritarashtra be the king? And Bhishma, son of Santanu, one who is true to his promise and who rigidly observes his vow, having once renounced the kingdom, will never take it.
-
-
 
 **‘ते वयं पाण्डवज्येष्ठं तरुणं वृद्धशीलिनम्।  
 अभिषिञ्चाम साध्वद्य सत्यकारुण्यवेदिनम्’॥**
@@ -1380,8 +1203,6 @@ the chariot and, with his feet, bend his bow.”
 **‘मतमेतच्च भीष्मस्य न स राज्यं बुभुक्षति।  
 अस्माकं तु परां पोडां चिकीर्षन्ति पुरे जनाः॥**
 
-
-
  “ And this is agreeabe to Bhishma, for he does not want to enjoy the kingdom. It is to us that the people in the city want to do great harm.
 
 **‘पितृतः प्राप्तवान् राज्यं पाण्डुरात्मगुणैः पुरा।  
@@ -1395,8 +1216,6 @@ the chariot and, with his feet, bend his bow.”
 ध्रुवं प्राप्स्याम च वयं राज्यमप्यवशे जने’॥**
 
  ‘King, if you had secured this kingdom previously, we should get the kingdom for certain, even if the people are not under our control.”
-
-
 
 **धृतराष्ट्रस्तु सञ्चिन्त्य दुर्योधनमथाब्रवीत्॥**
 
@@ -1421,8 +1240,6 @@ Dhritarashtra reflected and then told Duryodhana :
 
  "There will be danger for us from the Pandavas. Banish them to the city of Varanavata by some clever device.
 
-
-
 **यदा प्रतिष्ठितं राज्यं मयि राजन् भविष्यति।  
 तदा कुन्ती सहापत्या पुनरेष्यति भारत॥**
 
@@ -1442,8 +1259,6 @@ Dhritarashtra reflected and then told Duryodhana :
 गमने पाण्डपुत्राणां जज्ञे तत्र मतिः \[नृप\]॥**
 
  When the city of Varanavata was described as beautiful in that manner, the idea of going there occurred to the sons of Pandu.
-
-
 
 **यदा त्वमन्यत नृपो जातकौतूहला इति।  
 उवाचैतानेत्य तदा पाण्डवानम्बिकासुतः॥**
@@ -1465,8 +1280,6 @@ Dhritarashtra reflected and then told Duryodhana :
 
  Duryodhana, that wicked soul, exulted greatly. He brought his minister Purochana and said:
 
-
-
 **पाण्डवा धृतराष्ट्रेण प्रेषिता वारणावतम्।  
 तत्र गत्वा चतुश्शालं गृहं परमसंवृतम्।  
 नगरोपान्तमाश्रित्य कारयेथा महाधनम्॥**
@@ -1486,8 +1299,6 @@ Dhritarashtra reflected and then told Duryodhana :
 **'ज्ञात्वा च तान् सुविश्वस्तान् शयानानकुतोभयान्।  
 अग्निस्त्वया ततो देयो द्वारतस्तस्य वेश्मनः’॥**
 
-
-
  Making sure that they are quite unsuspecting, and asleep, and without fear from any quarter, you must then set fire to the house at the entrance.”
 
 **स तथेति प्रतिशाय सर्व चक्रे पुरोचनः।  
@@ -1502,8 +1313,6 @@ Dhritarashtra reflected and then told Duryodhana :
 अनुशिक्ष्यानुगम्यैतान् विदुरः प्रययौ गृहान्॥**
 
  Vidura spoke these words to Yudhisthira, the best of the Pandavas: “He survives who protects himself knowing that fire which burns wood and destroys frost
-
-
 
 in the interior of a big forest cannot burn the creatures living in holes.” Having advised (them) thus and accompanied them (to some distance), Vidura went (back) to his dwelling.
 
@@ -1522,8 +1331,6 @@ in the interior of a big forest cannot burn the creatures living in holes.” Ha
 चक्रे च वेश्मनस्तस्य मध्ये नातिमहद्विलम्॥**
 
  A friend of Vidura, an expert digger, dug somewhere in the middle of that house a fairly big subway.
-
-
 
 **वत्र ते सायुधास्सर्वे वसन्ति स्म क्षपां \[नृप\]।  
 विश्वस्तवदविश्वस्ता वञ्चयन्तः पुरोचनम्॥**
@@ -1544,8 +1351,6 @@ in the interior of a big forest cannot burn the creatures living in holes.” Ha
 पार्थानां दर्शयामास नावं विस्रम्भिभिः कृताम्।  
 तारयित्वा ततो गङ्गां यथागतमगाद्धि सः॥**
 
-
-
  At that time then, a man of knowledge, who had been sent out by Vidura to live abroad, showed to the Pandavas a boat constructed by trustworthy men and having made them cross the Ganges, he went away as he came.
 
 **गङ्गामुत्तीर्य वेगेन भीमसेनो महाबलः।  
@@ -1560,8 +1365,6 @@ in the interior of a big forest cannot burn the creatures living in holes.” Ha
 
 **भीष्मा \[राजन्\] दुर्धर्षो विदुरच महामतिः।  
 जहृषाते स्मरन्तौ तौ जातुषाग्नेर्विमोचनम्॥**
-
-
 
  The unassailable Bhishma and the wise Vidura rejoiced, knowing of the escape (of the Pandavas) from the conflagration of the lac house.
 
@@ -1579,8 +1382,6 @@ in the interior of a big forest cannot burn the creatures living in holes.” Ha
 अभ्यद्रवत संक्रुद्धो भीमसेनमरिन्दमम्।  
 निगृह्य तं बलाद्भीमः पशुमारममारयत्॥**
 
-
-
  When they were lying there, a demon named Hidimba ran at Bhima, the subduer of enemies, in great anger; seizing him by force, Bhima killed him as he would an animal.
 
 **हिडिम्बा भगिनी तस्य भीमसेनमभाषत।  
@@ -1597,8 +1398,6 @@ in the interior of a big forest cannot burn the creatures living in holes.” Ha
 आमन्त्र्य रक्षसां श्रेष्ठः प्रतस्थे चोत्तरां दिशम्॥**
 
  “I shall wait on you when there is anything to be done”: thus taking leave of his father and uncles (Bhima and
-
-
 
 his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the Rakshasas, set out towards the north.
 
@@ -1620,8 +1419,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **समीपे नगरस्यास्य बको वसति राक्षसः।  
 तेनोपसृष्टा नगरी त्रातारं नाधिगच्छति॥**
 
-
-
  In the vicinity of that city (Ekachakra), there lived the demon Baka. Infested by him, the city could not get a saviour.
 
 **आसाद्य तु वनं तस्य बकं भीमोबभञ्ज है।  
@@ -1642,8 +1439,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 तामथ प्रत्युवाचेदमीशानो वदतां वरः।  
 “पञ्च ते पतयो भने भविष्यन्तीति भारताः”॥**
 
-
-
  “She pleased Ged Siva with severe penance and then the most eloquent Siva told her this: Auspicious lady ! five scions of the Bharata line will become your husbands.’
 
 **‘द्रुपदस्थ कुले जज्ञे सा कन्या देवरूपिणी।  
@@ -1661,8 +1456,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
  The people nowhere knew those warriors, come (there) in that manner.
 
-
-
 **यज्ञसेनस्य कामस्तु पाण्डवाय किरीटिने।  
 दास्यामि कृष्णामिति वै न चैनं विवृणोति सः॥**
 
@@ -1678,8 +1471,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 इति स द्रुपदो राजा स्वयंवरमघोषयत्॥**
 
  “Whosoever strings this bow and with these arrows set (thereon) pierces, through the machine, the target, he shall obtain my daughter”—thus did king Drupada announce the Svayamvara.
-
-
 
 **वच्छत्वा पार्थिवास्सर्वे समीयुस्तत्र \[भारत\]।  
 दुर्योधनपुरोगाश्च सकर्णाः कुरवो \[नृप\]।  
@@ -1701,8 +1492,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
  Holding a golden ornamented garland, Draupadi then came into the amphitheatre.
 
-
-
 **तेऽलङ्कृताः कुण्डलिनो युवानः  
   परस्परं स्पर्धया प्रेक्षमाणाः।  
 कृष्णा ममैवेत्यभिभाषमाणा  
@@ -1722,8 +1511,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
  When the kings had turned back from the act of stringing the bow, Arjuna, keeping Krishna in his mind, took the bow.
 
-
-
 **सज्यं च चक्रे निमिरान्तरेण  
   विव्याध लक्ष्यं निपपात तच्च॥**
 
@@ -1741,8 +1528,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 ‘सर्वेषां द्रौपदी भार्या भविष्यति हि नश्शुभा’॥**
 
  (Yudhisthira), the best among men, thought of the whole of Vyasa's words. The king (Yudhisthira), afraid of mutual quarrel, told his brothers assembled together:“Beautiful Draupadi shall become the wife of us all.”
-
-
 
 **तत आहूय पाञ्चाल्यो राजपुत्रं युधिष्ठिरम्।  
 पर्यपृच्छददीनात्मा कुन्तीपुत्रं सुवर्चसम्।  
@@ -1765,8 +1550,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 यादवैस्सह सर्वेश्च पाण्डवानभिजग्मतुः।  
 रेमिरे पाण्डवैस्सार्धं ते पाञ्चालपुरे तदा॥**
 
-
-
  Then Balaraina and mighty Krishna with all the Yadavas came to the Pandavas and they made merry with the Pandavas in the Panchala city at that time.
 
 **विदुरस्त्वय ताञ्छ्रुत्वा द्रौपद्या पाण्डवान्वृतान्।  
@@ -1780,8 +1563,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 आकारच्छादनार्थाय दिष्टया दिष्टयेति चाब्रवीत्॥**
 
  On hearing these words of Vidura, the king, to conceal his feeling, said: Luckily luckily.”
-
-
 
 **ततो दर्योधनश्चापि राधेयश्च \[विशांपते\]।  
 धृतराष्ट्रमुपागम्य वचोऽब्रूतामिदं तदा॥**
@@ -1804,8 +1585,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **‘अद्दमप्येवमेवैतच्चिकीर्षामि यथा युवाम्।  
 विवेक्तुं नाहमिच्छामि त्वाकारं विदरं प्रति॥**
 
-
-
 **Dhritarashtra—**
 
  “I too am desirous of doing this even as you are, but I do not want to disclose my intention to Vidura.
@@ -1827,8 +1606,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **Bhishma—**
 
  Hostility in any manner with the sons of Pandu is not to my liking. Surely, as Dhritarashtra is to me, so is Pandu also.
-
-
 
 **‘मधुरेणैव राज्यस्य तेषामधं प्रदीयताम्।  
 न चापि तेषां वीराणां जीवतां कुरुनन्दन।  
@@ -1853,8 +1630,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
  “Bhishma, the best of the Kurus, has spoken words which are pleasing and beneficial; and what best and salutary in various ways has been spoken by Drona.
 
-
-
 **‘एतद्धि परमं श्रेयो मन्येऽहं तव भारत॥**
 
  “Scion of Bharata : I consider this as the greatest good for you.
@@ -1877,8 +1652,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **‘दुर्योधनश्च कर्णश्च शकुनिश्चापि सौबलः।  
 अधर्मयुक्ता दुष्प्रज्ञा वाला मैषां वचः कृथाः॥’**
 
-
-
  Duryodhana, Karna andSakuni are unrighteous, of vicious mind and (mere) boys; do not do what they say.”
 
 **धृतराष्ट्रः—**
@@ -1899,8 +1672,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **ददर्श पाण्डवांस्तत्र वासुदेवं च \[भारत\]।  
 वचनाद् धृतराष्ट्रस्य पप्रच्छानामयं ततः॥**
 
-
-
  There he saw the Pandavas and Krishna. He then enquired of their welfare in Dhritarashtra's name.
 
 **ततस्ते समनुज्ञाता द्रुपदेन महात्मना।  
@@ -1920,8 +1691,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
 **विश्रान्तास्ते महात्मानः कञ्चित्कालं सकेशवाः।  
 आहूता धतराष्टेण राज्ञा शान्तनवेन च॥**
-
-
 
  When they had rested for some time along with Krishna, the high-souled Pandavas were called by king Dhritarashtra and Bhishma.
 
@@ -1944,8 +1713,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
  “Vidura, delay not ; bring the things necessary for the coronation; now shall I have the scion of Kuru (Yudhisthira) crowned.
 
-
-
 **‘ब्राह्मणा नैगमश्रेष्ठाः श्रेणीमुख्याश्च सर्वशः।  
 आहूयन्तां प्रकृतयो बान्धवाश्च विशेषतः॥**
 
@@ -1965,8 +1732,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 मूर्धाभिषिक्तं कौन्तेयं धृतराष्ट्रोऽब्रवीदिदम्॥**
 
  At that moment, Vyasa, with Krishna's permission, crowned Yudhisthira in the prescribed manner. And Dhritarashtra spoke this:
-
-
 
 **‘समक्षं वासुदेवस्य कुरूणां च समक्षतः।  
 अभिषेकस्त्वया प्राप्तो दुष्प्रापो ह्यकृतात्मभिः**
@@ -1988,8 +1753,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
  Vasudeva, the lord of the universe, thought of Indra. Going to Kesava at the bidding of Indra, and bowing to Him who is worthy of salutation, Visvakarman said: “ What shall I do ?”
 
-
-
 **वासुदेवस्तु तच्छ्रुत्वा विश्वकर्माणमूचिषान्।  
 ‘कुरुष्व कुरुराजस्य महेन्द्रपुरसन्निभम्।  
 इन्द्रेण कृतनामानमिन्द्रप्रस्थं महापुरम्॥**
@@ -2007,8 +1770,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
  Brahmins, the best among those who knew all the Vedas, came to that city; similarly those knowing all languages loved to live there; and merchants and artisans of all kinds came there.
 
-
-
 **उद्यानानि च रम्याणि नगरस्य समन्ततः।  
 तटाकानि च रम्याणि बृहन्ति सुबहूनि च॥**
 
@@ -2021,8 +1782,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 तोरणद्वारसुमुखं प्रविवेश महाद्युतिः॥**
 
  With the auspicious rites and worship performed by Brahinins who were masters of the Vedas, with Vyasa in the front and in obedience to Dhaumya, king Yudhisthira of great splendour entered, together with his brothers and Krishna, Indraprastha, which teemed with people of the four castes and was beautiful with arched gateways.
-
-
 
 **प्रविश्य भवनं राजा ततो वार्ष्णेयमब्रवीत्।  
 ‘तब प्रसादाद्वाष्र्णेय राज्यं प्राप्तं मयानघ।  
@@ -2039,8 +1798,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **Krishna—**
 
  “King, this vast kingdom has beenobtained by your greatness and by your own Dharma. How can this kingdom handed down by your father and grand-father fail to be yours?Protect the world according to its wishes.Uphold Dharma for all time.”
-
-
 
 **प्राप्य राज्यं महातेजास्सत्यसन्धो युधिष्ठिरः।  
 पालयामास धर्मेण पृथिवीं भ्रातृभिस्सह॥**
@@ -2061,8 +1818,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **ततः प्रीतिकरो यूनां विवाहपरमोत्सवः।  
 भद्रवत्यै सुभद्रायै सप्तरात्रमवर्तत॥**
 
-
-
  Then the great festival of marriage, which gives joy to the young, took place for seven nights for the auspicious Subhadra.
 
 **सुभद्रा सुषुवे वीरमभिमन्युं नरर्षभम्।  
@@ -2080,8 +1835,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **दिव्यगर्भोपमैः पुत्रैर्व्यूढोरस्कैर्महारथैः।  
 अन्विता \[राजशार्दूल\] पाण्डवा मुदमाप्नुवन्॥**
 
-
-
  The Pandavas rejoiced inthe company of those valorous sons of broad chests, who looked like divine children.
 
 **ततः कतिपयाहस्य बीभत्सुः कृष्णमब्रवीत्।  
@@ -2098,8 +1851,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 सोऽब्रवीदर्जनं चैव वासुदेवं च सात्वतम्॥**
 
  At that time, a Brahmin, of the colour of smelted gold, approached (them); he said to Arjuna and Krishna:
-
-
 
 **‘भिक्षे वार्ष्णेयपार्थौ वां पावकं मां निबोधतम्।  
 स युवाभ्यां सहायाभ्यामस्त्रविद्भयां समागतः।  
@@ -2119,8 +1870,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **ततः पावकमब्रूतां प्रहृष्टावर्जुनाच्युतौ।  
 ‘कामं संप्रज्वलाद्यैव कल्यौ स्वस्साह्यकर्मणि’॥**
 
-
-
  Overjoyed, Arjuna and Krishna told the god of fire: “Burn as you please even now; we are ready for your help.”
 
 **एवमुक्तस्स भगवान्दाशार्हेणार्जुनेन च।  
@@ -2138,8 +1887,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
  When that forest was being burnt, the fire did not burn six beings,—Asvasena (a serpent), Maya (the architect of the demons) and four Sarnga birds.
 
-
-
 **अहोभिरेकविंशद्भिर्विरराम सुतर्पितः॥**
 
  The fire, fully satisfied, came to an end after twenty-one days.
@@ -2154,8 +1901,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **THUS ENDS THE ADIPARVA.**
 
 ![](../books_images/U-IMG-1701170113Screenshot2023-08-08170946.png)
-
-
 
 **॥अथ सभापर्व॥  
 ![](../books_images/U-IMG-1701170357Screenshot2023-11-28164852.png)**
@@ -2176,8 +1921,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **विश्रुतां त्रिषु लोकेषु दिव्यां मणिमयीं शुभाम्।  
 तां तु कृत्वा सभां श्रेष्ठां विसृष्टः प्रययौ मयः॥**
 
-
-
  Maya built an excellent hall, famous in the three worlds, wonderful, completely inlaid with precious stones and beautiful, and given leave, went away.
 
 **अथ तत्रोपविष्टेषु पाण्डवेषु महात्मसु।  
@@ -2194,8 +1937,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 यन्त्रैश्च परिपूर्णानि तथा शिल्पिधनुर्धरैः॥**
 
  “Are all the forts full with money, corn, missiles, and water, machines, artisans and archers?
-
-
 
 **‘कश्चिद्विनयसंपन्नः सत्कृतस्ते पुरोहितः॥**
 
@@ -2216,8 +1957,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
  “Distinguished scion of Bharata! do you maintain the wives of men who lay down their lives and come to grief in your cause?
 
-
-
 **‘कच्चिदायस्य चार्धेन चतुर्भागेन चा पुनः।  
 पादभागैस्त्रिभिर्वाऽपि व्ययस्संशुध्यते तव॥**
 
@@ -2235,8 +1974,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
 **‘कच्चिद्राष्ट्रे तटाकानि पूर्णानि च बृहन्ति च।  
 भागशो विनिविष्टानि न कृषिर्देवमातृका॥**
-
-
 
  “ Are tanks in your country full, big, and distributed in the several areas? Is agriculture not dependent on rains only?
 
@@ -2258,8 +1995,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **‘कश्चिदन्धांश्च मूकांश्च पङ्गन्व्यङ्गानवान्धवान्।  
 पितेव पासि धर्मज्ञ तथा प्रव्रजितानपि ॥**
 
-
-
  “You whoknow Dharma ! doyou protect like a father the blind, the dumb, and the lame, those who are physically deficient (in other ways), those who have no kith or kin and those who have renounced the world.
 
 **‘षडनर्था महाराज कच्चित्ते पृष्ठतः कृताः।  
@@ -2275,8 +2010,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
 **ऋषेस्तद्वचनं श्रुत्वा जगाम मनसा हरिम् ।  
 पाण्डवो भूतगुरवे प्राहिणोद्दतमञ्जसा॥**
-
-
 
  Hearing those words of the sage, Yudhisthira thought of Hari (Krishna). Quickly, he despatched a messenger to the Lord of beings (Krishna).
 
@@ -2296,8 +2029,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 **‘त्वत्कृते पृथिवी सर्वा मद्रशे कृष्ण वर्तते।  
 धनं च बहु वार्ष्णेय त्वत्प्रसादादुपार्जितम्।  
 अनुज्ञातस्त्वया कृष्ण प्राप्नुयां ऋतुमुत्तमम्॥’**
-
-
 
 **Yudhisthira—**
 
@@ -2319,8 +2050,6 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
  Permitted by Krishna, Yudhisthira, the destroyer of his foes, sent Nakula to Bhishma, Drona, Dhritarashtra, Vidura, and
 
-
-
 Kripa, to all his brothers and also to those who had love for Yudhisthira.
 
 **दीक्षितस्स तु धर्मात्मा धर्मराजो युधिष्ठिरः।  
@@ -2338,8 +2067,6 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 
 **‘एष ह्येषां समस्तानां तेजोबलपराक्रमैः।  
 मध्ये तपन्निवाभाति ज्योतिषामिव भास्करः॥’**
-
-
 
 **Bhishma—**
 
@@ -2363,8 +2090,6 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 
 ** **“Yudhisthira, you overlook all or do not see them at all? When there are others who deserve worship, you have honoured a cowherd !
 
-
-
 **‘ननु त्वयाऽपि बोद्धव्यं यां पूजां माधवाईसि।  
 अयुक्तामात्मनः पूजां त्वं पुनर्बहुमन्यसे॥**
 
@@ -2384,8 +2109,6 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 
  Then, Krishna, armed with the discus and the mace, the destroyer of (the Asura) Kesin, cut off with his discus Sunitha's (Sisupala's) head in the fight.
 
-
-
 **ततः प्रववृते यज्ञः केशवेन सुरक्षितः॥**
 
  The sacrifice then went on, protected well by Krishna.
@@ -2404,8 +2127,6 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 **पाण्डवा नृपतीन्सर्वानेकैकं समनुव्रजन्।  
 प्रययौ पुण्डरीकाक्षस्ततो द्वारवर्ती पुरीम्॥**
 
-
-
  The Pandavas accompanied everyone of those kings, as befitting them. Then, Krishna left for the city of Dvaraka.
 
 **गतेषु क्षत्रियेन्द्रेषु सर्वेषु \[भरतर्षभ\]।  
@@ -2423,8 +2144,6 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 शान्ति न परिगच्छामि दह्यमानेन चेतसा॥’**
 
  “Seeing Yudhisthira's prosperity, the food I eat does not please me. I have no peace, with a heart that is burning.”
-
-
 
 **शकुनिः—**
 
@@ -2450,8 +2169,6 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 **‘अयमुत्सहते राजन् श्रियमाहर्तुमक्षवित्।  
 द्यूतेन पाण्डुपुत्रस्य तदनुज्ञातुमर्हसि॥’**
 
-
-
 **Duryodhana—**
 
  “King, this Sakuni, expert with the dice, ventures to capture the riches of Yudhisthira through gambling; you must permit that.”
@@ -2470,8 +2187,6 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 पुत्रैर्भेदो यथा न स्याद् द्यतहेतोस्तथा कुरु’॥**
 
  Hearing that, the wise Vidura said these words: “King, I do not approve of this resolve of yours. Act in such a manner that there will be no split amongst your sons because of this game of dice.”
-
-
 
 **धृतराष्ट्रः—**
 
@@ -2497,8 +2212,6 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 इदं तु त्वां कुरुराजोऽभ्युवाच  
   सुहदद्यतं क्रियतां रम्यतां च॥**
 
-
-
 **Vidura—**
 
  “The great king, along with his sons, is well and, surrounded by his kinsmen, is like Indra himself. That Kuru king (Dhritarashtra) said this for you: “Let friendly dice be played and enjoyed.”
@@ -2515,8 +2228,6 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 प्रायाच्छ्रोभूते सगणस्सानुयात्र-  
   स्सहस्त्रीभिद्रौपदीमादिकृत्वा॥**
 
-
-
  “Once called, I wil! never turn back.” Having told Vidura so, Yudhisthira went (to Hastinapura) the next day, with his party and retinue and with the women headed by Draupadi.
 
 **स हस्तिनपुरं गत्वा धृतराष्ट्रेण पाण्डवः।**  
@@ -2532,8 +2243,6 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 **शकुनिस्सौबलस्तत्र युधिष्ठिरमभाषत।  
 ‘उपस्तीर्णा सभा राजन् सर्वे त्वयि कृतक्षणाः।  
 अक्षानुप्त्वा देवनस्य समयोऽस्तु युधिष्ठिर॥’**
-
-
 
  There, Sakuni addressed Yudhisthira: “King, the dice-cloth has been spread in the hall (here) ; everybody is expecting you; Yudhisthira, let there be an understanding for casting the dice and playing."
 
@@ -2556,8 +2265,6 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 
  “I shall give, o king. jewels and money, and on my behalf, this uncle of mine, Sakuni, shall play.”
 
-
-
 **युधिष्ठिरः—**
 
 **‘अन्येनान्यस्य वै घृतं विषमं प्रतिभाति मे।  
@@ -2573,8 +2280,6 @@ Kripa, to all his brothers and also to those who had love for Yudhisthira.
 एतद्राजन्मम धनं तेन दीव्याम्यहं त्वया॥’**
 
  “There are beautiful chests each filled with a thousand pieces of gold; (my) treasury of inexhaustible gold; excellent horses celebrated in (all) countries; hundred thousand attendant women, experts in dance and songs; my elephants numbering a thousand and capable of standing every noise in battle; bulls and horses with numerous
-
-
 
 cows, numberless goats and sheep;— this, king, is my wealth. With this, I will play with you.”
 
@@ -2594,8 +2299,6 @@ cows, numberless goats and sheep;— this, king, is my wealth. With this, I will
  “King, these ear-rings, necklaces and all the royal ornaments, adorned with which these princes (my brothers) shine, these are my property; with these I play with you.”
 
 **जितमित्येव शकुनिर्युधिष्ठिरमभाषत॥**
-
-
 
  “I have won,” said Sakuni to Yudhisthira, nothing more.
 
@@ -2618,8 +2321,6 @@ cows, numberless goats and sheep;— this, king, is my wealth. With this, I will
   लोके ह्यस्मिन् पण्डिताख्यां गतश्च।  
 अनर्हता राजपुत्रेण तेन  
   दीव्याम्यहं चाप्रियवत् प्रियेण॥’**
-
-
 
 **Yudhisthira—**
 
@@ -2644,8 +2345,6 @@ cows, numberless goats and sheep;— this, king, is my wealth. With this, I will
 
  “Won,” said Sakuni to Yudhisthira.
 
-
-
 **युधिष्ठिरः—**
 
 **‘बलेन तुल्यो यस्य पुमान्न विद्यते  
@@ -2669,8 +2368,6 @@ cows, numberless goats and sheep;— this, king, is my wealth. With this, I will
 **Sakuni—**
 
  “You have lost much wealth, your brothers, as well as horses and elephants;Yudhisthira, tell me if you have any wealth that has not been won (by me).”
-
-
 
 **युधिष्ठिरः—**
 
@@ -2697,8 +2394,6 @@ cows, numberless goats and sheep;— this, king, is my wealth. With this, I will
 
  “King, there is your wife, a wager not yet lost; stake Draupadi and win back thine own self.”
 
-
-
 **युधिष्ठिरः—**
 
 **‘यादश धर्मकामार्थसिद्धिमिच्छेन्नरस्त्रियम् ।  
@@ -2716,8 +2411,6 @@ cows, numberless goats and sheep;— this, king, is my wealth. With this, I will
 भीष्मद्रोणकृपादीनां स्वेदश्च समजायत॥**
 
  The assembly became agitated; the kings became afflicted; Bhishma, Drona Kripa and others perspired.
-
-
 
 **शिरो गृहीत्वा विदुरो गतसत्त्व इवाभवत्।  
 आस्ते ध्यायन्नधोवस्त्रो निश्वसन्निव पन्नगः॥**
@@ -2738,8 +2431,6 @@ He did not hide his feelings.
 **सौबलो जितमित्येव तानक्षानन्वपद्यत॥**
 
  Sakuni played the dice with the word “Won”.
-
-
 
 **दुर्योधनः—**
 
@@ -2763,8 +2454,6 @@ He did not hide his feelings.
 
  “Fool, such as is unbecoming of one like you has been spoken by you; you do
 
-
-
 not realise yourself caught in a noose; you do not realise yourself hanging over a precipice; a deer that you are, you infuriate tigers beyond limits!
 
 **न हि दासीत्वमापन्ना कृष्णा भवितुमर्हति।  
@@ -2778,8 +2467,6 @@ not realise yourself caught in a noose; you do not realise yourself hanging over
   मुवाच चैनं परमार्थमध्ये॥**
 
  “Fie upon Vidura.” So saying, the son of Dhritarashtra, infatuated with pride, looked at Pratikami (his messenger) and in that assembly and in the midst of the most noble persons, told him:
-
-
 
 **‘त्वं प्रातिकामिन् द्रौपदीमानयस्व  
   न ते भयं विद्यते पाण्डवेभ्यः।  
@@ -2799,8 +2486,6 @@ not realise yourself caught in a noose; you do not realise yourself hanging over
   दुर्योधनो द्रौपदि त्वामजैषीत्।  
 सा त्वं प्रपद्यस्व धृतराष्ट्रस्य वेश्म  
   नयामि त्वां कर्मणे याज्ञसेनि ॥’**
-
-
 
 **Pratikami—**
 
@@ -2822,8 +2507,6 @@ not realise yourself caught in a noose; you do not realise yourself hanging over
 न्यस्ताः पूर्वं भ्रातरस्तेन राज्ञा  
   स्वयं चात्मा त्वमथो राजपुत्री॥**
 
-
-
 **Pratikami—**
 
  “When there was nothing else to wager, then (also) Yudhisthira played; the brothers were first wagered by the king, his own self (then) and then you, princess !
@@ -2843,8 +2526,6 @@ not realise yourself caught in a noose; you do not realise yourself hanging over
 
  He went to the gambling hall and told Yudhisthira these words. Yudhisthira became unconscious and like one whose life had gone. Good or bad, no word
 
-
-
 did Yudhisthira tell the charioteer in reply.
 
 **दुर्योधनः—**
@@ -2862,8 +2543,6 @@ did Yudhisthira tell the charioteer in reply.
   किं ते करिष्यन्त्यवशास्सपत्नाः॥’**
 
  “Dussasana, this stupid son of mycharioteer is afraid of Bhima. You your-self seize and bring Draupadi. What can the enemies who have lost their freedom do to you?”
-
-
 
 **ततस्समुत्थाय स राजपुत्रः  
   श्रुत्वा भ्रातुश्शासनं रक्तदृष्टिः।  
@@ -2884,8 +2563,6 @@ did Yudhisthira tell the charioteer in reply.
 आर्ता प्रदुद्राव यतस्त्रियस्ता  
   वृद्धस्य राज्ञः कुरुपुङ्गवस्य॥**
 
-
-
  Very much troubled in mind, she arose, and wiping her face which had turned pale, the distressed Draupadi ran to where the ladies of the venerable king Dhritarashtra, the distinguished scion of Kuru, were.
 
 **दुश्शासनस्तामभिगर्जमानो  
@@ -2905,8 +2582,6 @@ did Yudhisthira tell the charioteer in reply.
 कृष्णं च जिष्णुं च हरिं नरं च  
   त्राणाय विक्रोशति याज्ञसेनी॥**
 
-
-
  Holding Draupadi forcibly by her dark hair, Dussasana then spoke to her. (At that time), Draupadi cried for help to Krishna and Arjuna, Narayana and Nara.
 
 **‘रजस्वला वा भव याज्ञसेनि  
@@ -2923,8 +2598,6 @@ did Yudhisthira tell the charioteer in reply.
 
  With dishevelled hair and half-fallen garment and tossed about by Dussasana,
 
-
-
 bashful Draupadi, burning with anger, slowly spoke these words:
 
 **‘इदं त्वकार्य कुरुवीरमध्ये  
@@ -2940,8 +2613,6 @@ bashful Draupadi, burning with anger, slowly spoke these words:
   न लक्षयन्ते कुरुवृद्धमुख्याः॥’**
 
  “Is there no good sense in Drona, Bhishma, or even in this high-souled Vidura and king Dhritarashtra, that these, the chief among the Kuru elders, do not notice this terrible Adharma?”
-
-
 
 **दुश्शासनश्चाणि समीक्ष्य कृष्णा-  
   मुवाच दासीति हसन्सशब्दम्।  
@@ -2963,8 +2634,6 @@ bashful Draupadi, burning with anger, slowly spoke these words:
 
  “Blessed lady ! onewho is not a master has no power to wager another's
 
-
-
 property;and awoman is subordinate to her husband:— considering this I am not able to determine the truth of this question owing to the subtlety of Dharma.
 
 **‘त्यजेत सर्वा पृथिवीं समृद्धां  
@@ -2982,8 +2651,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 इयं च कीर्तिता कृष्णा सौबलेन पणार्थिना।  
 एतत्सर्व विचार्याहं मन्येन विजितामहम्॥’**
 
-
-
 **Vikarna (a son of Dhritarashtra)—**
 
  “Kauravas, what I think right in this matter, I shall speak: this irreproachable Draupadi is common to all the Pandavas; she was staked by Yudhisthira, who himself had already been won; and Draupadi was mentioned by Sakuni who wanted her as the wager; considering all this, I think, she has not been won.”
@@ -2998,8 +2665,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 भवत्य विजिता केन हेतुनैषा मता तव॥**
 
  When that noise had died down, Karna said this: “Draupadi was mentioned by name and she (as stake) was accepted by the Pandavas; on what ground is she viewed by you as not won?
-
-
 
 **‘मन्यसे वा सभामेतामानीतामेकवाससम्।  
 अधर्मेणेति तत्रापि शृणु मे वाक्यमुत्तमम्॥**
@@ -3020,8 +2685,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  “Dussasana ! an urchin, this Vikarna talks like a wiseacre; seize the clothes of the Pandavas and Draupadi.”
 
-
-
 **तच्छ्रुत्वा पाण्डवास्सर्वे स्वानि वासांसि \[भारत\]।  
 अवकीर्योत्तरीयाणि सभायां समुपाविशन्॥**
 
@@ -3038,8 +2701,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  “When great calamity befalls, Lord Hari (Krishna) must be thought of.” So deciding in mind, Draupadi, while her cloth was being pulled off, thought of Krishna who is affectionate to those who seek him as refuge.
 
-
-
 **‘शङ्खचक्रगदापाणे द्वारकानिलयाच्युत।  
 गोविन्द पुण्डरीकाक्ष रक्ष मां शरणागताम्॥  
 हा कृष्ण द्वारकावासिन्क्वासि यादवनन्दन।  
@@ -3055,8 +2716,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **इत्यनुस्मृत्य कृष्णं सा हरिं त्रिभुवनेश्वरम्।  
 प्रारुदद्दुःखिता \[राजन्\] मुखमाच्छाद्य भामिनी॥**
-
-
 
  Having thus contemplated upon Krishna, Hari, the Lord of the three worlds, that beautiful lady, covering her face, cried in her distress.
 
@@ -3078,8 +2737,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 **कर्णो दुश्शासनं त्वाह कृष्णां दास गृहान्नय।  
 दुश्शासनस्सभामध्ये विचकर्ष तपस्विनीम्॥**
 
-
-
  Karna told Dussasana: “Take the slave Draupadi into the house.” And Dussasana dragged the poor woman in the midst of the assembly.
 
 **द्रौपदी—**
@@ -3096,8 +2753,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 हा हताऽस्मि सुमन्दात्मा सुयोधनवशं गता॥’**
 
  “Gandhari! why do you not save your own daughter-in-law, who is being harassed ? Alas! I, this wretched self, gone under Duryodhana's control, shall perish.”
-
-
 
 **विदुरः—**
 
@@ -3118,8 +2773,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 अचिन्त्य क्षत्तुर्वचनं हर्षेणायतलोचनः।  
 ऊरू दर्शयते पापो द्रौपद्या वै मुहुर्मुहुः॥**
 
-
-
  Then, in that assembly, forcibly impelled by Fate and folly, without thinking of the words of Vidura, with his eyes expanding in delight, evil Duryodhana gestured to Draupadi, often and often, asking her to sit on his thighs.
 
 **द्रौपदी—**
@@ -3135,8 +2788,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 तस्माद्रुधिरमेवास्य पास्यते वै वृकोदरः॥**
 
  “Since this wicked brother of yours (Dussasana) harasses me thus, Bhima shall drink his blood.
-
-
 
 **‘इमं च पापिष्ठमति कर्णे ससुतबान्धवम्।  
 सामात्यं सपरीवारं हनिष्यति धनञ्जयः॥**
@@ -3158,8 +2809,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  Hearing Draupadi's words, the valorous Arjuna seized his bow, jumped up and looked at those enemies.
 
-
-
 **उत्पतन्तं तु वेगेन ततो दृष्टा धनञ्जयम्।  
 उवाच स घृणी ज्येष्ठो धर्मराजो युधिष्ठिरः॥**
 
@@ -3177,8 +2826,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 तं रासभाः प्रत्यभाषन्त \[राजन्\]  
   समन्ततः पक्षिणश्चैव रौद्राः॥**
 
-
-
  At that time, in the sacrificial fire-hall in king Dhritarashtra's house, a jackal yelled at the top of its voice and asses and terrible birds answered it from all sides.
 
 **तं वै शब्द विदुरस्तत्त्ववेदी  
@@ -3194,8 +2841,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
  ततो राजा बाक्यमिदं बभाषे॥**
 
  Noticing that terrible evil portent and distressed, Gandhari and the wise Vidura informed the king; and the king (Dhritarashtra) said these words:
-
-
 
 **हतोऽसि दुर्योधन मन्दबुद्धे  
   यस्त्वं सभायां कुरुपुङ्गवानाम्।  
@@ -3213,8 +2858,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 वधूनां हि विशिष्टा मे त्वं धर्मपरमा सती॥’**
 
  “Ask of me a boon, Draupadi, of what you want; virtuous and one to whom Dharma is everything, you are the most distinguished of my daughters-in-law.”
-
-
 
 **द्रौपदी—**
 
@@ -3243,8 +2886,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  “I request that, with their chariots and bows, Bhima and Arjuna as also the twins may cease to be slaves and become free.”
 
-
-
 **धृतराष्ट्रः—**
 
 **‘तथाऽस्तु ते महाभागे यथा त्वं नन्दिनीच्छसि।  
@@ -3268,8 +2909,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 **‘अजातशत्रो भद्रं ते अरिष्टं स्वस्ति गच्छत।  
 अनुशातास्सहधनास्स्वराज्यमनुशासत॥**
 
-
-
 **Dhritarashtra—**
 
  “Yudhisthira, may there be welfare for you; go you (all) safe and untroubled; permitted by me, and with all your riches, rule your own kingdom.
@@ -3287,8 +2926,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 भ्रातृभिस्तेऽस्तु सौभ्रात्रं धर्मे ते धीयतां मनः॥’**
 
  “Yudhisthira, may there be welfare for you; go to Khandavaprastha; may there be brotherly amity between you and your brothers; may your mind be set on Dharma.”
-
-
 
 **इत्युक्तो \[भरतश्रेष्ठ\] प्रतस्थे भ्रातृभिस्सद्द॥**
 
@@ -3314,8 +2951,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 **‘न क्षंस्यन्ते तथाऽस्माभिर्जातु विप्रकृता हि ते।  
 द्रौपद्याश्च परिक्लेशं कस्तेषां क्षन्तुमर्हति॥**
 
-
-
  “Harmed by us in that manner, they (Pandavas) will never put up (with that); who amongst them will put up with Draupadi's molestation ?
 
 **‘अर्जुनेन समो लोके नास्ति वीर्ये धनुर्धरः।  
@@ -3331,8 +2966,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **‘पुनर्दीव्याम भद्रं ते वनवासाय पाण्डवैः।  
 एवमेतान्वशे कर्तुं शक्ष्यामः पुरुषर्षभ॥**
-
-
 
  “Most distinguished of men ! May there be weal for you; with forest life as the condition, we shall play again; thus shall we be able to keep them in our control.
 
@@ -3354,8 +2987,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  “Quickly bring them back, even if they have gone very far on the road; let the Pandavas come and again play this game of dice.”
 
-
-
 **अथाब्रवीद्धर्मयुक्ता गान्धारी शोककर्शिता॥**
 
  Then, the righteous Gandhari, emaciated in sorrow, told (Dhritarashtra).
@@ -3371,8 +3002,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **अन्तः कामं कुलस्यास्तु न शक्नोमि निवारितुम्।  
 पुनर्धतं च कुर्वन्तु मामकाः पाण्डवैस्सह॥”**
-
-
 
 **Dhritarashtra :—**
 
@@ -3393,8 +3022,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 **Yudhisthira—**
 
  Beings obtain good and bad on the dictate of Fate; I am not able to disobey this call for gambling because of the command of the old man, though I know it to be ruinous.”
-
-
 
 **इति ब्रुवन्निववृते भ्रातृभिस्सह पाण्डवः।  
 जानंश्च शकुनेर्मायां पार्थो द्यूतमियात्पुनः॥**
@@ -3417,8 +3044,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  “If defeated by you, we shall go into the great forests, clad in deerskin, for twelve years; also, we shall live the whole of the thirteenth year, unknown to our kinsmen; and if we are discovered we shall live in the forests for another twelve years.
 
-
-
  “If you are defeated by us, you shall, along with Draupadi, live in the forests for twelve years, clad in deerskin; also the whole of the thirteenth year, unknown to your kinsmen; and if you are discovered you shall live in the forests for another twelve years.
 
  “With this resolve, play again, you scion of Bharata.”
@@ -3431,8 +3056,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 जितमित्येव शकुनिर्युधिष्ठिरमभाषत॥**
 
  Possessed thus by the power of Fate, Yudhisthira, though incessantly prevented by Bhishma, Drona, the wise Vidura, Gandhari, Kunti, Draupadi and Asvatthaman, replied to Sakuni: “Be it so.” At that time, Sakuni took the dice and simply told Yudhisthira : “Won.”
-
-
 
 **अजिनैस्संवृतान्दृष्ट्वा हतराज्यानरिन्दमान्।  
 प्रस्थितान्वनवासाय ततो दुश्शासनोऽब्रवीत्॥**
@@ -3450,8 +3073,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
   क्लीबाः पार्थाः पतयो याज्ञसेन्याः॥**
 
  “Most unfortunate in this world has that very wise descendant of the Somaka race, king Drupada, become by giving his daughter Draupadi to the Pandavas; eunuchs are the Pandavas, the husbands of Draupadi.
-
-
 
 **‘सूक्ष्मप्रावारानजिनोत्तरीयान्  
   दृष्टाऽरण्ये निर्धनानप्रतिष्ठान्।  
@@ -3474,8 +3095,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  “Even as you now pierce our vitals severely with your word-shafts, Iwill tear your vitals in battle and remind you of this.
 
-
-
 **‘नृशंस परुषं वक्तुं शक्यं दुश्शासन त्वया।  
 निकृत्या हि धनं लब्ध्वा को चिकत्थितुमर्हति॥**
 
@@ -3495,8 +3114,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 शिरः पादेन चास्याहमधिष्ठास्यामि भूतले॥**
 
  “I shall kill this evil Duryodhana in battle with my mace; and upon his head (lying) on the ground, I shall set my foot.
-
-
 
 **‘वाक्यशूरस्य चैवास्य परुषस्य दुरात्मनः।  
 दुश्शासनस्य रुधिरं पातास्मि मृगराडिव॥’**
@@ -3523,8 +3140,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **![](../books_images/U-IMG-1701322801Screenshot2023-06-15124029.png)**
 
-
-
 **॥ अथ वनपर्व ॥  
 ![](../books_images/U-IMG-1701323501Screenshot2023-11-27132539.png)**
 
@@ -3542,8 +3157,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 एवमुक्ताऽनुजग्मुस्ते पाण्डवांस्तान्समेत्य च॥**
 
  Learning that the Pandavas were departing, the sorrow-stricken citizens said: “Well, we will go where the Pandavas go,” and followed them in a body.
-
-
 
 **युधिष्ठिरः—**
 
@@ -3565,8 +3178,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  So requested by Yudhisthira, those intensely afflicted subjects returned against their wish. And the Pandavas, riding their chariots, went to the forest named Kamyaka, dear to ascetics.
 
-
-
 **तत्र ते न्यवसन्वोरा वने बहुमृगद्विजे।  
 अन्वास्यमाना मुनिभिस्सान्व्यमानाश्च \[भारत\]॥**
 
@@ -3584,8 +3195,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **‘वासुदेव हृषीकेश त्वयि सर्वं प्रतिष्ठितम् ।  
 सा तेऽहं दुःखमाख्यास्ये प्रणयान्मधुसूदन॥**
-
-
 
 **Draupadi—**
 
@@ -3608,8 +3217,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 **‘नन्विमे शरणं प्राप्तं न त्यजन्ति कदाचन।  
 ते मां शरणमापनां नान्वपद्यन्त पाण्डवाः॥**
 
-
-
  “These Pandavas never forsake one who seeks them as refuge! They did not come to rescue me who had taken shelter under them!
 
 **अधर्मेण हृतं राज्यं सर्वे दासाः कृतास्तथा।  
@@ -3625,8 +3232,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **‘नैव मे पतयस्सन्ति न पुत्रा न च बान्धवाः।  
 न भ्रातरो न च पिता नैव त्वं मधुसूदन ॥**
-
-
 
  “I have no husbands, no sons, no kinsmen, no brothers, no father, not even you, Krishna.
 
@@ -3649,8 +3254,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  (Addressing Yudhisthira)— “King, had I been present in Dvaraka then, you would not have come to this pass.
 
-
-
 **‘आगच्छेयमहं\] द्यूतमनाङ्गतोऽपि कौरवैः।  
 वारयेयमहं द्यतं बहुदोषान्प्रदर्शयन्॥**
 
@@ -3671,8 +3274,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 द्वारकां प्रययौ कृष्णः, धृष्टद्युम्नोऽपि पार्षतः।  
 द्रौपदेयानुपादाय प्रययौ स्वपुरं तदा॥**
 
-
-
  Having told Yudhisthira thus, the mighty Krishna, the best among men, left for Dvaraka, taking Subhadra and Abhimanyu in his golden chariot. And Dhrishtadyumna, son of Drupada, also departed for his city, taking the sons of Draupadi.
 
 **पुण्यं द्वैतवनं रम्यं विविशुर्भरतर्षभाः॥**
@@ -3690,8 +3291,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **‘नेह धर्मानृशंस्याभ्यां न क्षान्त्या नार्जवेन च।  
 पुरुषः श्रियमाप्नोति न घृणित्वेन कर्हिचित्॥**
-
-
 
  “Not by Dharma and kindness, not by forbearance, not by straightforwardness, and never by being compassionate, does a man attain prosperity in this world.
 
@@ -3713,8 +3312,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 **‘धर्म एव प्लवो नान्यस्स्वर्गं द्रौपदि गच्छताम्।  
 ईश्वरं चापि भूतानां धातारं मा च वैक्षिप॥’**
 
-
-
  “Draupadi, to those who go to heaven, Dharma alone is the boat (that will take them), nothing else. And do not traduce the Lord who is the creator of all beings.”
 
 **द्रौपदी—**
@@ -3735,8 +3332,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 स्वधर्माद्धि मनुष्याणां चलनं न प्रशस्यते।  
 तस्माच्छत्रवधे राजन् क्रियतां निश्चयस्त्वया॥’**
 
-
-
 **Bhima—**
 
  Through our obedience to you, our kingdom has been snatched away before our very eyes. Saying ‘Dharma, Dharma’, you emaciate yourself with austerities. The special Dharma of a Kshatriya is bodily strength. Swerving from one's Dharma is not praise worthy for men. Therefore, king, may you decide upon. killing our foes.”
@@ -3754,8 +3349,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 ते श्रिताः कौरवं पक्षं जातस्नेहाश्च सांप्रतम्।  
 अशक्यो ह्यसहायेन हन्तुं दुर्योधनस्त्वया॥**
 
-
-
  “The kings who had been put to trouble by us have joined the side of the Kauravas and are now attached (to them). Duryodhana cannot be killed by you unaided.
 
 **‘न निद्रामधिगच्छामि चिन्तयानो वृकोदर।  
@@ -3772,8 +3365,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 आजगाम महायोगी व्यासस्सत्यवतीसुतः॥**
 
  As these two sons of Pandu were thus conversing, there arrived Vyasa, the great Yogin, the son of Satyavati.
-
-
 
 **व्यासः—**
 
@@ -3795,8 +3386,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 युधिष्ठिरस्तु धर्मात्मा वनाद् द्वैतवनात्ततः।  
 ययौ सरस्वतीकूले काम्यकं नाम काननम्॥**
 
-
-
  After imparting thus the Yoga vidya, Vyasa disappeared. The righteous Yudhisthira went from that Dvaita forest to the forest known as Kamyaka on the banks of the Sarasvati.
 
 **संस्मृत्य मुनिसन्देशमर्जुनं \[पुरुषर्षभ\]।  
@@ -3815,8 +3404,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **तमुवाच महातेजाः प्रहसन् वृषभध्वजः।  
 ‘ददामि तेऽस्त्रं दयितमहं पाशुपतं विभो’॥**
-
-
 
  Smiling, Siva of great splendour told Arjuna: “Sovereign, I give you this Pasupata missile that is dear to you.”
 
@@ -3838,8 +3425,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  After receiving the missiles, Arjuna thought of his brothers.
 
-
-
 **गते तु पाण्डवे \[तात\] काम्यकात्सव्यसाचिनि।  
 मुदमप्राप्नुवन्तस्ते वसन्तस्तत्र तत्र छ।  
 दहशुर्विविधाश्चर्ये कैलासं पर्वतोत्तमम्।  
@@ -3857,8 +3442,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  Arjuna returned and joined his brothers and Draupadi in joy. He paid his respects to Yudhisthira.
 
-
-
 **समेत्य पार्थेन यथैकरात्र-  
   मूषुस्समास्तत्र तथा चतस्रः।  
 पूर्वाश्च षट् ता दश पाण्डवानां  
@@ -3872,8 +3455,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
   संवत्सरं तत्र बने विजह्रुः॥**
 
  Crossing back the impassable Himalayan region along the same route by which they went, all the Pandavas then reached that part of the big mountain where the Jumna has its source; and in the forest there, they lived pleasantly for a year.
-
-
 
 **ते द्वादशं वर्षमथोपयान्तं  
   सरस्वतीमेत्य निवासकामाः।  
@@ -3890,8 +3471,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **ततस्तान्वसतस्तत्र सहितस्सत्यभामया।  
 उपायादेवकीपुत्रो दिदृक्षुः कुरुसत्तमान्॥**
-
-
 
  Then, accompanied by ( his wife) Satyabhama, the son of Devaki, (Krishna) came to the Pandavas, the best of the Kurus, living there (in the Kamyaka forest ), wishing to see them.
 
@@ -3911,8 +3490,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 दाशार्हयोधैस्तु हतारियोधं  
   प्रतीक्षतां नागपुरं प्रभग्नम्॥’**
 
-
-
  “King, with horsemen, foot-soldiers, horses, chariots and elephants, the army is ready for your purposes. May you see the city of Hastinapura razed, with the enemy warriors killed by my Dasarha soldiers.”
 
 **युधिष्ठिरः—**
@@ -3931,8 +3508,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 अज्ञातचर्यां विधिवत्समाप्य  
   भवद्गताः केशव पाण्डवेयाः॥**
 
-
-
  “As undertaken, the period, all the twelve years, has been spent in uninhabited forests; finishing in the due manner the incognito life, the Pandavas will resort to you, Krishna.”
 
 **ततस्तैस्संविदं कृत्वा द्रौपदीं परिसान्त्व्या च।  
@@ -3949,8 +3524,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 **यहच्छया च तत्रस्थो धर्मपुत्रो युधिष्ठिरः॥**
 
  Accidentally, Yudhisthira also was there.
-
-
 
 **सेनाग्र्यं धार्तराष्ट्रस्य गन्धर्वास्समवारयन्।  
 तत्र गन्धर्वराजो वै पूर्वमेव गणावृतः॥**
@@ -3971,8 +3544,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 इति दुर्योधनामात्याः क्रोशन्तो राजगृद्धिनः।  
 आर्ता दीनास्ततस्सर्वे युधिष्ठिरमुपागमन्॥**
 
-
-
  “King Duryodhana and all his harem are being carried away by the Gandharvas.” So cried Duryodhana's ministers who loved their king. Afflicted and miserable, all of them came to Yudhisthira.
 
 **भीमः—**
@@ -3989,8 +3560,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 सुयोधनस्य मोक्षाय प्रयतध्वमतन्द्रिताः॥**
 
  King Yudhisthira told Bhima who was talking thus: “Differences do exist among kinsmen; (but) the duty of kinsmen does not suffer (thereby). Strive without sloth to rescue Duryodhana.
-
-
 
 **‘परैः परिभवे प्राप्ते वयं पञ्चोत्तरं शतम्।  
 परस्परविरोधे तु वयं पञ्चैव ते शतम्॥’**
@@ -4011,8 +3580,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  Then Arjuna said this to Chitrasena, laughing: “You warrior, what may be your intention in capturing the Kauravas?”
 
-
-
 **चित्रसेनः—**
 
 **‘वनस्थान्भवतो ज्ञात्वा क्लिश्यमानाननर्हवत्।  
@@ -4032,8 +3599,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 ‘मा स्म तात पुनः कार्षीरीदृशं साहसं क्वचित्।  
 गृहान्ब्रज यथाकामं वैमनस्यं च मा कृथाः॥’**
 
-
-
  Then, Yudhisthira toldfreedDuryodhana these words:“My dear Duryodhana, don't venturethus again anywhere; go home, as you please; don't be sorry.”
 
 **पाण्डवेनाभ्यनुज्ञातो राजा दुर्योधनस्तदा।  
@@ -4051,8 +3616,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 तमादाय गतो राजंस्त्वरमाणो महामृगः।  
 तस्य गत्वा पदं राजंस्तदानयत पाण्डवाः॥’**
 
-
-
  “A vessel containing the Sami sticks used to kindle fire was hung in a tree. King, a big stag has taken it and sped away. Tracking it, king (and) you Pandavas, bring it back (to me).
 
 **ब्राह्मणार्थे यतन्तस्ते शीघ्रमन्यगमन्मृगम्।  
@@ -4068,8 +3631,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **नकुलः प्राद्रवद्यत्र पानीयं चान्वपद्यत।  
 पातुकामस्ततो वाचमन्तरिक्षात्स शुश्रुवे॥**
-
-
 
  Nakula ran to where there was water and approached it; then, as he was desirous of drinking it, he heard an aerial voice.
 
@@ -4091,8 +3652,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 सव्यसाची पिपासातः पीत्वैव निपपात ह।  
 भीमोऽभ्यधावत्पानीयं पीत्वैव निपपात ह॥**
 
-
-
  Similarly, Sahadeva drank the water and fell down; Arjuna, afflicted with thirst, drank and fell down; Bhima ran to the water, drank and fell down.
 
 **ततश्चिरगतान्भ्रात्रूनथाज्ञाय युधिष्ठिरः।  
@@ -4109,8 +3668,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 **Yudhisthira—**
 
  “To the measure of my knowledge, I will answer your questions; question me.”
-
-
 
 **यक्षः—**
 
@@ -4136,8 +3693,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **‘पुत्र आत्मा मनुष्यस्य भार्या दैवकृतस्सखा॥**
 
-
-
  “His son is the soul of man; his wife is his fate-ordained friend.
 
 **‘लाभानामुत्तमं किं स्यात्सुखानां स्यात्किमुत्तमम्?’**
@@ -4158,8 +3713,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  “Benevolence is greater than Dharma; Vedic Dharma is fruitful for all time; subduing their minds, men grieve not; and friendship with the good never ages.”
 
-
-
 **‘किन्नु हित्वा प्रियो भवति किन्नु हित्वा न शोचति?  
 किन्नु हित्वाऽर्थवान्भवति किन्नु हित्वा सुखी भवेत्?**
 
@@ -4174,8 +3727,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 क्षमा च का परा प्रोक्ता का च वीः परिकीर्तिता?’**
 
  “How is Tapas defined? What is said to be self-control? What is said to be the greatest forbearance? And what is the sense of shame said to be?”
-
-
 
 **‘तपस्स्वधर्मवतित्वं मनसो दमनं दमः।  
 क्षमा द्वन्द्वसहिष्णुत्वं हीरकार्यनिवर्तनम्॥’**
@@ -4194,8 +3745,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 कीदृशश्च स्मृतस्साधुरसाधुः कोहशस्स्मृतः?’**
 
  “Which is the enemy difficult to beovercome by men? Which is the endless disease? Of what nature is a good man said to be and of what nature is a bad man said to be?”
-
-
 
 **‘क्रोधस्सुदुर्जयश्शत्रुर्लोभो व्याधिरनन्तकः।  
 सर्वभूतहितस्साघुरसाधुर्निर्दयस्स्मृतः॥’**
@@ -4216,8 +3765,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **‘अहन्यहनि भूतानि गच्छन्तीह यमालयम्।  
 शेषास्स्थावरमिच्छन्ति किमाश्चर्यमतः परम्॥’**
-
-
 
  “Day after day in this world, living beings pass away to the abode of Death; the rest desire to be for ever! What greater wonder than this?”
 
@@ -4246,8 +3793,6 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
  “King! why do you wish Nakula alive, the son of your step-mother?”
 
-
-
 **युधिष्ठिरः—**
 
 **‘आनृशंस्यं चिकीर्षामि नकुलो यक्ष जीवतु।  
@@ -4270,8 +3815,6 @@ any difference between them.
 यद्वस्संकल्पितं रूपं तादृशं धारयिष्यथ।  
 अरणीसहितं भाण्डं ब्राह्मणाय प्रयच्छत॥’**
 
-
-
 **Yaksha—**
 
  “Benevolence is regarded by you as greater than Artha and Kama; therefore, illustrious Bharata, let all yourbrothers come to life. My son, you who are mild in the display of your power! I am your father, God Dharma. These fire-rods of that Brahmin were carried away by me. Kuru-scions! by my grace, you will spend this thirteenth year, hidden and unknown, in the Virata capital. Take such forms as you desire for yourselves. Hand over this vessel with the fire-sticks to the Brahmin.”
@@ -4285,8 +3828,6 @@ any difference between them.
 
 **THUS ENDS THE VANA PARVA.  
 ![](../books_images/U-IMG-1701405221Screenshot2023-06-15123943.png)**
-
-
 
 **॥अथ विराटपर्व॥  
 ![](../books_images/U-IMG-1701405307Screenshot2023-11-27132539.png)**
@@ -4307,8 +3848,6 @@ any difference between them.
 **Yudhisthira—**
 
  “I think I shall become a member of the court of king Virata. I will call myself Kanka, a knower of dice and an expert gambler.”
-
-
 
 **भीमः—**
 
@@ -4333,8 +3872,6 @@ any difference between them.
 
 **‘अश्वाध्यक्षो भविष्यामि विराटस्येति मे मतिः।  
 दामग्रन्थीति नाम्नाऽहं कर्मैतत् सुप्रियं मम॥’**
-
-
 
 **Nakula—**
 
@@ -4361,8 +3898,6 @@ any difference between them.
 **एवं तेऽन्योन्यमामन्त्र्य सङ्क्रामन्तो वनाद्वनम्।  
 लुब्धान्त्रवाणा मात्स्यस्य विषयं प्राविशंस्तदा॥**
 
-
-
  Having told each other thus, and moving from forest to forest describing themselves as hunters, the Pandavas entered the territory of the king of the Matsyas.
 
 **अर्जुनः—**
@@ -4382,8 +3917,6 @@ any difference between them.
 **विराटनगरे चेरुः प्रच्छन्नाः पुरुषर्षभाः।  
 कर्माणि तस्य कुर्वाणा विराटनृपतेस्तदा॥**
 
-
-
  Doing service to the king of Virata, those illustrious Pandavas lived concealed in the capital of Virata.
 
 **तस्मिन्वर्षे गतप्राये कीचको द्रुपदात्मजाम्।  
@@ -4402,8 +3935,6 @@ any difference between them.
 येन त्रिगर्ता निहताः कीचकेन बलीयसा।  
 स हतो निशि गन्धर्वैस्त्रीनिमित्तं नराधिप॥’**
 
-
-
  “King, the whole world, mountains andforests included, has been searched everywhere, and we do not find the Pandavas. That mighty Kichaka who devastated the Trigarta country has been killed in the night by some Gandharvas, on account of some woman."
 
 **दुर्योधनः—**
@@ -4419,8 +3950,6 @@ any difference between them.
 **विराटनगरे मन्ये पाण्डवाश्छन्नचारिणः॥**
 
  “I think, it is in Virata's capital that the Pandavas are living concealed.
-
-
 
 **‘मत्स्यराष्ट्रं गमिष्यामो ग्रहीष्यामध गोधनम्।  
 गृहीते गोधने नूनं तेऽपि योत्स्यन्ति पाण्डवाः॥’**
@@ -4444,8 +3973,6 @@ any difference between them.
 **निवृत्य गास्ततस्सर्वाः पाण्डवास्ते हतद्विषः।  
 सङ्गामशिरसो मध्ये तां रात्रिं सुखिनोऽवसन्॥**
 
-
-
  After defeating the enemies and recovering the cattle, the Pandavas spent that night in happiness in the midst of the battle-field.
 
 **याते त्रिगर्तान्मात्स्ये तु पशंस्तान्वै परीप्सति।  
@@ -4459,8 +3986,6 @@ any difference between them.
 आरुह्य प्रययौ वीरः स बृहन्नलसारथिः।**
 
  Alarmed, the chief of the shepherds then went to the palace, and seeing Bhuminjaya, (son of the Virata king), told him all about the cattle-raid. That warrior, Bhuminjaya, mounted (his chariot) and sallied forth, with Brihannala as the charioteer.
-
-
 
 **तदनीकमथो वीक्ष्य गजाश्वरथसङ्कुलम्।  
 कर्णदुर्योधनकृपैर्गुप्तं शान्तनवेन च।  
@@ -4478,8 +4003,6 @@ any difference between them.
 **समाश्वास्य भयार्तं तमुत्तरं भरतर्षभः।  
 उत्तरं सारथिं कृत्वा शर्मा कृत्वा प्रदक्षिणम्।  
 आयुधं सर्वमादाय ततः प्रायोद्धनञ्जयः॥**
-
-
 
  Making the fear-stricken Uttara (Bhuminjaya, the son of Virata) take heart, Arjuna, the illustrious Bharata, made him his charioteer, went round the Sami tree, took all his weapons and then went forth (for the fight).
 
@@ -4499,8 +4022,6 @@ any difference between them.
 
 **एको हि समरे पार्थः पृथिवीं निर्दहेच्छरैः।  
 भ्रातृभिस्सहितो भूत्वा किं पुनः कौरवान्रणे॥**
-
-
 
  “Even singly, Arjuna will burn the world with his arrows in the battle; why add that, with his brothers by his side, he will burn the Kauravas in battle?
 
@@ -4523,8 +4044,6 @@ any difference between them.
 
  Sending away king Duryodhana and the cattle at his back, Bhishma arranged the chiefs in the army and began to array the army.
 
-
-
 **उपायादर्जुनस्तूर्ण रथघोषेण नादयन्॥**
 
  Raising reverberations with the noise of his chariot, Arjuna advanced swiftly.
@@ -4545,8 +4064,6 @@ any difference between them.
 संमोहनं शत्रुसहोऽन्यदस्त्रं  
   प्रादुश्चकारिन्द्रमवारणीयम्॥**
 
-
-
  Unable to stand the arrowsshot by Arjuna, Karna fled, leaving the battle-front. Warding off every missile of those Kuru chiefs with a missile of his, the Gandiva-bowed Arjuna who could withstand his enemies, brought forth another missile, the irresistable Sammohana, (the stupefying one), presided over by Indra.
 
 **निस्सत्त्ववेगाः कुरुराजसैन्याः  
@@ -4557,8 +4074,6 @@ any difference between them.
   तूर्ण पुनस्स्वं रथमारुरोह॥**
 
  Bereft of strength and force and without any volition, the soldiers of Duryodhana stood like walls. Jumping down from his chariot, the son of Virata gathered the garments, necklaces and jewelled ornaments of the kings and warriors (in Duryodhana's army) and quickly mounted his chariot again.
-
-
 
 **गाण्डीवधन्वा प्रहसन्कुरूणां  
   शङ्खं प्रदध्मौ च धनं निवर्त्य।  
@@ -4581,8 +4096,6 @@ any difference between them.
 
  Then, the swift messengers sent by Uttara reached the Virata capital and announced the victory.
 
-
-
 **इतिकर्तव्यतां सर्वे मन्त्रयित्वा तु पाण्डवाः।  
 न्यवसंश्चैव तां रात्रि धर्मशा धर्मवत्सलाः॥**
 
@@ -4603,8 +4116,6 @@ any difference between them.
 
  Smiling, Arjuna, the destroyer of enemy warriors, said:
 
-
-
 **‘अयं कुरुणामृषभः कुन्तीपुत्रो युधिष्ठिरः।  
 य एष वललो भीमो भीमवेगपराक्रमः।  
 यश्चासीदश्वबन्धस्ते नकुलोऽयं परन्तप।  
@@ -4622,8 +4133,6 @@ any difference between them.
 उत्तरां प्रतिगृह्णातु सव्यसाची धनञ्जयः।  
 अयं ह्यौपायको भर्ता तस्याः पुरुषसत्तमः॥’**
 
-
-
  “Luckily have you all come from the forest hale and healthy. Let Arjuna, (the archer) who shoots arrows as wife Uttara (my men is the proper with both hands, accept daughter); this best of husband for her.”
 
 **एवमुक्तो धर्मराजः पार्थमैक्षद्धनञ्जयम्।  
@@ -4640,8 +4149,6 @@ any difference between them.
 
  King! I shall accept your daughter as my daughter-in-law. I have lived in the harem and she has moved with me in confidence as with a father; also, your
 
-
-
 daughter regards me always as her teacher. Nephew of Krishna and looking verily like the son of a god, my son, the mighty Abhimanyu is a fitting son-in-law for you and a fitting husband for your daughter.”
 
 **दूतान्सर्वेषु मित्रेषु वासुदेवे च \[भारत\]।  
@@ -4655,8 +4162,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
   युधिष्ठिरं पाण्डवमुग्रवीर्यम्॥**
 
  Departing from the battle, the Kauravas, all of them, commissioned then a messenger while on the way. The messenger reached Yudhisthira and told that son of Pandu of formidable heroism:
-
-
 
 **‘धनञ्जयेनासि पुनर्वनाय  
   प्रवाजितस्समये तिष्ठ पार्थ।  
@@ -4677,8 +4182,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
  So told by Yudhisthira, the messenger returned and reaching Duryodhana stated the fact.
 
-
-
 **संमन्त्र्यं रात्रौ बहुभिस्सुहृद्धि-  
   र्भीष्मोऽब्रवीद्धार्तराष्ट्र महात्मा।  
 ‘तीर्णप्रतिज्ञेन धनञ्जयेन  
@@ -4692,8 +4195,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
   स्सपार्थिवास्स्वानि गृहाणि जग्मुः॥**
 
  After thinking this over well, all of them, with their friends and king Duryodhana, went to their homes.
-
-
 
 **ततस्त्रयोदशे वर्षे निवृत्ते पञ्च पाण्डवाः।  
 उपप्लाव्ये विराटस्य वासं चक्रुः पुरोत्तमे॥**
@@ -4710,8 +4211,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 ववन्दुः पादयोस्सर्व आनन्दानुपरिप्लुताः॥**
 
  Along with the king of the Matsyas, all the Pandavas went forth to receive Krishna and overflowing with tears of joy. they bowed at his feet.
-
-
 
 **पाण्डवाः—**
 
@@ -4734,8 +4233,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
  Similarly, Draupadi also bowed at the feet of Krishna. Lifting that Draupadi of fine tresses, and wiping the tears off her eyes, Krishna said in the presence of all the Yadavas:
 
-
-
 **‘मा शोकं कुरु कल्याणि धार्तराष्ट्रान्समाहितान्।  
 अचिराद घातयित्वाऽहं पार्थेन सहितः क्षितिम्।  
 युधिष्ठिराय दास्यामि यातु ते मानसो ज्वरः॥’**
@@ -4756,8 +4253,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **THUS ENDS THE VIRATA PARVA.**  
 **![](../books_images/U-IMG-1701412421Screenshot2023-06-15123943.png)**
 
-
-
 **॥अथ उद्योगपर्व॥  
 ![](../books_images/U-IMG-1701413275Screenshot2023-11-27132539.png)**
 
@@ -4775,8 +4270,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
   सङ्घट्टिताः पाण्डवकार्य हेतोः।  
 ते राजसिंहास्सहिता ह्यशृण्वन्  
   वाक्यं मद्दार्थ समहोदयं च॥**
-
-
 
  At the end of their chat, those great kings urged by Krishna regarding the business of the Pandavas, listened in a body to his words of great import, productive of very great good.
 
@@ -4796,8 +4289,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 तश्चिन्तयध्वं कुरुपाण्डवानां  
   धर्म्यं च युक्तं च यशस्करं च॥’**
 
-
-
  “In this situation, think out what will be beneficial to Yudhisthira and also to king Duryodhana; what will be proper, what will bring glory to the Kauravas and the Pandavas and will be consistent with Dharma.”
 
 **निशम्य वाक्यं तु जनार्दनस्य  
@@ -4814,8 +4305,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **‘न हि दुर्योधनो राज्यं मधुरेण प्रदास्यति।  
 मृदुं वै मन्यते पापो भाषमाणमशक्तिकम्।  
 एतच्चैव करिष्यामो यत्नश्च क्रियतामिह॥**
-
-
 
 **Drupada—**
 
@@ -4836,8 +4325,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
  “We who have been brought here for the marriage shall go home; you (Drupada), send now a message that will accomplish the object of the Pandavas.”
 
-
-
 **ततस्सत्कृत्य वार्ष्णेयं पाञ्चाल्यस्स्वपुरोहितम्।  
 कुरुभ्यः प्रेषयामास युधिष्ठिरमते स्थितः॥**
 
@@ -4857,8 +4344,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 उच्छीर्षतश्च कृष्णस्य निषसाद वरासने।  
 ततः किरीटी पश्चार्धे प्रह्वोऽतिष्ठत्कृताञ्जलिः॥**
 
-
-
  Duryodhana, however, reached Krishna first and sat on an excellent seat at his head. Arjuna then stood with folded hands and body bent in reverence at Krishna's feet.
 
 **प्रतिबुद्धस्त्र वार्ष्णेयो ददर्शाग्रे किरीटिनम्।  
@@ -4873,8 +4358,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 अहं चाभिगतः पूर्वं त्वामद्य मधुसूदन॥’**
 
  As if laughing, Duryodhana told Krishna then: “You must give me assistance in this war; equal is your friendship with me and with Arjuna; and Krishna, I sought you first now.”
-
-
 
 **कृष्णः—**
 
@@ -4901,8 +4384,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **‘आभ्यामन्यतरं पार्थ यचे हृद्यतरं मतम्।  
 तवृणीतां भवानग्रे प्रवार्यस्त्वं हि धर्मतः॥’**
 
-
-
  “Of these two, that which you, Arjuna, view as dearer to you, you choose first; for, according to principle, your wish must be fulfilled first.”
 
 **एवमुक्तस्तु कृष्णेन कुन्तीपुत्रो धनञ्जयः।  
@@ -4923,8 +4404,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **Arjuna—**
 
  “You must be my charioteer.' So has my mind wished always. That long cherished wish, you must fulfil.”
-
-
 
 **कृष्णः—**
 
@@ -4948,8 +4427,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 गूढो दुर्योधनस्तत्र दर्शयामास मातुलम्।  
 परिष्वज्याब्रवीत् प्रीत इष्टार्थो वियतामिति॥**
 
-
-
  Duryodhana caused camp-pavilions to be built for honouring him. At the time when the overjoyed Salya was desiring to give even his life, Duryodhana, who was hiding there, showed himself to his uncle[^1]; embracing him, Səlya, who was pleased, said: “Ask what you desire.”
 
 [^1]: "Salya, king of the Madras, and brother of Madri, was the maternal uncle of the Pandavas and thus, indirectly, of Duryodhana also."
@@ -4967,8 +4444,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 जगाम सबलइश्रीमान् दुर्योधनम् \[अरिन्दम\]॥**
 
  “Yes,” said Salya; Duryodhana went to his own city; then, taking leave of the Pandavas, Salya, the flourishing king of the Madras, went over to Duryodhana, along with his army.
-
-
 
 **इतश्चेतच पाण्डूनां समाजग्मुर्महात्मनाम्।  
 अक्षौहिण्यस्तु सप्तैव विविधध्वजसकुलाः॥**
@@ -4991,8 +4466,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
  And he who was sent on embassy by king Drupada to the Kauravas,—he reached Dhritarashtra, and after enquiring of his health, said these words in the midst of all the generals:
 
-
-
 **‘साम्नैव कुरुभिस्सन्धिमिच्छन्ति कुरुपुङ्गषाः।  
 ते भवन्तो यथा धर्म यथासमयमेव च  
 प्रयच्छन्तु प्रदातव्यं मा घः कालोऽत्यगादयम्॥’**
@@ -5009,8 +4482,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
  “Thinking out what will be good for the Pandavas and for the whole world, I will send Sanjaya to the Pandavas; may you therefore return without delay to the Pandavas themselves.”
 
-
-
 **प्राप्तानाहुस्सञ्जय पाण्डुपुत्रान्  
   उपप्लाव्ये तान्विजानीहि गत्वा।  
 जनार्दनं युयुधानं विराटम्  
@@ -5026,8 +4497,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
   न मूर्च्छयेद्यन च युद्ध हेतुः॥’**
 
  “ Sanjaya! speak there in the midst of kings what you think would be in keeping with the time with reference to the other party and beneficial to the Pandavas and what will not infuriate them or cause war.”
-
-
 
 **राज्ञास्तु वचनं श्रुत्वा स आसाद्य युधिष्टिरम्।  
 अभिवाद्य ततः पूर्वे सूतत्रोऽभ्यभाषत॥**
@@ -5048,8 +4517,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 शान्तिं गमिष्यामि यथा त्वमात्थ  
   महायशाः केशवस्तद्रवीतु।**
 
-
-
 **वासुदेवस्तूमयोरर्थकामो  
   नातिकामे वचनं केशवस्य॥**
 
@@ -5068,8 +4535,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
  “Sanjaya, I wish for the Pandavas what will not be their ruin, what will be their prosperity and what will please them; even so, I wish for the prosperity of king Dhritarashtra of many sons.
 
-
-
 **‘स्वयं त्वहं प्रार्थये तत्र गन्तुं  
   समाधातुं कार्यमेतद्विपन्नम्।  
 अद्दापयित्वा यदि पाण्डवार्थ  
@@ -5083,8 +4548,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 यत्कृत्यं धृतराष्ट्रस्य तत्करोतु नराधिपः॥’**
 
  “Ready are the Pandavas to serve; ready are they, the sub luers of enemies, to fight; what king Dhritarashtra wants to do, let him do.”
-
-
 
 **युधिष्ठिरः—**
 
@@ -5105,8 +4568,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 “स त्वं कुरु तथा तात स्वमतेन पितामह।  
 यथा जीवन्ति ते पौत्राः प्रीतिमन्तः परस्परम्॥”**
 
-
-
  “ After saluting, our grandfather, Bhishma, must be told this: ‘Grandfather, act according to your view in such a manner that your grandsons may live in mutual affection.”
 
 **‘तथैव विदुरं ब्रूयाः कुरूणां मन्त्रधारिणम्॥**
@@ -5122,8 +4583,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 दुःशासनस्तेऽनुमते तच्चास्माभिरुपेक्षितम्॥**
 
  ‘Good man, that you sent us clad in skins into exile, that, ignoring Kunti (our mother), Dussasana, with your permission, insulted Draupadi by dragging her by the hair,—these have been endured by us..
-
-
 
 **“अथोचितं स्वकं भागं लभेमहि परन्तप।**
 
@@ -5148,8 +4607,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
  Sanjaya took leave of the Pandavàs and Krishna (and) went to Hastinapura in the night.
 
-
-
 **तस्यां रजन्यां व्युष्टायां सूतस्योपदिदृक्षया।  
 शुश्रूषमाणाः पार्थानां वाचो धर्मार्थसंहिताः।  
 धृतराष्ट्रमुखास्सर्वे ययू \[राजन्\] सभां शुभाम्॥**
@@ -5170,8 +4627,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
  With Krishna alone as my aid, I hope to annihilate Duryodhana along with his followers.
 
-
-
 **‘अनालब्धं जृम्भति गाण्डिवं धनुः  
   अनाहता कम्पति मे धनुर्ज्या।  
 बाणाश्च मे तृणमुखाद्विसत्य  
@@ -5191,8 +4646,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 एते सर्वे यद् वदन्ते तदस्तु  
   आयुष्मन्तः कुरवस्सन्तु सर्वे॥’**
 
-
-
  “Venerable Bhishma, Kripa, Drona with his son, the wise Vidura-let that which all these persons say be done; let all the Kauravas be long-lived.”
 
 **दुर्योधनमिदं वाक्यं भीष्मश्शान्तनवोऽब्रवीत्॥**
@@ -5209,8 +4662,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 दुर्योधन तदा तात सर्तासि वचनं मम॥’**
 
  “When you see Krishna with his conch, discus and mace in his hands and the terrible-bowed Arjuna wielding the missiles, then, Duryodhana, will you remember my words.”
-
-
 
 **कर्णः—**
 
@@ -5234,8 +4685,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **‘अनयो योऽयमागन्ता पुत्राणां ते दुरात्मनाम्।  
 तदस्य कर्म जानीहि सूतपुत्रस्य दुर्मतेः॥**
 
-
-
  “Know the calamity that is imminent to your evil sons, the handiwork of this evil-minded son of a driver.
 
 **‘विराटनगरे सर्वानभियातो धनञ्जयः।  
@@ -5253,8 +4702,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
 **‘यदाह भरतश्रेष्ठो भीष्मस्तत्क्रियतां नृप।  
 पुरा युद्धात्साधु मन्ये पाण्डवैस्सह सङ्गतम्॥**
-
-
 
 **Drona—**
 
@@ -5279,8 +4726,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **‘न भेतव्यं महाराज न शोच्या भवता वयम् ।  
 समर्थास्स्म पराञ्जेतुं बलिनस्समरे विभो॥**
 
-
-
 **Duryodhana—**
 
  “Great king, you need not be afraid; you need not pity us; king! powerful that we are, we are capable of conquering our foes in battle.
@@ -5304,8 +4749,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **‘दुर्योधन निवर्तस्व युद्धाद् भरतसत्तम।  
 अलमर्धं पृथिव्यास्ते सहामात्यस्य जीवितुम्॥’**
 
-
-
 **Dhritarashtra—**
 
  “Duryodhana, the best of the Bharatas ! refrain from war; half of the kingdom is enough for you to live together with your ministers.”
@@ -5327,8 +4770,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **सञ्जये प्रतियाते तु धर्मराजो युधिष्ठिरः।  
 अब्रवीत्परवीरघ्नं दाशार्हं पाण्डुनन्दनः॥**
 
-
-
  And when Sanjaya went back, Yudhisthira told Krishna, the slayer of enemy warriors:
 
 **अयं स कालस्संप्राप्तो मित्राणां मित्रवत्सल।  
@@ -5345,8 +4786,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 न च तानपि दुष्टात्मा धार्तराष्ट्रोऽनुमन्यते॥**
 
  “What is more miserable than this? Five villages were asked by me and even these the wicked son of Dhritarashtra does not consent to give!
-
-
 
 **'ईदृशेऽत्यर्थकृच्छ्रेऽस्मिन्कमन्यं मधुसूदन।  
 उपसंप्रष्टुमर्हामि त्वामृते पुरुषोत्तम॥**
@@ -5368,8 +4807,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **‘न ममैतन्मतं कृष्ण यत्त्वं यायाः कुरून्प्रति।  
 सुयोधनस्सूक्तमपि न करिष्यति ते वचः॥**
 
-
-
 **Yudhisthira—**
 
  “Krishna, it is not my idea that you should go to the Kauravas; even if your words be good, Duryodhana will not act up to them.
@@ -5390,8 +4827,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
  “King, I know this wickedness of Duryodhan. But we will become blameless in the whole world and in the eyes of kings. If the Kauravas should do me anything improper, I will burn them all; so do I resolve.
 
-
-
 **‘न जातु गमनं पार्थ भवेत्तत्र निरर्थकम्।  
 अर्थप्राप्तिः कदाचित्स्यादन्ततो वाऽप्यवाच्यता॥’**
 
@@ -5410,8 +4845,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 यद्यदस्मद्धितं कृष्ण तत्तद्वाच्यस्सुयोधनः॥’**
 
  “You know us, you know our foes; you know things; you know (how) to speak; Krishna, whatever is for our good, that, you must tell Duryodhana.”
-
-
 
 **कृष्णः—**
 
@@ -5438,8 +4871,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **धार्तराष्ट्रास्तमायान्तं प्रत्युज्जग्मुस्स्वलङ्कृताः।  
 दुर्योधनादृते सर्वे भीष्मद्रोणकृपादयः॥**
 
-
-
  Bhishma, Drona, Kripa and others, everybody on Dhritarashtra's side, except Duryodhana, dressing themselves well, went to receive Krishna who was coming.
 
 **ततो राजानमासाद्य धृतराष्ट्रं यशस्विनम्।  
@@ -5456,8 +4887,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 कण्ठे गृहीत्वा प्राक्रोशत् स्मरन्ती तनयान्पृथा॥**
 
  On seeing Krishna, lustrous like the clear sun, coming, Kunti thought of her sons, embraced him and cried.
-
-
 
 **तत आश्वासयामास पुत्राधिभिरभिप्लुताम्।  
 पृथामामन्त्र्य गोविन्दः कृत्वा चाभिप्रदक्षिणम्।  
@@ -5479,8 +4908,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **‘संप्रीतिभोज्यान्यन्नानि आपद्भोज्यानि वा पुनः।  
 न च संप्रीयसे राजन् न चैवापद्गता वयम्॥**
 
-
-
 **Krishna—**
 
  “Food is taken at another's house out of love or in times of distress. Neither do you love (us), king, nor are we in any distress.
@@ -5499,8 +4926,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 क्षत्तुरेकस्य भोक्तव्यमिति मे धीयते मतिः॥’**
 
  “All this ill-meant food should not be eaten; Vidura's food alone should be eaten; so have I made up my mind.
-
-
 
 **एवमुक्त्वा महाबाहुर्दुर्योधनममर्षणम्।  
 निवेशाय ययौ वेश्म विदुरस्य महात्मनः॥**
@@ -5522,8 +4947,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
  “Krishna, where both good words and bad words will be the same, there, as a musician before the deaf, a wise man should not open his mouth.”
 
-
-
 **कृष्णः—**
 
 **‘हिते प्रयतमानं मां शङ्केदुर्योधनो यदि।  
@@ -5543,8 +4966,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 महेन्द्रसदनप्रख्यां प्रविवेश सभां ततः॥**
 
  Even as they were talking in thismanner, thenight passed away.And then Krishna worshipped the rising sun and entered the court hall, resembling the abode of the great Indra.
-
-
 
 **अभ्यागच्छति दाशार्हे प्रशाचक्षुः \[नरेश्वर\]।  
 सदैव द्रोणभीष्माभ्यामुदतिष्ठन्महायशाः॥  
@@ -5566,8 +4987,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
  All was silent then, all minds being on Krishna.
 
-
-
 **तेष्वासीनेषु सर्वेषु सर्वो संभावयन्सभाम्।  
 धृतराष्ट्रमभिप्रेक्ष्य समभाषत माधवः॥**
 
@@ -5585,8 +5004,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
 **सेयमापन्महाघोरा कुरुष्वेव समुत्थिता।  
 उपेक्ष्यमाणा \[कौरव्य\] पृथिवीं घातयिष्यति॥**
-
-
 
  “For the Kauravas it is that this very dreadful calamity has come up, which, if overlooked, will annihilate the world.
 
@@ -5607,8 +5024,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
 **‘अहं तु तव तेषां च श्रेय इच्छामि भारत।  
 लोभेऽतिप्रसृतान्पुत्रान् निगृह्णीष्व \[विशांपते\]॥’**
-
-
 
  “And I wish for your welfare aswell as that of the Pandavas; check your sons that have gone headlong in avarice.
 
@@ -5631,8 +5046,6 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 
  “My dear Krishna, you tell me what is good for the other world as well as
 
-
-
 this world, what is right andproper. But I am not mine own master. What is being done is not to my liking.
 
 **अङ्ग दुर्योधनं कृष्ण मन्दं शास्त्रातिगं मम।  
@@ -5652,8 +5065,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 
 **दुर्योधन निबोधेदं मद्वाक्यं कुरुसत्तम।  
 शमार्थं ते विशेषेण सानुबन्धस्य \[भारत\]॥**
-
-
 
  “Duryodhana, listen to these words of mine, uttered especially for the sake of peace to you and your followers.
 
@@ -5676,8 +5087,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 
  “Making lasting peace with the Pandavas, you will fare well for long.”
 
-
-
 **ततश्शान्तनवो भीष्मः प्रोवाच \[भरतर्षभ\]।  
 ‘कृष्णेन वाक्यमुक्तोऽसि सुहृदां शममिच्छता॥**
 
@@ -5693,8 +5102,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 यदि नादास्यसे तात पश्चात्तप्स्यसि \[भारत\]॥’**
 
  Then Drona said in that assembly these words to Duryodhana: “Dear Duryodhana, if you do not abide by this truthful view of your friends, Krishna and Bhishma, you will repent afterwards.”
-
-
 
 **तस्मिन्वाक्यान्तरे वाक्यं क्षत्ताऽपि विदुरोऽब्रवीत्।  
 ‘दुर्योधन न शोचामि त्वामहं \[भरतर्षभ\]।  
@@ -5713,8 +5120,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 
  Then, king Dhritarashtra addressed Duryodhana: “If you repudiate Krishna who begs for peace and speaks for your good, defeat is certain for you.”
 
-
-
 **श्रुत्वा दुर्योधनो वाक्यमप्रियं कुरुसंसदि।  
 प्रत्युवाच महाबाहु वासुदेवं यशस्विनम्॥**
 
@@ -5732,8 +5137,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 
 **न हि भीष्मकृपद्रोणास्सकर्णा मधुसूदन।  
 देवैरपि युधा जेतुं शक्याः किमुत पाण्डवैः॥**
-
-
 
  “Bhishma, Kripa, Drona and Karna cannot, O!Krishna, be won in battle even by the gods; why mention the Pandavas?
 
@@ -5755,8 +5158,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 **ततः प्रहस्य दाशार्हः क्रोधपर्याकुलेक्षणः।  
 दुर्योधनमिदं वाक्यमब्रवीत् कुरुसंसदि॥**
 
-
-
  Laughing and with eyes perturbed with anger, Krishna then said these words to Duryodhana in the Kuru assembly:
 
 **‘लप्स्यसे वीरशयनं काममेतदवाप्स्यसि।  
@@ -5773,8 +5174,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 क्रुद्धः प्रातिष्ठतोत्थाय महानाग इव श्वसन्॥**
 
  When Krishna was speaking thus, Duryodhana, the son of Dhritarashtra, rose up in anger and, sighing like a huge serpent, departed.
-
-
 
 **तं प्रस्थितमभिप्रेक्ष्य दाशार्हः पुष्करेक्षणः।  
 भीष्मद्रोणमुखान्सर्वानभ्यभाषत वीर्यवान्॥**
@@ -5795,8 +5194,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 विदुरं सर्वधर्मज्ञं त्वरमाणोऽभ्यभाषत॥**
 
  Hearing Krishna's words, king Dhritarashtra hastened and addressed Vidura who knew all Dharmas:
-
-
 
 **‘गच्छ तात महाप्राज्ञ गान्धारीं दीर्घदर्शिनीम्।  
 आनयेह तथा सार्धमनुनेष्यामि दुर्मतिम्॥’**
@@ -5821,8 +5218,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 
 **‘आनायय सुतं क्षिप्रं राज्यकामुकमातुरम्॥**
 
-
-
 **Gandhari—**
 
  “Quickly, fetch my son who is feverishly covetous of the kingdom.”
@@ -5845,8 +5240,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 **‘प्रपद्यस्व महाबाहु कृष्णमक्लिष्टकारिणम् ।  
 प्रसन्नो हि सुखाय स्यादुभयोरेव केशवः॥**
 
-
-
  “Seek the mighty Krishna, unharmful in his acts. If he is gracious, Krishna will be for the happiness of both (yourself and the Pandavas).
 
 **‘प्रयच्छ पाण्डुपुत्राणां यथोचितम् \[अरिन्दम\]।  
@@ -5863,8 +5256,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 ‘वयमेव हृषीकेशं निगृहीम बलादिव॥**
 
  Moving to a secluded place, Duryodhana took counsel: “We ourselves shall forcibly seize Krishna.”
-
-
 
 **तेषां पापमभिप्रायं विदुरो दीर्घदर्शिवान्।  
 धृतराष्ट्र महाबाहुमब्रवीत्कुरुसंसदि॥**
@@ -5889,8 +5280,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 
  When Dhritarashtra said this, the valorous Krishna, the destroyer of enemy armies, told Duryodhana, the son of Dhritarashtra:
 
-
-
 **‘एकोऽहमिति यन्मोहान्मन्यसे मां सुयोधन।  
 परिभूय सुदुर्बुद्धे ग्रहीतुं मां चिकीर्षसि॥**
 
@@ -5910,8 +5299,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 **तं दृष्ट्वा घोरमात्मानं केशवस्य महात्मनः।  
 न्यमीलयन्त नेत्राणि राजानस्त्रस्तचेतसः॥**
 
-
-
  Seeing that terrible form of the great Krishna, the frightened kings closed their eyes.
 
 **प्रादान्तेषां स भगवान् दिव्यं चक्षुर्जनार्दनः।  
@@ -5930,8 +5317,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 
  “Krishna, tormentor of your enemies, what influence I have over my sons, must have become clear to you who have been seeing (all this); there is nothing unknown to you. Knowing this plight of mine, you must not suspect me very much.”
 
-
-
 **ततोऽब्रवीन्महाबाहुर्धृतराष्ट्रं जनार्दनः।  
 द्रोणं पितामहं भीष्मं क्षचारं बालिकं कृपम्॥**
 
@@ -5947,8 +5332,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 **कुरूणां पश्यतां द्रष्टुं स्वसारं स पितुर्ययौ॥**
 
  As the Kauravas were looking on, Krishna went to his aunt, Kunti.
-
-
 
 **प्रविश्याथ गृहं तस्याश्चरणावभिवाद्य च।  
 आचख्यौ तत्समासेन यद् वृत्तं कुरुसंसदि॥**
@@ -5969,8 +5352,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 यदर्थं क्षत्रिया सूते तस्य कालोऽयमागतः।”  
 अरिष्टं गच्छ पन्थानं पुत्रान्मे प्रतिपालय ॥’**
 
-
-
 **Kunti—**
 
  “Krishna, tell the virtuous king Yudhisthira: ‘Having begot you, the joy of your friends, I am looking up to others for my food; in accordance with royal duty, fight; incur not the fate of sin. The time for that for which a woman of royal blood gives birth to a son has comenow.’ (Krishna), go: your safe way; protect my sons.”
@@ -5985,8 +5366,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 **मया सार्धमितो यातमद्य त्वां तात पाण्डवाः।  
 अभिजानन्तु कौन्तेयं पूर्वजातं युधिष्ठिरात्।  
 पादौ तब ग्रहीष्यन्ति भ्रातरः पञ्च पाण्डवाः॥**
-
-
 
 **Krishna—**
 
@@ -6007,8 +5386,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 
  “I understand all that you think, Krishna. Kunti, as a maiden, bore me to the sun. However, in such a manner as there could be no welfare for me, I was abandoned by Kunti.
 
-
-
 **‘सूतो हि मामधिरथो दृष्ट्टैषाभ्यानयनुद्दान्।  
 मत्स्नेहाच्चैव राधायां सद्यः क्षीरमघातरत्॥**
 
@@ -6027,8 +5404,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 हर्षाद्भयाद्वा गोविन्द मिथ्या कर्तुं तदुत्सहे॥**
 
  “Not for all this world, not for heaps of gold, not for pleasure or fear, would I bear proving faithless to these, Krishna.
-
-
 
 **‘घृतराष्ट्रकुले कृष्ण भुक्त राज्यमकण्टकम्।  
 मां च कृष्ण समासाद्य विग्रहश्चापि पाण्डवैः॥**
@@ -6052,8 +5427,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 **‘प्राप्य चापि महद्राज्यं तदहं \[मधुसूदन\]।  
 स्फीतं दुर्योधनायैव संप्रदद्याम् \[अरिन्दम\]॥**
 
-
-
  “And even after getting that vast and prosperous kingdom, I will give it only to Duryodhana.
 
 **‘स एव राजा धर्मात्मा शाश्वतोऽस्तु युधिष्ठिरः।  
@@ -6073,8 +5446,6 @@ this world, what is right andproper. But I am not mine own master. What is being
 ‘राधेयोऽहमाधिरथिः ब्रूहि कि करणवाणि ते’॥**
 
  Having said so, Karna, embraced Krishna closely and given leave, returned. Meeting Kunti on the banks of the Ganges, Karna who
-
-
 
 swerved not from his vow, bowed to her and with folded hands stood ready to serve her, with the words: “I am Karna, son of Radha and Adhiratha; tell me, what shall I do for you?”
 
@@ -6100,8 +5471,6 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 
  “You have never acted before for my welfare like a mother, and you now inform me (of this), desiring only your own good.
 
-
-
 **‘पाण्डवान् यदि गच्छामि कि मां क्षत्रं वदिष्यति॥**
 
  “If I go over to the Pandavas, what will the world of kings say?”
@@ -6124,8 +5493,6 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 **‘न ते जातु नशिष्यन्ति पुत्राः पञ्च यशस्विनि।  
 निरर्जुनास्सकर्णा वा सार्जना वा इते मयि॥’**
 
-
-
  “Renowned woman, five of your sons will never perish; they will be either without Arjuna but with Karna or with Arjuna when I am killed.”
 
 **अनामयं स्वस्ति चेति ततस्तौ जग्मतुः पृथक्॥**
@@ -6146,8 +5513,6 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 
  “Duryodhana was told what was truthful, wholesome and beneficial; the fool does not take the words. I consider punishment by war, the fourth expedient, as proper for those sinners; by no other means (can they be tackled).
 
-
-
 **‘निर्याताश्च विनाशाय कुरुक्षेत्रं नराधिपाः॥’**
 
  “And kings have (already) started for the Kurukshetra for their own ruin.”
@@ -6166,8 +5531,6 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 **ततश्शान्तनवं भीष्मं प्राञ्जलिर्धृतराष्ट्रजः।  
 सह सर्वैर्महीपालैरिदं वचनमब्रवीत्।  
 ‘प्रयातु नो भवानग्रे देवानामिव पावकिः’॥**
-
-
 
  Then, Duryodhana, standing in reverential attitude, spoke, along with all the kings, these words to Bhishma: “May you lead us, as god Skanda led the gods.”
 
@@ -6188,8 +5551,6 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 **नाहं जीवति गाङ्गेये राजन् योत्स्ये कथञ्चन।  
 हते भीष्मे तु योत्स्यामि सह गाण्डीवधन्वना॥’**
 
-
-
 **Karna—**
 
  “King, as long as Bhishma is alive, I will not fight in any manner; but when Bhishma is killed, I will fight the Gandiva bowed Arjuna.”
@@ -6208,11 +5569,7 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 
 **THUS ENDS THE UDYOGA PARVA.**
 
-
-
 **![](../books_images/U-IMG-1701593728Screenshot2023-07-21172948.png)**
-
-
 
 **॥ अथ भीष्मपर्व ॥**
 
@@ -6234,8 +5591,6 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 परेण सह संयुक्तः प्रमत्तो विमुखस्तथा।  
 क्षीणशस्त्रो विवर्मा च न हन्तव्यः कदाचन॥’**
 
-
-
  “When the battle is fought and finished, there shall be mutual friendship between us. Those who have gone out of the ranks shall never be killed. One mounted on a chariot shall be fought by one on a chariot, one on an elephant with an elephant, one on a horse with a horse, and a footsoldier only by a footsoldier. One engaged with another, one inattentive, or disinclined to fight or one who has turned away from the field, one who has lost his weapons and one without armour shall never be killed."
 
 **बृहतीं धार्तराष्ट्रस्य सेनां दृष्ट्वा समुद्यताम्।  
@@ -6247,8 +5602,6 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 **धार्तराष्ट्रैर्महबाहो येषां योद्धा पितामह॥’**
 
  “Mighty Arjuna! how can we fight the warriors on Dhritarashtra's side for whom (our) grandfather, Bhishma, fights.”
-
-
 
 **अर्जनः—**
 
@@ -6268,8 +5621,6 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 युध्यध्वमनहङ्कारा यतो धर्मस्ततो जयः॥**
 
  “Avoiding Adharma and basing your selves on best Dharma, fight without egoism; where Dharma is, there victory is
-
-
 
 **‘एवं राजन्विजानीहि घ्रषोऽस्माकं रणे जयः।  
 यथा तु नारदः प्राह यतः कृष्णस्ततो जयः।  
@@ -6291,8 +5642,6 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 तमास्थितः केशवसंगृहीतं  
   कपिध्वजो गाण्डिवबाणपाणिः॥**
 
-
-
  Arjuna's chariot, with its white horses and firm wheels, shone like fire, emitting a corona of rays. On that chariot the reins of whose horses Krishna was holding, was the monkey-bannered Arjuna with the Gandiva bow and arrows in his hands.
 
 **अथापश्यत्स्थितान्पार्थः पितॄनथ पितामहान्।  
@@ -6306,8 +5655,6 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 **दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्।  
 सीदन्ति मम गात्राणि मुखं च परिशुष्यति।**
 
-
-
 **गाण्डीवं स्रंसते हस्तान्त्वक् चैव परिदह्यते।  
 न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः॥  
 न कांक्षे विजयं कृष्ण न च राज्यं सुखानि च।  
@@ -6317,8 +5664,6 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः॥’**
 
  “Krishna! seeing these kinsmen of ours come with the desire to fight, my limbs fail, my mouth becomes parched, the Gandiva slips from my hand, my skin burns and I am not able to stand firm; my mind seems to whirl. Krishna! I do not wish for victory, or kingdom, or happiness; of what use is the kingdom to us, or pleasures or even life? How can we be happy, Krishna, after killing our own kinsmen? Alas! we have resolved to commit a great sin, we who are out to kill our own kinsmen though our avarice for the pleasures of a kingdom.”
-
-
 
 **एवमुक्त्वा हृषीकेशं गुडाकेशः \[परन्तप\]।  
 न योत्स्य इति गोविन्दमुक्या तूष्णीं बभूव ह॥**
@@ -6342,8 +5687,6 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 अनाश्रितः कर्मफलं कार्य कर्म करोति यः।  
 स सन्न्यासी च योगी च न निरग्निर्न चाक्रियः॥**
 
-
-
 **ऋतेऽपि त्वां न भविष्यन्ति सर्वे  
   येऽवस्थिताः प्रत्यनीकेषु योधाः।  
 मयैवैते निहताः पूर्वमेव  
@@ -6361,13 +5704,9 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 
  Krishna told Arjuna, laughing a little: “To a Kshatriya, there is no other good than righteous warfare. In case you do not fight this righteous battle, you neglect your duty, throw away fame and incur sin. Warriors will think that you have desisted from the battle out of fear. If you are killed,
 
-
-
 you will attain to heaven or if you win, you will enjoy the world. Viewing alike happiness and misery, gain and loss, victory and defeat, you then get ready for the battle; doing thus, you will not incur sin. To work alone are you entitled, never to (its) fruits. Never does anybody stand even a moment without doing an act. There is nothing to be done for me and still I am active. Offering up all acts to me with a spiritual mind, without any wish and disinterested, fight without any mental fever. Though ill-performed, one's own duty is better than another's duty well-performed. He who does the act that ought to be done, without intent on the fruit of the action, is the man of renunciation and the Yogin; not he who has left off the worship of fire and not he who does not do anything.
 
  “Even without you, all these warriors who stand in the opposite ranks, will cease to be; they have been already killed by myself; you archer who shoot with either arm! be simply the
-
-
 
 apparent cause (of thedestruction of these warriors).
 
@@ -6381,9 +5720,7 @@ apparent cause (of thedestruction of these warriors).
 
   I stand here with all my doubts cleared; I will do what you say.”[^3]
 
-
 [^3]: "For the full discourse of Lord Sri Krishna, see THE BHAGAVAD GITA with the Text in Devanagari and English Translation by Dr. Besant.Pocket Edition. As. 4. G. A. Natesan & Co., Madras."
-
 
 **ततो धनञ्जयं दृष्ट्वा बाणगाण्डीवधारिणम्।  
 पुनरेव महानादं व्यसृजन्त महारथाः॥**
@@ -6402,8 +5739,6 @@ apparent cause (of thedestruction of these warriors).
 अनुजानीहि मां तात आशिषश्च प्रयोजय॥’**
 
  Holding Bhishma's feet with his hands, Yudhisthira told him: “Unassailable warrior, I take your permission; we shall fight with you; permit me, father, and give (us) (your) blessings.”
-
-
 
 **भीष्मः—**
 
@@ -6428,8 +5763,6 @@ apparent cause (of thedestruction of these warriors).
 **‘ध्रुवस्ते विजयो राजन् यस्य मन्त्री हरिस्तव।  
 यतो धर्मस्ततः कृष्णो यतः कृष्णस्ततो जयः॥’**
 
-
-
 **Drona—**
 
  “King, victory is certain for you for whom Krishna is the counsellor. Where Dharma is, is Krishna and where Krishna is, is victory.”
@@ -6449,8 +5782,6 @@ apparent cause (of thedestruction of these warriors).
 अस्मान्वरय राधेय यावद्भीष्मो न हन्यते॥’**
 
  Krishna told this to Karna: “Karna, I heard that you would not fight because ofyour hatred towards Bhishma. Choose us: (our side) for such time as Bhishma is not killed.”
-
-
 
 **कर्णः—**
 
@@ -6473,10 +5804,6 @@ apparent cause (of thedestruction of these warriors).
 
  Then, leaving the sons of Dhritarashtra, the Kauravas, Yuyutsu went over to the army of the Pandavas after sounding the drum.
 
-
-
-
-
 **अथ शान्तनवो \[राजन्\] अभ्यधावद्धनञ्जयम्।  
 अर्जुनोऽपि धनुर्गृह्य गाङ्गेयं रणमूर्धनि।  
 प्रावर्तत ततो युद्धं तुमुलं रोमहर्षणम्॥**
@@ -6495,8 +5822,6 @@ apparent cause (of thedestruction of these warriors).
 
 **तथा भीष्मस्तु सुदृढं वासुदेवधनञ्जयौ।  
 विव्याध निशितैर्बाणैस्सर्वगात्रेषु \[भारत\]॥**
-
-
 
  Bhishma severely pierced Krishna and Arjuna in every limb with his sharp arrows.
 
@@ -6517,8 +5842,6 @@ apparent cause (of thedestruction of these warriors).
 
  Unconfounded in mind in that battle, Bhishma told that Krishna of unbounded valour:
 
-
-
 **‘एह्येहि फुल्लाम्बुजपत्रनेत्र  
   नमोऽस्तु ते माधव चक्रपाणे।  
 प्रसह्य मां पातय लोकनाथ  
@@ -6532,8 +5855,6 @@ apparent cause (of thedestruction of these warriors).
   लोकै त्रिभिवर तवाभियानात्॥’**
 
  “For me who is even killed by you, Krishna, there is good in the other world as well as in this. Lord of the Andhakas and the Vrishnis! Warrior ! by your advancing against me, I have been honoured in all the three worlds.”
-
-
 
 **रथादवप्लुत्य ततस्त्वरावान्  
   पार्थोऽप्यनुद्रुत्य यदुप्रवीरम्।  
@@ -6554,8 +5875,6 @@ apparent cause (of thedestruction of these warriors).
 
  Keeping Sikhandi in the forefront, Arjuna then ran up in speed against Bhishma. It seemed a wonder.
 
-
-
 **शिखण्डी तु रणे भीष्ममाजघान स्तनान्तरे।  
 शिखण्डिनं तु गाङ्गेयः क्रोधदीप्तेन चक्षुषा।  
 संप्रेक्षत कटाक्षेण निर्दहन्निष \[भारत\]॥  
@@ -6575,8 +5894,6 @@ apparent cause (of thedestruction of these warriors).
 
  Smiling a little, Bhishma said to Dussasana at that time: “These are Arjuna's arrows; these are not Sikhandi's arrows; theytear my limbs, like the young crabs their mother.”
 
-
-
 **न तस्यासीदनिर्भिन्नं गात्रे द्वथङ्गुलमन्तरम्।  
 एवंभूतस्तव पिता शरैविंशकलीकृतः।  
 शिताग्रैः फल्गुनेनाजौ प्राक्छिराः प्रापतद्वथात्॥**
@@ -6595,8 +5912,6 @@ apparent cause (of thedestruction of these warriors).
 स्थात्प्रपतिवं चैनं दिव्यो भावस्समाविशत्॥**
 
  Divinity entered that illustrious person, that great archer, fallen from the chariot, as he lay on a bed of arrows.
-
-
 
 **व्युपरम्य ततो युद्धाद् योधाश्शतसहस्रशः।  
 उपतस्थुर्महात्मानं प्रजापतिमिवामराः॥**
@@ -6620,8 +5935,6 @@ apparent cause (of thedestruction of these warriors).
 धनञ्जयं ‘महाबाहो शिरो मे तात लम्बते।  
 दीयतामुपधानं वै यद्युतमिह मन्यसे’॥**
 
-
-
  As if laughing at those kings, that greatest of men, Bhishma, said to Arjuna: “You of mighty arms ! my son! my head droops; let such a rest as you think proper be given (to my head).”
 
 **फल्गुनोऽपि त्रिभिस्तीक्ष्णैरुदगृह्णाच्छिरश्शरैः॥**
@@ -6637,8 +5950,6 @@ And Arjuna propped up his head with three sharp arrows.
 
 **अभ्यभाषत धर्मात्मा भीष्मः प्रीतो धनञ्जयम्।  
 ‘दह्यतीव शरीरं मे प्रयच्छापो ममार्जन’॥**
-
-
 
  Pleased with him, the righteous Bhishma told Arjuna: “My body seems to be burning; Arjuna, give me water.”
 
@@ -6658,8 +5969,6 @@ And Arjuna propped up his head with three sharp arrows.
 
  “Duryodhana, you saw how a jet of cool and nectar-like water was created by the intelligent Arjuna!
 
-
-
 **‘एतस्य कर्ता लोकेऽस्मिन् नान्यः कश्चन विद्यते।  
 अमानुषाणि कर्माणि यस्यैतानि महात्मनः।  
 तेन सत्यवता संख्ये सन्धिर्भवतु मा चिरम्।  
@@ -6675,8 +5984,6 @@ And Arjuna propped up his head with three sharp arrows.
 **ततस्ते पार्थिवास्सर्वे जग्मुस्स्वानालयान्पुनः॥**
 
  Then, all those kings returned to their abodes.
-
-
 
 **श्रुत्वा तु निहतं भीष्मं राधेयः पुरुषर्षभः।  
 ईषदागतसन्त्रासः शरतल्पगतं तदा।  
@@ -6696,8 +6003,6 @@ And Arjuna propped up his head with three sharp arrows.
 
  Hearing that, the Kuru elder, whose eyes were covered with arrows, seeing the place bereft of anybody, sending away
 
-
-
 the guards, embracing Karna with one hand, as a father would a son, and slowly looking up at him with love, said this:
 
 **‘कौन्तेयस्त्वं न राधेयो विदितो नारदान्मया।  
@@ -6715,8 +6020,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
  “I know your heroism in battle and your great and steady practice of munificence. You are equal to Arjuna and the great Krishna.
 
-
-
 **‘सोदर्याः पाण्डवा वीर भ्रातरस्तेऽरिसूदन।  
 सङ्गच्छ तैर्महाबाहो मम चेदिच्छसि प्रियम्।  
 मया भवतु निर्वृत्तं वैरमादित्यनन्दन॥**
@@ -6733,8 +6036,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 **Karna—**
 
  “Mighty Bhishma, I know I am Kunti's. son and not the son the charioteer. Having enjoyed Duryodhana's wealth, I do not bear proving faithless. Permit me, father, I have resolved to fight. What I have said wrongly or done against you, you must pardon.”
-
-
 
 **भीष्मः—**
 
@@ -6755,11 +6056,7 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
 **THUS ENDS THE BHISHMA PARVA.**
 
-
-
 **![](../books_images/U-IMG-1701602285Screenshot2023-12-03164755.png)**
-
-
 
 **॥अथ द्रोणपर्व॥  
 ![](../books_images/U-IMG-1701602403Screenshot2023-12-03164755.png)**
@@ -6777,8 +6074,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
  Obtaining the post of the commander-in-chief, the great warrior Drona said to Duryodhana in the midst of the whole army:
 
-
-
 **‘करोमि कामं कं तेऽद्य प्रवृणीष्व यमिच्छसि॥’**
 
  “What wish of yours shall I now carry out? Ask what you want.”
@@ -6794,8 +6089,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 **Duryodhana—**
 
  “If you grant me a boon, capture alive Yudhisthira, that best of chariot-fighters, and bring him here to me. When that Yudhisthira who keeps his promise is brought and vanquished again at a game of dice, the sons of Pandu who are vowed to act in obedience to him will go to the forest once more. And this will clearly be a longstanding victory for me.”
-
-
 
 **द्रोणः—**
 
@@ -6819,8 +6112,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 **स कृत्वा दुष्करं कर्म हत्वा वीरान्सहस्रशः।  
 नृत्यन्निव \[महाराज\] पाशहस्त इवान्तकः।**
 
-
-
 **स कक्षेऽग्निरिवोत्सृष्टो निर्दहंस्तरसा रिपून्।  
 एकधा शतधा \[राजन्\] दृश्यते स्म सहस्रधा॥**
 
@@ -6836,8 +6127,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
  Hitting Abhimanyu with three shafts, Sakuni then said to Duryodhana: “Ere he kills us one by one, all of us will kill this Abhimanyu.”
 
-
-
 **अथ कर्णः पुनर्द्रोणमाहार्जुनिशराहतः।  
 ‘स्थातव्यमिति तिष्ठामि पीडय मानोऽभिमन्युना’॥**
 
@@ -6851,8 +6140,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
  Smiling a little, the preceptor Drona said in a low voice to Karna, who had spoken so: “His armour is unbreakable; he is young and swift in (the display of) his valour. (So) make him turn back, and then strike. (Armed) with his bow, he cannot be conquered even by the gods and the demons If you wish (to vanquish him), deprive him of his chariot and bow.”
 
-
-
 **तदाचार्यवचश्श्रुत्वा कर्णो वैकर्तनस्त्वरन्।  
 अस्यतो लघुहस्तस्य पृष्ठतो धनुरच्छिनत्।  
 अश्वानस्यावधीद् द्रोणो गौतमः पाणिसारथी॥  
@@ -6865,8 +6152,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 स पुनश्चक्रमुद्यम्य द्रोणं क्रुद्धोऽभ्यधावत।  
 महारथस्ततः कार्षिणः स जग्राह महागदाम्।  
 शराचिताङ्गस्सौभद्रः श्वाविद्वत्समदृश्यत॥**
-
-
 
  Arming himself with sword and shield, the glorious son of Arjuna leapt up with force. Again, infuriated, he attacked Drona, lifting his discus. Then, the great warrior, Abhimanyu, took a huge mace. His body covered with arrows, Abhimanyu looked like a porcupine.
 
@@ -6882,8 +6167,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
  Rising up then, Dussasana's son, (the warrior) who made the fame of the Kauravas increase, with his mace, struck on the head Abhimanyu who was rising. Thus was one killed by many in the battle.
 
-
-
 **तं भूमौ पतितं दृष्टातावकास्ते महारथाः।  
 मुदा परमया युक्ताश्चक्रुशुस्सिहवन्मुहुः।  
 इतरेषां तु वीराणां नेत्रेभ्यः प्रापतज्जलम्॥  
@@ -6897,8 +6180,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 प्रायात्स्वशिबिरं जिष्णुजैत्रमास्थाय तं रथम्॥**
 
  After killing the multitudes of Samsaptakas with (his) divine missiles, triumphant Arjuna went to his tent, riding that victorious chariot of his.
-
-
 
 **दृष्टा भ्रातॄंश्ध पुत्रांश्च विमना वानरध्वजः।  
 अपश्यंश्चैव सौभद्रमिदं वचनमब्रवीत्॥**
@@ -6922,8 +6203,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 **‘ते पीड्यमाना द्रोणेन द्रोणानीकं न शक्नुमः।  
 प्रतिवीक्षितुमप्याजौ भेतुं तत्कुत एव तु॥**
 
-
-
  “Troubled by Drona, we could not even look at Drona's army in the battle; how could we break (its array)?
 
 **‘ततस्तमप्रतिरथमहं सौभद्रमब्रवम्।  
@@ -6944,8 +6223,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 ततो दौरशासनिः क्षिप्रं गदया मूर्ध्यताड्यत्।  
 स चैवं पुरुषव्याघ्रः स्वर्गलोकमवाप्तवान्॥’**
 
-
-
  “The boy was surrounded by a number of them and deprived of his chariot; at that time, Dussasana's son quickly struck him on the head with his mace. That best among men attained to heaven in this manner.”
 
 **‘ततोऽर्जुनो वचश्श्रुत्वा धर्मराजेन भाषितम्।  
@@ -6962,8 +6239,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 दुर्योधनेन सहितो द्रोणं रात्रावुपागमत्॥**
 
  Informed by spies who had heard that huge shout of the Pandavas who loved their son (Abhimanyu), Jayadratha rose up and, along with Duryodhana, came to Drona in the night.
-
-
 
 **द्रोणः—**
 
@@ -6985,8 +6260,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
  After that night, at day-break, Arjuna, bent on carrying out his great vow, mounted his excellent chariot, and, along with Krishna, rode against Drona's army, wishing to capture Jayadratha.
 
-
-
 **दर्शयन्रौद्रमात्मानमुग्रे कर्मणि धिष्ठितः।  
 तथा सर्वा दिशो \[राजन्\] सर्वांध रथिनो रणे।  
 आकुलीकृत्य कौन्तेयो जयद्रथमुपाद्रवत्॥**
@@ -7004,8 +6277,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 न हि शक्ष्यत्यथात्मानं रक्षितुं हर्षसम्भवात्।  
 एतस्मिन्नेव काले तु प्रहर्तव्यं धनञ्जय॥’**
 
-
-
  Krishna then said to Arjuna: “I shall create a means to hide the sun; Jayadratha will then take the sun as having set; and then he will not be able to protect himself, on account of the joy; at that very time, Arjuna, you must strike.”
 
 **एवमुक्त्वा ततः पार्थं क्षिप्रमेवाहरत्प्रभाम्।  
@@ -7021,8 +6292,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
 **रक्षसां घोररूपाणामक्षौहिण्या समावृतः।  
 ततो घटोत्कचः क्रुद्धश्चोदयायास तां चमूम्॥**
-
-
 
  Then, surrounded by an Akshauhini of demons of terrific appearance, the furious Ghatotkacha, (the demon-son of Bhima), drove his army (against the Kauravas' forces).
 
@@ -7045,8 +6314,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 दृष्ट्वा बलौघांश्च निपात्यमाना-  
   न्महद्भ्यं तव पुत्रान्विवेश॥**
 
-
-
  At the sight of that formidable and very terrible shower of great missiles falling from the demon Ghatotkacha and of multitudes of their own forces being struck down, great fear took possession of the sons of Dhritarashtra.
 
 **ततोऽब्रुवन्कुरवस्सर्व एव  
@@ -7060,8 +6327,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
   मतिं दधे शक्तिमोक्षाय कर्णः॥**
 
  Hit by the demon at midnight, Karna made up his mind to hurl the Sakti (at him).
-
-
 
 **याऽसौ \[राजन्\] निहिता वर्षपूगा  
   न्वधायाजौ सत्कृता फल्गुनस्य।  
@@ -7083,8 +6348,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
  Fear took hold of the Pandavas when Drona's missile was discharged.
 
-
-
 **त्रस्तान्कुन्तीसुतान्दृष्ट्वा केशवोऽर्जुनमब्रवीत्।  
 ‘नैष युद्धेन संग्रामे जेतुं शक्यः कथञ्चन।  
 न्यस्तशस्त्रस्तु संग्रामे शक्यो हन्तुं भवेन्नृभिः।  
@@ -7098,8 +6361,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 अन्ये त्वरोचयन्सर्वे कृच्छ्रेण तु युधिष्ठिरः॥**
 
  Arjuna did not like this; all the rest did; Yudhisthira approved of it with difficulty.
-
-
 
 **ततो भीमो महाबाहुरनीकेषु महागजम्।  
 जधान गया \[राजन्\] अश्वत्थामानमित्युत।  
@@ -7118,8 +6379,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
  With the god of fire at their head, the sages came quickly and all of them said to Drona shining in the battle:
 
-
-
 **‘अधर्मतः कृतं युद्धं समयो निधनस्य ते।  
 वेदवेदाङ्गविदुषस्सत्यधर्मरतस्य ते।  
 ब्राह्मणस्य विशेषेण तवैतन्नोपपद्यते।  
@@ -7136,8 +6395,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 तस्मात्तं परिपप्रच्छ नान्यं कञ्चिद्विजर्षभः।  
 तस्मिस्तस्य हि सत्याशा बाल्यात्प्रभृति पाण्डवे॥**
 
-
-
  Hearing these words of the sages, remem-bering the words of Bhima (that Asvatthaman had been killed), doubting and in pain, Drona asked Yudhisthira whether his son was killed or nct. For, firm was Drona's conviction that Yudhisthira would not utter falsehood, under any circumstance, even for the sake of the lordship over the three worlds. Therefore, that best of Brahmins, Drona, asked Yudhisthira and not any one else. Indeed, Drona had full confidence in the truthfulness of that son of Pandu from his very boyhood.
 
 **ततो निष्पाण्डवामुर्वीं करिष्यन्तं युधांपतिम्।  
@@ -7149,8 +6406,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 **तमतथ्यभये मग्नो जये सक्तो युधिष्ठिरः।  
 ‘अश्वत्थामा हत’ इति शब्दमुच्चैश्चकार ह।  
 अव्यक्तमब्रवीद् \[राजन्\] ‘इतः कुञ्जरः’ इत्युत॥**
-
-
 
  Immersed in the fear of uttering falsehood and intent on victory, Yudhisthira said aloud to Drona: ‘Killed is Asvatthaman,’ and added indistinctly ‘the elephant’.
 
@@ -7171,8 +6426,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 तस्य च ब्राह्मणो मूलं भवांव ब्रह्मवित्तमः।  
 बहून्हत्वा विकर्मस्थो न व्यपत्रपसे कथम्॥’**
 
-
-
  Then, Bhima, violently angry, told Drona: “If well trained, fallen Brahmins, not content with their own calling, would not take to fighting, Kshatriyas would not perish. (The wise) consider (the virtue of) non-injury towards all beings the greater Dharma; and of it, the Brahmin is the foundation; and you the greatest among those who have known the Brahman; having killed many, following what is another's prescribed vocation, how is it you are not ashamed?”
 
 **एवमुक्तस्ततो द्रोणः सन्न्यासाय स वै द्विजः।  
@@ -7183,8 +6436,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
 **स्मरित्वा देवदेवेशमक्षरं परमं प्रभुम्।  
 दिवमाक्रामदाचार्यत्साक्षात्सद्भिर्दुराक्रमाम्॥**
-
-
 
  Thinking of the Imperishable Supreme Lord, the Lord of the god of gods, the preceptor (of the Kauravas and the Pandavas), Drona, visibly reached the heaven hard to be attained even by the good.
 
@@ -7202,10 +6453,7 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
 **THUS ENDS THE DRONA PARVA.**  
 
-
 **![](../books_images/U-IMG-1701756368Screenshot2023-06-15124029.png)**
-
-
 
 **॥अथ कर्णपर्व॥  
 ![](../books_images/U-IMG-1701674264Screenshot2023-11-27132539.png)**
@@ -7226,8 +6474,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
  Then again, the fearless Kauravas and the Pandavas attacked each other. The earth shone very much, profusely besprinkled with blood.
 
-
-
 **विष्फार्य गाण्डीवमथोप्रघोषं  
   रौद्रे मुहूर्तेऽभ्यपतत् किरीटी॥**
 
@@ -7244,8 +6490,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
   स्ससार राजावरजः किरञ्शरैः॥**
 
  Dhritarashtra's son and Duryodhana's brother, Dussasana, fearlessly faced Bhima who was thus advancing and covered him over with arrows.
-
-
 
 **भीमः—**
 
@@ -7267,8 +6511,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 अतीव सन्ताडितभिन्नगात्रो  
   दुश्शासनो वै निपपात भूमौ॥**
 
-
-
  Then, recalling with anger all the woes caused to them, and taking in his hand his mace mighty like the thunderbolt, the strong Bhima forcibly threw Dussasana on the ground in anger and struck him; with limbs severely beaten and broken, Dussasana fell down,
 
 **उत्क्षिप्य चोप्क्षिप्य च तूर्णमेनम्  
@@ -7285,8 +6527,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 उवाच ‘यस्यास्ति बलं स रक्ष-  
   त्वसौ भवेदद्य निरस्तवाहुः’॥**
 
-
-
  In the presence of Duryodhana and Karna, Bhima, the unrivalled warrior, said to Dussasana at that spot: “Evil-minded fellow! Answer, Bhima asks you, with which arm were dragged the locks of Draupadi which were sanctified on the occasion of the auspicious bath at the close of the Rajasuya sacrifice?” Bhima said (again): “Let him who has strength protect (him); this Dussasana would lose his arm now.”
 
 **एवं क्रुद्धो भीमसेनः करेण  
@@ -7300,8 +6540,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
   मास्वाद्य चास्वाद्य च वीक्षमानः**
 
  Tearing open the heart of the warrior Dussasana who had fallen on the ground, Bhima drank his warm blood, enjoying its taste and looking (around).
-
-
 
 **भीमः—**
 
@@ -7324,8 +6562,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
  Seeing the might of Bhima, like that of the god of Death among men, great fear took hold of Karna then.
 
-
-
 **शल्यः—**
 
 **‘मा व्यथां कुरु राधेय नैतत्त्वय्युपपद्यते।  
@@ -7341,8 +6577,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
 **एतच्छ्रुत्वा तु वचनं जगामाभिमुखो रिपुम्।  
 युद्धायामर्षताम्म्राक्षस्समाहूय धनञ्जयम्॥**
-
-
 
  Hearing these words, Karna, with eyes red with anger, went against his enemy, calling Arjuna to a fight.
 
@@ -7363,8 +6597,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 **Duryodhana—**
 
  “What that wicked Bhima, laughing, and like a leopard, spoke at length after killing Dussasana, remains fixedin my heart; that was not said in your absence; thow can there be peace?”
-
-
 
 **तमेवमुक्त्वाऽप्यनुशास्ति सैनिकान्  
   ‘द्रतं प्रताभिद्रवताहितानिमान्’॥**
@@ -7388,8 +6620,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 रथस्य चक्रं सहसा निपीड्य  
   पञ्चाङ्गलं मज्जयति स्म वीरः॥**
 
-
-
  Seeing that flaming serpent missile flying towards them along the sky, the hero of the Vrishni race, Krishna, pressed down the chariot's wheel at once, and sent it five inches into the ground.
 
 **ततः किरीटं तपनीयचित्रं  
@@ -7407,8 +6637,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
  At that time then, the wheel of Karna's chariot was caught in the ground; with the wheel stuck, Karna said:
 
-
-
 **‘भो भो पार्थ महेष्वास मुहूर्त परिपालय।  
 यावच्चक्रमिदं प्रस्तमुद्धरामि महीतलात्।  
 त्वं च शूरतमो लोके साधुवृत्तश्च पाण्डव।  
@@ -7424,8 +6652,6 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
   धर्मस्तदा ते रुचितो न कस्मात्॥**
 
  The great Krishna said then: “Karna, fortunately you remember Dharma on the battle-field here, when you are in difficulty!
-
-
 
 Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Dussasana and Sakuni brought into the assembly hall Draupadi who had on but a single garment?
 
@@ -7443,8 +6669,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 आचरत्त्वन्मते राजा क्व ते धर्मस्तदा गतः॥**
 
  “With your consent, Duryodhana treated Bhima to serpents and poisoned foods! Where had your Dharma gone then?
-
-
 
 **‘यद्वारणावते पार्थासुताञ्जतुगृहे तदा।  
 हन्तुकामास्तदा यूयं क्व ते धर्मस्तदा गतः॥**
@@ -7465,8 +6689,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 उपप्रेक्षसि राधेयक्व ते धर्मस्तदा गतः॥**
 
  “Karna, you told that Draupadi of majestic gait Choose another husband and stood by looking at her! Where had your Dharma gone then?
-
-
 
 **‘राज्यलुब्धः पुनः कर्ण समाह्वयसि पाण्डवान्।  
 यदा शकुनिमाश्रित्य क ते धर्मस्तदा गतः॥**
@@ -7490,8 +6712,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 **ततश्शरं महाघोरं ज्वलन्तमिव पावकम्।  
 आददे पाण्डुपुत्रस्य सूतपुत्रो जिघांसया॥**
 
-
-
  Then, Karna took (and shot) a very terrible arrow resembling the blazing fire, wishing to kill Arjuna.
 
 **स गाढविद्धस्समरे महात्मा  
@@ -7511,8 +6731,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 तथैव संपूज्य स तद्वचः प्रभोः  
   शिरोऽहरत्सूतपुत्रस्य \[राजन्\]॥**
 
-
-
  Krishna told Arjuna then: “Cut off this enemy's head with an arrow.” Accordingly, giving respect to those words of the Lord, Arjuna cut off the head of Karna.
 
 **पाञ्चजन्यस्य निर्घोषो देवदत्तस्य चोभयोः।  
@@ -7530,8 +6748,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 **THUS ENDS THE KARNA PARVA.**
 
 **![](../books_images/U-IMG-1701677705Screenshot2023-12-03164755.png)**
-
-
 
 **॥अथ शल्यपर्व॥  
 ![](../books_images/U-IMG-1701677809Screenshot2023-06-15123943.png)**
@@ -7553,8 +6769,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 
  “King, I think, peace with the Pandavas at this juncture is proper for you.”
 
-
-
 **दुर्योधनः—**
 
 **‘नायं क्लीबायितुं कालः संयोद्धुं काल एव नः।  
@@ -7573,8 +6787,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 
 **ततो दुर्योधनश्शल्यमभ्यषिञ्चत \[भारत\]।  
 ततः प्रववृते युद्धं घोररूपं भयानकम्॥**
-
-
 
  Then, Duryodhana installed Salya as the commander; then began a terrible and formidable battle.
 
@@ -7596,8 +6808,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 भीमसेनमभिद्रुत्य रुरुधुस्सर्वतो दिशम्॥**
 
  The remaining sons of Dhritarashtra joined together in the battle and rushing against Bhima, besieged (him) from all sides.
-
-
 
 **भीमसेनस्तु कौन्तेयो हत्वा युद्धे सुतांस्तव।  
 मेने कृतार्थमात्मानं सफलं जन्म च \[प्रभो\]॥**
@@ -7621,8 +6831,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 
  With a strong iron arrow which could pierce through any armour, Sahadeva cut completely from off the body that head of Sakuni which was at the root of the evil conduct of the Kauravas.
 
-
-
 **अक्षौहिण्यस्समेतास्तु एकादश हताः \[प्रभो\]।  
 एको दुर्योधनो \[राजन्\] अदृश्यत भृशं क्षतः॥**
 
@@ -7639,8 +6847,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 एवं विचिन्तयानस्तु प्राविशत्तं महाद्दूदम्॥**
 
  He thought of the words of the righteous and wise Vidura. “This great disaster to us and to all the Kshatriyas, surely the very wise Vidura foresaw long ago.” So thinking, he entered the big lake.
-
-
 
 **ततः प्राप्तो धर्मराजस्तं हूदं सह सोदरैः।  
 अभ्यभाषत कौन्तेयः प्रहसन्निव \[भारत\]॥**
@@ -7661,8 +6867,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 रतिर्हि नास्ति मे राज्ये हतपक्षस्य भारत।  
 एषा ते पृथिवी राजन् भंक्ष्वैनां विगतज्वरः॥’**
 
-
-
 **Duryodhana—**
 
  “This has been done by me on account of fatigue, not for saving my life, nor out of fear. And I do not think there is any purpose in fighting now; to me whose adherents have been killed, there is no love for the kingdom, Yudhisthira; this world is yours, king; enjoy it, without any pang.”
@@ -7680,8 +6884,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 **Yudhisthira—**
 
  “You did not part with even a needle end's space to us who, for the sake of the peace of our house, begged but righteously! How do you (now) give up the
-
-
 
  kingdom? Great effort was made by you to burn us; with snakes and poisons, by drowning, by seizing our kingdom, by unkind words and by the dragging of Draupadi, we have been insulted by you, king. Because of this, you sinner, you shall not live.”
 
@@ -7701,8 +6903,6 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 
  “Yudhisthira, one by one, you encounter me; it is not proper in war to make one warrior fight against many. I especially am armourless, tired, submerged in water,
 
-
-
 severely wounded in body and one whose conveyances and soldiers have been destroyed.”
 
 **युधिष्ठिरः—**
@@ -7721,8 +6921,6 @@ severely wounded in body and one whose conveyances and soldiers have been destro
 अहमेतेन संगस्य संयुगे योद्धमुत्सहे।  
 राजा च धृतराष्ट्रोऽयं श्रुत्वा पुत्रं मया हृतम्।  
 स्मरिष्यत्यशुभं कर्म यत्तच्छकुनिबुद्धिजम्॥**
-
-
 
  Then, Bhima of terrible strength told Yudhisthira: “I can meet this Duryodhana in combat and fight. And king Dhritarashtra shall now think of that evil act born of Sakuni's intellect, on hearing his son, Duryodhana, killed by me.”
 
@@ -7744,8 +6942,6 @@ severely wounded in body and one whose conveyances and soldiers have been destro
 
  Dhritarashtra's son, Duryodhana, the best of men, fell.
 
-
-
 **एवं दुर्योधनं हत्वा भीमसेनः प्रतापवान्।  
 शिरश्च राजसिंहस्य पादेन समलोडयत्॥**
 
@@ -7762,8 +6958,6 @@ severely wounded in body and one whose conveyances and soldiers have been destro
 उपसृत्याब्रवीद्दीनो दुर्योधनमरिन्दमम्॥**
 
  Having told Bhima in this manner, the dejected Yudhisthira, in a voice choked with grief, told the valorous Duryodhana, approaching him:
-
-
 
 **‘आत्मनो ह्यपराधेन महद्वयसनमीदृशम्।  
 प्राप्तवानसि यल्लोभान्मदाद्वाल्याच्च भारत॥**
@@ -7787,8 +6981,6 @@ severely wounded in body and one whose conveyances and soldiers have been destro
 **इति श्रुत्वा त्वधिक्षेपं कृष्णाद्दुर्योधनो नृपः।  
 दृष्टिं भ्रूसंकटां कृत्वा वासुदेवे न्यपातयत्॥**
 
-
-
  Hearing this taunt from Krishna, king Duryodhana cast his eye on him, knitting his brow.
 
 **दुर्योधनः—**
@@ -7806,8 +6998,6 @@ severely wounded in body and one whose conveyances and soldiers have been destro
 
 **‘लोभेनातिबलेन त्वं तृष्णया च वशीकृतः।  
 कृतवानस्यकार्याणि विपाकस्तस्य भुज्यताम्॥’**
-
-
 
 **Krishna—**
 
@@ -7832,8 +7022,6 @@ severely wounded in body and one whose conveyances and soldiers have been destro
 
  “There is no sorrow for me that my head was kicked by Bhima with his foot; in a moment, crows, herons and vultures are going to place their feet (on my head).”
 
-
-
 **अस्य वाक्यस्य निधने कुरुराजस्य धीमतः।  
 अपतत्सुमहद्वर्षं पुष्पाणां पुण्यगन्धिनाम्॥**
 
@@ -7855,8 +7043,6 @@ severely wounded in body and one whose conveyances and soldiers have been destro
 
  To calm Gandhari who was incensed by her sorrow, Krishna then went to Hastinapura.
 
-
-
 **उवाच प्रथितं वाक्यं धृतराष्ट्रमरिन्दमः।  
 ‘याचितस्त्वं शमं नित्यं न च तत्कृतवानसि।  
 अल्पोऽव्यतिक्रमो नास्ति पाण्डवानां महात्मनाम्।  
@@ -7871,8 +7057,6 @@ severely wounded in body and one whose conveyances and soldiers have been destro
 
  To Gandhari who was emaciated with grief, Krishna said (these) best words:
 
-
-
  “Auspicious lady ! words of moral and material good, and beneficent to both parties, you spoke; and they were not acted up to by your sons.
 
 **‘दुर्योधनस्त्वया चोक्तो जयार्थी परुषं वचः।  
@@ -7886,8 +7070,6 @@ severely wounded in body and one whose conveyances and soldiers have been destro
 आगम्य शिबिरं रात्रौ सोऽभ्यगच्छत पाण्डवान्॥**
 
  After consoling Gandhari and Dhritarashtra, Krishna returned to the camp in the night and met the Pandavas.
-
-
 
 **अश्वत्थामा कृपश्चैव कृतवर्मा च सात्वतः।  
 तत्रापश्यन्महात्मानं धार्तराष्ट्रं निपातितम्॥**
@@ -7910,8 +7092,6 @@ severely wounded in body and one whose conveyances and soldiers have been destro
 
 **![](../books_images/U-IMG-1701688035Screenshot2023-06-15124029.png)**
 
-
-
 **॥अथ सौप्तिकपर्व॥  
 ![](../books_images/U-IMG-1701688174Screenshot2023-06-15123943.png)**
 
@@ -7929,8 +7109,6 @@ severely wounded in body and one whose conveyances and soldiers have been destro
 धृष्टद्युम्नस्य निलयं शनकैरभ्युपागमत्॥**
 
  Taking leave of Kritavarman and Kripa, hat great warrior Asvatthaman, consumed
-
-
 
 by rage, entered the big camp of the Pandavas, and slowly approached the abode of Dhrishtadyumna.
 
@@ -7952,8 +7130,6 @@ by rage, entered the big camp of the Pandavas, and slowly approached the abode o
 
  Kripa and the evil-minded Hardikya (Kritavarman) set fire to the Pandava camp in three places.
 
-
-
 **तस्या रजन्यास्त्वर्धेन पाण्डवानां महद्बलम्।  
 गमयामास \[राजेन्द्र\] द्रौणिर्य मनिवेशनम्॥**
 
@@ -7970,8 +7146,6 @@ by rage, entered the big camp of the Pandavas, and slowly approached the abode o
 सौप्तिके शिबिरं तेषां हतं सनरवाहनम्॥’**
 
  “Duryodhana, if you still live, hear these words which would give happiness to your ears. Of the Pandavas, seven remain; among those on Dhritarashtra's side, we three remain. All the Panchalas
-
-
 
 have been killed; the sons of the Pandavas have been killed; in an onslaught while everybody was sleeping, their camp. along with men, vehicles and animals, has been destroyed.”
 
@@ -7990,8 +7164,6 @@ have been killed; the sons of the Pandavas have been killed; in an onslaught whi
 तीर्त्वा समुद्रं वणिजस्समृद्धा  
   मग्नाः कुनद्यामिव सीदमानाः॥’**
 
-
-
  Hearing of the slaughter in the nocturnal attack, Yudhisthira wept: “Conquered, others conquer; conquering, we are conquered. These sons of ours who escaped Karna, have been killed by our carelessness. There is no greater death to men in this world than carelessness. We perish like rich merchants who, after crossing the seas, are drowned in a little stream.”
 
 **कृष्णा राजानमासाद्य शोकार्ता न्यपतद्भुवि।  
@@ -8008,8 +7180,6 @@ have been killed; the sons of the Pandavas have been killed; in an onslaught whi
 
  Yudhisthira rushed at Asvatthaman, taking his bow and arrows.
 
-
-
 **जग्राह च शरैषीकां द्रौणिस्सव्येन पाणिना।  
 ‘अपाण्डवाय’ इति रुषा तदत्रं प्रमुमोच ह॥**
 
@@ -8025,8 +7195,6 @@ have been killed; the sons of the Pandavas have been killed; in an onslaught whi
 उभौ शमयितुं वीरौ भारद्वाजधनञ्जयो।  
 दीप्तयोरस्त्रयोर्मध्ये स्थितौ परमतेजसौ॥**
 
-
-
  Sage Narada and the grandfather of the Bharatas, Vyasa, the embodiment of all Dharmas, stood with their supreme splendour, between the two blazing missiles, to calm the two warriors, Asvatthaman and Arjuna.
 
 **सञ्जहार शरं दिव्यं त्वरमाणो धनञ्जयः।  
@@ -8040,8 +7208,6 @@ have been killed; the sons of the Pandavas have been killed; in an onslaught whi
 अहं तं जीवियिष्यामि दग्धं शस्त्राग्नितेजस॥**
 
  Knowing that Asvatthaman had discharged the missile of Brahmasiras at Uttara's womb, Krishna told him: There will be born ason, Parikshit, the continuer of the
-
-
 
 Pandavas' line. I shall bring to life that Parikshit burnt by the heat of the fire of your missile.”
 
@@ -8060,8 +7226,6 @@ Pandavas' line. I shall bring to life that Parikshit burnt by the heat of the fi
 **‘केवलानृष्यमाप्ताऽस्मि गुरुपुत्रो गुरुर्मम।  
 शिरस्येवं मणिं राजा प्रहीतुमनघोऽर्हति॥’**
 
-
-
 **Draupadi—**
 
  “I am simply rid of mydebt (of avenging the murder of my sons); the son of the preceptor is a preceptor to me. The spotless king (Yudhisthira) deserves to wear this jewel on his head.”
@@ -8076,8 +7240,6 @@ Pandavas' line. I shall bring to life that Parikshit burnt by the heat of the fi
 **THUS ENDS THE SAUPTIKA PARVA.**
 
 **![](../books_images/U-IMG-1701690003Screenshot2023-06-15124029.png)**
-
-
 
 **॥अथ स्त्रीपर्व॥  
 ![](../books_images/U-IMG-1701690091Screenshot2023-06-15123943.png)**
@@ -8096,8 +7258,6 @@ Pandavas' line. I shall bring to life that Parikshit burnt by the heat of the fi
 
  Surrounded by thousands of those wailing women who had not been seen before even by the gods, the dejected king Dhritarashtra left in haste his city for the battle-field.
 
-
-
 **शुश्रुवे पितरं वृद्धं निर्यान्तं गजसाहूयात्।  
 शोचमानो \[महाराज\] भ्रातृभिस्सद्दितस्तदा।  
 अन्वीयमानो वीरेण दाशार्हेण महात्मना।  
@@ -8110,8 +7270,6 @@ Pandavas' line. I shall bring to life that Parikshit burnt by the heat of the fi
 दुष्टात्मा भीममन्वैच्छद्दिघक्षुरिव पावकः॥**
 
  Tormented on account of the slaughter of his sons and stricken with sorrow, the father, Dhritarashtra, embraced Yudhisthira who had killed his sons, without liking him. The evil-minded Dhritarashtra (then) sought for Bhima, wishing to burn him like fire.
-
-
 
 **तस्य सङ्कल्पमाशाय भीमं प्रत्यशुभं हरिः।  
 भीममाक्षिप्य पाणिभ्यां प्रददौ भीममायसम्।  
@@ -8128,8 +7286,6 @@ Pandavas' line. I shall bring to life that Parikshit burnt by the heat of the fi
 आयसी प्रतिमा ह्येषा त्वया निष्पातिता विभो॥’**
 
  Krishna, the best of men, said these words: “Dhritarashtra, grieve not; Bhima has not been killed by you; king, it is an iron image (of Bhima) that has been destroyed by you.”
-
-
 
 **धृतराष्ट्रः—**
 
@@ -8151,8 +7307,6 @@ Pandavas' line. I shall bring to life that Parikshit burnt by the heat of the fi
 
  The broad-chested Pandavas met Kunti (their mother); seeing her sons after a long time, Kunti wept and afflicted with grief, she condoled with Draupadi whose sons had been killed.
 
-
-
 **ततः कोपपरीताङ्गी पुत्रशोकपरिप्लुता।  
 जगाद शौरिं दोषेण गान्धारी व्यथितेन्द्रिया॥**
 
@@ -8168,8 +7322,6 @@ Pandavas' line. I shall bring to life that Parikshit burnt by the heat of the fi
 
 **तच्छ्रुत्वा वचनं घोरं वासुदेवो महामनाः।  
 उवाच देवीं गान्धारीमीषदभ्युत्स्मयन्निव॥**
-
-
 
  Hearing those terrible words, the magnanimous Krishna, appearing to smile a little, told queen Gandhari:
 
@@ -8189,8 +7341,6 @@ Pandavas' line. I shall bring to life that Parikshit burnt by the heat of the fi
 
  Kunti then told her sons: “Sons of Pandu! him whom you take as the son of the charioteer and (his wife) Radha, to that
 
-
-
 brother of yours of irreproachable acts, offer water; for he is your eldest brother, born to me by the Sun-god.”
 
 **श्रुत्वा तु पाण्डवास्सर्वे मातुर्वचनमप्रियम्।  
@@ -8203,8 +7353,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 **THUS ENDS THE STRI PARVA.**
 
 **![](../books_images/U-IMG-1701691097Screenshot2023-06-15124029.png)**
-
-
 
 **॥अथ शान्तिपर्व॥  
 ![](../books_images/U-IMG-1701691179Screenshot2023-06-15124029.png)**
@@ -8226,8 +7374,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 ततः प्रकृतयस्सर्वाः पुरस्कृत्य पुरोहितम्।  
 ददृशुर्धर्मराजानमादाय बहुमङ्गलम्॥**
 
-
-
  Joyously, he sat on an excellent golden seat, facing the East. Then all the subjects with the chief priest at their head, met Yudhisthira, taking auspicious objects in their hands.
 
 **व्याघ्रचर्मोत्तरे शुक्ले सर्वतोभद्र आसने।  
@@ -8243,8 +7389,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 ‘वयं राज्यमनुप्राप्ताः पृथिवी च वशे स्थिता।  
 तव प्रसादाद भगवंस्त्रिलोकगतविक्रम।’**
 
-
-
  After sending away all the citizens and the men from the country, king Yudhisthira approached Krishna, the best of men, and smiling, said sweetly on that occasion: “Lord, whose valour pervades all the three worlds! By your grace, we have got the kingdom back and the world is in our control.”
 
 **तं तथा भाषमाणं तु धर्मरराजमरिन्दमम्।  
@@ -8259,8 +7403,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 **Yudhisthira—**
 
  “Greatest wonder! You of immense valour! What is it that you are meditating upon?”
-
-
 
 **वासुदेवः—**
 
@@ -8285,8 +7427,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 
  “When that Bhishma, the Kaurava chief, passes away, knowledge (of several things) will dwindle; hence do I urge you.”
 
-
-
 **ततस्स च हृषीकेशः स च राजा युधिष्ठिरः।  
 कृपादयश्च ते सर्वे चत्वारः पाण्डवाश्च ते।  
 ययुराशु कुरुक्षेत्रं वाजिभिश्शीघ्रगामिभिः॥**
@@ -8307,8 +7447,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 भवद्विधा ह्युत्तमबुद्धिविस्तरा  
   विमुह्यमानस्य जनस्य शान्तये॥’**
 
-
-
  “King of men, you remove by your wisdom the sorrow that has risen in the mind of Yudhisthira; those like you, with an abundance of excellent wisdom, are the persons for calming the bewildered people.”
 
 **भीष्मः—**
@@ -8328,8 +7466,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 **‘आदावेव कुरुश्रेष्ठ राक्षा रञ्जनमिच्छता।  
 देवतानां द्विजानां च वर्तितव्यं यथाविधि॥**
 
-
-
  “First ofall, you best of the Kurus, (Yudhisthira),the king who wants to please his subjects, must conduct himself towards gods and Brahmins in the prescribed manner.
 
 **‘उत्थानेन सदा पुत्र प्रयतेथा \[ युधिष्ठिर\]।  
@@ -8345,8 +7481,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 
 **‘मृदुर्द्दि राजा सततं लङ्घ्यो भवति सर्वशः।  
 तीक्ष्णाच्चोद्विजते लोकस्तस्मादुभयमाचरेत्॥**
-
-
 
  “A king who is always soft is violated on all sides; and the world dreads the severe; so, one should adopt both (softness and severity).
 
@@ -8366,8 +7500,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 
 **आत्मा जेयस्सदा राशा ततो जेयाश्च शत्रवः।  
 धर्मार्थी प्रतिगृहयात् कामक्रोधौ च वर्जयेत्॥**
-
-
 
  “His own self must be conquered by the king for all time; then only are his enemies to be conquered.
 
@@ -8390,8 +7522,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 **दुर्बलस्य च यच्चक्षुर्मुनेराशीविषस्य च।  
 अविषह्यतमं मन्ये मा स्म दर्बलमासदः॥**
 
-
-
  “I think that the eye of the weak, of the sage and of the serpent is most unbearable; do not assail the weak,
 
 **‘दुर्बलांस्तात मन्येथा नित्यमेवाविमानितान्।  
@@ -8403,8 +7533,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 तानि पुत्रान्पशून्घ्नन्ति तेषां मिथ्याभिशंसिनाम्॥**
 
  “Son, consider that the powerless must never be insulted; let not the eyes of the weak burn you and your kinsmen. If one insulted, beaten or harassed, does not get his saviour, that kingdom, divine punishment kills the king. (My) son, remaining in power, don't you live upon the powerless people. The tears that fall from those who weep, being falsely accused, kill the sons and cattle of those who make the false accusation.
-
-
 
 **‘अयुद्धेनैव विजयं वर्धये सुधाधिपः।  
 जघन्यमाहुर्बिजयं युद्धेन च \[नराधिप\]॥**
@@ -8423,8 +7551,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 
  King, hear that which forms the basis of sin. Avarice, that huge rapacious animal, (is the one basis of sin); it is from avarice that sin proceeds; from it proceed sin, unrighteousness and worst misery; this is the root-cause of fraud; everything proceeds from avarice. By the self- possessed person, this avarice, along with delusion, has to be conquered.
 
-
-
 **‘रागो द्वेषस्तथा मोहो हर्षश्शोकोऽभिमानिता।  
 क्रोधो दर्पश्च तन्द्री च परवृद्धघुपतापिता।  
 अज्ञानमेतन्निर्दिष्टं पापानां चैव याः क्रियाः॥**
@@ -8438,8 +7564,6 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 अविहिंसाऽनसूया चाप्येषां समुदयो दमः॥**
 
  “We have not heard in the entire universe of another Dharma equal to self-control. Forbearance, fortitude, non-injury, equanimity, truthfulness, straightforwardness, conquest of the senses, adeptness in the discharge of one's duties, softness, a sense of shame at doing what ought not to be done, absence of fickleness, non-wretchedness, absence of flurry, contentment,
-
-
 
 sweet-speech, not hurting and freedom from envy—the sum-total of all these is Self-control.
 
@@ -8455,8 +7579,6 @@ sweet-speech, not hurting and freedom from envy—the sum-total of all these is 
 अहिंसा चैव \[राजेन्द्र\] सत्याकारा स्त्रयोदश॥**
 
  “Truthfulness is of thirteen kinds in the universe: Truth-speaking,equanimity, self-control without doubt,absence ofjealousy, forbearance, sense of shame, endurance, freedom from spite, renunciation, meditation, nobility, freedom from the effects of happiness and misery, constant
-
-
 
 mercifulness, non-injury-theseare thethirteen[^5] forms of Truthfulness.
 
@@ -8477,8 +7599,6 @@ mercifulness, non-injury-theseare thethirteen[^5] forms of Truthfulness.
 यदा न कुरुते धीरः सर्वभूतेषु पापकम्।  
 कर्मणा मनसा वाचा ब्रह्म सम्पद्यते तदा॥**
 
-
-
  “When he does not fear and when of him none is afraid, when he neither likes nor dislikes, then does a man become the Brahman. When, beinga man of wisdom, he does not sin against any being, in act, mind or speech, then does a man become the Brahman.
 
 **‘मृत्युनाऽभ्याहतो लोको जरया परिवारितः।  
@@ -8492,8 +7612,6 @@ mercifulness, non-injury-theseare thethirteen[^5] forms of Truthfulness.
 मृत्युरापद्यते मोहात् सत्येनापद्यतेऽमृतम्॥**
 
  “Immortality and death—both are established in the body; death takes place out of ignorance; immortality comes as a result of truth.
-
-
 
 **‘नास्ति विद्यासमं चक्षुर्नास्ति सत्यसमं तपः।  
 नास्ति रागसमं दुःखं नास्ति त्यागसमं सुखम्॥**
@@ -8513,8 +7631,6 @@ mercifulness, non-injury-theseare thethirteen[^5] forms of Truthfulness.
 
  “(Voluntary) poverty is happiness in this world, is wholesome, good and free from any trouble; it is the path in which one has no enemies, a difficult path, but easy for the good. To the pure person who
 
-
-
 owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom; superior in its virtues, poverty weighed more. Eternally alarmed is the rich man, like one in the jaws of death.
 
 **‘श्रिया ह्यभीक्ष्णं संवासो मोहयत्यविचक्षणम्।  
@@ -8530,8 +7646,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 **‘सर्वसाम्यमनायासस्सत्यवाक्यं च \[भारत\]।  
 निर्वेदश्चाविधित्सा च यस्य स्यात्स सुखी नरः॥**
 
-
-
  “That man is happy who has universal equanimity, who does not worry himself, who speaks the truth, who has disgust (for mundane things) and no desire to do this and that.
 
 **‘प्रापणात्सर्वकामानां परित्यागो विशिष्यते।  
@@ -8544,8 +7658,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 प्रज्ञा निःश्रेयसी लोके प्रज्ञा स्वर्गो मतस्सताम्॥**
 
  “Knowledge is the support of beings; knowledge is considered the greatest acquisition; knowledge is the greatest happiness in the world; knowledge is considered by the good as heaven.
-
-
 
 **'न तृप्तिः प्रियलाभेऽस्ति तृष्णा नाद्भिः प्रशास्यति।  
 संप्रज्वलति सा भूयः समिद्भिरिव पावकः॥**
@@ -8563,8 +7675,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 
  “Truth is the Godhead, truth is penance; one goes to heaven by truth. Falsehood is of the form of darkness; by darkness, one is taken down. Heaven, they say, is light, and hell, darkness.
 
-
-
 **‘वत्सलास्सर्वभूतानां वाच्याः श्रोत्रसुखा गिरः  
 परिवादापवादौ च पारुष्यं चात्र गर्हितम्।  
 अवज्ञानमहङ्कारो दम्भश्चैव विगर्हितः॥**
@@ -8581,8 +7691,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
   न हीनतः परमभ्यादद्दीत।  
 ययाऽस्य वाचा पर उद्विजेत  
   न तां वदेदुशतीं पापलोक्याम्॥**
-
-
 
  “One should not hit a man at his weak points; should not speak wickedly; should not receive big things from inferior persons; should not speak that cutting word which leads one to the world of sin, the word at which another would shudder.
 
@@ -8602,8 +7710,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 
 **THUS ENDS THE SANTI PARVA.**  
 ![](../books_images/U-IMG-1701784766Screenshot2023-06-15124029.png)
-
-
 
 **॥अथ अनुशासनपर्व॥  
 ![](../books_images/U-IMG-1701784840Screenshot2023-11-27132539.png)**
@@ -8627,8 +7733,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 **‘वृद्धो शातिस्तथा मित्रमनाथा च स्वसा गुरुः।  
 कुलीनः पण्डित इति रक्ष्या निस्स्वास्स्वशक्तितः॥**
 
-
-
  “An old man, a relative, a friend, a widowed sister, a teacher, one of a good family and a learned man, —these, if poor, must be protected by one according to one's ability.
 
 **‘अनायुष्या भवेन्द्रीय तस्मादीय विवर्जयेत्॥**
@@ -8644,8 +7748,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 अहिंसा सर्वभूतानामानृशंस्यं दमश्शमः॥**
 
  “Penance, Knowledge, Softness, Truthfulness, Straightforwardness, Non-injury to all beings, Sympathy, Self-control, Tranquillity, —these constitute purity by bath in waters.
-
-
 
 **‘वृत्तशौचं महाशौचं तीर्थशौचमतः परम्॥**
 
@@ -8664,8 +7766,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 **‘शोकस्थानसहस्राणि भय स्थानशतानि च।  
 दिवसे दिवसे मूढमाविशन्ति न पण्डितम्॥**
 
-
-
  “Every day, thousands of occasions for sorrow, and hundreds of circumstances producing fear take possession of a fool, but not a wise man.
 
 **‘सुखमेकान्ततो नास्ति शकस्यापि त्रिविष्टपे॥**
@@ -8682,8 +7782,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 
  “There is trouble in earning riches; trouble in guarding the riches earned; trouble if they are lost, trouble if they are spent; fie on wealth, the store-house of miseries.
 
-
-
 **‘जायमानांश्च संप्रेक्ष्य म्रियमाणांस्तथैव च।  
 न संवेगोऽस्ति चेरपुंसः काष्ठलोष्टसमो हि सः॥**
 
@@ -8698,8 +7796,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 स्तुवन्नामसहस्रेण सर्वदुःखातिगो भवेत्॥**
 
  “Singing the praise of the Lord of the universe, the God of gods, the Infinite and Supreme Being with His thousand names, one surmounts all misery.
-
-
 
 **‘एष मे सर्वधर्माणां धर्मोऽधिकतमो मतः।  
 यद् भक्त्या पुण्डरीकाक्षं स्तवैरर्चेन्नरस्सदा॥**
@@ -8721,8 +7817,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 सहस्रनाम्ने पुरुषाय शाश्वते  
   सहस्रकोटीयुगधारिणे नमः॥**
 
-
-
  “Obeisance unto that Imperishable Being, of thousand forms, of thousand feet, eyes, heads and hands; obeisance unto that Eternal Being of thousand names, who has in Himself thousands of crores of aeons of Time.
 
 **‘पालय त्वं प्रजास्सर्वाः कृष्णस्तेऽस्तु परायणम्।  
@@ -8739,8 +7833,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 **युधिष्ठिरं सहामात्यमनुजज्ञे नदीसुतः।  
 उवाच चैनं मधुरं नृपं शान्तनवो नृपः॥**
 
-
-
  King Bhishma, son of the Ganges and Santanu, gave leave to Yudhisthira and his ministers and told him sweetly:
 
 **‘प्रविश स्वपुरीं राजन् धर्मे च ध्रियतां मनः।  
@@ -8755,8 +7847,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 आससाद कुरुक्षेत्रे ततश्शान्तनवं नृपः॥**
 
  Saying that he would do so, Yudhisthira went to Hastinapura. After living in his excellent city for fifty nights, and seeing then that the sun had returned (from the South), king Yudhisthira, surrounded by his retinue, came to Bhishma in Kurukshetra.
-
-
 
 **युधिष्ठिरः—**
 
@@ -8778,8 +7868,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 तान्पालय स्थितो धर्मे गुरुशुश्रूषणे रतान्।  
 तव पुत्रा दुरात्मानस्तान्न शोचितुमर्हसि॥’**
 
-
-
  “King (Dhritarashtra) ! By Dharma, these are as much your sous as of Pandu. Standing by Dharma, protect them who take pleasure in the service of the elders. Your sons were evil-natured; you must not grieve for them.”
 
 **वासुदेवं महाबाहुमभ्यभाषत कौरवः॥**
@@ -8797,8 +7885,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 **‘अनुजानामि भीष्म त्वां वस्न्प्राप्नुहि पार्थिव।  
 न तेऽस्ति वृजिनं किञ्चित् शुद्धात्मैश्वर्यसंयुतः॥**
 
-
-
 **Krishna—**
 
  “King Bhishma, I give you leave; join the Vasus; there is no sin in you; you have the godhead which is of the pure spirit.”
@@ -8813,8 +7899,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 जगाम भित्त्वा मूर्धानं दिवमभ्युत्पपात ह॥**
 
  The vital breaths werecontrolled by him at all the centres, and breaking open his head, his soul shot up heavenwards.
-
-
 
 **देवदुन्दुभिनाददच पुष्पवर्षैस्सहाभवत्॥  
 सिद्धा ब्रह्मर्षयश्चैव साधु साध्विति हर्षिताः॥**
@@ -8832,8 +7916,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 
 **![](../books_images/U-IMG-1701838488Screenshot2023-06-15124029.png)**
 
-
-
 **॥ अथ आश्वमेधिकपर्व ॥  
 ![](../books_images/U-IMG-1701838544Screenshot2023-06-15124029.png)**
 
@@ -8850,8 +7932,6 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 नाधर्म्यमभवत्तत्र सर्वो धर्मरुचिर्जनः॥**
 
  Along with his brothers, the righteous Yudhisthira ruled the world, even as the emperor Manu, even as Rama, son of
-
-
 
 Dasaratha. There was nothing unrighteous in Yudhisthira's kingdom; all people loved Dharma.
 
@@ -8872,8 +7952,6 @@ Dasaratha. There was nothing unrighteous in Yudhisthira's kingdom; all people lo
 
  “Even as all beings are looking on, I will bring this (dead child) to life. ‘If Truth and Right are firmly established in me
 
-
-
 for all time, let this dead child born of Abhimanyu come to life.’ As soon as he was touched by Krishna with these words, the dead child attained consciousness.
 
 **ततः कतिपयाहस्य कुरुराजो युधिष्ठिरः।  
@@ -8890,8 +7968,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 
  When Yudhisthira had performed the final ablution after the last horse-sacrifice (of his), Lord Krishna took leave, somewhat in sorrow, of Kunti, Dhritarashtra, Gandhari, Vidura, Draupadi. Vyasa, and the other sages and ministers; He patted Subhadra and Uttara with her son, left (Yudhisthira's) palace, and mounted His chariot.
 
-
-
 **अभीशून्प्रतिजग्राह स्वयं कुरुपतिस्तदा।  
 उपारुह्यार्जुनश्चापि चामख्यजनं शुभम्।  
 दधार भीमश्छत्रं तच्चामरव्यजने सिते।  
@@ -8906,8 +7982,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 
 [^6]: " A yojana is about nine miles."
 
-
-
 **युधिष्ठिरस्तु धर्मात्मा हृदि कृत्वा जनार्दनम्।  
 तद्भक्तस्तन्मना युक्तस्तधाजी तत्परोऽभवत्॥**
 
@@ -8918,8 +7992,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 **THUS ENDS THE ASVAMEDHIKA PARVA.**
 
 **![](../books_images/U-IMG-1701840384Screenshot2023-06-15124029.png)**
-
-
 
 **॥अथ आश्रमवासिकपर्व॥**  
 **![](../books_images/U-IMG-1701840472Screenshot2023-06-15124029.png)**
@@ -8938,8 +8010,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 
  Then, after the fifteenth year had passed, the wise king (Dhritarashtra) felt a disgust (for life in the palace); and, waiting for the proper time to retire into the forests, he then left the palace, along with Gandhari.
 
-
-
 **वनं गन्तुं च विदुरो राज्ञा सह कृतक्षणः।  
 सञ्जयश्च महामात्रस्तूतो गावलाणिस्तथा।  
 जगामैव तदा कुन्ती गान्धारीं परिगृह्य ह॥**
@@ -8954,8 +8024,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 
 **वनं गते कौरवेन्द्रे पाण्डवा भृशदुःखिताः।  
 राजकार्याणि नाकार्षुर्नाभ्यनन्दन्त किञ्चन॥**
-
-
 
  When Dhritarashtra had gone to the forests, the Pandavas, distressed very much, did not perform their royal duties, did not relish anything.
 
@@ -8973,8 +8041,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 **स योगबलमास्थाय विवेश नृपतेस्तनुम्॥**
 
  By the strength of his Yoga, Vidura entered the body of king Yudhisthira.
-
-
 
 **माण्डव्यशापाद्धि स वै धर्मो विदुरतां गतः।  
 येन योगबलाज्जातः कुरुराजो युधिष्ठिरः।  
@@ -8997,8 +8063,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 अथ वायुस्समुद्भूतो दावाग्निरभवन्महान्।  
 गान्धारी च महाभागा जननी च पृथा तव।**
 
-
-
 **दावाग्निना समायुक्ते स च राजा पिता तव।  
 प्रययौ सञ्जयो धीमान् हिमवन्तं महीधरम्॥’**
 
@@ -9017,8 +8081,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 
 **![](../books_images/U-IMG-1701841455Screenshot2023-06-15124029.png)**
 
-
-
 **॥अथ मौसलपर्व॥  
 ![](../books_images/U-IMG-1701841517Screenshot2023-06-15124029.png)**
 
@@ -9036,8 +8098,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 
  Observing then the change in the times that had taken place and desiring to make true what Gandhari had said (namely, that thekinsmen of Krishna killing each other), Krishna, would perish, the subduer of his enemies, ordered an excursion to a water-side.
 
-
-
 **हृष्टाः प्रभासे न्यवसन् सदारा यादवास्तदा।  
 अवर्तत महापानं प्रभासे तिग्मतेजसाम्।  
 जघुरन्योन्यमाक्रन्दे मुसलैः कालचोदिताः।  
@@ -9051,8 +8111,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
   जनार्दनः पितरं प्राह वाक्यम्॥**
 
  At that time, Krishna ordered Daruka, (his charioteer): “Inform Arjuna of the destruction of the Yadus.”Then, he entered the city of Dvaraka and told his father (Vasudeva):
-
-
 
 **‘सर्व भवान्रक्षतु नस्समग्रं  
   धनञ्जयस्यागमनं प्रतीक्षन्।  
@@ -9073,8 +8131,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 योगाचार्यो रोदसी व्याप्य लक्ष्म्या  
   स्थानं प्राप स्वं महात्माऽप्रमेयम्॥**
 
-
-
  Krishna then thought that it was time for his passage (to His own world); (and so) he lay down, entering upon deep Yoga; pervading heaven and earth with his splendour, that Master of Yoga, the Supreme Spirit, reached His own inscrutable place.
 
 **दारुकोऽपि कुरून्गत्वा दृष्ट्वा पार्थान्महारथान्।  
@@ -9089,8 +8145,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 
 **समालिंग्यार्जुन वृद्धो विललाप सुदुःखितः।  
 उवाचेदं वचः काले पार्थो दीनतरस्तथा॥**
-
-
 
  Embracing Arjuna, the aged Vasudeva wept, being greatly distressed. And extremely sad, Arjuna said these words in the proper time:
 
@@ -9110,8 +8164,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 
 **स्त्रियस्ता वृष्णिवीराणामनुजग्मुर्धनञ्जयम्॥**
 
-
-
  The ladies of the (departed) Vrishni heroes followed Arjuna.
 
 **यद्यद्धि पुरुषव्याघ्रो भूमेस्तस्या व्यमुञ्चत।  
@@ -9128,8 +8180,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 **प्रयत्नमकरोत्पार्थो जनस्य परिरक्षणे।  
 अस्त्राणां च प्रणाशेन बाहुवीर्यस्य च क्षयात्।  
 बभूव विमनाः पार्थो दैवमित्यनुचिन्तयन्॥**
-
-
 
  Arjuna made an effort to protect the people. (But), owing to the utter loss of his missiles and owing to the decrease in the power of his arm, Arjuna became dejected, thinking “it is Fate”.
 
@@ -9148,8 +8198,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 **‘यस्स मेघवपुः श्रीमान् बृहत्पङ्कजलोचनः।  
 स कृष्णस्सह रामेण त्यक्त्वा देहं दिवं गतः॥**
 
-
-
 **मौसले वृष्णिवीराणां विनाशो रोमहर्षणः॥  
 शोषणं सागरस्येव मन्दरस्येव चालनम्।  
 नभसः पतनं चैव शैत्यमग्नेस्तथैव च।  
@@ -9166,8 +8214,6 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 
  “That beautiful Krishna of body like the cloud and eyes like a big lotus, has, along with Balarama,left his body and gone to heaven. There was a terrific destruction of the Vrishni heroes in a fight with pestles. The disappearance of Krishna, I consider, is as unbelievableas the dryingup of theocean,the moving of the Mandaramountain, the
 
-
-
 falling of the skies and the cooling of fire. And, bereft of Krishna, I do not want to stay in this world. Hear of this, O sage, more painful to me than that: Sage, even as I was seeing, the Abhiras of the Panchanada region overpowered in battle and carried away by thousands the Vrishni ladies. I took the bow there but could not string it. O great sage, the prowess of my arm is not as it was before. O best of men, you must advise what is good for me.”
 
 **व्यासः—**
@@ -9178,8 +8224,6 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 मोक्षयित्वा तनुं प्राप्तः कृष्णस्स्वस्थानमुत्तमम्॥  
 त्वयाऽपीह महत्कर्म देवानां पुरुषर्षभ।  
 कृतं भीमसहायन यमाभ्यां च महाभुज॥**
-
-
 
 **Vyasa—**
 
@@ -9197,8 +8241,6 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 
  “Scion of Bharata ! strength, wisdom, power and understanding appear in good times and fail (one) when times change.
 
-
-
  “Arjuna, all this which is at the root of the world has itself its root in Time. It is time for you also to go to heaven. This, I think, is supreme good for you.”
 
 **एतद्वचनमाज्ञाय ययौ पार्थो युधिष्ठिरम्।  
@@ -9211,8 +8253,6 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 **THUS ENDS THE MAUSALA PARVA.**
 
 **![](../books_images/U-IMG-1701843963Screenshot2023-06-15124029.png)**
-
-
 
 **॥अथ महाप्रस्थानपर्व॥  
 ![](../books_images/U-IMG-1701844189Screenshot2023-06-15124029.png)**
@@ -9229,8 +8269,6 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 
 **तथैव जगृहुस्सर्वे वल्कलानि \[नराधिप\]।  
 हर्षोऽभवच्च सर्वेषां भ्रातॄणां गमनं प्रति॥**
-
-
 
  Even so, all (the other brothers and Draupadi) put on bark-garments; all of them were very glad to set out (for heaven).
 
@@ -9251,8 +8289,6 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 उवाच धर्मराजानं ब्रूहि यत्पतिता भुवि॥**
 
  Seeing her fallen, the mighty Bhima said to Yudhisthira: “Tell me why Draupadi has fallen on the ground.”
-
-
 
 **युधिष्ठिरः—**
 
@@ -9279,8 +8315,6 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 **भीमः—**
 
 **‘रूपेणाप्रतिमो लोके नकुलः पतितो भुवि॥’**
-
-
 
 **Bhima—**
 
@@ -9312,8 +8346,6 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 
  “Single-handed, I will burn the enemies,' so did Arjuna say; and he did not do that ; therefore, has this Arjuna, who thought himself a hero, fallen.”
 
-
-
 **इत्युक्त्वा प्रस्थितो राजा भीमोऽथ निपपात है॥**
 
  Having said so, Yudhisthira started; Bhima then fell down.
@@ -9342,8 +8374,6 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 **ततस्सन्नादयञ्शको दिवं भूमिं च सर्वशः।  
 रथेनोपाययौ पार्थमारोहेत्यब्रवीच्च तम्॥**
 
-
-
  Then, making heaven and earth resound all over, India came in his chariot to Yudhisthira, and asked him to ascend the chariot.
 
 **युधिष्ठिरः—**
@@ -9364,8 +8394,6 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 
  “Illustrious scion of Bharata! they have (all) gone (to heaven), casting off their human bodies. You shall surely go to heaven even with this body.”
 
-
-
 **युधिष्ठिरः—**
 
 **“अयं श्वा भूतभव्येश भक्तो मां नित्यमेव ह।  
@@ -9385,8 +8413,6 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 **Indra—**
 
  “King, you have attained now immortality, equality with me, complete fortune, the great fulfilment of emancipation, and heaven's happiness; abandon the dog; there is nothing cruel in it.”
-
-
 
 **युधिष्ठिरः—**
 
@@ -9415,8 +8441,6 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 
  “I could not bring them to life; hence I abandoned them! I did not abandon them alive.”
 
-
-
 **तद्धर्मराजस्य बचो निशम्य  
   धर्मस्वरूपी भगवानुवाच॥**
 
@@ -9434,8 +8458,6 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 
  “My son, you were tested by me before in the Dvaita forest and, desiring to secure equality between your mother and step-mother, you wished there that Nakula might come to life. (Now), you
 
-
-
 have renounced the celestial chariot, because this dog is devoted (to you). Hence, there is no king equal to you in heaven.
 
 **‘अतस्तवाक्षया लोकाः स्वशरीरेण \[भारत\]।  
@@ -9450,12 +8472,9 @@ have renounced the celestial chariot, because this dog is devoted (to you). Henc
 
 **॥इति महाप्रस्थानपर्व समाप्तम्॥**
 
-
 **THUS ENDS THE MAHAPRASTHANA PARVA.**
 
 **![](../books_images/U-IMG-1701847308Screenshot2023-06-15124029.png)**
-
-
 
 **॥ अथ स्वर्गारोहणपर्व ॥  
 ![](../books_images/U-IMG-1701847484Screenshot2023-06-15124029.png)**
@@ -9473,8 +8492,6 @@ have renounced the celestial chariot, because this dog is devoted (to you). Henc
 
  Reaching heaven, the righteous king Yudhisthira said: “Those heroic and high-souled brothers of mine of great vows, what are the worlds that are theirs now? I desire to see them; also the great Karna, son of Kunti and one who kept his promise, whom I did not know and caused
 
-
-
 to be killed by the ambidexterous Arjuna. And I do not desire to stay here; I tell you in truth, my heaven is there where they are; I do not regard this as heaven.”'यदि वै तत्र ते श्रद्धा गम्यतां तत्र मा
 
 **यदि वै तत्र ते श्रद्धा गम्यतां तत्र मा चिरम्।’  
@@ -9491,8 +8508,6 @@ to be killed by the ambidexterous Arjuna. And I do not desire to stay here; I te
 **ददर्श चापि कौन्तेयो यातनाः पापकर्मिणाम्॥**
 
  And Yudhisthira witnessed (there) the tortures of the sinful.
-
-
 
 **युधिष्ठिरः—**
 
@@ -9517,8 +8532,6 @@ to be killed by the ambidexterous Arjuna. And I do not desire to stay here; I te
 
  “Alas ! What torture !” said Yudhisthira and stopped. He said (then): “ Who are you? Why are you here?”
 
-
-
 **कर्णोऽहं भीमसेनोऽहमित्येवं ते विचुक्रुशुः॥**
 
  “I am Karna.” “I am Bhima.” So did they cry.
@@ -9542,8 +8555,6 @@ to be killed by the ambidexterous Arjuna. And I do not desire to stay here; I te
 
  “Inform (the gods) that I am not going there (to heaven); I am staying (here, in hell); for, by my association, these brothers of mine who are afflicted become happy.”
 
-
-
 **स्थिते मुहूर्त पार्थे तु व्यगमत्तत्तमो \[नृप\]।  
 न यातना अदृश्यन्त ततो वायुश्शुचिर्ववौ॥**
 
@@ -9564,8 +8575,6 @@ to be killed by the ambidexterous Arjuna. And I do not desire to stay here; I te
 
  “(Yudhisthira !) You must not become angry; hear these words of mine: Hell must be seen by all kings without fail; it is under cover of some pretext that you deceived Drona in respect of his son; hence has hell been shown to you: through some pretext.
 
-
-
 **‘सर्वे स्वर्गमनुप्राप्ता यदर्थं परितप्यसे ।  
 एषा देवनदी पुण्या पार्थ त्रैलोक्यपावनी।  
 अत्र स्नातस्य भावस्ते मानुषो विगमिष्यति॥’**
@@ -9585,8 +8594,6 @@ to be killed by the ambidexterous Arjuna. And I do not desire to stay here; I te
 
  “Oh, most wise king! my son! I am pleased with you. Previously, you were tested by me with questions in the Dvaita forest; again, I tested you there (in your journey to heaven), taking the form of a
 
-
-
 dog; and this is the third test, (which you have stood) by your desiring to stand for the good of your brothers. Son of Kunti! king! your brothers do not deserve hell; come, come, you best of the Bharatas! meet them who have gone to heaven.”
 
 **गङ्गां देवनदीं पुण्यां पावनीमृषिसंस्तुताम्।  
@@ -9603,8 +8610,6 @@ dog; and this is the third test, (which you have stood) by your desiring to stan
 
  Becoming then divine-bodied and along with gods and sages, Yudhisthira saw- there Krishna, along with the lustrous.
 
-
-
 Arjuna ; he saw theninanother place Karna, the best ofwarriors;then Bhimasena, endowed witha divine form, Nakula and Sahadeva and similarly Draupadi, garlanded with lotuses and lilies.
 
 **वसूनेव महातेजा भीष्मः प्राप महाद्युतिः।  
@@ -9618,8 +8623,6 @@ Arjuna ; he saw theninanother place Karna, the best ofwarriors;then Bhimasena, e
 तस्यांशो वासुदेवस्तु कर्मणोऽन्ते विवेश ह॥**
 
  Bhishma of great lustre became one of the Vasus themselves. Drona became one with Brihaspati, the foremost of the sons of Angiras. Dhritarashtra attained the unobtainable worlds of Kubera Accompanied by his two wives, Pandu went to the great Indira's abode Karna who was killed (in the battle) entered the Sun.
-
-
 
 All the sons of Dhritarashtra joined the demons. Vidura entered god Dharma, and so also king Yudhisthira.
 
@@ -9637,8 +8640,6 @@ All the sons of Dhritarashtra joined the demons. Vidura entered god Dharma, and 
 **महाभारतमाख्याय सर्वपापैः प्रमुच्यते॥**
 
  One gets rid of all sins by reciting the Mahabharata.
-
-
 
 **धर्मे चार्थे च कामे च मोक्षे च \[भरतर्षभ\]।  
 यदिहास्ति तदन्यत्र यन्नेहास्ति न कुत्रचित्॥**
@@ -9662,10 +8663,6 @@ All the sons of Dhritarashtra joined the demons. Vidura entered god Dharma, and 
 
 **![](../books_images/U-IMG-1701850423Screenshot2023-06-15124029.png)**
 
-
-
-
-
 **THE MESSAGE OF THE MAHABHARATA  
 BY DR. V. RAGHAVAN, M.A., Ph.D.**
 
@@ -9675,13 +8672,9 @@ BY DR. V. RAGHAVAN, M.A., Ph.D.**
 
  While the Ramayana is cherished as the first among the Kavyas, the Mahabharata is revered as the fifth Veda, and its author, the Rishi Krishna Dvaipayana Vyasa, is looked upon as no other than God Narayana himself; for, the verse adds, who else can be the author of the great Bharata? The Epic is great in every sense. Besides being the epic poem narrating the story of the house of the Kurus, it is, so to say, the cultural encyclopædia of the Hindus. The
 
-
-
 The Epic says of itself: “On Dharma, Artha, Kama and Moksha, what is found here is found elsewhere, what is not present here can be seen nowhere else.”
 
  Nothing less than Truth and Right, Satya and Dharma, form the theme of the great Epic. Sanskrit literary critics have stated that Poetry has its immediate purpose in the readers' enjoyment of its art and its next purpose in the moral awakening which takes place in the readers' hearts. The latter, the *Dharma Vyutpatti*, is an Injunction calling us to do as Rama and Yudhisthira did and to shun what Ravana and Duryodhana did. This Injunction is dissolved in the medium of poetry and is not apparent at first sight; it is not expressed, but being unmistakably implied in it, *suggests* itself to the reader. In effect, the poet's subtle Injunction and Prohibition are more powerful than those shouted from the pulpit. The Mahabharata describes itself as a poem, Kavya, in the beginning (1.1-97) and it is as Kavya that Anandavardhana, the greatest of Sanskrit literary critics, studies the Mahabharata towards the end of his classic, the Dhvanyaloka. He has brilliantly expounded there the final purport of the Great Epic as the realisation of the vanity of earthly glories and as the attainment of Dharma, Vairagya, Santi and Moksha. The changes in values brought about by the passage of Time prove the vanity of all earthly glories (Santi Parva,
-
-
 
 Moksha Dharma, 178,4) and hence it is that both at the beginning and
 the end, the Epic has glorified (1. 1. 272-275 and XVI. 9. 36-40). This Vairagya, together with Dharma, forms the means of our realising God and attaining Liberation. Anandavardhana observes:
@@ -9690,21 +8683,9 @@ the end, the Epic has glorified (1. 1. 272-275 and XVI. 9. 36-40). This Vairagya
 
  “With uplifted hands, I shout; alas! none
 
-
-
 heeds. From Dharma can one attain his Artha and Kama. Why is not that Dharma resorted to? Not out of passion, not out of fear, not out of avarice, not even for the sake of life, should one abandon Dharma. This is the essence; this is the Bharata Gayatri. Meditate upon this as you rise out of bed every morning.”
 
-
-
-
-
-
-
-
-
 ![](../books_images/U-IMG-1701853078Screenshot2023-07-21172948.png)
-
-
 
 **INDEX TO THE PROPER NAMES  
 OCCURRING IN THE TEXT**
@@ -9725,8 +8706,6 @@ OCCURRING IN THE TEXT**
 
 ** AMBALIKA.—** Third daughter of the Kasi king; the second wife of Vichitravirya; through Vyasa's Niyoga, bears Pandu.
 
-
-
 ** AMBIKA.—** Second daughter of the Kasi king; first wife of Vichitravirya; through Vyasa's Niyoga, bears the blind Dhritarashtra.
 
  **ANDHAKAS—**A clan of people, kinsmen of Krishna.
@@ -9740,8 +8719,6 @@ OCCURRING IN THE TEXT**
  **ARJUNA.—** Third Pandava; born of Kunti when she invoked Indra, hence known as Indratmaja.
 
  **Other names:** Partha, Kaunteya, etc., (son of Pritha or Kunti), Phalguna (born in the constellation of Uttaraphalguni), Madhyama Pandava (the middle-born of the five brothers), Bibhatsu (because he never did anything loathsome), Kiriti, Kiritamali, (because he always wore on his head a golden diadem given to him by Indra), Pakasasani (son of Pakasasana, Indra), Jishnu (the victorious), Nara (because he was the incarnation of the ancient sage Nara, the brother of the other ancient sage Narayana, the Lord, who incarnated as Krishna), Dhananjaya (the winner of wealth), Savyasachi (ambidexterous), Gandivadhanvan
-
-
 
 (the Gandiva-bowed), Kapidhvaja, Vanaradhvaja (having a monkey on his banner), Svetavahana (having white horses in his chariot). Also called Krishna, perhaps because of his partial identity with Krishna; hence is his son Abhimanyu called Karshni.
 
@@ -9759,8 +8736,6 @@ OCCURRING IN THE TEXT**
 
  **BAKA.—** A demon living in the vicinity of the town of Ekachakra. Bhima rids the town of this demon.
 
-
-
 ** BALARAMA.—** Elder brother of Krishna; other names: Sankarshana and Rama; an incarnation of the great serpent Adisesha, on which Vishnu is lying; disappears from the world in the form of a huge serpent which issues out of his body and enters the ocean.
 
  **BHARATA.—** Son of Dushyanta and Sakuntala, from whom his race takes its name; and through the race, the Epic, Mahabharata; his descendants are referred to as Bharatas; thus Dhritarashtra, Pandu, their sons and Janamejaya, the great-grandson of the Pandavas, are referred to as Bharata.
@@ -9770,8 +8745,6 @@ OCCURRING IN THE TEXT**
  **BHIMA.—** Second son of Pandu; borne by Kunti by invoking God Vayu; terrible in strength, hence Bhima; also Bhimasena; because of his great appetite, called Vrikodara; Vayuputra, Pavanatmaja, Pavani etc., (son of the Wind-god).
 
 ** BHISHMA.—** Son of Santanu and Ganga; originallycalled Devavrata; afterwardscalled Bhishma on taking the terrible vowof celibacy;the grand-old-man of the Epic; grandfather of the heroes of the story; plays a very large part in the story. Other names: Gangeya, Jahnavisuta, etc., (son of Ganga); Apagasuta, Nadisuta (son of the river, the Ganges); Santanava (son of Santanu); Pitamaha (grandfather).
-
-
 
  Being of royal birth, he is occasionally referred to as king also, (Raja, Narendra, etc.), though he renounced the kingdom in favour of Satyavati's sons.
 
@@ -9795,8 +8768,6 @@ OCCURRING IN THE TEXT**
 
  **DARUKA.—**Krishna's charioteer; carries to the Pandavas the news of the tragic end of the Yadavas.
 
-
-
 ** DASARAJA.—** Chief of the fishermen around the Jumna; foster-father of Satyavati; gives. Satyavati as wife to king Santanu, after securing for her issue promise of succession to the throne. Referred to also as Dasa (fisherman) and Ucchaissravas which seems to be his real name.
 
  **DASARHAS.—**A clan of people who were Krishna's kinsmen.
@@ -9812,8 +8783,6 @@ OCCURRING IN THE TEXT**
  **DEVAKI.—** Krishna's mother; wife of Vasudeva and daughter of Devaka; a half sister of hers was married to Vidura.
 
  **DEVENDRA.—**Indra, king of the heavenly region and the Devas; is invoked by Kunti and gives birth to Arjuna, the third Pandava; also referred to by the names, Sakra, Vasava,
-
-
 
 Mahendra, Indra, Suresvara, Devesa, Devaraja.
 
@@ -9833,8 +8802,6 @@ Mahendra, Indra, Suresvara, Devesa, Devaraja.
 
  **DHRITARASHTRA.—**Born of Ambika, the first wife of Vichitravirya, after his death,
 
-
-
 through Vyasa's Niyoga ; blind, hence referred to as Prajnachakshus (one to whom the mind alone is the eye); marries Gandhari and begets a hundred sons, Duryodhana, Dussasana, Vikarna and others; has a Vaisya wife also, who bears to him the son Yuyutsu. Called also Ambikasuta, Ambikeya (son of Ambika) and Maharajan, Rajan (king).
 
  **DRAUPADEYA.—** Any one of the five sons of Draupadi; all of them are murdered by Asvatthaman in a nocturnal attack on the sleeping camp of the Pandava forces.
@@ -9844,8 +8811,6 @@ through Vyasa's Niyoga ; blind, hence referred to as Prajnachakshus (one to whom
  **DRONA.—** A Brahmin; master of the Dhanurveda, themilitary science; the preceptor of the sons of Dhritarashtra and Pandu, of Karna, and of Dhrishtadyumna; hence referred to simply as Acharya. He was a partial incarnation of Brihaspati, the preceptor of the Devas. Also referred to as Bharadvaja (son of Bharadvaja).
 
  **DRUPADA.—**King of the Panchalas; belongs to the Somaka line; father of Sikhandi, Dhrishtadyumna and Draupadi; father-in-law of the five Pandavas. Other names: Parshata (son of Prishata), Yajnasena, Panchalya, Saumaki (grandson of Somaka).
-
-
 
 ** DURYODHANA.—** Eldest son of Dhritarashtra and Gandhari; the anti-hero of the Epic. Also called Suyodhana, Dhartarashtra, etc., (son of Dhritarashtra), Gandhari (son Gandhari), Raja, Nripa, Kururaja etc., because he was king.
 
@@ -9862,8 +8827,6 @@ through Vyasa's Niyoga ; blind, hence referred to as Prajnachakshus (one to whom
  **GADA.—** Ahalf-brother of Krishna; describes Arjuna's qualities to his sister Subhadra and Subhadra's qualities to Arjuna. As elder brother of this Gada, Krishna is called Gadagraja.
 
  **GANDHAMADANA.—**A part of the Himalayas; lies between Siva's Kailasa and Kubera's Alaka.
-
-
 
 ** GANDHARI.—** Daughter of the king of the Gandharas, Subala, hence called Subalatmaja; wife of Dhritarashtra and mother of Duryodhana and others.
 
@@ -9885,8 +8848,6 @@ through Vyasa's Niyoga ; blind, hence referred to as Prajnachakshus (one to whom
 
  **HIDIMBA.—** The sister of the above mentioned demon, Hidimba; loves Bhima; permitted by Kunti to have Bhima as
 
-
-
 husband; bears to Bhima the son named Ghatotkacha.
 
  **HIMAVAN.—** The Himalayas; the Pandavas spend part of their exile-life on its slopes; Arjuna performs his penance on one of its summits.
@@ -9907,9 +8868,6 @@ husband; bears to Bhima the son named Ghatotkacha.
 
  **KANKA.—** Meansa falseBrahmin;Yudhisthira assumesit as his name  
 
-
-
-
 when he lives as & Brahmin courtier of king Virata.
 
  **KAPI.—** A monkey; the ensign on the banner of Arjuna's chariot presented to him by Agni. Later, for Bhima's sake, his half-brother, Anjaneya-Hanuman, infuses himself into the form of this monkey on Arjuna's banner, during the great battle.
@@ -9922,8 +8880,6 @@ called Vrisha.
  **KASIPATI.—**King of the Kasis; offers three daughters in Svayamvara to the kings; the first wants to marry the king of the Saubhas; the other two marry Vichitravirya, Santanu's second son.
 
  **KAUNTEYA.—** Son of Kunti.**—**Yudhisthira, or Bhima or. Arjuna.
-
-
 
 ** KAURAVA.—** Any scion of the Kuru house, Dhritarashtra, Pandu, or any son of either.
 
@@ -9938,15 +8894,11 @@ advances to Draupadi and is killed by Bhima.
 
  **KRISHNA.—**An incarnation of God Narayana; the dominating personality of the Bharata; of the race of the Yadavas and the Vrishnis and hence called Yadava and Varshneya; the strengthof the Pandavas,who are his aunt Kunti'ssons; also referred to by the following names: Kamsa Kaliya Sudana (the destroyer of his tyrant-uncle Kamsa and the serpent Kaliya), Kamalapatraksha and Pundarikaksha (of lotus eyes), Isvara, Sarvesvara (Lord, Lord of all), Hari, Kesava, Vasudeva,
 
-
-
 Jagannatha, Madhava, Satvata (of the Satvata race), Achyuta, Dasarha (of the Dasarha race), Bhutaguru (Lord of all beings), Gopa (because he lived in childhood among the cowherds of Brindavan), Janardana, Chakragadapani (one who has the discus and mace in his hands), Kesihan (the destroyer of the demonKesin), Pushkarekshana(becausehe had eyes like full-blown lotuses), Dvarakanilaya or D.—vasin (denizen of Dvaraka), Govinda, Yadavanandana (a scion of the Yadava line), Mahayogin (the Great Mystic), Visvatman (Soul of the Universe), Visvabhavana (Creator of the Universe), Tribhuvanesvara (Lord of the three worlds), Hrishikesa, Madhusudana (destroyer of the demon Madhu), Devakiputra (son of Devaki), Sauri (grandson of Sura), Purushottama, Lokanatha, Gadagraja (elder brother of Gada), Andhakavrishninatha, Yadupravira, Vrishnisimha, Vrishnikulapravira, Yadukulodvaha, Vishtarasravas, Vishnu, Bhagavan,Devadevesa,Purana Rishi, Yogacharya,Sarngadhanvan, Sarngin (armed with the Sarnga bow).
 
 ** KRITAVARMAN.—** The only Yadava chief who fights in the great war for Duryodhana; son of Hridika, hence called Hardikya; one of the three survivors on Duryodhana's side; Satvata (because he belonged to that race).
 
  **KURU.—**An ancestor of the Bharatas; the race is named after him also; thus the
-
-
 
 heroes of the Epic are called Kurus, Kauravas, Kauravyas, Kurunandanas and Kurusattamas.
 
@@ -9968,8 +8920,6 @@ heroes of the Epic are called Kurus, Kauravas, Kauravyas, Kurunandanas and Kurus
 
  **MARUTS.—**The gods, the Devas.
 
-
-
  **MAYA.—**The architect of the demons; he was in the Khandava forest while it was being burnt by Agni with the help of Krishna and Arjuna. In return for saving him, Maya builds for the Pandavas an excellent hall in their capital.
 
  **MERU.—** A mythological golden mountain, biggest of all mountains, the centre around which the Sun and the Moon revolve.
@@ -9987,8 +8937,6 @@ heroes of the Epic are called Kurus, Kauravas, Kauravyas, Kurunandanas and Kurus
  **OGHAVATI.—**A stream on the banks of which the Pandavas and Krishna stay for the night, after the battle comes to an end on the eighteenth day; and on whose banks Bhishma lies on a bed of arrows till Uttarayana.
 
  **PANCHAJANYA.—**Krishna's conch.
-
-
 
 ** PANCHALAS.—** The country ruled by king Drupada; gives the naine Panchala to Drupada and Panchali to Draupadi.
 
@@ -10008,8 +8956,6 @@ heroes of the Epic are called Kurus, Kauravas, Kauravyas, Kurunandanas and Kurus
 
  **PRACHYAS.—** The people of the east.
 
-
-
  **PRAMANAKOTI.—** A wooden structure used as bathing stand, projecting into the Ganges; Bhima, who was sleeping there, tired after swimming, was thrown into the Ganges by Duryodhana.
 
  **PRATIKAMI (-MIN).**—Of the Suta caste; the messenger attending on Duryodhana who goes to Draupadi to inform her that she had been made a slave in the game of dice. Some take it as a common name meaning ‘messenger,’ som as the proper name of that particular messenger.
@@ -10025,8 +8971,6 @@ heroes of the Epic are called Kurus, Kauravas, Kauravyas, Kurunandanas and Kurus
  **PRITHA-KUNTI.—**Daughter of Sura, the Yadava chief; originally called Pritha, but later called Kunti having been adopted as daughter by a cousin of Sura, king Kuntibhoja of the Bhojas; first wife of Pandu; mother of the first three Pandavas, Yudhishthira, Bhima and Arjuna.
 
  **PUROCHANA.—**A minister and ally of Duryodhana; Duryodhana entrusts him
-
-
 
 with the task of burning the Pandavas in the lac house at Varanavata; instead, the  
 Pandavas burn him in the same lac house and escape.
@@ -10051,8 +8995,6 @@ Pandavas burn him in the same lac house and escape.
 
  Yudhishthira aims a Sakti and kills his uncle, Salya.
 
-
-
  **SAKUNI.—** Son of the king of the Gandharas, Subala, and hence called Saubala; brother of Gandhari and uncle of Duryodhana; Duryodhana's evil genius; great cheat and adept at dice; is killed by Sahadeva in the great battle.
 
  Also referred to as Gandhara and Gandhararaja (prince of the Gandharas).
@@ -10064,8 +9006,6 @@ Pandavas burn him in the same lac house and escape.
  **SANJAYA.—** The charioteer, minister and messenger of Dhritarashtra; of the Suta caste; hence referred to as Suta, Sutaputra; Gavalgani (son of Gavalgana).
 
  **SANTANU.—** Son of king Pratipa; marries Ganga and gives birth to Bhishma; then marries Satyavati, already mother of Vyasa,
-
-
 
 and gives birth to Chitrangada whodies early and Vichitravirya who succeeds him on the throne.
 
@@ -10085,8 +9025,6 @@ and gives birth to Chitrangada whodies early and Vichitravirya who succeeds him 
 
  **SIKHANDIN.—**Eldest son of Drupada; he was originally a girl and then there was a sex transformation in her; he led a squadron of forces for the Pandavas and was employed to kill Bhishma; for Bhishma was vowed not to fight eunuchs, women or such as had been women once.
 
-
-
 ** SISUPALA.—** King of the Chedis; also called Sunitha; an enemy of Krishna. (The Vidarbha princess Rukmini, who wanted to marry Krishna, was about to be given in marriage to Sisupala by her eldest brother, Rukmin, but Krishna carried her away and married her). Sisupala questions Krishna's greatness in Yudhisthira's Rajasuya and is slain by Krishna.
 
  **SIVA.—**God Siva; one of the Hindu Trinity; mentioned as comparison for great prowess; is propitiated by Arjuna; bestows on Arjuna the Pasupata missile. Othernames Sankara, Isana, Rudra, Hara, Vrishabhadhvaja.
@@ -10102,8 +9040,6 @@ and gives birth to Chitrangada whodies early and Vichitravirya who succeeds him 
  **SRUTASENA.—**Son of Sahadeva and Draupadi.
 
  **SUBALA.—** The king of the Gandharas; his daughter is Gandhari, the wife of
-
-
 
 Dhritarashtra; his son is the villain of the Epic, Sakuni, uncle of Duryodhana.
 
@@ -10127,8 +9063,6 @@ Dhritarashtra; his son is the villain of the Epic, Sakuni, uncle of Duryodhana.
 
  **UTTARA.—** Daughter of king Virata; wife of Abhimanyu, Arjuna's son; mother of Parikshit.
 
-
-
 ** VAJRA.—** Krishna's grandson; survives the Yadavas; is installed as king by Arjuna at Sakra-(Indra) prastha.
 
  **VAJRANABHA.—** This is taken as a descriptive attribute of the discus presented to Krishna by Agni; some take it also as another name of Krishna's Chakra, Sudarsana.
@@ -10149,8 +9083,6 @@ Dhritarashtra; his son is the villain of the Epic, Sakuni, uncle of Duryodhana.
 
  **VEDAS.—** The revealed scriptures of the Hindus.
 
-
-
 ** VICHITRAVIRYA.—** Second son of Santanu and Satyavati; succeeds his brother Chitrangada on the latter's death; married by Bhishma to two daughters of the Kasi king; becomes prey to a wasting disease through indulgence in pleasures, and dies childless.
 
  **VIDURA.—** Born by Vyasa's Niyoga to Sudra maid-servant of Ambika; the minister of the house of the Kauravas; a partial incarnation of God Dharma; stands by Dharma at all costs; loved by Krishna and the Pandavas and loves the Pandavas for their Dhar na; renowned for his wisdom; hence called Vidura and referred to as Mahamati; also referred to as Kshatta (born of a Sudra wife).
@@ -10166,8 +9098,6 @@ Dhritarashtra; his son is the villain of the Epic, Sakuni, uncle of Duryodhana.
  **VISVAKARMAN.—**The architect of the gods in heaven; asked by Indra to rebuild the city of Khandavaprastha for Yudhisthira.
 
  **VRISHNIS.—** A race of Krishna's kinsmen, after whom Krishna gets his name Varshneya.
-
-
 
  **VYASA.—** The author of the Mahabharata; asage; born to Satyavati and sage Parasara, when the former was a maiden; half-brother of Vichitravirya, son of Satyavati and Santanu; raises issue through Niyoga on Vichitravirya's wives; thus father of Dhritarashtra, Pandu and Vidura; appears at critical times to help the Pandavas. Other names: Krishna, Dvaipayana (born on an island), Satyavatisuta (son of Satyavati); once referred to as Bharata Pitamaha, (grandfather of the Bharatas).
 
@@ -10185,8 +9115,6 @@ Dhritarashtra; his son is the villain of the Epic, Sakuni, uncle of Duryodhana.
 
  **YATUDHANAS.—**Demons; the hundred sons of Dhritarashtra, who were manifestations of demons, get merged into the demons after their death.
 
-
-
  **YAVANADHIPA.—** King of the Yavana people whom Arjunavanquishes, as soon asYudhisthira is made Yuvaraja.
 
  **YUDHISTHIRA.—**Eldest son of Pandu; borne by Kunti by invoking God Dharma; the hero of the Epic. Other names: Dharmaraja (the righteous king), Dharmaputra (son of God Dharma), Ajatasatru (one who had no enemy), Ajamidha (scion of Ajamidha, grandfather of Kuru); also referred to as king.
@@ -10195,25 +9123,15 @@ Dhritarashtra; his son is the villain of the Epic, Sakuni, uncle of Duryodhana.
 
 ** YUYUTSU.—**Son of Dhritarashtra and his Vaisya wife; joins the Pandavas in the great battle; the one surviving member of the line of Dhritarashtra; appointed regent for Parikshit by the Pandavas on their journey to the heavens; referred to also as Vaisyaputra.
 
-
-
 ![](../books_images/U-IMG-1701926372Screenshot2023-08-08170946.png)
-
-
 
 **-------------------------------------------------------------------------------**
 
 First Edn. 3,000 Copies Nov. 1935, G. A. Natesan & Co., Madras.
 
-
-
  “No work of the imagination that could be named, always excepting the Iliad, is so rich and so true as the Mahabharata in the portraiture of the human character–not in torment and suffering as in Dante, not under overwhelming passions as in Shakespeare—but human character in its calm dignity of strength and repose, like those immortal figures in marble which the ancients turned out, and which modern sculptors have vainly sought to reproduce. The old Kuru monarch Dhritarashtra, sightless and feeble, but majestic in his ancient grandeur; the noble grandsire Bhishma, “death's subduer” and unconquerable in war; the doughty Drona, venerable priest and vengeful warrior; and the proud and peerless archer Karna—have each a distinct character of his own.............The proud and unyielding Duryodhan, and the fierce and fiery Duhsasan stand out foremost among the wrathful sons of the feeble old Kuru monarch. And Krishna.............unmatched in human wisdom, ever striving for righteousness and peace, he is thorough and unrelenting in war when war has begun. And the women of the Indian Epic possess characters as marked as those of the men. The stately and majestic queen Gandhari, the loving and doting mother Pritha, the proud and scornful Draupadi nursing her wrath till her wrongs are fearfully revenged, and the bright and brilliant and sunny Subhadra,—these are distinct images pencilled by the hand of a true master in the realm of creative imagination.—*R. C. Dutt.*
 
-
-
 *![](../books_images/U-IMG-1701927554Screenshot2023-06-15124029.png)*
-
-
 
 **THE INDIAN EPICS**  
 **THE RAMAYANA AND THE MAHABHARATA**
@@ -10243,8 +9161,6 @@ Foreign 2sh. each. Postage 8d.
 
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS.**
 
-
-
 **V A L M I K I R A M A Y A N A**
 
 CONDENSED IN THE POET'S OWN WORDS
@@ -10271,8 +9187,6 @@ Foreign 2sh. Postage 8d.
 **---------------------------------------------------------------------------------**
 
 **G. A. NATEBAN & Co., PUBLISHERS, MADRAS.**
-
-
 
 **“भारतं भवने यस्य तस्य हस्तगतो जयः।”**
 
@@ -10305,8 +9219,6 @@ Foreign 2sh. Postage 9d.
 
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS.**
 
-
-
 **Sankara's Select Works**  
 *Sanskrit Text and English Translation*
 
@@ -10332,8 +9244,6 @@ Re. 1. To Subs. of the “Indian Review,” A. 12.
 **------------------------------------------------------------------------------**
 
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS.**
-
-
 
 ONE LAKH AND THIRTY THOUSAND SOLD
 
@@ -10372,8 +9282,6 @@ Re. 1. To Subs, of the “Indian Review”, As. 12.
 
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS.**
 
-
-
 **Congress Presidential Addresses**  
 *IN TWO HANDY VOLUMES*
 
@@ -10401,8 +9309,6 @@ SELECT OPINIONS
 **---------------------------------------------------------------------------------**
 
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS.**
-
-
 
 **M A H A T M A G A N D H I 'S**  
 **SPEECHES AND WRITINGS**
@@ -10432,8 +9338,6 @@ BY MAHATMA GANDHI
 
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS.**
 
-
-
 **Indian Statesmen**  
 *DEWANS AND PRIME MINISTERS*
 
@@ -10456,8 +9360,6 @@ Price R. 3. To Subs, of the “I.R”, Rs. 2-8.
 **--------------------------------------------------------------------------------**
 
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS.**
-
-
 
 **Indian Christians**
 
@@ -10489,8 +9391,6 @@ Rs. 3. To Subs, of "Indian Review", Rs. 2-8,
 **---------------------------------------------------------------------------------**
 
 **G. A. NATESAN & CO., PUBLISHERS, MADRAS,**
-
-
 
 **W e d d e r b u r n 's**  
 SPEECHES AND WRITINGS
@@ -10525,8 +9425,6 @@ Rs 3. To Subscribers of “Indian Review”, Rs. 2-8,
 **--------------------------------------------------------------------------------**
 
 **G. A. NATESAN & CO., PUBLISHERS, MADRAS.**
-
-
 
 **Leaders of the Brahmo Samaj**  
 **Being a Record of the Lives and Achievements  
@@ -10565,8 +9463,6 @@ Re. One. To Subs. of “Indian Review ”, As. 12.
 **---------------------------------------------------------------------------------**  
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS.**
 
-
-
 **Indians Overseas**  
 BY DR. LANKA SUNDARAM, M.A., Ph.D.
 
@@ -10599,8 +9495,6 @@ Rs. 2. To Subs. of “The Indian Review”, Re 1.8.
 
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS.**
 
-
-
 **Tales from the Sanskrit Dramatists**  
 THE FAMOUS PLAYS OF  
 KALIDABA, BHASA, HARSHA, SUDRAKA.  
@@ -10630,8 +9524,6 @@ To Subscribers of the “Indian Review,” Re. One.
 **---------------------------------------------------------------------------------**
 
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS.**
-
-
 
 **Dr. Ray's Essays and Discourses**
 
@@ -10669,8 +9561,6 @@ Rs. 3. To Subs. of the “I. R.” Rs 2-8.
 
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS**
 
-
-
 **Swami Vivekananda's**  
 SPEECHES AND WRITINGS
 
@@ -10703,8 +9593,6 @@ Price Re. 1-8, To Subs. of “I.R”, Re. 1-4.
 **---------------------------------------------------------------------------------**
 
 **G.A.NATESAN & Co.,PUBLISHERS, MADRAS.**
-
-
 
 **HINDU ETHICS**  
 **PRINCIPLES OF HINDU RELIGIO-SOCIAL REGENERATION  
@@ -10745,21 +9633,5 @@ Foreign Sah. Postage 9d.
 
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS**
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
 

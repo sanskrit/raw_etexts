@@ -16,17 +16,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAxODYxNjIwMTI
 
 \[
 
-
-
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
 
 INTRODUCTION.
 
@@ -38,8 +30,6 @@ I
 
 **अ**–represents the Principal Text printed. The Manuscript belongs to Brahma Sri Krishna Sastrigal, Palace Pauranikar, Trivandrum. Its description is as follows:–Substance–palm–leaf; Size–18 × 2 inches; Leaves–
 
-
-
 INTRODUCTION
 
 410; Lines—10—12 to a page; Script Grantha; S'anti Parvan Complete.
@@ -47,8 +37,6 @@ INTRODUCTION
 **क—is** used for additional readings, etc. The Manuscript belongs to His Highness the Maharaja of Travancore and of Travancore and was made available to us through the kindness of Sir C. P. Ramaswami Aiyer, K. C. I. E. Its description is as follows:—Substance—palm—leaf; Size—28 × 1inches; Leaves:—439; Lines 9—10 to a Page; Script—Tamil—Grantha; S'ānti Parvan complete: Date of Transcription—1791 A. D.
 
 **ख—is** used for additional readings, etc. to the end of p. 870. The Manuscript belongs to Mr. R. S. Rajagopala Ayyar, Advocate, Trichnopoly, whose native village is Nalloor in the Tanjore District. Its description is as follows:— Substance— palm leaf; Size—15×2 inches; Lines—18—20 to a page; Leaves (346—438); Script—Grantha. Santi Parvan Rājadharma and Āpaddharma complete.
-
-
 
  From p. 871 onwards, a new Manuscript ख is used for additional readings etc. The Manuscript belongs to Mr. Subba Rao (Rayar House) of Viravanallur village in the Tinnevelly District. Its description is as follows:—Substance—palm—leaf; Size—16 × 1 inches; Lines—9 to a page; Leaves 242; Script—Grantha; Santi Parvan—Moksadharmabreaks off at the end.
 
@@ -58,33 +46,21 @@ II
 
  From the Parvasangraha—Parvan to the Ādi Parvan, it will be observed that the S'ānti Parvan
 
-
-
 should consist of 329 chapters and 14725 stanzasaccording to the Northern Recension and 339 chapters and 14525 stanzas only according to the Southern Recension. Our remarks regarding the scheme of chapters and the total number of stanzas in the S'ānti Parvan according to the Principal Text printed are held over for inclusion in Volume XV which completes the S'ānti Parvan.
 
  All Manuscripts representative of the Southern Recension of the S'ānti Parvan, agree in dividing the S'ānti Parvan into two main sub–parvans, the Rājadharma Parvan and the Mokşa–dharma Parvan. The former Rajadharma Parvan includes the Āpaddharma section also according to the colophons in all the Manuscripts. However, we know from the Parvasangraha Parvan of the Ādi Parvan (Southern Recension, Vol. I pp. 50–1) that the Sānti Parvan consists of six sub–parvans—Ābhi–secanikaparvan (chapter 1–33 and 35–38) Cārvākanigrahaparvan (chapter 34 ) Grhapravibhāgaparvan (chapter 39) Rajadharmaparvan (chapters 40–120) Apaddharmaparvan (chapters 121–148
 
-
-
 and Mokşadharmaparvan (chapters 149 339). In editing the Principal Text of the Southern Recen-sion, we have therefore divided the S'ānti Parvan into the above six sub-parvans, so as to preserve in tact the scheme of one hundred sub-parvans for the entire Mahābhārata.
-
-
 
 V
 
-
-
 From the Concordance, it will be seen that chapters 190, 194, 196, 199, 201, 202, 205, 206 of the Principal Text edited (Southern Recension) are conspicuous by their absence in the Northern Recension and in all the manuscripts representative of the Southern Recension. These chapters are, however, printed in the Kumbakonam Edition of the Mahābhārata, published by Mr. T.R. Krishnachariar. In his edition, Mr. Krishnacharya points out that these chapters were printed by him from a Manuscript designated belonging to Pāndurangi Rāmacandrācārya written in Telugu Script on palm-leaf. These chapters are highly significant as significant as Vādirāja, the learned author of the commentary Lakṣālaṁkāra culls Pratikas from each of these chapters, proving thus that they are integral chapters of the Southern Recension. We have not yet been able to get at the original manuscript of Ramacandrācārya. We have examined all the Manuscripts of S'ānti Parvan available at Tanjore and Madras. We have not yet been able to get at any manuscript containing the above chapters. The omission of these chapters in all our manuscripts representative of the Southern Recension and the inclusion of these chapters by Vādirāja, one of the earliest of Mahābhārata.
-
-
 
 commentators raise textual problems of far-reaching importance to Mahābhārata Text-tradition. More of this in the next volume-Volume XV, which completes the S'ānti Parvan.
 
 VI
 
  In regard to almost all the other Parvans of the Mahābhārata, we have been able to choose Manuscripts, thoroughly representative of the Southern Recension and written in as many South Indian scripts as possible, i.e., Grantha, Malayalam and Telugu. In the case of the S'ānti Parvan, however, our attempts to get at reliable manuscripts written in Telugu Script have so far, proved fruitless. All the Manuscripts of the S'ānti Parvan written in the Telugu script and available at the famous manuscript libraries at Madras and Tanjore, as well as those belonging to several private parties, are invariably representative of the Northern Recension from our point of view. We have therefore been forced to edit this Parvan with the aid of representative and reliable manuscripts written in Grantha script alone. The manuscript of the Trivandrum Palace, though written in Tamil–Grantha, is a fair representative of the Malayalam tradition as it belongs to a recognised family of manuscripts of Malayalam Script.
-
-
 
 VII
 
@@ -102,8 +78,6 @@ VII
 
 \(6\) Arjunamisra is the author of Dipika, known also as Arthadipika. He quotes Sarvajnanārāyana.
 
-
-
 \(7\) Nilakaṇṭha is the author of Bhāvadipa. He may be assigned to the sixteenth century A. D. Of the above authors, we have at least some knowledge of their comparative chronology. There are others of whom no definite information regarding their age is so far available. Of these latter mention may be made of the following.
 
 \(8\) Caturbhujamisra is the author of Tātparya. prākasini. Burnell mentions a Lakṣmaṇa, known also as Sandilya Lakṣmaṇa as the author of Prākasa. Caturbhujamisra and Lakṣmaṇa are identical and not different personages.
@@ -120,8 +94,6 @@ VII
 
 \(14\) Srinivasa, the pupil of Purnabodha is the author of Bhāvavivṛti.
 
-
-
 \(15\) Rāmakṛṣṇa is the author of Virodharthabhanjani.
 
  Of the above commentaries, only one, that of Nilakantha (No. 7) is available in full in print. All the others are available only in manuscripts scattered over the several libraries in India. In our introduction to Vol XV which completes the S'ānti Parvan, we propose to fix the chronology of all these fifteen commentators and estimate their contribution to the fixing of the Text-tradition of the Mahābhārata.
@@ -130,13 +102,10 @@ VIII
 
  Besides the omission of chapters 190, 194, 196, 199, 201, 202, 205 and 206 of the Principal Text edited (Southern Recension), the Northern Recension omits chapter 195 of the Southern Recension, wherein Bhişma narrates to Yudhisthira the advice given to Narada by Srinārāyaṇa, as to what one should do on the approach of death.  
 
-
 The Presidency College,                     P. P. S. SASTRI,  
     Madras.                            
     * Editor.*  
   10–8–1936.
-
-
 
 |                                       |                                                                         |       |
 |:-------------------------------------:|:-----------------------------------------------------------------------:|:-----:|
@@ -161,8 +130,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |                  १२८                  |           युधिष्ठिरेण राज्ञैकेन शत्रुवशमानीतेन कर्तव्यप्रश्नः           |  ६७९  |
 |                                      |           मार्जारमूषिकवृत्तान्तेन शत्रुणा सन्धिविधाननिरूपणम्            |  ६८१  |
 |                                      |                मूषिकेन मार्जारात् स्वप्राणरक्षणसन्नहनस्                 |  ६८३  |
-
-
 
 |         |                                                                             |       |
 |---------|-----------------------------------------------------------------------------|-------|
@@ -189,8 +156,6 @@ The Presidency College,                     P. P. S. SASTRI,
 | १३१     | युधिष्ठिरेण सर्वतोमुखविपरसम्भवे कर्तव्यप्रश्नः                              |      |
 |        | विश्वामिवश्वपचसंवादानुवादेन विपदि कर्तव्यनिरूपणम्                           |      |
 |        | विश्वामित्रेणापि विपत्काले श्वपचगृहे मांसेनात्मरक्षणविधानम्                 |      |
-
-
 
 |         |                                                                       |       |
 |---------|-----------------------------------------------------------------------|-------|
@@ -220,8 +185,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | शौनकेन जनमेजयं प्रति धर्मकथनपूर्वकं ब्रह्महत्यापनोदायाश्वमेधयाजनम्    |      |
 |        | जनमेजयेन राज्यप्राप्तिः                                               |      |
 
-
-
 |         |                                                                                                   |       |
 |---------|---------------------------------------------------------------------------------------------------|-------|
 | अध्यायः |                                                                                                  | पुटम् |
@@ -245,8 +208,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | नारदेन वायुं प्रति शाल्मल्युक्ताधिक्षेपवचनकथनम्                                                   |      |
 |        | वायुना शाल्मलिं प्रति कोपेन तद्वलप्रकटनचोदनम्                                                     |      |
 |        | शाल्मलिना वायुं प्रत्यधिक्षेपवचनम्                                                                |      |
-
-
 
 |         |                                                                        |       |
 |---------|------------------------------------------------------------------------|-------|
@@ -274,8 +235,6 @@ The Presidency College,                     P. P. S. SASTRI,
 | १४४     | क्षत्रियैः शिष्टेभ्यो ब्राह्मणेभ्य एव यागीयद्रव्यादिप्रतिपादननियमकथनम् |      |
 |        | क्षत्रियैः ब्राह्मणेषु कल्पनीयवृत्तिविवेचनम्                           |      |
 |        | ब्राह्मणानां वेदतुल्यत्वकथनम्                                          |      |
-
-
 
 |         |                                                                                |       |
 |---------|--------------------------------------------------------------------------------|-------|
@@ -306,8 +265,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | केनचिद्ब्राह्मणेन गौतमवृत्तिविगर्हणम्                                          |      |
 |        | गौतमेन वणिग्भिस्सह समुद्रगमनोद्यमनम्                                           |      |
 
-
-
 |         |                                                                                          |       |
 |---------|------------------------------------------------------------------------------------------|-------|
 | अध्यायः |                                                                                         | पुटम् |
@@ -333,8 +290,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | इन्द्रेण बकराजशापकथनम्                                                                   |      |
 |        | भीष्मेण सर्वपापिनामपेक्षया कृतघ्नस्य निष्कृत्यभावकथनम्                                   |       |
 
-
-
 |         |                                                                                                      |       |
 |---------|------------------------------------------------------------------------------------------------------|-------|
 | अध्यायः |                                                                                                     | पुटम् |
@@ -356,8 +311,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | ब्राह्मणेन नाग प्रत्याश्चर्यकथनप्रार्थनम्                                                            |      |
 | १५९     | नागेन ब्राह्मणं प्रति सूर्यमण्डलतेजोऽन्तरवृत्तिवृत्तान्तकथनम्                                        |      |
 | १६०     | नागेन ब्राह्मणं प्रति स्वमुद्दिश्य सूर्योक्तो छवृत्तिमुनिस्वरूपकथनकथनम्                              |      |
-
-
 
 |         |                                                                                                |       |
 |---------|------------------------------------------------------------------------------------------------|-------|
@@ -384,8 +337,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | सृगालावस्थेनेन्द्रेण बहुभिर्लाभैरपि तृष्णायाः शान्त्यभावकथनम्                                  |      |
 |        | इन्द्रेण काश्यपं प्रति तत्प्राणपरित्यागोद्यमनिवर्तनम्                                          |      |
 |        | इन्द्रेण स्वस्य सृगालत्वप्राप्तिहेतुकथनम्                                                      |      |
-
-
 
 |         |                                                                                 |       |
 |---------|---------------------------------------------------------------------------------|-------|
@@ -415,8 +366,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | धर्मस्य सुखहेतुत्वस्य सुखस्यानित्यतायाश्च कथनम्                                 |      |
 |        | धर्मस्य सुखहेतुत्वे तपस्त्रिषु व्यभिचारशङ्कनम्                                  |      |
 |        | तमसः शारीरमानसविविध दुःखहेतुत्वकथनम्                                            |      |
-
-
 
 |         |                                                                 |       |
 |---------|-----------------------------------------------------------------|-------|
@@ -449,8 +398,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | प्रवर्तकनिवर्तकधर्मकथनम्                                        |      |
 | १८५     | जापकोपाख्यानकथनम्                                               |      |
 
-
-
 |         |                                                             |       |
 |---------|-------------------------------------------------------------|-------|
 | अध्यायः |                                                            | पुटम् |
@@ -480,8 +427,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | परस्य ब्रह्मणो विज्ञानप्रकारकथनम्                           |      |
 |        | निवृत्तशब्दादिविषयैरेव परब्रह्मणो वेदनीयत्वकथनम्            |      |
 
-
-
 |         |                                                                |       |
 |---------|----------------------------------------------------------------|-------|
 | अध्यायः |                                                               | पुटम् |
@@ -509,8 +454,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | नारददर्शनेन सावित्रीमुखात् विचित्रपुरुषोत्पत्तिकथनम्           |      |
 |        | नारदेन सावित्रींप्रति तन्मुखोद्भूतपुरुषस्य प्रश्नः            |      |
 
-
-
 |         |                                                                                     |       |
 |---------|-------------------------------------------------------------------------------------|-------|
 | अध्यायः |                                                                                    | पुटम् |
@@ -536,8 +479,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | श्रीभगवता वराहरूपिणा दानवमर्दनम्                                                    |      |
 |        | ब्रह्मणा देवान्प्रति श्रीभगवतो वाराहरूपप्रदर्शनपूर्वकं तरस्तुतिः                   |      |
 
-
-
 |         |                                                                                        |       |
 |---------|----------------------------------------------------------------------------------------|-------|
 | अध्यायः |                                                                                       | पुटम् |
@@ -556,8 +497,6 @@ The Presidency College,                     P. P. S. SASTRI,
 | १९५     | श्रीभगवता नारदं प्रति श्रीभगवदनुस्मृतिप्रकारकथनम्                                      |      |
 |        | नारदेन श्रीभगवतः चरणारविन्दयोः प्रपत्त्यनुष्ठानपूर्वकं तत्स्तुतिकरणम्                  |      |
 |        | नारदेन श्रीभगवतः शरणवरणेन सर्वपापविनिर्मोकसाधननिरवग्रहानुग्रहप्रार्थनम्                |      |
-
-
 
 |         |                                                                                                |       |
 |---------|------------------------------------------------------------------------------------------------|-------|
@@ -583,8 +522,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | जीवगतदोषाणां विस्तरेण प्रपञ्चनम्                                                               |      |
 |        | ब्रह्मचर्योपायप्रतिपादनम्                                                                      |      |
 |        | मोक्षसाधनप्रतिपादनम्                                                                           |      |
-
-
 
 |         |                                                                                         |       |
 |---------|-----------------------------------------------------------------------------------------|-------|
@@ -613,8 +550,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | तपश्शब्दस्य ज्ञानार्थकत्वकथनम्                                                          |      |
 |        | सुवर्चलाश्वेतकेतुपरिणयोदन्तेन ज्ञानस्य मोक्षसाधनत्वकथनम्                                |      |
 
-
-
 |         |                                                                                |       |
 |---------|--------------------------------------------------------------------------------|-------|
 | अध्यायः |                                                                               | पुटम् |
@@ -638,8 +573,6 @@ The Presidency College,                     P. P. S. SASTRI,
 | २१२     | इन्द्रबलिंसंवादेन विपदि धैर्यालम्बनस्य सुखसाधनत्वप्रदिपादनम्                   |      |
 |        | सर्वस्य कालवश्यत्वेन कालस्यदुर्वारस्वकथनम्                                    |      |
 |        | इन्द्रपदस्यातीतबह्निन्द्रकत्वकथनम्                                             |      |
-
-
 
 |         |                                                                     |       |
 |---------|---------------------------------------------------------------------|-------|
@@ -669,8 +602,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | जन्मनि जन्मनि तत्तत्कर्मानुगुणसृष्ट्यादिविधानम्                     |      |
 |        | सृष्टयादिकर्तॄणां मतभेदेन भेदकथनम्                                  |      |
 
-
-
 |         |                                                                |       |
 |---------|----------------------------------------------------------------|-------|
 | अध्यायः |                                                               | पुटम् |
@@ -697,8 +628,6 @@ The Presidency College,                     P. P. S. SASTRI,
 | २२४     | इन्द्रियनिग्रहादीनां ब्रह्मज्ञानसाधनत्वकथनम्                   |      |
 |        | भूतपञ्चककार्य निरूपणपूर्वकं तत्तद्गुणादिनिरूपणम्               |      |
 |        | परमात्मनः अनैन्द्रिायिकत्वकथनपूर्वकं सर्वव्यापित्वकथनम्        |      |
-
-
 
 |         |                                                            |       |
 |---------|------------------------------------------------------------|-------|
@@ -729,8 +658,6 @@ The Presidency College,                     P. P. S. SASTRI,
 | २३२     | आध्यामिकविषय विवेचनम्                                      |      |
 | २३३     | ज्ञानस्यैन्द्रियिकत्वादिनिरूपणपूर्वकं बुद्धिवैचित्र्यकथनम् |      |
 
-
-
 |         |                                                               |       |
 |---------|---------------------------------------------------------------|-------|
 | अध्यायः |                                                              | पुटम् |
@@ -759,8 +686,6 @@ The Presidency College,                     P. P. S. SASTRI,
 | २४५     | धर्मस्य देशकालाद्यानुगुण्येन वैविध्येन तत्प्रामाण्याक्षेपः    |      |
 |        | धर्मस्य सङ्ग्रहेण निष्कर्षकथनम्                               |       |
 
-
-
 |         |                                                                      |       |
 |---------|----------------------------------------------------------------------|-------|
 | अध्यायः |                                                                     | पुटम् |
@@ -788,8 +713,6 @@ The Presidency College,                     P. P. S. SASTRI,
 |        | कुण्डधारमणिभद्र संवादः                                               |      |
 |        | कुण्डधारस्य धर्म एव रतिः                                             |       |
 
-
-
 |         |                                                        |       |
 |---------|--------------------------------------------------------|-------|
 | अध्यायः |                                                       | पुटम् |
@@ -799,8 +722,6 @@ The Presidency College,                     P. P. S. SASTRI,
 | २५९     | मोक्षोपायस्य विस्तरेण कथनम्                            | १४५७  |
 | २६०     | भूतानां सृष्टिस्थितिसंहारादिकथन पूर्वकं देवलनारदसंवादः | १४६०  |
 |        | देवलनारदसंवादः                                         | १४६०  |
-
-
 
 **॥शान्तिपर्वणि – द्वितीयसम्पुटम्॥  
 ![](../books_images/U-IMG-1701220262PPP.png)  
@@ -831,8 +752,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 बाह्यश्चेद्विजिगीषुस्स्याद् धर्मार्थकुशलश्शुचिः।
 
-
-
 जवेन सन्धिं कुर्वीत पूर्वं पूर्वं विमोक्षयेत्॥  
 आत्मनस्सन्निरोधेन सन्धिं तेनापि रोचयेत्॥४॥
 
@@ -862,8 +781,6 @@ The Presidency College,                     P. P. S. SASTRI,
 युद्धे हि सन्त्यजन् प्राणाञ् शक्रस्यैति सलोकताम्॥ ११
 
 सर्वलोकागसं कृत्वा मृदुत्वं गन्तुमेव च।
-
-
 
 शान्तिपर्वणि–आपद्धर्मपर्व
 
@@ -900,8 +817,6 @@ The Presidency College,                     P. P. S. SASTRI,
 विज्ञानबलमास्थाय जीवितव्यं तदा भवेत्।  
 सर्वं साध्वर्थमेवेदम् असाध्वर्थं न किञ्चन॥३॥
 
-
-
 असाधुभ्योऽर्थमादाय साधुभ्यस्सम्प्रयच्छति।  
 आत्मानं सङ्क्रमं कृत्वा कृत्स्नधर्मकृदेव सः॥४॥
 
@@ -931,8 +846,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न वाच्यः परिवादो वै न श्रोतव्यः कथञ्चन।  
 कर्णौ तत्र पिधातव्यौ गन्तव्यं वा ततोऽन्यतः॥१२॥
 
-
-
 न सतां शीलमेतद्वै परिवादो न पैशुनम्।  
 गुणानामेव वक्तारस् सन्तो नित्यं युधिष्ठिर॥१३॥
 
@@ -961,8 +874,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यथा मृगस्य विद्धस्य मृगव्याधः पदं नयेत्।  
 कक्षे रुधिरपातेन तथा धर्मपथं नयेत्॥२१॥
-
-
 
 यथा सम्यग्विनीतेन पथा गन्तव्यमप्युत।  
 राजर्षीणां वृत्तमेतद् एवं गच्छ युधिष्ठिर॥
@@ -997,8 +908,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अबलस्य कुतः कोशो ह्यकोशस्य कुतो बलम्।  
 अबलस्य कुतो राज्यम् अराज्ये श्रीः कुतो भवेत्॥४॥
 
-
-
 उच्चैर्वृत्तेश्श्रियो हानिर् यथैव मरणं तथा।  
 तस्मात् कोशं बलं मित्राण्यथ राजा विवर्धयेत्॥५॥
 
@@ -1028,8 +937,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 स्थापयेदेव मर्यादां जनचित्तप्रसादिनीम्।  
 अल्पा ह्यर्थेषु मर्यादा लोके भवति पूजिता॥१३॥
-
-
 
 नायं लोकोऽस्ति न पर इति व्यवसितो जनः।  
 नालं गन्तुमिहाश्वासं नास्तिक्यभयशङ्कितैः॥१४॥
@@ -1063,8 +970,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८७॥ आपद्धर्मपर्वणि तृतीयोऽध्यायः॥ ३॥  
 \[अस्मिन्नध्याये २० श्लोकाः\]
 
-
-
 **॥चतुर्विंशत्यधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1700885358tttt.png)**  
 
@@ -1097,8 +1002,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अति धर्माद्बलं मन्ये बलाद्धर्मः प्रवर्तते  
 बले प्रतिष्ठितो धर्मो धरण्यामिव जङ्गमः॥६॥
 
-
-
 धूमो वायोरिष वशे बलं धर्मोऽनुवर्तते।  
 अनीश्वरो बलं धर्मो द्रुमं वल्लीव संश्रिता॥७॥
 
@@ -1129,8 +1032,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ब्रह्म क्षत्रं सम्प्रविशेद् बहु कृत्वा सुदुष्कृतम्।  
 उच्यमानोऽपि लोकेन बहु तत्तदचिन्तयन्॥१५॥
-
-
 
 उपप्राप्यैवमाचारं क्षिप्रं बहुमतो भवेत्।  
 सुखं च वित्तं भुञ्जीत वृत्तेनैकेन गोपयन्॥१६॥
@@ -1164,8 +1065,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अरण्ये सायं पूर्वाह्णेमृगयूथप्रकोपिता।  
 विधिज्ञो मृगयूथानां निपातानां च कोविदः॥२॥
 
-
-
 सर्वकाननदेशज्ञः पारियात्रचरस्सदा।  
 सर्वज्ञस्सर्ववर्णानाम् अमोघेषुर्दृढायुधः॥३॥
 
@@ -1197,8 +1096,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यथा यथा वक्ष्यसि नः करिष्यामस्तथा तथा।  
 पालयास्मान् यथान्यायं यथा माता यथा पिता॥१०॥
-
-
 
 दस्युः—
 
@@ -1234,8 +1131,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शिक्षार्थंविहितो दण्डो न वधार्थं विधीयते।  
 ये च शिष्टान् प्रबाधन्ते धर्म्यस्तेषां वधस्स्मृतः॥१८॥
 
-
-
 ये हि राष्ट्रोपरोधेन वृत्तिं कुर्वन्ति केचन।  
 तानेवानुम्रियेरंस्ते कुणपं क्रिमयो यथा॥१९
 
@@ -1260,8 +1155,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शान्तिपर्वणि पञ्चविंशत्यधिकशततमोऽध्यायः॥ १२५॥  
 ॥ ८७॥ आपद्धर्मपर्वणि पञ्चमोऽध्यायः॥ ५॥  
 \[अस्मिन्नध्याये २४ श्लोकाः\]
-
-
 
 **॥ षड्विंशत्यधिकशततमोऽध्यायः॥**
 
@@ -1296,8 +1189,6 @@ The Presidency College,                     P. P. S. SASTRI,
 असाधुभ्यो निरादाय साधुभ्यो यः प्रयच्छति॥६॥  
 आत्मानं सङ्क्रमं कृत्वा मन्ये धर्मकृदेव सः॥७॥
 
-
-
 औद्भिज्जा जन्तवो यद्वच् छ्रुत्वा वाचो यथातथा।  
 अनिष्टतस्सम्भवन्ति तथा यज्ञः प्रजायते॥८॥
 
@@ -1325,8 +1216,6 @@ The Presidency College,                     P. P. S. SASTRI,
 प्रभूतमत्स्ये कौन्तेय बभूवुस्सहचारिणः॥२॥
 
 [^21]: "ख–खाते"
-
-
 
 तत्रैकः प्राप्तकालज्ञो दीर्घदर्शी तथाऽपरः।  
 दीर्घसूत्रस्तथा चैकस् त्रयाणां जलचारिणाम्॥३॥
@@ -1360,8 +1249,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एवमुक्तो निराक्रामद् दीर्घदर्शी महामतिः।  
 जगाम स्रोतसैकैन गम्भीरं सलिलाशयम्॥१०॥
 
-
-
 ततः प्रसृततोयं तं समीक्ष्य सलिलाशयम्।  
 बबन्धुर्विविधैर्योगैर् मत्स्यान् मत्स्योपजीविनः॥११॥
 
@@ -1391,8 +1278,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अनागतविधानं तु यो नरः कुरुते क्षमम्।  
 श्रेयः प्राप्नोति सोऽत्यन्तं दीर्घदर्शी यथा ह्यसौ॥ १९॥
 
-
-
 कलाः काष्ठा मुहूर्ताश्च दिनरात्र्यः क्षणा लवाः।  
 पक्षा मासाष्षडृतवः कालस्संवत्सराणि च॥२०॥
 
@@ -1414,8 +1299,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ॥अष्टाविंशत्यधिकशततमोऽध्यायः॥
 
-
-
  भीष्मेण युधिष्ठिरं प्रति आपदि शत्रुणाऽपि सन्धिकरणविषये दृष्टान्ततया मार्जारमूषिकचरितकथनम्॥
 
 ![](../books_images/U-IMG-1700925341ूूू.png)
@@ -1424,8 +1307,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सर्वत्र बुद्धिः कथिता श्रेष्ठा ते भरतर्षभ।  
 अनागता तथोत्पन्ना दीर्घसूत्रा विनाशिनी॥१॥
-
-
 
 तदिच्छामि परां बुद्धिंश्रोतुं भरतसत्तम।  
 यथा राजन्¹विमुच्येत[^23] शत्रुभिः परिपीडितः॥२॥
@@ -1457,8 +1338,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एतद्वै सर्वकृत्यानां परं कृत्यं नराधिप।  
 नैतस्य कश्चिद्वक्ताऽस्ति श्रोता वाऽपि सुदुर्लभः॥१०॥
-
-
 
 ऋते पितामहाद्भीष्मात् सत्यसन्धाजितेन्द्रियात्।  
 तदन्वीक्ष्य महाबाहो सर्वमेतद्ब्रवीहि नः॥११॥
@@ -1492,8 +1371,6 @@ The Presidency College,                     P. P. S. SASTRI,
 वने महति कस्मिंश्चिन्न्यग्रोधस्सुमहानभूत्।  
 लताजालप्रतिच्छन्नो नानाद्विजगणायुतः॥१९॥
 
-
-
 स्कन्धवान् मेघसङ्काशश् शीतच्छायो मनोरमः।  
 वैराज्यमभितो जातस् तरुर्व्यालमृगायुतः॥२०॥
 
@@ -1524,8 +1401,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 स तमुन्माथमारुह्य तदामिषमभक्षयत्।
 
-
-
 तस्योपरि सपत्नस्य बद्धस्य मनसा हसन्॥२८॥
 
 आमिषेषु प्रसक्तस्स कदाचिदवलोकयन्।  
@@ -1555,8 +1430,6 @@ The Presidency College,                     P. P. S. SASTRI,
 समन्तात् संशयस्सोऽयं अस्मांस्तावदुपस्थितः॥३६॥
 
 गतं हि सहसा भूमिं नकुलो मामवाप्नुयात्।
-
-
 
 उलूकश्चेह तिष्ठन्तं मार्जारो वा समाप्नुयात्॥३७॥
 
@@ -1589,8 +1462,6 @@ The Presidency College,                     P. P. S. SASTRI,
 मूढो ग्राहयिता स्वार्थं सङ्गत्या यदि शक्यते॥४४॥  
 कदाचिद्व्यसनं प्राप्य सन्धिं कुर्यान्मया सह॥४४॥
 
-
-
 बलिना सन्निकृष्टस्य शत्रोरपि परिग्रहः।  
 कार्य इत्याहुराचार्या व्यसने जीवितार्थिना॥४५॥
 
@@ -1620,8 +1491,6 @@ The Presidency College,                     P. P. S. SASTRI,
 आत्मार्थं च त्वदर्थं च श्रेयस्साधारणं हि नौ॥५२
 
 इदं हि नकुलोलूकं पापबुद्ध्या हि संस्थितम्।
-
-
 
 न धर्षयति मार्जार तेन मे स्वस्ति साम्प्रतम्॥५३॥
 
@@ -1653,8 +1522,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ईदृशो नः क्रियायोगो भविष्यति सुविस्तरः।
 
-
-
 अहं त्वां तारयिष्यामि मां च त्वं तारयिष्यसि॥६२॥
 
 भीष्मः—
@@ -1684,8 +1551,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 त्यक्तमानोऽस्मि भक्तोऽस्मि शिष्यस्त्वद्धितकृत् तथा।  
 तथा निदेशवर्ती च भवन्तं शरणं गतः॥७०॥
-
-
 
 भीष्मः—
 
@@ -1720,8 +1585,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यद्यदेवङ्गतेनाद्य शक्यं कर्तुं मया तव।
 
-
-
 तदाज्ञापय कर्तास्मि सिद्धिरेवास्तु नौ सखे॥७८॥
 
 अस्मात्ते संशयान्मुक्तस् समित्रगणबान्धवः।  
@@ -1749,8 +1612,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तमत्वरन्तं पलितं पाशानां छेदने तदा।  
 सञ्चोदयितुमारेभे मार्जारो मूषिकं ततः॥८६॥
-
-
 
 **मार्जारः—**
 
@@ -1782,8 +1643,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तस्मिन् कालेऽपि च तथा दिवाकीर्तिभयार्दितः।  
 मम न ग्रहणे शक्तः पलायनपरायणः॥९४॥
 
-
-
 ततो भवत्यपक्रान्ते त्रस्ते भीते च लुब्धकात्।  
 अहं बिलं प्रवेक्ष्यामि भवाञ् शाखां गमिष्यति॥९५॥
 
@@ -1814,8 +1673,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तमेवंवादिनं प्राज्ञं शास्त्रविद्बुद्धिसत्तमः।  
 उवाचेदं वचश्श्रेष्ठं मार्जारं मूषिकस्ततः॥१०२॥
-
-
 
 **मूषिकः—**
 
@@ -1849,8 +1706,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ततः प्रभातसमये विकटः कृष्णपिङ्गलः।
 
-
-
 स्थूलस्फिग्विनतो रूक्षश् श्वयूथपरिवारितः॥११०
 
 शङ्कुकर्णो महावक्रःखनित्री घोरदर्शनः।  
@@ -1878,8 +1733,6 @@ The Presidency College,                     P. P. S. SASTRI,
 विहीनाशः क्षणेनैव तस्माद्देशादपाक्रमत्॥११८॥
 
 जगाम च स्वभवनं चण्डालो भरतर्षभ॥११८॥
-
-
 
 ततस्तस्माद्भयान्मुक्तो दुर्लभं प्राप्य जीवितम्।  
 बिलस्थं पादपाग्रस्थः पलितं रोमशोऽब्रवीत्॥११९॥
@@ -1913,8 +1766,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एवमुक्तः परं सान्त्वं मार्जारेण स मूषिकः।
 
-
-
 उवाच परमार्थज्ञश् श्लक्ष्णमात्महितं वचः॥१२८॥
 
 मूषिकः—
@@ -1947,8 +1798,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अर्थयुक्तिमविज्ञाय यश्शुभे कुरुते मनः।  
 मित्रे वा यदि वा शत्रौ तस्यापि चलिता मतिः॥१३६॥
 
-
-
 न विश्वसेदविश्वस्ते विश्वस्ते नातिविश्वसेत्।  
 विश्वासाद्भयमुत्पन्नम् अपि मूलानि कृन्तति॥१३७॥
 
@@ -1977,8 +1826,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सख्यं सोदर्ययोर्भ्रात्रोर् दम्पत्योर्वा परस्परम्।  
 कस्यच्चिन्नाभिजानामि प्रीतिं निष्कारणादिह॥१४५॥
-
-
 
 यद्यपि भ्रातरः क्रुद्धा भार्या वा कारणान्तरे।  
 स्वभावतस्ते प्रीयन्ते नेतरः प्राकृतो जनः॥१४६॥
@@ -2017,8 +1864,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सा गता सह तेनैव कालयुक्तेन हेतुना॥१५४॥
 
-
-
 त्वं हि मेऽन्त्यन्ततश्शत्रुस् सामर्थ्यान्मित्रतां गतः॥ १५४॥
 
 सोऽहमेवं प्रमाणानि[^40] ज्ञात्वा शास्त्राणि तत्त्वतः।  
@@ -2050,8 +1895,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शुश्रूषां नार्हसे कर्तुं सखे मम न तत् क्षमम्॥१६२॥
 
 त्वया मां सहितं दृष्ट्वा प्रिया भार्या सुताश्च ये।
-
-
 
 कस्मात्तेनैव[^42] खादेयुस् स्पृष्ट्वा प्रणयिनि त्वयि॥१६३॥
 
@@ -2087,8 +1930,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न त्वात्मनस्सम्प्रदानं धनरत्नाद्विशिष्यते।  
 आत्मा हि सर्वथा रक्ष्यो दारैरपि धनैरपि॥१७१॥
 
-
-
 आत्मरक्षण तन्त्राणां[^46] सुपरीक्षितकारिणाम्।  
 आपदो नोपपद्यन्ते पुरुषाणां स्वदोषजाः॥१७२॥
 
@@ -2118,8 +1959,6 @@ The Presidency College,                     P. P. S. SASTRI,
 मित्रेषु वत्सलश्चास्मि त्वद्भक्तश्च विशेषतः।  
 त्वं मामेवं गते साधो न वाचयितुमर्हसि॥१७९॥
 
-
-
 **भीष्मः—**
 
 इति[^47] संस्तूयमानोऽपि मार्जारेण स मूषिकः।  
@@ -2148,8 +1987,6 @@ The Presidency College,                     P. P. S. SASTRI,
 नृषु[^48] तस्मादविश्वासः पुष्कलं हितमात्मनः॥१८६॥
 
 [^48]: "ध—दृष्टं"
-
-
 
 वध्यन्ते न ह्यविश्वस्ताश् शत्रुभिर्दुर्बला अपि।  
 विश्वस्तास्त्वाशुवध्यन्ते बलवन्तोऽपि शत्रुभिः॥१८७॥
@@ -2183,8 +2020,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^51]: "अ—सम्बभूव"
 
-
-
 अत्र प्राज्ञोऽभिसन्धत्ते सम्यग्बुद्धिबलाश्रयात्।  
 तथाऽतिसन्ध्यते प्राज्ञः प्रमादादपि चाबुधैः॥१९५॥
 
@@ -2214,8 +2049,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 उपलभ्य मतिं चाग्र्याम् अरिमित्रान्तरं तथा।
 
-
-
 सन्धिविग्रहकालौ च मोक्षोपायं तथाऽऽपदि॥२०४॥
 
 शत्रुसाधारणे कृत्ये कृत्वा सन्धिं बलीयसा।  
@@ -2244,8 +2077,6 @@ The Presidency College,                     P. P. S. SASTRI,
 \[अस्मिनध्याये २१० श्लोकाः\]
 
 ![](../books_images/U-IMG-1705768354Capture2.JPG)
-
-
 
 ॥एकोनत्रिंशदधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1701265647ववव.png)
@@ -2281,8 +2112,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अभिप्रजाता सा तत्र पुत्रमेकं सुवर्चसम्।
 
-
-
 समकालं च राज्ञोऽपि देव्यां पुत्रो व्यजायत॥७॥
 
 समुद्रतीरं सा गत्वा आजहार फलद्वयम्॥७॥
@@ -2313,8 +2142,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 क्षत्रियेषु न विश्वासः कार्यस्सर्वापराधिषु।  
 अपकृत्यापि सततं सान्त्वयन्ति निरर्थकम्॥१५
-
-
 
 इयमद्य करोग्यस्य सदृशीं वैरयातनाम्।  
 कृतघ्नस्य नृशंसस्य नित्यं विश्वासघातिनः॥१६॥
@@ -2348,8 +2175,6 @@ The Presidency College,                     P. P. S. SASTRI,
 सान्त्वे प्रयुक्ते विवृते वैरे चैव न विश्वसेत्।  
 क्षिप्रं स हन्यते मूढो न हि वैरं प्रशाम्यति॥२३॥
 
-
-
 अन्योन्यकृतवैराणां पुत्रपौत्रं नियच्छति।  
 पुत्रपौत्रे विनष्टे तु परलोकं नियच्छति॥२४॥
 
@@ -2377,8 +2202,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 उषिताऽस्मि तवागारे दीर्घकालमहिंसिता।  
 तदिदं वैरमुत्पन्नं सुखमास्स्व व्रजाम्यहम्॥३१॥
-
-
 
 **ब्रह्मदत्तः—**
 
@@ -2416,8 +2239,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अन्योन्यकृतवैराणां संवासान्मृदुतां गतम्।
 
-
-
 नावतिष्ठति तद्वैरं पुष्करस्थमिवोदकम्॥३८॥
 
 वैरं पञ्चसमुत्थानं बुध्यन्ते तत्र पण्डिताः।  
@@ -2448,8 +2269,6 @@ The Presidency College,                     P. P. S. SASTRI,
 **ब्रह्मदत्तः—**
 
 कालेन क्रियते कार्यंतथैव विविधाः क्रियाः।
-
-
 
 कालेनैव प्रवर्तन्ते कः कस्येत्यपराध्यति॥४६॥
 
@@ -2484,8 +2303,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यदि कालेन निर्याणं सुखदुःखे भवाभवौ।
 
-
-
 भिषजो भैषजं कर्तुं कस्मादिच्छन्ति रोगिणे॥५३॥
 
 यदि कालेन पच्यन्ते भेषजैः किं प्रयोजनम्॥५४॥
@@ -2516,8 +2333,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 न दुःखं परदुःखं वै केचिदाहुरबुद्धयः॥६२॥
 
-
-
 यो दुःखं नाभिजानाति न जल्पति महाजने।  
 यस्तु शोचति दुःखार्तस् स कथं वक्तुमुत्सहेत्॥६३॥
 
@@ -2545,8 +2360,6 @@ The Presidency College,                     P. P. S. SASTRI,
 [^63]: "ख—न हि वैराणि शाम्यन्ति कुलेष्वादशमाद्युगात्। आख्यातारश्च विद्यन्ते कुले चेज्जायते पुमान्॥ [अधिकः पाठः]"
 
 सदा न विश्वसेद्राजन् पापं कृत्वेह कस्यचित्।
-
-
 
 अपकृत्य परेषां हि विश्वासाद्दुःखमानुते॥७०॥
 
@@ -2583,8 +2396,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 पथ्यं भुक्त्वा नरो योऽन्यल्लोभादश्नाति भोजनम्।
 
-
-
 परिणाममविज्ञाय तदन्तं तस्य जीवितम्॥७७॥
 
 दैवं पुरुषकारश्च स्थितावन्योन्यसंश्रयात्।  
@@ -2614,8 +2425,6 @@ The Presidency College,                     P. P. S. SASTRI,
 कुस्त्री खादति मांसानि माघमासे गवामिव॥८५॥
 
 गृहं क्षेत्राणि मित्राणि स्वदेश इति चापरे।
-
-
 
 इत्येवमवसीदन्ति नग बुद्धिविपर्यये॥८६॥
 
@@ -2647,8 +2456,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अधर्मज्ञस्य विषये प्रजा नश्यन्ति निग्रहात्॥९५
 
-
-
 राजा मूलं त्रिवर्गस्य अप्रमत्तोऽनुपालयन्।  
 बलिषड्भागमुद्धृत्य फलं तदुपयोजयेत्॥९६॥
 
@@ -2678,8 +2485,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यस्तु रञ्जयते राजा पौरजानपदान् गुणैः।
 
-
-
 न तस्य भ्रश्यते राज्यं गुणधर्मानुपालनात्॥१०३॥
 
 यस्सम्यक् प्रतिगृह्णाति पौरजानपदं जनम्।  
@@ -2708,10 +2513,6 @@ The Presidency College,                     P. P. S. SASTRI,
 \[अस्मिन्नध्याये १०९॥श्लोकाः\]
 
 ![](../books_images/U-IMG-1705855942Capture2.JPG)
-
-
-
-
 
 **॥त्रिंशदधिकशततमोऽध्यायः॥**
 
@@ -2751,8 +2552,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 नित्यमुद्यतदण्डस्स्यान्नित्यं विवृतपौरुषः।
 
-
-
 अच्छिद्रश्छिद्रदर्शी च परेषां विवरानुगः॥७॥
 
 नित्यमुद्यतदण्डस्य भृशमुद्विजते जनः।  
@@ -2781,8 +2580,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यस्य बुद्धिं परिभवेत् तमतीतेन सान्त्वयेत्।  
 अनागतेन दुष्प्रज्ञं प्रत्युत्पन्नेन पण्डितम्॥१६॥
-
-
 
 अञ्जलिश्शपथं सान्त्वं शिरसा पादवन्दनम्।  
 अश्रुप्रपातनं चैव कर्तव्यं भूतिमिच्छता॥१७॥
@@ -2814,8 +2611,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 बकवच्चिन्तयेदर्थान् सिंहवच्च पराक्रमेत्।
 
-
-
 वृकवच्चावलुम्पेत शशवच्च विनिष्पतेत्॥२५॥
 
 पानमक्षास्तथा नार्यो मृगया गीतवादितम्।  
@@ -2844,8 +2639,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 न साहसमनारुह्य नरो भद्राणि प्रश्यति।  
 संशयं पुनरारुह्य यदि जीवति पश्यति॥३४॥
-
-
 
 अनागतं विजानीयात् त्यजेद्भयमुपागतम्।  
 पुनर्बुद्धिक्षयात् किञ्चिद् अतिवृत्तिं निशामयेत्॥३५॥
@@ -2876,8 +2669,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 पुत्रो वा यदि वा भ्राता पिता वा यदि वा सुहृत्।
 
-
-
 अर्थस्य विघ्नं कुर्वाणा हन्तव्या भूतिमिच्छता॥४४॥
 
 गुरोरण्यवलिप्तस्य कार्याकार्यमजानतः।  
@@ -2906,8 +2697,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 न शुष्कवैरं कुर्वीत न बाहुभ्यां नदीं तरेत्॥५३
 
-
-
 अनर्थकमनायुष्यं गोविषाणस्य भक्षणम्।  
 दन्ताश्च परिमृद्यन्ते रसश्चापि न लभ्यते॥५४॥
 
@@ -2935,8 +2724,6 @@ The Presidency College,                     P. P. S. SASTRI,
 मृदुरित्यवजानन्ति तीक्ष्ण इत्युद्विजन्ति च।  
 तीक्ष्णकाले च तीक्ष्णस्स्यान्मृदुकाले मृदुर्भवेत्॥६२॥
 
-
-
 मृदुना हि मृदुं हन्ति मृदुना हन्ति दारुणम्।  
 नासाध्यं मृदुना किञ्चित् तस्मात्तीक्ष्णतरो मृदुः॥६३॥
 
@@ -2960,9 +2747,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यथावदुक्तं वचनं हितं तदा  
 निशम्य विप्रेण सुवीरराष्ट्रपः।  
-
-
-
 
 तथाऽकरोद्वाक्यमदीनचेतनश्  
 श्रियं च दीप्तां बुभुजे सबान्धवः॥६८॥
@@ -2995,8 +2779,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अविश्वस्तेषु सर्वेषु नित्यं भूतेषु भारत।  
 नित्यं च हन्यमानेषु वञ्चयत्सु परस्परम्॥४॥
 
-
-
 प्रदीप्तेषु च सर्वेषु ब्राह्मण्ये चाभिपीडिते।  
 अवर्षति च पर्जन्ये मिथो भेदे समुत्थिते॥५॥
 
@@ -3026,8 +2808,6 @@ The Presidency College,                     P. P. S. SASTRI,
 त्रेताद्वापरयोस्सन्धौ पुरा दैवव्यतिक्रमात्।  
 अनावृष्टिरभूद्धोरा लोके द्वादशवार्षिकी॥१३॥
 
-
-
 प्रजानामभिवृद्धानां युगान्ते पर्युपस्थिते।  
 त्रेतायां मोक्षसमये द्वापरप्रतिपादने॥१४॥
 
@@ -3056,8 +2836,6 @@ The Presidency College,                     P. P. S. SASTRI,
 गोजाविमहिषैर्हीना परस्परपराहता॥२२॥
 
 हतविप्रा हतारक्षा प्रनष्टोत्सवसञ्चया।
-
-
 
 शवभूतनरप्राया बभूव वसुधा तदा॥२३॥
 
@@ -3093,8 +2871,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तत् प्रविश्य क्षुधाविष्टो गाधिपुत्रो महानृषिः।  
 आहारान्वेषणे युक्तः परं यत्नं समास्थितः॥३१॥
 
-
-
 न च क्वचिदविन्दत् स भिक्षमाणोऽपि कौशिकः।  
 मांसमन्नं फलं मूलम् अन्यद्वा तत्र किञ्चन॥३२॥
 
@@ -3123,8 +2899,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एतां बुद्धि समास्थाय विश्वामित्रो महातपाः।  
 तस्मिन् देशे स सुष्वाप पतितो यत्र भारत॥४०॥
-
-
 
 स विगाढां निशां दृष्ट्वा सुप्ते चण्डालपक्कणे।  
 शनैरुत्थाय भगवान् प्रविवेश कुटीमुखम्॥४१॥
@@ -3159,8 +2933,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तदा बुद्धिः कृता पापे हरिष्यामि श्वजाघनीम्॥४९॥
 
 [^41]: "अ—अर्धचतुष्टयं नास्ति"
-
-
 
 तृषितः कलुषापातान्त्रास्ति भीरशनार्थिनः।  
 क्षुद्धर्मं नाशयत्यत्र हरिष्यामि श्वजाघनीम्॥५०॥
@@ -3197,8 +2969,6 @@ The Presidency College,                     P. P. S. SASTRI,
 निराहारस्य सुमहान् मम कालो व्यधावत।  
 न विद्यते ह्युपायश्च कश्चिन्मत्प्राणधारणे॥५८॥
 
-
-
 तेन तेन विशेषेण कर्मणा येनकेनचित्।  
 उज्जिहीर्षे सीदमानस् समर्थो धर्ममाचरेत्॥५९॥
 
@@ -3227,8 +2997,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 न दुर्भिक्षे सुलभं मांसमन्यच्  
 छ्वपाक मन्ये च न वेद्मि वित्तम्।
-
-
 
 क्षुधार्तश्चाहमगतिर्निशाचर  
 श्वजाघनीं षड्रसांसाधु मन्ये॥६५॥
@@ -3269,8 +3037,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^85]: " घ—मिच्छसि"
 
-
-
 यद्ब्राह्मणार्थे कृतमर्थितेन  
 तेनर्षिणा तदभक्ष्यं न कामात्।  
 स वै धर्मो ह्यत्र न पापमस्ति  
@@ -3298,8 +3064,6 @@ The Presidency College,                     P. P. S. SASTRI,
 निस्संशयः कर्मणां चापि नाशः।  
 अहं पुनर्व्रतनित्याशयात्मा  
 मूलं रक्षन् भक्षयिष्याम्यभक्ष्यम्॥
-
-
 
 बुद्ध्यात्मके व्यक्तमस्मीति तुष्टो  
 मोक्षात्मके त्वं यथा शिष्टचक्षुः।  
@@ -3333,8 +3097,6 @@ The Presidency College,                     P. P. S. SASTRI,
 उभौ स्याव श्वमलेनानुलिप्तौ  
 दाता चाहं त्वं च विप्र प्रतीच्छन्॥८१॥
 
-
-
 **विश्वामित्रः—**
 
 अद्याहमेतद्वृजिनं कर्म कृत्वा  
@@ -3367,8 +3129,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^88]: "क–घ—नात्र"
 
-
-
 **विश्वामित्रः—**
 
 न पातकं भक्षणमस्य दृष्टं  
@@ -3396,8 +3156,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 विश्वामित्रोऽपि भगवांस् तपसा दग्धकिल्बिषः।  
 कालेन महता सिद्धिम् इयेष परमाद्भुताम्॥९१॥
-
-
 
 एवं विद्वानदीनात्मा व्यसनस्थो जिजीविषुः।  
 सर्वोपायैरुपायज्ञो दीनमात्मानमुद्धरेत्॥९२॥
@@ -3432,8 +3190,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^89]: "ख–घ—कुतश्चित्"
 
-
-
 नैतच्छुद्धागमादेव तव धर्मानुशासनम्॥२॥
 
 **भीष्मः—**
@@ -3464,8 +3220,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तद्वै यथायथं बुद्ध्वाज्ञानमाददते सताम्॥१०॥
 
 परिमुष्णन्ति शास्त्राणि धर्मस्य परिपन्थिनः।
-
-
 
 वैषम्यमपि विद्यानां निरर्थाः ख्यापयन्ति ते॥११॥
 
@@ -3500,8 +3254,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अमर्षाच्छास्त्रसम्मोहाद् अनिमित्तादिहोच्यते।
 
-
-
 शास्त्रं प्राज्ञस्य वदतस् समूहे यात्यदर्शनम्॥२०॥
 
 आगमागतया बुद्ध्या वचनेन प्रशस्यते।  
@@ -3532,8 +3284,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तस्मात् तीक्ष्णः प्रजा राजा स्वधर्मे स्थापयत्युत।  
 अन्योन्यं भक्षयन्तो हि प्रचरेयुर्वृका इव॥२८॥
 
-
-
 यस्य दस्युगणा राष्ट्र ध्वाङ्क्षा मत्स्याञ्जलादिव।  
 विहरन्ति परस्वानि स वै क्षत्रियपांसनः॥२९॥
 
@@ -3562,8 +3312,6 @@ The Presidency College,                     P. P. S. SASTRI,
 **भीष्मः—**
 
 ब्राह्मणानेव सेवेत विद्यावृद्धांस्तपोधनान्।
-
-
 
 श्रुतचारित्रवृत्ताढ्यान् पवित्रं ह्येतदुत्तमम्॥३६॥
 
@@ -3595,8 +3343,6 @@ The Presidency College,                     P. P. S. SASTRI,
 **भीष्मः—**
 
 महान् धर्मो महाराज शरणागतपालने।
-
-
 
 अर्हः प्रष्टुं भवांश्चैनं प्रश्नं भरतसत्तम॥२॥
 
@@ -3631,8 +3377,6 @@ The Presidency College,                     P. P. S. SASTRI,
 धर्मनिश्चयसंयुक्तां कामार्थसहितां कथाम्।  
 शृणुष्वावहितो राजन् गदतो मे महाभुज॥९॥
 
-
-
 कश्चित् क्षुद्रसमाचारः पृथिव्यां कालसन्निभः।  
 चचार पृथिवीपाल घोरश्शकुनिलुब्धकः॥१०॥
 
@@ -3659,8 +3403,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 वारिधारासहस्रैश्च सम्प्रहृष्टश्शतक्रतुः।  
 क्षणेन पूरयामास सलिलेन वसुन्धराम्॥१८॥
-
-
 
 ततो धाराकुले लोके सोऽभवन्नष्टचेतनः॥१८॥
 
@@ -3691,8 +3433,6 @@ The Presidency College,                     P. P. S. SASTRI,
 सोऽञ्जलिं प्रणतः कृत्वा वाक्यमाह वनस्पतिम्।  
 शरणं यामि यान्यस्मिन् दैवतानीह भारत॥२६॥
 
-
-
 स शिलायां शिरः कृत्वा पर्णान्यास्तीर्य भूतले।  
 दुःखेन महताऽऽविष्टस् ततस्सुष्वाप पक्षिहा॥२७॥
 
@@ -3712,8 +3452,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अथ वृक्षस्य शाखायां विहङ्गस्ससुहृज्जनः।  
 दीर्घकालोषितो राजंस् तत्र चित्रतनूरुहः॥
-
-
 
 तस्य काल्यं गता भार्या चरितुं नाभ्यवर्तत।  
 प्राप्तां च रजनीं दृष्ट्वा स पक्षी पर्यतप्यत॥२॥
@@ -3745,8 +3483,6 @@ The Presidency College,                     P. P. S. SASTRI,
 नास्ति[^99] भार्यासमं मित्रं नरस्यार्तस्य भेषजम्॥९॥
 
 [^99]: "अ–क—नास्तीदमर्धम्"
-
-
 
 नास्ति भार्यासमो बन्धुर् नास्ति भार्यासमा गतिः।  
 नास्ति भार्यासमो लोके सहायो धर्मशासने॥१०॥
@@ -3781,8 +3517,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 याऽस्माकं विहिता वृत्तिः कापोती धर्मतः पुरा।
 
-
-
 सा न्याय्या भवता नित्यं त्वद्विधेनानुवर्तितुम्॥१७॥
 
 यस्तु धर्म यथाशक्ति गृहस्थो ह्यनुवर्तते।  
@@ -3815,8 +3549,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ब्रवीतु च भवान् क्षिप्रं किं करोमि किमिच्छसि।  
 प्रणयेन ब्रवीमि त्वां त्वं हि नश्शरणं गतः॥२४॥
-
-
 
 शरणागतस्य कर्तव्यम् आतिथ्यमिह यत्नतः।  
 पञ्चयज्ञप्रवृत्तेन गृहस्थेन विशेषतः॥२५॥
@@ -3853,8 +3585,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 स तथोक्तस्तथेत्युक्त्वा लुब्धो गात्राण्यतापयत्।
 
-
-
 सोऽग्निप्रत्यागतप्राणस्ततः प्राह विहङ्गमम्॥३२॥
 
 व्याधः—
@@ -3890,8 +3620,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ऋषीणां देवतानां च पितॄणां च महात्मनाम्।  
 श्रुतः पूर्वो मया धर्मो महानतिथिपूजने॥३९॥
 
-
-
 कुरुष्वानुग्रहं मेऽद्य सत्यमेतद्ब्रवीमि ते।  
 निश्चिता खलु मे बुद्धिर् अतिथिप्रतिपूजने॥४०॥
 
@@ -3921,8 +3649,6 @@ The Presidency College,                     P. P. S. SASTRI,
 दत्तं स्वमांसं दहता कपोतेन महात्मना॥४७॥
 
 सोऽहं त्यक्ष्ये प्रियान् प्राणान् पुत्रान् दारान्विसृज्य च।
-
-
 
 उपदिष्टो हि मे धर्मः कपोतेनात्र धर्मिणा॥४८॥
 
@@ -3955,8 +3681,6 @@ The Presidency College,                     P. P. S. SASTRI,
 नाहं ते विप्रियं कान्त कदाचिदपि संस्मरे॥  
 सर्वाऽपि दुःखिता नारी बहुपुत्राऽपि वै सदा।५५॥
 
-
-
 शोच्या भवति बन्धूनां पतिहीना तपस्विनी॥५६॥
 
 लालिताऽहं त्वया नित्यं बहुमानाच्चसान्त्विता।  
@@ -3987,8 +3711,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 चित्रमाल्याम्बरधरं सर्वाभरणभूषितम्।
 
-
-
 विमानशतकोटीभिर् आवृतं पुण्यकीर्तिभिः॥६५॥
 
 ततस्स्वर्गं गतः पक्षी भार्यया सह सङ्गतः।  
@@ -4017,8 +3739,6 @@ The Presidency College,                     P. P. S. SASTRI,
 प्रविशन्नेव स वनं निगृहीतस्स कण्टकैः॥७३॥
 
 स कण्टकविभिन्नाङ्गो लोहितार्द्रीकृतच्छविः।
-
-
 
 बभ्राम तस्मिन् विजने नानाद्रुमलताकुले॥७४॥
 
@@ -4049,8 +3769,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एवमेतत् पुरावृत्तं लुब्धकस्य महात्मनः।  
 कपोतस्य च धर्मिष्ठा गतिः पुण्येन कर्मणा॥८३॥
 
-
-
 यश्चेदं शृणुयान्नित्यं यश्चेदं परिकीर्तयेत्।  
 नाशुभं विद्यते तस्य मानवस्य न संशयः॥८४॥
 
@@ -4078,8 +3796,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अबुद्धिपूर्वं यः पापं कुर्याद्भरतसत्तम।  
 मुच्यते स कथं तस्माद् एनसस्तद्ब्रवीहि मे॥१॥
-
-
 
 भीष्मः—
 
@@ -4113,8 +3829,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^109]: "ख—द्राक्षोः"
 
-
-
 रुधिरस्येव ते गन्धश्शवस्येव च दर्शनम्।  
 अशिवश्शिवसङ्काशो मृतो जीवन्निवाटसि॥१०॥
 
@@ -4144,8 +3858,6 @@ The Presidency College,                     P. P. S. SASTRI,
 [^111]: " क–ख–घ—शितिकण्ठै"
 
 यदेवं मन्यसे राजन् नायमस्ति कुतः परः।
-
-
 
 प्रतिस्मारयितारस्त्वां यमदूता यमक्षये[^112]\*॥१८॥
 
@@ -4179,8 +3891,6 @@ The Presidency College,                     P. P. S. SASTRI,
 भूयश्चैवाभिमथ्नन्ति निर्धर्मा निर्जला इव।  
 न ह्ययज्ञा अमुंलोकं प्राप्नुवन्ति कथञ्चन॥२५॥
 
-
-
 अवाक्च प्रपतिष्यन्ति[^113] पुलिन्दशबरा इव॥२६॥
 
 [^113]: "क–ख–घ—प्रतिवक्ष्यन्ति"
@@ -4212,8 +3922,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^114]: "क–ख–घ—वापि"
 
-
-
 **शौनकः—**
 
 हित्त्वा दम्भं च मानं च प्रीतिमिच्छामि ते नृप।  
@@ -4242,8 +3950,6 @@ The Presidency College,                     P. P. S. SASTRI,
 द्रोग्धास्मि ब्राह्मणान् विप्र चरणावेव ते स्पृशे[^101]॥\*४०॥
 
 [^101]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
 
 शौनकः—
 
@@ -4277,8 +3983,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 पुण्यदेशाभिगमनं पवित्रं परमं स्मृतम्।
 
-
-
 अपि ह्युदाहरन्तीमा गाथा गीता ययातिना॥४९॥
 
 यो मर्त्यः प्रतिपद्येत आयुर्जीवेन वा पुनः।  
@@ -4306,8 +4010,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 बलेन संविभागैश्च जय स्वर्गं पुनीष्व च।  
 यस्य वै बलमोजश्च स धर्मस्य प्रभुर्नरः॥५७॥
-
-
 
 ब्राह्मणानां सुखार्थं त्वं पर्येहि पृथिवीमिमाम्।  
 यथैवैतान् पुरा क्षेप्सीस् तथैवैतान् प्रसादय॥५८॥
@@ -4339,8 +4041,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ये दुर्गन्धीनि सेवन्ते तथागन्धा भवन्ति ते॥६५॥
 
 तपश्चर्यापरस्सत्यं पापाद्धि परिमुच्यते।
-
-
 
 संवत्सरमुपास्याग्निम् अभिशस्तः प्रमुच्यते॥६६॥
 
@@ -4374,8 +4074,6 @@ The Presidency College,                     P. P. S. SASTRI,
 उभे तु यस्य सुकृते भवेतां  
 किं ते द्वयोस्तत्र जयोत्तरं स्यात्॥७२॥
 
-
-
 आचक्ष्व तत् कर्मफलं महर्षे  
 कथं पापं नुदते पुण्यशीलः॥७३॥
 
@@ -4402,8 +4100,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ततस्स राजा व्यपनीतकल्मषश्  
 श्रिया युतः प्रज्वलितोऽनुरूपया।
-
-
 
 विवेश राज्यं स्वममित्रकर्शनो  
 दिवं यथा पूर्णवपुर्निशाकरः॥७९॥
@@ -4436,8 +4132,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तेषां रुदितशब्देन गृध्रोऽभ्येत्य वचोऽब्रवीत्॥३॥
 
-
-
 **गृध्रः—**
 
 प्रेतात्मकमिमं काले त्यक्त्वा गच्छत मा चिरम्॥४॥
@@ -4469,8 +4163,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ततो गृध्रवचश्श्रुत्वा विक्रोशन्तस्तदा नृप।
 
-
-
 बान्धवास्तेऽभ्यधावन्त पुत्रमुत्सृज्य भूतले॥१२॥
 
 विनिश्चित्याथ च तदा सन्त्यजन्तस्स्वमात्मजम्।  
@@ -4499,8 +4191,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अपश्यतां प्रियान् पुत्रान् येषां शोको न तिष्ठति।  
 न ते पोषणसम्प्रीता मातापितर एव हि॥२१॥
-
-
 
 मानुषाणां कुतस्स्नेहो येषां शोको न विद्यते।  
 इमं कुलकरं पुत्रं त्यक्त्वा क्व नु गमिष्यथ॥२१॥
@@ -4531,8 +4221,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तपः कुरुध्वं वै तीव्रं मुच्यध्वं येन किल्बिषात्।  
 तपसा लभ्यते सर्वं विलापः किं करिष्यति॥३०॥
 
-
-
 स्वनिष्टानि च भाग्यानि जानीत स्वं स्वमात्मना।  
 येन गच्छति बालोऽयं त्यक्त्वा शोकमनुत्तरम्॥३१॥
 
@@ -4561,8 +4249,6 @@ The Presidency College,                     P. P. S. SASTRI,
 सर्वः कालवशं याति सुखदुःखसमन्वितः॥३९॥
 
 किं करिष्यथ शोचित्वा मृतं किमनुशोचथ।
-
-
 
 सर्वस्य हि प्रभुः कालो धर्मतस्समदर्शनः॥४०॥
 
@@ -4593,8 +4279,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 आत्ममांसोपवृत्तां च शरीरार्धमयीं तनुम्।  
 पितॄणां वंशकर्तारं वने त्यक्त्वा क्व यास्यथ॥४८॥
-
-
 
 अथ चास्तं गते सूर्ये सन्ध्याकालेऽप्युपस्थिते।  
 ततो नेष्यथ वा पुत्रम् इहस्था वा भविष्यथ॥४९॥
@@ -4629,8 +4313,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^127]: "क–ख–ध—न शृणोति न"
 
-
-
 तस्मादेनं समुत्सृज्य स्वगृहान् गच्छताशु वै॥५७॥
 
 मोक्षधर्माश्रितैर्वाक्यैर् हेतुमद्भिरनिष्ठुरैः।  
@@ -4662,8 +4344,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 इत्युक्तास्ते न्यवर्तन्त शोकार्ताः पुत्रवत्सलाः।
 
-
-
 अङ्के शिरस्समाधाय रुरुदुर्बहुविस्तरम्॥६५॥
 
 गृध्रः—
@@ -4693,8 +4373,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न दीर्घरुदितेनेह पुनर्जीवं गमिष्यति॥७३॥
 
 अहं च क्रोष्टुकश्चैव यूयं चैवास्य बान्धवाः।
-
-
 
 धर्माधर्मौगृहीत्वैव सर्वे वर्तामहेऽध्वनि।  
 अप्रियं परुषं चापि परद्रोहं परस्त्रियम्॥७४॥
@@ -4727,8 +4405,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अहो धिग्गृध्रवाक्येन सन्निवर्तत मानुषाः।
 
-
-
 प्रदीप्ताः पुत्रशोकेन यथैवाबुद्धयस्तथा॥८३॥
 
 कथं गच्छत निरस्नेहास् सुतस्नेहं विसृज्य वै।  
@@ -4756,8 +4432,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ततो मध्यस्थतां नीता वचनैरमृतोपमैः।  
 जम्बुकेन स्वकार्यार्थं बान्धवास्तत्र वारिताः॥९१॥
-
-
 
 गृध्रः—
 
@@ -4789,8 +4463,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 श्रूयतां वो न भेतव्यं यावत्तपति भास्करः।
 
-
-
 तावदस्मिन् सुते स्नेहाद् अनिर्वेदेन वर्तत॥१००॥
 
 स्वैरं कुरुत[^129] विस्रब्धास् स्वैरं स्नेहेन पश्यत।  
@@ -4821,8 +4493,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तथा तयोर्विवदतोर् आहारमभिकाङ्क्षिणोः।  
 बान्धवानां स्थितानां चाप्युपातिष्ठत शङ्करः॥१०८॥
 
-
-
 ततस्तानाह मनुजान् वरदोऽस्मीति शूलभृत्।  
 ते प्रत्यूचुरिदं वाक्यं दुःखिताः प्रणतास्स्थिताः॥ १०९॥
 
@@ -4851,8 +4521,6 @@ The Presidency College,                     P. P. S. SASTRI,
 पश्य चाल्पेन कालेन निश्चयान्वेषणेन च।  
 प्रसादं शङ्करात् प्राप्य दुःखितास्सुखमाप्नुवन्॥११६॥
 
-
-
 ते विस्मिताः प्रहृष्टाश्च पुत्रसञ्जीवनात् पुनः।  
 बभूवुर्भरतश्रेष्ठ प्रसादाच्छङ्करस्य वै॥११७॥
 
@@ -4870,8 +4538,6 @@ The Presidency College,                     P. P. S. SASTRI,
 \[अस्मिन्नध्याये ११९॥ श्लोकाः\]
 
 ![](../books_images/U-IMG-1706507464Capture3.JPG)
-
-
 
 **॥सप्तत्रिंशदधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1701701207ललल.png)**
@@ -4893,8 +4559,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 नल्वमात्रपरीणाहो घनच्छायो वनस्पतिः।  
 शुकशारिकसङ्घुष्टः पुष्पवान् फलवानपि॥४॥
-
-
 
 सार्थका वणिजश्चैवतापसाश्च वनौकसः।  
 वसन्ति तत्र मार्गस्थास् सुरम्ये तरुसत्तमे॥५॥
@@ -4926,8 +4590,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 संरक्षते च पवनस् सखित्वेन न संशयः।
 
-
-
 तस्माद्बहुलशाखोऽसि पर्णवान् पुष्पवानपि॥१३॥
 
 इदं च रमणीयं ते प्रतिभाति वनस्पते।  
@@ -4956,8 +4618,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 त्वं पुनः कारणैर्नूनं शाल्मले रक्ष्यसे सदा।  
 वायुना सपरीवारस् तेन तिष्ठस्यसंशयम्॥२२॥
-
-
 
 शाल्मलिः—
 
@@ -4988,8 +4648,6 @@ The Presidency College,                     P. P. S. SASTRI,
 असम्यगायतो भूयश् चेष्टते विकृतं नृषु॥३०॥
 
 स त्वमेवंविधं वायुं सर्वसत्त्वभृतां वरम्।
-
-
 
 न पूजयसि पूज्यं तं किमन्यद्बुद्धिलाघवात्॥३१॥
 
@@ -5023,8 +4681,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 बहूनि क्षेपयुक्तानि त्वामाह वचनानि सः।
 
-
-
 न युक्तानि मया वायो तानि वक्तुं त्वयि प्रभो॥३९॥
 
 जानामि त्वामहं वायो सर्वप्राणभृतां वरम्।  
@@ -5057,8 +4713,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 पवन त्वं वने क्रुद्धो दर्शयात्मानमात्मना।
 
-
-
 मयि वा मुच्यतां क्रोधः किं मे क्रुद्धः करिष्यसि॥४६॥  
 न ते बिभेमि पवन यद्यपि त्वं स्वयं प्रभुः॥४७॥
 
@@ -5088,8 +4742,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ते तु बाला न जानन्ति तथा नैतान् समीरणः।  
 समीरयेत सङ्क्रुद्धो यथा जानाम्यहं तथा॥५४॥
-
-
 
 भीष्मः—
 
@@ -5121,8 +4773,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एतच्छ्रुत्वा वचो वायोश् शाल्मलिर्व्रीडितस्तदा।
 
-
-
 अतप्यत च तत् स्मृत्वा नारदो यत्तदाऽब्रवीत्॥६१॥
 
 एवं यो राजशार्दूल दुर्बलस्सन् बलीयसा।  
@@ -5148,8 +4798,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 हतास्ताश्चैव भग्नाश्च पाण्डवेन यशस्विना।  
 चरता बलमास्थाय पाकशासनिना रणे॥६९॥
-
-
 
 उक्तास्त आपद्धर्माश्च राजधर्माश्च भारत।  
 विस्तरेण महाराज किं भूयः प्रब्रवीमि ते॥७०॥
@@ -5183,8 +4831,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 लोभात् क्रोधः प्रभवति लोभात् कामः प्रवर्तते।
 
-
-
 लोभान्मोहश्च माया च मानस्स्तम्भः परासुता॥४॥
 
 अक्षमा ह्रीपरित्यागश् श्रीनाशो हि धनक्षयः।  
@@ -5213,8 +4859,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 न प्रहृष्यति यो लोभैः कामैश्चैव न तृप्यति।  
 यो न देवैर्न गन्धर्वैर् नासुरैर्न महोरगैः॥१३॥
-
-
 
 ज्ञायते नृप तत्त्वेन सर्वैर्भूतगणैस्तथा।  
 स लोभस्सह मोहेन विजेतव्यो जितात्मना[^134]॥१४॥
@@ -5246,8 +4890,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एतानरिष्टान् बुध्यस्व नित्यं लोभसमन्वितान्।  
 शिष्टांश्च परिपृच्छेथा यान् वक्ष्यामि शुचिव्रतान्॥ २१॥
 
-
-
 येष्वावृत्तिभयं नास्ति परलोकभयं न च।  
 नाभिषेषु च सङ्गोऽस्ति न प्रियेष्वप्रियेषु च॥२२॥
 
@@ -5277,8 +4919,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 येष्वलोभस्तथाऽमोहो ये च सत्यार्जवे रताः।
 
-
-
 तेषु कौन्तेय रम्येथा येष्वतन्द्री ह्यनुत्तमा॥३१॥
 
 ये न हृष्यन्ति लाभेषु नालाभेषु व्यथन्ति च।  
@@ -5299,8 +4939,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८७॥ आपद्धर्मपर्वणि अष्टादशोऽध्यायः॥ १८॥  
 \[ अस्मिन्नध्याये ३४॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1701706437ववव.png)
-
-
 
 **॥एकोनचत्वारिंशदधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1701706564ललल.png)**
@@ -5336,8 +4974,6 @@ The Presidency College,                     P. P. S. SASTRI,
 रागो द्वेषस्तथा मोहो हर्षश्शोकोऽतिमानिता।  
 कामः क्रोधश्च दर्पश्च तन्द्री ह्यालस्यमेव च॥६॥
 
-
-
 इच्छा द्वेषस्तथा तापः परवृद्ध्युपतापिता।  
 अज्ञानमेतन्निर्दिष्टं पापानां चैव या क्रिया॥७॥
 
@@ -5369,8 +5005,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शान्तिपर्वणि एकोनचत्वारिंशोऽध्यायः॥१३९॥  
 ॥८७॥ आपद्धर्मपर्वणि एकोनविंशोऽध्यायः॥१९॥  
 \[अस्मिन्नध्याये १४ श्लोकाः\]
-
-
 
 **॥चत्वारिंशदधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1701707382ललल.png)
@@ -5404,8 +5038,6 @@ The Presidency College,                     P. P. S. SASTRI,
 दमं निश्श्रेयसं प्राहुर् वृद्धानामिति दर्शनम्।  
 ब्राह्मणस्य विशेषेण दमो धर्मस्सनातनः॥७॥
 
-
-
 नादान्तस्य क्रियासिद्धिः कथञ्चिदुपलभ्यते।  
 दमो दानं तथा यज्ञा अधीतं चापि वर्तते॥८॥
 
@@ -5437,8 +5069,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अकार्पण्यमसंरम्भस् सन्तोषःप्रियवादिता।  
 अविहिंसाऽनसूया च येषां समुदयो दमः॥१६॥
 
-
-
 गुरुपूजा च कौरव्य सदा भूतेष्वपैशुनम्।  
 जनवादमृषावादस्तुतिनिन्दाविवर्जनम्॥१७॥
 
@@ -5465,8 +5095,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 निष्क्रम्य वनमास्थाय ज्ञानयुक्तो जितेन्द्रियः।  
 कालाकाङ्क्षी चरन्नेवं ब्रह्मभूयाय कल्पते॥२५॥
-
-
 
 अभयं सर्वभूतेभ्यो भूतानामभयं कृतम्।  
 तस्य देहाद्विमुक्तस्य भयं नास्ति कथञ्चन॥२६॥
@@ -5497,8 +5125,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एक एव दमे दोषो द्वितीयो नोपपद्यते।  
 यदेनं दमसंयुक्तम् अशक्तं मन्यते जनः॥३४॥
 
-
-
 एतस्य तु महाप्राज्ञ दोषस्स्यात् सुमहान् गुणः।  
 क्षमया विपुला लोके दुर्लभा हि सहिष्णुता॥३५॥
 
@@ -5520,8 +5146,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८७॥ आपद्धर्मपर्वणि विंशोऽध्यायः॥२०॥  
 \[अस्मिन्नध्याये ३८ लोकाः\]  
 ![](../books_images/U-IMG-1701736674ववव.png)
-
-
 
 ॥एकचत्वारिंशदधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1701737047ननन.png)
@@ -5553,8 +5177,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तपसो बहुरूपस्य तैस्तैर्द्वारैः प्रवर्ततः।  
 निवृत्त्या वर्तमानस्य तपो नानशनात् परम्॥७॥
 
-
-
 अहिंसा[^141] सत्यवचनं दानमिन्द्रियनिग्रहः।  
 एतेभ्यो हि महाराज तपो नानशनात् परम्॥८
 
@@ -5580,8 +5202,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८७॥आपद्धर्मपर्वणि एकविंशोऽध्यायः॥२१॥  
 \[अस्मिन्नध्याये १३ लोकाः\]  
 ![](../books_images/U-IMG-1701737438ववव.png)
-
-
 
 **॥द्विचत्वारिंशदधिकशततमोऽध्यायः॥**  
 
@@ -5617,8 +5237,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 प्राप्यते च यथा सत्यं तच्च वेत्तुं त्वमर्हसि॥६॥
 
-
-
 सत्यं त्रयोदशविधं सर्वलोकेषु भारत।  
 सत्यं च समता चैव दमश्चैव न संशयः॥७॥
 
@@ -5648,8 +5266,6 @@ The Presidency College,                     P. P. S. SASTRI,
 धर्मार्थहेतोः[^143] क्षमते तितिक्षा धर्म उत्तमः।
 
 [^143]: "घ—अर्धत्रयं नास्ति"
-
-
 
 लोकसङ्ग्रहणार्थं वै सा[^144] तु धैर्येण लभ्यते॥१६॥
 
@@ -5682,8 +5298,6 @@ The Presidency College,                     P. P. S. SASTRI,
 भजन्ते सत्यमेवेह बृंहयन्ति च भारत॥२४॥
 
 नान्तश्शक्यो गुणानां हि वक्तुं सत्यस्य पार्थिव।
-
-
 
 अतस्सत्यं प्रशंसन्ति विप्रास्सपितृदेवताः॥२५॥
 
@@ -5721,8 +5335,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^146]: "स्व—लोभो"
 
-
-
 एतत् सर्वं महाप्राज्ञ याथातथ्येन मे वद॥२॥
 
 भीष्मः—
@@ -5756,8 +5368,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^148]: " घ—मोहात्पापं"
 
-
-
 विरुद्धानीह शास्त्राणि पश्यन्तीहाल्पबुद्धयः॥१०॥
 
 विवित्सा जायते तत्र तत्त्वात् सा विनिवर्तते।  
@@ -5790,8 +5400,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एतान्येव जितान्याहुःप्रशान्तेन त्रयोदश॥१९॥
 
-
-
 एते हि धार्तराष्ट्राणां सर्वे दोषास्त्रयोदश।  
 त्वया सत्यात्मना नित्यं विजिता जेष्यता च ते॥२०॥
 
@@ -5822,8 +5430,6 @@ The Presidency College,                     P. P. S. SASTRI,
 हिंसाविकारी सततम् अविशेषगुणागुणः।  
 बह्वलीको मनस्वी च लुब्धोऽत्यर्थं नृशंसकृत्॥२७॥
 
-
-
 धर्मशीलं गुणोपेतं पाप इत्यवगच्छति।  
 आत्मशीलोपमानेन न विश्वसिति कस्यचित्॥२८॥
 
@@ -5850,13 +5456,9 @@ The Presidency College,                     P. P. S. SASTRI,
 \[अस्मिन्नध्याये ३३ श्लोकाः\]  
 ![](../books_images/U-IMG-1701739810ववव.png)
 
-
-
 ॥चतुश्चत्वारिंशदधिकशततमोऽध्यायः॥  
 
 ![](../books_images/U-IMG-1701740025ननन.png)
-
-  
 
 भीष्मेण युधिष्ठिरं प्रति यज्ञाद्यर्थं सम्पादनीयद्रव्यविवेचनम्॥१॥ तथा पापविशेषाणां प्रायश्चित्तविशेषकथनम्॥२॥
 
@@ -5883,8 +5485,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ब्राह्मणस्य विशेषेण धार्मिके सति राजनि॥६॥
 
 यो वैश्यस्स्याद्बहुपशुर् हीनक्रतुरसोमपः।
-
-
 
 कुटुम्बात्तस्य तद्द्रव्यंयज्ञार्थं पार्थिवो हरेत्॥७॥
 
@@ -5917,8 +5517,6 @@ The Presidency College,                     P. P. S. SASTRI,
 इष्टिं वैश्वानरीं नित्यं निर्वपेद्भयपर्यये।  
 अविकल्पः पुरा धर्मो धर्मपालैस्तु केवलः॥१५॥
 
-
-
 विश्वैश्चदेवैस्साध्यैश्च ब्राह्मणैश्च महर्षिभिः।  
 आपत्सु मरणाद्भीतैर् लिङ्गः प्रतिनिधिः कृतः॥१६॥
 
@@ -5949,8 +5547,6 @@ The Presidency College,                     P. P. S. SASTRI,
 पुण्यान्यन्यानि कुर्वीत श्रद्दधानो जितेन्द्रियः।  
 अनाप्तदक्षिणैर्यज्ञैर् न यजेत कथञ्चन॥२४॥
 
-
-
 प्रजाः पशूंश्च स्वर्गं च हन्ति यज्ञो ह्यदक्षिणः।  
 इन्द्रियाणि यशः कीर्तिम् आयुश्चैव निकृन्तति॥२५॥
 
@@ -5979,8 +5575,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 श्रद्दधानश्शुभां विद्यां हीनादपि समाचरेत्।३१॥
 
-
-
 सुवर्णमपि चामेध्याद् आददीतेति धारणा॥३१॥
 
 स्त्रीरत्नं दुष्कुलाच्चापि विषादप्यमृतं पिबेत्।  
@@ -6008,8 +5602,6 @@ The Presidency College,                     P. P. S. SASTRI,
 त्रिष्वप्येतेषु पूर्वेषु न कुर्वीत विचारणाम्॥३९॥
 
 अमात्यान् वा गुरून् वाऽपि जह्याद्धर्मेण धार्मिकः।
-
-
 
 प्रायश्चित्तान्यकुर्वाणा नैते कुर्वन्ति संविदम्॥४०॥
 
@@ -6042,8 +5634,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 गुरुतल्पमधिष्ठाय दुरात्मा पापचेतनः।
 
-
-
 शिलां ज्वलन्तीमासाद्य मृत्युना स विशुद्ध्यति॥४९॥
 
 अथ वा शिश्नवृषणावादायाञ्जलिना स्वयम्।  
@@ -6072,8 +5662,6 @@ The Presidency College,                     P. P. S. SASTRI,
 श्वमार्जारखरान् हत्वा शूद्रहत्या व्रतं चरेत्॥५७॥
 
 मण्डूकचाषनकुलान काकोलूकांश्च मूषिकान्।
-
-
 
 उक्तः पशुवधे दोषो राजन् प्राणिनिपातनात्॥५८॥
 
@@ -6105,8 +5693,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 पुमांसं बन्धयेत् पाशैश् शयने तप्त आयसे।  
 आस्ये दद्यात् स दारूणि तत्र दह्येत् स पापकृत्॥ ६७॥
-
-
 
 एष दण्डो महाराज स्त्रीणां भर्तृव्यतिक्रमे।  
 संवत्सरोऽभिशस्तस्य दुष्टस्य द्विगुणो भवेत्॥६८॥
@@ -6140,8 +5726,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 भवेत्तु मानुषीष्वेवं प्रायश्चित्तमनुत्तमम्॥७६॥
 
-
-
 दानं वा दानसक्तेषु सर्वमेव प्रकल्पयेत्॥७६॥
 
 वराहस्य मृगाणां च कुक्कुटस्य खरस्य च।  
@@ -6171,8 +5755,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 कथान्तरमथासाद्य खड्गयुद्धविशारदः।  
 नकुलश्शरतल्पस्थम् इदमाह पितामहम्॥१॥
-
-
 
 **नकुलः—**
 
@@ -6204,8 +5786,6 @@ The Presidency College,                     P. P. S. SASTRI,
 उवाच सर्वधर्मज्ञो धनुर्वेदस्य पारगः।  
 शरतल्पगतो भीष्मो नकुलाय महात्मने॥९॥
 
-
-
 **भीष्मः—**
 
 तत्त्वं शृणुष्व माद्रेय यथैतत् परिपृच्छसि।  
@@ -6236,8 +5816,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ताभ्यो विश्वानि भूतानि देवाः पितृगणास्तथा।
 
-
-
 गन्धर्वाप्सरसश्चैव रक्षांसि विविधानि च॥१८॥
 
 पतत्रिमृगमीनाश्च गावश्चैव महोरगाः।  
@@ -6266,8 +5844,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 हिरण्यकशिपुश्चैव हिरण्याक्षो विरोचनः।  
 शम्बरो विप्रचित्तिश्च प्रह्लादो नमुचिर्बलिः॥२७॥
-
-
 
 एते चान्ये च बहवस् सगणा दैत्यदानवाः।  
 धर्मसेतुमतिक्रम्य रेमिरेऽधर्मनिश्चयाः॥२८॥
@@ -6298,8 +5874,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 काञ्चनैर्यज्ञभाण्डैश्च भ्राजिष्णुभिरलङ्कृतम्।  
 वृतं देवगणैश्चैव प्रबभौ यज्ञमण्डलम्॥३६॥
-
-
 
 तथा ब्रह्मर्षिभिश्चैव सदस्यैरुपशोभितम्।  
 तत्र घोरतरं वृत्तम् ऋषीणां मे परिश्रुतम्॥३७॥
@@ -6333,8 +5907,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ततस्तं नीलकण्ठाय रुद्रायर्षभकेतवे।
 
-
-
 ब्रह्मा ददावसिं दीप्तम् अधर्मप्रतिवारणम्॥४५॥
 
 ततस्स भगवान् क्रुद्धो ब्रह्मर्षिगणपूजितः।  
@@ -6364,8 +5936,6 @@ The Presidency College,                     P. P. S. SASTRI,
 निशाम्य दानवास्सर्वे हृष्टास्समभिदुद्रुवुः॥५४॥
 
 अश्मभिश्चाभ्यवर्षन्त सम्प्रदीप्तैस्तथोल्मुकैः।
-
-
 
 घोरैः प्रहरणैश्चान्यैः क्षुरधारैरयस्मयैः॥५५॥
 
@@ -6399,8 +5969,6 @@ The Presidency College,                     P. P. S. SASTRI,
 दानवानां शरीरैश्च महद्भिश्शोणितोक्षितैः।  
 समाकीर्णा महाबाहो शैलैरिव सकिंशुकैः॥६३॥
 
-
-
 रुधिरेण परिक्लिन्ना प्रबभौ वसुधा तदा।  
 रक्तार्द्रवसना श्यामा नारीव मदविह्वला॥६४॥
 
@@ -6430,8 +5998,6 @@ The Presidency College,                     P. P. S. SASTRI,
 दुर्वाचा निग्रहो दण्डो हिरण्यबहुलस्तथा।  
 व्यङ्गता च शरीरस्य वधो नाल्पस्य कारणात्॥७२॥
 
-
-
 असेरेतानि रूपाणि दुर्वागादीनि निर्दिशेत्।  
 असेरेवं प्रमाणानि परमाण्यभ्यतिक्रमात्॥७३॥
 
@@ -6460,8 +6026,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 उशीनरोऽपि धर्मात्मा तस्माद्भोजास्सयादवाः।  
 यदुभ्यश्च शिबिर्लेर्भे शिबेश्चापि प्रतर्दनः॥८१॥
-
-
 
 प्रतर्दनादुष्ट्रकस्तु रुशदश्वोष्ट्रकादपि।  
 रुशदश्वाद्भरद्वाजो द्रोणस्तस्मात् कृपस्ततः॥८२॥
@@ -6493,8 +6057,6 @@ The Presidency College,                     P. P. S. SASTRI,
 इत्येष प्रथमः कल्पो मया ते कथितः पुनः।  
 एवमेवासिसर्गोऽयं यथावद्भरतर्षभ॥९०॥
 
-
-
 सर्वथा तमिह श्रुत्वा खड्गस्यागममुत्तमम्।  
 लभते पुरुषः कीर्ति प्रेत्य चानन्दमश्नुते[^171]॥९१॥
 
@@ -6508,8 +6070,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 **॥षट्चत्वारिंशदधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1701822422ललल.png)
-
-
 
  स्वस्वाभिमतार्थकथनाय चोदितैर्विदुरार्जुनभीमसेनैः क्रमेण धर्मार्थकामेषु अभिष्टुतेषु युधिष्ठिरेण मोक्षप्रशंसनम्॥
 
@@ -6527,8 +6087,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 कस्मिंश्चात्मा नियन्तव्यस् त्रिवर्गविजयाय वै।  
 सम्पृष्टा नैष्ठिकं वाक्यं यथावद्वक्तुमर्हथ॥३॥
-
-
 
 **वैशम्पायनः—**
 
@@ -6561,8 +6119,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अर्थस्यावयवावेतौधर्मकामाविति स्मृतिः।
 
-
-
 अर्थसिद्ध्या ऽभिनिर्वृत्तावुभावेतौ भविष्यतः॥११॥
 
 उद्भूतार्थं हि पुरुषं विशिष्टतरयोनयः।  
@@ -6593,8 +6149,6 @@ The Presidency College,                     P. P. S. SASTRI,
 आस्तिका नास्तिकाश्चैव नियतास्संयमे परे।  
 अप्रज्ञानं तमोभूतं प्रज्ञानं तु प्रकाशता॥१९॥
 
-
-
 भृत्यान् भोगैर्द्विषो दण्डैर् यो जयति सोऽर्थवान्॥२०॥
 
 एतन्मतिमतां श्रेष्ठ मतं मम यथातथम्।  
@@ -6624,8 +6178,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 धर्मं समाचरेत् पूर्वंततोऽर्थधर्मसंहितम्।  
 ततः कामं चरेत् पश्चात् सिद्धार्थस्य हि तत् फलम्॥२८॥
-
-
 
 **वैशम्पायनः—**
 
@@ -6658,8 +6210,6 @@ The Presidency College,                     P. P. S. SASTRI,
 श्रेयः पुष्पफलं काष्ठात् कामो धर्मार्थयोर्वरः।  
 पुष्पतो मध्विव परं कामात् सञ्जायते सुखम्॥३७॥
 
-
-
 सुचारुवेषाभिरलङ्कृताभिर्  
 मदोत्कटाभिः प्रियवादिनीभिः।  
 रमस्व योषिद्भिरुपेत्य कामं  
@@ -6685,8 +6235,6 @@ The Presidency College,                     P. P. S. SASTRI,
 विचित्रमाल्याभरणैरुपेतः।  
 ततो वचस्सङ्ग्रहविग्रहेण  
 प्रोक्त्वा स भूमौ विरराम राजन्॥४१॥
-
-
 
 ततो मुहूर्तादथ धर्मराजो  
 वाक्यानि तेषामनुचिन्त्य सम्यक्।  
@@ -6715,8 +6263,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यो वै न पापे निरतो न पुण्ये  
 नार्थे न धर्मे निरतो न कामे।
 
-
-
 विमुक्तदोषस्समफल्गुसारो  
 विमुच्यते दुःखसुखात् ससिद्धः॥४५॥
 
@@ -6742,8 +6288,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तदा प्रणेमुर्जहृषुस्तथैव  
 कुरुप्रवीराय च चक्रिरेऽञ्जलिम्॥४९॥
 
-
-
 सुचारुवर्णाक्षरशब्दभूषितां  
 मनोनुगां निर्गतवाक्यकण्टकाम्।  
 निशम्य तां पार्थिवभाषितां गिरं  
@@ -6761,8 +6305,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८७॥ आपद्धर्मपर्वणि षड्विंशोऽध्यायः॥२६॥  
 \[अस्मिन्नध्याये ५१॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1701775735ववव.png)
-
-
 
 **॥सप्तचत्वारिंशदधिकशततमोऽध्यायः॥**  
 
@@ -6797,8 +6339,6 @@ The Presidency College,                     P. P. S. SASTRI,
 लुब्धः क्रूरो ह्यधर्मिष्ठो निकृतश्शठ एव च।  
 क्षुद्रः पापसमाचारस् सर्वशङ्की तथाऽलसः॥६॥
 
-
-
 दीर्घसूत्रोऽनुजुः कष्टो गुरुदारप्रधर्षकः।  
 व्यसने यः परित्यागी दुरात्मा निरपत्रपः॥७॥
 
@@ -6830,8 +6370,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^181]: "ख–घ—परोपतापी"
 
-
-
 कृतघ्नश्चाधमो लोके न सन्धेयः कथञ्चन।  
 मित्रद्वेषी न सन्धेयस् सन्धेयानपि मे शृणु॥१६॥
 
@@ -6862,8 +6400,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ईदृशैः पुरुषश्रेष्ठैस्सन्धिं स्म कुरुते नृपः।
 
-
-
 तस्य विस्तीर्यते राज्यं ज्योत्स्ना ग्रहपतेरिव॥२५॥
 
 सत्ववन्तो जितक्रोधा बलवन्तो रणप्रियाः।  
@@ -6880,11 +6416,7 @@ The Presidency College,                     P. P. S. SASTRI,
 \[ अस्मिन्नध्याये २७॥ श्लोकाः \]  
 ![](../books_images/U-IMG-1701777239ववव.png)
 
-
-
 **॥अष्टचत्वारिंशदधिकशततमोऽध्यायः॥**
-
-
 
 कृतघ्नोपाख्यानम्—भीष्मेण युधिष्ठिरं प्रति कृतघ्नमित्रद्रोहिलक्षणकथनाय दृष्टान्ततया गौतमकथाकथनारम्भः॥१॥ ब्राह्मणाधमेन केनचिद्गौतमकुलजेन धनार्जनाय दस्युग्रामप्रवेशः॥२॥ तत्र केनचिद्दस्युवरेण भर्तृविरहितनारीसमर्पणादिना सत्कृतेन गौतमेन दस्युवृत्त्योपजीवनम्॥३॥ कदाचन धनार्जनाय प्रस्थितवता गौतमेन समुद्रं प्रति गच्छता वणिक्सार्थेन सहगमनम्॥४॥ वनगजोपद्रुतवणिक्सार्थपरिभ्रष्टेन गौतमेन किञ्चिन्न्यग्रोधमूले विश्रान्यै प्रस्वापः॥५॥ तत्र सायमागतेन राजधर्मनाम्ना बकराजेन तस्य सत्कारः॥६॥ बकसत्कृतेन गौतमेन तच्चोदनया तत्सुहृदो विरूपाक्षनाम्नो राक्षसस्य नगरं प्रति गमनम्॥७॥ गौतमेन स्वस्थानर्हत्वं जानताऽपि विरूपाक्षेण बकराजगौरवात्प्रदत्तं धनभारमुदूह्य सायं पुनर्बकालयं प्रत्यागमनम्॥८॥ तत्र परेधुः स्वभवनं जिगमिषुणा गौतमेन पाथेयार्थं रात्रौ बकवधनिर्धारणम्॥९॥ गौतमेन रात्रौ सुप्तं बकं हत्वाऽग्नौ पक्वतन्मांसमुपगृह्य स्वग्रामं प्रति प्रस्थानम्॥१०॥ परेद्युर्बकस्यानागमनेन तस्य विवादशङ्किना विरूपाक्षेण तद्वृत्तान्तजिज्ञासया स्वपुत्रस्य नियोजनम्॥११॥ पितृनियोगात्सपरिवारेण विरूपाक्षसुतेन गौतमहननम्॥१२॥ विरूपाक्षभटैर्बकशरीरस्य चितारोपणम्॥१३॥ ततो वाय्वानीतधेनुमुखस्रुतफेनपातेन चितास्थबकोज्जीवनम्॥१४॥ ततो बकप्रार्थनया इन्द्रेण पुनरुज्जीवितस्य गौतमस्य स्वग्रामगमनम्॥१५॥
 
@@ -6894,8 +6426,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 विस्तरेणार्थसम्बन्धं श्रोतुमिच्छामि पार्थिव ।  
 मित्रद्रोही कृतघ्नश्च यः प्रोक्तस्तं च मे वद॥१॥
-
-
 
 **भीष्मः—**
 
@@ -6928,8 +6458,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^183]: "ख—वराहान्सतु–नित्यं वै    घ—वक्राङ्गांस्तु सुनित्यं वै"
 
-
-
 जघान गौतमो राजन् यथा दस्युजनस्तथा॥९॥
 
 हिंसापरो घृणाहीनस् सदा प्राणिवधे रतः।  
@@ -6959,8 +6487,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तं दृष्ट्वा पुरुषादाभम् अपध्वस्तं क्षयागतम्।  
 अभिज्ञाय द्विजो व्रीलाम् अगमद्वाक्यमाह च॥१८॥
-
-
 
 **द्विजः—**
 
@@ -6999,8 +6525,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^188]: "स्व—निशायां"
 
-
-
 समुद्रगान् स वणिजस् ततोऽपश्यद्द्विजः पथि।  
 स तेन सह सार्थेन प्रययौ सागरं प्रति॥२६॥
 
@@ -7029,8 +6553,6 @@ The Presidency College,                     P. P. S. SASTRI,
 उद्गताश्शकुनाश्चान्ये सामुद्रास्सर्वतोऽभवन्॥३४॥
 
 स तान्यतिमनोज्ञानि विहगानां रुतानि वै।
-
-
 
 शृण्वन् सुरमणीयानि विप्रोऽगच्छत गौतमः॥३५॥
 
@@ -7062,8 +6584,6 @@ The Presidency College,                     P. P. S. SASTRI,
 आजगाम स्वभवनं ब्रह्मलोकात् खगोत्तमः॥४३॥
 
 नालीजङ्घ इति ख्यातो दयितो ब्रह्मणस्सदा।
-
-
 
 कुरुराज महाप्राज्ञः काश्यपस्यात्मसम्भवः॥४४॥
 
@@ -7098,8 +6618,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^191]: "ख—सति त्वं च"
 
-
-
 **भीष्मः—**
 
 तस्मै दत्त्वा स सत्कारं विधिदृष्टेन कर्मणा।  
@@ -7129,8 +6647,6 @@ The Presidency College,                     P. P. S. SASTRI,
 समुद्रगमनाकाङ्क्षी द्रव्यार्थमिति भारत॥५९॥
 
 तं काश्यपोऽब्रवीत् प्रीत्या नोत्कण्ठां कर्तुमर्हसि।
-
-
 
 कृतकार्यो द्विजश्रेष्ठ सद्रव्यो यास्यसे गृहान्॥६०॥
 
@@ -7162,8 +6678,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ततो मनुव्रजं नाम नगरं शैलतोरणम्।  
 शैलप्राकारवप्रं च शैलयन्त्रार्गलं तदा॥६८॥
-
-
 
 विदितश्चाभवत्तत्र राक्षसेन्द्रस्य धीमतः।  
 प्रहितस्सुहृदा राजन् प्रीयतां वः प्रियोऽतिथिः॥६९॥
@@ -7197,8 +6711,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ततस्स विदितो राज्ञः प्रविश्य गृहमुत्तमम्।  
 पूजितो राक्षसेन्द्रेण निषसादासनोत्तमे॥७६॥
 
-
-
 पृष्टश्च गोत्रचरणं स्वाध्यायं ब्रह्मचारिकम्।  
 पृष्टो राज्ञा स नाज्ञासीद् गोत्रमात्रमथाब्रवीत्॥७७॥
 
@@ -7230,8 +6742,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तस्य प्रियं करिष्यामि स हि मामाश्रितस्सदा।  
 भ्राता मे बान्धवश्चासौ सखा चैव प्रियो मम॥८३॥
 
-
-
 कार्तिक्यामथ भोक्तारस् सहस्रं मे द्विजोत्तमाः।  
 तत्रायमपि भोक्ता तु देयमस्मै च मे धनम्॥८४॥
 
@@ -7261,8 +6771,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शरद्व्यपाये रत्नानि पौर्णमास्यामिति श्रुतिः॥९१॥
 
 सुवर्णं रजतं चैव मणीनथ च मौक्तिकम्।
-
-
 
 वज्रान् महाधनांश्चैव वैडूर्याजिनराङ्कवान्॥९२॥
 
@@ -7298,8 +6806,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 गौतमोऽपि सुवर्णस्य भारमादाय सत्त्वरः।
 
-
-
 कृच्छ्रात् समुद्वहन्भारं[^197] न्यग्रोधं समुपागमत्॥१००॥
 
 [^197]: "ख–घ—धीरो"
@@ -7330,8 +6836,6 @@ The Presidency College,                     P. P. S. SASTRI,
 इमं हत्वा गृहीत्वाऽस्य यास्ये मांसमिति प्रभो[^101]॥१०८॥
 
 [^101]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
 
 **भीष्मः—**
 
@@ -7364,8 +6868,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 स्वाध्यायेन वियुक्तो हि ब्रह्मवर्चसवर्जितः।
 
-
-
 स गतस्तत्र मे शङ्का हन्यात् तं स द्विजाधमः॥११७॥
 
 दुराचारस्स दुर्बुद्धिर् इङ्गितैर्लक्षितो मया।  
@@ -7397,8 +6899,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 आर्तनादो महानासीद् गृहे तस्य महात्मनः।  
 स्त्रीसङ्घस्य तदा राजन् निहते काश्यपात्मजे॥१२५॥
-
-
 
 राजा चैवाब्रवीत् पुत्रं पापोऽयं वध्यतामिति॥१२६॥
 
@@ -7435,8 +6935,6 @@ The Presidency College,                     P. P. S. SASTRI,
 क्रव्यादास्त्वपि राजेन्द्र नेच्छन्ति पिशिताशनाः।  
 मृतानपि हि क्रव्यादाः कृतघ्नान् नोपभुञ्जते॥१३३॥
 
-
-
 ब्रह्मस्वहरणे चोरे ब्रह्मघ्ने गुरुतल्पगे।  
 निष्कृतिर्विहिता सद्भिः कृतघ्ने नास्ति निष्कृतिः॥१३४॥
 
@@ -7469,8 +6967,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यस्मात्त्वं नागतो द्रष्टुं मम नित्यं सभामिमाम्।  
 तस्माद्बक गृहे हन्ता ब्राह्मणः पापबन्धनः॥१४२॥
-
-
 
 बद्धो भवतु घोरैश्च पाशैर्नागमयैर्भृशम्॥१४२॥
 
@@ -7512,8 +7008,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 विरूपाक्षमुवाचेदम् ईश्वरः पाकशासनः॥१४९॥
 
-
-
 **इन्द्रः—**
 
 ब्रह्मणा व्याहृतो रोषाद् राजधर्मा कदाचन॥१५०॥
@@ -7552,8 +7046,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 मित्रद्रोहो न कर्तव्यः पुरुषेण विशेषतः।
 
-
-
 मित्रध्रुङ् निरयं घोरं अनन्तं प्रतिपद्यते॥१५७॥
 
 कृतज्ञमनसा[^99] भाव्यं मित्रभावेन चानघ।  
@@ -7587,8 +7079,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥आपद्धर्मपर्व समाप्तम्॥  
 ![](../books_images/U-IMG-1701787528ववव.png)
 
-
-
 **॥एकोनपञ्चाशदधिकशततमोऽध्यायः॥**  
 
 ![](../books_images/U-IMG-1701787650ननन.png)  
@@ -7621,8 +7111,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अपि च त्वं नरव्याघ्र श्रोतुमर्हसि मे कथाम्।  
 पुरा शक्रस्य कथितो नारदेन महर्षिणा॥६॥
-
-
 
 सुरर्षिर्नारदो राजन, सिद्धस्त्रैलोक्यसम्मतः।  
 पर्येति क्रमशो लोकान् स[^212] कदाचिन्महामुनिः॥७॥
@@ -7659,8 +7147,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि प्रथमोऽध्यायः॥१॥  
 \[अस्मिन्नध्याये १२॥ श्लोकाः\]
 
-
-
 **॥पञ्चाशदधिकशततमोऽध्यायः॥**  
 
 ![](../books_images/U-IMG-1701789193ललल.png)  
@@ -7692,8 +7178,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ततस्स्वधर्मं वेदोक्तं धर्मशास्त्रोक्तमेव च।  
 शिष्टाचीर्णं च धर्मात्मा त्रिविधं धत्त चेतसा॥६॥
-
-
 
 किं नु मे स्याच्छुभं कृत्वा किं क्षमं किं परायणम्।  
 इत्येवं भिद्यते नित्यं न च याति विनिश्चयम्॥७॥
@@ -7729,8 +7213,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 गृहस्थधर्मं विप्रेन्द्र कृत्वा धर्मं गतस्त्वहम्।
 
-
-
 धर्मं परमकं कुर्यां को हि मार्गोभवेद्द्विज॥२॥
 
 अहमात्मानमात्मस्थम् एक एवात्मनि[^220] स्थितः।  
@@ -7760,8 +7242,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सोऽतिथिर्वचनं तस्य श्रुत्वा धर्माभिलाषिणः।  
 प्रोवाच वचनं श्लक्ष्णं प्राज्ञो मधुरया गिरा॥८॥
-
-
 
 **अतिथिः—**
 
@@ -7796,8 +7276,6 @@ The Presidency College,                     P. P. S. SASTRI,
 आर्जवेनापरे युक्ता निहता नार्जवर्जनैः।  
 ऋजवो नाकपृष्ठे वै शुद्धात्मानः प्रतिष्ठिताः॥१५॥
 
-
-
 एवं बहुविधैर्लोके धर्मद्वारैरनावृतैः।  
 ममापि मतिराविद्धा मेघलेखेव[^227] वायुना॥१६॥
 
@@ -7829,8 +7307,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 कृताधिवासो धर्मात्मा तत्र चक्षुश्श्रवा महान्।
 
-
-
 महापद्मो महाभागः पद्म इत्येव विश्रुतः॥४॥
 
 स वाचा कर्मणा चैव मनसा च द्विजर्षभ।  
@@ -7861,8 +7337,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शान्तिपर्वणि द्विपञ्चाशदधिकशततमोऽध्यायः॥१५२॥  
 ॥८८॥ मोक्षधर्मपर्वणि चतुर्थोऽध्यायः॥४॥  
 \[अस्मिन्नध्याये ११ श्लोकाः\]
-
-
 
 **॥त्रिपञ्चाशदधिकशततमोऽध्यायः॥**  
 
@@ -7896,8 +7370,6 @@ The Presidency College,                     P. P. S. SASTRI,
 प्रभाते यास्यति भवान् पर्याश्वस्तस्सुखोषितः।  
 असौ हि भगवान् सूर्यो मन्दरश्मिरवाङ्मुखः॥७॥
 
-
-
 भीष्मः—
 
 ततस्तेन कृतातिथ्यस् सोऽतिथिश्शत्रुसूदन।  
@@ -7919,8 +7391,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि पञ्चमोऽध्यायः॥५॥  
 \[अस्मिन्नअध्याये ११ श्लोकाः\]  
 ![](../books_images/U-IMG-1701825326ववव.png)
-
-
 
 **॥चतुःपञ्चाशदधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1701825790mmm.png)
@@ -7953,8 +7423,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एतद्धि परमं कार्यम् एतन्मे फलमीप्सितम्।
 
-
-
 अनेनार्थेन चास्म्यद्य सम्प्राप्तः पन्नगालयम्॥७॥
 
 **नागभार्या—**
@@ -7986,8 +7454,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि षष्ठोऽध्यायः॥६॥  
 \[अस्मिन्नध्याये १३ श्लोकाः\]  
 ![](../books_images/U-IMG-1701826055ववव.png)
-
-
 
 **॥पञ्चपञ्चाशदधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1701826182ननन.png)
@@ -8023,8 +7489,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^229]: "ग—यञ्चान्यद्द्वि"
 
-
-
 त्यक्ताहारेण भवता वने निवसता सता।  
 बालवृद्धमिदं सर्वं पीड्यते धर्मसङ्करात्॥८॥
 
@@ -8058,8 +7522,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शान्तिपर्वणि पञ्चपञ्चाशदधिकशततमोऽध्यायः॥१५५॥  
 ॥८८॥ मोक्षधर्मपर्वणि सप्तमोऽध्यायः॥७॥  
 \[अस्मिन्नध्याये १४ श्लोकाः\]
-
-
 
 **॥षट्पञ्चाशदधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1701827447ललल.png)
@@ -8098,8 +7560,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^234]: "ग—सर्वेषां चैव वर्णानामाति"
 
-
-
 विप्रक्षत्रियवैश्यानां शुश्रूषा शूद्रकर्म तत्।  
 गृहस्थधर्मो नागेन्द्र सर्वभूतहितैषिता॥७॥
 
@@ -8126,8 +7586,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अहं त्वनेन नागेन्द्र सामपूर्वं समाहिता।  
 प्रस्थाप्यो मत्सकाशं स सम्प्राप्तो भुजगोत्तमः॥१५॥
-
-
 
 एतच्छ्रुत्वा महाप्राज्ञ तत्र वा गन्तुमर्हसि।  
 दातुमर्हसि वा तस्य दर्शनं दर्शनार्थिनः॥१६॥
@@ -8158,8 +7616,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 वन्दनीयाश्च वरदा वयमप्यनपायिनः।  
 मानुषाणां विशेषेण धनाध्यक्षा इति श्रुतिः॥४॥
-
-
 
 **नागी—**
 
@@ -8196,8 +7652,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^239]: "ग—मौनज्ञानफलावाप्तिर्दानेनाध्ययनेन च। [ पाठान्तरम् ]"
 
-
-
 वाग्मित्वं सत्यवाक्येन परत्र च महीयते॥१२॥
 
 भूमिप्रदानेन महीं[^240] लभत्याश्रयसम्मिताम्।  
@@ -8232,8 +7686,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तथा[^243] शक्रप्रतिस्पर्धी रोषस्य वशमागतः।
 
 [^243]: "ग—अर्धत्रयं नास्ति"
-
-
 
 मान्धाता निहतो युद्धे लवणेन[^244] तु रक्षसा॥२०॥
 
@@ -8273,8 +7725,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तमभिक्रम्य नागेन्द्रो मतिमान् स नरेश्वर।
 
-
-
 प्रोवाच मधुरं वाक्यं प्रकृत्या धर्मवत्सलः॥२॥
 
 **नागः—**
@@ -8307,8 +7757,6 @@ The Presidency College,                     P. P. S. SASTRI,
 आज्ञापय यथास्वैरं किं करोमि प्रियं तव॥९॥
 
 भवन्तं स्वजनादस्मि सम्प्राप्तं श्रुतवानिह।
-
-
 
 ततस्त्वां स्वयमेवाहं द्रष्टुमभ्यागतो द्विज॥१०॥
 
@@ -8343,8 +7791,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि दशमोऽध्यायः॥१०॥  
 \[अस्मिन्नध्याये १६ लोकाः\]
 
-
-
 **॥एकोनषष्ट्यधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1701830791ननन.png)
 
@@ -8375,8 +7821,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शुक्लो[^252] नामासितः पादो यस्य वारिधरोदरैः।
 
 [^252]: "2. ग—यस्य तेजोविशुष्केषु नित्यमात्मा प्रतिष्ठितः।  [अधिकः पाठः] 3. ख—अर्धद्वयं नास्ति"
-
-
 
 पयस्सृजति वर्षासु किमाश्चर्यतरं ततः॥५
 
@@ -8410,8 +7854,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ततो भित्त्वेव गगनं प्रविष्टो रविमण्डलम्।
 
-
-
 एकीभूतं च तत्तेजः क्षणेनादित्यतां गतम्॥१३॥
 
 तत्र नस्संशयो जातस् तयोस्तेजस्समागमे।  
@@ -8443,8 +7885,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ऋचश्चानेन विप्रेण संहितान्तरभिष्टुताः।
 
-
-
 स्वर्गद्वारकृतोद्योगो येनासौ त्रिदिवं गतः॥३॥
 
 असन्निधिरनाकाङ्क्षी नित्यमुञ्छसिलाशनः।  
@@ -8471,12 +7911,8 @@ The Presidency College,                     P. P. S. SASTRI,
 \[अस्मिन्नध्याये ७॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1701866655ववव.png)
 
-
-
 **॥एकषष्ट्यधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1701866840ललल.png)
-
- 
 
 ब्राह्मणेन नागामन्त्रणपूर्वकमिष्टदेशं प्रति प्रस्थानम्॥
 
@@ -8508,8 +7944,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 .
 
-
-
 ब्राह्मणः—
 
 एवमेतन्महाप्राज्ञ[^257] विज्ञानार्थं भुजङ्गम।  
@@ -8533,12 +7967,8 @@ The Presidency College,                     P. P. S. SASTRI,
 \[अस्मिन्नध्याये १० श्लोकाः\]  
 ![](../books_images/U-IMG-1701867534ववव.png)
 
-
-
 **॥द्विषष्ट्यधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1701867975ननन.png)
-
- 
 
 भीष्मेण युधिष्टिरं प्रत्युञ्छवृत्युपाख्यानोपदेशपरम्पराक्रमकथनपूर्वकमुञ्छवृत्तिब्राह्मणस्य वनप्रवेशकथनम्॥
 
@@ -8568,8 +7998,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 पृच्छमानाय तत्त्वेन मयाऽप्यद्य शुभा तव।
 
-
-
 कथेयं कथिता पुण्या धर्म्या धर्मभृतां वर॥७॥
 
 तदेष परमो धर्मो यन्मां पृच्छसि भारत।  
@@ -8586,8 +8014,6 @@ The Presidency College,                     P. P. S. SASTRI,
 \[अस्मिन्नध्याये ९ श्लोकाः\]  
 (उच्छवृत्युपाख्यानं समाप्तम्)  
 ![](../books_images/U-IMG-1701868476ववव.png)
-
-
 
 **॥त्रिषष्ट्यधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1701869296ललल.png)
@@ -8607,8 +8033,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 नष्टे धने वा दारे वा पुत्रे पितरि वा मृते।  
 अहो दुःखमिति ध्यायञ् छोकस्यापचितिं चरेत्॥
-
-
 
 यथा[^260] यथा विपर्येति लोकतन्त्रमसारवत्।  
 तथा तथा विरागोऽत्र जायते नात्र संशयः॥३॥
@@ -8640,8 +8064,6 @@ The Presidency College,                     P. P. S. SASTRI,
 आत्मानमनुशोचामो ममैष हृदि संस्थितः॥९॥
 
 सर्वभूतानि दुःखेन व्यतिषक्तानि पश्यतः।
-
-
 
 अहमेको[^261] न मे कश्चिन्नाहमन्यस्य कस्यचित्॥१०॥
 
@@ -8678,8 +8100,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^265]: "अ–क–ख–ग—नास्तीदमर्धम्"
 
-
-
 नालं सुखाय सुहृदो नालं दुःखाय दुर्हृदः[^266]।  
 न च प्रज्ञाऽलमर्थानां नसुखानामलं धनम्॥१८॥
 
@@ -8708,8 +8128,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अविज्ञानेन महता कम्बलेनेव संवृतः॥२४॥
 
 ये तु बुद्धिं परां प्राप्ता द्वन्द्वातीता विमत्सराः।
-
-
 
 तान् नैवार्था न चानर्था व्यथयन्ति कदाचन॥२५॥
 
@@ -8746,8 +8164,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यन्निमित्तो भवेच्छोकस् त्रासो वा क्रोध एव वा।
 
-
-
 आयासो वा यतो मूलं तदेकाङ्गमपि त्यजेत्॥३३॥
 
 यद्यत्त्यजति कामानां तत् सुखस्याभिपूर्यते।  
@@ -8778,8 +8194,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तदाऽऽत्मज्योतिरात्मश्रीर् आत्मन्येव प्रसीदति॥४०॥
 
 किञ्चिदेव ममत्वेन यदा भवति कल्पितम्।
-
-
 
 तदेव परितापाय नाशे[^277] सम्पद्यते तदा॥४१॥
 
@@ -8816,8 +8230,6 @@ The Presidency College,                     P. P. S. SASTRI,
 उन्मत्ताऽहमनुन्मत्तं कान्तमन्ववसं चिरम्।  
 अन्तिके रमणं यान्तं नैनमध्यगमं पुरा॥४९॥
 
-
-
 एकस्थूणं नवद्वारम् अपिधास्याम्यगारकम्।  
 का ह्यकान्तमिहायान्तं कान्त इत्यभिमंस्यते॥५०॥
 
@@ -8842,8 +8254,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८७॥ मोक्षधर्मपर्वणि पञ्चदशोऽध्यायः॥१५॥  
 \[अस्मिन्नध्याये ५४ श्लोकाः\]  
 ![](../books_images/U-IMG-1701909296ववव.png)
-
-
 
 **॥चतुष्षष्ट्यधिकशततमोऽध्यायः॥**  
 
@@ -8877,8 +8287,6 @@ The Presidency College,                     P. P. S. SASTRI,
 क्षिप्रं ह्यायुर्भ्रश्यते मानवानाम्।  
 पितस्तदाचक्ष्व यथार्थयोगं  
 ममानुपूर्व्याद् येन धर्मं चरेयम्॥
-
-
 
 **पिता—**
 
@@ -8915,8 +8323,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यथाऽहमेतज्जानामि न मृत्युस्तिष्ठतीति ह।  
 सोऽहं कथं प्रतीक्षिष्ये जालेनेवावृतश्चरन्॥१०॥
 
-
-
 **पुत्रः—**
 
 रात्र्यां[^286] रात्र्यां व्यतीतायाम् आयुरल्पतरं यदा।  
@@ -8948,8 +8354,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^84]: "ख—अर्धद्वयं नास्ति"
 
-
-
 अबुद्ध एवाक्रमते मीनान्मीनग्रहो यथा॥१७॥
 
 युवैव धर्मशीलस्स्याद् अनित्यं खलु जीवितम्।  
@@ -8980,8 +8384,6 @@ The Presidency College,                     P. P. S. SASTRI,
 [^292]: "अ–क–ख–घ—अर्धचतुष्टयं नास्ति"
 
 इदं मे स्यादिदं मे स्याद् इत्येव मनसा नरान्।
-
-
 
 अनवाप्तेषु कामेषु कृतान्तः कुरुते वशे॥२५॥
 
@@ -9015,8 +8417,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अमृतं चैव मृत्युश्च द्वयं देहे प्रतिष्ठितम्।  
 मृत्युरापद्यते मोहात् सत्येनापद्यतेऽमृतम्॥३३॥
 
-
-
 सोऽहं ह्यहिंस्रस्सत्यार्थी कामक्रोधबहिष्कृतः।  
 समदुःखसुखः क्षेमी मृत्युं हास्याम्यमर्त्यवत्॥३४॥
 
@@ -9045,8 +8445,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यथैकता समता सत्यता च।  
 शीलं स्थितिर्दण्डनिधानमार्जवं  
 ततस्ततश्चोपरमः क्रियाभ्यः॥४०॥
-
-
 
 किं ते धनैर्बान्धवैर्वाऽपि किं ते  
 किं ते दारैर्ब्राह्मण यो मरिष्यसि।  
@@ -9080,8 +8478,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम्।
 
-
-
 शम्याकेन विमुक्तेन गीतं शान्तिगतेन वै॥२॥
 
 अब्रवीन्मां पुरा कश्चिद् ब्राह्मणस्यागमास्थितः।  
@@ -9111,8 +8507,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अत्यरिच्यत दारिद्र्यं राज्यादपि गुणाधिकात्॥१०॥
 
 आकञ्चन्ये च राज्ये च विशेषस्सुमहानयम्।
-
-
 
 नित्योद्विग्नोहि धनवान् मृत्योरास्यगतो यथा॥११॥
 
@@ -9147,8 +8541,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तमतिक्रान्तमर्यादम् आददानमसाम्प्रतम्।
 
-
-
 प्रतिषेधन्ति राजानो लुब्धा मृगमिवेषुभिः॥१९॥
 
 एवमेतानि दुःखानि तानि तानीह मानवम्।  
@@ -9168,8 +8560,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि सप्तदशोऽध्यायः॥१७॥  
 \[अस्मिन्नध्याये २३॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1701913527ववव.png)
-
-
 
 **॥षट्षष्ट्यधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1701913932mmm.png)
@@ -9204,8 +8594,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तयोस्सम्प्राप्तयोरुष्ट्रस् स्कन्धदेशममर्षणः।
 
-
-
 उत्थायोत्थाय दम्यौ तौ प्रससार महाजवः॥७॥
 
 ह्रियमाणौ तु तौ दम्यौ तेनोष्ट्रेणप्रमाथिना।  
@@ -9235,8 +8623,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अहो सम्यक् शुकेनोक्तं सर्वतः परिमुच्यता।  
 प्रतिष्ठमानेनारण्यं जनकस्य निवेशनात्॥१५॥
-
-
 
 **शुकः—**
 
@@ -9272,8 +8658,6 @@ The Presidency College,                     P. P. S. SASTRI,
 नूनं मे हृदयं कामं वज्रसारमयं दृढम्।  
 यदनर्थशताविष्टं शतधा न विदीर्यते॥२३॥
 
-
-
 त्यजामि काम त्वां चैव यच्च किञ्चित् प्रियं तव।  
 तवाहं सुखमन्विच्छन् आत्मन्युपलभे सुखम्॥२४॥
 
@@ -9302,8 +8686,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 विचरिष्याम्यनासक्तस् सुखी लोकान्निरामयः।  
 यथा पुनर्न मामेवं दुःखेषु प्रणिधास्यसि॥३२॥
-
-
 
 त्वया हि मे प्रणुन्नस्य गतिरन्या न विद्यते।  
 तृष्णाशोकश्रमाणां हि त्वं कामप्रभवस्सदा॥३३॥
@@ -9334,8 +8716,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अतिक्लेशं सहामीह नाहं बुद्ध्याम्यबुद्धिमान्।  
 निकृतो धननाशेन शये सर्वाङ्गविज्वरः॥४१॥
 
-
-
 प्रतिनृत्यामि काम त्वां हित्वा सर्वं मनोगतम्।  
 न त्वं पुनर्मया काम नस्योतेनेव रंस्यसे॥४२॥
 
@@ -9364,8 +8744,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एष ब्रह्म प्रविष्टोऽस्मि ग्रीष्मे शीतमिव ह्रदम्।  
 शाम्यामि परिनिर्वामि सुखमासे च केवलम्॥५०॥
-
-
 
 यच्च कामसुखं लोके यच्च दिव्यं महत् सुखम्।  
 तृष्णाक्षयसुखस्यैते नार्हतष्षोडशीं कलाम्॥५१॥
@@ -9401,8 +8779,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^313]: "ख—श्लोकं मोक्षोपसंहितम्"
 
-
-
 नहुषस्यापि[^314] राजर्षेर् बोध्यस्य पदसञ्चयम्॥५७॥
 
 [^314]: "ख–ग—इदमधं नास्ति"
@@ -9435,8 +8811,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि अष्टादशोऽध्यायः॥१८॥  
 \[अस्मिन्नध्याये ६२ श्लोकाः\]  
 ![](../books_images/U-IMG-1701940235ववव.png)
-
-
 
 **॥सप्तषष्ट्यधिकशततमोऽध्यायः॥**  
 
@@ -9471,8 +8845,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 स्रोतसा ह्रियमाणासु प्रजास्वविमना इव।
 
-
-
 धर्मकामार्थकार्येषु कूटस्थ इव लक्ष्यसे॥६॥
 
 नानुतिष्ठसि धर्मार्थौन कामे चापि वर्तसे।  
@@ -9504,8 +8876,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 जलजानामपि ह्यन्तं पर्यायेणोपलक्षये।
 
-
-
 महतामपि कायानां सूक्ष्माणां च महोदधौ॥१४॥
 
 जङ्गमस्थावराणां च भूतानामसुरोत्तम।  
@@ -9535,8 +8905,6 @@ The Presidency College,                     P. P. S. SASTRI,
 धारयामि च चीराणि शाणक्षौमाजिनानि च।  
 महार्हाणि च वासांसि धारयाम्यहमेकदा॥२३॥
 
-
-
 न सन्निपतितं धर्म्यम् उपभोगं यदृच्छया।  
 प्रत्याचक्षे न चाप्येनम् अनुरुन्धे सुदुर्लभम्॥२४॥
 
@@ -9556,8 +8924,6 @@ The Presidency College,                     P. P. S. SASTRI,
 विधिपरिणामविभक्तदेशकालम्।  
 हृदयसुखमसेवितं कदर्यैर्  
 व्रतमिदमाजगरं शुचिश्चरामि॥२७॥
-
-
 
 इदमिदमिति[^320] तृष्णयाऽभिभूतं  
 जनमनवाप्तधनं विषीदमानम्।  
@@ -9580,8 +8946,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अपगतभयरागमोहदर्पो  
 धृतिमतिबुद्धिसमन्वितः प्रशान्तः।
-
-
 
 उपगतफलभोगिनो निशाम्य  
 व्रतमिदमाजगरं शुचिश्चरामि॥३१
@@ -9610,8 +8974,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^84]: "ख—अर्धद्वयं नास्ति"
 
-
-
 बहु कथितमिदं हि बुद्धिमद्भिः  
 कविभिरपि प्रथयद्भिरात्मकीर्तिम्।  
 इदमिदमिति तत्र तत्र तत्तत्  
@@ -9636,8 +8998,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि एकोनविंशोऽध्यायः॥१९॥  
 \[अस्मिन्नध्याये ३८ श्लोकाः\]  
 ![](../books_images/U-IMG-1701942447ववव.png)
-
-
 
 **॥अष्टषष्ट्यधिकशततमोऽध्यायः॥**  
 
@@ -9671,8 +9031,6 @@ The Presidency College,                     P. P. S. SASTRI,
 [^326]: "घ—इन्द्रस्त"
 
 आर्तस्स पतितः क्रुद्धस् त्यक्त्वाऽऽत्मानमथाब्रवीत्॥ ५॥
-
-
 
 **काश्यपः—**
 
@@ -9711,8 +9069,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अथ येषां पुनः पाणी देवदत्तौ दशाङ्गुली।  
 उद्धरन्ति क्रिमीनङ्गाद् दशमानान् कषन्ति च॥१३॥
 
-
-
 हिमवर्षातपेभ्यश्च परित्राणानि कुर्वते।  
 चेलमन्नं सुखं शय्यां निवातं[^330] चोपभुञ्जते॥१४॥
 
@@ -9741,8 +9097,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 जात्या चैके सुखितरास् सन्त्यन्ये भृशदुःखिताः।  
 नैकान्तं सुखमेवेह क्वचित् पश्यामि कस्यचित्॥२२॥
-
-
 
 मनुष्या आढ्यतां प्राप्य राज्यमिच्छन्त्यतः परम्।  
 राज्याद्देवत्वमिच्छन्ति देवत्वादिन्द्रतामपि॥२३॥
@@ -9775,8 +9129,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अप्राशनमसंस्पर्शो ह्यसन्दर्शनमेव च।  
 पुरुषस्यैष नियमो मन्ये श्रेयो न संशयः॥३१॥
 
-
-
 पाणिमन्तो हि धनिनो बलवन्तो न संशयः।  
 मनुष्या मानुषैरेव दासत्वमुपपादिताः॥३२॥
 
@@ -9806,8 +9158,6 @@ The Presidency College,                     P. P. S. SASTRI,
 धर्मायोत्तिष्ठ विप्रर्षे नात्मानं त्यक्तुमर्हसि॥३९॥
 
 यदि ब्रह्मञ् शृणोष्येतच् छ्रद्दधासि च मे वचः।
-
-
 
 मुख्यं[^335] फलमवाप्तासि वेदोक्तस्यैव कर्मणः॥४०॥
 
@@ -9839,8 +9189,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सन्तुष्टश्चाप्रमत्तश्च यज्ञदानतपोरतः।
 
-
-
 ज्ञेयं ज्ञाता भवेयं वै वर्ज्यं वर्जयिता तथा॥४९॥
 
 **भीष्मः—**
@@ -9859,7 +9207,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि विंशोऽध्यायः॥२०॥  
 \[अस्मिन्नध्याये ५२॥ श्लोकाः\]  
 
-
 **॥एकोनसप्तत्यधिकशततमोऽध्यायः॥**
 
   भीष्मेण युधिष्ठिरं प्रति तपोदानादिसत्कर्मणामपि परम्परया सुखसाधनताकथनम्॥
@@ -9868,8 +9215,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यद्यस्ति दत्तमिष्टं वा तपस्तप्तं कृतं तथा।  
 गुरूणां वाऽपि शुश्रूषा तन्मे ब्रूहि पितामह॥१॥
-
-
 
 **भीष्मः—**
 
@@ -9900,8 +9245,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 उपतिष्ठति तिष्ठन्तं गच्छन्तमनुगच्छति।  
 करोति कुर्वतः कर्म छायेवाऽनुविधीयते॥९॥
-
-
 
 येन येन यथा यद्यत् पुरा कर्म समार्जितम्।  
 तत्तदेव नरो भुङ्क्ते नित्यं विहितमात्मना॥१०॥
@@ -9937,8 +9280,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^172]: "अ—अर्धद्वयं नास्ति"
 
-
-
 उपवासप्रतप्तानां दीर्घं सुखमनन्तरम्॥१८॥
 
 दीर्घकालेन तपसा सेवितेन तपोवने।  
@@ -9967,8 +9308,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 कुतस्सृष्टमिदं सर्वं जगत् स्थावरजङ्गमम्।  
 प्रलये च किमप्येति तन्मे ब्रूहि पितामह॥१॥
-
-
 
 ससागरस्सगगनस् सशैलस्सवलाहकः।  
 सभूमिस्साग्निपवनो लोकोऽयं केन निर्मितः॥२॥
@@ -10002,8 +9341,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^295]: "अ–क–घ—अर्धत्रयं नास्ति"
 
-
-
 कीदृशो जीवतां जीवः क्व वा गच्छन्ति ये मृताः।  
 अमुं लोकमिमं चापि सर्वं शंसतु नो भवान्॥१०॥
 
@@ -10032,8 +9369,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सोऽसृजत् प्रथमं देवो महान्तं नाम नामतः।  
 आकाशमिति विख्यातं सर्वभूतधरः प्रभुः॥१६॥
-
-
 
 आकाशादभवद्वारि सलिलादग्निमारुतौ।  
 अग्निमारुतसंयोगात् ततस्समभवन्मही॥१७॥
@@ -10066,8 +9401,6 @@ The Presidency College,                     P. P. S. SASTRI,
 गगनस्य दिशश्चैव[^347] भूजलस्यानिलस्य च।
 
 [^347]: "ख—दिशां चैव भूतलस्य"
-
-
 
 कान्यत्र परिमाणानि संशयं छिन्धि मेऽर्थतः॥२५॥
 
@@ -10102,8 +9435,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^351]: "ग—न भुवः प्र"
 
-
-
 अग्निमारुततोयानां वर्णाः क्षितितलस्य च।  
 आकाशसदृशा ह्येते भिद्यन्तेऽतत्त्वदर्शनात्॥३३॥
 
@@ -10132,8 +9463,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 मानसस्येह या मूर्तिर् ब्रह्मत्वं समुपागता।  
 तस्यासनविधानार्थं पृथिवी पद्ममुच्यते॥४०॥
-
-
 
 कर्णिका तस्य पद्मस्य मेरुर्गगनमुच्छ्रितः।  
 तस्य मध्ये स्थितो लोकान् सृजते जगतः प्रभुः॥४१॥
@@ -10168,8 +9497,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 पृथिवी पर्वता मेघा मूर्तिमन्तश्च ये परे।
 
-
-
 सर्वंतद्वारुणं ज्ञेयम् आपस्तस्तम्भिरे हि ताः॥४॥
 
 **भारद्वाजः—**
@@ -10199,8 +9526,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तथा सलिलसंरुद्धे नभसोऽन्ते निरन्तरे।
 
-
-
 भित्त्वाऽर्णवतलं वायुस् समुत्पतति वेगवान्[^353]॥१२॥
 
 [^353]: "ख—घोषवान्"
@@ -10225,8 +9550,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि त्रयोविंशोऽध्यायः॥२३॥  
 ॥अस्मिन्नध्याये १७ श्लोकाः॥  
 ![](../books_images/U-IMG-1701959480ववव.png)
-
-
 
 **॥द्विसप्तत्यधिकशततमोऽध्यायः॥**  
 
@@ -10260,8 +9583,6 @@ The Presidency College,                     P. P. S. SASTRI,
 पञ्चभिर्यदि भूतैस्तु युक्तारस्थावरजङ्गमाः।  
 स्थावराणां न दृश्यन्ते शरीरे पञ्च धातवः॥६॥
 
-
-
 अनूष्मणामचेष्टानां जडानां[^354] चैव सर्वशः।  
 वृक्षाणां नोपलभ्यन्ते शरीरे पञ्च धातवः॥७॥
 
@@ -10292,9 +9613,6 @@ The Presidency College,                     P. P. S. SASTRI,
 नाप्यदृष्टेश्च मार्गोऽस्ति तस्मात् पश्यन्ति पादपाः॥१३॥
 
 पुण्यापुण्यैस्तथा गन्धैर् धूपैश्च विविधैरपि।  
-
-
-
 
 भवन्त्यरोगाः[^357] पुष्पाढ्यास् तस्माज्जिघ्रन्ति पादपाः॥१४॥
 
@@ -10327,8 +9645,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तेजो ह्यग्निस्तथा क्रोधश् चक्षुरूष्मा तथैव च।  
 अग्निर्जरयते चापि पञ्चामेयाश्शरीरतः॥२१॥
 
-
-
 श्रवणं घ्राणमास्यं च हृदयं कोष्ठमेव च।  
 आकाशात् प्राणिनामेते शरीरे पञ्च धातवः॥२२॥
 
@@ -10357,8 +9673,6 @@ The Presidency College,                     P. P. S. SASTRI,
 निर्हारी संहतस्स्निग्धो रूक्षो विशद एव च॥२९॥
 
 एवं नवविधो ज्ञेयः पार्थिवो गन्धविस्तरः॥२९॥
-
-
 
 शब्दस्स्पर्शश्च[^362] रूपं च रसश्चापि गुणास्मृताः॥३०॥
 
@@ -10390,8 +9704,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तत्रैकगुणमाकाशं शब्द इत्येव स स्मृतः।  
 तस्य शब्दस्य वक्ष्यामि विस्तरं विविधं स्मृतम्॥३७॥
 
-
-
 षड्जस्त्वृषभगान्धारौ[^364] मध्यमः पञ्चमस्तथा।  
 धैवतश्च निषादश्च सप्तैते शब्दजा गुणाः॥३८॥
 
@@ -10417,8 +9729,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि चतुर्विंशोऽध्यायः॥२४॥  
 \[अस्मिन्नध्याये ४१॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1701993418ववव.png)
-
-
 
 **॥त्रिसप्तत्यधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1701993653ननन.png)
@@ -10451,8 +9761,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 प्रयत्ने कर्मणि बले य एकस्त्रिषु वर्तते।
 
-
-
 उदान इति तं प्राहुर् अध्यात्मकुशला जनाः॥७॥
 
 सन्धिष्वपि च सर्वेषु सन्निविष्टस्तथाऽनिलः।  
@@ -10480,8 +9788,6 @@ The Presidency College,                     P. P. S. SASTRI,
 वहन्त्यन्नरसान् नाड्यो दशप्राणप्रचोदिताः॥१५॥
 
 एष मार्गोऽथ योगानां येन गच्छन्ति तत् पदम्।
-
-
 
 जितक्लमासना धीरा मूर्धन्यात्मानमादधन्॥१६॥
 
@@ -10515,8 +9821,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यदि वातोपमो जीवस् संश्लेषो यदि वायुना।  
 वायुमण्डलवद्दृश्येद् गच्छन् सह मरुद्गणैः॥४॥
 
-
-
 श्लेष्मो वा यदि वातेन यदि तस्मात् प्रणश्यति।  
 महार्णववियुक्तत्वाद् अन्यत् सलिलभाजनम्॥५॥
 
@@ -10544,8 +9848,6 @@ The Presidency College,                     P. P. S. SASTRI,
 इहैव विलयं यान्ति कुतस्तेषां समागमः॥१२॥
 
 विहगैरुपयुक्तस्य शैलाग्रात् पतितस्य वा।
-
-
 
 अग्निना चोपयुक्तस्य कुतस्सञ्जीवनं पुनः॥१३॥
 
@@ -10578,8 +9880,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न शरीराश्रितो जीवस् तस्मिन् नष्टे प्रणश्यति।  
 यथा समित्सु दग्धासु न प्रणश्यति पावकः॥२॥
 
-
-
 भारद्वाजः—
 
 अग्नेर्यथा समिद्धस्य यदि नाशो न विद्यते।  
@@ -10610,8 +9910,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 जङ्गमानां च सर्वेषां स्थावराणां तथैव च।  
 आकाशं पवनोऽभ्येति ज्योतिस्तमनुगच्छति॥९॥
-
-
 
 तत्र त्रयाणामेकत्वं द्वयं भूमौ प्रतिष्ठितम्॥१०॥
 
@@ -10644,8 +9942,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शृणोति कथितं जीवः कर्णाभ्यां न शृणोति तम्।  
 महर्षे मनसि व्यग्रे तस्माज्जीवो निरर्थकः॥१७॥
 
-
-
 सर्वंपश्यति यद्दृश्यं मनोयुक्तेन चक्षुषा।  
 मनसि व्याकुले तस्मिन् पश्यन्नपि न पश्यति॥१८॥
 
@@ -10675,8 +9971,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ख—हृष्यते क्रुध्यते कोऽत्न लसत्युद्विजते च कः।  
 शोचते ध्यायते कश्च वाचमीरयते च कः॥     \[अधिकः पाठः\]
 
-
-
 आत्मानं तु विजानीहि तं लोकस्य विधायकम्।  
 तस्मिन् स संश्रितो देवो ह्यब्बिन्दुरिव पुष्करे॥२४॥
 
@@ -10702,11 +9996,8 @@ The Presidency College,                     P. P. S. SASTRI,
 चित्तस्य हि प्रसादेन हित्वा कर्म शुभाशुभम्।  
 प्रसन्नात्माऽत्मनि स्थित्वा सुखमव्ययमश्नुते॥३०॥
 
-
-
 मानसोऽग्निश्शरीरेषु जीव इत्यभिधीयते।  
 सृष्टिःप्रजापतेरेषा भूताध्यात्मविनिश्चया॥३१॥  
-
 
 इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
 शान्तिपर्वणि पञ्चसप्तत्यधिकशततमोऽध्यायः॥१७५॥  
@@ -10736,8 +10027,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ये चान्ये भूतसङ्घानां सङ्घातास्तांश्च निर्ममे॥४॥
 
 ब्राह्मणानां सितो वर्णः क्षत्रियाणां तु लोहितः।
-
-
 
 वैश्यानां पीतको वर्णश्शूद्राणामसितस्तथा॥५॥
 
@@ -10774,8 +10063,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 हिंसानृतप्रिया लुब्धास् सर्वकर्मोपजीविनः।
 
-
-
 कृष्णाश्शौचपरिभ्रष्टास् ते द्विजाश्शूद्रतां गताः॥१३
 
 ॥
@@ -10810,8 +10097,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि अष्टाविंशोऽध्यायः॥२८॥  
 \[अस्मिन्नध्याये २० श्लोकाः\]
 
-
-
 **॥सप्तसप्तत्यधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1702003399ननन.png)
 
@@ -10843,8 +10128,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सर्वभक्षरतिर्नित्यं सर्वकर्मकरोऽशुचिः।
 
-
-
 त्यक्तवेदस्त्वनाचारस् स वै शूद्र इति स्मृतः॥६॥
 
 शूद्रे चैतद्भवेल्लक्ष्यं द्विजे चैतन्न विद्यते।  
@@ -10873,8 +10156,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अव्यक्तमिति विज्ञेयं लिङ्गग्राह्यमतीन्द्रियम्॥१४॥
 
 अविस्रम्भेण गन्तव्यं विस्रम्भे धारयेन्मनः।
-
-
 
 मनः प्राणेन गृह्णीयात् प्राणं ब्रह्मणि धारयेत्॥१५॥
 
@@ -10905,8 +10186,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अनृतं तमसो रूपं तमसा नीयते ह्यधः।  
 तमोग्रस्ता न पश्यन्ति प्रकाशं तमसाऽऽवृतम्॥२॥
 
-
-
 स्वर्गःप्रकाश इत्याहुर् नरकं तम एव च।  
 सत्यानृताभ्यामुभयं प्राप्यते जगतीचरैः॥३॥
 
@@ -10926,8 +10205,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
   तत् खलु द्विविधं दुःखमुच्यते सुखमेव च शारीरं मानसं च॥९॥ इह खल्वमुष्मिँल्लोके सर्वारम्भप्रवृत्तयः सुखार्था अभिधीयते॥१०॥ न ह्यतः त्रिवर्गे फलमस्ति विशिष्टतरम्॥ ११॥ स एष काम्यो गुणविशेषो धर्मार्थयोरारम्भस्तद्धेतुरस्योत्पत्तिः सुखप्रयोजनार्था॥ १२॥
 
-
-
 **भारद्वाजः—**
 
   यदेतद्भवताऽभिहितं सुखानां परमार्थस्थितिरिति तन्न गृह्णीमो न ह्येषामृषीणां तपस्विनामप्राप्य एष गुणविशेषो न चैनमभिलषन्ति॥१३॥ श्रूयते च भगवान् त्रिलोककृद्ब्रह्मा प्रभुरेकाकी तिष्ठति॥१४॥ ब्रह्मचारी न कामसुखेष्वात्मानं विदधाति॥१५॥ अपिच भगवान विश्वेश्वरः काममतिवर्तमानमनङ्गत्वेन नाशमनयत्॥ १६॥ तस्माद्ब्रमो न तु महात्मभिः प्रतिगृहीतोऽयमर्थो नत्वेष तावद्विशिष्टो गुण इति॥१७॥ न चैतद्भगवान् प्रत्येति। भगवतोक्तं सुखानां परमार्थस्थितिरिति॥१८॥ लोकप्रवादोऽपि[^379] च—द्विविधः फलोदयस्सुकृता तु सुखमवाप्यते। दुष्कृताद्दुःखमिति॥ १९॥
@@ -10940,11 +10217,8 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^380]: "अ–क–घ—वाक्यद्वयमेतन्नास्ति"
 
-
-
 रुपतप्यन्ते॥२५॥ बन्धुधनविनाशविप्रयोगकृतैश्च मानसैश्शोकैरभिभूयन्ते॥२६॥ जरामृत्युकृतैश्चान्यैरिति॥२७॥
 
- 
 यदैतैश्शारीरैर्मानसैर्दुःखैर्न[^381] स्पृश्यते तत् सुखं संवेद्यं॥२८ नचैते दोषास्स्वर्गे प्रादुर्भवन्ति॥२९॥ तत्र खलु भवन्ति॥३०
 
 [^381]: "अ—लोके भवति द्विविधः फलोदयस्सुकृतात् सुखमवाप्यते दुष्कृताहुष्कृतमिति॥  [अधिकः पाठः]"
@@ -10968,8 +10242,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि त्रिंशोऽध्यायः॥३०॥  
 \[अस्मिन्नध्याये ११ श्लोकाः २३ वाक्यानि\]  
 ![](../books_images/U-IMG-1702092355ववव.png)
-
-
 
 **॥एकोनाशीत्यधिकशततमोऽध्यायः॥**
 
@@ -11002,8 +10274,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^384]: "ख—नरके स्थितिः"
 
-
-
 **भारद्वाजः—**
 
 किं[^385] कस्य धर्माचरणं किं वा धर्मस्य लक्षणम्।  
@@ -11025,8 +10295,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
   गार्हस्थ्यं खलु द्वितीयमाश्रमं वदन्ति॥१३॥ तस्य सम्यगाचारलक्षणं सर्वं व्याख्यास्यामः॥१४॥ समावृत्तानां
 
-
-
   सदाराणां सहधर्मचर्या फलार्थिनां गृहाश्रमो विधीयते॥१५॥ धर्मार्थकामावाप्त्यर्थं त्रिवर्गफलसाधनमपेक्ष्याविगर्हितेन कर्मणा धनान्यादाय स्वाध्याय प्रकर्षोपलब्धेन वा ब्रह्मर्षिनिर्मितेन वा अद्रिसागरगतेन वा हव्यनियमाभ्यासदैवतपूजासमाधिप्रसादविध्युपलब्धेन वा धनेन गृहस्थो गार्हस्थ्यं प्रवर्तयेत्॥१६॥ तद्धि सर्वाश्रमाणां मूलमुदाहरन्ति॥१७॥ गुरुकुलनिवासिनः परिव्राजका ये चान्ये सङ्कल्पितव्रतनियमधर्मानुष्ठायिनस्तेषामप्यत एव भिक्षाबलिसंविभागाः प्रवर्तन्ते॥१८॥
 
   वानप्रस्थानां च द्रव्योपस्कर इति प्रायशः खल्वेते साधवस्सुवृत्तविनयसम्पत्यार्थिनः[^386] स्वाध्यायप्रसङ्गिनस्तीर्थाभिगमनदेश दर्शनार्थं पृथिवीं पर्यटन्ति॥१९॥ तेषां प्रत्युत्थानाभिगमनानुनयवाक्प्रदानसौमुख्यशय्यासनशरणाभ्यवहारसत्क्रियाश्चेत इति भवति चात्र श्लोकः॥२१॥
@@ -11037,8 +10305,6 @@ The Presidency College,                     P. P. S. SASTRI,
 स तस्य दुष्कृतं दत्त्वा पुण्यमादाय गच्छति॥२२॥
 
   अपि चात्र यज्ञक्रियाभिर्देवताः प्रीयन्ते निवापेन पितरो वेदविद्याभ्यासश्रवणधारणेन ऋषयः अपत्योत्पादनेन प्रजापतिरिति॥२३॥
-
-
 
 श्लोकौ चात्र भवतः॥२४॥
 
@@ -11064,8 +10330,6 @@ The Presidency College,                     P. P. S. SASTRI,
 \[अस्मिन्नध्याये १३ श्लोकाः वाक्यानि १६\]  
 ![](../books_images/U-IMG-1702095619ववव.png)
 
-
-
 **॥अशीत्यधिकशततमोऽध्यायः॥**  
 
 ![](../books_images/U-IMG-1702111808ननन.png)
@@ -11083,8 +10347,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यश्चैतां नियतश्चर्यां ब्रह्मर्षिविहितां चरेत्।  
 स दहेदग्निवद्दोषाञ् जयेल्लोकांश्च दुर्जयान्॥५॥
 
-
-
   परिव्राजकानां पुनराचारं प्रवदामहे। धनकलत्रपरिबर्हसङ्गेष्वात्मनः स्नेहपाशानवधूय परिव्रजन्ति समलोष्टाश्मकाञ्चनास्त्रिवर्गप्रवृत्तेष्वारम्भेष्वसक्तबुद्धयोऽरिमित्रोदासीनेषु तुल्यदर्शनाःस्थावरजङ्गमानां जरायुजाण्डजस्वेदजोद्भिज्जानां वाङ्मनःकर्मभिरनभिद्रोहिणोऽनिकेतनाः पर्वतपुलिनवृक्षमूलदेवतायतनान्यनुचरन्तो संवासार्थमुपेयुर्नगरं ग्रामं वा नगरे पञ्चरात्रिका ग्रामे चैकरात्रिकाः प्रविश्य च प्राणधारणमात्रार्थंद्विजातीनां भवनान्यसङ्कीर्णकर्मणामुपतिष्ठेयुःपात्रपतितायाचितभैक्षकाः[^387]कामक्रोधदर्पलोभमोहकार्पण्यदम्भपरिवादाभिमानहिंसानिवृत्ता इति॥३॥
 
 [^387]: "ख—प्रावरणहीनाः[अधिकः पाठः]"
@@ -11101,8 +10363,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 मोक्षाश्रमं यः कुरुते यथोक्तं  
 शुचिस्सुसङ्कल्पितबुद्धियुक्तः।
-
-
 
 अनिन्धनं ज्योतिरिव प्रशान्तं  
 स ब्रह्मलोकं श्रयते द्विजातिः॥६॥
@@ -11133,8 +10393,6 @@ The Presidency College,                     P. P. S. SASTRI,
 सर्वकामैर्वृताः केचिद् हेमाभरणभूषिताः॥१३॥
 
 प्राणधारणमात्रं तु केषाञ्चिदुपलभ्यते।
-
-
 
 श्रमेण महता केचित् कुर्वन्ति प्राणधारणम्॥१४॥
 
@@ -11168,8 +10426,6 @@ The Presidency College,                     P. P. S. SASTRI,
 उत्तरः पृथिवीभागस् सर्वपुण्यतमश्शुभः।  
 इहत्यास्तत्र जायन्ते ये वै पुण्यकृतो जनाः॥२२॥
 
-
-
 असत्कर्माणि कुर्वांणास् तिर्यग्योनिषु भारत।  
 क्षीणायुषस्तथैवान्ये नश्यन्ति पृथिवीतले॥२३॥
 
@@ -11195,8 +10451,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि द्वात्रिंशोऽध्यायः॥३२॥  
 \[अस्मिन्नध्याये २८ श्लोकाः\]  
 ![](../books_images/U-IMG-1702113634ववव.png)
-
-
 
 **॥एकाशीत्यधिकशततमोऽध्यायः॥**  
 
@@ -11232,8 +10486,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 नार्द्रपाणिस्समुत्तिष्ठेन्नार्द्रपादस्स्वपेन्निशि।
 
-
-
 देवर्षिर्नारदः प्राह एतदाचारलक्षणम्॥९॥
 
 शोचिष्केशमनड्वाहं देवगोष्ठं[^392] चतुष्पथम्।  
@@ -11268,8 +10520,6 @@ The Presidency College,                     P. P. S. SASTRI,
 गुरूणामासनं देयं कर्तव्यं चाभिवादनम्।  
 गुरूनभ्यर्च्य युज्येत आयुषा यशसा श्रिया॥१५॥
 
-
-
 नेक्षेतादित्यमुद्यन्तं न च नग्नां परस्त्रियम्।  
 मैथुनं समये धर्म्यं गुह्यं चैव समाचरेत्॥१६॥
 
@@ -11302,8 +10552,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^398]: "ख—ज्येष्ठानां"
 
-
-
 अवराणां समानानाम् उभयं नैव दुष्यति॥२४॥
 
 हृदयं पापवृत्तानां पापमाख्याति वैकृतम्।  
@@ -11328,8 +10576,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एक एव चरेद्धर्मं नास्ति धर्मे सहायता।  
 केवलं विधिमासाद्य सहायः किं करिष्यति॥३१॥
-
-
 
 देवा योनिर्मनुष्याणां देवानाममृतं दिवि।  
 प्रेत्यभावे सुखं धर्माच् छाश्वतैरुपभुज्यते॥३२॥
@@ -11364,8 +10610,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यज्ज्ञात्वा पुरुषो लोके प्रीतिं सौख्यं च विन्दति।
 
-
-
 फललाभश्च सद्यस्स्यात् सर्वभूतहितं च तत्॥४॥
 
 पृथिवी वायुराकाशम् आपो ज्योतिश्च पञ्चमम्।  
@@ -11398,8 +10642,6 @@ The Presidency College,                     P. P. S. SASTRI,
 प्रलीयते चोद्भवति तस्मान्निर्दिश्यते तथा।  
 एवं बुद्ध्या परां बुद्ध्वाभूतानामागतिं गतिम्॥१२॥
 
-
-
 समवेक्ष्य शनैस्सम्यक् लभते शममुत्तमम्।  
 महाभूतानि पञ्चैव षष्ठं तु मन उच्यते॥१३॥
 
@@ -11429,8 +10671,6 @@ The Presidency College,                     P. P. S. SASTRI,
 समवेक्ष्य शनैश्चैव लभते शममुत्तमम्॥२०॥
 
 गुणान्न नीयते बुद्धिर् बुद्धिरेवेन्द्रियाण्यपि।
-
-
 
 मनष्षष्ठानि सर्वाणि बुद्ध्यभावे कुतो गुणाः॥२१॥
 
@@ -11465,8 +10705,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 प्रवर्तमानं तु रजस् तद्भावमनुवर्तते॥२९
 
-
-
 दूरगं[^84] बहुधा गामि प्रार्थना संशयात्मकम्।  
 मनस्सुनियतं यस्य स सुखी प्रेत्य चेह् च॥३०॥
 
@@ -11495,8 +10733,6 @@ The Presidency College,                     P. P. S. SASTRI,
 प्रवृत्तं रज इत्येव तन्न संरभ्य चिन्तयेत्॥३६॥
 
 अथ यन्मोहसंयुक्तम् अव्यक्तविषयं भवेत्।
-
-
 
 अप्रतर्क्यमविज्ञेयं तमस्तदुपधारयेत्॥३७॥
 
@@ -11530,8 +10766,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 इन्द्रियैस्तु प्रदीपार्थं कुरुते बुद्धिसत्तमैः।
 
-
-
 निर्विचेष्टैरजानद्भिः परमात्मा प्रदीपवत्॥४६॥
 
 सृजते हि गुणान् सत्त्वं क्षेत्रज्ञः परिपश्यति।  
@@ -11561,8 +10795,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एवमेके व्यवस्यन्ति निवृत्तिमिति चापरे।  
 उभयं सम्प्रधार्यैतद् अध्यवस्येद् यथामति॥५५॥
 
-
-
 इतीमं हृदयग्रन्थिं बुद्धिभेदमयं दृढम्।  
 विमुच्य सुखमासीत न शोचेच्छिन्नसंशयः॥५६॥
 
@@ -11591,8 +10823,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न भवति विदुषां ततो भयं  
 यदविदुषां सुमहद्भयंभवेत्।
 
-
-
 न हि गतिरधिकाऽस्ति कस्यचित्  
 सति हि गुणे प्रवदन्ति तुल्यताम्॥६४॥
 
@@ -11611,8 +10841,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि चतुस्त्रिंशोऽध्यायः॥३४॥  
 \[अस्मिन्नध्याये ६६ श्लोकाः\]  
 ![](../books_images/U-IMG-1702122041ववव.png)
-
-
 
 **॥त्र्यशीत्यधिकशततमोऽध्यायः॥**  
 
@@ -11650,8 +10878,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^415]: "ग—जह्याञ्चध्यानयोगवित्"
 
-
-
 पञ्चवर्गप्रमाथीनि नेच्छेच्चैतानि वीर्यवान्॥७॥
 
 ततो मनसि संसृज्य पञ्चवर्गं विचक्षणः।  
@@ -11681,9 +10907,6 @@ The Presidency College,                     P. P. S. SASTRI,
 मनसा क्लिश्यमानस्तु तत्समाधानकाम्यया।  
 न निर्वेदं मुनिर्गच्छेद् कुर्यादेवात्मनो हितम्॥१६॥  
 
-
-
-
 पांसुभस्मकरीषाणां यथा वै राशयश्चिताः।  
 सहसा वारिणा सिक्ता न यान्ति परिभावनाम्॥१७॥
 
@@ -11707,8 +10930,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि पञ्चविंशोऽध्यायः॥३५॥  
 \[अस्मिन्नध्याये २२ श्लोकाः\]  
 ![](../books_images/U-IMG-1702123075ववव.png)
-
-
 
 **॥चतुरशीत्यधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1702123507ललल.png)
@@ -11748,8 +10969,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम्।  
 यमस्य च पुरा वृत्तं कालस्य ब्राह्मणस्य च॥६॥
 
-
-
 संन्यास[^417] एव वेदान्ते वर्तते जपनं प्रति।  
 वेदादेवाभिनिर्वृत्ता शान्तिर्ब्रह्मण्यवस्थिताः॥७॥
 
@@ -11780,8 +10999,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तद्ब्रह्म ध्यायते यो हि जपन् वै संहितां हिताम्।  
 अथ वा संन्यस्यति तां समाधौ पर्यवस्थितः॥१४॥
 
-
-
 ध्यानमुत्पादयत्यत्र संहिताबलसंश्रयात्।  
 शुद्धात्मा तपसा दान्तो निवृत्ताशेषकामवान्[^418]॥१६॥
 
@@ -11810,8 +11027,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि षट्रत्रिंशोऽध्यायः॥३६॥  
 \[अस्मिन्नध्याये २२ श्लोकाः\]  
 ![](../books_images/U-IMG-1702126894ववव.png)
-
-
 
 **॥पञ्चाशीत्यधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1702127170ननन.png)
@@ -11848,8 +11063,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अथैश्वर्यप्रवृत्तस्सञ् जापको यत्र रज्यते।
 
-
-
 स एव निरयस्तस्य नासौ तस्मात् प्रमुच्यते॥७॥
 
 रागेण जापको जप्यं कुरुते यस्तु मोहितः।  
@@ -11879,8 +11092,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि सप्तत्रिंशोऽध्यायः॥३७॥  
 \[अस्मिन्नध्याये १३ श्लोकाः\]  
 ![](../books_images/U-IMG-1702127614ववव.png)
-
-
 
 **॥षडशीत्यधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1702127802ललल.png)
@@ -11914,8 +11125,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अभयं चानिमित्तं च न च क्लेशभयावृतम्।  
 द्वाभ्यां मुक्तं त्रिभिर्मुक्तम् अष्टाभिस्त्रिभिरेव च॥७॥
 
-
-
 चतुर्लक्षणवर्जंतच् चतुष्कारणवर्जितम्।  
 अप्रहर्षमनाद्यन्तम् अशोकं विगतक्लमम्॥८॥
 
@@ -11944,8 +11153,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 कालमृत्युयमानां ते ब्राह्मणस्य च सत्तम।  
 विवादो व्याहृतः पूर्वं तद्भवान् वक्तुमर्हति॥१॥
-
-
 
 भीष्मः—
 
@@ -11976,8 +11183,6 @@ The Presidency College,                     P. P. S. SASTRI,
 जापकः—
 
 दिष्ट्या देवि प्रसन्ना त्वं दर्शनं चागताऽसि मे।
-
-
 
 यदि वाऽपि प्रसन्नाऽसि जप्ये मे रमतां मतिः॥१०॥
 
@@ -12014,8 +11219,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^376]: "अ–क—अर्धत्रयं नास्ति"
 
-
-
 ब्राह्मणोऽपि जपन्नास्ते दिव्यं वर्षशतं तथा॥१७॥
 
 समाप्ते नियमे तस्मिंस्तथा विप्रस्य धीमतः।  
@@ -12048,8 +11251,6 @@ The Presidency College,                     P. P. S. SASTRI,
 गच्छ धर्म न मे श्रद्धा स्वर्गंयातुं[^422] विनाऽऽत्मना॥२४॥
 
 [^422]: "अ–ग—गन्तुं"
-
-
 
 धर्मः—
 
@@ -12087,8 +11288,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 मृत्युं मां विद्धि धर्मज्ञ रूपिणं स्वयमागतम्।
 
-
-
 कालेन चोदितं विप्र त्वामितो नेतुमद्य वै॥३१॥
 
 ब्राह्मणः—
@@ -12120,8 +11319,6 @@ The Presidency College,                     P. P. S. SASTRI,
 कुशलप्रश्नमकरोत् सर्वेषां राजसत्तमः॥३७॥
 
 तस्मै सोऽथासनं दत्त्वा पाद्यमर्ध्यं तथैव च।
-
-
 
 अब्रवीद्ब्राह्मणो[^425] वाक्यं कृत्वा कुशलसंविदम्॥
 
@@ -12161,8 +11358,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अतुष्टस्त्वं स्वधर्मेण तथा तुष्टा वयं नृप।  
 अन्योन्यस्योत्तरं नास्ति यदिष्टं तत् समाचर॥४४॥
 
-
-
 राजा—
 
 स्वशक्त्याऽहं ददानीति त्वया पूर्वप्रभाषितम्।  
@@ -12195,8 +11390,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अथ वा सर्वमेवेह मामकं जापकं फलम्।  
 राजन् प्राप्नुहि कामं त्वं यदि सर्वमिहेच्छसि॥५२॥
-
-
 
 **राजा—**
 
@@ -12234,8 +11427,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अथैवं वदतो मेऽद्य वचनं न करिष्यसि।
 
-
-
 महानधर्मो भविता तव राजन् मृषा कृतः॥५९॥
 
 न युक्ता तु मृषा वाणी त्वया वक्तुमरिन्दम।  
@@ -12268,8 +11459,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सत्यं वेदास्तथाङ्गानि सत्यं यज्ञास्तथा विधिः।
 
-
-
 व्रतचर्या तथा सत्यम् ओङ्कारस्सत्यमेव च॥६८॥
 
 प्राणिनां जननं सत्यं सत्यं सन्ततिरेव च।  
@@ -12300,9 +11489,6 @@ The Presidency College,                     P. P. S. SASTRI,
 राजा—
 
 योद्धव्यं रक्षितव्यं च क्षत्रधर्मः किल द्विज।  
-
-
-
 
 दातारः क्षत्रियाः प्रोक्ता गृह्णीयां भवतः कथम्॥७६॥
 
@@ -12338,8 +11524,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तपस्स्वाध्यायकुशलो विरतश्च प्रतिग्रहात्॥८३॥
 
-
-
 राजा—
 
 यदि विप्र निसृष्टं ते जप्यस्य कुलमुत्तमम्।  
@@ -12369,8 +11553,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 धारयामि नरव्याघ्र विकृतस्येह गोः फलम्।  
 ददतश्च न गृह्णाति विकृतो मे महीपते॥९१॥
-
-
 
 विकृतः—
 
@@ -12403,8 +11585,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एवं स्यात् पुरुषव्याघ्र कश्शुद्धः कोऽत्र दोषवान्॥९९॥
 
 एवं विवदमानौ तु त्वामिहाभ्यागतौ नृप।
-
-
 
 कुरु धर्ममधर्मं वा विनये नौ समादध॥१००॥
 
@@ -12441,8 +11621,6 @@ The Presidency College,                     P. P. S. SASTRI,
 स्वयं मया याचितेन दत्तं कथमिवाद्य तत्।  
 गृह्णीयां गच्छतु भवान् अभ्यनुज्ञां ददामि ते॥१०७॥
 
-
-
 ब्राह्मणः—
 
 श्रुतमेतत् त्वया राजन् अनयोः कथितं द्वयोः।  
@@ -12478,8 +11656,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एष पाणिरपूर्वं भो निक्षेपार्थं प्रसारितः।
 
-
-
 यन्मे धारयसे विप्र तदिदानीं प्रदीयताम्॥११५॥
 
 ब्राह्मणः—
@@ -12491,8 +11667,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 जलमेतन्निपतितं मम पाणौ द्विजोत्तम।  
 सममस्तु सहैवास्तु प्रतिगृह्णातु मे भवान्॥११७॥
-
-
 
 विरूपः—
 
@@ -12516,8 +11690,6 @@ The Presidency College,                     P. P. S. SASTRI,
 गतिस्स्थानं च लोकाश्च जापकेन यथाऽऽर्जिताः॥१२१॥
 
 प्रयाति संहिताध्यायी ब्रह्माणं परमेष्ठिनम्।
-
-
 
 अथ वाऽग्निंसमाधाय सूर्यमाविशतेऽपि वा॥१२२॥
 
@@ -12544,8 +11716,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अथ वोपेक्षते लोकान् सर्वान् निरयसंज्ञितान्।  
 निस्पृहस्सर्वतो मुक्तस् तत्रैव रमते सुखम्॥१३०॥
-
-
 
 एवमेषा महाभाग जापकस्य गतिर्यथा।  
 तत्तत् सर्वं समाख्यातं किं भूयश्श्रोतुमिच्छसि॥१३१॥
@@ -12578,8 +11748,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 पूर्वं ये चापरे तत्र समेता ब्राह्मणर्षभाः।  
 सर्वान् सम्पूज्य शिरसा राजानं सोऽब्रवीद्द्विजः॥४॥
-
-
 
 **ब्राह्मणः—**
 
@@ -12616,8 +11784,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^440]: "ख–घ—इदमर्धं नास्ति"
 
-
-
 गन्धर्वश्चित्रसेनश्च परिवारगणैर्युतः॥१२॥
 
 नागास्सिद्धाश्च मुनयो देवदेवः प्रजापतिः।  
@@ -12652,8 +11818,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तालुदेशमथोद्दाल्य ब्राह्मणस्य महात्मनः।
 
-
-
 ज्योतिर्ज्वाला सुमहती जगाम त्रिदिवं तदा॥२०॥
 
 हाहाकारस्तथा दिक्षु सर्वासु सुमहानभूत्।  
@@ -12684,8 +11848,6 @@ The Presidency College,                     P. P. S. SASTRI,
 योगजापकयोस्तुल्यं फलं सुमहदद्य वै।  
 सर्वांल्लोकानतीत्यैतौ गच्छेतां यत्र वाञ्छितम्॥२९॥
 
-
-
 ब्रह्मा—
 
 महास्मृतिं पठेद्यस्तु तथैवैतां स्मृतिं शुभाम्।  
@@ -12714,8 +11876,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि चत्वारिंशोऽध्यायः॥४०॥  
 \[अस्मिन्नध्याये ३४॥ श्लोकाः\]  
 ![](../books_images/U-IMG-17023532941.png)
-
-
 
 **॥एकोननवत्यधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-17023536601.png)
@@ -12746,8 +11906,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यन्मन्त्रशब्दैरकृतप्रकाशं  
 तदुच्यतां मे भगवन् यथावत्॥४॥
 
-
-
 यत् स्तोत्रशस्ताग्रहमन्त्रविद्भिर्  
 यज्ञैरनेकैर्धनगोप्रदानैः।  
 फलं महद्भिर्यदवाप्यते च  
@@ -12770,8 +11928,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 स मे भवाञ् शंसतु सर्वमेतज्  
 ज्ञाने फलं कर्मणि वा यदेति।
-
-
 
 यथा च देहाश्चयवते शरीरी  
 पुनश्शरीरं च यथाऽभ्युपैति॥९॥
@@ -12799,8 +11955,6 @@ The Presidency College,                     P. P. S. SASTRI,
 दृष्ट्वा कर्माशाश्वतं चान्तवच्च  
 मनस्त्यागे कारणं नान्यदस्ति।
 
-
-
 स्वेनात्मना चक्षुरिव प्रणेता  
 निशात्यये तमसा संवृतात्मा॥१३॥
 
@@ -12827,8 +11981,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शब्दाश्च रूपाणि रसाश्च पुण्यास्  
 स्पर्शाश्च गन्धाश्च शुभास्तथैव।
 
-
-
 नरो रहस्स्थानगतः प्रभुरस्याद्  
 एतत् फलं सिद्ध्यति कर्मणोऽस्य॥१८॥
 
@@ -12853,8 +12005,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तथा कृतं पूर्वमुपैति कर्म।  
 शुभे त्वसौ तुष्यति दुष्कृते तु  
 न तुष्यते वै परमश्शरीरी॥२२॥
-
-
 
 यतो जगत् सर्वमिदं प्रसूतं  
 ज्ञात्वाऽऽत्मवन्तोऽप्युपयान्ति शान्तिम्।  
@@ -12881,8 +12031,6 @@ The Presidency College,                     P. P. S. SASTRI,
 खाद्वै निवर्तन्ति न भाविनस्ते  
 ये भाविनस्ते परमाप्नुवन्ति॥२७॥
 
-
-
 नोष्णं न शीतं मृदु नापि तीक्ष्णं  
 नाम्लं कषायं मधुरं न तिक्तम्।  
 न शब्दवन्नापि च गन्धवच्च  
@@ -12905,8 +12053,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यच्चापि पूर्वापरसाधकं च  
 यन्मन्त्रमर्चिष्यति सर्वलोकः।
-
-
 
 यस्सर्वहेतुः परमार्थकारी  
 तत् कारणं कार्यमतो यदन्यत्॥३२॥
@@ -12931,8 +12077,6 @@ The Presidency College,                     P. P. S. SASTRI,
 गच्छन्ति चायान्ति च सन्ततास्तु  
 तद्वच्छरीराणि शरीरिणां तु॥३६॥
 
-
-
 यथा च कश्चित् परशुं गृहीत्वा  
 धूमं न पश्येज्ज्वलनं च काष्ठे।  
 तद्वच्छरीरोदरपाणिपादं  
@@ -12955,8 +12099,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 न चक्षुषा पश्यति चक्षुरात्मनो  
 न चापि संस्पर्शमुपैति किञ्चित्।
-
-
 
 तथाऽपि[^84] तैस्साधयते च कार्यं  
 ते तं न पश्यन्ति स पश्यते तान्॥४१॥
@@ -12983,8 +12125,6 @@ The Presidency College,                     P. P. S. SASTRI,
 जलाश्रयं ज्ञानमुक्तं रसश्च  
 वाय्वात्मकं स्पर्शनमामनन्ति॥४५॥
 
-
-
 महत्सु भूतेषु वसन्ति पञ्च  
 पञ्चेन्द्रियार्थाश्च रथेन्द्रियेषु।  
 सर्वाणि चैतानि मनोनुगानि  
@@ -13009,8 +12149,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^448]: "अ–क–ख—सद्बुद्धि; घ—तद्बुद्धि"
 
-
-
 यथेन्द्रियार्थान् युगपत् समन्ता-  
 न्नावेक्षते कृत्स्त्नशस्तुल्यकालम्।  
 यथाक्रमं सञ्चरते स विद्वांस्  
@@ -13034,8 +12172,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तद्वद्भूतेषु भूतात्मा सूक्ष्मो ज्ञानात्मवानसौ।  
 अदृष्टपूर्वश्चक्षुर्भ्यां न चासौ नास्ति तावता॥५५॥
-
-
 
 पश्यन्नपि यथा लक्ष्म जनस्सोमेन[^449] विन्दति।  
 एवमस्ति न चेत्तन्न न च तन्न परायणम्॥५६॥
@@ -13065,8 +12201,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 क्षीणकोशो ह्यमावास्यां चन्द्रमा न प्रकाशते।  
 तद्वन्मूर्तिवियुक्तस्सञ् शरीरी नोपलभ्यते॥६४॥
-
-
 
 यथा[^158] कोशान्तरं प्राप्य चन्द्रमा भ्राजते पुनः।  
 तद्वलिङ्गान्तरं प्राप्य शरीरी राजते पुनः॥६५॥
@@ -13098,8 +12232,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यथा व्यक्तमिदं शेते स्वप्ने चरति चेतरत्।  
 ज्ञानमिन्द्रियसंयुक्तं तद्वत् प्रेत्य भवाभवौ॥७२॥
 
-
-
 यथाऽम्भसि प्रसन्ने तु रूपं पश्यति चक्षुषा।  
 तद्वत् प्रसन्नेन्द्रियवाञ् ज्ञेयं ज्ञानेन पश्यति॥७३॥
 
@@ -13129,8 +12261,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^453]: "ख—सूक्ष्मात् परं परम्"
 
-
-
 अव्यक्तात् प्रसृतं ज्ञानं ततो बुद्धिस्ततो मनः।  
 मनश्श्रोत्रादिभिर्युक्तं शब्दादीन् साधु पश्यति॥८२॥
 
@@ -13157,8 +12287,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अव्यक्तात् प्रसृतं ज्ञानं ततो बुद्धिस्ततो मनः।  
 मनस्याकृतयो मग्ना मनस्त्वतिगतं मतिम्॥९०॥
-
-
 
 मतिस्त्वतिगतं ज्ञानं ज्ञानं त्वतिगतं महत्।  
 नेन्द्रियैर्मनसस्सिद्धिर् न बुद्धिं बुध्यते मनः॥९१॥
@@ -13190,8 +12318,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यदा महान्ति भूतानि निवर्तन्ते गुणक्षये।  
 तदेन्द्रियाण्युपादाय बुद्धिर्मनसि वर्तते॥९८॥
 
-
-
 यदा मनसि सा बुद्धिर् वर्ततेऽन्तरचारिणी।  
 व्यवसायगुणोपेता तदा सम्पद्यते मनः॥९९॥
 
@@ -13221,8 +12347,6 @@ The Presidency College,                     P. P. S. SASTRI,
 पुरुषप्रकृतिर्बुद्धिर् विशेषाश्चेन्द्रियाणि च।  
 अहङ्कारोऽभिमानश्च सम्भूतो भूतसंज्ञकः॥१०७॥
 
-
-
 एतस्याद्या प्रवृत्तिस्तु प्रधानात् सम्प्रवर्तते।  
 द्वितीया मिथुनव्यक्तिम् अविशेषान्निगच्छति॥१०८॥
 
@@ -13250,8 +12374,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ज्ञानपूर्वोद्भवा लिप्सा लिप्सा पूर्वाभिसन्धिता।  
 अभिसन्धिपूर्वकं कर्म कर्मपूर्वं ततः फलम्॥११५॥
-
-
 
 फलं धर्मात्मकं विद्यात् कर्म ज्ञेयात्मकं तथा।  
 ज्ञेयं ज्ञानात्मकं विद्याज् ज्ञानं सदसदात्मकम्॥११६॥
@@ -13281,8 +12403,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 गुणैस्तत्स्थैःप्रकाशन्ते निर्गुणत्वात् ततः परम्।  
 निवृत्तिलक्षणो धर्मस् तथाऽऽनन्त्याय कल्पते॥१२४॥
-
-
 
 ऋचो यजूंषि सामानि शरीराणि व्यपाश्रिताः।  
 जिह्वाग्रेषु प्रवर्तन्ते यत्नसाध्याविनाशिनः॥१२५॥
@@ -13314,8 +12434,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सूक्ष्मेण मनसा विद्मोवाचा वक्तुं न शक्नुमः।
 
-
-
 मनो हि मनसा ग्राह्यं दर्शनेन च दर्शनम्॥१३३॥
 
 ज्ञानेन निर्मलीकृत्य बुद्धिं बुद्ध्या तथा मनः।  
@@ -13341,8 +12459,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न सामर्थ्याद्गच्छति कर्मणेह  
 हीनस्तेन परमेणाव्ययेन॥१३८॥
 
-
-
 पृथ्व्या नरः पश्यति नान्तमस्या  
 ह्यन्तश्चास्या भविता चेति विद्धि।  
 परं न यातीह विलोभ्यमानो  
@@ -13365,8 +12481,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि एकचत्वारिंशोऽध्यायः॥४१॥  
 \[अस्मिन्नध्याये १४१॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1702869002ववव.png)
-
-
 
 **॥नवत्यधिकशततमोऽध्यायः॥ \*[^463]++**  
 
@@ -13403,8 +12517,6 @@ The Presidency College,                     P. P. S. SASTRI,
 पैतृकं मे महन्मातस् सर्वदुःखालयं त्विह।  
 अस्येतत्तद्विघाताय यतिष्ये तत्र मा शुचः॥५॥
 
-
-
 इदं शरीरमत्युग्रं पित्रा दत्तमसंशयम्।  
 तमेव पितरं गत्वा धनं तिष्ठति शाश्वतम्॥६॥
 
@@ -13433,8 +12545,6 @@ The Presidency College,                     P. P. S. SASTRI,
 वृक्षं बहुविधं व्योमं वल्लीपुष्पसमाकुलम्॥१४॥
 
 नानारूपा मधुकरास् तस्मिन् वृक्षेऽभवन् किल।
-
-
 
 तेषां मधूनां बहुधा धारा प्रववृते तदा॥१५॥
 
@@ -13469,8 +12579,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 उपाख्यानमिदं सर्वं मोक्षविद्भिरुदाहृतम्।
 
-
-
 सुमतिं विन्दते येन बन्धनाशश्च भारत॥२४॥
 
 एतदुक्तं हि कान्तारं महान् संसार एव सः।  
@@ -13501,8 +12609,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एकःकर्ता स कृष्णश्च ज्ञानिनां परमा गतिः॥३३॥
 
-
-
 इदमाश्रित्य देवेन्द्रो देवा रुद्रास्तथाऽश्विनौ।  
 स्वे स्वे पदे विविशिरे भुक्तिमुक्तिविदो जनाः॥३४॥
 
@@ -13531,8 +12637,6 @@ The Presidency College,                     P. P. S. SASTRI,
 रत्नबिन्दुचिताङ्गस्तु सर्वाभरणभूषितः॥४२॥
 
 आदित्यसदृशाकारश्शिरसा धारयन् मणिम्।
-
-
 
 पुनरेव तदाकारसदृशस्समजायत॥४३॥
 
@@ -13569,8 +12673,6 @@ The Presidency College,                     P. P. S. SASTRI,
 वेदाश्च बिन्दुसंयुक्ता यज्ञस्य फलसंश्रिताः।  
 यत्तद्दृष्टंमहज्ज्योतिर् ज्योतिरित्युच्यते बुधैः॥५०॥
 
-
-
 भीष्मः—
 
 ऋषे ज्ञेयं मया चाडपीत्युक्त्वा चान्तरधीयत॥५१॥
@@ -13600,8 +12702,6 @@ The Presidency College,                     P. P. S. SASTRI,
 देवैरिन्द्रपुरोगैश्च ऋषिसङ्घैरभिष्टुतम्॥५९॥
 
 नारदो जयशब्देन ववन्दे शिरसा हरिम्॥५९॥
-
-
 
 ततस्स भगवाञ् श्रीमान् मेघगम्भीरया गिरा।  
 प्राहेशस्सर्वभूतानां नारदं पतितं क्षितौ॥६०॥
@@ -13640,8 +12740,6 @@ The Presidency College,                     P. P. S. SASTRI,
 इत्युक्त्वा स जगामाथ भगवान् भूतभावनः।  
 तस्माद्व्रज हृषीकेशं कृष्णं देवकिनन्दनम्॥६७॥
 
-
-
 एतमाराध्य गोविन्दं गता मुक्तिं महर्षयः।  
 एष कर्ता विकर्ता च सर्वकारणकारणम्॥६८॥
 
@@ -13670,8 +12768,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 पितामह महाप्राज्ञ पुण्डरीकाक्षमच्युतम्।  
 कर्तारमकृतं विष्णुं भूतानां प्रभवाप्ययम्॥१॥
-
-
 
 नारायणं हृषीकेशं गोविन्दमपराजितम्।  
 तत्त्वेन भरतश्रेष्ठ श्रोतुमिच्छामि केशवम्॥२॥
@@ -13702,8 +12798,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अप्स्वेव शयनं चक्रे महात्मा पुरुषोत्तमः॥९॥
 
 सर्वतेजोमयस्तस्मिञ् शयानश्शयने शुभे।
-
-
 
 सोऽग्रजं सर्वभूतानां सङ्कर्षणमचिन्तयत्॥१०॥
 
@@ -13738,8 +12832,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ब्रह्मा तु ससृजे पुत्रान् मानसान् दक्षसप्तमान्।
 
-
-
 मरीचिमत्र्यङ्गिरसौ पुलस्त्यं पुलहं क्रतुम्॥१८॥
 
 मरीचिः काश्यपं तात पुत्रमग्रजमग्रजः।  
@@ -13772,8 +12864,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 आदित्यानदितिर्जज्ञे देवश्रेष्ठान् महाबलान्।
 
-
-
 तेषां विष्णुर्वामनोऽभूद[^470]्गोविन्दश्चाभवत् प्रभुः॥२७॥
 
 [^470]: "ख—ऽभूदजघन्यो जघन्यजः"
@@ -13803,8 +12893,6 @@ The Presidency College,                     P. P. S. SASTRI,
 भूतमातृगणाध्यक्षं विरूपाक्षं च सोऽसृजत्॥३५॥
 
 [^471]: " ख—अर्धषट्कं नास्ति"
-
-
 
 अध्यक्षं पुण्यपापानां पितॄणां समवर्तिनम्।  
 असृजत् सर्वभूतात्मा निधीशं च धनेश्वरम्॥३६॥
@@ -13838,8 +12926,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ये तु काम्भोजगान्धाराःकिराता बर्बरैस्सह।
 
-
-
 एते पापरतास्तात चरन्ति पृथिवीमिमाम्॥४५॥
 
 बकश्वकाकगृध्राणां सधर्माणो नराधिप।  
@@ -13864,8 +12950,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि त्रिचत्वारिंशोऽध्यायः॥४३॥  
 \[अस्मिन्नध्याये ५०॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1702902713ववव.png)
-
-
 
 **॥द्विनवत्यधिकशततमोऽध्यायः॥**  
 
@@ -13897,8 +12981,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अत्रिवंशसमुत्पन्नो ब्रह्मयोनिस्सनातनः।  
 प्राचीनबर्हिर्भगवांस् तस्मात् प्राचेतसो दश॥६॥
 
-
-
 दशानां तनयस्त्वेको दक्षो नाम प्रजापतिः।  
 तस्य[^475] द्वे नामनी लोके दक्षः क इति चोच्यते॥७॥
 
@@ -13928,8 +13010,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 शशबिन्दुस्तु राजर्षिर् महायोगी महामनाः।  
 अध्यात्मवित् सहस्राणां भार्याणां दशमध्यगः॥१४॥
-
-
 
 स योगी योगमापन्नस् ततस्सायुज्यतां गतः॥१५॥
 
@@ -13966,8 +13046,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 शीलयौवनिनस्त्वन्ये तथाऽन्ये सिद्धसाध्ययोः।
 
-
-
 ऋभवो मरुतश्चैव देवानां चोदितो गणः॥२३॥
 
 एवमेते समाम्नाता विश्वेदेवास्तथाऽश्विनौ।  
@@ -14003,8 +13081,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^484]: "ख–घ—धौम्यः"
 
-
-
 एकतश्च द्वितश्चैव त्रितश्चैव महर्षयः॥३२॥
 
 अत्रेः पुत्रश्च दुर्वासास्[^485] तथा सारस्वतः प्रभुः।  
@@ -14034,8 +13110,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि चतुश्चत्वारिंशोऽध्यायः॥४४॥  
 \[अस्मिन्नध्याये ३८ लोकाः\]  
 ![](../books_images/U-IMG-1702905709ववव.png)
-
-
 
 ॥त्रिनवत्यधिकशततमोऽध्यायः॥  
 
@@ -14068,8 +13142,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 कथैषा कथिता तत्र काश्यपेन महर्षिणा।  
 मनःप्रह्लादिनीं दिव्यां तामिहैकमनाश्शृणु॥६॥
-
-
 
 काश्यपः—
 
@@ -14108,8 +13180,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ते वरेणाभिसम्मत्ता बलेन च मदेन च।
 
-
-
 न च वेत्स्यन्ति सम्मूढा विष्णुमव्यक्तदर्शनम्॥१४॥
 
 वराहरूपिणं देवम् अधृष्यममरैरपि॥१४॥
@@ -14140,8 +13210,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 विननाद महानादं क्षोभयन् दैत्यदानवान्।  
 सन्नादिता येन लोकास् सर्वाश्चैव दिशो दश॥२३॥
-
-
 
 तेन सन्नादशब्देन लेभिरे[^490] क्षोभमात्मनः।  
 सम्भ्रान्ताश्चाभवन् सर्वे देवाश्शक्रपुरोगमाः॥२४॥
@@ -14175,8 +13243,6 @@ The Presidency College,                     P. P. S. SASTRI,
 देवाश्च[^213] दानवाश्चैव मोहितास्तस्य तेजसा॥३०॥
 
 [^213]: "ख—नास्तीदमर्धम्"
-
-
 
 एतस्मिन्नन्तरे विष्णुर वाराहं रूपमास्थितः।  
 उदतिष्ठत्तदा देवस् स्तूयमानो महर्षिभिः॥३१॥
@@ -14216,8 +13282,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि पञ्चचत्वारिंशोऽध्यायः॥४५॥  
 \[अस्मिन्नध्याये ३७॥ श्लोकाः\]
 
-
-
 **॥चतुर्नवत्यधिकशततमोऽध्यायः॥[^499]**
 
 [^499]: "कृष्णाचार्यमुद्रितकोशस्थ–ध–कोश पाठानुसारेणायमभ्यायो मुद्रितः"
@@ -14253,8 +13317,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अशरीरिणी वाक्—
 
 किमर्थंत्वं समापन्नो ध्यानं मुनिवरोत्तम।
-
-
 
 अहं ददामि ते ज्ञानं धर्माद्यं वा वृणीष्व माम्॥७॥
 
@@ -14294,8 +13356,6 @@ The Presidency College,                     P. P. S. SASTRI,
 कीदृग्विधं तु तज्ज्ञानं येन जानामि ते तनुम्।  
 अनन्त तन्मे ब्रूहि त्वं यद्यनुग्रहवानहम्॥१३॥
 
-
-
 लोकपालः—
 
 विकल्पहीनं विपुलं तस्य चूरं शिवं परम्।  
@@ -14331,8 +13391,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 आत्मा यथा तव मुने विदितस्तु भविष्यति।
 
-
-
 मां च जानासि तेन त्वम् एकं साधनमावयोः॥२१॥
 
 इत्युक्त्वा भगवान देवस् ततो नोवाच किञ्चन।  
@@ -14364,8 +13422,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 नाहं हि बृहती विप्र न चानन्ता च सत्तम।  
 कारणं मम यो गन्धो गन्धात्मानं ब्रवीहि तम्॥२९॥
-
-
 
 **भीष्मः—**
 
@@ -14409,8 +13465,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ततो रसात्मकस्सो नु मुनिमाह पुनः पुनः॥३५॥
 
-
-
 **रसात्मकः—**
 
 ममापि कारणं पृच्छ तेजोरूपं विभावसुम्।  
@@ -14449,8 +13503,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 उत्स्मयित्वा तु रूपात्मा तं मुनिं प्रत्युवाच ह ॥४२॥
 
-
-
 **रूपात्मा—**
 
 वायुर्मे कारणं ब्रह्मंस् तं पृच्छ मुनिसत्तम।  
@@ -14487,8 +13539,6 @@ The Presidency College,                     P. P. S. SASTRI,
 **भीष्मः—**
 
 तस्य तद्वचनं श्रुत्वा स्पर्शात्मा मुनिमब्रवीत्॥४९॥
-
-
 
 स्पर्शात्मा—
 
@@ -14527,8 +13577,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 आश्चर्योऽसि च धन्योऽसि ह्यनन्तोऽसि बृहत्तरः।
 
-
-
 भवन्तं श्रोतुमिच्छामि कीदृग्भूतस्त्वमव्यय॥५६॥
 
 भीष्मः—
@@ -14562,8 +13610,6 @@ The Presidency College,                     P. P. S. SASTRI,
 आश्चर्योऽसि च धन्योऽसि ह्यनन्तोऽसि बृहत्तरः।  
 भवन्तं वेत्तुमिच्छामि कीदृग्भूतस्त्वमव्यय॥६४॥
 
-
-
 **भीष्मः—**
 
 तच्छ्रुत्वा भगवान् ब्रह्मा सर्वलोकपितामहः।  
@@ -14596,8 +13642,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 प्रणिपत्याब्रवीदेनं नारदो भगवान् मुनिः॥७२॥
 
-
-
 **नारदः—**
 
 आश्चर्योऽसि च धन्योऽसि ह्यनन्तश्च बृहत्तरः।  
@@ -14629,8 +13673,6 @@ The Presidency College,                     P. P. S. SASTRI,
 **भीष्मः—**
 
 एवमुक्त्वा ययौ कृष्णो नन्दगोपगृहं हरिः।
-
-
 
 एतत् ते कथितं राजन् विष्णुतत्त्वमनुत्तमम्।८१॥  
 भजस्वैनं विशालाक्षं जपन् कृष्णेति सत्तम॥८१॥
@@ -14667,8 +13709,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^502]: "ग—त्वद्युक्तश्च"
 
-
-
 शृणुष्वावहितो राजन्, नारदेन पुरा श्रुतम्॥३॥
 
 श्रीवत्साङ्कंजगद्वीजम् अनन्तं लोकसाक्षिणम्।  
@@ -14699,8 +13739,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एकाग्रः प्रयतो भूत्वा इमं मन्त्रमुदीरयेत्॥१०॥
 
 ओं नमो भगवते वासुदेवायेति॥१०॥
-
-
 
 भीष्मः—
 
@@ -14736,8 +13774,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^505]: "ग—संघातं सर्व"
 
-
-
 यः प्रभुस्सर्वभूतानां येन सर्वमिदं ततम्।  
 चराचरगुरुर्विष्णुस् स मे देवः प्रसीदतु॥१९॥
 
@@ -14768,8 +13804,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 चतुर्मूर्ते परं धाम लक्ष्म्यावास परार्चित।  
 सर्वावास नमस्तेऽस्तु वासुदेव प्रधानकृत्॥२७॥
-
-
 
 अजस्त्वमगमः पन्था ह्यमूर्तिर्विश्वमूर्तिधृत्।  
 त्रिकर्तः[^508] पञ्चकालज्ञ नमस्ते ज्ञानसागर॥२८॥
@@ -14803,8 +13837,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^511]: "ग—ममात्मा"
 
-
-
 अव्यक्तं समधिष्ठाता[^512] ह्यचिन्त्यस्सदसत्परः।  
 आस्थितः[^513] प्रकृतिं भुङ्क्ते स महात्मा प्रसीदतु॥३६॥
 
@@ -14834,8 +13866,6 @@ The Presidency College,                     P. P. S. SASTRI,
 पुण्यपापविनिर्मुक्ता भक्तास्त्वां प्रविशन्त्युत॥४३॥
 
 अव्यक्तं बुद्ध्यहङ्कारमनोभूतेन्द्रियाणि च।
-
-
 
 त्वयि तानि च तेषु त्वं न तेषु त्वं न ते त्वयि॥४४॥
 
@@ -14870,8 +13900,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 इन्द्रियाण्यपि संयान्तु स्वासु स्वासु च योनिपु।
 
-
-
 पृथिवी यातु सलिलम् आपोऽग्निमनलोऽनिलम्॥५३॥
 
 वायुराकाशमप्येतु मनश्चाकाश एव च।  
@@ -14901,8 +13929,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अहं भगवतस्तस्य मम चासौ सनातनः।  
 तस्याहं न प्रणश्यामि स च मे न प्रणश्यति॥६१॥
-
-
 
 कर्मेन्द्रियाणि संयम्य पञ्चबुद्धीन्द्रियाणि च।  
 दशेन्द्रियाणि मनसि अहङ्कारे तथा मनः॥६२॥
@@ -14933,8 +13959,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अभ्यर्चयन पितॄन् देवान् पठञ्जुह्वन् बलिं ददत्।  
 ज्वलन्नग्निं स्मरेद्यो मां स याति परमां गतिम्॥७१॥
 
-
-
 पृथिवी यातु सलिलम् आपोऽग्निमनलोऽनिलम्॥५३॥
 
 वायुराकाशमप्येतु मनश्चाकाश एव च।  
@@ -14965,8 +13989,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अहं भगवतस्तस्य मम चासौ सनातनः।  
 तस्याहं न प्रणश्यामि स च मे न प्रणश्यति॥६१॥
 
-
-
 कर्मेन्द्रियाणि संयम्य पञ्च बुद्धीन्द्रियाणि च।  
 दशेन्द्रियाणि मनसि अहङ्कारे तथा मनः॥६२॥
 
@@ -14995,8 +14017,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अभ्यर्चयन् पितॄन् देवान् पठञ्जुह्वन् बलिं ददत्।  
 ज्वलन्नग्निं स्मरेद्यो मां स याति परमां गतिम्॥७१॥
-
-
 
 यज्ञो दानं तपश्चैव पावनानि मनीषिणाम्।  
 यज्ञं दानं तपस्तस्मात् कुर्यादाशीर्विवर्जितः॥७२॥
@@ -15028,8 +14048,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एवं पृष्टः पुरा तेन नारदेन सुरर्षिणा।  
 यदुवाच तदा शम्भुस् तदुक्तं तव सुव्रत॥७९॥
 
-
-
 त्वमध्येकमना भूत्वा ध्याहि ध्येयं गुणातिगम्।  
 भजस्व सर्वभावेन परमात्मानमव्ययम्॥८०॥
 
@@ -15052,8 +14070,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि सप्तचत्वारिंशोऽध्यायः॥४७॥  
 \[अस्मिन्नध्याये ८४॥श्लोकाः\]  
 ![](../books_images/U-IMG-1702952734ववव.png)
-
-
 
 ॥षण्णवत्यधिकशततमोऽध्यायः
 
@@ -15087,8 +14103,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तस्मिन् कालेऽद्भुतश्श्रीमान् सर्ववेदमयः प्रभुः।  
 सुपर्णःपततां श्रेष्ठो मेरुमन्दरसन्निभः॥६॥
-
-
 
 आजगाम विशुद्धात्मा गङ्गां द्रष्टुं महायशाः॥६॥
 
@@ -15124,8 +14138,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तेषामहं वचश्श्रुत्वा प्रणिपत्य महाहरिम्।  
 अब्रवं च यथावृत्तं मम नारायणस्य च॥१४॥
 
-
-
 शृणुध्वं मुनिशार्दूला हृत्वा सोममहं पुरा।  
 आकाशे पतमानस्तु वाक्यं तत्र शृणोमि वै॥१५॥
 
@@ -15160,8 +14172,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तथेति तं वीक्ष्य मातामनहङ्कारमास्थितम्?।  
 जेतुकामो ह्यहं विष्णुं मायया मायिनं हरिम्॥२२॥
 
-
-
 त्वत्तो ह्यहं वृणे त्वद्य वरं ऋषिवरोत्तम।  
 तवोपरिष्टात् स्थास्यामि वरमेतत् प्रयच्छ मे॥२३॥
 
@@ -15191,8 +14201,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अचिन्त्योऽयमहं भूयः कोऽसौ मामब्रवीत् पुरा।  
 कीदृग्विधस्स भगवान् इति मत्वा तमास्थितः॥३१॥
-
-
 
 अनन्तरं देवदेवं स्कन्धे मम समाश्रितम्।  
 अद्राक्षं पुण्डरीकाक्षं वहमानोऽहमद्भुतम्॥३२॥
@@ -15224,8 +14232,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 प्राप्तास्तत्र सभाद्वारि देवगन्धर्वसत्तमाः।
 
-
-
 ब्रह्माणं पुरतः कृत्वा कृताञ्जलिपुटास्तदा॥४१॥
 
 ततस्तदन्तरे तस्मिन् क्षीरोदार्णवशीकरैः।  
@@ -15256,8 +14262,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ततोऽहं प्रणिपत्याग्रे कृताञ्जलिरवस्थितः।  
 आगच्छेति च मामुक्त्वा पूर्वोत्तरपथं गतः॥५०॥
 
-
-
 अतीव मृदुभावेन गच्छन्निव स दृश्यते॥५०॥
 
 अयुतं नियुतं चाहं प्रयुतं चार्बुदं तथा।  
@@ -15287,8 +14291,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अतीतोऽहं क्षणादग्निम् अपश्यं वायुमण्डलम्॥५९॥
 
 आकाशमिव सम्प्रेक्ष्य क्षेप्तुकाममुपागतः।
-
-
 
 तत्राहं दुःखितो भूतः क्रोशमानो ह्यवस्थितः॥६०॥
 
@@ -15323,8 +14325,6 @@ The Presidency College,                     P. P. S. SASTRI,
 महाकुलं ततोऽपश्यं प्रमाणानि तमव्ययम्।  
 कपित्थफलसङ्काशम् अन्धकारैस्समाश्रितम्॥६९॥
 
-
-
 तत्र स्थितो हरिश्श्रीमान् अण्डमेकं बिभेद ह।  
 महद्भूतं हि मां गृह्य दत्त्वा वै प्राक्षिपत् पुनः॥७०॥
 
@@ -15355,8 +14355,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि अष्टचत्वारिंशोऽध्यायः॥४८॥  
 \[अस्मिन्नध्याये ७७ श्लोकाः\]  
 ![](../books_images/U-IMG-1703040174ववव.png)
-
-
 
 **॥सप्तनवत्यधिकशततमोऽध्यायः॥**  
 
@@ -15394,8 +14392,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 कथं च सर्वभूतेषु समेषु द्विजसत्तम।
 
-
-
 सम्यग्वृत्ता निवर्तन्ते विपरीताः क्षयोदयाः॥६॥
 
 वेदेषु चैव यद्वाच्यं लौकिकं व्यापकं च यत्।  
@@ -15427,8 +14423,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 पितॄन् देवानृषींश्चैव तथा वै यक्षराक्षसान्।
 
-
-
 नागासुरमनुष्यांश्च सृजते परमोऽव्ययः॥१५॥
 
 तथैव वेदान् शास्त्राणि लोकधर्माश्च शाश्वतान्।  
@@ -15458,8 +14452,6 @@ The Presidency College,                     P. P. S. SASTRI,
 नारायणादृषिगणास् तथा मुख्यास्सुरासुराः।  
 राजर्षयः पुराणाश्च परमं दुःखभेषजम्॥२४॥
 
-
-
 पुरुषाधिष्ठितान् भावान् प्रकृतिस्सूयते परा।  
 हेतुयुक्तमतस्सर्वं जगत् सम्परिवर्तते॥२५॥
 
@@ -15486,8 +14478,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 विद्यात्तु षोडशैतानि दैवतानि विभागशः।  
 देहेषु ज्ञानकर्तारम् उपासीनमुपासते॥३३॥
-
-
 
 श्रोत्रं शब्दगुणं चैव चक्षुरग्नेर्गुणस्तथा।  
 तद्वद्वारिगुणा[^520] जिह्वा घ्राणं तु पृथिवीगुणः॥३४॥
@@ -15522,8 +14512,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अग्निर्दारुगतो यद्वद् भिन्ने दारौ न दृश्यते।  
 तथैवात्मा शरीरस्थ ऋते योगान्न दृश्यते॥४१॥
 
-
-
 अग्निर्यथा ह्युपायेन मथित्वा दारु दृश्यते।  
 तथैवात्मा शरीरस्थो योगेनैवात्र दृश्यते॥४२॥
 
@@ -15555,8 +14543,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 स्वभावहेतुजा भावा यद्वदन्यदपीदृशम्।
 
-
-
 तद्वदव्यक्तजा भावाः कर्तुः करणलक्षणाः॥५०॥
 
 अचेतनाश्चेतयितुः कारणादभिसङ्गताः॥५१॥
@@ -15587,8 +14573,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सत्त्वरजस्तामसैर्भावर् युक्तो हेतुबलान्वितः।
 
-
-
 क्षेत्रज्ञमेवानुयाति पांसुर्वातेरितो यथा॥६०॥
 
 न स तैस्स्पृश्यते भावैर् न ते तेन महात्मना।  
@@ -15618,8 +14602,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 शरीरवानुपादत्ते मोहात् सर्वं परिग्रहम्।  
 कामक्रोधादिभिर्भावैर् युक्तो राजसतामसैः॥६८॥
-
-
 
 नाशुद्धमाचरेत्तस्माद् अभीप्सन् देहयापनम्।  
 कर्मणो विचयं[^526] कुर्वन् न लोकानाप्नुयाच्छुभान्॥६९॥
@@ -15652,8 +14634,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यद्वत् कान्तारमातिष्ठन्नौत्सुक्यं समनुव्रजेत्।  
 श्रमादाहारमादद्याद् अस्वाद्वपि हि यापयन॥७७॥
 
-
-
 तद्वत् संसारकान्तारम् आतिष्टञ् शमतत्परः।  
 यात्रार्थमद्यादाहारं व्याधितो भेषजं यथा॥७८॥
 
@@ -15683,9 +14663,7 @@ The Presidency College,                     P. P. S. SASTRI,
 
 प्रसादो हर्षजः प्रीतिर् असम्मोहस्स्मृतिर्मतिः[^528]
 
-
 [^528]: "क–घ—मोहः  ख—देहो धृतिः क्षमा  ग—मोहस्स्मृतिर्धृतिः"
-
 
 एतान् सत्त्वगुणान् विद्याद् इमान् राजसतामसान्॥८६॥
 
@@ -15726,8 +14704,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 राजसं तामसं चैव शुद्धात्मा कालसम्भवम्।
 
-
-
 शमयेत् सत्वमास्थाय स्वबुद्ध्या केवलं द्विजः॥९६॥
 
 तत् सर्वं देहिनां बीजं सर्वमात्मवतां क्षमम्।  
@@ -15757,8 +14733,6 @@ The Presidency College,                     P. P. S. SASTRI,
 क्रोधलोभौ भयं दर्प एतेषां सादनाच्छुचिः॥१०१॥
 
 परमं परमात्मानं देवमक्षरमव्ययम्।
-
-
 
 विष्णुमव्यक्तसंस्थानं विश्रुद्धं देवमाप्नुयात्॥१०२॥
 
@@ -15790,8 +14764,6 @@ The Presidency College,                     P. P. S. SASTRI,
 कृत्या ह्येता घोररूपा मोहयन्त्यविचक्षणम्।  
 रजसा निहिता मूर्तिर् इन्द्रियाणां सनातनी॥ १०९॥
 
-
-
 तस्मात् तर्षात्मकाद्रागाद् बीजाज्जायन्ति जन्तवः॥१०९॥
 
 स्वदेहजानस्वसंज्ञान् यद्वद्दुःखात् क्रिमींस्त्यजेत्।  
@@ -15819,8 +14791,6 @@ The Presidency College,                     P. P. S. SASTRI,
 व्यानोदानसमानाश्च पञ्चधा देहयापनम्॥११७॥
 
 स जातैर्जायते गात्रैः कर्मजैर्ब्रह्मणा वृतः।
-
-
 
 दुःखाद्यन्तैर्दुःखमध्यैर् नरश्शारीरमानसैः॥११८॥
 
@@ -15851,8 +14821,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तांस्तानुपासते धर्मान् धर्मकामा यथागमम्।  
 न त्वेषामर्थसामान्यम् अन्तरेण गुणानिमान्॥१२६॥
-
-
 
 वाग्देहमनसां शौचं क्षमा सत्यं धृतिस्स्मृतिः।  
 सर्वधर्मेषु धर्मज्ञा ज्ञापयन्ति गुणानिमान्॥१२७॥
@@ -15885,8 +14853,6 @@ The Presidency College,                     P. P. S. SASTRI,
 पाप्मानं निर्दहेदेवम् अन्तर्भूतं रजोमयम्।  
 ज्ञानयुक्तेन मनसा सन्ततेन विचक्षणः॥१३५॥
 
-
-
 कुणपामेध्यसंयुक्तं यद्वदच्छिद्रबन्धनम्।  
 तद्वद्देहगतं विद्याद् आत्मानं देहबन्धनम्[^542]॥१३६॥
 
@@ -15915,8 +14881,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 महर्षिर्भगवानत्रिर् वेद तच्छुक्लसम्भवम्।  
 नृबीजमिन्द्रदैवत्यं तस्मादिन्द्रियमुच्यते॥१४४॥
-
-
 
 ये वै शुक्लगतिं विद्युर् भूतसङ्घातकारिकाम्।  
 विरागा दग्धदोषास्ते नाप्नुयुर्देहसम्भवम्॥१४५॥
@@ -15947,8 +14911,6 @@ The Presidency College,                     P. P. S. SASTRI,
 वाङ्मनोभ्यां शरीरेण शुचिस्स्यादनहङ्कृतः।  
 प्रशान्तो ज्ञानवान् भिक्षुर् निरपेक्षश्चरेत् सुखम्॥ १५३॥
 
-
-
 अथ वा मनसस्सङ्गं पश्येद्भूतानुकम्पया।  
 अत्राप्युपेक्षां कुर्वीत ज्ञात्वा कर्मवशं जगत्॥१५४॥
 
@@ -15976,8 +14938,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ईदृगल्पं च वक्तव्यम् अविक्षिप्तेन चेतसा॥१६१॥
 
 [^545]: "ख–ग—नास्तीदमर्धम्"
-
-
 
 वाक्प्रबन्धान्[^546] हि संरोषाद् विरुद्धान् व्याहरेद्यदि।  
 बुद्ध्या ह्यनिगृहीतेन मनसा कर्म तामसम्॥१६२॥
@@ -16008,8 +14968,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 निगृहीतेन्द्रियस्यास्य कुर्वाणस्य मनो वशे।
 
-
-
 देवतास्ताःप्रसीदन्ति हृष्टा यान्ति तमीश्वरम्॥१७०॥
 
 ताभिस्संयुक्तमनसो ब्रह्म तत् सम्प्रकाशते।  
@@ -16037,8 +14995,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अमृतं तदवाप्नोति यत्तदक्षरमव्ययम्[^101]॥१७८॥
 
 [^101]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
 
 निष्कल्मषं ब्रह्मचर्यम् इच्छता चरितुं सदा।  
 निद्रा सर्वात्मना त्याज्या स्वप्नदोषमवेक्षता॥१७९॥
@@ -16069,8 +15025,6 @@ The Presidency College,                     P. P. S. SASTRI,
 [^550]: "ग—सोऽन्तरपूरुषः"
 
 गुणानामपि यद्यत्तत् कर्म जानात्युपस्थितम्।
-
-
 
 तत्तच्छंसन्ति[^551] भूतानि मनो यद्भावितं तथा॥१८७॥
 
@@ -16103,8 +15057,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तपो ह्यधिष्ठितं देवैस् तपोघ्नमसुरैस्तमः।  
 एतद्दैवासुरैर्गुप्तं ज्ञानाज्ञानस्य लक्षणम्॥१९५॥
-
-
 
 सत्त्वं रजस्तमश्चेति देवासुरगुणान् विदुः।  
 सत्त्वं देवगुणं विद्याद् इतरावासुरौ गुणौ॥१९६॥
@@ -16139,8 +15091,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 प्रवृत्तिः पुनरावृत्तिर् निवृत्तिः परमा गतिः।
 
-
-
 तां गतिं परमामेति निवृत्तिपरमो मुनिः॥२०३॥
 
 ज्ञानतत्त्वपरो नित्यं शुभाशुभनिदर्शनः॥२०३॥
@@ -16171,8 +15121,6 @@ The Presidency College,                     P. P. S. SASTRI,
 उष्णीषवान् यथा वस्त्रैस् त्रिभिर्भवति संवृतः।  
 संवृतोऽयं तथा देही सत्त्वराजसतामसैः॥२११॥
 
-
-
 तस्माच्चतुष्टयं वेद्यम् एतैर्हेतुभिराचितम्।  
 तथासंज्ञो ह्ययं सम्यग् अन्तकाले न मुह्यति॥२१२॥
 
@@ -16202,8 +15150,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एवं युक्तेन मनसा ज्ञानं समुपपद्यते॥२१९॥
 
 [^562]: "ख–ग—नोत्कर्षात्"
-
-
 
 रसवर्जो[^563] ह्ययं देही देहवाञ्छब्दवांश्चरेत्।  
 काम्यैरव्याहतमतिर् वैराग्यात् प्रकृतौ स्थितः॥२२०॥
@@ -16237,8 +15183,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^565]: "ख—मानसम्"
 
-
-
 मर्त्यलोकाद्विमुच्यन्ते विद्यासंसक्तमानसाः॥२२८॥
 
 ब्रह्मभूता विरजसस् ते यान्ति परमां गतिम्।  
@@ -16266,8 +15210,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 विकारं प्रकृतिं चैव पुरुषं च सनातनम्।  
 यो यथावद्विजानाति स वितृष्णो विमुच्यते॥२३७॥
-
-
 
 प्रकाशं भगवानेतद् ऋषिर्नारायणोऽमृतम्।  
 भूतानामनुकम्पायैजगाद जगतो हितम्॥२३८॥
@@ -16301,8 +15243,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तस्य स्म शतमाचार्या वसन्ति सततं गृहे।  
 दर्शयन्तः पृथग्धर्मान्नानापाषण्डवादिनः॥४॥
 
-
-
 न तेषां प्रेत्यभावे च प्रेत्य जातौ विनिश्चयः।  
 आगमस्थस्स[^132] भूयिष्ठम् आत्मतत्त्वेन तुष्यति॥५॥
 
@@ -16334,8 +15274,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यत्तदेकाक्षरं ब्रह्म नानारूपं प्रदृश्यते।  
 आसुरिर्मण्डले तस्मिन् प्रतिपेदे तदव्ययम्॥१३॥
 
-
-
 तस्य पञ्चशिखश्शिष्यो मानुष्यवयसा धृतः।  
 ब्राह्मणी कपिला नाम काचिदासीत् कुटुम्बिनी॥१४॥
 
@@ -16364,8 +15302,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 दृश्यमाने विनाशे च प्रत्यक्षे लोकसाक्षिके।  
 आगमात् परमस्तीति ब्रुवन्नपि पराजितः॥२२॥
-
-
 
 आत्मना[^569] ह्यात्मनः क्लेशं जन्ममृत्युजरामयम्।  
 आत्मानं मन्यते मोहात् तदसम्यक् परं मतम्॥२३॥
@@ -16398,8 +15334,6 @@ The Presidency College,                     P. P. S. SASTRI,
 [^574]: "ख–ग—ऽम्बुभक्षणम्"
 
 प्रेत्य भूत्वा व्ययश्चैव देवताभ्युपयाचनम्।
-
-
 
 मृते कर्मनिवृत्तिश्च प्रमाणत्वे[^575] कथं भवेत्॥२९॥
 
@@ -16434,8 +15368,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^579]: "ध—अर्धद्वयं नास्ति"
 
-
-
 यदा हि ¹मूलतो[^580] हन्याच्छरीरं न पुनर्भवेत्।  
 पृथग्ज्ञानं यदन्यच्च तेनैतन्नोपपद्यते॥३७॥
 
@@ -16464,8 +15396,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एवमर्थैरनर्थैश्च दुःखितास्सर्वजन्तवः।  
 आगमैरपकृष्यन्ते हस्तिनो हस्तिपैर्यथा॥४४॥
 
-
-
 अर्थांस्तथाऽत्यन्तसुखावहांश्च  
 लिप्सन्त एते बहवो विशुष्काः।  
 महत्तरं दुःखमभिप्रपन्ना  
@@ -16492,8 +15422,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शान्तिपर्वणि अष्टनवत्यधिकशततमोऽध्यायः॥१९८॥  
 ॥८८॥ मोक्षधर्मपर्वणि पञ्चाशोऽध्यायः॥५०॥  
 \[अस्मिन्नध्याये ४८ श्लोकाः\]
-
-
 
 **॥एकोनद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1703396377नन.png)
@@ -16528,8 +15456,6 @@ The Presidency College,                     P. P. S. SASTRI,
 गुणज्ञानमभिज्ञानं तस्य लिङ्गानुशब्दवत्।  
 पृथिव्यादिषु भूतेषु तत्तदाहुर्निदर्शनम्॥६॥
 
-
-
 आत्माऽसौ वर्तते भिन्नस् तत्र तत्र समन्वितः।  
 परमात्मा तथैवैको देहेऽस्मिन्निति वै श्रुतिः॥७॥
 
@@ -16558,8 +15484,6 @@ The Presidency College,                     P. P. S. SASTRI,
 विरोधो ह्यात्मसन्मायां न तेषां सिद्ध एव हि॥१५॥
 
 अन्यदा च गृहीतै... वेदबाह्यास्ततस्स्मृताः॥१६॥
-
-
 
 एकानेकात्मकं तेषां प्रतिषेधो हि भेदनुत्।  
 तस्माद्वेदस्य हृदयम् अद्वैध्यमिति विद्धि तत्॥१७॥
@@ -16592,8 +15516,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 न बुधस्येति वै कश्चिन्न तथावच्छृणुष्व मे॥२५॥
 
-
-
 शोकमस्य न गत्वा ते शास्त्राणां शास्त्रदस्यवः।  
 लोकं निघ्नन्ति सम्भिन्ना ज्ञानिनोऽत्र वदन्त्युत॥२६॥
 
@@ -16623,8 +15545,6 @@ The Presidency College,                     P. P. S. SASTRI,
 असक्ताः परिवर्तन्ते संसरन्त्यथ वायुवत्।  
 न युज्यन्तेऽथ वा क्लेशैर् अहम्भावोद्भवैस्सह॥३५॥
 
-
-
 इतस्ततस्समाहृत्य ज्ञानं निर्वर्णयन्त्युत।  
 ज्ञानान्वितस्तमो हन्याद् अर्कवत् स महामतिः॥३६॥
 
@@ -16653,8 +15573,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यथा शाखा हि वै शाखा तरोस्सम्बध्यते तदा।  
 श्रुत्या तथा परोऽप्यात्मा दृश्यते सोऽप्यलिङ्गवान्॥४४॥
 
-
-
 अलिङ्गसाध्यं तद्ब्रह्म बहवस्सन्ति हेतवः॥४४॥
 
 लोकयात्राविधानं च दानधर्मफलागमः।  
@@ -16681,8 +15599,6 @@ The Presidency College,                     P. P. S. SASTRI,
 किं बन्धुभिर्मन्त्रपरिग्रहैश्च।  
 विहाय यो गच्छति सर्वमेव  
 क्षणेन गत्वा न निवर्तते च॥५१॥
-
-
 
 खं भूमितोयानलवायवो हि  
 सदा शरीरं प्रतिपालयन्ति।  
@@ -16717,8 +15633,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^582]: "ख–घ—विभ्रान्तमिव चातुरम्"
 
-
-
 जनकः[^583]—
 
 [^583]: "ख–घ—पुनः प्रशमयन् वाक्यैस् साम्पराये भवाभवौ।"
@@ -16751,8 +15665,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एष पञ्चसमाहारशू शरीरमिति[^584] नैकधा॥८॥
 
 [^584]: "ख—शरीरमपि      [ अधिकः पाठः ]"
-
-
 
 ज्ञानमूष्मा च वायुश्च त्रिविधः कर्मसङ्ग्रहः[^585]॥९॥
 
@@ -16788,8 +15700,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तत्तु सम्यङ्मतंनाम त्यागशास्त्रमनुत्तमम्।  
 शृणु यत्तव मोक्षाय भाष्यमाणं भविष्यति॥१७॥
 
-
-
 त्याग एव हि सर्वेषां उक्तानामपि कर्मणाम्।  
 नित्यदुःखविनीतानां क्लेशदुःखावहो मतः॥१८॥
 
@@ -16821,8 +15731,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तेन यस्त्रिविधो भावः पर्यायात् समुपस्थितः॥२५॥
 
-
-
 सात्त्विको राजसश्चैव तामसञ्चैव ते त्रयः।  
 त्रिविधां वेदना येषु प्रसृता सर्वसादिनी॥२६॥
 
@@ -16852,8 +15760,6 @@ The Presidency College,                     P. P. S. SASTRI,
 नोभयं शब्दविज्ञाने विज्ञानस्येतरस्य वा॥३३॥
 
 एवं त्वक्चक्षुषी जिह्वा नासिका चैव पश्चमी।
-
-
 
 स्पर्शे रूपे रसे गन्धे तानि चेतो मनश्च तत्॥३४॥
 
@@ -16887,8 +15793,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यथाऽर्णवं गता नद्यो व्यक्तिं जहति नाम च।
 
-
-
 नतु स्वतां नियच्छन्ति तादृशस्सत्त्वसङ्क्षयः॥४३॥
 
 एवं सति कुतस्संज्ञा प्रेत्यभावे पुनर्भवेत्।  
@@ -16915,8 +15819,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यथोर्णनाभिः परिवर्तमानस्  
 तन्तुक्षये तिष्ठति पात्यमानः।
 
-
-
 तथा विमुक्तः प्रजहाति दुःखं  
 विध्वंसते लोष्टमिवाप्रतीच्छन्॥४८॥
 
@@ -16941,8 +15843,6 @@ The Presidency College,                     P. P. S. SASTRI,
 नगरमुपाहितमग्निनाऽभिवीक्ष्य।  
 न खलु मम तुषोऽपि दह्यतेऽत्र  
 स्वयमिदमाह किल स्म भूमिपालः॥५२॥
-
-
 
 इमं तु यः पठति विमोक्षनिश्चयं  
 न हीयते सततमवेक्षते तथा।  
@@ -16975,8 +15875,6 @@ The Presidency College,                     P. P. S. SASTRI,
 वह्मिना दीपिता सा तु तन्मे शृणु महामते॥२॥
 
 जनको जनदेवस्तु कर्माण्याध्याय चात्मनि।
-
-
 
 सर्वभावमनुप्राप्य भावेन विचचार सः॥३॥
 
@@ -17011,8 +15909,6 @@ The Presidency College,                     P. P. S. SASTRI,
 नोवाच वचनं विप्रं तत्त्वबुद्ध्या समीक्ष्य तत्॥१०॥
 
 पुनः पुनश्च तं विप्रश् चोदयामास सत्वरम्॥१०॥
-
-
 
 ब्राह्मणः—
 
@@ -17050,8 +15946,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अनन्तं बत मे वित्तं भाव्यं मे नास्ति किञ्चन।  
 मिथिलायां प्रदीप्तायां न मे किञ्चन दह्यते॥१७॥
 
-
-
 भीष्मः—
 
 तदस्य भाषमाणस्य श्रुत्वा श्रुत्वा हृदि स्थितम्।  
@@ -17074,8 +15968,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८८॥ मोक्षधर्मपर्वणि त्रिपञ्चाशोऽध्यायः॥ ५३॥  
 \[ अस्मिन्नध्याये २१ श्लोकाः \]  
 ![](../books_images/U-IMG-1703402321मम.png)
-
-
 
 ॥द्व्यधिकद्विशततमोऽध्यायः॥\*[^597]
 
@@ -17105,8 +15997,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अस्याः पतिः कुतो वेति ब्राह्मणश्श्रोत्रियः परः।  
 विद्वान् विप्रो ह्यकुटुम्बः प्रियवादी महातपाः॥६॥
-
-
 
 इत्येवं चिन्तयानं तं रहस्याह सुवर्चला॥६॥
 
@@ -17142,8 +16032,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अरोगान् बुद्धिसम्पन्नाञ्शीलसत्त्वगुणान्वितान्।  
 असङ्कीर्णाश्च गोत्रेषु वेदव्रतसमन्वितान्॥१३॥
 
-
-
 ब्राह्मणान् स्नातकाञ् शीघ्रं मातापितृसमन्वितान्॥१४॥
 
 निवेष्टुकामान् कन्यां मे दृष्ट्वाऽऽनयत शिष्यकाः॥१४॥
@@ -17178,8 +16066,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यद्यस्ति समितौ विप्रो ह्यन्धोऽनन्धस्स मे वरः॥२१॥
 
-
-
 भीष्मः—
 
 तच्छ्रुत्वा मुनयस्तत्र वीक्षमाणाः परस्परम्।  
@@ -17212,8 +16098,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तच्छ्रुत्वा कुपिता कन्या ऋषिपुत्रमुदैक्षत।  
 तां कन्यामाह विप्रर्षिस् सोऽहं भद्रे समागतः॥३०
 
-
-
 अन्धोऽहमत्र तत्त्वं हि तथा मन्ये च सर्वदा।  
 विशालनयनं विद्धि तथा मां हीनसंशयम्॥३१॥
 
@@ -17245,8 +16129,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 मनसाऽसि वृतो विद्वञ् शेषकर्ता पिता मम।  
 वृणीष्व पितरं मह्यम् एष वेदविधिक्रमः॥३९॥
-
-
 
 भीष्मः—
 
@@ -17281,8 +16163,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यानि चोक्तानि वेदेषु तत् सर्वं कुरु शोभने।  
 मया सह यथान्यायं सहधर्मचरी मम॥४७॥
 
-
-
 अहमित्येव भावेन स्थितोऽहं त्वं तथैव च।  
 तस्मात् कर्माणि कुर्वीथाः कुर्यां ते च ततः परम्॥४८॥
 
@@ -17313,8 +16193,6 @@ The Presidency College,                     P. P. S. SASTRI,
 श्वेतकेतुः—
 
 द्विजोत्तमेति मामुक्त्वा पुनः कमनुपृच्छसि॥५५॥
-
-
 
 भीष्मः—
 
@@ -17349,8 +16227,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तदनिष्टं हरेर्भद्रे धातुरस्य महात्मनः।
 
-
-
 परमेश्वरसङ्क्रिडा लोकसृष्टिरियं शुभे॥६४॥
 
 यावत् पांसव उद्दिष्टास्तावत्योऽस्य विभूतयः।  
@@ -17382,8 +16258,6 @@ The Presidency College,                     P. P. S. SASTRI,
 सुवर्चला—
 
 शब्दार्थयोर्हि सम्बन्धस् त्वनयोरस्ति वा न वा।
-
-
 
 तन्मे ब्रूहि यथातत्त्वं शब्दस्थानेऽर्थ एव चेत्॥७२॥
 
@@ -17421,8 +16295,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अहं शब्दो पहंभावो नात्मभावे शुभवते।
 
-
-
 न वर्तन्ते परेऽचिन्त्ये वाचस्सगुणलक्षणाः॥७९॥
 
 सुवर्चला—
@@ -17452,8 +16324,6 @@ The Presidency College,                     P. P. S. SASTRI,
 निर्विकारं ह्यमूर्ति च निरयं सर्वगं तथा।  
 दृश्यते च वियन्नित्यं दृगात्मा तेन दृश्यते॥८६॥
 
-
-
 श्वेतकेतुः—
 
 त्वचा स्पृशति वै वायुम् आकाशस्थं पुनः पुनः।  
@@ -17481,8 +16351,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तद्वाक्यस्मरणान्नित्यं तृप्तिं वारि पिबन्निव।  
 प्राप्नोति ज्ञानमखिलं तेन तत् सुखमेधते॥९५॥
-
-
 
 सुवर्चला—
 
@@ -17515,8 +16383,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यदि मे व्याहृतं गुह्यं श्रुतं न तु त्वया शुभे।  
 तथ्यमित्येव वा शुद्धे ज्ञानं ज्ञानविलोचने॥१०३॥
 
-
-
 नानारूपवदस्यैवम् ऐश्वर्यं दृश्यते शुभे॥१०४॥
 
 न वायुस्तं न सूर्यस्तं नाग्निस्तत्तत् परं पदम्।  
@@ -17544,8 +16410,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८८॥ मोक्षधर्मपर्वणि चतुःपञ्चाशोऽध्यायः॥ ५४॥  
 \[ अस्मिन्नध्याये ११० श्लोकाः \]  
 ![](../books_images/U-IMG-1703418532मम.png)
-
-
 
 ॥त्र्यधिकद्विशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1703418842NNNN.png)
@@ -17579,8 +16443,6 @@ The Presidency College,                     P. P. S. SASTRI,
 क्रव्याद्य्भइव भूतानाम् अदान्तेभ्यस्सदा भयम्।  
 तेषां विप्रतिषेधार्थं राजा सृष्टस्स्वयम्भुवा॥७॥
 
-
-
 आश्रमेषु च सर्वेषु दम एव विशिष्यते।  
 यच तेषु फलं धर्मे भूयो दान्ते तदुच्यते॥८॥
 
@@ -17609,8 +16471,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न प्रहृष्येन्महत्यर्थे व्यसने च न शोचति।  
 यश्चाऽपरिमितप्रज्ञस् स दान्तो द्विज उच्यते॥१५॥
 
-
-
 कर्मभिश्रुतिसम्पन्नस् सद्भिराचरितैश्शुभैः।  
 सदैव दमसंयुक्तस् तस्य भुङ्क्ते महत् फलम्॥१६॥
 
@@ -17636,8 +16496,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८८॥ मोक्षधर्मपर्वणि पञ्चपञ्चाशोऽध्यायः॥ ५५॥  
 \[ अस्मिन्नध्याये २० लोकाः\]  
 ![](../books_images/U-IMG-1703419600मम.png)
-
-
 
 **॥चतुरधिकद्विशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1703420059NNNN.png)**
@@ -17674,8 +16532,6 @@ The Presidency College,                     P. P. S. SASTRI,
 मुनिश्च स्यात् सदा विप्रो दैवतं च सदा भवेत्।  
 कुटुम्बिको धर्मपरस् सदाऽस्वप्नश्च भारत॥६॥
 
-
-
 अमांसाशी सदा च स्यात् पवित्री च सदा भवेत्।  
 अमृताशी[^263] सदा च स्यान्न च स्याद्विषभोजनः॥७॥
 
@@ -17709,8 +16565,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^605]: "ख—अभुक्तवत्सु नाभानस् स भवेत्तस्यवै द्विजः। [पाठान्तरम् ]"
 
-
-
 अदत्त्वाऽन्नं दैवतेभ्यो यो न भुङ्क्ते स दैवतम्।  
 अभोजनेन तेनास्य जितस्वर्गो भवत्युत॥१४॥
 
@@ -17730,8 +16584,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८८॥ मोक्षधर्मपर्वणि षट्पञ्चाशोऽध्यायः॥ ५६॥  
 \[ अस्मिन्नध्याये १७॥ श्लोकाः \]  
 ![](../books_images/U-IMG-1703421056मम.png)
-
-
 
 **॥पञ्चाधिकद्विशततमोऽध्यायः॥[^597]**
 
@@ -17770,8 +16622,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 प्राकृतं कारणं नास्ति सर्व नैवमिदं जगत्।
 
-
-
 अनेन चापरे विप्रास् स्वभावं कर्म चापरे॥७॥
 
 पौरुषं कर्म दैवं च यत्स्वभावादिरेव तम्।  
@@ -17800,8 +16650,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तमाह कश्चिद् द्विजवर्यसत्तमो  
 विभाण्डको मण्डितवेदराशिः॥१५॥
 
-
-
 द्विजवर्थः—
 
 कस्त्वं भवानर्थविभेदमध्ये  
@@ -17828,8 +16676,6 @@ The Presidency College,                     P. P. S. SASTRI,
 स्वमाह विद्वान् मनसा निगम्य।  
 ऋषे कथं वाक्यमिदं ब्रवीषि  
 न चास्य मन्ता न च विद्यते चेत्॥१९॥
-
-
 
 न शुश्रुवुस्ततस्तत्तु प्रतिवाक्यं द्विजोत्तमाः।  
 निरीक्षमाणा आकाशं प्रहसन्तस्ततस्ततः॥२०॥
@@ -17863,8 +16709,6 @@ The Presidency College,                     P. P. S. SASTRI,
 प्रसीद नो भगवन् ज्ञानलेशं  
 मधुप्रयाताय सुखाय सन्तः।
 
-
-
 यत्तत् पदं विश्वरूपं महामुने  
 तत्र ब्रूहि किं तत्र महानुभाव॥२७॥
 
@@ -17885,8 +16729,6 @@ The Presidency College,                     P. P. S. SASTRI,
  स युगतो व्यापी। स पृथक् स्थितः। तदपरमार्थः॥ ३२
 
  यथा वायुरेकस्सन् बहुधेरितः। आश्रयविशेषो वा यस्याश्रयं यथावाहिजे मृगे व्याघ्रे च मनुजे वेणुसंश्रयो भिद्यते वायुरथैकः। आत्मा तथाऽसौ परमात्माऽसावन्य इव भाति॥
-
-
 
  एवमात्मा स एव गच्छति सर्वमात्मा पश्यञ्श्रृणोति न च घ्राति न भाषते॥३४॥
 
@@ -17912,8 +16754,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ब्राह्मणस्य न सादृश्ये वर्तते सोऽपि किं पुनः।  
 इज्यते यस्तु मन्त्रेण यजमानो द्विजोत्तमः॥४१॥
-
-
 
 नैव धर्मी न चाधर्मी द्वन्द्वातीतो विमत्सरः।  
 ज्ञानतृप्तस्सुखं शेते ह्यमृतात्मा न संशयः॥४२॥
@@ -17944,8 +16784,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८८॥ मोक्षधर्मपर्वणि सप्तपञ्चाशोऽध्यायः॥ ५७॥  
 \[ अस्मिन्नध्याये ४२॥ श्लोकाः५ वाक्यानि \]  
 ![](../books_images/U-IMG-1703424463मम.png)
-
-
 
 ॥षडधिकद्विशततमोऽध्यायः [\*॥  
 ![](../books_images/U-IMG-1703485442नन.png)][^609]
@@ -17978,8 +16816,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सदोपवासो यो विद्वान् ब्रह्मचारी सदा भवेत्॥५॥
 
-
-
 यो मुनिश्च सदा धीमान् विघसाशी विमत्सरः।  
 ततस्त्वनन्तमप्याहुर् यो नित्यमतिथिप्रियः॥६॥
 
@@ -18009,8 +16845,6 @@ The Presidency College,                     P. P. S. SASTRI,
 दृढं सर्व प्राकृतकम् इदं सर्वत्र पश्य वै॥१४॥
 
 तस्माद्यथागतं राजन् यथारुचि नृणां भवेत्॥१४॥
-
-
 
 भीष्मः—
 
@@ -18049,8 +16883,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तथेति चोक्त्वा तां विप्रः प्रेषयामास शिष्यकान्।
 
-
-
 ऋषेः प्रभावं दृष्ट्वा ते कन्यायाश्च द्विजोत्तमाः॥२३॥
 
 अनेकमुनयो राजन सम्प्राप्ता देवलाश्रमम्॥२३॥
@@ -18084,8 +16916,6 @@ The Presidency College,                     P. P. S. SASTRI,
 कथं विशालनेत्रोऽसि कथं वा त्वमलोचनः।  
 ब्रूहि पश्चादहं विद्वान् परीक्षे त्वां द्विजोत्तम॥३०॥
 
-
-
 श्वेतकेतुः—
 
 शब्दे स्पर्शे तथा रूपे रसे गन्धे सहेतुकम्।  
@@ -18116,8 +16946,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८८॥ मोक्षधर्मपर्वणि अष्टपञ्चाशोऽध्यायः॥ ५८॥  
 \[ अस्मिन्नध्याये ३६॥ श्लोकाः \]  
 ![](../books_images/U-IMG-1703486023मम.png)
-
-
 
 **॥सप्ताधिकद्विशततमोऽध्यायः॥**  
 
@@ -18151,8 +16979,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अक्रुध्यन्तमहृष्यन्तम् अप्रियेषु प्रियेषु च।  
 काश्चने वाऽथ लोष्टे वा उभयोस्समदर्शनम्॥६॥
 
-
-
 आत्मनि श्रेयसि ज्ञाने धीरं निश्चितनिश्चयम्।  
 परावरज्ञं भूतानां सर्वज्ञं सर्वदर्शिनम्॥७॥
 
@@ -18185,8 +17011,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 प्रवृत्तिं च निवृत्तिं च भूतानां यो न बुध्यते।
 
-
-
 तस्य स्तम्भो भवेद्वाल्यान्नास्ति स्तम्भोऽनुपश्यतः॥१५॥
 
 स्वभावात् सम्प्रवर्तन्ते निवर्तन्ते तथैव च।  
@@ -18216,8 +17040,6 @@ The Presidency College,                     P. P. S. SASTRI,
 स्वभावादेव ते सर्व इति मे निश्चिता मतिः।  
 आत्मप्रतिष्ठा प्रज्ञानात् परं नास्ति ततोऽन्यथा॥२४॥
 
-
-
 कर्मजं त्विह मन्येऽहं फलयोगं शुभाशुभम्।  
 कर्मणां विषयं कृत्स्नम् अहं वक्ष्यामि तच्छृणु॥२५॥
 
@@ -18246,8 +17068,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न हि ज्ञेये न विज्ञाने नाज्ञाने ^(1[^611])विद्यतेऽन्तरम्॥३३॥
 
 [^611]: "ख—शर्म विद्यते"
-
-
 
 शक्रः—
 
@@ -18279,8 +17099,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८८॥ मोक्षधर्मपर्वणि एकोनषष्टितमोऽध्यायः॥ ५९॥  
 \[ अस्मिन्नध्याये ३८ श्लोकाः \]  
 ![](../books_images/U-IMG-1703487122मम.png)
-
-
 
 **॥अष्टाधिकद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1703487546bbbb.png)
@@ -18316,8 +17134,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तं बलिं नाधिगच्छामि ब्रह्मन्नाचक्ष्व मे बलिम्।
 
-
-
 स वायुर्वरुणश्चैव स रविस्स च चन्द्रमाः॥६॥
 
 सोऽग्निस्तपति भूतानि स जलं च भवत्युत।  
@@ -18350,8 +17166,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ततो ददर्श स बलि खरवेषेण संवृतम्।  
 यथाख्यातं भगवता शून्यागारकृतालयम् ॥१३॥
-
-
 
 शक्रः—
 
@@ -18386,8 +17200,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 छत्रं तदाऽऽसीत् सुमहत् सौवर्णमपि भूषितम्।
 
-
-
 यूपस्तदाऽऽसीत् सुमहान् यजतस्सर्वकाञ्चनः॥२१॥
 
 ननृतुर्यत्र गन्धर्वाष् षट् सहस्राणि सप्तधा॥२२॥
@@ -18421,8 +17233,6 @@ The Presidency College,                     P. P. S. SASTRI,
 गुहायां निहितानि त्वं मम रत्नानि पृच्छसि।  
 यदा मे भविता कालस् तदा त्वं तानि द्रक्ष्यसे॥२९॥
 
-
-
 न त्वेतदनुरूपं ते यशसो वा कुलस्य वा।  
 समृद्धार्थोऽसमृद्धार्थं यन्मां कथितुमर्हसि॥३०॥
 
@@ -18442,8 +17252,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८८॥ मोक्षधर्मपर्वणि षष्टितमोऽध्यायः॥ ६०॥  
 \[ अस्मिन्नध्याये ३३ श्लोकाः\]  
 ![](../books_images/U-IMG-1703489126मम.png)
-
-
 
 **॥नवाधिकद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1703489232नन.png)
@@ -18484,8 +17292,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^628]: "ग—लक्ष्येदं    घ—लक्ष्येमं"
 
-
-
 तस्माच्छक्र न शोचामि सर्वं ह्येवेदमन्तवत्॥५॥
 
 अन्तवन्त इमे देहा भूतानामर्मराधिप।  
@@ -18515,8 +17321,6 @@ The Presidency College,                     P. P. S. SASTRI,
 सुखं दुःखं फलं चैव न द्वेष्मि न च कामये॥१३॥
 
 हतं हन्ति हतो ह्येव यो नरो हन्ति कञ्चन।
-
-
 
 उभौ तौ न विजानीतो यश्च हन्ति हतश्च यः॥१४॥
 
@@ -18549,8 +17353,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यदि मे पश्यतः कालो भूतानि न विनाशयेत्।
 
-
-
 स्यान्मे हर्षश्च दर्पश्च क्रोध शचीपते॥२२॥
 
 तुषभक्षं हि मां ज्ञात्वा प्रविविक्तजने गृहे।  
@@ -18582,8 +17384,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 नाहं तदनुशोचामि नात्मभ्रंशं शचीपते।
 
-
-
 एवं मे निश्चिता बुद्धिः विधेस्तिष्ठाम्यहं वशे॥३२॥
 
 दृश्यते हि कुले जातो दर्शनीयः प्रतापवान्।  
@@ -18611,8 +17411,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 न तु विक्रमकालोऽयं क्षमाकालोऽयमागतः।  
 कालस्स्थापयते सर्व कालःपचति वै तथा॥४०॥
-
-
 
 मां चेदभ्यागतः कालो दानवेश्वरमूर्जितम्।  
 वगर्जन्तं प्रतपन्तं च कमन्यं नागमिष्यति॥४०॥
@@ -18644,8 +17442,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अनादिनिधनं प्राहुर् अक्षरं परमेव च॥४८॥
 
 [^636]: "ग—अर्धपञ्चकं नास्ति"
-
-
 
 सत्त्वेषु लिङ्गमावेद्यम् अलिङ्गमपि तत् स्वयम्।  
 मन्यन्ते ध्रुवमेवैनं ये जनास्तत्त्वदर्शिनः॥४९॥
@@ -18680,8 +17476,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 त्वामध्यतिबलं शक्र देवराजं बलोत्कटम्।
 
-
-
 प्राप्ते काले महावीर्यः कालस्संशमयिष्यति॥५६॥
 
 य इदं सर्वमादत्ते तस्माच्छक स्थिरो भव।  
@@ -18701,8 +17495,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि एकषष्टितमोऽध्यायः॥६१॥  
 \[अस्मिन्नध्याये ६० श्लोकाः\]  
 ![](../books_images/U-IMG-1703491620मम.png)
-
-
 
 ॥दशाधिकद्विशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1703491847NNNN.png)
@@ -18733,8 +17525,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 का त्वं बलेरपक्रान्ता रोचमाना शिखण्डिनी।  
 अजानतो ममाचक्ष्व नामधेयं शुचिस्मिते॥५॥
-
-
 
 का नु तिष्ठसि मायेव दीप्यमाना स्वतेजसा।  
 हित्वा दैत्येश्वरं सुश्रु तन्ममाचक्ष्व पृच्छतः॥६॥
@@ -18768,8 +17558,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सत्ये स्थिताऽस्मि दाने च व्रते तपसि चैव हि।  
 पराक्रमे च धर्मे च पराचीनस्ततो बलिः॥१२॥
-
-
 
 ब्रह्मण्योऽयं पुरा भूत्वा सत्यवादी जितेन्द्रियः।  
 अग्नित्रयं[^644] ब्राह्मणान् वै उपासित्वाऽस्पृशद्वतम्॥१३॥
@@ -18806,8 +17594,6 @@ The Presidency College,                     P. P. S. SASTRI,
 स्थास्यामि नित्यं देवेन्द्र यथा त्वयि निबोध तत्।  
 विधिना वेददृष्टेन चतुर्धा विभजस्व माम्॥१९॥
 
-
-
 **शक्रः**—
 
 अहं वै त्वां निधास्यामि यथाशक्ति यथाबलम्।  
@@ -18843,8 +17629,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एष मे निहितः पादो योऽयममौ प्रतिष्ठितः।  
 चतुर्थं शऋ पादं मे तस्मात् सुनिहितं कुरु॥२८॥
 
-
-
 **शक्रः**—
 
 ये वै सन्तो मनुष्येषु ब्रह्मण्यास्सत्यवादिनः।  
@@ -18879,8 +17663,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ब्रह्मणाऽस्मि समादिष्टो न हन्तव्यो भवानिति।
 
-
-
 तेन तेऽहं बले वज्रं न मुश्वामि तु मूर्धनि॥३३॥
 
 यथेष्टं गच्छ दैत्येन्द्र स्वस्ति तेऽस्तु महासुर॥३४॥
@@ -18906,8 +17688,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि द्विषष्टितमोऽध्यायः॥६२॥  
 \[अस्मिन्नध्याये ३८॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1703582523मम.png)
-
-
 
 **॥एकादशाधिकद्विशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1703582672नन.png)**
@@ -18941,8 +17721,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ध्यातव्यं मनसा हृद्यं कल्याणं वै विजानता॥६॥
 
-
-
 यथा यथा हि पुरुषः कल्याणे कुरुते मनः।  
 तथैवास्य प्रसिध्यन्ति सर्वार्था नात्र संशयः॥७॥
 
@@ -18970,8 +17748,6 @@ The Presidency College,                     P. P. S. SASTRI,
 पर्यायैर्हन्यमानानाम् अभिषङ्गो न विद्यते।  
 दुःखमेतत्तु यद्द्वेष्टा कर्ताऽहमिति मन्यते॥१३॥
 
-
-
 ऋषींश्च देवांश्च महासुरांश्च  
 त्रैविद्यवृद्धांश्च महामुनींश्च।  
 कानापदो नाभिभवन्ति लोके  
@@ -18996,8 +17772,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 संसत्सदः परिषदस्सभासदस्  
 सम्प्राप्य योऽनु कुरुते सदा भयम्।
-
-
 
 सद्धर्मतत्त्वमवगाह्य बुद्धिमान्  
 यो ह्यभ्युपैति स धुरन्धरो नरः॥१८॥
@@ -19026,8 +17800,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८८॥ मोक्षधर्मपर्वणि त्रिषष्टितमोऽध्यायः॥६३॥  
 \[अस्मिन्नध्याये २३ श्लोकाः\]  
 ![](../books_images/U-IMG-1703583443मम.png)
-
-
 
 **॥द्वादशाधिकद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1703583646नन.png)
@@ -19060,8 +17832,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^651]: "ग—बलेश्शक्रस्य संवादं"
 
-
-
 वृत्ते देवासुरे युद्धे दैत्यदानवसङ्क्षये।  
 विष्णुकान्तेषु लोकेषु देवराजे शतक्रतो॥७॥
 
@@ -19091,8 +17861,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तपसा भावितत्वाद्वा सर्वेयैतत् सुदुष्करम्॥१४॥
 
 शत्रुभिर्वशमानीतो हीनस्स्थानादनुत्तमात्।
-
-
 
 वैरोचने किमाश्रित्य शोचितव्ये न शोचसि॥१५॥
 
@@ -19125,8 +17893,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^653]: " ख–ग—र्वशस्थस्य"
 
-
-
 हस्तप्राप्तस्य वीरस्य तमेव पुरुषं विदुः॥२३॥
 
 अनिश्चयो हि युद्धेषु द्वयोर्विवदमानयोः।  
@@ -19154,8 +17920,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 न विद्या न तपो दानं न मित्राणि न बान्धवाः।  
 शक्नुवन्ति परित्रातुं नरं कालेन पीडितम्॥३१॥
-
-
 
 नागामिनमनर्थं हि प्रतिघातशतैरपि।  
 शक्नुवन्ति प्रतिच्छेत्तुम् ऋते बुद्धिबलान्नराः॥३२॥
@@ -19189,8 +17953,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 त्वामप्येवं सुदुर्धर्षं ज्वलन्तं परया श्रिया।
 
-
-
 काले परिणते कालः कालयिष्यति मामिव॥४०॥
 
 बहूनीन्द्रसहस्राणि दैतेयानां युगे युगे।  
@@ -19221,8 +17983,6 @@ The Presidency College,                     P. P. S. SASTRI,
 सवृक्षौषधिगुल्मेयं ससरिगिरिकानना।  
 तानिदानी न पश्यामि यैर्भुक्तेयं पुरा मही॥४८॥
 
-
-
 पृथुर्बलो[^659] मयो भौमो नरकश्शम्बरस्तथा।  
 अश्वग्रीवः पुलोमा च स्वर्भानुरमितप्रभः॥४९॥
 
@@ -19252,8 +18012,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 दैत्येन्द्रा दानवेन्द्राश्च यांश्चान्याननुशुश्रुमः।  
 बहवः पूर्वदैत्येन्द्रास् सन्त्यज्य पृथिवीं गताः॥५५॥
-
-
 
 कालेनाभ्याहतास्सर्वे कालो[^303] हि बलवत्तरः॥५५॥
 
@@ -19288,8 +18046,6 @@ The Presidency College,                     P. P. S. SASTRI,
 त्वं चैवेमां यदा भुक्त्वा पृथिवीं त्यक्ष्यसे पुनः।  
 न शक्ष्यसि तदा शक नियन्तुं शोकमात्मनः॥ ६३॥
 
-
-
 मुञ्चेच्छां कामभोगेषु मुञ्चेमं श्रीभवं मदम्।  
 एवं स्वराज्यनाशे त्वं शोकं सम्प्रसहिष्यसि॥६४॥
 
@@ -19318,8 +18074,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 किं हि कृत्वा त्वमिन्द्रोऽद्य किं च कृत्वा वयं च्युताः  
 कालः कर्ता विकर्ता च सर्वमन्यदकारणम्॥७२॥
-
-
 
 लाभं[^668] विनाशमैश्वर्यं सुखदुःखे भवाभवौ।  
 विद्वान् प्राध्यैवमत्यन्तं न प्रहृष्येन्न च व्यथेत्॥७३॥
@@ -19353,8 +18107,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तं मां परिणते काले परीतं कालवह्निना।
 
-
-
 नियतं कालपाशेन बद्धं शक्र विकत्थसे॥८१॥
 
 अयं स पुरुषश्श्यामो लोकस्य दुरतिक्रमः।  
@@ -19386,8 +18138,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^671]: "अ–क—वज्रमुद्यम्य चायान्तं"
 
-
-
 कस्येह न व्यथेद्बुद्धिर् मृत्योरपि जिघांसतः॥८९॥
 
 सा ते न व्यथते बुद्धिर् अचला तत्वदर्शिनी।  
@@ -19418,8 +18168,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अहोरात्राणि[^674] मासांश्च क्षणान् काष्ठाः कला लवान्।
 
 [^674]: "ख–घ—अहोरात्रान् क्षणान् काष्ठाःकलारसंवत्सरानपि।"
-
-
 
 स वर्धयति[^675] नः कालो वृद्धिं वार्बुषिको यथा॥९७॥
 
@@ -19453,8 +18201,6 @@ The Presidency College,                     P. P. S. SASTRI,
 कालं पश्यति सुव्यक्तं पाणावामलकं यथा॥१०५॥
 
 कालचारित्रतत्त्वज्ञस् सर्वशास्त्रविशारदः।
-
-
 
 वैरोचने कृतार्थोऽसि स्पृहणीयो विजानताम्॥१०६॥
 
@@ -19490,8 +18236,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 चातुर्वर्ण्य यदा कृत्स्नम् अमर्यादं भविष्यति।
 
-
-
 एकैकस्ते तदा पाशः क्रमशः परिमोक्ष्यते॥११५॥
 
 अस्मत्तस्ते भयं नास्ति समयं परिपालय।  
@@ -19522,8 +18266,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शान्तिपर्वणि द्वादशाधिकद्विशततमोऽध्यायः॥२१२॥  
 ॥८८॥ मोक्षधर्मपर्वणि चतुष्षष्टितमोऽध्यायः॥६४॥  
 \[अस्मिन्नध्याये ११९ श्लोकाः\]
-
-
 
 **॥त्रयोदशाधिकद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1703659857नन.png)
@@ -19558,8 +18300,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ध्रुवद्वारभवां गङ्गां जगामावततार च॥६
 
 [^684]: "ख—विविक्षु"
-
-
 
 सहस्रनयनश्चापि वत्री शम्बरवृत्रहा[^685]।  
 तस्या देवर्षिजुष्टायास् तीरमभ्याजगाम ह॥७॥
@@ -19598,8 +18338,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 दिव्याभिरभिरूपाभिर् अप्सरोभिः पुरस्कृताम्।
 
-
-
 बृहतीमंशुमत्प्रख्यां बृहद्भानोरिवार्चिषम्॥१४॥
 
 नक्षत्रकल्पाभरणां तारापतिसमस्रजम्।  
@@ -19630,8 +18368,6 @@ The Presidency College,                     P. P. S. SASTRI,
 भूत्यर्थं सर्वभूतानां पद्मा श्रीः पद्ममालिनी॥२१॥
 
 अहं लक्ष्मीरहं भूतिश् श्रीचाहं बलसूदन।
-
-
 
 अहं श्रद्धा च मेधा च सन्नतिर्विजितिस्स्मृतिः[^692]॥२२॥
 
@@ -19668,8 +18404,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 दानाध्ययनयज्ञाढ्या गुरुदैवतपूजकाः।
 
-
-
 विप्राणामतिथीनां[^695] च तेषां नित्यानुवर्तकाः॥३०॥
 
 [^695]: " ख–घ—गुरुणा"
@@ -19703,8 +18437,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 काल्यं घृतं चान्ववेक्ष्य प्रयता ब्रह्मवादिनः।
 
-
-
 [मङ्गल्यान्यपि](#) चापश्यन् ब्राह्मणांश्चाप्यपूजयन्॥३८॥
 
 सदा हि ददते दानं सदा न प्रत्यगृह्णत।  
@@ -19735,8 +18467,6 @@ The Presidency College,                     P. P. S. SASTRI,
 [^703]: "ख–घ—तपोव्रताः ;ग—तपोन्विताः"
 
 नैके धनन्ति सम्पन्नं न गच्छन्ति परस्त्रियम्।
-
-
 
 ्सर्वभूतेषु वर्तन्ते यथाऽऽत्मनि दयां प्रति॥४५॥
 
@@ -19771,8 +18501,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यूनस्सह समासीनान् वृद्धानभिगतान् सतः।
 
-
-
 नाभ्युत्थानाभिवादाभ्यां यथापूर्वमपूजयन्॥५३॥
 
 वर्तयत्येव पितरि पुत्रः प्राभवतात्मना।  
@@ -19805,8 +18533,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^710]: "क—पिटकान्"
 
-
-
 प्राकारागारविध्वंसान् न स्म ते प्रतिकुर्वते।  
 नाद्रियन्ते पशून् वद्धा यवसेनोदकेन च॥६२॥
 
@@ -19836,8 +18562,6 @@ The Presidency College,                     P. P. S. SASTRI,
 क्रीडारतिविहारेषु परां मुदद्मवाप्नुवन्॥६९॥
 
 प्रभवद्भिः पुरा दायान् अर्हेभ्यःप्रतिपादितान्।
-
-
 
 नान्ववर्तन्त नास्तिक्या वर्तन्तरसम्भवेष्वपि॥७०॥
 
@@ -19869,8 +18593,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अभिदाहेन चोरैर्वा राजभिर्वा हृतं धनम्।
 
-
-
 दृष्ट्वा द्वेषात् प्राहसन्त सुहृत्सम्भावितानपि॥७९॥
 
 कृतघ्ना नास्तिकाः पापा गुरुदाराभिमर्शिनः।  
@@ -19901,8 +18623,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ततोऽनलसखो वायुः प्रववौ देववेश्मसु।  
 इष्टगन्धस्सुखस्पर्शस् सर्वेन्द्रियसुखावहः॥८७॥
 
-
-
 शुचौ चाभ्यर्चिते देशे त्रिदशाः प्रायशस्स्थिताः।  
 लक्ष्म्या सहितमासीनं मघवन्तं दिदृक्षवः॥८८॥
 
@@ -19925,8 +18645,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न धर्ममार्गाद्विचचाल कश्चन।  
 अनेकरत्नाकरभूषणा च भूस्  
 सुघोषयोषा त्रिदिवौकसां जये॥९२॥
-
-
 
 क्रियाभिरामा मनुजा यशस्विनो  
 बभुश्शुभैः पुण्यकृतां पथि स्थिताः।  
@@ -19954,8 +18672,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शान्तिपर्वणि त्रयोदशाधिकद्विशततमोऽध्यायः॥२१३॥  
 ॥८८॥ मोक्षधर्मपर्वणि पञ्चषष्टितमोऽध्यायः॥६५॥  
 \[अस्मिन्नध्याये ९६॥ श्लोकाः\]
-
-
 
 ॥चतुर्दशाधिकद्विशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1703770273NNNN.png)
@@ -19995,8 +18711,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 इति तेनानुयुक्तस्स तमुवाच महातपाः।
 
-
-
 महद्वाक्यमसन्दिग्धं पुष्कलार्थपदं शुचि॥६॥
 
 जैगीषव्यः—
@@ -20028,8 +18742,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 निन्दाप्रशंसे चात्यर्थं न वदन्ति परस्य च।
 
-
-
 न च निन्दाप्रशंसाभ्यां विक्रियन्ते कदाचन॥१४॥
 
 सर्वतश्च प्रशान्ता ये सर्वभूतहिते रताः।  
@@ -20059,8 +18771,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अवज्ञातस्सुखं शेते इह चामुत्र चोभयोः।  
 अमुक्तस्सर्वपापेभ्यो योऽवमन्ता स बध्यते॥२२॥
-
-
 
 गतिं परां तु ये केचित् प्रार्थयन्ति मनीषिणः।  
 एतद्वृत्तं समाश्रित्य सुखमेधन्ति ते जनाः॥२३॥
@@ -20092,8 +18802,6 @@ The Presidency College,                     P. P. S. SASTRI,
 **भीष्मः**—
 
 अत्र ते वर्तयिष्यामि पृच्छतो भरतर्षभ।
-
-
 
 उग्रसेनस्य संवादं नारदे केशवस्य च॥२॥
 
@@ -20130,8 +18838,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^724]: " ग—अनिन्द्यात्मा"
 
-
-
 वीतसम्मोहदोषश्च तस्मात् सर्वत्र पूजितः॥१०॥
 
 सुशीलस्सुखसंवेशस् सुतेजास्स्वाद रश्शुचिः।  
@@ -20164,8 +18870,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 नासूयत्यागमं कश्चित् स्वं तपो नोपजीवति।
 
-
-
 अवन्ध्यकालो वश्यात्मा तस्मात् सर्वत्र पूजितः॥१९॥
 
 कृतश्रमः कृतप्रज्ञो ज्ञानतृप्तस्समाहितः[^727]।  
@@ -20193,8 +18897,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि सप्तषष्टितमोऽध्यायः॥ ६७॥  
 \[अस्मिन्नध्याये २३॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1703772084मम.png)
-
-
 
 **॥षोडशाधिकद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1703772514नन.png)
@@ -20231,8 +18933,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अधीत्य वेदानखिलान् साङ्गोपनिषदांस्तथा।
 
-
-
 अन्विच्छन्नैष्ठिकं कर्म धर्मनैपुणदर्शनात्॥७॥
 
 कृष्णद्वैपायनं व्यासं पुत्रो वैयासकिश्शुकः।  
@@ -20267,8 +18967,6 @@ The Presidency College,                     P. P. S. SASTRI,
 त्रिंशन्मुहूर्तस्तु भवेदहश्च  
 रात्रिश्च सङ्ख्या मुनिभिः प्रणीता।
 
-
-
 मासस्स्मृतो राज्यहनी तु त्रिंशत्  
 संवत्सरो द्वादशमास उक्तः॥१३॥
 
@@ -20299,8 +18997,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 इतरेषु ससन्ध्येषु ससन्ध्यांशेषु च त्रिपु।  
 एकापायेन संयान्ति सहस्राणि शतानि च॥२०॥
-
-
 
 एतानि शाश्वताँल्लोकान् धारयन्ति सनातनान्।  
 इति[^736] तु ब्रह्मविद्यान्तं विदितं ब्रह्म शाश्वतम्॥२१॥
@@ -20335,8 +19031,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एतां द्वादशसाहस्री युगाख्यां कवयो विदुः।
 
-
-
 सहस्रपरिवृत्तं तद् ब्राह्मो दिवस उच्यते॥२९॥
 
 रात्रिस्तु तावती ब्राह्मी तदादौ विश्वमीश्वरः।  
@@ -20355,8 +19049,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि अष्टषष्टितमोऽध्यायः॥६८॥  
 \[अस्मिन्नध्याये ३२ श्लोकाः\]  
 ![](../books_images/U-IMG-1704191246123.png)
-
-
 
 **॥सप्तदशाधिकद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1704191653321.png)
@@ -20389,8 +19081,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ज्योतिषोऽपि विकुर्वाणाद् भवन्त्यापो रसात्मिकाः।  
 अद्भ्यो गन्धगुणा भूमिः पूर्वेषा सृष्टिरुच्यते॥७॥
 
-
-
 गुणाः पूर्वस्य पूर्वस्य प्राप्नुवन्त्युत्तरोत्तरम्।  
 तेषां यावद्विधं यद्यत् तत्तावद्गुणकं स्मृतम्॥८॥
 
@@ -20421,8 +19111,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^743]: "ग—आयं चैव व्ययं चैव सर्व"
 
-
-
 तेषां ये यानि कर्माणि प्राक् सृष्टौ प्रतिपेदिरे।  
 तान्येव ते प्रपद्यन्ते सृज्यमानाः पुनः पुनः॥१६॥
 
@@ -20450,8 +19138,6 @@ The Presidency College,                     P. P. S. SASTRI,
 स तद्भुतश्च सर्वेषां भूतानां भवति प्रभुः॥२३॥
 
 ऋषयस्तपसा वेदान् अध्यैषन्त दिवानिशम्॥२४॥
-
-
 
 अनादिनिधना नित्या वागुत्सृष्टा स्वयम्भुवा।  
 आदौ[^405] वेदमयी दिव्या यतस्सर्वाः प्रवृत्तयः॥२५॥
@@ -20486,8 +19172,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 आरम्भयज्ञा राजानो हविर्यज्ञा विशस्स्मृताः।
 
-
-
 परिचारयज्ञाश्शूद्रास्तु तपोयज्ञा द्विजातयः॥३२॥
 
 त्रेतायुगे विधिस्तेषां यज्ञानां न कृते युगे।  
@@ -20520,8 +19204,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यथा विश्वानि भूतानि वृष्टया भूयांसि प्रावृषि।  
 सृज्यन्ते जङ्गमस्थानि तथा धर्मा युगे युगे॥४०॥
 
-
-
 यथर्तुष्वृतुलिङ्गानि नानारूपाणि पर्यये।  
 दृश्यन्ते तानि तान्येव तथा ब्रह्माहरादिषु॥४१॥
 
@@ -20545,8 +19227,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि एकोनसप्ततितमोऽध्यायः॥६९॥  
 \[अस्मिन्नध्याये ४६॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1704193085123.png)
-
-
 
 ॥अष्टादशाधिकद्विशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1704195520mmm.png)
@@ -20581,8 +19261,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ज्योतिषोऽपि गुणं रूपं वायुराददते यदा।
 
-
-
 प्रशाम्यति तदा ज्योतिर् वायुर्दोधूयते[^665] महान्॥७॥
 
 [^665]: "ख—इतोऽष्टौ पादा न सन्ति"
@@ -20613,8 +19291,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तदव्यक्तं[^756] परं ब्रह्म तच्छाश्वतमनुत्तमम्।
 
 [^756]: "ख—आकाशस्य यदा घोषं तं विद्यात् कुरुतेऽऽत्मनि। [अधिकः पाठः]"
-
-
 
 एवं सर्वाणि भूतानि ब्रह्मैव[^757] प्रतिसंहरेत्॥१५॥
 
@@ -20647,8 +19323,6 @@ The Presidency College,                     P. P. S. SASTRI,
 जातकर्मप्रभृत्यस्य कर्मणां दक्षिणावताम्।  
 क्रिया स्यादासमावृत्तेर् आचार्ये वेदपारगे॥२॥
 
-
-
 अधीत्य वेदानखिलान् गुरुशुश्रूषणे रतः।  
 गुरूणामनृणो भूत्वा समावर्तेत यज्ञवित्॥३॥
 
@@ -20676,12 +19350,8 @@ The Presidency College,                     P. P. S. SASTRI,
 अध्यापयेदधीयीत याजयेत यजेत वा।  
 न वृथा प्रतिगृह्णीयान्त्र च दद्यात् कथञ्चन॥११॥
 
-
-
 याज्यतशिशष्यतो वाऽपि कन्यया वा धनं सह।  
 यद्यागच्छेद्य जेद्दद्यान्नै कोऽश्रीयात् कथञ्चन॥१२॥
-
-
 
 गृहमावसतो ह्यस्य नान्यत्तीर्थमुदाहृतम्।  
 देवर्षिपितृगुर्वर्थं वृद्धातुरबुभुक्षताम्॥१३॥
@@ -20709,8 +19379,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 शिबिरौशीनरोऽङ्गानि सुतं च प्रियमौरसम्।  
 ब्राह्मणार्थमुपाकृत्य नाकपृष्ठमितो गतः॥१९॥
-
-
 
 प्रतर्दनः काशिपतिः प्रदाय नयने स्वके।  
 ब्राह्मणायातुलां कीर्तिम् इह चामुत्र चाश्नुते॥२०॥
@@ -20744,8 +19412,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^762]: "ख–ग—करन्धमस्य"
 
-
-
 कन्यामङ्गिरसे दत्त्वा दिवमाशु जगाम ह॥२८॥
 
 ब्रह्मदत्तश्च पालाल्यो राजा बुद्धिमतां वरः।  
@@ -20775,8 +19441,6 @@ The Presidency College,                     P. P. S. SASTRI,
 सवत्सानां महातेजा गतो लोकाननुत्तमान्॥३६॥
 
 एते चान्ये च बहवो दानेन तपसा च ह।
-
-
 
 महात्मानो गतास्स्वर्ग शिष्टात्मानो जितेन्द्रियाः॥३७॥
 
@@ -20809,8 +19473,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एवं धर्मेण वर्तेत क्रियाश्शिष्टवदाचरेत्॥२॥
 
 असंरोधेन भूतानां वृत्तिं लिप्सेत वै द्विजः।
-
-
 
 सद्भ्य आगतविज्ञानश् शिष्टश्शास्त्रविचक्षणः॥३॥
 
@@ -20847,8 +19509,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^768]: "अ–क–घ—कोविदः"
 
-
-
 महता विधिदृष्टेन बलिनाऽप्रतिघातिना।  
 स्वभावस्त्रोतसा नित्यम् उद्यते सततं जगत्॥१२॥
 
@@ -20878,8 +19538,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 संशयात्तु स कामात्मा चलचित्तोऽल्पचेतनः।  
 अप्राज्ञो न तरत्येव यो ह्यास्ते न स गच्छति॥१९॥
-
-
 
 अप्लवो[^213] हि महान् दोषो मोहमात्मनि गच्छति।  
 कामग्राहगृहीतस्य[^773] ज्ञानमध्यस्य न प्लवः॥२०॥
@@ -20915,8 +19573,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 धृतिमानप्रमत्तश्च दान्तो धर्मविदात्मवान्।
 
-
-
 वीतहर्षभयोधो[^776] ब्राह्मणो नावसीदति॥२८॥
 
 [^776]: "ख—मद"
@@ -20937,8 +19593,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि द्विसप्ततितमोऽध्यायः॥७२॥  
 \[अस्मिन्नध्याये ३१॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1704198096ववव.png)
-
-
 
 ॥एकविंशत्यधिकद्विशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1704198313ननन.png)
@@ -20971,8 +19625,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यदि वा सर्ववेदज्ञो यदि वाऽप्यनृचो जपन्।  
 यदि वा धार्मिको यज्वा यदि वा पापकृत्तमः॥६॥
 
-
-
 यदि वा पुरुषव्याघ्रो यदि वैक्लब्यधारणः।  
 तरत्येवं महादुर्गं जरामरणसागरम्॥७॥
 
@@ -21002,8 +19654,6 @@ The Presidency College,                     P. P. S. SASTRI,
 [^780]: "ख—पश्यतः"
 
 क्रमशःपार्थिवं यच्च वायव्यं खं तथा पयः॥१४॥
-
-
 
 ज्योतिषो यत्तदैश्वर्यम् अहङ्कारस्य बुद्धितः।  
 अव्यक्तस्य तथैश्वर्य क्रमशः प्रतिपद्यते॥१५॥
@@ -21038,8 +19688,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^785]: "ख—अथ श्वेतां गतिं गत्वा वायव्यं सूक्ष्ममप्यजम्। सुशुक्लंचेतसस्सौक्ष्ममव्यक्तं ब्राह्मणस्य वै॥[पाठान्तरम् ]"
 
-
-
 तस्मिन्नुपरते चास्य बुद्धिरूपं प्रकाशते।  
 सुशुलं चेतसरसौम्यम् अव्यक्ते ब्राह्मणस्य वै॥२३॥
 
@@ -21070,8 +19718,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तथा व्यक्तमयीं चैव संख्यापूर्व निबोध मे॥३१॥
 
-
-
 पञ्चविंशतितत्त्वानि तुल्यान्युभयतस्समम्।  
 योगे सामन्येऽपि च तथा विशेषांस्तत्र मे शृणु॥३२॥
 
@@ -21101,8 +19747,6 @@ The Presidency College,                     P. P. S. SASTRI,
 नैवेच्छति न चानिच्छो यात्रामात्रव्यवस्थितः॥३९॥
 
 अलोलुपोऽव्यथो दान्तो नाकृतिर्न निराकृतिः।
-
-
 
 नास्येन्द्रियमनेकामं नातिक्षिप्तो मनोरथः॥४०॥
 
@@ -21137,8 +19781,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 किं तज्ज्ञानमयो विद्या यथा निस्तरति द्वयम्।
 
-
-
 प्रवृत्तिलक्षणो धर्मो निवृत्तिरिति चैव हि॥२॥
 
 व्यासः—
@@ -21169,8 +19811,6 @@ The Presidency College,                     P. P. S. SASTRI,
 प्रज्ञावन्तः प्रवक्तारो ज्ञानवद्भिरनुष्ठिताः॥९॥
 
 [^790]: "ग—गदानामगदस्य च"
-
-
 
 प्रज्ञा संयोजयत्यर्थैःप्रज्ञा श्रेयोऽधिगच्छति।  
 राजानो भुञ्जते राज्यं प्रज्ञया तुल्यलक्षणाः॥१०॥
@@ -21203,8 +19843,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^794]: "ख—मध्य"
 
-
-
 धर्मज्ञानि द्वयान्याहुर् वेदज्ञानीतराणि च।  
 वेदज्ञानि विशिष्टानि वेदो ह्येषु प्रतिष्ठितः॥१७॥
 
@@ -21232,8 +19870,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तेषु विश्वमिदं भूतं सायं च जगदाहितम्।  
 तेषां माहात्म्यभावस्य सदृशं नास्ति किश्चन॥२४॥
-
-
 
 आद्यन्तं[^798] निधनं चैव धर्म चाधीत्य सर्वशः।  
 चतुर्विधस्यभूतस्य सर्वस्येशास्स्वयम्भुवः॥२५॥
@@ -21266,8 +19902,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^799]: "ग—किं तत्र वेदवित्साध्यं"
 
-
-
 पौरुषं कारणं केचित् केचित् कर्मेति मानवाः।  
 दैवमेके प्रशंसन्ति स्वभावमपरे जनाः॥४॥
 
@@ -21298,8 +19932,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^801]: "ख—दानयज्ञाः"
 
-
-
 परिचारयज्ञाश्शूद्रास्तुं जपयज्ञा द्विजातयः॥१२॥
 
 परिनिष्ठितकार्यो हि स्वाध्यायेन द्विजो भवेत्।  
@@ -21325,8 +19957,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 धातेदं प्रभवस्थानं भूतानां संयमो यमः।  
 स्वभावेनैव वर्तन्ते द्वन्द्वसृष्टानि भूरिशः॥२०॥
-
-
 
 सर्गः कालः क्रिया वेदाः कर्ता कार्यं क्रियाफलम्।  
 एतत्ते कथितं तात यन्मां त्वं परिपृच्छसि॥२१॥
@@ -21361,8 +19991,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^803]: "ग—सांस्ये वा यदि वा योगे"
 
-
-
 मनसश्चेन्द्रियाणां च ऐकाव्यं यदवाप्यते।  
 येनोपायेन पुरुषैस् तच्च व्याख्यातुमर्हसि॥४॥
 
@@ -21395,8 +20023,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 इन्द्रियाणां यथा तेषां सर्वेषामीश्वरं मनः।
 
-
-
 नियमे च विसर्गे च भूतात्मा मनसस्तथा॥१२॥
 
 इन्द्रियाणीन्द्रियार्थाश्च स्वभावश्चेतना मनः।  
@@ -21426,8 +20052,6 @@ The Presidency College,                     P. P. S. SASTRI,
 वसत्येको महानात्मा येन सर्वमिदं ततम्॥२०॥
 
 सर्वभूतेषु चात्मानं सर्वभूतानि चात्मनि।
-
-
 
 यदा पश्यति भूतात्मा ब्रह्म सम्पद्यते तदा॥२१॥
 
@@ -21459,8 +20083,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तस्मात् सूक्ष्मतरं नास्ति नास्ति स्थूलतमं ततः॥२८॥
 
 सर्वतः पाणिपादं तत् सर्वतोक्षिशिरोमुखम्।
-
-
 
 सर्वतश्श्रुतिमल्लोके सर्वमावृत्य तिष्ठति॥२९॥
 
@@ -21494,8 +20116,6 @@ The Presidency College,                     P. P. S. SASTRI,
 \[ अस्मिन्नध्याये ३५॥ श्लोकाः \]  
 ![](../books_images/U-IMG-1704202677ववव.png)
 
-
-
 **॥पञ्चविंशत्यधिकद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1704202829ललल.png)
 
@@ -21526,8 +20146,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अप्रमादाद्वयं जह्याल्लोभं प्राज्ञोपसेवनात्।  
 एवमेतान् योगदोषाञ् जयेन्नित्यमतन्द्रितः॥६॥
-
-
 
 धृत्या शिश्नोदरं रक्षेत् पाणिपादं च चक्षुषा।  
 चक्षुश्श्रोत्रं[^812] च मनसा मनो वाचं च विद्यया॥७॥
@@ -21562,8 +20180,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 जन्तोः पञ्चेन्द्रियस्यास्य यदेकं छिद्रमिन्द्रियम्।
 
-
-
 ततोऽस्य स्रवति प्रज्ञा दृतेः पादादिवोदकम्॥१५॥
 
 मनस्तु पूर्वमादद्यात् कुलीरमिव[^816] मत्स्यहा।  
@@ -21594,8 +20210,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एवं परिमितं कालम् आचरन् संशितव्रतः।  
 आसीनो हि रहस्येको गच्छेदक्षरसात्मताम्॥२२॥
-
-
 
 प्रमादो[^820] भ्रम आवर्ती घ्राणं श्रवणदर्शने।  
 अद्भुतानि रसस्पर्शे शीतोष्णे मारुताकृतिः॥२३॥
@@ -21628,8 +20242,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 यश्चैनमभिनिन्देत यश्चैनमपि वादयेत्।  
 समस्तयोचाप्युभयोर् नाभिध्यायेच्छुभाशुभम्॥३०॥
-
-
 
 न प्रहृष्येत लाभेषु नालाभेष्वथ चिन्तयेत्।  
 समस्सर्वेषु भूतेषु सधर्मा मातरिश्वनः॥३१॥
@@ -21668,8 +20280,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि सप्तसप्ततितमोऽध्यायः॥७७ ॥  
 \[अस्मिन्नध्याये ३६ श्लोकाः\]
 
-
-
 **॥षड्विंशत्यधिकद्विशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1704204204mmm.png)**
 
@@ -21703,8 +20313,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अस्ति धर्म इति ह्युक्त्वा नास्तीत्यत्रैव यो वदेत्।  
 तस्य पक्षस्य सदृशम् इदं मम भवेदथ॥५॥
 
-
-
 द्वाविमावथ पन्थानौ यत्र वेदाः प्रतिष्ठिताः।  
 प्रवृत्तिलक्षणो धर्मो निवृत्तौ च व्यवस्थितः॥६॥
 
@@ -21731,8 +20339,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अव्याहतमनायासम् अमृतं त्वं च विन्दति॥१३॥
 
 [^830]: "ख—यदत्र ब्रह्म परममव्यक्तमजरं ग—तद्याति परमं ब्रह्म परमव्यक्तमध्रुवम्।"
-
-
 
 द्वन्द्वैर्यत्र न बध्यन्ते मानसेन च कर्मणा।  
 समास्सर्वत्र मैत्राश्च सर्वभूतहिते रताः॥१४॥
@@ -21763,8 +20369,6 @@ The Presidency College,                     P. P. S. SASTRI,
 जीवमात्मगुणं विद्याद् आत्मानं परमात्मनः॥२०॥
 
 [^833]: "स्व—बुद्धिजोवगुणानिमान्"
-
-
 
 अचेतनं जीवगुणं वदन्ति  
 स चेष्टते चेष्ट्रयते च सर्वम्।  
@@ -21798,8 +20402,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^835]: "ख—तच्च व्याख्यातुमर्हसि"
 
-
-
 लोकवृत्तान्ततत्त्वज्ञः पूतोऽहं गुरुशासनात्।  
 कृत्वा बुद्धि विमुक्तात्मा द्रक्ष्याम्यात्मानमात्मना॥४॥
 
@@ -21829,8 +20431,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 इत्येतच्छोतुमिच्छामि भगवन् प्रब्रवीतु मे।  
 कर्मणामविरोधेन कथमेतत् प्रवर्तते॥११॥
-
-
 
 **भीष्मः**—
 
@@ -21862,8 +20462,6 @@ The Presidency College,                     P. P. S. SASTRI,
 कर्मशेषेण तु गुरोर् अध्येतव्यं बुभूषता।  
 दक्षिणेनोपसादी स्याद् आहूतो गुरुमाव्रजेत्॥१९॥
 
-
-
 शुचिर्दक्षो गुणोपेतो ब्रूयादिष्टमिवान्तरा[^838]।  
 चक्षुषा गुरुमव्यग्रो निरीक्षेत जितेन्द्रियः॥२०॥
 
@@ -21894,8 +20492,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 वेदव्रतोपवासेन चतुर्थे चायुषो गते।  
 गुरवे दक्षिणां दत्वा समावर्तेद्यथाविधि॥२८॥
-
-
 
 धर्मलब्धैर्युतो दारैर् अमीनुत्पाद्य यत्नतः।  
 द्वितीयमायुषो भागं गृहमेधी व्रती भवेत्॥२९॥
@@ -21931,8 +20527,6 @@ The Presidency College,                     P. P. S. SASTRI,
 षट्कर्मा वर्तयत्येकस् त्रिभिरेकः प्रवर्तते।  
 द्वाभ्यामेकश्चतुर्थश्च ब्रह्मसत्रे व्यवस्थितः॥४॥
 
-
-
 गृहमेधिव्रतान्यत्र महान्तीह प्रचक्षते॥४॥
 
 नात्मार्थे पाचयेदन्नं न वृथा घातयेत् पशून्।  
@@ -21964,8 +20558,6 @@ The Presidency College,                     P. P. S. SASTRI,
 भृत्यशेषं तु योऽनाति तमाहुर्विघसाशिनम्॥  
 स्वदारनिरतो दान्तो ह्यनसू युर्जितेन्द्रियः॥१३॥
 
-
-
 ऋत्विक्पुरोहिताचार्येर् मातुलातिथिसंश्रितैः।  
 बालवृद्धातुरैर्वैद्यैर् ज्ञातिसम्बन्धिबान्धवैः॥१४॥
 
@@ -21994,8 +20586,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 परस्परं तथैवाहुश् चातुराश्रम्यमेव तत्।  
 ये चोक्ता नियमास्तेषां सर्व कार्य बुभूषता॥२२॥
-
-
 
 कुम्भीधान्यैरुञ्छशिलैः कापोतीं चास्थितैस्तथा।  
 यस्मिंश्चैतेवसन्त्यस् तद्राष्ट्रमभिवर्धते॥२३॥
@@ -22027,8 +20617,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शान्तिपर्वणि अष्टाविंशत्यधिकद्विशततमोऽध्यायः॥२२८॥  
 ॥८८॥ मोक्षधर्मपर्वणि अशीतितमोऽध्यायः॥८०॥  
 \[अस्मिन्नध्याये २९ श्लोकाः\]
-
-
 
 ॥एकोनत्रिंशदधिकद्विशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1704277071mmm.png)
@@ -22067,8 +20655,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^846]: "ख—प्रयत्नवान्"
 
-
-
 तदग्निहोत्रं ता गावो यज्ञाङ्गानि च सर्वशः॥६॥
 
 अकृष्टं[^847] वै व्रीहियवं नीवारं विघसानि च।  
@@ -22102,8 +20688,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 वर्तयन्ति यथान्यायं वैखानसमते स्थिताः॥१४॥
 
-
-
 एताश्चान्याश्च विविधा दीक्षास्तेषां मनीषिणाम्[^851]॥१४॥
 
 [^851]: "ख—महात्मनाम्"
@@ -22135,8 +20719,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^855]: "ख–ग–घ—सिकताश्च"
 
-
-
 कर्मभिस्ते निरानन्दा धर्मनित्या जितेन्द्रियाः।  
 गताः प्रत्यक्षधर्माणस् ते सर्वे वनमाश्रिताः॥२१॥
 
@@ -22166,8 +20748,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अभयं सर्वभूतेभ्यो दत्त्वा यः प्रव्रजेत् पुनः।  
 लोकास्तेजोमयास्तस्य प्रेत्य चानन्त्यमश्नुते॥२८॥
 
-
-
 सुनीतवृत्तो व्यपनीतकल्मषो  
 न चेह नामुत्र च कर्म हीयते।  
 अरोपमोहो गतसन्धिविग्रहो  
@@ -22192,8 +20772,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥मोक्षधर्मपर्वणि एकाशीतितमोऽध्यायः॥८१॥  
 \[ अस्मिन्नध्याये ३१॥ श्लोकाः \]  
 ![](../books_images/U-IMG-1704287426ववव.png)
-
-
 
 **॥त्रिंशदधिकद्विशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1704287720mmm.png)**
@@ -22230,8 +20808,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 कपालं वृक्षमूलानि कुचेलमसहायता।
 
-
-
 उपेक्षा सर्वभूतानाम् एतावद्भिक्षुलक्षणम्॥७॥
 
 यस्मिन् वाचः प्रणश्यन्ति कूपे प्रास्तारिशला इव।  
@@ -22263,8 +20839,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न कुप्येन्न प्रहृष्येच मानितोऽमानितश्च यः।  
 सर्वभूतेष्वभयदस् तं देवा ब्राह्मणं विदुः॥१४॥
 
-
-
 नाभिनन्देत मरणं नाभिनन्देत जीवितम्।  
 कालमेव प्रतीक्षेत निर्वेशं[^866] भृतको यथा॥१५॥
 
@@ -22293,8 +20867,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न मृत्युरधिको[^869] भावात् स मुक्तिमधिगच्छति॥२१॥
 
 [^869]: "क—न मृत्युरधिरोहाय स मृत्युमधि + ति ख—रधिको+स मुक्तिमधिगच्छति ग—रधिको + स मृत्युरधिगच्छति घ—रधिको + स मृत्युमधिगच्छति"
-
-
 
 विमुक्तं सर्वसङ्गेभ्यो मुनिमाकाशवत् स्थितम्।  
 आकाशशरणं शान्तं तं देवा ब्राह्मणं विदुः॥२२॥
@@ -22326,8 +20898,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^872]: "ख—उत्तानमास्येन"
 
-
-
 प्रादेशमात्रे हि हृदि स्थितं यत्  
 तस्मिन् प्राणानात्मयाजी जुहोति।  
 तस्याग्निहोत्रं हुतमात्मसंस्थं  
@@ -22351,8 +20921,6 @@ The Presidency College,                     P. P. S. SASTRI,
 हिरण्मयं चाण्डजमण्डमध्ये।  
 पतत्रिणं पक्षिणमन्तरिक्षे  
 यो वेद भोग्यात्मनि दीप्तरश्मिम्॥३१॥
-
-
 
 आवर्तमानमजरं विवर्तनं  
 षण्णेमिनं द्वादशारं सुपर्व।  
@@ -22379,8 +20947,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न चेह नामुत्र च सोऽर्थमिच्छति[^877]॥३५॥
 
 [^877]: "ग—लोभमृच्छति"
-
-
 
 अरोषणो यस्समलोष्टकाञ्चनः  
 प्रहीणशोको गतसन्धिविग्रहः।  
@@ -22413,8 +20979,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 महतः परमव्यक्तम् अव्यक्तात् पुरुषः परः।
 
-
-
 पुरुषान्न परं किञ्चित् सा काष्ठा सा परा गतिः॥४॥
 
 एवं सर्वेषु भूतेषु गूढो त्मा न प्रकाशते।  
@@ -22444,8 +21008,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एवं पूर्वापरे रात्रौ युञ्जन्नात्मानमात्मना।  
 लघ्वाहारो विशुद्धात्मा पश्यत्यात्मानमात्मनि॥१२॥
-
-
 
 रहस्यं सर्ववेदानाम् अनैतिह्यमनागतम्।  
 आत्मप्रत्ययिकं शास्त्रम् इदं पुत्रानुशासनम्॥१३॥
@@ -22478,8 +21040,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अतो गुह्यतरार्थं यद् अध्यात्ममतिमानुषम्।  
 यत्तन्महर्षिभिर्दृष्टं वेदान्तेषु च गीयते॥२१॥
-
-
 
 तत्तेऽहं वर्तयिष्यामि यदि मां परिपृच्छसि॥२१॥
 
@@ -22516,8 +21076,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 भूमिरापस्तथा ज्योतिर् वायुराकाशमेव च।
 
-
-
 महाभूतानि पञ्चैव सागरस्योर्मयो यथा॥३॥
 
 प्रसार्येह यथाऽङ्गानि कूर्मस्संहरते पुनः।  
@@ -22551,8 +21109,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 घ्रेयं घ्राणं शरीरं च भूमेरेते गुणास्त्रयः।
 
-
-
 श्रोत्रं[^119] त्वक् चक्षुषी जिह्वा नासिका चैव पञ्चमी॥११॥  
 एतावानिन्द्रियग्रामो व्याख्यातः पाश्र्वभौतिकः॥११॥
 
@@ -22583,8 +21139,6 @@ The Presidency College,                     P. P. S. SASTRI,
 मनष्षष्ठानीन्द्रियाणि बुद्ध्यभावे कुतो गुणाः॥१९॥
 
 तत्र यत् प्रीतिसंयुक्तं किश्चिदात्मनि लक्षयेत्।
-
-
 
 प्रशान्तमिव संशुद्धं सत्त्वं तदुपधारयेत्॥२०॥
 
@@ -22618,8 +21172,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ८८॥ मोक्षधर्मपर्वणि चतुरशीतितमोऽध्यायः॥८४॥  
 \[अस्मिन्नध्याये २५॥\]  
 ![](../books_images/U-IMG-1704292221ववव.png)
-
-
 
 ॥त्रयस्त्रिंशदधिकद्विशततमोऽध्यायः॥  
 
@@ -22655,8 +21207,6 @@ The Presidency College,                     P. P. S. SASTRI,
 इन्द्रियाणीति यान्याहुस् तेवदृश्याऽधितिष्ठति।  
 तिष्ठती पुरुषे बुद्धिस् त्रिषु भावेषु वर्तते॥६॥
 
-
-
 कदाचिल्लभते प्रीतिं कदाचिदपि शोचति।  
 न सुखेन न दुःखेन कदाचिदिह युज्यते॥७॥
 
@@ -22691,8 +21241,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 न ह्यात्मा शक्यते द्रष्टुम् इन्द्रियैः कामगोचरैः।
 
-
-
 प्रवर्तमानैरनयैर दुर्धर्वैरकृतात्मभिः॥१५॥
 
 तेषां तु मनसा रश्मीन् यदा सम्यङ्गियच्छति।  
@@ -22723,8 +21271,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सृजतेऽत्र गुणानेक एको न सृजते गुणान्।  
 पृथग्भूतौ प्रकृत्या तौ सम्प्रयुक्तौ च सर्वदा॥२२॥
-
-
 
 यथा मत्स्योऽद्भिरन्यस्सन् सम्प्रयुक्तस्तथैव तौ।  
 मशकोदुम्बरौ वाऽपि सम्प्रयुक्तौ तथैव हि॥२३॥
@@ -22758,8 +21304,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एवमेके व्यवस्यन्ति निवृत्तिरिति चापरे॥३॥
 
 उभयं सम्प्रधातद् अध्यवस्येद्यथामति॥३॥
-
-
 
 इतीमं हृदयप्रन्थि बुद्धिचिन्तामयं दृढम्।  
 अतीत्य सुखमासीत न शोचंश्छिन्नसंशयः॥४॥
@@ -22797,8 +21341,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 *व्यक्तमाश्चापि यस्यैते तथा युक्तेन योगतः।  
 तथास्यं भवयुक्तस्य विधिमात्मनि पश्यतः॥*
-
-
 
 पूर्वतोऽनुवृतम्—
 
@@ -22841,8 +21383,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यतो निस्सरतो लोको भवति व्यक्तसंज्ञकः।  
 तत्रासन्नमयीं व्याख्यां शृणु त्वं विस्तरेण वै॥
 
-
-
 समवेक्ष्य शनैस्सम्यग् लभते गतिमुत्तमाम्॥९॥
 
 एतद्वै जन्मसामग्र्यं ब्राह्मणस्य विशेषतः।  
@@ -22884,8 +21424,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 इति शान्तिपर्वणि मोक्षधर्मे पञ्चसप्ततितमोऽध्यायः॥
 
-
-
 एवं बुद्ध्वाभवेद्बुद्धः किमन्यद्बुद्धलक्षणम्[^902]।  
 विज्ञायैतद्विमुच्यन्ते कृतकृत्या मनीषिणः॥
 
@@ -22903,8 +21441,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ![](../books_images/U-IMG-1704341946123.png)
 
 [^903]: "ख–ग—लोकमातुरमसूयते जनस् तप्तदेव च निरीक्ष्य शोचते। तल पश्य कुशलानशोचतो ये विदुस्तदुभयं कृताकृतम्॥  यः करोत्यन भिसन्धिपूर्वकं तच निर्णुदति यत् पुरा कृतम्। नाप्रियं तदुभयं कुतः प्रियं तस्य तज्जनयतीह कुर्वतः॥[अधिकः पाठः]"
-
-
 
 ॥पञ्चत्रिंशदधिकद्विशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1704379954ललल.png)
@@ -22941,8 +21477,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सर्वात्मानं महात्मानं विधूममिव पावकम्।
 
-
-
 सम्पश्यन्ति महात्मानो ब्राह्मणा ये मनीषिणः॥७॥
 
 यथा पुष्पफलोपेतो बहुशाखो महाद्रुमः।  
@@ -22970,8 +21504,6 @@ The Presidency College,                     P. P. S. SASTRI,
 आत्मजन्मोद्भवां तात जिह्वावर्तां दुरासदाम्॥१५॥
 
 यां तरन्ति कृतप्रज्ञा धृतिमन्तो मनीषिणः॥१५॥
-
-
 
 तां तीर्णस्सर्वतोमुक्तः पूतात्मा[^906] ह्यात्मविच्छुचिः।  
 उत्तमां बुद्धिमास्थाय ब्रह्मभूयं भविष्यसि॥१६॥
@@ -23003,8 +21535,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^908]: "ख—ज्ज्ञात्वा"
 
-
-
 यथा मतानि सर्वाणि न चैतानि यथा तथा।  
 कथितानि मया पुत्र भवन्ति न भवन्ति च॥२४॥
 
@@ -23024,8 +21554,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^909]: "अयमध्यायो घ–कोशे नोपलभ्यते"
 
- 
-
 भीष्मेण युधिष्ठिरं प्रति साधनसामग्रोप्रतिपादकत्र्यासवाक्यानुवादः॥
 
 ![](../books_images/U-IMG-1704424536ववव.png)
@@ -23036,8 +21564,6 @@ The Presidency College,                     P. P. S. SASTRI,
 नालङ्कारांश्चानुयात् तस्य तस्य।  
 मानं च कीर्तिं च यशश्च नेच्छेत्  
 स वै प्रचारः पश्यतो ब्राह्मणस्य॥१॥
-
-
 
 सर्वान् वेदानधीयीत शुश्रूपुर्ब्रह्मचर्यवान्।  
 ऋचो यजूंषि सामानि वेदवेदाङ्गपारगः॥२॥
@@ -23066,8 +21592,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 आपूर्यमाणमचलप्रतिष्ठं  
 समुद्रमापः प्रविशन्ति यद्वत्।
-
-
 
 स कामकामो न तु कामकामस्  
 स वै लोकं स्वर्गमुपैति देही॥९॥
@@ -23101,8 +21625,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^914]: "ख–ग—वित्त"
 
-
-
 येनास्त्रेहो बलं धत्ते यस्तं वेद स वेदवित्॥१७॥
 
 असङ्गो ह्यात्मनो द्वाराण्यपिधाय विचिन्तयन्।  
@@ -23129,8 +21651,6 @@ The Presidency College,                     P. P. S. SASTRI,
 \[अस्मिन्नध्याये २३ श्लोकाः\]  
 ![](../books_images/U-IMG-1704425066ववव.png)
 
-
-
 ॥सप्तत्रिंशदधिकद्विशततमोऽध्यायः[^915]॥  
 ![](../books_images/U-IMG-1704425186ननन.png)
 
@@ -23147,8 +21667,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 आकाशं मारुतो ज्योतिर् आपः पृथ्वी च पञ्चमी।  
 भावाभावौ च कालश्च सर्वभूतेषु पञ्चसु॥२॥
-
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -23194,8 +21712,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 हत्वा जित्वा च मघवन् यः कश्चित् पुरुषायते।
 
-
-
 पूर्वतोऽनुवृत्तम्
 
 अकर्ता ह्येव भवति कर्ता त्वेव करोति तत्॥
@@ -23237,8 +21753,6 @@ The Presidency College,                     P. P. S. SASTRI,
 प्रभावश्चाप्रभावश्च नात्मसंस्थः कदाचन॥
 
 कौमारमेव ते चित्तं तथैवाद्य यथा पुरा।
-
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -23283,8 +21797,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 इति शान्तिपर्वणि मोक्षधर्मे त्रिनवतितमोऽध्यायः
 
-
-
 अन्तरात्मकमाकाशं तन्मयं श्रोत्रमिन्द्रियम्।  
 तस्य शब्दं गुणं विद्यान्मुनिश्शास्त्र विधानवित्॥३॥
 
@@ -23311,8 +21823,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 व्यवसायात्मिका बुद्धिर् मनो व्याकरणात्मकम्।  
 कर्मानुमानाद्विज्ञेयस् स जीवः क्षेत्रसंज्ञितः॥११॥
-
-
 
 एभिःकालाष्टमैर्भावैर् यस्सर्वैस्सर्वमन्वितम्।  
 पश्यत्यकल्मषो बुद्ध्या स मोहं नानुवर्तते॥१२॥
@@ -23345,9 +21855,6 @@ The Presidency College,                     P. P. S. SASTRI,
 प्रतिरूपं यथैवाप्सु तावत् सूर्यस्य लक्ष्यते।  
 सत्त्ववांस्तु तथा सत्त्वं प्रतिरूपं प्रपश्यति॥३॥  
 
-
-
-
 तानि सूक्ष्माणि सत्वस्था विमुक्तानि शरीरतः।  
 तेन तत्त्वेन तत्त्वज्ञाः पश्यन्ति नियतेन्द्रियाः॥४॥
 
@@ -23375,8 +21882,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तमोरजोभ्यामाविष्टो नान्यं पश्यति मूर्तिषु॥११॥
 
 शास्त्रयोगपरा भूत्वा स्वमात्मानमभीप्सवः।
-
-
 
 तमोरजोभ्यां निर्मुक्तास् तं प्रपश्यन्ति मूर्तिषु॥१२॥
 
@@ -23411,8 +21916,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^918]: "अ–क–ख—घ प्रधानं परि"
 
-
-
 सोऽभ्यसूयापलाशो हि पुरा दुष्कृतसारवान्॥२॥
 
 सम्मोहचिन्ताविटपश् शोकशाखो भयाकुरः[^919]।  
@@ -23444,8 +21947,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 इन्द्रियाणि जनाः पौरास् तदर्थास्तु पुरोहिताः।
 
-
-
 तत्र द्वौ दारुणौ दोषौ तमो नाम रजस्तथा॥१०॥
 
 यमर्थमुपजीवन्ति पौरास्सह पुरेश्वराः।  
@@ -23473,8 +21974,6 @@ The Presidency College,                     P. P. S. SASTRI,
 \[अस्मिन्नध्याये १५॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1704427283ववव.png)
 
-
-
 **॥चत्वारिंशदधिकद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1704430187mmm.png)
 
@@ -23486,8 +21985,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 भूतानां गुणसङ्ख्यानं भूयः पुत्र निशामय।  
 द्वैपायनमुखाद्धष्टं श्लाघया परयाऽनघ॥
-
-
 
 दीप्तानलनिभः प्राह भगवान् धर्मवत्सलः[^923]।  
 तत्तेऽहमपि वक्ष्यामि भूयः पुत्र निदर्शनम्॥
@@ -23510,8 +22007,6 @@ The Presidency College,                     P. P. S. SASTRI,
 [^132]: "ख—अर्धचतुष्टयं नास्ति"
 
 [^926]: "ग—दशमं"
-
-
 
 वायोस्तिर्यग्गतिरस्पर्शो पांसूत्थानं स्वतन्त्रता।  
 बलं शैघ्यं च मोक्षश्च कर्मचेष्टात्मता तथा॥६॥
@@ -23540,8 +22035,6 @@ The Presidency College,                     P. P. S. SASTRI,
 [^929]: "ख—युधिष्टिरः— एतेभ्य एनो निर्वृत्तास्सुगुणावात्मनोऽपि वा। संश्रयः प्रतिपत्तिश्व बुद्धौ पञ्चेह या गुणाः। एतन्मे सर्वमान्चक्ष्व सूक्ष्मज्ञानं पितामह॥   भीष्मः—                     [अधिकः पाठः]"
 
 [^930]: "ख ग—नित्यविषक्ताः; घ—प्रीतिविशिष्टाः"
-
-
 
 तत्[^931] पुत्र चिन्तालयनं यदुक्तम्  
 अनागतं तेन च सम्प्रतीह।  
@@ -23575,8 +22068,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ![](../books_images/U-IMG-1704439991ववव.png)
 
-
-
 नैषां पश्यामि हर्तारं प्राणानां[^932] संयुगे पुरा।  
 विक्रमेणैव सम्पन्नास् तेजोबलसमन्विताः॥३॥
 
@@ -23606,8 +22097,6 @@ The Presidency College,                     P. P. S. SASTRI,
 शत्रुभिर्ब्रहणं सङ्ख्चे पुत्रस्य मरणं तथा॥१०॥
 
 तस्य तद्वचनं श्रुत्वा नारदोऽथ तपोधनः।
-
-
 
 आख्यानमिदमाचष्टे पुत्रशोकहरं तथा॥११॥
 
@@ -23639,8 +22128,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तत्रादह्यन्त भूतानि जङ्गमानि ध्रुवाणि च॥  
 महता कोपवेगेन कुपिते प्रपितामहे॥१८॥
-
-
 
 ततो हरो जटी स्थाणुश्श्मशाननिलयशिशवः[^936]।  
 जगाम शरणं देवो ब्रह्माणं परमेष्ठिनम्॥१९॥
@@ -23674,8 +22161,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 विद्धि सृष्टास्त्वया हीमा मा कुप्यस्त्वं पितामह॥१॥
 
-
-
 तव तेजोग्निना देव प्रजा दह्यन्ति सर्वशः।  
 तदृष्ट्वा मम कारुण्यं मा कुप्यस्त्वं जगत्प्रभो॥२॥
 
@@ -23705,8 +22190,6 @@ The Presidency College,                     P. P. S. SASTRI,
 तस्मान्निवर्त्यतामेतत् तेजस्स्वेनैव तेजसा॥९॥
 
 उपायमन्यं सम्पश्य प्रजानां हितकाम्यया।
-
-
 
 यथेमे जन्तवस्सर्वे निवर्तेरन् परन्तप॥१०॥
 
@@ -23740,8 +22223,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सा विनिस्सृत्य खेभ्योऽस्य दक्षिणामाश्रयद् दिशम्।
 
-
-
 ददृशातेऽथ तां कन्यां देवौ विश्वेश्वरावुभौ॥१७॥
 
 तामाहाथ तदा देवो लोकानामादिरीश्वरः।  
@@ -23770,8 +22251,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८८॥ मोक्षधर्मपर्वणि चतुर्णवतितमोऽध्यायः॥ ९४॥  
 \[ अस्मिन्नध्याये २२॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1704462818ववव.png)
-
-
 
 ॥त्रिचत्वारिंशदधिकद्विशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1704463230ललल.png)
@@ -23806,8 +22285,6 @@ The Presidency College,                     P. P. S. SASTRI,
 कृपणाश्रुपरिक्लेदो दहेन्मां शाश्वतीस्समाः।  
 तेभ्योऽहं बलवद्गीता शरणं त्वामुपागता॥६॥
 
-
-
 यमस्य भवने देव यान्त्यन्ते[^944] पापकर्मिणः।  
 निवेदये[^945] त्वां वरद प्रसादं कुरु मे विभो॥७॥
 
@@ -23841,8 +22318,6 @@ The Presidency College,                     P. P. S. SASTRI,
 प्रससाद किल ब्रह्मा स्वयमेवात्मनाऽऽत्मवान्।  
 स्मयमानश्च लोकेशो लोकान् सर्वानवैक्षत॥१३॥
 
-
-
 निवृत्तरोषे तस्मिंस्तु भगवत्यपराजिते।  
 सा कन्याऽपजगामास्य समीपादिति नश्श्रुतिः॥१४॥
 
@@ -23871,8 +22346,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ततो ययौ महाभागा गङ्गां मेरुं च केवलम्।  
 तस्थौ दार्वित्र निश्चेष्टा प्रजानां हितकाम्यया॥२२॥
-
-
 
 ततो हिमवतो मूर्ध्नि यत्र देवास्समीजिरे।  
 तत्राङ्गुष्ठेन राजेन्द्र निखर्वं परमं तपः॥२३॥
@@ -23909,8 +22382,6 @@ The Presidency College,                     P. P. S. SASTRI,
 इममन्यं च ते कामं ददामि मनसेप्सितम्।  
 न त्वां दोषेण यास्यन्ति व्याधिसम्पीडिताः प्रजाः॥ २९॥
 
-
-
 पुरुषेषु च रूपेण पुरुषस्त्वं भविष्यसि।  
 सखीषु स्लीरूपिणी चैव दृतीये च नपुंसकम्‌॥३०॥
 
@@ -23936,8 +22407,6 @@ The Presidency College,                     P. P. S. SASTRI,
 कामक्रोधों सहितो योजयेथाः।  
 एवं धर्मस्त्वामुपैष्ययमोघो  
 न चाधर्मलप्स्यसे तुल्यवृत्तिः॥३५॥
-
-
 
 एवं धर्म पालयिष्यस्यमोघं  
 न चात्मानं मज्जयिष्यस्यधर्मे।  
@@ -23966,8 +22435,6 @@ The Presidency College,                     P. P. S. SASTRI,
 वायुर्भीमो भीमनादो महौजास्  
 सर्वेषां च प्राणिनां प्राणभूतः।
 
-
-
 नानावृत्तिर्देहिनां देहभेदे  
 तस्माद्वायुदेवदेवो विशिष्टः॥४०॥
 
@@ -23992,8 +22459,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि पञ्चनवतितमोऽध्यायः॥१५॥  
 \[अस्मिन्नध्याये ४२॥ श्लोकाः \]  
 ![](../books_images/U-IMG-1704464872ववव.png)
-
-
 
 ॥चतुश्चत्वारिंशदधिकद्विशततमोऽध्यायः॥  
 
@@ -24029,8 +22494,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न च पापकृतः पापान्मुच्यन्ते केचिदापदि।  
 अपापवादी भवति यदा भवति धर्मवित्॥६॥
 
-
-
 धर्मनिष्ठस्सदाचारस्[^956] तमेवाश्रित्य चावसेत्॥६॥
 
 [^956]: " ख—धर्मस्य निष्टा स्वर्द्वारः;  ग—धर्मस्य निष्टा स्वाचार"
@@ -24064,8 +22527,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अभीतश्शुचिरभ्येति राजद्वारमशङ्कितः।  
 न हि दुश्चरितं किञ्चिद् अन्तरात्मनि पश्यति॥१४॥
 
-
-
 तस्मादनार्जवे[^960] बुद्धिर् न कार्या ते कथञ्चन॥१४॥
 
 [^960]: "ग—तस्मादर्थार्जने"
@@ -24096,8 +22557,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^961]: "ख—प्रमापयेत्"
 
-
-
 अतिरिक्तस्संविभजेद् भोगैरन्यानकिश्चनान्।  
 एतस्मात् कारणाद्धात्रा कुसीदंसम्प्रवर्तितम्॥२३॥
 
@@ -24120,8 +22579,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि पण्णवतितमोऽध्यायः॥९६॥  
 \[अस्मिन्नध्याये २७॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1704466785ववव.png)
-
-
 
 **॥पञ्चचत्वारिंशदधिकद्विशततमोऽध्यायः॥**  
 
@@ -24156,8 +22613,6 @@ The Presidency College,                     P. P. S. SASTRI,
 दृश्यते धर्मरूपेण ह्यधर्म प्राकृतश्चरन्।  
 धर्म चाधर्मरूपेण कश्चिदप्राकृतश्चरन्॥६॥
 
-
-
 पुनरस्य प्रमाणं हि निर्दिष्टं शास्त्रकोविदः।  
 वेदवादाञ्चानुयुगं हसन्तीति हि नश्रुतम्॥७॥
 
@@ -24187,8 +22642,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^966]: "ख–ग–घ—कामादन्ये क्षयादन्ये"
 
-
-
 धर्मो भवति स क्षिप्रं विलोमस्तेष्वसाधुषु।  
 अन्ये तानाहुरुन्मत्तान, अपि वाचं हसन्त्युत॥१६॥
 
@@ -24213,8 +22666,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि सप्तनवतितमोऽध्यायः॥१७॥  
 \[अस्मिन्नध्याये २० श्लोकाः\]  
 ![](../books_images/U-IMG-1704510595ववव.png)
-
-
 
 ॥ षट्चत्वारिंशदधिकद्विशततमोऽध्यायः॥  
 
@@ -24247,8 +22698,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अप्सु वैहायसान्[^969] गच्छन् महायोग्यस्मि हीति वै॥६॥
 
 [^969]: "ख—सङ्गच्छेन्मयायोन्यस्सहेति वै ग—सङ्गच्छेन्महायोग्यस्सहेति वै"
-
-
 
 स दृश्यमानो रक्षोभिर् जलमध्ये च[^970] भारत।  
 आस्फोटयत्तदाऽऽकाशे[^213] धर्मः प्राप्तो मयेति वै॥७॥
@@ -24289,8 +22738,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^975]: "ख–ग—दुष्करं"
 
-
-
 **भीष्मः**—
 
 अतीव तपसा युक्तो घोरेण स बभूव ह॥१३॥
@@ -24324,8 +22771,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 स तौ दयावान् स मुनिर् उपप्रैक्षत दम्पती।
 
-
-
 कुर्वाणौ नीडकं तत्र जटासु तृणतन्तुभिः॥२१॥
 
 यदा च न चलत्येव स्थाणुभूतो महातपाः।  
@@ -24355,8 +22800,6 @@ The Presidency College,                     P. P. S. SASTRI,
 बुबुधे तांश्च स मुनिर् जातपक्षाञ्छकुन्तान्[^979]॥ २९॥
 
 [^979]: "ख—कुलिङ्गकान्"
-
-
 
 ततः कदाचित् तांस्तत्र पश्यन् पक्षीन्[^980] यतव्रतः।  
 तथैव[^265] तस्थौ धर्मात्मा निर्विचेष्टस्समाहितः॥३०॥
@@ -24391,8 +22834,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 कदाचिन्मासमात्रेण समुत्पत्य विहङ्गमाः।
 
-
-
 नैवागच्छंस्ततो राजन् प्रातिष्ठत स जाजलिः॥३८॥
 
 ततस्तेषु प्रलीनेषु जाजलिर्जातविस्मयः।  
@@ -24421,8 +22862,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 सोऽपि दृष्ट्वैव तं विप्रम् आयान्तं भाण्डजीवनः।
 
-
-
 समुत्थाय सुसंहृष्टस् स्वागतेनाभ्यपूजयत्॥४७॥
 
 **तुलाधारः**—
@@ -24449,8 +22888,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि अष्टनवतितमोऽध्यायः॥१८॥  
 \[अस्मिन्नध्याये ५२॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1704512823ववव.png)
-
-
 
 **॥सप्तचत्वारिंशदधिकद्विशततमोऽध्यायः॥**  
 
@@ -24486,8 +22923,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अद्रोहेणैव भूतानाम् अस्पद्रोहेण वा पुनः।
 
-
-
 या वृत्तिस्स परो धर्मस् तेन जीवामि जाजले॥६॥
 
 परच्छिन्नैः काष्ठतृणैर् ममेदं शरणं कृतम्।  
@@ -24518,8 +22953,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यथाऽन्धबधिरोन्मत्ता उच्छासपरमास्सदा।  
 दैवेन पिहितद्वारास् सोपमा पश्यतो मम॥१४॥
 
-
-
 यथा वृद्धातुरकृशा निस्पृहा विषयान् प्रति।  
 तथा कामार्थभोगेषु ममापि विगता स्पृहा॥१५॥
 
@@ -24546,8 +22979,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 नद्यावेगाद् यथा काष्ठम् उद्यमानं यदृच्छया।  
 यदृच्छयैव काष्ठेन सन्धि गच्छेत केनचित्॥२३॥
-
-
 
 तत्रापराणि दारूणि संसृज्यन्ते ततस्ततः।  
 तृणकाष्ठकरीषाणि कदाचिन्न समीक्षया॥२४॥
@@ -24581,8 +23012,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 न भूतानाम हिंसाया ज्यायान् धर्मोऽस्ति कश्चन॥ ३१॥
 
-
-
 यस्मान्नोद्विजते दीनो जातु कश्चित् कथञ्चन।  
 सोऽभयं सर्वभूतेभ्यस् सम्प्राप्नोति महामुने॥३२॥
 
@@ -24615,8 +23044,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 मानुषा मानुषानेव दासभोगेन भुञ्जते।
 
-
-
 वधबन्धनिरोधेन कारयन्ति दिवानिशम्॥४१॥
 
 आत्मनश्चापि जानासि यहुःखं वघताडने॥४१॥
@@ -24648,8 +23075,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ऋषयो यतयो ह्येते नहुषे प्रत्यवेदयन्।  
 गां मातरं चाप्यवधीर् वृषभं च प्रजापतिम्॥४९॥
-
-
 
 अकार्य नहुषाकार्षीर् लप्स्यामस्त्वत्कृते व्यथाम्॥५०॥
 
@@ -24684,8 +23109,6 @@ The Presidency College,                     P. P. S. SASTRI,
 \[अस्मिन्नध्याये ५६॥ श्लोकाः \]  
 ![](../books_images/U-IMG-1704514636ववव.png)
 
-
-
 **॥अष्टचत्वारिंशदधिकद्विशततमोऽध्यायः॥**  
 
 ![](../books_images/U-IMG-1704548342ललल.png)
@@ -24718,8 +23141,6 @@ The Presidency College,                     P. P. S. SASTRI,
 इदं देयमिदं देयम् इति नान्यच्चिकीर्षते।  
 अतस्स्तैन्यं प्रभवति विकर्माणि च जाजले॥७॥
 
-
-
 तदेव सुकृतं हव्यं तेन तुष्यन्ति देवताः।  
 नमस्कारेण हविषा स्वाध्यायैरौषधैस्तथा॥८॥
 
@@ -24750,8 +23171,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 कर्तव्यमिति कर्तव्यं वेत्ति यो ब्राह्मणो भयम्।
 
-
-
 ब्राह्मे स वर्तते लोके नैतत्कर्तव्यता पुनः॥१६॥
 
 विगुणं च पुनः कर्म ज्याय इत्यनुशुश्रुम।  
@@ -24780,8 +23199,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 नैव ते स्वर्गमिच्छन्ति न यजन्ति तपोधनाः।  
 सतां वर्त्मानुवर्तन्ते यथाबलमहिंसया॥२५॥
-
-
 
 वनस्पतीनोषधीश्च फलमूलानि ते विदुः।  
 न चैतानृत्विजो लुब्धा याजयन्ति धनार्थिनः[^995]॥२६॥
@@ -24812,8 +23229,6 @@ The Presidency College,                     P. P. S. SASTRI,
 निराशिषमनारम्भं निर्नमस्कारमस्तुतिम्।  
 अक्षीणं क्षीणकर्माणं तं देवा ब्राह्मणं विदुः॥३४॥
 
-
-
 न श्रावयन् न च यजन् न ददद्ब्राह्मणेषु च।  
 ग्राम्यां वृत्तिं लिप्समानः कां गतिं याति जाजले॥ ३५॥
 
@@ -24841,8 +23256,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^999]: "ख–ग–घ—पत्नीव्रतेन    क—पात्नीव्रतेन"
 
-
-
 सर्वा[^1000] नद्यस्सरस्वत्यस् सर्वे पुण्याश्शिलोच्चयाः।  
 जाजले तीर्थमात्मेव मा स्म देशातिथिर्भवेत्॥४०॥
 
@@ -24861,8 +23274,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि शततमोऽध्यायः॥१००॥  
 \[अस्मिन्नध्याये ४२॥श्लोकाः\]  
 ![](../books_images/U-IMG-1704551424ववव.png)
-
-
 
 **॥एकोनपञ्चाशदधिकद्विशततमोऽध्यायः॥**  
 
@@ -24898,8 +23309,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^1001]: "घ—इतोऽष्टौ पादा न सन्ति"
 
-
-
 समानां[^1002] श्रद्दधानानां सम्मतानां सुचेतसाम्।  
 कुर्वतां यज्ञ इत्येव नायज्ञो जातु चेष्यते॥७॥
 
@@ -24932,8 +23341,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अश्रद्दधान एवैको देवानां नाहते हविः।  
 तस्यैवान्नं न भोक्तव्यम् इति धर्मविदो विदुः॥१४॥
-
-
 
 अश्रद्धा परमः पाप्मा श्रद्धा पापप्रमोचनी।  
 जहाति पापं श्रद्धावान् सर्पो जीर्णामिव त्वचम्॥१५॥
@@ -24969,8 +23376,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^1009]: "ख—धर्मश्चैवं विवर्धति; ग—धर्म चैव हि; घ—धर्मश्रैवेह"
 
-
-
 **तुलाधारः**—
 
 स्ववर्त्मनि स्थितश्चैव गरीयानेष भूतले॥२१॥
@@ -25000,8 +23405,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥ मोक्षधर्मपर्वणि एकशततमोऽध्यायः॥१०१॥  
 \[अस्मिन्नध्याये २६ श्लोकाः\]  
 ![](../books_images/U-IMG-1704554730ववव.png)
-
-
 
 पूर्वतोऽनुवृत्तम्—
 
@@ -25038,8 +23441,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 इति शान्तिपर्वणि मोक्षधर्मे चतुश्शततमोऽध्यायः
 
-
-
 **॥पञ्चाशदधिकद्विशततमोऽध्यायः॥**  
 
 ![](../books_images/U-IMG-1704555249mmm.png)
@@ -25075,8 +23476,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अव्यवस्थित मर्यादैर् विमूढैर्नास्तिकैर्नरैः।
 
-
-
 संशयात्मभिरव्यक्तैर् हिंसा समनुदर्शिता॥६॥
 
 सर्वकर्मस्वहिंसां हि धर्मात्मा मनुरब्रवीत्।  
@@ -25105,8 +23504,6 @@ The Presidency College,                     P. P. S. SASTRI,
 यचापि किञ्चित् कर्तव्यम् अन्यच्चो क्षैस्सुसंस्कृतम्॥ १३॥
 
 महासत्त्वैश्युद्धभावैस् सर्वं देवार्हमेव तत्॥१४॥
-
-
 
 **युधिष्ठिरः**—
 
@@ -25144,8 +23541,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम्।  
 चिरकारेस्तु यत् पूर्व वृत्तमङ्गिरसां कुले॥
 
-
-
 चिरकारिक भद्रं ते भद्रं ते चिरकारिक।  
 चिरकारी हि मेधावी नापराध्यति कर्मसु॥३॥
 
@@ -25174,8 +23569,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 स्त्रियं हत्वा मातरं च को नु जातु सुखी भवेत्।  
 पितरं चाप्यवज्ञाय कः प्रतिष्ठामवाप्नुयात्॥११॥
-
-
 
 अनवज्ञा पितुर्युक्ता स्वधर्मो मातृरक्षणम्।  
 युक्तक्षमाप्रभावौ तौ नातिवय कथं मया॥१२॥
@@ -25206,8 +23599,6 @@ The Presidency College,                     P. P. S. SASTRI,
 आशिषस्ता भजन्त्येनं पुरुषं प्राह यत् पिता॥१९॥
 
 पिता धर्मः पिता स्वर्गः पिता परमकं तपः।
-
-
 
 पितरि प्रीतिमापन्ने सर्वाः प्रीणन्ति देवताः॥२०॥
 
@@ -25243,8 +23634,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तदा स वृद्धो भवति तदा भवति दुःखितः।
 
-
-
 तदा शून्यं जगत् तस्य यदा मात्रा वियुज्यते॥२८॥
 
 नास्ति मातृसमा च्छाया नास्ति मातृसमा गतिः।  
@@ -25274,8 +23663,6 @@ The Presidency College,                     P. P. S. SASTRI,
 व्युवरंश्च महादोषं नर एवापराध्यति॥३६॥
 
 स्त्रिया हि परमो भर्ता दैवतं परमं स्मृतम्।
-
-
 
 तस्यात्मना तु सदृशम् आत्मानं परमं ददौ॥३७॥
 
@@ -25312,8 +23699,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 आश्रमं मम सम्प्राप्तस् त्रिलोकेशः पुरन्दरः।
 
-
-
 अतिथिव्रतमास्थाय ब्राह्मण्यं रूपमास्थितः॥४५॥
 
 स तदा सान्त्वितो वाग्भिस् स्वागतेनाभिपूजितः।  
@@ -25343,8 +23728,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 त्राहि मां मातरं चैव तपो यच्चार्जितं मया।  
 आत्मानं पातकेभ्यश्च ततोऽद्य चिरकारिकः॥५३॥
-
-
 
 सहजं चिरकारित्वम् अतिप्रज्ञतया तव।  
 सफलं[^263] तत्तथाद्यास्तु भवाद्य चिरकारिकः॥५४॥
@@ -25379,8 +23762,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 हन्यामिति न वा चेति शत्रपाणौ सुते स्थिते।  
 विनीतप्रसवत्वाच निवासे चात्मकर्मसु॥६२॥
-
-
 
 बुद्धिश्वासीत् सुतं दृष्ट्वा पितुश्चरणयोर्नतम्।  
 शस्त्रग्रहणचापल्यं संवृणोति भयादिति॥६३॥
@@ -25418,8 +23799,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एवं स गौतमस्तस्य प्रीतः पुत्रस्य भारत।
 
-
-
 कर्मणा तेन कौन्तेय चिरकारितया तथा॥७१॥
 
 एवं सर्वेषु कार्येषु विमृश्य पुरुषस्ततः।  
@@ -25447,8 +23826,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८८॥ मोक्षधर्मपर्वणि व्यधिकशततमोऽध्यायः॥ १०३॥  
 \[ अस्मिन्नध्याये ७७ श्लोकाः \]  
 ![](../books_images/U-IMG-1704596240ववव.png)
-
-
 
 **॥द्विपञ्चाशदधिकद्विशततमोऽध्यायः॥**  
 
@@ -25479,8 +23856,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अधर्मतां याति धर्मो यात्यधर्मश्च धर्मताम्।  
 वधो नाम भवेद्धर्मो नैतद्भवितुमर्हति॥
-
-
 
 द्युमत्सेनः—
 
@@ -25518,8 +23893,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^1041]: "अ—अयं पादोऽनन्तरश्च न स्वः"
 
-
-
 असाधोश्चैव साधुभ्यश् शोभना जायते प्रजा॥११॥
 
 न मूलघातः कर्तव्यो नैष धर्मस्सनातनः।  
@@ -25550,8 +23923,6 @@ The Presidency College,                     P. P. S. SASTRI,
 [^1042]: "ख—मृदवः ;  घ—ऋभवः"
 
 पुरा धिग्दण्ड एवासीद् वाग्दण्डस्तदनन्तरम्।
-
-
 
 आसीदादानदण्डोऽपि वधदण्डोऽद्य वर्तते॥२०॥
 
@@ -25589,8 +23960,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^231]: "घ—नास्तीदमर्धम्"
 
-
-
 विषयेष्विन्द्रियवशं मानवाः प्रहरन्ति तम्॥२७॥
 
 आत्मैवादी नियन्तव्यो दुष्कृतं सन्नियच्छता।  
@@ -25619,8 +23988,6 @@ The Presidency College,                     P. P. S. SASTRI,
 भवेत् कालविशेषेण कला धर्मस्य षोडशी॥३४॥
 
 अथ प्रथमकल्पेन सत्यवन् सङ्करो भवेत्।
-
-
 
 आयुश्शक्ति च कालं च निर्दिश्य तप आविशेत्॥३५॥
 
@@ -25655,8 +24022,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 उभौ धर्मौमहाभाग उभौ परमदुर्धरौ।
 
-
-
 उभौ महाफलौ तौ तु सद्भिराचरितावुभौ॥३॥
 
 पुत्र ते वर्तयिष्यामि माहात्म्यमुभयोस्तयोः।  
@@ -25690,8 +24055,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^1051]: "ग—योगिनः"
 
-
-
 कपिलः—
 
 नाहं वेदान् विनिन्दामि न विवक्षाऽस्ति कर्हिचित्।  
@@ -25721,8 +24084,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अजश्चाश्वश्च मेषश्च गौश्च पक्षिगणाश्च ये।  
 ग्राम्यारण्याश्चौषधयः प्राणस्यान्नमिति श्रुतिः॥१९॥
-
-
 
 तथैवान्नं ह्यहरहस् सायंप्रातर्निरूप्यते।  
 पशवश्चाथ धान्यानि यज्ञस्याङ्गमिति श्रुतिः॥२०॥
@@ -25755,8 +24116,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ऋचो यजूंषि सामानि ऋत्विजश्चापि षोडश।
 
-
-
 अग्निर्ज्ञेयो[^1055] गृहपतिस् स सप्तदश उच्यते॥२८॥
 
 [^1055]: "ख—अभिज्ञेयो"
@@ -25788,8 +24147,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 ओमिति ब्रह्मणो योनिर् नमस्स्वाहा स्वधा वषट्।
 
-
-
 यस्यैतानि प्रयुज्यन्ते यथाशक्ति कृतान्यपि॥३७॥
 
 न तस्य त्रिषु लोकेषु परलोकभयं विदुः॥३७॥
@@ -25817,10 +24174,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥मोक्षधर्मपर्वणि पञ्चाधिकशततमोऽध्यायः॥१०५॥  
 \[ अस्मिन्नध्याये ४२ श्लोकाः\]  
 ![](../books_images/U-IMG-1704611878ववव.png)
-
-
-
-
 
 **॥चतुःपञ्चाशदधिकद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1704612122ननन.png)
@@ -25854,8 +24207,6 @@ The Presidency College,                     P. P. S. SASTRI,
 गृहस्थ एव यजते गृहस्थस्तप्यते तपः।  
 गार्हस्थ यमस्य सर्वस्य मूलं यत् किश्चिदेव हि॥७॥
 
-
-
 प्रजनाद्यभिनिर्वृत्तास् सर्वे प्राणभृतो मुने।  
 प्रजनश्चान्यतोऽन्यत्र न कथञ्चन विद्यते॥८॥
 
@@ -25888,8 +24239,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अर्चिष्मन्तो बर्हिषदः क्रव्यादाः पितरस्स्मृताः।  
 मृतस्याप्यनुमन्यन्ते मन्त्रा मन्त्राश्च कारणम्॥१५॥
 
-
-
 एवं क्रोशत्सु वेदेषु कुतो मोक्षोऽस्ति कस्यचित्॥१५॥
 
 ऋणवन्तो यदा मर्त्याः पितृदेवद्विजातिषु।  
@@ -25920,8 +24269,6 @@ The Presidency College,                     P. P. S. SASTRI,
 सर्वभूतात्मभूतस्य सर्वं ज्ञानेन पश्यतः।  
 देवाऽपि मार्गे मुह्यन्ति ह्यपदस्य पदैषिणः॥२२॥
 
-
-
 चतुर्द्वारं पुरुषं चतुर्मुखं  
 चतुर्मुखो नैनमुपैति निन्दा।  
 बाहुभ्यां चैवमुदरादुपस्थाद्  
@@ -25943,8 +24290,6 @@ The Presidency College,                     P. P. S. SASTRI,
 न्न लोलुपस्साघुरनागसस्स्यात्।  
 यात्रार्थमाहारमिहाददीत  
 तथाऽस्य तजाठरद्वारगुप्तिः॥२६॥
-
-
 
 न वीरपत्नीं विहरेत नारीं  
 न चैव भार्यामनृतावाह्वयेत।  
@@ -25971,8 +24316,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 नान्तरेणानुजानाति वेदानां यः क्रियाफलम्।  
 अनुज्ञाय च तत् सर्वम् अन्यद्रोचयते फलम्॥३४॥
-
-
 
 स्वकर्मभि[^1065]संश्रितानां[^1066] तपो घोरत्वमागमत्।  
 तं सदाचारमाश्चर्यं पुराणं शाश्वतं ध्रुवम्॥३५॥
@@ -26009,8 +24352,6 @@ The Presidency College,                     P. P. S. SASTRI,
 स्यूमरश्मिरहं विद्वञ् जिज्ञासार्थमिहागतः।  
 श्रेयस्कामः प्रत्यवोचम् आर्जवान्न विवक्षया॥४१॥
 
-
-
 इमं च संशयं घोरं भगवान् प्रब्रवीतु मे॥४१॥
 
 प्रत्यक्षमिव पश्यन्तो भवन्तस्सत्पथे स्थिताः।  
@@ -26043,8 +24384,6 @@ The Presidency College,                     P. P. S. SASTRI,
 एकमालम्बमानानां[^158] निर्णये किं निरामयम्॥४९॥
 
 [^158]: "अ—अर्धत्रयं नास्ति"
-
-
 
 एतद्ब्रवीतु[^213] भगवान् उपपन्नोऽस्म्यधीहि भो॥४९॥
 
@@ -26080,8 +24419,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 एतद्गुढाऽनुपश्यन्तस् सन्त्यजेयुश्शुभाशुभम्।
 
-
-
 परां गतिमभीप्सन्तो यतयस्संयमे रताः॥५८॥
 
 स्यूमरश्मिः—
@@ -26115,8 +24452,6 @@ The Presidency College,                     P. P. S. SASTRI,
 इदं तु दुष्करं कर्म कुटुम्बमभिसंश्रितम्।  
 दानमध्ययनं यज्ञः प्रजासन्तानमार्जवम्॥६५॥
 
-
-
 स्यूमरश्मिः—
 
 यद्येतदेवं कृत्वाऽपि न विमोक्षोऽस्ति कस्यचित्।  
@@ -26146,8 +24481,6 @@ The Presidency College,                     P. P. S. SASTRI,
 द्वे ब्रह्मणी वेदितव्ये शब्दब्रह्म परं च यत्॥
 
 शब्दब्रह्मणि निष्णातः परं ब्रह्माधिगच्छति।
-
-
 
 शरीरमेतत्[^1077] कुरुते यद्वैतत् कुरुते तनुम्॥२॥
 
@@ -26182,10 +24515,6 @@ The Presidency College,                     P. P. S. SASTRI,
 समा ह्यार्जवसम्पन्नास् सन्तुष्टा ज्ञाननिश्चयाः।  
 प्रत्यक्षधर्माश्शुचयश् श्रद्दधानास्तपोधनाः॥९॥
 
-
-
-
-
 पुरस्ताद्भावितात्मानो यथावच्चरितव्रताः।  
 चरन्ति धर्म कृच्छ्रेऽपि कृच्छ्रे[^1082] चापि सुसंहिताः॥१०॥
 
@@ -26219,8 +24548,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^1085]: "घ—साधूनां"
 
-
-
 सर्वमानन्त्यमेवासीद् इति नश्शाश्वती श्रुतिः॥१७॥
 
 तेषामदीनसत्त्वानां दुश्चराचारकर्मणाम्।  
@@ -26251,8 +24578,6 @@ The Presidency College,                     P. P. S. SASTRI,
 नक्षत्राणीव धिष्ण्येषु बहवस्तारकागणाः॥२५॥
 
 आनन्त्यमुपसम्प्राप्ता वसन्तो दिवि देववत्॥२५॥
-
-
 
 यद्वा गच्छन्ति संसारं पुनर्योनिषु तादृशाः।  
 न लिप्यन्ते पापकृद्भिः कदाचित् कर्मयोनितः॥२६॥
@@ -26285,8 +24610,6 @@ The Presidency College,                     P. P. S. SASTRI,
 मात्राभिर्धर्मलब्धाभिर् ये वा त्यागं समाश्रिताः॥ ३३॥
 
 एतेषां प्रेत्यभावे तु कतमे स्वर्गजित्तमाः।
-
-
 
 एतदाचक्ष्वमेब्रह्मन् याथातथ्येनपृच्छतः॥३४॥
 
@@ -26322,8 +24645,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 वेदांश्च वेदितव्यं च विदित्वा च यथास्थितिम्।
 
-
-
 एवं[^231] वेदविदित्याहुर अतोऽन्ये वेदवादकाः॥४२॥
 
 [^231]: "घ—नास्तीदमर्धम्"
@@ -26351,8 +24672,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥ ८८ ॥ मोक्षधर्मपत्राणि सप्ताधिकशततमोऽध्यायः ॥ १०७ ॥  
 \[ अस्मिन्नध्याये ४७ श्लोकाः\]  
 ![](../books_images/U-IMG-1704620455ववव.png)
-
-
 
 **॥षट्पश्चाशदधिकद्विशततमोऽध्यायः॥**  
 
@@ -26388,8 +24707,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 दृष्ट्वैव तं महात्मानं तस्य बुद्धिरजायत।
 
-
-
 अयं मे दास्यति श्रेयो वपुरेतद्धि तादृशम्॥७॥
 
 सन्निकृष्टश्च देवानां न चान्यैर्मानुषैर्वृतः।  
@@ -26421,8 +24738,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 मणिभद्रं स तत्रस्थं देवतानां महाद्युतिम्।  
 अपश्यत महात्मानं व्यादिशन्तं युधिष्ठिर॥१५॥
-
-
 
 तत्र देवाः प्रयच्छन्ति राज्यानि च धनानि च।  
 शुभैः कर्मभिराराद्धाः प्रच्छिन्दन्त्यशुभेषु च॥१६॥
@@ -26461,8 +24776,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^1095]: "घ—अर्धद्वयं नाखि"
 
-
-
 तपसे मतिमाधत्त ब्राह्मणस्य यशस्विनः॥२३॥
 
 कुण्डधारः—
@@ -26496,8 +24809,6 @@ The Presidency College,                     P. P. S. SASTRI,
 भीष्मः—
 
 ततः प्रीतो जलधरः कृतकार्यो युधिष्ठिर।
-
-
 
 ईप्सितं मनसा लब्ध्वा वरमन्यैस्सुदुर्लभम्॥३०॥
 
@@ -26534,8 +24845,6 @@ The Presidency College,                     P. P. S. SASTRI,
 श्रद्दधानस्य धर्मे च तपस्युमग्रेच वर्ततः।  
 कालेन महता तस्य दिव्या दृष्टिरजायत॥३७॥
 
-
-
 तस्य बुद्धिः प्रादुरभूद् यदि दद्यामहं धनम्।  
 तुष्टः कस्मैचिदेवाहं न मिथ्या तद् भवेन्मम॥३८॥
 
@@ -26565,8 +24874,6 @@ The Presidency College,                     P. P. S. SASTRI,
 कृतं मया भवेत् किं ते कश्च तेऽनुग्रहो भवेत्॥४५॥
 
 पश्य पश्य च भूयस्त्वं कामान्नेच्छेःकथश्चन।
-
-
 
 स्वर्गद्वारं हि संरुद्धं मनुष्याणां विशेषतः॥४६॥
 
@@ -26601,8 +24908,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ततस्सर्वानिमाँल्लोकान् ब्राह्मणोऽनुचचार ह।  
 कुण्डधारप्रसादेन तपसा योजितः पुरा॥५३॥
 
-
-
 विहायसा च गमनं तथा सङ्कल्पितार्थता।  
 धर्माच्छक्यस्तथा योगो योगाच्चैव परा गतिः॥५४॥
 
@@ -26633,8 +24938,6 @@ The Presidency College,                     P. P. S. SASTRI,
 धर्मार्थं[^1104] न सुखार्थार्थं कथं यज्ञस्समाहितः॥१॥
 
 [^1104]: "ख—धर्मार्थानां सुखार्थानां"
-
-
 
 भीष्मः—
 
@@ -26669,8 +24972,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 तस्मिन् वने समीपस्थो मृगोऽभूत् सहचारिकः।
 
-
-
 वचोभिरब्रवीत् सत्यं त्वया दुष्कृतकं कृतम्॥९॥
 
 यदि मन्त्राङ्गहीनोऽयं यज्ञो भवति वैकृतः[^1108]।  
@@ -26700,8 +25001,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 स तु धर्मो मृगो भूत्वा बहुवर्षोषितो वने।  
 तस्य निष्कृतिमाधत्त न त्वसौ यज्ञसंविधिः॥१७॥
-
-
 
 तस्य तेन तु भावेन मृगहिंसात्मनस्तदा।  
 तपो महत् समुच्छिन्नं तस्माद्धिंसा न याज्ञिया॥१८॥
@@ -26733,8 +25032,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 विदितास्सर्वधर्मास्ते स्थित्यर्थमनुपृच्छसि।  
 शृणु मोक्षं सनिर्वेदं पापं धर्मं च मूलतः॥२॥
-
-
 
 विज्ञानार्थं हि पञ्चानाम् इच्छा पूर्वं प्रवर्तते।  
 प्राप्य तां वर्तते कामो द्वेषो वा भरतर्षभ॥३॥
@@ -26769,8 +25066,6 @@ The Presidency College,                     P. P. S. SASTRI,
 पापं चिन्तयते कर्म प्रब्रवीति करोति च।  
 तस्याधर्मप्रवृत्तस्य दोषान् पश्यन्ति साधवः॥१०॥
 
-
-
 एकशीलाश्च मित्रत्वं भजन्ते पापकर्मिणः।  
 स नेह सुखमाप्नोति कुत एव परत्र वै॥११॥
 
@@ -26801,8 +25096,6 @@ The Presidency College,                     P. P. S. SASTRI,
 धर्मे स्थितानां कौन्तेय सर्वभोगक्रियासु च।  
 अतृप्यमाणो निर्वेदम् आदत्ते ज्ञानचक्षुषा॥१८॥
 
-
-
 प्रज्ञाचक्षुर्यदा कामे दोषमेवानुपश्यति॥१९॥
 
 शब्दे[^119] स्पर्शे तथा रूपे रसे गन्धे च भारत।  
@@ -26827,8 +25120,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥मोक्षधर्मपर्वणि दशाधिकशततमोऽध्यायः॥११०॥  
 \[ अस्मिन्नध्याये २४ श्लोकाः \]  
 ![](../books_images/U-IMG-1704625667ववव.png)
-
-
 
 ॥एकोनषष्टयधिकद्विशततमोऽध्यायः॥  
 
@@ -26862,8 +25153,6 @@ The Presidency College,                     P. P. S. SASTRI,
 अप्रमादाद्भ्यं रक्षेच् छ्वासं क्षेत्रज्ञशीलनात्।  
 इच्छां द्वेषं च कामं च धैर्येण विनिवर्तयेत्॥६॥
 
-
-
 सर्व[^1118]ं प्रमोहमावर्तम् अभ्यासाद्विनिवर्तयेत्।  
 निद्रां चाप्रतिभां चैव ज्ञानाभ्यासेन तत्त्ववित्॥७॥
 
@@ -26896,8 +25185,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 [^1121]: "ख–ग–घ—लोभ"
 
-
-
 ध्यानमध्ययनं[^1122] दानं सत्यं हीरार्जवं क्षमा।  
 शौचमाहारसंशुद्धिर् इन्द्रियाणां च संयमः॥१५॥
 
@@ -26922,8 +25209,6 @@ The Presidency College,                     P. P. S. SASTRI,
 ॥८८॥मोक्षधर्मपर्वणि कादशाधिकशततमोऽध्यायः॥१११॥  
 \[ अस्मिन्नध्याये १९ श्लोकाः \]  
 ![](../books_images/U-IMG-1704626796ववव.png)
-
-
 
 **॥षष्ठयधिकद्विशततमोऽध्यायः॥**  
 
@@ -26958,8 +25243,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 विद्धि नारद पञ्चैताञ्शाश्वतानचलान् ध्रुवान्।
 
-
-
 महतस्तेजसो रश्मीन् कालषष्ठान स्वभावतः॥५॥
 
 आपश्चैवान्तरिक्षं च पृथिवी पावकानिलौ।  
@@ -26981,7 +25264,6 @@ The Presidency College,                     P. P. S. SASTRI,
 चक्षुषी नासिका कर्णौ त्वग्जिह्वेति च पश्चमी।  
 इन्द्रियाणीन्द्रियार्थानां ज्ञानानि कवयो विदुः॥१२॥  
 
-
 ——————————————————————————————————————————————————————
 
 1\. अ–क—अर्धचतुष्टयं नास्ति  
@@ -26995,8 +25277,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 वेदानामपि निर्वृत्तानू षडेते तस्य रश्मयः।  
 पञ्चभूतानि कालं च भावाभाषौ व केवलौ॥ \[ पाठान्तरम् \]
-
-
 
 दर्शनं श्रवणं घ्राणं स्पर्शनं रसनं तथा।  
 उपपत्त्यागुणान् विद्धि पञ्च पञ्चसु पञ्चधा॥१३॥
@@ -27025,8 +25305,6 @@ The Presidency College,                     P. P. S. SASTRI,
 जल्पनाभ्यवहारार्थं मुखमिन्द्रियमुच्यते।  
 गमनेन्द्रियं तथा पादौ कर्मणां करणे करौ॥२०॥
 
-
-
 पायूपस्थौ विसर्गार्थम् इन्द्रिये तुल्यकर्मणी।  
 विसर्गे च पुरीषस्य विसर्गे चापि कामिके॥२१॥
 
@@ -27053,8 +25331,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 अथ वा सशरीरास्ते गुणास्सर्वे शरीरिणाम्।  
 संश्रितास्तद्वियोगे हि सशरीरा न सन्ति ते॥२९॥
-
-
 
 अथवा[^636] संविभागेन शरीरं पाञ्चभौतिकम्।  
 एकश्च[^1127] दश चाष्टौ च गुणास्सह शरीरिणः॥३०॥
@@ -27087,8 +25363,6 @@ The Presidency College,                     P. P. S. SASTRI,
 
 पुण्यपापमयं देहं क्षपयेत् कर्मसंश्रयात्।
 
-
-
 क्षीणदेहः पुनर्देही ब्रह्मत्वमुपगच्छति॥३८॥
 
 पुण्यपापक्षयार्थं च साङ्खयंज्ञानं विधीयते।  
@@ -27116,10 +25390,6 @@ Printed by
 V. Venkateswara Sastrulu of V. Ramaswamy Sastrulu & Sons  
 at the Vavilla Press, Madras—1936.
 
-
-
-
-
 ॥ श्रीः ॥
 
 |                                                        |          |              |                       |
@@ -27146,8 +25416,6 @@ at the Vavilla Press, Madras—1936.
 |                          ९७९                           |    १९    | वाक्यानि १६  |      वाक्यानि १७      |
 |                          ९८४                           |    १८    |  २८ श्लोकाः  | २६ श्लोकाः ५ वाक्यानि |
 
-
-
 |       |          |                    |                    |
 |:-----:|:--------:|:------------------:|:------------------:|
 | पुटम् | पङ्क्तिः |      अशुद्धम्      |       शोधनम्       |
@@ -27165,1608 +25433,5 @@ at the Vavilla Press, Madras—1936.
 | १३६९  |    १०    |   तस्मात् तत्वं    |    तस्मात्त्वं     |
 | १३७३  |    १२    |    ऽपहरंस्तेनः     |     ऽपहरस्तेनः     |
 
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^1126]: "ग—अर्धपञ्चकं नास्ति"
-
-
-[^1116]: " ख—नास्तीदमर्धम्"
-
-
-[^1114]: "अ–क—अर्धचतुष्टयं नास्ति"
-
-
-[^1113]: "घ—नास्तीदमर्धम्"
-
-
-[^1112]: "ख—नास्तीदमर्धम्"
-
-
-[^1111]: "ख–ग—नास्तीदमर्धम्"
-
-
-[^1102]: "अ–क—नास्तीदमर्धम्"
-
-
-[^1101]: "अ–क—अर्धचतुष्टयं नास्ति"
-
-
-[^1096]: "अ–क—अर्धचतुष्टयं नास्ति"
-
-
-[^1094]: "ग–घ—नास्तीदमर्धम्"
-
-
-[^1090]: "घ—नास्तीदमर्धम्"
-
-
-[^1084]: "ख—नास्तीदमर्धम्"
-
-
-[^1081]: "घ—नास्तीदमर्धम्"
-
-
-[^1075]: "ख—अर्धत्रयं नास्ति"
-
-
-[^1074]: "घ—नास्तीदमर्धम्"
-
-
-[^1073]: "ख—नास्तीदमर्धम्"
-
-
-[^1072]: "अ—अर्धत्रयं नास्ति"
-
-
-[^1071]: "अ–क–ग–घ—नास्तीदमर्धम्"
-
-
-[^1052]: "ख—अर्धत्रयं नास्ति"
-
-
-[^1049]: "घ—अर्धद्वयं नास्ति"
-
-
-[^1046]: "घ—नास्तीदमर्धम्"
-
-
-[^1030]: "अ–क–ख–ग—नास्तीदमर्धम्"
-
-
-[^1028]: "घ—अर्धचतुष्टयं नास्ति"
-
-
-[^1027]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^1024]: " घ—अर्धत्रयं नास्ति"
-
-
-[^1007]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^986]: "अ—अर्धद्वयं नास्ति"
-
-
-[^983]: "अ–क—नास्तीदमर्धम्"
-
-
-[^981]: "अ–क–ख–ग—नास्तीदमर्धम्"
-
-
-[^971]: "ख—नास्तीदमर्धम्"
-
-
-[^964]: "घ—नास्तीदमर्धम्"
-
-
-[^954]: "ख—अर्धद्वयं नास्ति"
-
-
-[^953]: "ग—इदमर्धं नास्ति"
-
-
-[^952]: "ग—इदमर्धं नास्ति"
-
-
-[^949]: "ख—नास्तीदमर्धम्"
-
-
-[^948]: " घ—अर्धचतुष्टयं नास्ति"
-
-
-[^946]: "घ—नास्तीदमर्धम्"
-
-
-[^925]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^905]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^901]: "घ—नास्तीदमर्धम्"
-
-
-[^899]: "घ—कदाचन"
-
-
-[^891]: "ख—नास्तीदमर्धम्"
-
-
-[^885]: " ख—नास्तीदमर्धम्"
-
-
-[^883]: "ख—नास्तीदमर्धम्"
-
-
-[^867]: "घ—नास्तीदमर्धम्"
-
-
-[^863]: "ग—इदमधं नास्ति"
-
-
-[^845]: "ख–ग–घ—नास्तीदमर्धम्"
-
-
-[^831]: "ख—नास्तीदमर्धम्"
-
-
-[^819]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^807]: "अ–क–ग–घ—नास्तीदमर्धम्"
-
-
-[^795]: "ख—मध्य"
-
-
-[^786]: "ग—इदमर्धं नास्ति"
-
-
-[^783]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^772]: "ख—नास्तीदमर्धम्"
-
-
-[^754]: "ख—इतोऽष्टौ पादा न सन्ति"
-
-
-[^745]: "अ–क–ग–घ—नास्तीदमर्धम्"
-
-
-[^738]: "ख—नास्तीदमर्धम्"
-
-
-[^734]: "ख—अर्धद्वयं नास्ति"
-
-
-[^725]: "ख—अर्धद्वयं नास्ति"
-
-
-[^717]: "घ—अर्धचतुष्टयं नास्ति"
-
-
-[^716]: "घ—अर्धद्वयं नास्ति"
-
-
-[^666]: "घ—अर्धत्रयं नास्ति"
-
-
-[^664]: "ख—इतः षट् पादा न सन्ति"
-
-
-[^647]: "घ—अर्धद्वयं नास्ति"
-
-
-[^642]: "घ—अर्धत्रयं नास्ति"
-
-
-[^640]: "अ—नास्तीदमर्धम्"
-
-
-[^634]: "अ–क–ग–घ—अर्धद्वयं नास्ति"
-
-
-[^622]: "ख—अर्धद्वयं नास्ति"
-
-
-[^621]: "घ—अर्धद्वयं नास्ति"
-
-
-[^620]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^619]: "अ–क–ग–घ—नास्तीदमर्धम्"
-
-
-[^608]: "कृष्णाचार्यमुद्रितकोशस्थ–ध–कोशपाठानुसारेणायमध्यायो मुद्रितः"
-
-
-[^607]: "कृष्णाचार्यमुद्रितकोशस्थ–ध–कोशपाठानुसारेणायमध्यायो मुद्रितः"
-
-
-[^603]: "घ—अर्धचतुष्टयं नास्ति"
-
-
-[^601]: "ख—नास्तीदमर्धम्"
-
-
-[^593]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^566]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^564]: "अ—अर्धत्रयं नास्ति"
-
-
-[^559]: "ख—नास्तीदमर्धम्"
-
-
-[^555]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^548]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^543]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^539]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^538]: "घ—नास्तीदमर्धम्"
-
-
-[^534]: "ख—नास्तीदमर्धम्"
-
-
-[^532]: "ख—नास्तीदमर्धम्"
-
-
-[^531]: "ख—नास्तीदमर्धम्"
-
-
-[^530]: "ख—नास्तीदमर्धम्"
-
-
-[^529]: "घ—अर्धचतुष्टयं नास्ति"
-
-
-[^522]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^521]: "ख—नास्तीदमर्धम्"
-
-
-[^509]: "ग—अर्धद्वयं नास्ति"
-
-
-[^493]: "ख—नास्तीदमर्धम्"
-
-
-[^491]: "घ—नास्तीदमर्धम्"
-
-
-[^478]: "ख—नास्तीदमर्धम्"
-
-
-[^474]: "ख—अर्धत्रयं नास्ति"
-
-
-[^472]: "अ—नास्तीदमर्धम्"
-
-
-[^466]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^465]: "घ—अर्धत्रयं नास्ति"
-
-
-[^464]: "घ—अर्धत्रयं नास्ति"
-
-
-[^458]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^455]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^452]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^450]: "अ—अर्धत्रयं नास्ति"
-
-
-[^447]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^446]: "ख—अर्धद्वयं नास्ति"
-
-
-[^445]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^444]: "ख—अर्धत्रयं नास्ति"
-
-
-[^441]: "अ—अर्धचतुष्टयं नास्ति"
-
-
-[^435]: "ख—अर्धत्रयं नास्ति"
-
-
-[^430]: "घ—अर्धचतुष्टयं नास्ति"
-
-
-[^428]: "ख—नास्तीदमर्धम्"
-
-
-[^424]: "अ–क–ख–घ—अर्धचतुष्टयं नास्ति"
-
-
-[^421]: "अ–क—अर्धत्रयं नास्ति"
-
-
-[^412]: "अ–क–ग–घ—नास्तीदमर्धम्"
-
-
-[^410]: "ख—अर्धद्वयं नास्ति"
-
-
-[^408]: "ख—अर्धद्वयं नास्ति"
-
-
-[^406]: "ख—नास्तीदमर्धम्"
-
-
-[^404]: "घ—अर्धत्रयं नास्ति"
-
-
-[^402]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^390]: "घ—अर्धत्रयं नास्ति"
-
-
-[^388]: "घ—अर्धचतुष्टयं नास्ति"
-
-
-[^374]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^373]: "ख–ग—अर्धद्वयं नास्ति"
-
-
-[^372]: "ख—अर्धद्वयं नास्ति"
-
-
-[^360]: "ख—अर्धद्वयं नास्ति"
-
-
-[^358]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^343]: "अ–क–घ—अर्धत्रयं नास्ति"
-
-
-[^341]: "अ—अर्धद्वयं नास्ति"
-
-
-[^339]: "घ—नास्तीदमर्धम्"
-
-
-[^338]: "अ–क–घ—अर्धद्वयं नास्ति"
-
-
-[^323]: "ख—अर्धद्वयं नास्ति"
-
-
-[^306]: "ख—नास्तीदमर्धम्"
-
-
-[^298]: "घ—नास्तीदमर्धम्"
-
-
-[^297]: "ख—अर्धद्वयं नास्ति"
-
-
-[^290]: "ख—अर्धद्वयं नास्ति"
-
-
-[^289]: "ख—अर्धद्वयं नास्ति"
-
-
-[^287]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^284]: "घ—नास्तीदमर्धम्"
-
-
-[^267]: "ख—नास्तीदमर्धम्"
-
-
-[^251]: "ग—अर्धत्रयं नास्ति"
-
-
-[^209]: "अ–क—नास्तीदमर्धम्"
-
-
-[^208]: "अ–क—नास्तीदमर्धम्"
-
-
-[^198]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^193]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^190]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^150]: "ख—अर्धद्वयं नास्ति"
-
-
-[^138]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^131]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^120]: "क–ख–घ—नास्तीदमर्धम्"
-
-
-[^116]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^115]: "ख—अर्धद्वयं नास्ति"
-
-
-[^106]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^105]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^100]: "अ—नास्तीदमर्धम्"
-
-
-[^78]: "अ—अर्धचतुष्टयं नास्ति"
-
-
-[^58]: "क–ख–घ—न विजानाति"

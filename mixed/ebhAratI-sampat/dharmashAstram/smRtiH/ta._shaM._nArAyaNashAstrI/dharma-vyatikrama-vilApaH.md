@@ -15,18 +15,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg4MTIzMTI4NDY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
 ![](../books_images/1682932703.jpg)
@@ -176,23 +164,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg4MTIzMTI4NDY
 पाहि!!! चास्मान् प्रभो!! देव तुभ्यं नमः!  
 देव तुभ्यं नमः !! देव तुभ्यं नमः!!!**
 
-
-
 [TABLE]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

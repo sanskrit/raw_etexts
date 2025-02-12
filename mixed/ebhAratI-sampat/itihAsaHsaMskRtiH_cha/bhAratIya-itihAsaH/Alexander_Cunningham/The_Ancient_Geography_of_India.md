@@ -15,49 +15,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk4MTk4NjgxOTk
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
 
 ![](../books_images/U-IMG-1701844903aaaaa.png)
 
 **MAP OF INDIA** showing the POLITICAL DIVISIONS A. D. 629-642
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 **PREFACE.**  
 ![](../books_images/U-IMG-1696906294Screenshot2023-10-10081929.png)
@@ -70,9 +40,9 @@ THE Geography of India may be conveniently divided into a few distinct sections,
 
  The *Muhammadan* period, or Modern Geography of India, would embrace the rise and extension of the Muhammadan power, from the time of Mahmud of Ghazni to the battle of Plassey, or about 750 years, during which time the Musalmâns were the paramount sovereigns of India.
 
+ The illustration of the Vedic period has already been made the subject of a separate work by M. Vivien de Saint-Martin, whose valuable essay[^605]on this early section of Indian Geography shows how much interesting information may be elicited from the Hymns of the Vedas, by an able and careful investigator.
 
-
- The illustration of the Vedic period has already been made the subject of a separate work by M. Vivien de Saint-Martin, whose valuable [essay](http://॑# "‘Étude sur la Géographie et les populations primitives du NordOuest de l'Inde, d'après les Hymnes Védiques.' Paris, 1859.")on this early section of Indian Geography shows how much interesting information may be elicited from the Hymns of the Vedas, by an able and careful investigator.
+[^605]: "‘Étude sur la Géographie et les populations primitives du NordOuest de l'Inde, d'après les Hymnes Védiques.' Paris, 1859."
 
  The second, or Ancient period, has been partially illustrated by H. H. Wilson, in his ‘Ariana Antiqua,' and by Professor Lassen, in his 'Pentapotamia Indica.' These works, however, refer only to North-west India; but the Geography of the whole country has been ably discussed by Professor Lassen, in his large work on Ancient India[^1], and still more fully by M. de Saint- Martin, in two special essays,— the one on the Geo- graphy of India, as derived from Greek and Latinsources, and the other in an Appendix to M. Julien's translation of the Life and Travels of the Chinese pilgrim Hwen Thsang[^2]. His researches have been conducted with so much care and success that few places have escaped identification. But so keen is his critical sagacity, that in some cases where the imperfection of our maps rendered actual identification quite impossible, he has indicated the true positions within a few miles.
 
@@ -82,15 +52,11 @@ THE Geography of India may be conveniently divided into a few distinct sections,
 
  For the illustration of the third, or Modern period, ample materials exist in the numerous histories of the Muhammadan States of India. No attempt, so far as I am aware, has yet been made to mark the limits of the several independent kingdoms that were established
 
-
-
 in the fifteenth century, during the troubles which followed the invasion of Timur. The history of this period is very confused, owing to the want of a special map, showing the boundaries of the different Muham- madan kingdoms of Delhi, Jonpur, Bengal, Malwa, Gujarât, Sindh, Multân, and Kulbarga, as well as the different Hindu States, such as Gwalior and others, which became independent about the same time.
 
  I have selected the Buddhist period, or Ancient Geography of India, as the subject of the present inquiry, as I believe that the peculiarly favourable opportunities of local investigation which I enjoyed during a long career in India, will enable me to determine with absolute certainty the sites of many ofthe most important places in India.
 
  My chief guides for the period which I have undertaken to illustrate, are the campaigns of Alexander in the fourth century before Christ, and the travels of the Chinese pilgrim, Hwen Thsang, in the seventh century after Christ. The pilgrimage of this Chinese priest forms an epoch of as much interest and import- ance for the Ancient History and Geography of India, as the expedition of Alexander the Great. The actualcampaigns of the Macedonian conqueror were confinedto the valley of the Indus and its tributaries; but the information collected by himself and his companions, and by the subsequent embassies and expeditions of the Seleukide kings of Syria, embraced the whole valley of the Ganges on the north, the eastern and western coasts of the peninsula, and some scattered notices of the interior of the country. This infor- mation was considerably extended by the systematic inquiries of Ptolemy, whose account is the more valu-
-
-
 
 able, as it belongs to a period just midway[^3]between the date of Alexander and that of Hwen Thsang, at which time the greater part of North-west India had been subjected by the Indo-Soythians.
 
@@ -100,8 +66,6 @@ able, as it belongs to a period just midway[^3]between the date of Alexander and
 
  The Chinese pilgrim Fa-Hian was a Buddhist priest, who travelled through India from the banks of the Upper Indus to the mouth of the Ganges, between the years 399 and 413 A.D. Unfortunately his journal is very concise, and is chiefly taken up with the description of the sacred spots and objects of his religion, but as he usually gives the bearings and distances of the chief places in his route, his short notices are very valuable. The travels of the second Chinese pilgrim, Sung-Yun, belong to the year 502 A.D., but as they were confined to the Kabul valley and North-west Panjâb, they are of much less importance, more
 
-
-
 especially as his journal is particularly meagre in geographical notices[^4].
 
 [^4]: "The travels of both of these pilgrims have been most carefully and ably translated by the Rev. S. Beal."
@@ -110,11 +74,7 @@ especially as his journal is particularly meagre in geographical notices[^4].
 
 [^5]: "Max Müller's 'Buddhism and Buddhist Pilgrims,' p. 30."
 
-
-
 retraced his steps to visit places which had been left behind in his direct easterly route. Thus, after having reached Mathura he returned to the north-west, a distance of 200 miles to *Thânesar*, from whence he re- sumed his easterly route viâ *Srughna* on the Jumna, and *Gangadwâra* on the Ganges to *Ahichhatra*, thecapital of Northern *Panchâla*, or Rohilkhand. He next recrossed the Ganges to visit the celebrated cities. of *Sankisa*, *Kanoj*, and *Kosâmbi* in the Doâb, and then turning northward into Oudh he paid his devotions at the holy places of *Ayodhya* and *Srâvasti*. From thence he resumed his easterly route to visit the scenes of Buddha's birth and death at *Kapilavastu* and *Kusinagara*;and then once more returned to the westward to the holy city of *Banâras*, where Buddha first beganto teach his religion. Again resuming his easterly route he visited the famous city of *Vaisâli* in Tirhût, from whence he made an excursion to Nepâl, and then retracing his steps to Vaisâli he crossed the Ganges to the ancient city of *Pâṭaliputra*, or Palibothra.From thence he proceeded to pay his devotions at the numerous holy places around Gaya, from the sacred fig- tree at *Bodh Gaya*, under which Buddha sat for five years in mental abstraction, to the craggy hill of Giriyek, where Buddha explained his religious views to the god Indra. He next visited the ancient cities of *Kusâgarapura* and *Rajagriha*, the early capitals of Magadha, and the great monastery of *Nâlanda*, the most famous seat of Buddhist learning throughout India, where he halted for fifteen months to study the Sanskrit language. Towards the end of A.D. 638 he resumed his easterly route, following the course of the Ganges to *Modagivi* and *Champa*, and then crossing the
-
-
 
 river to the north he visited Paundra Varddhana, or Pubna, and *Kâmarûpa*, or Assam.
 
@@ -124,23 +84,15 @@ river to the north he visited Paundra Varddhana, or Pubna, and *Kâmarûpa*, or 
 
  From Drâviḍa Hwen Thsang turned his steps to the north, and passing through Konkana and *Ma-*
 
-
-
 *hârâshtra* arrived at *Bhâroch* on the Narbada, from whence, after visiting Ujain and Balabhi and several smaller states, he reached Sindh and Multân towardsthe end of A.D. 641. He then suddenly returned to*Magadha*, to the great monasteries of *Nâlanda* and*Tiladḥaka*, where he remained for two months for the solution of some religious doubts by a famous Buddhist teacher named Prajnabhadra. He next paid a second visit to *Kâmrûp*, or Assam, where he halted. for a month. Early in A.D. 643 he was once more at*Pâṭaliputra*, where he joined the camp of the great king Harsha Varddhana, or Silâditya, the paramount sovereign of northern India, who was then attended by eighteen tributary princes, for the purpose of adding dignity to the solemn performance of the rites of the Quinquennial Assembly. The pilgrim marched in the train of this great king from *Pâṭaliputra* through*Prayâga* and *Kosâmbi* to *Kanoj*. He gives a minute description of the religious festivals that were held at these places, which is specially interesting for thelight which it throws on the public performance of the Buddhist religion at that particular period. At Kanoj he took leave of Harsha Varddhana, and re- sumed his route to the north-west in company with Raja *Udhiṭa* of Jâlandhara, at whose capital he halted for one month. In this part of his journey his progress was necessarily slow, as he had collected many statues and a large number of religious books, which he carried with him on baggage elephants[^7].Fifty of his manuscripts were lost on crossing over the Indus at *Utakhanda*, or Ohind. The pilgrim himself forded the river on an clephant, a feat which can only
 
 [^7]: "M. Julien's 'Hiouen Thsang,' i. 262, 263."
-
-
 
 be performed during the months of December, January and February, before the stream begins to rise. from the melted snows. According to my calculations, he crossed the Indus towards the end of a.d. 643. At *Utakhanda* he halted for fifty days to obtain fresh copies of the manuscripts which had been lost in the Indus, and then proceeded to Lamghân in company with the King of Kapisa. As one month was occupied in this journey, he could not have reached Lamghâm until the middle of March, A.D. 644, or about three months before the usual period, when the passes of the Hindu Kush become practicable. This fact is sufficient to account for his sudden journey offifteen days to the south to the district of Falana, orBanu, from whence he reached Kapisa viâ Kâbul and Ghazni about the beginning of July. Here he again halted to take part in a religious assembly, so that he could not have left Kapisa until about the middle ofJuly A.D. 644, or just fourteen years after his first entry into India from Bamian. From Kapisa he passed up the Panjshir valley and over the Khâwak Pass to Anderâb, where he must have arrived about the end of July. It was still early for the easy crossing of this snowy pass, and the pilgrim accordingly notices the frozen streams and beds of ice which he encountered on his passage over the mountain. Towards the end of the year he passed through Kâshgâr, Yârkand, and Kotan, and at last, in the spring of A.D. 645, he arrived in safety in the western capital of China.
 
  This rapid survey of Hwen Thsang's route is sufficient to show the great extent and completeness of his Indian travels, which, as far as I am aware, have
 
-
-
 never been surpassed. Buchanan Hamilton's survey of the country was much more minute, but it was limited to the lower provinces of the Ganges in northern India and to the district of Mysore in southern India. Jacquemont's travels were much less restricted; but as that sagacious Frenchman's observations were chiefly confined to geology and botany and other scientific subjects, his journeyings in India have added but little to our knowledge of its geography. My own travels also have been very extensive throughout the length and breadth of northern India, from Peshawar and Multan near the Indus, to Rangoon and Prome on the Irawadi, and from Kashmir and Ladâk to the mouth of the Indus and the banks of the Narbada. Of southern India I have seen nothing, and of western India I have seen only Bombay, with the celebrated caves of Elephanta and Kanhari. But during a long service of more than thirty years in India, its early history and geography have formed the chief study of my leisure hours; while for the last four years of my residence these subjects were my sole occupation,as I was then employed by the Government of India as Archæological Surveyor, to examine and report upon the antiquities of the country.The favourable opportunity which I thus enjoyed for studying its geography was used to the best of my ability; and although much still remains to be discovered I am glad to be able to say that my researches were signally successful in fixing the sites of many of the most famous cities of ancient India. As all of these will be described in the following account, I will notice here only a few of the more prominent of my discoveries, for the purpose of
-
-
 
 showing that I have not undertaken the present work without much previous preparation.  
 1. *Aornos*, the famous rock fort captured by Alexander the Great.  
@@ -156,25 +108,15 @@ showing that I have not undertaken the present work without much previous prepar
 11. *Vaisâli*, to the north of Patna.  
 12. *Nâlanda*, the most famous Buddhist monastery in all India.
 
-
-
 # Please dont Edit this page (Blank Page)
-
-
 
 **CONTENTS.**
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 |                        |
 |------------------------|
@@ -217,11 +159,7 @@ showing that I have not undertaken the present work without much previous prepar
 | XII. Map of Gaya and Bihar, A.D. 650, showing Hwen Thsang's route                        |
 | XIII. Map of the Eastern Coast between the Rivers Godavari and Krishṇa                   |
 
-
-
 ![](../books_images/U-IMG-169693142531.png)
-
-
 
 **THE  
 ANCIENT GEOGRAPHY OF INDIA.  
@@ -233,9 +171,6 @@ FROM the accounts of the Greeks it would appear that the ancient Indians had a v
 
 [^9]: "Strabo, x. 1, 11. The name of the author of the Stathmi' is preserved by Athenæus, i. 103. The original measurements were most probably made by Diognetus and Baiton, whose duty it was to aseertain the distanees and lengths of Alexander's expeditions. See Plin. Hist. Nat., vi. 21."
 
-
-
-
 Amyntas, and which was confirmed by the testimony of Megasthenes, who had actually visited Palibothra as the ambassador of Seleukus Nikator. On the authority of these documents, Eratosthenes and other writers have described India as a rhomboid, or unequal quadrilateral, in shape, with the Indus on the west, the mountains on the north, and the sea on the east and south[^10]. The shortest side was on the west, which Patrokles estimated at 12,000 stadia, and Eratosthenes at 13,000 stadia[^11]. All the accounts agree that the course of the Indus from Alexander's Bridge to thesea was 10,000 stadia, or 1149 British miles; and they differ only as to the estimated distance of the snowy mountains of Caucasus or Paropamisus above the bridge. The length of the country was reckoned from west to east, of which the part extending from the Indus to Palibothra had been measured by schoeni along the royal road, and was 10,000 stadia, or 1149 British miles in length. From Palibothra to the sea the distance was estimated at 6000 stadia, or 689 British miles; thus making the whole distance from the Indus to the mouth of the Ganges 16,000 stadia[^12],or 1838 British miles. According to Pliny[^13], the distance of Palibothra from the mouth of the Ganges was only 637-5 Roman miles; but his numbers are so corrupt that very little dependence can be placed upon them. I would, therefore, increase his distance to 737.5
 
 [^10]: "Strabo, ii. 1, 31, and xv. 1, 11. See, also, Diodorus, Hist., ii. 3, and Dion Perieg. v. 1131. Compare fig. 1 in the accompanying plate of small maps."
@@ -246,8 +181,6 @@ Amyntas, and which was confirmed by the testimony of Megasthenes, who had actual
 
 [^13]: "Plin. Hist. Nat., vi. 21."
 
-
-
 Roman miles, which are equal to 678 British miles. The eastern coast from the mouth of the Ganges to Cape Comorin was reekoned at 16,000 stadia, or 1838 British miles; and the southern (or south-western) coast, from Cape Comorin to the mouth of the Indus at 3000 stadia more[^14]than the northern side, or 19,000 stadia, equivalent to 2183 British miles.
 
 [^14]: "Strabo, xv. 1, 11. "
@@ -255,8 +188,6 @@ Roman miles, which are equal to 678 British miles. The eastern coast from the mo
  The close agreement of these dimensions, given by Alexander's informants, with the actual size of the country is very remarkable, and shows that the Indians, even at that early date in their history, had a very aceurate knowledge of the form and extent of their native land.
 
  On the west, the course of the Indus from Ohind, above Attok, to the sea is 950 miles by land, or about 1200 miles by water. On the north, the distance from the banks of the Indus to Patna, by our military route books, is 1143 miles, or only 6 miles less than the measurement of the royal road from the Indus to Palibothra, as given by Strabo on the authority of Megasthenes. Beyond this, the distance was estimated by the voyages of vessels on the Ganges at 6000 stadia, or 689 British miles, which is only 9 miles in excess of the actual length of the river route. From the mouth of the Ganges to Cape Comorin the distance, measured on the map, is 1600 miles, but taking into account the numerous indentations of the coast-line, the length should probably be increased in the same proportion as road distanee by one-sixth. This would make the actual length 1866 miles. From Cape Comorin to the mouth of the Indus there is a consi-
-
-
 
 derable discrepancy of about 3000 stadia, or nearly 350 miles, between the stated distance and the actual measurement on the map. It is probable that the difference was caused by including in the estimate the deep indentations of the two great gulfs of Khambay and Kachh, which alone would be sufficient to account  
 for the whole, or at least the greater part, of the discrepancy.
@@ -269,8 +200,6 @@ for the whole, or at least the greater part, of the discrepancy.
 
 [^17]: "Diodorus, Hist., ii. 3."
 
-
-
 India from east to west is 28,000 stadia, and from north to south 32,000 stadia," or 60,000 stadia altogether.
 
  At a somewhat later date the shape of India is described in the 'Mahâbhârata' as an equilateral triangle, which was divided into four smaller equal triangles[^18]. The apex of the triangle is Cape Comorin, and the base is formed by the line of the Himâlaya mountains. No dimensions are given, and no places are mentioned; but, in fig. 2 of the small maps of India in the accompanying plate, I have drawn a small equilateral triangleon the line between Dwâraka, in Gujarat, and Ganjam on the eastern coast. By repeating this small triangle on each of its three sides, to the north-west, to the north-east, and to the south, we obtain the four divisions of Indiain one large equilateral triangle. The shape corresponds very well with the general form of the country, if we extend the limits of India to Ghazni on the north-west, and fix the other two points of the triangle at Cape Comorin, and Sadiya in Assam. At the presumed date of the composition of the ‘Mahâbhârata,' in the first century A.D., the countries immediately to the west of the Indus belonged to the Indo-Scythians, and therefore may be included very properly within the actual boundaries of India.
@@ -281,8 +210,6 @@ India from east to west is 28,000 stadia, and from north to south 32,000 stadia,
 
 [^19]: "Dr. Kern, in preface to the 'Brihat-Sanhità' of Varâha-Mihira, p. 32, states that Varâha's chapter on Geography is taken almost intact, but changed in form, from the 'Parâsaratantra,' and must, therefore, be considered as representing the geography of Parâsara, or perhaps yet more ancient works, "
 
-
-
 wards adopted by the authors of several of the Purânas. According to this arrangement, *Pânchâla* was the chief district of the central division, *Magadha* of the east,*Kalinga* of the south-east, *Avanta* of the south, *Anarta*of the south-west, *Sindhu-Sauvira* of the west, *Hârahaura* of the north-west,*Madra* of the north, and*Kauninda* of the north-east[^20].But there is a discrepancy between this epitome of Varâha and his details, as*Sindhu-Sauvira* is there assigned to the south-west, along with Anarta[^21]. This mistake is certainly as old as the eleventh century, as Abu Rihâm has preserved the names of Varâha's abstract in the same order as they now stand in the 'Brihat-Sanhitâ[^22].'These details are also supported by the 'Mârkandeya Purâna,' whichassigns both *Sindhu-Sauvira* and *Anarta* to the south-west[^23].I have compared the detailed lists of the 'BrihatSanhitâ with those of the Brahmânda, Mârkandeya, Vishnu, Vâyu, and Matsya Purânas; and I find that, although there are sundry repetitions and displacements of names, as well as many various readings, yet  
 
 [^20]: " 'Brihat-Sanhitâ,' ch. xiv. 32, 33."
@@ -292,9 +219,6 @@ wards adopted by the authors of several of the Purânas. According to this arran
 [^22]: "The Nine Divisions of Abu Rihân are given in Reinaud's Mémoire sur l'Inde,' pp. 116, 117. Compare No. II. Map, fig. 3."
 
 [^23]: "Ward's Hindus,' iii. 10."
-
-
-
 
 all the lists are substantially the same[^24]. Some of them, however, are differently arranged. All of the Purânas, for instance, mention the Nine Divisions and give their names, but only the Brahmânda and Mârkandeya state the names of the districts in each of the Nine Divisions; as the Vishnu, Vâyu, and Matsya Purânasagree with the ‘Mahâbhârata' in describing only five Divisions in detail, namely, the middle Province and those of the four cardinal points.
 
@@ -308,8 +232,6 @@ all the lists are substantially the same[^24]. Some of them, however, are differ
 
 [^26]: "Wilson's 'Vishnu Purâna,' edited by Hall, vol. ii. b. iii. c. 3. p. 132. The north Division is not mentioned in the text; but as the Hunas and Sakalas certainly helonged to the north, I presume that the north has been accidentally omitted. There is a similar omission of the name of Kumârika in this Purâna, which has only eight names for the Nine Divisions."
 
-
-
 was occupied by the *Kurus* and *Pânchâlas*; in the east was *Kâmarupa*, or Assam; in the south were the*Pundras*, *Kalingas*, and *Magadhas*; in the west were the *Surâshtras*, *Suras*, *Abhîras*, *Arbudas*, *Kârushas*,*Mâlavas*,*Sauvîras*,and *Saindhavas*;and in the north the *Hunas*,*Sâlwas*,*Sâkalas*,*Râmas*, *Ambashtas*, and*Parâsikas*.
 
  In the Geography of Ptolemy the true shape of India is completely distorted, and its most striking feature, the acute angle formed by the meeting of the two coasts of the Peninsula at Cape Comorin is changed to a single coast-line, running almost straight from the mouth of the Indus to the mouth of the Ganges.The cause of this mistake is partly due to the erroneous value of 500, instead of 600, Olympic stadia, which Ptolemy assigned to an equatorial degree, partly to an over-estimate in converting road-distance into map-measurement, but chiefly to the excess which he allowed. for the distances of land journeys over those of seavoyages[^27].
@@ -317,11 +239,6 @@ was occupied by the *Kurus* and *Pânchâlas*; in the east was *Kâmarupa*, or A
 [^27]: "The question of Ptolemy's erroneous longitudes is treated at length in Appendix C, where I have given all the data on which Sir Henry Rawlinson has founded his eorrection of three-tenths of the geogra. pher's distances in easting."
 
   If the measures of distance by sea had been increased in the same proportion, or had been estimated at the same value,as the measures of distance by land,all the places would have retained the same relative positions.But the consequence of Ptolemy's unequal estimate of the value of land and sea distances was to  
-
-
-
-
-
 
 throw all the places determined by land measurement too far to the east; and as this error went on increasing the further he advanced, his eastern geography is completely vitiated by it.Thus Taxila, which is almost due north of Barygaza, is placed 11° to the east of it; and the mouth of the Ganges, which was fixed by land measurement from Taxila and Palibothra, is placed 38° to the east of the mouth of the Indus, the true difference being only 20°.In fig. 4 of the accompanying plate
 small maps I have given an outline of Ptolemy's 'Geography of India.' By referring to this it will be seen at a glance that, if the distance between the mouths of the Indus and Ganges were reduced from 38° to 20°, the point of Cape Comorin would be thrown far to the south, and would form an acute angle very nearly in its true position.The amount of error in Ptolemy's value of land distances is well shown in the difference of longitude between Taxila and Palibothra. The former he places in 125° and the latter in 143°, the difference being 18°, which is nearly one-third too much, as the actual difference between Shah-Dheri in 72° 53′ and Patna in 85° 17' is only 12° 24'. By applying the correction of three-tenths, as proposed by Sir Henry Rawlinson, Ptolemy's 18° will be reduced to 12° 36', which is within 12' of the true difference of longitude.
@@ -331,8 +248,6 @@ small maps I have given an outline of Ptolemy's 'Geography of India.' By referri
 [^28]: "See M. Pauthier's translations from Chinese in the Journal Asiatique,' Oct. 1839, p. 257."
 
 [^29]: "Ibid., Nov. 1839, p. 384."
-
-
 
 and this is the form which the historian Matwanlin has adopted. In the official records of the Thang dynasty in the seventh century, India is described as consisting of "Five Divisions," called the East, West, North, South, and Central, which are usually styled the "Five Indies." I have not been able to discover when this system of the "Five Divisions" was first adopted; but the earliest notice of it that I can find is in the year 477 A.D.[^30],when the king of Western India sent an ambassador to China, and again only a few years later, in A.D. 503 and 504, when the kings of Northern and Southern India are mentioned as having followed his example[^31]. No divisions are alluded to in any of the earlier Chinese notices of India; but the different provinces are described by name, and not by position. Thus we have mention of Yue-gai, king of Kapila, in A.D.428, and of the king of Gândhâra in A.D.455[^32].It would appear also that previous to this time India was sometimes called Magadha,after the name of its best known and richest province; and sometimes the "kingdom of Brahmans," after the name of its principal inhabitants[^33].The first of these names I would refer to the second and third eenturies after Christ, when the powerful Guptas of Magadha ruled over the greater part of India.
 
@@ -345,8 +260,6 @@ and this is the form which the historian Matwanlin has adopted. In the official 
 [^33]: "M. Julien's 'Hiouen Thsang,' ii. 58; and Pauthier, in Journ. Asiatique, Dec. 1839, p. 417."
 
  The same division of five great provinces was adopted by the Chinese pilgrim Hwen Thsang in the seventh century, who names them in the same manner,
-
-
 
 as North, South, East, West, and Central, according to their relative positions[^34]. He compares the shape of the country to a half-moon, with the diameter or broad side to the north, and the narrow end to the south. This is not unlike the configuration of India in Ptolemy's Geography; but a much more accurate description is given by the Chinese author of the*Fah-kai-lih-to*, who says, "this country in shape is narrow towards the south and broad towards the north;" to which he humorously adds, that "the people's faces are the same shape as the country[^35]."
 
@@ -362,8 +275,6 @@ as North, South, East, West, and Central, according to their relative positions[
 
  The Five Divisions of India, or the "Five Indies,"as they are usually called by the Chinese, are as follows (see No. I. Map):—
 
-
-
  I. *Northern Indi*a comprised the Panjâb proper, including Kashmir and the adjoining hill states, with the whole of eastern Afghanistan beyond the Indus, and the present Cis-Satlej States to the west of the Saraswati river.
 
  II. *Western India* comprised Sindh and Western Rajputâna, with Kachh and Gujarât, and a portion of the adjoining coast on the lower course of the Narbadâ river.
@@ -376,8 +287,6 @@ as North, South, East, West, and Central, according to their relative positions[
 
  Although the Chinese division of India into five great provinces is simpler than the well-known native arrangement of nine divisions, as described by VarâhaMihira and the Purânas, yet there can be little doubt that they borrowed their system from the Hindus, who likened their native country to the lotus-flower, the middle being Central India, and the eight surrounding petals being the other divisions, which were
 
-
-
 named after the eight chief points of the compass[^38].In the Chinese arrangement, the middle and the four primary divisions only are retained; and as this division is much simpler, and also more easily remembered, I will adopt it in the present description.
 
 [^38]: " Wilson's 'Vishnu Purâna,' edited by Hall, vol. ii. b. ii. c. 12, p. 309; "
@@ -386,8 +295,6 @@ named after the eight chief points of the compass[^38].In the Chinese arrangemen
 
 [^39]: " Hiouen Thsang,' ii. 59. The text has"
 
-
-
 Kanoj, as we are informed by the Chinese pilgrim that Harsha Varddhana advaneed through his territory to the foot of the Kashmir hills, for the purpose of coercing the ruler of that country to deliver up to him a much-venerated tooth of Buddha. The Rajput king of Mahârâshtra, in Southern India, was the only sovereign who had successfully resisted the armies of Kanoj. This statement of the Chinese pilgrim is corroborated by several inscriptions of the Châlukya prinees of Mahârâshtra, who make a proud boast of their ancestor's discomfiture of the great King HarshaVarddhana[^40].This powerful prince was the paramountsovereign of thirty-six different States, comprising nearly one-half of India in extent, and including all its richest and most fertile provinces.The substantial reality of his power may be gathered from the fact that no less than eighteen, or just one-half, of these tributary prinees attended on their suzerain lord during his great religious procession from Pâtaliputra to Kanoj, in A.D. 643. The extent of his dominions is elearly indicated by the names of the countries against which he directed his latest campaigns, namely, Kashmir in the north-west, Mahârâshtra in the south-west, and Ganjam in the south-east[^41]. Within these boundaries he was the paramount ruler of the continent of India during the first half of the seventh century of the Christian era.
 
 [^40]: "See eopper-plate inscriptions in Journ. Bombay Asiat. Soc. ii. 5, and iii. p. 207."
@@ -395,8 +302,6 @@ Kanoj, as we are informed by the Chinese pilgrim that Harsha Varddhana advaneed 
 [^41]: "Julien's 'Hiouen Thsang,' Kashmir, i. 251; Mahâ¹âshtra, iii. 150; Ganjam, i. 220, 236."
 
  The dominion of Southern India was nearly equally divided between the nine rulers of the following
-
-
 
 states:— Mahârâshtra and Kosala, in the north; Kalinga, Andhra, Konkana, and Dhanakakata, in the centre; and Jorya, Drâvida, and Mâlakuta, in the south. These complete the round number of eighty kingdoms into which India was divided in the seventh century of our era.
 
@@ -408,20 +313,12 @@ states:— Mahârâshtra and Kosala, in the north; Kalinga, Andhra, Konkana, and
 
 [^43]: "Geogr., xv. 2, 9. In another place, xv. 1, 11, he states that at the time of the invasion of Alexander "
 
-
-
 hundred elephants." The prince here mentioned is the well-known Chandra Gupta Maurya, whose grandson Asoka dispatched missionaries to the most distantparts of his empire for the propagation of Buddhism.*Alasadda*, or Alexandria ad Caucasum, the capital of the *Yona*, or Greek country, is recorded as one of thesedistant places; and as the Chinese pilgrim Hwen Thsang notices several *stupas* in that neighbourhood as the work of Asoka, we have the most satisfactory proofs of the Indian occupation of the Kabul valley in the third and fourth centuries before Christ. The completeness of this occupation is well shown by the use of the Indian language on the coins of the Bactrian Greeks and Indo-Scythians, down to A.D. 100, or perhaps even later; and although it is lost for the next two or three centuries, it again makes its appearance on the coins of the Abtelites, or White Huns, of the sixth century. In the following century, as we learn from the Chinese pilgrim, the king of Kapisa was a *Kshatriya*, or pure Hindu. During the whole of the tenth century the Kabul valley was held by a dynasty of Brahmans, whose power was not finally extinguished until towards the close of the reign of Mahmud
 Ghaznavi. Down to this time, therefore, it would appearthat a great part of the population of eastern Afghanistan, including the whole of the Kabul valley, must have been of Indian descent, while the religion was pure Buddhism. During the rule of the Ghaznavis, whose late conversion to Muhammadanism had only added bigotry to their native ferocity, the persecution of idol-loving Buddhists was a pleasure as well as a duty. The idolaters were soon driven out, and with them the Indian element, which had subsisted for
 
-
-
 # Please dont Edit this page (Blank Page)
 
-
-
 ![](../books_images/U-IMG-169693470149.png)
-
-
 
 so many centuries in Eastern Ariana, finally disappeared.
 
@@ -435,15 +332,11 @@ so many centuries in Eastern Ariana, finally disappeared.
 
 [^45]: "That Kandahar then belonged to Persia is proved by the fact, that the begging-pot of Buddha, which Hwen Thsang (ii. 106
 
-
-
 the east. The *Kaofu* of the Chinese would, therefore, have embraced the whole of modern Afghanistan. Etymologically, however, it seems quite possible that the two names may be the same, as *Kaofu* was the appellation of one of the five tribes of the *Yuchi* or Tochari, who are said to have given their own name to the town which they occupied, towards the end of the second century before Christ. This statement of the Chinese writers is confirmed by the historians of Alexander, who notice the city of Ortospana, without making any mention of Kabul. The latter name is first given by Ptolemy, who describes *Kabura* or *Ortospana* as the capital of the Paropamisadæ. I conclude, therefore, that Ortospana was most probably the original metropolis of the country, which was supplanted by Alexandria during the Greek domination, and restored by the earlier Indo-Scythian princes. But it would appear to have been again abandoned before the seventh century, when the capital of Kapisene was at Opiân.
 
 **1. KAPISENE, OR OPIÂN.**
 
  According to the Chinese pilgrim *Kiapishe*, or *Kapisene*, was 4000 li, or about 666 miles in circuit. If this measurement be even approximately correct, the district must have included the whole of Kafiristan, as well as the two large valleys of Ghorband and Panjshir, as these last are together not more than 300 miles in circuit. Kiapishe is further described as being entirely surrounded by mountains; to the north having been removed from Gândhâra to Persia, still exists at Kandahar, where it was seen by Sir H. Rawlinson. The removal must have taken place during the sixth century, after the conquest of Gândhâra by the king of Kipin.
-
-
 
 by snowy mountains, named *Po-lo-si-na*, and by black hills on the other three sides. The name of *Polosina*corresponds exactly with that of Mount Paresh or*Aparasin* of the 'Zend Avesta[^46],'and with the Paropamisus of the Greeks, which included the Indian Caucasus, or Hindu Kush. Hwen Thsang further states, that to the north-west of the capital there was a great snowy mountain, with a lake on its summit, distant only 200 li, or about 33 miles. This is the Hindu Kush itself, which is about 35 miles to the north-west of Charikâr and Opiân; but I have not been able to trace any mention of the lake in the few imperfect notices that exist of this part of Afghanistan.
 
@@ -451,15 +344,11 @@ by snowy mountains, named *Po-lo-si-na*, and by black hills on the other three s
 
  The district of *Capisene* is first mentioned by Pliny, who states that its ancient capital, named *Capisa*, was destroyed by Cyrus. His copyist, Solinus, mentions. the same story, but calls the city *Caphusa*, which the Delphine editors have altered to *Capissa*. Somewhat later, Ptolemy places the town of *Kapisa* amongst the Paropamisade, 2,1/2degrees to the north of Kabura or Kabul, which is nearly 2 degrees in excess of the truth. On leaving Bamian, in A.D. 630, the Chinese pilgrim travelled 600 li, or about 100 miles, in an easterly direction over snowy mountains and black hills (or the Koh-i-Bâbâ and Paghmân ranges) to the capital of *Kiapishe* or *Kapisene*. On his return from India, fourteen years later, he reached*Kiapishe* throughGhazni and Kabul, and left it in a north-east direction by the Panjshir valley towards Anderâb. These statements fix the position of the capital at or near*Opiân*, which is just 100 miles to the east of Bamian
 
-
-
 by the route of the Hajiyak Pass and Ghorband Valley, and on the direet route from Ghazni and Kabul to Anderâb. The same locality is, perhaps, even more decidedly indicated by the fact, that the Chinese pilgrim, on finally leaving the capital of Kapisene, was accompanied by the king as far as the town of *Kiu-lu-sa pang*, a distance of one *yojana*, or about 7 miles to the north-east, from whenee the road turned towards the north. This description agrees exactly with the direction of the route from Opiân to the northern edge of the plain of Begrâm, which lies about 6 or 7miles to the E.N.E. of Charikâr and Opiân. Begrâm itself I would identify with the *Kiu-lu-sa-pang* or *Karsawana* of the Chinese pilgrim, the*Karsana* of Ptolemy, and the *Cartana* of Pliny. If the capital had then been at Begrâm itself, the king's journey of seven miles to the north-east would have taken him over the united stream of the Panjshir and Ghorband rivers, and as this stream is difficult to cross, on account of its depth and rapidity, it is not likely that the king would have undertaken such a journey for the mere purpose of leave-taking. But by fixing the capital at Opiân, and by identifying Begrâm with the *Kiu-lu-sa-pang* of the Chinese pilgrim, all difficulties disappear. The king accompanied his honoured guest to the bank of the Panjshir river, where he took leave of him,and the pilgrim then crossed the stream, and proceeded on hisjourney to the north, as described in the account of his life.
 
  From all the evidence above noted it would appear certain that the capital of *Kiapishe*, or *Kapisene*, in the seventh century, must have been situated either at or near *Opiân*. This place was visited by Masson[^47],
 
 [^47]: "'Travels,' iii. 126."
-
-
 
 who describes it as "distinguished by its huge artificial mounds, from which, at various times, copiousantique treasures have been extracted." In anotherplace[^48] he notes that "it possesses many vestiges of antiquity; yet, as they are exclusively of a sepulchralor religious character, the site of the city, to which they refer, may rather be looked for at the actual village of Malik Hupiân on the plain below, and near Charikâr." Masson writes the name Hupiân, following the emperor Baber; but as it is entered in Walker's large map as *Opiyân*, after Lieutenant Leach,and is spelt *Opiyân*by Lieutenant Sturt, both of whom made regular surveys of the Koh-dâman, I adopt the unaspirated reading, as it agrees better with the Greek forms of *Opiai* and *Opiane* of Hekatæus and Stephanus, and with the Latin form of *Opianum* of Pliny. As these names are intimately connected with that of the Paropamisan Alexandria, it will clear the way to further investigation, if we first determine the most probable site of this famous city.
 
@@ -471,13 +360,9 @@ who describes it as "distinguished by its huge artificial mounds, from which, at
 
 [^50]: "Hist. Nat., vi. c. 17. Philemon Holland calls it "
 
-
-
 which in the Leipsic and other editions is altered to*Alexandri oppidum*. I believe, also, that the same distinctive name may be restored to a corrupt passage of Pliny, where he is speaking of this very part of the country. His words, as given by the Leipsic editor, and as quoted by Cellarius[^51],are "Cartana oppidum sub Caucaso, quod postea Tetragonis dictum. Hæc regio est ex adverso. Bactrianorum deinde cujus oppidum Alexandria, a conditore dictum." Both of the translators whose works I possess, namely Philemon Holland, A.D. 1601, and W. T. Riley, A.D. 1855, agree in reading *ex adverso Bactrianorum*. This makes sense of the words as they stand, but it makes nonsense of the passage, as it refers the city of Alexandria to Bactria, a district which Pliny had fully described in a previous chapter. He is speaking of the country at the foot of the Caucasus or Paropamisus; and as he had already described the Bactrians as being "aversa montis Paropamisi," he now uses almost the same terms to describe the position of the district in which Cartana was situated; I would, therefore, propose to read "hæc regio est ex adverso Bactriæ;" and as*cujus* cannot possibly refer to the Bactrians, I would begin the next sentence by changing the latter half of Bactrianorum in the text to *Opiorum*; the passage would then stand thus, "Opiorum (regio) deinde, cujus oppidum Alexandria a conditore dictum,"— "Next the Opii, whose city, Alexandria, was named after its founder." But whether this emendation be accepted or not, it is quite clear from the other two passages, above quoted, that the city founded by Alexander at the foot of the Indian Caucasus was also
 
 [^51]: "Hist. Nat., vi. 23."
-
-
 
 named Opiane. This fact being established, I will now proceed to show that the position of Alexandria Opiane agrees as nearly as possible with the site of the present Opiân, near Charikâr.
 
@@ -486,8 +371,6 @@ named Opiane. This fact being established, I will now proceed to show that the p
 [^52]: "Measured by Lieutenant Sturt with a perambulator. Masson gives the same distance for Begrâm. See No. III. Map from Sturt's Survey."
 
 [^53]: "Hist. Nat., vi. 21. "
-
-
 
 ning of the fifth century, makes it 16 *yojanas*, or not less than 640 *li*, at 40 *li* to the *yojana*. This would increase the total distance to 1340 *li*, or 223 miles, which differs only by 5 miles from the statement of the Roman author. The actual road distance between Charikâr and Jalâlâbâd has not been ascertained, but as it measures in a direct line on Walker's map about10 miles more than the distance between Kabul and Jalâlâbâd, which is 115 miles, it may be estimated at 125 miles. This sum added to 103 miles, the length of road between Jalâlâbâd and Peshâwar, makes the whole distance from Charikâr to Peshawar not less than 228 miles, which agrees very closely with the measurements recorded by the Roman and Chinese authors.
 
@@ -503,15 +386,11 @@ ning of the fifth century, makes it 16 *yojanas*, or not less than 640 *li*, at 
 2. The west road, by the Kushân valley, and over the Hindu Kush Pass to Ghori.  
 3. The south-west road, up the Ghorband valley, and over the Hâjiyak Pass to Bamian.
 
-
-
  The first of these roads was followed by Alexander on his march into Baetriana from the territory of the Paropamisadæ. It was also taken by Timur on his invasion of India; and it was crossed by Lieutenant Wood on his return from the sources of the Oxus. The second road must have been followed by Alexander on his return from Baetriana, as Strabo[^57]specially mentions that he took over the same mountains another and shorter road" than that by which he had advanced. It is certain that his return could not have been by the Bamian route, as that is the longest route of all; besides which, it *turns* the Hindu Kush, and does not cross it, as Alexander is stated to have done. This route was attempted by Dr. Lord and Lieutenant Wood late in the year, but they were driven back by the snow. The third road is the easiest and most frequented. It was taken by Janghez Khan after his capture of Bamian; it was followed by Mooreroft and Burnes on their adventurous journeys to Balkh and Bokhara; it was traversed by Lord and Wood after their failure at the Kushan Pass; and it was surveyed by Sturt in A.D. 1840, after it had been successfully crossed by a troop of horse artillery.
 
 [^57]: "Geogr., xv. 1, 26."
 
  Alexandria is not found in Ptolemy's list of the towns of the Paropamisadæ; but as his *Niphanda*, which is placed elose to Kapisa, may with a very little alteration be read as *Ophianda*, I think that we may perhaps recognize the Greek capital under this slightly altered form. The name of *Opiân* is certainly as old as the fifth century B.C., as Hekatæus places a people called *Opiai* to the west of the upper course of the Indus. There is, however, no trace of this name in
-
-
 
 the inscriptions of Darius, but we have instead a nation called *Thatagush*, who are the *Sattagudai* of Herodotus, and perhaps also the people of *Si-pi-to-fa-la-sse*of the Chinese pilgrim Hwen Thsang[^58]. This place was only 40 *li*, or about 7 miles, distant from the capital of Kiapishe, but unfortunately the direction is not stated. As, however, it is noted that there was a mountain named *Aruna* at a distance of 5 miles to the south, it is almost certain that this city must have been on the famous site of Begrâm, from which the north end of the *Siah-koh*, or Black Mountain, called*Chehel Dukhtarân*, or the "Forty Daughters," lies almost due south at a distance of 5 or 6 miles. It is possible, also, that the name of *Tâtarangzâr*, which Masson gives to the south-west corner of the ruins of Begrâm, may be an altered form of the ancient *Thâtagush*, or *Sattagudai*. But whether this be so or not, it is quite certain that the people dwelling on the upper branches of the Kabul river must be the *Thâtagush* of Darins, and the *Sattagudai* of Herodotus, as all the other surrounding nations are mentioned in both authorities.
 
@@ -521,15 +400,11 @@ the inscriptions of Darius, but we have instead a nation called *Thatagush*, who
 
  The passage of Pliny describing the position of Alexandria is prefaced by a few words regarding the town of *Cartana*, which, while they assign it a similar position at the foot of the Caucasus, seem also to referit to the immediate vicinity of Alexander's city. I quote the whole passage, with the correction which I
 
-
-
 have already proposed[^51]:—"Cartana oppidum sub Caucaso, quod postea Tetragonis dictum. Hæc regio est ex adverso Bactriæ. Opiorum (regio) deinde cujus oppidum Alexandria a conditore dictum." "At the foot of the Caucasus stands the town of Cartana, which was afterwards called Tetragonis (or the Square). This district is opposite to Bactria. Next (to it) are the Opii, whose city of Alexandria was named after its founder." Solinus makes no mention of Cartana, but Ptolemy has a town named Karsana, or Karnasa, which he places on the right bank of a nameless river that comes from the vicinity of Kapisa and Niphanda (or Opiân), and joins the river of *Locharna*, or Lohgarh, nearly opposite Nagara. This stream I take to be the united Panjshir and Ghorband river, which joins the Lohgarh river about halfway between Kabul andJalâlâbâd. This identification is rendered nearly certain by the position assigned to the *Lambatæ*, or people of Lampaka or Lamghan, who are placed to the east of the nameless river, which cannot therefore be the Kunar river, as might otherwise have been inferred from its junction with the Lohgarh river opposite Nagara.
 
 [^51]: "Hist. Nat., vi. 23."
 
  This being the case, the *Karsana* of Ptolemy may at once be identified with the *Cartana* of Pliny; and the few facts related by both authors may be combined to aid us in discovering its true position. According to Pliny, it was situated at the foot of the Caucasus, and not far from Alexandria; whilst, according to Ptolemy, it was on the right bank of the Panjshir river. These data point to Begrâm, which is situated on the right bank of the united Panjshir and Ghorband rivers, immediately at the foot of the Kohistan
-
-
 
 hills, and within 6 miles of Opiân, or Alexandria Opiane. As I know of no other place that answers all these requirements, it seems most probable that Begrâm must be the true locality. Parwân and Kushân are ancient places of some consequence in the neighbourhood of Opiân; but they are both on the left bank of the Ghorband river, while the first is probably the *Baborana* of Ptolemy, and the other his Kapisa. Begrâm also answers the description whichPliny gives of Cartana, as *Tetragonis*, or the "Square;" for Masson, in his account of the ruins, specially notices "some mounds of great magnitude, and accurately describing a square of considerable dimensions[^60]."
 
@@ -539,8 +414,6 @@ hills, and within 6 miles of Opiân, or Alexandria Opiane. As I know of no other
 
 [^61]: " Milindu-prasna, quoted by Hardy, in 'Manual of Buddhism,' pp. 440, 516."
 
-
-
 *sana* to have gradually approached each other as they increased in size, until at last they virtually became one large city. On the coins of the earlier Greek kings of Ariana,—Euthydemus, Demetrius, and Eukratides, —we find the monograms of both cities; but after the time of Eukratides, that of Opiana disappears altogether, while that of Karsana is common to most of the later princes. The contemporary occurrence of these mint monograms proves that the two cities were existing at the same time; while the sudden disuse of the name of Opian may serve to show that, during the latter period of Greek occupation, the city of Alexandria had been temporarily supplanted by Karsana.
 
  The appellation of Begrâm means,I believe, nothing more than "the city" *parexcellence*, as it is also applied to three other ancient sites in the immediate vicinity of great capitals, namely, Kabul, Jalâlâbâd, and Peshawar. Masson derives the appellation from the Turki *be* or *bi*, "chief," and the Hindi *grâm*, or city,— that is, the capital[^62].But a more simple derivation would be from the Sanskrit *vi*, implying "certainty," "ascertainment,” as in *vijaya*, victory, which is only an emphatic form of*jaya* with the prefix *vi-Vigrâma* would therefore mean emphatically "the city" —that is, the capital; and *Bigrâm* would be the Hindi form of the name, just as *Bijay* is the spoken form of *Vijaya*.
@@ -549,24 +422,13 @@ hills, and within 6 miles of Opiân, or Alexandria Opiane. As I know of no other
 
  The plain of Begrâm is bounded by the Panjshir and the Koh-dâman rivers on the north and south; by the Mahighir canal on the west; and on the east by the lands of Julgha, in the fork of the two rivers.
 
-
-
 Its length, from Bayân, on the Mahighir canal, to Julgha, is about 8 miles; and its breadth, from Kilah Buland to Yuz Bashi, is 4 miles. Over the whole of this space vast numbers of relics have been discovered, consisting of small images, coins, seals, beads, rings, arrow-heads, fragments of pottery, and other remains, which prove that this plain was once the site of a great city. According to the traditions of the people, Begrâm was a Greek city, which was overwhelmed by some natural catastrophe[^63].Masson doubts the tradition, and infers from the vast number of Kufic coins found there, that the city must have existed for some centuries after the Muhammadan invasion. I am inclined to think that Masson is right, and that the decline of the city was caused by the gradual desertion of the people, consequent on the transfer of the seat of government to Ghazni, after the conquest of the country by the Muhammadans. Coins of the last Hindu Rajas of Kabul and of the first Muhammadan kings of Ghazni are found in great numbers; but themoney of the later Ghaznavi princes is less plentiful, whilst of the succeeding Ghori dynasty only a few specimens of some of the earlier sovereigns have yet been discovered. From these plain facts, I infer that the city began gradually to decay after the Muhammadan conquest of Kabul by Sabuktugîn, towards the end of the tenth century, and that it was finally deserted about the beginning of the thirteenth century. As the latter period corresponds with the date of Janghez Khan's invasion of these provinces, it is very possible, as Masson has already supposed, that Begrâm may have been finally destroyed by that merciless barbarian.
 
 [^63]: " Masson, 'Travels,' iii. 159."
 
-
-
 **Other Cities pf Kapisene**
 
 I will close this account of Kapisene with some remarks on the few other cities of the same district that are mentioned by ancient authors. Pliny describes one city as "ad Caucasum Cadrusi, oppidum ab Alexandro conditum," which is slightly altered by Solinusto "Cadrusia oppidum ab Alexandro Magno ad Caucasum constitutum est, ubi et [Alexandria.](http://# "Plin. Hist. Nat., vi. 25. Solin. lvii.")"Bothauthors place the city close to the Caucasus, to which Solinus adds, that it was also near Alexandria. Following these two distinct indications, I am disposed to identify the city of *Cadrusi* with the old site of *Koratâs*, which Masson discovered under the hills of Kohistan, 6 miles to the north-east of Begrâm, and on the north bank of the [Panjshir river.](http://# "Travels,' iii. 166.")There are the usual remains of an old city, consisting of mounds covered with fragments of pottery, amongst which old coins are frequently found. There are also remains of masonry works about the hills, which the people call Kâfir-kot, or the Kâfir's fort. The commentators have accused Solinus of misunderstanding Pliny, whose *Cadrusi*, they say, was the name of a people, and whose "oppidum ab Alexandro conditum" was the city of [Alexandria.](http://# "Cellarius, iii. 22, p. 514, “quod Solinus pervertit.") But the passage was differently understood by Philemon Holland, who renders it thus :—"Upon the hill Caucasus standeth the town *Cadrusi*, built likewise by the said Alexander." As a general rule, the Greeks would seem to have designated the various peoples whom they encountered by the names of their principal towns.
-
-
-
-
-
-
-
 
  Thus we have Kabura and the Kabolitæ, Drepsa and the Drepsiani, Taxila and the Taxili, Kaspeira and the Kaspeiræi, from which I would infer, that there was most probably also a town named Cadrusia, whose inhabitants were called Cadrusi. This inference is strengthened by the correspondence, both in name and in position of the ruined mound of Koratâs, with the Cadrusi of Pliny.
 
@@ -578,23 +440,13 @@ I will close this account of Kapisene with some remarks on the few other cities 
 
  The district of Kabul is first mentioned by Ptolemy, who calls the people *Kabolite*, and their capital*Kabura*, 
 
-
-
 which was also named *Ortospana.* The latter name alone is found in Strabo and Pliny, with a record of its distance from the capital of Arachosia, as measured by Alexander's surveyors, Diognetes and Baiton. In some copies of Pliny the name is written *Orthospanum*, which, with a slight alteration to *Orthostana*, as suggested by [H. H. Wilson](http://# "'Ariana Antiqua,'p.176."),is most probably the Sanskrit *Urddhasthâna*, that is, the "high place," or lofty city. The same name is also given to the Kabul district by the Chinese pilgrim Hwen Thsang. But I strongly suspect that there has been some accidental interchange of names between the province and its capital. On leaving Ghazni, the pilgrim travelled to the north for 500 *li*, or 83 miles, to *Fo-li-shi-sa-tang-na*, of which the capital was *Hu-phi-na*. Now by two different measured routes the distance between Ghazni and Kabul was found to be 81 and [88½ miles](http://# "Thornton's 'Gazetteer,' Appendix.").There can be no doubt, therefore, that Kabul must be the place that was visited by the pilgrim. In another place the capital is said to be 700 *li*, or 116 miles, from Bamian, which agrees very well with the measured distance of [104 miles](http://# "Lieutenant Sturt, Engineers, by perambulator.") between Bamian and Kabul, along the shortest route.
 
  The name of the capital, as given by the Chinese pilgrim, has been rendered by M. Vivien de St. Martin as *Vardasthâna*, and identified with the district of the Wardak tribe, while the name of the province has been identified with Hupiân or Opiân. But the Wardak valley, which receives its name from the Wardak tribe, lies on the upper course of the
 
- 
-
-
-
 Logarh river, at some distance to the south of Kabul, and only 40 miles to the north of Ghazni, while Hupiân or Opiân lies 27 miles to the north of Kabul, or more than 70 miles distant from Wardak. My own researches lead me to conclude that both names refer to the immediate neighbourhood of Kabul itself.
 
  Professor Lassen has already remarked that the name of *Kipin*, which is so frequently mentioned by other Chinese authors, is not once noticed by Hwen Thsang. Remusat first suggested that Kipin was the country on the Kophes or Kabul river; and this suggestion has ever since been accepted by the unanimous consent of all writers on ancient India, by whom the district is now generally called Kophene. It is this form of the name of *Kipin* that I propose to identify with the *Hu-phi-na* of Hwen Thsang, as it seems to me scarcely possible that this once famous province can have remained altogether unnoticed by him, when we know that he must have passed through it, and that the name was still in use for more than a century after his [time](http://# "Lassen, 'Points in the History of the Greek Kings of Kabul,' p. 102.").I have already stated my suspicion that there has been some interchange of names between the province and its capital. This suspicion is strengthened when it is found that all difficulties are removed, and the most complete identification obtained, by the simple interchange of the two names. Thus *Hu-phi-na* will represent *Kophene*, or *Kipin*, the country on the Kabul river, and *Fo-li-shi-sa-tang-na*, or *Urddhasthâna*, will represent *Ortostana*, which, as we know from several classical authorities, was the actual capital of this province.
-
-
-
-
 
  I may remark that *Huphina* is a very exact Chinese transcript of *Kophen*, whereas it would be a very imperfect transcript of *Hupiân*, as one syllable would be altogether unrepresented, and the simple *p* would be replaced by an aspirate. The correct transcript of Hupiân would be *Hu-pi-yan-na*.
 
@@ -602,28 +454,15 @@ Logarh river, at some distance to the south of Kabul, and only 40 miles to the n
 
  The position of Ortospana I would identify with Kabul itself, with its *Bala Hisâr*, or “high fort," which I take to be only a Persian translation of *Ortospana*, or *Urddhasthâna*. It was the old capital of the country before the Macedonian conquest, and so late as the tenth century it was still believed that a king was not properly qualified to govern until he had been inaugurated at [Kabul](http://# "Ouseley, 'Oriental Geography,' p. 226.")." Hekatæus also describes
 
-  
-
-
-
-
 a "royal town" amongst the [*Opiai*](http://# "Steph. Byz. in v. Ωπίαι. Ἐν δὲ τεῖχος Βασιλήϊον μέχρι τούτου Ωπίαι, ἀπὸ τούτων ἐρημίη μέχρι "),but we have no data for determining either its name or its position. It seems most probable, however, that Kabul must be intended, as we know of no other place that could have held this position after the destruction of Kapisa by Cyrus; but in this case Kabul must have been included within the territories of the Opiai.
 
  It is strange that there is no mention of Kabul in the histories of Alexander, as he must certainly have passed through the town on his way from Arachosia to the site of Alexandria. I think, however, that it is most probably the town of *Nikaia*, which was Alexander's first march from his new city on his return from Bactria. *Nikaia* is described by Nonnus as a stone city, situated near a lake. It was also called Astakia, after a nymph whom Bacchus had [abused](http://# "'Dionysiaca,' xvi., last three lines :-  Καὶ πτόλιν εὐλάϊγγα φιλακρήτῳ, παρὰ λίμνη, Τεύξε θεὸς Νίκαιαν ἐπώνυμον, ἣν απὸ Νύμφης ᾿Αστακίης ἐκάλεσσε, καὶ Ἰνδοφόνον μετὰ νίκην.  The meaning of which appears to be, that “Bacchus built a stone city, named Nikaia, near a lake, which he also called Astakia, after the nymph, and Indophôn, in remembrance of his victory."). The lake is a remarkable feature, which is peculiar in Northern India to Kabul and Kashmir. The city is also said to have been called *Indophôn*, or "Indian-killer," on account of the victory which Bacchus had gained over the Indians on this spot. From this name I infer, that Nonnus had most probably heard of the popular meaning which is attributed to the name of *Hindu-kush*, or "Hindu-killer," and that he adopted it at once as corroborative of the Indian conquests of Dionysius.
-
-
-
-
 
  The province is described as being 2000 *li*, or 333 miles, in length from east to west, and 1000 *li*, or 166 miles, in breadth from north to south. It is probable that this statement may refer to the former extent of the province, when its king was the paramount ruler of Western Afghanistan, including Ghazni and Kandahar, as the actual dimensions of the Kabul district are not more than one-half of the numbers here stated. Its extreme length, from the sources of the Helmand river to the Jagdalak Pass, is about 150 miles, and its extreme breadth, from Istâlif to the sources of the Logarh river, is not more than 70 miles.
 
  The name of Kophes is as old as the time of the Vedas, in which the *Kubhâ*river is mentioned as an affluent of the Indus; and as it is not an Arian word, I infer that the name must have been applied to the Kabul river before the Arian occupation, or, at least, as early as B.C. 2500. In the classical writers we find the *Khoes, Kophes,* and *Khoaspes* rivers, to the west of the Indus, and at the present day we have the *Kunar,* the *Kuram*, and the *Gomal* rivers to the west, and the *Kunihar* river to the east of the Indus, all of which are derived from the Scythian *ku*, "water." It is the guttural form of the Assyrian *hu* in Euphrates and Eulæus, and of the Turki *su* and the Tibetan *chu*, all of which mean water or river. The district of *Kophene* must, therefore, have received its name from the river which flowed through it, like as Sindh from the Sindhu or Indus, Margiana from the Margus, Aria from the Arius, Arachosia from the Arachotus, and others. It is not mentioned by Alexander's historians, although the river Kophes is noticed by all of them.
 
-
-
  In Ptolemy's 'Geography' the city of *Kabura* and the *Kabolite*, with the towns of *Arguda*, or Argandi, and *Locharna*, or Logarh, are all located in the territories of the Paropamisadæalong the Kabul river. Higher up the stream he places the town of *Bagarda*, which corresponds exactly in position, and very closely in name with the valley of *Wardak*. All the letters of the two names are the same; and as the mere transposition of the guttural to the end of the Greek name will make it absolutely identical with the modern name, there is strong evidence in favour of the reading of *Bardaga* instead of *Bagarda*. According to [Elphinstone](http://# "'Kabul,' i.160."),the *Wardak* tribe of Afghans occupy the greater part of the Logarh valley. This is confirmed by [Massou](http://# "'Travels,' ii.223."),who twice visited the district of Wardak; and by [Vigne](http://# "'Ghazni,' p.140."),who crossed it on his way from Ghazni to Kabul. The only objection to this identification that occurs to me is, the possibility that *Bagarda* may be the Greek form of *Vaekereta*, which is the name given in the 'Zend Avesta' to the seventh country that was successively occupied by the Arian race. From its position between Bactria, Aria, and Arachosia, on one side, and India on the other, *Vaekereta* has usually been identified with the province of Kabul. This, also, is the opinion of the Parsis themselves. Vackereta is further said to be the seat or home of *Duzhâk*, which further tends to confirm its identification with Kabul, as the acknowledged country of *Zohâk*. If the *Wardaks* had ever been a ruling tribe, I should be disposed to infer that the name of *Vackereta* might, probably, have been derived from them. But in our present total ignorance 
-
-
 
 of their history, I think that it is sufficient to note the very great similarity of the two names.
 
@@ -635,23 +474,15 @@ of their history, I think that it is sufficient to note the very great similarit
 
  This district possessed two capitals, called *Ho-si-na* and *Ho-sa-lo*. The first has been identified by M. de St. Martin with *Ghazni*, which is quite satisfactory; but his suggestion that the other may be connected. with *Hazâra* is, I think, very doubtful. Hazâra is the name of a district, and not of a town; and its applica-
 
-
-
 tion to this part of the country is said by the people themselves not to be older than the time of [Janghez Khan](http://# "'Ayin Akbari,' ii.163."). I would, therefore, identify it with *Guzar* or *Guzaristan*, which is the chief town on the Helmand at the present day; and with the *Ozola* of Ptolemy, which he places in the north-west of Arachosia, or in the very same position as *Guzaristan*.
 
  The name of *Tsaukuta* still remains to be explained. The identifications just made show that it corresponds exactly with the Arachosia of classical writers, which is the *Arokhaj* and *Rokhaj* of the Arab geographers. The latter form is also found in Arrian's 'Periplus of the Erythræan Sea' as '*Pa**x**ov*σ*o*ι. It was, therefore, not unusual both before and after the time of Hwen Thsang to drop the initial syllable of the name. The original form was the Sanskrit *Saraswati*, which in Zend became *Haraqaïti*, and in Greek '*Apaxw*τ*ós*, all of which agree in the last two syllables with the Chinese *Tsaukuta*. The first Chinese syllable *Tsau* must, therefore, correspond with the *Ra* of the other forms. This change may, perhaps, be explained by a peculiarity of the Turki language, which frequently changes the letter *r* into a soft *z* or *sh*, as the Turki words *dengiz*, "sea," and *okuz*, "ox," are the same as the Hungarian *tenger* and [*okur*](http://# "Prichard, 'Physical History of Mankind,' iv. 403.").On the Indo-Scythian coins, also, we find the Turki names of *Kanishka, Huvishka*, and *Kushina* changed to *Kanerke, Hoverke,* and *Korano* in Greek. It seems possible, therefore, that the initial syllable *Tsau* of the Chinese transcript may be only the peculiar Turki pronunciation of the Indian *Ra*, which would naturally have come into use with the 
-
-
-
-
 
 occupation of the country by the Turki tribe of Tochari, about the beginning of the Christian era.
 
  In the seventh century the king of Ghazni, who was a Buddhist, was descended from a long line of ancestors. Both the alphabet and the language of the people are said to have been different from those of other countries; and as Hwen Thsang was acquainted with both the Indian and Turki languages, I infer that the speech of the people of Ghazni was most probably Pushtu. If so, the people must have been Afghans; but, unfortunately, we have no other clue to guide us in settling this very interesting point, unless, indeed, the name of *O-po-kien*, a place to the south-east of Ghazni, may be identified with *Afghân*, a point which will be discussed hereafter.
 
  Of Guzaristân, on the Helmand, I am not able to give any further information, as that part of the country has not yet been visited by any European. Ghazni itself is too well known to require any particular description, but I may note that it must have been in a very flourishing condition in the seventh century, as Hwen Thsang estimates its circuit at 30 *li*, or 5 miles. At the present day the circuit of the walled town is not more than one mile and a quarter. Vigne calls it an irregular pentagon, with sides varying from 200 to 400 yards in length, strengthened by numerous towers. He [adds](http://# "´Ghazni,' p. 122."),that "the Afghans boast much of the strength of the walls and fortifications of Ghazni." But Ghazni has always been famous in the East as a place of strength and security; and for this very reason it received its name of *Gaza*, an old Persian term for a "treasury." It is described in some 
-
-
 
 crabbed lines of the 'Dionysiaca' of Nonnus, who lived about A.D. 500, and also in the 'Bassarica' of Dionysius, who lived not later than A.D. 300. Both of them refer pointedly to its impregnability. Dionysius calls it,-
 
@@ -664,10 +495,6 @@ and Nonnus [says](http://# "'Dionysiaca,' xxvi. 30:- -   καὶ οἱ λινο�
 
  The district of Lan-po, or Lamghân, is noted by Hwen Thsang as being 600 li, or just 100 miles, to the east of Kapisene. He describes the road as a succession of hills and valleys, some of the hills being of great height. This description agrees with all the recent accounts of the route along the northern bank of the river from Opiân to Lamghân. The bearing and distance also coincide so exactly with the position of Lamghân that there can be no doubt of the identity of
 
-
-
-
-
 the two districts. Ptolemy, also, places a people called *Lambate* in the very same position. From a comparison of this term with the modern appellation of Lamghân, it seems probable that the original form of the name was the Sanskrit *Lampaka*. I would, therefore, correct Ptolemy's *Lambatæ* to *Lambage*, by the slight change**Γ**of for **T.** The modern name is only an abbreviation of *Lampaka,* formed by the elision of the labial. It is also called *Laghmân* by the simple transposition of the middle consonants, which is a common practice in the East. The credulous Muhammadans derive the name from the patriarch Lamech, whose tomb they affirm still exists in Lamghân. It is noticed by Baber and by Abul Fazl.
 
  The district is described by Hwen Thsang as being only 1000 *li*, or 166 miles, in circuit, with snowy mountains on the north, and black hills on the other three sides. From this account it is clear that *Lan-po* corresponds exactly with the present Lamghân, which is only a small tract of country, lying along the northern bank of the Kabul river, bounded on the west and east by the Alingar and Kunar rivers, and on the north by the snowy mountains. This small tract is very nearly a square of 40 miles on each side, or 160 miles in circuit. It had formerly been a separate kingdom; but in the seventh century the royal family was extinct, and the district was a dependency of Kapisene.
@@ -676,27 +503,15 @@ the two districts. Ptolemy, also, places a people called *Lambate* in the very s
 
  From Lamghân the Chinese pilgrim proceeded for 100 *li*, or nearly 17 miles, to the south-east, and, after crossing a large river, reached the district of *Nagara*-
 
-
-
 *hára*. Both the bearing and distance point to the Nagara of Ptolemy, which was to the south of the Kabul river, and in the immediate vicinity of Jalâlâbâd. Hwen Thsang writes the name *Na-ki-lo-ho*; but [M.Julien](http://# "Hiouen Thsang,' ii. 96, note.")has found the full transcript of the Sanskrit name in the annals of the Song dynasty, in which it is written *Nang-go-lo-ho-lo*. The Sanskrit name occurs in an inscription which was discovered by Major Kittoe in the ruined mound of *Ghosrâwâ*, in the district of [Bihâr](http://# "Journ. Asiat. Soc. Bengal, 1848, pp. 490, 491."). Nagarahâra is said to be 600 *li*, or 100 miles, in length from east to west, and upwards of 250 *li*, or 42 miles, in breadth from north to south. The natural boundaries of the district are the Jagdalak Pass on the west, and the Khaibar Pass on the east, with the Kabul river to the north, and the *Safed Koh*, or snowy mountains, to the south. Within these limits the direct measurements on the map are about 75 by 30 miles, which in actual road distance would be about the same as the numbers stated by Hwen Thsang.
 
  The position of the capital would appear to have been at Begrâm, about 2 miles to the west of Jalâlâbâd, and 5 or 6 miles to the W.N.W. of Hidda, which by the general consent of every inquirer has been identified with the *Hi-lo* of the Chinese pilgrims. The town of *Hilo* was only 4 or 5 *li*, or about three-quarters of a mile, in circuit; but it was celebrated for its possession of the skull-bone of Buddha, which was deposited in a *stupa*, or solid round tower, and was only exhibited to pilgrims on payment of a piece of gold. Hidda is a small village, 5 miles to the
 
- 
-
-
-
 south of Jalâlâbâd; but it is well known for its large collection of Buddhist stupas, tumuli, and caves, which were so successfully explored by Masson. The presence of these important Buddhist remains, in the very position indicated by the Chinese pilgrims, affords the most satisfactory proof of the identity of Hidda with their *Hilo*. This is further coufirmed by the absolute agreement of name, as *Hi-lo* is the closest approximation that could be made in Chinese syllables to the original *Hiṛa* or *Hiḍa*. The capital must, therefore, have been situated on the plain of Begrâm, which is described by [Masson](http://# "'Travels,' ii. 164.")as "literally covered with tumuli and mounds." "These," he adds, "are truly sepulehral monuments; but, with the topes, sanction the inference that a very considerable city existed here, or that it was a place of renown for sanetity. It may have been both." I think it is just possible that *Hidda* may be only a transposition of *Haddi*, a bone, as the stupa of the skull-bone of Buddha is said in one [passage](http://# "'Hiouen Thsang,' i. 77.")to have been in the town of *Hilo*, while in another passage it is located in the town of *Fo-ting-ko-ching*, which is only a Chinese translation of "Buddha's skull-bone town." During the course of this disquisition I shall have to notice the frequent occurrence of short descriptive names of places which were famous in the history of Buddha. I am, therefore, led to think that the place which contained the skull-bone of Buddha would most probably have been known by the familiar name of *Asthipura* amongst the learned, and of *Haddipura*, or "Bone-town" amongst the common people. Similarly the skull-necklace of Siva is called simply the *asthimâlâ*, or 'bone-necklace.'
-
-
 
 * Nagarahâra* was long ago identified by Professor Lassen with the *Nagara* or *Dionysopolis* of Ptolemy, which was situated midway between Kabura and the Indus. The second name suggests the probability that it may be the same place as the *Nysa* of Arrian and Curtius. This name is perhaps also preserved in the *Dinus* or *Dinuz* of [Abu Rihân](http://# "Reinand's 'Fragments,' p. 114."),as he places it about midway between Kabul and Parashâwar. According to the tradition of the people, the old city was called [*Ajûna*](http://# "Masson's 'Travels,' ii. 164."),in which I think it possible to recognize the Greek *Δíov*, as the river Yamuna or Jumna is rendered *Diamuna* by Ptolemy, and the Sanskrit *yamas* or *jamas*, the south, is rendered *Diamasa* by [Pliny](http://# "Hist. Nat., vi. c. 22"). It is, however, much more likely that *Ajûna*, by transposition of the vowels may be only a corrupt form of the Pali *Ujjâna*, and Sanskrit *Udyâna*, "a garden," as M. Vivien de St. Martin states that *Udyânapura* was an old name of [Nagarahâra](http://# "'Hiouen Thsang,' iii. 305.").If this identification be correct the position of the capital must certainly have been at Begrâm, as I have already suggested. The name of Dionysopolis was no doubt the most usual appellation during the whole period of Greek dominion, as one of the commonest mint-monograms on the coins of the Greek kings of Ariana forms the letters *ΔION*, which will not suit the name of any Indian city recorded by ancient authors, save that of Dionysopolis. In the beginning of the fifth century it is called simply *Na-kie* or *Nagara*, by Fa Hian, who adds that it was then an independent State governed by its own king. In A.D. 630, at the time of Hwen Thsang's visit, it was without a king, and subject to Kapisene. After this 
 
-
-
 ![](../books_images/U-IMG-1698256736mapppptosee1.jpg)![](../books_images/U-IMG-1698256232mapppptosee2.jpg)
-
-
 
 it most probably followed the fortunes of the sovereign State, and became successively a part of the Brahman kingdom of Kabul and of the Mahommedan empire of Ghazni.
 
@@ -706,13 +521,9 @@ it most probably followed the fortunes of the sovereign State, and became succes
 
  The actual boundaries of the district are not de-
 
-
-
 scribed, but its size is given as 1000 *li*, or 166 miles, from east to west, and 800 *li*, or 133 miles, from north to south. This is, perhaps, nearly correct, as the extreme length, whether taken from the source of the Bara river to Torbela, or from the Kunar river to Torbela, is 120 miles, measured on the map direct, or about 150 miles by road. The extreme breadth, measured in the same way, from Bâzâr, on the border of the Bunir hills, to the southern boundary of Kohât, is 100 miles direct, or about 125 miles by road. The boundaries of Gândhâra, as deduced from these measurements, may be described as Lamghân and Jalâlâbâd on the west, the hills of Swât and Bunir on the north, the Indus on the east, and the hills of Kâlabâgh on the south. Within these limits stood several of the most renowned places of ancient India; some celebrated in the stirring history of Alexander's exploits, and others famous in the miraculous legends of Buddha, and in the subsequent history of Buddhism under the Indo-Seythian prince Kanishka.
 
  The only towns of the Gandaræ named by Ptolemy are Naulibe, Embolima, and the capital called Proklaïs. All of these were to the north of the Kophes; and so also were Ora, Bazaria, and Aornos, which are mentioned by Alexander's historians. Parashâwar alone was to the south of the Kophes. Of Naulibe and Ora I am not able to offer any account, as they have not yet been identified. It is probable, however, that *Naulibe* is *Nilâb*, an important town, which gave its name to the Indus river; but if so, it is wrongly placed by Ptolemy, as Niláb is to the south of the Kophes. The positions of the other towns I
-
-
 
 will now proceed to investigate, including with them some minor places visited by the Chinese pilgrims.
 
@@ -722,17 +533,9 @@ will now proceed to investigate, including with them some minor places visited b
 
  According to Arrian, Peukelas was a very large and populous city, seated not far from the river [Indus](http://# "Arrian, 'Indica,' i."). It was the capital of a chief named [Astes](http://# "Arrian, ' Anabasis,' iv. 22."),perhaps *Hasti*, who was killed in the defence of one of his strongholds, after a siege of thirty days, by Hephæstion. Upon the death of Astes the city of Peukelaotis was delivered up to Alexander on his march towards the Indus. Its position is vaguely described by Strabo and Arrian as "near the Indus." But the geographer Ptolemy is more exact, as he fixes it on the eastern bank of the river of Suastene, that is, the Panjkora or Swât river, which is the very
 
-  
-
-
-
 locality indicated by Hwen Thsang. On leaving Parashâwar the Chinese pilgrim travelled towards the north-east for 100 *li*,or nearly 17 miles; and, crossing a great river, reached *Pu-se-kia-lo-fa-ti*, or Pushkalavati. The river here mentioned is the Kophes, or river of Kabul; and the bearing and distance from Peshâwar point to the two large towns of Parang and Chârsada, which form part of the well-known *Hashtnagar*, or "Eight Cities," that are seated close together on the eastern bank of the lower Swât river. These towns are Tangi, Shirpao, Umrzai, Turangzai, Usmânzai, Rajur, Chârsada, and Parang. They extend over a distance of fifteen miles; but the last two are seated close together in a bend of the river, and might originally have been portions of one large town. The fort of Hisâr stands on a mound above the ruins of the old town of Hashtnagar, which General Court places on an island, nearly opposite [Rajur](http://# "Journ. Asiat. Soc. Bengal, 1836, p. 479.")."All the suburbs," he says, "are scattered over with vast [ruins](http://# "Ibid., 1836, p. 394.")." The eight cities are shown in No. IV. Map.
 
  It seems to me not improbable that the modern name of Hashtnagar may be only a slight alteration of the old name of *Hastinagara*, or "city of Hasti," which might have been applied to the capital of Astes, the Prince of Peukelaotis. It was a common practice of the Grecks to call the Indian rulers by the names of their cities, as Taxiles, Assakanus, and others. It was also a prevailing custom amongst Indian princes to designate any additions or alterations made to their capitals by their own names. Of this last custom we have a notable instance in the famous city of Delhi; which, besides its ancient ap-
-
- 
-
-
 
 pellations of Indraprastha and *Dilli*, was also known by the names of its successive aggrandizers as Kot-Pithora, Kila-Alai, Tughlakâbâd, Firuzâbâd, and Shahjahânâbâd. It is true that the people themselves refer the name of Hashtnagar to the “eight towns" which are now seated close together along the lower course of the Swât river; but it seems to me very probable that in this case the wish was father to the thought, and that the original name of Hastinagar, or whatever it may have been, was slightly twisted to Hashtnagar, to give it a plausible meaning amongst a Persianized Muhammadan population, to whom the Sanskrit Hastinagara was unintelligible. To the same cause I would attribute the slight change made in the name of *Nagarahâra*, which the people now call [*Nang-nihâr*](http://# "Baber's 'Memoirs,' p. 141.—Wood's 'Journey to the Source of the Oxus,' p.167.- Macgregor's 'Geography of Jalalabad,' in Journ. Asiat. Soc. Bengal, xi. 117, and xiii, 867."),or the "Nine Streams."
 
@@ -742,53 +545,27 @@ pellations of Indraprastha and *Dilli*, was also known by the names of its succe
 
  Hwen Thsang next visited a town called *Po-lu-sha*, which, I think, may be identified with *Palo-dheri*, or
 
-
-
-
-
 the village of *Pali*, which is situated on a *dheri*, or "mound of ruins," the remains of some early town. To the north-east of the town, at 20 *li*, or 3_(![](../books_images/U-IMG-1700640261Screenshot2023-11-22081626.png)) miles, rose the hill of *Dantaloka*, with a cave, in which Prince Sudâna and his wife had taken refuge. The positionof *Palodheri*, which is the *Pelley* of General Court, agrees with Hwen Thsang's distance of about 40 miles from [Pushkalavati](http://# "See No. IV. Map.");and this identification is supported by the existence of the great cave of *Kash-miri-Ghâr*, in the hill to the east-north-east, and within 3 or 4 miles of Palodheri. Mount Dantalok I take to be the *Montes Dædali* of [Justin](http://# "Historiæ,' xii. 7."), as in the spoken dialects the nasal of the word *danta* is assimilated with the following letter, which thus becomes doubled, as in the well-known *datton*, a "tooth-brush," or twig used for cleaning the teeth.
 
 *Utakhanda, or Ohind, or Embolima.*
 
  From *Polusha* Hwen Thsang travelled 200 *li*, or 33 miles, to the south-east to *U-to-kia-han-cha*, which M. Julien transcribes as Udakhanda, and M.Vivien de St.Martin identifies with Ohind on the Indus. The pilgrim describes *Udakhanda* as having its south side resting on the river, which tallies exactly with the position of Ohind, on the north bank of the Indus, about 15 miles above Attok. General Court and Burnes call this place *Hund*, and so does Mr. Loewenthal, who styles *Ohind* a mistaken pronunciation. But the name was writtenوایہیند*Waihand* or *Oaihand*, by Abu Rihân in A.D. 1030, and *Ohind* by Mirza Mogal Beg in 1790. To my ear the name sounded something like *Wahand*, and this would appear to have been the
 
-
-
-
-
 pronunciation which Rashid-ud-din obtained in A.D. 1310, as he names the place *[Wehand](http://# "There is a place of the same name on the Jhelam, which Moorcroft spells Oϊn.")*.According to all these authors *Waihand* was the capital of Gândhâra, and Rashid-ud-din adds that the Mogals called it *Kârajâng*. The only native writer who uses the abbreviated form of the name is Nizâm-ud-din, who in his'Tabakât-i-Akbari ' says that Mahmud besieged Jaipal in the fort of *Hind* in a.d. 1002. But this place is differently named by Ferishta, who calls it the fort of Bithanda, بتہندہ. In this last name we have a very near approach to the old form of *Utakhanda*, which is given by Hwen Thsang. From all these examples, I infer that the original name of *Utakhanda*, or *Ut-khand*, was first softened to Uthand or *Bithanda*, and then shortened to *Uhand* or *Ohind*. The other form of Wehand I look upon as a simple misreading of *Uthand*, as the two words only differ in the position of the diacritical points of the second letter. General James Abbott, in his 'Gradus ad Aornon,' calls the place *Oond*, and says that it was formerly called *Oora*, from which he thinks it probable that it may be identified with the Ora, "*Ωpa*, of Alexander's historians.
 
  I have entered into this long detail out of respect for the acknowledged learning of the late lamented Isidor Loewenthal. His opinion as to the name of Ohind was most probably, although quite unconsciously, biassed by his belief that Utakhanda was to be found in the modern Attak. But this place is unfortunately on the wrong side of the Indus, besides which its name, as far as I am aware, is not to be found in any author prior to the reign of Akbar. Abul Fazl
-
-
-
-
 
 calls the fort *Atak-Banâras*, and states that it was built in the reign of his Majesty. Baber never mentions the place, although he frequently speaks of Nilâb. Rashid-ud-din, however, states that the Parashâwar river joins the Indus near *Tankur*, which most probably refers to the strong position of Khairabad. I have a suspicion that the name of *Attak*, the "forbidden," may have been derived by Akbar from a mistaken reading of Tankur, with the Arabic article prefixed, as *Et-tankur*. The name of *Banâras* was undoubtedly derived from *Banâr*, the old name of the district in which the fort is situated. The name of Banâr suggested *Banâras*, and as *Kâsi-Baânras* was the city which all Hindus would wish to visit, so we may guess that this fact suggested to the playful mind of Akbar the exactly opposite idea of *Attak Banâras* or the "forbidden" Banâras, which all good Hindus should avoid. Or the existence of [*Katak Banâras*](http://# "'Ayin Akbari,' ii. 194, and Stirling's Orissa,' in Bengal Asiat Researches, xv. 189.")(or Cuttack) in Orissa, on the extreme eastern limit of his kingdom, may have suggested an alteration of the existing names of Attak and Banâr to *Attak-Banâras* as an antithesis for the extreme west.
 
  *Wehand*, or *Uhand* as I believe it should be written, was the capital of the Brahman kings of Kabul, whose dynasty was extinguished by Mahmud of Ghazni in A.D. 1026. Masudi, who visited India in A.D. 915, states that "the king of El-kandahar (or Gândhâra), who is one of the kings of Es-Sind ruling over this country, is called *Jahaj*; this name is common to all sovereigns of that [country.](http://# "Sir Henry Elliot's 'Muhammadan Historians of India,' i. 57. In the new edition by Professor Dowson, i. 22, the name is altered to Hahaj. ")" Now, *Chach* is the name
 
-
-
-
-
 of the great plain to the east of the Indus, immediately opposite to Ohind; and as the plain of *Banâr* is said to have been named after Raja *Banâr*, it seems probable that the plain of *Chach* may have been named after the Brahman dynasty of Ohind. It is curious that the Brahman dynasty of Sindh was also established by a *Chach* in A.D. 641; but it is still more remarkable that this date corresponds with the period of the expulsion of the Brahman dynasty from *Chichito*, or *Jajhoti*, by the Chandels of Khajurâ. I think, therefore, that there may have been some connection between these events, and that the expelled Jajhotiya Brahmans of Khajurâ may have found their way to the Indus, where they sueceeded in establishing themselves at first in Sindh and afterwards in Ohind and Kabul.
 
  In the time of Hwen Thsang the city was 20 *li*, or upwards of 3 miles, in circuit, and we may reasonably suppose that it must have increased in size during the sway of the Brahman dynasty. It would seem also to have been still a place of importance under the successors of Changiz Khan, as the Mogals had changed its name to Kârajâng. But the building of Attak, and the permanent diversion of the high-road, must seriously have affected its prosperity, and its gradual decay since then has been hastened by the constant encroachments of the Indus, which has now carried away at least one-half of the [old town](http://# "See No. IV. Map for its position.").In the sands at the foot of the cliff, which are mixed with the *débris* of the ruined houses, the gold-washers find numerous eoins and trinkets, which offer the best evidence of the
 
-
-
-
-
 former prosperity of the city. In a few hours' washing I obtained a bronze buckle, apparently belonging to a bridle, a female neck ornament, several flat needles for applying antimony to the eyes, and a considerable number of coins of the Indo-Scythian and Brahman princes of Kabul. The continual discovery of Indo-Seythian coins is a sufficient proof that the city was already in existence at the beginning of the Christian era, which may perhaps induce us to put some faith in the tradition, mentioned by Abul Feda, that *Wehand*, or *Ohind*, was one of the cities founded by Alexander the Great.
 
  After the surrender of Peukelaotis, [Arrian](http://# "'Anabasis,' iv. 28.")relates that Alexander captured other small towns on the river Kophenes, and “arrived at last at *Embolima*, a city seated not far from the rock Aornos," where he left Kraterus to collect provisions, in case the siege should be protracted. Before he left Bazaria, Alexander, with his usual foresight, had despatched Hephæstion and Perdikkas straight to the Indus with orders to "prepare everything for throwing a bridge over the river." Unfortunately, not one of the historians has mentioned the name of the place where the bridge was made; but as the great depôt of provisions and other necessaries was formed at Embolima, I conclude that the bridge must have been at the same place. General Abbott has fixed Embolima at *Amb-Balima* on the Indus, 8 miles to the east of Mahâban ; and certainly if Mahâban was Aornos the identity of the other places would be incontestable. But as the identification of Mahâban seems to me to be altogether unteuable, I would suggest that *Ohind* or *Ambar-Ohind*
-
-
-
-
-
-
 
 is the most probable site of Embolina. Ambar is a village two miles to the north of Ohind, and it is in accordance with Indian custom to join the names of two neighbouring places together, as in the case of *Attak-Banâras*, for the sake of distinction, as there is another *Ohin* on the Jhelam. It must be remembered, however, that *Embolima* or *Ekbolima* may be only a pure Greek name, descriptive of the position of the place, at the junction of the Kabul river with the Indus, where it is placed by Ptolemy. In this case the claim of Ohind would be even stronger than before. That the bridge over the Indus was at, or near, *Embolima*, seems almost certain from the statement of Curtius, that when Alexander had finished his campaign to the west of the Indus by the capture of Aornos, "he proceeded towards [*Ecbolima*](http://# "Vit. Alex., viii. 12, - ");"that is, as I conclude, to the place where his bridge had been prepared by Hephæstion and Perdikkas, and where his provisions had been stored by Kraterus. I infer that the depôt of provisions must have been close to the bridge, because one guard would have sufficed for the security of both bridge and stores.
 
@@ -796,19 +573,11 @@ is the most probable site of Embolina. Ambar is a village two miles to the north
 
  Hwen Thsang next visited *So-lo-tu-lo*, or *Sâlâtura*, the birthplace of the celebrated grammarian Pânini, which he says was 20 *li*, or 3_(![](../books_images/U-IMG-1700621210Screenshot2023-11-22081626.png))miles, to the north-west of Ohind. In January, 1848, during a day's halt at the village of *Lahor*, which is exactly four miles to the north-east of Ohind, I procured several Greek and Indo-Scythian coins, from which it may be
 
-
-
-
-
 inferred, with some certainty, that the place is at least as old as the time of Pânini himself, or about B.C. 350. I have, therefore, no hesitation in identifying Sâlâtura with *Lahor*. The loss of the first syllable of the name is satisfactorily accounted for by the change of the palatal sibilant to the aspirate, according to the well-known usage of the people of western India, by whom the *Sindhu* river was called *Hendhu* and *Indus*, and the people on its banks Hindus or Indians; Sâlâtura would, therefore, have become *Hâlâtura* and *Alâtur*, which might easily have been corrupted to *Lahor*; or, as General Court writes the name, to *Lavor*.
 
 *Aornos.*
 
  In describing the countries to the west of the Indus I must say a few words on the much vexed question of the position of Aornos. In 1836 General Court wrote as follows:— "As relates to Aornos, it is probably the castle which was opposite Attak, and the vestiges of which we see upon the summit of the mountain. Its foundation is attributed to [*Raja Hodi*](http://# "Journ. Asiat. Soc. Bengal, 1836, p. 395.")."In 1848 I suggested that the "vast hill fortress of *Râni-gat*, situated immediately above the small village of Nogrâm, about 16 miles north by west from Ohind, corresponded in all essential particulars with the description of Aornos, as given by Arrian, Strabo, and Diodorus; excepting in its elevation, the height of *Râni-gat* not being more than 1000 feet, which is, however, a very great elevation for so large a *fortress*." In 1854 General James Abbott
-
-
-
-
 
 took up the subject in a very full and elaborate article, in which the various authorities are ably and critically discussed. His conclusion is that the *Mahâban* hill is the most probable site of [Aornos](http://# "Journ. Asiat. Soc. Bengal, 1854, p. 309.").This opinion was combated early in 1863 by Mr. Loewenthal, who again brought forward the claims of Raja Hodi's fort, opposite Attak, which had first been suggested by General [Court](http://# "Ibid., 1863, p. 14.").Towards the end of the year General Abbott replied to Mr. Loewenthal's objections, and reiterated his conviction that "the *Mahâban* is the Aornos of history," although he thinks that the question is still "open to *discussion*."
 
@@ -816,31 +585,19 @@ took up the subject in a very full and elaborate article, in which the various a
 
  I will begin with the name *Aornos*, which, though a Greek word, can hardly, as Mr. Loewenthal observes, be an invention of the Greeks. It must, therefore, be the transcription, either more or less altered, of some native name. Mr. Loewenthal thinks that it was derived from Banâras in its Sanskrit form of *Varânasi*, which a Greek of Alexander's time could only
 
-
-
-
-
 have pronounced by prefixing a vowel. He would thus have got *Avaranas* or *Aornos*. But this is, perhaps, proving too much, as the final letter in *Aornos* is almost certainly the Greek termination, which need not, therefore, have formed part of the original native name. It is also suspicious that the literal transcription of the native name should form a pure Greek word. If *Banârâs* or *Varânasi* was the original form of the name, then we ought to find another Banâras to the north of the Caucasus, as Arrian relates that after passing *Drapsaka*, or Andarâb, Alexander "moved against *Aornos* and *Bactra*, the two chief cities of the Bactrians, which being immediately surrendered to him, he placed a garrison in the castle of [Aornos](http://# "Anabasis,' iii. 29.")."On comparing Arrian's names with Ptolemy's map, it seems evident that his *Bactra* and *Aornos* are the same as Ptolemy's *Zariaspa* and *Bactra regia*, and as the latter is placed in the country of the *Varni*, or_(![](../books_images/U-IMG-1697800970wordddd11.jpg))I conclude that the name *Aornos*, "*Aopvos*, is only a natural and slight alteration of_(![](../books_images/U-IMG-1697801712wordddd12.jpg))or Varnos, made by the followers of Alexander for the sake of obtaining a significant name in Greek. Similarly I would refer the second *Aornos* to *Raja Vara*, whose name is still attached to all the ruined strongholds between Hashtnagar and Ohind. Thus the old hill fort and city of *Takht-i-Bahai*, 15 miles to the north-east of Hashtnagar, is said to have been the residence of Raja *Vara*. But his name is more particularly attached to the grand hill-fort of *Râni-gat* above Nogrâm. *Râni-gat*, or the *Queen's rock*, is a huge upright block on the north edge of the fort, on which Raja Vara's *Rani* is said to have seated her-
-
-
 
 self daily. The fort itself is attributed to Raja *Vara*, and some ruins at the foot of the hill are called Raja *Vara's* stables. Some people call him Raja *Virât*, but as they connect him with the story of the five Pâudus,I conclude that the name has been altered to suit the story.The position of the true *Virất* was in *Matsya* or *Mâcheri*,to the south of Delhi: all others are spurious.I think, therefore, that the hill fort of *Aornos* most probably derived its name from Raja *Vara*, and that the ruined fortress of *Râni-gat* has a better claim to be identified with the Aornos of Alexander than either the *Mahâban* hill of General Abbott, or the castle of *Raja Hodi* proposed by General Court and Mr. Loewenthal.
 
  My chief objections to the Mahâban hill as the representative of Aornos are the following:—1.It is a vast mountain of comparatively easy access, and of which no spur presents a very steep face towards the Indus. 2.The Mahâban hill is not less than 50 miles in circuit, whereas Aornos was not more than 200 stadia, or about 22 miles, according to Arrian, or 100 stadia or 11 miles, according to Diodorus. 3. The *Mahâvana* hill was visited by Hwen Thsang in A.D. 630, and he describes it simply as a great mountain, which derived its name from the *Mahâvana* monastery, in which Buddha had dwelt in a former existence under the name of [*Sarvvada* Raja](http://# "Julien's 'Hiouen Thsang,' ii. 136.").That the monastery was on the top of the mountain we know from the subsequent statement, that he descended the mountain towards the north-west for about 30 or 40 *li* to the *Masura* Monastery. This place may, I believe, be identified with the large village of *Sura* in the Chumla valley,
 
-
-
 which is just 10 miles to the north-west of the highest peak of *Mahâban*. If any fort had then existed on the top of the mountain, it is almost certain that the pilgrim would have mentioned its name, with his usual statement of its size, and of any special point of noteworthiness, such as its inaccessibility, etc. His total silence I look upon as decisive against the existence of any fort on the top of Mahâban, whether occupied or in ruins.
 
  Mr. Loewenthal's objection, based on the opinion of a high military authority, that the Mahâban hill "commands nothing," only shows how readily even a very learned man will accept an utterly false argument when it tells in his own favour. General Abbott has noticed this subject in his reply to Mr. Loewenthal; but some months previous to the publication of his reply, I had already given a similar refutation to this objection, both in conversation with different friends aud in writing to Mr. Loewenthal himself. It is objected that Mahâban "commands nothing;" I reply that it commands the very thing that the people of an invaded country wanted, it commands safety for those who seek its shelter. It is said to be "so much out of the way" that none would have sought it as a place of refuge, and that Alexander would not have wasted time in its reduction, as it did not impede his passage to the [Indus](http://# "Journ. Asiat. Soc. Bengal, 1863, p. 17.").This objection supposes that Alexander's chief object was the passage of the Indus, whereas it is clear, both from his previous and subsequent career, that his invariable plan was never to leave an enemy behind him. For this he had given up the pursuit of Bessus, to conquer Aria, Drangiana, 
 
-
-
 and Arachosia; for this he had spent two years in Sogdiana and Bactriana, until the death of Spitamenes left no enemy remaining; for this he now turned aside from the passage of the Indus to subdue the people who had refused their submission by taking refuge in Aornos; and for this he afterwards recrossed the Hydraotes to attack Sangala, an isolated rock, which commanded nothing but the jangal around it.
 
  Mr. Loewenthal rests his arguments in favour of the castle of Raja Hodi being the Aornos of Alexander, chiefly on the great similarity of the name of *Banâras*, and partly on Sir Neville Chamberlain's opinion that the hill above Khairabad is not only a most conspicuous point for friend and foe, but also one that must be taken before a passage of the Indus at Attok would be attempted by an invading force." The first argument has already been disposed of in my discussion on the name of Aornos. The second argument takes two things for granted; first, that Alexander crossed the Indus at Attak, and, therefore, that he must have reduced the castle of Raja Hodi before he attempted the passage of the river; and next, that the people of the country had thrown themselves into Aornos to *oppose* his passage. The latter was certainly not the case, as we are told by Arrian that the people of Bazaria, "distrusting their strength, fled out of the city in the dead of night, and betook themselves to a rock, called *Aornos*, for [safety](http://# "Anabasis,' iv. 28.").Here we see clearly that the people of Bazaria were desirous of avoiding instead of opposing Alexander; from which we may infer that Aornos did not com-
-
-
 
 mand that passage of the Indus which Alexander had chosen for his bridge of boats. But as all the accounts agree in placing the scene of Alexander's campaign before crossing the Indus in the country to the north of the *Kophes*, or Kabul river, it appears quite certain that neither Aornos itself nor the bridge of boats could have been in the neighbourhood of Attak. For these reasons I conclude that the ruined castle of Raja Hodi cannot possibly be identified with the Aornos of Alexander. Indeed, its name alone seems sufficient to forbid the identification, as the people are unanimous in calling it *Raja Hodi-da-garhi*, or *Hodi-garhi*, an appellation which has not even one syllable in common with Aornos.
 
@@ -848,45 +605,27 @@ mand that passage of the Indus which Alexander had chosen for his bridge of boat
 
  The accounts of Alexander's historians are often vague and sometimes conflicting, but we are generall able to correct or explain the statements of one by those of the others. Where they agree, we can follow them with confidence, as it may be presumed that the original authors from whom they copied were not at variance. The last is fortunately the case with their accounts of Alexander's movements shortly before his
 
-
-
 approach to Aornos. According to Arrian, immediately after crossing the Guræus river Alexander marched straight to *Massaga*, the capital of the Assakeni, and after its capture he dispatched Koinos against Bazaria. Curtius calls the river Choes, and makes Koinos proceed straight to Bazaria, whilst Alexander advanced against *Mazagæ*. Arrian then states that as Bazaria still held out, the king determined to march thither, but hearing that many Indian soldiers had thrown themselves into *Ora*, he changed his plan, and moved against that city, which was captured at the first assault. According to Curtius, the siege of Ora was entrusted to Polysperchon, while the king himself took many small towns, whose inhabitants had sought refuge in Aornos. Arrian makes the people of Bazaria fly to Aornos for safety, but he agrees with Curtius in stating that the inhabitants of many of the neighbouring villages followed their example. From these accounts it is evident that Aornos was beyond Bazaria, and from the subsequent narratives of Arrian and Curtius, it is equally clear that *Embolima* was beyond Aornos, and on the Indus, where Ptolemy has placed it. Taking all these points into consideration, I believe that *Bazaria, Aornos and Embolima* may be best identified with *Bâzâr, Râni-gat* and *[Ohind](http://# "It would appear also from Arrian, iv. 28, that Aornos was only one day's march from Embolima, which agrees with the distance of Rânigat from Ohind of 16 miles. See No. IV. Map. ").*
 
  *Bâzâr* is a large village situated on the bank of the *Kalpan*, or *Kâli-pâni* river, and quite close to the town of *Rustam*, which is built on a very extensive old mound attributed to the time of the *Kafirs* or Hindus.
 
-
-
-
-
 According to tradition, this was the site of the original town of *Bâzâr*. The position is an important one, as it stands just midway between the Swât and Indus rivers, and has, therefore, been from time immemorial the *entrepôt* of trade between the rich valley of Swât and the large towns on the Indus and Kabul rivers. Indeed, its name of *Bâzâr*, or "Mart," is sufficient to show that it has always been a place of consequence. Judging, therefore, by the importance of the place alone,I should be induced to select *Bâzâr* as the most probable representative of *Bazaria*; but this probability is turned almost to certainty by its exact correspondence, both in name and in position, with the ancient town that was besieged by Alexander.This identification is much strengthened by the proximity of Mount *Dantalok*, which is most probably the same range of hills as the Montes*Dædali* of the Greeks. In the spoken dialects of the present day, as well as in the ancient Pali, the nasal of the word *danta* is assimilated with the following letter, which thus becomes doubled, as in datton, a "tooth brush," or twig used for cleaning the teeth. Hence the Greek *Daidalos* is a very fair rendering of the Pali *Dattalok*. The *Dædalian* mountains are mentioned by [Justin](http://# "Hist., xii. 7. “Inde montes Dædalos, regnaque Cleofidis reginæ petit.")as adjoining the kingdom of Queen Cleofis, or Cleophes, who, according to Curtius, was the mother (a mistake for wife) of Assacanus, king of Massaga. I have already identified the cave of Prince *Sudâna* in Mount *Dantalok*, as described by Hwen Thsang, with the great cave of *Kashmiri-Ghâr*, which is just eight miles to the north-west of Bâzâr.The *Dantalok* rauge would, therefore, have been on the right-hand of the Greeks
-
-
-
-
 
 on their march over the hills from Massaga in the Swât valley to Bazaria. From all these concurring circumstances, I conclude that Bâzâr is almost certainly the same place as Alexander's Bazaria, and that Ohind was Embolima, as I have previously endeavoured to show.
 
  In proposing the ruined fortress of *Râni-gat* as the most probable representative of the famous *Aornos*, I must confess that the identification is incomplete. In 1848, I estimated the perpendicular height of Rânigat as about one thousand feet above the plain, and Mr. Loewenthal has since confirmed my estimate. But this height is so insignificant when compared with the 11 stadia, or 6674 feet of [Arrian](http://# "Anabasis,' iv. 28."),that I should hesitate to attempt the identification,did I not believe that the height has been very much exaggerated. [Philostratus](http://# "Vit. Apollonii, ii. 10.")calls it 15 stadia; and [Diodorusț](http://# "Hist., xvii. 44.") makes it even greater, or 16 stadia, equivalent to 9708 feet; but as he gives the circuit of the base at only 100 stadia, or just one-half of that of Arrian, I think it probable that his height may have been originally in the same proportion which we may obtain by simply reading 6 stadia instead of 16, or 3640 feet instead of 9708 feet. It is certain at least that one of the numbers of Diodorus must be erroneous, for as a circuit of 100 stadia, or 60,675 feet, would give a base diameter of 19,200 feet, or just twice the recorded height of 9708 feet, the slope would have been exactly 45°, and the hill would have terminated in a mere point, instead of a large platform with arable land, as described by Arrian. Where the difference between the two authorities is so great, and the exaggeration so apparent,
 
-
-
 it is difficult to suggest any possible alteration that would reconcile the discrepant measurements, and at the same time bring them within the range of probability. I believe, however, that we are quite safe not only in preferring the lesser numbers, but also in applying the altitude to the slant height instead of to the perpendicular height. But even with these lesser measurements, the Indian Aornos would still be twice the size, and more than twice the height of the famous rock of Gibraltar, which is 7 miles in circuit at base, and only 1600 feet in height.
 
  In the similar case of the great fortress of Gwalior, we find the usually accurate English traveller, William Finch, describing it as a castle situated on a steep craggy cliff, “6 *kos* in circuit, or, as some say, 11 *kos*." As Finch generally adopts the short imperial kos of 1^(1/3) mile, his estimate of the circuit of Gwalior will be 9 miles, or nearly twice the actual measurement of 5 miles, while the popular estimate will be nearly four times greater than the truth. It is possible, however, to reconcile these different numbers by supposing that the larger refers to the imperial kos, and the smaller to the greater kos of Akbar, which is just double the former. But in this case the estimate of the circuit of the fort of Gwalior would be from 14 to 15 miles, or just three times too great. Finch does not mention the height of Gwalior, but he notes that the "steep ascent" to the castle of *Narwar* was "rather morethan a mile" in length, which is just double the truth. Here the traveller was led to exaggerate the height by the mere steepness of the ascent. But in the case of Aornos, the Greeks had an additional motive for exaggeration in the natural wish to enhance
-
-
 
 their own glory. For this reason I would suggest, as a possible explanation of the discrepancy between the 16 stadia of Diodorus and the 11 stadia of Arrian, that the original authority of the former may have quadrupled or trebled the true measurement, while that of the latter only trebled or doubled it. Under this explanation the two numbers would become either 4 and 3_(![](../books_images/U-IMG-1700621540Screenshot2023-11-22081626.png)) stadia, or 5_(![](../books_images/U-IMG-1700621540Screenshot2023-11-22081626.png)) and 5![](../books_images/U-IMG-1700621595Screenshot2023-11-22082255.png)stadia, or from 2300 to 3400 feet, which might be accepted as a very probable measure of the slant height; similarly the circuit might be reduced to 50 stadia, which are equivalent to 53 miles or 30,300 feet, or rather more than the circuit of the road around the base of the Gwalior hill. A slant height of 2300 feet, with a base of 1900 feet, would give a perpendicular height of 1250 feet, or an ascent of 2 feet in every 3 feet. I do not propose this mode of reduction as a probable explanation of the discrepancies in the recorded measurements, but I venture to suggest it only as a possible means of accounting for the evident exaggeration of the numbers in both of the authorities.
 
  All the accounts of Aornos agree in describing it as a rocky hill of great height and steepness. Justin calls it *saxum miræ asperitatis et altitudinis*, "an exceedingly rugged and lofty [rock](http://# "Hist., xii. 7.")."Diodorus, Strabo, Arrian, Curtius, and Philostratus, all call it petra, or a "rock fort." Its rocky ruggedness was, therefore, a special feature of *Aornos.* According to Arrian, it was "only accessible by one difficult path, cut out by hand, and it possessed a fine spring of pure water on the very summit, besides wood and sufficient arable soil for the cultivation of one thousand men." The 
 
-
-
 last expression is still in common use in India, under the form of ploughs of land, and means simply as much land as one man can plough in a day. The same thing was expressed by the Greeks and Romans by *yokes*, each being as much as one yoke of oxen could plough in a single day. Now the smallest plough of land would not be less than 100 feet square, or 10,000 square feet, which would give 10,000,000 square feet for 1000 men. This would show an area of 4000 feet in length by 2500 feet in breadth, or, making allowance for buildings, of one mile in length by half a mile in breadth, or 2 miles in length by a quarter of a mile in breadth, which is just the size of Gwalior. But if such a vast fortress as Gwalior had ever existed on the western frontier of India, it would certainly not have escaped the notice of the early Muhammadan conquerors, and it could scarcely have eluded the searching inquiries of General Court and General Abbott. I, therefore, look upon the thousand ploughs of land as another gross exaggeration of Alexander's followers for the sake of ministering to their master's vanity. I accept the one difficult path of access and the spring of pure water, as two of the necessary possessions of a strong military post, but I unhesitatingly reject the 100 ploughs of arable land, for if such an extensive tract as half a square mile of irrigable land had ever existed on the top of a hill in this arid district, I cannot believe that such an important and valuable site ever would have been abandoned.
 
  In searching for a position that will answer the general description of Aornos, it is unfortunate that our range is limited to the few points which have been visited by Europeans. The claims of the Mahâban
-
-
 
 hill have already been discussed; and the only other possible positions that I know of are the following:
 
@@ -897,31 +636,21 @@ hill have already been discussed; and the only other possible positions that I k
 
  The first of these places stands on an isolated hill, about halfway between Bâzâr and Hashtnagar; Mr. Loewenthal describes it as a barren hill of no great height, which forms three sides of a square, with the open side towards the [north-west](http://# "Journ. Asiat. Soc. Bengal, 1863, p. 2.").By the trigonometrical survey maps, *Takht-i-Bahai* is only 1859 feet above the sea, or 650 feet above the Yusufzai plain. Mr. Loewenthal also describes the ascent as easy; and as the place is situated not less than 35 miles from the nearest point of the Indus, I think it may be rejected at once as not answering the description of lofty and difficult access, and as being too far from the probable position of Embolima. The position of the lofty isolated hill of *Kâramâr*, which is situated 6 miles to the south of Bâzâr, and only 18 miles to the north-north-west of Ohind, added to its height, which is 3480 feet above the sea, or 2280 feet above the Yusufzai plain, would give it a most prominent claim to notice if it possessed any remains of former occupation. But the *Kâramâr* hill is a mere bluff ridge, without ruins and without a name in the traditions of the people. The Panjpir hill is a similar but smaller ridge, which rises to the height of 2140 feet above the sea, or 940 feet above the Yusufzai plain. It is a mere sharp ridge crowned with a single building, which is now dedicated to the Panjpir, or five Great Saints of the Mu- 
 
-
-
 hammadans, of whom the earliest is *Baha-ud-din Zakariya* of Multan, commonly called *Bahâwal Hakk*. But the Hindus affirm that the place was originally dedicated to the *Panch-Pandu*, or Five Pandu brothers of the Mahâbhârata.'
 
  The last probable position that I know of is the ruined fortress of Rânigat. I visited this place in January, 1848, and I had intended revisiting it during my tour in 1863, but the war on the Buner frontier most unfortunately prevented me from carrying out my intentions.I can, therefore, add but little to the information which I collected in 1848; but as that has not been made public, and as no one but Mr. Loewenthal would appear to have visited the place since then,my account will still possess all the advantage of novelty.
 
  Rânigat is situated on a lofty hill above the village of Nogram, which is just 12 miles to the south-east of Bâzâr, and 16 miles to the north of Ohind. Its position, therefore, is strongly in favour of its identification with Aornos. The hill itself is the last point of one of the long spurs of the Mahâban range. Its base is rather more than two miles in length from north to south by about half a mile in width, but the top of the hill is not more than 1200 feet in length by 800 feet in breadth. In 1848, I estimated its height at 1000 fect; but from the unanimous assertions of the people that it is higher than Panjpir, I think that it is probably not less than 1200 feet. The sides of the hill are covered with massive blocks of stone, which make it exceedingly rugged and inaccessible. There is only one road, cut in the rock, leading to the top, although there are two, if not more, rather difficult pathways. This, we know, was also the case with Aornos, as
 
-
-
 Ptolemy succeeded in reaching the top by a "rugged and dangerous [path](http://# "Arrian, 'Anabasis,' iv. 29."),whilst Alexander himself attacked the place by one regular path which was cut out by the [hand](http://# "Ibid., iv. 28.").*Rânigat* may be described as consisting of a castle, 500 feet long by 400 feet broad, surrounded on all sides except the east, where it springs up from the low spur of Mahâban, by a rocky ridge, which on the north side rises to an equal height. On all sides the castle rock is scarped; and on two sides it is separated from the surrounding ridge by deep ravines, that to the north being 100 feet deep, and that to the west from 50 to 150 feet. At the north-west angle of the castle two dykes have been thrown across the ravine, which would appear to have been intended to arrest the flow of water, and thus to form a great reservoir in the west hollow. In the north ravine, between the castle and the great isolated block called *Rânigat*, there are three square wells; and to the north-east lower down,I thought that I could trace another dyke, which was most probably only the remains of part of the outer line of defences. The entire circuit of this outer line is about 4500 feet, or somewhat less than a mile.
 
  The castle itself is thus described by [Mr. Loewenthal](http://# "Journ. Asiat. Soc. Bengal, 1863, p. 5. "):— “The summit of the hill offers a flat plateau of some size, which had been very strongly fortified by buildings all round the brow. These buildings are constructed of large blocks of stone (conglomerate found on the spot) neatly hewn, and carefully fitted, disposed with very great regularity, and laid in a cement of extraordinary excellence. Unavoidable in- 
-
-
 
 terstices between the large blocks are filled up by layers of thin small stone tablets, this latter practice being an invariable feature in all the so-called Kafir buildings which I have seen in the Trans-Indus country." To this description I may add that all the stone blocks are laid most carefully as headers and stretchers, that is alternately lengthwise and breadthwise, which gives a very pleasing and varied appearance to the massive walls. All the buildings are now much ruined, but the external walls are traceable nearly all round, and on the south and west sides are still standing to a considerable height, and in very good order. The main entrance, which is at the south-west corner, is formed in the usual ancient manner by overlapping stones. The passage is not perpendicular to the face of the wall, but considerably inclined to the right for a short distance. It then turns to the left to a small chamber, and then again to the right till it reaches what must have been an open courtyard. The whole of this passage was originally roofed in by courses of stone with chamfered ends overlapping each other so as to form the two sides of a pointed arch, but the ends of the upper course of stones being left straight, the apex of the arch has the appearance of a rectangular cusp. This peculiarity was also noticed by Mr. Loewenthal, who says that "the arch would be pointed, but the centre line is taken up by a narrow rectangular groove." On the west face I observed a smaller passage of a similar kind, but it was so blocked up with rubbish that I was quite unable to trace its course.
 
  This central castle or citadel, with its open courtyard surrounded by costly buildings, I take to have
 
-
-
 been the palace of the king, with the usual temples for private worship. At the north end I traced a wide flight of steps leading down to a second plateau, which I presume to have been the outer court of the palace or citadel. The upper courtyard is 270 feet long and 100 feet broad; and the lower courtyard, including the steps, is just half the size, or 130 feet by 100 feet. These open areas were covered with broken statues of all sizes, and in all positions. Many of them were figures of Buddha the Teacher, either seated or standing; some were of Buddha the Ascetic, sitting under the holy Pipal tree; and a few represented Mâyâ, the mother of Buddha, standing under the sâl tree. But there were fragments of other figures, which apparently were not connected with religion, such as a life-size male figure in chain armour, a naked body of a man with the Macedonian *chlamys*, or short cloak, thrown over the shoulders and fastened in front in the usual manner, and a human breast partly covered with the *chlamys* and adorned with a necklace of which the clasps are formed by two human-headed, winged, and four-footed animals, something like centaurs. All these figures are carved in a soft, dark-blue clay slate, which is easily worked with a knife. It is exceedingly brittle, and was therefore easily broken by the idol-hating Musalmans. But as the surface was capable of receiving a good polish, many of the fragments are still in very fine preservation. The best piece that I have seen was a head of Buddha, with the hair massed on the top of the head, and worked in a peculiar manner in wavy lines, instead of the usual formal curls. It was found at Jamâl Garhi, and is by far the best piece of Indian sculp-
-
-
 
 ture that I have seen. The calm repose of the finely chiselled features is not unworthy of Grecian art, but the striking beauty of the face is somewhat marred by the round projecting Indian chin.
 
@@ -929,11 +658,7 @@ ture that I have seen. The calm repose of the finely chiselled features is not u
 
  I do not insist upon the identification, but if we admit that the accounts of the historians are very much exaggerated, I think that the ruins of Râni-gat tally much better with the vague descriptions of Aornos that have come down to us, than any other position with which I am acquainted. In all essential points, save that of size, the agreement is wonderfully close. Its position between Bâzâr and Ohind, or Bazaria and Embolima, is quite unobjectionable.
 
-
-
 Its attribution to Raja *Vara* renders it probable that the place may have been named after him, which would give a very near approach to the Aornos of the Greeks. Its great height, its ruggedness, and difficulty of access, its one path cut in the rock, its spring of water and level ground, and its deep ravine separating the outer works from the castle, are so many close and striking points of resemblance, that, were it not for the great difference in size, I should be very much disposed to accept the identification as complete. But though in this point it does not come up to the boastful descriptions of the Greeks, yet we must not forget the opinion of Strabo that the capture of Aornos was exaggerated by Alexander's flatterers. It must also be remembered that as the campaign against Assakanus took place "during the [winter](http://# "Strabo, Geogr., xv. 1, 17."),"and the Macedonians entered Taxila “at the beginning of spring," the siege of Aornos must have been carried ou during the very depth of winter, when the Mahâban hill, 7471 feet above the sea, and every other hill of the same height, is usually covered with snow. It is almost certain, therefore, that even the lesser height of 11 stadia, or 6674 feet above the Yusufzai plain, equivalent to 7874 feet above the sea, must be grossly exaggerated. In this part of the country the snow falls annually as low as 4000 feet above the sea, or 2800 above the Yusufzai plain, and as no snow is said to have fallen on Aornos, although the Greeks mention that they saw snow during the winter, I think that their silence on this point is absolutely conclusive against the recorded height of Aornos, and therefore also against the claims of Ma- 
-
-
 
 hâban, and of any other hill exceeding 4000 feet in height. All the ancient authorities agree in describing Aornos as a πérpa, or 'rock,' with rugged and precipitous sides, and with only a single path cut by hand. The Mahâban hill does not, therefore, fulfil any one condition of the ancient description. It is a huge mountain of comparatively easy access, and is more than twice the size of the most exaggerated estimate of Alexander's flatterers. Its name also has no resemblance to Aornos; whilst the traditions of Raja *Vara*, attached to Rânigat, would seem to connect that place directly with Aornos.
 
@@ -941,15 +666,11 @@ Parasháwara, or Peshawar.
 
   The great city now called Peshâwar is first mentioned by Fa-Hian, in a.d. 400, under the name of [Fo-leu-sha](http://# "Beal's translation of Fah-Hian,' p. 34.").It is next noticed by Sung-Yun in A.D. 502, at which time the king of Gândhâra was at war with the king of Kipin, or Kophene, that is Kabul and Ghazni, and the surrounding districts. Sung-Yun does not name the city, but he calls it the capital, and his description of its great stupa of king Kia-ni-sse-kia, or Kanishka, is quite sufficient to establish its [identity](http://# "Beal's translation of 'Sung-Yun,' p. 202."). At the period of Hwen Thsang's visit, in A.D. 630, the royal family had become extinct, and the kingdom of Gândhâra was a dependency of Kapisa or Kabul. But the capital which Hwen Thsang calls Pu-lu-sha-pu-lo, or Parashâwara, was still a great city of 40 li, or 6_(![](../books_images/U-IMG-1700621992Screenshot2023-11-22082807.png))miles, in [extent](http://# "Julien's 'Hiouen Thsang,' ii. 104.").It is next mentioned by Masudi and Abu Rihân, in the tenth and eleventh  
 
-
-
 centuries, under the name of *Parashâwar*, and again by Baber, in the sixteenth century, it is always called by the same name throughout his commentaries. Its present name we owe to Akbar, whose fondness for innovation led him to change the ancient *Parashâwar*, of which he did not know the meaning, to *Peshâwar*, or the "frontier town." Abul Fazl gives both names[^64].The great object of veneration at Parashâwar, in the first centuries of the Christian era, was the begging pot of Buddha, which has already been noticed. Another famous site was the holy Pipal tree, at 8 or 9 li, or 1_(![](../books_images/U-IMG-1700622093Screenshot2023-11-22082255.png))mile, to the south-east of the city. The tree was about 100 feet in height, with wide spreading branches, which, according to the tradition, had formerly given shade to Sakya Buddha when he predicted the future appearance of the great king Kanishka. The tree is not noticed by Fa-Hian, but it is mentioned by Sun-Yung as the *Pho-thi*, or *Bodhi*tree, whose "branches spread out on all sides, and whose foliage shuts out the sight of the sky." Beneath it there were four seated statues of the four previous Buddhas. Sung-Yun further states that the tree was planted by Kanishka over the spot where he had buried a copper vase containing the pearl tissue latticeof the great *stupa*, which he was afraid might be abstracted from the tope after his death. This same tree would appear to have been seen by the Emperor Baber in A.D. 1505, who describes it as the "stupendous tree" of Begrâm, which he "immediatelyrode out to see[^65]." It must then have been not lessthan 1500 years old, and as it is not mentioned in
 
 [^64]: "'Ayin Akbari,' ii. 341."
 
 [^65]: "Memoirs, translated by Leyden and Erskine,' p. 157."
-
-
 
 A.D. 1594 by Abul Fazl[^66],in his account of the *GorKatri* at Peshâwar, I conclude that it had previously disappeared through simple old age and decay.
 
@@ -961,8 +682,6 @@ A.D. 1594 by Abul Fazl[^66],in his account of the *GorKatri* at Peshâwar, I con
 
 [^67]: "Jour. As. Soc. Bengal, 1849, i. 494."
 
-
-
 lieve that this great monastery was still existing in the times of *Baber* and *Akbar*under the name of *Gor*-*Katri*, or the Baniya's house.
 
  The former says, "I had heard of the fame of*Gurh-Katri*, which is one of the holy places of the Jogis of the Hindus, who come from great distances to cut off their hair and shave their beards at this*Gurh-Katri*." Abul Fazl's account is still more brief. Speaking of Peshawur he says, "here is a temple, called Gor-Katri, a place of religious resort, particularly for Jogis." According to Erskine, the grand caravansara of Peshawur was built on the site of the*Gor-Katri*.
@@ -971,13 +690,9 @@ lieve that this great monastery was still existing in the times of *Baber* and *
 
  On leaving Utakhanda Hwen Thsang travelled about 600 li, or 100 miles, towards the north, to *U-chang-na*, or *Udyâna*, which was situated on the river S*u-po-fa-su-tu*, the *Subhavastu* and *Suvastu* of Sanskrit, the*Suastus* of Arrian, and the *Swât* or *Süât* river of the present day. It is called U-chang by the earlier pilgrims Fa-Hian and Sung-yun, which is a close transcript of *Ujjâna*, the Pali formof Udyâna. The country is described as highly irrigated, and veryfertile. This agrees with all the native accounts, according to which Swât is second only to the far-famed valley of Kashmir. Hwen Thsang makes it 5000 li, or833 miles, in circuit,which must be very near thetruth, if, as was most probably the case, it includedall the tributaries of the Swât river. *Udyâna* would thus have embraced the four modern districts of Panjkora, Bijâwar, Swât, and Bunîr, which have a circuit of only 500 miles, if measured on the map direct, but
 
-
-
 of not less than 800 miles by road measurement. Fa-Hian mentions *Su-ho-to* as a small district to the south of Udyâna.This has generally been identified with the name of Swât; but from its position to the south of Udyâna, and to the north of Parashâwar, it cannot have been the large valley of the Swât river itself,but must have been limited to the smaller valley of Bunîr. This is confirmed by the legend told by Fa-Hian of the hawk and pigeon; in which Buddha, to save the pigeon, tears his own flesh and offers it to the hawk. The very same legend is related by Hwen Thsang, but he places the scene at the north-west foot of the *Mahâban* mountain, that is, in the actual valley of Bunîr. He adds that Buddha was then a king, named *Shi-pi-kia*, or *Sivika*, which may, perhaps, be the true form of Fa-Hian's *Suhoto.*
 
  The capital of Udyâna was called *Mung-kie-li*, or*Mangala*, which is probably the*Mangora* of Wilford's surveyor, Mogal Beg, and the *Manglora* of General Court's map. It was 16 or 17 *li*, about 2_(![](../books_images/U-IMG-1700622249Screenshot2023-11-22083351.png))miles, in circuit, and very populous. At 250 or 260 *li*, about 42 miles, to the north-east of the capital the pilgrim reached the source of the *Subhavastu* river, in the fountain of the Nâga king *Apalâla*; and at 750 *li*, or 125 miles, further in the same direction, after crossing a mountain range and ascending the Indus, he arrived at *Tha-li-lo*, or *Dârel*, which had been the ancient capital of Udyâna. *Dârel* is a valley on the right orwestern bank of the Indus, now occupied by *Dârdus*,It isor *Dârds*, from whom it received its name. called *To-li* by Fa-Hian, who makes it a separate kingdom. The Dârds are now usually divided into three separate tribes, according to the dialects which
-
-
 
 they speak. Those who use the *Arniya* dialect occupy the north-western districts of *Yasan* and *Chitrâl*; those who speak the Khajunah dialect occupy the north-east districts of Hunza and Nager; and those who speak the Shinâ dialect occupy the valleys of Gilgit, Chilâs, Dârel, Kohli, and Pâlas, along the banks of the Indus. In this district there was a celebrated wooden statue of the future Buddha Maitreya, which is mentionedby both of the pilgrims. According to Fa-Hian it was erected 300 years after the *Nirvâna* of Buddha,or about B.c. 243, that is, in
 the reign of Asoka, whenthe Buddhist religion was actively disseminated over India by missionaries. Hwen Thsang describes thestatue as 100 feet in height, and states that it was erected by *Madhyântika*[^68].\* The name and the date mutually support each other, as *Madhyântika*, or *Majjhima* in Pali, was the name of the Buddhist teacher,who, after the assembly of the Third Synod in Asoka's reign, was sent to spread the Buddhist faith in Kashmir and the whole Himavanta country[^69]. This is mostprobably the period alluded to by Hwen Thsang when*Dârel* was the capital of Udyâna.
@@ -990,8 +705,6 @@ the reign of Asoka, whenthe Buddhist religion was actively disseminated over Ind
 
  From Dârel Hwen Thsang travelled 500 *li*, or 83 miles, over a mountain range, and up the valley of the Indus to *Po-lu-lo*, or *Bolor*. This district was 4000 *li*, or 666 miles, in circuit; its greatest length being from east to west. It was surrounded by snowy mountains, and produced a large quantity of gold. This account of the route, compared with the bearing
 
-
-
 and distance, show that *Po-lu-lo* must be the modern*Balti*, or Little Tibet, which is undoubtedly correct, as the people of the neighbouring Dârdu districts on the Indus know Balti only by the name of *Palolo*[^70]. Balti also is still famous for its gold washings. The name, too, is an old one, as Ptolemy calls the people BúλTai, or *Byltæ*. Lastly, both in size and position Balti corresponds exactly with the account of theChinese pilgrim, as the length of the province is along the course of the Indus from east to west for 150 miles, and the breadth about 80 miles from the mountains of Deoseh to the Karakoram range, or altogether 460 miles in circuit, as measured direct on the map, or about 600 miles by road measurement.
 
 [^70]: "Hiouen Thsang,' ii. 150; and my 'Ladak,' p. 34."
@@ -1001,8 +714,6 @@ and distance, show that *Po-lu-lo* must be the modern*Balti*, or Little Tibet, w
  The name of *Fa-la-na* is mentioned only by Hwen Thsang, who places the country to the south-east of Ghazni, and at fifteen days' journey to the south ofLamghân[^71]. It was 4000 *li*, or 666 miles, in circuit, and was chiefly composed of mountains and forests. It was subject to Kapisene, and the language of the people had a slight resemblance to that of Central India. From the bearing and distance, there is no doubt that *Banu*was the district visited by Hwen Thsang, from which it may be inferred that its original name was *Farana*, or *Barna*. This is confirmed by Fa-Hian, who calls the country by the shorter vernacular name of *Po-na*, or *Bana*, which he reached in thirteen days from Nagarahâra in going towards the south. *Pona* also is said to be three days' journey to the west of the Indus, which completes the proof of its identity with Banu, or the lower half of the
 
 [^71]: "H. Th., i. 265."
-
-
 
 valley of the Kuram river. In the time of Fa-Hian the kingdom of Banu was limited to this small tract, as he makes the upper part of the Kuram valley a separate district, called *Lo-i*, or *Roh*[^72].But in the time of Hwen Thsang, when it had a circuit of morethan 600 miles, its boundaries must have included the whole of the two large valleys of the Kuram and Gomal rivers, extending from the Safed Koh, or "Little Snowy Mountains" of Fa-Hian, to Sivastan on the south, and from the frontiers of Ghazni and Kandahar on the west to the Indus on the east.
 
@@ -1016,8 +727,6 @@ valley of the Kuram river. In the time of Fa-Hian the kingdom of Banu was limite
 
 [^74]: "Elphinstone's 'Kabul,' ii. 156, 158."
 
-
-
 20 to 25 days' journey to the south of Lamghân, whileBanu is just 15 days' journey as noted by the pilgrim. As Fa-Hian's notice of Banu dates as high as the beginning of the fifth century, I think that it may be identified with the *Banagara* of Ptolemy, which heplaces in the extreme north of Indo-Scythia, and to the south-south-east of *Nagara*, or Jalâlâbâd. A second town in the same direction, which he names*Andrapana*, is probably *Drâband* or *Derâband*, near Dera Ismaïl Khan.
 
  Hwen Thsang mentions a district on the western frontier of Falana, named *Ki-kiang-na*, the position ofwhich has not yet been fixed. M. Vivien de St. Martin and Sir H. Elliot have identified it with the*Kaikânân*, or *Kikân*, of the Arab historians of Sindh[^75]; but unfortunately the position of *Kaikânân* itself is still undetermined. It is, however, described as lying to the north or north-east of Kachh Gandâva, and as*Kikiangna* was to the west of *Falana* or *Banu*, it appears probable that the district intended must be somewhere in the vicinity of *Pishin* and *Kwetta*; and as Hwen Thsang describes it as situated in a valley under a high mountain, I am inclined to identify it with the valley of Pishin itself, which lies between the Khoja Amrân hills on the north, and the lofty Mount Takatu on the south. This position agrees with that of *Kaikân*,![](../books_images/U-IMG-1697282758Screenshot2023-10-14165518.png) k given by Biladûri[^76],who says that it formed part of Sindh in the direction of Khorasan. This is further confirmed by the statement that *Kaikan* was on the road from Multan to Kabul, as the usual route between these places lies over the Sakhi
@@ -1025,8 +734,6 @@ valley of the Kuram river. In the time of Fa-Hian the kingdom of Banu was limite
 [^75]: "Hiouen Thsang,' iii. 185; Dowson's edition of Sir H. Elliot's Muhammadan Historians,' i. 381."
 
 [^76]: "Reinaud's 'Fragments Arabes, etc.,' p. 184."
-
-
 
 Sarwar Pass in the Sulimâni mountains, and across the Pishin valley to Kandahar. A shorter, but more difficult, route is by the valley of the Gomal river to Ghazni. But as the valley of the Gomal belonged to *Falana*, it follows that the district of *Kikiangna*must have been somewhere in the neighbourhood of*Pishin*; and as this valley is now inhabited by the tribe of *Khakas*, it is not improbable that the name of*Kikân*, or *Kaikân*, may have been derived from them.
 
@@ -1036,15 +743,11 @@ Sarwar Pass in the Sulimâni mountains, and across the Pishin valley to Kandahar
 
 [^77]: "Briggs's 'Ferishta,' i. p. 8."
 
-
-
 Raverty[^78] describes Roh as "the mountainous district of Afghanistan and part of Biluchistan," or"thecountry between Ghazni and Kandahar and the Indus." The people of this province are called *Rohilas*, or *Rohila Afghans*, to distinguish them from other Afghans, such as the *Ghori Afghans* of Ghor, between Balkh and Merv. There is, however, a slight chronological difficulty about this identification, as the Afghans of Khilij, Ghor, and Kabul are stated by Ferishta to have subdued the province of Roh so late as A.H. 63, or A.D. 682, that is about thirty years laterthan the period of Hwen Thsang's visit. But I think that there are good grounds for doubting the accuracy of this statement, as Hwen Thsang describes the language of Falana as having but little resemblance to that of Central India. The inhabitants of Roh could not, therefore, have been Indians; and if not Indians, they must almost certainly have been Afghans. Ferishta[^79]begins his account by saying that the Muhammadan Afghans of the mountains "invaded and laid waste the inhabited countries, such as Kirmân, Shivarân, and Peshâwar;" and that several battles took place between the Indians and Afghans "on a plain between Kirmân and Peshawar." The*Kirmân* here mentioned is not the great province of Kirman, or Karmania, on the shore of the Indian Ocean, but the *Kirmân*, or *Kirmâsh*, of Timur's historians, which is the valley of the Kuram river. The difficulty may be explained if we limit the part of Kirmân that was invaded to the lower valley, or plains of the Kuram river, and extend the limits of the Afghan country beyond Ghazni and Kabul, so as to
 
 [^78]: "Pushtu Dictionary, in voce."
 
 [^79]: "Briggs's Translation, i. 7."
-
-
 
 embrace the upper valley, or mountain region of the Kuram river. Politically the ruler of Peshâwar has always been the ruler of Kohât and Banu, and the ruler of Kabul has been the lord of the upper Kuram valley. This latter district is now called *Khost*; but it is the *Iryâb* of Timur's historians, and of Wilford's surveyor, Mogul Beg, and the *Haryûb* of Elphinstone. Now the *Sulimân*-*Khel* of the *Burân* division of the Ghiljis number about three-fourths of the whole horde. I infer, therefore, that the original seat of the Ghiljis must have included the upper valleys of the Kuramand Gomal rivers on the east, with Ghazni and Kelât-i-Ghilji on the west. Haryûb would thus have formed part of the Afghan district of *Khilij*, or *Ghilji*, from which the southern territories of Peshawar were easily accessible.
 
@@ -1053,8 +756,6 @@ embrace the upper valley, or mountain region of the Kuram river. Politically the
 **II. KINGDOM OF KASHMIR.**
 
  In the seventh century, according to the Chinese pilgrim, the kingdom of Kashmir comprised not only the valley of Kashmir itself, but also the whole of thehillycountry between the Indus and the Chenâb to the foot of the Salt range in the south. The different states visited by Hwen Thsang were *Urasa*, to the west of Kashmir; *Taxila* and *Sinhapura*, to the south-
-
-
 
 west; and *Punach* and *Rajaori* to the south. The other hill-states to the east and south-east are notmentioned; but there is good reason for believing that they also were tributary, and that the dominions of Kashmir in the seventh century extended from the Indus to the Râvi. The petty independent state of*Kullu*, in the upper valley of the Biâs river, was saved by its remoteness and inaccessibility; and the rich state of *Jâlandhar*, on the lower Biâs, was then subject to Harsha Vardhana, the great king of Kanoj. But towards the end of the ninth century the Kangra valley was conquered by Sankara Varnıma, and the sovereign power of Kashmir was extended over the whole of the Alpine Panjab from the Indus to the Satlej[^80].
 
@@ -1065,8 +766,6 @@ west; and *Punach* and *Rajaori* to the south. The other hill-states to the east
 **1. KASHMIR.**
 
  Hwen Thsang entered the valley of Kashmir from the west in September, A.D. 631. At the entrance there was a stone gate, where he was met by the younger brother of the king's mother; and after pay-
-
-
 
 ing his devotions at the sacred monuments, he went to lodge for the night in the monastery of *Hu-se-kia-lo*, or *Hushkara*[^81].This place is mentioned by AbuRihân[^82], who makes *Ushkara* the same as *Barâmula*, which occupied both sides of the river. In the 'Raja Tarangini'[^83]also *Hushkapura* is said to be near *Varâha*,or Varâhamula, which is the Sanskrit form of *Barûmula*. Hushkara or Uskar still exists as a village on the left or eastern bank of the Behat, two miles to the south-east of Barâmula. The Kashmiri Brahmans say that this is the Hushkapura of the 'Raja Tarangini,' which was founded by the Turushka king Hushka, about the beginning of the Christian era.
 
@@ -1082,15 +781,11 @@ ing his devotions at the sacred monuments, he went to lodge for the night in the
 
 [^85]: "Rémusat, 'Nouveaux Mélanges Asiatiques,' i. 197."
 
-
-
 have been living as late as the previous year A.D. 719, which makes the error in the Kashmirian chronology amount to exactly thirty-one years. By applying this correction to the dates of his predecessors, the reign of his grandfather, *Durlabha*, will extend from A.D. 625 to 661. He, therefore, must have been the king who was reigning at the time of Hwen Thsang's arrival in Kashmir in A.D. 631. Durlabha, who was the son-in-law of his predecessor, is said to have been the son of a *Nâga*, or Dragon; and the dynasty which he founded is called the *Nâga* or *Karkota* dynasty. By this appellation I understand that his family was given to ophiolatry, or serpent-worship, which had been the prevailing religion of Kashmir from time immemorial. Hwen Thsang designates this race as Ki-li-to, which Professor Lassen and M. Stanislas Julien render by *Kritya* and *Kritiya*. They were extremelyhostile to the Buddhists, who had frequently deprived them of power, and abolished their rights; on which account, says the pilgrim, the king, who was then reigning, had but little faith in Buddha, and cared only for heretics and temples of the Brahmanical gods. This statement is confirmed by the native chronicle, which records that the queen, *Ananga-lekha*, built a*Vihâra*, or Buddhist monastery, named after herself,*Anangabhavana*; while the king built a temple to Vishnu, called after himself, *Durlabha*-*swâmina*[^86].I infer from this that the queen still adhered to the Buddhist faith of her family, and that the king was, in reality, a Brahmanist, although he may have professed a lukewarm attachment to Buddhism.
 
 [^86]: "‘Raja Tarangini,' iv. 3 and 5."
 
  The people of Kashmir are described as good look-
-
-
 
 ing, easy and fickle in manner, effeminate and cowardly in disposition, and naturally prone to artifice and deceit. This character they still bear; and to it Imay add that they are the dirtiest and most immoralrace in India. Hwen Thsang states that the neighbouring kings held the base Kashmiris in such scorn that they refused all alliance with them, and gave them the name of *Ki-li-to* or *Krityas*, which would appear to be a term of contempt applied to evil-minded. and mischievous persons, as enemies, traitors, assas- sins, etc. The term which I have heard used is *Kîr-Mlechchhas*, or the "*Barbarian Kîras,*" and Wilson gives *Kîra* as a name of the valley of Kashmir, and*Kîrâh* as the name of the people.
 
@@ -1100,15 +795,11 @@ ing, easy and fickle in manner, effeminate and cowardly in disposition, and natu
 
 [^88]: "Wilson altered this spelling to Payin Drâs, which in Persian signifies "
 
-
-
 was a famous *stupa*, which in A.D. 631 enshrined a tooth of Buddha; but before Hwen Thsang's return to the Panjâb in A.D. 643 the sacred tooth had been given up by the Raja to Harsha Varddhana, the powerful king of Kanoj, who made his demand at the head of an army on the frontier of Kashmir[^89]. As Raja Durlabha was a Brahmanist, the sacrifice of the Buddhist tooth was a real gain to his religion.
 
 [^89]: "Compare 'Hiouen Thsang,' ii. 180 with i. 251."
 
  From the earliest times Kashmir has been divided into the two large districts of *Kamrâj* and *Merâj*, the former being the northern half of the valley, below the junction of the Sindh river with the Behat, and the latter the southern half above that junction. The smaller divisions it is unnecessary to mention. But I may note the curious anomaly which a change of religious belief has produced in the use of two of the most distinctive Hindu terms. By the Hindu who worships the sun, the cardinal points are named with reference to the east, as *para*, the "front," or the east," to which he turns in his daily morning worship; apara, "behind," or the "west;" *vâma*, the "left" hand, or the "north;" and *dakshina*, the right” hand, or the "south." By the Muhammadan, who turns his face to the west, towards Mecca, these terms are exaetly reversed, and dachin, which still means the "right" hand in Kashmiri, is now used to denote the "north," and *kâwar*, or the "left" hand to denote the south." Thus, on the Lidar river there is the subdivision of *Dachinpâra* to the north of the stream, and *Kâwarpâra* to the south of it. On the Behat river also, below Barâhmula, the subdivision of *Dachin* lies to the north, and that of
-
-
 
 *Kâwar* to the south of the stream. This change in the meaning of *Dachin* from south" to "north" must have taken place before the time of Akbar, as Abul Fazl[^90]describes Dachinpâra as "situated at the foot of a mountain, on the side of Great Tibet," thatis to the north of the river Lidar.
 
@@ -1122,13 +813,9 @@ was a famous *stupa*, which in A.D. 631 enshrined a tooth of Buddha; but before 
 
 [^92]: " 'Raja Tarangini,' i. 124."
 
-
-
 also attributed to Asoka; and the other ruins at the same place are said to be the remains of the two *Asokeswara* temples which are noted in the native chronicle of Kashmir. Srinagari was still the capital of the valley in the reign of Pravarasena I., towards the end of the fifth century, when the King erected a famous symbol of the god Siva, named after himself *Pravareswara*. This city still existed in A.D. 631, when the Chinese pilgrim arrived in Kashmir, although it was no longer the capital of the valley. He speaks of the capital of his time as the "new city," and states that the "old city" was situated to the south-east of it, at a distance of ten *li*, or nearly two miles, and to the south of a high mountain.This account describes the relative positions of Pândrethân and the present capital with the lofty hill of Takht-i Sulimân so exactly, that there can be no hesitation in accepting them as the representatives of the ancient places. The old city was still inhabited between A.D. 913 and 921, when Meru, the minister of Raja Pârtha, erected in*Purânadhisthâna*, that is in the "old capital," a temple named after himself *Meru-Varddhana-swâmi*. This building I have identified with the existing temple of*Pândrethân*, as Kallan Pandit relates[^93]that, when Raja Abhimanyu set fire to his capital, all the noble build- ings from the temple of *Varddhana Swâmi*, as far as*Bhikshukipâraka*" (or the asylum of mendicants) were destroyed. I attribute the escape of the limestone temple to its fortunate situation in the midst of a tank of water. To this catastrophe I would assign the final desertion of the old capital, as the humble dwellings of the people could not possibly have escaped the destruc-
 
 [^93]: "See my 'Temples of Kashmir,' p. 44; and 'Raja Tarangini,'.vi. 191."
-
-
 
 tive fire which consumed all the "noble edifices" of the city.
 
@@ -1140,8 +827,6 @@ tive fire which consumed all the "noble edifices" of the city.
 
  The question now arises, how did the new city of*Pravarasenapura* lose its own name, and assume that of the old city of Srinagari? I think that this difficulty may perhaps be explained by the simple fact that the two cities were actually contiguous, and, as they existed together side by side for upwards of five centuries, the old name, as in the case of Delhi, would naturally have remained in common use with the people, in preference to the new name, as the
 
-
-
 customary designation of the capital. The old name of Delhi is exactly a case in point. There, new city after new city was built by successive kings, each with the distinctive name of its founder; but as they were all in the immediate vicinity of Delhi itself, the old familiar name still clung to the capital, and each new appellation eventually became absorbed in the one general name of "Delhi." In the same way I believe that the old familiar name of *Srinagar* eventually swamped the name of the new city of *Pravarasenapura*.
 
  The names of *Khâgipura* and *Khunamusha* are referred by Kalhan Pandit[^96]to Raja *Khâgendra*, who, as the sixth predecessor of Asoka, must have reigned about 400 B.C. Wilson and Troyer have identified thesetwo places with the*Kâkapur* and *Gaumoha* of Muhammadan writers. The first is certain, as*Kâkapur* still exists on the left bank of the Behat, at 10 miles to the south of the Takht-i-Sulimân, and 5 miles to the south of Pâmpur. But the identification of *Gaumoha*, wherever that may be, is undoubtedly wrong, as*Khunamusha* is now represented by the large village of*Khunamoh*, which is situated under the hills at 4 miles to the north-east of Pâmpur.
@@ -1149,8 +834,6 @@ customary designation of the capital. The old name of Delhi is exactly a case in
 [^96]: "Raja Tarangini,' i. 90."
 
  The old town of Bij Bidra, or *Vijipâra*, is situated on both banks of the Behat, at 25 miles to the south- east of the capital. The original name was *Vijayapâra*, so called after the ancient temple of *Vijayesa*, which still exists, although its floor is 14 feet below the present level of the surrounding ground. This difference of level shows the accumulation of ruins. since the date of its foundation. The people refer its crection to Asoka, B.c. 250, who is stated by Kalhan
-
-
 
 Pandit[^97]to have pulled down the old brick temple of*Vijayesa*, and to have rebuilt it of stone. This is apparently the same temple that is mentioned in the reign of Arya Raja, some centuries after Christ[^98].
 
@@ -1170,8 +853,6 @@ Pandit[^97]to have pulled down the old brick temple of*Vijayesa*, and to have re
 
 [^87]: "Reinaud, Fragments Arabes, etc.,' p. 116."
 
-
-
 town of *Barûmula*, built on both banks of the river." It is noted under the same name by the Chinese pilgrim Hwen Thsang, who entered the valley from the west by a stone gate, and halted at the monastery of*Hu.se.kia-lo*, or *Hushkara*. The name of *Barâhmula*has now eclipsed the more ancient appellation, which, however, still exists in the village of *Uskara*, 2 miles to the south-cast of the present town, and immediately under the hills. The place has been visited, at my request, by the Rev. G. W. Cowie, who found there a Buddhist *stupa* still intact. This is probably the same monument that is recorded to have been erected by Raja Lalitâditya[^102]between A.D. 723 and 760. It is again mentioned in the native chronicle[^103]as the residence of the Queen Sugandhâ in A.D. 913. From all these notices, it is certain that the town still bore its original name down to the beginning of the eleventh century, when Abu Rihân mentions both names. But after this time the name of *Varâhamula*alone is found in the native chronicles, in which it is mentioned during the reigns of Harsha and Sussala, early in the twelfth century. I think it probable that the main portion of the town of Hushkapura was on the left, or south bank of the river, and that Varâhamula was originally a small suburb on theright bank. On the decline of Buddhism, when the monastic establishment at Hushkapura was abandoned, the old town also must have been partially descrted, and most probably it continued to decrease until it was supplanted by the Brahmanical suburb of *Varâhamula*.
 
 [^102]: "Raja Tarangini,' iv. 188."
@@ -1180,8 +861,6 @@ town of *Barûmula*, built on both banks of the river." It is noted under the sa
 
 * Jushkapuru* was founded by the Indo-Scythian prince
 
-
-
 Jushka, a brother of Kanishka and Hushka. The Brahmans of Kashmir identify the place with *Zukru*, or *Zukur*, which is still a considerable village, 4 miles to the north of the capital. This is evidently the "*Schecroh*, ville assez considérable," which Troyer andWilson[^104]have identified with Hushkapura. I visited the place in November, 1847, but the only traces of antiquity that I could discover were a considerable number of stone pillars and mouldings of the style of architecture peculiar to Kashmir, all of which had been trimmed and adapted to Muhammadan tombs and Masjids. *Parihâsapura* was built by the great Raja Lalitâditya[^105],who reigned from A.D. 723 to 760. It was situated on the right, or eastern bank of the Behat, near the present village of Sumbal. There are still many traces of walls and broken stones on the neighbouring mounds, which show that a city must once have existed on this spot; but the only considerable remains are a bridge which spans the Behat, and a canal which leads direct towards Sûpur, to avoid the tedious passage by the river through the Wular Lake. As *Parihâsapura* is not mentioned. again in the native chronicle, it must have been neglected very soon after its founder's death. His own grandson, *Jayapida*, built a new capital named *Jayapura*, in the midst of a lake, with a citadel, which he named *Sri-dwâravati*, but which the people always called the "Inner Fort[^106]." The position of this place is not known, but I believe that it stood on the left bank of the Behat, immediately opposite to *Parihâsapura*, where a village named *Antar-kot*, or the "Inner
 
 [^104]: "Raja Tarangini,' i. 370; Asiat. Res. xv. 23."
@@ -1189,8 +868,6 @@ Jushka, a brother of Kanishka and Hushka. The Brahmans of Kashmir identify the p
 [^105]: "'Raja Tarangini,' iv. 194."
 
 [^106]: "Ibid., iv. 505, 510."
-
-
 
 Fort," exists to this day. The final destruction of this city is attributed by the people to Sangkara Varmma, who reigned from A.D. 883 to 901. He is said to have removed the stones to his own new city of *Sangkarapura*, which still exists as *Pathan*, 7 miles to the south-west of the Sumbal bridge. The great temple at *Parilâsa* was destroyed by the bigoted Sikandar, who reigned from 1389 to 1413, A.D. Of this temple a curious story is told by the Muhammadan historians. Speaking of *Pârispur*, Abul Fazl[^107]says, "here stood a lofty idolatrous temple which was destroyed by Sikandar. In the ruins was found a plate of copper with an inscription in the Indian lan- guage purporting that after the expiration of 1100 years the temple would be destroyed by a person named Sikandar." The same story is told by Ferishta[^108], with the addition of the name of the Raja, whom the translator calls *Balnat*, which is probably a mistake for *Laldit*, the usual contracted form of Lalitâditya among the Kashmiris. As the difference of time between this prince and Sikandar is barely 700 years, it is strange that the tradition should preserve a date which is so much at variance with the chronology of their own native chronicles.
 
@@ -1202,8 +879,6 @@ Fort," exists to this day. The final destruction of this city is attributed by t
 
 [^109]: "'Raja Tarangini,' iv. 694."
 
-
-
  *Avantipura* was founded by Raja *Avanti-Varmma*[^110], who reigned from A.D. 854 to 833. It is situated on the right bank of the Behat, 17 miles to the south-east of the present capital. There is now only a small village called *Wantipur*; but the remains of two magnificent temples, and the traces of walls on all sides, show that it must have been once an extensive city. The name of *No-nagar*, or the "New Town," which is now attached to the high tract of alluvial table-landon the opposite side of the river, is universally al- lowed by the people to refer to *Avantipura* itself, whichissaid to have occupied both banks of the river originally.
 
 [^110]: "'Raja Tarangini,' v. 44."
@@ -1213,8 +888,6 @@ Fort," exists to this day. The final destruction of this city is attributed by t
  Between Taxila and Kashmir Hwen Thsang places the district of *U-la-shi*, or *Urasa*, which, from its position, may at once be identified with the *Varsa Regio* of Ptolemy, and with the modern district of *Rash*, in Dhantâwar, to the west of Muzafarâbâd. It is mentioned. in the native chronicle of Kashmir[^111]as a mountainous district in the vicinity of the valley, where *Raja Sangkara Varmma* received his death wound in A.D. 901. It corresponds exactly with the Pakhali of Abul Fazl, which included all the hilly country between the Indus and Kashmir, as far south as the boundary of Attak. At the present day the principal towns of the district are *Mânsera*, in the north-east; *Noshahra*, in the middle; and *Kishangarh*, or *Haripur*, in the south-west. In Hwen Thsang's time the capital is said to have been either 300 or 500 li, that is, 50 or 83 miles, distant from Taxila. This difference in the distance
 
 [^111]: "Ibid., v. 216."
-
-
 
 makes it impossible to identify the actual position of the capital in the seventh century; but it seems probable that it must have been at *Mângali*, which is said by the people to have been the ancient capital of the district. This place stands midway between Noshahra and Mânsera, and about 50 miles to the north-east ofTaxila.
 
@@ -1226,15 +899,9 @@ makes it impossible to identify the actual position of the capital in the sevent
 
 [^112]: "Fa-Hian,' c. xi., Beal's translation, makes it seven days' journey from Peshawar, that is, four days to the Indus plus three days to Taxila."
 
-
-
 ![](../books_images/U-IMG-1697303764140.png)
 
-
-
 ![](../books_images/U-IMG-1697303888142.png)
-
-
 
 mediate neighbourhood of Kâla-ka-sarâi, which was the third halting-place of the Mogul emperors, and which is still the third stage from the Indus, both for troops and baggage. Now as Hwen Thsang, on his return to China, was accompanied by laden elephants, his three days' journey from *Takhshasila* to the Indus at *Utakhanda*, or Ohind, must necessarily have been of the same length as those of modern days, and, consequently, the site of the city must be looked for somewhere in the neighbourhood of *Kâla-ka-sarâi*. This site is found near *Shah-dheri*, just one mile to the north-east of Kâla-ka-sarâi, in the extensive ruins of afortified city, around which I was able to trace no less than 55 stupas, of which two are as large as the great Mânikyâla tope, twenty-eight monasteries, and ninetemples. Now the distance from Shah-dheri to Ohindis 36 miles, and from Ohind to Hashtnagar is 38 more, or altogether 74 miles, which is 19 in excess of the distance recorded by Pliny between Taxila and Peukelaotis. To reconcile these discrepant numbersI would suggest that Pliny's 60 miles, or LX., should be read as 80 miles, or LXXX., which are equivalent to 73_(![](../books_images/U-IMG-1700622780Screenshot2023-11-22082255.png)) English miles, or within half a mile of the actualdistance between the two places.
 
@@ -1243,8 +910,6 @@ mediate neighbourhood of Kâla-ka-sarâi, which was the third halting-place of t
 Sung-yun (Beal's translation, p. 200) places it three days to the east of the Indus. Hiouen Thsang makes it three days' journey to the south-east of the Indus (Julien's translation, i. 263). See Maps Nos. IV., V., and VI. for the position of Shah-dheri or Taxila.
 
 [^113]: "Anabasis,'v. 8 : πόλιν μεγάλην καὶ εὐδαίμονα."
-
-
 
 neighbouring country was "crowded with inhabitants, and very fertile[^114]."Pliny calls it "a famous city, situated on a low but level plain, in a district called*Amanda*[^115]." These accounts agree exactly with the position and size of the ancient city near *Shah-dheri,*the ruins of which are spread over several square miles.
 
@@ -1258,15 +923,11 @@ neighbouring country was "crowded with inhabitants, and very fertile[^114]."Plin
 
  Just before the end of the third century B.C. the
 
-
-
 descendants of the Maurya kings must have come in contact with the Bactrian Greeks under Demetrius, the son of Enthydemus, and in the early part of the following century Taxila must have formed part of the Indian dominions of Eukratides. In 126 B.C. it was wrested from the Greeks by the Indo-Scythian Sus or *Abars*, with whom it remained for about three- quarters of a century, when it was conquered by the later Indo-Scythians of the *Kushân* tribe, under the great Kanishka. During this period Parshâwar would appear to have been the capital of the Indo-Scythian dominions, while Taxila was governed by satraps.Several coinsand inscriptions of these local governors have been found at Shah-dheri and Mânikyâla. Of these the most interesting is the copper plate obtained by Mr. Roberts, containing the name of *Takhasila*, the Pali form of *Takshasila*, from which the Greeks obtained their Taxila[^117].
 
 [^117]: "See translation by Professor J. Dowson in Journ. Royal Asiat. Soc., xx. 221; see also notes on the same inscription by the author, Journ. Asiat. Soc. Bengal, 1863, p. 139."
 
  During the reign of the Parthian Bardanes, A.D. 42to 45, Taxila was visited by Apollonius of Tyana and his companion, the Assyrian Damis, whose narrative of the journey Philostratus professes to have followed in his life of Apollonius. His account is manifestly exaggerated in many particulars regarding the acts and sayings of the philosopher, but the descriptions of places seem to be generally moderate and truthful. If they were not found in the narrative of Damis, they must have been taken from the journals of some of Alexander's followers; and in either case they are valuable, as they supply many little points of in-
-
-
 
 formation that are wanting in the regular histories. According to Philostratus, Taxila was "not unlikethe ancient *Ninus*, and was walled in the manner of other Greek towns[^118]."For *Ninus*, or *Nineveh*, we must read Babylon, as we have no description of the great Assyrian city, which was destroyed nearly two cen- turies before the time of Herodotus. Now we know from Curtius that it was the "symmetry as well as the antiquity" of Babylon that struck Alexander and all who beheld it for the first time[^119]. I conclude, therefore, that Taxila must have reminded the Greeks of Babylon by its *symmetry*, as Philostratus goes on to say, that the city was "divided into narrow streets with great regularity. He mentions also a temple of the sun, which stood outside the walls, and a palace in which the usurper was besieged. He speaks also of a garden, one stadium in length, with a tank in the midst, which was filled by "cool and refreshing streams." All these points will be noticed in a separate work when I come to describe the existing ruins of this ancient city.
 
@@ -1278,8 +939,6 @@ formation that are wanting in the regular histories. According to Philostratus, 
 
 [^120]: " Beal's Translation, e. xi."
 
-
-
 known to the Buddhists of India. In A.D. 502, "the place where Buddha made an alms-gift of his head " was visited by *Sung-yun*, who describes it asbeing three days' journey to the east of the river *Sin-tu*, or Indus[^121].
 
 [^121]: " Beal's Translation, p. 200."
@@ -1289,8 +948,6 @@ known to the Buddhists of India. In A.D. 502, "the place where Buddha made an al
 [^122]: "‘Fah-Hian,' (Beal's translation
 
 [^123]: "Julien's 'Hiouen Thsang,' i. 262."
-
-
 
 to me to be only another form of the same appellation.
 
@@ -1302,8 +959,6 @@ to me to be only another form of the same appellation.
 
 [^126]: "Reinaud's 'Fragments Arabes, ctc.,' p. 116."
 
-
-
 time of Kanishka. From the continued existence of this name, I infer that, in the immediate neighbourhood of the great stupa of the "head-gift," there was most probably a temple enshrining a group in which Buddha was represented offering his head to the tiger. This temple the *Turks* would naturally have called the *Babar-Khâna*, or "Tigers'-house;" and as Taxila itself decayed, the name of the temple would gradually have superseded that of the city. The remembrance of this particular act of Buddha's extreme charity is, I believe, preserved in the name of *Mârgala*, or the "beheaded," which is applied to the range of hills lying only two miles to the south of Shah-dheri. *Mârgala* means literally "decollated," from *gala- mârna*, which is the idiomatic expression for "cutting the neck," or beheading.
 
  The ruins of the ancient city near Shah-dheri, which I propose to identify with Taxila, are scattered over a wide space extending about 3 miles from north to south, and 2 miles from east to west. The remains of many stupas and monasteries extend for several miles further on all sides, but the actual ruins of the city are confined within the limits above-mentioned. These ruins consist of several distinct portions, which are called by separate names even in the present day[^127]. The general direction of these different works is from south-south-west to north-north-east, in which order I will describe them. Beginning at the south, their names are :—
@@ -1314,15 +969,11 @@ time of Kanishka. From the continued existence of this name, I infer that, in th
 2. Hatiâl.  
 3. Sir-Kap-ka-kot.*
 
-
-
 4. *Kacha-kot.*  
 5. *Babar Khâna.*  
 6. *Sir-Suk-ka-kot.*
 
  The most ancient part of these ruins, according to the belief of the people, is the great mound on which stands the small village of *Bir* or *Pher*. The mound itself is 4000 feet in length from north to south, and 2600 feet in breadth, with a circuit of 10,800 feet, or rather more than two miles. On the west side toward the rock-seated village of Shah-dheri, the Bir moundhas an elevation of from 15 to 25 above the fieldLoseby; but as the ground continues to slowtowardsShah-dheri, the general elevation is not ...nan from 25 to 35 feet. On the east side. Immediately above the *Tabrâ*, or *Tamrâ Nala*, it r 40 feet above the fields, and 68 feet above theof the stream. The remains of the walls c.. traced only in a few places both on theeas....west sides; but the whole surface is covered and broken stones and fragments of bricks and pe...Here the old coins are found in greater numbers than in any other part of the ruins; and here, also, a single man collected for me, in about two hours, a double handful of bits of lapis lazuli, which are not to be seen elsewhere. Judging from the size of the place, I take it to be the site of the inhabited part of the city in the time of Hwen Thsang, who describes it as being only 10 *li*, or 1,^(2/3) mile, in circuit. This conclusion is confirmed by the position of the great ruined stupa in the midst of the *Babarkhâna* land, which is 8000 feet north-north-east from the near end of the Bir mound, and 10,000 feet, or just 2 miles, from the main entrance to the middle of
-
-
 
 the old city. As Hwen Thsang describes the position. of the stupa of the "Head Gift" as being 12 or 13 *li*, or rather more than 2 miles, to the north of the city[^128], I think that there can be little doubt that the city of his time was situated on the mound of Bir. I traced the remains of three small topes on the north and east sides of the mound, all of which had been opened previously by the villagers, who, however, stoutly denied the fact, and attributed the explorations to General Abbott and Major Pearse.
 
@@ -1330,11 +981,7 @@ the old city. As Hwen Thsang describes the position. of the stupa of the "Head G
 
 * Hatiâl* is a strong fortified position on the west end of a spur of the *Mârgala* range, and immediately to the north-east of the *Bir* mound, from which it is separated by the *Tabrâ* Nala. About half a mile from Bir the spur is divided into two nearly parallel ridges, about 1500 feet apart, which run almost due west to the bank of the Tabrâ, where they are joined by a high earthen rampart. The clear space thus euclosed is not more than 2000 feet by 1000 feet, but the whole circuit of the defences, along the hill-ridges and the artificial ramparts, is about 8400 feet, or upwards of 1_(![](../books_images/U-IMG-1700637910Screenshot2023-11-22082255.png)) mile. At the east end the two parallel ridges are joined by stone walls, 15 feet 4 inches thick, with square towers at intervals, all of which are still in very good order. The crest of the south or main ridge is 291 feet above the general level of the fields, butthe north ridge has an elevation of only 163 feet. Between these two there is a small rocky ridge, 206 feet in height, crowned by a large bastion or tower, which the people look upon as a stupa or tope. There is a similar tower on the crest of the north ridge, which I was induced to excavate by the report of a
 
-
-
 villager named *Nûr*, who informed me that he had found a copper coin at each of the four corners of thebasement, which he considered as a certain sign that the building was a tope. I knew also that it was the custom in Barma to erect a stupa in each of the corner bastions of their square fortified cities. But my excavation, which was carried down to the bare rock, adepth of 26 feet, showed only regular courses of large rough blocks, which were extracted with much difficulty. Close to the west of this tower I traced the remains of a large enclosure, 163 feet long by 151_(![](../books_images/U-IMG-1700637910Screenshot2023-11-22082255.png))feet broad, divided into rooms on all four sides, from which I at first thought that the building was a monastery. But the subsequent discovery of a large quantity of burnt clay pellets of a size well adapted for slingers led me to the conclusion that the place was most probably only a guard-house for soldiers. The two ridges fall rapidly towards the west for about 1200 feet, till they meet the general slope of the intervening ground, and at these points are the two gateways of the fort, the one being due north of the other. The north ridge then rises again, and running to the west-south-west for 2000 feet, terminates in a square-topped mound, 130 feet high. This part of the ridge is entirely covered with the remains of buildings, and near its cast end the villager Nûr discovered some copper coins in a ruined tope. Of the name of *Hatiâl* I could obtain no iuformation whatever; but it is probably old, as I think it may possibly be identified with *Hattiâr-Lank*, which Abul Fazl places in the Sindh-Sâgar Doab. The spelling of the name would refer it to Hatti, a shop, and *Hatti-âla* would then be the marketplace or bazaar. But the*Hatiâl* fort is so evidently
-
-
 
 the stronghold or citadel of this ancient place that I look upon this derivation as very doubtful.
 
@@ -1343,38 +990,26 @@ the stronghold or citadel of this ancient place that I look upon this derivation
 
 * Kacha-kot*, or the "mud fort," lies to the north of
 
-
-
 Sirkap, in a strong isolated position formed by the doubling round of the Tabrâ Nala below the junctionof the Gau Nala, which together surround the place on all sides except the east. The ramparts of Kachakot, as the name imports, are formed entirely of earth, and rise to a height of from 30 to 50 feet above the stream. On the east side there are no traces of any defences, and inside there are no traces of any buildings. It is difficult therefore to say for what purpose it was intended; but as the Gan Nala runs through it, I think it probable that Kacha-kot was meant as a place of safety for elephants and other cattle during a time of siege. It is 6700 feet, or upwards of 1_(![](../books_images/U-IMG-1700638102Screenshot2023-11-22125804.png))mile in circuit. The people usually called it Kot, and this name is also applied to Sir-kap, but when they wish to distinguish it from the latter they call it *Kacha-kot*. Now this name is found both in Baber's 'Memoirs,' and in the 'Ayin Akbari.' In the former the Haro river is called the river of Kacha-kot, which therefore must have been some large place near the banks of that stream, but I suspect that it ought rather to be looked for near Hasan Abdâl, or even lower down.
 
 * Babar Khâna* is the name of the tract of land lying between the Lundi Nala on the north and the Tabrâ and Gau Nalas on the south. It includes Kacha-kot, and extends about one mile on each side of it to the east and west, embracing the great mound of *Seri-ki-Pind* on the north-west, and the Gângu group of topes and other ruins on the east. In the very middle of this tract, where the Lundi and Tabrâ Nalas approach one another within one thousand feet, stands a lofty mound, 45 feet in height, called *Jhandiâla Pind*, after a small hamlet close by. To the west of the Pind, or mound,
-
-
 
 there is another mass of ruins of greater breadth, but only 29 feet in height, which is evidently the remains of a large monastery. It is remarkable that the road which runs through the two gateways of the *Hatiâl*citadel, and through the north gateway of *Sirkap*, passes in a direct line due north between these two mounds until it meets the ruins of a large stupa, on the bank of the Lundi river, 1200 feet beyond the Jhandiâla Pind. This last I believe to be the famous "Headgift *Stupa*" which was said to have been erected by Asoka in the third century before Christ. I have already alluded to its position as answering almost exactly to that described by Hwen Thsang; and I may now add as a confirmation of this opinion that the main road of the city of Taxila was laid in a direct line running due north upon the Jhandiâla stupa, a fact which proves incontestably the very high estimation in which this particular monument must have been held. This is further confirmed by the vicinity of another mound, 3600 feet to the north-west, called*Seri-ki-pind*, or *Siri-ki-pind*, which would appear to refer directly to the "Head Gift," as the *Sîrshâ-dânam*, or *Sir-dân* of Buddha. Taking all these points into consideration, I think that there are very strong grounds for identifying the great ruined tope of*Babar-khâna* with the famous stupa of the "Head Gift" of Buddha.
 
  The large fortified enclosure called *Sir-Suk* is situated at the north-east corner of the Babar-khâna, beyond the Lundi Nala. In shape it is very nearly square, the north and south sides being each 4500 feet in length, the west side 3300 feet, and the east side 3000 feet. The whole circuit, therefore, is 15,300
 
-
-
 feet, or nearly 3 miles. The south face, which is protected by the Lundi Nala, is similar in its construction to the defences of *Sir-kap*. The walls are built of squared stones, smoothed on the outer face only, and are 18 feet thick, with square towers at intervals of 120 feet. The towers of this face have been very carefully built with splayed foundations, all the stones being nicely bevelled to form a smooth slope. The tower at the south-east corner, which is the highest part now standing, is 10 feet above the interior ground, and 25 fect above the low ground on the bank of the stream. Towards the west end, where the stones have been removed, the south wall is not more than 2 or 3 feet in height, about the interior ground. Of the east and west faces, about one-half of the walls can still be traced, but of the north face there is but little left except some mounds at the two corners. Inside there are three villages named Mirpur, Tupkia, and Pind, with a large ruined mound, called Pindora, which is 600 square feet at base. To the south of Pindora, and close to the village of Tupkia, there is a *Khângâh*, or shrine of a Muhammadan saint, on a small mound. As this is built of squared stones, I presume that the Khângâh represents the position of a stupa or tope which must have given its name to the village of Tupkia, and that the great Pindora mound is the remains of a very large
 monastery. I foundtwo massive channelled stones, or spouts, which, from from their size, could only have been used for conveying the rain-water from a courtyard to the outside ofthe walls. At half a mile to the west there is an outer line of high earthen mounds running due north and south for upwards of 2000 feet, when it bends to
-
-
 
 the east-north-east. Beyond this the line is only traceable by a broad belt of broken stones, extending for 3500 feet, when it turns to the south-east for about 1200 feet and joins the north face of *Sir-Suk*.These external lines would appear to be the remains of a large outwork which once rested its north-westangle on the Lundi Nala. The entire circuit of Sir-Suk and its outwork is about 20,300 feet, or nearly 5 miles.
 
  I have now described all the different parts of this great city, the ruins of which, covering an area of six square miles, are more extensive, more interesting, and in much better preservation than those of any other ancient place in the Panjab. The city of *Sirkap*, with its citadel of *Hatiâl*, and its detached works of Bir and *Kacha-kot*, has a circuit of 4_(![](../books_images/U-IMG-1700638164Screenshot2023-11-22083351.png))miles; and the large fort of *Sir-Suk*, with its outwork, is ofthe same size, each of them being nearly as large as Shah Jahan's imperial city of Delhi. But the number and size of the stupas, monasteries, and other religious buildings are even more wonderful than the great extent of the city. Here both coins and antiquities are found in far greater numbers than in any other place between the Indus and Jhelam. This then must be the site of Taxila, which, according to the unanimous testimony of ancient writers, was the largest city between the Indus and Hydaspes. Strabo and Hwen Thsang both speak of the fertility of its lands, and the latter specially notices the numbers of its springs and water-courses. As this description is applicable only to the rich lands lying to the north of the Tabrâ Nala, which are amply irrigated by numerous channels drawn from the Haro river, the proof of my identification is com-
-
-
 
 plete. Burnes crossed this tract in 1832, when he encamped at Usmân Khatar, 3 miles to the north of Shah-dheri, and about 1 mile to the south of the Haro river. He describes the village as standing on a plain at the mouth of a valley close to the base of theoutlying hills[^129]."This agrees most exactly with the accounts of Strabo and Pliny, who describe Taxila as situated in a level country where the hills unite with the plains. Of Usmân, Burnes goes on to say that "its meadows are watered by the most beautiful andcrystal rivulets that flow from the mountains." In the first part of this statement he is quite correct; but in the latter part he is undoubtedly wrong, as everyrill of water that passes through Usmân is drawn by artificial means from the Haro river. Two miles to the south, towards the ruins of the old city, the irrigation is carried on by ents from the Lundi Nala, but as the main body of water in this stream is artificially obtained from the Haro, the whole of the irrigation may be truly said to be derived from that river.
 
 [^129]: "Travels,' ii. 61."
 
  The district of Taxila is described by Hwen Thsang as being 200 *li*, or 333 miles, in circuit. It was bounded by the Indus on the west, by the district of Urasa on the north, by the Jhelam or Behat river on the cast, and by the district of Sinhapura on the south. As the capital of the last was in the Salt range ofmountains, either at or near Ketâs, the boundary of Taxila on that side was most probably defined by the Suhân river to the south-west, and by the Bakrâla range of hills to the south-east. Accepting these limits as nearly correct, the frontier lines of the Indus and Jlielam will be respectively 80 miles and 50 miles
-
-
 
 in length, and those of the northern and southernboundaries 60 and 120 miles, or, all together, 310 miles, which accords very nearly with the measurement given by Hwen Thsang.
 
@@ -1390,9 +1025,6 @@ in length, and those of the northern and southernboundaries 60 and 120 miles, or
 
 [^132]: "Beal's translation of ‘Fa-Hian,' c. xi. p. 32."
 
-
-
-
 of this exploit at cight days' journey to the south-east of the capital of Gândhâra[^133],which is a very exact description of the bearing and distance of Mânikyâla, either from Peshawar or from Hashtnagar. Lastly, Hwen Thsang places the site of the "Body-offering" at 200 *li*, or nearly 34 miles, to the south-east ofTaxila[^134],which are the exact bearing and distance of Mânikyâla from Shah-dheri; but his statement that he crossed the *Sin-tu*, or Indus, is a simple mistakefor the *Suhân* or *Süân* river, which flows between the two places[^135].
 
 [^133]: " Beal's translation of ' Sung-yun,' p. 193."
@@ -1407,13 +1039,9 @@ of this exploit at cight days' journey to the south-east of the capital of Gând
 
 [^137]: "Ibid., 1853,P. 570."
 
-
-
 of the town itself as of very considerable extent, massive walls of stone and lime being met with everywhere, besides a great number of wells." After a careful examination of the site, I have come to the same conclusion as General Abbott, that there are no traces of a large city; and I am quite satisfied that all the massive walls of cut stone, which General Courttruly describes as being met with everywhere, must have belonged to costly monasteries and other large religious edifices. Doubtless, a few private houses might be built of squared stones even in a village, but thesemassive edifices, with their thickly gilded roofs, which still repay the labour of disinterment, are, I think, too numerous, too large, and too scattered to be the remains of private buildings even of a great city. The people point to the high ground immediately to the west of the great tope, as the site of the Raja Mân's palace, because pieces of plaster are found there only, and not in other parts of the ruins. Here it is probable that the satraps of Taxila may have taken up their residence when they came to pay their respects at the famous shrine of the "Body-gift" of Buddha. Here, also, there may have been a small town of about 1500 or 2000 houses, which extended to the northward, and occupied the whole of the risingground on which the village of Mânikyâla now stands. I estimate the entire circuit of the space that may have been occupied by the town as about one mile and a half, which, at 500 square feet per man, would give a population of 12,500 persons, or just six persons to each house.
 
  The people are unanimous in their statements that the city was destroyed by fire; and this belief, whether
-
-
 
 based on tradition or conviction, is corroborated by the quantities of charcoal and ashes which are found. amongst all the ruined buildings. It was also amply confirmed by the excavations which I made in thegreat monastery to the north of General Court's Tope. I found the plaster of the walls blackened by fire, and the wrought blocks of kankar limestone turned into quicklime.The pine timbers of the roofs also were casily recognized by their charred fragments andashes. Unfortunately, I discovered nothing during my researches that offered any clue to the probable period of the destruction of these buildings, but as this part of the country had fallen into the power of the Kashmirian kings, even before the time of Hwen Thsang, I am inclined to attribute their destruction rather to Brahmanical malignity than to Muhammadan intolerance.
 
@@ -1421,15 +1049,11 @@ based on tradition or conviction, is corroborated by the quantities of charcoal 
 
  According to Hwen Thsang, the capital of the kingdom of *Seng-ho-pu-lo*, or*Singhapura*, was situated at 700 *li*, or 117 miles, to the south-east of Taxila. The bearing points to Jhelam, near which is the town of*Sangohi*, which has been noted by M. Vivien de St.Martin as the possible representative of Singhapura. But Sangohi stands on au open plain, instead of on a high mountain of difficult access, as described by the pilgrim. The vicinity of ten pools of limpid water, with surrounding temples and sculptures, points to the holy tanks of *Ketâksh*, or*Khetâs*, which are still visited by crowds of pilgrims from all parts of India.I think also that the name of *Ketâs* is only a slightly altered form of the Sanskrit *Swetavâsa*, or the "White
 
-
-
 Robes," which Hwen Thsang mentions as the title of the chief religious sect then resident near Singhapura.In the western countries, where the compound *sw* is changed to *kh*, the name would have been pronounced*Khetavâsa*, or by a slight contraction, *Khetâs*[^138].The Brahmans of course refer the name to their own religion, and say that the place was called *Katâksha*, or the "Raining Eyes," because the tears literally rained from Siva's eyes when he heard of the death of his wife Sati. But as their own spelling of the name*Ketâksh*, which I received from themselves, is at variance with the meaning which they give to it, I am inclined to adopt the etymology that I have already suggested as *Sweta-vâsa*, or the "White Robes." Thissect would appear to have belonged to the *Swetâmbara*,or "White-robed" division of the Jains, while another sect at the same place, who are described by Hwen Thsang as going naked, must be the *Digâmbara*, or "unclothed" (literally "sky-clad") division of the Jains. Their books also are stated to have been chiefly copied from the Buddhist literature, while the statue of their god resembled that of Buddha himself. From these curious details it seems almost certain that this heretical sect must have been Jains, whose religion has much in common with Buddhism, while theirstatues are frequently mistaken for those of Buddha.
 
 [^138]: "Thus the Sanskrit Saraswati became the Zend Harakhaiti, and the Greek Arakhôtos."
 
 * Ketâs* is situated on the north side of the Salt Range, at 16 miles from Pind Dâdan Klian, and 18 miles from Chakowâl, but not more than 85 miles from Shahdheri, or Taxila. Now the distance of Singhapura from Taxila is given at 700 *li*, or 117 miles, which is
-
-
 
 certainly too great, as it would place the capital about 30 miles beyond the most distant point of the hills in any direction between the south and east. *Singhapura* is described as situated on the top of a high hill of difficult access; and as the climate is said to be very cold, it is certain that the place must have occupied one of the isolated peaks either of the Salt Range on the south-south-cast, or of the Bâlnâth Range on the east-south-east[^139].But as there are no clear pools swarming with fish in the Bâlnâth Range, I have little hesitation in identifying the place described by Hwen Thsang with the beautiful limpid pool of *Ketâs*, which has been esteemed holy from time immemorial.
 
@@ -1437,15 +1061,11 @@ certainly too great, as it would place the capital about 30 miles beyond the mos
 
  The capital of *Singhapura* was situated at from 10 to 50 *li*, or 7 to 8 miles, to the north-west of the sacred tanks; but I know of no place that corresponds with this bearing and distance. *Malot* was the capital of the *Janjuhas* at a very early period; but its bearing is south-east, and its distance 12 miles. If we might read 4 to 5 *li*, instead of 40 to 50, the capital might at once be identified with the ruined fort of *Kotera*, which is situated on a steep hill to the west, about 200 feet in height, that overhangs the town and holy pools of *Ketâs*. This is called the ancient town. It consists of an upper fort, 1200 feet long, by 300 broad, and of a lower fort, 800 feet long, by 450 broad, the circuit of the two being about 3500 feet, or less than three-quarters of a mile. But the whole circuit of *Ketâs*, including the modern town on both banks of the stream, both above and below the fort, is about 2 miles. This is rather smaller than the capital described by Hwen Thsang, which was 14
 
-
-
 or 15 *li*, or 2_(![](../books_images/U-IMG-1700638363Screenshot2023-11-22082255.png))to 2_(![](../books_images/U-IMG-1700638363Screenshot2023-11-22082255.png))miles, in circuit. But as it corresponds in all other material particulars, I think that*Ketâs* has a very good claim to be identified with the capital of Singhapura.
 
  According to Hwen Thsang[^140],the district was 3600*li*, or 600 miles, in circuit. On the west it was bounded by the Indus, on the north by the southern frontier of Taxila, 120 miles in length, and on the south by the Jhelam and the northern frontier of *Tâki*,or the plains of the Panjâb. It cannot therefore have extended much beyond the foot of the Salt Range. This limit would make the Indus frontier about 60 miles in length, the Jhelam frontier about 50 miles, and the northern and southern frontiers each 120 miles, or altogether 350 miles. The only explanation that occurs to me of the difference between this number and that of Hwen Thsang, is the probability that the ancient *kos* of the Panjâb was the same as the modern one, that is, a short kos of 1,9/32 mile, or 1 mile and 2_(![](../books_images/U-IMG-1700638478Screenshot2023-11-22125804.png))furlongs, and that the Chinese pilgrim, ignorant of the difference, made his calculations in the common Indian kos of about two miles. This would reduce his numbers by very nearly one-third, and at the same time bring them into close accordance with the actual measurements of our maps. Thus, Hwen Thsang's 3600 *li*, or 600 miles, for the circuit of Singhapura, would become 400 miles, which is within 50 miles of the actual measurement already given. Great accuracy cannot be expected in these estimates of frontier distances, as the pilgrim had no means of checking the numbers of his informants. With the road distances which he had himself travelled it was different, as
 
 [^140]: "Julien's 'Hiouen Thsang,' ii. 162."
-
-
 
 he could test them by his own knowledge of the time occupied, as well as by the number of journeys betweenany two points. In the present instance of Singhapura it is quite certain that the frontier distance is exaggerated, as the boundary of *Tsekia*, or Tâki, is also said to have extended to the Indus, which couldnot have been the case if the frontier of Singhapura had stretched further to the south than I have placed it.
 
@@ -1461,8 +1081,6 @@ he could test them by his own knowledge of the time occupied, as well as by the 
 
  Hwen Thsang describes Punach as 2000 *li*, or 333 miles, in circuit, which is just about twice its actual size. On the west it is bounded by the Jhelam, onl the north by the Pir Panchâl range, and on the east and south-east by the small state of Rajaori. But these limits, which include the petty state of Kotali, are not more than 170 miles in circuit; and even if the tract at the source of the Punach river be included, the frontier
 
-
-
 will not be more than 200 miles in eircuit. But as the distances in the mountain districts were most probably estimated by the lengths of the roads, the circuit of the frontier line may be taken as equivalent to about 300 miles in road distance.
 
  In the seventh century Punach was without a king, and subject to Kashmir; but in later times it had a chief of its own, whose descendants, Shir Jang Khan and Shams Khan, were put to death by Gulâb Singh, of Jammu, and this petty sovereignty once more forms part of the kingdom of Kashmir.
@@ -1477,8 +1095,6 @@ will not be more than 200 miles in eircuit. But as the distances in the mountain
 
 [^139]: "See Maps Nos. V. and VI."
 
-
-
 and on the south to the plains, it would include all these petty places; even then its frontier would not be more than 240 miles, or by road about 320 miles. But if the frontier of these hill-states subject to Kashmir be extended to the Râvi on the east, the circuit would be about 420 miles measured on the map, or not less than 560 miles by road.
 
  Râjapuri is frequently mentioned during the medieval period of Kashmirian history, but chiefly in the eleventh and twelfth centuries, when it was an independent state under its own rajas. In the fifteenth century the Hindu family was dispossessed in favour of a son of the Muhammadan king of Kashmir; and his descendant was so reduced by Gulâb Singh that in 1846 he was glad to accept an estate in the British district of Kângra in exchange for his petty chiefship of Rajaori.
@@ -1489,20 +1105,15 @@ and on the south to the plains, it would include all these petty places; even th
 
  According to popular opinion the petty states of the Alpine Panjâb, at the present time, consist of twenty-two Muhammadan and twenty-two Hindu chiefships, the former lying to the west, and the latter to the east of the Chenâb river. An older classification divides them into three groups, each named after the most powerful state which formed the head of the confederation. These were Kashınir, Dogra, and Trigartta. The first consisted of the rich valley of Kashmir, and all the petty states between the Indus and Jehlam; the second included Jammu, and the other
 
-
-
 petty states between the Jehlam and the Râvi; the third comprised Jâlandhar, and the various small states between the Râvi and the Satlej.
 
  This division into three groups most probably existed prior to the seventh century, as we find thatthe states to the east of the Râvi were quite independent of Kashmir, while those of Urasa, Punach, and Rajapuri are spoken of in such a way as to show that they had kings of their own previous to their subjection by Kashmir. Trigartta is repeatedly mentioned in the chronicles of Kashmir as an independent kingdom; and its own history shows that one-half of the present petty states of the Jâlandhar hills have sprung from the division of the possessions of a single family.
 
  The following list gives the names and possessions of the various states attached to Kashmir, or the western division of the Alpine Panjâb:—   
 
-
 [TABLE]
 
  The *Khâka-Bamba* chiefs hold the valley of the Behat river below Barâhmula, and the whole course
-
-
 
 of the Kunihâr river to the north-west of Kashmir. They are all Muhammadans, and are most probably the descendants of the early inhabitants of the country,who retired to their present position on the advance of the Afghân invaders.
 
@@ -1514,23 +1125,17 @@ of the Kunihâr river to the north-west of Kashmir. They are all Muhammadans, an
 
  The following list gives the names and positions of the various states attached to the central, or Jammu division of the Alpine Panjâb:—
 
-
-
 [TABLE]
 
  The towns of Jammu and Bhao, which were founded by two brothers, are situated on opposite banks of the Tohi, a small stream that joins the Chenab at the foot of the hills. Jammu is mentioned several times in Muhammadan history, from the time when Timur forcibly converted the Raja down to the end of the last century. The three famous brothers of Ranjit Singh's court—Gulâb Singh, Dhyân Singh, and Suchet Singh, belonged to a younger branch of this family, and the son of Gulâb Singh now rules over Kashmir and the whole of the states in the western and central divisions of the Alpine Panjâb.
 
  The petty chiefs of *Rihâsi* and *Aknur* were branches
 
-
-
 of the Jammu family, on which they were generally dependent. Punach was sometimes independent; but its proximity to Kashmir placed it at the mercy of its more powerful neighbour. *Rajaori* and *Kotali* were held in later times by two branches of the royal family of Kashmir, to which they were usually tributary. But in the middle ages, under the Hindu rulers, Kotali formed part of Punach, to which it naturally belonged as part of the same valley. *Bhimbar* and*Khariâli* were divisions of the Chibh, or Chibhân, branch of the Somvansi Rajas of Kângra and Jâlandhar. In early times the name of Bhimbar was little used, the common appellation being *Chibhân*, which is found in Sharifuddin's history of Timur, under the form of *Jibhâl*. The conversion of the family to Muhammadanism is probably of late date, as Ferishta mentions *Howns* Raja of Bhimbar in A.H. 891, or A.D. 1486[^147].But so many of these hill chiefs retained their Hindu names after they became Muhammadans, that the Hindu name alone cannot be taken as a decisive proof of his being unconverted. *Kâshtwâr*and *Bhadrwâr* are situated on opposite banks of the upper Chenâb river, to the south-east of Kashmir, to which they were generally subject. These nine chiefships of the central division, added to the thirteen of the western division, form the twenty-two Muhammadan states which the popular belief assigns to the western half of the Alpine Panjâb.
 
 [^147]: "Briggs, Ferishta,' iv. 483."
 
  Of the eight remaining chiefships of this division I amnot able to give much information, as many of them became extinct during the early period of Sikh rule, and all of them are now absorbed by the Jammu
-
-
 
 family in the great kingdom of Kashmir. *Jasrota*, in the outer range of hills, was once of some importance, and its chiefs intermarried with the other Rajput families of the Alpine Panjâb; but I can find no mention of it in any of the histories. *Ballâwar*and*Badwâl* were certainly at one time under a single chief, as Kalasa, the son of Tukka, who is twice mentioned in the 'Raja Tarangini[^148] 'as lord of*Vallâpura*between 1028 and 1801, is found in the genealogical lists of both families. It is true that *Vaddivâsa* is noticed in the same chronicle[^149]as a separate district at an earlier date, but as there is no mention of any chief, it may be inferred that it formed part of the small kingdom of Vallâpura. As the names in the two genealogical lists differ from *Kalasa* downwards, it seems probable that the state may have been dismembered after his death. It is certain that he was mixed up with Kashmirian politics; and as the contemporary Raja of the neighbouring state of Chamba was put to death by Ananta of Kashmir, I conclude that Ballâwar must have been subjected at the same time.
 
@@ -1541,8 +1146,6 @@ family in the great kingdom of Kashmir. *Jasrota*, in the outer range of hills, 
  I may remark that all the chiefs of the Central Division, whose genealogies I possess, trace their origin to the *Surajvansi*, or Solar Race, with the single exception of the intrusive *Chibhân* of Bhimbar. The chiefs of Jammu, Jasrota, and Ballâwar, with their offshoots, amounting together to eight of these petty states, all assert their descent from the Sun, a claim which is admitted by their Rajput neighbours.
 
  The following list gives the names and positions of the various states attached to the eastern, or Jâlandhar division of the Alpine Panjâb.
-
-
 
 |                      |                                     |
 |----------------------|-------------------------------------|
@@ -1565,8 +1168,6 @@ family in the great kingdom of Kashmir. *Jasrota*, in the outer range of hills, 
 
  Since the occupation of the plains by the Muhammadans, the ancient kingdom of Jâlandhara has been confined almost entirely to its hill territories, which were generally known by the name of *Kângra*, after its most celebrated fortress. The district is also called*Kâtoch*, the meaning of which is unknown, and *Tri*-
 
-
-
 *gartla*[^150], which is the usual Sanskrit name found in the Purânas, and in the native chronicle of Kashmir.
 
 [^150]: "Hema-Kosha.' Jâlandharâs Trigarttâsyuh—“ Jâlandhara, that is Trigartta."
@@ -1579,8 +1180,6 @@ family in the great kingdom of Kashmir. *Jasrota*, in the outer range of hills, 
 
 [^152]: "Uttara Khanda of the Padma Purâna. Kennedy's' Hindu Mythology,' p. 156."
 
-
-
 local Purâna[^153],which states that he was overwhelmed and crushed to death by a mass of mountains which Siva placed upon him. Flames then sprang out of his mouth, which was under *Jwâla-mukhi*; his back was under the upper part of the Doâb, which is still called*Jâlandhara*-*piṭha*, or *Jâlandhar-pith*, by the people; and his feet were under the lower part of the Doâb at Multân. Akbar partially adopted this version of the legend when he named the different Doâbs after the enclosing rivers, by calling the land between the Satlej and Bïâs the *Doâb-i-Bist Jâlandhar*, or Bit *Jâlandhar*, instead of the *Sab Doab*, which it should have been if he had placed the initial of the eastern river first, as he did in the names of the Bâri and Chaj Doâbs.
 
 [^153]: "Jalandhara Purâna."
@@ -1590,8 +1189,6 @@ local Purâna[^153],which states that he was overwhelmed and crushed to death by
 [^154]: "Diodorus, xvii. 51, "
 
 [^155]: " Diodorus, xvii. 51, "
-
-
 
 *gæus*, the king of the district, beyond the river, that is of the Jalandhar Doâb. Towards the end of the fifth century, the kingdom of Trigartta was presented to Pravaresa by the Raja of Kashmir[^156].In the seventh century, the Chinese pilgrim, Hwen Thsang, was courteously entertained for a whole month by Raja *U-ti-to,*or *Udita*[^157],whom I would identify with *Adima* of the genealogical lists. One hundred and sixty years later, in an inscription dated A.D. 804, the Raja of Jâlandhara is named Jaya Chandra, who is the Jaya Malla Chandra of the lists, the seventh in descent from Adima. Lastly, Avanta, king of Kashmir, from A.D. 1028 to 1081, married two daughters of Indu Chandra[^158], Raja of Jalandhara, who is the Indra Chandra of the genealogical lists of Kângra. These instances are sufficient to show that *Jâlandhara* existed as an independent State for many centuries before the Muhammadan conquest.
 
@@ -1607,8 +1204,6 @@ local Purâna[^153],which states that he was overwhelmed and crushed to death by
 
 [^159]: " 'Travels,' part iii. c. 37."
 
-
-
 that "there are many Rajas who own not the authority of the Great Mogul." But the territories of theseRajas must have been far in the interior of the hills, as we know that the chiefs of all the outer hills were subjected by the Mogul emperors. Thevenot specially mentions the province of "*Ayoud*, or *Haoud*," as containing "the most northern countries that belong to the Great Mogul, as *Caucares*, *Bankish*, *Nagarcut*, *Siba*, and others." The Caucares must be the Gakars who hold the lower hills to the west of the Jhelam. Terry[^160]calls them *Kakares*, and their principal cities *Dekalee*and *Purhola* (or Dângali and Pharwâla). The *Bankish*are the Banchish of Terry[^161],whose "chief city, called*Bishur* (Peshawar) lyeth east (read west) somewhat southerly from Chishmere, from which it is divided by the river Indus." *Nagarcut* is Kângra or Nagarkot, which is mentioned under the same name by AbuRihân[^162], who was present at its capture by Mahmud of Ghazni. *Siba* is not as we might suppose, the small state in the neighbourhood of Kângra, but a district on the Ganges, of which the chief city, according to Terry, was "*Hardware* (or Haridwâra), where the river Ganges, passing through or amongst large rocks, makes presently after a pretty full current." From these accounts it is clear that the whole of the states in the lower hills, from Peshawar on the west to the Ganges on the east, were subject to the emperor of Delhi. Regarding the general name of *Ayoud*, or *Haoud*, which Thevenot applies to them, I can only conjecture that it may be some corrupt form of *Himavat*, or *Himwat*,
 
 [^160]: " Voyage to East India,' p. 88."
@@ -1616,8 +1211,6 @@ that "there are many Rajas who own not the authority of the Great Mogul." But th
 [^161]: "Ibid., p. 81: London, 1655."
 
 [^162]: "Fragments Arabes, etc.,' 149."
-
-
 
 one of the well-known names of the *Himâlaya* mountains, which the Greeks have preserved under the two different forms of *Emôdos* and *Imäus*.
 
@@ -1628,8 +1221,6 @@ one of the well-known names of the *Himâlaya* mountains, which the Greeks have 
 [^163]: "Briggs's Ferishta,' i. 283. The Gakars inhabited the banks of the Nilâb (or Indus
 
 [^164]: "'Raja Tarangini,' vii. 218. Ibid., vii. 589, 1520; viii. 1092."
-
-
 
 *Kullu.*
 
@@ -1645,8 +1236,6 @@ one of the well-known names of the *Himâlaya* mountains, which the Greeks have 
 
  To the north-east of Kullu Hwen Thsang places the district of *Lo-hu-lo*, which is clearly the *Lho-yal* of
 
-
-
 the Tibetans, and the *Lâhul* of the people of Kullu and other neighbouring states. Still further to the north he places the district of *Mo-lo-so*, which, from his position, must certainly be Ladâk. I would, therefore, alter the Chinese name to *Mo-lo-po*, which is an exact transcript of *Mar-po*, the actual name of the province of Ladâk, as *Mar-po-yul*, or the “Red district," in allusion to the general appearance of its soil and mountains. The Chinese syllables *so* and *po* are so much alike that they are frequently interchanged, as in the well-known name of Salatura, the birthplaceof Pânini, which is given in the original Chinese of Hwen Thsang's travels as *Po-lo-tu-lo*, or Palatura.
 
 *Mandi and Sukhet.*
@@ -1656,8 +1245,6 @@ the Tibetans, and the *Lâhul* of the people of Kullu and other neighbouring sta
 *Nûrpûr, or Pathâniya.*
 
  The town of Nûrpûr derives its name from the celebrated Nûr Jahân, the wife of the emperor Jahânjîr. Its original name was *Dahmari*, or Dahmâla; or as Abul Fazl writes, Dahmahri, although he mentions no fort. The people pronounce the name as if written *Dahmeri*. In the 'Târikh-i-Alfi' it is called *Damâl*, an dis described as "situated on the summit of a high hill,
-
-
 
 on the borders of Hindustan." The fort was taken after a long siege by Ibrahim Ghaznavi. The name of the district is *Pathâwat*, and the old capital in the plains was called *Pathiân*, or *Pathiânkot*, which is now slightly altered to *Path**â**nkot*. But the name is derived from the Pathân tribe of Hindu Rajpûts, and not from the well-known Muhammadan Pathâns, or Afghâns. The Raja was imprisoned in 1815 by Ranjit Singh, who took possession of his country.
 
@@ -1671,8 +1258,6 @@ on the borders of Hindustan." The fort was taken after a long siege by Ibrahim G
 
 [^168]: "Julien's 'Hiouen Thsang,' ii. 205."
 
-
-
 of about the same amount in the return journey along a parallel line of road, from Mathura to Thanesar, which the pilgrim makes only 500 *li*, or 83 miles[^169], instead of 1200 *li*, or 200 miles, the actual distance being 199 miles. As it would seem that both routes, for some unknown reason, had been subjected to the same amount of curtailment, it is probable that the deficiency in the western line will lie in the southern portion between Satadru and Bairât, which is contiguous to the parallelline between Mathura and Thanesar. I would, therefore, increase the distance between the two former places by 150 miles, or in round numbers 1000 *li*, which would make the total distance 283 miles, or nearly 1800 *li*, instead of 800*li*. Taking this corrected distance from Bairât, and the recorded distance of 117 miles south from Kullu, the position of Satadru will correspond almost exactly with the large city of Sarhind, which both history and tradition affirm to be the oldest place in this part of the country.
 
 [^169]: "Julien's 'Hiouen Thsang,' i. 104, and ii. 211."
@@ -1680,8 +1265,6 @@ of about the same amount in the return journey along a parallel line of road, fr
  The present ruins of Sarhind consist almost entirely of Muhammadan buildings of a late period; but it must have been a place of some consequence in the time of the Hindus, as it was besieged and captured by Muhammad Ghori, the first Mussulman king ofDelhi[^170]. The name of *Sarhind*, or "frontier of Hind" is popularly said to have been given to the city at an earlier period, when it was the boundary town between the Hindus and the later Muhammadan kingdom of Ghazni and Lahor. But the name is probably
 
 [^170]: "Dowson's edition of Sir H. Elliot's Muhammadan Historians of India,' ii. 295."
-
-
 
 much older, as the astronomer Varâha Mihira mentions the*Sairindhas*[^171]immediately after the *Kulûtas*, or people of Kullu, and just before *Brahmapura*, which, as we learn from the Chinese pilgrim, was the eapital of the hill country to the north of Haridwâr. The*Sairindhas*, or people of *Sirindha*, must, therefore, have occupied the very tract of country in which the present Sarhind is situated, and there can be little doubt that the two names are the same. But the geographical list of Varâha Mihira is copied almost verbatim from that of the still earlier astronomer Parâsara, who is believed to have flourished not later than the first century after Christ[^172].
 
@@ -1693,13 +1276,9 @@ much older, as the astronomer Varâha Mihira mentions the*Sairindhas*[^171]immed
 
  The position of the celebrated fortress of Bhatner would suit the description of a small district bounded on the west by the Satlej, and would also agree with the corrected distance from Kullu: but the direction is south-west instead of south, and the distance from Bairât is upwards of 200 miles, instead of 800 *li*, or
 
-
-
 133 miles, as stated by the pilgrim. The bearing of Bairât is, however, in favour of Bhatner, as the pilgrim's south-west is certainly a mistake for south-east, otherwise the distance of Bairât from Mathura would be nearly 1500 *li*, or 250 miles, instead of 500*li*, or 83 miles, as recorded. If we might read 1500*li* instead of 500 *li*, the relative positions of Bhatner and Bairât would correspond very well with the pilgrim's account, as the road distance between the two places, *viâ* Hânsi, is about 250 miles. It is quite possible also that there may be a mistake in the initial Chinese character, *She* or *Ṣa*, which is very much like*Po or Bha*; and if so, the Chinese syllables *Po.to-tu-lo*would represent *Bhaṭasthala*, or Bhatner. The latter name means the "fortress of the Bhaṭis," but the town itself was called *Band*, or *Bando*, which was probably the contracted form of*Bhaṭasthala*, just as *Mâru*is now the common contracted form of *Marusthala*. But in spite of these plausible agreements both in name and in position, I am inclined to think that Sarhind must be the place indicated by the pilgrim as the capital of the ancient district of *Ṣatadru*. This conclusion is strengthened by the pilgrim's statement that the country produced gold, which, so far as I know, can only apply to the lower hills lying to the north of Sarhind, where gold is still found in some of the smaller affluents of the Satlej.
 
  Accepting Sarhind as the capital of Ṣatadru, the boundaries of the district may be determined approximately from its size. On the west and north it was bounded by the Satlej for upwards of 100 miles from the neighbourhood of Simla to Tihâra, below Lûdiâna. On the south the boundary extended for about 100
-
-
 
 miles from Tihâra to Ambâla, and on the east for about the same distance, from Ambâla to Simla. The circuit thus described embraces a considerable portion of the hill states to the west and south of Simla, together with the districts of Sarhind proper and Lûdiâna in the plains. As it is the only district lying to east of the Satlej that is included within the limits of Northern India, I infer that it must have been a dependency of the neighbouring state of Jâlandhar.
 
@@ -1710,8 +1289,6 @@ miles from Tihâra to Ambâla, and on the east for about the same distance, from
 [^139]: "See Maps Nos. V. and VI."
 
 [^174]: "Dr. Stevenson read this name as the Pali form of the Greek Xenokrates, but in all the inscriptions at Kanhari and Kârli it is clearly the name of a town or country."
-
-
 
 capital of Ranjit Singh. The position of the capital will be discussed hereafter. It will be sufficient at present to note that it was within a few miles of the more ancient capital of *She-kie-lo*, which was long ago identified by Professor Lassen with the *Ṣâkala* of the Mahâbhârata, and with the *Sangala* of Arrian. Now the people of *Ṣâkala* are called *Madras*, *Araṭṭas*,*Jârttikas*, and *Bâhikâs*[^175],in the *Mahâbhârata*; and in the Lexicon of Hemachandra the *Bâhikâs*are said to be the same as the *Ṭakkas*[^176]. Again, in the 'Raja Tarangini,' the district of *Ṭakkadesa* is mentioned as a part of the kingdom of Gurjjara (or Gujarât, near the Chenâb), which Raja Alakhâna was obliged to cede to Kashmir between A.D. 883 and 901[^177]. From these statements it is clear that *Ṣakala* was the old capital of the powerful tribe of *Ṭakkas*, whose country was named after themselves *Ṭakka-deṣa*[^178].The name of the new capital is not actually stated by Hwen Thsang, but I believe it to have been *Ṭaki*, or *Ṭakkâwar*, which I would identify with the *Tahora* of the Pentingerian Tables by the mere softening of the guttural *k* to the aspirate *h*. In the latter authority*Tahora* is placed at 70 Roman miles, or 64_(![](../books_images/U-IMG-1700639684Screenshot2023-11-22081626.png)) English miles from *Spatura*, opposite *Alexandria Bucefalos*.
 
@@ -1725,8 +1302,6 @@ capital of Ranjit Singh. The position of the capital will be discussed hereafter
 
  I will now turn to the early Muhammadan writers who have noticed Kashmir and Sindh, and who, therefore can scarcely have omitted all mention of so important a country as the Panjâb, which lies immedi-
 
-
-
 ately between them. In A.D. 915, Masudi thus describes the Indus, according to Sir Henry Elliot'stranslation[^179]:"The *Mihrân* of es-Sind comes from the "well-known sources of the high land of es-Sind, "from the country belonging to Kinnauj in the kingdom of Budah, and of Kashmir, el Kandahâr, and "*et-Ṭâkin*. The tributaries which rise in these countries run to el Multân, and from thence the united "river receives the name of *Mihrân*." In this passage *Ṭâkin*must certainly be intended for the hills of the Panjâb. The Kabul river and the Indus both flow through *Gândhâra*, or el Kandahâr; the Jhelam comes from Kashmir; and the Biâs and Satlej flow through Jâlandhar and Kahlur, which in the time of Hwen Thsang were subject to Kanoj. The only other tributaries of the Indus are the Chenâb and the Râvi, which must therefore have flowed through the kingdom of *Ṭâkin*. The mention of Gândhâra and Kanoj shows that Masudi does not refer to the actual sources of the rivers, but to the points in the lower ranges of hills, where they enter the plains. *Ṭâkin*, therefore, in the time of Masudi, represented the lower hills and plains of the Panjâb to the north of Multân, which was then in the possession of the Brahman kings ofKabul.
 
 [^179]: "Sir H. M. Elliot's 'Muhammadan Historians of India,' p. 56; and Prof. Dowson's edition, i. 21, where the name is read as Tâfan. But Sprenger, in his translation of 'Masudi,' p. 193, gives Tâfi, with Tâkan and Tâfan as variants, and at p. 390, Tâkin."
@@ -1734,8 +1309,6 @@ ately between them. In A.D. 915, Masudi thus describes the Indus, according to S
  The name is read *Ṭâkin*, ![](../books_images/U-IMG-1698920270Screenshot2023-11-02154702.png),by Sir Henry Elliot, and *Tâfan*,![](../books_images/U-IMG-1698920309Screenshot2023-11-02154744.png), by Gildemeister[^180],in his extracts from Masudi. The first reading is supported by the strong authority of Abu Rihân and Rashid-ud-
 
 [^180]: "'De Rebus Indicis,' p. 161."
-
-
 
 din, who agree in stating that the great snowy mountain of *Kelârjik* (or Lârjk), which resembled Demavend by its cupola form, could be seen from the boundaries of *Tâkishar* and Lohâwar[^181].Elliot, in one passage, corrects *Tâkishar* to *Kashmir*; but this alteration is quite inadmissible, as the mountain is specially noted to have been only 2 farsangs, or about 8 miles, distant from Kashmir. One might as well say that St. Paul's Cathedral is visible from Ludgate Hill and Windsor. The mountain here referred to is the great*Dayamur*, or *Nanga Parbat*, to the west of Kashmir, which is 26,629 feet in height; and which I have myself seen repeatedly from Râmnagar, on the Chenâb, a distance of 200 miles. In a second passage of the same author, Sir Henry calls the mountain*Kalârchal*[^182], and the two places from which it can be seen he names Takas and Lohâwar. This *Ṭâkas*, or*Tâkishar*, I take to be the same place as the *Tsekia*, or*Ṭâki* of Hwen Thsang, and the *Ṭâkin*of Masudi.
 
@@ -1747,8 +1320,6 @@ din, who agree in stating that the great snowy mountain of *Kelârjik* (or Lârj
 
 [^183]: "Sir Henry Elliot, p. 49; and Dowson's edition, i. 4."
 
-
-
 no hesitation in identifying Tafak with the Panjâb, where the women, and especially those of the lower hills, are the "fairest," as well as the "finest," in India. Ibn Khurdâdba, who died in A.D. 912, mentions the king of *Taffa*[^184]as next in eminence to the Balha Râ. Lastly, Kazwini describes *Taifand*, ![](#)_(![](../books_images/U-IMG-1697798302Screenshot2023-10-20160731.png)), which was taken by Mahmud of Ghazni in A.D. 1023, as a strong Indian fort, on the top of an inaccessible mountain[^185]. This account agrees with the actual hill of*Sangala*, which is almost inaccessible on three sides, and on the fourth is protected by a sheet of water.
 
 [^184]: "Sir Henry Elliot, ‘Muhammadan Historians of India,' p. 53. In Dowson's edition, i. 13, this name is written Tâfun"
@@ -1757,13 +1328,9 @@ no hesitation in identifying Tafak with the Panjâb, where the women, and especi
 
  All these slightly different names of *Ṭâkin*, *Ṭâfan*,*Ṭâfak, Ṭâffa, Tâkas, and Tâkishar*, I take to be only various readings of the one original form of *Ṭâki*, or*Ṭâkin*, which, when written without the diacritical points, may be read in several different ways. M. Reinaud gives another spelling as *Tâban*, _(![](../books_images/U-IMG-1697798490Screenshot2023-10-20161050.png)), which, without the points, may be read in as many different ways as the other form of *Ṭâfan*. I conclude, therefore, that the true form of the name of the country was *Ṭâki*, or *Ṭâka*, as recorded by Hwen Thsang. The name of the capital was probably either *Ṭâkin* or *Ṭakkâwar*, of which the former agrees exactly with Kazwini's*Ṭaifand ![](../books_images/U-IMG-1697798643Screenshot2023-10-20161332.png)*, and the latter with the *Tahora* of the Pentingerian Tables. I consider it almost certain that the name must have been derived from the tribe of *Tâks* or *Takkas*, who were once the undisputed lords of the Panjâb, and who still exist as a numerous agricultural race in the lower hills between the Jhelam and the Râvi.
 
-
-
  The former importance of this race is perhaps best shown by the fact that the old *Nâgari* characters, which are still in use throughout the whole country from Bamiyan to the banks of the Jumna, are named*Ṭâkari*, most probably because this particular form was brought into use by the *Tâks* or Takkas. I have found these characters in common use under the same name amongst the grain dealers to the west of the Indus, and to the east of the Satlej, as well as amongst the Brâhmans of Kashmir and Kangra. It is used in the inscriptions, as well as upon the coins of Kashmir and Kangra; it is seen on the *Sati* monuments of Mandi, and in the inscriptions of Pinjor; and lastly, the only copy of the 'Raja Tarangini' of Kashmir was preserved in the *Ṭâkari* characters. I have obtained copies of this alphabet from twenty-six different places between Peshâwar and Simla. In several of these places the *Ṭâkari* is also called *Mundé* and*Lundé*, but the meaning of these terms is unknown. The chief peculiarity of this alphabet is, that the vowels are never attached to the consonants, but are always written separately, with, of course, the single exception of the inherent short *a*. It is remarkable also that in this alphabet the initial letters of the cardinal numbers have almost exactly the same forms as the nine unit figures in present use.
 
  In the seventh century the kingdom of *Ṭâki* was divided into three provinces, namely, *Ṭâki* in the north and west, *Shorkot* in the east, and *Multân* in the south. The province of *Ṭâki* comprised the plains of the Panjâb, lying between the Indus and the Biâs, to the north of the Multân district, or the whole of the*Chaj* Doâb, together with the upper portions of the
-
-
 
 three Doâbs of Sindh-Sâgar, Richna, and Bâri. The province of *Shorkot* comprised the middle portions of these Doâbs, and the province of *Multân* their lower portions. It is probable, also, that the possessions of Multân may have extended some distance to the west of the Indus as well as to the east of the Satlej, as was the case in the time of Akbar.
 
@@ -1785,10 +1352,6 @@ three Doâbs of Sindh-Sâgar, Richna, and Bâri. The province of *Shorkot* compr
 |                  | 10. Kusâwar, or Kasur.     |
 |                  | 11. Chinapati, or Patti.   |
 
-
-
-
-
 *Jobnâthnagar, or Bhiṛa.*
 
  The modern town of *Bhiṛa*, or Bheḍa, is situated on the left, or eastern bank, of extensive mound of ruins, called *Old Bhiṛa*, or*Jobnâthnagar*, the city of Raja*Jobnâth*, or *Chobnâth*. At this point the two great routes of the salt caravans diverge to Lahor and Multân; and here, accordingly, was the capital of the country in ancient times; and here also, as I believe, was the capital of Sophites, or Sopeithes, the contemporary of Alexander the Great. According to Arrian, the capital of Sopeithes was fixed by Alexander as the point where the camps of Kraterus and Hephæstion were to be pitched on opposite banks of the river, there to await the arrival of the fleet of boats under his own command, and of the main body of the army under Philip[^186].As Alexander reached the appointed place on the third day, we know that the capital of Sophites was on the Hydaspes, at three days' sail from Nikæa for laden boats. Now Bhiṛa is just three days' boat distance from *Mong*, which, as I will presently show, was almost certainly the position of Nikæa, where Alexander defeated Porus. Bhiṛa also, until it was supplanted by Pind Dâdan Khan, has always been the principal city in this part of the country. At*Bhiṛa*[^187]the Chinese pilgrim, Fa-Hian, crossed the Jhelam in A.D. 400; and against Bhiṛa, eleven centuries later, the enterprising Baber conducted his first Indian expedition.
@@ -1798,8 +1361,6 @@ three Doâbs of Sindh-Sâgar, Richna, and Bâri. The province of *Shorkot* compr
 [^187]: "Beal's translation, chap. xv.; Fa-Hian calls it Pi-cha or Bhi-ḍa—the Chinese ch being the usual representative of the cerebral ḍ."
 
  The classical notices of the country over which
-
-
 
 Sophites ruled are very conflicting. Thus Strabo[^188]\* records:—"Some writers place *Kathæu* and the country of Sopeithes, one of the monarchs, in the tract between the rivers (Hydaspes and Akesines); some on the other side of the Akesines and of the Hyarotes, on the confines of the territory of the other Porns,— the nephew of Porns, who was taken prisoner by Alexander, and call the countrysubject to him *Gandaris*." This name may, I believe, be identified with the present district of*Gundalbâr*, or *Gundar-bâr*. *Bâr* is a term applied only to the central portion of eachDoâb, comprising the high lands beyond the reach ofirrigation from the two including rivers. Thus *Sandal*, or *Sandar-bâr*, is the name of the central tract of the Doâb between the Jhelam and the Chenâb. The upper portion of the *Gundal Bâr* Doâb, which now forms the district of Gujarât, belonged to the famous Porus, the antagonist of Alexander, and the upper part of the *Sandar*-*Bâr* Doâb belonged to his nephew, the other Porus, who is said to have sought refuge among the Gandaridæ. The commentators have altered this name to *Gangaridæ*, or inhabitants of the Ganges; but it seems to me that the text of Diodorust[^189]is most probably correct, and that the name of *Gandaride* must refer to the people of the neighbouring district of *Gandaris*, who were the subjects of Sophites.
 
@@ -1811,8 +1372,6 @@ Sophites ruled are very conflicting. Thus Strabo[^188]\* records:—"Some writer
 
 [^190]: "Geogr., xv. 1–30. This notice was most probably derived from Kleitarchos, one of the companions of Alexander, as Strabo quotes him in another place (v. 2-6
 
-
-
 Sopeithes there is a mountain composed of fossil salt sufficient for the whole of India." As this notice can only refer to the well-known mines of rock salt in the Salt Range, the whole of the upper portion of the Sindh Sâgar Doâb must have been included in the territories of Sopeithes. His sway, therefore, would have extended from the Indus on the west to the Akesines on the east, thus comprising the whole of the present districts of Pind Dâdan and Shâhpur. This assignment of the valuable salt mines to Sopeithes, or Sophites, may also be deduced from a passage in Pliny by the simple transposition of two letters in the nameof a country, which has hitherto puzzled all the commentators. Pliny says, "when Alexander the Great was on his Indian expedition, he was presented by the king of *Albania* with a dog of unusual size," which successfully attacked both a lion and an elephant in his presence[^191]. The same story is repeated by his copyist, Solinus[^192],without any change in the name of the country. Now, we know from the united testimony of Strabo, Diodorus, and Curtius, that the Indian king who presented Alexander with these fighting dogs was *Sophites*, and he, therefore, must have been the king of *Albania*. For this name I propose to read *Labania*, by the simple transposition of the first two letters. **AABAN** would, therefore, become**AABAN**, which at once suggests the Sanskrit word*lavana*, or ‘salt,' as the original of this hitherto puzzling name. The mountain itself is named *Oromenus* byPliny[^193], who notes that the kings of the country de-
 
 [^191]: " Hist. Nat., viii. 61."
@@ -1820,8 +1379,6 @@ Sopeithes there is a mountain composed of fossil salt sufficient for the whole o
 [^192]: " Ibid., xxxi. 39. "
 
 [^193]: " Ibid."
-
-
 
 rived a greater revenue from the rock salt than from either gold or pearls. This name is probably intended for the Sanskrit *Raumaka*, which, according to the Pandits, is the name of the salt brought from the hill country of *Ruma*. H. H. Wilson, however, identifies*Ruma* with *Sâmbhar*[^194];and as *rauma* means "salt," it is probable that the term may have been applied to the *Sâmbhar* lake in Rajputana, as well as to the Salt Range of hills in the Panjâb[^139].
 
@@ -1837,11 +1394,7 @@ rived a greater revenue from the rock salt than from either gold or pearls. This
 
 [^197]: "Hist., xvii. 49."
 
-
-
 ![](../books_images/U-IMG-1697800813199.png)
-
-
 
 of the subjects of Sophites, that it seems highly probable that they were one and the same people. They were certainly neighbours; and as both of them would appear to have had the same peculiar customs, and to have been equally remarkable for personal beauty, I conclude that they must have been only different tribes of the same race of people.
 
@@ -1855,8 +1408,6 @@ of the subjects of Sophites, that it seems highly probable that they were one an
 
 [^201]: "'Journal of the Asiatic Society,' Bengal, 1836, pp. 472, 473."
 
-
-
 bably near Jalâlpur. In the following year, GeneralAbbott[^202] published an elaborate disquisition on the battle-field of Alexander and Porus, in which he placed the camp of the former at Jhelam, and of the latter on the opposite bank near Norangabad. The passage of the river he fixed at *Bhuna*, about 10 milesabove Jhelam, and the field of battle near Pakrâl, about 3 miles to the north of Sukchenpur. In this state the question remained until the end of 1863, when my tour through the Panjâb gave me an opportunity of examining at leisure the banks of the Hydaspes from Jalâlpur to Jhelam.
 
 [^202]: " ‘Journal of the Asiatie Society,' Bengal, 1848, part ii. p. 619."
@@ -1867,8 +1418,6 @@ bably near Jalâlpur. In the following year, GeneralAbbott[^202] published an el
 
  The town of Jhelam is situated on the west bank of the river, 30 miles to the north-east of Jalalpur, and exactly 100 miles to the north-north-west of Lahor. The remains of the old town consist of a large ruined mound, to the west of the present city, about 1300 feet square and 30 feet high, which is surrounded by fields covered with broken bricks and pottery. The square mound I take to be the ruins of the citadel, which is said to have been called *Puta*. Numbers of
 
-
-
 old coins are still discovered in the mound after rain; but those which I was able to collect were limited to the mintages of the later Indo-Scythians, the Kabul Brahmans, and the princes of Kashmir. As similar and even earlier coins are described by Court andAbbott to have been found in great numbers in previous years, it is certain that the city must have been in existence as early as the first century before Christ. But the advantages of its situation, on one of the two principal lines of road across the North Panjâb, are so great that it must, I think, have been occupied at a very early date. This opinion is confirmed by the numbers of large bricks that have been dug out of the old mound.
 
  The ruined city near Dârâpur, which has been described by Burnes[^204]and Court[^205],is situated on the west bank of the river, 20 miles below Jhelam, and 10 miles above Jalâlpur. In their time, the old moundwas unoccupied, but about 1832
@@ -1878,11 +1427,7 @@ A.D. the people of Dilâwar abandoned their village on a hill to the west, and s
 
 [^205]: "Journ. Asiat. Soc. Bengal, 1836, 472, 473."
 
-
-
 been some confusion between two different places, which have here been joined together as one con- tinuous extent of ruins. *Girjhâk*, which I take to be the original of Court's *Gagirakhi*, is an old ruined fort on the top of the hill to the north of Jalâlpur, to which the people assign a fabulous extent; but it is at least 8 miles from *Dârâpur*, and is, besides, separated from it by the deep Kandar ravine, and by the precipitous range of hills at whose west foot Dilâwar is situated. Burnes also describes the old city as extending "for three or four miles." But this is certainly an exaggeration, as I was unable to trace the ruins for more than one mile in length by half a mile in breadth. The ruins consist of two large moundsjust half a mile apart, with two smaller mounds about midway between them. The south mound on which Dilâwar is situated, is about 500 feet square at top, and 1100 or 1200 feet at base, with a height of 50 or 60 feet. The north mound, on which old Dârâpurstands, is 600 feet square, and from 20 to 30 feet in height. Between these mounds the fields are covered. with broken bricks and pottery, and the whole place is said to be the ruins of a single city. The walls of the Dilâwar houses are built of the large old bricks dug out of this mound, which are of two sizes, one of 11½ by 8¼by 3 inches, and the other of only half this thickness. Old coins are found in great numbers. in the Dilâwar mound, from which the Jalâlpur bazar is said to be supplied, just as Pind Dâdan is supplied from the ruins of Jobnâthnagar. The coins which I obtained belonged to the first Indo-Scythians, the Kabul-Brahmans, the kings of Kashmir, and the *Karlûki Hazâra*chiefs, Hasan and his son Muhammad. The site,
-
-
 
 therefore, must have been occupied certainly as early as the second century before the Christian era. Its foundation is attributed to Raja Bharati, whose age is not known. I conclude, however, that the dominating position of Dilâwar, which commands the passage of the Jhelam at the point where the lower road from the west leaves the hills, just below the mouth of the Bunhâr river, must have led to its occupation at a very early period.
 
@@ -1890,15 +1435,11 @@ therefore, must have been occupied certainly as early as the second century befo
 
 [^206]: "Gladwyn's Translation, ii. 263."
 
-
-
 which rises 1100 feet above Jalâlpur. According to tradition, *Girjhâk* extended to the west-north-west as far as the old temple of Bâghanwâla, a distance of 11 miles. But this is only the usual exaggeration of ignorance that is told of all ancient sites. There is no doubt that the city did once extend to the westward for some considerable distance, as the ground on that side is thickly strewn with broken pottery for about half a mile. Its antiquity is undoubted, as the coins which it yields reach back to the times of Alexander's successors. But I believe that it is much older, as its favourable position at the south-east end of the lower road would certainly have led to its occupation at a very early period. I think, therefore, that it may be identified with the *Girivraja* of the Râmâyana. Tradition has preserved the name of only one king, named *Kâmkamârath*, who is said to have been the sister's son of *Moga*, the founder of Mong. MogalBeg[^207]writes the name *Ghir-Jehâk*, and it is so written by some of the people of the place, as if it was derived from *Giri-Zohâk*, or "Zohâk's Hill." But the usual spelling, which accords with the pronunciation, is Jhâk.
 
 [^207]: "Manuscript Map of the Panjâb and Kabul Valley, by Wilford, from the surveys of Mirza Mogal Beg, in my possession."
 
  From Jhelam to Jalâpur the course of the river is from north-east to south-west, between two nearly parallel ranges of mountains, which are generally known as the Tila and Pabhi Hills. The Tila range, which is about thirty miles in length, occupies the west bank from the great east bend of the river below Mangala, to the bed of the Bunhâr river, 12 miles to the north of Jalâlpur. *Tila* means simply a "peak or hill," and the full name is *Gorakhnâth-ka-Tila*. The more ancient
-
-
 
 name was *Bâlnâth-ka-Tila*. Both of these are derived from the temple on the summit, which was formerly dedicated to the sun, as *Bâlnâth*, but is now devoted to the worship of *Gorakhnâth*, a form of Siva. The latter name, however, is very recent, as Mogal Beg, who surveyed the country between A.D. 1784 and 1794, calls the hill "*Jogion-di-Tibi*, or tower of the Jogis, whose chief is called *Bilnâl*." Abul Fazl[^208]also mentions the "Cell of Balnât," and the attendant*Jogis*, or devotees,from whom the hill is still sometimes called *Jogi-tila*. But the name of Bâlnâth is most probably even older than the time of Alexander, as Plutarch[^209]relates that, when Porus was assembling his troops to oppose Alexander, the royal elephant rushed up a hill sacred to the Sun, and in human accents exclaimed, “O great king, who art descended from *Gegasios*, forbear all opposition to Alexander, for *Gegasios* himself was also of the race of Jove."
 
@@ -1908,15 +1449,11 @@ name was *Bâlnâth-ka-Tila*. Both of these are derived from the temple on the s
 
  The "Hill of the Sun" is only a literal translation of *Bâlnâth-ka-Tila*, but Plutarch goes on to say that it was afterwards called the "Hill of the Elephant," which I take to be another proof of its identity with Bâlnâth, for as this name is commonly pronounced*Bilnât* by the people, and is so written by Mogal Beg, the Macedonians, who had just come through Persia, would almost certainly have mistaken it for *Fil-nath*, or *Pil-nath*, the "Elephant." But wherever Alexander's camp may have been, whether at Jhelam or Jalâlpur, this remarkable hill, which is the most commanding object within fifty miles of the Hydaspes,
 
-
-
 must certainly have attracted the attention of the Macedonians. Its highest peak is 3242 feet above the sea, or about 2500 feet above the level of the river.
 
  The *Pabhi* range of hills, on the east bank of the river, stretches from the neighbourhood of Bhimbar to Rasûl, a length of 30 miles. This range is a very low one, as the highest point is not more than 1400 feet above the sea, and is less than 500 feet above the river; but the broken and difficult ground on both flanks of the hill presents a barrier quite as impassable as a much loftier range. Until the British occupation of the Panjâb, the Pabhi hills were crossed by only one carriage-road through the Khori Pass, 5 miles to the north-east of Rasûl, and by one foot-path through the Khârian Pass, 10 miles to the south-east of Jhelam. But though the main road has since been carried through the latter pass, it is still liable to interruption after heavy rain.
 
  In approaching the Hydaspes from the westward, Alexander had the choice of two different lines, which are distinguished by Baber as the upper and lower roads. From the Indus to Hasan Abdâl, or Shahdheri, the two lines were the same. From the latter place, the upper road proceeded by the Mârgala Pass through Râwal Pindi and Mânikyâla to Dhamâk and Bakrâla, from which place it descended by the bed. of the Kâhan river, through a gap in the Tila range, to Rolitâs, and from thence over an open plain to Jhelam. From Bakrâla there was also a foot-path to Jhelam, which crossed the Tila range about 6 miles to the north-east of Rohtâs, but this pass was always a dangerous one for horses and camels, and was difficult even for foot passengers. The length of this
-
-
 
 upper road from Shah-dheri, viâ Rohtâs, to Jhelam, was 94 miles; but this has since been shortened to 87 miles by the new road, which avoids the two long*détours* by Rohtâs and Dhamâk.
 
@@ -1927,15 +1464,11 @@ upper road from Shah-dheri, viâ Rohtâs, to Jhelam, was 94 miles; but this has 
 
 [^210]: "Hist. Nat., vi. 21, “Ad Hydaspen fluvium clarum, cxx. mill.”"
 
-
-
 tionary of Antiquities.' As all the copics of Pliny give the same number, we must accept it as the actual measurement of the route that was followed by Alexander from Taxila to his camp on the Hydaspes. In comparing this distance with those already given from Shah-dheri to Jhelam and Jalâlpur, we must unhesitatingly reject Jhelam, which is no less than 16 miles short of the recorded distance, while Jalâlpur differs from it by less than 2 miles. But there is another objection which is equally fatal to the claims of Jhelam. According to Strabo[^211],"the direction of Alexander's march, as far as the Hydaspes, was, for the most part, towards the*south*; after that, to the Hypanis, it was more towards the*east*." Now, if a line drawn on the map from Ohindon the Indus, through Taxila to Jhelam, be continued onwards, it will pass through Gujarat and Sodhra to Jâlandhar and Sarhind. As this is the most northerly road to the Ganges that Alexander could possibly have taken, his route by Jhelam would have been in *one continuous straight line*, which is in direct opposition to the explicit statement of Strabo. But if we adopt Jalâlpur this difficulty will be obviated, as the change in the direction would have been as much as 25° more easterly[^212]. There is also a third objection to Jhelam, which, though not entitled to the same weight as either of the preceding, is still valuable as an additional testimony on the same side. According to Arrian, the fleet, on descending the Hydaspes from Nikæa, reached the capital of Sopeithes on the third day. Now, I have already shown that the residence of Sopeithes must have been at *Jobnâth*-
 
 [^211]: "Geogr., xv. 1, 32."
 
 [^212]: "SeeMap No. V."
-
-
 
 *nagar*, or Ahmedabad, which is just three days' dis- tance for a laden boat from Jalâlpur, but is six days from Jhelam. As the evidence in each of these three separate tests is as directly in favour of Jalâlpur as it is strongly opposed to Jhelam, I think that we are fully justified in accepting the latter as the most probable site of Alexander's camp.
 
@@ -1947,8 +1480,6 @@ tionary of Antiquities.' As all the copics of Pliny give the same number, we mus
 
 [^215]: "‘Anabasis,’ v. 12, ἀπέχων τῆς ὄχθης."
 
-
-
 there has always been a passable but difficult road towards Jhelam. From the head of the Kandar, which is 1080 feet above the sca, and 345 above the river, this road proceeds for 3 miles in a northerly direction down another ravine called the Kasi, which then turns suddenly to the east for 6½ miles, and then again 1½ mile to the south, where it joins the Jhelam immediately below Dilâwar, the whole distance from Jalâlpur being exactly 17 miles. I marched along this ravine road myself, for the purpose of testing the possibility of Alexander's march; and I satisfied myself that there was no difficulty in it except the fatigue of making many little ascents and descents in the first half, and of wading through much heavy sand in the latter half. The ravine lies "at some distance from the bank" as described by Arrian, as the bend in the Kasi is 7 miles from the Jhelam. It is also a very deep ravine," as described by Curtius, as the hills on each hand rise from 100 to 250 and 300 feet in height. Therefore, in the three leading particulars which are recorded of it, this ravine agrees most precisely with the accounts of the ancient historians[^216].
 
 [^216]: " See Map No. VII."
@@ -1957,13 +1488,9 @@ there has always been a passable but difficult road towards Jhelam. From the hea
 
 [^217]: "‘Anabasis,’ v. ii. Παρὰ πᾶσαν δὲ τὴν ὄχθην φυλακαί τε αὐτῷ καθεστηκυῖαι ἦσαν, διαλείπουσαι ὅσον ξύμμετρον ἐς τὸ ξυνορᾷν τε ἀλλήλους καὶ καταχούειν εὐπετῶς ὀπόθεν τι παραγγέλλοιτο."
 
-
-
 bank, excepting only that one part which lies between Jalâlpur and Dilâwar. In all other parts, the west bank is open and exposed, but in this part alone the wooded and rocky hills slope down to the river, and offer sufficient cover for the concealment of single sentries. As the distance along the river bank is less than 10 miles, and was probably not more thau 7 miles from the cast end of the camp, it is easy to understand why Alexander placed them along this line instead of leaving them on the much longer route, which he was to march himself. Another minor particular is the presence of a rock in the channel by the river, on which, according to Curtius, one of the boats was dashed by the stream. Now, rocks are still to be found in the river only at Kotera, Meriâla, Malikpur, and Shah Kubir, all of which places are between Dilâwar and Jalâlpur. The village of Kotera is situated at the end of a long wooded spur, which juts out upon the river just one mile below Dilâwar. This wooded jutting spur, with its adjacent rock, I would identify with the ![](#)_(![](../books_images/U-IMG-1697811922Screenshot2023-10-20195444.png)), or promontory of Arrian, and the *petra* of Curtius[^218].Beyond the rock there was a large wooded island which screened the foot of the promontory from the observation of the opposite bank. There are many islands in this part of the Jhelam, but when a single year is sufficient to destroy any one of these rapidly formed sandbanks, we cannot, after the lapse of more than 2000 years, reasonably expect to find the island of Alexander. But in 1849, opposite Kotera, there was such an island,
 
 [^218]: "Arrian, “Anabasis, v. ii., ἄκρα ἦν ἀνέχουσα τῆς ὄχθης τοῦ Ὑδάσπου. Curtius, Vita Alex., viii. 11, “Unâ ergo navi, quam petræ fluctus illi- serat, hærente cæteræ evadunt.”"
-
-
 
 2½ miles in length and half a mile in breadth, which still exists as a large sandbank. As the passage was made in the height of the rainy season, the island, or large sandbank, would naturally have been covered with tamarisk bushes, which would have been sufficiently high to screen the movements of infantry and dismounted cavalry.
 
@@ -1973,23 +1500,17 @@ bank, excepting only that one part which lies between Jalâlpur and Dilâwar. In
 
  As my present object is to identify the scene of Alexander's battle with Porus, and not to describe the fluctuations of the conflict, it will be sufficient to quote the concise account of the operation which is given by Plutarch from Alexander's own letters:—"IIe took
 
-
-
 advantage of a dark and stormy night, with part of his infantry and a select body of cavalry, to gain a little island in the river, at some distance from the Indians; when he was there, he and his troops were attacked with a most violent wind and rain, accompanied with dreadful thunder and lightning." But in spite of the storm and rain, they pushed on, and wading through the water breast-high reached the opposite bank of the river in safety. "When they were landed," says Plutarch,\* who is still quoting Alexander's letters, "he advanced with the horse 20 stadia before the foot, concluding, that if the enemy attacked him with their cavalry he should be greatly their superior, and that if they made a movement with their infantry his own would come up in time enough to receive them." From Arrian[^220]we learn that, as soon. as the army had begun fording the channel, between the island and the main land, they were seen by the Indian scouts, who at once dashed off to inform Porus. When the ford was passed with some difficulty, Alexander halted to form his little army of 6000 infantry and about 10,000 cavalry. He then "marched swiftly forward with 5000 horse, leaving the infantry to follow him leisurely and in order." While this was going on, Porus had detached his son with two or three thousand horse and one hundred and twenty chariots to oppose Alexander. The two forces met at 20 stadia, or 2¼ miles, from the place of crossing, or about two miles to  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 \* Life of Alexander.' Sir W. Napier has paid a just tribute to the skill of both generals. Speaking of Alexander's passage of the Granicus, he says that it cannot “ be compared for soldierly skill with his after passage of the Hydaspes, and defeat of Porus. Before that great man he could not play the same daring game." (London and Westminster Review,' 1838, p. 377.)
 
 [^220]: "'Anabasis,' v. 13. "
 
-
-
 the north-east of Mong. Here the chariots proved useless on the wet and slippery clay, and were nearly all captured. The conflict, however, must have been a sharp one, as Alexander's favourite charger, Bukephalus, was mortally wounded by the young prince, who was himself slain, together with 400 of his men. When Porus heard of the death of his son, he marched at once against Alexander with the greater part of his army; but when he came to a plain, where the ground was not difficult and slippery, but firm and sandy, and fitted for the evolutions of his chariots, he halted and arrayed his troops ready for battle. His 200 elephantswere drawn up in front of the infantry about one*plethron*, or 100 feet apart, and the chariots and cavalry were placed on the flanks. By this arrangement, the front of the army facing north-east must have occupied an extent of about 4 miles, from the bank of the river to near Lakhnawâli, the centre of the line being, as nearly as possible, on the site of the present town of Mong. Around this place the soil is "firm and sound;" but towards the north-east, where Alexander encountered the young Indian prince, the surface is covered with a hard red clay, which becomes both heavy and slippery after rain[^221].
 
 [^221]: "I speak from actual observation of the field of Chilianwâla for some days after the battle, when the country had been deluged with rain. Both battles were fought on the same ground, between the town of Mong and the southern end of the Pabhi hills."
 
  When Alexander saw the Indian army drawn up in battle array, he halted to wait for his infantry, and to reconnoitre the enemy's position. As he was much superior to Porus in cavalry, he resolved not to attack the centre, where the formidable line of
-
-
 
 elephants were supported by masses of infantry, but to fall upon both flanks and throw the Indians into disorder. The right wing, led by Alexander himself, drove back the enemy's horse upon the line of clephants, which then advanced and kept the Macedonians in check for some time. "Wherever Porus saw cavalry advancing, he opposed elephants, but these slow and unwieldy animals could not keep pace with the rapid evolutions of the horse[^222]."At length the elephants, wounded and frightened, rushed madly about, trampling down friends as well as foes. Then the small body of Indian horse being surrounded, was overpowered by the Macedonians, and nearly all slain; and the large mass of Indian infantry, which still held out, being vigorously attacked on all sides by the victorious horse, broke their ranks and fled. Then, says Arrian[^223],“ Kraterus, and the captains who were with him on the other side of the river, no sooner perceived the victory to incline to the Macedonians, than they passed over, and made a dreadful slaughter of the Indians in pursuit.'
 
@@ -2001,8 +1522,6 @@ elephants were supported by masses of infantry, but to fall upon both flanks and
 
 [^224]: "History of Greece,' xii. 308, note."
 
-
-
 General Abbott has shown "highly plausible reasons in support of his opinion that Alexander's camp was at Jhelam, I may here point out that the village of Pabrâl, which he has selected as the battle-field, is not less than 14 miles from Jhelam, and therefore quite beyond the ken of Alexander's camp. I may quote also Abbott's own admission that the bed of the*Sukhetr* river, a level plain of sand one mile in width, "is a torrent after heavy rain, and is so full of quick-sands as to be unsuited to military operations." Now, this very *Sukhetr* river actually lies between Pabrâl and the site of the Indian camp opposite Jhelam, and as we know that a heavy storm of rain had fallen during the preceding night, the Sukhetr would have been an impassable torrent at the time of the battle. And so also would have been the Jada river, which joins the Jhelam just below the Sukhetr. With these two intervening rivers, which, whether wet or dry, would have been obstacles equally great to the march of the Indian army, and more specially to the passage of the war-chariots, I am quite satisfied that the battle-field could not have been to the north of the Sukhetr river.
 
  The position of Bukephala still remains to be discussed. According to Strabo[^225],the city of Bukephala was built on the west bank of the river, where Alexander had crossed it; but Plutarch[^226]says that it was near the Hydaspes, in the place where Bukephalus was buried. Arrian[^227], however, states that it was built on the site of his camp, and was named Bukephala in memory of his horse. Diodorus, Curtius,and Justin leave the exact position undecided; but they all agree that it was on the opposite bank of the
@@ -2013,25 +1532,17 @@ General Abbott has shown "highly plausible reasons in support of his opinion tha
 
 [^227]: "'Anabasis,' v. 19."
 
-
-
 river to Nikæa, which was certainly built on the field of battle. With these conflictiug statements alone to guide us, it is difficult to arrive at any positive conclusion. According as we follow Strabo or Arrian, we must place *Bukephala* at Dilâwar, or at Jalâlpur. Both places are equidistant from the battle-field of Mong, which I take without much hesitation to be the site of Nikæa. If the two cities were built on the same plan, which is not improbable, then Dilâwar would have the preferable claim to represent Bukephala, as its ruined mound is of the same size and height as that of Mong. I have already noticed in another place the possibility that Bugiâd, or Bugiâl, the name of the district in which Dilâwar is situated, may be only an abbreviation of Bukephâlia by the easy elision of the *ph*. But this is only a guess, and I have nothing else to offer on the subject, save the fact that the ancient name of Jalâlpur was certainly *Girjâk*, while that of Dilâwar is quite uncertain, as Udinagar is applied to at least three different places. The claims of Dilâwar and Jalâlpur are perhaps equally balanced, excepting in the one important point of position, in which the latter has a most decided advantage; and as this superiority would not have escaped the keen observation of the founder of Alexandria, I think that Jalâlpur must be the site of the famous city of Bukephala.
 
 *Nikæa, or Mong.*
 
  The position of Mong has already been described, but I may repeat that it is 6 miles to the east of Jalâlpur, and the same distance to the south of Dilâwar. The name is usually pronounced *Mong*, or *Mung*,
 
-
-
 but it is written without the nasal, and is said to have been founded by Raja *Moga*, or *Muga*. He is also called Raja *Sankhâr*, which I take to mean king of the *Sakas*, or *Sacæ*. His brother Râma founded Râmpur, or Râmnagar, the modern Rasul, which is 6 miles to the north-east of Mong, and exactly opposite Dilâwar. His sister's son, named Kâmkamârath, was Raja of Girjâk or Jalâlpur. The old ruined mound on which Mong is situated, is 600 feet long by 400 feet broad and 50 feet high, and is visible for many miles on all sides. It contains 975 houses built of large old bricks and 5000 inhabitants, who are chiefly Jâts. The old wells are very numerous, their exact number, according to my informant, being 175.
 
  I have already stated that I take Mong to be the site of Nikæa, the city which Alexander built on the scene of his battle with Porus. The evidence on this point is, I think, as complete as could be wished; but I have still to explain how the name of Nikæa could have been changed to Mong. The tradition that the town was founded by Raja Moga is strongly corroborated by the fact that*Maharaja Moga* is mentioned in Mr. Roberts's Taxila inscription. Now, *Moga* is the same name as *Moa*, and the coins of *Moa*, or*Mauas* are still found in Mong. But the commonest Greek monogram on these coins forms the letters.**NIK,** which I take to be the abbreviation of *Nikæa*, the place of mintage. If this inference be correct, as I believe it is, then *Nikæa* must have been the principal mint-city of the great king*Moga*, and therefore a place of considerable importance. As the town of Mong is traditionally attributed to Raja Moga as the founder, we may reasonably conclude that he must
 
-
-
 ![](../books_images/U-IMG-1697814550221.png)
-
-
 
 have rebuilt or increased the place under the new name of *Moga-grama*, which, in the spoken dialects, would be shortened to *Mogaon* and *Mong*. Coins of all the Indo-Scythian prinees are found at Mong in considerable numbers, and I see no reason to doubt that the place is as old as the time of Alexander. The copper coins of the Nameless Indo-Scythian kingespecially are found in such numbers at Mong that they are now commonly known in the neighbourhood as *Monga-sâhis*.
 
@@ -2045,33 +1556,23 @@ have rebuilt or increased the place under the new name of *Moga-grama*, which, i
 
 * *The *Sangala* of Alexander has long ago been recognized in the *Sâkala* of the Brahmans and the *Sâgal* of the Buddhists; but its position would still perhaps have remained undetermined, had it not fortunately been visited by the Chinese pilgrim Hwen Thsang in
 
-
-
 A.D. 630. Both Arrian and Curtius place Sangala to the east of the Hydraotes, or Râvi; but the itinerary of Hwen Thsang shows that it was to the west of the Râvi, and as nearly as possible in the position of the present *Sangla-wala-Tiba*, or "Sangala Hill." I first became acquainted with this place in 1839, when I obtained a copy of Mogal Beg's manuscript map, compiled by Wilford, who has three times described its position in the 'Asiatic Researches[^229].' But I was not able to obtain any account of the place until 1854, when I heard from Colonel G. Hamilton, who had visited it, and from Captain Blagrave, who had surveyed it, that Sangala was a real hill with traces of buildings, and with a sheet of water on one side of it. During my tour through the Panjâb, I was able to visit the hill myself, and I am now satisfied that it must be the Sangala of Alexander, although the position does not agree with that which his historians have assigned to it.
 
 [^229]: "Vols. v. 282; vi. 520; ix. 53."
 
  In the time of Hwen Thsang *She-kie-lo*, or *Sâkala*, was in ruins, and the chief town of the district was*Tse-kia*, or *Chekia*, which may also be read as *Dhaka*or Ṭaka. The pilgrim places this new town at 15 *li*, or 2½ miles, to the north-east of *Sâkala*; but as all the country within that range is open and flat, it is certain that no *town* could ever have existed in the position indicated. In the same direction, however, but at 19 miles, or 115 *li*, I found the ruins of a large town, called *Asarur*, which accord almost exactly with the pilgrim's description of the new town of *Tse kia*. It is necessary to fix the position of this place, because Hwen Thsang's measurements, both coming and going,
 
-
-
 are referred to it and not to Sâkala. From Kashmir the pilgrim proceeded by Punach to Rajapura, a small town in the lower hills, which is now called Rajaori. From thence he travelled to the south-east over a mountain, and across a river called *Chen-ta-lo-po-kia*, which is the *Chandrabhâga*, or modern Chenâb, to *She ye-pu-lo*, or *Jayapura* (probably Hâfizâbâd), where he slept for the night, and on the next day he reached*Tse-kia*, the whole distance being 700 *li*, or 116 miles. As a south-east direction would have taken the pilgrim to the east of the Râvi, we must look for someknown point in his subsequent route as the best means of checking this erroneous bearing. This fixed point we find in *She-lan-to-lo*, the well-known *Jâlandhara*, which the pilgrim places at 500, plus 50, plus 140 or150 *li*, or altogether between 690 and 700 *li* to the east of *Tse-kia*. This place was, therefore, as nearly as possible, equidistant from Rajaori and Jalandhar.Now, Asarur is exactly 112 miles distant from each of these places in a direct line drawn on the map, and as it is undoubtedly a very old place of considerable size, I am satisfied that it must be the town of *Tse-kia*described by Hwen Thsang.
 
  In A.D. 630 the pilgrim found the walls of *Sâkala*completely ruined, but their foundations still remained, showing a circuit of about 20 *li*, or 3,1/3miles. In the midst of the ruins there was still a small portion of the old city inhabited, which was only 6 or 7 *li*, or just one mile, in circuit. Inside the city there was a monastery of one hundred monks who studied the Hinayâna, or exoteric doctrines of Buddhism, and beside it there was a stupa, 200 feet in height, where the four previous Buddhas had left their footprints.
-
-
 
 At 5 or 6 *li*, or less than 1 mile, to the north-west, there was a second stupa, also about 200 feet high, which was built by King Asoka on the spot where the four previous Buddhas had explained the law.
 
 * Sânglawâla Tiba* is a small rocky hill forming two sides of a triangle, with the open side towards the south-east. The north side of the hill rises to a height of 215 feet, but the north-east side is only 160 feet. The interior area of the triangle slopes gradually down to the south-east till it ends abruptly in a steep bank 32 feet above the ground. This bank was once crowned with a brick wall, which I was able to trace only at the east end, where it joined the rock. The whole area is covered with brick ruins, amongst which I found two square foundations. The bricks are of a very large size, 15 by 9 by 3 inches. During the last fifteen years these bricks have been removed in great numbers. Nearly 4000 were carried to the large village of Marh, 6 miles to the north, and about the same number must have been taken to the top of the hill to form a tower for the survey operations. The base of the hill is from 1700 to 1800 feet on cach side, or just 1 mile in circuit. On the cast and south sides the approach to the hill is covered by a large swamp, half a mile in length, and nearly a quarter of a mile in breadth, which dries up annually in the summer, but during the seasonal rains has a general depth of about 3 feet. In the time of Alexander this must have been a fine sheet of water, which has been gradually lessened in depth by the annual washings of silt from the hill above. On the north-eastern side of the hill there are the remains of two large buildings, from which I obtained old bricks of the enormous size
 
-
-
 of 17½by 11 by 3 inches. Close by there is an old well which was lately cleared out by some of the wandering tribes. On the north-western side, 1000 feet distant, there is a low ridge of rock called *Munda-ka-pura*, from 25 to 30 feet in height, and about 500 feet in length, which has formerly been covered with brick buildings. At 1¾mile to the south, there is another ridge of three small hills, called *Arna* and little *Sângala*. All these hills are formed of the same dark grey rock as that of Chanyot and of the Karâna hills to the west of the Chenâb, which contains much iron, but is not worked on account of the want of fuel. The production of iron is noticed by Hwen Thsang.
 
  In comparing this account with the description of the Chinese pilgrim, I only find two places that can be identified. The first is the site of the modern town, which was about a mile in circuit, and was situated in the midst of the ruins. This I take to be the hill itself, which accords exactly with the description, and which would certainly have been occupied in preference to any part of the open plain below, on account of its security. The second is the stupa of Asoka, which was situated at rather less than 1 mile to the north-west of the monastery inside the town. This I would identify with the low ridge of rock on the north-west called *Mundapapura*, of which the highest point at the north-western end is 4000 feet, or more than three-quarters of a mile distant from the central point of the triangular area of the town. The plain on the north and west sides of the hill is strewn with broken pottery and fragments of brick for a con- siderable distance, showing that the town must once have extended in both of those directions. But the
-
-
 
 whole circuit of these remains did not appear to be more than 1½ or 1¼miles, or about one-half of Hwen Thsang's measurement.
 
@@ -2085,16 +1586,11 @@ which Professor Lassen translates "per amoenas *syl- varum* tramites ambulantes.
 
 [^231]: "'Hiouen Thsang,' i. 97."
 
-
-
 or *Dhâk* tree; but as the forest consisted of *Pilu* trees, both before and after the time of Hwen Thsang, I would suggest the propriety of correcting *Pi-lo-she* to*Pilo*; I conjecture that the Chinese editor of the pilgrim's life, who was most probably ignorant of the *Pilu*, substituted the well-known *Palâsa*, which is frequently mentioned by Hwen Thsang, under the belief that he was making an important and necessary correction.
 
  The country is still well known as *Madr-des*, or the district of the *Madras*, which is said by some to extend from the Biâs to the Jhelam, but by others only to the Chenâb. Regarding the *Apagâ* rivulet, I believe that it may be recognized in the*Ayak* *Nadi*, a small stream which has its rise in the Jammu hills to the north-east of Syâlkot. After passing Syâlkot the Ayak runs westerly near Sodhra, where in the rainy season it throws off its superfluous water in the Chenâb. It then turns to the south-south-west past Banka and Nandanwâ to Bhutâla, and continues this same course till within a few miles of Asarur. There it divides into two branches, which, after passing to the east and west of Asarur, rejoin at 2½ miles to the south of*Sângalawâla Tîba*. Its course is marked in the re- venue survey maps for 15 miles to the south-west of Sângala, where it is called the Nananwâ canal. An intelligent man of Asarur informed me that he had seen the bed of the Nananwâ 20 kos to the south-west, and that he had always heard that it fell into the Râvi a long way off. This, then, must be Arrian's "small rivulet" near which Alexander pitched his camp, at 100 stadia, or 11 miles, to the east of the Akesines, below its junction with the Hydaspes[^232]. At  
 
 [^232]: "'Anabasis,' vi. 6."
-
-
-
 
 that time, therefore, the water of the Ayak must have flowed for a long distance below Sângala, and most probably fell into the Râvi, as stated by my informant. Near Asarur and Sângala, the Ayak is now quite dry at all seasons; but there must have been water in it at Dhakawala only 24 miles above Asarur, even so late as the reign of Shâh Jahân, when his son Dârâ Shekoh drew a canal from that place to his hunting seat at Shekohpura, which is also called the Ayak, or Jhilri canal.
 
@@ -2103,8 +1599,6 @@ that time, therefore, the water of the Ayak must have flowed for a long distance
 [^233]: "Hardy, 'Manual of Buddhism,' 263, note."
 
 [^234]: "Ibid., 513."
-
-
 
 exaggerated distance, I would identify his birthplace with Alexandria Opiane, at the foot of the Indian Caucasus, about 40 miles to the north of Kabul. At a somewhat *later* period, *Sâkala* was subject to *Mahirkul*, or *Mihirkul*, who lost his kingdom by an unsuccessful campaign against Balâditya, king of Magadha. But being afterwards set at liberty by the conqueror, he obtained possession of Kashmir by treachery. I know of no other mention of Sâkala until A.D. 633, when it was visited by Hwen Thsang, who describes the neighbouring town of *Tse-kia* as the capital of a large kingdom, which extended from the Indus to the Byâs, and from the foot of the hills to the confluence of the five rivers.
 
@@ -2115,13 +1609,9 @@ byswimming across it (*paludem transnavere*). Arrian calls it a lake, *λíµvŋ
 
 [^236]: "6 Anabasis, v. 22: Κύκλῳ δὲ τοῦ γηλόφου ἁμάξας περιστήσαντες, ἐντός αὐτῶν ἐστρατοπέδευον, ὡς τριπλοῦν χάρακα προβεβλῆσθαι των ἁμαξῶν."
 
-
-
 with the low ridge to the north-west, called *Mundapapura*, which would certainly appear to have been outside the city walls, as the broken bricks and pottery do not extend so far[^237].I conclude that the camp on the hill was formed chiefly by the fugitives from other places, for whom there was no room in the already crowded city. The hill must have been close to the city walls, because the Kathæans, after the second line of carts had been broken by the Greeks, fled into the city and shut the gates. It is clear, therefore, that the triple row of earts could only have surrounded the hill on three sides, and that the fourth side was open to the city. The hill was thus connected with the city as a temporary out-work, from which the defenders, if overpowered, could make their escape behind the walls. As the number of earts captured by Alexander was only 300, the hill must have been a very small one; for if we allow 100 carts to each line, the innermost line, where they were closely packed, at 10 feet per cart, could not have been more than 1000 feet in length round the three sides at the base. Placing the middle row 50 feet beyond the inner one, its length would have been 1200 feet, and that of the outer row, at the same distance, would have been 1400 feet, or little more than a quarter of a mile. Now this accords so well with the size of the*Mundapapura* hill, that I feel considerable confidence. in the accuracy of my identification. As these earts were afterwards used by Ptolemy to form a single line of barrier outside the lake, we obtain a limit to its size, as 300 carts would not have extended more than 5000 feet, or about 17 feet per cart, if placed end to
 
 [^237]: "See Map No. VIII."
-
-
 
 end; but as there may have been numerous trees on the bank of the lake, the length of the barrier may be extended to about 6000 feet. Now it is remarkable that this is the exact length of this outer line according to my survey, which shows the utmost extent of the lake in the rainy season. I could find no trace of the rampart and ditch with which Alexander surrounded the town, but I was not disappointed, as the rains of two thousand years must have obliterated them long ago.
 
@@ -2129,12 +1619,8 @@ end; but as there may have been numerous trees on the bank of the lake, the leng
 
  Both Curtius and Arrian agree in stating that Alexander had crossed the Hydraotes before he advanced against Sangala, which should therefore be to the east of that river. But the detailed measurements of
 
-
-
 Hwen Thsang are too precise, the statement of the Mahâbhârata is too clear, and the coincidence of name is too exact to be set aside lightly. Now, the accounts of both Arrian and Curtius show that Alexander was in full march for the Ganges when he heard “that certain free Indians and Kathæans were resolved to give him battle if he attempted to lead his army thither." Alexander no sooner heard this than he immediately directed his march against the Kathæans, that is, he changed the previous direction of his march, and proceeded towards Sangala. This was the uniform plan on which he acted during his campaign in Asia, to leave no enemy behind him. When he was in full march for Persia, he turned aside to besiege Tyre; when he was in hot pursuit of Bessus, the murderer of Darius, he turned to the south to subdue Drangiana and Arachosia; and when he was longing toenter India, he deviated from his direct march to besiege Aornos. With the Kathæans the provocation was the same. Like the Tyrians, the Drangians, and the Bazarians of Aornos, they wished to avoid rather than to oppose Alexander; but if
 attackedthey were resolved to resist. Alexander was then on the eastern bank of the Hydraotes, or Râvi, and on the day after his departure from the river he came to the city of*Pimprama*, where he halted to refresh his soldiers, and on the third day reached Sangala. As he was obliged to halt after his first two marches, they must have been forced ones, of not less than 25 miles each, and his last may have been a common march of 12 or 15 miles. Sangala, therefore, must have been abont 60 or 65 miles from the camp on the bank of the Hydraotes. Now this is the exact distance of the Sangala
-
-
 
 hill from Lahor which was most probably the position of Alexander's camp when he heard of the recusancy of the Kathæi. I believe, therefore, that Alexander at once gave up his march to the Ganges, and recrossed the Râvi to punish the people of Sangala for daring to withhold their submission.
 
@@ -2146,13 +1632,9 @@ hill from Lahor which was most probably the position of Alexander's camp when he
 
  The ruins of Asarur consist of an extensive mound 15,600 feet, or nearly 3 miles in circuit. The highest point is in the north-west quarter, where the mound
 
-
-
 rises to 59 feet above the fields. This part, which I take to be the ancient palace, is 600 feet long and 400 feet broad, and quite regular in shape. It contains an old well 21 feet in diameter, which has not been used for many years, and is now dry. The palace is completely surrounded by a line of large mounds about 25 feet in height, and 8100 feet, or 1½ mile in circuit, which was evidently the stronghold or citadel of the place. The mounds are rounded and prominent, like the ruins of large towers or bastions. On the east and south sides of the citadel the mass of ruins sinks to 10 and 15 feet in height, but it is twice the size of the citadel, and is, no doubt, the remains of the old city. I could find no trace of any ancient buildings, as all the surface bricks have been long ago carried off to the neighbouring shrine of Ugar Shah at *Khângâh*Masrur; but amongst the old bricks forming the surrounding wall of the Masjid I found three moulded in different patterns, which could only have belonged tobuildings of some importance. I found also a wedge shaped brick 15 inches long and 3 inches thick, with a breadth of 10 inches at the narrow end, and nearly 10 inches at the broad end. This could only have been made for a stupa, or a well, but most probably for the latter, as the existing well is 21 feet in diameter. *Asarur* is now a small village of only 45 houses.
 
  Hwen Thsang places *Tse-kia* at 14 or 15 *li*, or 2½ miles, to the north-east of *Sâkala*; but as there are no traces of any former town in this position, I think itvery probable that the true numbers should be 114 or 115 *li*, or 19 miles, which is just the distance between Sangala and Asarur by the road, although in a direct
-
-
 
 line it is not more than 16 miles. The circuit of *Tse-kia* was about 20 *li*, or upwards of three miles, which agrees sufficiently well with my measurement of the ruins of Asarur at 15,600 feet, or just three miles. At the time of Hwen Thsang's visit there were ten monasteries, but very few Buddhists, and the mass of the people worshipped the Brahmanical gods. To the north-east of the town at 10 *li*, or nearly 2 miles, there was a stupa of Asoka, 200 feet in height, which marked the spot where Buddha had halted, and which was said to contain a large quantity of his relics. This stupa may, I think, be identified with the little mound of *Sâlâr*, near Thata Syadon, just two miles to the north of Asarur.
 
@@ -2162,13 +1644,9 @@ line it is not more than 16 miles. The circuit of *Tse-kia* was about 20 *li*, o
 
 [^238]: "See Map No. VI."
 
-
-
 position, but also the most precise agreement of name, with the long-sought-for *Nara-Sinha* of the Chinese pilgrim. This identification is the more valuable, as it furnishes the most conclusive evidence that could be desired of the accuracy of Hwen Thsang's emplacement of Sangala to the westward of the Râvi, instead of to the eastward, as indicated by the classical authorities.
 
  The remains of *Ran-si* consist of a large ruined mound, 600 feet in length from north to south, and 500 fect from east to west, with a general height of from 20 to 25 feet. It is thickly covered with broken bricks of large size, and coins are occasionally found by the saltpetre manufacturers. All the old ruined mounds in the Punjab, as Shorkot, Multân, Harapa, etc., abound in saltpetre, which has been derived from man's occupation, and which, therefore, affords a certain proof that the mound of Ransi is not a natural elevation, but an artificial accumulation of rubbish, the result of many centuries. Ransi also possesses a tomb of a *Nao-gaja*, or giant of "nine yards," which I believe to be only the remains of a recumbent statue of Buddha, after his attainment of *Nirvâna*, or death. Similar gigantic statues of bricks and mud are still made in Barma, which, when in ruins, present exactly the same appearance as these *Nao-gaja* tombs. As Buddha was believed to have died with his face to the cast, all the *Nirvâna* statues would, of course, be placed in a direction from north to south; and as Muhammadan tombs in India are placed in the same direction, I believe that the early Musalmans took advantage of these Buddhist statues to form readymade tombs for their leaders who fell in battle. I shall have more to say on this subject hereafter, and I only
-
-
 
 mention it here as another proof of the antiquity of Ransi.
 
@@ -2188,8 +1666,6 @@ mention it here as another proof of the antiquity of Ransi.
 
  6th. *Mundé* is a ruined mound and village on the
 
-
-
 west bank of the *Bâgh-bachha* river, 8 miles to the south of Ransi and Amba.
 
  7th. *Mândehi* is a ruined mound and village to the south-east of Amba and Kapi, from which it is equidistant 3½ miles.
@@ -2204,8 +1680,6 @@ Their sister Kalpi made it up.
 
 As they could give no explanation of the nature of this quarrel, the couplet adds but little to our information regarding the seven brothers and sisters. I may observe, however, that the junction of the two names of *Amba* and *Kapi* is most probably as old as the time of Ptolemy, who places a town named *Amakatis*, or
 
-
-
 *Amakapis*, to the west of Râvi, and in the immediate neighbourhood of *Labokla*, or Lahor[^240].
 
 [^240]: "The identification of Ptolemy's Labokla with Lahor was first made in Kiepert's Map of India, according to Ptolemy, which accompanied Lassen's 'Indische Alterthumskunde.' It has since been confirmed by the researches of Mr. T. H. Thornton, the author of the History and Antiquities of Lahor.'"
@@ -2216,8 +1690,6 @@ As they could give no explanation of the nature of this quarrel, the couplet add
 
  The great city of Lahor, which has been the capital of the Panjab for nearly nine hundred years, is said to have been founded by *Lava*, or *Lo*, the son of Râma, after whom it was named *Lohâwar*. Under this form it is mentioned by Abu Rihân; but the present form
 
-
-
 of the name, *Lâhor*, which was soon adopted by the Muhammadans, has now become universal. Its history has been described by Mr. Thornton in a very full and able account, replete with interesting information. He has identified Lâhor with the *Labokla* of Ptolemy, which I believe to be correct, taking the first two syllables*Labo* to represent the name of *Lava*. But I would alter the termination of *kla* to *lka*, or *laka*, thus making the whole name *Labolaka* for *Lavâlaka*, or the "abode of *Lava*."
 
  Hwen Thsang makes no mention of Lahor, although it is almost certain that he must have passed through it on his way from Ṭâki to Jalandhar. He notes[^241]that he halted for a whole month at a large city on the eastern frontier of Ṭâki; but as this kingdom extended to the Byâs river on the east, the great city on its eastern frontier should be looked for on the line of the Biâs, and not on the Râvi. It was most probably Kasur. The first distinct mention of Lahor occurs in the campaigns of Mahmûd of Ghazni, when the Brâhman kings of the Kabul valley, being driven from Peshawar and Ohind, established their new capital first at *Bhira* on the Jhclam, and afterwards at Lahor. Thus both *Jay Pâl*, and his son *Anand Pâl*, the successive antagonists of Mahmûd, are called Rajas of Lahor by Ferishta. This Hindu dynasty was subverted in A.D. 1031, when Lahor became the residence of a Muhammadan governor under the king of Ghazni[^242].
@@ -2225,8 +1697,6 @@ of the name, *Lâhor*, which was soon adopted by the Muhammadans, has now become
 [^241]: "Julien's 'Hiouen Thsang,' i. 99."
 
 [^242]: "This date is derived from Ferishta; but there are coins of Mahmûd with Arabie and Sanskrit inscriptions, struck at Mahmûdpur in A.H. 1019. Mr. Thomas has identified this city with Lahor. It is found in Abu Riliân, and other Muhammadan historians, under the corrupt form of Mandhukur, the capital of Lahor."
-
-
 
 Upwards of a century later, in A.D. 1152, when Bahrâm was driven from Ghazni by the Afghans of Ghor, his son Kushru established himself at Lahor. Butthis new kingdom lasted for only two generations, until A.D. 1186, when the sovereignty of the Ghaznavis was finally extinguished by the capture and imprisonment of Khusru Malik, the last of his race.
 
@@ -2237,8 +1707,6 @@ Upwards of a century later, in A.D. 1152, when Bahrâm was driven from Ghazni by
 [^238]: "See Map No. VI."
 
 [^244]: "I speak from personal survey and examination; but I can also refer to Lieutenant Barr's 'Kabul and the Panjâb,' p. 409,—"
-
-
 
 tombs and masjids, and other massive buildings; but it could not, I think, have occupied less than one square mile, which would give a circuit of about four miles for the walled town. Several of the tombs are fully a mile distant from the present town; and at least one-half of the intervening space, which is thickly covered with ruins, would appear to have belonged to the ancient city. It seems probable, therefore, that this must be the "great town" on the eastern frontier of *Tâki*, that is, on the Biâs river, at which Hwen Thsang halted for a month on his way from the capital of *Tâki* to *Chinapati*. Unfortunately, he has omitted the usual details, and we have only the one bare fact, that it was situated somewhere on the right bank of the Biâs opposite Lahor, to guide us in determining its position.
 
@@ -2252,8 +1720,6 @@ tombs and masjids, and other massive buildings; but it could not, I think, have 
 
 [^247]: "Ibid., ii. 198."
 
-
-
 distance of the monastery is stated at 500 *li*, or 83 miles, from *Chinapati*. This last distance is quite impossible, as it would place *Chinapati* about 30 miles to the north of *Tâki*, instead of 83 miles to the east of it, as specified by the pilgrim in his journal. On the other hand, the shorter distance of eight miles would place it in the midst of the sandy bed of the Biâs river, where no town has ever existed. I would, therefore, propose to read 150 li, or 25 miles, which would fix *Chinapati* at the town of *Patti*, in the very position that has already been determined by the bearing and distance from *Tâki*.
 
 * Patti* is a large brick town of considerable antiquity. According to Burnes[^248],it was built in the reign of Akbar; but he is undoubtedly wrong, as the town was already the head of a *Parganah* in the time of Humâyun, who assigned it to his servantJaohar[^249]. It is called Patti-Haibatpur by Abul Fazl[^250], and it is still known as Haibatpur-Patti. According to the people, the town received its Muhammadan name from Haibat Khân, whose date is not known, but I think it probable that he may be identified with Haibat Khân Shirwâni, who was a leading noble in the time of Sikandar Ludi, and who commanded the army of the Afghan king against Humâyun on his return from Persia. The antiquity of *Patti* is proved by the numbers of burnt bricks and old wells which are found about the town. The old dry wells were noted more than three hundred years ago by Jaohar[^251], the attendant of the Emperor Humâyun; and the pro-
@@ -2266,8 +1732,6 @@ distance of the monastery is stated at 500 *li*, or 83 miles, from *Chinapati*. 
 
 [^251]: "Memoirs of Humâyun,' p. 113."
 
-
-
 fusion of bricks struck Burnes[^252],who remarks that "the houses are constructed of bricks, and the streets are even laid with them. Some workmen digging a well in this neighbourhood lately hit upon a formerwell on which was a Hindu inscription. It set forth that it had been built by one *Agurtuta*, of whom tradition gives no account." I visited the place in 1838, only a few years after Burnes, but I failed to recover the inscription.
 
 [^252]: "'Panjab and Bokhara,' ii. 9."
@@ -2278,21 +1742,15 @@ fusion of bricks struck Burnes[^252],who remarks that "the houses are constructe
 
  According to Hwen Thsang, the district of *Chinapata* was about 2000 *li*, or 333 miles, in circuit. With these dimensions, it must have comprised the whole of the upper Bâri Doâb, between the Biâs and the Râvi, from the foot of the hills to the old junction of the Biâs and Satlej, near Firuzpur. The name of *Chi-na-po-ti*, or *Chinapati*, is referred to the time of the great Indo-Scythian king Kanishka, who fixed this place as the residence of his Chinese hostages. The pilgrim adds, that previous to their residence, India had possessed neither pears nor peaches, both of which were introduced by the Chinese hostages. The pears were
 
-
-
 called *Chi-na-ni*, or *Chinâni*, that is, "brought from China," and the peaches *Chi-na-lo-she-fo-ta-lo*, or *China-râja-putra*, that is, the "China King's sons."This is not quite correct, as both pears and peaches are found growing wild in the neighbouring hills. But there are now two kinds of cultivated peaches, the one round and juicy, the other flat and sweet. The first, which is called *ârû* in Hindi, and *Shaftâlû* in Persian, is certainly indigenons; but the other, which is called*Chini*-*shaftâlû*, is most probably that which Hwen Thsang refers to as having been introduced from China.
 
 **3. SHORKOT.**
 
  Hwen Thsang calls the central district of the Panjâb*Po-fa-to*, or *Po-la-fa-to*, for which M. Stanislas Julien proposes to read *Parvata*. But to this it But to this it may be objected that *parvata*, which means a "hill," could not be, and in fact never is, applied as a name to any place in the plains. The capital was situated at 700 *li*, or 117 miles, to the north-east of Multân, a position which agrees almost exactly with the site of*Jhang*, on the Chenâb. But as this place lies at some distance above the junction of the Jhelam and Chenâb, it is most probable that it belonged to the northern division of *Ṭâki*. In this case the distanee recorded by Hwen Thsang would be too great, which might be due to his overlooking the shortness of the kos in this part of the country, as I have already explained inmy account of Singhapura. This *kos* is only 1 mile and 2_(![](../books_images/U-IMG-1700642119Screenshot2023-11-22082255.png))furlongs, or just 21/32of the common *kos*. At this valuation Hwen Thsang's distance would be only 76 miles, which is within a few miles of the position of
 
-
-
 *Shorkot*, or *Shûr*, as it is called in the 'Ayin Akbari.' Now the initial syllable *po* of the Chinese name is frequently interchanged with the syllable so, of which we have a notable instance in *Po-lo-tu-lo* for *So-lo-tu-lo*, or*Salâtura*, the well-known birthplace of the famous grammarian Pânini. It is quite possible, therefore, that the same interchange may have occurred in the name of *Po-lo-fa-to*, for *So-lo-fa-to*, or *Soravati*, which would be a synonym for *Shorkot*. This is a mere suggestion to account for the Chinese name of the capital, which does not affect the identification of the province, as it is quite certain, from its position to the north-east of Multân, that it must correspond with the parganah,or district of Shorkot.The people I take to be the*Sudrake*, or *Oxudrakæ* of the classical writers, a point which will be fully examined in my account of Ajudhan.
 
  The province is described by Hwen Thsang as being 5000 *li*, or 833 miles, in circuit, which must be greatly exaggerated. On the cast the boundary was limited by the Satlej, which for 100 miles formed the frontier line of the kingdom of Gurjjara; on the north it was bounded by the province of *Ṭâki* for a distance of 200 miles from the Indus to the old junction of the Byâs and Satlej, near Firuzpur; on the south it was bounded by Multân for a distance of 150 miles from the Indus, near Dera *Din-panâl*, to the Satlej, below*Pâkpatan*; on the west it was bounded by the Indus itself for about 50 miles. The total length of frontier is therefore not more than 520 miles, which is con- siderably less than the circuit recorded by Hwen Thsang. The discrepancy may perhaps be explained, as before, by the use of the short *kos*, which would
-
-
 
 reduce the circuit of 833 miles to 531, which agrees very closely with the actual measurements.
 
@@ -2308,7 +1766,6 @@ reduce the circuit of 833 miles to 531, which agrees very closely with the actua
 | DoâbJâlandhar Pith | 6. Depâlpur.    |
 |                     | 7. Ajudhan.     |
 
-
 *Shorkot.*
 
  Shorkot is a huge mound of ruins, which gives its name to the *parganah*, or division of *Shor*, or the lower half of the Richna Doâb[^238].It was visited byBurnes[^255],who describes the place as "a mound of earth, surrounded by a brick wall, and so high as to be seen for a circuit of six or eight miles." He adds that it is much larger than Sehwân, which, following the measurement of De la Hoste, is 1200 feet long, by 750 feet broad[^256]. According to my information, Shorkot is much smaller than Harapa, and about the size of Akbar, that is, 2000 feet by 1000 feet, but loftier than either of them. The mound is surrounded by a wall of large-sized bricks, which is an undoubted signof antiquity. Burnes was informed by the people that their town had been destroyed by some king from the westward, about 1300 years ago. The locality leads
@@ -2318,8 +1775,6 @@ reduce the circuit of 833 miles to 531, which agrees very closely with the actua
 [^255]: "'Bokhara and Panjâb,' i. 113."
 
 [^256]: " 'Journ. Asiat. Soc., Bengal, 1840, p. 913."
-
-
 
 him to fix on it as the place where Alexander was wounded, and to assign its downfall to Alexander himself. I received the same tradition about its destruction, which I would attribute to the White Huns, who must have entered the Panjâb from the westward during the sixth century, or about the very time specified in the tradition.
 
@@ -2331,13 +1786,9 @@ him to fix on it as the place where Alexander was wounded, and to assign its dow
 
 [^259]: "'Anabasis,' vi. 7."
 
-
-
 infer that this city was *Kot Kamâlia*, and I would explain the discrepancy in the two narratives by a reference to the details of this campaign which are given by Arrian. Alexander divided his army into three great bodies, of which the advanced division, commanded by Hephæstion, marched five days ahead; the centre was commanded by himself, and the rear division, which was commanded by Ptolemy, followed three days behind. As the campaign was directed against the Malli, I conclude that the army marched by the direct route, *viâ* Shorkot towards Multân, which was certainly the capital of the Malli. . Shorkot would thus have fallen to Hephæstion, who commanded the advanced division of the army. Alexander's ownroute will be described presently, when I come to speak of Kot Kamâlia.
 
  The antiquity of Shorkot may be ascertained approximately by the coins which are found in its ruins. These consist chiefly of Indo-Scythian copper pieces of all ages, with a few Hindu specimens, and a large number of Muhammadan coins. A single copper piece of Apollodotus was obtained by Burnes. From these data I would infer that the town was certainly occupied as carly as the time of the Greek kings of Ariana and the Panjâb, and that it was in a flourishing state during the sway of the Indo-Scythians, or from B.C. 126 down to A.D. 250, or perhaps later. But as the Hindu coins which I obtained from Shorkot were entirely confined to the Brahman kings of the Kabul valley and the Panjâb, I conclude that the place was either deserted, or, at least, in a very decayed state, during the middle ages; and that it was either re-occupied or restored in the tenth century by one of these Brahman kings.
-
-
 
 *Kot Kamâlia*.
 
@@ -2349,15 +1800,11 @@ infer that this city was *Kot Kamâlia*, and I would explain the discrepancy in 
 
 [^259]: "'Anabasis,' vi. 7."
 
-
-
 city, whither many of the Malii had fled for refuge, and this was about 400 stadia distant from the Akesincs." The small rivulet here mentioned I believe to be the lower course of the *Ayek* river, which rises in the outer range of hills, and flows past Syâlkot towards Sangala, below which the bed is still traceable for some distance. It appears again 18 miles to the east of *Jhang*, and is finally lost about 12 miles to the east of Shorkot[^139].Now somewhere between these two points Alexander must have crossed the *Ayek*, as the desert country, which he afterwards traversed, lies immediately beyond it. If he had marched to the south he would have arrived at Shorkot, but he would not have encountered any desert, as his route would have been over the *Khâdar*, or low-lying lands in the valley of the Chenâb. A march of 46 miles in a southerly direction would have carried him also right up to the bank of the Hydraotes, or Râvi, a point which Alexander only reached, according to Arrian's narrative, after another night's march[^259].As this march lasted from the first watch of the night until daylight, it cannot have been less than 18 or 20 miles, which agrees exactly with the distance of the Râvi opposite Tulamba from Kot Kamâlia. The direction of Alexander's march must, therefore, have been to the south-east; first to the *Ayek* river, where he halted to refresh his soldiers, and to fill their water vessels, and thence across the hard clayey and waterless tract called*Sandar-bâr*, that is, the *bâr*, a desert of the *Sandar*, or*Chandra* river. Thus the position of the rivulet, the description of the desolate country, and the distance of the city from the confluence of the rivers, all agree in
 
 [^139]: "See Maps Nos. V. and VI."
 
 [^259]: "'Anabasis,' vi. 7."
-
-
 
 fixing the site of the fortress assaulted by Alexander with *Kot Kamâlia*.
 
@@ -2375,15 +1822,11 @@ fixing the site of the fortress assaulted by Alexander with *Kot Kamâlia*.
 
 [^266]: "'Bokhara,' i. 117."
 
-
-
 three miles in circumference, which is one-half too much, as the actual ruined mound forms an irregular square of only half a mile on each side, or two miles in circuit. But this comprises only the remains of the walled town, to which we may fairly add the suburbs, or fields now covered with broken bricks and other remains, which would bring the size of the old town quite up to Burnes's estimate. Masson[^267]notiees a tradition that Harapa once extended on the west as far as Chichawatni, a distance of 12 miles, which serves, at least, to show the belief of the people as to the former size and importance of their town.
 
 [^267]: " 'Travels,' i. 453, and Journ. Asiat. Soc. Bengal, vi. 57."
 
  The great mass of ruins is on the western side, where the mound rises to 60 feet in height in the centre. At this point there are several massive walls built of large bricks, which are, no doubt, the remainsof some extensive building. The other portions of the mound vary from 30 to 50 feet in height, the mass being formed almost entirely of broken bricks. Tradition assigns its foundation to Raja Harapa, of unknown date, and its destruction to the same western king, of the sixth century, who overthrew Shorkot, and whom I believe to have been the leader of the White Huns. The crimes of its ruler, who claimed the husband's privilege on every marriage, are said to have drawn down the vengeance of Heaven, and Harapa remained uninhabited for several centuries. As the coins that are found in its ruins are similar to those discovered at Shorkot, I think that the two places must have experienced the same fortunes; I would, therefore, assign its downfall to the Arabs, who overran the whole of the lower Panjâb imme-
-
-
 
 diately after the capture and occupation of Multân in A.D. 713.
 
@@ -2395,15 +1838,11 @@ diately after the capture and occupation of Multân in A.D. 713.
 
 * Satgarha* is situated 13 miles to the east of Gugera, on one of the projecting points of the high bank which marks the limit of the windings of the Râvi on the east. The name means the "seven castles," but these no longer exist. There is an old brick fort on a mound, and several isolated mounds, covered with broken bricks and other remains, which mark the site of an ancient city. Old coins are found in considerable numbers, from the time of the Indo-Scythians downwards. It has, therefore, most probably been con-
 
-
-
 tinuously occupied from the beginning of the Christian era down to the present time.
 
 *Depâlpur*.
 
  During the rule of the Pathân emperors of Delhi, Depâlpur was the capital of the northern Panjâb. It was a favourite residence of Firuz Shah, who erected a large masjid outside the city, and drew a canal from the Satlej for the irrigation of its lands. At the time of Timur's invasion it was second only to Multân in size and importance, and was popularly said to possess 84 towers, 84 masjids, and 84 wells. At present it is very nearly deserted, there being only one inhabited street running between the two gates. In shape it is a square of nearly 1600 feet, with a projection 500 feet square at the south-east quarter. To the south-west there is a high ruined mound, which is said to be the remains of a citadel. It was connected with the town by a bridge of three arches, which is still standing; and from its high and commanding position I conclude that it must have been the citadel. To the south and east there are also long mounds of ruins, which are, no doubt, the remains of the suburbs. The actual ruins of Depâlpur, including the citadel and suburbs, occupy a space three-quarters of a mile in length by half a mile in breadth or 2½ miles in circuit. But in its flour: hing days it must have been much larger, as the fields to the east are strewn with bricks right up to the banks of the canal, near which Firuz Shah's masjid was situated. This extension of the city beyond the walls may also be inferred from the fact that the people of Depâlpur, on Timur's invasion, sought refuge in
-
-
 
 Bhatner, which they would not have done if their own city had been defensible.
 
@@ -2413,15 +1852,11 @@ Bhatner, which they would not have done if their own city had been defensible.
 
  The ancient town of Ajudhan is situated on the high bank of the old Satlej, 28 miles to the south-west of Depâlpur, and 10 miles from the present course of the river. Its foundation is assigned to a Hindu saint, or raja, of the same name, of whom nothing else is recorded. This part of the Doâb is still known as *Surât-des*, a name which recalls the *Surakousæ* of Diodorus, and the *Sudrakæ* and *Oxudrakæ* of other Greek writers. Now, the *Sudrakæ* are always coupled with the *Malli*by classical authors, just as Ajndhan and Multân are joined together by the Muhammadan historians. I think, therefore, that we may look upon Ajudhan and its neighbour Depâlpur as two of the chief cities of the *Sudrakas*, or *Surakas*, who, in the time of Alexander, were one of the free nations of India. Dionysius and Nonnus use the form of *Hudarkæ*, Pliny has *Sydracæ*, which agrees with Strabo's*Sudrakæ*; and Diodorus has *Surakousæ*. Arrian and Curtius alone give *Oxudrakæ*. Strabo adds that they were said
 
-
-
 to be descendants of Bacchus[^268]:and as Chares of Mytilene states that the name of the Indian god![](../books_images/U-IMG-1697898232Screenshot2023-10-21195249.png)meant ![](../books_images/U-IMG-1697898259Screenshot2023-10-21195313.png), or the "Wine-bibber,'I infer that the people who boasted a descent from Bacchus may have called themselves *Surâkas*, or Bacchidæ. The *d* in *Sudrakæ* I look upon as a redundant addition of the Greeks, which is also found in the *Adraistæ* of Arrian and the *Andrestæ* of Diodorus. The Sanskrit name of this people was *Arâshtraka*, or "the Kingless," which is well preserved in Justin's *Arestæ*. Surakai, or the descendants of *Sura*, must therefore be the true Greek form. This is confirmed by the longer form of the name given by Diodorus as _(![](../books_images/U-IMG-1697898379Screenshot2023-10-21195548.png)), which is most probably derived from the Sanskrit *surâ*, "wine," and *kuṣa*, "mad, or inebriated." It would thus mean simply the "drunkards," a nickname which was no doubt given by their Arian neighbours, who were very liberal intheir abuse of the Turanian population of the Panjâb. Thus the Kathæi of Sangala are stigmatized in the Mahâbhârata as "thieving *Bâhikas*," as well as "winebibbers" and "beef eaters[^269]." They are also called by a variety of names, as *Madra*, *Bâhika*, *Araṭṭa*, and*Jârttikka*, and not even once by their own proper name, which, as we know from Alexander's historians, was *Kathæi*, which is still preserved in the *Kathi* of the present day. I confess, therefore, that I look upon many of the ethnic appellations which the Greeks have handed down to us as mere nicknames, or abusive epithets applied by the Brahmanical Arians to their Turanian neighbours. For instance, the name of
 
 [^268]: "Geogr., xiv. 1, 8, and 33."
 
 [^269]: "Stenâ-Bâhikâ dhânâgauḍasavain-pîtwa gomânsam."
-
-
 
 *Kambistholi*, which Arrian[^270]gives to a people on the Hydraotes, or Râvi, is most probably derived from the Sanskrit *Kapiṣasthala*, that is, "Wine-land, or the Tavern," which would be a natural epithet for the country of the *Surâkuṣas*, or "wine-bibbers." Similarly I would explain *Oxudrakæ* as *Asuraka*, or the "Demons."
 
@@ -2437,8 +1872,6 @@ to be descendants of Bacchus[^268]:and as Chares of Mytilene states that the nam
 
 [^273]: "'Anabasis,' v. 22."
 
-
-
  Pliny places the limit of Alexander's career in the territory of the Sudrakas, "in Sudracis expeditio Alexandri termino[^274],"and the altars on the opposite bank of the Hyphasis, or Biâs river. From this point to the river *Sydrus*, that is the *Hesidrus*, or Satlej, he makes the distance 168 Roman, or 154 British miles; and from the *Sydrus* to the *Jomanes*, or Jumna, exactly the same. But as the whole distance from the Biâs to the Jumna varies from 150 to 160 miles, from the foot of the hills down to Kasûr on the former river, and down to Karnâl on the latter river, I presume that only one distance, namely, that from the Biâs to the Jumna, was stated in Pliny's original authority. The famous spot on the eastern bank of the Hyphasis, where "Alexander halted and wept[^275]," must have been somewhere in the low ground between the Satlej and the Biâs, at a short distance above the old junction opposite Kasûr and Bazidpur. For 20 miles above this point the courses of the two rivers ran almost parallel, and within a few miles of each other, from the earliest times down to A.D. 1796, when the Satlej suddenly changed its course, and joined the Biâs above *Hari-ki-patan*. Within this range of 20 miles the space between the two rivers was so small that it might easily have been overlooked in stating the distance from Alexander's camp to the Jumna. I believe, however, thatit was actually noted by Alexander's contemporaries, for Pliny, after stating the distance to the Jumna, says, some copies add five miles more[^276]."
 
 [^274]: "Hist. Nat., xii. 12."
@@ -2447,13 +1880,9 @@ to be descendants of Bacchus[^268]:and as Chares of Mytilene states that the nam
 
 [^276]: "Hist. Nat., vi. 21.: "
 
-
-
 Now these five Roman miles are the exact distance of the old bed of the Satlej from the eastern bank of the Biâs, a measurement which some of the ancient writers may have omitted to note as a matter of little importance. On a general review of all the data, I think that the site of Alexander's altars must belooked for along the line of the present course of the Satlej, at a few miles below *Hari-ki-patan*, and not far from the well-known field of Sobraon, which is barely five miles distant from several bends of the old bed of the Satlej. To this point, therefore, the territory of the *Sudrakæ*, or *Suâkas*, must have extended in the time of Alexander.
 
  For many centuries Ajudhan was the principal ferry on the Satlej. Here met the two great western roads from Dera Ghazi Khan and Dera Ismaïl Khan; the first viâ Mânkera, Shorkot, and Harapa; the second viâ Multân. At this point the great conquerors Mahmud and Timur, and the great traveller Ibn Batuta, crossed the Satlej.The fort is said to have been captured by Sabuktugin in A.H. 367, or A.D. 977-78, during his plundering expedition in the Panjâb; and again by Ibrâhim Ghaznavi, in A.H. 472, or A.D. 1079-80. On the invasion of Timur, the mass of the population fled to Bhatner, and the few people that remained were spared by that ruthless barbarian out of respect for the famous saint Farid-ud-din Shakar-ganj, whose shrine is in Ajudhan. From this saint the place derives its modern name of *Pâk-pattan*, or the "Ferry of the Pure One,"that is, of Farid, whose latter days were spent at Ajudhan. By continued fasting his body is said to have become so pure that whatever he put into his mouth to allay the cravings of hunger, even carth
-
-
 
 and stones, was immediately turned into sugar, whence his name of *Shakar-ganj*, or "Sugar-store." This miraculous power is recorded in a well-known Persian couplet :—
 
@@ -2471,23 +1900,17 @@ From another memorial couplet we learn that he died in A.H. 664, or A.D. 1265-66
 
  The southern province of the Panjâb is Multân. According to Hwen Thsang it was 4000 *li*, or 667 miles, in circuit, which is so much greater than the tract actually included between the rivers, that it is almost certain the frontier must have extended beyond them. In the time of Akbar no less than seventeendistricts, or separate *parganahs*, were attached to the province of Multân, of which all those that I can identify, namely, *Uch*, *Dirâwal*, *Moj*, and *Marot*, are to the east of the Satlej. These names are sufficient to show that the eastern frontier of Multân formerly extended beyond the old bed of the Ghagar river, to
 
-
-
 the verge of the Bikaner desert. This tract, which now forms the territory of Bahawalpur, is most effectually separated from the richer provinces on the east by the natural barrier of the Great Desert. Under
 strong government it has always formed a portion of Multân; and it was only on the decay of the Muhammadan empire of Delhi that it was made into a separatepetty state by Bahâwal Khân.I infer, therefore, that in the seventh century the province of Multân must have included the northern half of the present territory of Bahawalpur, in addition to the tract lying between the rivers. The northern frontier has already been defined as extending from *Dera Din-panâh*, on the Indus, to *Pâk-pattan* on the Satlej, a distance of 150 miles. On the west the frontier line of the Indus, down to Khânpur, is 160 miles. On the east, the line from Pâk-pattan to the old bed of the Ghagar river, is 80 miles; and on the south, from Khânpur to the Ghagar, the distance is
 220 miles. Altogether,this frontier line is 610 miles. If Hwen Thisung's estimate was based on the short kos of the Panjâb, the circuit will be only 21/32 of 667 miles, or 437 miles, in which case the province could not have extended. beyond Mithankot on the south.
 
  In describing the geography of Multân it is necessary to bear in mind the great changes that have taken place in the courses of all the large rivers that flow through the province. In the time of Timur and Akbar the junction of the Chenâb and Indus took place opposite *Uchh*, 60 miles above the present confluence at Mithankot. It was unchanged when Rennell wrote his 'Geography of India,' in A.D. 1788, and still later, in 1796, when visited by Wilford's surveyor,
 
-
-
 Mirza Mogal Beg. But early in the present century the Indus gradually changed its course, and leaving the old channel at 20 miles above *Uchh*, continued its course to the south-south-west, until it rejoined the old channel at Mithankot.
 
  The present junction of the Râvi and Chenâb takes place near *Diwâna Sanand*, more than 30 miles above Multân; but in the time of Alexander the confluenceof the Hydraotes and Akesines was at a short distance below the capital of the Malli, which I have identified with Multân. The old channel still exists, and isduly entered in the large maps of the Multân division. It leaves the present bed at Sarai Siddhû, and follows a winding course for 30 miles to the south-south-west, when itsuddenly turns to the west for 18 miles, as far as Multân, and, after completely encircling the fortress, continues its westerly course for 5 miles below Multân. It then suddenly turns to the south-south- west for 10 miles, and is finally lost in the low-lying lands of the bed of the Chenâb. Even to this day the Râvi clings to its ancient channel, and at all high floods the waters of the river still find their way to Multân by the old bed, as I myself have witnessed on two different occasious. The date of the change is unknown; but it was certainly subsequent to the capture of Multân by Muhammed bin Kâsim in A.D. 713; and from the very numerous existing remains of canals drawn from the old channel, I infer that the main river must have continued to flow down it within a comparatively recent period, perhaps even as late as the time of Timur. The change, however, must have taken place before the reign of Akbar, as Abul Fazl[^277]
 
-
 [^277]: "'Ayin Akbari,' ii. 3."
-
 
 describes the distance from the confluence of the Chenâb and Jhelam to that of the Chenâb and Râvi as 27 kos, and the distance of the latter from the confluence of the Chenâb and Indus as 60 kos, both of which measurements agree with the later state of these rivers.
 
@@ -2497,13 +1920,9 @@ describes the distance from the confluence of the Chenâb and Jhelam to that of 
 
 [^279]: "‘Ayin Akbari,' ii. 108."
 
-
-
 the *Sûk-Nai*, all dry beds of the Biâs river to the south of Harapa. The *Dand* is probably the *Dhamak*, or *Dank*, an old channel of the Satlej, which in its lower course takes the name of Bhatiyâri, and passing by Mailsi, Kahror, and Lodhran, joins the present channel just above its confluence with the Chenâb. In most of our maps the Old Biâs is conducted into the lower course of the Bhatiyâri, whereas its still existing and well-defined channel joins the Chenâb 20 miles below Shujâhabad, and its most southerly point is 10 miles distant from the nearest bend of the Bhatiyâri.
 
  The changes just described are only the most prominent fluctuations of the Panjâb rivers, which are constantly shifting their channels. The change in the Biâs is the most striking, as that river has altogether lost its independent course, and is now a mere tributary of the Satlej. But the fluctuations of the other rivers have been very remarkable. Thus, the valley of the Chenâb below Kalowal is nearly 30 miles broad, and that of the Râvi, near Gugera,is 20 miles, the extreme limits of both rivers being marked by well-defined high banks, on which are situated many of the most ancient cities of the Panjâb. In the Multân division these old sites are very numerous, but they are now mostly deserted and nameless, and were probably abandoned by their inhabitants as the rivers receded from them. This was certainly the case with the old town of Tulamba, which is said to have been deserted so late as 150 years ago, in consequence of a change in the course of the Râvi, by which the water supply of the town was entirely cut off. The same cause, but at a much earlier date, led to the
-
-
 
 desertion of Atâri, a ruined town 20 miles to the west-south-west of Tulamba, which was supplied by a canal from the old bed of the Râvi. The only places which I think it necessary to notice in the present account are the following:—
 
@@ -2525,13 +1944,9 @@ Four of these places are celebrated in the history of India, and the second, nam
 
 [^281]: "Briggs's 'Ferishta,' i. 487."
 
-
-
 a lofty fortress 1000 feet square. The outer rampart is of earth, 200 feet thick, and 20 feet high on the outer face, or *faussebraic*, with a second rampart of the same height on the top of it. Both of these were originally faced with large bricks, 12 by 8 by 2½ inches. Inside the rampart there is a clear space, or ditch, 100 feet in breadth, surrounding an inner fort 400 feet square, with walls 40 feet in height, and in the middle of this there is a square tower or castle, 70 feet in height, which commands the whole place. The numerous fragments of bricks lying about, and the still existing marks of the courses of bricks in many places on the outer faces of the ramparts, confirm the statements of the people that the walls were formerly faced with brick. I have already mentioned that this old fort is said to have been abandoned by the inhabitants about 300 years ago, in consequence of the change in the course of the Râvi, which entirely cut off their supply of water. The removal is attributed to Shujâwal Kḥan, who was the son-in-law and minister of Mahmud Langa of Multân, and the brother-in-law of his successor, from about A.D. 1510 to A.D. 1525.
 
  The autiquity of Tulamba is vouched for by tradition, and by the large size of the bricks, which aresimilar to the oldest in the walls and ruins of Multân. The old *town* was plundered and burnt by Timur, and its inhabitants massacred; but the fortress escaped his fury, partly owing to its own strength and partly to the invader's impatience to continue his march towards Delhi. There is a tradition that Tulamba was taken by Mahmud of Ghazni, which is very probably true, as it would have been only a few miles out of his
-
-
 
 direct route to Multân. For the same reason I am led to believe that it must have been one of the cities captured by Alexander. Masson[^280] has already suggested that it represents "the capital of the Malli," or perhaps "the fort held by Brahmans, whose defence was so obstinate and so fatal to themselves, and which was evidently contiguons to the capital of the Malli." But as I do not agree with either of these suggestions, I will now examine and compare the different accounts of this part of Alexander's route.
 
@@ -2539,16 +1954,11 @@ direct route to Multân. For the same reason I am led to believe that it must ha
 
  In my account of Kot Kamâlia I adduced some strong reasons for identifying that place with the first city captured by Alexander on his march from the junction of the Hydaspes and Akesines against the Malli. Arrian then relates that "Alexander, having allowed. his soldiers some time for refreshment and rest, about the first watch of the night set forward, and marching hard all that night came to the river Hydraotes about daylight, and understanding that some parties of the Malii were just passing the river, he immediately attacked them and slew many, and having passed the river himself with his forces in pursuit of those who had gained the further side, he killed vast numbers of them and took many prisoners. However, some of them escaped, and betook themselves to a certain town well fortified both by art and nature." A whole night's march of eight or nine hours could not have been less than twenty-five miles, which is the exact distance of the Râvi opposite Tulamba from Kot Kamalia. Here then I infer that Alexander must have crossed the Râvi; and I would identify Tulamba itself with the "town well fortified both by art and  
 
-
-
-
 nature," the art being the brick walls, and the nature, the enormous mounds of earthen ramparts. The account of Curtius[^283]agrees with that of Arrian, "on the bank of a river another nation mustering forty thousand infantry opposed him. Crossing the river heput them to flight, and stormed the fort in which they took refuge." Diodorus relates the same story of a people named Agalassæ, who opposed Alexander withforty thousand infantry and three thousand cavalry. which was a strong fort near the left bank of the Râvi. This description would apply also to Harapa; but I have already shown that Harapa was most probably the city against which Perdikkas was detached; besides which it is not more than 16 miles distant from Kot Kamalia. Tulamba, on the contrary, fulfils all theconditions; and is also on the high-road to Multân, the capital of the Malli, against which Alexander was then proceeding.
 
 [^283]: "Vita Alex., ix. 4, 10. The text has in ripâ fluminum, which is an obvious mistake for fluminis, as is proved by the use of amne immediately following."
 
  The name of *Agalassæ* or *Agalessensæ* is puzzling. According to Arrian the people of the town were the Malii, but it may be remarked that neither the Oxudrakæ nor the Malli are mentioned by Diodorus and Curtius until later. Justin couples a people called*Gesteani* with the Arestæ or Kathæi, who should therefore be the same as the Malli or Oxudrakæ, but they are not mentioned by any other author. *Agala*or *Agalassa* might be the name of the town itself, but unfortunately it has no similarity with Tulamba, or with any other place in the neighbourhood.
-
-
 
 *Atâri.*
 
@@ -2564,13 +1974,9 @@ nature," the art being the brick walls, and the nature, the enormous mounds of e
 
   All these accounts agree very well with the position and size of the old ruined town and fort of Atâri, which is situated 20 miles to the west-south-west of Tulamba, and on the high-road to Multân. The remains consist of a strong citadel 750 feet square and 35 feet high, with a ditch all round it, and a tower in the centre 50 feet high. On two sides are the remains of the town forming a mound 20 feet high, and 1200 feet square, the whole being a mass of ruin 1800 feet inlength, and 1200 feet in breadth. Of its history there is not even a tradition, but the large size of the bricks
 
-
-
 is sufficient to show that it must be a place of considerable antiquity. The name of the old city is quite unknown. *Atâri* is simply that of the adjacent village, which is of recent origin, having been established by a member of the Atâriwâla family of Sikhs. But judging from its size and strength, and its very favourable position between Tulamba and Multân, I think that the ruined mound of Atâri has a very good claim to be identified with the strong city of the Brahmans which made so stout a defence against Alexander.
 
  Curtius adds some particulars about this city, which are not even alluded to by either Arrian or Diodorus;but they are still deserving of consideration, as they may perhaps be founded on the statements of one of the companions. He states that Alexander "went completely round the citadel in a boat," which is probable enough, as its ditch was no doubt capable of being filled at pleasure with water from the Râvi, as was actually the case with the ditch of Multân. Now the old citadel of Atâri is still surrounded by a ditch which could easily have been filled from some oue of the old canals that pass close by the place. The number of these canal beds is most remarkable;I counted no less than twelve of them in close parallel lines immediately to the west of Atâri, all of them drawn from the old bed of the Râvi to the south of Sarai Siddhu. I am therefore quite prepared to admit the probability that the city of the Brahmans was surrounded by a wet ditch on which Alexander embarked to inspect the fortifications. But when Curtius adds that the three greatest rivers in India, except the Ganges, namely the Indus, the Hydaspes, and the Akesines, joined their waters to
-
-
 
 form a ditch round the castle,^(**\***)I can only suppose either that the passage has been accidentally transferred from the account of some later siege of a city situated below the confluence of the Five Rivers, or that the author has mixed up into one account two and perfectly distinct statements concerning the ditches of the fort and the confluence of the rivers. Diodorus alsodescribes the junction of the rivers, but as he makes no allusion to their waters forming a ditch about the fort, it is quite possible that this account of three rivers may be due to the inflated imagination of Curtius.
 
@@ -2582,8 +1988,6 @@ form a ditch round the castle,^(**\***)I can only suppose either that the passag
  **\*** Vita Alex., ix. 4. 'Ipse navigio circumvectus est arcem; quippetria flumina, totâ Indiâ præter Gangen maxima, munimento arcis applicant undas. A septentrione Indus alluit; a meridie Acesines Hydaspi confunditur."  
  ^(**+**)Burnes, Travels in the Punjab, Bokhara,' etc. i. 97, erroneously attributes the inundation of the country around Multân to the "Chenab and its canals." If he had travelled by land instead of by the river, he would have seen that the inundation is due to the flood waters of the Râvi resuming their ancient course from Sarai Siddhu direct upon Multân. I travelled over this line in the end of August, 1856, and saw the old bed of the Râvi in full flood.
 
-
-
 than 8 or 10 feet high above the general level of the country. The present height varies from 45 to 50 feet, the difference of 35 to 40 feet being simply theaccumulation of rubbish during the lapse of many centuries. This fact I ascertained personally by sinking several wells down to the level of the natural soil, that is, of soil unmixed with bricks, ashes, and other evidences of man's occupation.
 
  The citadel may be described as an irregular semi-circle, with a diameter, or straight side of 2500 feet facing the north-west, and a curved front of 4100 feet towards the city, making a circuit of 6600 feet, or just one mile aud a quarter. It had 46 towers or bastions, including the two flanking towers at each of the four gates. The walled city, which envelopes the citadel for more than two-thirds of the curve, is 4200 feet iu length, and 2400 feet in breadth, with the long straight side facing the south-west. Altogether the walled circuit of Multâu, including both city and citadel, is 15,000 feet, or very nearly 3 miles, and the whole circuit of the place, including its suburbs, is 41 miles. This last measurement agrees very nearly with the estimate of Hwen Thsang, who makes the circuit of Multân 30 *li*, or just 5 miles[^288].It agrees even more exactly with the estimate of Elphinstone, who, with his usual accuracy, describes Multân as "above four miles and a half in circumference[^289]." The fortress had no ditch when seen by Elphinstone and Burnes, as it was originally surrounded by the waters of the Râvi. But shortly after Burnes's visit, a ditch was added by Sâwan Mall, the energetic governor of Ranjit Singh. The walls are said to have been built by Murâd Baksh,
@@ -2592,16 +1996,11 @@ than 8 or 10 feet high above the general level of the country. The present heigh
 
 [^289]: "'Kabul,' i. 27."
 
-
-
 the youngest son of Shah Jahân; but when I dismantled the defences of Multân in 1854, I found that the walls were generally double, the outer wall being about 4 feet thick, and the inner wall 3½feet to 4 feet[^290].I conclude, therefore, that only the outer wall, or facing, was the work of Murâd Baksh. The whole was built of burnt bricks and mud, excepting the outer courses, which were laid in lime-mortar to a depth of 9 inches.
 
 [^290]: " It may be interesting to note that on dismantling the wall near the Sikhi Darwâza, or "
 
  Multân is known by several different names, but all of them refer either to Vishnu or to the Sun, the latter being the great object of worship in the famous temple that once crowned the citadel. Abu Rihân mentions the names of *Kasyapa-pura*, *Hansapura*,*Bhâgapura*, and *Ṣambapura*, to which I may add,*Prahlâdapura* and *Âdyasthâna*. According to the traditions of the people, *Kasyapa-pura* was founded by*Kasyapa*, who was the father of the twelve *Adityas*, or Sun-gods, by *Aditi*, and of the *Daityas*, or Titans, by *Dili*. He was succeeded by his eldest son, the *Daitya*, named *Hiranya-Kasipu*, who is famous throughout India for his denial of the omnipresence of Vishnu, which led to the manifestation of the *Narasinha*, or "Man lion" *avatâr*. He was followed by his still more famous son *Prahlâda*, the ardent worshipper of Vishnu, after whom the city was named*Prahlâdapura*. His great-grandson, *Bâna*, commonly called *Bâna* the *Asur*, was the unsuccessful antagonist of Krishna, who took possession of the kingdom of  
-
-
-
 
 Multân. Here *Sâmba*, the son of Krishna, established himself in the grove of *Mitra-vana*, and by assiduous devotion to *Mitra*, or the "Sun," was cured of his leprosy. He then erected a golden statue of *Mitra*, in a temple named *Âdyasthâna*, or the First Shrine," and the worship of the Sun thus began by *Sâmba*, has continued at Multân down to the present day.
 
@@ -2611,15 +2010,9 @@ Multân. Here *Sâmba*, the son of Krishna, established himself in the grove of 
 
 [^292]: "Masudi, Gildemeister, p. 134: "
 
-
-
 "root, or origin," and *sthâna*, or thân, in the spoken dialcets, means "place, or shrine." Hence, *Mûla*-*sthâna* is the "Temple of *Mûla*," which I take to be an appellation of the Sun. In the *Amarakosha* one of the names of the Sun is *Vradhna*, which is also given as asynonym of *Mûla*; henee *vradhna* must be connected with the Latin *radix*and *radius*, and also with theGreek ῥάβδος. But asradia signifies not only origin,or root, in general, but also a particular root, the radish, so also does *mûla* signify origin, or root, and*mûlaka*, or *mûli*, a radish. The connection between a sunbeam and a radish obviously lies in their similarity of shape, and hence the terms *radius* and *mûla* are both applied to the spoke of a wheel. *Mula-sthâna* is said by Wilson to mean "heaven, ether, space, atmosphere, God," any one of which names would be applicable to the Sun as the lord of the ethereal space. For these reasons I infer that *mûla* is only an epithet of the Sun, as the God of rays, and that *Mûla-sthâna-pura* means simply the "city of the Temple of the Sun. *Bhâga*and *Hansa* are well-known names of the Sun; and therefore *Bhâgapura* and *Hansapura* are only synonyms of the name of Multân. The earliest name is said to have been *Kasyapapura*, or as it is usually pronouneed, *Kasappur*, which I take to be the *Kaspapuros* of Hekatæus, and the*Kaspaturos* of Herodotus, as well as the *Kaspeira* of Ptolemy. The last town is plaeed at a bend on the lower course of the *Rhuadis*, or Râvi, just above its junction with the *Sandobâg*, or*Chandrabhâga*. The position of Kaspeira therefore agrees most exactly with that of Kasyapapura or Multân, which is situated on the old bank of the Râvi, just at the point where the channel changes its course
 
-
-
 from south-east to east. This identification is most important, as it establishes the fact that Multân or Kaspeira, in the territory of the Kaspeirei, whose dominion extended from Kashmir to Mathura, must have been the principal city in the Panjâb towards the middle of the second century of the Christian era. But in the seventh century it had already acquired the name of *Mulasthânapura*, or Multân, which was the only name known to the Arab authors downto the time of Abu Rihân, whose acquirement of Sanskrit gave him access to the native literature, from which he drew some of the other names already quoted. The name of Âdyasthâna, or or "First Shrine," is applied in the *Bhâvishya Purâna* to the original temple of the Sun, which is said to have been built by Sâmba, the son of Krishna; but *adya* is perhaps only a corruption of *Aditya*, or the Sun, which is usually shortened to *adit*, and even *ait*, as in *aditwâr* and*aitwâr* for *Âdityawâra*, or Sunday. Bilânduri calls the idol a representation of the prophet Job, or *Ayub*,which is an easy misreading of.adit ادیت for ايوب*Prahladâpura*, or *Pahlâdpur*, refers to the temple ofthe *Narsingh Avatâr*, which is still called *Pahlâdpuri*. When Burnes was at Multân, this temple was the principal shrine in the place, but the roof was thrown down by the explosion of the powder magazine duringthe siege in January, 1849, and it has not since been repaired. It stands at the north-eastern angle of the citadel, close to the tomb of Bahâwal Hak. The greattemple of the Sun stood in the very middle of thecitadel, but it was destroyed during the reign of Aurangzib, and the Jamai Masjid was erected on its site. This masjid was the powder magazine of the Sikhs, which was blown up in 1849.
-
-
 
  By the identification of *Kasyapapura* with the*Kaspeira* of Ptolemy I have shown that Multân was situated on the bank of the Râvi in the first half ofthe second century of the Christian era. Hwen Thsang unfortunately makes no mention of the river;but a few years after his visit the Brahman Rajah of Sindh, named Chach, invaded and captured Multân, and the details of his campaign show that the Râvistill continued to flow under its walls in the middle of the seventh century. They show also that the Biâs then flowed in an independent channel to theeast and south of Multân. According to the native chronicles of Sindh, Chach advanced to *Pâbiya*, or*Bahiya*[^293] Lieut. Postans reads Bâhiya. (Journ. Asiat. Soc. Bengal, 1841, p. 195.)")on the south bank of the Biâs, from whencehe advanced to Sukah or Sikkah on the bank of theRâvi, at a short distance to the eastward ofMultân.This place was soon deserted by its defenders, who retired towards Multân, and joined Raja *Bajhra* in opposing Chach on the banks of the Râvi. stout fight the Multânis were defeated by Chach, and retired into their fortress, which after a long siege surrendered on terms[^294].
 
@@ -2631,19 +2024,13 @@ from south-east to east. This identification is most important, as it establishe
 
 [^295]: "'Anabasis,' vi. 8."
 
-
-
 tarried there one day to refresh his army, he then directed his march against others of the same nation, who, he was informed, had abandoned their cities andretired into the deserts; and taking another day's rest, on the next he commanded Python, and Demetrius the captain of a troop of horse, with the forces theythen had, and a party of light armed foot, to returnimmediately to the river, etc. In the meanwhile he led his forces to the capital city of the Malii, whither, he was informed, many of the inhabitants of other cities had fled for their better security." Here we see that Alexander made just two marches from theBrahman city to the capital, which agrees very wellwith the distance of 34 miles between Atâri and Multân. In searching for the chief city of the *Malli*or *Malii*, we must remember that Multân has alwaysbeen the capital of the Lower Panjâb, that it is four times the size of any other place, and is undeniablythe strongest fort in this part of the country. All these properties belonged also to the chief city of theMalli. It was the capital of the country; it had the greatest number of defenders, 50,000 according to Arrian, and was therefore the largest place; and lastly, it must have been the strongest place, as Arrian relates that the inhabitants of other cities had fled to it "for better security." For these reasons I am quite satisfiedthat the capital city of the Malli was the modern Multân; but the identification will be still further confirmed as we proceed with Arrian's narrative. On Alexander's approach the Indians came out of their city, and "crossing the river Hydraotes, drew up theirforces upon the bank thereof, which was steepand difficult of ascent, as though they would have
-
-
 
 obstructed his passage . . . when he arrived there, and saw the enemy's army posted on the opposite bank, he made no delay, but instantly entered the river with the troops of horse he had brought with him." The Indians at first retired; "but when they perceived that their pursuers were only a party of horse, they faced about and resolved to give him battle, being about 50,000 in number." From this account I infer that Alexander must have advanced upon Multân from the east, his march, like that of Chach, being determined by the natural features of the country. Nowthe course of the old bed of the Râvi for 18 miles above Multân is almost due west, and consequently Alexander's march must have brought him to the fort of *Sukah* or *Sikkah*, which was on the bank of the Râvi at a short distance to the east of Multân. From this point the same narrative will describe the progress of both conquerors. The town on the east bankof the Râvi was descrted by its garrison, who retired across the river, where they halted and fought, and being beaten took refuge in the citadel. The fort of Sukah must have been somewhat near the present Mâri *Sital*, which is on the bank of the old bed of the Râvi, 2½miles to the cast of Multân.
 
  At the assault of the capital Alexander was dangerously wounded, and his enraged troops spared neither the aged, nor the women, nor the children, and every soul was put to the sword. Diodorus and Curtius assign this city to the Oxudrake; but Arrian distinctly refutes this opinion[^296],"for the city," he says "belonged to the Malii, and from that people he received the wound. The Malii indeed designed to
 
 [^296]: "'Anabasis,' vi. 11."
-
-
 
 have joined their forces with the Oxudrakæ, and so to have given him battle; but Alexander's hasty and unexpected march through the dry and barren waste prevented their union, so that they could not give any assistance to each other." Strabo also says that Alexander received his wound at the capture of a city of the Malli[^297].
 
@@ -2657,14 +2044,9 @@ have joined their forces with the Oxudrakæ, and so to have given him battle; bu
 
 [^299]: "Reinaud, 'Fragments Arabes,' p. 199."
 
-
-
-
 river (name left blank by M. Reinaud); Muhammad cut off the water, and the inhabitants, pressed by thirst, surrendered at discretion. All the men capable of bearing arms were put to death, and the women and children, with 6000 priests of the temple, were made slaves." The canal is said to have been shown to Muhammad by a traitor. I am willing to accept this account as a proof that the main stream of the Râvi had already deserted its old channel; but it is quite impossible that Multân could have been forced to surrender from want of water. I have already explained that one branch of the Râvi formerly flowed between the city and fortress of Multân, and that the old bed still exists as a deep hollow, in which water can be reached at most times by merely scratching the surface, and at all times by a few minutes' easy digging. Even in the time of Edrisi[^300]the environs of the town are said to have been watered by a small river, and I conclude that some branch of the Râvi must still have flowed down to Multân. But though the narrative of Biladuri is undoubtedly erroneous as to the immediate cause of surrender, I am yet inclined to believe that all the other circumstances maybe quite true. Thus, when the main stream of the Râvi deserted Multân, the city, which is still unwalled on the side towards the citadel, must have been protected by continuing its defences right across the old bed of the river to connect them with those of the fortress. In these new walls, openings must have been left for the passage of the waters of the canal or branch of the Râvi, whichever it may have been, similar to those which existed in modern times. Edrisi specially notes
 
 [^300]: "Geogr., Jambert's translation, i. 168."
-
-
 
 that Multân was commanded by a citadel, which had four gates, and was surrounded by a ditch. I infer, therefore, that Muhammad Kasim may have captured Multân in the same way that Cyrus captured Babylon, by the diversion of the waters which flowed through the city into another channel. In this way he could have entered the city by the dry bed of the river, after which it is quite possible that the garrison of the citadel may have been forced to surrender from want of water. At the present day there are several wells in the fortress, but only one of them is said to be ancient; and one well would be quite insufficient for the supply even of a small garrison of 5000 men.
 
@@ -2674,8 +2056,6 @@ that Multân was commanded by a citadel, which had four gates, and was surrounde
 
 [^301]: " Lieut. Postans, Journ. Asiat. Soc., Bengal, 1838, p. 95, where the translator reads Karud, , instead ofKaror."
 
-
-
 *Uchh.*
 
  The old town of *Uchh* is situated on the eastern bank of the *Panjnad*, 70 miles to the south-south-west of Multân, and 45 miles to the north-east of the present confluence with the Indus at Mithunkot. The change in the course of the Indus has taken place since the time of Wilford's surveyor, Mirza Mogal Beg, who surveyed the Panjâb and Kabul between the years 1786 and 1796, and this part in 1787-88. The former channel still exists under the name of *NalaPurân*, or the "Old Stream." *Uchcha* means “high, lofty," both in Sanskrit and in Hindi; and *Uchchanagar*therefore a common name for any place situated on a height. Thus we have *Uchchagaon* or *Bulandshahr*, as the Muhammadans call it, on the high bauk of the Kâli Nadi, 40 miles to the south-east of Delhi. We have another *Uchh* on a mound to the west of the confluence of the Chenâb and Jhelam; and a third *Uchh*, which is also situated on a mound, is the subject of the present description. According toBurnes[^302],Uchh is formed of three distinct towns, a few hundred yards apart from each other, and each encompassed by a brick wall, now in ruins. Masson[^303]mentions only two separate towns; but the people themselves say that there were once seven different towns named *Uchchanagar*. In Mogal Beg's map Uchh is entered with the remark, "consisting of seven distinct villages." According to Masson, Uchh is chiefly "distinguished by the ruins of the former towns, which are very extensive, and attest the pristine prosperity of the locality." According to Burnes,
@@ -2683,8 +2063,6 @@ that Multân was commanded by a citadel, which had four gates, and was surrounde
 [^302]: "'Bokhara,' i. 79."
 
 [^303]: " 'Travels,' i. 22."
-
-
 
 the town of Uchh stands on a mound, which he judged, from a section exposed by an inundation of the Chenâb, to be formed of the ruins of houses. This opinion is doubtless correct, as the place has been repeatedly destroyed and rebuilt. After the last great siege, in A.H. 931, or A.D. 1524-25, by Husen Shah Arghun, the walls of Uchh were levelled to the ground, and the gates and other materials were carried off to Bakar in boats[^304].Its favourable position at the old confluence of the Panjâb rivers must have made it a place of importance from the earliest times. Accordingly, we learn from Arrian that Alexander "ordered a city to be built at the confluence of the two rivers, imagining that by the advantage of such a situation it would become rich and populous[^305]." It is probably this city which is mentioned by Rashid ud din‡ as the capital of one of the four principalities of Sindh under*Ayand*, the son of *Kafand*, who reigned after Alexander. He calls the place *Askaland-usah*, which would be an easy corruption of *Alexandria Uchcha*, or *Ussa*, as the Greeks must have written it. I think, also, that Uchh must be the *Iskandar*, or *Alexandria*, of the Chach-nâmah, which was captured by Chach on his expedition against Multân[^306].After the Muhammadan conquest the place is mentioned only by its native name of Uchh. It was captured by Mahmud of Ghazni, and Muhammad Ghori, and it was the chief city of Upper Sindh under Nâser ud din Kubâchah. At a later period it formed part of the independent kingdom of Multân, which was established shortly
 
@@ -2694,23 +2072,17 @@ the town of Uchh stands on a mound, which he judged, from a section exposed by a
 
 [^306]: "Postans, Journ. Asiat. Soc. Bengal, 1838, p. 94."
 
-
-
 after the troubles that followed the invasion of Timur[^307]. In A.D. 1524 it was taken by storm by Shah Husen or Hasan Arghun of Sindh, when its walls were dismantled, as I have already noticed. But after the capture of Multân, Husen ordered the fort of Uchh to be rebuilt, in which he left a large garrison to secure the possession of his recent conquests. In the reign of Akbar, Uchh was permanently annexed to the Mogal empire, and is included by Abul Fazl amongst the separate districts of the Subah of Multân.
 
 [^307]: "Briggs's 'Ferishta,' iv. 380."
 
  The country at the confluence of the Panjâb rivers is assigned by Curtius to the *Sambracæ* or *Sabracæ*, and by Diodorus to the *Sambastæ*. They are not mentioned by Arrian, at least under this name; but I think thatthe *Ossadii*, who tendered their allegiance to Alexander at the confluence of the rivers, were the samepeople. It is probable also that the *Abastani*, who were subdued by Perdikkas, belonged to the same class. Perdikkas had been dispatched by Alexander to the east of the Râvi, where he captured a town which I have identified with Harapa. I infer that his campaign must have been an extended one, as Alexander, whose own movements had been delayed by his wound, was still obliged to halt for him at the confluence of the rivers. It seems highly probable therefore that he may have carried the Greek arms to*Ajudhan* on the banks of the Satlej, from which his march would have been along the course of that river by Ludhan, Mailsi, Kahror, and Lodhran, to Alexander's camp at Uchh. In this route he must have encountered the *Johiya* Rajputs, who have occupied
 
-
-
 both banks of the Satlej from Ajudhan to Uchh from time immemorial. I think therefore that the *Abastani*, whom Perdikkas subdued have a strong claim to be identified with the *Johiya* Rajputs. The country about Multân is still called *Johiya*-*bâr* or *Yaudheya-wâra.*
 
 * *The Johiyas are divided into three tribes, named*Langavira* or *Lakvira*, *Mâdhovira* or *Mâdhera*, and Adamvira or *Admera*. The *Sambracæ* would appear to have been divided into three clans, as being a free people without kings they chose *three* generals to lead them against the Greeks. Now Johiya is an abbreviation of *Jodhiya*, which is the Sanskrit *Yaudheya*, and there are coins of this clan of as early a date as the first century of the Christian era, which show that the*Yaudheyas* were even then divided into three tribes.These coins are of three classes, of which the first bears the simple inscription *Jaya-Yaudheya-gaṇasya*, that is (money) "of the victorious Yaudheya tribe. The second class has *dwi* at the end of the legend, and the third has *tri*, which I take to be contractions for*dwitiyasya* and *tritiyasya*, or second and third, as the money of the second and third tribes of the *Yaudheyas*. As the coins are found to the west of the Satlej, inDepâlpur, Satgarha, Ajudhan, Kahror, and Multân, and to the eastward in Bhatner, Abhor, Sirsa, Hânsi, Pânipat, and Sonpat, it is almost certain that they belong to the Johiyas, who now occupy the line of the Satlej, and who were still to be found in Sirsa as late as the time of Akbar. The *Yaudheyas* are mentioned in the Allahabad inscription of Samudra Gupta, and at a still earlier date by Pânini in the Junagarh inscription of Rudra Dâma[^308].Now the great grammarian was
 
 [^308]: "Dr. Bhau Dâji in 'Bombay Journal,' vii. 120."
-
-
 
 certainly anterior to Chandra Gupta Maurya, and his mention of the Yaudheyas proves that they must have been a recognized clan before the time of Alexander. The inscription of Rudra Dâma, in which he boasts of having "rooted out the *Yaudheyas*, shows that this powerful clan must have extended their arms very far to the south, otherwise they would not have come into collision with the princes of Surashtra. From these facts I am led to infer that the possessions of the*Johiyas* in the time of Alexander most probably extended from Bhatner and Pâkpatan to Sabzalkot, about halfway between Uchh and Bhakar.
 
@@ -2720,13 +2092,9 @@ certainly anterior to Chandra Gupta Maurya, and his mention of the Yaudheyas pro
 
 [^310]: "Hist., xvii. 10."
 
-
-
 the country of which Bikaner is now the capital was originally called *Bâgar-des*, or the land of the *Bâgri*, or "Warriors," whose leader was Bâgri Rao[^311].*Bhaṭi* also means "warrior or soldier." We thus find three tribes at the present day, all calling themselves "warriors," who form a large proportion of the population in the countries to the east of the Satlej; namely, *Johiyas* or*Yaudheyas* along the river, *Bâgris* in Bikaner, and Bhatis in Jesalmer. All three are of acknowledged Lunar descent; and if my suggested interpretation of *Sambâgri* be correct, it is possible that the name might have been applied to these three clans, and not to the three tribes of the Yaudheyas. I think, however, that the Yaudheyas have a superior claim, both on account of their position along the banks of the Satlej, and of their undoubted antiquity. To them I would attribute the foundation of the town of *Ajudhan*, or *Ayodhanam*, the "battle-field," which is evidently connected with their own name of *Yaudheya*, or *Ajudhiya*, the "warriors." The latter form of the name is most probably preserved in the *Ossadii* of Arrian, a free people, who tendered their allegiance to Alexander at the confluence of the Panjâb rivers. The Ossadii of Arrian would therefore correspond with the Sambastæ of Diodorus and the Sambracæ of Curtius, who made their submission to Alexander at the same place. Now *Ossadioi* or *Assodioi* is as close a rendering of*Ajudhiya* as could be made in Greek characters. We have thus a double correspondence both of name and
 
 [^311]: "This information I obtained at the famous fortress of Bhatner in the Bikaner territory. The name is certainly as old as the time of Jahângîr, as Chaplain Terry describes ‘Bikaneer' as the chief city of 'Bakar.' See 'A Voyage to East India,' p. 86."
-
-
 
 position in favour of my identification of the Sabagræ or Sambrace with the Johiyas of the present day.
 
@@ -2744,11 +2112,7 @@ position in favour of my identification of the Sabagræ or Sambrace with the Joh
 
 [^314]: "Rashid ud din, in Reinaud's 'Fragments Arabes,' p. 47."
 
-
-
 ![](../books_images/U-IMG-1698209968292.png)
-
-
 
 *Lohâna*, all of which will be discussed presently, as they would appear to correspond with the divisions. noted by Hwen Thsang.
 
@@ -2758,14 +2122,10 @@ position in favour of my identification of the Sabagræ or Sambrace with the Joh
 
  In the seventh century the capital of the province was named *Pi-chen-po-pu-lo*, which M. Julien transcribes as .*Vichava-pura*. M. Vivien de St. Martin, however, suggests that it may be the Sanskrit *Vichâlapura*, or city of "Middle Sindh," which is called*Vicholo* by the people. But the Sindhi and Panjâbi*Vich* and the Hindi *Bîch*, or "middle," are not derived from the Sanskrit, which has a radieal word of its own,*Madhya*, to express the same thing. If Hwen Thsang had used the vernacular terms, his name might have been rendered exactly by the Hindi *Bichwâ*-*pur*, or
 
-
-
 "Middle City;" but as he invariably uses the Sanskrit forms, I think that we must rather look to some pure Sanskrit word for the original of his *Pi-chen-po-pu-lo*. Now we know from tradition, as well as from the native historians, that Alor was the capital of Sindh both before and after the period of Hwen Thsang's visit; this new name, therefore, must be only some variant appellation of the old city, and not that of a second capital. During the Hindu period itwas the custom to give
 several names to all the larger cities, —as we have already seen in the case of Multân. Some of these were only poetical epithets; as *Kusumapura*, or "Flower City" applied to Pâtaliputra, and*Padmavati*, or, "Lotus Town" applied to Narwar; others were descriptive epithets as *Varanâsi*, or *Banâras*, applied to the city of Kâsi, to show that it was situated between the *Varana* and *Asi* rivulets; and*Kânyakubja*, the "hump-backed maiden," applied to Kanoj, as the scene of a well-known legend. The difference of name does not, therefore, imply a new capital, as it may be only a new appellation of the old city, or perhaps even the restoration of an old name which had been temporarily supplanted. It is true that no second name of Alor is mentioned by the historians of Sindh; but as Alor was actually the capital in the time of Hwen Thsang, it would seem to be quite certain that his name of *Pi-chen-po-pu-lo* is only another name for that city.
 
  It is of importance that this identification should be clearly established, as the pilgrim places the capital to the west of the Indus, whereas the present ruins of Alor or Aror are to the east of the river. But this very difference confirms the accuracy of the identifi-
-
-
 
 cation, for the Indus formerly flowed to the east of Alor, down the old channel, now called *Nâra*, and the change in its course did not take place until the reign of Raja Dâhir[^315],or about fifty years after Hwen Thsang's visit. The native histories attribute the desertion of Alor by the Indus to the wickedness of Raja Dâhir; but the gradual *westing* of all the Panjâb rivers which flow from north to south, is only the natural result of the earth's continued revolution from west to east, which gives their waters a permanent bias towards the western banks[^316]. The original course of the Indus was to the east of the Alor range of hills; but as the waters gradually worked their way to the westward, they at last turned the northern end of the range at Rori, and cut a passage for themselves through the gap in the limestone rocks between Rori and Bhakar. As the change is assigned to the beginning of Dâhir's reign, it must have taken place shortly after his accession in A.D. 680 ;—and as Muhammad Kasim,just thirty years later, was obliged to cross the Indus to reach Alor, it is certain that the river was permanently fixed in its present channel before A.D. 711.
 
@@ -2775,13 +2135,9 @@ cation, for the Indus formerly flowed to the east of Alor, down the old channel,
 
  The old bed of the Indus still exists under the name of Nâra, and its course has been surveyed from theruins of Alor to the Ran of Kachh. From Alor to Jakrao, a distance of 100 miles, its direction is nearly due south. It there divides into several channels, each bearing a separate name. The most easterly
 
-
-
 channel, which retains the name of *Nâra*, runs to the south-east by Kipra and Umrkot, near which itturns to the south-west by Wanga Bazar and Romaka Bazar, and is there lost in the great Ran of Kachh. The most westerly channel, which is named *Purâna*, or the "Old River," flows to the south-south-west, past the ruins of Brahmanabad and Nasirpur to Haidarabad, below which it divides into two branches. Of these, one turns to the south-west and falls into the present river 15 miles below Haidarabad and 12 miles above Jarak. The other, called the Guni, turns to the south-east and joins the Nâra above Romaka Bazar. There are at least two other channels between the Purâna and the Nâra, which branch off just below Jakrao, but their courses are only partially known. The upper half of the old Nâra, from Alor to Jakrao, is a dry sandy bed, which is occasionally filled by the flood waters of the Indus. From its head down to Jâmiji it is bounded on the west by a continuation of the Alor hills, and is generally from 200 feet to 300 feet wide and 20 feet deep. From Jâmiji to Jakrao, where the channel widens to 600 feet with the depth of 12 feet, the Nâra is bounded on both sides by broad ranges of low sand-hills. Below Jakrao the sand-hills on the western bank suddenly terminate, and the Nâra, spreading over the alluvial plains, is divided into two main branches, which grow wider and shallower as they advance, until the western channels are lost in the hard plain, and the eastern channels in a succession of marshes. But they reappear once morebelow the parallel of Hala and Kipra, and continue their courses as already described above[^312].
 
 [^312]: "See Map No. IX."
-
-
 
  In Upper Sindh the only places of ancient note are*Alor*, *Rori-Bhakar*, and *Mahorta*, near *Larkâna*. Several other places are mentioned in the campaigns of Alexander, Chach, Muhammad bin Kâsim, and Husen Shah Arghun; but as the distances are rarely given, it is difficult to identify the positions where names are so constantly changed. In the campaign of Alexander we have the names of the *Massanæ*, the*Sogdi*, the *Musikani*, and the *Præsti*, all of which must certainly be looked for in Upper Sindh, and which I will now attempt to identify.
 
@@ -2795,8 +2151,6 @@ channel, which retains the name of *Nâra*, runs to the south-east by Kipra and 
 
 [^320]: "Vita Alex., ix. 8."
 
-
-
 eastern district of Sindh, about Umarkot, but according to M'Murdo[^321], who is generally a most trustworthy guide, there is good reason to believe that they once. held large possessions on the banks of the Indus, to the northward of Alor. In adopting this extension of the territory formerly held by the Sodha Rajputs, I am partly influenced by the statement of Abul Fazl, that the country from Bhakar to Umarkot was peopled by the *Sodas* and *Jharejas* in the time of Akbar[^322],and partly by the belief that the *Massanæ* of Diodorus are the *Musarnei* of Ptolemy, whose name still exists in the district of *Muzarka*, to the west of the Indusbelow Mithankot. Ptolemy also gives a town called*Musarna*, which he places on a small affluent of the Indus, to the north of the *Askana* rivulet. The*Musarna* affluent may therefore be the rivulet of Kâhan, which flows past Pulaji and Shahpur, towards Khângarha or Jacobabad, and Musarna may be the town of Shahpur, which was a place of some consequence before the rise of Shikârpur. "The neighbouring country, now nearly desolate, mcultivation to a considerable extent[^323]." The *Sogdi*, or*Sodræ*, I would identify with the people of *Seorai*, which was captured by Husen Shah Arghun on his way from Bhakar to Multân[^324].In his time, A.D. 1525, it is described as "the strongest fort in that country." It was, however, deserted by the garrison, and the conqueror ordered its walls to be razed to the ground. Its actual position is unknown, but it was has traces of
 
 [^321]: " Journ. Royal Asiat. Soc. i. 33."
@@ -2807,15 +2161,11 @@ eastern district of Sindh, about Umarkot, but according to M'Murdo[^321], who is
 
 [^324]: "Erskine's Hist. of India, i. 388.Postans, Journ. Asiat. Soc. Bengal, 1841, 275."
 
-
-
 probably close to Fâzilpur, halfway between Sabzalkot and Chota Ahmedpur, where Masson[^325]heard that there was formerly a considerable town, and that "the wells belonging to it, 360 in number, were still to be seen in the jangals." Now in this very position, that is about 8 miles to the north-east of Sabzalkot, the old maps insert a village named *Sirwahi*, which may possibly represent the *Seorai* of Sindhian history. It is 96 miles in a direct line below Uchh, and 85 miles above Alor, or very nearly midway between them. By water the distance from Uchh would be at least one-third greater, or not less than 120 miles, which would agree with the statement of Curtius that Alexander reached the place on the fourth day. It is admitted that these identifications are not altogether satisfactory; but they are perhaps as precise as can now be made, when we consider the numerous fluctuations of the Indus, and the repeated changes of the names of places on its banks. One fact, preserved by Arrian, is strongly in favour of the identification of the old site near Fâzilpur with the town of the *Sogdi*, namely, that from this point Alexander dispatchedKraterus[^305]with the main body of the army, and all the elephants, through the confines of the Arachoti and Drangi. Now the most frequented Ghât for the crossing of the Indus towards the west, viâ the Gandâva and Bolân Pass, lies between Fâzilpur on theleft bank, and Kasmor on the right bank. And as the ghâts, or points of passage of the rivers, always determine the roads, I infer that Kraterus must have begun his long march towards Arachosia and Drangiana from this place, which is the most northern
 
 [^305]: "'Anabasis,' vi. 15."
 
 [^325]: "'Travels,' i. 382."
-
-
 
 position on the Indus for the departure of a large army to the westward. It seems probable, however, that Kraterus was detained for some time by the revolt of Musikanus, as his departure is again mentioned by Arrian[^327],after Alexander's capture of the Brahman city near Sindomana.
 
@@ -2833,8 +2183,6 @@ position on the Indus for the departure of a large army to the westward. It seem
 
 [^331]: "Briggs's 'Ferishta,' i. 39; and Tabakât.i.Akbari, in Sir Henry Elliot, p. 186."
 
-
-
 *Musikani— Alor.*
 
 * *From the territory of the Sogdi or Sodra, Alexander continued his voyage down the Indus to the capital of a king named *Musikanus*, according to Strabo, Diodorus, and Arrian[^332],or of a people named Musicani, according to Curtius[^320]. From Arrian we learn that this kingdom had been described to Alexander as "the richest and most populous throughout all India;" and from Strabo we get the account of Onesikritus that "the country produced everything in abundance;" which shows that the Greeks themselves must have been struck with its fertility. Now these statements can apply only to the rich and powerful kingdom of Upper Sindh, of which Alor is known to have been the capital for many ages. Where distances are not given, and names disagree, it is difficult to determine the position of any place from a general description, unless there are some peculiarities of site or construction, or other properties which may serve to fix its identity. In the present instance we have nothing to guide us but the general description that the kingdom of Musikanus was "the richest and most populous throughout all India." But as the native histories and traditions of Sindh agree in stating that Alor was the ancient metropolis of the country, it seems almost certain that it must be thecapital of Musikanus, otherwise this famous city would be altogether unnoticed by Alexander's historians, which is highly improbable, if not quite impos-
@@ -2843,8 +2191,6 @@ position on the Indus for the departure of a large army to the westward. It seem
 
 [^332]: "Strabo, Geogr., xv. i. 22-34 and 54. Diodorus, xvii. 10. Arrian, 'Anabasis,' vi. 15."
 
-
-
 sible. That the territory of Alor was rich and fertile we know from the early Arab geographers, who are unanimous in its praise.
 
  The ruins of Alor are situated to the south of a gap in the low range of limestone-hills, which stretches from Bhakar towards the south for about 20 miles, until it is lost in the broad belt of sand-hills which bound the Nâra, or old bed of the Indus, on the west. Through this gap a branch of the Indus once flowed, which protected the eity on the north-west. To the north-east it was covered by a second branch of the river, which flowed nearly at right angles to the other, at a distance of 3 miles. At the accession of Raja Dâhir, in A.D. 680, the latter was probably the main stream of the Indus, which had been gradually working to the westward from its original bed in the old Nâra[^312]. According to the native histories, the final change was hastened by the excavation of a channel through the northern end of the range of hills between Bhakar and Rori.
@@ -2852,8 +2198,6 @@ sible. That the territory of Alor was rich and fertile we know from the early Ar
 [^312]: "See Map No. IX."
 
  The true name of Alor is not quite eertain. The common pronunciation at present is *Aror*, but it seems probable that the original name was *Rora*, and that the initial vowel was derived from the Arabie prefix*Al*, as it is written *Alror* in Biladûri, Edrisi, and other Arab authors. This derivation is countenanced by the name of the neighbouring town of *Rori*, as it is acommon practice in India thus to duplicate names.So *Rora* and *Rori* would mean Great and Little Rora. This word has no meaning in Sanskrit, but in Hindi it signifies "noise, elamour, *roar*," and also "fame." It is just possible, therefore, that the full name of the
-
-
 
 eity may have been *Rora-pura*, or *Rora-nagara*, the "Famous City." This signification suggested itself to me on seeing the name of *Abhijanu* applied to a neighbouring village at the foot of the hill, 2 miles to the south-west of the ruins of Alor. *Abhijan* is aSanskrit term for "fame," and is not improbablyeonnected with Hwen Thsang's *Pi-chen-po-pu-lo*, which, by adding an initial syllable *o*, might be read as*Abhijanwapura*. I think it probable that Alor may be the *Binagara* of Ptolemy, as it is placed on the Indus to the eastward of *Oskana*, which appears to be the*Oxykanus* of Arrian and Curtius. Ptolemy's name of Binagara is perhaps only a variant reading of theChinese form, as *pulo*, or *pura*, is the same as *nagara*, and *Pichenpo* may be the full form of the initial syllable *Bi*.
 
@@ -2865,9 +2209,6 @@ eity may have been *Rora-pura*, or *Rora-nagara*, the "Famous City." This signif
 
 [^335]: "' Anabasis,' vi. 16."
 
-
-
-
 marched against a neighbouring prince named Oxykanus, and took two of his chief eities at the first assault. Curtius makes *Orycanus* the king of a people named *Præsti*[^336],and states that Alexander capturedhis chief eity after a siege of three days. Diodorus and Strabo call the king *Portikanus*. Now, these various readings at once suggest the probability that the name was that of the city, which, either as*Uchcha-gâm*, or *Porta-gâm*, means simply the "Lofty town," in allusion to its height. The description ofCurtius of the "tremendous crash" made by the fall of two towers of its citadel shows that the place must have been more than usually lofty. I would therefore identify it with the great mound of Mahorta on the bank of the Ghâr river, 10 miles from Larkâna. Masson describes it as "the remains of an ancientfortress, on a huge mound, named *Maihota*[^337].”*Mahorta*, which is the spelling
 adopted by the surveyors, is probably *Mahorddha*, for *mahâ*+*urddha*+*grâma*, or "the great lofty city," which, as pure Sanskrit, is not likely to be a modern name. This identification ap- pears to me to be very probable, not only on account of the exact correspondence of name, but also on account of the relative positions of Alor and Mahorta with reference to the old course of the Indus. At present Mahorta is within a few miles of the river; but in the time of Alexander, when the Indus flowed. down the bed of the Nâra, the nearest point of the stream was at Alor, from which Mahorta was distant 45 miles to the south of west. Hence Alexander was obliged to leave his fleet, and to *march* against Oxykanus.
 
@@ -2875,23 +2216,17 @@ adopted by the surveyors, is probably *Mahorddha*, for *mahâ*+*urddha*+*grâma*
 
 [^337]: "'Travels,' i. 461."
 
-
-
  The site of Mahorta must always have been a position of great importance, both commercially and politically, as it commanded the high-road from Sindh, viâ Kachh-Gandâva, to Kandahar. Since its desertion, the same advantages have made Larkâna, which is situated on the same small stream, 10 miles to the west of Mahorta, one of the most flourishing places in Sindh. The rivulet called the Ghâr rises near Kelât, and traverses the whole length of the *Mula*, or *Gandâva*Pass, below which it is now lost in the desert. Butthe channel is still traceable, and the stream reappears on the frontier of Sindh, and flows past Larkâna and Mahorta into the Indus. Under a strong and judiciousruler, who could enforce an economical distribution of the available waters, the banks of the Ghâr rivulet must formerly have been one of the most fertile districts of Sindh.
 
  The name of *Præsti*given by Curtius[^320]might, according to Wilson, be applied to a people occupyingthe *thals*, or "*oases*," of the desert. He refers to*Prastha*, or *Prasthala*, as derived from *sthala*, the Sanskrit form of the vernacular *thal*, which is the term generally used to designate any oasis in Western India. But as the name is simply *Præsti*, I think that it may rather be referred to *prastha*, which means any clear piece of level ground, and might therefore be applied to the plain country about Larkâna, in contradistinction to the neighbouring hilly districts of Sehwân and Gandâva. It seems possible, however, that it may be connected with the Piska ofPtolemy, which he places on the lower course of thesmall stream that flows past Oskana into the Indus.
 
 [^320]: "Vita Alex., ix. 8."
 
-
-
 Now Oskana is almost certainly the *Oxykanus* of Arrian and Curtius, for not only are the two names absolutely identical, but the inland position of Oskana, on a small stream to the west of the Indus, agrees exactly with that of Mahorta, which I have identified with Oxykanus. I think also that Ptolemy's Badana, which lies immediately to the north of the rivulet, must be the present Gandâva, as the letters B and G are constantly interchanged. In the books of the carly Arab writers it is always called *Kandâbil*.
 
 **2. MIDDLE SINDH.**
 
  The principality of Middle Sindh, which is generally known as *Vichalo*, or the "Midland," is described by Hwen Thsang as only 2500 *li*, or 417 miles, in circuit. With these small dimensions the province must have been limited to the modern district of Sehwân, with the northern parts of Haidarâbâd and Umarkot. Within these limits the north and south frontiers are each abont 160 miles in length, and the east and west frontiers about 45 miles cach, or altogether not more than 410 miles in circuit. The chief city, named*O.fan.cha*, was situated at 700 *li*, or 117 miles, from the capital of Upper Sindh, and 50 miles from Pitasila, the capital of Lower Sindh. As the former was *Alor*, and the latter was almost certainly the *Pattala* of the Greeks, or Haidarâbâd, the recorded distances fix the position of *O-fan-cha* in the immediate vicinity of the ruins of an ancient city called *Bambhra-ka-Tul*, or the "Ruined Tower," or simply *Banbhar*, which, according to tradition, was the site of the once famous city of Brahmanwâs, or Brahmanâbâd. Hwen Thsang's kingdom of *Ofancha*, or *Avanda*, therefore, corresponds
-
-
 
 as nearly as possible with the province of middle Sindh, which is now called *Vichalo*.
 
@@ -2905,9 +2240,7 @@ as nearly as possible with the province of middle Sindh, which is now called *Vi
 
 [^339]: " 'Anabasis,' vi. 16."
 
-
 [^341]: "Hist. Univers., xvii. 56."
-
 
 also omits the name of the capital, but states that Sambus retired to a great distance with thirty elephants. Strabo[^211]merely mentions Raja Sabus, and Sindomana his capital, without adding any particulars. Curtius[^343]alone notes that Alexander returned to his fleet after the capture of the raja's strongest city, which must therefore have been at some distance from the Indus.
 
@@ -2921,8 +2254,6 @@ also omits the name of the capital, but states that Sambus retired to a great di
 
 [^345]: "Westmacott, in Journ. Asiat. Soc. Bengal for 1840, p. 1209, says about 100 feet above the Arrul river, or Aral, which in his time was a branch of the Indus."
 
-
-
 point at Jakrao, where it leaves the sand-hills. At present its water supply is entirely derived from the Indus, which not only flows under the eastern front of the town, but also along its northern front, by a channel called the Aral river, from the great Manchur lake, which is supplied by the other Nâra, or great western branch of the Indus. But as the site couldnot have been occupied unless well supplied with water, it is certain that the Manchur lake must have existed long previous to the change in the course of the Indus. Judging by its great depth in the middle[^346], it must be a natural depression; and as it is still fed by two small streams, which take their rise in theHâla Lakki mountains, to the south, it seems probablethat the lake may have extended even up to the walls of Sehwân, before the floods of the western Nâra cut a channel into the Indus, and thus permanently loweredthe level of its waters. The lake abounds in fish,from which it would appear to derive its name, asManchur is but a slight alteration of the Sanskrit Matsya, and the Hindi *machh*, or *machhi*, "fish." I think, therefore, that *Manchar* may be only a familiarcontraction of *machhi*-*wâla Tâl*, or Fish Lake.
 
 [^346]: "Westmacott, Journ. Asiat. Soc. Bengal, 1840, p. 1207."
@@ -2931,14 +2262,10 @@ point at Jakrao, where it leaves the sand-hills. At present its water supply is 
 
 [^347]: "Journ. Royal Asiat. Soc., i. 30."
 
-
-
 said to be a contraction of *Sewistân*, which was so called after its inhabitants, the *Sewis*, or Sabis. But in all the early Arab geographers the name is somewhat differently written, as *Sadustân*, or *Sadusân*, or*Shârusan*, of which the first two syllables agree with the Greek *Sindomana*. I therefore reject the readingof*Sewistân* as a modern innovation of the Hindus, to connect the place with the name of their god *Siva*. The Sindo of the Greek, and the *Sadu* of the early Muhammadans, point to the Sanskrit name of the country, *Sindhu*, or to that of its inhabitants, *Saindhara*, or *Saindhu*, as it is usually pronounced. Their stronghold, or capital, would therefore have been called *Saindhava-sthâna*, or *Saindhu-sthân*, which, bythe elision of the nasal, becomes the *Sadustân* of the Arab geographers. In a similar manner Wilson derives the Greek *Sindomana* from "a very
 allowableSanskrit compound, Sindu-mân," the "possessor of Sindh." I am inclined, however to refer the Greekname to *Saindhava-vanam*, or *Saindhurân*, as the "abode of the Saindhavas.'
 
  It seems strange that a notable place like Sehwân should not be mentioned by Ptolemy under any recognizable name. If we take Haidarâbâd as the mostprobable head of the Delta in ancient times, thenPtolemy's *Sydros*, which is on the eastern bank of the Indus, may perhaps be identified with the old site of Mattali, 12 miles above Haidarâbând, and his *Pasipeda*with Sehwân. The identification of Ptolemy's *Oskana*with the *Oxykanus*, or *Portikanus*, of Alexander, and with the great mound of Mahorta of the present day, is, I think, almost certain. If so, either Piska or Pasipeda must be Sehwân.
-
-
 
 Hwen Thsang takes no notice of Sehwân, but it is mentioned in the native histories of Sindh as one of the towns captured by Muhammad bin Kasim in a.d. 711. It was again captured by Mahmud of Ghazni in the beginning of the eleventh century; and underthe Muhammadan rule it would appear to have become one of the most flourishing places in Sindh. It is now very much decayed, but its position is so favourable that it is not likely ever to be deserted.
 
@@ -2951,8 +2278,6 @@ the river notfar from the capital of Oxykanus. This point I would fix somewhere 
 
 [^349]: "Arrian, ‘ Anabasis,'vi. 16: τῶν ὀρίων Ινδων σατράπην."
 
-
-
 Sambus. From Marija Dand, the point where I suppose that Alexander rejoined his fleet, the distance to the ruined city of Brâhmana, or Brâhmanâbâd, is 60 miles in a direct line by land, or 90 miles by water. As this distance could have been accomplished with ease in four days, I conclude that *Brâhmana* was the actual city of Brahmans which is described by Alexander's historians. The king of this city had previously submitted, but the citizens withheld their allegiance, and shut their gates. By a stratagem they were induced to come out, and a conflict ensued, in which Ptolemy was seriously wounded in the shoulder by a poisoned sword[^350].The mention of Ptolemy's wound enables us to identify this city with that of *Harmatelia*, which Diodorus describes as the "last town of the Brâhmans on the river[^341]."Now,Harmatelia is only a softer pronunciation of *Brâhma*-*thala*, or *Brahmanasthala*, just as Hermes, the phallic god of the Greeks, is the same as Brahmâ, the original phallic god of the Indians. But Brâhmana was the old Hindu name of the city which the Muhammadans called Brâhmanâbâd; hence I conclude that the town of Brahmans captured by Alexander corresponds both in name and position with the great city of Brâhmanâbâd.
 
 [^341]: "Hist. Univers., xvii. 56."
@@ -2963,8 +2288,6 @@ Sambus. From Marija Dand, the point where I suppose that Alexander rejoined his 
 
 [^352]: "“Anabasis,’ vi. 16. ῾Ο δὲ καὶ ἄλλην πόλιν ἐν τούτῳ ἀποστᾶσαν εἷλε,καὶ τῶν Βραχμάνων . ὅσοι αἴτιοι τῆς ἀποστάσεως ἐγένοντο, ἀπέκτεινεν."
 
-
-
 statement of Diodorus, who mentions that Alexander "was satisfied with punishing those who advised the resistance, and pardoned all the others." From a comparison of the three narratives, I infer that *Harmatelia*, or *Brâhmana*, was in the dominions of Musikanus; for Curtius states that the king of this city had previously submitted to Alexander, while Arrian says that he had revolted, and Diodorus adds[^353]that Alexander punished the advisers of the rebellion. Now, all these facts apply to Musikanus, who had at first submitted, and then revolted, and was at last crucified, "and with him as many of the Brahmans as had instigated him to revolt." This identification is of some importance, as it shows that the dominions of Musikanus must have embraced the whole of thevalley of the Indus down to the head of the Delta, with the exception of the two outlying districts of Oxykanus and Sambus, under the western mountains. This extension of his dominions explains the report which Alexander had previously received from thepeople, that the kingdom of Musikanus "was therichest and most populous throughout all India." It also explains how Sambus was at enmity with Musikanus, as the southern territories of the latter were bounded on the west by those of the former. The king of this city, where Ptolemy was wounded by a poisoned arrow, is called *Ambiger* by Justin[^354],which was probably the true name of Musikanus, the chief of the Musikani, in whose territory Brahmana was situated.
 
 [^353]: " Hist. Univers., xvii. 56."
@@ -2972,8 +2295,6 @@ statement of Diodorus, who mentions that Alexander "was satisfied with punishing
 [^354]: "Justin, Hist., xii. 10."
 
  It is much to be regretted that none of the names preserved by Ptolemy can be certainly identified withthis city of the Brahmans. *Parabali* corresponds with
-
-
 
 it in position, and partly also in name, as the first two syllables, Parab, are not very different from Baram, and the termination, ali, may represent *thala* of*Brahmathala*, or *Harmatelia*. After Ptolemy's time we know nothing of Brâhmana until the Muhammadan conquest, a period of nearly six centuries. From the native histories, however, we learn that Brahmana was the chief city of one of the four governments[^355]into which Sindh was divided during the rule of the Rais dynasty, or from A.D. 507 to 642, and that it continued to be so until the accession of Dâhir in A.D. 680, who made it the capital of the kingdom, after the destruction of Alor by the Indus. In A.D. 641 Sindh was visited by Hwen Thsang, whose account has already been noticed. He found the kingdom divided into the four districts, which for greater distinctness I have named Upper Sindh, Middle Sindh, Lower Sindh, and Kachh. The first has already been described in my account of Alor. The second, *O-fan-cha*, I have just identified with *Brâhmanâbâd*. M. Stanislas Julien transcribes the Chinese syllables as*Aranda*, for which it is difficult to find an exact equivalent. But I have a strong suspicion that it is only a variation of the name of *Brâhmana*, which was pronounced in many different ways, as Bâhmana, Bahmana, Bâbhana, Babhana, Bambhana[^356].Speaking of Mansura, which we know was quite close to Brâhmanâbâd, Ibn Haukal adds that the Sindhians call it*Bâmiwân*[^357], which Edrisi alters to *Mirmân*[^358]. But in
 
@@ -2984,8 +2305,6 @@ it in position, and partly also in name, as the first two syllables, Parab, are 
 [^357]: "Sir Henry Elliot, Muhammadan Historians of India,' p. 63."
 
 [^358]: "Jaubert's Edrisi,' i. 162."
-
-
 
 his list of places in Sindh, Edrisi adds after Mansura the name of *Wândân*, or *Kândân*[^359],which I take to be only a various reading of Bâmanwâ, or, as the Sindhians would have pronounced it, *Vâmanwâ*, and*Vânwâ*. The Chinese syllable *fan*, which is the wellknown transcript of *Brahma*, is a notable example of this very contraction, and tends to confirm the opinion that *Avanda* is but a slight variation of *Bâhmanwâ*, or*Brâhmanâbâd*.
 
@@ -3000,23 +2319,17 @@ toMasudi[^361], it was founded by Jamhur, the governor of Sindh, under the last 
 
 [^362]: "Sir Henry Elliot's Muhammadan Historians of India,' Dowson's edition, p. 34; and Jaubert's 'Edrisi,' i. 162. "
 
-
-
 situated on the eastern branch of the Mihrân, or Indus, and was 1 mile in length, and the same in breadth, or just 4 miles in circuit. Its position is approximately fixed in the neighbourhood of Hâla, by the number of days' journey in the routes to different places. It was 12 days from Multan, 8 from Kandâbil, viâ Sehwân, and 6 days from Debal, viâ Manhâbari, which was itself 4 days from Mansura. It was therefore at two-thirds of the distance from Multan to the mouth of the Indus, or very nearly in the same parallel as Hâla.
 
  Now in this very position the ruins of a large city have been discovered by Mr. Bellasis, to whose zeal and energy we are indebted for our knowledge of this interesting place. The ruins are situated near an old bed of the Indus, at 47 miles to the north-east of Haidarâbâd, 28 miles to the east or east-north-east of Hâla, and 20 miles to the west of the eastern Nâra[^363]. The place is known as *Bambhra-ka-thûl*, or "the Ruined Tower," from a broken brick tower which is the only building now standing. The present appearance of the site, as described by its discoverer,is "one vast mass of ruins, varying in size according to the size of the original houses." Its circumference, measured by a perambulator, is within a few yards of 4 miles. But besides the great mound of *Bambhra-ka-thûl*, there is, at a distance of about 1½ mile, "the distinct and ruined city of *Dolora*, the residence of its last king, and 5 miles in another direction is the ruined city of*Depur*, the residence of his Prime Minister, and between these cities are the ruins of suburbs extending
 
 [^363]: "Journ. Asiat. Soc., Bombay, v. 413; and Thomas's Prinsep, ii. 119. stwick's Handbook for Bombay,' p. 490."
 
-
-
 for miles far and wide into the open country." The great mound of *Bambhraka-thûl* is "entirely surrounded with a rampart, mounted with numerous turrets and bastions." In the time of Akbar there were considerable vestiges of this fortification," which Abul Fazl[^364] says "had 140 bastions, one *tanâb*distant from each other." The *tanâb* was a measuring rope, which the emperor Akbar ordered to be changed for bambus joined by iron links. Its length was 60*Hâhi gaz*, which, at 30 inches each, give 150 feet for the *tanâb*; and this multiplied by 140, makes the circuit of the city 21,000 feet, or very nearly 4miles. Now it will be remembered that Ibn Haukal describes Mansura as being 1 mile square, or 4 miles in circuit, and that Mr. Bellasis's measure of the circumference of the ruined mound of *Bambhraka thûl*was within a few yards of 4 miles. From this absolute correspondence of size, coupled with the close agreement of position, which has already been pointed out, I conclude that the great mound of *Bambhra kathûl* represents the ruined city of *Mansura*, the capital of the Arab governors of Sindh. The Hindu city of Brâhmana, or Brâhmânâbad, must therefore be looked for in the neighbouring mound of ruins now called*Dilura*, which is only 1½ mile distant from the larger mound.
 
 [^364]: "'Ayin Akbari,' ii. 115. Gladwyn's translation has 1400 bastions, which would give to the city a circuit of 40 miles; the MSS. have 140. The Hâhi gaz contained 41½Sikandari tangkas, and as the average breadth of 62 Sikandaris in my collection is '7234 inches, the length of the Hâhi gaz will be 30.0211 inches. Mr. Thomas, ii. 123, found exactly 30 inches."
 
  Mr. Bellasis, the discoverer of these ruins, has identified the great mound with Brâhmanâbâd itself;
-
-
 
 but to this it has been justly objected by Mr. Thomas[^365]that amongst the multitudes of mediæval coins found during the excavations, "the number of Hindu pieces. was very limited, and that even these seem to be casual contributions from other provinces, of no very marked uniformity or striking age." The local coins consist exclusively of specimens of the Arab governors of Sindh, with the name of Mansura in the margin; and so far as I am aware, there is not a single piece that can be attributed to any of the Hindu rajas of Sindh. It is therefore to be regretted that Mr. Bellasis did not make more extensive excavations in the smaller mound of Dilura, which would probably have yielded some satisfactory evidence of its superior antiquity.
 
@@ -3026,8 +2339,6 @@ but to this it has been justly objected by Mr. Thomas[^365]that amongst the mult
 
 [^366]: "Journ. Royal Asiat. See.. i. 28."
 
-
-
 stereotyped legend is told of all the old cities in the Panjâb, as well as of those in Sindh. Shorkot, Harapa, and Atâri, are all said to have been destroyed on account of the sins of their rulers, as well as Alor, Brâhmana, and Bambhura. But the same story is also told of*Tulamba*, which we know to be false, as I have been able to trace its downfall to its desertion by the Râvi, at a very recent date. The excavations of Mr. Bellasis have shown conclusively that Brâhmana was overwhelmed by an earthquake. The human bones were chiefly found in doorways, as if the people were attempting to escape; others in the corners ofthe rooms; some upright, some recumbent, with their faces down, and some crouched in a sitting posture[^367].” The city was certainly not destroyed by fire, as Mr. Richardson notes that he found no remains of charcoal or burnt wood, and that the old walls bore no traces of fire. On the contrary, he also found the human remains crushed in the corners of the rooms, as if the terror-stricken inhabitants, finding their houses falling about them, had crouched in the corners and been buried by the falling material[^368]. Mr. Richardson also picked up a brick which had "entered cornerways into a skull, and which, when taken out, had a portion of the bone adhering to it." His conclusion is the same as that of Mr. Bellasis, "that the city was destroyed by some terrible convulsion of nature."
 
 [^367]: "Journ. Asiat. Soc. Bombay, v. 417."
@@ -3035,8 +2346,6 @@ stereotyped legend is told of all the old cities in the Panjâb, as well as of t
 [^368]: " Ibid., v. 423."
 
  The local coins found in the ruins of *Bambhra katul* belong to the Arab governors of Mansura, from the time of *Jamhur*, son of *Mansûr*, the reputed founder of the city, down to *Umar*, the contemporary of Ma-
-
-
 
 sudi[^369].It was therefore in existence during the whole of that time, or from A.D. 750 to 940, or even later.
 
@@ -3046,15 +2355,11 @@ sudi[^369].It was therefore in existence during the whole of that time, or from 
 
 [^370]: "Reinaud, Fragments Arabes,' etc. p. 113."
 
-
-
 the beginning of the eleventh century. It is probable that most of the inhabitants who escaped the great catastrophe would have returned to the ruined city to look after their buried property, and that many of them again reared their houses on the old sites. But the walls of the city were fallen, and there was no security; the river was gradually failing, and there was a scarcity of water; and the place was altogether so much decayed, that even in A.H. 416, or A.D. 1025, when the conqueror of Somnâth returned through Sindh, the plunder of Mansura was not sufficient to tempt him out of his direct march; so he passed on by Sehwân to Ghazni, leaving the old capital unvisited, and even unnoticed, unless we accept the solitary statement of Ibn Athir, that Mahmud on this occasion appointed a Muhammadan governor to Mansura.
 
 **3. LOWER SINDH, OR LAR.**
 
  The district of *Pitasila*, or Lower Sindh, is described by Hwen Thsang as being 3000 *li*, or 500 miles, in circuit, which agrees almost exactly with the dimensions of the Delta of the Indus from Haidarâbâd to the sea, including a small tract of country on both sides, extending towards the desert of Umarkot on the east, and to the mountains of Cape Monz on the west. Within these limits the dimensions of Lower Sindh are as follows. From the western mountains to the neighbourhood of Umarkot, 160 miles; from the same point to Cape Monz, 85 miles; from Cape Monz to the Kori mouth of the Indus, 135 miles; and from the Kori mouth to Umarkot, 140 miles; or altogether 520 miles. The soil, which is described as sandy and
-
-
 
 salt, produced plenty of corn and vegetables, but very few fruits and flowers, which is true of the Delta to the present day.
 
@@ -3066,8 +2371,6 @@ salt, produced plenty of corn and vegetables, but very few fruits and flowers, w
 
 [^373]: "Sir Henry Elliot, Muhammadan Historians of India,' Dowson's edition, i. 35, quoting Ibn Haukal."
 
-
-
 south, beginning with Patala, at the head of the Delta.
 
 *Patala, or Nirankot.*
@@ -3075,8 +2378,6 @@ south, beginning with Patala, at the head of the Delta.
  The position of Nirankot is fixed at Haidarâbâd by the concurrent testimony of M'Murdo, Masson, Burton, and Eastwick[^374].Sir Henry Elliot alone places it at Jarak, as he thinks that that locality agrees better with the descriptions of the native historians. But as Haidarâbâd is the modern name of the city, which the people still know as *Nirankot*, there would seem to be no doubt of its identity with the *Nirun*, or *Nirunkot*, of the Arab historians and geographers. Its position is described by Abulfeda as 25 parasangs from Debal, and 15 parasangs from Mansura, which accords with the less definite statements of Istakhri and Ibn Haukal, who simply say that it was between Debal and Mansura, but nearer to thelatter. It was situated on the western bank of the river, and is described as a wellfortified but small town, with few trees. Now, Haidarâbâd is 47 miles from the ruined city of Brâhnianâbâd, or Mansura, and 85 miles from Lâri-bandar, which I will presently show to have been the most probable position of the ancient Debal; while Jarak is 74 miles from Brâhmanâbâd, and only 60 miles from Lâri-bandar. The position of Haidarâbâd, therefore, corresponds much better with the recorded distances than that of Jarak. At present the main channel of the Indus runs to the west of Haidarâbâd, but we know that the Phuleli, or eastern branch,
 
 [^374]: " M'Murdo in Journ. Royal Asiat. Soc., i. 30; Masson, Travels,' i. 463; Burton, Sindh,' pp. 131, 376; and Eastwick, 'Handbook for Bombay,' p. 483. See Map No. IX."
-
-
 
 was formerly the principal stream. According toM'Murdo[^375], the change of the main stream to the westward of Haidarâbâd took place prior to A.H. 1000, or A.D. 1592, and was coincident with the decay of Nasirpur, which was only founded in A.H. 751, or A.D. 1350. As Nasirpur is mentioned byAbul Fazl[^376]as the head of one of the
 subdivisions of the province of Thatha, the main channel of the Indus must have flowed to the eastward of Nirunkot or Haidarâbâd at as late a date as the beginning of the reign of Akbar.
@@ -3089,8 +2390,6 @@ subdivisions of the province of Thatha, the main channel of the Indus must have 
 
 [^377]: "Sir H. Elliot's 'Muhammadan Historians of India,' Dowson's edition, i. 400."
 
-
-
 *Bambhra-ka-Thûl* has been found by Mr. Bellasis in the very position that was long ago pointed out by M'Murdo as the site of Brâhmanâbâd. Its identification as the site of the famous cities of Mansura and Brâhmanâbâd leaves Haidarâbâd, or the ancient Nirankot, available as the true representative of the Nirunkot of Biladuri and the Chach-nâma. Its distance of 47 miles from Bambhra-ka-tul, and of 85 miles from Lâri-bandar, agree almost exactly with the 15 and 25 parasangs of Abulfeda. It is also situated. on a hill, so that it corresponds in position, as well as in name, with Nirunkot. The hill, called Ganja, is 1½ mile long, and 700 yards broad, with a height of 80 feet[^378].The present fort was built by Mir Ghulâm Shâh in A.H. 1182, or A.D. 1768[^379].About one-third of the hill, at the southern end, is occupied by the fort, the middle portion by the main street and straggling houses of the city, and the northern end by tombs.
 
 [^378]: "Wood, 'Journey to the Source of the Oxus,' p. 30."
@@ -3101,9 +2400,6 @@ subdivisions of the province of Thatha, the main channel of the Indus must have 
 
 [^380]: "'Hiouen Thsang,' iii. 180."
 
-
-
-
 to Burton[^381],was an old appellation of Haidarâbâd, or Nirankot; and as this city is exactly 120 miles to the north of *Koṭesar*, in Kachh, and 47 miles to the south-west of Brâhmanâbâd, I have no hesitation in identifying it with the *Pitasila* of the Chinese pilgrim. The size of the hill also, which is 1½ mile in length, by 700 yards in breadth, or upwards of 3 miles in circumference, corresponds very closely with the dimensions of Pitasila, which, according to Hwen Thsang, was 20*li*, or 3,1/3miles, in circuit.
 
 [^381]: "'Sindh,' chap. i. note 7."
@@ -3111,8 +2407,6 @@ to Burton[^381],was an old appellation of Haidarâbâd, or Nirankot; and as this
  The names of *Pâtalpur* and *Pâṭaṣila* further suggest the probability that Haidarâbâd may be the *Pattala* of Alexander's historians, which they are unanimous in placing near the head of the Delta. Now, the present head of the Delta is at the old town of Mattâri, 12 miles above Haidarâbâd, where the *Phuleli* separates from the main channel of the Indus. But in ancient times, when the main stream, which is now called*Purâna*, or the "Old River," flowed past Alor and Brâhmanâbâd to Nirunkot, the first point of separation of its waters was either at Haidarâbâd itself, past which a branch is said to have flowed by Miâni to Trikal, or 15 miles to the south-east of it where the*Phuleli* now throws off the *Guni* branch to the south, and then proceeds westerly to join the present stream. of the Indus at Trikal. The true head of the old Delta was therefore either at Haidarâbâd itself, or 15 miles to the south-east of it, where the Guni, or eastern branch of the Indus, separated from the Phuleli, or western branch.
 
  Now, the position of Patala can be determined by several independent data :—
-
-
 
  1st. According to Ptolemy, the head of the Delta was exactly midway between *Oskana* and the easteru mouth of the Indus, called *Lonibare ostium*. This fixes Patala at Haidarâbâd, which is equidistant from the capital of *Oxykanus*, that is, from Mahorta near Larkâna, and the *Kori*, or eastern mouth of the Indus, which is also the mouth of the *Loni river*, or *Lonibareostium*.
 
@@ -3122,15 +2416,11 @@ to Burton[^381],was an old appellation of Haidarâbâd, or Nirankot; and as this
 
  3rd. From a comparison of the narratives of Arrian and Curtius, it appears that the Raja of Patala, having made his submission to Alexander at *Brâhmana*, or the city of Brahmans, the conqueror sailed leisurely
 
-
-
 down the river for three days, when he heard that the Indian prince had suddenly abandoned his country and fled to the desert[^383].Alexander at once pushed on to Patala. Now, the distance from Brâhmanâbâd to Haidarâbâd is only 47 miles by the direct land route; but as the old bed of the Indus makes a wide sweep round by Nasirpur, the route along the river bank, which was doubtless followed by the army, is not less than 55 miles, while the distance by water must be fully 80 miles. His progress during the first three days, estimated at the usual rate of 10 or 12 miles by land, and 18 or 20 miles by water, would have brought him within 19 miles of Haidarâbâd by land, and 26 miles by water, which distauce he would have easily accomplished on the fourth day by a forced march. From Patala he proceeded down the western branch of the river for a distance of 400 *stadia*, or 46 miles, when his naval commanders first perceived the sea breeze. This point I believe to have been Jarak, which is 30 miles below Haidarâbâd by land, and 45 miles, or nearly 400 *stadia*, by water. There Alex- ander procured guides, and, pressing on with still greater eagerness, on the third day he became aware of his vicinity to the sea by meeting the tide[^384]. As the tides in the Indus are not felt more than 60 miles. from the sea, I conclude that Alexander must then have reached as far as Bambhra, on the Ghâra, or western branch of the river, which is only 35 miles from the sea by land, and about 50 miles by water. Its distance from Jarak by land is 50 miles, and by
 
 [^383]: "Arrian, ‘Anabasis,' vi. 17; Curtius, Vita Alex., ix. 8, 28, says that he fled to the mountains."
 
 [^384]: " Curtius, Vita Alex., ix. 9, 29."
-
-
 
 water 75 miles, which the fleet might have easily accomplished by the third day. From these details it is clear that Patala must have been at a considerable distance from the sea, that is, not less than the length of the tidal reach, plus three days' sail on the river, plus 400 *stadia*. These distances by land are respectively 33 miles, 50 miles, and 30 miles, or altogether 113 miles, which corresponds almost exactly with the measurement of Aristobulus of 1000 *stadia*, or 115 miles.
 
@@ -3138,13 +2428,9 @@ water 75 miles, which the fleet might have easily accomplished by the third day.
 
 [^385]: " 'Indica,' p. 2."
 
-
-
 ancient city without noticing another name of which the conflicting accounts appear to me to have a confused reference to Nirunkot. This name is the *Piruz*of Istakhri, the *Kannazbur* of Ibn Haukal, and the*Firabuz* of Edrisi. According to Istakhri, *Piruz* was 4 days' journey from Debal, and 2 days from *Mehâbari*, which was itself on the western bank of the Indus, at 2 days' journey from Debal. Ibn Haukal and Edrisi agree that the road to *Kannazbur*, or *Firabuz*, lay through*Manhâbari*, or *Manjâbari*, which was on the western bank of the Indus, at 2 days from Debal; but they make the whole distance beyond Debal 14 days instead of 4. Now, Ibn Haukal andEdrisi place their city in Mekrân, a position which they were almost forced to adopt by their long distance of 14 days, although the first two days' journey lie exactly in the opposite direction from Mekran. But if we take the shorter distance of 4 days from Debal, which is found in Istakhri, the earliest of the three geographers, the position of their unknown city will then accord exactly with that of *Nirankot*. *Debal*I will hereafter identify with an old city near *Lâribandar* and *Manhâburi* with *Thatha*, which is just midway between Lâri-bandar and Haidarâbâd. Now, Ibn Haukal specially notes that *Munjâbari* was situated "to the west of the Mihrân, and *there* any one who proceeds from Debal to Mansura will have to pass the river, the latter place being opposite to Manjâbari[^386]." This extract shows that Maujâbari was on the western branch of the Indus, and therefore on the high-road to Nirankot as well as to *Piruz*, or *Kannezbur*, or*Firabuz*. I would therefore suggest that the first of
 
 [^386]: " Prof. Dowson's edition of Sir H. Elliot's Hist. of India, i. 37."
-
-
 
 these names, which is thus mentioned in conjunction with Manhâbari might possibly be intended for *Nirun*, and the other two for *Nirunkot*, as the alterations in the original Arabic characters required for these two readings are very slight. But there was certainly a place of somewhat similar name in Mekrân, as Bilâduri records that *Kizbun* in Mekrân submitted to Muhammad Kâsim on his march against Debâl. Comparing this name with Ibn Haukal's *Kannazbur*[^387],and Edrisi's *Firabuz*, I think it probable that they may be intended for *Panjgûr*, as suggested by M. Reinaud. The 14 days' journey would agree very well with the position of this place.
 
@@ -3153,10 +2439,6 @@ these names, which is thus mentioned in conjunction with Manhâbari might possib
 *Jarak*.
 
   The little town of Jarak is situated on an eminence overhanging the western bank of the Indus, about midway between Haidarâbâd and Thatha. Jarak is the present boundary between *Vichalo*, or Middle Sindh, and *Lâr*, or Lower Sindh, which latter I have been obliged to extend to Haidarâbâd, so as to include the *Patala* of the Greeks and the Pitasila of the Chinese pilgrimm, within the limits of the ancient Delta. This is perhaps the same place as *Khor*, or*Alkhor*, a small but populous town, which Edrisi places between Manhâbari and *Firabuz*, that is, between Thatha and Nirunkot. Three miles below Jarak there is another low hill covered with ruins,
-
-
-
-
 
 which the people call *Kâfir* *kot*, and attribute to Raja*Manjhira*[^388]. The principal ruin is a square basement ornamented with flat pilasters at regular distances. This is supposed to be the remains of a temple. Amongst the ruins were found some fragments of Buddhist statues; and, at a short distance from the hill, an inscription in early Indian characters, of which I can read only the words *putrasa* and *Bhagavatasa*, and a few letters in different parts; but these are sufficient to show that the inscription is Buddhist, as well as the other remains.
 
@@ -3170,8 +2452,6 @@ which the people call *Kâfir* *kot*, and attribute to Raja*Manjhira*[^388]. The
 
 [^390]: "'New Account of the East Indies,' i. 123."
 
-
-
 rally very acccurate, states that it was founded in the year A.H. 900, or A.D. 1495, by Nizâm-ud-din Nanda, the *Jûm*, or ruler of Sindh. Before his time, the chief city of Lower Sindh was *Sâminagar*, the capital of the*Sammâ* tribe, which stood on a rising ground, 3 miles to the north-west of the site of Thatha. M'Murdo refers its foundation to the time of Ala-ud-din of Delhi, who reigned from A.H. 695-715, or A.D. 1295 to 1315. Of a still earlier date is the great fort of *Kalyân*-*kot*, or Tughlakâbâd, which stands on the limestone hill, 4 miles to the south-west of *Thatha*. Its second name was derived from Ghazi Beg *Tughlak*, who was the governor of Multân and Sindh, during the latter part of Ala-ud-din's reign, in the beginning of the fourteenth century.
 
  The site of Thatha itself is admitted to be modern, but those of Sâminagar and Kalyân-kot are said to be of great antiquity. This belief of the people is no doubt true, as the position at the head of the inferior Delta commanded the whole traffic of the river, while the hill-fort gave security. Lieut. Wood remarks[^391]that the site of Thatha is so advantageous for commercial purposes that it is probable that a mart has existed in its neighbourhood from the earliest times. "But," he judiciously adds, "as the apex of the Delta is not a fixed point, the site of this city must have varied as the river changed." This change of site would naturally have entailed a change of names; and I am therefore led to believe that Thatha was the actual position of the *Manhâbari* of the Arab geographers, and of the *Minnagara* of the author of the 'Periplus[^312].'
@@ -3179,8 +2459,6 @@ rally very acccurate, states that it was founded in the year A.H. 900, or A.D. 1
 [^312]: "See Map No. IX."
 
 [^391]: "'Oxus,' p. 20."
-
-
 
 * Manhâbari* is described by all the authorities as situated on the western bank of the Indus, at 2 days' journey from Debal. Now, this is the very position of Thatha, which is on the western bank of the Indus, at 40 miles, or 2 days' journey, from Lâri-bandar, which, as I will presently show, was almost eertainly within a few miles of the famous city of Debal. The name of *Manhâbari* is variously written as *Mehâburi*, and *Manjâbari*, for which I would suggest that we night perhaps read *Mandâbari*, or *Mandâwari*, the "city of the *Mand*" tribe, just as *Sâminagar* was the "city of the Sammâ" tribe. This derivation of the name is supported by the fact that the *Mand* tribe have occupied Lower Sindh in great numbers from the beginning of the Christian era. Edrisi[^393]describes the *Mand* as a numerous and brave tribe, who occupied the desert on the borders of Sindh and India, and extended their wanderings as far as *Alor* on the north,*Mekran* on the west, and *Mamehel* (or Umarkot) on the east. Ibu Haukal[^394]records that "the *Mands*dwell on the banks of the Mihrân, from the boundary of Multân to the sea, and in the desert between Mekrân and Famhal (or Umarkot).They have many eattle-sheds and pasturages, and form a large population." Rashid-ud-din[^395]locates them in Sindh at a still earlier period. According to his account, *Med*and *Zat*, two deseendants of Ham, the son of Noah, were the progenitors of the people of Sindh prior to
 
@@ -3190,8 +2468,6 @@ rally very acccurate, states that it was founded in the year A.H. 900, or A.D. 1
 
 [^395]: "Reinaud, 'Fragments Arabes,' ete., p."
 
-
-
 the Mahâbhârata. The name is variously written as*Mer, Med, Mand*, in all of which forms it is found even at the present day. To these I would add *Mind*, which is the form of the name given by Masudi[^396].I have already identified this people with the *Medi* and*Mandrueni* of the classical writers; and as their name is found in northern India from the beginning of the Christian era downwards, and not before that time, I conclude that the *Mandrueni* and *Iatii* of the Oxus, who are coupled together by Pliny, must be the Saco Indo-Scythians, who occupied the Panjâb and Sindh, and who under the name of *Mands* and *Zats* of the early Muhammadan authors, were in full possession of the valley of the Indus towards the end of the seventh century.
 
 [^396]: " Sir H. M. Elliot,' Muhammadan Historians of India,' Dowson's edition, i. 57."
@@ -3199,8 +2475,6 @@ the Mahâbhârata. The name is variously written as*Mer, Med, Mand*, in all of w
  To show that the various spellings of the name are but natural modes of pronunciation, I can refer to the two large maps of the *Shâhpur* and *Jhelam*districts, which have been published within the last few years by the Surveyor-General of India. In the latter the name of a village on the Jhelam, 6 miles above Jalâlpur, is spelt *Meriâla*, and in the former *Mandiâli*. Abul Fazl calls the same place *Merali*, while Ferishta names it *Meriâla*. Lastly, Wilford's surveyor, Mogal Beg, writes *Mandyâla*, which is also the form that I received from two different persons, while in General Court's map it is spelt *Mâmriala*.
 
  To this people I refer the name of *Minnagar*, or city of the *Min*," which was the capital of Lower Sindh in the second century of the Christian era. That *Min* was a Scythian name we know from its
-
-
 
 occurrence in the list of Isidor of Kharax as one of the cities of Sakastene, or Sejistan. The appearance of the name in Sindh would alone be sufficient to suggest the presence of Scythians; but its connection. with them is placed beyond all doubt by the mention that the rulers of *Minnagara* were rival *Parthians*, who were mutually expelling each other[^397].These Parthians were Dahæ Scythians from the Oxus, who gave the name of Indo-Scythia to the valley of the identity with the rival Meds and Jats of the Muhammadan authors.
 
@@ -3215,8 +2489,6 @@ use of their gardens." According to the author[^400]of
 
 [^400]: "Hudson, Geogr. Vet., i. 22."
 
-
-
 the 'Periplus,' the merchant vessels anchored at the emporium of Barbarike, where the goods were unloaded, and conveyed to the capital by the river. Just so in modern times the ships anchored at Lâribandar, while the merchants carried their goods to Thatha either by land or by water. The position of Minnagar is too vaguely described as "inland[^401],"to be of any use in its determination. If it was, as I suppose, at *Thatha*, then it may perhaps be identified with Ptolemy's *Sousikana*, which I would interpret as*Susi-gâma*, or the "town of the *Su* tribe," an etymology which is supported by the fact that the *Mands*, or *Meds*, were a branch of the great horde of *Sus*, or*Abars*, who gave one name to *Susiana*, at the mouth of the Euphrates, and the other to *Abiria*, at themouth of the Indus.I should mention,however, that according to M'Murdo[^402],"*Minagar* was one of thecities dependent on Multân in the twelfth century, and was the possession of a chief by caste an *Agri*, and descended from Alexander. It was situated on the *Lohâna Daryâ*, not far from Bâhmana, in the *parganah* now called *Shehdâdpur*." It is a suspicious circumstance that this passage has not been verified either by Postans or by Elliot. The latter, who constantly refers to his own MS. of the 'Tohfat-ul-Kirâm,'quotes[^403] this notice of Minagar at second-hand from M'Murdo. I may add that the *Agari* is a well-known caste, of low degree, who are employed in the manu-
 
 [^401]: "The words are, κατὰ νώτου μεσόγειος, which can only mean "
@@ -3224,8 +2496,6 @@ the 'Periplus,' the merchant vessels anchored at the emporium of Barbarike, wher
 [^402]: " Journ. Royal Asiat. Soc., i. 31; and again at p. 233, quoting theTolfat-ul Girâm."
 
 [^403]: "'Muhammadan Historians of India,' Dowson's edition, i. 66."
-
-
 
 facture of salt. I am therefore not inclined to admit that this petty place could have any connection with the great capital of Indo-Scythia. On the contrary, I am disposed to look upon this name of *Min-nagara*as meaning simply the city of Min.
 
@@ -3239,8 +2509,6 @@ facture of salt. I am therefore not inclined to admit that this petty place coul
 
 [^406]: "Muhamm. Hist. of India, Dowson's edition, i. 399."
 
-
-
 according to M'Murdo, it had ceased to be a navigable stream, as both Bliambur and Debal were deserted about A.D. 1250, on account of the failure of theriver[^407]. My own inquiries give the same date, as Debal was still occupied when Jalâladdin of Khwârazm invaded Sindh in A.D. 1221[^408],and was in ruins in A.D. 1333, when Ibn Batuta visited *Lâhari Bandar*, which had succeeded Debal as the great port of the Indus.
 
 [^407]: "Journ. Royal Asiat. Soc., i. 25 and 232."
@@ -3249,23 +2517,17 @@ according to M'Murdo, it had ceased to be a navigable stream, as both Bliambur a
 
  M'Murdo quotes native authors to show that this western branch of the Indus was called the *Sâgâra*river, which, he thinks, may be identified with the*Sagapa Ostium* of Ptolemy, which was also the most westerly branch of the Indus in his time. It is therefore quite possible, as supposed by M'Murdo, thatthis was the very branch of the Indus that was navigated by Alexander. From the latest maps, however, it appears that about midway between Thatha and Ghâra this channel threw off a large branch on its left, which flowed parallel to the other for about 20 miles, when it turned to the south and joined the main channel just below Lâribandar. Now this channel passes about 2 or 3 miles to the south of Bhambúra, so that the town was also accessible from the *Piti*, the*Phundi*, the *Kyâr*, and the*Pintiani* mouths of the river. I am therefore inclined to identify Bhambûra not only with the town of *Barke*, which Alexander built on his return up the river, as stated by Justin, but also with the *Barbari* of Ptolemy, and the *Barbarike* *Emporium*of the author of the 'Periplus.' The last authority describes the middle branch of the
 
-
-
 Indus as the only navigable channel in his time up to*Barbarike*[^409],all the other six channels being narrow and full of shoals. This statement shows that the Ghâra river had already begun to fail before A.D. 200. The middle mouth of the river, which was then the only navigable entrance, is called *Khariphon Ostium* by Ptolemy. This name I would identify with the *Kyâr*river of the present day, which leads right up to the point where the southern branch of the Ghâra joins the main river near Lâri-bandar.
 
 [^409]: " Hudson, Geogr. Vet., i. 22."
 
  From this discussion I conclude that the northern channel of the Ghâra was the western branch of the Indus, which was navigated by Alexander and Nearchus; and that before A.D. 200, its waters found another channel more to the south, in the southern Ghara, which joins the main stream of the Indus just below Lâri-bandar. By this channel, in the time of the author of the Periplus,' the merchant vessels navigated the Indus up to *Barbarike*, where the goods were unloaded, and conveyed in boats to*Minnagar*, the capital of the country. But after some time this channel also failed, and in the beginning of the eighth century, when the Arabs invaded Sindh,*Debal* had become the chief port of the Indus, and altogether supplanted *Bhambûra*, or the ancient *Barbarike*. But though the Ghâra river was no longer a navigable channel, its waters still continued to flow past the old town down to the thirteenth century, about which time it would appear to have been finally deserted.
 
-
-
 *Debal Sindhi, or Debal.*
 
  The position of the celebrated port of Debal, the emporium of the Indus during the middle ages, is still unsettled. By Abul Fazl and the later Muhammadan writers, Debal has been confounded with Thatha; but as Debal was no longer in existence when they wrote,I conclude that they were misled by the name of *Debal Thatha*, which is frequently applied to Thatha itself. Similarly, *Brâhmana*, or*Brâhmanâbâd*, was called *Debal Kângra*, and the famous seaport of Debal was named *Debal Sindhi*.But*Diwal*, or *Debal*, means simply a temple, and therefore *Debal Sindhi* means the temple at, or near, the town of Sindhi. Major Burton says that the shawls of *Thatha* are still called *Shâl-i-Debali*, but this only proves that *Debal* was the place where the merchants procured the Thatha shawls. Just so the name of*Multânimatti*, that is Multan clay, or Armenian bole, is derived from the place where the merchants obtain the article, as the clay is actually found in the hills to the west of the Indus, beyond Dera Ghâzi Khân. So also Indian-ink is named from India, where the merchants first obtained it, although, as is now well known, it is all manufactured in China. Sir Henry Elliot, who is the last inquirer into the geography of Sindh, places Debal at Karâchi; but admits that Lâribandar "is the next most probable site after Karâchi[^410]." But I incline to the opinion of Mr. Crow, who was for many years the British resident in Sindh, that Debal occupied a site between Karâchi and Thatha. His opinion is entitled to special weight, as he is ad-
 
 [^410]: "'Sindh,' pp. 222 and 224."
-
-
 
 mitted by M'Murdo and Elliot to have "combined. much discrimination with ample opportunities of local inquiry." Sir Henry quotes the *Chach-nâma* for the fact that "the Serandip vessels were in their distress driven to the shore of Debal," to show that the portmust have been close to the sea. There they were attacked by pirates of the *Tangâmara* tribe, who occupied the seacoast from Karâchi to Lâri-bandar. This statement shows that if Debal cannot be identified either with Karâchi or with Lâri-bandar, it must be looked for somewhere between them.
 
@@ -3275,23 +2537,17 @@ mitted by M'Murdo and Elliot to have "combined. much discrimination with ample o
 
 [^412]: "These will be found in Elliot's Muhamm. Hist., by Dowson, i. 61; 'Istakhri,' i. 65; 'Ashkâl-ul-Bilâd,' i. 65, note Ibn Haukal. See also Gildemeister, De Rebus Indicis,' p. 205, for Kazvini."
 
-
-
 authorities to show that it was on the *Sâgâra* branch of the Indus, which flowed past Bhambûra. According to these accounts, Debal must have been situated on the western bank of the Baghâr river, below the junction of the southern branch of the Ghâra, or Sâgâra, branch. Its position may therefore be fixed approximately at the point of junction, which is 5 miles to the north of Lâri-bandar, 17 miles to the south-west of Bhambûra, and about 30 miles from the Piti and Pintiani mouths of the river. This positionalso fulfils the other condition quoted by Sir Henry Elliot, that Debal was between Karâchi and Lâri bandar, in the territory of the Tangâmara tribe of pirates. It further agrees with the position assigned to it by Mr. Crow, who places it between Karâchi and Thatha, which is an exact description of the locality following the course of the river, which is the only course that can be taken, as Debal was situated amongst the intersecting streams of the Delta.
 
  Unfortunately, this part of the Delta has not yet been minutely explored; and to this cause I would attribute our ignorance of the remains of an ancient city, which were noticed by Ibn Batuta in A.D. 1333 in the very position which I have assigned to Debal[^413]. As his statement is of great importance, I will quote the passage at full length:—"I then proceeded by the Sind to the city of *Lâhari*, which is situated upon the shores of the Indian Sea, where the Sind joins it. It has a large harbour, into which ships from Persia, Yemen, and other places put. At a *few miles* from this city are the ruins of another, in which stones in the shape of men and beasts almost innumerable are
 
 [^413]: " 'Travels,' by Dr. Lee, p. 102."
 
-
-
 to be found. The people of this place think that it is the opinion of their historians that there was a city formerly in this place, the greater part of the inhabitants of which were so base that God transformed them, their beasts, their herbs, even to the very seeds, into stones; and indeed stones in the shape of seeds are here almost innumerable." This large ruined city, with its stones in the shape of men and beasts, I take to be the remains of the once great emporium of Debal. According to M'Murdo, the people of Debal nioved toLari-bandar[^414],\* and according to Captain Hamilton, Lâri-bandar possessed "a large *stone* fort," for the protection of merchants against the Biluchis and Makrânis. It is, I think, a very fair and legitimate deduction that the people who deserted Debal removed the materials of their old city for the construction of the new one, and therefore that the stones of the fort of Lâri-bandar were brought from the deserted city of Debal, the remains of which excited the curiosity of Ibn Batuta in a.d. 1333.
 
 [^414]: "Journ. Royal Asiat. Soc., i. 29 and 233."
 
  This statement of Ibn Batuta I would connect with the curious account of an Indian city in the Arabian Nights,' which is found in the story of Zobeide. According to the common edition, this lady sailed from the port of Bassora, and after twenty days anchored in the harbour of a large city in India, where on landing she found that the king and queen and all the people had been turned into stone. One person only had escaped the general transformation, and he was the king's son, who had been brought up as a Muhammadan by his nurse, who was a Musalmâni slave. Now this legend appears to be the same as that of
-
-
 
 Raja Dilu and his brother Chota of the native histories of Sindh[^415],according to which Chota had become a Muhammadan, and when the city of Brâhmana was destroyed by an earthquake, on account of the wickedness of the king, Chota alone escaped. As a similar story is told of the ruin of all the chief cities in the Panjâb as well as in Sindh, the scene of the story in the 'Arabian Nights' may be fairly placed in Sindh; and as Debal was the only large city on the coast, and was besides the chief mart to which the Muhammadan merchants traded, it seems to me almost certain that it must be the Indian city in which Zobeide found all the people turned into stone.
 
@@ -3302,8 +2558,6 @@ Raja Dilu and his brother Chota of the native histories of Sindh[^415],according
  The position of Debal may also be fixed on the Baghâr river, or main channel of the Indus, by its name of *Dibal Sindhi*, or Dibal on the Indus. That it was near Lâri-bandar we learn incidentally from CaptainHamilton[^416], who says that the river of Sindhi "is only a small branch of the Indus, which appellation is now lost in this country which it so plentifully waters, and is called *Divellee*, or Seven mouths." This statement shows that the branch of the Indus leading up to Lâri-bandar was called *Dibali*, or the river of Dibal, so late as A.D. 1699, when visited by Hamilton. That
 
 [^416]: "'New Account of East Indies,' i. 130."
-
-
 
 this was the *Piti* branch of the Indus I infer from its other name of *Sindhi*, which I take to be the same as the *Sinthon Ostium* of Ptolemy, or the second mouth of the river, reckoning from the west. As the Piti is one of the mouths of the Baghâr river, this position agrees with that which I have already assigned to Dibal, on the concurring testimony of all the previous authorities.
 
@@ -3317,8 +2571,6 @@ this was the *Piti* branch of the Indus I infer from its other name of *Sindhi*,
 
 [^418]: "Ibid., iii. 173."
 
-
-
 *Audumbara*, which Professor Lassen gives as the name of the people of Kachh. They are the *Odomboëræ* ofPliny[^419], but there is no trace of this name at the present day.
 
 [^419]: " Hist. Nat., vi. 23."
@@ -3326,8 +2578,6 @@ this was the *Piti* branch of the Indus I infer from its other name of *Sindhi*,
  The province is described as being 5000 *li*, or 833 miles, in circuit, which is much too great, unless the whole of the Nagar Pârkar district to the north of the Ran was included, which is most probable, as this tract has always been considered as a part of Kachh, and is still attached to it. Taking its northern boundary as stretching from Umarkot to the neighbourhood of Mount Abu, the whole length of frontier will be upwards of 700 miles. The capital, named *Kie-tsi-shi-fa-lo*, was 30 *li*, or 5 miles, in circuit. This name is rendered as *Khajiswara* by M. Julien, and as *Kachchheswara* by Professor Lassen. But as the Chinese syllable*tse* represents the cerebral *ṭ*, I think that *tsi* must have the same value; and I would therefore read the whole as *Koṭiswara*, which is the name of a celebrated place of pilgrimage on the western shore of Kachh. That this is the place actually intended is rendered certain by the pilgrim's description of its position, which is said to be on the western frontier of the country close to the river Indus, and to the greatocean[^420]. This is a most exact description of the position of the holy *Koṭesar*, which is situated on the western frontier of Kachh, on the bank of the Kori branch of the Indus, and close to the great Indian Ocean. This identification is further supported by the
 
 [^420]: "M. Julien's 'Hiouen Thsang,' iii. 175: "
-
-
 
 statement that in the middle of the city there was a famous temple of Siva. The name of the place is derived from *Koṭi+iswara*, or the "ten million Iswaras," and refers to the small *lingam* stones that are found there in great numbers. Iswara is the wellknown name of Siva, and the lingam is his symbol.
 
@@ -3341,8 +2591,6 @@ statement that in the middle of the city there was a famous temple of Siva. The 
 
 [^422]: "Curtius, Vita Alex., ix. 10, 33."
 
-
-
 Indians; and Arrian admits that the Oritæ, who "inhabited the inland parts, were clothed in the same manner as the Indians, and used the same weapons, but their language and customs were different." In the seventh century, however, both their language and customs were considered to be like those of the Indians by a much more competent observer, the Chinese pilgrim, Hwen Thsang. According to him, the customs of the inhabitants of *Lang-kie-lo*, which was 2000 *li*, or 333 miles, to the west of Koṭesar, in Kachh, were like those of the people of Kachh, and their written characters closely resembled those of India, while their language was only slightly different[^423].For these reasons I think that the Oritæ, as well as the Arabitæ, may fairly be included within the geographical limits of India, although they have always been beyond its political boundary during the historical period. As early as the sixth century B.C. they were tributary to Darius Hystaspes, and they were still subject to Persia nearly twelve centuries later, when visited by Hwen Thsang. But their Indian origin is beyond all doubt, as will be shown when I come to speak of the Oritæ.
 
 [^423]: "M. Julien's 'Hiouen Thsang,' iii. 177."
@@ -3352,8 +2600,6 @@ Indians; and Arrian admits that the Oritæ, who "inhabited the inland parts, wer
  The *Arabii* of Arrian are the *Arabitæ* of Curtius, the*Arbiti* of Ptolemy, the *Ambritæ* of Diodorus, and the*Arbies* of Strabo. They are said to have derived their name from the river *Arabis*, or *Arbis*, or *Arabius*, which flowed along their confines, and divided their territory from that of the Oritæ[^424]. From a comparison of the
 
 [^424]: "Arrian, 'Indica, 21; Strabo, Geogr., xv. 2. 1; Pliny, Hist. Nat., vii. 2."
-
-
 
 details of Alexander's marches with the diary of Nearchus, it is certain that this boundary river was the Purâli, which flows through the present district. of Las into the bay of Sonmiâni. According toCurtius[^425], Alexander reached the eastern boundary of the Arabitæ in nine days from Patala, and their western boundary in five days more. Now, from Haidarâbâd to Karâchi, the distance is 114 miles, and from Karâchi to Sonmiâni 50 miles[^426],the former being usually performed by troops in nine marches, and the latter either in four or five. Karâchi, therefore, must have been on the eastern frontier of the Arabitæ, a deduction which is admitted by the common consentof all inquirers, who have agreed in identifying the Kolaka of Ptolemy and the sandy island of *Krokola*, where Nearchus tarried with his fleet for one day,with a small island in the Bay of Karachi. *Krokola*is further described as lying off the mainland of the Arabii. It was 150 stadia, or 17¼miles, from the western mouth of the Indus, which agrees exactly with the relative positions of Karâchi and the mouth of the Ghâra river, if, as we may fairly assume, the present coast-line has advanced 5 or 6 miles during the twenty-one centuries that have elapsed since the time of Alexander. The identification is confirmed by the fact that "the district in which Karâchi is situated is called *Karkalla* to this day[^427]."
 
@@ -3365,8 +2611,6 @@ details of Alexander's marches with the diary of Nearchus, it is certain that th
 
  On leaving Krokola, Nearchus had Mount Eiros (Manora) on his right-hand, and a low flat island on his left, which is a very accurate description of the
 
-
-
 entrance to Karâchi harbour, and after stopping at several small places, reached *Morontobara*, which was called the "Women's Haven" by the people of thecountry[^428]. From this place he made two courses of 70 stadia and 120 stadia, or altogether not more than22 miles, to the mouth of the river Arabius, which was the boundary between the country of the Arabii and the Oritæ. The name of *Morontobara* I would identify with *Müâri*, which is now applied to the headland of *Râs Muâri*, or Cape Monz, the last point of the Pabb range of mountains. *Bâra*, or *bâri*, means a roadstead or haven, and *moronta* is evidently connected with the Persian *mard*, a man, of which .the feminine is still preserved in Kashmiri, as *mahrin*, a woman. The haven itself may be looked for between Cape Monz and Sonmiâni, but its exact position cannot be determined. From the distances given by Arrian in his account of the voyage of Nearchus, I am inclined to fix it at the mouth of the *Bahar*rivulet,a small stream which falls into the sea about midway between Cape Monz and Sonmiâni. If I am right in considering Müâri as an abbreviation of Morontobâra, the cape must have received its name from the neighbouring haven. At the mouth of the Arabius Nearchus found a large and safe harbour, corresponding with the present Bay of Sonmiâni, at the mouth of the Purâli, which is described by Pottinger[^429]as "a very noble sheet of water, capable of affording anchorage to the largest fleet."
 
 [^428]: "Arrian, 'Indica,' p. 22."
@@ -3377,8 +2621,6 @@ entrance to Karâchi harbour, and after stopping at several small places, reache
 
  On crossing the river Arabius, Alexander marched
 
-
-
 for a whole night through a desert, and in the morning entered a well-inhabited country. Then coming to a small river, he pitched his tents, and waited for the main body of the army under Hephæstion. On its arrival, says Arrian, Alexander "penetrated further into the country, and coming to a small village which served the Oritæ instead of a capital city, and was named *Rambakia*, he was pleased with its situation, and imagining that it would rise to be a rich and populous city, if a colony were drawn thither, he committed the care thereof to Hephæstion[^430]."On the approach of Alexander, the Oritæ made their submission to the conqueror, who appointed Apollophanes their governor, and deputed Leonatus with a large force to await the arrival of Nearchus with the fleet, and to look after the peopling of the new city. Shortly after Alexander's departure, the Oritæ rose against the Greeks, and Apollophanes, the new governor, was slain, but they were signally defeated by Leonatus, and all their leaders killed[^430].Nearchus places the scene of this defeat at *Kokala*, on the coast, about halfway between the rivers Arabius and Tomerus. Pliny calls the latter river the *Tomberos*[^432], and states that the country in its neighbourhood was well cultivated.
 
 [^430]: "Arrian, Anab., vi. 21, 22; and 'Indica, 23; Curtius, ix. 10, 34."
@@ -3387,15 +2629,11 @@ for a whole night through a desert, and in the morning entered a well-inhabited 
 
  From these details I would identify the Oritæ, or*Horitæ*, or *Neoteritæ*, as they are called by Diodorus, with the people on the Aghor river, whom the Greeks would have named *Agoritæ*, or *Aoritæ,* by the suppression of the guttural, of which a trace still remains in the initial aspirate of *Horitæ*. In the bed of this
 
-
-
 river there are several jets of liquid mud, which, from time immemorial, have been known as Râm-Chandar-ki-kûp, or "Râm Chandar's wells." There are also two natural caves, one dedicated to *Kâli*, and the other to *Hingulâj*, or *Hingulâ Devi*, that is, the "Red Goddess," who is only another form of *Kâli*. But the principal objects of pilgrimage in the Aghor valley are connected with the history of Râma. The pilgrims assemble at the *Râmbâgh*, because Râma and Sita are said to have started from this point, and proceed to the Gorakh Tank, where Râma halted; and thence to *Tonga-bhera*, and on to the point where Râma was obliged to turn back in his attempt to reach Hingulâj with an army.*Râmbâgh* I would identify with the *Rambakia* of Arrian, and *Tongabhera* with the river *Tonberos* of Pliny, and the *Tomerus* of Arrian. At Rambakia, therefore, we must look for the site of the city founded by Alexander, which Leonatus was left behind to complete. It seems probable that this is the city which is described by Stephanus of Byzantium as the "sixteenth Alexandria, near the bay of *Melane*[^433]." Nearchus places the western boundary of the Oritæ at a place called*Malana*, which I take to be the bay of *Malan*, to the east of *Râs Mâlân*, or Cape *Mâlân* of the present day, about twenty miles to the west of the Aghor river. Both Curtius and Diodorus[^434]mention the foundation. of this city, but they do not give its name. Diodorus, however, adds that it was built on a very favourable
 
 [^433]: "In voce Alexandria, κατὰ τὸν Μέλανα κόλπον."
 
 [^434]: "Curtius, Vita Alex., ix. 10:—“ In hac quoque regione urbem condidit."
-
-
 
 site near the sea, but above the reach of the highest tides.
 
@@ -3405,23 +2643,17 @@ site near the sea, but above the reach of the highest tides.
 
  These districts are described by Hwen Thsang under the general name of *Lang-kie-lo*, which M. Julien renders by Langala. M. de St. Martin, however, refers it to the tribe of *Langa*, but it is extremely doubtful whether this is an ancient name, The other name of *Langalas*, quoted from the Vishnu Purâna, is only a variant reading of *Jângalas*, which is almost certainly the correct form, as it is immediately followed by *Kuru-Jângalas*. Hwen Thsang fixes the capital of *Lang-kie-lo* at 2000 *li*, or 333 miles, to the west of *Koṭesar* in Kachh. But as this bearing would place it in the middle of the Indian Ocean, the
 
-
-
 true direction must be north-west. Now this latter bearing and distance correspond with the position of the great ruined city of *Lâkoriân*, which Masson[^436]found between Khozdar and Kilât. In older maps the name is written simply *Lakûra*, which appears to me to be very fairly represented by the Chinese *Lang-kie-lo*, or*Lânkara*[^437].Masson describes the ruined fortifications as "remarkable for their magnitude, as well as for the solidity and the skill evident in their construction." From the size and importance of theseruins, I conclude that they are the remains of a large city, which has at some former period been the capital of the country. The Chinese pilgrim describes the province as being many thousands of *li* in breadth as well as in length. It is clear, therefore, that it cor- responded, as nearly as possible, with the modern district of Biluchistan, of which the present capital, Kilât, is only 60 miles to the north of *Lâkura*. In the seventh century, the capital was called *Su-neu-li-shi-fa-lo*, and was 30 li, or 5 miles, in circuit. The Chinese syllables are rendered by M. Julien as *Sunuriswara*, of which he offers no translation. But as Hwen Thsang describes a magnificent temple of Siva in the middle of the city, I infer that the Chinese transcript may be intended for *Sambhuriswara*, which is a well-known title of Siva as the "lord of divine beings," or the "god of gods." By assuming that this name belongs properly to the temple, the other name of *Lang-kie-lo*, or *Lâkara*, may be applied to the capital as well as to the province.
 
 [^436]: " 'Kilât,' p. 63; and 'Biluchistan,' ii. 46."
 
 [^437]: "The same Chinese character, lang, is found in the transcript of Baghalân, where the vowel of the final syllable is long."
 
-
-
 **II. GURJJARA.**
 
  Hwen Thsang places the second kingdom of Western India, named *Kiu-che-lo* or *Gurjjara*, at about 1800 *li*, or 300 miles, to the north of Balabhi, and 2800 *li*, or467 miles, to the north-west of Ujain. The capital was named *Pi-lo-mi-lo* or *Bâlmer*, which is exactly 300 miles to the north of the ruins of Balabhi. From Ujain in a straight line it is not more than 350 miles; but the actual road distance is between 400 and 500 miles, as the traveller has to turn the Aravali mountains, either by Ajmer on the north, or by Analwâra on the south. The kingdom was 5000 *li*, or 833 miles, in circuit. It must, therefore, have comprised the greater part of the present chiefships of Bikaner, Jesalmer, and Jodhpur. Its boundaries can only be described approximately, as extending about 130 miles on the north from Balar or Sirdarkot to Junjhnu; 250 miles on the east from Junjhnu to near Mount Abu; 170 miles on the south from Abu to near Umarkot; and 310 miles on the west from Umarkot to Balar. These figures give a total circuit of 860 miles, which is as close an approximation to the measurement of Hwen Thsang as can be reasonably expected.
 
  All the early Arab geographers speak of a kingdom named *Jurz* or *Juzr*, which from its position would appear to be the same as the *Kiu-che-lo* of Hwen Thsang. The name of the country is somewhat doubtful, as the unpointed Arabic characters may be read as *Haraz* or*Hazar*, and *Khuraz* or *Khazar*, as well as *Jurz* or *Juzr*. But fortunately there is no uncertainty about its position, which is determined to be Râjputâna by several concurring circumstances. Thus the merchant Sulimân,
-
-
 
 in A.D. 851[^438],states that *Haraz* was bounded on one side by *Tâfek* or *Tâkin*, which, as I have already shown, was the old name of the Panjâb. It possessed silver mines, and could muster a larger force of cavalry than any other kingdom of India. All these details point unmistakably to Rajputâna, which lies to the south-east of the Panjâb, possesses the only silver mines known in India, and has always been famous for its large bodies of cavalry.
 
@@ -3435,8 +2667,6 @@ in A.D. 851[^438],states that *Haraz* was bounded on one side by *Tâfek* or *T�
 
 [^441]: "Sir Henry Elliot, ' Arabs in Sindh,' p. 36. Dowson's edit. i. 3."
 
-
-
 Râjputâna, and Gujarât. Colonel Stacy's specimens were chiefly obtained from the last two countries, while my own specimens have been procured in all of them. In weight they vary from 50 to 68 grains; and in age they range from the fifth or sixth century down to the period of Mahmud of Ghazni. They are frequently found in company with the silver pieces of the Brahman kings of Kabul, which agrees with the statement of Masudi that the Tâtariya dirhems were current along with other pieces which were stamped at Gândhâra[^442].The latter I take to be the silver coins of the Brahman kings of Kabul, whose dynasty began to reign about A.D. 850, or shortly before the time of Masudi, who flourished from A.D. 915 to 956. I have also found some of the Indo-Sassanian or Tâtâr dirhems in central India to the east of the Aravali range, as well as in the Upper Gangetic Doâb; but in these provinces they are extremely scarce, as the common coin of Northern India in the mediæval period was the *Varâha*, with the figure of the Boar incarnation of Vishnu, varying from 55 to 65 grains in weight. From this examination of the coins I conclude that the kingdom named*Hazar* or *Juzr* by the early Arab geographers, is represented as nearly as possible by Western Râjputâna.
 
 [^442]: "Dowson's edition of Sir Henry Elliot's Muhamm. Hist., i. 24."
@@ -3444,8 +2674,6 @@ Râjputâna, and Gujarât. Colonel Stacy's specimens were chiefly obtained from 
  Edrisi[^443], quoting Ibn Khordâdbeh, states that *Juzr*or *Huzr* was the hereditary title of the king, as well as the name of the country. This statement confirms my identification of *Juzr* with *Guzr* or *Gujar*, which is a very numerous tribe, whose name is attached to
 
 [^443]: "Geogr., i. 175, Jaubert's translation."
-
-
 
 many important places in north-west India and the Panjâb, and more especially to the great peninsula of Gujarât. It is not known when this name was first applied to the peninsula. In early times it was called*Saurashtra*, which is the *Surastrene* of Ptolemy; and it continued to bear this name as late as A.D. 812, as we learn from a copper-plate inscription found atBaroda[^444].In this record of the Saurashtra kings,*Gurjjara* is twice mentioned as an independent kingdom. About A.D. 770 the king of Gurjjara was conquered by Indra Raja of Saurashtra, but was afterwards reinstated; and about A.D. 800 Indra's sonKarka assisted the ruler of Malwa against the king of Gurjjara. These statements show most clearly that Gurjjara still existed as a powerful kingdom, quite distinct from Saurashtra, nearly two centuries after Hwen Thsang's visit in A.D. 640. They show also that Gurjjara must have been adjacent to Malwa, as well as to Saurashtra, a position which clearly identifies it with Râjputâna, as I have already determined from Hwen Thsang's narrative.
 
@@ -3455,15 +2683,11 @@ many important places in north-west India and the Panjâb, and more especially t
 
 [^445]: "Journ. Royal Asiat. Soc., new series, i. 270, 277."
 
-
-
 ample of the use of this era before the sixth century A.D., I must demur to its adoption in these early records. The Saka era, on the contrary, is found in the early inscriptions of the Châlukya Raja Pulakesi, and in the writings of the astronomers Arya Bhatta and Varâha Mihira. The inscription of Pulakesi is dated in the *Saka* year 411, or A.D. 489, from which I conclude that the record of the earlier Châlukya Prince Vijaya, which is dated in the year 394, must refer to the same era. The contemporary records of the Gurjjara prince, which are dated in S. 380 and 385 must therefore belong to the middle of the fifth century A.D. All these copper-plate inscriptions were found together at *Khaidra*, near Ahmedabad. The first inscription of the Gurjjara Raja records the grant of lands to certain Brahmans "who having left the town of*Jambusara*, dwell in the village of *Sirishapadraka*, included in the district of Akrureswara." Five years later the same Brahman grantees are described as those who are to dwell in the town of Jambusara ;" and accordingly in the Châlukya inscription, which is dated nine years subsequent to the latter, they are described as actually dwelling in the town of Jambusara. This town is no doubt *Jambosir*, between Khambay and Baroch, and as it belonged to the Châlukya princes, who ruled over Maharashtra, the kingdom of Gurjjara must have been situated to the north of Khambay, that is, in Râjputâna, where I have already placed it on the authority of Hwen Thsang, and other independent evidence.
 
 **III. VALABHADRA, or BALABHI.**
 
  The ruins of the famous city of Balabhi were dis-
-
-
 
 covered by Tod near Bhaonagar, on the eastern side of the peninsula of Gujarât. In an inscription of the fifth century the country is called "the beautiful kingdom of*Valabhadra*[^446],"but in the local histories and traditions of the people, it is generally known as Balabhi. This also was the name in the time of Hwen Thsang, who calls the kingdom *Fa-la-pi*, or*Balabhi*. In ancient times, however, the peninsula of Gujarât was only known as *Surashtra*,and under this name it is mentioned in the Mahâbhârata and inthe Purânas. It is called *Surashtrene* by Ptolemy and the author of the 'Periplus;' and its people are most probably intended by Pliny under the corrupt name of*Suarataratæ*, or *Varetatæ*, for which I would propose to read *Suratæ*. The change in the name of the country is alluded to in an inscription, dated in the*Saka* year 734, or A.D. 812, of Raja *Karka*, whose remote ancestor Govinda is said to have been the ornament of the *Saurûshtra* kingdom, “which lost its appellation of *Sau-rajya* from the ruin that had fallen upon it[^447]."Karka's father is called Raja of *Lâṭeswara*, which at once identifies his kingdom with Balabhi, as Hwen Thsang notes that Balabhi was also called.*Pe-Lo-lo*, or northern *Lâra*, which is the common pronunciation of the Sanskrit *Lâṭa*. As Karka was only the fifth in descent from Govinda, the name of *Saurâjya*or *Saurashtra* could not have been restored by these representatives of the old family before the middle of the seventh century. From a comparison of all the data I conclude that the old name of Saurashtra was lost in A.D. 319, when the successors of the *Sâh* kings were sup-
 
@@ -3471,23 +2695,17 @@ covered by Tod near Bhaonagar, on the eastern side of the peninsula of Gujarât.
 
 [^447]: "Ibid., 1839, p. 300. Inscription from Baroda."
 
-
-
 planted by the *Vallabhas*, and the capital changed from*Junagurh* to *Valabhi*. The establishment of the Balabhi era, which dates from A.D. 319, is said by Abu Rihân to mark the period of the extinction of the*Gupta* race, whose coins are found in considerable numbers in Gujarât. This date may therefore be accepted with some certainty as that of the establishment of the Balabhi dynasty, and most probably also as that of the foundation of their city of Balabhi.
 
  According to the native histories and local traditions Balabhi was attacked and destroyed in the Samvat year 580, which is equivalent to A.D. 523, if in the Vikrama era, or A.D. 658, if in the Saka era. Colonel Tod has adopted the former; but as Hwen Thsang visited Balabhi in A.D. 640, the date must clearly be referred to the later era of Saka. If the statement is correct, we may refer the capture of Balabhi to Raja Govinda of the Baroda copper-plate inscription, who is recorded to have re-established the old family, as well as the old name of the former kingdom of Saurashtra. As he was the great-grandfather of the grandfather of Karka Raja, who was reigning in A.D. 812, his own accession must have taken place in the third quarter of the seventh century, that is, between A.D. 650 and 675, which agrees with the actual date of A.D. 658, assigned by the native historians for the destruction of Balabhi, and the extinction of the Balabhi sovereignty in the peninsula of Gujarât.
 
  About a century after their expulsion from Balabhi the representative of the Balabhis, named *Bappa* or*Vappaka*, founded a new kingdom at Chitor, and his son *Guhila*, or *Guhâditya*, gave to his tribe the new
 
-
-
 name of *Guhilâwat*, or *Gahilot*, by which they are still known. About the same time[^448]a chief of the *Chaura*tribe, named *Ban Raja*, or the "Jangal Lord," founded a city on the bank of the Saraswati, about seventy miles to the south-west of Mount Abu, called Analwâra*Pattan*, which soon became the most famous place in Western India. Somewhat earlier, or about a.d. 720, Krishna, the Pahlava prince of the peninsula, built the fort of *Elâpura*, the beauty of which, according to the inscription, astonished the immortals. In it he established an image of Siva adorned with the crescent. Following this clue I incline to identify *Elâpura* with the famous city of *Somnâth*, which, as the capital of the peninsula, was usually called Pattan Somnâth. According to Postans[^449]the old “ city of Pattan" is built upon a projection of the "mainland, forming the southern point of the small port and bay of *Verâwal*." This name I take to be the same as *Elâpura* or *Elâwar*, which, by a transposition that is very common in India, would became *Erâwal*. Thus *Nar-sinh* has become*Ran-si*, and *Ranod* is used indifferently with *Narod*, but we have a still more striking instance in the change from the ancient *Vârul* to the modern *Elur* or*Elora*. Now Patan Somnâth was famous for a temple of Siva, which enshrined a figure of the god bearing a crescent on his head as *Somnâth*, or the "lord of the moon." This appellation was therefore the proper name of the temple, and not of the city, which I conclude must have been *Elâpura* or *Erawal*, the modern *Verâwal*.
 
 [^448]: "' Ayin Akbari,' ii. 73. Abul Fazl gives Samvat 802, or a.d. 745, if referred to the era of Vukramaditya."
 
 [^449]: "Journ. Asiat. Soc. Bengal, 1838, p. 866."
-
-
 
  The earliest notice that we possess of Somnâth is contained in the brief account of the successful campaign of Mahmûd of Ghazni. According to Ferishta[^450]the fortified city of Somnâth was situated "on a narrow peninsula, washed on three sides by the sea." It was the residence of the Raja, and *Naharwâla* (a transposition of Analwâra) was then only "a frontier city of Gujarât." This agrees with the native histories, which place the close of the *Chaura* dynasty of *Analwâra*in S. 998, or A.D. 941, when the sovereignty passed into the hands of the Châlukya prince *MulaRaja*, who became the paramount ruler of Somnath and Analwâra.
 
@@ -3499,21 +2717,15 @@ name of *Guhilâwat*, or *Gahilot*, by which they are still known. About the sam
 
  During all these transactions Ferishta invariably designates the peninsula, as well as the country to the north of it, by the modern name of Gujarât. The name is not mentioned by Abu Rihân, although he notices both Analwâra and Somnâth.It occurs first in the Mojmal-ut-tawârikh of Rashid-ud-din, whowrote in A.D. 1310, just thirteen years after the conquest of the country by the Muhammadan king of Delhi. Now I have already shown that the name of*Gurjjara* was confined to Western Râjputâna in the
 
-
-
 time of Hwen Thsang, and that it was still a distinct country from *Saurashtra* in A.D. 812, when Karka Raja of *Lâṭeswara* recorded his grant of land. Between this date and A.D. 1310, there is a gap of five centuries, during which period we have no mention of Gurjjara in any contemporary records. I have a strong suspicion, however, that the movement of the Gujars towards the peninsula must have been connected with the permanent conquest of Delhi, Kanoj and Ajmer by the Muhammadans, which ejected the Chohâns and Râthors from Northern Rajputâna and the Upper Ganges, and thrust them towards the south. We know that the Râthors occupied *Pâli* to the cast of Bâlmer in the Samvat year 1283, or A.D. 1226. This settlement of the Râthors must have driven the great body of the Gujars from their ancient seats and forced them to the south towards Analyâra Pattan and Eder. This was actually the case of the Gohils, who, being expelled from Mârwâr by the Râthors, settled in the eastern side of the peninsula, which was named after them Gohilwara. In the time of Akbar the Gujars had certainly not penetrated into the peninsula, as Abul Fazl does not name them in his notice of the different tribes which then occupied the Sirkar of *Surât*. But even at the present day there is no large community of Gujars in the peninsula, so that we must look for some other cause for the imposition of their name on a large province which they have never completely occupied.
 
  In my account of the province of *Gurjjara* I have already noticed an old inscription of the kings of the Gurjjara tribe. From this record we learn that in s. 380, or A.D. 458 the Gujars had pushed their conquests
-
-
 
 as far south as the banks of the Narbadâ. In that year, and subsequently in A.D. 463, their king Sri Datta Kusali[^452]made several grants of land to certain Brahmans in the district of *Akrûreswara*, near Jambusara, which I take to be *Aklesar*, on the south bank of the Narbadâ, opposite Bhâroch. But before s. 394, or A.D. 472, the Gujars must have been driven back to the north, as far at least as Khambay, as the Châlukya prince Vijaya made several grants of land to the same Brahmans in the town of Jambusara, which lies between Bhâroch and Khambay. It is certain, therefore, that the Gujars had occupied the country to the north ofthe peninsula as early as the fifth century of the Christian era. But two centuries later they had already lost their power, as Hwen Thsang found a*Kshatriya* prince on the throne of *Gurjjara*. They must still, however, have continued to form the bulk of the population of the countries to the west and south of Mount Abn; and as Alaf Khan, the first Muhammadan conqueror, under Ala-ud-din Khilji, fixed his head-quarters at *Nahrwâra*, or *Analwâra*, in the very heart of the Gnjar country, I think it probable that the name of Gujarât was then first applied to this new province of the Delhi empire; and as the peninsula of Saurashtra formed a part of the province, it was also included under the same general appellation. I therefore look upon the extension of the name of Gujarat to the peninsula as a political convenience rather than an ethnographical application. Hamilton[^453]notes that the greater part of Malwa and Khandes was formerly called Cujarât; and this is borne out by
 
 [^452]: "Professor Dowson in Journ. Royal Asiat. Soc., new series, i. 280."
 
 [^453]: "Gazetteer, in voce “ Gujerât,” i. 60."
-
-
 
 Marco Polo, who distinguishes between the peninsula, which he calls *Sumenat* (Somnâth) and the kingdom of*Gozurat*, which he places on the coast to the north of Tana; that is, about Bhâroch and Surat. Even at the present day the name of Gujarât is not known to the natives of the peninsula itself, who continue to call their country *Surath* and *Kathiâwar*[^454];the latter name having been a recent adoption of the Mahrattas.
 
@@ -3527,8 +2739,6 @@ Marco Polo, who distinguishes between the peninsula, which he calls *Sumenat* (S
 
 [^457]: "'Ayin Akbari,' ii. €9."
 
-
-
  In the seventh century Hwen Thsang describes the kingdom of Balabhi as 6000 *li*, or 1000 miles, in circuit, which is very near the truth, if we include the districts of Bharoch and Surat, on the neighbouring coast, as well as the whole of the peninsula of Surashtra. But in this part of the pilgrim's travels the narrative is frequently imperfect and erroneous, and we must therefore trust to our own sagacity, both to supply his omissions and to correct his mistakes. Thus, in his description of *Bhâroch*, Iwen Thsang omits to tell us whether it was a separate and independent chiefship, or only a tributary of one of its powerful neighbours, Balabhi, Malwa, or Maharashtra. But as it has generally been attached to the peninsula, I infer that it most probably belonged to the great kingdom of Balabhi in the seventh century. In the second century, according to Ptolemy, *Barygaza*formed part of the kingdom of *Larike*, which, in Hwen Thsang's time, was only another name for Balabhi. In the tenth century, according to Ibn Haukal[^458],it belonged to the kingdom of the Balharâ, whose capital was Analwarâ; but as this city was not founded for more than a hundred years after Hwen Thsang's visit, I conclude that in the seventh century Bhâroch must have formed part of the famous kingdom of Balabhi. With this addition to its territories, the frontier circuit of Balabhi would have been as nearly as possible 1000 miles.
 
 [^458]: "Elliot, Muliammadan Historians of India,' i. 63."
@@ -3536,8 +2746,6 @@ Marco Polo, who distinguishes between the peninsula, which he calls *Sumenat* (S
 **1. SURÂSHTRA.**
 
  According to Hwen Thsang, the province of *Su-la-cha*, or *Surâtha*, was a dependant of Balabhi. Its
-
-
 
 capital was situated at 500 li, or 83 miles, to the west of Balabhi, at the foot of Mount *Yeu-chen-la*, or *Ujjanla*. This is the Pali form of the Sanskrit *Ujjayanta*, which is only another name for the *Girinar* hill that rises above the old city of *Junagarh*. The name of *Ujjayanta*is mentioned in both of the Girinar inscriptions of Rudra Dâma and Skanda Gupta, although this important fact escaped the notice of the translators[^459]. The mention of this famous hill fixes the position of the capital of Surashtra at *Junagarh*, or *Yarana-gaḍh*, which is 87 miles to the west of Balabhi,or very nearly the same as stated by IIwen Thsang. The pilgrim notices that the mountain was covered with thick forests, and that its scarped sides contained numerous chambers and galleries. This description agrees with the account of Postans[^460], who, in 1838, found the hill covered with a thick jungul of the custard-apple tree," and a number of excavations at the base, consisting of "small flat roofed rooms, supported by square pillars without ornament."
 
@@ -3551,8 +2759,6 @@ capital was situated at 500 li, or 83 miles, to the west of Balabhi, at the foot
 
 [^462]: "'Ayin Akbari,' ii. 66."
 
-
-
 is also preserved by Terry[^463],whose information was obtained at the Court of Jahângir. According to his account, the chief city of Soret was called *Janagar*, that is, *Javanagarh*, or *Jonagarh*. The province was small, but very rich, and had the ocean to the *south*. At that time also it would appear not to have been included in Gujarât, as Terry describes it as *lying upon Gujarat*. In the seventh century Hwen Thsang states that*Surath*, or *Surashtra*, was 4000 *li*, or 667 miles, in circuit, and touched the river *Mo-li* on the west. This river has always been identified with the *Mahi*of Malwa, which falls into the Gulf of Khambay[^464]. Accepting this identification as correct, the province of *Surath* in the time of Hwen Thsang must have comprised the whole of the peninsula, including the city of Balabhi itseif. This is confirmed by the measurement of the frontier given by the pilgrim, which agrees exactly with that of the entire peninsula to the south-west of a line drawn from the Lesser Ran of Kachh to Khambay. In spite of the fame of Balabhi, the old name of *Surath* was still applied to the whole peninsula so late as A.D. 640.
 
 [^463]: "'Voyage to East India,' p. 80."
@@ -3563,11 +2769,7 @@ is also preserved by Terry[^463],whose information was obtained at the Court of 
 
  In the seventh century the district of *Po-lu-kie-che-po*, or *Barukachwa*, was from 2400 to 2500 *li*, or from 400 to 117 miles, in circuit; and its chief city was on the bank of the *Nai-mo-tho*, or *Narmmadâ* river, and close to the sea. With these data it is easy to identify
 
-
-
 ![](../books_images/U-IMG-1698860109373.png)
-
-
 
 the capital with the well-known seaport town of*Bhâroch*, under its Sanskrit name of *Bhrigu-Kachha*, as written by the Brahmans, or *Bhârukachha*, as found in the old inscriptions. The latter was no doubt the more usual form, as it is almost literally preserved in the_(![](../books_images/U-IMG-1698862340Screenshot2023-11-01234119.png))of Ptolemy, and the Periplus.'From Hwen Thsang's measurement of its circuit, the limits of the district may be determined approximately as extending from the *Mâhi*[^465]river on the nortlı, to Dâmân on the south, and from the Gulf of Khambay on the west to the *Sahyâdri* mountains on the east.
 
@@ -3580,8 +2782,6 @@ the capital with the well-known seaport town of*Bhâroch*, under its Sanskrit na
 **CENTRAL INDIA.**
 
  According to the Chinese pilgrim, the great division of Central India extended from the Satlej to the head of the Gangetic Delta, and from the Himalâya mountains to the Narbadâ and Mabânadi rivers. It com-
-
-
 
 prised all the richest and most populous districts of India, with the single exception of the Gangetic Delta, or Bengal proper[^467].Of the seventy separate states of India that existed in the seventh century, no less than thirty-seven, or rather more than one-half, belonged to Central India. The whole of these districts were visited by Hwen Thsang, whose footsteps I will now attend in describing the different principalities from west to cast in the following order :—
 
@@ -3629,25 +2829,17 @@ prised all the richest and most populous districts of India, with the single exc
 
  In the seventh century *Sa-ta-ni-shi-fa-lo*, or *Sthânes*-*wara*, was the capital of a separate kingdom, which is
 
-
-
 described as being 7000 *li*, or 1167 miles, in circuit. No king is mentioned, but the state was tributary to Harslia Varddhana of Kanoj, who was the paramount sovereign of Central India. From the large dimensions given by Hwen Thsang, I infer that the district must have extended from the Satlej to the Ganges[^468]. Its northern boundary may be approximately described as a straight line drawn from Hari-ki-patan, on the Satlej, to Muzafarnagar, near the Ganges; and its southern bonndary as an irregular line drawn from near Pâk-patan, on the Satlej, viâ Bhatner and Nârnol, to Anupshahar on the Ganges. These limits give a boundary of about 900 miles, which is nearly one-fourth less than is stated by the pilgrim. But it is certain that many of these boundary measurements must be exaggerated, as the distances could only have been estimated, and the natural tendency of most persons is rather to overstate the actual size of their native districts. Another source of crror lies in the deficient information of Hwen Thsang's own narrative, which describes each of the 37 districts as a distinct and separate state, whereas it is almost certain that several of the minor states should be included within the boundaries of the larger ones. Thus I believe that the petty districts of *Govisana*and *Ahichhatra* must have formed part of the state of *Madâwar*; that *Vaisâkha* and *Kusapura*, and the other small districts of the Gangetic Doab,*Ayulo*, *Hayamukha*, *Kosâmbi*, and *Prayâga*, were included in Kanoj; that*Kusinagara*belonged to *Kapila*; and that *Vaḍari* and *Kheḍa*were integral parts of *Malwa*. In some instances also, I believe that thousands have been inserted in the
 
 [^468]: "See Map No. X."
-
-
 
 text instead of hundreds. I refer specially to the petty districts in the lower Gangetic Doab. Thus,*Prayâga*, or Allahabad, is said to be 5000 *li*, or 833 miles, in circuit, and *Kosâmbi*, which is only 30 miles from Allahabad, is said to be 6000 *li*, or 1000 miles, in circuit! In both of these instances I would read the smaller numbers of 500 *li*, or 83 miles, and 600 *li*, or 100 miles, which would then agree with the actual dimensions of these petty divisions. It is quite certain that they could not have been larger, as they were completely surrounded by other well known districts. By making duc allowance for one or other of these sources of error, I think it will be found that Hwen Thsang's measurements are in general not very far from the truth.
 
  The town of *Shâneswara*, or Thânesar, consists of an old ruined fort, about 1200 feet square at top, with the modern town on a mound to the east, and a suburb called *Bâhari*, or "without," on another mound to the west. Altogether, the three old mounds occupy a space nearly one mile in length from east to west, and about 2000 feet in average breadth. These dimensions give a circuit of 14,000 feet, or less than 2¾ miles, which is somewhat under the 20 *li*, or 3,1/3miles, of Hwen Thsang. But before the inroads of the Muhammadans, it is certain, from the number of brick ruins still existing, as well as from the statements of the people themselves, that the whole of the intervening space between the present town and the lake, which is now called *Darrâ*, must have formed part of the old city. Taking in this space, the original city would have been, as nearly as possible, an exact square of one mile on each side, which would give a
 
-
-
 circuit of 4 miles, or a little more than the measurement of the Chinese pilgrim. According to tradition, the fort was built by Raja *Dilipa*, a descendant of Kuru, five generations anterior to the Pândus. It is said to have had 52 towers or bastions, of which some remains still exist. On the west side the earthen ramparts rise to a height of 60 feet above the road; but the mass of the interior is not more than 40 feet high. The whole mound is thickly covered with large broken bricks, but with the exception of three old wells, there are no remains of any antiquity.
 
  The name of *Thânesar*, or *Sthâneswara*, is said to be derived either from the *Sthâna* or abode of *Iswara*, or Mahadeva, or from the junction of his names of *Sthânu*and *Iswara*, or from *Sthânu* and sar, a "lake." The town is one of the oldest and most celebrated places in India, but the earliest certain notice of it under this name is by the Chinese pilgrim Hwen Thsang, in A.D. 634, although it is most probably mentioned by Ptolemy as *Balan-Kaisara*, for which we should, perhaps, read *Satan-aisara*, for the Sanskrit *Sthâneswara*. But the place was more famous for its connection with the history of the Pândus, than for its possession of a temple of Mahâdeva, whose worship, in India at least, must be of much later date than the heroes of the Mahâbhârata. All the country immediately around Thânesar, between the *Saraswati* and*Drishadwali* rivers, is known by the name of *Kuru**Kshetra*, that is, the "field or land of *Kuru*," who is said to have become an ascetic on the bank of the great holy lake to the south of the town. This lake is called by various names, as *Brahmâ*-*Sar*, *Râma*-*hrad*,*Vâyu*, or *Vâyava*-*Sar*, and *Pavana*-*Sar*. The first
-
-
 
 name is attributed to Brahma, because he performed a sacrifice on its banks. The second name is derived from *Parasu-Rama*, who is said to have spilt the blood of the *Kshatriyas* in this place. The last two titles are derived from the names of the god of Wind, on account of the pleasant breezes which blew over the waters of the lake during Kuru's period of asceticism. This lake is the centre of attraction for most pilgrims; but all around it for many miles is holy ground, and the number of holy places connected with the *Kauravas* and *Pândavas*, and with other heroes of antiquity, is very great indeed. According to popular belief, the exact number is 360, but the list given in the *Karu-kshetra Mahâtmya* is limited to 180 places, of which one-half, or 91, are to the north along the line of the venerated Saraswati river. There are, however, in this list so many omissions of places of acknowledged importance, such as the *Nâgahrada* at *Pundri*, the *Vyâsasthala* at Basthali, the*Parâsaratirath* at Bâlu, and the *Vishnu-tirath* at Sagga, near *Narâna*, that I feel inclined to believe that the popular number of 360 may not be exaggerated.
 
@@ -3657,13 +2849,10 @@ name is attributed to Brahma, because he performed a sacrifice on its banks. The
 
 [^470]: "‘Ayin Akbari,' ii. 517."
 
-
-
 by Mr. Bowring. The circuit stated by the Chinese pilgrim could not have been *more* than 35 or 40 miles, at 7 or 8 miles to the yojana, but the circle mentioned by Abul Fazl could not be less than 53 miles, at the usual valuation of the Padshahi kos at 1,1/3miles, and might, at Sir H. Elliot's valuation of Akbar's kos at more than 2½ miles, be extended to upwards of 100 miles. It is possible, indeed, to make these different statements agree very closely by changing the pilgrim's number to 400 *li*, or 10 yojanas, which are equivalent to 40 kos, or 80 miles, and by estimating Abul Fazl's 40 kos at the usual Indian rate of about 2 miles each. I am myself quite satisfied of the necessity for making this correction in the pilgrim's number, as the narrow extent of his circle would not only shut out the equally famous shrines at *Prithudaka*, or *Pchoa* on the Saraswati, and at the *Kausiki*-*Sangam*, or junction of the Kausiki and *Drishadwati* rivers, bnt would actually exclude the Drishadwati itself, which in the *TâmanaPurâna* is specially mentioned as being within the limits of the holy land,—
 
 Dirgh-Kshetre Kurukshetre dirgha Satranta yire  
 Nudyâstire Drishadvatyâh punyayâh Ṣuchirodhasah.  
-
 
 "They were making the great sacrifice of *Satranta*in the wide region of *Kurukshetra* on the banks of the*Drishadwati*, esteemed holy on account of its virtues." This river is also specially mentioned in the *V*ana*Parva* of the *Mahâbhârata* as being the southern boundary of the holy land[^471].
 
@@ -3673,8 +2862,6 @@ Dakshiṇena Sarasvatyâ Drishadvatyuttareṇa-cha
 Ye vasanti Kurukshetre te vasanti trivishtape.
 
 "South from *Saraswati*, and north from *Drishadwati*,
-
-
 
 they who dwell in *Kurukshetra* live in paradise." From these texts it is certain that the holy land of *Kurukshetra* must have extended to the *Drishadwati* in the time of Hwen Thsang, and therefore that his limitation of its circuit to 200 *li*, or 20 kos, must be erroncous. In another passage of the *Mahâbhârata*, the boundaries of the holy land are even more explicitly detailed[^472],—
 
@@ -3696,15 +2883,11 @@ Tandeva nirmitam-desan Brahmâvarttan prachakshate.
 
 [^474]: "Reinaud, 'Mémoire sur l'Inde,' p. 287."
 
-
-
 tanks visit the tank at Thânesar, so that the bather in this tank at the moment of eclipse obtains the additional merit of bathing in all the other tanks at the same time.
 
  This notice by Varâha Mihira carries us back at once to A.D. 500, when the holy tank at Thânesar was in full repute. But the Pauranic legends attribute to it an antiquity long anterior even to the Pândns them. selves. On its banks *Kuru*, the common ancestor of the *Kauravas* and *Pândaras*, sat in ascetic abstraction; here Paraṣu-Râma slew the Kshatriyas, and here Pururavas having lost the nymph *Urvasi*, at length met his celestial bride at Kurukshetra sporting with four other nymphs of heaven in a lake beautiful with lotuses." But the story of the horse-headed *Dadhyanch*, or *Dadhîcha*, is perhaps even older than the ·legend of Pururavas, as it is alluded to in the Rig-Veda[^475]. "With his bones Indra slow ninety times nine*Vritras*." The scholiast explains this by saying that the thunderbolt of Indra was formed of the horse's head with which the Aswins had supplied the headless Dadhyanch, that he might teach his science to them. According to the legend, Dadhyanch during his lifetime had been the terror of the Asuras, who,after his death, multiplied and overspread the whole earth. Then "Indra inquiring what had become of him, and whether nothing of him had been left behind, was told that the horse's head was still in existence, but no one knew where. Search was made for it, and it was found in the lake *Saryanârat* on the skirts of Kurukshetra.” I infer that this is only another name for the great tank of Kurukshetra, and consequently
 
 [^475]: "Wilson's translation, i. 216."
-
-
 
 that the sacred pool is at least as old as the Rig Veda itself. I think it also probable that the *Chakra-tirath*, or spot where Vishnu is said to have taken up his*Chakra*, or discus, to kill Bhishma, may have been the original spot where Indra slew the Vritras, and that the bones, which were afterwards assigned to the Pândus, may have been those of the Vritras of the older legend. In support of this suggestion, I may mention that the *Chakratirath* is close to *Asthipur*, or the "place of bones." In A.D. 634 these bones were shown to the Chinese pilgrim, Hwen Thsang, who records that they were of very large size[^476].All my inquiries for them were fruitless, but the site of *Asthipur*, or "Bone-town," is still pointed out in the plain to the west of the city, near *Aujas*-*ghât*.
 
@@ -3716,8 +2899,6 @@ that the sacred pool is at least as old as the Rig Veda itself. I think it also 
 
 [^477]: "Book 1-13, Hall's edition of Wilson's translation, i. 183."
 
-
-
 named *Prilhudaka* or Prithu's pool, from *daka* or *alaka*water; and the city which he afterwards built on the spot was called by the same name. The shrine of*Prithudaka* has a place in the *Kurukshetra Mahâtmya*, and is still visited.
 
 *Amîn*
@@ -3727,8 +2908,6 @@ named *Prilhudaka* or Prithu's pool, from *daka* or *alaka*water; and the city w
 **2. BAIRÂT.**
 
  According to Hwen Thsang the capital of the kingdom of *Po-li-ye-to-lo*, which M. Reinaud has identified with *Pâryâtra* or *Bairât*, was situated at 500 *li*, or
-
-
 
 83,2/3miles, to the west of Mathura, and about 800 *li*,133,2/3miles, to the south-west of the kingdom of *She*-*to-tu-lo*[^478], that is, of *Saladru*, or the Satlej. The bearing and distance from Mathura point unequivocally to*Bairâl*, the ancient capital of *Matsya* as the city of Hwen Thsang's narrative, although it is upwards of 100 miles further to the south of Kullu than is recorded by the pilgrim. But I have already given an explanation of this discrepancy in my account of the intermediate position of Satadru in Northern India.
 
@@ -3740,13 +2919,9 @@ named *Prilhudaka* or Prithu's pool, from *daka* or *alaka*water; and the city w
 
 [^480]: " Reinaud, 'Fragments,' p. 106; Dowson's edit. of Sir H. Elliot, i. 58."
 
-
-
 sangs, or 63 miles; 2nd, *Sakina*, 17 parasangs, or 59½ miles; 3rd, *Jandara*, 18 parasangs, or 63 miles; 4th,*Rajauri*, either 15 or 17 parasangs, 54 or 59½ miles, and 5th, Bazana, or Narána, 20 parasangs, or 70 miles. As the direction of the first stage is specially recorded to have been to the south-west of Kanoj, it may be at once identified with the *Assai Ghât* on the Jumna, 6 miles to the south of Etawa, and about 60 miles to the south-west of Kanoj. The name of the second stage is written_(![](../books_images/U-IMG-1698918739Screenshot2023-11-02152124.png)) *Sahina*, for which by the simple shifting of the diacritical points, I propose to read*_(![](../books_images/U-IMG-1698918786Screenshot2023-11-02152212.png))Suhania*, which is the name of a very large and famous ruined town situated 25 miles to the north of Gwalior. Its distance from the Assai Ghât is about 56 miles. The third stage named *Jandara*by M. Reinaud, and Chandra by Sir Henry Elliot, Itake to be *Hindon,*reading_(![](../books_images/U-IMG-1698919071Screenshot2023-11-02152700.png))for _(![](../books_images/U-IMG-1698919107Screenshot2023-11-02152742.png)),Its distance from *Suhaniya* by the Khetri Ghât on the Chambal river is about 70 miles. The fourth stage, named Rajori, still exists under the same name, 12 miles to the south-west of *Mâcheri*, and about 50 miles to the north-west of *Hindon*. From thence to Narainpur aud Bairât, the road lies altogether through the hills of Alwar or Mâcheri, which makes it difficult to ascertain the exact distance. By measurements on the lithographed map of eight miles to the inch, I make the distance to be about 60 miles, which is sufficiently near the 20 parasangs, or 70 miles, of Abu Riliân's account.
 
  According to the other itineraries of Abu Rihân,*Narâ**na* was 25 parasangs to the north of Chitor in Mewar, 50 parasangs to the cast of Multan, and 60
-
-
 
 parasangs to the north-cast of Anhalwâra[^481].The bearings of these places from Bairât are all sufficiently exact, but the measurements are more than one-half too short. For the first distance of 25 parasangs to Chitor, I would propose to read 65 parasangs, or 227 miles, the actual distance by the measured routes of the quartermaster-general being 217¾miles. As the distance of Chitor is omitted in the extract from Abu Rihân which is given by Rashid-ud-din, it is probable that there may have been some omission or confusion in the original of the Târikh-i-Hind from which he copied. The erroneous measurement of 50 parasangs to Multan is perhaps excusable, on the ground that the direct route through the desert being quite impassable for an army, the distance must have been estimated. The error in the distance of Anhalwâra I would explain by referring the measurement of 60 parasangs to Chitor, which lies about midway between Bairât and Anhalwâra. From a comparison of all these different itineraries, I have no hesitation whatever in identifying *Bazâna* or *Narâna*, the capital of*Karzât* or *Guzrât*, with *Nârâyanapura*, the capital of*Bairâl* or *Fairât*. In Ferishta the latter name is written either *Kibrât _(![](../books_images/U-IMG-1699024650Screenshot2023-11-03204220.png))*as in Dow, or *Kairât_(![](../books_images/U-IMG-1699024721Screenshot2023-11-03204735.png))*as in Briggs, both of which names are an easy misreading of_(![](../books_images/U-IMG-1699024756Screenshot2023-11-03204745.png))*Wairât* or *V**irât*, as it would have been written by the Muhammadans.
 
@@ -3754,21 +2929,15 @@ parasangs to the north-cast of Anhalwâra[^481].The bearings of these places fro
 
 * Virât*, the capital of *Malsya*, is celebrated in Hindu Legends as the abode of the Five Pandus during their exile of 12 years from Dilli or Indraprastha. The country was also famous for the valour of its people, as Manu directs that the van of an army should be
 
-
-
 composed of "men born in Kurukshetra near Indraprastha, in *Matsya* or *Virâla*, in Panchâla or Kânya Kubja, and in Surasena of the district of Mathura[^482].” The residence of Bhim Pandu is still shown on the top of a long low rocky hill about one mile to the north of the town. The hill is formed of enormons blocks of coarse gritty quartz, which are much weatherworn and rounded on all the exposed sides. Some of these blocks have a single straight face sloping inwards, the result of a natural split, of which advantage has been taken to form small dwellings by the addition of rough stone walls plastered with mud. Such is the*Bhim-gupha* or Bhim's cave, which is formed by rough walls added to the overhanging face of a huge rock about 60 feet in diameter and 15 feet in height. Similar rooms, but of smaller size, are said to have been the dwellings of Bhim's brothers. The place is still occupied by a few Brahmans, who profess to derive only a scanty subsistence from the offerings of pilgrims, a statement which is rather belied by their flourishing appearance. Just below Bhim's cave, a wall has been built across a small hollow to retain the rain water, and the fragments of rock have been removed from a fissure to form a tank, about 15 feet long by 5 feet broad and 10 feet deep; but at the time of my visit, on the 10th of November, it was quite dry.
 
 [^482]: "Haughton's translation, vii. 193."
 
  The present town of Bairât is situated in the midst of a circular valley surrounded by low bare red hills, which have long been famous for their copper mines. It is 105 miles to the south-west of Delhi, and 41 miles to the north of Jaypur. The main entrance to
 
-
-
 the valley is on the north-west along the bank of a small stream which drains thic basin, and forms one of the principal feeders of the *Bân Gangâ*. The valley is about 2½ miles in diameter, and from 7½ to 8 miles in circuit. The soil is generally good, and the trees, and more especially the tamarinds, are very fine and abundant. Bairât is situated on a mound of ruins, about one mile in length by half a mile in breadtlı, or upwards of 2½ miles in circuit, of which the present town does not occupy more than one-fourth. The surrounding fields are covered with broken pottery and fragments of slag from the ancient copper-works, and the general aspect of the valley is of a coppery red colour. The old city, called *Bairâtnagar*, is said to have been quite deserted for several centuries until it was repeopled about 300 years ago, most probably during the long and prosperous reign of Akbar. The town was certainly in existence in Akbar's time, as it is mentioned by Abul Fazl in the 'Ayin Akbari,' as possessing very profitable copper mines. A number of large mounds about half a mile to the east, and immediately under the hill, are said to have formed part of the old city; but, both from their position and appearance, I am inclined to think that they must be the remains of some large religious establishment. At present the surface remains consist of rough stone foundations only, as the whole of the squared stones have been used in building the houses of the modern
 
  The number of houses in Bairât is popularly reckoned at 1400, of which 600 are said to belong to Gaur Brahmans, 400 to Agarwâl Baniyas, 200 to Minas, and the remaining 200 to various other races. Allow-
-
-
 
 ing the usual average of 5 persons to each house, the population of Bairât will amount to 7000 persons.
 
@@ -3778,8 +2947,6 @@ ing the usual average of 5 persons to each house, the population of Bairât will
 
  addition to the 400 monks.The next historical notice of Bairât occurs during
 
-
-
 the reign of Mahmud of Ghazni, who invaded the country in A.II. 400, or A.D. 1009, when the Raja submitted. But his submission was of little avail, as his country was again invaded in the spring A.11. 404, or A.D. 1014, when the Hindus were defeated after a bloody conflict. According to Abu Rihân the town was destroyed, and the people retired far into theinterior[^484].By Ferishta this invasion is assigned to the year A.II. 413, or A.D. 1022, when the king hearing that the inhabitants of two hilly tracts named *Kairât*and *Nârdin* (*or Bairât* and *Narâyan*) still continued the worship of idols (or lions in some manuscripts) resolved to compel them to embrace the Muhammadan faith[^485]. The place was taken and plundered by Amir-Ali, who found an ancient stone inscription at Nârâyan, which was said to record that the temple of Nârâyan had been built 40,000 years previously. As this inscription is also mentioned by the contemporary historian Otbi, we may accept the fact of the discovery of a stone record in characters so ancient that the Brahmans of that day were unable to read them. I think it highly probable that this is the famous inscription of Asoka that was afterwards discovered by Major Burt on the top of a hill at Bairât, and which now graces the muscum of the Asiatic Society in Calcutta.
 
 [^484]: "Dowson's edition of Sir II. Elliot's Muhamm. Hist., i. 59."
@@ -3787,8 +2954,6 @@ the reign of Mahmud of Ghazni, who invaded the country in A.II. 400, or A.D. 100
 [^485]: "Briggs's 'Ferishta,' i. 64."
 
  In the seventh century the kingdom of Bairât was 3000*li*, or 500 miles, in circuit. It was famous for its sheep and oxen, but produced few fruits or flowers. This is still the case with Jaypur to the south of Bairât, which furnishes most of the sheep required for the great Muhammadan cities of Delhi and Agra, and their English
-
-
 
 garrisons. Bairât, therefore, may have included the greater part of the present state of Jaypur. Its precise boundaries cannot be determined; but they may be fixed approximately as extending on the north from Jhunjnu to Kot Kâsim, 70 miles; on the west from Jhunjnu to Ajmer, 120 miles; on the south from Ajmer to the junction of the Banâs and Chambal, 150 miles; and on the east from the junction to Kot Kasim, 150 miles; or altogether 490 miles.
 
@@ -3800,11 +2965,7 @@ garrisons. Bairât, therefore, may have included the greater part of the present
 
  The Sanskrit name of the country is *Srughna*, which in the spoken dialects becomes *Sughan* and *Sugh*, as it
 
-
-
 is called at the present day. The village of *Sugh*occupies one of the most remarkable positions that I met with during the whole course of my researches. It is situated on a projecting triangular spur of high land, and is surrounded on three sides by the bed of the old Jumna, which is now the western Jumna canal. On the north and west faces it is further protected by two deep ravines, so that the position is a readymade stronghold, which is covered on all sides, except the west, by natural defences. In shape it is almost trian- gular, with a large projecting fort or citadel at each of the angles. The site of the north fort is now ocenpied by the castle and village of Dyâlgarh. The village of Mândalpur stands on the site of the south-cast fort, and that of the south-west is unoccupied. Each of these forts is 1500 feet long, and 1000 feet broad, and cach face of the triangle which connects them together is upwards of half a mile in length, that to the cast being 4000, and those to the north-west and south-west 3000 feet cach. The whole circuit of the position is therefore 22,000 feet, or upwards of 4 miles, which is considerably more than the 34 miles of Hwen Thsang's measurement. But as the north fort is separated from the main position by a deep sandy ravine called the*Rohara Nala*, it is possible that it may have been unoccupied at the time of the pilgrim's visit. This would reduce the circuit of the position to 19,000 feet, or upwards of 3½ miles, and bring it into accord with the pilgrim's measurement. The small village of Sugh occupied the west side of the position, and the small town of Buriya lies immediately to the north of Dyalgarh. The occupied houses, at the time of my visit, were as follows:—Mândalpur 100, Sugh 125,
-
-
 
 Dyâlgarh 150, and Buriya 3500, or altogether 3875 houses, containing a population of about 20,000 souls.
 
@@ -3812,15 +2973,11 @@ Dyâlgarh 150, and Buriya 3500, or altogether 3875 houses, containing a populati
 
  According to Hwen Thsang, the kingdom of *Srughna*
 
-
-
 was 6000 *li*, or 1000, miles in circuit. On the cast it extended to the Ganges, and on the north to a range of lofty mountains, while the Jumna flowed through the midst of it. From these data it would appear that *Srughna* must have comprised the hill states of Sirmor and Garhwâl, lying between the Giri river and the Ganges, with portions of the districts of Ambala and Saharanpur in the plains. But the cirenit of this tract does not exceed 500 miles, which is only one half of Iwen Thsang's estimate. His excess I would attribute chiefly to the difference between direct measurements on the map, and the actual road distances in a mountainous country. This would increase the boundary line by about one-half, and make the whole circuit 750 miles, which is still far short of the pilgrim's estimate. But there is an undoubted error in his distance between the Jumna and the Ganges, which he makes 800 *li*, or 133 miles, instead of 300 *li*, or 50 miles, which is the actual distance between the two rivers from the foot of the hills down to the parallel of Delhi. As it is probable that this mistake was doubled by applying the same exaggerated distance to the northern frontier also, its correction is of importance, as the double excess amounts to 167 miles. Deducting this excess, the circuit of*Srughna* will be only 833 miles according to Hwen Thsang's estimate, or within 83 miles of the probable measurement.
 
 **4. MADÂWAR.**
 
  From Srughna the Chinese pilgrim proceeded to*Mo-li-pu-lo*, or *Madipura*, which M. Vivien de St. Martin has identified with *Mand**â**war*, a large town in
-
-
 
 Western Rohilkhand, near Bijnor. I had previously made the same identification myself, and I have since been able to confirm it by a personal examination of the site[^468].The name of the town is written **मडावर***Maḍâwar*, the Mundore of the maps. According to Johari Lâl, *Chaodri* and *Kanungo* of the place, Maḍâwar was a deserted site in Samvat 1171, or A.D. 1114, when his ancestor Dwârka Dâs, an Agarwâla Baniya, accompanied by Katâr Mall, came from Morári in the Mirat district, and occupied the old mound. The present town of Maḍâwar contains 7000 inhabitants, and is rather more than three-quarters of a mile in length by half a mile in breadth. But the old mound, which represents the former town, is not more than half a mile square. It has an average height of 10 feet above the rest of the town, and it abounds with large bricks, which are a sure sign of antiquity. In the middle of the mound there is a ruined fort 300 fect square, with an elevation of 6 or 7 feet above the rest of the city. To the north-east, distant about one mile from the fort there is a large village on another mound called *Madiya* ; and between the two there is a large tank called *Kûnda Tâl*, surrounded by numerous small mounds which are said to be the remains of buildings. Originally these two places would appear to have formed one large town, about 11 mile in length, by a mile in breadth or just 3½ miles in circuit, which agrees very well with Hwen Thsang's measurement of 20 *li*, or 3,1/3miles.
 
@@ -3828,13 +2985,9 @@ Western Rohilkhand, near Bijnor. I had previously made the same identification m
 
  It seems probable that the people of Maḍâwar, as pointed out by M. Vivien de St. Martin, may be the Mathæ of Megasthenes, who dwelt on the banks of the
 
-
-
 Erineses. If so, that river must be the *Mâlini*. It is true that this is but a small stream; but it was in a sacred grove on the bank of the Mâlini that *Sakuntala*was brought up, and along its course lay her route to the court of Dushmanta at Hastinapur. While the lotus floats on its waters, and while the Chakwâ calls to its mate on the bank, so long will the little Mâlini live in the verse of Kâlidâs.
 
  According to Hwen Thsang, the kingdom of *Maḍipura* was 6000 *li*, or 1000 miles, in circuit; but this estimate, as I have already pointed out, must certainly include the two neighbouring states of *Govisana* and*Ahichhatra*, as they are also in Rohilkhand, and at so short a distance that *Maḍipur* alone must have been avery small district, confined to the tract between the Ganges and Râmgangâ, of not more than 250 miles in circuit. But even with the extended limits now proposed, which would include the whole of the country lying to the cast of the Ganges from Haridwar to Kanoj as far as the bank of the Ghâgra near Khairigarh, the circuit would not be increased to more than 650 or 700 miles. This is still too small; but as some large allowance must be made on the northern mountain boundary for the difference between direct measurement on the map and the actual road distance, I think that the true circuit may be not less than 850 miles. The king of Maḍâwar was a *Sin-to-lo* or Sudra, who worshipped the Devas, and cared nothing for Buddhism. As Govisana and Ahichhatra were without kings, I presume that they were tributary to Madâwar, and that the cirenit of the territory recorded. by Hwen Thsang was the political boundary of the whole State, and not that of the district proper.
-
-
 
 *Mâyâpura, or Haridwâr.*
 
@@ -3842,8 +2995,6 @@ Erineses. If so, that river must be the *Mâlini*. It is true that this is but a
 betweenthe Gangâdwâra temple and the hills; but as this ground is now covered with the houses of Haridwâr, it is quite possible that a channel may once have existed, which has since been gradually filled up, and built upon. There is therefore no physical difficulty which could have prevented the river from taking this westerly course, and we must either accept Hwen Thsang's statement or adopt the alternative, that he has made a
 
 [^488]: "Julien's 'Iliouen Thsang,' ii. 230. See Map No. X."
-
-
 
 mistake in placing Mayûra and Gangâdwâra to the cast of the Ganges.
 
@@ -3855,39 +3006,25 @@ mistake in placing Mayûra and Gangâdwâra to the cast of the Ganges.
 
  Hwen Thisang describes the town as about 20 *li*, or3,1/3miles, in circuit, and very populous. This account corresponds very closely with the extent of the old city of Mayapura, as pointed out to me by the people.
 
-
-
 These traces extend from the bed of a torrent whiclı enters the Ganges near the modern temple of Sarvvanâth to the old fort of Raja Ben, on the bank of the canal, a distance of 7500 feet. The breadth is irregular, but it could not have been more than 3000 feet at the south end, and, at the north end, where the Siwâlik hills approach the river, it must have been contracted to 1000 feet. These dimensions give a circuit of 19,000 feet, or rather more than 3½ miles. Within these limits there are the ruins of an old fort, 750 feet square, attributed to Raja Ben, and several lofty mounds covered with broken bricks, of which the largest and most conspicuous is immediately above the canal bridge. There are also three old temples dedicated to *Nárayana-sila*, to *Mâyâ-Devi*, and to *Bhairava.* The celebrated ghat called the *Pairi*, or "Feet Ghat," is altogether outside these limits, being upwards of 2000 fect to the north-east of the Sarvvanâth temple. The antiquity of the place is undoubted, not only from the extensive foundations of large bricks which are everywhere visible, and the numerous fragments of ancient sculpture accumulated about the temples, but from the great variety of the old coins, similar to those of Sugh, which are found here every year.
 
  The name of *Haridwára*, or *“Vishnu's Gate,"* would appear to be comparatively modern, as both Abu Rihân and Rashid-ud-din mention only *Gangá-dwâra.* Kâlidâs also, in his 'Meghaduta,' says nothing of Haridwâra, although he mentions Kankhal; but as his contemporary Amarasinha gives *Vishnupadi* as one of the synonyms of the Ganges, it is certain that the legend of its rise from Vishnu's foot is as old as the fifth
-
-
 
 century.I infer, however, that no temple of the Vishnupada had been erected down to the time of Abu Rihân. The first allusion to it of which I am aware is by [Sharif-ud-din](http://# "History of Timur,' translated by Petis de la Croix, iii. 131."),the historian of Timur, who says that the Ganges issues from the hills by the pass of *Cou-pele*, which I take to be the same as *Koh-pairi*, or the "Hill of the Feet" (of Vishnu), as the great bathing ghat at the Gangâdwâra temple is called *Pairi Ghat*, and the hill above it *Pairi Pahâr*. In the time of Akbar, the name of Haridwâr was well known, as Abul Fazl speaks of "Mâyâ, vulgo Haridwâr, on the Ganges," as being considered holy for 18 kos in [length](http://# "'Ayin Akbari,' ii. 516."). In the next reign the place was visited by Tom Coryat, who informed Chaplain Terry that at “*Haridwára*, the capital of *Siba*, the Ganges flowed amongst large rocks with a pretty full current." In 1796 the town was visited by Hardwicke, who calls it a small place situated at the base of the hills. In 1808, Raper describes it as very inconsiderable, having only one street, about 15 feet in breadth, and a furlong and a half (or three-eighths of a mile) in length. It is now mnch larger, being fully three-quarters of a mile in length, but there is still only one street.
 
  Hwen Thsang notes that the river was also called [*Fo-shuï*](http://# " Julien's Hiouen Thsang,' ii. 217."), which M. Stanislas Julien translates as *l' canqui porte bonheur*, and identifies with *Mahâbhadrâ*, which is one of the many well-known names of the Ganges. He mentions also that bathing in its waters was sufficient to wash away sin, and that if corpses were thrown into the river the dead would escape the
 
-
-
-
-
-punishment of being born again in an inferior state, which was due to their crimes. I should prefer reading *Subhâdra*, which has the same meaning as Mahâbhadrâ, as Ktesias mentions that the great Indian river was named *ὕπαρχος*, which he translates by *φέρων πάντα τὰ [ἀγαθὰ](http://# "CtesiæIndica, Excerp. ab Photio, 19, elit. Lion.").*Pliny quoting Ktesias calls the river *Hypobarus*, which he renders by "omnia in se ferre [bona](http://॑॑॑# "Hist. Nat. xxxvii. 11. ")." A nearly similar word, *Oibares*, is rendered by Nicolas of Damascus as *áyaθáyyελos*. I infer, therefore, that the original name obtained by Ktesias was most probably *Subhadrâ.*
+punishment of being born again in an inferior state, which was due to their crimes. I should prefer reading *Subhâdra*, which has the same meaning as Mahâbhadrâ, as Ktesias mentions that the great Indian river was named *ὕπαρχος*, which he translates by *φέρων πάντα τὰ [ἀγαθὰ](http://# "CtesiæIndica, Excerp. ab Photio, 19, elit. Lion.").*Pliny quoting Ktesias calls the river *Hypobarus*, which he renders by "omnia in se ferre [bona](॑॑# "Hist. Nat. xxxvii. 11. ")." A nearly similar word, *Oibares*, is rendered by Nicolas of Damascus as *áyaθáyyελos*. I infer, therefore, that the original name obtained by Ktesias was most probably *Subhadrâ.*
 
 5. BRAHMAPURA.
 
  On leaving Madâwar, Hwen Thsang travelled north-ward for 300 *li*, or 50 miles, to *Po-lo-ki-mo-pu-lo*, which M. Julien correctly renders as *Brahmapura*. Another reading gives [*Po-lo-hi-mo-lo*](http://# "Julien's 'Hiouen Thsang,' i. 431, and ii. 231."), in which the syllable pu is omitted, perhaps by mistake. The northern bearing is certainly erroneous, as it would have carried the pilgrim across the Ganges and back again into Srughna. We must therefore read north-east, in which direction lie the districts of Garhwâl and Kumaon that once formed the famous kingdom of the *Katyuri* dynasty. That this is the country intended by the pilgrim is proved by the fact that it prodneed copper, which must refer to the well-known copper mines of Dhanpur and Pokhri in Garhwâl, which have been worked from a very early date. Now the ancient capital of the Katyuri Rajas was at *Lakhanpur* or *Vairât-pattan* on the Râmgangâ river, about 80 miles in a direct line from Madâwar. If we might take the measurement
-
-
 
 from Kot-dwâra, at the foot of the hills on the north-east frontier of Madâwar, the distance would agree with the 50 miles recorded by Hwen Thsang. It occurs to me, however, as a much more probable explanation of the discrepancy in the recorded bearing and distance that they must properly refer to *Govisana*, the next plaee visited by Hwen Thsang, from which *Bairât* lics exactly 50 miles due north.
 
  According to the history of the country, *Vairât-pattan* or *Lakhanpur* was the ancient capital, as the Sombansi dynasty of Kumaon and the Surajbansi dynasty of Garhwâl date only from the *Samvat* years 742 and 745, which, even if referred to the era of Vikramaditya, are posterior to the time of Hwen Thsang. I think, therefore, that Brahmapura must be only another name for *Vairât-pattan*, as every other capital in these provinces is of much later date. Srinagar on the Alakananda river was founded so late as s. 1415, or A.D. 1358, by Ajaya Pala of Garhwâl, and is besides nearly as far from Madâwar as *Vairât-pattan*; while *Chândpur*, the earlier capital of Garhwâl, is still more distant, and dates only from s. 1216 or A.D. 1159. The climate is said to be slightly cold, and this also agrees with the position of *Bairất*, which is only 3339 feet above the sea.
 
  Hwen Thsang describes the kingdom of Brahmapuraas 4000 *li*, or 667 miles, in [circuit](http://# "Julien's 'Hiouen Thsang,' ii. 231. See Map No. X.").It must therefore, have included the whole of the hill-country between the Alakananda and Karnâli rivers, which is now known as British Garhwâl and Kumaon, as the latter district, before the eonquests of the Gorkhas, extended to the Karnâli river. The boundary of this tract measured on the map is between 500 and
-
-
-
-
 
 600 miles, or very nearly equal to the estimate of the Chinese pilgrim.
 
@@ -3897,15 +3034,9 @@ from Kot-dwâra, at the foot of the hills on the north-east frontier of Madâwar
 
  [Bishop Hebert](http://# "'Travels in India,' ii. 246.") describes Kâshipur as a "famous place of Hindu pilgrimage which was built by a divinity named *Kashi* 5000 years ago." But the good bishop was grossly deceived by his informant, as it is well known that the town is a modern one, it having been built about A.D. 1718 by *Kâshi-nâth*, a follower
 
-
-
-
-
 of Raja Devi-Chandra of Champâwat in Kumaon. The old fort is now called *Ujain*; but as that is the name of the nearest village, it seems probable that the truename has been lost. The place itself had been deserted for several hundred years before the occupation of Kashipur; but as the holy tank of *Dron-sâgar* had never ceased to be visited by pilgrims, I presume that the name of the tank must have gradually superseded that of the fort. Even at the present day the name of *Dron-Sâgar* is just as well known as that of Kâshipur.
 
  The old fort of Ujain is very peculiar in its form, which may be best compared to the body of a guitar. It is 3000 feet, in length from east to west, and 1500 feet in breadth, the whole circuit being upwards of 9000 feet, or rather less than 2 miles. Hwen Thsang describes the circuit of Govisana as about 12,000 feet, or nearly 2½ miles, but in this measurement he must have included the long mound of ruins on the south side, which is evidently the remains of an ancient suburb. By including this mound as an undoubted part of the old city, the circuit of the ruins is upwards of 11,000 feet, or very nearly the same as that given by Hwen Thsang. Numerous groves, tanks, and fish-ponds still surround the place. Indeed the trees are particularly luxuriant, owing to the high level of the water, which is within 5 or 6 feet of the surface. For the same reason the tanks are numerous and always full of water. The largest of these is the *Dron-sâgar*, which, as well as the fort, is said to have been constructed by the five Pandu brothers for the use of their teacher Drona. The tank is only 600 feet square, but it is esteemed very holy, and is much frequented by pilgrims on their way to the source of the Ganges. Its high banks are
-
-
 
 covered with *Sati* monuments of recent date. The walls of the fort are built of large massive bricks, 15 by 10 by 2½ inches, which are always a sure sign of antiquity. The general height of the walls is 30 feet above the fields; but the whole is now in complete ruin, and covered with dense jangal. Shallow ditches still exist on all sides except the cast. The interior is very uneven, but the mass has a mean height of about 20 feet above the country. There are two low openings in the ramparts, one to the north-west and the other to the south-west, which now serve as entrances to the jangal, and which the people say were the old gates of the fort.
 
@@ -3915,33 +3046,23 @@ covered with *Sati* monuments of recent date. The walls of the fort are built of
 
  From Govisana Hwen Thsang proceeded to the south-east 400 *li*, or 66 miles, to *Ahi-chi-ta-lo*, or [*Ahichhatra*](http://# "Julien's 'Hiouen Thsang,' ii. 234. See Map No. X."). This once famous place still preserves its ancient name as Ahichhatr, although it has been
 
-
-
 deserted for many centuries. Its history reaches back to B.C. 1430, at which time it was the capital of northern *Pânchâla*. The name is written *Ahi-kshetra*, as well as *Ahi-chhatra*, but the local legend of Adi Raja and the Nâga, who formed a canopy over his head when asleep, shows that the latter is the correct form. This grand old fort is said to have been built by *Raja Adi*, an *Ahir*, whose future clevation to sovereignty was foretold by *Drona*, when he found him sleeping under the guardianship of a serpent with expanded hood. The place is mentioned by Ptolemy as *Αδίσάδρα*, which proves that the legend attached to the name of *Adi* is at least as old as the beginning of the Christian era. The fort is also called *Adikot*, but the more common name is *Ahichhatr*.
 
  According to the 'Mahâbhârata,' the great kingdom of *Pânchâla* extended from the IIimâlaya mountains to the Chambal river. The capital of north *Pânchâla*, or Rohilkhand, was *Ahi-chhatra*, and that of south Pánchála, or the Central Gangetic Doab, was *Kampilya*, now *Kampil*, on the old Ganges between Budaon and Farokhabad. Just before the great war, or about 1430 B.C., the king of *Pânchâla*, named *Drupada*, was conquered by *Drona*, the preceptor of the five Pândus. *Drona* retained north *Pânchâla* for himself, but restored the southern half of the kingdom to *Drupada*. According to this account, the name of *Ahi-chhatra*, and consequently also the legend of *Adi* Raja and the serpent, are many centuries anterior to the rise of Buddhism.
 
  It would appear, however, that the Buddhists must have adopted and altered the legend to do honour to their great teacher, for Hwen Thsang records that out-
 
-
-
 side the town there was a *Nâga-hrada*, or serpent tank," near which Buddha had preached the law for seven days in favour of the serpent king, and that the spot was marked by a stupa of [King Asoka](http://# " Julien's 'Hiouen Thsang,' ii. 235.").Now, as the only existing stupa at this place is called *Chattr,* I infer that the Buddhist legend represented the *Nâga* king after his conversion as forming a canopy over Buddha with his expanded hood. I think, also, that the stupa erected on the spot where the conversion took place would naturally have been called *Ahi-chhatra*, or the "serpent canopy." A similar story is told at Buddha Gaya of the Nâga King *Muchalinda*, who, with his expanded hood, sheltered Buddha from the shower of rain produced by the malignant demon *Mûra*.
 
  The account of *Ahi-chhatra* given by Hwen Thsang is unfortunately very meagre, otherwise we might most probably have identified many of the existing ruins with the Buddhist works of an early age. The capital was 17 or 18 *li*, or just three miles in circuit, and was defended by natural obstacles.It possessed 12 monasteries, containing about 1000 monks, and 9 Brahmanical temples, with about 300 worshippers of *Iswara Deva* (Siva), who smeared their bodies with ashes. The stupa near the serpent tank, outside the town, has already been mentioned. Close beside it, there were four small stupas built on the spots where the four previous Buddhas had either sat or walked. Both the size and the peculiar position of the ruined fortress of *Ahi-chhatra* agree so exactly with Hwen Thsang's description of the ancient *Ahi-chhatra*, that there can be no doubt whatever of their identity. The circuit of the walls, as they stand at present, is 19,400
-
-
 
 fect, or upwards of 3½ miles. The shape may be described as an irregular right-angled triangle, the west side being 5600 feet in length, the north side 6400 feet, and the long side to the south-cast 7400 fect. The fort is situated between the *Rám Ganga* and *Gánghan* rivers, which are both difficult to cross; the former on account of its broad sands, the latter on account of its extensive ravines. Both on the north and cast the place is rendered almost inaccessible by the *Piria Nala*, a difficult ravine, with steep broken banks and numerous deep pools of water, quite impassable by wheeled vehicles. For this reason the eart road to Bareli, distant only 18 miles due cast, is not less than 23 miles. Indeed the only accessible side of the position is the north-west, from the direction of *Lakhnor*, the ancient capital of the Katchria Rajputs. It therefore fully merits the description of Hwen Thsang as being defended by "natural obstacles." *Ahi-chhatra*is only seven miles to the north of *Aonla*, but the latter half of the road is rendered difficult by the ravines of the *Gánghan* river. It was in this very position, in the jangals to the north of *Aonla*, that the Katchria Rajputs withstood the Muhammadans under [Firuz Tughlak](http://# "Briggs's Ferishta,' i. 457.").
 
 * Ahi-chhatra* was first visited by Captain Hodgson, the surveyor, who describes the place as "the ruins of an ancient fortress several miles in circumference, which appears to have had 34 bastions, and is known in the neighbourhood by the name of the "Pândus Fort." According to my survey, there are only 32 towers, but it is quite possible that one or two may have escaped my notice, as I found many parts so 
 
-
-
 overgrown with thorny jangal as to be inaccessible. The towers are generally from 28 to 30 feet in height, excepting on the west side, where they rise to 35 feet. A single tower near the south-west corner is 47 feet in height above the road outside. The average height of the interior mass is from 15 to 20 feet. Many of the present towers, however, are not ancient, as an attempt was made by Ali Muhammad Khan, about 200 years ago, to restore the fort with a view of making it his stronghold in case he should be pushed to extremities by the King of Delhi. The new walls are said to have been 1¼*gaz* thick, which agrees with my measurements of the parapets on the south-eastern side, which vary from 2 feet 9 inches to 3 feet 3 inches in thickness at top. According to popular tradition, Ali Muhammad expended about a *karor* of rupees, or one million pounds sterling, in this attempt, which he was finally obliged to abandon on account of its costliness. I estimate that he may perhaps have spent about one lakh of rupees, or £10,000, in repairing the ramparts and in rebuilding the parapets. There is an arched gateway on the south-east side, which must have been built by the Musalmans, but as no new bricks were made by them, the cost of their work would have been limited to the labour alone. The ramparts are 18 fect thick at the base in some places, and between 14 and 15 feet in others.
 
  The district of *Ahichhatra* was about 3000 *li*, or 500 miles, in circuit. With these large dimensions I believe. that it must have comprised the eastern half of Rohil-khand, lying between the northern hills and the Ganges, from Pilibhit on the west to Khairabad near the Ghâgra on the cast. This tract has a boundary of 450 miles measured direct, or about 500 miles by road distance.
-
-
 
 S. PILOSHANA.
 
@@ -3949,20 +3070,11 @@ S. PILOSHANA.
 
  *Soron* is a large town on the right, or western, bank of the Ganges, on the high-road between Barcli and Mathura. The place was originally called *Ukala Kshetra*; but after the demon *Hiranyaksha* had been killed by the *Varâha Avatar,* or Boar incarnation of Vishnu, the name was changed to *Sūkara* Kshetra, or
 
-
-
-
-
 "the place of the good deed." The ancient town is represented by a ruined mound called the *Kilah*, or fort," which is one quarter of a mile in length from north to south, and somewhat less in breadth. It stands on the high bank of the old bed of the Ganges, which is said by some to have flowed immediately under it so late as 200 years ago. The modern town stands at the foot of the old mound on the west and south sides, and probably contains about 5000 inhabitants. There are no dwellings on the old mound, which is occupied only by the temple of *Sita-Râmji* and the tomb of *Shekh Jamâl*; but it is covered with broken bricks of large size, and the foundations of walls can be traced in all directions. The mound is said to be the ruins of a fort built by Raja *Somadatta* of Soron many hundred years ago. But the original settlement of the place is very much older, being attributed to the fabulous *Raja Vena Chakravartti*, who plays such a conspicuous part in all the legends of North Bihar, Oudh, and Rohilkhand.
 
  The great mound of ruins called *Atranji-Khera* is situated on the right or west bank of the *Kâli Nadi*, four miles to the south of *Karsâna*, and eight miles to the north of *Eyta*, on the Grand Trunk Road. It is also 15 miles to the south of Soron, and 43 miles to the north-west of *Sankisa* in a direct line, the road distance being not less than 48 or 50 miles. In the 'Ayin Akbari' Atranji is recorded as one of the parganahs of Kanoj, under the name of [*Sikandarpur Atreji*](http://# " Gladwyn gives "). Sikandarpur, which is now called *Sikandrâbâd*, is a village on the left bank of the *Kâli Nadi* opposite Atranji. From this it would appear that Atranji was  
 
-
-
-
 300 still occupied in the reign of Akbar. The parganah was afterwards called *Karsâna*, but it is now known by the name of *Sahâwar Karsâna*, or of *Sahâwar* only. The name given by the Chinese pilgrim is *Pi-lo-shan-na*, for which M. Julien proposes to read *Virasana*. So far back as 1848 I pointed out that, as both *pil* and kar are Sanskrit names for an elephant, it was probable that *Pilosana* might be the same as *Karsâna*, the large village which I have already mentioned as being four miles to the north of *Atranji Khera*. The chief objection to this identification is the fact that *Karsâna* is apparently not a very old place, although it is sometimes called *Deora Karsâna*, a name which implies the possession of a temple of note at some former period. It is, however, possible that the name of *Karsâna* may oncehave been joined to *Atranji* in the same way that we find *Sikandarpur Atreji* in the '*Ayin Akbari*.' As the identification of *Karsâna* with *Pilosana* is purely conjectural, it is useless to hazard any more speculations on this subject. The bearing and distance from *Sankisa*, as recorded by Hwen Thsang, point to the neighbourhood of *Sirpura*, near which there is a small village called *Pilkani* or *Pilokuni*, which is the *Pilakhoni* of our maps. It is, however, a very petty place; and although it boasts of a small *khera*, or mound of ruins, it cannot, I think, have ever been more than one-fourth of the circuit of two miles which Hwen Thsang attributes to *Pi-lo-shan-na*. But there are two strong points in its favour-namely, 1st, its position, which agrees both in bearing and distance with the Chinese pilgrim's account; and 2nd, its name, which is almost identical with the old name, *sh* being very commonly pronounced as *kh*, so that Hen
-
-
 
 Thsang's *Piloshana* would usually be pronounced *Pi-lokhana.*
 
@@ -3970,13 +3082,9 @@ Thsang's *Piloshana* would usually be pronounced *Pi-lokhana.*
 
 * *The only objection to the identification of *Atranji* with Piloshana is the difference between the distance of 200 *li*, or 33 miles, as stated by Hwen Thsang, and the actual distance of 43 miles direct, or about 48 or 50 miles by road. I have already suggested the possibility of there being some mistake in the recorded distance of Hwen Thsang, but perhaps an equally probable explanation may be found in the difference of the length of the *yojana.* Hwen Thsang states that he allowed 40 Chinese *li* to the *yojana*; but if the old *yojana* of Rohilkhand differed from that of the central Doâb as much as the kos of these districts now differ, his distances would have varied by half a mile in every kos, or by two miles in every *yojana*, as the Rohilkhand kos is only 1½ mile, while that of the Doâb is two miles; the latter being one-third greater. Now if we apply this difference to Hwen Thsang's measurement of 200 *li*, or 33 miles, we increase the distance at once to 44 miles, which agrees with the direct measured distance on the map. I confess, however, that I am
 
-
-
 rather inclined to believe in the possibility of there being a mistake in Hwen Thsang's recorded distance, as I find exactly the same measurement of 200 li given as the distance between *Sankisa* and *Kanoj*. Now, the two distances are precisely the same, that is, *Sankisa* is exactly midway between *Atranji* and *Kanoj*; and as the latter distance is just 50 miles by my measurement along the high-road, the former must also be the same. I would therefore suggest the probability that both of these distances should be 300 *li*, or 50 miles, instead of 200 *li*, as recorded in the text. In favour of this proposed correction I may cite the testimony of the earlier Chinese pilgrim Fa-Hian, who makes the distance from Sankisa to Kanoj 7 *yojanas*, or 49 [miles](http://# "Beal's Fa-Hian,' chap. xviii.").At Hwen Thsang's own valuation of 40 *li* to the *yojana*, this measurement would give 280 *li*; and as Fa-Ilian does not record half *yojanas*, we may increase the distance by half a *yojana*, or 20 *li*, which will bring the total up to 300 *li*, or 50 miles.
 
  But whatever may be the true explanation of the difference between the actual distances and those recorded by Hwen Thsang, there still remains the important fact that Sankisa was exactly midway between Kanoj and Piloshanna, just as it now is midway betweeen Kanoj and Atranji. If we couple this absolute identity of position with the fact that *Atranji* is the only old place in the part of the country indicated by IIwen Thsang, we can scarcely arrive at any other conclusion than that the great ruined mound of Atranji is the site of the ancient *Piloshana*. This conclusion is strengthened by the fact that the mound of Atranji corresponds almost exactly in size with 
-
-
 
 Hwen Thsang's measurement of 12 *li*, or 2 miles, for Piloshana. The mound is 3250 feet in breadth at base, or a little more than 2 miles in circuit. Its highest point is 44¾ feet above the level of the country; but there are no remains save the foundations of walls and masses of broken brick.
 
@@ -3986,26 +3094,17 @@ Hwen Thsang's measurement of 12 *li*, or 2 miles, for Piloshana. The mound is 32
 
  The position of Sankisa, which stood midway between Piloshana and Kanoj, has already been discussed. The name of the place is written *Seng-kia-she* by the Chinese pilgrims, a spelling which is well preserved in the Sankisa of the present day, and which represents with considerable faithfulness the *Sangkasya* of Sanskrit. Hwen Thsang calls it also by the name of *Kia-pi-tha*, or *Kapitha,* of which I was unable to discover any trace. Sankisa was one of the most famous places of Buddhist pilgrimage, as it was the scene of Buddha's descent from the *Trayastrinṣa* heaven by a ladder of gold or gems, accompanied by the gods Indra and [Brahma](http://# "Julien's 'Hiouen Thsang,' ii. 238.").According to this curious legend, *Mâyâ*, the mother of Buddha, died seven days after his birth, and ascended at once to the *Trayastrinṣa* heaven, the abode of the 33 gods, of whom Indra was the chief. But as she had no opportunity in this abode of the gods of hearing the law of Buddha, her
 
-
-
-
 pious son ascended to the *Trayastrinṣa* heaven, and preached for three months in her behalf. He then descended to the earth with the gods Brahma and Indra by three staircases, one of which was formed either of crystal or precious stones, another of gold, and the third of silver. According to Fa-Hian, Buddha descended by a staircase formed of the "seven precious things," that is the precious metals and precious gems, whilst Brahma accompanied him on his right side by a silver ladder, and Indra on his left by a golden ladder. But Hwen Thsang assigns the golden staircase to Buddha himself, the silver staircase on the right to Brahma, and the crystal staircase on the left to Indra. The descent was accompanied by a multitude of Devas, who scattered flowers on all sides as they sang the praises of Buddha. Such are the main points of this curious legend, which is believed as firmly in Barma at the present day, as it was by Asoka 2100 years ago, or by the Chinese pilgrims of the fifth, sixth, and seventh centuries of our era.
 
  The little village which still preserves the name of Sankisa is perched upon a lofty mound of ruins 41 feet in height above the fields. This mound, which is called the *Kilah*, or fort, is 1500 feet in length from east to west, and 1000 feet in breadth. On the north and west faces the sides are steep, but on the other faces the slope is much more easy. Due south from the centre of the fort, at a distance of 1600 feet, there is a mound of solid brickwork which is crowned by a modern temple dedicated to Bisâri Devi. The "fort and the different mounds of all sizes around the temple form a mass of ruin 3000 feet in length by 2000 feet in breadth, or nearly 2 miles in circuit. But this was
-
-
 
 only the central portion of the ancient city of Sankisa, comprising the citadel and the religious buildings that were clustered round the three holy staircases. The city itself, which would appear to have surrounded this central mound on all sides, was enclosed with an earthen rampart 18,900 feet, or upwards of 3^(1/2) miles in circuit. The greater part of this rampart still remains, the shape being a tolerably regular dodecagon. On three sides, to the east, north-east, and south-east, there are breaks or openings in the line of rampart which are traditionally said to be the positions of the three gates of the city. In proof of the tradition, the people refer to the village of Puor-Kheria, or "Gate- village," which is just outside the south-east gap in the ramparts. But the name is pronounced Paor, पौर, and not Paur पोर, and may therefore refer to the staircases or steps (Paori), and not to the gate. The Kâli, or *Kâlindri Nadi* flows past the south-west corner of the ramparts from the *Râjghât*, which is half a mile distant to the Kakra Ghát, which is rather more than one mile to the south of the line of [ramparts](http://# "See Map No. X.").
 
  To the north-west, three-quarters of a mile distant, stands the large mound of *Agahat*, which is 40 feet in height, and rather more than half a mile in diameter at base. The name of the old town is said to have been Agahat, but the place is now called *Agahat Sarai* (Aghat of the maps) from a modern Sarai, which was built in A.H. 1080, or A.D. 1670, on the north-east corner of the mound, by the ancestor of the present Pathân Zaminḍar. The people say that before this, the place had been deserted for several centuries; but as I obtained a tolerably complete series of the copper 
 
-
-
 coins of the Muhammadan kings of Delhi and Jonpur, I presume that it could not have been deserted for any very long time. The mound is covered with broken bricks of large size, which alone is a sure test of antiquity and as it is of the same height as that of *Sankisa*, the people are most probably right in their assertion that the two places are of the same age. In both mounds are found the same old coins without any inscriptions, the more ancient being square pieces of silver covered with various punch-marks, and the others, square pieces of copper that have been cast in a mould, all of which are, in my opinion, anterior to the invasion of Alexander the Great.
 
  In identifying *Sankisa* with the *Sangasya* of the *Râmâyana* and the *Seng-kia-she* of the Chinese, we are supported, not only by its absolute identity of name, but likewise by its relative position with regard to three such well-known places as *Mathura, Kanoj,* and *Ahi-chhatra*. In size, also, it agrees very closely with the measurement given by Hwen Thsang; his circuit of 20 *li*, or 3½miles, being only a little less than my measurement of 18,900 fect, or 3 miles. There can be no doubt, therefore, that the place is actually the same. In his description of Sankisa, Hwen Thsang mentions a curious fact, that the Brahmans who dwelt near the great monastery were "many tens of thousands" in number. As an illustration of this statement I may mention that the people have a tradition. that Sankisa was deserted from 1800 to 1900 years ago; and that 1300 years ago, or about A.D. 560, the site was given by the *Kayath* proprietor to a body of Brahmans. They add also that the population of the village of *Paor-kheria* is known to have been wholly Brahman until a very recent period.
-
-
 
  *Sankisa* is said to have been 2000 *li*, or 333 miles, in circuit; but with reference to the surrounding districts, this estimate must be too high. Its actual limits, as determined by the Ganges and Jumna on the north and south, and by the districts of Atranji and Kanoj on the west and east, could not have been more than 220 miles in circuit.
 
@@ -4015,21 +3114,13 @@ coins of the Muhammadan kings of Delhi and Jonpur, I presume that it could not h
 
  In the seventh century the city was 20 *li*, or 3^(1/3)miles, in circuit, which agrees with its size at the present day. But the position is not exactly the same, as the houses have been gradually moving to the north and west as the Jumna encroached on the east. The old city is said to have extended from the Nabi Masjid and Fort of Raja-kansa on the north to the mounds
 
-
-
-
-
 called *Tila Kans* and *Tila Sat Rikh* on the south; but the southern half of this space is now deserted, and an equal space has been gradually built upon outside the old city to the north and west of the Nabi Masjid. The city is surrounded by numbers of high mounds; several of which are no doubt old brick kilns; but many of them are the remains of extensive buildings, which, having been dug over for ages in search of bricks, are now mere heaps of brick-dust and broken brick. I refer more especially to the great mound. near the jail, 3 miles to the south of the city, which from its appearance was always supposed to be the remains of a brick and tile kiln. But this unpromising-looking mound has since yielded numbers of statues and inscribed pillars, which prove that it is the remains of at least two large Buddhist monasteries of as early a date as the beginning of the Christian era.
 
  The holy city of Mathura is one of the most ancient places in India. It is famous in the history of Krishna, as the stronghold of his enemy Raja Kansa; and it is noticed by [Arrian](http://# "'Indica,' viii."),on the authority of Megasthenes, as the capital of the *Suraseni.* Now Surasena was the grandfather of Krishna, and from him Krishna and his descendants, who held Mathura after the death of Kansa, were called Surasenas. According to Arrian the Suraseni possessed two great cities, *Methoras* and *Klisoboras*, aud the navigable river *Jobares* flowed through their territories. [Pliny](http://# "Nat. Hist., vi. 19.") names the river *Jomanes*, that is the Jumna, and says that it passed between the towns of *Methora* and *Clisobora*. Ptolemy mentions only Mathura, under the form of *Modura, Μοδούρα,* to which he adds *ἡ τῶν θεῶν,* that is “ the city of the gods," or holy city.
 
-
-
 Vrindávana.
 
  The city of *Klisoboras* has not yet been identified, but I feel satisfied that it must be *Vrindâvana*, 6 miles to the north of [Mathura](http://# "See Map No. X.").*Vrindâvana* means the grove of basil-trees," which is famed over all India as the scene of Krishna's sports with the milkmaids. But the earlier name of the place was *Kâlikâvartta*, or "Kalika's whirlpool," because the serpent *Kâlika* was fabled to have taken up his abode just above the town, in a *Kadamb* tree, overhanging the Jumna. Here he was attacked by Krishna, and the rapid convolutions of his tail in his dying struggles are said to have caused the cddy, which is now known by his name. Now, the Latin name of Clisobora is also written *Carisobora* and *Cyrisoborka* in different MSS., from which I infer that the original spelling was *Kalisoborka*, or, by a slight change of two letters, *Kâlikâborta* or *Kâlikâbarta.* In the Prem Sâgar this whirlpool of the Jumna is attributed to the poison that was vomited forth by the serpent Kâli against Krishna, when he was swimming in the river. Allusion is made to the natural increase of the serpent's poison by offerings of milk, which would seem to refer to a previous state of serpent-worship. Milk offerings are still made occasionally, but only to test the divine nature of the serpent, who is supposed to possess the most miraculous powers of drinking. In the last century, Raja Chet Singh, of Benares, is said to have poured all the milk of the two cities of Mathura and Vrindâvan down the hollow *Kadamb* tree, and as the waters of the Jumna were not even tinged, the serpent Kâlika's miraculous powers of milk-drinking were established more firmly than ever. 
-
-
 
 **11. KANOJ. **
 
@@ -4037,41 +3128,25 @@ Vrindávana.
 
  Of the great city of Kanoj, which for many hundred years was the Hiudu capital of northern India, the existing remains are few and unimportant. In A.D. 1016, when Mahmud of Ghazni approached Kanoj, the historian relates that "he there saw a city which raised its head to the skies, and which in strength and structure might justly boast to have no [equal](http://# "Briggs's 'Ferishta,' i. 57.")." Just one century earlier, or in a.d. 915, Kanoj is mentioned by Masudi as the capital of one of the kings of India; and about A.D. 900 Abu Zaid, on the authority of Ibn Wahab, calls "*Kaduje* a great city in the king-
 
-
-
 dom of *Gozar*." At a still earlier date, in A.D. 634, we have the account of the Chinese pilgrim Hwen Thsang, who describes Kanoj as being 20 *li*, or 3^(1/2) miles, in length, and 4 or 5 *li*, or ¾ of a mile in [breadth](http://# "Julien's 'Hiouen Thsang,' ii. 243. See Map No. X."). The city was surrounded by strong walls and deep ditches, and was washed by the Ganges along its eastern face. The last fact is corroborated by Fa-Hian, who states that the city touched the river *Heng*, or Ganges, when he visited it in a.d. 400. Kanoj is also mentioned by Ptolemy, about A.D. 140, as *Kavoyίζa*. But the earliest notice of the place is undoubtedly the old familiar legend of the Purânas, which refers the Sanskrit name of *Kânya-kubja*, or the "hump-backed maiden," to the curse of the sage *Vayu* on the hundred daughters of *Kusanâba*.
 
  At the time of Hwen Thsang's visit, Kanoj was the capital of Raja *Harsha Vardhana*, the most powerful sovereign in Northern India. The Chinese pilgrim calls him a *Fei-she*, or *Vaisya*, but it seems probable that he must have mistaken the *Vaisa*, or *Bais* Rajput for the *Vaisya*, or *Bais*, which is the name of the mercantile class of the Hindus; otherwise Harsha Vardhana's connection by marriage with the Rajput families of Malwa and Balabhi would have been quite impossible. Baiswâra, the country of the Bais Rajputs, extends from the neighbourhood of Lucknow to Khara-Mânikpur, and thus comprises nearly the whole of Southern Oudh. The Bais Rajputs claim descent from the famous *Sâlivâhan*, whose capital is said to have been *Daundia-Khera*, on the north bank of the Ganges. Their close proximity to Kanoj is in favour of the sovereignty which they claim for their ancestors
-
-
 
 over the whole of the Gangetic Doab, from Delhi to Allahabad. But their genealogical lists are too imperfect, and most probably also too incorrect, to enable us to identify any of their recorded ancestors with the princes of Harsha Vardhana's family.
 
  In determining the period of Harsha's reign between the years 607 and 650 A.D., I have been guided by the following evidence:-1st, the date of his death is fixed by the positive statement of Hwen Thsang in the year 650 [](http://# "In Appendix A, at the end of the Chronological Table of Hwen Thsang's route, I have brought forward strong reasons for believing that the true date of the death of Harsha Vardhana was A.D. 648, which is the year given by Ma-twan-lin, on the authority of the Chinese ambassador, who visited India immediately after the king's death.") [A.D](http://# "In Appendix A, at the end of the Chronological Table of Hwen Thsang's route, I have brought forward strong reasons for believing that the true date of the death of Harsha Vardhana was A.D. 648, which is the year given by Ma-twan-lin, on the authority of the Chinese ambassador, who visited India immediately after the king's death.");2nd, in speaking of Harsha's career, the pilgrim records that from the time of his accession, Harsha was engaged in continual war for 5½ years, and that afterwards for about 30 years he reigned in peace. This statement is repeated by Hwen Thsang when on his return to China, on the authority of the king himself, who informed him that he had then reigned for *upwards* of 30 years, and that the quinquennial assembly then collected was the *sixth* which he had convoked. From these different statements, it is certain that at the date of Hwen Thsang's return to China, in A.D. 640, Harsha had reigned upwards of 30 years, and somewhat less than 35 years; his accession must, therefore, be placed between A.D. 605 and 610; 3rd, now, in the middle of this very period, in A.D. 607, as we learn from Abu Rihân, was established the Sri *Harsha* era, which was still prevalent in Mathura and Kanoj in the beginning of the eleventh [century](http://# "Reinaud, 'Fragments,' p. 139."). Considering the exact
 
- 
-
-
-
-
-
 agreement of the names and dates, it is impossible to avoid coming to the conclusion that the *Harsha* who established an era in *Kanoj* in A.D. 607 was the great King *Harsha Vardhana*, who reigned at Kanoj during the first half of the seventh century.
 
  In comparing Hwen Thsang's description of ancient Kanoj with the existing remains of the city, I am obliged to confess with regret that I have not been able to identify even one solitary site with any certainty; so completely has almost every trace of Hindu occupation been obliterated by the Musalmans. According to the traditions of the people, the ancient city extended from the shrine of *Hâji Harmâyan* on the north, near the Râj Ghât, to the neighbourhood of *Miranka Sarai* on the south, a distance of exactly 3 miles. Towards the west it is said to have reached to *Kapatya* and *Makarandnagar*, two villages on the high-road, about 3 miles from *Hâji Harmâyan*. On the east the boundary was the old bed of the Ganges, or *Chota Gangâ*, as the people call it, although it is recorded in our maps as the *Kâli Nadi*. Their account is that the *Kâli*, or *Kâlindri Nadi*, formerly joined the Ganges near *Sangirâmpur* or *Sangrâmpur*; but that several hundred years ago the great river took a more northerly course from that point, while the waters of the *Kâli Nadi* continued to flow down the deserted channel. As an open channel still exists between *Sangrâmpur* and the *Kâli Nadi*, I am satisfied that the popular account is correct, and that the stream which flows under Kanoj, from *Sangrâmpur* to *Mhendi Ghât*, although now chiefly filled with the waters of the *Kâli Nadi,* was originally the main channel of the Ganges. The accounts of Fa-Hian and Hwen Thsang, who place Kanoj on the
-
-
 
 Ganges, are therefore confirmed, not only by the traditions of the people, but also by the fact that the old channel still exists under the name of the *Chota Gangâ*, or Little Ganges.
 
  The modern town of Kanoj occupies only the north end of the site of the old city, including the whole of what is now called the *Kilah*, or citadel. The boundaries are well defined by the shrine of *Hâji-Harmâ-yan* on the north, the tomb of *Tâj-Bâj* on the south-west, and the Masjid and tomb of Makhdum-Jahániya on the south-east. The houses are much scattered, especially inside the citadel, so that though the city still covers nearly one square mile, yet the population barely exceeds 16,000 in number. The citadel, which occupies all the highest ground, is triangular in shape, its northern point being the shrine *Hâji-Harmâyan*, its south-west point the temple of *Ajay Pal*, and its south-east point the large bastion called *Kshem Kali Bûrj*. Each of the faces is about 4000 feet in length, that to the north-west being protected by the bed of the nameless dry Nala, that to the north-east by the *Chota Gangâ*, while that to the south must have been covered by a ditch, which is now one of the main roads of the city, running along the foot of the mound from the bridge below Ajay Pâl's temple to the *Kshem Kali* bastion. On the north-east face the mound rises to 60 and 70 feet in height above the low ground on the bank of the river, and towards the Nala on the north-west it still maintains a height of from 40 to 50 feet. On the southern side, however, it is not more than 30 feet immediately below the temple of *Ajay Pâl*, but it increases to 40 feet below the tomb of *BalâPir*. The situation is a commanding one, and
 
-
-
 before the use of cannon the height alone must have made Kanoj a strong and important position. The people point out the sites of two gates, the first to the north, near the shrine of *Hâji Harmâyan*, and the second to the south-east, elose to the *Kshem Kali Bûrj*. But as both of these gates lead to the river, it is certain that there must have been a third gate on the land side towards the south-west, and the most probable position seems to be immediately under the walls of the *Rang Mahal*, and close to the temple of *Ajay Pâl*.
 
  According to tradition, the ancient city contained 84 wards or *Mahalas*, of which 25 are still existing within the limits of the present town. If we take the area of these 25 wards at three-quarters of a square mile, the 84 wards of the ancient city would have covered just 2^(1/2) square miles. Now, this is the very size that is assigned to the old eity by Hwen Thsang, who makes its length 20 *li*, or 3½ miles, and its breadth 4 or 5 li, or just three-quarters of a mile, which multiplied together give just 2 square miles. Almost the same limits may be determined from the sites of the existing ruins, which are also the chief *find-spots* of the old coins with which Kanoj abounds. According to the dealers, the old coins are found at *Bâla Pir* and *Rang Mahal*, inside the fort; at *Makhdum-Jahâniya*, to the south-east of the fort; or *Makarandnagar* on the high-road; and intermediately at the small villages of *Singh Bhawâni* and *Kûtlûpur*. The only other productive site is said to be *Râjgir*, an ancient mound covered with brick ruins on the bank of the *Chota Gangâ*, three miles to the south-east of Kanoj. Taking all these evidenecs into consideration, it appears to me almost
-
-
 
 certain that the ancient city of Hwen Thsang's time must have extended from *Hâji-Harmâyan* and the *Kshem-Kali Bûrj*, on the bank of the Ganges (now the *Chota Gangâ*), in a south-west direction, to *Makarandnagar*, on the Grand Trunk Road, a length of just three miles, with a general breadth of about one mile or somewhat less. Within these limits are found all the ruins that still exist to point out the position of the once famous city of Kanoj.
 
@@ -4081,25 +3156,17 @@ certain that the ancient city of Hwen Thsang's time must have extended from *Hâ
 
 [^491]: "Julien's Hiouen Thsang,]ii.265."
 
-
-
 of the Isan river, and opposite *Nanamow Ghât*. But as there are no existing remains anywhere in that neighbourhood, the place has been most likely swept away by the river. This is rendered almost certain by an examination of the Ganges below the junction of the Isan. Formerly the river continued its course almost due south from Nanamow for many miles, but some centuries ago it changed its course; first to the south-east for 4 or 5 miles, and then to the south-west for about the same distance, where it rejoined its old bed, leaving an island, some 6 miles in length by 4 in breadth, between the two channels. As Hwen Thsang's account places *Nava-deva-kula* on the very site of this island, I conclude that the town as well as the Buddhist monuments must all have been swept away by the change in the river's course.
 
  A probable source of error in all short distances was their registry in *yojanas* instead of in kos, which would have increased the distances just fourfold. If such an error should have been committed in the case of *Nava-deva-kula*, the actual distance would have been only 25 *li*, or a little more than 4 miles, instead of 17 miles. Now in this very position, 4 miles to the south-east of Kanoj, there is a well-known place on the Chota Gangâ, called *Deokali*, which is the same name as that given by the pilgrim, if we omit the first two syllables Nava, or 'new.'
 
  On leaving *Nava-deva-kula*, Hwen Thsang proceeded 600 li, or 100 miles, to the south-east, and recrossing the Ganges reached the capital city of *A-yu-to*, which was 20 *li*, or upwards of 3 miles, in circuit. Both M. Julien and M. de St. Martin have identified this place with *Ayodhya*, the once celebrated capital of
 
-
-
 Rama. I accept the probable reading of the name as Ayuda, but I differ with them altogether in looking for the capital along the line of the *Ghâghra* river, which is due east from Kanoj, whereas Hwen Thsang states that his route was to the south-east. It is of course quite possible that the pilgrim may occasionally use the generic name of Ganges as the appellation of any large river, such for instance as the *Ghâghra*, but in the present case, where the recorded bearing of south-east agrees with the course of the Ganges, I think it is almost certain that the Ganges itself was the river intended by the pilgrim. But by adopting the line of the Ganges we encounter a difficulty of a different kind in the great excess of the distance between two such well-known places as Kanoj and Prayag. According to Hwen Thsang's route, he first made 100 *li* to *Nava-deva-kula*, then 600 *li*to *Ayuto*, then 300 *li*by water to *Hayamukha*, and lastly 700 *li* to *Prayâga*. All these distances added together make a total of 1700 *li*, or 283 miles, which is just 100 miles, or 600 *li*, in excess of the true distance. But as a part of the journey, viz. 300 li, or 50 miles, was performed by water, the actual excess may perhaps not be more than 85 or 90 miles; although it is doubtful whether the distance of 300 *li* may not have been the road measurement and not the river distance. It is sufficient for our purpose to know that Hwen Thsang's recorded measurement is somewhere about 100 miles in excess of the truth. The only explana- tion of this error that suggests itself to me is, that there may have been an accidental alteration of one set of figures, such as 60 *li* for 600 *li*, or 700 *li* for 70 *li*. Supposing that the former was the case, the
-
-
 
 distance would be shortened by 540 *li*, or 90 miles, and if the latter, by 630 *li*, or 105 miles. This mode of correction brings the pilgrim's account into fair accordance with the actual distance of 180 miles between Kanoj and Prayâg.
 
  By adopting the first supposition, Hwen Thsang's distance from *Nava-deva-kula* to the capital of *Ayuto* will be only 60 *li*, or 10 miles, to the south-east, which would bring him to the site of an ancient city named *Kâkûpur*, just 1 mile to the north of Seorâjpoor, and 20 miles to the north-west of Cawnpore. The subscquent route would have been from *Kâkûpur* to *Daun-diakhera* by boat, a distance of exactly 50 miles, or 300 li, and from thence to *Prayâg,* a distance of more than 100 miles, which agrees with the 700 *li*, or 116 miles, of the pilgrim. By the second supposition the subsequent route would have been from *Khara* to *Papamow* by water, about 50 miles, and thence to *Prayâg*, about 8 miles of land, which agrees with the 70 *li* of the proposed correction. In favour of this last supposition is the fact that the bearing from Khara to Papamow of east by south is more in accordance with Hwen Thsang's recorded east direction than the south-east bearing of Daundiakhera from Kâkûpur. I confess, however, that I am more inclined to adopt the former correction, which places the chief city of *Ayuto* at Kâkûpur, and the town of *Hayamuka* at Daundia-khera, as we know that the last was the capital of the *Bais Rajputs* for a considerable period. I am partly inclined to this opinion by a suspicion that the name of *Kâkûpur* may be connected with that of *Bâgud*, or *Vâgud,* of the Tibetan [books](http://# "Bengal 'Asiatic Researches,' xx. 88."). According to this
-
-
 
 authority a *Sâkya*, named *Shâmpaka*, on being banished from Kapila retired to *Bâgud*, carrying with him some of Buddha's hair and nail-parings, over which he built a *chaitya*. He was made king of *Bâgud,* and the monument was named after himself (? *Shâmpaka stupa*). No clue is given as to the position of *Bâgud*, but as I know of no other name that resembles it, I am inclined to think that it is probably the same place as the *Ayuto* or *Ayuda* of Hwen Thsang. The two names have a striking resemblance; and as each of the places possessed a stupa containing some hair and nails of Buddha, I think that there are strong grounds for the identification.
 
@@ -4107,15 +3174,11 @@ authority a *Sâkya*, named *Shâmpaka*, on being banished from Kapila retired t
 
  Hwen Thsang makes Ayuto 5000 *li*, or 833 miles, in [circuit](http://# "Julien's 'Hiouen Thsang,' ii. 267. See Map No. X."), which is so utterly beyond all possibility that I reject it without hesitation. Perhaps we should read 500 *li*, or 83 miles, which would restrict the
 
-
-
 territory to the small tract lying between Kâkûpur and Cawnpore, and thus leave room for the next district of Hayamukha.
 
 **13. HAYAMUKHA. **
 
  From Ayuto the pilgrim proceeded down the Ganges by boat for a distance of 300 *li*, or 50 miles, to *O.ye.mu.khi*, which was situated on the northern bank of the river. [M.Julien](http://# "Julien's 'Hiouen Thsang,' ii. 274.")reads this name as *Hayamukha*, or "Horse-face;" but it may perhaps also be read as *Ayomukha*, or "Iron-face," which was the name of one of the ancient *Dânavas*, or Titans. Neither of these names, however, gives any clue to the site of the old city; but if I am right in my identification of *Ayuto* with Kâkûpur, it is almost certain that *Hayamukha* must be Ḍ*aunḍia-khera* on the northern bank of the Ganges. Hwen Thsang makes the circuit of the town 20 *li*, or upwards of 3 miles; but Ḍ*aunḍia-khera*presents no appearance of ever having been so large. There still exists an old ruined fort or citadel, 385 feet square, with the walls of two buildings which are called the palaces of the Râja and the Râni. But as Ḍ*aunḍia-khera*is universally allowed to have been the capital of the Bais Rajputs, who gave their name to the district of Baiswâra in Oudh, it is almost certain that the place must once have been of much greater extent. *Ḍonḍia* or *Ḍaunḍia* means simply a "drum-beater," and was probably applied to some mendicant, who took up his abode on the Khera, or "mound," and as this name is not likely to have been imposed on the place until it was in ruins, the difference of name offers no impediment to the identification of Ḍ*aunḍia-khera*with *Hayamukha.* 
-
-
 
  Hwen Thsang makes *Hayamukha* 2500 *li*, or 417 miles, in circuit, which is perhaps too great; but as *Ḍaunḍia-khera* was the capital of the Bais Rajputs, I conclude that the district must have comprised the whole of the present *Baiswâra*, which lies between the *Sai* river and the Ganges, from Cawnpore to *Mânikpur* and Salon. But as these limits would give a circuit of only 200 miles, it seems almost certain that the district must have extended to the south of the Ganges in the time of Hwen Thsang. Its probable limits were, therefore, the Ghâgra river on the north, and the Jumna on the south, a determination which derives some support from Tod,\* who describes Bais- wara as an extensive district in the *Doâb* between the Ganges and Jumna.
 
@@ -4123,23 +3186,15 @@ territory to the small tract lying between Kâkûpur and Cawnpore, and thus leav
 
  From Hayamukha the pilgrim proceeded 700 *li*, or 116 miles, to the south-east to Prayága, the well-known place of pilgrimage at the junction of the Ganges and Jumna, where Akbar, many centuries. later, built his fort of *Ilâhabâs*, or *Allâhâbâd*, as it was afterwards called by Shah Jehân. The distance and bearing given by Hwen Thsang agree almost exactly with those of Prayâga from Ḍaunḍiakhera. The distance is 104 miles by the nearest road to the south of the Ganges; but as the pilgrim followed the northern road, the distance must have been increased to 115 or 120 miles. According to [him](http://# "Julien's Hiouen Thsang,` ii. 276.")the city was situated at the confluence of the two rivers, and to the west of a large sandy plain. In the midst of the city there was a Brahmanical temple, to which the presentation 
 
-
-
 ![](../books_images/U-IMG-1697897272MAPPPP437page.jpg)
-
-
 
 of a single piece of money procured as much merit as that of one thousand pieces elsewhere. Before the principal room of the temple there was a large tree with wide-spreading branches, which was said to be the abode of a man-eating demon. The tree was surrounded with human bones, the remains of pilgrims who had sacrificed their lives before the temple, a practice which had been observed from time imme- morial.
 
  I think there can be little doubt that the famous tree here described by the pilgrim is the well-known *Akshay Baṭ*, or "undecaying Banian tree," which is still an object of worship at Allahabad. This tree is now situated underground, at one side of a pillared court, which would appear to have been open formerly, and which is, I believe, the remains of the temple described by Hwen Thsang. The temple is situated inside the fort of Allahabad, to the east of the Ellenborough Barracks, and due north from the Stone Pillar of Asoka and Samudra Gupta. Here, then, must have been the site of the city in the seventh century, and this agrees with the sunken position of the tree, for originally both tree and temple must have been on the natural ground level; but from the constant accumulation of rubbish, they have been gradually earthed up, until the whole of the lower portion of the temple has disappeared underground. The upper portion has long ago been removed, and the only access to the *Akshay Baṭ*now available is by a flight of steps which leads down to a square pillared courtyard. This court has apparently once been open to the sky; but it is now completely closed overhead, to secure darkness and mystery for the holy fig-tree.
 
-
-
  The *Akshay-baṭ*is next mentioned by Rashid-ud-din in the *Jamiu-t-tawârikh*, where he states that the "tree of *Prâg*" is situated at the confluence of Jumna and Ganges. As most of his information was derived from Abu Rihân, the date of this notice may with great probability be referred to the time of Mahmud of Ghazni. In the seventh century a great sandy plain, 2 miles in circuit, lay between the city and the confluence of the rivers, and as the tree was in the midst of the city, it must have been at least one mile from the confluence. But nine centuries later, in the beginning of Akbar's reign, Abdul Kâdir speaks of the "tree from which people cast themselves into the [river](http://# "Elliot's Muhammadan Historians of India,' p. 243.")."From this statement I infer that during the long period that intervened between the time of Hwen Thsang and that of Akbar, the two rivers had gradually carried away the whole of the great sandy plain, and had so far encroached upon the city, as to place the holy tree on the very brink of the water. Long before this time the old city had no doubt been deserted, for we know that the fort of *Ilâhâbâs* was founded on its site in the twenty-first year of Akbar's reign, that is, in A.H. 982, or A.D. 1572. Indeed the way in which Abu Rihân speaks of the "tree" instead of the city of Prâg, leads me to believe that the city itself had already been deserted before his time. As far as I am aware, it is not once mentioned in any Muhammadan history until it was refounded by [Akbar](http://# "Reinaud, Fragments Arabes,' etc., p. 103. Sir H.Elliot's 'Muhammadan Historians of India,' edited by Dowson, i. 55.").
 
  According to the common tradition of the people,
-
-
 
 the name of Prayâg was derived from a Brahman who lived during the reign of Akbar. The story is, that when the emperor was building the fort, the walls on the river face repeatedly fell down, in spite of all the precautions taken by the architect. On consulting some wise men, Akbar was informed that the foundations could only be secured by being laid in human blood. A proclamation was then made, when a Brahman named Prayâga voluntarily offered his life, on the condition that the fort should bear his name. This idle story, which is diligently related to the pilgrims who now visit the *Akshay Baṭ*, may at least serve one useful purpose in warning us not to place too much faith in these local traditions. The name of Prayâga is recorded by Hwen Thsang in the seventh century, and is in all probability as old as the reign of Asoka, who set up the stone pillar about B.C. 235, while the fort was not built until the end of the sixteenth century. Hwen Thsang makes the district of *Prayaga* about 5000 *li*, or 833 miles, in circuit; but as it was closely surrounded on all sides by other districts, I am satisfied that we should read 500 *li*, or 83 miles, and limit the district to the small tract in the fork of the Doâb, immediately above the junction of the Ganges and Jumna.
 
@@ -4147,14 +3202,9 @@ the name of Prayâg was derived from a Brahman who lived during the reign of Akb
 
  The city of *Kosâmbi* was one of the most celebrated places in ancient India, and its name was famous amongst Brahmans as well as Buddhists. The city is said to have been founded by *Kusamba*, the tenth in descent from Pururavas; but its fame begins only with the reign of Chakra, the eighth in descent from
 
-
-
 Arjun Pându, who made Kosâmbi his capital after Hastinapura had been swept away by the Ganges.
 
  Kosâmbi is mentioned in the 'Râmâyana,' the earliest of the Hindu poems, which is generally allowed to have been composed before the Christian era. The story of *Udâyana*, king of Kosâmbi, is referred to by the poet Kâlidâsa in his 'Megha-duta,' or 'Cloud Messenger,' where he says that *Avanti* (or Ujain) is great with the number of those versed in the tale of [Udâyana](http://# "Wilson, 'Megha-duta,' note C1; and ·Hindu Theatre,' ii. 257, note.")."Now, Kâlidâsa flourished shortly after A.D. 500. In the 'Vrihat Katha,' of Somadeva, the story of Udâyana is given at full length, but the author has made a mistake in the genealogy between the two Satánikas. Lastly, the kingdom of *Kosâmbi,* or *Kosâmba Mandala,* is mentioned in an inscription taken from the gateway of the fort of *Khara* which is dated in *Samrat* 1092, or A.D. 1035, at which period it would appear to have been independent of [Kanoj](http://# "Asiatic Researches,' ix. 433. Journ. Asiat. Soc.Bengal, v.731.").Kosâmbi, the capital of Vatsa Raja, is the scene of the pleasing drama of 'Ratnâvali,' or the 'Necklace,' which was composed in the reign of King Harsha Deva, who is most probably the same as Harsha Vardhana of Kanoj, as the opening prelude describes amongst the assembled audience "princes from various realms recumbent at his [feet](http://# "Wilson's Hindu Theatre.' 'Ratuâvali;' prelude, ii. 261.")." This we know from Hwen Thsang to have been true of the Kanoj prince, but which even a Brahman could scarcely have asserted of Harsha Deva of Kashmir. The date of this notice will therefore lie between 607 and 650 A.D.  
-
-
-
 
  But the name of Udayana, king of Kosâmbi, was perhaps even more famous amongst the Buddhists. In the [Mahawanso](http://# "Turnour's 'Mahawanso,' p.16."),'which was composed in the fifth century, the venerable Yasa is said to have fled from Vaisâli to Kosâmbi just before the assembly of the second Buddhist Synod. In the '[Lalita Vistâra](http://# "FoucauX,translation of the Tibetan version of the 'Lalita-Vistāra.'"),'which was translated into Chinese between 70 and 76 A.D., and which could not, therefore, have been composed later than the beginning of the Christian era, Udâyana Vatsa, son of Satânika, king of Kosâmbi, is said to have been born on the same day as Buddha. In other Ceylonese books Kosâmbi is named as one of the nineteen capital cities of ancient India. Udâyana Vatsa is also known to the [Tibetans](http://# "Csoma de Körös, in ‘Asiatic Researches,' xx. 299.")as the king of Kosâmbi. In the 'Ratnâvali' he is called *Vatsa Raja*, or king of the Vatsas, and his capital *Vatsa-paltana*, which is therefore only another name for Kosâmbi. In this famous city also Buddha is said to have spent the sixth and ninth years of his [Buddhahood](http://# "Hardy, Manual of Buddhism,' p. 356.").Lastly, Hwen Thsang relates that the famous statue of Buddha, in red sandal-wood, which was made by King Udâyana during the lifetime of the Teacher, still existed under a stone dome in the ancient palace of the kings[^492].
 
@@ -4162,27 +3212,17 @@ Arjun Pându, who made Kosâmbi his capital after Hastinapura had been swept awa
 
  The site of this great city, the capital of the later Pându princes, and the shrine of the most sacred of all the statues of Buddha, has long been sought in vain. The Brahmans generally asserted that it stood either on the Ganges or close to it, and the discovery
 
-
-
 of the name of *Kosâmbi mandala*, or "Kingdom of Kosâmbi," in an inscription over the gateway of the fort of *Khara*, seem to confirm the general belief, although the south-west bearing from Prayâga, or Allahabad, as recorded by Hwen Thsang, points unmistakably to the line of the Jumna. In January, 1861, Mr. Bayley informed me that he believed the ancient Kosâmbi would be found in the old village of *Kosam*, on the Jumna, about 30 miles above Allahabad. In the following month I met Babu Siva Prasad, of the educational department, who takes a deep and intelligent interest in all archæological subjects, and from him I learned that Kosam is still known as *Kosámbi-nagar*, that it is even now a great resort of the Jains, and that only one century ago it was a large and flourishing town. This information was quite sufficient to satisfy me that *Kosam* was the actual site of the once famous Kosâmbi. Still, however, there was no direct evidence to show that the city was situated on the Jumna; but this missing link in the chain of evidence I shortly afterwards found in the curious legend of Bakkula, which is related at length by [Hardy](http://# "‘Manual of Buddhism,' p. 501.").The infant Bakkula was born at Kosâmbi, and while his mother was bathing in the *Jumna*, he accidentally fell into the river, and being swallowed. by a fish, was carried to Benares. There the fish was caught and sold to the wife of a nobleman, who on opening it found the young child still alive inside, and at once adopted it as her own. The true mother hearing of this wonderful escape of the infant, proceeded to Benares, and demanded the return of the child, which was of course refused. The matter was then referred 
-
-
 
 to the king, who decided that both of the claimants were mothers of the child,— the one by *maternity,* the other by purchase. The child was accordingly named Bakula, that is, of "two *kulas,* or races." He reached the age of 90 years without once having been ill, when he was converted by the preaching of Buddha, who declared him to be "the chief of that class of his disciples who were free from disease." After this he is said to have lived 90 years more, when he became an arhat, or Buddhist saint.
 
  As this legend of Bakula is sufficient to prove that the famous city of Kausâmbi was situated on the Jumna, it now only remains to show that the distance of Kosam from Allahabad corresponds with that between Prayâg and Kosâmbi, as recorded by Hwen Thsang. Unfortunately this distance is differently stated in the life and in the travels of the Chinese pilgrim. In the former, the distance is given as 50 *li*, and in the latter as 500 *li*, whilst in the return journey to China, the pilgrim states that between Prayâg and Kosâmbi he travelled for *seven* days through a vast forest and over bare [plains](http://# "Julien's 'Hiouen Thsang,' i. 121; ii. 283; and i. 260.").Now, as the village of Kosam is only 31 miles from the fort of Allahabad, the last statement would seem to preclude all possibility of its identification with the ancient Kosâmbi. But strange to say, it affords the most satisfactory proof of their identity; for the subsequent route of the pilgrim to Sankissa is said to have occupied one month, and as the whole distance from Prayâg to Sankissa is only 200 miles, the average length of the pilgrim's daily march was not more than 5½ miles. This slow progress is most satisfactorily accounted for, by
 
-
-
 the fact that the march from Prayâg to Sankissa was a religious procession, headed by the great king Harsha Vardhana of Kanoj, with a train of no less than 18 tributary kings, besides many thousands of Buddhist monks, and all the crowd of an Indian camp. According to this reckoning, the distance from Prayâg to Kosâmbi would be 38 miles, which corresponds very closely with the actual road distance as I found it. By one ronte on going to Kosam, I made the distance 37 miles, and by the return route 35 miles. The only probable explanation of Hwen Thsang's varying distances of 50 *li* and 500 *li* that occurs to me is, that as he converted the Indian *yojanas* into Chinese *li* at the rate of 40 *li* per *yojana,* or of 10 *li* per kos, he must have written 150 *li*, the equivalent of 15 kos, which is the actual distance across the fields for foot passengers from Kosam to the fort of Allahabad, according to the reckoning of the people of Kosam itself. But whether this explanation be correct or not, it is quite certain that the present Kosam stands on the actual site of the ancient *Kosâmbi*; for not only do the people themselves put forward this claim, but it is also distinctly stated in an inscription of the time of Akbar, which is recorded on the great stone pillar, still standing in the midst of the ruins, that this is *Kausâmbi-pura.*
 
  The present ruins of Kosâmbi consist of an immense fortress formed of earthen ramparts and bastions, with a circuit of 23,100 fect, or exactly 4 miles and 3 furlongs. The ramparts have a general height of from 30 to 35 feet above the fields; but the bastions are considerably higher, those on the north face rising to upwards of 50 feet, while those at the south-west and sonth-east angles are more than 60 feet. Originally
 
-
-
 there were ditches all around the fortress, but at present there are only a few shallow hollows at the foot of the rampart. The length of the north front is 4500 feet, of the south front 6000, of the east front 7500 feet, and of the west front 5100, or altogether 23,100 feet. The difference in length between the north and south fronts is due to the original extension of the fortress on the river face; but the difference between the east and west fronts is, I believe, chiefly, if not wholly, due to the loss of the south-west angle of the ramparts by the gradual encroachment of the Jumna. There are no traces now left of the western half of the ramparts on the southern face, and the houses of the village of *Garhawâ*are standing on the very edge of the cliff overhanging the river. The reach of the river also, from the *Pakka Burj* at the south-west angle of the fortress up to the hill of *Prabhâsa*, a clear straight run of 4 miles, bears 12 degrees to the north of east, whereas in the time of Hwen Thsang there were two stupas and a cave at a distance of 1^(1/2) miles to the south-west of *Kosâmbi*. From all these concurring circumstances, I conclude that the west front of the fortress was originally as nearly as possible of the same length as the east front. This would add 2400 feet, or nearly half a mile, to the length of the west front, and would increase the whole circuit of the ramparts to 4 miles and 7 furlongs, which is within one furlong of the measurement of 5 miles, or 30 *li*, recorded by Hwen Thsang. In the three main points therefore of name, size, and position, the present Kosam corresponds most exactly with the ancient Kosâmbi as it is described by the Chinese pilgrim in the seventh century.
-
-
 
 According to the text of Hwen Thsang, the district of Kosâmbi was 6000 *li*, or 1000 miles, in circuit, which is quite impossible, as it was closely surrounded on all sides by other districts. I would, therefore, read hundreds for thousands, and fix its circuit at 600 *li*, or 100 miles.
 
@@ -4190,21 +3230,13 @@ According to the text of Hwen Thsang, the district of Kosâmbi was 6000 *li*, or
 
 From Kosâmbi the Chinese pilgrim travelled to the north-east, through a vast forest as far as the Ganges, after crossing which his route lay to the north for a distance of 700 *li*, or 117 miles, to the town of *Kia-she-pu-lo,* which M. Julien correctly renders by [*Kasapura*](http://# "M. Julien's 'Hiouen Thsang,' ii. 287-290. In the record of the pilgrim's Life,' Kusapura is altogether omitted, and the distance from Kosâmbi to Visâkhâis said to be 500 li to the east. Julien, i. 122. See Map No. XI. for its position.").In searching for the site of this place, the subsequent route of the pilgrim to Visúkhá, a distance of 170 to 180 li, or from 28 to 30 miles, to the north is of equal importance with the bearing and distance from Kosâmbi. For as the Visâkhâ of Hwen Thsang, as I will presently show, is the same place as the *Sha-chi* of Fa-Hian, and the *Sâketa* or Ayodhya of the Hindus, we thus obtain two such well-fixed points as Kosâmbi and Ayodhya to guide us in our search. A single glance at the map will be sufficient to show that the old town of *Sultân-pur* on the *Gomati* (or Gumti) river is as nearly as possible in the position indicated. Now the Hindu name of this town was *Kusabhavanapura*, or simply *Kusapura*, which is almost the same name as that of Hwen Thsang. Remembering Mr. Bayley's note of information derived from Raja Mân Sinh that there was "a *tope* near Sultânpur," I
 
- 
-
-
-
 pitched my tent on one side of the now utterly desolate city, and searched the whole place tlirough most carefully, but all in vain: I could neither find the trace of any tope, nor could I even hear of ancient remains of any kind. On the following day, however, after I had left Sultânpur, I heard that the village of Mahmudpur, about 5 miles to the north-west, was situated on an ancient mound of somewhat larger size than that of Sultânpur, and on my arrival at Faizabad, I learned from Lieutenant Swetenham, of the Royal Engineers, that there is an old tope to the north-west of Sultânpur, not far from this village. I conclude, therefore, that Sultânpur, the ancient Kusa- pura, is the same place as the Kasapura of Hwen Thsang, and this identification will be made even more certain on examination of the recorded distances.
 
  On leaving Kosâmbi, the pilgrim proceeded first in a north-east direction to the Ganges, after crossing which he turned to the north to Kasapura, the whole distance being 117 miles. Now, the two great ghâts on the Ganges to the north-east of Kosam are at *Mau-Saraya* and *Pâpa-mau*, the former being 40 miles, and the latter 43 miles distant. But as these two ghâts are close together, and almost immediately to the north of Allahabad, the total distance to Kasapura will be the same whichever place of crossing be taken. From Pâpamau to Sultânpur the direction is due north, and the distance 66 miles; the whole line from Kosam to Sultânpur being 109 miles, which is within 8 miles of the round number of 700 *li*, or 1163^(2/3) miles, as given by Hwen Thsang; while both of the bearings are in exact accordance with his statements. From Kasapura to *Visâkha* the direction followed by the pil-
 
-
-
 grim was to the north, and the distance was from 170 to 180 *li,* or from 28 to 38 miles. Now the present city of *Ajudhya*, the ancient *Ayodhya* or Sâketa, is almost due north from *Sultânpur*, the distance being 30 miles to the nearest point, or just six miles in excess of the distance given by Hwen Thsang. As the former of these distances is in default, while the latter is in excess, I would suggest, as a possible alternative, that our measurements should be taken from the village of *Mahmûdpur*, which would make the route from Kosam to the Buddhist establishment near Kasapura up to 114 miles, or within three miles of the number stated by Hwen Thsang, and lessen the subsequent route to Ayodhya from 36 to 31 miles, which is within one mile of the number given by the Chinese pilgrim. As all the bearings are in perfect accordance, and as the names of the two places agree almost exactly, I think that there can be little hesitation in accepting the identification of *Sultânpur* or *Kusapura* with the Kasapura of Hwen Thsang.
 
  *Kusapura*, or *Kusa-bhavana-pura*, is said to have been named after Rama's son, Kusa. Shortly after the Muhammadan invasion it belonged to a *Bhar* Raja Nand Kunwar, who was expelled by Sultan Alauddin *Ghori* (read *Khilji*). The defences of the town were strengthened by the conqueror, who built a mosque and changed the name of the place to Sultânpur. The site of *Kusupura* was, no doubt, selected by its founder as a good military position on account of its being surrounded on three sides by the river Gomati or Gumti. The place is at present utterly desolate; the whole population having been removed to the new civil station on the opposite or south bank of
-
-
 
 the river. The ruined fort of Sultânpur now forms a large mound, 750 feet square, with brick towers at the four corners. On all sides it is surrounded by the huts of the ruined town, the whole together covering a space of about half a mile square, or about two miles in circuit. This estimate of the size of Sultânpur agrees very closely with that of Kusapura given by Hwen Thsang, who describes the place as being 10 *li*, or 1^(2/3)miles, in circuit.
 
@@ -4214,15 +3246,9 @@ the river. The ruined fort of Sultânpur now forms a large mound, 750 feet squar
 
   Much difficulty has been felt regarding the position of Fa-Hian's "great kingdom of *Shachi*," and of Hwen Thsang's *Visâkha*, with its enormous number of heretics or Brahmanists; but I hope to show in the most satisfactory manner that these two places are identical, and that they are also the same as the *Sâketa* and *Ajudhya* of the Brahmans. The difficulty has arisen chiefly from an erroneous bearing recorded by Fa-Hian, who places *She-wei*, or *Srâvasti*, to the south of *Shachi*, while Hwen Thsang locates it to the north-east, and partly from his erroneous distance of 7+3+ 10=20 *yojanas*, instead of 30, from the well-known city of Sankisa. The bearing is shown to be erroneous
 
-
-
 from the route of a Hindu pilgrim from the banks of the Godavari to Sewet or Srâvasti, as recorded in the Ceylonese Buddhist works. This pilgrim, after passing through *Mahissati* and *Ujani*, or *Mahesmati* and *Ujain*, reaches Kosâmbi, and from thence passes through *Sâketa* to Sewet, that is along the very route followed by [Hwen Thsang](http://# "Hardy, Manual of Buddhism,' p. 334.").We have, therefore, two authorities in favour of Sewet being to the north of Sâket. With regard to the distance, I refer again to the Buddhist books of Ceylon, in which it is recorded that from *Sakaspura* (or *Sangkasyapura*, now Sankisa) to Sewet was a journey of 30 [*yojanas*](http://# "Ibid., p. 301."). Now, Fa-Hian makes the distance from Sankisa to Kanoj 7 *yojanas*, thence to the forest of Holi, on the Ganges, 3 *yojanas*, and thence to *Shachi* 10 *yojanas*, or altogether only 20 *yojanas*, or 10 less than the Ceylonese books. That Fa-Hian's statement is erroneous is quite clear from the fact that his distance would place Shachi in the neighbourhood of Lucknow; whereas the other distance would place it close to Ajudhya, or Faizâbâd, or in the very position indicated by Hwen Thsang's itinerary. Here, again, we have two authorities in favour of the longer distance. I have no hesitation, therefore, in declaring that Fa-Hian's recorded bearing of *She-wei* from *Sha-chi* is wrong, and that “north" should be read instead of "south."
 
  I have now to show that Fa-Hian's *Sha-chi* is the same as Hwen Thsang's *Visâkha*, and that both are identical with *Sâketa* or *Ajudhya.* With respect to *Sha-chi*, Fa-IIian relates that "on leaving the town by the *southern gate* you find to the east of the road the place where Buddha bit a branch of the nettle -
-
-
-
-
 
 tree and planted it in the ground, where it grew to the height of seven feet, and never increased or diminished in [size](http://# "Remusat, 'Fo-kwe-ki,' c. xix.; and Beal's 'Fah-Hian,' c. xix. 27.")."Now, this is precisely the same legend that is related of *Visâkha* by Hwen Thsang, who says that "to the *south* of the capital, and to the left of the road (that is, to the east as stated by Fa-Hian), there was, amongst other holy objects, an extraordinary tree 6 or 7 feet high, which always remained the same, neither growing nor [decreasing.](http://# "Julien's Hiouen Thsang,' ii, 292.") This is the celebrated toothbrush tree of Buddha, to which I shall have occasion to refer presently. Here I need only notice the very precise agreement in the two descriptions of this famous tree, as to its origin, its height, and its position. The perfect correspondence of these details appears to me to leave no doubt of the identity of Fa-Hian's *Sha-chi* with the *Visâkha* of Hwen Thsang.
 
@@ -4230,17 +3256,9 @@ tree and planted it in the ground, where it grew to the height of seven feet, an
 
  The story of the noble maiden Visâkhâ is related at great length in the Ceylonese books. According to
 
-
-
-
-
 [Hardy,](http://# "Manual of Buddhism,' p. 220. Julien's 'Hiouen Thsang,' i. 305. The Tubbaramo is also mentioned in the 'Ceylonese Annals ;' see Turnour, Journ. Asiat. Soc. Bengal, vii. 790.") she erected a *Purvvârâma at Srâvasti,* which is also mentioned by Hwen Thsang. Now, there was also a *Purvvârâma* at *Sâketa,* and it can hardly be doubted that this monastery was likewise built by her. She was the daughter of *Dhananja*, a rich merchant, who had emigrated from *Râjagriha* to *Sâketa*. Now, amongst the oldest inseribed coins which have been discovered only at Ajudhya, we find some bearing the names of *Dhana Deva* and *Visâkha-Datta.* I mention this because it seems to me to show the probability that the family of *Dhananja* and *Visâkhâ*was of great eminence in Sâketa or Ayodhya; and I infer from the recurrence of their names, as well as from the great celebrity of the lady, that the city may possibly have been called *Visâkhâ*after her name.
 
  The other proof which I derive from the years of Buddha's residence is direct and convineing. According to the Ceylonese annals, Buddha was 35 years of age when he attained Buddhahood; he then led a houseless life for 20 years, preaching in various places in Northern India, all of which are detailed; and of the remaining 25 years of his life he spent 9 in the *Jetavana* monastery at Srâvasti, and 16 in the *Pubhârâmo* monastery at [Sâketapura](http://# "Turnour, Journ. Asiat. Soc. Bengal, vii. 790."). Now, in the Burmese [annals](http://# "Bigandet, Legend of Burmese Buddha,' p. 142.") these numbers are given as 19 years and 6 years, and in the last figure we have the exact number recorded by [Hwen Thsang](http://# "Julien's Hiouen Thsang,' ii. 292."). Nothing can be more complete than this proof. There were only
-
-
-
-
 
 two places at which Buddha resided for any length of time, namely, *Srâvasti*, at which he lived either 9 or 19 years, and *Sâketa*, at which he lived either 6 or 16 years; and as according to Hwen Thsang he livedfor 6 years at Visâkha, which is described as being at some distance to the south of Srâvasti, it follows of necessity that Visâkha and Sâketa were one and the same place.
 
@@ -4253,13 +3271,7 @@ Tâsmai deyâ mayâ kanyâ Kaikeyi nâma to janâ. **
 
  The ancient city of Ayodhya or Sâketa is described in the 'Râmâyana' as situated on the bank of the Sarayu or Sarju river. It is said to have been 12 *yojanas*, or nearly 100 miles in circumference, for which we should probably read 12 kos, or 24 miles,—an extent which the old city, with all its gardens, might once possibly have
 
-
-
 covered. The distance from the *Guptâr* Ghât on the west, to the Râm Ghât on the east, is just 6 miles in a direct line, and if we suppose that the city with its suburbs and gardens formerly occupied the whole intervening space to a depth of two miles, its circuit would have agreed exactly with the smaller measurement of 12 kos. At the present day the people point to Râm Ghât and Guptar Ghât as the eastern and western boundaries of the old city, and the southern boundary they extend to *Bharat-Kund,* near *Bhadarsâ*, a distance of 6 kos. But as these limits include all the places of pilgrimage, it would seem that the people consider them to have been formerly inside the city, which was certainly not the case. In the 'Ayin Akbari,' the old city is said to have measured 148 kos in length by 36 kos in [breadth](http://# "Gladwyn's translation, ii. 32."),or, in other words, it covered the whole of the province of Oudh to the south of the Ghâghra river. The origin of the larger number is obvious. The 12 *yojanas* of the 'Râmâyana,' which are equal to 48 kos, being considered too small for the great city of Rama, the Brahmans simply added 100 kos to make the size tally with their own extravagant notions. The present city of Ajudhya, which is confined to the north-east corner of the old site, is just two miles in length by about three quarters of a mile in breadth; but not one half of this extent is occupied by buildings, and the whole place wears a look of decay. There are no high mounds of ruins, covered with broken statues and sculptured pillars, such as mark the sites of other ancient cities, but only a low irregular mass of rubbish heaps, from which all the bricks have been excavated for the
-
-
-
-
 
 houses of the neighbouring city of Faizâbâd. This Muhammadan city, which is two miles and a half in length by one mile in breadth, is built chiefly of materials extracted from the ruins of Ajudhya. The two cities together occupy an area of nearly six square miles, or just about one-half of the probable size of the ancient capital of Râma. In Faizâbâd the only building of any consequence is the stuccoed brick tomb of the old Bhao Begam, whose story was dragged before the public during the famous trial of Warren Hastings. Faizâbâd was the capital of the first Nawâbs of Oudh, but it was deserted by Asaf-ud-daolah in A.D. 1775.
 
@@ -4269,47 +3281,23 @@ houses of the neighbouring city of Faizâbâd. This Muhammadan city, which is tw
 
  The ancient territory of *Ayodhya*, or Oudh, was divided by the Sarjû or Ghâgra river into two great provinces; that to the north being called *Uttara Kosala*, and that to the south *Banaodha*. Each was again
 
-
-
 subdivided into two districts. In Banaodha these are called *Pachham-rât* and *Purab-rât*, or the western and eastern districts; and in *Uttara Kosala* they are Gauda (vulgarly *Gondu*) to the south of the Rapti, and *Kosala* to the north of the Rapti, or *Râwati*, as it is universally called in Oudh. Some of these names are found in the Purânas. Thus, in the Vayu Purâna, *Lava* the son of Râma is said to have reigned in Uttara Kosala; but in the Matsya Linga and Kurma Purânas, *Srâvasti* is stated to be in *Gauḍa*. These apparent discrepancies are satisfactorily explained when we learn that *Gauḍa*is only a subdivision of *Uttara Kosala*, and that the ruins of Srâvasti have actually been discovered in the district of *Gauḍa*, which is the Gonda of the maps. The extent of Gauda is proved by the old name of Balrâmpur on the Rapti, which was formerly *Ramgarh-Gauḍa*. I presume, therefore, that both the *Gauḍa Brahmans* and the *Gauḍa Tagas* must originally have belonged to this district, and not to the mediæval city of *Gauḍa* in Bengal. Brahmans of this name are still numerous in Ajudhya and Jahângirabad on the right bank of the Ghâgra river, in Gonda, Pakhapur, and Jaisni of the Gonda or Gauḍa district ou the left bank, and in many parts of the neighbouring province of Gorakhpur. *Ajudhya*, therefore, was the capital of *Bunaodha*, or Oudh to the south of the Ghâgra, while *Srâvasti* was the capital of *Uttara Kosala*, or Oudh to the north of the Ghâgra.
 
  The position of the famous city of *Srâvasti*, one of the most celebrated places in the annals of Buddhism, has long puzzled our best scholars. This was owing partly to the contradictory statements of the Chinese pilgrims themselves, and partly to the want of a good
-
-
 
 map of the province of Oudh. In my account of *Visâkha* or *Ajudhya*, I have compared the bearings and distances recorded by Fa-Hian and Hwen Thsang with those preserved in the Buddhist annals of Ceylon, and I have shown conclusively that Fa-Hian's distance from *Sankisa* and his bearing from Shachi or Saket are both erroneous. We know from Hwen Thsang and the Buddhist books of Ceylon that Srâvasti was to the north of *Sâket* or *Ajudhya*, or in other words that it was in the district of *Gauḍa* or *Uttara Kosala*, which is confirmed by the statements of no less than four of the Brahmanical Purânas. And as Fa-Hian also says that *Shewei* or *Sewet* was in Kosala, there can be no doubt whatever that Srâvasti must be looked for within a few days' journey to the north-ward of *Sâket* or *Ayodhya*. According to Fa-Hian the distance was 8 *yojanas*, or 56 miles, which is increased by Hwen Thsang to 500 *li*, or [83 miles](http://# "Beal's 'Fah-Hian,' c. xx. 73 ; Julien's 'Hiouen Thsang,' ii. 292.").But as the latter pilgrim reduced the Indian *yojana* to Chinese measure at the rate of 40 *li* per *yojana*, we may correct his distance by the nearest round number of 350 *li*, or 58 miles, to bring it into accordance with the other. Now, as this is the exact distance from Ajudhya of the great ruined city on the south bank of the Rapti, called *Sâhet-Mâhet*, in which I discovered a colossal statue of Buddha with an inscription containing the name of *Srâvasti* itself, I have no hesitation in correcting Hwen Thsang's distance from 500 *li* to 350 *li*, as proposed above.
 
  The ruined city of Sâhet-Mâhet is situated between Akaona and Balrâmpur, at 5 miles from the former and 12 miles from the latter, and at nearly equal dis-
 
-
-
-
-
 tances from Bahraich and [Gonda](http://# "See Map No. XI. for its position.").In shape it is an almost semicircular crescent, with its diameter of one mile and a third in length curved inwards and facing the north-east, along the old bank of the Rapti river. The western front, which runs due north and south, for three-quarters of a mile, is the only straight portion of the enclosure. The ramparts vary considerably in height; those to the west being from 35 to 40 feet in height, while those on the south and east are not more than 25 or 30 feet. The highest point is the great north-west bastion, which is 50 feet above the fields. The north-east face, or shorter curve of the crescent, was defended by the Rapti, which still flows down its old bed during the annual floods. The land ramparts on the longer curve of the crescent must once have been defended by a ditch, the remains of which yet exist as a swamp, nearly half a mile in length, at the south-west corner. Everywhere the ramparts are covered with fragments of brick, of the large size peculiar to very ancient cities; and though I was unable to trace any remains of walls except in one place, yet the very presence of the bricks is quite sufficient to show that the earthen ramparts must once have been crowned by brick parapets and battlements. The portion of the parapet wall, which I discovered still standing in the middle of the river face, was 10 feet thick. The whole circuit of the old earthen ramparts, according to my survey, is 17,300 feet, or upwards of 3¼ miles. Now this is the exact size of 20 *li*, or 3^(1/3) miles, which Hwen Thsang gives to the palace alone; but, as the city was then deserted and in ruins, he must have mistaken the city itself for the palace.
-
-
-
-
 
 It is certain at least that the suburbs outside the walls must have been very limited indeed, as the place is almost entirely surrounded with the remains of large religious buildings, which would have left but little room for any private dwellings.I am therefore quite satisfied that the city has been mistaken for the palace; and this mistake is sufficient to show how utterly ruined this once famous city must have been at so distant a period as the seventh century, when the place was visited by Hwen Thsang. As Fa-Hian describes the population as already very inconsiderable in A.D. 400, while the Ceylonese annals speak of *Khiradhâra*, king of *Sawatthipura* between A.D. 275 and 302, the great decline of Srâvasti must have taken place during the fourth century, and we may perhaps not be far wrong in connecting it with the fall of the Gupta dynasty in A.D. 319.
 
 * Srâvasti* is said to have been built by [Raja *Sravasta*](http://# "Wilson, Vishnu Purana,' book iv. p. 2; Hall's edit., vol. iv. P. 263."),the son of *Yuvanâswa* of the Solar race, and the tenth in descent from Surya himself. Its foundation therefore reaches to the fabulous ages of Indian history, long anterior to Râma. During this early period it most probably formed part of the kingdom of Ayodhya, as the Vâyu Purana assigns it to Lava, the son of Râma. When Srâvasti next appears in history, in the time of Buddha, it was the capital of King Prasenâjit, the son of Maha Kosala. The king became a convert to the new faith, and during the rest of his life he was the firm friend and protector of Buddha. But his son Virudhaka hated the race of the Sâkyas, and his invasion of their country and subsequent massacre of 500 Sâkya maidens, who had been selected for
 
-
-
-
-
 his harem, brought forth the famous prediction of Buddha, that within seven days the king would be consumed by fire. As the story has been preserved by Buddhists, the prediction was of course fulfilled, and upwards of eleven centuries afterwards, the tank in which the king had sought to avoid the flames was pointed out to the credulous [Hwen Thsang](http://# "Julien's 'Hiouen Thsang,' ii. 306.").
 
  We hear nothing more of Srâvasti until one century after Kanishka, or five centuries after Buddha, when, according to Hwen Thsang, Vikramâditya, king of Srâvasti, became a persecutor of Buddhists, and the famous Manorhita, author of the Vibhâsha Sâstra, being worsted in argument by the Brahmans, put himself to death. During the reign of his successor, whose name is not given, the Brahmans were overcome by *Vasubandhu*, the eminent disciple of *Manorhita*. The probable date of these two kings may be set down as ranging from A.D. 79 to 120. For the next two centuries *Srâvasti* would seem to have been under the rule of its own kings, as we find *Khiradhâra* and his nephew mentioned as Rajas between A.D. 275 and [319.](http://# "Turnour, in Journ. Asiat. Soc. Bengal, vi. 865.") But there can be little doubt that during the whole of this time Srâvasti was only a dependency of the powerful Gupta dynasty of Magadha, as the neighbouring city of Sâketa is specially said to have belonged to them. "Princes of the Gupta race," says the Vâyu Purana, "will possess all those countries; the banks of the Ganges to Prayâga, and Sâketa, and [Magadha](http://# "Quoted in Wilson's 'Vishnu Purana,' p. 479, note; and Hall's edition, iv. 218.")." From this time Srâvasti gradually de-
-
-
-
-
-
-
-
-
 
 clined. In A.D. 400 it contained only 200 families; in A.D. 632 it was completely deserted; and at the present day the whole area of the city, excepting only a few clearances near the gateways, is a mass of almost impenetrable jangal.
 
@@ -4317,19 +3305,11 @@ clined. In A.D. 400 it contained only 200 families; in A.D. 632 it was completel
 
  Hwen Thsang assigns to the kingdom of *Srâvasti* a circuit of 4000 *li*, or 667 miles, which is about double the actual size of the territory lying between the Ghâgra river and the foot of the mountains; but as he assigns the same dimensions to the territory of Nep*â*l,
 
-
-
 it is probable that in his time the two western districts of Malbhûm and Khâchi, in the hills to the north, may at that time have belonged to Srâvasti. The territory of Srâvasti would thus have comprised all the country lying between the Himalaya mountains and the Ghâgra river, from the Karnâli river on the west to the mountain of Dhaolagiri and Faizâbâd on the east. The circuit of this tract is about 600 miles, or very nearly the same as the estimated measurement of Hwen Thsang.
 
 **19. KAPILA. **
 
  From Srâvasti both of the Chinese pilgrims proceeded direct to *Kapila*, which was famous throughout India as the birth-place of Buddha. Hwen Thsang makes the distance 500 *li*, or 83 miles, to the [south-east](http://# "Julien's 'Hiouen Thsang,' ii. 309.");but according to the earlier pilgrim Fa-Hian the distance was 13 *yojanas,* or 91 miles, in the same [direction](http://# "Beal's 'Fah-Hian,' xxi-xxii."). The difference of 1 *yojana*, or 7 miles, seems to be due to some confusion as to the relative positions of *Kapila*, and the birth-place of Krakuchanda, which were just one *yojana* apart. Fa-Hian reached the latter place first before visiting Kapila; but Hwen Thsang went first to Kapila, and afterwards to the birth-place of Krakuchanda. As the site of this place may with great probability be identified with *Kaküa,* 8 miles to the west of *Nagar*, which I propose to identify with *Kapila-nagara*, I am inclined to adopt the narrative of Fa-Hian. Now the distance between *Sâhet* and *Nagar* is rather more than 81½ miles, as I found the road from Sâhet to Asokpur 42½ miles, and from Asokpur to
-
-
-
-
-
-
 
 Nagar the distance is 39 miles measured direct on the large map of the Indian Atlas. The actual distance by the winding roads of this part of the country cannot therefore be less than 85 miles, and is probably about 90 miles, as stated by Fa-Hian.
 
@@ -4337,23 +3317,9 @@ Nagar the distance is 39 miles measured direct on the large map of the Indian At
 
  No trace of the name of Kapila has yet been discovered; but I believe that the position of the city can be fixed within very narrow limits by many concurring data. According to the Buddhist chronicles of Tibet, *Kapilavastu* or *Kapilanagara* was founded by some descendants of the solar hero [Gotama](http://# "Csoma de Körös in Journ. Asiat. Soc. Bengal, ii. 391."),on the bank of a lake near the river Rohini in Kosala. Now the town of *Nagar*, or *Nagar-khâs*, that is "the city," is situated on the eastern bank of the Chando Tâl, near a large stream named Kohâna, a tributary of the Rapti, and in the northern division of Oudh beyond the Ghâgra river, and therefore in Kosala. Its distance and bearing from Srâvasti have already been noted as agreeing most precisely with those stated by the Chinese pilgrims. To the west a small stream named *Sidh* falls into the lake. This name, which means the “perfect or the holy one," is always applied to the sages of antiquity, and in the present instance I think that it may refer to the sage Kapila, whose hermitage was
 
-
-
 also on the bank of the lake opposite the city. The Gautamas had at first established themselves near the sage's dwelling; but, as the lowing of their kine had disturbed his meditations, they founded their new city of *Kapilanagara* at some distance, that is on the орроsite or eastern end of the lake.
 
  The position of the Rohini river is more precisely indicated by the Chinese pilgrims and Ceylonese chronicles. According to [Fa-Hian](http://# "Beal's Fah-Hian,' xxii. 87.")the royal garden, named *Lun-ming*, or Lumbini, in which Buddha was born, was situated at 50 *li*, or 8^(1/3) miles, to the east of Kapila. [Hwen Thsang](http://# "‘Hiouen Thsang,' ii. 322.")calls the garden *La-fa-ni*, and places it on the bank of a small stream flowing to the south-east which the people called the "River of Oil." According to the [Ceylonese Chronicles](http://# "Hardy's 'Manual of Buddhism,' p.307."),the Rohini flowed between the cities of Kapila and Koli, the latter being the birth-place of Mâyâ Devi, the mother of Buddha. It was also called *Vyâghra-pura*, or "[Tiger-town](http://# "Ibid., P. 136.")."When Mâyâ was near her confinement she went to pay a visit to her parents at Koli. "Between the two cities there was a garden of *Sâl* trees called *Lumbini*, to which the inhabitants of both cities were accustomed to resort for recreation." There she rested and gave birth to the infant Buddha. In another place it is said that during a season of drought the inhabitants of Kapila and Koli quarrelled about. the distribution of the waters of the Rohini for the irrigation of their [rice-fields](http://# "Ibid., p. 307.").From all these details I infer that the *Rohini* was most probably the *Kohâna* river of the present day, which flows in a south-easterly "
-
-
-
-
-
-
-
-
-
-
-
-
 
 course about 6 miles to the eastward of Nagar. It is the *Kooana* and *Quana* of the maps, and the *Koyane* of [*Buchanan*](http://# "Eastern India,' ii. 301."), who describes it as "a fine little river, which, with its numerous branches, fertilizes all the south-eastern parts of the district." It therefore corresponds in all essential particulars with the Rohini of the Buddhist chronicles.
 
@@ -4361,25 +3327,17 @@ course about 6 miles to the eastward of Nagar. It is the *Kooana* and *Quana* of
 
  Another strong point in favour of the identification of Nagar with the ancient Kapila is the fact that the present chief of Nagar is a *Gautama Rajput*, and the districts of Nagar and Amorha are the head-quarters of the clan, as well as of the *Gautamiya Rajputs*, who are an inferior branch of the Gautamas. Now the *Sâkyas* of Kapilavastu were also *Gautama* Rajputs, and Súkya Muni himself is still known amongst the people
 
-
-
 of Barma as *Gautama Buddha*, or simply *Gautama*. In the [Vansalata](http://# "Buchanan, 'Eastern India,' ii. 458.")the *Gautamas* are said to be descendants of *Arkabandhu*, which is one of the names of Buddha given in the Amara Kosha of the famous Amara Sinha, who was himself a Buddhist.
 
  I have not visited Nagar myself, but I am informed that it possesses a *khera*, or mound of brick ruins, and that there are numerous remains of brick buildings in the neighbourhood. As Fa-Hian describes Kapila in the beginning of the fifth century as "literally a vast solitude, in which there was neither king nor people," but only a few monks and some ten or twenty houses, it is scarcely possible that there would be any conspicuous traces of the city which has lain desolate for upwards of twelve centuries. In the middle of the seventh century Hwen Thsang found the place so utterly ruined that it was impossible to ascertain its original size, I am therefore quite satisfied that the absence of any extensive ruins at the present day cannot overthrow the very strong claims which *Nagar* certainly possesses to be identified with the ancient city of Kapila. But this identification is still further strengthened by the names of several places in the vicinity, which would appear to represent some of the more holy spots that were famous in the early history of Buddhism.I allude more especially to the birth-places of the two previous Buddhas, *Krakuchanda* and *Kanaka-muni*, and the *Ṣara-kupa*, or “arrow-fountain,” which sprang into existence at the stroke of Buddha's arrow.
 
  Fa-Hian names *Na-pi-kia* as the birthplace of Kra-
 
-
-
-
-
 kuchanda; but in the [Buddhist chronicles](http://# "Sapta Buddha Stotra,' quoted by Remusat in 'Fo-kwe-ki,' c. xxi. note 3.")the city is called *Kshemavati* and [*Khemavati*](http://# "Turnour's 'Mahawanso,' Introduction, p. 33."). In the books of Ceylon, [however](http://# "Hardy's 'Manual of Buddhism,’ 96."),*Krakuchanda* is said to have been the Purohit, or family priest, of Raja Kshema, of *Mekhala*. According to Fa-Hian, the city was about 1 *yojana*, or 7 miles, to the west-north-west of Kapila; but according to Hwen Thsang it was 50 *li*, or 8^(1/3) miles, to the south of Kapila. In the absence of other data, it is difficult to say which of these statements may be correct; but as I find a town named *Kaküa*, exactly 8 miles to the west of Nagar, I am strongly inclined to adopt the account of Fa-Hian, as *Kaku* is the Pali form of *Kraku*. According to Hwen Thsang's bearing, the city should be looked for in the neighbourhood of Kalwâri Khâs, which is 7 miles to the south of Nagar.
 
  A similar discrepancy is found in the position of the birthplace of *Kanaka-muni*, which, according to Fa-Hian, was to the south of Krakuchanda's birthplace, but to the north-east of it according to Hwen Thsang. They agree exactly as to the distance, which the latter makes 30 *li*, or just 5 miles, while the former calls it somewhat less than 1 *yojana*, that is about 5 or 6 miles. In the Ceylonese chronicles the town is named [*Sobhavati-nagara*](http://# "'Mahawanso,' Introduction, p.34."),which may possibly be represented by the village of *Subhay-Pursa*, at 6^(1/2) miles to the south-east of Kak*ü*a, and the same distance to the south-west of Nagar.
 
  The same unaccountable difference of bearing is found also in the position of the *Ṣara-Kupa*, or the
-
-
 
 "Arrow Fountain," which Fa-Hian places at 30 *li*, or 5 miles, to the south-west of Kapila, while Hwen Thsang places it at the same distance to the south-east. In this instance also I believe that Fa-Hian is right, as Hwen Thsang makes the distance from the *Ṣara-Kupa* to the *Lumbini* garden from 80 to 90 *li,* or 13 to 15 miles, which, as I have already shown, was on the bank of the Rohini or Kohâna river, to the east of Kapila. Now, if the Arrow Fountain was to the south-east of the capital, its distance from the *Lumbini* garden could not have been more than 6 or 7 miles, whereas if it was to the south-west, as stated by Fa-Hian, the distance would be about 12 or 13 miles. The probable position of the Sara-Kupa, or Arrow Fountain, may therefore be fixed near the village of *Sarwanpur*, which is exactly 5½ miles to the south-west of Nagar.
 
@@ -4389,21 +3347,13 @@ Râmagrâma.
 
  From Kapila both pilgrims proceeded to *Lan-mo*, which has been identified with the *Râmagrâma* of the Buddhist chronicles of India. Fa-Hian makes the distance 5 *yojanas*, or 35 miles, to the [east](http://# "Beal's Fah-Hian,' c. xxii. p. 89."),and Hwen
 
-
-
 Thsang gives 200 *li*, or 33^(1/3) miles, in the same [direction](http://# "Julien's Hiouen Thsang,' ii. 325."). But in spite of their agreement I believe that the distance is in excess of the truth. Their subsequent march to the bank of the *Anoma* river is said to be 3 *yojanas* or 21 miles by Fa-Hian, and 100 *li* or 16^(2/3) miles by Hwen Thsang, thus making the total distance from Kapila to the Anoma river 8 *yojanas*, or 56 miles, according to the former, and 300 *li*, or 50 miles, according to the latter. But in the Indian Buddhist scriptures, this distance is said to be only 6 *yojanas*, or 42 miles, which I believe to be correct, as the *Aumi* river of the present day, which is most probably the Anoma river of the Buddhist books, is just 40 miles distant from Nagar in an easterly direction. The identification of the Anoma will be discussed presently.
 
  According to the pilgrims' statements, the position of *Râmagrâma* must be looked for at about two-thirds of the distance between Nagar and the Anoma river, that is at 4 *yojanas*, or 28 miles. In this position I find the village of [Deokali](http://# "See Map No. XI."),with a mound of ruins, which was used as a station for the trigonometrical survey. In the 'Mahawanso' it is stated that the stupa of Râmagâmo, which stood on the bank of the *Ganges*, was destroyed by the action of the [current.](http://# "'Mahawanso,' c. xxxi. p.185.") Mr. Laidlay has already pointed out that this river could not be the Ganges; but might be either the *Ghâgra*, or some other large river in the north. But I am inclined to believe that the Ganges is a simple fabrication of the Ceylonese chronicler. All the Buddhist scriptures agree in stating that the relics of Buddha were divided
 
-
-
-
-
 into eight portions, of which one fell to the lot of the Kosalas of *Râmagrâma*, over which they erected a stupa. Some years later seven portions of the relics were collected together by Ajatasatru, king of Magadha, and enshrined in a single stupa at Râjagriha ; but the eighth portion still remained at Râmagrâma. According to the Ceylonese chronicler, the stupa of Râmagrâma was washed away by the Ganges, and the relie casket, having been carried down the river to the ocean, was discovered by the *Nâgas*, or water gods, and presented to their king, 'who built a stupa for its reception. During the reign of Dutthagâmini of Ceylon, B.C. 161 to 137, the casket was miraculously obtained from the Nâga king by the holy monk So-nuttaro, and enshrined in the *Mahathupo*, or "great stupa," in the land of [Lanka](http://# "Mahawanso,' c. xxxi.").
 
  Now this story is completely at variance with the statements of the Chinese pilgrims, both of whom visited Ramâgrâma many centuries after Dutthagâmini, when they found the relic stupa intact, but no river. [Fa-Hian](http://# "Beal's Fah-Hian,' c. xxiii. p. 90."),in the beginning of the fifth century, saw a tank beside the stupa, in which a dragon (*Nâga*) lived, who continually watched the tower. In the middle of the seventh century, [Hwen Thsang](http://# "Julien's 'Hiouen Thsang,' ii. 326.")saw the same stupa and the same tank of clear water inhabited by dragons (*Nâgas*), who daily transformed themselves into men, and paid their devotions to the [stupa](http://# "Ibid.").Both pilgrims mention the attempt of Asoka to remove these relics to his own capital, which was abandoned on the expostulation of the Nâga king. "If by thy oblations," said the Nâga, "thou canst excel this, thou mayest 
-
-
 
 destroy the tower, and I shall not prevent thee." Now according to the Ceylonese chronicler, this is the very same argument that was used by the Nâga king to dissuade the priest Sonuttaro from removing the relics to [Ceylon](http://# "'Mahawanso,' c. xxxi. p.188.").I infer, therefore, that the original "tank" of Râmagrâma was adroitly changed into a river by the Ceylonese author, so that the relics which were in charge of the Nâgas of the tank, might be conveyed to the ocean-palace of the Nâga king, from whence they could as readily be transferred to Ceylon as to any other place. The river was thus a necessity in the Ceylonese legend, to couvey the relics away from Râmagrâma to the ocean. But the authority of a legend can have no weight against the united testimony of the two independent pilgrims, who many centuries later found the stupa still standing, but saw no river. I therefore dismiss the Ganges as a fabrication of the Ceylonese chroniclers, and accept in its stead the Nâga tank of the Chinese pilgrims. Having thus got rid of the river, I can see no objection to the identification of *Deokali* with the Râmagrâma of Buddhist history. The town was quite deserted at the time of Fa-Hian's visit, in the fifth century, who found only a small religious establishment; this was still kept up in the middle of the seventh century, but it must have been very near its dissolution, as there was only a single *srâmanera*, or monk, to conduct the affairs of the monastery.
 
@@ -4411,14 +3361,9 @@ River Anoma.
 
  The river Anoma was famous in the history of Buddhism as the scene of Prince Siddhârta's assumption
 
-
-
 of the dress of an ascetic, where he cut off his hair, and dismissed his attendant and his horse. According to the [Burmese](http://# "Bigandet, 'Legend of the Burmese Buddha,' p. 41.")and [Ceylonese](http://# "Turnour, Journ. Asiat. Soc. Bengal, vii. 809. Hardy, 'Manual of Buddhism,' p. 160, says 480 miles, from which it is evident that he has adopted Turnour's erroneous valuation of the yojana at 16 miles.")chronicles, the distance from Kapila was 30 *yojanas*, or about 210 miles,—a mistake which must have originated in an crroneous opinion that the river was exactly halfway between Kapila and Rajagriha, as the total distance is said to be 60 *yojanas*. In the Tibetan translation of the [*Lalita Vistâra*](http://# "Foucaux, French translation, p. 214."), the distance is stated at 6 *yojanas*, or 42 miles. This is somewhat less than the estimates of Fa-Hian and Hwen Thsang, but as the former is made up of two distances, given in whole yojanas, and the latter of two distances, given in round hundreds of *li*, they can only be accepted as approximations. Thus Fa-Hian's 5 *yojanas*, plus 3 *yojanas*, may have been only 4½and 2½ *yojanas*, and Hwen Thsang's 200 *li*, plus 100 *li*, may have been actually only 180 *li*, plus 80 7. The former may thus be reduced to 7 yojanas, or 49 miles, and the latter to 260 *li*, or 43 miles. I therefore accept the 6 *yojanas*, or 42 miles, of the *Lalita Vistâra* as the nearest approach to the real distance that could be stated in whole *yojanas.*
 
  When Prince Siddhârta left Kapila to enter upon the life of an ascetic, he took the road by Vaisâli to Rajagriha. The general direction of his route was therefore nearly east-south-east past Deokali to the bank of the *Aumi* river below Sangrâmpur, and above the point where it enters the [*Aumiyar* Lake](http://# "Eastern India,' ii. 314. Buchanan calls the Nawar Lake, but ").As the  
-
-
-
 
 course of the Aumi is from north-west to south-east, the distance from Nagar varies from 40 to 45 miles. The route could not have crossed the river above Sangrâmpur, as the distance would be under 40 miles, nor below the Aumiyar Lake, which discharges itself by a very short channel into the Rapti. If the data are correct, the point of crossing must have been just above the head of the Aumiyar Lake.
 
@@ -4426,27 +3371,15 @@ course of the Aumi is from north-west to south-east, the distance from Nagar var
 
  According to the *Lalita Vistâra* the point where Buddha crossed the river was at the town of *Maneya*, in the district of [*Anuvaineya*.](http://# "in the Atlas of India and other Government Maps it is named the Amiyar Tâl, and the river is called the Ami Nadi. * Foucaux, translation from Tibetan, p. 214.")The name of the town is unknown, but that of the district would appear to be the same as *Anaola*, which is the name of the divi-
 
-
-
-
-
 sion on the western bank of the lower course of the Aumi river, which includes both Sangrâmpur and the Aumiyar lake. *Anuvaineya* means the country along the *Vaineya* river, or on the lower course of the *Vaineya*. The name is probably derived from Venu, a "bambu," and if so it would mean "Bambu river," and would thus be equivalent to *Bânsi,* which might be appropriately applied to it, either on account of the *bambus* on its banks, or because it flows past the town of Bânsi.
 
  The Buddhist legends of Barma and Ceylon are unanimous in stating that Prince Siddhârta, on reaching the bank of the stream where he dismissed his attendants and horse, inquired its name, and on being informed that it was called *Anoma,* made a remark in allusion to the name of the river, which is differently rendered by the translators. According to the [Burmese legend](http://# "Legend of the Burmese Buddha,' by Bishop Bigandet, p. 41.")the name of the river was *Anauma*, on hearing which the prince remarked, "I will not show myself *unworthy* of the high dignity I aspire to." Then "spurring his horse, the fierce animal leaped at once to the opposite bank." Mr. Hardy states the occurrence even more [briefly](http://# "'Manual of Buddhism,' p.160.") :"On arriving at the river he inquired its name from the noble, and when he was told that it was *Anoma*, 'illustrious or honourable,' he received it as another omen in his favour." Turnour gives the story at length from the C'eylonese *Aṭṭakaṭha* of the [Buddhawanso](http://# "Journ. Asiat. Soc. Bengal, vii. 808.").Prince Siddhârta inquired of Chhando, "What is the name of this river?—' Lord, its name is *Anomâ*'. Replying, 'Nor
-
-
-
-
 
 will there be any *Anoma* (inferiority) in my ordination,' he pressed his heel to the horse and gave him the signal to leap." Turnour notes that "this remark involves a pun;" but that a pun "is by no means a matter of levity in Buddhistical literature." By some oversight, Turnour has rendered *anoma* by "inferiority," whereas its meaning is exactly the reverse, and is correctly given by Hardy and Bishop Bigandet. According to the text of the Burmese and Ceylonese. chronicles, it would appear that the name of the river was *Anoma*, the "not inferior," that is the "superior," and the prince's remark must have been that so also would his ordination be *anoma*, or "superior." But as the name of the river at the present day is *Aumi*, or "inferior," and as Turnour's translation of the word as "inferiority" would seem to show that in his copy at least the name was *Oma* or *Auma*, I cannot help suspecting that this is the true reading; and that when the prince was informed that the name of the river was *Auma*, or "inferior," he remarked "My ordination shall be anauma, or "superior." If the original name of the stream had been *Anoma*, it is difficult to understand how it could have been changed to *Aumi*, which has the very opposite meaning. But if it was properly *Aumi*, that is the "inferior" or lesser branch of the Rapti, and it was arbitrarily changed by the Buddhists to *Anauma*, a return to the use of the original name would have been only a natural consequence of the downfall of Buddhism.
 
  But the identification of the Buddhistical *Anoma* with the modern Aumi is still further confirmed by the existence of three significant names on the eastern bank of the river, within a short distance of the point
 
-
-
 which I have assigned for the prince's passage of the stream. On reaching the opposite bank, the prince alighted from his horse and directed his attendant *Chandaka* to return to [Kapila](http://# "Lalita Vistira.' Foucaux, translation from Tibetan, p. 214.").At this spot there stood a stupa called *Chandaka-nivarttana,* or "Chandaka's return," which in the spoken dialects would probably have been shortened to *Chanda-bartta*. This place may, I think, be identified with the village of *Chandaoli* on the eastern bank of the Aumi river, near the head of the Aumiyar Lake, and 10 miles to the south of Gorakhpur. With his sword the prince then cut off his long locks of hair, *chuḍa*, which being thrown aloft were caught by the gods, who built a stupa on the spot called *Chuḍa-pati-graha*, or the “heap of hair-locks." In the spoken dialects this name would have been shortened to *Chuḍa-gaha*, which, I think, may be identified with the village of Chureya, 3 miles to the north of Chandaoli. The prince next changed his royal garments, called *kâsâya*, because made of the fine fabrics of *Kâsi*, or Banâras, for the plain dress of an ascetic; and on the spot where this took place the people erected a stupa, named *Kâṣâyagrahan*, or "doffed garments." This place I would identify with the village of *Kaseyar*, 3½ miles to the south-cast of Chandaoli. In favour of these identifications I may mention that Hwen Thsang places the stupa of the "doffed garments" to the east of that of "Chandaka's return;" but his position of the stupa of the "cut hair" at a short distance from that of the "doffed garments" is directly opposed to the site that I have suggested at Chureya, which is 6 miles to the north of Kaseyar. It seems probable, therefore, that 
-
-
 
 one of my suggested identifications must be wrong; but as the other two would appear to agree with the relative positions assigned by Hwen Thsang, I think that they are probably correct.
 
@@ -4454,29 +3387,19 @@ one of my suggested identifications must be wrong; but as the other two would ap
 
  From the Anoma river both of the Chinese pilgrims proceeded to visit the stupa that was erected at *Pippalawano* over the charcoal ashes of the funeral pile of Buddha. The *Moriyas* of this city, having applied too late for a share of the relies of the body, were obliged to be content with the ashes. Fa-Hian places the stupa at 4 *yojanas*, or 28 miles, to the east of the Anoma; but Hwen Thsang makes the distance 180 to 190 li, or from 30 to 32 miles, and the bearing south-east. Fa-Hian does not mention the name of the town, but in the [Burmese](http://# "Bigandet, ' Legend of the Burmese Buddha,' p. 212.")and Ceylonese [chronicles](http://# "Turnour, Journ. Asiat. Soc. Bengal, vii. 1013.")it is called *Pippali-wano,* or the "Pippal-forest;" and in the [Tibetan *Dulva*](http://# " Asiatic Researches,' Bengal, xx.")it is called the town of the *Nyagrodha,* or Banian-trees. Hwen Thsang also speaks of the "forest of *Nyagrodha*-trees" as the site of the "charcoal stupa," and as he actually visited the place, we must accept his testimony in preference to that of the distant chroniclers of Ceylon. No place of this name is now known; but in the south-east direction indicated by Hwen Thsang, there is a large forest which completely surrounds the ruins of an ancient city called *Sahankat.* This place is described at length by [Buchanan](http://# "Eastern India,' ii. 370. See Map No. XI. for its position."), who found several statues of Buddha amongst the ruins. It was therefore certainly
 
-
-
 in existence during the flourishing period of Buddhism. It is 20 miles distant from the Chandaoli Ghat, on the Aumi, measured in a direct line on the map; but by the road it is not less than 25 miles, owing to the numerous streams that intersect the route. The position therefore corresponds as nearly as possible with that assigned to the Charcoal Tower by Hwen Thsang, but I have no confirmatory evidence to offer, unless the name of the village of Srinagar *Kolua* may be connected with *Koïl*, or charcoal, which is not very probable. I may add, however, that the bearing of *Kasia* from Sahankat corresponds with the north-east direction of Kusinagara from the Charcoal Stupa which is recorded by Hwen Thsang.
 
 20. KUSINAGARA.
 
  Fa-Hian places *Kusinagara* at 12 *yojanas*, or 84 miles, to the eastward of the Charcoal Stupa, a distance which is quite impossible when compared with its other recorded distances from Vaisâli and [Banâras](http://# "Beal's Fah-Hian,' xxiv. 93."). Unfortunately, Hwen Thsang, contrary to his usual custom, has omitted to note the distance, and simply states that he travelled in a north-east direction for a long time through a vast forest, full of wild bulls and wild elephants, and infested with brigands. A portion of this forest still exists to the north and east of *Sahânkat*, and wild elephants still abound in the Tarai forests to the north of Gorakhpur. Wilson first proposed *Kasia* as the site of Kusinagara, and the suggestion has since been generally adopted. The village is situated exactly 35 miles to the east of Gorakhpur, at the crossing of two great [thoroughfares](http://# "See Map No. XI. for its position."). It
 
-
-
-
-
 is 28 miles to the north-east of *Sahankat* in a direct line measured on the map, or about 35 miles by road. The distance is therefore only 5 *yojanas*, instead of 12, as noted by Fa-Hian. It cannot be placed further to the north-east without increasing its distance from Banâras, and lessening its distance from Vaisâli. Now the former is limited by Hwen Thsang to 700 *li*, or 117 miles, and the latter is fixed by Fa-Hian himself at 25 *yojanas*, or 175 miles; and as both estimates agree very closely with the actual position of *Kasia*, I am satisfied that Fa-Hian's 12 *yojanas* must be a mistake. Anrudhwa, near Kasia, is exactly 111 miles to the north-north-east of Banâras, measured in a direct line on the map, and cannot, therefore, be less than 120 miles by road. The distance between Kasia and Vaisâli, by the route which I marched, is just 140 miles; but this was along the new straight lines which have been laid out by the British authorities. By the old winding native tracks the distance would have been much greater, or certainly not less than 160 miles.
 
  At the time of Hwen Thsang's visit the walls of *Kusinagara* were in ruins, and the place was almost deserted; but the brick foundations of the old capital occupied a circuit of about 12 *li*, or 2 miles. The existing ruins between Anrudhwa and Kasia are scattered over a much larger space; but some of these were certainly outside the city, and it is now quite impossible to ascertain its exact limits. It most probably occupied the site of the mound of ruins to the north-east of the village of Anrudhwa. The spot where Buddha obtained *Nirvâna* would then correspond with the site of the stupa and ruins now called
 
-
-
 *Mâtha-kuär-ka-kot*, or the "fort of the Dead Prince," aud the spot where his body was burned would correspond with the site of the great stupa now called *Devisthân*. The former lies to the north-west of Anrudhwa, and to the west of the old channel of the *Chota Gandak*, or *Hiranyavati* river, which is still occasionally filled after heavy rain. The latter lies to the north-east of Anrudhwa, and to the east of the old channel of the *Hirana*, or Chota Gandak.
 
  The only name now associated with the ruins near Kasia is that of *Mâthâ Kuär,* or the "Dead Prince." Mr. Liston gives the name as *Mâta*, but a Brahman of the neighbouring village of Bishanpur, who wrote the name for me, spelt it as I have given it, *Mâthâ.* As this spelling points to the derivation of the word from *Matha,* or Mâtha, "to kill," I have translated *Mâthâ Kuär* as the "Dead Prince," which I refer to Buddha himself after his death, or, in the language of the Buddhists, after his obtainment of *Nirvâna*. Hwen Thsang, when speaking of Súkya's assumption of the mendicant's dress, calls him *Kumâra Râja*, or the Royal Prince;" but although this title was never, I believe, applied to him by the learned after his assumption of Buddhahood, it does not seem at all improbable that it may have remained in common use amongst the people. We know from Hwen Thsang that on the spot where Buddha died there was a brick *vihâr*, or temple monastery, in which was enshrined a recumbent statue of Buddha on his death-bed, with his head towards the north. Now this statue would naturally have been the principal object of veneration at Kusinagara, and although amongst the learned it might have been called the "statue of the *Nirvâna*,"
-
-
 
 yet I can readily believe that its more popular name amongst all classes would have been the "statue of the Dead Prince." I am therefore of opinion that the name of *MâthâKuär,* which still clings to the ruins of Kasia, has a direct reference to the death of Buddha, which, according to his followers, took place at Kusinagara, on the full moon of the Vaisâkh, 543 B.C. The continuance of this name down to the present day is a strong argument in favour of the identification of Kasia as the "death-place" of Buddha.
 
@@ -4484,15 +3407,11 @@ yet I can readily believe that its more popular name amongst all classes would h
 
  On leaving Kusinagara, Hwen Thsang directed his steps towards Banâras, and after having travelled about 200 *li*, or 33 miles, to the south-west, he reached a large town where lived a Brahman who was devoted to [Buddhism](http://# "Julien's 'Hiouen Thsang,' ii. 349.").If we adhere rigidly to the south-west bearing, we must identify this large town with *Sahankat*, near Rudrapur. But this place has already been identified with *Pippalavana*, and is not upon the high-road to Banâras. As Hwen Thsang specially mentions the Brahman's hospitality to travellers going and coming, it is certain that the large town must have been on the high-road between Kusinagara and Banâras. Now the high-road could never have passed through Rudrapur, as it would have entailed the passage of the Rapti in addition to that of the Ghâgra, while Rudrapur itself is not on the direct line to Banâras. It is quite clear that the high-road must have crossed the Ghâgra somewhere below the junction of the Rapti. According to the people, the old passage of the Ghâgra was at *Mahili*, 4 miles to
 
-
-
 the south of *Kahaon,* and 7 miles below the confluence of the two rivers. From *Kasia* to the Mahili Ghât the route would have passed through the ancient towns of *Khukhundo* and *Kahaon*, both of which still possess many remains of antiquity. But the former is only 28 miles from Kasia, while the latter is 35 miles. Both are undoubtedly Brahmanical; but while the ruins at Khukhundo are nearly all of middle age, those at Kahaon are at least as old as the time of Skanda Gupta, who lived several centuries before the time of Hwen Thsang. I am inclined, therefore, to prefer the claim of Kahaon as the representative of Hwen Thsang's ancient city, partly on account of its undoubted antiquity, and partly because its distance from Kasia agrees better with the pilgrim's estimate than that of the larger town of [Khukhundo](http://# "See Map No. XI. for the positions of both places.").
 
 *Pâwâ, or Padraona.*
 
  In the Ceylonese chronicles the town of *Pâwâ*is mentioned as the last halting-place of Buddha before reaching Kusinagara, where he died. After his death it is again mentioned in the account of Kâsyapa's journey to Kusinagara to attend at the cremation of Buddha's corpse. *Pâwâ*was also famous as one of the eight cities which obtained a share of the relics of Buddha. In the Ceylonese chronicles it is noted as being only 12 miles from [Kusinagara](http://# "Turnour, Journ. Asiat. Soc. Bengal, viii. 1005; note from Buddhaghoso."),towards the Gandak river. Now 12 miles to the north-north-east of Kasia there is a considerable village named *Paḍaraona*, or *Paḍara-vana*, with a large mound covered with broken bricks, in which several statues of
-
-
 
 Buddha have been found. The name of *Paḍara-vana*, or *Paḍarban*, might easily be shortened to *Parban, Paban,* and *Pâwâ*. In the Tibetan ['*Kahgyur*'](http://# "Csoma de Körös, Bengal 'Asiatic Researches,' xx.")this town is called *Digpachan*, but as the meaning of the name is not given, it is impossible to say whether it is an original Indian name or a Tibetan translation. Between Pâwâ and Kusinagara there was a stream called *Kukutthâ*, or [*Kakukhâ*](http://# "The first name is found in the Ceylonese chronicles, the second in the Burmese version."), at which Buddha stopped to bathe and drink. This must be the present *Bâdhi*, or *Barhi*, or *Bandhi Nala*, which, after a course of 36 miles, joins the *Chota Gandak*, or *Hirana* river on its left bank, 8 miles below Kasia.
 
@@ -4502,21 +3421,13 @@ Buddha have been found. The name of *Paḍara-vana*, or *Paḍarban*, might easi
 
  The city of Banâras is situated on the left bank of the Ganges, between the *BarnâNadi* on the north- east, and the *Asi Nâla* on the south-west. The *Barnâ*,
 
-
-
 or *Varanâ*, is a considerable rivulet, which rises to the north of Allahâbâd, and has a course of about 100 miles. The *Asi* is a mere brook, of no length, and, owing to its insignificant size, it does not appear in any of our most detailed maps. It is not entered in the Indian Atlas Sheet, No. 88, which is on the scale of 4 miles to the inch, nor even in the larger lithographed map of the district of Banâras, on the double scale of 2 miles to the inch. This omission has led the learned French academician M. Vivien de Saint-Martin to doubt the existence of the Asi as a tributary of the Ganges, and he conjectures that it may be only a branch of the Barná, and that the joint stream called the [*Varânasi*](http://# "In M. Julien's 'Life and Pilgrimage of Hiouen Thsang,' i. 132, and ii. 35-4, it is stated that ")may have communicated its name to the city. The Asi Nála will, however, be found as I have described it, in James Prinsep's map of the city of Benares, published by Hullmandel, as well as in the small map which I have prepared to illustrate this account of the remains at Banâras. The position of the Asi is also accurately described by H. H. Wilson in his Sanskrit Dictionary, under the word *Varâṇasi*. I may add that the road from Banâras to *Râmnagar* crosses the *Asi* just outside the city, and only a short distance from its confluence with the river. The points of junction of both streams with the Ganges are considered particularly holy, and accordingly temples have been erected both at Barná Sangam below the city, and at *Asi Sangam* above the
-
-
-
-
 
 city. From the joint names of these two streams, which bound the city to the north and south, the Brahmans derive *Varâṇasi*, or *Vâraṇasi*, which is saidto be the Sanskrit form of the name of Banâras. But the more usual derivation amongst the common people is from Râja *Banâr*, who is said to have rebuilt the city about 800 years ago.
 
  Both of these streams are mentioned by [Abul Fazl](http://# "'Ayin Akbari,' ii. 28."), who says "*Barânasi*, commonly called *Banâras*, is a large city situated between two rivers, the *Barnâ*and the *Asi*." [Bishop Heber](http://# "'Journal,' i. 397-399.")also mentions that he was informed by the Raja of Banâras that the name "had anciently been Barânas, from two rivers, *Bara* and *Nasa*, which here fall into the Ganges." The worthy Bishop supposes that they must join the Ganges. underground, as no such rivers are set down on the map; but two pages afterwards he records that his boats arrived "off the mouth of the *small river* which leads to Secrole," that is to the cantonment of Banâras. It may perhaps be objected that this was only a report from his servants, and that he had not actually seen the river; but as the Bishop lived with Mr. Brooke to the north of the Barnâ, he must have crossed that river by the large stone bridge at least twice every day during his stay at the holy city of the Hindus.
 
  Banâras is celebrated amongst the Buddhists as the scene where the great teacher first expounded his doctrine, or as they metaphorically express it, where he first began to turn the wheel of the law." This is one of the four great events in the life of Buddha, and the stupa which was built upon the spot was esteemed as one of the four great monuments of
-
-
 
 Buddhism. This stupa, now called *Dhamêk*, is situated about 3½miles to the north of the city, amidst an extensive mass of ruins, which are surrounded on three sides by large artificial lakes. The name of *Dhamêk* is most probably only an abbreviation of the Sanskrit *Dharmmopadeṣaka*, the "Teacher of Dharmma".This is the common term still in use to designate any religious teacher; but bearing in mind that on this spot Buddha first began to "turn the wheel of the law" (*dharmma-chakra*),the name is peculiarly appropriate for the stupa. The term is also used in the simpler form of *Dharmmadeṣaka*, which in familiar conversation would naturally be shortened to *Dhammadek* and *Dhamek*.
 
@@ -4526,15 +3437,9 @@ Buddhism. This stupa, now called *Dhamêk*, is situated about 3½miles to the no
 
  From Banâras, Hwen Thsang travelled eastward for about 300 *li*, or 50 miles, to the kingdom of *Chen-chu,* which is a Chinese translation of the original name, meaning "lord-of-battles." M. Julien proposes *Yodhapati* or *Yodhar*â*ja-pura*; but as the translation alone is given, we have a choice of several terms, as *Vigrahapati, Yudhan*â*tha, Raṇasw*â*mi*, etc. The capital situated on the Ganges was 10 *li*, or 1^(2/3) miles, in circuit. The place thus described is certainly Ghâzi-
 
-
-
 *pur*, which is on the Ganges just 50 miles to the east of Banâras. The present name was given by the Muhammadans, and is said to be only a slight alteration of the original Hindu name of *Garjpur*. This is most probably the name referred to by Hwen Thsang, as *Garjan*, which means primarily any roaring noise, signifies also "battle," and *Garjana-pati* is a title of the "god of war." Ghâzipur is now a large city about 2 miles in length, and 5 or 6 miles in circumference. Hwen Thsang estimates the circuit of the district at 2000 *li*, or 333 miles, which is almost exactly the size of the tract lying between the *Ghâgra* on the north and the *Gomati* on the south, from Tanda on the west to the confluence of the Ganges and Ghâgra.
 
  At 200 *li*, or 33 miles, to the east of the capital, Hwen Thsang visited the *Aviddhakarna* monastery, which was adorned with very fine sculptures. Following the bearing and distance, this place should be looked for in the neighbourhood of *Baliya* on the bank of the Ganges. *Aviddhakarna* means the "pierced ears," and I think it possible that the name may still be preserved in *Bikapur*, a village 1 mile to the east of Baliya, as *Aviddhakarna-pura* might easily be shortened to *Bidkarnpur* and *Bikanpur*. It seems probable also that this is the same place that is mentioned by Fa-Hian under the name of the "[Vast solitude](http://# "'Fo-kwe-ki,' chap. xxxiv. The Rev. Mr. Beal in his translation calls this Vihâr simply the ")," which he places between Patna and Banâras, at 10 *yojanas*, or 70 miles, from the former, and 12 *yojanas*, or 84 miles, from the latter. The Indian name is not given, but as the literal translation of the "vast
-
-
-
-
 
 solitude" would be *Vrihadaranya* or *Bidaran*, this name might easily be altered, either by ignorance or design, to *Biddhkarn*. The two distances from Patna and Banâras agree exactly with the position of *Baliya*, which is 72 miles from the former, and 86 miles from the latter.
 
@@ -4542,50 +3447,32 @@ solitude" would be *Vrihadaranya* or *Bidaran*, this name might easily be altere
 
  At 30 *li*, or 5 miles, to the east of the temple there 4
 
-
-
 was a famous stupa built by Asoka on the spot where Buddha had overcome and converted certain evil Demons, who were said to live upon human [flesh](http://# "Julien's 'Hiouen Thsang,' ii. 381. See Map No. XI.").The Demons embraced Buddhism, or as it was expressed by the ancient Buddhists, sought the refuge or asylum of the Three Precious ones, that is, of the Buddhist *Triad, Buddha, Dharma*, and *Sangha*. Now *Ṣaraṇa* is the Sanskrit term for asylum or refuge, and as this is also the true name of the district of *Sâran*, in which the conversion of the Demons was said to have taken place, I conclude that the monument erected on the spot must have been called the *Ṣaraṇa**Stupa*, or Asylum Tope. The stupa must therefore have been one of considerable celebrity, as there can be little doubt that its name was eventually imposed on the district in which it stood. Now 5 miles to the east of Revelganj will bring us to *Chapra*, the present capital of the Sáran district. Unfortunately I cannot find any information whatever about Chapra; but it is certain that it must have been a place of considerable consequence, otherwise it would not have been selected as the British head-quarters of the district.
 
  From the *Asylum* stupa the pilgrim proceeded 100 *li*, or 16^(2/3) miles, to the south-east to another stupa, which was reputed to have been built by the Brahman Drona over the vessel with which he measured the relics of Buddha. According to the Ceylonese scriptures this stupa was built by the Brahman *Dono* (or Drona), over the *Kumbhân* or measuring-vessel, and was therefore called the [Kumbhân stupa](http://# "Turnour, Journ. Asiat. Soc. Bengal, vii. 1013.").Hardy calls the
 
-
-
 Brahman *Droha*, and the vessel a "[golden measure](http://# "Manual of Buddhism,' p. 351.")." In the Burmese books the vessel is the same, but the Brahman is named [*Dauna*](http://# "Bigandet's 'Legend of Burmese Buddha,' p. 212."). In the Tibetan account the name of Drona is referred to the "measure" of the relics, which is certainly wrong, as the Brahman did not obtain any of the relics, but only the vessel with which he had measured them. This vessel was most probably equal to a *drona* in capacity, as each of the eight shares of the relics is said to have measured one *drona*. The stupa may, therefore, have been called the *Drona* stupa, because it held the *drona* measuring-vessel with which the Brahman had divided the relics amongst the eight rival claimants. But this was not the only name of the monument, as the Ceylonese chronicler calls it the *Kumbha* stupa. Nowa *kumbha* is a water-vessel of large size, which may be seen sculptured on many Indian pillars as a round wide-mouthed vase full of flowers. I can find no name like *Kumbha* or *Drona* in the position indicated by Hwen Thsang at 17 miles to the south of east from Chapra. But at that spot there is a village named *Deghwara*, which, as *degh* is the common Hindi name of a large metal vessel of exactly the same shape as the *kumbha*, may possibly be only an altered form of the original name. But *deg* is also the Persian term for a similar vessel, and I would therefore only refer to *Degwâra* as a convenient name to remember, because it has the same signification, and occupies the same position as the famous *Kumbha* stupa of Buddhist history. 
-
-
 
 **23. VAISÂLI.**
 
  From the stupa of the measuring-vessel, Hwen Thsang proceeded to the north-east for 140 or 150 li, or 23 to 25 miles, to *Vaisâli*. He mentions having crossed the Ganges on the road; but as he was already to the north of that river, his notice must certainly refer to the *Gandak*, which flows within 12 miles of Degwâra. We must therefore look for *Vaisâli* to the east of the Gandak. Here, accordingly, we find the village of *Besârh*, with an old ruined fort which is still called *Raja-Bisal-ka-garh*, or the fort of Raja *Visala*, who was the reputed founder of the ancient Vaisâli. Hwen Thsang states that the Royal Palace was between 4 and 5 *li*, or from 3500 to 4400 feet in circuit, which agrees with the size of the old fort, according to my measurement of 1580 feet by 750 feet, or 4600 feet in circuit, along the lines of the ruined walls. The place is mentioned by Abul Fazl, as [*Besâr*](http://# "'Ayin Akbari,' ii. 198. See Map No. XI. for its position. "),and it is still a considerable village, surrounded with brick ruins. It is exactly 23 miles from *Degwâra*, but the direction is north-north-east, instead of north-east. This position also agrees with Hwen Thsang's subsequent distance and bearing to the bank of the Ganges opposite *Pâtaliputra*, or *Patna*, which was due south [120 *li*](http://# "Julien's 'Hiouen Thsang,' ii. 399. 90 li to Swetapura, plus 30 li to the Ganges, or together 120 li from Vaisâli. In the pilgrim's life, the distance to Swetapura is said to be 100 li; vol. i. p. 137."), or 20 miles, the actual position of *Hâjipur* on the north bank of the Ganges being 20 miles almost due south. The ruined fort of *Besârh* thus presents such a perfect coincidence of name, position, and dimensions with the ancient city of *Vaisâli*, that there can be no reasonable doubt of their identity.
 
-
-
-
-
   According to Hwen Thsang's estimate, the kingdom of *Vaisâli* was 5000 *li*, or 833 miles, in [circuit](http://# "Julien's Hiouen Thsang,' ii. 384."), which is certainly too great, unless it included the neighbouring kingdom of *Vriji*, which he described as 4000 *li*, or 667 miles, in circuit. Now the capital of Vriji is said to be only 500 *li*, or 83 miles, to the north-east of Vaisâli; and as both of the districts are placed between the mountains and the Ganges, it is quite certain that there must be some mistake in the estimated dimensions of one of these. The utmost limit that can be assigned to the joint districts, with reference to the surrounding States, is not more than 750 or 800 miles in circuit, from the foot of the mountains to the Ganges on the south, and from the Gandak on the west to the Mahânadi on the east. I conclude, therefore, either that there is some mistake or exaggeration in the estimated size of one or both of the districts, or that the two districts are the same kingdom under different names. That the latter was actually the case, I will now endeavour to show.
 
  In one of the Buddhist legends, quoted by [Burnouf](http://# "Introduction à l'Hist. du Buddh. Ind. p. 74."),Buddha proceeds with Ananda to the *Châpâla* stupa, and seating himself under a tree, thus addresses his disciple: "How beautiful, O Ananda, is the city of *Vaisâli*, the land of the *Vrijis*," etc. In the time of Buddlia, and for many centuries afterwards, the people of Vaisâli were called *Lichhavis*; and in the *Trikandaṣesha*, the names of *Lichhari, Vaideha*, and *Tirabhukti*, are given as synonymous. *Vaideha* is well known to the readers of the Râmâyava as a common name of *Mithila*, the country of Raja *Janaka*, whose daughter
-
-
 
 Sita is also named *Vaidehi*. Tirabhukti is the present *Tirahuti*, or *Tirhut*. Now, the modern town of Janakpur, in the *Mithari* district, is acknowledged by the universal consent of the natives of the country, to be the same place as the ancient *Janakpur,* the capital of *Mithila*. It also corresponds exactly with the position assigned by Hwen Thsang to *Chen-shu-na,* the capital of Vriji. M.Vivien de Saint-Martin reads the Chinese name as *Che-thu-na*, but M. Stanislas Julien renders it by *Chha-su-na*, and points out that the second character is found in *Ṣukra*, and I may add also in *Ṣ*udra. The correct rendering of the name is doubtful; but if the bearing and distance recorded by the Chinese pilgrims are correct, it is almost certain that the capital of *Vriji* in the seventh century must have been at *Janakpur*.
 
  Hwen Thsang gives the name of the country in its Sanskrit form, as *Fo-li-shi*, or *Vriji*; but it is also stated that the people of the north called the country *San-fa-shi*, or *[Samvaji](http://# "Hiouen Thsang,' ii. 402; note by M. Stanislas Julien.")*,
 which is the Pali form of *Samvriji*, or the "United *Vrijis*." From this name, I infer that the *Vrijis* were a large tribe which was divided into several branches, namely, the *Lichhavis* of Vaisâli, the *Vaidehis* of Mithila, the *Tirabhuktis* of Tirhut, etc. Either of these divisions separately might therefore be called *Vrijis*, or any two together might be called *Vrijis*, as well as *Samvrijis*, or the "United *Vrijis*." We have a parallel case in the warlike tribe of the *Bâgris*, or *Sambâgris* of the Satlej, which consisted of three separate divisions. I conclude therefore that *Vaisâli* was a single district in the territories of the United *Vrijis*, or *Wajjis*, and there-
 
-
-
 fore that the estimated size of Vaisâli proper, as recorded by Hwen Thsang, is a simple mistake. Perhaps we should read 1500 *li*, or 250 miles, instead of 5000 *li*, or 833 miles. In this case the district of Vaisâli would be limited to the south-west corner of the country of the Vrijis, to the westward of the little Gandak river.
 
  To the north-west of Vaisâli, at somewhat less than 200 *li*, or 33 miles, Hwen Thsang places the ruins of an ancient town, which had been deserted for many ages. There Buddha was said to have reigned in a previous existence, as a *Chakravartti Raja*, or supreme ruler, named Mahâdeva, and a stupa still existed to commemorate the fact. The name of the place is not given, but the bearing and distance point to *Kesariya*, an old ruined town, just 30 miles to the north-north-west of Vaisâli. The place possesses a mound of ruins with a lofty stupa on the top, which the people attribute to *Raja Vena Chakravartti*. In the *Purânas* also, Raja Vena is called a Chakravartti, or supreme monarch; and I have found his name as widely spread through northern India as that of Rama, or the five Pandus. This monument stands at the point of crossing of the two great thoroughfares of the district, namely, that from Patna northward to Bettiah, and that from Chapra across the Gandak to Nepâl. It is a curious illustration of this fact that Buddha himself, according to the Ceylonese chronicles, informed [Ananda](http://# "Turnour, Journ. Asiat. Soc. Bengal, vii. 1006."),that "for a *Chakravartti Raja* they build the *thupo* at a spot where four principal roads meet." I have little doubt therefore that this is the identical place indicated by the Chinese pilgrim.
 
-
-
 **24. VRIJI.**
 
  From Vaisâli, Hwen Thsang proceeded to the north-east for 500 li, or 83 miles, to *Fo-li-shi*, or *Vriji*, which has already been identified as the territory of the powerful tribe of *Wajji*, or *Vriji*. In the time of Buddha, the *Vrijis* were divided into several clans, as the *Lichhavis*, the *Vaidehis*, the *Tirabhuktis*, and others, whose names are unknown. The exact number of their clans would appear to have been eight, as criminals were arraigned before the [*aṭṭhakulaka*](http://# "Turnour, Journ. Asiat. Soc. Bengal, vii. 993, and note."),or "eight clans," which would appear to have been a jury composed of one member from each of the separate divisions of the tribe. Hwen Thsang mentions that the people of the north called them *San-fa-shi*, or *Samvajji*, that is the United Vajjis,”— and the same name is referred to in the long and interesting account of the people of *Wajji*, which is given by Turnour from the Pali chronicles of [Ceylon](http://# "Ibid. vii. 992."). The great monarch *Ajatasatru*, of Magadha, wishing to subdue the "great and powerful" people of Wajji, sent his minister to consult Buddha as to the best means of accomplishing his object. The Raja is informed that so long as the people of Wajji remained “united," they would be invincible. The Raja, by a stratagem of his minister, in the course of three years, so completely disunited their rulers, one from another, that no two would walk the same road together," and they were accordingly subdued without making any resistance. According to Turnour, "the union of the *Wajjian* states consisted of a *confederation* of [chiefs](http://# "Ibid. vii. 992, note.")." The name of 
-
-
 
 *Sam-vriji,* or the "United *Vrijis*," was therefore a descriptive title of the whole nation of eight clans, who, as Buddha remarked, were accustomed to hold frequent meetings, to act in concert, and to uphold the ancient *Wajjian* institutions. No king is mentioned, but the people are stated to have respected and obeyed the orders of their elders.
 
@@ -4593,13 +3480,7 @@ fore that the estimated size of Vaisâli proper, as recorded by Hwen Thsang, is 
 
  *Navandgarh* or *Naonadgarh* is a ruined fort from 250 to 300 feet square at top and 80 feet in height. It is situated close to the large village of *Lauriya*, 15 miles to the north-north-west of Bettiah and 10 miles
 
-
-
-
-
 from the nearest point of the [Gandak river](http://# "See Map No. XI.").The ancient remains consist of a handsome stone pillar, surmounted by a lion and inscribed with Asoka's edicts, and of three rows of earthen barrows or conical mounds of earth, of which two rows lie from north to south, and the third from east to west. Now the stupas usually met with are built either of stone or of brick; but the earliest stupas were mere mounds of earth, of which these are the most remarkable specimens that I have seen. I believe that they are the sepulchral monuments of the early kings of the country prior to the rise of Buddhism, and that their date may be assumed as ranging from 600 to 1500 B.C. Every one of these barrows is called simply *bhisâ*, or "mound," but the whole are said to have been the kots or fortified dwellings of the ministers and nobles of Raja *Uttânpat*, while the fort of Navandgarh was the king's own residence. The word *stûpa* meant originally only a "mound of earth," and this is the meaning given to it by Colebrooke, in his translation of the 'Amara Kosha.' I believe that these earthen *stûpas* or *chaityas* of Navandgarh must form part of those alluded to by Buddha himself in his sixth question addressed to Ananda about the people of [Vriji](http://# "Turnour, Journ. Asiat. Soc. Bengal, vii. 994."):"Anando! hast thou heard that the *Wajjians*, whatever the number may be of the *Wajjian chetiyâni* belonging to the *Wajjian* (rulers), whether situated within or without (the city), they maintain, respect, reverence, and make offerings to them; and that they keep up without diminution the ancient offerings, the ancient observances, and the ancient sacrifices righteously
-
-
 
 made?" Now these *chetiyâni* could not have been Buddhist *stûpas*, as Buddha himself put the questionduring his lifetime. Accordingly, the author of the Ceylonese 'Aṭṭhakathâ' explains that they are *yakhaṭṭhânâni*, or edifices belonging to *Yakha*, or demon worship. The *Yakhas,* in Sanskrit *Yaksha* and *Jaksha*, were the attendants of Kuvera, the God of Riches, and the guardians of his treasures, and their chief residence was called *Alakapura.* Now somewhere in the neighbourhood of the Gandak there was a city named *Alakappo*, inhabited by a people named *Balaya* or *Buluka*, who obtained a share of Buddha's relics. It is probable, therefore, that this city of *Alakappo* may have been connected with the early *Yaksha* worship, and that the pre-Buddhistical *stûpas* of Navandgarh may be some of the ancient *chaityas* of the *Vrijis* that were referred to by Buddha. If so, the *Balayas* or *Bulukas* of *Alakappo* must have been one of the eight clans of the *Vrijis*, a conclusion which is rendered still more probable by the vicinity of Alakappo to the Gandak river.
 
@@ -4607,15 +3488,11 @@ made?" Now these *chetiyâni* could not have been Buddhist *stûpas*, as Buddha 
 
  From Vriji the Chinese pilgrim visited *Ni.po.lo*, or Nepâla, which he places to the north-west at 1400 or 1500 *li*, or 233 to 250 [miles](http://# "Julien's 'Hiouen Thsang,' ii. 407.").From Janakpur there are two routes to Nepâl, one by the *Kamalâ*river, and the other by the *Bhâgmati* or *Bhâgavati* river; but the distance is not more than 150 miles by either of them. The circuit of the country is said to be 4000 *li*, or 667 miles, which is much too small, unless the estimate refers to the district of Nepâl Proper on
 
-
-
 the *Sapta* *Kausiki*, or seven streams of the Kosi river. But in this case the hill country on the Gandak river must have been a separate territory, which is very improbable. I would therefore assign to Nepâl the basins of both rivers, and alter Hwen Thsang's estimate to 6000 *li*, or 1000 miles, which is about the actual size of the two valleys.
 
  The Raja of Nepâl was a Kshatriya of the race of *Lichhavi* named *Ansu-Varmma*, who is probably the *Anghu Varmma* of the native histories, as he belonged to the Newarit or Newar dynasty of conquerors. As a Lichhavi, Ansu Varmma must also have been a foreigner, that is one of the *Vrijis* of Vaîsâli. The dates likewise correspond, as *Anghu Varmma* is the fifteenth ruler prior to Râghava Deva, who established the Newar era in A.D. 880. Allowing seventeen years to each reign, the accession of Anghu Varmma will be fixed in A.D. 625, and Hwen Thsang's visit in A.D. 637 will fall towards the end of his reign.
 
  It is curious that the kings of Tibet and Ladâk also trace their descent from the *Lichhavis*. But if their claims are well founded they must have been offshoots from the Nepâl branch of the family. Now the Lichhavi conquest of Nepâl is assigned to Newarit, who preceded Anghu Varmma by 37 reigns, which at 17 years each, will give a period of 629 years, equivalent to B.C. 4 for his accession. Tibetan history begins with the accession of *Nyah-khri-Tsanpo*, whose date is roughly fixed at 500 years prior to *Lha-Thothori* in A.D. 407, or about 93 B.C. But as Lha-Thothori's fifth successor was born in A.D. 627, there must be an error of about one century andThe
-
-
 
 a half in the date of 407. Applying this correction to the date of the first king, the Lichhavi conquest cannot be fixed earlier than A.D. 50, or about two generations after the conquest of Nepal.
 
@@ -4623,16 +3500,10 @@ a half in the date of 407. Applying this correction to the date of the first kin
 
  From Nepâl, Hwen Thsang returned to Vaisâli, and then proceeding to the south, crossed the Ganges and entered the capital of Magadha. He notes that the city was originally called *Kusumapura,* that it had been deserted for a long time, and was then in ruins. It was 70 *li*, or 11^(2/3) miles, in circuit, exclusive of the new town of *Pâtaliputra-pura.* This name the Greeks slightly altered to *Palibothra* on the authority of Megasthenes, whose account is preserved by [Arrian](http://# "Indica,' x. C Strabo, xv. 1. 36, gives exactly the same account.")."The capital city of India is Palibothra, in the confines of the *Prasii*, near the confluence of the two great rivers Erannoboas and Ganges. Erannoboas is reckoned the third river throughout all India, and is inferior to none but the Indus and the Ganges, into the last of which it discharges its waters. Megasthenes assures us that the length of this city is 80 stadia, the breadth 15; that it is surrounded with a ditch, which takes up 6 acres of ground and is 30 cubits deep; that the walls are adorned with 570 towers and 64 gates." According to this account the capital of Magadha in the time of Seleukos Nikator was 220 stadia, or 25¼ miles, in circuit. This is about the size of the modern city of Patna, which when surveyed by Buchanan was 9 miles in length by 2¼ miles in [breadth](http://# "Gazetteer in v. Patna; he gives the area as 20 square miles."), or 22½ miles, in circumference. In the
 
-
-
-
-
 ![](../books_images/U-IMG-1701855959aaaaa.png)  
 **MAP OF GAYA AND BIHAR**  
 A D 650.  
 showing HWEN THSANG'S Route
-
-
 
 seventh century, therefore, we may readily admit that the old city of Kusumapura may have been about half this size, or 11 miles in circuit, as stated by Hwen Thsang.
 
@@ -4640,15 +3511,11 @@ seventh century, therefore, we may readily admit that the old city of Kusumapura
 
  The position of the city at the junction of the Ganges and Erannoboas was formerly supposed to refer to the confluence of the *Gandak* or *Hiranyavati*, which joins the Ganges immediately opposite Patna. But it has been conclusively shown by [Mr. Ravenshaw](http://# "Journ. Asiat. Soc. Bengal, xiv. 137.")that the *Son* river formerly joined the Ganges
 
-
-
 just above the city of Patna. As the *Sona*, or "golden river, is also called the *Hiranya-bâha,* or the golden, on account of its broad yellow sands, its identification with the Erannoboas is complete both as to name and position.
 
  Strabo and Pliny agree with Arrian in calling the people of Palibothra by the name of *Prasii*, which modern writers have unanimously referred to the Sanskrit *prâchya*, or eastern.” But it seems to me that *Prasii* is only the Greek form of *Palâsiya* or *Parâsiya*, a "man of *Palâsa* or *Parâsa*," which is an actual and well-known name of Magadha, of which Palibothra was the capital. It obtained this name from the *Palâsa*, or Butea frondosa, which still grows as luxuriantly in the province as in the time of [Hwen Thsang](http://# "Julien's 'Hiouen Thsang,' i.151: ‘çà et là de beaux kie-ni, ou kanaka (Butea frondosa), laissaient pendre leurs fleurs d'un rouge éblouissant.'").The common form of the name is *Parâs*, or when quickly pronounced Prás, which I take to be the true original of the Greek *Prasii*. This derivation is supported by the spelling of the name given by [Curtius](http://# "'Vita Alexandri,' ix. 2."), who calls the people *Pharrasii*, which is an almost exact transcript of the Indian name *Parâsiya*. The *Praxiakos* of Ælian is only the derivative form *Palâsaka*.
 
  According to Hwen Thsang's estimate the province of Magadha was about 5000 *li*, or 833 miles, in [circuit](http://# "Julien's Hiouen Thsang,' ii. 409."). It was bounded by the Ganges on the north, by the district of Banâras on the west, by Hiranya Parvata, or Mongir, on the east, and by Kiraṇa Suvarna, or Singbhûm on the south. It must, therefore, have extended to the
-
-
 
 Karmnâsa river on the west, and to the sources of the Damûda river on the south. The circuit of these limits is 700 miles measured direct on the map, or about 800 miles by road-distance.
 
@@ -4660,15 +3527,11 @@ Karmnâsa river on the west, and to the sources of the Damûda river on the sout
 
  Before attempting to identify any of the places
 
-
-
 noted in this route, I must remark that there are several errors both in the bearings and distances that require to be corrected. As the direction of Gaya is very nearly due south from Patna, the several south-west bearings should certainly be altered to south. The several distances also when added together amount to only 230 *li*, or 38 miles, while the actual distance between the cities of Patna and Gaya is 60 miles by the high-road, and must have been about 70 miles by the route followed by Hwen Thsang. The sum of his distances is, therefore, about 200 *li*, or 33 miles, short of the distance actually travelled. This amount I would divide into two even sums of 100 *li*, and add one to each of the first two distances recorded by the pilgrim.
 
  By adopting this double correction of bearing and distance the position of the monastery of *Ti-lo-tse-kia*, or *Tilaḍaka*, will be fixed at 200 *li*, or 33 miles, to the south of the south-west corner of the city of Patna, or as nearly as possible on the site of the town of *Tillâra*, on the eastern bank of the Phalgu river. That this was nearly the true position of *Tilaḍaka* is proved by a later mention of the same place by the pilgrim. When leaving the Nâlanda monastery on his return to China, he went direct to *Tilaḍaka*, which he places at 3 *yojanas*, or 21 miles, to the west of [Nâlanda](http://# "Julien's 'Hiouen Thsang,' i. 211. See Map No. XII.").Now the position of Nâlanda, as I will hereafter show, was at the village of Barâgaon, 6 miles to the north of Rajgir; and from Barâgaon to Tillâra the distance is 17 miles in a direct line to the north of west, or about 20 miles by road.
 
  The next place visited by Hwen Thsang, was the
-
-
 
 lofty mountain from which Buddha had contemplated the country of Magadha. Following my proposed corrections, this mountain should be looked for at 190 *li*, or 32 miles, to the south of *Tilaḍaka* or *Tillâra*, and at 70 *li* to the north-east of Gaya. These bearings and distances fix the position of Buddha's Mountain in the lofty range of hills lying between Giryek and Gaya, somewhere about 3 miles to the north-west of Vazirganj, and about the same distance to the west of Amethi. This mention of hills is very fortunate, as it proves the necessity of applying the correction in distance to the first part of the route as the nearest hill is upwards of 50 miles from Patna.
 
@@ -4676,15 +3539,9 @@ lofty mountain from which Buddha had contemplated the country of Magadha. Follow
 
  From this place the pilgrim proceeded for about 40 or 50 *li*, about 7 or 8 miles, to the south-west, and crossing the *Nairanjan* river, entered the town of Gaya. The river is now called Phalgu, opposite Gaya, and the name of *Lilâjan*, or *Nilâjan*, is restricted to the western branch, which joins the *Mohâni* 5 miles
 
-
-
 above Gaya. The town was thinly peopled, but it contained about 1000 families of Brahmans. The city is still called *Brahm-Gaya*, to distinguish it from *Bauddh-Gaya.*
 
 * *At 5 or 6 *li*, or 1 mile, to the south-west of the town stood the mountain of *Gayâ*, which was known amongst the people of India as the divine mountain. This hill is now called *Brahm-juïn*, or *Brahma-yoni*, and a small temple now occupies the site of Asoka's stupa. To the south-east of the hill there were stupas of the three Kasyapas, and to the east of them, across a great river (the Phalgu), there was a mountain named *Po.lo.ki.pu.ti*, or *Prâgbodhi*, which Buddha ascended for the purpose of dwelling in silent solitude upon its summit. He had previously spent six years in silent abstraction, but having afterwards renounced his austerities, he accepted some rice and milk, and going towards the north-east, he saw this mountain, and ascended it for the purpose of resuming his austerities; but he was disturbed by the tremblings caused by the fright of the god of the mountain, and descended on the south-west side, from whence he reached the famous *Pippal-tree* at Bauddha Gaya, at 15 *li*, or 2½ miles, to the south-west. The last distance and bearing show that the *Prâgbodhi* mountain is the *Mora Pahâr* of the present day, as its south-west end is exactly 23 miles to the north-east of Bauddha Gaya. Midway in the descent there was a cave, in which Buddha rested, and sat with his legs. crossed. [Fa-Hian](http://# "Beal's 'Fah-Hian,' c. xxxi. 121.")mentions this cave, which he places at half a *yojana*, or 3½ miles, to the north-east of the Bodhi-tree. It was therefore about one mile from the
-
-
-
-
 
 southern end of the mountain. I was informed that a cave still exists on the western face.
 
@@ -4698,13 +3555,9 @@ Kukkuṭapada.
 
  Travelling eastward, the pilgrim crossed the river
 
-
-
 *Mo-ho*, or *Mohana Nadi*, and entered a large forest, where he saw another stone pillar. Then proceeding to the north-east for 100 *li*, or nearly 17 miles, he reached the mountain of *Kiu-kiu-cha-po-tho*, or *Kukku-ṭapada*, or "Cock's-foot," which was remarkable for three bold peaks. According to Fa-Hian's account, the Hill of the Cock's-foot was 3 *li*, or half a mile, to the south of the holy tree of Bauddha-Gaya. For 3 li we should no doubt read 3 *yojanas*, or 21 miles, which agrees very closely with Hwen Thsang's distance of 17 miles, plus about two miles for the crossings of the two rivers, or altogether 19 miles.
 
  I have already identified this place with the present *Kurkihâr*, which, though omitted in the maps, is perhaps the largest place between the cities of Gaya and Bihâr. It is situated 3 miles to the north-east of Vazirganj, 16 miles to the north-north-east of Gaya, and 20 miles to the north-east of [Bauddha-Gaya](http://# "Julien's 'Hiouen Thsang,' iii. 6. See Map No. XII.").The true name of *Kurkihâr* is said to be *Kurak-vihâr*, which I believe to be only a contracted form of *Kuk-kaṭapada-Vihâra*, or "Cock's-foot Temple," as the Sans- krit Kühluta is the same word as the Hindi *Kukkar*, or *Kurak*, a "cock." The present *Kurkihâr* therefore corresponds both in name and in position with the famous "Cock's-foot Hill" of the Buddhists. There is, however, no *three-peaked hill* in its neighbourhood; but about half a mile to the north of the village three rugged hills rise boldly out of the plain, which, as they stand so close together that their bases meet, may fairly be identified with the three-peaked hill of Hwen Thsang. This identification is confirmed by the presence of several ruined mounds, in which nu-
-
-
 
 merous Buddhist statues and votive stupas have been found.
 
@@ -4712,13 +3565,9 @@ merous Buddhist statues and votive stupas have been found.
 
  From the "Cock's-foot Hill" the pilgrim proceeded to the north-east for 100 *li*, or 17 miles, to a mountain called *Fo-tho-fa-na*, or [*Buddhavana*](http://# "Julien's 'Hiouen Thsang,' iii. 10.").The bearing and distance point to the lofty hill now called *Buddhain*, which, on account of its commanding position, was made one of the stations of the great trigonometrical survey. Its distance in a direct line is not more than 10 miles, but as the whole route is hilly and winding, the actual length cannot be less than 15 or 16 miles. At 30 *li*, or 5 miles, to the east, he visited the famous *Yashṭivana*, or "[Bambu-forest](http://# "Ibid., iii. 11.")." This name is still well known as *Jakhti-ban*, which is only the Hindi form of the Sanskrit word. The place lies to the east of the *Buddhain* hill, on the route to the old ruined city of *Kusâgûrapura*, and is still frequented by the people for the purpose of cutting Bambus. About 10 *li*, or nearly 2 miles, to the south-west of the Bambu-forest, the pilgrim visited two hot springs, to the south of a high mountain, in which Buddha was said to have bathed. These springs still exist about two miles to the south of *Jakhtiban*, at a place called *Tapoban*, which name is a common contraction of *Tapta-pâni*, or the "Hot Water." To the south-east of the Bambu-forest, at 6 or 7 *li*, upwards of 1 mile, there was a high mountain, with a stone embankment, built by King Bimbisâra. This mountain corresponds with the lofty hill of *Handia*, 1463 feet in height, which was one of the stations of the great trigonometrical
 
-
-
 survey. At 3 or 4 *li*, or upwards of half a mile, to the north, there was an isolated hill, on which still existed the ruins of a house in which the holy sage *Vyâsa* had formerly dwelt. At 4 or 5 *li*, or ¾of a mile, to the north-east, there was a small hill with a chamber hewn out of the rock, and beside it a stone on which the gods Indra and Brahma had pounded the sandal-wood called *Goṣiras* for the rubbing of Buddha's body. These two places have not been identified, but a careful search would certainly discover the sandal-wood stone, as there was close to it a very large cave, which the people called the "Palace of the Asuras." About 60 *li*, or 10 miles, to the east of this place, the pilgrim reached *Kiu-she-kie-lo-pu-lo*, or *Kusâgâra-pura*, that is the town of the [*Kusa* Grass](http://# "Julien's 'Hiouen Thsang,' iii. 15.")."
 
 * Kusâgârapura* was the original capital of Magadha, which was called *Râjagriha*, or the "Royal Residence." It was also named *Girivraja*, or the "hill-surrounded," which agrees with Hwen Thsang's description of it as a town "surrounded by mountains." [*Girivraja*](http://# "Lassen, Ind. Alterthum, i. 604. ")is the name given in both the Râmâyana and the Mahâbhârata to the old capital of Jarasandha, king of Magadha, who was one of the principal actors in the Great War, about 1426 B.C. The Chinese pilgrim [Fa-Hian](http://# "Beal's Fah-Hian,' c. xxviii.112.")describes the city as situated in a valley between five hills, at 4 *li*, or two-thirds of a mile, to the south of the new town of Rajagriha. The same position and about the same distance are given by Hwen Thsang, who also mentions some hot springs, which still exist. Fa-
-
-
 
 Hian further states that the "five hills form a girdle like the walls of a town," which is an exact description of Old Râjagriha, or *Purâna Râjgir*, as it is now called by the people. A similar description is given by Turnour from the Pali annals of Ceylon, where the five hills are named *Gijjhakuto, Isigili, Webháro, Wepullo*, and *[Pandawo](http://# "Journ. Asiat. Soc. Bengal 1838, p. 996. ")*.In the Mahâbhârata the five hills are named *Vaihâra, Varâha, Vrishabha, Rishi-giri*, and [Chaityaka](http://# "Lassen, Ind. Alterthum, ii. 79. The five hills are all shown in Map No. XII."); but at present they are called *Baibhâr-giri, Vipula-giri, Ratna-giri, Udaya-giri,* and *Sona-giri.*
 
@@ -4726,15 +3575,11 @@ Hian further states that the "five hills form a girdle like the walls of a town,
 
  Ratnagiri is due east, one mile distant from the Son Bhândâr Cave. This situation corresponds exactly with Fa-Hian's position of the "Pippal-tree Cave,” in which Buddha after his meals was accustomed to meditate. It was situated at 5 or 6 li (about one mile) to the east of the cave of the first Synod. The hill of Ratna-giri is therefore identical with the *Pan-*
 
-
-
 dao Mountain of the Pali annals, in which Buddha dwelt, and which in the Lalita-Vistâra is always styled the "King of Mountains." A paved zigzag road now leads from the eastern side of old Râjagriha to a small Jain temple on the top of Ratna-giri, which is frequently visited by Jains. I would identify it with the Rishigiri of the Mahâbhârata.
 
  Mount *Vipula* is clearly identical with the *Wepullo* of the Pali annals; and as its summit is now crowned with the ruins of a lofty stupa or *chaitya*, which is noticed by Hwen Thsang, I would identify it with the Chaityaka of the *Mahâbhârata*. Regarding the other two mountains, I have nothing at present to offer, but I may mention that they are also crowned with small Jain temples.
 
  The old city between the hills is described by Fa-Hian to be 5 or 6 *li* from east to west, and 7 or 8 *li* from north to south, that is, from 24 to 28 *li* or 4^(1/3) miles, in circuit. Hwen Thsang makes it 30 *li*, or 5 miles, in circuit, with its greatest length from east to west. My survey of the ancient ramparts gives a circuit of 24,500 feet, or 4^(5/8)th miles, which is between the two statements of the Chinese pilgrims. The greatest length is from north-west to south-east, so that there is no real discrepancy between the two statements as to the direction of the greatest length of the old city. Each of them must have taken his measurement from the Nekpai embankment on the east (which has been described by Major Kittoe) to some point on the north-west. If taken to the Pânch-Pandu angle of the ramparts, the direction would be west-north- west, and the length upwards of 8000 feet; but if taken to the temple of Torha Devi, the direction would
-
-
 
 be north-north-west, and the distance upwards of 9000 feet.
 
@@ -4748,19 +3593,13 @@ be north-north-west, and the distance upwards of 9000 feet.
 |  "    Udaya to Sona   | .   .  .  |      7,000   "      |
 |  "    Sona to Baibhâr. | .   .  . |      9,000   " |
 
-
-
  This is somewhat less than 8 miles, but if the ascents and descents are taken into account, the actual length will correspond very closely with the statement of Hwen Thsang when corrected to 50 *li*. The old walls forming this exterior line of rampart are still to be seen in many places. \`I traced them from Vipulagiri over Ratna-giri to the Nekpai embankment, and thence onwards over Udaya-giri, and across the southern outlet of the valley to Sona-giri. Across this outlet, the walls, which are still in good order, are 13 feet thick. To obtain a circuit of 25 miles, as given in Hwen Thsang's text, it would be necessary to carry these ramparts as far as Giryek on the east. As similar ramparts exist on the Giryek Hill,
-
-
 
 it is perhaps possible that Hwen Thsang intended to include it in the circuit of his outer walls. But this immense circuit would not at all agree with his statement that "high mountains surround the city on four sides," for the distant hill of Giryek eannot in any way be said to form one of the sides of old Râja-griha.
 
  The hot springs of Râjagriha are found on both banks of the Sarsuti rivulet; one-half of them at the eastern foot of Mount Baibhâr, and the other half at the western foot of Mount Vipula. The former are named as follows:-1. Ganga-Jumna; 2. Anant Rikhi; 3. Sapt Rikhi; 4. Brahm-kûnd; 5. Kasyapa Rikhi; 6. Byâs-kûnd; and 7. Markand-kûnd. The hottest of these are the springs of the Sapt Rikhi. The hot springs of Mount Vipula are named as follows:-1. Sita-kûnd; 2. Suraj-kûnd; 3. Ganes-kûnd; 4. Chan-drama-kund; 5. Râm-kund; and 6. Sringgi-Rikhi-kûnd. The last spring has been appropriated by the Musalmâns, by whom it is called *Makhdûm-kûnd*, after a celebrated saint named *Chillah Shah*, whose tomb is close to the spring. It is said that Chilla was originally called Chilwa, and that he was an Ahîr. He must therefore have been a converted Hindu.
 
  To the north-east of the old town, at a distance of 15 *li*, or 2½miles, Hwen Thsang places the celebrated hill of Gridhra-kuṭa, or the “Vulture's Peak." According to [Fa-Hian](http://# "Beal's 'Fah-Hian,' c. xxix.")it was 15 *li*, or 2½ miles, to the south-east of the new town. Both of our authorities, therefore, agree in fixing the Vulture's Peak on the lofty hill now called Saila-giri, or the "Rocky-Mountain;"
-
-
 
 but I could not hear of the existence of any cave in this hill. Fa-Hian calls it "Hill of the Vulture's Cave," and notes that there were also several hundreds of caves of the *Arhans* in which they sat to meditate. I presume that these were small rooms built against the cliff, and that the walls having fallen down, the names have been forgotten. The joint authority of the two pilgrims is too strong to be doubted; and future research will perhaps discover some remains of these once holy cave-dwellings.
 
@@ -4770,8 +3609,6 @@ but I could not hear of the existence of any cave in this hill. Fa-Hian calls it
 
  The new town of Râjagriha is said to have been built by King *Srenika*, otherwise called *Bimbisâra*, the father of *Ajâtasatru*, the contemporary of Buddha. Its foundation cannot therefore be placed later than 560 B.C. according to Buddhist chronology. In Hwen Thsang's time (A.D. 629-642), the outer walls had already become ruinous, but the inner walls were still standing and occupied a circuit of 20 *li* (3^(1/3)miles). This statement corresponds tolerably well with the measurements of my survey, which make the circuit of the ramparts somewhat less than 3 miles. Buchanan calls new Râjagriha an irregular pentagon of 12,000 yards in diameter. This is clearly a misprint for 1200 yards, which would give a circuit of 11,300 feet, or 21/8 miles; but this was probably the interior measurement, which, according to my survey, is 13,000 feet. The plan of new Râjagriha I make out to be
 
-
-
 an irregular pentagon of one long side and four nearly equal sides, the whole circuit being 14,260 feet outside the ditches, or rather less than 3 miles.
 
  On the south side towards the hills a portion of the interior, 2000 feet long and 1500 feet broad, has been cut off to form a citadel. The stone walls retaining the earthen ramparts of this work are still in good order in many places. It is possible that this work may be of later date, as suggested by Buchanan, but I am of opinion that it was simply the citadel of the new town, and that its walls have suffered less from the effects of time, owing partly to their having been more carefully and more massively built than the less important ramparts of the town, and partly to their having been occasionally repaired as a military position by the authorities, while the repairs of the town walls were neglected as being either unnecessary or too costly.
@@ -4780,15 +3617,11 @@ an irregular pentagon of one long side and four nearly equal sides, the whole ci
 
  Due north from Râjgîr and 7 miles distant lies the village of Baragaon, which is quite surrounded by ancient tanks and ruined mounds, and which possesses finer and more numerous specimens of sculpture than any other place that I visited.The ruins of Baragaon are so immense, that Dr. Buchanan was convinced it must have been the usual residence of the king; and he was informed by a Jain priest at Bihâr, that it was the residence of Raja Srenika and his ancestors.By the Brahmans these ruins are said to be the remains of *Kundilpur*, a city famed as the birthplace of Rûkmini, one of the wives of Krishna. But as Rukmini was the daughter of Raja Bhishma, of Vidar-
 
-
-
 bha, or Berâr, it seems probable that the Brahmans have mistaken Berâr for Bihâr, which is only 7 miles distant from Baragaon. I therefore doubt the truth of this Brahmanical tradition, more especially as I can show beyond all doubt that the remains at Baragaon are the ruins of Nâlanda, the most famous seat of Buddhist learning in all India.
 
  Fa-Hian places the hamlet of Nalo at 1 *yojana*, or 7 miles, from the Hill of the Isolated Rock, that is from Giryek, and also the same distance from new [Rajagriha](http://# "Beal's Fah-Hian,' c. xxviii. p. 111.").This account agrees exactly with the position of Baragaon, with respect to Giryek and Rajgîr. In the Pali annals of Ceylon also, Nâlanda is stated to be 1 *yojana* distant fron Râjagriha. Again, Hwen Thsang describes Nâlanda as being 7 *yojanas,* or 49 miles, distant from the holy Pipal-tree at [Buddha Gaya](http://# "Julien's Hiouen Thsang,' i. 143."),which is correct if measured by the road, the direct distance measured on the map being 40 miles. He also describes it as being about 30 *li*, or 5 miles, to the north of new Râjagriha. This distance and direction also correspond with the position of Baragaon, if the distance be measured from the most northerly point of the old ramparts. Lastly, in two inscriptions, which I discovered on the spot, the place itself is called Nâlanda.
 
  Fa-Hian makes Nâlanda the birthplace of Sâriputra, who was the right-hand disciple of Buddha; but this statement is not quite correct, as we learn from the more detailed account of Hwen Thsang that Sâriputra was born at *Kalapinâka*, about halfway between *Nâlanda* and *Indra-Sila-Guha,* or about 4 miles to the south-east of the former place. Nâlanda has also been called 
-
-
 
 the birthplace of Mahâ Mogalâna, who was the left-hand disciple of Buddha; but this is not quite correct, as the great Mogalâna, according to Hwen Thsang, was born at *Kulika*, 8 or 9 *li* (less than 1½ mile) to the south-west of Nâlanda. This place I was able to identify with a ruined mound near Jagdispur, at 1^(1/4) mile to the south-west of the ruins of Baragaon.
 
@@ -4798,8 +3631,6 @@ the birthplace of Mahâ Mogalâna, who was the left-hand disciple of Buddha; but
 
  I cannot close this account of the ancient *Nâlanda* without mentioning the noble tanks which surrounded the ruins on all sides. To the north-east are the *Gidi*
 
-
-
 *Pokhar* and the *Pansokar Pokhar*, each nearly one mile in length; while to the south there is the *Indra Pokhar*, which is nearly half a mile in length. The remaining tanks are much smaller in size, and do not require any special notice.
 
 *Indra-Sila-Guha.*
@@ -4807,8 +3638,6 @@ the birthplace of Mahâ Mogalâna, who was the left-hand disciple of Buddha; but
  From the neighbourhood of Gaya two parallel ranges of hills stretch towards the north-east for about 36 miles to the bank of the Panchâna river, just opposite the village of Giryek. The eastern end of the southern range is much depressed, but the northern range maintains its height, and ends abruptly in two lofty peaks overhanging the Panchâna river. The lower peak on the east is crowned with a solid tower of brick-work, well known as *Jarasandha-ka-baithak*, or "Jara-sandha's throne," while the higher peak on the west, to which the name of Giryek peculiarly belongs, bears an oblong terrace covered with the ruins of several buildings. The principal ruin would appear to have been a *vihâr*, or temple, on the highest point of the terrace, which was approached by a steep flight of steps leading through pillared rooms.
 
  The two peaks are connected by a steep pavement, which was formerly continued down to the foot of the hill opposite the village of Giryek. At all the commanding points and bends of this road are still to be seen the stone foundations of small brick stupas from 5 and 6 feet to upwards of 12 feet in diameter. At the foot of the upper slope, and within 50 feet of Jarasandha's Tower, a tank 100 feet square has been formed, partly by excavation, and partly by building up. There is a second tank, at a short distance to
-
-
 
 the north, formed by the excavation of the rock for building materials. Both of these tanks are now dry.
 
@@ -4820,8 +3649,6 @@ the north, formed by the excavation of the rock for building materials. Both of 
 
  Both of the pilgrims mention the cave in the
 
-
-
 southern face of the mountain, which corresponds exactly with the natural cavern Gidha-dwar, which I have already described. Gidha-dwar, in Sanskrit Gri-dhradwâra, means the Vulture's pass, or opening. By Hwen Thsang the cave is called *Indra-sila-guha,* or "the cave of Indra's stone," being thus named after a stone on which were delineated the 42 points on which Indra had questioned Buddha. Fa-Hian adds that Indra himself drew the marks upon the stone with his finger.
 
  According to Fa-Hian the hill of the "Isolated Rock" was 8 yojanas, or 56 miles, to the south-west of *Pâṭali-putra*, the capital of Magadha, and 1 *yojana*, or 7 miles, to the east of Nâlanda. Hwen Thsang visited several places on his route from Nâlanda; but the result of his different bearings and distances places *Indra-sila-guha* at 46 *li*, or 7^(2/3) miles, to the east-south- east of Nâlanda. The actual distance between Baragaonand Giryek is about 9 miles, and the direction is somewhat to the west of south-west. If we read his south-east and east bearings as south-south-east and east-south-east the general direction will be south-east, and the distance will be increased to 8 miles, which is sufficiently near the truth to warrant the proposed correction.
@@ -4830,15 +3657,11 @@ Bihár.
 
  To the north-east of the isolated mountain of Giryek the Chinese pilgrim travelled from 150 to 160 *li*, or from 25 to 27 miles, to the *Kapotika*, or "Pigeon Monastery." Half a mile to the south there was a high solitary hill, on which stood a large *Vihâra* of *Avalokiteswara*, surrounded by a multitude of sculptured buildings. This place I would identify with *Bihâr*,
 
-
-
 11 miles to the north-north-east of Giryek, by reading 60 *li*, or 10 miles, instead of the 160 *li* of the [text](http://# "* M. Vivien de Saint-Martin has already noted his suspicion that the 150 to 160 li of the text should be 50 or 60 li. Hiouen Thsang,' iii. 385, note. See Map No. XII.").In our maps the name is spelt *Behar*, but by the people it is written and pronounced *Bihâr,* which is sufficient to show that it must once have been the site of some famous Buddhist *Vihâr*. For this reason I am strongly inclined to identify the great *Vihâra* of *Ava-lokiteswara*, which stood on the top of a hill, with the present Bihâr, and its great isolated mountain covered with ruins. The hill stands to the north-west of the city of Bihar, with a precipitously steep cliff on its northern face, and an easy slope of successive ledges of rock on the southern face. The summit is now crowned by some Muhammadan buildings; but I discovered amongst the ruins some fragments of Buddhist statues and votive stupas.
 
  To the south-east of the Pigeon Monastery the pilgrim travelled for 40 *li*, or nearly 7 miles, to another monastery, which stood on an isolated hill. The bear- ing and distance point to the great ruined mound of *Titarâwa*, which is exactly 7 miles to the south-east of Bihâr. *Titarâwa*means "Partridge Mound," that is, the francolin or grey partridge. At Titarâwa there is a fine large tank, 1200 feet in length, with a considerable mound of brick ruins to the north, which from its square form has all the appearance of being the remains of a monastery.
 
  From this place Hwen Thsang resumed his north-easterly route, and at 70 *li*, or nearly 12 miles, he reached a large village on the south bank of the
-
-
 
 Ganges. But as the nearest point of the river is 25 miles distant, we must read 170 *li*, or 29 miles, by adding the round number of 100 *li*, which was deducted from the previous journey between Giryek and the Pigeon Monastery.
 
@@ -4846,15 +3669,11 @@ Ganges. But as the nearest point of the river is 25 miles distant, we must read 
 
  The pilgrim then proceeded to the east for 100 *li*, or nearly 17 miles, to the monastery and village of *Lo-in-ni-lo*, which M. Vivien de Saint-Martin has identified with *[Rohinila](http://# "Julien's 'Hiouen Thsang,' iii. 385.")*or *Rohinala*, on the Ganges. The actual bearing is nearly south-east; but as the pilgrim followed the course of the river, there must be a mistake in his text.
 
-
-
 27. HIRANYA PARVATA.
 
  At 200 *li*, or 33 miles, to the east of Rohinala, Hwen Thsang reached the capital of the kingdom of *I-lan- na-po-fa-ta*, or *Hiranya-Parvata,* that is, the "Golden Mountain." Close to the city stood Mount *Hiranya*, "from which issued smoke and vapours that darkened the sun and [moon](http://# "Julien's 'Hiouen Thsang,' iii. 65–66.")."The position of this hill is determined, from its proximity to the Ganges, and from its bearings and distances from Rohinala and Champa, to be *Mongir*. No smoke now issues from the hill, but the numerous hot springs in the neighbouring hills show that volcanic action still exists within a few miles of *Mongir*. These hot springs are mentioned by Hwen Thsang.
 
  The advantageous position of this isolated hill on the bank of the Ganges, which commanded the land route between the hills and the river, as well as the water route by the Ganges, must have led to its occupation at a very early date. Accordingly it is mentioned in the Mahâbhârata as *Modâgiri*, which was the capital of a kingdom in eastern India, near *Banga* and *Tâmralipla*, or Bengal and Tamluk. At the time of IIwen Thsang's visit the king had been lately ejected by the Raja of a neighbouring state. The kingdom was bounded by the Ganges on the north, and by great forest-clad mountains on the south; and as its circuit is estimated at 3000 *li*, or 500 miles, it must have extended to the south as far as the famous mountain of *Pârasnâth*, which has an elevation of 4478 feet. I would therefore fix its limits as extending from Lakhi Sarai to Sultanganj on the Ganges in the north, 
-
-
 
 and from the western end of the Pârasnâth hill to the junction of the Barâkar and Damuda rivers in the south. The circuit of this tract is 350 miles, measured direct on the map, or upwards of 420 miles by road distance following the windings of the two [rivers](http://# "See Map No. I.").
 
@@ -4864,27 +3683,19 @@ and from the western end of the Pârasnâth hill to the junction of the Barâkar
 
  The pilgrim estimates the circuit of Champâ at 4000 *li*, or 667 miles; and as it was bouuded by the Ganges on the north, and by *Hiranya-Parvata*, or Mongir, on the west, it must have extended to the Bhâgirathi branch of the Ganges on the east and to the Daumda river on the south. Taking the two northern points at *Jângira* and *Teliagali* on the 
 
-
-
 Ganges, and the two southern points at *Pâchít* on the Damuda and *Kalna* on the Bhâgirathi, the length of the boundary line will be 420 miles measured direct, or about 500 miles by road distance. This is so much less than the size estimated by Hwen Thsang that I think there must either be some mistake in the text or some confusion between the geographical limits of the original district of *Champâ*, and its actual political boundary at the time of the pilgrim's visit. We know from his journal that the king of Mongir, on the west of Champâ, had been dethroned by a neighbouring raja, and that the district of Kânkjol on the east of Champa was then a dependency of the neighbouring kingdom. As *Champâ*lies between these two districts, I infer that the raja of*Champâ*was most probably the king who conquered them, and therefore that the large estimates of Hwen Thsang must include these two states to the east and west of the original Champâ. Under this view, the political boundaries may be stated as extending from Lakhiterai to Râj-mahal on the Ganges, and from the Pârasnâth Hill along the Daumda river to *Kalna* on the Bhagirathi. With these boundaries the circuit of Champâ will be about 550 miles measured direct, or 650 miles by road distance.
 
 **29. KÂNKJOL. **
 
  From Champâ the pilgrim travelled to the eastward for 400 li, or 67 miles, to a small district named *Kie-chu-u-khi-lo*, or *[Kie-ching-kie-lo](http://# "Julien's 'Hiouen Thsang,' iii. 73.See Map No. I.")*.The distance and bearing bring us to the district of Rajmahal, which was originally called *Kânkjol*, after a town of that
 
-
-
 name which still exists 18 miles to the south of Raj-mahal. Following the river route viâ Kahalgaon (Colgong) and Râjmahal, the distance from Bhâgalpur is just 90 miles; but by the direct route through the hills, viâ Mângaon and Bharhat, the distance is under 70 miles. As this position agrees with that of the place indicated by Hwen Thsang, I suspect that there may have been a transposition of two syllables in the Chinese name, and that we should read *Kie-kie-chu-lo*, which is a literal transcript of *Kânkjol*. In Gladwyn's translation of the '[Ayin Akbari](http://# "‘Ayin Akbari,' ii. 178.")'the name is read as *Gungjook*, but as all the names are given alphabetically in the original, it is certain that the first letter is a *k*; I conclude, therefore, that the true name is *Kânkjol*, as the final_(![](../books_images/U-IMG-169858042111image.jpg))might easily be misread as a k. In his Gazetteer, [Hamilton](http://# "'Gazetteer of India,' in v. Râjamahal.")calls the place *Cankjole*, which is probably a misprint for *Caukjole*. He notes that the district of Râjmahal was formerly "named Akbarnagar from its capital, and in the revenue records *Caukjole*, as being the chief military division."
 
  Hwen Thsang estimates the size of the district at 2000 *li*, or 333 miles, in circuit; but as it was a dependency of one of the neighbouring kingdoms it was probably included, as I have already noted, in the area of the dominant state. When independent, the petty state of *Kânkjol* most probably comprised the whole of the hill country to the south and west of Râjmahal, with the plains lying between the hills and the Bhagirathi river as far south as Murshidâbâd. The circuit of this tract would be about 300 miles, as stated by Hwen Thsang. 
 
-
-
 **30.PAUṆḌRA VARDDHANA.**
 
  From Kânkjol the pilgrim crossed the Ganges, and travelling eastward for 600 li, or 100 miles, he reached the kingdom of *[Pun-na-fa-tan-na](http://# "Julien's 'Hiouen Thsang,' iii. 71. See Map No. I.").*\* This name M. Stanislas Julien renders as *Pauṇḍra-Varddhana*, and M. Vivien de Saint-Martin identifies it with Bardwân. But Bardwân is to the south of the last station, and on the same side of the Ganges, besides which its Sanskrit name is *Varddhamâna.* The difference in the direction of the route might be a mistake, as we have found in several previous instances; but the other differences are, I think, absolutely fatal to the identification of Bardwân with the place noted by Hwen Thsang. I would propose Pubna, which is just 100 miles from *Kânkjol*, and on the opposite bank of the Ganges, but its direction is nearly south-east instead of east. The Chinese syllables may represent either *Punya Varddhana*, or *Pauṇḍra Varddhana*; but the latter must be the true name, as it is mentioned in the native history of [Kashmir](http://# "'Raja Tarangini,' iv. 421. See also the Quart. Orient. Mag. ii. 188, for an account of Pundra-deṣa, taken by H. H Wilson from the Brâhmanda section of the Bhavishya Purâna. The greater part of the province was to the north of the Ganges, including Gauḍa, Pubna, etc.")as the capital of *Jayanta*, Raja of *Gau*., who reigned from A.D. 782 to 813. In the spoken dialects the name would be shortened from *Pon-bardhan* to *Pobadhan*, from which it is an easy step to *Pubna*, or *Pobna*, as some of the people now pronounce it. Hwen Thsang estimates the circuit of the kingdom at 4000 *li*, or 667 miles, which agrees exactly with the dimensions of the tract of country bounded by the Mahânadi on the west, the
-
-
 
 Tista and Brahmaputra on the east, and the Ganges on the south.
 
@@ -4894,23 +3705,15 @@ Tista and Brahmaputra on the east, and the Ganges on the south.
 
  From these accounts of Abu Rihân and Ibn Batuta, it is evident that the province of *Jajhoti* corresponded with the modern district of Bundelkhand. The Chinese pilgrim estimates the circuit of *Chichito* at 4000 *li*, or 667 miles, which would form a square of about 167 miles to each side. Now, Bundelkhand in its widest extent is said to have comprised all
 
-
-
 the country to the south of the Jumna and Ganges, from the Betwa river on the west to the temple of *Vindhya-vâsini-Devi* on the east, including the districts of *Chânderi*, *Sâgar*, and *Bilhari* near the sources of the Narbada on the south. But these are also the limits of the ancient country of the Jajhotiya Brahmans, which, according to Buchanan's [information](http://# "'Eastern India,' ii. 452."), extended from the Jumna on the north to the Narbada on the south, and from *Urcha* on the Betwa river in the west, to the Bundela Nala on the east. The last is said to be a small stream which falls into the Ganges near Banâras, and within two stages of Mirzapur. During the last twenty-five years I have traversed this tract of country repeatedly in all directions, and I have found the Jajhotiya Brahmans distributed over the whole province, but not a single family to the north of the Jumna or to the west of the Betwa. I have found them at Barwa Sâgar near Urcha on the Betwa, at Mohda near Hamirpoor on the Jumna, at Râjnagar and Khajurâho near the Kane river, and at Udaipoor, Pathâri and Eran, between Chânderi and Bhilsa. In Chânderi itself there are also Jajhotiya Baniyas, which alone is almost sufficient to show that the name is not a common family designation, but a descriptive term of more general acceptance. The Brahmans derive the name of Jajhotiya from *Yajur-hota*, an observance of the *Yajur-ved*; but as the name is applied to the *Baniyas*, or grain-dealers, as well as to the Brahmans, I think it almost certain that it must be a mere geographical designation derived from the name of their country, Jajhoti. This opinion is confirmed by other well-known names
-
-
 
 of the Brahmanical tribes, as *Kanojiya* from Kanoj; *Gaur* from Gaur; *Sarwariya* or *Sarjupâria* from Sarjupar, the opposite bank of the Sarju river; *Dravira* from Dravira in the Dakhan, *Maithila* from Mithila, etc. These examples are sufficient to show the prevalence of geographical names amongst the divisions of the Brahmanical tribes, and as each division is found most numerously in the province from which it derives its name, I conclude with some certainty that the country in which the Jajhotiya Brahmans preponderate must be the actual province of Jajhoti.
 
  *Khajurâho* is a small village of 162 houses, containing rather less than 1000 inhabitants. Amongst these there are single houses of seven different divisions of the *Jajhotiya* Brahmans, and eleven houses of Chandel Rajputs, the chief of whom claim descent from Raja Paramâl Deo, the antagonist of the famous Prithi Raj. The village is surrounded on all sides by temples and ruins; but these are more thickly grouped in three separate spots on the west, north, and south-east. The western group, which consists entirely of Brahmanical temples, is situated on the banks of the Sib-sâgar, a narrow sheet of water, about three-quarters of a mile in length from north to south in the rainy season, but not more than 600 feet square during the dry season. It is three-quarters of a mile from the village, and the same distance from the northern group of ruins, and a full mile from the south-eastern group of Jain temples. Altogether, the ruins cover about one square mile; but as there are no remains of any kind between the western group and the Khajur Sâgar, the boundary of the ancient city could not have extended beyond the west bank of the lake. On the other three sides of
 
-
-
 the lake, the ruins are all continuous, extending over an oblong space 4500 feet in length from north to south, and 2500 feet in breadth from east to west, with a circuit of 14,000 feet, or nearly 3¾ miles. This corresponds almost exactly with the size of the capital as recorded by Hwen Thsang in A.D. 641, but at some later period the city of Khajurâho was extended to the east and south as far as the *Kurar* Nala, when it had a circuit of not less than 3½ miles. As Mahoba must have been about the same size as Khajurâho, it is doubtful which of the two was the capital at the time of Hwen Thsang's visit.But as the very name of *Mahoba*, or *Mahotsava-nagara*, the "City of the great Jubilee," is specially connected with the rise of the Chândel dynasty, I think it most probable that Khajurâho must have been the capital of the earlier dynasty of Jajhotiya Brahmans; and therefore it must have been the capital of *Jajhoti* at the time of Hwen Thsang's visit. But as it is upwards of 300 miles from Ujain, or just double the distance mentioned by the pilgrim, his 1000 *li* must be increased to 2000 *li*, or 333 miles, to make it accord with the actual measurement. It is a curious fact that Abu Rihân's distance from Kanoj is also in defect in the same proportion; and this agreement suggests that the probable cause of both errors must be the same, namely, the excessive length of the kos of Bundelkhand, which is a little over 4 miles, or exactly double the ordinary *kos* of northern India.
 
  Hwen Thsang estimates the circuit of the kingdom of Jajhoti at 4000 *li,* or 667 miles. To meet these large dimensions it must have comprised the whole tract of country lying between the Sindh and the Tons,
-
-
 
 from the Ganges on the north to Nya Sarai and Bilhari on the south. This tract includes the famous fort of Kalinjar, which became the permanent capital of the Chândel Rajas after the occupation of Mahoba by the Muhammadans, and the strong fortress of Chânderi, which became the Muhammadan capital of eastern Malwa, after the desertion of the old city of Buri Chânderi.
 
@@ -4918,21 +3721,13 @@ from the Ganges on the north to Nya Sarai and Bilhari on the south. This tract i
 
 The ancient city of Mahoba is situated at the foot of a low granite hill, 54 miles to the south of Hamîrpur, at the junction of the Betwa and Jumna, 34 miles to the north of Khajurâho. Its name is a con- traction of *Mahotsava-nagara*, or the "City of the great festival," which was celebrated there by Chandra Varmma, the founder of the Chândel dynasty. It is said to have been 6 *yojanas* long and 2 broad, which is only the usual exaggeration of silly story-tellers for a large city. At its greatest extent, according to my observation, it could never have exceeded 1½ mile in length, from the small castle of Rai-kot on the west, to the Kalyân Sâgar on the east. It is about 1 mile in breadth, which would give a circuit of 5 miles, but an area of only 1 square mile, as the south-west quarter is occupied by the Madan Sâgar. Its population, therefore, at the most flourishing period, must have been under 100,000 persons, even allowing as high an average as one person to every 300 square feet. In 1843, when I resided at Mahoba for about six weeks, there were only 756 inhabited houses, with a population less than 4000 persons; since then the place has somewhat increased, and is now said to possess 900 houses, and about 5000 inhabitants. .
 
-
-
  Mahoba is divided into three distinct portions:- 1st, *Mahoba,* or the city proper, to the north of the hill; 2nd, *Bihtari-kila,* or the inner fort, on the top of the hill; and 3rd, Dariba, or the city to the south of the hill. To the west of the city lies the great lake of *Kirat Sâgar*, about 1½ mile in circumference, which was constructed by *Kirtti Varmma,* who reigned from A.D. 1065 to 1085. To the south is the *Madan Sâgar*, about 3 miles in circuit, which was constructed by *Madana Varmma*, who reigned from A.D. 1130 to 1165. To the east is the small lake of *Kalyân Sâgar*, and beyond it lies the large deep lake of *Vijay Sâgar*, which was constructed by *Vijaya Pâla*, who ruled from A.D. 1045 to 1065. The last is the largest of the Mahoba lakes, being not less than 4 miles in circuit; but the most picturesque of all sheets of water in the beautiful lake district of Bundelkhand is the Madan Sâgar. On the west it is bounded by the singularly rugged granite hill of Gokâr, on the north by ranges of ghâts and temples at the foot of the old fort, and on the south-east by three rocky promontories that jut boldly out into the middle of the lake. Near the north side there is a rocky island, now covered with ruined buildings; and towards the north-west corner there are two old granite temples of the Chândel princes, one altogether ruined, but the other still standing lofty and erect in the midst of the waters after the lapse of 700 years.
 
  The traditional story of the foundation of Mahoba was originally given by the bard Chand, and has been copied by the local [annalists](http://# "The portion of Chand's poem which treats of the war with the Chândel Raja Parmâl (or Paramârddi Deva), and of the origin of the Chandels, is named Mahoba-Khand.").According to the
 
-
-
 legend, the Chândels are sprung from *Hemâvati*, daughter of Hemrâj, the Brahman Purohit of Indrajit, Gâhirwar Raja of Banâras. Hemâvati was very beautiful, and one day when she went to bathe in the Râti Tâlâb, she was seen and embraced by *Chandramâ*, the god of the moon, as he was preparing to return to the skies. Hemâvati cursed him. "Why do you curse me?" said Chandramâ, "your son will be Lord of the Earth, and from him will spring a thousand branches." Hemâvati inquired, "How shall my dishonour be effaced, when I am without a husband?" "Fear not," replied Chandramâ, "your son will be born on the bank of the *Karnavati* river: then take him to *Khajurâya*, and offer him as a gift, and perform a sacrifice. In Mahoba he will reign, and will become a great king. He will possess the philosopher's stone, and will turn iron into gold. On the hill of *Kâlinjar* he will build a fort; when your son is 16 years of age, you must perform a *Bhânda Jag* to wipe away your disgrace, and then leave Banâras to live at Kâlinjar."
 
  According to this prophecy, Hemâvati's child, like another Chandramâ, was born on Monday the 11th of the waxing moon of *Vaisâkh* on the bank of the *Karnavati*, the modern *Kayân*, or Kane river of the [maps](http://# "In some of the manuscripts the name of the river is written Kiyân, and Kiraṇavati. The former is no doubt the original of Arrian's Kainas, which has perhaps heen altered from Kianas."). Then Chandramâ, attended by all the gods, performed a "great festival" (*Mahotsava*), when Vrihaspati wrote his horoscope, and the child was named Chandra Varmma. At 16 years of age he killed a tiger, when Chandramâ appeared to him and pre-
-
- 
-
-
 
 sented him with the philosopher's stone, and taught him polity (*râjnit*). Then he built the fort of Kâlinjar, after which he went to Kharjurpur, where he performed a sacrifice (*Jag* or *Yajnya*) to do away with his mother's shame, and built 85 temples. Then Chandrâvati Râni and all the other queens sat at the feet of Hemâvati, and her disgrace was wiped away. Lastly he went to *Mahotsava*, or Mahoba, the place of Chandramâ's "great festival," which he made his capital.
 
@@ -4942,8 +3737,6 @@ sented him with the philosopher's stone, and taught him polity (*râjnit*). Then
 
  From Jajhoti the Chinese pilgrim proceeded to the north for 900 *li*, or 150 miles, to *Mo-hi-shi-fa-lo-pu-lo,* or *Maheswarapura*, the king of which was likewise a Brahman. As a northern direction would conduct us to the neighbourhood of Kanoj, I conclude that there is probably a mistake in the bearing. I would, therefore, propose to read 900 *li*, or 150 miles, to the south, in which position stands the old town of *Mandala*, which was also called [*Maheshmatipura*](http://# "Sleeman, Journ. Asiat. Soc. Bengal, 1837, p. 622.").This was the original capital of the country on the Upper Narbada, which was afterwards supplanted by *Tripuri*, or *Tewar*, 6 miles from Jabalpur. The name is old, as the 'Mahawanso' mentions that the Thero Mahadeva was sent to *Maheṣa-Mandala*, in the time of Asoka, [240 в.c](http://# "Turnour’s ‘Mahawanso,' p. 71.").The products of the country are
 
-
-
 said to have resembled those of Ujain, which is a sufficient proof that *Maheswara* could not have been anywhere to the north of Jajhoti, as the light-coloured soils about Gwalior and in the Gangetic Doâb are quite different from the black soil around Ujain. For these reasons, I am inclined to identify Maheshmatipura on the upper Narbada, with the Maheswarapura of Hwen Thsang. The kingdom was 3000 *li*, or 500 miles, in circuit. With these dimensions, its boundaries may be fixed approximately as extending from Dumoh and Leoni on the west, to the sources of the Narbada on the east.
 
 **33. UJAIN. **
@@ -4952,19 +3745,13 @@ said to have resembled those of Ujain, which is a sufficient proof that *Maheswa
 
  The kingdom of Ujain was under the rule of a Brahman Raja, like the two neighbouring states of
 
-
-
 *Jajhoti* and *Maheṣwarapura*; but the king of Jajhoti was a Buddhist, while the other two kings were Brahmanists. To the west, the king of Malwa was a staunch Buddhist. But the *Mo-la-po*, or *Malwa*, of Hwen Thsang is limited to the western half of the ancient province, the eastern half forming the Brahmanical kingdom of Ujain. As the political divisions of the province thus correspond with its religious divisions, it may fairly be inferred that the rupture was caused by religious dissensions. And further, as the western or Buddhist half of the province still retained the ancient name of Malwa, I conclude that the Brahmanists were the seceders, and that the kingdom of *Ujain* was a recent Brahmanical offshoot from the old Buddhist kingdom of Malwa. Similarly, I believe that *Maheṣwarapura* must have been a Brahmanical offshoot from the great Buddhist kingdom of *Kosala*, or Berar, which will be described hereafter. In Ujain, there were several dozens of monasteries, but at the time of Hwen Thsang's visit, there were only three or four not in ruins, which gave shelter to about 300 monks. The temples of the gods were very numerous, and the king himself was well versed in the heretical books of the Brahmans.
 
 **34. MALWA. **
 
  The capital of *Mo-la-po*, or Malwa, is described by Hwen Thsang as situated to the south-east of the river *Mo-ho*, or *Mahi*, and at about 2000 *li*, or 333 miles, to north-west of [Bharoch](http://# "Julien's 'Hiouen Thsang,' iii. 155.").In this case both bearing and distance are erroneous, as Malwa lies to the north-east of Bhâroch, from which the source of
 
-
-
 the river Mahi is only 150 miles distant. I would therefore read 1000 *li*, or 167 miles, to the north-east, which corresponds almost exactly with the position of *Dhâranagara*, or *Dhâr*, one of the old capitals of Malwa. The present town of *Dhâr* is about three-quarters of a mile in length, by half a mile in breadth, or 2½ miles in circumference; but as the citadel is outside the town, the whole circuit of the place cannot be less than 3½miles. The limits of the province are estimated at 6000 *li*, or 1000 miles. To the westward there were two dependencies of Malwa, named Khedâ, with a circuit of 3000 *li*, or 500 miles, and *Anandapura*, with a circuit of 2000 *li*, or 333 miles, besides an independent state, named Vadari, with a circuit of 6000 *li*, or 1000 miles. All these have to be squeezed into the tract of country lying between Kachh and Ujain, on the west and east, Gurjara and Bairât on the north, and Balabhi and Mahârâshtra on the south, of which the extreme boundaries are not more than 1350 miles in circuit. It seems probable, therefore, that the dependencies must have been included by the pilgrim within the limits of the ruling state. I would accordingly assign to *Malwa* and its dependencies the southern half of the tract just mentioned, and to *Vaḍari*, the northern half. The limits of Malwa would thus be defined, by Vaḍari on the north, Balabhi on the west, Ujain on the east, and Maharashtra on the south. The circuit of this tract, extending from the mouth of the Banâs river, in the Ran of Kachh, to the Chambal, near Mandisor, and from the Sahyâdri mountains, between Dâmân and Mâligâm, to the Tapti river, below Burhânpur, is about 850 miles measured on the map, or nearly 1000 miles by road distance.
-
-
 
 According to [Abu Rihân](http://# "Reinaud, Fragments Arabes et Persans,' p. 109."),the distance of the city of Dhâr from the Narbada was 7 parasangs, and thence to the boundary of *Mahrat-das*, 18 parasangs. This proves that the territory of Dhâr must have extended as far as the Tapti, on the south.
 
@@ -4974,15 +3761,11 @@ According to [Abu Rihân](http://# "Reinaud, Fragments Arabes et Persans,' p. 10
 
  The district of *Kie-cha*, or *Kheḍa*, is placed by Hwen Thsang at 300 *li*, or 50 miles to the north-west of [Malwa](http://# "Julien's 'Hiouen Thsang,' iii. 161."). As both M. Stanislas Julien and M. Vivien de Saint-Martin render *Kie-cha* by *Khacha*, which they identify in the peninsula of *Kachh*, I am bound to state the ground on which I venture to propose a different reading. On looking over the other names in which the peculiar symbol cha is used, I find that it occurs in the well-known names of *Pâṭali-putra* and Kukkuṭa, where it represents the cerebral ṭ, and again in *O.cha-li*, which M. Julien renders by *Aṭali*, and M.de Saint-Martin identifies with the desert region of the *Thal*, or *Thar*. Consistently, therefore, the name of *Kie-cha* should be rendered *Khe-ta.* Now *Kheḍa* is the true
 
-
-
 Sanskrit form of *Kaira*, a large town of Gujarât, situated between Ahmadâbâd and Khambay; and I would therefore identify the pilgrim's *Kie-cha* with Kheḍa. It is true that Hwen Thsang's recorded distance is only 300 *li*, but there are so many mistakes in the bearings and distances of this part of the pilgrim's journey, that I have no hesitation in proposing a correction of the text, by reading 1300 *li*, or 217 miles, which is very nearly the exact distance between Kaira and Dhâr. When we remember that the province of Malwa was bounded on the east, within 25 miles, by the independent territory of Ujain, it is difficult to perceive how there could have been any other state within 50 miles of Dhâr, otherwise the territory of Malwa would have been compressed to a breadth of about 50 miles, between *Ujain* and *Kheḍa*. But this difficulty is entirely removed by adopting my proposed correction, by which the district of *Kheḍa*becomes the extreme western division of the kingdom Hwen Thsang estimates its circuit at 3000 *li*, or 500 miles, a size which agrees very well with the probable limits of the district of *Kaira*, which may be stated as extending from the bank of the Sâbarmati on the west, to the great bend of the Mahi river on the north-east, and to Baroda in the south. In shape it is a rough square.
 
 **36. ANANDAPURA.**
 
  Hwen Thsang places *O.nan.to.pu.lo*, or *Anandapura*, at 700 *li*, or 117 miles, to the north-west of [Vallabhi](http://# "Julien's 'Hiouen Thsang,' iii. 164.").This town has been identified by M. Viven de Saint-Martin with Barnagar, on the authority of the Kalpa
-
-
 
 Sutra of the Jains; but the bearing is to the east of north, and the distance is 150 miles, or 900 *li*. Bar-nagar has already been mentioned as the Sanskrit *Vaḍapura*, or *Barpur*. The district was 2000 *li*, or 333 miles, in extent, and was a dependency of Malwa. This estimate of its size will be fully met by limiting its territory to the triangular tract lying between the mouth of the Banâs river on the west, and the Sâbarmati river on the east.
 
@@ -4990,15 +3773,11 @@ Sutra of the Jains; but the bearing is to the east of north, and the distance is
 
  On leaving Malwa, Hwen Thsang travelled first to the south-west to the "confluence of two seas," and then turning to the north-west reached *O-cha-li*, or [*Vaḍari*](http://# "Julien's 'Hiouen Thsang,' iii. 160."), the whole distance being between 2400 and 2500 *li*, or between 400 and 417 miles. By the term "confluence of two seas," I understand the meeting of the waters of the southern and western seas in the Gulf of Khambay. The town of Surat, or the ancient *Surpâraka* near the mouth of the Tapti, may be considered as the entrance of the gulf; and as it lies to the south-west of *Dhâr*, it was probably this point that was first visited by Hwen Thsang. The distance is just 200 miles. From Surat to Eder the distance is the same, but the direction is to the east of north; I would, therefore, read north-east instead of north-west, and the position of *Eder* will then correspond sufficiently well with that of Hwen Thsang's *O-cha-li* or *Vaḍari*. I am ignorant of the Sanskrit name of Eder, but it seems highly probable that the city of Vadari mentioned in the Basantgarh [inscription](http://# "Journ. Asiat. Soc. Bengal, x. 668.") is the same place. In the
 
-
-
 middle of the eleventh century *Vaḍari* was the capital of a chiefship in the neighbourhood of *Vaḍapura* or Barnagar, which lies 30 miles to the westward of Eder, and on the opposite side of the Sâbarmati river. The royal family claimed descent from *Raja Bhava-Gupta*, "who was a great warrior and the illuminator of his line." This *Bhava* or *Bhaba* I believe to be the same as the *Bav* or *Bappa* of the *Sisodiya* annalists of Udaypur, whose immediate predecessors for several generations were the Rajas of Eder. As Bappa lived in the beginning of the eighth century, the date of his predecessors, the Rajas of Eder, agrees exactly with the period of Hwen Thsang's visit. For these reasons I think that there are fair grounds for the identification of *Eder* with the *Vaḍari* of the inscription, as well as with the *Oṭali*, or *Vaḍari*, of the Chinese pilgrim.
 
  The size of the province is estimated at 6000 *li*, or 1000 miles, in circuit. This large extent shows that *Aṭali* or Vaḍari must have comprised the whole of the unassigned tract of country lying between Vairât on the north, Gurjjara on the west, Ujain on the east, and Malwa on the south. Its boundaries, therefore, must \। have been Ajmer and Ranthambhor to the north, the Loni and Châmbal rivers on the east and west, and the Malwa frontier on the south, from the mouth of the Banâs river in the Ran of Kachh to the Châmbal near Mandisor. The circuit of these limits is about 900 miles measured on the map, or 1000 miles by road distance.
 
  In Pliny's account of the different nations to the eastward of the Lower Indus I find the following pas- sage, which would seem to apply to Eder and the surrounding [districts](http://# "Nat. Hist., vi. c. 23.")."Next the Narea, who are bounded
-
-
 
 by *Capitalia*, the loftiest mountain of India, on the other side of which the people dig up much gold and silver. Beyond them are the Oraturæ(or Oratæ), whose king has only ten elephants, but a large force of infantry, (and) the Varetatæ (or Suaratatatæ), whose king has no elephants, but a strong force of horse and foot. (Then) the Odombaræ" etc. The last nation has already been identified with the people of *Kachh*, and the high mountain of Capitalia can only be the holy *Arbuda*, or Mount Abu, which rises to more than 5000 feet above the sea. The Nareæ must therefore be the people of *Sarüi*, or the "country of reeds," as *nar* and *sar* are synonymous terms for a "reed." The country of Sarüi is still famous for its reed arrows.
 
@@ -5006,20 +3785,13 @@ by *Capitalia*, the loftiest mountain of India, on the other side of which the p
 
  I understand the name of *Vaḍari* to denote a district abounding in the *Badari*, or *Ber*-tree (Jujube), which is very common in southern Rajputana. For the same
 
-
-
 reason I should look to this neighbourhood for the ancient *Sauvîra*, which I take to be the true form of the famous Sophir, or Ophir, as *Sauvîra* is only another name of the *Vaḍari*, or *Ber*-tree, as well as of its juicy fruit. Now, Sofir is the Coptie name of India at the present day; but the name must have belonged originally to that part of the Indian coast which was frequented by the merchants of the West. There can be little doubt, I think, that this was in the Gulf of Khambay, which from time immemorial has been the chief seat of Indian trade with the West. During the whole period of Greek history this trade was almost monopolized by the famous city of Barygaza, or Bhâroch, at the mouth of the Narbada river. About the fourth century some portion of it was diverted to the new capital of Balabhi, in the peninsula of Gujarât; in the middle ages it was shared with Khambay at the head of the gulf, and in modern times with Surat, at the mouth of the Tapti.
 
  If the name of *Sauvirâ*was derived, as I suppose, from the prevalence of the Ber-tree, it is probable that it was only another appellation for the province of Badari, or Eder, at the head of the Gulf of Khambay. This, indeed, is the very position in which we should expect to find it, according to the ancient inscription of Rudra Dâma, which mentions *Sindhu-Sauvîra* immediately after *Surâshtra* and *Bhârukachha*, and just before *Kukura*, *Apâranta*, and *[Nishada](http://# "Journ. Asiat. Soc. Bombay, vii. 120.").*According to this arrangement, *Sauvîra* must have been to the north of Surâshtra and Bhâroch, and to the south of Nishada, or just where I have placed it, in the neighbourhood of Mount Abu. Much the same         
-                
-
-
 
 locality is assigned to Sauvîra in the Vishnu Purâna: "in the extreme west are the Saurâshtras, Suras, Abhiras, Arbudas; the Kârushas and Mâlavas dwelling along the Pāripâtra mountains; the *Sauvîras*, the Saindhavas, the Hûnas, the Sâlwas, the people of Sakala, the Madras, [etc](http://# "Wilson's translation, edited by Hall, book ii. 3 ; vol. ii. p. 133.")."In this enumeration we find mention of nearly every known district lying around Vaḍari, or Eder, on the east, west, north, and south. But there is no notice of Vaḍari itself, nor of Kheda, nor of Khambay, nor of Analwâra, from which I infer that Sauvîra most probably included the whole of these places. Vadari, or Sauvîra, was therefore equivalent to southern Râjputâna.
 
  In the Septuagint translation of the Bible, the Hebrew Ophir is always rendered by Sophir. This spelling was perhaps adopted in deference to the Egyptian or Coptic name of Sofir. The earliest mention of the name is in the Book of Job, where the "gold of Ophir" is referred to as of the finest [quality.](http://# "C.xxii. 24, and xxviii. 16.") t At a later date the ships of Huram, king of Tyre. "went with the servants of Solomon to Ophir, and took thence 450 talents of gold, and brought them to King [Solomon](http://# "2 Chron. viii. 18. In 1 Kings ix. 28, the amount is 420 talents.")." The gold of Ophir is next referred to by Isaiah, who says, “I will make a man more precious than gold, even a man than the golden wedge of [Ophir](http://# "C. xii. 12.")." The word here translated 'wedge' means atongue, or ingot;' and I infer that the wedge of gold of 50 shekels weight that was concealed by [Achan](http://# "Joshua vii. 21."),was most probably one of the ingots of Ophir.
-
-
 
  It now remains to show that the district of Vaḍari,or Eder, which I have suggested as the most probablerepresentative of Ophir, has been, and still is one ofthe gold producing countries of the world. The cvidence on this point, though meagre, is quite clear.The only ancient testimony which I can produce isthat of Pliny, who describes the people dwellingon the other side of mount Capitalia (or Abu), aspossessing " extensive mines of gold and silver[^494].At the present day the Aravali range is the onlypart of India in which silver is found in any quantity,while the beds of its torrents still produce gold, ofwhich many fine specimens may be seen in the Indiamuseum.
 
@@ -5030,10 +3802,6 @@ locality is assigned to Sauvîra in the Vishnu Purâna: "in the extreme west are
 **EASTERN INDIA.**
 
  In the seventh century the division of Eastern Indiacomprised Assam and Bengal proper, together withthe Delta of the Ganges, Sambhalpur, Orissa, andGanjam. Hwen Thsang divides the province into sixkingdoms, which he calls *Kâmarupa, Samataṭa, Tam-*
-
-
-
-
 
 *ralipti, Kirana Suvarna, Odra*, and *Ganjam*[^495],\* and underthese names I will now proceed to describe them.
 
@@ -5049,8 +3817,6 @@ locality is assigned to Sauvîra in the Vishnu Purâna: "in the extreme west are
 
 [^497]: " 'Ayin Akbari,' ii. 3. "
 
-
-
 by the pilgrim, it is almost certain that it must havebeen the capital of *Kâmrup* in the seventh century.This would seem to be confirmed by the fact that thelanguage of the people differed but slightly from thatof Central India. It was therefore not Assamese, andconsequently I infer that the capital visited by HwenThsang was not *Gohati*, in the valley of the Brahmâputra, but *Kamatipura*, in the Indian district of KusaVihâra. The great river crossed by the pilgrim wouldtherefore be the *Tista*, and not the Brahmâputra.
 
  On the east Kâmrup touched the frontiers of thesouth-western barbarians of the Chinese proyince of*Shu*; but the route was difficult, and occupied twomonths. On the south-east the forests were full ofwild elephants, which is still the case at the presentday. The king was a Brahman, named BhâskaraVarmma, who claimed descent from the god Nârâyana, or Vishnu, and his family had occupied thethrone for one thousand generations. He was astaunch Buddhist, and accompanied Harsha Varddhana in his religious procession from Pataliputra toKanoj, in A.D. 643.
@@ -5061,8 +3827,6 @@ by the pilgrim, it is almost certain that it must havebeen the capital of *Kâmr
 
 [^499]: "Julien's 'Hiouen Thsang,' iii.81. See Map No. I."
 
-
-
 darbans, between the Huranghâta river and Bakarganj.But in a country so much intersected bywatercourses as Lower Bengal, the road distance isabout one-fourth greater than the direct distance,measured on the map. Thus, Jessore, which is 103miles from *Dhakka*, and 77 miles from Calcutta byroad, is only 82 and 62 miles distant from them bydirect measurement. Accordingly, Hwen Thsang'sdistance of 150 miles by route will not be more than120 miles by direct measurement on the map, whichis only 20 miles in excess of the actual direct distancebetween Jessore and Tamluk. But as Tamluk is notapproachable by land from the east, the pilgrim musthave travelled at least one-half of the route by water,and his distance of 150 miles may be accepted as afair estimate of the mixed route by land and water,which could not be actually measured. The name of*Jasar*, or "The Bridge," which has now supplantedthe ancient name of *Murali*, shows the nature of thecountry, which is so completely intersected by deepwatercourses, that before the construction of the present roads and bridges, the chief communication wasby boats. *Murali*, or *Jasar*, is most probably the*Gange regia* of Ptolemy.
 
  The country of Samataṭa is mentioned in the inscription of Samudra Gupta on the Allahabad pillar[^500],in which it is coupled with Kâmrup and Nepâl. Itis mentioned also in the geographical list of VarâhaMihira, who lived in the beginning of the sixth century[^501]. According to Professor Lassen, the name signifies "bas pays littoral," which accords exactly with
@@ -5071,15 +3835,11 @@ darbans, between the Huranghâta river and Bakarganj.But in a country so much in
 
 [^501]: "Dr. Kern's Brihat-Sanhitâ,' xiv. 6."
 
-
-
 Hwen Thsang's description of it as a low, moist countryon the seashore. The inhabitants were short andblack, as is the case at the present day with thepeople of Lower Bengal. From all these concurrentfacts, it is certain that *Samataţa* must be the Delta ofthe Ganges;and as the country is described as 3000*li*, or 500 miles, in circuit, it must have included thewhole of the present Delta, or triangular tract between the Bhâgirathi river and the main stream ofthe Ganges.
 
  Hwen Thsang mentions several countries lying tothe east of *Samataṭa*, but as he gives only the generalbearings and not the distances, it is not easy to identify the names. The first place is *Shi-li-cha-ta-lo*,which was situated in a valley near the great sea, tothe north-east of *Samataṭa*[^502].This name is probablyintended for *Sri-Kshatra*, or *Sri-Kshetra*, which M.Vivien de Saint-Martin has identified with *Sri-hata*, or*Silhat*, to the north-east of the Gangetic Delta. Thistown is situated in the valley of the Megna river, andalthough it is at a considerable distance from the sea,it seems most probable that it is the place intended bythe pilgrim. The second country is *Kia-mo-lang-kia*,which was situated beyond the first, to the east, andnear a great bay. This place may, I think, be identified with the district of Komilla, in Tipera, to theeast of the Megna river, and at the head of the Bay ofBengal. The third country is *To.lo.po.ti*, which wasto the east of the last. M. Julien renders the nameby Dwâravati, but he makes no attempt to identify it.I would, however, suggest that it may be *Talaingvati,*that is, the country of the Talaings, or Pegu. *Vati* is
 
 [^502]: "Julien's ‘Hiouen Thsang,' iii. 82."
-
-
 
 the common termination of the names of the Burmesedistricts, as Hansavati, Dwayavati, Dinyavati, etc.The next name is *I-shang-na-pu-lo*, which was to theeast of the last;then still further to the east was *Mo-ho-chen-po*, and beyond that to the south-west was thekingdom of *Yen-mo-na-cheu*. The first of these namesI take to be the country of the *Shân* tribes, or Laos;the second is probably Cochin China or Anam;andthe third, which M. Stanislas Julien renders by *Yamana-dwipa*, is almost certainly *Yava-dwipa*, or Java.
 
@@ -5095,15 +3855,11 @@ the common termination of the names of the Burmesedistricts, as Hansavati, Dwaya
 
 [^504]: "Ibid., iii. 84 and 88. See Map No. I."
 
-
-
 Orissa in the seventh century was Jâjipur on theVaitarani river, the chief city of *Kiraṇa Suvarna* mustbe looked for along the course of the *Suvarna-riksha*river, somewhere about the districts of *Singhbhûm* and*Barabhûm.* But this wild part of India is so littleknown that I am unable to suggest any particularplace as the probable representative of the ancientcapital of the country. Bara Bâzâr is the chief townin Barabhûm, and as its position corresponds veryclosely with that indicated by Hwen Thsang, it maybe accepted as the approximate site of the capital inthe seventh century. The territory was from 4400to 4500 *li*, or from 733 to 750 miles, in circuit. Itmust, therefore, have comprised all the petty hillstates lying between Medinipur and Sirguja on theeast and west, and between the sources of the Damuda and Vaitarani on the north and south.
 
  This large tract of country is now occupied by anumber of wild tribes who are best known by thecollective name of *Kolhân* or *Kols.* But as the peoplethemselves speak various dialects of two distinct languages, it would appear that they must belong to twodifferent races, of whom the *Mûnda* and the *Uraon*may be taken as the typical representatives. According to Colonel Dalton[^505],"the *Mûndas* first occupiedthe country and had been long settled there when the*Uraons* made their appearance;" and "though theseraces are now found in many parts of the country occupying the same villages, cultivating the same fields,celebrating together the same festivals and enjoying thesame amusements, they are of totally distinct origin,and cannot intermarry without loss of caste." This
 
 [^505]: "Journ. Asiat. Soc. Bengal, 1866, p. 154."
-
-
 
 difference of race is confirmed by the decisive test oflanguage, which shows that the *Uraons* are connected.with the Tâmilian races of the south, while the Mûndasbelong to the hill men of the north, who are spreadover the Himâlayan and Vindhyan mountains fromthe Indus to the Bay of Bengal.
 
@@ -5115,8 +3871,6 @@ difference of race is confirmed by the decisive test oflanguage, which shows tha
 
 [^507]: "Journ. Asiat. Soc. Bengal, 1866, 168."
 
-
-
 In their erect carriage and fiue manly bearing theHos look like a people that have maintained and areproud of their independence. Many have featuresof sufficiently good cast to entitle them to rank asArians;high noses, large but well-formed mouths,beautiful teeth, and the facial angle as good as in theHindu races. ...When the face of the Mûnda variesfrom the Arian or Caucasian type, it appears rather tomerge into the Mongolian than the Negro. ... Theyare of average stature, and in colour vary from brownto tawny yellow."
 
  In the different dialects of the *Mûnda* language *ho*,*hor, horo*, or *hoko* is the term for "man." The assumption of this name by the people of Singhbhûm isa strong confirmation of Colonel Dalton's descriptionof the tribe as the most powerful division of the *Mûnda*nation. But they also call themselves *Larakas*, or the"warriors," which points to the same conclusion thatthey are the leading division of the Mûnda race.
@@ -5124,8 +3878,6 @@ In their erect carriage and fiue manly bearing theHos look like a people that ha
  Colonel Dalton gives no explanation of the name of*Mûnda*; but as I find that the head men of the villages are called *Mûnda* or *Moto* amongst the Hors ofSinghbhûm and other divisions of the Mûnda race, Iconclude that the *Mûndas* or *Motos* must once havebeen the ruling division of the nation. The name of*Mûnda* is found in the Vishnu Purâna[^508]as the appellation of a dynasty of eleven princes who succeededthe *Tushâras* or *Tokhari*. In the Vayu Purâna, how-ever, the name is omitted, and we have only *Maruṇḍa*, which is most probably the variant form ofanother name, *Muruṇḍa*, as found in two inscriptions
 
 [^508]: "Wilson's translation, edited by Hall, book iv. 24, and vol. iv.p. 203."
-
-
 
 of the second and third centuries[^509].Ptolemy has*Marundai* as the name of a people to the north of theGauges; but to the south of the river he places the*Mandali*, who may be the *Mûndas* of Chutia Nâgpur,as their language and country are called *Mundala*.This is only a suggestion; but from the position ofthe *Mandali* they would seem to be the same people asthe *Monedes* of Pliny, who with the *Suari* occupied theinland country to the south of the Paliborthri[^510].Asthis is the exact position of the country of the *Mûndas*and *Suars*, I think it quite certain that they must bethe same race as the *Monedes* and *Suari* of Pliny.
 
@@ -5139,8 +3891,6 @@ ocean. The *Mandei* I would identify with the inhabitants of the *Mahânadi* riv
 
 [^511]: "Hist. Nat. vi. c. 21. "
 
-
-
 derived from the Kanarese *Male* and the Tâmil *Malei*,a "hill." It would therefore be equivalent to theHindu *Pahâri* or *Parbatiya*, a “hill man.”
 
  The *Suari* of Pliny are the *Sabara* of Ptolemy, andboth may be identified with the aboriginal *Savaras*,or *Suars*, a wild race of wood-cutters, who live in thejangals without any fixed habitations. The countryof the *Savaras* is said to begin where that of the*Khonds* ends, and to extend as far south as the Pennâr river. But these *Savaras* or *Suars* of the eastern*Ghâts* are only a single branch of a widely-extendedtribe, which is found in large numbers to the southvest of Gwalior and Narwar, and also in southernRajputâua. The *Savaris* or *Saharias* of the Gwaliorterritory occupy the jangals on the Kota frontier tothe westward of Narwar and Guna. They are found.along the course of the Chambal river and its brauches,where they meet the Rajputâna *Surrias* of Tod. Thename is preserved in the Soræ Nomades of Ptolemy,who are placed to the south of the *Kondali* and *Phyllitae*, or the Gonds and Bhils. They must thereforebe the *Suars* or *Savaras* of central India, who occupythe wild hilly country about the sources of the WainGangâ, and who are also found along the valley ofthe Kistna river. As *Kiraṇa* means a "man of mixedrace," or barbarian, it seems probable that the nameof *Kirana Suvarna* may be the original appellation ofthe barbarian *Suvaras*, or *Suars.*
@@ -5148,8 +3898,6 @@ derived from the Kanarese *Male* and the Tâmil *Malei*,a "hill." It would there
  In the beginning of the seventh century the kingof this country was *She-shang-kia*, or *Ṣaṣângka*,who is famed as a great persecutor of Buddhism[^512].
 
 [^512]: "Hiouen Thsang's Life,' i. 112 and 235. Also Travels,' ii. 349,422, and 468."
-
-
 
 I found a gold coin inscribed with the name of thisprince at full length in the 'Payne Knight Collection'of the British Museum, and there are a few specimensin other collections.
 
@@ -5163,8 +3911,6 @@ I found a gold coin inscribed with the name of thisprince at full length in the 
 
  The province was 7000 *li*, or 1167 miles, in circuit,and was bounded by the great sea on the south-east,where there was a famous seaport town named *Che-li-ta-lo-ching*, or *Charitrapura*, that is, the "town of embarkation" or "departure." This was probably thepresent town of *Puri*, or "the city," near which standsthe famous temple of Jagannâth. Outside the townthere were five contiguous stupas with towers andpavilions of great height.I presume that it is one ofthese which is now dedicated to Jagannâth. Thethree shapeless figures of this god and his brotherand sister, Baladeva and Subhadrâ, are simple copiesof the symbolical figures of the Buddhist triad, Buddha,
 
-
-
 Dharma, and Sangha, of which the second is alwaysrepresented as a female. The Buddhist origin of theJagannâth figures is proved beyond all doubt by theiradoption as the representative of the BrahmanicalAvatâr of Buddha in the annual almanacs of Mathuraand Banâras.
 
  The political limits of Orissa, under its most powerful kings, are said to have extended to the Hûghliand Damuda rivers on the north, and to the Godâvarion the south. But the ancient province of *Odra-desa*,or *Or-desa*, was limited to the valley of the Mahânadiand to the lower course of the Suvarna-riksha river.It comprised the whole of the present districts of*Katak* (Cuttack) and Sambhalpur, and a portion ofMedinipur. It was bounded on the west by Gondwâna, on the north by the wild hill-states of Jashpurand Singhbhûm, on the east by the sea, and on thesouth by Ganjam. These also must have been thelimits in the time of Hwen Thsang, as the measuredcircuit agrees with his estimate.
@@ -5173,15 +3919,11 @@ Dharma, and Sangha, of which the second is alwaysrepresented as a female. The Bu
 
 [^515]: "Hist. Nat. ii. 75. "
 
-
-
 noticed, and the Oretes must be the people of Orissa.*Malê*is one of the Dravidian terms for a mountain;and as the Uraons, or people of west Orissa, still speaka Dravidian dialect, it is probable that *Mallus* wasnot the actual name of the mountain. May not thishave been the famous *Sri-Parvat* of Telingâna, whichgave its name to the *Sri-Parvatiya Andhras*?
 
  The ancient metropolis of the country was *Katak*on the Mahânadi river, but in the early part of thesixth century Raja Jajâti Kesari established a newcapital at *Jajâtipura* on the Vaitarani river, whichstill exists under the abbreviated name of *Jâjipura*.The same king also began some of the great templesat Bhuvaneswara; but the city of that name wasfounded by Lalitendra Kesari. The language andpronunciation of the people is said to have differedfrom those of central India, which is still true at thepresent day.
 
  To the south-west there were two hills, on one ofwhich, called *Pushpagiri*, or the "hill of flowers,"there was a monastery of the same name and a stupaof stone, and on the other to the north-west only astupa. These hills I take to be the famous *Udayagiri*and *Khandagiri*, in which many Buddhist caves andinscriptions have been discovered. These hills aresituated 20 miles to the south of *Katak*, and 5 milesto the west of the grand group of temples at Bhuvaneswara. The stupas were said to have been builtby demons; from which I infer that the origin of thegreat caves, and other Buddhist works on these hillswas quite unknown at the period of Hwen Thsang'svisit.
-
-
 
 ** 6.GANJAM.**
 
@@ -5193,16 +3935,12 @@ noticed, and the Oretes must be the people of Orissa.*Malê*is one of the Dravid
 
 [^517]: "'Journal Asiatique,' 1839, p. 404. U-cha, or Oda, in eastern India,is said to be also named Kiuan-yu-mo, at which time, therefore, A.D.650 to 684, it must have become dependent on Odra or Orissa."
 
-
-
 nation, either with the founder's name or with thename of the principal article sold in the place, asRâm-ganj, or “ Râma’s market,” Thithâr-ganj, the“brazier's market," etc. The district was only 1000li, or 167 miles, in circuit, which shows that the territory was confined to the small valley of the Rasikulyariver. But though the domain was small, the statewould appear to have been of some consequence, as Hweng Thsang describes the soldiers as brave andbold, and their king as so powerful that the neighbouring states were subject to him, and no one couldresist him. From this account I am led to infer thatthe king of Ganjam, at the time of Hwen Thsang'svisit, must have been Lalitendra Kesari of the Orissaannals, who is said to have reigned for nearly sixtyyears, from A.D. 617 to 676. The pilgrim visitedGanjam in A.D. 639, when this prince was at the veryheight of his power. But only four years later, whenthe pilgrim revisited Magadha, he found the great  
 King Harsha Varddhana of Kanoj[^518]had just returnedfrom a successful expedition against the king of Ganjam. The cause of the war is not stated, but as Harsha Varddhana was a staunch Buddhist, while Lalitendra was a devoted Brahmanist, the difference ofreligion would easily have furnished a sufficient pretext for war. It seems probable that Ganjam wasthen annexed to the dominions of the Kanoj king,and formed part of the province of Orissa.
 
 [^518]: "Julien's 'Hiouen Thsang,' i. 236,"
 
  Hwen Thsang notes that the written characters ofGanjam resembled those of central India, but thatboth the language and the pronunciation were different. This statement proves that the same alphabetical
-
-
 
 characters were still in use over the greater part ofIndia at as late a date as the middle of the seventhcentury. It also serves to show that the intercommunications of the Buddhist fraternities throughoutIndia were not yet broken, although they must alreadyhave been much restricted by the steady progress ofBrahmanism.
 
@@ -5216,15 +3954,11 @@ characters were still in use over the greater part ofIndia at as late a date as 
 
  In the seventh century, the capital of the kingdomof *Kie-ling-kia*, or *Kalinga*, was situated at from 1400to 1500 *li*, or from 233 to 250 miles, to the south-
 
-
-
 west of Ganjam[^520].Both bearing and distance pointeither to *Rajamahendri* on the Godâvari river, or to*Koringa* on the scacoast, the first being 251 miles tothe south-west of Ganjam, and the other 246 miles inthe same direction. But as the former is known tohave been the capital of the country for a long period,I presume that it must be the place that was visitedby the Chinese pilgrim. The original capital of Kalingais said to have been *Srikakola*, or Chikakol, 20 milesto the south-west of Kalinga-patam. The kingdomwas 5000 *li*, or 833 miles, in circuit. Its boundaries.are not stated; but as it was united to the west byAndhra, and to the south by Dhanakakata, its frontierline cannot have extended beyond the Godâvaririver, on the south-west, and the Gaoliya branch ofthe Indrâvati river on the north-west. Within theselimits, the circuit of Kalinga would be about 800 miles.The principal feature in this large tract of countryis the Mahendra range of mountains, which has preserved its name unchanged from the time of the composition of the Mahâbhârata to the present day. Thisrange is mentioned also in the Vishnu Purâna, as thesource of the Rishikulya river, and as this is the wellknown name of the river of Ganjam, the Mahendramountains can at once be identified with the *MahendraMalê*range, which divides Ganjam from the valley of the Mahânadi.
 
 [^520]: "Julien's 'Hiouen Thsang,' iii. 92. See Maps Nos. I. and XIII."
 
  Rajamahendri was the capital of the junior, or easternbranch of the *Châlukya* princes of *Vengi*, whose authority extended to the frontiers of Orissa. The kingdom of *Vengi* was established about A.D. 540, by thecapture of the old capital of *Vengipura*, the remains of
-
-
 
 which still exist at *Vegi*, 5 miles to the north of *Ellûr*,and 50 miles to the west-south-west of Rajamahendri.About A.D. 750, Kalinga was conquered by the Rajaof Vengi, who shortly afterwards moved the seat ofgovernment to Rajamahendri.
 
@@ -5233,8 +3967,6 @@ which still exist at *Vegi*, 5 miles to the north of *Ellûr*,and 50 miles to th
 [^521]: " Hist. Nat. vi. 21. "
 
 [^522]: "Ibid. vi. 23. Philemon Holland's translation has Dandagula."
-
-
 
 which is confirmed by the statement of the Buddhistchronicles, that the "left canine tooth" of Buddhawas brought to Kalinga immediately after his death,where it was enshrined by the reigning sovereign,Brahmadatta[^523].Dântapura, also, is said to have beensituated on the northern bank of a great river, whichcan only be the Godâvari, as the Kistna was not inKalinga. This fact alone would be sufficient to fixthe position of *Dântapura* at the old capital of *Rajamahendri*, which is situated on the north-castern bankof the Godâvari. The name of *Mahendri* is perhapspreserved in the Pitundra *Metropolis* of Ptolemy, whichhe places close to the *Maisôlos*, or Godâvari, that is, tothe river of *Masuli-patam*.
 
@@ -5247,8 +3979,6 @@ which is confirmed by the statement of the Buddhistchronicles, that the "left ca
 [^525]: "Ibid. Appendix v. pp. 88, 89, where the Princess Tilaka Sundari, of Kalinga, is said to have come from Sinhapura."
 
  In the inscriptions of the Kâlachuri, or Haihayadynasty of Chedi, the Rajas assume the titles of "Lordsof *Kâlanjjarapura* and of *Tri-Kalinga*. Kâlanjar isthe well-known hill-fort in Bundelkhand; and *TriKalinga*, or the "Three Kalingas," must be the threekingdoms of Dhanaka, or Amaravati, on the Kistna,Andhra or Warangol, and Kalinga, or Rajâ Mahendri.
-
-
 
 The name of Tri-Kalinga is probably old, as Plinymentions the *Macco-Calinga* and the *GangaridesCalinga* as separate peoples from the *Calinga*, whilethe Mahâbhârata names the Kalingas three separatetimes, and each time in conjunction with differentpeoples[^526].As *Tri-Kalinga* thus corresponds with thegreat province of *Telingâna*, it seems probable that thename of T*elingâna* may be only a slightly contractedform of *Tri-Kalingân*a, or the "Three Kalingas." Iam aware that the name is usually derived from *Tri-Lingga*, or the "Three *Phalli*" of Mahadeva. But the.mention of *Macco-Calinga* and *Gangarides-Calinga*by Pliny, would seem to show that the "Three Kalingas" were known as early as the time of Megasthenes,from whom Pliny has chiefly copied his Indian Geography. The name must therefore be older thanthe Phallic worship of Mahadeva in southern India.Kalinga is three times mentioned in the Khandagiriinscription of Aira Raja[^527],which cannot be later thanthe second century B.C., and at a still earlier date,during the lifetime of Sâkya-Muni, it was noted forits manufacture of fine muslins, and at his death, theking of Kalinga is said to have obtained one of theteeth of Buddha, over which he built a magnificentstupa[^528].
 
@@ -5264,8 +3994,6 @@ The name of Tri-Kalinga is probably old, as Plinymentions the *Macco-Calinga* an
 
 [^529]: " Julien's 'Hiouen Thsang,' vol. i. p. 185, gives 1800 li, and vol. iii.p. 94, 1900 li. See Map No. I."
 
-
-
 north-west to the kingdom of *Kiao-sa-lo*, or *Kosala*.The bearing and distance take us to the ancient province of *Vidarbha*, or *Berâr*, of which the presentcapital is *Nâgpur*. This agrees exactly with the position of Kosala as described in the *Ratnâvali*, and inthe *Vâyu Purâna[^530]*.In the former, the king of Kosalais surrounded in the l*'indhyan* mountains, and in thelatter it is stated that *Kuṣa*, the son of Rama, ruledover Kosala, at his capital of *Kuṣasthali*, or *Kusâvati*,built upon the Vindhyan precipices. All these concurring data enable us to identify the ancient Kosalawith the modern province of Berar, or Gondwâna.The position of the capital is more difficult to fix, asHwen Thsang does not mention its name; but as itwas 40 *li*, or nearly 7 miles, in circuit, it is most probably represented by one of the larger cities of thepresent day. These are Chânda, Nâgpur, Amaravati,and Elichpur.
 
 [^530]: "H. H. Wilson, Vishnu Purâna,' Hall's edition, ii. 172,note."
@@ -5276,15 +4004,11 @@ north-west to the kingdom of *Kiao-sa-lo*, or *Kosala*.The bearing and distance 
 
  Amaravati is about the same distance from Rajama-
 
-
-
 hendri, and Elichpur is 30 miles still further to thenorth. Chânda is therefore the only place of consequence that has a strong claim to be identified withthe capital of Kosala in the seventh century. Therecorded distance of 1800 or 1900 *li* from Rajamahendri is further supported by the subsequent distance of1900 *li*, or 900 plus 1000 *li*, to *Dhanaka-kata*, whichwas almost certainly the same place as *Dhârani-kota*,or Amaravati, on the Kistna river. Now, the roaddistance of Chânda from Dhâranikota is 280 miles, or1680 *li*, by the direct route; but as Hwen Thsang firstproceeded for 900 *li* to the south-west, and then for1000 *li* to the south, the direct distance between thetwo places would not have been more than 1700 *li*.
 
  At 300 *li*, or 50 miles, to the south-west of thekingdom, there was a high mountain named *Po.lo.mo.lo.ki-li,* which is said to mean the "black peak." M.Julien identifies this name with "*Baramula-giri* of thepresent day[^531];but I cannot find this place in anymap or book to which I have access. The mountainis described as very lofty, and without either spurs orvalleys, so that it resembled a mere mass of stone. Inthis mountain King *So-to-po-ho*, or *Sâtaváhan*, hewed apavilion of five storeys, which was accessible by a hollow road many dozens of *li*, that is many miles, inlength. The place was not visited by Hwen Thsang,as the narrator of his journey uses the expression "onarrive," instead of "il arriva." But as the rock issaid to have been excavated as a dwelling for the holyBuddhist sage *Nâgárjuna*, the pilgrim would almostcertainly have visited it, if it had been only 50 miles
 
 [^531]: "'Hiouen Thsang,' iii. 101, note 4 :aujourd'hui Baramulaghiri;"
-
-
 
 distant from the capital; and if the south-west bearingis correct, he must have passed quite close to the placeon his subsequent journey to Andhra, wihch is said tobe either in the same direction, or towards the south.I conclude, therefore, that the curious, "au sud-ouest*du royaume[^532],*"which the pilgrim uses to indicate theposition of this excavated rock, may possibly refer tothe boundary of the *kingdom*, and consequently thatthe place must be looked for at 300 *li*, or 50 miles,beyond its south-west frontier. This position wouldagree very well with that of the great rock fortressof Deogir, near Elura, and the name of *Polomolokili*,or *Varamula-giri*, might be accepted as the original of*Varula*, or Elura. Parts of the description, such asthe long galleries hewn out of the rock, and the cascade of water falling from the top of the rock, agreebetter with the great Buddhist establishment at Elurathan with Deogir. But as the place was not actuallyvisited by Hwen Thsang, his description must havebeen made up from the varying accounts of differenttravellers, in which the contiguous sites of Elura andDevagiri were probably treated as one place.
 
@@ -5294,15 +4018,11 @@ distant from the capital; and if the south-west bearingis correct, he must have 
 
 [^533]: "Beal's Fah-Hian,' c. xxxv."
 
-
-
 shape of a different animal, the fifth, or uppermost,storey being in the form of a *Pigeon*, from which themonastery received its name. The Chinese syllables*Pho-lo-yu* must therefore be intended for the Sanskrit*Pârâvata*, a "pigeon." A spring of water rising inthe uppermost storey, descended through all the roomsof the monastery, and then passed out by the gate. Inthis account we have the five storeys, the spring ofwater falling from the top, and the name of the place,all agreeing very closely with the description of HwenThsang. The chief point of difference is in the meaning assigned to the name, as Hwen Thsang states that*Polomolo-kili* signifies the "black peak," while according to Fa-Hian, *Pholoyu* means aa "pigeon." Butthere is still another account, of an intermediate date,which gives a third meaning to the name.In A.D.503, the king of Southern India sent an ambassadorto China, from whom it was ascertained that in hiscountry there was a fortified city named *Pa-lai*, or"situated on a height.'height." At 300 *li*, or 50 miles, tothe eastward, there was another fortified town, namedin the Chinese translation *Fu-cheu-ching*, or "villesoumise à ce qui est détesté[^534],"which was the birthplace of a famous saint, whose name was *Chu-san-hu*,or "Coral-beads" (grains de corail). Now, Palâmâlâis the name of a "coral necklace," or "string ofcoral-beads[^535];and as it represents every syllable ofHwen Thsang's *Polomolo*, I presume that it must bethe same name. I am unable to explain HwenThsang's translation of the name as the "black
 
 [^534]: "Pauthier, "
 
 [^535]: "Pauthier, Journal Asiatique,' Oct. 1839, p. 292."
-
-
 
 peak" in any of the northern dialects; and I canonly suggest that he may perhaps refer to one of thesouthern or Dravidian dialects. In Kanarese, malêis a “hill;" and as pârâ, or "quicksilver," and pâras,or the "touchstone," are both of black hue, it isprobable that they are connected with πελός. *Pâra*,therefore, might signify "black," and *pâra-malé* wouldthen be the black hill. One of the most venomoussnakes in southern India, which is of a very darkblue or almost black colour, is called *Pâra-Gudu*. Itseems probable, therefore, that Hwen Thsang's translation may be derived from one of the southern dialects.This confusion in the Chinese translations is no doubtdue to the very defective power of the Chinese syllables for the transcription of Sanskrit words. Thus,*Po.lo.fa.*to might be read as *Pârâvata*, a "pigeon,"according to Fa-Hian; or as *paravata*, "subject," according to the *Si-yu-ki*; while it is probable that thetrue reading should be *parvata*, a "mountain," as themonastery is specially stated to have been excavatedin a rocky hill.
 
@@ -5314,17 +4034,11 @@ peak" in any of the northern dialects; and I canonly suggest that he may perhaps
 
  In all our Chinese authorities the rock-hewn monastery is connected with a holy sage; but the namein each account is different. According to Fa-Hian,
 
-
-
-
-
 it was the monastery of the earlier Buddha namedKâsyapa. In the *Si-yu-hi*, however, it is said to bethe birthplace of the Muni Parâmâlâ, while HwenThsang states that the monastery was excavated by.King *Sâtavâhan*, for the use of the famous Nâgârjuna.From the wonderful descriptions of Fa-Hian and HwenThsang I have been led to think that their accountsmay possibly refer to the grand excavations of Devagiri and Elura. But if the distance given by HwenThsang as well as by the *Si-yu-hi* is correct, the rockhewn monastery must be looked for about 50 miles tothe west or south-west of Chânda. Now in this veryposition, that is about 45 miles to the west of Chânda,there is a place in the map called *Pâṇḍu-kuri*, or the"Pândus' houses," which indicates an undoubted ancient site, and may possibly refer to some rock excavations, as the rock-hewn caves at Dhamnâr and Kholviare also assigned to the Pândus, being severally named"Bhim's cave, Arjun's cave," etc. In the total absenceof all information, I can only draw attention to thevery curious and suggestive name of this place. Thereis also a series of Buddhist caves at *Patûr*, 50 miles tothe south-west of Elichpur and Amaravati, and 80miles to the east of Ajanta. As these have never beendescribed, it is possible that the site may hereafter befound to correspond with the descriptions of the rockhewn monastery by Fa-Hian and Hwen Thsang.
 
  The mention of King *Sâtavâhana*, or *Sâdavâhana*, inconnection with Nâgârjuna is specially interesting, asit shows that the Buddhist caves of *Parâmâlâ* must beas old as the first century of the Christian era. *Sâdavâhana* was a family name, and as such is mentionedin one of the cave inscriptions at Nâsik[^538].But Sâta-
 
 [^538]: "Bombay Journal, vii., Nasick inscriptions No. 6, by Mr. West."
-
-
 
 *vâhana* is also a well-known name of the famous Sâlivâhan[^539],who founded the Sake era in A.D. 79, so thatwe have a double proof that the Buddhist caves ofParâmâlâmust have been excavated as early as thefirst century. The probable identity of Sâtavâhan andSâtakarni will be discussed in another place. Weknow from the western cave inscriptions that Kosalacertainly formed part of the vast southern kingdomof *Gotamiputra Ṣâtakarn*i; and if he flourished inthe first century as would appear to be the case[^540],hisidentity with Ṣâṭavâhân, or Sâlivâhan, would be undoubted. It is sufficient here to note the great probability of this interesting point in the history ofSouthern India.
 
@@ -5334,18 +4048,10 @@ it was the monastery of the earlier Buddha namedKâsyapa. In the *Si-yu-hi*, how
 
  The kingdom of Kosala is estimated by HwenThsang at 6000 *li*, or 1000 miles, in circuit. Itsfrontiers are not named; but we know from the pilgrim's itinerary that it must have been bounded byUjain on the north, by Mahârâshtra on the west, by Orissa on the east, and by Andhra and Kalinga on thesouth. The limits of the kingdom may be roughlydescribed as extending from near Bûrhânpûr on theTâpti, and Nânder on the Godâvari, to Ratanpur inChatisgarh, and to Nowagadha near the source of theMahânadi. Within these limits the circuit of the
 
-
-
-
-
-
-
 ![](../books_images/U-IMG-1702014199aaaaa.png)  
 **MAP**of the**EASTERN COAST**  
 between the Rivers  
 **GODÂVARI** AND **Ḳ**RI**SHNA.**
-
-
 
 large tract assigned to Kosala is rather more than1000 miles.
 
@@ -5355,8 +4061,6 @@ large tract assigned to Kosala is rather more than1000 miles.
 
 [^541]: "Julien's 'Hiouen Thsang,' iii. 105. See Map No. I."
 
-
-
 Chânda and Dhâranikotta; but both the distances aretoo great to suit Hwen Thsang's numbers of 900 *li* and1000 *li*, or 150 miles and 167 miles. The position of*Elgandel*, which is midway between Bhimgal andVarangol, agrees better with the pilgrim's narrative,as it is about 130 miles from Chânda, and 170 miles.from Dharanikotta. I am, therefore, willing to adopt*Elgandel* as the probable representative of the capitalof *Andhra* in the seventh century of the Christianera.
 
  The province of Andhra is described as 3000 *li*, or500 miles, in circuit. No frontier is mentioned in anydirection; but it may be presumed that the Godâvaririver, which is the modern boundary to the north andeast, was likewise the ancient one, as it is also thelimit of the Telugu language towards the north. Tothe west, where it met the great kingdom of Mahârâshtra, it cannot have extended beyond the *Manjhira*branch of the Godâvari. The territory may, therefore, be described as stretching from the junction ofthe Manjhira and Godâvari to Bhadrachelam on thesouth-east, a length of 250 miles, and to Haidarabadon the south, a length of 100 miles, the distance between Haidarabad and Bhadrachelam being. 175 miles.These limits give a total circuit of 525 miles, or nearlythe same as that stated by Hwen Thsang.
@@ -5365,15 +4069,11 @@ Chânda and Dhâranikotta; but both the distances aretoo great to suit Hwen Thsa
 
 [^542]: "Hist. Nat., vi. 22."
 
-
-
 Tables as placing the Andhras "on the banks of theGanges[^542],"but the extremely elongated form of thePentingerian Map has squeezed many of the peoplesand nations far out of their true places. A much saferconclusion may be inferred from a comparison of theneighbouring names. Thus the *Andrae-Indi* are placednear *Damirice*, which I would identify with Ptolemy's*Limyrike* by simply changing the initial_(![](../books_images/U-IMG-1700745735Screenshot2023-11-23185103.png)) to _(![](../books_images/U-IMG-1700745735Screenshot2023-11-23185103.png)), as theoriginal authorities used for the construction of theTables must have been Greck. But the people ofLimyrike occupied the south-west coast of the peninsula, consequently their neighbours the Andræ-Indimust be the well-known Andhras of Telingana, andnot the mythical Andhras of the Ganges, who arementioned only in the *Purânas*. Pliny's knowledge ofthe Andaræ must have been derived either from theAlexandrian merchants of his own times, or from thewritings of Megasthenes and Dionysius, the ambassadors of Seleukus Nikator and Ptolemy Philadelphus tothe court of Palibothra. But whether the Andaræwere contemporary with Pliny or not, it is certain thatthey did not rule over Magadha at the period to whichhe alludes, as immediately afterwards he mentions.the Prasii of Palibothra as the most powerful nationin India, who possessed 600,000 infantry, 30,000horse, and 9000 elephants, or more than six times thestrength of the Andaræ-Indi.
 
 [^542]: "Hist. Nat., vi. 22."
 
  The Chinese pilgrim notices that though the language of the people of Andhra was very differentfrom that of Central India, yet the forms of thewritten characters were for the most part the same.This statement is specially interesting, as it shows that
-
-
 
 the old Nâgari alphabet introduced from NorthernIndia was still in use, and that the peculiar twistedforms of the Telugu characters, which are found ininscriptions of the tenth century, had not yet beenadopted in the south.
 
@@ -5384,8 +4084,6 @@ the old Nâgari alphabet introduced from NorthernIndia was still in use, and tha
 [^544]: " See Maps Nos. I. and XIII. My correction was printed in myArchæological Report to the Government of India in 1864, but it wasmade several years previously. Dr. Bhau Dâji has also identified theChinese name with the Dhanakakata of the inscriptions, but he has notnoticed the true reading of the Chinese syllable tse. (Bombay Journ.,vol. vii. p. 68.
 
  The inscription on which Dr. Stevenson founds his
-
-
 
 opinion of the Greek origin of the recorder is thusread by himself[^545]:—
 
@@ -5416,8 +4114,6 @@ Mita Deva nakasa thabha dânam.**
 
  The third Kârle inscription is unfortunately slightlyimperfect in the donor's name, and the concluding
 
-
-
 word is unintelligible, but the opening of the inscription as read by Dr. Stevenson is[^547] :—
 
 [^547]: "Journ. Asiat. Soc. Bombay, v. 155. Kârle inscription No. 10."
@@ -5446,8 +4142,6 @@ of which the literal translation is, "(Gift) of *Kulapiya*,an Upâsika of *Dhanu
 
 and by adding the previous word chivarika he translates it as follows:—
 
-
-
  "Here is a hall established for Buddhist-priests;here the Buddha-tooth cave." 
 
  In his transcript of this record I notice that Dr.Stevenson altogether omits the letter *k* which occursbetween *datya* and *lena* in both copies of the inscription, in that made by Lieut. Brett, which was published by Dr. Stevenson himself[^550],as well as in thatmade by Mr. West. With this correction I read theconcluding words of the inscription as follows:—
@@ -5464,13 +4158,9 @@ of which the literal translation is :—
 
  In fixing the position of *Dhanakakaṭa*, at *Dhâranikotta*, or Amaravti, on the Kistna, I have been guidednot only by the bearing and distance from Andhra andKosala, but by several other concurring reasons, whichI will now detail.
 
-
-
  Amongst the Buddhist traditions of Ceylon andSiam, we have an account of a country lying betweenthe mouth of the Ganges and the Island of Ceylon,which was inhabited by Nâgas. These Nâgas possessedeither one or two *Drona* measures of the relics ofBuddha, which were enshrined in a beautiful andcostly stupa, near the "Diamond Sands." Originally,this portion of relics had belonged to Râmagrâma, nearKapilavastu; but when the Râmagrâma stupa waswashed away by the river, the relic casket containingone of the original eight divisions of Buddha's remainswas carried down the Ganges to the sea, where it waspicked up by the Nâgas, and conveyed to their owncountry, called *Majerika*. Now this country was tothe south of *Dantapura*, because Prince *Danta Kumâra*and the Princess *Hemamâla*, when flying from Dantapura to Ceylon with the tooth of Buddha, werewrecked on the coast near the "Diamond Sands." Thename itself also helps to fix the position of the DiamondSands, at or near *Dhâranikotta*, on the Kistna, as thediamond mines of this part of the country are restricted to the small district of Partiâl, lying immediately to the north of Dhâranikotta. The flight fromDantapura took place in A.D. 310, at which time,according to the Siamese version, the two Dronameasures of relics were still preserved in the Nâgacountry[^552].But three years later, or in A.D. 313, theRaja of Ceylon sent a holy priest to bring away theserelics from *Majerika*, which was miraculously effected,in spite of the opposition of the Nâgas. The Nâgaking then solicited a few relics from the Raja of
 
 [^552]: "Colonel Low, in Journ. Asiat. Soe. Bengal, 1848; part ii. p. 87.Sec Map No. XIII."
-
-
 
 Ceylon, "which were bestowed upon him accordingly."
 
@@ -5484,8 +4174,6 @@ Ceylon, "which were bestowed upon him accordingly."
 
  It is difficult to reconcile the discrepancy betweenthe dates of the Siamese and Ceylonese chronicles;but I think it is highly improbable that these Nâgarelics could have been carried to Ceylon at so early adate as 157 B.C., at which time it is more than doubtful whether Buddhism had penetrated to any part ofSouthern India. I would suggest, as a possible explanation of the discrepancy, that the relies may havebeen carried off to Ceylon in A.D. 313, as stated in theSiamese chronicles, and there enshrined in the great
 
-
-
 stupa of Ruanwelli; and that in after times theiracquisition was erroneously assigned to *Dutthagâmini*,the original founder of the stupa. The famous toothitself, which was taken from *Kalinga* to Ceylon, inA.D. 310, was enshrined in the *Dharmmachakra*, anedifice erected by *Dewãnan-piyatisso*, the contemporary of Asoka, about 240 B.C., and was afterwardstransferred to the Abhayagiri Vihâra, which waserected in B.c. 89[^555].
 
 [^555]: "Turnour's 'Mahawanso,' p. 241."
@@ -5493,8 +4181,6 @@ stupa of Ruanwelli; and that in after times theiracquisition was erroneously ass
  But whether this explanation be accepted or not,we know from the general consent of all the Buddhistchroniclers and pilgrims, as well as of the 'Mahâwanso'itself, that the Râmagrâma relics were still enshrinedin their original receptacle, at Râmagrâma, in themiddle of the third century, B.C., when Asoka wasbuilding stupas over all the relics of Buddha that weredivided after his death. If, therefore, the relics wereremoved to Ceylon in B.C. 157, as stated in the 'Mahâwanso,' we must crowd into a period of little morethan 80 years the destruction of the original stupaat Râmagrâma, the enshrinement of the relics atMajerika in the most magnificent stupa in all India,and their subsequent removal to Ceylon. But according to the very competent authority of Mr. Fergusson[^556],the erection of the Dharanikotta stupa, "judging fromits elaboration, may have taken fifty years to complete." We have, therefore, only about thirty yearsleft for the stay of the relics at Râmagrâma, afterthe time of Asoka, and for their subsequent stayamongst the Nâgas of Majerika. For this reason, Iprefer the account of the Siamese chronicles; and I
 
 [^556]: "ourn. Royal Asiat. Soc., new series, iii. 155."
-
-
 
 would accordingly fix the date of the removal of the*Drona* measure of relics, from Dharanikotta to Ceylon,in the year 313 A.D.
 
@@ -5504,21 +4190,15 @@ would accordingly fix the date of the removal of the*Drona* measure of relics, f
 
  In mentioning the relics that were removed fromRâmagrâma, the Ceylonese chronicles call them one*Drona* measure, and the Siamese two *Dronas.* I presume, therefore, that they were generally known asthe *Drona-dhâtu*, or "*Drona* of *relics*." In Pali thisname would be *Dona*, which may probably be the trueoriginal of Hwen Thsang's *To.na.kie*. The full name
 
-
-
 would have been *Donakadhâtu*, or simply *Donaka,*which with *koṭ*a added would make *Donaka-koṭṭa*, corresponding with the Chinese syllables To.*na-kie-kia-tse,* as well as with the *Dhanakakata* of the inscriptions. Now I have already shown from the datedinscription of *Kânhari* that the name of *Dhanakukata*is as old as A.D. 108, but as it is spelt in all the inscriptions with dh and not with *d*, I infer that thelegend about the *Drona* of relics is later than thatdate. We know that it was a common practiceamongst the Buddhists to alter the spelling of thelocal names so as to obtain meanings which might beadapted to legends of their Teacher. Thus *Takshasila*, the "hewn stone," became *Taksha-sira*, or the"cut-off head," and *Adi-chhatra*, or "King Adi'scanopy," became *Ahi-chhatra*, or the "serpent canopy,"over the head of Buddha. With reference, therefore,to the Nâga guardianship of the *Drona* of relics atRâmagrâma, I think it highly probable that the oldname of *Dhanaka* was changed to *Donaka* by theBuddhists, for the special purpose of adapting it totheir legend regarding the disposal of the Râmagrâma*Drona* of relics.
 
  The present name of the place is *Dhârani-koṭṭa*,which I take to be derived from the later legend regarding *Bhâvaviveka,* which is preserved by HwenThsang. This holy priest, wishing to behold thefuture Buddha, Maitreya, fasted for three years, whilehe continually repeated the mystical verses called*dhâranis*. At the end of that time *Avalokiteswara*appeared to him and instructed him to return to hisnative country of *Dhanakakaṭa*, and in front of acavern to the south of the town to recite with perfect
-
-
 
 faith the dhâranis, or mystical verses, addressed to*Vajra-pâṇi*, when his wish would be accomplished.At the end of three years more *Vajra-pâṇi* appearedto him, and taught him a secret formula which hadpower to open the cavern in the palace of the *Asuras*,where the future Buddha was dwelling. After threeyears spent in the recitation of these secret *dhâraṇis*,the rock opened, and *Bhâvaviveka* bidding farewell tothe multitude, who were afraid to follow him, enteredthe cavern, which immediately closed upon him andhe was no more seen. As this miraculous legend ofthe *dhâraṇis* was the popular belief of *Dhanakakaṭa*in the seventh century, the place would naturally havebeen known amongst the people as *Dhârani-koṭṭa*, orthe "Cavern of the *Dharaṇi* Miracle."
 
  From the mention of *Dhanakakaṭa* in the cave inscriptions of the first and second centuries of theChristian era, we might expect to find some trace ofthe name in the Geography of Ptolemy. But insteadof this we find a people named *Aruarni*, or *Avarni*,occupying the country below the *Maisôlus*, or Godâvari river, with a capital called *Malanya*, the residence of King *Bassaronaga*. As *Malanga* is placedbetween the two rivers *Maisôlus* and *Tyna*, its position corresponds with that of *Ellûr*, close to which arethe remains of the old capital named *Vengi*, which arestill known as *Pedda* and *Chinna Vegi*, or Great andLittle *Vegi*[^558].That *Malanga* was in this neighbourhood is proved by the existence of the name at thepresent day in *Bandar-malanga*, or the "port of *Malanga*," a small town on the coast 54 miles to the east-north-east of Masulipatam. I conclude, therefore,
 
 [^558]: "See Map No. XIII."
-
-
 
 that *Dhanakakaṭa* was only the seat of a great religious establishment, while *Vengi* was the politicalcapital of the country.
 
@@ -5532,15 +4212,11 @@ that *Dhanakakaṭa* was only the seat of a great religious establishment, while
 
 [^561]: "Hamilton's 'Gazetteer of India,' in voce “ Amravatty.”"
 
-
-
  The age of the stupa can only be determined approximately, as the twenty inscriptions on the sculptures in London give no dates, and make no certainmention of any kings or persons whose age is known.But from the style of the alphabetical characters, Iam satisfied that the inscriptions belong to the sameperiod as those of the famous caves of Kânhari, Nâsik,and Kârle, which record the gifts of Gotamiputra-Sâtakarni, Pudumâyi, and Yâdyna Sri, of the Andhradynasty. They agree also with those of the Sâtakarniinscription on the gateway of the Bhilsa tope[^562],aswell as with those of Rudra Dama's inscription on therock of Girnar. I have already noted that one of theKânhari inscriptions is dated in the year 30 of theSakâditya Kâl, or era of Sake, equivalent to A.D. 108;and I may now add that Rudra Dama's inscription isdated in the year 72, which, if referred to the Vikramâditya era, will be A.D. 15, or if to the Sake era,A.D. 150, both dates being within the period of thefirst two centuries of the Christian era, to which Irefer the Amaravati inscriptions. Colonel Mackenziealso obtained some leaden coins of Gotamiputra[^563] andof other princes of the Sâtakarni dynasty of Andhras,when excavating the ruins at Dharanikotta-a discovery which alone is sufficient to establish the exist-
 
 [^562]: "Bhilsa Topes,' p. 264. Mr. Fergusson refers to this inscriptionas being in the same characters as the Lât inscriptions of Asoka; buthe is undoubtedly mistaken, as the gateway inscriptions of the Bhilsatope are in a very different character, as may be seen by a referenceto my work."
 
 [^563]: "Sir Walter Elliot, in Madras Literary Journal,' 1858, vol. iii.new series: "
-
-
 
 ence of some important buildings at this very spotduring their reigns.I have already suggested that*Gotamiputra Sâtakarni* was probably the same personas the great *Sâlivâhan*, or *Sâdavâhan*, who establishedthe Sake era; and I am inclined to assign the foundation of the Amaravati stupa to him, in about A.D. 90,and its completion to *Yâdrya* Sri *Sâtakarni*, one of hissuccessors, who ascended the throne in A.D. 142. Thisdate corresponds very well with the only facts thatwe possess regarding the age of the stupa, namely,that it cannot be earlier than the Christian era orlater than A.D. 313, when its relics were carried awayto Ceylon.
 
@@ -5552,8 +4228,6 @@ ence of some important buildings at this very spotduring their reigns.I have alr
 
 [^566]: "Ibid., i. 25."
 
-
-
 Masulipatam and to the north of Maabar, as famousfor diamonds and for the thinnest and most delicatecotton cloths resembling spiders' webs. Mutafili hasgenerally been identified with Masulipatam itself; buta considerable town named Mutapili still exists nearthe seacoast at 65 miles to the south of *Dhâranikoṭṭa*,and 70 miles to the south-west of Masulipatam. Ineither case, however, Marco's notice determines thefact that the country about the mouths of the Godâvariwas famous for diamonds and for delicately fine muslins.It must, therefore, have included the diamond districtof *Partyâl*, immediately to the north of *Dhâran ko* *ta*,as well as the muslin district of Masulipatam; and,accordingly, it may be identified with the *Rahmi* or*Dumi* of the Arab geographers. By a very slight change in the characters Rahmi might becomeرهمی, *Dhanak*, which would agree with the *Danaka*of Abu Rihân.
 
  According to the chronicles of Orissa[^567],the presenttown of Amaravati was founded, or established asa subordinate seat of government, by Surya Deva,Raja of Orissa in the twelfth century.The name isconnected with the worship of Siva as *Amaranâtha*, or*Amareswara*; and one of the twelve great *Lingas* ofthis god, which is assigned to Ujain, almost certainly,belonged to the holy city on the Kistna, as we knowthat Ujain possessed its own famous temple of Mahâkâla, and that all the other ten shrines of Siva belongto different places.
@@ -5561,8 +4235,6 @@ Masulipatam and to the north of Maabar, as famousfor diamonds and for the thinne
 [^567]: "Stirling in Journ. Asiat. Soc. Bengal, 1837, p. 760."
 
  I cannot close this account without noting that M.Vivien de Saint-Martin has stated his suspicion that
-
-
 
 the name of Dandaka is connected with *Dhanakakaṭa*[^568].The *Dandakâranya*, or forest of Dandaka, is celebratedin Indian story. *Varâha Mihira[^569]*,the great astronomer, mentions *Dandaka* along with other places inthe South of India as follows: *Kerala*, *Karnâta,* *Kânchipura, Konkana, Chinna-pattana (or Madras),* etc. Inthis list Dandaka is distinct from Konkana, or theUpper Kistna; and may, therefore, perhaps be identified with the lower valley of the Kistna of which*Dhanakakaṭa* was the capital. But as the latter nameis found in the early inscriptions of the western caves,it is probable that the mere verbal resemblance of*Dandaka* may be quite accidental.
 
@@ -5574,8 +4246,6 @@ the name of Dandaka is connected with *Dhanakakaṭa*[^568].The *Dandakâranya*,
 
 [^570]: "M. Julien's 'Hiouen Thsang,' iii. 110, note 2."
 
-
-
 country thus described is the famous Dhanakakaṭaof Hwen Thsang.
 
 **5. CHOLIYA, OR JORIYA.**
@@ -5586,8 +4256,6 @@ country thus described is the famous Dhanakakaṭaof Hwen Thsang.
 
  Professor Lassen has suggested that the names of*Choliya* and *Drâviḍa* may have been transposed by theChinese editor of the pilgrim's travels. The same suggestion occurred to me when I first examined thetravels some years ago; and if it was quite certainthat the Chinese syllables C*hu-li-ye* represented *Chola*,
 
-
-
 there would be a very strong temptation to adopt thesuggestion. But I agree with M. Vivien de SaintMartin[^572]that it is difficult to admit the possibility ofsuch a transposition, although an adherence to thetext of Hwen Thsang involves the total omission ofany mention of the famous kingdom of *Chola*. M. deSaint-Martin points to the present use of the name ofCoromandel, which is applied to the whole of theMadras coast, as far north as the mouths of the Godâvari, as a possible explanation of the extension of thename of *Chola* to the country immediately to the southof the Kistna. But I believe that this extension ofthe name is solely due to European sailors, whoadopted it for the sake of convenience. This name besides applies only to the sea-coast, whereas *Chuliya* is described by Hwen Thsang as a small district lying tothe south-west of *Dharanikoṭṭa*, so that if we acceptthe pilgrim's account as it stands, it is scarcely possible that Choliya could have extended so far to theeast as the sea-coast.
 
 [^572]: "M. Julien's 'Hiouen Thsang,' iii. 398."
@@ -5596,8 +4264,6 @@ there would be a very strong temptation to adopt thesuggestion. But I agree with
 
  In the Chino-Japanese map of India, constructed toillustrate the pilgrim's travels, the district of *Choliya*is named *Chu-ey-no*, and is placed to the north ofDrâviḍa, and to the south-west of Dhanaka, as in the
 
-
-
 text of Hwen Thsang. These Chinese syllables mayperhaps represent *Kandanûr*, which, according to Buchanan, is the correct form of the name of Karnûl.
 
  Immediately under the walls of Karnûl, lies the oldtown of *Zora*, or *Jora*, the *Jorampur* of the maps, whichanswers exactly to the *Choliya* or *Joriya* of the pilgrim.The initial Chinese syllable seems to be very rarelyused, but a similar letter is found in *Kajugira*, *Jutinga*,and *Jyotishka*, and I am satisfied that M. Julien'sreading of the character as *ju,* or *jo*, is correct. I amalso inclined to identify *Jora* with Ptolemy's *Soraregia Arcati*. In some editions the words are transposed, as *Arcati regia Sora*. But though the cart maybe put before the horse, it is still the cart, and therefore, I take *Sora* to be the capital of King *Arkatos*,whether it be placed before or after his name. *Arkatou*has been usually identified with *Arcot*, near Madras;but the name of this city is believed to be quitemodern, and the position of *Sora* must be far to thenorth of Arcot. The *Sora* *Nomades* of Ptolemy maytherefore be a branch of the *Sauras*, who are stilllocated on the banks of the Kistna river. One hundredmiles to the west-north-west of Karnûl, there is alsoa large town, named *Sorapur*, the Raja of which "stillholds his patrimonial appanage, surrounded by hisfaithful tribe (*Bêdars*), claiming a descent of morethan thirty centuries[^573]."
@@ -5605,8 +4271,6 @@ text of Hwen Thsang. These Chinese syllables mayperhaps represent *Kandanûr*, w
 [^573]: "General Briggs in Journ. Royal Asiat. Soc., xiii. 294."
 
  As *Chuliya* is described as being only 2400 *li*, or400 miles, in circuit, its small size offers no helptowards its identification. If it is placed in the Karnûldistrict, it will cut off the north-western corner of theprovince of *Dhanakakaṭa*, but will not lessen its circuit,
-
-
 
 although it will diminish its area. If, however, *Chuliya*is to be identified with *Chola*, I would assign to itthe modern district of *Tanjor*, extending from *SankeriDrûg*, near Salem on the north-west, to the mouth ofthe *Kâveri* or *Kolrûn* river, on the north-east, andfrom Dindigal, on the south-west, to Point Calimereon the south-east. This tract is about 120 miles inlength, by 80 miles, or just 400 miles, in circuit.
 
@@ -5618,8 +4282,6 @@ although it will diminish its area. If, however, *Chuliya*is to be identified wi
 
  During the pilgrim's stay at Kânchipura, about 300Buddhist monks arrived from Ceylon, which they hadquitted on account of political disturbances, consequenton the death of the king. By my reckoning, HwenThsang must have arrived in Kânchipura, about the
 
-
-
 30th of July, A.D. 639, and, according to Turnour's listof the kings of Ceylon, Raja Buna Mugalân was put todeath in A.D. 639. From the information furnishedby these monks, the pilgrim drew up his account of*Seng.kia.lo*, or Ceylon, which he was prevented fromvisiting by the disturbed state of the country.
 
 **7. MALAKUTA, OR MADURA.**
@@ -5630,8 +4292,6 @@ although it will diminish its area. If, however, *Chuliya*is to be identified wi
 
  The position of the capital is difficult to fix, as adistance of 500 miles, to the south of Conjeveram,would take us out to sea beyond Cape *Kumâri*,(Comorin). If we might read 1300 *li*, or 217 miles,instead of 3000 *li*, both bearing and distance wouldagree exactly with the position of the ancient city of
 
-
-
 Madura, which was the capital of the southern end ofthe peninsula in the time of Ptolemy. It is possiblethat *Kaulam* (Quilon) may have been the capital atthe time of Hwen Thsang's visit; but neither thedistance nor the bearing agrees with the pilgrim'sstatement, as the place is not more than 400 miles tothe south-west of Conjeveram. To the north-east ofthe capital there was a town named *Charitra-pura*, or"Departure-town," which was the port of embarkation for Ceylon. If *Madura* was the capital, the "portcity" was probably Negapatam; but, if *Kaulam* wasthe capital, the "port-city" must have been Râmnâd(*Râmanâthapura*). From this port, Ceylon was distant3000 *li*, or 500 miles, to the south-east.
 
  According to the writer of the Life of HwenThsang[^576], Malayakuta was not visited by the pilgrim,but described by hearsay, and the distance of 3000 *li*is said to be from the frontiers of Drâviḍa. But thiswould only increase the difficulty by placing the capital of Malayakuṭa still further to the south. In anote to this passage[^577],M. Julien quotes the *Si-yu-ki*as fixing the distance at 300 *li*, instead of 3000 *li*, asgiven in his trauslation of the Memoirs of HwenThsang. If this number is not a misprint, these different readings may show that there is some uncertainty as to the distance, as well as to the point ofdeparture. I am inclined, therefore, to think that theoriginal distances given in the memoirs and life of thepilgrim may perhaps have been 300 li, or 50 miles,from the frontiers of Drâvida in the latter, and 1300 *li*,
@@ -5639,8 +4299,6 @@ Madura, which was the capital of the southern end ofthe peninsula in the time of
 [^576]: " Julien, i. 193: “Il cntendit dire qu'à trois mille li des frontiêresde ee pays [Drâviḍa] il y avait un royaume appelé Mo.lo.kiu.cha."
 
 [^577]: "'Hiouen Thsang,' i. 193; and iii. 121."
-
-
 
 or 217 miles, from the capital of Drâviḍa in the former.In either case, the capital of *Malayakuṭa* would befixed at *Madura*, which has always been one of theprincipal cities of Southern India.
 
@@ -5651,8 +4309,6 @@ or 217 miles, from the capital of Drâviḍa in the former.In either case, the c
  According to M. Julien[^578]*Malyakuṭa* was also called*Chi-mo-lo*, which I read as *Jhi-mu-ra*, because theinitial syllable is the same as the second syllable of*Chi-chi-to*, or *Jajhoti. Jhimura* is perhaps only a variantform of the Limurike of Strabo, Ptolemy, and Arrian,and of the *Damirice* of the Peutingerian Tables. Itwould also appear to be the same name as Pliny's
 
 [^578]: "'Hiouen Thsang,' iii. 121."
-
-
 
 *Charmae*, a people who occupied the western coast immediately above the Pandæ.
 
@@ -5668,8 +4324,6 @@ or 217 miles, from the capital of Drâviḍa in the former.In either case, the c
 
  According to Hamilton, the name of *Konkana*amongst the natives includes "much country lying tothe cast of the western ghâts." This extension agreeswith Abu Rihân's description of *Danaka* as the"plains of the *Konkan*," which can only apply to thetable-land above the ghâts. Such also may havebeen its application in the time of Hwen Thsang, ashe describes the kingdom as being 5000 *li*, or 833
 
-
-
 miles, in circuit, which, if limited to the narrow stripof land between the ghâts and the sea, would include the whole line of coast from Bombay to Mangalûr. But in the seventh century the northern halfof this tract belonged to the powerful *Châlukya* kingdom of Mahârâshtra; and consequently, if the pilgrim's estimate of its size is correct, the kingdom of*Konkana* must have extended inland far beyond the line of the western ghâts. Its actual limits are notmentioned, but as it was bounded by Drâviḍa on thesouth, by Dhanakakata on the east, by Mahârâshtraon the north, and by the sea on the west, it may bedescribed as extending along the coast from Vingorlato Kundapûr, near Bednûr, and inland from the neighbourhood of Kulbarga to the ancient fortress of *Madgiri*, which would give a circuit of about 800 miles.This was the ancient kingdom of the *Kâdambas*, whichfor a time rivalled that of the *Châlukyas* of Mahârâshtra. Hamilton states that the name of the country ispronounced *Kokan* by the natives, which suggests itsidentification with the people called *Coconda* by Pliny,who occupied a middle position in the route from thesouth of India towards the mouth of the Indus.
 
 **9. MAHÂRÂSHTRA.**
@@ -5677,8 +4331,6 @@ miles, in circuit, which, if limited to the narrow stripof land between the ghâ
  From Konkana the pilgrim proceeded to the northwest for 2400 to 2500 *li*, or upwards of 400 miles, to*Mo-ho-la-cha*, or *Mahârâshtra*. The capital was 30 *li*,or 5 miles, in circuit, and on the west side touched alarge river[^581].From this description alone I should beinclined to adopt *Paithan*, or *Pratishthâna*, on the Godâvari as the capital of Mahârâshtra in the seventh
 
 [^581]: "Julien's 'Hiouen Thsang,' iii. 149. See Map No. I."
-
-
 
 century. It is mentioned by Ptolemy as *Baithana*,and by the author of the 'Periplus' as *Plithâna*, whichshould no doubt be corrected to *Paithana*. But thesubsequent distance of 1000 *li*, or 167 miles, westwardor north-westward[^582]to Bhâroch is much too small, asthe actual distance between *Paithan* and *Bhâroch* isnot less than 250 miles. M. Vivien de Saint-Martinthinks that Devagiri accords better with the positionindicated; but Devagiri is not situated on any river,and its distance from Bhâroch is about 200 miles. Ithink it more probable that Kalyâni is the place intended, as we know that it was the ancient capital ofthe *Châlukya* dynasty. Its position also agrees betterwith both of Hwen Thsang's distances, as it is about400 miles to the north-west of Annagundi, and 180or 190 miles to the south of Bhâroch. To the west ofthe city also flows the Kailâs river, which at this pointis a large stream. *Kalyân* or *Kalyâni* is mentioned byKosmas Indikopleustes in the sixth century as theseat of a Christian bishopric, under the name of*Kalliana*, and by the author of the 'Periplus' in thesecond century as *Kalliena*, which had been a famousemporium in the time of *Saraganos* the elder[^583]. Thename of Kaliyana also occurs several times in theKânhari cave inscriptions, which date from the firstand second centuries of the Christian era. 
 
@@ -5688,19 +4340,11 @@ century. It is mentioned by Ptolemy as *Baithana*,and by the author of the 'Peri
 
  The circuit of the province is said to be 6000 *li*, or1000 miles, which agrees with the dimensions of the
 
-
-
-
-
 tract remaining unassigned between Malwa on thenorth, Kosala and Andhra on the east, Konkana onthe south, and the sea on the west. The limitingpoints of this tract are Dâmân and Vingorla on thesea-coast, and Idalâbâd and Haidarâbâd inland, whichgive a circuit of rather more than 1000 miles.
 
  On the eastern frontier of the kingdom there wasa great mountain with ridges rising one over another,and scarped crests. In former days the Arhat Achârahad built a monastery, with rooms excavated in therock, and a front of two storeys in height facing a"sombre" valley. The *Vihâr* attached to it was 100feet in height; and in the midst of the monasterythere was a stone statue of Buddha about 70 feethigh, which was surmounted by seven stone caps suspended in the air without any apparent support. Thewalls of the *Vihâr* were divided all round into panelsin which were sculptured with minute detail all thegreat events of Buddha's life. Outside the north andsouth gates of the monastery there were stone elephants, both on the right-hand and on the left, whichaccording to the belief of the people occasionallyroared so loudly as to make the earth quake. Thedescription of the hill is too vague to be of much usein identifying its position; but if the easterly bearingis correct, the hill of *Ajayanti* is most probably theplace intended, as its bluff ridges appear to answerbetter to the pilgrim's account than the smootherslopes of Elura. But with the exception of the stoneelephants, the account is too vague to enable us toidentify the place with any certainty. There are twostone elephants outside the Kailâs excavation at Elura,but that is a Brahmanical temple, and not a Buddhist
 
-
-
 *vihâr*. There is also an elephant close to the *Indrasabha* at Elura, but the animal is inside the courtyard,instead of outside the gate as described by the pilgrim.Scenes from Buddha's life formed the common subjectsof Buddhist sculpture, and would therefore offer nospecial assistance towards the identification of themonastery. But though the pilgrim's account is vague,it is so minute as to the positions of the elephants andthe arrangement of the sculptures that I am inclined tothink he must have seen the place himself. In thiscase I would read "western" frontier of the kingdom,and identify his cave monastery with the well-knownexcavations of Kânhari in the island of Salsette. Indeed, if I am correct in the identification of Kalyânias the capital of Mahârâshtra in the seventh century,it is almost certain that the pilgrim must have visitedthe Buddhist establishments at Kûnhari, which are notmore than 25 miles distant from Kalyâni. Thenumerous inscriptions at Kânhari show that some ofits excavations must date as early as the first century before Christ, and the bulk of them during thefirst and second centuries after Christ. One of theinscriptions is dated in the year 30 of the *Sakâdityakâl*,or A.D. 108. No remains of stone elephants have yetbeen found at *Kânhari,* but as the structural *façades*in front of the excavated *vihârs* have all fallen down,some elephaut torsos may yet be discovered amongstthe ruins along the foot of the scarped rock. Mr.E. West has already disinterred the remains of astone stupa with all its sculptured friezes from amongstthese ruins, and further research will no doubt bringto light many other interesting remains.
-
-
 
 **CEYLON.** 
 
@@ -5709,8 +4353,6 @@ tract remaining unassigned between Malwa on thenorth, Kosala and Andhra on the e
  In the seventh century of our era Ceylon was knownby the name of *Seng-kia-lo*, or *Sinhala*, which was saidto be derived from the lion-descended *Sinhala*, whose son Vijaya is fabled to have conquered the island onthe very day of Buddha's death, in в.c. 543. Itsoriginal name was *Pao-chu*, or "Isle of Gems," inSanskrit *Ratna-dwípa*. Its existence was first madeknown to the European world by the expedition ofAlexander, under the name of *Taprobane*. The popular Pâli form is *Tâmba-paṇṇi*, or "red-handed," inallusion to the "red palms" of the hands of Vijaya'ssick companions, who, on landing from their vessel,touched the red ground with their hands. The trueform, however, would appear to be *Tâmba-panni*[^584],or"red-leaved," from the Sanskrit *Tâmra-parni.* Lassenalso gives *Tambra-pani*, or the "great pond," or "pondcovered with the red lotus," as a probable derivation.In later times it was known to the western world as*Simundu*, or *Palai-Simundu*, which Lassen thinks mayhave been derived from *Pali-Simanta*, or "head ofthe holy law." As Pliny applies the latter nameto the city containing the royal palace, it has been
 
 [^584]: "Turnour's 'Mahawanso,' p. 50."
-
-
 
 supposed to be only another appellation for the capital*Anarajapura*, or *Anuragrammon,* of Ptolemy. No explanation is offered of *Andrasimundu*, which Ptolemygives as the name of a promontory on the westerncoast of Ceylon, opposite Anarajapura. From itsposition it may be only another name for *Palaisimundu.*
 
@@ -5722,23 +4364,15 @@ supposed to be only another appellation for the capital*Anarajapura*, or *Anurag
 
 [^586]: "Julien's 'Hiouen Thsang,' iii. 125. See Map No. I."
 
-
-
 of a local measure, named *gaou*[^587],which he estimatesat about 3 miles, thus making the island 900 mileslong, and as many broad. But the *gaudia* may justas likely be the well-known *gao-kos* of India. Thiswas the distance at which the lowing of a cow couldbe heard, that is 1000 *dhanus*, or bows, equal to 6000feet, or 1.136 of a mile. The 300 *gaudia* would thusbe equal to 340 miles, which is only 70 miles in excessof the real length of the island. Pliny makes thelength 10,000 stadia, or 1149 English miles. Ptolemyassigns nearly 15 degrees of latitude, or about 1000miles, which is slightly reduced by Marcianus to9500 stadia, or 1091½ English miles. Now the earlierChinese pilgrim, Fa-Hian, who visited Ceylon in A.D. 412, or about one century before Sopater, states thesize of the island at 50 *yojanas* in length by 30 inbreadth[^588], or about 350 miles by 210 miles. If, aswe may fairly suppose, both travellers derived theirdimensions from the statements of the people of thecountry, the 300 *gaudia* of Sopater may be taken asthe equivalent of 50 *yojanas*, which gives 6 *gaudra* tothe *yojana*, and makes the native measure rather morethan one English mile, or exactly equal to the *gao-kos*of India.
 
 [^587]: "'Ceylon,' i. 567. He identifies the yavdia with the gaou now in use, which is "
 
 [^588]: "Beal's Fah-Hian,' c. xxxvii. p. 148. But he makes the lengthfrom east to west, instead of from north to south."
 
-
-
-
-
  In his interesting and valuable work on Ceylon,Sir Emerson Tennent has suggested that the port ofGalle may be the Tarshish[^589]of the Bible, "which layin the track between the Arabian Gulf and *Ophir*,"and that *Ophir* itself is Malacca, or the Aurea Chersonesus, because "*Ophir*, in the language of the Malays, is the generic name for any gold mine." Butthis view seems to me to be quite untenable, as the names of all the articles brought back by Solomon'sfleet are pure Sanskrit. Sir Emerson states that theyare "identical with the Tâmil names by which *some*of them are called in Ceylon to the present day."These names are *sen-habim*, or "teeth of elephants,"*kophim,* or "apes," and *tuküm*, or "parrots." Butthese are the pure Sanskrit words *ibha, kapi,* and*ṣuka*, with the mere addition of the Hebrew pluraltermination. It is true that these Sanskrit nameshave been naturalized in the south of India, but theyhave not displaced the original Tâmil appellations,which still remain the terms in common use, namely,*yânê*for elephant, *kuranga* for monkey, and *mayil* forpeacock, or *kilip-pillai* for parrot. Now, if the fleetof Solomon obtained these Sanskrit names in Ceylon,then we must admit that the Aryan race had pushedtheir conquests to the extreme south of India somecenturies before the time of Solomon, that is about1200 or 1500 B.C. But at this very time, as we learnfrom their own records, the Aryas had not yet crossedthe Narbada, nor even penetrated to the mouth of theGanges. It does not therefore seem possible that anyof their names could have been obtained either inCeylon or in the south of India so early as the time
 
 [^589]: "‘Ceylon,' ii. 101."
-
-
 
 of Solomon. Even according to their own annals[^590],the Ceylonese were barbarians until the landing ofVijaya, in в.c. 543; and there is no satisfactory evidence of any Aryan connection or intercourse beforethe time of Mahendra, the son of Asoka, in B.C. 242.
 
@@ -5750,38 +4384,22 @@ of Solomon. Even according to their own annals[^590],the Ceylonese were barbaria
 
 [^591]: "Josephus, Antiq., i. 6, 4.1 Kings x. 11; and 2 Chron. viii. 18. Sofiris the Coptic name of India."
 
-
-
 Aravali mountains may be seen in the India Museum,and the same range is the only part of India in whichsilver is found in any quantity. Western India alsowas colonized by the Aryan race at least two thousandyears before Christ, and the Aryan language had become the common speech of the country long beforethe time of Solomon. I would therefore identify the*Ophir* or *Sophir* of Scripture with the Indian *Sauvîra*of the Hindus, where the captains of Solomon's fleetcould have obtained the fine pure gold for which Ophirwas famed, and where they would have obtained ivory,apes, and peacocks (or parrots) called by the verynames which they have preserved to us in the Bible.
 
-
-
 ***APPENDIX A.***
-
-
 
 **APPROXIMATE CHRONOLOGY OF HWEN THSANG'S  
 TRAVELS.**
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 |      |         |                                                                                                              |                       |
 |------|---------|--------------------------------------------------------------------------------------------------------------|-----------------------|
@@ -5809,8 +4427,6 @@ TRAVELS.**
 | AtMadâmar, half spring and whole summer | 0      | 4       |
 | Years                                    | 4      | 7       |
 
-
-
 Adding to these recorded halts the three years said to havebeen spent in travelling, the whole period elapsed, betweenthe pilgrim's departure from Liang-cheu in August, 629, andthe date of his conversation with the Great Abbot, is sevenyears and seven months, which fixes his arrival at Nâlandain February, 637 A.D., the date according to my estimatebeing 1st March, 637.
 
  The chronology here detailed follows the route indicatedin the Life of Hwen Thsang, which differs from that givenin the *Memoirs* after the departure of the pilgrim from*Maheswarapura* in April, A.D. 641. According to theMemoirs, the route was as follows:—
@@ -5833,8 +4449,6 @@ Mar. 1, *Tsaokiuto*, or *Ghazni.*
 
 [^593]: "Julien's 'Hiouen Thsang,' i. 215."
 
-
-
 the period *Yong-hoei*, or in A.D. 650. According to thisdate, the pilgrim's two years' residence in Magadha musthave been from A.D. 638 to 640. But I find it quite impossible to reconcile this date with the detailed statements ofhis travels. If, however, we might refer the dream to theend of his *first* visit to Magadha, in November A.D. 638,which would seem to have also extended to about two years,then the date of Silâditya's death would be fixed to A.D. 648,which is the very year assigned for it in the Chinese accountof India by *Mu-twan-lin[^594]*.In the 22nd of the yearsChing-kwan (A.D. 648), the Emperor of China sent anambassador to Magadha, but before his arrival Silâditya.was dead. The information obtained by this ambassador is,I think, more trustworthy than the account of Hoeï-li, thebiographer of Hwen Thsang, as the former had no object toserve in making an erroneous statement, while the latter wasobliged to support the prophetic announcement of HwenThsang's dream. I am, therefore, inclined to adopt A.D.648 as the true date of Silâditya's death, and to refer theperiod of the pilgrim's dream to the close of his first visitto Magadha in a.d. 638.
 
 [^594]: " Journ. Asiat. Soc. Bengal, 1837, p. 69; anonymous English translation. See also Journ. Asiatique, 1839, 398; French translation byM. Pauthier."
@@ -5844,8 +4458,6 @@ the period *Yong-hoei*, or in A.D. 650. According to thisdate, the pilgrim's two
 [^595]: "Julien's Hionen Thsang,' i. 211."
 
 [^596]: "Ibid. i. 171."
-
-
 
 ***APPENDIX B.***
 
@@ -5869,11 +4481,8 @@ IV. Vaisâli to the Ganges.               4  ...
 
                                  Total 30 yojanas=1178 *li.*
 
-                                   
   Or 1  ..  = 39¼ ,,  
  Hwen Thsang describes the *yojana* as equal to 8 *kroṣas*,or kos, of 500 *dhanus*, or “bow lengths" of 4 cubits each.The *yojana* would therefore be only 24,000 feet, or a littlemore than 4½ miles. But in all the Hindu books the *yojana*is reckoned at 4 kroṣas, either of 1000 or of 2000 *dhanus* orbow lengths. The former value agrees with the length ofthe *yojana* as stated by Hwen Thsang, and the latter is thedouble measure of about 9 miles, which gives the common
-
-
 
 kos of 2¼miles that is in use in many parts of India at thepresent day.
 
@@ -5883,7 +4492,6 @@ kos of 2¼miles that is in use in many parts of India at thepresent day.
 
  The following distances recorded by Fa-Hian show thatthe value of the *yojana* in British road distance was about6¾ miles, but as the old native cart-tracks generally followeda zigzag route from village to village, the actual length ofthe *yojana* may be taken at 7/½ or 8 miles.
 
-                                   
           Fa-Hian         British roads
 
 I. Bheda to Mathura ..                    80 yojanas, or     536 miles.  
@@ -5901,11 +4509,8 @@ VII. Nâlauda to Giryek                      1
 
  These distanees make the yojana of Fa-Hian equal to6.71 miles of British road measurement.
 
-
-
  A similar comparison of Hwen Thsang's measurementsestablishes the value of his li at one-sixth of a mile in roaddistance; but it is probable that it was not less than onefifth of a mile in actual length, as the old zigzag cart-trackswere considerably longer than the straight British roads.
 
-                                   
     Hw. Thsang British roads  
 I. Madâwar to Govisana                     400 *li*, or    66 miles.  
 II. Kosâmbi to Kusapura                     700 ...      114 ...  
@@ -5916,7 +4521,6 @@ V. Banâras to Ghazipur                       300 ...      48 ....
 VI. Ghazipur to Vaisâli                       
 580 ...       103 ...
 
-                                   
  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
                                    
     3360 *li,* or 567 miles.
@@ -5928,8 +4532,6 @@ VI. Ghazipur to Vaisâli
  M. Vivien de Saint-Martin, quoting Le Père Gaubil[^599],shows that the Chinese *li*, shortly after the time of HwenThsang, was equal to 329 mètres, or 1079.12 English feet.As this agrees very nearly with the value of one-fifth of anEnglish mile, or 1056 feet, which I have deduced for the *li*from the recorded distances of Hwen Thsang, I think thatit must have been the actual *li* which the pilgrim used in
 
 [^599]: " 'Histoire de l'Astronomie Chinoise,' i. 77, quoted in Julien's 'HiouenThsang,' iii. 258. The value of the li is determined from the meanmeasurement of three different degrees by the Chinese astronomerY-hang, between 713 and 756 A.D., or just one century after the dateof Hwen Thsang's travels."
-
-
 
 estimating the length of his marches in India. Accepting itas the true value of the Chinese *li* of the seventh century,the length of the *yojana* would have been 43,164.8 feet, ornearly 8 miles, which agrees very closely with the popularvaluation at from 8 to 9 miles.
 
@@ -5947,8 +4549,6 @@ estimating the length of his marches in India. Accepting itas the true value of 
 
 [^600]: "Strabo, Geogr., xv. 1. 50."
 
-
-
 10 stadia are equal to 6066-72 feet, or just 4000 *hastas*, orcubits, which, according to the 'Lalita Vistara,' was the actual value of the *kroṣa* of Magadha. The longer measure of8000 *hastus*, or cubits, is given by Bhâskara in the 'Lilâvati,'and by other native authorities.
 
  To determine the exact value of these measures we musthave recourse to the unit from which they were raised. Thisis the *angulu*, or 'finger,' which in India is somewhat underthree-quarters of an inch. By my measurement of 42 coppercoins of Sikandar Ludi, which we know to have been adjusted to fingers' breadths, the *angula* is 72976 of an inch.Mr. Thomas makes it slightly less, or 72289. The meanof our measurements is 72632 of an inch, which maybe adopted as the real value of the Indian finger, or *angula*,as I found the actual measure of many native fingers to beinvariably under three-quarters of an inch. According tothis value the *hasta*, or cubit, of 24 *angulas* would be equalto 17-43168 inches, and the *dhanu*, or "bow," of 96 *angulas*would be 5.81 feet. But as 100 *dhanus* make one *nalwa*,and 100 *nalwas* make one *kroṣa* or kos, it seems probablethat the *dhanu* must have contained 100 *angulas* to preservethe centenary scale[^601].According to this view the *hasta*, orcubit, would have contained 25 fingers instead of 24, andits value would have been 18.158 inches, which is still belowthe value of many of the existing *hastas*, or cubits of theIndian Bâzârs. Adopting this value of the hasta, the highermeasures would be :—
@@ -5963,8 +4563,6 @@ Feet.
 
  As this value of the *kroṣa* or kos is within 15 feet of thatderived from thestatement of Megasthenes, I think that it
 
-
-
 may be accepted as a very near approximation to the actualvalue of the ancient *kroṣa*of Magadha.
 
  The larger kos of the Gangetic provinces, which measured8000 *hastas,* would be just double the above, or 12104 feet,or rather more than 2¼miles.
@@ -5974,8 +4572,6 @@ may be accepted as a very near approximation to the actualvalue of the ancient *
 [^602]: "Ayin Akbari,' i. 171."
 
 [^603]: "Memoirs of Jahângir, p. 90. The distances between the Saraisvary from 9 to 13 miles."
-
-
 
 **APPENDIX C.**
 
@@ -5991,738 +4587,11 @@ may be accepted as a very near approximation to the actualvalue of the ancient *
 
  3rd. In converting the *schoeni* of the Itinerary intoOlympic stadia, he assumed their uniform identity with the
 
-
-
 Persian parasang of 3¾ Roman miles, whereas Sir Henrybelieves the *schenus* to have been the natural measure of onehour employed by all caravans, both in ancient and moderntimes, to regulate their daily march, and to have averagedas nearly as possible a distance of 3 British miles. 
 
  The different corrections to be applied to Ptolemy'seastern longitudes on account of these three errors havebeen calculated by Sir Henry Rawlinson to amount to *threetenths*, which is within one-seventieth part of the empiricalcorrection used by M. Gossellin.
 
  To show the accuracy of the correction here proposed, Ineed only refer to the difference of longitude between Taxilaand Palibothra, which has been given at p. 9 of this work.
 
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^543]: "Hist. Nat., vi. 22."
-
-
-[^519]: "See Map No. I."
-
-
-[^498]: "See Map No. I."
-
-
-[^487]: "See Map No. X."
-
-
-[^431]: "Arrian, Anab., vi. 21, 22; and 'Indica, 23; Curtius, ix. 10, 34."
-
-
-[^399]: "'New Account of the East Indies,' i. 123."
-
-
-[^392]: "See Map No. IX."
-
-
-[^351]: "Hist. Univers., xvii. 56."
-
-
-[^342]: "Geogr., xv. 1, 32."
-
-
-[^340]: "Vita Alex., ix. 8."
-
-
-[^338]: "Vita Alex., ix. 8."
-
-
-[^334]: "See Map No. IX."
-
-
-[^333]: "Vita Alex., ix. 8."
-
-
-[^326]: "'Anabasis,' vi. 15."
-
-
-[^318]: "'Anabasis,' vi. 15."
-
-
-[^317]: "See Map No. IX."
-
-
-[^285]: "Vita Alex., ix. 4, 10."
-
-
-[^282]: "'Travels,' i. 456."
-
-
-[^271]: " 'Indica,' iv."
-
-
-[^265]: "See Maps Nos. V. and VI."
-
-
-[^264]: "'Anabasis,' vi. 6."
-
-
-[^263]: "'Anabasis,' vi. 7."
-
-
-[^262]: "See Maps Nos. V. and VI."
-
-
-[^261]: "'Anabasis,' vi. 7."
-
-
-[^260]: "See Maps Nos. V. and VI."
-
-
-[^254]: "See Map No. VI."
-
-
-[^245]: "See Map No. VI."
-
-
-[^243]: "See Map No. VI."
-
-
-[^239]: "See Map No. VI."
-
-
-[^198]: "Geogr., xv. 1, 30."
-
-
-[^195]: "See Maps Nos. V. and VI."
-
-
-[^173]: "See Maps Nos. V. and VI."
-
-
-[^145]: "See Maps Nos. V. and VI."
-
-
-[^143]: "See Maps Nos. V. and VI."
-
-
-[^101]: "Reinaud, Fragments Arabes, etc.,' p. 116."
-
-
-[^59]: "Hist. Nat., vi. 23."

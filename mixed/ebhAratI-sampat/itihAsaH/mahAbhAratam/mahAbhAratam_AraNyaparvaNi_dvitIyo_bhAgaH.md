@@ -16,8 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3NTI5MzUxNzU
 
 \[
 
-
-
 ॥ श्रीरस्तु ॥
 
 ॥ श्रीमन्महाभारतम् ॥
@@ -26,11 +24,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3NTI5MzUxNzU
 
 आरण्यपर्वणि
 
-
-
 द्वितीयभागः
-
-
 
 **मद्रपुरराजकीयकलाशालासंस्कृताध्यापकैः**
 
@@ -48,15 +42,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3NTI5MzUxNzU
 अकार्यभावेन रमेन्मनस्सदानृणांवराख्यानवरंच शृण्वतां  
                               
 आरण्य-२६९-२७॥  
-                     
 
 चेन्नपुर्या  
 
 वाविल्लरामस्वामिशास्त्रुलु अण्ड् सन्स्  
 
 इत्येतैः सम्मुञ्चप्रकाशितम्
-
-
 
 ख—is used for additional readings,etc. The Manuscript belongs to Mr. Krishnaswami Sastrigal, Sub-Registrar, Tanjore District. Its description is as follows:—Substance— palm-leaf; Size—17 × 1¼ inches; Leaves— 400; Lines —7 to a page; Script—Telugu; Vana Parvan complete.
 
@@ -65,8 +56,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3NTI5MzUxNzU
 II
 
  We have restricted the number of Manuscripts utilised by us for the preparation of this volume for the Press, with a definite object in view. It is well-known that the larger the number of Manuscripts utilised, the more numerous are the variant readings that confront us, even with regard to ordinary works. This becomes really bewildering in the case of Mahābhārata Manuscripts which present numerous variations even in single stanzas, and
-
-
 
 hemistiches and feet, in direct ratio to the number of Manuscripts utilised. With the experience gained so far, we are able to assess the relative value of our Manuscripts from the point of view of textual accuracy based on freedom from contamination and corruption.
 
@@ -78,25 +67,17 @@ hemistiches and feet, in direct ratio to the number of Manuscripts utilised. Wit
 
  The Krishnaswami Sastri collection written in the Telugu script is the earliest of our dated Manus-
 
-
-
 cripts among those Manuscripts, written by single scribes from beginning to end. Here and there we detect contaminations with the Northern Recension, though, in the main, this collection also preserves the chief features of the Southern Recension very vividly indeed.
 
  In all the Parvans tobe issued in future, Manuscripts representative of all the above collections will be fully utilised.
 
-
-
 —————
-
-
 
 \।\।\।  
 CONCORDANCE.  
 VANA PARVAN.
 
 [TABLE]
-
-
 
 [TABLE]
 
@@ -105,70 +86,41 @@ VANA PARVAN.
 §क-घ– नात्राध्यायसमाप्तिः  
 \* क-ख-घ—कोशेषु अत्रैवाध्याययसमाप्तिः  
 
-
-
-
 [TABLE]
 
 \+ क-ख – कोशयोः अत्रैवाध्यायसमाप्तिः  
 \* अ-क–कोशेषु नात्राध्यायसमाप्तिः
 
-
-
-
-
 [TABLE]
 
 \+ ख कोशे अध्यायद्वयमिदम्
 
-
-
 [TABLE]
 
 \+ अयमध्यायः दाक्षिणात्यकोशेषु विराटपर्वणि प्रथमाध्यायेऽन्तर्गतः  
-
 
 The Presidency College,  
 Madras.                                
 P. P. S. SASTRI.  
 30-4-1934.  
 
-
-
-
-
-
     CONCORDANCE. ( SCHEME OF SUB- PARVA. )
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 Chapter 315 forms the first chapter in the Virata Parvan according to the other Editions.
-
-
 
  It will be seen from the foregoing concordance that the scheme of chapters followed in our printed Text of the Southern Recension follows closely that of the Grantha edition printed at Sarabhojirājapuram Tanjore District, in 1895. The Grantha Edition recognises clearly the additions in the Northern Recension and prints them also in the body of the Text as अधिकश्लोकाः(page 723) or अधिकाध्यायः (page 608). We have adopted the scheme of chapters found in the Grantha Edition, as this accords exactly with the enumeration of the number of chapters for the Vana Parvan in the Anukramaṇikādhyāya of both the Northern and the Southern Recensions.
 
  In regard to the scheme of Sub-Parvas in the Vana Parvan, we have divided the contents of the Vana Parvan into appropriate sub-parvas as narrated in detail in the Anukramaṇikādhyāya of the Southern Recension. The concordance (IV) shows distinctly the variations from the Southern Recen- sion. These variations are, however, common to the Grantha, Kumbakonam and Poona Editions and are in accordance with the scheme of sub-parvas narrated in the Anukramaṇikādhyaya belonging to the Northern Recension.
 
-
-
  The total number of stanzas printed in the Text of the Southern Recension comes to 11,136 which is short by 528; the number of stanzas according to the Anukramaṇikādhyāya of the Vana Parvan, according to both Recensions is 11664.
 
-
-
 ————
-
-
 
  With regard to the Vana Parvan also, it is possible to mark a Text clearly as Southern or Northern according as it has or omits particular chapters and incidents, characteristic of each Recension. A few of the more important distinctive features of the Southern Recension of the Vana Parvan are noticed below.
 
@@ -182,14 +134,10 @@ iv\. The Southern Recension omits chapter 232 of the Northern Recension wherein 
 
 v\. The Southern Recension omits the questions and answers between the Yakṣa and
 
-
-
 Yudhisthira contained in stanzas 87-118 of chapter 313 of the Northern Recension.  
 Some of these questions and answers are very popular and frequently quoted.
 
 vi\. The Northern Recension has, for its last chapter, chapter 315, which is the first chapter of the Virāta Parvan according to the Southern Recension.
-
-
 
 The Presidency College,                        
                  P. P. S. SASTRI,  
@@ -199,8 +147,6 @@ Editor.
     30-4-1984.
 
 Note — The standard Edition of the Northern Recension is the Poona Edition with Bhavadipa.
-
-
 
 **॥श्रीरस्तु॥  
 महाभारतस्य आरण्यपर्वणि द्वितीयभागः**
@@ -235,8 +181,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 |    युधिष्ठिरादिभिः भीमदर्शनाय पर्वताग्रारोहणम्                   |
 |    भीमदर्शनहृषितेन युधिष्ठिरेण साहसिकस्य कर्मणोऽकर्तव्यत्वोपदेशः |
 
-
-
 |                                                                          |
 |--------------------------------------------------------------------------|
 | अध्यायः                                                                  |
@@ -267,13 +211,9 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 |    अर्जुनेननानादेवताभ्योऽस्त्रग्रहणवर्णनम्                          |
 |   अर्जुनायेन्द्रेण पुनस्पतश्चरणाभ्यनुज्ञानकथनम्                     |
 
-
-
 [TABLE]
 
 [TABLE]
-
-
 
 |                                                                                                              |
 |--------------------------------------------------------------------------------------------------------------|
@@ -299,8 +239,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 |    युधिष्ठिरादिभिः द्वैतवनात् काम्यकवनप्रवेशः                                                            |
 | १५४ काम्यकवने युधिष्ठिरादिषु दिव्यकटाक्षप्रदानाय भगवताश्रीकृष्णेनागमनम्                                    |
 |    श्रीकृष्णपाण्डवादीनामाराध्याराधकभावप्रतिपादनम्                                                         |
-
-
 
 |                                                                                      |
 |--------------------------------------------------------------------------------------|
@@ -329,8 +267,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 |    प्रलये भगवता मार्कण्डेयं प्रति स्वशरीरानुप्रवेशानुमतिः                        |
 |    मार्कण्डेयेन भगवतो दिव्यमङ्गलविग्रहे नदीसमुद्रपर्वतादिदर्शनम्                  |
 
-
-
 |                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------|
 | **अध्यायः**                                                                                                       |
@@ -357,15 +293,9 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 |    अलाभेन मण्डूकवधाज्ञापनं च                                                                                   |
 |    मण्डूकराजेन स्वकीयवधानौचित्यकारणप्रदर्शनम्                                                                  |
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 |                                                                                                               |
 |---------------------------------------------------------------------------------------------------------------|
@@ -396,8 +326,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 |    गारुडरूपधारिण्या स्वाहया अग्नेः रेतसां श्वेतपर्वते काञ्चनकुण्डे प्रक्षेपः स्कन्दोत्पत्तिश्च             |
 |    कुमारपराक्रमवर्णनम्                                                                                     |
 
-
-
 |                                                                                                              |
 |--------------------------------------------------------------------------------------------------------------|
 | **अध्यायः**                                                                                                 |
@@ -427,8 +355,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 |    देवासुराणां महायुद्धम्                                                                               |
 |    स्कन्देन महिषासुरसंहारः                                                                               |
 
-
-
 द्रौपदीसत्यभामासंवादपर्व
 
 |                                                       |
@@ -439,8 +365,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | १९० द्रौपद्या पुनरपि पतिव्रताधर्मकथनम्                |
 | १९१ श्रीकृष्णेन सत्यभामया स्वपुरं प्रति प्रस्थानम्    |
 |    सत्यभामया द्रोपदीं प्रति सान्त्ववचनम्          |
-
-
 
 घोषयात्रापर्व
 
@@ -460,35 +384,21 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 |    दुर्योधनं प्रति तद्भः गन्धर्वपरुषोक्तिकथनम्                                         |
 | १९७ गन्धर्वैस्सह कौरवाणामायोधनम्                                                           |
 
-
-
 [TABLE]
 
 **प्रायोपवेशनपर्व**
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 |                                                                                              |
 |----------------------------------------------------------------------------------------------|
@@ -514,17 +424,11 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 |    सपरिवारेण द्युमत्सेनेन स्वपुरागमनम्                                                   |
 |    द्रौपद्यांसावित्रीशीलप्रतिपादनम्                                                     |
 
-
-
 [TABLE]
-
-
 
 [TABLE]
 
 —————
-
-
 
 **आरण्यपर्वणि - द्वितीयसंपुटम्॥**  
 ![](../books_images/U-IMG-1703864656Screenshot2023-12-06205315.png)
@@ -558,8 +462,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तत्रापि च कृतोद्देशस् समागमदिदृक्षुभिः।
 
-
-
 कृतश्च समयस्तेन पार्थेनामिततेजसा ॥४॥  
 पञ्च वर्षाणि वत्स्यामि विद्यार्थीति पुरा मयि॥५
 
@@ -592,8 +494,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^3]: "ख —इदमर्ध नास्ति"
 
-
-
 ततो युधिष्ठिरो राजा बहून् क्लेशान् विचिन्तयन्।  
 सिंहव्याघ्रमृगाकीर्णाम् उदीचीं प्रययौ दिशम् ॥१३
 
@@ -622,8 +522,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 न्यासभूतान् यथाकालं बन्धूनिव सुसत्कृतान् ॥२१
 
 ततस्ते वरवस्त्राणि शुभान्याभरणानि च ।
-
-
 
 निदधुः पाण्डवास्तस्मिन्नाश्रमे वृषपर्वणः॥
 
@@ -658,8 +556,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 शिलाविभङ्गविकटं लतापादपसकुलम् ॥३०
 
 ते समासाद्य पन्थानं यथोक्तं वृषपर्वणा ।
-
-
 
 अनुसस्रुर्यथोद्देशं[^6] पश्यन्तो विविधान् नगान् ॥
 
@@ -698,8 +594,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^10]: " ख - अर्धमेकं नास्ति"
 
-
-
 विविशुः क्रमशो वीरा हिरण्यं शुभकाननम् ॥३९  
 द्रौपदीसहिता वीरास्तैश्च विप्रैर्महात्मभिः । 
 
@@ -736,8 +630,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 फलैरमृतकल्पैस्तान् आचितान् स्वादुभिस्तरून् ॥४६॥  
 तथैव चम्पकाशोकान् केतकान् वकुलांस्तथा ॥४७
 
-
-
 पुन्नागान् सप्तपर्णाश्च कर्णिकारान् सकङ्कतान् ।  
 पाटलान् कुटजान् रम्यान् मन्दारान् दीपकांस्तथा ॥ ४८
 
@@ -770,8 +662,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^18]: "ख—इदमर्धद्वयं नास्ति"
 
 पद्मोदरच्युतरजः किञ्जल्कारुणरञ्जितैः ।
-
-
 
 मधुस्वरैर्मधुकरैर् विरुतान् कमलोत्करान् ॥५६
 
@@ -807,8 +697,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अथाऽपश्यन् कुरवकान् वनराजिषु पुष्पितान् ।
 
-
-
 कामवश्योत्सुककरांस्तथैव वनराजिषु ॥६४॥
 
 तांस्त्वामधुरान् सहितान् सुमनोहरान् ।  
@@ -839,8 +727,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^24]: " ख—इदमर्धं नास्ति"
 
 सरांसि सरसाः पार्थाः पश्यन्तश्शैलसानुषु ।
-
-
 
 पद्मोत्पलविचित्राणि[^17] सुखस्पर्शजलानि च ॥७२  
 गन्धवन्ति च माल्यानि रसवन्ति फलानि च ॥७३
@@ -880,8 +766,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^29]: "ख—अर्धद्वयं नास्ति"
 
-
-
 शिखण्डिनीभिश्चरतां सहितानां शिखण्डिनाम् ।
 
 नर्दतां शृणु निर्घोषं भीम पर्वतसानुषु ॥८१॥
@@ -912,8 +796,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 क्वचिदञ्जनवर्णाभाः क्वचित् काञ्चनसन्निभाः ।  
 धातवोहरितालस्य क्वचिद्धिङ्गुलकप्रभाः ॥८९ ॥
 
-
-
 मनश्शिलागुहाश्चैवसंध्याभ्रशिखरोपमाः  
 शशलोहितवर्णाभाःक्वचिद्गैरिकसप्रभाः॥ ९०॥
 
@@ -943,8 +825,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 नातृप्यन् पर्वतेन्द्रस्य दर्शनेन परन्तपाः॥ ९७॥
 
 उपेतमथ माल्यैश्च फलवद्भिश्च पादपैः ।
-
-
 
 आर्ष्टिषेणस्य राजर्षेर् आश्रमं ददृशुस्तदा ॥९८॥  
 ततस्तं तीव्रतपसं कृशं धमनिसन्ततम् ।  
@@ -977,8 +857,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यथान्यायमुपागम्य तमृषिं संशितव्रतम् ॥३
 
 अनुजानन् स धर्मज्ञो मुनिर्दिव्येन चक्षुषा ।
-
-
 
 पाण्डोः पुत्रान् कुरुश्रेष्ठान आस्यतामिति चाब्रवीत् ॥
 
@@ -1013,8 +891,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^33]: "ख—इदमर्धं नास्ति"
 
-
-
 पितरः पितृलोकस्थाश् शोचन्ति च रमन्ति च ॥१२
 
 किं त्वस्य दुष्कृतेऽस्माभिस् सम्प्राप्तव्यं भविष्यति ।  
@@ -1043,8 +919,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 न चाप्यतः परं गन्तुं शक्यं भरतसत्तमाः ।  
 विहारस्तत्र देवानाम् अमानुषगतिस्तथा ॥२१
-
-
 
 ईषच्चपलकर्माणं मनुष्यमिह भारत ।  
 द्विषन्ति सर्वभूतानि ताडयन्ति च पार्थिव ॥२२
@@ -1077,8 +951,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 भुञ्जानास्सर्वभोज्यानि रसवन्ति फलानि च ।  
 वसध्वं पाण्डवश्रेष्ठा यावदर्जुनदर्शनम् ॥३०
 
-
-
 न तात चपलैर्भाव्यम् इह प्राप्तैः कथश्चन ।  
 चपलस्सर्वभूतानां द्वेष्यो भवति मानवः ॥३१
 
@@ -1102,8 +974,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 जनमेजयः—
 
-
-
 पाण्डोःपुत्रामहात्मानस् सर्वे दिव्यपराक्रमाः ।  
 कियन्तं कालमवसन् पर्वते गन्धमादने ॥१
 
@@ -1111,8 +981,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वसतां[^12] लोकवीराणाम् आसंस्तब्रूहि सत्तम ॥२
 
 [^12]: "ख —इदमर्धं नास्ति"
-
-
 
 विस्तरेण च मे शंस भीमसेनपराक्रमम् ।  
 यद्यचक्रे महाबाहुस् तस्मिन् हैमवते गिरौ ॥३
@@ -1148,8 +1016,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तथा निवसतां तेषां पञ्चमं वर्षमभ्यगात् ।  
 शृण्वतां लोमशोक्तानि वाक्यानि विविधानि च ॥१०
 
-
-
 कृत्यकाल[^42] उपस्थास्य इति चोक्त्वा घटोत्कचः ।  
 राक्षसैस्सहितस्सर्वैः पूर्वमेव गतः प्रभो ॥११
 
@@ -1179,8 +1045,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 दहशुस्सर्वभूतानि द्रौपदी च यशस्विनी ॥१८
 
 भीमसेनं ततः कृष्णा काले वचनमब्रवीत् ।
-
-
 
 विविक्ते[^33] पर्वतोद्देशे सुखासीनं महाभुजम् ॥१९
 
@@ -1217,8 +1081,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 गन्धर्वोरगरक्षांसि वासवश्च पराजितः ॥२६  
 हता मायाविनश्चोग्रंधनुः प्राप्तं च गाण्डिवम् ।
 
-
-
 तवापि सुमहत् तेजो महद्वाहुबलं च ते ॥२७  
 अविषह्यमनाधृष्यं शक्रतुल्यबलोपमम् ॥२७॥  
 त्वद्वाहुबलवेगेन त्रासितास्सर्वराक्षसाः ।  
@@ -1245,8 +1107,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^50]: " ख—अर्धत्रयं नास्ति"
 
-
-
 महात्मा चारुसर्वाङ्गः कम्बुग्रीवो महाहनुः ।  
 रुक्मपृष्ठं धनुः खङ्गं तूणी चापि परामृशन् ॥३५॥  
 केसरीव बलोत्सिक्तः प्रभिन्न इव वारणः।  
@@ -1271,8 +1131,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^53]: "ख— आरुरोह महाबाहुश्शृङ्गं बहुगुणान्वितम् ।[पाठान्तरम.]"
 
-
-
 सर्वगन्धवहस्तत्र मारुतस्सुखशीतलः ॥४३॥  
 चित्रा[^33] विविधवर्णाभाश् चित्रमञ्जरिधारिणः ।  
 अचिन्त्या विविधास्तत्र द्रुमाः परमशोभनाः ॥४४॥  
@@ -1294,8 +1152,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^33]: "ख—इदमर्धं नास्ति"
 
 [^57]: "अ—नास्तीदमर्धम्"
-
-
 
 अन्तरिक्षगतानां च भूमिष्ठानां च गर्जताम् ।  
 शरैर्विव्याध गात्राणि राक्षसानां महाबलः ॥५२॥  
@@ -1319,8 +1175,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^33]: "ख—इदमर्धं नास्ति"
 
 [^48]: "ख—अर्धत्रयं नास्ति"
-
-
 
 दक्षिणां दिशमाजग्मुस् त्रासिता स्थिरधन्वना॥६१  
 तत्रशूलगदापाणिर् व्यूढोरस्को महाभुजः ।  
@@ -1346,8 +1200,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 प्रत्यहन्यन्त ते सर्वे गदामासाद्य सायकाः ।  
 न वेगं धारयामासुर् गदावेगस्य तस्य वै ॥६९
 
-
-
 गदायुद्धसमाचारान् युध्यमानस्स वीर्यवान् ।  
 व्यथयामास तत्रस्थः प्रहारैर्भीमविक्रमः ॥७०  
 ततश्शक्तिं महाघोरां रुक्मदण्डामयस्मयीम् ।  
@@ -1368,8 +1220,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 इत्वा रक्षः क्षितिं प्राप्य कृत्येव निपपात ह ॥७८
 
 [^60]: "ख—सर्वशैक्यायसीं"
-
-
 
 तं राक्षसं भीमबलं भीमसेनबलाहतम् ।  
 दहशुस्सर्वभूतानि सिंहेनेव महाद्विपम्॥७९  
@@ -1397,8 +1247,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 भीमसेनमपश्यन्तस् सर्वे विमनसोऽभवन् ॥२  
 द्रौपदीमार्ष्टिषेणाय प्रदाय तु महारथाः ।
 
-
-
 सहितास्सायुधाश्शूराश् शैलमारुरुहुस्तदा ॥३  
 ततस्सम्प्राप्य शैलामं वीक्षमाणा महारथाः ।  
 दहृशुस्ते महेष्वासा भीमसेनमरिन्दमम् ॥४  
@@ -1423,8 +1271,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 त्रिदशानामिदं द्विष्टं भीमसेन कृतं त्वया ॥११
 
 [^62]: "ख—इदमर्धनास्ति"
-
-
 
 अर्थधर्मावनादृत्य यः पापे कुरुते मनः ।  
 कर्मणां पार्थ पापानां स फलं विन्दते ध्रुवम् ॥१२  
@@ -1454,8 +1300,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^64]: "अ—अर्धद्वयं नास्ति"
 
-
-
 एकेन निहतास्सङ्ख्ये हताः क्रोधवशा गणाः ॥२०  
 प्रवरा राक्षसेन्द्राणां यक्षाणां च धनाधिप ।  
 शेरते निहता देव गतसत्त्वाः परासवः ॥२१  
@@ -1479,8 +1323,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 प्रययौ देवगन्धर्वेस् स्तूयमानो महाद्युतिः ॥२८॥
 
 [^65]: " क—अर्धचतुष्टयं नास्ति; घ—अर्धपञ्चकं नास्ति"
-
-
 
 तं प्रयान्तं महात्मानं सर्वे यक्षा नराधिप ।  
 अनुजग्मुर्महात्मानं धनदं घोरदर्शनाः ॥॥२९॥  
@@ -1506,8 +1348,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^68]: "घ—अर्धत्रयं नास्ति"
 
-
-
 समीक्ष्य यक्षगन्धर्वा निर्विकारा व्यवस्थिताः ॥३७॥  
 पाण्डवाश्च महात्मानः प्रणम्य धनदं प्रभुम् ।  
 नकुलस्सहदेवश्च धर्मपुत्रश्च धर्मवित् ॥३८॥  
@@ -1529,8 +1369,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 कुबेरः—
 
 विदुस्त्वां सर्वभूतानि पार्थ भूतहिते रतम् ।
-
-
 
 निर्भयश्चापि शैलामे वस त्वं सह बन्धुभिः ॥४६॥  
 न च मन्युस्त्वया कार्यो भीमसेनस्य पाण्डव ।  
@@ -1555,8 +1393,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 शप्तोऽपराधे कस्मिंश्चित् तस्यैषा निष्कृतिध्रुवम् ॥५३॥  
 दृष्टो धर्मे परिक्लेशः पुरा पाण्डवनन्दन \।  
 तवात्र नापराधोऽस्ति न किञ्चिदपि शत्रुहन् ॥५४॥
-
-
 
 युधिष्ठिरः—
 
@@ -1585,8 +1421,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^71]: "ख— इदमर्ध नास्ति; घ—अर्धतयं नास्ति"
 
-
-
 ततः क्रुद्धस्स भगवानुवाचेदं तपोधनः ॥६२॥
 
 अगस्त्यः—
@@ -1610,8 +1444,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये ६७ लोकाः\]  
 ————
 
-
-
 **॥ पञ्चत्रिंशदधिकशततमोऽध्यायः ॥**
 
 ![](../books_images/U-IMG-17009358314.png)
@@ -1621,8 +1453,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 —————
 
 धनदः—
-
-
 
 युधिष्ठिर धृतिर्दाक्ष्यं देशकालपराक्रमाः ।  
 लोकतन्त्रविभागानाम् एष पञ्चविधो विधिः ॥१  
@@ -1641,8 +1471,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^29]: "ख—अर्धद्वयं नास्ति"
 
 [^73]: "अ—क-च अर्धद्वयं नास्ति"
-
-
 
 वृथाचारसमारम्भः प्रेत्य चेह विनश्यति॥७
 
@@ -1684,8 +1512,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 यथा जिष्णुर्महेन्द्रस्य यथा वायोर्वृकोदरः ।
 
-
-
 धर्मस्य त्वं यथा तात योगोत्पन्नो निजस्सुतः ॥१५॥  
 आत्मजावात्मसम्पन्नौ यमौ चोभौ यथाऽश्विनोः ।  
 रक्ष्यास्तद्वन्ममापीह यूयं सर्वे युधिष्ठिर ॥१६॥  
@@ -1710,8 +1536,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^78]: "—अर्धद्वयं नास्ति"
 
 [^79]: "क–घ—विप्रान्"
-
-
 
 सप्त मुख्यान् महामेधान् आहरद्यमुनां प्रति ॥२४॥  
 अधिराजस्स राजंस्त्वां शन्तनुः प्रपितामहः ।  
@@ -1741,8 +1565,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एवमुत्तमकर्माणम् अनुशास्य युधिष्ठिरम् ।
 
-
-
 अस्तं गिरिमिवादित्यः प्रययौ गुह्यकाधिपः ॥३२॥  
 तं परिस्तोमसङ्कीर्णैर् नानारत्नविभूषितैः ।  
 यानैरनुययुर्यक्षा राक्षसाश्च सहस्रशः ॥३३॥  
@@ -1766,8 +1588,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३५ ॥ यक्षयुद्धपर्वणि पञ्चमोऽध्यायः ॥ ५ ॥  
 \[अस्मिन्नध्याये ३८॥ लोकाः\]  
 ————
-
-
 
 **॥ षट्त्रिंशदधिकशततमोऽध्यायः ॥**
 
@@ -1796,8 +1616,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 एतमाहुर्महेन्द्रस्य राज्ञो वैश्रवणस्य च ॥६  
 ऋषयस्सर्वधर्मशास् सर्वे तात मनीषिणः ॥६॥
 
-
-
 अतश्योद्यन्तमादित्यम् उपतिष्ठन्ति वै प्रजाः ।  
 ऋषयश्चैव धर्मशास् सिद्धास्साध्याश्च देवताः ॥७॥  
 यमस्तु राजा धर्मात्मा सर्वप्राणभृतां प्रभुः ।  
@@ -1820,8 +1638,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^83]: "क–ख–घ —विश्वं"
 
 [^84]: "क– ख– घ—मनुत्तमम्"
-
-
 
 देशं विरजसं पश्य मेरोश्शिखरमुत्तमम्।
 
@@ -1861,8 +1677,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 योगसिद्धा महात्मानस् तमोमोह विवर्जिताः।
 
-
-
 तत्र गत्वा पुनर्नेमं लोकमांयन्ति भारत ॥२५  
 स्वयम्भुवं महात्मानं देवदेवं सनातनम् ॥२५॥  
 स्थानमेतन्महाभाग ध्रुवमक्षयमव्ययम् ।  
@@ -1891,8 +1705,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^90]: "अ–क—अर्धद्वयं नास्ति"
 
-
-
 सिसृक्षुशिशिरं ह्येष दक्षिणां भजते दिशम् ।  
 ततस्सर्वाणि भूतानि कालशिशिरमृच्छति ॥३४  
 स्थावराणां च भूतानां जङ्गमानां च तेजसा ।  
@@ -1914,8 +1726,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 आरण्यपर्वणि षट्त्रिंशदधिकशततमोऽध्यायः ॥ १३६ ॥  
 ॥ ३५ ॥ यक्षयुद्धपर्वणि षष्ठोऽध्यायः ॥ ६ ॥  
 \[अस्मिन्नध्याये ४१ श्लोकाः \]
-
-
 
 **॥ सप्तत्रिंशदधिकशततमोऽध्यायः ॥**
 
@@ -1944,8 +1754,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^91]: "क–ख–घ— प्रथमो"
 
-
-
 शृङ्गाणि सानूनि च पश्यमाना  
   गिरेः परं हर्षमवाप्य तस्थुः ॥४  
 साक्षात् कुबेरेण कृताञ्च तस्मिन्  
@@ -1967,177 +1775,130 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^92]: "ख—अयं श्लोको नास्ति"
 
-
-
 समास्थितस्स्थावरजङ्गमानां[^63]  
-  
 
 [^63]: "ख—इदमर्ध नास्ति"
 
 विभावसुर्भावयिता हरीशः ।  
 तस्योदयं चास्तमयं च वीरास्  
-  
 
 तत्राश्रितास्ते ददृशुर्नृसिंहाः ॥९  
 रवेस्तमित्रागमनिर्गमं[^94] च  
-  
 
 [^94]: "ख—अयं लोको नास्ति"
 
 तथोदयं चास्तमयं च शूराः ।  
 समावृताः प्रेक्ष्य तमोनुदस्य  
-  
 
 गभस्तिजालैः प्रदिशो दिशश्च ॥१०  
 स्वाध्यायवन्तस्सततक्रियाश्च  
-  
 
 धर्मप्रधानाश्च शुचित्रताश्च ।  
 सत्येरितास्तस्य महारथस्य  
-  
 
 सत्यव्रतस्यागमनप्रतीक्षाः ॥११  
 इहैव हर्षोऽस्तु समागतानां  
-  
 
 क्षिप्रं कृतास्त्रेण धनञ्जयेन ।  
 इति ब्रुवन्तः परमाशिषस्ते  
-  
 
 पार्थास्तपोयोगपरा बभूवुः ॥१२  
 दृष्ट्वा विचित्राणि गिरौ वनानि  
-  
 
 किरीटिनं चिन्तयतामभीक्ष्णम् ।
 
-
-
 बभूव रात्रिर्दिवसश्च तेषां  
-  
 
 संवत्सरेणैव समानरूपः ॥१३  
 यदैव धौम्यानुमते महात्मा  
-  
 
 कृत्वा जटां प्रव्रजितस्स जिष्णुः।  
 तदैव तेषां न बभूव हर्षः  
-  
 
 कुतो रतिस्तद्गतमानसानाम् ॥१४  
 भ्रातुर्नियोगात्[^95] स युधिष्ठिरस्य  
-  
 
 [^95]: "क–ध—नास्त्ययं श्लोकः"
 
 यदा वनान्मत्तगजेन्द्रगामी ।  
 स काम्यकात् प्रव्रजितस्तदैव  
-  
 
 पार्थास्तदा शोकपरा बभूवुः ॥१५  
 तथा तु तं चिन्तयतां सिताश्वम्  
-  
 
 अस्त्रार्थिनं वासवमभ्युपेतम् ।  
 कालस्स कृच्छ्रेण महानतीतस्  
-  
 
 तस्मिन् नगे भारत भारतानाम् \।\।१६  
 ततः कदाचिद्धरिसम्प्रयुक्तं  
-  
 
 महेन्द्रवाहं सहसोपयातम् ।  
 विद्युत्प्रभं प्रेक्ष्य नरर्षभाणां  
-  
 
 हर्षोऽर्जुनं चिन्तयतां बभूव ॥१७
 
-
-
 सदीप्यमानस्सहसाऽन्तरिक्षं  
-  
 
 प्रकाशयन् मातलिसङ्गृहीतः ।  
 बभौ महोल्केव घनान्तरस्था  
-  
 
 शिखेव चाग्नेर्ज्वलिता विधूमा ॥१८  
 तमास्थितस्संददृशे किरीटी  
-  
 
 स्रग्वी नवान्याभरणानि बिभ्रत् ।  
 धनञ्जयो वज्रधरप्रभावश्  
-  
 
 श्रिया ज्वलन् पर्वतमाजगाम ॥१९  
 स शैलमासाद्य किरटिमाली  
-  
 
 महेन्द्रवाहादवरुह्य तस्मात् ।  
 धौम्यस्य पादावभिवाद्य पूर्वम्  
-  
 
 अजातशत्लोस्तदनन्तरं च ॥२०  
 वृकोदरस्यापि ववन्द पादौ  
-  
 
 माद्रीसुताभ्यामभिवादितश्च ।  
 समेत्य कृष्णां परिसान्व्य चैनां  
-  
 
 प्रह्रोऽभवतुरुपहरे सः ॥२१  
 बभूव तेषां परमःप्रहर्षस्  
-  
 
 तेनाप्रमेयेण समेत्य तत्र \।  
 स चापि तं प्रेक्ष्य किरीटमाली  
-  
 
 ननन्द राजानमभिप्रशंसन् ॥२२
 
-
-
 यमास्थितस्सप्त[^96] जघान पूगान्  
-  
 
 [^96]: "ध—पानास्थितः"
 
 दितेस्सुतानां नमुचेर्निहन्ता ।  
 तमिन्द्रवाहं समुपेत्य पार्थाः  
-  
 
 प्रदक्षिणं चक्रुरदीनसत्त्वाः ॥२३  
 ते मातलेधक्रुरतीव हृष्टास्  
-  
 
 सत्कारमग्र्यंसुरराजतुल्यम् ।  
 सर्वं यथावञ्च दिवौकसङ्गं  
-  
 
 पप्रच्छुरेनं कुरुराजपुत्राः ॥२४  
 तानप्यसौ मातलिरभ्यनन्दत्  
-  
 
 पितेव पुत्राननुशिष्य चैनान् ।  
 ययौ रथेनाप्रतिमप्रभेण  
-  
 
 पुनस्सकाशं त्रिदिवेश्वरस्य ॥२५  
 गते तु तस्मिन् वरदेववाहे  
-  
 
 शक्रात्मजस्सर्वरिपुप्रमाथी।  
 साक्षात्[^97] सहस्राक्ष इव प्रतीतश्  
-  
 
 [^97]: "क–च—नास्तीदमर्धम्"
 
 श्रीमान् स्वदेहादवमुच्य जिष्णुः ॥२६  
 शक्रेण दत्तानि ददौ महात्मा  
-  
 
 महाधनान्युत्तमरूपवन्ति ।
-
-
 
 दिवाकरामाणि विभूषणानि  
   प्रीतः प्रियायै सुतसोममात्रे ॥२७  
@@ -2166,8 +1927,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[ अस्मिन्नभ्याये ३० श्लोकाः \]  
 ————
 
-
-
 **॥ अष्टात्रिंशदधिकशततमोऽध्यायः ॥**  
 
 ![](../books_images/U-IMG-1701177616Untitled2.png)
@@ -2194,8 +1953,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^62]: "ख—इदमर्धनास्ति"
 
-
-
 भ्रातृभिस्सहितश्श्रीमान् देवराजमुपागमत्॥७  
 पूजयामास चैवाथ विधिवद्भूरिदक्षिणः ।  
 यथार्हममितात्मानं[^63]विधिदृष्टेन कर्मणा ॥८  
@@ -2219,8 +1976,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
   सर्वाणि मत्तः प्रयतेन राजन् ।  
 कृतप्रियश्चास्मि धनञ्जयेन  
   जेतुं न शक्यस्त्रिभिरेव लोकैः ॥१४
-
-
 
 वैशम्पायनः—
 
@@ -2254,8 +2009,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 कृष्णया चापि बीभत्सुर् धर्मराजमपूजयत् ॥१  
 अभिवादयमानं तु मूर्युपाघ्राय पाण्डवम् ।
 
-
-
 हर्षगद्गदया[^101] वाचा प्रहृष्टोऽर्जुनमब्रवीत्॥२
 
 [^101]: "ध—अर्धचतुष्टयं नास्ति"
@@ -2282,8 +2035,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 शृणु त्वं हि महाराज विधिना येन दृष्टवान् ।  
 शतक्रतुमहं देवं भगवन्तं च शङ्करम् ॥९  
 विद्यामधीत्य तां राजंस त्वयोक्तामरिमर्दन ।
-
-
 
 भवता च समादिष्टस् तपसे प्रस्थितो वनम् ॥१०  
 भृगुतुन्दमथो गत्वा काम्यकादास्थितस्तपः ।
@@ -2312,8 +2063,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 निघ्नन् प्रोथेन पृथिवीं विलिखंश्चरणैरपि ।  
 सम्मार्जञ्जठरेणोवीं विवर्तश्च मुहर्मुहुः ॥ १९
-
-
 
 अनु तस्यापरं भूतं महत् कैरातमास्थितम् ।          
 धनुर्बाणासिमत् प्राप्तं स्त्रीगणानुगतं तदा॥२०
@@ -2346,8 +2095,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तानि चास्य शरीराणि शरैरहमवाकिरम्॥२७
 
 पुनस्तानि शरीराणि एकीभूतानि पाण्डव ।
-
-
 
 अदृश्यन्त महाराज तान्यहं व्यधमं पुनः॥२८  
 अणुर्बृहच्छिरा भूत्वा महांश्चाशि[^106]रास्ततः।
@@ -2382,8 +2129,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ततस्संतापितो लोको मत्प्रसूतेन तेजसा।  
 क्षणेन च दिशःखं च सर्वतोऽभिविराजितम्॥ ३६
 
-
-
 तदप्यस्त्रंमहातेजाः क्षणेनैव व्यशामयत् ।  
 ब्रह्मास्त्रे निहते राजन् भयं मां महदाविशत्॥३७
 
@@ -2412,8 +2157,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
   ततश्चान्यानि पुष्पाणि पूजयिष्यन् पुनः पुनः ।  
 तानि सर्वाणि दृष्ट्वाऽहं किरातस्य च मूर्धनि ।  
   इति कृत्वा महादेवं प्रणतोऽस्मि पुनः पुनः । (अधिकः पाठः)
-
-
 
 हित्वा मृगयुरूपं तद् भगवांस्त्रिदशेश्वरः ।  
 स्वरूपं दिव्यमास्थाय तस्थौ तत्र महेश्वरः ॥ ४३
@@ -2444,8 +2187,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ददानीत्येव भगवान् अब्रवीत् त्र्यम्बकश्च माम् ।  
 रौद्रमस्त्रं मदीयं त्वाम् उपस्थास्यति पाण्डव॥५०
 
-
-
 प्रददौ च मम प्रीतस् सोऽस्त्रंपाशुपतं प्रभुः ।  
 उवाच च महादेवो दत्वा मेऽस्त्रं सनातनम्॥५१॥
 
@@ -2470,8 +2211,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 आरण्यपर्वणि एकोनत्रिंशदधिकशततमोऽध्यायः ॥ १३९ ॥  
 ॥ ३५ ॥ यक्षयुद्धपर्वणि नवमोऽध्यायः ॥ ९ ॥  
 \[ अस्मिन्नध्याये ५६ श्लोकाः \]
-
-
 
 **आरण्यपर्वणि - यक्षयुद्धपर्व**
 
@@ -2507,9 +2246,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अर्जुनः—
 
 एवमुक्त्वा स मां राजन्नाश्लिष्य च पुनः पुनः ।             
-      
-
-
 
 अगच्छत् स यथाकामं ब्राह्मणस्सूर्यसन्निभः॥६
 
@@ -2541,8 +2277,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ते मामूचुर्महाराज सान्त्वयित्वा सुरर्षभाः॥१४॥
 
-
-
 देवा—
 
 सव्यसाचिन् समीक्षस्व लोकपालानवस्थितान् ॥ १५  
@@ -2573,8 +2307,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 दुश्चरंघोरमत्राणां तपोबलकरं तव॥ २२
 
 स्वर्गस्त्ववश्यं गन्तव्यस् त्वया शत्रुनिषूदन।
-
-
 
 मातलिर्मन्नियोगात् त्वां त्रिदिवं प्रापयिष्यति ॥२३          
 विदितस्त्वं[^24] हि देवानाम् ऋषीणां च महात्मनाम् ।  
@@ -2611,8 +2343,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 शिक्ष मे भवनं गत्वा सर्वाण्यस्त्राणि भारत।
 
-
-
 वायोरग्नेर्वसुभ्योऽथ वरुणात् समरुद्रणात्॥३०  
 साध्यं पैतामहं चैव गन्धर्वोरगरक्षसाम् ।
 
@@ -2643,8 +2373,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 प्रदक्षिणमुपावृत्य समारोहं रथोत्तमम्॥३६
 
 चोदयामास स हयान् मनोमारुतरंहसः॥३६॥
-
-
 
 मातलिर्हय[^117]शास्त्रज्ञो यथावद्भूरिदक्षिणः।  
 अवैक्षत च मे वक्तं स्थितस्याथ स सारथिः॥ ३७॥  
@@ -2679,8 +2407,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 न तां भासयते सूर्यो न शीतोष्णे न च क्लमः।
 
-
-
 रजःपङ्कोन च तमस् तत्रास्ति न जरा नृप॥ ४५
 
 न तत्र शोको दैन्यं च वैवर्ण्यं चोपलक्ष्यते ।  
@@ -2714,8 +2440,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 प्रविश्य तां पुरीं दिव्यां देवगन्धर्वपूजिताम्।  
 देवराजं सहस्राक्षम् उपातिष्ठं कृताञ्जलिः॥ ५३
-
-
 
 ददावर्धासनं प्रीतश् शक्रो मे ददतां वरः ।
 
@@ -2756,8 +2480,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 इन्द्रः—
 
 न त्वमद्य युधा जेतुं शक्यस्सुरगणैरपि।
-
-
 
 किं पुनर्मानुषे लोके मानुषैरकृतात्मभिः ॥६२॥
 
@@ -2801,8 +2523,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 नाविषह्यं तवाद्यास्ति त्रिषु लोकेषु किश्चन ॥७०॥
 
-
-
 निवातकवचा नाम दानवा मम शत्रवः।  
 समुद्रकुक्षिमासाद्य दुर्गे प्रतिवसन्त्युत॥७१॥
 
@@ -2834,8 +2554,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ततो वाग्भिः प्रशस्ताभिस् त्रिदशाः पृथिवीपते ।
 
-
-
 तुष्टुवुर्मां प्रसन्नास्ते यथा देवं पुरन्दरम् ॥ ८०॥
 
 देवाः—
@@ -2845,7 +2563,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 बहूनि च सहस्राणि प्रयुतान्यर्बुदान्यपि ।           
 रथेनानेन[^125] दैत्यानां जितवान् मघवा युधि ॥ ८२॥ 
-   
 
 [^125]: " ख— इदमर्धंनास्ति"
 
@@ -2869,12 +2586,9 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[ अस्मिन्नध्याये ८६ ॥ श्लोकाः\]  
 ————
 
-
-
 **॥ एकचत्वारिंशदधिकशततमोऽध्यायः ॥**  
 
 ![](../books_images/U-IMG-1701071380Screenshot2023-11-27131905.png)  
-
 
  पार्थेन निवातकवचैस्सह युयुत्सया मातलिसनाथेनेन्द्ररथेन तत्पुरं प्रति गमनम्॥१॥ अर्जुनशङ्खध्वनिश्रवणेन सर्निवातकवचैस्तेन सह युद्धारम्भः ॥२॥
 
@@ -2898,7 +2612,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 शङ्खानां च सहस्राणि मन्नान्यप्सु समन्ततः ।  
 दृश्यन्ते स्म यथा रात्रौ तारास्तन्वभ्रसंघृताः ॥५           
-   
 
 तथा[^128] सहस्रशस्तत्र रत्नसङ्घाःलवन्त्युत ।  
 वायुश्च घूर्णते भीमस् तदद्भुतमिवाभवत्॥६
@@ -2907,8 +2620,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तमतीत्य महावेगं सर्वाम्भोनिधिमुत्तमम् ।  
 अपश्यं दानवाकीर्णं तद्दैत्यपुरमन्तिकात् ॥७
-
-
 
 तत्रैव मातलिस्तूर्णं निपात्य धरणीतले ।  
 दानवान् रथघोषेण तत् पुरं समुपाद्रवत्॥८
@@ -2941,8 +2652,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ततो[^130] वेगेन महता दानवा मामुपाद्रवन्।
 
 [^130]: "अ —अर्धद्वयं नास्ति"
-
-
 
 विमुञ्चन्तश्शितान् बाणाञ् शतशोऽथ सहस्रशः ॥१७  
 ततो[^131] विचार्य बहुशो रथमार्गेषु तान् हयान् ।
@@ -2977,8 +2686,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
   \[ अस्मिन्नध्याये २४ लोकाः\]  
 ————
 
-
-
 ॥ द्विचत्वारिंशदधिकशततमोऽध्यायः ॥  
 ![](../books_images/U-IMG-1701074505Screenshot2023-11-27141111.png)  
 
@@ -3010,8 +2717,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अथ मार्गान् बहूस्तत्रविचेरुर्वातरंहसः ।
 
-
-
 सुसंयता मातलिना प्रामथ्नन्त दितेस्सुतान् ॥ ८
 
 शतं[^133] शतास्ते हरयस् तस्मिन् युक्ता महारथे।  
@@ -3042,8 +2747,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वध्यमानास्ततस्तेन हयैस्तेन रथेन च ।  
 अगमन् प्रक्षयं केचिन्न्यवर्तन्त तथाऽपरे ॥ १६
 
-
-
 स्पर्धमाना इवास्माभिर् निवातकवचा रणे ।
 
 शरवर्षैर्महद्भिर्मां समन्तात् प्रत्यवारयन् ॥१७
@@ -3073,8 +2776,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 शरवर्षैर्महद्भिर्मां समन्तात् पर्यवारयन ॥
 
 शरवेगान् निहत्याहम् अस्त्रैरस्त्रविघातिभिः ।
-
-
 
 ज्वलद्भिः परमैश्शीघ्रैस् तानविध्यं सहस्रशः ॥ २६             
 तेषां छिन्नानि गात्राणि विसृजन्ति स्म शोणितम् ।
@@ -3111,8 +2812,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तदहं वज्रसङ्काशैश् शरैरिन्द्रास्त्रचोदितैः।  
 अचूर्णयं वेगवद्भिश् शतधैकैकमाहवे॥२
 
-
-
 चूर्ण्यमानेऽश्मवर्षे तु पावकस्समजायत ।  
 तत्राश्मचूर्णा[^33]न्यपतन् पावकप्रकरा इव ॥ ३
 
@@ -3144,8 +2843,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 शैलेन च महास्त्रेण वायोर्वेगमधारयम्॥१०
 
 तस्यां प्रतिहतायां तु दानवा युद्धदुर्मदाः।
-
-
 
 प्राकुर्वन् विविधां मायां यौगपद्येन भारत ॥११
 
@@ -3182,8 +2879,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तथैव वृत्रस्य वधे सङ्गृहीता मया हयाः ।  
 वैरोचनेर्मया युद्धं दृष्टं चासीत् सुदारुणम् ॥ १९
 
-
-
 एते मया महाघोरास्सङग्रामाः पर्युपस्थिताः ।  
 न चापि विगतज्ञानो भूतपूर्वोऽस्मि पाण्डव ॥ २०
 
@@ -3212,8 +2907,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 सुसङ्गृहीतैर्हरिभिः प्रकाशे सति मातलिः।  
 व्यचरत् स्यन्दनाग्र्येण सङ्ग्रामे रोमहर्षणे ॥ २८
-
-
 
 ततः पर्यपतन्नुग्रानिवातकवचा मयि ।  
 तानहं विवरं दृष्ट्वा प्राहिण्वं यमसादनम् ॥ २९
@@ -3245,8 +2938,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 संहृत्य मायां तरसा प्राविशन् पुरमात्मनः ॥ ३
 
 व्यपयातेषु दैत्येषु प्रादुर्भूते च दर्शने ।
-
-
 
 अपश्यं दानवांस्तत्रहताञ्शतसहस्रशः ॥ ४
 
@@ -3284,8 +2975,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अर्जुनार्जुन मा भैस्त्वं वज्रमस्त्रमुदीरय ॥ १२
 
-
-
 अर्जुनः—
 
 ततोऽहं तस्य तद्वाक्यं श्रुत्वा बज्रमुदीरयम् ।  
@@ -3316,8 +3005,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 नैतदर्जुन देवेषु त्वयि वीर्यं यदीक्ष्यते ॥ २०            
 हतेष्वसुरसङ्घेषु दारास्तेषां च सर्वशः ।  
 प्राक्रोशन्नगरे तस्मिन् यथा शरदि लक्ष्मणाः ॥ २१
-
-
 
 अर्जुनः—
 
@@ -3351,8 +3038,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ततश्शक्रेण भगवान् स्मयम्भूरभिचोदितः ।
 
-
-
 दत्तवान्[^24]भगवानस्त्रम् आत्मनो हितकाम्यया ॥३०
 
 [^24]: " ख—इदमर्धं नास्ति"
@@ -3383,8 +3068,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 —————
 
-
-
 **॥ पञ्चचत्वारिंशदधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1701095813Screenshot2023-11-27141111.png)
 
@@ -3413,8 +3096,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तदहं प्रेक्ष्य दैत्यानां पुरमद्भुतदर्शनम् ।  
 अपृच्छं मातलिं राजन् किमिदं दृश्यतेति वै ॥ ६
-
-
 
 मातलिः—
 
@@ -3447,8 +3128,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^29]: "ख—अर्धद्वयं नास्ति"
 
 सुरासुरैरवध्यानां दानवानां धनञ्जय।
-
-
 
 मानुषान्मृत्युरेतेषां निर्दिष्टो ब्रह्मणा पुरा ॥ १५
 
@@ -3483,8 +3162,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तेषामेवं विमूढानाम् अन्योन्यमभिधावताम् ।
 
-
-
 शिरांसि विशिखैर्दीप्तैर् अहरं[^155]शतसङ्घशः ॥२३
 
 [^155]: " क-ख-घ—च्छिनं"
@@ -3516,8 +3193,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ते वध्यमाना मद्वाणैर् वज्रवेगैरयस्मयैः।  
 पर्यभ्रमन्त वै राजन्नसुराः कालचोदिताः॥३१
-
-
 
 ततो मातलिरारुह्य पुरस्तान्निपतन्निव ।  
 महीमवातरत् क्षिप्रं रथेनादित्यवर्चसा ॥ ३२
@@ -3551,8 +3226,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तैः पीड्यमानो बहुभिः कृतास्त्रैःकुशलैर्युधि।  
 व्यथितोऽस्मि महायुद्धे भयं चागान्महन्मम॥ ४०
-
-
 
 ततोऽहं परमायत्तो मातलिं परिपृष्टवान् ।  
 किमेते मम बाणौघैर् दिव्यास्त्रप्रतिमन्त्रितैः॥ ४१
@@ -3590,8 +3263,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^163]: "क—नास्तीदमर्धम्"
 
-
-
 ततोऽपश्यं त्रिशिरसं पुरुषं नवलोचनम् ।  
 त्रिमुखं[^164] षड्भुजं दीप्तम् अर्कज्वलनमूर्धजम्॥ ४९॥
 
@@ -3628,8 +3299,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 मीनवायसरूपाणां नानावक्त्रप्रचारिणाम् ।  
 सालावृकाणां प्रेतानां सुरुण्डानां च सर्वशः॥ ५६॥
 
-
-
 गृध्राणां गरुडानां च मकाराणां तथैव च ।  
 पिशाचानां च यक्षाणां रक्षसां च सुरद्विषाम् ॥ ५७॥
 
@@ -3662,8 +3331,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 गाण्डीवास्त्रप्रणुन्नांस्तान् गतासून्नभसश्च्युतान् ।  
 दृष्ट्वाऽहं प्राणमं भूयस् त्रिपुरघ्नाय वेधसे॥ ६४॥
 
-
-
 तथा रौद्रास्त्रनिष्पिष्टान् दिव्याभरणभूषितान् ।  
 निशाम्य परमं हर्षम् अगमद् देवसारथिः॥ ६५॥
 
@@ -3694,8 +3361,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 पेतुः पुत्रान् पितॄन् भ्रातॄन शोचमाना महीतले।  
 रुदत्योदीनकण्ठ्यस्तु निनदन्त्यो हतेश्वराः॥ ७३
 
-
-
 उरांसि पाणिभिर्घ्नन्त्यो विस्त्रस्तस्रग्विभूषणाः[^174]॥ ७३॥
 
 [^174]: " अ—वित्रस्तस्त्रस्तभूषणाः; क-ख-घ— प्रस्त्रस्ताम्बरभूषणाः"
@@ -3725,8 +3390,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 परिष्वज्य च मां प्रेम्णा मूर्ध्नि चाघ्राय सस्मितम्॥ ८१
 
 ततस्स मां देवराजस्समाश्वास्य पुनः पुनः।
-
-
 
 अब्रवीद्विबुधैस्सार्धम् इदं सुमधुरं वचः॥ ८२॥
 
@@ -3761,8 +3424,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ततो मामतिविश्वस्तं संरूढशरविक्षतम् ।  
 देवराजोऽनुगृह्येदंकाले वचनमब्रवीत्॥ १
 
-
-
 इन्द्रः—
 
 दिव्यास्त्राणि च सर्वाणि त्वयि तिष्ठन्ति भारत।  
@@ -3795,8 +3456,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एवमिन्द्रस्य भवने पञ्च वर्षाणि भारत।
 
-
-
 उषितानि मया राजन् स्मरता द्यूतजं कलिम्॥ ९
 
 ततो भवन्तमद्राक्षं भ्रातृभिः परिवारितम्।  
@@ -3827,8 +3486,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 श्वः प्रभाते भवान् द्रष्टा दिव्यान्यस्त्राणि सर्वशः।  
 निवातकवचा घोरा यैर्मया विनिपातिताः॥ १६॥
-
-
 
 वैशम्पायनः—
 
@@ -3862,8 +3519,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ततो धनञ्जयो राजन् देवैर्दत्तानि पाण्डवः।  
 अस्त्राणि तानि दिव्यानि दर्शयामास भारत॥ ३
 
-
-
 यथान्यायं महातेजाः परमं शौचमास्थितः।  
 नमस्कृत्य त्रिनेत्राय वासवाय च पाण्डवः॥ ४
 
@@ -3893,8 +3548,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 पीड्यमानास्समुत्थाय पाण्डवं पर्यवारयन्॥ ११
 
 वेपमानाःप्राञ्जलयस् ते सर्वे विनताननाः।
-
-
 
 दह्यमानास्तदाऽस्त्रैस्ते याचन्ति स्म धनञ्जयम्॥ १२
 
@@ -3929,8 +3582,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^180]: "क—अधिष्ठाने च नान्यत्रप्रयुञ्जीत कथञ्चन।"
 
-
-
 एतानि रक्ष्यमाणानि धनञ्जय यथागमम् ।  
 बलवन्ति सुखार्हाणि भविष्यन्ति न संशयः॥ २०॥
 
@@ -3956,8 +3607,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये २४॥ श्लोकाः\]  
 ॥ समाप्तं च यक्षयुद्धपर्व॥  
 ————
-
-
 
 **॥ अष्टाचत्वारिंशदधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1701178164Screenshot2023-11-27141111.png)  
@@ -3989,38 +3638,29 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^183]: " क-घ-कर्षाः"
 
-
-
 चचार धन्वी बहुधा नरेन्द्रस्  
-  
 
 सोऽस्त्रेषु यत्तस्सततं किरीटी ॥ ३
 
 अवाप्य वासं नरदेवपुत्राः  
-  
 
 प्रसादजं वैश्रवणस्य राज्ञः।
 
 न प्राणिनां ते स्पृहयन्ति राजञ्  
-  
 
 शिवश्च कालस्स बभूव तेषाम्॥४
 
 समेत्य पार्थेन यथैकरात्रम्  
-  
 
 ऊषुस्समास्तत्र तथा चतस्रः ।  
 पूर्वाश्च षट् तत्रच पाण्डवानां  
-  
 
 शिवा बभूवुर्वसतां बनेषु॥ ५
 
 ततोऽब्रवीद्वायुसुतस्तरस्वी  
-  
 
 जिष्णुश्च[^184] राजानमुपोपविश्य ।  
 यमौ च वीरौ सुरराजकल्पा-  
-  
 
 [^184]: " ख—जिष्णुंच"
 
@@ -4029,19 +3669,15 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 भीमसेनः—
 
 तव प्रतिज्ञां[^57] कुरुराज सत्यां  
-  
 
 [^57]: "अ—नास्तीदमर्धम्"
 
 चिकीर्षमाणास्त्वदनुप्रियं च ।  
 इमे हि[^186] गच्छाम वनान्यपास्य  
-  
 
 [^186]: "क-ख-घ—ततोऽभिगच्छेम"
 
 सुयोधनं सानुचरं निहन्तुम् ॥७
-
-
 
 एकादशं वर्षमिदं वसामस्  
   सुयोधनेनात्तसुखास्सुखार्हाः।  
@@ -4068,56 +3704,41 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 कीर्तिस्तु ते भारत पुण्यगन्धा  
   नश्येद्धि लोकेषु चराचरेषु।
 
-
-
 तत् प्राप्य[^18] राज्यं कुरुपुङ्गवानां  
-  
 
 [^18]: "ख—इदमर्धद्वयं नास्ति"
 
 शक्यं महत् प्राप्तुमथ क्रियाश्च ॥१२
 
 इदं तु शक्यं सततं नरेन्द्र  
-  
 
 प्राप्तुं त्वया यल्लभसे कुबेरात् ।  
 कुरुष्व बुद्धि द्विषतां वधाय  
-  
 
 कृतागसां भारत निग्रहेषु ॥१३
 
 तेजस्तवोग्रंन सहेत राजन्  
-  
 
 समेत्य साक्षादपि वज्रपाणिः।  
 न हि व्यथां जातु करिष्यतस्तौ  
-  
 
 समेत्य देवैरपि धर्मराज॥१४
 
 त्वदर्थसिद्ध्यर्थमभिप्रवृत्तौ  
-  
 
 सुपर्णकेतुश्च शिनेश्च नप्ता ।  
 यथैव कृष्णोऽप्रतिमो बलेन  
-  
 
 तथैव राजन् स शिनिप्रवीरः॥१५
 
 तवार्थसिद्ध्यर्थमभिप्रवृत्तौ
 
-  
-
 यथैव कृष्णस्सह यादवैस्तैः ।  
 तथैव चेमौ नरदेववर्य  
-  
 
 यमौ च वीरौ कृतिनौ प्रयोगे॥ १६
 
-
-
 त्वदर्थयोग[^24]प्रभवप्रधानाशd  
-  
 
 [^24]: " ख—इदमर्धं नास्ति"
 
@@ -4126,313 +3747,241 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वैशम्पायनः—
 
 ततस्तदाज्ञाय मतं महात्मा  
-  
 
 तेषां स धर्मस्य सुतो वरिष्ठः॥  
 प्रदक्षिणं स्थानमुपेत्य राजा  
-  
 
 पर्याक्रमद्वैश्रवणस्य राज्ञः ॥१७॥
 
 आमन्त्र्य वेश्मानि सरांसि नद्यस्  
-  
 
 सर्वाणि रक्षांसि स धर्मराजः ।  
 यथागतं मार्गमवेक्षमाणः  
-  
 
 पुनर्गिरिं चैव निरीक्षमाणः ॥१८॥
 
 समाप्तकर्मा सहितस्सुहृद्भिर्  
-  
 
 जित्वा सपत्नान् प्रतिलभ्य राज्यम् ।  
 शैलेन्द्र भूयस्तपसा धृतात्मा  
-  
 
 द्रष्टा तवास्मीति मतिं चकार॥१९॥
 
 वृतस्स सर्वैरनुजैर्द्विजैश्च  
-  
 
 तेनैव मार्गेण पुनर्निवृत्तः ।  
 उवाह चैनान् गणशस्तथैव[^190]  
-  
 
 [^190]: "अ—सगणा"
 
 घटोत्कचः पर्वतनिर्झरेषु ॥ २०॥
 
-
-
 तान् प्रस्थितान् प्रीतमना महर्षिः  
-  
 
 पितेव पुत्राननुशिष्य सर्वान् ।  
 स लोमशो दिवमेवोत्तमश्रीर्  
-  
 
 जगाम तेषां विजयं तथोक्त्वा॥२१॥
 
 तेनानुशिष्टास्त्वार्ष्टिषेणेन चापि  
-  
 
 तीर्थानि रम्याणि तपोवनानि ।  
 महान्ति चान्यानि सरांसि पार्थास्  
-  
 
 सम्पश्यमानाः प्रययुर्नराग्र्याः[^191]॥२२॥
 
 [^191]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
 
 नगोत्तमं प्रस्रवणैरुपेतं  
-  
 
 सदिग्गजैःकिन्नरपक्षिसङ्घैः ।  
 सुखं निवासं[^192] जहतां हि तेषां  
-  
 
 [^192]: "अ—निवासो जगतां हितैषिणां"
 
 न प्रीतिरासीद् भरतर्षभाणाम् ॥ २३॥
 
 ततस्तु तेषां पुनरेव हर्षः  
-  
 
 कैलासमालोक्य महान् बभूव ।  
 कुबेरकान्तं भरतर्षभाणां  
-  
 
 महीधरं वारिधरप्रकाशम् ॥ २४॥
 
 समुच्छ्रयान्[^33] पर्वतसन्निरोधान्  
-  
 
 [^33]: "ख—इदमर्धं नास्ति"
 
 गोष्ठान गिरीणां गिरिगह्वराणि ।
 
-
-
 बहुप्रकाराणि समीक्ष्य राजन्  
-  
 
 स्थलानि निम्नानि च तत्र तत्र॥२५॥
 
 तथैव चान्यानि महावनानि  
-  
 
 मृगद्विजानेकपसेवितानि।  
 आलोकयन्तोऽभिययुः प्रतीतास्  
-  
 
 ते धन्विनः खड्गधरा नराग्र्याः ॥२६॥
 
 वनानि रम्याणि सरांसि नद्यो  
-  
 
 गुहा गिरीणां गिरिगह्वराणि ।  
 एते निवासा[^24]स्सततं बभूवुर्  
-  
 
 [^24]: " ख—इदमर्धं नास्ति"
 
 निशामुखं प्राप्य नरर्षभाणाम्॥२७॥
 
 ते दुर्गवासं बहुधा निरुष्य  
-  
 
 व्यतीत्य कैलासमचिन्त्यरूपम् ।  
 आसेदुरत्यर्थमनोरमं तु  
-  
 
 तमाश्रमाग्र्यंवृषपर्वणस्ते ॥ २८॥
 
 समेत्य राज्ञा[^33] वृषपर्वणा ते  
-  
 
 [^33]: "ख—इदमर्धं नास्ति"
 
 प्रत्यर्चितास्तेन च वीतमोहाः  
 शशंसिरे विस्तरतः प्रवासं  
-  
 
 शिवं यथावद्वृषपर्वणस्ते ॥ २९॥
 
-
-
 सुखोषितास्तत्र त एकरात्रं  
-  
 
 पुण्याश्रमे देवमहर्षिजुष्टे ।  
 अभ्याययुस्ते बदरीं विशालां  
-  
 
 सुखेन वीराःपुनरेव वासम् ॥३०॥
 
 ऊषुस्ततस्तत्रमहानुभावा  
-  
 
 नारायणस्थानगताः नराग्र्याः।  
 कुबेरकान्तां नलिनीं विशोकास्  
-  
 
 सम्पश्यमानास्सुरसिद्धजुष्टाम् ॥ ३१॥
 
 तां चाथ दृष्ट्वा[^196] नलिनी विशोकाः  
-  
 
 [^196]: "अ-ख —नास्तीदमर्धम्"
 
 पाण्डोःसुतास्सर्वनरप्रधानाः।  
 ते रेमिरे नन्दनवासमेत्य  
-  
 
 द्विजर्षभा वीतभया यथावत्॥ ३२॥
 
 ततः क्रमेणोपययुश्च वीरा  
-  
 
 यथागतेनैव पथा नराग्र्याः।  
 विहृत्य मासं सुखिनो बदर्यां  
-  
 
 किरातराज्ञो विषयं सुबाहोः ॥३३॥
 
 चीनांस्तुषा[^33]रान् दरदान् विदर्भान्  
-  
 
 [^33]: "ख—इदमर्धं नास्ति"
 
 देशान् कुणिन्दस्य च भूरिरम्यान् ।
 
-
-
 अतीत्य दुर्गं हिमवत्प्रदेशं  
-  
 
 पुरं सुबाहोर्ददृशुर्नृवीराः ॥३४॥
 
 श्रुत्वा च तान्[^77] पार्थिव पुत्रपौत्रान्  
-  
 
 [^77]: " ख—अर्धद्वयं नास्ति"
 
 प्राप्तान सुबाहुर्विषयान् समग्रान् ।  
 प्रत्युद्ययौ प्रीतियुतस्तदानीं  
-  
 
 तं चाभ्यनन्दन् वृषभाः कुरूणाम्॥ ३५॥  
 
 समेत्य राज्ञा तु सुबाहुना ते  
-  
 
 सुतैर्विशोकप्रमुखैश्च सर्वैः ।  
 सहेन्द्रसेनैः परिचारमुख्यैः  
-  
 
 पौरोगवा ये च महानसस्थाः॥ ३६॥
 
 सुखोषितास्तत्रत एकरात्रं  
-  
 
 सूतानुपादाय रथांश्च सर्वान् ।  
 घटोत्कचं सानुचरं विसृज्य  
-  
 
 ततोऽभ्ययुर्यामुनमद्रिराजम् ॥ ३७॥
 
 तस्मिन् गिरौ प्रस्रवणोपपन्ने  
-  
 
 हिमोत्तरीयारुणपाण्डुवर्णे ।  
 विशाखयूपं समुपेत्य चक्रुस्  
-  
 
 तदा निवासं पुरुषप्रवीराः ॥३८॥
 
-
-
 वराहनानामृगपक्षिजुष्टं  
-  
 
 महावनं चैत्ररथं[^199]प्रहृष्टाः ।  
 शिवेन यात्वा मृगयाप्रधानास्  
-  
 
 [^199]: "क-ख-घ—प्रविष्टाः"
 
 संवत्सरं तत्र वने विजह्रुः॥ ३९॥
 
 तत्राससादातिबलं भुजङ्गं  
-  
 
 क्षुधार्दितं मृत्युमिवोग्ररूपम्।  
 वृकोदरः पर्वतकन्दरायां  
-  
 
 विषादमोहव्यथितान्तरात्मा॥ ४०॥
 
 द्वीपोऽभवद्यत्र वृकोदरस्य  
-  
 
 युधिष्ठिरो धर्मभृतां वरिष्ठः।  
 अमोचयच्चैनमनन्ततेजा  
-  
 
 ग्राहेण संवेष्टितसर्वकायम् ॥ ४१॥
 
 ते द्वादशं वर्षमथोपयातं  
-  
 
 वने विहर्तुं कुरवः प्रयाताः।  
 तस्माद्वनाच्चैत्ररथात् प्रहृष्टाश्  
-  
 
 श्रिया ज्वलन्तस्तपसा च युक्ताः॥ ४२॥
 
 ततः प्रयाता मरुधन्वपार्श्वं  
-  
 
 तदा धनुर्वेदरतिप्रधानाः।
 
-
-
 सरस्वतीमेत्यनिवासकामास्  
-  
 
 सरस्ततो[^200] द्वैतवनं प्रतीयुः ॥ ४३॥
 
 [^200]: "1. क-घ—निवासिनस्तत्र ततोऽभिजग्मुः; ख—सरस्तथा"
 
 श्रुत्वैव[^201] तान् द्वैतवनं प्रविष्टान्  
-  
 
 [^201]: " क-घ—नास्तीदमर्धम्"
 
 निवासिनस्तत्र ततोऽभिजग्मुः ।  
 तपोदमाचारसमाधियुक्तास्  
-  
 
 तृणोदपात्रावरणाश्मकुट्टाः ॥ ४४॥
 
 प्लक्षाह्वरा[^202]हीतकवेतसाश्च  
-  
 
 [^202]: "क-ख-घ–प्लक्षाश्च नागार्जुनवेतसाश्चमूस्नुही"
 
 स्नुही बदर्यःखदिराश्शिरीषाः।  
 बिल्वेङ्गुदाः पीलुशमीकरीरास्  
-  
 
 सरस्वतीतीररुहा बभूवुः॥ ४५॥
 
 तां यक्षगन्धर्वमहर्षिकान्ताम्  
-  
 
 अगाधभूतामिव देवतानाम्।  
 सरस्वतीं प्रीतियुताश्चरन्तस्  
-  
 
 सुखं विजह्रुर्नरदेवपुत्राः॥ ४६॥
 
@@ -4443,8 +3992,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
  \[ अस्मिन्नध्याये ४६ ॥ श्लोकाः \]  
            ———————
-
-
 
 **॥ एकोनपञ्चाशदधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1701183640Screenshot2023-11-27141111.png)  
@@ -4480,8 +4027,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 चकोरैरुपचक्रैश्च पक्षिभिर्जीवजीवकैः।
 
-
-
 कोकिलेर्भृङ्गराजैश्च तत्रतत्र विनादितान्॥ ७
 
 नित्यपुष्पफलैर्वृक्षैर् हिमसंस्पर्श[^205]कोमलैः।  
@@ -4513,8 +4058,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 त्रासनं सर्वभूतानां कालान्तकयमोपमम् ।
 
-
-
 निःश्वासक्ष्वेडनादेन भर्त्सयन्तमिवोच्छ्रितम्॥ १५
 
 स भीमं सहसाऽभ्येत्य पाण्डवं क्षुधितो भृशम्।  
@@ -4537,16 +4080,12 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 स हि प्रयत्नमकरोत् तीव्रमात्मविमोक्षणे।  
 न चैनमशकद्वीरः कथञ्चित् प्रतिबाधितुम्॥ २१
 
-
-
 इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 आरण्यपर्वणि एकोनपञ्चाशदधिकशततमोऽध्यायः ॥ १४९ ॥  
 ॥ ३६ ॥ आजगरपर्वणि द्वितीयोऽध्यायः ॥ २ ॥  
 \[ अस्मिन्नध्याये २१ श्लोकाः \]
 
 —————
-
-
 
 **॥ पञ्चाशदधिकशततमोऽध्यायः ॥**  
 
@@ -4582,8 +4121,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^210]: "क-ख-घ—निश्चिता"
 
-
-
 वृथेदं त्वयि मे नाग बलं प्रतिहतं महत्॥ ७
 
 इत्येवंवादिनं वीरं भीममक्लिष्टकारिणम् ।  
@@ -4613,8 +4150,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अहमद्योपयोक्ष्यामि विधानं पश्य यादृशम्॥ १५
 
 न हि मे मुच्यते कश्चित् कदाचिद् ग्रहणं गतः।
-
-
 
 गजो वा महिषो वाऽपि षष्ठे काले नरोत्तम ॥ १६
 
@@ -4656,8 +4191,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^215]: "ख—वसामीह बने शुभे । क-घ—ऽशुभे ।"
 
-
-
 सर्पयोनिमिमां प्राप्य कालाकाङ्क्षी महाद्युते॥ २४
 
 वैशम्पायनः—
@@ -4689,8 +4222,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^117]: "ख–इदमर्धं नास्ति"
 
 अथवा नार्जुनो धीमान् विषादमुपयास्यति।
-
-
 
 दिव्यास्त्रविदनाधृष्यो देवगन्धर्वराक्षसैः॥ ३२
 
@@ -4727,8 +4258,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 युधिष्ठिरस्तु कौन्तेयो बभूवास्वस्थचेतनः।
 
-
-
 अनिष्टदर्शनान् घोरान् उत्पातान् परिचिन्तयन्॥ ४०
 
 दारुणं ह्यशिवं नादं शिवा दक्षिणतस्स्थिता।  
@@ -4756,8 +4285,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 द्रौपद्या रक्षणं कार्यम् इत्युवाच धनञ्जयम् ।  
 नकुलं सहदेवं च व्यादिदेश द्विजान् प्रति॥ ४८
-
-
 
 स तस्य पदमुन्नीय तस्मादेवाश्रमात् प्रभुः।  
 मृगयामास[^222] कौन्तेयो भीमसेनं महावने॥ ४९
@@ -4791,8 +4318,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 युधिष्ठिरस्तमासाद्य सर्पभोगेन वेष्टितम् ।  
 भ्रातरं दयितं धीमान् इदमित्यब्रवीद् वचः॥ १
-
-
 
 युधिष्ठिरः—
 
@@ -4830,8 +4355,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ऐश्वर्यमदमत्तोऽहम् अवमत्य ततो द्विजान्।  
 इमामगस्त्येन दशाम् आनीत इति मे स्मृतिः॥ ९
 
-
-
 न तु मामजहात् प्रज्ञा यावदन्वेति पाण्डवः।  
 तस्यैवानुग्रहाद्राजन्नगस्त्यस्य महात्मनः॥ १०
 
@@ -4864,8 +4387,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 दृश्यन्ते यत्र नागेन्द्र स ब्राह्मण इति स्मृतः॥ १६
 
 वेद्यं सर्प परं ब्रह्म निर्दुःखमसुखं च यत् ।
-
-
 
 यत्र गत्वा न शोचन्ति भवतः किं विवक्षितम्॥ १७
 
@@ -4900,8 +4421,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 यदि ते वृत्ततो राजन् ब्राह्मणः प्रसमीक्षितः।
 
-
-
 वृथा[^228]जातिस्तदायुष्मन् कृतिर्या चात्र विद्यते॥ २५॥
 
 [^228]: "क-ख-घ— व्यर्थां जातिस्तदायुष्मन् जातिर्यावात्रदृश्यते ।[पाठान्तरम्]"
@@ -4934,8 +4453,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 संस्कारस्[^231]त्वत्र नागेन्द्र फलभाङ्न समीक्ष्यते ॥३२॥
 
 [^231]: " क-घ—बलवान्नासमीक्ष्यते, ख—संस्कारस्तत्रनागेन्द्र बलवान् प्रसमीक्ष्यते । [पाठान्तरम्]"
-
-
 
 यत्रेदानीं महासर्प संस्कृतं वृत्तमिष्यते ।  
 तं ब्राह्मणमहं पूर्वम् उक्तवान् भुजगोत्तम॥ ३३॥
@@ -4970,8 +4487,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अहिंसानिरतस्स्वर्गं गच्छेदिति मतिर्मम॥ २
 
 [^232]: ". ख—एतदादि अर्धचतुष्टयं नास्ति"
-
-
 
 युधिष्ठिरः—
 
@@ -5010,8 +4525,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^235]: "3. ख— तत्रैव मानुषाल्लोकात्तपोदानक्रियादिभिः ।"
 
-
-
 अहिंसार्थसमायुक्तैः कारणैस्स्वर्गमश्नुते॥ १०
 
 विपरीतैश्च राजेन्द्र कारणैर्मानुषो भवेत् ।  
@@ -5042,8 +4555,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 एतावदुच्यतां[^238] चोक्तं सर्व ब्रूहि महामते ॥ १७
 
 [^238]: "3. ख—इदमर्धं नास्ति"
-
-
 
 सर्पः—
 
@@ -5076,8 +4587,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 बुद्धिरात्मानुगा तात उत्पातेन विधीयते ।  
 तदाश्रिता हि संज्ञैषा विधिस्तस्यैषणे भवेत् ॥ २५
-
-
 
 बुद्धिरुत्पाद्यते कार्यं मनस्तूत्पन्नमेव च ।  
 बुद्धेर्गुण[^240]विधिर्नास्ति मनस्तु गुणवद्भवेत्॥ २६
@@ -5112,8 +4621,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अभिमानेन मत्तो वै कञ्चिदन्यन्नचिन्तये॥ ३३
 
 ब्रह्मर्षिदेवगन्धर्वयक्षराक्षसपन्नगाः ।
-
-
 
 वरं मम प्रयच्छन्ति सर्वे त्रैलोक्यवासिनः ॥ ३४
 
@@ -5152,8 +4659,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ब्रह्म च ब्राह्मणत्वं च येन त्वाऽहमचूचुदम्॥ ४२
 
 सत्यं दमस्तपो योगम् अहिंसा ज्ञाननित्यता।
-
-
 
 साधकानि सतां पुंसां न जातिर्न कुलं नृप॥ ४३
 
@@ -5195,8 +4700,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 मैवमित्यब्रुवन् भीमं गर्हयन्तोऽस्य साहसम्॥ ५१
 
-
-
 पाण्डवास्तु भयान्मुक्तं प्रेक्ष्य भीमं महाबलम्।
 
 हर्षमाहारयाश्चक्रुर् विजह्रुश्च मुदा युताः॥ ५२
@@ -5231,8 +4734,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^245]: "1. क-ख-घ—वलाहकाः"
 
 अपेतार्कप्रभाजालास् सविद्युन्मण्डलप्रभाः॥ ३
-
-
 
 विरूढशष्पा पृथिवी मत्तदंशसरीसृपा।
 
@@ -5272,8 +4773,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 मृगद्विजसमाकीर्णा पाण्डवानां महात्मनाम्॥ ११
 
-
-
 पश्यन्तश्शान्तरजसः क्षपाजलदशीतलाः ।  
 ग्रहनक्षत्रसङ्घैश्चसोमेन च विराजिताः॥ १२
 
@@ -5300,8 +4799,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३७ ॥ मार्कण्डेयसमास्यापर्वणि प्रथमोऽध्यायः ॥ १ ॥  
 \[अस्मिन्नध्याये १८ श्लोकाः\]  
 ————
-
-
 
 **॥ चतुःपञ्चाशदधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1701484426Screenshot2023-11-27141111.png)
@@ -5335,8 +4832,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तथैव तस्य ब्रुवतः प्रत्यदृश्यत केशवः ।  
 सैन्यसुग्रीवयुक्तेन रथेन रथिनां वरः॥ ६
 
-
-
 मघवानिव पौलोम्या सहितस्सत्यभामया ।  
 उपायादेवकीपुत्रो दिदृक्षुः कुरुसत्तमान्॥ ७
 
@@ -5363,106 +4858,79 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ततस्समस्तानि किरीटमाली  
   बनेषु वृत्तानि गदाग्रजाय।
 
-
-
 उक्त्वा यथावत् पुनरन्वपृच्छत्  
-  
 
 तस्मिन् सुभद्रां च तथाऽभिमन्युम् ॥ १४
 
 धौम्यं च कृष्णां च युधिष्ठिरं च  
-  
 
 यमौ च भीमं च दशार्हसिंहः ।  
 उवाच दिष्टया भवतां शिवेन  
-  
 
 प्राप्तः किरीटी मुदितः कृतास्त्रः॥ १५
 
 स पूजयित्वा मधुहा यथावत्  
-  
 
 पार्थांश्च कृष्णां च पुरोहितं च ।  
 उवाच राजानमभिप्रशंसन्  
-  
 
 युधिष्ठिरं तेन सहोपविश्य॥ १६
 
 श्रीभगवान्—
 
 धर्मः परः पाण्डव राज्यलाभात्  
-  
 
 तस्यादिमाहुस्तप एव राजन् ।  
 सत्यार्जवाभ्यां चरता स्वधर्मं
 
-  
-
 जितस्त्वयाऽयं च परश्च लोकः ॥ १७
 
 अधीतमग्रे[^239]चरितं व्रतं च  
-  
 
 [^239]: "1. ख—इदमर्धं नास्ति"
 
 सम्यग्धनुर्वेदमवाप्य कृत्स्नम् ।  
 क्षात्रेण धर्मेण वसूनि लब्ध्वा  
-  
 
 सर्वे ह्यवाप्ताः क्रतवः पुराणाः॥ १८
 
-
-
 न ग्राम्यधर्मेषु रतिस्तवास्ति  
-  
 
 कामान्न किश्चित् कुरुषे नरेन्द्र।  
 न चार्थलोभात् प्रजहासि धर्मं  
-  
 
 तस्मात् स्वभावादसि धर्मराजः॥ १९
 
 दानं च सत्यं च तपश्च राजन्  
-  
 
 क्षमा च शान्तिश्च दमो धृतिश्च ।  
 अवाप्य राष्ट्राणि वसूनि भोगान्  
-  
 
 एषां द्विषां पार्थरतिस्सदारैः॥ २०
 
 राज्ये निविष्टः कुरुजाङ्गलानां  
-  
 
 कृष्णां सभायामवशामपश्यत्।  
 अपेतधर्मव्यवहारवृत्तं  
-  
 
 सहेत तत् पाण्डव कस्त्वदन्यः॥ २१
 
 असंशयं सर्वसमृद्धकामः  
-  
 
 क्षिप्रं प्रजाः पालयितासि सम्यक् ।  
 अद्यैव तन्निग्रहणं कुरूणां  
-  
 
 यदि प्रतिज्ञा भवतस्समाप्ता॥ २२
 
 वैशम्पायनः—
 
 प्रोवाच कृष्णामपि याज्ञसेनीं  
-  
 
 वशार्हभर्ता सहितस्सुहृद्भिः।
-
-
 
 दिष्टया[^250] समग्राऽसि धनञ्जयेन
 
 [^250]: " 1. ख— इदमर्धं नास्ति"
-
-  
 
 समागतेत्येवमुवाच कृष्णः॥ २३
 
@@ -5470,13 +4938,9 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कृष्णे धनुर्वेदरतिप्रधानास्
 
-  
-
 सत्यव्रतास्ते शिशवस्सुशीलाः।
 
 सद्भिस्सदैवाचरितं समाधिं
-
-  
 
 चरन्ति पुत्रास्तव याज्ञसेनि॥ २४
 
@@ -5484,127 +4948,93 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^251]: "2. ख--इदमर्धंनास्ति"
 
-  
-
 पित्रा च कृष्णे तव सोदरैश्च।
 
 न यज्ञसेनस्य न मातुलानां
-
-  
 
 गृहेषु बाला रतिमाप्नुवन्ति ॥ २५
 
 आनर्तमेवाभिमुखाश्शिवेन
 
-  
-
 गत्वा धनुर्वेदरतिप्रधानाः।
 
 तवात्मजा वृष्णिपुरं प्रविश्य
-
-  
 
 न दैवतेभ्यस्स्पृहयन्ति कृष्णे॥ २६
 
 यथा त्वमेवार्हसि तेषु वृत्तिं
 
-  
-
 प्रयोक्तुमार्या च यथैवकुन्ती।
 
 तेष्वप्रमादेन सदा करोति
 
-  
-
 तथा च भूयश्च ततस्सुभद्रा॥ २७
 
-
-
 यथाऽनिरुद्धस्य यथाऽभिमन्योर्  
-  
 
 यथा सुनीथस्य यथैव भानोः ।  
 तथा विनेता च गतिश्च कृष्णे  
-  
 
 तवात्मजानामपि रौक्मिणेयः॥ २८
 
 गदासिचर्मग्रहणेषु शूरान्  
-  
 
 अस्त्रेषु शिक्षासु रथाश्वयाने ।  
 सम्यग्विनेता विनयेदतन्द्रीस्  
-  
 
 तांश्चाभिमन्युं च सदा कुमारान्॥ २९
 
 स चापि सम्यक् प्रणिधाय शिक्षां  
-  
 
 शस्त्राणि चैषां गुरुवत् प्रदाय ।  
 तवात्मजानां च तथाऽभिमन्योः  
-  
 
 पराक्रमैस्तुष्यति रोक्मिणेयः॥ ३०
 
 यथा विहारं प्रसमीक्षमाणाः  
-  
 
 प्रयान्ति पुत्रास्तव याज्ञसेनि।  
 एकैकमेषामनुयान्ति तत्र  
-  
 
 यथाश्वयानानि च दन्तिनश्च॥ ३१
 
 वैशम्पायनः—
 
 अथाब्रवीद्धर्मराजं तु कृष्णो  
-  
 
 दशार्हयोधाः कुरुजाङ्गलाश्च॥ ३१॥
 
 श्रीभगवान्—
 
 एते निदेशं तव पालयन्तस्  
-  
 
 तिष्ठन्तु यत्रेच्छसि तत्र राजन्॥ ३२
 
-
-
 आवर्ततां कार्मुकवेगवाता  
-  
 
 हलायुवप्रग्रहण मधूनाम्  
 सेना तवार्थाय नरेन्द्र यत्ता  
-  
 
 ससादिपत्त्यश्वरथा सनागा॥ ३३
 
 प्रस्थाप्यतां पाण्डव धार्तराष्ट्रस्  
-  
 
 सुयोधनः पापकृतां वरिष्ठः।  
 स सानुबन्धस्ससुहृद्गणश्च  
-  
 
 सौभस्य सौभाधिपतेश्च मार्गम् ॥ ३४
 
 कामं तथा तिष्ठ नरेन्द्र तस्मिन्  
-  
 
 यथा कृतस्ते समयस्सभायाम् ।  
 दाशार्हयोधैश्च ससादियोधं  
-  
 
 प्रतीक्षतां नागपुरं प्रभग्नम् ॥३५
 
 व्यपेतमन्युर्व्यपनीतपाप्मा  
-  
 
 विहृत्य[^252] यत्रेच्छसि तत्र कालम् ।  
 ततस्समृद्धप्रभवं विशोकः  
-  
 
 [^252]: "1. ख—अयं पादोऽनन्तरश्च न स्तः"
 
@@ -5613,11 +5043,8 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वैशम्पायनः—
 
 ततस्तदाज्ञाय मतं महात्मा  
-  
 
 यथावदुक्तः पुरुषोत्तमेन ।
-
-
 
 प्रविश्य विप्रेक्ष्य च धर्मराजः
 
@@ -5661,8 +5088,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^254]: " 2. ख— इदमर्धंनास्ति"
 
-
-
 श्रीभगवान्—
 
 शुश्रूषवः पाण्डवास्ते ब्राह्मणाश्च समागताः ।  
@@ -5696,8 +5121,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 क्षणं कुरुध्वंविपुलम् आख्यातव्यं भविष्यति॥ ४९॥
 
-
-
 वैशम्पायनः—
 
 एवमुक्ताः क्षणं चक्रुः पाण्डवास्सह तैर्द्विजैः ।  
@@ -5729,8 +5152,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अयं च देवकीपुत्रः प्राप्तोऽस्मानवलोककः ॥ ३
 
 भ्रमत्येव हि मे बुद्धिर् दृष्ट्वाऽऽत्मानं सुखाच्च्युतम् ।
-
-
 
 धार्तराष्ट्रांश्च दुर्वृत्तान् ऋद्ध्यतः प्रेक्ष्य सर्वशः॥ ४
 
@@ -5770,8 +5191,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^255]: "1. क— अर्धद्वयं नास्ति"
 
-
-
 सर्वे देवैस्समायान्ति स्वच्छन्देन नभस्स्थलम् ।  
 ततश्च पुनरायान्ति स्वर्गे छन्दविहारिणः॥ १३
 
@@ -5801,8 +5220,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अशुभैः कर्मभिश्चैव प्रायशः परिचिह्निताः॥ २०
 
 दौष्कुल्या व्याधिबहुला दुरात्मानोऽभितापिनः ।
-
-
 
 भवन्त्यल्पायुषः पापा रौद्रकर्मफलोदयाः ॥ २१
 
@@ -5837,8 +5254,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 मनुष्यास्तप्ततपसस् सर्वागमपरायणाः।
 
-
-
 स्थिरव्रतास्स[^261]त्यपरा गुरुशुश्रूषणे रताः॥ २९॥
 
 [^261]: "1. ख— एतदादि अर्धचतुष्टयं नास्ति"
@@ -5871,66 +5286,49 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 धनानि येषां विपुलानि सन्ति  
   नित्यं रमन्ते सुविभूषिताश्च ।
 
-
-
 तेषामयं शत्रुवरघ्नलोको  
-  
 
 नासौ सदा ग्राम्यसुखे रतानाम्॥ ३७॥
 
 ये योगयुक्तास्तपसि प्रसक्तास्  
-  
 
 स्वाध्यायशीला जरयन्ति देहान्।  
 जितेन्द्रिया भूतहिते निविष्टास्  
-  
 
 तेषामसौ नायमरिघ्नलोकः॥ ३८॥
 
 ये धर्ममेव प्रथमं चरन्ति  
-  
 
 धर्मेण लब्ध्वा च धनानि काले ।  
 दारानवाप्य ऋतुभिर्यजन्ते  
-  
 
 तेषामयं चैव परश्च लोकः॥ ३९॥
 
 ये नैव विद्यां न तपो न दानं  
-  
 
 न चापि मूढाः प्रजने यतन्ते ।  
 न चापि गच्छन्ति धनान्यभाग्यास्  
-  
 
 तेषामयं चैव परश्च नास्ति॥ ४०॥
 
 सर्वे भवन्तस्त्वतिवीर्यसत्त्वा  
-  
 
 दिव्यौजसस्संहननोपपन्नाः।  
 लोकादमुष्मादवनिं प्रपन्नास्  
-  
 
 स्वधीतविद्यास्सुरकार्यहेतोः॥ ४१॥  
 कृत्वैव कर्माणि महान्ति शूरास्  
-  
 
 तपोदमाचारविहारशीलाः।
 
-
-
 देवानृषीन् प्रेतगतांश्च पूर्वान्  
-  
 
 संतर्पयित्वा विधिना परेण॥ ४२॥
 
 स्वर्ग परं पुण्यकृतां निवासं  
-  
 
 क्रमेण सम्प्राप्स्यथ कर्मभिस्स्वैः।  
 माभूद्विशङ्का तव कौरवेन्द्र  
-  
 
 दृष्ट्वाऽऽत्मनःक्लेशमिमं सुखार्हाः॥ ४३॥
 
@@ -5960,8 +5358,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 उवाच सुमहातेजास् सर्वशास्त्रविशारदः॥ २
 
 [^264]: "1. अ-अर्धद्वयं नास्ति"
-
-
 
 मार्कण्डेयः—
 
@@ -6001,8 +5397,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ते तमूचुर्महात्मानं न वयं सत्क्रियां मुने ।
 
-
-
 त्वत्तोऽर्हाः कर्मदोषेण ब्राह्मणो हिंसितो हि नः ॥११
 
 तानब्रवीत् स विप्रर्षिः कथं वो ब्राह्मणो हतः ।  
@@ -6034,8 +5428,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^57]: "अ—नास्तीदमर्धम्"
 
-
-
 शुद्धाचारा[^268] अनलसाःसंध्योपासनतत्पराः ।  
 शुद्धान्नाश्शुद्धसुधना ब्रह्मचर्यव्रतान्विताः॥२०
 
@@ -6065,8 +5457,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३७ ॥ मार्कण्डेयसमास्यापर्वणि चतुर्थोऽध्यायः ॥ ४ ॥  
 \[ अस्मिन्नध्याये २५ श्लोकाः\]  
 ———
-
-
 
 **॥ सप्तपञ्चाशदधिकशततमोऽध्यायः ॥**
 
@@ -6103,8 +5493,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 स ते दास्यति राजर्षिर् यजमानोऽर्थिने धनम् ।
 
-
-
 तत आदाय विप्रर्षे प्रतिगृह्य धनं बहु॥६
 
 भृत्यान् सुतान् संविभज्य ततो व्रज यथेप्सितम् ॥६॥
@@ -6138,8 +5526,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 राजन् धन्यस्त्वमीशश्च विभुश्च प्रथमो नृपः ।  
 स्तुवन्ति त्वां मुनिगणास् त्वदन्यो नास्ति धर्मवित् ॥१३
-
-
 
 मार्कण्डेयः—
 
@@ -6180,8 +5566,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 प्रवेशःकेन दत्तोऽयम् अनयोर्वैन्यसंसदि ।
 
-
-
 उच्चैस्समभिभाषन्तौ केन कार्येण रोषितौ॥२०  
 ततः परमधर्मात्मा काश्यपस्सर्वधर्मवित् ।
 
@@ -6217,8 +5601,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 स एव शक्रश्शुऋश्च स धाता च बृहस्पतिः  
 प्रजापतिर्विराट् सम्राट् क्षत्रियो भूपतिर्नृपः ॥२७॥
 
-
-
 य एभिस्स्तूयते शब्दैः कस्तं नार्चितुमर्हति ॥२८
 
 पुरायोनिर्युधाजिच्च[^279]सुभिक्षानुचितोद्भवः ।  
@@ -6252,8 +5634,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तस्मात् तेऽहं प्रदास्यामि विविधं वसु भूरि च ।  
 दासीसहस्रं श्यामानां सुवस्त्राणामलङ्कृतम् ॥३५॥
 
-
-
 दशकोटीर्हिरण्यस्य रुक्मभारांस्तथा दश ।  
 एतद्ददामि विप्रर्षे सर्वज्ञस्त्वं हि मे मतः ॥३६॥
 
@@ -6265,7 +5645,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ततस्समभिसन्धाय वनमेवान्वपद्यत \।\।३८॥
 
 इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
-
 
 आरण्यपर्वणि सप्तपञ्चाशदधिकशततमोऽध्यायः ॥ १५७ ॥  
 ॥ ३७ ॥ मार्कण्डेयसमास्यापर्वणि पञ्चमोऽध्यायः ॥ ५ ॥  
@@ -6287,8 +5666,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 किं नु श्रेयः पुरुषस्यह शोभने  
   कथं कुर्वन् न च्यवते स्वधर्मात् ।
-
-
 
 आचक्ष्व मे चारुसर्वाङ्गि सर्व  
   त्वयाऽनुशिष्टो न च्यवेयं स्वधर्मात्॥२  
@@ -6316,86 +5693,66 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अकर्दमा मीनवत्यतीर्था  
   हिरण्मयैरावृताः पुण्डरीकैः ॥६
 
-
-
 तासां तीरेष्वासते पुण्यकर्मा  
-  
 
 महीयमानः पृथगप्सरोभिः ।  
 सुपुण्यगन्धाभिरलताभिर्  
-  
 
 हिरण्यवर्णाभिरतीव हृष्टः[^281]॥७
 
 [^281]: "घ-ष्टाः"
 
 परं लोकं गोप्रदास्त्वानुषन्ति  
-  
 
 दत्त्वा सुवर्ण सूर्यलोकं व्रजन्ति ।  
 वासो दत्त्वा चन्द्रमसस्सलोकं  
-  
 
 दत्त्वा हिरण्यममृतत्वमेति ॥८
 
 धेनुं दत्त्वा सुव्रतां साधुदोहां  
-  
 
 कल्याणवत्सामपलायिनीं च ।  
 यावन्ति रोमाणि भवन्ति तस्यास्  
-  
 
 तावद्वर्षाण्यश्नुते स्वर्गलोकम् ॥९
 
 अनड्डाहंसुत्रतं यो ददाति  
-  
 
 हलस्य वोढारमनन्तवीर्यम् ।  
 धुरंधरं बलवन्तं युवानं  
-  
 
 प्राप्नोति लोकान् दशधेनुदस्य ॥१०
 
 यस्सप्तवर्षाणि जुहोति तार्क्ष्य  
-  
 
 हव्यं तदाग्नौसुव्रतस्साधुशीलः ।  
 सप्तावरान् सप्तपूर्वान् पुनाति  
-  
 
 पितामहानात्मना कर्मभिस्स्वैः ॥११
-
-
 
 तार्क्ष्यः—
 
 किमग्निहोत्रस्य[^18] व्रतं पुराणम्  
-  
 
 [^18]: "ख—इदमर्धद्वयं नास्ति"
 
 आचक्ष्व मे पृच्छतश्चारुरूपे ।  
 त्वयाऽनुशिष्टोऽहमिहाद्य विद्यां  
-  
 
 यदग्निहोत्रस्य व्रतं पुराणम् ॥१२
 
 सरस्वती—
 
 न चाशुचिर्नाप्यनिर्णिक्तपाणिर्  
-  
 
 नाब्रह्मविजुहुयान्नाविपश्चित् ।  
 बुभुक्षवश्शुचिकामा हि देवा  
-  
 
 नाश्रद्दधानस्य हविर्जुषन्ति ॥१३  
 नाश्रोत्रियं देवहव्येषु युञ्ज्या-  
-  
 
 न्मोघं परं[^283] सिञ्चति तादृशो हि ।  
 अपूर्णमश्रोत्रियमाह[^167] तार्क्ष्य  
-  
 
 [^167]: "ख—इदमधं नास्ति"
 
@@ -6403,24 +5760,18 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 न वै तादृग्जुहुयादग्निहोत्रम् ॥१४  
 ये वै कृशानुं जुह्वति श्रद्दधानास्  
-  
 
 सत्यव्रता हुतशिष्टाशिनश्च ।  
 गवां लोकं प्राप्यते पुण्यगन्धं  
-  
 
 पश्यन्ति देवं परमं चापि सत्यम् \।\।१५
-
-
 
 तार्क्ष्यः—
 
 क्षेत्रज्ञभूतां परलोकभावे  
-  
 
 कर्मोदये बुद्धिमतां[^285] वरिष्ठाम् ।  
 प्रज्ञां च देवीं सुभगे विमृश्य  
-  
 
 [^285]: "क–ख–ध—मतिप्रविष्टाम्"
 
@@ -6429,82 +5780,64 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सरस्वती—
 
 अग्निहोत्रादहमभ्यागताऽस्मि  
-  
 
 विप्रर्षीणां संशयच्छेदनाय ।  
 त्वत्संयोगादहमेतदब्रुवं  
-  
 
 भावे स्थिता तथ्यमर्थं यथावत् \।\।१७
 
 तार्क्ष्य—
 
 न हि त्वया सदृशी काचिदस्ति  
-  
 
 विभ्राजसे ह्यतिमात्रं यथा श्रीः ।  
 रूपं च ते दिव्यमत्यन्तकान्तं  
-  
 
 प्रज्ञां च देवीं सुभगे बिभर्षि ॥१८
 
 सरस्वती—
 
 श्रेष्ठानि[^286] यानि द्विपदां वरिष्ठ  
-  
 
 [^286]: "क–ध—निष्ठा निविष्टा"
 
 यज्ञेषु विद्वन्नुपपादयन्ति ।  
 तैरेवाहं सम्प्रवृत्ता भवामि  
-  
 
 आप्यायिता रूपवती च विप्र ॥१९
 
-
-
 यच्चापि[^287] पात्रमुपयुज्यते ह  
-  
 
 [^287]: "ध—अर्धद्वयं नास्ति"
 
 वानस्पत्यमायसं पार्थिवं वा ।  
 दिव्येन रूपेण च प्रज्ञया च  
-  
 
 तैरेति सिद्धिमिति विद्धि विद्वन् ॥२०
 
 तार्क्ष्यः—
 
 इदं श्रेयः परमं मन्यमाना  
-  
 
 व्यायच्छन्ते मुनयस्सम्प्रतीताः ।  
 आचक्ष्व मे तं परमं विशोकं  
-  
 
 मोक्षं परं यं प्रविशन्ति धीराः ॥२१
 
 सरस्वती—
 
 तं वै परं वेदविदः प्रपन्नाः  
-  
 
 परं परेभ्यः प्रथितं पुराणम् ।  
 स्वाध्यायदानव्रतपुण्ययोगैस्  
-  
 
 तपोधना वीतशोका विमुक्ताः ॥२२  
 तस्याथ मध्ये वेतसः पुण्यगन्धस्  
-  
 
 सहस्रशाखो विपुलो विभाति ।  
 तस्य मूलात् सरितः प्रस्त्रवन्ति  
-  
 
 मधूदकप्रस्रवणारसुपुण्याः ॥२३
-
-
 
 शाखां शाखां महानद्यस् संयान्ति सिकतासमाः।
 
@@ -6539,8 +5872,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 बभूव मुनिशार्दूलःप्रजापतिसमद्युतिः ॥ २
 
 ओजसा तेजसा लक्ष्म्या तपसा च विशेषतः ।
-
-
 
 अतिचक्राम पितरं मनुस्स्वं च पितामहम्॥ ३
 
@@ -6582,8 +5913,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 उदकान्तमुपानीय मत्स्यं वैवस्वतो मनुः ।
 
-
-
 अरञ्जरे प्राक्षिपत् तं चन्द्रांशुसदृशप्रभम् ॥ ११
 
 स तत्र वषृधे राजन् मत्स्यः परमसत्कृतः।
@@ -6624,8 +5953,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 मनुं मत्स्यस्ततो दृष्ट्वा पुनरेवाभ्यभाषत॥ १८
 
-
-
 मत्स्यः—
 
 जय मां भगवन् साधो समुद्रमहिषीं प्रभो ।  
@@ -6659,8 +5986,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यदा समुद्रे प्रक्षिप्तस् स मत्स्यो मनुना तदा ।  
 तत एनमिदं वाक्यं स्मयमान इवाब्रवीत् ॥२५
 
-
-
 मत्स्यः—
 
 भगवन् हि कृता रक्षा त्वया सर्वा विशेषतः ।  
@@ -6693,8 +6018,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 एवमेतत् त्वया कार्यम् आपृष्टोऽसि व्रजाम्यहम् ।  
 नातिशक्यमिदं चापि वचनं ते ममापि भो ॥ ३३
 
-
-
 मार्कण्डेयः—
 
 एवं करिष्य इति तं स मत्स्यं प्रत्यभाषत ।  
@@ -6724,8 +6047,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 स ततार तया नावा समुद्रं मनुजेश्वर ।  
 नृत्यमानमिवोर्मीभिर् गर्जमानमिवाम्भसा ॥४१
-
-
 
 क्षोभ्यमाणा महावातैस् सा नौस्तस्मिन् महोदधौ ।  
 जुघूर्ण चपलेव स्त्री मत्ता परपुरञ्जय ॥ ४२
@@ -6757,8 +6078,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तच्च नौबन्धनं नाम शृङ्गं हिमवतः परम् ।  
 ख्यातमद्यापि कौन्तेय तद्विद्धि भरतर्षभ ॥ ४९
-
-
 
 अथाब्रवीदनिमिषस् तानृषीन् सहितांस्तदा ।
 
@@ -6792,8 +6111,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 इत्येतन्मात्स्यकं नाम पुराणं परिकीर्तितम् ।  
 आख्यानमिदमाख्यातं सर्वपापहरं मया ॥ ५६
 
-
-
 य इदं शृणुयान्नित्यं मनोश्चरितमादितः ।  
 स सुखी पूर्णकामार्थस् स्वर्गलोकमियान्नरः ॥५७
 
@@ -6826,8 +6143,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^302]: "ख- अर्धद्वयं नाखि"
 
-
-
 अन्तरिक्षे च लोकेऽस्मिन् देवदानववर्जिते ।  
 त्वमेव प्रलये विप्र ब्रह्माणमुपतिष्ठसे ॥ ४
 
@@ -6856,8 +6171,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एतत् प्रत्यक्षतस्सर्वं पूर्वं वृत्तं द्विजोत्तम ।  
 तस्मादिच्छाम्यहं श्रोतुं सर्वां हेत्वात्मिकीं कथाम् ॥ १२
-
-
 
 अनुभूतं[^304] हि बहुशस् त्वयैतद् द्विजसत्तम ।  
 न तेऽस्त्यविदितं किञ्चित् सर्वलोकेषु नित्यदा॥ १३
@@ -6889,8 +6202,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 त्रीणि वर्षसहस्राणि त्रेता स्यात् परिमाणतः ।  
 तस्यास्तावच्छती सन्ध्या सन्ध्यांशश्च ततः परम् ॥ २०
 
-
-
 अथ[^306] वर्षसहस्रे द्वे द्वापरं परिमाणतः ।  
 तस्यापि द्विशती सन्ध्या सन्ध्यांशश्च ततः परम् ॥ २१
 
@@ -6919,8 +6230,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 निवृत्तयज्ञस्वाध्याया पिण्डोदकविवर्जिताः ।  
 ब्राह्मणास्सर्वभक्षाश्चभवन्तीह कलौ युगे ॥ ३०
-
-
 
 अजपा ब्राह्मणास्तात शूद्रा जप्यपरायणाः ।  
 विपरीते[^5] तदा लोके पूर्वरूपक्षयङ्करे ॥ ३०
@@ -6955,8 +6264,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^310]: "ख - इदमर्धंनास्ति"
 
 [^311]: "क- ब्रह्मणा युक्तास्सर्वगाथा"
-
-
 
 रसाश्च मनुजव्याघ्र बीजं च परिहीयते ।
 
@@ -6998,8 +6305,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 पारलौकिककार्येषु प्रमत्ता भृशनास्तिकाः॥ ४६॥
 
-
-
 बहुपाषण्डसङ्कीर्णाः परान्नगुणवादिनः ।  
 आश्रमा मनुजव्याघ्र न भवन्ति युगक्षये॥ ४७
 
@@ -7031,8 +6336,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 धनं विश्वासतो न्यस्तं मिथो भूयिष्ठशो नराः ।
 
-
-
 हर्तुं[^17] व्यवसिता राजन् पापाचारसमन्विताः । ५५
 
 [^17]: "ख— इदमर्धं नास्ति"
@@ -7062,8 +6365,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ततो दिनकरैर्दीप्तैस्सप्तभिर्मनुजाधिप ।  
 पीयते सलिलं सर्वंसमुद्रेषु सरित्सु च॥ ६३
-
-
 
 यच्च[^29] काष्ठं तृणं वाऽपि शुष्कं चार्द्रं च भारत ।  
 सर्वं तद्भस्मसाद्भूतं दृश्यते भरतर्षभ॥ ६४
@@ -7095,8 +6396,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^319]: "क-ख - नास्तीदमर्धम्घ- अर्धद्वयं नास्ति"
 
-
-
 कोचद् द्विरदसङ्काशाःकारण्डवनिभास्तथा॥ ७२
 
 केचित् कमलपत्राभाः केचिदिङ्गुलसप्रभाः॥ ७२॥
@@ -7127,8 +6426,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^321]: "ख— अर्धद्वयं नास्ति"
 
 ततस्समुद्रस्स्वां वेलाम् अतिक्रामति भारत ।
-
-
 
 पर्वताश्च विशीर्यन्ते[^322] मही चापि विदीर्यते॥ ८०॥
 
@@ -7164,8 +6461,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 शाखायां तस्य वृक्षस्य विस्तीर्णायां नराधिप ।  
 पर्यङ्के पृथिवीपाल दिव्यास्तरणसंस्तृते॥ ८८॥
 
-
-
 उपविष्टं महाराज पूर्णेन्दुसदृशाननम् ।  
 फुल्लपद्मविशालाक्षं बालं पश्यामि भारत॥ ८९॥
 
@@ -7195,8 +6490,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 निर्वेदो जीविते दीर्घे मनुष्यत्वे च भारत॥ ९६॥
 
 [^326]: "अ- अर्धद्वयं नास्ति"
-
-
 
 ततो बालेन तेनास्यं सहसा विवृतं कृतम् ।  
 तस्याहमवशो यत्र दैवयोगात् प्रवेशितः॥ ९७॥
@@ -7229,8 +6522,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ततस्समुद्रं पश्मामि यादोगणनिषेवितम् ।
 
-
-
 रत्नाकरममित्रघ्न निधानं पयसां महत्॥१०४॥
 
 ततः पश्यामि गगनं चन्द्रसूर्यविराजितम् ।  
@@ -7262,8 +6553,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 महेन्द्रं चैव पश्यामि विन्ध्यं च गिरिमुत्तमम् ।  
 मलयं च महाशैलं पारियात्रंच पर्वतम्॥ ११२॥
-
-
 
 एते चान्ये च बहवो यावन्तः पृथिवीधराः ।  
 तस्योदरे मया दृष्टास् सर्वे रत्नविभूषिताः॥ ११३॥
@@ -7299,8 +6588,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अथ पश्यामि तस्याहं देहस्यान्तं न कर्हिचित् ।  
 सततं परिधावंश्च चिन्तयंश्च महाद्युते॥ १२०॥
-
-
 
 भ्रमंस्तत्र[^11]महीपाल यदा वर्षगणान् बहून् ।  
 आसादयामि नैवान्तं तस्य राजन् महात्मनः॥ १२१॥
@@ -7341,8 +6628,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 मुहूर्तादथ मे दृष्टिः प्रादुर्भूता पुनर्नवा।
 
-
-
 मायानिर्मुक्तमात्मानम् अपश्यं लब्धचेतसम्॥ १२८॥
 
 तस्य ताम्रतलौतात चरणौ सुप्रतिष्ठितौ ।  
@@ -7375,8 +6660,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 इह भूत्वा शिशुस्साक्षात् किं भवानधितिष्ठति ।  
 पीत्वा जगदिदं सर्वम् एतदाख्यातुमर्हसि॥ १३७
 
-
-
 किमर्थं च जगद्विश्वं शरीरस्थं तवानघ ।  
 कियन्तं च त्वया कालम् इह स्थेयमरिन्दम॥ १३८
 
@@ -7407,8 +6690,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 त्वत्प्रीत्या तु प्रवक्ष्यामि यथेदं विसृजाम्यहम् ॥
 
 पितृभक्तोऽसि विप्रर्षे मां चैव शरणं गतः ।
-
-
 
 अतस्तु[^17]ष्टोऽस्मि ते साक्षाद् ब्रह्मचर्यं च ते महत्॥ २
 
@@ -7442,8 +6723,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 वाराहं रूपमास्थाय मयेयं जगती पुरा ।
 
-
-
 मज्जमाना जले विप्र वीर्येणासीत् समुद्धृता॥ ११
 
 अग्निश्च बडबावक्रेभूत्वाऽहं द्विजसत्तम् ।  
@@ -7473,8 +6752,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सवनं शयनं चैव निलयं चैव विद्धि मे॥ १९
 
 कामं क्रोधं च हर्षं च भयं मोहं तथैव च ।
-
-
 
 ममैव विद्धि रोमाणि सर्वाण्येतानि सत्तम॥ २०
 
@@ -7509,8 +6786,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^5]: "ख - इदमर्धं नास्ति"
 
-
-
 सृष्ट्वा[^353] दैत्यमनुष्यांश्च गन्धर्वोरगराक्षसान् ।  
 स्थावराणि च भूतानि संहराम्यात्ममायया॥ २९
 
@@ -7543,10 +6818,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^11]: "ख – इदमर्धं नास्ति"
 
-
-
-
-
 यच्चकिञ्चित् त्वया प्राप्तं मयि[^356] क्लेशात्मकं द्विज ।  
 सुखोदयाय तत् सर्वं श्रेयसे च तवानघ॥ ३७॥
 
@@ -7575,8 +6846,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ततोऽसि वक्राद्विप्रर्षे द्रुतं निस्सारितो मया ।  
 आख्यातस्ते मया चात्मा दुर्ज्ञेयोऽपि सुरासुरैः॥ ४५॥
-
-
 
 यावत् स भगवान् ब्रह्मा न बुध्येत महातपाः ।  
 तावत् त्वमपि विप्रर्षे विस्रब्धश्वर वै सुखम्॥ ४६॥
@@ -7610,8 +6879,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एष धाता विधाता च संहर्ता चैव शाश्वतः ।
 
-
-
 श्रीवत्सवक्षा गोविन्दः प्रजापतिपतिः प्रभुः॥ ५४॥
 
 दृष्ट्वेमं वृष्णिशार्दूलं स्मृतिर्मामियमागता ।  
@@ -7642,8 +6909,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सान्त्वयामास मानार्हान् मन्यमानो यथाविधि ॥
 
 युधिष्ठिरस्तु कौन्तेयो मार्कण्डेयं महामुनिम् ।
-
-
 
 पुनः पप्रच्छ सामात्यो भविष्यां जगतो गतिम् ॥ ३
 
@@ -7680,8 +6945,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^360]: "घ —अधर्मपादविद्धस्तु"
 
-
-
 त्रेतायां द्वापरेऽर्धेन व्यामिश्रो धर्म उच्यते॥ ११
 
 त्रिभिरंशैरधर्मस्तु मनुष्यानुपतिष्ठति ।  
@@ -7711,8 +6974,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 शूद्रतुल्या भविष्यन्ति तपस्सत्यविवर्जिताः ॥ १८
 
 अन्त्या मध्या भविष्यन्ति मध्याश्चान्तावसायिनः ॥ १८॥
-
-
 
 ईदृशो भविता लोको युगान्ते पर्युपस्थिते॥ १९
 
@@ -7745,8 +7006,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 न चेष्टिं कारयिष्यन्ति योक्ष्यन्ति धुरि धेनुकाः ।
 
-
-
 एकहायनवत्सांश्च वाहयिष्यन्ति मानवाः॥ २७॥
 
 पुत्रःपितृवधं कृत्वा पिता पुत्रवधं तथा ।  
@@ -7775,8 +7034,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 न कन्यां याचते कश्चिन्नापि कन्या प्रदीयते ।  
 स्वयंग्रहा भविष्यन्ति युगान्ते पर्युपस्थिते ॥ ३६॥
-
-
 
 राजानश्चा[^365]प्यसन्तुष्टाःपरार्थान् मूढचेतसः ।  
 सर्वोपायैर्हरिष्यन्ति युगान्ते पर्युपस्थिते॥ ३७॥
@@ -7809,8 +7066,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 स्वैराहाराश्च पुरुषा योषितश्च विशां पते ।  
 अन्योन्यं न सहिष्यन्ति युगान्ते पर्युपस्थिते॥ ४५॥
 
-
-
 म्लेच्छभूतं जगत् सर्वं भविष्यति युधिष्ठिर ।  
 श्राद्धे न देवान् न पितृृंस् तर्पयिष्यन्ति मानवाः ॥ ४६॥
 
@@ -7840,8 +7095,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 क्रयविक्रयकाले च सर्वस्सर्वस्य वञ्चनाम् ।  
 युगान्ते भरतश्रेष्ठ वृत्तिलोभात् करिष्यति॥ ५४॥
 
-
-
 ज्ञानानि चाप्यविज्ञाय करिष्यन्ति क्रियास्तथा ।  
 आत्मच्छन्देन वर्तन्ते युगान्ते पर्युपस्थिते ॥ ५५॥
 
@@ -7869,8 +7122,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 दस्युभिः पीडिता राजन् काका इव द्विजातयः ।  
 कुराजभिश्च सततं करभारप्रपीडिताः॥ ६२॥
-
-
 
 धैर्यं त्यक्त्वा महाराज दारुणे युगसङ्क्षये ।  
 विकर्माणि करिष्यन्ति शूद्रान्नपरि[^370]चारकाः॥ ६३॥
@@ -7904,8 +7155,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 प्रजास्यति नरश्रेष्ठ तदा सङ्क्षेप्स्यतेयुगम्॥ ७०
 
 अकालवर्षी पर्जन्यो भविष्यति युगक्षये ॥ ७०॥
-
-
 
 अक्रमेण[^18] मनुष्याणां भविष्यन्ति तदा क्रियाः॥ ७१
 
@@ -7942,10 +7191,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 उल्कापाताश्च[^378] बहवो महाभयनिदर्शकाः ।
 
 [^378]: "घ–अर्धचतुष्टयं नास्ति"
-
-
-
-
 
 षड्भिर[^321]न्यैश्च सहितो भास्करः प्रतपिष्यति॥ ७९
 
@@ -7987,9 +7232,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^385]: "क-घ—अर्धचतुष्टयं नास्ति"
 
-
-
-
 अथ देशान्[^386] दिशश्चैव पत्तनानि पुराणि च ।  
 क्रमशस्संश्रयिष्यन्ति युगान्ते पर्युपस्थिते॥ ८७॥
 
@@ -8023,8 +7265,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कल्की विष्णुयशा नाम द्विजः कालप्रचोदितः ।
 
-
-
 उत्पत्स्यते महावीर्यो महाबुद्धिपराक्रमः॥ ९५
 
 सम्भूतश्शम्बलग्रामे ब्राह्मणावसथे शुभे ।  
@@ -8049,8 +7289,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३७ ॥ मार्कण्डेयसमास्यापर्वणि दशमोऽध्यायः ॥ १० ॥  
 \[अस्मिन्नध्याये १०० श्लोकाः \]  
 ————
-
-
 
 **॥ त्रिषष्ट्यधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1703431668Screenshot2023-12-06202024.png)  
@@ -8084,8 +7322,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 विक्रोशमानान्सुभृशं दस्यून् नेष्यति सङ्क्षयम्॥ ६
 
 ततोऽधर्मविनाशो वै धर्मवृद्धिश्च भारत ।
-
-
 
 भविष्यति कृते प्राप्ते क्रियावांश्च जनस्तथा॥ ७
 
@@ -8121,8 +7357,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 एतत् ते सर्वमाख्यातम् अतीतानागतं मया।  
 वायुप्रोक्तमनुस्मृत्य पुराणमृषिसंस्मृतम् ॥ १५
 
-
-
 एवं संसा[^29]रमार्गा मे बहुशश्चिरजीविनः ।  
 दृष्टाश्चैवानुभूताश्च किं भूयश्श्रोतुमिच्छसि॥ १६॥
 
@@ -8156,8 +7390,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 घर धर्मं त्यजाधर्मं पितॄन् पूर्वाननुस्मर।  
 प्रमादाद्यत् कृतं तेऽभूत् सम्यग्दानेन तज्जय॥ २३॥
-
-
 
 अलं ते मानमाश्रित्य सततं प्रियवाग्भव ।  
 विजित्य पृथिवीं सर्वां मोदमानस्सुखी भव॥ २४॥
@@ -8194,8 +7426,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^401]: "क-ख— इदमर्धद्वयं नास्ति"
 
-
-
 करिष्यामि हि तत् सर्वम् उक्तं यत् ते प्रियं प्रभो ॥ ३१॥
 
 वैशम्पायनः—
@@ -8225,8 +7455,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 भूय एव ब्राह्मणमाहात्म्यं भगवान् वक्तुमर्हतीत्यब्रवीत् पाण्डवेयो मार्कण्डेयम्॥ १
 
-
-
 अथाचष्ट मार्कण्डेयः ॥ २
 
 अयोध्यायामिक्ष्वाकुकुलोत्पन्नः पार्थिवः परीक्षिन्मृगयामगमत्॥ ३
@@ -8249,8 +7477,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अथापश्यत्[^405]")कन्यां परमदर्शनीयां पुष्पाण्यवचिन्वतीं गायन्ती नृत्यन्तीं व साऽथ राज्ञः समीपमुपाक्रामत् ॥ ९
 
 [^405]: "(९ तमवाक्ये गायन्तीं नृत्यन्तीं चेतिपदत्रयं नास्ति घकोशे
-
-
 
 तामब्रवीत्[^406]") स राजा काऽसि सुभगे कस्य त्वमिति॥
 
@@ -8276,8 +7502,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अथ प्रधानामात्यस्तस्या अभ्याशचराः स्त्रियोऽपृच्छत् किमत्र प्रयोजनं वर्तते इति ॥॥ १९
 
-
-
 थाब्रुवस्ताःस्त्रियः अपूर्वमिव पश्याम उदकं नात्र नीयत इति ॥ २०
 
 अथामात्योऽनुदकं वनं कारयित्वोदारपृक्षं बहुपुष्पफलमूलंरह उपलभ्य[^408] राजानमिदमब्रवीत् ॥वनमिदमुदारम-नुदकं साध्वत्र सहैतया गम्यतामिति ॥ २१
@@ -8297,8 +7521,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^409]: "घ — (“न पुनरुदकादुदमज्जत्” इति वाक्यं घकोशे न
 
 तां स मृगयमाणो राजा नापश्यद्वापीमपि निस्स्राव्य मण्डूकं श्वभ्रमुखे दृष्ट्वा क्रुद्ध आज्ञापयामास स राजा ॥ सर्वत्र मण्डूकवधः क्रियतामिति । योऽयमर्थी स मण्डूकै रुपायनैर्मामुपतिष्ठेदिति॥ २८
-
-
 
 अथ मण्डूकवधे घोरे क्रियमाणे दिक्षु सर्वासु मण्डूकान् भयमाविशत्। ते भीता मण्डूकराजाय यथावृत्तं न्यवेदयन्॥ततो मण्डूकराट् तापसवेषधारी राजानमभ्यगच्छत् ॥
 
@@ -8321,8 +7543,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^412]: "ख- एतैर्हि दुरात्मभिः प्रिया मे भक्षिता तस्मान्नार्हसि विद्वन्मामुपरोद्धुमिति ॥ (पाठान्तरम्
 
-
-
 स तद्वाक्य[^413]मुपलभ्य व्यथितेन्द्रियमनाः प्रोवाच – प्रसीद राजन्नहमायुर्नाम मण्डूकराजो मम सा दुहिता संशोभना नाम तस्या दौश्शील्यमेतत् बहवस्तया राजानो विप्रलब्धपूर्वा इति ॥
 
 [^413]: "ख— स चोवाचाहमायुर्नाम मण्डुकराजः । मम सा दुहिता शोभना । तस्या दौश्शील्यमेतत् । बहवो हि तथा विप्रलब्धपूर्वाइति"
@@ -8344,8 +7564,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अथ कस्यचित् कालस्य तस्यां कुमारास्त्रयस्तस्य राज्ञस्सम्बभूवुः शलो दलो बलश्चेति ॥ ४१  
 ततस्तेषां ज्येष्ठं शलं समये पिता राज्येऽभिषिच्य तपसि धृतात्मा वनं जगाम ॥ ४२
 
-
-
 अथ कदाचिच्छलो मृगयामचरत्; मृगं चानासाद्य रथेनान्वधावत् ; सूतं चोवाच शीघ्रं मां वाहयस्वेति ॥ ४३
 
 स तथोक्तस्सूतो राजानमब्रवीत् — मा क्रि[^415]यतामनुबन्धो नैष शक्यस्त्वया ग्रहीतुं यद्यपि ते रथे युक्तौ बाम्यौस्यातामिति॥
@@ -8366,8 +7584,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ब्राह्मणाय नैतौप्रतिदेयौ वामदेवायेत्युक्त्वा मृगमवाप्य स्वनगरमेत्याश्वावन्तःपुरेऽस्थापयत् ॥
 
 [^416]: "ख— यमिहावयो + प्रदेयौवामदेवायेति तं मृगमवाप्य नगरमेत्या + त्"
-
-
 
 अथर्षिश्चिन्तयामास – तरुणो राजपुत्रः कल्याणं [पुरमासाद्य](http://# "क-ख-घ—अश्वरत्नमासाद्य")रमते न मे वाम्यो निर्यातयत्यहो कष्टमिति ॥ ५१
 
@@ -8392,8 +7608,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अनड्वाहौ सुव्रतौ साधु दान्ता-  
   वेतद्विप्राणां वाहनं वामदेव।
-
-
 
 ताभ्यां याहि त्वं यत्र कामो महर्षे
 
@@ -8427,10 +7641,7 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ये त्वां विदुर्ब्राह्मणा वामदेव  
   वाचा हन्तुं मनसा कर्मणा वा ।
 
-
-
 ते त्वां[^417]सशिष्यमिह पातयन्तु  
-  
 
 [^417]: "क – तवासहिष्यामिह,घ—न त्वा सहिष्यामिह, ख—न त्वा हिंसामीह विप्राग्र्यदेव नराश्च मे शितशूलाग्रहस्ताः ।"
 
@@ -8439,18 +7650,15 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वामदेवः—
 
 नानुयोगा ब्राह्मणानां भवन्ति  
-  
 
 वाचा राजन् मनसा कर्मणा वा ।  
 यस्त्वेवं ब्रह्म तपसाऽन्वेति विद्वांस्  
-  
 
 तेन श्रेष्ठो भवति हि जीवमानः॥ ६३
 
 मार्कण्डेयः—
 
 एवमुक्ते वामदेवेन राजन्  
-  
 
 समुत्तस्थू राक्षसा घोररूपाः ।  
 तैश्शूलहस्तैर्वध्यमानस्स राजा  
@@ -8459,78 +7667,60 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 राजा—
 
 इक्ष्वाकवो वा यदि मां त्यजेयुर्  
-  
 
 ये ते विधेया यदि मन्ये विशश्च ।  
 नोत्स्रक्ष्येऽहं वामदेवाद्य वाम्यौ  
-  
 
 नैवंविधा धर्मशीला भवन्ति ॥ ६५
 
 मार्कण्डेयः—
 
 एवं ब्रुवन्नेव स यातुधानैर्  
-  
 
 हतो जगामाशु महीं क्षितीशः ।
 
-
-
 ततो विदित्वा नृपतिं निपातितम्  
-  
 
 इक्ष्वाकवो वै दलमभ्यंषिञ्चन्॥ ६६
 
 राज्ये तदा तत्र गत्वा स विप्रः  
-  
 
 प्रोवाचेदं वचनं वामदेवः ।  
 दलं राजानं ब्राह्मणानां हि देयम्  
-  
 
 एवं राजन् सर्वधर्मेषु विष्टम्॥ ६७
 
 बिभेषि चेत् त्वमधर्मान्नरेन्द्र  
-  
 
 प्रयच्छ मे शीघ्रमेवाद्य वाम्यौ ।  
 एतच्छ्रुत्वा वामदेवस्य वाक्यं  
-  
 
 स पार्थिवस्सूतमुवाच रोषात्॥ ६८
 
 दलः—
 
 एनं हि मे सायकं चित्ररूपं  
-  
 
 दिग्धं विषेणाहर सङ्गृहीतम् ।  
 येन विद्धो वामदेवश्शयीत  
-  
 
 सन्दश्यमानश्श्वभिरार्तरूपः॥ ६९
 
 वामदेवः—
 
 जानामि पुत्रं दशवर्षं तवाहं  
-  
 
 जातं महिष्यां सेनजितं नरेन्द्र।  
 तं वै जहि त्वं मद्वचनात् प्रणुन्नस्  
-  
 
 तूर्णं प्रियं सायकैर्घोररूपैः ॥ ७०
-
-
 
 मार्कण्डेयः—
 
 एवमुक्तो वामदेवेन राज-  
-  
 
 न्नन्तःपुरे राजपुत्रं जघान।  
 स सायक[^5]स्तिग्मतेजा विसृष्टश्  
-  
 
 [^5]: "ख - इदमर्धं नास्ति"
 
@@ -8539,99 +7729,79 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 दलः—
 
 इक्ष्वाकवो हन्त चरामि वः प्रियं  
-  
 
 निहन्म्यहं विप्रमद्य प्रमध्य ।  
 आनीयतामपरं तिग्मवेगं  
-  
 
 पश्यध्वं मे वीर्यमद्य क्षितीशाः॥ ७२
 
 वामदेवः—
 
 यत् त्वमेनं सायकं घोररूपं  
-  
 
 विषेण दिग्धं मम सन्दधासि।  
 न त्वेतं त्वं शरवर्यं विमोक्तं  
-  
 
 सन्धातुं वा शक्ष्यसे मानवेन्द्र॥ ७३
 
 राजाः—
 
 इक्ष्वाकवः[^419] पश्यत मां गृहीतं  
-  
 
 [^419]: "ख- नास्तीदं पद्यम्"
 
 न चैव शक्नोम्येष शरं विमोक्तुम् ।  
 न चास्य नाशमहमभ्युत्सहामि  
-  
 
 आयुष्मान् वै जीवतु वामदेवः॥ ७४
-
-
 
 वामदेवः—
 
 संस्पृश्यैनां महिषीं सायकेन  
-  
 
 ततस्तस्मादेनसो मोक्ष्यसे त्वम् ॥
 
 मार्कण्डेयः—
 
 ततस्तु तत् कृतवान् पार्थिवस्तु  
-  
 
 ततो मुनिं राजपुत्री बभाषे ॥ ७५
 
 राजपुत्री—
 
 यथा[^420]")युक्ता वामदेवाहमेवं  
-  
 
 [^420]: "ख-यथायुक्तं वामदेवाहंसि त्वं दिने दिने कुर्मि विप्रप्रशंसाम्। ब्राह्मणेभ्यः प्रणमामि नित्यं यथा ब्रह्मन् पुण्यलोकाँल्लभेयम् ॥ (पाठान्तरम्
 
 दिने दिने सा विशन्ती नृशंसम् ।  
 ब्राह्मणेभ्यो गायती सूनृतानि  
-  
 
 तथा ब्रह्मन् पुण्यलोकं लभेयम्॥ ७६
 
 वामदेवः—
 
 त्वया त्रातं राजकुलं शुभेक्षणे  
-  
 
 वरं वृणीष्वाप्रतिमं ददानि ते ।  
 प्रशाधीमं स्वजनं राजपुत्रि  
-  
 
 इक्ष्वाकुराज्यं सुमहच्चाप्यनिन्द्ये॥ ७७
 
 राजपुत्री—
 
 वरं वृणे भगवन्नेकमेवं  
-  
 
 विमुच्यतां किल्बिषादद्य भर्ता ।  
 शिवेन जीवामि सपुत्रबान्धवं  
-  
 
 वरो वृतो ह्येष मया द्विजाग्ग्य॥ ७८
-
-
 
 मार्कण्डेयः—
 
 श्रुत्वा वचस्स मुनी राजपुत्र्यास।  
-  
 
 तथाऽस्त्विति प्राह कुरुप्रवीर॥  
 ततस्स राजा मुदितो बभूव  
-  
 
 वाम्यौ चास्मै प्रददौ सम्प्रणम्य॥ ७९
 
@@ -8654,9 +7824,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^421]: "क-ख-घ— मृषिं पाण्डवाः परिवृत्य इन्द्रद्युम्नोपाख्यानं अपृच्छन् । अस्ति कश्चिद् भगवतश्चिरजाततर इति ।"
 
 सतानुवाच —अस्ति खलु राजर्षिरिन्द्रद्युम्नोनाम क्षीणपुण्यस्त्रिदिवात् प्रच्युतः कीर्तिस्तस्य विच्युतेति स मामुपातिष्ठदथ प्रत्यभिजानाति मां भवानिति॥ २  
-
-
-
 
 तमहमब्रवं[^422] वयं रसायनिकाःशरीरोपतापेनात्मनस्समारभामहे; तथाऽर्थानामनुष्ठानमेव न भवन्तं प्रत्यभिजानीम इति ॥
 
@@ -8683,8 +7850,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तत इन्द्रद्युम्नो मामुलूकं चादाय तत् सरोऽगच्छत्; यत्रासौ नालीकजङ्घोनाम बको बभूव॥ ११
 
-
-
 सोऽस्माभिः पृष्टः – भवानिममिन्द्रद्युम्नं राजानं प्रत्यभिजानातीति ॥ १२
 
 स एवमुक्तो मुहूर्तं ध्यात्वाऽब्रवीत् – नाभिजानामि भवन्तमिन्द्रद्युम्नं राजानमिति॥ १३
@@ -8705,8 +7870,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अहं ह्यनेन सहस्रकृत्वः पूर्वमग्निचितिषूपहितः॥ १९
 
 [^426]: "ख- बाष्पाम्बुपूर्णनयनःप्राञ्जलिरब्रवीत् । किमेनं न प्रत्यभिजा- नामि । अहं"
-
-
 
 सरश्चेदमस्य दक्षिणोदकदत्ताभिर्गोभिरतिक्रममाणाभिः कृतम्; अत्र चाहं प्रतिवसामीति॥ २०
 
@@ -8730,8 +7893,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 एवं मयाऽ[^428]नुभूतं चिरजीविना दृष्टमिति पाण्डवानुवाच मार्कण्डेयः॥२७
 
 [^428]: "2. अ–एवं तं स्वस्थाने पुनस्स्वर्गं प्रतिपादयतेति ॥"
-
-
 
  तमृषिं[^429] पाण्डवाश्चोचुः – प्रीतास्साधु शोभनं कृतं भवता; राजानमिन्द्रद्युम्नं स्वर्गलोकाच्च्युतं पुनः स्वर्गलोकं प्रतिपादयतेति ॥ २८
 
@@ -8762,8 +7923,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 युधिष्ठिरः—
 
 विदितास्तव धर्मज्ञ देवदानवराक्षसाः ।
-
-
 
 राजवंशाश्च विविधा ऋषिवंशाश्च शाश्वताः ॥ २
 
@@ -8798,8 +7957,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 उदङ्कस्तु महातेजास् तपोऽतप्यत् सुदुश्चरम् ।  
 आरिराधयिषुर्विष्णुं बहून् वर्षगणान् विभो॥ १०
 
-
-
 तस्य प्रीतस्स भगवान् साक्षाद्दर्शनमेयिवान् ।  
 दृष्ट्वा मह[^17]र्षिर्विष्णुं तु तुष्टाव विविधैस्स्तवैः॥ ११
 
@@ -8830,8 +7987,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 भयानामपनेताऽसि त्वमेकः पुरुषोत्तम॥ १८
 
 देवानां मानुषाणां च सर्वभूतसुखावहः ।
-
-
 
 त्रिभिर्विक्रमणैर्देव त्रयो लोकास्त्वया वृताः॥ १९
 
@@ -8876,8 +8031,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यदि मे भगवन् प्रीतः पुण्डरीकनिभेक्षण।  
 धर्मे सत्ये दमे चैव बुद्धिर्भवतु मे सदा॥ २६॥
 
-
-
 अभ्यासश्च भवेद्भक्त्यात्वयि नित्यं महेश्वर॥ २७
 
 श्रीभगवान्—
@@ -8910,8 +8063,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 शशादस्य तु दायादः ककुत्स्था नाम वीर्यवान् ।  
 अनेनाश्चापि काकुत्स्थः पृथुश्चानेनसस्सुतः॥ ३४
-
-
 
 विष्वगश्वः पृथोःपुत्रस् तस्मादार्द्रस्तु जज्ञिवान्।  
 आर्द्राद् युवनाश्वस्तु श्रावस्तस्तस्य चात्मजः॥ ३५
@@ -8946,8 +8097,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 भवता रक्षणं कार्यं तत् तावत् कर्तुमर्हसि ।
 
-
-
 निरुद्विग्नावयं राजंस् त्वत्प्रसादाद्वसेमहि॥४३
 
 त्वया हि पृथिवी राजन् रक्ष्यमाणा महात्मना ।  
@@ -8981,8 +8130,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 शेते स लोकनाशाय तप आस्थाय दारुणम् ।
 
-
-
 त्रिदशानां विनाशाय लोकानां चापि पार्थिव॥ ५१॥
 
 अवध्यो दैवतानां हि दैत्यानामथ रक्षसाम् ।  
@@ -9015,8 +8162,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 समरे घोरतुमुलेविनाशय महेषुणा॥ ५९॥
 
 [^446]: "ख – तं नाश यमहेषुणा।मध्ये अर्धं नास्ति"
-
-
 
 त्वं हि तस्य विनाशाय पर्याप्त इति मे मतिः ।  
 तेजसा तव तेजश्च विष्णुराप्यायययिष्यति॥ ६०॥
@@ -9052,8 +8197,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 स एवमुक्तो राजर्षिर् उदङ्केनापराजितः ।  
 उदङ्कं कौरवश्रेष्ठ कृताञ्जलिरथाब्रवीत्॥ १
 
-
-
 बृहदश्वः—
 
 न हि मे गमनं ब्रह्मन् मोघमेतद्भविष्यति ।  
@@ -9085,8 +8228,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^448]: "(“एवं वीर्यबल ”इत्यादि अर्धत्रयं ककोशे न
 
 एतदिच्छामि भगवन् याथातथ्येन वेदितुम्।
-
-
 
 सर्वमेव महाप्राज्ञ विस्तरेण तपोधन॥ ९
 
@@ -9121,8 +8262,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 कस्यचित्त्वथ कालस्य दानवौ वीर्यसत्तमौ ।  
 मधुश्च कैटभश्चैव दृष्टवन्तौ हरिं प्रभुम्॥ १७
 
-
-
 शयानं शयने दिव्ये नागभोगे महाद्युतिम् ।  
 बहुयोज[^17]नविस्तीर्णे बहुयोजनमायते॥ १८
 
@@ -9155,8 +8294,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 आवांवरय देव त्वं वरदौ स्वस्सुरोत्तम ।  
 दातारौ स्वो वरं तुभ्यं तद्ब्रवीह्यविचारयन्॥ २५॥
-
-
 
 श्रीभगवान्—
 
@@ -9191,8 +8328,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 बाढमेवं करिष्यामि सर्वमेतद्भविष्यति॥ ३३
 
-
-
 चिन्तयन्नथ गोविन्दो नापश्यत् तदनावृतम् ।  
 अवकाशं पृथिव्यां वा दिवि वा मधुसुदनः॥ ३४
 
@@ -9223,8 +8358,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अतिष्ठदेकपादेन कृशो धमनिसन्ततः॥ १॥
 
 तस्मै ब्रह्मा ददौ प्रीतो वरं वव्रे स च प्रभुम्॥ २
-
-
 
 धुन्धुः—
 
@@ -9263,8 +8396,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^458]: "ख – इदमर्धद्वयं नास्ति"
 
-
-
 सहस्रैरेकविंशत्या पुत्राणामरिमर्दनः ।  
 प्रायादुदङ्कसहितो धुन्धोस्तस्य वधाय वै॥ ११॥
 
@@ -9298,8 +8429,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 नारायणेन कौरव्य तेजसाऽऽप्यायितस्तदा ।  
 स गत्वा नृपतिः क्षिप्रं पुत्रैस्तैस्सर्वतो दिशम्॥ १९
 
-
-
 अर्णवं खानयामास कुवलाश्वो महीपतिः ।  
 हितार्थं सर्वलोकानाम् उदङ्कस्य वशे स्थितः॥ २०
 
@@ -9331,8 +8460,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 मुखजेनाग्निना क्रुद्धो लोकानुद्वर्तयन्निव॥ २७
 
 क्षणेन राजशार्दूल पुरेव कपिलः प्रभुः ।
-
-
 
 सगरस्यात्मजान् क्रुद्धस् तदद्भुतमिवाभवत्॥ २८
 
@@ -9374,8 +8501,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तथाऽस्त्विति ततो देवैः प्रीतैरुक्तस्स पार्थिवः ।
 
-
-
 ऋषिभिश्च सगन्धर्वैर् उदङ्केन च धीमता॥ ३७॥
 
 सम्भाज्य[^294] चैनं विविधैर् आशीर्वादेस्ततौ नृपम् ।  
@@ -9412,8 +8537,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३७ ॥ मार्कण्डेयसमास्यापर्वणि षोडशोऽध्यायः ॥ १६ ॥  
 \[अस्मिन्नध्याये ४५ श्लोकाः\]  
 ———
-
-
 
 **॥ एकोनसप्तत्यधिकशततमोऽध्यायः ॥**  
 
@@ -9454,8 +8577,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^473]: "क-घ-स्थिरास्स्त्रियः"
 
-
-
 भगवन् दुष्करं ह्येतत् प्रतिभाति मम प्रभो ।  
 मातापितॄणां शुश्रूषा स्त्रीणां भर्तृषु च द्विज॥ ७॥
 
@@ -9488,8 +8609,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एतदिच्छामि भगवन् प्रश्नं प्रश्नविदां वर ।
 
-
-
 श्रोतुं भृगुकुलश्रेष्ठ शुश्रूषे तब सुव्रत॥ १५॥
 
 मार्कण्डेयः—
@@ -9520,8 +8639,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 नैव यज्ञक्रियाः काश्चिन्न श्राद्धं नोपवासकम्।  
 या तु भर्तरि शुश्रूषा तथा स्वर्गमुपाश्नुते॥ २३॥
 
-
-
 एतत् प्रकरणं राजन्नधिकृत्य युधिष्ठिर ।  
 पतिव्रतानां नियतं धर्मं चावहितशृणु॥ २४॥
 
@@ -9549,8 +8666,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 स वृक्षमूले कस्मिंश्चिद् वेदानुच्चारयन्स्थितः[^479]॥ २
 
 [^479]: "क-ख-घ—द्विजः"
-
-
 
 उपरिष्टाच्च वृक्षस्य बलाका संन्यलीयत ।  
 तया पुरीषमुत्सृष्टं ब्राह्मणस्य तदोपरि ॥ ३
@@ -9585,8 +8700,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सा तु दृष्ट्वा पतिं साध्वी ब्राह्मणं व्यपहाय तम्।  
 पाद्यमाचमनीयं वै ददौ भर्त्रे तदाऽऽसनम्॥ ११
 
-
-
 प्रह्वा[^480]पर्यचरच्चाथ भर्तारमसितेक्षणा ।  
 आहारेणाथ भक्ष्यैश्च वाक्यैस्सुमधुरैस्तथा॥ १२
 
@@ -9618,8 +8731,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 मार्कण्डेयः—
 
 ब्राह्मणं क्रोधसन्तप्तं ज्वलन्तमिव तेजसा ।
-
-
 
 दृष्ट्वा साध्वी मनुष्येन्द्र सान्त्वपूर्वं वचोऽब्रवीत्॥ २०
 
@@ -9656,8 +8767,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कस्तान् परिभवेन्मूढो ब्राह्मणानमितौजसः॥ २७॥
 
-
-
 ब्राह्मणानां परिभवाद् वातापिश्च दुरात्मवान् ।  
 अगस्त्यमृषिमासाद्य जीर्णः क्रूरो महासुरः॥ २८॥
 
@@ -9686,8 +8795,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 कामक्रोधौ वशौ यस्य तं देवा ब्राह्मणं विदुः॥ ३५॥
 
 [^484]: "अ-अर्धद्वयं नास्ति"
-
-
 
 योऽध्यापयेदधीयेद्वा[^485] याजयेत यजेत वा ।  
 दद्याद्वाऽपि यथाशक्ति तं देवा ब्राह्मणं विदुः॥ ३६॥
@@ -9719,8 +8826,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 मातापितृभ्यां शुश्रूषुस् सत्यवादी जितेन्द्रियः।  
 मिथिलायां वसन् व्याधस् स ते धर्मान् प्रवक्ष्यति ॥ ४३॥
 
-
-
 तत्र गच्छस्व भद्रं ते यथाकामं द्विजोत्तम ।  
 व्याधः परमधर्मात्मा स ते च्छेत्स्यति संशयान्॥ ४४॥
 
@@ -9750,8 +8855,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३७ ॥ मार्कण्डेयसमास्यापर्वणि अष्टादशोऽध्यायः ॥ १८ ॥  
 \[अस्मिन्नध्याये ४८॥ लोकाः\]  
 —————
-
-
 
 **॥ एकसप्तत्यधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1701523074Screenshot2023-12-02184735.png)
@@ -9784,8 +8887,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अतिक्राममरण्यानि ग्रामांश्च नगराणि च।  
 ततो जगाम मिथिलां जनकेन सुरक्षिताम्॥ ५॥
 
-
-
 धर्मसेतुस[^17]माकीर्णां यज्ञोत्सववर्तीशुभाम् ।  
 गोपुराट्टालकवर्ती हर्म्यप्राकारशोभिताम्॥ ६॥
 
@@ -9817,8 +8918,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एकपत्न्या यदुक्तोऽसि गच्छ त्वं मिथिलामिति ।  
 जानाम्येतदहं सर्वं यदर्थं त्वमिहागतः॥ १४
-
-
 
 मार्कण्डेयः—
 
@@ -9855,8 +8954,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 धात्रा तु विहितं पूर्वं कर्म स्वं पालयाम्यहम्।  
 प्रयत्नाच्चगुरूवृद्धौ शुश्रूषेऽहं द्विजोत्तम॥ २२
 
-
-
 सत्यं वदे नाभ्यसूये यथाशक्ति ददामि च ।  
 देवतातिथिभृत्यानाम् अवशिष्टेन वर्तये॥ २३
 
@@ -9892,8 +8989,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^497]: "अ-घ—नास्तीदमर्धम्"
 
-
-
 राजानो हि स्वधर्मेण श्रियमिच्छन्ति भूयसीम् ।  
 सर्वेषामेव वर्णानां त्राता राजा भवत्युत॥ ३२
 
@@ -9924,8 +9019,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ये चैव मां प्रशंसन्ति ये च निन्दन्ति मानवाः।  
 सर्वान् सुपरिणीतेन कर्मणा योजयाम्यहम्॥ ४०
-
-
 
 ये जीवन्ति[^29] स्वधर्मेण सम्भुज्यन्ते च पार्थिवाः ।
 
@@ -9959,8 +9052,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 महादृतिरिवाध्मातः पापो भवति नित्यदा ।  
 साधुस्सन्नतिमानेव सर्वत्र द्विजसत्तम॥ ४९
 
-
-
 मूढानामवलिप्तानाम् असारं भाषितं भवेत् ।  
 दर्शयन्त्य[^33]न्तरात्मानं दिवा रूपमिवांशुमान्॥ ५०
 
@@ -9991,8 +9082,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 चिकीर्षन्नेव कल्याणं श्रद्दधानोऽनसूयकः॥ ५६
 
 वसनस्येव च्छिद्राणि साधूनां विवृणोति यः ।
-
-
 
 अपश्यन्नात्मनो दोषान् स पापः प्रेत्य नश्यति॥ ५७
 
@@ -10033,8 +9122,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^274]: "घ—अर्धद्वयं नास्ति"
 
-
-
 पञ्चैतानि पवित्राणि शिष्टाचारेषु नित्यदा॥ ६५
 
 कामक्रोधौ[^509]वशे कृत्वा दम्भं लोभेमनार्जवम् ।  
@@ -10069,8 +9156,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^33]: "ख—इदमर्धं नास्ति"
 
-
-
 नास्तिकान् भिन्नमर्यादान् क्रूरान् पापमतौ स्थितान् ।  
 त्यज ताञ् ज्ञानमाश्रित्य धार्मिकानुपसेव्य च॥ ७४
 
@@ -10102,8 +9187,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 त्रैविद्यवृद्धा[^514]श्शुचयो वृत्तवन्तो यशस्विनः।
 
 [^514]: "ख – अर्धचतुष्टयं नास्ति"
-
-
 
 गुरुशुश्रूषवो दान्ताश् शिष्टाचारा भवन्त्युत॥ ८२॥
 
@@ -10139,8 +9222,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^518]: "अ-ख—अर्धचतुष्टयं नास्ति"
 
-
-
 दातारस्संविभक्तारो दीनानुग्रहकारिणः ।  
 सर्वभूतदयावन्तस् ते शिष्टाशिष्टसम्मताः ॥ ९१॥
 
@@ -10169,8 +9250,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अनसूया क्षमा शान्तिस् सन्तोषःप्रियवादिता।  
 कामक्रोधपरित्यागश् शिष्टाचारनिषेवितः॥ १००
-
-
 
 कर्मिणश्श्रुत[^33]सम्पन्नास् सतां मार्गगतास्तथा ।  
 शिष्टाचारं निषेवन्ते नित्यं धर्मेष्वतन्द्रिताः॥ १०१
@@ -10208,8 +9287,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 यदहं ह्याचरे कर्म घोरमेतदसंशयम्॥ १
 
-
-
 विधिस्तु बलवान् ब्रह्मन् दुस्तरं हि पुरातनम् ।  
 पुरा कृतस्य[^522]") पापस्य कर्मदोषो भवत्ययम्॥ २
 
@@ -10238,8 +9315,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अतुला कीर्तिरभवन्नृपस्य द्विजसत्तम॥ ९
 
 चातुर्मास्ये च पशवो वध्यन्त इति नित्यशः।
-
-
 
 अग्नयो मांसकामाश्च इत्यपि श्रूयते श्रुतिः॥ १०
 
@@ -10271,8 +9346,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^523]: "अ-घ—अर्धचतुष्टयं नास्ति"
 
 कुले हि विहितं कर्म देही तन्न विमुञ्चति।
-
-
 
 धात्रा चायं विधिर्दृष्टो बहुधा कर्मनिर्णये॥ १९
 
@@ -10306,8 +9379,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 उदके बहवश्चापि तत्र किं प्रतिभाति ते॥ २६॥
 
 सर्वं व्याप्तमिदं ब्रह्मन् प्राणिभिः प्रतिजीवनैः ।
-
-
 
 मत्स्यान् ग्रसन्ते मत्स्याश्च तत्र किं प्रतिभाति ते ॥ २७॥
 
@@ -10343,8 +9414,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 समृद्धैश्च न नन्दन्ति बान्धवा बान्धवैरपि ।
 
-
-
 गुरूंश्चैवापि निन्दन्ति मूढा निश्चितमानिनः॥ ३६
 
 बहु लोके विपर्यस्तं दृश्यते द्विजसत्तम ।  
@@ -10375,8 +9444,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सूक्ष्मा गतिर्हि धर्मस्य बहुशाखा धनन्तिका॥ २  
 प्राणात्यये विवाहे च वक्तव्यमनृतं भवेत्॥ २॥
 
-
-
 अनृतं च भवेत् सत्यं सत्यं चैवानृतं भवेत् ।  
 यद्भूतहितमत्यर्थं तत् सत्यमिति धारणा ॥ ३॥
 
@@ -10406,8 +9473,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वञ्चनायां च लोकस्य स सुखेर्नैव जीर्यते॥ ११
 
 अचेष्टमानमासीनं श्रीः कश्चिदुपतिष्ठति ।
-
-
 
 कश्चित् कर्माणि कुर्वन् हि न प्राप्यमधिगच्छति॥ १२
 
@@ -10442,8 +9507,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 न म्रियेयुर्न जीर्येयुस् सर्वे स्युस्सर्वकामिकाः।
 
-
-
 नाप्रियं प्रतिपश्येयुर् विधिश्च यदि नो भवेत्॥ २०॥
 
 उपर्युपरि लोकस्य सर्वो गन्तुं समीहते ।  
@@ -10475,8 +9538,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 जीवस्तु देहान्तरितः प्रयाति  
   दशार्धता तस्य शरीरभेदः॥ २७॥
 
-
-
 अन्यश्च नाश्नाति कृतं हि कर्म  
   स वै कर्ता सुखदुःखस्य भागी ।  
 यत् तेन किञ्चिद्विकृतं हि कर्म  
@@ -10506,8 +9567,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 मोहनीयैश्च तिर्यक्त्वं अधर्मैरेति किल्बिषैः॥ ३३॥
 
 व्याधिमृत्युजरादुःखैस् सततं समभिद्रुताः ।
-
-
 
 संसारे पच्यमानाश्च दोषैरात्मकृतैर्नराः॥ ३४॥
 
@@ -10542,8 +9601,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^539]: "ख—पुण्यं कुर्वन् पुण्यवृतः पुण्यस्यान्तं न गच्छति। [अधिकः पाठः]"
 
-
-
 अनसूयुः कृतज्ञश्च कल्याणान्येव सेवते।  
 सुखानि धर्ममर्थं च स्वर्गं च लभते नरः॥ ४३
 
@@ -10574,8 +9631,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 प्रज्ञाचक्षुर्नर इह दोषं नैवानुरुध्यते।
 
-
-
 विरज्यते यथाकामं न च धर्म विमुञ्चति॥ ५१॥
 
 सर्वत्यागे च यतते दृष्ट्वा लोकं क्रियात्मकम् ।  
@@ -10605,8 +9660,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३७ ॥ मार्कण्डेयसमास्यापर्वणि एकविंशोऽध्यायः ॥ २१ ॥  
 \[अस्मिन्नध्याये ५७॥ लोकाः\]  
 ————   
-
-
 
 **॥ चतुस्सप्तत्यधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1701660258Screenshot2023-12-04085341.png)  
@@ -10639,8 +9692,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तत्रैव रमते बुद्धिस्ततः पापं चिकीर्षति ।
 
-
-
 सुहृद्भिर्वार्यमाणश्च पण्डितैश्च द्विजोत्तम ।  
 उत्तरं श्रुतिसम्बद्धं ब्रवीति श्रुतियोजितः॥ ७॥
 
@@ -10670,8 +9721,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 यत् तेषां च प्रियं तत् ते वक्ष्यामि द्विजसत्तम ।  
 नमस्कृत्वा ब्राह्मणेभ्यो ब्राह्मीं विद्यां निबोध मे॥ १५
-
-
 
 इदं विश्वं जगत् सर्वम् अजगद्वाऽपि सर्वशः ।  
 महाभूतात्मकं ब्रह्मन् नातः परतरं भवेत्॥ १६
@@ -10704,8 +9753,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३७ ॥ मार्कण्डेयसमास्यापर्वणि द्वाविंशोऽध्यायः ॥ २२ ॥  
 \[ अस्मिन्नध्याये २१॥ श्लोकाः\]  
 —————
-
-
 
 ॥ पञ्चसप्तत्यधिकशततमोऽध्यायः ॥  
 
@@ -10744,8 +9791,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^546]: "अ—रसो वारिगुणास्स्मृताः"
 
-
-
 शब्दस्स्पर्शश्च रूपं च तेजसोऽपि गुणास्त्रयः।  
 शब्दस्स्पर्शश्च वायोस्तु शब्दश्चाकाश एव च॥ ७
 
@@ -10778,8 +9823,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 पश्यतस्सर्वभूतानि सर्वावस्थासु सर्वदा ।  
 ब्रह्मभूतस्य संयोगो नाशुभेनोपपद्यते॥ १५
 
-
-
 ज्ञानमूलादिकं[^274] क्लेशम् अतिवृत्तस्य मोहजम् ।  
 लोको बुद्धिप्रकाशेन ज्ञानमार्गेण गम्यते॥ १६
 
@@ -10811,8 +9854,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 रथश्शशरीरं पुरुषस्य दृष्टो
 
   ह्यात्मा नियन्तेन्द्रियाण्याहुरश्वान् ।
-
-
 
 तैरप्रमत्तैः कुशलो यथाऽश्वैर्  
    दान्तैस्सुखं याति पथीव[^552]धीरः॥ २३॥
@@ -10847,8 +9888,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 एवं तु सूक्ष्मे कथिते धर्मव्याधेन भारत ।  
 ब्राह्मणस्स पुनस्सूक्ष्मं पप्रच्छ सुसमाहितः॥ १
 
-
-
 ब्राह्मणः—
 
 सत्त्वस्य रजसश्चैव तमसश्च यथातथम् ।  
@@ -10879,8 +9918,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 मृदुर्भवत्यहङ्कारः प्रसीदत्यार्जवं च यत्॥ ९
 
 ततोऽस्य सर्वद्वन्द्वानि प्रशाम्यन्ति परस्परम्॥ ९॥
-
-
 
 न चास्यासंयमो नाम कचिद्भवति कश्चन॥ १०
 
@@ -10919,8 +9956,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^555]: "क-ख—सतां मतः"
 
-
-
 अव्यक्तं सत्त्वसंज्ञं च जीवः कालस्स चैव हि ।  
 प्रकृतिःपुरुषश्चैव प्राण एव द्विजोत्तम॥ १८॥
 
@@ -10953,8 +9988,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 धातुष्वग्निस्तु विततस् स तु वायुसमीरितः।  
 रसान् धातूंश्च दोषांश्च वर्तयन् परिधावति॥ २६
 
-
-
 प्राणानां सन्निपातात् तु संसर्गाद् यः प्रजायते ।  
 सोष्मा सोऽग्निरिति ज्ञेयो योऽन्नं पचति देहिनाम्॥ २७
 
@@ -10985,8 +10018,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एकादशविकारात्मा कलासम्भारसम्भृतः ।  
 मूर्तिमन्तं स्म तं विद्धि नित्यं कर्मजितात्मकम्॥ ३५
-
-
 
 तस्मिन् यस्संस्थितो ह्यग्निर् नित्यं स्थाल्यामिवा हितः[^560]।  
 आत्मानं तं विजानीहि नित्यं त्यागेजिंतात्मकम्॥ ३६
@@ -11019,8 +10050,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 पूर्वरात्रेऽपरे चैव युञ्जानस्सततं मनः।
 
-
-
 तस्मिन् यस्संस्थितो ह्यग्निर् नित्यं स्थाल्यामिवा हितः[^560]।  
 आत्मानं तं विजानीहि नित्यं त्यागेजिंतात्मकम्॥ ३६
 
@@ -11051,8 +10080,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 निवाते वा यथा दीपो दीप्येत् कुशलदीपितः ॥ ४२॥
 
 पूर्वरात्रेऽपरे चैव युञ्जानस्सततं मनः।
-
-
 
 लघ्वाहारो विशुद्धात्मा पश्यत्यात्मानमात्मनि ॥४३॥
 
@@ -11094,8 +10121,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अकिञ्चनत्वं सन्तोषो निराशित्वमचापलम्।
 
-
-
 एतदेव परं ज्ञानं सदात्मज्ञानमुत्तमम् ॥ ५२॥
 
 परिग्रहं परित्यज्य भवेद्बुद्धया यतव्रतः ।  
@@ -11120,8 +10145,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३७ ॥ मार्कण्डेयसमास्यापर्वणि चतुर्विंशोऽध्यायः ॥ २४ ॥  
 \[अस्मिन्नध्याये ५७॥ श्लोकाः\]  
 ———
-
-
 
 **॥ सप्तसप्तत्यधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1701771000Screenshot2023-11-27131905.png)
@@ -11157,8 +10180,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 देवतागृहसङ्काशं दैवतैश्च सुपूजितम् ।
 
-
-
 शयनासनसम्बाधं गन्धैश्च परमैर्युतम्॥ ६
 
 तत्र शुक्लाम्बरधरौ पितरावस्य पूजितौ ।  
@@ -11191,8 +10212,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^19]: "ख— इदमर्धमेव नास्ति"
 
 जामदग्न्येन रामेण यथा वृद्धौ सुपूजितौ ।
-
-
 
 तथा त्वया कृतं सर्वं तद्विशिष्टं च पुत्रक॥ १४
 
@@ -11229,8 +10248,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 उपाहारानाहरन्तो देवतानां यथा द्विजाः ।  
 कुर्वते तद्वदेताभ्यां करोम्यहमतन्द्रितः॥ २१॥
 
-
-
 एतौ मे परमं ब्रह्मन् पिता माता च दैवतम् ।  
 एतौ पुष्पैः फलैरन्नैस्तोषयामि सदा द्विज॥ २२॥
 
@@ -11264,8 +10281,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३७ ॥ मार्कण्डेयसमास्यापर्वणि पञ्चविंशोऽध्यायः ॥ २५ ॥  
 ———
 
-
-
 **॥ अष्टसप्तत्यधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1701779682Screenshot2023-11-27131905.png)
 
@@ -11295,8 +10310,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 यत्तया त्वं द्विजश्रेष्ठ नियुक्तो मां प्रति प्रभो ।  
 दृष्टमेव तथा सम्यग् एकपत्न्या न संशयः॥ ५
-
-
 
 त्वदनुग्रहबुद्ध्या तु विप्रैतद्दर्शितं मया ।  
 वाक्यं च शृणु मे तात यत् ते वक्ष्ये हितं द्विज॥ ६
@@ -11330,8 +10343,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 मातापित्रोस्सकाशं हि गत्वा त्वं द्विजसत्तम ।
 
-
-
 अतन्द्रितः कुरु क्षिप्रं मातापित्रोर्हि पूजनम्॥ १३॥
 
 अतः परमहं धर्मं नान्यं पश्यामि कञ्चन॥ १४
@@ -11362,8 +10373,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 एतदिच्छामि विज्ञातुं तत्त्वेन तव शूद्रताम्॥ २१
 
 कामयानस्य मे शंस सर्वं त्वं प्रयतात्मवान् ॥ २१॥
-
-
 
 व्याधः—
 
@@ -11397,8 +10406,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 व्याधः—
 
 मन्वानस्तं मृगं चाहं सम्प्राप्तस्सहसा मुनिम्॥
-
-
 
 अपश्यं तं मुनिं विद्धं शरेणानतपर्वणा॥ २९॥
 
@@ -11436,8 +10443,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 शूद्रयोनौ वर्तमानो धर्मज्ञो भविता ह्यसि ।  
 मातापित्रोश्च शुश्रूषां करिष्यसि न संशयः ॥ ३६॥
 
-
-
 तयोश्शुश्रूषया सिद्धिं महतीं समवाप्स्यसि ।  
 जातिस्मरश्चभविता स्वर्गं चैव गमिष्यसि॥ ३७॥
 
@@ -11468,8 +10473,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^498]: "घ—नास्तीदमर्धम्"
 
 [^578]: "क—अर्धत्रयं नास्ति, ख—कर्मदोषाश्च वै व्याधस् ततो वै भविता द्विजः [मध्ये अर्धं त्यक्तम्]"
-
-
 
 साम्प्रतं च मतो मेऽसि ब्राह्मणो नात्र संशयः ॥ ४४॥
 
@@ -11506,8 +10509,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अनिष्टेनान्वितं पश्यंस् तथा क्षिप्रं विरज्यते ।  
 ततश्च प्रतिकुर्वन्ति यदि पश्यन्त्युप्रक्रमम्॥ ५२॥
-
-
 
 शोकेन न भवेत्किञ्चित्केवलं[^584] परितप्यते॥ ५३
 
@@ -11548,8 +10549,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^590]: "क—घ—भूतेषु भावं"
 
-
-
 न शोचामि रमे विद्वन् कालाकाङ्क्षी स्थितोऽस्म्यहम् ।  
 एतैर्निदर्शनैर्ब्रह्मन् नावसीदामि सत्तम॥ ६१॥
 
@@ -11582,8 +10581,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अत्यद्भुतमिदं ब्रह्मन् धर्माख्यानमनुत्तमम् ।  
 सर्वधर्मविदां श्रेष्ठ कथितं द्विजसत्तम॥ ६८॥
 
-
-
 सुखश्राव्यं त्वया विद्वन् मुहूर्तमिव मे गतम् ।  
 न हि तृप्तोऽस्मि[^17]भगवञ् शृण्वांनो धर्ममुत्तमम्[^593]॥ ६९॥
 
@@ -11613,8 +10610,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कथमग्निर्वनं यातः कथं चाप्यङ्गिराः पुरा ।  
 नष्टेऽग्नौ हव्यमवहद् अग्निर्भूत्वा महामुनिः॥ २
-
-
 
 अग्निर्यथा[^321] चैक एव बहुत्वं चास्य कर्मसु ।  
 दृश्यते भगवन् सर्वम् एतदिच्छामि वेदितुम्॥ ३
@@ -11649,8 +10644,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अन्योऽग्निरिव लोकानां ब्रह्मणा सम्प्रवर्तितः ।  
 अग्नित्वं विप्रनष्टं हि तप्यमानस्य मे तपः॥ १०॥
-
-
 
 कथमग्निःपुनरहं भवेयमिति चिन्त्यसः ।  
 अपश्यदग्निवल्लोकास् तापयन्तं महामुनिम्॥ ११॥
@@ -11687,8 +10680,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तच्छ्रुत्वाऽङ्गिरसो वाक्यं जातवेदास्तथाऽकरोत् ।  
 राजन् बृहस्पतिर्नाम तस्याप्यङ्गिरसस्सुतः॥ १८
 
-
-
 ज्ञात्वा प्रथमजं तं तु वहेरङ्गिरसं सुतम् ।  
 उपेत्य देवाः पप्रच्छुःकारणं तत्रभारत॥ १९
 
@@ -11718,8 +10709,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तनुत्वात् सा सिनीवाली तृतीयाऽङ्गिरसस्सुता ॥ २६
 
 [^17]: "ख— इदमर्धं नास्ति"
-
-
 
 यां तु दृष्ट्वा[^33] भगवतींजनः कुहकुहायते ।  
 एकानङ्गेति यामाहुश् चतुर्थीमङ्गिरस्सुताम्॥ २७
@@ -11754,8 +10743,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 प्रथमेनाज्यभागेन पूज्यते सोऽग्निरध्वरे ।
 
-
-
 अग्निस्तस्य भरद्वाजः प्रथमः पुत्र उच्यते॥ ३४
 
 पौर्णमास्येषु सर्वेषु हविराज्यं स्रुबोद्यतम् ।  
@@ -11788,8 +10775,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^17]: "ख— इदमर्धं नास्ति"
 
-
-
 अक्रोशतां नराणां हि यः करोति हि निष्कृतिम् ।  
 अभिस्स निष्कृतिर्नाम शोभयत्यभिसेवितः॥ ४३
 
@@ -11820,8 +10805,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 यः प्रशान्तेषु भूतेषु आविर्भवति पावकः ।  
 क्रोधस्स तु महातेजा विज्ञेयस्सर्वदेहिषु॥ ५१
-
-
 
 क्रोधस्य तु रथो जज्ञे[^612] मन्यती चास्य पुत्रिका।  
 हाहेति[^613] दारुणा क्रुद्धा सर्वभूतेषु तिष्ठति॥ ५२
@@ -11856,8 +10839,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 काश्यपो ह्यथ वासिष्ठः प्राणश्च प्राणपुत्रकः ।  
 अग्निराङ्गिरसश्चैव च्यवनस्तीव्रवर्चकः॥ १
 
-
-
 अचरत् स तपस्तीव्रं पुत्रार्थे बहुवार्षिकम् ।  
 पुत्रं लभेम धर्मिष्ठं यशसा ब्रह्मणा समम्॥ २
 
@@ -11888,8 +10869,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^615]: "क-घ—ब्राह्मणस्यानुदात्तस्य"
 
-
-
 देवान् यज्ञमुषश्चान्यान् सृजन् पञ्चदशोत्तरान्॥ १०
 
 अभीममतिभीमं च भीमं भीमबलं बलम् ।  
@@ -11919,8 +10898,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अग्निहोत्रेहूयमाने पृथिव्यां सद्भिरीड्यते ॥ १८
 
 रथन्तरश्चतपसः पुत्रोऽग्निःपरिपठ्यते।
-
-
 
 मित्रविन्दा हि चैतस्य हविरध्वर्यवो विदुः॥ १९
 
@@ -11953,8 +10930,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तपसस्तु फलं दृष्ट्वा सम्प्रवृत्तं तपोमयम् ।  
 उद्धर्तुकामो मतिमान् पुत्रो जज्ञे पुरन्दरः॥ ४
 
-
-
 ऊष्मा चैवोष्मणो जज्ञे सोऽग्निर्भूतेषु लक्ष्यते ।  
 अग्निश्चापि मनुर्नाम प्राजापत्यं सकारणम्॥ ५
 
@@ -11982,8 +10957,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अग्निस्स मन्युमान् नाम द्वितीयो भानुजस्सुतः॥ १२
 
 दर्शे च पौर्णमासे च यस्येह हविरुच्यते ।
-
-
 
 विष्णुर्नामेह योऽग्निस्तु धृतिमान् नाम सोऽङ्गिराः ॥ १३
 
@@ -12018,8 +10991,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ब्रह्मचारी यतात्मा च सततं विपुलव्रतः।
 
-
-
 ब्राह्मणाः पूजयन्तो यं पाकयज्ञेषु पावकम्॥ २१॥
 
 प्रथितो गोपतिर्नाम नदी भार्याऽभवत् प्रिया ।  
@@ -12049,8 +11020,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 कर्मस्विह विचित्रेषु सोऽग्रणीर्वह्निरुच्यते॥ २९॥
 
 इमानन्यांश्चावसृजन् पावकान् प्रथितौजसः ।
-
-
 
 अग्निहोत्रस्य दुष्टस्य प्रायश्चित्तार्थमुद्बलान्॥ ३०॥
 
@@ -12090,8 +11059,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 आर्तो न जुहुयादग्निंत्रिरात्रं यस्तु वै द्विजः ।
 
-
-
 इष्टिरष्टाकपालेन कार्या तन्तुमतेऽग्नये॥ ३८॥
 
 दर्शश्च पौर्णमासश्च यस्य तिष्ठेत् प्रतिष्ठितः ।  
@@ -12122,8 +11089,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अग्निर्गृहपतिर्नाम नित्यं यज्ञेषु पूज्यते ।  
 आज्यं वहति यो हव्यं सर्वलोकस्य पावकः॥ ४
-
-
 
 अपाङ्गर्भो महाभागस्सहपुत्रो महाद्भुतः ।  
 भूपतिर्भूमिकर्ता च महतः पतिरुच्यते॥ ५
@@ -12165,8 +11130,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 स तच्छरीरं सन्त्यज्य प्रविवेश धरां तदा ।
 
-
-
 भूमिं स्पृष्ट्वाऽसृजद्धातून् पृथक् पृथगतीव हि॥ १२॥
 
 आस्यात् सुगन्धं तेजश्च अस्थिभ्यो देवदारु च ।
@@ -12200,8 +11163,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^628]: "ख—एष त्व"
 
-
-
 विचरन्[^17] विविधान् देशान् भ्रममाणस्तु तत्र वै॥ २१
 
 [^17]: "ख— इदमर्धं नास्ति"
@@ -12234,8 +11195,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एवमेते महात्मानः कीर्तितास्तेऽग्नयो यथा ।
 
-
-
 अप्रमेया[^632]") यथोत्पन्नाश् श्रीमन्तस्तिमिरापहाः॥ २९
 
 [^632]: "ख— इत्येष वंशस्सुमहानग्नीनां कीर्तितो मया। (अधिकः पाठः
@@ -12254,8 +11213,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३७ ॥ मार्कण्डेयसमास्यापर्वणि त्रिंशोऽध्यायः ॥ ३० ॥  
 \[अस्मिन्नध्याये ३२ श्लोकाः\]  
 ————
-
-
 
 **॥ त्र्यशीत्यधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1701937508Screenshot2023-12-07135445.png)
@@ -12282,8 +11239,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 जन्म त्वं शृणु कौरव्य कार्तिकेयस्य धीमतः॥ ३॥
 
 अद्भुतस्याद्भुतं पुत्रं प्रवक्ष्याम्यमितौजसम् ।
-
-
 
 जातं सप्तर्षिभार्याभिर् ब्रह्मण्यं कीर्तिवर्धनम्॥ ४॥
 
@@ -12325,8 +11280,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 विसृजाशु त्वमेवैनां शक्रैषा प्रार्थिता मया ।
 
-
-
 क्षमं ते जीवतो गन्तुं स्वपुरं पाकशासन॥ १२॥
 
 मार्कण्डेयः—
@@ -12360,8 +11313,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 आगच्छावो विहारार्थम् अनुज्ञाप्य प्रजापतिम्॥ १९॥
 
 नित्यं चावां प्रार्थयते हर्तुं केशी महासुरः ।
-
-
 
 इच्छत्येनां दैत्यसेना न त्वहं पाकशासन॥ २०॥
 
@@ -12398,8 +11349,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 इन्द्रस्तस्या वचश्श्रुत्वा दुःखितोऽचिन्तयद्भृशम् ।  
 अस्या देव्याः पतिर्नास्ति यादृशं सम्प्रभाषते॥ २७॥
 
-
-
 अथापश्यत् स उदये भास्करं भास्करद्युतिः ।  
 सोमं चैव महात्मानं विशमानं दिवाकरम्॥ २८॥
 
@@ -12431,8 +11380,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 एष चेज्जनयेद्गर्भं सोऽस्या देव्याः पतिर्भवेत्॥ ३६
 
 एवं सञ्चिन्त्य भगवान् ब्रह्मलोकं तदा गतः ।
-
-
 
 गृहीत्वा देवसेनां तां ववन्दे स पितामहम्॥ ३७
 
@@ -12467,8 +11414,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 आगम्याहवनीयं वै तैर्द्विजैर्मन्त्रतो हुतम् ।  
 सततं विविधं हव्यं प्रतिगृह्य हुताशनः॥ ४५
 
-
-
 ऋषिभ्यो भरतश्रेष्ठ प्रयाति स्म दिवौकसाम् ।  
 निष्क्रामंश्चाप्यपश्यत् स पत्नीस्तेषां महात्मनाम्॥ ४६
 
@@ -12499,8 +11444,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 सा तत्र च्छिद्रमन्विच्छच् चिरात् प्रभृति भामिनी।
 
-
-
 अप्रमत्तस्य[^17] देवस्य न चापश्यदनिन्दिता॥ ५४॥
 
 [^17]: "ख— इदमर्धं नास्ति"
@@ -12524,15 +11467,12 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
  स्वाहयाऽरुन्धतीवर्जं सप्तर्षिपत्नीसारूप्येणाग्निना सह रमणम् ॥१॥ ततो गारुडरूपस्वीकारेणाग्निरेतसां श्वेतपर्वतस्थ-काञ्चनकुण्डे प्रक्षेपणम् ॥२॥ स्कन्नात्तद्रेतसः षण्मुखस्य संभवः ॥३॥ ततस्तेन बाणैः क्रौञ्चगिरिविदारणपूर्वकं शक्त्या श्वेतगिरिशिखरविभेदनम् ॥४॥  
 
-
 ![](../books_images/U-IMG-1701955285Screenshot2023-12-07185055.png)
 
 मार्कण्डेयः—
 
 शिवा भार्या त्वङ्गिरसश् शीलरूपगुणान्विता।  
 तस्यास्सा प्रथमं रूपं कृत्वा देवी जनाधिप॥ १
-
-
 
 जगाम पावकाभ्याशं उवाच च वराङ्गना॥ १॥
 
@@ -12568,8 +11508,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 साऽचिन्तयन्ममेदं ये रूपं द्रक्ष्यन्ति कानने ।
 
-
-
 ते ब्राह्मणीनामनृतं दोषं वक्ष्यन्ति पावकम्॥ ९
 
 तस्मादेतद्रक्षमाणा गरुडी सम्भवाम्यहम् ।  
@@ -12599,8 +11537,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तस्मिन् कुण्डे प्रतिपदि कामिन्या स्वाहया तदा॥ १७
 
 तत् स्कन्नं तेजसा तत्र संवृतं जनयत् सुतम् ।
-
-
 
 ऋषिभिः[^33]पूजितं स्कन्दं जनयत् स्कन्दनात् तु तत् ॥ १८
 
@@ -12636,8 +11572,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अपरेणाग्निदायादस् ताम्रचूडं भुजेन सः ।  
 महाकायमुपश्लिष्टं कुक्कुटं बलिनां वरः॥ २६
 
-
-
 गृहीत्वा व्यनदद्भीमं चिक्रीड च महाबलः॥ २६॥
 
 द्वाभ्यां भुजाभ्यां बलवद् गृहीत्वा शङ्खमुत्तमम् ।  
@@ -12670,8 +11604,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 स तु शीर्णोऽपतच्छैलो भृशमार्तस्वरो नदन्॥ ३५
 
-
-
 तस्मिन् निपतिते त्वन्ये नेदुश्शैला भृशं भयात् ।  
 घोरमार्तस्वरं रूपं दृष्ट्वा कौञ्चंविदारितम्॥ ३६
 
@@ -12699,8 +11631,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥३७ ॥ मार्कण्डेयसमास्यापर्वणि द्वात्रिंशोऽध्यायः ॥ ३२ ॥  
 \[अस्मिन्नध्याये ४१ श्लोकाः \]  
 ————
-
-
 
 **॥ पञ्चाशीत्यधिकशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1702005001Screenshot2023-12-06205315.png)
@@ -12731,8 +11661,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 सुपर्णी तु ततश्श्रुत्वा ममायं तनयस्त्विति ।  
 उपगम्य शनैस्स्कन्दम् आहाहं जननी तव॥ ६
-
-
 
 अथ सप्तर्षयश्श्रुत्वा जातं पुत्रं महौजसम् ।  
 तत्यजुष्षट् तदा पत्नीर् विना देवीमरुन्धतीम्॥ ७
@@ -12766,8 +11694,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अथाब्रवीत्[^70] तान् सप्तर्षीन् युष्मत्पत्नीष्वयं शिशुः ।
 
 [^70]: "ख —अर्धद्वयं नास्ति"
-
-
 
 षट्सु जातो हुतवहात् ते चाग्नेस्त्वग्रतो[^655]त्यजन्॥ १५॥
 
@@ -12805,8 +11731,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अपश्यदग्निमायान्तं पितरं बलिनां बली॥ २२॥
 
 स तु सम्पूजितस्तेन सह मातृगणेन तम् ।
-
-
 
 परिवार्य महासेनं पुत्रवत्[^658] समभाषत॥२३॥
 
@@ -12847,8 +11771,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^663]: "ख— इन्द्रोऽपि देवसेना तांहर्षयन्नाजगाम ह। (अधिकः पाठः
 
-
-
 संहर्षयन् देवगणाञ्जिघांसुः पावकात्मजम् \।\।३१॥
 
 सम्पूज्यमानास्त्रिदशैस् तथैव परमर्षिभिः ।  
@@ -12878,8 +11800,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 युवा काश्चनसन्नाहश् शक्तिधृग् दिव्यकुण्डलः॥ ४०
 
 [^664]: "ख - बिभेद च महाराज पार्श्वं तस्य महात्मनः । (अधिकः पाठः
-
-
 
 यस्स्ववज्रवि[^665]नाशात् तु विशाखस्तेन सोऽभवत् ॥ ४०॥
 
@@ -12912,8 +11832,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यास्तास्त्वजनयत् कन्यास् तपो नाम हुताशनः ।  
 किं करोमीति तास्स्कन्दं सम्प्राप्तास्समभाषत॥ ४९
 
-
-
 भवेम सर्वलोकस्य वयं मातर उत्तमाः ।  
 प्रसादात् तव पूज्याश्च प्रियमेतत् कुरुष्व नः॥ ५०
 
@@ -12944,8 +11862,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३७ ॥ मार्कण्डेयसमास्यापर्वणि त्रयस्त्रिंशोऽध्यायः ॥ ३३ ॥  
 \[ अस्मिन्नध्याये ५६॥ श्लोकाः \]  
 -----
-
-
 
 **॥ षडशीत्यधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1702019147Screenshot2023-11-27151930.png)
@@ -12981,8 +11897,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 शक्तिं येनासृजद्दिव्यां भद्रशाखामिति स्म ह।  
 इत्येतद्द्विविधाकारं वृत्तं शुक्लस्य पञ्चमीम्॥ ६
 
-
-
 तत्रघोरं महद्युद्धं वृत्तं षष्ठयां जनाधिप ।  
 उपविष्टं ततस्स्कन्दम् आमुक्तकवचस्रजम्॥ ७
 
@@ -13012,8 +11926,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 किमिन्द्रस्सर्वलोकानां करोतीह तपोधनाः।  
 कथं देवगणांश्चैव पाति सर्वान् सुरेश्वरः ॥ १४॥
-
-
 
 ऋषयः—
 
@@ -13048,8 +11960,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^671]: "ख—जहि शत्रून्महाबाहोलोकास्सन्तु निरामयाः। (अधिकः पाठः
 
-
-
 स्वे पदे भ्रंशितं वीर बलहीनं पराजितम् ।  
 त्वत्तेजसाऽवमंस्यन्ति लोका मां सुरसत्तम॥ २२॥
 
@@ -13079,8 +11989,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 दानवानां विनाशाय देवानामर्थसिद्धये ।  
 गोब्राह्मणानां रक्षार्थं सेनापत्येऽभिषिञ्च माम् ॥ २९
-
-
 
 मार्कण्डेयः—
 
@@ -13112,8 +12020,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^673]: "ख-अद्वर्धयं नास्ति"
 
-
-
 रुद्रस्य वह्वेस्स्वाहायां षण्णां स्त्रीणां च तेजसा ।  
 जातस्कन्दस्सुरश्रेष्ठो रुद्रसुनुस्ततोऽभवत्॥ ३८॥
 
@@ -13144,8 +12050,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 क्रीडन्निव तदा देवैर् अभिषिक्तश्च पावकिः॥ ४६॥
 
 [^525]: "ख— इदमर्धंनास्ति"
-
-
 
 अभिषिक्तं[^676] महासेनम् अपश्यन्त दिवौकसः।  
 विनिहत्य तमस्सूर्यं यथैवाभ्युदितं तथा॥ ४७
@@ -13180,8 +12084,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 एवं स्कन्दस्य महिषीं देवसेनां विदुर्जनाः।  
 षष्ठीं यां ब्राह्मणाः प्राहुर् लक्ष्मीमासां सुखप्रदाम् ॥ ५४
 
-
-
 सिनीवालीं कुहूं चैव सद्वृत्तिमपराजिताम् ।  
 इत्येवमादिभिर्देवी नामभिः परिकीर्त्यते॥ ५५
 
@@ -13213,8 +12115,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ऋषिभिस्सम्परित्यक्ता धर्मयुक्ता महाव्रताः।  
 द्रुतमागम्य चोचुस्ता देवसेनापतिं प्रभुम्॥ २
-
-
 
 देव्यः—
 
@@ -13255,8 +12155,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एवमुक्तेतु शक्रेण त्रिदिवंकृत्तिका गताः।
 
-
-
 नक्षत्रं शकटाकारं भाति तद्वह्निदैवतम्॥ १०॥
 
 विनता चाब्रवीत् स्कन्दं मम त्वं पिण्डदस्सुतः ।  
@@ -13295,8 +12193,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 भवेम पूज्या लोकस्य मा ताः पूज्यास्सुरर्षिभिः।  
 प्रजाऽस्माकं हतास्ताभिस् त्वत्कृते ताः प्रयच्छ नः॥ १७॥
 
-
-
 स्कन्दः—
 
 वृत्ताःप्रजा न ताश्शक्या भवतीभिर्निषेवितुम् ।  
@@ -13330,8 +12226,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यावत् षोडश वर्षाणि भवन्ति तरुणाः प्रजाः।  
 प्रबाधत मनुष्याणां तत्तद्रूपैः पृथग्विधैः॥ २२॥
 
-
-
 अहं च वः प्रदास्यामि रौद्रमात्मानमव्ययम् ।  
 परमं तेन सहितास् सुखं वत्स्यथ पूजिताः॥ २३॥
 
@@ -13360,8 +12254,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ते हि गर्भभुजस्सर्वे कौरव्य सुमहाग्रहाः॥ ३१॥
 
 तासामेव कुमारीणां पतयस्ते प्रकीर्तिताः॥ ३२
-
-
 
 अज्ञायमानान् गृह्णन्तिबालकान् क्षुद्रकर्मणः॥ ३२॥
 
@@ -13392,8 +12284,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 लोहितस्योदधेः कन्या धात्री स्कन्दसुता स्मृता ।  
 लोहितायनिरित्येवं कदम्बे सा तु पूज्यते॥ ४०
-
-
 
 पुरुषेषु[^18]यथा रुद्रस् तथाऽऽर्या प्रमदास्वपि ।  
 आर्या माता कुमारस्य पृथक् कामार्थमिज्यते॥ ४१
@@ -13427,8 +12317,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^690]: "अ-घ-अर्धचतुष्टयं नास्ति"
 
 उपाघ्राति च यो गन्धान् रसांश्चैव पृथग्विधान् ।
-
-
 
 उन्माद्यति स तु क्षिप्रं स ज्ञेयो राक्षसो ग्रहः॥ ५०
 
@@ -13467,8 +12355,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[ अस्मिन्नध्याये ५८ श्लोकाः\]  
 —————
 
-
-
 **॥ अष्टाशीत्यधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1702087404Screenshot2023-11-27151930.png)
 
@@ -13496,8 +12382,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 हव्यं कव्यं च यत् किश्चिद् द्विजा मन्त्रपुरस्कृतम् ।  
 होष्यन्त्यग्नौसदा देवि स्वाहेत्युक्त्वा समुद्यतम्॥ ५
-
-
 
 अद्यप्रभृति दास्यन्ति सुपुत्रास्सत्पथे स्थिताः ।  
 एवमग्निस्त्वया सार्धं सदा वत्स्यति शोभने॥ ६
@@ -13532,8 +12416,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एवमस्त्विति चाप्युक्त्वा महासेनो महेश्वरम्।
 
-
-
 अपूजयदमेयात्मा पितरं पितृवत्सलः॥ १४
 
 अर्कपुष्पैस्तु ते पञ्च गणाः पूज्या धनार्थिभिः ।  
@@ -13562,8 +12444,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 यानि क्रीडनकान्यस्य देवैर्दत्तानि वै तदा ।  
 तैरेव रमते देवो महासेनो महाबलः॥ २१
-
-
 
 स संवृतः पिशाचानां गणैर्देवगणैस्तथा ।  
 शुशुभे काञ्चने शैले दीप्यमानश्श्रिया वृतः॥ २२
@@ -13596,8 +12476,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 सहस्रं तस्य सिंहानां तस्मिन् युक्तं रथोत्तमे ।
 
-
-
 उत्पपात रथो दिव्यः कालेनाभिप्रचोदितः॥ २९॥
 
 पिबन्त इव चाकाशं त्रासयन्तश्चराचरान् ।  
@@ -13627,8 +12505,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 विजयो नाम रुद्रस्य याति शूलस्स्वलङ्कृतः॥ ३७॥
 
 तमुग्रपाशो भगवान् वरुणस्सलिलेश्वरः।
-
-
 
 परिवार्य शनैर्याति यादोभिर्विविधैर्वृतः॥ ३८॥
 
@@ -13661,8 +12537,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 छत्रं तु पाण्डुरं सोमस् तस्य मूर्धन्यधारयत् ।  
 चामरे चापि वायुश्च गृहीत्वाऽग्निश्च विष्ठितौ॥ ४६॥
-
-
 
 शक्रश्च[^35]पृष्ठतस्तस्य याति राजन् छ्रिया वृतः ।
 
@@ -13706,8 +12580,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अनुगच्छति देवेशं ब्रह्मण्यः कृत्तिकासुतः॥ ५५
 
-
-
 अथाब्रवीन्महासेनं महातेजा वृषध्वजः ।  
 सप्तमं मारुतस्कन्धं रक्ष नित्यमतन्द्रितः॥ ५६
 
@@ -13739,8 +12611,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 नानाप्रहरणं घोरम् अदृश्यत महद्बलम्॥ ६३
 
 तद्धि घोरमसङ्ख्येयं गर्जन्तं विविधां गिरम्।
-
-
 
 अभ्यद्रवद्रणे देवान् भगवन्तं च शङ्करम्॥ ६४
 
@@ -13776,8 +12646,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^709]: "अ-घ—इदमर्धं नास्ति"
 
-
-
 मार्कण्डेयः—
 
 शक्रस्य वचनं श्रुत्वा समाश्वस्तास्तु दानवान् ।  
@@ -13808,8 +12676,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तदाऽपि दानवा घोरा विनिघ्नन्ति दिवौकसः॥ ८१
 
 [^33]: "ख—इदमर्धं नास्ति"
-
-
 
 ततस्तूर्य[^711]प्रणादाश्च भेरीणां च महास्वनाः ।  
 बभूवुर्दानवेन्द्राणां सिंहनादश्च दारुणः॥ ८२
@@ -13844,8 +12710,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^713]: "अ—रथतो"
 
-
-
 व्यनदंश्च महाकाया दैत्या जलधरोपमाः ।  
 आसीच्च निश्चितं तेषां जितमस्माभिरित्युत॥ ९१
 
@@ -13874,8 +12738,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 स्कन्दहस्तमनुप्राप्ता दृश्यते देवदानवैः॥ ९९
 
 प्रायो हतेषु शूरेषु महासेनेन धीमता ।
-
-
 
 दानवेषु महाराज तस्मिन् देवासुरे युधि॥ १००
 
@@ -13908,8 +12770,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 निहतं देवशत्रूणां यैर्वयं पूर्वतापिताः॥ १०८
 
 तावकैर्भक्षिताश्चान्ये दानवाश्शतसङ्घशः ।
-
-
 
 भवतोऽनुचरैर्वीर गणैः परमभीषणैः॥ १०९
 
@@ -13947,8 +12807,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[मार्कण्डेयसमास्यापर्व समाप्तम्\]  
 ————
 
-
-
 **॥ एकोननवत्यधिकशततमोऽध्यायः ॥**  
 
 ![](../books_images/U-IMG-1703953572Screenshot2023-12-07122852.png)  
@@ -13956,11 +12814,7 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सत्यभामया पतिवशीकरणोपायं पृष्टया द्रौपद्या तदुत्तरपतिव्रताधर्मकथनम्॥  
 —————
 
-
-
 # Please dont Edit this page (Blank Page)
-
-
 
 मूलप्रवादेन विषं प्रयच्छन्ति जिघांसवः॥ १५
 
@@ -13991,8 +12845,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 देवो मनुष्यो गन्धर्वो युवा चापि स्वलङ्कृतः।  
 द्रव्यवानभिरूपो वा न मेऽन्यः पुरुषो मतः॥ २४
 
-
-
 न भुक्तवति न स्नाते नासंविष्टे च भर्तरि ।  
 न संविशामि नाश्नामि न स्नाये कर्म कुर्वती॥ २५
 
@@ -14021,8 +12873,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यच्च नाश्नाति मे भर्ता सर्वं तद्वर्जयाम्यहम्॥ ३३
 
 यथोपदेशं नियता वर्तमाना वराङ्गने।
-
-
 
 स्वलङ्कृता स्ववहिता[^718] भर्तुः प्रियहिते रता ॥ ३४
 
@@ -14053,8 +12903,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 नित्यमार्यामहं कुन्तीं वीरसूं सत्यवादिनीम् ।  
 स्वयं परिचराम्येका स्नानाच्छादनभोजनैः ॥ ४२
-
-
 
 न चाप्य[^440]तिशये जातु वस्त्रभूषणभोजनैः ।  
 न चाप्यतिवदे वाचा तां पृथां पृथिवीसमाम्॥ ४३
@@ -14092,8 +12940,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 शतं दासीसहस्राणि कौन्तेयस्य महात्मनः ।
 
-
-
 पात्रहस्ता[^35] दिवारात्रम् अतिथीन् भोजयन्त्युत॥ ५१
 
 [^35]: "अ— अर्धद्वयं नास्ति"
@@ -14125,8 +12971,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अनिशायां निशायां च विहाय क्षुत्पिपासयोः ।  
 आराधयन्त्याः कौन्तेयांस् तुल्या रात्रिरहश्च मे ॥ ५९
-
-
 
 प्रथमं प्रतिबुध्यामि चरमं संविशामि च ।  
 नित्यकालमहं मन्ये एतत् संवेतनं महत्॥ ६०
@@ -14163,8 +13007,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 इमं तु ते मार्गमपेतदोषं  
   वक्ष्यामि चित्तग्रहणाय भर्तुः ।
 
-
-
 अस्मिन्[^728] यथावत् सह वर्तमाना  
   भर्तारमाधास्यसि[^729] कामिनीभ्यः॥ १
 
@@ -14194,8 +13036,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^730]: "क—अर्धचतुष्टयं नास्ति"
 
-
-
 श्रुत्वा स्वरं द्वारगतस्य भर्तुः  
   प्रत्युत्थिता तिष्ठ गृहस्य मध्ये ।  
 दृष्ट्वा प्रविष्टं त्वरिताऽऽसनेन  
@@ -14221,23 +13061,17 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 प्रद्युम्नसाम्बावपि ते कुमारौ  
   नोपासितव्यौ रहिते कदाचित्॥ १०
 
-
-
 माहात्म्यशीलाभिरपापिकाभिस्  
-  
 
 स्त्रीभिस्सखीभिस्तव सख्यमस्तु ।  
 चण्डाश्च शौण्डाश्च महाशनाश्च  
-  
 
 चोराश्च दुष्टाश्चपलाश्च वर्ज्याः ॥ ११
 
 एतद्यशस्यं भगवेतनं च  
-  
 
 स्वार्थं[^731]तदा शत्रुनिबर्हणं च ।  
 महार्हमाल्याभरणाङ्गरागैर्  
-  
 
 [^731]: "क-ख-घ—स्वर्ग्यं"
 
@@ -14261,8 +13095,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 कथाभिरनुरूपाभिस् सहासित्वा जनार्दनः॥ १
 
 ततस्तैस्संविदं कृत्वा यथावन्मधुसूदनः।
-
-
 
 आरुरुक्षू रथं सत्याम् आह्वयामास भारत॥ २
 
@@ -14296,8 +13128,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 सहदेवाच्च यो जातश् श्रुतसेनस्तवात्मजः ।
 
-
-
 सर्वे कुशलिनो वीराः कृतास्त्राश्च सुतास्तव॥ ११
 
 अभिमन्युरिव प्रीता द्वारवत्यां रता भृशम् ।  
@@ -14329,8 +13159,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये १८ श्लोकाः\]  
 \[द्रौपदीसत्यभामासंवादपर्व समाप्तम्\]  
 ————
-
-
 
 **॥ द्विनवत्यधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1702188049Screenshot2023-11-27131905.png)  
@@ -14364,32 +13192,24 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अभ्याययुर्वेदविदः पुराणास्  
   तान् पूजयामासुरथो नराग्र्याः॥ ३
 
-
-
 ततः कदाचित् कुशलःकथासु  
-  
 
 विप्रोऽभ्यगच्छद्भुवि कौरवेयान् ।  
 स तैस्समेत्याथ यहच्छयैव  
-  
 
 वैचित्रवीर्यं नृपमभ्यगच्छत्॥ ४
 
 अथोपविष्टः प्रतिसत्कृतश्च  
-  
 
 वृद्धेन राज्ञा कुरुसत्तमेन ।  
 प्रचोदितस्स कथयाम्बभूव  
-  
 
 धर्मानिलेन्द्रप्रभवान् यमौ च॥ ५
 
 कृशांश्च वातातपकर्शिताङ्गान्  
-  
 
 दुःखस्य चोग्रस्य मुखे प्रपन्नान् ।  
 प्रोवाच[^735]") चैनान् विहतान्तरात्मा  
-  
 
 [^735]: "ख—तांचाप्यनाथामिव वीरनाथां कृष्णां परिक्लेशगुणेन युक्ताम् । वने स्थितान् पार्थिवपुत्रपौत्रान् श्रुत्वा तदा दुःखनदीन् प्रपन्नान् ॥ ततः कथास्त्रस्य निशम्य राजा वैचित्रवीर्यः कृपयाभितप्तः। (अधिकः पाठः
 
@@ -14401,193 +13221,145 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 धृतराष्ट्रः—
 
 कथं नु सत्यश्रुतिरार्यवृत्तो  
-  
 
 ज्येष्ठस्सुतानां मम धर्मराजः।
 
-
-
 अजातशत्रुर्वसुधातलेषु  
-  
 
 शेते पुरा राङ्कवकूटशायी॥ ७॥
 
 प्रबोध्यते मागधसूतपुत्रैर्  
-  
 
 नित्यं स्तुवद्भिस्स्वयमिन्द्रकल्पः ।  
 पतत्रिसङ्घैस्समुपेत्य रात्रौ  
-  
 
 प्रबोध्यते नूनमिलातलस्थः॥ ८॥
 
 कथं नु वातातपकर्शिताङ्गो  
-  
 
 वृकोदरः कोपपरिप्लुताक्षः ।  
 शेते पृथिव्यामतथोचितस्स  
-  
 
 कृष्णासमक्षं वसुधातलस्थः॥ ९॥
 
 तथाऽर्जुनस्सुकुमारो मनस्वी  
-  
 
 वशे स्थितो धर्मसुतस्य राज्ञः ।  
 विधूयमानैरिव सर्वगात्रैर्  
-  
 
 ध्रुवं न शेते वसतीरमर्षात्॥ १०॥
 
 यमौ[^704] च कृष्णां च युधिष्ठिरं च  
-  
 
 [^704]: "ख— इदमर्धद्वयं नास्ति"
 
 भीमं च दृष्ट्वा सुखसंवियुक्तम् ।  
 विनिश्श्वसन् सर्प इवोग्रतेजा  
-  
 
 ध्रुवं न शेते वसतीरमर्षात्॥ ११॥
 
-
-
 तथा यमौ चाप्यसुखौ सुखार्हौ  
-  
 
 समृद्धरूपावमरौ दिवीव ।  
 प्रजागरस्थौध्रुवमप्रशान्तौ  
-  
 
 क्रोधेन सत्येन च वार्यमाणौ॥ १२॥
 
 समीरणेनाथ समो बलेन  
-  
 
 समीरणस्यापि सुतो बलीयान् ।  
 स धर्मपाशेन वृतोऽग्रतेजा  
-  
 
 ध्रुवं विनिश्श्वस्य सहत्यमर्षम्॥ १३॥
 
 स चापि भूमौ परिवर्तमानो  
-  
 
 वधं सुतानां मम काङ्क्षमाणः ।  
 सत्येन धर्मेण च वार्यमाणः  
-  
 
 कालं प्रतीक्षत्यथ कारणैस्तैः॥ १४॥
 
 अजातशत्रौ तु जिते निकृत्या  
-  
 
 दुश्शासनो यत् परुषाण्यवोचत् ।  
 तानि प्रविष्टानि वृकोदराङ्गं  
-  
 
 दहन्ति मर्माग्निरिबेन्धनानि॥ १५॥
 
 न पापके स्थास्यति धर्मपुत्रो  
-  
 
 धनञ्जयश्चाप्यनुवर्तते तम् ।  
 अरण्यवासेन विवर्धते तु  
-  
 
 भीमस्य कोपोऽग्निरिवानिलेन॥ १६॥
 
-
-
 स तेन[^29] कोपेन विदीर्यमाणः  
-  
 
 [^29]: "ख—अर्धद्वयं नास्ति"
 
 करं करेणाभिनिपीड्य वीरः ।  
 विनिश्श्वसत्युष्णमतीवघोरं  
-  
 
 दहन्निवैनं मम पुत्रमाभ्याम्॥ १७॥
 
 गाण्डीवधन्वा च वृकोदरश्च  
-  
 
 संरम्भिणौ पन्नगकालकल्पौ।  
 न शेषयेतां युधि शत्रुसेनां  
-  
 
 शरान् किरन्तावशनिप्रकाशान्॥ १८॥
 
 दुर्योधनश्शुकुनिस्सूतपुत्रो  
-  
 
 दुरशासनश्चापि सुमन्दचेताः ।  
 मधु प्रपश्यन्ति न तु प्रपातं  
-  
 
 वृकोदरं चैव धनञ्जयं च॥ १९॥
 
 शुभाशुभं पुरुषः कर्म कृत्वा  
-  
 
 प्रतीक्षते चेत् स फलं विपाके  
 स तेन युज्यत्यवशः फलेन  
-  
 
 मोक्षः कथं स्यात् पुरुषस्य तस्मात् ॥ २०॥
 
 क्षेत्रे सुकृष्टे निचिते च बीजे  
-  
 
 देवेच वर्षत्यनुकूलयुक्तम् ।
 
-
-
 न स्यात् फलं तस्य तु साप्यसिद्धिर्  
-  
 
 अन्यत्र देवादिति नास्ति हेतुः॥ २१॥
 
 कृतं मताक्षेण यथा न साधु  
-  
 
 साधुप्रवृत्तेन च पाण्डवेन ।  
 मया च दुष्पुत्रशताकुलेन  
-  
 
 कृतः कुरूणामयमन्तकालः॥ २२॥
 
 ध्रुवं प्रशाम्येत् स समीरितोऽग्निर्  
-  
 
 ध्रुवं प्रजास्यत्युत गर्भिणी या ।  
 ध्रुवंदिनादौ रजनीप्रणाशस्  
-  
 
 तथा क्षपादौ च दिनप्रणाशः॥ २३॥
 
 कृते च कस्मान्नपरे च कुर्युर्  
-  
 
 दत्ते च दद्युःपुरुषाः कथंस्वित् ।  
 प्राप्यार्थकामं च भवेदनर्थः  
-  
 
 कथं नु[^738] न स्यादितरः कथं नु॥ २४॥
 
 [^738]: "-ख—कथञ्चनस्यादिति तत् कुतस्यात् ।"
 
 कथं न भिद्येत न च ह्रियेत  
-  
 
 न चावसीदेदिति रक्षितव्यम् ।  
 अवेक्षमाण्श्शतधा प्रशीर्येद्  
-  
 
 ध्रुवं न नाशोऽस्ति कृतस्य लोके॥ २५॥
-
-
 
 गतो ह्यरण्यादपि शक्रलोकं  
   धनञ्जयः पश्यत वीर्यमस्य।  
@@ -14618,8 +13390,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३९ ॥ घोषयात्रापर्वणि प्रथमोऽध्यायः ॥ १ ॥  
 \[अस्मिन्नध्याये २९॥ श्लोकाः।  
 ———
-
-
 
 **॥त्रिनवत्यधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1702203471Screenshot2023-12-10154729.png)  
@@ -14659,8 +13429,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 त्वयाऽऽक्षिप्ता महाबाहो दीप्यमानेव दृश्यते ॥ ७
 
-
-
 तथैव[^525] तव राजेन्द्र राजानः परवीरहन् ।  
 शासने च स्थितास्सर्वे किं कुर्म इति वादिनः॥ ८
 
@@ -14693,8 +13461,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 स प्रियो हि महाराज श्रिया परमया युतः ।  
 प्रतपन् पाण्डुपुत्रांस्त्वं रश्मिवानिव तेजसा॥ १५
 
-
-
 स्थितो राज्ये च्युतान्राज्याध्छ्रिया हीनाञ् छ्रिया युतः ।  
 असमृद्धान् समृद्धार्थःपश्य पाण्डुसुतान्नृप॥ १६
 
@@ -14722,8 +13488,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 दाराणां ते श्रियं दृष्ट्वा दीप्तमन्युर्जनाधिप ।  
 न तथा हि सभामध्ये तस्या भवितुमर्हति॥ २३
-
-
 
 वैमनस्यं यया दृष्ट्वा तव भार्यास्स्वलङ्कृताः॥ २३॥
 
@@ -14759,8 +13523,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अथवाऽप्यनुबुध्येत नृपोऽस्माकं चिकीर्षितम् ।  
 एतामप्यायतिं रक्षन्नाभ्यनुज्ञातुमर्हति॥ ४
 
-
-
 न हि द्वैतवने किञ्चिद् विद्यतेऽन्यत् प्रयोजनम् ।  
 उन्मादनं[^746] मदं तेषां वनस्थानां मम द्विषाम्॥ ५
 
@@ -14792,8 +13554,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अहमप्यत्र[^33] निश्चित्य गमनायेतराय च ।
 
 [^33]: "ख—इदमर्धं नास्ति"
-
-
 
 काल्यमेव गमिष्यामि समीपं पार्थिवस्य ह॥ १२॥
 
@@ -14836,8 +13596,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 उपायोऽयं मया दृष्टो गमनाय निरामयः ।  
 अनुज्ञास्यति वै राजा चोदयिष्यति चाप्युत॥ २०॥
 
-
-
 घोषा द्वैतवनं सर्वे त्वत्प्रतीक्षा जनाधिप ।  
 घोषयात्रापदेशेन गमिष्यामस्सरः प्रति॥ २१॥
 
@@ -14871,8 +13629,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अनन्तरं च राधेयश् शकुनिश्च महाबलः ।  
 आहतुः पार्थिवश्रेष्ठ धृतराष्ट्रं जनाधिपम्॥ ३
 
-
-
 शकुनि-कर्णौ—
 
 रमणीयेषु देशेषु घोषास्सम्प्रति कौरव ।  
@@ -14903,8 +13659,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अथ यूयं बहुत्वात् तान्नालभध्वंकथञ्चन ।  
 अन्यायं परमं तत् स्यात् क्षमं शक्यं च मे मतम्॥ ११॥
-
-
 
 उषितो हि महाबाहुर् इन्द्रलोके धनञ्जयः ।  
 दिव्यान्यस्त्राणि सम्प्राप्य ततः प्रत्यागतो वनम्॥ १२॥
@@ -14937,8 +13691,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 न च तत्र समाचारो[^755] यत्र तेषां प्रतिश्रयः॥ २०
 
 [^755]: "अ—तत्रासमाचारो; ख—तत्रगमिष्यामो"
-
-
 
 वैशम्पायनः—
 
@@ -14973,8 +13725,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये २७॥श्लोकाः\]  
 ————
 
-
-
 **॥ षण्णवत्यधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1702270924Screenshot2023-11-27131905.png)
 
@@ -15005,8 +13755,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अथ संस्मारणं कृत्वा स सत्यां याति भानुवत् ।  
 घृतो गोपालकैः प्रीतो व्याहरत् कुरुनन्दनः॥ ५॥
 
-
-
 स च पौरजनस्सर्वस् सैनिकाश्चसहस्रशः ।  
 यथोपजोषं चिक्रीडुर् वने तस्मिन् यथाऽमराः॥ ६॥
 
@@ -15036,8 +13784,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ईजे राजर्षियज्ञेन स्वकाम्येन विशां पते॥ १४
 
 दिव्येन विधिना राजा वन्येन कुरुसत्तमः ।
-
-
 
 विद्वद्भिस्सहितो धीमान् ब्राह्मणैर्वनवासिभिः॥ १५
 
@@ -15070,8 +13816,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तस्य तद्वचनं[^33]श्रुत्वा राक्षस्सेनाग्रयायिनः ।
 
 [^33]: "ख—इदमर्धं नास्ति"
-
-
 
 सरो द्वैतवनं गत्वा गन्धर्वानिदमब्रुवन॥ २४
 
@@ -15111,8 +13855,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[ अस्मिन्नध्याये ३० श्लोकाः \]  
 ————
 
-
-
 **॥ सप्तनवत्यधिकशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1702284469Screenshot2023-11-28185856.png)  
 
@@ -15147,8 +13889,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ते वार्यमाणा गन्धर्वैस् साम्नैव वसुधाधिप।
 
-
-
 ताननादृत्य गन्धर्बांस् तद्वनं विविशुर्बलात्॥ ७
 
 यदा वाचा न तिष्ठन्ति वार्यमाणास्सराजकाः।  
@@ -15178,8 +13918,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 क्षणेन व्यधमत् सर्वांचित्रसेनस्य वाहिनीम्॥ १५
 
 ते वध्यमाना गन्धर्वास् सूतपुत्रेण धीमता ।
-
-
 
 भूय एवाभ्यवर्तन्त शतशोऽथ सहस्रशः॥ १६
 
@@ -15212,8 +13950,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 हस्त्यारोहा हताः पेतुर् हस्तिभिस्सह भारत।
 
-
-
 हयारोहाश्च सहया स्थैश्च रथिनस्तदा॥ २५
 
 पत्तयश्च तथा पेतुर विशस्ताश्शरवृष्टिभिः ।  
@@ -15243,8 +13979,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अन्ये च्छत्रंवरूथं च बभञ्जुश्च तथा परे ।  
 अन्ये सञ्चूर्णयामासुश् चक्रे अक्षे तथा परे॥ ३३
-
-
 
 गन्धर्वा बहुसाहस्राःखण्डशोऽभ्यहनन् रथम्।  
 प्रगृहीतायुधा वीराश् चित्रसेनपुरोगमाः॥ ३४॥
@@ -15277,8 +14011,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^497]: "अ-घ—नास्तीदमर्धम्"
 
-
-
 तामापतन्तीं सम्प्रेक्ष्य गन्धर्वाणां महाचमूम् ।  
 महता शरवर्षेण सोऽभ्यवर्षदमर्षणः॥ ३
 
@@ -15308,8 +14040,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 पूर्वं प्रभग्नैस्सहिताः पाण्डवानभ्ययुस्तदा॥ १०
 
 शकटापणवेशाश्च यानयुग्यं च सर्वशः।
-
-
 
 शरणं पाण्डवं जग्मुर् ह्रियमाणाः परन्तप॥ ११
 
@@ -15355,8 +14085,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 समस्थोविषमस्थांश्च द्रष्टुमिच्छति दुर्मतिः ॥ २०
 
-
-
 अधर्मचारि[^639]णस्तस्य कौरव्यस्य दुरात्मनः ।  
 ये शीलमनुवर्तन्ति ते पश्यन्ति पराभवम्॥ २१
 
@@ -15387,8 +14115,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अस्मानभिगतांस्तात भयार्ताञ् छरणैषिणः ।  
 कौरवान् विषमं प्राप्तान् कथं ब्रूयास्त्वमीदृशम्॥ १
-
-
 
 भवन्ति[^772] भेदा ज्ञातीनां कलहाश्च वृकोदर।  
 प्रसक्तानि च वैराणि ज्ञातिधर्मो न नश्यति॥ २
@@ -15423,8 +14149,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एवमुक्तस्तु कौन्तेयः पुनर्वाक्यमभाषत ।  
 कोपसंरक्तनयनः पूर्ववैरमनुस्मरन्॥ ११
-
-
 
 भीमः—
 
@@ -15463,8 +14187,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 भ्रातरं ते महाबाहो बद्ध्वानयति मामयम् ।  
 दुश्शासनं दुर्विषहं दुर्मुखं दुर्जयं तथा ॥ २०
 
-
-
 बद्ध्वाहरन्ति गन्धर्वा अस्मद्दारांश्च सर्वशः ।  
 अनुधावत मां क्षिप्रं रक्षध्वं पुरुषोत्तमाः॥ २१
 
@@ -15501,8 +14223,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^775]: "क—विक्रमे तस्माद्; ख-घ—नाह्यस्त्यधिकमेतस्माद्"
 
-
-
 त्वद्बाहुबलमाश्रित्य जीवितं परिमार्गते॥ २९
 
 स्वयमेव प्रधावेयं यदि न स्याद्वृकोदर ।  
@@ -15537,8 +14257,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यदि साम्ना न मोक्ष्यन्ति गन्धर्वा धृतराष्ट्रजान् ।  
 अद्य गन्धर्वराजस्य भूमिः पास्यति शोणितम्॥ ३६॥
 
-
-
 अर्जुनस्य तु तां श्रुत्वा प्रतिज्ञां सत्यवादिनः ।  
 कौरवाणां तदा राजन् पुनः प्रत्यागतं मनः॥ ३७॥
 
@@ -15568,8 +14286,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^779]: "अ—अभेद्यांस्तु ततस्सर्वे संयुक्ताञ्जवनैर्हयैः । इत्यसम्बद्धंदृश्यते"
 
 ते दंशिता रथैस्सर्वे ध्वजिनस्सशरासनाः।
-
-
 
 पाण्डवास्समदृश्यन्त ज्वलिता इव पावकाः॥ ३
 
@@ -15604,8 +14320,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 नैतद्गन्धर्वराजस्य युक्तं कर्म जुगुप्सितम् ।  
 परदाराभिमर्शश्च मानुषैश्च समागमः॥ १२
 
-
-
 उत्सृजध्वं महावीर्यान् धृतराष्ट्रसुतानिमान् ।  
 दारांश्चैषां विमुञ्चध्वं धर्मराजस्य शासनात्॥ १३
 
@@ -15639,8 +14353,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तथैव शरवर्षेण गन्धर्वाश्च मदोत्कटाः ।
 
-
-
 पाण्डवानभ्यवर्तन्त पाण्डवाश्च दिवौकसः॥ २०
 
 ततस्समभवद्युद्धं गन्धर्वाणां तरस्विनाम् ।  
@@ -15673,8 +14385,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तान् समापततो राजन् गन्धर्वाञ्छतशो रणे।
 
-
-
 प्रत्यगृह्णन् नरव्याघ्राश् शरवर्षैरवाकिरन्॥ ४
 
 आकीर्यमाणाःखचराश् शरवर्षैस्समन्ततः ।  
@@ -15705,8 +14415,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 गदाशक्त्यृष्टिवृष्टिं तां निहत्य स महास्त्रविवित् ।
 
-
-
 गात्राणि प्राहरद्भल्लैर् गन्धर्वाणां धनञ्जयः॥ १३
 
 शिरोभिः प्रपतद्भिश्च चरणैर्बाहुभिस्तदा ।  
@@ -15736,8 +14444,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 स गदां बहुधा दृष्ट्वा कृत्तां बाणैस्तरविना ।  
 संवृत्य विद्ययाऽऽत्मानं योधयामास पाण्डवम्॥ २२
 
-
-
 अस्त्राणि तस्य दिव्यानि पोथयामास खे स्थितः ।  
 गन्धर्वराजो बलवान् माययाऽन्तर्हितस्तदा॥ २३
 
@@ -15764,8 +14470,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ३९ ॥ घोषयात्रापर्वणि दशमोऽध्यायः ॥ १० ॥  
 \[अस्मिन्नध्याये २९ श्लोकाः \]  
 ————
-
-
 
 **॥ द्व्यधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1704016668Screenshot2023-11-27151930.png)
@@ -15799,8 +14503,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 धनञ्जयश्च ते रक्ष्यस् सह भ्रातृभिराहवे॥ ५॥
 
 स हि प्रियसखा तुभ्यं शिष्यश्च सहबान्धवः ॥ ६
-
-
 
 चित्रसेनः—
 
@@ -15837,8 +14539,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 उपकारो महांस्तात कृतोऽयं मम खेचर।
 
-
-
 कुलं न परिभूतं मे मोक्षणेन दुरात्मनः॥ १४
 
 आज्ञापयध्वमिष्टा हि प्रीतिर्मेदर्शनेन च ।  
@@ -15869,8 +14569,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 मा स्म तात पुनः कार्षीर् ईदृशं साहसं क्वचित् ।  
 न हि साहसकर्तारस् सुखमेधन्ति भारत॥ २२  
 स्वस्तिमान् सहितस्सर्वैर् भ्रातृभिः कुरुनन्दन।
-
-
 
 गृहान् व्रज यथाकामं वैमनस्यं च मा कृथाः॥ २३
 
@@ -15906,8 +14604,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 शत्रुभिर्बध्यमानस्य पाण्डवैश्च महात्मभिः ।  
 मोक्षितस्य कथं चासीन्मनस्तस्य दुरात्मनः॥ १
 
-
-
 कथं तस्यावलिप्तस्य गर्वितस्य च नित्यशः ।  
 कथं च पौरुषौदार्यान् पाण्डवानवमन्यतः॥ २
 
@@ -15939,8 +14635,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 दिष्ट्याजीवसि गान्धारे दिष्ट्या नस्सङ्गमः पुनः।
 
-
-
 दिष्ट्यात्वया जितास्संख्ये गन्धर्वाः कामरूपिणः॥ १०
 
 दिष्ट्यासमग्रान् पश्यामि भ्रातृृंस्ते कुरुनन्दन ।  
@@ -15970,8 +14664,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४० ॥ प्रायोपवेशनपर्वणि प्रथमोऽध्यायः ॥ १ ॥  
 \[अस्मिन्नध्याये १६ श्लोकाः\]  
 ———
-
-
 
 **॥ चतुरधिकद्विशततमोऽध्यायः ॥ **  
 ![](../books_images/U-IMG-1702363054Screenshot2023-12-12114852.png)
@@ -16012,8 +14704,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तं मोक्षयत भद्रं वस्सहदारं नराधिपम्॥ ७
 
-
-
 परामर्शो नाभविष्यत् कुरुदारेषु सर्वथा॥ ७॥
 
 दुर्योधनः—
@@ -16044,8 +14734,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ते समेत्य यथान्यायं सन्नाहान विप्रमुच्य च ।  
 एकीभूतास्ततस्सर्वे गन्धर्वास्सह पाण्डवैः॥ १६॥
-
-
 
 परस्परं समागम्य प्रीत्या परमया युताः ।  
 अपूजयेतामन्योन्यं चित्रसेनधनञ्जयौ ॥ १७॥
@@ -16081,8 +14769,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 स्थितो राज्ये च्युतान् स्थानाघ्छ्रिया हीनाञ्श्रिया वृतः ।  
 द्रष्टा च निस्सुखान् वीरान् सदारान् पाण्डवानिति ॥ ४
-
-
 
 अस्मिन्नुच्चार्यमाणे तु गन्धर्वेण वचस्यथ ।
 
@@ -16120,9 +14806,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 दुश्शासनं पुरस्कृत्य प्रयान्तु नगरं प्रति ॥ १२॥  
 
-
-
-
 न ह्यहं प्रतियास्यामि पुरं शत्रुनिराकृतः।
 
 शत्रुमानासहो[^17] भूत्वा सुहृदां मानवर्धनः ॥ १३॥
@@ -16159,8 +14842,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 चिन्तयानो हि को जीवेत् कृच्छ्राच्छत्रुभिरुद्धृतः॥ २१
 
-
-
 शत्रुभिश्चावहसितो मानी पौरुषवर्जितः ।  
 पाण्डवैविक्रमस्थैश्च सावमानमवेक्षितः॥ २२
 
@@ -16196,8 +14877,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ब्राह्मणेषु यथा दान्तं कुरुवीराप्रमादतः।
 
 बन्धूनां सुहृदां चैव भवेथास्त्वं गतिस्सदा॥ ४
-
-
 
 ज्ञातींश्चाप्य[^17]नुपश्येथा विष्णुर्देवगणानिव ।
 
@@ -16243,8 +14922,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 त्वमेव नः कुले राजा भविष्यसि न संशयः ॥ १३
 
-
-
 वैशम्पायनः—
 
 एवमुक्त्वा स राजेन्द्रं सुस्वरं प्ररुरोद ह।
@@ -16289,8 +14966,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[ अस्मिन्नध्याये २१ श्लोकाः \]  
 ———
 
-
-
 **॥ सप्ताधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1704014066Screenshot2023-11-27141111.png)
 
@@ -16322,8 +14997,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 न चैतत् साधु यद्राजन् पाण्डवास्त्वां नृपोत्तमम् ।  
 स्वसेनया सम्प्रयान्तं नानुयान्ति स्म पृष्ठतः॥ ७
 
-
-
 शूराश्चबलवन्तश्च संयुगेष्वपराजिताः ।  
 भवतस्ते सभायां वै प्रेष्यतां पूर्वमागताः ॥८
 
@@ -16344,15 +15017,11 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^791]: "ख - प्रायोपविष्टस्तु तथा राज्ञां हास्यो भविष्यति।[पाठान्तरम्] वैशम्पायनः - एवमुक्तस्तु कर्णेन राजा दुर्योधनस्तथा । नाभ्युत्थातुं मनश्चके स्वर्गीय कृतनिश्चयः ॥[अधिकः पाठः]"
 
-
-
 इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 आरण्यपर्वणि सप्ताधिकद्विशततमोऽध्यायः ॥ २०७ ॥  
 ॥ ४० ॥ प्रायोपवेशनपर्वणि पञ्चमोऽध्यायः ॥ ५ ॥  
 \[ अस्मिन्नध्याये १३ श्लोकाः \]  
 ![](../books_images/U-IMG-1701889451नतुन.png)
-
-
 
 **॥ अष्टाधिकद्विशततमोऽध्यायः ॥**  
 ![](#)![](../books_images/U-IMG-1701872815Screenshot2023-12-06195458.png)
@@ -16376,8 +15045,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यत्र हर्षस्त्वया कार्यश सत्कर्तव्याश्च पाण्डवाः ।
 
 [^792]: "वैशम्पायनः- 1.ख- प्रायोपविष्टं राजानं दुर्योधनममर्षणम् । उवाच सान्त्वयत्राजञ्शकुनिस्सौबलस्तदा। [अधिकः पाठः], ख - अर्धचतुष्टयं नास्ति"
-
-
 
 अत्र शोचसि राजेन्द्र विपरीतमिदं तव ॥ ६  
 प्रसीद नः कृतं मानं सन्तुष्टस्सुकृतं स्मर ।  
@@ -16404,8 +15071,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 निश्चितेयं[^9]मम मतिससिद्धा प्रायोपवेशने।
 
 [^9]: "ख - अर्धद्वयं नास्ति"
-
-
 
 गच्छध्वं सहितास्सर्वे पूज्याश्च गुरवो मम ॥ १४॥
 
@@ -16434,8 +15099,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 आनयार्थ ततश्चक्रुः कर्म वैतानसम्भवम् ॥ २२
 
 [^454]: "ख– इदमर्धं नास्ति"
-
-
 
 बृहस्पत्युशनोक्तैश्च मन्त्रैर्मन्त्रविशारदाः ।
 
@@ -16475,8 +15138,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 प्रहृष्टमनसस्सर्वे किञ्चिदुत्फुल्ललोचनाः ॥
 
-
-
 दृढमेनं परिष्वज्य पृष्ट्वा च कुशलं तदा ।  
 साभिमानमिदं वाक्यं दुर्योधनमथाब्रुवन् ॥ ३१
 
@@ -16505,8 +15166,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 नियच्छतां मतिंराजन् धर्मार्थसुखनाशिनीम् ।  
 यशःप्रतापधर्मघ्नींशत्रूणां हर्षवर्धनीम् ॥ ४
 
-
-
 श्रूयतां तु प्रभूर्ति च दिव्यतां चात्मनोऽनघ ।  
 पुरा[^796] द्वैतवनेऽस्माभिर् लब्धो देवान्महेश्वरात् ॥ ५  
 पूर्वकायश्च ते सर्वो निर्मितो वज्रसञ्चयैः ।  
@@ -16526,8 +15185,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 प्रहरिष्यन्ति बन्धुभ्यस् स्नेहमुत्सृज्य दूरतः ॥ ११
 
 [^797]: "ख- दिव्यास्त्रविदुषश्शूराः क्षपयिष्यन्ति ते रिपून् । तदलं ते विषादेन भयं तव न विद्यते ॥ सहायार्थंच ते वीर सम्भूता भुवि दानवाः । भीष्मद्रोणकृपादींश्च प्रवेक्ष्यन्त्यपरेऽसुरः ॥[अधिकः पाठः] अर्धषट्कं नास्ति"
-
-
 
 हृष्टाः पुरुषशार्दूलाः कलुषीकृतमानसाः ।  
 अज्ञातमूला देवाश्च दैवाञ्चविधिनिर्मितात् ॥ १२  
@@ -16550,8 +15207,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^4]: "ख- इदमर्धं नास्ति"
 
-
-
 कुण्डले कवचं चैव कर्णस्यापहरिष्यति ॥ २०  
 तस्मादस्माभिरप्यत्रदैत्याश्शतसहस्रशः ।  
 नियुक्ता राक्षसाश्चैव ये ते संशप्तका इति ॥ २१  
@@ -16566,8 +15221,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 वैशम्पायनः—
 
-
-
 एवमुक्त्वा परिष्वज्य दैत्यास्ते राजकुञ्जरम् ।  
 समाश्वास्य च दुर्धर्षं पुत्रवद्दानवर्षभाः ॥ २५  
 स्थिरां कृत्वा बुद्धिमस्य प्रियाण्युक्त्वा च भारत ।  
@@ -16575,8 +15228,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तैर्विसृष्टं महाबाहुं कृत्या सैवानयत् पुनः ।  
 तमेव देशं यत्रासौ तदा प्रायमुपाविशत् ॥ २७  
 प्रतिवेश्य च तं वीरं कृत्या समभिपूज्य च ।
-
-
 
 अनुज्ञाता च सा राज्ञा तत्रैवान्तरधीयत ॥ २८॥  
 गतायामथ तस्यां च राजा दुर्योधनस्तदा  
@@ -16600,9 +15251,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^800]: "घ - नास्तीदमर्धम्"
 
 [^801]: "अ - घ - अर्धचतुष्टयं नास्ति"
-
-
-
 
 स्मयन्निवाञ्जलिं कृत्वा पार्थिवं हेतुमद्वचः ॥ ३७॥
 
@@ -16638,8 +15286,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^310]: "ख - इदमर्धंनास्ति"
 
-
-
 श्वेतच्छत्रैः[^804] पताकाभिः पाण्डरैश्चमरैरपि ।  
 रथैर्नागैः पदातैश्च प्रयाणे सा बभौ चमूः ॥ ४६॥  
 व्यपेताभ्रघने काले द्यौरिवासीत् तु शारदी ।  
@@ -16666,13 +15312,9 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४० ॥ प्रायोपवेशनपर्वणि सप्तमोऽध्यायः ॥ ७ ॥  
 \[अस्मिन्नध्याये ५२॥ श्लोकाः\]
 
-
-
 **॥ दशाधिकद्विशततमोऽध्यायः ॥**
 
 ![](../books_images/U-IMG-1701962234NEW-.png)
-
- 
 
 भीष्मेण दुर्योधनं प्रति पाण्डवप्रशंसनपूर्वकं तैः सह सन्धिविधानम्॥१॥ तथा कर्णस्य गर्हणम् ॥२॥ दुर्योधनानुमत्या कर्णेन दिग्विजयाय निर्गमनम् ॥३॥ दिग्विजयार्थं गतेन कर्णेन सकलराजवशीकरणपूर्वकं पुनर्हास्तिनपुरं प्रत्यागमनम् ॥४॥ दुर्योधनेन राजसूययाजनं प्रार्थितैर्ब्राह्मणैर्हेतूक्तया तन्निषेधनपूर्वकं तं प्रति यज्ञान्तकरणनियोजनम् ॥५॥
 
@@ -16698,8 +15340,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ततः प्राप्तं त्वया वीर ग्रहणं शत्रुभिर्बलात् ।  
 मोक्षितश्चापि धर्मज्ञैः पाण्डवैश्च न लज्जसे ॥ ५॥
 
-
-
 प्रत्यक्षं तव गान्धारे ससैन्यस्य विशां पते ।  
 सूतपुत्रोऽपयाद्भीतो गन्धर्वाणां तदा रणात् ॥ ६॥  
 क्रोशतस्तव राजेन्द्र ससैन्यस्य नृपात्मज ।  
@@ -16724,13 +15364,9 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 पुनरागम्य तं देशम् अमन्त्रयत मन्त्रिभिः ॥ १४॥  
 सहास्माकं भवेच्छ्रेयः किं कार्यमवशिष्यते ।
 
-
-
 कथं नु सुकृतं तत् स्यान्मन्त्रयामास भारत ॥ १५॥
 
 कर्णः—
-
-
 
 दुर्योधन निबोधेदं यत् त्वां वक्ष्यामि कौरव ।  
 श्रुत्वा च तत् तथा सर्वं कर्तुमर्ह[^808]स्यरिन्दम ॥ १६॥  
@@ -16740,8 +15376,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^808]: "क - च - स्यनिन्दित"
 
 वैशम्पायनः—
-
-
 
 एवमुक्तस्तु[^5] कर्णेन राजा कर्णमथाब्रवीत् । १७॥
 
@@ -16769,8 +15403,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^811]: "अ -घ - जीवमाने युधिष्ठिरे"
 
-
-
 ऋत्विजश्च[^812] समाहूता यथोक्तं वेदपारगाः ॥ २२॥  
 क्रियां कुर्वन्तु ते राजन् यथाशास्त्रमरिन्दम ॥ 23॥  
 बह्वन्नपानसंयुक्तस् सुसमृद्धगुणान्वितः ।  
@@ -16780,14 +15412,10 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 वैशम्पायनः —
 
-
-
 एवमुक्तस्तु कर्णेन धार्तराष्ट्रोविशां पते ।  
 पुरोहितं समानाय्य वचनं चेदमब्रवीत् ॥ २५॥
 
 दुर्योधनः —
-
-
 
 राजसूयं क्रतुश्रेष्ठं समाप्तवरदक्षिणम् ।  
 आहरस्व यथाशास्त्रं यथान्यायं यथाक्रमम् ॥ २६
@@ -16812,8 +15440,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^815]: "अ - घ - अर्धद्वयं नास्ति, क - सदीर्घमायुर्जीवति"
 
 [^816]: "अ-ख - घ-अर्धद्वयं नास्ति"
-
-
 
 तेन त्वं यज राजेन्द्र श्रृणु चेदं वचो मम ॥ ३०  
 ये[^817] चेमे पृथिवीपालाः करदास्तव पार्थिव ।  
@@ -16844,8 +15470,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एवमुक्तास्तु ते सर्वे तथेत्यूचुर्नराधिपम् ।
 
-
-
 सन्दिदेश ततो राजा व्यापारान् स्वान् यथाक्रमम् ॥ ३९॥  
 हलस्य करणे चापि व्यादिष्टास्सर्वशिल्पिनः ।  
 यथोक्तं तन्नृपश्रेष्ठ कृतं सर्वं यथाक्रमम् ॥ ४०॥
@@ -16866,8 +15490,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 वैशम्पायनः —
 
-
-
 ततस्तु शिल्पिनस्सर्वं कृतमूचुर्यथाक्रमम् ।  
 विदुरश्च[^819] महाप्राज्ञो धृतराष्ट्रे न्यवेदयत् ॥ १॥
 
@@ -16881,8 +15503,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वैशम्पायनः—
 
 एतच्छ्रुत्वा नृपश्रेष्ठो धृतराष्ट्रो महीपतिः ।
-
-
 
 भीष्मो[^820]")द्रोणः कृपः कर्णो गान्धारी च यशस्विनी ॥ ३  
 निमन्त्रणार्थं दूतांश्च प्रेषयामास शीघ्रगान् ।  
@@ -16912,11 +15532,7 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 वैशम्पायनः—
 
-
-
 ततो युधिष्ठिरो राजा तच्छ्रुत्वा दूतभाषितम् ।
-
-
 
 अब्रवीन्नपशार्दूलो दिष्ट्या यज्ञं सुयोधनः॥ १०॥
 
@@ -16949,8 +15565,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^5]: "ख - इदमर्धं नास्ति"
 
-
-
 धृतराष्ट्रोऽपि राजेन्द्र संघृतस्सर्वकौरवैः ।  
 हर्षेण महता युक्तो विदुरं प्रत्यभाषत ॥१९
 
@@ -16980,8 +15594,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४० ॥ प्रायोपवेशनपर्वणि नवमोऽध्यायः ॥ ९ ॥  
 \[अस्मिन्नध्याये२४॥ श्लोकाः\]  
 ![](../books_images/U-IMG-1704208451नतुन.png)
-
-
 
 **॥ द्वादशाधिकद्विशततमोऽध्यायः ॥**  
 
@@ -17014,8 +15626,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 एता वाचश्शुभाश्शृण्वन् सुहृदां भरतर्षभ ।
 
 [^824]: "ख - प्रवर्तितोह्ययंराज्ञाधार्तराष्ट्रेण धीमता । (अधिकः पाठः
-
-
 
 प्रविवेश पुरं हृष्टस् स्वयमेव नराधिपः ॥ ६॥  
 अभिवाद्य ततः पादौ मातापित्रोर्विशां पते ।  
@@ -17051,8 +15661,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^827]: "ख — अब्रवीत् सुहृदस्सर्वान् धार्तराष्ट्रो महीपति मध्ये अर्धं नास्ति"
 
-
-
 दुर्योधनः—
 
 कदा तु तं क्रतुवरं राजसूयं महाधनम् ।  
@@ -17083,8 +15691,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^310]: "ख - इदमर्धंनास्ति"
 
-
-
 एतच्छ्रुत्वा धर्मराजस्स समुद्विग्नोनराधिपः ।  
 अधोमुखश्चिरं तस्थौ किं कार्यमिति चिन्तयन् ॥ २२॥  
 अभेद्यकवचं मत्वा कर्णमद्भुतविक्रमम् ।  
@@ -17105,9 +15711,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४० ॥ प्रायोपवेशनपर्वणि दशमोऽध्यायः ॥ १० ॥  
 \[अस्मिन्नध्याये२८॥श्लोकाः\]  
 ![](../books_images/U-IMG-1704209382नतुन.png)  
-         
-
-
 
 **॥ त्रयोदशाधिकद्विशततमोऽध्यायः ॥**
 
@@ -17149,8 +15752,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 नोत्सीदेम महाराज क्रियतां वासपर्ययः ॥५॥
 
-
-
 भवन्तो भ्रातरश्शूरास् सर्व एवास्त्रकोविदाः ।  
 कुलान्यल्पावशिष्टानि कृतवन्तो वनौकसाम् ॥ ६॥  
 बीजभूता वयं केचिद् अवशिष्टा महामते ।  
@@ -17184,8 +15785,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^832]: "क - हृतमांसंx यदेतदुपययुक्षहि, ख - इदमर्धं नास्ति, घ - हृष्टा मांसवने वर्षः "
 
-
-
 अर्जुनः—
 
 त्वदधीना[^801] वयं राजन् मा त्वमस्मान् विचारय ।  
@@ -17216,8 +15815,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[ प्रायोपवेशनपर्वसमाप्तम्\]  
 ![](../books_images/U-IMG-1704209940नतुन.png)
 
-
-
 **॥ चतुर्दशाधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1704028029Screenshot2023-12-31183638.png)  
 
@@ -17247,8 +15844,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अर्जुनो यमजौ चोभौ द्रौपदी च यशस्विनी ।  
 स च भीमो महातेजास्सर्वेषामुत्तमो बले ॥६
 
-
-
 चिरस्य जातं धर्मज्ञं सासूयमिव ते तदा ।  
 युधिष्ठिरमुवीक्षन्तस् सहदुःखमनुत्तमम् ॥७
 
@@ -17276,8 +15871,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये११॥ श्लोकाः\]  
  ![](../books_images/U-IMG-1704210385नतुन.png) 
 
-
-
 **॥ पञ्चदशाधिकद्विशततमोऽध्यायः ॥**
 
 ![](../books_images/U-IMG-1702660965ABHI.png)  
@@ -17303,8 +15896,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अधर्मरुचयो मूढास्तिर्यग्गतिपरायणाः ।
 
 [^11]: "ख – इदमर्धं नास्ति"
-
-
 
 कृच्छ्रां योनिमनुप्राप्य सुखं विन्दन्ति नो जनाः ॥ ७॥  
 इह यत् क्रियते कर्म तत् परत्रोपभुज्यते ॥ ८॥  
@@ -17333,8 +15924,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 भगवन् दानधर्माणां तपसो वा महामुने ।
 
-
-
 किंस्विद्बहुगुणं प्रेत्य किं वा दुष्करमुच्यते ॥ १६॥
 
 व्यासः—
@@ -17356,8 +15945,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 मनसा सुविशुद्धेन प्रेत्यानन्तफलं स्मृतम् ॥ २३॥
 
 [^5]: "ख - इदमर्धं नास्ति"
-
-
 
 अत्राप्युदाहरन्तीमम् इतिहासं पुरातनम् ।  
 व्रीहिद्रोणपरित्यागाद् यत् फलं प्राप मुगलः ॥ २४॥
@@ -17388,8 +15975,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सिलोञ्छवृत्तिर्धर्मात्मा मुद्गलस्संयतेन्द्रियः ।  
 आसीद्राजन् कुरुक्षेत्रे सत्यवागनसूयकः ॥ ३
 
-
-
 अतिथिव्रतः क्रियावांश्च कापोतीं वृत्तिमास्थितः ।  
 सत्रमिष्टकृतं नाम समुपास्ते महातपाः ॥ ४॥  
 सपुत्रदारो हि मुनिः पक्षाहारो बभूव ह ।  
@@ -17411,8 +15996,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^11]: "ख – इदमर्धं नास्ति"
 
 [^842]: "क – कुर्वीत कृत; ख - कुर्वन् विगत ; घ - कुर्वीत गत"
-
-
 
 विकचः परुषा वाचो व्याहरन् विविधा मुनिः ॥ १२  
 अभिगम्याथ तं देशम् उवाच मुनिसत्तमः ॥ १२॥
@@ -17441,8 +16024,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^845]: "क - ख - घ -अथानु"
 
-
-
 सपुत्रदारमुल्छन्तम् आविषेश द्विजोत्तमम् ॥ २०  
 तथा तमुच्छधर्माणं दुर्वासा मुनिसत्तमम् ।  
 उपतस्थे यथाकालं बटकृत्वःकृतनिश्चयः ॥ २१  
@@ -17465,8 +16046,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 पावनं परमं मन्ये दर्शनं ते महामुने ॥ २७  
 इन्द्रियाभिजयो धैर्यं संविभागो दमश्शमः ।  
 दया सत्यं च धर्मश्च त्वयि सर्वं प्रतिष्ठितम् ॥ २८
-
-
 
 विशुद्धसत्त्वसम्पन्नो न त्वदन्योऽस्ति कश्चन ।  
 जितास्ते कर्मभिर्लोकाः प्राप्तोऽसि परमां गतिम् ॥ २९  
@@ -17491,8 +16070,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 वैशम्पायनः—
 
-
-
 तमेवंवादिनमृषिर् देवदूतमुवाच ह ॥ ३३॥
 
 मुद्गलः—
@@ -17501,8 +16078,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 के गुणास्तव वसतां किं तपः कश्च निश्चयः।  
 स्वर्गे तत्र सुखं किश्चिद् दोषो वा देवदूतक ॥ ३५
-
-
 
 सतां साप्तपद् मित्रम् आहुस्सन्तः कुलोचिताः ।  
 मित्रतां च पुरस्कृत्य पृच्छामि त्वामहं प्रभो ॥ ३६  
@@ -17533,8 +16108,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 नातप्ततपसः पुंसो नामहायज्ञयाजिनः ।  
 नानृता नास्तिकाश्च वै तत्र गच्छन्ति मुगल ॥ ३
 
-
-
 धर्मात्मानो महात्मानश्शान्ता दान्ता विमत्सराः ।  
 दानधर्मरताः पुंसश् शूराश्च कृतलक्षणाः ॥ ४  
 तत्र गच्छन्ति धर्माग्र्यंकृत्वा शमदमात्मकम् ।  
@@ -17557,8 +16130,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^5]: "ख - इदमर्धं नास्ति"
 
 [^849]: "अ - घ - सप्तार्धानि न सन्ति"
-
-
 
 तेजसानिशरीराणि भवन्त्यत्रोपपद्यताम् ।  
 कर्मजान्येव[^851] मौद्गल्य न मातृपितृजान्युत ॥ १३  
@@ -17584,8 +16155,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^851]: "ख -इदमर्धं नास्ति"
 
-
-
 तथा दिव्यशरीरास्ते न च विग्रहमूर्तयः ॥२१  
 नासुखास्सुखकामाश्च देवदेवास्सनातनाः ।  
 न कल्पे परिवर्तन्ते परिवर्तन्ति ते तथा ॥ २२  
@@ -17607,8 +16176,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^854]: "ख - रागद्वेषौ कुतो मुने मध्ये अर्धं नास्ति"
 
 [^855]: "ख - अर्धत्रयंनास्ति"
-
-
 
 असन्तोषः परीतापो दृष्ट्वापरगतां श्रियम् ।  
 यद्भवत्यतुले स्थाने स्थितानां तच्च दुष्कृतम् ॥ ३०  
@@ -17636,8 +16203,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 देवदूत नमस्तेऽस्तु गच्छ तात यथासुखम् ।
 
-
-
 महादोषेण मे कार्यं न स्वर्गेण सुखेन वा ॥ ३८  
 पतनान्तं महादुःखं परितापस्सुदारुणः ।  
 स्वर्गभाजःपतन्तीह तस्मात् स्वर्गं न कामये ॥ ३९  
@@ -17660,8 +16225,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वर्षात् त्रयोदशादूर्ध्वं व्येतु ते मानसो ज्वरः ॥ ४६
 
 [^795]: "ख – अर्धमिदं नास्ति"
-
-
 
 वैशम्पायनः—
 
@@ -17696,8 +16259,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^858]: "क - दृप्त, घ - कालदृप्त, ख - कञ्चित्कालं"
 
-
-
 ततस्ते यौगपद्येन ययुस्सर्वे चतुर्दिशम् ।  
 मृगयां पुरुषव्याघ्रा ब्राह्मणार्थे परंतपाः ॥ ४  
 द्रौपदीमाश्रमे न्यस्य तृणविन्दोरनुज्ञया ।  
@@ -17720,8 +16281,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कस्य कैषाऽप्यनिन्द्याङ्गींयदि वाऽपि न मानुषी ।
 
-
-
 विवाहेच्छा न मे काचिद् इमां दृष्ट्वाऽसुन्दरीम् ॥ १२॥  
 एतामेवाहमादाय[^859] गमिष्यामि स्वमालयम् ॥ १३  
 गच्छ जानीहि सौम्येमां कस्य का च कुतोऽपि वा ।  
@@ -17743,8 +16302,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४२ ॥ द्रौपदीहरणपर्वणि प्रथमोऽध्यायः ॥ १ ॥  
 \[अस्मिन्नध्याये १७ श्लोकाः\]  
 ![](../books_images/U-IMG-1704214301नतुन.png)
-
-
 
 **॥ एकोनविंशत्यधिकद्विशततमोऽध्यायः ॥**
 
@@ -17773,91 +16330,66 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 न ह्येव नः पृच्छसि ये वयं स्म  
   न चापि जानीम तवेह नाथम् ॥४
 
-
-
 वयं हि मानं तव वर्धयन्तः  
-  
 
 पृच्छाम भद्रे प्रभवं भुवं च ।  
 आचक्ष्व बन्धूंश्च पति कुलं च  
-  
 
 यच्चेह किं वाऽद्य करोषि कार्यम् ॥ ५  
 अहं तु राज्ञस्सुबलस्य पुत्रो  
-  
 
 यं कोटिकाश्येति विदुर्मनुष्याः ।  
 वश्येन्द्रियस्सभ्यरुचिर्वरोरु[^5]  
-  
 
 [^5]: "ख - इदमर्धं नास्ति"
 
 वृद्धोपसेवी गुरुपूजकश्च ॥ ६  
 अथो नु यस्तिष्ठति काञ्चनाङ्गे  
-  
 
 यथा हुतोऽग्निश्चयने तथैव ।  
 त्रिगर्तराजः कमलायताक्षि  
-  
 
 क्षेमङ्करो नाम क एष वीरः ॥ ७  
 अस्मात् परस्त्वेष महाधनुष्मान्  
-  
 
 पुत्रः कुणिन्दाधिपतेर्वरिष्ठः ।  
 निरीक्षते त्वां विपुलायतांसो  
-  
 
 भुवि स्थितः पर्वतवासनित्यः ॥ ८  
 असौ तु यः पुष्करिणीसमीपे  
-  
 
 श्यामो युवा तिष्ठति दर्शनीयः ।
 
-
-
 इक्ष्वाकुराजस्सुबलस्य पुत्रस्  
-  
 
 स एव हन्ता द्विषतां सुमात्रः ॥ ९  
 यस्यानुचक्रं स्वजनाः प्रयान्ति  
-  
 
 सौवीरका द्वादशराजपुत्राः ।  
 शोणाश्वयुक्तेषु रथेषु सर्वे  
-  
 
 मखेषु दीप्ता इव हव्यवाहाः ॥ १०  
 अङ्गारकः कुञ्जरगुप्तकौच  
-  
 
 शत्रुञ्जयस्सञ्जयसुप्रबुद्धौ ।  
 भयङ्करोऽथ भ्रमरो रविश्च  
-  
 
 शूरः प्रतापः कुहकश्च नाम्ना ॥ ११  
 यं षट्सहस्रा रथिनोऽनुयान्ति  
-  
 
 नागा हयाश्चैव पदातयश्च ।  
 जयद्रथो नाम यदि श्रुतस्ते  
-  
 
 सौवीरराजस्सुभगे स एषः ॥ १२  
 तस्यापरे भ्रातरोऽदीनसत्त्वा  
-  
 
 बलाहकामित्रविदारणाद्याः ।  
 सौवीरवीराः प्रवरा युवानो  
-  
 
 राजानमेते बलिनोऽनुयान्ति ॥ १३  
 एतैस्सहायैरुपयाति राजा  
-  
 
 मरुद्गणैरिन्द्र इवाभिगुप्तः ।
-
-
 
 सा जानती ख्यापय नस्सुकेशि  
 कस्याथ भार्या दुहिता च कस्य ॥ १४
@@ -17879,11 +16411,9 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वैशम्पायनः—
 
 अथाब्रवीद् राजपुत्री तदानीं  
-  
 
 पृष्टा शिबीनामृषभेण तेन ।  
 अवेक्ष्य मन्दं प्रतिमुच्य शाखां  
-  
 
 सङ्गृह्णती[^861]कौशिकमुत्तरीयम् ॥ १
 
@@ -17892,15 +16422,11 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 द्रौपदी—
 
 अद्याभिजानीहि नरेन्द्रपुत्र  
-  
 
 न मादृशी त्वां प्रतिवक्तुमर्हसि ।  
 न त्वेह वक्ता हि न तेऽद्य वाक्यम्  
-  
 
 अन्यो नरो वाऽप्यथवाऽपि नारी ॥ २
-
-
 
 एका ह्यहं सम्प्रति तेन चाहं  
   ददानि ते भद्र निबोध चेदम् ।  
@@ -17925,25 +16451,19 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 मन्ये तु तेषां रथसत्तमानां  
   कालोऽतीतः प्राप्त इहोपयातुम् ॥ ७
 
-
-
 सम्मानिता यास्यथ तैर्यथेष्टं  
-  
 
 विमुच्य वाहानवगाहयध्वम् ।  
 प्रियातिथिर्धर्मसुतो महात्मा  
-  
 
 प्रीतो भविष्यत्यभिवीक्ष्य युष्मान् ॥ ८
 
 वैशम्पायनः—
 
 एतावदुक्त्वा द्रुपदात्मजा तु  
-  
 
 शैब्यात्मजं चन्द्रमुखी प्रतीता ।  
 विवेश तां पर्णकुटीं प्रशस्तां  
-  
 
 सञ्चिन्त्य तेषामतिथिस्वधर्मम् ॥ ९
 
@@ -17966,8 +16486,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 कोटिकाश्यवचश्श्रोतुं[^862] शैब्यंसौवीरकोऽब्रवीत् ॥ १
 
 [^862]: "ख – कोटिकाश्योजगामाशु सिन्धुराजनिवेशनम् । [अधिकः पाठः]"
-
-
 
 सौवीरकः—
 
@@ -18002,8 +16520,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कुशलास्ते वरारोहे भर्तारस्तेऽप्यनामयाः ।
 
-
-
 येषां कुशलकामाऽसि तेषां कञ्चिदनामयम् ॥ ९
 
 द्रौपदी—
@@ -18028,8 +16544,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 हतश्रीकांश्च्युतान् राज्यात् कृपणान् गतचेतसः ।  
 अरण्यवासिनः पार्थान् नानुरोद्धुंत्वमर्हसि ॥ १७
 
-
-
 नैव प्राज्ञा गतश्रीकं भर्तारमुपयुञ्जते ।  
 युञ्जानमनुयुञ्जीत न श्रियस्सङ्क्षये बसेत् ॥ १८  
 श्रिया विहीना राज्याञ्चच्युतास्ते शाश्वतीस्समाः ।  
@@ -18053,8 +16567,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 दुश्शला नाम तस्यास्त्वं भर्ता राजकुलोद्रह ॥ २४॥  
 मम भ्राता च न्याय्येन त्वया रक्ष्या महारथ ।  
 धर्मिष्ठानां कुले जातो न धर्मं त्वमवेक्षसे ॥ २५॥
-
-
 
 वैशम्पायनः—
 
@@ -18089,8 +16601,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 मुखेन विष्फूर्य सुवीरराष्ट्रपं  
   ततोऽब्रवीत् तं द्रुपदात्मजा पुनः ॥ १॥
 
-
-
 द्रौपदी —
 
 यशस्विनस्तीक्ष्णविषान् महारथान्  
@@ -18114,136 +16624,101 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^864]: "क - ख - ग - यमेन्द्र"
 
-
-
 पदा समाहत्य पलायमानः  
-  
 
 क्रुद्धं यदा द्रक्ष्यसि भीमसेनम् ॥ ६  
 महाबलं घोरतरं प्रवृद्धं  
-  
 
 जातं हरिं पर्वतकन्दरस्थम् ।  
 प्रसुप्तमुग्रं प्रपदेन हंसि  
-  
 
 यः क्रुद्धमासेत्स्यसि जिष्णुमुग्रम् ॥ ७  
 तीक्ष्णोरगौ तीक्ष्णविषौ द्विजिह्वौ  
-  
 
 मत्तौ पदा क्रामसि पुच्छदेशे ।  
 यः पाण्डवाभ्यां पुरुषोत्तमाभ्यां  
-  
 
 जघन्यजाभ्यां प्रयुयुत्ससे त्वम् ॥ ८  
 यथा च वेणुः कदली नलोवा  
-  
 
 पराभवायैव फलं बिभर्ति ।  
 तथैव मां तैः परिरक्ष्यमाणाम्  
-  
 
 आदास्यसे कर्कटकीव गर्भम् ॥ ९
 
 जयद्रथः—
 
 जानामि कृष्णे विदितात्ममैत्रे  
-  
 
 यथागता द्रौपदि पाण्डुपुत्रान् ।  
 न[^865]त्वेवमेतेन विभीषणेन  
-  
 
 [^865]: "अ - ख - घ - अर्धत्रयं नास्ति"
 
 शक्या वयं त्रासयितुं त्वयाऽद्य ॥ १०
 
-
-
 वयं पुनस्सप्तदशेषु कृष्णे  
-  
 
 कुलेषु सर्वेऽनवमेषु जाताः ।  
 षड्भ्यो गुणेभ्योऽपि हितान् विहीनान्  
-  
 
 जन्यामहे द्रौपदि पाण्डुपुत्रान् ॥ ११  
 सा क्षिप्रमातिष्ठ रथं गजं वा  
-  
 
 न वाक्यमात्रेण वयं स्म शक्याः ।  
 आशंस वाक्यं कृपणं वदन्ती  
-  
 
 सौवीरराजस्य पुनः प्रसादम् ॥ १२
 
 द्रौपदी —
 
 महाबला किं त्विह दुर्बला वा  
-  
 
 सौवीरराजस्य[^866] सुताऽहमस्मि ।  
 साऽहं प्रसादादिह सम्प्रहीणा  
-  
 
 [^866]: "क - ख - घ - पाञ्चालराजस्य"
 
 सौवीरराजं कृपणं वदेयम् ॥ १३॥  
 यस्या हि कृष्णौ पदवीं चरेतां  
-  
 
 समास्थितावेकरथे सहायौ ।  
 इन्द्रोऽपि तां नापहरेत् कथञ्चित्  
-  
 
 मनुष्यमात्रःकृपणः कुतोऽन्यः ॥ १४॥  
 सदा किरीटी परवीरघाती  
-  
 
 निघ्नन् रथस्थो द्विषतां मनांसि ।
 
-
-
 मदन्तरे त्वद्ध्वजिनीं प्रविष्टः  
-  
 
 कक्षं दहन्नग्निरिवोष्णगेषु ॥ १५  
 जनार्दनस्यानुगवृष्णिवीराः  
-  
 
 महेष्वासाः केकयाश्चैव पञ्च।  
 एते हि सर्वे मम राजपुत्राः  
-  
 
 प्रहृष्टरूपाःपदवीं चरेयुः ॥ १६  
 मौर्वीविसृष्टास्स्तनयित्नुघोषा  
-  
 
 गाण्डीवमुक्ता ह्यतिवेलमुग्राः ।  
 हस्तं समाहत्य धनञ्जयस्य  
-  
 
 भीमाश्शरा घोरतरा नदन्ति ॥ १७  
 गाण्डीवमुक्तांश्च महाशरौघान्  
-  
 
 पतङ्गसङ्घानिव शीघ्रवेगान् ।  
 सशङ्खघोषांश्च[^5] तलत्रघोषान्  
-  
 
 [^5]: "ख - इदमर्धं नास्ति"
 
 गाण्डीवधन्वा मुहुरुद्वमंश्च ॥ १८  
 यदा शरानर्पयिता तवोरसि  
-  
 
 तदा मनस्ते किमिवाभविष्यत् ॥ १८  
 गदाहस्तं भीममभिद्रवन्तं  
-  
 
 माद्रीपुत्रौ सम्पतन्तौ हि दृष्ट्वा ।
-
-
 
 अमर्षजं क्रोधविषं वमन्तौ  
    दृष्ट्वा समन्तादुपवेक्ष्यसेऽथ ॥ १९॥  
@@ -18267,14 +16742,10 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तथा समाक्षिप्ततनुस्त्वपापा  
    पपात शाखीव निकृत्तमूला ॥ २३॥
 
-
-
 प्रगृह्यमाणा तु महाजवेन  
-  
 
 मुहुर्विनिश्श्वस्य च राजपुत्री ।  
 सा मृष्यमाणा रथमारुरोह  
-  
 
 धौम्यस्य पादावभिवाद्य कृष्णा ॥२४ ॥
 
@@ -18296,8 +16767,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४२ ॥ द्रौपदीहरणपर्वणि पञ्चमोऽध्यायः ॥ ५ ॥  
 \[अस्मिन्नभ्याये २७॥श्लोकाः \]  
 ![](../books_images/U-IMG-1704218238नतुन.png)
-
-
 
 **॥ त्रयोविंशत्यधिकद्विशततमोऽध्यायः॥**
 
@@ -18327,133 +16796,102 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 क्षिप्रं निवर्तध्वमलं मृगैर्नो  
   मनो हि मे दूयति दह्यते च ।
 
-
-
 बुद्धिं समाच्छाद्य च मे समन्युर्  
-  
 
 उद्धूयते प्राणपतिश्शरीरे ॥ ४  
 सरस्सुपर्णेन हृतोरगं यथा  
-  
 
 अराजकं राष्ट्रमिवेह शान्तम् ।  
 एवंविधं मे प्रतिभाति काम्यकं  
-  
 
 शौण्डैर्यथा पीतसुरश्च कुम्भः ॥ ५
 
 वैशम्पायनः—
 
 ते सैन्धवेयैरनिलोद्धवेगैर्  
-  
 
 महाजवैर्वाजिभिरुह्यमानाः ।  
 युक्तैर्बृहद्भिस्सुरथैर्नृवीरास्  
-  
 
 तदाश्रमायाभिमुखा बभूवुः ॥ ६  
 तेषां तु गोमायुरनल्पघोषो  
-  
 
 निवर्ततां वाममुपेत्य पार्श्वम् ।  
 प्रव्याहरत् तत् प्रविमृश्य राजा  
-  
 
 प्रोवाच भीमं च धनञ्जयं च ॥ ७
 
 युधिष्ठिरः—
 
 यथा वद्त्येष हि[^868]हीनयोनिस्  
-  
 
 [^868]: "ख - वि; घ – नि"
 
 सालावृको वाममुपेत्य पार्श्वम् ।  
 सुव्यक्तमस्मान् परिभूय पापैः  
-  
 
 कृतोऽवमर्दःकुरुभिः प्रसह्य ॥ ८
-
-
 
 वैशम्पायनः—
 
 ते न्यायतस्तद्वनमाविशन्तो  
-  
 
 महत्यरण्ये मृगयां चरित्वा ।  
 बालामपश्यन्त तदा रुदन्तीं  
-  
 
 धात्रेयिकां प्रेष्यवधूं प्रियायाः ॥ ९  
 तामिन्द्रसेनस्त्वरितोऽभिसृत्य  
-  
 
 रथादवप्लुत्य ततोऽभ्यधावत् ।  
 प्रोवाच चैनां वचनं नरेन्द्र  
-  
 
 धात्रेयिकामार्ततरस्तदानीम् ॥ १०
 
 इन्द्रसेनः—
 
 कि रोदिषि त्वं पतिता धरण्यां  
-  
 
 किं ते मुखं शुष्यति दीनवर्णम् ।  
 गतेष्वरण्यं हि सुतेषु पाण्डोः  
-  
 
 कञ्चित् परैर्नापकृतं वनेऽस्मिन् ॥ ११
 
 वैशम्पायनः—
 
 पर्याकुला साधु समीक्ष्य सूतम्  
-  
 
 अभ्यापतन्तं द्रुतमिन्द्रसेनम् ।  
 उरो घ्रतीकष्टतरं तदानीम्  
-  
 
 उच्चैःप्रचुक्रोश हृतेति देवी ॥ १२
 
 इन्द्रसेनः—
 
 अनिन्द्यरूपा तु विशालनेत्रा  
-  
 
 शरीरतुल्या कुरुपुङ्गवानाम् ।
 
-
-
 केनात्मनाशाय यदा परीता  
-  
 
 वनं[^869]समासाद्य नरेन्द्रपत्नीम् ॥१३  
 यथेह देवीं पृथिवीं प्रविष्टा  
-  
 
 [^869]: "क -इन्द्रस्समासाद्य नरेन्द्रपत्नी; ख - छिद्रं समासाद्य नरेन्द्रपनी घ - मितस्समासाद्य नरेन्द्रपत्नी"
 
 दिवं प्रपन्ना ह्यथवा समुद्रम् ।  
 पदं गमिष्यन्ति हि तस्य पार्थास्  
-  
 
 तथा हि सन्तप्यति धर्मराजः ॥ १४  
 को हीदृशानामरिमर्दनानां  
-  
 
 क्लेशक्षमाणामपराजितानाम् ।  
 2प्राणैस्समामिष्टतमां जिहीर्षुर्  
-  
 
 अनुत्तमं रत्नमिव प्रमुष्णन् ॥ १५  
 न बुध्यते नाथवतीमिहाद्य  
-  
 
 बहिश्वरं हृदयं पाण्डवानाम् ।  
 अस्याद्य कायंप्रविभिद्य घोरा  
-  
 
 महीं प्रवेक्ष्यन्ति शिताश्शराग्र्याः॥ १६
 
@@ -18468,8 +16906,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 धात्रेयिका सारथिमिन्द्रसेनम् ।  
 जयद्रथेनापहृता प्रमथ्य  
 पञ्चेन्द्रकल्पान् परिभूय कृष्णा ॥ \[अधिकः पाठः\]
-
-
 
 तिष्ठन्ति पद्मानि नवान्यमूनि  
   द्रुमाश्च न ग्लान्ति तथैव भग्ना।  
@@ -18492,81 +16928,61 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 पुरा हि मन्त्राहुतिपूजितायां  
   हुताग्निवेद्यांबलिभुङ्निलीयते ॥ २१
 
-
-
 मा वः प्रियायास्सुनसं सुलोचनं  
-  
 
 चन्द्रप्रभाच्छं वदनं पुरस्तात् ।  
 रागाञ्चितः कश्चिदकृत्यकारी  
-  
 
 श्वा वै पुरोडाशमिवोपयोक्ष्यत् ॥ २२  
 एतानि वर्त्मान्यनुयात वासः  
-  
 
 कालं प्रति क्षिप्रमिहात्यगाद्वै ।  
 प्रत्याहरध्वं द्विषतां सकाशा-  
-  
 
 ल्लक्ष्मीमिव स्वां दयितां नृसिंहाः ॥ २३
 
 युधिष्ठिरः—
 
 भद्रे तूष्णीमास्स्व नियच्छ वाचं  
-  
 
 माऽस्मत्सकाशे परुषाण्यवोचः ।  
 राजानो वा यदि वा राजपुत्रा  
-  
 
 बलेन मत्ताः पञ्चतां प्राप्नुवन्ति ॥ २४
 
 वैशम्पायनः—
 
 एतावदुक्त्वा प्रययुर्हि शीघ्रं  
-  
 
 तान्येव वर्त्मान्यनुवर्तमानाः ।  
 मुहुर्मुहुर्व्यालवदुच्छ्वसन्तो  
-  
 
 ज्यां विक्षिपन्तश्च महाधनुर्भ्यः ॥ २५  
 ततोऽपश्यंस्तस्य सैन्यस्य रेणुम्  
-  
 
 उद्धृयन्तं वाजिखुरप्रणुन्नम् ।
 
-
-
 द्विजातिमध्ये[^870] विचरन्तं च धौम्यं  
-  
 
 [^870]: "क - ख - घ - पदाति"
 
 विक्रोशन्तं भीममभ्यद्रवेति ॥ २६  
 त्वं ते सतां धौम्यमदीनसत्त्वाः  
-  
 
 दृष्ट्वा तु सर्वे क्षिति राजपुत्राः ।  
 श्येना यथैवामिषसम्प्रणुन्ना  
-  
 
 जवेन तत् सैन्यमथाभ्यधावन् ॥ २७  
 तेषां महेन्द्रोपमविक्रमाणां  
-  
 
 संरब्धानां घर्षणाद्याज्ञसेन्याः ।  
 कोपः प्रजज्वाल जयद्रथं च  
-  
 
 दृष्ट्वा प्रियां तस्य रथे स्थितां च ॥ २८  
 प्रचुक्रुशुश्चाप्यथ सिन्धुरजिं  
-  
 
 वृकोदरश्चैव धनञ्जयश्च ।  
 यमौ च राजा च महाधनुर्धरास्  
-  
 
 ततो दिशस्सम्मुमुहुः परेषाम् ॥ २९॥
 
@@ -18575,8 +16991,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४२ ॥ द्रौपदीहरणपर्वणि षष्टोऽध्यायः ॥ ६ ॥  
 \[अस्मिन्नध्याये २९ श्लोकाः\]  
 ![](../books_images/U-IMG-1704218750नतुन.png)
-
-
 
 **॥ चतुर्विंशत्यधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1702817857SS.png)
@@ -18590,207 +17004,155 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 भीमसेनार्जुनौ दृष्ट्वा क्षत्रियाणाममर्षिणाम् ॥ १
 
 तेषां ध्वजाग्राण्यभिवीक्ष्य राजा  
-  
 
 स्वयं दुरात्मा कुरुपुङ्गवानाम् ।  
 जयद्रथो याज्ञसेनीमुवाच  
-  
 
 रथे स्थितां भानुमतीं हतौजाः ॥ २
 
 जयद्रथः—
 
 आयान्ति ते पञ्च रथा महान्तो  
-  
 
 मन्ये च कृष्णे पतयस्तवेमे ।  
 सा मामति ख्यापय नस्सुकेशि  
-  
 
 परं परं पाण्डवानां रथस्थम् ॥ ३
 
 द्रौपदी—
 
 किं ते ज्ञातैर्मूढ महाधनुर्धरैर्  
-  
 
 अनायुष्यं कर्म कृत्वाऽतिघोरम् ।  
 एते वीराः पतयो मे समेता  
-  
 
 न वश्शेषः कश्चिदिहास्ति युद्धे ॥ ४
 
-
-
 आख्यातव्यं तव सर्वंमुमूर्षोर्  
-  
 
 मया तुभ्यं पृष्टया धर्म एषः ।  
 न मे यथा[^871] त्वद्भयं विद्यते वा  
-  
 
 [^871]: "क - ज्यथा; ख - नमे व्यथात्वद्भयं विद्यते वा । घ - ज्यथा त्वद्भयाद्"
 
 सम्पश्यन्त्यास्सानुजं धर्मराजम् ॥ ५  
 यस्य ध्वजाग्रेनदतो मृदङ्गौ  
-  
 
 नन्दोपनन्दौ मधुरो सुयुक्तौ।  
 एनं[^872] स्वधर्मार्थविनिश्चयज्ञं  
-  
 
 [^872]: "ख - अर्धद्वयमिदं नास्ति"
 
 सदा जनाः कृत्यवन्तोऽनुयान्ति ॥ ६  
 स एष जाम्बूनदशुद्धगौरः  
-  
 
 प्रचण्डघोरस्तनुरायताक्षः ।  
 एतं कुरुश्रेष्ठतमं वदन्ति  
-  
 
 युधिष्ठिरं धर्मसुतं पतिं मे ॥ ७  
 अप्येष शत्रोश्शरणागतस्य  
-  
 
 दद्यात् प्राणान् धर्मचारी नृवीरः ।  
 परैह्येनं[^873]मूढ जवेन भूतये  
-  
 
 [^873]: "क - यत्वात्मनः प्राञ्जलिं न्यस्तशस्त्र- मथाप्येनं पश्यसियं रथे स्थितम् ॥[पाठान्तरम्] ख - इदमर्धं नास्ति घ - त्वय्यात्मनि प्राञ्जलि न्यस्तशस्त्रे दद्मादेव प्राणमसौ तवापि ।[पाठान्तरम् ]"
 
 न त्वात्मनः प्राञ्जलिर्न्यस्तशस्त्रः ॥ ८
 
-
-
 अथाप्येनं पश्यसि यं रथस्थं  
-  
 
 महाभुजं सालमिव प्रवृद्धम् ।  
 सन्दष्टौष्ठं भ्रुकुटीसंहतध्रुवं  
-  
 
 वृकोदरो नाम पतिर्ममैषः ॥ ९  
 आजानेया बलिनस्साधुदान्ता  
-  
 
 महाबलाश्शूरमुदावहन्ति ।  
 एतस्य कर्माण्यतिमानुषाणि  
-  
 
 भीमेति शब्दोऽस्य ततः पृथिव्याम् ॥ १०  
 नास्यापराधाच्छेषमिहाप्नुवन्ति[^874]  
-  
 
 [^874]: "ख - अयं श्लोको नास्ति"
 
 नाप्यस्य वैरं विस्मरते कदाचित् ।  
 वैरस्यान्तं सन्निधायोपयाति  
-  
 
 पश्चाच्छान्ति न च तत् तप्यतीव ॥ ११  
 मृदुर्वदान्यो मतिमान् यशस्वी  
-  
 
 जितेन्द्रियो वृद्धसेवी नृवीरः ।  
 भ्राता च शिष्यश्च युधिष्ठिरस्य  
-  
 
 धनञ्जयो नाम पतिर्ममेषः ॥ १२  
 यो[^875]नैव कोपान्न भयान्न लोभात्  
-  
 
 [^875]: "क - कदाऽपि कोपान्नभयान्न कामात्; ख - यो वै न कोपान्नभयान्नकामात्; घ - यौ नैव + न्नकामात्"
 
 त्यजेद्धर्मं न नृशंसं च कुर्यात् ।
 
-
-
 स एष वैश्वानरतुल्यतेजाः  
-  
 
 कुन्तीसुतश्शत्रुसहः प्रमाथी ॥ १३  
 यस्सर्वधर्मार्थविनिश्चयज्ञो  
-  
 
 भयार्तानां भयहर्ता मनीषी ।  
 बन्धुप्रियश्शस्त्रभृतां वरिष्ठो  
-  
 
 महाहवेष्वप्रतिवार्यवीर्यः ॥ १४  
 यस्योत्तमं रूपमाहुः पृथिव्यां  
-  
 
 यं पाण्डवाः परिरक्षन्ति सर्वे ।  
 प्राणैर्गरीयान् समनुव्रतश्च  
-  
 
 स एष वीरो नकुलः पतिर्मे ॥ १५  
 यः खङ्गयोधी लघुचित्रहस्तो  
-  
 
 महांश्च धीमान् सहदेवोऽद्वितीयः ।  
 यस्मात्[^5] कर्म द्रक्ष्यसे मूढसत्त्व  
-  
 
 [^5]: "ख - इदमर्धं नास्ति"
 
 शतक्रतोर्वा दैत्यसेनासु सङ्ख्ये ॥ १६  
 शूरः कृतास्त्रोमतिमान् मनीषी  
-  
 
 प्रियङ्करो धर्मसुतस्य राज्ञः ।  
 हुताशचन्द्रार्कसमानतेजा  
-  
 
 जघन्यजः पाण्डवानां प्रियश्च ॥ १७
 
-
-
 बुद्ध्या समो यस्य नरो न विद्यते  
-  
 
 वक्ता तथा सत्सु विनिश्चयज्ञः ।  
 स एष शूरो नित्यममर्षणश्च  
-  
 
 श्रीमान् प्राज्ञस्सहदेवः पतिर्मे॥ १८  
 त्यजेत् प्राणान् प्रविशेद्धव्यवाहं  
-  
 
 न त्वेवैष व्याहरेद्धर्मबाह्यम् ।  
 सदा मनीषी क्षत्रधर्मे निविष्टः  
-  
 
 कुन्त्याः प्राणैरिष्टतमो नृवीरः ॥ १९  
 विशीर्यन्तीं नावमिवार्णवान्ते  
-  
 
 रत्नाभिपूर्णां मकरस्य पृष्ठे ।  
 सेनां तथेमां हतसर्वयोधां  
-  
 
 विक्षोभितां द्रक्ष्यसि पाण्डुपुत्रैः ॥ २०  
 इत्येवं ते कथिताः पाण्डुपुत्रा  
-  
 
 यांस्त्वं मोहादवमत्य प्रवृत्तः ।  
 यद्येतैस्त्वं मुच्यसेऽरिष्टदेहः  
-  
 
 पुनर्जन्म प्राप्स्यसे जीवनं च ॥ २१
 
  वैशम्पायनः—
 
 ततः पार्थाः पञ्च पञ्चेन्द्रकल्पास्  
-  
 
 त्यक्त्वा त्रस्तान् प्राञ्जलींस्तान् पदातीन् ।
 
-
-
 स्थाऽनीकं शरवर्षान्धकारं  
-  
 
 चक्रुः क्रुद्धास्सर्वतस्ते निगृह्य ॥ २२
 
@@ -18824,8 +17186,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 हैमबिन्दु महोत्सेधां सर्वसैक्यायसीं गदाम् ।
 
-
-
 प्रगृह्याभ्यद्रवद्भीमस् सैन्धवं कालचोदितम् ॥ ४  
 तदन्तरं समावृत्य कोटिकाश्योऽभ्यवारयत् ।  
 महता रथवंशेन परिवार्य वृकोदरम् ॥ ५  
@@ -18846,8 +17206,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तमथाभ्यागतं राजा पदातिं कुन्तिनन्दनः ।
 
 [^877]: "क - ख - घ -तथा क्रुद्धो"
-
-
 
 अर्धचन्द्रेण बाणेन विव्याधोरसि धर्मराट् ॥ १३  
 स[^878] भिन्नहृदयो वीरो वक्राच्छोणितमुद्वमन् ।  
@@ -18870,8 +17228,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^878]: "अ - अर्धत्रयं नास्ति"
 
-
-
 पतन्नवाक्शिरा भूमौ हस्त्यारोहमपोथयत्[^879] ॥ २२  
 स तत् कर्म महत् कृत्वा शूरो माद्रवतीसुतः ।  
 भीमसेनरथं प्राप्य शर्म लेभे महारथः ॥ २३  
@@ -18891,8 +17247,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^879]: "क - दन्तौ मोहादपोथयत्, ख - हस्तान्मोहादपोथयत्, घ - प्राणांस्तत्याज संयुगे"
 
 [^880]: "ख – सूतस्य तु ततो बाणं विससर्ज चमूमुखे । स बाणस्तत्रतीक्ष्णाग्रो वेगेनापाहरच्छिरः । न बुवोध हतं सुतं स राजा बाहुशालिना। (अर्धत्रयस्थाने पाठान्तरम् ततो 'विरथं' इत्यादि
-
-
 
 प्रच्छाद्यपृथिवीं तस्थुस् सर्वमायोधनं प्रति ।  
 शरीराण्यशिरस्कानि विदेहानि शिरांसि च ॥ ३०  
@@ -18914,8 +17268,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यस्यापराधात् प्राप्तोऽयम् अस्मान् क्लेशो दुरासदः ।  
 एतस्मिन् समरोद्देशे न पश्यामि जयद्रथम् ॥ ३७  
 तमेवान्विच्छ भद्रं ते किं ते योधैर्निपातितैः ।
-
-
 
 अनार्याणामिदं[^881]कर्म कथं वा मन्यते भवान् ॥ ३८
 
@@ -18951,8 +17303,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कर्तव्यं चेत् प्रियं मह्यं वध्यस्स पुरुषाधमः ।
 
-
-
 सैन्धवापशदः पापो दुर्मतिः कुलपांसनः ॥ ४५  
 भार्यावमन्ता निर्वैरो यश्च राज्यहरो रिपुः ।  
 याचमानोऽपि सङ्ग्रामे न सञ्जीवितुमर्हति ॥ ४६
@@ -18974,8 +17324,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 इदमत्यद्भुतं चात्र चकारातिरथोऽर्जुनः ।  
 क्रोशमात्रगतानश्वान् सैन्धवस्य जघान यत् ॥ ५३  
 स हि दिव्यास्त्रसम्पन्नः कृच्छ्रकालेष्वसम्भ्रमः ।
-
-
 
 अकरोद्दुष्करं कर्म शरैरस्त्रानुमन्त्रितैः ॥ ५४  
 ततोऽभ्यधावतां वीरावुभौ भीमधनञ्जयौ ।  
@@ -19005,8 +17353,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये ६१ श्लोकाः \]  
 ![](../books_images/U-IMG-1704217181नतुन.png)
 
-
-
 **॥ षड्विंशत्यधिकद्विशततमोऽध्यायः ॥**  
 
 ![](../books_images/U-IMG-1702824085Screenshot2023-12-06224447.png) 
@@ -19031,8 +17377,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 दुश्शलायाः कृते राजा यत् त्वामाहेति कौरवः ॥ ६
 
 [^883]: "क - ख - घ -धावन्तं"
-
-
 
  भीमः—
 
@@ -19061,8 +17405,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 रथमारोपयामास विसंज्ञं पांसुकुण्ठितम् ॥ १३  
 ततस्तं रथमास्थाय भीमः पार्थानुगस्तदा ।  
 अग्र्यमाश्रममध्यस्थम् अभ्यगच्छद्युधिष्ठिरम् ॥ १४
-
-
 
 दर्शयामास बीभत्सुस् तदवस्थं जयद्रथम् ।  
 तं राजा प्राहसदृष्ट्वा मुच्यतामिति चाब्रवीत् ॥ १५  
@@ -19096,8 +17438,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 एवंविधं हि कः कुर्यात् त्वदन्यः पुरुषाधमः ।  
 कर्म धर्मविरुद्धं वै लोकदुष्टं च कर्म ते ॥ २२
 
-
-
 वैशम्पायनः—
 
 गतसत्त्वमिव ज्ञात्वा कर्तारमशुभस्य तम् ।  
@@ -19129,8 +17469,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अजय्यांश्चाप्यवध्यांश्च वारयिष्यसि तान् युधि ।  
 ऋतेऽर्जुनं महाबाहुं देवैरपि दुरासदम् ॥ २९
-
-
 
 यमाहुरजितं देवं शङ्खचक्रगदाधरम् ।  
 प्रधानस्सोऽस्त्रविदुषां तेन कृष्णेन रक्ष्यते ॥ ३०
@@ -19164,8 +17502,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तेषां मध्ये महर्षीणां शृण्वतामनुशोचताम् ।  
 मार्कण्डेयमिदं वाक्यम् अब्रवीत् पाण्डुनन्दनः ॥ ३
 
-
-
  युधिष्ठिरः—
 
 मन्ये कालश्च बलवान् दैवं च दुरतिक्रमम् ।  
@@ -19190,15 +17526,10 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
    ॥ ४२ ॥ द्रौपदीहरणपर्वणिदशमोऽध्यायः ॥ १० ॥  
          \[ अस्मिन्नध्याये ११ श्लोकाः\]
 
-            
 ![](../books_images/U-IMG-1702829100नतुन.png)
-
-
 
 **॥ अष्टाविंशत्यधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1702829622ABHI.png)
-
- 
 
 मार्कण्डेयेन युधिष्ठिरं प्रति रामोपाख्यानकथनारम्भः ॥१॥ तत्र रामाद्युत्पत्तिकथनपूर्वकं रावणोत्पत्त्युपोद्धाततया कुबेरोत्पत्तिकथनम् ॥२॥
 
@@ -19225,8 +17556,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अजो नामाभवद्राजा महानिक्ष्वाकुवंशजः ।  
 तस्य पुत्रो दशरथश्शश्वत् स्वाध्यायवाञ्छुचिः ॥ ६
 
-
-
 अभवंस्तस्य चत्वारः पुत्रा धर्मार्थचारिणः ।  
 रामलक्ष्मणशत्रुघ्नाभरतश्च महाबलः ॥ ७  
 रामस्य माता कौसल्या कैकेयी भरतस्य तु ।  
@@ -19246,8 +17575,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अमरत्वं धनेशत्वं लोकपालत्वमेव च ॥ १४॥
 
 [^388]: "क - नास्तीदमर्धम्"
-
-
 
 ईशानेन तथा सख्यं पुत्रं घ नलकूबरम् ।  
 राजधानीनिवेशं च लङ्कां रक्षोगणान्विताम् ॥ १५॥
@@ -19276,8 +17603,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तास्तथा वै महात्मानं सन्तोषयितुमुद्यताः ।  
 ऋषिं भरतशार्दूल नृत्यगीतविशारदाः ॥ ४
 
-
-
 पुष्पोत्कटा बका चेति मालिनीति विशां पते ।  
 अन्योन्यस्पर्धया राजञ् श्रेयस्कामास्सुमध्यमाः ॥ ५  
 तासां स भगवांस्तुष्टो महात्मा प्रददौ वरान् ।  
@@ -19297,8 +17622,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सर्वे वेदविदश्शूरास् सर्वे सुचरितव्रताः ।  
 ऊषुः पित्रा सह रता गन्धमादनपर्वते ॥ १३  
 ततो वैश्रवणं तत्र ददृशुर्नरवाहनम् ।
-
-
 
 पित्रा सार्ध समासीनम् ऋद्ध्या परमया युतम् ॥१४
 
@@ -19329,8 +17652,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यद्यदिष्टमृते त्वेकम् अमरत्वं तथाऽस्तु तत् ॥ २२
 
 यद्यदग्नौ हुतं सम्यक् शिरस्ते महदीप्सितम् ।
-
-
 
 तथैव तानि ते देहे भविष्यन्ति यथेप्सितम् ॥ २३  
 वैरूप्यं च न ते देहे कामरूपधरस्तथा ।  
@@ -19364,8 +17685,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 परमापद्गतस्यापि नाधर्मे मे रतिर्भवेत् ।  
 अशिक्षितं च भगवन् ब्रह्मास्त्रं प्रतिभातु मे ॥ ३०॥
 
-
-
 ब्रह्मा—
 
 यस्माद्राक्षसयोनौ ते जातस्यामित्रकर्शन ।  
@@ -19388,8 +17707,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 राक्षसाः पुरुषादाश्च पिशाचाश्च महाबलाः ।  
 सर्वे समेत्य राजानम् अभ्यषिञ्चन् दशाननम् ॥ ३८॥  
 दशग्रीवस्तु दैत्यानां दानवानां बलोत्कटः ।
-
-
 
 आक्रम्य रत्नान्यहरत् कामरूपी विहङ्गमः ॥ ३९॥  
 रावयामास लोकान् यत् तस्माद्रावण उच्यते ।  
@@ -19419,8 +17736,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अवध्यो वरदानेन कृतो भगवता पुरा ॥ २  
 स बाधते प्रजास्सर्वा विप्रकारैर्महाबलः ।  
 ततो नस्त्रातु भगवान्नन्यस्त्राता न विद्यते ॥ ३
-
-
 
 ब्रह्मा—
 
@@ -19452,8 +17767,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^885]: "क - घ - न्वैमहाभागान्"
 
-
-
 ओजसा तेजसा युक्तान् यशसा च बलेन च ।  
 भेत्तारो गिरिशृङ्गाणां सालतालशिलायुधाः ॥ १२  
 वज्रसंहननास्सर्वे सर्वे घोरबलास्तथा ।  
@@ -19483,8 +17796,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 उक्तं भगवता जन्म रामादीनां पृथक् पृथक् ।  
 प्रस्थानगमने ब्रह्मञ्श्रोतुमिच्छामि कथ्यताम् ॥ १
 
-
-
 कथं दाशरथी वीरौ भ्रातरौ रामलक्ष्मणौ ।  
 प्रस्थापितौबने ब्रह्मन् मैथिली च यशस्विनी ॥ २
 
@@ -19507,8 +17818,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 दीप्यमानं श्रिया वीरं शक्रादनवमं बले ।
 
 [^886]: "ख - घ - रञ्जयामास"
-
-
 
 पारगं सर्वधर्माणां बृहस्पतिसमं मतौ॥ १०
 
@@ -19546,8 +17855,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सुभगा खलु कौसल्या यस्याः पुत्रोऽभिषेक्ष्यते ।  
 रुद्धं हि खलु सौभाग्यं यस्याः पुत्रो न राज्यभाक्॥ १८
 
-
-
 मार्कण्डेयः—
 
 सा तद्वचनमाज्ञाय सर्वाभरणभूषिता ।  
@@ -19584,8 +17891,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 स तद्राजा वचश्श्रुत्वा विप्रियं दारुणोदयम् ।  
 दुःखार्तो भरतश्रेष्ठ न किञ्चिव्द्याजहार ह॥ २६
 
-
-
 ततस्तथोक्तं पितरं रामो विज्ञाय वीर्यवान् ।  
 वनं प्रतस्थे धर्मात्मा राजा सत्यो भवत्विति॥ २७
 
@@ -19616,8 +17921,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कौसल्यां च सुमित्रां च कैकेयीं च सुदुःखिताम्।  
 अग्रे प्रस्थाप्य यानैस्स शत्रुघ्नसहितो ययौ॥ ३५
-
-
 
 वसिष्ठवामदेवाभ्यां विप्रैश्चान्यैस्समाहितः[^889]।  
 पौरजानपदैस्सार्धं रामानयनकाङ्क्षयां॥ ३६
@@ -19653,8 +17956,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये ४१॥ लोकाः\]  
 —————
 
-
-
 **॥ द्वात्रिंशदधिकद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1702375774Screenshot2023-12-03092928.png)
 
@@ -19687,8 +17988,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 रावणः—
 
 केनास्येवं कृता भद्रे मामचिन्त्यावमत्य च ।
-
-
 
 कश्शूलं तीक्ष्णमासाद्य सर्वगात्रेषु सेवते॥ ७॥
 
@@ -19723,8 +18022,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये १५ श्लोकाः\]  
 ————
 
-
-
 **॥ त्रयस्त्रिंशदधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1702434522Screenshot2023-12-07122852.png)
 
@@ -19752,8 +18049,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 शशंस रावणस्तस्मै तत् सर्वं रामचेष्टितम् ।  
 मारीचस्त्वब्रवीच्छ्रुत्वा समासेनैव रावणम् ॥ ५
-
-
 
 मारीचः—
 
@@ -19790,8 +18085,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ध्रुवं सीता समीक्ष्य त्वां राघव चोदयिष्यति ।  
 अपक्रान्ते च काकुत्स्थे सीता वश्या भविष्यति॥ १२
 
-
-
 तामादायापनेष्यामि ततस्स न भविष्यति ।  
 भार्यावियोगाद्दुर्बुद्धिर् एतत् साह्यं कुरुष्व मे। १३
 
@@ -19820,8 +18113,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 निशाचरं विदित्वा तं राघवः प्रतिभानवान् ।  
 अमोघं शरमादाय जघान मृगरूपिणम्॥ २१
-
-
 
 स रामबाणाभिहतः कृत्वा चार्तस्वरं ततः ।  
 हासीते लक्ष्मणेत्येवं चुक्रोशार्तस्वरेण ह॥ २२  
@@ -19855,8 +18146,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 एतादृशं वचश्श्रुत्वा लक्ष्मणो राघवप्रियः।  
 पिधाय कर्णौ सद्वृत्तःप्रतस्थे येन राघवः॥ २९
 
-
-
 स रामस्य पदं गृह्य प्रससार धनुर्धरः॥ २९॥
 
 एतस्मिन्नन्तरे रक्षो रावणःप्रत्यदृश्यत।  
@@ -19888,8 +18177,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 प्रपतेद्द्यौस्सनक्षत्रापृथिवी शकलीभवेत् ।
 
-
-
 शुष्येत् तोयनिधौ तोयं चन्द्रश्शीतांशुतां त्यजेत्॥ ३७॥
 
 उष्णांशुत्वमथो जह्याद् आदित्यो वह्निरुष्णताम् ।  
@@ -19918,8 +18205,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये ४३॥ श्लोकाः\]  
 ————
 
-
-
 **॥ चतुत्रिंशदधिकद्विशततमोऽध्यायः ॥**  
 
 ![](../books_images/U-IMG-1702438598Screenshot2023-11-27131905.png)
@@ -19947,8 +18232,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 स वध्यमानो गृध्रेण रामप्रियहितैषिणा ।  
 खङ्गमादाय चिच्छेद भुजौ तस्य पतत्रिणः॥ ६
-
-
 
 निहत्य[^722] गृध्रराजं स भिन्नाभ्रशिखरोपमम् ।  
 ऊर्ध्वमाचक्रमे सीतां गृहीत्वाऽङ्केन रावणः॥ ७
@@ -19986,8 +18269,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अपि जीवति वैदेही नेति पश्यामि लक्ष्मण॥ १४
 
-
-
 मार्कण्डेयः—
 
 तस्य तत् सर्वमाचख्यौ सीताया लक्ष्मणो वचः।  
@@ -20022,8 +18303,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 दक्षिणेनेति काकुत्स्थो विदित्वाऽस्य तदिङ्गितम् ।  
 संस्कारं लम्भयामास सखायं पूजयन् पितुः॥ २२
 
-
-
 ततो दृष्ट्वाऽऽश्रमपदं व्यपविद्धबृसीकटम् ।  
 विध्वस्तकलशं शून्यं गोमायुबलसेवितम्॥ २३
 
@@ -20052,8 +18331,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 द्रक्ष्यामि प्रथिते राज्ये पितृपैतामहे स्थितम्॥ ३१
 
 [^1]: "क–अर्धचतुष्टयं नास्ति"
-
-
 
 द्रक्ष्यन्त्यार्यस्य धन्या ये जना श्रीसहितस्य वै ।  
 अभिषिक्तस्य वदनं सोमं व्यभ्रामलं यथा॥ ३२
@@ -20084,8 +18361,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 पप्रच्छ रामस्तं वाग्मी कस्त्वं ब्रूहीति पृच्छतः।
 
-
-
 रामोऽहं[^896] दर्शनं चित्रंदुर्दर्शं प्रतिभाति मे॥ ३९॥
 
 [^896]: "क- ख-रामोहं किमिदं चित्रंदर्शनं, घ-कामया किमिदं चित्रमाश्चर्यं"
@@ -20114,8 +18389,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४२ ॥ द्रौपदीहरणपर्वणि सप्तदशोऽध्यायः ॥ १७ ॥  
 \[अस्मिन्नध्याये ४५॥श्लोकाः\]  
 —————
-
-
 
 **॥ पञ्चत्रिंशदधिकद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1702455511Screenshot2023-12-06202024.png)
@@ -20150,8 +18423,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एवं बहुविधैर्वाक्यैर् लक्ष्मणेन स राघवः ।
 
-
-
 उक्तः प्रकृतिमापेदे कार्ये व त्वरितोऽभवत्॥ ७
 
 निषेध्य वारि पम्पायास् तर्पयित्वा पितृृनपि ।  
@@ -20181,8 +18452,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सुमीवश्चापि वैदेह्याः पुनरानयने नृप॥ १५
 
 इत्येवं समयं कृत्वा विश्वास्य च परस्परम्।
-
-
 
 अभ्येत्य सर्वे किष्किन्धां तस्थुर्युद्धाभिकाङ्क्षिणः॥ १६
 
@@ -20220,8 +18489,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 मैन्दश्च द्विविदश्चैव हनुमान्नाम वानरः।  
 जाम्बवानृक्षराजश्च सुग्रीवसहितास्तथा ॥ २४
 
-
-
 सर्व एते महात्मनो बुद्धिमन्तो महाबलाः ।  
 अलं तव विनाशाय रामवीर्यं व्यपाश्रय॥ २५
 
@@ -20254,8 +18521,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 उभौ जघ्नतुरन्योन्यम् उभौ तौ सन्निपेततुः ।  
 उभौ ववल्गतुश्चित्रं मुष्टिभिश्चाभिजघ्नतुः॥ ३२
 
-
-
 उभौ रुधिरसिक्ताङ्गौनखदन्तपरिक्षतौ ।  
 शुशुभाते रुषा वीरौ पुष्पिताविव किंशुकौ॥ ३३
 
@@ -20284,8 +18549,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 निवासमकरोद्धीमान् सुग्रीवेणाभ्यवस्थितः॥ ४१
 
 रावणोऽपि पुरीं लङ्कां गत्वा कामबलात्कृतः ।
-
-
 
 सीतां निवेशयामास भवने नन्दनोपमे॥ ४२
 
@@ -20321,8 +18584,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 आर्याःखादत मां शीघ्रं न मे लोभोऽस्ति जीवने ।
 
-
-
 विना तं पुण्डरीकाक्षं नीलकुञ्चितमूर्धजम्॥ ५१
 
 अद्यैवाहं निराहारा जीवन्ती प्रियवर्जिता ।  
@@ -20356,8 +18617,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सख्यं वानरराजेन शक्रप्रतिमतेजसा ।  
 कृतवान् राघवश्श्रीमांस्त्वदर्थे च कृतोद्यमः ॥ ५९
 
-
-
 मा च ते भूद्भयं भीरु रावणाल्लोकगर्हितात् ।  
 नलकूबरशापेन रक्षिता ह्यस्यनिन्दिते॥ ६०
 
@@ -20389,8 +18648,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^901]: "ख - मासाद्यभुञ्जानो घृतपायसम्। (मध्ये अर्धत्रयं नास्ति
 
-
-
 रामस्यास्त्रेण पृथिवी परिक्षिप्ता ससागरा।  
 यशसा पृथिवीं कृत्स्नां पूरयिष्यति ते पतिः॥ ६९
 
@@ -20415,8 +18672,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४२ ॥ द्रौपदीहरणपर्वणि अष्टादशोऽध्यायः ॥ १८ ॥  
 \[अस्मिन्नध्याये ७३ ॥ श्लोकाः \]  
 —————
-
-
 
 **॥ षट्त्रिंशदधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1702483154Screenshot2023-12-13212841.png)
@@ -20454,8 +18709,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 स तामामन्त्र्य सुश्रोणीं पुष्पकेतुशराहतः ।
 
 इदमित्यब्रवीद् बालां त्रस्तां मृगवधूमिव॥ ७
-
-
 
 रावणः—
 
@@ -20499,8 +18752,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 भार्या मे भव सुश्रोणि यथा मण्डोदरी तथा॥ १६
 
-
-
 मार्कण्डेयः—
 
 इत्युक्ता तेन वैदेही परिवृत्य शुभानना ।  
@@ -20535,8 +18786,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 इत्युक्त्वा प्रारुदत् सीता कम्पयन्ती पयोधरौ।
 
-
-
 शिरोधरां च तन्वङ्गी मुखं प्रच्छाद्य वाससा॥ २५
 
 तस्या रुदन्त्या भामिन्या दीर्घा वेणी सुसंयता ।  
@@ -20569,8 +18818,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये ३१ श्लोकाः \]  
 ————
 
-
-
 **॥ सप्तत्रिंशदधिकद्विशततमोऽध्यायः ॥**  
 
 ![](../books_images/U-IMG-1702522383Screenshot2023-12-12114852.png) 
@@ -20602,8 +18849,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 योऽसौ कुलाधमो मूढो मया राज्येऽभिषेचितः।
 
-
-
 सर्ववानरगोपुच्छा ऋक्षाश्चैनं भजन्ति वै॥ ६
 
 यदर्थं निहतो वाली मया रघुकुलोद्वह ।  
@@ -20634,8 +18879,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तं सदारो विनीतात्मा सुग्रीवः प्लवगेश्वरः ।  
 पूजया प्रतिजग्राह प्रीयमानस्तदर्हया॥ १४
 
-
-
 तमब्रवीद्रामवचस् सौमित्रिरकुतोभयः ।  
 [स तत्](http://# "ख-इदमर्धं नास्ति")सर्वमशेषेण शुश्राव हरिपुङ्गवः॥ १५
 
@@ -20663,8 +18906,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 स रामं सहसुग्रीवो माल्यवत्पृष्ठमाश्रितम् ।  
 अभिगम्योदयं तस्य कार्यस्य प्रत्यवेदयत्॥ २२
-
-
 
 इत्येवं वादिनस्तस्य आयाता वानरास्तदा ।  
 दिशस्तिस्रो विचित्याथ न तु ये दक्षिणां गताः॥ २३
@@ -20697,8 +18938,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^4]: "ख- इदमर्धं नास्ति"
 
 हनुमत्प्रमुखाश्चापि विश्रुतास्ते प्लवङ्गमाः।
-
-
 
 अभिजग्मुर्हरीन्द्रं ते रामलक्ष्मणसन्निधौ॥ ३१
 
@@ -20733,8 +18972,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 विशामश्र वयं तां स्म बहुयोजनमायताम्।
 
-
-
 सान्धकारां सुविपिनां गहनां कीटसेविताम्॥ ३९
 
 गत्वा सुमहदध्वानम् आदित्यस्य प्रभां ततः ।  
@@ -20764,8 +19001,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 पक्षिणं दृष्टवन्तस्स्म वैनतेयमिवापरम्॥ ४७
 
 सोऽस्मानतर्कयद्भोक्तुम् अथाभ्येत्य वचोऽब्रवीत्॥ ४७॥
-
-
 
 भोः क एष मम भ्रातुर् जटायोः कुरुते कथाम्॥ ४८
 
@@ -20800,8 +19035,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तस्याहं सर्वमेवैतं भवतो व्यसनागतम् ।  
 प्रायोपवेशने चापि हेतुं विस्तरशोऽब्रुवम्॥ ५४
 
-
-
 सोऽस्मानाश्वासयामास वाक्येनानेन पक्षिराट्॥ ५५॥
 
 सम्पातिः—
@@ -20834,8 +19067,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सीते रामस्य दूतोऽहं वानरो मारुतात्मजः।  
 त्वदर्शनमभिप्रेप्सुर् इह प्राप्तो विहायसा॥ ६३
 
-
-
 राजपुत्रौ कुशलिनौ भ्रातरौ रामलक्ष्मणौ ।  
 सर्वशाखामृगेन्द्रेण सुग्रीवेणाभिपालितौ॥ ६४
 
@@ -20866,8 +19097,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये ६९॥श्लोकाः\]  
 —————
 
-
-
 **॥अष्टत्रिंशदधिकद्विशततमोऽध्यायः ॥**  
 
 ![](../books_images/U-IMG-1702526128Screenshot2023-12-07122852.png)
@@ -20895,8 +19124,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 पनसो नाम मेधावी वानरस्सुमहाबलः।  
 कोट्या च द्वादश त्रिंशत् पञ्च पञ्च च कर्षति॥ ६
-
-
 
 श्रीमान् दुधिमुखो नाम हरिर्वृद्धोऽपि त्रीर्यवान् ।  
 प्रचकर्ष[^913] महत् सैन्यं हरीणां भीमतेजसाम्॥ ७
@@ -20932,8 +19159,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तेन व्यूढेन सैन्येन लोकानुद्वर्तयन्निव।
 
-
-
 प्रययौ राघवश्श्रीमान् सुग्रीवसहितस्तदा॥ १६
 
 मुखमासीत् तु सैन्यस्य हनूमान् मारुतात्मजः।  
@@ -20965,8 +19190,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ततो दाशरथिश्श्रीमान् सुग्रीवं प्रत्यभाषत ।  
 मध्ये वानरमुख्यानां प्राप्तकालमिदं वचः॥ २३
-
-
 
 श्रीरामः—
 
@@ -21003,8 +19226,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^923]: "ख-शि; घ-शेष्याभ्युपवरं"
 
-
-
 न चेद्दर्शयिता मार्गं धक्ष्याम्येनमहं ततः ।  
 महास्त्रैरप्रतिहतैर् अत्यग्निपवनोज्ज्वलैः॥ ३१
 
@@ -21038,8 +19259,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^924]: "क-ख—बन्धं तु ; घ-सानुजं हन्तुं"
 
 यद्येवं याचतो मार्गं न प्रदास्यति मे भवान्।
-
-
 
 शरैस्त्वां शोषयिष्यामि दिव्यास्त्रप्रतिमन्त्रितैः॥ ३८
 
@@ -21075,8 +19294,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तेनोपायेन काकुत्स्थस् सेतुबन्धमकारयत् ।  
 दशयोजनविस्तारमायतं शतयोजनम्॥ ४५
 
-
-
 नलसेतुरिति ख्यातो योऽद्यापि प्रथितो भुवि ।  
 स रामाज्ञां पुरस्कृत्य धार्यते गिरिसन्निभः॥ ४६
 
@@ -21104,8 +19321,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 चारौ वानररूपेण तौजग्राह विभीषणः॥ ५३
 
 प्रतिपन्नौ यदा रूपं राक्षसं तौ निशाचरौ।
-
-
 
 दर्शयित्वा ततस्सैन्यं रामः पश्चादवासृजत्॥ ५४
 
@@ -21142,8 +19357,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कर्णाट्टयन्त्रा दुर्धर्षा बभूवुर्बहुधोपलाः।
 
-
-
 साशीविष[^928]गुणायोधास् ससर्जरसपांसवः ॥ ४
 
 [^928]: "ख - आशी + स्तोमरासिपरश्वथाः [मध्ये अर्ध नास्ति]"
@@ -21177,8 +19390,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 विनश्यन्त्यनयाविष्टा देशाश्च नगराणि च॥ ११
 
 त्वयैकेनापराधेन सीताप्यपहृता बलात्।
-
-
 
 वधायानपराधानाम् अन्येषां तद्भविष्यति॥ १२
 
@@ -21220,8 +19431,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 लङ्घयित्वा पुरीं रम्यां सुवेलस्य समीपतः॥ २१
 
-
-
 कोसलेन्द्रमथाभ्येत्य सर्वमावेद्य चाङ्गदः।
 
 विशश्राम स तेजस्वी राघवेणाभिनन्दितः॥ २२
@@ -21258,8 +19467,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 चिक्षिपुर्भुजवेगेन लङ्कामध्ये महाबलाः ॥ ३०
 
-
-
 प्राकारस्थाश्च ये केचिन्निशाचरगणास्तदा ।  
 प्रदुद्रुवुस्ते शतशः कपिभिस्समनुद्रुताः॥ ३१
 
@@ -21286,8 +19493,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 सौमित्रिरपि नाराचैर् दृढधन्वा जितक्लमः ।  
 आदिश्यादिश्य दुर्गस्थान् पातयामास राक्षसान्॥ ३९
-
-
 
 ततः प्रत्यवहारोऽभूत् सैन्यानां राघवाज्ञया ।  
 कृते विमर्दे लङ्कायां लब्धलक्षो जयोऽभवत्॥ ४०
@@ -21320,8 +19525,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ते दृश्यमाना हरिभिर् बलिभिर्दूरपातिभिः ।  
 निहतास्सर्वतो राजन् महीं जग्मुर्गतासवः॥ ४
 
-
-
 अमृष्यमाणस्सबलो रावणो निर्ययावथ।  
 व्यूह्यचौशनसं व्यूहं हरीन् सर्वान् न्यवारयत्॥ ६
 
@@ -21353,8 +19556,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 विभीषणः प्रहस्तं च प्रहस्तश्च विभीषणम्।  
 काकपक्षशरैस्तीक्ष्णैः प्रत्यविध्यद्गतव्यथः॥ १४
 
-
-
 तेषां बलवतामासीन्महास्त्राणां समागमः ।  
 विव्युथुस्सकला येन त्रयो लोकाश्चराचराः॥ १५
 
@@ -21383,8 +19584,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 पतन्त्या स तयावेगाद्राक्षसोऽशनिना यथा ।  
 हृतोत्तमाङ्गो ददृशे वातरुग्ण इव द्रुमः॥ ४
-
-
 
 तं दृष्ट्वा निहतं सङ्ख्ये प्रहस्तं क्षणदाचरम् ।  
 अभिदुद्राव धूम्राक्षो वेगेन महता कपीन्॥ ५
@@ -21415,8 +19614,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 गदाभिः परिघैश्चैव राक्षसो जघ्निवान् कपिम् ।  
 कपिश्च जघ्निवान् रक्षस् सस्कन्धविटपैर्द्रुमैः॥ १३
 
-
-
 ततस्तमतिकायेन साश्वं सरथसारथिम् ।  
 धूम्राक्षमवधीद्धीमान् द्रुमेण पवनात्मजः॥ १४
 
@@ -21444,8 +19641,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 स्वस्थमासीनमव्यग्रंविनिद्रं राक्षसाधिपः॥ २१
 
 ततोऽब्रवीद्दशग्रीवः कुम्भकर्णं महाबलम्॥ २१॥
-
-
 
 रावणः—
 
@@ -21485,8 +19680,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये२९॥श्लोकाः\]  
 ————
 
-
-
 **॥ द्विचत्वारिंशदधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1702996233Screenshot2023-12-19200015.png)  
 
@@ -21525,8 +19718,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^939]: "घ—इदमर्धद्वयं नास्ति"
 
-
-
 तं तारमुच्चैःक्रोशन्तम् अन्यांश्च हरियूथपान् ।  
 अभिदुद्राव[^495] सुग्रीवः कुम्भकर्णमपेतभीः॥ ७
 
@@ -21558,8 +19749,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वेगेन महताऽऽविष्टस् तिष्ठतिष्ठेति चाब्रवीत्॥ १४
 
 कुम्भकर्णो महेष्वासः प्रगृहीतशिलायुधः।
-
-
 
 अभिदुद्राव सौमित्रिम् उद्यम्य महतीं शिलाम्॥ १५
 
@@ -21595,8 +19784,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^17]: "ख— इदमर्धं नास्ति"
 
-
-
 तौ चापि वीरौ सङ्क्रुद्धावुभौ तौ सम्प्रवर्षताम्॥ २४
 
 मुहूर्तमेवमभवद्वज्रवेगप्रमाथिनोः ।  
@@ -21631,8 +19818,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 कुम्भकर्णं हतं श्रुत्वा सानुगं राक्षसाधिपः ।  
 प्रहस्तं च महेष्वासं धूम्राक्षं चातितेजसम् ॥ १
 
-
-
 पुत्रमिन्द्रजितं वीरं रावणः प्रत्यभाषत॥ १॥
 
 रावणः—
@@ -21661,8 +19846,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ततो विश्राव्य विस्पष्टं नाम राक्षसपुङ्गवः।  
 आह्वयामास समरे लक्ष्मणं शुभलक्षणम्॥ ९
-
-
 
 तं लक्ष्मणो ह्यभ्यधावत् प्रगृह्य सशरं धनुः ।  
 त्रासयंस्तलघोषेण सिंहः क्षुद्रमृगं यथा॥ १०
@@ -21693,8 +19876,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 सोऽङ्गदेन रुषोत्सृष्टो वधायेन्द्रजितस्तरुः।  
 जघानेन्द्रजितः पार्थ रथं साश्वं ससारथिम् ॥ १९
-
-
 
 ततो हताश्वात् प्रस्कन्द्यरथात् स हतसारथिः ।  
 तत्रैवान्तर्दधे राजन् मायया रावणात्मजः॥ २०
@@ -21728,8 +19909,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[ अस्मिन्नध्याये २७ श्लोकाः \]  
 ————
 
-
-
 **॥ चतुश्चत्वारिंशदधिकद्विशततमोऽध्यायः ॥**  
 
 ![](../books_images/U-IMG-1703000223Screenshot2023-11-27151930.png)
@@ -21757,8 +19936,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 विशल्यौ चापि सुग्रीवःक्षणेनैतौ चकार तौ।  
 विशल्यया महौषध्या दिव्यमन्त्रप्रयुक्तया॥ ६
-
-
 
 तो लब्धसंज्ञौ नृवरौविशल्यावुदतिष्ठताम् ।  
 उभौ गतक्लमौ चास्तां क्षणेनेशौ महारथौ॥ ७
@@ -21791,8 +19968,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 इन्द्रजित् कृतकर्मा तु पित्रेकर्म तदाऽऽत्मनः ।  
 निवेद्यपुनरागच्छत् स्वयमाजिशिरःप्रति॥ १५
 
-
-
 तमागतं तु सङ्क्रुद्धं पुनरेव युयुत्सया ।  
 अभिदुद्राव सौमित्रिर् विभीषणमते स्थितः॥ १६
 
@@ -21824,8 +19999,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^949]: "अ-घ—शितधारेण भास्वता [मध्ये अर्धं नास्ति]"
 
 तृतीयेन तु बाणेन शितधारेण भास्वता ।
-
-
 
 जहार[^950] सुनसं चापि शिरो ज्वलितकुण्डलम्॥ २४
 
@@ -21863,8 +20036,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एवं बहुविधैर्वाक्यैर् अवध्यो रावणं तदा।
 
-
-
 क्रुद्धं संशमयामास जगृहे च स तद्वचः ॥ ३३॥
 
 निर्याणे स मतिं कृत्वा नियन्तारं क्षपाचरः।
@@ -21896,8 +20067,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 हनुमाञ्जाम्बवांश्चैव ससैन्याः पर्यवारयन्॥ ३
 
 [^951]: "अ-घ—नवार्धानि न सन्ति"
-
-
 
 ते दशग्रीवसैन्यं तद् ऋक्षवानरयूथपाः ।  
 द्रुमैर्विध्वंसयाञ्चक्रुर् दशग्रीवस्य पश्यतः॥ ४
@@ -21933,8 +20102,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अयं हर्यश्वसंयुक्तस् त्वमोघस्स्यन्दनोत्तमः ।
 
-
-
 त्वदर्थमिह सम्प्राप्तस् सन्देशाद्वै शतक्रतोः॥ १२
 
 अनेन शक्रःकाकुत्स्थ समरे दैत्यदानवान् ।  
@@ -21969,8 +20136,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ततः क्रुद्धस्ससर्जायु दशग्रीवश्शिताञ्छरान् ।
 
-
-
 सहस्रायुतशो रामे शस्त्राणि विविधानि च॥ २१॥
 
 ततो मुसुण्डीश्शूलानि मुसलानि परश्वथान् ।  
@@ -22001,8 +20166,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ततः प्रहृष्टास्त्रिदशास् सगन्धर्वास्सचारणाः ।  
 निहतं रावणं दृष्ट्वा रामेणाक्लिष्टकर्मणा॥ २९॥
 
-
-
 तत्यजुस्तं महाभागं पञ्चभूतानि रावणम् ।  
 भ्रंशितस्सर्वलोकेषु ब्रह्मात्रेणामितौजसा॥ ३०॥
 
@@ -22029,8 +20192,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 बभूव हृष्टस्ससुहृद् रामस्सौमित्रिणा सह॥ १
 
 ततो हते दशग्रीवे देबास्सर्षिगणास्तथा ।
-
-
 
 आशीर्भिर्जययुक्ताभिर् आनर्चुस्तं महाभुजम्॥ २
 
@@ -22059,8 +20220,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 लक्षयित्वेङ्गितं[^17]सर्वं प्रियं तस्यै निवेद्यसः॥ १०
 
 [^17]: "ख— इदमर्धं नास्ति"
-
-
 
 श्रीरामः—
 
@@ -22095,8 +20254,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 शक्रश्चाग्निश्चवायुश्च यमो वरुण एव च ।
 
-
-
 यक्षाधिपश्च भगवांस् तथा सप्तर्षयोऽमलाः॥ १८॥
 
 राजा दशरथश्चैव दिव्याभरणमूर्तिमान् ।  
@@ -22124,8 +20281,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वायुः—
 
 भो भो राघव सत्यं वै वायुरस्मि सदागतिः ।
-
-
 
 अपापा मैथिली राजन् सङ्गच्छ सह सीतया॥ २५॥
 
@@ -22158,8 +20313,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 न तु शङ्का त्वया कार्या प्रतीच्छेमां महाद्युते ।  
 कृतं त्वया महत् कार्य देवानाममितप्रभ॥ ३३॥
-
-
 
 दशरथः—
 
@@ -22200,8 +20353,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वव्रेरामस्स्थितिं धर्मे शत्रुभिश्चापराजयम् ।  
 राक्षसैर्निहतानां च वानराणां समुद्भवम्॥ ४०॥
 
-
-
 तथेति ब्रह्मणा प्रोक्तं ततस्तद्वचनात् तदा ।  
 समुत्तस्थुर्महाराज वानरा लब्धचेतसः॥ ४१॥
 
@@ -22236,8 +20387,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 इत्येवमुक्त्वाऽनुज्ञाप्य रामं शस्त्रभृतां वरम् ।
 
-
-
 सम्पूज्यापाक्रमत् तेन रथेनादित्यवर्चसा॥ ४८॥
 
 ततस्सीतां पुरस्कृत्य रामस्सौमित्रिणा सह ।  
@@ -22270,8 +20419,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ततस्तैरेव सहितो रामस्सौमित्रिणा सह।
 
-
-
 यथागतेन मार्गेण प्रययौ स्वपुरं प्रति॥ ५७॥
 
 अयोध्यां तु समासाद्य पुरींराष्ट्रपतिस्तदा ।  
@@ -22302,8 +20449,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 विभीषणं च पौलस्त्यम् अन्वजानाद्गृहान् प्रति॥ ६५॥
 
 अभ्यर्च्य विविधै रत्नैः प्रीतियुक्तं मुदा युतौ ।
-
-
 
 समाधायेतिकर्तव्यं दुःखेन बिससर्ज ह॥ ६६॥
 
@@ -22338,8 +20483,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 न हि ते वृजिनं किश्चिद् दृश्यते परमण्वपि॥ २॥
 
-
-
 अस्मिन् मार्गे विषीदेयुस् सेन्द्रा अपि सुरासुराः ॥ ३
 
 संहत्य निहतो वृत्रोमरुद्भिर्वज्रपाणिना ।  
@@ -22370,8 +20513,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यस्य शाखामृगा मित्राऋक्षाः कृष्णमुखास्तथा ।  
 जात्यन्तरकृता राजन् एतद्बुद्ध्याविचारय॥ १२
 
-
-
 तस्मात् त्वं कुरुशार्दूल मा शुचो भरतर्षभ ।  
 त्वद्विधा हि महात्मानो न शोचन्ति परन्तप॥ १३
 
@@ -22401,8 +20542,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 द्यूते दुरात्मभिः क्लिष्टाः क्लिष्टया तारितावयम् ।  
 जयद्रथेन च पुनर् बलादपहृता बलात्॥ २
 
-
-
 अस्ति सीमन्तिनी काचिद् दृष्टपूर्वाऽपि षा श्रुता ।  
 पतिव्रता महाभागा यथेयं द्रुपदात्मजा॥ ३
 
@@ -22431,8 +20570,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 सुरूपिणी तदा राजन् दर्शयामास तं नृपम् ।  
 अभिहोत्रात् समुत्पन्ना हर्षेण महताऽन्विता॥ ११
-
-
 
 उवाच चैनं वरदा वचनं पार्थिवं तदा ।  
 सा तमश्वपतिं राजन् सावित्री नियमे स्थितम्॥ १२
@@ -22468,8 +20605,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^497]: "अ-घ—नास्तीदमर्धम्"
 
-
-
 मार्कण्डेयः—
 
 स तथेति प्रतिज्ञाय सावित्र्या वचनं नृपः ।  
@@ -22499,8 +20634,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तां तु पद्मपलाशाक्षीं ज्वलन्तीमिव तेजसा ।  
 च कश्चिद्वरयामास तेजसा प्रतिवारितः॥ २८
 
-
-
 अथोपोष्य शिरस्स्नातादैवतान्यभिगम्य सा ।  
 हुत्वाऽग्निंविधिवद्विप्रान् वाचयामास पर्वणि॥२९
 
@@ -22528,8 +20661,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अप्रदाता पिता वाच्यो वाच्यश्चानुपयन्पतिः ।  
 मृते पितरि पुत्रश्च वाच्यो मातुररक्षिता॥ ३६
-
-
 
 इदं मे वचनं श्रुत्वा भर्तुरन्वेषणं कुरु ।  
 देवतानां[^967] यथा वाच्योन भवेयं तथा कुरु॥ ३७
@@ -22559,8 +20690,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये ४२ श्लोकाः \]  
 ————
 
-
-
 **॥एकोनपञ्चाशदधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1703093238Screenshot2023-11-27200624.png)
 
@@ -22588,8 +20717,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कार्येण खल्वनेनैव प्रेषिताद्यैव साऽऽगता ।  
 ततोऽद्य शृणु देवर्षे भर्ता यो वाऽनया वृतः॥ ५
-
-
 
 मार्कण्डेयः—
 
@@ -22627,8 +20754,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^749]: "ख- इदमर्धंनास्ति"
 
-
-
 चित्रेऽपि विलिखत्यश्वांश् चित्राश्व इति चोच्यते॥ १३
 
 अश्वपतिः—
@@ -22663,8 +20788,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^310]: "ख - इदमर्धंनास्ति"
 
-
-
 नित्यशश्चार्जवं तस्मिन् धृतिस्तत्रैव च ध्रुवा॥ २०
 
 सङ्क्षेपतस्तथा वृद्धैश् शीलवृद्धैश्च कथ्यते॥ २०॥
@@ -22697,8 +20820,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 दीर्घायुरथवाऽस्पायुस् सगुणो निर्गुणोऽपि वा ।  
 सकृद्वृतो मया भर्ता न द्वितीयं वृणोम्यहम् ॥ २६॥
 
-
-
 मनसा निश्चितं कृत्वा ततो वाचाऽभिधीयते ।  
 क्रियते कर्मणा पश्चात् प्रमाणं मे मनस्ततः॥ २७॥
 
@@ -22719,8 +20840,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४२ ॥ द्रौपदीहरणपर्वणि द्वात्रिंशोऽध्यायः ॥ ३२ ॥  
        \[अस्मिन्नध्याये २९॥श्लोकाः\]  
             ————
-
-
 
 **॥ पञ्चाशदधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1703132932Screenshot2023-12-07122852.png)
@@ -22751,8 +20870,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तस्य सर्वमभिप्रायम् इतिकर्तव्यतां वचः ।  
 सत्यवन्तं समुद्दिश्य सर्वमेव न्यवेदयत्॥ ७
-
-
 
 सावित्री नाम राजर्षे कन्येयं मम शोभना ।  
 तां स्वधर्मेण धर्मज्ञ स्नुषार्थं सङ्गृहाण मे॥ ८
@@ -22786,8 +20903,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 पूर्वमेवाभिलषितस्सम्बन्धो मे त्वया सह ।  
 भ्रष्टराज्यस्त्वहमिति तत एतद्विचारितम्॥ १३
-
-
 
 अभिप्रायस्त्वयं वै ते पूर्वमेवाभिकाङ्क्षितः ।  
 सत्यो निवर्त्यतां सत्यं काङ्क्षितो ह्यसि मेऽतिथिः॥ १४
@@ -22823,8 +20938,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
         \[ अस्मिन्नध्याये २१ श्लोकाः\]  
             ————
 
-
-
 **॥ एकपञ्चाशदधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1703138944Screenshot2023-11-27200624.png)  
 
@@ -22857,8 +20970,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 न कार्यस्तात सन्तापः कारयिष्याम्यहं व्रतम् ।  
 व्यवसायकृतं हीदं व्यवसायश्च कारणम्॥ ६
 
-
-
 द्युमत्सेनः—
 
 व्रतं ते नेति वा वक्तुं नास्मि शक्तः कथञ्चन ।  
@@ -22890,8 +21001,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तं कालं तं मुहूर्तं च प्रतीक्षन्ती नृपात्मजा ।  
 यथोक्तं नारदवचश् चिन्तयन्ती सुदुःखिता॥ १४
-
-
 
 ततश्च श्वश्रूश्वशुरावूचतुस्तां नृपात्मजाम् ।  
 एकान्तस्थामिदं वाक्यं प्रीत्या भरतसत्तम॥ १५
@@ -22929,8 +21038,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 यदि ते गमनोत्साहः करिष्यामि तव प्रियम् ।
 
-
-
 मम त्वामन्त्रय गुरुन् न मे दोषस्स्पृशेदयम्॥ २१॥
 
 मार्कण्डेयः—
@@ -22966,8 +21073,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 उभाभ्यां समनुज्ञाता सा जगाम यशस्विनी ।  
 सह भर्त्रा हसन्तीव हृदयेन विदूयता॥ २८॥
 
-
-
 सा वनानि विचित्राणि रमणीयानि सर्वशः ।  
 मयूररवघुष्टानि ददर्श विपुलक्षणा॥ २९॥
 
@@ -22986,8 +21091,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
         \[अस्मिन्नध्याये ३२॥श्लोकाः\]
 
 ————
-
-
 
 **॥ द्विपञ्चाशदधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1703141352Screenshot2023-12-07122852.png)
@@ -23015,8 +21118,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 शूलैरिव शिरो विद्धम् इदं संलक्षयाम्यहम् ।  
 स्वप्तुमिच्छामि कल्याणि न स्थातुं शक्तिरस्ति मे ॥ ५
-
-
 
 मार्कण्डेयः—
 
@@ -23049,8 +21150,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अयं ते सत्यवान् भर्ता क्षीणायुःपार्थिवात्मजः।  
 नेष्याम्येनमहं बद्ध्वाविद्ध्येतन्मे चिकीर्षितम् ॥ १३॥
-
-
 
 मार्कण्डेयः[^983]—
 
@@ -23087,8 +21186,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 निवर्त गच्छ सावित्रि कुरुष्वास्यौर्धवेदैहिकम् ।  
 कृतं भर्तुस्त्वयाऽऽनृण्यं यावद्गम्यं गतं त्वया ॥ २१
 
-
-
 सावित्री—
 
 यत्र मे नीयते भर्ता स्वयं वा यत्र गच्छति  
@@ -23119,97 +21216,75 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वरं वृणीष्वेह बिनाऽस्य जीवितं  
   ददानि ते सर्वमनिन्दिते वरम्॥ २७
 
-
-
 सावित्री—
 
 च्युतस्स्वराज्याद्वनवासमाश्रितो  
-  
 
 विनष्टचक्षुश्श्वशुरो ममाश्रमे ।  
 स लब्धचक्षुर्बलवान् भवेन्नृपस्  
-  
 
 तवप्रसादाज्ज्वलनार्कसन्निभः ॥ २८
 
 यमः—
 
 ददामि तेऽहं तमनिन्दिते वरं  
-  
 
 यथा त्वयोक्तं भविता च तत् तथा ।  
 तवाध्वना ग्लानिमिवोपलक्षये  
-  
 
 निवर्त गच्छस्व न ते श्रमो भवेत् ॥ २९
 
 सावित्री—
 
 नात्र श्रमो भर्तृसमीपतो हि मे  
-  
 
 यतो हि भर्ता मम सा गतिर्ध्रुवा।  
 यतः पर्तिनेष्यसि तत्र मे गतिस्  
-  
 
 सुरेश भूयश्च वचो निबोध मे ॥ ३०
 
 सतां सकृत् सङ्गतमीप्सितं मतं  
-  
 
 ततः परं मित्रमितिप्रचक्षते ।  
 न चाफलं सत्पुरुषेषु सङ्गतं  
-  
 
 ततस्सतां संनिवसेत् समागमे ॥ ३१
-
-
 
 यमः—
 
 मनोनुकूलं बुधबुद्धिवर्धनं  
-  
 
 त्वयाऽहमुक्तो वचनं हिताश्रयम् ।  
 विना पुनस्सत्यवतोऽस्य जीवितं  
-  
 
 वरं द्वितीयं वरयस्व भामिनि ॥ ३२
 
 सावित्री—
 
 हृतं हि राज्यं श्वशुरस्य मे परैस्  
-  
 
 स्वमेव राज्यं स लभेत पार्थिवः ।  
 जह्यात् स्वधर्मं तु न मे गुरुर्यम  
-  
 
 द्वितीयमेनं वरयामि ते वरम् ॥ ३३
 
 यमः—
 
 स्वमेव राज्यं प्रतिपत्स्यतेऽचिरा-  
-  
 
 न्न च स्वधर्मात् परिहीयते नृपः ।  
 कृतेन कामेन मया नृपात्मजे  
-  
 
 निवर्त गच्छस्व न ते श्रमो भवेत् ॥ ३४
 
 सावित्री—
 
 प्रजास्त्वयैता नियमेन संयता  
-  
 
 नियम्य चैवं नयसे न काम्यया ।  
 ततो यमत्वं तवदेव विश्रुतं  
-  
 
 निबोध चेमां गिरमीरितां मया॥ ३५
-
-
 
 अद्रोहस्सर्वभूतेषु कर्मणा मनसा गिरा ।  
 अनुप्रहश्च दानं च सतां धर्मस्सनातनः॥ ३६
@@ -23220,22 +21295,18 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यमः—
 
 पिपासितस्येव यथा भवेज्जलं  
-  
 
 तथा त्वया वाक्यमिदं समीरितम् ।  
 विना पुनस्सत्यवतो हि जीवितं  
-  
 
 वरं वृणीष्वेह शुभे यदिच्छसि॥ ३८॥
 
 सावित्री—
 
 ममानपत्यः पृथिवीपतिः पिता  
-  
 
 भवेत् पितुः पुत्रशतं तथौरसम् ।  
 कुलस्य[^388] संतानकरं च तद्भवेत्  
-  
 
 [^388]: "क - नास्तीदमर्धम्"
 
@@ -23244,33 +21315,25 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यमः—
 
 कुलस्य सन्तानकरं सुवर्चसं  
-  
 
 शतं सुतानां पितुरस्तु ते शुभे ।  
 कृतेन कामेन नराधिपात्मजे  
-  
 
 निवर्त दूरं हि पथि त्वमागता ॥ ४०
-
-
 
 सावित्री—
 
 न दूरमेतन्मम भर्तृसन्निधौ  
-  
 
 मनो हि मे दूरतरं प्रधावति ।  
 पथा व्रजन्नेव गिरं समुद्यतां  
-  
 
 मयोच्यमानां शृणु भूय एव च।
 
 विवस्वतस्त्वं तनयः प्रतापवांस्  
-  
 
 ततो हि वैवस्वत उच्यसे बुधैः ।  
 श्रमेण धर्मेण च रञ्जिताः प्रजास्  
-  
 
 ततस्तवेहेश्वर धर्मराजता॥ ४२
 
@@ -23283,20 +21346,15 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यमः—
 
 उदाहृतं ते वचनं यदङ्गने  
-  
 
 शुभे न तादृक् त्वदृते मया श्रुतम् ।  
 अनेन तुष्टोऽस्मि विनाऽस्य जीवितं  
-  
 
 वरं चतुर्थं वरयस्व गच्छ च ॥ ४५
-
-
 
 सावित्री—
 
 वरं वृणे स[^897]त्यवतो मयि प्रभो  
-  
 
 [^897]: "क-अर्धद्वयं नास्ति"
 
@@ -23305,27 +21363,22 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यमः—
 
 तथाऽस्तु ते पुत्रशतं शुभानने  
-  
 
 द्रुतं निवर्तस्व परिश्रमो न ते ॥ ४६
 
 सावित्री—
 
 सतां सदा शाश्वतधर्मवृत्तिस्  
-  
 
 सन्तो न सीदन्ति न च व्यथन्ते ।  
 सतां सद्भिस्सङ्गमोनाफलोऽस्ति  
-  
 
 सद्य्भोभयं नानुपश्यन्ति सन्तः॥ ४७
 
 सन्तो हि सत्येन नयन्ति सूर्यं  
-  
 
 सन्तो हि भूमिं तपसा धारयन्ति ।  
 सन्तो गतिर्भूतभव्यस्य राजन्  
-  
 
 सतां मध्ये नावसीदन्ति सन्तः॥ ४८
 
@@ -23333,60 +21386,46 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सन्तः परार्थं कुर्वाणा नापेक्षन्ते प्रतिक्रियाः॥ ४९
 
 न च प्रसादः पुरुषेषु मोघो  
-  
 
 न चाप्यर्थो नश्यति नापि मानः।
 
-
-
 यस्मादेतन्नियतं सत्सु नित्यं  
-  
 
 तस्मात् सन्तो रक्षितारो भवन्ति॥ ५०
 
 यमः—
 
 यथायथा भाषसि धर्मसंहितं  
-  
 
 मनोनुकूलं सुपदं महार्थवत् ।  
 तथातथा मे त्वयि भक्तिरुत्तमा  
-  
 
 वरं वृणीष्वाप्रतिमं पतिव्रते॥ ५१
 
 सावित्री—
 
 न तेऽपवर्गस्सुकृताद्विनाकृतस्  
-  
 
 तथा यथाऽन्येषु वरेषु मानद ।  
 वरं वृणे जीवतु सत्यवानयं  
-  
 
 यथा मृता वै तमहं[^988] विना पतिम्॥ ५२
 
 [^988]: "ख-घ—ह्येवमहं"
 
 न कामये भर्तृविनाकृता सुखं  
-  
 
 न कामये भर्तृविनाकृता दिवम् ।  
 न कामये भर्तृविनाकृता श्रियं  
-  
 
 न भर्तृहीना व्यवसामि जीवितुम्॥ ५३
 
 वरातिसर्गश्शतपुत्रता मम  
-  
 
 त्वयैव दत्तो हियते च मे पतिः ।  
 वरं वृणे जीवतु सत्यवानयं  
-  
 
 तवैव सत्यं वचनं भविष्यति॥ ५४
-
-
 
 मार्कण्डेयः—
 
@@ -23422,8 +21461,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सावित्र्यपि यमे याते भर्तारं प्रतिलभ्य च ।  
 जगाम यत्र तच्छावं भर्तुस्तत्रविचेतनम् ॥ ६२॥
 
-
-
 सा भूमौ प्रेक्ष्य भर्तारम् उपस्पृश्योपगूह्य च ।  
 उत्सङ्गे शिर आरोप्यभूमावुपविवेश ह॥ ६३॥
 
@@ -23456,8 +21493,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 शिरोभितापसन्तप्तस् स्थातुं चिरमशक्नुवन् ।  
 तवोत्सङ्गेप्रसुप्तोऽहम् इति सर्वं स्मरे शुभे ॥ ७०॥
 
-
-
 स्वयोपगूढस्य च मे निद्रयाऽपहृतं मनः ।
 
 ततोऽपश्यमहं घोरं पुरुषं च महौजसम्॥ ७१॥
@@ -23486,8 +21521,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 न विज्ञास्यसि पन्थानं गन्तुं चैव न शक्यते॥ ७७॥
 
 [^990]: "ख-कोशे लोकोऽयं अत्रनास्ति; परन्तु 73½ श्लोकानन्तरं अधिकपाठतया वर्तते।"
-
-
 
 सावित्री—
 
@@ -23520,8 +21553,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 का त्ववस्था तयोरद्य मदर्थमिति चिन्तये ।  
 तयोरदृश्ये मयि च महद्दुःखं भविष्यति॥ ८६॥
 
-
-
 पुरा मामूचतुश्चैव रात्रावाहूय[^991] मां तदा ।  
 भृशं सुदुःखितौ वृद्धौ बहुशः प्रीतिसंयुतौ॥ ८७॥
 
@@ -23552,8 +21583,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 मत्कृते पितरावद्यसन्तापं भृशमेष्यतः ।  
 जीवन्तावनुजीवामि भर्तव्यौ तौ मया त्विह॥ ९५॥
-
-
 
 तयोः प्रियं मे कर्तव्यम् इति जीवामि चाप्यहम् ।  
 परमं दैवतं तौ मे पूजनीयौ सदा मया ॥ ९६॥
@@ -23590,8 +21619,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कर्तुं धर्मं च ते वुद्धिर् मां चेज्जीवन्तमिच्छसि ।
 
-
-
 मम प्रियं वा कर्तव्यं गच्छावाश्रममन्तिकात्॥ १०४
 
 मार्कण्डेयः—
@@ -23624,8 +21651,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 [^995]: "क-ख पन्थानं मा विचारय; घ—पन्थानमविचारय"
 
 पलाशखण्डे चैतस्मिन् पन्था व्यावर्तते द्विधा ।
-
-
 
 अस्योत्तरेण यः पन्थास्तेन गच्छ त्वरस्व च॥ ११२
 
@@ -23660,8 +21685,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तावाश्रमान्नदीं श्चैव वनानि च सरांसि च ।
 
-
-
 तांस्तान् देशान् विचिन्वन्तौ दम्पती परिजग्मतुः॥ ३
 
 श्रुत्वा शब्दं च यत् किश्चिद् उन्मुखौ सुतशङ्कया ।  
@@ -23692,8 +21715,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 गौतमः—
 
 वेदस्साङ्गोमयाऽधीतस् तपो मे सञ्चितंमहत् ।
-
-
 
 कौमारब्रह्मचर्यं च गुरवोऽग्निश्च तोषिताः॥ ११॥
 
@@ -23731,8 +21752,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^998]: "अ-अर्धद्वयंनास्ति"
 
-
-
 पार्थिवीं चैव वृद्धिं ते तथा जीवति सत्यवान्॥ १८॥
 
 धौम्यः—
@@ -23762,8 +21781,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यदा[^999] सर्वैर्मुदा युक्तास् तथा तन्नात्र संशयः ।
 
 [^999]: "ख —इदमर्धनास्ति"
-
-
 
 भूयोभूयस्समृद्धिस्ते क्षिप्रमेव भविष्यति॥ ५॥
 
@@ -23796,8 +21813,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 सर्वेषामेव भवतां सन्तापो मा भवेदिति ।
 
-
-
 अतो विरात्रागमनं[^1000]नान्यदस्तीह कारणम् ॥ ३३॥
 
 [^1000]: "ख —इदमर्धं नास्ति; घ-ऽपि रात्रीगमनं"
@@ -23829,8 +21844,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अतोषयमहं देवं सत्येन वचसा विभुम् ।  
 पञ्च मे तेन वै दत्ता वराश्शृणुत तान् मम॥ ४०॥
 
-
-
 चक्षुषी च स्वराज्यं च द्वौ वरौ श्वशुरस्य मे ।  
 लब्धं पितुः पुत्रशतं पुत्राणामात्मनश्शतम्॥ ४१॥
 
@@ -23859,8 +21872,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४२ ॥ द्रौपदीहरणपर्वणि षट्त्रिंशोऽध्यायः ॥ ३६ ॥  
 \[अस्मिन्नध्याये ४५ ॥ श्लोकाः\]  
 ————
-
-
 
 ॥ चतुःपञ्चाशदधिकद्विशततमोऽध्यायः ॥  
 ![](../books_images/U-IMG-1703174477Screenshot2023-12-12114852.png)
@@ -23894,8 +21905,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 प्रयाहि राजन् भद्रं ते घुष्टस्ते नगरे जयः ।
 
-
-
 अध्यास्स्व चिररात्राय पितृपैतामहं पदम्॥ ७
 
 मार्कण्डेयः—
@@ -23923,8 +21932,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तथैवैषाऽपि कल्याणी द्रौपदी शीलसम्मता।  
 तारयिष्यति वस्सर्वान् सावित्रीव कुलाङ्गना॥ १५
-
-
 
 वैशम्पायनः—
 
@@ -23961,8 +21968,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 यच्चापि ते भयं तीव्रं न च कीर्तयसे कचित् ।
 
-
-
 तदाप्यपहरिष्यामि सव्यसाचा[^1004]विहागते॥ २
 
 [^1004]: "अ-घ—सव्यसाची इहागते"
@@ -23996,8 +22001,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कर्ण मद्वचनं तावच्छृणु सत्यभृतां वर ।
 
-
-
 ब्रुवतोऽद्य महाबाहो सौहृदात् परमं सुखम् ॥ १०
 
 उपायास्यति शक्रस्त्वां पाण्डवानां हितेप्सया ।  
@@ -24027,8 +22030,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 आयुषःप्रक्षयं गत्वा मृत्योर्वशमुपैष्यसि॥ १८
 
 कवचेन च संयुक्तः कुण्डलाभ्यां च मानद।
-
-
 
 अवध्यस्त्वं रणेऽरीणाम् इति विद्धि वचो मम॥ १९
 
@@ -24063,8 +22064,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 दास्यामि विबुधश्रेष्ठ कुण्डले कवचोत्तमम् ।
 
-
-
 न मे कीर्तिः प्रणश्येत त्रिषु लोकेषु विश्रुता॥ २७
 
 मद्विधस्यायशस्यं हि न युक्तं प्राणरक्षणम् ।  
@@ -24096,8 +22095,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^1010]: "क - सोऽहं शरीरजे दत्त्वा सङ्ग्रामे जीवितार्थिनाम् । वृद्धान्बालान्द्विजातीश्च मोक्षयित्वा महाभयात् । प्राप्स्यामि परमं लोके कीर्तिं लप्स्यामि शाश्वतीम् । (अधिकः पाठः
 
-
-
 दत्त्वा च विधिवद्दानं ब्राह्मणेभ्यो यथाविधि॥ ३५
 
 हुत्वा शरीरं सङ्ग्रामे कृत्वा कर्म सुदुष्करम् ।  
@@ -24128,8 +22125,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 माऽहितं कर्ण कार्षीस्त्वम् आत्मनस्सुहृदां तथा ।  
 पुत्राणामथ भार्याणाम् अथो मातुरथो पितुः॥ १
-
-
 
 शरीरस्याविरोधेन प्राणिनां प्राणभृद्वर  
 इष्यते यशसः प्राप्तिः कीर्तिश्च त्रिदिवे स्थिता॥ २
@@ -24163,8 +22158,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अस्ति चात्रपरं किश्चिद् अध्यात्मं देवनिर्मितम् ।  
 अतश्च त्वां ब्रवीम्येतत् क्रियतामविशङ्कया॥ ९॥
 
-
-
 देवगुह्यं त्वया ज्ञातुं न शक्यं पुरुषर्षभ ।  
 तस्मान्नाख्यामि ते गुह्यं काले वेत्स्यति तद्भवान्॥ १०॥
 
@@ -24193,8 +22186,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 न तु त्वामर्जुनश्शक्तःकुण्डलाभ्यां समन्वितम् ।  
 विजेतुं युधि यद्यस्य स्वयमिन्द्रश्शरो भवेत्॥ १८
-
-
 
 तस्मान्न देये शक्राय त्वयैते कुण्डले शुभे ।  
 सङ्ग्रामे यदि निर्जेतुं कर्ण कामयसेऽर्जुनम् ॥ १९
@@ -24227,8 +22218,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 इष्टो भक्तश्च मे कर्णो नचान्यद्दैवतं दिवि ।
 
-
-
 जानीत इति वै कृत्वा भगवानाह मद्धितम्॥ ४
 
 भूयश्च शिरसा देवं प्रसाद्य च पुनःपुनः ।  
@@ -24259,8 +22248,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^5]: "ख - इदमर्धं नास्ति"
 
-
-
 अर्जुनेन विनाशं हि तव दानवसूदनः ।  
 प्रार्थयानो रणे वत्स कुण्डले ते जिहीर्षति॥ १३
 
@@ -24290,8 +22277,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 शक्त्या तस्मै प्रदास्यामि कुण्डले वर्म चैव ह॥ २०
 
 स कृत्वा प्रातरुत्थाय कार्याणि भरतर्षभ।
-
-
 
 ब्राह्मणान् वाचयित्वाऽथ यथाकार्यमुपाक्रमत्॥ २१
 
@@ -24326,8 +22311,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 किं नु गुह्यं न चाख्यातं कर्णायेहोष्णरश्मिना।  
 कीछो कुण्डले चैव कवचं चैव कीदृशम्॥ १
-
-
 
 कुतश्च कवचं तस्य कुण्डले चैव सत्तम ।  
 एतदिच्छाम्यहं श्रोतुं तन्मे ब्रूहि तपोधन॥ २
@@ -24366,8 +22349,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 मम कन्या महाब्रह्मन् पृथा नाम यशस्विनी ।
 
-
-
 शीलवृत्ता[^1020]न्विता साध्वी नियताऽनवमानिनी[^1021]॥ १०
 
 [^1020]: "ख —इदमर्धंनास्ति"
@@ -24403,8 +22384,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^898]: "क-नास्तीदमर्धम्"
 
-
-
 सोऽयं वत्से महाभागे आहितस्त्वयि साम्प्रतम् ॥ १८
 
 त्वं सदा निभृतं कुर्या ब्राह्मणस्याभिराधनम् ।  
@@ -24438,8 +22417,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 सा त्वं मानं परित्यज्य दम्भं दर्पं च भामिनि ।
 
-
-
 आराध्य वरदं विप्रं श्रेयसा योक्ष्यसे पृथे॥ २६॥  
 
 एवं प्राप्स्यसि कल्याणि कल्याणमनघे ध्रुवम् ।  
@@ -24471,8 +22448,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 लाभोऽयं मम राजेन्द्र यद्वै पूजयितुं द्विजान् ।  
 आदेशे तव तिष्ठन्ती हितं कुर्यां नरोत्तम॥ ४
 
-
-
 विस्रब्धो भव राजेन्द्र न व्यलीकं द्विजोत्तमः ।  
 वसन्[^1026] प्राप्स्यति ते गेहे सत्यमेतद्व्रवीमि ते॥ ५
 
@@ -24502,8 +22477,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एवमुक्त्वा तु तां कन्यां कुन्तिभोजो महायशाः ।  
 पृथां परिददौ तस्मै द्विजाय सुतवत्सलः॥ १२
-
-
 
 कुन्तिभोजः—
 
@@ -24536,8 +22509,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
        \[ अस्मिन्नध्याये १९ श्लोकाः \]  
             ————
 
-
-
 ॥ षष्ट्यधिकद्विशततमोऽध्यायः ॥  
 ![](../books_images/U-IMG-1703234837Screenshot2023-11-27151930.png)
 
@@ -24569,8 +22540,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 शिष्यवत् पुत्रवच्चैव स्वसृवच्च सुसंयता ।  
 यथोपजोषं राजेन्द्र द्विजातिप्रवरस्य सा॥ ७॥
-
-
 
 प्रीतिमुत्पादयामास धन्या यत्नैरनिन्दिता॥ ८
 
@@ -24612,8 +22581,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 यदि नेच्छसि भद्रं ते वरं मत्तश्शुचिस्मिते ।
 
-
-
 इमं मन्त्रं गृहाण त्वम् आह्वानाय दिवौकसाम्॥ १६
 
 यं यं देवं त्वमेतेन मन्त्रेणावाहयिष्यसि ।  
@@ -24645,15 +22612,12 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४३ ॥ कुण्डलाहरणपर्वणि षष्ठोऽध्यायः ॥ ६ ॥  
        \[अस्मिन्नध्याये २३ श्लोकाः\]
 
-
-
 **॥ एकषष्ट्यधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1703236976Screenshot2023-12-07122852.png)
 
  कदाचन ऋतुस्नातया सूर्यमवलोकयन्त्या कुन्त्या दुर्वाससा दत्तमन्त्रपरीक्षणाय तदाह्वानम् ॥ १ ॥ मन्त्रबलादुपागतेन रविणा स्वेन सङ्गमनङ्गीकुर्वन्त्याः कुन्त्या विभीषिकापूर्वकं सङ्गायानुनयनम् ॥ २ ॥
 
 -----  
-
 
 वैशम्पायनः—
 
@@ -24679,8 +22643,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तस्या दृष्टिरभूद्दिव्या साऽपश्यद्दिव्यदर्शनम् ।  
 आमुक्तकवचं देवं कुण्डलाभ्यां विभूषितम्॥ ५
-
-
 
 तस्याः कौतूहलं चासीन्मन्त्रं प्रति नराधिप ।  
 आह्वानमकरोत् साऽथ तस्य देवस्य भामिनी॥ ६
@@ -24714,8 +22676,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 सा त्वमात्मप्रदानं वै कुरुष्व गजगामिनि ।
 
-
-
 उत्पत्स्यति हि पुत्रस्ते यथासङ्कल्पमङ्गने॥ १४
 
 अथ गच्छाम्यहं भद्रे त्वया सङ्गम्य सुस्मिते ।  
@@ -24745,21 +22705,16 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तान् सा दृष्ट्वा त्रिदशानेवबाला  
   सूर्यं देवी वचनं प्राह भीता ॥ २०॥
 
-
-
 कुन्ती—
 
 गच्छ त्वं वै गोपते स्वं विमानं  
-  
 
 कन्याभावो दुःख एषोपचारः॥ २१
 
 पिता माता गुरवश्चैव मन्ये  
-  
 
 देहस्यास्य प्रभवन्ति स्म दाने ।  
 साऽहं धर्मं पालयिष्यामि लोके  
-  
 
 स्त्रीणां वृत्तं पूज्यते वेहरक्षा॥ २२
 
@@ -24769,11 +22724,9 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सूर्यः—
 
 बालेति कृत्वाऽनुनयं तवाहं  
-  
 
 ददानि नान्यानुनयं लभेत ।  
 आत्मप्रदानं कुरु कुन्तिकन्ये  
-  
 
 शान्तिस्तवानेन भवेच्च भीरु॥ २४
 
@@ -24782,8 +22735,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 गच्छेयमेव सुश्रोणि गतोऽहं वे निराकृतः ।  
 सर्वेषां विबुधानां च वक्तव्यस्स्यामहं शुभे॥ २६
-
-
 
 सा त्वं मया सुसङ्गच्छ लप्स्यसे मादृशं सुतम् ।  
 विशिष्टा सर्वलोकेषु भविष्यसि च भामिनी॥ २७
@@ -24816,8 +22767,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^1031]: "ख— अर्धद्वयंनास्ति"
 
-
-
 नाऽत्यासादयितव्यानि तेजांसि च तपांसि च॥ ४
 
 साऽहमद्य भृशं भीता गृहीत्वा च करौ भृशम् ।  
@@ -24848,8 +22797,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सूर्यः—
 
 न ते पिता न ते माता गुरवो वा शुचिस्मिते ।
-
-
 
 प्रभवन्ति प्रदाने ते भद्रं ते शृणु मे वचः॥ १२
 
@@ -24888,8 +22835,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 तथेत्युक्त्वा च तां कुन्तीम् आविवेश विहङ्गमः ।
 
-
-
 स्वर्भानुशत्रुर्योगात्मा नाभ्यां पस्पर्श चैव ताम्॥ २०॥
 
 ततस्सा विह्वलासाध्वी कन्या सूर्यस्य तेजसा ।  
@@ -24921,8 +22866,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[ अस्मिन्नध्याये २५ ॥श्लोकाः\]  
 ————
 
-
-
 **॥ त्रिषष्ट्यधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1703253146Screenshot2023-11-27200624.png)
 
@@ -24951,8 +22894,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 जातमात्रं च तं गर्भं धात्र्यासम्मन्त्र्य भामिनी।  
 उत्स्स्रष्टुकामा तं गर्भं कारयामास भारत॥ ६
-
-
 
 मञ्जूषां शिल्पिभिस्तूर्णं सुनद्धां सुप्रतिष्ठिताम् ।  
 प्लवैर्बहुविधैर्वद्धां प्लवनार्थं जले नृप॥ ७
@@ -24988,8 +22929,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 पिता त्वां पातु सर्वत्र तपनस्तपतां वरः।
 
-
-
 येन दत्तोऽसि मे पुत्रदिव्येन विधिना त्विह॥ १५
 
 आदित्या वसवो रुद्रास्साध्या विश्वे च देवताः ।  
@@ -25020,8 +22959,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 एवं बहुविधं राजन् विलप्य करुणं पृथा।
 
-
-
 ससर्ज तां तु मञ्जूषां सा सम्बोधभयात् पितुः॥ २४
 
 रुदती[^503]पुत्रशोकार्ता निशीथे कमलेक्षणा ।  
@@ -25049,8 +22986,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४३ ॥ कुण्डलाहरणपर्वणि नवमोऽध्यायः ॥ ९ ॥  
 \[अस्मिन्नध्याये३० श्लोकाः\]  
 ————
-
-
 
 **॥चतुष्षष्ट्यधिकद्विशततमोऽध्यायः॥**  
 ![](../books_images/U-IMG-1703255743Screenshot2023-11-27151930.png)
@@ -25082,8 +23017,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 स तां कौतूहलात्प्राप्तां ग्राहयामास भामिनी।
 
-
-
 ततो निवेदयामास सूतस्याधिरथस्य वै॥ ६॥
 
 स तामुद्धृत्य मञ्जूषाम् उत्सार्य जलमन्तिकात् ।  
@@ -25114,8 +23047,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 स्तन्यंसमस्रवच्चास्यदेवादित्यथ निश्चयः ।  
 पुपोष चैनं विधिवद् ववृधे स च वीर्यवान्॥ १४॥
-
-
 
 ततः प्रभृति चाप्यन्ये प्राभवन्नौरसास्सुताः॥ १५
 
@@ -25149,8 +23080,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अर्जुनस्य च कर्णेन यतो दृष्टो बभूव सः ।
 
-
-
 तं तु कुण्डलिनं दृष्ट्वा वर्मणा च समन्वितम्॥ २४॥
 
 अवध्यं समरे मत्वा पर्यतप्यद्युधिष्ठिरः ॥ २४॥
@@ -25182,8 +23111,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 देवराजमनुप्राप्तं ब्राह्मणच्छद्मनावृषा ।  
 दृष्ट्वा स्वागतमित्याह [स बुबोधास्य](http://# "घ - (") मानसम्॥ १
-
-
 
 हिरण्यकण्ठ्यः प्रमदा ग्रामान् वा बहुशः पशून् ।  
 किं ददानीति तं विप्रम् उवाचाधिरथिस्ततः॥ २
@@ -25217,8 +23144,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यदा नान्यं प्रवृणुते वरं स द्विजसत्तमः ।  
 विनाऽस्य सहजं वर्म कुण्डले च विशां पते॥ ९
 
-
-
 तवैनमब्रवीत् कर्णस् सहजंकवचंहि मे ।  
 सहजं[^527] वर्म मे विप्र कुण्डले चामृतोद्भवे॥ १०
 
@@ -25247,8 +23172,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वध्यतामुपयास्यामि त्वं च शक्रावहास्यताम्॥ १६॥
 
 तस्माद्विनिमयं कृत्वा कुण्डले वर्म चोत्तमम् ।
-
-
 
 हरस्व शक्रकामं मे न दद्यामहमन्यथा॥ १७॥
 
@@ -25289,8 +23212,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 अमोघा शतशश्शक्तिश् शत्रून् मम करच्युता ।  
 पुनश्च पाणिमभ्येति दैत्यान् मम विनिघ्नतः॥ २४॥
 
-
-
 सेयं तवकरं प्राप्य हत्वैकं रिपुमूर्जितम् ।  
 मर्जन्तं प्रतपन्तं च मामेवैष्यति सूतज॥ २५॥
 
@@ -25323,8 +23244,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 न ते बीभत्सता कर्ण भविष्यति कथश्चन ।  
 व्रणश्चापि न गात्रेषु यस्त्वं नानृतमिच्छसि॥ ३२॥
 
-
-
 यादृशस्ते पितुर्वर्णस् तेजश्च वदतां वर ।  
 तादृशेनैव वर्णेन त्वं कर्ण भविता पुनः॥ ३३॥
 
@@ -25355,8 +23274,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^1048]: "अर्धत्रयं पादएकश्च न क कोशे"
 
-
-
 ततश्चित्रं कवचं दिव्यमङ्गात्  
   तथैवार्द्रं प्रददौ वासवाय ।  
 ततो निकृत्य प्रददात् कुण्डले ते  
@@ -25382,25 +23299,19 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 कि वाऽकार्षुर्द्वादशेऽब्देव्यतीते  
   तन्मे सर्वं भगवान् व्याकरोतु॥ ४३
 
-
-
 वैशम्पायनः—
 
 लब्ध्वा कृष्णां सैन्धवं द्रावयित्वा  
-  
 
 विप्रैस्सार्धं काम्यकमाश्रयन्तः ।  
 मार्कण्डेयाच्छ्रुतवन्तः पुराणं  
-  
 
 देवर्षीणां चरितं विस्तरेण॥ ४४
 
 प्रत्याजग्मुस्सरथास्सानुयात्रास्  
-  
 
 सर्वैस्सार्धं सूतपौरोगवैस्ते ।  
 ततो ययुर्द्वैतवने नृवीरा  
-  
 
 निस्तीर्यैवं वनवासं समग्रम् ॥ ४४
 
@@ -25410,8 +23321,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 \[अस्मिन्नध्याये ४४ श्लोकाः\]  
 \[कुण्डलाहरणपर्व समाप्तम्\]  
 ————
-
-
 
 **॥ षट्षष्ट्यधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1703302810Screenshot2023-12-07122852.png)  
@@ -25442,8 +23351,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 वसन् द्वैतवने राजा कुन्तीपुत्रो युधिष्ठिरः ।  
 भीमसेनार्जुनौ चैष माद्रीपुत्रौ च भ्रातरौ ॥ ५
-
-
 
 ब्राह्मणार्थेपराक्रान्ता महात्मानो यतव्रताः ।  
 क्लेशमिच्छन्ति विपुलं सुखोदर्कं परन्तपाः॥ ६
@@ -25476,8 +23383,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 कर्णिनालीकनाराचान्उत्सृजन्तो महारथाः ।
 
-
-
 नाविध्यन् पाण्डवास्तत्र पश्यन्तो मृगमन्तिकात्॥ १३॥
 
 तेषां प्रयतमानानां नादृश्यत वने मृगः ।  
@@ -25492,11 +23397,9 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 नकुलः—
 
 नास्मिन् कुले जातु ममज्ज धर्मो  
-  
 
 न चालस्यादर्थलोपो बभूव ।  
 अनन्तरा[^1051]स्सर्वभूतेषु भूप  
-  
 
 [^1051]: "अ-अनुत्तराः; क-अनाथरसर्वभूतेषु सम्प्राप्तस्संशयं केन राजन्; ख-न चान्तरं सर्वभूतेषु राजन्नद्य प्राप्ताः"
 
@@ -25507,8 +23410,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४४ ॥ आरणेयपर्वणि प्रथमोऽध्यायः ॥ १ ॥  
 \[अस्मिन्नध्याये १७॥ श्लोकाः\]  
 ————
-
-
 
 **॥ सप्तषष्ट्यधिकद्विशततमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1703304104Screenshot2023-11-27141111.png)
@@ -25542,8 +23443,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वैशम्पायनः—
 
 ततो युधिष्ठिरो राजा नकुलं वाक्यमब्रवीत्॥ ४॥
-
-
 
 युधिष्ठिरः—
 
@@ -25581,8 +23480,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 स दृष्ट्वा विमलं तोयं सारसैः परिवारितम ।  
 पातुकामस्ततो वाचम् अन्तरिक्षात् स शुश्रुवे॥ ११॥
 
-
-
 यक्षः—
 
 मा तात साहसं कार्षीर् मम पूर्वपरिग्रहः ।  
@@ -25616,8 +23513,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 मा तात साहसं कार्षीर् मम पूर्वपरिग्रहः ।  
 प्रश्नानुक्त्वा यथाकामं ततः पिब हरस्व च ॥ १८॥
 
-
-
 वैशम्पायनः—
 
 अनादृत्य तु तद्वाक्यं सहदेवः पिपासितः ।  
@@ -25649,8 +23544,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 सव्यसाची पिपासार्तः पानीयं सोऽभ्यधावत॥ २५॥
 
 अभिधावंस्ततो वाचम् अन्तरिक्षात् प्रशुश्रुवे॥ २६
-
-
 
 यक्षः—
 
@@ -25686,8 +23579,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 नकुलस्सहदेवश्च बीभत्सुश्चापराजितः ।
 
-
-
 चिरंगतास्तोयहेतोर् न चागच्छन्ति भारत॥ ३४
 
 तांश्चैवानय भद्रं ते पानीयं च त्वमानय॥ ३४॥
@@ -25721,8 +23612,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 ततो धर्मसुतो राजा प्रचिन्त्य पुरुषर्षभः ।
 
-
-
 समुत्थाय महाबुद्धिर् दह्यमानेन चेतसा॥ ४०
 
 अपेतजननिर्घोष प्रविवेश महावनम्॥ ४०॥
@@ -25747,8 +23636,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 ॥ ४४ ॥ आरणेयपपर्वणि द्वितीयोऽध्यायः ॥ २ ॥  
 \[अस्मिन्नध्याये ४५॥श्लोकाः\]  
 ————
-
-
 
 ॥ अष्टषष्ट्यधिकद्विशततमोऽध्यायः ॥  
 ![](../books_images/U-IMG-1703316373Screenshot2023-11-27151930.png)
@@ -25778,8 +23665,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 गान्धारराजेन कृतं असता धर्मबुद्धिना॥ ६
 
 [^1057]: "क - विहितं कथम्"
-
-
 
 यस्य कार्यमकार्यं वा सममेव भवत्युत ।  
 कस्तस्य विश्वसेद्धीरो दुष्कृतेरकृतात्मनः॥ ७
@@ -25814,8 +23699,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^1059]: "अ-घ— अर्धद्वयं नास्ति"
 
-
-
 त्वं पञ्चमो भबिता राजपुत्र  
   न चेत् प्रश्नान् पृच्छतो व्याकरोषि॥ १५
 
@@ -25845,8 +23728,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यक्षः—
 
 यक्षोऽहमस्मि भद्रं ते नास्मि पक्षी जलेचरः ।
-
-
 
 मयैते निहतास्सर्वे भ्रातरस्ते पिपासिताः॥ २३
 
@@ -25885,8 +23766,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 अन्ये नैतत् प्रशंसन्ति सन्तो हि पुरुषास्सदा ।
 
-
-
 यदात्मना स्वमात्मानं प्रशंसेत्पुरुषः प्रभो॥ ३०॥
 
 यथाप्रश्नं तु ते प्रश्नान् प्रतिवक्ष्यामि पृच्छ माम्॥ ३१
@@ -25921,8 +23800,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 युधिष्ठिरः—
 
 स्वाध्याय एषां देवत्वं तप एषां सतामिव ।
-
-
 
 मरणं मानुषो भावः परिवादोऽसतामिव॥ ३७
 
@@ -25960,8 +23837,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 वर्षमापततां श्रेष्ठं बीजं निपततां वरम् ।  
 गावःप्रतिष्ठमानानां पुत्रः प्रवदतां वरः॥ ४३
 
-
-
 यक्षः—
 
 इन्द्रियार्थाननुभवन् बुद्धिमाँल्लोकपूजितः ।  
@@ -25995,8 +23870,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 यक्षः—
 
 किंस्वित् प्रवसतो मित्रं किंस्विन्मित्रं गृहे सतः।
-
-
 
 आतुरस्य तु किं मित्रं किंस्विन्मित्रं मरिष्यतः॥ ५०
 
@@ -26034,8 +23907,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 पुत्र आत्मा मनुष्यस्य भार्या दैवकृतस्सखा ।
 
-
-
 उपजीवनं तु पर्जन्यो दानमस्य परायणम्॥ ५७
 
 यक्षः—
@@ -26067,8 +23938,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 मानं हित्वा प्रियो भवति क्रोधं हित्वा न शोचति ।  
 कामं हित्वाऽर्थवान् भवति लोभं हित्वा सुखी भवेत् ॥ ६३
-
-
 
 यक्षः—
 
@@ -26104,8 +23973,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 का दिक्किमुदकं पार्थ किमन्नं किं च वै विषम् ।
 
-
-
 श्राद्धस्य कालमाख्याहि ततः पिब हरस्व च॥ ७०
 
 युधिष्ठिरः—
@@ -26139,8 +24006,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 तस्मात् तवैको भ्रातॄणां यमिच्छसि स जीवतु॥ ७६
 
 [^163]: "क—नास्तीदमर्धम्"
-
-
 
 युधिष्ठिरः—
 
@@ -26179,8 +24044,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 [^1072]: "क - अर्धद्वयं नास्ति"
 
-
-
 स्वधर्मान्न चलिष्यामि नकुलो यक्ष जीवतु॥ ८४
 
 यथा[^1073]कुन्ती तथा माद्री विशेषो नास्ति मे तयोः ।  
@@ -26218,8 +24081,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 सरस्येकेन पादेन तिष्ठंस्त्वामपराजितम् ।
 
-
-
 पृच्छामि को भवान् देवो न मे यक्षो मतो भवान्॥ २
 
 अथवा मरुतां श्रेष्ठो वज्री वा त्रिदशेश्वरः ।  
@@ -26251,8 +24112,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 वरं वृणीष्व राजेन्द्र दाता ह्यस्मि तवानघ ।  
 ये हि मे पुरुषा भक्ता न तेषामस्ति दुर्गतिः ॥ १०॥
-
-
 
 युधिष्ठिरः—
 
@@ -26291,8 +24150,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 यद्वा सङ्कल्पितंरूपं मनसा यस्य चैव हि ।
 
-
-
 तादृशं तादृशं रूपं छन्नं वै धारयिष्यथ॥ १८॥
 
 अरणीसहितं भाण्डं ब्राह्मणाय प्रयच्छथ ।  
@@ -26325,8 +24182,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 इदं समुत्थानसमागतं महत्  
   पितुश्च पुत्रस्य च पुण्यकीर्तनम् ।
 
-
-
 पठन्नरस्स्याद्विजितेन्द्रियो वशी  
   सपुत्रपौत्रश्शतवर्षभाग भवेत्॥ २६॥
 
@@ -26357,8 +24212,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 
 —————
 
-
-
 **॥ श्रीरस्तु ॥**
 
 **महाभारतस्य आरण्यपर्वस्थानां विषयाणाम्**
@@ -26387,10 +24240,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | अभिवंशजानां विस्तरेण नामनिर्वचनम्                                                    |
 | अग्निवंश्यानां स्वरूपस्वभावादिकथनम्                                                  |
 
-
-
-
-
 **अक्षरमातृकाक्रमेण विषयसूचनम्**
 
 |                                                                                                       |
@@ -26417,8 +24266,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | अर्जुनस्येन्द्रार्धासनोपवेशं शङ्कितं लोमशं प्रति अर्जुनप्रभावस्येन्द्रेण कथनम्                        |
 | अर्जुनस्य पाशुपतास्त्रादिलाभं विदितवता धृतराष्ट्रेण सञ्जयं प्रति अर्जुनपराक्रमवर्णनम्                 |
 | अर्जुनविरहेण पाण्डवैः द्रौपद्या साकं परिशोचनम्                                                        |
-
-
 
 |                                                                                                        |
 |--------------------------------------------------------------------------------------------------------|
@@ -26447,8 +24294,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | अर्जुनेन स्वेन सह निवातकवचानां युद्धप्रकारवर्णनम्                                                      |
 | अर्जुनेन दिव्यास्त्रैर्मायानिरसनपूर्वकं दैत्यहननम्                                                     |
 | अर्जुनेन हिरण्यपुरावलोकनम्                                                                             |
-
-
 
 |                                                                                                       |
 |-------------------------------------------------------------------------------------------------------|
@@ -26480,8 +24325,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | अष्टावक्रेण प्रश्नोत्तरकथनपूर्वकं राजानुमत्या सभाप्रवेशः                                              |
 | अष्टावक्रेण वादे वन्दिनः पराजयः                                                                       |
 
-
-
 |                                                                                |
 |--------------------------------------------------------------------------------|
 | आर्ष्टिषेणेन कैलासवर्णनम्                                                      |
@@ -26509,8 +24352,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | इन्द्रेणोर्वशीं प्रति अर्जुनकामपूरणाय चित्रसेनप्रेषणस्                         |
 | इन्द्रेणार्जुनं प्रति शापस्य शुभोदर्कस्वकथनम्                                  |
 | इन्द्रेण लोमशं प्रति काम्यकवने युधिष्ठिरायार्जुनवृत्तान्त कथनप्रार्थनम्        |
-
-
 
 |                                                                                  |
 |----------------------------------------------------------------------------------|
@@ -26541,8 +24382,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | ऊर्वश्या स्वकामालाभरुष्ट्याऽर्जुनं प्रति षण्डत्वशापप्रदानम्                      |
 | ऋतुपर्णेन नलस्याश्वाध्यक्षतायां नियमनम्                                          |
 
-
-
 |                                                                                      |
 |--------------------------------------------------------------------------------------|
 | ऋतुपर्णेन बाहुकस्य हयज्ञतां वीक्ष्य तस्मिन् बहुधा विकल्पनम्                         |
@@ -26568,8 +24407,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | कर्कोटकनागेन नलं प्रति वरप्रदानपूर्वकं वस्त्रयुग्मप्रदानम्                           |
 | कर्कोटकनागोक्त्या नलेन बाहुकसंज्ञाकथनपूर्वकमृतुपर्णसमीपोपसर्पणम्                     |
 
-
-
 |                                                                                                         |
 |---------------------------------------------------------------------------------------------------------|
 | कर्णशकुन्यादिभिः पाण्डवानां द्वैतवनप्रस्थापने घोषयात्रायाः उपायत्वकथनम्                                 |
@@ -26594,8 +24431,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | कलौ जगतः म्लेच्छप्रायतायाः पितृपुत्रयोरन्योन्यघातकतायाः साधून धनकलतादीनां बलाद्ध्रियमाण-तायाश्च वर्णनम् |
 | कलौ भाविनः अनर्थस्य विशेषतः कथनम्                                                                       |
 | काम्यकवने युधिष्ठिरस्य नारदेन समागमः                                                                    |
-
-
 
 |                                                                                    |
 |------------------------------------------------------------------------------------|
@@ -26626,15 +24461,9 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | कुबेरेण युधिष्टिरं प्रति अगस्त्यात् स्वस्य शापप्राप्तिकथनम्                        |
 | कुबेरेण युधिष्टिरं प्रति क्षत्रियधर्मकथनम्                                         |
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 |                                                                                             |
 |---------------------------------------------------------------------------------------------|
@@ -26664,11 +24493,7 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | दमयन्त्या तापसान् प्रति कुशलप्रश्नपूर्वकं स्ववृतान्तनिवेदनम्                                |
 | दमयन्त्या अशोकवृक्षं प्रति स्वपतिसन्दर्शनप्रभः                                              |
 
-
-
 [TABLE]
-
-
 
 |                                                                                                                                |
 |--------------------------------------------------------------------------------------------------------------------------------|
@@ -26695,8 +24520,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | दुर्योधनं प्रति शकुनिना सान्त्ववचनम्                                                                                           |
 | दुर्योधनं प्रायोपवशने स्थिरबुद्धिं ज्ञात्वा तदानयनाय पातालवासिभिः दैत्यदानवैः जपादिभिः कृत्यासर्जनम्                           |
 | दुर्योधनस्य कृत्यया रसातलप्रापणम्                                                                                              |
-
-
 
 |                                                                                 |
 |---------------------------------------------------------------------------------|
@@ -26725,8 +24548,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | दूत्या दमयन्तीं प्रति यथावृत्तं नलवृत्तान्तमिवेदनम्                             |
 | दौत्यं प्रति सनिर्बन्धं याचितेन नलेन दमयन्तीगृहान्तःप्रवेशः                     |
 
-
-
 |                                                                                                       |
 |-------------------------------------------------------------------------------------------------------|
 | द्रौपदीकृतः श्रीकृष्णस्तवः                                                                            |
@@ -26750,8 +24571,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | द्रौपद्या पतिव्रताधर्मकथनेन पतिवशीकरणोपायकथनम्                                                        |
 | द्रौपद्या स्वस्या पतिनियोगकृत्त्वकथनम्                                                                |
 | द्रौपद्या पुनरपि पतिव्रताधर्मकथनम्                                                                    |
-
-
 
 |                                                                                           |
 |-------------------------------------------------------------------------------------------|
@@ -26777,8 +24596,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | धृतराष्ट्रेण विदुरं प्रति स्वपुत्रं दुर्योधनं पाण्डवानां कृते कथं त्यजेयम् इति कथनम्      |
 | धृतराष्ट्रेण विदुरवियोगमसहमानेन तदानयनाय सञ्जयप्रेषणम्                                    |
 | धृतराष्ट्रेण पाण्डवपराक्रमचिन्तनेन स्वपुत्राणां वधस्यभावितया च तान् प्रति परिशोचनम्       |
-
-
 
 |                                                                                 |
 |---------------------------------------------------------------------------------|
@@ -26810,8 +24627,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | नलान्वेषणाय ब्राह्मणानां प्रस्थानम्                                             |
 | नलेन दौत्यप्रतिषेधनम् नलेन दमयन्तीं प्रति स्वस्य तत्पतित्वयाचनम्                |
 
-
-
 |                                                                                           |
 |-------------------------------------------------------------------------------------------|
 | नलेन देवान् प्रति दमयन्तीसन्देशकथनम्                                                      |
@@ -26839,8 +24654,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | नारदेन तीर्थयात्राफलकथनाय पुलस्त्यभीष्मसंवादानुवादः                                       |
 | नारदेन युधिष्ठिरं प्रति भीष्माय पुलस्त्योदिततीर्थमहिमानुवादपूर्वकमिष्टदेशगमनम्            |
 
-
-
 |                                                                                                               |
 |---------------------------------------------------------------------------------------------------------------|
 | पतिव्रतया कौशिकाय सान्त्ववचनम्                                                                                |
@@ -26860,8 +24673,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | परीक्षित्पुत्रेण शलेन मृगयानिमित्तं वामदेवाश्वावानीयवामदेवं प्रति तदश्वप्रतिपादनम्                            |
 | पाण्डवानां वने वासः कथमभूदिति प्रश्नः                                                                         |
 | पाण्डवानां द्रौपद्या सह वनप्रस्थानम्                                                                          |
-
-
 
 |                                                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------|
@@ -26889,8 +24700,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | पुष्करेण नलं प्रति युद्धकरणेन दमयन्त्यपहरणकथनम्                                                                 |
 | पुरं प्रति पौरेषु प्रतिनिवृत्तेष्वतिखिन्नेषु सत्सु ततो गङ्गातीरस्थप्रमाणास्यवटंगतैः पाण्डवैः तत दिवसशेषयापनम् |
 
-
-
 |                                                                                                                   |
 |-------------------------------------------------------------------------------------------------------------------|
 | प्रजाकामैः कर्तव्यकथनम्                                                                                           |
@@ -26916,8 +24725,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | ब्रह्मणा देवान् प्रति श्रीहरेः रामत्वेनावतरणकथनपूर्वकं वानरादिभावेन जननचोदना                                      |
 | ब्रह्मवचसा दुन्दुभीनाम्न्यागन्धर्व्यामन्थराख्यया जननम्                                                         |
 
-
-
 |                                                                                             |
 |---------------------------------------------------------------------------------------------|
 | ब्रह्मसरस्तीर्थे शमठेन गययज्ञवर्णनम्                                                        |
@@ -26942,8 +24749,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | बृहद्युम्नचोदनयाऽर्वासुना तपः प्रसादितेभ्यः देवेभ्यो वरविशेषग्रहणम्                         |
 | भगवता शोकोद्विग्नायाः द्रौपद्यास्समाश्वासनम्                                                |
 | भगवता युधिष्ठिरं प्रति द्यूतस्य स्वसन्निधाने सति तदभावित्वप्रतिपादनम्                       |
-
-
 
 |                                                                           |
 |---------------------------------------------------------------------------|
@@ -26974,8 +24779,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | भगवता मार्कण्डेयं प्रति वरं प्रदायान्तर्धानम्                             |
 | भगवता मधुकैटभाभ्यां च परस्परं वरयाचनप्रकारः                               |
 
-
-
 |                                                                   |
 |-------------------------------------------------------------------|
 | भगवता धुन्धुवधाय प्रस्थानम्                                       |
@@ -27002,8 +24805,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | भीमस्य यक्षादिभिस्सह सङ्गरः                                       |
 | भीमस्य मणिमन्नाम्ना राक्षसेन युद्धम्                              |
 
-
-
 |                                                                                              |
 |----------------------------------------------------------------------------------------------|
 | भीमदर्शनहृषितेन युधिष्ठिरेण साहसिकस्य कर्मणोऽकर्तव्यत्वोपदेशः                                |
@@ -27028,8 +24829,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | भीमेन पुष्पाहरणाय प्रस्थानम्                                                                 |
 | भीमेन कुबेरभवनदर्शनम्                                                                        |
 | भीमेन मणिमद्रक्षसो हननम्                                                                     |
-
-
 
 |                                                                                       |
 |---------------------------------------------------------------------------------------|
@@ -27056,8 +24855,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | मातलिचोदितेनार्जुनेन वज्रास्त्रप्रक्षेपणेन निवातकवचहननम्                              |
 | मातलिनार्जुनस्य वज्रास्त्रप्राप्तिप्रकार कथनपूर्वकं स्वर्गकोकप्राषणम्                 |
 
-
-
 |                                                                                                          |
 |----------------------------------------------------------------------------------------------------------|
 | मार्कण्डेयनारदयोरागमनम्                                                                                  |
@@ -27083,8 +24880,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | मैत्रेयेण दुर्योधनं प्रति पाण्डवानां किम्मीरवधादिभिःसर्वतोमुखं बलवत्ताप्रशंसनपूर्वकं तैस्सह शमानुशासनम् |
 | मैत्रेयेण स्ववचनतिरस्कारिणं दुर्योधनं प्रति तिरस्करणानुरूपयुद्धशापदानम्                                  |
 | मौद्गल्येनानन्तस्थिरसुखरूपमोक्षप्राप्तेः कथनम्                                                           |
-
-
 
 |                                                                             |
 |-----------------------------------------------------------------------------|
@@ -27117,8 +24912,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | युधिष्ठिरादिभिः भीमदर्शनाय पर्वताग्रारोहणम्                                 |
 | युधिष्ठिरादिभिःगन्धमादने अर्जुनदिदृक्षापूर्वकंसुखेनावस्थानम्                |
 
-
-
 |                                                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------|
 | युधिष्ठिराजगरयोस्संवादः                                                                                         |
@@ -27141,8 +24934,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | युधिष्ठिरेणार्जुनं प्रति प्रतिस्मृतिविद्यामुपदिश्य सर्वोस्त्रग्रहणायेन्द्रलोकं प्रति प्रस्थापनम्                |
 | युधिष्ठिरेण वन्येनैवाहारेण ब्राह्मणसन्तर्पणम्                                                                   |
 | युधिष्ठिरेण भगवन्तं प्रति तयोदशवर्षादूर्ध्वं वैरिहननप्रार्थनम्                                                  |
-
-
 
 |                                                                                                       |
 |-------------------------------------------------------------------------------------------------------|
@@ -27173,8 +24964,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | युधिष्ठिरेण धुन्धुमारोपाख्यानप्रश्नः                                                                  |
 | युधिष्ठिरेण भीमं प्रति शरणागतपरित्राणकथनम्                                                            |
 
-
-
 |                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------|
 | युधिष्ठिरेण दुर्योधनविमोचनाय स्वानुजान्प्रत्याज्ञापनम्                                                              |
@@ -27200,8 +24989,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | रावणेन तपसा ब्रह्मणः परितोषणम्                                                                                       |
 | रावणादीन् प्रति ब्रह्मणा वरप्रदानम्                                                                                  |
 | रावणेन लङ्कायां हिंसितेन धनदेन तं प्रति शापदानम्                                                                     |
-
-
 
 |                                                                                   |
 |-----------------------------------------------------------------------------------|
@@ -27233,8 +25020,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | लोकापवादभीरुभिः षडृषिभिः स्वपत्नीनां त्यागः                                       |
 | लोमशेन युधिष्ठिरं प्रत्यर्जुनस्य पाशुपतास्त्रादिलाभकथनपूर्वकमिन्द्रसन्देशनिवेदनम् |
 
-
-
 |                                                                                |
 |--------------------------------------------------------------------------------|
 | लोमशेन युधिष्ठिरं प्रति स्वेन सह तीर्थयात्राविधायकार्जुनोक्तिकथनम्             |
@@ -27263,8 +25048,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | वर्षाशरद्वर्णनम्                                                               |
 | वनं प्रस्थितैः पाण्डवैस्सह पौराणामनुगमनम्                                      |
 
-
-
 |                                                                                                                             |
 |-----------------------------------------------------------------------------------------------------------------------------|
 | वानरसेनापतिभिः स्वस्वसैन्यैस्सह परिस्थितिः                                                                                  |
@@ -27290,8 +25073,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | विश्वकर्मणा यज्ञे काश्यपाय भूदानम्                                                                                          |
 | विश्वामित्रेण कुमारस्य जातकर्मादिना संस्कारः                                                                                |
 
-
-
 |                                                                                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | विशाखस्य रौद्ररूपदर्शनेन भीतायेन्द्राय स्कन्देनाभयदानं स्कन्दपुत्रस्य विशाखस्य पार्षदादिपरिवारकथनम्                                                                              |
@@ -27316,8 +25097,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | शकुनिना मृगयाकरणे इच्छाया एव कारणत्वोपपादनम्                                                                                                                                     |
 | शय्यातिना च्यवनाय सुकन्याप्रतिपादनम्                                                                                                                                             |
 
-
-
 |                                                                                |
 |--------------------------------------------------------------------------------|
 | शय्यातिना च्यवनाश्रमाभिगमनम्                                                   |
@@ -27341,8 +25120,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | श्रीरामेण कबन्धवधः                                                             |
 | श्रीरामेण सुग्रीवेण सख्यकरणम्                                                  |
 | श्रीरामेण वालिवधः                                                              |
-
-
 
 |                                                                                   |
 |-----------------------------------------------------------------------------------|
@@ -27370,8 +25147,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | सत्यभामया द्रौपदीं प्रति पतिवशीकरणोपायप्रश्नः                                     |
 | सत्यभामया द्रौपदींप्रति सान्त्ववचनम्                                             |
 
-
-
 |                                                                                                |
 |------------------------------------------------------------------------------------------------|
 | सत्यवतः काष्ठविपाटनकाले शिरोवेदना                                                              |
@@ -27397,8 +25172,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | सात्यकिना दुर्योधनादिहननपूर्वकं पाण्डवानां वनवाससमापनादर्वागेवाभिमन्यो राज्येऽभिषेचनोक्तिः     |
 | सावित्र्या वनादागत्य नारदस्य स्वपितुश्च पादाभिवन्दनम्                                          |
 
-
-
 |                                                                                       |
 |---------------------------------------------------------------------------------------|
 | सावित्र्युपाख्यानम्                                                                   |
@@ -27421,8 +25194,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | स्वाहादेव्या स्कन्दादभीष्टप्राप्तिः                                                   |
 | सीतया लक्ष्मणे विपरीतशङ्काकथनम्                                                       |
 | सीताविरहेण खिन्नंश्रीरामं प्रति लक्ष्मणेन परिसान्त्वनम्                             |
-
-
 
 |                                                                           |
 |---------------------------------------------------------------------------|
@@ -27451,8 +25222,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | सोमकेन नरके पच्यमानस्य ऋत्विजः स्वीयसुकृतफलप्रदानम्                       |
 | सौगन्धिकसरो विविक्षुंभीमं प्रति क्रोधवशनामभीराक्षसैस्तश्चिकीर्षितप्रश्नः |
 
-
-
 |                                                                     |
 |---------------------------------------------------------------------|
 | हनूमता श्रीरामं प्रति सीतावृत्तान्तनिवेदनपूर्वकं चूडामणिदानम्       |
@@ -27464,8 +25233,6 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 | हनूमता कृतादियुगधर्मप्रतिपादनम्                                     |
 | हंसेन दमयन्त्यां नलस्य रूपादिवर्णनम्                                |
 
-
-
 ![](../books_images/U-IMG-1703843790Screenshot2023-11-27151930.png)
 
 ———————————————————————————————————  
@@ -27473,11 +25240,8 @@ Note — The standard Edition of the Northern Recension is the Poona Edition wit
 Printed by V. Venkateswara Sastrulu of  
 V. Ramaswamy Sastrulu & Sons, at the 'Vavilla' Press, Madras.
 
-
-
 ॥ श्रीः ॥  
 महाभारतारण्यपर्वस्थानामशुद्धानां शोधनम्  
-
 
 |                |              |
 |----------------|--------------|
@@ -27500,8 +25264,6 @@ V. Ramaswamy Sastrulu & Sons, at the 'Vavilla' Press, Madras.
 | सर्वा          | सर्वो        |
 | बहुगाधा        | बहुगन्धा     |
 | तान्नां        | ताम्रां      |
-
-
 
 |                    |                   |
 |--------------------|-------------------|
@@ -27527,8 +25289,6 @@ V. Ramaswamy Sastrulu & Sons, at the 'Vavilla' Press, Madras.
 | प्रणिधाः           | प्रणिधिः          |
 | सौरभः              | सौभरः             |
 
-
-
 |                    |                   |
 |--------------------|-------------------|
 | अशुद्धम्           | शोधनम्            |
@@ -27552,8 +25312,6 @@ V. Ramaswamy Sastrulu & Sons, at the 'Vavilla' Press, Madras.
 | च्छुत्वा           | च्छ्रुत्वा        |
 | काटिकाश्यं         | केटिकाश्यं        |
 | परैह्येनं          | परेह्येनं         |
-
-
 
 |             |              |
 |-------------|--------------|
@@ -27580,2175 +25338,5 @@ V. Ramaswamy Sastrulu & Sons, at the 'Vavilla' Press, Madras.
 | गर्भदानम्   | गर्भाधानम्   |
 | पथया        | पृथया        |
 
- 
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^1076]: "क-अर्धचतुष्टयं नास्ति"
-
-
-[^1074]: "ख - इदमर्धं नास्ति"
-
-
-[^1071]: "ख - इदमर्धद्वयं नास्ति"
-
-
-[^1070]: "क–अर्धचतुष्टयं नास्ति"
-
-
-[^1069]: "अ-घ—अर्धद्वयं नास्ति"
-
-
-[^1068]: "क—नास्तीदमर्धम्"
-
-
-[^1062]: "ख - इदमर्धं नास्ति"
-
-
-[^1061]: "क- नास्तीदमर्धम्"
-
-
-[^1058]: "ख - इदमर्धं नास्ति"
-
-
-[^1049]: "ख - इदमर्धंनास्ति"
-
-
-[^1046]: "ख— इदमर्धं नास्ति"
-
-
-[^1043]: "क-ख—नास्तीदमर्धम्"
-
-
-[^1040]: "ख— इदमर्धं नास्ति"
-
-
-[^1039]: "क—नास्तीदमर्धम्"
-
-
-[^1038]: "ख-अर्धत्रयं नास्ति"
-
-
-[^1037]: "क-नास्तीदमर्धम्"
-
-
-[^1036]: "ख—इदमर्धं नास्ति"
-
-
-[^1034]: "ख— इदमर्धं नास्ति"
-
-
-[^1033]: "अ-क-घ—इदमर्धं नास्ति"
-
-
-[^1029]: "ख - इदमर्धं नास्ति"
-
-
-[^1025]: "ख-अर्धद्वयं नास्ति"
-
-
-[^1023]: "ख- इदमर्धं नास्ति"
-
-
-[^1022]: "क-नास्तीदमर्धम्"
-
-
-[^1019]: "ख-इदमर्धं नास्ति"
-
-
-[^1016]: "ख - इदमर्धं नास्ति"
-
-
-[^1014]: "ख - इदमर्धं नास्ति"
-
-
-[^1013]: "ख- इदमर्धं नास्ति"
-
-
-[^1008]: "ख— इदमर्धं नास्ति"
-
-
-[^1006]: "ख- इदमर्धं नास्ति"
-
-
-[^987]: "क-अर्धद्वयं नास्ति"
-
-
-[^986]: "क - नास्तीदमर्धम्"
-
-
-[^982]: "ख— इदमर्धं नास्ति"
-
-
-[^978]: "अ-घ—अर्धचतुष्टयं नास्ति"
-
-
-[^977]: "अ-अर्धचतुष्टयं नास्ति"
-
-
-[^975]: "ख— अर्धद्वयं नास्ति"
-
-
-[^973]: "क-अर्धचतुष्टयं नास्ति"
-
-
-[^972]: "ख - इदमर्धंनास्ति"
-
-
-[^970]: "ख- इदमर्धंनास्ति"
-
-
-[^965]: "घ—अर्धत्रयं नास्ति"
-
-
-[^964]: "अ-घ—नास्तीदमर्धम्"
-
-
-[^961]: "ख— इदमर्धं नास्ति"
-
-
-[^960]: "ख —इदमर्धं नास्ति"
-
-
-[^959]: "ख— इदमर्धं नास्ति"
-
-
-[^955]: "घ–अर्धचतुष्टयं नास्ति"
-
-
-[^954]: "ख— इदमर्धं नास्ति"
-
-
-[^952]: "ख— अर्धत्रयं नास्ति"
-
-
-[^947]: "क–अर्धचतुष्टयं नास्ति"
-
-
-[^945]: "ख— इदमर्धं नास्ति"
-
-
-[^944]: "क-अर्धपञ्चकं नास्ति"
-
-
-[^941]: "अ—नास्तीदमर्धम्"
-
-
-[^940]: "अ-घ—अर्धद्वयं नास्ति"
-
-
-[^936]: "क-अर्धत्रयं नास्ति"
-
-
-[^932]: "ख - इदमर्धंनास्ति"
-
-
-[^931]: "क- अर्धत्रयं नास्ति"
-
-
-[^925]: "क-अर्धपञ्चकं नास्ति"
-
-
-[^921]: "ख-अर्धत्रयं नास्ति"
-
-
-[^919]: "क-अर्धपञ्चकं नास्ति"
-
-
-[^918]: "ख— इदमर्धं नास्ति"
-
-
-[^917]: "क-अर्धपञ्चकं नास्ति"
-
-
-[^916]: "ख - अयं पादोऽनन्तरश्च न स्तः"
-
-
-[^914]: "क–नास्तीदमर्धम्"
-
-
-[^911]: "अ- नास्तीदमर्धम्"
-
-
-[^910]: "ख-अर्धत्रयं नास्ति"
-
-
-[^909]: "अ-घ—नास्तीदमर्धम्"
-
-
-[^908]: "ख- इदमर्धं नास्ति"
-
-
-[^907]: "ख- इदमर्धं नास्ति"
-
-
-[^906]: "ख— इदमर्धं नास्ति"
-
-
-[^904]: "ख-इदमर्धं नास्ति"
-
-
-[^902]: "ख— इदमर्धं नास्ति"
-
-
-[^900]: "ख - इदमर्धं नास्ति"
-
-
-[^895]: "क–अर्धचतुष्टयं नास्ति"
-
-
-[^894]: "ख—इदमर्धं नास्ति"
-
-
-[^893]: "ख— इदमर्धं नास्ति"
-
-
-[^892]: "क—अर्धपञ्चकं नास्ति"
-
-
-[^891]: "ख— इदमर्धंनास्ति"
-
-
-[^884]: "क - नास्तीदमर्धम्"
-
-
-[^882]: "क - नास्तीदमर्धम्"
-
-
-[^876]: "ख - इदमर्धं नास्ति"
-
-
-[^867]: "ख - इदमर्धं नास्ति"
-
-
-[^863]: "ख- इदमर्धं नास्ति"
-
-
-[^860]: "ख - इदमर्धं नास्ति"
-
-
-[^857]: "ख – अर्धमिदं नास्ति"
-
-
-[^856]: "ख - इदमर्धद्वयं नास्ति"
-
-
-[^853]: "ख - इदमर्धंनास्ति"
-
-
-[^852]: "ख - इदमर्धं नास्ति"
-
-
-[^850]: "ख - इदमर्धं नास्ति"
-
-
-[^844]: "ख - इदमर्धं नास्ति"
-
-
-[^843]: "ख – इदमर्धं नास्ति"
-
-
-[^841]: "ख - इदमर्धं नास्ति"
-
-
-[^838]: "ख - इदमर्धं नास्ति"
-
-
-[^837]: "ख – इदमर्धं नास्ति"
-
-
-[^833]: "अ - घ - अर्धचतुष्टयं नास्ति"
-
-
-[^828]: "ख - इदमर्धंनास्ति"
-
-
-[^823]: "ख - इदमर्धं नास्ति"
-
-
-[^822]: "ख – इदमर्धं नास्ति"
-
-
-[^821]: "ख - इदमर्धं नास्ति"
-
-
-[^810]: "ख - इदमर्धं नास्ति"
-
-
-[^809]: "ख - इदमर्धं नास्ति"
-
-
-[^805]: "ख - इदमर्धं नास्ति"
-
-
-[^803]: "ख - इदमर्धंनास्ति"
-
-
-[^802]: "ख - इदमर्धं नास्ति"
-
-
-[^798]: "ख- इदमर्धं नास्ति"
-
-
-[^794]: "ख– इदमर्धं नास्ति"
-
-
-[^793]: "ख - अर्धद्वयं नास्ति"
-
-
-[^790]: "अ-घ—नास्तीदमर्धम्"
-
-
-[^787]: "ख— इदमर्धं नास्ति"
-
-
-[^786]: "ख— इदमर्धं नास्ति"
-
-
-[^782]: "ख-अर्धपञ्चकं नास्ति"
-
-
-[^778]: "क-अर्धत्रयं नास्ति"
-
-
-[^776]: "क-अर्धत्रयं नास्ति"
-
-
-[^774]: "अ-क-घ—नास्तीदमर्धम्"
-
-
-[^773]: "अ-क-घ—नास्त्ययं श्लोकः"
-
-
-[^771]: "क-अर्धत्रयं नास्ति"
-
-
-[^770]: "क—अर्धचतुष्टयं नास्ति"
-
-
-[^768]: "अ-घ—नास्तीदमर्धम्"
-
-
-[^761]: "ख—इदमर्धं नास्ति"
-
-
-[^760]: "घ—नास्तीदमर्धम्"
-
-
-[^759]: "ख— इदमर्धं नास्ति"
-
-
-[^758]: "ख— इदमर्धं नास्ति"
-
-
-[^750]: "क— नास्तीदमर्धम्"
-
-
-[^748]: "ख—इदमर्धं नास्ति"
-
-
-[^742]: "ख-अर्धत्रयं नास्ति"
-
-
-[^740]: "ख— इदमर्धंनास्ति"
-
-
-[^737]: "ख—अर्धद्वयं नास्ति"
-
-
-[^736]: "ख— इदमर्धद्वयं नास्ति"
-
-
-[^733]: "क—नास्तीदमर्धम्"
-
-
-[^725]: "ख— अर्धद्वयं नास्ति"
-
-
-[^724]: "अ— अर्धद्वयं नास्ति"
-
-
-[^720]: "ख—इदमर्धंनास्ति"
-
-
-[^716]: "ख— इदमर्धं नास्ति"
-
-
-[^714]: "ख—इदमर्धं नास्ति"
-
-
-[^710]: "ख—इदमर्धं नास्ति"
-
-
-[^706]: "ख—अर्धत्रयं नास्ति"
-
-
-[^705]: "ख —इदमर्धं नास्ति"
-
-
-[^703]: "अ— अर्धद्वयं नास्ति"
-
-
-[^701]: "ख—इदमर्धंनास्ति"
-
-
-[^699]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^695]: "ख— इदमर्धं नास्ति"
-
-
-[^691]: "अ-घ—अर्धचतुष्टयं नास्ति"
-
-
-[^689]: "ख—इदमर्धद्वयं नास्ति"
-
-
-[^685]: "ख- अर्धचतुष्टयं नास्ति"
-
-
-[^680]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^678]: "ख—इदमर्धंनास्ति"
-
-
-[^675]: "ख— इदमर्धंनास्ति"
-
-
-[^670]: "अ-घ—अर्धद्वयं नास्ति"
-
-
-[^669]: "ख—इदमर्धं नास्ति"
-
-
-[^662]: "ख— इदमर्धंनास्ति"
-
-
-[^659]: "अ-घ—अर्धद्वयं नास्ति"
-
-
-[^656]: "ख— इदमर्धंनास्ति"
-
-
-[^654]: "ख —अर्धद्वयं नास्ति"
-
-
-[^653]: "ख —अर्धद्वयं नास्ति"
-
-
-[^650]: "ख—अर्धद्वयं नास्ति"
-
-
-[^649]: "इदमर्धं नास्ति"
-
-
-[^647]: "क-अर्धचतुष्टयं नास्ति"
-
-
-[^646]: "ख – अर्धद्वयं नास्ति"
-
-
-[^645]: "ख—इदमर्धं नास्ति"
-
-
-[^644]: "ख – इदमर्धं नास्ति"
-
-
-[^642]: "ख— इदमर्धं नास्ति"
-
-
-[^638]: "ख - इदमर्धं नास्ति"
-
-
-[^635]: "ख— इदमर्धं नास्ति"
-
-
-[^633]: "क-घ—नास्तीदमर्धम्"
-
-
-[^629]: "ख— इदमर्धं नास्ति"
-
-
-[^625]: "अ—नास्तीदमर्धम्"
-
-
-[^621]: "ख-अर्धत्रयं नास्ति"
-
-
-[^609]: "ख— इदमर्धं नास्ति"
-
-
-[^607]: "ख— इदमर्धं नास्ति"
-
-
-[^606]: "ख - इदमर्धं नास्ति"
-
-
-[^603]: "घ—नास्तीदमर्धम्"
-
-
-[^602]: "ख—इदमर्धं नास्ति"
-
-
-[^601]: "ख— इदमर्धं नास्ति"
-
-
-[^599]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^597]: "ख- इदमर्धं नास्ति"
-
-
-[^596]: "ख— इदमर्धं नास्ति"
-
-
-[^594]: "ख— अर्धद्वयं नास्ति"
-
-
-[^592]: "ख— इदमर्धं नास्ति"
-
-
-[^587]: "ख— अर्धद्वयं नास्ति"
-
-
-[^586]: "ख— इदमर्धं नास्ति"
-
-
-[^585]: "क—नास्तीदमर्धम्"
-
-
-[^583]: "ख—अर्धचतुष्टयं नास्ति"
-
-
-[^582]: "ख—इदमर्धं नास्ति"
-
-
-[^579]: "घ—नास्तीदमर्धम्"
-
-
-[^574]: "ख- इदमर्धं नास्ति"
-
-
-[^573]: "ख—इदमर्धद्वयं नास्ति"
-
-
-[^571]: "अ—नास्तीदमर्धम्"
-
-
-[^570]: "ख— इदमर्धमेव नास्ति"
-
-
-[^566]: "इदमर्धं नास्ति"
-
-
-[^565]: "ख-अर्धद्वयं नास्ति"
-
-
-[^564]: "ख-इदमर्धं नास्ति"
-
-
-[^563]: "क—अर्धद्वयं नास्ति"
-
-
-[^562]: "क-घ—स्थितः"
-
-
-[^561]: "क—अर्धद्वयं नास्ति"
-
-
-[^559]: "ख—इदमर्धं नास्ति"
-
-
-[^554]: "ख—अर्धद्वयं नास्ति"
-
-
-[^551]: "ख—अर्धद्वयं नास्ति"
-
-
-[^550]: "घ—अर्धद्वयं नास्ति"
-
-
-[^549]: "घ—नास्तीदमर्धम्"
-
-
-[^548]: "ख— इदमर्धं नास्ति"
-
-
-[^547]: "अ—नास्तीदमर्धम्"
-
-
-[^543]: "क-घ—नास्तीदमर्धम्"
-
-
-[^540]: "ख—इदमर्धं नास्ति"
-
-
-[^536]: "ख—इदमर्धं नास्ति"
-
-
-[^534]: "ख—इदमर्धं नास्ति"
-
-
-[^532]: "ख—अर्धद्वयं नास्ति"
-
-
-[^529]: "ख—अर्धद्वयं नास्ति"
-
-
-[^524]: "ख—नास्तीदमर्धम्"
-
-
-[^521]: "ख—अर्धद्वयं नास्ति"
-
-
-[^520]: "ख—इदमर्धं नास्ति"
-
-
-[^519]: "ख—इदमर्धं नास्ति"
-
-
-[^515]: "ख—इदमर्धं नास्ति"
-
-
-[^513]: "ख-अर्धद्वयं नास्ति"
-
-
-[^512]: "ख—इदमर्धं नास्ति"
-
-
-[^511]: "अ—नास्तीदमर्धम्"
-
-
-[^510]: "घ—अर्धचतुष्टयं नास्ति"
-
-
-[^508]: "घ—अर्धद्वयं नास्ति"
-
-
-[^507]: "अ-घ—नास्तीदमर्धम्"
-
-
-[^506]: "अ—नास्तीदमर्धम्"
-
-
-[^502]: "ख—इदमर्धं नास्ति"
-
-
-[^501]: "ख— इदमर्धं नास्ति"
-
-
-[^500]: "ख—अर्धद्वयं नास्ति"
-
-
-[^494]: "ख—अर्धद्वयं नास्ति"
-
-
-[^492]: "ख—इदमर्धं नास्ति"
-
-
-[^490]: "ख— इदमर्धं नास्ति"
-
-
-[^488]: "क-अर्धपञ्चकं नास्ति"
-
-
-[^482]: "ख—इदमर्धं नास्ति"
-
-
-[^477]: "अ—नास्तीदमर्धम्"
-
-
-[^474]: "ख – इदमर्धं नास्ति"
-
-
-[^471]: "ख— इदमर्धं नास्ति"
-
-
-[^469]: "ख - इदमर्धं नास्ति"
-
-
-[^468]: "ख - इदमर्धं नास्ति"
-
-
-[^467]: "ख - इदमर्धद्वयं नास्ति"
-
-
-[^465]: "ख – इदमर्धं नास्ति"
-
-
-[^464]: "ख - इदमर्धं नास्ति"
-
-
-[^463]: "ख - इदमर्धं नास्ति"
-
-
-[^462]: "ख - इदमर्धं नास्ति"
-
-
-[^459]: "क-ख-घ—नास्तीदमर्धम्"
-
-
-[^457]: "ख - इदमर्धं नास्ति"
-
-
-[^455]: "ख - इदमर्धं नास्ति"
-
-
-[^452]: "ख – अर्धद्वयं नास्ति"
-
-
-[^451]: "ख— इदमर्धं नास्ति"
-
-
-[^450]: "अ—अर्धद्वयं नास्ति"
-
-
-[^447]: "ख- इदमर्धं नास्ति"
-
-
-[^444]: "ख— इदमर्धं नास्ति"
-
-
-[^443]: "क-घ—अर्धचतुष्टयं नास्ति"
-
-
-[^441]: "ख - इदमर्धं नास्ति"
-
-
-[^439]: "ख—इदमर्धं नास्ति"
-
-
-[^437]: "ख—इदमर्धं नास्ति"
-
-
-[^436]: "ख—इदमर्धं नास्ति"
-
-
-[^435]: "ख— इदमर्धं नास्ति"
-
-
-[^434]: "ख— इदमर्धं नास्ति"
-
-
-[^433]: "ख— इदमर्धं नास्ति"
-
-
-[^432]: "ख—इदमर्धं नास्ति"
-
-
-[^418]: "ख - इदमर्धं नास्ति"
-
-
-[^400]: "ख— इदमर्धं नास्ति"
-
-
-[^399]: "ख- इदमर्धं नास्ति"
-
-
-[^397]: "ख— इदमर्धं नास्ति"
-
-
-[^396]: "ख – इदमर्धं नास्ति"
-
-
-[^395]: "ख—अर्धद्वयं नास्ति"
-
-
-[^394]: "ख— इदमर्धं नास्ति"
-
-
-[^393]: "अ—नास्तीदमर्धम्"
-
-
-[^384]: "ख— नास्तीदमर्धम्"
-
-
-[^383]: "ख—नास्तीदमर्धम्"
-
-
-[^380]: "ख— इदमर्धं नास्ति"
-
-
-[^379]: "ख— अर्धद्वयं नास्ति"
-
-
-[^374]: "ख—इदमर्धद्वयं नास्ति"
-
-
-[^373]: "ख— इदमर्धं नास्ति"
-
-
-[^355]: "ख – इदमर्धं नास्ति"
-
-
-[^354]: "ख— नास्तीदमर्धम्"
-
-
-[^352]: "ख - इदमर्धं नास्ति"
-
-
-[^350]: "ख - अर्धद्वयं नास्ति"
-
-
-[^349]: "ख— इदमर्धं नास्ति"
-
-
-[^348]: "ख- इदमर्धं नास्ति"
-
-
-[^347]: "ख— इदमर्धं नास्ति"
-
-
-[^345]: "ख —इदमर्धं नास्ति"
-
-
-[^343]: "ख - इदमर्धं नास्ति"
-
-
-[^339]: "ख – इदमर्धं नास्ति"
-
-
-[^337]: "ख - इदमर्धं नास्ति"
-
-
-[^334]: "ख – इदमर्धं नास्ति"
-
-
-[^320]: "ख – इदमर्धं नास्ति"
-
-
-[^318]: "ख—अर्धद्वयं नास्ति"
-
-
-[^316]: "ख— इदमर्धं नास्ति"
-
-
-[^313]: "ख— इदमर्धं नास्ति"
-
-
-[^312]: "1. ख— इदमर्धं नास्ति"
-
-
-[^307]: "ख - इदमर्धं नास्ति"
-
-
-[^301]: "ख – इदमर्धं नास्ति"
-
-
-[^292]: "3. ख—इदमर्धं नास्ति"
-
-
-[^284]: "ख—इदमधं नास्ति"
-
-
-[^282]: "ख—इदमर्धद्वयं नास्ति"
-
-
-[^280]: "ख— इदमर्ध नास्ति"
-
-
-[^278]: "ख—अर्धवयं नास्ति"
-
-
-[^277]: "ख—इदमधं नास्ति"
-
-
-[^275]: "ख—इदमर्ध नास्ति"
-
-
-[^273]: "ख—इदमर्धनास्ति"
-
-
-[^272]: "ख—इदमर्ध नास्ति"
-
-
-[^271]: "ख—अर्धद्वयं नास्ति"
-
-
-[^267]: "अ—नास्तीदमर्धम्"
-
-
-[^262]: "2. ख— इदमर्धं नास्ति"
-
-
-[^249]: "1. ख—इदमर्धं नास्ति"
-
-
-[^229]: "ख—इदमर्धं नास्ति"
-
-
-[^225]: " ख—इदमर्धं नास्ति"
-
-
-[^220]: "अ—नास्तीदमर्धम्"
-
-
-[^219]: " ख—इदमर्धं नास्ति"
-
-
-[^218]: " ख—इदमर्धं नास्ति"
-
-
-[^216]: "ख–इदमर्धं नास्ति"
-
-
-[^213]: " क—नास्तीदमर्धम्"
-
-
-[^208]: " ख—इदमर्धं नास्ति"
-
-
-[^204]: "अ—नास्तीदमर्धम्"
-
-
-[^198]: " ख—अर्धद्वयं नास्ति"
-
-
-[^197]: "ख—इदमर्धं नास्ति"
-
-
-[^195]: "ख—इदमर्धं नास्ति"
-
-
-[^194]: " ख—इदमर्धं नास्ति"
-
-
-[^193]: "ख—इदमर्धं नास्ति"
-
-
-[^189]: " ख—इदमर्धं नास्ति"
-
-
-[^188]: "ख—इदमर्धद्वयं नास्ति"
-
-
-[^185]: "अ—नास्तीदमर्धम्"
-
-
-[^181]: "ख— इदमर्धं नास्ति"
-
-
-[^178]: "अ—अर्धद्वयं नास्ति"
-
-
-[^169]: "क-ख-घ—शरभाणां च चमराणां च सर्वशः"
-
-
-[^160]: "ख–इदमर्धं नास्ति"
-
-
-[^159]: "ख-इदमर्धं नास्ति"
-
-
-[^151]: "ख—अर्धद्वयं नास्ति"
-
-
-[^150]: " ख—अर्धद्वयं नास्ति"
-
-
-[^147]: " ख—इदमर्धं नास्ति"
-
-
-[^146]: " ख—अर्धद्वयं नास्ति"
-
-
-[^145]: " ख—इदमर्धं नास्ति"
-
-
-[^140]: "ख—इदमर्धं नास्ति"
-
-
-[^138]: "ख—इदमर्धं नास्ति"
-
-
-[^137]: "ख—इदमर्धं नास्ति"
-
-
-[^136]: "ख—इदमर्धं नास्ति"
-
-
-[^135]: "ख—इदमर्धं नास्ति"
-
-
-[^132]: "ख —अर्धद्वयं नास्ति"
-
-
-[^121]: "ख—इदमर्धं नास्ति"
-
-
-[^120]: "ख–इदमर्धं नास्ति"
-
-
-[^118]: "ख–इदमर्धं नास्ति"
-
-
-[^114]: "ख—इदमर्धं नास्ति"
-
-
-[^112]: " ख—इदमर्धं नास्ति"
-
-
-[^107]: "ख – इदमर्धं नास्ति"
-
-
-[^102]: "ख—इदमर्ध नास्ति"
-
-
-[^99]: "ख—इदमर्ध नास्ति"
-
-
-[^98]: "ख—इदमर्धनास्ति"
-
-
-[^93]: "ख—इदमर्ध नास्ति"
-
-
-[^81]: "ख—अर्धद्वयं नास्ति"
-
-
-[^80]: "ख—इदमर्ध नास्ति"
-
-
-[^72]: "ख—अर्धद्वयं नास्ति"
-
-
-[^66]: "ख—अर्धत्रयं नास्ति"
-
-
-[^59]: "ख—इदमर्धं नास्ति"
-
-
-[^58]: "ख—अर्धत्रयं नास्ति"
-
-
-[^56]: "ख—इदमर्धं नास्ति"
-
-
-[^55]: "ख—इदमर्धं नास्ति"
-
-
-[^54]: "ख—इदमर्धं नास्ति"
-
-
-[^51]: "ख—इदमर्धं नास्ति"
-
-
-[^49]: "ख—इदमर्धं नास्ति"
-
-
-[^45]: "ख—इदमर्धं नास्ति"
-
-
-[^44]: "ख—इदमर्धं नास्ति"
-
-
-[^40]: "ख—इदमर्धं नास्ति"
-
-
-[^39]: "ख—इदमर्धं नास्ति"
-
-
-[^37]: "ख —इदमर्धं नास्ति"
-
-
-[^34]: "ख—इदमर्धं नास्ति"
-
-
-[^31]: "ख - इदमर्धं नास्ति"
-
-
-[^27]: "ख— इदमर्धं नास्ति"
-
-
-[^25]: "ख— इदमर्धं नास्ति"
-
-
-[^20]: "ख— इदमर्धं नास्ति"
-
-
-[^8]: "ख - इदमर्धं नास्ति"

@@ -16,23 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg4NjczNzI0NTU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 ***ARCHÆOLOGICAL SURVEY OF INDIA.***
 
@@ -40,24 +24,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg4NjczNzI0NTU
 
 **EPIGRAPHIA INDICA:**
 
-
-
 **A COLLECTION OF INSCRIPTIONS**  
 **SUPPLEMENTARY TO**
 
-
-
 **THE CORPUS INSCRIPTIONUM INDICARUM**   
-
 
 **OF THE  
 ARCHÆOLOGICAL SURVEY.**
 
-
-
 **TRANSLATED BY SEVERAL ORIENTAL SCHOLARS.**
-
-
 
 **EDITED BY**
 
@@ -66,8 +41,6 @@ ARCHÆOLOGICAL SURVEY.**
 **MON. A.R.I.N.A., F.R.C.S., M.B.A.S.; M.SOC. AS. PARIS;**
 
 **MON. COR. MEN. BERLIN SOC. OFANTHROPOLOGY, ETC.; AND OFBATAVIAN SOC., OFARTS AND SCIENCES; FELLOW OF THE UNIVERSITY OF BOMBAY, ETC. LATE DIRECTOR–GENERAL OF THE ARCHÆOLOGICAL SURVEY OF INDIA.**
-
-
 
 **ASSISTANT EDITORS.**
 
@@ -83,8 +56,6 @@ ARCHÆOLOGICAL SURVEY.**
 
 ***—————***
 
-
-
 **CALCUTTA:**
 
 **PRINTED AND PUBLISHED BY THE SUPERINTENDENT OF GOVERNMENT PRINTING, INDIA.**
@@ -97,15 +68,11 @@ LONDON–KEGAN PAUL, TRENCH, TRUBNER & Co., BERNARD QUARITCH, LUXAC & Co.**
 
 ***All rights reserved.***
 
-
-
 **PREFACE.**
 
 THE *Epigraphia Indica* originated in a proposal, submitted to the Government of India in February, 1887, for the printing of a *Record* to include not only translations of inscriptions–Sanskrit, Persian, Arabic, and other—but lists of them and other miscellaneous antiquarian information, including such materials as had been published for the Archæological Survey of Western India in the *Memoranda* issued by the Bombay Government from time to time between 1874 and 1885. On the 17th October following information was asked by Government and submitted, giving details for a quarterly issue of fasciculi. After further correspondence the publication was sanctioned, and the first part was published in October 1888. After the third part, however, owing primarily to unavoidable delays by the press, it was found impossible to keep the publication up to the quarterly date, and the volume has consequently extended over a longer term than was contemplated; this however is really of little consequence. The materials other than inscriptions, sent to me during the first year, were of little general and permanent interest, while the partial breaking up of the surveys, and my leaving India in 1889, prevented any special effort on behalf of the subsidiary features of the original prospectus. Hence the work has come to be devoted entirely to palæography, which was, indeed, from the first its main purpose.
 
  Indian inscriptions—more so even than those of any other country—are the real archives of the annals of its ancient history, the contemporaneous witnesses of the events and of the men whose deeds they hand down; and their authenticity renders them most valuable for the historian and deserving of careful record. They supply important data bearing on the chronology, geography, religious systems, affiliations of families and dynasties, taxes, land tenures, magistrates, customs, manners, organization of societies, language and systems of writing of ancient times. Hence the great need for collecting and publishing them with the best translations and comments that modern scholarship can supply. The early pioneers of Indian research fully recognized this, and men like Wilkins, Colin Mackenzie, Colebrooke, Babington, Drs. Mill and Stevenson, Wathen, W. Elliot, and J. Prinsep, laid the foundation of, and made important contributions to, Indian palæographic study. So early as 1835, M. Jacquet of Paris projected a *Corpus Inscriptionum*, and made arrangements to include in it the collections formed by Colonel Colin Mackenzie; but an carly death prevented this young French Orientalist from realizing his purpose. The Bombay Temple Commission, in 1851, recalled attention to the inscriptions, and, in 1856, they reported on "the extreme
-
-
 
 "desirableness of the publication, under the auspices of Government, of fac-"similes or copies, with decipherments and translations". The report added that "the publication of such a *Corpus Inscriptionum* appeared to be an object "of such importance in an antiquarian and historical point of view (for it "would embrace the most important *documenta* of Indian history), that it well "merited the combined attention of Government, of learned societies, and of "individual orientalists". This project also remained unfulfilled, and it was not till 1877 that Major-General (now General Sir) A. Cunningham, C.S.I., issued the first volume of his *Corpus Inscriptionum Indicarum*, the object of which was "to bring together in a few handy and accessible volumes all the "inscriptions of India which now lie scattered about in the Journals of our different Asiatic Societies." This volume (in demy quarto) contained the Asoka inscriptions in twenty-six lithographed plates of reductions, made by a native, draftsman, from the impressions available. The second volume has not appeared; but the third, containing the inscriptions of the early Gupta kings and their successors, was prepared by Mr. J. F. Fleet, C.I.E., Bo.C.S., and published in 1887 in a large super–royal quarto volume,—the plates being photo–lithographie reductions from mechanical impressions taken from the originals, and the wholeedited with Mr. Fleet's usual care and scholarship.
 
@@ -114,8 +81,6 @@ THE *Epigraphia Indica* originated in a proposal, submitted to the Government of
  The contents of this volume speak for themselves. The newly discovered twelfth Asoka edict from Shâhbâzgarhi, the great Sîyadonîinscription found by me in the Lalitpur District, the new inscription of Toramâna Shâha, the ancient Hîrahadagalli copper–plate grant, the complete text of the LakkhaMandal inscription, and the important series of Jaina inscriptions found by Dr. Fuhrer in the excavations at Mathurâ,—are only part of the important fresh contributions to epigraphy included in it. Facsimiles of the more important inscriptions are also given.
 
  With the numerous epigraphs that have not been published before, it supplies also corrected editions from facsimile impressions of others that had been quite inadequately edited. The scholarship and special experience of the various translators,—Professors G. Bühler, Ph.D., LL.D., C.I.E, of Vienna, F. Kielhorn, Ph.D., C.I.E., of Göttingen, and J. Eggeling, Ph.D., of Edinburgh, E. Hultzsch, Ph. D., and J. F. Fleet, C.I.E., Bo.C.S.—are a
-
-
 
 sufficient guarantee for their notes and versions. To all of them my best thanks are due for the care and attention they have given to the work submitted to them; and specially to Dr, E. Hultzsch, who has givenun flagging aid in revising the proofs for the press. Dr. Führer; also, has contributed many most valuable impressions for translation, including the whole of the Jaina inscriptions from Mathurâ.
 
@@ -128,15 +93,11 @@ JAS. BURGESS.
 25, SETON PLACE EDINBURGH:  
 5th October 1891.
 
-
-
 **CONTENTS.**
 
 **————**
 
 [TABLE]
-
-
 
 |     |                                                                                                                     |
 |-----|---------------------------------------------------------------------------------------------------------------------|
@@ -163,11 +124,6 @@ JAS. BURGESS.
 **PAPERS ARRANGED UNDER AUTHORS' NAMES.**
 
 [TABLE]
-
-
-
-
-
 
 [TABLE]
 
@@ -197,13 +153,9 @@ JAS. BURGESS.
 | 25–28 | Ditto   "    Nos. 12–32 (4 pages), by the same                                        |
 | 29.   | Ditto   "   Nos. 33–35, by the same; and Pallava copper-plate, by E. Hultzsch, Ph.D    |
 
-
-
 **EPIGRAPHIA INDICA.**
 
 **—————**
-
-
 
 **SANSKRIT AND PRAKRIT INSCRIPTIONS.**
 
@@ -214,10 +166,6 @@ JAS. BURGESS.
  The inscriptions in the following pages have been prepared from such impressions and edited by most competent scholars, with comments, texts, and translations. The publication of them will thus place in the hands of European and other students of Indian history and antiquities, trustworthy texts and versions of the inscriptions collected by the Archæological Surveys[^2],and will be a reliable source from which to obtain the materials required in the prosecution of their studies in the historical, antiquarian, philological, or other branches of Oriental research. Selected facsimiles of the more notable inscriptions, on a reduced scale, accompany the texts.  
 
 [^2]: "The Inscriptions of the Madras Survey will be published separately by Dr. E. Hultzsch."
-
-
-
-
 
 **I.—A PRÂKṜIT GRANT OF THE PALLAVA KING SIVASKANDAVARMAN,  
 By G. BÜHLER, Ph.D., LL.D., C.I.E., VIENNA.**
@@ -234,8 +182,6 @@ By G. BÜHLER, Ph.D., LL.D., C.I.E., VIENNA.**
 
  1. The palatal *ja* is used frequently for ya. It appears throughout in the names, which in Sanskrit end in *árya*, e.g., *Golasamajasa* (1.12), *Agisamajasa* (1.13), i.e., in Sanskrit *Agniśarmáryasya*, &c. In other words, the change is less constant. Thus we have
 
-
-
 *kâreyya* (1.40) and *kareyyáma* (1.41) against *káravejjá* (1.40), *vatteja* (1.46), and *hoja* (1.48); *yo* (1.46) against *jo* (1.44); *^(ᵒ)ppayutte* (1.6) against *^(ᵒ)saṁjutto* (1.47). A great many other words, like *yâji* (1.1), *visayesaº* (1.8), show only ya. The occasional change of *ya* to *ja* separates the language of the inscription from the literary Pâli and the dialects used in Aśoka'a inscriptions, while it agrees with the practice followed in the cave-inscriptions. An instance of the change, which inliterary Pâli is very rare, of *ja* to *ya*, occurs in *Bnáraddáya* (1.2,16,19), for Sanskrit *Bháradvâja.*
 
  2. A very peculiar principle is observed in the change of na, to na. It almost invariably takes place in the affixes of inflection, *Pallavána* (1.2), *maṇusáṇa* (1.7),*vatthavánaṁ*(1.8), *bambanânaṁ*(1.8,27,30,38); *bhâtykâne* (1.18), *pamukhâṇam* (1.27, 38), *likhitena* (1.51), *kálúṇaṁ*, (1.10, 29), *nátúnaṁ*, the only counter-instance being madena (1.40). In other casesfrequently, though not invariably, a single medial *na* suffers the same change, while initial *na* and medial *nna*always remain unchanged. On the whole the lingual *na* occurs more frequently than in Pâli, in the Girnâr redaction of Aśoka's edicts and the cave-inscriptions, but more rarely than in the Prâkrit of the Jainas, where it has nearly supplanted the dental nasal.
@@ -250,8 +196,6 @@ By G. BÜHLER, Ph.D., LL.D., C.I.E., VIENNA.**
 
  5. There are further several cases, which exhibit a curious disregard of the rules of concord:–L.,10-11 the adjectives *appatihatasâsanasa* and *anekahi\[rana\]kodigohalasatasahassappadâyino*, standing in the genitive singular, have to be taken with the
 
-
-
 substantive *mahârâja–Bappasamíhi*, which stands in the instrumental plural. Again, the names of the officials in l.3-6, *visayesa*–*adhikatâdîke* and so forth, stand in the accusative plural, but the last noun of the series, which must have been governed by the same omitted verb as the others; *bhadamanusâna* (1.7), shows the genitive plural. The explanation of these two anomalies seems to be that two constructions, either of which would be permissible in itself, have been mixed up. In the first case the word which governs the three nouns is *puvvadattaṁ* (1.12), and this might in Prâkrit be construed either with the genitive or with the instrumental. Moreover, as the substantive is the name of a royal personage, the use of the plural instead of the singular is also permissible. The construction, which the passage shows, has, I think, been caused thereby, that the writer first intended to use the genitive singular throughout and then changed his mind, preferring the construction with the instrumental and the plural. Want of care or the idea that constructions, differing in form but identical in sense, may be used indiseriminately, made a correction appear unnecessary. The same remarks apply to thesecond case, where either the accusative or the genitive used throughout would be correct[^7]. More difficult is the explanation of the construction of the masculine *saṁpadatto* (1.30) with the neuter *puvvadataṁ*, which latter agrees with the omitted substantive *vâțakaṁ*. If the anomaly has not been caused by a mere *lapsus styli*, it seems to point to an utter loss of feeling, for the differences of gender. The fact that the neuter *chattâri* is used as a masculine, speaks in favour of the second alternative.
 
 [^7]: "See also my remarks on similarly lax construction in the Sanskrit Sûtras, in the Zeitschrift der Deutsch–Morgenländischen Gesellschaft, volume XL, page 532ff."
@@ -260,67 +204,37 @@ substantive *mahârâja–Bappasamíhi*, which stands in the instrumental plural
 
  The historical information, which the grant conveys, is scanty, and in the present state of our knowledge of the history of Southern India not particularly useful. The Pallava king Śivaskandavarman of Kâñchî, who was affiliated to the Brahmanical *gotra* of the Bhâradvâjas, confirmed and enlarged, in the eighth year of his reign, a donation, made formerly by the great king, the lord Bappa (i.e., probably by his father), to certain Brahmans, who resided at Âpitti or Âpiṭṭî, and were *bhajakas*, i.e., probably freeholders of the village Chillarekakoduṁka or Chillerekakoduṁka. The latter village was included in the Sâtâhani district (*raṭṭha*). The gift consisted of
 
-
-
 a garden in Chillarekakoduṁka, the income from which was to be divided in the manner specified, of two pieces of land in Âpiṭṭî, and of some serfs. The writer of the grant was the privy councillor (*rahasâdhikata*) Bhaṭṭiśarman, who is called *Kolivâlabhojaka*, i.e., the Inâmdar of *Kolivâla*. It is for the present impossible to say how the donor is connected with the other Pallava kings, known from the *śâsanas* as yet published, or to fix the period when he reigned.With respect to the latter point I am, however, inclined to assume with Mr. Fleet (*Indian Antiquary*, vol. IX, p. 101), that the kings, named in the Prâkrit grants, belong to an earlier time than those who issued the Sanskrit *śâsanas*. The want of accurate maps makes it impossible for me to identify the villages and the district named.
 
  In spite of these drawbacks our grant possesses a very great importance. Like the great Nânâghât inscription of Sâtakanni's widow Nâyanikâ and like the Elliot grant, of Vijayabuddhavarman's queen, it shows that the use of Prâkrit in the older inscriptions is not due to the influence of Buddhism, but that in early times Prâkrit was the official language of the Indian kings, while the use of Sanskrit was still confined to the Brahmanical schools. Our grant and the other two documents mentioned were issued by adherents of the Brahmanical faith. The use of Sanskrit in the comminatory verses, included in the Elliot grant, and in the *maṅgala* at the end of our grant, show that the said language was not unknown to the persons who composed the textIf, nevertheless, the chief portions of the grants are written in Prâkrit, some reason, not of a religious nature, must have dictated the use of the vulgar idiom. This reason, I think, can only have been official usage. The results of the recent epigraphic and linguistic studies are most unfavourable to the theory that there was in India once a golden age during which kings, priests, and peasants spoke the language of Pânini. They rather tend to show that the classical Sanskrit is a Brahmanical modification of *the*, or a, northern dialect, elaborated by the grammatical schools, which very slowly and in historical times gained ascendancy throughout the whole of India and among all the educated classes. Our inscription is an important link in a long chain of arguments supporting this view. Its full importance can, however, only be made apparent in a comprehensive discussion of the history of the Aryan languages of India.
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 **TRANSLATION.**  
 **—————**
@@ -351,8 +265,6 @@ a garden in Chillarekakoduṁka, the income from which was to be divided in the 
 
  L. 51. Perhaps *kaḍa* is to be read.
 
-
-
 *neyikâs*[^14], and all others employed in our service, to roaming (*spies*) and warriors[^15], and we grant here an immunity (*viz*.) the garden in Chillarekakoḍuṁka, which was formerly given by the great king, the lord Bappa,[^16] a giver of many, krors of gold and of one hundred thousand ox–ploughs,—while he made (the gift) a means of the increase of the merit, longevity, power and fame of (his) own family and race—to the Brâhmans, freeholders of Chillarekakoḍuṁka (and) inhabitants of Âpiṭṭí, (*viz.*) to Golasamaja (Golaśarmârya) one share of the produce,[^17] of ploughs (of land)'Regarding the various kinds of the measure of land, called 'a plough, 'see Kullûka on Manu, VII, 119.") to Agisamaja (Agniśarmárya)of the Âtteya (Âtreya) gotra four shares of the produce, to Mâdhara (Mâṭhara) two shares of the produce, to (his) son-in-law (?) Agilla (Agilla) one share of the produce, to Kâlasama (Kâlaśarmen) of the Ilârita gotra two (?) shares of the produce, to Kumârasama (Kumârasarman) of the Bhâradâya (Bhâradrâja) gotra two shares of the produce, to the four brothers Kumâranaṁdi, (Kumâranandin), Kumârasama, (Kumâraśarman), Koṭṭasame (Koṭṭaśarman) and Satti (Śakti) of the Kosika (Kauśika) gotra four (4) shares of the produce, to Bhaṭi (Bhaṭṭi) of the Kassava (Kâśyapa) gotra one share of the produce, to Khaṁdakoṁḍi (Skandakoṭi ?) the Bhâradâya (Bhâradvâja) two shares of the produce, to Khamdaḍha (Skanda-riddha) one share of the produce, to Bappa one share of the produce, to Dattaja (Dattârya) two shares of the produce[^18], to Naṁdija (Nandyârya) three shares of the produce, to Rudasama (Rudraśarman) of the Vâtsya gotra one share of the produce, to Dâmaja (Dâmârya one share of the produce, to Sâlasama (Śyâlaśárṁan ?) one share of the produce, toParimita[^19] (?) one share of the produce, to Nâganaṁdi one share of the produce, to Goli (?) one share, of the produce, to Khaṁdasama (Skandaśarman) one share of the produce; to, Sâmija (Svâmyârya) one share of the produce.
 
 [^14]: "The first of the three words left untranslated corresponds to Sanskrit gaulmika. As gulma means both 'a thicket 'and 'a picket of soldiers,' the derivative way denote either a kind of forest–official or the leader of a gulma of warriors. Tùthika may be connected with Prâkrit túha 'a Tîrtha,' and mean 'overseers of fords' or 'of bathing places. With neyika compare naiyokâḥ in Mr. Fleet and Elliot's grant, Indian Antiquary, vol. V, p. 52, line 28 of the text. Mr. Fleot changes it to niyuktâḥ, which now seems a rather doubtful emendation. I suspect that naiyokâḥ is a mistake for naiyikâḥ, which would exactly correspond to nayika, and that both words are corruptions of Sanskrit nâyaka, commonly pronounced nâiek. If this is correct, the term denotes a military officer of the rank of a corporal or a sergeant."
@@ -376,8 +288,6 @@ a garden in Chillarekakoduṁka, the income from which was to be divided in the 
 [^21]: "Milk, grass, firewood, vegetables, and so forth had to be furnished gratis by the villagers to royal officers and their servants. The custom still prevails in many native states."
 
 [^22]: "I do not venture to translate araṭṭhasaṁvinayikaṁ. The phrase is, of course, identical with that used in the Andhra inscriptions (Archæological Report, West. Ind., vol. IV. pp. 104-106, Nos. 13, 14
-
-
 
 from troubles about salt and sugar[^23], free from taxes, forced labour........., free from the taking of the oxen in succession[^24], free from the taking of grass and wood, free from the taking of vegetables and flowers; with these and other immunities of the eighteen kinds it must be exempted and caused to be exempted by the inhabitants of the province by the inhabitants of Âpiṭṭi and by the inhabitants of Chillerckakoduṁka.
 
@@ -404,8 +314,6 @@ from troubles about salt and sugar[^23], free from taxes, forced labour.........
 
 1.I transliterate and complete this — "yah svakakala uparilikhitamaryadaya (janan) anuvartayattaya rah sarmoti.
 
-
-
 given to the donees had been seen, and was acknowledged to be correct by the minister or by the keeper of the records. This explanation is suggested by the position of *diṭhaṁ* in our grant, where it occupies much the same place as tho, *Vide* or *Visum* in certain modern official documents. If *dṛishṭam*—*diṭhaṁ* were to be taken as a *maṅgala,* as might be supposed on account of its position in the two Vâkâtaka grants, it would be difficult to say how it came to be used in that sense.
 
 **II. THE PRAŚASTIOF THE TEMPLE OF LAKKHÂ MANḌAL AT MAḌHÂ,  
@@ -422,8 +330,6 @@ IN JAUNSÂR BÂWAR,**
  The language is good and pure Sanskrit, offering only a few irregularities in the spelling, which, however, are very common in the older inscriptions. Instead of the *anusvâra* we have invariably *ṅa* before *śa*, and also before *sa,* with one exception, where the dental *na* stands. For krituvân the inscription has, 1. 4, kritavân; for kritâś, 1. 7, kritâś; and for siṁha, 1. 1 and 5, *siṅgha.* No distinction is made between va and ba, a certain indication that then as now the letter va was always pronounced ba in Northern India. Above the inscription there are in the centre some irregular letters of later date which seem to read *Śrî–IIallâdhiśvarebhyaḥ.* Further towards the right stand five indistinct aksharas of the same alphabet in which the inscription is written, perhaps nâratanâsyaḥ \।\। and finally nearly in the corner above a diagram \[râ?\] *jaśrîsâdhukenaḥ* \।\।.
 
  As regards the contents of the inscription, it offers (verse 22) a so–called *Praśasti,*—a eulogy or panegyric, composed by Bhaṭṭa Vasudeva, son of Bhaṭṭa Skanda and grandson of Bhaṭṭa Kshemaśiva, and incised in the stone (verse 23) by the mason Îśvaraṇâga, son of Nâgadatta.
-
-
 
  The Praśasti records the dedication of a temple of Śiva (verse 20) by a princess, Îśvarâ, who belonged to the royal race of Siṅghapura, for the spiritual welfare of her deceased husband. The latter, called Śri–Chandragupta, was (verse 19) the son of a king of Jâlandhara,—apparently himself not a reigning king, but either a younger son or possibly an elder son who died during his father's lifetime. The greater part of the inscription (verses 2 18) is taken up by an account of the ancestors of the dedicatrix, and gives us the following pedigree of the king of Siṅghapura[^29], who, according to verse 2, belonged to the line of Yadu,–the Yâdavas of the lunar race,—which had ruled over the country "since the beginning of the Yuga."
 
@@ -466,9 +372,6 @@ prince of Jâlandhara.
 
 [^31]: "Si-yu-ki, vol. 1, pp. 143-147 (Beal
 
-
-
-
 periodduring which the alphabet of our inscription was in use, and it is only reasonable to allow a margin of about fifty years either way. Hiuen Tsiang's remarks concerning the government of Siṅghapura make it, I think, likely that it was written near the remoter limit of this period He says ( loc. cit., p. 143) that, at the time of his visit, “the country had no king or fulers, but was in dependence on Kaśmîr." As our inscription distinctly asserts that kings of the Yadu race ruled the realin of Siṅghapura since the beginning of the Yuga and enumerates those of eleven generations by name, its date probably falls before the Kaśmîrian conquest. For even if we assumed, though there is no foundation for such an assumption, that Siṅghapura again became free shortly after Hiuen Tsiang's visit in 651 A.D., and if we assigned the inscription to the remotest limit, the end of the eighth century, its contents would clash with Hiuen Tsiang's statement. For the eleven generations of kings enumerated we require at least 275 years, which we can in no way get, if we suppose the inscription to have been written after Hiuen Tsiang's visit and after the hypothetical liberation of Siṅghapura from the Kaśmîrian yoke, cay between 650 and 1700 A.D. If we assume that it was incised before those two events, say about 600, the assertion that the Yâdavas ruled Siṅghapura since the beginning of the Yuga, i.e., since time immemorial, and that eleven princes ruled it in a direct line of succession, offers no difficulties. The accession of Sonavarman will thus have to be placed in the beginning of the fourth century A.D.
 
  In conclusion I may add that this inscription very forcibly inculcates the necessity of our abstaining from identifying every Chandragupta who may turn up in literary or epigraphic documents with the Maurya or the Gupta king of that name.
@@ -485,8 +388,6 @@ periodduring which the alphabet of our inscription was in use, and it is only re
 
 [^32]: "L1. Read श्री—The word brahma is indistinct."
 
-
-
 **L. 2.**
 
 **श्रीसेनवर्म्मनामा राजर्षि प्रक्रमेणासीत्॥ [\[२\]][^33]**  
@@ -498,8 +399,6 @@ periodduring which the alphabet of our inscription was in use, and it is only re
 
 [^34]: "L.2 The syllable द in श्री [दत्त] वर्म्म is faintly visible. The restoration is certain, on account of the word दत्ताभय in line 3."
 
-
-
 **L.3. **
 
 ** नामा दत्ताभयविभवविजयविध्व\[ङ्\] सः \[।\]**
@@ -507,8 +406,6 @@ periodduring which the alphabet of our inscription was in use, and it is only re
 **भीतार्त्थिकुलारिभ्यो बभूव तस्यात्मजो नृपतिः॥ \[४\]**  
 **सूनुरभूत्तस्य महान्भूपालश् श्रीप्रदीप्तवर्म्मेति।**  
 **दर्प्पान्धशत्रपृतना-**
-
-
 
 **L.4.**
 
@@ -519,8 +416,6 @@ periodduring which the alphabet of our inscription was in use, and it is only re
 श्रीवृद्धिवर्म्मसंज्ञस्तस्य बभूवात्मजः**
 
 [^35]: "L 4. Read कृतवान्—The first two syllabler of भवार्त्थानांare indistmet."
-
-
 
 **L. 5.**
 
@@ -581,8 +476,6 @@ periodduring which the alphabet of our inscription was in use, and it is only re
 **जालन्धरनृपसूनोर्ज्जाया श्रीचन्द्रगुप्तस्य॥ \[१९\]**  
 **भर्त्तरि गतवति नाकं करि–**
 
-
-
 **L.13.**
 
 **           णस्कन्धाद्भवास्पदमिदं सा ।[^37]**  
@@ -632,11 +525,9 @@ periodduring which the alphabet of our inscription was in use, and it is only re
 
 [^42]: "Here we have the time–honoured pun on dâna 'liberality' and 'the ichor of the rutting elephant.'"
 
- 10. His son was the king named the illustrious Yajñavarman, by whom the peacocks were ever made to cry aloud on account of the smoke–clouds (*arising*) from the sacrificial butter.
-
 [^43]: "i.e., who by his virtues counteracted the wickedness of the Kali–yuga, which on account of its destructiveness may be compared to a forest–fire. The other epithets, too, have a double sense, one applicable to water, jala, and the other to the king called Jala."
 
-
+ 10. His son was the king named the illustrious Yajñavarman, by whom the peacocks were ever made to cry aloud on account of the smoke–clouds (*arising*) from the sacrificial butter.
 
  11. His son was the illustrious royal sage called Achalavarman, who was constant in (*following*) the holy practices of the Kṛitayuga, because (*his*) virtues, firmness, and so forth, (*were*) the same (*as those prevailing in the polden age*);
 
@@ -676,8 +567,6 @@ periodduring which the alphabet of our inscription was in use, and it is only re
 
 [^49]: "Ranhîtaka is the name of a town and district in Northern India, as may be gathered from Râjataraṅgiṇî, IV, 11-12. It probably corresponds, as Dr. Burgess suggests to me, to the modern town or district of Rohtak, or its homonymous capital, 43 milos north–east of Dehli."
 
-
-
 **III.—AŚOKA'S TWELFTH ROCK–EDICT**
 
 **ACCORDING TO THE SHÂHBÂZGARHÎ VERSION,**
@@ -693,8 +582,6 @@ periodduring which the alphabet of our inscription was in use, and it is only re
  1. I have in general adopted the new interpretations of some signs, e.g., of ![](../books_images/U-IMG-1709370147S.png)and ![](../books_images/U-IMG-1709370240S.png)which Dr. Bhagvânlâl Indrâji and Dr, Hoernle have given in their articles on the first rock-edict of the Shâhbâzgarhî version, and of the Suibihârâ inscription, *Indian Antiquary,* vol. X, pp. 105 & 324, and vol. XI, p. 128.
 
  2. I am however not able to agree as yet with Dr. Bhagvânlâl's remark in the last article, that the short line slanting upwards, which is sometimes found on the left side of the lower end of consonants and a, denotes the long â. In our edict it occurs distinctly in the first sign of *bahuvidha*, 1.2, where the reading *bâhuvidha* is impossible. It is further found in the *va* of *devanaṁ,* 1.1, where the reading devânaṁ is required. In a third word, *ataprashaḍavaḍhi*, 1.8, it perhaps occurs in the initial letter, and the reading âta is possible. But I do not dare to put these two lengths in the transcript, as none of the numerous other letters after which â must have been read, such as *ḍa* in *prashaṁḍani*, *ṭha* in *grahaṭhani*, show a similar contrivance. Moreover, neither Dr. Bhagwânlal's facsimile of the rock-edict nor the photograph of the Shâhbâzgarhî version which I owe to the kindness of Sir A. Cunningham, nor the facsimile and photograph of the Mânsahra version, which I have likewise received from him, confirm the assertion that the distinction between a and â is clearly marked in the Aśoka inscriptions. Hence I have noticed these slight peculiarities of the letters merely in the notes to the transcript.
-
-
 
  3. With respect to the spelling I have scrupulously adhered to the position of the letters in the original. I transliterate *priyadraśi*, *dhramo, savra,* though I have not the slightest doubt that the words were pronounced in the Panjâb, as elsewhere, *priyadarśi, dharmo,* and *sarva.* To everybody who is acquainted with manuscripts of works in the modern Prâkrits of India, or who has had to do with official correspondence in theso Prâkrits, the carelessness which the old inscriptions show with respect to the position of the letter ra will be nothing new or wonderful. A Hindu who is neither a Pandit nor a pupil of the Government schools, will write for *sovarṇa, sovraṇ* or *srovaṇ*, for *sarva* sometimes *srava* and sometimes *savra,* just as his fancy may direct.[^50] used in the transcript indicates that the letters are slightly injured, the sign [ ] that they are very much defaced but just recognisable.") As long as the *ra* appears in the word, he is quite contented. He, of course, pronounces invariably *dhar'm, sar'v,sovar'n,* and so forth. There is, I think, no reason to suppose that Aśoka's Rajukas were better scholars than the Karkuns of the British Government offices before, the introduction of the European system of education, and I therefore believe that the abnormities in their spelling may be attributed to the same causes which operated in the case of the modern office writers. Still, in a transcript, it is as well to render the peculiarities of the text as accurately as possible.
 
@@ -736,8 +623,6 @@ periodduring which the alphabet of our inscription was in use, and it is only re
 
 [^63]: "The first twelve letters are with difficulty recognisable. Only the last two are almost entirely gone."
 
-
-
 paraprashaṁḍasa[^64] pi. cha upakaroti \[.\] Ta(da) añatha ka[\[rata\]][^65] [\[cha\]][^66] a(ta)pra\[shaṁḍam\]
 
 [^64]: "The ra of para shows a small slanting line attached below to the right of the letter. The apparent anusvâra under ḍa is shown by the impression to be an accidental scratch."
@@ -766,7 +651,6 @@ paraprashaṁḍasa[^64] pi. cha upakaroti \[.\] Ta(da) añatha ka[\[rata\]][^65
 
 [^74]: "This seems plain on the impression, but is a mistake for vu. It looks as if a ra-stroke were attached to sa of sadhu"
 
-
 [^75]: "Dhra is perfectly distinct on the impression."
 
 L.7—ś(r)uṇeyu[^76]cha su(ś) rus(e)yu[^77]cha ti, \[.\] Evaṁ (hi) d(e)vanaṁ priyasa ichn \[,\] kiti \[?\] savraprashaṁḍa bahuśruta cha [kala\[ṇa\]gama][^78]cha siy (a)su (.) Ye cha tatra tatra[^79]
@@ -777,9 +661,9 @@ L.7—ś(r)uṇeyu[^76]cha su(ś) rus(e)yu[^77]cha ti, \[.\] Evaṁ (hi) d(e)van
 
 [^78]: "As the top of ṇa has been destroyed, it may have been dental."
 
- L.8—prasana teshaṁ[^80]vatavo[^81]\[:\] de(va)naṁ[^82]pri\[yo\] n(a tatha da)naṁ va (pu)ja va m(a)ñati ya(tha) kiti \[?\] salavadhi siya ti savraprashaḍanaṁ bahuka cha\[-\]. Etaye a \* \*[^83]
-
 [^79]: "The last three syllables are not visible on the impression."
+
+ L.8—prasana teshaṁ[^80]vatavo[^81]\[:\] de(va)naṁ[^82]pri\[yo\] n(a tatha da)naṁ va (pu)ja va m(a)ñati ya(tha) kiti \[?\] salavadhi siya ti savraprashaḍanaṁ bahuka cha\[-\]. Etaye a \* \*[^83]
 
 [^80]: "The anusvâra is distinct on the impression."
 
@@ -787,9 +671,9 @@ L.7—ś(r)uṇeyu[^76]cha su(ś) rus(e)yu[^77]cha ti, \[.\] Evaṁ (hi) d(e)van
 
 [^82]: "Va looks on the facsimile like eya. The Impression shows that the lower lines are scratches."
 
- L.9—vapaṭa [\[dhra\]mahamatra][^84](i) \* \* yachhama (hama) tra[^85]v(a)chabhumika añe cha nikay(a)[^86]\[.\]Ima(ṁ)[^87]cha etisa (pha)laṁ yaṁ ataprashaḍavaḍhi[^88]
-
 [^83]: "The top line of sru is not distinct owing to a large fissure.The top line of sru is not distinct owing to a large fissure.The top line of sru is not distinct owing to a large fissure."
+
+ L.9—vapaṭa [\[dhra\]mahamatra][^84](i) \* \* yachhama (hama) tra[^85]v(a)chabhumika añe cha nikay(a)[^86]\[.\]Ima(ṁ)[^87]cha etisa (pha)laṁ yaṁ ataprashaḍavaḍhi[^88]
 
 [^84]: "Dhra is mutilated. Ha is perfectly distinct on the photograph; tra on the same and on the impression."
 
@@ -799,13 +683,11 @@ L.7—ś(r)uṇeyu[^76]cha su(ś) rus(e)yu[^77]cha ti, \[.\] Evaṁ (hi) d(e)van
 
 [^87]: "Possibly imo."
 
- L.10—dhrama (sa) cha dipana[^89]\[.\]  
-
 [^88]: "A line slanting upwards seems to be attached to the left of the lower end of the initial a. But it may be due to a fissure, the prolongation of which is plain on the impression."
 
+ L.10—dhrama (sa) cha dipana[^89]\[.\]  
+
 [^89]: "This line is not on the impression."
-
-
 
 **IN DEVANÂGARÎ.  
 ————————**
@@ -813,8 +695,6 @@ L.7—ś(r)uṇeyu[^76]cha su(ś) rus(e)yu[^77]cha ti, \[.\] Evaṁ (hi) d(e)van
 **1. देवनं प्रियो प्रियद्रशि रय सव्रप्रषंडनि ग्रहठनि च पुजेति दनेन विविधये च पुजये।नो चु तथ दनं व पुज व**
 
 **2. देवनं प्रियो मञति यथ किति । सलवढि सिय सव्रप्रषडनं । सलवढि तु बहुविध । तस तु द्वयो सुल यं वचगुति ।**
-
-
 
 ** 3. किति । अतप्रषंडपुज व परप्रषंडगरन व नो सिय अप्रकरणसि लहुक व सिय तसि तसि प्रकरणे । पुजेतव एव चु परप्रषं-**
 
@@ -842,8 +722,6 @@ L.7—ś(r)uṇeyu[^76]cha su(ś) rus(e)yu[^77]cha ti, \[.\] Evaṁ (hi) d(e)van
 
 [^92]: "'The essentials’ are, of course, self-restraint and the purification of one's disposition, sayamo and bhâvasudhi, as the seventh edict says."
 
-
-
 creed"—he, however, acting thus injures his own creed exceedingly. Hence self-restraint alone[^93] (*is*) commendable—how so? " They shall hear each other's law and love to hear it.[^94].' For both in Sanskrit and in the Prâkrits the desiderative śuśrûsh has almost lost its etymological meaning. In Aśoka's inscriptions, too, it is regularly used in the sense of 'to obey.' The nominative dhramo stands for,dhramaṁ, as it is governed by the two verbs śruṇcyu and suśruseyu. The same interchange of the two cases occure, as is well known, regularly in the modern Prâkrits, and occasionally in the Vedic dialects.") For this is the desire of the Beloved of the gods—what ?—" that men of all creeds shall have heard much and possess holy doctrines." And to those[^95] who adhere to this or that (*faith*) it must be said[^96]. The Beloved of the gods thinks not so (*much*) of liberality and honour as of what ?—that an increase of essentials "may take place among men of all creads; and a large one." For this and are working the superintendents of the law, the superintendents of women, the *vachabhumikas[^97]*, and other bodies. (*of officials*). And this is its result (*viz.*) the exaltation of one's own creed and the promotion (*of the interests*) of the law.[^98]
 
 [^93]: "I translate in accordance with the emendation proposed in the notes to the transcript, so sayamo va sadhu, as vo for yougives no good sense, and the Kâlsi version has distinctly samâvâye va, i.e., samarâya eva. The varia lectio samavâye 'concord, barmony,' found also in the Girnâr inscription, is better than sayamo."
@@ -856,15 +734,13 @@ creed"—he, however, acting thus injures his own creed exceedingly. Hence self-
 
 [^97]: "I leave the word untranslated, as I do not believe that the varchobhûmikâḥ, the inspectors of the latrines, can be meant, and as I am unable to find any other explanation."
 
-**IV.—AN INSCRIPTION FROM DABHOI.**
-
 [^98]: "The law to which Aśoka refers here is the body of those moral doctrines which he has fully particularised in the third rock-edict, and constantly inculcates as the one needful thing."
+
+**IV.—AN INSCRIPTION FROM DABHOI.**
 
 **By G. BÜHLER, Ph.D., LL.D, C.I.E.**
 
  On a large stone slab, 3 broad and 2′ 10″ long, which is fixed in the inner side-wall of the Hîra Bhâgolâ gate at Dabhoi or Darbhavatî, are found the remnants of a very large metrical Sanskrit inscription, originally consisting of 59,lines of neatly-incised Nâgarî characters which closely resemble those of the ancient Jaina palm-leaf MSS. The lower portion of the stone is broken in several places. The breaks have destroyed lines 44-46, and have more or less seriously injured the centre portions of lines 47-59. Never theless the lower portion, especially lines 52-59, is in a better condition than the upper one, which has suffered from the effects. of the weather or from rough treatment to such an extent that nowhere is an entire line readable. On the right hand, pieces containing from 20 to 35 letters have been almost entirely obliterated in each of the first 52 lines. The first five or six letters on the left are likewise gone nearly everywhere, and in the centre portions of lines 16-40 not much more can be made out with certainty than single words and letters here and there. Under these circumstances it would be a waste of time and paper to transcribe all the small fragments. I shall confine myself to a description of the contents of the document and to giving transcripts of those pieces where at least a whole *pâda* of a verse is readable. The materials on which I work, a photograph and a paper impression, have been furnished to me by Dr. J. Burgess.
-
-
 
  The inscription belongs to the class of the *Praśastis* or panegyrics, a large number of which have come to light during recent years. As has already been pointed out by Professor V. A. Kâṭhvâte,[^99] it is the composition of Someśvaradeva, the well-known Purohita of the Rânakas of Ḍholkâ, who wrote the *Kirtikaumudî* in honour of his spiritual client and master Vîradhavala and of his friend the famous Jaina minister Vastupâla. The *Praśasti* is dated (1. 59) Vikrama Saṁvat 1311 Jyeshṭha Śudi 15, Vudhadine, or May 14, 1253[^100], corresponding to 1253, the full moon of Jyaishyha fell on May 14th, 10 P.M., a Wednesday, in V.S. 1311 elapsed, or 1254 A.D., on June 2nd, 10 F.M., a Tuesday."), and belongs therefore to a time when Vîradhavala and Vastupâla had passed away.[^101] On the throne of the former sat his second son Vîsaladeva, who in Vikrama Saṁvat 1300 or 1302 extended his sway over the whole of Gujarât.[^102] As might be expected, it is the latter to whom Someśvara devotes the greater portion of his poem, Vîradhavala and his ancestors occupy a secondary place, and, Vastupâla is, it would seem, not even mentioned. The immediate cause which led to the composition of the *Praśasti,* was the building or restoration of a temple of Śiva-Vaidyanâtha at Dabhoi-Darbhavatî, ordered by Vîsaladėva.
 
@@ -877,8 +753,6 @@ creed"—he, however, acting thus injures his own creed exceedingly. Hence self-
 [^102]: "Indian Antiquary, vol. VI, p. 190; and Bhâṇḍârkar, Report for 1883-84, p. 12."
 
  Turning to the details, it would seem that the first three verses contained a *maṅgala* or invocation addressed to Śiva-Vaidyanatha.. A fragment of verse 2 says, "May glorious Vaidyanâtha himself with his eight bodies grant their desires to the creatures." In verse 4 the description of Vîsaladeva's ancestors begins; for the end of páda 2 and pádas 3-4 speak of "the line of the progeny of that (*man*), the good deeds of which (*line*) .... (*cannot be described—*) even by eloquent men." As the name of the first ancestor is lost, and verse 5, too, is gone entirely, full certainty as to the point at which the genealogy begins is not obtainable. But verse 6 makes it probable' that it included the name of the first Chaulukya of Gujarât. For the fragroents of verse 6 point clearly to its identity with *Kîrtikaumudî,* II, 2—"Won over by the eminent qualities of this conqueror of his foes, the guardian goddess (Śri) of the Gûrjara princes became of her own choice his bride, just as (the goddess Śri became the bride) of (Vishṇu), the foc of Bâṇa (at the churning of the ocean)." In the *Kirtikaumudî* these lines refer to Mûlarâja, the founder of the Chaulukya dynasty of Aṇhilvâḍ. I do not believe that they can refer here to anybody else. For if they had been applied to Dhavala, the first member of the Vyâghrapallîya or Vâghelâ branch of the Chaulukyas, known to us, Someśvara would be guilty of uttering a deliberate falschood. Dhavala was according to all accounts not even a minor chief of any consequence. The next verse 7 begins with the word *yasmin* and hence refers likewise to Mûlarâja. Its sense seems to be that the wives of his enemics tremble or fly into the jungles, "when he, an embodied stream of the sentiment of heroism, stands on the back of.....with the intention of fighting. In the lost verse 8 the poet seems to have turned to the Vâghelâs and, just as in the *Kîrtikaumudî,* to have begun with Arṇorâja. This is evident from verse 9, "By whom, even the son of Dhavala, an imitator of Kṛishṇa, this realm of famous Gûrjara land was made free from thorns." Here we have a new version of
-
-
 
 *Kîrtikaumudî,*II, 63, “By that good warrior who imitated Kṛishṇa, even by the son of Dhavala, was begun the clearance of the kingdom from thorns." The fragment of verse 10 informs us further that Arṇorâja "slow on the battle-field Ranasiṁha who resembled Râvaṇa”—a deed which is not mentioned elsewhere. Verse 11 finally confirms the statement of *Kirtikaumudî,* II, 66, according to which he himself met his death in battle. It says, "Now when his son valiant Lavaṇaprasâda \[*was able to sustain*\]  
 the load of Gûrjara land, he (Arṇorâja) offered, his heart being averse to the world, a battle-sacrifice at which he gave his life as fee."
@@ -897,8 +771,6 @@ the load of Gûrjara land, he (Arṇorâja) offered, his heart being averse to t
 
 [^104]: "K. Forbes, Râs Mâlâ (second edition
 
-
-
 place can be referred to in our passage. Both according to the accounts of the Muhammadans and according to those of the Gujarâtî chronicles and bards, the decisive battles were fought in southern Rajputând. On the other hand Stambha, the scene of the battle mentioned in our inscription, can be it seems to me, only Stambhapura or Stambhatîrtha, the modern Khambhâyat—Cambay,—which lies much further south. For Stambha is the regular abbreviation of these two names, made *bhîmavat*, and no other town has hitherto become known in Gujarât from the name of which it could be derived. If we have then to look out for some other period during which Lavaṇapraśâda may have gained his victory, the most probable. conjecture seems to me that it happened after the occupation of Aṇhilyaḍ in 1196. Some time later the Muhammadans did suffer a defeat in Gujarât and the province shook their yoke off.[^105] The details of these events are not given either by the Muhammadan or the Hindu authors; but our passage probably contains an allusion to them, and it may be that Lavaṇaprasâda was the liberator of his country.
 
 [^105]: "K. Forbes, Râs Mâlâ, p. 181."
@@ -915,8 +787,6 @@ same time as Siṅghaṇa's army.
 [^107]: "Kîrtikaumudî, App. A, p. 4."
 
  Of the remaining verses referring to Vîradhavala, 26–51, little more than single letters or words are legible, except in verse 45, where an unsuccessful combined attack of the lord of Dhârâ and of the ruler of the Dekhan is mentioned. The portion of the *Praśasti* which celebrates Vîsaladeva's great deeds and virtues, verses 52–108, is likewise in a very bad condition. The only political events traceable aro fights with the kings
-
-
 
 of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 mentions too, and a hitherto unknown expedition on which "Vîsaladeva kept the hero's vow on the shore of the Sindhu," i.e., either of the ocean or of the Indus (L. 30, verse 59). In verse 77 and in those immediately preceding the manner in which Vîsaladeva gained the throne of Gujarât seems to have been described. But the name of the opponent whom he overcame has been lost. All that remains is: 77. "Vîsalâ \[*madę*. . . . . . . . .*undergo*\] the fate of a moth in the fire of his valour."
 
@@ -939,8 +809,6 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
  113. Glorious Vaidyanâtha, worshipful sole protector of the world, I address a prayer to thee—"May God, through thy favour, that Vîsaladeva, free from cares caused by focs, and united with his sons, be victorious during ten thousand Kalpas !"
 
  114. The chief domestic priest of the kings, born . . . who is called Someśvaradeva, made this panegyric, producing the great composition in half a watch of the night.
-
-
 
  115. And the excellent Brâhman Prahlâdana, the son of Śriyâmanda (?), born in the *gotra* of famous Nandipura, wrote this panegyric.[^110]
 
@@ -971,6 +839,10 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
 **•  •   •   •   •   •   •   •   •  •
   •   •   •  • **
 
@@ -992,15 +864,16 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 [^114]: "Metre, Anushṭubh."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
 **L5.**
 
 **•   •   •   गुणरत्नराजि•   •   •   •   •गंभीरता जगति ॥ ८[^116]")  
 धवलस्य सुतेनापि येन कृष्णानुकारिणा।**  
 
 [^116]: "Metre, Âryâ (P
-
-
-
 
 **श्रीगूर्ज्जरधराराज्यमेतन्निष्कंटकीकृतं॥ ९[^114]  
 रावणमिव रण\[सिं\]हं संह\[त्य\]र\[ण\] ां \[गणे\]**
@@ -1035,6 +908,10 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 [^119]: "Metre, Śârdûlavikrîḍita."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
 **L8.**
 
 **र्घातेनेव तेनामी कंपंतेद्यापि भूभृतः॥ १४[^114]  
@@ -1058,8 +935,6 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
               
 ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png) पृथक्क![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)**
-
-
 
 **L10.**
 
@@ -1120,6 +995,10 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
 **नर्म्मदातटनिविष्टविष्टपा                      
                 
 नंदिनं![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)\[1\]  
@@ -1135,9 +1014,6 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 \[प्र\] तिक्ष्मापालानां कवलितवलो वीरधवलः  
 यशःपूरे यस्य \[प्रसरति रतिक्लांतमनसा–\]**  
 
-
-
-
 **\[मसाद्धीनां भग्नाभिसरणक\]लायां कुशलता॥ २५[^127]  
 ते— ——किमपि•   •    •    •    •    •  
 •    •   •    •  •  •   •    •   •  
@@ -1152,8 +1028,7 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 •    •   •    •    •   •॥\[ ४  
 धारापतिर्दक्षिण![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
 ![](../books_images/U-IMG-1709622384S.png)              
-                                   
-    
+
 ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
 ![](../books_images/U-IMG-1709622384S.png)युगप\[तस\] मेतौ।  
 धीरस्तयोरेव समानतंत्रं                        
@@ -1219,6 +1094,10 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
 ** **
 
 **L 39.**
@@ -1258,8 +1137,6 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 [^130]: "Metre of verses 76-77, Śârdûlavikrîḍita. Rend सा येन स्थायिः---"
 
-
-
 **L 40.**
 
 **![](../books_images/U-IMG-1709622384S.png)
@@ -1293,8 +1170,6 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 **आधिपत्यमधि\[ग\]त्य जगत्याः  
 पार्थिवेदुरथ वीसलदेवः।**
-
-
 
 **स![](../books_images/U-IMG-1709622701S.png)कार \[सु\] जनं ि-
 ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)  
@@ -1396,8 +1271,6 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 [^136]: "Metre of verses 92–96, Anushtubh."
 
-
-
 **L 49.**
 
 **
@@ -1409,7 +1282,6 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 • • • • ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)
 ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
 • • • • ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) **  
-
 
 **धातुकृ\[तरूप\]सिद्धिः![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
 ![](../books_images/U-IMG-1709622384S.png)
@@ -1537,8 +1409,6 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 [^144]: " Metre Śikharinî"
 
-
-
 **वरोचने र\[चितवत्य\]मरेशमैत्री-  
 मेकत्रनागनगरं च गते द्वितीये  
 दीनाननंभुवनमूर्द्धमधश्चपश्य-  
@@ -1581,6 +1451,10 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
 **L 57.**
 
 **                 र्म्म\] प्रसूनः  
@@ -1613,8 +1487,6 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 [^151]: "Metre, Vasantatilakâ,"
 
-
-
 **L 59.**
 
 **प्रह्लादनोऽलिख\[त्तां\] प्रशस्तिं द्विजपुंगवः॥११५[^153] **
@@ -1640,8 +1512,6 @@ BY PROF. F. KIELHOLN, Ph.D., C.H.E., GÖTTINGEN.**
 
  The inscription refers itself to the reign of a prince Jâjalladêva of Ratnapura, a distant descendant of the Chêdi ruler Kôkalla; and it is dated in the year 866, expressed by decimal figures only, on the 9th day of the bright half of Mârgaśîraha, on Ravi or Sunday. And the inscription records (verses 27–31) certain religious benefactions,—the establishment of a monastery for ascetics, the making of a garden and of a lake, probably also the foundation of, or the establishment of a temple at, Jâjallapura, and the grant of the village of Sirulî, and of Arjunakôṇasaraṇa (?), &c., by the prince Jâjalladêva. Elsewhere I have tried to show that the epoch of the Chêdi era is A.D. 218-49, and assuming the date of the present inscription to be recorded in that era, I 
 
-
-
 have found by Professor Jacobi's tables that the 9th day of the bright fortnight of the month Mârgaśîrsha, 866, corresponds to the 8th November, A.D. 1114, which was a Sunday, as required. On that day, at sunrise, the 9th *tithi* of the bright half of the month was current, and it ended 19 h. 54 m. after mean sunrise.[^154]
 
  By way of introduction, the inscription gives the following account of the prince Jâjalladêya and his ancestors:—
@@ -1651,8 +1521,6 @@ have found by Professor Jacobi's tables that the 9th day of the bright fortnight
  In the lunar race there was Kârtavîrya (v. 2), the ancestor of Haihaya, from whom were born the Haihayas (v. 3). In the race of these princes was born the Chêdi ruler Kôkalla, whose residence or country appears to be called Tritasaurya (v. 4). Kôkalla had eighteen, sons, of whom the first born was ruler of Tripurî, while the others became lords of *maṇḍalas* (v. 5). A descendant of one of these younger sons was Kaliṅgarâja, who left Tritasaurya and acquired Dakshiņakôśala (v. 6), where he settled at Tuṁmâņa (v. 7). His son was Kamalarâja (v. 8), and his son agam, Ratnarâja (v. 9) or Ratnêśa,who ornamented Tuṁmaṇa with temples, gardens, &c. (v. 10), and founded Ratnapura (v. 11-12). He married Nônallâ, a daughter of Vajjûka, the prince of the Kômê *maṇḍala* (v. 13), who bore to him a son, Prithvîdêva or Pṛithvîśa, who succeeded Ratnarâja (v.14-16), and built temples at Tuṁmâna and a tank at Ratnapura (v. 17). He married Râjallâ (v. 18), who bore to him Jâjalladêva (v. 19). Jâjalla was allied with the ruler of Chêdi (v. 20), and honoured by the princes of Kanyakubja and. Jêjâbhuktika (v. 21); he defcated and captured in battle one Sômêśvara (v. 22); and ho had either annual tribute paid or presents given to him by the chiefs of the *maṇḍalas* of... \[Dakshina\]–kôśala, Andhra, Khimidî, Vairâgara, Lañjikâ, Bhâṇara, Talahâri; Daṇḍakapura, Nandâvalî, and Kukkuṭa (v. 23).
 
  I am not at present able to give a satisfactory account of the countries and places mentioned in the preceding. The name Tuṁmâṇa we shall meet again in the two following inscriptions, where it denotes a country or district, not a town. Perhaps it may have been the original name of the "Junâ Shahar," which is mentioned as being close to Ratnapur in *Archæological Survey of India Reports,* vol. VII, p. 216. Vairâgara and Lañjiká may be readily identified with Wairagarh and Lânji on the map, plate I, appended to vol. XVII of the *Archæological Survey of India.* The Talahâri *maṇḍala* is mentioned in lines 6 and 20 of a Ratnapur inscription of \[Chêdi-\] Saṁvat 915, which has suffered in the most deplorable manner, since it was first drawn attention to by Sir R. Jenkins in the *Asiatic Researches,* vol. XV, p. 504. Both
-
-
 
 Talahâri and Kômô occur in the inscription from Râjîm which has been edited in the same volume of the *Asiatic Researches;* and the name Komo is found, in 'Komo Pass' and 'Komo Choki,' on the maps, about 30 miles to the north of Ratnapur. A place, Kimedi or Khimide in Ganjâm, is mentioned in the *Indian Antiquary,* vol. XVI, p. 131; and as we there have the name Parlâ–Kimedi, we may possibly have to read in the present inscription Andhra-Khimiḍî, not Andhra and Khimiḍî.
 
@@ -1697,19 +1565,25 @@ Talahâri and Kômô occur in the inscription from Râjîm which has been edited
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
  7. ta\[ṁ\] pratâpa–drumaḥ(m)[^158] \। yên=âyaṁ Tritasaurya–kôsa(śa)m =¸ akṛiśîkart–tuṁ vihây=ânvaya–kshôṇîṁ Dakshiņa–kôśalô janapadô vâ(bâ)hu–dvayên=ârjjitaḥ \।\।6[^163]\।\।[^163] Râjadhânî sa Tuṁmâṇaḥ pûrvvajaiḥ kṛita ity=a–
 
 [^158]: "Possibly this correction has been made already in the original."
 
 [^163]: "Metre, Śárdûlavikrîḍita."
 
-
-
  8. taḥ ।tatra-sthô ri-kshayaṁkurvvan = varddhayâm-âsa ṣa śriyam ॥7॥[^168].")Jâtas = tataḥ pratata-nirmmala-kîrtti-kântaḥ śîtâṁśu = vat = Kamalarâjait = îha siṁdhôḥ। nṛîṇâṁmanaḥ-kumudashaṁḍam= adhiśri-
 
 [^168]: "Metre, Śloka (Anushṭubh
 
  9. sô(śô) bhaṁyasmâd = abhûd=arijan=âṁdhatamiśra (sra)-nâśaḥ ॥8॥[^113]Mahîbharttṛi-vibhûsh-ârtham payôdhir = iva kaustubham । jita-śûra-pratâpaṁhi Ratnarâjam = asûta saḥ ॥9¹⁵[^170].")॥Śrî-Vaṁkêśa-surâlaya-prabhṛitayô\[Ra ?\]-
+
+[^113]: "Metre, Vasantatilakâ."
+
+[^113]: "Metre, Vasantatalakâ."
 
 [^113]: "Metre, Vasantatilakâ."
 
@@ -1757,8 +1631,6 @@ Talahâri and Kômô occur in the inscription from Râjîm which has been edited
 
 [^170]: "Metre, Ślôka (Anushṭubh
 
-
-
  21. ![](../books_images/U-IMG-1698846613121.PNG)\[da\]gva(gdha)ṁ = amitaṁsainyaṁnihaty = âmunâ । va (ba) ddhaṁmaṁtri-kalatra-sârtham = anu tan = mâtur = ggirâmôehitaṁyêna v(b)rûta sa îdṛiśaḥ kshiti-patir = dṛishṭaḥkshitau vâśrutaḥ
 
  22. \॥[22[^171]\] ![](../books_images/U-IMG-1698850388322.PNG) \[ṇa\] kô \[śa\] I-Âṁdhra-Khimiḍî-Vai \[râga\] raṁLaṁjikâBhâṇâras =Talahâri Daṁḍakapuram Naṁdâvali Kukkuṭaḥ।yasy = aishâṁhi mahîpa-maṁḍala-bhṛitômaitreṇa kêchin = mufê kêchi-
@@ -1781,7 +1653,6 @@ Talahâri and Kômô occur in the inscription from Râjîm which has been edited
 
 [^185]: "Read âmraṁ."
 
-
 27.![](../books_images/U-IMG-1698849147327.PNG)\[॥27॥\]**..........**\[pa-Dignâ?\]g-âdi-pramâṇa-vit । \[sv-â\]-nya-siddhânta-vich = ch = âsya śrîmân Rudraśivôguruḥ ॥28[^186]; and of the next three verses.")॥[^186]; and of the next three verses.")Sáṁdhivigrahikô = py=asya Vigra\[ha\]râja ity = abhût।
 
 [^186]: "Metre, Ślôka (Anushṭabh
@@ -1793,7 +1664,6 @@ Talahâri and Kômô occur in the inscription from Râjîm which has been edited
  30.![](../books_images/U-IMG-1698848516230.PNG)\[prasa (śa)stim = a\]samâṁ Jâja \[lladê\] vê vyadhât ॥32॥[^119]Chakrê prasa (śa)stisât =tasya—rbhêśôvimalân = guṇân। uttamaṁhala \[dî\]-
 
 [^119]: "Metre, Śârdûlavikrîḍita."
-
 
 31.**..................**[\[॥33॥\]][^170]; and of the next verse.")**...................**dharôvu(bu)-dhaḥprasa(śa)stiṁprâpta- \[svarvvâ\] sâṁvâsta**...**\[nu\]jô= likhat ॥34॥\[Sa\] ṁvat 866 Mârga su di 9 Ravau ।\[Jâja(?)[^190].`")-ê—?\]
 
@@ -1808,8 +1678,6 @@ Talahâri and Kômô occur in the inscription from Râjîm which has been edited
  (Verse 1.)—May that Îśa grant prosperity !—heon whose head **.....** is it the crescent portion \[of the moon\], abiding by the shore of the celestial river, the waters of which are augmented by the flood of the nectar fluid **..............**?or is it, oh, acarp,**.............**thus gone to heaven**..........**!
 
  (V. 2.)—This highest light dispelling darkness, having the lustre of the eye of the three worlds, which men call ‘the mine of nectar,’**.........** not the last, whence (*there is*).
-
-
 
 the line of universal sovereignty of the regal order,—in his (*the moon's*) primeval race there was born on earth the illustrious Kârtavîrya.
 
@@ -1838,8 +1706,6 @@ the line of universal sovereignty of the regal order,—in his (*the moon's*) pr
  (V. 14.)—From her was born Pṛithvîśa, endowed with the qualities of righteousness and bravery. He led to heaven his kinsmen through his righteousness, and his enemies through his bravery in battle.
 
  (V. 15.)—When Ratnarâja, who by his bravery and other (*qualities*) conquered the enemies in battle, had gone to heaven through his action (*worthy*) of heaven, his son Pṛithvîdêva, the royal hero, became ruler of the earth after him. He was (*really*) a
-
-
 
 god on earth (*Pṛithvî-dêva*), inasmuch as the frightened tribe of kings verily offered adoration to him, regarding him to be a guardian of the world in consequence of his many excellent qualities, among which lordly nature, bestowing of prosperity, and bravery were foremost.
 
@@ -1870,8 +1736,6 @@ god on earth (*Pṛithvî-dêva*), inasmuch as the frightened tribe of kings ver
  (V. 25.)— Nobility, bravery, depth**..........**he possesses; thus (*his*) expanding fame was proclaimed by the earth with the uplifted very splendid excellent arms—the habitations of the gods.
 
  (V. 26.)—Is this that entirely bodiless god of love, who has not been seen by the eye of the three-eyed (Śiva)? Is it Vaikuṇṭha**.......**with fortune? Is he, a Hero on
-
-
 
 account of his heroism, the moon by his mighty splendour, the bestower of fortune (Kuvêra), dear to supplicants ? By the people, thus deliberating,[^194]was he at last found out to be Jâjalladêva.
 
@@ -1907,8 +1771,6 @@ account of his heroism, the moon by his mighty splendour, the bestower of fortun
 
  The inscription consists of 28 lines. The writing covers a space of from 2' 3½"to 2′ 4½ ″ broad by 1′ 6½" high. At the upper proper right corner a small piece of the stone appears to have broken away, so that the first four aksharas of the first line are missing; otherwise the inscription is complete, and well preserved almost throughout. The size of the letters is½".—The characters are Dêvanâgarî.—The language is Sanskrit, and, except for the introductory blessing and the date at the end, the inscription is in verse. The verses are numbered, and their total number is 26. They were composed by Ratnasiṁha, son of Mâmê, of the Vâstavya race; and the inscription was written by the Kshatriya Kumârapâla, of the Sahasrârjuna race, and engraved by the sculptor Sâmpla (verses 23-26). In respect of orthography we have to note the employment of the dental for the palatal sibilant and *vice versâ* in *saurya*, line 8, and *vyâśakta*, line 25; the use of the dental n instead of the *anusvâra* in *mîmânsâ*, line 16, and anhri, line 26; the exceptional denotation of ñcha by the sign for ncha in *bhûtin=cha*,
 
-
-
 line T3; and the non-observance of the rules of Saṁdhi in *âvahan Śubhra*-, line 4.The consonant *b*is throughout denoted by the sign for *v*.
 
  The inscription refers itself to the reign of a prince Jâjalladéva, a ruler of Tummâṇa, of the Chêdi family; and it is dated, in figures only, in the year 919, which, taken as a year of the Chêdi era, would correspond to A.D. 1167-1168. And it records the erection, at the town of Mallâla, of a temple of the god Kêdâra (Ke., Śiva) by the Brâhman Sômarâja, a younger son of Gaṅgâdhara, who in turn was theson of Pṛithvîdhara. In the introductory portion we are, told that the prince Jâjalladêva was preceded by his father Pṛickvîdêva, who again was the son of the prince Ratnadêva, the vanquisher of Chôḍa and Gaṅga princes, of the lunar race (verses 4-7). And we are further informed that the Brâhman Pṛithvidhara had been settled at the village Kumbhaṭîin 'Madhyadêśa; and that his son Gaṅgâdhara had come from there to the country Tummâṇa, and had been honoured by the prince Ratnadêva with the gift of the village Kôsambî. (Verses 9-13.)
@@ -1933,6 +1795,10 @@ line T3; and the non-observance of the rules of Saṁdhi in *âvahan Śubhra*-, 
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
  4. van-ânanda-sambhâra-kandô lôlâkshî-mâna-mudrâ-vighaṭana-paṭutâm = âvahan Śubhrabhânuḥ ॥3॥[^200]Tad-vaṁśê nṛipa-Chôḍa-Gaṅga-visarat-prauḍha-pratâp-ânala-jvâlâ-santati-śanti-chaṇḍa-jala-
 
 [^200]: "Metre, Sragdharâ."
@@ -1950,8 +1816,6 @@ line T3; and the non-observance of the rules of Saṁdhi in *âvahan Śubhra*-, 
 [^198]: "This correction appears to have been made already in the original."
 
 [^203]: "metre, Sragdharâ."
-
-
 
  8. kula-pradyôta-dîp-ôpamaḥ sat-kshâtr-aika-nidhiḥ pratâpa-taraṇiḥ sau(śau)ry-ârj-jita-śrîr = nṛipaḥ॥6॥[^119]Manyêyad-dâna-śaṁkâ-janita-bhaya-vaśâd = vallabhô nimnagânâṁdugdh-âv(b)dhir = bhîma-garbha-sphu-
 
@@ -1997,8 +1861,6 @@ line T3; and the non-observance of the rules of Saṁdhi in *âvahan Śubhra*-, 
 
  21. ṇôRati-patê rukm-âchalâd = gauravaṁgâmbhîryaṁjaladhêḥ sahasra-kiraṇâd = aśrântam = ôjasvitâm । aiśvaryaṁSmarasûdanasva paramaṁgrâmaṁ guṇâṇâm-iva grâhaṁgrâham - asau didṛi-
 
-
-
  22. kshur=asṛijat=Padmôdbhavô yaṁbhuvi ॥18॥Sapt-âmbhônidhi-tîra-vâriṇi bhṛiśaṁyat-kîrtti-haṁsî muhur = bhrâṁtv=âśrântam=iyaṁsur-âlayam=agân=Mandâkinî-kâṁkshi-
 
  23. ṇî\। bhuktvâvâ(bâ)la-mṛiṇâla-nâla-śakalâny = uddâma-kâm-ôtsukâvra(bra)-hmâṇḍ-ôdara-bhâṇḍa-vârija-bhuvôrantuin ma\[dât=saṁ\]yayau ॥19॥Vât-âhati-chalat-tûla-tarałaṁjîvitaṁuṛiṅâm ।Chancha-
@@ -2016,6 +1878,10 @@ line T3; and the non-observance of the rules of Saṁdhi in *âvahan Śubhra*-, 
 [^200]: "Metre, Sragdharâ."
 
  27. kha-mahîruhêṇa ।Vâstavya-vaṁśa-kamal-âkara-bhânun-êyaṁ।Mâmê-sutêna rachitâ ruchirâpraśastiḥ॥24॥[^113] IyaṁSahasrârjjuna-vaṁśajêna kutûhalât-ksha-triya-puṅgavêna ।Kumârapâ-
+
+[^113]: "Metre, Vasantatilakâ."
+
+[^113]: "Metre, Vasantatalakâ."
 
 [^113]: "Metre, Vasantatilakâ."
 
@@ -2041,8 +1907,6 @@ line T3; and the non-observance of the rules of Saṁdhi in *âvahan Śubhra*-, 
 
  (V. 4.)—In his race there was, beautiful (*and*) an habitation of Fortune, the protector of the earth, the illustrious Ratnadêva; a fierce cloud to extinguish the
 
-
-
 continuously raging flames of the spreading mighty fire of the prowess of Chôḍña and Ganga princes,[^220](*and*) a blazing fire to consume the unique tree of the pride in their creeper-like long arms of all the hostile heroic rulers of the earth.
 
 [^220]: "In the original one would have expected Chôḍa-Gaṅga-nṛipa, instead of nṛipa-Chôḍa-Gaṅga, but that would not have suited the metre."
@@ -2067,8 +1931,6 @@ continuously raging flames of the spreading mighty fire of the prowess of Chô�
 
  (V. 11.)— From him there was born a son, that Gaṅgâdhara who, bearing on his head the beautiful title of ‘king of the twice-born,’always had knowledge as a third unique largeeye; (*and*) who, warding off the irresistible passion of love, secured for himself excellent welfare; (*who*) in a crowd of hostilo disputants resorted to (*arguments*) difficult to be met; (resembling Śiva Gaṅgâdhara, who, having on his
 
-
-
 crest a spot beautified by the moon, possesses a large third eye; who annihilated the irresistible god of love, spreads excellent ashes over his body, and embraces Durgâ).
 
  (V. 12.) —Then that crest-jewel of the twice-born, who had acquired great fortune by the collection of his good qualities, inthe course of time came to the country Tummâṇa.
@@ -2092,8 +1954,6 @@ crest a spot beautified by the moon, possesses a large third eye; who annihilate
  (V. 19.) —The swan of his fame, having frequently again and again roamed about by the water on the shores of the seven oceans, unweariedly went to the abode of the gods, longing for the heavenly Ganges; (*and*) having eaten (*there*) tender lotus-fibres and pieces of lotus-stalks, it has, pining with excessive longing, rapturously come, to enjoy itself, to the lotus-grounds of the interior of the vessel-like egg of Brahman[^226].
 
 [^226]: "In the original one would have expected brahmâṇḍa-bhâṇḍ-ôdara, instead of brahmâṇḍôdra-bhâṇḍa."
-
-
 
 (V. 20.)— Having reflected that the life of man is unsteady like a tuft of grass which moves when struck by the wind, and that fortune is fickle; he, the wise, set his mind on religion.
 
@@ -2123,8 +1983,6 @@ This inscription is on a black stone, which was discovered within the fort of Ra
 
 The inscription consists of 24 lines. The writing originally covered a space of about 2´ 5½̋ broad by 1´ 1̋ high; at present, a portion of the proper left side, all the way down, and the lower right corner of the stone, are broken away, so that altogether about ninety *aksharas* are missing. The stone evidently was less injured when Dr. Râjendralâl’s rubbing was taken. What remains of the inscription is well preserved.—The size of the letters is about³/₈̋ .—The characters are Dêvanâgarî.—The language is Sanskrit, and, excepting the introductory blessing and the date at the end, the inscription is in verse. The verses are numbered, and their total number is 30. They were composed by Dêvagana, son of Ratnasiṁha; written by Kumârapâla, or, as he is called here, Kumărapâla; and engraved by Sâmpula (verses 26-28).—In respect of orthography, we have to note the employment of the dental for the palatal sibilant in *suṇḍâ*, line 2, *saurya*, line 6, *Sachî*, line 10, *sâśvatê*, line 18, and *sikhara*, line 19;
 
-
-
 the use of the dental n instead of the *anusvára* in' *avatansaḥ*, line 4; the employment of the u*padhmânîya* in *punpavantau*, line 17; the exceptional denotation of ñcha by the sign for ncha in chancharîkaḥ, line 11, *kincha*, line 13, and *chakran=cha*, line 23; and the non-observance of the rules of Saṁdhi in *dhavalam=vilôkya*, line 12, and *idam=vidagdhô*, line 20. The consonant b is throughout denoted by the sign for *v*.
 
 The inscription refers itself to the reign of a prince PrithvÎdêva, son and successor of the Chêdi prince \[Ratnadêva\], the vanquisher of Chôda and Gaṅga champions, who was the son and successor of a prince Jâjalladêva, of the lunar race (verses 4-6). And it records (in verse 24) the erection at the village of Sâmbâ, of a Siva–temple by one Dêvagana, the glorification of whom and whose ancestors, wives, and children fills just half the number of verses of the inscription (verses 8-22). The great-grandfather of Dêvagana, Govinda, of the \[Vâstavya\] race, had come from the Chôdi *maṇḍala* to Tummaṇa, the country ruled over by the above-mentioned princes. Gôvinda had two sons, Mâmê and Râghava; and Mâmê's son again was Ratnasiṁha, he father of Dêvagana. This Dêvagana, the founder of the temple, himself composed, as we have seen above, this very inscription; and his father Ratnasiṁha is the author of the preceding Malhâr inscription, dated \[Chêdi-\] Saṁvat 919=A.D/1167-1168.
@@ -2146,8 +2004,6 @@ The inscription refers itself to the reign of a prince PrithvÎdêva, son and su
 (7.) Pṛithvîdêva; according to the Râjîm inscription, Kulachuri-saṁvatsarê 896=A.D. 1145 ; and, according to *Archaol. Survey of India*, Volume XVII, Plate xx, Kulachuri-saṁvatsara 910=A.D. 1158-59.
 
 (8.) Jâjalladêva; according to the second inscription here published, \[Chêdi-\] Saṁvat 919=A.D. 1167-68.
-
-
 
 (9.) Ratnadêva; according to *Archeol. Survey of India*, Volume XVII, page 43, line 4 from the bottom, and Plate XX, Chêdi-Saṁvat 933=A.D. 1181-82.
 
@@ -2211,9 +2067,7 @@ Râjyê bhûmibhujò ’sy=aiva naya-mârgg-ânusâri-ṇi । kshîn-ôpasargga
 
 [^119]: "Metre, Śârdûlavikrîḍita."
 
-
 [^245]: "The missing syllable is of course Su."
-
 
 11. mbhôr=Dugdhâv(b)dhi-putr-îva cha Chakrapânêḥ । sâdhvî sadâ va(ba)ndhu-jan-âbhipûjyâ Rambh-êti nâmâ’bhavad=asya patnî \।\।12\।\।[^122] Tâbhyâm-ajâyata jagat-traya-ghushṭa-kîrttir = âkhaṇḍit-âri-vu(bu)dha-maṇḍala-chaṇḍa-darppaḥ । Chandîśa-châru-charan-âmv(b)uja-chan (ñ)charîkaḥ pra\[jñâ\]-pa![](../books_images/U-IMG-1698747682CHANDA11.JPG)
 
@@ -2223,31 +2077,35 @@ Râjyê bhûmibhujò ’sy=aiva naya-mârgg-ânusâri-ṇi । kshîn-ôpasargga
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
+[^248]: "The missing syllable I suppose to be ya."
+
 13. ttô=pi jâta-bhramaḥ \।\।14\।\।[^171] Pîyûsha-drava-sândra-vindu-vasatir=yasy=âsya vâk-chandrikâ vidvach-cḥakra-ckakôra-chañchu-puṭakair=âpîyamân=âniśam ।kin(ñ)ch-âya\[ṁ\] kara-pañjarô khila-milaṅ-nânâ-digant-ârthinâṁ bkûyô ’bhîshţa-phala-pradâna-chatura\[h\] [svâdhî\[na\]--][^250]
 
 [^171]: "Metre, Śârdûlavikrîḍita; and of the next verse."
 
-[^248]: "The missing syllable I suppose to be ya."
+[^250]: "The missing syllable is ka."
 
 14. Ipadrumaḥ \।\।15\।\। Chaṁdrik-êva śiśir-âṁśu-mâlinô maîtjar=îva sura-mêdinîru-haḥ। kânti-nirjjita-surânganâ-gaṇâ tasya sâdhu-charitâ vadhûḥ Prabhâ \।\।16\।\।[^251] Jâ\[mh\]ô-nâmnî dvitîy=âsya vilâsa-vasatiḥ priyâ। amita-prêma-vâ(bâ)huly&\[d=[dvi\]-][^252]
 
-[^250]: "The missing syllable is ka."
-
 [^251]: "Metre, Rathôddhatâ."
+
+[^252]: "The missing syllable is li."
 
 15. yaṁ prâṇa-mandiram \।\।17\।\।[^170].") Lâvaṇy-âpratimallatâ-mada-bharâ Maulîṁdunâ krôdhatô dagdhasy=âpi Manôbhavasya, bhuvanê vidy=êva sañjîvanî । sat-saubhâgya-guṇ-aika-garvvá-vasatiḥ prâṇ-âdhikâ prêyasî yâṁ nirmmâya Sarôjabhûḥ pramudi-[^254]
 
 [^170]: "Metre, Ślôka (Anushṭubh
 
-[^252]: "The missing syllable is li."
+[^254]: "The missing syllable I take to be taḥ."
 
 16. prâptaḥ parâṁ nirvṛitim \।\।18\।\।[^119] Avô(bô)dha-dhvânta-santâna-kavi(ri)-kumbha-vidâraṇaḥ। Jagatsiṁhô ’sya tanayaḥ siṁhavad=bhuvi râjatê \।\।19\।\।[^170]; and of the next three verses.") Târak-ârir-asau Śaila-sutâ-sûnur=ayaṁ punaḥ । sutô Râyarasimhô ’sya va(ba)ndhu-varggasya târakaḥ \।\।20 \[\।\।\]
 
 [^119]: "Metre, Śârdûlavikrîḍita."
 
 [^170]: "Metre, Ślôka (Anushṭubh
-
-[^254]: "The missing syllable I take to be taḥ."
 
 17. Bhôp=âsya duhitâ sâdhvî kali-kâla-vichêshṭitaiḥ। a-spṛishṭâ svar-dḍhun=îv=êyam bhuvana-traya-pâvanî \।\। 21 \।\।
 Vâlhû-śrî-Dévadâs-âkhyau va(ba)ddha-saknyau paras-param। jagad-ud\[d\*\]yôtakau bhâtaḥ puhpavantâv=iv=âmv (b) arê \।\।22\।\।
@@ -2265,27 +2123,29 @@ Vât-ôddhûti-\[vi\]-
 
 [^200]: "Metre, Sragdharâ."
 
+[^260]: "The missing syllable is tô."
+
 21. \[yô\] daṇḍa-nîtau mataḥ। chhandô’laṅkṛiti-śav(b)da-manmatha-kalâ-śâstr-âv-(b)ja-chaṇḍadyutiś=chakrê Dêvagaṇaḥ praśastim=amalâ\[ṁ\]śrî-Ratnasiṁh-âtṛnajaḥ \।\।26\।\।[^119] Yaḥ kâvya-kairava-vikâśana-śîtaraśmir=uddâma-vu(bu)ddhi-nilayô’[^262]
 
 [^119]: "Metre, Śârdûlavikrîḍita."
 
-[^260]: "The missing syllable is tô."
-
-
 [^262]: "Dr. Râjendralâl has read here the syllable va; and for the beginning of the next line he supplies ni."
-
 
 22. pâla-sûnuḥ । vidyâ-vilâsa-vasatir-vvimalâṁ praśastiṁ śrîmân-imâṁ Kuma-ra-pâla-vu(bu)dhô lilêkha \।\।27\।\।[^113] Praśastir=iyam=utkîrṇṇâ ruchir=akshara-pâṁktibhiḥ । dhîmatâ sûtradhârêṇa Sâṁpulêna manôramâ \।\।
 \[28\।\।[^170]; and of the next verse.")[\]][^265]
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
 [^170]: "Metre, Ślôka (Anushṭubh
+
+[^265]: "The figure in brackets is broken away."
 
 23. \[D\]êva\[ga\]ṇâv=êtau rûpakâra-śirômanî। chakratur-ghaṭanân-dhâmnô Vi(bi)lvapâni-pinâkinah \।\।29\।\।
 Chandrârkkau kiraṇ-åvalî-valayitaṁ yâvad=vidhattâñ[^266]=jagad-diṅ-mâtaṅga-ghaṭ-ôpavṛiṁhita-dharâ-chakran(ñ)=cha kû-
-
-[^265]: "The figure in brackets is broken away."
 
 [^266]: "Read vidhattô."
 
@@ -2310,8 +2170,6 @@ Chandrârkkau kiraṇ-åvalî-valayitaṁ yâvad=vidhattâñ[^266]=jagad-diṅ-m
  (V. 4.)— In his race there was the protector of the earth Jâjalladêva, who, having by the pride of the group of his massive arms taken possession of the extent of the three worlds, was holding the position of (*Indra*,) the lord of the host of the gods, ..... the favourite husband of his wife, the earth, surrounded with the girdle of the... oceans; a unique jewel to ornament the world.
 
 (V. 5.)— From him there was born a son, \[the illustrious prince Ratnadêva?\], who was the fierce submarine fire of the unique ocean of the array of the difficult-to-be-subdued armies of the Chêdi princes; who to the Chôda and Gaṅga champions elated.
-
-
 
 with \[conceit\] was, what Râhu is to the full orb of the moon, when he seizes and swallows it; (*and*) the marvellous might of whose heroism had no bounds on the orb of the earth.
 
@@ -2338,8 +2196,6 @@ with \[conceit\] was, what Râhu is to the full orb of the moon, when he seizes 
 [^270]: "Compare Raghuvamśa, XV, 40, Bo. Ed., note."
 
  (V. 15.)— His words are always (*eagerly received*) by crowds of learned men, as the moonlight, the habitation of abundant drops of the nectar-liquid, is drunk by theround beaks of Chakôra birds; and this cage-like hand of his, dexterous in giving plenti-
-
-
 
 fully the wished-for fruits to all the supplicants of the various quarters, crowding together, holds in subjection the tree of paradise.
 
@@ -2371,8 +2227,6 @@ fully the wished-for fruits to all the supplicants of the various quarters, crow
 
  (V. 26.)—The son of the illustrious Ratnasiṁha, Dêvagaṇa, whose wealth of learning is purified by every traditional knowledge, (*and*) who possesses an excellent turn of mind for poetry; who has gone to the further shore of the ocean of the science of reasoning, (*and*) is esteemed as Bhṛigu's son in the administration of justice; who to the sciences of metrics, rhetorics, grammar, of love, and of the arts, is what the sun is to lotuses,— he has composed (*this*) spotless eulogy.
 
-
-
  (V. 27.)—The son of \[Avani-?\]pâla, the illustrious learned Kumarapâla[^274],(who is) a moon in causing the lotus of poetry to open, a home of unlimited intelligence, (and) a habitation of the play of learning, has written this stainless eulogy.
 
 [^274]: "i.e. Kumârapâla; in the original, the second syllable has been shortened, to make the name fit into the verse."
@@ -2396,8 +2250,6 @@ The original of the subjoined grant was found at Kâpaḍvaṇaj in Gujarât. Th
 The inscription opens with a short *vaṁśâvali*, which has four verses in common with other Râshṭrakûṭa grants[^276]and mentions the following princes :— Kṛishṇarâja I. or Śubhatuṅga (verses 2, 3); his son Dhruvarâja or Nirupama (verses 4, 5); his son Govindarâja III. (verses 6 to 8); his son mahârâja Shaṇḍa (verses 9, 10); his son Śubhatuṅga or Akâlavarsha, i.e., Krishṇa II. (verses 11, 12). Of Govinda III. the grant says that, though his father had several sons, he left the kingdom to him, as to a second Râma, on account of his virtues (verse 7). From other inscriptions we know only one of Govinda's younger brothers, *viz*., Indra III., the founder of the Gujarât branch of the Râshṭrakûṭas. The mahârâja Shaṇḍa of the present grant is identical with the *mahârâja* Śarva or Amoghavarsha of other inscriptions. He is
 
 [^276]: "Verses 1, 3, 4, 8, correspond to verses 1, 12, 16, 18, of the grant of Dhruva III.—Ind. Ant., vol. XII, page 179."
-
-
 
 here said to have destroyed his enemies and to have reconquered his kingdom, which had fallen off (verse 9). As we know from other inscriptions,[^277]the enemies alluded to were rebellious members of his own family, probably Govinda IV. and his followers, whom he conquered with the help of his cousin Karka II. of Gujarât.
 
@@ -2426,8 +2278,6 @@ here said to have destroyed his enemies and to have reconquered his kingdom, whi
 [^283]: "Read साक्षाद्धर्म."
 
 [^284]: "Read ०रेणूर्ध्व०."
-
-
 
 5 साधिताशेषनरेन्द्रचक्रः क्रमेण वालार्णवपुर्व्वभूव । \[४\] शशधरकरनिकरनिभं यत्र य– 6 शः सुरन (T) गाग्रसाणुत्यैः[^285] \[१\] परिगीयते समन्ताहिद्याधरसुन्दरीनिवहैः । \[५\] तस्याप्यभू– 7 भुवनभारभृतेः समर्थः पार्थोपमः पृथुसमानगुणागुणधः \[!\] दुर्व्वार-वहरि[^286] 8 वनितातुलतापहेतुः गोविन्दराज इति सुप्रयितप्रतासः । \[६\] यस्य प्रभोशुतुरचा[^287]रुरु- 9 दारकीर्त्तेः रामापरी[^288]निरुपमस्य पितुः सकाशात् \[!\] श्वखेभ्यंनेकत[^289]नयेषु गुणा 10 तिरेकान्मूर्डाभिषिक्त (:) नृपसम्मतमाशु[^290] राज्यं । \[७\]\। रक्षितं येन नि\[:\]शेषं प्रतुरंभोधिसंयु- 11 तं । राज्यं धर्म्मेण लोकानां कृता तुष्टि\[:\] परा हृदि । \[८\] सूनुतस्या[^291]तिवोतः सकसमुणग- 12 णाकारभूतो वभूव(:) भूणलात्कंटिकाभि[^292] सपदि विष्टटितन्वेष्ट्टइत्वा[^293] ददाह । 13 राज्यं यस्याभिमानी रिजमपि[^294] चलितं वाहुवीर्यादधाप[^295] पृथ्वीमेकातपतुमि[^296] 14 कुरुत वलवान् श्रीमहाराजषंडः । \[९\] यस्य विभो \[:\] कारायां रिपुरमणीचारु- 15 चरणलग्नानां \[।\] परुषरधे[^297] निगडानां अनवरतं श्रूयते लोके । \[१०\] \।
 तस्याहभूव[^298]16 राजा प्रथितयश\[स\]: (।) शुभतुङ्गनामायै[^299] योसानकालवर्षोपरनामा[^300] 17 गीयते लोके ।\[११\] कृष्णचरितः स एव हि हितकृतेये[^301] यो वि\[भ\] - 18 र्त्ति वर्णानां । निहतारातिः (।) खभुजेन भुवं च (कृ)
@@ -2494,8 +2344,6 @@ here said to have destroyed his enemies and to have reconquered his kingdom, whi
 
 [^313]: "Read शेलुणलित०."
 
-
-
 30 शत्रून् (।) समधे[^314]यशसा कृत[^315]मलंकृतं । \[१९\] श्रीमहलभराज्ञः[^316]श्रीहर्षपुरोप-
 
 [^314]: "Read समरे."
@@ -2556,9 +2404,9 @@ here said to have destroyed his enemies and to have reconquered his kingdom, whi
 
 [^327]: "Read तिष्ठति."
 
-45च तान्यैव नरके वसेत् । विन्ध्याटवीष्वतीयासु शुष्क ( : )कोटरवासिनः \[।\], महहियो हि जाय-
-
 [^328]: "Read चानुमन्ता."
+
+45च तान्यैव नरके वसेत् । विन्ध्याटवीष्वतीयासु शुष्क ( : )कोटरवासिनः \[।\], महहियो हि जाय-
 
 46 न्ते भूमिदानं हरंति ये । स्वदत्तां परदत्तां वा यत्नाद्रच नराधिप (:) \[1\] महीं महीभृतां श्रेष्ठ दा-
 
@@ -2587,8 +2435,6 @@ here said to have destroyed his enemies and to have reconquered his kingdom, whi
 52 न्दुलीला[^334]श्रियमवलोक्य मनुष्यजीवितञ्च। सकलमिद-
 
 [^334]: "Read ºखोलां."
-
-
 
 53 [मसाम्बतं\]][^335] \[च\] बुद्धा[^336]न हि अनुजैःपरवीर्त्तये[^337]तिक्षीप्याः। अदत्तां परदतानायोहरे-
 
@@ -2620,9 +2466,9 @@ here said to have destroyed his enemies and to have reconquered his kingdom, whi
 
 [^344]: "Read पचहलः १."
 
-58 न मर्त्वो जायते पुनः । सर्व्वेषामिव[^346]। खनानां पञ्चवस्त्रानुगुणंफलं । हाढक्ष[^347] क्षितितौ-
-
 [^345]: "Read चैव."
+
+58 न मर्त्वो जायते पुनः । सर्व्वेषामिव[^346]। खनानां पञ्चवस्त्रानुगुणंफलं । हाढक्ष[^347] क्षितितौ-
 
 [^346]: "Read सर्वेमानेव."
 
@@ -2658,27 +2504,17 @@ here said to have destroyed his enemies and to have reconquered his kingdom, whi
 
  8. He ruled righteously his whole kingdom together with the four oceans ( and thus ) filled the hearts of men with the highest joy.
 
-
-
 # **PRASASTI FROM LAKKHA MANDAL AT MADH**
 
 # ![](../books_images/U-IMG-1710153656EP-1.png)
 
-
-
 # ![](../books_images/U-IMG-1710153796EP-2.png)
-
-
 
 # **JHĀNSI; CHANDEL INSCRIPTION OF SALLAKSHANAVARAM**
 
 # ![](../books_images/U-IMG-1710153863EP-3.png)
 
-
-
 # Please dont Edit this page (Blank Page)
-
-
 
   9. His son was the illustrious peahárdja Shaṇḍa, who was very brave, a mine[^349]of all virtues, prouts and powerful. He quickly dispersed, surrounded and burnt the kings, like thorns, conquered by the strength of his arm his own kingdom which had fallen off, and made the earth subject to one'( royal ) paresol.
 
@@ -2718,8 +2554,6 @@ here said to have destroyed his enemies and to have reconquered his kingdom, whi
 
   ( L. 33.) “Be it known to you that, while in these seven hundred and fifty (villages) of Khetaka, Harshapura, and Kâsadraha, the illustrious Chandragupta was the dandandyaka of the mahdsámanta Prachaṇḍa, who has obtained tho five maháśabdas, I gave as a donation the village of Vyâghrasa, which is included in the ten (villages) of
 
-
-
 Rûriddhâ, which belong to the eighty-four (villages) of Karpaṭavâṇijya, which are included in the seven hundred and fifty (villages) of Śri-Harshapura, together with its rows of trees, together with (the right to) punishment and (the right of fining those who commit) the ten offences, up tó its boundaries, together with its timber, grass, wells and tanks, together with its enjoyments and shares, together with its gold, defined by its four boundaries, together with its pacture and straw;– the boundaries are (here) written: on the east, the village of PanhoḍâandVitkhâralli; on the south, the village of Keraḍavalli and the village of Araluvaka;on the west, 'Nâvâlika and Apûvalli; on the north, the village of Ambâüñcha ;– the village of Wallûrikâ, thus defined by its four boundaries, to the bráhmaṇa Brahmabhaṭi who is the son of Vavva, lives at Bhaṭṭa (!), belongs to the Bharadvâja-gotra and studies the Vaji-Madhyaṁdina (śákhá), aftc. having båthed, with a libation of water, in order (to enable the donee to perform) the bali, charuky and vaikvadeva. Therefore, all future rulers shall preserve and assent to the charitable gift which was given by us, without obstructing us."
 
   (L. 44.) And the saint Vyâsa has said:– \[ Here follow twelve of the customary imprecatory verses which it is unnecessary to translate. \]
@@ -2739,8 +2573,6 @@ Rûriddhâ, which belong to the eighty-four (villages) of Karpaṭavâṇijya, w
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Compare the village of Araluäm in the Ilâo grant of Dadda II., Ind. Ant. vol. XIII, p. 117.
-
-
 
 and refers to the Chola country. 'On'the left pillar the Kâvîrî is called the beloved of the Pallava'; this means in prose that a Pallava Ring ruled over the country along the banks of the Kâterîriver. This allusion and the fact, that the characters of the two pillax inscriptions remind us of those of the Pallava inscriptions at Mâmalla-puram and Kâñchîpưram, make is very probable that Guṇabhara was a Pallava prince who ruled over the Chala country..
 
@@ -2793,8 +2625,6 @@ and refers to the Chola country. 'On'the left pillar the Kâvîrî is called the
  (4.) By the stone-chisel a material body of Śatyasañdhâ[^359]was executed, andby the same an eternal body of his fame was produced.
 
 [^359]: "Satyasaṁdha must have been a biruda of Guṇabhara. A statue of the king is also alluded to in the first verse on theright pillar."
-
-
 
 **B. — PILLAR TO THE RXGHT.**
 
@@ -2850,8 +2680,6 @@ and refers to the Chola country. 'On'the left pillar the Kâvîrî is called the
 
   ( 4. ) Thus having joyfully placed on the top ( of the mountain ) & matchless stonefigure of Hara ( *Śiva* ), which he caused to be executed, that Purushottama; who bore Śiva fixed in his mind, made the loftiness of the mountain fruitful.
 
-
-
 **X – BADÅUN STONE INSCRIPTION OF LAKHANAPALA.**
 
 **BY PROFESSOR F. KIELHORN, PH.D., C.I.E.; GÖTTINGEN.**
@@ -2865,8 +2693,6 @@ and refers to the Chola country. 'On'the left pillar the Kâvîrî is called the
   The average size of the letters varies from ¾" to ¾" and is somewhat less in the four or five bottom lines. The characters are Devanâgari of about the 12th or 13th century A.D., and the inseription was engraved by the two artizans Gôge and Jilhe ( line 23 ). The language is Sanskṛit, and excepting what possibly is a date, at the beginning of line 23, the inscription is in verse throughout. The verscs were, it appears, composed by the poet Govindachandra, who is described as the youngest of the five sons of Gaṅgâdhara ( himself the son of the sage Sômêsvara, a resident of Âhâdegaḍha ) and his wife Sülhâ, a daughter of the learned Paraśurama ( lines 21-22 ). The inscription is remarkably free from minor errors, and in respect of orthography I therefore have only to note that ba is represented by the sign for va everywhere except in the word árabdha in line 23.
 
   The inscription possibly, at the beginning of line 23, contains a date which at present, unfortunately, I am unable to make out from the impression submitted to me. Certain it is that it refers itself to the reign of a prince, Lakhaṇapâla, and that it records the erection of a Śiva-temple at the place, it may be presumed, where the inscription was discovered, and which is called here Vodâmayûtâ ( lines 1 and 11). And from these two points of view the inscription may be conveniently divided into two portions, the first of which, extending to near the end of line 7, gives the genealogy of Lakhaṇapâla, while the second part, comprising about lines 8–20, has reference to the founder of the temple and his spiritual predecessors. Of this latter portion it is sufficient to give
-
-
 
 an abstract of the contents; regarding the prince Lakhaṇapâla and his ancestors, the writer of the inscription expresses himself as follows:—
 
@@ -2886,13 +2712,9 @@ an abstract of the contents; regarding the prince Lakhaṇapâla and his ancesto
 
   (L. 5). “ (Then) his son became king, installed in the place of his father as the illustrious Bhîmapâla, who defeated the difficult-to-be-conquered hostile herocs (and) whose excellent body was spotless like gold, a born ruler, causing welfare, devoted to the gods and to Brâhmmans. Then there came, to protect the carth, his son, known the world over as the illustrious Sûrapâla, (who among princes was) what Indra is in the assembly of the gods, what the moon is in the assembly of the stars, what (Indra's elephant) Airâvaṇa is among the choicest of elephants, (and) what the lion is among the wild beasts. IIis son was Amritapâla, who, endowed with prowess, frightened all enemies by the sharp sword of his hand, who was devoted to the twice-born, the elders,' and the gods, attached to every science, (and) the preceptor as it were of all whose. weapons deal out stern punishment.”
 
-
-
   (L. 7). “ May his younger brother, the prince Lakhaṇapala, who has succeeded him, remain here billions of ages!– he, whose munificence i boundless, (and) the multitudes of whose missile weapons, resembling the scorching rays of the sun, drink streams of blood from the bodies of distinguished enemies !"
 
  Put into the form of a tabular statement, the genealogy here furnished to us is as follows:—
-
-
 
 ![](../books_images/U-IMG-169874820100000000.png)
 
@@ -2903,8 +2725,6 @@ Beyond these names, and the statement that these princes belonged to the Rashṭ
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *Archæol*. Survey of India, vol. XI, p. 1.-A prince 'Depâl,' with the date A.D. 1256, and a prince 'Lakhan Pal, with the date A.D. 1330, are mentioned, ib., vol. XX, pp. 18 and 14.
-
-
 
 Vasâvaṇa, a resident of Siṁhapallîin the Hariyâna country. This Îśânaśiva, per-suaded of the vanity of worldly affairs, founded the temple of Śiva at which this inscription must be supposed to have been put up originally, and endowed it with (the revenues of) a place called Bhådanaulikâ(lines 16-21). This portion of the inscription closes with a verse (line 21) which appears to intimate that the minister Rulhâ, mentioned above, was succeedêd in office by Lakshmîdhara ând Jagatpâla, who were as devout workshippers of Śiva as their predecessor.
 
@@ -2929,9 +2749,9 @@ sundarîTútr³[^371]=âditô=bhavad=ananta-guṇônarêndraś-Chandraḥ sva- k
 
 [^373]: "Originally kîrtyd-."
 
-4. s-Tribhuvanô bhuvanaṁraraksha ॥Sva-bhrâtari svar=upayâtavati sva-daivât= s-aiv-âvanir=Madanapâla-nṛipêṇa bhuktâ।yat-paurushât=pravarataḥ surasindhu-tîra-Hamvî (mbî) ra-saṁgama-kathâ na kadâchid-âsît ॥Tasy-ânujô dalita-dṛipta-vipaksha-lakshô dâtá dayâlur=avanîm-avati sma paśchât \[।\*\]
-
 [^374]: "i.e., anvitaa."
+
+4. s-Tribhuvanô bhuvanaṁraraksha ॥Sva-bhrâtari svar=upayâtavati sva-daivât= s-aiv-âvanir=Madanapâla-nṛipêṇa bhuktâ।yat-paurushât=pravarataḥ surasindhu-tîra-Hamvî (mbî) ra-saṁgama-kathâ na kadâchid-âsît ॥Tasy-ânujô dalita-dṛipta-vipaksha-lakshô dâtá dayâlur=avanîm-avati sma paśchât \[।\*\]
 
 5. śrî-Dêvapâla-vara-nâma-dharô\[dharâyâ\]m=ady=âpi yach-charita-varṇṇanatô jayaḥ syât ॥Tasy=åtmajôvijita-durjaya-vairi-vîro râj-âbhavat-kanaka-nirmala-sach-  
 chharîraḥ।garbhêśvaraḥ śubha-karaḥ sura-vipra-bhaktaḥ śrî-Bhîmapâla iti tâta-padê-bhishiktaḥ ॥Tat-sambhavô=bhavad-a—[^375]
@@ -2944,11 +2764,11 @@ chharîraḥ।garbhêśvaraḥ śubha-karaḥ sura-vipra-bhaktaḥ śrî-Bhîma
 
 [^377]: "i.e., -śâstrâ-."
 
-
-
 7. nuraktô gurur-iva sakalânâṁ=ugra-daṁḍ-âyudhânâṁ॥Tad-anu tad-anujâtô âts-dân-âtirêkô nṛipati-Lakhaṇapâlaḥ kalpa-kôtîr=ih=âstâm। tapa-tapana-kar-âbha-prâsa-vṛiṁdâni yasy-âri-vara-tanushu dhârâraudhirîr=âpiva (ba)nti ॥Aṇahilapâ-taka[^135]-vasatiḥ prâg-âsît-tâpa-[^379]
 
 [^135]: "Metre, Âryâ."
+
+[^379]: "i.e., tâpasô."
 
 8. mahakula-jaḥ।Varmaśivaḥ śiva-mûrtiḥ kîrti-mati-kshâṁti-dhṛiti-dhâma ॥ Yô-[^379]vå (bå)laḥkila Dakshiṇâpatha-gatôyau(bau)ddha.prati\[shṭh\] âpitâṁ sampaśyan-pratimâṁjahâra vidhinâkên=âpi dûraṁrushâ।maṁtr-ôchcharaṇa-vêlay=aiva paṭaha-dhvânât-tafôviśrutô vijñâtô guru-gauravân=nija-padê ninyê-
 
@@ -2993,8 +2813,6 @@ chharîraḥ।garbhêśvaraḥ śubha-karaḥ sura-vipra-bhaktaḥ śrî-Bhîma
 **1**Perhaps ninyê, gryatâm.  
 **2** i.e.,jitv-ôdbhatân=.
 
-
-
 va(ba) ṁdhu-dhana-spṛihâm para-pada-prâptyai sishêvê guruṁ ॥Niyama[^393]-sayama-dhyâna-vyagrôgurôḥpariçharyayâpratidinam=abhûd-dêv-âbhyarchâ-kṛitê kusum-âkulaḥ। tṛiṇam=iva dhanaṁmatvâ-
 
 [^393]: "Metre, Hariṇî."
@@ -3013,34 +2831,38 @@ va(ba) ṁdhu-dhana-spṛihâm para-pada-prâptyai sishêvê guruṁ ॥Niyama[^
 
 [^398]: "Metre, Drutavilambita."
 
-19. tara-bhaktits vasumatîgahan-âsya hîkîrttanaiḥ । kim-aparaṁ grahaṁshu naganyatê katishu sarva-dhanaṁdvijasât-kṛitaṁ॥N[^400]=âmî sêvyâ vishama-vishayâ dushṭa-hâlâhal-abhâva(ba)ddhaṁkaṁṭhê chiram=api dhanaṁ prâṇinaṁ n=ânuyâti I saṁsårô=yaṁ sarasa-kadalî-daṁda-vach=ch=âpy-asâras=tasmâd= dhêyaṁsakalam=aparaṁ dharma-tô=nyad=viditvâ॥ Prâ[^401]
-
 [^399]: " i.e., -niraṁ.."
 
+19. tara-bhaktits vasumatîgahan-âsya hîkîrttanaiḥ । kim-aparaṁ grahaṁshu naganyatê katishu sarva-dhanaṁdvijasât-kṛitaṁ॥N[^400]=âmî sêvyâ vishama-vishayâ dushṭa-hâlâhal-abhâva(ba)ddhaṁkaṁṭhê chiram=api dhanaṁ prâṇinaṁ n=ânuyâti I saṁsårô=yaṁ sarasa-kadalî-daṁda-vach=ch=âpy-asâras=tasmâd= dhêyaṁsakalam=aparaṁ dharma-tô=nyad=viditvâ॥ Prâ[^401]
+
 [^400]: " Metre, Mandâkrântâ."
+
+[^401]: " Motro, Vasantutilakâ."
 
 20. da êsha Bharatasya purê hy-akâri yê nâma tuṁgima-gunêna jagaj=jigâya।yad-râmaṇîyakan=anuttamam=âkalayya Kailâsa-vâsa-vimukhôvasat-îha Śaṁbhuḥ IIAnârata[^122]- prabhramêṇa bhẩnô[^403]khinnô=si viśrâmya muhûrttam=atra ॥it=îva saṁ-ñâm=anusaṁdadhânaś=chalat-patâkâ-chchhalatô vibhâvi(ti) ॥Śivâlayam[^404]and of the next verse.")yihirmâpyapratishṭhâ [\[s-cha ?\]][^405]
 
 [^122]: "Metre, Upajâti."
 
-[^401]: " Motro, Vasantutilakâ."
-
 [^403]: "Read prabhramaṇêna."
 
 [^404]: "Metre,Śloka(Anushṭubh
+
+[^405]: " i.e., vi-."
 
 21. dhânataḥ। prâyachchhad=ÎsânaśivaḥśâsanaṁBhadaṇaulikâṁ
 RûḍhâRulhâbhi\[dham\]prâpyaŚiva-bhakti-latâ hiyâ।Lakshmîdhara-Jagatpâla-bhavanaiḥ s=aivavarddhitâ॥Â hâḍêgadha[^119]uttamê samabhavat=sûriḥ sa Sôméśvarôyat-pûjâ-paramâva(ba) \[bhûvu\]r=akhilà lôkâḥsadà nâgarâḥ ।tasy= âsêsha-g\[u\]ņâ![](../books_images/U-IMG-1698746019b.PNG)\[Ga\]ṁgâdharaḥpaṁḍitôvidy-âdâna-rataḥ pa–[^407]
 
 [^119]: "Metre, Śârdûlavikrîḍita."
 
-[^405]: " i.e., vi-."
+[^407]: "i.e., pari—"
 
 22. graha-bhayâd-yôn=aikshata kshatriyân॥ Tasmai[^113]dadau Paraśurama-vu(bu)dhaḥsva-putri\[ṁ\] Sûlh-AbhidhâṁGirisutâm=iva Parvvatêśaḥ ।tasyâṁ= va(ba)bhûvasuta-paṁchatayîkanishṭhô Gôviṁdachaṁdra-vivu(bu)dhaḥ śruti-śâstra-nishṭhaḥ ॥Surâ-lay-[^409]ârâ\[ma\]![](../books_images/U-IMG-1698747065c.PNG)![](../books_images/U-IMG-1698747112d.PNG)\[pra\*\]\[śa\]stim-êtâm-akarôt=kav-iśvaraḥ \[॥\*\]
 
 [^113]: "Metre, Vasantatilakâ."
 
-[^407]: "i.e., pari—"
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
 
 [^409]: " Metre, Vaṁśastha."
 
@@ -3053,8 +2875,6 @@ RûḍhâRulhâbhi\[dham\]prâpyaŚiva-bhakti-latâ hiyâ।Lakshmîdhara-Jagatp
 [^411]: " Metre, Śâlinî."
 
 [^413]: "Here about 45 aksharas are broken away."
-
-
 
 **XI. –THE MADHUBAN COPPER-PLATE OF HARSHA,**
 
@@ -3075,8 +2895,6 @@ a few letters, like ka and the subscribed ña, show more ancient forms than the 
 
 [^416]: " Anecdola Oxoniensia, vol. I, pt. 3, pp. 63 ff."
 
-
-
 and to demonstrate more forcibly the great antiquity of the Japanese and of the oldest Nepalesc MSS.
 
   The language of the edict is on the whole good Sanskrit, and there are very few clerical mistakes. As regards the spelling, no distinction is made between ba and va, no doubt because in the seventh century the pronunciation of the two letters was the same, just as at present. I *samviḍitaṁ* (1. 10) and samvet (1. 18) the letter m remains unchanged before va, which practice is, though against grammar, very common in the inscriptions of the fourth and later centuries, and due to the pronunciation that in this point too agreed with the modern one. Ungrammatical or, unidiomatic forms and words occur exclusively in the technical portion of the grant. Among them may be noted *kuṇḍádhánívaishayika* (1. 8) for *kuṇdhâdhánívishayântaḥpáti*, bhuktakaḥ (1. 10) for bhuktaḥ, sarvaparihritapariňáraḥ (1. 11) for *parikṛitasarvapariháraḥ, ºsamakâlínaḥ* (1. 11) for 'samakâlikaḥ. Very interesting is the incorrect form pramâtâra, which twice (1. 9 and 1. 17) occurs in the middle of a compound. It can only be explained as caused by the influence of the vernacular language which must have had then as now forms in târ, spelt tára, such as kartâr, instead of the Sanskrit words ending in tṛi.
@@ -3085,16 +2903,12 @@ and to demonstrate more forcibly the great antiquity of the Japanese and of the 
 
 [^417]: "Sir Å. Cunningham, Anc. Geog., p. 377, is right when he assorts that the French translation of Hiuen Tsiang's Fri-she was wrong in making Karsha of the Vaisya caste, and that the intermarriages with the Rajput families of Valabhî and Mâlvâ (recte Kanoj
 
-
-
 ![](../books_images/U-IMG-1698823726e.PNG)
 
   The names of the first three kings and those of their queens are new. Both Iliuen  
 Tsiang and Bâṇa omit them, the latter mentioning in their stead the remote founder of the family Pushpabhùti or, as the correct spelling of the name probably was, Pushyabhûti[^418].[^418] They seem however to have stood on Mr. Fleêt's Sonpat scal of Harsha, on the
 
 [^418]: "The word Pushpubhûti gives no good sense. Pushyabhâli is a Nakshatra-name, and means"
-
-
 
 facsimile of which (1. 5) the end of the name of Prabhâkaravardhana’s mother is visible in the words . . . . naguptâdêvyâm utpannaḥ.[^420] it appears that he has made out the names of the second and third kings and of the third queen.")As all three receive the simple title mahârâja, it follows that their power was not great, and it is even doubtful if they were independent. For in the fourth, fifth, sixth and later centuries of our era the title mahârâja was commonly given to great vassals, as the Valabhî and numerous other inscriptions prove. The position of the fourth ruler, Prabhâkaravardhana, was of course different. As he is called paramabhaṭṭâraka and mahârâdhirâja, he must have been an independent sovereign and a man of some consequence. He no doubt owed his prosperity to his own valour. Bâṇa mentions his successful wars against his northern neighbours, the king of Gandhâata and the Hûnas in the Himâlayas, against the king of Sindh in the west, and against the rulers on his southern frontier, the Gûrjaras, i.e., those of Bhînmâl in Râjputânâ, the Lâṭas, i.e., the Gûrjaras of Bharoch, who no doubt assisted their northern clansmen, and against the king of Mâlava[^421], where the foes of Prabhâkaravardhana are briefly enumerated and in a somewhat different order.").The same author gives also a number of other data which prove that Prabhâkaravardhana’s wars did not lead to permanent conquests of the countries or tribes which he combated and may have vanquished. Thus he tells us that shortly before his death the king sent his eldest son “into the north-country in order to exterminate the Hûnas.[^422]”
 Again, we hear[^423]that immediately after Prabhâkaravardhana’s death the king of Mâlava was powerful enough to destroy the kingdom of the Maukhari Grahavarman, the son-in-law of the ruler, of Sthâṇvîśvara, and to slay him, as well as that he intended to attack Thâṇeśar. That does not look as if Mâlava had suffered much at the hands of its foe. Another remark which Bâṇa makes on the same occasion warns us against forming too high an opinion of the extent of Prabhâkaravardhana’s kingdom. He says that after Grahavarman’s death, his wife Râjyaśrî was thrown into prison at Kanyakubja, and lay there in fetters. Hence Kanyakubja seems to have been the independent state which Grahavarman governed and the kingdom of Sthâṇvîśvara which Prabhâkaravardhana held, cannot have extended far eastwards. It seems probable that his possessions did not go beyond the limits of the kingdom of Thâṇeśar which Hiuen Tsiang describes (Beal’s Si-yu-ki, vol. I, p. 183ff), and which, as Sir A. Cunningham (*Ancient Geography,* p. 328ff) suggests, probably included portions of the Southern Panjâb and of Eastern Râjputânâ. A state, the circuit of which amounted to 7000 li or 1200 miles, might exercise a considerable influencc, keep its neighbours in fear, and afford to a very talented king the means for greater conquests; but its ruler cannot have been a chakravartin.
@@ -3108,8 +2922,6 @@ Again, we hear[^423]that immediately after Prabhâkaravardhana’s death the kin
 [^423]: "Srîharshacharita, pp.391-392, पिशाचानामिव नीचात्मानां चरितानि छिद्रप्रहारीणि प्रायशो भवन्ति यतो यस्मिन्नहन्यवनिपतिरूपरत इत्यभूद्वार्त्ता तस्मिन्नेव देवो ग्रहवर्मा दुरात्मना मालवराजेन जीवलीकमात्मनः सुकृतेन सह त्याजितः । भतृदारिकापि राज्यश्रीः काङ्गायसमिगडयुगलचुम्बितचरणा चौराङ्गनेव संयता कन्यकुब्जे कारायां निक्षिप्ता । किंवदन्ती च यथा किलानायक साधनं मत्वा जिघृक्षुः सुतिरतामपि भुषमाजिगमिषतीति ॥ The speaker is Saṁvâdaka. a servant of Râjyaśrî. My interpretation of this passage follows Dr. Hall, Vâsavadattâ, p. 52, who says that Kanyakubja was Grahavarman’s capital. Grahavarman and his father Avantivarman are always spoken of by Bâṇa as independent princes."
 
  The further description of Prabhâkaravardhana in our grant is obviously
-
-
 
 conventional. The same expressions occur also on the Asîrgaḍh seal of the Maukhari Śarvavarman, and apply there to the first king Harivarman. The only other statement which possesses a historical value is the assertion that Prabhâkaravardhana was “a most devout worshipper of the Sun.” Bâṇa, too, says of him (in the Śṛîharshacharita p. 274)—“ And owing to his natural disposition this prince became a worshipper of the Sun.” He goes on describing at length the king's daily devotions, adding that the recitation of the Ádityahṛidaya—a still much-used stotra—formed part of them. The name of Prabhâkaravardhana’s queen is likewise known from Bâṇa’s poem. In the latter she is however called Yaśovatî, not Yaśomatî.[^424]This vacillation in two contemporaneous sources is another instance showing how little the Hindus care about the form of a name provided the sense remains the same.
 
@@ -3125,8 +2937,6 @@ conventional. The same expressions occur also on the Asîrgaḍh seal of the Mau
 
  Another statement of the grant which possesses some interest is that Râjyavardhana was a Saugata or Buddhist (1. 6). If Bâṇa, himself a Brâhmaṇ, does not
 
-
-
 mention it, there is no reason for wondering at his reticence. But it is certainly curious that the fact—for such it must be considered—escaped the notice of Hiuen Tsiang, who is so anxious to record every point in favour of his faith and who occasionally, it would seem, exaggerates its influence in India. Suchan exaggeration of the Chinese pilgrim is laid bare by the only direct statement concerning Harsha which the grant contains. Harsha calls himself a most devout worshipper of Maheśvara or Śiva, “who like Maheśvara is compassionate towards all created beings.” It agrees with this assertion that the emblem on the Soṇpat seat is a reclining Nandi. Huen Tsiang, on the other hand, tries to make out tha Harsha was a Buddhist or full of faith in Buddha from the beginning. He tells us an obviously fictitious story describing how Harsha was prevented from mounting the throne and induced to take the title kumâra by a Bodhisattva, who miraculously appeared to him in return for his worship[^428]
 
  In the gencalogical portion of the grant Harsha says nothing more about himself, and to our regret thereby sets an example which few Indian princes have imitated. But indirectly we learn something more about him from his edict. First, the wording of the verse in II. 16-17, and the reverential manner in which the grant in 1. 13 speaks of “the feet” of the elder brother, prove that Harsha really felt the strong attachment and great regard for Râjyavardhana of which Bâṇa speaks very fre–quently. Otherwise he would not treat him here with almost greater reverence than  
@@ -3134,15 +2944,13 @@ his parents. Secondly, we learn from the edict that Harsha really was a poet. Th
 
 [^428]: "Beal, Si-yu-ki, vol. I, p. 212. Doubts about Hiuen Tsiang’s veracity have been emitted by Mr. Boyd, Nâgânanda, pp. ix—xi, who correctly states that the events narrated by him do not bear out his assertion that Harsha was a thoroughgoing Buddhist."
 
-
-
 or officer charged with the execution of the grant, was the *Mahâsâmanta-mahârâja* Skandagupta who held the office of *pramâtṛi*. This personage is probably the same Skandagupta who, according to Bâṇa[^429],was “the master of the elephant” at the death of Râjyavardhana and addressed to his prince the well-known speech full of political wisdom and historical allusions. The order to engrave the inscription was given by the chief of the mahâksḥapaṭalika’s office, or the great keeper of the records, sâmanta-mahârâja Îśvaragupta, and it was barried out by one Gurjara, whose name no doubt is derived from his caste.[^430]
 
 [^429]: "Śrîharshacharita, p. 417."
 
- The date of the grant, Sarṃvat 25, Mârgaśîrsha vadi 6, clearly refers to the Śrîharsha era. Since the discovery of Mr. Bendall's inscrintion[^431]of Aṁśuvarman, dated Saṁvat 34, it is not doubtful that the era began in 606 A.D. Our date consequently corresponds to November-December 631 or, if the years are taken as elapsed, to 632 A.D. I am unable to offer any suggestion regarding the situation of Pinthikâ, where Hersha’s camp of victory which included elephants, horses and boats, was located at the time when the edict was issued.
-
 [^430]: "It may be mentioned that Gurjara sûtradhâras are met within the present day."
+
+ The date of the grant, Sarṃvat 25, Mârgaśîrsha vadi 6, clearly refers to the Śrîharsha era. Since the discovery of Mr. Bendall's inscrintion[^431]of Aṁśuvarman, dated Saṁvat 34, it is not doubtful that the era began in 606 A.D. Our date consequently corresponds to November-December 631 or, if the years are taken as elapsed, to 632 A.D. I am unable to offer any suggestion regarding the situation of Pinthikâ, where Hersha’s camp of victory which included elephants, horses and boats, was located at the time when the edict was issued.
 
 [^431]: "Journey to Nepâl, pp. 74-76."
 
@@ -3176,8 +2984,6 @@ L. 8. स्तत्पादानुध्यातः परममाहे�
 L. 9. समुपगतां[^434]महासामन्तमहाराजदौम्साधसाधनिकप्रमातारराजस्थानीयकुमारामात्योपरिकविष–यपतिभटचाटसेवकादीन्प्रतिवासिजनपदाश्च समा-
 
 [^434]: "L. 9 Read समुपगतान्; the Sanskrit form of प्रमातार is प्रमातृ. Read जनपदांश्च; the reading of the plate may be जनपदान्श्च."
-
-
 
 L. 10[^435]. ज्ञापयत्यस्तु वः सम्विदितंमयं सोमकुण्डकाग्रामो ब्राह्मणवामरप्येन कूटशासनेन भुक्तक इति विचार्य यतस्त शासनं भङ्क्ता तस्मादाक्षिप्य च स्वसीमा-
 
@@ -3228,8 +3034,6 @@ L. 18. कृतसामन्तमहाराजेश्वरगुप्�
 
 **1** Metre of the first verse, Vasantatilakâ; of the second, Anushṭubh.
 
-
-
 (*father's*) feet (*was he*) who overspread the circle of the whole world with the canopy of his brilliant fame; who completely appropriated the lustre of the guardians of the world, Dhanada, Varuṇa, Indra and so forth; who gladdened the hearts of needy men by gifts of many excellent[^439](*pieces of*) land gained in a righteous manner; who was born from the queen possessing spotless fame, the illustrious Yaśomatî,—a most devout worshipper of Sugata, who like Sugata solely found pleasure in doing good to others, the supreme lord and supreme king of great kings, the illustrious Râjyavardhana; “By whom, plying his whip in battle, the kings Devagupta and others— who resembled wicked horses— were all subdued with averted faces; who, after uprooting his enemies, after conquering the earth, and doing what was agreeable to his subjects, in consequence of his adherence to his promise gave up his life in the mansion of his foe.” His younger brother who meditates on his (elder brother's) feet, a most devout worshipper of Maheśvara, who like Maheśvara is compassionate towards all created beings, the supreme lord and supreme king of great kings, the illustrious Harsha, addresses (this) order to the great feudal barons, the great kings, Daussâdhasâdhanikas[^440], is identical with dauḥsâdhika (see A. Weber, Hâla, 406, 557), it means perhaps “policeman,” or, as Professor Weber thinks, “doorkeepe..”"),Pramâtṛis[^441], and regarding the form pramâtâra, see above, p. 68."),viceroys, princes, ministers, Uparikas, rulers of districts, regular and irregular soldiers, servants and others, as well as to the provincials of the neighbourhood, assembled in the village of Somakuṇḍikâ which belongs to the district (*vishaya*) of Kuṇḍadhânî in the bhukti of Śråvastî :
 
 [^439]: "Pravaṇa cannot here have its usual meaning “inclining towards.” I take it in the sense of udâra which is given in some Koshas, and as a synonym of pravara. The latter torm is sometimes found in parallel passages of inscriptions."
@@ -3255,8 +3059,6 @@ L. 18. कृतसामन्तमहाराजेश्वरगुप्�
 
  The maxim concerning ground unfit for tillage is probably that enunciated by Manu, IX, 44, that “a field belongs to him who cleared away the timber.” The ultimate sense of the expression is, therefore, that the land in question is made over to the donee with the same full right of ownership which the first oultivator would have possessed who reclaimed it.
 
-
-
 and supreme king of great kings, His Majesty the illustrious Prabhâkaravardhana, of (*my*) mother, the supreme lady and great queen, Her Majesty the illustrious queen Yaśomatî, and of the feet of (*my*) elder brother, the supreme lord and supreme king of great kings, His Majesty the illustrious Râjyavardhana,—to Bhaṭṭa Vâtasvâmin, a member of the Sâvarṇi gotra, and a fellow-student of the *Chhandogas (a Sâmavedi)* and to Bhaṭṭa Śivadevasvâmin, a member of the Vishṇuvṛiddha gotra and a fellow-student of the *Bahvṛichas (a Ṛigved)*, as a duly accepted[^444]agrahâra. Knowing this you should agree (to it), and the provincials of the neighbourhood being obedient to (my) command should bring to these two (donees) alone the due income, which is to be given according to weight and according to measure, (*viz.*) the share (of the crops), the (*objects of*) enjoyment,[^445] enjoyment’ the so-called huks, fruit, firewood, flowers, pao, etc., which the villagers have to furnish to their lord either daily or on certain occasions, —see also Manu VII, 118, and the note to my translation of the passage.")the taxes, the gold and so forth, and they should do them service.”
 
 [^444]: "Pratigrahadharmaṇâ, i. e., pratigraho dharmo yasya tena."
@@ -3279,8 +3081,6 @@ The inscription is incised with great neatness and care on a stone slab, measuri
 
 [^447]: "The document was first published with a translation in the Jour. As. Sor. Beng., vol. VI, p. 777, by Mr. J. Prinsep: according to a copy taken by Colonel Stacy. A facsimile of i. 1 and of the greater part of 1. 2 accompanies Prinsep’s paper. See also Prinsep’s Essays, vol. I, pp. 321-324. Later a complete facsimile was published by Sir A. Cunningham, Archeological Reports, vol. I, p. 354ff. The subjoined edition has been prepared according to an excellent paper impression taken by Dr. A. Führer, of the Archeological Survey, North-Western Provinces, and sent to me by the Editor."
 
-
-
 the left limb of ka in the group *ksha* is curved upwards. In all other respects the letters closely resemble those of the Paramâra, Râṭhor, and other inscriptions of the same period. As in most other inscriptions from Northern India, we find here no distinction between the letters ba and va, which doubtless were pronounced alike. In râjahansî, 1. 3, the dental na is substituted for the anusrâra. The letter pha has a very archaic form. Owing to the peculiarity mentioned above and guided by a peculiar interpretation of a statement of the copyist who in verse 36 call himself “acquainted with crooked letters” (kuṭilâksharâṇi), Mr. Prinsep has called the alphabet of this inscription the Kuṭila alphabet. It seems to me, however, that there is no sufficient reason for doing so I cannot see anything particularly crooked in any of the letters, and do not think it likely that the very slight modifications in three signs could have caused the alphabet to be designated by a special name. Moreover, if the writer says that he was acquainted with crooked letters, the natural interpretation of the phrase seems to be that it refers to his skill in reading badly written and difficult documents, not that he was acquainted with letters called Kuḷila. For there is nowhere else an indication that an alphabet of this name existed. Nor could the knowledge of such ordinary easily read characters as those of our inscription become the subject of a boast on the part of a professional scribe. If a writer wishes to extol his skill, he will of course say that he is proficient in the difficult local alphabets, used by the professional classes, such as the Moḍî, Lânde, &c., which all, indeed, are very “crooked” and are not easily deciphered. I would, therefore, remove the term *Kuṭila* alphabet from Indian palæography and describe the letters of the Dewal inscription as Nâgarî of the North Indian type.
 
 The language is very high-flown Sanskrit, which, however, is not quite free from mistakes. When the author speaks, verse 21, of “holy śâsanas, situated on the banks of pure rivers,” he uses the word śâsana in the sense of “villages granted by śâsanas or edicts,” for which meaning it might be difficult to find good authority. Again, the use of âvabhâra, in verse 11, is very curious. Further, the construction of samvaddhâ, verse 32, with the locative instead of with the instrumental is ungrammatical. Finally, there are some cases where words seem to have been put in mercly in order to make up the verse.
@@ -3292,8 +3092,6 @@ The language is very high-flown Sanskrit, which, however, is not quite free from
 ![](../books_images/U-IMG-1698782834pahe98pic.JPG)  
 
  The allusion in verse 4 to Chyavana’s quarrel with Indra shows that the person intended is the mythical sage of the Bhârgava tribe, who according to the Vedic and Purânic legends married Sukanyâ, the daughter of king Śaryâta or Śaryâti, a son or descendant of Manu Vaivasvata. The Chhinda family would, therefore, seem to have claimed connexion with the Solar line of Kshatriyas. Its name occurs elsewhere only in the Jaina lists. It is found in the slightly different form Chhindaka in the *Ratna-*
-
-
 
 *kosha*[^448],and in the *Kumârapâlacharita*[^449]. Sir H. Elliot’s identification (Memoirs, &c., vol. I, p. 73) of the Chhindas with the Chandels is most improbable, because the words do not agree and the Jaina lists contain both names.")of Jinamaṇḍana where the thirty-six Râjput tribes are likewise enumerated.
 
@@ -3324,7 +3122,9 @@ The language is very high-flown Sanskrit, which, however, is not quite free from
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
 
+[^113]: "Metre, Vasantatilakâ."
 
 **L. 3. क्षितिपालरत्नजलधिः श्रीराजहन्सीसरः। सद्वीरव्रततीर्थमर्थिकुमुदप्रज्ञादनेन्दुर्हिष द्वंशभ्रंशदवानलो विजयतां छिन्दक्षितीशान्वयः॥ [\[३॥\]][^119]उत्पत्तिरस्य हि पुरा च्यवनान्महर्षेर्व्वग्क्तत्यलीककलिते त्रिदशाधिनाथे।**
 
@@ -3365,6 +3165,10 @@ L.7. तासु।**
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
 **यः सेबागतराजचक्रमुकुटोदृष्टांघ्रिपीठस्थलो भर्त्ता यश्चतुरम्वुराशिरशनालंकारवत्या भुवः।**
 
 **विक्षेपैरपि यस्य तै रघुपतेराशोषिताः सिन्धवो यस्तस्यापि महाकुला -**
@@ -3385,6 +3189,10 @@ L.7. तासु।**
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
 **ल\[ व्ध्व\]ा ततः स विपुलामपि राजलक्ष्मीं भक्तिं परामकृत देवगुरुद्विजेषु।**
 
 **L. 10. प्रीत्यै सुहृत्प्रणयिवन्धुजनेजनिष्ट दुष्टत्तयादतनुतातिमुदं प्रजासु॥ [\[१२॥\]][^463]**
@@ -3397,9 +3205,11 @@ L.7. तासु।**
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
 **तस्यां श्रीलल्लनामाजनि जनितमहामण्डलाधीशशङ्कः शूरः कुन्दे -**
-
-
 
 **L. 11.         न्दुदत्तव्युतितुलितगुणालंकृताशामुखत्रीः ।**
 
@@ -3463,8 +3273,6 @@ L. 17. गोरथेनेव येन मार्गोपदेशिन�
       तस्याभवत्प्रणयिनी मधुसूदनस्य लक्ष्मीरिवामलकुलाम्बुनिधेः प्रसूता**
 
 [^473]: "etre, Anushtubh."
-
-
 
 **      सर्व्वावरोधनवधूमुखपद्मषण्ड मालेयष्टिरपराभिषयापि लक्ष्मीः ॥\[[२३॥\]][^474]  
       भक्त्वा च या विनयनमुर्तया  
@@ -3538,8 +3346,6 @@ L. 24.**
 
 [^485]: " Metre, Vasantatileks."
 
-
-
 **L. 26.  विष्णुहरी स्तनयेन च लिखिता गौडन करणिकेणेषा ।  
        कुटिलाक्षराणि विदुषा तक्षादित्याभाधानेन\[[३६\]][^486]  
        कृत्यकृत्यागतेनापि कामदेवसुतेन च ।  
@@ -3572,8 +3378,6 @@ L. 24.**
 
  5. In this race which possesses brilliant fame (comparable to the white flowers of the) Kandala, was born'a crest-jewel of warriors, famous on earth under the appellation the illustrious Vairavarman' in whose house the clever goddess of Fortune took
 
-
-
 up her abode, foreseeing, as it were, (that it would be) the birth-place of high-minded future lords of the earth;
 
  6. Who (Vairavarman), being liberal, pious, energetic, fond of truth, famous, a follower of the path of the virtuous, pure, of firm intellect, exalted through (proper) pride[^492], politic, the abode of valour, munificence and discernment, an. associate of the virtuous, (and) endowed with all wirtues, bocame worshipful for great men.
@@ -3596,11 +3400,9 @@ up her abode, foreseeing, as it were, (that it would be) the birth-place of high
 
 [^495]: "Dhavala, resplendent (with fame
 
- 12. Though he gained thereby great royal fortuno, he showed the highest devotion to gods, Gurus and Brâhmans; he was born for the joy of his friends, intimates and kinsmen; he spread delight among his subjects by destroying the wicked.
-
 [^496]: "One would have expected chakraḥ. But the actual reading may be defended on the supposition that the compound is an aryayîbhâva modifying âvabhára. It would seem that Malhaṇa had to fight for the succession or possibly took the chiefship by force from his brother."
 
-
+ 12. Though he gained thereby great royal fortuno, he showed the highest devotion to gods, Gurus and Brâhmans; he was born for the joy of his friends, intimates and kinsmen; he spread delight among his subjects by destroying the wicked.
 
   13. But his wife, sprung from the royal race of Chulukiśvara, lovely through the ornament of shining qualities, celebrated in the world as Anahila,[^497] was (as) thenew moon to the lotus faces of the whole harem of her husband.
 
@@ -3629,8 +3431,6 @@ up her abode, foreseeing, as it were, (that it would be) the birth-place of high
  21. He presented to the Brahmans, by grants, sacred villages which are inhabited by very wealthy people, on whose fields corn is plentiful, which are pleasant through neighbouring groves of excellent trees, and arc situated on the banks of pure rivers.
 
  22. The pleasant, holy river Katha was conducted by him, who showed it the way to his town, just as Gangâ (*was brought down from heaven*) by Bhagîratha.
-
-
 
  23. His wife became she, who is born from a pure ocean-like family (*and therefore*) resembles Lakshmi, the wife of Madhusûdana rising from the pure ocean, her ancestral home, she who is a snow-shower to the lotus-thicket of the faces of all the (*other*) ladies of (*her husband's*) harem,[^501]and who éven according to her appellation is a second Lakshmi.
 
@@ -3664,8 +3464,6 @@ up her abode, foreseeing, as it were, (that it would be) the birth-place of high
 
  35. This perspicuous and simple wreath of verses of his, which is the cause of exceedingly great joy, which possesses true poetical ornaments and is lovely through the
 
-
-
 description of the pure virtues of illustrious Lallah, glitters in the hearts of the learnedlike a string of pearls.[^504]
 
  36. And this (*eulogy*) has been written by the son of Vishnuhari, a Gauḍa clerk[^505] and 'a Government office. The latter meaning may be gathered from Hemathaudra's commentary on his Yogasdatra, III; 127 : यथोचितं स्थानम् । यथोचितमिति । यदा राजा तदा धवलगृह यदामात्यस्तदा करणं यदा बधिगादिरापणमिति ।"),called Takshaditya, who knows grooked letters.
@@ -3698,8 +3496,6 @@ description of the pure virtues of illustrious Lallah, glitters in the hearts of
 
 [^511]: "•According to Professor Bühler (Ind. Ant., vol. XV, p. 337, note 10, and vol. XVII, p. 197, note 50
 
-
-
 **TEXT.**
 
 **PLATE I.**
@@ -3729,8 +3525,6 @@ description of the pure virtues of illustrious Lallah, glitters in the hearts of
 [^514]: "Read ● सुख"
 
 [^515]: "Road ● शाभिमान.."
-
-
 
 \[18.\] स्थातपौरुषास्त्रकौशलातिशयगणतिर्थाविपचचितिपतिलश्रीस्वयंग्राइप्रकाशितप्रवीरपुरुषप्रथ-मसंख्याधिगमः परममाहेश्वरः श्रीखरण -  
  \[19.\] हस्तस्य तमयः तत्पादानुगतः सकलविद्याधिगमविहितनिखिलविइज्जनमन परितोषा-तिशयः सुत्यसपदां[^516] त्यागौदार्येण च विगतानुस
@@ -3768,8 +3562,6 @@ description of the pure virtues of illustrious Lallah, glitters in the hearts of
 
 [^521]: "Read प्रथमो"
 
-
-
 \[35.\] शसा[^522] वलयेन मण्डितककुभा नभसि यामिनीपतेर्विडब्बिताखण्डपरिवेषमण्डलस्य पयोद- भ्यामशिखरचूचुकरुचिरसयविन्ध्यस्तनयु-
 
 [^522]: " Read यशस."
@@ -3784,9 +3576,9 @@ description of the pure virtues of illustrious Lallah, glitters in the hearts of
 
 [^524]: " Read ● शिलौ.."
 
-\[39\] वणः पुणः पुनरुक्रेनेव रवालङ्कारेणालतोत्रः परिस्फुरत्कटकविकटकीटपञ्चरत्नकिरण- भविछिनप्रदानसलिलनि- .
-
 [^525]: "Read पुनःः. "
+
+\[39\] वणः पुणः पुनरुक्रेनेव रवालङ्कारेणालतोत्रः परिस्फुरत्कटकविकटकीटपञ्चरत्नकिरण- भविछिनप्रदानसलिलनि- .
 
 \[.40.\] वहावंसेकविलसन्नवशैवलाङ्गरमिवाग्रपाणिमुद्दहन् धृतविशालरजवलंयजलधिवेलांतटायमा- नभुजपरिष्वक्तविश्व.-
 
@@ -3812,8 +3604,6 @@ description of the pure virtues of illustrious Lallah, glitters in the hearts of
 
 \[50.\] लिखितमिदं संन्धिविग्रहाधिकर्तादिविरपतिवीस्कन्दभटपुत्रदिविरपतिश्रीमदनहिलेनेति ॥सं ३००३०४ माघ शु ८ खहस्तो मम ॥
 
-
-
 **VALABHI GRANT OF DHRUVASENA III.**
 
 **TRANSLATION.**
@@ -3826,15 +3616,13 @@ description of the pure virtues of illustrious Lallah, glitters in the hearts of
 
 [^529]: " On these technical meanings of maula, bhrita and freni, see the Hon V. N. Mandlik's note, Journal of the Bombay Branch of the Royal Asiatic Society, vol. XI, p. 346."
 
- (L. 7.) His son was the devout worshipper of Maheśvara, the illustrious Dharasena, all whose sins were washed away by the flood of the waters of the Gangâ, which flowed from the cluster of rays, (*that issued from*) the toe-nails of (*his father*); whose wealth was lived upon by hundreds of thousands of loving (*vervants*); whom attractive virtues[^531] approached impetuously, as if it were out of a desire for his beauty; who astonished all archers by his natural ability and excellent training; who preserved the meritorious gifts made by former princes; who drove away the plagues which oppressed his subjects; who demonstrated (*the possibility of*) the co-existence in one person of prosperity and wisdom; whose valour knew how to enjoy the prosperity of the party of his united enemies; and who obtained pure royal splendour by his valour.
-
 [^530]: "The last sentence might also mean: "
+
+ (L. 7.) His son was the devout worshipper of Maheśvara, the illustrious Dharasena, all whose sins were washed away by the flood of the waters of the Gangâ, which flowed from the cluster of rays, (*that issued from*) the toe-nails of (*his father*); whose wealth was lived upon by hundreds of thousands of loving (*vervants*); whom attractive virtues[^531] approached impetuously, as if it were out of a desire for his beauty; who astonished all archers by his natural ability and excellent training; who preserved the meritorious gifts made by former princes; who drove away the plagues which oppressed his subjects; who demonstrated (*the possibility of*) the co-existence in one person of prosperity and wisdom; whose valour knew how to enjoy the prosperity of the party of his united enemies; and who obtained pure royal splendour by his valour.
 
 [^531]: "On the abhigamika gundh see Jour. Bombay Br.R.As.SOC.VOI.xi,p.348"
 
  (L. 10.) His son was the devout worshipper of Maheśvara, the illustrious Śîlâditya, who meditated at the feet of (*his fathe*r); who covered the whole horizon with the multitude of his wonderful virtues, which made the whole world rejoice; who carried a heavy burden of serious projects on the pedestal of his shoulders, the splendour of
-
-
 
 which was increased by the flashing of his sword, that possessed the lustre of victory in hundreds of battles; who was easily pleased by everybody even through a trifling bon mot, although his mind was refined by the study of the higher and lower branches of all sciences; whose noble 'nature was well shown by his extremely virtuous conduct, although the profundity of his heart was unfathomable by the whole world who acquired great fame by purifying the deserted path of the princes of the *Kṛita-yuga*; and whose second name Dharmaditya arose from (*the fact that*) his enjoyment of an abundance of wealth and pleasure was made still more resplendent by his never obstructing the law (*dharma*).
 
@@ -3845,8 +3633,6 @@ which was increased by the flashing of his sword, that possessed the lustre of v
 [^532]: "The author seems to have formed pratyala from the root al, which the compilers of the Dhâtupatha had invented in order to explain the derivation of alam."
 
  (L. 22.) His younger brother was the devout worshipper of Maheśvara, the illustrious Dhruvasena, who meditated at the feet of (*his elder brother*); who surpassed all former princes by his good deeds;, who, like an incarnation of manliness, conquered even such countries as were difficult to be conquered; who, like Manu himself, was resorted to by subjects, whose minds were full of affection on account of his high virtues; who, (*like*) the moon, possessed all arts (*or digits*), was full of splendour and caused delight, (*bul*) who was free from sins (*or spots*); who, (*like*) the sun, destroyed the
-
-
 
 dense darkness in (*all*) quarters, which were covered by his great splendour, (but) who was rising continually; who was versed in both the sciences of government and of Salaturiya (*i.e., of Panini*), as he inspired in his subjects perfect trust, which was useful, connected.with various purposes and full of profit, as he knew how to decide about peace, war and encampment, as he gave the correct order in the proper place, and as he caused good people to thrive by making virtue prosper[^533], significant (Papini, I, 2, 45), (joined with) indicatory letters for various purposes and completed by an augment, as he knew the truth about euphonic rules, analysis and composition, as he put the correct substitute in the place (of another), and as he caused the formation of correct (words) by the performance of guna and vriddhi."); who, though very brave, had a merciful heart; who, though learned, was free from pride; who, though bandsome, was full of calmness; who, though constant in friendship, cast out the sinful; and whose famous second name Bâláditya (*i.e., the morning-sun*) was made.true to its meaning (*by the fact that*) the world was pervaded by the affection (*or redness*) of men, which was produced at his rise.
 
@@ -3860,8 +3646,6 @@ dense darkness in (*all*) quarters, which were covered by his great splendour, (
 
  (L. 36.) IIis son is the devout worshipper of Maheśvara, the illustrious Dhruvasena, who has wooed the loving assembly of princes, which wore bright fame as a white garment, and which handed to him the splendour of royalty as the garland at a "self-choice" (*svayamvara*); who, in autumn, depending on his valour, which was as irresistible as his sword, that had subdued the territories of fierce enemies, has lawfully taken the hand of (*or levied taxes from*) foreign countries, which were conquered by the
 
-
-
 bow (*of Cupid or of the king*), on which the arrow had been forcibly pulled back; whose ears are again ornamented with jewels, which seem superfluous, as his ears have been already adorned with extensiye sacred knowledge of various kinds (*or colours*); the tip of whose hand (*is resplendent*) with the rays of the jewels, which cover his gleaming bracelet, and resembles a fresh sprout of (*the aquatic plant*) *śaivala*, as it glitters with the masses of water, which he is continually sprinkling at donations[^535]; and who has embraced the earth with his arm, which resembles the coast of the ocean, that wears an armlet of large pearls.
 
 [^535]: "The second meaning of this passage is as follows: "
@@ -3874,14 +3658,11 @@ bow (*of Cupid or of the king*), on which the arrow had been forcibly pulled bac
 
  (L. 49.) The messenger for this (*grant was*) the pramâțri Śri-Nâga. This was written by the Chief Secretary Srimad-Anahila, the son of the Chief Secretary Sri- Skandabhaṭa, who was charged with peace and war. Sam\[vat\] 334, on the 9th of the bright half of Mâgha. (*This is*) my own handwriting.
 
-
-
 **XIV. - INSCRIPTION IN THE DEHLL MUSEUM.**
 
 **Br Pror. J. EGGELING, Ph. D., EDINBURGE.**
 
  The inscription, of which the following transcript and translation has been prepared,is now in the Dehli Museum, and is said to have been found in a well at Sarban, aboutive miles to the. south of Dehli, — the Süravala or Strabala of the inscription. It is on & rectangular black slab measuring 17 inches by 11, of which the inscription covers 15t by 10t inchtes. It consists of 18 verses written in 18 lines — the last containing only 6 aksharns of the date, and is in almost perfect preservation; the letters well formed. It belongs to the time of the Saltan Muhammad bin Tughlaq ( A. H. 725 – 752 ) and is dated V. Samvat 1384, Phâlgun Su. di. 5th, Tuesday, which, if intended for the current year, would fall in February 1328 A.D., and records the construction of a well at the village of Saravala by two brothors-Khetala and Paitala. The date is first given as reckoned by the Vedas (4), Vasus (8), Agni (3), Chandra (1), and then in figures-1384.
-
 
 **1..¹ स्वस्ति ॥ सर्वाभीष्टफलं यस्य पदाराधनतत्पराः।  
 लक्ष्मीधरस्तत्तनयोगणाधिपतये नमः॥१॥**
@@ -3914,8 +3695,6 @@ bow (*of Cupid or of the king*), on which the arrow had been forcibly pulled bac
 देवद्विजगुरूणां यः सदाराधनतत्परः॥१०॥**
 
 **श्रीधरस्यात्मजा वीरोनाओं (? वोराअन्नी)भर्तृप¹²रायणां।**
-
-
 
 **घीका विवाहयामास तस्यामास्तामुभौ सुतौ॥ ११॥**
 
@@ -3968,8 +3747,6 @@ day : at present Prince Śri Mahammad Śahi[^540]rules over it.
 
   8. His son was Lakshmidhara, the bee of the lotus-pair of (Vishnu) Lakshmi-dhara's feet, whose mind was ever bent on the propitiation of the gods and Brâhmans,and who obtained fame by his kindness to all beings.
 
-
-
    9. Lakshmidhara had two sons, who were strangers to the Kaliyug (time of strife and sin); both of them oceans of greatness, and of goodly form. The first of them was Mâha (or Mâhâ) by name, of subtile mind; and his younger brother named Ghikâ,of highest renown.
 
  10. Maha had a charming son, named Melha, who was ever bent on propitiating the gods, Brâhmans and Gurus.
@@ -4002,8 +3779,6 @@ YAJÑASRÎ GAUTAMIPUTRA,**
 **BY G. BÜHLER, Ph.D., LL.D., C.I.E.**
 
  The subjoined inscription is incised on a stone, which was originally found on the sea-shore south of the Krishnâ river close to the village of China in the Kistnâ district, and is now deposited in the Madras Museum. I edit it according to two rubbings, made over to me by Dr. Burgess. It contains six unequal lines, all of which are mutilated, the lower ones more than the upper ones. The characters are of the ordinary Audhra type, but rather ornamental.
-
-
 
  The purpose of the document is not quite certain. If the syllables *dháya* at thebeginning of 1.6 are the remnant of *Budháya*, it may have been the record of some Buddhistic donation or dedication. The chief points of interest which it offers are the date and the expression*vasasatâya* preceding the latter. As regards the date, it is the twenty-seventh year of king Gotamiputa Siriyaña Sâtakani, i.e., Gautami putra Yajñaśrî Sâtakarni, who, as the *Váyu* and Matsya Puráṇas assert, ruled twenty-nine years.[^548] The close agreement of the figures is very remarkable, and it would seem that the Paurânic statement is really true.[^549] As we have here quite distinctly *vasa-satáya*, it becomes advirable to give up the attempt at reading the corresponding expression in Dr. BurgessBanavâsi inscription *visasatâya*[^550]and the explanation proposed there. At the same time it seems even less possible than formerly to accept Dr. Bhagvânlal Indraji's interpretation, who takes it to be equivalent to *varshakatyám*, " in the century of years." I still believe that it has the same import as the phrases *pravardhamánavijáyarájya* and the like, which occur so often in Sanskrit inscriptions before regnal dates[^551],and I am inclined to fall back on the translation *vaśasattâyđḥ*, which I proposed-*loc. cit* note 5.
 
@@ -4038,8 +3813,6 @@ YAJÑASRÎ GAUTAMIPUTRA,**
 
 [^556]: "महतरक is probably a title and the same as the Sanskrit महत्तर ."
 
-
-
 **XVI.-THE TWO PRASASTIS OF BAIJNATH,**
 
 **By G. BÜHLER, Ph.D., LL.D., C.I.E.**
@@ -4053,8 +3826,6 @@ YAJÑASRÎ GAUTAMIPUTRA,**
 ----------------------------------------
 
 **1**In his Archæol. Survey Reports, vol. V, pl, xliv, General Sir A. Cunningham has given a plan and elevation of this templo, drawn by himself, which are not correct, especially in the details most essential for estimating its age; the height of the spire abose the eaves of the mandapa is dwarfed from 21' 5" to 15'; the small representations of Sikharas on the walls are neither of the modern form nor all in the positions represented; and the middle facet of the spire is elaborately carved with horse-shoe' or shell diaper carving, similar to that on the ruined temple of Jamadagni in the court of the temple of Vaidyanatha. The only way one can account for the inaccuracios of this elevation is to suppose that after measuring for the plan, a rough sketch was made of the north side, with the height of the walls measured, and the details left out, or only roughly marked as reproduced in the plate. Mr. Fergusson finds serious fault with this drawing (Ind. & East. Archit., p. 315n.), but mistakes the small templo of Jamadagui in his engraving (p. 316) for this temple of Siddhanâtha or Siddheśvara. The style is quite the same and they belong to the same age.
-
-
 
 might be disposed to assign the general structure to a somewhat later date. Tradition says it is the *seventh* restoration; and it seems not improbable that, when Maḥmad of Ghazni invested Nagarkot or Kângrakot in 1008, his troops may have wrecked the Vaidyanatha temple also, and that it was, soon after, rebuilt with such important parts of the old materials as the two *praśasti* slabs and the columns. The inscriptions are on two stone tablets at the ends of the front cross aisle of the maṇḍapa,-No. I, in the south wall, measures 2′ 3″ by 2' 4"; and No. II, in the north, measures 2′ 3″ by 2′ 5".
 
@@ -4070,13 +3841,9 @@ might be disposed to assign the general structure to a somewhat later date. Trad
 
  The technical execution is in general very good. The characters belong to the Śâradâ alphabet, a branch of the *Bráhmî lipi*, which has been used for many centuries in the extreme porth-west of India. Though our inscriptions differ in numerous
 
-
-
 details from the modern Sâradâ of Kaśmir, the type is unmistakcable.This circumstance makes the documents very interesting for the student of palæeography. They are the oldest specimens of Sarada writing, considerably more ancient than Dr. Leitner's inscription from the reign of "king" Diddâ in the Lahore Museum and even anterior to the coins of, Avantivarman of Kaśmir. Morcover they show pretty clearly the gradual development of the Sarada. The initial yowels a, á, o, and the consonants ka, ja, bha, ya, ra, va, still agree with the forms of the Horiuzi and Nepal palm leaves, and differ from the modern Kaśmîrian. The initial e, ta, na, na, pa and ba present transitional forms, while pha is still more. Archaic than in the Bráhmílipi. The remaining single letters and a number of groups are the same as in the Sâradâ alphabet. Among them the single consonants khu, gha, cha, da, tha, da,dha, and la, the medial ri, the Jihvámuliya, the Upadhmániya, the groups jñá and those beginning with ua and ra, arc peculiarly characteristic of the Sârada. In other cases, e.g., in those of the medial e, ai and o, and of the subscribed ba, we find considerable vacillations. The medial e is mostly represented by a thick horizontal or slightly slanting stroke as in the Sârada. Occasionally, however, the ancient prishṭhamátrá is used. Similarly the medial ai is mostly expressed by two horizontal lines, more rarely by a prishṭhamátrá and one horizontal line. Again, the medial o shows in the great majority of cases the peculiar wavy line of the Sâradâ alphabet, which resembles. a Greek circumflex. But a few instances occur where. it is expressed by c, either superscribed or a prishṭhamátrá plus á. As regards the subscribed ba, it shows either the peculiar form of the single ba, which resembles a modern SaradA va, or more rarely is hardly distinguishable from va. But in one case, chumbitáḥ, Nỏ. II, 1. 3, it is exactly like the modern Śârada ba. It would lead me too far if I were here to enter on a more detailed discussion of the alphabet of these inscriptions. But the points which have been noticed will suffice to show that it possesses great interest and well deserves a separate full treatment in connexion with the characters on the Kaśmirian coins, the inscription from the reign of Didda and the Champâ grant, published by Dr. Kielhorn in the Indian Antiquary, vol. XVII, p. 7. The language of the inscription is pure and good Sanskrit, full of very rare words, which furnish some valuable contributions for the dictionary. The spelling shows very few and slight mistakes. It closely resembles that of the Kaśmirian MSS. by the constant use of the Jihvâmúlíya and of the Upadhmániya, instead of the Visarga before ka, and pa, as well as by the assimilation of the nasals to the following consonants in compound words. The spelling prakriptávanam for prakliptávauam, No. II, verso 15, too, deserves attention.
 
  No. I consists of two distinctly separate parts, a hymn addressed to Siva and Pârvatî, which, with its nineteen verses, fills lines 1-16. Then follows a new Mangala, contained in a single verse, and then only the real Prasasti which gives (1) an account of Lakshmaṇachandra the lord of Kiragrâmą; (2) an account of Manyuka and Ahuka, the founders of the temple, which is also briefly described; (3) a notice of various donations made by certain other persons to the templo; (1) a notice of the masons or architects who erected the building; (5) a notice of the poet who wrote the Prasasti; (6) the datc, together with a mention of the overlord, the king to whom Lakshmanachandra owed allegiance. No. II is of one piece. It contains (1) a Mangala of five verses; (2) a mention of the king of Jalandhara, of the two founders of the temple, of Kiragrâma and its lord; (3) a detailed genealogy of the latter; (4) a fuller account of Manyuka
-
-
 
 and Âhuka describing their piety and the cause which led to the erection of the temple, and naming their ancestors; (5) an account of various donations made by the founders, by Lakshmaṇachandra and by his mother, together with the usual blessing on those who uphold the grants and curses against those who scize them; (6) an account of the author of the Prasasti; (7) a notico, it would seem, of an additional donation, in prose; (8) the date. The fact that two Prakastis by the same author are found in one temple is unusual. It may be explained by the supposition that the various donations were not made at the same time. The first Prasasti, it would seem, was composed immediately after the temple had been built and the three grants, mentioned in it, had been made. Later, the lord of the village and his mother made also donations. This seems to have rekindled the zcal of the founders. They not only responded to the liberality of their masters by making some further endowments for the temple, but they also had again recourse to the skill of their poct, who now devoted still more verses to the chieftains of Kîragrâma than on the first occasion, and, of course, also duly sang the praises of the picty and liberality of his employers. This explanation is, I think, supported by some hints contained in the inscriptions. The composition of the Prasasti, which I have called No. I in accordance with Sir A. Cunningham's opinion, must be certainly assigned to the time immediately after the completion of the building, because it gives some details regarding the appearance of the latter, because it names the architects who constructed it, and because it begins with the hymn addressed to Siva and his spouse. It was a natural idea to compose such a poem on the consecration of the new temple. Later, it would have been of less significance. These considerations, it seems to me, definitively settle the chronological order of the two poems.
 
@@ -4087,8 +3854,6 @@ and Âhuka describing their piety and the cause which led to the erection of the
 [^561]: "This is a very common appellation of Siva, and many Vaidyanathas are found in the most different parts of India."
 
 [^562]: "Compare also the description of the temple in J. Fergusson's History of Indian Architecture, pp. 315-18, and wood-cut, No. 178."
-
-
 
 of the building. The Brâhman Ralhaṇa, an astrologer of Susarmapura[^563], son of Âsuka,gave two *droņas* of grain "from Navagrâma" (I, 31, 32), *i.e*., the right to that amount which had to be delivered annually by the donor's serfs or cultivators in Navagrâma.Another Brahman, Gaṇeśvara, son of Govinda and inhabitant of Kîragrâma, made a donation of half a plough of land in Navagrâmæ, where he possessed a field which required four *droṇas* of seed-corn (I, 33). A rich merchant, Jivaka, son of Depika,and Malhikâ, presented his land in Kiragrama for the court-yard of the temple (I, 34).Later,the local chieftain Lakshmanachandra and his mother Lakshanikà added some further endowments. The former granted daily two drammas out of the income of the *mandapiká, i.e.,* the custom-House where the transit, import and export duties were levied (II, 30), and the latter, one plough of land, situated in the village of Pralamba.Thereupon the founders of the temple likewise showed their liberality. They gave an oil-min which they possessed in Kiragrâma, in order to provide lamps for the temple (11,33), a shop and a piece of good land, measuring four ploughs, for the *bhoga*, the maintenance, of the god (II, 34).
 
@@ -4101,8 +3866,6 @@ of the building. The Brâhman Ralhaṇa, an astrologer of Susarmapura[^563], son
  Kanda is twice, called. (II, 11, 20) emphatically the founder of the family. The former verse says of him, that he was the root (*kanda*) of an incomparable family (*kula*) which resembles à Bakula trec, and the latter speaks of the servants of the lotus-feet of the kings of Trigarta, the first of whom was Kanda. As his eighth lineal descendant ruled about 800 A.D., he must have lived in the end of the sixth century of our era, or in the beginning of the seventh. Neither he himself nor any of his successors seems to have performed great deeds. The descriptions are purely conventional. Only with respect, to Dombaka it is hinted that he formed alliances with other kings, and regarding Bilhaṇa we learn that he married the daughter of his liege-lord Hridayachandra. The latter point is of some importance, as it shows that the Râjânakas[^564]of
 
 [^564]: "The title rájánaka, literally kinglet,' is chiefly known from Kasmirian sources. The Rajatarangini, VI, 261, mentions that Didda bestowed it on Naraváhana, one of her generals. Later it has been given to various Kasmirian Brahmans,some of whose descendants still bear it."
-
-
 
 Kiragrâma were noble Rajputs, and, though only feudal barons, stood high enough in the estimation of the world to be thought worthy of an alliance with the royal house of Jalandhara-Trigarta. It shows, further, that they probably possessed a larger territory than a single village or small town. This view may be supported by the somewhat indefinite statements in I, 27, and II, 20-21, where the country (*deśa)* of Laksh-maṇachandra is mentioned and the assertion is made that he enjoyed the whole territory (*bhúmi*) which his ancestors had held. Rinally Bilhana's marriage proves that the Râjânakas of Kîragrâma did not belong, as Sir A. Cunningham conjectures, loc. cit.,to a branch line of the dynasty of Trigarta; for among-Kshatriyas exogamy is obligatory in accordance with the sacred law, and marriages between members of the same family or clan are against the generally prevailing custom.
 
@@ -4121,8 +3884,6 @@ pramátr[^568]iwas. The etymological import of the word leads one to suspect tha
 
 [^568]: "The word occurs also in a Valabhî inscription, Indian Antiquary, vol. VII, p. 76. But its meaning is there probably different, because it stands before a female name."
 
-
-
 youth. Judged by the Hindu standard, he was a great poet, and no European even will dispute his great ability and learning. The fourteen verses, 2-17, of his stotra, which each are applicable both to Śiva and to Gauri, and the puzzling stanza,3, which describes the eight forms of Śiva in four accessory sentences, the frequent change of the metres, and the various *alamkáras*, found in both Prasastis, prove his great skill in versification and his mastery over the language. Numerous rare words and forms and the general correctness of his language prove that he had deeply studied grammar and knew the *Koshas* well.
 
  The most difficult point in the inscription is that whith still remains undiscussed-the date. The last verse of No. I
@@ -4135,8 +3896,6 @@ mentions the year 80 of an unspecified era and the *pratipat* or first day of th
 [^569]: "See abovo, p. 98."
 
 [^570]: "See my Kashmir Report, p. 59, and Sir A. Cunningham's Book of Indian Eras, p. 6H"
-
-
 
 ally alter our opinion regarding the age of the inscription. For Praśasti No. II was clearly incised after Saka Samvat 700 and before Saka Samvat 800, because the first of its three figures is 7.
 
@@ -4190,8 +3949,6 @@ L. 7. -       सत्यं भवानीशरणाभिलाविद�
            मुहम्समुद्रासिन एव यु\[ह\]को \[ड\]ानिकत्तासुरस\[र्म\]प\[स्थ\]।**
 
 [^578]: "Metre, Vansustha. 24The anusvara of speyushdhis not distinct."
-
-
 
 **-------------------------\[\]दवाद\[ीमतो दिने दिने ।**
 
@@ -4251,8 +4008,6 @@ L. 16.  परमकारुणिक ॥ \[१८\]
 [^587]: "Metre, Anushtubb."
 
 [^588]: "Metre of verses 18-19, Arya."
-
-
 
 **L. 17.       अस्ति शोतलगभस्तिशेखर त्वग्रमस्तिकरणेऽकुतोईता ।  
            किन्तु पावर्कमयाच तावकी भक्तिरेव जडतां भवति नः ॥ [\[२०\]][^589]**
@@ -4323,8 +4078,6 @@ L. 16.  परमकारुणिक ॥ \[१८\]
 
 [^597]: "Metic. Upajati. Druvate is a conjecture and unoertain."
 
-
-
 **L. 26.                  नि वणिजो मस्या बराक x क ते ।**
 
 **       धन्यो मयुकनामधेय द्वि श्रीकण्ठरज्यान ५ः  
@@ -4380,8 +4133,6 @@ L. 35.     \[शककालगताब्दाः[\]
 
 [^606]: "See the introduction, above, p. 103."
 
-
-
 **TRANSLATION.**
 
    Om, hail ! Om, obeisance to the two rulers of the Gaņas[^607]
@@ -4413,9 +4164,7 @@ L. 35.     \[शककालगताब्दाः[\]
 
 [^611]: "Separate with the first translation, yasya ahimâlayd utkarshaposhiņí tasyâ namanti. yasya himalayotkarshaposhini....tasya dhamanti:"
 
-
 [^612]: "Separate with the first translation, ugra vadhún kleś&pahariti manoharábbih with the second ugravadhúk klesûpahû rítimanoharabhih. As Abhirama is a name of Biva, see Goldstücker, Sanskrit Dictionary, aub voco. I take the compound bhaktibharabhiramain in the first translation to mean bhaktibharah abhirdme yeshim taip. In the second I have rendered its usual sense, bhaktibharendbhirdmaih. But I should not wonder if Abhirama were a name of Parvati and the real sense were "
-
 
   6*a*. Thou, Ọ Îía, art able, indeed, to fulfil the wish of men who, approaching the hour of death, do not care for the towns of the gods, (*but*) désire (*èternal*) bliss.
 
@@ -4453,9 +4202,7 @@ L. 35.     \[शककालगताब्दाः[\]
 
  12 *a.* Obeisance to Sivà the dust of whose holy feet must be worshipped by poets; to thee, O thou who art known as the great Power (able) to destroy her trembling foes.[^618]
 
-
 [^618]: "Separate with the first translation, sivâya ekavinantavyaº, with the second Sivayai kavinantavyaᵒ."
-
 
   13*a*. Thou art in these three worlds the supreme deity of the heroes who employ themselves in dangerous (*undertakings and*) whose looks flash on the quivering bow.
 
@@ -4505,8 +4252,6 @@ L. 35.     \[शककालगताब्दाः[\]
 
  24. At present rulers, whose commands are disregarded by their opponents-
 
-
-
 because they deem them to be of shall prowess- think the sovereignty over a town to yield its legitimate result only by the rape of the wives of the inhabitants.
 
  25. Fresh youth, beautiful shape, liberality, sovereignty over a town, many flatterers (*all these are his*); 'if nevertheless his heart avoids the wives of others, what austerity is difficult to perform after that?
@@ -4543,8 +4288,6 @@ others.
 [^627]: "This must be the name of some writer on architecture."
 
  38. The prince of poets, called Râma, whose holy parents are Śringârâ and Bhṛingaka, has composed this eulogy.
-
-
 
 **  **39. The eulogy, composed by Rama (*has been inoised*[^628] the translation would be in the eightieth year known (in the world)' i. e., 'in the eightieth Laukika Sari-vatsara'."))in the eightieth year (*of the Lokakála*) on the pleasant first day of the bright half of the month of Jyaishtha, a Sunday, during the reign of king Jayachchandra.
 
@@ -4599,8 +4342,6 @@ L.9
 
 [^633]: " Metre of verses 5-7, Arya."
 
-
-
 **L. 10.                      समाखादितम्सार्थम् ॥ [\[९\]][^635]  
         शैलस्याङचलित्वा रुचिरनववया X खेलतीयं सहेलं  
         कुष्पा कन्येव यत्न स्फुरदुरलहरी कन्दुकाबिन्दुकाख्या ।  
@@ -4654,8 +4395,6 @@ L. 18.      बलोलयो बिल्हणनामधेयस्तस�
 [^641]: " Motre, Apuruvuktra. The Anusvāra of dhirohanath is indistinct."
 
 [^642]: "Metre Upajati. Tho ma of námadheya looks like sa."
-
-
 
 **L. 19.             शिकायां सुतौ लेभे ॥ \[[१८\]][^643]  
         ज्येष्ठ गुणेर्गरिष्ठे बिम्बोष्ठी भिस्समं व्यपुरि गोष्ठीम् ।  
@@ -4714,8 +4453,6 @@ L. 28.                   मात्रा राजानकस्य लक�
 
 [^643]: "Metre, Arya."
 
-
-
 **L. 29.समुपयात विष्ठद्वि यो हरिष्यति स गच्छृत चाधः ॥ [\[३२॥\]][^651]  
 तैलोत्पीडनयन्तं कीरग्रामेस्ति मन्युकाकयीः ।  
 ताभ्यां तदपि शिवाय  
@@ -4753,8 +4490,6 @@ Om hail ! Obeisance to Sarva !
 
  4..Just. this has formerly agreed to become an arrow in order to burn the towns (of the demon), and this body of his even that has now attained the beauty of a
 
-
-
 bow"— (*reflecting*) thus repeatedly, we worship in astonishment the two feet of the conqueror of Cupid, resplendent with ashes, which *(feet*) mock, as it were, the prostrate foe of the gods.[^655] destroyed the town of the demon, Tripurâri. This is usually represented as bow-shaped, i.e., with corners on both sides standing in a vertical position. Regarding the feet which mock as it were the prostrate foc:' see the frontispiece to Moore's Hindu Pantheon. eye")
 
 [^655]: "The wording is rather obscure. By 'this' seems to be meant the third eye of Siva, the fire of which, the so called Sarâgni or arrow-fire (see Srîkanthacharita, I, 16; V, 18; XXIV, 7ff
@@ -4784,8 +4519,6 @@ bow"— (*reflecting*) thus repeatedly, we worship in astonishment the two feet 
  14. And that happy man obtained a son (*called*) Dombaka, who reflected his (*father's*) nature, who supported by the hand those falling from high placos, who worshipped Tryambaka, who kissed the Fortuna of his enemies, who was deeply engrossed with the care of catching (*those*) fish-his focs-who together with (*other*) princes took many villages, who was the head of a family of worthy relatives.
 
  15. IIe, too, obtained a son (*called*) Bhuvana, whose youth charmed women, who sanctified (*his race*) by ever-fresh streams (*of water, poured out*) on (t*he occasion of*) donations, who served his king and duly protected his country, who made the forest the home of his proud foes, whose lion-roar (*sounded*) dreadful in battle, and who offered great sacrifices to Sambhu.
-
-
 
   16. He begat a son (*named*) Kalhana, (who was) a mountain[^658]of precious stones-his virtues-(*and*) a boat on the deep ocean of misfortune, (*and*) who passed over the heads of brave warriors.
 
@@ -4823,9 +4556,7 @@ bow"— (*reflecting*) thus repeatedly, we worship in astonishment the two feet 
 
 [^661]: "The verse refers to the belief that a particularly pious deed ensures the joy of heaven to the performer as well as to ten ancestors and ten descendants. All the latter may reach this goal, but the donors themselves desire moksha."
 
-
 [^662]: "The European dictionaries do not give for mandapikd the meaning a custom-house.' But its existence is proved by various passages in the inscriptions, compare, e. g., the term maṁḍarika ante p. 7 and by the analogy of its modern represent. ative mandavi which is a common term for custom-house' in Marathi, Gujarati and other vernaculars."
-
 
   31. (*A piece of)* land to be cultivated by oné plough and belonging to the village named Pralamba has been granted to (*this*) Maheśa by Lakshaņâ, the mother of the Rajânaka.
 
@@ -4853,15 +4584,13 @@ bow"— (*reflecting*) thus repeatedly, we worship in astonishment the two feet 
 
  The donors probably were Gujarûtis, not Panjabis, and the consecrating Sûri likewise seems to have belonged to the same country. For Dolhaṇa and Alhaṇa were members of the Brahmakshatra gotra or caste, which is common in Gujarât, but according to the Census Report of 1881, not found in the Panjâb. Sûri Devabhadra is connected with Gujarât through his teacher Abhayadeva, who is called Rudrapalliya, the Rudrapallian, and is said to belong to the line of Sûri Jinavallabha. The latter is without
 
-
-
 a doubt the Jinavallabha, whom the Paṭṭávali of the Kharatara gachchha names as the 43rd *Yugapradhána*[^665].He died in Vikrama Samvat 1167, after founding a new school, which in our inscription is called his samtána or line. In the time of his immediate successor Jinadatta, the Rudrapalliya branch of the Kharatara gachchha was founded by Jinasekharâcharya in Vikrama Samvat 1204. It is, therefore,evident that the Devabhadra of our inscription was a feacher of the Svetâmbaras and an adherent of one of the subdivisions of the Kharatara gachchha, which latter according to all accounts, arose at Anhilvâd Pattan in Gujarât. The date Samvat, i.e. Vikrama Samvat 1296, Phâlguṇa, dark half 5, a Sunday, corresponds, according to Dr. Schram's calculations, to January 15, 1240 A.D. General Sir A. Cunningham, who discovered the document, has given a transcript of it in his Archeological Reports, (volume V, page 183) which, however, is imperfect, as the middle portions of both lines from na to garat and from ffs to art have been left out. This omission and some misreadings or misprints make a translation of his transcript impossible.[^666]
 
 [^665]: "See Klatt, Indian Antiquary, vol. XI, pp. 248 and 254."
 
-**TRANSCRIPT.**
-
 [^666]: "General Cunningham recognised that it could have no connexion with the history of the temple of Siva-Vaidyanatha."
+
+**TRANSCRIPT.**
 
   ओं संवत् १२८६ वर्षे फागुण वदि ५ रवौ कीरग्रामे ब्रह्मचवगोवोत्पत्रव्यव• मानूपुत्राभ्यां व्यदोल्हणाल्हणाभ्यां स्वकारितश्रीमन्महावीरदेवचैत्ये॥[^667]
 
@@ -4869,9 +4598,9 @@ a doubt the Jinavallabha, whom the Paṭṭávali of the Kharatara gachchha name
 
 [^667]: "प्रतिष्ठितं ओर्च चभ्रों the and य of कोरयामि cur are connected and form a misshaped group; read व्रह्म above श्व a mâtra out by mistake, has been obliterated; possibly the correct reading is मातृपुत्राभ्यां waarat, & and being absolutely undistinguish-able in the alphabet of the inscription."
 
-**TRANSLATION.**
-
 [^668]: "L. 2.-The □ of it has been destroyed; the ar of warſ has been damaged."
+
+**TRANSLATION.**
 
  Om! In the year 1296, the (*civi*l) year[^669] year,' because sometimes लौकिकबर्षे fa appears in its stead after dates of the Vikrapa era. The years of the Vikrama era are in Western and North-Western India the laukika,"), (*on the*) fifth (day of the) dark half (of the month of) Phâlguna[^670],on a Sunday,-the *millabimba[^671]*of the glorious Jina Mahâvîra has been erected for their own spiritual welfare by the two merchants, Dolhaņa and Âlhaṇa, the two sons of the merchant Mânû, sprung from the Brahmakshatra race, in the temple of the glorious deity Mahavira, erected by them at Kiragrâma. And it has been consecrated[^672] by the illustrious Sûri Devąbhadra, the pupil of the illustrious Sûri Abhayadeva, the Rudrapallîan, who belongs to the line of the illustrious Sûr-Jinavallabha.
 
@@ -4882,8 +4611,6 @@ a doubt the Jinavallabha, whom the Paṭṭávali of the Kharatara gachchha name
 [^671]: "I leave the expression मूलविवं af literally 'root-image' untranslated, because I am not certain about its technical meaning. I suspect that it means 'chief image' and is intended to distinguish this statue, which stood in the adytum, from the numerous smaller ones in the bhamti or the cloisters,"
 
 [^672]: "प्रतिष्ठितं चis bad Sanskrit, but common in Jaina books. The correct expression would be प्रतिष्ठा कृता च or प्रतिष्ठापितं च"
-
-
 
 **XVIII-ON THE PEDESTAL OF AN IMAGE OF PARSVANATHA, IN THE  
 KANGRA BAZAR.**
@@ -4923,8 +4650,6 @@ KANGRA BAZAR.**
 ----------------------------------------------  
 The terchha Ridicates that Abhayachandra belonged to the Svetâmbaras. I am, however, unable to find the Rajaku la in the Pattávalis accessible to me.
 
-
-
 **XIX.- INSCRIPTIONS FROM KHAJURAHO.**
 
 **BY PROFESSOR F. KIELHORN, PH. D., C.I.E., GÖTTINGEN.**
@@ -4945,12 +4670,9 @@ The terchha Ridicates that Abhayachandra belonged to the Svetâmbaras. I am, how
 
 [^679]: "An edition this inscription, which has been lately re-discovered by Dr. Burgess, will be given at page 162."
 
-
-
 of our inscription refers,------------------self, and that this prince first defeatedKshitipaladeva,but---------------------d him in the government of his dominions[^680] called it Chatarbhuja, but it is nois called Lakshmanji, and the temple known as Chaturbhuja is at Jatkara. Ed.]")
 
 [^680]: "Seo Archaol. Survry of India, vol. IT, pp. 426 and 426; vol. XXI, pp. 66 and 84. [ Burt in 1888 (J. A. 6. Ben. vol. VIII, p. 165
-
 
 1.                       \[ल्यार्थि\]षे **⁵**[^681].")'जल'  
 2                    
@@ -5016,8 +4738,6 @@ of our inscription refers,------------------self, and that this prince first def
 
 **¹**Wars between the Chandellas and the rulers of Kanya-" kubja are mentioned, e.g, in verse 3 of the inscription published in the Asiatic Researches, vol. XII, p. 359; in line 13 of the Mahon referred to above; and probably in line 2 of tipublished fruguentury inscription No. 29 of the Lucknow Museum.
 
-
-
 exception of a few aksharas which can be readily supplied) well preserved;but the middle portions of the lines 17-21, and the second half of line 28, have suffered considerably by the peeling off of the surface of the stone, so that altogether about 30 *aksharas* have either gone altogether or are, at any rate, illegible in the impressions. The size of the letters is from¾to 7/8". The characters, which are. beautifully and carefully executed,are of the so-called *Kuṭila* type, differing little from the ordinary Devanagari.[^697]They include the somewhat rare sign for jha, *e.g.*, in *jhátkára* towards the end of line 8; besides, attention may be drawn to the old form of the sign for pha, used exceptionally in the word *phala,* at the beginning of line 6, and to the old form of the medial e in the last word *savitre* of the inscription.
 
 [^697]: "[See Dr. Bühler's remas on the Dewal Prasasti, antc p.`73.-Ed.]"
@@ -5025,8 +4745,6 @@ exception of a few aksharas which can be readily supplied) well preserved;but th
  The language is Sanskrit, and, excepting the introductory, blessing and the concluding portion of line 28, the inscription is in verse. The verses, of which the total number is 49, were composed (verse 47) by the poet Madhava, the son of the grammarian Dedda. The inscription was written by the *karaṇika,* or writer of legal documents,Jaddha, the son of Jayaguṇa(?) of the Gauda country (v. 48). The name of the engraver was given in line 28, but it is now illegible. The language of the inscription is fluent and correct, and in respect of orthography, too, there are few things that need be drawn attention to. The letter b is throughout denoted by the sign for v. The dental sibilant is used for the palatal sibilant in *kasmíra*, line 13, and the palatal for the dental.  
  *atíśád,* line 24, and *śavdânuśāśanu*, line 27. Instead of*anusvárn*, we have the dental nasal in *vanśaḥ*, line 5, and in *hansáḥ*, line 15; instead of ñcha, ncha in\~nchana,line 1; instead of mr, mor in namorí, line 14, and *namvra*, line 26; and instead of the conjunct jjv, jr in ujvala, lines 3, 5, and 11, and in prodyajvált, line 16. The sign for *visarga* has been omitted in vakshasthale, line 2, kshilipů stuvanti, line 9, sádhubhi stúyate, line 19, and rave spashta-, line 20, where the omission is really permitted; but also, wrongly, in téa smita, line 4, and prápti kshayáya, line 6. The rules of cuphony have not been observed in ugrán-jagati, line 1, and in yam-vichintya, line 10, bhúmibhṛitám-varishṭhaḥ, line 10, and savaranám-vidhiná, line 12. Lastly, nishanna is put wrongly for nishanna in line 8, and tridiva for tridiva in line 24.  
  The inscription is dated, in line 28, both in words and in decimal figures, in the year 1011,' which, as a year of the Vikrama era, corresponds to A.D. 953-54. And it records (in verses 42 and 43) the erection of a temple of Vishnu, under the name of Vaikuntha, by the prince Yasovarman, also called Lakshavarman (verses 37 and 39) of the Chandrâtreya (or Chandella) family. By way of introduction, the inscription furnishes an account of the ancestors of Yasovarman and of his own achievements. In the family of the sage Chandrâtreya, who himself was a son of the sage Atri, there was, we are told, the prince' Nannuka (v. 10), whose son was Vâkpati(v. 12). Vakpati had trp sons, Jayasakti and Vijayasakti (v. 14), of whom the latter begat Rahila (v. 16), whose son again was Harsha (v. 18). This prince married a lady named Kanchhukâ, of the Chhamâna tribe (v. 21), who bore to him Yasovarman. This prince, in verse 23, is represented in a general way as having carried on successful wars against the Gaudas, Khasas, Kośalas, Kaśmîras, Mithilas, Malavas, Chedis, Kurus, and Gûrjaras, and he is, in particular, stated to have defeated the king of Chedi (v. 28), and conquered the Kalañjara mountain.
-
-
 
  The inscription appears to have been set up after the death, of Yasovarman; for, in verse 44, we are introduced to his son Dhanga, who, in verse 45, is represented as ruling the earth as far as Kâlañjara, and as far as Bhaavat, situated (?) on the banks of the river of Malava; up to the banks of the river ndi (or Yamunâ), and to  
 the frontiers of the Chedi country, and even as far as the Mountain Gopa, or Gopådri, These localities indicate, then, the extent of the Chandella king the prince Dhanga; and that kingdom) accordingly, exter in the north to the frontiers of the Chedi kingdom int the east or north-east to Gopâdri, the modern Gwâlior, judging from the way in which it is introduced, should looked for, op te to Kâlañjara, in the west or south-west, and I would therefore identify it with Bhalla. svâmin or Bhailasvâmin, the modern Bhilsa on the river Vetravati or Betwa, from near which was issued the grant of the Chandella Madanavarmadeva of the year 1190.[^698]
@@ -5058,8 +4776,6 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 धत्तेद्यापि जगत (च) येकजनतः पुष्यं स मूर्ध्ना हरः॥[^703]−\[2\].
 
 [^703]: "Metre, Sardalavikridita; and of the two next versen."
-
-
 
 देवःपातु स वः पयःकणभृति व्यीबीव ताराचित  
 दैत्यासित्रयलांच्छने[^704]दिविसदःसंत्यज्य सर्व्वानपि ।  
@@ -5122,8 +4838,6 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 [^713]: " Originally • वितयोषि."
 
 [^714]: " Metre, Upajati."
-
-
 
 9.रताण्डवितकेकिगणः स विन्ध्यः ॥[^466]-- \[13\].  
 तस्माद्विस्मयधामःक्षीराब्बेबन्द्रकौस्तुभौ[^716]यहत् । द्वावामजावभूतां जयमतिर्विजयशक्तिश्च[^717] ॥ -\[14\].  
@@ -5197,8 +4911,6 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 
 [^730]: " Metre, Sragdhari."
 
-
-
 व्यतोताः किं ब्रू(ब्रू)मो यदि पुन\[रि\] सुः स्वचरिते\[ह्री\]यानी (म्बी) कुर्युर्वदनमवलो\[क्यै\]नमधुना ॥[^731] -\[21\].
 
 [^731]: " Metre, Sikharint."
@@ -5257,8 +4969,6 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 यम्मिन्मध्यन्दिने ‌स्यात्तरणिरनुदिनं नीलकण्ठाधिवासं  
 जग्राह क्रीडयाभ्यस्तिलकमिव भुव
 
-
-
 **19.         किञ्च कासंजराद्रिं ॥[^739]\[31\].**
 
 [^739]: "Metre, Bragdhara."
@@ -5275,7 +4985,7 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 [^741]: "This and the following three aksharas might be read मं भ्रमति; but I believe that कम has been altered toसु and ति to स, and the two aksharas भ्रम are so similar to ट्रग, that they may be rend either way."
 
 **20. **                \[द्रगत\] कीर्त्तिरनिन्दितैव ॥[^742]\[33\].  
-एकैवोवाहलोकेस्मिन्पुत्रजन्मोन्नतं शिरः । कच्छुका येन धीरेण देवकीव मधुद्विषा ॥[^743].") \[34\].  
+एकैवोवाहलोकेस्मिन्पुत्रजन्मोन्नतं शिरः । कच्छुका येन धीरेण देवकीव मधुद्विषा ॥[^720].") \[34\].  
 शौ\[र्यौ\]दार्यनयादिनिर्म्म\[लगु\]णप्रामाभिरा\[मं यशो?\]  
 \[यस्यत ?\]शेष\[विशुद्ध\] ना\[थति\]लक\[ङ्गा\]य\[न्ति सि\]\[स्त्रि\]यः ।  
 \[तस्य स्तोत्रम\] मित्रमर्द्दन\[र\]वे\[:\]स्पष्टप्रकाशीकृत -  
@@ -5288,9 +4998,9 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 \[यो\] लक्षव\[र्म\]नृप\[ते\]: शरदिन्दुकान्तमाख्यातुमिच्छति यथः[प्रस\[रं\]][^746]वचोभिः ।  
 दीपप्रभापरिचयेन विमुग्धवु\[बु\] चिर्मध्यन्दिने दिवसनाथमुदीचतेसो ॥[^747] – \[37\]
 
-[^742]: " Metre, Vasantatilaka."
+[^720]: " Metre, Sloka (Anushtubh
 
-[^743]: " Metre, Sloka (Anushtubh
+[^742]: " Metre, Vasantatilaka."
 
 [^744]: " Metre, Sarddiavikridita."
 
@@ -5315,8 +5025,6 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 आस्थानेषु महीभुजां मुनिजनस्थाने सतां सङ्गमे  
 ग्रामे पामरमण्डलीषु वणिजां वीथीपथे चत्वरे ।  
 \[अ\] ध्वन्यध्व\[गसं\] कथासु \[निलये\]र\[खो\]लसां विस्मया -
-
-
 
 न्नित्यं \[तद्गु\] णकीर्त्तनैकमुखराःसर्व्वत्रसर्वे जनाः॥ —\[40\]
 
@@ -5359,20 +5067,18 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 
 [^753]: " Metre, Vasantatilaké; and of the next verse."
 
-**28.**मिपतिः पृथ्वीं तयोधर्म्म\[:\]61प्रवर्हतां।नन्दन्तु गोद्विजन्मान\[:\]प्रजा प्राप्नोतु निर्वृतिम्‌^(62[^755]"))॥—\[49\]  
+**28.**मिपतिः पृथ्वीं तयोधर्म्म\[:\]61प्रवर्हतां।नन्दन्तु गोद्विजन्मान\[:\]प्रजा प्राप्नोतु निर्वृतिम्‌^(62[^693]"))॥—\[49\]  
 सम्ब म्वत्सरदशश्ते शतेषु एकादशाधिकेषु सम्ब म्वत्‌ १०११ उत्कीर्ण्णाचेयं रू\[पका\]र. . . . . . . . . . . .^(63[^756])।  
 . . . . . . . . . श्री \विनायक[?⁶⁴[^757]\]पालदेवे” पालदेवे^(65[^758])पालयति\[वसु\]धां वसुधान धि\[ध?\]ग\[ता\]  
 निर्द्दग्ध\[वि!\]\[वै?\]रि \[भि।\] \[ब \[भः\] नमो भगवते वासुदेवाय ॥ ॥नमः सवित्रे॥
 
-[^755]: "Metre, Sloka (Anushtubh
+[^693]: "Metre, Sloka (Anushtubh
 
 [^756]: "Here from 10 to12 akeharas are illegible in the impressions."
 
 [^757]: "Ofthe aksharas in thesebrackets only नandकृ appear to me to be certain."
 
 [^758]: "This वे was originally बः"
-
-
 
 **Om !**
 
@@ -5390,15 +5096,13 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 
 [^759]: "The abovegives the general meaning of the verse, I believe, correctly ; but the first half of it doesnot admit of a proper construction."
 
- (6.) Then, when the whole world had come to an end, there was first here by his own greatness the mighty Creator, the first sage of all kinds of knowledge, the divine witness on high, skilful in creating the three worlds, that ruler over all who dwells on the filaments of the opening lotus.
-
 [^760]: "Compare, e.g., the Sănkhya Aphorisms of Kapila, translated by Ballantyne, 3rd Ed., p. 71; Davies, HindûPhilosophy, pp. 20 and 21, 35, 64. The word उपग्रहof the text appears to denote the five organs of sense, the five organs of action"
+
+ (6.) Then, when the whole world had come to an end, there was first here by his own greatness the mighty Creator, the first sage of all kinds of knowledge, the divine witness on high, skilful in creating the three worlds, that ruler over all who dwells on the filaments of the opening lotus.
 
  (7.) From that Creator of the universe, that ancient béing, that sage who is the abode of sacred knowledge, sprang those early sages of holy conduct, MarÎchi and the rest. Atri, one of them, begat the sage Chandrâtreya, who by his ceaseless austerities acquired fierce might, (and) who was a flame of unfeigned intensely radiant knowledge.
 
  (8.) The family proceeding from him, who caused the welfare of the worlds (*and*) was acquainted with every science (*and*) a receptacle of sacred lore that came, to him of its own accord, is a fit object of laudation; (*a family*) where neither prowess has caused depression nor flattery elation, in which there has not been a particle even of
-
-
 
 feebleness, and where the attainment of the objects desired has not tended to the destruction (*of the possessor*).  
  (V. 9.)How shall we praise the princes of spotless fame of that (*family*), whose thoughts were nobly directed towards the protection of people in distress, the possessors of every blessing who, full of energy, inasmuch as they practised the conduct of the golden age, had a meritorious existence, (*and*) who had the strength,to destroy as well as to protect the whole earth?
@@ -5423,8 +5127,6 @@ feebleness, and where the attainment of the objects desired has not tended to th
 
  (19.) In him (*were*) fortune and eloquence combined, statesmanship ? (*and*) heroism, vigour radiant with the quality of goodness and complete patience come to him by nature, contentment and a desire for victory, modesty aad self-confidence. Endless as are his excellencics, what is it then that we shall praise of that meritorious store of marvel?
 
-
-
  (V. 20.) He who (*was*) afraid to offend against the law, anxious to worship the feet of (Vishṇu), the enemy of Madhu, unacquainted with wicked utterances, abashed when his own excellencies were being enumerated, void of calumniousspeech, (*and*) mute by birth to utter untrue words,—what person then was he, that is thus praised as in every respect endowed by nature with famous qualities ?
 
  (21.) He, of beautiful body (*and*) unblunted intellect, withdue rites marrieda suitable (*lady*) of equal caste, named Kañchhukâ, sprung from theChâhamânatribe.
@@ -5442,8 +5144,6 @@ feebleness, and where the attainment of the objects desired has not tended to th
  (27.)Him, (*who remained*) calm at the head pf battle, where a fire was spreading with the masses of flames issuing forth from the strokes of the big trunks, meeting in fight, of the mutually enraged clephants, (*which was*) terrible with the deep sounds of the bow-strings, (*and*) where the laughter of demons, intoxicated with the blood drunk by them, was made awful by their mad confused shouts,—him Fortune, frightened as it were, anxiously embraced.
 
  (28.) Free from fear, he impetuously defeated in battle the Chedi king whose forces were countless, who had put down his lotus-foot on rows of diadems of famous princes, (*and*) who tried to protect himself by showers of arrows of enraged irresistible archers, standing on mighty infuriated elephants that were marching along like towering Añjana mountains.
-
-
 
  (V. 29.) \[This verse, of which a portion is more or less, illegible in the original, appears to say that the wives of the enemies considered his face more beautiful even than the moon and the lotus\].
 
@@ -5467,8 +5167,6 @@ feebleness, and where the attainment of the objects desired has not tended to th
 
  (38.) This bright fame of his, which rivals the great splendour of the moon, proceeds to regions which (*even*) the sin-destroying Vâmana did not reach, when he rapidly crossed over,the earth on the occasion of cheating the guileless-minded Bali, (*and*) which the sun (*even*) does not reach, because its rays are impeded by the hundreds of peaks of the Lokâloka mountains.
 
-
-
  (V. 39.) Steadfast (*and*) possessed of fierce ardour, the illustrious Lakshavarman in his conquests of the regions made, equal to Indra, the daughter of Kalinda and the offspring of [Jahnu](https://# "i.e, the Yamuna and the Ganges."),one after another, his pleasure-lakes, encamping the forces of his army on either banks unmolested by any adversaries, (*and rendering*) their waters muddy by the bathing of his furious mighty elephants.
 
  (40.) In the halls of princes, where sages dwell, (*and*) where good people meet, in the village, in the assemblages of the lowly, among the rows of shops of merchants, (*and*) where streets cross, where wanderers talk together on the road, (*and*) in the huts of the dwellers of the forest,—everywhere everybody constantly from astonishment is loud only in praise of *his* excellencies.
@@ -5486,10 +5184,6 @@ feebleness, and where the attainment of the objects desired has not tended to th
  (46.) who, a source of munificence, bravery, discernment, of arts and dalliance, of intelligence, majesty and might, accomplishing his purposes, by means of such conduct, all at once created in the minds of well-disposed people the belief that the Kali-age had, out of season, come to an end.
 
  (47.) The poet Mâdhava, whose father is Dedda, learned in, grammar, has composed this eulogy, he whose spotless fame as a poet wise men, filled with rapture, celebrate in tales.
-
-
-
-
 
  (V. 48.) The eulogy has beeneagerly written in pleasing letters by the son of Jayaguṇa (?), the writer of legal documents, Jaddha, the Gauḍa, who knows the Sanskrit language.
 
@@ -5510,8 +5204,6 @@ Adoration to the holy Vasudeva ! Adoration to the Sun!
   The inscription records a number of gifts made (probably in favour of the temple where the inscription is) by one Pâhilla, whose name is spelt pâhila, and who is described as held in honour by king Dhaṅga (or, possibly, Dhaṅga); and itis dated, in line 1, in the year 1011, and, in lines 10 and 11, on the 7th of the bright half of Vaiśâkha, on Somadina or Monday. Regarding the figures for the year (1011), it must be stated that the artizan, in the place of the cypher, first engraved the figure 1, which he subsequently altered to 0; but the four figures actually are 1011, and cannot possibly be read in any other way. The inscription, then, is dated in the same year as the inscription of Yaśgovarman (No. II, above), and it apparently mentions the same prince Dhaṅga, who is spoken of in that inscription as the ruling prince. Moreover, whatever may have been said to the contrary, the date undoubtedly works out satisfactorily. For, taking the figures 1011 to denote the southern, Vikrama year 1011, expired, the corresponding day is April 2, A.D. 955, which was a Monday, as [required](https://# "The corresponding date for the northern Vikrama year 1011), current, would be Saturday, April 28, A.D. 953; and for the northern Vikrama year 1011, expired, or southern Vikrama year 1011, current, Wednesday, April 12, A.D. 954.").On the other hand, the characters in which the inscription is engraved are far more modern than those of the inscription of Yaśovarman;and taking the date to be correct, and the references in both inscriptions to beto the same Dhaṅga (the only prince of that name known to us), we must of necessity assume that the inscription, as we now have it, has, similarly to the inscription of—
 
 [^762]: "See Cunningham’s Archol, Surv. of Ind. vol. IT, p, 433, and vol. XXI, p. 67. The inscription has been edited by Dr. Réjendralal Mitra in the Jour. As. Soc, Beng, vol. XXXII, p. 279, and a photo-lithograph of it was published by Sir A. Cunningham in Archaol. Survey of India, vol. XXT, plate xvi, J. I now re-cdit it from an impression prepared by Dr. Burgess."
-
-
 
  Dhaṅgadeva of the year 1059 (No. IV, below), been re-engraved from a more ancient copy.[^763]
 
@@ -5553,8 +5245,6 @@ Adoration to the holy Vasudeva ! Adoration to the Sun!
   The Mahârâja-guru (*or high-priest, is*) the illustrious Vâsavachandra.  
  On the 7th day of the light half of (*the month*) Vaiśâkha, on a Monday.
 
-
-
 **STONE INSCRIPTION OF DHANGADEVA OF THE YEAR 1059; RENEWED BY JAYAVARMADEVA IN THE YEAR 11738.**
 
  The stone which bears this inscription was discovered in February 1838 by Captain T. S.Burt, of thé Bengal Engineers, at a temples of Khajurâho, and it is now built into the wall on the right side of the entrance of the temple of Viśvanâtha, at the sameplace.¹ I am now able to publish an improved version of the text, from two excellent impressions taken by Dr. Burgess.
@@ -5568,8 +5258,6 @@ Adoration to the holy Vasudeva ! Adoration to the Sun!
             *  
   ¹This inscription was first edited, most carelessly, from impressions taken by Captain Burt, and with an English translation by Mr. J.C. C. Sathorland, in the Jour. Beng. As. Soc. vol. VII, pp. 159-184 (Conf. also Lassen, Indische Alterthamskunde, vol. IIL, pp. 782-787). Subsequently, the text of the inscription has been re-edited by myself, in the Nachrichten d. *Königl*. *Ges. d, Wissenschaften au Göttingen,* 1886, pp. 441-462, from an indifferent rubbing made by or for Sir A. Cunningham, and handed over to me by Mr. Fleet; and a small photolithograph of it was published by Sir A. Cunningham, in the Archaeol. Survey of India, vol. XXI, plate xviii. In his plate it is wrongly described as the ‘Inscription of GazflaGaṇḍa Deva.’ The name Gaṇḍa occurs nowhere in this inscription. In 1887, Mr. Fleet made over to me several very fair rubbings of the inscription, which would have enabled me to correct some of the readings in my previous edition of the text.
 
-
-
  The contents of the first part of the inscription (or of the original inscription which was renewed under Jayavarmadeva) may be shortly stated to be as follows :—
 
  After the introductory blessing “Oṁ, adoration to Śiva,” the poet praises Śiva (Rudra, Digambara, Śûladhara, Maheśvara), Bhâratî, the goddess of eloquence, and Gaṇeśa, and expresses his devotion to other great poets (verses 1-6). Verse 7 describes how the mundane egg came into existence. From the two halves of it Brahman made heaven and earth, while from his own mind he created Marîchi and other sages (v. 8).The most distinguished among these was Atri, from whose eye sprang the moon, and whose son was the sage Chandrâtreya, the progenitor of the distinguished race called after him, which will rule the earth as long as: the moon lasts (vv. 9-12). After having expressed his admiration of the former great kings of the Chandrâtreya family (v. 13), the poet goes on to relate how in the course of time there came in this race a prince named Nannuka (v. 14), whose prowess reminded the gods of Arjuna (v. 15). He had a son, Vâkpati(v. 16), whoby his wisdom and valour excelled the mythical kings Pṛthu and Kakutstha (v.17). His son was Vijaya (v. 18), whose fame was sung by semi-diving beings (v.19), and who, after having subdued the neighbouring countries, like Râma, on his warlike expeditions reached even the southernmost point of India (v. 20). He had a son, Râhila (v. 21), who favoured his friends and punished his enemies(vv. 22-23), and whose son, again, was Harsha (v. 24), a king who protected the whole earth and subdued his adversaries (vv. 25-28): Harsha’s wifekañchhukâ (vv. 29-30) bore to him a son, named Yaśovarmadeva (v. 31), who, pious and munificent (vv. 32-33), reduced other kings to the state of dependency (v. 34), filled the whole earth with his renown and with the fame of his excellencies (vv, 35-36), and firmly established his rule (v. 37). He caused a large tank to be dug (v. 38), and erected a magnificent temple for (Vishṇu) Vaikuṇṭha, which, to judge from the wording of verse 39, was near the temple at which the present inscription was put up, and which clearly is the temple the erection of which is recorded in the inscription of Yaśovarman himself (No. II, above). Yaśovarman’s wife, Puppâ (vv. 40-41), bore to him a son, Dhaṅga (v. 42), who is compared with Vishṇu-Kṛshṇa (vv. 43-44). He was so powerful that the rulers of Kośala, Kratha, Siṁhala (Ceylon), and Kuntala humbly listened to his commands (v. 45), and so successful in his wars that the wives of the kings of Kâñchî, Andhra, Râḍhâand Aṅga lingered in his prisons (v. 46). In short, Dhaṅga’s fame spread to the furthermost borders of the inhabited globe, and even beyond (v. 47).
@@ -5577,8 +5265,6 @@ Adoration to the holy Vasudeva ! Adoration to the Sun!
  I may state here at once that the list of princes of the Chandrâtreya (or Chandella) family, contained in the preceding, closely agrecs with the list known to us from the inscription of Yaśovarman, the only differences being, that the present inscription calls Vijayaśakti simply Vijaya and omits his elder brother Jayaśakti, and that it tells us the name of Yaśovarman’s queen. A comparison of the two inscriptions clearly shows that the author of the present inscription had the inscription of Yaśovarman before him and, desirous of making the prince Dhaṅga, with whom he is more particularly concerned, appear even more illustrious than Yaśovarman, he does not Hesitate to cover the former with the most fulsome praise which, from an historical point of view, is of no value whatever.
 
  The proper object of the inscription is, to record that Dhaṅga erected a magnificent temple for the god Śambhu (Śiva), with two *liṅgas*, one of emerald and the other
-
-
 
 of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and established, in connection with the temple, dwellings for pious Braâhmans to whom donations were made of land, grain, money, and cows (vv. 53-54).
 
@@ -5595,8 +5281,6 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 ------------------------------------------------------------------------------------------  
 
 **²** Edited by mo in the Indian Antiquary, vol. XVI, p. 201.
-
-
 
 **Text.¹[^768]**
 
@@ -5663,12 +5347,9 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 
 [^779]: "Metre, Mandâkrâutâ."
 
-
-
 **6.**
 
 **किताखिलजगत्सर्ग्गापवर्ग्गस्थितेः\।**
-
 
 **सर्व्वज्ञप्रतिमस्य त\[स्य\] कृतिनः कारुण्यपुण्यात्मनः ।¹²[^780]**
 
@@ -5720,6 +5401,10 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 
 [^113]: "Metre, Vasantatilakâ."
 
+[^113]: "Metre, Vasantatalakâ."
+
+[^113]: "Metre, Vasantatilakâ."
+
 **10.  
 सानंदं सुरसंदरीभिरवनौ क्षिप्ताःसलाजाः श्र(स्र) जः॥²⁴[^791]-- 18\].  
 किन्नरीभिरधिकंधरं सखीराकलय्य भुजयास्य भूभुजः\।  
@@ -5734,8 +5419,6 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 .............................................................................  
 
 **15** Metre, Śloka (Anushṭubh). The editor in Jour. As. Soc. Beng. vol. VIII, gives only part of this verse. and adds the note (p. 177): ‘The rest of this Śloka is wanting.
-
-
 
 **दक्षी दक्षिणाशां जिगीषुः पुनरधित पयोधेर्व (र्ब)न्धवैधुयमर्यः²⁶ ॥²⁷[^793]- \[20\].**
 
@@ -5800,8 +5483,6 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 **30.** The akshara in brackets, in the original is स; but there appearsto be a mark above it, which may beintended to change it to सा.‘When this prince was pleased, the dwellings of supplicants, who in him had a supporter, were covered with bright splendour ; but when he was angry, fire spread over the habitations of his enemies, who in him found their master.’  
 **32.** Metre, Rathoddhatâ.—‘ Swords were protected by scabbards, and courtezans drank from drinking cups, but he did not guard the treasure, consisting in jewels, of the people subdued by him; arrows lost their feathers, and wicked princes felt his partiality, but not his friends and counsellors.’
 
-
-
 **हृत्तोज्व(ज्ज्व)ला गुणाधारा महार्घा हृदयंगमा। हारावलीव तस्यासीत्कंक्वुकेति प्रियोत्तमा। (॥)⁴²-[^168].")\[29\].  
 वर्ण्ण \[:\*\] स्वर्ण्णरुचिर्विलोचनयुगं नीलं सचंद्रोपलं[^808]  
 पाणिः शो[(ण\]][^809]मणिद्युतिः संचरणो दन्तच्छदो विद्रुमः\।  
@@ -5847,8 +5528,6 @@ He in a wonderful manner brought about both these things by his fame (which is i
 
 [^815]: "Originally ०सुखादा०, altered to सुखदा."
 
-
-
 **\[नो\]⁵⁴धर्म्मप्रभवं विरोधितवता प्राप्यापि वंशक्षयं  
 \[सं\]प्राप्ता धृतराष्ट्रता\[सु\]सुहृदा विद्वेषिणेत्यङ्गुतम्‌॥-⁵⁵-[^816] \[37\].  
 20.  
@@ -5880,15 +5559,12 @@ He in a wonderful manner brought about both these things by his fame (which is i
 
 [^820]: "This akshara, in all the impressions, is rather वे than घ॑ ; but see below."
 
-
 **................................................................................**  
 **54.**This is a mere conjecture; the original has तor तं, altered to some akshara or other which is not clear in the impressions; the first akshara, सं, of the following line also is indistinct.—Dhṛitarâshṭra, the nephew of Bhîshma and father of the Kauravas, had for his wife Gândhârî, the sister of Śakuni; Yudhishṭhira, the eldest of the Pâṇḍavas, was the son of Dharma; Droṇa was the teacher of the Kauravas and Pâṇḍavas, und Karṇa an ally of the Kauravas. I therefore should translate the verse, in the first instance, as follows :--' Having for his beloved Gândhârî,who was fond of the voice of the joyful Śakuni,—stupefied when he heard the speeches, which gave no pleasuro to his ear, of Bhîshma and Droṇa,—not hostile to the son of Dharma, even when he saw his own race destroyed by him,—(the prince) who was (both) a good friend (and) an enemy, came to be Dhṛitârishṭra.’ This wonder is explained when we take the last line to mean, that the prince, surrounded by good friends and free from enemies, firmly established his government ; and then understand the preceding lines to say, that he had for his wife a Gândhâra,princess (?) who was fond of the song of merry birds,—that he was stupefied when he heard the omiuous cries of ravens, which did not please his ears,—and that he did not act contrary to law, even when the existence of his family was at stake.  
 **56.** Originally ०सूनि०, altered to सूनु.—Compare Monier Williaws, Dictionary, under सगरand भगीरथ.  
 **59.** Metre, Sragdharâ.—If the verse, as given above, is correct,—and I do not see how it could be read differently,—it is badly constructed, mainly, because in the second line we expect the relative यस्मात्, instead of the demonstrative अमुष्मात्‌.The meaning of the verse Itake to be: ‘Heerected this dwelling, praised by all, of Vaikuṇṭha, the enemy of ethe Asuras from which tho charioteer of the sun, to save the wheels, turns awayhis chariot, because with its sharp spires, shining like the autumnal moon, it pierees the Zodiac; and the golden dome of which always causes it to be taken for the sun, kissing with its orb the peaks of the mountain of snow.’—Compare verse 50, below.  
 **60.**On the best of my impressions this word is quite distinct, and I take it to be the nameof the queen, who in this verse iscompared with the river Narmadâ. Compare Amarakośa, नर्मदा सोमोद्भवा.  
 **62.**Metre Vaṃśastha.—Indirectly the princess is compared with Anasûyâ, Aruadhatî, Damayantî, and Madâlasâ.Compare the similar verse 26, above.
-
-
 
 **अशोदानन्द\[भाक्व\]क्रे पूतनामा रणक्रियां। जातो हणिकुले कं स रिपोः च्छेत्ता⁶⁵नरोत्तमः॥⁶⁶[^168] ; and of the next verse.")
 \[43\].**  
@@ -5939,8 +5615,6 @@ He in a wonderful manner brought about both these things by his fame (which is i
 **65** Read रिपीह्मेत्ता. ‘Worshipping Vishṇu (the joy of Yaśodâ), the purenamed one engaged in battle; born, an object of joy, in a fierce race, that destroyer of enemies was the bestof men (Krishṇa),—who, worshipping Yaśodâand Nanda, brought about the destruction of (the fiend) Pûtanâ, and who, born in the Vṛishṇi race, annihilated the enemy Kaṁsa.’— Compare, e.g., Vâsavadattâ, p. 12 and p. 150.  
 **67.** About the aksharas in these brackets I am very doubtful. In the impressions, the first of them looks somewhat like स्त्री, i.e.,स्त्रीthe second like म, and the third like धि; but the third akshara appears certainly to have been altered, and probably also the first. हिरण्यकशिपुalso means‘ gold and food and clothing; ‘compare, e.g.,Vâsavadattâ, p.11, and Damayantikathâ, p.22.  
 **75.** Metre,Śloka(Anushṭubh). प्रतिष्ठित ishere, as elsewhere, used in the sense of प्रतिष्ठापितः
-
-
 
 **स्वयमेव विश्वकर्म्मातोरणरचनामिमां चक्र ॥⁷⁷-[^831]-\[51\].  
 जयति विकटो \[व\]⁷⁸[^832]टोयं हाटककोटीरनेन तुलयित्वा।  
@@ -5999,9 +5673,6 @@ He in a wonderful manner brought about both these things by his fame (which is i
 **80.** Metre, Śârdûlavikriḍita, Thesix occupations of Brâhmans are अध्ययन, अध्यापन, यजन, याजन, दान and प्रतिग्रह, i.e. stndy, teaching, offering snorifices, conducting them for others, giving and accepting gifts.The palaces, high like the peaks of the Knilâsa, which the king erected for certain holy Brâhmans, are the same buildings which elsewhere are called brahmapuri; seeIndian Antigquary, vol. XV, p. 44, note130.  
 **81.** Metre, Śloka (Anushṭubh),—North of the Himâlaya is the country of eternal heatitude; hre the Brâhmassselected by the king had found south of the Himâlaya a place where all their wishes were fulfilled. ‘  
 
-
-
-
 **यावद्व्र(द्ब्र)ह्मांडभांडस्थितिरियमथवा स्थात्रुतं स्थाणवीयः  
 प्राशा (सा)दस्तावदेष व्रजतु नरपतेर्द्दत्तकैलासहासः ॥⁸⁹-[^200]-\[61\].  
 लिपि\[ज्ञा\।नवि\[धि^(x)\]ज्ञेनप्राज्ञेनगुणसा (शा)लिना।  
@@ -6034,7 +5705,6 @@ He in a wonderful manner brought about both these things by his fame (which is i
 **V.  
 STONE INSCRIPTION OF KOKKALA, OF THE YEAR 1058.**
 
-
 The slab which bears this inscription is said to have been found about fifty yearsago at the temple of Vaidyanâtha, at Khajurâho; and is now built into the side wall of the entrance porch of the temple of Viśvanâtha at the same place. Tho inscription has been mentioned several times in the volumes of the Archaeological Survey of India, and a photo-lithograph of it, which, though useless for editing, shows well the style.
 
 **...............................................................................**  
@@ -6045,8 +5715,6 @@ The slab which bears this inscription is said to have been found about fifty yea
 
 **98.** In Cunningham's Archeol, Survey of India, Vol.XXI,p. 68, it is stated that the inscription had originally been written in irregular (Kîrṇa) letters, and that it was ro-written in letters of thekumvda form, or in ‘lotus-like or beautiful characters’, My text and translationof the proceding verseshow that the inscription does not coutain the word Kîrṇaat all; nordoes the present verse say anything about kumuda characters. For the verse simply says, that Jayapâla, the Gauḍa, the Kâyastha of the ruling prince. Jayavammadeva, honoured by the learned, acquainted with the various arts, and familiar with poetry,  
 &e.,with his hands moving forward wrote these letters, as the moon, reating on the body of Śiva, containig digits, and the friend of the ocean, &e., with her spreading rays, touches the lotus-flowers.
-
-
 
 of the letters and the general state of preservation of this record, is given by Sir A.Cunningham in Archaoi. Survey of India, vol. XXI, plate [xix](https://# "Ihave for some time been in possession of several rubbings of this inscription, prepared by or for Sir A. Canninghass, which were made over to me by Mr. Fleet; I now edit it from an excellent impression taken by Dr. Burgess.").
 
@@ -6066,8 +5734,6 @@ L1. ॐनमः शिवाय॥ ²[^848]स्फूर्य(र्ज)त�
 [^848]: "Metre, Sardulavikridita;and of the two next verses."
 
 [^849]: "Thesign of punctuation is superfluous, here and in other places bciow which it is unnecersary to point out separately."
-
-
 
 **2. रवैद्यनाथविधृतं वन्द्य(न्यं) जटामण्डलं ॥ यस्यप्रेतवन⁴निवासभवनं भूतैःप्रभुत्वंभृशं।भूतिर्भूषणमङ्गरागरचना प्रीतिर्युगान्त (न्तं) प्रति ॥(।) कण्ठेतिष्ठति कालकूटमशिवोप्येवं शिवः  
 3. स्वस्थितं⁵ । सर्वध्या(व्या)वि(धि)हरश्चराचरधरः पायात्स वः शङ्करः ॥ यं वेदान्तविदो वदन्ति मनस \[:^(x)\] शं(सं)कल्पभूतं शिवं। व्र(ब्र)ह्मैकंपरमक्षरं तभजरं तं(?) चामरं तद्विदः। अन्येतत्सिवमेव⁶वु(बु)द्धममलं त्व-  
@@ -6106,8 +5772,6 @@ L1. ॐनमः शिवाय॥ ²[^848]स्फूर्य(र्ज)त�
 19. Reade कीर्त्तिस्थागे.  
 20. Of this akshara only the upper portion is visible.  
 21. Metre, Śârdûlavikrîḍita.
-
-
 
 16 रुचिरं किं तत्रवस्तु स्तुमः॥²²तस्यानुजोपि\[सौं\]दर्यमर्या \[दौ\]दार्यकार्यवान्‌। यौवनेप्यार्यचरितः श्रीकोक्कक्केतिविश्रुतः। (॥) यः²³सत्पात्रेददा-
 
@@ -6148,8 +5812,6 @@ L1. ॐनमः शिवाय॥ ²[^848]स्फूर्य(र्ज)त�
 
 30 The original has फणा‘the hood of a serpent,’ but one expects a word meaning ‘a serpent’; compare, e.g. line 1 of the grant of Vâkpatirâja, in Indian Antiquary, vol. XIV, p.160.
 
-
-
 Brahman, the indestructible, ageless, immortal, others the verily auspicious Buddha, (and) others again the spotless Vâmana, the triumphant (Jina). !
 
  (4.) People overcome with severe distress (brought about) by violent fever (*sent*) by the great Indra (?) or by Vishnṇu, (and) those seized again and again by goblins and by evilspirits that show themselves day hby day, (*and*) those afflicted with leprosy, which displays its fierce maight by sore thumbs and fore-arms, (all) these are freed from evil when they set eyes on thy clearly shown uncouth twisted tresses of hair.
@@ -6172,8 +5834,6 @@ Brahman, the indestructible, ageless, immortal, others the verily auspicious Bud
 
  (13.) From him, who by his loveliness wasthe moon, and, as regards the attainment of the objects of men’s desires, a tree of paradise, there was born, as the light proceeds from the lord of the day, a son (*named*) Sekkala, who was learned, a sun of unparalleled majesty, famous, foremost among the good, the sole habitation of truth, liberality, and bravery, self-confident, (and) endowed with wealth.
 
-
-
  On account of his manliness not to be insulted with fame which spread tothe ends of the broad regions, in munificence like Karṇa, and not conversant with hurtful or deceitful speech, the illustrious Sekkala at once showed his greatness both by his benevolence and in battle, was difficult of approach for the host of enemies, and. . . . . . . (?).
 
  \[The next versealso refers to Sekkala (whose name is spelt here-Sekkalla), who appears to be described as a boat for crossing the ocean ofroyal government. But the verse is incomplete, and I am unable to derive from the words actually remaining any connected meaning.\]
@@ -6193,7 +5853,6 @@ Brahman, the indestructible, ageless, immortal, others the verily auspicious Bud
  (21.)The creeper of his good fame, the sprouts of which are shining with prosperity produced by the sprinkling of his boundless discernment, (and) . . . . . . which nourishes (like groups of birds) crowds of twice-born, (and) is beautified, as by flowers, by good conduct, rising above the lines of princes (as above mountains), ascends from the wide round basin of the earth up into the universe, as if it were an arbour.  
  The year 1058, on the full-moon day of Karttika. By the illustrious Kokkala.
 
-
 **THREE INSCRIPTIONS FROM IMAGES IN THE JAINA TEMPLES.**
 
 **VI.**
@@ -6201,8 +5860,6 @@ Brahman, the indestructible, ageless, immortal, others the verily auspicious Bud
  This incomplete inscription is in a single line, 5^(¼”)long. The size of the letters isabout ^(5/8”).The characters are Nagari, and the language is Sanskrit. The inscription contains merely the words: “The Sreshṭhin, the illustrious Pâṇidhara, in the Grahapati family.”
 
  The Grahapati family, mentioned here and in the two following inscriptions, is also mentioned in line 8 of the preceding inscription of Kokkala, No. V.
-
-
 
 **Text.**
 
@@ -6215,13 +5872,11 @@ Brahman, the indestructible, ageless, immortal, others the verily auspicious Bud
 
  This is another inscription ina single line, 2’ lotg.n The size of the letto ers is about 3’.½".The characters are Na âgari, and the language is Sanskr ṛit. The inscriptioncontains the words: “Om ! In the Grahapati family, the Sreshthin PAnidhara;*Śreshthin Pâṇdhara*hig s sons, the Sreshthin *Śreshthin*Trivikrama, and ÂAlhan ṇa, (and) Lakshmi îdhara;” and the date “the year 1208 5 (which, as a year of the Vikrama era, corresponds to A.D. 11 47-48), the 5th day of the dark half of (the month) Ma âgha.”
 
-
 **Text.**
 
 **ओं²[^852] ॥ प्रग्रहपत्यन्वये श्रेष्ठिपाणिधरस्तस्य सुत श्रेष्ठिति(ति)(त्रि)विक्रम तथा आल्हण। लक्ष्मीधर॥ संवत्‌ १२०५। माघ वदि५॥**
 
 [^852]: "Expressed by a aymbol."
-
 
 **VIII. .**
 
@@ -6230,7 +5885,6 @@ Brahman, the indestructible, ageless, immortal, others the verily auspicious Bud
 [^853]: "This inscription bas been published by Sir A. Cunningham in Archaeol. Survey of Indiu, vol. XXI, p. 61, and I now re-edit it from an impression taken by Dr. Burgeas."
 
  The inscription is dated in the year 1215 (which, as a year of tho Vikrama era, corresponds to A.D. 1157-58), on the 5th day of the bright half of (the month) Ma âgha, in the prosperous reign of victory of the illustrious Madanavarmadeva. And it records that the statue on which the inscription is, was caused to be set up by the Sa ádhu 88110, Sâlhethe son of Paâhilla, who was the son of the Sreshthin*Śreshthin* Dedu,ûof the Grahapati family; and adds that the sons of Saâlhe, Mahaâganṇa, Mahiîchandra, Sirichandra, Jinachandra, Udayachandra, and the rest, always bow down to Sambhavana âtha. The name of the artizan was Ra âmadeva. The name Pa âhilla we have met before, in inscription No. III.
-
 
 **TEXT.**
 
@@ -6243,9 +5897,6 @@ Brahman, the indestructible, ageless, immortal, others the verily auspicious Bud
 [^855]: "One expects प्रभृतयः"
 
 [^856]: "Read प्रणमतिः"
-
-
-
 
 **XX.—THE TWO INSCRIPTIONS OF THE VAILLABHATTASVAMIN TEMPLE**
 
@@ -6267,8 +5918,6 @@ Brahman, the indestructible, ageless, immortal, others the verily auspicious Bud
 
 [^861]: "Cunningham's Archeol, Sur. of India, vol. HI, p. 382."
 
-
-
  who dwelt on the top of the Gwalior Fort (Śrî-Gopagiri-talopari). The inscription mentions several other localities, which I am unable to identify, viz. Chûḍâpallikâ, Jayapurâka, Śrî-Sarveśvarapura, Śrîvatsasvâmipura, Chachchikâhaṭṭikâ and Nimbâdityahaṭṭikâ. It deserves to be noted, that at the time of the inscription the measure of length was “royal yards” (pârameśvarîya-hasta) and that of capacity“droṇas according to the measure of Gwalior ” (Gopagirîya-mâpyena).  
  The first inspription mentions two kings, viz. Râmadeva, the contemporary of Vâïllabhaṭṭa, and Śrîmad-Âdivarâha, the contemporary of Alla. At the time of the second inscription the ruler of Gwalior was the parameśvara Bhojadeva.Another inscription of a parameśvara Bhojadeva was discoveredby General Cunningham at Deogarh.Its date, Saṁvat 919 and Śaka 784, led General Cunningham to suppose that the date of the second Gwalior inscription, Saṁvat 933, has to be referred to the Vikrama era, Referring the date of an inscription at Peheva, Saṁvat276, to the era of Śrîharsha, General Cunningham further identified the parameśvara Bhojadeva of the Deogarh inscription and of the second Gwalior inscription with the parameśvara Bhojadeva, the son of the parameśvara Râmabhadradeva.**⁷**This supposition is corroborated by the first Gwalior inscription, as theRâmadevawhom it mentions as a contemporary of Vâïllabhaṭṭa, seems to be identical with the Râmabhadradeva of the Peheva inscription. Śrîmad-Âdivarâha in the first Gwalior inscription I take to, be a biruda of Bhojadeva himself. Thus we have the following names and dates:—
 
@@ -6280,16 +5929,11 @@ Brahman, the indestructible, ageless, immortal, others the verily auspicious Bud
 ^(**--------------------------------------------------------------------------**)  
 ^(**6**) Ibid. vol. X, p. 101.  
 
-
 ^(**7**) Jour. As. Soc, Beng. vol. XXXIII, p. 229; Cunningham's Archaeol. Survey of India, vol. II, p. 224; vol. 1X, pp. 84 and 102. The inscription reads: paramabhat {araka-maharajdhiraja-paramesvara-Sri-Ramabhadra-deva-padanudhyata-paramabhataraka-maharadhiraja-paramesvara-sri-Bhojadeva-padanam-abhipravardhamana-kalyana-vijaya-rjye-samvatsara-Satadvaye shatsaplatyadhike vaisakhamasa-Suklapaksha-saptamyamsamvat 276 vaisakha Sudi 7.The apparent breaks in the facsimile (Jowr. As. Suc. Beng. vol. XXXII) arive from the overlapping parts not having been properly pasted together.
 
 8 Ind. Ant. vol. XV, p.110. From Professor Kielhorn’s introduction to the Siyadoni, inscription (infra) it appears that the paramesvara Bhojadeva of the Deogarh, Gwalior, and Peheva inscriptions was a kingof Mahodaya or Kanyakubja the Qannaujof Firdausi?, and the modern Kanauj; and that ,his successor, the paramesvara Mahendrapala-deva was ruling in A.D. 903. Among the coins which are mentioned in the Styadoni inscription, is the Srimad-adivaraha-dramma. This coin was évidently named after Srimad-Adivarah a, the biruda of Bhojadeva. General Cunningham, in Aroh. Survey of India, vol. I, p. 329, identifies it with a base silver coin, which beara on the obverse a representation of the boar incarnation ard on the reverse tho legend Srimad-Adivardha , The ovin is engraved in Marsden's Numismata Orientalia, pl. liii, No. mccxix. It is frequently met with ia Northern India :—Conf. Cunningham's Arch, Surrey of India, vol, VI, p. 137, apd loc.cit.  
 
-
 ^(**9**) The rending adopted by Mr. Fleet, भृत्वैभूते यक्कियकान्वये, is confirmed by my Kasmir MS. The DeccanCollege MS. reads: भृ-भूते यक्किकयान्वये
-
-
-
 
 FIRST INSCRIPTION
 
@@ -6330,16 +5974,12 @@ TEXT.
 
 1 7 Read ०मृङ्गष्टान्‌.
 
-
-
-
  (7.)**द्यानपात्रं महद्वीजंधर्म्मतरोरनन्तफलदं स्थानं श्रियः साश्वतःं[^871]। टङ्कोत्कीर्ण्णयशोनिधानमिव यन्नामाक्षरैरङ्गितं तेनाकारिविकारशून्यमनसाविष्णोरिदं मन्दिरं॥ \[२५^(x)\] दधति जलमगाधं सागरा यावदुच्चैर्गिरिरयमपि वोढा यावदभ्रंकषस्य। शिरसि शिखरराशेः स्थेयसीश्लाघारूपास्थगयतु भुवि कीर्त्तीरोदसी तावदेषा॥ \[२६^(x)\]॥ नवसु शतेष्वब्दानांद्वा[^872]चिन्मं[^872] त्संयुतेषुवैशाखे। रम्येस्मिन्नेकशिले विष्णुर्भक्त्याप्रतिष्ठितो भवने॥ \[२७^(x)\]॥**
 
 [^871]: "Read शाश्वतम्."
 
 [^872]: "Read द्वाविंश."
 
-                                 
 TRANSLATION.
 
 Oṁ. (Verse 1.) May that Vishṇu destroy your sins, having seen whose foot, when he was going to stride (the three worlds), the horses of the sun did not pacethe lofty sky for along time, as they seemed to be afraid, that, vying with theGaṅgâ, theflood of the waters of the Yamunâ, which resembles dense darkness, or that the ridgeof theVindhya (mountain) had risen again, in order to obstruct their path in the heavenly sphere!  
@@ -6356,8 +5996,6 @@ Oṁ. (Verse 1.) May that Vishṇu destroy your sins, having seen whose foot, wh
 
 23 Professor Kielhorn has favoured me with the following explanation of the words dhanadopi na pramatto : “Iwould compare Vâsavadattâ, p. 111: dhanadenâpi prachetasâ. At least na pramatta isthe same asprachetas, and Ishould almost think, that the anthor of the inscription remembered the quotation from Vâsavadattâ:—Dhanada (Kuvera) is not prachetas (Varuṇa), hence pramatta ; Vâillabhaṭṭa is not pramatta, hence prachetas (attentive).”
 
-
-
  the Kṛita (age) ; who possessed a gracious appearance, who avoided the intercourse with the wicked and who was skilled in all arts.  
  (11.)  He (continued) to bear the burden (of his father’s office), not because he was desirous of worldly (power), (but) because he could not bear to hear it said, that a son had never becn up to his father’s affairs.  
  (12.)  As the milk-occan by the rutting-juice (of elephants), he-was continually purified by the water (poured out) at donations, and as Prajâpati-by the lotus (that rose from Vishṇu’s navel), he was embraced by the goddess of prosperity.  
@@ -6373,8 +6011,6 @@ Oṁ. (Verse 1.) May that Vishṇu destroy your sins, having seen whose foot, wh
  (22.)  Having observed his virtues, the illustrious Âdivarâha and who wished to conquer the three worlds, appointedshim to the guardianship of Gopâdri.  
  (Vv. 23 to 25.)  This great and passionless man, who had married Vavvâ, the daughter of Kanhuka and mother of (his) favourite daughterSomaṭâ, further Goggâ, the daughter of Bhaṭṭa, then Gaurî, the daughter of Mahâdeva, Sillâ, the daughter of Govardhana, and Îsaṭâ, the daughter of Nannaka, built, for the increase of the spiritual merit of Vavvâ, &c., and of himself, this temple of Vishṇu, which is an even path to beatitude, a great ship for crossing the ocean of existences, the seed of the tree
 
-
-
   **INSCRIPTIONS OF VAILLABHATTASVAMIN TEMPLE AT GWALIOR.**  
 
 of spiritual merit, which bears endless fruit²⁴, the permanent abode of the goddess of prosperity and, so to say, a receptacle of (his) fame, cutby the chisel, and marked with the syllables of (his) name.  
@@ -6383,7 +6019,6 @@ of spiritual merit, which bears endless fruit²⁴, the permanent abode of the g
 
                          SECOND INSCRIPTION.  
 
-                                
 TEXT.  
 
  (L.1.) ओंनमो विष्णवे॥ सम्बत्सरशतेषुनवसु त्त्रयस्त्रिङ्श[^874]दधिकेषु माघशुक्लद्वितीयायां सं ९३३ माघशुदि २ अद्येहश्रीगोपगिरौस्वामिनि।  
@@ -6420,8 +6055,6 @@ TEXT.
 
 [^881]: "The rover ग्नोis indistinc"
 
-
-
 **(12.) उपरिलिखितदेवकुलाभ्यां द्वाभ्यामपि दीपतैलार्थं श्रीसर्व्वेश्वरपुरनिवासितैलिकमहत्तक भोशाकसुतसर्व्वस्वाक (।) तथा माधव -  
 (13.) सुतज्याशक्तितथा शिवधरिसुतसाहुल्लतथा सङ्गाकसुतग्गोक। तथा श्रोवत्सस्वामिपुरतिवासितैलिकमह-  
 (14.) त्तककुण्डाकसुतसिंघाक तथा वल्लूकमुतखोहडाक। तथा चञ्चिकाहट्टिकानिंवादित्थहट्टिकयोर्न्निवासितैलिकम -  
@@ -6445,7 +6078,6 @@ TEXT.
 
 [^886]: "There follows an illegible scrawl, which fills the remaindor of line 23 and four further lines."
 
-                               
 TRANSLATION.  
 
 Oṁ. Adoration to Vishṇu! In the year nine hundred and thirty-three, on the second day of the bright (half) of Mâgha,—Saṁ\[ vat\] 933, Mâgha śudi2—to-day, here at Śrî-Gopagiri, while the parameśvara Śrî-Bhojadeva was the ruler, while the guardian of the fort (koṭṭapâla) Alla commanded this (Gopagiri), while Tattaka commanded the army (and) while the merchant Vavviyâka, the trader Ichchhuvâéka, and the other (members) of the board (? vâra) of the Savviyâkas were administering the city, the whole town gave to the temple of the nine Durgâs, viz. of Rudra, Rudrâṇî, Pûrṇâśâ, &c., which Alla, the son of Vâillabhaṭṭa, had caused to be built on the further bank of the‘ Vṛiśchikâlâriver, a piece of land belonging to the village of Chûḍâpallikâ, which was its (viz,the town’s) property, two hundred and seventy royal hastas—hasta 270—in length (and) one hundred and eighty-seven hastas—hasta 187—in breadth, for a flower-garden, on an auspicious day.  
@@ -6453,16 +6085,9 @@ Oṁ. Adoration to Vishṇu! In the year nine hundred and thirty-three, on the s
 9हू might be alsoread instead of द  
 14 Read पच्यते.
 
-
-
 **PALÆOGRAPHIC ALPHA BET OF THE SIVASKANDAVARMAN GRANT.**  
 
-
 ![](../books_images/U-IMG-1710154041EP-4.png)
-
-
-
-
 
  (Ll. 5—-11.)  And this same town gave in this same year, on the first day of the dark half of Phâlguna, to the Vishṇu temple called Vâïllabhaṭṭa-svâmin, which Alla had likewise caused to be built on the descent of the road of Śrî-Bhojadeva, and to the above mentioned temple of the nine Durgâs, for the performance of worship, the field cultivated¹⁶by Dallaka, the son of Saṅgaḍaka, in the chief grain-land (?mûlâvâpa) of the common¹⁷called Vyâghrakeṇḍikâ, in the villageof Jayapurâka, which was its (viz. the town’s) property, and on the north of this same field, the field cultivated by Memmâka, the son of the Kshatriya Devavarman¹⁸the seed required for which two (fields) is eleven droṇas of barley according to the measure of Gopagiri;¹⁹—the boundaries of these two fields are: on the east, the field cultivated by Naüḍâka; on the south, a piece of rock²⁰ ;on the west, near the field of Dallaka, a piece of rock, and near the field of Memmâka, a water-channel,²¹which leads to the north and runs round the ficld; on the north, a road and a small piece of rock ;—the two fields, thus defined by their four boundaries, on an auspicious day.  
  (11—17.)  And in this same year, on the ninth day of the dark half of Phâlguna, (the town) gave to the two above-mentioned temples a perpetual endowment²²to the effect that, in order (to provide) oil for the lamps, the chiefs of the oil-millers, who dwell in Śrî-Sarveśvarapura, (viz.) Sarvasvâka, the son of Bhochchâka, Jyâśakti, the son of Mâdhava, Sâhulla, the son of Śivadhari, and Gaggîka, the son of Saṅgâka; the chiefs of the oil-millers, who dwell in Śrîvatsasvâmipura, (viz.) Siṅghâka, the son of Kuṇḍâka, and Khohaḍâka, the son of Vallüka; the chiefs of the oil-millers, who dwell in Chachchikâhaṭṭikâ and Nimbâdityahaṭṭikâ, (viz.) Jajjaṭa, the son of Detivika, Goggdka, the son of Vachchhilléka, Jambeka, the son of Deddika, and Jambahari, the son of Rudrata, and the other (members) of the whole guild of oil-millers should give one palikd of oil per oil-mill²³on the ninth day of the bright (half) of every month.  
@@ -6480,8 +6105,6 @@ Oṁ. Adoration to Vishṇu! In the year nine hundred and thirty-three, on the s
 **²³** Kolhuka is the same as Hindi kolhu, “an oil-mill ;"—see Grierson, u. s. p. 46.  
 ^(**24**) With mallika-mahara compare tailika-mahattaka(lines 12, 13and 14) and mahar, “a chief” (Bate).
 
-
-
  for (the requirements of) worship, fifty garlands—mâlâ50— of such market flowers as are available at the particular season.  
  (20—23.) These aboveementioned gifts were made by the above mentioned town, &o., from their property for as long a time as the moon, the sun and the earth exist. Nobody shall cause obstruction (to the present owners). For (Vyâsa has said) : \[Here follow two of the usual minatoryverses\].
 
@@ -6495,8 +6118,6 @@ Oṁ. Adoration to Vishṇu! In the year nine hundred and thirty-three, on the s
 [^887]: "See Journ., Beng. As, Soc., vol. XXXII, p. 227."
 
 [^888]: "The inscription (or rather Dr. Hall's short account of it
-
-
 
 to line 89, they are regularly and beautifully formed and skilfully engraved. The execution of lines 40-46 is some what inferior to the rest, and the difference in appearance is rendered more marked by the imperfect state of preservation of these concluding lines. The language of the inscription must be described as Sanskrit. Unless there was a date in any part of the concluding lines which is now illegible, the inscription itself is not dated; but it contains ten dates, some of which’ are historically important, while one is sufficiently particularized to ascertain from it the era employed, by calculation, as will be shown below.  
  The inscription consists of two parts, The first and by far the larger portion extends to about the middle of line 39; it is in prose, and records a large number of donations made at different times, from the (Vikrama) year 960 down to the. (Vikrama) year 1025, and nearly every one of them by private individuals, in favour of various Brhamanical deities, at Sîyaḍoṇî. The second part, which is almost entirely in verse, comprises the remaining portion up to the end, and records the erection of a temple of  
@@ -6513,10 +6134,6 @@ To treat fully of the language of the first part, would require almost a separat
 
  The rules of saṁdhihave been persistently neglected ; and as a specimen of an extraordinary saṁdhi I may point out सुतारेभि\], for ०**सुतारेभि\[:\]**, for, i.e,° **सुताएभिः,**i.e,° **सुताः एभिः**, in line 85.
 
-
-
-
-
  As regards the treatment of nouns in general, case-terminations have often been altogether omitted; sometimes wrong cases have beenemployed, masculine words treated as if they were neuter, and masculine or neuter forms of adjectives and pronouns used with reference to feminine nouns, etc. Thus, to give a few examples, instead of the wellknown phrase **परिपन्थनांकरोति**, we read fifteen times **परिपन्थनाकरोति** (e.g., in lines 8, 9, 16) ; and similarly ०**विधारणा करोति**, lines 13and 20; **परिपन्थनावाधा करोति**, line 17; **परिपन्थनाखश्राकरोति**, lines 6 and 15; and **खश्रावाधा ददाति**, line 39. In line 3we find **प्रतिष्ठापित**, qualifying **नारायणभट्टारकस्य**, which is separated from it by other inflected words ; in line 4 **वावण** (for **वावणो**) **गोंदासुत**: ; in linc 39 **सिरिधर** (for **श्रीधरस्य**) **महादित्यसुतस्य**; in line16 **अवलिप्त** (for **अवलिप्ती**) **उवटकसहितौ^(5[^891].)**The words **अधिकार, आघाट, पाद, भाग, हस्त** are used as neuters in lines 34; 7, 12, 13, etc.; 6; 24, 29, 30; 26. In line 9 we have the Nominative **स च स च** for the Instrumental **तेनतेन** ; in line 34 the Accusative ° **समेतां** for the Nominative ०समेता; in lines 32, 33, 38, 14, 22, **अस्य** and **अमीषाम्‌** for the feminine forms **अस्याः** and **अमूषाम्‌** or **आसाम्‌**. The final visarga of certain case-terminations has complctely disappeared, e.g, in „° **पातकै**, lines 6, 15, 16, ctc., and in "हेतो, lines 20, 25, 31^(6[^892].)  
  An extraordinary construction of the cardinal numerals, which I have already pointed out in other inscriptions, is illustrated by **युगैकं**, line 20, **सहस्रैकं**, line 28, **पादैकं** and **द्रन्मैकं**, line 37, **वीथीद्दौ**, line 16, and **गृहद्दौ**‘two houses,’ line 24. And, speaking of numerals, attention may be drawn here to the three different expressions **मञ्चमहापातकै**in line 6, **महापञ्चपातके** in lines 15, 16, 18, and **महापातकपञ्चकै**or **कै**in lines 10, 27, 30; and to the strange **संवत्सरसतेषु नवसत** (i.e.,**नवशत**, for **नवसु**); meant to denote ‘nine hundred years,’ in lines 2, 5, 8, and 11.  
  The number of finite verhal forms employed is, as might have been expected in a record of the Middle Ages, small; and among them, I need point out only **लिप्यति**, used in a passive sense, in lines G, 10, 15, etc. Among the verbal derivatives, there occur thewrong Gerunds **लक्ष्य**, line 6; **उपर्ज्जयित्वा**, line 17, **क्रयित्वा**line 25 (for **क्रीत्वा**, lines 9, 10, 19), **एकमतीभूत्वा**, lines 29, 80, and 33, and **लिखाप्य**, line 38; with the last of which may be compared the primary nouns **पूजापन** in lines 11 and 87, and **मोचापन** in line 38. And anomalously used is the Gerund **मिलित्वा** in the phrase **समस्तलोकानां मिलित्वा**in line 26, apparently meaning before all the people assembled.  
@@ -6526,8 +6143,6 @@ To treat fully of the language of the first part, would require almost a separat
 [^891]: "one case-termination suffices for several nouns, as it already does, occasionally, in the Rigveda."
 
 [^892]: "In कैेसिपावारु च्छितरावारु, line 4, we seem to have ApabramsaNominative cases; seeInd. Ant., vol. XVI, p. 207."
-
-
 
 **जोगूकद्रकादीनां**, line 29 (and similarly in lines 7, 19, 20, 27, and 81), where; in proper  
 Sanskṛit, the formation of a Dvandva compound would have been resorted to.  
@@ -6578,8 +6193,6 @@ Sanskṛit, the formation of a Dvandva compound would have been resorted to.
 
 ** नेमक** in **नेमकवणिक**, lines $, 11, 16, etc., and **नेमकजातिवणिक**, line 87; perhaps equiva. lent to the Hindî and Marâṭhî **निमक**‘salt.’
 
-
-
 **पञ्चकुल** in lines 2, 18, 29, 30, 36; an office, apparently similar to the Marâṭhî **पंच**or  
 **पंचाईतः**Compare Ind. Ant., vol. XI, p. 221, 1. 21, and p. 242, 1. 9; also vol. XII, p. 195, note.  
 **पश्चिक** in **कल्लपालमहत्तकपञ्चश्चिक**, line 19.  
@@ -6602,11 +6215,7 @@ Sanskṛit, the formation of a Dvandva compound would have been resorted to.
 **प्रसन्नहट्ट**, line 18, and **महत्तकहट्ट**, lines 45 and 46; (also in **हट्टरथ्या**, lines 12,14, ete.)  
  As regards the contents, the first part of the inscription is divided, by means of ornamental full-stops, into twenty-seven scctions; and it records as many donations, made at different times, and almost all of them by traders and artizans, for providing the usual materials of worship of Vishṇu and other deities, at the town of Sîyaḍoṇî. The inscription, in fact, is a collective public copy of a series of deeds; and the occasional remarks that a certain portion was written by the karaṇika, or writer of legal documents, Sarvahari, the son of Bhochuka (line 4), another by Rachchhâka, the son of Sarvahari (line 34), another by Svâmikumâra, another son of Sarvahari (line 36), and another again by the karaṇika Dhîravarman, the son of Svâmikumâra (line 39), were copicd with the rest from the original deeds, and must not be taken to refer to the inscription itself. There are some, I believe, minor points in several of the deeds here presented to us, which, owing at least in part tothe ungrammatical state of the language and to the employment of obscure expressions, I do not fully understand. But the general import of tho various donations is clear enough, and may be seen from the following statement, from which I omit, as of no interest, all reference to the boundaries of buildings which in the original are given with scrupulous care.Any
 
-
-
 remarks of historical importance or of more general interestwhich may be incidentally furnished by these deeds,—considering the great length of the inscription, they are disappointingly few,—will be treated of below.  
-
-
 
 **Abstract of the contents of the first part of the inscription (lines 1—39).**
 
@@ -6624,8 +6233,6 @@ remarks of historical importance or of more general interestwhich may be inciden
  12.(20—21\]: The merchant Nâgâka, son of Châṇḍû, gave an endowment realizing a payment of two kapardakas on cortain yugâsin the Dosihatta (?).  
  13.\[21—22\]: Nâgâka gave a vîthî acquired in the Dosihaṭṭa to Śrî-Nârâyaṇa-bhaṭṭâraka.  
  14.(22—23\]: Nâgâka, son of Châṇḍû, gave three vîthîs of his own to Śrî-Nârâyaṇa-bhaṭṭâraka.
-
-
 
  15.\[23—24\]: The merchant Bhâïla, son of Govinda, gave a hereditary vîthî(realizing one-third of a vigrahapâlîyadramma ?) to Śrî-Vâmanasvâmideva.  
  16. \[24—25\]: Nâgîka gave two houses to Tribhuvanasvâmideva.  
@@ -6648,8 +6255,6 @@ remarks of historical importance or of more general interestwhich may be inciden
 ^(**7**)Compare also Ind. Ant,, vol. XVI, p, 202.—Vishnu bears the name Vaillabhattasvamin in the Gwalior inscription, edited by Dr. Hultzsch, ante, p.154.—In the present inscription, I would draw attention to the name Śrî –A\[mba\]luhidevi,  
 which ocenrs in line 35, and which may denote a divinity. \[Possibly the god Bhâilasvamin was named after the merchant Bhaila (line 23), who wight have been the father of the merchant Vikrama (lino 29), who founded the temple. —E.H.)
 
-
-
 Pañchiyaka-dramma, lines 6 and 37; Vigrahapâla-dramma, line 30; Vigrakupâlîya-dramma, line 24; Vigrahapâlasatka-dramma, line 9; and Vigrahatuṅgîya-dramma, line 90; Śrîmadâdivarâha, line 19, and Śrîmadâdivarâha-drayma, line 37; Varâhakaya-viṁsopaka (?), line 10, and Vigraha-dramma-visovaka, line 26; and Kapardaka, linc 20; to which may be added here at once, from the second part of the inscription, Kâkiṇî and Varâṭakâ, in line 45.  
   Among the donors, the only personage of importance is Undabhata, who is described here (in line 5) as mahâprâlihâra, samadhigatâseshamahâśabda, and Mahâsâmaniâhipati, and who clearly is the MahâsâmantâhipatiUndabhaṭa, mentioned, with the date 960, in two short inscriptions at Terahi, a village about twenty-seven miles NW. of Sîyaḍoṇî. I have shown elsewhere^(**8**)that the date of the Terahi inscriptions must be referrod to the Vikrama era, and this alone would prove that the date assigned toUndabhata’s donation in the present inscription, the year 964, and together with it all the other dates, aro recorded in the same era. But cven irrespectively of the Terahi inscriptions, the date of the donation No. 18, in which the 5th of the dark half of the month Vaiśâkha of the year 994 is coupled with a saṁkrânti or entrance of the sun into a sign of the zodiac, contains sufficient data to enable us to prove that the era which we are here concerned with is the Vikrama era, that the years mentioned are southern Vikrama years, and that the arrangement of the lunar fortnights follewed was the amânta or southern arrangement. For, taking the figures 994 to denote the southern, Vikrama year 994 expired, the 6th of the dark half of Vaiśâkha, by the amânta scheme of the lunar fortnights, corresponds to Sunday, 22nd April, A.D. 938, when the 5th of thé of the dark half ended about 17h. 45m. after mean sunrise, and whea, about 14h. Giz. after mean sunrise, the sun did enter into the zodiacal sign of Vṛisha, exactly as required by the details of the date.**⁹**’Accordingly, the donations spoken of in the inscription were made between A.D. 903-4 and 968-9.  
  From the introductory remarks to the donations Nos. 11, 21, 23, and 27 (lines 18, 29, 80, and 36) we learn that the town of Sîyaḍoṇî, in the year 969= A.D. 912-13, was held by (or, as the inscription expresses it, was in the enjoyment of) the Mahârâjâdhirâja, the illustrious Dhurbhaṭa; and in the years 1005=A.D. 948-49, 1008= A.D. 951-52, and 1025=A.D. 968-69, by the MahârâjâdhirâjaNishkalaṅka. A third personage, described, so far as one can sec, as samadhigatâśeshamahâśabda and Mahâsâmantâdhipati, who appears to have held a position similar to that of Dhûrdbhaṭa and Nishkalaṅka, was mentioned, with the date 960=A.D. 903-4, in line 2, but his name is
@@ -6670,8 +6275,6 @@ and samkrantistovk place on 22nd March and 22nd April;
     b. by the amanta scheme, Sunday, 22nd April, A.D, 938 ;  
       and samhkrantis took place on 22nd March and 22nd April,
 
-
-
 bhaya or Nirbhayanarendra, and that Râjaśekhara in some passages of his plays now illegible. Under these nobles, the affairs of the town would seem to have been managed by an assembly of five called pañchakula, and by a committee of two, appointed from time to time by the town. The Mahârâjâdhirâjasthemselveswere subordinate to, and derived their authority from, the paramount lords of the country, of whom the inscription mentions :—  
  Inline 1, with the date 96(0=A.D. 903-4, the \[ Paṛamabhaṭṭâraka\] Mahârajâdhirâjas, and Parameśvara, the illustrious Mahendrapâladeva¹⁰\[meditating, in all probability, on the fect of the Paramabhaṭṭâraka, Mahârâjadhirâjas, and Parameśvara, the illustrious Bhojadeva\];  
  In line 4, with the date 964=A.D. 907-8, again, the same P. M. and P. the illustrious Mahendrapâladeva, meditating on the fect of the P. M. and P. the illustrious Bhojadeva; and  
@@ -6679,12 +6282,10 @@ bhaya or Nirbhayanarendra, and that Râjaśekhara in some passages of his plays 
  We are nowhere in the inscription distinctly told what was the name of the country over which these particular sovercigns held sway, or of their capital; but as the inscription, in line 40, speaks of a ruler of Mahodayâ who granted a town to certain Brâhmaṇs descendants of whom lived at Sîyaḍoṇî, we shall not be wrong in assuming that Bhojadeva, Mahendrapâladeva, Kshitipâladeva and Devapâla were kings of Mahodayâ, better known as Kanyakubjâ (or Kanauj).  
  The main importance of our inscription then linesin this, that it furnishes, together with certain dates, the names of two pairs of kings of Kanyakubjâ,—
 
-
 Bhoja; succeeded by  
 Mahendrapâla, who was ruling in A.D. 903-4 and 907-8 ; and  
 Kshitipâla; succeeded by  
 Devapâla, who was ruling in A.D. 948-49.
-
 
  Of theso, I do not hesitate to identify Bhoja with the Bhojadeva of the Deogaḍi, Gwâlior, and Peheva inscription¹¹of A.D, 862, 876, and 882.  
  As regards Kshitipâla, there is nothing in our inscription to show that he was the immediate successor of Mahendrapâla; but I shall try to prove that such was the caseand that Kshitipâla, in fact, was the son of Mahendrapâla.  
@@ -6697,14 +6298,9 @@ Devapâla, who was ruling in A.D. 948-49.
 **¹²** SeeInd. Ant., vol. XVI, pp. 176-178,  
 **¹³** See Guttingische Gelchrte Anzcigen, 1893, p. 1221.
 
-
-
-
 describes himself as the guru or upâdhyâya of this same Nirbhaya, while elsewhere he either calls himself the guru of Mahendrapâla, or describes Mahendrapâla as his śishya, Mr. Fleet passes over Professor Aufrecht’s identification of Nirbhaya with Mahendrapâla,^(**14**)the correctness of which would appear to be almost selfevident; but in identifying the poet’s Mahîpâla with the king Mahîpâla of theAsnî inscription**¹⁵**of the (Vikrama) year 974, he has been the first. to prove that Rajaśekhara lived in the beginning of the tenth century A.D. What was wanted to remove all possible doubt as to the correctness of Mr. Fleet’s identification, was an epigraphical record in which Mahîpâla is connected with Mahodayâ, and which furnishes the name of Mahîpâla’s father, Mahendrapâla ; and this want is supplied, I believe, by the present inscription, the probable importance of which Mr. Fleet has not failed to notice.  
  The names Mahîpâla and Kshitipâla being synonymous, I now identify the Kshitipâla of the present inscription with the Mahîpâla of the Asni inscription, whom from that very inscription we know to have ruled in A.D. 917-18; and I consider our Mahendrapâla, for whom we have the dates A.D, 953-4 and 907-8, to be Râjaśekhara'sMahendrapâla, alias Nirbhayanarendra, the father of Mahîpâla (our Kshitipâla). I also, of course, accept Mr.Fleet’s statement that the Mahishapâla,^(**16**)who in the Asnî inscription is described as the predecessor of Mahîpâla, must be identical with Nirbhayanarendra (or, I may add, Mahendrapâla); and I am, I believe, able to show that Kshitipâla or Mahîpâla,—just as his father had three names,— in all probability also wasknown by a third namewhich is preserved to us in the Khajuraho inscription of theChandella Yaśovarman of the (Vikrama) year 1011,=A.D. 954-55. From that inscription we learn that Yaśovarman (alias Lakshavarman) had reccived a certain image of Vaikuṇṭha from Devapâla, who must have been a well-known royal personage, the son of Herambapâla, the image having previously been received by Herambapâla from Sahi, the king of Kira. The reign of Yaśovarman having closed (probably shortly) before A.D, 954, the Devapâla spoken of in his inscription can be no other than our Devapâla of Mahodayâ, for whom we have the date A.D. 948-49, and his father Herambapala therefore in all likelihood is no other than Kshitipâla, alias Mahîpâla.  
  To sum up, the names of the four sovereigns of Mahodayâ or Kanyakubjâ, presented to us in our inscription, together with their known dates, would be as follows :—
-
-
 
 (1) Bhoja, A.D. 862, 876, and 882.  
 (2) Mahendrapâla, or Nirbhayanarendra, or Mahishapâla, A.D. 903and  
@@ -6719,14 +6315,9 @@ describes himself as the guru or upâdhyâya of this same Nirbhaya, while elsewh
 ^(**15**)First edited by Mr. Fleet in Ind. Ant., vol, XVI, pp. 173-175.  
 ^(**16**) Igive this name on Mr. Fleet's authority. The published photolithograph would rather have indveed we to conjecture Mahendrapala (probably for Mabindrapala, if not actually Mahendrapala).  
 
-
-
-
-
  (4) His son Devapâla, A.D. 948; contemporaneous with the Chandella Yaśovarman (alias Lakshavarman). Whether Devapâla is identical with Vijayapâla, who in an inscription from Alwâr, of the Vikrama year 1016=A.D. 959-60, is described as the successor of Kshitipâla, I am unable to determine (see Proceedings, As. Soc. Beng., 1879, p. 162).  
 
  I abstain for the present from any speculations on the possible predecessors or successors of these kings, but, in conclusion, I must point out that our Devapâla can have nothing to do with the Devapâla in Dr. Hornle’s list in the Centenary Review, Beng. As. Soc., part I\], p. 208, or in the lists of Sir A. Cunningham in Archæological Survey of India, vol. XV, p. 149, and elsewhere.
-
 
 THESECONDPART.
 
@@ -6735,8 +6326,6 @@ THESECONDPART.
  \[This temple of Vishṇu has since been identified by Dr. A. Führer with a large ruined shrine at the neighbouring village of Satgatto, to the NE. of Sîroṇ. Near the ruined temple is a large baoii or well, still in fair preservation, and the village abounds in finestatucs of Vishṇu,—some of which have been transferred to the Lucknow Museum.—J. B.\]  
  I have stated before that the concluding lines of the inscription are more or less damaged, and there are some passages in them which, in consequence, I fail to understand properly; but the above gives correctly the general sense of the original, and I have omitted nothing which would be of any importance to the historian.  
  The town Râyakka, mentioned in the above, I am unable to identify. With the term Râyakkabhaṭṭa we may compare Râyakavâla, the designation of a Brâhmaṇcaste, in line 27 of the inscription of Bhîmadeva II. published in Ind. Ant., vol. XI, p. 71.
-
-
 
 TEXT[^893]
 
@@ -6794,9 +6383,6 @@ TEXT[^893]
 
 [^915]: " one of two verbs is superfluous; read स पञ्चमहापातकैर्लिप्यति."
 
-
-
-
  7. वहुलूरुद्रगणयोर्व्वारेवारप्रमुखस्थानेन निवेदिता अक्षयनीमिका ॥॥ अस्मिनेव[^916]काले तथा चण्डुकेन सङ्गटसुतेन प्रतिष्ठापितपश्चिमाभिमुखश्रीविष्णिुभट्टारकस्य समर्प्पिता वणिकचण्डुकस्तथा सावसस्तथा माहपा\[[^917]दिभि?\]स्माङ्गटसुतैः स्वकीयस्वकीयच्छाया \[आ\]त्मीयअवासनिका उत्तराभिमुखा अस्याभ्यन्तरे उत्तराभिमुखगृहाणि चत्वारि अपसरकसहितानि अवलिप्तसिलाच्छ\[त्रा\]नि अवासनिकाय\[श्वा\]घाटानि लिख्यन्ते \[पूर्व्वे\])ण र -  
  8. थ्यादक्षिणेन चण्डुकीयावासनिकास्वोलिकापात॑ पश्चिमेनसीशकीयदेवसत्कअवासनिका उत्तरेण च्छेण्डिका मर्यादाएवं चतुराघाटचिङ्कोपलक्षिता महद्वर्म्महेतोरवलेपनसम्मार्ज्जनधूपप्रदीपनैवेद्यार्थंप्रदत्ता यः कश्चित्परिपन्थना करोति स चमहानरकं व्रजति ॥ मतं चण्डूसावसमा[^918]हपानां साङ्गटसुतानामिति ॥ ॥तथा सम्वत्सरसतेषु नवसत पश्चषष्यधिकेषु अश्विनमासे प्रतिपदायां सम्वत्९६५ अश्वि\[नसु\]दि१  
  9. वणिकनागाकेन चण्डूसुतेनापरिमितमूल्येन क्रीत्वाकुम्भकारदैवैकअइचागा\।न्दू\।कलिआकादीनां अक्षयनीमिका देवस्य समर्प्पिता॥ क्व॥ तथा समस्तकल्लपालानां मध्ये यस्य यस्य सत्कमद्यभाण्ड निपद्यते विक्रयं याति स[^919]च स चाचन्द्रार्क्कं यावद्विग्रहपालसत्कद्रर्म्मार्द्विका[^920]ताली दातव्या ॥ यष्व[^921]श्चित्परिपन्थना करोति स नरकं व्रजति स्थानीयभूमौ ये भूये भूता[^922]ये भविष्यन्ति कुम्भकारष्वलपालाश्च[^923]तैरक्षयनीमिका पालनी -  
@@ -6837,8 +6423,6 @@ TEXT[^893]
 [^929]: " One विधारण appears superfluous."
 
 [^930]: "The akshara संof this word was originally omitted, and is cngraved above the line, before न."
-
-
 
 कीयोपार्ज्जना प्रसन्नहट्टेउत्तराभिमुखा वीथीअवलिप्ता उवटकसहिता अस्याश्चाघाटानि पूर्व्वेणसुभादित्यस[^931]वीथीदक्षिणेन भट्टदेवप्रसादसत्कावासनिकास्वोलीपातं पश्चिमेन चूंआं-  
   14. वीथी उत्तरेण हट्टरथ्यामर्यादा॥ क्व॥ तथा अपरं चाण्डूकेन साङ्गटसुतेन पितृपितामहोपार्ज्जितं स्वकीयंदक्षिणाभिमुखं वीथीचतुष्टयं [अमीषामाघा\[टा^(x)\]नि][^932]लिख्यन्ते पूर्व्वेण चूंआवीथी दक्षिणेन हट्टरप्यापश्चिमेन स्वकीयवाससनिकाहारोष्ठमर्यादा उत्तरेण स्वकीयावासनिका मर्यादाएवं चतुराघाटचिह्नोपलक्षिता[^933]
@@ -6882,9 +6466,6 @@ TEXT[^893]
 [^947]: "One would expoot पार्ज्जितं."
 
 [^948]: "Read हेतोर्दोसि."
-
-
-
 
  21. स्तथा संकराकस्तथां येम्वराकस्तथा हेम्व\[टा\]कादीनां[^949]दोसिहट्टेसमस्तयुगानामुपरि अक्षयनीमिका प्रदत्ता यङ्कोपिपरिपन्थना करोति स च नरकं व्रजति॥तथा नागाकेन दोसिहट्टे उपार्ज्जिता[^950]पूर्व्वाभिमुखा वीथीअवलिप्ता उवटकसहितास्याश्चाघाटानि पूर्व्वेण हट्टरथ्यादक्षिणेन भट्टजेहरिवीथीपश्चिमेन स्वोलोपातं उत्तरेण च्छेडिका मर्यादा एवं चतुराघाटविसुहाश्रीनारायणभट्टारकस्य स-  
  22. मर्प्पिता यङ्कोपिपरिपन्थना करोति स च नरकं व्रजति ॥॥ तथा नागाकेनचाण्डूसुतेनात्मीयदक्षिणाभिमुखवीथीत्रयं उवटकसहितं अमीषां[^951]अघाटानि लिख्यन्ते पूर्व्वेण शिवभट्टारकवीथीदक्षिणेन हट्टरथ्यापश्चिमेन श्रीमाकीयदेववीथी उत्तरेण नागासत्कअवामनिकास्वोलीपातं एवं चतुराघाटचिह्नोपलक्षिता विलेपनसन्मार्ज्जनधूपप्रदीपनैषेद्यार्थं श्रीनारायणभट्टारकस्य समर्प्पिता  
@@ -6938,8 +6519,6 @@ TEXT[^893]
 
 [^970]: "Read उपार्ज्जना."
 
-
-
   28. गदेवस्तथा महसोणः समस्ततैलिकानां घ्राणकं घ्राणकं प्रतिदिन[^972] महन्तधर्म्मार्थहेतोः तैलपलिका प्रदत्ता ॥ ![](../books_images/U-IMG-1699721964Screenshot(43).png)॥ परमभ**ट्टा**रकमहाराजाधिराजपरमेश्वरश्रीक्षितिपालदेवपादानुध्यात![](../books_images/U-IMG-1699722054Screenshot(44).png) प[^973]रमभट्टार- \[क^(x)\]महाराजाधिराजपरमेश्वरश्रीदेवपालपादानां महीप्रव**र्त**मानकस्याणपविजयराज्ये सम्वत्सराणां सहस्रैकं प**चो**त्तरं माघमासशुक्लपक्षपञ्चम्यां सम्वत् १००५ माघ शुदि ५ अद्येह
 
 [^972]: "In my opinion, one would expect either प्रति प्रतिदिनं, or only प्रति ; see below, line 31."
@@ -6984,8 +6563,6 @@ TEXT[^893]
 
 [^986]: "Tho akshara in brackets looks rather like दघ्नं, or वघ्नं(or दघ्नं
 
-
-
  35. तथा[^987]रुदाक जाजूसुतारेभि[^988]प्र\[ दत्ता\] चण्डूप्रतिष्ठापितपश्चिमाभिमुखश्रीविष्णुभट्टारकस्य चतुष्कहटे[^989][][^989]पश्चिमाभिमुखा वीथी अवलिप्ता उवटकसहिता अतोपसन्ना अस्याघाटानि शिस्यन्ते[¹³](#)पूर्व्वेण \[ओ\] लीपातं दक्षिणेन श्रीघ्र \[म्व\] लोहीदेविजगति![](../books_images/U-IMG-1699808242Screenshot(44).png) पश्चिमेन हट्टरप्या उत्तरेण तिखरावीथी मर्यदा[^991]एवं चतुराघाटविसुद्धा विलेपनसन्मर्ज्जन[^992] धूपप्रदीपनैवेद्यार्थं प्रदत्ता \[यङ्क\] -
 
 [^987]: "This is wrongly repeated here."
@@ -7010,12 +6587,12 @@ TEXT[^893]
 
 [^995]: "Read अनुरूपा."
 
- 39. क्षितिकालिनं याव**ङ्मो**\[क्तव्यं\] यक्कश्चि\[त्खश्रावाधा ? \]\[ददाति\] स च महान्तं नरकं व्रजति मतं सिरिधर महादित्यमुतस्य लिखितं करणिकधीरवर्म्मणा[^996]स्वामिकुमारसुतेनेति ॥ ![](../books_images/U-IMG-1699808134Screenshot(43).png)॥ ओं[^894]ओंनमो, गणपतये। घंतु[^755].")वो गणनाथस्य हस्ताक्षेपवमंथवः। विधंरेणुं क्षितेः क्षिप्रं विन्दुभिर्जलदा इव ॥ योसौ[^465]\[च\] काम धात्रीं गिरिकुहरसरित्सागरानूपरम्यां पादेनैकेन कृत्स्त्रां वलिच्छलनव[^1000]
+ 39. क्षितिकालिनं याव**ङ्मो**\[क्तव्यं\] यक्कश्चि\[त्खश्रावाधा ? \]\[ददाति\] स च महान्तं नरकं व्रजति मतं सिरिधर महादित्यमुतस्य लिखितं करणिकधीरवर्म्मणा[^996]स्वामिकुमारसुतेनेति ॥ ![](../books_images/U-IMG-1699808134Screenshot(43).png)॥ ओं[^894]ओंनमो, गणपतये। घंतु[^693].")वो गणनाथस्य हस्ताक्षेपवमंथवः। विधंरेणुं क्षितेः क्षिप्रं विन्दुभिर्जलदा इव ॥ योसौ[^465]\[च\] काम धात्रीं गिरिकुहरसरित्सागरानूपरम्यां पादेनैकेन कृत्स्त्रां वलिच्छलनव[^1000]
 -
 
 [^465]: "Metre, Sragdhara."
 
-[^755]: "Metre, Sloka (Anushtubh
+[^693]: "Metre, Sloka (Anushtubh
 
 [^894]: "Expressed by a symbol."
 
@@ -7049,8 +6626,6 @@ TEXT[^893]
 
 [^1011]: "Read सिंह०."
 
-
-
  42.दर्प्पशमनप्रो\[द्रु\]तगुंजारवः। मत्वा कौतुकपूरितान्तरगतो राज्ञः समोपेवस\[च्छी\] मन्त हरिराजमाहवह\[रे\]रासाद्यपूजामनु॥ तस्यात्मजः[^1012]ख्यातगुणोपपन्नोदामोदरो नाम \[ज\]गप्रसिद्धः सोसारतां वीक्ष्यहिरण्यजीवात्कारापयामास गृहं मुरारेः॥ ग्रावाणपुंजैरिव सिहकोस्मिन्सोपानमाहत्य ग\[तोन्त\] -
 
 [^1012]: " Metre, Indravajra, and of the next verse."
@@ -7062,10 +6637,10 @@ TEXT[^893]
 [^1014]: "Metre, Sardūlavikridita; read ०बाहुपंजरबृह०"
 
  44. तैस्तालमालामधूकै\[र्न्ना\] रङ्ग्याराजजंव्वा[^1015]फलभरनमितैर्द्दाडि\[मीमातुलुंगेः\]। \[जातीने?\]-वालजालेर्व्विकसितसुमनोमल्लिकामंजरीभिः पुष्पै\[र्व्व\] न्यप्रधानैः सम\[श?\] नरुचिरैराजितंवृक्षषण्डैः॥  
-प\[त्तना[त्पूर्व्वमारामं\]][^755].")मंदाकि\[ न्या\] दिगुत्तर \[म्।\] ददौ स नित्यपू\[जार्थ\] न्तस्मै सत्कारसिद्धये ॥ विप्रकीयगृहपश्चिम[भा\[गा?\]][^1017]
+प\[त्तना[त्पूर्व्वमारामं\]][^693].")मंदाकि\[ न्या\] दिगुत्तर \[म्।\] ददौ स नित्यपू\[जार्थ\] न्तस्मै सत्कारसिद्धये ॥ विप्रकीयगृहपश्चिम[भा\[गा?\]][^1017]
 -  
 
-[^755]: "Metre, Sloka (Anushtubh
+[^693]: "Metre, Sloka (Anushtubh
 
 [^1015]: "Read ०जम्वा."
 
@@ -7102,8 +6677,6 @@ TEXT[^893]
 
   The inscription contains 16 lines. The writing covers a space of about 2' 4” broad by 1' 4” high, and is well preserved almost throughout. The size of the letters is between ½" and 5/8". The characters belong to the northern class of alphabets, and they are in every respect very similar to those of the Bodh-Gayà inscription of Malânâman of the ( Gupta) year 269, = A.D. 588-89, & photo-lithograph of which has been published in the *Indian Antiquary*, vol. XV, p. 358. As regards individual letters, it may be noted that *r*, as the first part of a conjunct, while it is ten times denoted by the superscript.
 
-
-
 sign, is fourteen times formed on the line, with the following consonant (or consonants) below it; e.g., in *arthinah*, line 8, *sarvveshám*, line 9, *niryayuh*, line 10, *Kuladipakirtti*, line 14, *Vahurúpaśarmmâ*, line 15, &c. The language is Sanskrit, and excepting the introductory *om namaḥ*, and the names in lines 13-15, the inscription is in verse. In respect of orthography, I'need only note that *b* is throughout written by the sign for *v*; that *t*, in conjunction with a following *r*, is doubled, except where it is preceded by 8, e.g., in *puttram ttrayi*-, line 9, and *chittram ttraividya*-, line 11; that the guttural nasal has been employed instead of the *anusvára*, in *sinha*, line 1; and that the rule of *samdhi* has not been observed in -*samvidhi*, line 12.
 
  The inscription records (v. 15) the erection of a building for Brâhmans familiar with the three *Vedas*, by a personage named Harivarman, and surnamed the illustrious Mamma (vv. 4 and 18), the son of Haridatta (v. 2); and it gives (ll. 13-15) the names of six Brâhmans who appear to have been the first occupants. Harivar- man, we learn from vv. 13 and 14, had a son named Takshadatta who was killed in battle, and in memory of whom the building would seem to have been erected.
@@ -7135,11 +6708,7 @@ sign, is fourteen times formed on the line, with the following consonant (or con
 
 [^1004]: "Metre, Sloka (Anushţubh
 
-
-
 ![](../books_images/U-IMG-1698295804Screenshot(32).png)
-
-
 
 **2.                   स्थातो हरिरिवापरः ।**
 
@@ -7170,17 +6739,17 @@ sign, is fourteen times formed on the line, with the following consonant (or con
 **  अनेकसंय-  
 
 5.         हिजयाङ्कसंख्या निखातरेखा इव यस्य रेजुः॥ 6.  
- सरागयापि[^755].") यस्यासीहयं द्रष्टुं न पारितं ।  
+ सरागयापि[^693].") यस्यासीहयं द्रष्टुं न पारितं ।  
   यत्पृष्ठमरिवाहिन्या यच्च वक्षःपरस्त्रिया ॥ - 7.  
   प्रजापतिं[^1038] निर्म्मित -  
 
-[^755]: "Metre, Sloka (Anushtubh
+[^693]: "Metre, Sloka (Anushtubh
 
 [^1038]: "Metre, Upendravajra."
 
 6.         सप्तसागरक्षमाधरं यो लघयन्मिसृक्षया ।  
   महादानम्वु (म्बु) निधीनकल्पयत्सुराधिवासानचलांश्चकोटिशः ॥ –8.  
- महान्तः[^755] ;and of the next four verses.") कर्कशात्मानो व (ब) इमूला अपि क्षितौ ।  
+ महान्तः[^693] ;and of the next four verses.") कर्कशात्मानो व (ब) इमूला अपि क्षितौ ।  
   सावज्ञ -  
 7.         माज्ञयायेन नतिं नीता महीभृतः ॥ –9.  
   स्वप्रासादमहाभारगुरुभूततनोरिव ।  
@@ -7198,15 +6767,13 @@ sign, is fourteen times formed on the line, with the following consonant (or con
               वयं केव[\[ लं\]][^1045]।  
   इत्युक्तेःपरिवृहमन्यव व प्राप्यवसानान्तरं लब्धा(ब्धा) अव्रणरन्धनिर्ग्गमपथा यस्वासवो निर्ययुः ॥  -14.**
 
-[^755]: "Metre, Sloka (Anushtubh
+[^693]: "Metre, Sloka (Anushtubh
 
 [^1010]: "Metre, Sardulavikridita."
 
 [^1043]: "Read सदा."
 
 [^1045]: "Possibly केवला, i.e., केवलाः"
-
-
 
 रम्ये[^1046] गवीधुमति संततवेदविद्याव्याख्यान -
 
@@ -7272,8 +6839,6 @@ sign, is fourteen times formed on the line, with the following consonant (or con
 
 [^1055]: "soil., when the ocean, the inine of jewels, was disturbed, when the mountain Mandara was used as churning-stick, and when the serpent Vasuki was put in requisition."
 
-
-
  (5.) The fire of his anger even now, in the guise of a forest conflagration, fiercely  
 burns the trees in the gardens of the habitations of the enemies slain *(by him)*.
 
@@ -7317,8 +6882,6 @@ burns the trees in the gardens of the habitations of the enemies slain *(by him)
 
 [^1060]: "The dictionaries give कीहडand कोहल, but not कुहल."
 
-
-
  Śrichandradhara, the son of Udaitadhara (?), of the *gotra* of Vâsishtha, belongingto the Bahvricha-school.
 
  Bahurûpaśarman, the son of Vasusvâmin, of the *gotra* of Aupamanyava, belonging to the Adhvaryu-school.  
@@ -7330,7 +6893,6 @@ theChhandoga-school.
  (V. 18.) By these distinguished (*men*), who keep the commands of the holy three*Vedas (and)* abide in the law, (*this*) home was caused to be established at the command (?) of the illustrious Mamma[^1062].
 
 [^1062]: "[While this paper was in the press a translation appeared in the J. As. S. Beng., vol. LVII, pp. 77 ff., by Dr. A. Führer.-J. B.]"
-
 
 **XXIII.—THE PEHEVA INSCRIPTION FROM THE TEMPLE OF GARÎBNÂTH.**
 
@@ -7344,16 +6906,12 @@ theChhandoga-school.
 
  The object of the inscription is to record the fact that certain pious horse-dealers who met at the horse-fair held at Pehoa-Pṛithûdaka on the fourteenth day of the half month preceding the bright half of Vaisakha, agreed to impose upon themselves and upon their customers certain taxes or tithes, the proceeds of which were to be distributed among some temples, priests and sanctuaries, in proportions duly specified. The names of these worthies are given at great length in lines 2-8. They were thirty-three or thirty-four in number and belonged to the towns or villages of Chaṭavârshikå
 
-
-
 Utpalika, Chikkariselavaṇapura, Valadevapura, Śârańkadika, Siharudukkaka, or possibly Siharuddhakkaka, Traighâṭaka, Ghamghaka and Asvala-Uhovaka. It is expressly stated in line 8 that these places lay in "various countries," and this circumstance makes their identification very difficult. I can only offer a conjecture with respect to a single place, Śârańkadika, which possibly may be the Shârakpur of the *Imperial Gazetteer*, the chief town of a tahşil in the Lahore District. The
 names of the traders seem to be throughout Hindu, though some are very quaint Desi words.In the notes to the translation I have tried to identify the more important ones with those in Mr. E. G. Crawford's list from Ahmadâbâd and Kathiâvâḍ, *Indian Antiquary*, vol. VII, pp. 165 ff. I may add that there are among them some Brâhmanical names such as Vâmuka, and that the first man is called the son of Bhatta Viruka. The sale of horses is forbidden to Brâhmaṇs ;-see Manu, x, 89, and the parallel passages quoted in the synopsis attached to my translation. Here we have a proof that the prohibition was neglected before the Muhammadan times, just as is now sometimes the case.
 
  The tax or tithe imposed was (1) two *dharmas*, to be deducted from the sum received by the dealer for each animal sold in Pṛithûdaka to the king and to any subject, or sold in Traighaṭaka and the other places where the dealers traded, to the king; (2) one *dharma* to be paid by the buyer of each animal in addition to the price stipulated. As far as is known at present, the word *dharma* is not used as the name of a coin or numerical quantity. It must, therefore, be understood to mean a religious gift, the amount of which was settled by custom. Self-imposed taxes for religious or charitable purposes are by no means uncommon in modern India. The cotton merchants at Dhollera used to, and perhaps still, pay a few *annas* on every bale of cotton passing through their hands, and the sum thus collected formed, and perhaps still forms, the Dharmtalao fund, which was originally intended to supply water to travellers coming to Dhollera through the sandy Bhâl country; see also the *Bombay Gazetteer*, vol. IV, p. 208. When I was Educational Inspector of Gujarât, a certain portion of this fund was spent on vernacular education. A similar dharm fund used to exist at Bharoch, where the Vakhâriâs or wholesale dealers in cotton, likewise, taxed themselves and their customers for charitable and religious purposes. There can be no doubt that the case mentioned in our inscription was exactly analogous. The customer paid a small sum, which was called a *dharma,* probably a few *annas*, in addition to the stipulated price, and the dealer contributed double the amount from his gains. The money thus collected was given as *akshayanîvî* (1. 12). If this term were taken in its usual sense, it would mean that the money was to be invested and its interest alone to be spent. That seems, however, not to be the case. For (1) the document contains no clause referring to an investment; (2) it gives rules for the distribution of the money collected; and (3) it clearly indicates that the tax is to belevied not once, but constantly on all sales. Hence the term *akshayaníví* can only mean that this tax itself was to be a perpetual endowment for the donees mentioned.
 
  The donees were (1) the temple built by the illustrious Guhâditya (probably a royal personage) at Kanauj; (2) the temple built by Kadambaditya at Gotirtha in Kanauj; (3) the temple of Vishnu Garuḍâsana built by the Brâhman Bhuvaka in Bhojapura near Kanauj; (4) the temple of Vishnu in the Yajñavarâha or boar-in- carnation built by Bhûvaka in Pehoa-Prithudaka; (5) the *pújaka* or temple priest
-
-
 
 of the latter deity; and (6) the *sthána* or sanctuary of Prithûdaka-Pehoa. The allotment of the shares is as follows:—
 
@@ -7386,8 +6944,6 @@ L.1.ओ[^1066]परमभट्टारकमहाराजाधिराज
  2. ल्याणविजयराज्ये सम्वत्सरशतद्वये षट्सप्तत्यधिके वैशाखमासशक्लपक्षसप्तम्यां सम्वत् २७६ वशाख शुदि ७ अस्यां सम्वत्सरमासदिवसपूर्व्वा[^1067] –
 
 [^1067]: "Read संवत्सर० twice and संवत्."
-
-
 
  3. यां तिथाविहश्री**पृ**थूदकाधिष्ठाने पिशाचीचतुर्दश्यां घोटकया**भा**यां समायात चूटवार्षिकेत्य भट्टवीरुकसुत वन्द तथा राज्यवल तथा वमुक \[[र\]ाणुकसुत][^1068]राज्यसीह उत्प -
 
@@ -7435,8 +6991,6 @@ L.1.ओ[^1066]परमभट्टारकमहाराजाधिराज
 
 [^1079]: "L. 14. The bracketed letters are all blurred, but recognisable."
 
-
-
   15. \[ सन्निधौ\] भूवककारित*यज्ञवराय*[^1080]\[भा\]गाः\[षट् त\]था तत्पूज\[क\]ाय च भागद्वयं तथा श्री**प**थूद-  
 कीयस्थानस्य भागाश्चत्वारोस्माभिः प्रदिपादितास्तद -  
   16. \[नुमान्धंघोटक\] विक्रेतृभि\[:\] क्रेतृभिश्चा\[चन्द्रा\] र्क्क \[का\]लं [याव\[त्\]][^1081]यथोद्दिष्टस्थित्या गोष्ठिकैः स**ज्मिः** स्वतः परतश्च निर्व्वाहः कर्त्तव्यः॥ एते च भागा यथोद्दिष्ट  
@@ -7446,9 +7000,9 @@ L.1.ओ[^1066]परमभट्टारकमहाराजाधिराज
 
 [^1081]: "L. 16. The following among the bracketed letters are not recognisable, but conjectural:-नुमान्धं । चन्द्रा । का । त्,likewise the bracketed Visarga. The word यावत् is superfluous."
 
-**TRANSLATION.**
-
 [^1082]: "L. 17. The bracketed letters are nearly all unrecognisable. But the restoration is nevertheless certain."
+
+**TRANSLATION.**
 
  Om! During the increasing, auspicious and victorious reign of the feet of his majesty, the supreme sovereign, superior king of great kings (and) supreme lord, the illustrious Bhoja who meditates on the feet of his majesty, the supreme sovereign, superior king of great kings *(and)* supreme lord, the illustrious Râmabhadra, in the year two hundred exceeded by seventy-six, on the seventh *(lunar day)* of the bright half of the month of Vaisakha, *(in figures*) Saṁvat 276 Vaisakha śudi 7-on this lunar day specified as above by the year, month and *(civil)* day *(mentioned)*[^1083]*met*[^1084]here in the famous *town*[^1085] of Prithudaka at the *horse-fair*[^1086]on the **Pisachichaturdasi**[^1087] of the female goblin,' probably was the name of the fourteenth lunar day of the dark half of Vaisakha or of Chaitra. For it must have fallen somewhat earlier than the bright half of Vaisakha and may have belonged to that month or to Chaitra accordingly as the reckoning was amânta or pûrnimanta.I have not found the term in the dictionaries nor in the works on vrata at my disposal.")[][^1087] of the female goblin,' probably was the name of the fourteenth lunar day of the dark half of Vaisakha or of Chaitra. For it must have fallen somewhat earlier than the bright half of Vaisakha and may have belonged to that month or to Chaitra accordingly as the reckoning was amânta or pûrnimanta.I have not found the term in the dictionaries nor in the works on vrata at my disposal.")the *(following)* inhabitants of Chûṭavârshika[^1089],Bhaṭṭa Viruka's sons Vanda and *Râjyavala*[^1090]and Valluka, likewise Rânuka's son Rajyasiha; the (*following*) inhabitants of Utpalika, Bhalluka's son Mangaka, Chinha's son *Chonarâka*[^1091];likewise the*(following)* inhabitants of Chikkarisclavaṇapura, Dada's son *Kalluka*[^1092],his son *Jayaraka[^1093]*, Vishnu's son *Adityarâka*[^1094],Rajjuka's sons Chinha and Rangaka, Kalluka's son *Vâmuka*[^1095];the (*following*) inhabitants of Valadevapura (Baladeva-
 
@@ -7475,8 +7029,6 @@ L.1.ओ[^1066]परमभट्टारकमहाराजाधिराज
 [^1094]: "Âdityarâka probably stands for Âdityarâûka and corresponds to the modern Âdit or Âditraj."
 
 [^1095]: "Vâmuka is known as a Brâhmaņical name; Jour. Bo. Br. R. A. Soc., vol. XII, extra number, p. 67."
-
-
 
 pura),Khambhata's son Hoddha, Mriganka's son Viddaka, Kesava's son Dhanuka[^1096], Khangaka's son Vâmuka, Manikka's son Uehari[^1097]; the (*following*) inhabitants of Sarańkadika[^1098], Nara's sons Lohata[^1099](or Lahata) and Sankara, Valluka's son Îśvarâditya; the (*following*) inhabitants of Siharudukkaka,Ullaka's son Vachchhaka, Jayadharaka's son Ranika, Sûra's son Pragada; the (following) inhabitants of Traighataka, Dharata's son Chanda, Ekagoraka's son Savva, Devasarman's son Phampha, Vagguka's son Kammika; the (*following*) inhabitants of Ghamghaka, Lallika's son Svâmirâka, Simghuka's son Si\[ha\], Dâmodara's son Pombha[^1100], Halluka's son Davvu, Kasili, Mâna's[^1101] son Khajji; the (*following*) inhabitant of Asvala-Uhovaka, Usûha's son Vaddha. The foreman of the . . . . dealers[^1102],come from various countries, chief among whom are those mentioned above, grants to the sacred place[^1103] of famous Prithûdaka a charter to the following (*effect*): To the (*temple of the*) god[^1104]built by the illustrious Guhâditya in famous Kanyakubja, and to (*the temple of*) the god built by Kadam bâditya even there in the Gotfrtha, and to the (*temple of the*) god riding on Garuda built by Bhuvaka, the son of the Någara[^1105]Bhaṭṭa Prabhakara on the bank of the Ganges in famous Bhojapura near famous Kanyakubja, and to the (*temple of the*) sacrificial boar[^1106]built by the same Bhûvaka in famous Prithûdaka near the Eastern Sarasvati, we have given on the sale of horses,mares, mules and other animals[^1107]—in' Prithûdaka' in the case of a purchase by the king as well as in the case of a purchase by the Thakkuras,[^1108]the provincials and so forth, and in Traighâtaka and other sacred places in the case of a purchase by the king alone-for the sake of spiritual merit two *dharmas*[^1109]for
 
@@ -7508,8 +7060,6 @@ pura),Khambhata's son Hoddha, Mriganka's son Viddaka, Kesava's son Dhanuka[^1096
 
 [^1109]: "Dharma denotes here and further on, where one dharma is mentioned, a kind of tithe set apart for religiouspurposes. The exact amount cannot be ascertained. It no doubt was regulated by custom, and so well known that its specification seemed unnecessary. In the translation the relative pronoun yad which precodes dharmmadvayam has been left out intentionally, and the word and has been inserted in its stead, in order to make the sentence more intelligible."
 
-
-
 cach animal, as a perpetual endowment[^1110];and dividing that into twenty-four shares, we have assigned seven shares to the (*temple of the*) god built by the illustrious Guhaditya, and seven shares to the (*temple of the*) god built by Kadambâditya, and seven sharcs to *(the temple of)* him who rides on Garuda, and one share[^1111] to the (*temple of thè*) sacrificial boar built by Bhuvaka in Prithûdaka, and one share to the temple priest of the latter, and one share to the sacred place of Prithudaka[^1112]; moreover we have assigned out of the twelve shares into which the one dharma given for each horse by the purchasers of horses has been divided, \[*six*\] shares to (*the temple of*) the sacrificial boar built by Bhûvaka in Prithudaka near the Eastern Sarasvatî and to the temple priest of the latter two shares, and to the sacred place in famous Prithûdaka four shares. This \[*should be agreed to*\] by the sellers and buyers of horses, (*and*) the virtuous *Goshthikas*[^1113] should thus manage on their own part and on behalf of others, according to the rule laid down above, as long as sun and moon exist. Moreover these shares should be divided \[*by the Goshthikas*\] according to \[*the rule*\] laid down above.
 
 [^1110]: "When it is stated that the two dharmas are given as a perpetual endowment, the meaning probably is that the sum was to be paid at each of the annual horse-fairs in Prithûdaka, Traighâțaka and other places where the traders dealt. This follows from the further exhortations addressed to the sellers and buyers as well as to the Goshthikas."
@@ -7528,15 +7078,11 @@ cach animal, as a perpetual endowment[^1110];and dividing that into twenty-four 
 
  It is written in two different alphabets,— the *maṅgala*, and the first verse, which fill the first two lines and the beginning of the third, being in modern Śâradâ characters while the remainder is in common Devanagarî. The technical execution is not good. Some letters are imperfectly formed and the clerical mistakes, which are partly corrected, are very numerous. The latter may, however, in part be due to the carelessness of the writer of the copy from which the mason worked. As regards the preservation of the document, it must be noted that the left halves of lines 7-14 have been seriously damaged, and that further on, too, single letters have been effaced. The language is
 
-
-
 Sanskrit and, towards the end, not free from grammatical mistakes. With respect to the orthography, it may be stated that in the group nt the nasal is almost invariably expressed by an *anusvára* and *n*.
 
  The inscription consists of two entirely distinct parts. Lines 1-14 contain, besides a double *Maṅgala*, nine very artificial verses in honour of Bhavânî-Jvâlâmukhi. Verse 10 informs us that this *Stotra* was composed by an ascetic of the Vedânta school called Raghavachaitanya. A poet of this name is repeatedly and reverentially quoted in Sarngadhara's *Paddhati* (*see Professor Aufrecht's Oxford Catalogue,* p. 124B, and *Zeitschrift* *der Deutschen Morgenländischen Gesellschaft,* vol. XXVIII, p. 76). If, as seems not improbable, the two persons are identical, the *Stotra* must have been composed before A.D. 1363, the date of the *Paddhati*, and be at least about 80-100 years older than the inscription. In the second part, lines 15-24, one Krishṇabhaṭṭa informs us (verse 12) that he copied the above *Stotra,* and tells us regarding himself that he was ‘a brother to the wives of others,' learned in all *Śástras*, a poet, a devotee of Harihara,and originally an inhabitant of Kâsî or Benares. His grandfather, he says (verse 11), who was also called Krishnabhatta, belonged to the Drâvida subdivision of the Brahmans and to the Âtreya gotra, was able to explain the six *Darśanas* and had performed one or several Soma sacrifices. His father Vâgîśvara, he adds *(ibidem),* thoroughly knew the *Mimâmsá*, the *Smritis*, and the science of the sacrifice, and had composed works of his own. Next follows (verses 13-14) the information regarding the ruler of the country, which has already been discussed by Sir A. Cunningham. He was Samsárachandra, son of Karma-chandra and grandson of Meghachandra, "who after conquering all his foes presents the earth to those knowing the meaning of the *Vedas* and of the *Sástras*." The latter words show that Krishnabhatta had received or hoped to receive Dakshiṇâ from the prince.
 
  If I am right in reading (verse 13) *pañchamábdábhishiktaḥ* and in translating it by "who was anointed in the fifth year *(of the Lokakâla)*," it appears that Samsâra- chandra mounted the throne in the year 1430 A.D., which corresponds to the year 4505 of the Saptarshi era; for Sir A. Cunningham *(loc. cit.)* has satisfactorily proved that this king belongs to the fifteenth century, "because he is the fourth after Rûpa-\[chandra\], the contemporary of Firoz Tugblak in A.D. 1360, and the sixth before Dharma\[chandra\], the contemporary of Akbar in A.D. 1560." The following verse (15) praises Saṁsârachandra's minister, the chamberlain *(pratíhára)* Raņî, *i.e*., probably Ranasimha, who was the son of the chamberlain Vira, i.e., Virasimha. Verse 16 is in honour of the Muhammadan overlord Sahi Mahammad, who must be identified, as Sir A. Cunningham has shown, with Muhammad Saiyid, Emperor of Dehli from A.D. 1433 to 1446. Verse 17 gives us the name of the mason Sûgîka who incised the inscription out of devotion towards, *i.e*., while in the service of, the Kamboja Delha. The concluding *mangala* in prose is addressed to Jvâlâmukhi, by one Sûryadhvaja, the pupil of the illustrious Karmadhvaja. This person probably was an ascetic connected with the temple or the worship of Bhavânî-Jvâlâmukhi. The whole second part of the inscription is no doubt the composition of Krishnabhatta, who, though a poet and learned in all *Sástras*, was unable to write correct Sanskrit. The date of the inscription, of course, lies between A.D. 1433 and 1446.
-
-
 
 **TRANSCRIPT.**
 
@@ -7584,8 +7130,6 @@ Sanskrit and, towards the end, not free from grammatical mistakes. With respect 
 **9.    दुर्गार्त्तिवोव्यादलिकुलतरलां\[वै\]जयं\[न्तीं\]जयंन्ती-  
    मालामालालयंन्तो\[क\]लित\[क\]लिमलाविश्रुताशाश्रुताशा ॥  
    दुर्गादुगार्त्तिवोव्यादलिकुलतरलां वैज-**
-
-
 
 **L.10                     यंन्तीं\[ज\]यन्ती-.  
    मालामाला\[लयं\]न्तीकलित \[कलिमला\] विश्रुताशा\[श्रु\] ताशा॥६॥[^1119]  
@@ -7641,8 +7185,6 @@ Sanskrit and, towards the end, not free from grammatical mistakes. With respect 
 
 ⁹Metre of verses11-13, Sragdhara. Read कृणभट्टष्षड्दर्शन्याः; ०मुत०is doubtful.**
 
-
-
 **तस्मात्सारचंद्रः सन्मजनि नृपतिः पंचमा\[ब्दा\] भिषिलः  
 शत्रून्सर्वान्विजि-**
 
@@ -7679,7 +7221,6 @@ Sanskrit and, towards the end, not free from grammatical mistakes. With respect 
 
 [^1126]: "Metre, Giti. Read मंतत्स्ती; सूत्रधारेद्य."
 
-
 **TRANSLATION.** ¹⁵[^1127]
 
   Verse 10. By the famous ascetic Rághavachaitanya, a Vedantist, has this string of jewel-likepraise been offered to Jválámukhi.
@@ -7691,8 +7232,6 @@ Sanskrit and, towards the end, not free from grammatical mistakes. With respect 
  12. His son Krishnabhatta, a brother to the wives of others, a master of all sciences, a composer of poetry, a bee on the lotus of the feet of Harihara *( filled )* with excessive *(devotion)*, an inhabitant of Kasi, came and copied with broad ..... most excellent hymn on the greatness of Jvålâmukhî; take notice of this *(poem that is)* most important for *(the attainment of )* enjoyments and liberation.¹⁶[^1128] with excessive ( devotion), ' is not idiomatic.")
 
 [^1128]: "The use of ativelam, literally 'excessively,’ which seems to mean ‘(filled
-
-
 
  13. In the race of the *(lord of this country)* to whom long life may be granted arose king Meghachandra. From him sprang the illustrious king Karmachandra,the abode of a multitude of virtues, a moon for *(that)* assemblage of lotuses, virtuous men. From him was born king Samsârachandra, anointed in the fifth year *(of the Lokakála)*; after conquering all his enemies, he presents the earth to those who know the meaning of the *Vedas* and of the *Sástras*[^1129] assemblage of lotuses, virtuous men,' is most objectionable. For the poet really means to say that the king causes good men to prosper, just as the moon causes the lotus flowers to open, and he ought to have said satkumuchchandraḥ, or satkumudachandraḥ. The affix vat which makes the simile to halt, has probably been added only because the poet did not know how to satisfy the requirements of the metre.The same causehas also induced him to use the incorrect form vijitna.").
 
@@ -7722,8 +7261,6 @@ Sanskrit and, towards the end, not free from grammatical mistakes. With respect 
 
 [^1131]: "This translation contains one serious error inintroducing a second king Sallakshanavarman after Jayavarmadeva-an error which has not been hitherto rectified."
 
-
-
   The inscription, so far as I can judge from the impression, consists of 29 lines. The writing covers a space of about 4' 01/2" broad by 3' 1" high, and a considerable portion of it is greatly damaged. Thus, the last line is almost completely effaced, and portions of about half the number of lines are either gone altogether or have become illegible, as will be seen from my transcript of the text. Fortunately, however, the names of the royal personages mentioned in the inscription are all well preserved, so that in all probability little of historical importance has been lost. The size of the letters is about 7/8". The characters are Nâgariof about the twelfth century, similar in style to those of the inscriptions from Ajaygadh and Mahoba, of which photo-lithographs are given in Cunningham's *Archeological Survey of India*, vol. XXI, plates xv and xxi-xxiii; and all that need be said about them here, is that in this particular alphabet it is sometimes difficult to distinguish between the signs for *g, n* and *m*. The language is Sanskrit, and, so far as the inscription is legiblė, it is in verse throughout. The names of the composer and of the engraver may have been given in the concluding lines, but they are no longer legible. As regards orthography, *b* is denoted by the sign for *v* everywhere except in *Kanyakubjam,* line3, *abdher*, line 14, *abbhramlihair* and *abbhrabhránti*, line 18, *babhúruḥ* (?) and *bibhrad*, line 21, and *bbhûyasî*,line25; the dental *n* is used instead of the *anusvára* in *subhránsu*, line 10, *vansa*, lines 11 (twice), 19 (?) and 23, *mimânsaka*, line 11, and *yajñânsa*, line 19; and *ujvala* occurs for *ujjvala*, in lines 13 and 15 (but not in line 16).
 
  The inscription, in its present state, contains no date, but as it clearly is of the time of the (Chandella) king Madanavarman,²[^1132] it must be referred to about the middle of the twelfth century A. D. Its proper object is to record the erection of a temple of Vishnu, the building of a tank near the village of Deddu, and the execution of some other work of piety, by one of the king's ministers whose name appears to have been Gadadhara (verses 46-48); and by way of introduction the inscription (in verses 3-16) gives a list of the (Chandella) kings from Dhanga to Madanavarman, and (in verses 17-15) an account of the family of the ministers of these kings, to which Gadâdhara belonged.
@@ -7744,28 +7281,24 @@ Sanskrit and, towards the end, not free from grammatical mistakes. With respect 
 
 [^1133]: "See note 62 on the translation of verse 3."
 
-
-
   As regards the line of ministers, it suffices here to state that in the family of Gautama Akshapâda, the reputed founder of the Nyâya system of philosophy, there was born Prabhasa, the prime minister of the kings Dhanga and Ganda ( vv. 18-22 ). His son was Sivanága, the minister of Vidyadhara ( vv. 23-24 ) ; and from him sprang Mahipala, the minister of Vijayapala (vv. 25-26). Mahipala had two sons, Ananta and Yogesvara, of whom Ananta was minister under Kirtivarman and Sallakshana-varman (vv. 27-39). Ananta had two wives and several sons, of whom one, probably Gadadhara, was appointed Pratihára by Jayavarman (v. 40), and prime minister by Prithvivarman (v. 41), a post which he continued to hold under Madanavarman (v. 42).In this account of the ministers all the names of the kings are repeated.in the same order in which they are given in the earlier part of the inscription.
 
    Of the localities mentioned in the inscription the country of Antarvedi (in verse 38) is the Doab or district between the Gangâ and Yamunâ rivers; and the village of Deddu (in verse 47 ) must have been near where the inscription bas been found. Prabhâsa, mentioned by way of comparison in verse 20, is a famous place of pilgrimage on the west coast, at Verâwal Paṭṭan in Kâṭhiâwâḍ.
 
 **TEXT.**¹[^1134]
 
- 
 L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
 
 [^1134]: "From an impression taken by the Editor."
 
-   ![](../books_images/U-IMG-1699781703Screenshotkk.png)
-
 [^1135]: "Here there are, preceding the first verse, traces of about twelve aksharas. One would expect ओंनमो भगवते वासुदेवाय, or some similar phrase."
+
+   ![](../books_images/U-IMG-1699781703Screenshotkk.png)
 
    श्रीव त्सा ङ्कं दधदपि वपुर्द्दिव्यमव्यक्त एव ।
 
    मायाजालैर्यमितभुवनोऽप्येकहतुर्व्विमुक्ते -
 
-   
 ![](../books_images/U-IMG-1699783762Screenshotgg.png)^(3[^1136]—\[1\].)
 
 [^1136]: "Metre, Mandakranta."
@@ -7800,8 +7333,6 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
 [^1140]: "The back of the impression shows aistinctly that this name is here गण्ड, not मण्ड."
 
 [^1141]: "Metre, Sloka ( Anushtubh
-
-
 
 **L.4     \[ल\]ःस्फारकीर्त्त्या विशालः\[शुभ\] चरितपवित्रस्तस्य राज्ञःसुपुत्रः।  
    क्षपितनिखिलदुष्टः प्रीणिताशेषशिष्टः कृतकलि \[युगभङ्गः ?\] क्षीणि—— U—— U¯ :॥¹⁰[^478]\[6\]  
@@ -7867,8 +7398,6 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
 
 [^1153]: "Metre, Sragdhara ; and of the next verse."
 
-
-
 **L. 10. कृष्टायां वेगवलात्तुरगखुरपुटैर्व्वैरिकण्ठावमुतोः  
     सिक्तायां रक्ततोयैः समरभुवि भृशं तेन शुभ्रान्शु[^1154]गौरं।  
     मुक्तावीजं यदुक्तंरिपुकरिशिरसां कीर्त्तिवबोततो ऽ \[भू\]-  
@@ -7933,8 +7462,6 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
 
 **    गिरं सत्येन खां मतिमखिलकायैः\[सु\] फलितै-**
 
-
-
 **र्यइष्टापूर्त्ताभ्यां त्रियमपि कृतार्थत्वमनयत् ॥ – \[25\].  
 अविकलङ्गुरुकार्यधुराभरं विजयपालनराधिपतेर्हधत्।  
 स निरवद्यनयान्वितविक्रमः सुसचिवेषु बभूव निदर्शनम्॥[^1167]–\[26\].  
@@ -7997,20 +7524,20 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
 
 [^1176]: "Metre, Gitā"
 
-
-
 **– –: स्वच्छ \[म\] तिर्विशुद्धचरितः सौजन्धरत्नाकरो  
 वि\[ष्णुर्दोष\]हरश्चशौर्यगरिमव्रा(ब्रा)ह्मण्य––![](../books_images/U-IMG-1699438295Screenshot2023-11-08154058.png)।  
 –––![](#)![](#)– \[गदा\] धरो गुणनिधिः साधुप्रियो वामनः  
 प्र-**
 
-**L.21 द्युन्नश्च\[बभूवु ? \]:—।![](../books_images/U-IMG-1699438503Screenshot2023-11-08154446.png) [॥—](http://॑# "Metre, śārdūlavikridita.")\[36\].  
+**L.21 द्युन्नश्च\[बभूवु ? \]:—।![](../books_images/U-IMG-1699438503Screenshot2023-11-08154446.png) ॥—[^2379]\[36\].  
 ![](../books_images/U-IMG-1699438563Screenshot2023-11-08154548.png)\[वि?\]भुनातिगुणानुरा\[गा\]त्सल्लक्षक्षितिभुजा च परीक्ष्य \[सम्यक्?\]।  
 सर्वेऽ\[मुनान्ध ?\] ![](../books_images/U-IMG-1699438687Screenshot2023-11-08154735.png)रं नियुक्ताः कार्येषु सुज्ञचिशूरजनोचितेषु॥–\[[^1177]37\].  
 अथ सल्लक्षणवर्त्म\[प्रभु?\] ...............पुनः।  
 अन्तर्वेदीविषये......**
 
 [^1177]: " Metre, Vasantatilnka."
+
+[^2379]: "Metre, śārdūlavikridita."
 
 **22. ...............॥—[^1178]\[38\].  
 ![](../books_images/U-IMG-1699438846Screenshot2023-11-08155033.png)  
@@ -8040,11 +7567,13 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
 **24.          
 ![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)— 
 \[नुभाव्यः\]  
-श्रीपृथ्वीवर्मनाम्ना तदनु नृपतिना मन्तिमुख्यञ्च चक्रे[॥—](http://॑# "Metre, Sragdhar ; and of the next verse. ")\[41\].  
+श्रीपृथ्वीवर्मनाम्ना तदनु नृपतिना मन्तिमुख्यञ्च चक्रे॥—[^2380]\[41\].  
 सर्वैरङ्गैः समृद्धं व्यधित निपुणधीस्तस्य राज्ञोऽथ राज्यं  
 साचि\[व्यं बिभ्र\]दुच्चैस्तदनु च मदनक्षोणिपालस्य सोऽयं।  
 षाड्गुण्यादिप्रयोगैः \[स\]मयसमुचितैः प्रह्वभावं नरेन्द्रा-  
 न्नीत्वा सर्व्वान्क्रमेण व्यतनुत वसुधैश्वर्यमेकात\[पत्रम्\]॥—\[42\].**
+
+[^2380]: "Metre, Sragdhar ; and of the next verse. "
 
 **25.— — —![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png) —क्षमोऽपि विविधैर्युक्तो गुणौघैरपि  
 श्रीमान्नोद्दतिमान्गदाधर इति ब्रू(ब्रू) ते जनोऽयं \[स्वयं?\]।  
@@ -8055,8 +7584,6 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
 म \[हीभू\]त्यै वेदा वसु सकललोको\[पकृतये?\]। **
 
 [^1182]: "Metre, Sārdūdlavikridīta."
-
-
 
 L.26.![](../books_images/U-IMG-1699528646Screenshot2023-11-09164520.png) \[ग्रव\] णमनसस्तस्य चरितैः  
    कलिस्तं प्रत्यस्तंगत इव स मेने खलु जनैः॥—[^1183]\[44\].  
@@ -8105,8 +7632,6 @@ L.26.![](../books_images/U-IMG-1699528646Screenshot2023-11-09164520.png) \[ग�
 
  (2)— May the undulating lines of paint........... protect you,which,from the round breasts of the impassioned Lakshmi transferred unto the rock-like chest of Śridhara, are like a beautiful eulogy, set down by the god of love in clear characters, & record of ecstatic amorous dalliance !
 
-
-
  (Verse 3).—........... a king[^1192] family. ") named who, having defeated on the battle-field the king of Kanyakubja \[*who had subdued* ?\] all princes, obtained exalted sovereignty.
 
 [^1192]: "Comparing verse 21, there can be no doubt that the king here spoken of is Dhanga, whose name would fit well into the metre. The beginning of the verse probably contained some reference to the fact that this king belonged to the Chandratreya (or Chandella
@@ -8136,8 +7661,6 @@ L.26.![](../books_images/U-IMG-1699528646Screenshot2023-11-09164520.png) \[ग�
  (13).— Who, hating the ill-behaved (*and*) greatly delighting in worthy people, desirous of taking lawful wealth (*and*) then exponding it according to prescript on sacred objects, carefully protecting all beings and wholly intent on securing propriety of conduct, thus practised here—a noble art—the conduct of the golden age.
 
  (14):—From him was then born the protector of the earth Madanavarman, whose
-
-
 
 valour is famous in the three worlds; having witnessed the strength of whose arm people have credited as true the tale of Bhima's marvellous strength[^1195].
 
@@ -8173,8 +7696,6 @@ valour is famous in the three worlds; having witnessed the strength of whose arm
 
  (24).— How is it at all possible (*duly*) to applaud the excellencies of that wise one, who, as soon as he had assumed the post of minister, alone, hy his excellent conduct, gradually made the government of the king Vidyâdhara one to which all
 
-
-
 the rulers of the earth were rendered for ever tributary, so that it surpassed all others on earth ?
 
  (Verse 25). —As the moon, grateful to the eyes of mankind, (*arose*) from the pure sea of milk, so sprang from him Mahīpâla, with pleasing brilliant qualities; who fulfilled the purport of his word by truth, that of his understanding by actions which bore good fruit, and that of his wealth by pious and beneficial deeds.
@@ -8204,8 +7725,6 @@ the rulers of the earth were rendered for ever tributary, so that it surpassed a
 [^1203]: " A son of Dhritarashtra."
 
  (36)......... of clear understanding (*and*) pure conduct, a mine of benevolence, and Vishnu, removing faults,...... bravery, dignity, piety,......... Gadâdhara, a store of excellencies, Vâmana, fond of the good, and Pradyumna were \[*his other sons (?)*\]......
-
-
 
  (Verse 37).—........through (his) liking for distinguished qualities, having been properly tried, all were appointed by the king Sallakshaṇavarman........... in offices suitable to wise, upright, and valiant men.
 
@@ -8237,8 +7756,6 @@ the rulers of the earth were rendered for ever tributary, so that it surpassed a
 
  (47).—Moreover, with his exceedingly pure wealth, he caused carefully to be built on the boundary of the village of Deddu, a tank, charming with its masonry of many
 
-
-
 broad stones; (*and*) on the banks, not liable to be broken, with a mass of other stones,
 
  (Verse 48).—........a collection of hewn stones, by in the place, he caused to be made, built with collection of hewn stones.............the water of which is pale like the moon.
@@ -8259,8 +7776,6 @@ OF THE VIKRAMA YEAR 2252.**
 [^1210]: " Imperial Gazetteer, vol. II, p. 216; and Cunningham, Archæological Survey of India, vol. VII, p. 5."
 
   The inscription consists of 24 lines. The writing covers a space of about 2' broad by 1' 8" high, and, with the exceptions already noted, it is fairly well preserved, so that everything of importance may be read with certainty. But the engraving being rather shallow and the surface of the stone somewhat worn, it is occasionally difficult, and in several places impossible, to trace the superscript letters in the impressions. The size of the letters is between " and ".The characters are Nâgarî, resembling those of the Mahoba inscriptions, of which photo-lithographs are given in Cunningham's *Archæological Survey of India*,vol. XXI, plates xxii and xxiii.The language is Sanskrit, and, with the exception of the introductory *om om namo bhagavate Vásudeváya* and the concluding érir-astu, the inscription is in verse throughout.It was composed by Devadhara, a son of Gadâdhara, who was minister of peace and war of Paramardideva and a son of Lakshmidhara, of the Gauḍa lincage; written by Dharmadhara, a younger brother of Devadhara; and engraved by Mahârâja (?), the son of Somarâja (verses 30-32).As regards orthography, bis denoted by the sign for v everywhere except in udbabhúvur, line 10, babhúva, lines 13, 14, 16, 20 and 22, and *bibhartti*, line 24; the dental sibilaṇt is fifteen times used for the palatal sibilant (*e.g.*, in *Saureś*, line 1, vindsa, line 6, &c.), and the palatal for the dental in saro, line 11, áśíd, line 14, and sachiveshu, line 21; before sibilants and the dental n is employed instead of anusvára, in the interior of simple words in *vanśas*, line 2, *payáns*i, line 9, hanso-vatansitaº, line 11, hansas, lịne 14, *pumánsam*, line 21, (but not in *avataṁsaḥ*, line 2), and, exceptionally, at the end
-
-
 
 of a word in *niramkuśan-şañchaº*, line 9, *adhikan-harinᵒ*, line 10, and *vidyávalán-sa*, line 22. Besides, *ujjvala* is, as usual, spelt *ujvala* in lines 14 and 18.In respect of lexicography, it may be noted that the word *vibhaṅgi* apparently is used in the sense of *bhaṅgi*, in line 12.
 
@@ -8298,8 +7813,6 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
 
 [^1215]: "Read वंश०."
 
-
-
 **L.3                       मुक्ताफ\[ले\]रिव यशोभिरथोभिः[^1216] ॥' – \[3\].  
 अस्मिनुहामदोई खलहितारातिमकलाः ।  
 जधिर चारुचारिता\[बान्द्रा \]वेयमहीभुजः ॥' -\[4\].  
@@ -8318,7 +7831,6 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
 सिन्दूरिताहितमतङ्ग**  
 
 [^1217]: "Metre,Śārdūlavikrīḍita."
-
 
 **6. अकुन्भ\[पृष्ठे\] येनाहितोलिमलिनः करवालदः ।  
 युवेरिभिर्निजविनास (श) विसर्पि[^1218]\[भैध्य चा\]"लोकि केतुरिव \[नू\*\] समसूर्यसङ्गी[^1216] ॥"
@@ -8366,8 +7878,6 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
 [^1227]: "Read • रधिकं हरि०."
 
 [^1228]: "Metre, Rathoddhatā."
-
-
 
 **L. 11. धाविव मौतिकौघाः ॥—\[[^1229]14\] .  
 तेषु क्रमादखिलसा (शा)स्लम (स) रोविहारिहन्सोवतन्सितभिवापतिपादपङ्गः।[^1230]— \[15\].  
@@ -8431,8 +7941,6 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
 दूराधःकृतकंटकस्य गुणिनो लोकेकतापच्छिदः।  
 अम्भोजस्य च तस्य च त्रिभुवने साधर्म्यमत्युज्व(ज्ज्व) लं  
 वैधर्म्यं तु पराङ्मुखः स न कदाप्यासीहिजाधी-**
-
-
 
 **L.19.                          रे ॥—\[24\].  
    \[प्रा\]सादी वैष्णवस्तेन निर्म्मितोन्तर्व्वहन्हरिम्।  
@@ -8504,9 +8012,9 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
 
 [^1254]: "i.e., Lakshmī."
 
+ (Verse 3).—From the eye—lotus of Atri was born the god[^2381] (who is) the ornament of the beloved husband of the daughter of the lord of mountains. From him \[*spiang*\] this race \[*which*\]......has shone with its bright fame, as if (*decorated*) with pearls.
 
-
- (Verse 3).—From the eye—lotus of Atri was born the [god](http://॑# "¡.s., the moon, borne on the head by Śiva, the husband of Pârvati.   ") (who is) the ornament of the beloved husband of the daughter of the lord of mountains. From him \[*spiang*\] this race \[*which*\]......has shone with its bright fame, as if (*decorated*) with pearls.
+[^2381]: "¡.s., the moon, borne on the head by Śiva, the husband of Pârvati.   "
 
  (4).—In it there were born, of pleasing conduct, the \[Chândrâtreya\] princes, who by their powerful massive arms have crushed the hosts of enemies.
 
@@ -8537,8 +8045,6 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
  (15).— Among these, there was in the course of time Lakshmidhara, a swan sporting in the lake of all sciences, who ornamented the lotus-feet of the husband of Śivâ; an ocean of the pearls of good qualities rivalling the brilliantly shining sun.
 
  (16).—The lines of smoke of whose bright sacrificial fires, with their numerous clearly visible undulating lines, assumed the beautiful appearance of braids of hair (*put)* playfully on the big breasts of the women of the quarters.
-
-
 
  (Verse 17).— From him took his origin the chief of the twice—born Vatsarâja, an unique receptacle of good conduct, a home of propriety; who was deep like the ocean, reputed for his firmness like a mountain, and, like the enemy of Mura," the resort of fortune.
 
@@ -8576,8 +8082,6 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
 
 *Purushottama* is one of the names of Vishṇu; and some of the terms of the original verse are so chosen as to be applicable also to that deity; for sudarfans and nandaka are the names of Vishnu— Krishna's disons and sword, aud pîtâm— tara would denote his yellow garment, Vishnu himself being called Pitambara, 'dressed in yellow clothes."
 
-
-
  (Verse 28).—whom, old in conduct that deserves to be glorified in the three worlds, though still a youth, the king Paramardin has appointed to be chief of his ministers.; for that which makes a man valued in the world, is his qualities.
 
  (29).— He, pure in his conduct, has completed this praiseworthy work of his parent who roams about in Brahman's world[^1257],which had been left incomplete.—
@@ -8612,8 +8116,6 @@ May fortuno attend!
 
  In line 2 the inscription speaks of the river of the gods, the Ganges, as the resting-place of Kanyâkubja; from which I would infer that this record has reference to the
 
-
-
 rulers of Kanyākubja themselves, or to certain chiefs who owed allegiance to them. According to line 4, the moon begat a son named Jayanta. Lines 5 and 6 appear to mention two chiefs-Sidhuka and Mâmaka (?)— of whom the elder one became king. Other chiefs, who kept the Bhillas (line 7) in order, are spoken of in the following lines which appear to record the building of a tank, the establishment of a grove-called (line 8) Kanhapādi (?),-and the erection of a temple, and contain the name of the village Dugdhakupya (line 10). In line 15 three chiefs appear to be spoken of, the second of whom is called Lakkhata and the third Rajaḥpâla. Line 18 records that somebody married two wives who somehow or other are brought in connection with the Chaulukya family, and one of whom bore the name Râjaladevi. In line 20 we meet with the prince Kirtivarman who is protected from somebody (the Chedi king Karṇa (?)); and line 21 speaks of three kings, one of whom appears to be again Kīrtivarman. Line 23 mentions the son of the illustrious Satyavatī, who perhaps defeated a certain Gaṇapāla (?), and did something to the rule of Udayâditya, the lord of Avanti. Line 25 perhaps contains the name Nrisimha, and line 26 that of the illustrious Hira or Hirâmsu; and line 27 mentions, in a manner as if he had been living at the time, the illustrious Sallakshaṇasimha, who probably was engaged in fight with the troops of the Yavanas (line 30) or Muhammadans.
 
  Other inscriptions may yet be discovered which will throw light on this one: for the present, I can only say that, of the princes mentioned here, Kīrtivarman probably is the Chandella[^1261] 'king of that name, the contemporary of the Chedi king Karṇadeva; and Udayāditya the ruler of Mâlava, who is spoken of in two Chedi inscriptions of the period; but that I see no cogent reason for identifying Sallakshaṇasimha with the Chandella king Sallakshaṇavarman, or for assigning this inscription to the Chandella rulers.
@@ -8632,7 +8134,7 @@ rulers of Kanyākubja themselves, or to certain chiefs who owed allegiance to th
 
 [^1264]: "Metre, Sragdharā. "
 
-3. ............................... छं[दः](http://॑॑# " Metre, Śârdûlavikr̥īḍita.  ")पारदृशां तताध्वरजुषां विस्रायिनां नित्य\[शो ?\].......
+3. ............................... छं[दः](॑# " Metre, Śârdûlavikr̥īḍita.  ")पारदृशां तताध्वरजुषां विस्रायिनां नित्य\[शो ?\].......
 
 4. .................................. 'न[^1265] जयन्तनामा तेनेन्दुनाजनि ततः प्रयतेन सूनुः॥ ..............
 
@@ -8651,8 +8153,6 @@ rulers of Kanyākubja themselves, or to certain chiefs who owed allegiance to th
 7...............................'सज्ज[^1269] \[ल\]वापिकां व(ब)लवतोर्व्याक्तीरदेशस्थितान्। भिज्ञानुहतरंहसःकरल\[ग\]त्कोदण्डगर्व्वोइटा\[नु\]....
 
 [^1269]: " Metre, Śârdûlavikr̥īḍita..."
-
-
 
 8. .....................(क)[^1270] अयादि प्रमदवनमपि ख्यातिमत्तत्र चक्रे कामिन्यः वोसिश्चांशे भुवि\[अह\]रसरिहारिणि क्रीडयन्ति॥ पा........
 
@@ -8712,11 +8212,7 @@ rulers of Kanyākubja themselves, or to certain chiefs who owed allegiance to th
 
 ![](../books_images/U-IMG-1700125797Screenshot2023-11-16143915.png)
 
-
-
 ![](../books_images/U-IMG-1698344896Screenshot(33).png)
-
-
 
 L. 24. \[प्र\]क्षितः वृश्चित्वान्॥ रुद्रेरिव[^1284] कृरिन्द्रसौ(शौ)रिसदृ\[शो नौ\]र्यो शुभं वुर्ष्णुहस्सोन्व्रखामुदपीतिवि
 
@@ -8773,8 +8269,6 @@ L. 24. \[प्र\]क्षितः वृश्चित्वान्॥ �
 
  The stone, which bears the inscription, is broken both on the right hand and at the bottom. The preserved part ends with the first syllables of the 29th verse of a genealo- gical account of the Chandella dynasty. Of the preceding 28 verses, not a single one is complete, and one (13) is entirely lost. But even the few existent fragments contain some important data for the history of the Chandellas.
 
-
-
  The inscription opens with an invocation of Śiva. Verse 5 ends with the words:-'From this beloved of the night (*i.e*., the moon) there sprang a race beloved by all,' and the next two verses seem to have treated of the kings of the lunar race. Among these there was Nārāyaṇa (v. 8). Only three syllables remain of the next verse.
 
  Verse 10 begins as follows:- Then there was that king, Jejà by name, after whom Jejàbhukti was (*named*), just as this earth (*pr̥ithivi*) after Pr̥ithu. His younger brother, called Vijà ......'The two brothers Jejâ and Vijâ are identical with Jejiàka and Vijjàka, who are mentioned in another fragmentary inscription[^1296]. Professor Kielhorn has further identified both pairs of names with Jayaśakti and Vijayaśakti[^1297]' or Vijayā[^1298], the sons of Vâkpati. According to verse 10 of the present inscription, Jejà (or Jejiàka) gave his name to Jejâbhukti (also called Jejâbhukṭīka[^1299] or Jejakabhukti[^1300]), 'the dominion of Jejâ (or Jejâka).' This old name of Bundelkhand, the country which was ruled over by the Chandellas, is the original of the vernacular form Jajâhûtî or Jajâhoti[^1301]," just as the modern Tirhut is derived from Tirabhukti[^1302].
@@ -8804,8 +8298,6 @@ L. 24. \[प्र\]क्षितः वृश्चित्वान्॥ �
 [^1306]: "Ante, p. 128, verse 31."
 
 [^1307]: "In three grants published by Professor Kielhorn (Ind. Ant. vol. XVI, p. 201
-
-
 
 Sabuktagîn, and not with Maḥmūd of Ghazna. That Dhanga was far from victorious, is indirectly confirmed by the subjoined inscription, which says only that he equalled,' but not that he conquered, Hambira.
 
@@ -8839,8 +8331,6 @@ Sabuktagîn, and not with Maḥmūd of Ghazna. That Dhanga was far from victorio
 
 [^1318]: " प्रमथ्य goverus two accusatives. Compare सुध चीरनिर्धि fa, quoted by Drs. Böhtlingk and Roth, s. v. , from the Siddhantakaumudi."
 
-
-
 princes, obtained splendour in this world together with elephants.' Lakshmikarṇa is identical with Karna of Chedi[^1319]," whose defeat at the hands of Kirtivarman is related in the prologue of Krishnamiśra's *Prabodhachandrodaya*. This drama was acted before Kîrtivarman at the command of his general, a Brâhmaṇa named Gopala, who had just vanquished Karṇa and again placed Kirtivarman on the throne[^1320]. Karna is three times mentioned in the prologue:—
 
 [^1319]: "According to Professor Kielhorn, Karpa's Benares grant is probably dated in Chedi-Samvat 793 or A. D. 1042; Ind. Ant. vol. XVII, p.216."
@@ -8866,8 +8356,6 @@ princes, obtained splendour in this world together with elephants.' Lakshmikar�
 [^1325]: "Ante, p. 139."
 
  According to Bilhana's *Vikramânkadevacharita* (sarga i, verses 102 f.) Kîrtivarman's contemporary Karna of Dâhala or Dâhâla (i.e., Chedi) was defeated by the Western Châlukya king Âhavamalla II. (about 1042 to about 1068 A. D.). In another part of his poem (sarga xviii, verse 93), Bilhaṇa calls Karna, whose court he visited, 'the death to the lord of the Kâlañjara mountain' (*Kâlañjaragiripati*), i.e., to the Chandella king. This expression, if contrasted with the repeated statement that Kîrtivarman and his general Gopâla completely defeated Karna, illustrates the necessity of hearing the other party before drawing historical conclusions from an Oriental record.
-
-
 
 If an inscription of *one* king asserts that he conquered another, it scarcely proves more than that the two were contemporaries.
 
@@ -8923,8 +8411,6 @@ If an inscription of *one* king asserts that he conquered another, it scarcely p
 
 [^1337]: "Here 32 ayllables of verse 21 and 18 of verse 22 are lost."
 
-
-
  L.13.विहितकन्याकुलभूपालभङ्गम्। समरगुरुसुपास्त प्रौढभीस्तल्पभाजं सहकलचुरिचंद्र शिजवङ्गीजदेवः॥\[२२\*\] अभवदम्बुधिरतककुमयो विजयपाल[^1338] इ\[ति\]....."
 
 [^1338]: "Here 29 syllables of verse 23 and 19 of verse 24 are lost."
@@ -8961,8 +8447,6 @@ If an inscription of *one* king asserts that he conquered another, it scarcely p
 
 [^1346]: "Cunningham, Arch, Surv. Rep. vol. VII, pp. 82-83."
 
-
-
 short invocation in line 1, throughout metrical. It shows a few grammatical mistakes such as khaḍgam úrddhikṛitam yenà (line 16) instead of khaḍga úrdhvíkṛito yena and frequent faulty ṣubstitutions of sa for śa. Once in viśrastáṁgo (line 23) śa has been put for sa. Va throughout does duty for ba, as is the case in most medieval inscriptions from Mâlvâ and Gujarât. A mistake in versification occurs in line 1, where the word álavále has been treated like a compound and ála belongs to the first Påda of the verse, while the second begins with vále. No really good poet makes the pause fall in the midḍle of a simple word. There are also other passages which indicate that the author was not a poet of the first rank, but, as the Hindus woulḍ say, a madhyama kavi.
 
  The state of the inscription makes it impossible to arrive at full certainty regarding its object. But it certainly contains a Praśasti. As Praśastis mostly record the erection or restoration of temples, and as the opening verses are addressed to Śiva, Parvati and Ganesa, it may be conjectured that it originally belonged to a Śaiva temple, which was built either by Udayâditya, the last priṇce named in the fragment, or by one of his immediate successors.
@@ -8980,8 +8464,6 @@ short invocation in line 1, throughout metrical. It shows a few grammatical mist
 I. Udepur Prasasti.Paramâra. Upendra. Vairisimha I. Vak pati II. Sindhuraja. II. Navasahasankacharita. III. Nagpur Prašasti. Paramara. Slyaka I. 1 Vakpati I. Vakpati I. Vairisimha II.-Vajrata. Vairisimha. Harsba. Bhoja. Udayaditya. Paramâra. Upendra. Siyaka-Harshax Vaḍajā. VAkpati II.-Utpalaraja. Vairisimha. Styaka. 1 Mužja. Sindhurâja, or Navasahasáňka, or Kumaranâ- rayana. Sindhuraja.⁷IV. Land-grants. 223 Krishna. Bhoja. Udayaditya. Vairisimba. Styaka. 1 Vakpati, or Amoghavar- sha, or Prithivfvallabha, or Brivallabha; A. D. 974-975, and 979. Sindhuraja. Bhoja. A. D. 1021-22. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 7This name does not appear in either of the two publishede ditions. I owe it to Mr. J. F. Fleet, who possesses a paper impression of the inscription. Professor Kielhorn will give a new edition of the Prasasti in the Indian Anti. quary.
 
-
-
  It appears that the Udepur Praśasti alone presents an unbroken line of kings from Upendra to Udayāditya. Even the Navasáhaáṅkascharita, which is more explicit than the other inscriptions, omits two names after Upendra. It moreover contains (XI, 80) the careless statement, that "other kings" reigned between Upendra and Vâkpati. I. The use of the plural naturally leads to the suggestion, that they were at least three in number. This seems now impossible, as, according to the Udepur Praśasti (verses 8-10), the first four kings after Paramâra followed each other in the direct line of descent.
 
  In considering the other not less interesting historical statements of the Praśasti, it will be advisable to add to them the information contained in the Navasáhasáṅkacharita, iṇ the Jaina Prabandhas and in the other accessible inscriptions.
@@ -8998,8 +8480,6 @@ I. Udepur Prasasti.Paramâra. Upendra. Vairisimha I. Vak pati II. Sindhuraja. II
 
 [^1353]: " 11 E.g., Prabandhachintámani, p. 108 f. (Bombay edition.
 
-
-
  This king, no doubt, as Dr. F. E. Hall and Sir A. Cunningham hâve long since assumed, īs identical with the Kṛishṇarâja of the land-grants. The two names are synonyms, and, if the new list is complete, there is no room for a Kṛishṇarāja besides an Upendra.[^1354]The fact that in the land-grants Vairisiṁha is said 'to meditate on Kṛishṇa's feet,' need not cause any difficulty. The phrase does not necessarily indicate that the two kings immediately followed each other. For, though usually it refers to an immediate predecessor, there yet are cases where it is used with reference to a remoter king. Thus some of the Chaulukya land-grants (Indian Antiquary, vol. VI, pp. 184,194) assert that Durlabha meditated on the feet of Châmuṇḍa, though Vallabha was his immediate predecessor. The time when Kṛishṇa-Upendra ruled, may be ascertained app-roximately by counting backwards from Vâkpati II., who, as will be shown below, died between A. D. 994 and 997, after reigning for about twenty years. About 150 years are required for six generations, and the acquisition of Malvà by these Paramâras may thus be placed shortly after 800 A. D.
 
 [^1354]: "12 The lattor probably was the poetical form of the namo, futetus, which Pandit Ramchandra considers the correct and Krishna or its Prâkrit equivalent was that used in every one, is of course to be rejected. day life.                         "
@@ -9011,8 +8491,6 @@ I. Udepur Prasasti.Paramâra. Upendra. Vairisimha I. Vak pati II. Sindhuraja. II
 [^1355]: "13 Prabandhachintamani, p. 55 (Bom. ed.
 
 [^1356]: " 14 This has been first pointed out by Dr. F. E. Hall, Jour."
-
-
 
 Khoṭṭiga" possesses greater interest. This Khoṭṭiga is no doubt the homonymous Râshṭrakûṭa king of Mânyakheṭa, whose Sásana, published by Mr. Fleet,[^1357]was issued on the occasion of a solar eclipse on Sunday, the new-moon day of the ṃonth Âśvayuja of Śaka Saṁvat 893, or Sunday, October 22, 971 A.D., when an annular eclipse of the sun took place. Khoṭṭiga died before September 25, 972 A.D., on which day the Kardâplates of his nephew Karkarâja are dated[^1358], when an eclipse of the moon took place. The eolipse is, therefore, that which occurred on September 25,972, the day 2076349 of the Julian period, and consequently a Wednesday. It happened at 14 hours 51 minutes, Green-wich time, or about 8 P.M., Laňkå time, and hence was visible in India.").The latest inscription of his predecessor Kṛishṇarâja was issued in Śaka Saṁvat 878 or A.D. 956-57.[^1359]As the first land-grant of Vâkpati II. is dated in Vikrama Saṁvat 1031 or A.D. 974-75,[^1360]there can be no doubt that his father Sîyaka II. and Khoṭṭiga were contemporaries. There is further clear proof that about this time the Paramâras of Mâlvâwere at feud with the Râshṭrakûṭas. For Dhanapâla says in his Páiyalachchhí (verse 276) that he composed his work "when one thousand years of the Vikrama era and twenty-nine besides had passed, when Mannakheḍa or Mânyakheṭa had been plundered in con-sequence of an attack (made) by the lord of Mâlavâ." As this date, A.D. 972-73, is very close to that of the first grant of Vâkpati II., I have formerly (Páiyalachchhí, p.7) conjectured that it was the latter prince who plundered the capital of the Râshtrakûṭas, and that his opponent was Karkarâja, the donor of the KardâŚâsana. With the new information furnished by the Udepur Praśasti, this becomes doubtful, and it must be conceded that Dhanapâla may allude to Sîyaka's expedition against Khoṭṭiga. According to the Navasáhasánkacharita the name of Sîyaka's consort, i.e., of his firstqueen, was Vaḍajâ.
 
@@ -9031,8 +8509,6 @@ Khoṭṭiga" possesses greater interest. This Khoṭṭiga is no doubt the homo
  "We worship his majesty king Vâkpati, the only root of (that) creeper of paradise, Sarasvati,—him through whose favour we, too, walk on the path trodden by princes among poets;"[^1361].")and again (Nav. Ohar. XI,
 
 [^1361]: "19 Ueber das Navasâhasâňkacharita, p. 5 (585
-
-
 
  “After Vikramāditya departed, after Sâtavâhana went, divine Sarasvati found rest with this friend of poets."[^1362].")
 
@@ -9054,8 +8530,6 @@ Khoṭṭiga" possesses greater interest. This Khoṭṭiga is no doubt the homo
 
 [^1368]: "26 Prabandhuchintamani, p. 58 (Bombay edition.
 
-
-
 southern kingdom: The alleged submission of the Keralas and Cholas, on the other hand, is extremely doubtful. It is difficult to understand how he could have come into contact with the latter two, whose countries lay at such a great distance from Mâlvâ. As regards the Lâṭas or tlie inhabitants of Central Gujarât, a raid on and a success over them is not at all improbable. Northern Gujarāt had been conquered soinewhat earlier by Mûiarâja[^1369], and Indian Antiquary, vol. VI, p. 181.")and Central Gujarāt had come intothe possession of his opponent Bârapa.[^1370]The time was certainly not a quiet one, and it may have been that the king of Mâivāthen attacked his western neighbours, as happened sofrequently during the next following centuries.
 
 [^1369]: "27 K. Forbes, Râs Mâlâ, pp. 87 ff. (2nd edition
@@ -9076,8 +8550,6 @@ southern kingdom: The alleged submission of the Keralas and Cholas, on the other
 
 [^1376]: "33 Cunningham's Ancient Geography, pp. 519 ff."
 
-
-
 the modern Dungarpur in Râjputânâ,[^1377]which even in recent times has been tributary to the Marâţha ruler of Dhâr. It is not at all unlikely that Sindhurâja made attacks on these two neighbouring districts as well as, imitating his father, on Lâţa, just beyond his south-western frontier. But a war with the Muralas, who are the same as the Keralas in Southern India, is not probable, except by assuming that the term has been used inaccurately, with that poetical license of which the Sanskrit writers frequently avail themselves, for the inhabitants of the Dravidian districts in general. If that may be done, the passage probably refers to a continuation of the feud between the kings of Mâlva and the Châlukyas of Kalyânî during the reign of Sindhurâja. It also continued, as we shall see, during the next reign.
 
 [^1377]: "34 See the map prefixed to the account of Mahikântha in the Bombay Gazetteer, vol. V, page 355. According to the Rajputând Gazetteer, vol. I, page 276, the language of Dungarpur is called Bagar. This word, too, is probably derived from the old name of the country. When I wrote my German article on the Navasdhasánkacharita, I was not aware of the existence of this Vagada and identified the country, named by Padmagupta, with eastern Kachh, which is also called Vagad.The greater distance of the latter district from Malva makes the identification now improbable."
@@ -9096,8 +8568,6 @@ the modern Dungarpur in Râjputânâ,[^1377]which even in recent times has been 
 
 [^1382]: "39Râs Mâlâ, p. 64."
 
-
-
 heir-apparent. He mounted the throne after Muñja had been killed by Tailapa. Against this the Navasáhasáňkacharita (XI, 98) says that "Vâkpati placed the earth in Sindhurâja's arms, when he started for Ambikâ's town." Strictly interpreted, this sentence would mean that he made his brother Yuvarâja on his death-bed and solemnly appointed him his successor. Considering what we know of Vâkpati's manner of death, this view is not admissible. But the passage may indicate that Sindhurâja had become Yuvarâja some time before Vâkpati's fatal expedition. At all events it does not give one the idea that enmity reigned between the two brothers. And there is a further fact which favours the same conclusion. For Padmagupta, who had been first Vâkpati's poet-laureate, later held the same position in Sindhurâja's court. He himself says (Nav.Char. I, 7):—[^1383], दिवंयियासुर्सम वाचि सुद्रामदत्त यां वाक्पतिराजदत्तः।तस्यानुणमाकविबान्धवस्यभिनत्ति वां संप्रति सिन्धुराजः॥")
 
 [^1383]: "40Ueber das Nav. Char. p. 6 (588
@@ -9113,8 +8583,6 @@ The statements of the Udepur Praśasti regarding Sindhurâja's son Bhoja are mos
  As regards Bhoja's wars, the first was probably one with the Karṇâțas, i.e., the Châlukya king of Kalyâni. For, in an inscription[^1384]of the reign of Jayasiṁha III., dated Śaka Saṁvat 941 or A. D. 1019-20, it is said that this king was "a moon to the lotus which was king Bhoja," i.e., that he took away Bhoja's glory just as the moon causes the day-lotuses to close their flowers; and again that he "searched out and beset and pursued and ground down and put to flight the confederacy of Mâlava." These statements indicate that the king of Mâlvâwas the aggressor, and that his attack was carefully planned. The southern inscription, of course, represents the Chalukya as successful, and the numerous documents from Jayasiṁha's reign certainly prove that he
 
 [^1384]: "41 Indian Antiquary, vol. V, p. 17; compare also Dr. Bhâṇḍârker, Early History of the Dekhan, p.60."
-
-
 
 cannot have suffered any serious reverse. But it is quite possible that Bhoja gained in the course of his expedition to the south some advantage which might be magnified by the Mālva court-poets into a great victory over the Karṇāṭas.
 
@@ -9132,8 +8600,6 @@ cannot have suffered any serious reverse. But it is quite possible that Bhoja ga
 
 [^1388]: "45 Ueber das Leben des Jaina Méuches Hemachandra, 63( 251
 
-
-
 preserved in a fragment which I found in 1874 in the Bṛihajjñánakosha at Jesalmir.[^1390]A colophon on fol. 149bruns as follows: **इति महाराजाधिराजपरमेश्वरश्रीभोजदेवविरचितायां शृंगारमंजरीकथायां पद्मराककथानिका द्वादशी समाप्ता** ॥ The work is partly in prose and partly in verse.
 
 [^1390]: " I ordered a copy to be made, which, however, has never been sent."
@@ -9149,8 +8615,6 @@ preserved in a fragment which I found in 1874 in the Bṛihajjñánakosha at Jes
 [^1393]: " Vikramâṅkadevacharita, p. 23."
 
 [^1394]: "See Professor Sachau's Translation of Al-Berûnî'ş”Indica, vol. I, p. 191."
-
-
 
 964[^1395]or A.D. 1042-43. For the question when Bhoja died, the most important passage is that in Bilhaṇa's Vikramánkadevacharita, where he says (XVIII, 96):—
 
@@ -9184,8 +8648,6 @@ preserved in a fragment which I found in 1874 in the Bṛihajjñánakosha at Jes
 \[नृत्यं\] व्यवस्यमनि \[द्व्यं\] सुरवासवेस्या यस्याग्रतो भ-**
 
 [^1399]: "Metre, Indravajra. In Pada 3 श्रे is blurred and f ह abnormal. The reading is therefore not certain."
-
-
 
 **[वतु वः स सिवः शिवाय ॥ \[२\] ॥][^1400]  
 L.3. मूर्ध्नस्थिता \[असरितोन्न\] मयेव संभोरर्द्वागमंगघटनाद्वनमाश्रयंती । **
@@ -9237,9 +8699,6 @@ L.3. मूर्ध्नस्थिता \[असरितोन्न\] म
 [^1407]: "Metre, Indravajra. Read वैरिसिंह'."
 
 [^1408]: " Metre, Vasantatilake. Read 'शत्रु जो."
-
-
-
 
 **L. 12. जातस्तस्माद्वैरिसिंहोन्धनाम्ना लोको ब्रूते \[वष्यट\] स्वामिनं यं ।  
 [शत्रोर्व्वर्णंधारयसिर्न्निहृत्यश्रीमद्धारा सूचिता येन राज्ञा॥ \[११\] ॥][^1411]**
@@ -9306,8 +8765,6 @@ L.3. मूर्ध्नस्थिता \[असरितोन्न\] म
 
 [^1428]: " Metre, Vasantatilaka. The bracketed letters are all more or less doubtful, •तोग्ग• may have been •भोग्ग• or •सोग्ग•."
 
-
-
 **सत्कैः ।**
 
 **L. 22. सुराश्र\[यै\]र्व्याप्य च यः समन्ताद्यथार्थसंज्ञां [जगतीं चकार ॥\[२०\]][^1431]॥[^1431]  
@@ -9348,8 +8805,6 @@ L.3. मूर्ध्नस्थिता \[असरितोन्न\] म
 
  (6.) When he had slain the enemies, he brought back the çow; then that sage spoke: "Thou wilt become a lord of \[kings, called\] Paramara."
 
-
-
  (V. 7.) In his line there was Upendrarâja, whose fame was proclaimed by the immortals, satisfied by the multitude of all sacrifices,—who was a jewel among the twice-born and gained high honour of kinghood[^1442] by his valour.
 
 [^1442]: "Or the bonour of exalted kinghood."
@@ -9386,8 +8841,6 @@ L.3. मूर्ध्नस्थिता \[असरितोन्न\] म
 
   (17.) He, who resembled king Pṛithu, possessed the earth up to Kailāsa, up to the
 
-
-
 Malaya hills, and up to the two mountains of the setting and the rising sun; he scattered in (all) directions the weighty crowd of earth-supporters,[^1449] easily uprooting them with the shaft of his bow, and gave highest joy to the earth.
 
 [^1449]: " 89 The weighty crowd of earth-supporters,"
@@ -9421,8 +8874,6 @@ By G. BÜHLER, PH.D., LL.D., C.I.E.**
 
  The characters resemble those found in the older Buddhist nail-headed inscriptions
 
-
-
 of the Gupta period, but show certain peculiarities. Very characteristic are the curves attached to the left-hand limbs of ga and śa, the peculiar angular form of the sa, the horizontal stroke of which has been attached to the left-hand limb and forms with it a triangle open at the top just as in the modern handwriting of Rajputânâ. The roundness of va is likewise remarkable. The language is the mixed dialect, incorrect Sanskṛit strongly modified through the influence of the vernacular Prâkṛit, which once used to be called the Gātha dialect on account of its occurrence in the metrical portions of the sacred writings of the Northern Buddhists. In my opinion it has been produced by the efforts of half-educated people to write the sacred language of the Brâhmaṇs. The earliest specimens usually show the greatest number of abnormal forms. Those occurring in this inscription have been discussed in detail in the notes to the translation.
 
  The object of the inscription is to record the construction of a Buddhist monastery by one Roța-Siddhavṛiddhi, the son of Roṭṭa-Jayavriddhi, for the teachers of the Mahiśásaka school.
@@ -9439,9 +8890,7 @@ L. 1. - \[राजा\] - राजमहाराजतोरमाणषा \
 
 [^1455]: "The letters placed between brackets are very faint and partly doubtful. The first title seems to have been राजाधिराजवाहि,originally suggested by Mr. Fleet, is plain on the second impression. Probably जऊण्लस्याभिhas to be restored according to a suggestion of Mr. Fleet. I read originally जऊ- - - - प्र."
 
-
 [^1456]: "The bracketed letters are very doubtful with the exception of the syllable न्द्रsuggested by Mr. Fleet."
-
 
 **L. 3. - -वर- - शुचिशान्तध्यानाध्ययनमोक्षचित्तानुकूले प्रदि \[ष्ट- - - - - - - -\[न\]- -**
 
@@ -9492,8 +8941,6 @@ the power of theten powers,[^1467]. Regarding the ten powers of Buddha see Dharm
 
 [^1467]: "Dasabalabalina is either a new a-stem formed from dasabalin or a genitive with the omission of the Visarga ; compare below marapitro ( 1. 9
 
-
-
 has attained the four subjects of confidence,¹⁴the four analytical sciences,¹⁵ the eighteen independent conditions,¹⁶the supernatural condition,¹⁷who cherishes all creatures and is most compassionate,—of which (congregation) Buddha is the chief and which comes from the four quarters of the world,—(has been made) by the virtuous son of Rotta-Jayavṛidḍhi,¹⁸the lord of many Vihâras,¹⁹whose name, praised and honoured by the lord of Naśchira, (indicates d) particularly (great) prosperity.
 
  Whatever merit (there is) in this (act), may it be for the attainment of supreme knowledge by (my) parents, the instructors²⁰ of Jambudvipa that is famous for nurses and nourishers,—(their) sharebeing a preferential .one,—²¹moreover by all the brothers, sisters, wives, sons and daughters of the lord of the Vihāra Rotta-Siddhavṛiddhi,²²by all the queens, princes and princesses²³ of the great king Toramâṇa Shâha Jaûvla 24(and) by all creatures. But this benefaction²⁵by a Vihâra (is) for the congregation of the monks of the four quarters, for the acceptance of the teachers, the Mahîsâsakas.²⁶ By the son of Såddhaka............
@@ -9524,8 +8971,6 @@ has attained the four subjects of confidence,¹⁴the four analytical sciences,�
 
 26. The fact that the Mahisasakas, one of the subdivisions studying the Hînayâna, weresettled in the Panjâb, is known from Hiuen-Tsiang's description of the country; see Beal, Si-yu-ki, vol. I, p. 121. The meaning of the last sentence seems to be that all Buddhist monks shall partici-pate in the use of the Vihara, but that it is specially made over to the Mahisasaka teachers. The Mahisasakas formed one of the five branches of the Sarvàstivada or Vaibhashika school.
 
-
-
 XXX.—AN UNDATED PRASASTI FROM THE REIGN OF MAHENDRAPALA OF KANAUJ.
 
 BY G. BÜHLER, PH.D., LL.D., C.I.E.
@@ -9537,8 +8982,6 @@ BY G. BÜHLER, PH.D., LL.D., C.I.E.
  Judging from the impression, the slab on which the inscription is incised measures 36 inclies by 24. The stone-mason has done his work with great care; for there are very few Indian epigraphical monuments which show an equal amount of neatness and artistic finish in their execution. Owing to the rough treatment which the stone has undergone, a certain number of letters have, however, been either obliterated or become indistinct. Lines 3-7 have lost from four to seven letters at the beginning; in lines 1-6 the letters 17-21 on the left-hand side have been partly rubbed out, and lines 20-21 have lost a piece out of the middle. Moreover, a number of single letters and small groups have been defaced in various places on the right-hand side of the inscription. It is, however, fortunately possible to restore most of the lost signs with some degree of certainty by conjecture.
 
  The characters of the inscription are of the ordinary Nâgarî type, current in Northern and Western India during the ninth and tenth centuries; and they resemble most closely those of the horse-dealers' grant, mentioned above. The superscribed mátrás show, however, ornamental additions, similar to those used in the Jhâlrâpâṭaṇ Praśasti (Indian Antiquary, vol. V,'p. 180), and the same ornaments appear occasionally in the tails of some letters (see, e.g., note 10 to the transcript). The language is very good Sanskrit and throughout metrical. As regards the orthography, the constant substitution of va for baand the frequent use of the Jihvâmûlîya and Upadhmáníya deserve to be noted, as well as some rather unusual sandhis,-e.g., in samaniádyatu for samantáddyatu, line 4; saśśrímán for sa śrímán, line 5; nirmánádve for nirmáṇáddve, line 12; satphalánammramúrtiḥ, line 15; and so forth.
-
-
 
  The object of the inscription is to record the building, it would seem, of a triple temple of Vishņu, and it contains a so-called Praśasti or eulogy, as is expressly stated in verse 26. It opens with a maṅgala of four verses, verses 1-2 being addressed to Vishṇu, verse 3 to the Kurukshetra, and verse 4 to the sacred stream Sarasvati, which flows near Pṛithudaka-Pehoa. Verse Verse 5 praises the ruling king of the country, Mahendrapâla[^1469].
 
@@ -9560,8 +9003,6 @@ Gogga     Pârnaraja     Devaraja
 [^1470]: "See Burgess's Archeological Surv. Rep. Western India, vol. II, pp. 169 ff. and Fergusson's Indian and Eastern Architecture, p. 232, where the building is called the temple of Vastupâla and Tejpala. Other examples occur in the Dekhan, as, for example, the temple of Mânakesvara at Lakkundi.-J."
 
  The next verso (23) gives the name of the architect, Achyuta, son of Râma, who was a native of Kâmboja, or a Kâbuli. Verse 24 enumerates the names of three villages, Yakshapālaka, Gejjara, and Pâțala, which were assigned for the bhoga of the deity,
-
-
 
 EPIGRAPHIA INDICA.
 
@@ -9589,8 +9030,6 @@ L. 1. ओंनमो माधवाय ॥
      ध्वस्ते ध्वान्तरिपौजने विघटिते स्रस्ते च तारागणे ।  
      भ्रष्टे भूवलये गतेषु च तथा रत्नाकरेष्वेकतामेको यस्स्वपिति प्र-
 
-
-
 L.2.[धानपुरुष ≍पायात्स वः शार्ङ्गभृत् ॥ \[१ \] ॥][^1473]
 
 दृष्टि≍\[पायान्निजग\]दखिलं शार्ङ्गिणं x कान्तमूर्ते x  
@@ -9613,6 +9052,8 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 
 [^1476]: "9.Metre, Sragdhara.The lacuna in the first Pada must"
 
+[^1477]: "10 Metre, Praharshini. The नof मानसं has an ornmontal tail, turned to the right, to which two small hoohs are attached. The lacuna in the first Pada may perhaps be filled by मनुग्रहीतु०."
+
 6. आसीत्तोमस्तुङ्गवंशति\[लकश्चण्डप्र\] तापोज्वलो  
 राजा रंजितसाधुवृत्त\[हृदयो दु\]र्वृत्तशैलाशनिः ।  
 नाम्नाजाउल इत्यपूर्वचरितख्यातो दयालंकृति[स्तत्वालोकिविलोकितक्षितिपतिव्यापारलब्धोदयः॥ \[६\] ॥][^1478]  
@@ -9621,13 +9062,9 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 कीर्त्यायस्य च नाकनागनिकरव्यासङ्गतः सङ्गमाद्व्यो[म्नश्च स्फुरदिन्दुसुन्दररुचा स्वस्मिन्धुलीलायितम् ॥ \[७\] ॥][^1479]  
 प्रतिदिश-
 
-[^1477]: "10 Metre, Praharshini. The नof मानसं has an ornmontal tail, turned to the right, to which two small hoohs are attached. The lacuna in the first Pada may perhaps be filled by मनुग्रहीतु०."
-
 [^1478]: "11. Metre, Sardulavikridita. The restoration in the first Pada is purely conjectural."
 
 [^1479]: "12Metre, Sardulavikridita."
-
-
 
 \[ममरा\]णांमन्दिराण्युच्छ्रिताग्र–
 
@@ -9652,6 +9089,8 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 
 [^135]: "Metre, Âryâ."
 
+[^1483]: "Metre, Śâlinî."
+
 तस्यस्फुरन्निशितखड्गनिकृत्तशत्रो–  
 स्त्रस्तान्धदीननिकरोद्वरणोरुकीर्तेः।  
 सद्वृत्तरक्तवनितातिलकाङ्गकल्पे  
@@ -9660,8 +9099,9 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 
 [^113]: "Metre, Vasantatilakâ."
 
-[^1483]: "Metre, Śâlinî."
+[^113]: "Metre, Vasantatalakâ."
 
+[^113]: "Metre, Vasantatilakâ."
 
 विशिष्टगुणनिर्माणाद्वेएव सदनं श्रियः[॥\[१३॥\]][^1485]  
 चन्द्रायास्ममजनि गोग्गनामधेयो धीराणां धुरि विनिवेशितो विधात्रा।  
@@ -9669,23 +9109,20 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 
 [^1485]: "Metre, Anushṭubh. Read नायिकेति."
 
+[^1486]: "Metre, Praharshiṇî. The bracketed letters are veryindistinct, with the exception of the vowel i and î; the firsttwo look almost like ºर्गदिº."
+
 अ\[सू\]त \[च वि-\]चक्षणं क्षतविपक्षपक्षप्रभं  
 प्रभाकरकरोत्करं स्ववलसैनिकाम्भोरुहाम्।  
 अधर्मपरिपन्थिनं तदनु पूर्णराजं सुतं  
 स्ववंशगगनोदरे तुहिन\[दीधितिं नायि\]का [॥\[१५॥\]][^1487]
 
-[^1486]: "Metre, Praharshiṇî. The bracketed letters are veryindistinct, with the exception of the vowel i and î; the firsttwo look almost like ºर्गदिº."
+[^1487]: "Metre, Pṛithvî. The bracketed letters are indistinct."
 
 करत\[ल\] स्थगिताधरपल्लवा ≍प्रतनुकान्तिकपोलतलोदरम्।  
 सिषिचुरसुजलैर्यदरिस्त्रियस्मरलितप्रचुरालकजालकाः[॥\[१६॥\]][^1488]  
 तस्य भ्राता गुणनिधिरभूत्सोदरोदेवराजः
 
-[^1487]: "Metre, Pṛithvî. The bracketed letters are indistinct."
-
 [^1488]: "Metre, Drutavilambitâ. Read ºरश्रुº."
-
-
-
 
 स्फूर्जत्तेज≍प्रविहतपरस्फारसेनान्धकारः।
 
@@ -9714,16 +9151,16 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 
 [^1491]: "Metre, PṛithvÎ."
 
+[^1492]: "Metre, Mandâkrântâ. Read विणोº. The bracketedsigns are very indistinct."
+
 **18.**गोग्गेन कारितं मध्ये पूर्णराजेन पृष्ठतः।  
 पुरतो देवराजेन घनान्धतमसछिदे।[\[।२१॥\]][^1493]  
 चतुस्समुद्रसीमांकं यावदेतन्महीतलम्।  
 इदमायतनं तावद्विभातु सदनं श्रियः[॥\[२२॥\]][^114]
 
-[^1492]: "Metre, Mandâkrântâ. Read विणोº. The bracketedsigns are very indistinct."
+[^1493]: "Metre, Anushṭubh. Read ºतमसच्छिदे.."
 
 [^114]: "Metre, Anushṭubh."
-
-[^1493]: "Metre, Anushṭubh. Read ºतमसच्छिदे.."
 
 धन्वन्तरि\[प्र\]तिनिधिश् श्रुतसारमूर्ति-  
 **19.** स्सद्बन्धुरच्युत इति प्रकटाभिधानः।  
@@ -9741,13 +9178,11 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 
 [^1496]: "Metre, Anushṭubh. The bracketed syllables have beenconjecturally restored."
 
+[^1497]: "Metre, Sàvitrî Read दृद्दीशे :—"
+
 स्वकुलगगनभ\[ानुः\] -ि -ा॒रप्रसक्तः  
 श्रुतविनयविदग्धोभटराम x किलासीत्।  
 अकृत मधुर \[वन्धां सु\] - स्तस्य
-
-[^1497]: "Metre, Sàvitrî Read दृद्दीशे :—"
-
-
 
 **L.21**सूनुस्मरसललितसारांल्लीलयेमां प्रशस्तिम्[॥\[२६॥\]](https://# "Metre, Mâlinî. The bracketed letters in the first Pâda havebeen conjecturally restored; those in the third arevery indistinct, with the exception of the Anusvâra and मु. Read भट्टº.")  
 वभूव सूत्रधारोत्र दुर्लभादित्यसंज्ञितः।  
@@ -9771,8 +9206,6 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **6.** I take सुमन्ताद्यतु in the fourth Pâda to stand for समन्तात् and द्यतु, just as निर्माणाद्वेin verse 13 line 12) stands forनिर्माणात् and हे. The words placed between square brackets are, here and in the sequel, translations of my conjecturalrestorations.
-
-
 
  (*V.* 7.) He conducted his relatives to highest prosperity . . . .., presentingas offerings to the earth, pieces cut off from the temples of the mighty elephants of his foes;and his fame, that possessed a splendour fair like the glittering moon, assumed the guiseof the stream of heaven (*Gaṅgâ*), since it clave to the heavenly elephants and united withthe sky.
 
@@ -9802,8 +9235,6 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 
 **2.**The double meanings of स्निग्धच्छाय and सत्फलागद्यमूर्ति have been intentionally omitted.
 
-
-
  (*V.* 18.) When the proud (*foes*) whose exceeding brilliancy unfolded itself in thebattle merely heard the most famous name of that (*warrior*) who angrily furrowed hisface with frowns, then their strong swords fell from their hands.
 
  19.) When suppliants with rapture looked on his lotus face, their mental anxietycompletely vanished in an instant; and the crowd of hostile, trumpeting elephantsalways shook before him in battle, ready to disperse.
@@ -9828,8 +9259,6 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 
  (27.) Here was a mason named Durlabhâditya. \[*His son*\], wise . . . . .âlâditya,\[*has engraved it.*\]
 
-
-
 **XXXI.—BILHARI STONE INSCRIPTION OF THE RULERS OF CHEDI.**
 
 **BY PROFESSOR F. KIELHORN, PH.D., C.L.E; GÖTTINGEN.**
@@ -9843,10 +9272,6 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 
 **1.** The text has been published before, with an abstract of the contents, by Dr. F. E. Hall in the *Jour. As. Soc. Beng*. vol. XXX, pp. 317-334; and the contents of the inscription, as furnished by Dr. Hall, have been discussed by Sir A.Cunningham, *Archæological Survey of India*, vol. IX, pp. 80 and 102-105. My own text, which will be found to differin some important particular from Dr. Hall's, has been prepared from two good impressions, one of which I owe to Dr.Burgess and the other to Mr. Fleet.
 
-
-
-
-
 frequently doubled, *e.g.*, in *śvetâtapattrâyitaṁ*, line 1; *nettrâd-Attrer-ddharittrî-*, line 8;*Dattâttreya*, line 5, etc.; —and, on the other hand, a single consonant has been employedinstead of a double consonant in *ujvalimâ*, line 3; *ujvalam,* lines 28 and 30; *ᵒlasadyu°* (for*ºlasad-dyu*), line1; *âsidvishadº* (for *âsid-dvishadº*) and *procḥchhalajvâlâ°* (for *prochchhalaj-jvâlâº)*, line 4. Lastly, the syllable *ri* has been used instead of the vowel ṛ*i* in*dripta,* line 12, and in *satyâdritas,* line 14. As instances of wrong grammatical forms.I may point out *akṛita*, used in a passive sense (for *akâri*) in verse 54, and the masculine*ºsrakchandanâdîn* in verse 62, wrongly employed instead of the neuter *ºsrakchandanâdîni.*
 
  The inscription may possibly have contained a date at the end of the last line; but,if such was the case, it has become entirely effaced, and is no longer legible. I havealready stated that the inscription has been composed by two different authors; andI have no doubt that, what is now its first portion, from verse 1 to 45, originally was,or formed part of, an independent *praśasti,* and that this original *praśasti* was renewedand enlarged by the addition of the verses 46-86 of the present inscription, two or threegenerations after the composition of the first part.
@@ -9854,8 +9279,6 @@ frequently doubled, *e.g.*, in *śvetâtapattrâyitaṁ*, line 1; *nettrâd-Attr
  The object of the first part (versces 1-45) is, to record that the queen Nohalâ, thewife of (the Chedi ruler) Keyûravarsha, erected a temple of Śiva at which the inscription may be supposed to have been put up; that she endowed this temple with (therevenues of) the villages Dhaṅgaṭapâṭaka, Poṇḍî, Nâgabala, Khailapâṭaka,Vîḍâ, Sajjâhalî and Goshṭhapâlî; and that she also gave the villages of Nipânîyaand Ambipâṭaka to the sage Îśvaraśiva, a disciple of Śabdaśiva, who again was adisciple of Pavanaśiva (verses 40-45). Nohalâ was a daughter of Avanivarman,a son of Sadhanva and grandson of Siṁhavarman, of the clan of the Chaulukyas (verses 33-37). And her husband Keyûravarsha was a son of the princeMugdhatuṅga (verse 18), who was a son of Kokkalladeva (verse 12), described as adescendant of Arjuna (Kârtavîrya, verse 8), of the tribe of the Haihayas (verse 7),who belonged to the lunar race. Of Kokkalladeva it is recorded (verse 17) that he setup two unprecedented columns of his fame,' which I understand to mean that he wasallied with, and supported the rule of, Kṛishṇarâja in the south and Bhojadeva inthe north; and Mugdhatuṅga is eulogised as having conquered the lines of country bythe shore of the eastern sea and wrested Pâli from the lord of Kosala.
 
  The second part of the inscription (in versc 46) opens with the statement thatNohalâ's son by Yuvarâjadeva was Lakshmaṇarâja, —from which it is clear that theprince Keyûravarsha, who is spoken of in the preceding, was surnamed Yuvarâjadeva. Lakshmaṇarâja, called 'the moon of the Chedis' (verse 56) and 'the powerful Chedilord' (verse 59), made over the sacred buildings which had been founded by Nohalâ tocertain sages whose spiritual lineage is detailed in verses 48-58. On his warlike expeditions he is said to have reached the shores of the western ocean, where he worshippedŚiva at the famous temple of [Someśvara](https://# "The same story is told of Yuvarâjadeva, the father of Kokalla, in the Karaubel inscription of Jayasiṁhadeva. SeeIndian Antiquary, vol XVIII p. 215.")or Somanâtha in Gujarât; and he also isreported to have defeated the ruler of Kosala, and to have despoiled him of a valuableeffigy of Kâliya which had been obtained from the lord of Oḍra, and which subsequently
-
-
 
 was by Lakshmaṇarâja likewise dedicated to Someśvara (verses 59-63). His son wasŚaṁkaragaṇa (verse 64), and the younger brother of this prince was Yuvarâjadeva(verse 67). Nothing of historical importance is recorded of either of these two brothers.
 
@@ -9876,8 +9299,6 @@ was by Lakshmaṇarâja likewise dedicated to Someśvara (verses 59-63). His son
  Reserving a full account of the history of the Chedi rulers for a future occasion, Iwill only state here that I agree with Sir A. Cunningham in assigning the Kokkalladeva of this inscription to the end of the ninth century A. D., and in distinguishinghim from Kokalladeva, the son of Yuvarâjadeva and father of Gâṅgeyadeva, of otherChedi inscriptions, who must have lived about 100 years later. For there can beno doubt that the Kṛshṇarâja and Bhojadeva, who are spoken of as his contemporaries, are the Râshṭrakûṭa Kṛshṇa II., whom we know to have married a daughterof [Kokkalla](https://# "See Fleet, Dynasties of the Kanarese Districts, pp. 57 and 35-36."),and who reigned from about A. D. 875 to about A. D. 911, and Bhojadevaof Kanauj, for [whom](https://# "See ante, p.171.")we have the dates A. D. 862, 876, and 882, and who had ceasedto reign in A. D. 903. And considering this point to be certain, I feel no hesitationin assigning our inscription to about the end of the 10th or the beginning of the11th century A. D., —a period to which it may be assigned also on palæographicalgrounds.
 
  There are still one or two points in our inscription which may here be drawn attention to. The account of the sages who are mentioned in connection with the princeLakshmaṇarâja opens by glorifying a place Kadambaguhâ (verse 48), and mentions aprince, named Avanti, who apparently made over to one of the sages a town whichwas perhaps called Mattamayûra. These (and one or two other) names occur alsoin an inscription at Ranod, which has been edited in the *Jour*. *As. Soc. Beng.*vol. XVI, p. 1080, but which must remain useless for the elucidation of the presentinscription until it has been edited properly. Besides, we find towards the end of ourinscription, between verses 83 and 84, the names of the towns Tripurî, Saubhâgyapura, Lavaṇanagara, Durlabhapura, and Vimânapura (?), the inhabitants of whichwould seem to have had to contribute towards the support of the temple founded byNohalâ. Of these towns, which no doubt all belonged to the Chedi kingdom, Tripurîhas been identified with the village of Tewar near Jabalpur, and Saubhâgyapura probablyis the town of Sohâgpur in the Hoshangâbâd District; the others I am unable to identify. And lastly, it may be pointed out that verse 85 contains a curious reference to thepoet Râjaśekhara, whom in my account of the Sîyaḍoṇî inscription I have shown tohave flourished at the beginning of the tenth century A. D. The manner in which
-
-
 
 his name is mentioned here[^1500],shows that he must have been a poet of great repute aboutthe commencement of the eleventh century.
 
@@ -9953,8 +9374,6 @@ his name is mentioned here[^1500],shows that he must have been a poet of great r
 
 [^1512]: "Read ºवांविधति."
 
-
-
 **BILHARI CHEDI INSCRIPTION.**
 
 **नेत्त्रादत्त्रेर्हरित्त्रीधवलनसुहृदां च्धाम धाम्नामुदंच-**
@@ -10021,8 +9440,6 @@ his name is mentioned here[^1500],shows that he must have been a poet of great r
 ----------------------------------------------------------------------------------------------------------  
 **30.** Readर्यहलैवलङ्गिः.
 
-
-
 **L.8 **
 
 **अवैन्ध्यन्तटमाददाने दाने द्व सेनागजभञ्जनेन।  
@@ -10080,8 +9497,6 @@ his name is mentioned here[^1500],shows that he must have been a poet of great r
 **न प्रोद्भूतिमवाप पांशुपटलं भूयोगृहीतद्विष-**
 
 **द्व(द्व)न्दीवृन्दवहद्विलोचनपयःपूरप्लुतायां भुवि॥ - \[25\].**
-
-
 
 **यस्मंयति प्रकटपाटितकुभिकुम्भिकुम्भमुक्ताफलप्रचयवाहमुवाहदेवः।  
 भूयोनिपीतदृढपीडनवेगवान्तविद्वेषिकीर्त्तिकणकीर्ण्णमिवासिदण्डं[॥](https://# "Metre, Vasantatilaka.")– \[26\].  
@@ -10151,8 +9566,6 @@ his name is mentioned here[^1500],shows that he must have been a poet of great r
 
 **विभवति च वि\[स\]\[ र्प्प(च्छौ)\]र्यसौन्दर्यव -**
 
-
-
 **L.15 **
 
 ** र्यक्षितिधरपरिपाटीसूत्रितेतत्रगोत्रे  
@@ -10205,8 +9618,6 @@ his name is mentioned here[^1500],shows that he must have been a poet of great r
 दत्तौ विद्याधनत्वेन ग्रामावग्राम्यया तया[॥](https://# "Metre, Śloka(Anushṭubh).")- \[44\].  
 धङ्गटपाटकपोण्डीनागव(ब)ला\[:^(x)\]खैलपाटको वीडा।  
 सज्जाहली च दत्ताः स्मरारये गोष्ठपाली [च](https://# "Metre, Ârya.")॥ - \[45\].**
-
-
 
 **ख्यातः श्रीयुवराजदेवनृपतेस्तस्यामभूद्भूपतिः  
 श्रीमल्लक्ष्मणराजऊर्ज्जितमहा भास्वानिवाभ्युन्नतः।  
@@ -10267,8 +9678,6 @@ L.19 कामं यः कमनीयसुन्दरगुणैर्न�
 
 [^168]: "Metre, Śloka (Anushṭubh
 
-
-
 **स्वीकृत्यापि मुनिर्भूदो मठं श्रीनौहलेवरम्।  
 अघोरशिवशिष्यस्य साधुष्ठ वृ\[त्त\]ह्य स्यदत्तवान्॥–\[58\].**
 
@@ -10307,8 +9716,6 @@ L.23 दिशमतिशयरम्यां सम्प्रतस्थ�
 26.द्भूपैर्यच्चरणारविन्दपतितैर्भृङ्गैरिवा\[ङ्ग?\]स्थितम्।  
 यः सत्यव्रतसत्व(त्त्र) सूक्तिवसतिः श्रीविक्रमैकाश्रयः  
 प्रायस्तस्य न सज्जनोपि सकलान्वक्तुंगुणान्श(ङ्श)स्यति॥–\[67\].**
-
-
 
 दंष्ट्राकोटिविपाटनोग्रवदनः [क्रूरस्वरो](https://# "Originally क्रूरःस्वरी, but visarga struck out.") भासुरी
 
@@ -10356,8 +9763,6 @@ L.23 दिशमतिशयरम्यां सम्प्रतस्थ�
 सकलसुखविशेषाद्यत्त्रपीयूषवर्षः स्वयमनुभवगम्यो जायते त्वत्प्रसादात्॥–\[76\].  
 भूपत्रययशोराशिवर्णनं प्रथमं कृतम्।  
 श्रीमता श्रीनिवासेन श्रीस्विरानन्दसूनुना[॥](https://# "Metre, Śloka (Anushṭubh ); and of the next verse.")–\[77\].
-
-
 
 **भूपतीनां त्रयाणां तु कीर्त्तिकीर्तनमुज्व(ज्ज्व)लम्।  
 विहितं \[स\]ज्जनेनाथ सुधिया थीरसूनुना॥–\[78\].  
@@ -10411,8 +9816,6 @@ L.23 दिशमतिशयरम्यां सम्प्रतस्थ�
 
 [^1530]: "Here about fourteen aksharas are illegible in the impressions."
 
-
-
 **TRANSLATION.**
 
 **Oṁ !**
@@ -10444,8 +9847,6 @@ L.23 दिशमतिशयरम्यां सम्प्रतस्थ�
 **1.** The noun खेलis generally feminine (खेला). I am doubtful about the meaning of the word ग्रन्थ, which I havetranslated by 'stake'. Both ग्रन्थ and पणare given as synonyms of धन.
 
 **2.** See, *e.g.*, Vishṇupurâṇa, Wilson's translation, p. 417: Râvaṇa . . . was taken prisoner by Kârtavîrya (Arjuna),and confined like a tame beast in a corner of his capital,' *Matsyapurâṇa*, adhy. 43; H*arivaṁśa*, adhy. 33.
-
-
 
 when it took fright at the fire which issued from the thunderbolt as it vibrated andbroke in striking (*Rávaṇa's*) broad chest, —that indeed truly tells *his* renown.
 
@@ -10483,8 +9884,6 @@ when it took fright at the fire which issued from the thunderbolt as it vibrated
 
 **5.** If I understand the verse rightly, the word किञ्*च*in the second line is superfluous; and लभ् withprep. वि isemployed in an unusual sense.
 
-
-
 and that headless corpses were running away, that the young imps were howling, thatthe fire of fire-mouthed goblins met the eye blazing forth from the hollows of sculls, andthat all was terrific with the fearful ill-boding cries of jackals howling in their desire ofdevouring flesh.
 
  (*Verse* 21.) On his expeditions the forests by the sea, near which his army encamped,had the number of their coral-sprouts doubled by the tips of the hands of women, stretchedforth to gather them.
@@ -10507,8 +9906,6 @@ and that headless corpses were running away, that the young imps were howling, t
 
  (30.) There was (*a sage*), free from the blemishes of sin, Bharadvâja by name,who was the one regent of all whose wealth consisted in quiescence. From his maleenergy, deposited in a water-pot, sprang that Bhâradvâja (Droṇa) whose conductroused the wonder of the three worlds.
 
-
-
  (*Verse* 31.) The charm of whose fame completely filled the three worlds, whosefortune was equal to his desires, and the might of whose anger, as regards both his curseand his bow, would have been suitable at the destruction of the universe. What canwe say of that one ocean of policy and valour, more than this that (Arjuna), thehusband of Subhadrâ, who with ease humbled the great pride of Śarva, was his disciple ?  
  (32.) Even that son of [Dharma](https://# "i.e., Yudhishṭhira; compare Śiśupâlavadha, II, 9. Yudhishṭhira retired from the contest before his teacher Droṇa."),minding his promise, retired, deprived of thehope of conquering the adversaries, when he saw how *he*, whose strong arm was expertin wielding the bow, with a mass of powerful arrows cut up the Pâṇḍava army.
 
@@ -10529,8 +9926,6 @@ and that headless corpses were running away, that the young imps were howling, t
  (40.) To secure (*the merit of)* pious deeds, she built for the god, who is the soleobject of Umâ's affection, this temple which obstructs the progress of the sun with itstops the points of which graze the clouds, —a collection of her own fame as it were inbodily form;
 
  (41.) the flags on which do not flutter, because, I fancy, they are constantlysprinkled with the foam of the horses of the lord of day, fatigued with their ceaselessmarch through the sky;
-
-
 
  (*Verse* 42.) and on the broad pinnacles of which, lofty and spotless as it [is](https://# "I can find no suitable meaning for the word सारक, at the end of the first line."), therows of fresh clouds, clinging to them in the rainy season, appear like swarms of doves.—
 
@@ -10560,8 +9955,6 @@ and that headless corpses were running away, that the young imps were howling, t
 
  (54.) Then (*came*) his disciple, named Hṛidayaśiva, a mine of all excellencies,whose fame deserves to be sung of even now; the soles of whose uniquely vencrable feetwere [rendered](https://# "In the original, अकृत is used wrongly instead of the passive formअकारि.")lustrous by the collections of jewels in the diadems of princes.
 
-
-
  (*Verse* 55.) For whom is that holy man not an object of laudation, —he who, anabode of every kind of knowledge, wise (*and*) true to his vows, still further increased therenown spread over the illustrious Mâdhumateya lineage; and who surpassed the earthby his patience, the cloud by his fairness, the ocean by his propriety of conduct, (*and)*the god of love by his freedom from passion ?
 
  (56.) Or, rather, what need has that eminent sage of praise at all, —he whom theillustrious prince, the moon of the Chedis, having shown his devotion by presents sentby well-conducted messengers, in due form brought hither, full of respect ?
@@ -10590,8 +9983,6 @@ and that headless corpses were running away, that the young imps were howling, t
 
 **1.** Dr. Hall states that it is the custom to make fancied representations, in miniature, of the serpent Kâliya which wasdestroyed by Kṛishṇa, and to hang them about the neck of images of Śiva.
 
-
-
  (*Verse* 67.) His younger brother was the illustrious prince Yuvarâjadeva, onwhose lotus-feet princes have indeed bent down, like bees (*alighting on them*). Of onewho (*like him*) is an abode of devotion to truth, of goodness and friendly speech, (*and*)the one resort of fortune and valour, surely a good man even will not be able to tell allthe excellent qualities.
 
  (68.) This prince mastered with his arm, and slew with his hand which wielded aknife, the radiant, fiercely roaring, most terrific tiger-shaped demon, whose mouth wasawful as it tore (*men*) to pieces with its sharp teeth, whose eyes were blood-shot all overwith rage, who used his paws as weapons of attack, and sprang forward with upliftedtail.
@@ -10617,8 +10008,6 @@ and that headless corpses were running away, that the young imps were howling, t
 ----------------------------------------------------------------------------------------------------------------
 
 **2.** The word स..... of the original has reference to the mixtureof the two fluids, the bitter water of the river and thefragrant rutting-juice.
-
-
 
  (*Verse* 78.) And the bright eulogy of the renown of the three (*othe*r) princes hasbeen afterwards composed by Sajjana, the intelligent son of Thîra.
 
@@ -10660,8 +10049,6 @@ and that headless corpses were running away, that the young imps were howling, t
 
 **6.** I am unable to construe this genitive with either the preceding or the following verse. Perhaps Sîruka was thewriter who originally wrote the ealogy of the first three princes.
 
-
-
 **CINTRA PRASASTI OF THE REIGN OF SARANGADEVA.**
 
 **XXXII.—THE CINTRA PRAŠASTI OF THE REIGN OF SARANGADEVA.**
@@ -10673,8 +10060,6 @@ and that headless corpses were running away, that the young imps were howling, t
   The inscription is incised with great care and neatness on a long slab of polished black stone, measuring, according to the rubbing, 42 inches by 20, and containing 66 lines. The stone is now preserved in the Quinta of Don João de Castro at Cintra, but, as the contents of the inscription show, it originally belonged to a temple at Somanâtha or Devapattana in Sorath. The document is on the whole well preserved. But four syllables are gone in the middle of line 18; 4 to 12 syllables at the ends of lines 23-28; and 2 to 5 in the first parts of lines 49-53. Besides, a few single letters have been destroyed or become indistinct here and there. The alphabet is the common Nâgariof the thirteenth century, which shows only a few archaic forms, e.g., the initial i consisting of two circles and a semicircle, the gha with three vertical strokes, the ba consisting of a va with a dot in the centre of the loop, and a free use of the prishthamátrá. In the top-line the medial i and the anusváras show ornamental forms, just as in many Jaina MSS. The language is not quite correct Sanskrit, and, with the exception of two short sentences in the beginning and at the end, is throughout metrical. Towards the end some Gujarâtî words and Gujaraticisms occur in the list of the benefactions; likewise a number of difficult expressions not traceable in the Sanskrit dictionaries. As regards the spelling, it must be noted that, though ba and va are distinguished, we find instead of Brihaspati always Vrihaspati and for vitaka always bitaka. The inscription contains a Praśasti (verse 75), composed in honour of the consecration of five Lingas which a Saiva ascetic, called Tripurantaka, erected at Somanâthapattana or Devapattana, or Prabhâsa, the famous Saiva Tirtha in Sorath (Kathiâvâd), now usually called Verâval. The poem opens with a Mangala consisting of three verses, 1-3, which are preceded by a short prose invocation of Siva. The first two verses are addressed to Siva and the third to Ganesa. Next follows the genealogy of the Chaulukya kings of Gujarât, who were descended from the Vyâghrapalliya or Vâghelâ branch, founded by Dhavala.
 
   (Verse 4.) "The victorious, illustrious Visvamalla, a head-jewel of princes, adorned (formerly) the Chaulukya race, he whose scimitar, though it had only two edges, his enemies (seeing it) from afar, regarded as (a thunderbolt) with a hundred edges."
-
-
 
   (Verse 5.) "This sole lord of the world, a wonderful abode of courage, who around uprooted with his arm, that is akin to the thunderbolt, the firmly rooted mountain-like kings, was called by his people king Narayana."
 
@@ -10698,25 +10083,15 @@ and that headless corpses were running away, that the young imps were howling, t
 
   The second point of historical interest which the inscription offers, is the statement that Visvamalla had a younger brother, called Pratapamalla, and that the
 
-
-
 ![](../books_images/U-IMG-1698509108Screenshot2023-10-28213243.png)
-
-
 
 **RATANPUR INSCRIPTION OF JAJALLADEVA ; CHEDI YEAR 866**
 
 ![](../books_images/U-IMG-1698509495Screenshot2023-10-28213952.png)
 
-
-
 **GWALIOR INSCRIPTION OF THE YEAR 933.**
 
 ![](../books_images/U-IMG-1698509882Screenshot2023-10-28214741.png)
-
-
-
-
 
 second Våghelà king Arjuna was the son of the latter. The *Prabandhas* knówn to me, which notice the Vaghelà kings, speak only of an elder brother, Virama, whom Vastupala removed in order to secure for Visvamalla the succession to the throne of Dholka. The works, in which Arjuna's name occurs, e.g., the *Vichárasreņi*, Dr. Bhandarkar's anonymous Fragment, and the *Pravachanaparikshá*, state nothing regarding his relation to his predecessor. Thirdly, the inscription informs us that the name of Viśvamalla's wife, i.e., his first queen, was Någalladevi. With respect to Saranga, finally, we are told that he defeated the Yâdava and Mâlava kings, and we may at least infer from this statement that the old feuds of the Chaulukyas with their south-eastern and eastern neighbours continued almost as long as their kingdoms existed. The Yadava foe of Saranga must have been Ramachandra, the last independent Hindu monarch of Devagiri, who mounted the throne in 1271 A.D., and died in 1309 A.D., as a vassal of the Muhammadan emperor of Delhi. The name of the king of Mâlava, with whom Sâranga fought, is ascertainable from the authentic lists hitherto published.
 
@@ -10737,8 +10112,6 @@ second Våghelà king Arjuna was the son of the latter. The *Prabandhas* knówn 
   (16.) "In this (*place*) appeared, in order to fulfil particular Pasupata vows, four pupils of his, called Kuśika, Gârgya, Kaurusha and Maitreya.
 
   (17.) “Afterwards the race of these ascetics, which grew up in four (branches), adorned the earth that is bounded by the four oceans.
-
-
 
   (Verse 18.) "Through the succession of high-minded men who were favoured by those (*four*) arose the glorious .... ka, possessing boundless wealth.
 
@@ -10766,8 +10139,6 @@ second Våghelà king Arjuna was the son of the latter. The *Prabandhas* knówn 
 
 [^1539]: "Regarding the substitution of na for la and of la for na see Kuhn, Beiträge zur Pali-Grammatik, pp. 38 and 44; Hemachandra, I, 230, 257; Beames, Comparative Grammar.§248; Hoernle, Grammar of the Gandian languages, § 111. My reasons for considering Lakulîsa as the older form are, (1
 
-
-
 of the Nakulisa Pasupatas are explained at length in Sâyaṇa's *Sarvadarśanasaṁgraha*, pp. 108ff. (Cowell and Gough). But nothing is known regarding their history. It is therefore very interesting to learn that in the thirteenth century A.D. Gujarât was considered to be the country where the sect arose and that Kârohana— Kârvân claimed the honour of being the place where its founder was born and where his school was divided into four branches. It must, of course, depend on the results of further discoveries, which an archaeological exploration of the site of Kârvan will no doubt furnish, whether we can accept these claims as well founded. As regards the antiquity of thesect, not much can be gathered from the statements in the inscription. Kârttikarasi, the first historical head of these Pâsupatas, cannot have succeeded to his office much before the year 1225 A.D. since the third was alive in 1287.
 
   The contents of the next verses are not important enough to require their being translated in full. It will suffice to give a short analysis, which course is made advisable too by the fact that most of them are badly mutilated. According to verses, 23-24 Tripurântaka's pilgrimage was first directed to the Himalaya, where he visited Kedara, i.e., Kedârnâth in Garhwâl, and there worshipped Śiva with lotuses taken from the pure Brahmasaras. Thence he turned southwards and bathed at Prayaga, modern Allâhâbâd, at the confluence of the Ganga and Yamunâ (verse26). From Allâhâbâd he wandered to the Sriparvata (verse 27), which he circumambulated in the orthodox,fashion, and where he was blessed by the aspect of divine Mallinatha. This mountain, which seems not to be identical with the Southern Sriparvata or Śrîsaila, must lie, if the order of the places visited is correctly given, south of Allâhâbâd and north of the Narmada. For the next verse (28) informs us that Tripurântaka afterwards bathed in "the waters of the Revâ which are tossing among the rocks of the Vindhya mountains that are hallowed by the traces of Agastya's foot-steps." From the Narmada he turned to the Godâvarî (verso 29) and visited Tryambaka, i.e., Trimbak near Nâsik. Still continuing to travel southwards, the pilgrim reached Râmeśvara and the bridge of Râma (verse 30). Finally he returned to the north-west and came to Devapattana or Prabhâsa, where the river Sarasvatî flows into the ocean (verses 31-33). There he received high honours from the chief temple-priest.
@@ -10782,8 +10153,6 @@ of the Nakulisa Pasupatas are explained at length in Sâyaṇa's *Sarvadarśanas
 
   What these honours conferred on Tripurântaka exactly were, whether *Arya* and *Mahattara* refer to offices or were, what is more probable, mere titles, I am unable to determine. I must content myself with pointing out that, according to verse 9 of the
 
-
-
 Somnáthpattan Prasasti (Wiener Zeitschrift, loc. cit., p. 8), Bhava Brihaspati received the same honours from king Jayasimha-Siddharâja. The gaṇḍa Brihaspati, who honoured Tripurântaka, is of course not, as Dr. Bhagvânlâl suggests. (Mem. Arch. Surv. West. Ind., No. 9, p. 104), the gaṇḍa Bhâva Brihaspati, who was the contemporary of Jayasimha and of Kumarapala, For these two kings reigned between Vikrama Samvat 1150 and 1229, while the date of our inscription is more than a hundred years later. Moreover, the two Brihaspatis are clearly distinguished from each other by the statements regarding their wives. Bhâva Brihaspati was married, according to verse 35 of the Somnâthpattan *Prasasti*, to Mahadevi, daughter of Soḍhala, and our Brihaspati to Umâ (below, verse 43). The name Brihaspati must, therefore, have been borne by more than one priest in charge of the temple of Somanåtha at Devapattana or Prabhasa.
 
   The honours which Tripurantaka received induced him to realize the hopes of the Châturjâtaka and to spend considerable sums on the Tirtha. The following verses (40-46) inform us that (1) he built five temples, (2) dedicated five statues, and (3) erected a toraṇa supported by two pillars,— a sort of triumphal arch. The five temples were situated, according to verse 40, to the north of the mandapa or hall of the temple of Someśvara, close to the splendid old water-clock (ghatikálaya),¹[^1542]and on the site²[^1543] of Srikantha-Pañchamukha, i.e., five-headed Siva, surnamed Srikantha. The first of these temples (verse 41) was built for the welfare of Tripurântaka's mother Malhana and called Målhaneśvara. The second (verse 42) was dedicated to Umâpati and erected in the name of the priest Brihaspati, who was the husband of Uma. The third, called Umesvara (verse 43), was built for the welfare of the priest's wife. The remaining two, a Tripurântakeśvara and a Rameśvara, were named after the founder and his wife (verse 44). The five statues,³[^1544]a Gorakshaka (Gorakhnâth), a Bhairava, an Âñjaneya (Hanuman), a Sarasvatî, and a SiddhiVinayaka (Gaṇeśa), were placed in the antarálas of the five temples. The torana finally was crected "on the space (bhúparisure) before the northern gate of these (five temples)." This statement indicates that the temples were surrounded by a wall, and that the arch adorned the principal entry into the enclosure, which had to be made on the north side, as the great temple of Someśvara lay to the south and east, and to the west the sea.
@@ -10796,8 +10165,6 @@ Somnáthpattan Prasasti (Wiener Zeitschrift, loc. cit., p. 8), Bhava Brihaspati 
 
   Almost the whole remaining portion of the inscription (verses 47-72) is taken up by the enumeration of the benefactions which Tripurântaka made in order to provide for the service of his temples, and by rules regarding the worship. This section offers considerable difficulties, because it contains a number of words either not found in the accessible dictionaries and koshas, or found with meanings attached which do not fit, and because the rules regarding the worship are awkwardly arranged and obscure. I believe that the only chance of clearing up all the difficulties would be enquiries on the spot among the priests of Somnath and of other Saiva establishments in Kâṭhiâvâḍ
 
-
-
 and Gujarât. As I am not able to institute such, my translations and explanations must remain in some cases merely tentative, and in other cases I have to confess my ignorance. The enumeration of the benefactions and of the rules runs as follows:—
 
   (Verse 47.) "In order to cleanse the gods daily— two *kavadise*¹[^1545] of water and a broom of Zizyphus jujuba"²[^1546] for sweeping the buildings—³[^1547]
@@ -10806,9 +10173,9 @@ and Gujarât. As I am not able to institute such, my translations and explanatio
 
 [^1546]: "Kolini I take as an equivalent of kolamayf, made of kola or branches of the Zizyphus jujuba."
 
-  (48.) "Both these (*things*) must be procured⁴[^1548](and used) by a particularly clever pupil (batuka) in return for the use of the naivedya food⁵[^1549]and of the money (allotted) for his monthly expenses.⁶[^1550](*These verses form*) a couplet.
-
 [^1547]: "Jagati has here the meaning vastu, given for the word in the Vaijayanti of Yadavaprakasa. Compare also the vernacular jago, jagya, ' place, spot,' etc."
+
+  (48.) "Both these (*things*) must be procured⁴[^1548](and used) by a particularly clever pupil (batuka) in return for the use of the naivedya food⁵[^1549]and of the money (allotted) for his monthly expenses.⁶[^1550](*These verses form*) a couplet.
 
 [^1548]: "The verb kri is used here, just as in Gujarati and other vernaculars, in a very loose manner, and must be variously rendered, as the context requires, by 'procure,' 'assign,' etc. The meaning is here that the Batuka or Chelft is not only to procure the things mentioned, butalso to use them. It will appear in the sequel that he is to do all the manual work of the worship."
 
@@ -10822,13 +10189,13 @@ and Gujarât. As I am not able to institute such, my translations and explanatio
 
 [^1551]: "I am unable to explain this word, which looks suspicions. But the letters are perfectly distinct."
 
-  (51.) "He assigned in the parikshipaṭṭa six drammas for the monthly expenditure in order to procure......a pure vediká.⁹[^1553]
-
 [^1552]: "Kanavira is the Prâkrit and vernacular form of Sanskrit karavira. The equivalent which the gardeners received for furnishing these flowers is mentioned below, vorse 65."
 
-  (52.) "Two mânakas¹⁰[^1554]of husked rice (chosha)¹¹[^1555]and one mânaka of Phaseolus mungo (mudga), four *karshas*¹²[^1556]of clarified butter, and as much oil for the lamps.¹³[^1557]
+  (51.) "He assigned in the parikshipaṭṭa six drammas for the monthly expenditure in order to procure......a pure vediká.⁹[^1553]
 
 [^1553]: "I am unable to give a full translation of this verse, as I do not understand the words dhâtivdha and parikshipaṭṭa. Parikshi may be the Sanskrit for the modern Pârikh or Pârakh, a kind of money-changer."
+
+  (52.) "Two mânakas¹⁰[^1554]of husked rice (chosha)¹¹[^1555]and one mânaka of Phaseolus mungo (mudga), four *karshas*¹²[^1556]of clarified butter, and as much oil for the lamps.¹³[^1557]
 
 [^1554]: "Mánaka was, according to Berûnî, Indica, vol. I, p. 166, in Somnâth, a measure equal to five mand. The word may be connected with Gujarâtî mâna, 'a large earthen jar.'"
 
@@ -10836,9 +10203,9 @@ and Gujarât. As I am not able to institute such, my translations and explanatio
 
 [^1556]: "According to some authorities a karsha is equal to two tolâs. If it had the same value in Kathiâvâd, the quantity is equal to eight tolàs. At presont ghf and oil are sold by the tolå of 110-180 grains according to local custom."
 
-  (53.) "Five betel-nuts of good quality—(all this) was provided by that constant man, a judge of the merits of others, daily in the store-house.¹⁴[^1558](These two verses form) a couplet.
-
 [^1557]: "The singular dipâyais probably used loosely for the plural. The lamps are required for the Arâtrika in the morning and evening."
+
+  (53.) "Five betel-nuts of good quality—(all this) was provided by that constant man, a judge of the merits of others, daily in the store-house.¹⁴[^1558](These two verses form) a couplet.
 
 [^1558]: "I have left out in the translation the word sthitake, which occurs also below in verses 60, 61, and 66, as neither the dictionaries nor the koshas accessible furnish an olue to its meaning. May it mean 'in perpetuity P'"
 
@@ -10846,29 +10213,27 @@ and Gujarât. As I am not able to institute such, my translations and explanatio
 
 [^1559]: "A maṇa, now commonly called a maund, is equal to about 40 pounds, or, if kâchâ, to 20 pounds."
 
-
-
   (Verse 55.) "The *Mehara*¹[^1560]shall give daily fifty leaves of .... betel pepper for the preparation of *biṭakas.*²[^1561]
 
 [^1560]: "The Mehara probably belonged to the Kathiâvâd caste called Mer in the Bombay Gazetteer, and described there, vol. VIII, pp. 137-38. He was probably in some way, perhaps as watchman, connected with Tripurântaka's temples, and received an allowance from him, though none is mentioned specially."
 
-  (56.) "That which thus has been provided for the offerings in the sacred place (*the temples*) must be fetched by the Paśupâla³[^1562]from the store-house of glorious \[*Somanátha*\]⁴[^1563]and be given (by him to the person performing the worship).⁵[^1564]
-
 [^1561]: "A bijaka is the little three-cornered parcel of ground arecanut, lime, etc., which is wrapped up in a betel pepper leaf and held together by a clove stuck into the leaf, what is usually called pân-supárí."
+
+  (56.) "That which thus has been provided for the offerings in the sacred place (*the temples*) must be fetched by the Paśupâla³[^1562]from the store-house of glorious \[*Somanátha*\]⁴[^1563]and be given (by him to the person performing the worship).⁵[^1564]
 
 [^1562]: "Pasupâla means usually ‛a herdsman.' If the word is to be taken here in that sense, it is difficult to understand how a herdsman was connected with the Saiva worship. I suspect that it is the title of Saiva priest connected with the worship of Siva, the Pasupati."
 
 [^1563]: "If the rostoration Somanatha is correct, it shows that the store-house mentioned above in verse 53 is that of the great temple."
 
-  (57.) “One máņaka of rice (chosha) and two pallikas⁶[^1565]of Phaseolus mungo, as well as two karshas of clarified butter, and so forth, must be daily given (*by the keeper of the store-house*) to the Pasupála for the offerings.⁷[^1566]
-
 [^1564]: "The person to whom the materials are to be given is the Saiva pupil; see verses 58-59."
+
+  (57.) “One máņaka of rice (chosha) and two pallikas⁶[^1565]of Phaseolus mungo, as well as two karshas of clarified butter, and so forth, must be daily given (*by the keeper of the store-house*) to the Pasupála for the offerings.⁷[^1566]
 
 [^1565]: "A pallikamust be a small measure, as the mung is only used for seasoning the rice."
 
-  (58.) "\[*Even this*\] must be daily given for the *Naivedya* offering; then that food must be carefully cooked by the pupil (*batuka*).
-
 [^1566]: "The materials were of course intended for the daily Naivedya of the five gods. Regarding the translation of iti by ‛and so forth,' see the note to verse 59."
+
+  (58.) "\[*Even this*\] must be daily given for the *Naivedya* offering; then that food must be carefully cooked by the pupil (*batuka*).
 
   (59.) "After performing the declaration of purpose (*samkalpya*), the *Pasupála* must give that *Naivedya* and the *bítakas* to the pupil who performs *\[the worship*\].⁸[^1567]
 
@@ -10876,27 +10241,25 @@ and Gujarât. As I am not able to institute such, my translations and explanatio
 
 [^1567]: "Compareabove, verse 48. The mention of the bijakas shows that the enumeration of the materials in verse 57 is not complete, and that the word iti, which is added at the end, really means 'and so forth.'"
 
-  (61.) "Even there¹⁰[^1569] in the custom-house.") this noble-minded man caused nine drammas to be assigned \[*monthly*\] for the maintenance of the pupil (*batuka, who serves the temples.*)¹¹[^1570]
-
 [^1568]: "The meaning is that Tripurântaka paid money in order to secure this grant and that mentioned in the next verse. For verse 71 declares that he purchased the sarana with his pure self-acquired wealth. Regarding mandapikâ, ‘ a customhouse,' see ante, pp. 7 and 115. I have again omitted the word sthitake."
+
+  (61.) "Even there¹⁰[^1569] in the custom-house.") this noble-minded man caused nine drammas to be assigned \[*monthly*\] for the maintenance of the pupil (*batuka, who serves the temples.*)¹¹[^1570]
 
 [^1569]: "‘There,' i.e. (from the revenue
 
-  (62.) "Fifteen *drammas* must be given every month to the *Pasupala,* who comes to perform incomparable worship \[*according to the law*\].¹²[^1571]
-
 [^1570]: "The pupil is the person mentioned above in verses 48, 58-59. The word sthitake has been omitted also in the translation of this verse."
 
-  (63.) "For this purpose he (*Tripurántaka*) placed every month fifteen drammas in the treasury (?) of the worshipful *Châturjâtaka*.¹³[^1572]
+  (62.) "Fifteen *drammas* must be given every month to the *Pasupala,* who comes to perform incomparable worship \[*according to the law*\].¹²[^1571]
 
 [^1571]: "The Pasupâla is no doubt the person mentioned abows in verses 58-59, and below in verse 69."
 
-  (64.) "Rejoicing in his heart, he purchased for money from the worshipful *Châturjátaka* three cxcellent shops and presented (*them as an endowment for his temples*).
+  (63.) "For this purpose he (*Tripurántaka*) placed every month fifteen drammas in the treasury (?) of the worshipful *Châturjâtaka*.¹³[^1572]
 
 [^1572]: "The translation of sammilitapottake by 'in the treasury' is merely tentative. I take pottaka to be an adaptation of the Persian fotah, which occurs in Gujarâtî as potumand means "
 
+  (64.) "Rejoicing in his heart, he purchased for money from the worshipful *Châturjátaka* three cxcellent shops and presented (*them as an endowment for his temples*).
+
   (65.) "The best among these, the illustrious Châturjataka, who wears the
-
-
 
 garland of the faith in the god (Siva), made over to the gardeners in exchange for their daily furnishing the quantity of flowers (required) for the worship.¹[^1573]
 
@@ -10906,9 +10269,9 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 
 [^1574]: "I translate mahājanaḥ by 'the merchants in accordance with the usual acceptation of mahājan in Gujarâtî."
 
-  (67.) "At the Sivaratri (*festival*) the betel-nuts for the *bitaka* of the Châturjataka⁴[^1576]must be furnished by the store-house (*of the temple of Somandtha*) and the leaves by the Mehara.
-
 [^1575]: "I have left out the word viseshasthitake, which I understand as little as the technical meaning of the words pavitraka and vistaraṇa, which have not been translated."
+
+  (67.) "At the Sivaratri (*festival*) the betel-nuts for the *bitaka* of the Châturjataka⁴[^1576]must be furnished by the store-house (*of the temple of Somandtha*) and the leaves by the Mehara.
 
 [^1576]: "It is customary to offer pân-suparí to officials or heads of towns and villages on the occasion of great festivals."
 
@@ -10935,8 +10298,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
   After a further general eulogy of Tripurântaka in verses 73-74, we learn from verse 75 that Dharaṇidhara, son of Dhamdha, was the author of our Prasasti. Verse 76 further declares that the manuscript of the poem was written by the councillor (*mantrin*) Vikrama, the son of Purṇasimha, and that it was incised by the artist (*silpin*), i.e., the mason Pûnasiha, the son of Nâhada. According to the colophon the consecration of the (*five*) Lingas¹⁰[^1582]took place on Monday, the fifth lunar day of the bright half of Magha, Vikrama Samvat 1343, or, according to Dr. Schram's calculation, on January 20th, 1287 A.D., which was a Monday. This date is not of any great historical importance, because according to the chronicles, Sâranga ruled for 20 or 22 years until 1296-97 A.D.
 
 [^1582]: "As there were five temples, there must have been five Lingas."
-
-
 
 **TRANSCRIPT.**
 
@@ -10982,11 +10343,11 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 
 शस्त्रैस्तेन चिकित्सितास्तदुचितं विश्वोपकारव्रत-
 
-स्नातेन प्रतिभूभुजामपि हृदः प्रौढा मदग्रंथयः। ६ \[॥\]⁴[^1586]
+स्नातेन प्रतिभूभुजामपि हृदः प्रौढा मदग्रंथयः। ६ \[॥\]⁴[^2379]
 
 **7**नागल्लदेवीति बभूव यस्य जाया जयश्रीरिव देहवद्धा।
 
-[^1586]: "Metre, śārdūlavikridita."
+[^2379]: "Metre, śārdūlavikridita."
 
 तया स राजा सुतरां बभासे भासेव देवो हरिणांकमूर्त्तिः। ७ \[॥\]⁵[^1587]  
 **.8**आशांतविश्रांतभुजप्रतापः प्रतापमल्लावरजः स राजा।
@@ -10995,8 +10356,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 
 स्वपौरुषोत्कर्षरसातिरेकादेकातपत्रां बुभुजे धरित्रीं। ८ \[॥\]  
 **.9.**श्रीविश्वमल्लःस्वपदेभिषिच्यप्रताप-
-
-
 
 **L.10.** मज्ञात्मजमर्ज्जुनं सः।  
 साकं सुधापाकमभुक्त\[नाक\] नितंबिनीनामधरामृतेन।९\[॥\]¹[^1588]  
@@ -11042,8 +10401,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 
 [^1595]: "Metre of verses 17-18, Auushtubb. The sixth and seventh syllables of verse 17 are blurred."
 
-
-
 **L. 18.** हीतानामन्वयेन महात्मनां।  
 निःसीमवैभवं श्रीम x x x x कमित्यभूत्। १८ \[॥\].  
 गार्ग्येयगोत्राभरणं बभूव स्थानाधिपः कार्त्तिकराशिनामा।  
@@ -11088,8 +10445,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 [^1600]: "Metre of verses 24-27, Upajati."
 
 निःकल्मषाकृतिषु विंध्यगिरेः शिलासु।
-
-
 
 रेवाजलानि गजराजविगाहलीला-
 
@@ -11144,8 +10499,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 
 [^1610]: "Metre. Varnsastha."
 
-
-
 **L. 37.**स्य पुण्यघटितस्य रमेति प्रेयसी भुवनभूषणमास्ते।३८ \[॥\]¹[^1611]  
 सरस्वतीमौलिशयालुकेतकीपलाशलक्ष्मीसहपांशुकेलयः।  
 **38.**महात्मनो यस्य महीज्वलागुणा दिगंमनानामवतंसतां ययुः।३९\[॥\]²[^1593]  
@@ -11187,8 +10540,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 [^1617]: "Metre, Rathoddhala."
 
 [^1618]: "Metre, of verses 47-48, Anushtubh."
-
-
 
 **L. 46.** दातव्यं मालि\[क\]श्रेण्या शतपत्रशतद्वयं।  
 नवीनकणवीराणां द्वेसहस्रेच नित्यशः। ५०\[॥\]¹[^1620]  
@@ -11233,8 +10584,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 
 [^1625]: "The laouna has to be filled up by writing प्रतिमासमुदारधीः."
 
-
-
 **L. 54.** देयाःपंचदश द्रम्माः पशुपालस्य \[धर्म्म\] तः।६२ \[॥\]  
 चातुर्जातकपादानां यः संमिलितपोत्तके।  
 ततः पंचदश द्रम्मान् प्रतिमासं व्यधत्त यः।६३ \[॥\]  
@@ -11277,8 +10626,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 
 [^1633]: "Read तदव्विशेषº; संबद्धित्तेषु,"
 
-
-
 **L. 61.** एतस्य शारदतुषारमयूखशेखानिःकल्मषाणि चरितानि जगत्पुनंति। ७४ \[॥\]¹[^1634]  
 सोमार्कवक्तशशिमंडलतो निपीय पीयूषवहसखितानि सुभाषितानि।  
 **65.**एषा प्रशस्तिरनवद्यपदार्थबन्धा धंधात्मजेन विदधे धरणीधरेण। ७५ \[॥\]  
@@ -11291,7 +10638,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 [^1634]: "Read "
 
 [^1636]: "Read प्रविहामहोत्सवः."
-
 
 **XXXIII.—THE MATHURA PRASASTI OF THE REIGN OF VIJAYAPALA,  
 DATED SAMVAT 1207.**
@@ -11306,13 +10652,9 @@ DATED SAMVAT 1207.**
 
   The circumstances stated make a continuous translation of the document impossible. Its general contents, which are perfectly clear, are as follows:— After a short prose invocation of Ganapati, follows the *Mangala*, which contains one verse addressed to the same deity, and two in honour of Vishnu— Krishna. The conclusion of the *Mangala* is indicated by the words: "Thus even first." Next we have (verse 4) the encomium of a
 
-
-
 Kshatriya race whose name has been lost. The first individual of this family, whom the inscription mentions (verses 5-6), is the illustrious Simharâja. His son (verse 7) was the illustrious Tejaraja. The name of the son of the latter, verse 8, has been lost. But we learn from the fragment of the marginal verse 9 that he married ‛the virtuous daughter of the king of Avanta,' *i.e*., probably Avanti or Målva. The name of the son of this couple, as well as of his consort, who is referredto in verse 10, is again lost. But their son was called Jajja (verse 11), and his virtues are described in, verses 12 to 15. The description seems to have been purely conventional. Verse 16 speaks of an 'illustrious personage named Rissika’ and immediately afterwards refers to Jajja's consort. The natural interpretation of the fragments is that Jajja's wife was Rissika's daughter. Verse 17 informs us that Jajja had by her four sons. Their names are lost with the exception of one, ‛the illustrious Asika.' The information, conveyed in these verses, may be thus given in tabular form :—
 
 ![](../books_images/U-IMG-1698489584Screenshot2023-10-28160912.png)
-
-
 
   From verse 18 we learn that "Jajja, who long carried the burden of the *varga*, together with a committee of trustees (*goshthíjana*), built a large temple of Vishnu, brilliantly white and touching the clouds." The committee mentioned may have been that of some older Vaishnava temple or that formed by the persons mentioned further on. Verse 19 contains a prayer for the duration of the building. The next verses (20-23) enumerate the names of the trustees of the temple, *viz*., Râma son of Tilha, Peichittika (?), . . . śa son of Dhanika, Narada son of Manga, Jasika son of ?, Vasanta son of Țila, Dhantuka son of Kala, Mahipâla son of Sobhara,¹[^1638]\[Mâdha\]- v a son of. . ?, Phullârî son of Sada, Devara son of Madhava, Sodhala son of Râmapâla, and Selhaṇa son of Rajika, whose functions, it seems, were to descend to sons and grandsons (verse 23). Verses 24 to 26 mention the endowments of the temple.
 
@@ -11320,12 +10662,9 @@ Kshatriya race whose name has been lost. The first individual of this family, wh
 
   24. "Now hereafter are written the endowments, (*vritti*) of the god of gods, who wears the war-disc, which (*endowments*) have been given by the king and the inhabitants of the town :—  
 
-
   25. “ (*Viz.*) two houses and six rows of shops (*vithi*), a garden for the god, a *guni-prasriti* of rice (*anna*) possessing the proper weight, size and flavour ;²[^1639], and a prasriti is a bandful equal to two palai. Therice was of course destined for the Naivedya. offering.")
 
 [^1639]: "I do not know what a gonîprasriti may be. A gonê is a late measure equal to four khârís (Colebrooke, Mise Essays, vol. I, p. 537
-
-
 
   26. “At each engine¹[^1640]a *palí* shall be taken, a .. from the flower-garland-maker, and the fourth part from the *mápaka*,²[^1641]whoever may be the *mapaka*."
 
@@ -11343,7 +10682,6 @@ Kshatriya race whose name has been lost. The first individual of this family, wh
 
 TRANSCRIPT.  
 
-
 L. 1. ओं ॥ ओंगणपतये नमः ।  
 दिभ्यास वः कैरवकु  
 सिदंतो हिरदाननस्य \[॥\]  
@@ -11357,45 +10695,7 @@ L. 1. ओं ॥ ओंगणपतये नमः ।
 
 [^1643]: "Metre, Sardůlavikridita. Restore in the first pâda स्विर वः कराThe dha of स्वर्गुणी is imperfectly formed and looks like da."
 
-
-
 ![](../books_images/U-IMG-1698508728Screenshot2023-10-28212809.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **L. 4.** नः\[।\]  
 समस्तभुवनाकरः कमलचक्रभूषाकरः  
@@ -11438,8 +10738,6 @@ L. 1. ओं ॥ ओंगणपतये नमः ।
 
 [^1649]: "Metre, Sârdûlavikridita. The fourth missing pâda is probably that noted in the margin; see below, line 30."
 
-
-
 ![](../books_images/U-IMG-1698820369Screenshot2023-11-01120215.png)
 
 **L. 12.** रोहिणीमिव सुनिर्म्मान्धा गि\[रा\] -  
@@ -11478,9 +10776,7 @@ x x xजज्जः सज्जनभूषणं ।
 
 [^1655]: "Metre, Vaanntatilaka."
 
-
 [^1656]: "Metre, śārdūlavikridita. Read at the beginuing of the third pada शौलाचार.°"
-
 
 ![](../books_images/U-IMG-1698516611Screenshot2023-10-28233930.png)
 
@@ -11521,8 +10817,6 @@ x x \[शो\] धणिकात्मजः ॥ \[२०\]⁴[^1660]
 
 [^1661]: "The bracketted lettersin verses 20 and 21 arc mutilated and uncertain."
 
-
-
 ![](../books_images/U-IMG-1698556037Screenshot2023-10-29103652.png)
 
 L. 27. \[प्र\] सृतिरन्नस्य भानोन्मानरसादिका \।\। \[२५\]  
@@ -11554,8 +10848,6 @@ BY VAJESHANKAR G. OJHA, EsQ., AND G. BüHLER, PH.D., LL.D., C.I.E.
 
   The inscription, to which Mr. H. H. Dhruva first called attention in the *Indian**Antiquary*, vol. X, p. 160, is incised on a stone slab in the Arjun Bari near the Sámelatank at Vaḍnagar. To judge from the impression it measures 35 1/2 inches in heightby 32 inches in breadth, and contains 46 lines of badly engraved, ordinary Nágaricharacters. The preservation is tolerably good except in the middle, where line 19 hasbeen entirely destroyed by a break in the slab, and lines 17, 18 and 20 have sufferedsmaller or greater losses. Lines 26 and 27 have lost a few letters at the end. Thelanguage is Sanskrit, and with the exception of the introductory invocation and of twocolophons is throughout metrical. Mistakes of various kinds are exceedingly numerous,and there is hardly a single verse which does not require more or less extensive emendations. But all the faults in the first verses are apparently due to the negligence of the
 
-
-
 copyist or of the engraver. The spelling is simply execrable. The corrections in the notes to the text rectify only the worst cases. The smaller mistakes, which will befamiliar to every student who has read bad manuscripts, have not been touched.
 
   The inscription contains a second-hand copy of Sripâla's eulogy on the rampart of Nagara-Ânandapura, built in Vikrama Samvat 1208, by the Chaulukya king Kumarapâla, and two additional verses, composed by the writer of the copy, which was made on the restoration of the rampart in Vikrama Samvat 1689. Sripâla's poem opens with a prose invocation to Siva and a *mañgala*addressed to Brahman (verse 1). The next seventeen verses (2-18) give an account of the origin of Chulukya, the *heros eponymos of the Chaulukya race*, and of the first eight Chaulukya rulers of Gujarat. The list agrees with those known from other sources:—
@@ -11571,23 +10863,19 @@ copyist or of the engraver. The spelling is simply execrable. The corrections in
 
   The historical notes, appended to the names of the several kings, furnish not much that is new, but are of value on account of the age of the inscription, which is about as old as the oldest *Prabandha*, Hemachandra's *Dvyáśrayakávya*. Of Mâlarâja we hear (verse 5), that "he made the Fortuna of the kingdom of the Châpotkata princes, whom he took captive at his will, an object of enjoyment for the multitude of the learned, of his relatives, of Brâhmaṇs, bards, and servants." This statement agrees with that contained in Mûlarâja's land grant (*Indian Antiquary*, vol. VI, p. 192), where it is asserted that "he conquered the province watered by the river Sarasvatî through the strength of his arm," and furnishes an additional argument for assuming that the first Chaulukya gained Gujarât by conquest, not, as the *Prabandhas* narrate, by the treacherous murder of the last Châpotkaṭa, his near relative. Verse 6 speaks of a successful war, waged by Châmuṇḍa, against the king of Sindh. This point is not mentioned in any other document, but is not incredible, as Sindh formed the western border of the Chaulukya kingdom, and as somewhat later both Bhimadeva and his son Karna were at feud with its rulers. With respect to Vallabharâja the inscription asserts (verse 7), that he made an inroad into Mâlava, which the Kirtikaumudî (ii, 11), the *Sukritasaṁkírtana* (ii, 13), and some later *Prabandhas*, likewise report, while Hemachandra is silent regarding it. So long as Someśvara's and Arisimha's testimony was not supported by earlier evidence, the point remained at least doubtful. Now the case is different, and it becomes difficult to assail the authenticity of the tradition. Durlabharâja, we are told, conquered Lâța, which feat is not mentioned in the other sources. Usually the annexation of central Gujarat to the Chaulukya kingdom is ascribed to Múlarája. Equally interesting is the fact that our *Prasasti* (verse 9) ascribes to Bhimadeva the conquest of Dharâ. This likewise agrees with the statements of the *Kirtikaumudí* (ii, 17-18), of the *Sukritasamkírtana* (ii, 17-19), and of the later *Prabandhas*, which assert that Bhima caused the destruction of Bhoja. Hemachandra's omitting to notice it now loses its
 
-
-
 importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfortunately been mutilated. The only complete verse (11) mentions his taking the king of Mâlava, *i.e*., Yasovarman, captive and his possessing the philosopher's stone, or rather tincture, with the help of which he paid the debts of all his subjects, and it would seem that the fragments of verse 12 referred to the king's power.over the evil spirits. It thus appears that Sripala, just as Hemachandra in the *Dvyáśrayakávya*, thought it necessary to endow his master with supernatural powers. The five verses 14 to 18, referring to Kumârapâla, highly extol his two well-known victories over Arņorâja, the king of the North (verse 17), *i.e*., of Sakambharî-Sâmbhar in Râjputânâ, and over the ruler of Mâlava, the king of the East. The latter seems to have lost his life in the defence of his country; for verse 15 asserts that his head was suspended at the gate of Kumârapâla's palace, and verse 17 again alludes to his severed head. Both wars are mentioned in most other sources. Nevertheless it is important to learn from our Prasasti that they were finished before Vikrama Samvat 1208. Hitherto it was only possible to say, on the strength of the statements in the Nâmdol grant, that Arnorâja had been conquered before Vikrama Saṁvat 1213. Now we learn that the rising in Mâlava, which Jayasimha had formerly annexed to Gujarât, was also subdued five years earlier.
 
   Verses 19—29 contain the praise of the ancient Brâhmaṇical settlement of Nagara or Ânandapura and of the rampart with which Kumarapala surrounded it, as well as a wish for the duration of the latter. Ânandap'ura, which now is usually called Vaḍnagar, or in Sanskrit Vriddhanagara, lies in the Kheralu subdivision of the Kadi district, belonging to the Gaikovåd of Baroda¹[^1666]. The earliest mention of its existence occurs in Hiuen-Tsiang's Travels (*Si-yu-ki*, vol. II, p. 268). Somewhat later its name appears in the Valabhî landgrants, and it is probably this Ânandapura where Siladitya VI. Dhrubhata issued his śásana of (Gupta)-Samvat 447.²[^1667]
 
 [^1666]: "Bombay Gazetteer, vol. VIII, p. 624"
 
-  As is well known, it is the original home of the Nâgaras, the most important section of the Brâhmans of Gujarât, whose great influence with the princes of Gujarât is attested by credible testimony since the tenth century.³[^1668] Considering the early importance of the place, it is rather astonishing that, as the *Prasasti* asserts, it had no walls until the reign of Kumârapala.
-
 [^1667]: "Indian Antiquary, vol. VII, p. 81, and corpus Inserip., Ind vol. III, p.1718"
+
+  As is well known, it is the original home of the Nâgaras, the most important section of the Brâhmans of Gujarât, whose great influence with the princes of Gujarât is attested by credible testimony since the tenth century.³[^1668] Considering the early importance of the place, it is rather astonishing that, as the *Prasasti* asserts, it had no walls until the reign of Kumârapala.
 
 [^1668]: "Bhandarkar, Report on Sanskrit MSS. of 1888-84, p. 20."
 
   Verse 30 gives the author's name, and informs us that Sripâla was adopted as a brother by Jayasimha-Siddharâja and bore the title Kavichakravartin, ‘ an emperor among poets.' Sripâla is frequently mentioned in the *Prabandhas* as Jayasimha's poet-laureate. The *Prabhávakacharitra* (xxii, 206-8) names the Vairochanaparájaya as his chief composition, and asserts that he wrote *Prasastis* for the Durlabharâjameru and for the Rudramahalaya in Sristhala-Siddhapura. Merutunga in the *Prabandhachintämani* (pp. 155-6) speaks of his eulogy of the famous Sahasralinga tank, excavated by Jayasimha near Anhilvâd-Pâtan. A verse of his is quoted by Sarngadhara in the *Paddhati*, cxxxiii, 7 (No. 3789, ed. Peterson). From our *Prasasti* we learn that he continued to hold his office under Kumârapâla. His successor was, according to Rajasekhara's *Prabandhakosha*, his son Ratnapâla.
-
-
 
   The writer of the *Prasasti* was the Nagara Brâhman, Pandit Vâlaṇa, and the date V. S. 1208, Âśvina sudi 5 (?), a Thursday, must fall between A.D. 1150 and 1152. It is possibly Thursday, September 28, 1151 A.D.
 
@@ -11629,8 +10917,6 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
 क्रोताः सर्वदिगंतरक्षितिभुजां
 
-
-
 **L.8.** लक्ष्मणश्चिरं मेजिरे॥ ५\[॥\]  
 सूनुस्तस्य बभूव भूपतिलकश्चामुंडराजाज्ञयो  
 यज्ञंधद्विपदानगंधपवनाघ्राणेन दूरादपि।  
@@ -11669,8 +10955,6 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 वश्यावेश्म रसा-
 
 [^1677]: "Read ºशिवीमूर्त्तº; सद्यःः ; ºजगद्गौतीपमानº; ºनृपतिः; सिद्धाधिराजलतःThe bracketted letters are not very distinct."
-
-
 
 ![](../books_images/U-IMG-1698835548Screenshot2023-11-01161532.png)
 
@@ -11715,8 +10999,6 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
 ![](../books_images/U-IMG-1698835855Screenshot2023-11-01161443.png)
 
-
-
 **L. 26.**कुले यस्य प्रतापद्रुमः॥ १७ \[॥\]¹[^1682]  
 आचारः किल तस्य रक्षणविधिविधेशनिर्नाशित-
 
@@ -11756,8 +11038,6 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 [^1687]: "Read ºविभवोत्कर्षº,"
 
 मा भूतस्य तथापि तीव्रतपसो बाधेति भक्त्या नृपो।
-
-
 
 वप्र वि॑प्रपुराभिरक्ष\[ण\] कृते निर्मापयामास सः॥२३ \[॥\]¹[^1688]  
 अस्मिन्वप्रगुणेन तोयनिलयाः प्रीणंति लोकं जलैः  
@@ -11800,9 +11080,7 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
 [^1694]: "Metre, Mandlkrantà Readनिदानं; एषः ."
 
-
 [^1695]: "Metre, Upajati. Rend महाप्रबन्धः,"
-
 
 **L.44.** संवत १२०८ वर्षे आश्विन शुदि \[५\] गुरो लिखितं नागरब्राह्मणपंडितवालणेन॥¹[^1696]  
 **45.** चौलुक्य\[नाम्नाह्य\] धिपेन कारिता प्रतोलिका या\[र्जु\]न\[वा\]द्विकोपनत्।  
@@ -11841,8 +11119,6 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
   (5.) He made the Fortuna of the kingdom of the Chåpotkata princes, whom he took captive at his will, an object of enjoyment for the multitude of the learned, of his relatives, 'of Brâhmaṇs, bards and servants. Won by his valour that mightily blazed forth in battle, the guardian goddesses of the kings of all the other regions then clave for a long time to the Fortuna residing in his sword.
 
-
-
   (*V*.6.) His son was that front-ornament among kings, called Chamuṇḍaraja. Inhaling even from afar the breeze perfumed with the ichor of his (*Chamunda's*) excellent elephants, the illustrious Sindhu-king fled together with his own elephants that were cowed by the smell of (*their opponent's*) rut, and vanished in such wise that even all trace of the fame of that prince was lost.
 
   (7.) From him was born a crest-jewel among princes named Vallabharaja, who astonished the circle of the earth by his bold deeds. Densely dark smoke,rising from the empire of the Mâlava king, who quaked on hearing of his marching, indicated the spread of the fire of his anger.
@@ -11861,9 +11137,9 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
 [^1704]: "The poet means to say that Karṇa made only lawful conquests (dharmya vijaya`, and by his adherence to the sacred law injured wicked Kali."
 
-  (14.). . . . . . . He who, like (*Vishnu*) disguised as a boar, uplifted the earth at the command of the God of gods,⁵[^1706]was his majesty King Kumarapala, the crest-jewel of the reign of Sri,⁶[^1707]and on account of his majestic power he was considered by the people as Hari who had descended from heaven.
-
 [^1705]: "The poets did not say ‘Jayasimha is as brave as a lion, but the lion is as brave as Jayasimha.' Bhaktyákrishtedyádi may possibly also be translated 'to whom Siva, attracted by his devotion, personally appeared.' Vv. 12 and 13 are too frag-mentary to be translated."
+
+  (14.). . . . . . . He who, like (*Vishnu*) disguised as a boar, uplifted the earth at the command of the God of gods,⁵[^1706]was his majesty King Kumarapala, the crest-jewel of the reign of Sri,⁶[^1707]and on account of his majestic power he was considered by the people as Hari who had descended from heaven.
 
 [^1706]: "L.e. probably Siva."
 
@@ -11873,8 +11149,6 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
 [^1708]: "The goddess Chandi always must be propitiated by blood, especially by human blood. She is said to be seated on the king's aru, because he possesses chandapratāpa, 'fierce prowess.'"
 
-
-
   (*V. 16*.) He who is the path for a new descent of pure virtuous conduct, who is expert in causing the appearance of numerous works of true piety, and who is the leader of the caravan travelling on the road of righteousness, subjects to himself, methinks, (*not only*) the circle of the earth, (*but*) also the arrangement of time, since he now makes the Krita age appear and disregards the suitability of the (time of) Kali.
 
   (17.) The tree of his prowess, which bears glittering sprouts in the guise of slender fingers, cut off. . . . .., resplendent flowers in the shape of white umbrellas left behind by the flying king of the North, and as a shining, moist (?) fruit, the severed lotus-head of the ruler of the East, gave wide-spreading shade to his own race.
@@ -11883,13 +11157,13 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
 [^1709]: "The Prabandhas mention that Kumarapala used to worship Kanteśvariand other Devis in the month of Âévina according to the custom of his family; see Ueber das Leben des Jaina Mönches Hemachandra, p. 45 f."
 
-  (19.) This earth, that is blessed in being enjoyed by that king (*Kumárapála*), that is surrounded by the oceans as by a girdle resplendent with glittering jewels, whose breasts are the Snowy Mountain and the Vindhya, bears a sacred settlement of Brâhmans, rich in men of a noble caste, called Nagara, which resembles an ornamental ivory-ring placed in its ear.³[^1711]
-
 [^1710]: "Compare the expression in the land-grants, Umâpativaralabdhaprasâda, which invariably stands before Kunara. påla's name."
 
-  (20.) Even here Dharma, who has suffered a fall with respect to his feet,⁴[^1712]joyfully moves about during the wholefour ages, since he finds a support for his hands in the sacrificial pillars erected for the series of great sacrifices which the sages continuously performed from the beginning of Brahman's (*life*). Hence the gods gave to this (*lown*) its second name Ânandapura.
+  (19.) This earth, that is blessed in being enjoyed by that king (*Kumárapála*), that is surrounded by the oceans as by a girdle resplendent with glittering jewels, whose breasts are the Snowy Mountain and the Vindhya, bears a sacred settlement of Brâhmans, rich in men of a noble caste, called Nagara, which resembles an ornamental ivory-ring placed in its ear.³[^1711]
 
 [^1711]: "Srutydfrayam, ‘placed in its ear,' must probably also be taken with Nagara in the sense of ' a home of the Vedas.'"
+
+  (20.) Even here Dharma, who has suffered a fall with respect to his feet,⁴[^1712]joyfully moves about during the wholefour ages, since he finds a support for his hands in the sacrificial pillars erected for the series of great sacrifices which the sages continuously performed from the beginning of Brahman's (*life*). Hence the gods gave to this (*lown*) its second name Ânandapura.
 
 [^1712]: "Dharma loses in each Yuga one foot, and one-legged in the Kali ago."
 
@@ -11898,8 +11172,6 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
   (22.) There even the streets, resplendent with the rays of the jewels in the various ornaments of the Brâhmans' wives taking their walks, and made noisy by the auspicious sounds of uninterrupted songs, proclaim the excellence of the most beneficent reign of the king with respect to the splendour of the great wealth that is indicated by never-ending festivals.
 
   (23.) There the Brâhmans, descended from the Nâgara race, protect the king andthe realm and guard them by sacrifices that ward off evil and cause prosperity. Lest, nevertheless, this Brahman-town, though thus given up to difficult austerities, should suffer harm, the king, full of devotion, ordered a rampart to be built for its protection.
-
-
 
   (*V*. 24.) "In consequence of the excellence of the rampart the drinking-fountains^(1[^1713])gladden people there with water, even the cultivated fields, enclosed by the rampart, bring at pleasure rich crops;" thinking thus in his heart the crest jewel of the Chaulukyas adorned this whole town with a rampart, desiring to benefit the Brâhmans.
 
@@ -11935,8 +11207,6 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
   Written Samvat 1208, on the 5th (?) day of the bright half of the month of Âśvina, a Thursday, by the Nâgara Brâhman, Pandit Valana.
 
-
-
   (1.) The causeway leading to the Arjuna-Bârikâ, built by the Chaulukya king, has been rebuilt by the prince....
 
   (2.) In the month of Chaitra, during the bright half, on the first day, a Thursday, in the year (*marked*) by the Nandas, the eight and the kings, 1689, the eulogy was written again.
@@ -11960,8 +11230,6 @@ BY PROFESSOR F. KIELHORN, PH.D., C.I.E., GöTTNGEN.
 
 [^1723]: "Varendriis identified with that part of Bengal which is now called Rajshahi (or Rajasahi
 
-
-
 which we have here before us. Besides, tradition¹[^1724]makes both poets live under the king Lakshmaṇasena; and if Umâpatidhara was an older contemporary of Jayadeva, he may well have witnessed the reign of Lakshmaṇasena's grandfather Vijayasena, and in that case nothing is more likely than that he should have composed this eulogy on the earlier members of the Sena family.
 
 [^1724]: " See the extract from a commentary on Gîtagovinda, i, 4, in Lesson's edition, p.72, 'Lakshmaṇasenasya sâmājikān varṇayati;' the first note on Govardhana's Aryasaptasatî, in the Karyamala; Professor Peterson's edition of Vallabhadeva's Subhâshitâvaří, Introduction, p. 38; Merutninga's Prabandhachintamani, p. 289; and Professor Aufrecht in Zeitschrift D. M. G., vol. XL, p. 142."
@@ -11977,8 +11245,6 @@ which we have here before us. Besides, tradition¹[^1724]makes both poets live u
 [^1726]: "According to Dr. Rajendralâl Mitra, Notices of Sanskrit MSS., vol. I, p. 151, Ballâlasena in the Danasagara calls himself the son of Vijayasena, and grandson of Hemantasena; and according to the same authority, the Dânasdgara was composed in A.D. 1097. These statements I am unable to verify."
 
 [^1727]: "See Indian Antiquary, vol. XIX, p. 6. My proofs are shortly the following :— (¹
-
-
 
 A.D. 1119. Vijayasena's reign therefore may reasonably be supposed to havebegun about the beginning of the last quarter of the eleventh century; and this would agree with the tradition according to which the composer of our inscription, Umapatidhara, was (still) living under Lakshmanasena, as an older contemporary, as I take it, of the poet, Jayadeva.
 
@@ -12023,8 +11289,6 @@ TEXT.¹[^1728]
 द्वैधीभूतविपक्षकुञ्जरघटाविशिष्टकुम्भस्थली-
 
 मुक्तास्थूलवशाटकापारकरष्वपा-
-
-
 
 प्तं तदद्याप्यभूत्॥ ¹[^1010]—\[6\]  
 **L. 7.**गृहाद्गृहमुपागतं व्रजति पत्तनं पत्तना-
@@ -12083,8 +11347,6 @@ TEXT.¹[^1728]
 
 [^1742]: "This sign of visarga was originally omitted, and has been added afterwards."
 
-
-
 यशोदेवी नाम त्रिभुवनमनोज्ञाकृतिरभूत्॥ ¹[^1743]—\[14\].  
 ततस्त्रिजगदीश्वरात्मजनिष्ट देव्यास्ततो-
 
@@ -12135,8 +11397,6 @@ TEXT.¹[^1728]
 
 [^1216]: "Metre, Vasantatilakā."
 
-
-
 मुक्ताः कर्प्पासवीजैर्न्मरकतशकलं शाकपत्रैरलावू (बू)-
 
 पुष्पैरूप्याणि रत्नंपरिणतिभिदुरैः कुक्षिभिर्द्दाडिमानाम्।  
@@ -12162,14 +11422,14 @@ TEXT.¹[^1728]
 
 भानोद्यापि कृतोस्ति दक्षिणदिशः कोणान्तवासी मुनिः।  
 अन्यामुच्छपथोयमृच्छतु दिशं विन्ध्योप्यसौ वर्धतां  
-यावच्छक्ति तथापि नास्य पदवीं सौधस्य गाहिष्यते॥ ^(5[^1586]—)\[27\].  
+यावच्छक्ति तथापि नास्य पदवीं सौधस्य गाहिष्यते॥ ^(5[^2379]—)\[27\].  
 स्रष्टा यदि स्रक्ष्यति भूमिचक्रे सुमेरुमृत्पिण्डविवर्त्तनाभिः।  
 **26.** तदा घटःस्यादुपमानमस्मिन् सुवर्ण्णकुम्भस्य तदर्प्पितस्य॥ ^(6[^718]—)\[28\] .  
 वि (बि) लेशयविलासिनीमुकुटकोटिरत्नाङ्कुर-
 
 [^718]: "Metre, Upajati."
 
-[^1586]: "Metre, śārdūlavikridita."
+[^2379]: "Metre, śārdūlavikridita."
 
 स्फुरत्किरणमञ्जरीच्छुरितवारिपूरं पुरः।  
 **27.**चखान पुरवैरिणः स जलमन्नपौराङ्गना-
@@ -12181,8 +11441,6 @@ TEXT.¹[^1728]
 लक्ष्मीं स व्यतनोद्दरिद्रभरणे सुज्ञोहि सेनान्वयः॥ ⁸[^1758]^(—)\[30\].
 
 [^1758]: "Motre, Sārdūlavikridita."
-
-
 
 चित्रक्षौमेभचर्म्मा हृदयविनिहितस्थलहारोरगेन्द्रः  
 श्रीखण्डच्चोदभस्मा करमिलितमहानीलरत्नाक्षमालः।  
@@ -12232,8 +11490,6 @@ Om ! Adoration to Śiva !
 
 [^1768]: "Pradyumnesvara is here clearly a name of the god usually called Hari-Hara (Vishnu-Siva
 
-
-
 should no longer be embraced by them, managed to obstruct the complete union of their bodies.
 
   (*V*. 3.) Triumphant is that primeval king, the nectar-rayed moon, whose throne is the golden coil of matted hair of lśvara; who, sovereign as he is, is fanned by the abundant spray of the water of the Ganges; (*and*) who, has the serpent which 'encircles the head of Siva, covered with its bright expanded hoods, for his umbrella.
@@ -12266,8 +11522,6 @@ should no longer be embraced by them, managed to obstruct the complete union of 
 
   (11.) On his head he had the dust of the feet of the half-moon-crested (*god*), in his throat true speech, in his ear sacred precepts, at his feet the hairs of enemies, on his arms the marks of the scars made by the hard bow-string. These always were his sole
 
-
-
 decoration, while diamond flowers, pearl-strings, ear-rings, anklets, garlands and golden bracelets were all left to the wives of his servants.
 
   (V.12.) When heroes, with their chests pierced by the spears discharged by the play of his long arms, through the efficacy of battle, resembling a holy bathing-place, became possessed of divine bodies, their breasts, marked with the saffron lines of the breasts of the damsels of heaven who clung to them, were, as before, viewed with terror by the timid Siddha couples.¹[^1775]
@@ -12295,8 +11549,6 @@ decoration, while diamond flowers, pearl-strings, ear-rings, anklets, garlands a
   (20.) Hearing the words of the poets "thou hast defeated Nânya and Vira,"⁴[^1778] in Nânyadeva, the founder of the Karnataka dynasty of Nepal (Indian Antiquary, vol. IX, p. 188; vol. XIII, p. 418; Bendall's Catálog, Introduction, p. xv), who is placed in Saka 1019-A.D. 1097 (Pischel, Katalog der Bibl. d. D. M. G., vol. II, p. 8), close enough to the time when our inscription was composed to suggest the idea that he may possibly be the very king here spoken of.")and
 
 [^1778]: "The next verse shows that Nânya and Vira must be taken here as proper names. Nânya we find again (as was first pointed out to me by Dr. Burgess
-
-
 
 mistaking them (*to mean that he had not defeated another hero*), filled with hidden rage, he impetuously assailed the lord of Gauda, put down the prince of Kâmarûpa, and defeated the Kalinga.
 
@@ -12326,8 +11578,6 @@ mistaking them (*to mean that he had not defeated another hero*), filled with hi
 
   (28.) When the creator shall fashion a jar, using theearth as a wheel and turning on it, like a lump of clay, the Sumeru, then the result will be something to which one may compare the golden cupola, placed by the (*king*) on this (*temple*).
 
-
-
  (V. 29.) Before (the temple of) Pura's enemy[^1784] he dug a lake, the sheets of water of which are streaked by the flashing clusters of rays of the jewels on the points of the diadems of the serpent damsels of the lower regions, (and) to which the bees are attracted by the fragrance of the musk from the breasts of the citizens' wives who bathe in it.
 
 [^1784]: "I. e. Šiva."
@@ -12356,8 +11606,6 @@ mistaking them (*to mean that he had not defeated another hero*), filled with hi
 
  (36.) The Râṇaka Śûlapâni, the son of Brihaspati, grandson of Manadåsa, (and) great-grandson of Dharma, the crest-jewel of the guild of Vârendra artists, has engraved this eulogy.
 
-
-
 **XXXVI.—SUNAK GRANT OF THE CHAULUKYA KING KARNA I.  
 BY E. HULTZSCH, PH. D.**
 
@@ -12379,21 +11627,13 @@ BY E. HULTZSCH, PH. D.**
 
 [^1794]: "Ante, p. 151 and P. 295."
 
-
-
 **COPPERPLATE GRANT Of KARNADEVA OF GUJARAT.—PL. I.**  
-
 
 ![](../books_images/U-IMG-1710154256EP-5.png)
 
-
-
 **COPPERPLATE GRANT OF KARNADEVA OF GUJARAT.—PL. II.**  
 
-
 ![](../books_images/U-IMG-1710154428EP-6.png)
-
-
 
 or Laghu-Dâbhî, as it is still sometimes called. To tally with the geography of the place, Saṇḍera should be placed in the south-west; but it may be that the land granted was an outlying piece considerably to the south of Laghu-Dâbhîand thus lying, in respect to Saṇḍera, in a south-easterly direction. The tank alluded to is, no doubt, the large tank on the north-west corner of the village of Sûnak. It is now ruined, but during the greater part of the year holds a supply of water. The banks around the south, west, and north sides now consist of mounds of old brickwork, the bricks themselves being *A* the very large old type. I have no doubt the tank was surrounded with stone steps at one time, but, like the great Sahasralińga talâo at Pattan, the stone lining has been carried off for other purposes, leaving nought but the under brickwork."
 
@@ -12438,8 +11678,6 @@ PLATE I.**
 13. दिशि भहारिकाचेचं ।तथा ब्राह्मणचंद्र । नेहा । ला-  
 14. साधेनं च । दक्षियस्यांमुहिवरामधेचं । परिमायां संडेरग्रा-
 
-
-
 15. मसीमा । उत्तरस्यामेव संडेरग्रामसीमा ॥ इति चतुराबाटी-  
 16. पलक्षितां भूमिमेनामवगम्य तबिवासिजनपदैर्यथादी-  
 17. यमानभागभोगक्षरङ्किरस्यादि सर्वमाज्ञाश्रवणविधेय-  
@@ -12467,8 +11705,6 @@ worshipped the lord of the world, the blessed husband of Bhavânî(In, Siva), ha
 
  (The signature) of the illustrious Karṇadeva.
 
-
-
 **XXXVII.—PRASASTI OF THE TEMPLE OF VADIPURA-PARSVANATHA AT  
 PATTANA.  
 BY G. BÜHLER, PH. D., LL.D., C.L.E.**
@@ -12495,8 +11731,6 @@ which probably refers to the beginning of the building operations :—
 [^1807]: "Indian Antiquary, vol. XI, p. 248 ff.A complete edition of Kshamakalyâṇa's Kharatura-Paṭṭâvuli will appearin the forthcoming volume of Professor Wober's Catalog der Sanskrit urd Prakrit-Handschriften, p. 1030 ff. I have had the privilege of seeing the sheets."
 
  2. Vardhamânasûri (Klatt, No. 39), who consecrated the temple (vasati) built on Mount Arbuda (Abû) by the daṇḍanayaka Vimala, and worshipped the sûrimantra that had been corrected by the glorious lord Sîmandhara.
-
-
 
  3. Jineśvarasûri I (Klatt, No. 40), who in (Vikrama Saṁvat) 1080 obtained the title Kharatara after overthrowing the Chaityavásins in the Darbâr of Durlabharâja, king of Aṇhilvâḍ[^1808].
 
@@ -12546,8 +11780,6 @@ which probably refers to the beginning of the building operations :—
 
  21. Jinasamudrasûri (Klatt, No. 58), who by magic subdued five Yakshas.
 
-
-
  22. Jinahaṁsasûri (Klatt, No. 59), whom the illustrious pádisháh Śikandar (i.e., Sikandar bin Bahlol who ruled A. D. 1489-1510), being astonished at his austerities and meditation, honoured by releasing 500 prisoners.
 
  23. Jinamanikyásûri (Klatt, No. 60), who by magic crossed the five rivers of the, Parjâb, and prevented (or warded off) a violent attack of the Yavanas (Mubammadans) through the power of his exceeding meditation.
@@ -12561,8 +11793,6 @@ Pädishâh Akabbara, who was desirous of seeing him, having heard of his immeasu
 his extracts, and it shows that Dharmasâgara's violent diatribe against the Kharatara Paṭṭávali in his Kupakshakauśikàditya[^1814]contains some gross misstatements or nistakes. First, Dharmasagara says that he wrote in Vikrama Samvat 1629, and that the head of the Kharataras was in his time Jinahamsa. That is utterly irreconcileable with the statements of our inscription which asserts that his second successor Jinachandra VI was Yugapradiâna in Vikrama Samvat 1618 and 1652, and that Jinahamsa himself was honoured by Sultân Sikandar, who ruled until A.D. 1517 or Vikrama Samvat 1573. This latter assertion, on the other hand, agrees with the dates of Dr. Klatt's Paṭṭávali, where it is said that Jinalamsa died in Vikrama Samvat 1582. Secondly, Dharmasagara erroneously omits in his Kharataru-Raṭṭávalî the name of Jinasamudra between Jinachandra V and Jinahamsa. Thirdly, he puts Jinavardhana in Jinabhadra's place, though an incidental remark of his regarding a Kharalara-Paṭṭávalí, incised in Vikrama Samvat 1505 in the temple at Jesalmir, shows that he was aware of Jinabhadra's position. Dr. Klatt's Pallávalí states that Jinavardhana indeed was first made Yugapraḍhâna, but deposed for misbehaviour, and that Jinabhadra was put into his place. Since Dharmasâgara, as would appear, intentionally omits the latter and names the sinner, it looks as if he had wished to taunt his opponents with this misfortune. I may add that the date of the Jesalmir Paṭṭávali, given by Dharmasâgara, is wrong. According to the notes which I took at Jesalmir in 1873, Jinabhadra is named, on the large slab in the temple of Pârávanátha, as paṭṭadhárin in Vikrama Saṁvat 1473. This date differs also by two years from that in Dr. Klatt's extracts, according to which Jinabhadra was installed as spirit al head of the Kharataras in Vikrama Samvat 1475.
 
 [^1814]: "See Dr. Bhandarkar's Report of 1883-84, p. 148 ff."
-
-
 
 These facts, I think, show that Dharmasâgara's statements regarding other schools can only be used with great caution.
 
@@ -12590,8 +11820,6 @@ Sâha Amaradatta[^1816](the ornament of the Kukeśa-race) married to Ratanâde.
 [^1816]: "He seems to have been an adopted son."
 
 Ratnakumyarajî married to sâbhâgade.
-
-
 
  Moreover, a sister, probably of Ratnankuṁyarajî, named BâîVâchhî, and a daughter, BâîJívaṇî, are mentioned as co-founders of the temple. The image of the temple was consecrated in (Vikrama) Samvat 1652, in the Alláî, i. e., Ilâhî year 41, on the twelfth lunar day of the dark half of Vaisakha, a Monday, under the constellation Revati. The Ilahi year 41 began on the 10-11th March of 1596^(**12**)[^1817]
 The Vikrama year must be, as the preceding date ( 1. 36 ) Saṁvat 1662, Mâgha sudi 12, shews —the 'southern one, which began on Kârttika sudi 1 in A.D. 1595. The date corresponds according to Dr. Schram's calculation with Thursday, May 13, A. D. 1596.
@@ -12643,9 +11871,7 @@ L. 1. ॥औं॥ स्वस्ति श्रीवाडीपुरपा
 
 [^1826]: "Read षट्विंशवाद."
 
-
 [^1827]: "Read 'बासः प्रचोपो"
-
 
 .L. 23. ब्युदयश्रीजिनोदयसूति । तत्पदृ० । श्रीजिनराजसूरि । तत्पदृ० । श्रीजिनराजसूरि । स्थानस्थानस्थापित-^(**23**)[^1828]  
   24. सारज्ञानभांडागारश्रीजिनभद्रसूरि । तत्पदृ० । श्रीजिनचंद्र ।तत्पदृ० । पंच-  
@@ -12682,8 +11908,6 @@ L. 1. ॥औं॥ स्वस्ति श्रीवाडीपुरपा
 
 [^1829]: " Read वैशाष"
 
-
-
 **XXXVIII.-TWO CHANDELLA INSCRIPTIONS FROM AJAYGADH.  
 BY PROFESSOR F. KIELHORN, PH.D., C.I.E., GÖTTINGEN.  
 I.**
@@ -12697,8 +11921,6 @@ ROCK INSCRIPTION OF VIRAVARMAN; OF THE VIKRAMA YEAR 1317.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1-See Sir A. Cunningham's Archeological Survey of India, vol. XXI, p. 51. The inscription has not been previously edited, but a photo-lithograph of it will be found ib., plate xiii. And an abstract of the contents of the inscription, as read by a Simla Pandit, is given ib., p. 51. Of this abstract I can only say that the Pandit has done his work very carelessly. Thus-the name of Sallakshana he has read Sulakshapa; between Madana and Trailokyavarman he has omitted Paramardin; to Trailokyavarman he has given two sons, Yasoyarman and Viravarman, while the inscription does not mention any Yasovarman at all; and Kalyâṇadevî he has made the daughter of Raja Govinda, while in reality she is described as the daughter of Mahesvara and granddaughter, by her mother's side, of Govindaraja. Moreover, he has interpreted the date of the inscription to be Vikrama 1312, while it is really, in words and figures, 1317. My own text of the iuscription has been prepared from Sir A. Cunningham's rubbings, kindly placed at my disposal by Mr. Fleet.
-
-
 
  As regards the king's own descent, we have here the following line of sovereigns presented to us, who (in verse 2) are said to have been born in a family which derived its origin from the moon, and which from other sources we know to be the Chandrella, or Chandella, or Chandrâtreya family:—
 
@@ -12736,8 +11958,6 @@ year measured by the seas (7), the moon (1), the fires (3), and the moon (1), i.
  for the southern expired year-Thursday, 14th April, A. D. 1261, when the 13th tithi of the bright half ended 21 h. 45 m. after mean sunrise.
 
  The true date accordingly is Thursday, 14th April, A. D. 1261, and the Vikrama year mentioned in the inscription must be taken to be the southern expired year.
-
-
 
 **TEXT.[^1833]**
 
@@ -12810,8 +12030,6 @@ year measured by the seas (7), the moon (1), the fires (3), and the moon (1), i.
 **लोकोत्तरैर्या चरितैः प्रपूज्या शिवेव नित्यं पतिदेवतानां ॥ १२ ॥  
 नाबा \[वेस ?\]-**
 
-
-
 **लदेवीति सौंदर्यगुपशालिनी ।**
 
 **10.कल्याणदेवीति सुता तस्या अथ वशस्विनी ॥ १३ ॥¹⁴  
@@ -12857,8 +12075,6 @@ year measured by the seas (7), the moon (1), the fires (3), and the moon (1), i.
 22 The original has • सुधांसुधसुमितं.  
 23 Here follow about eleven akshar as (probably containing & blessing), which are illegible in the rnbbings.
 
-
-
 TRANSLATION.
 
 Om! Om! (May) success (attend) !
@@ -12900,8 +12116,6 @@ excellent son, named Sripâla, who was bravery, as it were, incarnate.
 
 [^1845]: " i. e., Vishnu."
 
-
-
  (V. 15.) What need is there to describe her, unsurpassed for pleasing conduct (and) well-known the earth over for her pure fame,-her, who by truthful speech has at once surpassed that world-renowned lord of justice (Yudhishṭhira)?
 
  (16.) To some Vaśishṭha's wife[^1846] is an object of reverence; others indeed ãdore the splendid daughter of the mountain who is the half of Siva's body; some again havo glorified Gangâ, (and) others take pains to praise the beloved of Kâma. They all cannot have set eyes on the unblemished KalyàṇadevÎ, who for truth and other excellent qualities is famed in song.
@@ -12931,8 +12145,6 @@ ROCK INSCRIPTION OF THE TIME OF BHOJAVARMAN.**
 
 [^1848]: "See Sir A. Cunningham's Archæologiral Survey of India, vol. XXI, pp. 47, 53, and 88. The inscription has not bean previously edited, but a photo-lithograph of it was published by Sir A. Cunningham, ib., plate xv. I edit it from Sir 4. Cunningham's own rubbing, kindly placed at my disposal by Mr. Fleet."
 
-
-
 may be seen in the photo-lithographs, published in Archæological Survey of India, vol.XXI, plates xv and xxi-xxiii. Here I need only state that in the present inscription it is somewhat difficult to distinguish between the signs for ch and v, those for chch, vv, and gh, and those for p and b; and that a sign representing both the jihvámálîya and the upadhmánîya, which does not differ at all from the ordinary sign for sh, has been employed before the words karaṇás and padmãº, in line 2.
 
  The language of the inscription is Sanskrit, and, with the exception of the introductory om namaḥ Kedárâdya, the whole is in verse. The language is fluent, but not always correct. Thus, to mention some of the most striking mistakes, in line 1 we have shaṭtrimsatiḥ or shaṭtrimsataḥ for shattrimsat; in line 4 nikipati for niśápati 'the moon;' in line 13 vánmin for vágmin; in line 15 the form kréyatám, derived from the root kri 'to make;' and the verses 19 and 20 do not admit of a proper construction. A term, which I have not met with elsewhere, is vikisha, in lines 4 and.8, probably denoting the superintendent or commander of a fort. As rogards orthography, the consonant b is generally denoted by the sign for v, when it is preceded and followed by a vowel (e.g., in vivudha, line 1, Savarân, line 10, etc.), and by its own proper sign, when combined with another consonant (e.g., in garbbha and avilambitam, in line 3); but we have twice babhúva, even after a vowel, in lines 6 and 7. The dental sibilant is nine times used for the palatal (e.g., in śasi-, line 1, ásu and saila-, line 4), and the palatal for the dental in praśúnair, line 6, and viláśa-, line 13. Besides it may be noted that, instead of yy, we have the conjunct jy, in vigaṇajya, lines 8 and 10, and, instead of khy, ksh, in Jayákshe, line 8 (but not in line 11), and prakshäta, line 14; and that ujjvala, as usual, is spelt ujvala, in line 9.
@@ -12942,8 +12154,6 @@ may be seen in the photo-lithographs, published in Archæological Survey of Indi
  The Kâyastha clan of the Vâstavyas derived its origin from Vâstu, who resided at Takkârikâ, one of a group of thirty-six[^1849] towns which were purified by the fact that men of the writer caste dwelt in them' (vv. 2-4). In this clan was born the Thakkura Jâjûka, who held a position of trust under king Ganda, and was honoured by him with the grant of the village of Dugauḍa (vv. 5-7). From him was desconded Mâheśvara, who by Kirtivarman was appointed Visisha of Kâlañjara and endowed with the grant (of the village) of Pipalâhikâ (vv. 8-9). The next member of the family mentioned is Gadadhara, counsellor and chamberlain of king Paramardin (v. 10), who with his younger brother Jaunadhara fought at Kâlañjara (v. 11), and who had another brother, Mâlâdhara, also distinguished as a warrior (v. 12). After them came Alhů, his son Sobhana, and his son.Vidana (vv. 13-15). Vidana's son was Vâse or Vâścka, who by king Trailokyavarman was appointed Visisha of the fort of Jaya or Jayapura (the present Ajaygadh), and endowed with the grant of the village of Varbhavari. He
 
 [^1849]: " Compare also Journal As. Soc. Dong., vol. VI, p. 665, and plate xxxii. This expression would lead one to look for some territorial name, such as Chhattispur, but I find only Chhattisgaḍh."
-
-
 
 defeated one Bhojûka, who had either risen in rebellion against Trailokyavarman or conquered part of his territory, and he generally pacified the kingdom and rendered it secure against foreign enemies. H'e also built a temple and a tank at Jayapura (vv. 16-20). His younger bṛother was Ânanda who, as governor of the fort, subdued the wild tribes of Bhillas, Śabaras, and Pulindas. (vv. 21-22). Ânanda's son 'was Ruchira (vv. 23-25), who had three sons, Gopati (v. 26), Mahipâla (v. 27), and Subhaṭa, of whom the last, as stated above, was superintendent of the treasury of king Bhojavarman (vv. 28-30). After verso 31, the inscription has two more verses', the second of which is illegible, and the first of which relates that Mahipâla again had three sons, one of whom was named Kirtipâla.
 
@@ -12974,8 +12184,6 @@ defeated one Bhojûka, who had either risen in rebellion against Trailokyavarman
 श्रीभीजवसायमुपेत्य नाथ स्वमन्यमिवीदयमातवान ॥ २५ ॥
 
  which will dispose of "the horse sent to Bhoja Varma." The inscription was composed by the poet Amara (not Amarapati), in Vikrama 1345, expressed in figures and in words (the latter, contrary to the ordinary rule according to which the unit should be mentioned first, being—क्षणदेशेक्षणगतश्रुतिभूतसमन्विते संवत्सरे).
-
-
 
 **TEXT.⁹[^1854]**
 
@@ -13039,8 +12247,6 @@ defeated one Bhojûka, who had either risen in rebellion against Trailokyavarman
 
 [^1866]: "Metre of versee 12 - 14, Upnjati. G"
 
-
-
 **   येनावरुचे कलुषे द्वषेण सदैव रेमे रभसेन दुर्गे ॥ ११ ॥  
    तस्यात्मजयापि व (ब) भूव रम्यः सु(य)भान्वितः सो (घो) \[भ\]न-नामधेयः । **  
 **L.7. चित्रेचरित्रेः ककुभां सुखानि यचित्रयामास सु(शु) चिर्गु\[पौ\]धैः²²[^1867]॥ १४ ॥  
@@ -13103,8 +12309,6 @@ defeated one Bhojûka, who had either risen in rebellion against Trailokyavarman
 
 [^1880]: "Metre of verses 24-27, Upajsti."
 
-
-
 **L. 12.  पापहारः सुजनैकसारः !  
 \[शा\]³⁶[^1881] स्त्रास्त्रविद्यानिपुषः प्रवीणः कलासु रेजे स सदा यशस्वी ॥ २५ ॥  
 तस्यात्मजो गोपतिनामधेयो विद्यावदातो नृपतिप्रपूज्यः ।  
@@ -13158,8 +12362,6 @@ Oṁ! Adoration to Kedâra !**
 
 [^1889]: "Kedararhpa vidhrita I take in the sense of vidhrita-Kedararapa, and compare compounds like deha-baddha which by Indian grammarians would be placed in the gaņu agnyâhit-âdi."
 
-
-
 is gracefully decorated with a portion of the moon; who humbled the pride of the god of love (and) is revered by the gods!
 
    (V. 2.) There were thirty-six towns, purified by the fact that men of the writercaste[^1890]dwelt in them (and) more (than other towns) endowed with great comfort. Among them the most excellent, thought of as the abode of the gods, was Takkârikâ, an object of envy[^1891].
@@ -13196,8 +12398,6 @@ is gracefully decorated with a portion of the moon; who humbled the pride of the
 
   (13.) In the course of time was born in that (family) the prudent Âlhû, whose ad.
 
-
-
 ministration of the street (pralolí) was pleasing; who, keeping down wickedness, full of energy, always dwelt happily in the fort.
 
   (*V*.14.) His charming son again was Sobhana, endowed with good fortune, who,resplendent with many excellent qualities, adorned the quarters with his wondrous exploits.
@@ -13232,8 +12432,6 @@ ministration of the street (pralolí) was pleasing; who, keeping down wickedness
 
  (25.) Distinguished for excellent qualities, only engaged in good deeds, destroying wickedness (and) setting store only on good men, versed in sciences and in the knowledge of arms, (and) proficient in arts, he always shone, endowed with good fame.
 
-
-
  (F26.) His son was Gopati, purified by knowledge (and) deserving adoration from princes; a man in whom fortune and eloquence harmoniously dwelt together, praiseworthy (and) an unique object of veneration for good men.
 
  (27.) His younger brother was Mahipâla, who shone, eminent for both beauty and bravery. When the god of love saw how he had taken possession of all hearts, he vanished, bowed down with shame.
@@ -13252,19 +12450,15 @@ ministration of the street (pralolí) was pleasing; who, keeping down wickedness
 
   (32.) Then there were born three most intelligent sons of Mahipâla: Kirtipâla, of great fame, a youth who resembled the god of love;..............
 
-
 **XXXIX.—PATNA INSCRIPTION OF THE TIME OF THE YADAVA  
 SIMGHANA AND HIS FEUDATORIES SOÏDEVA AND HEMADIDEVA.**  
 By professorF. KIELHORN,Ph.D.,C.I.E., GÖTTINGEN.  
-
 
  This inscription was discovered by the late Dr. Bhâu Dâjt on a stone-tablet in the ruined temple of the goddess Bhavànî at Pâtņâ, a descrted village about ten miles south-west of Chalisgaon in Khandes, and edited by him in the Journal Roy. As. Soc., N.S., vol. I, pages 414-418. It consists of 26 lines which cover a space of about 2' 6" broad by 1' 6" high. The writing is on the whole well preserved, but at the top a small portion of the surface of the stone has peeled off, causing the nearly complete loss of about a dozen aksharas in the middle of the first line; and a few aksharas are illegible in the concluding lines. The average size of the letters is". The characters are Nâgarî of about the 13th century. Up to the beginning of line 22 the inscription is in Sanskrit; the language of the remainder is a kind of old Marathi, corresponding,
 
 **......................................................................................................................................................**
 
  **57**. See the Bombay Gazetteer, vol. XII, p. 463; Burgess and Fleet, Pali, Sanskrit and Old Canarese Inscriptions, No. 284. Not to mention minor mistakes, Dr. Bhâu Dâjî read the name of one of the chiefs, mentioned in the inscription,persistently Sonhadeva, while it is really everywhere clearly Soïdeva. I re-edit the inscription from two good impressions supplied by the Editor.
-
-
 
 according to Dr. Bhâu Daji, to the Khândesi. Of the Sanskrit portion, lines 1-20, excepting the introductory om namo Ganádhipataye and the words atha bhrity-ánvoyavarṇṇanaṁ in line 7, are in verse; the rest of the inscription is in prose.
 
@@ -13288,10 +12482,6 @@ as-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   **1**. See Journal Roy. As. Soc., vol. IV, p. 26; Journal Bo. Br. R. As. Soc., vol. XII, p.6; Archeological Survey of Western India, vol. III, p. 85; Fleet's Dynastics of the Kanarese Districts, p. 72; Bhandarkar's Early History of the Deccan, p. 82.
-
-
-
-
 
 again Govana (verses 11-12), who, to judge from Professor Bühler's inscription, began to rule shortly after Saka 1075 (A.D. 1153-4). Govana III. was succeeded by his son, Soïdeva (verses 13-14), by whom, as will appear below, a donation was made to Changadeva's college in Saka 1128 (wrongly for Saka 1129---A.D. 1207); and Soideva after his death was succeeded by his younger brother Hemâdideva, who is described as a feudatory or general of Simghaṇadeva and ruler of the country of the sixteen-hundred villages' (verses 15-16).
 
@@ -13317,9 +12507,6 @@ again Govana (verses 11-12), who, to judge from Professor Bühler's inscription,
  **3**. See Indian Antiquary, vol. VI, p. 53. The date of the inscription is Sunday, 24th December, A.D. 1021.
 
 **4**. See Journal Roy. As. Soc., N. S., vol. 1, pp. 410, 412; or Siddhanta-Siromani, xiii, 58; Professor Aufrecht's Calalogue, p. 327; Dr. Peterson's Second Report, p, 131.  
-
-
-
 
 1128, in the year Prabhava, on the full-moon day of the month Sravana, at the time of an eclipse of the moon. The date itself shows that there must be some mistake in it; for Prabhava corresponds to Saka 1129 expired, not. to Saka 1128 expired. And, besides, if the grant had been really made in Śaka 1128 expired, the date would fall in A.D. 1206, arrd in that year there was no lunar eclipse at all. The year of the grant therefore was clearly Saka 1129 expired, which was the Jovian year Prabhava; and calculating for that year, I find that Srâvana-éudi 15 corresponds to the 9th August, A. D. 1307, when there was & lunar eclipse, at 12 hours 26 minutes Greenwich time, or, at Ujjain, 11 hours 29 minutes after mean sunrise. The eclipse, a partial one, lasted 2 hours 40 minutes and would, therefore, have been just visible in Khandes.
 
@@ -13375,15 +12562,6 @@ L. 1.ओ[^1903] न\[मो\] गणाधिपतये ॥
 
 6. शास्ता भुवः सिंघणः ।  
 पृथ्वीशोमथुराधिपो रणमुखे काशीपतिः पाति\[तो\]
-
-
-
-
-
-
-
-
-
 
 'येनासावपि यस्य भृत्यबटुना हं\[मी\] रवीरो जितः ॥ -\[7.\]  
 अवततार पुरा पुरुषोत्तमो यदुकुले ज-
@@ -13445,9 +12623,6 @@ L.7.गतोहितहेतवे ॥ (1)
 
 [^1921]: "By the rules of grammar we should expect बर्राटकडीरवो; but the final vowel of the first member of the compound has been lengthened for the sake of the metre."
 
-
-
-
 L.14. दने \[तत\]मतिर्देमाडिदेवस्थिरं॥[^1922] \[16.\]  
 यांडिल्यवंशे कविचक्रवर्ती त्रिविक्रमोभूतनयोस्यजातः ॥ ( 1 )  
 यो भोजराजेन अताभिधानो विद्यापतिर्भास्करभट्टना
@@ -13456,13 +12631,13 @@ L.14. दने \[तत\]मतिर्देमाडिदेवस्थि
 
 15.मा. ॥[^122]\[17. \]  
 तस्माद्गोविंदसर्वज्ञो जाती गोविंदसंनिभः ॥ ( 1 )  
-प्रभाकरः सुतस्तस्मात्प्रभाकर इवापरः ॥[^1924] ; and of the nest verse.") – \[18.\]  
+प्रभाकरः सुतस्तस्मात्प्रभाकर इवापरः ॥[^382] ; and of the nest verse.") – \[18.\]  
 तस्मान्मनोरथी जातः सतां पूर्णमनोरथः ॥ ( । )  
 श्रीभ हमारा चाय-
 
 [^122]: "Metre, Upajâti."
 
-[^1924]: " Metre, Śloka (Anushṭubh
+[^382]: " Metre, Śloka (Anushṭubh
 
 16 स्ततोजनि कवीश्वरः–॥ \[19.\]  
 तत्सूनुः कविहंदवंदितपदः सद्देदविद्यालता-  
@@ -13478,13 +12653,13 @@ L.14. दने \[तत\]मतिर्देमाडिदेवस्थि
 
 18 सारविशारदो भास्करनंदनोभूत् ॥[^594] – \[ 21\]  
 सर्वशास्त्रार्थदचोयमिति मत्वा पुरादतः ॥ (।)  
-जैत्नपालेन यी नीतः कृतच्च विबुधाग्रणीः[^1927].")
+जैत्नपालेन यी नीतः कृतच्च विबुधाग्रणीः[^1141].")
 - \[22.\]  
 तस्मात्सुतः सिंघणचक्रवर्त्ति–
 
 [^594]: "Metre Upajati."
 
-[^1927]: "Metre, Sloka ( Anushtubh
+[^1141]: "Metre, Sloka ( Anushtubh
 
 19 देवज्ञवर्योजनि चंगदेवः ॥ ( 1 )  
 श्रीभास्कराचार्यनिबध्ध (च) शास्त्रविस्तारहेतोः कुरुते मठं यः ॥[^1647] \[23.\]  
@@ -13508,8 +12683,6 @@ L.14. दने \[तत\]मतिर्देमाडिदेवस्थि
 23. कापासीं दामाचा बोसोवा आसपाठी नग\[रे\] दीन्हला ॥ तलदा इया बैला सिइ\[वें\] ।बाहीरिला आसूपाठी गिधवें ग्राहकापासीं ॥ पांच पोफखी ग्राहकापासीं ॥ पहि-  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
  **34**. The following passage has been carefully copied from the impressions, and all aksharas, the rending of which appeared to be doubtful, have been enclosed in brackets. An I do not understand the original, I may have made mistakes in dividing the words of the text.
-
-
 
 L.ले आधाणे आदाणाधी लोटि मठा दीन्हली । जेति धाणो वाइति तेतीयां प्रति पलो पलो तेला ॥ एथ \[जे\] मविजे तें मढीचेन मापें मवावें मापाड मढा अर्द्ध॥ अर्द्ध
 
@@ -13550,9 +12723,6 @@ Om! Adoration to the ruler[^1931]of the Ganas!
 
  (10.) In this (race) was the illustrious prince, named Kṛishṇarâja, who defeated  
 
-
-
-
 the rulers of the earth, meditated solely on the lord of Lakshmî, (and) bent his thoughts on revering gods and Brahmans. Since in the qualities of bravery, generosity, discrimination and prowess none else was his equal, he obtained that title which had been gained by the foremost of the Pandavas,-(the title of) Dharmaraja.[^1936]  
 
 [^1936]: "I.e. 'king of justice,' an epithet of Yudhishthira."
@@ -13561,9 +12731,9 @@ the rulers of the earth, meditated solely on the lord of Lakshmî, (and) bent hi
 
 [^1937]: "This is not the ordinary meaning of vidhûnita, but I see no other way of translating the word."
 
- (13.) From the illustrious Govana, an ocean, as it were, containing countless jewels, sprang, a very Indra among the rulers of the earth, the illustrious Soïdeva, who spread the fame of his religious merit, conquered the hosts of enemies, (and) adored Vâsudeva ;
-
 [^1938]: "The original has a play on the word Anaṅga, 'the bodiless one,' which is one of the names of the god of love."
+
+ (13.) From the illustrious Govana, an ocean, as it were, containing countless jewels, sprang, a very Indra among the rulers of the earth, the illustrious Soïdeva, who spread the fame of his religious merit, conquered the hosts of enemies, (and) adored Vâsudeva ;
 
  (14.) A cage of adamant to (shelter) those who sought his protection, always a brother to others' wives, in keeping the vow of truth a very Yudhishṭhira, (and) ever a fever of terror to the enemies' wives.
 
@@ -13574,7 +12744,6 @@ the rulers of the earth, meditated solely on the lord of Lakshmî, (and) bent hi
 [^1940]: "I.a. Karṇa."
 
 [^1941]: " Or, 'whose band is to the enemies of the illustrious Simghaṇadeva what the lion is to elephants.'"
-
 
  (17.) In the Sandilya race was the king of poets Trivikrama. To him was born a son, named. Bhâskarabhaṭṭa, on whom king Bhoja conferred the title of Vidyâpati.
 
@@ -13589,8 +12758,6 @@ the rulers of the earth, meditated solely on the lord of Lakshmî, (and) bent hi
  (21.) Bhâskara's son was Lakshmidhara, the chief of all sages, who knew the meaning of the Veda, (and) who was the king of logicians (and) conversant with the essence of discussions on the subject of sacrificial rites.
 
  (22.) Judging him to be well acquainted with the contents of all the Śâstras, Jaitrapala took him away from this town and made him chief of the learned.
-
-
 
  (Vv. 23 and 24.) To him was born a son, Chańgadeva, (who became) chief astrologer of king Simghana; who, to spread the doctrines promulgated by the illustrious Bhâskarâchârya, has founded[^1943]a college, (enjoining) that in (this) his college the Siddhántaśiromaṇi and other works composed by Bhaskara, as well as other works by members of his family, shall be necessarily expounded.
 
@@ -13614,15 +12781,11 @@ BY J. F. FLEET, BO.C.S., M.R.A.S., C.I.E.**
 
  The chief part of the writing is in six lines, covering a space of about 6' 6" broad by 1' 5" high, which run right across the upper part of the stone. And each of these six lines is separated from the next by a line cut in the stone from end to end; this is a peculiarity which I have not as yet met with in any other inscription. There are also six short lines running on in continuation down the proper right side; the same number on
 
-
-
 the proper left side; and the name of a village (line 13) near the centre below line 6. Except in some places along the top of line 1, the inscription is very well preserved; and it is legible throughout without the slightest doubt:—The rest of the stone is occupied by sculptures. The principal division of them represents a battle-scene. The troops on the proper right side are led by a man on horseback, sword in hand, whose rank is indicated by his head-dress and by some umbrellas, one of which is apparently a triple one. Behind him, there are two followers on horseback. In front of him, there is manon foot, blowing a horn; and beyond the latter there is another horseman. The troops on the proper left side are led by a man on an elephant, wielding a spear, whose rank again is indicated by his head-dress. He is attended by an archer in the howdah, and by a separate follower on horseback. Bohind the elephant there seem to be two supernatural beings; one of them being possibly Bhairava, and the other Kâli, as proposed by Mr. Rice. The centre and the foreground show the .fight between the two parties. Above this scene there is represented the king, seated on a low stool, with his feet resting either on a man kneeling on all fours or on a footstool carved to represent that device, and evidently waiting for news from the field of battle**¹**.He is attended by two female chaurt-bearers. There is another woman in front of him; and beyond her, a soldier, holding across his right knee either a quiver, or perhaps a large tube for carrying despatches. Behind the king and his chauri-bearers there stands another woman, who seems to be trying to entice into a cage a bird which is perched on the king's uplifted left hand. And behind her again, there is another woman, standing under a flag-staff.-The characters are the so-called Old-Kanarese characters, belonging approximately to the ninth century A.D. The lingual d, as distinct from the dental d, is formed very clearly in some words, e.g. in máḍi and gangavadi, line 3; in other cases, however, the distinction is not made. The mark attached to the up-stroke of the I in kuḍal, line 15, which does not appear in the other cases in which this letter is used, seems to be a form of the Kanarese viráma, and to give the final l; the full form of the word is kúḍala or kúḍalu. The size of the letters varies from about 1 1/4" to 2 1/4". The engraving is bold, deep and good. - The language is Old-Kanarese, with the usual mixture of Sanskṛit words in lines 1 to 3. The whole record is in prose.. And it presents no particular difficulties, except in the quaintness of the construction. The whole passage from bíra-mahendranol to kalnáḍ-ittan is in reality one unbroken sentence, the component parts of which are connected by werbs in the subjunctive mood. Thus, "when the army attacked" is literally "if the army rises to;" "when there was no room left for the battle-horn" is literally "if the place for the battle-horn perishes;" and "he was pierced and died" is literally "if, having been pierced, he dies." In order to present a readable translation, I have had to follow a more direct construction. —In respect of orthography we may notice (1) the use of ri for ri in °áļamkrity°, line 1-2, though the subscript ṛi itself occurs a little further on, in śvayamvṛita; (2) the use of dhdh for ddh in badhdham, line 6; (3) the use of b for v in bîra, line 3; (4) the use of é for s in śvayamvrita, line 2; and (5) the use of the Drâviḍian ḷ in all the Sanskrit words, except, of course, as an initial in lakshmî, line 2, and except in
 
 ————————————————————————————————————————
 
 ** 1.** Mr. Rice interpreted this part of the sculptures rather differently. But the stone is distinctly a charter (sâsana), not a monumental stone (viragal); and consequently this part of it does not represent celestial nymphs waiting for the slain heroes. Also, the central seated figure is plainly a man; not the queen of the nymphs.
-
-
 
 maṅgala, line 6; in line 19 we have maṅgaḷa, with the Drâviḍian ; in line 6, as in many other cases, the word is part of a village-name, and I am not quite sure whether, as such, it is really the Sanskrit word, or whether it is of Drâviḍian origin.
 
@@ -13636,13 +12799,9 @@ maṅgala, line 6; in line 19 we have maṅgaḷa, with the Drâviḍian ; in li
 
  **2**.VÎra-Nolamba means 'the brave Nolamba ;' whereas Vira-Mahêndra most probably means, not 'the brave Mahêndra,' but 'a very Mahêndra (Indra) among brave men.'
 
-
-
 reference to Ayyapadéva's daughter in the Goribidnur inscription, we require the full text of that record. And the sculptures on the Bêgûr stone do not bear out Mr. Rice's assumptions. He suggested that the woman starding under the flag-staff is Ayyapadêva's daughter, bound to it as a captive; and that, being taken prisoner in the fight in which Ayyapadêva was killed, she became the prize of the victorious Pallava. But, as I have already said (see note 1, above), the stone is distinctly a charter, not a monumental slab; so that the sculptures in the upper row do not refer to Ayyapadêva at all. And there are no indications of a rope on the staff of the standard; while, that which is on the woman's right wrist appears distinctly to be a set of bangles, as on both wrists of the other women, and not the coils of a rope. The mention of the 'Nâgattara and his army, suggests the idea of a reference to some Någa tribe. I do not find, however, any indications of Nâgas among the figures represented in the sculptures.
 
  In consequence of Mr. Rice's rendering of this inscription, it appeared to contain some other historical details, which are now found to be quite illusory. Thus, his translation speaks of "the illustrious Ereyapparasa, brilliant as lightning, descending among the stars in the clear firmament of the world-renowned Ganga race, protector of the mighty kings of Valala and Mêkhala, the chosen lord and possessor of the fortune of the auspicious Taila's dominion." From this, Mr. Rice (Mysore Inscriptions, pp. xliv., xlv.) inferred that Eṛeyapparasa was an usurper of the Ganga sovereignty; and he placed him in the period A.D. 777 to 857, between Râja-Malladêva and Gaṇḍadêva. But, on the contrary, Ereyapparasa is most distinctly described as belonging himself to the Ganga family. The "mighty kings of Vaḷala and Mêkhala" owe their existence to nothing but a pure mistake, and need no further comment. The supposed Taila, however, is a matter of more importance, especially in connection with the name of Ayyapadêva, which really does occur in this record. During the period to which this inscription belongs, there was a long break in the supremacy of the Western Chalukya kings. Their records, however, pretending to give an uninterrupted succession, mention a certain Taila I., and his great-grandson Ayyaṇa I., who have to be placed in this period. And, on seemingly good grounds, Mr. Rice found a reference to both of these persons in the present record; and an apparent corroboration of his general results, in the supposed fact that Prolirâja, the father of the Kâkatya king Rudradêva, took away a kingdom from a certain Tailapa, - assumed to be Taila I., and gaye it to a "king Erha," whom Mr. Rice took to be the present king Ereyapparasa. Prôlirâja, however, belongs to a much later time, viz. to the period just before A.D. 1162; and the Tailapa who is mentioned in connection with him, is the Western Ohâlukya king Taila or Tailapa III. (A.D. 1150 to about 1162). Moreover, the kingdom that was disposed of by him was taken from a certain Gôvindarâja, and was given to a king whose name was in reality Udaya, not "Erha" (see Ind. Ant. vol. XI, p. 17). These items of contemporaneous history thus disappear altogether. And, as a matter of fact, the name of Taila does not occur in the present, record at all. It was deduced from words which really are dlamkrity-ailádhipatya. In the photograph, the reading tail-adhipatya might be justified, as the words preceding it are there not at all clear; and especially because there really is a mention of an Ayyapadêva further on. But the estampage has placed the true reading of the passage beyond any possibility of doubt. That the Ayyapadêva
-
-
 
 of this record may be the Western Chalukya Ayyana I., still remains possible; but it cannot be taken as at all a certainty.
 
@@ -13718,10 +12877,6 @@ mahâ-ért \[11\*\]
 
 [^1955]: "lit. ' on its rising to, i.e. against.'"
 
-
-
-
-
 when it was overwhelming (him),[^1956]having fought on foot[^1957],when there was no room left for (his) battle-horn, he mounted an elephant, and there was pierced and died.
 
 [^1956]: "lit. 'on its swelling, or becoming very numerous.'"
@@ -13734,9 +12889,9 @@ when it was overwhelming (him),[^1956]having fought on foot[^1957],when there wa
 
 [^1959]: "Compare the même-perjerepu-patta, which, with the title of Tribhovanáchâri, Vikramaditya II. presented to the architect of his temple at Paṭṭadakal; see Ind. Ant. vol. I, p. 164."
 
- (L. 6)- They are as follows:-Bempûru and Tovagûru, Pûvina-Pullammangala, Katanidu-Nallûru, Nallûru-Komarańgunta, Iggalûru, Dugmonelmalli and Galañi-javàgilu, Sâramvu, Elkuppe, Paravuru, (and) Kûḍal.
-
 [^1960]: "The absence of any copulative suffix with the word kalnad, prevents our translating "
+
+ (L. 6)- They are as follows:-Bempûru and Tovagûru, Pûvina-Pullammangala, Katanidu-Nallûru, Nallûru-Komarańgunta, Iggalûru, Dugmonelmalli and Galañi-javàgilu, Sâramvu, Elkuppe, Paravuru, (and) Kûḍal.
 
  (L. 15)—This much, with (a specification of) the boundaries of the fields, gave Ereyapa to (hie) follower, the Nâgara[^1961].(May there be) felicity and great good for tune!
 
@@ -13751,8 +12906,6 @@ when it was overwhelming (him),[^1956]having fought on foot[^1957],when there wa
 
  Ranod, or, as it is more commonly called in the neighbourhood, Narod (Narvad), is described as an old, decayed town of some size, in the state of Gwalior, about half way between Jhânsî and Guna, and 45 miles due south of Narwar, Indian Atlas,.quartersheet No. 51, S.E., Long. 77° 56' E., Lat. 25° 5′ N. The most remarkable building of the place is reported to be an old Hindu palace, of the main part of which a photozincograph is given in Sir A. Cunningham's Archaeol. Surv. of India, vol. II, Plate lxxxv. In front of it is an open cloister, with suites of rooms at each end, which form three sides of a court-yard; and outside the court-yard is a deep square tank with steps leading down to the water's edge, while, close by there is a second tank, Judging from the contents of the inscription, I have no doubt that the building thus described by Sir
 
-
-
 A. Cunningham[^1962]was really a Matha for residence of ascetics, and that one of the existing tanks is the very tank the construction of which is recorded in this inscription.
 
 [^1962]: "See his Archæol. Survey of India, vol. II, pages 303-305. It will be seen below that the inscription mentions no king Somesa or Somesvara, and no town Mâyâpuras."
@@ -13762,8 +12915,6 @@ A. Cunningham[^1962]was really a Matha for residence of ascetics, and that one o
  Considering that the language is generally plain and easy to understand, and that the inscription offers very little that can be of value to the historian, it will be sufficient to give the following short abstract of the contents :-
 
  After the introductory "oṁ, adoration to Śiva," and five verses in honour of Gaṇeśa (Vinâyaka), Sarasvatî, and Śiva (Śambhu, Dhûrjaţi, Tripura-vijayin), the inscription records (in verse 6) that Siva (Purâri) once pleased Brahman by offering him a sacrifice, the result of which was the origin of the family or line of sages which will be treated of in the following (v. 7). In it, there was a sage who is described as Kadambaguhâdhivâsin, 'the inhabitant of Kadambaguhâ'; from him sprang the Sankhamathikâdhipati, 'the superintendent of Sankhamathikâ'; next came Terambipâla, 'the protector of Terambi'; then Amardakatirthanatha, the lord of Âmardakatîrtha'; and after him Purandara (vv. 8-10). When the king, the illustrious Avanti or Avantivarman, who was desirous of being initiated in the doctrines of the Saiva faith, heard of the great holiness of this sage, he resolved to bring him to his own country. He accordingly went to Upendra pura, induced the sage to accede to his request, was initiated by him in the Saiva faith, and duly rewarded him (vv. 11-13). Purandara then founded a Maṭha, or residence of ascetics, at Mattamayûra, the prince's town; and he also established another Matha, at Raḥipadra, the place where the inscription is (vv. 14 and 15). Next came Kavachagiva; his disciple was Sadâśiva; and he was succeeded by Hridayeśa (vv. 16-21). Hṛidayeśa's disciple was Vyomaśiva
-
-
 
 (Vyomasambhu, or Vyomesa), whose holiness and learning, in which he surpassed all manner of devotees and learned men (the Sakyas or Buddhists, who are compared to elephants, the jackal-like Jainas, and others), are eulogised in verses 22-42. He restored to Ranipadra its former splendour, repaired and enlarged the Matha, erected temples and set up statues of Siva, and he in particular built a magnificent tank, to the description of which no less than twenty verses of the inscription are devoted (vv. 45-64). Verse 65 expresses the wish that the tank may last for ever; and v. 66 forbids the.planting of trees near it. And, finally, v. 67 forbids the ascetics to sleep on beds and to allow women to pass the night within the Matha.-The inscription is not dated, but it may on palæographical grounds be assigned to the end of the 10th or the beginning of the 11th century A.D.
 
@@ -13781,8 +12932,6 @@ and must translate :- who, when he had removed every stain of impurity from the 
  I owe to the kindness of Mr. Fleet a rough rubbing, received from Sir A. Cunningham, of a third inscription which treats of the same line of Saiva ascetics that is eulogized in the Ranod and Bilhari inscriptions. This third inscription is at Chandrehe on the Son river in Rewa, and has been previously mentioned by Mr. Beglar in Archæol.
 
  \* See Archæol. Survey of India, vol. XXI, pages 176 and 177.
-
-
 
 Sure. of India, vol. XIII, page 8. It is on two slabs of stone, euoh measuring about 3' 2" broad by 1′ 4" high, and consists of 27 lines. According to Mr. Beglar it contains the date Samvat 324 Phálguna-sudi 6, the year of which Mr. Beglar proposes to alter to 1324. But the inscription is really dated Samvat 724 Phālguna-śudi 5, and, from the style of the writing and the locality in which the inscription was put up, this date must be referred to the Chedi era, so that the year corresponds to A.D. 972-8. Like the Ranod inscription, this ons also appears to be of slight importance[^1963], and Prabh&vañiva. The invoription, which is in verne, was composed by the poet Dharisata, the son of Jelka and Amarika, and grandson of Mehuka, and engraved by Damodara, the son of Lakshmidhara and younger brother of Vasudeva.   Perhaps I may here draw attention to a note on page 5 of Aroherol. Survey of India, vol. XIII, according to whioh there is in the Asiatic Society's collection a rubbing of an inscription from Makuudpur (which is near Chandrehe), dated in (apparently Chedi) Samvat 772. It is very desirable that this inscription should be examined."), and I here refer to it chiefly because in line 5 it mentions, apparently, in connection with Mattamayûra, the sage Purandara of the present inscription. For since Purandara, in the Chandrehe inscription, is followed by about five more generations of sages, the date of the inscription proves beyond doubt, what I have intimated above, that that sage, and with him the prince. Avantivarman, cannot possibly be placed later than the end of the 9th century A.D..
 
@@ -13824,8 +12973,6 @@ L. 1.ओं नमः शिवाय ॥
 
 5.परपदभरभ्रष्टपृष्ठा क्व भूमिः ।  
 इत्थंदौस्थ्येपि रङ्गे गगनतलचलच्चारिकाचारवृत्ते-
-
-
 
 जायन्तां वलिसम्यं त्रिपुरविजयिनस्ताकवक्रीडितानि[^465] ॥– \[5\].  
 भोपसवं स्थिरभगन्यः प-
@@ -13888,30 +13035,14 @@ L.6. द्मासनं दारुवनेतिरम्ये ।
 आसीदतः कवचपूर्व्वशिवाभिधानो लोकप्रियः कवचबहुदृष्टशक्तिः ।  
 यः सर्व्वतो वहति संयति संयताङ्को
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 L. 15 दार्ढ्यंगुणाढ्यमिति कामशरैरभेद[^113]्यः॥
 -\[16\].  
 सदाशिवस्तस्य च शिष्य आसीत्सदा शिवः सर्व्वजनस्य शान्त्या ।  
 तपोवनं यो रणिपद्रुनाम प्रसाधयामास
+
+[^113]: "Metre, Vasantatilakâ."
+
+[^113]: "Metre, Vasantatalakâ."
 
 [^113]: "Metre, Vasantatilakâ."
 
@@ -13968,14 +13099,12 @@ L. 15 दार्ढ्यंगुणाढ्यमिति कामशर�
 
 [^1986]: "The sign of anusvâra over the second akshara of this word is doubtful in the original."
 
-
-
 L. 24.तमस्तस्यास्याद्भूतकर्म्मणः किमपरै स्तोत्रैर्व्विचित्रैरपि ॥ - \[24\].  
 द्रढिष्ठसदनुष्ठानो स्वदिष्ठमितभाषितः ।  
-योन्वतिष्ठत्प्रतिष्ठावभ्रष्ठः सह्रतिनां व्रतम्[^755].") ॥ - \[25\].  
+योन्वतिष्ठत्प्रतिष्ठावभ्रष्ठः सह्रतिनां व्रतम्[^693].") ॥ - \[25\].  
 यः संय–
 
-[^755]: "Metre, Sloka (Anushtubh
+[^693]: "Metre, Sloka (Anushtubh
 
 25.मस्य विनयस्य नयस्य सम्यक्पुरुषस्य चारुचरितस्य च कीर्तनस्य ।  
 एकत्र वस्तुमिति सद्गुण\[सं?\]--\[स्य\]त्वष्ट्रा प्रतिश्रयगृहं गृहिणीव जज्ञे[^1988]॥-\[26\].  
@@ -14019,10 +13148,6 @@ L. 24.तमस्तस्यास्याद्भूतकर्म्म�
 यद्वाचां मनसां च गोचरमतिक्रान्तेन भून्नान्वितं  
 यद्गीतं गुणगर्व्वितैर्हिविस(ष)दां दारैरदभ्रादरं ।  
 यस्तत्व(त्त्व) ज्वलितैः प्र-
-
-
-
-
 
 L. 33. चण्डतपर्सा तेजोभिरुन्मीलितं  
 तत्रान्यत चरित्रसुचतमतावचैव तावत्खितम् ॥ -\[32\].  
@@ -14072,10 +13197,6 @@ L. 33. चण्डतपर्सा तेजोभिरुन्मीलि
 बासाद्यस्य च जैमजम्बु (म्बु) कमतैदुर्व्याहृत्तं संहृतं ।  
 सोढं जातु न जैमिनीयहरिणौर्जीलालर्त हुजातं  
 तस्यान्यद्गगनेशवान
-
-
-
-
 
 L 42 नपतेः किं स्यात्स्तुतं प्रस्तुतम् ॥[^1994] \[39\].  
 यस्योच्चकेैःस्फुरति संतमसं निरस्व तेजः परं प्रतिनिधं प्रतिवासरं च ।  
@@ -14140,10 +13261,6 @@ L 42 नपतेः किं स्यात्स्तुतं प्रस
 
 [^728]: "Motre, Sloka (Anushtubh
 
-
-
-
-
 L. 52.-स्ति ॥[^2002] - \[51\].  
 यत्तबिधौसान्द्रसुधासितिन्त्रा प्रासादमालामुदिनं विभाति ।  
 भयेन भानोः परिणाममेत्य ज्योत्स्ना स्थितेवामरसझमूर्खा ॥ -\[52\].  
@@ -14198,8 +13315,6 @@ L. 52.-स्ति ॥[^2002] - \[51\].
 
  46. The second of the two aksharas in bracketa was originally प.
 
-
-
 61. न्तु विचित्रा या कुवलयमयशंकुरते ॥[^795] - \[64\].  
 खिरा सेवा वापी गगनशशिमोलमंगवतो  
 भवत्वाचन्द्रातितपसो भूरियशसः ।  
@@ -14241,8 +13356,6 @@ L. 52.-स्ति ॥[^2002] - \[51\].
 [^2012]: "Vol. XX, pp. 25 and 39 (fourth inscription
 
  A second copy of the same Înscription is engraved on the north and south faces of another stone tablet, which is set up to the left of the entrance to the Pampâpati temple. This copy is much worn, but helps to ascertain how many verses are lost at the bottom of the south face of the first copy.
-
-
 
  The inscription opens with 29 Saṅskṛit verses, which contain a genealogical account of the second Vijayanagara dynasty down to Kṛishṇarâya. Then follows a passage in Sanskrit prose, which records a gift to the temple by this king. The document ends with a Kanarese version of the same donation.
 
@@ -14292,9 +13405,6 @@ Turvasu.
 
 [^2016]: "Journal, Bomlay Br. R. As. Soc., vol. XII, p. 352, lines 17 to 20."
 
-
-
-
  The second part of the inscription, which is written in Sanskṛit prose (north face, lines 11 to 25), records that Kṛishṇadeva–mahârAya gave the village of siṅgenâ-yakanahalli to the Śiva temple called Virûpâksha, and built an assembly-hall (raṅga-maṇḍapa) in connection with the same temple. Virûpâkshadeva, the old name of the Pampâpati templę, occurs already in inscriptions of Bukka and Harihasa II. of the first dynasty[^2017]. By the assembly-hall must be meant the maṇḍapa, in front of which the stone tablet is set up. In a verse (30), with which the Śanskṛit portion ends; the inscription is called an edict (śásana) of Kṛishṇaráya.
 
 [^2017]: "Journal, Bombay Br.,R.,A. Soc., vol. XII, pp. 351, 376 and 377. Colebrooke's Miscellaneous Essays, Madras edition, vol. II, p. 259."
@@ -14306,7 +13416,6 @@ Turvasu.
 [^2019]: "According to the tables, the Śukla-saṁvatsara corresponded to Śuka 1432 ( A.D. 1509-10
 
  In the Sanskṛit portion of the inscription occur two Kanarese birudas, to which the Sanskṛit case-termination is affixed (bháshege tappuvaráyara gaṇḍaḥ, north face, line 4, and múṛu-ráyara gaṇḍaḥ, line 5f.), also & Sanskṛitized form of an Arabic word (suratrâṇa= ..., lines 6 and 14) and of a Perśian word (hindu = ...., line 6 ) ; instead of râjan, the Kanarese tadbhava râya is frequently used.
-
 
 **TEXT.  
 A.—South face.**
@@ -14329,8 +13438,6 @@ L. 1.          श्रीकृष्णदेवराय श्री
 [^2020]: "Read तुर्यसु"
 
 [^2021]: "Road बी."
-
-
 
 **L. 15. तोनपेतो रणात्। आपूर्व्वापरवारिराशि नितरामासेतुहेमाचलं (1) विख्यातो विहसंच योवित-**
 
@@ -14408,8 +13515,6 @@ L. 1.          श्रीकृष्णदेवराय श्री
 
 **    **
 
-
-
 **HAMPE INSCRIPTION OF KRISHNARAYA**
 
 \[ Here two verses are entirely lost through the mutilation of the stone. The following transcript of them is made from the duplicate copy with the help of other  
@@ -14465,8 +13570,6 @@ Vijayanagara insoriptions :—\]
 27 Read तत्ताहिन्जेचबृत्त्यापि.  
 31 Read महोत्सवेगसवंग.
 
-
-
 **L. 21. रवितनयानुकारिया रंग्गमंड्डपोपि विरचितस्तस्यैव देव तेनैव प्रकटित-  
 25. नरजनुषा पुसूनध\[नु\]षा ॥ तदिदमवनीवनीपकविनुतधरायस्य  
 26. कृष्णरायस्य शासनम्नतिबलशार्सनतरकारदानस्व \[सापद\]ानस्य \। \[२० \*\]  
@@ -14501,16 +13604,14 @@ Hail ! Let there be prosperity !**
 
 [^2037]: "35 An easier reading wonld be चेलीक्यनगराबन्दमूलसम्भाव 'the principal pillar of support of the eity of the three worldn.' Compare चावन्नसन्धमेकं त्रिभुवनभवनस्य, the single pillar of support of the houpe of the three worlda,' ante, p. 310, verse 26."
 
-( 3 ) There was produced, like fresh butter, from the great ocean of mflk, when it was churned by the gods, the luminary which dispels darkness (i.e., the moon).
-
 [^2038]: "36 On the virodhdbhása between gaja and agaih. see Journal, Bombay Br. R. 48. S., vol. XII, p. 372, note 2. There is also a play on the word hari, which signifies Vishnu, and at the same time the lion, whioh is considered as the natural enemy of the elephant."
+
+( 3 ) There was produced, like fresh butter, from the great ocean of mflk, when it was churned by the gods, the luminary which dispels darkness (i.e., the moon).
 
 (4.) The son of this (moon ) was Budha, whose name ( tode made) true to its nean- ing[^2039]by his unequalled austerities. In consequence of his pious deeds (he obtained a  
 son), Puráravas. ( The son ) of him, who destroyed the life (äyus) of his enemies by
 
 [^2039]: "37 Budha means 'a wise man ' or ‘a god.'"
-
-
 
 the strength of his arm, was Âyus. His (son) was Nahusha. His (son) was Yayati, who was fier-ce in battle (and) famed on earth. (*The son*) of this husband of the glorious Devayânt was Tur-vasu, who resembled the Vasus.
 
@@ -14537,8 +13638,6 @@ the strength of his arm, was Âyus. His (son) was Nahusha. His (son) was Yayati,
  (11.) Having conquered the Chera, the Chola, the proud Pândya (*who was*) the lord of Madhurâ, the brave Turushka, the Gajapati king and others, he, who was exceedingly famed from the banks of the Gangå to Lańkå and from the slopes of the eastern to those of the western mountain, spread his command like a garland on the heads of kings.
 
  (12.) At Râmeśvara42and every other shrine on earth which abounds in sacredness, he, with joyful heart, surrounded by wise men, repeatedly performed the sixteen kinds of gifts according to rule, (*thus*) making superfluous (*his previously acquired*) great fame, which was sung by the inhabitants of the three worlds.
-
-
 
  (*Vv.* 13 and 14.) Just as Rama and Lakshmaņa (*were born*) to Daśaratha by his queens Kausalyâ and the glorious Sumitrâ, (*thus*) two brave (but) modest sons, prince Vira-Nrisimha and prince Kṛishnaraya, were born to king Nṛisimha by his queens Tippâji and Nagala (*respectively*).
 
@@ -14584,8 +13683,6 @@ the strength of his arm, was Âyus. His (son) was Nahusha. His (son) was Yayati,
 
 [^2061]: "58 The above list of the sixteen kinds of gifts (skoduka dândni, voise 12 and note 55
 
-
-
  (*Vv.* 19 and 20.) When, having ruled his great kingdom without obstacles, this Indra of the earth, who was famed for virtue, had gone to heaven, as if it were in order to rule heaven (*too*), the illustrious king Kṛishnarâya, whose valour was irresistible, bore the earth on his arm like a bracelet of jewels.
 
  (21) It was probably through fear, lest everything should assume an identity of lustre from his fame, which was spread everywhere, that, of old, Siva adopted a (*third*) eye on his forehead (*as a distinguishing mark*), Vishnu four arms, Brahman four faces, Kall a sword, Ramâ a lotus, and Vâņî a lute in her hand.
@@ -14614,8 +13711,6 @@ the strength of his arm, was Âyus. His (son) was Nahusha. His (son) was Yayati,
 
  He, who filled the world, as a box with camphor, with the flood of his fame, which arose from liberality, firmness, valour and other (*virtues*), that were being praised by the crowd of all poets in this world; who was fierce in battle; who surpassed the
 
-
-
 deeds of Nṛigá, Nala, Nahusha, Nâbhâga, Dhundhumara, Mândhâtri, Bharata, Bhagi- ratha, Daśaratha, Râma and other (*kinga)*; who protected Brâhmaṇas; who subdued Sultáns; who was (*like*) the fever to the elephants of the Gajapati (*king*); who knew many arts; whose face surpassed the lotus; who, (like) a second Bhoja, knew the mysteries of poetry, of the drama and of rhetoric; who knew the law; who, every ycar, performed a sacrifice to (*Káma*) the lord of the golden festival of spring;"[^2067] who fulfilled the desires of the crowd of Brahmaṇas; who was rich; who was the chief of all princes; who was fortunate; who was the son of Nagàmbika"[^2068] and of king Narasa; who delighted all hearts; who was victorious at the head of battles; who conquered (*all*) quarters; who, having ascended the throne at Vijayanagara, was ruling the whole earth; who won battles hy (the strength of) his arm :-Kṛishṛadeva-mahârâya gave a village, which was famed by the name of Singenayakanahaļļi and which was adorned with its four boundaries,' for (*providing*) pleasant oblations (naivedya), (consisting of) sweet fruits, cakes, &c., to Sûlin (Siva), called the holy Virupaksha, to whom pious people have presented' heaps of gold, who abides on the Hemakuta,[^2069] is Hemakuta; the most auspicious Tungabhadra is the moat that surrounds it; the guardian of it is visibly the god Sri-Virupakshadeva.") and who is diligent in protecting the world. The same (king), who assisted (others) with his wealth like (Karna) the son of the sun, and who was Kama manifest in a human birth, built an assembly-hall (ranga-maṇḍapa) (for the use) of the same god.
 
 [^2067]: "84 The expression kanaka-vasanta-mahotsava seems to refer to the custom, which is observed at the Holî or spring- festival, of throwing yellow or red powder and squirting coloured water at each other. Compare Ratnávalí, act I, versen 2 and 3."
@@ -14636,8 +13731,6 @@ deeds of Nṛigá, Nala, Nahusha, Nâbhâga, Dhundhumara, Mândhâtri, Bharata, 
 
 [^2072]: "89 Arôgaṇé mâḍu, ' to take a meal, to eat food * Sanderson's Canarese Dictionary."
 
-
-
 oblations (*naivedya*), he gave to the god-1 goldeh vessel, 2 drums (*to be used*) duringthe ceremony of waving lamps, (*and*) 24 silver lamps.70[^2073] Those who injure this meritorious gift (*dharma*), shall incur the sin (*of those*) who have committed the slaughter of a cow, the murder of a Brâhmaṇa, and the other great crimes:
 
 [^2073]: "70 Arati or ârti is a tadhhgua from the Sanskrit drâtrika, ‘ a lamp waved before an idol.'"
@@ -14654,8 +13747,6 @@ oblations (*naivedya*), he gave to the god-1 goldeh vessel, 2 drums (*to be used
 
 [^2076]: "3 The collection referred to is that in Cunningham's Archeological Survey Reports, vol. III, plates xiii-xv."
 
-
-
 varieties occasionally occur in one and the same document; compare, e. g., ndgendrasya (No. XVIII, 1. 2), máthuráṇam (ibid., 1. 8), éailálakánam (1. 4) and máta (1. 8). The mediali has likewise three forms, one of which is a well-developed semicircle, while the second, a cursive one, looks very much like the medial e, and in the third the tail of the curve is drawn down at the back of the consonant just as in the Gupta i; all three forms occur in the word divase and in its abbreviation di. The initial u consists usually of an angle open to the right, as is invariably the case in the older inscriptions; but in uchchendgarasyáº (No. XIII) it resembles a da with a well-developed nail-head at the top. The same inscription shows also in the word Kumáranandi a medial u, which exactly agrees with the modern Devanagarî form. Less perfect examples in the same syllable occur in other inscriptions, while usually, except in tu[^2077]4[^2077]and gu, where an upward curve on the right side of the consonant is used, the vowel is expressed simply by a straight stroke. The medial ri has again three forms, being expressed (1) by the curved line, turning to the left, which usually denotes the subscript ra,[^2079]5[^2079]e.g., in gri for gríshma (No. IVA, 1. 1) and in Srigriháto (No. III B, 1. 2); (2) very frequently by a straight line, slanting sharply from the lower right extremity of the consonant towards the left, e.g., in gṛi for gríshma (No. IIA, l. 1), and in Aryya-Mâtridinaḥ (No. IIIA, 1. 3-4) ; (3) by the curve open to the right, which is constantly used in the Gupta and the later northern alphabets, e.g., in gri for gríshma (No. XIII, 1. 1). Among the consonants 'the forms of ka, ksha, na, na and sa deserve particular attention. Ka is usually expressed by a cross with a serif at the top, but occasionally it has the Gupta form with a curved line instead of a straight cross-bar and with a serif or a nail-head at the top; see, e.g., Kumáranandi (No. XIII). The lower portion of ksha is mostly made square, but in kshune (No. XIII) and in bhikshuaya (Cunningham, No. 12) the left side is round. Na is usually formed of two small curves at the top, springing from a short vertical stroke, the lower end of which stands on the 'middle of a curved base line or on the apex of an angle formed by two straight lines. Sometimes, however, we find archaic forms agreeing in part with the older ones of the Aśoka edicts and of the earlier Andhra inscriptions. Thus in some cases, e.g., in śramaṇaº (No. XVII, 1. 1)[^2081] stands for priyasya. Instead of frigriháto I have given erroneously (Wiener Zeitschrift, vol. II, p. 289) śriguhato.") and toraṇaṁ (ibid., 1. 2), the base line is made perfectly straight, while, e.g., in váraṇato (No. XIB, l. 1), the ancient straight top line appears instead of the two curves. On the other hand, we meet also with a cursive form, a further development of the usual one, which some-what resembles our letter and evidently has been made with two strokes; see, e.g.,gaṇato ( No. VIIA, 1. 1) and kähune (No. XIII). As regards the dental na it usually consists of a thick straight base line with a short vertical stroke above its centre which' bears at the top a serif, or a nail-head. Sometimes also, as in the difficult word hanagrisya (No. IX, 1. 1), Haginamdia (*ibid*., 1. 2), the serif is wanting and the vertical stroke longer, so that the letter does not differ from the form used in Asoka's edicts.The letter sa, finally, has nearly throughout the form used in the Andhra and other old inscriptions, but in No. V the left-hand limb is invariably converted into a loop, and the
 
 [^2077]: "4 The te with the upward curve occurs also in the Asoka edicts, especially in the Kalsf version, and has there been misrend sa."
@@ -14663,8 +13754,6 @@ varieties occasionally occur in one and the same document; compare, e. g., ndgen
 [^2079]: "5 This form has remained in many southern alphabets."
 
 [^2081]: "6 I have to add that in a former article, Wiener Zeitschrift für die Kunde des Morgenlandes, vol. I, p. 176f., I have read erroneously gra instead of gri. The three forms in the new inscriptions leave no doubt that gri is intended. Gri is put for gri, which also occurs not unfrequently, e.g., in Nos. XX and XXII, just as priyasya (No. XII, 1. 1
-
-
 
 letter is almost exactly like the Gupta sa. The alphabet of these Indo-Skythic inscrip-tions may therefore be called a transitional one, which was modified through the influence of the current hand, used in every-day life, the latter being almost identical with the so-called Gupta characters. I may add that cursive forms are met with even among the numeral signs. Thus, in No. VIII, the left-hand limb of the figure 4, which usually is square, has been made round, and the cross-bar consists of a curved stroke. In the same inscription the figure, probably to be read as 40, looks exactly like a Roman V, as the whole lower portion of the two strokes, which has been preserved in the crosslike forms of the same sign on Sir A. Cunningham's Nos. 11, 12 and 13,[^2082] 4, not 40 (+)4. The inscription belongs to the reign of Vasudeva, whose other dates range from Samvat 80 (see No. XXIV) to 98, while Huvishka certainly ruled from Samvat 39 to 48. The oldest known form of the figure 70 consists of a vertical line, to which two short horizontal strokes are attached, one on the right and one on the left side. Made ourelessly, this would readily become a cross, somewhat resembling the Roman I.")7[^2082] 4, not 40 (+)4. The inscription belongs to the reign of Vasudeva, whose other dates range from Samvat 80 (see No. XXIV) to 98, while Huvishka certainly ruled from Samvat 39 to 48. The oldest known form of the figure 70 consists of a vertical line, to which two short horizontal strokes are attached, one on the right and one on the left side. Made ourelessly, this would readily become a cross, somewhat resembling the Roman I.")[][^2082] 4, not 40 (+)4. The inscription belongs to the reign of Vasudeva, whose other dates range from Samvat 80 (see No. XXIV) to 98, while Huvishka certainly ruled from Samvat 39 to 48. The oldest known form of the figure 70 consists of a vertical line, to which two short horizontal strokes are attached, one on the right and one on the left side. Made ourelessly, this would readily become a cross, somewhat resembling the Roman I.")has been omitted.
 
@@ -14676,15 +13765,11 @@ letter is almost exactly like the Gupta sa. The alphabet of these Indo-Skythic i
 
 [^2085]: "8 This may stand for ºbhati."
 
-
-
 nominative formed from a consonantal stem, bhagaván, while its genitive bhagavato (No. IIC, 1. 2) and *arahamta*, the only other originally consonantal stem which occurs,show Prakrit forms. The nominative plural drops its Visarga as in Prakrit, as in Sthd (No. IVA, 1. 2). The other cases show either Prakrit or hybrid terminations. In the singular instrumental of the feminines in fº and á the termination is yet *e.g*., in *sukhitâye, kuțumbiniye* (No. VI), and there is in the same inscription one Pali form,dhitura (*i. e.*, *dhítará*) for duhitrá (No. VIA).
 
  The masculine a-stems added *eṇa,* as in No. XVII, 1.4, we have *śaśureņa*. The dative of the *â*-stems takes ye in *arahamtapújáye*, and ya (as in Pali) in mahâbhogatáya (No. VIII, 1. 2). The difference is probably merely graphic, because ya is invariably pronounced ye, and the stress, which lies on the preceding tá, makes the quantity of the following syllable indistinct. In hitásukhá (No. XXI, 1. 6) we have possibly a contracted form for hitasukháa. The ablative of the masculine and neuter a-stems ends sometimes in á, e.g., always in the word nirvvarttaná (No. IIIA, 1. 4), but more,usually in áto, e.g., in gandto (No. IA, 1. 1) and kuláto (ibid.), which termination is a precursor of the Jaina Prakrit and Maharashtri do and of the Sauraseni ado or ádu. With respect to the variants ganato (No. VB, 1. 1) and kulato (ibid.) it is difficult to be positive. They may stand for Sanskrit ganataḥ, kulataḥ or, as the long á is sometimes omitted, for kuláto. The feminine á and i-stems take to and the latter invariably shorten their vowel, as in Uchenagarito10[^2086] śákháto (No. 14, 1. 2), and thus agree with those of the Jaina. Prakrit,where we find kannáto and devito. As regards the genitives not yet noticed, the femi-nines in â, í and ú form dye or aye, iye or iye and ûye or uye; compare, e. g., Khuḍâye (No. IA, 1. 2), Sangamikaye (No. IIO, 1. 1), Vasulaye (No. IID, l. 1), dharmapatniye (No. IIIO, 1. 1), kuțumbiniye (No. VIII, 1. 2), vadhúye (No. XIA, 1. 3) and vadhuye (No. X): Three times, in kuṁțúbinîya (No. VB, 1. 2), Sangamikaya and śiśiniya (No. XII) we have the termination ya, which in my opinion was likewise pronounced ye or ye. The genitive of the representatives of Sanskrit duhitri, dhítu or dhitu, agrees with the Pali form, and so does mátu (No. IIC, 1. 2). A remarkable mutilated Sanskrit form is rájña (Cunningham, No. 20, 1. 2), and very peculiar is the genitive of the male name Haginandia (No. IXB). The last sign is very distinct; else one would be tempted to conjecture Haginamdisya. Tasya (No. VIIB, 1. 2) must stand for tasyah, as it refers to the feminine Kumarami\[trá\], compare etasya for etasyam. The locative of the masculines and neuters in a shows e as in Sanskrit and in most Prakrits; that of the feminine ends in yám, yam, yẩ”or ya, e.g., púrvváyám (No. IA, 1. 1), púrvvâyá (No. IV A,1. 1), śákháyá (No. VIII, 1. 1), Haritamálakaḍhiya (No. IXB). Sir A. Cuninngham' Nos. 2, 3, 7, 11 show the Jaina Prakrit and Mahârâshtri forms púrvváye or púrvvaye.The two locatives of the pronoun idam, asmi and asma (No. VA, 1. 1, No. VI, No. XIII,and No. XXV), are corruptions of Sanskrit asmin. The few pure Sanskrit forms have been noted above. In the plural, which also does duty for the dual, none but Pali, Jaina Prakrit or hybrid forms occur. The nominatives have already been mentioned.Instances of the instrumental are *mátápitihi* (No. XVII, l. 3) and putrehi Nandibala-pramukhehi dárakehi (No. XVIII, H. 5-6). Among the genitives, the Jaina Prakrit form Aryya-Veriyána (No. VIII, 1, 1), among the hybrid forms tesham (No. XVIII, 1. 5) and *mátápitrinam* (*ibid*. 1. 6) deserve to be mentioned in addition to the Pali formsMostly spelt i.
 
 [^2086]: "10 The short i may be merely graphic."
-
-
 
 enumerated above. With respect to the use of the cases it must be noted that the nominative not rarely takes the place of the crude form, and that the crude form occasionally takes the place of an inflected form.. Instances of the former kind are found in \[*grá\]miko Jayandgasya* (No. XIB, 1. 3), *sisho Sadhisya* (No. VB, 1. 1), sraddhacharo váchakasya Aryyadatasya (No. IVA, 1. 2); further in ganisya *Aryya-Buddhisirisya sisho váchako Aryya-Sandhikasya* (No. XIX, 1. 2)[^2087],*Hastahastisya sishyo ganisya Aryya-Mághahastisya fraddhacharo váchakasya Aryya-Devasya* (No, XXI, 11. 4-6). Two perfectly certain instances of the second irregularity occur in brihamta (?) váchaka cha ganina cha Ja..mitrasya (No. IVA, 1. 1) and vádhara.....vadhú Haggudevasya dharmmapatniye Mittraye (IVB, l. 1). The omission of the case terminations in words which qualify others standing in the same case is common, as Professor von Roth has shown[^2088],”in the Rigveda." It occurs also not rarely in Pâņini's Sútras, is very frequent in the Northern Buddhist works, and is a fixed principle in the modern Indian vernaculars as well in other languages. The use of the nominative instead of the crude form is not known to me from other Indian dialects than that of the Northern Buddhists; but in Zend it is not-uncommon. A third syntactical anomaly in our inscriptions is the violation of the rules of concord, in phrases like váchako Aryya-Sihá (No. IVA,1. 2), gaṇina cha Ja..mitrasya (ibid., 1. 1), éiéíninam Aryya-Sangamikaye (No. IIC, 1. 1), arahaṁmtánaṁ Vadhamânasya (No. XVI, 1. 1), where a noun in the plural has to be construed with another in the singular. The explanation is, of course, that the plural is a pluralis majestatis, and that the terms quoted must be taken in the sense of the “great”or “venerable” ganin, “the great or venerable female pupil”and “the venerable arhat”.
 
@@ -14696,11 +13781,7 @@ enumerated above. With respect to the use of the cases it must be noted that the
 
  The great interest, which the development of the Prakrits possesses for the history of Indian literature, would make it desirable to determine exactly the character of the vernacular of Cen-tral India used in the first and second centuries A.D., which influenced
 
-
-
 the language of these documents. Unfortunately the number of the inscriptions is still so small that it is impossible to obtain in this respect perfectly certain results. Never theless I will state that from the materials accessible to me, I consider it to have been in some points more similar to the Jaina Prakrit and the Maharashtri than to the Pali and to the language of Asoka's edicts and of the older Andhra inscriptions. Words like the representatives just enumerated of Fajri and Vajrd, like Kottiya for Kottika, Brahmadásiya for Brahmadásika, Siriya for Sirika, lohaván-iya for lohavánija, and Haganamdi for Bhaganandi, seem to indicate that the destruction of the medial and initial consonants had begun, and it is quite possible that among the numerous counter-instances some, at least, may be due to the desire of the authors to make their langu-age sound like Sanskrit, i.e., that they may be attempts at a retranslation of more advanced Prakrit forms into Sanskrit. Thus the two forms Bahmadásika and Brahmadásiya lead me to suspect that the real popular form was Bamhaddsiya orevén Bambhadásiya, which was retran-sliterated into Sanskrit in two different ways, both times with indifferent success. In two points this Prakrit probably differed from nearly all the literary Prakrits, agreeing at the same time with the modern vernaculars. First, it probably possessed, like the latter, only two sibilants, sa and éa, which were, as is done in the present day, frequently interchanged. The inscriptions have, it is true, the three signs used in Sanskrit, and their use remains unchanged in pure Sanskrit words. Even the lingual sha keeps its place in such words and in the hybrid forms with shka and shța, e.g., in Kanishka, Huvishka, pratishțápita, Goshtha..., Jeshṭahastin, vishṭúyamâna, sishya. But, when regular Prakrit forms are substituted for, or derived from, the Sanskrit words, the lingual sha almost disappears. The palatal sa, on the contrary, mostly remains and even cxtends its sphere; here and there sa appears in its stead. Thus we find in the Prakrit equivalent for sishya, once sisha (No. VB, 1. 1), once śiśa (No. XIVB, 1. 1), and twice śisa (No. IX, 1. 2, and Cunningham’s No. 10, 1. 1, sasasya, according to the facsimile). The Prakrit feminine of sishya is spelt once sishini (No. VIB, 1. 2) and six times śiśîni or śiśini (No. IIC, 1. 1 ; No. VII B, 1. 1; No. XIA, 1. 2; No. XII, 1. 2; No. XIV B, 1.1). Further, évasura becomes sasura (No. XVII, 1. 4); srí is invariably siri in the names Sirika or Siriya and Buddhaśiri (No. XIX, 1. 2); Pushyamitríya is changed to Puśyamitríya (No. VI, 1. 2). The dental sa is put instead of śa in sethi (No. IA, 1. 2), suchila (No. III.B, l. 3), and in sakrú for ....... (No. XVII, 1. 4). Hence I regard the occurrence of sha in Prakrit words as merely graphic, and assume that sa and sa were the only two sibilants of the Prakrit vernacular, but were occasionally used the one for the other. That is just what is done in all the vernaculars of Northern, Western, and Central Indin, which from Kasmir down to the Marathâ country possess only the dental and the palatal sibilants and exchangethem very frequently, especially in their true popular varieties. The second point, in which the Prakrit of our inscriptions agreed with the modern vernaculars, not with the literary Prakrits, is the neglect of the aspiration of conjunct hard aspirates. We have stáne for stháne (No. XVIII, 1. 2), pratishtópito for pratishthápito (No. XVIII, 1. 4), Jeshtahastisya (No. XIVB, 1. 1, twice) for Jyeshṭhahastisya, sarttaváhiniye (Cunningham, No. 7, 1. 2) for sártthaváhinyáh, Sreshtaputrena and freshtiná (Cunningham, No. 9, 1. 3) for śreshthiputrena and sreshthind. It is just in these very groups that, according to the popular pronunciation of the vernaculars of Northern, Western, and Central India (with the exception of the Marathi ), the aspiration is om-itted, though in writing it is frequently expressed. The numerous Sanskrit words, like kanishṭha, pra-
-
-
 
 *tishṭhá, pratishṭhita*, used in all the vernaculars, are in Kaśmir, the Panjab, Râjputana, Gujarât, Mâlvâ and the portions of the North-Western Provinces known to me, învariably pronounced kaniséṭ, pratiśṭd and pratiśțit, and one hears stána quite as often as sthána. It is only the learned Pandit who will at least try to sound the tha or tha. Hundreds, nay thousands, of mistakes in Sanskrit inscriptions and manuscripts show that this neglect of the aspiration, especially in the group *shṭha*, is not of recent date. The examples in our inscriptions are sufficiently numerous to warrant at least the inference that in the first and, second centuries of our era the omission of the aspiration did occur, and perhaps was optional.
 
@@ -14730,9 +13811,7 @@ the language of these documents. Unfortunately the number of the inscriptions is
 
 [^2099]: "23 The form with ta is invariably used in these inscriptions."
 
-
 [^2100]: "24 A few words giving the name of the author of this precious document are illegible."
-
 
 **TRANSLATION.**
 
@@ -14750,17 +13829,15 @@ the language of these documents. Unfortunately the number of the inscriptions is
 
 [^2104]: "28 Occasional substitutions of hard consonants for soft ones are found also in Asoka's edicts, in the literary Pali, and in other Prakrit dialects."
 
-
-
 Harita. The form of the Kalpasútra would mẻan’ “ the śákhá of the house (ágára) called Harit-amala”. This is hardly possible, and as gadhi is pronounced garhi, it seems probable that Hâri-yamâlâgârî is slightly corrupt and has to be changed to Hariyamálagadhi. The mistakes, which the inscriptions have shown to occur in other names of the *Kalpasútra*, certainly encourage one to hazard this slight alteration.
 
  Two of the new names refer to the *Koṭṭiya gaṇa*. The Brahmadâsika *kula* (Nqs. I, IV, V, XIV)[^2105] side, l. 2, [ku]läto Brahma, dasikato Uchendkarito [sakhâto], ought to be restored.")may be identified with the Bambhalijja *kula* of the *Kalpasútra* (p. 82, Jacobi). The latter name corresponds not to Sanskrit Brahmaliptaka, as the commentators assert, but to Brahma-liya, and this is derived from Brahmala, which according to the Indian custom of abbreviating compound names, may stand for Brahmadåsa. Similarly, Devaka, Devala or Devila may be used for Devadatta, Devagupta, Devapâlita, Devarakshita, Devabhūti or Devasarman.[^2106]
 
 [^2105]: "29 The name occurs, too, in Sir A. Cunningham's No. 2, where on the second (recte first
 
- The Uchenâgarî or Uchchenâgari sákhá of the same inseriptions is of course the Uchchânâgari sdkhd of the Kalpasútra (loc. cit.) which stands first in the list of the branches of the Kodiya gana.. The difference in the second vowel has been caused by the existence of two synonymous Sanskrit forms of the etymon, Uchchæirnagara and Uchchânagara[^2107],which both mean “the high town”.
-
 [^2106]: "30 Compare ante, p. 225, Styaka for Simhabhata, and ante, p. 272, Visvala for Visvamalla."
+
+ The Uchenâgarî or Uchchenâgari sákhá of the same inseriptions is of course the Uchchânâgari sdkhd of the Kalpasútra (loc. cit.) which stands first in the list of the branches of the Kodiya gana.. The difference in the second vowel has been caused by the existence of two synonymous Sanskrit forms of the etymon, Uchchæirnagara and Uchchânagara[^2107],which both mean “the high town”.
 
 [^2107]: "31 Compare the Sanskrit names Uchchaiḥsravas and Uchchamanyu."
 
@@ -14772,8 +13849,6 @@ Harita. The form of the Kalpasútra would mẻan’ “ the śákhá of the hous
 
 [^2108]: "32 See Wiener Zeitschrift f. d. K. d. Morg., vol. I, p. 176, note 1."
 
-
-
 we learn, much divided at that early period, and this fact speaks in favour of the statement of the tradition which places its origin about the year 250 B.C[^2109].
 
 [^2109]: "33 See Indian Antiquary, vol. XI, p. 246."
@@ -14784,15 +13859,13 @@ we learn, much divided at that early period, and this fact speaks in favour of t
 
 [^2111]: "35Sir A. Cunningham's Archeological Survey Reports, vol. XX, plate v, No. 6, 1. 3; Wiener Zeitschrift, vol. I, p. 172f."
 
- With respect to one of the nuns our inscriptions contain statements which require explana-tion. The venerable Kumâramitrâ in No. V, who was the female pupil of the venerable Baladin-a, had, it appears, a son Kumârabhati, whom she induced to dedicate an image of Vardhamâ-na. It would be a mistake to infer from this admission that the nuns of the first and second centuries led immoral lives. The correct explanation will be that Kumâramitrâ was a widow who turned nun after the decease of her husband, and that she afterwards acted as spiritual director to her son. It is worthy of note that this is the only case where a nun appears as adviser of a layman. In all the other inscriptions we find that the nuns exhorted female lay members of the Samgha to make donations. It agrees with this that in modern times too, the order of Jaina nuns mostly consists of widows, especially of virgin widows, who, according to the custom of most castes, cannot be remarried, and are got rid of in a convenient manner by being made to take the tonsure; see Ind. Ant., vol. XIII, p. 278.
-
 [^2112]: "36 It is a characteristic Jaina doctrine that the Bråvakas and Srâvikâs form part of the Samgha. On this point the Jainas differ very markedly from the Buddhists"
+
+ With respect to one of the nuns our inscriptions contain statements which require explana-tion. The venerable Kumâramitrâ in No. V, who was the female pupil of the venerable Baladin-a, had, it appears, a son Kumârabhati, whom she induced to dedicate an image of Vardhamâ-na. It would be a mistake to infer from this admission that the nuns of the first and second centuries led immoral lives. The correct explanation will be that Kumâramitrâ was a widow who turned nun after the decease of her husband, and that she afterwards acted as spiritual director to her son. It is worthy of note that this is the only case where a nun appears as adviser of a layman. In all the other inscriptions we find that the nuns exhorted female lay members of the Samgha to make donations. It agrees with this that in modern times too, the order of Jaina nuns mostly consists of widows, especially of virgin widows, who, according to the custom of most castes, cannot be remarried, and are got rid of in a convenient manner by being made to take the tonsure; see Ind. Ant., vol. XIII, p. 278.
 
  The last of the new inscriptions, Dr. Führer explains, is on a slab found near the brick stúpa adjoining the two Jaina temples; but he adds that it was lying loose on the pavement of the court, and that it may have belonged originally to some other temple. It records the consecrati-on of a stone slab, stáne, i. e., either “on the site sacred to”or “in the temple of,” the divine lord of Nagas, Dadhikarṇa. The worship of the Nâgas or snake-deities is of great antiquity in India. It forms part of the ancient ritual of the Brâhmans, who offered and still offer the sarpabali[^2113]in the rainy season, when the snakes.
 
 [^2113]: "37 This is prescribed in all the Grihyasûtras; see, c. g., Asvaldyana Gṛi. Sû. II, 1 14."
-
-
 
 are driven out of their holes and often take refuge in the houses. In the Baurâņic worship we find the *Nâga-pañckami,* the snake-festival on the fifth lunar day of the bright half of Śrâvaṇa, which is still very popular and celebrated very generally[^2114]. There exist also a few Nâga temples. In Gujarât the most famous is the so-called Någ of Dehema, which lies in the north-west corner of the province, close to the Rap of Kachchh. I visited Dehemâ in 1873 and found there a temple, consisting of a small dome about five feet high, with an opening towards the east. Inside there was a stone slab showing in the centre the relievo of a large cobra standing upright on its tail, and on both sides some smaller ones in the same position. A short inscription stated that the image was erected in Vikrama Samvat 1212, or A.D. 1156-58. The stone slab at Mathurâ, of which our inscription speaks, probably bore a similar representation. As regards Dadhikarṇa, his name occurs in the Harivamsa,[^2115] where he is invoked in the áhnika mantra, the daily prayer which is said to have been recited originally by Baladeva and after him by Krishṇa. It thus appears that the worship of Dadhikarna certainly formed part of the Bhagavata ritual and was practised at Mathurà in oarly times. These facts may indicate that our No. XVIII is not a Buddhist, but a Bhagavata inscription. But it is quite possible that the Buddhists in whose legends the Nâgas play a great part, and on whose Stúpas they are often represented as worshippers of the Bo-tree, may have taken over the worship of Dadhikarṇa from the Brahmans. Finally, another very interesting point in this inscription is the statement that the dedicators of the stone were the“sons of those failálakas who were famous as the Chândaka brothers.”It is impossible to interpret śailálaka otherwise than as a synonym of failálin, which, according to Pânini, IV, 3, 110, originally was a name of those actors who studied the Sútras of Silâlin, and according to the Koshas was used later to denote any actor. Our inscription, therefore, teaches us that Mathurâ had its actors in the first or second century of, our era, and makes us actually acquainted with the name of such a troup. It further shows that play-acting was then, as in the present day, the business of particular families a fact which may also be inferred from the introduction to several Sanskrit dramas where the nați is sometimes called the wife of the sútradhára, and his brothers are mentioned as actors. In a Jaina story of the clever boy Bharata, we hear even of a natagráma, a whole village inhabited by actors.
 
@@ -14810,8 +13883,6 @@ B. 1. पालस्य धि\[त\]----
   2. वधमानस्य प्रति\[मा\] ॥
 
 [^2117]: "41 Restore siddham"
-
-
 
 **TRANSLATION.**
 
@@ -14861,8 +13932,6 @@ A.1. सिद्धम्। सं १० ६व ४ दि १० अस्�
   3. दिनस्य शिष्यो \[वाच\] को अर्य्यमा -  
   4. तृदिनः तस्य \[नि\] र्व्वर्त्त \[न\]T
 
-
-
 B. 1. \[कोट्टियातो गणातीठानियातो\]  
   2. \[कुलातोश्रीगृहातोसंभोगातो\]  
   3. \[अर्य्यवेरिशाखा[तो सु\] चि][^2128]-  
@@ -14875,9 +13944,9 @@ B. 4. – T \[न\]मो अरत्ततानं सर्व्वलो[�
 
 [^2129]: "53A 5 is separated by some ornaments from the other four lines. Five letters seem to have been lost."
 
-**TRANSLATION.**
-
 [^2130]: "54 B 4 is separated from the other three linen by two rows of ornaments. Read अरहंतानं."
+
+**TRANSLATION.**
 
  *Success* ! In the year 19, in the fourth (*month of*) the rainy season, on the tenth day,—on that (*date specified as*) above,— the pupil •of the preacher, the venerable Baladina (*Baladatta*) (is) the preacher, the venerable Mâtridina (*Málridatta*) ; at his request (was dedicated) an image of divine Santi...[^2131],the gift of Le..., first wife of Suchila (*Śuchila*), out of the Koṭṭiya *gaņa*, the Thániya kula, the Srigriha sambhoga, the Aryya-Verî (*Ârya-Vajrí*) śákhá ..Adoration to the Arhats, the highest oncs in the whole world'
 
@@ -14894,12 +13963,12 @@ B. 4. – T \[न\]मो अरत्ततानं सर्व्वलो[�
 
 [^2134]: "58 First three syllables doubtful"
 
+[^2135]: "59 °मित्र doubtfal; restore शिष्य."
+
 2. अर्य्य\[ओ\] घस्य शिष्यगणिस्य \[अ\] र्य्यपालस्य श्र \[हच\] रो \[वाच\] कस्य अर्य्य[\[दत्त\]स्य][^2136]शिष्यो वाचको अर्य्यसोहा \[त\]स्य निव्वर्त्तणा \[खो\]ट्टमि [\[त्त\] स्य][^2137]मानिकरस्य \[गो\] —[जयभ\[ट्टि\]][^2138]धीतु दा—स्य  
 B. 1. \[लो\] हवाणियस्य[^2139]वाधर - - वधू \[ह\] ग्गु \[देव \] स्य धर्म्मपत्रियेमित्राये\[दानं\] ---  
 \[सर्व्व\]स\[त्वानं\] हि\[तसु\] खाये काक\[तेय\]-----क्ष  
       वाज ----------------ि-----ा----------------------------रज
-
-[^2135]: "59 °मित्र doubtfal; restore शिष्य."
 
 [^2136]: "60 The first letter might be read ज, and only the upper part of the second sign has been preserved. But in Mr. Growse's No. 8, Ind. Ant., vol. VI, p. 218, we have plainly वाचकदत्तशिष्यस्त्रसौहस्म."
 
@@ -14910,8 +13979,6 @@ B. 1. \[लो\] हवाणियस्य[^2139]वाधर - - वधू \[
 [^2139]: "the second syllable is doubt"
 
           -----।
-
-
 
 **TRANSLATION.**
 
@@ -14951,8 +14018,6 @@ B. 1. कोट्टियतो गणतो ब्र\[ह्म\]दास�
 
 [^2150]: "74 Vuruya (P
 
-
-
 **No. VI.[^2151]; stone 3 feet 6 inches long by 9 inches high; found at the same temple.")**
 
 [^2151]: "75Incised on the base of a large statue (lost
@@ -14963,14 +14028,13 @@ A. महाराज-----------ष्कस सं २०८ हे २ दि 
 
 [^2153]: "77 The top of the letter is gone, and the reading may have been ग्रहहथिस्य, as the analogy of numerous other names requires."
 
-B. कुटुंबिनिये वारणे गणे पुश्वमित्रीये कुले गणिस अर्य\[दतस्व[शिष्यस्व\]][^2155]गह\[प्र\] कि[\[व\] स][^2156]निर्वर्त\[ना\] अर\[हं\]तपुवाये।  
-
 [^2154]: "78The last syllable is nearly gone."
+
+B. कुटुंबिनिये वारणे गणे पुश्वमित्रीये कुले गणिस अर्य\[दतस्व[शिष्यस्व\]][^2155]गह\[प्र\] कि[\[व\] स][^2156]निर्वर्त\[ना\] अर\[हं\]तपुवाये।  
 
 [^2155]: "79 The lower parts of the bracketted syllables are gone."
 
 [^2156]: "80 The third syllable looks, on the obverse of two impressions and on the reverse of one, more like a damaged क्र. But the reverse of the second impression shows pretty clearly प्र.. The fifth syllable is damaged and not certain."
-
 
 **TRANSLATION.**
 
@@ -14992,6 +14056,8 @@ A. 1. [\[सिहं\]][^2161]। \[सं .३० [\[५\]][^2162]व ३ द�
 
 [^2162]: "the figure is somewhat damaged, but certain"
 
+[^2163]: "87 Restore कु...तो."
+
 B. 1. वइरातो श\[T\]ख\[T\]तो शिरिकातो सं\[भो\]कातो अर्य्यबलदिनस्वशिशिनि [कुमरमि\[त\]][^2164]  
   2. तस्य पुत्रो कुम\[T\]रभटि गंधिको तस —नं[^2165] प्रतिमा वर्धमानस्य समितमखित [\[बो\] धित][^2166]  
 C. 1. [अ\[र्य्य\]][^2167]  
@@ -15000,8 +14066,6 @@ C. 1. [अ\[र्य्य\]][^2167]
   4. ये-  
 D.1. र्व्व  
   2. \[त\]न[^2168]\[॥\]
-
-[^2163]: "87 Restore कु...तो."
 
 [^2164]: "88 Restore कुलरमिन्ना."
 
@@ -15012,8 +14076,6 @@ D.1. र्व्व
 [^2167]: "91 Possibly अर्थ; the left-hand limb of अ is not joined to the vertical stroke."
 
 [^2168]: "92 Restore निर्व्वतमं."
-
-
 
 **TRANSLATION.**
 
@@ -15031,7 +14093,6 @@ A. सिद्धम् म \[हा\] रा \[ज\] स्य र \[जा\] 
 B. शिष्यस्य गणिस्य आर्य्यख \[र्ण\] स्य[^2172]पुय्यम [\[न\]][^2173]-
 ---------------------------\[ख\] ----  
      \[व\] तकस्य[^2174]\[क\] - सकस्य[^2175]कुटुम्बिनीये दत्ताये---- नधर्म्मो[^2176]महाभोगताय     
-                                   
 
 [^2171]: "95The central stroke of शाis wanting."
 
@@ -15049,16 +14110,13 @@ B. शिष्यस्य गणिस्य आर्य्यख \[र्ण
 
 [^2177]: "1 This is the reading of the reverse; according to the obverse one might lead ......."
 
-
 **TRANSLATION.**
 
  Success! In the year 40 (60?) of the great king (and) supreme king of kings, Devaputra Huvashka[^2178],in the fourth month of winter, on the tenth day, on that (*date specified as*) above, (*this*) meritorious gift (was made) for the sake of great happiness by Datta, the wife of Ka . pasaka, an inhabitant of vata, fat the request\] of .......... *gaṇin*, the venerable Kharnṇa, pupil of the preacher, the venerable Vriddhahasti out of the Kottiya *gaṇa,* the Sthânikîya kula (and) the śákhá of the AryyaVeriyas (*the followers of Árya-Vajra*). May the divine (and) glorious Rishabha be pleased![^2179]
 
 [^2178]: "2. I do not correct this name, because I am doubtful whether the omission of the vowel i in the second syllable is due to a clerical mistake, or to the pronunciation. In the genitive, Huoashkasya, the stress falls on the third syllable, and the vowel of the immediately preceding one becomes very indistinct."
 
-
 [^2179]: "3 It would appear from this wish that the statue was one of the first Tirthamkara, Rishabha or Vrishabha."
-
 
 **No,IX.4**[^2180],-3 feet 5 inches by 2 feet 10 inches; found at the same place. In the plates of facsimiles No. xxxii is a duplicate, to a larger scale and from a different impression, of the second line of this inscription.")
 
@@ -15087,7 +14145,6 @@ B. शिष्यस्य गणिस्य आर्य्यख \[र्ण
 
 [^2187]: "11 The form Huviksha may be due either to a negligent mode of spelling or to a faulty pronunciation."
 
-
 **No. X.12**[^2188], 2 feet 7 inches by 2 feet 2 inches; from the same place.")
 
 [^2188]: "12 Incised on the pedestal of a small squatted Jina head lost
@@ -15115,8 +14172,6 @@ C. 1. तो आर्य्यहटिकियतो कुलतो
 D. 1. वजनगरित\[ो\] श\[\[\]ख\[\[\]त\[ी\] शि\[रि.\]यत\[ौ\]**
 
 [^2192]: "17 Restoreसिहं सं . A second figure seems to have stood after the plain म."
-
-
 
 A. 2. ––\[ग\]तो[^2194][\[द\] तिस्र][^2195]शिशिनिये  
 B. 2. महन \[न्दि\] स्व[^2196]संढचरिये  
@@ -15171,35 +14226,21 @@ C. 3. – \[लथंभ\]ो[^2201]दनं=–
 
  \[सं ८० ७१\] गृ१ दि \[२० १\] अ\[स्मि\] शुये उजेनागरस्यार्य्यकुमारनन्दिशिष्यस्य मित्रस्य
 
-
-
 **MATHURA INSCRIPTIONS S NO4-1 AND 2**
-
 
 ![](../books_images/U-IMG-1710241199EP-6.png)
 
-
-
 **MATHURA INSCRIPTIONS: No5. III & IV.**  
-
 
 ![](../books_images/U-IMG-1710241317EP-7.png)
 
-
-
 **MATHURA INSCRIPTIONS: Nos. V-VIII.**  
-
 
 ![](../books_images/U-IMG-1710241611EP-8.png)
 
-
-
 **MATHURA INSCRIPTIONS: Nos. IX-XI.**  
 
-
 ![](../books_images/U-IMG-1710241707EP-9.png)
-
-
 
 **TRANSLATION.**
 
@@ -15262,8 +14303,6 @@ B. 1. जेष्ठहस्ति\[स्य\] शि [\[ष्यो\]][^221
 
 [^2223]: "47 The second sign is very doubtful ; I suppose भगिनीवis meant."
 
-
-
 **TRANSLATION.**
 
  ......\[an image\] of the worshipful[^2224]Arhat Vadhamana, \[ the gift \] of ........... the daughter of Kala, the sister(?) of Sinavishu (Vishṇusheṇa?) ; the request of Śati (?) ..
@@ -15278,23 +14317,23 @@ B. 1. जेष्ठहस्ति\[स्य\] शि [\[ष्यो\]][^221
 
 [^2226]: " Read नमो अरहंतान."
 
-   2.– लहस्तिनीये तोरणं प्रति [\[ष्ठापि\]][^2228]
-
 [^2227]: " The last letter is blurred."
 
-   3. सह माता पितिह सह[^2229]
+   2.– लहस्तिनीये तोरणं प्रति [\[ष्ठापि\]][^2228]
 
 [^2228]: " Read प्रतिष्ठापित. Possibly more letters have been lost at the ends of lines 1 and 2."
 
-   4. सश्रू–[^2230]शशरेण[^2231]
+   3. सह माता पितिह सह[^2229]
 
 [^2229]: " Lines 4 and 5 stand between three figures of Toranas,"
 
+   4. सश्रू–[^2230]शशरेण[^2231]
+
 [^2230]: " Possibly the reading is , i. e .,"
 
-**TRANSLATION.**
-
 [^2231]: " I. e ., श्वशुरेण ."
+
+**TRANSLATION.**
 
  Adoration to the Arhats ! A Toraṇa has been erected by order of ... lahastint (Balahastiní), a lay-pupil of the ascetics, together with her parents, together with her mother-in-law (and) her father-in-law[^2232] and in other Buddhist documents.").
 
@@ -15331,8 +14370,6 @@ B. 1. जेष्ठहस्ति\[स्य\] शि [\[ष्यो\]][^221
 [^2236]: " I take sailâlaka as an equivalent of the Sanskrit Sauildlin ; see above, p. 381."
 
 [^2237]: " Regarding the meaning of agrapratyakatûye, i. e., agropratyaṁśutdye, see above, p. 241, note 21."
-
-
 
 **No. XIX.**[^2238]
 
@@ -15390,8 +14427,6 @@ Success ! In the year 22 ( ? ), in the second (month of ) summer, on the soventh
 
  Successedḷ In the year 54 (?), in the fourth, 4, month of winter, on tlhe day,– on the (*lunar day specified)* as above, one (*statue of* ) Sarasvati, the gift of the smith Gova, son of Siha, ( *made* ) at the instance of the preacher (*vâchaka*) Aryya-Deva, the
 
-
-
 *śraddhacharo* of the *gaṇin* Aryya-Mâghahasti, the pupil of the preacher Aryya–Hastahasti, from the Koṭṭiya *gaṇa*, the Sthâniya *kula*, the Vairâ *śákhá* and the Śrîgṛiha *saṁbhoga*,–has been set up for the welfare of all beings. In the avaiala my stage dancer(?).
 
 **No. XXII.**[^2245]
@@ -15442,31 +14477,20 @@ L. 1. [\[सिध\]][^2250]महरजस्य वासुदेवस्य
 
 [^2252]: "Incised on the middle portion of the base of a statue, 10 inches by 12 inches, found near the first temple."
 
-
 [^2253]: "77 Restore वर्षमासे and क्षुणे ."
-
 
 **MATHURA INSCRIPTIONS: Nos. XII-XVII.**  
 
-
 ![](../books_images/U-IMG-1710242773EP-10.png)
-
-
 
 **MATHURAINSCRIPTIONS: Nos. XVIII-XIX**  
 ![](../books_images/U-IMG-1710243539EP-13.png)
 
-
-
 **MATHURA INSCRIPTIONS: Nos. XX-XXVII.**  
 ![](../books_images/U-IMG-1710243460EP-12.png)
 
-
-
 **MATHURA INSCRIPTIONS: Nos. XXVIII-XXXII.**  
 ![](../books_images/U-IMG-1710243369EP-11.png)
-
-
 
 **TRANSLATION.**
 
@@ -15498,8 +14522,6 @@ L. 1. [\[सिध\]][^2250]महरजस्य वासुदेवस्य
 
  An image of Vadhamana (Tardhamána) has been set up .............. out of theThâniya (Sthaniya) ................
 
-
-
 **XLIV. — FURTHER JAINA INSCRIPTIONS FROM MATHURA.**
 
 **BY G. BÜHLER, PH.D., LL.D., C.I.E.**
@@ -15512,8 +14534,6 @@ L. 1. [\[सिध\]][^2250]महरजस्य वासुदेवस्य
 
  In addition to these interesting contributions to the history of the Jaina sect, some valuable historical information may be extracted from No. XXXIII, which records a gift
 
-
-
 by Kośiki Śi\[va\]mitra, \[*the wife*\] of Gotiputra, a black serpent for the Pothayas and Sakas. Both Gofiputra and Kośiki Sivamitrà were of noble or royal descent. That is indicated by their family.names. Kośikt, in Sanskrit Kausikí, means ‘she of the race of Kusika.'Kapsika is the nomen gentile of Visvamitra and of his descendants, the Visvamitras, who form one of the ancient Vedic gotras. Numerous instances in the northern and southern inscriptions show that the queens and princesses were frequently called by the Vedic gotra–names, such as the Gautami, the Vâtsî, the Vâkishthi, the Gârgi, etc. And the explanation is no doubt that these gotras originally were those of the Purohitas of the royal or noble families, from which the queens were descended, and that the kings were affiliated to them for religious reasons, as the Srautasútras indi- cate. It seems, therefore, impossible to explain the epithet Kosikî otherwise than by the assumption that Śivamitrâ was descended from a royal race, which had been affili- ated to the Kausikas. With respect to Gotiputra, in Sanskrit Gauptiputra, it may be pointed out that this name, which means the son of her of the Gaupta race, is borne by the second king of Sir A. Cunningham's inscription on the Torana of the Bharhut Stupa, where we read[^2258]Gotiputrasa Agarajusa puteņa, in Sanskrit Gauptíputrasya Angára–dyutaḥ putrena[^2259]. Though I am not prepared to identify the two Gotiputras, it is evident that the name was borne at least by one royal or princely personage. The epithet of our Gotiputra, ‘ a black serpent for the Pothayas and Sakas,' points also to his belonging to the warrior tribe. For, according to the analogy of other well-known epithets, such as vairimattebhasimha, it can only mean that he fought with the Pothayas and Sakas and proved to them as destructive as the black cobra is to mankind in general. The Sakas are sufficiently well known. The Pothayas[^2260]are the Proshthas, whom the Mahábhárata, VI, 9, 61, and the Fishnupurána (ed. Hall), vol. II, p. 179, name among the southern nations. In the latter passage they appear together with the Sakas and the Kokarakas. As both works include in their enumeration of the southern nations the Trigartas, who are known to be inhabitants of Northern India, the accuracy of their statements with respect to the seats of the Sakas and Proshṭhas may be doubted. But it remains interesting that the two names are placed closely together in the *Vishnupurāṇa*, and this juxtaposition is, as our inscription shows, not without foundation. The wars, to which it alludes, may have occurred either before the Skythians conquered Mathurâ, i.e. before the time of Kanishka, or when their domination had passed away. The letters of the inscriptions, which are particularly old-fashioned and may belong to the first century B. C., speak in favour of the first alternative. If the inscription was incised before the Skythian conquest, it also furnishes valuable testimony for the antiquity of the Jaina temple in which it was found.
 
 [^2258]: "1. See Indian Antiquary, vol. XIV, p. 138f."
@@ -15525,8 +14545,6 @@ by Kośiki Śi\[va\]mitra, \[*the wife*\] of Gotiputra, a black serpent for the 
  In the epithet Tevanika of the donor Namdighosha, mentioned in No. XXXV, we have probably a derivative from the name of a nation or country called Trivarna or Traivarṇa. I conclude this from the fact that one of the queens in the old Pabhosâ inscriptions is called Tevani, ' the Traivarna ' (*princess*).
 
  The new inscriptions finally furnish confirmation of some of the curious words and con structions noticed ante, pp. 373f. In No. XXXI, we have again the abnormal expression
-
-
 
 *kshuṇe*, which I take to be an equivalent of kahane. In some others, *e.g*.\*No. XXX, we find another indisputable instance of the use of the nominative in conjunction with genitives.
 
@@ -15584,8 +14602,6 @@ by Kośiki Śi\[va\]mitra, \[*the wife*\] of Gotiputra, a black serpent for the 
 
 [^2272]: "With the feminine सार्यवाहिनीcompare the similar सेनापतिनी fact “Mrs. General,” विहारस्वामिनी ‘ wife of a manager of a Vihara,’and so forth."
 
-
-
 **No. XXX.**[^2273] ; stone 1'10")
 
 [^2273]: "Sir A. Cunningham's Archeological Sureey Reports, vol. III, pl. xiv, No. 10. It is on the hase of & Jinn (figure lost
@@ -15635,9 +14651,9 @@ by Kośiki Śi\[va\]mitra, \[*the wife*\] of Gotiputra, a black serpent for the 
 
 [^2283]: "26 Read शिवमित्राये."
 
-**TRANSLATION.**
-
 [^2284]: "27 Restore प्रतिष्ठापितो."
+
+**TRANSLATION.**
 
  Adoration to the Arhat Vardhamâna ! A tablet of homage[^2285]. and is explained by the eonmentator as ynjanigudrratd, a deity to he worshipped, ic. an object of homage. The Petersburg Dict. s. o. explaing it by a present obtained by a sucrifice, ' quoting the corresponding passnges of Schlegel's edition. In the Ramayane either explanation will suit, but bere only the aymological one, There may, of we be a partienlar technical meaning, which for the present is not to be got at")was set up by Śivamitra (*of* ) the Kauśika (*family*), \[*wife*\] of Gotiputra ( *Gunptiputra*), a black serpent[^2286]for the Pothayas and Śakas.
 
@@ -15645,12 +14661,8 @@ by Kośiki Śi\[va\]mitra, \[*the wife*\] of Gotiputra, a black serpent for the 
 
 [^2286]: "Kâtorál › is certainly the Prakrit form of the Sanskrit kalavydla or more correctly kâlavyáļa, the ancient formu, which is found in inscriptions and survives in Southern MSS."
 
-
-
 **MATHURA INSCRIPTIONS: Nos. XXXIII-XXXV,**  
 ![](../books_images/U-IMG-1710321972EP-15.png)
-
-
 
 **No. XXXIV**[^2287]
 
@@ -15698,8 +14710,6 @@ This fragment was found lying in a tobacco field at the village of Darsi[^2295]i
 
 [^2297]: "3 Indian antiquary. Vol. V, p 51; and vol VIII, p. 168"
 
-
-
 same two grents, the description of the next king opens. This close agreement and the archaic alphabet of the fragment leave no doubt, that it belongs to one of those ancient Pallava kings, whose grants are dated from Palakkada[^2298] is untenable, as the latter name is an Anglo-Indian corruption of Palavêrkaḍu, the old forest of vél trees.'"), Daśanapura[^2299],and KAñchipura[^2300].This view is further confirmed by the first line of the plate, according to which the king's order was dated from the prosperous and victorious residence of Daśanapura.
 
 [^2298]: "Ibid vol. V, p. 52. Dr. Furnell's identification of Palakkada with the modern Pulicat (South-Indian Palæography, second edition, p. 36
@@ -15739,8 +14749,6 @@ same two grents, the description of the next king opens. This close agreement an
 [^2304]: "2 Asiatic Researches, vol. XX, p. 29."
 
  The Kanarese portion (lines 1 to 33) records, that Vira-Krishnaraya-maharaya gave two villages to the image of Lakshmî–Narasimhadêva, which he had caused to be consecrated in the village of Krishnapura by Arya Krishna Bhatta, who appears to have been his domestic priest. The date of the grant is :–"Friday, the 15th of the
-
-
 
 bright half of Vaisakha of Salivahana-Saka 1451 \[expired\], the Virôdhi-samvatsara " (lines 1 to 3) ; and again:–"the time of an eclipse of the moon on Friday, the 15th of the bright half of Vaisakha in the Virôdhi-samvatsara" (lines 22 and 23). Mr. Fleet informs me that the eclipse referred to occurred on Friday, the 23rd April, A.D. 1529[^2305], that is at 8 hours 24 minutes P.M. of 23rd April 1529, at Hampe, and was a large partial one.–J. B.] "). "As stated ante, page 362, hote 6, this is the latest known date of Krishnaraya. The two villages granted were Vanganuru in Henne-nâḍu, a division of Gutti-sime, and Belachinte in the simes of Uruvakonde. The two simes are evidently named after Gutti (Gooty) and 'Vuravakonda in the Gooty tâlluqa of the Anantapur district[^2306]. The fort of Gooty (Gutti-durga) bears on its summit three rock-inscriptions of the Western Châlukya king Vikramaditya VI. and one of king Bukka \of [Vijayanagara[^2307]\]. As Kanarese h corresponds to in the other Drâviḍian languages, the term Henne-nâḍu may be derived from Penna (*Vaḍa-Peņņai* in Tamil), the Telugu name of the river " Pennar," which appears in "Penner," Pennakoṇḍa, and other local names.
 
@@ -15785,8 +14793,6 @@ bright half of Vaisakha of Salivahana-Saka 1451 \[expired\], the Virôdhi-samvat
  8. दक्ष प्रति \[ ष्ठ \] य माडिशिद[^2314]श्रीलक्ष्मीनरसिंहदेवर
 
 [^2314]: "Read प्रतिष्ठेय माडिसिद."
-
-
 
 9. अमृतपडिगे[^2315]समर्पिशिद[^2316]\[गुं\] त्तिसोमियोकगण हे–  
 10. नेनाडयोलगण वंगनर ग्राम १ उ०७० वकों-  
@@ -15860,8 +14866,6 @@ bright half of Vaisakha of Salivahana-Saka 1451 \[expired\], the Virôdhi-samvat
 
 [^2334]: "32 Read धर्म."
 
-
-
 **KRISHNAPURA INSCRIPTION OF KRISHNARAYA.**
 
 **36. सेतुर्नराणां काले काले पालनीयो भवद्भि \[:\] \[।\*\] सर्वा  
@@ -15884,8 +14888,6 @@ bright half of Vaisakha of Salivahana-Saka 1451 \[expired\], the Virôdhi-samvat
 
    (L. 13.) “While we were firmly reigning on the throne of Vijayanagara, we gave,—at the auspicious time of an eclipse of the moon (somagrahana), on Friday, the 15th of the bright half (of the month) of Vaisakha in the Virôdhi-samvatsara, having given away gold and poured out water, with threefold repetition of the words (" Not Mine !")" and with a libation, for (providing) oblations (naivedya) to (the image of) the glorious lord of the whole world, the chief of the universe with its crores of minor worlds, the blessed Lakshmi-Narasimhadêva, the consecration of which we had graciously caused to be performed by Arya Krishna Bhatta at Krishnapura,-1 village (called) Vanganûru, which belonged to Henne-nâḍ u, a division of Gutti-sîme, (and) 1 village (called) Belachinte, which belonged to the aime of Uruvakonde. Therefore (ice issued this)
 
-
-
 religious edict (*which refers*) to the villages, which (*we*) gave as rent-free (*sarvamánya*), with threefold repetition of the words ("NotMine!") and with a libation, to last as long as the moon and the sun, endowed with all the taxes (*bali)*, all the produce (*utpatti*) and the right of the power over the eight kinds of possession[^2335],viz. buried treasures, deposits, water, stones, the akshiní, future additions (? *ágámin*), actuals (? *siddha*) and outstandings (? sádhya), which obtain within the four proper boundaries of these 2 villages, and (*with*) all rights (*svámya*), as tolls (*sunka*), the land-rent in money (*suvarṇádâya*) and the village-watchman's quit-rent.[^2336], a village-watchman.' Compare Ind. Ant. vol. XII, p. 165.")"
 
 [^2335]: "On ashṭabhoga-tệjaḥ-svâmya see Ind. Ant. vol. XIX, p. 244, and Mr. Rice's Mysore Inscriptions"
@@ -15902,8 +14904,6 @@ religious edict (*which refers*) to the villages, which (*we*) gave as rent-free
     (L. 41.) In the Saka (*year*) measured by fourteen and a half hundreds (i.e. 1450) (*which was*) the (*cyclic*) year Sarvadhârin, on Thursday, the lunar day of Madana in the bright half of the month called Chaitra, under the Aryamarksha," Krishnaraya, the renowned son of king Narasa, caused to be performed by Aryamarksha[^2337], Krishnaraya, the renowned son of king Narasa, caused to be performed by Arya Krishna,who had placed himself under his protection, the consecration (*of the image*) of Lakshmi and Narahari (i.e. Narasimha) at Kṛishṇâpuri.
 
 [^2337]: " I. e. the Uttara-Phalgunî-nakshatra."
-
-
 
 **THE COMPUTATION OF HINDU DATES IN INSCRIPTIONS, &c.**
 
@@ -15922,8 +14922,6 @@ religious edict (*which refers*) to the villages, which (*we*) gave as rent-free
   3. A close study of the subject proves that the several *Siddhántas* furnish the elements on which a date depends nearly correct (*i.e*. compared with the results of modern science) for the time of their composition. Some *Siddhantas* yield tolerably correct results for a long period extending over several centuries, while others diverge sooner from the truth. Now of course it is always uncertain which *Siddhanta* was followed by the unknown almanac-maker who furnished the date recorded in any historical document; but it may be presumed that he used the *karava* most in vogue, i.e. one which was not very old, and which therefore yielded correct results for the time being. These considerations have induced me to construct a General Table in which the value of the quantities necessary for the calculation of dates, viz. the relative position of sun and moon, and the moon's anomaly, are set down in accordance withmodern science.
 
  4. The General Table is to be first used; and only when by that table the end of the *tithi falls* very near the beginning of the day, and the week-day comes out in error by one day only, need the Special Tables for the several *Siddhantas* be tried to see if one of them will furnish the desired result.
-
-
 
 ***Hindu Chronology.***
 
@@ -15945,8 +14943,6 @@ religious edict (*which refers*) to the villages, which (*we*) gave as rent-free
 
 [^2342]: "Though the purnimânta or northern scheme is decidedly the older of the two, yet for practical reasons the lunar tables are primarily intended for the amânta scheme."
 
-
-
 night of Chaitra in the *amánta* scheme is the dark fortnight of Vaisakha in the *púrnimánta* scheme, and *vice versa.*
 
  10. The name of the lunar month is now invariably determined by the new-moon forming the true beginning of its bright fortnight. For the lunar month. takes the name of the solgąr monthin which that new-moon occurs, *e.g.* the new moon in the solar month of Chaitra always inaugurates the bright fortnight of the lunar monthChaitra[^2343]. If two new-moons occur within one solar month, there will be two lunar months of the same name: the proper one (*nija*) and the intercalated one (*adhika*[^2344]). In the south the intercalated month precedes the proper one; in the north it is inserted between the two *pakshas* of the proper month. Usually, however, the two homonymous*pakshas* are marked *prathama* and *dvitiya.* If po new-moon occurs in a solar month, there will of course be no lunar month of that name, and that mouth is considered expunged (*kshaya[^2345], its name is compounded with that of the following month."))*.
@@ -15964,8 +14960,6 @@ night of Chaitra in the *amánta* scheme is the dark fortnight of Vaisakha in th
 [^2346]: "For full-moon and new-moon form the end of the bright and dark fortnights respectively."
 
  13. It sometimes happens (on an average once in 631f *tithis*) that two *tithis* end in one civil day; in that case the *tithi* which falls within the civil day is considered as expunged (*kshaya*), and the day is named (or numbered) after the first tithi ending in it, the name (or number) of the second being omitted in the numbering of the civil days; *e.g.*if *tithi* 5 and 6 end in one day, that day is called the 5th, and the following day the 7th. On the contrary, if a *tithi* begins on one day, runs over the following, and ends on the next again, the day on which no*tithi*onds takes the same number as the preceding day, which is thus repeated (*adhika or dvitíya*); *e.g.* if the 4th *tithi* ends on one day, and the 5th on the day next but one, the three days are numbered respectively 4, *adhika or dvitiya*4, and 5.
-
-
 
  14. In connexion with civil réckoning it may be remarked here that the Hindus have adopted the planetary week current in Europe since about the 2nd century A.D. The Indian week-days are named in the same order as ours, *Ravivára, Somavára, Mangala or Bhaumavára, Budhavára,, Guruvára, Sukravára, Saniváru,* being our Sunday, Monday, &c. In documents, the week-day is frequently noted together with the lunar date, which enables us to verify the latter. The mean civil day is divided into 60 *għatikás*, of 60 *palas*each.The *ghatiká* is therefore = 24 minutes, and the *pala* = 24 seconds[^2347] is divided into 60 nadís, ench of 60 vinddis, each of 6 asus. The difference between civil and sidereal time may be neglected, whenever the time is sufficiently small, say less than 3 ghaṭikâs. This will always be the case in this paper. Correctly speaking, the Hindus employ true civil time, so that the ghatikas are not of invariable length. This difference, however, may safely be neglected in the operations with which we are concerned.").
 
@@ -16006,17 +15000,13 @@ II. Dates in the seven months from Chaitra to Âsvina–
 
 (b) dates in dark fortnights; six possible cases: the same three years according to both the *purumánta* and *amanta* schemes.
 
-
-
 ***The Tables: the Julian 'Calendar.***
 
  19. The tables are based, as far as possible, on the Hindu solar calendar; but for simplicity a solar calendar is employed in them in which the dates may differ by one day from the Hindu solar dates. As the Hindus scarcely ever used the solar calendar by itself, this difference is of no practical moment; in the sequel, however, will be shown how the true solar date may be elicited from the tables. It is only necessary here to show how a date in the tables may be converted into the corresponding Christian date, old style. For this purpose the subjoined tables may be used.
 
 **PART I.— CURRENT CENTURIES OF THE KALIYUGA.**  
 
-
 [TABLE]
-
 
 Part**II. — ODD YEARS OF THE CENTUARY K.Y.**
 
@@ -16037,8 +15027,6 @@ PART**III. — FOR HINDU MONTHS.**
 
 *    Example 3*: 4584 K.Y., 13th Kârttika.  
 12 + 1 + 17th September +13= 43rd September, i.e. 18th October A.D. 1488, O.S.
-
-
 
  21. To *find the date* *corresponding* to a *given Julian* date:*Ex*. 1: A.D. 889, 18th August. Convert the year A.D. into the corresponding year K.Y. by adding 3101. (Take care, however, to select the year K.Y, in which the Julian date actually falls); 889 + 3101 = 39140 K.Y. Take the equation of the corresponding year K.Y. *viz*. 7. Add it to a date in Part III, so that the sum, or resulting date, is still less or earlier than the given Julian datė: 17th July + 7 = 24th July = 0 Bhâdrap. and if July 24th = 0Bhâdrap. the 18th Aug. (25 days later) must be 25th Bhâdrapada, 3940 K.Y.
 
@@ -16061,7 +15049,6 @@ months approximately; and Table IV, the *ghaṭikás* of a whole day.
 
  The quantities contained in the columns in the different tables must be summed up,*e.g.*, with the date 4682 K.Y. 18th solar Vaisakha, we proceed as follows:–                         
 
-
 |           |            |                 |       |       |     |
 |-----------|------------|-----------------|-------|-------|-----|
 | By Table | I          | 4600            | \(0\) | 17-60 | 15  |
@@ -16072,8 +15059,6 @@ months approximately; and Table IV, the *ghaṭikás* of a whole day.
  The week-days are counted from Sunday=1 (Saturday being 7 or 0 ) Therrefore, if the Feria is greater than 7 (or 14), retrench 7 (or 14); the remainder indicates the week-day. In this case it is the 6th, or Friday.
 
   24. The *tithis* are counted from 0 to 30, the order of the numbers being that of the*amânta* scheme; 0 to 15 are the *tithis* of the bright fortnight, 15 to 30 (or 0) those of the dark fortnight. Therefore, if the sum of the *tithis* is greater than 30 (or 60), retrench 30 (or 60). In this case we have 3995–30 = 9.95. This is the sum of the complete *tithis* elapsed and the decimal fraction of the current *tithi,* at the moment to which the tables refer, *viz*. the beginning of the day of Hindu astronomers, *i.e.* mean sunrise at Lańk (supposed to be situated on the Equator under the prime meridian). *Tithi* 9.95, therefore, means that 9 complete *tithis* and 0.95 of the tenth *tithi* of the bright fortnight have elapsed at mean sunrise at Lankâ. If the *tithi* (or remainder)
-
-
 
 is above 15, retrench 15; the remainder indicates the complete tithi of the dark fort-night, *e.g.* 17·60 denotes that 2.60 lithi of the dark fortnight have elapsed.
 
@@ -16091,12 +15076,9 @@ is above 15, retrench 15; the remainder indicates the complete tithi of the dark
 
 [TABLE]
 
-
  To find the day of new-moon preceding or succeeding the day under consideration": subtract the *tithi* found, *viz.* 25-92 from the tithi of 22nd Pausha, viz. 29.38=3·46; on the day whose *tithi* is equal to or near this remainder of 3.46, new-moon occurred. The next preceding new-moon fell on the 26th Mârgaśira; the next following new-moon on the 27th Pausha. Therefore the lunar date corresponding to 4327 K. Y. 22nd Pausha is, in the aménta scheme, Mârgasira *badi* 11, Gurau or Thursday; in the *Púrņimânta*scheme-Pausha *badi* 11, Gurau or Thursday.
 
  25. But the problem which the historian is called upon to solvę, is the converse of this: *viz,* the *tithi* being given, to find the day on which it ended, or more correctly, the*tithi* and the week-day being given, to find whether they really went together or not in a given year. The majority of dates in all kinds of documents give rise to this question when we have to test their genuineness, or to elicit circumstantial or other general information. The problem must be solved indirectly, *i.e.*, we ascertain approximately the day on which the given *tithi* was likely to end, and then calculate, in the way stated above, the*tithi* that really ends on that day; and the solution of this problem may be so managed that the first approximation leads at once to a definite result. The method will be best explained by an example.
-
-
 
  The date 8585 K. Y., Âshâḍhæ-*sudi* 12, Thursday, being given,–we calculate first,the Feria, *tithi*, and C's anomaly for the beginning of the given year, *viz.* 3585, K. Y.
 
@@ -16110,10 +15092,8 @@ is above 15, retrench 15; the remainder indicates the complete tithi of the dark
  We next ascertain the new-moon in solar Âshâḍha, as by it the lunar month Âshâḍha is determined. New-moon being equal to *tithi* 30·00, we find (by subtracting the *tithi*for the beginning of the given year, *viz.* 6.48 from 30) that 23.52 *tithis* have to elapse before the next new-moon. Therefore all days in Table III, whose *tithi* is 23.52 or the next lower figure, are approximately new-moon days in 3585 K. Y. Call ' Index of new-moon,' the difference between the tithi for the beginning of the given year and 30, and 'Index of the *tithi*,' the sum of the index of new-moon and the number of the*tithi* given in the date to be verified. In this example the *Index* of new-moon is 23·52, and the Index of the *tithi* is 23-52 +12 = 35-52 or 5.52.
 
   We now look out in Table III, in the column of the given month, for the day whose*tithi* is nearest to, 'but smaller than, the Index of new-moon. In this case we find that this occurred on the 24th Ashâḍha. We then select the day whose *tithi* is nearest tosmaller than, the Index of the *tithi*. If the date belongs to the bright fortnight, or if it is a date in the *amánta* scheme, the day selected must be the nearest day pointed out by the index of the *tithi,* which comes *after* new-moon; but if the date belongs to the dark fortnight of the *púrnimánta* scheme, the day is to be sought before the new-moon day. The date in the present case belonging to the bright fortnight we look out the index of the *tithi*, 5.52, after the 24th Âshâdha (the day of new-moon); and the *tithi* of the 2nd Sravana being 4.70, we select it, and add the corresponding elements to those calculated for the beginning of K. Y. 3585, thus :—  
-       
 
 [TABLE]
-
 
  Accordingly, at the beginning of the day, the 12th tithi was current, 0.80 tithi being wanting to complete the 12tk. Table IV shows that 0.80 tithi is equal to about 47*ghatikás*. Therefore the 12th *tithi* ended on the day in question, about 47 '*ghaţikás* after mean sunrise at Lańkâ; that day was a Thursday as the corresponding Feria is (5). It follows that the date-3858 K. Y. Ashâdha-*sudi* 12, Thursday, is correct, or that in 3858 K. Y. Ashadha-*sudi* 12 fell on a Thursday. The above operations may be expressed in the following-
 
@@ -16124,8 +15104,6 @@ is above 15, retrench 15; the remainder indicates the complete tithi of the dark
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Though this notation of the solar day is artificial, still it should always be recorded in the calculation; for it will be of use in rome cases, as will be seen in the sequel.
-
-
 
  (2) Subtract from 80 the *tithi* for the beginning of the given year. The remainder is the Index of new-moon. Add to it (*i.e.* to its complète *tithis*) the number of the *tithi*given in the date; the sum is the *Index* of the *tithi.* It should however be remarked that, if the *tithi* belongs to the dark fortnight, 15 must be added to the above sum to find the Index of the *tithi,* both for the *amánta* and *púrnimánta* schemes.
 
@@ -16166,8 +15144,6 @@ Though this notation of the solar day is artificial, still it should always be r
 |                   | **(7)**  | **15.19** |            |                          |
 
 The 15th *tithi* having ended on the preceding day, which was a Friday (6), the date is correct.
-
-
 
   Ex. 4. Samvat 1154, Chaitra-sudi %, Ravau (sonthern year), Samvat 1154=4198 K.V. Chaitra belonging to the corresponding solar year, K.Y. 4198, we use the second Chaitra of Table III (see § 16). 
 
@@ -16217,13 +15193,9 @@ Thus the 20th *tithi*, or 5th *tithi* of the dark fortnight, ended on Thursday a
 
  29. *To find the beginning of a solar month.* —Whenever new-moon occurs on one of the three first days of a solar month, *viz.* on one of the three days marked 0, 1, 2, in the
 
-
-
 tables, it becomes doubtful whether the new-moon belongs to the current or to the preceding solar month. For the true beginning of each solar month*, i.e.* the instant of the *samkránt*i, or entrance of the sun into the zodiacal şign, usually falls near the beginning of the second day of the solar month of the tables, *i.e,* on one of the two days marked0 and 1; it may however also fall on the day marked 2, and still more rarely on the last day of the preceding month. It will therefore, in these cases, be necessary to ascertain the precise beginning of the solar month.For this purpose the column headed "Solar Cor." in Tables I and II, and a similar element placed under the names of the solar months in Table III, is used. The figures entered in this column of Tables I and II denote, in *ghaṭikás* and *palas;* the time by which the beginning of the mean solar year (according to the different authorities named in Table I) precedes (–), or follows (+), mean sunrise at Lankâ (*i.e*. the beginning of the day throughout these tables) of the 3rd Vaisakha of Table III. *E.g-*According to the *Arya Siddhánta* the "Solar Cor." for 4000 K. Y. is-16 *gh*. 40p,; for 30 years-14*gh*. 23*p*.; for K. Y. 4030, therefore,– 16*gh.* 40*p*–14 *gh*. 23p*. or–31gh. 3p.; for 36 years + 18gh.45p for K.Y. 4036=–16gh. 40p +18gh. 45p=2gh.5p 45p*., for K. Y. 4036 denote that the mean solar year according to the *Arya Siddhanta began in 4000*K. Y. 16gh. 40p. before mean sunrise at Laňkâ; in 4030 K. Y. 31*gh.* 3*p*. before; and in 4036 K. Y. 2*gh*. 5*p*. after mean sunrise at Lankâ of the 3rd Vaisakha of the tables. In Table III the Solar Cor.' placed below the names of the several months, as the correction of the month, shows by how much the true beginning of the month is separated from the mean sunrise of the second day of the same month (marked 1 in Table III), the beginning of the mean solar year being supposed to coincide with the beginning of the 3rd of Vaiśâkha. In all other cases the 'Solar Cor.' for the year must be combined with the 'Cor.' of the month, in order to find the true beginning of the latter, *e.g.,* 4030 K.Y.= — 31*gh.* 3*p*.; Âśvina = + 17gh. 51p.: the sum, 13*gh*— 12*p*. indicates that Âśvina in 4030 K. Y. began 13gh. 12p. before the 1st Âśvina in Table III. As however the beginning of the solar year, and consequently that of the solar months, varies with the different authorities, four columns are given under Corrections for Solar dates in Table I, headed by the name of the *Siddhántas* from which the elements are derived. The 'Cor.' in Table II strictly applies only to the *Arya Siddhánta*, and for other *Siddhantas*it requires a small correction; this however may be neglected in calculations with the General Tables, as the exact calculation can only be made with the Special Tables. In using the *Brahma Siddhânta*, we must use the day 0 of Table III, in place of the day 1, as according to that *Siddhanta* the beginning of the solar year precedes by about one day the beginning of the solar year employed by the other *Siddhantas.*
 
  The "Cor." for the months differs also with the different authorities. It is given according to the *Árya [Siddhánta](#)*" and to the *Sûrya Siddhánta*, which yield the greatest and the smallest amounts. As the General Tables give only approximate results, *i.e.*results correct only to within one or two *ghatiká*s, it would be needless to strive after greater accuracy in the ascertainment of the beginning of the solar months.
-
-
 
  As the beginning of a solar month is the moment of the *samkránti,* the rules givenabove serve at the same time for calculating the *samkrántis*
 
@@ -16239,7 +15211,6 @@ tables, it becomes doubtful whether the new-moon belongs to the current or to th
 | **3800 K.Y.** | **(1)** | **15.17** |  **348**   | **Ind• = 8.37** |
 |  **44 Years**  | **(6)** | **6.46**  |  **243**   |                 |
 | **3844 K.Y.**  | **(7)** | **21.63** |  **591**   |                 |
-
 
  The index of new-moon points to the first Pausha and to the first Mâgha, both these days belonging to the doubtful days; hence it is uncertain whether the first new-moon belongs to Mârgasira or Pausha, and whether the second belongs to Pausha or Mâgha. We therefore determine first the true beginning of the solar months Pausha and Mâgha. Cor. for 3800 is —Ogh. 50p., for 44 years +22gh. 55p.; consequently for 3814 K Y. it is + 22gh. 5p. Add 'Cor.' for Pausha (+9gh. 44p.) = +31gh. 49p., and for Magha (+ 30gh. 37p.) = + 52gh. 42p. We then add to the result for 3844. K. Y. the *tithi* and C's an. for 1 Pausha and 1 Mâgha, and the increase of *tithi* and C 's an. for the calculated Cor. of Pausha and Mâgha.
 
@@ -16263,14 +15234,11 @@ tables, it becomes doubtful whether the new-moon belongs to the current or to th
 |   **C's an. 581, eq.       .**   | **0.34**  |        |
 |                                         | **0.34**  |        |
 
-
  The true *tithi* for the beginning of both months shows that, in both cases, new-moon had passed consequently the first new-moon belonged to Mârgasira and the second to Pausha.
 
  31. *Intercalary and expunged months*.— If in the above example the first new-moonhad occurred after, and not *before* the beginning of Pausha, there would have been two new-moons in the same solar month, and consequently there would have been an intercalation of Pausha. If on the contrary the second new-moon had occurred *after* the beginning of Mâgha while the first occurred *before* that of Pausha, there would have been no new-moon in Pausha, and consequently lunar Pausha would have been expunged.The preceding remarks lead us to the following rules :—
 
  (1) If at the beginning, as well as at the end, of a solar month, the moon is either waxing or waning: or, in other words, if both the current *tithis* belong either to the bright or to the dark fortnight, there is an ordinary and no intercalary or expunged month.
-
-
 
  (2) If the moon is waning at the beginning, but waxing at the end of a solar month there is an intercalary month.
 
@@ -16370,8 +15338,6 @@ tables, it becomes doubtful whether the new-moon belongs to the current or to th
 | **An. 858, eq** |    **0.09**    |        |
 |                | **0.40, Moon** |        |
 
-
-
  Accordingly, there was en intercalation of Bhadrapada. We calculate the *tithi*:-
 
 |                  |         |           |         |                      |
@@ -16413,7 +15379,6 @@ tables, it becomes doubtful whether the new-moon belongs to the current or to th
 | **an. 509, eq=0.30** |        **0.30**        |        |        |        |        |       |
 |                     | **29.86, Moon Waning** |        |        |        |        |       |
 
-
 The calculation shows that no new-moon occurred in solar Pausha: accordingly Paushawas expunged in the Lunar calendar of 4012 K. Y.
 
     The following general rules will be found useful :-  
@@ -16421,7 +15386,6 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
  (2) There can never be an intercalary Pausha, and the intercalation of the months Mârgasira and Phâlguna is possible only under favourable circumstances, depending the moon's anomaly.
 
  33. It may sometimes be desired to know in which years of a given century a certain month was intercalary. This may best be explained by an example. If it be required in which years of the 40th century of the Kaliyuga, Sravana was intercalary: we add the elements of the 40th century to those of the 1 Śrâvaṇa and 1 Bhadrapada, and calculate them for the beginning of those months in 4000 K. Y., viz.—  
-
 
 |               |           |            |         |        |
 |:-------------:|:---------:|:----------:|:-------:|:------:|
@@ -16440,8 +15404,6 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 |              | **14.24** |  **421**   | **-0**  | **59** |
 | **-1 gh**     | **-0.02** |   **1**    |        |       |
 |              | **14.22** |  **420**   |        |       |
-
-
 
  Now it is evident that, as 18·17 + 17·88 = 30, and 14.22 + 15·78 = 30, those years in Table II whoße *tithi*. is larger than 15.78, but smaller than 17.83, may have had an intercalary Śrâvana; for such a *tithi* added to that for the beginning of Śrâvaņa of 4000 K. Y., *viz*. 12·17, will give less than 30, indicating wane of the moon, and added to the *tithi* for the beginning of Bhadrapada, *viz.* 14.22, give more than 30 or indicate, waxing moon as required for an intercalary month. Running the eye over Table II, we select the years whose *tithi* is between 15.78 and 17·83, *viz* 7, 15, 84, 53, 64, 72, 91.
 
@@ -16467,7 +15429,6 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 
 * 1st.* The calculation according to the *Súrya Siddhánta—*  
 
-
 |                    |                        |         |         |        |
 |:------------------:|:----------------------:|:-------:|:-------:|:------:|
 |                   |       **Tithi**        | **An**  | **gh**  | **p**  |
@@ -16492,10 +15453,7 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 | **an. 848, eq. =** |       **0.08**        |        |        |       |
 |                   | **0.08, Moon Waning** |        |        |       |
 
-
  16 The two factors which influence the preliminary result are *Cor.* of the year and C's an. The former may even extend the limits under certain circumstances: if Cor. of the odd year is,— the limit for the beginning of the month may become extended, if +, that for the end of the month; but never by more than 0.60.
-
-
 
  Now compute Asvina and Karttika according to the Arya Siddhánta.
 
@@ -16512,7 +15470,6 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 | **An.844, eq =** |        **0.08**        |        |        |       |
 |                 | **29.94, Moon Waning** |        |        |       |
 
-
  The calculation proves that in Samvat 1467, Bhâdrapada was intercalary according to the *Surya Siddhánta,* and Âśvina according to the *Árya Siddhánta.* However, to decide such cases beyond doubt, the *tithi* should be calculated by means of the Special Tables for the *Siddhánta* in question.
 
 [TABLE]
@@ -16525,7 +15482,6 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 
 * Ex.1*—The Khera plate of Dharasena IV mentions an intercalary Mârgasira. It has been proposed by Dr. Schram" that this was a mean intercalation which occurred in 3749 K.Y. Let us calculate the mean *tithi* for the beginning of mean Mârgasira according to the above rules.  
 
-
 |                |               |           |         |        |
 |:--------------:|:-------------:|:---------:|:-------:|:------:|
 |               |              | **tithi** | **gh**  | **p**  |
@@ -16535,9 +15491,6 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 |               |              | **28.73** | **-12** | **24** |
 | **"   IV** |   **-12gh**   | **-0.20** |        |       |
 |               |              | **28.53** |        |       |
-
-
-
 
     As the *tithi*, 28-53, does not come within the limits prescribed above for a mean intercalation (*viz*. 29-08-30), Margasira could not have been intercalary.
 
@@ -16583,9 +15536,6 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 
     From the above scheme of *Karaṇas* we make out Bàlava No. 10 to have been the second half of sudi 5. By 'table IV we find that the difference between the *tithi* for the beginning of the day 4:36 and that for the beginning of Bâlava 4.50, *viz.* 0.14, is equal to about 8 *ghatikas.* The time intended by Bâlava therefore was 28th Mârgasira 8 to 37 *gh.*
 
-
-
-
 ***                  Place of the Mood.***
 
 ***   ***37.*Moon's Nakshaira and Rási*— Dates are frequently coupled with the name of the *Nakshatra* or *asterism* in which the moon was at the time of the date; occasionally the rási or zodiacal signalso is, mentioned. Table IX shows which part of the Hindu ecliptic is 'attributed to each *Nakshatra*, and Table Y that of the single zodiacal signs, e. g. Table IX shows that the *Nakshatra* Viśâkhâ denotes 200°-213; 20' .of sidercal [longitude](#)," and Table V that the sign Kumbha extends from 300° to 330° sidereal longitude. If we know the longitude of the moon, we can tell at once in which *Nakshatra* and zodiacal sign she stood. It will, therefore, be necessary to calculate the moon's longitude. Now the longitude of the moon=longitude of the sun + distance of sun and moon,, The latter element is furnished by the *tithi*; for, as one*tithi* is equal to the time required by sun and moon to increase their distance by 12º we need only multiply the *tithi* for a given moment by 12, to find the distance of the sun and moon in degrees. We found above that, at the beginning of the 28th Mârgaśira 4319 K.Y. the true *tithi*was 4.36; it follows that the distance of sun and moon is 12×4·36=52°32 or 52° 19.′
@@ -16613,10 +15563,6 @@ the next *Nakshatra* in between 15 and 16 *ghatikás*, the difference 293° 20'-
 
 ***  ***38. A Yoga is the period, of variable length, in which the joint motion in longitudeof the sun and the moon amounts to 13° 20, being the extent of a lunar mansion. There  
 
-
-
-
-
 are therefore as many *Yogas* as these are lugar mansions, *viz*.. 27. Their names and the portions of each are giverf in Table IX, together with those of the *Nakshatras*.  
  Inorder to find the *Yoga* current at a given moment, add the longitudes of the sun and moon, and interpret the sum from Table IX.  
 Ex—For the beginning of the day, whose *Nakshatra* we have calculated above, 4319 K.Y. Margaśira-sudi 5, we have found :—
@@ -16630,7 +15576,6 @@ Accordingly degrees of yoga
  Vikrama 1531 (K.Y. 4575), Kârttika-sudi 9, Budhavâsare, Dhanishthâ-nakshatre Vṛiddhi-yoge, Kaulava karaṇe, Kumbha-râsi-sthite chandre.  
  Calculate first the lithi and weekday—
 
-       
 ![](../books_images/U-IMG-1698657709Screenshot2023-10-30145129.png)  
 
  Accordingly, on Wednesday (4), at mean sunrise, the 9th tithi was current; it ended about 33 *ghaṭikás* (the equivalent of 0.56, see Table IV) later. At the same moment ended the *karaṇa* Kaulava, No. 18, being the second-half of the ninth *tithi*.  
@@ -16642,8 +15587,6 @@ Accordingly degrees of yoga
 ***The place of the Sun.***
 
  39. To find for any particular day the sun's place in the ecliptic-either in zodiacal sign or in lunar mansion, we need only use the sun's longitude for the given day (in Table VIII) for the Index of Tables V and IX, and in the same way as we have used the
-
-
 
 longitude of the moonfor finding the *Nakshatra* and *Rási*. The *Nakshatras* divide the course of the sun into 27 equal parts which determine fixed periods of the year. These periods are commonly used for regulating agricultural labours; but I do not know whether they are mentioned in the dates of documents. The particulars most frequently mentioned in dates are the *Samkrántis*. As a *Samkránti* is the moment of the true beginning of a solar month, this element can be derived from the tables.  
  In connection with those *Saṁkrántis*, however, which determine the Uttarayaṇa and Dakshiṇâyana, it will be necessary to remark respecting the precession of the equinoxes (Kfántipátagati), that as stated above, the Hindus measured all longitudes on the fixed ecliptic, taking for its initial point the vernal equinox, as it was in 3600K.Y.[^2353] At that time the sidereal (*ntrayana*) signs coincided with the tropical (*sáyana*) signs, but afterwards they differed from each other by the amount of the precession (ayanâṁśa). This amount, in degrees, is found by multiplying the difference between the given year K.Y. and 3600[^2354]by ![](../books_images/U-IMG-1698658576Screenshot2023-10-30150601.png), and dividing by 200; *e.g*. in 4572 K.Y. the*ayanáṁśa* amounted to![](../books_images/U-IMG-1698658726Screenshot2023-10-30150800.png) =14°58 or 14° 34'8. By so much the beginning of every tropical (sáyana) sign preçedes that of the sidoreal sign. Hence to find a tropical (sáyana) Samkranti, we must subtract the ayanáméa of the given year from the number of degrees supplied by Table V for the beginning of the fixed (sidereal or nirayana) signs. Thus the beginning of the tropical sign Kanya in K.Y. 4572 will be at 150°-14° 35'=135° 25′ of longitude. Table VIII shews that the sun was at that point about the 17th Bhâdrapada. By means of Tables I-III, we find the day to have been a Friday, Bhâdrapada *sudi* 2, and we compute as follows:—   
@@ -16663,8 +15606,6 @@ We must, however, as explained above, § 37, add as many minutes to the longitud
 
 [^2355]: "Denkschriften der Kaiserlichen Akademie der Wissenschaften, math. natur. Qlasse, Wien, fol. LII."
 
-
-
 eclipses mentioned in inscriptions are not always actually observed eclipses, but calculated ones. My reasons for this opinion are the following:—Firstly, eclipses are auspicious moments, when donations, such as are usually recorded in inscriptions, are particularly meritorious. They were therefore probably selected for such occasions, and must accordingly have been calculated beforehand. No doubt they were entered in the*paṅchâṅgas* or almanacs in former times as they are now[^2356]. Secondly, even larger eclipses of the sun, up to seven digits, pass unobserved by common people, and smaller ones are only visible under favourable circumstances. Thirdly, the Hindus place implicit trust in their Sastras, and would not think it necessary to test their calculations by actual observation. The writers of inscriptions would therefore mention an eclipse if they found one predicted in their almanacs.  
  For determining the occurrence of eclipses the columns showing the sun's distance from the moon's nodes in Tables VI, VII, VIII, serve The quantities are given in thousandth parts of the semicircle. In Table VI,this quantity is given from modern European tables and also according to the *Arya, Súrya*, and *Brahma Siddhántas*, and the *Siddhanta S*iromaṇi.²⁸In the remaining tables the difference between the various authorities is so small that it is neglected.  
  According to Hindu science—
@@ -16682,8 +15623,6 @@ eclipses mentioned in inscriptions are not always actually observed eclipses, bu
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **²⁸**The limits of a solar edipso are approximate only. Thay determine eclipses that might be visible at some point of the whole earth. The Hindu method of calculating solar eclipses is cumbrous, and the results cannot be given in a convenient tabular form. It is different with lunar eclipses. In the middle of solar Âshâḍha a lunar eclipse occurs, as calculated by the Súrya Siddhânta, when at full-moon the anomaly is 500 and 0 and distance from node 75 or 925, or anomaly 0 and distance of node 62 or 938; in the middle of solar Pausha, when at full-moon the anomaly is 500 and distance from node 74 or 926, or anomaly 0 and distance from node 58 or 942. It will be seen that the limit is influenced more by the value of the anomaly than by the time of the year. Details need not be entered upon here; these remarks will serve for most cases.
-
-
 
  The *titht* 15-01, shows that on the day calculafed, a Sunday, full-moon occurred before mean sunset at LAṅka (about 1/2gh. earlier, sce Table IV) and as 'node '=5 is within the limits of certain eclipse, there was therefore a lunar eclipse visible 'in India. The date is 17th January,930 A.D. On that day, according to von Oppolzer's *Canon*, the middle of a dunar eclipse occurred at 13 hours 8 minutes after mean midnight at **Greenwich**[^2357]or 12 hours 12 minutes after mean sunrise 'at Laṅkâ. Our tables make the middle of the eclipse fall about half an hour earlier than the true time.  
  *Ex.—*Was there a solar eclipse in 4730 KY. Jyaishṭha ?  
@@ -16706,8 +15645,6 @@ Calculate first Jyaishṭha badi 15[^2358]:—
 
 [^2359]: "These five minor cycles, contained in one whole cycle, are named (after the five years of the Vedic yuga
 
-
-
  The columns headed 'Jupiter's Samvat.' in Tables VI, VII, VIII, furhish the means of ascertaining the Jovian year for any given epoch. The numbers in them must be summed up for the parts into which the given, date is divided, *e.g*., we find for 3542 K.Y., 18th Kârttika :—
 
 ![](../books_images/U-IMG-1698860514Screenshot2023-11-01231139.png)
@@ -16721,8 +15658,6 @@ Calculate first Jyaishṭha badi 15[^2358]:—
  The tables yield the result correctly within about 2 *ghaṭikás*, which in most cases is an accuracy not needed. If, however, for special cases, still greater accuracy should be required, it can be found with a high degree of exactness for the commencement of the solar year, by the help of the above rules, for the various *Siddhântas*. But it must be calculated for the day of the year by multiplying the *ahargana*, or number of the day of the year, by 0.00276988 for *Sûrya Siddh*.; by 0·00276982 for the same *Siddhânta*with*bíja*; by 0·00276991 for the Árya *Siddhânta*:–the product is the ‘Jupiter Sam.’for the beginning of the day under consideration. The fractions here given are the increase of the element in one solar day (60 *ghaṭikás* or 24 hours). From these data the increase for any interval in *ghatikás* or hours can easily be found.
 
 [^2360]: "If they are larger than 60, subtract 60. The value of 'Jupiter' in Tables VI and VII, it must be noted, refer to the beginning of the mean solar year."
-
-
 
  *Ex*.–To and the cyclic year surrent at the beginning of 4210 K. Y., and on what day that year ended. From Tables VI and VII, and Tables I and II, we have—
 
@@ -16743,8 +15678,6 @@ Multiplying the figures of the differences by 2 1/6, the result is the differenc
  45. The beginning of a cyclic year according to the Árya *Siddhânta* falls about three days earlier than if the same moment is calculated by the rule of Varâha Mihira (*Bṛihat Saṁhitá*, VIII, 20, 21) or the *Jyotistattva*. To find the time intervening between the beginning of the mean solar year and the beginning of the cyclic year according to these authorities we compute thus: Multiply the Śaka year by 44, add to the product 8589, according to Váráha Mihira, or 8582 according to *Jyotistattva*; neglect the quotient, and multiply the remainder by 365 days 15 *ghaṭikás* 31 *vinâḍis*[^2361],the product divided by 3750 shows the interval in days supposed to have elapsed since the beginning of the cyclic year, current at the beginning of the solar year, up to the latter moment. If it is proposed to find the end of Jupiter's year current at the beginning of a given Śaka year, we must compute, not for the given year, but for the next following one, and find the part of the Jovian year elapsed up to the calculated moment. The result subtracted from 365 days 15½għuṭikás shows the interval elapsed from the beginning of the given Śaka year up to the end of the Jovian year which was current at its
 
 [^2361]: "This part of the rule, which is wanting in Varsha Mihira, is absurd. The remainder should be multiplied by 381 days 1 gh. 21 p. The Kshepa too does not correspond with the results of the Arya Siddhanta, on which the rule is based; it ought to be 8626 instead of 8589 or 8582."
-
-
 
 beginning[^2362], vol. XVIII, pp. 193f, and 380ff., and in the Abhandlungen der Königl. Gesellschaft der Wissenschaften zu Göttingen, 1889, supply an easy method of computation.").If a few days do not influence the general result, as is usual, the tables here given may be used, applying the correction prescribed for the *Árya Siddhânta*.
 
@@ -16771,8 +15704,6 @@ beginning[^2362], vol. XVIII, pp. 193f, and 380ff., and in the Abhandlungen der 
 
  *Ex.*—Calculate 'Jupiter's Sam.' for the beginning of the year; e.g. 3576 K. Y., 0.95 + 16-8892= 17.8392. For the Sûrya Siddhânta without *bija* add ![](../books_images/U-IMG-1698940377Screenshot2023-11-02212240.png)= 0.0795, making 17.9187, or rejecting the 3rd and 4th decimals-17.92. Subtract 12 or multiples of 12 from the integers, and there results 5.92. Multiply thisby 0.083, add the product, 0.49, to the 'Jupiter Sam.'found above: 5.92 +049 = 6.41. With the sum apply to Table XII and add to or subtract from it (as directed in the table) the
 
-
-
 equation; thus 6.41 -0.05, 6.36 Convert the last result into degrees by multiplying it by 30; 6.36 × 30=190°8 or 190°48'. This is approximately the longitude of Jupiter at his conjunction with the sun. Add 1°; the result will be approximately the apparent longitude of Jupiter at.his heliacal rising. Looking out this longitude of Jupiter in Tables IX and X, we find in which *Nakshatra* the planet stood, and consequently what was the name of the Jovian year which then commenced. In this case we find MahâVaiśâkha according to the *Brahma Siddhânta*, and Mahâ-Chaitra according to the other systems. But this is only an approximation.
 
  49. The second part of the problem is to find the date of the heliacal rising of Jupiter. At the same time we can correct the longitude of Jupiter. Select in Table VIII the day on which the longitude of the sun is equal to that found for Jupiter at his conjunction, and calculate 'Jupiter Sam.' for that day, correct it by the equation, and convert it into degrees as above. The longitude of the sun is 191° 14' on the 12th K*â*rttika; 'Jupiter' for that day is, 0.5429, which added to the value for beginning of 3576 K.Y.: 5.9187 makes 6.4616 or 6.46; subtract equation 0.05, and we have 6·41, or in degrees 192°3 or 192° 18′. If the resulting longitude of Jupiter is smaller than the longitude of the sun calculated for the day, the conjunction has passed; if larger, it is ' still to come. In either case the conjunction is removed from the computed date by as many days as degrees intervene between Jupiter and the sun. About 14 days after the conjunction the heliacal rising of Jupiter takes place, and the new Jovian year begins In this case we find that the conjunction took place on the 13th Kârttika, and consequently the heliacal rising of Jupiter about the 27th, when his longitude was about 193° 18'. The 27th Kârttika of 3576 K.Y. is to be calculated by Tables I—III—
@@ -16786,9 +15717,6 @@ equation; thus 6.41 -0.05, 6.36 Convert the last result into degrees by multiply
  50. An element constantly used in Hindu calculations is the *Ahargaṇa,* or the days elapsed since the beginning of the Kaliyuga. Column *Ahar*. in Tables VI-VIII, serves for finding the *Ahargaṇa* for any given date, by summing up the figures in the column for the three parts into which a date is divided; e.g. for K.Y. 4163, 19th Ph*â*l- guna, we find—
 
 ![](../books_images/U-IMG-1699069277Screenshot2023-11-04091105.png)  
-
-
-
 
  By adding 588,466 to the *Ahargaṇa*, we get the corresponding day of the Julian period, in this case 2,109,359. Divide the *Ahargaṇa* or the day, of the Julian period by 7; the rest indicates the week-day, counting from Friday =0 for the *Ahargaṇa*, or Monday =0 for the Julian period.
 
@@ -16804,7 +15732,6 @@ equation; thus 6.41 -0.05, 6.36 Convert the last result into degrees by multiply
 
 243=0 Pausha.
 
-
  The day intended was K.Y. 4687, 0 Pausha, or A.D. 1586, 28th November.
 
  If instead of the *Ahargaṇa* the day of the Julian period be givèn, subtract 588,466 from the latter. The remainder is the *Ahargaṇa* with which we proceed as just explained.
@@ -16818,8 +15745,6 @@ equation; thus 6.41 -0.05, 6.36 Convert the last result into degrees by multiply
  The Special Tables furnish the astronomical data on which the *tithi* depends, *viz*. the mean distance of sun and moon, the mean anomaly of the moon, and the mean anomaly of the sun. The latter is composed of the anomaly of the sun for the beginning of the century[^2364]and the mean longitude of the sun for the moment under con-
 
 [^2364]: "As this is practically the same in odd years, the corresponding column has been omitted in the table for odd years."
-
-
 
 sideration. These three elements for the several parts into which a date is divided, must be summed up; and complete revolutions rejected.
 
@@ -16847,8 +15772,6 @@ sideration. These three elements for the several parts into which a date is divi
 
  Let us now calculate the same date according to the *Brahma Siddhânta* and the
 
-
-
 *Siddhânta Śiromani.* Mr. Dîkshit finds that the 12th *tithi* ended according to the*Brahma Siddhánta* at 50 *gh*. 15 *p*. after mean sunrise at Laṅka, and according to the*Siddhanta Śiromani* at 58 *gh*. 21 *p*. For the Brahma *Siddhânta* (Tables XIII and XVI), we must select the 3rd Śravana and not the 2nd :—
 
 ![](../books_images/U-IMG-1699094579Screenshot2023-11-04161229.png)
@@ -16873,8 +15796,6 @@ sideration. These three elements for the several parts into which a date is divi
 
 *True longitude of the Sun.—*A calculation of a date as conducted in the preceding paragraphs yields (1) the distance of the mean moon from the mean sun for a particular moment (Dist.), (2) the mean anomaly of the moon, (3), the mean anomaly of the sun for the same time, (4) the equation of mean moon to true moon, (5) the equation of mean sun to true sun, and (6) the true distance between sun and moon.
 
-
-
  From (3), and (3) we derive the true longitude of the sun by adding to the mean anomaly of the sun the equation of the sun, but with the sign changed, and then subtracting the mean anomaly of the sun for the beginning of the century. E. g. we have found that K. Y. 3585, Ashâḍha sudi 12, ended, according to the *Brahma Siddhânta,* 50 *gh*. 15 *p*. after mean sunrise at Lańkâ, and that at that moment the mean anomaly of the sun was 15° 4'51"; the corresponding equation is + 33' 58"; applying the equation. with the sign changed, we have 14° 30' 53". By subtracting the mean anomaly of the sun for the beginning of the century, *viz*. 282° 6', we have the sun's true longitude 92° 24' 53".
 
  53. *True longitude of the Moon*.— If we add the true longitude of the sun to the true distance between sun and moon (5), we get the true longitude of the moon, on which depends the *Nakshatra* and Rasi(see § 6).
@@ -16891,8 +15812,6 @@ sideration. These three elements for the several parts into which a date is divi
 
  55. *Intercalary months*.—If we know the age of the moon at the beginning and end of a solar month, we can decide by the rules in § 31, whether there was an intercalated month or not. We compute the *tithi* at the time of the two Saṁkrântis which
 
-
-
 form the beginning and the end of the solar month. As Table XX furnishes the elements on which the *tithi*depends for the time of the Samkranfi according to the *Súrya**Siddh*â*nta*, the calculation for that *Siddhânta* will be easy. Let us compute the 2nd example in §31, Bhâdrapada, in K. Y. 4343.
 
 ![](../books_images/U-IMG-1699183103Screenshot2023-11-05164812.png)
@@ -16906,8 +15825,6 @@ form the beginning and the end of the solar month. As Table XX furnishes the ele
  From Table XXII (colamn ![](../books_images/U-IMG-1699183300Screenshot2023-10-31165149.png)'s long.) we conclude that the Saṁkrânti had occurred 4*gh*. 30*p*. before the moment calculated, and from the same (column–) that new moon will occur 32*gh*. later; consequently it fell in Bhadrâpada. We now compute the next *Saṁkrânti* :—
 
 ![](../books_images/U-IMG-1699183438Screenshot2023-11-05165347.png)
-
-
 
  Saṁkrânti occurred 2*gh*. 7*p*. Before the moment calculated, but new-moon more than a whole day; accordingly this new-moon too belonged to Bhâdrapada, and as there were two new moons in Ehâdrapada, there was an intercalary Bhâdrapadaaccording to the *Árya Siddhânta* as well as the *Súrya Siddhânta*.
 
@@ -16927,8 +15844,6 @@ Accordingly mean new-moon occurred about 1.*gh*. later than the beginning of mea
 
  Let it be proposed to find the true *tithi* for 4300 K. Y. 28th Bhâdrapadaat Aṇhilwâd , on the basis of the first *Arya Siddhânta* , cofrected. Mean Aṇhilwâd time differs from mean Laṇkâ time by –40 *vin*.; therefore, the mean sun rises 40 *vin*. later on the meridian of Aṇhilwâd than at Laṇkâ. We combine these 38 vin. with 'Cor.' in
 
-
-
 order to find the values of distance of sun and moon, &c., for mean sunrise on the meridian of Aṇhilwâd.
 
 ![](../books_images/U-IMG-1699184747Screenshot2023-11-05171536.png)
@@ -16942,8 +15857,6 @@ order to find the values of distance of sun and moon, &c., for mean sunrise on t
  Thus we get 6° 9' 50" as the true distance of sun and moon at the true rising of the mean sun at Aṇhilwâḍ.
 
  61. *True Sunrise*.—In § 52 we have seen that the true longitude of the sun is derived from the mean longitude by adding the sun's equation with the sign changed; consequently the ![](../books_images/U-IMG-1699185345Screenshot2023-10-31165149.png)'s true longitude is greater or less than his mean longitude by the amount of the equation, according as the sun's equation in Table XXIV has the sign—
-
-
 
 or +. It is evident that the true sun rises later than the mean sun if the true longitude is greater than the mean, and *vice vers*. In the present case, the equation being additive, true sunrise precedes mean suprise.
 
@@ -16965,8 +15878,6 @@ or +. It is evident that the true sun rises later than the mean sun if the true 
 
  1. To find the European date corresponding to a given Hindu lunar one.
 
-
-
  This may be effected by §§ 20-26. But we'may calculate also by means of the column for Julian Calendar' in the tables. Thus in Ex. 1, § 26; we have Sam. 1233, Bhadrapada Sudi 13, Sunday, corresponding.to K.Y. 4276, 3rd Aévina, solar reckoning; and :—
 
 ![](../books_images/U-IMG-1699285135Screenshot2023-11-06210843.png)
@@ -16987,8 +15898,6 @@ or +. It is evident that the true sun rises later than the mean sun if the true 
 
  Hence the 9th tithi sudi ended on Monday, 30th January O. S., or 11th February N. S., and new moon occurred about 23rd Mâgha; bence the date in both schemes is Mâgha sudi 9, Śaka 1799 or Saṁvat 1934.
 
-
-
 **ON THE CONSTRUCTION OF THE TABLES.**
 
  63. Tables I and II are so constructed that the common and leap years are distributed in such a way that the end of the tabular year differs from the end of the corresponding mean solar 7eur of the Hindus[^2369]by an interval (indicated by *Cor*.') rarely exceeding 60' *ghaṭikâs*, but generally much less. As 100 solar years of the Hindus contain 36,526 days less about 1/2th day, the centuries in table Icontain 84 common and 26 leap years, except that in every eighth century there are only 25 leap years. The leap years in the century are so placed that *Cor*.' is kept under 30*ghaṭikâs.*
@@ -17006,8 +15915,6 @@ or +. It is evident that the true sun rises later than the mean sun if the true 
  65. *Calculation of the week day* (Feria):—*Kaliyuga* began with a Friday, or according to our notation the Feria was (6). Now as 3,000 solar years contain 1,095,776 days or 156,539 weeks + 3 days, 3000 K.Y. began on (6) + (3) = (9) or (2) Monday. Again as a century of 36,526 days contains exactly 5,218 weeks, it follows that after the lapse of such a century the week-day will be found the same as at the beginning of it. But after a century of 36,525 days the week-day must retrograde by one day. In this way the Feria of Table I have been ascertained. In Table II, the week-day advances by one day after every common year (of 365 days), and by two days after a leap year (of 366 days). The advance of F. by 2 in Table II therefore shows that the proceding tabular year consists of 366 days.
 
  66. *Verification of a date in the Tables*.—The *Kaliyuga* began on the 18th February 3102 B.C., after the 588,465th complete day of the Julian period. As 4,000 solar years
-
-
 
 of the Hindus contain 1,461,035 days, they are equal to 40 centuries of Julian years plus 35 days. Therefore 4000 K.Y. began on 18th February + 35 days = 26thMarch[^2371]. The same date will be fielded by the tables if the 3rd Vaiśâkha or beginning of the mean solar year of 4000 K.Y. is calculated. We may also test the Julian date bycalculating the *ahargans*, or oivil days from the commencement of the Kaliyuga, by tables VI, VII, VIII, and adding 588,465, the result being the corresponding day of the Julian period, which can readily be converted into the corresponding day of the Julian Calendar by the usual tables.
 
@@ -17028,8 +15935,6 @@ of the Hindus contain 1,461,035 days, they are equal to 40 centuries of Julian y
 [^2372]: "Hence the synodical period of the S. S. is 1,577,917,828 d. + 53,433,336 r. = 29-53058795 days.—J.B."
 
  As the mean distance of the sun and moon at the beginning of the Kaliyuga was 0° (the longitude of both being supposed to have been 0°), the mean distance (—![](../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png)at 3000 K.Y. was 174° as given in column headed Distance' (—![](../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png)of Table XIII. From these data the value of the distance for centuries and for odd, years can easily be computed; in a similar way the corresponding' values for the other *Siddhántas* have been computed.
-
-
 
  70. The daily synodical motion of the moon[^2373] in degrees is, according to the *SūryaSiddhánta,* 12° 11′ 26″·69817, as given in the translation of the *Surya Siddhánta (Journ. Am. Or. Soc.)* i, 34. This value is practically the same for the other *Siddhántas* also, for the difference in a year amounts to 2 seconds only for the 2nd *Arya Siddhánta*, and to 1 second every month for the *Brahma Siddhánta:* For the latter *Siddhánta* therefore we get the correct value, if we add to that furnished by Table XIV one second for each month elapsed since the beginning of the solar year.
 
@@ -17066,8 +15971,6 @@ of the Hindus contain 1,461,035 days, they are equal to 40 centuries of Julian y
 | *2nd Árya Siddhânta* |        461         |    77° 45' 36"     |      282° 14' 24"      |
 | *Brahma Siddhânta :* |        480         |    77° 45′ 36″     |      282° 14' 24"      |
 
-
-
  The motion in seconds in one solar year, according to the *Sûrya Siddhánta*, is thus 0'1161; similarly for the 2nd Árya Siddhânta it is 0'1383, and for *Brahṁa Siddhánta*0'144. Subtracting the amounts for 3000 years from the sun's mean anomaly for 0 K.Y., we find the same for 3000 K.Y., *viz*. (1) 282° 46′ 24″;(2) 282° 7′ 29″ (3) 282° 7′ 12; a entered in Table XIII in the column headed O's'an.
 
  **76.** The tables for the equations of the centres of the sun and moon are calculated from the epicycles. Their dimensions are the following:—
@@ -17087,8 +15990,6 @@ Now according to Hindu astronomy, sin. eq. : sin. an. :: minutes in the epicycle
 **¹** Additions a la Connaissance des Temps, 1846, pp. 1-29, containing Tables pour le calcul des Syzygies écliptiques ou quelconques; par M. C. L. Largeteau. These short tables are founded on those of Delambre for the sun and of Damoiseau for the moon, and take only the larger equations into account. M. Largetean uses six quantities in his tables, but does not explain what each indicates; they are,-a = moon's age (or distance from the sun) in 10,000ths of a lunation-300 (sum of negative equations); 6 = moon's mean anomaly (Hansen's g); c = 2a -- b ; d b; d = sun's mean anomaly (Hansen's g'); e moon's distance from the Node or Hansen's g + w; and ƒ= sun's distance from Moon's Node or 20 2 a (that is Hansen's 2g' + 2w'). The last four quantities are given in 1000th parts of the circumferente. Similar handy tables, bnt sexagesimal, and with more equations were published in the seventh edition of the Encyclopædia Britannica, and others in Gummere's Astronomy (Philadelphia 1858).-J. B.
 
 ^(**2**) If the degrees in 'Distance (O'Table XIII, &c., be multiplied by 30 we obthin this element a according to the different Siddhantas; thus for K.Y. 3200 we have 89° 6 × 302688; or if we divide the same by 12, we have 7:47 tithi. Again for 6, from Table XIII, 182° 10′ × 100 ÷ 36 = 367, and 367-500 = 867, differing by about 3° from the European value, Hansen's Tables de la Lune give for the value of the tithi here, 7-1637 and for ('s anom,= 858·11.–J. B.
-
-
 
  **79.** As the beginning of the mean solar year (*i.e.*, mean long.![](../books_images/U-IMG-1698751332Screenshot2023-10-31165149.png)-0) always falls on the 2nd or 3rd Vaiśâkha of Table III, it is obvious that,on any given date in that table the ![](../books_images/U-IMG-1698751332Screenshot2023-10-31165149.png)'s mean long. and consequently the ![](../books_images/U-IMG-1698751332Screenshot2023-10-31165149.png)'s mean anomaly and the equation dependent on the latter will be nearly the same for every year. Accordingly the equation![](../books_images/U-IMG-1698751332Screenshot2023-10-31165149.png)has been coupled with the *tithi* of the several solar days, so that only the equation of the moon's centre had to be exhibited in the table auxiliary to Table III. Sun from Node' of Tables VI, VIÍ, VIII, denotes the distance of the true sun from the moon's node expressed in thousandth parts of the semi-circle. This element has been derived from Largeteau's tables[^2378]=173 3123167 days.-J. B.")by coupling Largeteau's values with the equation of the sún's centre.
 
@@ -17111,77 +16012,41 @@ In the Sûrya Siddhanta with biju, this is-232,242 rev.; the apsides make 488,19
 
 With bija this becomes 364212.
 
-
-
 ![](../books_images/U-IMG-1710479018SS.png)
-
-
 
 ![](../books_images/U-IMG-1710479278SS.png)
 
-
-
 ![](../books_images/U-IMG-1710479662SS.png)
-
-
 
 ![](../books_images/U-IMG-1710479834SS.png)
 
-
-
 **![](../books_images/U-IMG-1710480195SS.png)**
-
-
 
 ![](../books_images/U-IMG-1710480602SS.png)
 
-
-
 **![](../books_images/U-IMG-1710480931SS.png)**
-
-
 
 ![](../books_images/U-IMG-1710481177SS.png)
 
-
-
 ![](../books_images/U-IMG-1710481393SS.png)
-
-
 
 ![](../books_images/U-IMG-1710481783SS.png)
 
-
-
 ![](../books_images/U-IMG-1710481975SS.png)
-
-
 
 ![](../books_images/U-IMG-1710482130SS.png)
 
-
-
 ![](../books_images/U-IMG-1710482349SS.png)
-
-
 
 ![](../books_images/U-IMG-1710482541SS.png)
 
-
-
 ![](../books_images/U-IMG-1710482713SS.png)
 
-
-
 ![](../books_images/U-IMG-1710482856SS.png)
-
-
 
 **COMPUTATION OF DATES:—SPECIAL TABLES.**
 
 ![](../books_images/U-IMG-1710323288EP-3.png)
-
-
 
 **TABLE XXVI.—Showing the times of rising (in Arus or sixths of vinadi) in 10°-32° north latitude, or ullagna equivalentis in Oblique Ascension.**
 
@@ -17191,3324 +16056,5 @@ For the rule see above §60
 
  In the column Chara are entered the Asus by which the equivalent in right ascension of the several signs differs from the minutes of each sign. This difference is combined with the ascensional difference in the above table. As the former difference, however, whofirst introduced by Bhâskara, the amount of Chara must be added to the equivalents in oblique ascension if the date calculated is previous to Bhâskara, A. D. 1150.  
 
-
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^2377]: "Sûrya Siddh. N. S. 1. 44."
-
-
-[^2193]: "17 Restoreसिहं सं . A second figure seems to have stood after the plain म."
-
-
-[^2084]: "7 I omit Sir A. Cunninghant's No. 8 from this enumeration, because I believe that its date is really samvatsare, 70 (+
-
-
-[^2083]: "7 I omit Sir A. Cunninghant's No. 8 from this enumeration, because I believe that its date is really samvatsare, 70 (+
-
-
-[^2080]: "5 This form has remained in many southern alphabets."
-
-
-[^2078]: "4 The te with the upward curve occurs also in the Asoka edicts, especially in the Kalsf version, and has there been misrend sa."
-
-
-[^2051]: "49This town is situated in the Maisûr territory on the frontier of Dhai wad."
-
-
-[^2008]: "Metre, Indravajrâ."
-
-
-[^2005]: " Metre, Âryâ."
-
-
-[^2001]: "Motre, Sloka (Anushtubh
-
-
-[^1999]: "Metre, Upendravajra."
-
-
-[^1989]: "Metre, Sragdharâ."
-
-
-[^1987]: "Metre, Sloka (Anushtubh
-
-
-[^1984]: "Metre, Âryâ."
-
-
-[^1979]: "Metre, Vasantatilakâ."
-
-
-[^1974]: "Metre, Upajati."
-
-
-[^1970]: "Metre, Sragdhara."
-
-
-[^1930]: "Metre, Upajâti."
-
-
-[^1929]: "Metre, Upagiti."
-
-
-[^1928]: "Metre, Indravajra."
-
-
-[^1926]: "Metre Upajati."
-
-
-[^1923]: "Metre, Upajâti."
-
-
-[^1920]: "Metre, Śloka (Anushṭubh
-
-
-[^1913]: "Metre, Drutavilambita."
-
-
-[^1909]: "Metre, Arya."
-
-
-[^1907]: "Metre, Giti."
-
-
-[^1906]: "Metre, Arya."
-
-
-[^1888]: "Metre, Sloka (Anushtubh
-
-
-[^1884]: "Metre, Upajati."
-
-
-[^1882]: "Metre, Malini"
-
-
-[^1873]: " Metre, Vasantatilaka."
-
-
-[^1855]: "Expressed by a symbol."
-
-
-[^1834]: "Expressed by a symbol."
-
-
-[^1766]: "Metre Upajati."
-
-
-[^1763]: "Metre, Mandakranta."
-
-
-[^1762]: "Metre, Vasantatilaka."
-
-
-[^1760]: "Metre, Sragdhara."
-
-
-[^1759]: "Motre, Sārdūlavikridita."
-
-
-[^1757]: "Metre, Upajati."
-
-
-[^1756]: "Metre, śārdūlavikridita."
-
-
-[^1755]: "Metre, Sragdhara."
-
-
-[^1753]: "Metre, Indravajra."
-
-
-[^1752]: "Metre, Sragdhara."
-
-
-[^1751]: "Metre, Vasantatilakā."
-
-
-[^1750]: "Metre, Sardulavikridita."
-
-
-[^1749]: "Metre, Vasantatilaka."
-
-
-[^1744]: "Metre, Prithvi."
-
-
-[^1740]: "Metre, Sragdhara."
-
-
-[^1739]: "Metre, Malini."
-
-
-[^1738]: "Metre, Sragdhara."
-
-
-[^1737]: "Metre, Mandakranta."
-
-
-[^1734]: "Metre, Sardulavikridita."
-
-
-[^1730]: "Metre, Vasantatilaka."
-
-
-[^1729]: "Expressed by a symbol."
-
-
-[^1657]: "Metre, Vasantatilaka."
-
-
-[^1654]: "Metre, Sardulavikridita."
-
-
-[^1635]: "Metre, Giti."
-
-
-[^1631]: "Metre, Anushtubh."
-
-
-[^1630]: "Metre, Upajati."
-
-
-[^1629]: "Metre, Indravamsa."
-
-
-[^1627]: "Metre, Upajati."
-
-
-[^1619]: "Metre, Upajati."
-
-
-[^1616]: "Metre, Upajati."
-
-
-[^1613]: "Metre, Vasantatilaka."
-
-
-[^1612]: "Metre, Vamsastha."
-
-
-[^1609]: "Metre, Sardulavikridita."
-
-
-[^1606]: "Metre, Drutavilambita."
-
-
-[^1604]: "Metre, Vasantatilaka."
-
-
-[^1603]: "Metre, Upajati."
-
-
-[^1598]: "Metre, Upajati."
-
-
-[^1594]: "Metre, Arya."
-
-
-[^1592]: "Metre, Upajati."
-
-
-[^1528]: "Metre, Âryâ (P
-
-
-[^1527]: "Metre, Śikhariṇî."
-
-
-[^1524]: "Metre, Śloka (Anushṭubh
-
-
-[^1523]: "Metre, Vaṁśastha."
-
-
-[^1521]: "Metre, Śârdûlavikriḍita."
-
-
-[^1518]: "Metre, Śloka (Anushṭubh
-
-
-[^1517]: "Metre, Upajâti."
-
-
-[^1515]: "Metre, Śloka (Anushṭubh
-
-
-[^1513]: "Metre, ŚârdûlavikrÎḍita."
-
-
-[^1511]: "Metre, Śloka (Anushṭubh
-
-
-[^1509]: "Metre, Sragdharâ."
-
-
-[^1507]: "Metre, ŚârdûlavikrÎḍita."
-
-
-[^1503]: "Expressed by a symbol."
-
-
-[^1494]: "Metre, Anushṭubh."
-
-
-[^1489]: "Metre, Mandâkrântâ."
-
-
-[^1484]: "Metre, Vasantatilakâ."
-
-
-[^1482]: "Metre, Âryâ."
-
-
-[^1481]: "Metre, Śârdûlavikrîḍita."
-
-
-[^1437]: "Metre, Upajâti. Read .रामेश्वरThe first syllable of संडीरis doubtful; ut looks like waard."
-
-
-[^1435]: "Metre, Upajâti. Read .रामेश्वरThe first syllable of संडीरis doubtful; ut looks like waard."
-
-
-[^1434]: "Metre, Sragdharà. Read विस्रस्तां, दंडांशु in the eighth syllable of the last Pada only the is quite certain."
-
-
-[^1432]: "Metre, Upajâti. Read .रामेश्वरThe first syllable of संडीरis doubtful; ut looks like waard."
-
-
-[^1430]: " Metre, Vasantatilaka. The bracketed letters are all more or less doubtful, •तोग्ग• may have been •भोग्ग• or •सोग्ग•."
-
-
-[^1429]: "Metre, Anushtubh."
-
-
-[^1427]: "Metre, Upujati."
-
-
-[^1426]: "Metre, Anushtubh."
-
-
-[^1425]: "Metre, Upujati."
-
-
-[^1423]: "Metre, Upujati."
-
-
-[^1422]: "Metre, sardulavikridita. Read विभूषिता; the भू is not recognissble; read शौर्याा; शत्रुविभवाधिन्याय्यवित्तीदयः"
-
-
-[^1421]: "Metre, Upujati."
-
-
-[^1418]: "Metre, Arya."
-
-
-[^1417]: "Metre, sardulavikridita. Read विभूषिता; the भू is not recognissble; read शौर्याा; शत्रुविभवाधिन्याय्यवित्तीदयः"
-
-
-[^1416]: "Metre, Arya."
-
-
-[^1414]: "Metro, Salini The bracketed lettersare badly damaged."
-
-
-[^1413]: "Metre, Vasantatilaka. Read ‘नरेश्वर’; सेना."
-
-
-[^1410]: "  64 Metre, Vasantatilake. Read 'शतमानुकृतिं."
-
-
-[^1409]: "  64 Metre, Vasantatilake. Read 'शतमानुकृतिं."
-
-
-[^1389]: "45 Ueber das Leben des Jaina Méuches Hemachandra, 63( 251
-
-
-[^1372]: "29Nos, 296 and।297 of the Prabandhachintâmani (Ind, Off. Libr. Sans, MSS. Bühler
-
-
-[^1331]: "Read बभूव."
-
-
-[^1324]: "See note 20."
-
-
-[^1286]: "Metre, Sragdharā."
-
-
-[^1283]: "Metre, Sragdharā.."
-
-
-[^1282]: "Metre, Śardūlavikrīḍita."
-
-
-[^1281]: "Metre, Śardūlavikrīḍita."
-
-
-[^1280]: "Metre, Śardūlavikrīḍita."
-
-
-[^1279]: "Metre, Śardūlavikrīḍita."
-
-
-[^1278]: "Metre, Śardūlavikrīḍita."
-
-
-[^1277]: "Metre, Śardūlavikrīḍita."
-
-
-[^1276]: "Metre, Vasantatilakā."
-
-
-[^1275]: "Metre, Śardūlavikrīḍita."
-
-
-[^1274]: "Metre, Sragdharā."
-
-
-[^1273]: "Metre, Śardūlavikrīḍita."
-
-
-[^1251]: "Metre, Śloka (Anushṭubh
-
-
-[^1250]: "Metre, Upajāti. "
-
-
-[^1233]: "Metre, Upajati. "
-
-
-[^1231]: " Metre, Vasantatilaka."
-
-
-[^1223]: "Metre, śloka(Anuśhṭubb
-
-
-[^1219]: "Metre, Vasantatilakā."
-
-
-[^1212]: " Expressed by a symbol. "
-
-
-[^1186]: " Metre, Sragdhara."
-
-
-[^1166]: "Metre, Sikharini; and of the next verse."
-
-
-[^1165]: "Metre, Vasantatilaka."
-
-
-[^1164]: " Metre, Arya."
-
-
-[^1163]: " Metre, Upajati."
-
-
-[^1156]: "Metre, Giti."
-
-
-[^1150]: " Metre, Arya."
-
-
-[^1149]: "Metre, Vasantatilaka."
-
-
-[^1148]: "Metre, Sragdhara."
-
-
-[^1146]: " Metre, Sragdhara."
-
-
-[^1145]: "Metre, Malini."
-
-
-[^1143]: "Metre, Malini."
-
-
-[^1142]: "Metre, Arya."
-
-
-[^1139]: "Metre, Malini."
-
-
-[^1138]: "Metre, Sragdhara."
-
-
-[^1125]: "Metre, Sardulavikridita."
-
-
-[^1121]: "Metre, Anushtubh."
-
-
-[^1088]: "Pisachichaturdasi, literally the fourteenth (lunar day
-
-
-[^1075]: "L. 9. The first letter is nearly effaced, only the ोis recognisable Only thesecond न ofthe two bracketed signs in कन्याकुमा[सन्न] is distinct. The reading may have been ०सन्ने."
-
-
-[^1051]: " Metre, Sloka (Anushtubh
-
-
-[^1048]: "Metre, Arya."
-
-
-[^1044]: "Metre, Sardulavikridita."
-
-
-[^1042]: "Metre, Sloka (Anushtubh
-
-
-[^1041]: "Metre, Upendravajra."
-
-
-[^1040]: "Metre, Sloka (Anushtubh
-
-
-[^1039]: "Metre, Upendravajra."
-
-
-[^1036]: " Metre, Vasantatilaka."
-
-
-[^1033]: "Metre, Arya."
-
-
-[^1032]: "Metre, Sloka (Anushţubh
-
-
-[^1029]: "Expressed by a symbol."
-
-
-[^1025]: "Metre, Vasantatilaka."
-
-
-[^1016]: "Metre, Sloka (Anushtubh
-
-
-[^1007]: " Metre, Vasantatilaka."
-
-
-[^999]: "Metre, Sragdhara."
-
-
-[^998]: "Metre, Sloka (Anushtubh
-
-
-[^997]: "Expressed by a symbol."
-
-
-[^990]: "Read ०हटे."
-
-
-[^981]: "Read हेतोर्घा०"
-
-
-[^976]: " Read त्रिभागं त्रि."
-
-
-[^971]: "Read उपार्ज्जना."
-
-
-[^943]: "Read कैर्ल्लिप्यति."
-
-
-[^942]: "One would expect ०विशुद्धा."
-
-
-[^914]: "Read निःश्रेयसार्थं."
-
-
-[^904]: "Here about 7 aksharas are gone."
-
-
-[^899]: "Were about 12 aksharas are gone."
-
-
-[^873]: "Read द्वाविंश."
-
-
-[^843]: "Metre,Śloka(Anushṭubh
-
-
-[^841]: "Metre, Sragdharâ."
-
-
-[^840]: " Metre, Âryâ."
-
-
-[^822]: "Metre, Śloka (Anushṭubh
-
-
-[^821]: "Metre, Âryâ."
-
-
-[^819]: " Metre, Śloka (Anushṭubh
-
-
-[^814]: "Metre, Âryâ."
-
-
-[^812]: "Metre, Śârdûlavikridlita."
-
-
-[^811]: "Metre, Rathoddhatâ."
-
-
-[^807]: "Metre, Śloka (Anushṭubh
-
-
-[^806]: " Metre, Mandâkrântâ."
-
-
-[^804]: "This akshara, पा, isalmost entirely gone."
-
-
-[^802]: "Metre, Vaṁśastha."
-
-
-[^800]: "Metre, Śloka (Anushṭubh
-
-
-[^797]: "Metre, Sragdharâ."
-
-
-[^796]: "Metre, Śloka (Anushṭubh
-
-
-[^790]: "Metre, Vasantatilakâ."
-
-
-[^789]: "Metre, Âryâ."
-
-
-[^787]: "Metre, Śloka (Anushṭubh
-
-
-[^778]: "Metre, Śloka (Anushṭubh
-
-
-[^777]: "Metre, Śârdûlavikrîdita."
-
-
-[^772]: " The akskara र्ग्गा,in the original, looks like र्ल्मा."
-
-
-[^770]: "Metre, Âryâ."
-
-
-[^754]: "Metre, Arya"
-
-
-[^749]: "Metre, Vasantatilaka."
-
-
-[^726]: "Metre, Sragdhara."
-
-
-[^715]: "Metre, Vasantatilaka."
-
-
-[^694]: "Metre, Arya."
-
-
-[^689]: "Metre, Arya."
-
-
-[^652]: " Metre, Rathoddhat&."
-
-
-[^650]: "Metre, Arya."
-
-
-[^636]: "Motre, Sragdhara."
-
-
-[^634]: "Metre, Anushtubh."
-
-
-[^591]: "Metre of verses 21-22,upajati"
-
-
-[^580]: "Metre, Anushtubh."
-
-
-[^576]: "Metre, Anushtubh."
-
-
-[^482]: "Metre, Anushtubh."
-
-
-[^475]: "Metre, Vasantatilaka."
-
-
-[^470]: "Metre, Sragdhara."
-
-
-[^464]: "Metre, Vasantatilakâ."
-
-
-[^462]: "Metre, Vasantatilakâ."
-
-
-[^461]: "Metre, Sragdharâ."
-
-
-[^459]: "Metre, Vasantatilakâ."
-
-
-[^458]: "Metre, Sragdharâ."
-
-
-[^457]: "Metre, Šárdulavikrîḍita."
-
-
-[^454]: "Metre, Śârdûlavikrîḍita."
-
-
-[^453]: "Metre, Vasantatilakâ."
-
-
-[^419]: "The word Pushpubhûti gives no good sense. Pushyabhâli is a Nakshatra-name, and means"
-
-
-[^412]: " Metre, Śloka (Anushṭubh
-
-
-[^408]: "Metre, Vasantatilakâ."
-
-
-[^406]: "Metre, Śârdûlavikrîḍita."
-
-
-[^402]: "Metre, Upajâti."
-
-
-[^394]: "Metre, Rathoddhatâ."
-
-
-[^391]: "Metre, Śloka (Anushṭubh
-
-
-[^388]: "Metre, Śârdûlavikrîḍita."
-
-
-[^387]: " Metre, Upajâti; and of the next verse."
-
-
-[^385]: "Metre, Śiklariṇî."
-
-
-[^383]: " Metre, Śloka (Anushṭubh
-
-
-[^380]: "i.e., tâpasô."
-
-
-[^378]: "Metre, Âryâ."
-
-
-[^358]: "This whole verse has a double entondre. It contains allusions to the Indian logic (tarkasâstra
-
-
-[^267]: "Metre, Śârdûlavikrîḍita."
-
-
-[^264]: "Metre, Ślôka (Anushṭubh
-
-
-[^263]: "Metre, Vasantatilakâ."
-
-
-[^261]: "Metre, Śârdûlavikrîḍita."
-
-
-[^259]: "Metre, Sragdharâ."
-
-
-[^258]: "Metre, Ślôka (Anushṭubh
-
-
-[^257]: "Metre, Śârdûlavikrîḍita."
-
-
-[^256]: "Metre, Ślôka (Anushṭubh
-
-
-[^255]: "Metre, Śârdûlavikrîḍita."
-
-
-[^253]: "Metre, Ślôka (Anushṭubh
-
-
-[^249]: "Metre, Śârdûlavikrîḍita; and of the next verse."
-
-
-[^247]: "Metre, Vasantatilakâ."
-
-
-[^246]: "Metre, Upajâti."
-
-
-[^244]: "Metre, Śârdûlavikrîḍita."
-
-
-[^242]: "Metre, Ślôka (Anushṭubh
-
-
-[^241]: "Metre, Śârdûlavikrîḍita."
-
-
-[^238]: "Metre, Ślôka (Anushṭubh
-
-
-[^233]: "Metre, Sragdharâ."
-
-
-[^232]: "Metre, Śârdûlavikrîḍita; and of the next verse."
-
-
-[^218]: "Metre, Ślôka (Anushṭubh
-
-
-[^217]: "Metre, Upajâti."
-
-
-[^216]: "Metre, Vasantatilakâ."
-
-
-[^215]: "Metre, Ślôka (Anushṭubh
-
-
-[^214]: "Metre, Sragdharâ."
-
-
-[^213]: "Metre, Ślôka (Anushṭubh
-
-
-[^210]: "Metre, Śârdûlavikrîḍita."
-
-
-[^207]: "Metre, Ślôka (Anushṭubh
-
-
-[^206]: "Metre, Sragdharâ."
-
-
-[^205]: "Metre, Śârdûlavikrîḍita."
-
-
-[^204]: "This correction appears to have been made already in the original."
-
-
-[^199]: "Metre, Vasantatilakâ."
-
-
-[^197]: "Metre, Śârdûlavikrîḍita."
-
-
-[^189]: "Metre, Ślôka (Anushṭubh
-
-
-[^188]: "Metre, Śârdûlavikrîḍita."
-
-
-[^187]: "Metre, Ślôka (Anushṭabh
-
-
-[^184]: "Metre, Śârdûlavikrîḍita; and of the next verse."
-
-
-[^182]: "Metre, Ślôka (Anushṭubh
-
-
-[^181]: "Metre, Śârdûlavikrîḍita; and of the next verse."
-
-
-[^180]: "Metre, Ślôka (Anushṭubh
-
-
-[^179]: "Metre, Śârdûlavikrîḍita."
-
-
-[^177]: "Metre, Ślôka (Anushṭubh
-
-
-[^176]: "Metre, Śârdûlavikrîḍita."
-
-
-[^174]: "Metre, Ślôka (Anushṭubh
-
-
-[^172]: "Metre, Upajâti."
-
-
-[^169]: "Metre, Vasantatilakâ."
-
-
-[^167]: "Metre, Śárdûlavikrîḍita."
-
-
-[^166]: "Metre, Śárdûlavikrîḍita."
-
-
-[^165]: "Possibly this correction has been made already in the original."
-
-
-[^164]: "Metre, Vasantatilakâ."
-
-
-[^161]: "The akshara in brackets might possibly be kka."
-
-
-[^159]: "Possibly this correction has been made already in the original."
-
-
-[^152]: "Metre, Upajâti."
-
-
-[^150]: "Metre, Âryâ."
-
-
-[^148]: "Metre, Vasantatilakâ."
-
-
-[^146]: "Metre, Âryâ."
-
-
-[^145]: "Metre, Śârdûlavikrîḍita."
-
-
-[^141]: "Metre, Śârdûlavikrîḍita."
-
-
-[^140]: "Metre, Âryâ"
-
-
-[^139]: "Metre, Anushṭubh."
-
-
-[^138]: "Metre, Śârdûlavikrîḍita."
-
-
-[^137]: "Metre, Anushṭubh."
-
-
-[^134]: "Metre, Upajâti."
-
-
-[^133]: "Metre, Śârdûlavikrîḍita."
-
-
-[^129]: "Metre, Vasantatilakâ."
-
-
-[^125]: "Metre, Vasantatilakâ."
-
-
-[^124]: "Metre, Anushṭubh."
-
-
-[^121]: "Metre, Anushṭubh."
-
-
-[^120]: "Metre, Vasantatilakâ."
-
-
-[^117]: "Metre, Anushṭubh."
-
-
-[^115]: "Metre, Vasantatilakâ."

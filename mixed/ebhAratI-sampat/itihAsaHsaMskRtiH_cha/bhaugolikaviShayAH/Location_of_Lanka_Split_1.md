@@ -14,10 +14,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIwNzA4OTAzNTg
 
 \
 
-
-
-
-
 Publisher:  
 Manohar Mahadeo Kelkar  
 196/85 Sadashiv Peth  
@@ -29,12 +25,7 @@ Dec.1947
 Rights reserved  
 by Author
 
-
-
-
-
 BY WAY OF INTRODUCTION  
-
 
 Riddles of the Ramayana, like those of the Mahabharata are many and varied, and what is more, they are likely to remain so for ever. Attempting their solution or trying to interpret them is an ideal pastime for scholars and reasearch students. Sardar M. V. Kibe places before us in the following pages, his solution of one of the many riddles of the Ramayana : the identification of Lanka.  
 Popular belief is so strong that it is almost axiomatic to associate the island fortress of Ravana with modern Ceylon. Few scholars have differed from the belief and among themselves, differed very widely. It is not surprising to find that Australia, Sumatra, the Maldivs and a place in Assam have been mentioned as possible sites of the Lanka of the Ramayana.  
@@ -88,51 +79,30 @@ would then be realised fully, to the letter and the spirit.
 30th Dec, 1947.                            
                     S. R. T.
 
-
-
-
-
 ![](../../../books_images/1680785037.png)
 
 An Outline Map showing Lanka in the Central Provinces.
 
-
-
-
-
 *Our other*  
 
-
 ENGLISH PUBLICATIONS  
-
 
 HINDUPADPADASHAHI - by Bar. V. D. Savarkar,  
 (This book is now out of print.)  
 
-
 FROM QUIT INDIA TO SPLIT INDIA.  
 Rs. 2-8-0.  
-
 
 (This book is now available from the author.)  
 A. S. Bhide, Savarkar Sadan,  
 Keluskar Road,  
 DADAR (BOMBAY).  
 
-
 Manohar Grantha Mala,  
 
 POONA 2.  
 
-
-
-
-
-
-
-
 LANKA DISCOVERED  
-
 
 The toughest riddle in the Ramayana is the location of Ravana's capital. Materials in Valmiki's work have wrongly been thought not sufficient to identify it. Tradition for over two thousand years places it in the sea beyond the southern-most limits of India. Modern scholars, however, have declined to accept it. Mr. Vaidya, who has creditably explained many riddles of the[Ramayana](http://# "C. V. Vaidya; The Riddle of the Ramayana, Bombay"), has only supported the present location identical with Ceylon, by means of imperfect analogies. Recent opinion about Rama's journey to the south and his conquest of Lanka is that it is a nature myth.Dr. Jacobi[^9]locates it in Assam.
 
@@ -150,8 +120,6 @@ He began with the East. In this direction were to be met with the Ganges; the Ju
 तत्र सीतां च वैदेहीं निलयं रावणस्य च ॥ १९ ॥  
 मार्गध्वं गिरिदुर्गेषु वनेषु च नदीषु च ।  
 नदीं भागीरथीं रम्यां सरयूं कौशिकीं तथा ॥ २० ॥
-
-
 
 कालिंदी यमुनां रम्यां यामुनं च महागिरिम् ।  
 सरस्वतीं च सिन्धुं च शोणं मणिनिभोदकम् ॥ २१ ॥  
@@ -174,8 +142,6 @@ Another leader was sent to the South. He was to search the Vindhya mountain; the
 [^10]: "नमोस्तु नर्मदे तुभ्यं त्राहि मां विषसर्पतः (खिल of ऋग्वेद
 
 नमोस्तु नर्मदे तुभ्यं त्राहि मां विषसर्पतः (खिल of ऋग्वेद)
-
-
 
 विदर्भानृष्टिकांश्चैव रम्यान्माहीषकानपि ।  
 तथा मत्स्यकलिङ्गांश्च कौशिकांश्च समन्ततः ॥ १० ॥  
@@ -317,7 +283,6 @@ He goes to Agasti and asks him to show him a good place to live in ( III-13-11) 
 किंतु व्यादिश में देशं सोदकं बहुकाननम् ।  
 यत्राश्रमपदं कृत्वा वसेयं निरतः सुखम् ॥ ११ ॥  
 
-
 He is pointed out a place 16 miles away on the banks of the Godavari - a place which was said to be not far away ( III-13-13 20-21 ) :-
 
 इतो द्वियोजने तात बहुमूलफलोदकः ।  
@@ -432,7 +397,6 @@ They lost their way in it. They were taken out of it by a nun living in it and b
 एष विन्ध्यो गिरिः श्रीमान् नानाद्रुमलतायुतः ।  
 एष प्रस्रवणः शैलः सागरोयं महोदधिः ॥ ३१ ॥  
 
-
 Here when they were desperately nearer death came to them the brother of Jatayu, Sampati (IV-56). He told that he had been a resident of the mountain from a very long time (IV-58-7):-
 
 निर्दग्धपत्रः पतितो विन्ध्येऽहं वानरर्षभाः ॥ ७ ॥
@@ -482,12 +446,7 @@ As regards the *sea* on the southern side of Vindhya, an interesting find may th
 
 Luckily for discoverers there is such a place at the spot indicated in the Ramayana. (*Vide* the *Pioneer*, Allahabad, 27 July, 1908) There is mystery about it. At a distance of some 10 miles from the Pendra Road station of the Bilaspur-Katni line of the Bengal-Nagpur Railway, there is a hill top on which is said to be a fort, called after Rani Bakavali, a fabulous queen. It is in the Bandhavagarh Tehsil of the Rewa State. It is visible from the spot known as भृगु आश्रमabout 2 miles from the source of the नर्मदा. It is said that in the sixties of the last century Sir Richard Temple, the then Chief Commissioner of the Central Provinces, had attempted to reach it by crossing over the marsh, with which it is surrounded, by riding an elephant, but as the animal got stuck up in the mud the attempt had to be abandoned. From this side of the marsh the fort looks as if submerged in a mist, which makes it appear to be at a greater distance than it really is. It is in fact a peak, just as Lanka in the Ramayana. The land which is marshy at present may have had water over it once. Local tradition says that there is treasureinside the fort. Is it the Lanka of Ravana?
 
-
-
-
-
 **LANKA IN CENTRAL INDIA**  
-
 
 The earliest known history of the Indian people in anepic form is what is contained in the Ramayana of Valmiki. The language and metre of the work, which are nearer to the Vedic language than anything to be found in classical Sanskrit, point out the work to have been written in ancient times. Indeed the writer claims it to be a contemporary work, and if the interpolations made in it, which are many and intermixed throughout the book, are deleted, what remains appears to be an authentic narrative, subject to exaggeration here and there on account of its very nature as epic poetry. To the same reason is due the fact that it contains many riddles. Many of them have been successfully solved by that distinguished scholar Mr. C. V. Vaidya, in the " *Riddle* of the *Ramayana*." But he too failed to solve the toughest riddle in it, namely, the identity of 'Lanka,' the capital of Ravana, with any modern site. There was a time when it was believed that like Dvaraka of a later epoch, it too disappeared in the sea. But the point is so important that on its right solution depends the authenticity of the greater part of the history narrated in the epic.
 
@@ -547,8 +506,6 @@ Sugriva sent a batch of Vanaras under the leadership of Hanuman to the south (IV
 
 They lost their way. They were taken out of it by a nun who was living in it and who brought them on to the shores of the sea which was washing the base of the Vindhyas (IV-53, 3-5).
 
-
-
 Here, when they were sitting ready to die, not knowing what to do, came to them the brother of Jatayu, by name Sampati (IV-56, 1-2). He told them that he had been living on the mountain Vindhya for a very long time (IV-58, 7.)
 
 He gives tidings of Ravana and Sita, who, he says, are at a certain distance on the south banks of an island in the sea, on the shores of which they were sitting (IV-58, 20).
@@ -583,15 +540,8 @@ There now remains the difficulty about the sea. In Sanskrit, according to Mr. Nu
 
 Now the question remains as regards the tribes of Vanaras, monkeys, which inhabited the land betweenJanasthana and Lanka,and the Rakshasas who lived beyond. That these two tribes had brotherly relations may be gathered from the mention in the Ramayana that Hanuman the companion of Sugriva, introduced his name to Ravana, as that of a brother (V-2,51). It is said that Vanaras had a tail. Apart from the fact that in medical works evidence is available of men having tail, Mr. T. C. Hudson. in his "*Naga Tribes of Manipur*" describes a costume in which such a tail is added. The Rakshasas too had different sorts of costumes (e. g., the ten heads of Ravana). I have avoided any reference to the last canto of the Ramayana as it is held to be an interpolation. Nor has any reference been made to the date of the Ramayanic events, which preceded the Mahabharata War by about a thousand years.
 
-
-
-
-
-
-
 **FURTHER LIGHT ON RAVANA'S  
 LANKA**  
-
 
 Ina paper read before the XVII International Congress of Orientalists, Oxford, I gave mileage of the distance between Chitrakuta and Kishkindha as 98.
 
@@ -603,8 +553,6 @@ In Ayodhyakanda (II-54,28-29) Bharadvaja whose hermitage was on the confluence o
 
 दशक्रोश इतस्तात गिरिर्यस्मिन्निवत्स्यसि ।  
 चित्रकूट इति ख्यातो ......................
-
-
 
 In the next Sarga, ( Verses 4 to 6 ) he gives further directions for reaching the place. He says that from the junction of the two rivers, the Ganga and Yamuna, Rama should follow the latter upwards from its mouth and having reached an old landing place, he should cross in a boat to reach a big *Nyagrodha* tree, with big leafy branches. After proceeding a *Krosa* further, he would see a blue forest. Thus:-
 
@@ -679,8 +627,6 @@ Ravana induced Maricha to accompany him on his chariot to the place where Rama w
 आरुह्य ययतुः शीघ्रं तस्मादाश्रममण्डलात् ॥ ९ ॥  
 समेत्य दण्डकारण्यं राघवस्याश्रमं ततः ।  
 ददर्श सहमारीचो रावणो राक्षसाधिपः ॥ ११ ॥
-
-
 
 It is particularly stated in Verse 9 that from their hermitage (that of Maricha) theycame soon to the place where Rama had built his cottage.  
 It appears that while Ravana came to the place in a chariot, which was later destroyed by Jatayu, when the former was taking Sita away, on his way back he had the use of a sort of a *glider* ( 67-17 & 20),  
@@ -948,12 +894,7 @@ Moreover, the bed of the river ( exaggerated by poetic imagination into a sea) w
 
 प्राचीनवाहिनीं चैव नदीं भृशमकर्दमाम् । ...॥ १६ ॥
 
-
-
-
-
 **SUMMARY**  
-
 
 In my paper on 'Ravana's Lanka discovered' read before the XVII International Congress of Orientalists, I had located Lanka in the Vindhya Mountain on the description of the route of Rama to Lanka, as given in Valmiki's Ramayana. In the present paper I locate it at the same place on the basis of Ravana's route to Panchavati and his subsequent movements.
 
@@ -961,15 +902,8 @@ It is noteworthy that in the Ayodhyakanda, Valmiki gives the distance between Ay
 
 The Edition of Valmiki Ramayana used for the purpose of this article- "Srimad Valmiki Ramayana" published by R. Narayanaswami Aiyar, M. A., B. L. Advocate, with the help of an editorial committee, printed at the Madras Law Journal Press, Mylapore, Madras, 1933.
 
-
-
-
-
-
-
 **INHABITANTS AROUND LANKA  
 IN AMARKANTAKA**  
-
 
 Ina paper read before the XVII International Congress of Orientalists held at Oxford in 1927 (referred to in its report as published in the *Indian Historical Quarterly*, Calcutta, Vol. IV No. 4, December 1928) and in another one read before the XIX Session of the same Congress held at Rome (published in *Atti* Del XIX Congress *Internazianale degli Orientalisti*, Roma 23-29, Sellimbre 1938 XIII, pp. 361-375) I gave evidence from Valmiki's Ramayana that Ravana's Lanka was not located at or beyond the southern end of India, but was situated on a peak in Central India. The late Prof. H. Jacobi wrote to me to say that it was more plausible than his theory according to which he located it in Assam. I shall now describe the inhabitants residing in this territory.
 
@@ -987,20 +921,13 @@ The late Rai Bahadur Dr. Hiralal of Katni drew my attention to the following ext
 
 Is this indeed a tail?"
 
-
-
 At any rate the above description tallies with the appearance of Hanuman and others as described in the *Ramayana*, as far as ' the tail ' is concerned, and therefore, I am of the opinion that the ten heads or mouths of Ravana, as well as the tails of so-called monkeys in Rama's army were ornaments and not natural growth. Tales of the tails of human beings however have been authenticated in "*La Pate Glycerine-Kao-line*" by Dr. H. Galmier of the Faculty of Medicine. Two photographs of men having such tails have been published. I append them herewith.
 
 In support of my theory that Lanka was located on a peak of the the Amarkantaka in Central India.I have been entirely relying on Valmiki's Ramayana, but as a perusal of journals of learned societies will show, evidence in support of it is being discovered from Puranas also.
 
-
-
-
-
 DESCENDANTS OF RAVANA  
 
 (The Ruler of Lanka)  
-
 
 I have already shown that the struggle between Ramachandra, the Hero of Valmiki's *Ramayana*, and the villain Ravana, took place on the plateau, north of Lanka, perched on a peak of the Amarkantaka. This plateau is situated in the modern State of Rewa. It is now known as the forest of Pushparajgarh. This vast tract is inhabited by the Gonds. Among them are still observed several customs, (such as cannibalism mentioned in Valmiki's *Ramayana*;) as those of the relations and followers of Ravana; he seems to have been civilized, although he too was not free from all the traditions prevalent among his tribe ortribes[^20] Poona, Vol. VII, Part IV. ददर्श गिरिशृङ्गाभंपुरुषादं महास्वनम् ॥( ३-२-४ ) विराध इति मामाहुः पृथिव्यां सर्वराक्षसाः ॥ ( ३-३-५ ) also रावणावरजः कश्वित्खरो नामेह राक्षसः । (२-११७-११ ) धृष्टश्चजितकाशी च नृशंसः पुरुषादकः । (२-११७ - १२ ) अनेन ( कुंभकर्णेन) भक्षिता ब्रह्मन्नृषयो मानुषास्तथा । (८७-१०-३८)").  
 
@@ -1054,11 +981,6 @@ Similarity between this culture and that described in the *Ramayana* appears to 
 
 [^26]: "I am indebted to my friend Rai Bahadur Brojendranath Chaturvedi Political and Finance Minister of Reva for collecting the information regarding Gonds, given in this article, for me."
 
-
-
-
-
-
 **IS THE UTTARA KANDA  
 UN-HISTORICAL?**
 
@@ -1084,7 +1006,6 @@ Moreover there are descriptions in this *Kanda*, which by their very naturalness
 निगृह्य सर्वस्रोतांसि निश्वासं न मुमोच ह ॥
 
 It means that sitting on the banks of the Sarayu Lakshmana stopped his breath and died. Shocked by this sudden death, Rama asked all the residents of Ayodhya, to leave the capital, or figuratively render it uninhabited, by his impending departure, he proceeded in fact to the banks of the river. Thus verses 5 and 6, Sarga 108 and verse 7, Sarga 110 contain the following :  
-
 
 अयोध्यां विजनां कृत्वा राघवो भरतस्तथा ।  
 स्वर्गस्य गमनोद्योगं कृतवंतौ महारथौ ॥  
@@ -1130,8 +1051,6 @@ Their grievance was that there was ruling in Mathura a tyrant by name Lavana (Sa
 
 इयं मधुपुरी रम्या मथुरा देवनिर्मिता ।  
 निवेशं प्राप्नुयात् शीघ्रं ... ... ... ॥
-
-
 
 When Rama left Ayodhya,he took two days to reach Valmiki's abode on the Ganges. (Verse 2, Sarga 65)
 
@@ -1230,37 +1149,8 @@ and they all went to their homes. (V-29, Sarga 40 ).
 
 This also shows that their home were not so far away as is popularly believed.  
 
-
 3\. A Vol. of Eastern and Indian Studies in honour of F. W. Thomas, C. I. E.. pp. 144-145.  
 4. A presentation Volume to Prof. P. V. Kane, M. A., LL.M.,
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

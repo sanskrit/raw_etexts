@@ -15,52 +15,20 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE4MzQ3OTM5ODI
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 **PREFACE**
 
  Dewan Bahadur K. S. Ramaswami Sastri, District and Sessions Judge (Retired), was invited to Baroda to deliver two lectures under the Sayaji Rao Memorial Lecture Series. In these lectures he gave an outline of his researches in the Ramayana. His whole work is now published under Kirti Mandir Lecture Series No. IX.
-
-
-
-
-
-
 
 |                     |                             |
 |:-------------------:|:---------------------------:|
 |    BARODA,       |   **(Sd.) J. M. MEHTA,** |
 | *28th March 1944.* |     *  Vidyadhikari.*    |
 
-
-
-
-
-
-
 ————————
 
-
-
 [TABLE]
-
-
-
-
 
 **PART I  
 The Genius of Valmiki**
@@ -87,15 +55,11 @@ The Genius of Valmiki**
 |    CHAPTER XV    | Valmiki and his Successors.                          |
 |   CHAPTER XVI    | Conclusion.                                          |
 
-
-
 **INTRODUCTORY**
 
  The first part of this book aims at presenting within brief limits an estimate of the life and the life-work of the oldest and greatest of Indian poets, who is also the supreme poet of the world and who has so pervaded the life of India that one might with justice say that Valmiki is India and India is Valmiki. Sri Aurobindo Ghose says well: “Not all perhaps can enter at once into the spirit of this masterpiece, but those who have once done so will never admit any poem in the world as its superior”. The immortal poem of Valmiki has been studied and expounded for thousands of years in India but the task which has been done till now in regard to the poem has, in the main, been from the grammatical and prosodic and expository and religious points of view. The historical and comparative and aesthetic approach to the poem has not yet been made on any appreciable scale and my endeavour in this volume has been to do that work. In the second part of the book, I shall discuss in detail some of the Riddles in the Ramayana and try to solve them correctly and in a manner which will exalt the glory of Rama and the fame of Valmiki. I originally wrote the work in two big volumes but have since condensed the same into one volume in the interests of brevity. Valmiki is the voice of a united, free, prosperous, divine India. That India of Valmiki is, after centuries of slumber, awake once more, and in the words of Mahatma Gandhi we shall have Ramarajya once again and for ever.
 
 **K. S. RAMASWAMI SASTRI.**
-
-
 
 **CHAPTER I**
 
@@ -109,8 +73,6 @@ The Genius of Valmiki**
 
 **बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः।  
 मुने वक्ष्याम्यहं बुद्ध्वातैर्युक्तः श्रूयतां नरः॥**
-
-
 
 The Hindu theory of divine incarnation provides a bridge for the passage of the divine into the human and is proclaimed in immortal verses in Chapter IV of the Bhagavad Gīta. Lord Krishna says in Chapter X of the Gita that he is Rama among the warriors. In the Ramayana itself the divinity of Rama is indicated directly and indirectly in many places. To reject these passages as interpretationsis to refuse to understand the Hindu theory of Incarnation (Avatāra) and the Hindu poetic technique of indirect suggestion (*Dhvani*).
 
@@ -138,8 +100,6 @@ The Hindu theory of divine incarnation provides a bridge for the passage of the 
 
  Mandodari says in Yuddha, CXIV, 14 to 16 that Rama is Paramātma, Nay, Brahma himself says: **भवान्नारायणो देवः**। (Yuddha,
 
-
-
 CXX, 7 to 29). Dasaratha bears similar testimony (Yuddha, CXXII, 132). See also Uttara, XVII, 35, XXXVII, 105 to 109, LXXVI, 29, XCVIII, 13 etc. In regard to Rama's brothers also similar indications are found. Vide also Bāla, XVIII, 12, 13; Yuddha, LIX, 112, 113, 122; Yuddha, CXXXI, 115; Uttara, CVI, 18, CX, 12.
 
  Though Rama moves ordinarily on the human plane and even says **आत्मानं मानुषं मन्ये रामं दशरथात्मजम्**। (Yuddha, CXX, 12), yet there are passages wherein his words and actions indicate his self-conscious divinity. When he cremates Jatayu and performs its funerals, he orders its soul to attain the highest abode.
@@ -156,8 +116,6 @@ CXX, 7 to 29). Dasaratha bears similar testimony (Yuddha, CXXII, 132). See also 
 
  Another discussion is about what is the heart of the poem — is it a Kavyā (poem) or a Dharma Sāstra (manual of ethics) or a Sara-
 
-
-
 nāgathi Sāstra (a gospel of self-surrender to God) or a Mokshasāstra (a gospel of salvation)? The fact is that the main aim of the work is to depict an ideal man and that it is incidentally a treasury of poetry and ethics and spirituality as well. The poet calls it a poem (**काव्ये रामायणे**—Bāla, IV, 7); he calls it a song (**इदं गीतं**—Bāla, IV, 21); he calls it also as a history (**इदमाख्यानं**—Bāla, IV, 26); **इतिहासं पुरातनं**,—Yuddha, CXXXI, 12). An Itihasa has been defined thus:
 
 **धर्मार्थकाममोक्षानामुपदेशसमन्वितम्।  
@@ -171,8 +129,6 @@ nāgathi Sāstra (a gospel of self-surrender to God) or a Mokshasāstra (a gospe
  the Moolarāmayana exemplifies the Sravana bhakti ın Valmiki and the Keertana bhaktı in Narada. Later on the Keertana bhakti blossomed in its fu'ness in the composition of the great poem sung by Valmīki. Smarana bhakti in its fulness, including the remembrance of the Lord at the time of death, is exemplified by Dasaratha. The Pādaseva bhakti was very dear to the citizens of Ayodhya who desired to go to the forest along with him and serve his lotus feet without intermission. The most perfect Pādaseva was by Sita and Lakshmana. Archana and Vandana were the special privileges of the sages in the forest. *Dāsya bhakti* is at its height in Hanuman while Sakhya bhakti is in excelsis in Sugreeva. In Vibheeshana we see the attainment of the Ātma Nivedana bhakti. But it is in Sita Devi that we find the fulness of all the nine aspects of Bhakti.
 
  Another aspect relates to the inner meaning or the allegorical significance of the poem. Some persons take every fact stated in the poem to be literally true. Others admit the theory
-
-
 
 of poetic licence and poetic enhancement and embellishment. Yet others call the poem as a pure allegory. The fact is that we can have an integral vision of the Truth only when we harmonise and combine and integrate these diverse points of view. Even in regard to the stories in the Vedas about the gods, Yāska says that we can look at every event in the universe from the *ādibhoutika* and the *ādhidaivika* and the ādhyātmika points of view, i.e. the naturalistic and the supernaturalistic and the psychological angles of vision.
 
@@ -196,8 +152,6 @@ and that it means that by Yoga the individuation of the soul is terminated by th
  A famous song by the supreme singer of India—Sri Tyagarajā—says that the word Rama contains the essence of the two most sacred mantras (**रा** in **ॐ नमो नारायणाय** and **म ॐ नमः शिवाय**) and that without those two letters those mantras would not only be not efficacious but will mean the very negation of blessedness. This is stated also in the Rama Rahasya Upanishad.
 
  It is also said that Rama and Lakshmana and Bharata and Satrughna symbolise Bhagavan (God), Bhagavat Kainkarya (serving God), Bhāgavata (Devotee) and Bhāgavata Kainkarya
-
-
 
 (serving devotees) respectively. It is said also that the poem teaches saranāgāthi or prapaththi (self-surrender to god). These ideas bring out beautiful spiritual truths but the poem is all those truths and much more.
 
@@ -224,8 +178,6 @@ and that it means that by Yoga the individuation of the soul is terminated by th
 
  An allegorical interpretation which aims at equating the Ramayana with the Arthapanchaka doctrine of the Vaishnava sect says that Rama is God, Lakshmana is the soul, that seeking God's grace (Saranāgathi) is the *upāya* or means, that the goal (prāpti) is the attainment of God (*phala*), and that the hindrance to such attainment (*prāptivirodhi*) should be overcome. The following verses in the Ramayana are important as bearing on the such allegorical interpretations.
 
-
-
 **ततो रावणनीतायाः सीतायाः शत्रुकर्शनः।  
 इयेष पदमन्वेष्टुं चारणाचरिते पथि॥** (Sundara, I, 1).
 
@@ -235,8 +187,6 @@ and that it means that by Yoga the individuation of the soul is terminated by th
 अस्माद्दुःखांबुसंरोधात्त्वं समाधातुमर्हसि॥** (Sundara, XXXIX, 9; XL, 23).
 
  There are other esoteric interpretations also. One of them is that Valmīki represents the purified soul which met in *Samādhi* the sage Narada who represents the illumined cosmic functionary charged with God's message to Man and that it was Rama who came as the hunter to shoot the krauncha bird so that the Karuna Rasa which was the basic Rasa of the poem might fill the soul of the poet and overflow in verse. In the *Vilāsa Kānda* of the Ānanda Ramayana it is said that Ayodhya is the chidākāsa (the sky of the heart), that Dasaratha is the pure mind that Kausalya is the Sāttvika Buddhi, that Rama is Atma in the Tureeya state, that his brothers are the Atman the three states of walking and dream, and sleep, that the marriage of Sita is union with Mayā etc. Another interpretation that Ravana and Kumbhakarna and Vibheeshana represent the three gunas of Prakriti. Another is that Sita symbolises sruti and was called Vedavati in her previous incarnation and that she is called *Vaidehi* (one who transcends the body) and that she is compared to *Veda sruti* in two places (Aranya, L. 22; Kishkindha, VI, 51). Another is that R in Rama is Agnibeeja (the supernal light of god), that A in Ra implies Maya, and that Mā implies bliss. Another is that in respect of the tree of Ramayana the Gayatri mantra is the seed while Moksha (beatitude) is the fruit. In the Rama Uttara Tapani Upanishad we are taught that in the Om, Akāra (A) is Lakshmana, Ukāra (U) is Satrughnas, Makāra (M) is Bharata, and Ardhāmatra is Rama, and that Sita is Moola Prakriti. In the Sita Upanishad Sita is called the Moola Prakriti. The Rama Rahasya Upanishad says that Ra in Rama is Tat (That) in the Mahavakya *Tattwamasi*, that Ma in Rama is Twam, and that the
-
-
 
 union of Ra and Ma denote Asi. It refers to a composite divinity called Sivomāramachandra.
 
@@ -265,15 +215,11 @@ union of Ra and Ma denote Asi. It refers to a composite divinity called Sivomār
 
  In every great poem we see the presence of universal and national and individual elements, and we see this truth in abundance in Valmiki's *Ramayana,* It is in a special sense the supreme representative poem of India. Winternitz says well:
 
-
-
  “It (the Ramayana) has become the property of the whole Indian people, and as scarcely any other poem in the entire literature of the world, has influenced the thought and poetry of a great nation for centuries”. (*History of Indian Literature,* Volume I, page 476). The poet presents to us in the poem the entire *gamut* of the Indian life. It shows a perfect harmony of social life and spiritual life and the fusīon of ahimsa (non-violence) with Veerya (heroism) and of both with yoga and bhakti and jnana. There is a current view that the 18 Verses (14 to 31 in Ayodhya, CVI) is the Gita in the Ramayana.
 
  Two other equally though diversely great representative poems are Manu's Dharma Sastra and Bhagavad Gita. I regard them and the Ramayana of Valmiki as the highest peaks in the Himalaya of India's cultural achievement. It is worthy of note that Manu has influenced Valmiki's Ramayana, and the latter has influenced the Gita. The Ramayana directly refers to Manu in Bāla, V, 6 and LXX, 21, and Aranya, XIV, 29. It is Manu's ideals of life that form the warp and the woof of the Ramayana. It is the Karma Yoga of the Ramayana that is carried on to the loftiest heights of Rajā Yoga and Bhakti Yoga and Jnana Yoga in the Gita. We do not find only ideological affinities among the three works. We find in them verbal similarities and even identities as can be seen from the following passages which are given only as a few illustrative samples.
 
 [TABLE]
-
-
 
 [TABLE]
 
@@ -286,8 +232,6 @@ union of Ra and Ma denote Asi. It refers to a composite divinity called Sivomār
 **इक्ष्वाकूणा मियं भूमिस्स शैलवन कानना।**
 
  (This earth inclusive of even the hills and the forests belongs to the Ikshvakus).
-
-
 
  Earlier in the poem Vasishita tells Rama that Manu gave the whole earth to his son king Ikshvaku.
 
@@ -305,8 +249,6 @@ and then proceeds to specify various kingdoms in India such as Sindhu, Sauveera,
 
  Looking at the poem further from a geographical angle of vision, it is necessary for us to recollect the details of certain
 
-
-
 journeys described in it. When Viswamitra took Rama and Lakshmana from Ayodhya (Oudh) to Siddhāsrama and thence to Mithila (North Behar and Tirput), the poet had an opportunity in the Bāla Kanda of describing a portion of India. The journeys made by Vashishta's massengers who were sent to fetch Bharata and Satrughna and the journey made by Bharata and Satrughna from Girivraja in Kekaya (in the Punjab) to Ayodhya enabled the poet to describe in the Ayodhya Kānda the countries lying west of Ayodhya. Bharata tells his mother that he reached Ayodhya on the seventh day after he left his uncle's house in Girivraja. (Ayodhya, LXXII, 8). Rama's journey in exile began in Suklapaksha Panchami in the month of Chitra. He went to Chitrakoota which is about 60 miles from Prayāg (Allahabad) and then trekked into the Dandaka forest and Nasik and Pampa and Kishkindha and finally invaded Lanka and conquered it. When Ravanas' car flew to Maricha's Asrama, the poet had an opportunity of describing the South Indian kingdoms. Thus the Ramayana gives us a visual presentation of the whole of India.
 
  We can well claim the Ramayana to be India's representative poem from other points of view as well. We find in it many a record of individual and social and religious customs that have been characteristic of the Hindu Society all along and is characteristic of it even to-day.
@@ -317,8 +259,6 @@ journeys described in it. When Viswamitra took Rama and Lakshmana from Ayodhya (
 
  In respect of the choice of the bridegroom, the girl's father has a XXXit voice (Bāla, XXXII, 21). The marriage ceremonial
 
-
-
 described in regard to Sita’s marriage in Canto 73 of the Balakanda obtains even to this day. It is however worthy of note that the modern taboo about the wife calling the husband by his name or mentioning his name to others or about the husband calling the wife by her name or mentioning her name to others did not obtain in the days of the Ramayana (see Ayodhya, XXVIII, 3, XXX, 29). Ayodhya, CXII, 27; XXVII, 2). Nay, Sita spoke directly to Ravana in anger through placing a blade of grass in front of her, and to Vibheeshana in friendly tones as Rama's friend. A touch of the unchanging India is felt when the poem describes Sita as going up to the gate to see her husband off.
 
 **आद्वार मनुवव्राज मंगलान्यनुदध्युषी। (Ayodhya, XVI, 21).**
@@ -328,8 +268,6 @@ described in regard to Sita’s marriage in Canto 73 of the Balakanda obtains ev
 **चकार रक्षां कौसल्या मन्त्रैरभिजजाप च। (Ayodhya, XXV, 38).**
 
  Worship in temples and fire worship existed then also. (See Bala, LXXVII, 14; Ayodhya, VI, 1 to 4). The worship of deities presiding over structures was prevalent then as now (Ayodhya, LVI, 12) Other interesting domestic habits were the love of women for flowers and fruits and their habit of taking their food after the menfolk have been fed. (See Sundara, XXXVI, 44; Ayodhya, XCV, 37). It is equally interesting to note that the words **क्षेमाय पुनरागमनाय च**। (for welfare and for coming back) which are uttered on auspicious occasions and on farewell occasions were repeated in those far-off times also. (Ayodhya, XXXIV, 31). It may be mentioned also that, though it is often said that in the ancient days food was cooked only by the housewife, it is clear that in well-to-do households as well as on
-
-
 
 occasions when a larger number of people had to be fed cooks were available and were employed as they are to-day. (Ayodhya, XII, 99).
 
@@ -345,8 +283,6 @@ occasions when a larger number of people had to be fed cooks were available and 
 
  The Hindus believed then, as even now, in the science of physiognomy, and the expert in that science was called a Lakshani (see Sundara, XXXV, and Yuddha, XLVIII, verses 2 to 13). Both men and women had as much belief then as now in omens and dreams and in astrology and in propitiatory ceremonies and in the power of *mantras* (incantations) and in *rekhas* (lines and curves) on human palms. See Ayodhya, IV. 18, 19; XII, 4; Aranya, LII, 4; LXIX, 21; Kishkindha, V, 33; Sundara, XXVII, 6, 52; XXIX, 6; Yuddha, II, 26; IV, 6 to 8 ; X, 14 and 15; XLVIII, 2, 6. We see also that worship of rivers obtained then as much as now. (See Sita's prayer to Ganga) Ayodhya, LII, 87 to 89; Sita's prayer to Yamuna, Ayodhya, LV, 24, 29, 30). Equally interesting and modern are the
 
-
-
 customs prevalent on the occasion of the king's coronation and other supremely important social festivities. Lanterns (Deepa Vrikshas) used to be lighted in trees; the roads were watered and flags and festoons fluttered everywhere; Brahmin maidens used to carry flowers and fruits and go round the city; and the coronation ceremony, was similar to what it is in the various Indian States to this day. (See Ayodhya, XV, 7, 8; XLIII, 15; Yuddha, CXXXI, 62, 63).
 
  It is also noteworthy that in Ayodhya, LXXX, 1 to 3 and LXXXIII, 13 to 15, we have an interesting description of crafts and craftsmen, such as potters, weavers, tool-makers, peacock, tail-fan makers, cutters of precious stones, ivory workers-perfumers, goldsmiths, carpet-weavers, actors, singers, dancers, master-builders, carpenters, wall-painters, water-diviners, well borers etc. These types persist to this day. In Ayodhya, LXXX, 4 to 20, we have a detailed and realistic description of road-making for the easy forward march of the army. We have a description of the kings' palaces, of conches being sounded, of the big drum being beaten every *yāma* (3 hours) by a golden rod, and of the kings' being waked by songs in praise of his greatness. (See Ayodhya, LXXXI, 1, 2). In Yuddha, XL, 24 to 27, we have a vivid description of wrestling. It looks as if camels and mules and dogs also were useful animals like cows and horses and elephants and were given as royal gifts. (See Ayodhya, LXX, 22, 29). The poem is full of frequent descriptions of the aereal car Pushpaka Vimāna. It is called **कामग** and **कामगामी** i.e. which will go as desired. (Aranya, XXXII, 15; XXXV, 10, XLVIII, 6; Yuddha, CXXIV, 11; Uttara, XVI, 4; LXXXII, 19). But it is doubtful whether it was mechanically propelled or was borne by Rakshasas as when it was taken by Ravana forcibly from Kubera or borne by the gods as when it was with Kubera (Sundara, VIII, 7; Uttara, XV, 42). But in Yuddha, CXXV, 27, it is described as a self-propelled car.
@@ -354,8 +290,6 @@ customs prevalent on the occasion of the king's coronation and other supremely i
 **राघवेणाभ्यनुज्ञातमुत्पपात विहायसम्।**
 
  The representative character of the poem is seen also in the way in which rooted Hindu ideas and sentiments and emotional
-
-
 
 attitudes are reflected in it. The feeling that if an evil is done the earth will gape open is echoed in Ayodhya, XXXV, 12. The strong Hindu belief in the retributory effects of Karma bringing evil as the fruit of ill-doing is seen in Ayodhya, XXXIX, 4; XLIII, 17; LIII, 19; Yuddha, XXXII, 30. The poem says that the father is fond of the eldest child while the mother is fond of the youngest child. (Bāla, LXI, 18). Other familiar Hindu ideas found in the poem are that to be the father of a girl is a source of anxiety, that if you wish well to a departing guest or relative and wish him to come back soon you must not go with him a long way, that if you are pleased with a person's physiognomy no harm will come to you through him, that if a person studies on the Prathamā, i.e. the first day after the new-moon or the full-moon his learning will be futile, and that if a person does a highly meritorious act he will after death become a star. See Ayodhya, CXVIII, 38; XLI, 50; Sundara, XXXIV, 17; LXIII, 32; Yuddha, XXXII, 19. It is also noteworthy that illustrations familiarly used now in conversation were used then also. Such figures of speech must have been a portion of the current popular wisdom in frequent use and must have been used by the poet to give an air of versimilitude. See Ayodhya, XXXI, 14; LXIII, 60.
 
@@ -367,8 +301,6 @@ attitudes are reflected in it. The feeling that if an evil is done the earth wil
 
  In the Uttara Kānda, XCVI, 19 and 20, the poet says that he is the tenth son of Prachetas and that he performed penance for a long time. It is strangely suggestive that the Ramayana
 
-
-
 begins with the word *tapas* and ends with the word *pravardhatām*, and that these two words, when put together, mean “Let austerity flourish.” There is a tradition that Valmiki was born in the line of Bhrigu who was the son of Varuna (Prachetas). In Uttara, XCVI, 21, he says that he never committed any sin in thought or word or deed.
 
 **मनसा कर्मणा वाचा भूतपूर्वं न किल्बिषम्।**
@@ -379,8 +311,6 @@ begins with the word *tapas* and ends with the word *pravardhatām*, and that th
 सखा परमको विप्रो वाल्मीकिस्सुमहा यशाः॥ (Uttara, XLVII, 16).**
 
  Though Valmiki naturally accepted the crude celestial astronomy and terrestrial geography of his day and repeats the story that the sons of Sagara dug the oceans to a depth which led them to the elephant which bears the earth on its head and that earthquakes are caused when the elephant, tired of its heavy load, shakes its head (Bāla, XL, 12, 14), he was a welltravelled man with an eye to facts and realities. The geographical data in the Ramayana are very clear and precise and remarkable. As stated already, the descriptions of the journey of Viswamitra and Rama and Lakshmana, the journey made by Vasishta's messengers when they went to bring Bharata, the journey made by Bharata and Satrughna when they went to Ayodhya, the journey made by them when they went to bring Rama back, the fourteen years' tramp of Rama and Sita and Lakshmana throughout India, the description of India as seen by Ravana flying in his aereal car to Maricha's hermitage and the description of India as seen by Rama flying back in the same car to Ayodhya etc. are very definite and detailed and picturesque. In a remarkable verse he says that when the earth is seen from on high it appears round.
-
-
 
 **आदर्शतलसंकाशा ततो वै पृथिवी मया।  
 अलातचक्रप्रतिमा दृष्टा गोष्पदवत्तदा॥ (Kishkindha, XLVI, 13).**
@@ -417,8 +347,6 @@ begins with the word *tapas* and ends with the word *pravardhatām*, and that th
 
  The Ramayana abounds in examples of his knowledge of medical science. He refers to the caesarean operation (**गर्भस्य**
 
-
-
 **अन्तोरिव शरुयकृन्तः**, Sundara, XXVIII 6). In another place he refers to the evil wrought to a sick man by neglecting his ailment and by his taking food along with unhealthy accessory articles of diet.
 
 **व्याधयोपेक्षिता इव। (Uttara, V, 8).**
@@ -449,8 +377,6 @@ begins with the word *tapas* and ends with the word *pravardhatām*, and that th
 
  This verse seems to refer to the partiality of the Tamils for wearing flowers. Two great Tamil Scholars of to-day—Mahā-
 
-
-
 vidwan R. Raghava Iyengar, and Rao Sahib M. Raghava Iyengar—are of opinion that the verse refers to the ancient Tamil custom of Tamil kings wearing special flowers symbolising the particular military errand undertaken by them.
 
  It must be thus inferred that the poem is the work of a shrewd, observant, learned, and much-travelled man. This view does not mean any disbelief in genius or in yogic power or in inspiration or in divine grace. Valmiki was as cultured as he was inspired and as inspired as he was cultured. His intellect was as remarkable as his imagination and both were matched by his sympathy with all living creatures and his devotion to God. The story narrated in the poem about pity having blossomed into poesy is unique in the world's literature and contains a great and eternal truth. While the sorrows of life blossomed into wisdom in the case of Buddha, they blossomed into poesy in the case of Valmiki. The verse which came out of his mouth was in Anushtup metre. The metre was an old Vedic metre.But his *anushtup* was a new creation. There came into it a three-fold glory which was unknown before. It reflected a deep poetic emotion (rasa); it had a sweet secondary suggestive sense Vyangya or (dhvani); and it had a sweet rhthmic and melodious and musical grace. (Bala, II, 8, 18, 40, 42). The entire poem describes all the four ideals of life or Purusharthas (Dharma, Artha, Kāma and Moksha), but it specially emphasises Dharma and Moksha.
@@ -462,8 +388,6 @@ vidwan R. Raghava Iyengar, and Rao Sahib M. Raghava Iyengar—are of opinion tha
 **वेदोप बृह्मणार्थाय। (Bāla, IV, 6).**
 
  The Ramayana has seven Kāndas like the Vedas. It is called also the Bhārgava Samhita as Valmiki was a descendant of the great Vedic Sage Bhrigu. A verse repeated every day by the Hindus says that when God took a human form as Rama the Veda which reveals God took the form of Rāmāyana.
-
-
 
 **वेद वेद्ये परे पुंसि जाते दशरथात्मजे।  
 वेदः प्राचेतसा दासीत्साक्षाद्रामायणात्मना॥**
@@ -485,8 +409,6 @@ vidwan R. Raghava Iyengar, and Rao Sahib M. Raghava Iyengar—are of opinion tha
 
  I may refer here to the other Ramayanas current in our country. There are traditions to the effect that Chyavana, Bodhayana, Bharadwaja and others also wrote the life of Rama. But those books are not extant. The Adhyatma Ramayana is a great work and is said to be a portion of the Brahmandapurana,
 
-
-
 The work is in the form of a teaching by Siva to Parvati. The stotra of (hymn) by Ahalya in praise of Rama as contained in it is one of the most splendid hymns in literature. The esoteric element is not only suggested but expressed in that poem and Rama's divinity is affirmed in it again and again. It contains also various departures from Valmiki's story. The most noteworthy variation is that Rama entrusted Sita to Agni (Fire-God) and that only a *Chchayā* Sita (Sita's apparition) was abducted by Ravana and that this fictitious Sita entered fire whereupon the real Sita was brought by the God of Fire!
 
  The Ānanda Ramayana is an original work and is supposed to be a portion of the original Ramayana of 100 crores of verses (Satakoti Ramayana). It consists of nine Kāndas, viz. Sāra Kānda, Yātra Kānda, Yāga Kānda, Vilāsa Kānda, Janma Kānda, Vivaha Kānda, Rajya Kānda, Manohara Kānda, and Poorna Kānda. It contains 109 sargas (chapters) and 12,252 verses. In it Rama takes back Sita after exiling her.
@@ -496,8 +418,6 @@ The work is in the form of a teaching by Siva to Parvati. The stotra of (hymn) b
  The supreme place should, however, be given to Yoga Vasishta or Vāsishta Ramayana. It is one of the greatest works in the philosophical literature of the world. It contains the teachings of Vasishta to Rama when the latter was overwhelmed by a mood of dejection at the evanescence of the world and at the sorrows of life. It's author is Valmiki. The sublimest heights of the Adwaita philosophy are found therein. It stresses also the power of Purushakāra (human effort) to overcome fate, i.e., the results of past karma.
 
  It is said that there is a Vāsishta Uttara Ramayana. It is not fully extant. In the 12th chapter there is said to be a description of the vanquishment of a hundred-headed Ravana by Sita.
-
-
 
  A little more than a passing mention is needed in regard to other Ramayanas. Most of the Puranas describe the story of Rama. We find Rama Upākhyana in the Mahabhārata. The Ramayana as described in the Bhāgawata is brief but inspiring. In it occurs the famous and beautiful verse:
 
@@ -512,8 +432,6 @@ The work is in the form of a teaching by Siva to Parvati. The stotra of (hymn) b
 
  The traditional view is that the Ramayana was composed in the Treta Yuga nearly a million years ago (867102 B.C.). If it is to be accepted there is no problem for solution. On the other hand the orientalists bring down its date to recent times. Weber holds that it was later than the Mahabharata and ascribes.
 
-
-
 it to 3rd or 4th century A.D. Sir Monier Williams ascribes the poem in its present form to the third century B.C. Winternitz is of the same view. (*History of Sanskrit Literature,* page 517). MacDougall says that the kernel of the poem should have existed before the fifth century B.C. (*Ancient History of Sanskrit Literature,* page 309). Keith would ascribe it to the sixth century B.C. (See Journal of the Royal Asiatic Society, 1915, page 318). Jacobi is of opinion that it should have been composed in the 6th or 8th century B.C. Count Bjornstjerna fixes its date as 2,000 B.C.
 
  One truth can however be asserted with certainty. The poem belongs to an epoch later than the embattled state of life of the Aryans in their original Indus home or in their trek in the Gangetic Valley. It refers, as already pointed out, to various settled kingdoms flourishing in North India as well as in South India.
@@ -523,8 +441,6 @@ it to 3rd or 4th century A.D. Sir Monier Williams ascribes the poem in its prese
  Though the traditional view is that the Vedas are eternal and uncreated, yet what research is concerned with is when they were revealed in time. The Rig Veda itself says that the Samhitas contain ancient, intermediate and modern hymns (Rig Veda, III, 32, 13). Mr. Tilaks' *Orion* shows that the Vedas say that the Vernal Equinox was in the constellation of Mrigasirsha or Orion (about 4500 B.C.) during the period of the Vedic hymns and that it had receded to the constellation of the Krittikas or Pleiades (about 2,500 B.C.) in the days of the  
   I may also point out that Mr. V. B. Ketkar refers to
 
-
-
 the statement in the Taittiriya Brahmana (III, 1, 1, 5) that Brihaspathi (Jupiter) was nearly occulting the star Tishya (**बृहस्पतिः प्रथमं जायमानः। तिष्यन्नक्षत्रमभिसंबभूव**) and says that that was possible only about 4650 B.C. Mr. Tilak says: “The oldest period in the Aryan civilisation may therefore be called the Aditi or Pre-Orion period, and we may roughly assign 6000-4000 B.C. as its limits” (Page 206). Mr. Tilak says further that “the last glacial epoch closed and the post-glacial epoch commenced at about 8000 B.C. From this to the Orion period is an interval of about 3000 years”. (*The Arctic Home in the* Vedas page 421). As pointed out above by me, the ancient Aryans lived in their Indian homeland for a long period before a colony of theirs trekked to the Arctic regions and returned after the glacial age and partly settled in Europe and partly returned to India. Mr. PaXXXjee says: “Evidently, therefore, our primitive ancestors as also their genuine thoughts which find original expression in the Rig Veda, were, even from the Vedic, Avestic and geological testimony, considerably older than 10,000 years”. Taking all the abovesaid facts and factors into the consideration, it will be a fair conclusion to fix the date of the composition of the Rig Vedic hymns as 10000 B.C. to 8000 B.C.
 
  But this does not mean that, though the oldest Rig Vedic mantras must be assigned the abovesaid data, mantras were not composed later also. Nor does it mean that the Brahmanas were not even later in date. The Satapatha Brahmana refers to Janamejaya Parikshita and his brothers. The Aranyakas and Upanishads were even later than the Brahmanas. In the Chandogya Upanishad, Krishna Devaki Putra is described as a pupil of Ghora Angirasa and as a teacher of Vedanta. It may be that Krishna was a common name and that the abovesaid Krishna was not Sri Krishna. Vyasa is mentioned as a Rishi in one of the Parisishtas of the Kathaka Brahmana of the Krishna Yajur Veda. Mr. Dixit points out in the History of *Bharatiya Jyotis Shastra* that it is stated in the Satapatha Brahmana:
@@ -532,27 +448,19 @@ the statement in the Taittiriya Brahmana (III, 1, 1, 5) that Brihaspathi (Jupite
 **एताह वै प्राच्यै दिशो न च्यवन्ति सर्वाणि  
 हिवा अन्यानि नक्षत्राणि प्राच्यै दिशश्च्यवन्ते।**
 
-
-
 (These Krittikas or Pleiades do not swerve from the east, while all the other stars do so), Thus at that time the Pleiades rose exactly in the east and must, therefore, have been on the celestial equator. Mr. Dixit says that this could have been about 3300 B.C. to 3600 B.C.
 
  It is thus clear from the abovesaid facts that the oldest Rig Vedic hymns must have belonged to 10000 to 8000 B.C., that mantras (hymns) used to be composed even later, and that the Brahmanas and Upanishads came into existence at an even later date.
 
  So far as the excavations at Harappa and Mohenjo Daro and the light which they throw on Indian antiquities are concerned, we are still in the region of guesses and prejudices. One view is that they prove the existence of an indigenous pre-Aryan Dravidian civilisation which came into India from outside. Dr. Muir thinks that the Dravidians were an offpring of the Aryans after they entered India. I have discussed elsewhere these theories in great detail. There is no more reliable evidence of the Dravidian immigration into India than of the Aryan immigration into India. Nor is there any evidence that both the Aryan and Dravidian civilisations are but descendants of the Sumerian civilisation which arose in Mesopotamia. Some theorists affirm that the Sumerian culture was Dravidian. Sir Arthur Keith says: “They had big, long and narrow heads; their affinities were with the peoples of the Caucasian or European type; and we may regard South-Western Asia as their cradle and until evidence leading to a different conclusion comes to light”. Mr. Wooley also says that, having regard to their physical traits, the Sumerians “were of the Indo-European stock”. One view is that the Mohenjo Daro civilisation belonged to the fourth millennium B.C. and was pre-Aryan. I have shown above how the Aryan civilisation must be assigned to 8000 to 1000 B.C. The fact is that there is no evidence to prove that the Indus-Valley civilisation was pre-Aryan or Dravidian or pre-Dravidian and came into India from Sumeria. It is more likely that just as the Aryans went into Persia, there was
 
-
-
 a spreading of the people in the Indus-Valley into Sumeria. My own view is that India was the original home of both Aryans and Non-Aryans and that the former spread east and west into Punjab and the Gangetic basin from the banks of the Saraswathi and that the latter spread south from the Punjab and that the former also spread south later on and that after some clashes and conflicts they both blended into one people and evolved a common culture. No doubt the basic languages of the so-called Dravidians of South India are quite different in roots and structure from the Sanskrit language, though they are now largely Sanskritised. But it is absurd to talk of Aryan and Dravidian races, as both the communities belonged to one race and the difference of language was not due to any difference of race. I would prefer to call them Aryans and Dravidians without importing any racial idea into such a description. The word *Aryan* merely means noble and the word *Dravidian* merely means that one group finally went to South India. Many scholars assign 3000 or 4000 B.C. to the Indus-Valley civilisation, and it seems to be less old than the Aryan civilisation, which flourished from 10000 B.C. to 8000 B.C.
 
  As I have discussed the matter fully elsewhere,I shall merely record my conclusions here. Both the Rig Vedic and Indus-Valley civilisations are Indian in origin. Both contributed to the formation of Hinduism as it is to-day. Sir John Marshall says in his *Mohenjo-Daro* and *Indus Civilisation*: “But, taken as a whole their religion is so characteristically Indian as hardly to be distinguishable from still living Hinduism”. The worship of Shiva and the Mother Goddess then is very much alive even to-day. The cognate Rig Vedic concepts also have blended therewith to form the Hinduism as it is to-day. It might also be that there were many Aryan communities also in the Indus-Valley though the bulk of them was in the region of the Saraswathi. After all there was no racial or cultural difference despite linguistic difference between the Aryans and the Dravidians and though-there were clashes there were contacts as well. Sir John Marshall himself says: “It may be, nay, it
 
-
-
 more than likely, that this civilisation was the offspring, not of any one race in particular, but of several born *perhaps of the soil itself and of the rivers than of the various breeds of men which they sustained.* For, as far back as history can be traced, the population of Sind and the Punjab has been a blend of diverse elements and there is no reason for assuming that it was other than heterogeneous in the earlier age with which we are now concerned.” As I have said elsewhere: “The most likely theory which fits in with all the facts is that the Punjab and especially the Saraswati region was the immemorial birth-place and home-land of the Aryans; that the Indus-Valley civilisation was probably Dravidian or rather Non-Aryan because of the evidence of the script and the language there (though there are sufficient evidences of its Aryan character as well); that possibly the Non-Aryans spread first into South India; that the Aryans spread east and west and eventually trekked South as well; that it is possible that some of those who were called Rakshasas were such Non-Aryans; that others who were so called were Aryans who had fallen from the Vedic standards; that the Dasyus and Dasas and Asuras were Aryan renegades and not Non-Aryans; and that after various clashes and conflicts, all the social groups coalesced into one great Hindu community, forming a composite culture in which the Aryan element was predominant.” It is thus wrong to say that the Indus Valley excavations have in any manner overthrown the conclusions arrived at by a study of the Rig Veda and a consideration of all the facts relating to it. On the whole Indus Valley civilisation is slightly less old than the Rig Vedic civilisation and the date 3000 to 4000 B.C. can be assigned to it.
 
  Coming down to the Ramayana itself, the first fact to be noted about it that Valmiki was Rama's contemporary. In the Ayodhya Kanda it is said that Rama and Sita and Lakshmana went to Valmiki's hermitage and bowed before him (LVI, 16). He was evidently the bard of the Rama era as Vyasa was the bard of the Krishna era and as Kalidasa was the bard of theXXX era. Both Valmiki and Vyasa were luckier than any
-
-
 
 other epic poet in the world because Homer and Virgil merely summed up older legends and Milton wrote about what no living man could have seen, whereas Valmīki and Vyasa had perfect human beings as their contemporaries. There is thus a ring of biographical verisimilitude in their descriptions. Their faith in their heroes as incarnate Godhead has enabled them to lift their poems not only to aesthetically and morally supreme heights but also to spiritually supreme heights and has lifted their poems to the rank of scriptures. They were also far luckier than Plato who was throughout his life in search of a philosopher-king who would exemplify his ideal of humanity and usher in a golden age of plenty and prosperity and peace and perfection and whose search was dogged by failure at every step and ended in a total and miserable failure at the end.
 
@@ -575,8 +483,6 @@ other epic poet in the world because Homer and Virgil merely summed up older leg
 
  Govindaraja says in his commentary on this verse that it shows that Rama was reigning when the Ramayana was composed
 
-
-
 (**प्राप्तराज्यस्येत्यनेन रामराज्यकरणकाले रामायणकरणमिति गम्यते**).In the Yuddhakanda it is said:
 
 **दश वर्ष सहस्राणि दश वर्ष शतानि च।  
@@ -594,8 +500,6 @@ other epic poet in the world because Homer and Virgil merely summed up older leg
  It thus begins with the arrival of the sages to felicitate Rama after his coronation and before he sent off the guests who had come for the coronation and not merely with the events after the banishment of Sita. It is strange that throughout the Uttarakanda only the past tense is used in regard to the narration of the events of Rama's life including his own ascension to paradise. It will be stranger to say that all these facts were prophetically foretold and recited before Rama in the presence of all. It is also to be noted that the Uttarakanda narrates many events in many chapters up to Sita's disapperance, whereas we have only 14 brief chapters after that event.
 
  From the above facts we may well infer that very probably the poet wrote the poem in sections. Such a method is found elsewhere also. Vyasa's **Harivamsa** and **Bhāgavata** were supplements to the Mahābhārata. Homer's **Odyssey** is but a sequel to his ***Iliad**.* Milton's ***Paradise Regained*** was intended and designed by him as a second part added to his ***Paradise Lost**.* Many centuries later Goethe wrote his famous ***Faust*** and later on added a second part to it. Tennyson wrote ***Morte D' Arthur*** first and later on took up the Arthurian story from the beginning. He further wrote ***Locksley Hall*** and later on added a sequel to it.
-
-
 
  Further, in the Yuddha Kanda there is a separate ***Phalasruthi*** (**फलश्रुति**) or statement of beneficial results which will accrue from a study of the Ramayana. If the entire Ramayana including the entire Uttarakanda was composed at one and the same time and was recited and chanted before Rama, the Phalasruthi will be found at the end of the Uttarakanda alone. But now we have three Phalasruthis—one in the Moola Ramayana, another in the Yuddha Kanda and a third in the Uttara Kanda, while there is no Phalasruthi at the end of any other Kanda. That is a clear indication that the poem was composed in three parts.
 
@@ -617,8 +521,6 @@ other epic poet in the world because Homer and Virgil merely summed up older leg
 धर्मकामार्थसहितं श्रोतव्यमनुसूयया॥**
 
  It is hence clear that the portion of the poem originally composed began with Chapter V and ended with the coronotion. It is
-
-
 
 also to be remembered that it is unlikely that the verses in the past tense in Chapter V about the Ramayana having been sung before Rama and in his presence were themselves sung before Rama. Thus Chapters I to IV must have been added later on.
 
@@ -649,8 +551,6 @@ also to be remembered that it is unlikely that the verses in the past tense in C
 
  After Kusa and Lava were born, he taught the poem as described above to them and they became experts in singing it. Eventually, they sang it in its then form, from Chapter V of the Balakanda to the coronation before Rama himself during his. Aswamedha sacrifice as described in the Uttara Kanda.
 
-
-
  The very word *Uttara* indicates something additional and subsequent to what had gone before. It shows that the composition was a sequel or a later companion volume. If the whole work from **तपस्स्वाध्यायनिरतं** to **बलं विष्णोः प्रवर्धतां** had been written as one whole in the sequence in which it stands to-day, the description would have been not **षट्कांडानि तथोत्तरं** but **तथा कांडानि सप्त च** and there would not have been the inexplicable anomaly of the description that the work consisted of 500 sargas. In fact Kandas I to VI contain 77 + 119 + 75 + 67 + 68 + 131 or 537 sargas whereas the Uttara Kanda alone consist of 111 sargas (Chapters). The fact that the past tense is used throughout the Uttara Kanda shows that it was composed after Rama's ascension to paradise. It is evident that there was but little of glory left in Rama's life after Sita's disappearance and Valmiki had no heart in the writing of any of the post-Sita episodes. The later cantos (XCIX to CXI) in the Uttara Kanda show that Rama was heart-broken (**परमदुर्मनाः—**Uttara XCIX, 3) and lived without her for some time merely doing his routine duties and establishing his sons and Bharata's sons and Lakshmana's sons in various kingdoms to carry on his righteous rule and getting ready for his own ascension to paradise.
 
  I think, further, that Valmiki added later on two Phalasruthis to the two volumes. Evidently they were added after the whole work was finished. That is why in the Yuddha Kanda Phalasruthi it is said in the past tense that Rama performed Aswamedhas and other sacrifices during 10,000 years and reigned for 10,000+1,000 years.
@@ -664,13 +564,9 @@ also to be remembered that it is unlikely that the verses in the past tense in C
 
  Further, the words **पुराकृतं** and **पुरातनं** and **पुरावृत्तमाख्यानं** inXXX**त्वार्षं पुरा वाल्मीकिना कृतम्। इतिहासं पुरातनम्। एवमेतत् पुरावृत्तमाख्यानं भद्रमस्तु**
 
-
-
 Yuddha CXXXI, 106, 116, 122,) show that the Phalasruthi in the Yuddha Kanda was written long after the composition of the poem itself. The words **एवमेतत् पुरा** **वृत्तमाख्यानं भद्रमस्तु वः**occurs also in the Uttara Kanda Phalasruthi (CXI, 25.)
 
  It seems to me, further, that Cantos I to IV of the Balakanda must have been finally added. It is not necessary for the purpose of critical research and re-construction to discount and discredit the beautiful story about the origin of the Ramayana. I am a believer in its truth and it has in it great psychological and aesthetic and spiritual truths. There is no other story like it anywhere else in the world. Of course if the interests of truth require that it should be sacrificed we must do it. But they do not so require. Once we realise with the eye of faith that the poem is not a mere national saga or a mere invented story but is the interplay of the divine and the human, there is nothing crude or abnormal in Valmiki's seeking inspiration from Narada or in Brahma's blessing the poem and in Valmiki's composing the poem after such inspiration and blessing. But that is not the point for consideration here. Taking it that the poem had a divine origin and inspiration and blessing, the question is when the cantos relating to Narada and Brahma were written and added as a prologue to the poem. Sometimes prologues are written after the work is completed as in the case of Tennyson's *Idyils of the King*, and earlier than Tennyson in the case of Goethe's *Faust* which itself was composed in two parts. The poem having been written in two parts with two benedictory epilogues, the prologue kept up the same line of evolution The technique of prophesying was woven into Canto I and also into the Uttara Kanda (see Canto 98). The question is not whether, as a Rishi (sage) blessed by Brahma, Valmiki foresaw, even at the beginning, the grand finale of Rama's earthly career. The question is when the Uttara Kanda which uses the past tense throughout was actually composed. Strangely enough the only places where the future tense is used in the Uttara Kanda are in Canto 98 and in the Phalasruthi portion where there is a statement that Ayodhya will become depopulated and will become the capital again in the time of King
-
-
 
 Rishabha, whereas the main story of the Uttara Kanda is narrated in the past tense.
 
@@ -687,8 +583,6 @@ Rishabha, whereas the main story of the Uttara Kanda is narrated in the past ten
 **अयोध्यायाः पती रामो दीर्घकालं भविष्यति।  
 तत्र पत्नीवियोगं च दीर्घकालं गमिष्यति॥ (Uttara, LI. 20).**
 
-
-
  The verse.
 
 **दशवर्षसहस्रापि दशवर्षशतानि च।  
@@ -700,8 +594,6 @@ which occurs in Bāla, I, 97, occurs also in Uttara, LI, 22.
 
  I do not agree with Mahamahopadhyaya Hara Prasad Sastri's view that the entire Canto I was a later interpolation by another hand and that the cantos containing the Phalasruthi could not have been the work of the original poet. The writing of the Phalasruthi is a favourite literary method. We find it in the Mahabharata and in the Bhāgawata and elsewhere in Indian literature. Nay, we find a brief Phalasruthi in respect of the story of Skanda as narrated by Valmiki in the 37th Canto of the Bala Kanda. My view is that Valmiki himself wrote the poem in three sections as stated above, i.e. the first part, Kandas I to VI, as described above, up to the coronation of Rama, the earlier portion of the Uttara Kanda up to the abandonment of Sita, and then the remainder of the Uttara Kanda, and also added the Phalasruthis and finally rounded off the work into an artistic whole by composing Cantos I to IV of the Bala Kanda, though
 
-
-
 leaving ample traces of a final unification of his compositions.
 
  I have shown above how such a writing of a great work in various sections in found elsewhere also in the literary history of the world. I feel that a careful scrutiny of Valmiki's work leaves us no option but to hold that Valmiki was Rama's contemporary and was the peerless bard of a peerless hero, that the poem in its first stage stopped with Rama's coronation, that in its second stage it stopped at Rama's Aswamedha sacrifice, and that in its third stage it described Rama's later life and ascension. There was only one Phalasruthi at first at the end of the Yuddha Kanda. Later on the phalasruthi at the end of the Uttara Kanda was added and the poem was given a wonderful rounded artistic unity. Finally's Canto 1 to 4 of the Balakānda were added and amptified as stated above with a phalasruthi at the end.
@@ -709,8 +601,6 @@ leaving ample traces of a final unification of his compositions.
  It may very properly be asked why the indirect but artistic method of story-telling which is found in the poem was adopted. If we had a biography of the modern type, the Ramayana will naturally begin with the fifth canto of the Bala Kanda. If we had an epic of the western type, the poem would have ended with the coronation of Rama. The epics of Homer and Virgil end that way. But in India the epics pass on to the supreme heights of renunciation and sublimation of life. The Ramayana is not a mere biography. It is a great poem. It is a great epic poem. It is a great religious epic. It is also a supreme hymn and symphony. If we remember this vital fact, we can realise the significance of the introduction of Cantos I to IV of the Bala Kanda and of the Phalasruthi contained at the end of Canto I of the Bala Kanda, in addition to the phalasruthis at the end of the Yuddha Kanda and at the end of the Uttara Kanda.
 
  I am thus of opinion that there can be no doubt about the contemporaniety of Rama and Valmiki and I hold that Kandas I to VI up to Rama's coronation were composed by the poet soon after the coronation of Rama and that the sequel was written partly during the life-time of Rama and partly after his ascension
-
-
 
 to paradise. The date of the composition of the Ramayana will have to be settled on this basis.
 
@@ -725,8 +615,6 @@ to paradise. The date of the composition of the Ramayana will have to be settled
 
 See also Bhagawata, XIIth Skandha, II, 29 to 33; Vayu Purana, II, 37 to 42; Matsya Purana, CCXXI, 52. The duration of Sri
 
-
-
 Krishna's life is said to have been 125 years and 7 months and 8 days. The Mahabharata says that the race of Sri Krishna was destroyed 36 years after the Great War and that the Pandavas reigned for 36 years after the war and departed from the world soon after the beginning of the Kaliyuga. According to the Surya Siddhanta, Kali Yuga began at midnight on Thursday, 17th February 3102 B.C. In a Nasik inscription in 638 A.D. (Saka Era 560) the year is stated to be 3740 in the Yudhishitra era i.e., the era beginning with victory of the Pandavas in the Great War. I may refer also to Professor Max Duncker's view that “the era of Yudhishtira is said to have preceded that of Vikramaditya by the space of 3044 years and to have commenced about 3100 B.C.” *(History of Antiquity. Vol. IV, page 219*). The indologists of the west and of India give diverse and ir-reconcilable dates as the date of the Great War and hence I think that we ought to accept the traditional date (3139 B. C.) as it has not been disproved and overthrown. The Mahabharata was composed by Viyasa who was a contemporary of Sri Krishna and the Pandavas. I must have been composed about 3000 B.C., though it has been added to and expanded from time to time later on.
 
   What then is the age of Rama and Valmiki and the Ramayana? It was long after the age of the Vedas and must have been long prior to the age of the Mahabharata. I think that the following figures, viz. about 10000 to 8000 B.C. for the Vedas, about 5000 to 6000 B.C. for the Ramayana, and about 3000 B.C. for the Mahabharata are as near the truth as we can reach in the present state of Indian chronology.
@@ -736,8 +624,6 @@ Krishna's life is said to have been 125 years and 7 months and 8 days. The Mahab
 **Characterisation in the Ramayana**
 
   The *Surya Vamsa* or Solar race of Kings is a name to conjure with in India. The Soma Vamsa or Lunar Race of Kings is an equally famous line. The origins of both are mythical and are described in Skandha IX, of the Bhagawata
-
-
 
 and also in other Puranas. Kalidasa's famous poem *Raghuvamsa* describes the Surya Vamsa Kings. The opening lines in Canto I of the poem where he describes them are deservedly famous. Valmiki does not embark upon a lengthy description of them but gives us a peep into their greatness. He says that they were entitled to the overlordship of earth and were always valorous and victorious.
 
@@ -752,19 +638,13 @@ Sri Krishna was the greatest person in the Soma Vamsa. The Hindus believe that b
 
   Valmiki delineates with perfect art fascinating life-story of Rama and Sita and Rama's brothers. It has fascinated the Indian
 
-
-
 nation in his life time and ever after. What is the secret of this fascination? Rama's ***tyāga*** was not the only great act of renunciation in the universe. Buddha's renunciation was a supreme renunciation. The world abounds in similar acts of renunciation. But why should Rama get our heart's homage in a peerless measure? Partly because in his case we find in combination the grace of God and the ethical height of a great man. Partly also it is because he not only exhibited righteousness and renunciation in his own person but kindled that mood by precept and example in others as well. All who came within the sphere of his pervasive influence were pulled up to his unique and supreme level. The poet also is responsible for the peerless hold of Rama on our minds because in no other poem has the poet kept up, as Valmiki has done, his resolve to mingle the human and the divine and present to the world an ideal for all times and climes.
 
   In fact in the literature of the whole world, the three supreme epics of India are unique in that they pass on from righteous enjoyment to supreme renunciation. The ***Iliad*** begins with a quarrel over some girls and ends with the destruction of Troy and the bringing back of the abducted Helen. There is no doubt some similarity of theme between the ***Iliad*** and the Ramayana. Both deal with the fatal influence of beauty, the abduction of a supremely beautiful woman, and the destruction of the abductor and his supporters in war. But what a difference is there between them! The Ramayana is rooted in righteousness and sublimates righteousness into renunciation. No such trait is found in the ***Iliad*** or the ***Odyssey*.** Indeed the reattainment of a disturbed sovereignty appears to be an end in itselt in the literature of the west. Nothing more is found in the ***Eneid*** or in the ***Lusiad*** or *the **Chronicles** of the Cid* or the crude fifth-rate ***Beowulf***. It is only in India that we hear of the empire of renunciation as being higher than the empire of power and wealth and fame and love and enjoyment. Nowhere else has it been said that the highest bliss is in the highest renunciation. ***Tena Tyaktena Bhunjeeyath*** says the Isavasya Upanishad. It is only in the ***Ramayana*** and the Mahabharata that we find the heroes laying down the crown and going on a march
 
-
-
 of renunciation. The ***Paradise Lost*** has no doubt a great theme. But when we compare it with the Bhagawata we find the supremacy of the latter both in regard to the doctrine of repentance and redemption and the doctrine of God's goodness and grace.
 
  The supreme beauty and charm of Valmiki's power of characterisation has deservedly evoked many admiring tributes by great scholars in the West. Schugel calls the Ramayana as “the noblest of the epics”. Principal Griffith says: “Well may the Ramayana challenge the literature of every age and country to produce a poem that can boast of such perfect characters as a Rama and a Sita......Nowhere else are poetry and morality so charmingly united, each elevating the other as in this really holy poem”. Sir Monier Williams says: “There are in the whole range of the world's literature few more charming poems than the Ramayana. The classical purity, the clearness and simplicity of its style, the exquisite touches of rare poetic feeling with which it abounds, its graphic descriptions of heroic incidents and of Nature's grandest scenes, the deep acquaintance it displays with the conflicting workings and most refined emotions of the human heart—all entitle it to rank among the most beautiful compositions that have appeared at any period and in any country”. He says further: “Yet there are not wanting indications in the Indian Epics of a higher degree of cultivation than that represented in the Homeric poems......A deep religious meaning appears to underlie all the narrative….....And in exhibiting pictures of domestic life and manners, the Sanskrit epics are even more valuable than the Greek and Roman”. He says further: “Although the Hindus, like the Greeks, have only two great epic poems, namely, the Ramayana and the Mahabharata, yet to compare these with the Iliad or the Odyssey is to compare the Indus and the Ganges rising in the snows of the world's most colossal ranges, swollen by numerous tributaries spreading into vast shallows or branching into deep divergent channels, with the streams of Attica or the mountainous torrents of Thessaly.”
-
-
 
 **I. SRI RAMA**
 
@@ -789,8 +669,6 @@ of renunciation. The ***Paradise Lost*** has no doubt a great theme. But when we
 **शुश्रूषमाणा ते नित्यं नियता ब्रह्मचारिणी।  
 स्वर्गेऽपि च विना वासो भविता यदि राघव।  
 त्वया मम नरव्याघ्र नाहं तमपि रोचये॥**
-
-
 
 **वने विवत्स्यामि यथा पितुर्गृहे तवैव पादावुपगृह्य संमता॥**  
 **(Ayodhya, XXVII, 11, 12, 20, 21).**
@@ -824,8 +702,6 @@ of renunciation. The ***Paradise Lost*** has no doubt a great theme. But when we
 
  When we come to the sages, we find that they knew his divine qualities and prowess and yet were partly fascinated by
 
-
-
 his peerless beauty and parily eager to confirm his vow to act and behave like a man. That is why they do not proclaim clearly his being a divine incarnation. Narada calls him a perfect man and Sita as a perfect woman.
 
 **बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः।  
@@ -858,8 +734,6 @@ See also Bala XXII, 13 and 14.
 
  Most remarkable of all is the imperturbable reticence Rama himself. He speak of himself of a man but acts like 
 
-
-
 and makes us feel his divinity and surrender our hearts to him in a passion of prayer for his grace.
 
  Such was Rama and such was his greatness. We feel that devotion to him will purify and uplift and save us. We can exclaim with Sabari:
@@ -878,8 +752,6 @@ and makes us feel his divinity and surrender our hearts to him in a passion of p
 शापानुग्रहयोः शक्तः सत्यसन्धो भवेदृषिः॥**
 
  Rama says about himself that he is like a Rishi and does not wish to live in the earth merely for wealth or power or enjoyment.
-
-
 
 **नाहमर्थ परो देवि लोकमावस्तुमुत्सहे।  
 विद्धिमामृषिभिस्तुल्यं केवलं धर्ममास्थितम्॥ (Ayodhya, XIX, 20).**
@@ -907,8 +779,6 @@ Valmiki slightly alters the above enumeration of the qualities so as to fit in w
 **सत्येन लोकान् जयति दीनान् दानेन राघवः।  
 गुरून् शुश्रूषया वीरो धनुषा युधि शात्रवान्॥**
 
-
-
 **सत्यं दानं तपस्त्यागो मित्रता शौचमार्जवम्।  
 विद्या च गुरुशुश्रूषा ध्रुवाण्येतानि राघवे॥ (Ayodhya, XII, 29, 30).**
 
@@ -930,8 +800,6 @@ Rama's love for his kith and kin and for the public was as deep as their love fo
 
 **किं समर्थं जनस्यास्य किं प्रियं किं सुखावहम्।  
 इति रामेण नगरं पितृवत्परिपालितम्॥ (Ayodhya, LVII, 14).**
-
-
 
 **यथा च भ्रातृषु स्निग्धस्तथास्मास्वपि राघवः। (Ayodhya, VI, 23).**
 
@@ -957,8 +825,6 @@ But yet an attempt will here be made by me to do so as well as it may be done wi
 
 I have already referred to Maricha's description of the boy Rama as he appeared along with Viswamitra. I know that much captious criticism is made in regard to the detailed description of Rama's person in Canto XXXV of the Sundara Kanda. Such a description is merely a literary technique to show the poet's knowledge of the science of human loveliness (Sāmudrikā Lakshmana). In Sundara Kanda Chapter XXVII verse 45 Hanuman refers to the faultless perfection of Sita's beauty and say that every portion of her form was perfect in its loveliness, Nay, Sita herself gives a full list of her physical perfections in Yuddha Kanda, Canto XLVIII.
 
-
-
  Valmiki describes also Rama's mental excellences. Rama was young in age but old in wisdom. He combined softness and sweetness.
 
 **ज्ञानवृद्धो वयो बालो मृदुवीर्यगुणान्वितः। (Ayodhya, XLV, 8).**
@@ -982,8 +848,6 @@ Yet he revealed it in words when swept out of his usual composure by any indigni
 
  Among the most charming qualities of Rama were his high sense of royal duties and his magnanimity in peace and war. That was why he won the love of even his foes (**रिपूणामपिवत्सलः**—Yuddha, L, 56). The most charming feature about Rama's military gloryis his vow to give *abhaya* (refuge and protection) to all. See Yuddha, XVIII, 3, 33. As a statesman and as a ruler he wasmerciful to all but he was stern to the evil-doers.
 
-
-
 He attended to his public duties with unremitting attention. He felt miserable because for four days after he sent away Sita he was prostrate with grief and did not attend to public affairs. (Uttara, LV, 4, 6).
 
  I may refer here to certain other rare qualities of Rama before proceeding to deal with his peerless moral and spiritual qualities. He was very playful and charming and affectionate in his domestic relations and especially towards his mother,
@@ -1002,8 +866,6 @@ He used to embrace his friends whom he fondly loved. The joy of such embrace was
  Further, he had always a high reverence for womanhood. Even under the greatest provocation, and even in regard to Kaikeyi or even to Surpanakha, he never did an unkind act or used a hush word or even harboured an adverse thought towards them. He would not even look at the wives of others and was of immaculate purity. (See Ayoddhya, LXXII, 48; Aranya IX, 3 to 6.)
 
  His love for Sita was as pure as it was boundless all through his life. The poet's description of in the Aranya Kanda of Rama after separation from Sita is one of the highlights of universal literature. The description of longing love and of nature's moods in relation to human moods has reached its highest peak in the world's literature in Chapters I and XXX of the Kishkinda
-
-
 
 Kanda. The delineation of the mutual devotion of Rama and Sitā is another of the highlights of the world's literature and that ideal love is still the beaconlight of India's heart..
 
@@ -1042,8 +904,6 @@ He was equally desirous that his father's love of truth should not be marred in 
 
 In the same manner the other basic virtues stated by Manu, viz. ahimsa, astheya, saucha and indriyanigraha, i.e. non-injury,
 
-
-
 non-covetousness, purity and self—control, were vital elements of his moral nature. His nature was one of singular balance and he was never elated by success or depressed by failure.
 
 **न वनं गन्तुकामस्य त्यजतश्च वसुन्धराम्।  
@@ -1068,8 +928,6 @@ He sends the same affectionate farewell to her through Sumantra as to his own pa
 His affection for Jatayu is equally remarkable. (Aranya, LXVII. 29). He is called **भृत्यानुकंपी** (tender to his servants and dependents, Ayodhya, LII, 59). Nay, he was attentive to the feeding and welfare of his horses (Ayodhya, LI, 45, 46).
 
  While he had peerless comradeship for his equals and supreme compassion for his inferiors, his love rose to the heig
-
-
 
 of his devotion in regard to his elders. He respected those who were his elders in wisdom and conduct and age. He used to spend much time in their company and learn from them and win their love. This is a vanishing trait in the modern age.
 
@@ -1099,8 +957,6 @@ He was the protector of all good people and the refuge of all who were in distre
 
  Though Rama was always of a cheerful and peaceful and mild and calm and quiet and loving and forgiving disposition, yet on occasions when he was compelled to fight or punish or admonish or reprimand he knew how to assume and exhibit krodha and nigraha (anger and punishment)—which, however, was only intended to be an eventual *anugraha* (grace) in disguise.
 
-
-
 In the Moola Ramayana Narada puts in the same verse his anger and his forgiveness.
 
 **कालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः॥ (Bāla, I, 18).**
@@ -1114,8 +970,6 @@ Valmiki says: **अमोधक्रोधहर्षश्च** (Ayodhya, I, 
 
 **भूतानां स्थावराणां च जंगमानां च दर्शनम्।  
 यथास्ति न तथा धर्मस्तेन नास्तीति मे मतिः॥**
-
-
 
 **यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः।  
 यस्यार्थाः स पुमां ल्लोके यस्यार्थाः स च पंडितः॥  
@@ -1133,8 +987,6 @@ See also Bala, XXXI, 2; XXXV, 8; LXV, 32; Ayodhya, XLVI, 13; XLIX, 2; L, 48; LVI
  (Uttara, LXXXIII, 20).**
 
 Rama's worship of God Narayana is referred to again and again by the poet who indicates thereby that such a spiritual quality is the supreme realisation of life.
-
-
 
 **सह पत्न्या विशालाक्ष्या नारायणमुपागमत्।  
 ध्यायन्नारायणं देवं स्वास्तीर्णे कुश संस्तरे॥ (Ayodhya. VI, 1, 3).**
@@ -1158,8 +1010,6 @@ Rama's worship of God Narayana is referred to again and again by the poet who in
 
 But such a flaming affection was also a reverential affection and a discerning affection and was broad-based an a perception of Rama's qualities. He says that he is Rama's younger brother by birth but is Rama's bond-slave because of Rama's virtues. (**अहमस्यावरोभ्राता गुणैर्दास्यमुपागतः**—Kiskindha, IV, 12—See also
 
-
-
 Ayodhya, XXXI, 10, 23, 25; LVIII, 31). When Kabandha scizes him, the poet says that he was in fear for Rama's sake and asked him to offer him to the demon and save himself. (Aranya, LIX, 37, 39).
 
  Equally sincere and reverential was his devotion to Sita. When Rama refused to allow him to go with him, he fell at Rama's feet and prayed to Sita to plead with Rama for him (Ayodhya, XXXI, 2). He says later to Rama in a justly famous verse that he had seen only Sita's feet and not her form above her feet.
@@ -1178,8 +1028,6 @@ In this way she atoned for her ireful words to him when he refused to go in sear
 
  Lakshmana's nature was thus a composite one. His devotion to others never blinded him to their faults and he freely spoke out his mind. Though he was soft by nature (**मृदुस्वभावः**—Kishkindha, XXXVI) his ire flamed forth when Dasaratha banished Rama (though he afterwards repented for his anger and cleansed his sin by praising Dasaratha in reverential terms, See Kishkindha, IV, 6, 7, 19), and when Sugriva forgot his
 
-
-
 pledged word to Rama. (Ayodhya, XXI, 3, 12, 13; LVIII, 31;XXI, 11; XXIII, 2 to 6; Kishkindha, XXXIV, 13, 18). Rama refers also to Lakshmana's keenness of vision.
 
 **सर्वतश्चार्यतां दृष्टिः कानने निपुणोह्यसि॥ (Āranya, XV, 3).**
@@ -1197,8 +1045,6 @@ While Rama always harmonised fate and freewill, Lakshmana was always prone to ex
 On another occasion Rama, when he was sore pressed by grief after Sita's abduction, took an ireful attitude and threatened to destroy the world, Laxmana pleaded with him to abate his ire. (Aranya, LXIV, 55, 56; LXV, 4, 9, 10). But ordinarily it was Rama that pulled up Laxmana when the latter's anger went beyond limits, e.g. when Laxmana spoke ill of Bharata and when he forgot Rama's express command and his own implicit obligation to protect Sita though he was cut to the quick by Sita's words. (Ayodhya, XCVI, 24; XCVII, 2; Aranya, LIX, 214). Rama was transported with joy when Laxmana saw Bharata's moral grandeur and praised him and thus purified himself of the sin of speaking ill of a good and godly man (Aranya Kanda, XVI, 27 to 36).
 
  Rama always turned to Laxmana and leaned on him when he needed help and comfort. When Laxmana built a hermitage for Rama on the banks of the Godavari, Rama was transported with joy and embraced him and said that as long as Laxmana
-
-
 
 was by his side he felt that his own father was alive and protected him.
 
@@ -1228,8 +1074,6 @@ In two places Rama calls Laxmana his right hand and his life in an external form
 
 **रामादपि हि तं मन्ये धर्मतो बलवत्तरम्। (Ayodhya, XII, 62).**
 
-
-
 After Rama's banishment Kausalya in her deep grief doubts his nobility and sincerity but soon perceives his greatness.
 
 **दिष्ट्या न चलितो धर्मादात्मा ते शुभलक्षणः।  
@@ -1257,8 +1101,6 @@ Bharata however sticks to his resolve to do his duty to bring Rama back. When La
 
 **उच्यमानोऽपि भरतो मया लक्ष्मण तत्त्वतः।  
 राज्यमस्मै प्रयच्छेति बाढमित्येव वक्ष्यति॥ (Ayodhya, GXVII, 18).**
-
-
 
 The resolve with which Bharata leaves the army behind and goes on foot to Rama is one of the high-lights of literature.
 
@@ -1293,8 +1135,6 @@ The resolve with which Bharata leaves the army behind and goes on foot to Rama i
 **आघ्राय रामस्तं मूर्ध्नि परिष्वज्य च राघवः।  
 अंके भरतमारोप्य पर्यपृच्छत्समाहितः॥ (Ayodhya, C, 3).**
 
-
-
 The verses describing the dialogue of Rama and Bharata and the gift of Padukas (sandals) by Rama to Bharata are unmatched in dignity and beauty in the whole of the world's literature. When finally Rama sends Hanuman to see how Bharata receives the news of his return and to judge if Bharata wants to reign himself and also tells Hanuman that Bharata should reign if he wants to do so, he does so to make Bharata's nobility known to the whole world. After Rama returns, Bharata remembers Rama's injunction to him to protect Kaikeyi and not to be angry towards her (**मातरं रक्ष कैकेयीं मा रोषं कुरु तां प्रति**—Ayodhya, CXII, 27) and tells Rama that he had been worshipping her (**पूजिता मामिका माता**—Yuddha CXXXI, 2). When Rama proposes to crown Lakshmana as Yuvaraja, Bharata does not object but Lakshmana declines and then Rama crowns Bharata as Yuvarajah. Rama says about him:
 
 **न सर्वे भ्रातस्तात भवन्ति भरतोपमाः। (Yuddha, XVIII, 15.)**
@@ -1305,8 +1145,6 @@ The verses describing the dialogue of Rama and Bharata and the gift of Padukas (
 **Satrughna.**
 
  The characterisation of Satrughna is not one of the strong points of the poem. The poet deliberately made him, so to say, an annexure of Bharata. But though the character of Satrughna is but feebly limned, yet the poet has made it clear and distinctive enough. Whenever he names Satrughna, he often adds an adjective Nitya Satrughna (the killer of the eternal inner foes). (See Ayodhya, I; Yuddha, LXVIII, 11.) When he sees Manthara he has a sudden fit of anger and tries to cut her down and kill her. But Bharata restrains him, saying that women must not be killed and that he himself would have killed her and Kaikeyi but knew that Rama would not pardon him if he did so. (See Ayodhya, LXXXVIII, 21 to 23). Satrughna follows Bharata when the latter goes to seek and bring Rama back. We see him next only in the Uttara Kanda. When Rama asks him to fight and kill Lavanāsura, who is the King of Madhupuri and who is the son of Madhu, and to be crowned as king there, he demurs saying that while an elder.
-
-
 
 brother is uncrowned, the younger brother should not be crowned. But Rama crowns him immediately and he obeys Rama. He goes to Valmiki's asrama and that very night Sita's confinement takes place and Kusa and Lava are born. Lavana is eventually killed by him. He rebuilds Madhupuri during twelve years and goes back to Valmiki's hermitage and hears the Ramayana and then goes to Rama and stays there for seven days. He reigns afterwards at Mathura as per Rama's orders. When Bharata sends word to him about Rama's proposed ascent to heaven Satrugha divides his kingdom between his sons and goes to Rama and ascends to heaven with Rama.
 
@@ -1337,8 +1175,6 @@ He is very old when his four sons are born. He loved them all but is passionatel
 
 XXXthe same time he is passionately attached to Kaikeyi. The XXXeven says that he was a *Kāmi* (a lover of feminine beauty
 
-
-
 and a desirer of sexual pleasure and a henpecked husband.), See Ayodhya, X, 17, 23, 27; XI, 1, 4; LII, 23; LIII, 8). His infatuation for the young queen Kaikeyi is very great. He neglects his eldest queen Kausalya and exposes her to indignities, (See Ayodhya, XX, 38, 39). He feels bound by the promised boons and feels quite unable to refuse to grant the boons demanded by Kaikeyi. He prays to her not to press for them.
 
 **अंजलिं कुर्म कैकेयि पादौ चापि स्पृशामि ते।  
@@ -1365,8 +1201,6 @@ A spark of energy shines in him when Kaikeyi gives a bark dress (Valkala) to Sit
 
 He eventually dies of grief due to separation from Rama and in the presence of Kausalya and Sumitra and abusing and denounc-
 
-
-
 Kaiing keyi to the last. When after Sita's fire test, he meets Rama having come from heaven to do so, Rama prays to him to forgive and bless Kaikeyi and Bharata and to recall his curse that he abandoned them. At Rama's request Dasarata recalls his curse and forgives and blesses Kaikeyi and Bharata.
 
 **IV. OTHER MALE CHARACTERS.**
@@ -1381,15 +1215,11 @@ It is then that Sumantra's pent up sorrow bursts forth and bears him along (Ayod
 
  Of the sages (rishis) Vasishta and Viswamitra and Bharadwaja are drawn clearly, the others being more or less shadowy figures. Vasishta is described again as **जपतां परः** or **जपतां श्रेष्ठः** (the best of those who pray) (Bāla, LII, 1, 6; LV, 6; LVI, 13; LXV, 22, 24). He is called Brahma Vādi (teacher of Brahman). See Bāla, XXVI, 4. The reference is to Vasishta's teaching of spiritual truths to Rama as embodied by Valmiki in *Yoga Vāsishta*. Vasishta walks calmly through the stage of the Rama epoch as a great power of wisdom and equipoise. And yet when Rama is banished out of Ayodhya and Kaikeyi gives a bark dress (Valkala) to Sita, Vasishta is swept out of his usual majestic calm and shows anger at white heat and says that Sita
 
-
-
 should not go to the forest and that even if Rama goes to the forest Sita can rule the kingdom because of the identity of husband and wife and that if Sita went into the forest with Rama he would go with them and that Bharata and Satrughna and all the subjects would go with them, leaving Ayodhya as an empty city for Kaikeyi to rule over it (Ayodhya, XXXVII, 26 to 33). The poet himself uses the word jalpathi (talks incoherently) when describing this tirade of Vasishta (**एतस्मिंस्तथा जल्पति विप्रमुख्ये**) (Ayodhya, XXXVII, 37). Later yet when Jābali preaches an agnostic philosophy to lure Rama back and Rama flares up in ire, Vasishta calms him and says that Jabali knows the truth but wants to induce Rama to return. Vasishta himself commands Rama to return. But Rama's reply is so clear and convincing that all the subjects of the kingdom applaud it and Vasishta has to bow to it. He has eventually the great joy of crowning Rama and being his guide, philosopher and friend throughout his life.
 
  Viswāmitra is an even more picturesque figure in the Ramayana. Satānanda describes his career in full the Bālakanda, sargas 51 to 65. When Dasaratha refuses to send Rama, Viswamitra is full of ire. Vasishta pacifies him and advises Dasaratha to send Rama as demanded by Viswamitra. When the latter goes into the forest with Rama and Laxmana, he is their playful companion while being their guru. He tells them the great stories of what was then the past of India. His main purpose in life is to complete Rama's equipment as the supreme hero by imparting all the divine *asthras* to him and to see him married to Sita. Again and again he threw away the acquired merit of penance to save persons in sore straits. Hence he is the fittest man to teach and train Rama as the supreme embodiment of heroism and compassion. After the marriage of Rama and Sita, he disappears from the Ramayana altogether.
 
  The description of Bharadwāja is one of the highlights of the poem. His wonderful penance and powers are glowingly described (**संशितव्रतमेकाग्रं तपसा लब्धचक्षुषम्**—Ayodhya, LIV, 11). Acting on his advice, Rama goes to the Chitrakoota hill. When
-
-
 
 Bharata goes to fetch Rama, Bharadwaja gives him and his army a grand reception and dinner. He tells Bharata that Rama's exile would prove to be a service of great blessing to the universe (Ayodhya, CXII, 29, 30). When Rama returns along with Sita and Laxmana and his innumerable new allies and followers, the sages asks him to stay in his hermitage for a day and partake of the unparalleled and lavish hospitality offered by him, I have already referred to the sage Jābāli. Satānanda is the purohit (priest) of Janaka. He is the son of Gautama and Ahalya. He shows a very charming trait when he is overjoyed at the lifting of the curse on his mother because of Rama's grace (Bāla, LI, 4 to 9). It is he that tells Rama the marvellous history of Viswamitra's life.
 
@@ -1404,8 +1234,6 @@ Bharata goes to fetch Rama, Bharadwaja gives him and his army a grand reception 
 **कुले महतिसंभूते धर्मज्ञे धर्मचारिणि। (Ayodhya, XXVI, 20).**
 
 See also Ayodhya, XXVIII, 13; Sundara, XVI, 151.
-
-
 
  The poet is never tired of praising her peerless beauty. (Sundara X, 13). He calls her lotus—eyed (**पद्मपत्रविशालाक्षी**—Kishkindha I, 67, 100) and moon-faced (**पूर्णचन्द्राननां** Sundara, XV, 28). He says that her complexion was like gold (**कनकवर्णांगी**) (Sundara XV, 48; XVI, 21) and her body was soft and silken and smooth (**मृदुसवगात्री**—Sundara, XXVIII, 19), and that her breath was like the fragrant breeze (**निःश्वास इव सीताया वाति वायुर्मनोहरः।** (Kishkindha I, 72) and that the always spoke with her lips parted in a charming smile (**सुस्मितभाषिणी**—Sundara, XVI, 21). He says that she was as beautiful as Rama was handsome and that each deserved the other, and that the empire of the whole world could not equal the empire of her heart.
 
@@ -1433,8 +1261,6 @@ She lived with Rama in their palace at Ayodhya for twelve years before they went
 the most important words are **सहधर्मचरी, पतिव्रता** and **महाभागा**. They import the absolute harmony of ideas between Rama and Sita, her purity and her nobility. Just as he is the incarnation of Dharma (**रामो विग्रहवान् धर्मः**), she also is Dharma incarnate.
 
 **धर्माद्विचलितुं नाहमलं चन्द्रात्प्रभा यथा॥ (Ayodhya, XXXIX, 28)**
-
-
 
 The later portions of the poem bring out these qualities forcefully and faithfully. She adores Rama as God and respects Kausalya and Sumitra and Kaikeyi with equal love and reverence (Uttara, XLI, 27). She pleads with Rama to be allowed to accompany him into exile and tells him that astrologers had predicted that she would have to live in the forest and that she is pining for *Vana-Vāsa* (forest life) with him.
 
@@ -1465,8 +1291,6 @@ The mutual love of Rama and Sita is this described by the poet in immoral words.
 
  In the Sundara Kanda we find her moral greatness at its sublimest height. She lives a famished, ill-clad, grief-stricken life in Asoka Vana. The verses beginning with the famous verse
 
-
-
 **ततो मलिनसंवीतां राक्षसीभिस्समावृताम्।  
 उपवासकृशां दीनां निश्वसन्तीं पुनः पुनः॥ (Sundara, XV, 18).**
 
@@ -1495,8 +1319,6 @@ Her invocation to the god of fire to be cool to Hanuman when the cloths tied rou
 **यद्यस्ति पतिशुश्रूषा यद्यस्ति चरितं तपः।  
 यदि वास्त्येकपत्नीत्वं शीतो भव हनूमतः॥ (Sundara, LIII, 27, 28).**
 
-
-
  The poet refers to various sweet and charming traits of her character such as her smile-lit softness and sweetness and splendour of speech, her patience, her courtesy, her playfulness, her love of flowers and silk garments and shining ornaments, her piety, etc.
 
 **बालेवरमता सीता बालचन्द्रनिभानना। (Ayodhya, LX, 10).**
@@ -1524,8 +1346,6 @@ Hanuman is transported by her noble forgiveness and says that she is eminently f
 
 **युक्ता रामस्य भक्ती धर्मपत्नी यशस्विनी। (Yuddha, CXV, 48).**
 
-
-
  When Rama speaks in a tone of anger and discards her, he uses a comparison which shows his consciousness of her purity (**दीपो नेत्रातुरस्येव**—Yuddha, CXVIII, 17). In that heart-rending scene, she maintains her dignity and calmness and expresses her love and tenderness for him and enters the flaming fire (Yuddha, CXIX, 24). All the gods testify to her purity and Rama himself says that he imposed the fire-test only to convince the world. (Yuddha, CXXI, 16, 17).
 
  Her greatest trial is when Rama abandons her because the public are against his acceptance of her after she had been for a year in another's house. As a lover he loves her; as a husband he loves and respects her; but as a public man and a king who has to set an example to all, he banishes her, even though she is then with child. What is her reaction? She is full of grief but does not revile him. (Uttara, XLVIII, 3, 4, 14). After hearing the Ramayana sung by Kusa and Lava, Rama sends word to Sita to come to the royal hall and take a solemn oath in the presence of all. She comes with Valmiki. The entire audience is moved to tears and cries, “O holy Rama”; “O holy Sita?”.
@@ -1544,8 +1364,6 @@ Valmiki's affirmation of her purity in that great assembly is one of the supreme
 
 **यथैतत्सत्यमुक्तं मे वेद्मि रामात्परं न च।  
 तथा मे माधवी देवी विवरं दातुमर्हति॥**
-
-
 
 In response to her call, the Goddess of the Earth, whose child she is, comes in a heavenly throne and takes her away in her arms into the Earth. The spectators are rapt in grief and ecstacy and devotion. What a glorious departure from the world! 'The world's literature shows no parallel to it anywhere else.
 
@@ -1578,8 +1396,6 @@ In the Rama Poorva Tapini Upanishad it is said:
 
  We hear only the names of the queens of Rama's brothers in the poem. They do not play any part in the story of Rama's life. But the poet has clearly portrayed the queens of Dasaratha, viz. Kausalya and Sumitra and Kaikeyi. Kausalya is a dignified matron who was neglected by Dasaratha after he married young and beautiful junior wives. She has a reverential love for Dasaratha and a passionate and boundless love for Rama
 
-
-
 (Ayodhya, XX, 87). She gladly blesses him and sends him with Viswamitra. She is very pious by nature and prays to God Narayana to bless her son.
 
 **प्राणायामेन पुरुषं ध्यायमाना जनार्दनम्॥ (Ayodhya, IV, 33).**
@@ -1599,8 +1415,6 @@ She then consoles Kausalya and adopts a calm and heroic and dharmic attitude and
 
  The poet gives us a full length portrait of Kaikeyi. She is a keen-minded woman of the world who is vain of her beauty and who has yet got some noble natural qualities but is primarily worldly-wise and self-willed and imperious and even haughty in nature. I shall discuss later on some of the knotty problems which centuries of subtle scholarship have raised and debated about her impulses and motives. She was very young when
 
-
-
 she was married to Dasaratha who was then very old. Sumantra says that her mother was even more self-willed than her and insisted on her husband revealing a secret which would result in his death. In a greaf battle fought by Dasaratha to aid the gods against the demons, she was his charioteer and gave him such help as enabled him to achieve fame and victory. His infatuation for her which was caused by her wonderful beauty soon became boundless because of the way in which she served him and held him in the securer and stronger bonds of grateful affection created in him by her bright mind and intellectual charm and her loving alluring ways. He was always found in her royal apartments and neglected his other queens.
 
  It is with this background that the poignant drama of the *Ramayana* begins. When Kaikeyi heard from Manthara, her hunch-backed maid, about the proposed coronation of Rama as Yuvaraj, her first reaction was one of joy.
@@ -1618,8 +1432,6 @@ She insisted on the king granting her the two boons promised to her in the battl
 **पपात देव्याश्चरणौ प्रसारितावुभावसंस्पृश्य यथातुरस्तथा॥  
                                 
 (Ayodhya, XII, 115).**
-
-
 
 Neither threats nor commands nor entreaties nor abject prayers could move her and he had to grant her demand which were couched as requests. She gave bark dresses to Rama and Lakshmana and even Sita. It was this hard-hearted giving of bark dresses to Sita which was no portion of the boons demanded by her—which roused the total ire of Sumantra and Vasishta and Dasaratha. While all around her wept, her eyes were dry.
 
@@ -1641,8 +1453,6 @@ After hearing Bharadwāja (Ayodhya, XLII, 29 and 30) and Rama (Ayodhya, CXII, 27
 
 She has remarkable intelectual subtlety and persuasive power. She asks Kaikeyi whether she understood why the king had
 
-
-
 sent Bharta away just then. Kaikeyi is convinced by her arguments. Manthara suddenly becomes beautiful in her eyes and she gives her valuable dresses and jewels. She says that Manthara's crookedness was like that of a lotus bent by the breeze.
 
 **सन्ति दुस्संस्थिताः कुब्जा वक्राः परमपापिकाः।  
@@ -1660,8 +1470,6 @@ Satrughna flared up on seeing her evident smug self-satisfaction and tried to cu
  Gautama's wife Ahalya and Atri's wife Anusuya are briefly sketched in the poem. The former was the most beautiful of all the women created by the Creator and recovers her human form by Rama's grace and shines with a heightened and purified beauty as the result of her penance and holiness (**तपसा द्योतितप्रभाम्**—Bāla, XLIX, 14) and becomes one of the greatest devotees of Rama. The latter shows affectionate reverence to Sita and gives her sandal-paste and dresses and jewels and garlands and embraces her (Ayodhya, CXIX, 1).
 
  Swayamprabha in her wonderful cave is one of the marvellous creations of Valmiki's imagination. The Vānaras
-
-
 
 who went south in search of Sita got into her labyrinthine underground caves and saw golden trees and gem-lit seats and houses with floors and pillars and roofs of gold and silver etc. The most wonderful sight of all was the effulgent Swayamprabha herself radiant with the halo of penance.
 
@@ -1684,8 +1492,6 @@ Sita's testimony is even more charming.
 
 See also Sundara, XXXV, 7; XXXVII, 42; LXIV, 30). Agasthya ranks Hanuman higher than Ravana and Vali as a warrior and says that Hanuman is equally great in wisdom as in valour. (Uttara XXXV, 15; XXXVI, 45, 47, 48). Valmiki himself calls
 
-
-
 him *Mahāprājna* i.e. very wise (Kishkindha, IV, 34) and *Mahānubhāva* i.e. highsouled (Kishkindha II, 29). See also Kishkindha, XXIX, 6; Sundara, XLVIII, 45. The gods say thus about Hanuman.
 
 **यस्त्वेतानि चत्वारि वानरेन्द्र यथा तव।  
@@ -1706,8 +1512,6 @@ When in the war council each leader gives his opinion against the acceptance of 
 गच्छेत्तद्वद्गमिष्यामि लंकां रावण पालिताम्॥ (Sundara, I, 39 to 42).**
 
 See also Sundara XLII, 33 to 36. His sole desire in life is to love God, and Rama blesses him and says that he will live as a
-
-
 
 chiranjeevi (an immortal) and as long as Rama's story lives in the hearts of men. (Uttara, XL, 15, 16, 20, 21).
 
@@ -1730,8 +1534,6 @@ Sugriva is obeyed with alacrity by the other Vānaras who say that he is a stric
  Vali's nature is even more imperious than that of Sugriva. He is even more attached to pleasures than his brother. Despite Tara's entreaties, he, being a person of peerless prowess and heroic nature, will not turn back from danger. After he is fatally wounded by Rama's arrow he reviles Rama but is soon conviced about the justice and virtuousness of Rama's action. His greatness and glory are described in the Uttara Kanda. (Chapter XXXIV).
 
  Angada is the heroic and obedient son of Vali. He treats very kindly the Vanaras who went with him in search of Sita. He shares and griefs with them. When they tarry in the
-
-
 
 Madhuvana, he speaks gently to them. They praise him for his gentleness.
 
@@ -1758,8 +1560,6 @@ Vali had the highest regard for her wisdom. She knows the prowess and goodness o
 
 She is thoroughly loyal to Vali. It is Rama's grace to her that extends his grace to Vali also. She saves Sugriva from the wrath of Laxmana and makes Rama receive Sugriva into grace again. Her steady devotion to Rama and her realisation of his areXXXremarkable.
 
-
-
 **त्वमप्रमेयश्च दुरासदश्च जितेन्द्रियश्चोत्तमधार्मिकश्च।  
 अक्षय्यकीर्तिश्च विचक्षणश्च क्षितिक्षमावान् क्षतजोपमाक्षः॥**
 
@@ -1783,8 +1583,6 @@ He gathers many curses in the course of his career of reckless daring and lasciv
 
  Valmiki describes him as being fond of bright and grand dress and decoration and of wine and women and music and gives a gorgeous description of Ravana and his harem (Sundara V)
 
-
-
 and his durbar (Sundara, XLIX). Ravana is black in hue and wears a red dress and many jewels and garlands and unguents (Sundara XII, 25 to 28, Yudha, XL, 4 to 7).
 
  Ravana is learned in all the arts of peace and war and is specially learned in the Vedas.
@@ -1807,8 +1605,6 @@ But his heroic valour was peerless. The poet's description of the battles of Ram
 
  Thus Ravana is the embodiment of arrogant and autocratic power and sensuality though there is an element of heroism in his pride and in his courage. He possessed deep piety but his piety did not go hand in hand with high morality. He exercised unbounded power over living beings and complete control over the forces of nature but did not use such power for the good of the world but used it only for his own hedonistic pleasures.
 
-
-
  Kumbhakarna is but slightly sketched in the poem. He is of tremendous physical proportions and is a heavy eater and a heavier sleeper. His admirable trait is that he boldly condemns Ravana for his evil act and yet loyally dies for him. He is defeated and killed by Rama after a great battle.
 
  The solitary man of righteousness in the Rakshasa crowd is Vibheeshana. His father predicts that he would be a Dharmātma (Uttara, IX, 26). When he concludes his penance, he prays as a boon that he may always have a Dharmic mind even when he is in great peril.
@@ -1822,8 +1618,6 @@ Brahma gives him as boon virtue and deathlessness.
 When Surpanakha goes to Rama, she describes Vibheeshana as a Dharmātma (Aranya, XVII, 24). The poet says that he always speaks words which are refined and righteous and wise. (Yuddha, XVI, 16; XXXVII, 6). Rama describes Vibheeshana as one who knows Dharma (righteousness), Mantra (polity) and Vidhi (scriptural injunctions). When abused by Indrajit, Vibeeshana explains why he deserted Ravana. In that speech his virtuousness is seen in an incandescent mood (Yuddha, LXXXVII, 21 to 27). It is in that mood and with a full consciousness of Rama's glory that he seeks Rama's feet and is accepted by Rama. He has no hunger for earthly glory but hungers only for Rama's grace. He accepts the empire of Lanka at Rama's command and restores the reign of virtue there. His wife Sarama and his daughter Anala lovingly befriend Sita in her captivity.
 
  There is much justification for the estoric and allegorical method of interpretation which sees in Rāvana, Kumbhakarna and Vibheeshana and the sattwika and rajasa and tāmasa gunas. The soul has to discard the tāmasa guna and rise through rājasa guna to sattwa guna. I do not mean to say that the Rakshasas should be viewed only allegorically. I have already indicated my dissent from that view. But after all every great work of art
-
-
 
 has a message and meaning to the soul for all time. The mere external events pass away and disappear. But the basic tendencies of the human spirit are always in action, and the soul of man will be in travail till it achieves perfection as its fulfilment and its destiny and its goal.
 
@@ -1839,8 +1633,6 @@ has a message and meaning to the soul for all time. The mere external events pas
 शूराः शरण्यास्सौमित्रे तिर्यग्योनिगतेष्वपि॥ (Āranya, LXVIII, 24).**
 
 Sampāti and Jatāyu are mighty Gridhra brothers (vultures). In Kishkindha, LXI, Sampāthi describes their daring flight towards the sun. It is Sampāti that makes Hanuman's reaching and consoling Sita possible. Jatāyu renders even greater service to Rama by giving up his life in defence of Sita against Ravana. Jatayu is old and has only his beaks and talons against
-
-
 
 a young and mighty foe with deadly arms and yet he engages in a royal battle and loses his life in the cause of righteousness.
 
@@ -1866,8 +1658,6 @@ See also Ayodhya, I, 20, 29. Rama learnt also the fine arts and was a supreme ex
 
 He learnt well also the art of government. (See Ayodhya, I 26, 27. Sundara, XXXV, 13). That he knew all the Vedas and the Vedangas and the Sastras is stressed again and again (Bāla, XVIII, 26; Ayodhya, III, 20, 27; Sundara, XXXV, 14).
 
-
-
  Thus the Hindu ideal of education, especially for the Kshatryas, sought to equip a man with the arts of peace and war and for life and super-life. In Ayodhya Kanda, XXXII, 18 and 19, we get a glimpse of the Brahman students who devoted themselves entirely to vedic study.
 
 **नित्यस्वाध्यायशीलत्वान्नान्यत्कुर्वन्ति कश्चन।**
@@ -1886,8 +1676,6 @@ If only the youth in modern India could have the Asrama training and the aesthei
 **Valmiki's Ideals of Individual Life.**
 
  Valmiki has stressed again and again that a proper individual life is the only basement on which could be erected the superstructure of a proper domestic and social and economic and political and artistic and spiritual life. To expect a bad son
-
-
 
 to be a good father or a good neighbour or a good king or a good servant of God is to expect what is well-nigh impossible. The poet repeats twice the same verse about Rama.
 
@@ -1923,8 +1711,6 @@ The Self in our hearts in is the witness of all our good and bad thoughts and wo
 **सूक्ष्मः परमदुर्ज्ञेयस्सतां धर्मः प्लवंगम।  
 हृदिस्थस्सर्वभूतानामात्मा वेदशुभाशुभम्॥ (Kishkindha, XVIII, 15).**
 
-
-
  Walking in the path of Dharma is praised throughout the Ramayana and the poem is primarily a manual of Dharma. Rama is praised often as one who is in the Dharmic path (**धर्मिष्टे वर्त्मनि स्थितः**—Ayodhya, XXVI, 1). The epithets Dharmajna and Dharmātma are often applied to Rama and Lakshmana and Bharata. Sugreeva is called in Yuddha, XLIX, 29, as Dharma Bheeru (one who is afraid of transgressing Dharma). The verse already quoted above (Uttara, XII, 6) tells us that Dharma gets its name from its power of holding all things and beings in their proper places.
 
 **धारणाद्धर्ममित्याहुर्धर्मेण विधृताः प्रजाः।  
@@ -1954,8 +1740,6 @@ There is a similar beautiful verse in the Bhāgawata.
 **धर्मादर्थः प्रभवति धर्मात्प्रभवते सुखम्।  
 धर्मेण लभते सर्वं धर्मसारमिदं जगत्॥ (Aranya, IX, 30).**
 
-
-
 See also Ayodhya, XXI, 40, 56, 57; XXV, 3; LXXVI, 62; Aranya IX, 2; XXIX, 7, 8; Sundara, LI, 18, 28, 29; Uttara, X, 33; XV, 24 to 27. Sita says that pleasure cannot produce pleasure and that the apparent pain of Dharma is the true source of joy.
 
 **आत्मानं नियमैस्तैस्तैः कर्शयित्वा प्रयत्नतः।  
@@ -1978,8 +1762,6 @@ See also Ayodhya, CVIII, 5, 6. Such a perception may sometimes lead despair or h
 
  We learn further from the poem that whenever a conflict of duties (Dharmas) arises, the principles of universal or divine Dharma should prevail. When Laxmana proposes to kill
 
-
-
 Dasaratha who had broken the law of primogeniture, Rama advises him not to follow an Anārya (ignoble) and cruel Kshattriya Dharma but to follow the higher way, i.e. obedience to one's father. (Ayodhya, XX, 43). Similarly when Bharata was asked by Rama if he was doing all his duties as a king aright, Bharata asks Rama how he could follow Rāja Dharma when he had fallen away from Dharma itself.
 
 **किं मे धर्माद्विहीनस्य राजधर्मः करिष्यति॥ (Ayodhya, CI, 1).**
@@ -1996,8 +1778,6 @@ We must care for the body, because without its health and strength we cannot dis
 
  The poet gives the highest place to *satya* (truthfulness). See Ayodhya, XI, 30; XIV, 17; XXI, 41; CIX, 10, 18, 22; Yuddha, CII, 43. He extols also forgiveness (Bāla, XXXIII, 719). Equally important is gratitude. Requital of services is a test of gratefulness. Ingratitude is a great sin; see Kishkindha, XXVII, 45; XXX, 71; XXXIV, 12; XXXVIII, 28, 46. Respect for elders
 
-
-
 and especially the parents and very specially for the father is described as a great virtue, and disrespect for them is a great sin. See Ayodhya, XXX, 36; Kishkindha, XVIII, 13, 14. Courtesy should be shown to all and especially to great and learned and pious men. This was called. *Vinaya*. (Bāla, L. 6; LXV, 26; LXVIII, 4, 6). Other personal qualities are the avoidence of fruitless over-exertion, adoption of the middle way in all matters without going to any extreme **सर्वत्रातिकृतं भद्रे व्यसनायोपकल्पते** (Sundara, XXIV, 21), courage, self-possession, securing friends, initiative, determination self-control, etc. See Aranya, L, 17, 18; Kishkindha, XXII, 22; Sundara, XXIV, 21; Yuddha, LXV, 4; LXVI, 25; Kishkindha, VIII, 7 to 9, 40; Sundara, XXXVI, 18, 19; Yuddha, LXXXVIII, 13; LXXVI, 74. In short, the poet extols the combination of courage and vision and wisdom and skill which Hanuman had in a conspicuous measure.
 
 **यस्यत्वेतानि चत्वारि वा नरेन्द्र यथा तव।  
@@ -2012,8 +1792,6 @@ See also Kishkindha, XLIX, 6. In the Ayodhya Kanda the poet refers to vedic stud
 
 See also Ayodhya, LXII, 20, 7. In a similar way he makes us realise the heinousness of sins.
 
-
-
 **कायेन कुरुते पापं मनसा संप्रधार्य च।  
 अनृतं जिह्वया वाचा त्रिविधं कर्म पातकम्॥ (Ayodhya, CIX, 21).**
 
@@ -2027,8 +1805,6 @@ See also Aranya, XVI, 3, 7. In Aranya, IX, 3, Sita says that the three major sin
 
 **इन्द्रियाणां प्रदुष्टानां हयानामिव धावताम्।  
 कुर्वीतधृत्या सारथ्यं संहृत्येन्द्रियगोचरम्॥**
-
-
 
 **मनसा कर्मणा वाचा चक्षुषा समाचरेत्।  
 श्रेयो लोकस्य चरतो नद्वेष्टि न च लिप्यते॥ (Utlara, XII, 22, 23).**
@@ -2051,8 +1827,6 @@ In the *Ramayana* the duties and graces and sanctities of the family life are de
  It is often said that reverence for womanhood is the acid test of a civilisation. According to Hindu culture the modesty and charity and purity of women and the loyalty and purity of men are equally acid tests of civilisation. Valmiki has stressed all these aspects. Man is by nature a pugnacious and destructive animal. Woman is the guardian of the emotional and spiritual elements in human nature. Children renew our childhood for us and keep fresh our faith in God.
 
  Valmiki has said much about the noble qualities of women. He has no doubt referred here and there to the defects of the
-
-
 
 lower types of womanhood. Has not Shakespeare done so? Valmiki says that they are prone to neglect a man in misfortune and are fickle and fierce of tongue (Aranya, XIII, 5, 6). Atri says so to Rama to exalt Sita's greatness. Dasaratha says that women are cunning and selfish and then modifies his statement by saying that he does not refer to in that way to women generally but only to Kaikeyi.
 
@@ -2080,8 +1854,6 @@ Sumantra Says:
 
 Sita has depicted this ideal in a way not matched anywhere else. The adjectives *Sahadharmachari, Pativratā, Mahābhagā,* and *Chchayeva anugatā sādā* in the famous verses uttered by Janaka at her marriage give us the clue to the poet's conception of womanhood. The love of Sita to Rama and of Rama to Sita
 
-
-
 was based primarily on the qualities of head and heart and only secondarily on physical loveliness.
 
 **गुणाद्रूपगुणाच्चापि प्रीतिर्भूयोप्यवर्धत।  
@@ -2101,8 +1873,6 @@ Rama and Sita say that even if a woman carries on the worship of God while negle
 
  It looks as if among the upper classes the women used to put on as covering an upper cloth (*awakuntana*), though there was no *gosha* system among the Hindus. See Yuddha, XXIV, 62. Ramā says that at times of great grief and during battles and *swayamvaras* and sacrifices and weddingsa woman can
 
-
-
 freely appear in public (Yuddha, CXVII, 26, 27). Thus in India the social leaders set up sensible standards of conduct and steered a middle course between unbridled licence and complete control and confinement. In fact, Kaikeyi acted as Dasaratha's charioteer and even as his comrade in battle.
 
  In the same manner the standard of loyalty and fidelity and chastity set by Rama for himself in regard to Sita is as high as that set by Sita for herself in regard to Rama. He is an *Ekapatnivrata* (having only one wife in life), and during her exile and after her departure he had a golden image of Sita in her place (Ayodhya, LXXII, 48; Uttara XL, 8). Sita says to Anasuya that he was of steady affection and that his affection for her was like that of her parents besides being that of a husband and a lover.
@@ -2112,8 +1882,6 @@ freely appear in public (Yuddha, CXVII, 26, 27). Thus in India the social leader
  In a Hindu family, the parents and the brothers and the sisters have as honoured a place as the couple and the children. In fact, motherhood is regarded as a higher crown of glory than wifehood. The father's place also is unique as he is the object of reverential affection even to the mother. Respect for the parents is the true source of the well-being of the generations. See Ayodhya, XVIII, 16; XXV, 6; XXX. 33. The elder brother is treated like a father and the younger like a son (See Ayodhya, XL, 6, 25, 26). The guru is as respected as the parents. (Ayodhya CXI, 3). Children are welcomed with limitless affection. A son is dearer than all else and secures his father's spiritual welfare. See Ayodhya, CVI, 12, 13; LXIII, 9; LXXIV, 14. Kishkindha, XXIV, 20. Guests and servants also are treated with respect, Sundara, I, 120.
 
  Thus Valmiki's ideals of family life are exalted and noble and are of the essence of the Hindu concept of Dharma. Rama's life is here, as in other aspects of life, the model of a good and noble family life and is its true focus and centre.
-
-
 
 **CHAPTER IX.**  
 **Valmiki's Ideals of Social Life.**
@@ -2126,8 +1894,6 @@ freely appear in public (Yuddha, CXVII, 26, 27). Thus in India the social leader
 
 See also Bāla, I, 95; XXV, 17; Ayodhya, LXXXII, 32; CVI, 21; Sundara, XXXV, 11; Yuddha, CXXVIII, 32; Uttara, LXX, 11; LXXV, 28. But these passages did not imply any demand of any rights and privileges and the society was based on a system of duties and on the principles of inter-dependence and mutual service. The Chāturvarnya ideal went hand in hand with the four-Āsrama (stages of life) ideal. It was recognised that the householder's life was all important for the welfare of all the others Āsramas (Ayodhya, CVI, 22). But it is in the Vānaprastha āsrama that a man and a woman learn to live lives of perfect *asanga* (detachment), and *maitri* (tenderness to all beings) and *bhakti* (devotion to God). The Ramayana describes them as living in huts (*parna-sālass*) and as wearing *Valkala* (barkdress) and *Krishnājina* (deerskin) and as living on vegetarian
 
-
-
 diet and as being devoted to vedic study and penance and meditation. (Ayodhya, XV, to 23). They lived a life of complete non-violence in thought and word and deed. That was why they sought Rama's protection against Ravana, though they had the necessary spiritual force to punish the latter themselves. (Aranya, I, 7, 8, 22). The hermits did not shun society but gave advice and consolation to the persons who went to them. Nay, they showed hospitality to their guests in an abundant measure. The hospitality shown by Bharadwaja was an exceptional feat. But the ordinary hospitality is described in the delineation of the reception given to Rama by Agastya. (Aranya, XII, 26, 27). The instance of Anasuya shows that women also used to perform *tapas*. Vedavati was a *sramani* or *tāpasi*. So were Sabari and Swayamprabha. The words *sramana* and *sramani* occur in many places in the poem. (Bāla, XIV 10; Ayodhya, XXVIII, 5; Aranya, LXXIV, 7).The Sanyasis are described as persons who have renounced the world and belong to the fourth Asrama. They wore ochrecoloured cloths (Kāshāya) and were called Parivrājakas (See Āranya, XLVI, 31).
 
  Though the Brahmans were the foremost group and though the Sudras could not study the Vedas (Sundara, XXVIII, 5), yet the utmost harmony prevailed among all the social groups (Bālā, VI, 19), and all were devout, hospitable, grateful, noble, valorous, and full of heroism.
@@ -2137,13 +1903,9 @@ diet and as being devoted to vedic study and penance and meditation. (Ayodhya, X
 
 On important occasions all people were fed without any exclusions (See Bāla, XIV, 10, 11). It is said also that the Brahmins did not want to rule but used to be content to have gifts of money and kine. See Bāla, XIV, 43, to 46. The poet extols such Brahmans as are given to vedic study and who are of controlled senses and who rarely accept gifts and who are free from defects and vices and pursue a life of knowledge and virtue (Bāla, VI, 13 to 16, XIV, 19; Ayodhya, XLV, 13, 24, 25; Yuddha, XXX, 19, 20).
 
-
-
  The Ramayana disproves the theory of an Aryan race and Dravidian race. The Hindu communities form but one people and have unity of race and culture and abode. The words *Ārya* and *Anārya* are used in the poem as terms of praise and blame respectively and have no racial implications at all. (See Ayodhya, XII, 79; XVIII, 31; XXI, 44; XXXVI, 14; GCII, 25; CXVIII, 31; Aranya, XVIII, 19; Sundara, LII, 12; Yuddha, XVI, 11 to 14; XVIII, 36; XLIX, 13; LXVI, 23; LXXI, 2; CVI, 5, 13; Uttara, XVII, 30). The reference to Nishadas, Dashas, etc. in the Ayodhya Kanda (LI, 32; LXXXIV, 4, 7) is not indicative of any particular Non-Aryan or Dravidian tribes. The were only Professional sub-groups in the social polity. Nor does the reference to Nivāta kavachas (Uttara, XXIII, 6) or to Kalakeyas (Uttara, XXIII, 17) or to the Andhras and Pandras and Cholas and Pandyas and Keralas in South India (Kishkindha (XLI, 12) indicate any separate racial stock at all. In the Bāla Kanda Chapter LV there is undoubtedly a reference to various tribes such as Paplavas, Yavanas, Sakas, Kambojās, Hāritas, Kirātās etc. Very possible these were alien peoples who entered into India. Such of them as got a foothold here probably got merged in the population as a whole.
 
  There is no doubt some reference to Chandālas in the poem. In the Bāla Kanda, Chapter LVIII, verse 11, there is a reference to King Trisanku who was cursed to become a Chandala. The latter is described as dark and as wearing dark clothing and iron ornaments. In Chapter LIX Viswamitra curses the sons of Vasishta who cursed Trisanku to become a Chandāla. He cursed them to live as eaters of corpses and dog's flesh. From this we cannot infer any wide prevalence of untouchability. It looks as if some persons who grossly broke the scheme of social life became Chandālas and were outside the pale of group life. Nor does it seem to me that there was any system of slavery in those days. The reference to Dāsas and Dasis in the Bālakanda, LXXIV, 5 and Aranya Kanda, XVIII, 9, is only to the royal retinues of servants and nothing more.
-
-
 
  Thus the most important aspect of the social polity in the poem is the ideal of the four *āsramas* and of the four social groups. It is described in the poem with an unmistakeable emphasis. We must also remember that the forest (tapovana) and the town and the village were inextricably interlinked and that the divine waters of the higher life flowed into the society as a whole from the hermitage.
 
@@ -2169,8 +1931,6 @@ He describes Hanuman as one who had settled views and knew the science of polity
 
 Even to-day the two chapters in the Ramayana popularly known as the Nārajaka sarga (Ayodhya, LXVII) and the Kachchit sarga (Ayodhya, C. 1), as well as Chapters I and II of the Ayodhya Kanda contain the quintessence of economic and political wisdom. In the Ramayana we find references also to various
 
-
-
 occupations and industrial arts such as masons, carpenters, hodmen, artists, diggers and others (See Bāla, XIII, 6, 7). Ayodhya LXXX, LXXXIII, Yuddha CXXX, 4). In the Nārājaha Chapter stated that, if there is no proper government, there will be no proper agriculture or industry or trade or wealth. There will be no proper social life. There will be no art worth the name. Nor will there be a proper spiritual life. Men will devour are another. See Ayodhya, LXVII, 10, 11, 15, 22; Aranya, XLI, 10; X, 9.
 
  In regard to economic life, Rama asks Bharata whether the country is prosperous and whether the agriculturists and cattlerearers are doing well and whether the traders are carrying on their commercial operations, and whether the income exceeds the expenditure.
@@ -2185,8 +1945,6 @@ occupations and industrial arts such as masons, carpenters, hodmen, artists, dig
 He refers also to ocean-going ships (**महानौरिवसागरम्**—Sundara, LVII, 4). See also Sundara, I, 68, XVII, 3; XXV, 14; XXVIII, 8. In Kishkindha, XVI, 24, there is a reference to ships heavily laden with cargoes.
 
  A remarkable feature of Valmiki's concept of political and economic life is the way in which he puts the basic ideas into the mouths of persons of diverse stations in life. Politics should be the serious life-work of all citizens and becomes unreal when it is confined to mere professors and politicians. We hear in the poem many political ideas from diverse characters—from Narada in Moola Ramayana, from Vālmiki in CantosVI to VII, of the Bala Kanda and Cantos I and II of the Ayodhya Kanda, from Dasaratha in Canto III of the same, from the people of Ayodhya in Ayodhya, LXVII, from Rama in Ayodhya, C, from Hanuman in Ayodhya, XXIX, from Surpanakha in Aranya,
-
-
 
 XXXIII, from Mareecha in Aranya, XL and XLI, from Sita in Sundara, XXXV, from Vibheeshana in Sundara LII and Yuddha, LII, from Prahasta and Maha Paisva in Yuddha, XII and XIII, from Kumbhakarna in Yuddha, LXIII, and from the Vānara leaders in Yuddha, LXXXVII. What we have in the Ramayana in the above-said Cantos may be an imaginative idealisation but is not a mere utopian theory. The Rāma Rājya was a great peak in the universal political life and has rightly been held up as a model for the whole world by Mahatma Gandhi.
 
@@ -2207,19 +1965,13 @@ Lanka is full of the spoils of war, and its inhabitants are greedy and cruel and
 
 See also Sundara, I, 300; II, 22, 23; I, 3, 12 to 14.
 
-
-
  Kingship was the normal type of polity in the Ramayana age. In Uttara, Canto LXXVI, 37 to 45, we are told that the people prayed to God Brahma for a king and that thereupon the Lokapalas (cosmic deities) gave a portion of their power to King Kshupa. Even there the suggestion is that the King has in his various aspects and functions the aspects and functions of the Lokapalas. This view is stated also in Manu, VII, 4 to 8. See Aranya, I. 18; XLI, 12, 13; Kishkinda, XVIII, 44. But the more valuable portion of the poem is the portion describing the evils of anarchy (Ayodhya, LXVII) and the portions describing the desirable physical and intellectual and moral traits of an ideal King (Bāla, I; Ayodhya, I, II, C; Sundara, XXXV).
 
  In Valmiki's age the kings of the solar line had a general overlordship over the whole of India. Dasaratha is described as a *Natha sāmanta*, i.e. to whom the other kings make obeisance (Bāla, VII, 21; XVIII, 47). The tribute (*bali*) paid by them is referred to in Bāla, V, 14; Ayodhya, LXXXII, 8; XV, 29; Uttara, XXXIX, 10). The kingship of the age was largely an elective monarchy. Though primogeniture was the rule yet it was not an absolute rule. The reigning king can himself supersede a son given to evil ways. (Ayodhya, XXVI, 36; XXXVI, 16). The hair-apparent had to be nominated by the king and his nomination had to be approved of by the popular sabha or assembly and the assembly of allied and tributory princes. (Ayodhya, II, 15, 16). Ordinarly the eldest son would succeed (Ayodhya, II, 11; III, 2, VIII, 14. 53; LXXII, 20, 22; LXXIX, 7; LXXXII, 13; CI, 2; CX, 32, 33; Uttara LIV, 5, 6). In the absence of a son, a brother of the king would be nominated (Yuddha, CXXXI, 88, 29). Sugreeva who was the Yuvarajah was crowned as king when Vali died. At the same time Vali's son Angada was crowned as hair-apparent and was later crowned as king when Sugreeva abdicated the throne to go with Rama to paradise (Kishkindha, IX, 3; XV, 23; XXVI, 36, 37; Uttara, CVIII, 23). The crown prince used to be trained by the, king in administration and warfare, (Bāla, LXXVII, 22, Ayodhya, II, 38).
 
-
-
  The kingship of Valmiki's age was a limited and constitutional monarchy. It was limited by the Dharma Sastras on the one hand and by the powers of the Cabinet and the Sabha on the other hand. If the king disobeyed the Dharma Sastras and oppressed his subjects, he could be exiled or even killed. King Vena was killed. Sagara banished his eldest son Asamanja. Even Ravana refrained from killing the envoy Hanuman when Vibheshana told him that such an act was opposed to Rāja Dharma (Sundara, LII, 6). But generally speaking he was a dictator and despot unlike the kings of the solar race who were just and constitutional monarchs.
 
  With the above background in mind, we can now proceed to a consideration of the poet's concept of kingly qualities and duties. A cursory view is enough in regard to the external aspects of kingly life. The coronation ceremony was always grand and imposing. It was the same whether in Kosala or Kishkindha or Lanka. (See Kishkindhā XXVI, 22, 35, Yuddha, CXXXI, 60, et seqq.) See also Ayodhya, III, 8, XIV, 35, XV. 11, XXVI, 9 etc. in regard to the proposed coronation of Rama as Yuvarajah. On the previous day the king-elect had to observe fast and vigil. There was a royal procession with music on the day of the coronation (See Yuddha, CXXX, 3). Waters brought from the sacred rivers were kept ready for the royal Abhisheka (bathing ceremony). There were oblations in the fire. The tributary kings and the ministers and the members of the sabha and the guild leaders and State officials were present. The city was aily decorated with flags and flowers. The actual abhishaka was by the Ritwiks with mantras and by the virgins and by the ministers and by the army chiefs and by the Vaisiya leaders in succession. The king then put on new silk garments and was crowned with the hereditary diadem (Kirita) on the ancestral throne. The white umbrella (chchatra), which was the symbol of his sovereignty, was held over his head and he was fanned with Yak tail fans (chāmaras). Then presents were given to and by the King. He then went in procession through the city. The women used to shower flowers on him
-
-
 
 from the balconies and windows of their mansions. (Ayodhya, XVI, 37).
 
@@ -2235,8 +1987,6 @@ Though one could drive into the outer three Kaksyas (courts), one had to go on f
 **सीताऽपि देवकार्याणि कृत्वा पौर्वाह्निकानि वै। (Uttara, XLII, 27).**
 
 The doorkeeper of the palace was known as the Prateehāra (Uttara, I, 10). The princes had separate palaces of their own. Rama as the first prince. had his own palace (Ayodhya, XVI, XVII). His bedroom had curtains (**तिरस्करणी**—Ayodhya, XV, 21.) His brothers had separate palaces when he was the King. (Uttara, XXIV, 3, 6, to 9). But it is in the description of Ravana's palace in the Sundara Kanda (Chapters VII to XI) that Valmiki surpasses himself. Ravana had arbours made of creepers, picture galleries, play rooms, artificial hillocks, love houses, etc.
-
-
 
 (Sundara, VI, 26, 37). It looks as if kings had not only storytellers and musicians and dancers and actors and others as makers of entertainment but also dwarfs and jesters in their palaces. See Ayodhya, III, 17, X, 12; LXIX, 4, 5; Kishkindha, XXXI, 20; Sundara, X, 32; Uttara, XLII, 20, 21; XLIII, 1.
 
@@ -2256,8 +2006,6 @@ Rama asks Guha:
 
 **अप्रमत्तो बले कोशे दुर्गे जनपदे तथा।  
 भवेथागुहराज्यं हि दुरारक्षतमं मतम्॥ (Ayodhya, LII, 72).**
-
-
 
 When Sugreeva, in his absorption in his royal pleasures, forgets his royal duties and especially to his royal ally, Hanuman pulls him up thus:
 
@@ -2282,8 +2030,6 @@ Dasaratha, in his advice to Rama on the eve of crowning him as Yuvaraja, says th
 
  The king's primary duties are the protection of his subjects from external attack and internal disorder and the rendering of
 
-
-
 impartial justice. He is called *Shashtāmsa* or *Shatbhāge*, as he gets 1/6 of the yield or income by way of taxation. (Ayodhya, LXXV, 24; Uttara, VII, 30). Even the hermits contribute 1/6 or 1/4 of their punja (religious merit) to him. See Aranya, VI, 11, 14. He must tax his people lightly and leniently. (Ayodhya, C, 29). He is the source of dharma and artha and kāma in the State. He must treat his subjects like his sons. (Aranya, VI, 11, 12, 14; L, 9; Uttara, LXXIV, 30, 31). He must lead a pure and disciplined life, because his subjects will follow his example.
 
 **यद्वृत्तास्सन्तिराजानस्वद्वृत्तास्सन्ति हि प्रजाः॥ (Ayodhya, CIX, 9).**
@@ -2300,19 +2046,13 @@ He must punish ill-doing but he should also have mercy and clemency. (Uttara, LX
 
  The duties of kings in war are as important as his duties in peace. A king must know when to make peace and when to
 
-
-
 make war. (Aranya, LXXII, 8; Sundara, XLI, 3; Yuddha, XIII, 7, XXXV, 7 to 9). War should be the last resort. (Yuddha, IX, 8). The king should please his army and the army should protect him. (Yuddha, CXXV, 10; Kishkindha, LXV, 23). But the possession of great military power is a great temptation to use it in a cruel way. Sita warns us against such user (Aranya, IX). Rama replies to her that such power should be used only for protection. (Aranya, X, 3). Death in battle leads to heaven. Even a sinful man is purified by his valiant death in battle. (Yuddha, XLI, 69.) It is stated also that if a king kills his foe in battle, he should arrange for the righteous rule of the enemy's country as Rama did. (Uttara, LXII, 11). War was never regarded as one of the aims of life. Defensive wars were treated as inevitable and righteous wars were treated as an open doorway to heaven. (Ayodhya LXIV, 41, 42; Yuddha, CXII, 19). Offensive war for conquest was regarded as an evil. It was also realised and taught that war is the greatest calamity in this sorrowful world and that it is after all an uncertain affair. See Sundara, XXVII, 53; XLVI, 15; Yuddha, XLVI, 32; CXIII, 18; CXIV, 33; Uttara, XX, 10). See also Manu, VII, 198 to 200.
 
  Even to-day the questions of Rama to Bharata in the 100th Chapter of the Ayodhya Kanda contain the quintessence of polity and public administration. It will not be possible to discuss all the matters dealt with that in that long chapter but I may indicate here the essence of its contents. The kings must primarily be pious men and show respect for age and learning and character. They should lead a disciplined daily life. They should be free from vices and evil habits and impulses. They should pursue the *trivarga* or three aims of life (Dharma and Artha and Kama) in harmony. They must seek the friendship of learned and wise and pious men and avoid selfish and sceptical Brahmins. They must learn the ethical and economic and political sciences. They must know the art of public administration well. They must consult the ministers and keep- their decisions secret and carry them out with easy effort and great results. They must appoint the ablest men to the highest
 
-
-
 places and should bestow on a man only such an office as is appropriate to him. They must appoint a proper commander-in-chief and give food and pay regularly to the soldiers. They must have worthy ambassadors and able and reliable spies. They must be strict yet lenient in punishment. They must tax suitably and in a wise and unirritating manner. Their budget should always be a surplus budget. They must encourage industry and trade and commerce. They must own plenty of cattle and horses and elephants. They must dig tanks and plant gardens and build temples. In short they must make the people contented and strong and prosperous and happy.
 
  Though the king is thus the pivot of the polity, yet the success of the political life of the community will depend largely on the cabinet of ministers and the state officials and the local self-government institutions and the army (Ayodhya, C, 17, 25). Of these the ministers are the most important. Dasaratha and Rama had both amatyas and mantris. Valmiki differentiates them clearly (See Bala, 1 to 4; Ayodhya, LXVII, 4; CXII, 7; Yuddha, XI, 26). The *amātyas* were 8 in number and were Dhristi, Jāyantha, Vijaya and others. There were two Ritwics or Purohits, viz. Vaishta and Vāmadeva, of whom the former was the royal *guru*. There were also mantris or councillors such as Jābali, Kasyapa and others who were learned Brahmins. Sumantra was both minister and charioteer. (**सारथित्वेन मन्त्रित्वेन च स्थितस्सुमन्त्रः**—Govindaraja's commentary on Bāla, IX, 1). Amātya means one who is always near the king. Sumantra is sometimes called Sachiva also. (Bala, VII, 3, 4, VIII, 4, XII, 5, 6; Uttara LIX, Prakshipta sarga XIII, verse 26). Hanuman is called the *sachiva* of Sugreeva (Kishkindha, III, 27). Mantris are referred to in Kishkindha, IX, 21. There is a reference to Ravana's *sachivas* and *mantris* in Sundara, XLIK, 13 and Uttara, XXVII, 27), and to Vibheeshana's *amātyas* in Uttara, V, 44. Evidently the amatyas and ritriks and mantris acted as a joint committee (*mantri parishad*). They were actively functioning during the interegnun after Dasarath'as death and are referred to in Ayodhya, LXVII, 2 to 4. and LXXIX, 1, as Rajakartārah (king-maker). When Vasishta, who was deputed to choose the
-
-
 
 successor, chose Bharata they offered the crown to him in the name of the people and the s*renis* (corporations). See Ayodhya, LXXIX, 4, 17. The council of ministers was consulted on all important occasions, e.g. when Dasaratha proposed to perform an Aswamedha sacrifice, when he had to decide about sending Rama with Viswamitra, when considering Rama's marriage, when making Rama as Yuvaraja, and when a Brahmin's accusation about his boy's death during Rama's rule had to be investigated (See Bāla, VIII, 5; XIX, 11; LXIX, 18; Ayodhya, I, 41; Uttara, LXXI, 3, CXVI). Romapāda consulted the mantriparishad about bringing Rishyasringa (Bala, IX, 4, X, 12).
 
@@ -2320,15 +2060,11 @@ successor, chose Bharata they offered the crown to him in the name of the people
 
  There were also regular officials belonging to the various departments. The heads of these departments were called
 
-
-
 Tirthas and were eighteen in number (Ayodhya, C, 37). Among the permanent officials the Judges occupied a high place. The king sat in the Dharmāsana along with the Purohit and the sages and the ministers and the Naigamas (heads of mercantile corporations). See Uttara, LIX, Prakshipta Sarga, 1 to 3. He should hear all complaints promptly and administer speedy and impartial justice. Those who were justly punished by the king were freed from their sin and went to heaven (Kishkindha, XVIII, 31). If the king did not punish the evil-doer, he would incur sin. (See Kishkindha, XVIII, 34, 64).
 
  The Sabha or popular assembly also had important functions, It was called *parishad* (Ayodhya, II, Yudda, XII, 1), *samiti* (Yuddha, XI, 32) and *samsad* (Yuddha, XI, 30). The members were treated with respect and were drawn from the capital and from provincial stations. They included the heads of the urban guilds and the village leaders (**ग्रामघोषमहत्तराः**—Ayodhya, LXXXIII, 11, 15). They are referred to as Srenis (Ayodhya, I, 45, CXI, 24) and Paura jānapada (Ayodhya, XIV, 40, CXI, 27). The Sabha was convoked and consulted on very important occasions such as the selection of the Yuvarajah, the decision of peace or war, the election of a king's successor when there was no Yuvarāja, etc. (Ayodhya, II, XXVII, LXXXII; Sundara, XLIX; Yuddha, VI, XI; Uttara, LIV). It was the duty of the members to speak out their views boldly and impartially (Uttara, XIII, 34; LIX, Prakshipta Sarga, 35). The king presided over the Sabha. (Ayodhya, II, 1 to 3). In his absence, the Purohita used to preside over it. (Ayodhya, LXXXI, 9 to 11).
 
  Equal attention was paid in Valmiki's age to the administration of towns and of the villages. The capital was called Puri or Nagara or Nagari or Mahapuri or Rajhadhāni (See Bāla, V, 6, 7, Bāla, VI, 6, 7, Ayodhya, LI, 23). The remainder of the kingdom was called Rāshtra or jānapada (See Bāla, V, 5; Ayodhya, L, 4). It consisted of the provincial towns (nagaras or pattanas; see Ayodhya LVII, 4; Aranya, XLII, 16; Kishkindha, XL, 21) and the villages (mahāgramas, gramas or ghoshas). The word *Visah* means the general population (Bāla,
-
-
 
 XI, 9; Ayodhya, II, 28). The inhabitants included townsmen (pauras) and villagers (Janapada). See Ayodhya, I, 49. Rama describes Kosala as irrigated by rivers and channels. (Adeva matrika—Ayodhya, C, 46). The king's officials in charge of the provincial units were called *Janapadeswaras* (Uttara, XXXVII, 16). The people gave unpaid labour (*Vishti*) for the good of the State, evidently by way of clearing silt in channels, making roads, digging tanks, laying out gardens, building temples and choultries, rendering service in festivals etc. (See Ayodhya, Chapter LXXX, Yuddha, CXXX, 4). There was also paid labour (Karmānthikas). Evidently Village Panchayets looked after village affairs and Municipal Corporations managed the urban affairs. The Naigamas and Srenimukhyas were the heads of the industrial and commercial guilds and corporations in urban areas (Ayodhya, XXVI, 14). They had an important place in the coronation functions (Ayodhya, XIV, 54; Yuddha, CXXX, 9, 17). The poet refers to the broad and well-watered streets of Ayodhya. (Bala, V, 8; XV, 24; LXXVII, 8; Ayodhya, V, 18; VII, 2; Yuddha, CXXX, 6). It was evidently the duty of the urban municipal administration to make good roads and keep the roads in good condition and have them watered well to lay the dust. Ayodhya had also many parks (Bala, V, 12; Ayodhya, LXVII, 17; LXXI, 22, to 26).
 
@@ -2339,8 +2075,6 @@ XI, 9; Ayodhya, II, 28). The inhabitants included townsmen (pauras) and villager
 
 In the Yuddha Kānda, III, 20, it is said that there are four type of forts, viz. Nadeya (surrounded by the sea or by a river
 
-
-
 Pārvata (surrounded by hills), or Vanya (surrounded by forests) or Kritrima (i.e. artificially built with walls and moats). Inside the fort there were Chāras or spies everywhere (Sundara, IV, 15). The soldiers were massed in particular places. They were divided into infantry and cavalry and elephant forces and chariot forces and were called chaturanga (four-limbed) *bala* or *sainya* (army). (See Bala, LXIX, 3; Ayodhya XXXVI, 2, LXXXIII, 55; Sundara, XLVI, 16; Yuddha, III, 26, XXXVII, 24). Of all these types of warriors, the chariot warriors were the greatest military experts and could fight also on foot or on horse back or on elephants. They could use *sastras* (physical weapons) as well as *Asthras* (spiritual weapons). The leaders among them were called Mahārathas and above these were the Atirathas. They could fight innumerable foes at the same time. The car warriors could do also *Sārathya* or charioteering work. The most wonderful feat of Indrajit was that after Laxmana killed his charioteer, he drove this chariot and carried on his matchless fight with Lakshmana. (Yuddha, XC, 44). On another occasion the very horses of Indrajit's chariot executed wonderful movements after the charioteer was killed (See Yuddha, XCI, 29). The charioteer also is an important person. Sumantra was both minister and charioteer. He was the guide and philosopher and friend of Dasaratha. Ravana also had a loyal charioteer (Yuddha, CVI). Indrajit's charioteer is described thus by the poet.
 
 **अधिष्टितं हयज्ञेन सूतेनाप्तोपदेशिना॥ (Yuddha, XCI, 29).**
@@ -2349,8 +2083,6 @@ Pārvata (surrounded by hills), or Vanya (surrounded by forests) or Kritrima (i.
 
  The poem refers to the wearing of armour (varma or kavacha or tanutra or tanutrana). See Ayodhya, XXX, 28; Sundara, IV, 18; Yuddha, LIII, 6, LXIX, 61; LXXV, 10, The warriors wore also some protection for their arms andXXX(**बद्धगोदांगुलित्राणौ**)—Bala, XXII, 8; Ayodhya, XCIX, 24.
 
-
-
 Their swords had sheaths and skin-covered handles and their shields had wide bucklers. (Ayodhya, LXXIII, 2; XCIX, 22; Yuddha, XCVIII, 30). Even the horses and elephants had protective armour (**हस्त्यश्वानां च वर्म च**— Yuddha, LXXV, 10). besides having gold ornaments.
 
  The main military weapons (*āyudhas)* of those days were bow (dhanus), arrow (bāna), lance, sword, mace, etc. The arrows were kept in quivers (Tooneera or Ishudhi). The poem refers also to other weapons such as Parigha, Prāsa, Soola, Shakti, etc. The arrows were of curious shapes-pointed, crescent-shaped, etc. They had feathers to steady and speed them. Some were poisoned arrows (Ayodhya X, 1, 25). The army used also yantras or machines. Some of these were used by Sugreeva's army to transport rocks to build the bridge to Lanka. (Yuddha, XXII, 58). Ayodhya, Kishkindha and Lanka had machines for warlike use also. (Bāla, V, 10; Kishkindha, XIV, 5; Sundara, LXIV, 22; Yuddha, III, 2, 16, 17). It is doubtful whether the *Sataghni* stated in the poem was a cannon or some other weapon. See Bala, V, 11; Sundara, II, 21; Yuddha, III, 13; XCVI, 26. The *Vaijayanthi* describes it as an iron club with iron spikes (**चतुर्हस्ता लोहकंठकिनी गदा**). The poem refers also to *vimānas* (aeroplanes) and air-fights. But even more powerful than all these *sastras* (weapons) were the asthras which were weapons whose destructive powers were intensified by *mantras* (Yuddha, LXXI, 84). Ravana and Indrajit knew most of them but Rama knew them all. See Bāla, XXVII, XXVIII; Yuddha, XLVIII, 16; XCI, 55 to 59; C, 32, 38).
@@ -2358,8 +2090,6 @@ Their swords had sheaths and skin-covered handles and their shields had wide buc
  The most admirable aspects of the military operations of those days were however the carrying on of war under righteous restrictions and the non-injury of non-combatants. In both these respects, modern warfare is the very antipodes of ancient Indian warfare and deserves the severest condemnation. Ofcourse, then as now, retreat from the field of battle was considered disgraceful, especially as the wives of such cowards would laugh at them.
 
 **शूरैरभिजनोपेतैरयुक्तं हि निवर्तितुम्॥ (Yuddha, LXXXII, 4).**
-
-
 
 **निरायुधानां द्रवतामसंगगतिपौरुषाः।  
 दाराह्यपहसिष्यन्ति स वै घातस्तु जीविनाम्॥ (Yuddha, LXVI, 21).**
@@ -2387,8 +2117,6 @@ It was considered sinful to kill women and Rama hesitated to kill Tataka till a 
 **यो हि मत्तं प्रमत्तं वा सुप्तं वा रहितं भृशम्।  
 हन्यात् स भ्रूणहालोके त्वद्विधं मदमोहितम्॥ (Kishkindha, XI, 36).**
 
-
-
 **न्यस्तशस्त्रौ गृहीतौ वा न दूतौ वधमर्हथः॥ (Yuddha, XXV, 22).**
 
 **अयुद्ध्यमानं प्रच्छन्नं प्रांजलिं शरणागतम्।  
@@ -2412,8 +2140,6 @@ The height of chivalry was reached by Rama who, finding Ravana tired, asked him 
 
 Besides the soldiers there were also workmen corresponding to the sappers and miners of to-day. These used to prepare the roads for the march of the soldiers and the camps (Nivāsa) for their rest. (Ayodhya, LXXIX to XXXXIII). The army was accompanied also by a bazaar as well as food supplies. There were also amusements by singers and dancers. (See Yuddha, LXIV, 3, 4). Rivers were crossed by boats (Ayodhya, XXXXIX,
 
-
-
 9). Guha had five hundred *Nāvah* (boats or ships), each manned by a hundred persons (Ayodhya, LXXXIV, 8). There were also big boats called *Svastika* for royal use (Ayodhya, LXXXIX, 11). Further the *Doota* or ambassador and the *Chārana* or *Chāra* or spy played an important part in the polity. The former was used to avoid political and military complications and to preserve peace and harmony. He should be a patriotic and learned and astute and quickminded person and should be loyal to his master. Hanuman's embassy is described in the Sundara Kānda, LI. Angada's ambassadorship is described in the Yuddha Kanda, XLI. In the latter Chapter it is said that Rama decided to send him after consulting his ministers and for settling the course of his conduct in the future.
 
 **संमन्त्र्यमन्त्रिभिस्सार्धं निश्चित्य च पुनः पुनः।  
@@ -2427,8 +2153,6 @@ The task of the spies was a risky and hazardous one as it had to be done in secr
 It was also laid down that the rainy season was unsuitable for military expeditions and that the Sarat season (autumn) after the cessation of rains was the proper time therefor (See Kishkindha, XXVI, 13, 14, 16, **नायमुद्योगसमयः**; XXVIII, 15, **स्थिताहियात्रा वसुधाधिपानाम्**; XXX, 38.—**अन्योन्यवैरेण समायुतानामुद्योगकालोऽद्य नराधिपानाम्**)। The fourteenth day of the dark lunar fertnight (**कृष्णपक्षचतुर्दशी**) was considered auspicious for starting on a military expedition and the next day (Amavasya) was considered good for the battle (Yuddha, XCIII, 65).
 
  The army is summoned up by messengers and by the beating of drums (Bheri) to assemble and be ready. (Aranya, XXIV, 10; Yuddha, XXXIII, 22). Though this is the usual
-
-
 
 way of carrying on a military expedition (*Yātra*—Ayodhya, C, 71). Rama instructed Satrughna to march in the rainy season against Lavanasura who was very powerful so as to take him by surprise. (See Uttara, LXIV, 10). Satrughna crossed the Jumna and entered Lavana's capital when Lavana was absent ahunting and challenged him to single combat and killed him, because once Lavana had access to the trident given to him by God Siva, he would be invincible and nobody could kill him. He then entered the capital of Lavana with his army and ruled it as its king. Further, when marching against the enemy, the kingdom should not be left unguarded. At the same time the best troops must be taken for engaging the enemy. Rama left a portion of the Vanara army in Kishkindha and took the best troops with him during his military expedition against Ravana, (See Yuddha, IV, 14). Further, when an army is arranged for a fight, the battle formation is called a Vyuha. (Yuddha, XXIV, 13 to 18).
 
@@ -2448,8 +2172,6 @@ Such Vyuha is referred to in the Yuddha Kanda in Chapters XXIV and XXXVII. The h
 **ते च संधिविग्रहयानासनद्वैधीभावसमाश्रयाः।  
 याभिर्युक्तिभिः (उपायैः) सत्त्वं राज्ञां कृत्यं विमृश्यते॥**
 
-
-
 Tilaka agrees with this view. But Maheswara Theertha gives the Vedantic six pramānas as the Shad Yukthis.
 
 **तत्र युक्तयः प्रत्यक्षानुमानोपमानशब्दार्थापत्त्यभावप्रमाणानि।**
@@ -2464,8 +2186,6 @@ This is obviously incorrect as Kabandha is bent on telling Rama what a king shou
  It is pleasing to turn from the pomp and pageantry and savagery of war to the sublime spectacle which has been seen only in India—viz. the voluntary retirement of kings in their old age from the throne to the forest for rest and retirement and enthanasia. See Ayodhya, XXIII, 26, 27. It is in this happy blending of the rural life and the urban life and the *tapovana* life and the life of meditation and contemplation and devotion and wisdom and God-realisation that we reach the highest peaks of human life.
 
  We now realise why it is that every Hindu sighs in his heart of hearts for the return of Rama Rajya. Mahatma Gandhi, the supreme popular leader of India, speaks in terms of veneration about it. Rama himself explains the secret of his rule to Lakshmana and says that he conformed to Raja Dharma and Raja Nīti. Adharma did not exist in his country. There was no need of punishment as the people lived and helped and protected one another (Uttara, LXX, Prahshipta Sarga, XI, 12). There were no famines or thefts or diseases or untimely deaths. See Bāla, I, 89 to 95; Yuddha, CXXCI. Every one guided
-
-
 
 himself by making Rama his model and led a *dharmik* life. Rama was on the lips and in the hearts of all and every one became a Rama.
 
@@ -2489,8 +2209,6 @@ himself by making Rama his model and led a *dharmik* life. Rama was on the lips 
  Valmīki's work is universally referred to as the Ādi Kavya (the first poem). In a poem, word and sense (sabdārtha) form the body; the alankāras (the figures of speech) form its ornaments; the qualities and style (Guna, Riti, Vrithi, Sayyā, Pāka) form its qualities; suggestiveness (Vyangya or Dhvani) is its life (Prāna); and *rasa* (dominant and pervasive emotional mood) is its *soul* (Ātman). Every one of these aspects must harmonise with all the others. That is the best poem in which suggestion (*Dhvani* or *Vyangya*) sweetens and heightens and transcends expression (*Vāchya*), and the dominant emotion isXXX 
 and enriched by the subsidiary emotions. A Mahā KāXXX
 
-
-
 should deal with the loftiest type of hero and heroine and describe the most sublime and beautiful natural creations and human moods. The *Ramayana*, is certainly a Mahā Kāvya when it is judged by these tests.
 
 **II. VALMĪKI AS A MASTER OF THE AESTHETIC.**
@@ -2509,8 +2227,6 @@ The emotion of compassion in its wider aspects holds the key to all the other lo
 शोकः श्लोकत्वमागतः “इत्येवं वादिना।  
 निर्व्यूढश्च स एव सीतात्यन्तवियोगप्रर्यन्तमेव स्वप्रबन्धमुपरचयता॥”**
 
-
-
  Some rhetoricians exalt the Sringāra Rasa and others exalt the Vira Rasa. Viswanatha exalts the Adbhuta Rasa. Though these and other rasas are found in the poem, yet its dominant Rasa is Karuna Rasa. We find in it Sringāra Rasa (Love) in its two varieties (Sambhōga or union and Vipralambhas or separation) in the story of Rama and Sita. Vipralambha Sringara is more sweet and spiritual than Sambhōga Sringāra and hence the poet expatiates on the former more than on the latter. As Anandavardhana says well in *Dhvanyāloka*:
 
 **शृंगारे विप्रलंभाख्ये करुणे च प्रकर्षवत्।  
@@ -2525,15 +2241,11 @@ We see the *hāsyarasa* (comedy) in the love episode of Surpanaka, the Veera Ras
 
  Thus we are in the Ramayana in a region where the Karunā Rasa reigns supreme and is finally transcended and etherealised into Sānti Rasa and Bhakti Rasa. It is not a mere tragedy as imagined by Mr. C. V. Vaidya. The purgation of the soul by tragedy is a purgation by pity and terror. But in the Ramayana the note of sublimity comes in, when pity moves onward and upward and is sublimated into peace which in its turn is sublimated into devotion. That is why the poem has no parallel or peer at all anywhere in the world's literature. The
 
-
-
 acme of the pathetic poetry is seen in Ayodhya, XVIII, 13, XXXIV, 17, XCIX, 37 to 39; Āranya, LXII, 10; Sundara, XXVIII, 12; Yuddha, LXXXIII, 14, CII, 13, CXIX, 24 to 26; Uttara, CXVII, Verses, 15 to 17.
 
  Valmīki's mastery of *dhvani* (poetic suggestiveness) and *auchitya* (poetic appropriateness) is as remarkable as his mastery of the rasas. His poem abounds in examples of both but a few examples may be given here as illustrations. The suggestion of the marriage of Rama and Sita is made even at the beginning of the Bāla Kānda (XVIII, 38). The Māyā of the Rakshasa warfare is suggested as early as Bāla, XX, 18. (**कूठयुद्धाहितेध्रुवम्**). The march into the forest in the Bāla Kānda prepares us for the impending long exile in the Dandaka forests. The famous words **छायेवानुगतासदा** (Bāla, LXXIII, 25), prepare us for Sita's insistence on accompanying Rama in his exile. There is a subtle art in the poet's making the Tamasa river, in sympathy with the grief of all loving beings, deprecating by its waves the departure of Rama (Ayodhya, XLV, 32). When Sugreeva meets Lakshmana in a sober and chastened mood, his mood is suggested by his snapping the garland of flowers worn by him during his addiction to wine and women (Kishkindha, XXXVI, 3). There is a remarkable suggestion of Sita's impending abduction in Rama's own words in Aranya, II, 21. Quite as wonderful are Canto XXVII, 51, XXXVIII, 20, and XXIX of the Sundara Kanda in which the auspicious future life of Sita is hinted in a charmingly suggestive manner. There is also a subtle suggestiveness in Hanuman's telling Ravana that Vāli whom he knew already was killed by one arrow by Rama (Sundara, LI, 11)) A similar suggestive reference is found in Yuddha, XXIV, 32, where Rama is described as the destroyer of Khara and Virādha and Kabandha. Equally telling is Rama's asking Angada to tell Ravana to perform his own Srāddha ceremonies, suggesting thereby that all the Rakshasas would be killed and that none would be left to perform his funerals (Yuddha, XLL, 7).
 
  In regard to the fine arts, other than poesy, Valmīki gives us valuable ideas. I have referred above to his description of
-
-
 
 royal architecture. He refers also to Devatāgaras and Devatāyatanas, i.e. temples (Bāla, LXXVII, 14; Ayodhya, VI; 4; Uttara, XXXVII, 13). But it is not the description of architecture or sculpture or painting that is noteworthy in Valmīki's poem. It is in his exposition of the art of music that he excels, as in his view poetry and music should go together. The essence of that art is laid down by him in a few telling verses.
 
@@ -2558,8 +2270,6 @@ The poet refers by name to diverse musical instruments in the tenth canto of Sun
 
  Valmīki refers briefly to certain other arts also. In Ayodhya, VI, 14, he refers to actors and dancers. In Ayodhya,
 
-
-
 LXXX, 4, 5, there is a remarkable description of drama (Nātaka) and comic representation (*hāsya* and *goshtihāsya*).
 
 **III. VALMĪKI AS A POET OF NATURE.**
@@ -2578,8 +2288,6 @@ In the verse
 **ततोऽस्तमगमत्सूर्यः सन्ध्ययाप्रतिरंजितः॥ (Yuddha, XXXVIII 18).**
 
 the word *Pratiranjita* is a most expressive and charming word descriptive of the wonderful hues and harmonies of Indian sunsets. In Bāla, XXXIV, 15 and 16, and in Kishkindha, XXVIII, 52, we find the calm of the Indian might described with a few telling strokes,
-
-
 
 **निष्पन्दास्तरवस्सर्वे निलीना मृगपक्षिणः।  
 नैशेन तमसा व्याप्ता दिशश्च रघुनन्दन॥**
@@ -2605,8 +2313,6 @@ The famous verse in Ayodhya, XCIV, 3.
 
 in which Rama says that when he sees the hill he forgets his exile and his loneliness evoked the admiration of Rabindranath Tagore. In Ayodhya, LVI, 6 to 10, Rama says that the beauty of the night in the forest kindles his joy in life. Another grand description is that of Hanuman jumping from tree to tree in the Asoka forest. (See Sundara, XIV, 9 to 20). The poet then starts off with another grand description of the artificial royal garden which is a supreme achievement of artistic sensuousness. (Sundara, XIV, 21 to 40). I may refer also to the two wonderful descrip-
 
-
-
 tions of the mountains from which Hanuman jumped to Lanka and back from Lanka. Each has got a grandeur and sublimity of its own. (Sundara, I, 45 to 48; LVI, 25 to 34). The description of Pampa and its surrounding forest scenes is another of the highlights of nature poetry in the poem (Kishkindha, I, 4 to 16. The verse
 
 **सृजतां पुष्पवर्षाणि तोयं तोयमुचामिव।**
@@ -2622,8 +2328,6 @@ He is never tired of describing the lotus which is the national flower of India 
 
 **इमानि मुखपद्मानि नियतं मत्तषट्पदाः।  
 अंबुजानीव फुल्लानि प्रार्थयन्ति पुनः पुनः॥ (Sundara, IX; 39).**
-
-
 
 By another immediate flight of imagination, he compares them to a garland of stars in the sky, (Sundara, IX, 41 to 44). In the last verse stated above.
 
@@ -2646,8 +2350,6 @@ In the description in Kishkindha, LXIV, 2 to 6, the ocean stands before our inne
 
 See also Bāla, XXXV, 7, 8; XLIII, 4, 20, 24 to 27; XLV, 7; Ayodhya, L, 12 to 25; LXXX, 21.
 
-
-
  I must finally refer to Valmīki's accurate and faithful and wonderful description of the Indian *Rithus* (seasons). It was from him that Kalidasa took his poetic ideas for his *Ritu Samhāra*, and all the later poets are indebted to him in many ways in this matter. In the Aranya Kanda, he describes the Hemanta Ritu (the season of frost) in great detail. (XVII, 4 to 26). Spring, which is always dear to all poets, comes in for a very long and magnificent description in the famous Chapter I of the Kishkindha Kanda. The companion picture of the rainy season appears in Chapter XXVIII of the same Kanda. The poet's grand description of the autumnal season (*sarat ritu*) is found in canto 30 of the Kishkindha Kanda, The canto is a very long one and contains some of the most charming poetry written by the poet or found anywhere in the world's literature.
 
  Valmīki excels not only in the description of Nature in and by and for herself but also in the description of the mutual responsiveness of Nature's scenes and human moods. Ruskin calls this as the pathetic fallacy but it is difficult to see the fallacy in such an attitude. The Indian mind has always realised human life as embosomed in the life of Nature. Nature does not merely charm usor awe us but consoles us and purifies us and uplifts us. The poet says that when Rama deported from Ayodhya Nature wept along with all the living beings in Ayodhya.
@@ -2664,8 +2366,6 @@ When Sita was abducted she appealed to the hills and the trees to inform Rama ab
 
 **आमन्त्रये जनस्थाने कर्णिकारान् सुपुष्पितान्।  
 क्षिप्रं रामाय शंसध्वं सीतां हरति रावणः॥ (Āranya, XLIX, 80).**
-
-
 
 **रुदन्तमिव वृक्षैश्च म्लानपुष्पमृगद्विजम्।  
 श्रिया विहीनं विध्वस्तं सन्त्यक्तवनदेवतम्॥ (Āranya, LX, 6).**
@@ -2702,8 +2402,6 @@ The poet himself describes Rama's handsome features with a wonderful glow of lan
 
 The Rishis of Dandakāranya are equally in ecstacy at the sight of Rama's glory of form.
 
-
-
 **रूपसंहननं लक्ष्मीं सौकुमार्य सुवेषताम्।  
 ददृशुर्विस्मिताकारा रामस्य वनवासिनः॥ (Āranya, I, 13).**
 
@@ -2716,8 +2414,6 @@ Surpanaka's description of Rama occurs in Āranya, XIX, 14, and Hanuman's descri
 We get only stray adjectives and brief descriptions about her loveliness. See Āranya, XVIII, 17; XLVI, 12 to 14; LX, 13, 32; Kishkindha, I, 30, 50, 68; Sundara, XXIX, 7. With a perfect sense of fitness he puts only into Ravana's mouth a detailed description of her graces and charms. (Āranya, XLV, 17 to 23; LII, 16, 18; Sundara, XX, 13 to 15). The most spiritual descriptions of Sita are found in Cantos XV and XVI and XVII and XIX of the Sundara Kanda which contain the most wonderful poetic description of feminine beauty in the world and are at the same time the richest treasure-trove of poetic imagery and figures of speech. There is all the difference in the world between Ravana's voluptuous description and Hanuman's pure passionless spiritual delineation. On the other hand in Ravana's description of Rambha all spiritual elements are eliminated altogether. (Uttara, XXVI, 14 to 18).
 
  Valmīki's love poetry shews a fine blend of sensuousness and spirituality. Love should be mutual if it is to be a source of happiness.
-
-
 
 **अकामां कामयानस्य शरीरमुपतप्यते।**  
 **इच्छन्तीं कामयानस्य प्रीतिर्भवति शोभना॥ (Sundara, XXII, 42).**
@@ -2742,8 +2438,6 @@ It is pleasing to turn from love in pining separation to love in happy union.
 
  An epic poem, because of its high heroic level of theme and speech, does not offer as many opportunities for the manifestation of the spirit of humour as the drama which reveals human life in all its levels and complexities. Further, the Indian mind never achieved its highest triumphs in the realm of wit and humour. Our Prahasanas are either farcical or ribald or obscene and we have no real high grade comedy. The true Atlic salt
 
-
-
 has yet to be tasted in Indian literature. Even in the western literatures, supreme humour is a comparatively modern phenomenon.
 
  After all Valmīki's achievement in the province of humour, thin as it is, is the highest peak in Indian humorous achievement. One reason for this is that tenderness being his predominant mood, his comic genius takes on the form of humour rather than the form of wit or satire.
@@ -2758,8 +2452,6 @@ They gave him cakes and sweetmeats and the poet says that he regarded them as fr
 
  There is an element of humour in Indra—the lord of the three worlds—putting on the guise of the sage Gautama. There is also a gentle sense of irony and humour which relieves the tension of the grim and serious resolve of Viswamitra's life by his tenderness to Trisanku and Sunassepa and by his surrender to the divine charms of Menaka. There is also an element of the pictureque and the humorous in the tempestuous arrival of Parasurama and in the sudden calm which succeeds the storm. But the highlightsXXX Valmīki's humour are seen in the Manthara-Kaikeyi epi-XXXIu the famous verse
 
-
-
 **ज्ञातिदासी यतो जाता कैकेय्यास्तु सहोषिता।  
 प्रासादं चन्द्रसंकाशमारुरोह यदृच्छया॥**
 
@@ -2769,8 +2461,6 @@ words **यतोजाता** and **यदृच्छया** are marvellousl
 बभासे रज्जुर्भिर्बद्धा रज्जुबद्धेव वानरी॥ (Ayodhya, LXXXIII, 7).**
 
  In the Ayodhya Kanda, the poet introduces an element of humorous relief from the tense emotion of the preceding and succeeding episodes when he describes Rama's giving away all his possessions by gifts before he goes into exile. Especially humorous is the story of the Brahmin Trijata who was earning a precarious livelihood with the aid of pickaxe and spade and plough (**पुल्लकुद्दाललांगली**) and whom his wife sent (as later Kuchela's wife sent Kuchela) to benefit by the farewell gifts of Rama. He
-
-
 
 goes to Rama clad in rags. Rama had gifted away all his possessions except his cows. He was in a humorous and even hilarious mood. He told Trijata: “Throw your stick with all your might and take all the cows standing up to the spot where the stick falls.” The poet says that the indigent Brahmin tied his upper garment round his waist and threw his stick with all his might (**सर्वप्राणेन वेगितः**). The stick whirled and flew and fell beyond the Sarayu river and he annexed all the cows by that single throw of the stick. (Ayodhya, XXXII, 36 to 40). The nobility of Rama's nature led him immediately to placate Trijata and request him to excuse such piece of fun and this episode makes Rama rise in our estimation all the more.
 
@@ -2788,8 +2478,6 @@ A yet another humorous situation is created by the poet when Lakshmana gets up a
 
  Later on the Jābāli episode gives us a slight humorous relief from the tense emotion of the Bharata-Rama conversation scene. In the Aranya Kanda the Virādha and Kabandha epi-
 
-
-
 sodes enable the poet to variegate and leaven seriousness with fun and frolic. But one of the high-lights of the comic spirit is reached in the Surpanakha episode wherein an old libidinous harridan makes violent love to a handsome righteous youth. The poet tells us that Rama entered into the spirit of the scene and had a little banter at her expense. The conversation between them must be taken in the spirit of humorous badinage as it was meant by the poet. The Mareecha episode brings in an element of humour besides the element of marvel and the element of fate and providence. The introduction of the Ravana with his ascetic garb and lustful looks gives the poet another opportunity to show the oddities and incongruities of life.
 
  As soon as we enter the Kishkindha Kanda, the stage is set for the entry of the comic spirit. The episode where Sugreeva overwhelmed by wine and lust forgets his promises and sends Tara to bespeak Lakshmana's pardon being afraid to go himself has got an informing grace of humour.
@@ -2804,8 +2492,6 @@ sodes enable the poet to variegate and leaven seriousness with fun and frolic. B
 But it is on the Madhuvana episode that the poet shows his most rollicking sense of humour.
 
  In the council of war in the Yuddha Kanda, and in the Kumbhakarna episode we get fine humorous touches. Later yet in the Uttara Kanda there is an element of humour in Valmīki's description of Ravana's fight with Yama and of Ravana's defeat at the hands of a man like Kartaveeryarjuna and a monkey like Vali.
-
-
 
  In addition to the description of all these humorous situations, the poet has many sly and humorous hits.
 
@@ -2822,8 +2508,6 @@ But it is on the Madhuvana episode that the poet shows his most rollicking sense
  Valmīki's mataphors and similes and poetic fancies (RupakaXXX
 Upama and Utpreksha) are most natural and simple and
 
-
-
 appropriate and telling and expressive. They are drawn from the entire range of creation. His imagination seizes affinities and analogies with which Nature abounds and which we in our poverty of outer and inner vision fail to see and enjoy and describe. At the very beginning of the poem we come across a famous simile which grips out imagination as soon as it is expressed.
 
 **रमणीयं प्रसन्नांबु सन्मनुष्यमनो यथा। (Bāla, II, 5).**
@@ -2834,16 +2518,12 @@ The words *prasanna* (limpid) and *ramaneeya* (lovely) describe Valmīki's mind 
 
  I may refer also to another remarkable and admirable characteristic of style. He has a unique way of repeating a telling
 
-
-
 phrase in verse after verse, varying the sentiments and words in the first half of the stanza and then repeating the identical second half of the stanza so that it acquiries a new intensity of meaning and suggestiveness in the light of the ever-changing background of thought and emotion in the first half of the verses. The most poignant and perfect instance of this literary craftsmanship occurs in Canto 75 of the Ayodhya Kanda with the refrain **यस्यार्थोनुमते गतः**. haunting our mental footsteps through thirty-eight stanzas. But such craftsmanship abounds throughout the poem. **धनं प्राप्येव निर्धनः** occur in Bala XVI, 23 and Uttara, V, 3. **देवदुन्दुभयोने दुःपुष्पवृष्टिश्च स्वाच्च्युता**। occurs in Bala, XVIII, 16 and Uttara, XVI, 21. Viswamitra's words **रामं मे दातुमर्हसि** occur twice in Canto XIX, of Bala Kanda, while Dasaratha's words in reply **न रामं नेतुमर्हसि** occur thrice in Canto XX. **अनृतं नोक्तपूर्वं मे न च वक्ष्ये कदाचन**। occurs in Bala, LVIII, 20; Kishkindha, VI, 22; XIV, 14. **विवत्सा इव धेनवः**। occurs in Ayodhya, XX, 6 and XLI, 7, **वराहरुधिरामेण शुचिना च सुगन्धिना**। occurs in Ayodhya XVI, 9, and Kishkinda, X, 19. **प्रवाते कदली यथा**। occurs in Ayodhya, CXVII, 16, Aranya, II, 15, Sundara XIX, 2. The line **आतिथ्यं कर्तुमिच्छामि तत्र मे संविधीयताम्**। occurs twice in Canto CXI of Ayodhya Kanda. The words **तस्मात् दुःखतरं वनम्** occur in ten verses in Ayodhya, XXVIII. The words **नमे शान्तिर्भविष्यति** haunt us in four beautiful verses in Canto 98 of Ayodha Kanda. The verse
 
 **सर्वे क्षयान्तानिचयाः पतनान्तास्समुच्छ्रयाः।  
 संयोगा विप्रयोगान्ताः मरणान्तं च जीवितम्॥**
 
 occurs in Ayodhya, CV, 10, and Uttara, LII, 11. The words **स्मारये त्वां न शिक्षये** occur in Aranya, IX, 24, and Yuddha, CVIII, 12. **अप्यहं जीवितं जह्याम्** occur in Aranya X, 19, and Uttara, XLV, 14. **भुंजाना मानुषान् भोगान् सर्वकामसमृद्धिनी** occurs in Aranya, XLVII, 4, and Kishkindha, XXXIII, 18, The words **क्षिप्रमादाय शंसत्वम्** occur in three verses in Aranya, XIV. The words **रक्षिता स्वेन तेजसा** haunt us in Sundara, LV, 23, and Yuddha, CXXI, 18. The words **शीतो भव हनूमतः** occur in four verses in Sundara, LIII. The words **न हि कर्मसु सज्जन्ते बुद्धिमन्तो भवद्विधाः** (kanda, verse) are echoed in **मूलघातेषु सज्जन्ते बुद्धिमन्तो भवद्विधाः,**in Sundara LI, 18. The verse **अभास्करमर्यादं न जानामि ततः परम्** occur twice in Cantos 40, 42, and 48, of the Kishkindha Kanda. The verse
-
-
 
 **कल्याणी बत गाथेऽयं लौकिकी प्रति भाति मे।  
 एति जीवन्तमानन्दो नरं वर्षशतादपि॥**
@@ -2870,8 +2550,6 @@ occurs in Sundara, XXXIV, 6, and Yuddha, CXXIX, 2, The words **प्रदी�
 
  Thus the best style is that which is sweet, coming directly from and going directly to the heart, heart-gladdening, brief, clear, neither quick nor slow, disciplined, charming, decorated, and capable of carring conviction even to an enemy. In the language
 
-
-
 of the rhetoricians of a later date, the style of Valmiki has got all the best *gunas*, is in the *Vaidarbhi rite*, and has *the drakshapaka*, in addition to *alankara* and *rasa* and *dhvani* and *chamatkara* and *auchitya*. This means that his style is easy and clear and graceful and has, like grapes, both inner and outer sweetness (**बहिरन्तस्स्फुरद्रसः**).
 
  Apart from all these excellences looked at from the point of view of techinical aestheties, the most wounderful traits of Valmiki's style are his pictorial imagination and his picturesqueness of expression. These are rare and supreme poetic qualities. When these are combined with simplicity and brevity and clarity and elegance of diction, the result is marvellous. I shall give a few examples here.
@@ -2891,15 +2569,11 @@ of the rhetoricians of a later date, the style of Valmiki has got all the best *
 
  The Ramayana is the greatest epic poem in the world. What is an epic poem? It deals with a heroic age and heroic incidents and heroic characters. It is a treasury of the national ideals and traditions and an incarnation of the national genius. In it the genius of the epic poet is as vital and important as the sublimity of the epic material. A merely literary epic may be deficient in the dynamism of the national ideal. A merely national epic may be crude. The two supreme instances of a fusion of both are the *Iliad* of Homer and the *Ramayana* of
 
-
-
 Valmiki, and of the two the latter is immeasurably nobler and grander and more spiritual than the former. The material of epic poetry must be a reality but the work must be supreme poetry all the same. The epic must be large in design and perfect in proportion. It must fuse the natural and the supernatural. It must symbolise and enshrine life and super-life.
 
  Monier Williams says well: “Although the Hindus, like the Greeks, have only two great epic poems (the Ramayana and Mahabharata), yet to compare these vast compositions with the Iliad and the Odyssey, is to compare the Indus and the Ganges, rising in the snows of the world's most colossal ranges, swollen by numerous tributaries, spreading into vast shallows, branching into deep divergent channels, with the streams of Attica or the mountain torrents of Thessaly. It is, of course, a principal characteristic of epic poetry, as distinguished from lyrical, that it should concern itself more with external action than with internal feelings. It is this which makes epics the natural expression of early national life. The Ramayana and Mahabharata, then, as reflecting the Hindu character in ancient times, may be expected to abound in stirring incidents of exaggerated heroic action.”
 
  Mr. C. V. Vaidya thinks that the Ramayana is a lyric poem because it was sung. But his view is entirely wrong and betrays an ignorance of the real character of a lyric and an epic. A lyric expresses a dominant but passing emotional mood and gives it a permanent, beautiful literary form which is subtly linked to the lilt of a song. But as pointed out already, the epic has a wider canvass and a sublimer intent. The lyric is intensely individual and its essence is in the aroma of the personality of the lyrist. But the epic, though the genius of the poet is essential to its greatness, is primarily a treasury of the national traditions and ideals. Indeed Mr. Vaidya stultifies himself and negates his own view by saying: “Indeed of all the heroes who have been deified by the nations of antiquity Rama stands preeminently at the head as having lived a life singularly pure and noble” (page 55 of the *Riddle of the Ramayana*).
-
-
 
  The fact is that the earliest epic poems were chanted and were wedded to music, though not to music of the highly evolved type of the modern days. There was a bardic element in Homer's epics, in the Cid, in Nibulengen Lied, etc., though perhaps the Aeneid being the product of a sophisticated age was not chanted and though Milton's Paradise Lost, dealing with very ancient events in very modern times, was not chanted or sung but has been enjoyed for the sheer poetry of it.
 
@@ -2922,8 +2596,6 @@ He teaches that a wise person should always have foresight and be forewarned and
 पूर्वं चारकर्माणि न स वेदनयानयौ॥ (Yuddha, XII, 32).**
 
 See also Kishkindha, VII, 21. We must not bear too heavy burdens in life; we must eat only such food as we can easily
-
-
 
 digest and as will not cause any disease; we must not do anything which will not bring righteousness or fame but will merely cause fatigue and pain to the body. (Aranya, L, 17, 18). We must reflect over the future consequences of our acts before we do anything. (Aranya, LI, 26, 31, 32). Another wise idea is that as life is short, and life and death are unpredictable, we must do only what is good to all.
 
@@ -2953,8 +2625,6 @@ He teaches further that the noblest law of life is the law of tenderness and com
 **पापानां वा शुभानां वा वधार्हाणां प्लवंगम।  
 कार्यं करुणमार्गेण न कश्चिन्नापराध्यति॥ (Yuddha, CXVI, 45).**
 
-
-
  Valmiki, besides teaching us great and supreme lessons of ethics for our right conduct of life, tells us also the difficulties and agonies and incongruities and oddities of life. I have already referred to his shrewd observation that the father of daughters is put to many worries and indignities. He says that the sorrow of widowhood is the acutest of all the sorrows of life. (Uttara, XXX; 142). He shrewdly affirms that men err when fate marks them for misfortune and refuse to take salutary advice. (See Aranya, LVI, 16; XLI, 20; XL, 1). He says also that it sometimes happens that one person does evil and his entire family perishes on that account.
 
 **एको हि कुरुते पापं कालपाशवशंगतः।  
@@ -2976,8 +2646,6 @@ He shrewdly says that a miser will never let go his hold on money (Yuddha, XXXIV
 
 Another shrewd observation is that it is only noble and unselfish natures that have fast friendships and that there is no real
 
-
-
 comradeship among persons who are full of pettiness and meanness and jealousy and selfishness.
 
 **यथा पुष्करपर्णेषु पतितास्तोयबिन्दवः।  
@@ -2998,8 +2666,6 @@ Another cynical truth is that a person who leaves his community and seeks the ai
 **सन्निकर्षाच्चसौहार्दं जायते स्थावरेष्वपि॥ (Ayodhya, VIII, 28).**
 
 When Rama breaks the news of his banishment to his mother, he calls the period of exile as six and eight to make the news less stunning to her. (Ayodhya, XX, 31). Her reply is equally natural and touching. She says that barren woman has only the grief of sterility and that she herself has a new load of griefs to bear. (Ayodhya, XXX, 36, 37). We find similar natural touches in abundance in the poem. See Ayodhya, XII, 14, 36, 92, 110, 112; XXIV, 9; XXVI, 5, 7; 8; XXXV, 1, 2; XXXVI, 14;. XXXVII, 3; XL, 43 to 46; LXIV, 74; XCVII, 19; Aranya, XXXVI, 23; XLII, 28; XLIII, 8; Sundara, IX, 21; XXXV, 83, 86; Yuddha, XXX, 1; XCII, 4, 5, 14, 15, CXXVI, 51; Uttara, XVI, 12; LXX, 12).
-
-
 
  Ishall finally refer to the popular and picturesque lines which occur in the poem and have passed in to the popular memory. I shall quote only a few here and give the references relating to the others.
 
@@ -3047,8 +2713,6 @@ When Rama breaks the news of his banishment to his mother, he calls the period o
 
 See also Ayodhya, IV, 27; VII, 15; XII, 106; XXI, 13; XXIV, 35, XXVI, 25; XXVII, 4; XXXVII, 24; XXIX, 4; XXXIV, 46; XXXV, 14; LXIII, 7 to 9; LXXIV, 14, 25; XCVI, 24; CII, 30; CV, 16; CVI, 4, 13; CIX, 9, 15; Aranya, X, 21; XXXIX 20; XLI, 13; LXVIII, 24; L, 11; Kishkindha, VIII, 21; XXI, 3; XXXIII, 35; Sundara, XIII, 47, 48; XXI, 4, XLI, 5, 5; Yuddha, V, 4; XXIII, 15; CXXX, 44; Uttara, X, 33; XXVI, 52, XXX, 11.
 
-
-
 **CHAPTER XII**  
 **Valmiki's Spiritual Ideals.**
 
@@ -3066,8 +2730,6 @@ Ravana ther attacks Yama and releases Yama's prisoners who thereupon got a tempo
 The *Kata Upanishad* shows Nachiketas as a guest and disciple of Yama. The story of Savitri in the *Mahabharata* shows her as winning Yama's grace by the power of her chastity. The descent of Dharmaraja into hell as described in the *Mahabharata* was a passing phenomenon. But it is in the Ramayana that we see a warrior attacking Yama himself. The battle between Ravana and Yama was fierce and indecisive and Brahma himself made peace between them.
 
  Such is the nature of our human life—so brief, so sorrowful, and so vain. There are two other great episodes in the Ramayana wherein this truth is borne in upon us with all the magic of supreme poetry. Rama teaches us the essence of the nature of human life in 18 verses in Ayodhya, CV, verses 14 to 31. These 18 verses are described as the Gita (which consists of 18 chapters)
-
-
 
 within the Ramayana. I shall quote here only a few of these familiar and famous verses.
 
@@ -3104,8 +2766,6 @@ He then pacified Sugreeva by saying that we are all controlled by Fate.
 नियतिस्सर्वभूतानां नियोगेष्विहकारणम्॥  
  (Kishkindha, XXV, 1, 4 to 8).**
 
-
-
  But are we the slaves of a pitiless and inexorable Destiny? Sri Rama says: No. In the earlier episode stated above he says that Dharma is eternal and the soul is eternal and that Dasaratha who was a virtuous man had gone to heaven (Ayodhya), CV, 34, 37). Nay, the poet brings Dasaratha down to the earth to meet Rama and bless him (Yuddha, CXXII, 10). In regard to Vali also Sri Rama says that he had attained heaven. (Kishkindha, XXV, 10). In regard to Jatāyu, he sends it to the heavenly abode by the power of his grace. We find the same truth in the case of Sarabhanga and Sutheekshna and Sabari. The poem makes the assurance of the soul's attainment of heaven and paradise one of the certitudes of existence.
 
  Thus the basic religious idea is that of the life of the soul not being limited by the life of the body. This certitude of another world (Paraloka) and of its being won by a moral life runs throughout the poem.
@@ -3126,8 +2786,6 @@ This verse indicates that all our punya (religious merit) must be surrendered to
 
 If this is not the language of the self conscious supreme Lord I do not know what such language can be. The poem says that Sarabhanga rose to Brahmaloka. In regard to Sabari the poet says that the attained the supreme abode by *Ātma Samadhi*. (Aranya, LXXV 33, 35). The same was the case with Jatāyu
 
-
-
 who laid down his life as a sacrifice in the cause of righteousness and goodness (See Aranya, LXVIII, 29, 30).
 
  Only in one place in the poem do we get a hint in regard to the highest paradise (Paramapada) which is eternal and which is higher than heaven and from which there is no return into the cycle of births and deaths. When Sugreeva wanted to accompany Rama in his ascension, Rama replies to him,
@@ -3144,8 +2802,6 @@ The Moola Ramayana refers to Rama as going finally to Brahmaloka. The Uttara Kan
 **आराधयति धर्मज्ञः परलोकं जितेन्द्रियः॥ (Ayodhya, LX, 6).**
 
 See also Ayodhya XLIV, 4; LXIII, 19, 26, LXIII, 6; Aranya XLIX, 26; LX, 16; Kishkindha, XXI, 2; Yuddha, LXIV, 7, 8, 9, CXIV, 25, 7, CXVI, 40, 41. God distributes rewards and punishments in the time in accordance with our karma. Karma, being
-
-
 
 insentient, cannot by itself relate effects to causes and bring about its own results. Ayodhya, XXII, 22; Aranya, XLIX, 24, Yuddha, CXIV, 26. But the Indian philosophy and religion always deprecate the idea of an inexorable fate. In the Yoga Vashishta the truth of the superiority of effort (Purushakāra) over fate which is called Daīva and which is only the fruit of our own former actions is stressed again and again. This truth is referred to Valmiki also in the Ramayana. He no doubt says thus in Yuddha, CXIII, 23 and 25, about the power of fate.
 
@@ -3166,8 +2822,6 @@ When fate and effort combine, the results are rapid and easy and quickly attaine
 उत्सृज्य नियमांस्तीव्रान् भ्रंश्यन्ते काममन्युभिः॥ (Ayodhya, XXI, 23).**
 
 This only means that we must put up a greater resistance and call our wisdom to our aid and pray for God's grace to resist such impulses with vigour and success and to attain our birthright of eternal happiness (Ayodhya, CV, 31).
-
-
 
  Valmiki gives the loftiest place to the Vedas as the supreme means of getting our knowledge of the highest truth. He says that he wrote his own work to amplify and illustrate and reinforce the Vedic knowledge (**वेदोपबृंहणार्थाय,** Bala IV, 6). He describes the men of Ayodhyaya as **अध्ययनशीलाः**and **षडंगवित्** (Bala, VI, 13, 15). Many Vedic sacrifices were performed by Dasaratha and Rama. Rama and Lakshmana were experts in the Vedic Mantras. Nay, the same state of things obtained in Lanka also, though such knowledge was misapplied and misused there for cruel and evil purposes. Valmīki gives us by a simile his sense of the supremacy of the Veda as an organon of Truth.
 
@@ -3190,8 +2844,6 @@ The poet praises the human intellect which follows the guidance of the Scripture
 **कृता शास्त्रानुगा बुद्धिर्माभूत्तस्य कदाचन।  
 सत्यसन्धस्सतां श्रेष्टो यस्याऽर्यानुमतेगतः॥ (Ayodhya, LXXV, 20).**
 
-
-
  Valmiki's conception of the Gods is interesting and shows a synthesised outlook. He says that the gods are always youthful and are twenty-five years of age and that their eyes do not wink and that they have bright garments and ornaments and unfading flowers and that their feet do not touch the ground when they come down to the earth (**असंस्पृशन्तं वसुधाम्**). See Aranya V, 5 to 10, 17, 18. The Sun-God is thus described in the poem.
 
 **आदित्य मो लोककृताकृतज्ञ लोकस्य सत्यानृतकर्मसाक्षिन्॥  
@@ -3208,8 +2860,6 @@ Hanuman bows to all the gods before he starts on his final quest of Sita (Sundar
 
  Valmiki gives the highest place in the pantheon to Brahma and Vishnu and Siva. Though in Canto 75 verse 20 of the Bala Kanda it is said that the gods regarded Vishnu as being higher than Siva, yet in Canto 45 Vishnu is described as calling Siva as the chief of the gods (**सुरश्रेष्ट** and **सुराणामग्रजः**). Brahma is described in Ayodhya, XIV, 49. Vishnu is described in Bāla, XV, 16, 25; XIX, 11, 12; Uttara, VI, 30. Vishnu's bow Sāranga and his chakra (discus) and his vehicle Garuda are described in Uttara, VII. Siva is described in Bāla, XXXV,
 
-
-
 22; XLIII, 2; XLV, 3 to 6; Ayoddhya, XXV, 45; Aranya, LXV, 2; Yuddha, LXXV, 35; Uttara, IV, 29; VI, 1 to 3, 8. Valmiki shows each aspect of the Trinity as being equal to the others. Just as the gods ask Vishnu to kill Ravana, they ask Siva to kill Malyavan and Sumali and Mali (Uttara, VI, 1 to 3, 8). Valmiki is free from the sectarian bigotry and fanaticism of later ages in India. God is but one and is Sachchidananda and is omniscient and omnipotent and omnipresent and is the creator and preserver and destroyer of the universe, though he is called Brahma and Vishnu and Siva with reference to such cosmic functions. See Bāla, II, 23; Yuddha, CXX, 15, 20. Rama says that superhuman supreme prowess was in him and in Siva.
 
 **एतदस्त्रबलं दिव्यं मनवायंबकस्य वा॥ (Yuddha, XCV, 38).**
@@ -3224,8 +2874,6 @@ Hanuman bows to all the gods before he starts on his final quest of Sita (Sundar
  (Sundara, XXVI, 49, 50).**
 
 XXXare high-souled and sinless and self-controlled, and are XXXand dislikes. They are further described by the
-
-
 
 poet as shining with a divine lustre and as being men of steadfastyoga and perfect mental equipoise and concentrated meditation,
 
@@ -3261,8 +2909,6 @@ In Āranya, XVI, 6 there is a reference to Āgrayna Puja when new corn is reaped
 **स्वयं प्रहर्षं परमं जगाम सर्वात्मना राममनुस्मरन्ती॥  
  (Sundara, XXIX, 119).**
 
-
-
 He describes how Brahmans bathe in pure waters and bring fresh flowers plucked by themselves for worship.
 
 **विविक्तेषु च तीर्थेषु कृतस्नाना द्विजातयः।  
@@ -3292,8 +2938,6 @@ The Saranāgati of the sages is described thus in the poem.
 
 **बहुविघ्नंतपो नित्यं दुश्चरं चैव राघव॥ (Aranya, X, 13 to 15 ).**
 
-
-
  It is often said by orthodox Vaishnava expounders of the Ramayana that Rama's Saranāgati to Sugreeva in Kishkinda, IV, and to Varuna in Yuddha, XXI, failed as it was by a superior to an inferior. This may be correct in accordance with the technical description of Saranagati in Vaishnava devotional literature but the poet uses the word in the more general sense of seeking protection. Sugreeva's Saranāgati was a success, and so was Rama's as well. The word is used in many other places in the Ramayana in such wider sense and not only in the sense of self-surrender by the individual soul to the universal soul. (See Bāla, LVII, 16, LVIII, 25, LIX, 2, 5, LX. 2). It is said by some expounders of the Ramayana that Raina's anger towards Vāli was due also to his breaking the law of refuge as Sugreeva sought refuge with him(Kishkindha, X, 9) and that verse 15 in Canto XVIII of the Kishkindha Kanda refers to this fact.,
 
  Vibheeshana's Saranāgati is in the famous verse.
@@ -3320,8 +2964,6 @@ Sita says that Rama had told her that such protection is the highest law.
 
 **आनृशंस्यं परो धर्मस्त्वत्तएव मयाश्रुतः॥ (Sundara, XXXVIII, 41).**
 
-
-
 Her own vow of protection is as lofty and noble and supreme as that of Rama. (**प्राणिप्रसन्ना हि मैथिली जनकात्मजा**—Sundara, XXVII, 44; LVIII, 89).
 
 **अवोचद्यदि तत्तथ्यं भवेयं शरणं हिवः॥ (Sundara, LVIII, 90).**
@@ -3341,8 +2983,6 @@ It is on this note of perfect and complete self-surrender to God that Valmiki cl
 **URBAN LIFE**
 
  Valmiki's bright and multi–tinted picture of Ayodhya and Lanka, and the less bright and multi–tinted picture of Kish.
-
-
 
 kindha show to what a high level of urban life Indians had risen in his time. Ayodhya was on the banks of the river Sarayu. Lanka was on the seashore. Kishkindha was in the fastness of the hills. Thus the cities had strong natural defences and were easy to defend and difficult to attack. I have already referred to the broad and well–watered streets of Ayodhya. It was situated on a plain and had sweet water in plenty.
 
@@ -3367,8 +3007,6 @@ Its mansions were high and had waving flags on the top. (**उच्चाट्
 **वाजिवारणसंपूर्णा गोभिरुष्ट्रैः स्वरैस्तथा॥ (Bāla, V, 13).**
 
 It had plenty of foodstuffs (**शालितंडुलसंपूर्णाम्**—Bala, 10). It had also plenty of other articles of merchandise including precious stones,
-
-
 
 and its streets and squares were full of moving men and animals and chariots.
 
@@ -3408,8 +3046,6 @@ It contained also merchants from all the quarters of the earth, and also tributa
 **सामन्तराजसंधैश्च बलिकर्मभिरावृताम्।  
 नानादेशनिवासैश्च वणिग्भिरुपशोभिताम्॥ (Bāla, V, 14).**
 
-
-
  More than the above-said excellences, the poet attaches special importance to the ability and character of the main body of citizens in the city. The women in it were the best of woman-kind. (**वरनारीगणैर्युताम्**—Bāla, V, 16). Its men were the best of men.
 
 **विमानमिव सिद्धानां तपसाधिगतं दिवि।  
@@ -3428,8 +3064,6 @@ How were these men the best of men? They were learned in the art of defence and 
 **गिरिमूर्ध्नि स्थितां लंकाम्। (Sundara, II, 19).**
 
 **अद्रिमूर्ध्नि प्रतिष्टिताम्। (Sundara, IV, 21).**
-
-
 
 **सागरानिलसेविताम्। (Sundara, XIII, 3).**
 
@@ -3455,8 +3089,6 @@ Seen also Sundara, I, 3, 12, 13, 14; IX, 29; Yuddha, XXIV, 9; XXXVIII, 14; XXXIX
 
  The poet seems to have been specially charmed by the abounding vegetation of Ceylon. He is never tired of praising the parks and gardens and forests of Lanka. Hanuman, when he went through them, had a shower of flowers on his head and looked as if he had been made of flowers. The forests and gardens were dark and fragrant and full of small and big rocks. There were all varieties of trees, all of them full of blossoms andXXXlike women with jewels. The tanks and moats were full of lotuses with charming and tuneful birds seated thereon.
 
-
-
 See Sundara II; 2, 6, 7 to 14; Yuddha, XXXIX, 1, 2, 6 to 8, 13, 25.
 
 **लंकायां ददृशुर्वीरा वनान्युपवनानि च।  
@@ -3477,8 +3109,6 @@ See Sundara II; 2, 6, 7 to 14; Yuddha, XXXIX, 1, 2, 6 to 8, 13, 25.
 **पांडुराभिः प्रतोलीभिरुच्चाभिरभिसंवृताम्।  
 अट्टालकशताकीर्णां पताकाध्वजमालिनीम्॥**
 
-
-
 **तोरणैः कांचनैर्दिव्यैर्लतापङ्क्तिविचित्रितैः।  
 ददर्श हनुमान् लंकां दिविदेवपुरीमिव॥**
 
@@ -3490,8 +3120,6 @@ See Sundara, II, 16 to 19, 21, 51, 56; Yuddha III, 3, 6, 7, 9, 18; XXXVIII, 15; 
 
 expresses the poet's own view. But such a moral evaluation does not lesson the grandeur of the artistic wonders and enjoyments in the palace of Ravana. The artistic embellishments in Ravana's palace are described in great detail and must be borne in mind when we evaluate the artistic achievements of India in the realms of the fine arts and industrial arts in the spacious times of Rama and Valmiki. The description of the Pushpaka Vimana in the heart of the palace is a marvel of the literary art. The aereal car contained paintings of hills and mountains with trees lit with honey-laden flowers, and of fanks and lakes shining with lotus flowers. It contained wonderful birds made of silver and gold and decorated with gems and having wings beautifully curved and made of pearl and coral and gold. It contained also artificial horses and elephants and serpents in various colours. Every such work of art bore marks of wonderful aesthetic perception and artistic skill and was made of very costly metals and precious stones. Such sights could not be had even in heaven. The grandeur of the palace and the dome was so unique that it seemed that they were the heavenly rewards attained in heaven by great spiritual merit on the earth rather than any ordinary terrestrial achievements which are the result of human labour with ordinary terrestrial materials. The most
 
-
-
 wonderful of all in it was the figure of Lakshmi on whom the figures of elephants showered multi-coloured flowers with up-lifted trunks! See Sundara, VII, 6, 9, 10, 12, 13, 14; VIII, 5.
 
  The poet's supreme art is felt when he describes such an abode of sensuality and splendour receiving a double fiery purgation at the hands of Hanuman and later on of the Vanara army. (Sundara Kanda 54 and Yuddha Kanda, 75). That double destruction enables the poet to give a vivid description of the valuables and wonders destroyed by fire. The stately houses and palaces exploded and crashed. Ornamental gates, sandal, agaru, pearls, corals, gems, linens, silk, woollen fabrics, blankets, deerskins, tigerskins, silver and gold vessels, horse-trappings, elephant-trappings, bridles, chariots, armours, swords, bows, lances, darts, goads, musk, etc. were destroyed by the conflagration. See Sundara, LIX, 23; Yuddha, LXXV, 6 to 13.
@@ -3502,8 +3130,6 @@ wonderful of all in it was the figure of Lakshmi on whom the figures of elephant
 
 **ततो हेममयं दिव्यं मुक्तामणिविभूषितम्।  
 युक्तं कवाठं पांड्यानां गता द्रक्ष्यथ वानराः॥ (Kishkindha, XLI, 19).**
-
-
 
 **RURAL LIFE**
 
@@ -3528,8 +3154,6 @@ The villages had village officers called janapadeswaras (Uttara XXXVII, 16) and 
 **सर्वे ब्राह्म्या श्रिया जुष्टाः दृढयोगाः समाहिताः॥ (Aranya, VI, 6).**
 
 The hermitages at Chitrakuta and Panchavati which were huts built with mud walls and bamboo roofing and grass covering
-
-
 
 and were built for Rama by Lakshmana are beautifully described in Canto 56 of the Ayodhya Kanda and Canto 15 of the Āranya Kanda.
 
@@ -3561,8 +3185,6 @@ In Ayodhya, LXVII, 16, there is a reference to Harikathas.
 
 **कथाभिरनुरज्यन्ते कथाशीलाः कथाप्रियैः॥**
 
-
-
  Architecture of a very advanced and refined description existed in the times of Valmiki. He refers to architectural experts (**स्थापत्ये निष्टितान्**), hodmen (**कर्मान्तिकान्**), carpenters (**वर्धकीन्**), masons (**शिल्पकर** and **शिल्पी**), and diggers (**खनक**). (See Bala XIII, 6, 7). Houses were built of stones and bricks and timber. (Bala, XIII, 9). Dasaratha's palace had eight sections or apartments (See Ayodhya, LVII, 24). Rama's palace gets a gorgeous description in the Ayodha Kanda, Canto XV, verses 31 to 40. Kaikeyi's palace is grandly described in Ayodhya, X, 11 to 15. Even Sugreeva's palace had seven apartments (See Kishkindha, XXXIII, 18) As for Ravana's palace, the poet's imagination soars to ethereal heights in describing Lanka and Ravana's mansion as shown already.
 
  Sculpture and painting were housed in such mansions and palaces. Rama's palace had golden statues and images and other artistically carved figures (**कांचनप्रतिमैकाग्रम्**—Ayodhya XV, 32; **सुकीर्णं भक्तिभिस्तथा**—Ayodhya, XV, 35). In Ravana's palace there were artificial arbours made of creepers, (**लतागृहाणि**), picture-galleries (**चित्रशालागृहाणि**), pavilions of sport (**क्रीडागृहाणि**), artificial hills made of timber (**दारुपर्वतकाणि**), houses specially designed for amorous delights (**कामास्यगृहकं रम्यं**), playrooms for daytime sport (**दिवागृहकं**), (Sundara, VI, 36, 37) besides the paintings and the artificial birds etc. made of silver and gold already referred to above.
@@ -3581,8 +3203,6 @@ In Ayodhya, LXVII, 16, there is a reference to Harikathas.
 
 When Bharata started to bring Rama back, he was accompanied by many technicians and artists. There is a reference in Canto of the Ayodhya Kanda to diggers of tanks, mechanics, paid
 
-
-
 technicians, masons, roadmakers, carpenters, woodcutters, wall-diggers, plasterers, basket-makers, tent-makers, etc.
 
 **अथ भूमिप्रदेशज्ञाः सूत्रकर्मविशारदाः।  
@@ -3600,13 +3220,9 @@ Canto 83 refers to other technicians and industrial artists such as gem-makers (
 
  I have already referred in an earlier chapter to Valmiki's ideals of family life. I wish to emphasise here only that he has
 
-
-
 generally depicted only noble-minded women and that he has a high reverence for womanhood. Even Kaikayi is represented by him as noble in nature but impulsive and carried away by her fears on account of her son. Even Manthara is represented as inspired by the sole motive of doing good to Kaikeyi whose nurse she was at one time. Surpanaka and Ayomukhi alone are represented as being extremely lascivious and Tataka is represented as a cruel and murderous woman. The women of Valmiki's poem are learned and pure and full of high morality and spirituality. Sati or the self-immolation of widows on the funeral pyre of their husbands was unknown in the age of the *Ramayana*.
 
  Even to this day there is no higher or loftier or sublimer declaration of the complete heart-unity of husband and wife than that contained in Sita's reply to Rama in Cantos 27 and 29 of the Ayodhya Kanda. She says: “One's father, mother, brother, son and daughter-in-law enjoy one's own fortunes. But the wife shares in all the joys and sorrows of her husband. The husband is the only refuge for the wife here and hereafter. Her father or her son or her mother or her companions or even herself cannot save her soul but he alone can do so. If you have resolved to go to the forest, \[ shall go before you removing sharp grass and thorns from your path. The sweet shade of your feet is better than palaces and pavilions or than a glorious flight in the emplyrean. My father and my mother have declared this to be the law of life for me. I shall dwell happily in the forest with you as I will in my father's house, without thinking of any of the three worlds but thinking only about serving you. I shall serve you with a controlled mind. Let me roam about the fragrant forests with you. I shall this very day go with you to the *forest*. You cannot turn me back. Even if I can be in heaven without you, I do not desire heaven without you.....O pure souled one! I love you and am pure and shall be peerless in soul if I follow you. You, my Lord, are my God. Even in the world after death union with thee is for me the highest auspiciousness. The great ones say that she who is given in marriage to a person with the gift of sacred water will be his bride in the other world and in birth after birth.”
-
-
 
 **IDEALS OF MANHOOD**
 
@@ -3620,8 +3236,6 @@ generally depicted only noble-minded women and that he has a high reverence for 
 दशसंख्यः कुटुंबीति विष्णुनोक्तं द्विजोत्तम॥**
 
 Every family had all the four aims of life (Dharma and Artha and Kama and Moksha) properly fulfilled (**सिद्धार्थः**). There were
-
-
 
 no lascivious or miserly or cruel or ignorant or faithless persons in Ayodhya. All the men and women there were full of righteousness and self-control and had excellent character and conduct. They were handsome, pure, learned, prosperous, long-lived and full of happiness.
 
@@ -3650,8 +3264,6 @@ Righteousness and renown are the highest ideals and should be prized above royal
 
 (Ayodhya, XXI, 62)**
 
-
-
 **NATIONAL AND INTERNATIONAL IDEALS.**
 
  Free fearless freedom from fear was the national and international ideal of Valmiki and Rama and has been and will ever be the ideal of India. Valmiki is never tired of emphasising the need for military defence of the freedom and unity and prosperity of the country. Kosala, Kishkindha, and Lanka were well-defended and its peoples were prepared to lay down their lives to preserve the freedom and unity and prosperity of the State.
@@ -3669,8 +3281,6 @@ He demonstrated the unity by walking on foot all over the country from the north
 
  Last but not least in Valmiki's portaiture of Indian civilisation is the note of dominant and pervasive spirituality. What
 
-
-
 are all the short-lived prosperity of individuals and nations, the short-lived triumphs of military prowess, worth if there is no sense of the higher values of life, no sense of the infinite series of lives of which the present life is but one and only one, no realisation of the dignity and destiny of the soul, no comprehension of the nature of the universe, no communion with God. In short, of what use is it to gain the whole world if we lose our soul? When Kausalya hears the gladsome news of the proposed coronation of Rama as heir-apparent she is lifted into a mood of humility and prayerfulness to God.
 
 **श्रुत्वा पुष्येण पौत्रस्य यौवराज्याभिषेचनम्।  
@@ -3686,16 +3296,12 @@ IN AN IDEAL WORLD**
 **एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हिमे।  
 महर्षे त्वं समर्थोसि ज्ञातुमेवंविधं नरम्॥**
 
-
-
 **CHAPTER XIV.**  
 **Valmiki's Vision of Life.**
 
  Thus Valmiki's great work confessedly begins with a vision of the perfect man and rises to a vision of the perfect society and ends with a vision of the perfect God. Its supreme merit is in showing the inter-connectedness of man and universe and God. Man cannot and does not live except in and for and through the world and cannot exist without the grace and support and mercy of God. The universe has no value apart from man and no power of existence apart from God. Nor has God any self-realisation as beauty and love and power and wisdom except through the creation and preservation and dissolution of the universe and for the sake of the salvation of all living beings.
 
  We can fully realise the supreme merit of Valmiki only when we realise that he overtops all the other poets and saints and sages. Other poets here or elsewhere are all prone to over-emphasise one or another or more of the three vital and essential factors of human experience—man and universe and God. Some of them merely portray the varying magnificence and misery of man ignoring the fact that man has no significance except as a member of the family or the society or the State and that Nature surrounds him and embosoms him and consoles him and at times even combats and assails and punishes her “darling foster-child, her inmate man”. They either ignore or even deny the divine source and sustenance and summation of things. Other poets are so taken up with the beauty and vastness and sublimity of Nature that they lovingly and scrutinisingly observe the changes of light and shade in her face and the variations of the appeal in her eyes and of the splendour of her frame and find the greatest delight in seeing and uttering her moods and magnificences with a thrilled and quivering voice. They feel that man is so puny and frail and petty that his life hardly counts in the presence of the hues and harmonies of Nature. There are yet other poets who are unobservant of Nature and heedless of Man but are awestruck at the spectacle of human societies which are a higher and more colourful and complex
-
-
 
 unity than a mere succession of hills and vales and streams and seas. There are yet others who hunger for
 
@@ -3705,8 +3311,6 @@ And that sweet music which no ear can measure”.**
 They think and feel and say that the spectacle of human destiny and the life of complex societies and the stupendous sublimities of nature are bounded by the earth which is but a speck of dust in the scheme of the cosmic existence and that the cosmos itself is but an iota of the infinite glory of God. They even feel and say that man and universe are but shadows of a shade, a mere Māyā, a dream, a vanishing pageant and nothing more. Very few poets see life steadily and see it whole. Very few poets know and feel and say how men and universe are in perfect harmony and that both are in unison with God.
 
  If with this ideological background we compare the Ramayana with *Iliad* and *Odyssey* and *Aeneid* and *Cid* and *Paradise Lost* and *Paradise Regained*, we can realise the soaring greatness of Valmiki. In most of the epics outside India we see the poet engrossed with the fortunes of men. They end with attained success. In Milton we see how the Biblical vision dominates everything else. Nay, set the Ramayana side by side with the oceanic surfaces and depths of the Mahabharatha. His is the pure Gangetic flood which comes from the skies and fills the ocean and which has a purity and a sweetness which the ocean itself can never know. The Mahabharata belongs to a more sophisticated age and depicts a more complex and less coherent society. The Bhāgawata touches spiritual heights which no other poem has reached but one feels somehow that the unseen beauties and the unheard melodies dominate it more than the seen beauties and the heard melodies of the earth. In all the Indian epics, life overflows into the superlife. In the Greek and Roman *epics* we see only the righting of wrongs. In India we see the same ideal and also the ideal     supreme renunciation of life and the ascension of life into superlife. Even as regards Man, Valmiki does not describea merely handsome man or a merely strong man or a merely
-
-
 
 intellectual man or a merely unselfish man or a mere devotee. He gives us the vision of a man who is handsome and strong and intellectual and unselfish and godly. As regards Society, he gives us the vision of a Society in which the groups are harmonised and interdependent and in which life is based on duties rather than on rights and in which wealth is not sought to the exclusion of righteousness and enjoyment nor enjoyment to the exclusion of wealth and righteousness nor righteousness to the exclusion of wealth and enjoyment. Rama asks Bharata:
 
@@ -3720,8 +3324,6 @@ This harmony of aims existed then in the case of individuals and of societies. M
 
  Valmiki shows us also his vison of a free federal united India. Rama was the first democrat and federalist in India. He embraces Guha and Sugreeva and Hanuman and Vibheeshana as his equals though he is their superior in beauty and strength and wisdom. The law of *Saranāgathi* demands that the higher should descend to the level of the lower just as surely as it admonishes the lower to surrender itself to the higher. Sugreeva and Vibheeshana were back in their kingdoms after seeing Ramarajya established in Kosala and established Ramarajya there. Rama Rajya in a united India—what a wounderful vision!
 
-
-
  At the same time in the Uttara Kanda the poet gives us the contrasted spectacle of a world—conquest by Ravana through pride and war and destruction. He shows the upsetting of the balance of life everywhere. Ravana has become Loka-Kantaka (world-injurer) and harms all beings because of his insolence of prowess. (**वीर्योत्सेकेन बाधते**) (Bala, XV, 22). Vishnu was not asked by the gods to rule the world but only to free the world from Ravana, But God gives two boons though only one was asked for. He promises to restore the balance of life by removing the disturber of the harmony of the universe and by ruling the world in a human form himself and re-establishing Dharma (righteousness) on the throne.
 
 **परित्राणाय साधूनां विनाशाय च दुष्कृताम्।  
@@ -3733,8 +3335,6 @@ This harmony of aims existed then in the case of individuals and of societies. M
  I have already indicated how the onrush of the Valmikian Ganges at Haridwar has become the broader river of the Mahabharata, which contains within it a Ramōpakyāna. Valmiki's language has passed into Vyasa's soul. In Mahabharatha and in the Bhagawata we have Vyasa's condensation of the Ramayana into a few marvellors chapters. We find the Ramayana story also in the Padma Purana and the Adhyatma Ramayana. We find it also in other Puranas such as Vishnu Purana, Agni Purana, Skanda Purana, VayuPurana and Kurma Purana. There is no later poetry of any importance in India which has not felt the influence of Valmiki. The prophecy that that he would be a poet's poet (**परं कवीनामाधारम्**—Bāla, IV, 20) has been amply fulfilled.
 
  The Buddhist and Jāin scriptures have included the story of Rama though in garbled forms. Kalidasa, the supreme voiceXXXin a later age when India was yet free and was self- XXX supreme in many aspects and levels of life, owes
-
-
 
 to Valmiki the very blossoming of his genius. He himself modestly and gratefully says:
 
@@ -3763,8 +3363,6 @@ is an obvious echo from Valmiki's
 
 **अरावणमरामं वा जगद्द्रक्ष्यथ वानराः। (Yuddha, CI, 49)**
 
-
-
 Nay, the Ramayana itself is condensed in Raghuvamsa. In the Vikramorvasiya, the Ramayana scene of Rama's infatuation after Sita's abduction is pressed into service. In the Abjjnana Sakuntala the idea of the ring was taken from the ring episode in the Sundarakānda of the Ramayana. The description of Sita as a pregnant woman and as a mother and the moving story of Sita being received by her mother Bhoodevi inspired the similar descriptions of Sakuntala in Kalidasa's famous drama. The idea of sending the cloud as a messenger in *Megha Sandesa*, which was itself a model to many later *Sandesa Kaviyas*, was taken from the Sundarakānda which describes Hanuman's going as a messenger from Rama to Sita. Nay, in it the poet compares the cloud to Hanuman. In the Kumarasambhava, Canto III, the description of Spring is closely modelled on the description of Spring in Canto I of the Kishkindha Kanda. In the Kumarasambhava, Canto II, viz.
 
 **कुबेरगुप्तामिव दिशमुष्णरश्मौ गन्तुं प्रवृत्ते समयं विलंघ्य।**
@@ -3781,13 +3379,9 @@ In Sakuntala the flight of Matali's chariot is evidently inspired by the descrip
 
  It must be mentioned further that Asvaghosha, whom I have shown to be later than Kalidasa in my two volumes on Kalidasa, was influenced by Valmiki as well as Kalidasa.
 
-
-
  Even earlier than Kalidasa Bhasa sat at the master's feet and was inspired to write some of his most wonderful plays such as Abhisheka Nataka and Pratima Nataka. In the Buddhist Dasaratha Jataha tale of Rama, Sita is described as Rama's sister and Rama is said to have been an earlier Buddha. Of the Jain Ramayanas, there are two schools: (1) that of Vimalasuri which is an adaptation of Valmiki's work; (2) that of Gunabhadra which is a mixture of many legends. The Jain Ramayana has peculiarities of its own. In the post-Kalidasa period the number of poets and playwrights who owe their inspiration to Valmiki is very large. Their name is legion. The dramas of Rajasekhara and Jayadeva and Murari and many other dramatists of mediaeval times, and the dramas of Shaktibhadra and Rajachudamani Dixita and Lakshmana Suri and others in recent times are only a few among many such dramas. The dramatists frequently change Valmiki's story of Rama. Bhavabhuti took his story about the reunion of Rama and Sita from the version of the Ramayana in the Kathā-Sarit-sāgara, Bhatti Kāvya is a long poem in which the author narrates the Ramayana story in verses which fulfil also another purpose, viz. illustrating the rules of Sanskrit grammar. Kumaradasa's *Janakiharana* is a charming poem. Kshemendra's Ramayana Manjari is another remarkable poem on the story of Rama. Vedanta Desika's *Hamsa Sandesa* is modelled on Kalidasa's poem and describes Rama's message to Sita.
 
  Not only the poets and playwrights but the greatwriters on aesthetics have gone again and again to the fountain source of the Ramayana for illustrations. Of them all, the greatest is certainly Ānanda Vardhana, the author of Dhvanyāloka. His reverence and admiration for Valmiki seem to be limitless. Mr. C. V. Vaidya says well: “Indeed, it (the Rāmayana) has always been looked upon as the first and foremost Mahakavya in Sanskrit literature. Perhaps the very definition of a Mahakavya has been in India evolved from this first and most superb type of it, as in the western poetics the defination of an epic poem has
-
-
 
 been evolved from the Iliad”. Sahitya Darpana describes the contents of a Mahakavya thus:
 
@@ -3803,8 +3397,6 @@ been evolved from the Iliad”. Sahitya Darpana describes the contents of a Maha
 
  In North India the teaching of Ramananda and the poems of Kabir are full of devotion to Rama and have been inspired by the Ramayana. There are versions of the Ramayana by Chintamani Tripati and Iswaraprasad Tripathi in Hindi in the 17th century. In the Assamese language there is a Ramayana by Ananta Kandali. In recent times Madhusoodan Dutt wrote a great poem in Bengali on *Meghanadvadh*. Rabindranath Tagore was profoundly influenced by the Ramayana and wrote a drama called *Valmikir Pratibhā*. In Western India there are Marathi versions of the Ramayana. Premananda's Ramayana in the Guzerati language belongs to the 17th century. In the South Indian languages we must note that the entire Tamil *Prabandham* owes its inspiration as much to the Ramayana as to the Bhagawata. There are a beautiful Telugu *Ramayana* by Vavillakolanu Subba Row, a Canarese poem *Ramachandracharita Prana* by Abhinawa Pampa, and a Malayalam poem
 
-
-
 called *Ramacharita*. There have been also English versions of the Ramayana by R. T. Griffiths and R. C. Dutt. I must in conclusion refer to Mahatma Gandhi's reverence for Ram Nam and his glorification of Rama Rajya.
 
  Such has been the impress left by Valmiki on the life and literature of India. The story of the Ramayana migrated to Eastern Asia and Indonesia and was studied in Siam and Cambodia and Java and Bali etc. and inspired painting and sculpture and dance in those far—off lands. In the history of the world there have been instances of the moulding of life by literature. Great literary works have made history and have profoundly influenced the lives of millions of human beings and the destiny of countries. Shakespeare has said about his poetry that his ‘powerful rhyme’ will outlive many kings. His prophecy has been amply fulfilled by the perennial popularity of his plays. Valmiki is the leader of the immortal group which includes but few names such as Vyasa and Kalidasa, Tulsidas and Kambar, Shakespeare and Milton, and Dante and Goethe.
@@ -3814,8 +3406,6 @@ called *Ramacharita*. There have been also English versions of the Ramayana by R
 
  This work of mine has been a source of great delight to me for many years. I have read and reread Valmiki's work many times and everytime with renewed delight. My late lamented noble father, Professor K. Sundararaman, used to discuss the Ramayana with me very often and say: “There is something in it that eludes our grasp. I feel mystified and bewildered every time I read it. The poetry charms me and inspires me and bears me along. But my intellect stands by on the bank of the stream and asks whence? why? whither? I have not been able to answer these questions”. That has been my feeling too. I have reflected and pondered long and often over the significance of the poem though I have always felt its charm and admired its value.I have made bold to put down in black and white my view of the appeal of Valmiki to the modern Indian mind and leave it there.
 
-
-
  Valmiki is no doubt the *Adi Kavi*. He is the oldest and greatest of poets. Not even Homer can come anywhere near him. Compared with Valmiki, he is but a baby of yesterday. But though Valmiki is “an ancient of the world” he is also “in the morning of the times”. There is something in him that defies age just as it defies analysis. He has a wisdom that is very much needed alike in India and beyond India. The forces of world—domination have been let loose once more on the world and we are in their grip. Sanity and sweetness seem to be on the wane. India is form by dissensions and is yet in economic bondage though politically free. The world at large is yet full of bleeding wounds inflicted by man on man and by nation on nation. In every society egoism is rampant and altruism is a lessening force in life. Inside the family the graces and refinements and sanctities of an earlier age seem to have gone never to return. Women also have joined in the general scramble. Life is being lived on the principle “that they shall take who have the power and they shall keep who can.”
 
  Valmiki belongs to an age when there was a coordination of individual discipline and social harmony and political freedom and spiritual happiness. Until that harmony is recaptured there is no hope for the world. That is the real value of ancient India to modern India and that is the real value of India to the world. May the pure and purifying Ganges of poesy coming from the serene and sovereign hill-top of Valmiki and flowing into the ocean of Rama's grace dower the world with purity and prosperity and power and perfection!
@@ -3824,8 +3414,6 @@ called *Ramacharita*. There have been also English versions of the Ramayana by R
 पुनातु भुवनं पुण्या रामायणमहानदी॥**
 
 **॥श्रीरामार्पणमस्तु॥**
-
-
 
 **PART II  
 Riddles of the Ramayana  
@@ -3871,23 +3459,15 @@ Riddles in the Bālakānda**
 | The Riddle of Tātaka and Mareecha          |
 | The Riddle of Ahalya                       |
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 [TABLE]
 
 **————**
 
 [TABLE]
-
-
 
 **BOOK I**
 
@@ -3897,8 +3477,6 @@ Riddles in the Bālakānda**
 
   In dealing with the many moot points in the Ramayana, we must give the most careful consideration to the interpretations and opinions of the great commentators on the poem such as Govindaraja and Maheswara Tirtha and Rama Pandita, but we must remember at the same time their obvious limitations. They exhibit often a tendency to be merely recondite and to show off their cleverness and sometimes break up compound and complex sentences into curious fractions (*e.g.* Ayodhya, XI, 22; Sundara, XVI, 27). Govindaraja belonged to the 16th century A.D. and lived at Conjeevaram or Sholingur. One of his defects is that he never fails to have a fling at God Siva. (*e. g.* Bāla, XLIII, 27; Ayodhya, CVI, 31; Yuddha, CXXVX, 18). Other commentators were Kathaka, Utāri, Iswara Dixita, Umamaheswara, Nagesa, Ramanada Theertha, Lokanatha, Viswanatha and Hari Pandita. A curious ms, is that of Ramayana Tātparya Deepika, which is said to have been an exposition of the meaning of the Ramayana by Vyasa at the request of Yudhishtira. Trayambaka Makhis Dharmākootha is an exposition of the poem and seeks to show that the poem is an exposition of Dharma. He was a minister of the Tanjore Mahratta King Shahaji. Valmiki Hridayam is a commentary on the poem by Ahobala in the 16th century. His pupil wrote *Virodhabhanjani* which is a commentary on stray verses in the poem. Sri Madhwāchārya wrote Ramayana Tātparyanirnaya Appayya Dixita wrote Ramayana Tātparyanirnaya and Ramayana Sara Sangraha. Ramayanānvayi is a commentary by Rangacharya. Ramayana Bhooshanam is a commentary by Prabalamukunda Suri. Subodhini is a commentary by Aohinava Ramabhadrasrama, Dr. M. Krishnamacharya refers in his *History of Classical Sanskrit Literature* to certain anonymous commentaries such as Chaturarthi, Amrita Kataka, Ramayana-saradeepika, Gurubāla chittaranjani and Vidwan Manoran-
 
-
-
 jani. He mentions also Ramayana Sarasangraha by Varadaraja and Ramayana Sārachandrika by Srinivasaraghavacharya. He refers also to Ramayana Vishamapadartha Vyakhyana by Bhatta Devarama, Kalpavallika by Nrisimhasastri interpreting Rama as an incarnation of Tripurasundari, Ramayanartha prakasika by Venkata, Ramayana Mahimādarsa by Hayagriva Sastri, Ramayana Kathā Vimarsa by Venkataraya, Ramiyana Sara Sangraha by Venkatacharya, Ramayana Sara of Agnivesa, Ramayana Kalanirnayabodhini by Venkata Sundaracharya, Ramavatara Kālanirnaya, and Ramayana tathva darpana by Narayana Yati. A specially interesting work is Peria Vachan Pillai's Ramayana Tanisloki commenting on some important verses in the poem. Rasanishyandini is a similar work by Parittiyur Krishna Sastri. Among recent interesting works may be mentioned Ramayana Sārāvali and Ramayana Muktavali by Mr. T. Srinivasaraghavacharya of Chittoor, Ramayana Ratna Malika by Mr. C. Doraswamy Iyengar of Chittoor, a workon the Ramayana Bala Kanda by Sahiti Vallabha T. Sundarachariar and many volumes of Tamil exposition of Valmiki's work by Pandit Thethiyur Subramania Sastri.
 
 **2. THE RIDDLE OF THE ORIENTALISTS AND INDOLOGISTS.**
@@ -3907,13 +3485,9 @@ jani. He mentions also Ramayana Sarasangraha by Varadaraja and Ramayana Sāracha
 
   I may, by way of exemplification, refer to the absurd theory of Professor Weber, on the strength of the Buddhistic version of the Dasaratha Jatāka that the story of the abduction of Sita and of the war with Ravana was taken by Valmiki from Homer, as that story is not found in the Buddhistic story of Rama! This view is as absurd as the view that the Bhagawad Gita doctrines of
 
-
-
 incarnation and redemption from sin were taken from the Bibhical life of Christ ! Professor Weber's basic error was his view that the Dasaratha Jātaka was anterior to the Ramayana. It was the Jātaka tale that copied the Ramayana and absorbed the earlier divinity into its own pantheon as a prior Buddha. Professor Weber was equally wrong in thinking that the Hindus must have copied the Ramayana incidents from Homer after Alexander's invasion of India ! The efforts of the western *savants* are directed towards proclaiming and attempting to prove that all that is valuable in Hindu culture was in some mysterious manner derived from Greece. Professor Weber was equally in error in believing that the Dasaratha Jātaka was “the original story from which all subsequent versions have been derived”. I have shown in my earlier volume how the Ramayana must have been long anterior to the *Jātaka* tale. Professor Weber would even leave it undecided whether the Jātaka tale was not historical at all but had as its basis “the adventures of a demigod, the guardian deity of agriculture hindered by exile (probably winter)”. But he himself says elsewhere that it is unlikely that an Indian poet would have selected for his theme “an idea so abstract as the picture of the spread of Aryan civilisation”.
 
   In his scholarly and valuable work entitled *History of the Tamils,* Mr. P. T. Srinivasa Iyengar has adumbrated a most extraordinary theory about Valmiki's Ramayana. He thinks that Valmiki's work must have been in the Vedic (Chchandas) dialect or in the then current Prākrit, as Rama lived at the end of the second or third part of the Vedic age, i.e. about 200C B.C. and that the classical (bhāsha) dialect of Sanskrit did not exist. before the 10th century B.C.; that the idea of Rāma as an incarnation of the supreme God Vishnu could not have existed then, as Vishnu was not the supreme being in the Vedic cult and as the doctrine of Incarnation is foreign to Vedic theology and was introduced about the 10th century B.C. by Agamic theology; that it is difficult to believe that Valmiki endowed Rāma with a divine status in the latter's lifetime; and that the Ramayana as we have it must have been re-written by a second Valmiki who was a contemporary of Pānini in the classical
-
-
 
 dialect after the 10th century B.C. He himself says: “Of course all this is mere theory, but it it the only theory that will fit in with the facts ”(Page 48). I must say that the possibility of a number of sages or kings bearing the same name is a theory capable of indefinite extension and unverifiable assumption and application. The two Valmiki theory is a totally unproved and gratuitous assumption. The Vedas themselves refer to a gradation of deities with Vishnu as Parama (supreme) and Indra as Avama (the least of them). The fact that the deities can assume many forms is an old Vedic idea (**इन्द्रो** **मायाभिः** **पुरुरूपमीयते**). The doctrine of incarnation is but an extension of that idea. Further, the Agamas are but an amplification and a supplement of the Vedas. Again, if a poet who is a contemporary of a hero will never endow the latter with a divine status, that rule must apply to Vyasa and Krishna also and we must postulate a two Vyāsa theory and a two-Mahābhārata theory as well.
 
@@ -3931,8 +3505,6 @@ dialect after the 10th century B.C. He himself says: “Of course all this is me
 
 The Ramayana is called not only the Adikāvya but also an Itihasa (See Yuddha CXXXI, III–**इतिहासं** **पुरातनम्**). It is called in Yuddha, CXXXI, 118 as **पुरावृत्तमाख्यानम्**The word Itihasa is derived from **इति**+ **ह** + **आस** (It was so and so). Thus an Itihasa has a historical basis and must not be regarded as a fable like Panchatantra. Of course Itihasas and Puranas have as their object the amplification and exemplification of vedic truths. It is often glibty said that Valmiki refers only to Rik, Yajus and Sama Vedas (Kishkindha, III ; 27; Yuddha, CXVIII, 13). But Atharvasiras is referred to in Bāla, XV, 2. A well-known idea is that the Vedas, the Puranas and the Kayas are Prabhu
 
-
-
 Sammita, Suhrit Sammita and Kāntā Sammita, i.e, command like a king, persuade like a friend, and charm us into goodness like a young and lovely and beloved wife respectively. In Yuddha, CXXXI, 2, the work is called a *Samhita*. Maheswara Teertha says:
 
 **संहितालक्षणसप्तकांडवत् सादृश्यादस्य संहितेति व्यपदेशः॥**
@@ -3943,15 +3515,11 @@ Thus the words Itihasa and Puravritha Akhyana show that the Ramayana must be reg
 
   I have quoted the above long passage because it is an example of a certain crude type of guess which passes even now for learned research and criticism. Human interest preponderates even more in the *Ramayana* than in the *Mahabharata* and the characters in the *Ramayana* are no less historical than those in the *Mahabharata*. Professor Weber was carried away by the descriptions of monkeys and demons. I have shown earlier in this volume what is the real significance of the episodes of the Vānaras and the Rākshasas in the Ramayana. We find in the
 
-
-
 Mahabharata also gods and demons, such as Indra and Agni and others and Hidimba and Ghatotkacha and Bala and others, Professor Weber labours too much a theory which has some elements of truth and value, though it has been overworked by a certain type of scholars. He thinks that the Ramayana is an allegory applied to a historical fact, i.e. the spread of Aryan civilisation to South India and Ceylon. I have shown in the previous portion of this book how the Aryan civilisation had spread up to Ceylon even before the period of the Ramayana. The allegory theory is neither here nor there. In his *Idylls of the King* Tennyson suggests that the whole Arthurian legend is an allegory “shadowing sense at war with soul”. Any poem dealing with ancient events and characters can be given an allegorical significance and interpretation. I see no valid reason to regard the Ramayana as being in any way less founded on historical truth than the Mahabharata.
 
   Professor Weber then proceeds to say that Sita represents the field-furrow. He says : “She accordingly represents Aryan husbandry, which has to be protected by Rama — whom I regard as originally identical with Rama “*halabrit”* “the ploughbearer”, though the two were afterwards separated — against the attacks of the predatory aborigines. If the theory of the non-Aryan aborigine, falls to the ground as regards the Vānaras and the Rākshasas, the whole of the above guess will vanish into thin air. It is not correct to press too much the meaning of the word Sita as Lāngalapaddhati (the field furrow). It is a thoroughly gratuitous assumption to equate Rama and Balarama. It is no doubt true that in the Rigveda Sita appears as the furrow personified and invoked as a goddess. Nothing follows from it. It may be that Janaka gave that name to the child found by him when he was ploughing a field for sacrificial purposes. Ikshvaku, Dasaratha and Rama appear in the Rigveda as kings. These ancient names might have been given to later kings as well.
 
   all refer here to other indologists as well. Jacobi that Sita is only the furrow personified in the Rigveda as
-
-
 
 a goddess and that the Rama—Ravana fight is only another edition of the Indra—Vritra myth. He even connects Maruti with Maruts and Vibhishana's wife Sarama with a dog of that name in the Rig veda! This is pure guess work and does not deserve any serious consideration.
 
@@ -3967,8 +3535,6 @@ a goddess and that the Rama—Ravana fight is only another edition of the Indra�
 
   I may refer to a few decisive factors on this point. The Ramayana does not refer at all to any of the Mahabharata
 
-
-
 heroes, The Ramopakyana in the Vanaparva (verses 15872 to 16601) of the Mahabharata is but a skeleton of the great epic Ramayana though it does not refer to Valmiki. The story therein differs in some minor respects from that in Valmiki's epic. Sri Krishna refers in Chapter X of the Gita to Rama as the greatest of warriors (**रामः** **शस्त्रभृतां** **वरः**). Thus Rama was a great past figure in the eyes of Sri Krishna. The Mahabharata refers to Valmiki in some places. The Mahabharata contains also other epitomes of Rama's life, *e g* Vanaparva (11177 to 11219), Drona Parva (2224 to 2246), Santi Parva (944 to 955), and Harivamsa (2324 to 2359, 8672 to 8674, 16232). It contains praises of Rama Rajya which it represents as being an ideal age. Sringiberapura is stated in it to be a place of pilgrimage because of Rama's stay there for a time.
 
   So far as the Ramopakhyana is concerned, even Professor Weber, who is the protagonist of the theory of the posteriority of the Ramayana to the Mahabharata, has to admit : “The substantial agreement in the course of the narrative, frequently even in expression, is so very marked that we are involuntarily led to regard it as a kind of epitome of the work of Valmiki.” He refers also to other indications of the occurrence of suchexpressions as **रामायणे** **विविख्यातः** and
@@ -3977,15 +3543,11 @@ heroes, The Ramopakyana in the Vanaparva (verses 15872 to 16601) of the Mahabhar
 
   Professer Weber says : “Now this allegorical form of the Ramayana certainly indicates, a *priori*, that this poem is later than the war-part of the Mahabaratha; and we might fairly assume, therefore, that the historical events upon which the two works are respectively based stand to each other in a similar relation. For the colonisation of Southern India could hardly begin until the settlement of Hindustan by the Aryans had been completed and the feuds that arose there had been fought out.” I have already discussed in the earlier portion of this work Professor Weber's view about the allegorical aspect of the Ramayana and its unhistoricity and about the need for regarding is as symbolical of the extension of Aryan husbandry. There is .xxxxxxxxno foundation for the theory which says because the
 
-
-
 Ramayana is allegorical it must be later than the Mahabharata The argument that the colonisation of South India could not begin until the settlement of the Hindustan by the Aryans had been completed and other tribal feuds there had been ended has no real value. Some tribes many have fought *inter* *se* while others may have trekked southward or a civil war could succeed as well as precede colonising activity. Further, I have shown below that there could be no doubt about the Aryan character of the populations and the polities in Kishkindha and Ayodhya.
 
   Professor Weber suggests that it is wrong to assert that “the scanty knowledge of South India displayed in the Ramayana” is proof of its antiquity, because it may be that the poet did not possess the best geographical knowledge or did not show it in the poem because he had set out to depict a later age. I have shown in the earlier portion of this work that Valmiki knew South India well enough. Further, the Ramayana claims to be contemporary with Rama himself and there is no Justifiable reason for rejecting such a description as incorrect. This question of the contemporaneity of Valmiki and Rama is of course independent of the actual date of the poem. Professor Weber was evidently carried away by the description of the Ramayana as a *Kāvya* and thought that Kāvyas were later than epics (Itihasas). But as already shown by me, the Ramayana describes itself as an Itihasa as well as a Kavya. It is an *itihasa* which has risen to the rank of the Adi Kavya because of its singular poetic excellence.
 
   The theory of the posteriority of the Ramayana to the Mahabharatha has been supported also by Mr. R. C. Dutt who says : “We must premise even as a picture of life the Ramayana is long posterior to the Mahabharata. We miss in the Ramayana the fiery valour and proud self-assertion of the Kshatriyas of the Mahabharatha and the subordination of the people to the priestly class is more complete.” Here again we are up against a stone wall of mere prejudices and conjectures and unproved assertions, which cannot be allowed any currency simply because they are
-
-
 
 propounded by a great man. We do not find any abatement of valour in the Kshatriyas of the Ramayana as compared with those of the Mahabharata, Nor is there any domination by the priestly caste. What we find is perfect social harmony. If Mr. Dutt had in mind the verses **क्षत्रं ब्रह्ममुखं चासीत्**(Bāla, VI, 19), we can only say that he grossly misunderstood the verse.
 
@@ -3995,8 +3557,6 @@ propounded by a great man. We do not find any abatement of valour in the Kshatri
 
   There are certain decisive features which show the posteriority of the Mahabharata to the Ramayana. *First*, there is no reference to the Mahabharata characters in the Ramayana whereas the story of Rama is often referred to in the Mahabharata. If the Mahabharata war was prior to Valmiki, he would have referred to it in his work. *Secondly*, a verse in the Yuddha Kanda of the Ramayana is quoted in full in the seventh Parva of the Mahabharata. *Thirdly*, the Mahabharata refers to Mlecha Kings while the Ramayana makes no reference to them at all. *Fourthly*, in the Mahabharata South India is full of civilised States whereas the Ramayana describes it as full of big forests though it refers to the coastal States of Chola and Pandya and Chera and the half civilized state of Kishkindha. *Fifthly*, in the Ramayana there are described only two *Vyuhas* or martial arrays
 
-
-
 of the rival armies whereas in the Mahabharata many *Vyuhas* are described. *Sixthly*, the Hindu society as described in the Mahabharata is more complex than the society as depicted in the Ramayana *Seventhly*, the Mahabharata was committed to writing as soon as it was composed whereas the Ramayana was recited and sung. *Eighthly*, the Ramayana is simple in style and in grammatical and metrical forms while the Mahabharata is more complex in style and metrical and grammatical forms. *Ninethly*, the fact stressed by Sri Aurobindo Ghose is important. He says in his *Age* *of* *Kalidasa*: “There is far more of thought in action than in the Ramayana, far less of thought in repose; the one pictures a time of gigantic ferment and disturbance, the other as far as humanity is concerned, an age of equipoise, order and tranquillity”
 
   Mr. C. V. Vaidya approaches the question of the priority of Valmiki and Vyasa and of the Ramayana and the Mahabharata from another point of view. He thinks that before Valmiki's time the writings were in prose and not in verse; that the Ramayana was at first divided into Adhyayas and that it was only later on divided into sargas (cantos); that the last shlokas in long metres in each sarga must have been introduced later on; and that Valmiki was the first writer of classical Anushtup verse and was therefore a predecessor of Vyasa. I have no doubt that Valmiki preceded Vyasa but the above arguments are fallacious and untenable. In support of the view that before Valmiki's time the sages used only prose, he quotes from Mallinatha's commentary on Raghuvamsa, XIV, 70;
@@ -4005,8 +3565,6 @@ of the rival armies whereas in the Mahabharata many *Vyuhas* are described. *Six
 पूर्वं वाक्यान्येवेति श्रूयते । **
 
 This passage is not found in many editions of Mallinatha's commentary. Further, the fact also is wrong, as the Anushtup metre continued to exist from the earliest times. The alleged difference between Adhyaya and Sarga is a distinction without a difference. Further, why should the creation of metres by Valmiki have stopped at the Sloka metre alone? Poetic metres, like the musical Ragas, are due to the daring creativeness and innate
-
-
 
 originality of individual geniuses. We find the longer metres only when the thought soars above a certain level and the poet needs more room in each verse to pack his full meaning into it. Some of the most wonderful thoughts and emotions of Valmiki are found in these longer metres and Mr. Vaidya's basic argument about their being the work of other minds is entirely baseless. He thinks also that some later author introduced new stories into the Ramayana after seeing the bulging of the Mahabharata by the introduction of such upākhyanas. He thinks further that “the theory of Rama being an Avatara of Vishnu was borrowed from the Mahabharata.” I have discussed these aspects in the earlier portion of this volume and shown how these guesses have no real basis at all.
 
@@ -4018,8 +3576,6 @@ originality of individual geniuses. We find the longer metres only when the thou
 
 **चतुर्विंशत्सहस्राणि श्लोकानामुक्तवानृषिः।  
 तथा सर्गशतान् पंच षट्कांडानि तथोत्तरम्॥**
-
-
 
 **संनिबद्धं हि श्लोकानां चतुर्विंशत्सहस्रकम्।  
 उपाख्यानशतं चैव भार्गवेण तपस्विना॥(Bāla, IV, 2).**
@@ -4036,8 +3592,6 @@ In the Ananda Ramayana, it is said that when the portion of Satakoti Ramayana wh
 **6. THE RIDDLE OF THE YUGAS.**
 
   The Ramayana is ascribed to the Treta Yuga. In Uttara Kānda XVII, 38, it is said that Vedavati lived in Krita Yuga and was born as Sita in Treta Yuga. In Yuddha, XXXV, 15 to 16,
-
-
 
 It is said that in Krita Yuga Dharma subdued Adharma and that when Adharma subdues Dharma Tishya Yuga (Kali Yuga) begins.
 
@@ -4060,8 +3614,6 @@ Kulluka says in his gloss on Manu, IX, 302, that the verse merely intends to aff
 
   I am concerned here mainly with certain indications in the poem itselt. In the Uttara Kanda a Brahman who has lost his only young son goes to Rama for redress and says that the sad
 
-
-
 and untimely loss was due to a Sudra's performing penance. See Uttara, LXXIV, 9 to 16, 23 to 27. The gist of the verses is that in the Krita Yuga Brahmans alone performed tapas, that in the Treta Yuga they and Kshatriyas did so, that in the Dwapara Yuga *tapas entered* the Vaisyas, and that in the Kali age it *will enter* the Sudras. In Uttara, LXXIV, 17 to 22, we get another idea, viz., that in the Krita Yuga there was no *adharma*, that in the Treta Yuga adharma introduced only foot or quarter and that man had to resort to agriculture (anrita) for food whereas in Krita Yuga men's desires materialised at once and they got food by *Jnana* and *tapas* without the need of agriculture, that in the Dwāpara Yuga *adharma* and *anrita* increased and longevity lessened and so on. Even in the Treta Yuga the Ramayana describes such creative power of satisfaction of desires as possessed by Bharadwaja. In his commentary on Uttara, LXXIV, 22, Garudārajā says that the era of the poem was the end of Treta Yuga. In the Mahabharata, Santiparva, it is stated that the birth of Rama was at the junction of the Treta Yuga and the Dwapara Yuga.
 
   A curious fact is that in Uttara, LXXIV, 23 it is said :
@@ -4080,15 +3632,11 @@ Verse 25 says that tapas ***entered*** the Vaisyas in the Dwāpara Yuga.
 
 Verse 26 says that Sudras were not entitled to do tapas in that age and Verse 28 says that they would get that right in the *future* Kali age, This seeming anachronism by way of the
 
-
-
 user of the past tense in regard to the Dwapara Yuga and in regard to the right of the Vaisyas to perform tapas in a poem which is said to belong to the Treta Yuga can be explained only if we hold the view that Rama's epoch was psychologically and culturally the Treta Yuga though it was the Dwapara Yuga from the point of view of geological cycles. What we have necessarily to infer is that originally a portion of the people devoted itself to tapas and that later on other communities also did so while agriculture became the means of livelihood for all because the original power of Yogic creativeness by tapas lessened and disappeared. The hierarchy of the Yugas depends on the greater or lesser power of yoga and tapas.
 
   Another curious feature is that Sabari to whom Rama showed exceeding grace belonged to the Sabara (hunter) caste which was one of the lower branches of the Sudra caste and was thus *exhypothesi* ineligible for tapas in Treta Yuga. Further, she was a woman. And yet she is called a *tapasi and a sramani* and *a samsita vrata* and a *jnani* (विज्ञने तां नित्यमबहिष्कृताम्)—Aranya, LXXIV, 7, 10, 187. Rama goes to her lovely hermitage (Aranya, LXXIV, 4) He calls her a *tapodhana* and asks her if her tapas is in the ascendant (Aranya, LXXIV, 7, 8). She is called a *siddha*, (Āranya, LXXIV, 6, 7, 8, 10). She attained the highest abodes of Maharishis by Ātma Samādhi (Aranya, LXXIV, 35).
 
   Further, in Ayodhya, LXIII, and LXIV, the boy killed by Dasaratha's arrow is said to be the son of a Vaisya man and a Sudra woman. Yet these are said to be *tapaswis*, and their son calls himself a Rishi (Ayodhya, LXIII, 27, 28). Dasaratha calls the father as *muni* and as *bhagawan*. The poet calls the father as a Rishi and a Vānaprastha and a Brahma Vādin. (See Ayodhya, LXVIV, 11 17, 21, 24, 25). Stranger yet the father directs the son's soul to go to the heavenly abode and his direction takes effect. He and his wife then die and go to heaven. The strangest result of all is that his curse on Dasaratha takes effect. Even stranger yet is Tilaka's view that the sin of the death of the son and the parents is equal to the sin of killing a Brahman
-
-
 
 (see his commentary at the end of Chapter XIV, of the Balakanda).
 
@@ -4106,8 +3654,6 @@ Rama tells her :
 **अर्चितोऽहं त्वया भक्त्या गच्छ कामं यथासुखम्॥**
 
 **(Aranya, LXXIV, 31).**
-
-
 
 Sambooka's penance did not open his inner eyes and he did not know who Rama was. His was a Tāmasa tapas bereft of Bhakti as defined in Chapter XVII verse of the Bhagawad Gita.
 
@@ -4129,8 +3675,6 @@ Anyhow the first letter of the Gayatri is the first letter of the poem also. The
 **8. THE RIDDLE OF NARADA.**
 
   The story that Narada taught the basic story of Rama (Moola Ramayana) is the basis of the whole poem. Narada is not only the supreme musician but is also the supreme sage. **देवर्षीणांच नारदः** says the Gita. **तस्मै मृदितकषायाय तमसः पारं दर्शयति भगवान् सनत्कुमारः** (Chandogya Upanishad). It is Narada that is the source of the
-
-
 
 Ramayana as well as the Bhagawata. He is known also as person who is full of humour and who likes to create quarrels. It is said in the Uttara Kanda:
 
@@ -4159,15 +3703,11 @@ Valmiki begins his work with the praise of Guru and God. Narada is the inspirer 
 
 The above passage shows also that Valmiki was a dear comrade and companion of the family and was highly honoured and loved by Rama. Valmiki with consummate art obtrudes himself as little as possible into the poem and is more intent on painting
 
-
-
 the world drama on a vast canvas with Rama as the central figure than on introducing himself on the stage or propounding his own philosophy of life. He sought from Narada not a lesson in ethics or in metaphysics but information as to whether the highest and divinest values in life—Beauty and Goodness and Truth—were perceivable in a living human personality. He wanted to know not about the Transcendent or Immanent Godhead but about Incarnate Godhead. He wanted to be told about the meeting point of human life and the life divine; the lifting of the ideals of Pravrithi and Nivrithi into an incandescent fusion of both the divination of Pravritti and the humanisation of Nivritti; and the establishment of the Kingdom of God (Rama Rajya) on the earth, so that the will of God may be done on the earth as in Heaven. Narada told him about the ideal man and the ideal woman and did not tell him that they were the Eternal God and the Eternal Goddess. But the ideal Nara is one with Narayana. Narada's description was on such a superhuman plane that Valmiki was left to realise the suggestion of the teacher. Thus even in this matter—the source of the poem— suggestiveness (***Vyangya & Dhwani***) is shown as the soul of the poetic art.
 
 **10. THE RIDDLE OF THE MOOLARAMAYANA.**
 
   The Moolaramayana (Chapter I of the Bāla Kānda) bears to the entire poem the same relation as the canvas to bears a wonderful painting painted on it. I have discussed in my first volume the origin of this syllabus or table of contents. One has only to compare the syllabus with the full book, the outline with the full story, the basement with the superstructure, the skeleton with the living form palpitating with life and warmth and loveliness to find out the author's vision of the work. In the Moolaramayana there is a detailed description of Rama's qualities. In the end Narada winds up his description by saying that Rama was the abode of all good and auspicious qualities. (**स तु सर्वगुणोपेतः**—verse 17). The art of the poet consists in his sticking to the ground-plan of the poem as sketched in the Moolaramayana street making slight and subtle additions and departures to
-
-
 
 heighten the artistic effect, just as later on Kalidasa took the Mahabharatha story of Sakuntala and made wonderful artistic changes and additions. The Moolaramayana says that Dasaratha ordered Rama's exile.
 
@@ -4201,8 +3741,6 @@ Again, in the Mareecha scene the Moolaramayana merely says that Mareecha drew Ra
 
 **तेन मायाविना दूरमपवाक नृपात्मजौ 1. (Bāla, I, 52 )**
 
-
-
 In the main poem the description of the wonderful deer and the fascination of Sita by its beauty and her sending Rama to capture it and his killing it and its crying out “Sita”, “Lakshmana” in Rama's voice and the cruel words of Sita driving away Lakshmana from her side so that he may run to Rama to save him are most artistically contrived episodes that enhance the literary charm and the aesthetic effectiveness of the poem. We find also a line in the Moolaramayana which I shall discuss later when dealing with the riddle of the killing of Vali.
 
 **(ततः सुग्रीववचनात् हत्वा वालिनमाहवे।—Verse, 69 ).**
@@ -4221,8 +3759,6 @@ In the main poem what we see is not a mood of anger but a mood of infinite grief
 
 The poet had met Rama even on the latter's way to the Chitrakuta hill (see Ayodhya, LVI, 16). Nay, Valmiki himself refers to Rama as Vishnu in express terms, though Narada did not expressly tell him so. (Ayodhya, I, 7; Yuddha, CXXXI, 114, 115). Even supposing that he had that knowledge only after Brahma's blessing, could he have been ignorant of Rama's greatness as a man and of his great renunciation, especially when Ramamet him just as he met the other sages and when these sages knew about Rama's doings? Or is the episode of the question by Valmiki to Narada an interesting literary device to
 
-
-
 arrest the attention of the hearer and the reader? In the Bhagawata, Xth skandha, the question is asked as to what were the actions of Vishnu when he incarnated in king Yadu's line as Sri Krishna. A similar question could have been put by Valmiki to Narada. Or he may have sought a fuller description and elucidation from Narada about Rama.
 
   My view is that Valmiki's question to Narada about the perfect man was to confirm his own estimate of Rama and enabled him to achieve what no other poet has achieved, viz., to keep his hero on the level of humanity and yet to raise him to the level of divinity. He has reached the heart of Religion in the highest sense of the word by such a step. Do not all religions affirm that man is an image of God or a ray of God or the body of God or even God himself. And is not God most truly God when, He being Love, attains the highest self realisation and self-expression of love by coming down from His perfection into the imperfection of earthly life and showing to all the world what are the qualities and Sadhanas which will lead to God-realisation? Is not the law of Grace Abounding the supreme acid test of the perfection of humanity and the perfection of divinity Valmiki's poem stands at the incandescent point of the union of Man who is God and God who is Man.
@@ -4238,8 +3774,6 @@ This verse contains the essence of the teachings sublimely elaborated much later
 **स्वं त्रयाणां हि लोकानामादिकर्ता स्वयं विभुः। (Yuddha Cxx. 140)**
 
 **जगत्सर्वं शरीरं ते। (Yuddha, CXX, 27).**
-
-
 
   He stresses also the fact that God has three equal aspects (Trimurthis) though He is only one. He teaches also the existence of the cosmic deities, the rivergoddesses, the tree-goddesses, etc.
 
@@ -4257,9 +3791,6 @@ This verse contains the essence of the teachings sublimely elaborated much later
 
   and say that the Kanda was called so because Sita who had been lost was regained in it. Yet others say that the Kanda is unique as the whole Ramayana is epitomised in it. Kandas 1 to 4 are summarised in Hanuman's soliloquy. The Yuddha Kanda is hinted in Trijata's dream. Others say that it is unique as the highest type of saranāgati, i.e., that of Trijata for herself  
 
-
-
-
 and for the other Rakshasas is found in it. Mr. T. Srinivasaraghavachariar who is a close student of the poem and one of its best expounders says that it is unique because the Rama Tāraka Mantrārtha sloka
 
 **(नमोऽस्तु रामाय स लक्ष्मणाय देव्यै तस्यै जनकात्मजायै।)**
@@ -4275,8 +3806,6 @@ That may have been a literary device as was the case with the prophecies in the 
 
   Thus the theory glibly uttered and plausibly pressed that the Uttara Kanda is not genuine and cannot be accepted as the work of Valmiki has no substance at all. Some scholars say that there is a difference of style between the previous Kandas and the Uttara Kanda. They have not offered any tests to substantiate their  *ipse dixit and ex cathedra* pronouncements. Though a few sargas or a few verses here and there may have been interpolated during periods of excessive sectarian zeal, the work as a whole is genuine. We must remember, as shown by me in the earlier portion of this work, that the Uttara Kanda was a sequel
 
-
-
 to the earlier part and was composed long after the latter was composed. The style in it is maturer and terser and less iridiscent with emotion and imagination and more full of thought and experience of life. We cannot expect the style in it and in the earlier work to be absolutely alike any more than the style in Part I of Goethe's Faust to be absolutely alike the style in Part II of Goethe's Faust which was composed by that great poet after the lapse of many years from the date of the composition of the earlier part. Even in Kalidasa's time the entire poem of Valmiki consisting of all the seven Kandas was regarded as a unitary work. Ananda Vardhana also says in his *Dhoanyaloka* that Valmiki composed his work so as to include Rama's bereavement by the disappearance of Sita.
 
   रामायणे हि करुणो रसः स्वयमादिकविना सूत्रितः “शोकः श्लोकत्वमागतः” इत्येवंवादिना। निर्व्यूढश्च स एव सीतात्यन्तवियोगपर्यन्तमेव स्वप्रबन्धमुपरचयता (4th Udyota).
@@ -4291,8 +3820,6 @@ the figure of 24,000 verses for the entire work is expressly mentioned. That fig
 **प्रवृत्तमादितः पूर्वसर्गं नारददर्शितम्।  
 व्रतः प्रभूतिं सर्गोश्च यावद्विंशत्यगायताम्॥(Uttara, XCV, 16).**
 
-
-
 There is also the tradition already referred to that the post placed each of the 24 letters of the Gayatri Mantra at the beginning of every set of thousand verses in the poem. The last letter of the Gayatri occurs as the last letter in the last sarga of the Uttara Kanda
 
 **(जगाम त्रिदशैस्सार्धं सदा हृष्टै र्दिवं महत्।)**
@@ -4305,8 +3832,6 @@ Further, there is no description of the life and exploits of Ravana in the first
 
   Take for instance, the sarga between the 56th and 57th Sargas in the Aranya Kānda. Some editions call it interpolated (**प्रक्षिप्त**) and others drop it altogether. In it Indra is described ashaving given divine *Pāyasam* to Sita so that she may not have any hunger or thirst. But in the Sundara Kanda Sita is described in XV, 18, as उपवासकृशाi.e thin owing to fasting. It is thus more than doubtful that the above-said sarga can be an integral portion of the Ramayana. We have, however, to note that there
 
-
-
 is a reference in Kishkindha, LXII, 8, to Indra's giving परमान्नं to Sita. But at the beginning of the 74th Surga in the Kishkindha Kanda Govindaraja says that sargas 69 to 73 are interpolated cantos ! Even more doubtful are the Sarga found after the 95th Sarga in the Ayodhya Kanda and the five Sargas found after the 23rd Sarga and the five Sargas found after the 37th Sarga and the three Sargas found after the 59th Sarga in the Uttara Kānda. They have neither the Valmikian ring of structure and style nor even such exaltation of idea and sentiment which we rightly associate with the great epic. The commentators have not written commentaries on these interpolated chapters.
 
   Apart from interpolations of cantos, there is also the everpresent doubt of sectarian meddling with cantos and stanzas and words. In the case of a very ancient poem, which is regarded with the highest respect, the inclination to meddle may not be very great, especially because there would be many copies of it owing to the prevalent belief of it that to copy out the poem and make a gift to a deserving man is a highly meritorious act. But sectarian bigotry will often stop at nothing. For instance, Yuddha LIX 9 we find the words भूतैर्वृतो रुद्र इवामरेशः Yet in Govindaraja's hands अमरेशः becomes असुरेशः. What is worse, he says in his commentary:
@@ -4316,8 +3841,6 @@ is a reference in Kishkindha, LXII, 8, to Indra's giving परमान्न�
   I have given elsewhere my reasons for rejecting as interpolated and spurious the verse about Buddha in the Jabali episode in Ayodhya, CIX, 34, and the verse about the Vyakarana works in Uttara, XXXV, 47. I have also shown there the untenability of Mr. C. V. Vaidya's view that Chapter I of the Bāla Kanda may be an interpolation. Nor is he right in inferring from Bala, LXXVI, 10, that a later compiler's hand was at work and that that compiler forgot the enmity between Rama and the Ṛakshasas (page 96 of *The Riddle of the Ramayana*). The verse says:
 
 **गन्धर्वाप्सरसश्चैव सिद्धचारणकिन्नराः।**
-
-
 
 Mr. Vaidya forgets that the Rakshasas were not all the subjects of Ravana and that all the Rakshasas were not inimical to Rama, Further, sight-seeing may be indulged in by inimical persons also! Nor has he given any acceptable reasons for his view that the Rishyasringa episode was an interpolation and that the episode of Sita's being found as a child by Janaka when ploughing the sacrificial ground was an interpolation.
 
@@ -4344,15 +3867,11 @@ He thinks that “the inconsistency is irreconcilable”. Govindaraja is evident
 
 The question was to which place Sita had been carried by Ravana. The answer is : “I do not know that (abode). I do not know details about his cleverness or prowess or lineage. But I shall take such steps as will enable you to get Sita.” In Chap. XLI he tells the search party to search with care Ravana's capital. I do not see anything that is tortuous or mysterious in Sugreeva's words. Ravana might have immured
 
-
-
 selves have rejected many Sargas as spurious, and that Kanda seems to have been a dumping ground for interpolations! But Mr. Vaidya is in error in thinking that the story of Brahma's curse on Ravana (Yuddha, XIII) is diametrically exposed to Nalakoobara's curse in Uttara, XXVI. In reality there is no contradiction at all as the incidents relate to two different women.
 
   Mr. C. V. Vaidya is particularly angry with Canto XLI of the Kishkindha Kanda. He asks : “Why the search parties were sent to search places east and south and west and north of the Vindhyas and did not give directions to search places east and south and west and north of Kishkındha.” Sita having been carried away from Panchavati, the former distribution of the regions to be searched was quite natural. Mr. Vaidya objects to the reference to the Pandya Kings and their capital Kavāta and says : “Now had the Pandyas been in existence at that time and other Aryan nations of the South mentioned in other places, it is strange that Rama was in so great a difficulty about obtaining human aid in finding out Sita and fighting with Ravana.” I am discussing and explaining this matter below in this work.
 
   Mr. Vaidya attacks also the story of the golden deer as an interpolation as Sita did not mention about it to Ravana! Why should she tell him all the gossip? She answered his questions truthfully and asked him to wait till Rama returned. Mr. Vaidya then says that the story of Bharadwaja's feast is “an unnecessary repetition of the feast given by Vasishta to Vishvamitra's army.” How can feasts help repeating themselves? After all if we read both we do not see any mere repetition at all. Mr. Vaidya thinks that the story of the dead Dasaratha appearing before Rama in Canto 119 of the Yuddha Kanda is copied from the Mahabharata and “is not wanted by the context and has no dramatic or moral effect”. On the other hand it is a natural portion of the story and enables Rama to get a cancellation of the saratha's curse on Kaikeyi and Bharata and has a high dramatic and moral effect.
-
-
 
   Mr. C. V. Vaidya asks how Vasishta would have been the *purohit* of all the kings of the solar race especially when he himself says :
 
@@ -4365,8 +3884,6 @@ He himself has given the explanation : “It is possible to explain that the Vas
 
   The theory of some doubters that the whole Uttara Kanda might be an interpolation is an attempt to solve a problem by a guess. I have already dealt with the Uttara Kanda above to some extent. Kalidasa has followed the Uttara Kanda story as it is to-day. Mr. C. V. Vaidya who is an arch doubter has relented somehow somewhat in regard to the Uttara Kanda. He says : “But the following would lead us to think that the nucleus of the Uttara Kanda, subsequent as it is, must have been written by the original author himself. *First*, the history and greatness of Ravana required to be detailed somewhere, for without them the poem would have been incomplete and the greatness of Rama without a strong relief. *Secondly*, the painful sequel of recital of the poem, viz. that the disappearance of Sita has so beautifully been conceived that even it the incidents were supposed to be imaginary none but the great poet himself could have conceived them. In fact, they strike us as part and parcel of the grand tragedy of the epic” (pp. 47-8). He says further : “No doubt, the Bhavishya portion is a natural compleinent of the epic. The reader is curious to know what becomes of Rama and his twin sons, of Lakshmana and Bharata, of Maruti and Sugriva and the other actors in the epic. As the Odyssey is a natural complement of thexxxhad which does not say what became of Troy and its siege, of Paris and Helen, of Ulysses and Agammemnon, so the Bhavishya portion and even the Uttara Kanda as a whole is a natural complement of the story of the Ramayana.” He says rightly further the “the Uttara Kanda has unquestionably been the subject of the greatest
 
-
-
 number of additions and interpolations”. This was because it was not often read and hence afforded opportunities for interpolations. The commentators themselves have rejected various sargas as spurious. But this only makes it incumbent on modern scholars to reconstruct aright the Uttara Kanda and it is not right to reject the whole Kanda as a later addition or interpolation.
 
   I am clearly of opinion that the Ramayana as we have it is substantially the work of Valmiki, though here and there a few verses and more rarely a few cantos were successfully or unsuccessfully inserted and interpolated in the great poem. As pointed out above by me, the poem existed in too many manuscripts and in too many places in India to permit even men of extraordinary temerity and subdety to tamper with it, especially as it was widely and intimately studied and revered all over India and hence it was not easy to tamper with the text of such a holy and revered and popular poem. We must however take it that the references to far later persons and events (Krishna, Buddha, Sakas, Yavanas ad hoc genus omne) must necessarily be interpolations and must be rejected. But from such facts we have no right to invent an imaginary ancient Ramayana which was the work of Valmiki and to cut out episodes and upakhyanas as we please and evolve the theory of an expanding Ramayana, the extent of the expansions and the dates of such expansions being left to our sweet will and pleasure.
@@ -4374,8 +3891,6 @@ number of additions and interpolations”. This was because it was not often rea
 **15. THE RIDDLE OF THE HISTORICAL RAMAYANA.**
 
   From the above discussion, I think that it is doing a disservice to the poet as well as to the cause of India and of universal culture to pursue the chimera of a supposed basic Ramayana, depleted of the incarnation idea and divested of all marvels and presenting to us the biography of a supposed Aryan leader—an imaginary person similar to such real persons as Washington and Garibaldi. If such a method were applied to the Bible, we would have in Jesus Christ a religious preacher like Luther or Calvin or Savonarola. Just imagine Jesus as not being
-
-
 
 a son of God, as being incapable of doing any miraculous things any more than Mr. Vaidya and myself, and as simply going about preaching to persons who will hear but not follow and to persons who will follow but not hear.
 
@@ -4387,8 +3902,6 @@ a son of God, as being incapable of doing any miraculous things any more than Mr
 
   Another riddle is why Valmiki tells us that he was surprised when out of the surge of the ocean of pity in his heart at the sight of the bird killed by a sinful and cruel hunter leaving its mate stricken with grief the Lakshmi of poesy was born. When describing the hunter he uses two brief but telling words: पापनिश्चयः (of sinful determination) and वैरनिलयः (the abode of cruelty). The two major evils which afflict humanity are being rooted in sin and in cruelty. It is out of such an attitude that all the suffering in this vale of tears in born. Till the law of universal *ahimsa* prevails, men will be, and behave like, animals. The slaughter of animals and birds for food or sport or worship is due to man's animality. The law of the
 
-
-
 jungle is yet operative in him. We must “move upwards working out the beast and let the ape and tiger die”.
 
   But till that golden age of universal*ahimsa* comes, what is the plain and supreme, nay, whole, duty of man? If is the law of *kārunya* (pity and tenderness and compassion and help and service and reparation and restoration).
@@ -4398,8 +3911,6 @@ jungle is yet operative in him. We must “move upwards working out the beast an
 Out of the surge of pity, Poesy was born Art should not be mere imitation of Nature or mere imitation of Man. It should be the expression of the real nature of the universal soul which is the soul of our soul. Ātman is Ānanda. But so long as it functions in and through the five sheaths (*Pancha Kosas*) and the three bodies (*Sareera traya*), it must purify these into a state of *Sattwa*, i.e. poise and beauty and tranquillity and altruism and self-sacrifice and inner wisdom and vision. The aesthetic *rasas* or dominant and pervasive human moods may be turbid and agitated and sinful or clear and calm and pure. It is only when they are the latter and give us dispassionate and disinterested pleasure (aloukika ananda to use the language of Indian aesthetics) that they become Rasas and can enter the realm of the fine arts. The joy that these Rasas give is akin to the bliss divine (*brahmānanda sahodara*). Each art has got its own medium. The media vary in point of fineness and subtleness and ductility and malleability. Of them all poetry and drama and music and dance use the human life and the life of nature in fulness and can give us even higher happiness than even architecture and sculpture and painting and are hence the finest of the fine arts.
 
   The Anushtup metre existed long before Valmiki's time. It was *chchandas* (metre) but not *sloka* (poetry) It was the Anushtup chandas of the Veda that became opened into the Anushtup sloka of the Ramayana just as the Vedic chandas Trushtup became the Indravajra and Upendravajra metres of a later date. Verse is just the bony structure of poetry. It is only when it puts on flesh and skin and the soul enters the organism and lights the damp of beauty in the body, that it
-
-
 
 becomes a shrine of loveliness. The Anushtup chchandas shows lapses in the march of long and short syllables but the sloka metre is loyal to the settled structure Further, its inner content of loveliness and suggestiveness is far greater. The *sloka* is therefore verse which has become a shrine of loveliness. The *sloka* which struck Valmiki with astonishment is described by him thus:
 
@@ -4419,8 +3930,6 @@ The real meaning is : “To him who said thus and visualised it in his heart, a 
 
   Orthodox expounders of the Ramayana call the verse **मा निषाद्** etc., as the Mangala Sloka of the Ramayana. Mānishada is said to mean **मायाः** **निषादः** i.e. the abode of Lakshmi and to suggest the Bālakanda which ends with the marriage of Rama and Sita. **प्रतिष्टामगतः** **श्वाश्वतीस्सामाः** (i.e. you attained fame for eternity) is said to refer to the Ayodhya Kanda on which rests Rama's title to fame as an abode of auspicious qualities. **यत्क्रौंच** **मिथुनात्** etc. is said to refer to the Aranya Kanda wherein Rama and Sita are separated, the Kishkindha Kanda wherein out of a pair (Vali and Tara)
 
-
-
 Vali is killed, the Sundara Kanda wherein Rama and Sita continue to be separated, the Yuddha Kanda wherein out of a pair (Ravana and Mandodari) Ravana is slain, and the Uttara Kanda in which Sita departs from Rama!
 
   It is also clear that the entire second chapter of the Balakanda contains various Rasas (poetic emotions) in nutshell. It starts with the *Sānta Rasa* by describing the calm river Tamasa
@@ -4436,8 +3945,6 @@ Vali is killed, the Sundara Kanda wherein Rama and Sita continue to be separated
 प्रतिजग्राह सन्तुष्टस्तस्य तुष्टोऽभवद्गुरुः॥**
 
 The story that Brahma, the Creator of the world, came to see Valmiki, the creator of poesy (the home of a parallel but purer and lovelier and gladder world) has in it a wonderful charm and xxxxxxxxxxxxBrahma is the father of the Vedic poetry just as
-
-
 
 Valmiki is the father of classical Sanskrit poetry. Both are called *Kavis*. Usanas or Sukra also is called a Kavi. God is primeval poet (**आदिकवये** — Bhagawatha, I, 1, 1) Valmiki is called by the name Kavi in Raghuvamsa, XV, 32 41, (**कविः कुशलवावे व चकार किल नामतः**). The Gita says : कवीनामुशना कविः, (X, 47) Vishnu himself is called कविं पुराणं (VIII, 9, Gita). Sankaracharya interprets कवि to mean कान्तदर्शी i.e. the seer God is Seer and Creator. Every great poet also partakes in the divine power of vision and creative expression. Poetry is akin to piety on the one hand and to perfection on the other hand. If ever God visits man, if must be only in such times and an such occasions when man is likest God in the bliss of creation and the creation of bliss. With perfect truth which is also perfect art, the poet says that even in the presence of the Creator the poet went on brooding over his own creation. In movements of creation and invention the creator and inventor forget everything except their achievement. It was in that mood that Archimedes ran naked in the streets of Syracuse shouting Eureka. Valmiki's Eureka was expressed thus:
 
@@ -4457,8 +3964,6 @@ The work of fancy or some happy tone
 
 Of meditation slipping in between  
 The beauty coming and the beauty gone.
-
-
 
 If thought and love desert us, from that day  
 Let us break off all commerce with the muse:
@@ -4492,8 +3997,6 @@ The best man is he who is righteous and noble and wise and brave. Brahma blesses
 
 The three words (**पुण्यांश्लोकवाद्धां मनोरमां**) contain the quintessence of the art of poesy. The poet's later verses pursue the enjoyment and
 
-
-
 the expression and the exposition of the essence of poesy even further. After Brahma went back, the poet taught the verse to all his *Sishyas* (disciples) and sang it again and again (**मुहुर्मुहुः**)in chorus with increasing joy and increasing wonder (**प्रीयमाणा** i.e **भृशविस्मिताः**). It is in such repetition and chorus singing (anuvyāharana) that the spark of poesy is fanned into flame. The song grows in force and volume and fervour and sweetness and reacts on the creator's mind and heart and soul and makes his intellection and emotion and imagination more incandescen than ever before.
 
 **तस्य शिष्यास्ततस्सर्वे जगुः श्लोकमिमं पुनः।  
@@ -4517,8 +4020,6 @@ Another reading is **शोकः श्लोकत्वमागतः**। (
 
 The words underlined above contain the essence of all poetry and aesthetics. The best poetry should have words full of a grand rhythm and a deep meaning, should be heart-entrancing. should be so natural that it appears that the words have come and
 
-
-
 built themselves into the poem, and the words and their emotional values should be fused into a single sweetness. The poet should be a man of wide vision and deep contemplation. He must be a man of righteousness and see things as they are by the power of Dharma, (Bāla, II, 1, 4).
 
 **श्रुत्वा वस्तु समग्रं तद्धर्मात्मा धर्मसंहितम्।  
@@ -4540,8 +4041,6 @@ What should be a great poet's ideal? His work must be sweetened by the descripti
 The two new words Bhagawan and Rishi give us the key. They indicate fulness of power and fulness of preception.
 
   This was how one sloka became 24,000 slokas in marvellous words.
-
-
 
 **चकार चरितं कृत्स्नं विचित्रपदमात्मवान्।  
 चतुर्विंशत्सहस्राणि श्लोकानामुक्तवान् ऋषिः ॥ (Bāla, IV, 1 and 2).**
@@ -4567,8 +4066,6 @@ Valmiki was lucky in getting as propagators of his poem two handsome, well-born 
 **रसैः शृंगारकारुण्यहास्मवीरभयानकैः।  
 रौद्रादिभिश्च संयुक्तं काव्यमेतदगायताम्॥ (Bāla, IV. 9),**
 
-
-
 The boys knew the science and art of music and could sing in three octaves.
 
 **तौ तु गान्धर्वतत्त्वज्ञौ मूर्छानास्थानकोविदौ॥ (Bāla, IV, 10).**
@@ -4591,8 +4088,6 @@ The boys were the sons of Rama. They first sang it before the sages and got thei
 
 **अभिगीतमिदं गीतं सर्वगीतेषु कोविदौ।  
 आयुष्यं पुष्टिजवकं सर्वश्रुतिमनोहरम्॥(Bāla, IV, 17, 20, 21 ).**
-
-
 
 **BOOK II**
 
@@ -4634,8 +4129,6 @@ Rama says about the dying Jatayu that he was Dasaratha's compeer and companion.
 
 **(Āranya, LXVII, 28, 29).**
 
-
-
 A very strange event in the Uttara Kānda, chapter 73, is that an old Brahmin complains to Rama about the untimely death of his boy. I have already referred above to this episode. The old Brahmin's age is not specified but he says that his young boy who died was only 5,000 years old! But when Viswamitra seeks to take Rama, Dasaratha says:
 
 **ऊनषोडशवर्षो मे रामो राजीवलोचनः।  
@@ -4673,8 +4166,6 @@ Rama is said to have reigned 11,000 years. The Moola Ramayana says :
 **दशवर्षसहस्राणि दशवर्षशतानि च।  
 रामो राज्यमुपासित्वा ब्रह्मलोकं गमिष्यति। (Bāla, I, 96).**
 
-
-
 It is said in the Yuddha Kanda :
 
 **दशवर्षसहस्राणि दशवर्षशतानि च।  
@@ -4698,8 +4189,6 @@ are interpreted in diverse ways. The most acceptable explanation as to why this 
 विष्णो पुत्रत्वमागच्छ कृत्वात्मानं चतुर्विधम्॥ (Bāla, XV, 20).**
 
 The explanation is that Kausalya represents Sri and that Kaikeyi must be said to represent Keerthi because Rama often
-
-
 
 calls her *Yasaswini* and the poet also describes her by usingthat epithet Govindaraja says:
 
@@ -4730,8 +4219,6 @@ Why did he order Sumantra to bring them? Probably to put Kaikeyi in a difficult 
                       (Ayodhya, XXXIX, 36 )**
 
 In the last-mentioned verse there is a reference to the 350 mothers of Rama.
-
-
 
   But though it is true that Dasaratha was specially infatuatedwith Kaikeyi, and though probably Kausalya was slighted byKaikeyi (see Ayodhya, XX, 38, 39, 40) yet there is no doubt that he was a man of noble nature and that he treated: Kausalya with the highest respect. In commenting on Ayodhya, XXX1V, 13,
 
@@ -4764,8 +4251,6 @@ Indeed, Dasaratha turned solely to Kausalya after the departure of Rama and was 
 
 I have already shown elsewhere that the correct view is that Rama and Sita lived together for 10,000 years after their corona-
 
-
-
 tion and before Sita's disappearance. Long after Sita's disappearance, Kausalya dies and is followed by Sumitra and Kaikeyi. All the three queens went to heaven and lived there with Dasaratha.
 
 **अथ दीर्घस्य कालस्य राममाता यशस्विनी।  
@@ -4788,8 +4273,6 @@ tion and before Sita's disappearance. Long after Sita's disappearance, Kausalya 
 अस्माभिः पुत्रकामेष्टिं शीघ्रमाचर सत्तम॥ (Adhyatma Ramayana, III, 4, 5).**
 
 But in the Valmiki Ramayana, Chapter XIII shows that Dasaratha suggested only the performance of the Aswamedha sacrifice and that Vasishta and others promptly agreed. It was Sumatra's narration of Sanatkumara's prophecy that put the Putrakameshti idea into Dasaratha's head. None has discussed why the Rishyasringa episode was brought in. I merely hazard a guess here, because Valmiki's wonderful genius consists in suggestive-
-
-
 
 ness (Vyangya or dhwani) which is the soul of poetry. He exalts two characteristics of Rishyasring, viz., his perfect purity and his perfect obedience to his father.
 
@@ -4826,8 +4309,6 @@ We do not know at all who was Santa's mother.
 
 This means that if a man has a daughter out no sons such a gir lshould not be married because he might desire that her issue
 
-
-
 might become his son and offer *pinda* to him. Such a girl is called Putrika. Kulluka says in his commentary on the above verse:
 
 **“यदपत्यं भवेदस्यास्तन्मम स्यात् स्वधाकरम्।”  
@@ -4848,8 +4329,6 @@ Tilaka says:
   यद्यपि पुत्रकामेष्ट्यैव पुत्रावाप्तिः संभवति तथापि तपोरतस्यवैश्यस्य अमणस्य बधे तद्वियोगातुरतपोर- ततम्मातापितृमरणेन च ब्रह्मवधसमपाषापत्त्या तत्प्रायश्वित्तत्त्वेनाश्वमेवानुष्ठानं बोध्यम्।
 
 From these passages it is clear that the two sacrifices had different purposes and results.
-
-
 
   Chapter X of the poem in the Balakānda places Rishyasringa's character at a superhuman height. He was the son of the sage Vibhandaka who was the son of Kasyapa,
 
@@ -4881,8 +4360,6 @@ When they parted from him, he felt uneasy in his mind and restless in his moveme
 
 They then took him to their country and his arrivalxxxxxxxxheralded by copious showers of rain. Vibhandakaxxxxxxxx
 
-
-
 happenings by his power of *tapas*. He did not get angry with or curse the maidens or the king as he knew that there was no corrupt intent or corrupting conduct.
 
   Tilaka, in his commentary at the end of Chapter X of the Bala Kānda, puts the question, why, if Rishyasringa touched the courtesans and ate the sweets brought by them and thus committed a sin, his approach to Angadesa brought the drought there to an end and resulted in abundant rain. He replies tohis own query thus:
@@ -4897,8 +4374,6 @@ The learned commentator proceeds even further in the sametrain. With all respect
 **4. THE RIDDLE OF THE PĀYASAM EPISODE.**
 
   Another strange feature in the Ramayana is the *Pāyasam episode.* We do not find a similar episode, in regard to the Krishna incarnation. The Putrakameshti itself was sure to
-
-
 
 lead to the birth of sons. Why was there this incident of the Pāyasam? From the spiritual point of view the explanation is that the *Pāyasam* was Vishnu Tejas in a materialised form, so that the consequent birth was to be not a human birth but a divine birth. From the poetic point of view, the poet's art consists in his suggestiveness which, while openly affirming that Rama was a man, subtly suggests his superhuman nature. In the Bhagawata the same result is attained in three ways: first, by saying that the Lord entered Vasudeva's mind and passed over from there to Devaki's mind and thus suggesting that the conception was an immaculate conception; *secondly*, by giving the analogy of the full moon rising in the eastern sky (**काष्टायथाऽनन्दकरं** **मनस्तः**) and suggesting that the parentage of Vasudeva and Devaki to Krishna was only like the parentage of the eastern sky to the full moon—a chosen place of self-materialisation and self-expression; and *thirdly*, by making the Lord incarnate first in his divine form and then become an ordinary child (**बभूव** **प्राकृतः** **शिशुः**) The Ramayana of Valmiki does not adopt these devices, though the Adhyatma Ramayana adds the last-mentioned device while maintaining the Payasam episode. Valmiki attains his purpose by the Payasam ideology alone.
 
@@ -4917,8 +4392,6 @@ Tilaka says :
 Having regard to the unity of the Trinity, the above discussion will have no value except in bigoted sectarian eyes. The Pāyasam was an incident in the entire divine Leela (play). It is said to have been brought in a cup of gold encased in silver,
 
 **(तप्तजांबूनदमयीं राजतान्तपरिच्छदाम्।)**
-
-
 
 Some scholars explain this as suggestive of rajoguna enclosing and enclosed by sathwaguna. This is a merely fanciful explanation.
 
@@ -4950,8 +4423,6 @@ The following verses in Bāla, XVIIT, 12 and 18, seem to have brought in a sourc
 
 The words *avashistārdha* in verses 27 and 28 in Chapter XVI are clear enough. The word *ardha* there evidently means half. If therefore Kausalya and Sumitra and Kaikeyi got ¹/₂and¹/₂ and ¹/₈of the Pāyasam, and then Sumitra was finally given the balance of of the Pāyasam, how is that the above verses call Bharatha as ¹/₄th share and Lakshmana and Satrughna as ¹/₂?My own view is that there is no importance in the working out
 
-
-
 of these fractions at all. The idea of equating the *veerya* of the incarnation to the stated fraction of the Pāyasa does not appeal to me. I know that in some systems of philosophical and religious thought in India a definite distinction is sought to be made between Poornavatara and Amsavatara and Avesāvatara. In fact endless debates have gone on as to whether Krishna was not superior to Rama as Bhagawata describes Krishna as the Lord himself.
 
 **(एतेचां शकलाः पुंसः कृष्णस्तु भगवान्स्वयम् — III, 28).**
@@ -4968,8 +4439,6 @@ of Rama, i.e. ¹/₄×¹/₄is ¹/₈th share, (forgetting that Valmiki says **�
   अपरे रामभरतौ प्रत्येकं त्र्यंशौ लक्ष्मणशत्रुघ्नौ च अष्टमांशौ तथा हि कौसल्यायै दत्तार्धस्य अर्धार्धं चतुर्थांशरूपं सुमिलायै ददौ दापितवानित्यर्थः। एवं कैकेय्यै कौसल्यादत्तार्धावशिष्टमर्धं ददौ ततः कौसल्यादत्तावशिष्टस्य कैकेय्यै दत्तस्य यदर्धं तस्मिन्नर्धं पुनरपि सुमित्रायै ददौ दापयमासेत्यर्थः। अत्रार्धपदा वृत्तिर्बोध्या।
 
 Thus this means that Dasaratha gave¹/₂to Kausalya and asked her to give half of such half to Sumitra, and that he gave the
-
-
 
 remaining half to Kaikeyi and asked her to give half of such half to Sumitra. In this way by a feat of interpretation all of the four incarnations represent one-fourth share each!
 
@@ -5012,8 +4481,6 @@ In fact in the introductory verses in the Adhyatma Ramayana, Rama is described a
 **आनन्दसान्द्रममलं निजबोधरूपं  
 सीतापतिं विदिततत्त्वमहं भजामि॥**
 
-
-
 Kalidasa has lent the weight of his support to this view. He says in his Raghuvamsa, X, 54 to 57 :
 
 **स तेजो वैष्णवं पत्न्योर्विभेजे चरुसंज्ञितम्।  
@@ -5049,8 +4516,6 @@ He quotes from Pādma Purana :
 
   Thus the most natural view is that Vishnu took the form of the four brothers for effectuating His own divine purposes on The earth in that incarnation, I may refer here to the tradition
 
-
-
 which says that Rama represents Vishnu, Lakshmana represents Adisesha, and Bharata and Satrughna represents Vishnu's Sankha and Chakra (conch and discus). The Padma Purana says:
 
 **अन्येद्युः पांचजन्यात्मा कैकेय्यां भरतोऽभवत्।  
@@ -5076,8 +4541,6 @@ He then explains that superiority depends on who drank the Payasam first, and th
 
   It appears that in the Varaha Purana it is said that Dasaratha performed penance in Anjānadri (Tirupathi) to get: the grace of God so as to enable him to have sons, and that as
 
-
-
 he prayed to the Lord in four verses the Lord promised to incarnate as four sons.
 
 **यस्मात् प्रीत्या चतुश्लोकी त्वयोक्ता मम भूपते।  
@@ -5091,8 +4554,6 @@ Thus a reason—though by no means significant and convincing— is given here f
   On the whole it seems to me in all humility that the ordinary man in the street exhibits sounder wisdom than persons overweighted with learning. There is no use in trying to equate the shares of the Payasam with the spiritual magnitudes of the divine brothers. The popular view that Rama is Vishnu himself is the correct view. It pleased God to take four forms during the Ramavatara, just as it pleased him to take one form during the avataras from Matsya to Narasimha and to make his dwarfish form (Vamana) into the universal form (Trivikrama) and to take two forms during Krishna avatara and to take only one form as Parasurama and Buddha and just as it is going to please Him to take one form alone as Kalki. In the Ramavatara the prayer of the Gods was to make himself four in form.
 
 **  विष्णो पुत्रत्वमागच्छ कृत्वाऽत्मानं चतुर्विधम्॥ (Bāla, XXV, 20)-**
-
-
 
 The Lord says in reply to them :
 
@@ -5121,8 +4582,6 @@ It may be that because the Lord wanted to preach and practise all the Dharmas to
 
 Rama's entry into the world was by the ordinary way of human birth, as Ravana could be killed only by a man. But in the case
 
-
-
 of Lakshmi there was no need for such a mode of actions (Vishnu Purana, Amsa 1, Adhyaya 9). Sita is said to have beena sudden apparition on Vaisakha Sukla Nawami as a child from the ploughed earth (Sundara, XVI, 15, 16; Yuddha, CXIX, 15; Uttara, XVII, 37, 39, XCVIII, 7). Uttara, XVII, says that it was Vedavati who was born as Sita to bring about Ravana's destruction. The suggestion is that Veda (Sruthi) became Vedavati. She was then born as Sita and as the adopted daughter of a supreme master of *brahma vidya* like Janaka. Sita's birth as the daughter of the Earth enabled the poet to introduce the marvellous episode about the Earth-Goddess taking back Sita into the Earth.
 
   The poem describes Rama as being somewhat dark in complexion
@@ -5141,8 +4600,6 @@ His tint is compared to the rain — cloud and the indeevara flower. (Ayodhya, X
 
   In the paintings and pictures of Rama we find a *nāmam* (symbol of South, Indian Vaishnavism) on his forehead in
 
-
-
 South India. Very possibly because most of the artists. who were such painters belonged to the Thengalai subsect of the Vaishnava sect, the *nāmam* also is of the Thengalai variety, so much so that out of sheer association of ideas for generations we find it almost impossible to imagine that Rama could have put on any other religious symbol or artistic ornamental decoration on his forehead. Strangely enough the paintings of Krishna have only a *tilaka* on the forehead. We do not know whether this is because in the *Krishna Karnamrita* he is so described (कस्तूरी तिलकं ललाठफलके) or because the first painter of Krishna used to wear a tilaka! In Bellary Iwent to a Lakshminarayana temple where I found that the image of Vishnu had the Madhwa religious symbolism and that both the Vadagalai and Thengalai nāmams were conspicuous by their absence ! I am not embarking on this discussion because I feel acutely the importance of this or that castemark though personally I would prefer some uniformity (especially by wearing *Kunkum* mark which is that of half of the population, viz. the Hindu women) and I would prefer also that the ancient Hindu custom of some beautiful decoration of the forehead is not given up out of mere slavish imitation of Europeans —, but because a Vaishnava Pundit told me that the word *Sulalāta* in Bāla, I, 10, meant that Rama had on his forehead a Vaishnava castemark. I told him that the obvious and natural meaning of the word was only “having a beautiful forehead” i.e. a high halfmoon-shaped forehead.
 
 **अर्धचन्द्रनिभं तुंगं ललाठं यस्य स प्रभुः॥**
@@ -5152,8 +4609,6 @@ But he was unconvinced and became angry with me. I am content to leave this smal
 **7. THE RIDDLE OF THE YOGA VASISHTA.**
 
   The Yoga Vasishta is attributed to Valmiki. If so, should we not get a tint of that sublime work in the Ramayana of Valmiki? The story of Yoga Vasishta is that when Rama came in response to Dasaratha's command after Visvamitra's arrival, he came in a mood of pessimism and disgust and despair at the pain-ridden emptiness of life and that Vasishta explained to him the highest message of philosophy as embodied in the
-
-
 
 Yoga Vasishta so that the mood of pessimism may be conquered by a mood of energy and equipoise and of the realisation of the divine governance of the universe and of the real nature of being When Rama is urged by Viswamitra to kill Tataka he hesitates at first to do so as she was a woman and finally agrees to do so. Rama says:
 
@@ -5174,8 +4629,6 @@ In these verses there is a reference to the teaching of the utterer of Brahman (
 
 **अहं वेद्मि महात्मानं रामं सत्यपराक्रमम्।  
 वसिष्टोऽपि महा तेजा ये चान्ये तपसिस्थिताः॥ (Bāla, XIX, 14)**
-
-
 
 I am not interested in the ingenious ways in which these words are twisted and broken up (e.g.
 
@@ -5210,8 +4663,6 @@ His express aim was to destroy Rakshasas, to bring sreyas (auspiciousness) of ma
 
 Thus Vasishta knew and said that none but Viswamitra knew xxxxxasthras (colestial weapons) and that he could create new
 
-
-
 asthras and that he would impart all that knowledge to Rama and that Viswamitra could himself destroy the Rakshasas andthat Viswamitra made a request to send Rama only for the sake of Rama's glory.
 
   It is with this ideological background that we must seek to understand the Viswamitra episode. He knew the purpose of the incarnation and was designed by Providence as the opener of the highway for Rama's tread. He found Rama a leading figure in a small State and made him a world-figure. He thrust the young Rama into the wide, wide world. Though Rama had undergone an arduous intellectual discipline under Vasishta and has received his political and military training under Sudhanva, yet he had to be fitted for a universal part by the knowledge of supreme asthras and supreme mantras. Though Rama was God, yet as he was born as a man his equipment for his part in life was indispensable.
@@ -5219,8 +4670,6 @@ asthras and that he would impart all that knowledge to Rama and that Viswamitra 
   Probably from Viswamitra's point of view, he wanted to have Rama to himself and enjoy the divine vision for some time without distraction and surrender whatever merit he had to God (**रामार्पणमस्तु**). But from the point of view of the world's welfare, Rama underwent a supplementary Gurukulavāsa with Viswamitra. Probably also Rama was given his first taste of forest life — which was to be his for 14 years later on—and was fitted for that life by his early experience of it. Nay, the first teaching given by Viswamitra to him was in respect of the mantras Bala and Atibala, which would negate all hunger and thirst. In the 27th sarga of the Bala Kanda, there is a detailed description of the *asthras* taught by Viswamitra to Rama who then taught the same to Lakshmana. One of them was the *Vishnu* *chakra* (Bala, XXVII, 5). Rama then asked him how he was to withdraw the asthras from operation and learnt that art also (see Chapter XXVIII). Very possibly Viswamitra wanted Rama to know by sight the woes of the sages at the hands of the demons.
 
   It is also noteworthy that Viswamitra made his appearance when Dasaratha was considering about the marriage of Rama
-
-
 
 and his brothers. What Dasaratha and his relations and counsellors were debating was accomplished by Viswamitra. He brought about the marriage of Rama and Sita. That was the supreme *sreyas* which he had in view as when he spoke to Dasaratha as narrated in the Bala Kanda, Chapter IX, verse 10.
 
@@ -5252,8 +4701,6 @@ is simple and conveys an obvious message,But, it has been subjected to intricate
 
 But the fact that Kausalya blessed Rama and sent him on his mission will not show that she did not raise any objection. The words **कृतस्वस्त्ययनोमाहा**which occur also in Ayodhya, XXVI, I , ocour
 
-
-
 after a prolonged objection by Kausalya to Rama's departure. Even the word Rama is subjected to many expositions. Some say that the word was used to indicate Rama's beauty when asleep. Others say that “Rama” means Brahman and that Viswamitra used to meditate on God in the early hours of the morning. The words **पूर्वा** **सन्ध्या** **प्रवर्तते** are supposed to suggest that the period of the night when demons are strong is over and that the sunrise suggests the rise of jnana. The words **कर्तव्यं** **दैवमाह्निकं** are even stated by Govindaraja to apply to Viswamitra and to mean that Viswamitra wanted to offer his arghya and japa personally to God in the form of Rama
 
   The simple meaning of the verse can be easily understood when we realise that the Ramayana tells in a charming and poetic way about all our duties in life. Sandhya worship is a primary duty and is referred to in many places in the Ramayana as having been performed by Rama. The fact that Rama himself performed it would sour all persons to act likewise. There is no special burden of meaning in regard to the word **कौसल्यासुप्रजाः** Viswamitra calls Rama in different places by various names such as Rama, Raghava, Rājaputra, Narasreshta, Narasārdoola, etc. When informing Janaka about Rama and Lakshmana he called them sons of Dasaratha (**पुत्रौ** **दशरथस्यतौ**—Bāla, L, 22).
@@ -5272,8 +4719,6 @@ after a prolonged objection by Kausalya to Rama's departure. Even the word Rama 
 **10. THE RIDDLE OF THE BALA AND ATIBALA MANTRAS.**
 
   Viswamitra teaches these supreme Vidyas to Rama and Lakshmana and commends them highly to them.
-
-
 
   Viswamitra is well known as the discoverer and promulgator of the Gayātri mantra. The Savitri Upanishad explains the Bāla and Atibala mantras clearly.Into them is interwoven the Gayatri mantra.
 
@@ -5299,8 +4744,6 @@ Another view is as follows :
 **11. THE RIDDLE OF TĀTAKA AND MAREECHA.**
 
   In India *Sthrihathi* (the killing of a woman) is considered a heinous sin. Rama hesitated much before making up his mind to obey Viswamitra's command to kill her. Viswamitra told him that as a king he had to protect his subjects from all strories even if he had to commit a sin and that under similar xxxxxximstances Indra and even Vishnu killed women and that he
-
-
 
 must in any event follow his command putting aside all notions of pity and compassion towards a woman.
 
@@ -5330,8 +4773,6 @@ Rama's killing Tataka was, like Parasurama's killing his mother, in obedience to
 
   Rama's attitude to Mareecha and the way in which Mareecha's story is handled by the poet are full of lessons for all. Why did not Rama kill Mareecha outright even as he had killed
 
-
-
 and Subahu? The stock explanation is that Mareecha was needed for the later evolution of events. Another is that he was a wiser and better man than the others and so was given a longer rope. Mr. R. Narayana Iyer seems to be inclined to take this view. Mareecha himself says:
 
 **नेच्छता तातमां हंतुं तदा वीरेण रक्षितः।  
@@ -5356,8 +4797,6 @@ Why did not Rama kill him? Was Mareecha really wiser or better than the others? 
 Rama then killed Subahu with the Agneya asthra and the other demons with the Vaya asthra. He had already killed Tātaka. Why then was Mareecha saved? Not only he but many other demons were thrown into the ocean by Manava Asthra but not killed outright. Why did this happen?
 
   Further light is thrown on this problem by Canto 37 of the Aranya Kanda. In spite of this luck or Rama's grace which saved his life on the first occasion, Mareecha, along with two other demons, rushed in the form of deer to gore and kill Rama. Rama let loose three arrows at them. Mareecha turned tail xxxxxranas he knew Rama's might and was not killed by the
-
-
 
 arrow sent at him but the other two demons were killed. Why was he let off a second time?
 
@@ -5391,8 +4830,6 @@ There was also an element of righteousness and fearlessness in him as he boldly 
 
 **(Āranya, XXXVIII; 30)**
 
-
-
 **सुलभाः पुरुषा राजन् सततं प्रियवादिनः।  
 अप्रियस्य तु पथ्यस्य वक्तां श्रोता च दुर्लभः॥**
 
@@ -5416,8 +4853,6 @@ Thus we have in Mareecha a demon with an element of righteousness and reverence 
 **(Āranya, XXXIX, 9).**
 
 As soon as he saw Rama bend his bow he ran and was thus saved from death while the other two demons were slain. Very possibly his salvation was due to his flight. The words **शरणे** **मुक्तो** **रामस्य** (Aranya, XXXIX, 13) show that the force of the arrow would be withdrawn in the case of weak and erring and timid persons, The description of the arrows as **सुपर्णानिलनिःस्वनाः**possibly shows that it would not kill weak and timid persons. Possibly also the grace shown was due to the presence of Sita the goddess of Mercy. We must also remember that at the beginning of the Aranya Kanda, Sita pleads with Kama not to kill all the demons outright as they had shown no hatred for him directly. Rama's
-
-
 
 reply shows that he must protect the innocent and the good and the helpless by destroying their enemies and that he would give up his life or even Lakshmana or Sita rather than give up his plighted word to protect them. (Cantos 9 and 10). But in the case of Mareecha's second attack, the attack was on Rama himself and was immediately followed by flight. Sita had told  
 Rama.
@@ -5447,8 +4882,6 @@ Every one of the words *pravrājita* and *yukta* and *tapasa* and *samāhita* is
 
 Thus Mareecha, when he went to Rama a third occasion, had not only an augmented fear but an augmented spirit of renunciation and meditation and devotion. He went preferring death at the hands of Rama rather than at the hands of Ravana. On an earlier occasion his advice to Ravana not to provoke Rama's anger was accepted by Ravana. (See Canto 31 of Aranya Kanda). But Surpanakha's description of Sita had inflamed Ravana's lust and
 
-
-
 Mareecha was on the second occasion threatened with death by Ravana. He died at Rama's hands doing his best for his master Ravana but full of fear and reverence for Rama. I think that he cried out “Sita ! Lakshmana!” not because he felt that their absence led to his death or because he was not willing to call out “Rama” but because he wanted to help Ravana's scheme. Is it not a case of the eternal truth proclaimed by Sri Krishna ?
 
 **अपि चेत् सु दुराचारो भजते मामनन्यभाक्।  
@@ -5470,8 +4903,6 @@ Mareecha was on the second occasion threatened with death by Ravana. He died at 
 
 **शापमोक्षेण महता तपोऽस्वापहृतं मया॥(Bāla, XLIX, 8, 3).**
 
-
-
   The Ahalya story is given to us in Uttara, XXX, from another angle of vision. It says that Brahma created a woman with allfeminine perfections, that hala means ugliness, and that Ahalya means perfect beauty (Uttara, XXX, 23 to 25). Indra mentally desired to win her hand but did not seek Brahma's grace. Brahma gave her as wife to Gautama. Ahalya's exceeding beauty led to Indra's lapse as he had already wished her to be his wife. (Uttara, XXX, 27). Gautama thereupon said that there should not be any other creation with perfect loveliness and that some aspect of beauty should shine in every woman (Uttara, XXX, 38, 39). Indra lost his sovereignty of heaven and later recovered it after performing a sacrifice to God Vishnu.
 
   Valmiki's grand ethical lessons are that no one can escape the consequences of sin, and that contrition and penance followed by God's grace can purify all sins. Ahalya's hymn in praise of Rama in the *Adhyatma Ramayana* is one of the marvels of literature. Her name is placed first in a verse which describes the pure women whose remembrance will destroy all sins.
@@ -5489,8 +4920,6 @@ The famous verse
 
 has been *subjected* to many interpretations. I say *subjected* because one of the most wonderful verses in all literature has been used to exhibit mere prosaic and tortuous ingenuity and its real poetic flavour and essence have been missed. By the words **सीता** and **ममसुता** Sita's superhuman birth and the high lineage of her foster-father are indicated. But the main emphasis should be laid on **सहधर्मचरी, पतिव्रता, महाभागा**, and **छायेषानुगता सदा** and especially on the last word. The word **सहधर्मचरी** indicates that the purpose
 
-
-
 of a sacramental wedding is not mere enjoyment (bhoga) but à pure and righteous and holy life (Dharma). It suggests also that the supreme Dharma of protection of the persons who seek refuge (**शरणागतसंरक्षणम्**) would be as fully followed by her as by Rama. The words **पतिव्रता** and **महाभागा** indicate her purity and nobility. The words **छायेवानुगता** **सदा** are suggestive of Sita's insistence on going into exile with Rama, because the shadow cannot and will not be separated from the substance. It shows also how inseparable is the eternal union of God and His Shakti. Rama repeats the same words to Sita when he takes her along with him in his exile.
 
 **अनुगच्छस्व वां भीरु सहधर्मचरी भव॥ (Ayodhya, XX 40).**
@@ -5507,8 +4936,6 @@ The Bhāgawata describes Parasurama as an avatāra (incarnation) of Vishnu (Skha
 
   According to the ancient Hindu Law relating to dynastic succession, the eldest son is ordinarily entitled to succeed as Yuvaraja and eventually as the succeeding sovereign. The popular voice seems to have had a veto right even in such a case, especially because in India it was recognised that aking
 
-
-
 should reign and govern only on the basis of the people's consento and of conformity to Smriti Law and prevalent custom.
 
   That Dasaratha had pledged the succession to Kaikeyi's són as a kind of nuptial settlement (Rājya Sulka) when he married Kaikeyi is not hinted at all in the poem till Rama informs Bharata about it (Ayodhya, CVI, 3, 4, 5). Of course there were also the two boons granted by Dasaratha to Kaikeyi. But Kaikeyi herself does not take her stand on the earlier promise. Nor did Manthara rely on it. Rama being worthy of the throne and having been proposed by Dasaratha and approved by the public and being deservedly the idol of the people, Bharata would not have been able to keep the throne for a second if Kaikeyi took her stand on the promise made at the time of hermarriage. That was why Manthara asked Kaikeyi to take her firm stand on the two boons and ask for Bharata's Yuvarajaship and also for the banishment of Rama for 14 years so that Rama may fade out of popular favour and affection during that long period and Bharata may win their goodwill and affection by his long and wise and able administration (see Ayodhya, IX, 20, 21).
@@ -5518,8 +4945,6 @@ should reign and govern only on the basis of the people's consento and of confor
 **बाल एव हि मातुल्यं भरतो नायितस्त्वया। (Ayodhya, VIII, 28 ).**
 
 Dasaratha was taking a natural and legal step which was approved by his people and had no need to resort to any crafty subterfuges. Such cunning was entirely foreign to his noble nature as described throughout the poem. Hewas in a hurry to crown Rama as Yuvaraja because he was very old and because he was told by the astrologers that his star was shadowed by powerful adverse planets (Sun and Mars and Rahu) and that he might die or have a great calamity and that he wanted to have the
-
-
 
 coronation on the very next day as the human mind is unsteady (**चला** **हि** **प्राणिनां** **मतिः** —Ayodhya, IV, 23). Something sinister is sought to be spelt out of even these words. Dasaratha says :
 
@@ -5539,8 +4964,6 @@ I have shown above how Ayodhya VIII, 28, shows that it was Kaikeyi who had sent 
 **भवन्ति** **बहुविघ्नानि** **कार्याण्येवं** **विधानिहि।**
 
 The above-said passage and especially the word **कृतशोभि** have, in my opinion, been grossly misunderstood and misinterpreted. I think Dasaratha said so lest Rama should suggest that the coronation might wait till Bharata came back and that he would be happier if Bharata also was with him. Dasaratha meets that thought and says : “Bharata is a good man and will always be obedient to elders and tender-hearted and self-controlled. Ordinarily men's minds are fickle. But righteous men (like Bharatasare sure to praise and applaud good things which have been done”. The word *Kritasobhi* has been interpreted as meaning “approving of factum valet” and has been made to lend colour to the theory of the old king's stratagem to get the function finished before Bharata could come and object to the coronation. Dasaratha did not send for Bharata or his grand-
-
-
 
 father and uncle or Janaka as they were far away and could not come by the time fixed for the coronation. To my mind the word **कृतशोभि** means only
 
@@ -5562,8 +4985,6 @@ The poet describes him as a noble-minded and pure and honourable man and utters 
 
   We have then to find out when Rama became aware of the Rajya Sulka. If he knew about it at the beginning, he would not have agreed to the coronation at all. Very possibly, as stated by Tilāka, he came to know it from Sumantra after he
 
-
-
 renounced the Crown and went in to exile. After knowing it, he wanted to make his father a man of truth in regard to that promise also.
 
   Of course the legal infructuousness of cancelling the selection of Rama as Yuvaraja by the King and by the Sabha in confirmation of his birthright would apply also to the grant of the two boons sought by Kaikeyi. But Rama simplified the problem by nobly renouncing his right to the Crown. (See Ayodhya, XXXV, 41, 55, 56; LXXXII, 7 ; Sundara, XXXIII, 20, 23 to 28).
@@ -5574,8 +4995,6 @@ renounced the Crown and went in to exile. After knowing it, he wanted to make hi
 (OBSERVANCE OF TRUTH)**
 
   What exactly was the nature of Rama's observance of the vow of truth? It appears from the poem that it has two aspects, viz., the carrying out of the command of the father and the carrying out of the promise of the father to Kaīkeyi apart from a direction to himself. As pointed out above, Dasaratha felt tongue-tied and impotent in the face of two sacred obligations. After having selected Rama as Yuvarajah and thus implemented Rama's birthright and after his nomination was endorsed by his Cabinet and finally approved by the people, he could not cancel the *pattābhisheka* (coronation) of Rama. Nor could he go back on the two boons promised by him to Kaīkeyi though he was astounded by her selection and formulation of the boons.
-
-
 
 **रामेत्युक्त्वा च वचनं बाष्पपर्याकुलेक्षणः।  
 शशाक नृपतिर्वक्तुं नेक्षितुं नाभिभाषितुम्॥**
@@ -5612,8 +5031,6 @@ He appeals to Bharata also to make Dasaratha a truthful man;
 
 **(Ayodhya, CVII, 9, 10 )**
 
-
-
 **वृतो राजा हि कैकेय्या मया तद्वचनं कृतम्।  
 अनृतान्मोचयानेन पितरं तं महीपतिम्॥**
 
@@ -5649,8 +5066,6 @@ Another aspect of the observance of truth was that he had himself renounced the 
 
 The poet suggests that she was a royal slave of unknown parentage and brought up Kaikeyi from her childhood and thus prepares us for her low scheming ways and her fiercely protective affection for Kaikeyi. She got up the terrace of Kaikeyi's palace by chance. What fateful events depend on slight chances of life! She met Rama's nurse in the next terrace and found her to be bursting with joy (**विदीर्यमाणा हर्षेण**) about Rama's coronation. She got down at once in anger and grief and ran up to Kaikeyi out of affection for her (Ayodhya VII, 9). She felt also that her
 
-
-
 fate was bound up with that of Kaikeyi (Ayodhya, VII, 22). Kaikeyi's first reaction was one of pleasure as she loved Rama. (see Ayodhya, VII, 34, 35; 13 to 15, 18). But soon Manthara worked upon her mind and filled it with fear and ire. She succeeded in getting Rama exiled. But Satrughna tried to kill her for the mischief wrought by her but Bharata told him that if he did so Rama would disown him. Thus she owed her life to Rama whom she tried to harm in all ways.Such are the ironies of life as pourtrayed by this master poet.
 
   Both she and Kaikeyi were unwitting instruments of an overruling Providence. Bharadwaja divines this and tells it to Bharata (Ayodhya, XCII, 29, 30). I have already discussed Kaikeyi's character in full. Rama had the greatest respect and affection for her. (Ayodhya, CXII, 27; Aranya, XVI, 37). He bowed to Kausalya and to Sumitra and to her with equal reverence (Yuddha, CXXXI, 44).
@@ -5662,8 +5077,6 @@ fate was bound up with that of Kaikeyi (Ayodhya, VII, 22). Kaikeyi's first react
 **अवमुच्य वरार्हाणि शुभान्याभरणानि च। ( Ayodhya, IX, 56 )-**
 
 A distinction is made by some interpreters between the *subha* *ābharanas* (auspicious ornaments) which no married woman must put by and *bhoga ābharanas* (beautiful ornaments) which can be worn or put by. But I'do not think that such a subtle distinction can be made and maintained. In the poem Valmiki says that
-
-
 
 Sita, when she was being carried away by Ravana, threw down her ***subhā*** ornaments in her ***uttariya*** (upper garment). See Aranya, LIV, 2; Kishkinda, VII, 10, 14. See also Ayodhya, LXXVIII, 7, where girdles (meckhala) etc. are enumerated as Subha bhoushanas (auspicious jewels).
 
@@ -5684,8 +5097,6 @@ Rama cast off his royal garments and wore them. Lakshmana also did so. Poor Sita
 **(Ayodhya, XXXVII, 9).**
 
 The later verses are among the most poignantly verses in literature. Sita shrinkingly received the dress woven of grass from Kaikeyi's hands with tear-filled eyes and turned to her husband and said : “How do sages wear such dresses?” She knew that Rama had been accustomed to forest life before he won her as his bride. She tried to tie them round her person but was inexpert in doing so and failed. She put one of the dresses round her neck and held the other in her hands and felt shy and bashful. Then Rama tied it over her silk dress himself. All who were present there shed tears at this sight. They cried out : “Sita has not been commanded to go to the forest in exile.
-
-
 
 Let us have the misery of witnessing your going into exile. This auspicious lady should not go from here like an ascetic.” But all the same Rama tied it round Sita as he knew that her desire would be to be dressed like him and behave like him.
 
@@ -5718,8 +5129,6 @@ Maheswara Theertha and Tilaka say :
 
 When Rama tries to fit the dress on her, Sita out of bashfulness and respect begins to tie it round herself. The result was that both tie it round her! Even Vasishta who kept silent though in rage was swept off his feet by this piteous indignity perpetrated by Kaikeyi in regard to Sita. He cried out : “Sita need not go into exile. Let her sit on the Yuvaraja's throne. The wife is the husband. She is Rama's self. Let her reign in his stead. Or if she goes with Rama, let us, all go with them. All the people, including Bharata, will go and live there. Oh Kaikeyi ! You yourself may rule over this depopulated city with the trees as your subjects. The city without Rama is a forest, and the forest with Rama is our own city. Bharata ought not to rule over the Kingdom which has not been given to him with a ful
 
-
-
 heart. He ought not, if he is the king's son, behave towards you as a son. Even if you jump from earth to heaven, he, knowing as he does the legal right of the eldest son to the throne, will not act in a different way. You who love your son have done what is most painful to him. There is none on earth who will not follow Rama. You will see today how even cattle and serpents and deer and birds go with Rama, and the trees turn fondly in the direction in which he goes. I command you to give the best ornaments to Sita and take back the bark dress. Do not give the bark dress to her. You demanded the exile of Rama alone. Let Sita have splendid dresses and decoration and live well-clad and well-decorated with Rama in the forest. Let her go in a chariot and with attendants as befit a princess. Let her go with splendid garments etc.” (Verses 21 to 36). But the poet says that Sita did not turn her mind away from wearing Valkala because she wanted to look like her lord.
 
 **नैव स्म सीता विनिवृत्तभावा प्रियस्यभर्तुः प्रतिकारकामा॥**
@@ -5727,8 +5136,6 @@ heart. He ought not, if he is the king's son, behave towards you as a son. Even 
 **(Ayodhya, XXXVII, 37).**
 
   The art of the poet now reaches an even higher revel. All the persons cried out : “Fie on you Dasaratha!” Then the heart-broken prostrate king rose and said; “Kaikeyi! Sita shall not go with this bark dress on. She is so tender and young and has always lived in refinement and delight. My *guru* rightly says that she is not fit for forest life. This noble daughter of a noble king—whom has she harmed? Why should she stand here in the assembly dressed in a bark dress like a mendicant and ascetic? Let her cast off the barkdress. I have not made any vow to the effect that she should go into exile with a bark dress on. Let her go in glory with precious jewels. I, who am unworthy to live, have made a cruel vow bound by my love of truth. What you have now begun in your childishness will destroy me like the deadly red flower of fire sprung from a bamboo. What harm has Vaidehi done to you—the poor deer-eyed, soft-hearted Vaidehi ? Is not the sin of Rama's exile enough? Why do you pile up more sins? (Chapter 48).
-
-
 
   Then the king recovering his firmness ordered the officer in charge of the royal wardrobe to bring costly and splendid garments and jewels which would last Sita for all the fourteen years. Sita obeyed her father-in-law and put on fine garments and jewels and went shining in loveliness like the newly-risen morning sun.
 
@@ -5766,8 +5173,6 @@ That was also why when Bharata saw the ground on which Rama and Sita lay down in
 
   We must also bear in mind that the poet says that when Sita threw away a portion of her upper garment and jewels when
 
-
-
 she was being carried off by Ravana, the upper garment was a silk garment of golden tint.
 
 **तेषां मध्ये विशालाक्षी कौशेयं कनकप्रभम्।  
@@ -5783,8 +5188,6 @@ Further, when she was in the Asoka Vana, she wore a few ornaments which married 
 
 **तं वैश्रवणसंकाशं उपविष्टं स्वलंकृतम्।  
 ददर्श सूतः पर्यंके सौवर्णे सोत्त च्छदे॥**
-
-
 
 **वराहरुधिराभेण शुचिना च सुगन्धिना।  
 अनुलिप्तं परार्ध्येन चन्दनेन परंतम्॥**
@@ -5813,8 +5216,6 @@ It was he that drove Rama and Sita and Laxmana in the car away from Ayodhya and 
 **6. THE RIDDLE OF THE AGE OF RAMA AND SITA.**
 
   There has been some discussion as to what Dasaratha meant by the word **उनषोडशवर्षः** in regard to Rama in Bāla, XX, 2. It means less than 16. I think that we may take it that Rama was about 16 years of age at the time of his marriage. Mareecha says that Rama was then 12 years of age (Aranya, XXXVIII, 6). There is the definite statement of Sita that at the time of Rama's going into exile 12 years after marriage he was 25 years of age and she was 18 years of age.
-
-
 
 **ममभर्ता महातेजा वयसा पंचविंशकः।  
 अष्टादश हि वर्षाणि मम जन्मनि गण्यते॥**
@@ -5847,8 +5248,6 @@ We do not know what was the age of the baby Sita when Janaka found her as he was
 
 Govindaraja interprets this natural statement in an extraordinary way and says that she had reached an age when she had attained puberty and craved a husband! The word used is **संयोग**
 
-
-
 (wedding) and not **संयोगः** (sex-life). Maheswara Theertha says more appropriately :
 
 **पाणिग्रहणोत्सवयोग्यं वयः।**
@@ -5876,8 +5275,6 @@ Rama advised the utterance of an untruth by asking Sumantra to tell Dasaratha (w
 
   Another incident is Rama's telling Surpanakha that Lakshmana was an **अकृतदार** (unmarried) and might be asked to many her. Govindaraja says that it means **असहृकृतदारः** (i.e. with his wife
 
-
-
 not by his side.) Such attempts miss a comprehension of the playful mood of Rama. Surpanakha is a lustful wanton with whom Rama and Lakshmana have a little fun. There is no need to discuss any abstract principles of truthfulness in this connection.
 
   In regard to Sita it is said that when the demonesses asked her who was speaking to her, she said : “How can I know the ways of demons? You know who he is. A serpent knows a serpent's feet. I also am afraid. I do not know him. I think that he is a Rakshasa”. It is argued that this reply was an untruth. Sita knew that the questioners also were there just like herself and saw him give her a ring and also saw him take his giant form (Viswaroopa) and wanted to convict Hanuman out ofher mouth and get him killed by Ravana. When the uttering of a fact will lead to the loss of a life, the non-uttering of it is not a lie. Of course if one could speak out the fact and has the power to save the life it is the highest attitude. Sita was not then acting as the omnipotent supreme goddess but as an ordinary human being. Where the option is between evasion of truth or untruth and the death of another as its consequence of the utterance of the truth, the truth should not be uttered. No nation exalted truth more than the Hindus **सत्यान्नास्ति** **परो** **धर्मः**। Rama exalts it on many occasions. Sita also does so in Aranya, IX, 3, Yet what is the exact nature of truthfulness? Manu says:
@@ -5895,8 +5292,6 @@ The Gita says:
 Sankara says in ***Prasnotharamalika***: **वाक्यं** **भूतहितं** **सत्यम्**. The Tirukurral, which is the most famous of Tamil poems, says:
 
 ![](../books_images/U-IMG-1729662114Screenshot2024-10-23111138.png)
-
-
 
 (Truth is that which harms none). If Sita had resolved to protect Hanuman up to the point of killing Ravana by her power of purity, she could adopt the highest standard of absolute truth. But she had resolved not to do so
 
@@ -5918,8 +5313,6 @@ Sita was not anxious about her own life but about the life of Hanuman. An evasiv
 
   Of late an attempt has been made by sheer ingenuity of interpretation to show that Sita spoke only the truth though the
 
-
-
 demonesses did not understand aright what she said. According to this view, the verses would mean :
 
   ममविज्ञाने भीमरूपाणां रक्षसां कागतिः (ते न जानन्ति ममभावम् )। यूयमेवाभिजानीत योऽयं यद्वा करिष्यति (लंकादहनसमये तदनन्तरं च तत्स्वरूपः युष्मदक्षिगोचरो भविष्यति, अहिरेव अहेः पादान् विजानासि न संशयः (अहं तस्याशयं जानामि। अहमप्यस्य भीताऽस्मि किं नैनं जानामि कोन्वहं किं (इति काकुः) अहमप्यस्य भीतास्मि न, परंतु एनं जानामि कोन्वयम्। वेद्मिराक्षसं (रक्षस्संबन्धिवृत्तान्तपरिज्ञानार्थम्। आगतम्। कामरूपिणं एव एनं वेद्मि।
@@ -5936,8 +5329,6 @@ demonesses did not understand aright what she said. According to this view, the 
 
 **हृष्टाः खलु भविष्यन्ति रामस्य परमाः स्त्रियः।  
 अप्रहृष्टा भविष्यन्ति स्नुषास्ते भरतक्षये॥**
-
-
 
 Govindaraja explains **स्त्रियः**as meaning **परिचारिका:**(maid-servants), though in commenting on Yuddha, XXI, 3, he says also that the plural **स्त्रियः**may be honorific and may mean only Sita (**पूजायां बहुवचनम्** ). He gives the latter explanation for the plural **स्नुषाः**Theertha says that **स्त्रियः** refers to Sita's friends (**सीतासख्यः**). That Janaka sent many handmaids to accompany and save Sita is stated in Bala, LXXIV, 6. See also Ayodhya, XLII, 15.
 
@@ -5962,8 +5353,6 @@ Govindaraja strikes out another path also and says that the poet reters to Sride
 
   The popular belief is that for 14 years Lakshmana fasted and kept awake both because he wanted to guard Rama and Sita day an night and because Indrajit had a boon—though not known to Lakshmana—that he could be killed only by his
 
-
-
 father-in-law who fasted and was sleepless for fourteen years. These theories are interesting but have no foundation in the poem. Lakshmana kept awake only on the first night talking to Guha (Ayodhya, LI, 26). Ayodha, Prakshipta Sarga after XCV 34 to 37, Aranya, I, 22, and Sundara, XXXVI, 4, show that Lakshmana was taking food like Rama and did not fast for 14 years.
 
 **10. THE RIDDLE OF GUHA.**
@@ -5980,8 +5369,6 @@ RAMA AND SITA AND LAKSHMANA.**
 Bharadwaja feasted Bharata's army with delicious divine viands by the power of his *tapas*. (Ayodhya, XCI, 22, 23, 57, 58). Later on, after Rama is feasted by Baradwaja, the sage asks him to seek a boon. Rama asks that the trees on the way to Ayodhya may bloom with flowers and bear fruits out of season. The boon is granted and tapas (penance) effect at once (Yuddha, CXXVII, 19, 20). Bhavabhuti says well :
 
 **ऋषीणां पुनराद्यानां वाचमर्थोऽनुधावति॥**
-
-
 
 **BOOK IV**
 
@@ -6006,8 +5393,6 @@ The confusion is increased by the alternative explanations given by Tilaka.
 
   यद्यपि पंचवठीत उदग्भागोऽगस्त्याश्रमः पूर्वमुक्तस्तथाप्यत्रापि बोध्यः। वाल्मीकेरनेकदेशेष्वाश्रमवत्। समाननामाऽन्य एवायमित्यन्ये।
 
-
-
 Agastya is the sage who went from North India to South India and is connected intimately with Tamil literary tradition. I see nothing strange in his having an asrama in each of two places and fail to see why any one should feel upset by such a fact. He is described thus in Aranya XI, 83.
 
 **दक्षिणा दिक्कृता येन शरण्या पुण्यकर्मणा॥**
@@ -6027,8 +5412,6 @@ Earlier yet Lakshmana had meted out a similar punishment to Tataka.
 **सौमित्रिरकरोत्क्रोधाद् धृतकर्णाग्ननासिकाम्॥**
 
 **(Bāla, XXVI, 18).**
-
-
 
   After Jātayu's death, Lakshmana had a similar experience when a demoness named Ayomukhi who embraced Lakshmana and asked him to live with her.
 
@@ -6055,8 +5438,6 @@ Isee nothing for explanation in a strategic retreat. Govindaraja says that Rama 
 
   In this matter Valmiki's poetic art is admirable and his version has a refreshing naturalness. Later poets are puzzled by the need to reconcile the human and the divine aspects of the incarnation. In the Adhyatma Ramayana it is said that Rama asked Sita to disappear into the fire for a year, leaving a shadow Sita to be abducted by Ravana! Kambar makes Ravana remove Sita along with the ground upon which she stood
 
-
-
 and without touching her. But Valki takes a natural course and yet maintains the purity and nobility and divinity of Sita unimpaired. *See Aranya*, XLIX, 22; Kishkinda, XXXVII, 61. If there was only a shadow-Sita in Lanka, the scene of Sita's entering the fire would lose all its poignancy.
 
   Even proceeding on the plane of divinity, the loftier view to take is that Sita herself willed to go to Lanka to see if Ravana would change his ways and avoid destruction at Rama's hands, especially as Rama had sworn the death of all evil-minded demons (Aranya, X, 17 to 19). Why should all the inhabitants of Lanka die because of Ravana's evil ways? All of them were as much the children of the mother of the universe as any other children. Sita was Mercy Incarnate.
@@ -6075,8 +5456,6 @@ I wonder if there was not a reference to her mission of softening hard and sinfu
 **(Ayodhya, XXVII, 6).**
 
   A minor riddle is why Lakshmana spoke in words of anger to Sita when she spoke scornfully to him as he refused to go away from his duty of protecting her even after hearing Mareecha's simulated cries of “Sita” “Lakshmana”. Some critics praise Kambar for the reverential way in which he makes Lakshmana address Sita even under such provocative language from her. But Valmiki's as usual takes a more natural and human line, though Kambar's approach, though a bit artificial, has a solemn beauty of its own.
-
-
 
 **BOOK IV**
 
@@ -6110,8 +5489,6 @@ Sita's embracing and weeping over the dying Jatayu is a natural and noble act fo
 
   It is often asked how, if Rama was incarmate Godhead, he could bewail and bemoan the abduction of Sita like an ordinary
 
-
-
 man. The poet's mingling of the human and the divine angles of vision enables him to combine supreme poetry and supreme spirituality in a manner which is not seen in any other poet in the world in such a wonderful measure. Love in separation (Vipralambha singara) is the highest and most appealing aspect of love and Valmiki excels in its delineation.
 
 **BOOK V**
@@ -6132,8 +5509,6 @@ See also Kishkindha, III, 2, IV, 9, XIX, 10; Yuddha, II, 14; LXX, 79; LXIX, 86, 
 
   What is the secret of the art of the poet in making them like and yet unlike men. In the Madhuvana scene in Sundara X, 55, and elsewhere the simian traits are stressed, But in the Kishkindha Kanda the Vanaras are described as wearing fine garlands and clothes (XII, 15; XVI, 16; LVII, 26). Vali were a golden garland. His *sibika* (palanquin) was a marvel of art (Kishkindha, XXXVIII, 10, 11, 12). Sugriva plighted comrade. ship with Rama before the God of Fire. He cremated Vali and
 
-
-
 wore a wet cloth when he performed Vali's obsequies. (Kishkinda XXV, 49, 50). Hanuman wore a white cloth when he first met Sita and was learned in Sanskrit Vedas and grammar (Sundara, XXXII, 1; Uttara, XXXVI, 46 to 48). He was also an expert in the medical science and knew precious herbs. In the Sundara Kanda Hanuman prayed to various gods before beginning his search for Sita. In the Uttarakanda (XL, 15 to 20) we are told about his devotion to God. Vali was devoted to Sandhyā worship. How could mere monkeys have such traits? We are told also about the fondness of the Vanaras for wine (Kishkinda XXXIII, 7; XXXIV, 7). The Vānaras could sing and play many musical instruments (Kishkinda, XXVII, 27; XXXIII, 20). The coronation of Sugriva as described in Kishkindha, XXVI, is an exact counterpart of the coronation of Rama as described later on. The Vanaras lived in a fort and had flags and machines.
 
   In the case of Rakshasas also, we must remember that they were performers of elaborate yāgas (sacrifices), though they tried to destroy the yāgas of the Aryan sages. (Yuddha LVII, 22; LXXIII, 17, 18). They had Vedic chants before dawn (Aranya, XLVII, 13; Sundara, IV, 10, 12, 13; V, 9; XVIII, 2; Yuddha X, 8, 9, 16; LVII, 22; LXXIII, 17, 20; LXXX, 11, 16). Ravana is described as expert in Veda Vidya and swakarma,
@@ -6151,8 +5526,6 @@ Nay, he was cremated in accordance with the rites as laid down by the sages and 
 
 Hanuman was wonderstruck at the glory of Ravana but felt that it was only evil in unrighteous power. (Sundara, XLIX, 17 to 19).
 
-
-
 Nay, after describing Ravana's harem, he called the life there the life of beasts.
 
 **नशक्या प्रमदानष्टा मृगीषु परिमार्गितुम्।(Sundara, XI, 46).**
@@ -6165,8 +5538,6 @@ Nay, after describing Ravana's harem, he called the life there the life of beast
 
   Very possibly Dandakaranya comprised the Maharashtra, Even to this day the religious *Sankalpa* (enumeration of place and time) at the commencement of a religious ceremony in Mahārashtra says : asmin *Dandakāranya dese* (in this Dandaka forest-tract). Nasik is shown as the ancient Panchavati of the Ramayana. The poem of Valmiki describes the Godavari river as adjoining Panchavati. The great scholar E. F. Pargiter says that “Dandaka . . . . appears to have been a general name which comprised all the forests from Bundelkhand to the river Krishna” (page 231 etc. of the journal of the Royal Asiatic Society, 1894). So far as Kishkindha is concerned, Valmiki's poem clearly says that it was near Pampa. Tradition rightly identifies Kishkindha
 
-
-
 with Anegun li on the left bank of the Tungabhadra tiver. We are shown near Hampi in the Bellary District in the Madras Presidency the Rishyamooka and Matanga hills.
 
   A very early Aryan colony had evidently settled itself in Lanka (Ceylon). Dharmakirti affirms the identity of Sinhala and Lanka. Probably Simhala was the name of the island and Lanka was the name of its capital city. Kadirgama in Ceylon is only Kartikeyagrama, There is a tradition that Subrahmanya slew Tārakāsura there. In Skandapurana (Maheswara Khandam, Kumarikakhandam, Chapter XXI, Verse 24) Tarakasura's capital is said to have been near the seashore (**महासागरकूलस्थम्**) Rama's attack on Ravana was a later event. There is a tradition in Tamil literature that a portion of South India south of the Kumari river (49 nādus in all) were engulfed by the ocean. It is not unlikely that the western portion of Lanka also got submerged then. But the fact that Ceylon as it is now was Lanka and was an island adjoining India cannot be disputed at all. Ancient Tamil literature refers to Kodi (Dhanushkodi) and the ancient Tamil classic *Silappadikaram* refers to Karan (Khara) and *Manimekalai* refers to the building of Rama's bridge and his destruction of Ravana.
@@ -6175,8 +5546,6 @@ with Anegun li on the left bank of the Tungabhadra tiver. We are shown near Hamp
 
   Mr. N. S. Adhikari says in his *Lankha of Ravana* that Lanka was probably the present Sumatra. Mr. V. H. Vader thinks that it was the present Malaya Dwipa (Maldives). Very strangely Mr. M. V. Kibe propounds a theory that Lanka was a peak visible from Amarakantak, the source of the Narmada (Narbadda), and that the marsh surrounding it was described by the poet as the ocean. This is untenable as Valmuki describes the Vanara army as going southwards from Kishkinda to Mahen ira
 
-
-
 and thence to Lanka. On the whole the identity between Lanka and Ceylon is undeniable. In the Tamil classic *Silappadikaram* King Gajabahu of sea-girt Ceylon![](../books_images/U-IMG-1729755525Screenshot2024-10-24130829.png)is said to have been present when King Cheran Senguttuvan built a shrine for Kannaki. This shows that Lanka was an island near the Chera territory. The Sinhalese were later Aryan immigrants into Ceylon. There were frequent intermarriages between Sinhalese Kings and the South Indian Kings. In the Devaraja Vihara built at Dambulla by King Walagambahu about 104 B.C. we find the statues of Vishnu, Ganesa Kartikeya, Vibheeshana and Buddha!
 
   A doubt was sought to be cast upon the identity of Ceylon and Lanka by the fact that Bhaskararoya andVarahamihira say that the Ujjayini meridian (about 75° East Longitude) passed through Lanka. That line goes 300 miles west of Ceylon Bhaskararoya says also that Lanka was situated north of the equator. But it may be that long after the western portion of the old Lanka near India was destroyed by oceanic erosion as stated above there was another city of Lanka in the time of Bhaskararoya. It may be that what they recorded was only an approximation and not a verified fact. Anyhow their statement can in no way negate the identity of Ceylon and Lanka as proved by ancient literature and tradition.
@@ -6184,8 +5553,6 @@ and thence to Lanka. On the whole the identity between Lanka and Ceylon is unden
   The Rakshasas were thus Aryan immigrants who settled in the fertile tract of Ceylon and built up a great civilisation. They had an outpost in Janasthana (Aranya, XXXI, 4). But they had become corrupted by egoism and luxury and sin, though they followed the rules of Kshatriya polity and Rāja Dharma. (Sundara XLVIII, 14). Just as the culture of Ayodhya was based on Dharma (Bāla, VI, 6), that of Lanka was based on Adharma (Sundara, XLIX, 18).
 
   This view would be assailed by those who wish to keep the Ramayana quite apart from Indian history and believe in ogres and monkeys as such as well as by the protagonists of the theory of the Dravidian race. The latter forget that the Rakshasas of Lanka were Aryans as much as the population of North India and spoke Sanskrit and chanted the Vedas and performed the Vedic sacrifices. Ravana's brother Kubera was one of the Aryan
-
-
 
 gods. Indeed, Hanuman resolves not to speak to Sita in Sanskrit lest she should take him to be Ravana in disguise (Sundara, XXX, 18). He eventually spoke to her in the dialect (Kosala or Mithila dialect, possibly an ancestor of Hindi) known to her. See Sundara XXX, 19. The Rakshasas were expert bowmen and knew Asthras also.
 
@@ -6205,8 +5572,6 @@ A well-known verse often repeated about Hanuman says :
 
 Thus Hanuman had Siva's *amsa* also.
 
-
-
 **3. THE RIDDLE OF VALI AND SUGREEVA.**
 
   Rama's seeking Sugreeva's alliance was due to Kabandha's direction. Kabandha told him that Sugreeva was in exile and had his wife taken from him by Vali and was able to help him. The words **वालिना** **कृतकिल्बिषः**(Aranva, LXXXII, 2.) must have appealed to Rama most of all, as Rama's mission was to punish Adharma and establish Dharma (Kishkindha, V, 27; NIII 24, 12). Two facts decided Rama's choice. Vali took away Sugreeva's wife and drove away Sugreeva and attempted to kill him though the latter prayed for pardon and protection and thus broke the law of *Saranāgathi* (Kishkindha, X, 9, 26, 27). Hence the theory that Rama who was born in the Surya Vamsa sought the help of Sugreeva who was the son of Surya (Sun-God) and other explanations are not acceptable.
@@ -6214,8 +5579,6 @@ Thus Hanuman had Siva's *amsa* also.
   The more difficult problem is why Vali did not aid Rama. Govindaraja says that he did so by means of Sugreeva and Angada (commentary on Bala XVII, 9). This is not a convincing explanation as it does not tell us why Vali himself did not help Rama's mission. Indeed he tells Rama that if Rama had told him about Sita he would have brought her at once or killed Ravana or brought him bound within one day. (Kishkinda, XVII, 47 to 49). Rama does not answer this at all. He knew that he did not need any one's help to kill Rāvana. (Yuddha XVIII, 22, 23). This fact is an answer to the supposed saranāgathi of Rama to Sugreeva. Rama wanted to show to the whole world that he was a friend of the good and a foe of the unrighteous. Vali's alliance was not sought though he was much stronger than Sugreeva, and he was killed as he had committed two great sins, viz. he was living in gross adultery and he had broken the law of *saranāgathi* which was the divine vow of Rama (Yuddha, XVIII, 3).
 
   I think that Vali aided the mission of Rama in a negative way. Lanka was to suffer for Ravana's sins. Vali's death would be a tremendous lesson for Ravana and the latter might come to his senses and save himself and his people from Rama's destructive wrath. Rāvana was a puny being compared to the
-
-
 
 mighty Vali. Vali paid with his life for his twofold sin to burn that lesson into Ravana's mind. Sita Devi herself had gone to Lanka to warn and save. Was there not a similar and unrevealed motive behind Vali's action and fate? In Aranya, XIX, 59, he said that he desired death at Rama's hands (**त्वत्तो** **हिवबधमा** **कांक्षान्**). Hanuman rubbed a terrible lesson into Ravana's mind when he said as follows to Ravana:
 
@@ -6227,8 +5590,6 @@ Rama himselt said that if Ravana came repentant and brought Sita, he would forgi
   I dissent from the degrading theory that Vāli and Rāvana entered into a pact of co-prosperity and coproprietorship. (Uttara, XXXIV, 41). From the above verse it is sought to be inferred that both of them agreed to enjoy female captives and other possessions in common and that hence Vali was worthless for the purpose of getting back Sita. But as I have pointed out above, Valitold Rama that he could bring Sita and also bring Ravana bound or dead. Further, we cannot read into a formula of friendly alliance any co-proprietorship at all. We find such formulae in the Rama-Sugreeva episode (Kishkindha, VIII, 7, 9) and in the Ravana-Nivātakavacha episode (Uttara, XXIII, 13).
 
   There are two minor riddles in regard to Sugreeva. It is sometimes asked why, if Rama was God, he could not distinguish between Vali and Sugreeva on the first day. The commentators give all sorts of conjectures. But Valmiki takes a natural course. The brothers were engaged in a close personal combat and were very much alike. Where was the time to ask any one which was Sugreeva? So Rama asked Lakshmana to put a flowering Gajapushpa creeper round his neck on the next day (Kishkindha, XII, 39 to 42). The poet's explanation is
-
-
 
 natural and need not be and cannot be bettered. It is further asked why when Rama asked him if he knew Ravana's abode, Sugreeva replied that he did not know (Kishkindha, VII, 2). Here again the commentators give us all sorts of fantastic conjectures. What Sugreeva said was literally true. Though he had gone over the whole world when he fled from Vali's attack, we had only a general hazy knowledge of Ravana and Lanka. Even that knowledge related to a past state of things. He wanted to ascertain the facts correctly and tell Rama. He told Angada to search for Sita with care in Lanka. See Kishkindha, VII, 3, 4.
 
@@ -6253,8 +5614,6 @@ occurs twice when describing the going of Rama and Sugreeva to meet Vali (Kishki
 
 **(Kishkindha, XVIII, 42).**
 
-
-
 Govindaraja says that “battle” means “battle” between Sugreeva and Vali. Was Rama in hiding and did he hurl his deadly arrow while being under cover? Hanuman says :
 
 **स तेन निहतः संख्ये शरणैकेन वानरः। ( Sundara, I, L11).**
@@ -6271,8 +5630,6 @@ In the Tika Siromani it is said that the word ***adrishya*** means that “you w
 
 **हीयमानमथाऽपश्यत्सुग्रीवं वानरेश्वरम्।  
 बीक्षमाणं दिशश्चैव राघवः स मुहुर्मुहुः॥**
-
-
 
 **ततो रामो महातेजा आर्तं दृष्ट्वा हरीश्वरम्।  
 शरं च वीक्षते वीरो वालिनो वधकारणात्॥**
@@ -6293,8 +5650,6 @@ What then, is the meaning of the earlier description **वृक्षौरा�
 
 If, therefore, Rama and Sugreeva sent a joint open challange to Vali, there would have been an immense carnage of the good
 
-
-
 Vanaras. So they went quietly up to Kishkindha and Sugreeva alone challenged Vali.
 
   I therefore think that the old view that Rama was in hiding when he killed Vali and the recent view that Rama fought an open battle with Vali after challenging him are not correct. Rama was in the open and hurled his arrow openly in the sight of all at Vali after much hesitation, though Vali blinded by his insensate hatred of Sugreeva and his being totally engrossed in his personal combat with Sugreeva did not see Rama who was visible to all. I have already referred to Kishkindha, XVIII, 59, which shows that Vali expected that at some time or other Rama's arrow would lay him low and that he was ready for such an end.
@@ -6305,8 +5660,6 @@ Vanaras. So they went quietly up to Kishkindha and Sugreeva alone challenged Val
 
 **सूक्ष्मः परमदुर्ज्ञेयस्सतां धर्मः प्लवंगम।  
 हृदिस्थस्सर्वभूतानामात्मा वेत्ति शुभाशुभम्॥**
-
-
 
 This means that God knows all the hidden sins of man and that God's law is inscrutable. The highest laws are the moral law and the law of protection and forgiveness and Vali had broken both and had to die.
 
@@ -6337,8 +5690,6 @@ Tārā is equally convinced about Rama's justice and shows a comprehension of Ra
 **(Kishkindha, XXII, 12, 13).**
 
 Thus she had a keen discerning mind and considerable foresight and capacity to deal with sudden and serious situations and her judgement in regard to men and things and events was faultless and her forecasts and opinions were never falsified
-
-
 
 by events. No doubt she lived with Sugreeva when he and she thought that Vali was killed by Dundubhi and she married Sugreeva after Vali's death. But widow marriage was not forbidden and she was faithful to her marriage vows.
 
@@ -6372,8 +5723,6 @@ THE KINGS IN SOUTH INDIA.**
 
   Rama had made a vow never to go into any village or town as he had agreed to live in a forest for 14 years. In fact when Hanuman requested him to come into Kishkindha he refused to do so. (Kishkindha, XXVI 9). He sought the aid of the semicivilised Aryan king living in a forest to destroy the ruthless and powerful and vicious Aryan king of Lanka. A strange
 
-
-
 episode occurs in Uttara, XXXVIII. Bharata had gatheredvarious kings and their armies to help Ramato get Sita back. Ramathanks them and asks them to return to their homes (verses 23 to 26). Rama established a righteous rule in Lanka and established a link between his own kingdom and the kingdoms of Kishkindha and Lanka and uplifted them to a higher level of life.
 
 **7. THE RIDDLE OF THE SEARCH FOR SITA.**
@@ -6390,8 +5739,6 @@ episode occurs in Uttara, XXXVIII. Bharata had gatheredvarious kings and their a
 
   We have therefore to consider why it is said in the Kishkindha Kanda that Swayamprabha led the ***Vānaras*** out of her cave to the foot of the Vindhyas and the shore of the
 
-
-
 southern ocean and why Sampāthi is said to have met them there. (Kishkindha, XLVIII, 2; XLIX, 15, 22; L, 3; I, LVII, 23, 24; LXII, 12). These passages show that Swayamprabha's cave was at one end of the Vindhyas and at the termination of the Dandaka forest and near the seashore. (Kishkindha, LIII, 15, 16). Govindaraja says :
 
 **हिमवद्विन्ध्यशैलाभ्यां प्रायो व्यप्ता वसुन्धरा इति भेषजकल्पोक्तिः।**
@@ -6399,8 +5746,6 @@ southern ocean and why Sampāthi is said to have met them there. (Kishkindha, XL
   This shows that the ancients regarded the North Indian hills as spurs of the Himalayas and South Indian hills as spurs of the Vindhyas. The poet says that Sampāthi emerged from a cave in the Vindhyas and saw the Vanaras (Kishkindha, LVI, 3). Sampāthi told them that Lanka was 100 yojanas from his cave (Kishkindha, LVII, 20). Sampāthi , further, told them that his son Supārsva told him that he was at the entrance of the cave in the Mahendra mountain when he met Ravana and Sita. He then described his sunward flight along with Jatayu and his fall on the Vindhya mountain near the shore of the southern ocean while Jatayu fell in Janasthana near Panchavati. (Kishkindha, LX, 4, 7; LXI, 16). From there the Vanaras went to the Mahendra mountain on the seashore (Kishkindha, LXI, 16; LXIII, 15; LXIV, 4). From there Hanuman leaped to the Lamba hill in Lanka. Thus Sampāthi's cave was near the seashore and near the Mahendra mountain and opposite to Lanka. I think that the poet regarded the South Indian mountain ranges as continuations or spurs of the Vindhyas.
 
   Mr. Pargiter suggests another solution and says that as there were two Mahendra mountains there were two Vindhya mountains and that one Vindhya mountain was near the extreme south of the Indian peninsula (Pages 259 to 261, journal of the Royal Asiatic Society, 1894). But in Kishkindha, LVIII, 7, Sampāthi says that he fell when his wings were burnt by the sun's beams and that he finally landed on the Vindhya mountain. He says also that the Vindhya mountain is on the shore of the southern ocean (Kishkindha, LX, 4, 7).
-
-
 
 **10. THE RIDDLE OF ANGADA'S REVOLT.**
 
@@ -6422,8 +5767,6 @@ southern ocean and why Sampāthi is said to have met them there. (Kishkindha, XL
 
 **(Sundara, XXXVII, 34).**
 
-
-
 Mr. C. N. Metha's view in *The Flight of* *Hanuman* that Hanuman must have travelled in a mono-aeroplane and that he must have burnt Lanka with incendiary bombs which he must have carried in his aeroplane has no real merit. It is an odd mixture of the old and the new and has no basis at all. According to him Mahendragiri is somewhere (Heaven knows where) between Puri and Vizagapatam, Mainaka is Malacca or Andaman-Nicobar islands, and Surasa Nāga Mata is Sumatra and Java. Mr. Metha thinks further that Hanuman flew also over Bali and other islands, that Simhika is New Guinea, and that Lumbagiri is in Australia, somewhere near the Australian Alps His flight of fancy is even more astonishing than that of Hanuman
 
 ![](../books_images/U-IMG-1728263230Screenshot2024-08-04234543.png)
@@ -6442,8 +5785,6 @@ Mr. C. N. Metha's view in *The Flight of* *Hanuman* that Hanuman must have trave
 **(Kishkindha, XLIV, 6 7).**
 
 This shows that, as he referred to Hanuman's power of timely thought and speech and action and *naya* (political vision and wisdom), he asked Hanuman to act as a plenipotentiary. Rama also took a similar view (see Kishkindha, XLIV, 8 to 14). He knew him already as an able ambassador from Sugreeva. Hanuman gave the ring to Sita and got from her her message and the Choodamani and then decided to have audience with Ravana and give him sound advice. (Kishkindha, XLI, 1, 2). He wanted also to see if the Rakshasas could be converted to pacifism and righteousness (Kishkindla XLI, 4). See also Sundara, XLI,
-
-
 
 5 to 9; L, 15. Vibheeshana treats him as a *doota* (ambassador) and tells Ravana that a *doota* should not be killed. Ravana also agrees. Rama and Sugreeva wholly approve of Hanuman's doings in Lanka. (Yuddha, I, 7).
 
@@ -6468,8 +5809,6 @@ He had raped some women and received curses from them He was accumulating a heav
 
 **(Kishkindha, XLIV, 12, 18).**
 
-
-
 Govindaraja says that though Rama had given away all his possessions as gifts when he went into exile, he retained only the ring above said. Probably it was given to him by Janaka as a present at the time of his marriage. Or it was his own. He was wearing it always on his small finger. Govindaraja suggests also that it was possibly a ring given by Rama to Sita and taken by him sportively from her. The former is the likelier and more natural explanation. The poet says later :
 
 **गृहीत्वा प्रेक्षमाणा सा भर्तुः करविभूषणम्।  
@@ -6488,8 +5827,6 @@ Govindaraja has a rather psychologically elaborate explanation about the way in 
 **वाचंचोदाहरिष्यामि मानुषीमिव संस्कृताम्॥  
 यदिवाचं प्रदास्यामि द्विजातिरिवसंस्कृताम्।  
 रावणं मन्यमाना मां सीता भीता भविष्यति॥**
-
-
 
 **अवश्यमेव वक्तव्यं मानुषं वाक्यमर्थवित्।  
 मया सान्त्वयितुं शक्या नान्यथेयमनिन्दिता॥**
@@ -6513,8 +5850,6 @@ Thus Hanuman must have talked to Sita in some dialect then current in Kosala or 
 **5. THE RIDDLE OF SITA'S ORNAMENTS.**
 
   I have already shown how the distinction between *Subhabharana* (auspicious ornaments which must be always worn by a married women) and *bhogabhārana* (extra ornaments) is not wellfounded. In the Asoka Vana, Sita wore only a few Subhābharanas and wore an old dress which was far from clean and fine and bright (**मलिनसंवीतां**—Kishkindha, XV, 18). She hung the other ornaments on the branches of the tree under which she sat and Hanuman says that they shone on those branches. The poet says that she wore *Karnaveshtas* (Kundalas), Svadamshtras (ornamenting one side of ear) and bangles. But these were not cleaned well and were dirty and dark. Hanuman noted also that he did not find on her person or on the branches of the tree the jewels which Sita had cast down from the aerial car and which fell on the Rishyamuka hill. He noted also that the portion of the upper garment in which those jewels were tied up was bright and fine whereas the cloth worn by Sita in Asoka
-
-
 
 Vana was dirty and unattractive as it had been worn for many months.
 
@@ -6557,8 +5892,6 @@ She took the Choodaman out of her cloth and gave it to Hanuman. He was then of a
 
 **(Sundara, XXXIX, 2).**
 
-
-
 **6. THE RIDDLE OF SITA'S FRIENDS IN LANKA.**
 
   In Sundara, XXII, 10, 11, the poet says that the young women who belonged to the Deva and Gandharva species and who, having been enslaved by Rāvana , accompanied him when he went to see Sita, comforted her when Rāvana uttered terrible threats to her. In Canto XXVII, the poet refers to Trijata's prophetic dream of Rama's victory and Rāvana's death. Govindaraja says — though Valmiki does not say so — that Trijata was Vibheeshana's daughter. In Sundara, XXXVII, 11, Sita says that Vibheeshna's wife Sarama sent her elder daughter Anala to inform her that Rāvana would not heed Vibheeshna's advice to send back Sita to Rama. The poet says in Canto XXXIII of the Yuddha Kanda that when Sita was in agony on seeing the fictitious Rama's head cut off by Vidyujjitwa, Sarama comforted her. From Uttara, XII, 24, we learn that Sarama was Vibheeshna's wife.
@@ -6574,8 +5907,6 @@ She took the Choodaman out of her cloth and gave it to Hanuman. He was then of a
 It seems to me that she narrated that episode to suggest that she knew that the mission of mercy was the dearest of all missions to Rama. (Sundara, XXXVIII, 41). She calls that incident as **श्रेष्टमभिज्ञानं** (the best token). See Sundara, XXXVIII, 12. I have already stated that Sita's going to Lanka was to turn the hearts of Rāvana and his subjects into righteous ways.
 
   The crow was Jayāntha, who was Indra's son (Sundara, XXXVIII, 28). Why did he behave as he did? As in the case of Vali, Jayantha's action was to purify Rāvana and save Lanka, as Rama wanted a reformed Rāvana rather than a slaughtered Rāvana . By the terrible Brahmasthra in a blade of grass which pursued him through the worlds and from which none could save him, Rama's peerless power was made known
-
-
 
 to the whole world. Rama's mercy also was equally made known.
 
@@ -6596,8 +5927,6 @@ The poet's wonderful art is seen in his not introducing the episode in its natur
 **9. THE RIDDLE OF SITA'S PRAYER TO AGNI.**
 
   The episode of the most moving and beautiful prayer of Sita to the fire-god not to burn Hanuman but to be cool and pleasant to him (**शीतोभव** **हनूमतः**—Sundara, LIII, 28 to 31) is one of
-
-
 
 the marvels of the world's literature. The virtue of a Pativrata makes her words come to pass like the yogic power of ayogi, as God fulfils the words of both. And yet the purity which could make fire cool to devotees could make it deadly and destructive a hundredfold to evil-doers. See Sundara, XXII, 20; LI, 36.
 
@@ -6622,8 +5951,6 @@ Vibheeshana pressed Ravana again and again to return Sita to Rama. The poet call
 
 **(Yuddha, XVII, 14, 15).**
 
-
-
 **भवन्तं सर्वभूतानां शरण्यं शरणागतः॥**
 
 **परित्यक्ता मया लंका मित्राणि च धनानि च।  
@@ -6645,8 +5972,6 @@ I do not say that he came an ascetic or a yogi seeking personal salvation. But h
 
 **(Yuddha, XVIII, 21 to 28).**
 
-
-
 **सकृदेवप्रपन्नाय तवास्मीति च याचते।  
 अभयं सर्वभूतेभ्यो ददाम्येतद्व्रतं मम॥**
 
@@ -6664,8 +5989,6 @@ It was Rama that pressed the kingship of Lanka on him so that a righteous sovere
   When afterwards Vibheeshana refers to the loss of his kingship (—**नष्टराज्यमनोरथः** Yuddha, L, 18, 19) and when Sugreeva tells him that he would surely rule over Lanka (Yuddha, L, 21), they refer only to his duty to govern a righteous empire as ordered by Rama. Finally, when Rama ascended to Paradise, he took Sugreeva with him but commanded Vibheeshana to rule over Lanka as long as the sun and the moon and the earth existed and not to say even a single word more but to worship the image of God given to him by himself. (See Uttara, CVIII, 27 to 32).
 
   Thus in addition to treating the Vibheeshana Saranāgati episode as a scripture of devotion—which it certainly is—we can also get inspiration from it by treating it as a human document and as a study in social and political realism and in a code of lofty ethics and refined manners. Rama not only spoke and acted as God but evoked the divine in all the beings around and about him.
-
-
 
 **2. THE RIDDLE OF RAMA'S PRAISE OF BHARATA AND  
 HIMSELF TO LAKSHMANA.**
@@ -6689,8 +6012,6 @@ But that praise of Lakshmana's pure unselfish “paternal” affection for him h
 **स्वगुणाविष्क्रिया दोषो नात्मभूतार्थशंसिनः।**
 
 But what Rama says is : “There is no father's son like me” i.e. There is no other son with such a father. Rama is not boast
-
-
 
 ing about his filial affection but praising Dasaratha's paternal affection. Govindaraja says :
 
@@ -6717,8 +6038,6 @@ I have already stated in the earlier part of this volume that the figure 100 yoj
 
   I have already described above Rama's Council of war. I have shown herein how Rama respected his comrades in arms and appreciated their view-points without surrendering his
 
-
-
 convictions. He imparted also a diviner outlook by which they were elevated all round. But in Ravana's Council of war we see only the inflated egoism of a dictator surrounded by flatterers and megalomaniacs. The sage advice given by Vibheeshana was cast aside with scorn. Malyavan's advice also was ignored. Ravana was too immorally infatuated with Sita to restore her to Rama. He said also that he would split in two rather than bend.
 
 **द्विधा भज्येयमप्येवं न नमेयं तु कस्यचित्।  
@@ -6739,8 +6058,6 @@ He refused to heed any wholesome advice and went boldly and scornfully to his do
 
   The poet has drawn the character of Indrajit in a puzzling While describing the greatness and supremacy of Rāvana in Kandas I to VI, he makes Agastya say in the first canto of the Uttara Kanda that the sages wondered most at the
 
-
-
 killing of Indrajit. Rama asks why they praised the valour of Indrajit as being above that of Ravana and Kumbhakarna and others. This enables the poet to describe the greatness of the Paulastya line, the supreme power of Ravana, and the wonderful valour of Indrajit. Strangely enough the majority of the earlier cantos in the Uttara Kanda describe the glory of Rāvana rather than the glory of Indrajit. But the special achievement attributed to Indrajit is his conquest over Indra, the Lord of the three worlds. He was named as Meghanada at his birth as his infantine cry was as loud as thunder. But he became known as Indrajit because of the greatest exploit of his life. Agastya says:
 
 **एतदिन्द्रजितो नाम बलं यत्कीर्तितं मया।  
@@ -6758,8 +6075,6 @@ Rama's peerless valour was made a world-known fact by Indrajit's death in the ab
 **7. THE RIDDLE OF THE GARUDA EPISODE.**
 
   In this episode we see another instance of Valmiki's supreme poetic gift of artistic suggestiveness (Vyangya or Dhwani). When Rama and Lakshmana and others were wounded by the hidden Indrajit and lay helpless on the ground, Vibheeshana saw the wonderful exploit of the hidden Indrajit he also being a master of *Māyā* in war. Indrajit was in un-
-
-
 
 righteous glee and said that none in the three worlds could release or save Rama and Lakshmana.
 
@@ -6801,8 +6116,6 @@ And yet the vain and foolish Indrajit went to his father and told him that he ha
 
   Sushena then proposed to send Hanuman to get the *sanjeevani* herb (ōshadhi). But suddenly Garuda appeared on
 
-
-
 the scene. The poet's description of the meteoric flight of Garuda is wonderful.
 
 **एतस्मिन्नन्तरे वायु र्मेघांश्चापि स विद्युतः।  
@@ -6838,8 +6151,6 @@ He says further about the words **प्रदक्षिणं** **ततः**
 
 The poet has subtly and beautifully suggested by the Garuda episode Rama's divinity which was to be explicity broadcasted
 
-
-
 after Sita's Agnipravesa. The poet's art is shown also by his making Ravana attribute Rama's freedom from Nāgapasa to might or magic or stratagem.
 
 **तन्नजाने प्रभावैर्वा मायया मोहनेन वा॥**
@@ -6863,8 +6174,6 @@ Even today all pictures and images of Hanuman represent him as having the Sanjee
 
 (He had 10 heads and 20 arms only during battles). See Yuddha, CIII, 34. But he had that appearance on other public
 
-
-
 occasions also. (Aranya, XXXV, 9; XLIX, 6). It looks as if after death he had only one' head and two arms. (Yuddha, CXIII, 8 to 10). Anyhow, seeing that the poem gives a thousand arms to a man (Kartaveerya Arjuna), we need not feel puzzled by the attribution of twenty arms to Ravana!
 
   The poet speaks again and again about Ravana's stately and majestic and handsome appearance (Sundara, X, 4; XVIII, 23; XIX, 1). The woman of his harem had different types of beauty. (Sundara, IV, 20; IX, 7). Sita's guards were specially chosen for their ugliness so as to frighten her into submission.
@@ -6885,8 +6194,6 @@ Govindaraja explains both. Theertha prefers**सर्वरात्रं**and
 
   प्रथमाद्वितीयातृतीयासुदर्भशयनम्। अष्टम्यां सुवेलारोहणम्। नवम्यां युद्धारंभ इति। सप्तरात्रं रामरावणयुद्धमिति। इदं च इतस्तु नवमेऽहनि इत्यन्नविस्तृतम्॥
 
-
-
 **BOOK VII**
 
 Thus his view is that the battle began on the Navami day and that the Rama-Ravana battle want on for seven days. The exact duration of the military operations is involved in some obscurity.
@@ -6900,8 +6207,6 @@ The war began on the Krishna Paksha Prathama day. On that very night the nāgāp
 
 **अभ्युत्थानत्वमद्यैव कृष्णपक्षचतुर्दशीम्।  
 कृत्वा निर्याह्यमावास्यां विजयायनलैर्वृतः॥**
-
-
 
 Govindaraja in his commentary on the above verse tries to reconcile this view with the view that the battle began on Navami.
 
@@ -6923,8 +6228,6 @@ Rama's meeting Bharta at Nadigrama was on Shashti. (Yuddha, CXXIX, 55). Rama's c
 **सर्वदेवात्मकोऽह्येषः। ब्रह्मेशाच्युतेशाय।**
 
 Thus it is an appeal to the total power of all the Gods as limbs of the Supreme and only Divinity of the entire universe. Govindaraja seems to doubt the authenticity of the hymn because it exalts the Sun and conflicts with the rest of the poem which exalts Narayana. Such a sectarian view misses the real spirit of Valmiki's work. During the Tripura Samhara, Vishnu became the arrow of Siva and Brahma became the charioteer of
-
-
 
 Siva and so on. Similarly before the attack of Lalita Devi on Bhandasura, it is said that the combined might of all the Gods was given to Devi.
 
@@ -6953,8 +6256,6 @@ Her virtue saved Ravana till his completion of his sins by the abduction of Sita
 
   रावणस्य कनिष्टपत्नी। इदं मन्दोदर्या अप्युपलक्षणम्।
 
-
-
 **12. THE RIDDLE OF SITA'S AGNI PRAVESA**
 
 (Entry into fire.)
@@ -6978,8 +6279,6 @@ The cheap cynicism that Sita's agnipravesa was a defect in Rama's sterling chara
 **मानसं मनसैवायमुपभुंक्ते शुभाशुभम्।  
 वाचा वाचा कृतं कर्म कायेनैव च कायिकम्॥(Manu, XII, 8).**
 
-
-
 **13. THE RIDDLE OF THE REVIVAL OF THE VANARAS.**
 
   When Indra offers a boon to Rama, Rama prays to him that the vānaras who had been killed in battle should be restored to life and health and that their kingdom might be always fertile and prosperous, (Yuddha, Canto CXXI, 5 to 9) just as he prayed to Dasaratha to forgive and bless Kaikeyi and Bharata. He loved to see all beings happy.
@@ -6995,8 +6294,6 @@ The cheap cynicism that Sita's agnipravesa was a defect in Rama's sterling chara
 Govindaraja says that Mahadeva refers to Varuna. The reason given by him is that there is no reference to Siva's prasāda in the account of the Lankaward march of Rama. But there is no mention of the crow episode or the Manassila episode in their proper places till we reach the Sundarakanda. A poem is not a diary or a chronicle.
 
   The Koorma Purana, the Padma Purana, etc., refer to the Linga Pratishta by Rama at Setu. Govindaraja says that the Itihasas are higher than the Puranas and that the Tāmasa Puranas are no authority at all. Sectarian bigotry cannot go further. Utari's explanation is that the verse must have been higher up in the text and must refer to Siva's enabling Rama to see Dasaratha Sita knew that incident personally. Why should it be referred to by Rama when narrating antecedent events? Rama's asking Hanuman to communicate to Bharata his seeing of Dasaratha by Siva's grace comes in naturally (Yuddha, CXXVIIIII)
-
-
 
  The word Mahadeva occurs in many places in the poem. In those places the attempt to make it mean Varuna or any other God except Siva would make nonsense of the verses. (Bala, LV, 2; Yuddha, CXXVIII, 11, Uttara, IV, 29).
 
@@ -7019,8 +6316,6 @@ See also Aranya, XXXII, 14, 15. In Sundara, VIII, 7, 8, it is said that it was c
 
   In the poem Rāma Rājya is described at the end of the poem in the same terms at the end of the poem as the Dasaratha Rajya
 
-
-
 at the beginning of the poem. Why, then, do the Hindus regard Rama Rajya as the *ne plus uttara of prefection*? Why does Mahatma Gandhi speak of its perfection and dream of its rebirth and re-establishment?
 
   First, the country was prosperous and free from famine, pestilence and war (Bala I, 89,90,92). Secondly, because of the perfect example of Rama, the inhabitants were righteous and lived in perfect amity and devotion to duty and truth. (Yuddha, CXXXI, 96 to 101).
@@ -7041,8 +6336,6 @@ Thirdly, the most glorious feature was that every one became Rama and the whole 
 **1. THE RIDDLE OF SAMBOOKA.**
 
   Sambooka's penance was considered to be a sin and was punished by Rama with death. Why was Sabari's penance praised and rewarded and why was Sambooka's penance punished? That is a very natural question. It seems to me that Sabari combined penance with devotion and revered Rama while Sambooka said that he wanted to go to heaven with his own body (like Trisanku) and showed no reverence to Rama. His penance was a Tāmasik and sinful penance. Rama enforced the laws of his time just as he inflicted the sentence of death on Vali for gross adultery though no such sentence can be inflicted to-day.
-
-
 
 **2. THE RIDDLE OF THE TIME OF SITA'S BANISHMENT.**
 
@@ -7077,8 +6370,6 @@ These verses suggest that Rama lived for 10,000 years after Sita's disappearance
 
 Thus there is much to be said for the view that the post-Sita period of Rama's life and career was ten thousand years. But on the other hand Durvasas was present at Sita's disappearance (Uttara, XCVI, 2). He reappears when Kāla Purusha was
 
-
-
 inviting Rama to return from the earth and says that he had been performing tapas for one thousand years.
 
 **अद्यवर्षसहस्रस्य समाप्तिस्तपसो मम। ( Uttara, CV, 13).**
@@ -7095,8 +6386,6 @@ It suggests that the time between Sita'sdisappearance and Rama's ascension to Pa
 नगरेषु च सर्वेषु राजन् जनपदेषु च॥**
 
 **(Uttara, Canto, 43, Verse, 20).**
-
-
 
 The Bhagawata also says :
 
@@ -7119,8 +6408,6 @@ Govindaraja appropriately explains **सर्वलोकातिगस्य*
 Rama wanted to preserve untarnished the lofty purity of the national ethical life and the glory of his great line and hence resolved to abandon Sita. (See Uttara, XLV, 9 to 15). He chose to give up Sita rather than give up the moral and spiritual guidance of the people. The words **अप्पहं** **जीवितं** **जह्यां** which are found in the Aranya Kanda recur here again (Uttara, XLV, 14) give us the supreme poet's key to the comprehension of Rama's character.
 
   Thus Rama's duty as a king setting a perfect model to his subjects made any other course impossible. A private citizen may adopt a different course. But if laxity in domestic life is
-
-
 
 allowed by a king in his own case, there will be a general decay and decline of moral standards. There may be instances of renunciation of kingship when domestic happiness and public welfare conflict. But Rama chose the higher path of a great *yogin* caring for the auspiciousness of the souls of all.
 
@@ -7146,8 +6433,6 @@ The mission of Rama's incornation was Dharma (**रामो** **विग्र
 
 **त्वया जगन्ति पुण्यानि त्वय्यपुण्या जनोक्तयः।  
 नाथवन्तस्त्वया लोकास्त्वमनाथा विपत्स्यसे॥**
-
-
 
 Vasishta's counsel is stated earlier in the play :
 
@@ -7187,8 +6472,6 @@ Thus the great poet, Bhavabhuti, entered in his own way into the heaven of Rama'
 
   Sita herself did not blame Rama and proved her purity before all the world by her terrible vow and then disappeared with the Earth-Goddess into the earth. Aesthetically speaking, can we convive of a more glorious exit for her from the theatre of life? Kalidasa, Bhavabhoshi, and Ananda Vardhana have glorified Rama's conduct and it will be well if we shut up our puny criticisms and stand with bowed heads before the great moments in the lives of great souls..
 
-
-
 **3. THE RIDDLE OF SITA'S DISAPPEARANCE.**
 
   The poet's description of Sita's disappearance touches the Supremest heights of tragedy and spirituality in the literature of the world. It is easy for a poet to bring gods into his narrative. But it would be bad art to move them out of the stage by the human ways of disease and death. Valmiki's art is at its best here and he seems to surpass himself. Nowhere else even in the literature of India do we find such a height of sublimity and self-abnegation. Even in the Mahabharata and the Srimad Bhagawata we scale only lesser peaks of glory. Valmiki himself goes to Rama's Aswamedha sacrifice. His peerless poem is sung by Rama's own sons before the whole world. The hearts of the public are purified by the fire of poesy even more than the physical fire into which Sita had entered before. Rama asked the poet to get Sita to declare her own innocence by a suprem vow.The poet replied:
@@ -7220,8 +6503,6 @@ Then came the terrible and wonderful vow of Sita which I have already described 
 **यथाहं राघवादन्यं मनसापि नचिन्तये।  
 तथा मे माधवी देवी विवरं दातुमर्हति॥**
 
-
-
 **मनसा कर्मणा वाचा यथा रामं समर्चये।  
 तथा मे माधवी देवी विवरं दातुमर्हति॥**
 
@@ -7239,8 +6520,6 @@ The earth opened and the Earth Goddess took back Sita in her maternal arms back 
   When Kāla came in the guise of an ascetic to interview Rama and ask him to go back to Paradise as the purpose of the incarnation had been fulfilled, and had said that he must speak to him privately and whoever broke in must be killed, Lakshmana was asked to watch at the door. Just then the sage Durvasa came in to see Rama urgently. Lakshmana had no option but to go in and inform Rama. He thus himself broke the command not to break in on the interview. He had to do so as he had to choose between Rama's punishment and the xxxxxxcurse blasting the entire royal family and the kingdom. Ramayana said to himself :
 
 **एकस मरणं मेऽस्तु माभूत्सर्वविनाशनम्। (Uttara, CV, 9).**
-
-
 
 Rama abandoned Lakshmana as such abandonment was equivalent to a decree of death.
 
@@ -7263,8 +6542,6 @@ Thus Lakshmana carried out the will of God in a final act of self-abnegation and
 
   Rama took Sugreeva with him to the Eternal Paradise but Vibheeshana and Hanuman were left behind to live as Chiranjeevis. Vibheeshana was to carry on righteous rule and Hanuman was to live in devotion to Rama and spread such devotion. (Uttara, CVIII, 27 to 34) Vibheeshana had been given *amaratā* (deathlessness) by Brahma (see Uttara, X, 85) and Rama had placed the burden of righteous sovereignty on his shoulders. (Uttara, XL, 9).Hanuman as Rama's supreme devotee promised to live in perfect devotion and spread devotion (Uttara, XL, 15, 16, 20, 21). Thus some devotees prefer to go to Paradise. Some prefer to live in a state of perfect and uninterrupted devotion in the world. Some are commanded by God to live in devotion and do service to the world. Thus there are diverse and different types of beatitude which are all full of supreme and eternal and infinite bliss. The Lord's will be done!
 
-
-
 **6. THE RIDDLE OF KULADHANA.**
 
   In Yuddha Kanda, Canto CXXXI, Verse 85, it is said that Vibheeshana received Kuladhana from Rama and went to Lanka,
@@ -7278,8 +6555,6 @@ Some interpreters say that Kuladhana means Lanka Kuladhana or kingship of Lanka.
   The above passage does not say that the deity was given *then* but says that Rama merely directed its worship to be properly performed by Vibheeshana. The deity had been given to Vibheeshana on the earlier occasion.
 
   Mr. C. Doraswami Iyengar says that Rama gave it to Vibheeshana as the latter had a boon of immortality (**अमरत्वं**) from Brahma whereas the solar race was bound to end, and Sugreeva wanted Moksha, and Hanuman wanted to spend his deathless life in *bhajāna* and *sevā* (praise and service of Rama). I do not think that it is proper to probe in this way into the orders of Rama, because even if Vibheeshana died some one else
-
-
 
 would worship the deity and in fact the traditions say that was what happened and the deity was installed for worship at Srirangam.
 
@@ -7301,10 +6576,6 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **॥ श्रीरामार्पणमस्तु ॥**
 
-
-
-
-
 ![](../books_images/U-IMG-1727797956Screenshot2024-08-14125713.png)
 
 **![](../books_images/U-IMG-1726760014Screenshot2024-09-19210212.png)**
@@ -7312,12 +6583,6 @@ would worship the deity and in fact the traditions say that was what happened an
 **APPENDICES**
 
 **![](../books_images/U-IMG-1726760014Screenshot2024-09-19210212.png)**
-
-
-
-
-
-
 
 **APPENDIX I.**  
 **An Ethical and Political and Spiritual Anthology from Valmiki**
@@ -7363,8 +6628,6 @@ would worship the deity and in fact the traditions say that was what happened an
 यदि भावो न दैवोऽयं कृतान्तविहितो भवेत्॥**
 
 **(Ayodhya, XXII, 15, 16).**
-
-
 
 **नात्मनः कामकारोऽस्ति पुरुषो यमनीश्वरः।  
 इतश्चेतरतश्चैव कृतान्तः परिकर्षति॥**
@@ -7416,8 +6679,6 @@ would worship the deity and in fact the traditions say that was what happened an
 **द्रक्ष्यन्ति त्वद्य देवस्य पौरुषं पुरुषस्य च।  
 देवमानुषयोरद्य व्यक्ताव्यक्तिर्भविष्यति॥**
 
-
-
 **अद्यमत्पौरुषहतं दैवं द्रक्ष्यन्ति वै जनाः।  
 यद्दैवादागतं तेऽद्य दृष्टं राज्याभिषेचनम्॥**
 
@@ -7467,8 +6728,6 @@ would worship the deity and in fact the traditions say that was what happened an
 **ये शोकमनुवर्तन्ते न तेषां विद्यते सुखम्।  
 तेजश्च क्षीयते तेषां न त्वं शोचितुमर्हसि॥**
 
-
-
 **शोकेनाभिप्रपन्नस्य जीविते चापिसंशयः।  
 सशोकं त्यजराजेन्द्र र्धैर्यमाश्रयकेवलम्॥**
 
@@ -7516,8 +6775,6 @@ would worship the deity and in fact the traditions say that was what happened an
 महात्मानं कृतात्मानमात्मानं नावबुध्यसे॥**
 
 **(Kishkindha 1,1200 to 123)**
-
-
 
 **अनिर्वेदं च दाक्ष्यं च मनसश्चापराजयः।  
 कार्यसिद्धिकराण्याहुस्तस्मादेतद्ब्रवीम्यहम्॥**
@@ -7567,8 +6824,6 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **अथहृष्टमना राजा विश्वामित्रं महामुनिम्।  
 उवाच परमोदारो हृष्टस्तमभिपूजयन्॥**
-
-
 
 **यथाऽमृतस्य संप्राप्ति र्यथा वर्षमनूदके।  
 यथा सदृशदारेषु पुत्रजन्माप्रजस्य च॥**
@@ -7622,8 +6877,6 @@ would worship the deity and in fact the traditions say that was what happened an
 **कर्तारमपिलोकानां शूरं करुणवेदिनम्।  
 अज्ञानादवमन्येरन् सर्वभूतानि लक्ष्मण॥**
 
-
-
 **मृदुंलोकहिते युक्तं दान्तं करुणवेदिनम्।  
 निर्वीर्य इति मन्यन्ते नूनं मां त्रिदशेश्वराः॥**
 
@@ -7670,8 +6923,6 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **आज्योऽपि वापि दरिद्रो वा दुःखितः सुखितोऽपिवा।  
 निर्दोषोवा स दोषो वा वयस्यःपरमा गतिः॥**
-
-
 
 **धनत्यागः सुखत्यागो देहत्यागोपि वा पुनः।  
 वयस्यार्थं प्रवर्तन्ते स्नेहं दृष्ट्वा तथाविधम्॥**
@@ -7721,8 +6972,6 @@ would worship the deity and in fact the traditions say that was what happened an
 आर्तानां संश्रयश्चैव यशसश्चैकभाजनम्॥**
 
 **(Kishkindha, XV, 19)**
-
-
 
 **आनृशंस्यं परो धर्मस्त्वत्त एव मया श्रुतः।**
 
@@ -7775,8 +7024,6 @@ would worship the deity and in fact the traditions say that was what happened an
 **न रामः परदारान्यै चतुर्भ्यामपिपश्यति।**
 
 **(Ayodhya, LXXII, 48).**
-
-
 
 **यां वृत्तिंवर्तते रामः कौसल्यायां महाबलः।  
 तामेव नृपनारीणामन्यासामपिवर्तते॥**
@@ -7833,8 +7080,6 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **(Sundara, XXVI, 49, 50)**
 
-
-
 ***  (20) Simultaneous Skill.***
 
 **कार्ये कर्मणि निर्दिष्टे यो बहुन्यपि साधयेत्।  
@@ -7882,8 +7127,6 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **मिथ्यावाक्यं प्रथमकं तस्माद्गुरुतरावुभौ॥  
 परदाराभिगमनं विना वैरं च रौद्रता॥(Aranya, IX, 3).**
-
-
 
 **न देशकालौ हि न चार्थधर्मा  
 वपेक्षते कामरतिर्मनुष्यः ॥ (Aranya, XXXIII, 54).**
@@ -7934,8 +7177,6 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **(Ayodhya, XVIII, 6).**
 
-
-
 ***  *7*. Unfriendliness.***
 
 **यथा पुष्करपर्णेषु प्रतितास्तोयषिन्दवः।  
@@ -7984,8 +7225,6 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **धर्ममर्थं च कामं च पृथिवीं चापिलक्ष्मण।  
 इच्छामि भवतामर्येएतत्प्रतिशृणोमिते॥**
-
-
 
 **भ्रातृणां संग्रहार्थं च सुखार्थं चापि लक्ष्मण।  
 राज्यमप्यहमिच्छामि सत्येनायुधमालमे॥**
@@ -8036,8 +7275,6 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **यन्मातापितरौ वृत्तं तनये कुरुतः सदा।  
 न सुप्रतिकरं तत्तु मात्रा पित्रा च यत्कृतम्॥**
-
-
 
 **यथाशक्तिप्रदानेन स्नापनोच्छादनेन च।  
 नित्यं च प्रियवादेन तथा संवर्धनेन च॥**
@@ -8091,8 +7328,6 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **(Ayodhya, XXIV, 25 to 27).**
 
-
-
 **आर्यपुत्र पिता माता भ्राता पुत्रस्तथास्नुषा।  
 स्वानि पुण्यानि भुंजाना स्वं स्वं भाग्यमुपासते॥**
 
@@ -8141,8 +7376,6 @@ would worship the deity and in fact the traditions say that was what happened an
 **अमितस्य हि दातारं भर्तारं कानपूजयेत्॥ .  
 स्त्रीणां भर्ता हि दैवतम्॥ (Ayodhya XXXIX, 28 to 31 ).**
 
-
-
 **यद्यप्येष भवेद्भर्ता ममार्ये वृत्तवर्जितः।  
 अद्वैधमुपचर्तव्यस्तथाप्येष मया भवेत्॥**
 
@@ -8190,8 +7423,6 @@ would worship the deity and in fact the traditions say that was what happened an
 न क्रतौ न विवाहे च दर्शनं दुष्यति स्रियाः॥**
 
 **(Yuddha, CXVII, 26, 27).**
-
-
 
 **7*. Affection for sons.***
 
@@ -8246,8 +7477,6 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **(Yuddha, XVI, 3 to 5, 8).**
 
-
-
 ***10. Servants.***
 
 **यो हि भृत्यो नियुक्तस्सन् भर्त्रा कर्मणि दुष्करे।  
@@ -8297,8 +7526,6 @@ would worship the deity and in fact the traditions say that was what happened an
 **कश्चिन्न लोकायतिकान्ब्राह्मणांस्तातसेवसे।  
 अनर्थकुललाक्षेते बालाः पंडितमानिनः॥**
 
-
-
 **धर्मशास्त्रेषु मुख्येषु विद्यमानेषु दुर्बुधाः।  
 बुद्धिमान्वीक्षिकीं प्राप्य निरर्थ प्रवदन्ति ते॥**
 
@@ -8346,8 +7573,6 @@ would worship the deity and in fact the traditions say that was what happened an
 **अधर्मस्तु महांस्तात भवेत्तस्य महीपतेः।  
 यो हरेद्वलिवद्भागंन च रक्षति पुत्रवत्॥**
 
-
-
 **युंजानःस्यानिवप्राणान् प्राणैरिष्टान्सुतानिव।  
 नित्ययुक्तस्सदारक्षन् सर्वान् विषयवासिनः॥**
 
@@ -8391,8 +7616,6 @@ would worship the deity and in fact the traditions say that was what happened an
 न चापि प्रतिकूलेन नाविनीतेव राक्षस॥**
 
 **(Aranya, XLI, 10, 11).**
-
-
 
 **राजा धर्मश्च कामश्च द्रव्याणां चोत्तमो निधिः।  
 धर्मः शुभं वा पापं वा राजमूलं प्रवर्तते॥**
@@ -8444,8 +7667,6 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **(Kishkindha, XXXVIII, 22, 23).**
 
-
-
 **न्यायेन राज्यकार्याणि यः करोति दशाननं।  
 न स सन्तप्यते पश्चान्निश्चितार्थमतिर्नृपः॥**
 
@@ -8493,8 +7714,6 @@ would worship the deity and in fact the traditions say that was what happened an
 विषमेतुरगाः शीघ्रा मन्दसारमयो यथा॥**
 
 **(Aranya, XLI, 7, 13).**
-
-
 
 **परस्व वीर्यं स्वबलं च बुद्ध्वा  
 स्यानं क्षयं चैव तथैव वृद्धिम्।  
@@ -8547,8 +7766,6 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 **वप्रप्राकारजघनां विपुलाम्बुनवारम्बारम्।  
 शतघ्नीशूलकेशान्तामट्टालकवतंसकाम्॥(Sundara II, 21 )**
 
-
-
 **VII.** ***Army. (बलम्).***
 
 **कच्चिद्धृष्टश्च शूरश्च मतिमान् धृतिमान् शुचिः।  
@@ -8600,8 +7817,6 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 **सर्वे क्षयान्ता निचयाः पतनान्ता समुच्छ्रयाः  
 संयोगा विप्रयोगान्ताः मरणान्तं च जीवतम्॥**
 
-
-
 **अहोरात्राणि गच्छन्ति सर्वेषां प्राणिनामिह।  
 आयूंषि क्षपयन्त्याशु ग्रीष्मे जलमिवांशवः॥**
 
@@ -8648,8 +7863,6 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 पन्थानमाहुतिदिवस्य सन्तः॥**
 
 **(Ayodhya, crx, 87, 28, 31,**
-
-
 
 **न चिरं पापकर्माणः कुसलोकजुगुप्सिताः ।  
 ऐश्वर्यं प्राप्य तिष्ठन्ति शीर्णामूका इव द्रुमाः॥**
@@ -8700,8 +7913,6 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 कामात्मता खल्वपि न प्रसस्ता॥**
 
 **(Ayodhya, XXI. 40. 56. 571.)**
-
-
 
 **यं पालयसि धर्मं त्वं घृत्या च नियमेन च।  
 स वै राघवशार्दूल धर्मस्त्वामभिरक्षतु॥**
@@ -8757,8 +7968,6 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 
 **(Ayodhya, XII, 4).**
 
-
-
 **  5**. ***Women and Fasting and Mantras and Homa and Yoga.***
 
 **प्राणायामेन पुरुषं ध्यायमाना जनार्दनम्॥**
@@ -8811,8 +8020,6 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 नदीं चेमां शिवजलांसन्ध्यार्थे वरवर्णिनी॥**
 
 **(Sundara. XIV. 49.)**
-
-
 
 **  6. *Setu*.**
 
@@ -8869,8 +8076,6 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 
 **(Bāla, XXIX, 11, 19).**
 
-
-
 **अथ देवा महादेवं शंकरं शरणार्थिनः।**
 
 **जग्मुः पशुपतिं रुद्रं लाहित्राहीति तुष्टुवुः॥ (Bāla, XLV, 3).**  
@@ -8921,8 +8126,6 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 
 **(Uttara, CVIII, 26).**
 
-
-
 **APPENDIX II**
 
 **  Key Verses in Each Kanda of Valmiki Ramayana.**
@@ -8966,8 +8169,6 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 
 ![](../books_images/U-IMG-1728225916Screenshot2024-08-08063503.png)
 
-
-
 **APPENDIX III.**
 
 **Notes on Special Verses in Valmiki Ramayana.**
@@ -8976,8 +8177,6 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 
 **1. तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम्।  
   नारदं परिपप्रच्छ बाल्मीकि र्मुनिपुंगवम्॥ (Bāla, I, 1).**
-
-
 
   In this verse the poet begins his work with obeisance to his teacher (Guru), because only such work as is done after bowing to the Guru will be fruitful. Incidentally the verse hints at the necessary qualities of a Guru. He must be a man of austerity and spiritual knowledge (**तपःस्वाध्याय** **निरतं**), a supreme knower of the meaning scripture (**वाग्विदां** **वरं** ) and a man of spiritual meditation and realisation (**मुनिपुङ्गवम्**). The abovesaid three words refer also to *sravana*, *manana*, and *nididhyasana* (study, reflection and introspection) which are necessary for self-realisation. Manu says :—
 
@@ -8999,8 +8198,6 @@ Nārada is described in the Bhagawata as one of the supreme devotees of God—a 
 यत्क्रौंचमिथनादेकमवधीः काममोहितम्॥ (Bāla, 11, 15).**
 
   Though this Verse is one of condemnation of the hunter for killing one of two pairing birds, its *Vyangyārtha* (suggested sense) is one of benediction and so the Verse is treated as a supremely holy benedictory stanza (Nāndi's loka). It means xxxxxx Of abode of Lakshmi! You have become eternally famous as xxxxx punishedthe lustful one (Ravana) out of the couple”. The
-
-
 
 Verse suggests also that Goddess Lakshmi was born as Sita when God Maha Vishnu incarnated as Rama.
 
@@ -9032,8 +8229,6 @@ One meaning is that Rama should perform sandhya. Another meaning : “I wish to 
 **5. विश्वामित्रो वचः श्रुत्वा जनकस्य तु भाषितम्।  
 वत्सराम धनुः पश्य इति राघवमब्रीवत्॥ (Bāle, LKXIVAN.12)**
 
-
-
 One meaning is said to be : “Do not be looking at Sita; See the bow”. Another is said to be : “The bow means Omkara”.
 
 ** (प्रणवो धनुः शरो ह्यात्मा ब्रह्मतल्लक्ष्य मुच्यते।)**
@@ -9055,8 +8250,6 @@ From it the arrow, i.e. Jivatma will reach Brahman “.Sita it Janaka's Jivathma
 **7. रूपौदार्यगुणैः पुंसां दृष्टिचित्तापहारिणम्।** (Ayodhya, III, 28).
 
   The obvious meaning is “one who fascinates the eyes and the minds of all by his beauty, generosity and other qualities,”
-
-
 
 Another meaning is “one who removes the sorrows of eyes and minds by his beauty etc.”
 
@@ -9089,8 +8282,6 @@ A yet another meaning is : “My father having got you the Purusha as the son-in
 
   (1) Know Rama (God) as Dasaratha (**दशमः** **मनोरथः**) i.e, beyond the nine sheaths (five internal Kosas, *i.e*. Annamayakosa constituting the sthoola sarira or physical body, Praranayakosa or sookshma sarira, Manomayakosa and Vijnanamayakosa forming the *kartha* and Anandamayakoṣa forming the Bhokta and four external Kosas, i.e. annam (food), viththam (wealth), putra (son) and kalathra (wife ). Know also **मां** (**मायां**) and **जनकात्मजां** (**जनक** *i.e*parents +**आत्मा** *i.e.*, body + **आत्मज** *i.e.* children,*i.e.*. the entire samsara) as **हेय**(to be renounced), know the waft **अठवीं** (forest *i.e.* bondage) and Ayodhya, *i.e.*, **अयोध्या** *i.e.* Mukti.
 
-
-
   (2) Know Rama as Dasaratha (Vishnu.**दश्** means biting. So **दशरथ**—**दशः** (Garuda, *i.e.*biter of sepents) **रथः** **यस्य**) know Sita as Ma (Lakshmi). Know the forest Ayodhya (Vaikunta).
 
   (3) Know Dasaratha as Rama, *i.e.* **उपरत**as dead. Know me as Sita, *i.e.* I will go away like Sita and live in my father's palace. Know that Ayodhya will be an atavi (forest).
@@ -9122,8 +8313,6 @@ A yet another meaning is : “My father having got you the Purusha as the son-in
 
   i.e. Hold Rama's hand of grace and give up attachment to the world.
 
-
-
   (6) The first pāda teaches the greatness of Brahmajnanis ; the second pāda teaches that they do not return to bondage (**न** **च** **पुनारावर्तते**); the third pāda teaches that to the knower of Brahman the world disappears; and the fourth pāda teaches asparsa or *Sanyāsa*.
 
 **12. मन्ये प्रीतिविशिष्टा सा मत्तो लक्ष्मण शारिका ।  
@@ -9145,8 +8334,6 @@ A yet another meaning is : “My father having got you the Purusha as the son-in
 
 **15. न्यस्तदंडा वयं राजन् जितक्रोधा जितंद्रियाः।  
    रक्षितत्वा स्त्वयशश्वङ्गर्भभूतास्तपोधनाः॥ (Aranya, V, 33).**
-
-
 
   Those who are devoted to a life of *Ahimsa* must be protected by the king just as the child in the womb is protected by the mother.
 
@@ -9193,8 +8380,6 @@ A yet another meaning is : “My father having got you the Purusha as the son-in
 **21. सकृदेव प्रपन्नाय तवास्मीति च याचते।  
   अभयं सर्वभूतेभ्यो ददाम्येतद्व्रतं मम॥ (Yuddha, XVIII, 33 ).**
 
-
-
   The gods wanted only the destruction of Ravana, (See Bāla, XV, 21). Indeed, after Ravana's destruction, they ask Rama to come bock to Paradise.
 
 **निहतो रावणो राम प्रहृष्टो दिवमाक्रम।** **(Yuddha, CXX, 30 ).**
@@ -9230,8 +8415,6 @@ I
 
 **2 स हृत्वा राक्षसान् सर्वान् यज्ञघ्नान् रघुनन्दनः।  
  ऋषिभिः पूजितस्तत्र यथेन्द्रो विजयी पुरा॥**
-
-
 
 **3. विश्वामित्रस्तु धर्मात्मा श्रुत्वा जनकभाषितम्।  
    वत्स राम धनुः पश्य इतिराघवमब्रवीत्॥**
@@ -9272,8 +8455,6 @@ I
 **15. मंगलाभिमुखी तस्य सा तदासीन्महाकपेः।  
    उपतस्थे विशालाक्षीं प्रयदा हव्यवाहनम्॥**
 
-
-
 **16. हितं महार्थं मृदुहेतुसंहितं  
    व्यतीतकालायतिसंप्रतिक्षमम्।  
   निशम्य तद्वाक्यमुपस्थितज्वरः  
@@ -9312,8 +8493,6 @@ I
 
 **1. तपःस्वध्यायनिरतं तपस्वी वाग्विदां वरम्।  
   नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम्॥**
-
-
 
 **2. स ते परमास्त्रेण मानवेन समाहतः।  
   संपूर्णं योजनशतं क्षिप्तः सागरसंप्लवे॥**
@@ -9355,8 +8534,6 @@ I
 14.नावमान्यो भवद्भिश्चहरिर्धीरपराक्रमः।  
    दृष्टा हि हरयः पूर्वं मया विपुलविक्रमाः॥**
 
-
-
 **15. श्रुत्वा हनुमतो वाक्यं यथावदभिभाषितम्।  
    रामः प्रीतिसमायुक्तः वाक्यमुत्तरमब्रवीत्॥  
 16. यस्तुसव्यमसौपक्षं रामस्माश्रित्य तिष्टति।  
@@ -9390,8 +8567,6 @@ I
 वैदेहीहरणं जठायुमरणं सुग्रीवसंभाषणम्।  
 बालीनिग्रहणं समुद्रतरणं लंकापुरीदहनं  
 पश्चाद्रावणकुंभकर्णमथनमेतद्धि रामायणम्॥**
-
-
 
 **Ramanama Mahima,**
 
@@ -9433,8 +8608,6 @@ I
 **देवगन्धर्वयक्षाणां मानुषासुरभोगिनाम्।  
 अपनीतं त्वया दुःखं इदं सत्यपराक्रम॥**
 
-
-
 **स देवासुरगन्धर्वा यक्षराक्षसपन्नगाः।  
 कथयिष्यन्ति लोके त्वां यावद्भूमिर्धरिष्यति॥**
 
@@ -9475,8 +8648,6 @@ I
 
 **यत्पादपंकजपरागपवित्रगात्रा भागीरथी भवविरिंचिमुखान्पुनाति।  
 साक्षात्सएव मम दृग्विषमो यदास्ते किं वर्ण्यते सम पुराकृतभागधेयम्**
-
-
 
 **मर्त्यावतारे मनुजाकृतिं हरिं रामाभिषेयं रमणीयदेहिनम्।  
 धनुर्धरं पद्मविशाललोचनं भजामि नित्यं न परान् भजिष्ये॥**
@@ -9520,8 +8691,6 @@ I
 **नमस्ते पुरुषाध्यक्ष नमस्ते भक्तवत्सल।  
 नमस्तेऽस्तु हृषीकेश नारायण नमोऽस्तु ते॥**
 
-
-
 **भवभयहरमेकं भानुकोटिप्रकाशं  
 करघृतशरचापं कालमेघावभासम्।  
 कनकरुचिरवस्त्रं रत्नवत्कुंडलाढ्यं  
@@ -9558,8 +8727,6 @@ I
 **श्रीरामः पितृशासनाद्वनमगात् सौमित्रिसीतान्वितो  
 गंगां प्राप्य जठां निबध्य समुहः स चित्रकूठे वसन्।**
 
-
-
 **कृत्वा तत्र पितृक्रियां सभरतो दत्त्वाभयं दण्डके।  
 प्राप्यागस्त्यमुनीश्वरं तदुदितं घृत्वा धनुश्चाक्षयम्॥**
 
@@ -9595,8 +8762,6 @@ I
 ये शृण्वन्ति पठन्ति च प्रतिदिनं तेऽधौधविध्वंसिनः।  
 श्रीमन्तो बहुपुत्रपौत्रसहिता भुङ्त्वेहभोगांश्चिरं  
 भोगान्ते तु सदार्चितं सुरगणैर्विष्णोर्लभन्ते पदम्॥**
-
-
 
 **APPENDIX X.**
 
@@ -9636,8 +8801,6 @@ I
 **पार्श्वे रघुवरः पातु सक्थिनी हनुमत्प्रभुः।  
 ऊरू रघूत्तमः पातु गुह्यं रक्षःकुलान्तकृत्॥**
 
-
-
 **जानुनी सेतुकृत्पातु जंघेदशमुखान्तकः।  
 पादौ बिभीषणश्रीदः पातु रामोऽखिलं वपुः॥**
 
@@ -9675,8 +8838,6 @@ I
 | 30. भावजारिविधिप्रार्थितराम | 34. पितृवाक्याश्रितकाननराम |
 | 31. अगणितगुणागणभूषितराम     | 35. प्रियगुहविनिवेदितपदराम |
 | 32. अपनीकामिनिकामितराम      | 36 तत्क्षालितनिजमूदुपदराम  |
-
-
 
 |                            |                          |
 |----------------------------|--------------------------|
@@ -9718,8 +8879,6 @@ I
 | 70.इन्द्रादित्रिदशवंदितराम | 76. कृतचूडामणिदर्शनराम  |
 | 71. अतिमानसमानगभीरश्रीराम  | 77. कपिवरवचनाश्वासितराम |
 
-
-
 **युद्धकांडः**
 
 |                            |                              |
@@ -9758,8 +8917,6 @@ Raghava Vilasa by Visvanatha.
 Raghava Pandaveeya by Kavi Raja.  
 (It tells both the Ramayana and Mahabharata stories by the same stanzas)
 
-
-
 Rama Vilasa by Ramacharana.
 
   Do. by Harinatha (on the model of Jayadeva's Gita Govinda).
@@ -9794,15 +8951,11 @@ Paulastya Vadha—by Lakshmana Soori.
 
   Kalidasa, who was the greatest of India's classical poets, derived his inspiration from Valmiki. In his *Raghuvamsa*; which is his greatest poem, he says : “Like that of the string threading a hole made in a precious stone by a diamond is my way in this poem through the trail blazed by the great elder post (Poorvasoori)”. He took the idea of another of hisxxxxx poems—*Kumarasambhava*—from an episode in the Bāla Kanda
 
-
-
 of Valmiki's work. His *Megha Sandesa* was inspired by the episode of the ring in the Sundara Kanda. His description of Kanwa's hermitage in *Shakuntala* was inspired by Valmiki's description of Atri's hermitage. His concept of the perfect wife Shakuntala is reminiscent of Valmiki's description of Sita. His description of love-lorn Pururavas was inspired by Valmiki's description of the love-lorn Rama.
 
   Kalidasa never put himself in a position in which a comparison with the peerless elder poet would become inevitable. In his *Raghuvamsa* he made his Ramayana chapters very brief and laconic, amplifying his delineation only where the elder poet passed briefly or lightly over a possible description. He compressed the whole of Sundara Kanda into one marvellous stanza. Further, Kalidasa polished and embellished his work while Valmiki sang artlessly as his heart prompted him. His delineation of the prayer for aid made by the Gods who had gone to the milky ocean to seek God Vishnu's grace is a literary marvel and a matchless exposition of synthesised and unified Hinduism. Valmiki had left that episode unelaborated. Kalidasa's description of the aereal journey of Rama and Sita and Lakshmana and others in the aereal car Pushpaka Vimana is not only a daring feat of imagination in a realm which had been left unexploited by Valmiki but also gave him a unique opportunity to give to the world superb nature poetry by describing the Ganges and the Jumna and the conjunction of those two holy rivers.
 
   I may quote here the following passage from my work in two volumes in *Kalidasa*: “As Kalidasa belonged to a later and more sophisticated age and had all the resources of India's developed art and culture at his command, he aimed at a great variety of themes and metrical forms and figures of speech and thus sought and achieved distinction in a field where supremacy was still attainable despite the unparalleled eminence of Valmiki. His language has a more conscious grace, a more elaborate ornamentation, and a greater economy of words if it has less directness and freshness and flow. He has rendered and interested in his work the complexity and variety of his great and
-
-
 
 cultured epoch and hence he has given to us a wider variety of themes and aspects than the elder poet has done, though none of the creations of Kalidasa can come anywhere near the supreme characters delineated in the poem of Valmiki.” (Volume II, pages 320, 321.)
 
@@ -9824,8 +8977,6 @@ cultured epoch and hence he has given to us a wider variety of themes and aspect
 
   Tulasi Das's immortal Rama Charita Mānas is the Hindi version of Valmiki's Ramayana. It is the Bible of the Hindi \`speaking millions in India and has moulded the lives of millions of persons during countless generations. Tulasidas was
 
-
-
 Brahmin. His wife reprimanded him for his infatuation for her and told him about the glory and grace of Rama. At once a door was opened in his soul and Rama came into it and dominated it. He says that he began to write his poem “on Tuesday, the ninth day of the month Chait, in the town ofAvadh” i.e., on 30th March 1574 A.D. which was the date of Sincarnation of Rama. He lived to the ripe old age of 91 years and died in 1623 or 1624.
 
   *Ram Charita Manas* follows the main outline of the story as narrated by Valmiki. But in the Balakanda he introduce episodes of his own creation and in the Uttara Kanda he pursues a line of his own introducing the story of Kāka-bhusundi and a grand revelation and delineation of Rama Bhakti which, according to him, is superior to jnana as the efficasious means of God-realisation. The finest and most moving portion of the poem of Tulsidas is the Ayodhya Kanda as we find is the case in Valmiki's poem also.
@@ -9833,8 +8984,6 @@ Brahmin. His wife reprimanded him for his infatuation for her and told him about
   To Tulasi Das Rama is the Supreme, Eternal, Infinite Parabrahmam—the Absolute Nirguna Brahman which appears as the Saguna Brahman in the triple form of the Hindu Trimurti or Trinity consisting of Brahma and Vishnu and Siva. Rama is an incarnation of the Vishnu aspect of the Trinity. Sita is the Supreme Shakti, the Moola Prakriti, the Mahamaya, which appears as the Triple Goddesses, viz. Saraswati and Lakshmi and Uma. While Valmiki keeps Rama and Sita on the human level Tulsidas and Kambar keep them on a superhuman and divine level.
 
   The ethical teaching of the poem is of the highest order and is of a universal character. Tulsi Das stresses again and again Rama's purity, virtue, unselfishness, composure, and infinite grace as a model to the whole world. Faith must be combined with works. Religion can flourish in us only when there is a real change of heart. We must conquer *kam (kama*) and attain *prem* (*prema*) which will lead the soul unto the Oversoul, viz Sri Rama.
-
-
 
 **APPENDIX XVI.**
 
@@ -9851,8 +9000,6 @@ Brahmin. His wife reprimanded him for his infatuation for her and told him about
   3. “In fact, it is not merely in a confused, exaggerated and overgrown mythology that the difference between the Indian and Grecian epics lies. It is in the injudicious and excessive use of it. In the Ramayana and Mahabharata, the spiritual and the supernatural are everywhere so dominant that anything mere human seems altogether out of place.”
 
 (Monier William's *Indian* *Wisdom*, page 432)
-
-
 
   4. “Above all although priests are occasionally mentioned in the Iliad and the Odyssey, there is wholly wanting in the Homeric poems any recognition of a regular hierarchy, or the necessity for a mediatorial caste of sacrificers. This, which may be called the sacerdotal element of the Indian epics, is more or less woven into their very tissue. Brahminism has been at work in these productions almost as much as the imagination of the poet; and boldly claiming a monopoly of all knowledge, human and divine, has appropriated this, as it has every other department of literature, and warped it to its own purposes.”
 
@@ -9878,8 +9025,6 @@ Brahmin. His wife reprimanded him for his infatuation for her and told him about
 
 (Sir Monier William's *Indian Wisdom,* page 424).
 
-
-
   10. “No one too can read either the Ramayana or Mahabharata without feeling that they rise above the Homeric poems in this . . .A deep religious meaning appears to underlie all the narrative, and the wildest allegory may be intended to conceal a sublime moral, symbolizing the conflict between good and evil, teaching the hopelessness of victory in so terrible a contest without purity of soul, self-abnegation and the subjugation of the passions. In reality it is the religious element of the Indian epics that constitutes one of the principal features of contrast in comparing them with the Homeric.”
 
 (Sir Monier William's *Indian Wisdom*, page 427).
@@ -9895,8 +9040,6 @@ Brahmin. His wife reprimanded him for his infatuation for her and told him about
   13. “The Fifth Book is the richest in such descriptions (ie. of objects), which might have received, therefore, its name the Sundara Kānda.”
 
 (H. Jacobi's *Das Ramayana*).
-
-
 
   14. “The poesy of Ramayana had already deviated far from the naive popular epic poetry and we can perceive in it the breaking dawn of so dazzling a splendour of the rising court-poetry that we shall be permitted to give claim to the tradition in this sense that the Ramayana is the Adikavya.”
 
@@ -9926,8 +9069,6 @@ Brahmin. His wife reprimanded him for his infatuation for her and told him about
 
    18. “The Ramayana of Valmiki is undoubtedly one of the most fascinating and at the same time most elevating poems that have ever been written in any language. It is in passion and imagination that the-Ramayana towers over all other Sanskrit
 
-
-
 poems. If the Mahabharata teaches you the lessons of life, the Ramayana preaches the highest ideals of it. . . Valmiki is almost unsurpassed in the development of pathos and the description of the natural scenery. Valmiki alone describes nature with the vivacity and minuteness characteristic of English poetry. *Swabhavokti* is a figure of speech which Valmiki alone uses with perfection. He is also equally powerful in conceiving and describing sublime scenes.”
 
 (C. V. Vaidya's *Riddle of the Ramayana*).
@@ -9945,8 +9086,6 @@ poems. If the Mahabharata teaches you the lessons of life, the Ramayana preaches
 (Masti Venkatesa Iyengar's *The Poetry of Valmiki*, pages 174, 175).
 
   22. “Viswamitra's description of night, Anasuya's of evening and Rama's of early morning attain a simplicity that can hardly be excelled; yet wise selection and skilful combination of detail make the all-too-matter-of-fact statements, into, full and
-
-
 
 perfect pictures. The description of rivers and places is somewhat longer but has its own economy of detail and little of it is repetition or superfluity.”
 
@@ -9966,8 +9105,6 @@ perfect pictures. The description of rivers and places is somewhat longer but ha
 
   26. “Valmiki's manner of narration is in keeping with the other great qualities of his poetry . . . The art of narration in this case follows the art of sculpture in Hoysala temples. The poet's object is not to tell the reader quickly what occurred. Ii is not enough for him to show Rama as great and use the narrative for doing this. This would be like making a beautiful image and placing it in some kind of building. The hero is undoubtedly great but the poet desires to place him in a structure which is
 
-
-
 also great. The temple has to be made worthy of the image and its walls are sculptured with a thousand figures, each beautiful and almost as worthy of being looked at as the central image. On every square inch of the structure we see the same workmanship which created the beauty of the temple's deity.”
 
 (Masti Venkatesa Iyengar's *The Poetry of Valmiki,* pages 185, 188, 189).
@@ -9981,8 +9118,6 @@ also great. The temple has to be made worthy of the image and its walls are scul
 (Masti Venkatesa Iyengar's *The Poetry of Valmiki*, page 193)
 
   29. “Valmiki's store of words is like the ocean's store of water. It knows no limit . . . The poet has an abundant vocabutary at his disposal... Merely to examine the beauty of
-
-
 
 Valmiki's style a thesis would be necessary. So ingenuous and clear is the expression, so natural and unsophisticated is its beauty, so winsome and gracious is the manner.”
 
@@ -10006,8 +9141,6 @@ Valmiki's style a thesis would be necessary. So ingenuous and clear is the expre
 
   34. “This conception of purity indicates the height of human civilisation envisaged by Valmiki. Civilization means largely the wakefulness of a people, its progress in life. Signs of
 
-
-
 a people's civilisation will, therefore, appear in every part of its life. But the great symbol of all wakefulness and progress in a people is the city . . The Ramayana gives elaborate pictures of a beautiful civic life.”
 
 (Masti Venkatesa Iyengar's *The Poetry of Valmiki*, page 215).
@@ -10026,8 +9159,6 @@ a people's civilisation will, therefore, appear in every part of its life. But t
 
   38. “Its (that of the culture of Ayodhya) distinct character by in its insistence or righteousness as against the pursuit of mere pleasure ... The other two civilizations (of Kishkindha
 
-
-
 and of Lanka) did not attach the same importance to righteousness in life. One of them would take pleasure by whatever way it came. The other would get it even by injuring others.”
 
 (Masti Venkatesa Iyengar's *The Poetry of Valmiki,* page 238).
@@ -10044,8 +9175,6 @@ and of Lanka) did not attach the same importance to righteousness in life. One o
 
 (Masti Venkatesa Iyengar's *The Postry of Valmiki* pages 261, 262).
 
-
-
   48. “Two complexes in man's nature are the cause of all the sorrows in life. The first of these is the desire of property.......He who conquers desire for property conquers the hearts of his fellowmen…..The second complex that leads man to trouble is sex desire . . . He (Valmiki) stood up and called out to mankind, both of his time and the time to come, to beware of these monsters in human nature . . . The race can make no progress in the education of the spirit till this simple lesson is fully mastered . . . Emancipation and uplift of soul are what Valmiki desired for mankind . . . We need the voice of Valmiki as the conscience of mankind.”
 
 (Masti Venkatesa Iyengar's *The Poetry of Valmiki*, pages 262 to 268).
@@ -10059,8 +9188,6 @@ and of Lanka) did not attach the same importance to righteousness in life. One o
 (Masti Venkatesa Iyengar's *The Poetry of Valmiki**,*** page 260).
 
   45. “Flying from life as a source of trouble, rejecting the pleasant along with the unpleasant, was not the ideal which Valmiki accepted. Treat both with calmness, he said. As there is a greatness in renunciation there is a greatness in acceptance. In either case greatness comes from outlook. Renunciation as well
-
-
 
 as acceptance may proceed from selfishness. Acceptance as well as renunciation may proceed from selfless desire to serve others ... Valmiki's teaching became the basis for the school of thought that, later, took perfect shape in the *Bhagawad* *Gita”*.
 
@@ -10078,8 +9205,6 @@ as acceptance may proceed from selfishness. Acceptance as well as renunciation m
 
 (Masti Venkatesa Iyengar's *The* *Poetry* *of* *Valmiki*, pages 277, 278).
 
-
-
   49. Mr C. Narayana Menon says in *An Approach Tothe Ramayana*. “The *Ramayana* represents a synthesis of the cults and cultures prevalent in different parts of India. It is the first poem of Akhand Hindustan.”
 
   50. “It (the Valmiki's poem) is the sovereign utterance of the Indian mind at a supreme moment in the dim past of its cultural evolution. Ages of moral and spiritual stirring, struggles and aspirations, the will to the transfigured life of countless souls who have passed into silence have been woven into its texture. Not only does it incarnate the past, but it lights a lamp which will bathe ages to come in its resplendent radiance. It may, in very truth be said that no poem, ancient or moderm, has sunk so deep into the hearts and lives of so many successive generations of men and women as the Ramayana. To the Hindus it is much more than a great epic poem. It is their daily and most popular scripture, the unfailing means whereby forlorn and helpless man ferries over the dark waters of existence. For thirty centuries and more, it has been the heart's heart, the never-failing conscience of the Indian people. Like the Vedas and the Upanishads it presaged and inaugurated a new epoch, in which the great Vedic and Upanishadic ideals, lost on the mountain tops and open only to intellectual Alpine explorers, were to descend into the valley and irrigate the general body of humanity. It has. presented to the Hindu mind those ideals of conduct and character which have ever since been the watchword of the Indian striving.”
@@ -10091,8 +9216,6 @@ as acceptance may proceed from selfishness. Acceptance as well as renunciation m
 (T. Sundarachariar's *Studies in the Ramayana*).
 
   52. “In Hindu tradition, the deepest significance of the Ramayana consists in the fact that it is a synthesis of all the Sastras. It is another Veda and a revelation of ultimate truths. In
-
-
 
 this view the supreme post reaches a summit where he becomes one with the philosopher and mystic, devotee and prophet, reformer and even man of action. Viewing and depicting life and reality from so exalted a plane, he becomes no mere weaver of dainty word-fabrics or fairy thought-patterns which glitter or glisten for their brief delightful hour, but a prime director of human evolution and the builder of eternal norms. And by common consent in India, Valmiki stands as the head and crown of such transcendental poets.”
 
@@ -10120,8 +9243,6 @@ this view the supreme post reaches a summit where he becomes one with the philos
 
 T. Sundarachariar's *Studies* *in* *the* *Ramayana*)
 
-
-
   58. “Like the greatest things in Hindu thought and literature the Ramayana came also to society from the forest.”
 
 (T. Sundarachariar's * Studies in the Ramayana.*)
@@ -10146,8 +9267,6 @@ Raghavachari's *Ramayana* ***Sārāvalījās***)
 
   63. “The greatness of the Ramayana lies in the high order of ethics propounded as a guide to the life of every manxxxxxxxxxBut xxxxxxxxxxxxxxxxxxxxxxxxthat Ramavana is a Moksha
 
-
-
 sastram or, as some would call it, a Saranagati sastram. In thisview one can read the entire Ramayana in himself, i.e in every individual.”
 
 (C. Duraiswami Iyengar's *Lessons in Ramayana*).
@@ -10164,8 +9283,6 @@ Miss P. C. Dharma's *The Ramayana Polity)*.
   “In these two masterpieces, we are brought closer to the atmosphere, ideals and customs of ancient Hindu life than by a hundred volumes of commentaries on the Upanishads, and through them Hindu ideals as well as Hindu man and woman become real to us. And the fact that Hindu imagination has produced such masterpieces of literature, closely rivalling Homer in antiquity and in beauty and power of pourtraying human passions, is a definite pledge of the worth and richness of the Hindu civilisation.”
 
 Linyutang in *The Wisdom of China and India.*
-
-
 
   “Eventually I am convinced that India must win her freedom, not by fighting because they will not resort to violence and not by politics for the English are superb at politics, but by the Englishman falling in love with Sita.”
 
@@ -10185,15 +9302,11 @@ Linyutang in *The Wisdom of China and India.*
 
   There is a Chinese version of the Ramayana story dating from about 472 A. D. It resembles the Dasaratha Jataka tale, wherein Rama and Sita are brother and sister and later husband and wife and in which there is no mention of Ravana or Lanka. There is another and earlier Chinese version (3rd century A.D.) in which there is a Buddhist jataka tale where we find exile
 
-
-
 of Rama and Sita, Ravana's abduction of Sita, Jatayu's battle with Ravana, the battle of Vali and Sugriva, the bridge to Lanka, and Sita's Agnipravesa (entry into fire). In it Rama voluntarily gives up the throne being unwilling to cause damage by fighting his uncle. When Rama returns he finds that his uncle had died. Vali is described as Sugriva's uncle. Further, Vali is not killed by Rama but flees away in fear of Rama. The Uttara Kanda story is absent in this version. There is a Tibetan version of the Ramayana in Chinese Tukkeştan. In it Ravana carries off Sita along with the plot of ground on which she stood. It belongs to 700 to 900 A. D. Probably this version crossed over to Tibet from Nepal.
 
   The entire Ramayana including the Uttarakanda was known in the ancient Indian state of Champa (viz. Modern Cochin China and Annam) in the 7th century A. D. There was a temple with Valmiki's image in Champa. It was founded by a Champa King named Prakāsa dharma (658-679 A. D.) as is clear from a recently discoverd Sanskrit inscription. The words in his inscription and the verses in cantos I to V of Balakanda have similarities and hence those cantos are very old. There is another version of the story in Annam. The Rama story is popular to this day in Cambodia, Laos, Siam and other parts of IndoChina and has inspired indigenous literature and art there. Professor K. A. Nitakanta Sastri refers to a Comboja inscription (600 A.D.) which says that Srisomasarman presented to a temple the Ramayana and the Bhārata and made arrangements for their recitation. Ten paintings in the Museekhmer at Phnon-pen relate to the Ramayana story in the Bāla and Uttara Kandas. At Ben Mula we find sculptures about the fight of Rama and Ravana etc. At Anghor-vat we find has reliefs depicting the entire Ramayana.
 
   The Indonesian versions of the Rama legend are many and remarkable. Dr. Stutterheim wrongly thinks that they were not based on the epic of Valmiki but were based on more primitive traditional versions of the legend. The bas reliefs of Prambanan belong to the 9th century. The representations in Panatran (East
-
-
 
 Java) belong to the 14th century. The former are Indian in character, and the latter are Jāvanese in style. But both are very much later than the poem of Valmiki and its artistle representations in India. The Hindu mythologry of the Ramayana and the Mahabharata survive in Bali even today.
 
@@ -10225,8 +9338,6 @@ POEMS OF NATURE.
   ह्लादयन् प्राणिनां लोके मनांसि प्रभया विभो॥**
 
 **(I, XXXIV, 15 to 17).**
-
-
 
 **2. तत्र त्रिपथगां दिव्यां शिवतोयामशैवलाम्।  
   ददर्श राघवो गंगां पुण्यामृषिनिषेविताम्॥**
@@ -10269,8 +9380,6 @@ POEMS OF NATURE.
 **  शिशुमारैश्चनक्रैश्च भुजंगैश्च निषेविताम्।  
   विष्णुपादच्युतां दिव्यामपापां पापनाशिनीम्॥**
 
-
-
 **  तां शंकरजटाजूटात् भ्रष्टां सागरतेजसा।  
   समुद्रमहिषीं गंगां सारसक्रौंचनादिताम्॥ (II, L, 12 to 25).**
 
@@ -10311,8 +9420,6 @@ POEMS OF NATURE.
 
 **  गुहा समीरणो गन्धान्नाना पुष्पभवान्वहन्।  
   घ्राणतर्पणमभ्येत्य कं नरं न प्रहर्षयेत्॥**
-
-
 
 **  यदीह शरदोऽनेकास्त्वया सार्धमनिन्दिते।  
   लक्ष्मणेन च वत्स्यामि न मां शोकः प्रधक्ष्यति॥**
@@ -10359,8 +9466,6 @@ POEMS OF NATURE.
 
 **(III, XVI, 10, 13, 17, 18).**
 
-
-
 **10. एममुक्ता नरेन्द्रेण ते मृगाः सहसोत्थिताः।  
    दक्षिणाभिमुखाः सर्वे दर्शयन्तो नभःस्थलम्॥ ( III, LXIV, 17).**
 
@@ -10401,8 +9506,6 @@ POEMS OF NATURE.
 
 **   मन्दमारुतनिःश्वासं सन्ध्याचन्दनरंजितम्।  
    आपांडुजलदं भाति कामातुरमिवांबरम्॥**
-
-
 
 **  मेघोदरविनिर्मुक्ताः कह्लारसुखशीतलाः।  
   शक्यमंजलिभिः पातुं वाताः केतकगंधिनः॥**
@@ -10446,8 +9549,6 @@ POEMS OF NATURE.
 
 **19. बिताने जीवलोकस्य विमले ब्रह्मनिर्मिते॥ ( V, I, 82 ).**
 
-
-
 **20. लोकस्य पापानि विनाशयन्तं  
    महोदधिं चापि समेधयन्तम्।  
    भूतानि सर्वाणि विराजयन्तं  
@@ -10486,8 +9587,6 @@ POEMS OF NATURE.
 
 **25. पुष्पवर्षाणि मुंचन्तो नगाः पवनताडिताः।  
    शैलं तं वासयन्तीव मधुमाधवगंधिनः॥**
-
-
 
 **  गेयात् पुष्पसमृद्ध्या च शैत्याद्वायोर्गिरेर्गुणात्।  
   प्रवृत्तायां रजन्यां च चन्द्रस्योदयनेन च॥**
@@ -10531,8 +9630,6 @@ POEMS OF NATURE.
 
 **4. शुद्धात्मन् प्रेमभावाद्धि भविष्यामि विकल्मषा।  
   भर्तारमनुगच्छन्तीभर्ताहि ममदेवतम्॥**
-
-
 
 **  प्रेत्यभावेपि कल्याणः संगमो मे सह त्वया।  
   अद्भिर्दत्ता स्वधर्मेण प्रेत्यभावेऽपि तस्य सा॥**
@@ -10579,8 +9676,6 @@ POEMS OF NATURE.
 **  स्निग्धपल्लवसंकाशा पीतकौशेषवासिनी।  
   शंसस्व यदि वा दृष्ट्वा बिल्व बिल्वोपमस्तनी॥**
 
-
-
 **  अशोक शोकापनुद शोकोपहतचेतसम्।  
   त्वान्नामानं कुरु क्षिप्रं प्रियासंदर्शनेन भाम्॥ (III, LX, 11 to 17).**
 
@@ -10615,8 +9710,6 @@ POEMS OF NATURE.
   संसक्तां घूमजालेन शिखामिव विभावसोः॥  
   तां स्मृतीय संदिग्धां ऋद्धिं निपतितामिव।  
   विहतामिवचश्रद्धामाशां प्रतिहतामिव॥**
-
-
 
 **  सोपसर्गां यथा सिद्धिं बुद्धिं सकलुषामिव।  
   अभूतेनापवादेन कीर्तिं निपतितामिव॥**
@@ -10657,8 +9750,6 @@ POEMS OF NATURE.
    विचिन्त्य वाचा ब्रुवती तमेव।  
    तस्मानुरूपां चवुधांतदर्था  
    मेयंप्रपश्यामि तथा शृणोमि॥ ( V XXXII, 12).**
-
-
 
 **20. यद्यस्ति पतिशुश्रूषा यद्यस्ति चरितं तपः।  
   यदि वास्त्येकपत्नीत्वं शीतोभव हनूमतः॥**
@@ -10701,8 +9792,6 @@ POEMS OF NATURE.
 
 **  मनसा कर्मणा वाचा भूतपूर्वं न किल्बिषम्।  
   तस्याःफलमुपाश्नीयामपापा मैथिली यदि ॥**
-
-
 
 **26. सर्वान् समागतान् दृष्ट्वा सीता काषायवासिनी।  
   अब्रवीत्पांजलिर्वाक्यमधोदृष्टिरवाङ्मुखीं।**
@@ -10748,8 +9837,6 @@ POEMS OF NATURE.
 **  एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हिमे।  
   महर्षे त्वांसमर्थोऽसिस्थातुमेवंविधंनरम्॥(11, 1 to 5)**
 
-
-
 **2. इक्ष्वाकुवंशप्रभवः रामो नाम जनैः श्रुतः।  
   नियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी॥**
 
@@ -10790,8 +9877,6 @@ POEMS OF NATURE.
 
 **  स च नित्यं प्रशान्तात्मामृदुपूर्वं च भाषते।  
  उच्यमानोऽपि परुषं नोत्तरं प्रतिपद्यते।**
-
-
 
 **कथंचिदुपकारेण कृतेनैकेन तुष्यति।  
 नस्मरत्यपकाराणां शतमप्यात्मवत्तया॥**
@@ -10835,8 +9920,6 @@ POEMS OF NATURE.
 **दृढभक्तिः स्थिरप्रज्ञो नासाद्ग्राही न दुर्बचाः।  
 निस्तन्द्रिरप्रमत्तश्च स्वदोषपरदोषवित्॥**
 
-
-
 **  शास्त्रज्ञश्च कृतज्ञश्च पुरुषान्तरकोविदः।  
   यः प्रग्रहानुग्रहयो र्यथान्यायं विचक्षणः॥**
 
@@ -10876,8 +9959,6 @@ POEMS OF NATURE.
 
 **  धर्मज्ञ सत्यसन्धश्च वीर्यवाननसूयकः।  
   क्षान्तः सान्त्वयिताश्लक्ष्णःकृतज्ञो विजितेन्द्रियः॥**
-
-
 
 **मृदुश्च स्थिरचित्तश्च सदाभव्योऽनसूयकः।**
 
@@ -10921,8 +10002,6 @@ POEMS OF NATURE.
 **प्रजापालनतत्त्वज्ञो न रागोपहतेन्द्रियः।  
 शक्तस्त्रैलोक्यमप्येको भोक्तुं किं नु महीमिमाम्॥**
 
-
-
 **  नास्यक्रोधःप्रसादश्च निरर्थोस्ति कदाचन।  
   हन्त्येवनियमाद्वध्यानवध्ये न च कुप्यति॥**
 
@@ -10961,8 +10040,6 @@ POEMS OF NATURE.
 
 **10. जयत्यतिबलो रामः लक्ष्मणश्च महाबलः।  
   राजा जयति सुग्रीवो राघवेणाभिपालितः॥..**
-
-
 
 **  दासोऽहं कोसलेन्द्रस्य रामस्याक्लिष्टकर्मणः।  
   हनुमान् शत्रुसैन्यानां निहन्ता मारुतात्मजः॥**
@@ -11004,8 +10081,6 @@ POEMS OF NATURE.
    पौरुषे चाप्रतिद्वन्द्वः शरैणं जहि रा वणिम्॥ (VI, CXI, 72)**
 
 **18. एतदस्तबलं दिव्यं मम वा त्र्यंबकस्यवा॥ (VI, CXIV, 38).**
-
-
 
 **19. अरावणमरामं वा जगद्द्रक्ष्यथ वानराः।  
    अद्यरामस्य रामत्वं पश्यन्तु मम संयुगे॥**
@@ -11049,8 +10124,6 @@ POEMS OF NATURE.
 **   मत्कवाः प्रचरिष्यन्ति यावल्लोके हरीश्वर !  
   तावद्रमत्वसुप्रीतो मद्वाक्यमनुपालयन्॥ (VII, CVIII, 33; 34).**
 
-
-
 **28. पितामहवचः श्रुत्वा विनिश्चित्य महामतिः।  
    विवेश वैष्णवं तेजः स शरीरः सहानुजः॥ (VIL, CX, 12).**
 
@@ -11092,8 +10165,6 @@ POEMS OF NATURE.
 **  तौ चापि मधुरं रक्तं स्वंचितायतनिःस्वनम्।  
   तन्त्रीलयवदत्यर्थं विश्रुतार्थणगायताम्॥**
 
-
-
 **ह्लादयत्सर्वगात्राणि मनांसि हृदयानिच।  
 श्रोत्राश्रयसुखं गेयं तद्बभौ जनसंसदि॥**
 
@@ -11133,8 +10204,6 @@ POEMS OF NATURE.
 
 **  सिंहस्कन्धं महाबाहुं पुण्डरीकनिभेक्षणम्।  
   पृथिव्यास्सागरान्तायाः भर्तारं धर्मचारिणम्॥**
-
-
 
 **  उपविष्टं महावाहुं ब्रह्माणमिवशाश्वतम्।  
   स्थण्डिले दर्भसंस्तीर्णे सीतया लक्ष्मणेन च॥**
@@ -11177,8 +10246,6 @@ POEMS OF NATURE.
 **9. अजातव्यंजनः श्रीमान् पद्मपत्रनिभेक्षणः।  
   एकवस्त्रधरो धन्वीशिखी कनकमालया॥**
 
-
-
 **   शोभयन् दण्डकारण्यं दीप्तेन स्वेन तेजसा।  
    अदृश्यत ततो रामो बालचन्द्र इवोदितः॥ (III, XXXVIII, 16).**
 
@@ -11217,8 +10284,6 @@ POEMS OF NATURE.
 
 **   नूनं व्याकरणं कृत्स्नमनेन बहुधा श्रुतम्।  
    बहुव्याहरतानेन न किंचिदपशब्दितम्॥**
-
-
 
 **   अविस्तरमसंदिग्धमविलंवितमद्रुतन्।  
    उरःस्थं कंटगं वाक्यं वर्तते मध्यमे स्वरे॥**
@@ -11259,8 +10324,6 @@ POEMS OF NATURE.
    क्षतप्ररूढामिव वाणरेखां  
    आयुमभिन्नामिव मेघरेखाम्॥ (V, V,26).**
 
-
-
 **18. लतागृहाणि चित्राणि चित्रशालागृहाणि च।  
    क्रीङागृहाणि चान्यानि दारुपर्वतकानि च॥**
 
@@ -11298,8 +10361,6 @@ POEMS OF NATURE.
 
 **24. मंडलानि विचित्राणि स्थानानि विविधानि च।  
    गोमूत्रिकाणि चित्राणि गतप्रत्यागतानि च॥**
-
-
 
 **  तिरश्चीनगतान्येव तथा वक्रगतानि च।  
   परिमोक्षं प्रहारिणां वर्जनं परिधावनम्॥**
@@ -11344,8 +10405,6 @@ POEMS OF NATURE.
 **  ना षडंगविदत्रासीन्नाव्रतो नासहस्रदः।  
   न दीनः क्षिप्तचित्तो वा व्यथितो वापि कश्चन॥**
 
-
-
 **  कश्चिन्नरो वा नारीवानाश्रीमान्नाप्यरूपवान्।  
   द्रष्टुं शक्यमयोध्यायां नापि राजन्यभक्तिमान्॥**
 
@@ -11385,8 +10444,6 @@ POEMS OF NATURE.
 
 **  ते सदा ज्ञानसंपन्नाः सर्वे समुदिता गुणैः।  
   हीमन्तः कीर्तिमान्तश्च सर्वज्ञाः दीर्घदर्शिनः॥**
-
-
 
 **  ते चापि मनुजव्याघ्रा वैदिकाध्ययने रताः।  
   पितृशुश्रूषणरता धनुर्वेदे च निष्टिताः॥ (I, XVIII, 25, 35, 37).**
@@ -11428,8 +10485,6 @@ POEMS OF NATURE.
 **  नाराजके जनपदे वणिजो दूरगामिनः।  
   गच्छन्ति क्षेममध्वानं बहुपण्यसमाचिताः॥**
 
-
-
 **  नाराजके जनपदे योगक्षेमं प्रवर्तते।  
   न चाप्यराजके सेना शत्रून्विषहते युधि॥**
 
@@ -11470,8 +10525,6 @@ POEMS OF NATURE.
 **  कच्चित्ते दयितास्सर्वे कृषिगोरक्षजीविनः।  
   वार्तायां संश्रितास्तातलोको हि सुखमेधते॥**
 
-
-
 **   आयस्ते विपुलः कश्चित्कच्चिदल्पतरोव्ययः।  
    अपात्रेषु न ते कच्चित्कोशो गच्छति राघव॥**
 
@@ -11508,8 +10561,6 @@ POEMS OF NATURE.
 
 **12. अनागतविधानं तु कर्तव्यं शुभमिच्छता।  
    आपदं शंकमानेन पुरुषेण विपश्चिता॥ (III, XXIV, 11).**
-
-
 
 **13. न चिरं पापकर्माणः क्रूरा लोकजुगुप्सिताः।  
    ऐश्वर्यं प्राप्य तिष्टन्ति शीर्णमूला इव द्रुमाः॥**
@@ -11551,8 +10602,6 @@ POEMS OF NATURE.
 
 **(प्रक्षिप्तसर्गः, Afl, LII).**
 
-
-
 **1. एतस्मिन्नन्तरे विष्णुरुपयातो महाद्युतिः।  
   शंखचक्रगदापाणिः पीतवासा जगत्पतिः॥**
 
@@ -11590,8 +10639,6 @@ POEMS OF NATURE.
 
 **  अत्येति रजनी या तु सा न प्रतिनिवर्तते।  
   यात्येव यमुना पूर्णा समुद्रमुदकाकुलम्॥**
-
-
 
 **  अहोरात्राणि गच्छन्ति सर्वेषां प्राणिनामिह।  
   आयूंषि क्षपयन्त्याशु ग्रीष्मे जलमिवांशवः॥**
@@ -11634,8 +10681,6 @@ POEMS OF NATURE.
 **6. अद्यप्राप्ता तपःसिद्धिस्तव सन्दर्शनान्मया।  
   अद्यमे सफलं तप्तं गुरवश्च सुपूजिताः॥**
 
-
-
 **  अद्यमे स फलं जन्म स्वर्गश्चैव भविष्यति।  
   त्वयि देववरे राम पूजिते पुरुषर्षभ॥  
   चक्षुषा तव सौम्येन पूतास्मि रघुनन्दन।  
@@ -11677,8 +10722,6 @@ POEMS OF NATURE.
 
 **                           (V, XIII, 60, 65 to.67).**
 
-
-
 **10. जगत्सृष्ट्यन्तकतरिभजमव्यक्तरूपिणम्।  
    आधारं सर्वलोकानामाराध्यं परमं गुरुम्॥**
 
@@ -11718,8 +10761,6 @@ POEMS OF NATURE.
 
 **10.नाहमर्थपरो देवि लोकमा वस्तुमुत्सहे।  
    सिद्धिनांऋषिभिस्तुल्यं केवलं धर्ममास्थितम्॥ (II, XIX, 20).**
-
-
 
 **11. न वनं गन्तुकामस्य त्यजतश्च वसुन्धराम्।  
    सर्वलोकातिगस्यैव लक्ष्यते चित्तविक्रिया॥ ( II, XIX, 33).**
@@ -11763,8 +10804,6 @@ POEMS OF NATURE.
 **                   (III, V, 33; III, VII, 14).**
 
 **22. अमार्गेणागतां लक्ष्मीं प्राप्येवान्ययवर्जितः॥ (III, VIII, 8 ).**
-
-
 
 **22. अप्यहं जीवितं जह्या त्वां सा सीते सलक्ष्मणाम्।  
    न तु प्रतिज्ञां संश्रुत्य ब्राह्मणेभ्यो विशेषतः॥ (III, X, 19).**
@@ -11810,8 +10849,6 @@ POEMS OF NATURE.
    सुग्रीवरामप्रणयप्रसंगे  
    वामानि नेत्राणि समं स्पुरन्ति॥ ( IV, V, 33 ).**
 
-
-
 **32. आढ्यो वापि दरिद्रो वा दुःखितः सुखितोपि वा।  
    निर्दोषो वा स दोषा वा वयस्यः परमा गतिः॥ ( IV, VIII, 8 ).**
 
@@ -11851,8 +10888,6 @@ POEMS OF NATURE.
 **43. असन्देशात्तु रामस्य तपसश्चानुपालनात्।  
    न त्वां कुर्मि दशग्रीव भस्मभस्मार्हतेजसा॥ ( V XXII, 26).**  
 ,
-
-
 
 **44. रक्षिता स्वस्य वृत्तस्य स्वजनस्य च रक्षिता।  
    रक्षिता जीवलोकस्य धर्मस्य च परन्तपः॥ (V, XXX1, 7).**
@@ -11894,8 +10929,6 @@ POEMS OF NATURE.
 **56. नहिधर्मविरुद्धेषु वह्वपायेषु कर्मसु।  
    मूलघातेषु सज्जन्ते बुद्धिमन्तो भवद्विधाः॥(V, II, 18).**
 
-
-
 **57. मंगलाभिमुखी तस्य सा तदासीन्महाकपेः।  
    उपतस्थे विशलाक्षी प्रयता हव्यवाहनम्॥ (V, LIII, 27 ).**
 
@@ -11933,8 +10966,6 @@ POEMS OF NATURE.
 
 **70. देशे देशे कलत्राणि देशे देशे च बान्धवाः।  
    तं तु देशंलन पश्यामि यत्र भ्राता सहोदरः॥** **(VI, CII, 13 ).**
-
-
 
 **71. इन्द्रियाणि पुरा जित्वा जितं त्रिभुवनं त्वया।  
    स्मरद्भिरिवतद्वैरमिन्द्रियैरेवनिर्जितः॥ (VI, CXIV, 18).**
@@ -11984,8 +11015,6 @@ POEMS OF NATURE.
 
 **(VII, CXI, 25).**
 
-
-
 **APPENDIX XX.**
 
 **Sitarama Stotra by Hanuman.**
@@ -12025,8 +11054,6 @@ POEMS OF NATURE.
 कृतं हनुमता पुण्यं स्तोत्रं सद्यो विमुक्तिदम्।  
 यः पठेत्प्रातरुत्याय सर्वान्कामानवाप्नुयात्॥**
 
-
-
 **APPENDIX XXI.**
 
 **Homage To Valmiki.**
@@ -12036,17 +11063,7 @@ POEMS OF NATURE.
 
 **(Kalidasa's Raghuvamsa).**
 
-
-
-
-
-
-
-
-
 **Thompson & Co. Ltd., Madras — 11-1-48-500 copies.**
-
-
 
 **ERRATA**
 
@@ -12086,8 +11103,6 @@ POEMS OF NATURE.
 |     the,      |      the      |
 |   abhishaka   |   abhisheka   |
 
-
-
 |                |                |
 |:--------------:|:--------------:|
 |    **FOR**     |    **READ**    |
@@ -12123,8 +11138,6 @@ POEMS OF NATURE.
 |   ब्रह्येशा    |  ब्रह्मेशाना   |
 |      sag-      |      sage      |
 
-
-
 **INDEX**
 
 |                                 |                                       |
@@ -12148,8 +11161,6 @@ POEMS OF NATURE.
 | Chiranjeevi —Part II            | Homer, Virgil, Valmiki                |
 | Crow episode—Part II            |                                      |
 
-
-
 |                                    |                                       |
 |------------------------------------|---------------------------------------|
 | Incarnation                        | Mahadeva— Part II                     |
@@ -12170,8 +11181,6 @@ POEMS OF NATURE.
 | Lakshmana's Ascension—Part II      | Parasurama —Part II                   |
 | Lakshmana's Fast and Vigil—Part II | Payasam episode—Part II               |
 | Later Ramayanas—Appendix XII       | Perfect Man—Part II                   |
-
-
 
 |                                       |                                     |
 |---------------------------------------|-------------------------------------|
@@ -12194,8 +11203,6 @@ POEMS OF NATURE.
 | Rama's Stepping Back—Part II          | Sabari                              |
 | Ramayana as Allegory                  | Sambooka—Part II                    |
 
-
-
 |                                         |                               |
 |-----------------------------------------|-------------------------------|
 | Sampathi                                | Sumantra—Part II              |
@@ -12216,8 +11223,6 @@ POEMS OF NATURE.
 | Special Verses in Ramayana—Appendix III | Vali and Sugreeva—Part II     |
 | Sugriva                                 | Vali Vadha—Part II            |
 | Sumantra                                | VaImiki                       |
-
-
 
 |                                         |                                  |
 |-----------------------------------------|----------------------------------|
@@ -12240,8 +11245,6 @@ POEMS OF NATURE.
 | Valmiki on Family Life                  | Valmiki on Ministers             |
 | Valmiki and Indian Civilisation         | Valmiki on Officials             |
 
-
-
 |                                     |                                    |
 |-------------------------------------|------------------------------------|
 | Valmiki and other world Epics       | Valmiki on *Tapas* Epics           |
@@ -12262,16 +11265,5 @@ POEMS OF NATURE.
 | Valmiki on Saranāgati Epics         | Winternitz Epics                   |
 | Valmiki on the Soul Epics           | Yoga Vasishta—Part II Epics        |
 | Valmiki's Style Epics               | Yugas—Part II Epics           |
-
-
-
-
-
-
-
-
-
-
-
 
 \]

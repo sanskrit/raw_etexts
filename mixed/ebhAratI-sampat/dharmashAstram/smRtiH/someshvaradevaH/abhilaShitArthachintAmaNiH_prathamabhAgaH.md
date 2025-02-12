@@ -16,10 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NTU2Mjg0OTY
 
 \[
 
-
-
-
-
 [TABLE]
 
 # **INTRODUCTION**
@@ -45,8 +41,6 @@ The correct reading may be as follows:—
 
 **विना दानेन यज्वानं नास्ति यज्ञसमो रिपुः।\।**
 
-
-
 Translated into English theverse means. "A Vedic sacrifice without provision for feeding will result in the destruction of the country; that without the recitation of the Vedic hymns will cause the death of the priest; that without gifts of money will be to the death of the sacrificer and of the head priest; (or thus there is no enemy equal to sacrifice)."
 
 Thus with a view to avoid the risk involved in the performance of sacrifices without money, the author of the Sachcharitraparitrana substitutes Vishnu wor- ship for fire worship and quotes a verse from Bhara- dvaja in support of it.
@@ -71,16 +65,10 @@ The cessation of the Vedic animal sacrifices partly owing to the spread of the V
 
 It may therefore be presumed that being substanti- ally of Dravidian origin, architecture and iconography treated of in the third Prakarana of the work received fresh impetus necessary for their growth and owing to the Sanskrit terminology with which they are described, they look like Brahmanic. Making some allowance for what evidently appears as having been borrowed from Brahmanic sources, the rest of the subjects treated of in the other Prakaranas may also be regarded as Dra- vidian. In the first Prakarana, for example, the treat- ment of diseases is briefly expounded and in this connection it may be asserted on the authority Apas- tamba (II 29, 11-12) that many of the curative process- es enumerated here together with witchcraft are of Sudra or Dravidian origin. The second Prakarana may be said to be more or less a copy of the Kautiliya Artha- sastra mixed with Dravidian augury. In the third chapter of the first Prakarana also omens ascertainable from birds are extensively described. Though this sub- ject is treated of in astrological terminology, there is no evidence to say that it is Brahmanic or Aryan in origin. The prognostication made at the doors of houses early in the morning by Sudra mendicants with a small rattle drum in their hands, ascribing the prediction to Pin- gala birds consulted before dawn cannot be believed to have been an Aryan custom handed down to the Dravi- dian mendicants called Budubudikeyava in Kannada, and Guduguduippaikakkaran in Tamil. It is more than likely that this crude superstition is recast in astrological garb in this work. The hand of the pandit author is made still clearer in the detailed description of the art of picture-drawing. It cannot be believed that the Dravidian Sudra artist had in his mind the rules laid down in this work for his guidance. This art seems to have been hereditary and handed down from generation to generation from remote past and pedantically sys- tematised here for nobody's good. Coming to the last two Prakaranas dealing with amusements and recrea- tions, there appears no peculiarly Aryan or Brahmanic element in them. Cock fight, music, dancing, snake charm, sea saw and other amusements appear to be rather Dravidian in origin than Aryan. For at the close of the Vedic Gavam Ayana sacrifice Dasis or Sudra women are invited to dance to the pleasure of the priestly audience, showing thereby that dancing was highly cultivated among the Dravidians. This is corroborated by the following Smriti verse quoted in the Taptamudranishedha Vichara, p. 22a (M.S. No. 3303):-
 
-
-
 **शङ्खचक्राद्यङ्कनं च नृत्तगीतादिकं तथा।  
 एकजातेरयं धर्मः न जातु स्याद्द्विजन्मनः॥**
 
-
-
 "Bearing the brand marks of a conch shell, disc and the like and dancing and singing are the duties of the Sudra caste, and not at all of the twice-born."
-
-
 
 The king's levy described in the third Prakarana is of special interest As the work belongs to a period subsequent to the Vedic and Epic epochs and anterior to the Mohamadan period, and as no Durbar of this form is noticed in the Arthasastra of Kautilya or in any other work, it may be taken to be of Dravidian type. The appearance of harem ladies without veil in the open durbar hall is a Dravidian custom quite oppo- site to the Aryan custom "Asuryampasya rajadarah "Kings' wives do not see the sun"; the word Asuryampasya' is referred to in Panini (III 2, 36). The following is a brief purport of the form of durbar- holding:-
 
@@ -239,13 +227,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
 
 [TABLE]
 
@@ -279,8 +261,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 | स्थानिनौ               | स्थानिनो              |
 | स्थनं                  | स्थानं                |
 
-
-
 |                   |                   |
 |-------------------|-------------------|
 | अधःपाठान्तरे-लामा | लोभा              |
@@ -308,8 +288,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 | भेदन              | भेदेन             |
 | विप्पली           | पिप्पली           |
 
-
-
 |                  |                 |
 |------------------|-----------------|
 | हिक्वायं         | हिक्कायां       |
@@ -336,8 +314,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 | मैत्रेमि त्र     | मैत्रे मित्र    |
 | सिंहा            | सिंह            |
 | र्काल            | कील             |
-
-
 
 |                      |                      |
 |----------------------|----------------------|
@@ -1156,8 +1132,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 चक्रे चन्द्रप्रतिमयशसा रञ्जनाय प्रजानां  
 पुण्यौघानामपि च महतां वृद्धये बुद्धये च॥३०१॥
 
-
-
 इति श्रीमहाराजाधिराज सत्याश्रयकुलतिलक चालु-  
 क्याभरण श्रीमद्भूलोकमल्ल श्री सोमेश्वरदेव  
 विरचिते अभिलषितार्थचिन्तामणी (राज)  
@@ -1169,8 +1143,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 [^81]: "कथने प्रथमोऽध्यायः"
 
 द्वितीयोऽध्यायः
-
-
 
 **![](../books_images/1683197826.png)**
 
@@ -3486,7 +3458,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 
 पैशुन्येनैवमाख्यानैर्हेतुभिः प्रत्ययात्मकैः।  
 भीतिरुत्पाद्यते यत्र स भेदः प्राणहा स्मृतः॥ ९८८॥  
-तद्द्विषा प्रेरितो राजा तव मानं [हनि](http://॑॑# "हांर")ष्यति।  
+तद्द्विषा प्रेरितो राजा तव मानं [हनि](॑# "हांर")ष्यति।  
 एवमुद्वेज्य यो भेदो मानभङ्गस्स वर्णितः॥९८९॥  
 धनिकोऽयं महान् देव तव किञ्चिन्न यच्छति।  
 केनाप्युपायेनैतस्माद्धनमाहर्तुमर्हसि॥ ९९०॥  
@@ -6446,7 +6418,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 निर्वत्यैवं नृपस्स्नानं परिधायाङ्गमार्जनम्॥ ९९६॥  
 सितं सुधौतवसनं घृतमार्द्रंपरित्यजेत्।  
 एवं भूलोक[^273]देवेन स्नानभोग उदाहृतः॥ ९९७॥  
-     
 
 [^273]: "भूलोकमल्ल"
 
@@ -6466,8 +6437,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 [^274]: "ललितक्रमः"
 
 [^275]: "शिञ्जाने"
-
-       
 
  ताम्बूलभोगः  
 
@@ -6523,7 +6492,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 इत्थं विविधयोगेन ताम्बूलं पृथिवीक्षिता॥१०२३॥  
 यत्त्वद्यते स ताम्बूलभोगश्चतुर इरितः।  
 ताम्बूलभोगः कथित श्श्रीसोमेश्वरभूभुजा॥  
-       
 
  विलेपनोपभोगः  
 
@@ -6597,7 +6565,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 ललाटे बाहुशिखरे कण्ठे वक्षस्यथोदरे।  
 नानागन्धसमोपेतं नानावर्णसमन्वितम्॥१०५२॥  
 विलेपनोपभोगोऽयं वर्णितस्सोमभूभुजा।  
-         
 
   वस्त्रभोगः  
 
@@ -6685,7 +6652,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 ऋतूनामनुसारेण शृङ्गारस्यानुसारतः।  
 एवं यो बिभृयाद्वस्त्रंवस्त्रभोगः प्रकीर्तितः॥१०८९॥  
 वस्त्रभोगोऽयमाख्यातस्सोमेश्वरमहीभुजा।  
-          
 
  माल्यभोगः  
 
@@ -6713,7 +6679,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 खोपकेषु च कुम्भ्यां च माल्यभोगः प्रकीर्तितः॥  
 भूलोकत्राणदक्षेण सोमेश्वरमहीभुजा।  
 कथितो माल्यभोगोऽयं भूषाभोगोऽधुनोच्यंते॥  
-        
 
  भूषाभोगः  
 
@@ -6911,7 +6876,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 धत्ते यद्भूषणं राजा भूषाभोगः प्रकीर्तितः।  
 
 भूषा भोगोऽयमाख्यातस्सोमेश्वरमहीभुजा॥११८६॥  
-     
 
    आसनभोगः  
 
@@ -6957,7 +6921,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 एतानि पीठान्यध्यास्ते राजा विभवभूषितः॥  
 एवमासनभोगोऽयमभिज्ञैः परिभाषितः।  
 एवमासनभोगोऽयं कथितस्सोमभूभुजा॥ १२०५॥  
-       
 
  चामरभोगः  
 
@@ -6982,7 +6945,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 शोभार्थंविभवार्थंच स्वेदापनयनाय च॥ १२१४॥  
 चामरैर्वीजनं यत्नात्स भोगश्चामराभिधः।  
 एवं चामरभोगोऽयं भाषितस्सोमभूभुजा॥ १२१५॥  
-        
 
 आस्थानभोगः  
 
@@ -7173,7 +7135,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 पुरन्दरनिभो राजा प्रविशेत्केलिकेतनम्॥१३००॥  
 करोत्यास्थानमित्यं यः पार्थिवः प्रथितोन्नतिः।  
 एवमास्थानभोगोऽयं[^298]कथितस्सोमभूभुजा॥  
-         
 
 [^298]: "आस्थानभोग इत्येष"
 
@@ -8724,355 +8685,5 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 चिन्तामणौरजमानसोल्लासशास्त्रे राज्योप-  
 भोगकथने तृतीयं प्रकरणम्।**
 
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^303]: "एक"
-
-
-[^180]: "नास्ति"
-
-
-[^172]: "मिश्र"
-
-
-[^109]: "कण्ठे"
-
-
-[^92]: "क्षणा"
-
-
-[^72]: "पिबेच्च मधु"
-
-
-[^31]: "नास्ति"
-
-
-[^26]: "धर्म"

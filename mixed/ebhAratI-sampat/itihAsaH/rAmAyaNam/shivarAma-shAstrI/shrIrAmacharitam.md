@@ -15,18 +15,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY4NjQwNjY5NjU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 #  **॥ श्रीः ॥**
 
 S R I R A M A C H A R I T A M
@@ -52,8 +40,6 @@ PRINTERS:
 **THE ORIENTAL PUBLISHING COMPANY, LIMITED.**
 
 ## **Registered Copy-right**.
-
-
 
 ॥ श्रीः॥
 
@@ -87,8 +73,6 @@ KOTTAIYUR. P.O
 RAMNAD DISTRICT  
 MADRAS STATE (S. INDIA)**
 
-
-
 **Preface.**
 
  I beg to bring to the notice of the reading public this humble attempt on my part to meet a long-felt want in the High schools of this Presidency. The absence of a graduated series of Readers in Sanskrit that would prepare the student for such standard works in prose as Vâsavadatta, Daśakumâracharita and Kâdambari is too conspicuous to need any comment of mine, nor has the necessity of bringing home to the minds of the rising generation of India, the basic truths of Hindu religion, morality and ethics that lie imbedded in the Itihasas, the Puranas and the Smritis, attracted the serious attention of either the Educational authorities, or the Pandits of this Presidency. The Râmâyana champu, the Bhârata champu and the Bhagavata champu are in no way more calculated to meet this end than the classical works mentioned above
@@ -100,8 +84,6 @@ MADRAS STATE (S. INDIA)**
  I feel no hesitation in saying that I crave not in vain the indulgence of a broad-minded reading public in placing before it the first fruits of my labours in the field of sanskrit literature.
 
 ***R. SIVA RAMA SASTRI.***
-
-
 
 **॥ श्रीः ॥**
 
@@ -210,7 +192,6 @@ MADRAS STATE (S. INDIA)**
 
  अथ परेद्युः कृतप्राभातिकक्रियः दशरथः प्रत्यासन्ने सुमुहूर्ते प्रशंसिते दैवज्ञगणैः, पुरस्कृत्य मुनीन्, परिवृतश्च विवाहोचितवेषैः पुत्रैः, ससचिवस्सानुगः समागच्छन् प्रतिहारं मैथिलस्य, सज्जमात्मानं न्यवेदयत् वसिष्ठमुखेन, समागतं दशरथं श्रुत्वा जनकः, वसिष्ठमुखेनैव विज्ञापयामासेत्थं कोसलपतिं ।
 
-
 **(अत्रेमौ रामायणश्लोकौ)**
 
 **कस्स्थितः प्रतिहारो मे कस्याज्ञा संप्रतीक्ष्यते ।  
@@ -247,25 +228,11 @@ MADRAS STATE (S. INDIA)**
 **राघववाल्यचरित्रं गदितं गद्यात्मना हृद्यम् ।  
 दयाद्विद्यावृद्धिं विबुधैरास्वाद्यमनवद्यम् ॥**
 
-
 **इति श्रीरामचरिते राघववाल्यचरित्रवर्णनंनाम  
 प्रथमः स्तबकः**
 
 **![](../../../../../books_images/U-IMG-1703174121Screenshot2023-07-21172948.png)**
 
-
-
-
-
 ओरियन्टल पब्लिषिङ् हौम्, मयूरपुर्ग, मद्रास्.
-
-
-
-
-
-
-
-
-
 
 \]

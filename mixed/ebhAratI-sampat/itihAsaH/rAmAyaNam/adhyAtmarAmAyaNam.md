@@ -17,11 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwNTY4OTk5Mjk
 
 \[
 
-
-
 [TABLE]
-
-
 
 ***Printed by***
 
@@ -30,8 +26,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwNTY4OTk5Mjk
 AT METROPOLITAN PRINTING & PUBLISHING HOUSE, LIMITED,
 
 56, Dharamtala Street, Calcutta
-
-
 
 सम्पादकविनिवेदनम्
 
@@ -43,8 +37,6 @@ AT METROPOLITAN PRINTING & PUBLISHING HOUSE, LIMITED,
 
  अस्य सम्पादनावसरे चास्माभिश्चतु.सख्यकाना हस्तलिखिताना त्रिसख्यकानाञ्च मुद्रिताना सङ्कलनेन सप्तसंख्यकानामादर्शाना पाठा आलोचिताः परिगृहीताश्च। तेषु च आदर्शेषु वङ्गवासीकार्यालयतो वङ्गाक्षरप्रकाशित पुस्तक (क), १९२८ सवते नूतनसस्कृत-
 
-
-
 यन्त्रतः श्रीयुतहरिमोहनविद्यारत्न-श्रीयुतकालीकिङ्करविद्यारत्नायानागराक्षरसम्पादितं पुस्तक (ख), कलिकातासस्कृतसाहित्यपरिपद्भवनतोऽविगत हस्तलिखित पुस्तक (ग), कत्याणनगरीस्थितात् लक्ष्मीवेङ्कटेश्वरयन्त्रात् १८४४ शके गङ्गाविष्णुश्रीकृष्णदासेन नागराक्षरमुद्रित पुस्तक (घ), कलिकातासस्कृतसाहित्यपरिषद्भवनतः प्राप्त सुन्दरकाण्डान्त पुस्तक (ड), कलिकातावाग्वाजारप्रवासिनः श्रीयुक्त आशुतोषस्मृतितीर्थमहोदयस्य गृहादनुग्रहाल्लब्ध १७२९५।१०।२२ शकातीताब्दे लिखित पुस्तक (च), तत एव लब्ध हस्तलिखित पुस्तक (छ) इत्यादिचिह्नेन चिह्नितम्। छ चिह्निते चाऽऽदर्शे समाप्तयवसरे 'शुभमस्तु शकातीताब्दाः १७।१७।४।१४।१२ श्रीमद्भाद्रपदे मासे दिने पञ्चदशे शुभे। तिथौ वामे शुक्लपक्षे गुरोर्वारे शुभेऽहनि।' एव लिखितमुपलब्धम्। इत्यन्ता तावद् आदर्शग्रन्थाना विवृतिः, अनन्तरञ्च स्वकर्त्तव्यतया ग्रन्थप्रदातृभ्यस्तेभ्यस्तेभ्य अशेषो धन्यवादः प्रदीयते।
 
  अत्र च पूर्वामुद्रिता प्राचीना सम्पूर्णा नरोत्तमकृतटीका, पूर्वामुद्रिताया गोपालचक्रवर्त्तिकृतटीकाया साराश, मुद्रितपूर्वाया रामवर्मकृतटीकाया साराशश्चास्माभिः सन्निवेशितः। नरोत्तमकृतटीका गोपालचक्रवर्त्तिकृतटीका च हस्तलिखितादेकैकादादर्शाद् गृहीता, बहुना यत्नेन अर्थादीना विनिमयेनापि अनयोरादर्शान्तर संग्रहीतु नालमस्माभिरिति सत्यपि प्रयत्नबाहुल्ये पदे पदे भ्रमप्रमादोऽनिवार्य इति सुधियो जानन्तु। टीकाया आदर्शद्वयञ्च कलिकाता एसियाटिक्-सोसाइटिभवनतो लब्धमिति तत्रस्थेभ्यः कर्त्तृपक्षेभ्यः सानुराग धन्यवाद विज्ञापयाम।
@@ -54,8 +46,6 @@ AT METROPOLITAN PRINTING & PUBLISHING HOUSE, LIMITED,
  सम्पादनावसरे मेट्रोपलिटन्कार्यालयस्य प्रधानसशोधकः संस्कृतसाहित्यपरिषत्पत्रिकायाः सहकारिसम्पादक. काव्यप्रकाशनामकस्यालङ्कारग्रन्थस्य सम्पादको नानाविद्यापारग. सदाशयः श्रीयुक्तउपेन्द्रमोहनसाख्यतीर्थमहोदयः स्वकीयेनोदारतागुणेन मया सह प्रायः सममेव श्रम स्वीकृतः। तस्य साहाय्य विना सम्पादनकार्य सुदुष्कर स्यादिति तद्गुणमुग्वा वय तत्र चिरकृतज्ञा. स्याम। सस्कृतसाहित्यपरिषदो ग्रन्थरक्षकेण श्रीमता तारानाथभट्टाचार्येण स्वार्थमनपेक्षमाणेन केवल सौजन्यादेवात्रत्य ग्रन्थान्तरीयवाक्यानामाकरस्थानमस्मान् ज्ञापयता लघूकृतो मे परिश्रमभार इति कल्याणिने तस्मै शतशो धन्यवादाः सममाशीर्वादेन प्रदीयन्ते। यश्च महात्मा प्रतिष्ठानस्यास्य सस्थापनेन प्राचीनदुर्लभपुस्तकादीना प्रकाशनेन जगता जनानाञ्च महोपकारसाधनद्वारेण धन्यवादार्ह, अन्ते सततसज्जन-गणानुरागभाजः परमोदारस्य पवित्रचरित्रस्य अशेषकल्याणास्पदस्य तस्य श्रीयुक्तसच्चिदानन्दभट्टाचार्यमहोदयस्य परमोदय दीर्घायुश्च परमेश्वरसविधे प्रार्थयामः। इति शम्।
 
 —————
-
-
 
 Note on the Manuscripts
 
@@ -77,16 +67,10 @@ Note on the Manuscripts
 
 * *The manuscripts of the commentary of Narottama Dāsa and that of Gopāla Cakravartī, preserved in the library of the Asiatic Society of Bengal, Calcutta.
 
-
-
 प्रमादास त्रुटितोऽयं श्लोक, अरण्यकाण्डे सप्तमाध्याये ४८श-श्लोकात्परम् (३८० पृ०), पाठ्य.—
 
 हा राम हा लक्ष्मणेति रुदन्ती जनकात्मजा।  
 भयोद्विग्नमना दीना पश्यन्ती भुवमेव सा॥इति।
-
-
-
-
 
 INTRODUCTION
 
@@ -120,8 +104,6 @@ The text, its commentaries and the probable date of composition.
 
 **2**Aufrecht does not mention the commentaries of Narottama and Gopāla in his catalogue.
 
-
-
  Though the story of Vālmiki's Rāmāyana has been utilised for the present work its setting is peculiar In the *Rāmāyana* of Vālmiki, Nārada introduces the story of Rāma to Vālmīki and then the latter by worshipping Rāma attains the poetic faculty and according to the instruction of Brahmā utilises that faculty in writing out the story of Rāma as narrated to him by Nārada But the *Adhyātma-Rāmāyuna* is introduced in the form of a Purāna which the Sūta narrtes The Sūta says that Nārada, being afflicted by the misery of the three worlds in the Kaliage, goes to Brahmā and wants to know from him the easiest means of Salvation (**लघूपायेन येनैषा परलोकगतिर्भवेत्**). Brahmā replies that it is by reading the *Adhyātma-Rāmāyana* and by understanding the secret about Rāma that people can easily attain salvation. This Rāma-tattra orseciet about Rāma was formerly related by Śiva to Pārvati. The text, therefore, is set forth in the form of an intertocution between Śiva and Pārvati which is communicated by Brahmā to Nārada. The narrator of the whole thing is Sūta In this setting, therefore, the text differs from the Rāmāyana and as Sūta is generally the narrator of the Purānas and as Śiva is the narrator of the Tantra-sāstra[^3] it is said that Rāma in order to instruct the common people established innumerable Śivalingas all over the world  लोकानामुपदेषार्थ परमात्मा रघूत्तम। कोटिश स्थापयामास शिवलिङ्गानि सर्वत॥   Cf also Ayodhyā, vi 53,तन्मन्त्रजापको यस्तु त्वामेव शरण गत'।"), we may reasonably conclude that the compiler of the *Adhyātma-Rāmāyana* by adopting this new setting has deliberately attached two kinds of speciality to the text, that of the Purāna, so far as it is an old story told anew and that of Tantra, so far as it deals with the mystical aspect of the Rāma story
 
 [^3]: " This Tantric character runs all through the work The colophon of each canto runs as उमामहेश्वरसवदि—, besides in the Uttarakānda (iv24
@@ -130,16 +112,12 @@ The text, its commentaries and the probable date of composition.
 
 ——————————————————————————————————
 
-
-
 **I.** This Tantric character runs all through the work The colophon of each canto runs as उमामहेश्वरसवदि—, besides in the Uttarakānda (iv24) it is said that Rāma in order to instruct the common people established innumerable Śivalingas all over the world
 
 **लोकानामुपदेषार्थ परमात्मा रघूत्तम।  
 कोटिश स्थापयामास शिवलिङ्गानि सर्वत॥**
 
  Cf also Ayodhyā, vi 53,तन्मन्त्रजापको यस्तु त्वामेव शरण गत'।
-
-
 
 at all with the latter. This will be quite clear from the following abstract of the different books—
 
@@ -153,8 +131,6 @@ at all with the latter. This will be quite clear from the following abstract of 
 
 **V.***Sundara—* the long jump of Hanūmān over thesea, he kills the demon called Simhikā and enters Lankā, he meets Sītā, he destroys the forest of Aśoka, he is imprisoned by Meghanāda, he sees the court of Lankā, buins the city, returns to Rāma and gives himthe informations
 
-
-
 **VI.**Lankā—Rāma starts to warwith Rāvana and encamps on the sea-shore, Rāvana insults Vibhisana Vibhisana takes shelter in Rāma's camp, Rāma brings the sea under control, Nala makes the bridge, Rāvana ascends the top of the palace to see the army of Rāma, the battle, the fall of Rāma's army in the battle with Meghanāda, Hanūmān brings the Drona hill and the dead soldiers are revived, Laksmana is wounded by the powerful Javelin (Śakti śela), Hanūmān atter several exploits brings the herb called Viśalya-karanīand heals Laksmana, the fall of Kumbhakarna, the fall of Meghanāda, the fall of Rāvana, Vibhīsaṇa becomes king, Sitā
 
 's fire-ordeal, the return of Rāma, his coronation, Sugriva returns to his own country
@@ -165,8 +141,6 @@ at all with the latter. This will be quite clear from the following abstract of 
 the books of which the most important are the following—
 
  *Ādi*—1the reality about Rāma
-
-      
 
 2 the emancipation of Ahalyā and herprayer
 
@@ -183,8 +157,6 @@ the books of which the most important are the following—
        3 the eulogy of the Gods
 
 * Uttara*—*Rā*ma's instruction to Kauśalyā, Rāmagītā.
-
-
 
 The Special Sanctity of the Text and  
 the Date of its Composition
@@ -206,8 +178,6 @@ the Date of its Composition
 **उपवासव्रत कृत्वा श्रीरामनवमीदिने।  
 रात्रौ जागरितोऽध्यात्मरामायणमनन्यधी।  
 य. पठेच्छणुयाद्वापि तस्य पुण्य वदाम्यहम्॥**
-
-
 
 further described as containing the secret of the sacred books (**धर्मशास्त्ररहस्य, I 1 72**) From all these it is evident that a special sanctity has been attributed to the text and great stress has been land on the reading and recital of the text (**सङ्कीर्त्तनम्, I 1 26**) On the other hand no stress is laid on the realisation of the truths contained in the text, mechanical reading and recital of the text are sufficient to contribute to the acquisition of great religious merit. This cannot but be the spirit of a late age
 
@@ -240,8 +210,6 @@ further described as containing the secret of the sacred books (**धर्म�
 **विप्रेभ्यो व्यासमुख्येभ्यो दत्त्वा यत् फलमश्नुते।  
 तत् फल सम्भवेत्तस्य सत्य सत्य न सशयः॥ \[I. 1. 35-39\]**
 
-
-
  Such emphasis, on the repetition of the name of Rāma, the meditation of Rāma and the singing of the exploits of Rāma, was laid only in a lateperiod when the cult of Rāma and Sitā had fully developed.
 
  We have seen besides that great importance is attached in our text to the worshippers of Rāma (*Rāmabhaktas*) as a class. They are also described as *Mahābhāgavatas.*The mention of the*Rāmabhaktas*as a class seems to presuppose the existence of the Ramaite sect. The members of this sect alone are very particular in the observance of the *Rāmanavamī*day. The Ramaite sect was founded by Rāmānanda who introduced for the first time the woiship of Rāma and Sitā. Rāmānanda lived in the beginning of the 16th century[^5]. His disciples who mostly belonged to the lower castes were all worshippers of Rāma. The only mode of worship with them was Japa orthe repetition of the name of Rāma. There is, however, a mystic trend in the teachings and this is absent in the writings of Tulasıdāsa. Tulasīdāsa who was born in 1532 A D, and died in 1623 AD, contributed the most to the propagation of the cult of Rama over Northern India. Tulasīdāsa was the authorof a large number of works on Rāma.His *Rāmacaritamānasa*is a capital work and is widely read over Northern India. He was a teacher of the *Bhaktīmarga or*the path of devotion "which is based upon an Idealistic philosophy with a leaning towards spiritual monism of the Advaita system”. According to him "Rāma is the supreme god and that through his grace man becomes holy and blessed. He should, therefore, be adored, where he is, sin is not, and, therefore, for the purification of the mind, he should always be thought of and meditated on". The followers of Rāmānanda were all non-Biahmins and it was probably through the activities of Tulasīdāsa that the Rāma cult was introduced amongst the Brāhmins The *Adhyātma-Rāmāyana* seems to have been composed in this period, perhaps a little earlier than the time of
@@ -251,8 +219,6 @@ further described as containing the secret of the sacred books (**धर्म�
 —————————————————————————————————————————
 
 **1.**There is some uncertainty regarding the date of Rāmānanda. According to the calculation of late Sir R G Bhandarkar, Rāmānanda was born in Prayāga, in Vikrama Samvat, 1356, corresponding to 1299-1300 A D.
-
-
 
 Tulasidāsa, about the 15th century, when the Ramaite cult was being introduced in the Brahmanical fold. The idea of writing a work, imbibed by the Ramaite spirit, that would have the appearance of a canonical text, could not have started except with the orthodox section, which probably resented the predominance of teachers belonging to lower castes.
 
@@ -279,8 +245,6 @@ When Rāma in his material form is meditated on, a pleasant feeling of love is p
 
 \[रुपयोखामिकृतभक्तिरसामृतसिधौ\]
 
-
-
 II
 
 Rama and Sita
@@ -299,8 +263,6 @@ Rama and Sita
 स्वमायया कृत्स्नमिद हि सृष्ट्वा नभोवदन्तर्बहिरास्थितो यः॥७६॥**
 
 **A-R-2**
-
-
 
  (2) Sitātells Hanūmat know that Rāma is the Supreme Brahman. He is *Sat, Cut and Ānanda* (existence, consciousness and blissfulness ) He is one ( i.e, devoid of duality), free from all attributes, the only being who is beyond the reach of human perception. He is the spotless bliss, quietness, changeless, free from impurity, the all-compassing ātman, self-illumined and free from demerit. I myself (Sītā) am the onginal Prakrtı, the instrument of creation, preservation and destruction. When I am near him (Rāma) I create all this ceaselesslyOnly theignorant people attribute all these acts to him. All these acts (narrated in the Rāmāyana) are in fact done by me. These should not be attributed to Rāma who is changeless (ahamkāra), the Soul of the universe Rāma neither moves norstays, he neither repents nordesires, neither abandons nor does anything the blissfulness in person, he is free fiom motion, free from change, and appears as possessed of attributes under the influence of māyā[^8]**¹**\[I 1 91-94, 102, 103\]
 
@@ -334,8 +296,6 @@ Rama and Sita
 त्याकाङ्क्षतेत्यजति नो न करोति किञ्चित।  
 आनन्दमूर्त्तिरचल परिणामहीनो  
 मायागुणाननुगतो हि तथा विभाति॥१०३॥
-
-
 
 \(3\) The Parātman (Rāma) did all these acts in the guise of man, following the ways of the world of men but he still remains changeless without becoming, doing nothing in calculation[^9]\[I 3 73\]
 
@@ -373,8 +333,6 @@ Rama and Sita
 विरिञ्चिवि
 
 ष्णुोश्चरनामभेदान् धत्ते स्वतन्त्र परिपूर्ण आत्मा॥५०॥
-
-
 
 and
 
@@ -414,8 +372,6 @@ hartı, hōranu and hārna) under the influence of māyā, Rāma, though you are
 आस्ते दाशरथिर्भूत्वा चतुर्धा परमेश्वर॥५८॥  
 योगमायाऽपि सौनेति जाता वै तव वेश्मनि॥५८॥**
 
-
-
 free from any movement. Just as there is foam in water, and smoke in fire so also there is māyāin you which covers you and creates the objects. The world does not know you as long as it is under the influence of māyā[^14]^(**1**)\[I 7 27-29\]
 
 [^14]: " त्वयि जन्मादिषड्भावा न सन्त्यज्ञानसम्भवा॥२७॥  निर्विकारोऽसि पूर्णस्त्व' गमनादिविवर्जित। यथा जले फेनवृन्द धृमो वह्नौ तथा त्वयि। त्वदाधारा त्वदविषया माया कार्य सृजत्यहो॥२८॥"
@@ -446,8 +402,6 @@ free from any movement. Just as there is foam in water, and smoke in fire so als
 सूतेऽजस्र शुक्लकृष्णलोहिता सर्वदा प्रजा।  
 लोकत्रयमहागेहं गृहस्थस्त्वमुदाहृत॥१८॥
 
-
-
 other than the Yogamāyā. Rāma himself, under the influence of
 
 mayas, became Brahmā who conceived the world, under the influence of suttra, became Visnu the preserver of the world, and, under the influence of tomas, became Rudra the destroyer of the world. He had different incarnations— Matsya, Kūrma, Śūkara, Narasimha, Vāmana and Bhāigava. He has now been born as Rāma in order to kill Rāvana and other Rāksasas. Sītā is the māyā of Hari, the cause of creation, preservation and destruction— He has assumed the illusoryshape of man so that the devotees may worship him, that Rāvana may be killed and that the wishes of the king may be fulfilled[^16]**¹**\[II 5 11-27\]
@@ -457,7 +411,6 @@ mayas, became Brahmā who conceived the world, under the influence of suttra, be
 \(12\) Vaśistha says unto Bharata — Rāma is Nārāyana in person Being requested by Brahmā to bing about the fall of Rāvaṇa he has incarnated himself as the son of Daśaratha. The Yogamāyā has been born as the daughter of Janaka[^17]**²** \[II 9 40-41\]  
 
 [^17]: "रामो नारायण साचाद ब्रह्मणा याचित पुरा। रावणस्य वधार्थाय जातो दशरथात्मज॥४०॥  योगमायाऽपि सौतेति जाता जनकनन्दिनी।॥४१॥"
-
 
 —————————————————————————————————————————
 
@@ -487,8 +440,6 @@ mayas, became Brahmā who conceived the world, under the influence of suttra, be
 
 **योगमायाऽपि सीतेति जाता जनकनन्दिनी।॥४१॥**
 
-
-
 \(13\) Sutāksna's prayer to Rāma-Śiva, and Vniñcı seek for shelter in your feet. It is through Māyā that you have the human form of Rāma. You alone combine in you the three gods Brahmā, Īśa, and Visṇu through the threefold qualities of Māyā for the creation, destruction and preservation of the universe (**शिवविरिञ्चसमाश्रिताङ्घ्रे, विश्वस्य सृष्टिलयसंस्थितिहेतुरेकस्त्व मायया त्रिगुणया विधिरीशविष्णु, मायाविडम्बनकृत समनुष्यवेश)—\[III 2 27, 30, 32 \]**
 
 \(14\) Agastya says unto Rāma— priorto the creation you remain free from the Māyā and the attributes. The Māyā which is your Śakti then remains with you under your protection. When this Śakticovers you although you remain attributeless, the Vedāntins call her avyākita orunmanifested. Some call her mūlaprakiti, others call her by various names― māyā, a
@@ -496,8 +447,6 @@ mayas, became Brahmā who conceived the world, under the influence of suttra, be
 ridyā, samsrtı, bandha etc.
 
  She produces the mahat-tattraa being acted upon by you, under your influence the mahat-tattraproduces ahamkāra which becomes threefold—appertaining to suttva, rajas, tamas iespectively. From the ahamkāra which has the quality of tamas are produced first subtle tunmātras and the gross ones. From the rājasa-uhamkāraareproduced the sense-organs and from the sāttvika-ahamkāra, the gods (relating to the sense-organs) and the mind. From the gross elements originates the cirāt and from the virāt the whole universe both animate and inanimate, the Devas, the insects, the human beings etc \[O Rāma\], when possessed of rajas, you are Brahmā, from whom creation proceeds, when possessed of sattra you ale Visņu, the god of preservation and when possessed of tamas, you are Rudra, the god of destruction. They have three functions— jāgrat, svapna and susupti which are determined by the qualities of Buddhi Rāma, you are free from then hold and are the all-conscious witness to theiracts. When you are desnous of creation you absorb in yourself the māyā and then appeal as one possessed of attributes. The māyā appears under two aspects vidyāand avidyāThose who are under the influence of avidyāare in the path full of desues. Those who are wise in
-
-
 
 Vedānta (i.e, those who have mastered vidyā) are on the path of renunciation and devoted to Rāma— Right faith in Rāma has the characteristics of love[^18]**¹**\[III 3 19--39\]
 
@@ -550,8 +499,6 @@ Vedānta (i.e, those who have mastered vidyā) are on the path of renunciation a
 
 तस्माद्राघव सद्भक्तिस्त्वयि मे प्रेमलणा।॥३८॥
 
-
-
 you? Both of you appear as the creators of the world, the Supreme Beings (**प्रधानपुरुषौ**), the ultimate cause of the universe and one with it. It is through illusion that you appear in the form of men, travelling at your will In order to dissipate the sin of the world and preserve your devotees, you have incarnated yourself as Ksatriyas. You are as if ready for the creation, preservation and destruction of the world. You are independent agents and still you are the Īśvara placed within everybody. You are the Nārāyana in the form of men[^19]**¹**\[IV 1 13 - 15\]
 
 [^19]: "युवा प्रधानपुरुषौ जगद्धेतुजगन्मयौ। मायया मानुषाकारौ चरन्ताविव लीलया॥  भूभारहरणार्थाय भक्तानां पालनाय च। अवतीर्णाविव परौ चरन्तौ क्षत्रियाकृती॥  जगत्स्थितिलयौ सर्ग लीलया कर्त्तुमुद्यतौ। स्वतन्त्रौ प्रेरकौ सर्वहृदयस्थाविवेश्वरौ। नरनारायणौ लोके चरन्ताविति मे मति॥"
@@ -593,9 +540,6 @@ is dissipated and bondage torn asunder to-day through your favour[^20]**²**\[IV
 
 A-R-3  
 
-
-
-
 \(18\) Svayamprabhāsays to Rāma— I bow unto you, you are beyond the reach of illusion (māyā). You are placed in all beings though invisible. You have taken the form of man being covered over by Yogamāyā who stands like a screen. The ignorant do notunderstand that you act simply like an actor. You have incarnatedyourself to teach Bhakti-yoga to the Mahābhāgavatas. you are the Supreme Being in the shape of the god who destroys and who is without beginning, middle and end Human being under the influence of māyā find you as such[^22]**¹**. \[IV 6 54-62\]
 
 [^22]: " आद्यहि त्वा नमस्यामि मायाया' परत स्थितम्। सर्वभूतेषु चालक्ष्य बहिरन्तरवस्थितम्॥  योगमायाजवनिकाच्छन्नो मानुषविग्रह। न लक्ष्यसेऽज्ञानदृशा शैलूष इव वेशष्टक्॥  महाभागवताना त्व भक्तियोगविधित्सया। अवतीर्णोऽसि भगवन् कथ जानामि तामसी॥  कालरूपिणमीशानमादिमध्यान्तवर्जितम्। सम चरन्त सवत्र मन्ये त्वा पुरुष परम्॥"
@@ -619,8 +563,6 @@ There is no doubt that sorrow appertains to buddhi Rāma is the Parātman, the P
 
 कालरूपिणमीशानमादिमध्यान्तवर्जितम्।  
 सम चरन्त सवत्र मन्ये त्वा पुरुष परम्॥
-
-
 
 that he appears as being moved by the worldly feelings like pleasure and pain[^23]**¹**\[VI 1 44-49\]
 
@@ -652,8 +594,6 @@ I. व्यलपज्जानकी सीता बहुधा कार�
 
 2\. कालो राघवरूपेण जातो दशरथालये।  
 काली सीताभिधानेन जाता जनकनन्दिनी॥
-
-
 
 \(21\) Rāma is no man, he is the God, the undecaying Nānāyana, Sītā is the Goddess Laksmī**\[VI 2 14—रामो न मानुषो देवः साक्षात् नारायणोऽव्ययः। सीता भगवती लक्ष्मीः—\]**
 
@@ -691,8 +631,6 @@ I. व्यलपज्जानकी सीता बहुधा कार�
 
 **त्वन्मायया हृतज्ञाना नष्टात्मानो विचेतस।  
 गवागत प्रपद्यन्ते पापपुण्यवशात् सदा॥**
-
-
 
 \(23\) Śuka tells Rāvana― Rāma is no man, he is the highest Nārāyaṇa in person. Sitā is the supporter of the univeise in peison (Jagaddhātrī), the Cit-śaktithat is the soul of the universe. The entire univeise, both animate and inanımate, are born from them[^26]^(**1**)\[VI 4 37\] Cf also, vi 5 30, where it is said that Rāma is Nārāyaṇa.
 
@@ -735,8 +673,6 @@ I. व्यलपज्जानकी सीता बहुधा कार�
 **अतो जानीहि राम त्व पर ब्रह्म सनातनम्॥  
 तेषा सहस्रसदृशो रामो ज्ञानमय. शिव.॥**
 
-
-
 \(26\) Nārada addresses Rāma— you are the God of gods, the lord of the universe, the eternal Paramātman, you are Nārāyana, the support of the entire world, the witness of all you are the purest knowledge in person. You deceive the world through your own māyā under the illusory form of man. Though you are seated in all beings you hide yourself through māyā. You are self-illumined and manifest yourself (as such) to the people who have pure hearts. You create the three worlds simply by opening your eyes and destroy them simply by shutting your eyes, you are both the prakrti, and the purusa, you are the Kāla, and appear as both manifested and unmanifested. The śruti says that you are free from change, the pure knowledge and the entire universe in person, Those who are the speculators in the Vedas find contradiction in Vedic expressions and cannot enter into the real spirit of them without your favour. There is, however, not the slightest of contradiction because whatever you do, you do through māyā. As through error the rays of the sun are mistaken for water so through erroneous knowledge also, all worldly acts are attributed to you. Your form which is free from attributes is only conceived by the mind. It would have been difficult to worship you because you are not visible, This is why you are worshipped under the forms of your incarnation Thus by meditating on your form of attributes I roam about as one who is liberated[^29]**¹**\[VI 8 30-42\]
 
 [^29]: "विशुद्धज्ञानरूपोऽपि त्व लोकानतिवञ्चयन्। मायया मनुजाकार सुखदुःखादिमानिव॥  मायया गुह्यमान सर्वेषा हृदि सस्थित। स्वयज्योति स्वभावस्त्वव्यक्त एवामलात्मनाम्॥  उन्मीलयन् सृजस्येतन्नेत्रेराम जगत्त्रयम्। उपसक्रियते सर्व त्वया चक्षुर्निमीलनात्॥  बस्मिन् सर्वमिदं भाति यतश्चैतञ्चराचरम्। यस्मान्न किञ्चिल्लोकेऽस्मिस्तस्मै ते ब्रह्मणे नम॥  प्रकृति पुरुषं कालं व्यक्ताव्यक्तस्वरूपिणम्। विकाररहित शुद्ध ज्ञानरूप श्रुतिर्जगौ। त्वां सर्वजगदाकारमूर्त्तिं चाप्याह सा श्रुति.॥ विरोधो दृश्यते देव वैदिको वेदवादिनाम्। निश्चय नाधिगच्छन्ति त्वत्प्रसाद विना बुधा। मायया क्रीडितो देव न विरोधी मनागपि। रश्मिजाल रवेर्यद्वद दृश्यते जलवद् भ्रमात। भ्रान्तिज्ञान तथा राम त्वयि सर्व प्रकल्पाते॥  मनसो विषयाद्देव रूप ते निर्गुण परम्। कथ दृश्य भवेद्देव दृश्याभावे भजेत कथम्॥  अतस्तवावतारेषु रूपाणि निपुणा भुवि। अतस्ते सगुण रूप ध्यात्वाऽह सर्वदा हृदि। मुक्तश्चरामि लोकेषु पूज्योऽह सर्वदैवतै॥"
@@ -758,8 +694,6 @@ I. व्यलपज्जानकी सीता बहुधा कार�
 **प्रकृति पुरुषं कालं व्यक्ताव्यक्तस्वरूपिणम्।  
 विकाररहित शुद्ध ज्ञानरूप श्रुतिर्जगौ।  
 त्वां सर्वजगदाकारमूर्त्तिं चाप्याह सा श्रुति.॥**
-
-
 
 \(27\) Mandodari tells Rāvana— you cannot conquer Rāma, Rāma is the great God in person, he is the lord of both pradhānaand purusa i.e, of the prakrtias
 
@@ -801,8 +735,6 @@ I. शक्यो न राघवो जेतु त्वया चान्
 2.कर्त्ता व सर्वलोकाना साक्षी विज्ञानविग्रह'।  
 वसूनामष्टमोऽसि त्व रुद्राणां शङ्करो भवान्॥
 
-
-
 \(29\) Brahmāsaid— I bow unto you, O Deva, you are Visnu, the cause of all creation, you have no knowledge of duality, you are the Supreme One, the sole being placed in all beings, the knowledge in person. You are that god whom the yogins can see by stopping the two vital winds— prāna and apāna after dispelling all doubts and the influence of the objective world through sure (spiritual) knowledge, you are beyond the reach of māyā, the beginning of the world, supra-mental and destroyer of delusion. You are the object of meditation for the yogins, you are the regulator of yoga, you are free from the conditions of existence and non-existence. Siva and other gods, for then own pleasure, have brought in the conception of your lotus feet, you are eternally pure, and omniscient, and are the Pranara, you ale Mālhara and the companion of those who meditate on you by yogic methods[^32]^(**1**)\[VI 1310–16\]
 
 [^32]: "वन्दे देव विश्णुमशेषस्थितिहेतु त्वामध्यात्मज्ञानिभिरन्तर्हदि भाव्यम्। हेयाहेयद्वन्द्वविहीन परमैक सत्तामात्र सर्वहृदिस्य दृशिरूपम्॥  प्राणापाणौ निश्चयाबुद्ध्याहृदि रुद्ध्वाकित्त्वा सर्वे संशयबन्ध विषयौधान्। पश्यन्तीश य गतमोहा यतयस्त वन्दे राम रत्नकिरीट रविभासम्॥  मायातीत माचवाद्य जगदादि मनोऽतीत मोहविनाश मुनिवन्द्यम्। योगिव्येय योगविधान परिपूर्णं वन्दे राम रञ्जितलोक रमणीयम्॥  भावाभावप्रत्ययहीन भवमुख्यैर्भोगासक्तैरर्चितपादाम्बुजयुग्मम्। नित्य शुद्ध बुद्धमनन्त प्रणवाख्य वन्दे राम वीरमशेषासुरसारम्॥  त्व मे नाथो नाथितकार्याखिलकारी मानातीतो माधवरूपोऽखिलधागे। भक्त्यागम्यो भावितरूपो भवहारी योगाभ्यासैर्भावितचेत, सहचारी॥..."
@@ -833,8 +765,6 @@ I. शक्यो न राघवो जेतु त्वया चान्
 त्व मे नाथो नाथितकार्याखिलकारी मानातीतो माधवरूपोऽखिलधागे।  
 भक्त्यागम्यो भावितरूपो भवहारी योगाभ्यासैर्भावितचेत, सहचारी॥...
 
-
-
 \(30\) Bharadvāja tells Rāma[^33]^(**1**)—You are the ultimate Brahman, free from the three conditions of beginning, middle and end You first created water and lay down in it. You are Nārāyaṇa, the soul of the universe, the innermost soul of all human beings Brahmā, the creator of the universe was born from the lotus arising from your navel You are, therefore, the lord of the universe , you are Visņu, Jānaki is Laksmīand Laksmaṇa is Śesa (the Nāga) You create all in yourself, through your own māyā. You are not, however, attached to your creation, you are like the space, the witness to everything by virtue of your own citsukti You permeate the beings, both in and out You are complete in yourself and appear as divided only to those whose vision is distorted under the force of illusion You are the universe, you are the substratum of the universe and you are its sole preserverand support You are both the nourisher and nourishment of all beings You are all that is seen, heard and thought of All this exists when you are ignored but nothing of it exists when you are known
 
 [^33]: "त्व ब्रह्म परम साक्षादादिमध्यान्तवर्ज्जित। त्वमग्र सलिल सृष्ट्वातत्रसुप्तोऽसि भूतकृत्॥१७॥  नारायणोऽसि विश्वात्मन् नराणामन्तरात्मक। त्वन्नाभिकमलोत्पन्नो ब्रह्मा लोकपितामह॥१८॥  अतस्त्व जगतामीश सर्वलोकनमस्कृत। त्वविष्णुर्जानकी लक्ष्मी. शेषोऽय लक्ष्मणाभिध॥१८॥  आत्मना सृजसौद त्वमात्मन्येवाऽऽत्ममायया। न सज्जसे नभोवत्त्व चिच्छक्त्या सर्वसाक्षिकः॥२०॥  बहिरन्तश्च भूताना त्वमेव रघुनन्दन। पूर्णोऽसि मूढदृष्टीना विच्छिन्न इवलक्ष्यसे॥२१॥  जगत्त्व जगदाधारस्त्वमेव परिपालक। त्वमेव सर्वभूताना भोक्ता भोज्य जगत्पते॥२२॥  दृश्यते श्रूयते यद् यत् स्मर्यते वा रघुत्तम। त्वमेव सर्वमखिल त्वद्विनाऽन्यन्नकिञ्चन॥२३॥ माया सृजति लोकाश्च स्वगुणैरहमादिभि। त्वच्छक्तिप्रेरिता राम तस्मात्त्वय्युपचर्यते॥२४॥  यथा चुम्बकसान्निव्याच्चलन्त्ये वाचलादय। जडा तथा त्वया दृष्टा माया सृजति वैजगत्॥२५॥  देहद्वयमदेहस्यतव विश्व रिरक्षिषो। विराट् स्थूल शरीर ते सूत्र सूक्ष्ममुदाहतम॥२६॥  विराज सम्भवन्त्ये ते अवतारा. सहस्रश। कार्यान्तेप्रविशन्त्ये व विराज रघुनन्दन॥२७॥"
@@ -863,8 +793,6 @@ I. शक्यो न राघवो जेतु त्वया चान्
 त्वमेव सर्वमखिल त्वद्विनाऽन्यन्नकिञ्चन॥२३॥
 
 A-R-4
-
-
 
 The māyā goaded on by you creates the world through its attributes ahamkāra and the like Just as immovable bolts or pins move in the proximity of the loadstone, cumbaka, so also māyā, which, though inanimate, creates the world at your glance. Though you have no body, still, for the sake of the preservation of the world, you have two (illusory) bodies-gross and subtle. Thousands of incarnations emanate from the gross body and go back to it at the end of then work \[VI 14 17-27\]
 
@@ -897,8 +825,6 @@ ma, you are Nānāyaṇa in person[^34]**¹**– the first creator of the univer
 **बाहुभ्या लोकपालौघाश्चक्षुर्भ्या चन्द्रभास्करौ।  
 त्व विश्वरूप पुरुषो मायाशक्तिसमन्वित।  
 नानारूप इवाऽऽभासि गुणत्र्यतिकरे सति॥६१॥**
-
-
 
 The wise drink the ambrosia within by resigning themselves to you. You create the world, both animate and inanimate. The world lives for you and you are behind all things and acts, like the butterin milk which permeates it all through (but is not Visible). It is through your light that the sun shines and not that you shine through his light. The wise find you all-pervading and eternal the yogins see in you the lord within themselves \[VII 2 55 ff\]
 
@@ -942,8 +868,6 @@ is one endless and inconceivable power. He is consciousness alone, undecaying an
 **2. तथेति प्रतिजग्राह भरताद्राज्यमीश्वर।  
 मायामाश्रित्य सकलां नरचेष्टामुपागत॥४॥**
 
-
-
 of what use was this worldly kingdom to him who is characterized by the feelings of heavenly kingdom and perfect bliss and who is himself the paramātman, the unalloyed pleasure in person?At his wink the whole world gets dissolved in an instant, and through his favour the entire universe comes into being. This is only a little of the great creation, created through his līlā \[VI 15 4-6\].
 
 (34). Rāma is the eternal lord of the universe. He has no birth The gods and the asuras, all submit to him, He is thechangeless Hari, NārāyaṇaBrahmā, the creator of the universe,
@@ -980,8 +904,6 @@ is born from the lotus arising from his navel. The wise conquer the foes in batt
 भक्तानामनुवर्त्तनाय सकलां कुर्वन् क्रियासहतिम्  
 आशृण्वन्मनुजाकृतिर्मुनिवचोभासीश लोकार्चितः॥११॥**
 
-
-
 \(36\) Kauśalyā tells Rāma—You are the beginning of the world, but you yourself are free from (the three conditions of) beginning, middle and end. You are the paramātman, the ultimate bliss, you are complete andyou are the purusa, the lord[^39]**¹**.
 
 [^39]: "राम त्वजगतामादिरादिमध्यान्तवर्जित। परमात्मा परानन्द, पूर्ण पुरुष ईश्वर'॥४७॥"
@@ -1014,15 +936,11 @@ is born from the lotus arising from his navel. The wise conquer the foes in batt
 **सीता च लक्ष्मीरभवत् पुरैव रामो हि विष्णु. पुरुष पुराण.।  
 सहानुजः पूर्वशरीरकेण बभूव तेजोमयदिव्यमूर्त्ति॥५६॥**
 
-
-
  From the foregoing passages it is clear that the author of the *Adhyātma-Rāmāyana* represents Rāma as the Parātman, the Paramātman on the Brahman— the ultimate Being As such, Rāma possesses all the characteristics of the Brahman. He is sat, cit and ānanda— being, consciousness and bliss. He is free from duality, fiee from change and free from attributes Like the Purusa of Sāmkhya, "he neither moves norstays, neither repents nordesires, neither abandons nordoes anything” He is identical with the Śabda-Brahman or the Pranura, i.e, the sound Om.
 
  From a Vaisnavite point of view, Rāma is the same as Visnu, Nārāyana All other gods
 
 Vriiňcı, Brahmā, Śiva etc, are only his secondary forms. It is he who incarnates as Matsya, Kūrma, Śūkara, Narasimha, etc. He is thus the lord of the world It is he, who, under different forms, plays the different roles of the gods of creation, destruction and preservation (Brahmā, Śiva and Visṇu) But these gods also are the creations of ‘māyā'. Māyā, which is the primordial source of the world, has a three-fold character. These aspects are determined by the three constituents (guna) of māyā, namely sattva, rajas and tamas. The three gods Visnu, Brahmā and Rudra are created respectively by those three constituents. But Rāma, the Parātman transcends all these. He is the sole master of creation which comes into being from his reflection through the māyā.
-
-
 
 III
 
@@ -1035,8 +953,6 @@ tman really does not act His relation with the creative māyā is that of the ma
  The author of Adhyātma-Rāmāyana, we have seen, uses various words as synonyms of māyā-avyākrta, śakti, mūlaprakrti, avidyā, samsrti,bandha, prakrtı, etc. The evolution of the phenomenal universe starts from her.But before we can try to determine the order of this evolution it is necessary to discuss the passages bearing upon the question.
 
 \(1\) Māyā is like the foam in water and smoke in fire. The Paramātman is the subject (ādhāra), while māyā is the object (visaya). It is the latter which creates When the citśaktı (consciousness) reflects itself in the material world, created through avidyā, it comes to be known as the Jīva on the individual being With the rise of egoism (abhimāna) in regard to the body, mind, vital force (prāna), intellect (buddhi) etc, arises the sense of distinction between the subject and the object, pleasure and painetc. But from the point of view of the ultimate reality, there is no transmigration (samsrtı) of the ātman. The Buddhi or the intellect is never the same as knowledge (jñāna). It is through the error of distinction that the world comes into being and the matter combined with the spirit appears as conscious though it
-
-
 
 really remains unconscious. The combination is like that of the lightning and the cloud[^41]¹. \[I. 7. 28-33\]
 
@@ -1074,8 +990,6 @@ really remains unconscious. The combination is like that of the lightning and th
 **अहङ्कारश्च बुद्धिश्च पञ्चप्राणेन्द्रियाणि च।  
 लिङ्गमित्यच्यते प्राज्ञैर्जन्ममृत्यसुखादिमत्॥१९॥**
 
-
-
 \(3\) Rāma as Brahman is without beginning and without end. He is inconceivable and indescribable. He is subtle and is beyond the reach of the two bodies, subtle and gross. He is all consciousness while the rest is all matter When the reflection of the Cit is one with the intellect (Buddha) it becomes the Jiva. Brahman is the Sāksīn or the witness of the intellect Rāma, in his subtle body is the Hiranyagarbha, in his gross body is the Virāt. His subtle body which is inconceivable contains all that is past, present and future. The gross body which is enveloped by the mahat-tattva and other tattvas is within the reach of conception because it possesses ever-increasing gunas[^43]**¹**\[III 931-34\]
 
 [^43]: " सूक्ष्म ते रूपमन्यक्त देहद्वयविलक्षणम्। दृग्रुपमितरत् सर्व दृश्य जडमनात्मकम्। तत् कथ त्वाविजानीयाद व्यतिरिक्त मन प्रभो॥३१॥  बुद्ध्यात्माभामयोरैक्य जीव इत्यभिधीयते। बुद्ध्यादिसाक्षीब्रह्मैव तस्मिन् निर्विषयेऽखिलम्। आरोप्यतेऽज्ञानवशान्निर्विकारेऽखिलात्मनि॥३२॥  हिरण्यगर्भस्ते सूक्ष्म देह स्थूल विराट् स्मृतम्। भावनाविषयी राम सूक्ष्म ते व्यानमङ्गलम्। भूत भव्य भविष्यच्च यत्रेदं दृश्यते जगत्॥३३॥  स्थूलेऽण्डकोषे देहे ते महदादिभिरावृते। सप्तभिरुत्तरगुणैविराजी धारणाश्रय॥३४॥."
@@ -1110,8 +1024,6 @@ really remains unconscious. The combination is like that of the lightning and th
 स्थूलेऽण्डकोषे देहे ते महदादिभिरावृते।  
 सप्तभिरुत्तरगुणैविराजोधारणाश्रय॥३४॥.  
 A-R-5
-
-
 
 fivefold, its essence is also fivefold. Besides these there are ahamkāra, buddhi, the ten sense-organs (five for action, and five for cognition), the reflection of consciousness, the mind and the mūlaprakṛti.The field (ksetra) consisting of all these is thematerial body, When the individual is free from all these he is the pure paramātman[^44]**¹**. \[III 4 20-28\]
 
@@ -1153,8 +1065,6 @@ fivefold, its essence is also fivefold. Besides these there are ahamkāra, buddh
 **2. रसादिपञ्चीकृतभूतसम्भव भोगालय दुःखसुखादिकर्मणाम्।  
 शरीरमाद्यन्तवदादिकर्मज मायामय स्थूलमुपाधिमात्मन॥२८॥**
 
-
-
  Thus according to the author of the Adhyātma-Rāmāyana the creation of the universe starts from Sītā who is the mūlaprakrti, the primordial cause. This mūlaprakrti for him, is the same as the māyāor the avdiyā, avyākrta or the unmanifested of the Vedānta, the pradhāna of the Sāmkhya and the Śakti of the Tantraśāstras. The Prakiti, under the influence of its three gunas or constituents— the sattva, rajas and tamas— creates the universe. The order of evolution starting from the prakitɩ is— mahat, the great principle of creation (also called the buddhi), the ahamkāra, the tendency of individualisation, the five subtle substances (pañcatanmātras), the five gross elements (mahābhūtas), the five senseorgans (pañca-karmendriyas) and (pañca-jñānendriyas) as well as the mind. The order of this evolution may be indicated in a schematic way as follows—
 
 ![](../books_images/U-IMG-1725951686Capture.JPG)
@@ -1175,13 +1085,9 @@ fivefold, its essence is also fivefold. Besides these there are ahamkāra, buddh
 
 \[variant for मनोबुद्धिदशेन्द्रियै—मनोबुद्धिरहक्रियेन्द्रियै\]
 
-
-
  So far the order of the evolution agrees with the Sāmkhya system, according to which the mūlaprakiti is the primordial cause of the creation. The Sāmkhya calls it the mūlaprakiti as it is the root of the creation. It is also called pradhāna because it is the original principle. At this stage the prakitiremains unmanıfested— ayākrta. At the next stage when the evolution starts it is ayākrta or manifested. At this stage is produced the mahat, the great principle, also called the buddhi— the intellect orthe phenomenal spirit which is imbibed in the matter and organises it from within. The mahat then produces the ahamkāra―the sense of self or a tendency towards individualisation From this selfsense arise the five subtle elements (pañcatanmātra)— the sound (śabda), the touch (sparāa), the form (rūpa), the taste (rasa) and the smell (gandha) From these five subtle elements evolve, the rest of the creation— the five gross elements (mahābhūta), the five sense-organs relating either to the buddhi or the harma and the mind. The part has three constituents orgunas— the sattva, rajas and tamas and the course of the evolution is determined by them.
 
  But when the question of the relation between the prakitiand the ātman arises the author of the Adhyātma-Rāmāyana does not always adhere to the Sāmkhya view. The Sāmkhya is dualistic and according to it the purusa does not create, it is the prakrti which creates the world. Though prakrti primarily receives the impetus from the Purusa the latter does not really act His presence alone sets Prakrti in motion. The author of the Adhyātma- Rāmāyana often makes similarutterances, for example, when he says that the māyāwhich, though inanimate, creates the world as the immovable metals move in the proximity of the magnet **(यथा** **चुम्बकसान्निध्याच्चलन्त्येवाचलादयः। जडा तथा त्वया दृष्टा माया सृजति वै जगत्॥),** orwhen he says that the māyā acts being goaded on by the Purusa. It is also under the influence of Sāmkhya that he speaks of prakrti as the mūlaprakrti and represents Sitā as such. But ultimately he says that the prakrti is nothing but the māyā, the illusion. It is only the limiting adjunct (upādhi) of the Brahman.
-
-
 
 It arises out of his reflection and is comparable either to the foam in water or the smoke in fire. The world is a world of appearance and from the point of view of the ultimate reality it has no separate entity. With the rise of a knowledge of reality it disappears from our view and the Brahman alone remains.
 
@@ -1194,8 +1100,6 @@ It arises out of his reflection and is comparable either to the foam in water or
 
  But as the author of Adhyātma-Rāmāyana only makes a passing reference to this aspect of the relation between Brahman and the world, does not develop it further and lays greater stress on the illusory character of this relation, it may be said that he sides entirely with the Śuddhādvaita school
 
-
-
 IV
 
 The world as an Illusion
@@ -1206,21 +1110,15 @@ The world as an Illusion
 
  (1) While Guha out of pity for the hardship of Rāma blames Kaikeyī, Laksmaṇa says unto him— nobody really causes either pleasure or pain to anybody. The karma accumulated by oneself is the cause of pleasure and pain. Nobody is the agent of one's sorrow and pain. Through false self-sense man considers himself to be the agent. The whole world is tied down to the chain of harma. It is through a similarerrorthat man attributes his own karma to others, the pleasure and pain, are also due to one's own karma. One, therefore, ought to suffer it as it comes and thus attain the equilibrium of the mind. One ought not to have any desire because desire is the cause of all misery. In whatever place and time one performs good or
 
-
-
 bad action one suffers from the effect then and there. Therefore, one should not be moved either by pleasure or pain on account of good and evil— it is impossible to get rid of things which must happen. The man is bound down by pleasure and pain— the material body is produced by merit and demerit in the same way as pleasure and pain There is pain after pleasure and pleasure after pain. Both are unavoidable by beings like the day and night. Pain lies within pleasure and pleasure within pain. Both are naturally related like water and mud. The wise, therefore, through a right knowledge, do not feel either happy orsad at gain or loss after considering that all is illusion **(सर्व मायेति भावनात्)** \[II 6 4-15\]
 
 \(2\) When Bālīis killed by Rāma his wife Tārā becomes extremely moved by sorrow but Rāma consoles her thus— why are you aggrieved for him who ought not to be the object of grief. Tell me whether this body or the jīva is your husband. The material body, possessed of skin, flesh, blood and bone and made of the five elements, is the creation of time, karma and the gunas (orthe inherent powers of Prakiti). Therefore, your husband still exists (though his material body has fallen) Know that the jīva is the ātman, the jīva, therefore, is not subject to any suffering, it neither comes into existence nor dies, it neither stays nor goes away, It is neither female nor male norof a neuter character. It is real, immovable and imperishable. It is the sole reality, free from duality, as free as the space. It is eternal, full of consciousness and pure. There is, therefore, no cause of grief.
 
  When Rāma had said this Tārā puts to him the question, if the body is like a piece of wood and if the jīva is eternal and characterized by consciousness then to whom do the pleasure and pain appertain? Thereupon Rāma replies— as long as there is relation of the self-sense (ahamkāra) with the body and the sense-organs, the world of transmigration continues to exist for the jīva. This world of transmigration is imagined through false knowledge though it does not really exist just as the objects thought of appear in
 
-
-
 a dream. The self-sense (ahamkrti) arises through the influence of eternal avidyāand the world, though unreal, becomes full of anger, Jealousy etc. The mind itself is the world and the bondage is also the mind. So long as this mind is considered to be the same as the ātman the bondage continues to remain. Just as a piece of pure crystal, though itself free from all colours, assumes the colour of an object near it, the ātman in the proximity of the intellect (buddhi) and the sense-organs appears to be under the influence. The ātman, in the association of the mind created by its subtle body (**स्वलिङ्ग**), stays in this world powerless under the influence of the gunas and fulfils the desires of the world. The jīva creates the gunas and the mind, first of all, then the karma of various kinds white, red and black and thereafter the states of existence coesponding to them. The jīva then transmigrates in this worldunder the influence of these harmas. At the time of the dissolution, the jīva lives in the association of the eternal avidyāand the desires and the karmas and at the time of creation comes into being with them. As soon as one realizes that the ātman, which is real, blissful and fiee from duality, is different from the body, the sense-organs, the mind etc, he at once gets liberated \[IV 3 14-30\]
 
 \(3\) On the death of Daśaratha while Bharata is overwhelmed with grief Vaśistha consoles him as follows— you are aggrieved in vain for that which has been liberated. The ātman (soul) is eternal, unchangeable, pure and free from birth and death. The body is material, impure and subject to destiuction. There is, therefore, no reason to be aggrieved if you think over it calmly It is only the ignorant who is aggrieved on the death of a father, mother or son. In this unreal world of transmigration separation from the deal ones serves as the cause of vairāgya (renunciation) and conduces to peace and happiness. Birth in this world is followed by death, Death is, therefore, inevitable to those who are born. As birth and death of all beings are due to theirown karma the wise should not be aggrieved at the death of relatives. Crores of worlds have been destroyed, creations have disappeared many a time and even the oceans get dried. One ought not to have any
-
-
 
 attachment to that which is transient. The life is as transient as the drop of water on the shaky leaves. The individual attains the material body through the influence of his previous karma, and then one material body begets another. As one throws away an old dress and puts on a new oneso also the ātman abandons anold body and gets a new one.There is, therefore, no occasion forfeeling aggrieved'The ātman neither dies nor is born. It isfree from the sixstates of transmigration, is eternal and theconsciousness itself.
 
@@ -1233,11 +1131,7 @@ desire etc, arise out of ignorance, and birth, death, oldage etc, are also due t
 
  A-R-6
 
-
-
 brith, death, decay, increase, the retribution— all appeal to the jīva as pertaining to himself. These modifications are attributed to the ātman through illusory knowledge Just as a hotel seems lively on the influx of men but is silent in the absence, so also through illusion the diversity comes into existence but when the sense of self (ahamkāra) slumbers, the bondage no longer exists One who is free from the self-sense (ahamkāra) is liberated even in this life. Therefore, abandon this attraction because it is only a habit of the illusory mind, Resign your mind unto the Bhagavān Rāma, the god, the ātman of all creation, the ultimate Being under the illusory form of man \[VI 12 9-18\]
-
-
 
 V
 
@@ -1283,8 +1177,6 @@ complete in itself and is free from change and the limiting adjuncts. It is self
 एक एवाद्वितीयोऽयमाकाशवदलेपकः।  
 नित्यो ज्ञानमयः शुद्धः स कथं शोकमर्हति॥\[IV. 3.15-16\]
 
-
-
 (or the internal organs) and the consciousness that is reflected in the intellect. The Sāksinis free from the changes and limitations which the intellect undergoes[^50]**¹**
 
 [^50]: "आकाशस्य यथा भेदस्त्रिविधो दृश्यते महान्। जलाशये महाकाशस्तदवच्छिन्न एव हि। प्रतिबिम्बाख्यमपर दृश्यते विविध नभ'॥  बुद्ध्यवच्छिन्नचैतन्यमेक पूर्ण तथाऽपरम्। आभासस्त्वपर बिम्बभूतमेव त्रिधा चितिः॥  आभासबुद्धे कर्त्तुंत्वमविच्छिन्नेऽविकारिणि। साक्षिण्यारोप्यते भ्रान्त्या जीवत्वञ्च तथाऽबुधै॥[I 1105-107]  cf also VII 5.40.  अनाद्यविद्योड्गवबुद्धिबिम्बितो जीव. प्रकाशोऽयमितोर्यते चितः। आात्मा धियः साक्षितया पृथक् स्थितो बुद्ध्या परिच्छिन्नपरः स एव हि॥   The reflection of the cit in the intellect is the jīva, whereas ātman is the sāksin— the witness."
@@ -1314,8 +1206,6 @@ cf also VII 5.40.
 
  The reflection of the cit in the intellect is the jīva, whereas ātman is the sāksin— the witness.
 
-
-
 Rāmavarman has presented the right points of view inspite of the text.Rāmavarman says that— the gross adjunct is the gross material body of which the aggregate represents the Virāt, the subtle adjunct is the subtle body of which the aggregate represents the Hiranyagarbha, and causal adjunct is the Iśvara. The Jīva Is possessed of all these adjuncts and Iśvara is included within them because he penetrates into them. The fourth state, which transcends all these adjuncts, represents the Parameśvara In support of this interpretation Rāmavarman quotes the Vārttika[^51]which says— the god (Īśa) has three limiting adjuncts—Virāt, Hiranyagarbha and Kārana. The fourth state transcends all these
 
 [^51]: "Varttika is the commentary on the Brihadāranyakopanısadbhāsya by Sureśvara."
@@ -1331,10 +1221,6 @@ Rāmavarman has presented the right points of view inspite of the text.Rāmavarm
 
 ![](../books_images/U-IMG-1725951845Capture.JPG)
 
-
-
-
-
  From the scheme mentioned above, the author of the Adhyātma- Rāmāyana does not seem to draw any distinction between the Ātman and the Sāksın, for him both are the same. Rāma as Parātman is called the Sāksın ( **कर्त्ता त्व सर्वलोकाना साक्षी विज्ञानविग्रह VI 13.4**). The commentators explain it as the seer of all (Narottama— **साक्षी अन्यर्यामितयासर्वद्रष्टा।** Gopāla Cakravarti— **साक्षी द्रष्टा । ईक्षणमात्रेणैव कर्त्तृत्व तवेत्यर्थ।तथाच श्रुति'– ' तदैक्षत बहु स्याम्' इति।**)
 
  The Sāksın represents the fourth (turīya) state which transcends the limiting adjuncts ( **जाग्रत्स्वप्नसुषुप्त्याख्या ससृति र्या प्रवर्त्तते। तस्या विलक्षण साक्षी चिन्मात्रस्त्व रघूत्तम॥II 1 22**)
@@ -1349,11 +1235,7 @@ ijasa-Sāksin (the witness of the functions) and the state of deep sleep in whic
 
 —————————————————————————————————————————
 
-
-
 1. तत्रस्थूलसूक्ष्मोपाधिभ्या कारणोपाधे साक्षिणी भेदकमाह—जाग्रदिति। इन्द्रियादिवृत्तिमती जाग्रदवस्था विश्वसाक्षिणी। इन्द्रियवृत्त्यभावकालिकी अन्त करणवासनानिमित्तार्थोपलम्भरूपतैजससाक्षिणी स्वप्नावस्था।प्रज्ञासाक्षिणीनिद्रावृत्त्यतिरिक्तसर्ववृत्त्यभावरूपा सुषुप्तावस्था। \[Com. on II. 1. 22\]
-
-
 
 **चिन्मात्रः**(II. 1.22), **सत्यप्रज्ञानविग्रहः**(II. 7.97) etc and take him to be identical with the Brahman.
 
@@ -1386,8 +1268,6 @@ tma-Rāmāyana defines the Saksin almost in identical terms "The Saksin is uncon
 
  **2.** Cf. Radhakrishnan-Indian Philosophy, II p 601-603
 
-
-
 VI
 
 The Path of Salvation
@@ -1398,8 +1278,6 @@ The Path of Salvation
 
 \(1\) Rāma (as the parātman) resides in the heart of those who always worship him, of those who have controlled themselves completely and have learnt to consider all beings as equal. He feels happy in residing in the heart of those who worship him day and night after abandoning both Dharma and Adharma. The heart of those who are devoted to him, who repeat his name and are free from desires and the knowledge of duality, is the most suitable  
 abode of Rāma. Rāma resides in the heart of those who are devoid of self-sense (ahamkāra), anger and hatred and consider even gold as equal to a piece of stone on earth. The heart of those who have resigned their mind, intellect and action to Rāma, and are always full of satisfaction, is the most auspicious abode of Rāma. Rāma resides in the mind of those who neither hate the enemy no are overjoyed at the sight of friend and worship Rāma after considering all else as illusory. Besides, those who know that the material body is subject to six kinds of transformations whereas the ātman is free from them, that hunger, thirst, pleasure, pain, etc, are the products of the vital wind and the intellect (prāna-buddhi), those who are free from the effects of the world of transmigration, those who discover Rāma, the consciousness, the sole reality,
-
-
 
 the free being which permeates all— within all, those who have strong faith in Rāma through constant practice, those who have given themselves up entirely to the worship of Rāma and have dissipated then sin by repeating the name of Rāma— are all dear to Rāma who is present within them along with Sītā[^55]**¹**. \[II 6 51–59\]
 
@@ -1435,8 +1313,6 @@ the free being which permeates all— within all, those who have strong faith in
 
 **A-R-7**
 
-
-
 the pleasure and pain are of equalvalue— who have resigned all then actions to Rāma and are fixed in Brahman— practised in religion and are always satisfied with whatever they get One, who gets the association of good men, feels pleased to hear the story of Rāma, soon gets devoted to the eternal Rāma. When this feeling of devotion arises, large and clear vision is obtained and the path of liberation opens up before the devotee. Right devotion in Rāma is the characteristic of love[^56]**¹**\[III 3 30-39\]
 
 [^56]: " राम माया द्विधा भाति विद्याऽविद्येति ते सदा। प्रवृत्तिमार्गनिरता अविद्यावशवर्त्तिन।  निवृत्तिमार्गनिरता वेदान्तार्थविचारका॥३०॥  त्वद्भक्तिनिरता ये च ते वै विद्यामया स्मृता। श्रविद्यावशगा ये तु नित्य ससारिणश्च ते।  विद्याऽभ्यासरता ये तु नित्यमुक्तास्त एव हि॥३१॥  लोके त्वद्भक्तिनिरतास्त्वन्मन्त्रोपासकाश्चये।विद्या प्रादुर्भवेत् तेषा नेतरेषा कदाचन॥३२॥  अतस्त्वद्भक्तिसम्पन्ना मुक्ता एव न सशय। त्वद्भक्त्यमृतहीनाना मोक्ष स्वप्नेऽपि नो भवेत॥३३॥  कि राम बहनोक्तेन सार किञ्चिद ब्रवीमि ते। साधुसङ्गतिरेवात्रमोक्षहेतुरुदाहृत॥३५॥  साधव समचित्ता ये नि स्पृहा विगतैषणा । दान्ता प्रशान्तास्त्वद्भक्ता निवृत्ताखिलकामना।  दूष्टप्राप्तिविपत्त्योश्च समा सङ्गविवर्जिता॥३५॥  सन्न्यस्ताखिलकर्माण सर्वदा ब्रह्मतत्परा। यमादिगुणसम्पन्नाः सन्तुष्टा येन केनचित्॥३६॥  सत्सङ्गमो भवेद यहिंत्वत्कथाश्रवणे रति। समुदेति ततो भक्तिस्त्वयि राम सनातने॥३७॥  त्वद्भक्तावुपपन्नायां विज्ञान विपुल स्फुटम्। उदेति मुक्तिमार्गोऽयमाद्यश्चतुरसेवित॥३८॥  तस्माद्राघव सद्भक्तिस्त्वयि मे प्रेमलक्षणा। सदा भूयाद्धरेसङ्गस्त्वद्भक्तेषु विशेषत.॥३८॥"
@@ -1470,8 +1346,6 @@ I. राम माया द्विधा भाति विद्याऽ�
 त्वद्भक्तावुपपन्नायां विज्ञान विपुल स्फुटम्। उदेति मुक्तिमार्गोऽयमाद्यश्चतुरसेवित॥३८॥
 
 तस्माद्राघव सद्भक्तिस्त्वयि मे प्रेमलक्षणा। सदा भूयाद्धरेसङ्गस्त्वद्भक्तेषु विशेषत.॥३८॥
-
-
 
 worship, the seventh— the uttering of mantras relating to me and the eighth and the ninth consist in paying greater respects to those who are devoted to me, in finding myself present in all beings, in not getting attached to the matters of the external world and in practising self-control. These are the nine kinds of the practice of Bhakti. In all beings, either male or female, either of the higher order or the lower, can arise the Bhakti, characterized by higher love (**प्रेमलक्षणा**). As soon as the Bhakt arises one can know the secret of me (Rāma) One who succeeds in attaining this know ledge gets liberated even in this life. Therefore, Bhakti is the most certain cause of Moksa. If one succeeds in practising the first Sādhana (of the nine Sādhanas), the success in others comes gradually and naturally. The Bhakti is, therefore, the same as the Mukti. As you come with a spirit of devotion towards me, you have been able to see me and thus attain the spiritual liberation (Mukti[^57])**¹**\[III. 10 20-29\]
 
@@ -1521,8 +1395,6 @@ worship, the seventh— the uttering of mantras relating to me and the eighth an
 **यस्मान्मद्भक्तियुक्ता त्व ततोऽह त्वामुपस्थित।  
 इतो मद्दर्शनान्मुक्तिस्तव नास्त्यत्रसंशयः॥२८॥**
 
-
-
 One should not have any attachment to the material body. Hatred should be abandoned, Abuse of others should be patiently brooked, one should be straight in all dealings and devoted to a good guruin mind, speech and body. Purity, both external and internal, steadfastness in religious acts, severity in regard to thought, speech and act, want of attachment to objects, want of self-sense (ahamkāra), the realisation of the truth about birth, old age etc, want of attachment and affection for wife and children, calmness of mind in regard to good and evil, spiritual devotion to Rāma, frequentation of solitary places, dissociation with ordinary people of the world, enthusiasm in acquiring a knowledge of the ātman and research after the true sense of the Vedānta— all these produce (right) knowledge. Rāma, the conscious illumined self, which is ever pure, is different from the intellect, the vital strength, mind, body, self-sense etc (**बुद्वप्राणमनोदेहाहड्कृतिभ्यो विलक्षणः**). That kind of knowledge, which enables one to know him is the vijñāna. Vijñāna leads to the direct perception of the ātman[^58]**¹**. As soon as the knowledge of unity (between the Jīva and the ātman) is attained, one realises at once that the sense of differentiation is due to avidyā.He at once merges into the Paramātman along with his gross and subtle adjuncts (**कार्यकारणै**). Such a state is called the Mukti o spiritual liberation Such is the nature of moksa, jñāna, vijñāna and vairāgya.
 
 [^58]: " येन ज्ञानेन सर्वेत्ति तज्ज्ञान निश्चितञ्च मे। विज्ञानञ्च तदैवैतत साचादनुभवेद यथा॥—III. 4. 37."
@@ -1531,19 +1403,11 @@ One should not have any attachment to the material body. Hatred should be abando
 
 [^59]: "अतो मद्भक्तियुक्तस्य ज्ञान विज्ञानमेव च। वैराग्यञ्च भवेच्छीघ्र ततो मुक्तिमवाप्नयात्—III 4. 48."
 
-
-
-
-
 \(5\) After being consecrated according to rules laid down in the Grhyu aphorisms relating to one's own religious order (āśrama), one should get the mantra fiom a good guru in the right spirit of devotion and should worship Rāma in the way indicated by him. Rāma should be worshipped either within the heart, or within the fire, image, the sun or the śāligrāma stone. The devotee should bathe himself early in the morning in order to purify his body and then perform his sandhyārites after making his body with clay by uttering the mantras of the Vedas and the Tantras. Then he should enter into a proposition (samkalpa) for success and worship the guru in a devoted spirit. After washing the (śālıgrāma) śilā with water and cleansing the image, one should worship Rāma in them with fragrant flowers suitable for the woiship of Rāma, Such worship leads to (spiritual) success In order to worship Rāma one should be sincere at heart and devoted to him. The images ought to be decorated with ornaments. While woishipping Rāma in the fire one should offer butter, but in woishipping Rāma in the sun an altarshould be used Even water offered in faith is enough to please Rāma, in that case expensive offerings become superfluous. After collecting the things necessary for the worship one should prepare a seat either with silk (cela) on the deer skin (ajina) orkuśa grass. On being seated thereon in front of the god with a pure mind, one should practise pānāyāma with mantras (**ततो न्यास प्रकुर्वीत मातृकाबहिरान्तरम्**) Then one should perform— (I) the uttering of the 24 names of Rāma beginning with Keśava, (II) the tattvanyāsa[^60]."), (III) (Rāma)-mūrti-pañjaranyāsa, (IV) mantranyāsa.
 
 [^60]: " Rāmavarman says that the details of these practices are to be found in the Nārada-pañcarātra and other works of the School (नारदपञ्चरात्रादौ स्पष्टः
 
  The sacred pot filled with water should be placed on the left, the offerings of flower and other things should be made on the right and the four pots for arghya, pādya, madhuparka and ācamana should be placed in the middle. One should meditate on that form of supreme consciousness which is called Jīva within the
-
-
-
-
 
 heart as enveloping oneself. That form of consciousness also should be invoked in the images for worship. It should be woishipped with pādya, arghya, ācamana, cloth etc, according to one's own means with a sincere heart, If the means permit, Karpūra, Kunkuma, Aguru, Candana, fragrant flowers etc, should be used in the Worship. The worship of the ten coverings as prescrbed by the Āgama \[comm Agastyasamhitā\] should be performed with various things—
 
@@ -1559,21 +1423,15 @@ rredya etc, and in sincere faith. The Homa should be carefully performed in a Ku
 
  **I.** The mūlamantra is explained in the commentary of Rāmavarman as go **मूलमन्त्रेणागमक्तेन,** it seems to mean the bīja-mantra of the sacrificer. In case the sacrificer has no bīja-mantra he should use the purusa-sūkta as the mantra.
 
-
-
 for themselves. The self-sense brings into existence three kinds of bodies— low, high and middle (**अधमोत्तममव्यमा**) relating to the three gunas— tamas, sattva and rajas, which serve as the main cause of the preservation of the world. The creative desire under the influence of tamas leads to sinful acts and a consequent rebirth amongst the baser beings. The creative desire under the influence of sattra leads to higher knowledge and consequently to the bliss of salvation without delay. The creative desire under the influence of rajas leads to the worldly ways and brings about attachment for wife, childienetc.
 
 These three kinds of samkalpas are, however, to be abandoned and all desires to be employed for the dissipation of the self-sense. All sense perceptions are to be given up, the mind to be controlled by the mind and the proposition (samkalpa), both internal and external, are to be dissipated. One cannot attain salvation even by practising asceticism for a thousand years in any of the three worlds, if the samkalpa is not stopped.Therefore, strenuous efforts should be made to put an end to the proposition, and attain the purest bliss which is not impeded by anything and is not subject to change. All functions of the sense organs are tied to the stalk of samkalpa. When this stalk is broken the senses disappeal When the samkalpa dies the jīva becomes identical with Brahma. Therefore, destroy at once the net of illusion, attain the best spiritual truth and the place which alone is true and let the senses sleep so that bliss may increase unhampered \[VII 6 37-51\]
 
 \(7\) Rāma tells his mother Kauśalyā— in formertimes I spoke about the three ways leading to salvation (moksa)—kriyāyoga, jñānayoga and eternal bhaktıyoga. Of these the last is easy and piactised by many. Bhakti is of three kinds in order of the threegunas— sattva, rajas and tamas. That devotee of mine who has hatred \[for enemy\], pride \[in regard to the effect of worship performed by him\], Jealousy \[in regard to the good qualities of others\] and sense of distinction \[between fiend and foe\] is a devotee of the tāmasa class. A rājasa devotee is he who is desirous of getting retribution, fond of \[worldly\] enjoyment, desirous of wealth and fame and possesses a sense of distinction
 
-
-
 in regard to the objects of worship but worships me. A sāttvika devotee is he who resigns all his actions to me in order to kill them and performs actions simply as duties. A still higher kind of bhakti-yoga is that which is free from the gunas. A devotee practising this pure bhaktı-yoga diverts all the functions ceaselessly towards me just as the waters of the Ganges pour into the ocean. He does not wait for any retributions and has no sense of distinction. The devotion (bhakti) of this type bings sālokya (a residence with me), sāmipya (association with me), sārstı (sameness with me), and sāyujya (identity with me) to the devotee but my devotee does not accept all these without worshipping me. This is the highest kind of yoga in the path of devotion. The identity with Brahman is attained by it when he transcends the three gunas. Man attains me at once— by performing his daily duties without the expectation of the result, by practising Karmayoga and abandoning hatred and by various other acts towords me— (i) worshipping me by pilgrimage, praise and meditation, (ii) meditating me in all beings, (iii) abandoning desires and falsehoods, (iv) paying respects to good men, (v) showing kindness to the poor, (vi) entertaining fiendship with equals, (vii) practising self-control, (vii) listening to the preachings of Vedānta, (ix) repeating my name, (x) abandoning self-sense (ahmkāra) through sincerity and the company of good men, (xi) entertaining desire in a pure heart for a pure religion, (xii) listening to the talks or the merits of Rāma. Thus as the smell is called away by an from its own place to the nose, so also the Citta through the practice of yoga enters into the ātman.
 
  Rama continues— I am alone the ātman in all the beings I can not be pleased with different kinds of things carefully offered by those who have no consideration for other beings.So long as the people do not find me in themselves and in otherbeings they continue to worship my images. He who makes adistinction between self and others is sure to be destroyed by his sense of distinction and fear. Therefore, one ought to worship me by cultivating friendliness and paying respects in a sincere mind to
-
-
 
 all beings and by discovering me in all of them. The wise respect all beings in then minds and find me in them in the shape of Jīva, the pure consciousness. Therefore no distinction should be made between the Jīva and Iśvara, salvation may be attained either through Bhaktiyoga orJñānayoga \[VII 7 50-73\]
 
@@ -1585,10 +1443,6 @@ all beings and by discovering me in all of them. The wise respect all beings in 
 
  The object of this devotion is not the abstract Brahman but a personal god who is no other than Rāma himself. Rāma, though identical with the Brahman, the universal ātman— the reality, consciousness and the bliss (sat, cit, ānanda), appeals with a form. This form, though illusory, is, we are told, assumed by Rāma for the benefit of his devotees who may approach him through that symbol As an object of devotion Rāma appears not only as the son of Daśaratha— the enemy of Rāvana but also as the Virāt, the Hiranyagarbha and Nārāyana Visnu. As Virāt he encompasses the whole universe, all other gods— Brahmā, the sun and the moon,
 
-
-
-
-
 Varuna etc, form the different parts of this body. When he is Nārāyana, Brahmā, the creator of the world, is born from the lotus arising from his navel and as Visṇu he appears with four hands. Under the latter aspect Sitā appears as Laksmīby his side, Laksmana as the primordial serpent Śesa forming his bed, and the two other brothers as the implements (Śankha and Cakra) in his hands If the devotee is incapable of conceiving these forms of the God directly he may approach him through his images or through his symbol— the sacred stone called Śāligrāma.
 
  The devotion (bhakti), however, cannot arise all at once. There is a long preparatory stage which involves the practice of austerities, meditation, repetition of the name of the God, cultivation of the company of men devoted to the God and such other acts which produce bhakti.Formal worship also is necessary, Either the images of the god on his symbol the Śāligrāma-śilāshould be Worshipped in all details prescribed by the text like Agastya- samhitā, Nārada-pañcarātra etc. Sacrifice (homa) also may be performed according to the prescription of Āgamas (probably the pañcarātra-āgamas)
@@ -1596,8 +1450,6 @@ Varuna etc, form the different parts of this body. When he is Nārāyana, Brahm�
  Though great importance is attached to the devotional path to salvation there are some passages in the text which speak of the path of knowledge (Jñāna-yoga) as the only path.For example, in the Rāmagītā\[verses 9-16, cf infra\] it is clearly said that ignorance is the sole cause of bondage. The ignorance can be removed only by knowledge (vidyā). It is not correct to say with various authorities that action (kriyā) is necessary for the removal of ignorance. Action only produces attachment and is an impediment of knowledge (**तस्मात् त्यजेत् कार्यमशेपतः सुधीर्विद्याविरोधान्न समुच्चयो भवेत्**) There is, therefore, a contradiction which it is difficult to explain away.
 
  Besides these means of salvation— the author of the Adhyātma- Rāmāyana speaks of another, namely the yoga Generally speaking, yoga means the unity of the jīva with the Brahman and this unity can be attained, as we have seen, through bhakti
-
-
 
 (devotion), jñāna (knowledge) and also though kriyā (action) according to some authorities. Hence these also are Yogas― Bhaktiyoga, Jñānyoga and Kriyāyoya. But the word is also used in the text in a more technical sense, particularly in three places—
 
@@ -1627,11 +1479,7 @@ said that by retaining the vital wind within, by stopping the functions of all t
 
 —————————————————————————————————————————
 
-
-
 (1) Of the different commentators Rāmavarman alone comments on this passage in detail as follows **निश्चयबुद्ध्याहठयोगेनावश्य भगवन्त ज्ञास्यामीत्येवरूपेण कुम्भकेन हृदि प्राणापानौ रुद्ध्वासञ्चारहीनौ कृत्वा।**There are many verses in the text in which the yogins, yoga etc, are spoken of— cf **योगिध्येय, योगाभ्यासैर्भावितचेत सहचारी, तपोयोगयोगीशभावाविभाव्य, योगभाजामदूरे विभान्तम्**—(VI 13 12-27 ), योगिनस्त्वाविचिन्वन्ति— (VII. 2 66), etc.
-
-
 
 VII
 
@@ -1642,8 +1490,6 @@ The Ramagita
  In the present edition the Rāmagītā consists of 62 veises. The last verse is not found in the text translated in the series of The Sacred Books of the Hindus (Paninioffice— Allahabad) Narottama does not know more than 61 verses Farquhar (Religious literature of India, p. 250) speaks of the Rāmagītā as consisting of 56 verses but this seems to be a mistake because from his reference in the bibliography of his book it appears that he utilised the translation published by the Panini office. In this translation the Rāmagītā consists of 61 verses.
 
  The Rāmagītā contains mainly an exposition of the Vedantic doctrines already treated. In this connection it discusses the two
-
-
 
 points of view— that of the Samuccayanādins and that of the Siddhāntins. The former believe in the efficacy both of action and knowledge (karma and vijñāna) whereas the latter take vijñāna to be the only means of salvation. The Rāmagītāadvocates the Siddhāntin viewpoint As Rāmagītāis the most interesting part of the text a translation of it is given below.
 
@@ -1665,11 +1511,7 @@ Translation
 
 —————————————————————————————————————————
 
-
-
 I. Narottama reads **क्षितिपालभूषणम्** and takes it to be an adjective qualifying **विज्ञानम्** which is absurd. I follow the reading of Rāmavarman.
-
-
 
 7\. One should, first of all, perform the religious acts as prescribed for the \[social\] order to which one belongs **(स्ववर्णाश्रमवर्णिताः)**and thus attain the purity of mind. After having observed them and thus being advanced in the Sādhana one should seek instruction from a good guru in order to acqure a knowledge of the self.
 
@@ -1682,8 +1524,6 @@ I. Narottama reads **क्षितिपालभूषणम्** and takes i
 11-12. \[According to the Samuccayavādins\] the action as well as the knowledge capable of bringing about spiritual uplift **(विद्या पुरुषार्थसाधनम्)** are lauded by the Vedic texts. Therefore, devotion to action is recommended because it helps the (rise of) knowledge. The dement of those who neglect the karma is also spoken of by the Śrūti— therefore, those who are desirous of attaining salvation should perform actions. But knowledge by itself causes the performance of action, it does not depend on anything else.
 
 13\. \[The Samuccayavādins say that\] it is not so, The sacrifice which leads to sure merit involves the performance of subsidiary rites In the same way knowledge along with Karma prescribed by the authoritative literature only can bring about salvation.
-
-
 
 14\. But what these controversialists \[i. e, Samuccayavādins
 
@@ -1705,8 +1545,6 @@ I. Narottama reads **क्षितिपालभूषणम्** and takes i
 
 22\. (To the Samuccayavādins)— you who believe that sacrifice is as effective as vidyā, do not cite any example in its support Consequently those who are attached to manifold kriyā perform sacrifice whereas those who are attached to knowledge follow a different path.
 
-
-
 23\. Those who are possessed with the self-sense always fear lest they commit a sin, but those who have known the reality do not entertain any such fear. Therefore, the wise should carefully renounce the action prescribed in an unperplexed mind.
 
 24\. One ought to entertain faith in the saying of the Guru— tattvamasi("Thou art that"), attain purity of mind through his favour, know that the ātman and the jīva are identical and thus remain as unmoved as the mountain.
@@ -1727,8 +1565,6 @@ I. Narottama reads **क्षितिपालभूषणम्** and takes i
 
  (1) Narottama reads **एकात्मवत्त्वाज्जडता न सम्भवेत्** which does not yield a consistent meaning. The reading of Rāmavarman— **जहती न सम्भवेत** is the correct reading For lakṣanā, vide Kāvyaprakāśa, CSS vi, Analysis.
 
-
-
 arises from the combination of mind, intellect, the ten senses[^66]^(**1**), the vital wind and the elements in then initial stage, it leads to the enjoyment of pleasure, pain etc, by the subject, the wise know it.
 
 [^66]: " Narottama reads मनोबुद्धिरहक्रियेन्द्रियै, but the reading of Rāmavarman— दशेन्द्रियै gives better sense."
@@ -1747,10 +1583,6 @@ arises from the combination of mind, intellect, the ten senses[^66]^(**1**), the
 
 36\. If the ātman is full of consciousness and blissful then why does the world of transmigration appeal as full of misery
 
-
-
-
-
 \[even in its presence\]? It appears as such through ignorance and attachment but it disappears at once with the rise of its opposite— the knowledge.
 
 37\. The act of mistaking one thing for the other is called adhyāsaby the learned. It happens when the rope which is not a snake is mistaken for the snake or the world for the Īśvara.
@@ -1766,8 +1598,6 @@ arises from the combination of mind, intellect, the ten senses[^66]^(**1**), the
 42\. After getting an insight into vidyāby studying the Vedas with the Guiu and after perceiving that one's own ātman is identical with the (param)ātman and is free from the limiting adjuncts one ought to abandon all that is matter standing in the way (of the realisation) of the ātman.
 
 43\. One thus perceives that one is the manifestation of the ātman and the only reality that is unborn, that which is pure and shines spontaneously, that which is the pure knowledge, free from impurity, complete, blissful and free from change.
-
-
 
 44\. He also perceives that he is ever free, full of power that is inconceivable, the knowledge that transcends the senses, the ātman that does not change, the limitless that is meditated on, night and day, by the wise, learned in the Vedas.
 
@@ -1787,11 +1617,7 @@ arises from the combination of mind, intellect, the ten senses[^66]^(**1**), the
 
 —————————————————————————————————————————————————————
 
-
-
 **1.** कारकै is explained by Narottama as कर्त्तृभि and by Rāmavarman as देहान्तरप्रापककर्मभि. The latter reads it along with the principal sentence. It is, however, clearly a part of the secondary sentence— कारकै रसायन यद्वदुपासित रज’।
-
-
 
 consciousness— the cause, and contemplate that you are he— the ultimate Brahman (**सोऽह पर ब्रह्म**). Thus can one attain liberation, become free from the limiting adjuncts, become free with vijñāna as the only means of perception.
 
@@ -1809,8 +1635,6 @@ consciousness— the cause, and contemplate that you are he— the ultimate Brah
 
 58\. So long as one does not realise that all is parātman one should be devoted to me. I dwell day and night in the heart of him who has deep faith in and devotion for me.
 
-
-
 59\. This is the essential secret ascertained and collected from the Vedas by me and communicated to you out of affection. He, who, with the power of discrimination, discusses it, gets at once released from the sins.
 
 60\. My brother, as all, that is seen, is nothing but illusion, remove all these from your mind, purify your mind by fixing it on me and be happy, blissful and fiee from impurities.
@@ -1818,8 +1642,6 @@ consciousness— the cause, and contemplate that you are he— the ultimate Brah
 61\. He, who worships me—either as one who is free from the attributes and one that transcends them or as one who possesses them gets united with me. He purifies the three worlds with the dust of his feet like the sun.
 
 62\. This is all the vyñāna, the essence of the Vedas, sung by me of whom the activities can be known from Vedānta. He, who studies it with faith, with devotion to the Guru, attains me if he has faith in my words.
-
-
 
 VIII
 
@@ -1835,8 +1657,6 @@ The Adhyātma-Rāmāyana and the work of Vālmīki
 
  —Chap. 9.— Vaśistha describes to Bharata the real nature of Rāma— Rāma is Nārāyaṇa, the Supreme Brahman, Sitā is Yoga-
 
-
-
 māyā, Laksmana is Śesa, (39 ff). Kaikeī, who had been brought to the forest by Bharata apologises to Rāma for her previous conduct and recognizes Rāma to be the lord of the world, Visṇu in person (50 ff).
 
  All these are not found in the work of Vālmikī.
@@ -1849,8 +1669,6 @@ māyā, Laksmana is Śesa, (39 ff). Kaikeī, who had been brought to the forest 
 
  This differs from what is narrated by Vālmikī In his work Rāma does not foretell anything to Sītā and it is also the
 
-
-
 real Sītā who is carried away by Rāvana. Rāvana does not treat Sītā there with so much of respect. Amongst the commentators Rāmavarman is very frank in his remarks on these divergences. He says that that illusory Sītā was introduced by some devout poet who could not stand the ill treatment of the real Sītā by Rāvana. **\[मन्ये सकलभक्तजनशिरोमणि. सीताया शिशाविव स्नेहसौहार्दवान् कविस्तस्या राक्षसपीडनाद्यसहमान एव नवीनमिम पन्थानमाससाद—I. 1. 98\]**
 
  Kiskindhyā-kānda— Chap 6.— The story of Svayamprabhā's going to Vadarivana on the bidding of Rāma is not found in the Rāmāyana of Vālmīki. In the work of Vālmīki Svayamprabhā simply entertains the apes and asks them to go back to Kıskındhyā. She herself does not at all come to Rāma to express her great regaid for Rāma.
@@ -1862,8 +1680,6 @@ real Sītā who is carried away by Rāvana. Rāvana does not treat Sītā there 
  —Chap 3.—Hanūmat while first appealing before Sitā assumes a small size— like that of a sparrow with a red face and yellow body of a monkey **(कलविङ्कप्रमाणाङ्गोरक्तास्यः पीतवानरः)** In Vālmīki’s Rāmāyana there is nothing like this description.
 
  Lankā-kandā—Chap. 6— On hearing from the spies that Hanūmat has been sent to bring the great medicine for the purpose of reviving Laksmana. Rāvana goes to the house of Kālanemi and asks the latter to go at once in the form of a sage to delude Hanūmat. Thereupon, Kālanemidelivers a long speech and instructs Rāvana, to return Sitā to Rāma, the kingdom to Vibhisana and to retire to the forest. He also dwells on the divine character of Rāma. Ravana threatens Kālanemi to take his life Kālanemi then acts according to his bidding.
-
-
 
  In the Rāmāyana of Vālmīki neither does Rāvana go to the house of Kālanemi nordoes Kālanemi deliver a speech on the spiritual character of Rāma. Kālanemi retires immediately to the Gandhamādana hill to delude Hanūmat. The name of the hill in the Adhyātma-Rāmāyana is given as Drona hill.
 
@@ -1882,8 +1698,6 @@ The Commentators
  Of the three commentaires, that of Rāmavarman is the best and the most elaborate. From his commentary it appears that Rāmavarman was well read and a very able exponent of the pure
 
  A-R-10
-
-
 
 monistic views to which he adheres Some of his observations on the variations of Adhyātma-Rāmāyana from the work of Vālmīki are very critical. The commentary of Narottama is poor. He adheres to the bhakti-mārga and advocates the philosophy of acintya-bhedābheda. Narottama seems to be the same person as Narottama-Dāsa who was a younger contemporary of Caitanya and his follower. Narottama-Dāsa was born in a place called Kheturi in Rajsahi (Bengal). He renounced his state and went to Vrndāvana where he became the disciple of Lokanātha-Goswāmī(Cakravartī). He stayed in Vrndāvana for some years in the company of the Goswāmins and returned to Kheturi in 1581 A. D. (Śak 1504) on the advice of his preceptor Lokanātha composed a commentary on the Rāmāyana of Vālmiki (ed CSS 2) and it is possible that it was under his inspiration that Narottama undertook to comment on the Adhyātma-Rāmāyana Besides this commentary Narottama has left behind a fairly large number of works. In his commentary Narottama uses a number of Bengali words.
 
@@ -1905,8 +1719,6 @@ monistic views to which he adheres Some of his observations on the variations of
 
  Narottama also quotes from the Bhakti-rasāmartasındhu of Rūpagoswami whom he had probably known personally. The commentary of Narottama was probably witten towards the middle of the 16th century and seems to be the oldest commentary of the Adhyātma-Rāmāyana.
 
-
-
 Sources of the text and further evidences  
 on the date of its composition.
 
@@ -1925,10 +1737,6 @@ on the date of its composition.
 
  The fact remains that the followers of Rāmānanda hold the book in great esteem. Tulasi Dāsa (1532-1623) utilised the book for his great work Narottama-Dāsa comments on the work in about the same period. The Marathi poet Eknath who died in 1608 A D calls it a modern work. The work istranslated in Malayalam and Kanarese in the 17th century.
 
-
-
-
-
  These point out to the lowest terminus of date. The work was certainly composed before the middle of the 16th century. The earlier terminus can not be much earlier.It seems to be settled by the mention of Vrndāvana in the text (VI 13 16)
 
 **वृन्दारण्ये वन्दितवृन्दारकवृन्द वन्दे राम**—
@@ -1944,8 +1752,6 @@ Vrndārakas or the devotees of Vrndāvana seems to be a clear reference not to t
  The work, therefore, was composed sometime between 1490 and 1550 A.D. This agrees with the date which we have already assigned to the work from other evidences. Farquhair suggests that the work was composed about 1300 A. D, but he depends simply on traditions of the Ramaite sect which are not otherwise corroborated.
 
 —————————————————————————————————————————
-
-
 
 (1) Cf Caitanyacarıtāmrta, III ii— Caitanya's instruction to Rupa—
 
@@ -1964,8 +1770,6 @@ Quoted in C caritamrta, II 24
 
  It should be also noted that in the Caitanyacarıtāmrta which is a work of 1581 A D, there is no quotation from the Adhyātma-Rāmāyana although the work refers to the Yogavāśistha and the work of Vālmīki. It probably shows that the Adhyātma— was not yet a popularly known work.
 
-
-
 IX
 
 Conclusion
@@ -1981,8 +1785,6 @@ Conclusion
 
  As this is out of tune with the main trend of the work which is purely heroic the whole canto and similar other verses have been
 
-
-
 supposed to be later interpolations. The work probably suffered in this way at the hands of the Ramaites when the Rāma cult had been established.
 
  The erudite attempt to give a monistic turn to the tale of Rāma and Sitā had no such success as the popular songs of Tulasidāsa and other devotional writers. The verses of the Adhyātma-Rāmāyana, though still zealously read for religious purposes, do not arouse those deeper feelings in the hearts of the devotees which the songs of Tulasidāsa do. The age of dry philosophical enquiries as to the real nature of the god was long past and the heart of the average Hindu felt more at ease with the conception of a more concrete personal god— Rāma.
@@ -1993,8 +1795,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 **}**
 
                    **P C. Bagchi**
-
-
 
 अध्यात्मरामायणस्य विषयानुक्रमणिका
 
@@ -2015,8 +1815,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  शिवसकाशे पार्वत्या सङ्क्षेपतःश्रुतस्य रामचरितस्य विस्तरत. श्रवणेच्छाप्रकाश. (४५)। शिवेन 'मत्सकाशे रामेणैवोक्तपूर्वं तापत्रयविनाशपटीयोऽध्यात्मरामायणमद्य ते कथयिष्यामी’त्य-
 
-
-
 भिधाय रामायणकथायाः प्रारम्भ. (४६)। तत्राऽऽदौ रावणादिनिशाचराणां पीडया पीडिताया गोरूपधराया धराया. सुरमुनिभिः सार्द्धं ब्रह्मसकाशगमनम्, रुदत्या च तया स्वव्यसनविनिवेदनम् (४६)। जगदाधारभूताया धराया वचनं श्रुत्वा देवैपरिवृतस्य पितामहस्य क्षीरसमुद्रतीरे विष्णुसकाशगमन तस्य स्तुतिश्च (४६-४७)। हरेराविर्भावः (४७)। श्रिया भूम्या 'चावस्थितं शङ्खचक्रगदापद्मधारिणं गरुडासनं भगवन्तमवलोक्य ब्रह्मणः पुन स्तव (४८- ५१)। स्तुत्या परितुष्टस्य भगवत. 'कि करिष्यामीति ब्रह्मणि प्रश्नः (५१)। 'पौलस्त्यतनयो रावणः मद्दत्तेनैव वरेण दर्पितो निरन्तरमेव देवमनुष्यादीन् पीडयति तस्मै च मानुषेण ते मरणं नान्येनेति मया प्रदत्तो वर, अतस्त्वं मानुषो भूत्वा त जही' ति ब्रह्मप्रार्थना (५१-५२)। एवमाकर्ण्य 'रामभरतलक्ष्मणशत्रुघ्नरूपेणाऽऽत्मानं चतुर्धा विभज्य दशरथरूपिण. पूर्वजन्मार्जिततप प्रभावलब्धवरस्य कश्यपस्य गृहे उत्पत्स्यामहे, योगमायाऽपि जनकगृहे सीतेति नाम्ना उत्पत्स्यते, तत सर्वन्तेऽभिलषितं सम्पादयिष्याम' इति ब्रह्मणे विष्णोराश्वासप्रदानम् (१२-५३)।
 
  मनुजावतारमङ्गीकुर्वतो नारायणस्याऽऽश्वासेनाऽऽश्वस्तस्य प्रजापतेर्देवान् प्रति वानरादिसर्गाज्ञाप्रदान स्वभवनगमनञ्च (५३)। पितामहादेशेन देवानां वानरादिरूपधारण भगवदागमनप्रतीक्षणञ्च (५३)।
@@ -2028,8 +1826,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 **चतुर्थाध्यायस्य \[७६-८६\]**
 
  रामदर्शनार्थमयोध्यायां कौशिकस्याऽऽगमनम् (७९-८०)। दशरथेन सत्कारपूर्वक मुनेरागमनकारणस्य जिज्ञासा (८०-८१)। विश्वामित्रस्य यज्ञविघ्नविनिवारणाय रामानयनेच्छाविज्ञापनम् (८१)।
-
-
 
 अप्राप्तवयस्कस्यरामस्य प्रेषणमनिच्छतो दशरथस्य वशिष्ठसकाशे कर्त्तव्यविषयक प्रश्न, तदुत्तरव्याजेन वशिष्ठस्य रामादीना परमात्मत्वख्यापनम्, सीतारूपया प्रकृत्या सह मेलनायैव कौशिकस्याऽऽगमनमिति च ज्ञापनम् (८४)। विश्वामित्रेण सह रामलक्ष्मणयोर्गमनम् (८४)। पथि विश्वामित्रेण क्षुत्पिपासादिविनिवर्त्तनकारिण्योर्बलातिबलानाम्न्योर्विद्ययो रामाय प्रदानम् (८५)। रामेण ताडकाविनाश. (८६)।
 
@@ -2044,8 +1840,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 सप्तमाध्यायस्य \[११७-१२८\]
 
  दशरथस्य दुर्निमित्तादिदर्शनम्, वशिष्ठेनाऽऽश्वासनम् (११७)। जामदग्न्यागमनम् (११८), तस्य दर्पहानिः (११९)। तेन रामस्य स्तुतिः, जन्मवृत्तकथनमुखेन तत्स्वरूपकीर्त्तनञ्च (११९-१२७)। रामादीनामयोध्याप्राप्ति। युधाजिता सह दशरथप्रेषितयोर्भरतशत्रुघ्नयोकेकयराज्यगमनाय प्रस्थानम् (१२७- १२८)।
-
-
 
 अयोध्याकाण्डे
 
@@ -2065,8 +1859,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  रामाभ्युदयार्थमादिष्टप्रकृतेर्दशरथस्य स्वभवनप्रवेश (१५८)। तत्र कैकेयीमदृष्ट्वादासीमुखेन तस्याः कोपभवनप्रवेश विज्ञाय भयसन्त्रस्तस्य तस्य कोपभवनप्रवेशः (१५९)। कैकेयीं कोपपरवशां भूषणादिविहीनाञ्च दृष्ट्वा दशरथस्य तत्सन्तोषसम्पादनप्रयत्न. (१५९-१६०)। कैकेय्या रामनिर्वासनस्य भरताभिषेचनस्य च प्रार्थनम् (१६०-१६१)। वरद्वयश्रवणेन राज्ञो भूमौ पतनम्,
 
-
-
 प्रलाप, तथाविधवरग्रहणव्यवपायत कैकेयी निवर्तयितु प्रार्थना, दृढव्यवसायां तां ज्ञात्वा मूर्च्छा च (१६१-१६३)। प्रभाते अभिषेकदर्शनेच्छूनां पौराणामौत्सुक्यवर्णनम् (१६३-१६४)। राज्ञोऽदर्शनेनोत्कण्ठितस्य सुमन्त्रस्य राजभवनद्वारगमनम्, तत्र राज्ञोऽवस्थाविपर्ययमवलोक्य कैकेयीं प्रति तत्कारणजिज्ञासा (१६४)। दशरथस्य सुमन्त्रं प्रति रामानयनादेश. (१६५)। सुमन्त्रवाक्येण रामस्य पितृसन्निधावागमनं पितृचरणवन्दनञ्च (१६५)। राजयोषितां रोदनं श्रुत्वा वशिष्ठस्यापि तत्रागमनम् (१६६)। राजाबस्थादर्शनेन परितप्तचित्ते रामे 'राजाज्ञया राज्यमपि त्यक्ष्यामी’ति प्रतिज्ञातवति कैकेय्यास्तत्सकाशे दशरथविवक्षितत्वेन रामवनवासस्य भरताभिषेकस्य च प्रकटनम् (१६६-१६८)। दशरथस्य विलाप (१६९)। रामेण पितु सान्त्वना स्वस्वस्त्ययनार्थ देवार्चनपराया ब्राह्मणेभ्यो धनानि ददत्या मातु' सन्निधौ गमनञ्च (१७०-१७१)।
 
 चतुर्थाध्यायस्य \[१७२–१६२\]
@@ -2076,8 +1868,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 पञ्चमाध्यायस्य \[१९३-२१२\]
 
  पथि गच्छन्तं ससीतं सलक्ष्मणञ्च राममवलोक्य नागरजनानां दशरथाद्युपालम्भ (१९३-१९४)। वामदेवस्य रामादीनां प्रकृततत्त्वख्यापनेन रामस्य मत्स्याद्यवतारवर्णनेन च नागराणामनुशोचनाविनिवारणम् (१९५-२०३)। रामस्य कैकेयीगृहप्रवेश (२०३)। कैकेय्या सीतारामलक्ष्मणेभ्यश्चीरदानम्, रामलक्ष्मणयोस्तत्परिवानञ्च (२०४)। सीतां वल्कल वसाना दृष्ट्वा वशिष्ठेन कैकेय्यास्तिरस्कार. (२०४-२०५)। दशरथाज्ञया सुमन्त्रेण रथानयन रथारोहणेन त्रयाणां सीतारामसौमित्रीणां वनाय प्रस्थानम् (२०५-२०७)। दशरथस्य कौशल्यागृहगमनम्, तत्र तस्य मूर्च्छा प्रलापादिकञ्च (२०८)। रामस्य तमसातीरे यामिनीयापनसङ्कल्प पौराणां वञ्चनार्थं रात्रावेव तत. प्रस्थानञ्च (२०८-२०९)। पौराणां विनिवर्त्तनम् (२१०)। सुमन्त्रचालितेन रथेन रामादीनां शृङ्गबेरपुरादनतिदूरे गमनम्, तत्र शिंशपावृक्षमूले अवस्थानञ्च (२१०)। रामागमनवार्त्ताश्रवणेन गुहस्याऽऽगमनम् (२१०)। गुहेन स्वराज्ये राज्यकरणाय उपानयन-
-
-
 
 ग्रहणाय च रामं प्रत्यनुनय, रामेण विनिवारणम् (२११)। वटक्षीरेण रामलक्ष्मणयोर्जटाबन्धनम्, कुशशय्यायां रात्र्यतिवाहनञ्च (२१२)।
 
@@ -2092,8 +1882,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 अष्टमाध्यायस्य \[२५८-२६६\]
 
  वशिष्ठेन भरताय राज्यदानप्रस्ताव (२५७-२६९)। राज्यग्रहणे असम्मतिज्ञापनपूर्वक भरतस्य वनगमनप्रतिज्ञा (२५९-२६०)। कौशल्यादिसहितस्य ससैन्यस्य भरतस्य रामानयनाय
-
-
 
 वनप्रयाणम् (२६०)। ससैन्यं तमागत श्रुत्वा गुहस्य रामानिष्टाशङ्का (२६१), भरतचित्तवृत्तिपरिज्ञानञ्च (२६२)। सीतारामयो. शयनस्थलीदर्शनेन भरतस्य खेद' (२६३)। गुहानीतया नावा भरतादीनां भागीरथ्युत्तरणम्, भरद्वाजाश्रमगमनञ्च (२६४-२६५)।भरतभरद्वाजसंवाद(२६५-२६६)। भरद्वाजस्य भरतादीनामातिथ्यविधानम् (२६६-२६७)। भरतस्य चित्रकुटाद्रौगमनम् (२६८-२६९)।
 
@@ -2115,8 +1903,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  रामादीनां शरभङ्गाश्रमसप्राप्ति (३०१)। शरभङ्गकर्त्तृकं तेषामातिथ्यविधानम् (३०१)। शरभङ्गस्य स्वलब्धतप फलदानपूर्वक चित्यारोहणेन ब्रह्मलोकगमनम् (३०१-३०४)। शरभङ्गाश्रमे रामदर्शनार्थं मुनीनामागमनम् स्तुवद्भिस्तै सह रामादीनां मुनिसेवितवनानां दर्शनार्थं प्रयाणम् (३०४-३०५)। तत्र तत्र अस्थ्यादीनि दृष्ट्वा केषामेतान्यस्थीनीति पृच्छता रामेण राक्षसभक्षितानां मुनीनामेतानीति ज्ञाततत्त्वेन सर्वराक्षसविनाशस्य प्रतिज्ञा (३०५-३०६)। मुनिजनसेवितवनदर्शनक्रमेण रामादीनां सुतीक्ष्णाश्रमसंप्राप्तिः (३०६-३०७)। सुतीक्ष्णस्य रामसत्कारो
 
-
-
 रामस्तुतिश्च (३०७-३१२)। सुतीक्ष्णेन सह रामादीनां सुतीक्ष्णगुरोरगस्त्यस्याऽऽश्रमं प्रति प्रस्थानम् (३१३)।
 
 तृतीयाध्यायस्य \[३१४-३२८\]
@@ -2134,8 +1920,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 षष्ठाध्यायस्य \[३६०–३६६\]
 
  रावणस्य समुद्रस्य परे तीरे मारीचाश्रमगमनम् (३६०-३६३)। ' कथमागतवानसी'ति मारीचप्रश्ने रावणस्य रामादीनां वृत्तान्तप्रकाशपुर सरं सीताहरणाभिलाषप्रकटनम्, मारीचसाहायक प्रार्थनञ्च (३६०-३६२)। ज्ञातवृत्तस्य मारीचस्य भीति, रामपराक्रमवर्णनमुखेन पुरा रामकृतस्य स्वव्यसनस्य प्राप्तिवर्णनम्, रामभयेनैव स्वस्य प्रव्रज्यावलम्बनमित्यस्य कथनम् (३६२-३६५), रामस्वरूपवर्णनम् (३६५-३६७), तथाविधाद्दुर्व्यवसायान्निवृत्त्यर्थं रावणानुनयश्च(३६७)। रावणस्य सीताहरणनिर्बन्ध, मृगरूपधारणाय मारीचानुरोध, मदाज्ञाऽपालने तवानिष्टं भावीति भीतिप्रदर्शनञ्च (३६८), मारीचस्य स्वीकृति उभयो रथेन रामाश्रमगमनम्, मृगरूपस्य मारीचस्य रामाश्रमसविधे विचित्रभङ्गा विचरणञ्च (३६९)।
-
-
 
 सप्तमाध्यायस्य \[३७०–३८४\]
 
@@ -2155,8 +1939,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 कबन्धस्य शवरीसकाशगमनानुरोध (४१४)। कबन्धस्य विष्णुपदगमनम् (४१५)। सलक्ष्मणस्य रामस्य शवर्याश्रमसप्राप्ति (४१५)। शवर्या रामलक्ष्मणयो
 
-
-
 सपर्या स्ववृत्तान्तवर्णनञ्च (४१५-४१७)। शवरीसंवादक्रमेण रामस्य भक्तिसाधनप्रकारवर्णनं सीतासंवादजिज्ञासनञ्च (४१७-४२०)। शवर्या ऋष्यमूके पम्पासर समीपे सुग्रीवादिभिर्मेलनेन सीतारहस्योद्घाटन भविष्यतीत्युक्त्वाहुताशनप्रवेश (४२० ४२४)।
 
 \[किष्किन्ध्याकाण्डे\]
@@ -2170,8 +1952,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 द्वितीयाध्यायस्य \[४४६–४६०\]
 
  रामवाक्यप्रेरितेन सुग्रीवेण युद्वाय बालिन आह्वानम् (४४६-४४७)। बालिसुग्रीवयोर्युद्धम् (४४७-४४८)। सुग्रीवपराजय, सुग्रीवस्य पलायनम्, तस्य क्षोभश्च (४४८)। 'भ्रातरौ युवामेकरूपौ इत्यतो विवेक्तुमसमर्थेन मया न बालिनि शरक्षेप' कृत' इत्युक्त्या रामेण सुग्रीवस्य सान्त्वनम् (४४९)। रामादेशात् लक्ष्मणेन सुग्रीवग्रीवायां विशेषद्योतक पुष्पमाल्यबन्धनम् (४५०)। सुग्रीवेण पुनर्गर्जनम्, तचश्रुत्वा बालिनो युद्वाय प्रस्थानोदयोग, प्रयान्तं भर्त्तार प्रति ताराया उपदेशश्च (४५०)। तस्या रामसुग्रीवमेलनरूपवृत्तवर्णनपुर सरं सुग्रीवाय राज्यदानप्रार्थना 'रामं शरण गच्छे'ति प्रार्थना च (४५१-४५२)। तारां सान्त्वयित्वा बालिनो युद्वाय गमनम् (४५४-४५५)। बालिसुग्रीवयुद्वम् (४५४)। बालिन प्रति रामस्य शरनिपातनम् (४५४-४५५)। वालिनो रामाधिक्षेप (४५५-४५६)। रामेण बालिवधकारणवाचनम् (४५८)। बालिना रामस्तुति (४५८-४५९)। बालिनो जीवन परित्याग. (४६०)।
-
-
 
 तृतीयाध्यायस्य \[४६१-४७६\]
 
@@ -2192,8 +1972,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  रामसकाशे सुग्रीवादीनामागमनम् (४९९)। सुग्रीवेण वानरसैन्यानामागमनं विनिवेद्य तेषां पराक्रमादीना वर्णनम् (५००-५०२)। रामाज्ञया सुग्रीवेण दिक्षु वानराणां प्रेषणम् (५०२-५०३)। सीतान्वेषणाय गच्छते हनूमते रामस्यङ्गुरीयकाभिज्ञानप्रतिपादनम् (५०४)।सीतामन्विष्यतां हनूमत्प्रमुखाणां विन्ध्यारण्ये भीषणाकारेण केनचिद्राक्षसेन सह युद्वम्, ततश्च तेषां वनान्तरगमनम् (५०५-५०६)। वन वन भ्रमतां तेषां जलाभावेन तृषाधिक्यात् जलार्थं बिलप्रवेश (५०६-५०७)। तत्र तै कस्याश्चिद्दिव्यरूपाया अङ्गनाया दर्शनञ्च (५०८)। तया पृष्टानाञ्च तेषां स्वपरिचयप्रदानम् (५०९)। स्वयंप्रभाभिधया तया स्वाभिज्ञानप्रदानव्याजेन बिलस्थपुरीनिर्माणवृत्तस्य स्वस्यास्तत्र वासवृत्तस्य च वर्णनम् (५०९-५१०)। तया सह वानराणां बिलाद्विनिर्गमनम्, स्वयंप्रभाया रामसन्निधिगमनम् (५११)। रामस्य स्वरूपवर्णनात्मकस्तवनञ्च
 
-
-
 (५११-५१७)। रामोपदेशेन स्वयंप्रभाया बदरीवनगमनम्, बदरीवने कलेवरपरित्यागपूर्वक परमपदलाभश्च (५१७ ५१८)।
 
 सप्तमाध्यायस्य \[५१९–५३०\]
@@ -2207,9 +1985,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 नवमाध्यायस्य \[५४६-५५४\]
 
  गते सम्पातौ सीतावार्त्ताधिगमाद्वानराणां हर्ष (५४६)।अङ्गदस्य समुद्रलङ्घने क शक्त इति पृच्छा (५४७), अङ्गदेन तेषा बलजिज्ञासा च (५४८)।क्रमेण तेषांसमुद्रलङ्घनासामर्थ्यविनिवेदनम् (५४८-५४९)। अङ्गदस्य नैराश्यम् (५५०)।जाम्बवता हनूमदुबलकीर्त्तनम् (५५०-५५२)। हनूमत आस्फालनम् (५५२-५५४)।  
-
-
-
 
 \[सुन्दरकाण्डे\]
 
@@ -2229,8 +2004,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 स्वपरिचयप्रदानार्थम् अलक्ष्यस्थानस्थितेन सूक्ष्मबुद्धिना हनूमता सीतारामादीनामतीतवृत्तस्य वर्णनम्, स्वस्य जानकीदर्शनार्थमागमनमित्यस्य विनिवेदनञ्च (५८६-५८९)। तच्श्रुत्वा सीताया विस्मय वक्तुरात्मप्रकाशायानुरोधश्च (५९०), हनूमत आत्मप्रकाश सीताप्रणतिश्च (४९०)। हनूमन्तं दृष्ट्वा सन्देहाकुलितायाः सीताया प्रश्ने हनूमतो रामसुग्रीवसम्मेलनवृत्तान्तवर्णनम्, बालिबधवानरप्रैषादीनाञ्च कथनम् (५९१-५९२) सीतायै अभिज्ञानरूपेण रामस्याङ्गुरीयप्रदानम् (५९२)। सीताहनूमत्संवाद (५९२-५९४)। रामप्रत्ययार्थं सीताया प्रत्यभिज्ञानरूपचूडामणे प्रदानम्, रामसविधे कथनाय ऐन्द्रकाकवृत्तकथनञ्च (५९४-५९७)। पुन सीताहनूमत्संवाद (५९७-५९८)। हनूमतः अशोकवनिकोत्पाटनम् (६०१)। किङ्कराणां पञ्चसेनानायकाना विनिपातनम् (६०१-६०२)।
 
 रावणप्रेषिताना मन्त्रिसुताना कुमारस्याक्षस्य मारणम् इन्द्रजित्कर्त्तृकग्रहणञ्च (६०२-६०६)।
-
-
 
 चतुर्थाध्यायस्य \[६०७-६२५\]
 
@@ -2252,8 +2025,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  लङ्कायां हनूमत्कृतकार्यदर्शनेन लज्जितस्य रावणस्य सचिवान् प्रति कर्तव्यपृच्छा (६४९)। सचिवानामास्फालनम् (६५०-६५१)। कुम्भकर्णस्य रावणतिरस्कारपूर्वक सीतारामयो. स्वरूपवर्णनम् (६५१-६६२)। इन्द्रजितो वीरायितम् (६५३)। विभीषणस्य रावण-मुद्दिश्य हितोपदेशदानम् (६५३-६५५)। रावणेन तिरस्कृतस्य विभीषणस्य तत्सभाया उत्पतनम् (६५५-६५६)। सीतारामयो स्वरूपवर्णनपुरःसरं त्वद्वरेण राक्षसानां विनाशोऽवश्यम्भावीति वदतो विभीषणस्य रामसकाशगमनाय प्रयाणम् (५५६–६६१)।
 
-
-
 तृतीयाध्यायस्य \[ ६६२–६८१ \]
 
  रामस्य सविधे विभीषणागमनम् (६६२-६६३)। सुग्रीवस्य विभीषणसाधुतायां सन्देहः रामसमीपे तद्विनाशाज्ञाप्रार्थना च (६६३-६६४)। रामाज्ञया सुग्रीवेण विभीषणस्याऽऽनयनम् (६६४-३६५)। विभीषणकर्त्तृका रामस्तुति. (६६५- ६७० )। रामविभीषणसंवाद (६७१-६७२)। विभीषणस्य लङ्काराज्येऽभिषेक (६७२ )। विभीषणसुग्रीवसंलाप. (६७२-६७३)। दशग्रीवेण प्रेरितस्य दूतस्य शुकस्य रामबलदर्शनार्थमागमनम् (६७३)। वानरै शुक निर्यातनम्, रामादेशेन तस्य मुक्ति. (६७३-६७४)। सुग्रीवशुकसंवाद (६७५)। शार्दूलेन रावणसकाशे रामबलवर्णनम् (६७५)। रामागमनेनानन्दमप्रकटयन्त सागरमनागत दृष्ट्वारामस्य क्रोध. (६७५-६७७)। सागरागमनम्, सागरस्य रामस्तुति, लङ्कामार्गप्रदानप्रतिश्रुतिश्च ( ६७७ ६८० )। सागरवाक्येण रामस्य द्रुमकुल्यप्रदेश आभीराणां नाशाय बाणपरित्याग. ( ६८५ )। सागरकर्त्तृको नलेन सेतुबन्धनोपदेश. (६८०-६८१)।
@@ -2272,8 +2043,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 ७१६)। हनूमतो रावणोरसि मुष्ट्याघातः तेनाऽऽघातेन रुधिरमुद्वमतो रावणस्य रथोपरि पतनम्, हनूमता
 
-
-
 लक्ष्मणानयनम् (७१६)। राम-रावणयोर्युद्धम् (७१७ ७१८)। पराजितस्य रावणस्य लङ्कायां प्रतिप्रयाणम् (७१९)। मूर्च्छितं लक्ष्मणमालोक्य रामस्य विलाप, हनूमति पुनरोषध्यानयनाज्ञा (७१९)। ओषध्यानयनाय हनूमत प्रयाणम् (७२१)। हनूमद्गमनविघ्नार्थं रावणस्य कालनेमिभवनगमनम्, हनूमद्विघ्नकरणाय तस्यानुनय ( ७२२ ७२३)। रावण प्रति कालनेमिकृत उपदेशः (७२३–७२९)।
 
 सप्तमाध्यायस्य \[ ७३०—
@@ -2286,15 +2055,11 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 ७६१ \]
 
- 
-
 रावणाधिक्षेपक्षिप्तस्य कुम्भकर्णस्य युद्धाय प्रयाणम् ( ७४४ ७४५ )। कुम्भकर्णविभीषणसंवाद ( ७४६ ७४७)। कुम्भकर्णयुद्धरामस्य तन्निपातनम् ( ७४७ - ७५० )। रामदर्शनार्थं नारदागमनम् (७५१)। नारदकृता रामस्तुति (७५१-७५६)। रामामन्त्रणपुर सरं नारदस्य प्रतिप्रयाणम् (७५७)। कुम्भकर्णवधवार्त्ताश्रवणेन रावणस्य विलाप ( ७५७ )। इन्द्रजिता पितुराश्वासदानम्, युद्धार्थं तस्य निकुम्भिलाया प्रवेशश्च (७५८- ७५९)। इन्द्रजितं हन्तु लक्ष्मणस्य गमनार्थं रामविभीषणयो परामर्श (७६० ७६१)।
 
 नवमाध्यायस्य \[ ७६२-७७४ \]
 
  लक्ष्मणगमनार्थं रामस्याऽऽदेश. ( ७६२ )। लक्ष्मणादीनाम् इन्द्रजिद्वधार्थं प्रयाणम् (७६३)।लक्ष्मणेन वानरादिभिश्चइन्द्रजिद्वलस्य प्रमथनम् (७६४-७६५ )। इन्द्रजितो युद्धार्थमागमनम्, स्वशक्तिश्लाघनञ्च (७६५ )। इन्द्रजिता विभीषणस्याधिक्षेप (७६५ ७६६ )।लक्ष्मणेन्द्रजिद्युद्धम् (७६६-७७० )। लक्ष्मणेन इन्द्रजितो विनाश ( ७७० )। इन्द्रजिद्विनाशे देवानां हर्ष (७७१)। लक्ष्मणादीनां रामसन्निधावागमनम् (६७१)। रामलक्ष्मणसंवाद (७७१-७७२)। इन्द्रजिद्वधवृत्तश्रवणेन रावणस्य विलाप, क्रुद्धस्य तस्य सीताविनाशसङ्कल्प.
-
-
 
 ( ७७२ )। सचिवस्य सुपार्श्वस्य तस्माद्विनिवारणम् (७७२-७७३)। रावणस्य प्रथमं स्वगृहे पश्चात् सभागृहे प्रवेशः (७७४)।
 
@@ -2309,8 +2074,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 द्वादशाध्यायस्य \[ ८०३–८२८ \]
 
  रामवाक्यम् (८०३ )। मन्दोदर्यादीनां रणभूमावागमनं रावणकृते शोकश्च ( ८०४ )। विभीषणस्यापि शोक' ( ८०५)। रामोपदेशाद जीवस्य नित्यानित्यत्वविचारात्मकेन प्रबन्धेन लक्ष्मणकर्त्तृकं विभीषणादीनां सान्त्वनम्, रावणसत्कारे विनियोजनञ्च (८०५ - ८१४)। रामादिष्टेन विभीषणेन मन्दोदर्यादीनां सान्त्वनम् ( ८१६ ), रावणस्य सत्कारश्च ( ८१६-८१७ )। सरथस्य मातले प्रतिगमनम् ( ८१८ )। रामादेशेन लक्ष्मणादीनां लङ्कापुर्यां प्रयाणम्, तत्र विभीषणाभिषेक. ( ८१८- ८१९ )। रामप्रेरितस्य हनुमतो सीतासकाशगमनम् ( ८२० )।
-
-
 
 हनूमत्सीतासवाद (८२० - ८२२ )। प्रतिनिवृत्तस्य हनुमतो रामान्तिके सीताप्रवृत्तिविनिवेदनम् (८२३)। रामाज्ञया विभीषणेन सीताया आनयनम् ( ८२३ – ८२५ )। रामान्तिके सीतोपस्थिति, रामेण सीता प्रति अवाच्यवादानां व्याहार ( ८२५ )। मायासीतायादहनप्रवेश. ( ८२६ - ८२८ )।
 
@@ -2352,8 +2115,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 ८९७)। हनूमतो हिमवद्गमनम् ( ८९७ )। रामेणानुज्ञातस्य रत्नादिभिरभ्यर्हितस्य गुहस्य स्वपुरं प्रति प्रयाणम् ( ८९८ )। रामप्रदत्तोपहारपरितुष्ट-
 
-
-
 स्वान्तानां विभीषणसुग्रीवादीनाम् अन्येषाञ्च वानरर्क्षप्रभृतीनां स्वस्वावासं प्रति प्रयाणम् ( ८९८)। रामेण लक्ष्मणस्य यौवराज्याभिषेक ( ८९८ )। रामस्य राज्यपालनम् अश्वमेधादियज्ञश्च (८९८ – ९०१)। अध्यात्मरामायणस्य पठनपाठनश्रवणप्रभृतीनां फलम् (९०१—९०३), अध्यात्मरामायणस्य स्वय महेश्वरभाषितत्वकथनम् ( ९०३ )।
 
 **——————**
@@ -2373,8 +2134,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 **६४१ \]**
 
  नैकष्यावाक्येनोत्तेजितानां विभीषणादीनां तपस्यार्थं गोकर्णगमनम्, कठोर तपश्च (९२१-९२३)। तेभ्यो ब्रह्मणो वरदानम् (९२३—९२६)। सुमालिन प्रहस्तस्य च वाक्येन दशाननस्य लङ्काधिकार, धनदस्य च कैलासे अलकानगर्यामवस्थानम् (९२६—९२९)। सूर्पणख्या विद्युज्जिह्वाय प्रदानम् (९३० )। मयेन रावणाय स्वसुताया मन्दोदर्या शक्तेश्च दानम् (९३०)। वृत्रज्वालानान्म्या वैरोचनदौहित्र्या. कुम्भकर्णेनोपयम. (९३० )। सरमाया विभीषणेन परिणय.
-
-
 
 ( ९३० )। मन्दोदर्या मेघनादस्य जन्म, तस्य नामकरणम् (९३१ ) कुम्भकर्णस्य निद्रार्थ रावणाज्ञया गृहनिर्माणम्, तत्र कुम्भकर्णस्य निद्रा च (९३१)। रावणेन लोकविद्रावणम्, धनदात् पुष्पकापहरणञ्च (९३२)। यमवरुणयो रावणहस्ते पराजय ( ९३२ )। इन्द्रेण रावणबन्धनम् (९३३), मेघनादेन पितुर्मोचनम्, इन्द्रस्य बन्धनम्, तेन सह लङ्काप्रयाणञ्च (९३३)। मेघनादाय वरं दत्त्वा ब्रह्मणा इन्द्रस्य मोचनम्, ब्रह्मण स्वलोकगमनञ्च (९३३)। कैलासजयेच्छया गत रावणं प्रति नन्दिकेश्वरस्य अभिशाप ( ९३४ - ९३५ )। कार्त्तवीर्यार्जुनेन रावणस्य युद्धम् पराभव, बन्धनम्, पुलस्त्यानुरोधेन मोक्षश्च (९३५)। रावणस्य बालिसकाशगमनम्, बालिना तस्य चतु. समुद्रश्रामणम्, सख्यञ्च (९३५ - ९३६)। अगस्त्येन स्तुतिद्वारेण रामस्य स्वरूपमाहात्म्ययो कीर्त्तनम् (९३७ ९४१)।
 
@@ -2398,8 +2157,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  लवणभयेन भीतानां मुनीनां रामान्तिकागमनम् (१००२-१००३)। मुनीनां लवणवृत्तान्तवर्णनम् (१००३-२००४)। रामेण लवणवधस्याङ्गीकार (१००५)। मथुराराज्ये शत्रघ्न-
 
-
-
 स्याभिषेचनम् (१००६)। रामेण शत्रुघ्नाय दिव्यस्य शरस्य प्रदानम्, लवणवधोपायोपदेशश्च (१००७-१००८)। शत्रुध्नेन लवणस्य हननम्, मथुरानगर्या प्रतिष्ठा च (१००८)। वाल्मीकेराश्रमे निर्वासिताया. सीताया पुत्रद्वयप्रसव, मुनिना वाल्मीकिना ज्येष्ठस्य कुशइति कनिष्ठस्य च लव इति नामकरणम्, तेनैव तयो सावित्रीदीक्षया दीक्षणम्, वेदाध्यापनम्, वेदोपबृ हणार्थं कृत्स्नस्य रामायणस्य कथनञ्च (१००९)। स्वरसम्पन्नाभ्यां ताभ्यां कुशलवाभ्यां गीयमान तद्रामायणम् अभूतपूर्वाश्रुतपूर्वमिवाऽऽकलय्य उपान्तवर्त्तिभिर्मुनिभिस्तयोरुचैर्वाद' (१०१०)। स्वर्णमयीं सीताप्रतिकृतिं विधाय सीताविरहृतप्तस्य रामस्य अश्वमेधयज्ञोपक्रम (१०१०)। क्रियमाणे अश्वमेधाख्ये यागे राजर्षीणां ब्राह्मणक्षत्रियवैश्यानामागमनम् (१०११)। गायद्भ्यां कुशलवाभ्यां सह वाल्मीकेरपि तत्राऽऽगमनाय प्रयाणम् (२०११)। पथि कथ देहिनां संसृतेबन्ध उत्पद्यते कथ वा निवर्तते इत्येव पृच्छते कुशाय वाल्मीकिना सस्वरूपयो ससाधनयोश्च बन्धमोक्षयोर्निरूपणम् (१०११ – १०१७)।
 
 सप्तमाध्यायस्य \[ २०१८—
@@ -2407,8 +2164,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 १०४० \]
 
 वाल्मीकिना प्रतिबोधितस्य कुशस्य भ्रमापगम ( १०१९)। 'रामो यदि रामायण शुश्रूषुर्भवेत्तदा तस्याग्रेऽपि रामायण गातव्यम् नतु तस्माद दीयमानमपि किञ्चिद ग्रहीतव्यमिति कुशलवौप्रति वाल्मीकेरुपदेश (१०१९)। पूर्वतनानां चित्रचरित्रवृत्तसम्बलित गीयमानममृततुल्य तद्गानमितस्तत श्रुत्वा जातकौतूहलेन रामेण समयोचितान् पण्डित नैगमपौराणिकच्छन्द॰शास्त्रपण्डितानां समाजमाहूय गानार्थ तत्र तयो. कुशलवयोराह्वानम् (१०२०)। एकत्र रामं दारकद्वयञ्चावलोक्य समागतानां विस्मयो मिथस्तत्सम्बन्धि भाषणञ्च (१०२०)। एवं मिथ लपतां तेषां पुरत पूर्वाधीतस्य रामचरितस्य ताभ्यां गानम् (१०२१)। मधुर तद्गानं श्रुत्वा भरतं प्रति ताभ्यां दशसहस्रसुवर्णदानानुज्ञप्ती रामस्य (१०२१)। वन्यभोजित्वात् सुवर्णेनानेनास्माकं नास्ति प्रयोजनमिति तयोस्तत्प्रत्याख्यानम्, मुनेराश्रमगमनञ्च (१०२१)। तच् श्रुत्वा रामस्य विस्मय. (१०२१)। सीताकुमारौ ताविति विदितवृत्तेन तेन शत्रुघ्नप्रभृतीन्प्रति ससीतस्य वाल्मीकेरानयनाज्ञा, सीताया. प्रत्ययप्रतिपादनार्थमुपदेशश्च (१०२१-१०२२)। तेषां मुखत. सर्व विदित्वा श्व. सीता शपथ करिष्यतीति वाल्मीकेरुक्ति. (१०२२)। रामसविधे मुनेर्वचनविनिवेदनम् (१०२२)। सीताशपथश्रवणलुब्धमानसाना कौतूहलाक्रान्तस्वान्तानां ब्राह्मणक्षत्रियवैश्यशूद्राणां महर्षीणां वानराणाञ्च रामसभागमनम् (१०२३)। वाल्मीकि पुरस्कृताया ' सीताया यज्ञभूमिप्रवेश (१०२३)। तद्दर्शनप्रीतानां सभासदां साधुवाद. (१०२३)। वाल्मीके प्रतिज्ञापूर्वकं सीताया. शुद्धत्वख्यापनम्, कुशलवयो रामतनयत्वख्यापनञ्च (१०२३-१०२४)। रामस्य वाल्मीकिवाक्याङ्गीकार. (१०२४-१०२५)। रामाभिप्रायवेदिनां ब्रह्मादिदेवानां तत्राऽऽगमनम् (१०२५)। सीताया. शपथ. (१०२६)।
-
-
 
 भूतलाद्दिव्यसिंहासनस्योद्भव (१०२६)। भूदेव्या दोर्भ्यांजानकीग्रहणम्, जानक्या सह रसातलप्रवेशश्च ( १०२६- १०२७ )। जानक्युपरि पुष्पवृष्टिपात, जानकीं रसातले प्रविशन्ती मालोक्य वानराणां दैन्यम् (१०२७)। रामपरिदेवनम् (१०२७)। ब्राह्मणानाम् ऋषीणाञ्च रामसान्त्वनम्, सान्त्वितस्य तस्य ऋत्विग्भूतानाम् ऋषीणां विसर्जनम्, कुमाराभ्यां कुशलवाभ्यां सहायोध्यागमनञ्च (१०२८)। रामस्य निस्पृहत्वम्, एकान्तावस्थानञ्च (१०२८-१०२९)। एकान्तावस्थितस्यरामस्य सविधे कौशल्याया आगमनम्, प्रणतायास्तस्या ज्ञानलाभप्रार्थना (१०२९-१०३०)। रामेण मोक्षसाधकानां मार्गाणां कथनम्, तेषु भक्तिमार्गस्य श्रेष्ठत्वकीर्तनञ्च (१०३१)। भक्तीना भक्तानाञ्च भेदकथनम्, स्वसारूप्यलाभोपायकीर्तनञ्च (१०३१—
 
@@ -2419,8 +2174,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 १०६१ \]
 
  मातुलेन युधाजिताहूतस्य भरतस्य रामाज्ञया गन्धर्वविनाशार्थं गमनम्, तत्र गन्धर्वनायकान् हत्वा पुष्करनामान पुत्र पुष्करावत्याम्, तक्षनामानञ्च पुत्र तक्षशिलायां सस्थाप्य पुन पुरमागत्य रामसेवनम् (१०४१)। रामादेशेन लक्षणस्य पश्चिमदिग्गमनम्, तत्र भिल्लाना विनाशनम्, राज्यस्थापनम्, राज्ये अङ्गदस्य चित्रकेतोश्चाभिषेचनम्, पुनर्नगरप्रवेशो रामसेवनञ्च (१०४२-१०४३ )। कालागमनम् (१०४४)। कालस्य लक्ष्मणेन रामसविधे स्वागमनसन्देशप्रेरणम् (१०४४)। लक्ष्मणमुखाच् श्रुतकालागमनवृत्तस्य रामस्य मुनेस्त्वरितप्रवेशनार्थमादेश ( १०४४)। कालस्य प्रवेश, रामस्य तत्पूजनम्, आगमनकारणजिज्ञासा च (१०४५)। पृष्टस्य कालस्य मदुक्त नान्येन श्रोतव्यम् शृण्वश्च भवता वर्जनीयो भविष्यतीति वचनम् (१०४६)। कालवचन श्रुत्वा रामस्य द्वाररक्षार्थं लक्ष्मणायोपदेश ( १०४६ )। कालेन स्वागमनकारणवर्णनप्रसङ्गेन स्वकीयजन्मादिवृत्तस्य पृथिवीसृष्टिक्रमस्य रामादीनां जन्मवृत्तान्तस्य च वर्णनम्, 'अङ्गीकृत समयो गत' इत्युक्तत्वा 'यदीच्छसि तदा स्वर्गलोकगमनेन देवान् सनाथान् कुरु' इत्यादिप्रार्थना च (१०४६ - १०५४)। रामेण शीघ्रमेव देवलोकं गमिष्यामीति आश्वास, एतदन्तरा च राजद्वारि दुर्वासस आगमनम् (१०५४ - १०५५)। तस्य रामदर्शनप्रार्थना ( १०५५)। लक्ष्मणेन मुहूर्त्तमात्र प्रतीक्षाप्रार्थना ( १०५५)। दुर्वासस. क्रोधः, घशनाशभीतस्य लक्ष्मणस्य रामसकाशगमनम्, दुर्वासस आगमनवृत्तविनिवेदनञ्च (१०५६)। रामेण कालस्य विसर्जनम्, दुर्वासस सन्दर्शनम्, अभिवादनपुर सरम् आगमनकारण विषयिणी जिज्ञासा च ( १०५६ )। दुर्वाससो भोज्यप्रार्थना, रामस्य तस्मै भोज्यदानम्, मुने. स्वाश्रमगमनञ्च (१०५७ )। कालवाक्यस्मरणेन रामस्य लक्ष्मणार्थं दौर्मनस्यम्, लक्ष्मणवाक्यञ्च (१०५७-१०५८)। सौमित्रिवाक्येण मन्त्रिणामाह्वानं तेषां सविधे कालसवादवर्णनञ्च (१०५८)। सपुरोहिताना मन्त्रिणां धर्मरक्षार्थं लक्ष्मणत्यागायोपदेश, रामेण लक्ष्मणस्य विसर्जनम्, लक्ष्मणस्य
-
-
 
 स्वगेहगमनम् (१०५९ )। स्वगेहात्तस्य सरयूतीरगमनम् सरयूसलिले नरदेहपरित्यागश्च (१०६०)। शक्रस्य लक्ष्मणदेहेन सह स्वर्गलोकगमनम् विष्णोश्चतुर्भागरूपं लक्ष्मणमागतमवलोक्य देवर्षिभि तस्य पूजनम्, तं द्रष्टुं ब्रह्मादीनामागमनञ्च (१०६१)।
 
@@ -2433,8 +2186,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 **सूचीपत्रं समाप्तम्।**
 
 **\_\_\_\_\_**
-
-
 
 अध्यात्मरामायणम्
 
@@ -2482,8 +2233,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 अथ रामं शिवारामं चिदानन्दं मनोरमम्।  
 प्रणम्याध्यात्मसंयुक्त रामायणमुदीरयेत्॥
 
-
-
 वर्धनः पुत्रः। तथा च—
 
 'स्यान्नन्दिवर्धनः पुत्र. 'इति कोषान्तरम्। श्रीरामस्य मातृसम्बन्धेन कोमलस्वभावत्वसूचनार्थं कौशल्यानन्दिवर्धन इत्युक्तम्। यद्वा कौशल्यानन्दवृद्धिजनकस्तदर्थं। दशवदनस्य रावणस्य यन्निधन मरणं तत्कारी, एतेन श्रीरामस्य दुर्जयजेयत्वं सूचितम्। दश-रथस्यापत्यं दाशरथि। एतेन पितृसम्बन्धेन श्रीरामस्य वीरत्व सूचितम्। अत्रार्थ (१) व्यङ्ग्यनिष्ठ-स्वान्न पौनरुक्त्यदोषस्वीकार। पुण्डरीके इवाक्षिणी यस्य सः। पुण्डरीक पद्मम्। एतेनास्या-नन्यसाधारणनयनत्वं सूचितम्।
@@ -2508,8 +2257,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 रामतत्त्वं विजानन्त सूतं पप्रच्छुरादरात्॥
 
  इत्येते मङ्गलाचरणश्लोका दृश्यन्ते। च-पुस्तके 'ॐ नम श्रीरामचन्द्राय। ॐ नारायण नमस्कृत्य' इत्यादिरेक एव श्लोको दृश्यते। छ-पुस्तके 'ॐ रामचन्द्राय नमः' इत्येतन्मात्रम्। केवल ड-पुस्तके 'जयती 'ति मूले गृहीत श्लोको दृश्यते। टीकाकृता नरोत्तमेनाप्ययमेव श्लोको व्याख्यात। गोपालचक्रवर्त्तिकृतटीकाप्रारम्भे पुनर्ग्रन्थकर्तृनमस्कारत्वेन न कस्यापि श्लोकस्याऽऽभास। एवमत्र नमस्कारात्मक क श्लोको वेदव्यासविरचित इति समुत्पन्ने महति सन्देहे यद्यपि सुधिय एव सन्देहहर्त्तारस्तथाऽपि स्वच्छन्द रामस्य पूर्णब्रह्मत्वमुदघाटयत सकलभक्तजन वरेण्यस्य वेदव्यासस्य तच्चरितप्रकाशावसरे तस्यैव नमस्कार सम्भवतीति बुद्ध्या अप्रकाशितनरोत्तमकृतटीकाप्रकाशे बादरतया च तट्टीकानुगत एव श्लोको मूले सन्निवेशित। एवं सर्वत्रैव यथाशक्ति नरोत्तमत पाठ एवास्माभिरनुसरणीय इत्यलं विस्तरेण।
-
-
 
 \#**श्रीसूत उवाच—**
 
@@ -2562,8 +2309,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  ४। सर्वार्थगोचरज्ञानं सर्वे अर्था अतीतानागतवर्त्तमानरूपा गोचरा विषया यस्य
 
-
-
 **चतुर्मुखं जगन्नाथ भक्ताभीष्ट[^76] फलप्रदम्।  
 प्रणम्य दण्डवद् भक्त्या तुष्टाव मुनिपुङ्गवः॥ ५॥  
 सन्तुष्टस्त मुनि प्राह स्वयम्भूर्वैष्णवोत्तमम्।  
@@ -2610,8 +2355,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  रहस्य गोप्यमपि। रहस्यं कथं त्वत्सकाशे वक्तव्यमित्याह—अनुग्रह इति। यदि मयि तेऽनुग्रहोऽनुकम्पा तदा त्वदनुग्राह्यत्वादु गोप्यमपि त्वत्त श्रोतुमर्हामीति शेष। अनुग्राह्येषु महानुभावानां तादृशामनुग्राहकाणां किमपि गोपनीयं न भवतीति भाव।
 
-
-
 **प्राप्ते कलियुगे घोरे नरा पुण्यविवर्जिता।  
 दुराचाररता' सर्वे सत्यवार्त्तापराङ्मुखाः॥ १०॥  
 परापवादनिरता. परद्रव्याभिलाषिणः[^80]।  
@@ -2651,8 +2394,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 १३। \[ धनार्जनार्थं धनार्जनमेव प्रयोजनं यथा स्यान्न तु तत्त्वज्ञानार्थम् अभ्यस्ताभिर्विद्याभिर्यो मदो गर्व. पण्डितम्मन्यता तेन विमोहिता। गो० \]
 
-
-
 क्षत्रियाश्च तथा वैश्या स्वधर्मत्यागशीलिन'।  
 तद्वच्छूद्राश्च ये केचिद् ब्राह्मणाचारतत्पराः॥ १४॥  
 स्त्रियश्च प्रायशो भ्रष्टा भर्त्रवज्ञान निर्भरा[^84]।  
@@ -2691,8 +2432,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 १६। परलोक पर श्रेष्ठो लोक. सद्गतिरित्यर्थ।
 
 १७। परलोकगतिर्भूर्लोकगति। भूर्लोकोद्धम्, भुवर्लोकान्तगमनम्। तच्च दुराचारादिजानर्थनिवृत्ति विना चित्तशोधक सकलधर्मं विना च दुष्प्रापमिति भावः। रा०। लघूपायेन क्षुद्रयावेष्टया सामान्येनायासेनेत्यर्थः। ननु कथ तादृशोपायज्ञानमस्माकमित्याहयतो भवान्
-
-
 
 ब्रह्मोवाच—
 
@@ -2734,8 +2473,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  २०। तत् किं तत्राऽऽह - पुराणोत्तममिति। पुराणमनादि तच्च तदुत्तमं व, श्रवणेन सर्व-धर्मजनकत्वाश्चित्तशुद्धिद्वारा तत्त्वज्ञानकरत्वाच्चेति भाव। अव्यात्मरामायणमित्यन्वर्थ ग्रन्थनाम, आत्मनि अघि अध्यात्मम्। आत्मनि चित्तेऽन्तर्यामितया वर्त्तमानो यो रामोरमन्ते योगिनोऽन्नेति
 
-
-
 **प्रचरिष्यति तल्लोके प्राण्यदृष्टवशाद्[^89]यदि।  
 तस्याध्ययनमात्रेण जना यास्यन्ति सद्गतिम्॥ २१॥  
 तावद् विजृम्भते[^90] पाप ब्रह्महत्यापुरःसरम्।  
@@ -2775,8 +2512,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 3. अत पर ख व पुस्तकयो 'तावत कलिर्म होतसाही निशङ्क मप्रवर्त्तते। यावज्जगति नाध्यात्मरामायणमुदेष्यति॥ तावद् यमभटा शूरा सचरिष्यन्ति निर्भया। यावज्जगति नाध्यात्मरामायणमुदेष्यति॥ इति, ग ड - पुस्तकयो 'तावत कलिर्म होतसाह सञ्चरिष्यति निर्भय।" इति च पुस्तके 'तावत कलेर्म होतमाहा सञ्चरिष्यन्ति निर्भया। यावज्जगति नाध्यात्मरामायणमुदेष्यति॥ तावद् यमभटा क्रूरा सञ्चरिष्यन्ति निर्भया।' इति, छ पुस्तके 'वात्रत कलिमहोतसाह सञ्चरिष्यति निर्भय। यावज्जगति नाध्यात्मरामायणमुदेष्यति॥ ताव्रत स्वरुप रामस्य दुर्बोध महतामपि। यावज्जगति नाध्यात्मरामायणमुदेष्यति॥ तावत सर्वपुराणानि प्रवत्तन्ते महीतले। यावज्जगति नाध्यात्मरामायणमुदेष्यति॥ इति चाधिकम्।
 
-
-
 तावत् सर्वाणि[^91] शास्त्राणि विवदन्ते[^92] परस्परम्।  
 यावज्जगति[^93] नाध्यात्मरामायणमुदेष्यति॥ २३॥  
 तावत् स्वरूप रामस्य दुर्बोधं महतामपि।  
@@ -2811,8 +2546,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 २४। रामस्य स्वरूप सच्चिदानन्दाद्वय ब्रह्मस्वरूप महतां योगपवक्वायाणा मुनीनां तथा शास्त्रज्ञान निर्मलमनसां सुधियामपि दुर्बोध भवतीति भाव।
 
 २५। न उदेष्यति न प्रचरिष्यति। तावत् पुराणानि पाद्मादीनि प्रवर्त्तन्ते प्रभवन्ति।
-
-
 
 अध्यात्मरामायणसङ्कीर्त्तनश्रवणादिजम्।  
 फलं वक्तुं न शक्नोमि कार्त्स्न्येन मुनिसत्तम्॥ २६॥  
@@ -2854,8 +2587,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 निद्रादौ जागरस्थाने यो भाव उपजायते।  
 त भावं भावयन् राम जीवन्मुक्त सदा भवेत्॥ इति रा०।
-
-
 
 यो भक्त्याऽर्चयतेऽध्यात्मरामायणमतन्द्रितः।  
 दिने दिनेऽश्वमेधस्य फलं[^99] तस्य भवेन्मुने॥ ३०॥
@@ -2908,8 +2639,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  ३५। \[ 'यो रासभक्तसदसी 'ति ऐकपद्ये रामभक्त सभायामित्यर्थ। सविसर्गपाठे यो रामभक्त सदसि ब्राह्मणगोष्ट्याम्। गो० \]
 
-
-
 **उपवासव्रत कृत्वा श्रीरामनवमीदिने।  
 रात्रौ जागरितोऽध्यात्मरामायणमनन्यधीः।  
 य पठेच्छृणुयाद्वाऽपि तस्य पुण्य वदाम्यहम्॥ ३७॥  
@@ -2946,8 +2675,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 सूर्यग्रहणकालस्य समानो नास्ति कश्चन। (अगस्त्यस १७/१४ ) इति। गो० \]
 
  ३९। व्यासतुल्येभ्य इत्यनेन देश प्रदेयवस्तु-काल-संप्रदान- विशेषाणा पुण्यातिशयजनकत्व सूचितम्। रा०।
-
-
 
 **यो गायते[^107] मुदाऽध्यात्मरामायणमहनिशम्।  
 आज्ञां तस्य प्रतीक्षन्ते देवा इन्द्रपुरोगमा.॥ ४०॥  
@@ -3003,8 +2730,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 ४५। श्रीरामगीता लक्ष्मणसकाशे रामेणोक्ता, सा चास्यैवोत्तरकाण्डीयपञ्चम सर्गात्मिका।
 
-
-
 तत्ते किञ्चित् प्रवक्ष्यामि कृत्स्न वक्तुं न शक्यते।  
 यज्[^116] ज्ञात्वा तत्क्षणालोक[^117]श्चित्तशुद्धिमवाप्नुयात्॥ ४६॥  
 श्रीरामगीता यत् पाप न नाशयति नारद[^118]।  
@@ -3055,8 +2780,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 ५१। ब्रह्महत्यादिपापानामिति। अनादिपदेन सुरापान - स्तेय- गुर्वङ्गनागमनजनितमहा-पातकानां परिग्रह।
 
-
-
 **दुष्प्रतिग्रह[^123]दुर्भाज्य[^124]दुरालापादिसम्भवम्।  
 पापं सकृत्कीर्त्तनेन[^125] रामगीता विनाशयेत्॥ ५२॥  
 शालग्रामशिलाग्रे चतुलस्यश्वत्थसन्निधौ।  
@@ -3104,8 +2827,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 ५७। आगमा पञ्चरात्रादयः अध्यात्मरामायणस्य तदध्ययनस्य कलां षोडशांशमपि
 
-
-
 अध्यात्मरामचरितस्य मुनीश्वराय माहात्म्यमेतदुदितं कमलासनेन।  
 श्रद्धया पठति वा शृणुयात् स मर्त्य प्राप्नोति विष्णुपदवीसुरपूज्यमान[^127]॥५८॥
 
@@ -3141,8 +2862,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
  इति भगवदुक्ते। दिविजैर्देवे रावणपीडितै सम्प्रार्थित सन् चिन्मयोऽपि चिद्रूपोऽपि अव्ययोऽपि  
 पृथ्वीतले रविकुले मायामनुष्य सञ्जात'। अव्ययस्य चिन्मयस्य कथ जन्म, जातस्य च कथम-
 
-
-
 स्वर्गजनकत्वात्तत्र कथं परमेश्वरस्य कामनेति चेत्तत्राऽऽह—जगतां पापहरामिति। ननु तर्हि तदानीन्तनजनानामेव पापं हरत्विति स्थिरामिति, आकल्पस्थायिनीमित्यर्थ। इन्द्रादिलोकस्थिता यद्यन्नाऽऽगत्य पापं कुर्वन्ति तदा तेषामपि गीता श्रुता कीर्त्तिता वेय पापं हरतीति सूचनाय जगतामित्युक्तम्। यद्वा जगत्पदमन्त्र पृथिवीपरम्, बहुवचनोपादानमशेषजनग्रहणाय। लोककीर्त्तिः स्वगं जनयति, परमेश्वरकीर्त्तिस्तु लोकपाप हरतीति प्रसिद्धमेव। ननु जीवोऽप्यविद्यानिवृत्तौ ब्रह्मैव भवतीति किमर्थमुक्तं ब्रह्मत्वमगादित्यत आह—आद्यमिति।
 
 —————————————————————————————————————————
@@ -3172,8 +2891,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 सीता चलक्ष्मीरभवत् पुरव रामो हि विष्णु पुरुष. पुराण।  
 सहानुजः पूर्वशरीरकेण बभूव तेजोमयदिव्यमूर्ति॥ इति
 
-
-
 विश्वोद्भवस्थितिलयादिषु हेतुमेकं मायाश्रय विगतमायमचिन्त्यमूर्त्तिम्।  
 आनन्दसान्द्रममलं निजबोधरूप सीतापतिं विदिततस्वमहं नमामि[^130]॥ ६०॥
 
@@ -3194,8 +2911,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 विश्वेति। विश्वस्य ससारस्योत्पत्तिलयादिषु एक हेतुम्, 'यतो वा इमानि भूतानि जायन्ते येन जातानि जीवन्ति यत् प्रयन्त्यभिसविशन्ति' ( तैत्ति० ३\।१\।१ ) इति श्रुते। प्रयन्ति यत्र लीनानि भवन्तीत्यर्थ। अनेन निमित्तकारणत्वसमानाधिकरणं जगदुपादानकारणत्व ब्रह्मलक्षणं सूचितम्। एकमित्यसहायार्थकम् तेन निमित्तकारणाभेद सूचित। ननु मिथ्याभूत कार्यनिरूपित कारणत्वस्यापि मिथ्यात्वाद् ब्रह्मणा कथमस्य लक्षणमत आह—
 
 मायाश्रयमिति। सम्बन्धाभावात्मायाश्रयत्वात् तत्कृतमिदमस्य कारणत्वमित्यर्थ। माधिकेन कारणत्वेन मायिक एव ब्रह्मण सम्बन्ध इति भाव। तदुक्तं श्रुतौ—'मायां तु प्रकृति विद्यान्मायिनन्तु महेश्वरम् ' ( श्वेताश्व० ४।१० ) इति। ननु मायाश्रयत्वे जीव प्रति स्वस्वरूपमित्र स्व प्रत्यपि एनं माया आवृणुयात्तत्राऽऽह—विगतमायमिति। विगता माया आवरणशक्तिरूपा यस्मात् तम् एनं प्रति स्वस्वरूपावरणशक्तिरहिता सतीत्यर्थः। अचिन्त्यमूर्ति 'यतो वाचो निवर्त्तन्ते अप्राप्य मनसा सह' ( तेत्ति० आरण्य० ८\।४\।१) इति श्रुते। एवं जगदुत्पत्यादिकारणस्वरूप तटस्थलक्षणमुक्तम् तेन रूपेणाज्ञेयत्वात्। अथ स्वरूपलक्षणमाह—अमल निजबोधरूपमिति, 'सत्यं ज्ञानमनन्त ब्रह्मे 'ति ( तैत्ति० २।१।१ ) श्रुते।
-
-
 
 पठन्ति ये नित्यमनन्यचेतस शृण्वन्ति चाध्यात्म[^131]कसंज्ञितं[^132] शुभम्।  
 रामायण सर्वपुराणसम्मत विधृतपापा[^133] हरिमेव यान्ति ते॥ ६१॥
@@ -3243,8 +2958,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 ६३। पुरारिगिरीति रामार्णवेति च रूपके, अध्यात्मरामगङ्गेति अध्यात्मरामशब्दोऽध्यात्म-
 
-
-
 कैलासाग्रे कदाचिद्रविशतविमले मन्दिरे रत्नपीठे  
 सविष्टं ध्याननिष्ठ विनयनमभयं सेवित सिद्धसङ्घै।  
 देवी वामाङ्गसंस्था[^140] गिरिवरतनया पार्वती भक्तिनम्रा  
@@ -3287,8 +3000,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  ६५। देवो द्योतनात्। जगन्निवसत्यस्मिन् जगति निवसतीति वा जगन्निवासस्तत्सम्बुद्धि, ते तुभ्यं नमोऽस्तु। यतस्त्वं सर्वात्मदृक् सर्वस्वरूप आत्मा ब्रह्म। 'सर्वं खल्विद ब्रह्म' (छान्दो० ३\।१४\।१ ) इति श्रुते। तमनिशमात्मरूपतया पश्यतीति सर्वात्मदृक् अत एव परमेश्वरोऽसि अत. पुरुषोत्तमस्य सर्वेभ्य. पुरुषेभ्य उत्तमस्य तस्यैव ब्रह्मण सनातनमुपाधिरहितं सोपाधे रूपस्य ज्ञानोत्तरं नाशान्न सनातनत्वम्, तत्त्वं पृच्छामि। ननु असनातनेन मया कथ तद्वक्तुं शक्यमत आह-त्वञ्च सनातमोऽसि त्वमपि स एवासीति त्वदज्ञातं न किञ्चिदिति भाव। रा०।
 
-
-
 गोप्य यदत्यन्तमनन्यवाच्यं वदन्ति भक्तेषु महानुभावा।  
 यदप्यहोऽह तव देव भक्ता प्रियोऽसि मे त्व वद यत्तु पृष्ठम्॥ ६६॥
 
@@ -3326,8 +3037,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 ६८। अग्रे प्रथमत। दृढा भक्ति. प्रसिद्ध नौर्भवति भवसागरतरणायेति शेषः। रा०॥
 
-
-
 **भक्तिः प्रसिद्धा भववन्धमोक्षणा[^149] नान्यत्[^150] तत' साधनमस्ति किञ्चित्।  
 तथाऽपि हृत्संशयवन्धन मे विभेत्तुमर्हस्यमलोक्तिभिस्त्वम्॥ ६१॥**
 
@@ -3357,8 +3066,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
  ७०। निरस्तस्त्यक्तो मायागुणकृतो रागद्वेषादिसप्रवाहो येन तम्। अप्रमत्ता प्रमादोऽज्ञान तद्रहिता, 'प्रमाद वै मृत्युमह ब्रवीमि' इति सनत्सुजातीयोक्ते (२1४ )। तत्र हि 'मृत्यु तम' (बृह० १।३।२८ ) इति श्रुतेमृत्युपदेनाज्ञानमिति बोध्यम्। तथैव तेन प्रकारेण भजनेनैव सिद्धास्तत्त्वज्ञा. सन्त पर पद मोक्ष यान्तीत्यर्थः। रा०।
 
  अत्रत्यो नरोत्तमसम्मत. पाठ. सुधीभिरनुसन्धेय.।
-
-
 
 **वदन्ति केचित् परमोऽपि रामस्वाविद्यया संवृतमानस[^152]स्वम्।  
 जानाति नात्मानमत[^153]परेण सम्बोधितो वेद परात्मतत्त्वम्॥७१॥**
@@ -3407,10 +3114,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 ७२। यदि आत्मानम् आत्मनो निरुपाधिब्रह्मत्वं जानाति स्म, तदा परेण परमेश्वरेण कुत.
 
-
-
-
-
 **अत्रोत्तरंकि विदितं भवद्भिस्तद् ब्रूहि[^156] मे संशयभेद[^157]वाक्यम्॥७३॥**
 
 [^156]: "ख घ 'बृत'।"
@@ -3457,8 +3160,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  ७६। एवं पार्वत्या पृष्ट' शिवो रामस्वरूपमाह—राम इति। राम परात्मा ब्रह्मवेत्यर्थ। प्रकृतेरित्यस्यान्य इति असंसगति व शेष। प्रकृतितत्कार्येभ्योऽन्यत्वात्तैरससर्गाच्च राम परमेश्वर एवेत्यर्थ। जीवस्तु तैरुपाधिभि ससृष्टस्तद्धर्मकर्तृत्वाद्यभिमानवानिति भाव। अत एव अनादिरेक आनन्द। कार्यानन्दव्यावृत्तये अनादिरिति। एवञ्च 'आनन्द ब्रह्म' (तैत्ति० ३।६।१) 'एकमेवाद्वितीय ब्रह्म' (छान्दो० ६।२।१ ) इति श्रुतिसिद्धं ब्रह्मेत्यर्थ। रा०।
 
-
-
 सर्वान्तरस्थोऽपि[^163] निगूढ आत्मा स्वमायया सृष्टमिदं विचष्टे।  
 जगन्ति नित्यं परितो भ्रमन्ति यत्सन्निधौ चुम्बकलोहवद्धि॥ ७७॥
 
@@ -3501,8 +3202,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 सर्वान्तरस्थोऽपि निगूढ आत्मेति।
 
-
-
 मनसोऽप्यगोचरः। निगूढत्वे हेतुरात्मेति। ननु मायाया एव सृष्टिकर्तृत्वरूपं तटस्थलक्षणमस्तु किमीवरस्य तलक्षणस्वीकारेणेति चेत्तत्राऽऽह—
 
 स्वमायया सृष्टमिदं विचष्टे इति। विचष्टे प्रकाशयति। परमेश्वरस्यैव विश्वसम्बन्धमायाकार्य भासकत्वाज्जगदुपादानत्वमिति भावः। ब्रह्मणस्त उपादानोपादेययोरभेदादुपादेयसाक्षात्कार एव ब्रह्मसाक्षात्कार, कथमुक्तं निगूढ इति चेत्तत्राऽऽह—
@@ -3523,8 +3222,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 इति। ताशस्य सत्त्वे व्यवहारकालिकमपि मानमाह—
 
 स्वमाययेति। स्वाज्ञानकल्पितया माययेत्यर्थ। अयं भाव—नित्यशुद्धादिरूपेश्वरस्वरूपाज्ञानेन तस्याघटितघटनासामर्थ्यापरपर्याया मायाख्या त्रिगुणा शक्तिरुपाधिकल्पितावच्छेदैस्तत्स्वरूपैर्जीवै कल्पिता, सा चस्वजातीयमेव ससारमुच्चावचं प्रसूते, अत एव तत्स्वरूपज्ञाने सकार्यायास्तस्या नाश। रज्जुज्ञानेनेव रज्जुकल्पितभुजङ्गस्य भयकम्पादिकार्य सहितस्य। न च जीवैस्तत्कल्पना तत्सृष्टोपाधिभिश्च जीवतेत्यन्योन्याश्रय, अनादित्वेनापि परीहारात्। नन्वेकस्य तत्त्वज्ञानेन तन्नाशे संसारोच्छेदापत्ति, एकरज्जौ युगपदु दशानां सर्पभ्रमे एकस्य रज्जुज्ञानेन तस्य सर्पभ्रमकार्ये भयकम्पादौ निवृत्तेऽप्यन्येषां तद्दर्शनेन तदनिवृत्तिवदुपपत्तेरिति। तया सृष्टमिदं विचष्टे पश्यति, एवञ्च द्रष्टृत्वेन तत्सिद्धि. 'नान्योऽतोऽस्ति दृष्टा' ( वृ० ३।७।२३ ) इति श्रुते। एकेनैवाकाशेनोपाधि-भेदाद घटाकाशादिव्यवहारवदेकेनैव चेतनोपाधिभेदादनेकजीवव्यवहारोपपत्तौ चेतनानेकत्वे माना-
-
-
 
 **एतन्न जानन्ति विमूढचित्तास्वाविद्यया[^164] सवृतमानसा[^165] ये।  
 स्वाज्ञानमप्यात्मनि शुद्धबोधे[^166] स्वारोपयन्तीह निरस्तमाये॥७८॥**
@@ -3553,8 +3250,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  चेतनस्वीकारे मानान्तरमाह — जगन्तीति। जगन्ति जगदन्त करणानि यत्सन्निधौ नित्यं परितो भ्रमन्ति स्वस्वचेष्टां कुर्वन्ति, अन्यथा सर्वस्य जडत्वाच्चेतनाभावे जगदान्ध्यप्रसङ्ग इति भाव। ननु 'निष्कलं निष्क्रियं शान्तम्' (श्वेताश्व ० ६। १९) इति श्रुतेस्तस्य निष्क्रियतया कथं तेनान्येषां व्यापारसम्पादनमत आह—चुम्बकलोहवद्वीति। यथा निष्क्रियोऽपि चुम्बकमणिर्लोहं शक्तिविशेषात् सन्निधिमात्रेण चालयति, तथा चेतनो निष्क्रियोऽपि स्वमायया वैचित्र्यादेव तानि सन्निधिमात्राद्वयापारयतीत्यर्थं। तदुक्तमाचार्यै—
 
-
-
 'अनापन्नविकार. सन्नयस्कान्तवदेव य।  
 बुद्ध्यादीश्चालयेत् प्रत्यक् सोऽहमित्यवधारयेत्॥ ( वाक्यवृ० १९) इति। रा०।
 
@@ -3563,8 +3258,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 विमूढचेतस। विमूढचेतस्त्वे हेतु —
 
 स्वाविद्यया संवृतमानसा इति। स्वोपाधिभूतया अविद्यया
-
-
 
 ससारमेवानुसरन्ति ते[^167] वै पुत्रादिसक्ता पुरुकर्मयुक्ताः।  
 जानन्ति नैवं हृदयस्थित[^168] वै चामीकर कण्ठगत यथाऽज्ञा॥७६॥
@@ -3603,8 +3296,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
  \[ एतन्न जानन्तीत्यादि। स्वाविद्यया सवृतमानसा इति स्वस्याऽऽत्मनोऽविद्यया। स्वाज्ञानमिति। यथा स्वयमज्ञानं तथा तस्मिन्नप्यज्ञानमारोपयन्ति। गो० \]
 
  ७९। ते पुरुकर्मयुक्ता भूरियज्ञादिकर्मनिरता. 'पुरुह्वं पुरु भूयिष्ठं स्फिरं भूयश्च भूरि च' इत्यमरः। संसारमेवानुसरन्ति। अज्ञा भ्रान्ता यथा कण्ठगतं चामीकरं स्वर्ण 'स्वर्ण सुवर्ण कनकं हिरण्यं हेम हाटकम्। चामीकरम्' इत्यमर, स्वर्णालङ्कारमिति यावत् न जानन्ति भ्रमवशादेव प्रस्मरन्तीत्यर्थ, तथा तेऽपि हृदयस्थित सर्वव्यापित्वेन हृदयेऽपि वसन्तं परमात्मस्वरूपं रामं न जानन्तीत्यर्थः।
-
-
 
 **यथा[^169]प्रकाशो न तु[^170] विद्यते रवौ ज्योतिः[^171]स्वभावात्[^172] परमेश्वरे तथा।  
 विशुद्धविज्ञानघने रघूत्तमे[^173] विद्या कथं स्यात् परत[^174]परात्मनि॥ ८०॥**
@@ -3662,8 +3353,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 ८१। ननु स्वाज्ञानेन राममज्ञं व्यवहरति जन इत्युक्तमसङ्गतम्, अन्यगतस्यान्यत्राऽऽरोपा-
 
-
-
 नाहो[^179] न रात्रि सवितुर्यथा भवेत् प्रकाशरूपा[^180]व्यभिचारतः क्वचित्।  
 ज्ञानं तथाऽज्ञानमिद द्वय हरौ रामे कथ स्थास्यति शुद्धचिद्धने॥ ८२॥
 
@@ -3698,8 +3387,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 शुद्धचिदधनत्वम्। रा०।
 
  ८३। परानन्दमये सर्वभूतै रेतदानन्दमात्रया उपजीवनाद विज्ञानरूपे निर्विकल्पकज्ञानरूपे तमोऽज्ञानरूपम्। तमसो सम्बन्धे हेतुद्वयम्। अज्ञानसाक्षित्वं मायाधिष्ठातृत्वरूपं मायाश्रयत्वञ्च
-
-
 
 तत्र[^182] ते कथयिष्यामि रहस्यमपि[^183] दुर्लभम्।  
 सीताराममरुत्सूनुसवादं मोक्षसाधनम्[^184]॥८४ ॥
@@ -3748,8 +3435,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
  ८६। रामस्य लङ्कातोऽयोध्याप्रयाणप्रारम्भो युद्दकाण्डे त्रयोदशसर्गे रामस्याभिषेको युद्धकाण्डे पञ्चदशस।
 
-
-
 दृष्ट्वातदा हनूमन्तं प्राञ्जलिं पुरतः स्थितम्।  
 कृतकार्यं निराकाङ्क्ष ज्ञानापेक्षं महामतिम्[^186]॥ ८८॥
 
@@ -3797,8 +3482,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 इति तापनीये पाद्मे चोक्ते। सत् बाधहीनम् -
 
-
-
 आनन्द निर्मल शान्त निर्विकारं निरञ्जनम्।  
 सर्वव्यापिनमात्मान स्वप्रकाशमकल्मषम्॥ ६२ ॥
 
@@ -3834,8 +3517,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
  \[ सर्वोपाधिविनिर्मुक्तमिति सर्वैरुपाधिभिर्मायाकार्याविद्याभी रहितम्। सत्तामात्रं सत्तारूपं नित्यसिद्धत्वात्, अतोऽगोचरं निर्विशेषत्वादानन्दस्वरूपम्। गो० \]
 
  ९२। आनन्दं तत्त्वेन विपुलत्वमुपलक्ष्यते, 'यो वै भूमा तत् सुखं नाल्पे सुखमस्ति ' (छान्दो० ७।२३।१ ) इति श्रुते। निर्मलं रजोहीनम्। शान्त प्रपञ्चोपशमत्वात्, 'प्रपञ्चोपशमं शान्तं शिवम् ' (माण्डू० १२) इति श्रुते। निर्विकारं जायतेऽस्ति वर्धते विपरिणमते अपक्षीयते नश्यतीति षड्भावविकारहीनम्, 'न जायते म्रियते वा' (२।२०) इति गीतोक्तेः। अनेनापरिणामित्वं सूचितम्। निरञ्जनम् अविद्यातत्कार्यरूपतमोहीनम्, 'आदित्यवर्णं तमस
-
-
 
 मां विद्धि मूलप्रकृति सर्गस्थित्यन्तकारिणीम्।  
 तस्य सन्निधिमात्रेण सृजामीमतन्द्रिता॥ ६३॥
@@ -3874,8 +3555,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 ९६। अहल्याशापशमनम् इति। अहल्येति नामनिर्वचनं वाल्मीकीये उत्तरकाण्डे पञ्चत्रिंशसर्गे—
 
-
-
 अयोध्यानगरे वासो मया द्वादशवार्षिक'।  
 दण्डकारण्यगमन विराधवध एव च॥ १७॥
 
@@ -3907,8 +3586,6 @@ supposed to be later interpolations. The work probably suffered in this way at t
 
 रावणो भिक्षुरूपेण आगमिष्यति तेऽन्तिकम्।  
 त्वं तुच्छायां त्वदाकारां स्थापयित्वोटजे विश॥ २॥
-
-
 
 **अग्नावदृश्यरूपेण वर्षं तिष्ठ ममाऽऽज्ञया।  
 रावणस्य वधान्ते मां पूर्ववत् प्राप्स्यसे शुभे॥ ३॥  
@@ -3945,8 +3622,6 @@ aisi सरणि समास्थितेति।
 
 'वदेही रावण. क्रुद्धो निर्दहन्निव राक्षस।  
 सव्येन सीतां पद्माक्षी मूर्धजेषु करेण स॥
-
-
 
 शवर्या[^190] पूजनं पश्चात् सुग्रीवेण समागमः।  
 बालिनश्च वध पश्चात् सीतान्वेषणमेव च॥ ६६॥  
@@ -3990,8 +3665,6 @@ aisi सरणि समास्थितेति।
 तस्या पूजन रामलक्ष्मणयोरिति शेष। तच्चारण्यकाण्डे दशमाध्याये। सुग्रीवेण बालिकनिष्ठेन वानरश्रेष्ठेन समागमो मेलनम्, स च किष्किन्ध्याकाण्डे प्रथमाध्याये। बालिनो वधकिष्किन्ध्याकाण्डे द्वितीयाध्याये। सीतान्वेषणमिति, तत्र सीतान्वेषणाय प्रेरणम् तन्नैव पञ्चमाध्याये, तस्यो अन्वेषण तस्यैव षष्ठसप्तमाध्याययो। जलधौ समुद्रे सेतुबन्धो नलेन, स च युद्धकाण्डे तृतीयाध्याये। लङ्काया रोधनम्, तस्यैव चतुर्थसर्गे। सपुत्ररावणवध पुरैव परिकीर्तित।aa पर विभीषणस्य लङ्काराज्येऽभिषेक, स च युद्धकाण्डे द्वादशाध्याये।
 
  १०२। एवमादीनि ब्राह्मणेभ्यो दानादीन्यादिशब्दात् ग्राह्याणि। निर्विकारे जन्मादिते आरोपयन्ति। एव जगत्कर्तृत्वादिकमपि मन्निष्ठमेव रामे आरोपयन्तीत्यर्थः। रा०।
-
-
 
 श्रीमहादेव उवाच—
 
@@ -4043,8 +3716,6 @@ aisi सरणि समास्थितेति।
 
 १०६। एव दृष्टान्तमुपपाद्य दार्शन्तिकमाह—बुद्वीति। सर्वबुद्धिसाक्षितया बुद्धयपहित चैतन्य पूर्णमुपाधिमण्डलस्य विभुत्वाद विभुसकलबुद्धिसमष्टिरेव मायेति तदवच्छिन्नचैतन्यमीश्वर इत्यर्थ। अथापरम् आभासस्तत्तद्बुद्धि प्रतिबिम्बभूतो जीव इत्यर्थ.। अपर बिम्बभतम् एव चितिस्त्रिधा इत्यर्थ.। रा०।
 
-
-
 **आभासबुद्धेः[^199] कर्त्तृत्वमविच्छिन्नेऽविकारिणि।  
 साक्षिण्यारोप्यते भ्रान्त्या जीवत्वञ्च तथाऽबुधै॥ १०७॥  
 आभासस्तु मृषा बुद्धिरविद्याकार्यमुच्यते॥ १०८॥**
@@ -4067,8 +3738,6 @@ aisi सरणि समास्थितेति।
 
 आत्माभासस्तु तिड्वाच्यो धात्वर्थश्च धियक्रिया।  
 उभयञ्चाविवेकेन जानातीत्युच्यते मृषा॥
-
-
 
 अविच्छिन्नन्तु तद् ब्रह्म विच्छेदस्तु विकल्पितः[^200]।  
 अविच्छिन्नस्य[^201] पूर्णेन एकत्वं प्रतिपाद्यते[^202]॥ १०३॥
@@ -4104,8 +3773,6 @@ aisi सरणि समास्थितेति।
 
  कल्पितभेदसत्त्वे प्रमाणमाह— अवच्छिन्नस्येति। अवच्छेदो भेदस्तद्वत आध्यासिकभेदवत साभासस्याहमस्तत्त्वमस्यादिवाक्ये पूर्णनेश्वरेणैकत्व प्रतिपाद्यते, तथा सति कल्पितभेदे सति उपपद्यत इति शेष। सर्वथा भेदाभावे तदानर्थक्यं वास्तवेऽपि भेदे तदानर्थक्यम्। वास्तवस्य
 
-
-
 तन्त्रम्, किन्तु वर्त्तमानयोग्यवस्तुविषयकत्वे सति विषयचैतन्यप्रमाणचैतन्याभिन्नत्वमिति। अन्यथा  
 मनोऽनिन्द्रियत्वात्सज्जन्यसुखादिज्ञानस्य प्रत्यक्षत्व न स्यात्। तस्य इन्द्रियत्वस्वीकारे चानुमित्यादेरपि तज्जन्यत्वात् प्रत्यक्षत्वं स्यादिति प्रपञ्चभिया सङ्क्षेपेणोक्तम्। यत्र शक्यमनन्तर्भाव्यार्थान्तरस्य प्रतीतिस्तत्र जहल्लक्षणा, यत्र विशिष्टवाचकशब्द एवैकदेश विहाय एकदेशे वर्त्तते, तत्र जहदजहल्लक्षणा। अविद्या अज्ञानम्, स्वकार्येरात्मकायैरन्त. करणादिभिराचार्येण अध्यारोपापवादपुरस्कारेण तत्त्व पदार्थों शोधयित्वा वाक्येनाखण्डार्थेऽवबोधितेऽधिकारिणोऽहं नित्यशुद्धबुद्धमुक्तस्वभावपरमानन्दानन्ता-व्ययाद्वयं ब्रह्मास्मीत्यखण्डाकाराकारितचित्तवृत्तिरुदेति सा तु चिदाभाससहिता सती प्रत्यगभिन्नमज्ञात परं ब्रह्म विषयीकृत्य तद्गताज्ञानमेव बाधते, तदा पटकारणतन्तुदादे पटदाहवदखिलकारणेऽज्ञाने बाधिते सति तत्कार्यस्याखिलस्य बाधितत्वात् तदन्तर्भूताखण्डाकाराकारिता चित्तवृत्तिरपि बाधिता भवति, ततश्च तद्गचिदाभासोऽपि यथा प्रदीपप्रभा आदित्यप्रभावभासनासमर्था सती तयाऽभिभूता भवति, तथा स्वय प्रकाशमान प्रत्यगभिन्नपरब्रह्मावभासनानर्हतया तेनाभिभूत सन् स्वोपाधिभूताखण्डवृत्तेर्वावितत्वाद दर्पणाभावे मुखप्रतिबिम्बमुखमानत्ववत्प्रत्यगभिन्नपरब्रह्ममान्नं भवतीत्यहं ब्रह्मास्मीत्यनुभववाक्यार्थ। 'अधिकारी तु विधिवदधीतवेदवेदाङ्गत्वेनापात-तोऽधिगताखिलवेदार्थोऽस्मिन् जन्मनि जन्मान्तरे वा काम्यनिषिद्धवर्जनपुर सरं नित्यनैमित्तिकप्रायश्चित्तोपासनानुष्ठानेन निर्गतनिखिलकल्मषतया नितान्तनिर्मलस्वान्त साधन-चतुष्टयसम्पन्न प्रमाता। काम्यानि ज्योतिष्टोमादीनि स्वर्गाढीष्टसाधनानि। निषिद्धानि नरका-afgसाधनानि ब्रह्महननादीनि। नित्यान्यकरणे प्रत्यवायसाधनानि सन्ध्यावन्दनादीनि।नैमित्तिकानि पुत्रजन्माद्यनुबन्धीनि जातेष्टादीनि। प्रायश्चित्तानि पापक्षय मात्रसाधनानि चान्द्रायणादीनि। उपासनानि सगुणब्रह्मविषयकमानसव्यापाररूपाणि शाण्डिल्यविद्यादीनि। एतेषाँ नित्यादीनां बुद्धिशुद्धि परं प्रयोजनम्, उपासनानान्तु चित्तैकाग्र म्, ' विविदिषन्ति यज्ञेने 'त्यादिश्रुते 'तपसा कल्मषं हन्ती' त्यादिस्मृतेश्च। नित्य नैमित्तकयोरुपासनानाञ्चावान्तर फलं पितृलोक-सत्यलोकप्राप्ति, 'कर्मणा पितृलोको विद्यया देवलोक' इति श्रुते। साधनानि नित्यानित्यवस्तुविवेकेहामुत्र-फलभोगविरागशमादिषट्कसम्पन्मुमुक्षुत्वानि। नित्यानित्यवस्तुवि-वेकस्तावद् 'ब्रह्मैव नित्य वस्तु ततोऽन्यदखिलमनित्यमिति विवेचनम्। ऐहिकानां स्रक्चन्दनादिविषयभोगाणां कर्मजन्यतया तेभ्यो नितरामामुष्मिकाणामप्यमृतादिविषयभोगाणामनित्यतया तेभ्यो नितरां विरतिरिहामुत्रफलभोगविराग। शमादय शम-दमोपरति-तितिक्षा-समाधान-श्रद्धा।
 
@@ -4114,8 +3781,6 @@ aisi सरणि समास्थितेति।
 वचनशतेनाप्यनिवृत्तिरिति भाव। अन्नावच्छिन्नस्य साभासस्याहम इत्यनेन त्वपदार्थो दर्शित पूर्णेत्यनेन तत्पदार्थो दर्शित।
 
  एतदेव ध्वनयन् तदुपदेशफलमाह – ऐक्येति। आत्मनोजवेश्वरयो, ऐक्यज्ञानमह ब्रह्मेति ज्ञानम्। यदेति कर्मानुष्ठानात् पापक्षये समुत्पन्ने,—
-
-
 
 तदाऽविद्या स्वकार्यैश्च नश्यत्येव न संशयः।  
 एवं[^204] विज्ञाय मद्भक्तो मद्भावायोपपद्यते॥ १११॥
@@ -4148,8 +3813,6 @@ aisi सरणि समास्थितेति।
 इति। श्रुतिरपि 'तमेव विदित्वाऽतिमृत्युमेति नान्यः पन्था विद्यतेऽयनाय।' ( श्वेताश्व० ३।८ ) इति। रा०।
 
 \[ मद्भावाय मया सह ऐक्याय - गो० \]
-
-
 
 मद्भक्तिविमुखानां हि शास्त्रमात्रेषु[^205] मुह्यताम्।  
 न[^206] ज्ञानं न च मोक्ष. स्यात्तेषां जन्मशतैरपि॥ ११२॥
@@ -4200,8 +3863,6 @@ aisi सरणि समास्थितेति।
  ११२। शास्त्रमात्रेषु शास्त्रप्रतिबोधित क्रियाकलापेषु।  
  ११३। आत्मन. परमात्मनो मम हृदयं चेत स्वरूपमिदं रहस्यमतिगोप्यम्। हे अनघे पापरहिते तव पापरहिताया. सकाश इत्यर्थ। एतेन पापरहितानां श्रवणयोग्यता वर्त्तते इति ध्वनितम्।साक्षात् स्वयं मया कथितम्। साक्षान्मयेति पदेन ब्रह्मवाक्यत्वेनास्यानन्यसुलभत्व गोप्यत्वं परमपुरुषार्थप्रापकत्वञ्च। मदभक्तिहीनाय शठाय च ऐन्द्रम् इन्द्रस्येदमैन्द्रं तस्माद्राज्याद अधिक श्रेष्ठमिदं त्वया न दातव्यं प्रकाशनीयमित्यर्थ।
 
-
-
 द्वितीयोऽध्यायः
 
 ![](../books_images/U-IMG-1726036181Screenshot2024-09-11115257.png)
@@ -4236,8 +3897,6 @@ aisi सरणि समास्थितेति।
 भवापहमिति। लौकिकरसायनन्तु 'यज्जराव्याधिविध्वसि भेषज तद्रसायन-' मित्युक्तरीत्या जराव्याधिमात्रविनाशनम्, रामतत्त्वरसायनन्तु जराव्याधिमूलीभूतभवनाशनम् जन्मबन्धादि-विनाशनमित्यर्थ। अतस्तत्र ताशी स्पृहेति भावः।
 
  ३। श्रीरामस्य मानुषरूपपरिग्रहकारिणो परब्रह्मण कथातत्त्व वाग्याथार्थ्यम्। 'कथात्वत्तश्रुते'ति पाठे परब्रह्मविषयिणी वाक् त्वत्तो भवतः श्रुता। स्फुटाक्षर (यथा स्यात्तथा, विस्तरेणेत्यर्थ।
-
-
 
 **श्रीमहादेव उवाच-**
 
@@ -4284,8 +3943,6 @@ aisi सरणि समास्थितेति।
 
 अशेषात्मकत्वात् सर्वस्वसृज्य समष्टिरूपत्वादित्यर्थ। रा०।
 
-
-
 अस्तौषीच्छ्रुतिसिद्धनिर्मल[^221]पदैः स्तोत्रैपुराणोद्भवै-  
 र्भक्त्या गद्गदया गिराऽतिविमलैरानन्दबाणै[^222]र्वृत॥ ७॥
 
@@ -4321,8 +3978,6 @@ aisi सरणि समास्थितेति।
 भक्त्येति। भगवतो भक्तेषु पारवश्यं प्रसिद्धमेव। आनन्दबाष्पै सकलभक्तजनसङ्कल्पसाधकस्य विष्णोः सकाशागमनेन समुपस्थितव्यसनविनाशाशया समुत्पन्नो य आनन्दस्तज्जैर्बाणैर्वृत। आनन्दातिशयाद् वाचो गद्गदत्वमिति।
 
 ८। स्फुरन् स्वदीप्त्या एव समुज्ज्वलो य सहस्रांशु सविता तस्य सहस्रं तेन सदृशी
-
-
 
 **कथञ्चिद् दृष्टवान् ब्रह्मा दुर्दर्शमकृतात्मनाम्।  
 इन्द्रनीलप्रतीकाशं स्मितास्यं पद्मलोचनम्॥ ६॥**
@@ -4363,8 +4018,6 @@ aisi सरणि समास्थितेति।
  अकृतात्मनां पापीयसां दुर्दर्श तम् आविर्भूत हरिं ब्रह्मा कथञ्चिद् दृष्टवान् न सम्यगित्यर्थ। तेजोमयत्वादु युगपत् चक्षुषोराह्लादकत्वेन पीडाप्रदत्वेन च कृतात्मनो ब्रह्मणोऽपि सम्यग्दर्शनाभाव। किम्भूत तम् इत्याह- इन्द्रनीलप्रतीकाशम् इन्द्रनीलमणिप्रभम् पुन किम्भूतम्? स्मितास्यम् ईषद्धास्ययुक्तमुखम्। देवानां राक्षसजनितभयनाशस्यावश्यम्भावित्वसूचनाय स्मितास्यत्वम्।
 
  १२। \[ श्रिया भूत्या \[ मूत्य ? \] सम्पदा मूर्त्तिमत्या। भूम्येति पाठे पृथिव्या।तथा च ध्यानम् —'वसुधाशोभिपार्श्वद्वन्द्वम् परात् परमिति। गो० \]
-
-
 
 ब्रह्मोवाच—
 
@@ -4420,8 +4073,6 @@ aisi सरणि समास्थितेति।
 
 १६। सात्वतैर्भक्तवृतोऽन्तहृदये सद्यो दृष्टस्तवाङ्घ्रिमें चित्तदोषापनुत्तये अस्त्विति शेष।रा०।
 
-
-
 **ब्रह्माद्यैः स्वार्थसिद्ध्यर्थमस्माभि पूर्वसेवितः।  
 अपरोक्षानुभूत्यर्थ[^237] ज्ञानिभिर्हृदि भावितः॥ १७॥**
 
@@ -4465,8 +4116,6 @@ aisi सरणि समास्थितेति।
  तव वक्षसि पदं स्थान 'पदं व्यवसितित्राणस्थानलक्ष्माङ्घ्रिवस्तुषु' इत्यमर। लब्ध्वाऽपि श्री लक्ष्मी परमा प्रकृतिरिति यावत् त्वदङ्घ्रिपूजा निर्माल्य तुलसीमालया सह स्पर्धते विवदते। तव चरणनिर्माल्यस्य गलष्टततुलसीमालायाच आत्मन श्रेष्ठत्वमवलोक्य तदसहमानेत्यर्थ।
 
  १९। यतस्त्वत्पादभक्तेषु तव चरणसेवकेषु तव श्रियो लक्ष्मीतोऽप्यधिका भक्ति' प्रीति
-
-
 
 अतस्त्वत्पादकमले भक्तिरेव सदाऽस्तु मे।  
 ससाराम[^239]यतप्तानां भेषजं भक्तिरेव[^240] ते॥ २०॥
@@ -4517,8 +4166,6 @@ aisi सरणि समास्थितेति।
 
 इत्युक्तलक्षणेन वरेण दर्पित।
 
-
-
 त्रिलोकीं लोकपालांश्च बाधते विश्वबाधकः।  
 मानुषेण मृतिस्तस्य मया कल्याण[^244] कल्पिता।  
 अतस्त्वं मानुषो भूत्वा जहि देवरिपु विभो[^245]॥ २३॥
@@ -4568,8 +4215,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 तदात्मत्वमेव स्वस्य विभूतिमयत्वात्। गो० \]
 
  स कश्यप' इदानी दशरथो भूत्वा दशरथ इति नाम्ना ख्यातो भूतले पृथिव्याम् अयोध्यानगरेइति शेष।
-
-
 
 योगमायाऽपि सीतेति जनकस्य गृहे तदा।  
 उत्पत्स्यते तया[^249] सार्द्ध सर्व सम्पादयाम्यहम्॥ २६॥
@@ -4622,8 +4267,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 इत्युक्तषडैश्वर्यशालिनम्।
 
-
-
 तृतीयोऽध्यायः
 
 ![](../books_images/U-IMG-1726046578Screenshot2024-09-06175915.png)
@@ -4670,8 +4313,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ५। सर्व दुखायेति। 'मनुष्यलोक पुत्रेणैव जय्यो नान्येन कर्मणा' ( बृह० १।१६ ) इति श्रुतेः रा०।
 
-
-
 **नानपत्यस्य[^258] लोकोऽस्ति श्रुतिरेषा सनातनी[^259]।  
 अपुत्रस्य धनं व्यर्थमपुत्रस्याफल कुलम्॥६॥**
 
@@ -4717,8 +4358,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ८। सत्त्वसम्पन्ना पराक्रमयुक्ता गुणयुक्ता वा, 'सत्त्व गुणे पिशाचादौ बले द्रव्यस्वभावयो ' इति मेदिनीदर्शनात्। अपरा लोकपाला इन्द्रादय इव।
 
-
-
 **शान्ता-भर्त्तारमानीय ऋृष्यशृङ्ग तपोधनम्।  
 अस्माभि सहित पुत्रकामेष्टिं शीघ्रमाचर॥ ६॥ \***
 
@@ -4757,8 +4396,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 [^264]: "घ 'महार्ह स महातेजा बालस्यविरसम्मत '"
 
 [^265]: "घ- छ' कालपरि-'।"
-
-
 
 अप्सूपस्पृशतो[^266] राजन् मृगी तच्चापिबत्तदा।  
 सह तोयेन तृषिता गुर्विणी[^267] साऽभवत्तत॥ ७॥  
@@ -4814,8 +4451,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 [^278]: "ग-ड ‘सद्यो वर्षति’।"
 
 [^279]: "छ 'मे'।"
-
-
 
 इति[^280] श्रुत्वा वचो राजन् कृत्वा निष्कृतिमात्मन।  
 स गत्वा पुनरागच्छत्[^281] प्रसन्नेषु[^282] द्विजातिषु॥ २०॥
@@ -4884,8 +4519,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 [^296]: " ग ड 'च तपोधनम्'।"
 
-
-
 नानापुष्पफलैवृक्षै कृत्रिमैरुपशोभितम्।  
 कृत्वा नाव्याश्रमं रम्यमद्भुतं सौम्यदर्शनम्॥ ३०॥
 
@@ -4949,9 +4582,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 व्रतमेतादृश ब्रह्मन् परिष्वज्यो भवान् मया॥ ४१॥
 
 इति श्रुत्वा वचस्तस्य पुनराह तपोधनः॥४२॥  
-
-
-
 
 फलानि पक्वानि ददानि तेऽहं भल्लातकान्यामलकानि चैव।  
 करूषकाणीङ्गदिकानि[^310] चैव[^311] यथोपयोगं फलमत्र भुङ्क्ष्व॥४३॥
@@ -5033,8 +4663,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 [^331]: " छ 'पुर' । "
 
 [^332]: "छ - ज्ञ '।"
-
-
 
 इहागता जटिलो ब्रह्मचारी न वै ह्रस्वो नातिदीर्घा[^333] मनस्वी।  
 सुवर्णवर्ण कमलायताक्षसुत[^334]सुराणामिव शोभमान[^335]॥५५॥
@@ -5122,8 +4750,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 [^357]: "छ ' तपसि '।"
 
-
-
 **इच्छामि तस्यान्तिकमाशु[^358] गन्तुंतञ्चेह नित्य परिवर्त्तमानम्।  
 गच्छामि[^359] तस्यान्तिकमेव तात का नाम सा व्रतचर्या नु तस्य॥ ६७॥**
 
@@ -5202,8 +4828,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 **७८॥**
 
-
-
 स वक्तव्यप्राञ्जलिभिर्भवद्भिः पुत्रस्य ते पशवः कर्षणञ्च[^378]।  
 अथोपयात[^379] स मुनिश्चुकोप स्वमाश्रमं मूलफलं[^380] गृहीत्वा॥ ७9॥
 
@@ -5279,8 +4903,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 [^397]: "घ-पुस्तके इदमर्द्धं नास्ति।"
 
-
-
 तथेति मुनिमानीय[^398] मन्त्रिभिः सहितः शुचि।  
 यज्ञकर्म समारेभे मुनिभिर्वीतकल्मषैः॥ १०॥
 
@@ -5336,8 +4958,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 काञ्चनी पिहितां दोर्भ्यां परिगृह्याद्भूतोपमम्।  
 दिव्यपायससम्पूर्णां पात्री पत्नीमिव प्रियाम्॥ इति १।१५ ३-६
 
-
-
 ततः सुमित्रा सम्प्राप्ता[^406] जगृध्नु[^407]' पौत्रिक चरुम्॥ १५॥
 
 [^406]: "च 'मप्राप्य छ 'मप्रार्थ्य'। "
@@ -5370,8 +4990,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 इत्याह। चरोरर्द्धार्द्धभागाभ्यामित्यस्य स्वस्व लब्धचरुभागाभ्यामित्यर्थ। एवञ्च रामभरतौ त्रित्र्यशौ लक्ष्मणशत्रुघ्नावष्टमांशाविति सिद्धम्। वाल्मीकीयव्याख्यातारौ कतकाचार्यश्रीरामाचार्या-वप्येवमेवोचतुः। अन्ये तु तद्वयाख्यातार कौशल्यायै सम्पूर्ण पायसार्द्धं ददौ। तत पात्रस्थादर्द्धादर्द्धं
 
-
-
 सर्वपायसचतुर्थांश सुमित्रा दत्तवान् स्वयमेव। तत. पात्रेऽवशिष्टस्य चतुर्थांशस्यार्द्धमष्टमांश कैकेयै दत्तवान्। तत पुनरवशिष्टमर्द्धमष्टमांशरूप पुनरपि सुमित्रायै दत्तवानिति यथाश्रुतग्राहिणो व्याचक्षते। तेषामेतदुविरोधो रामलक्ष्मणयोरेव भरतशत्रुघ्नयोरेवैकवाक्यताया बीजालाभश्च। अवशिष्टार्द्धपदे क्वचित् षष्ठीतत्पुरुषः क्वचित् कर्मधारय इति वैषम्यञ्च। रा०।
 
  पायसविभागे भूयान् मतभेदो विभिन्नग्रन्थानां तत्तद्व्याख्यातृणाञ्च। प्रकृतश्च ग्रन्थांश प्रायेणान्यपुराणविसवादी, केवल पद्मपुराणश्लोकावेव सर्वथा तस्याऽनुरूप्य भजेते। तथा च पाद्मे—
@@ -5403,8 +5021,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 अनुचिन्त्य सुमित्रायै पुनरेव नराधिप'॥ २० -- २२ श्लो०।
 
  अयमाशय— सम भागवतुष्टयं कृवार्द्धभाग भागद्वयमित्यर्थ, कौशल्याये, अर्द्वात्शिष्टादु भागद्वयादर्द्ध भागमेक कैकेय्यै, चतुर्भाग चतुर्थो भागश्चतुर्भाग, वृत्तिविषये सख्याशब्दस्य पूरणार्थत्वात्। तशिष्ट भागं द्विधा कृत्वा भागमेक सुमित्रायै ददौ ततश्च शिष्टं भाग कस्यै ददामीति अनुचिन्त्य पुन. सुमित्रायै एव ददौ।
-
-
 
 उपभुज्य[^408] चरु सर्वा स्त्रियो गर्भसमन्विता।  
 देवता इव ता[^409] रेजुस्वभासा राजमन्दिरे॥ १७॥
@@ -5459,8 +5075,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 १८ ।कर्कटे कर्कटलने। रा०।
 
-
-
 **पुनर्वस्वृक्ष[^414]सहित उच्चस्थे ग्रहपञ्चके।  
 मेष[^415] पृषणि समाप्ते पुष्पवृष्टिसमाकुले॥ १६॥**
 
@@ -5494,8 +5108,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  १९। पुनर्वस्वृक्षसहिते पुनर्वसु नक्षत्रसहिते इति कर्क लग्न विशेषणम्। ग्रहपञ्चके चन्द्र-बुधव्यतिरिक्त रवि-भौम-गुरु-भृगु शनिरूपे, सदुच्चस्थानानि च क्रमेण मेषमकरकर्क मीनतुलारूयानि। सर्वग्रहास्तोदयस्य व्यधीनत्वात् तदुच्चस्थान स्फुटयति - मेषमिति। तेन सर्वेषाम मस्तगत्थं सूचितम्। रा०।
 
  २१। जलजारुणनेत्रान्त जलजं पद्ममित्र अरुण रक्तवर्ण नेत्रयोरन्तं यस्य सः। कुञ्चितालक. कुञ्चितम् अलक चूर्णकुन्तल यस्य स। 'अलकं चूर्णकुन्तलमि' ति कोषः।
-
-
 
 शङ्खचक्रगदापद्मवनमालाविराजित[^416]।  
 अनुग्रहाख्य[^417]हृत्स्थेन्दुसूचक[^418]स्मितचन्द्रिक॥ २२॥
@@ -5542,8 +5154,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  २५। परमात्मा शुद्धबुद्धमुक्तस्वभाव, अच्युत, स्वस्वरूपात् कदाऽपि न च्युत, 'शाश्वतं शिवमच्युतम् ' ( महानारायणोपनिषत् १।३ ) इति श्रुते। अनन्तोऽनन्तगुण, नित्यत्वादन्तरहित इति। पूर्णो देशकालापरिच्छेद्यपुरुषेभ्य उत्तम. सर्वाधिष्ठानत्वात्।
 
-
-
 वदन्त्यगोचर वाचां बुद्ध्यादीनामतीन्द्रियम्।  
 त्वा वेदवादिन. सत्तामात्र ज्ञानैकविग्रहम्॥ २६॥
 
@@ -5580,8 +5190,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  २६ । वाचां बुद्धादीनामिन्द्रियाणां चागोचर वदन्ति, 'यतो वाचो निवर्त्तन्ते अप्राप्य मनसा सह' (तैत्ति० आरण्य० ८\।४\।१) इत्यादिश्रुते। वागादिसर्वद्रष्टृत्वाच्च न तासां विषय। न हि घटादिप्रकाशको दीपो घटादिविषयो भवति, अत एव त्वामतीन्द्रिय वेदवादिनो वेदज्ञा वदन्ति। त्वां सत्तामात्र सर्वत्र स्वसम्बन्धवत् सदिति व्यवहारोपपादकम् 'सर्वा प्रजा सदायतना' (छान्दो० ६८१४ ) इति श्रुते। ज्ञानैकविग्रह 'सत्य ज्ञानम्' इति श्रुते। वदन्ति। रा०।
 
  २७। परमार्थतस्तु निर्गुण एव त्वमित्याह—तुर्य एवेति। तत्तद्गुणसंयुक्तोक्तमूर्तियापेक्षया चतुर्थ इत्यर्थ.। यद्वा जाग्रत्स्वप्नसुषुप्तावस्थासु विश्वतैजसप्राज्ञेभ्यस्तुर्य इत्यर्थ। 'न बहि प्रज्ञ नान्त प्रज्ञं नोभयत प्रज्ञम् ' ( माण्डूक्य० ६ ) इति श्रुते। इय हि क्रमेण जाग्रत्स्वावस्था निषेधति, अत एव सदा अमलो मायागुणास्पृष्टत्वादित्यर्थः। रा०।
-
-
 
 करोषीव न कर्त्ता त्वं गच्छसीव न गच्छसि।  
 न शृणोषि शृणोव पश्यसषीव न पश्यसि॥ २८॥
@@ -5634,8 +5242,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 'सर्वं खल्विद ब्रह्म' ( छान्दो० ३।१४। १ ) गो० \]
 
-
-
 त्वं ममोदर सम्भूत[^424] इति लोकान् विडम्बसे।  
 भक्तेषु[^425] पारवश्य ते दृष्ट मेऽद्य रघूत्तम[^426]॥ ३१॥
 
@@ -5682,8 +5288,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 आवृगोत्विति। तव विश्वविमोहिनी माया अघटनघटनासामर्थ्यवती प्रकृतिरूपा। 'मायान्तु प्रकृतिं विद्यादिति श्रुते। मामावृणोतु। तथैतद्रूपाचस्थानेन मनसस्तद्गतत्वाद मायाया प्रवेशो न सम्भवतीति भाव।
 
 'मामेव ये प्रपद्यन्ते मायामेता तरन्ति ते' इत्युक्ते।
-
-
 
 उपसंहर विश्वात्मन्नेत[^427]द्रूपमलौकिकम्।  
 दर्शयस्व महानन्द[^428] बालभावं सुकोमलम्।  
@@ -5736,8 +5340,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 **अ—१०**
 
-
-
 संवादमावयोर्यस्तु पठेद्वा शृणुयादपि।  
 स याति मम सारूप्यं मरणे मत्स्मृतिं लभेत्॥३६॥
 
@@ -5784,8 +5386,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ४२। पुत्रोद्भवपुत्रोत्पत्तिस्तद्रूपमुत्सवम्। रा०।
 
 ४३। राजीवं कमलम्। गुरुणेति करणे तृतीया। जातकर्माणि बहुवचनेन नामकरण-पर्यन्तकर्तव्य षष्ठी पूजादिसंग्रहः। रा०।
-
-
 
 **तदा ग्रामसहस्त्राणि ब्राह्मणेभ्यो मुदा[^437] ददौ।  
 सुवर्णानि च रत्नानि वासांसि सुरभीः[^438] शुभाः॥४५॥**
@@ -5834,8 +5434,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ४८। पायसांशानुसारत. कौशल्यापायसांशत्वात् लक्ष्मणो रामानुचर, कैकेयीपासांशत्वाच्चशत्रुघ्नो भरतानुचर इत्यर्थ.। रा०।
 
-
-
 भाले स्वर्णमयाश्वत्थपर्ण[^443]मुक्ताफलप्रभम्।  
 कण्ठे रत्नमणि[^444]व्रातमध्य[^445]द्वीपिनखाञ्चितम्॥ ५०॥
 
@@ -5879,8 +5477,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ५१। स्वर्णैसम्पन्नानि घटितानि रत्नानि यस्मिन् तत्, अर्जुनवृक्षस्य शटालकमपक्वफलं तदाकार भूषणं यस्य रत्नार्जुनशलाटुकमिति पाठान्तरम्। अर्थस्तुल्य। शिञ्जाना शब्दयुक्ता ये मणयस्तद्वयुक्तैर्मञ्जीरकटिसूत्राङ्गदैवृतम्। मञ्जीरपादभूषणम्, अङ्गदो बाहुभूषणम्। रा०।
 
  ५२। स्मितमीषद्धास्ययुक्तं वक्तुं यस्य स वासावल्पवशनश्चेति तम्। तर्णकान् सद्यो- जातगोवत्सान् 'सद्योजातस्तु तर्णक' इत्यमरः। अनु गोवत्सपुच्छधारणपूर्वं रिङ्गमाणं बालविचेष्टितेन क्रीडन्तम्।
-
-
 
 **दृष्ट्वा दशरथो राजा कौशल्या मुमुदे तदा।  
 भोक्ष्यमाणो दशरथोराममेहीति[^450] चासकृत्॥ ५३॥**
@@ -5930,8 +5526,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ६२। सूदेन सूपकारेण पाचकेनेत्यर्थः।
 
-
-
 कौशल्या धावमानाऽपि प्रस्खलन्ती पदे पदे।  
 रघुनाथ करे धृत्वा किञ्चिन्नोवाच भाविनि॥ ६३॥
 
@@ -5975,8 +5569,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 राज्ञो बलार्थिन षष्ठे वैश्वस्येहार्थिनोऽष्टमे॥ (२।३७)
 
 इति मनूक्तविशेषवचनेन बलार्थिनां तेषां कौमारात् परं षष्ठे वर्षे उपनयन युज्यत एव इत्यविरोध।
-
-
 
 लक्ष्मणस्तु
 
@@ -6037,8 +5629,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  \[ एवमित्यादि। मनुष्यलोकाननुस्मृत्य नराकारमनुकृत्य सर्वं चक्रे। विचार्यमाणे तस्य याथार्थ्येविचार्यमाणे स्वयं किञ्चिदपि न करोति। यत परिणामहीन, तत् कुत ? अविकारी स्वभावतो विकाररहित। तदेव कुत ? यत परात्मा परमात्मा। गो० \]
 
-
-
 **चतुर्थोऽध्यायः**
 
 **![](../books_images/U-IMG-1726237106Screenshot2024-09-06175906.png)**
@@ -6089,8 +5679,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ४। तत्रैव तद्गृह एव भवदाद्यागमनस्य सकलसम्पत्प्रतिबन्धकदुरितनाशकत्वादितिभाव।
 
-
-
 यदर्थमागतोऽसि त्वं ब्रूहि सत्यं करोमि तत्।  
 विश्वामित्रोऽपि तं प्रीत[^472]. प्रत्युवाच महामतिः[^473]॥ ५॥
 
@@ -6139,10 +5727,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 इत्यादिब्रह्मपुराणवचनात् पर्वादिषु पितृयज्ञादीनामधिकफलश्रवणेन तत्तद्दिन एव विश्वामित्रस्य यागप्रसक्ति। इष्ट्या यज्ञेन। दैत्या इति। अन्न देत्यपदेन तादृशक्रूरस्वभावसम्पन्नानामेव ग्रहणम् तेन मारीचादयो राक्षसा अपि गृह्यन्ते। के ते इत्याह—मारीचश्चेति।
 
  ७। यतो यज्ञविघ्नंकुर्वन्ति, अतोऽस्माद्धेतोरित्यर्थ। लक्ष्मणेन सह भ्रान्ना इत्युक्त्या मारीचसुबाह्वोर्वधार्थं राम परेषामनुचराणा वधार्थञ्च लक्ष्मण देहीत्यर्थ प्रतिभाति। तव श्रेयो भविष्यतीति ममाज्ञापरिपालनेन यज्ञविघ्नविध्वसनजन्यसुकृतेन मत्तो दुरधिगमा नामस्त्राणामधिगमेन च रामस्योत्तरकाले शुभसम्पादनं तेन च तव कल्याणं भविष्यतीत्यभिप्राय। कुलगुरुर्वशिष्ठ एवात्र प्रभवतीत्याह—वशिष्ठेनेति।
-
-
-
-
 
 बहुवर्षसहस्रान्ते कष्टेनोत्पादिताः सुताः।  
 चत्वारो[^478] मम तुल्यास्ते तेषां रामोऽतिवल्लभ[^479]'॥ ६॥
@@ -6198,8 +5782,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 नोत्सहत इति भाव।
 
  १२-१३ \। देवगुह्यं देवानामपि अप्रकाश्यमतो गोपनीयमस्माकमपीति शेष। श्रुण्विति।
-
-
 
 भूमेर्भारावताराय ब्रह्मणा प्रार्थित पुरा।  
 स एव जातो भगवान्[^484] कौशल्यायां तवानघ[^485]॥ १३॥
@@ -6265,8 +5847,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \[ भूतानि भावयति उत्पादयतीति भूतभावन सर्वेषां जनकोऽपीत्यर्थ। गो० \]
 
-
-
 शेषस्तु लक्ष्मणो राजन् राममेवान्वपद्यत।  
 जातौ भरतशत्रुघ्नौ शङ्खचक्रे[^495] गदाभृत'॥ १८॥
 
@@ -6326,8 +5906,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  २३।मूर्ध्न्यवघ्रायेति। 'प्रजापतेस्त्वां हिङ्कारेणावजिघ्रामि सहस्रायुषोऽसौ जीव शरद शतम्' इत्यवघ्राणमन्त्रलिङ्गेन तस्य पुत्रायुर्वृद्धिकरत्वात् तत्करणमिति बोध्यम्। रा०।
 
-
-
 कञ्चिद्देश[^505]मतिक्रम्य राममाहूय भक्तित।  
 ददौ बलाञ्चातिबलां विद्ये द्वे देवनिर्मिते।  
 ययोर्ग्रहणमात्रेण क्षुत्क्षामादि[^506] न जायते॥ २५॥
@@ -6373,8 +5951,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  २६। उत्तीर्य गङ्गामिति। वाल्मीकिरामायणं नात्र गङ्गोत्तरणम्। सरय्वा अविदूरे स्थिताया कस्याश्चिद्देवनद्या दर्शनमात्रम्, तस्यास्तीरे ऋषीणामाश्रमान् दृष्ट्वा जातकुतूहलयो राम-लक्ष्मणयोस्तेषां तत्त्वजिज्ञासा ( १।२६।५-७ )। अत्रैव कामाश्रमदर्शनम्, महर्षिणा तस्य याथार्थ्य -  
 वर्णनञ्च ( १।२६।८-१६ )। तत परञ्च तेषां सरय्वाः परपारगमनम्।
-
-
 
 अत्रास्ति[^510] ताडका[^511] नाम राक्षसी कामरूपिणी।  
 बाधते लोकमखिलं जहि तामविचारयन्[^512]॥ २७॥
@@ -6440,8 +6016,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ३१ \। रामप्रसादतो मुक्ता अतिसुन्दरी यक्षी भूत्वा दिव गतेत्यन्वय।
 
-
-
 ततोऽतिहृष्टः परिरभ्य रामं  
 मूर्धन्य[^521]वघ्रायविचिन्त्य किञ्चित्।  
 सर्वास्त्रजालं सरहस्यमन्त्रं  
@@ -6466,8 +6040,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  सरहस्यमन्त्रास्त्रजालानामर्पणं प्राच्ये वाल्मीकीये आदिकाण्डे त्रिशैकत्रिंशसर्गयोर्वर्त्तते।
 
 **———**
-
-
 
 **पञ्चमोऽध्यायः**
 
@@ -6513,8 +6085,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  इत्युक्ते।
 
 ३। दीक्षा प्रदिश्यतां यज्ञ आरभ्यताम्, दीक्षितो भवेत्यर्थ।
-
-
 
 मध्याह्ने ददृशाते तौ राक्षसौ कामरूपिणौ।  
 मारीचश्च सुबाहुश्च वर्षन्तौ रुधिरास्थिनी॥ ५॥
@@ -6581,8 +6151,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 अ—१२
 
-
-
 इत्युक्त्वा मुनिभिस्ताभ्यां ययौ गङ्गासमीपगम्।  
 गौतम[^538]स्याऽऽश्रमं पुण्यं यत्राहल्या[^539] शिलामयी॥ १४॥
 
@@ -6643,8 +6211,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 यस्या न विद्यते हल्य तेनाहल्येति विश्रुता।  
 अहल्येत्येव च मया तस्या नाम प्रकीर्तितम्॥
 
-
-
 कदाचिन्मुनिवेशेन[^546] निर्गते[^547] गौतमे[^548] गृहात्।  
 तां[^549] धर्षयित्वा निरगात् त्वरित मुनिरप्यगात्[^550]॥ २१॥
 
@@ -6700,8 +6266,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 अब्रवीच्च सुरश्रेष्ठं कृतार्थं सा वचस्तदा।  
 कृतार्थोऽसि सुरश्रेष्ठगच्छ शीघ्रमलक्षित।  
 आत्मानं माञ्च देवेश सर्वथा रक्ष मानद॥ इति १४९।१९ - २० श्लो०।
-
-
 
 योनिलम्पट दुष्टात्मन् सहस्रभगवान् भव।  
 शप्त्वा त देवराजान प्रविश्य स्वाश्रम द्रुतम्॥ २५॥
@@ -6766,8 +6330,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ३१। त्वदाश्रयशिलां तवावासभूतां शिलामित्यर्थ। धूतपापाऽपगतकलुषा।
 
-
-
 इत्युक्त्वागौतमः[^564] प्रागाद्धिमवन्त नगोत्तमम्।  
 तदाद्यहल्या[^565] भूतानामदृश्या स्वाश्र मे[^566] शुभे॥३३॥
 
@@ -6814,8 +6376,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ३६। नरो०। मुनिपुङ्गवो मुनिश्रेष्ठ।
 
  ३९। नरो०। श्रीवत्सेनाङ्कितं चिह्नित वक्षो यस्य तादृशम्।
@@ -6829,8 +6389,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ३७। ताञ्चापश्यत्, पादस्पर्शमात्रेणैव कृतशरीरपरिग्रहां तामहल्यामपश्यदित्यर्थ।
 
  ४१। हर्षजन्यं यदश्रुरूपं जलं तद्युक्ते नेत्रान्ते यस्या सा। रा०।
-
-
 
 उत्थाय च पुनर्दृष्ट्वा राम राजीवलोचनम्।  
 पुलका[^573]ङ्कितस र्वाङ्गा[^574] गिरा गद् गदयैडयत्[^575]॥४२॥
@@ -6855,8 +6413,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ४३।नरो०।हे जगन्निवास हे जगदाश्रय, ते तवपादाग्रमलग्नरज कणानह स्पृशामि। अहो आश्रयम्। कृतार्थाऽस्मि। ननु सुलभस्यमम पादरजसो लाभे कथं तव विस्मय इत्यत आह—यदित्यादि। यत् पादाग्रसलग्नरज। पद्मजो ब्रह्मा। तत्र चित्तावेश विना कथ तल्लाभो भवेदित्यत आह—वन्दितमानसरिति। वन्दिते वन्दने मानस येषां तादृशे। कदाचिदन्वेषणे कथं तल्लाभो भवेदिति चेत्तत्राऽऽह—सदेति। इन्द्रादयो येषां पदरजो वाञ्छन्ति तेऽपि तव पादरजो वान्छन्तीति भाव।
 
  ४४।नरो०।हे राम, तव चेष्टित विचित्र नानारूपम्। राजपुत्रोऽह मृगयाये सततमरण्ये भ्रमामि मच्चेष्टा कथ तव विस्मयजनिकेत्यत आह—मनुष्यभावेनेति। मनुष्यभावेन मानुषरूपेण। अजस्त्र निरन्तरम्। चरणादिवर्जितत्वे हेतु—सम्पूर्ण आनन्दमय इति। अखण्डानन्दस्वरूप इत्यर्थ। तर्हि कथमह साकार इत्यत आह—अतिमायिक इति।
@@ -6870,8 +6426,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  \[अहो इत्यादि। यद् ब्रह्मादिभि केवल मृग्यते अहन्तु तत् साक्षात् स्पृशामि अहो भाग्यमित्यर्थ। गो०\]
 
  ४४। अहो इति। आश्चर्यं विचित्रम्। वास्तवस्वरूपाननुगुण तव चेष्टितम्, यत ‘अपाणिपादो जवनो ग्रहीता’ (श्वेता ० ३।१९) इति श्रुतेर्वस्तुतश्चरणादिवर्जितोऽपि सन् संपूर्ण सर्वव्याप्तोऽपि सन् आनन्दमयस्तत्स्वरूपोऽपि सन् जगत् आत्मनि मनुष्यबुद्ध्युत्पादनेन मनुष्यभावेन चलसि। क्रियामात्रोपलक्षणमिदम्। विरोधाभासोऽत्र, औपाधिकत्वेन तत्परिहारात्। नन्वीदृशस्य मनुष्यभाव कथं तत्राऽऽह—अतिमायिक इति। सकलमायावद्भ्योऽत्युत्कृष्टः,
-
-
 
 यत्पादपङ्कज परागपवित्रगात्[^579]राभागीरथी भवविरिञ्चिमुखान् पुनाति।  
 साक्षात् स एष मम दृग्विषये[^580] यदास्ते कि वर्ण्यते मम पुराकृतभागधेयम्॥४५॥
@@ -6892,8 +6446,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ४५। नरो०। यद्दर्शन योगिनामपि दुर्लभ तत् कथं मया मूढया प्राप्तमिति विस्मयान्विता आत्मन पूर्वकृतकर्मजनितशुभादृष्टस्यान्यशुभादृष्टवैलक्षण्य मन्यमानाह—यदित्यादि। यस्य पादपङ्कजं पादपद्मं तस्य यपरागो रेणुस्तेन पवित्र गात्र यस्यास्तादृशी भागीरथी गङ्गा। भवविरिज्जीमुखे आदी येषां तान्। भवो रुद्र, विरिञ्चिर्ब्रह्मा। तस्यांशभूत कोऽप्यसौ भवेन्नेत्यभिप्रेत्याऽऽह—साक्षात् स एष इति। दृग्विषये मार्गे इति शेष। यद्यस्मात्। किं कथम्।
 
  ४६। नरो०। अलौकिकरूपं दृष्ट्वाऽतितोष प्राप्य तं विभजिष्णुराह—मर्त्यावतारे इत्यादि। मर्त्यरूपेण योऽवतारस्तस्मिन्। यद्वा मर्त्यलोके योऽवतारस्तस्मिन्। सेव्यत्वाश्रयत्वसाधकान्यन्यविलक्षणविशेषणान्याह—मनुजस्येवाऽऽकृतिराकारो यस्य। मनुजाकृतिरिवाकृतिर्यस्येति वा तादृशम्, राम इति अभिधेय नाम यस्य तादृशम्। पद्मे इव सिते विशाले लोचने यस्य तादृशम्। सिते इति साधर्म्यसूचनार्थमुक्तं न त्वत्रास्तीति दिक्।
@@ -6909,8 +6461,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ४५। यत्पादपङ्कजपवित्रजन्मा ‘विष्णो पाढप्रसूते’ति पुराणोक्ते। भवविरिञ्चिमुखान शिवब्रह्मप्रभृतीन् पुनातिपवित्री करोति। साक्षात् प्रत्यक्षत शरीरीत्यर्थ। दृग्विषय दृशोश्चक्षुषोर्विषयं गोचरं यथा स्यात्तथा। अतो मम पुराकृतभागधेय पूर्वपूर्वजन्मोत्थभाग्य किं वर्ण्यते, तत्तु वर्णनाऽयोग्यमित्यर्थ।
 
  ४७। यस्य पादो विश्व ‘पादोऽस्य विश्वा भूतानि’ (पुरुषसूक्तम् ३) इति श्रुते। तदेव पङ्कजं तस्य रजो रज इव सारांश। यथा कमले सौगन्ध्यसम्पादकतयाऽन्तर्विद्यमानरज एव सारम्
-
-
 
 यस्यावतारचरितानि विरिञ्चिलोके गायन्ति नारदमुखा भवपद्मजाद्याः।  
 आनन्दजाश्रुपरिषिक्तकुचाग्रसीमा वागीश्वरी च तमहं शरणं प्रपद्ये॥४८॥
@@ -6953,8 +6503,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ४९। सोऽय राम परात्मा पर सर्वजीवेभ्यः प्रकृतेश्चाधिक आत्मा पुरुष, पुरि शयनात् पुरुष, पुराणसर्वदा विद्यमान इत्यर्थ। एष स्वयज्योति स्वप्रकाश, अनन्तोऽविनाशी, आद्य सर्वकारणं य परानुग्रहे परेषां मादृशजनानामनुग्रहे कर्त्तव्यतया बुद्धिस्थे सति परम-
 
-
-
 अयं हि सृष्टिस्थितिसंयमानामेक[^588] स्वमायागुण बिम्बितो[^589] यः।  
 विरिञ्चिविष्ण्वीश्वरनामभेदान्[^590] धत्ते स्वतन्त्र परिपूर्ण आत्मा॥५०॥
 
@@ -6974,8 +6522,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 सुन्दरत्वादिगुणैर्लोकविमोहिनीं मायातनुं न त्वितरजनवत् पाञ्चभौतिकीं धत्ते स एवैष राम, उपासकानां कार्यार्थं ब्रह्मणो रूपकल्पना’ (रामतापनी० ७) इति श्रुतेः। रा०।
 
- 
-
 \[सोऽयमिति। न त्वं कस्याप्यात्मज किन्तु पुराण पुरुष। आद्य सर्वकारणानाम्, एष मम पुरोवर्त्ती। सोऽयमेव पुरि शरीरे शेते इति पुरुष। तर्हि किं जीव? न, परात्मा। ननु जीवोऽपि पर एव बुद्धेस्तु पुरुष पर’ इति श्रुतेरित्यत आह—स्वयंज्योति स्वप्रकाश। प्रकाशो ज्ञानशक्ति, जीवस्य त्वीश्वरप्रसादादेव ज्ञानोदय। तदुक्तं जीवस्तुतौ—
 
 ‘नष्टस्मृति पुनरयं प्रवृणीत लोकं  
@@ -6986,8 +6532,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ५०। अय हीति। विश्वस्य जगत उद्भव उत्पत्ति, संयमो नाश, ताभ्यां पालनमप्युपलक्ष्यते, तेषां स्वतन्त्र कर्त्ता। ‘स्वतन्त्र कर्त्ता इति’ (१।४।५४) पाणिन्युक्ते। य एक एव परिपूर्णो व्यापक आत्मा स्वमायागुणेषु रज सत्त्वतम सु बिम्बित सन् विरिञ्चयादिनामभेदान् धत्ते, रजोगुणोपहितचैतन्यमेव ब्रह्मा, सत्त्वगुणोपहितं विष्णु, तमोगुणयुक्तं रुद्र इति भाव।रा०।
 
  \[स एवायं राम परिपूर्ण आत्मेत्यन्वय। यो विश्वस्य उद्भवसंयमानां जन्मनाशपालनानां कृते बहुवचनेन पालनस्यापि सग्रहाद् एकोऽपि स्वाधीनाया मायाया से गुणा रजसत्त्वतमांसि तेषु बिम्बित बिम्बमिव स्थित सन् विरियादिनामभेदान् धत्ते। गो०\]
-
-
 
 नमोऽस्तु[^591] ते[^592] राम तवाङ्घ्रिपङ्कजं श्रिया धृतं वक्षसि लालितं प्रियात्[^593]।  
 आक्रान्तमेकेन जगत्त्रय पुरा ध्येय[^594] मुनीन्द्रैरभिमानवर्जितै॥५१॥
@@ -7007,8 +6551,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ५१। नरो०। अतिविस्मयान्नमस्कृत्य सम्बोध्य च पुनस्तौति—नमोऽस्त्वित्यादिना। हे राम, प्रियात्लालित तवाङ्घ्रिपङ्कज श्रिया वक्षसि धृतमित्यन्वय। लालितमीप्सितं प्रियमिति यावत्। श्रिया लक्ष्म्या। एकेनाङघ्रिपङ्कजेन।ध्येयमर्यात्तदङ्घ्रिपङ्कजम्। अभिमानवर्जितैरहङ्कारत्यक्तैः।
 
  ५२। नरो०। आदिभूत आदिकारणमित्यर्थ। जगत् त्वमित्यनेन त्वदतिरिक्त किमपि नास्तीति सूचितम्।जगदाश्रय इत्यनेन त्वामेवावलम्ब्य जगद वर्त्तते इत्युक्तम्। सर्वभूतेषु जरायुजाण्डजोदभिज्जेषु ससक्त स्थित। तर्हि तदगुणैर्न कथ लिप्येऽहमिति चेत्तत्राऽऽह—पर इति। भिन्न इत्यर्थ। ननु तत्र तिष्टतो मम परिच्छिन्नत्व कथ न स्यादिति चेत्तत्राऽऽह—एक इति। अद्वितीय इत्यर्थ।  
@@ -7026,8 +6568,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  पुन किम्भूत तत् पदमित्याह—ध्येयमिति। तव यच्च पदम् अभिमानवर्जितैर्मुनीन्द्रैर्ध्येय 'तद विष्णो परम पद सदा पश्यन्ति सूरय' (कठो० ३।९) इत्युक्त्वा, तस्मै मे नमोऽस्तु।
 
  ५२। जगतामिति। आदिभूत कारणत्वादिति भाव। जगत् त्व जगदनुवादेन त्वत्पदोपात्तब्रह्मात्मत्व विधीयते' सर्वं खल्विदं ब्रह्म' (छान्दो० ३।१४।१) इति वत्। तत्र जगतो मिथ्याभूतत्वेन ब्रह्मसामानाधिकरण्यानुपपत्तावप्यव्यस्तत्वेन जगदबाधफलकत्वान्न दोष। एवञ्च जगदारोपाधिष्ठान त्वमित्यर्थ। तदेवाऽऽह—जगदाश्रय इति। 'इमा प्रजा सदायतना सत्-
-
-
 
 ओङ्कारवाच्यस्त्वं राम वाचामविषयः पुमान्।  
 वाच्यवाचकभेदेन भवानेव जगन्मयः॥५३॥
@@ -7049,15 +6589,13 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  इति रीत्या प्रणवसाधन तदाऽप्यहमनुवादेन तत्ताविशिष्टान्तर्याम्यभेदप्रतिपादनात् सगुणएव तदर्थ। यद्वा, सकारहकारलोपेन तत्त्वाहन्त्वयोस्त्यागाच्छुद्धमेव ब्रह्म तदर्थ। तर्हि किं सगुण एवाहं नेत्याह—वाचामविषय इति। निर्धर्मकत्वाच्छक्त्त्याद्यसम्भवेन स्वरूपतस्तज्जन्यबोधविषय इत्यर्थ। नन्वेव 'तस्य वाचक प्रणव' इति पातञ्जलसूत्रासङ्गतिस्तत्राऽऽह—वाच्येति। वाच्यवाचकभेदेन तत्कल्पनया भवानेव मायया जगन्मय इति कल्पितभेदेन कल्पितगुणैश्च तव वाच्यत्व गृहीत्वा पारमर्षसूत्रोपपत्तिरिति भाव। रा०।
 
- \[ओङ्कारवाच्य इति, प्रणवस्याभिधेय परं ब्रह्मेत्यर्थ। तथाच नारदीयम्—
+ \ओङ्कारवाच्य इति, प्रणवस्याभिधेय परं ब्रह्मेत्यर्थ। तथाच नारदीयम्—
 
 **'वाच्यन्तु परमं ब्रह्म वाचक प्रणवः स्मृत’ इति।**
 
  वाचामविषयोऽगोचर पुरुष, अतो मूक इति नोच्यते वाचक शब्दोऽपि त्वद्व्यतिरिक्तो
 
-
-
-कार्यकारणक[र्त्तृ्त्व](http://॑# "1.ड' 'त्तृत्व', 'च छ ' 'त्वात्' ।")फलसाधनभेदत[^596]।  
+कार्यकारणक[र्त्तृ्त्व[^3165]फलसाधनभेदत[^596]।  
 एको विभासि राम[^597] त्वं मायया बहुरूपया॥५४॥  
 त्वन्मायामोहितधियस्त्वां न जानन्ति तत्त्वत।  
 मानुष त्वाऽभिमन्यन्ते मायिनं परमेश्वरम्॥५५॥
@@ -7066,9 +6604,9 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 [^597]: "3 ड ' रामस्व ' ।"
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+[^3165]: "1.ड' 'त्तृत्व', 'च छ ' 'त्वात्' ।"
 
- 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ५४। नरो०। कार्य सुखदु खादि, कारणमिन्द्रियम्‚ फलमदृष्टम्, साधनं कर्म (?)। तर्हि मम बहुत्वं स्यादित्यत्राऽऽह—एक इति। अद्वितीय इत्यर्थ। तर्हि नानापदार्था कथ दृश्यन्ते चेत्तत्राऽऽह—मायया बहुरूपयेति। मायव पूर्वपूर्वसस्कारजीवकर्मप्रयुक्ता सती जगदाकारेण परिणमते काले निवर्त्तते चेति भाव। जीवकर्मभेदान्माया इति नास्ति विरोध।
 
@@ -7094,8 +6632,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ५५। नन्वीदृशो यद्यहं तर्हि लोको मां तथा किमिति न जानातीत्यत्राऽऽह—त्वन्मायेति। त्वद्विषयया माययेत्यर्थः। तदुक्तं विष्णुपुराणे—
 
-
-
 आकाशवत् त्व सर्वत्र बहिरन्तर्गतोऽमल।  
 असङ्गो ह्यचलो[^598] नित्य[^599] शुद्धो बुद्ध सदाऽद्वयः[^600]॥५६॥  
 योषिन्मूढाऽहमज्ञा ते तत्त्व जाने कथ विभो।  
@@ -7109,35 +6645,24 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ननु राजपुत्रोऽसाविति ज्ञान सर्वेषां विद्यते कथ त्वयोक्त न जानन्तीति चेत्तत्राऽऽह—तत्त्वत इति। स्वरूपेणेत्यर्थ, याथार्थ्येनेत्यर्थो वा। तर्हि केन रूपेण मां नानन्तीत्यपेक्षायामाह—मानुषमित्यादि। त्वा त्वाम्। मानुषरूपेण कथ मां जानन्तीति चेत्तत्राऽऽह—मायिनमिति। मायया मानुषरूपिणमित्यर्थ।
 
  ५६। नरो०। तर्हि किं मम स्वरूपमित्यपक्षायामाह—आकाशवदित्यादि। आकाशवदित्यादिना सर्वव्यापकत्वमुक्तम्, तेन चापरिच्छिन्नत्व सूचितम्। ननु तर्हि सर्वगुणेषु सक्तस्य मम ब्रह्मत्व कुत इति चेत्तत्राऽऽह—असङ्ग इति। अत एवामल। अचल स्थिरस्वभाव। नित्योऽविनाशी। सदा विद्यमानं द्वय द्विधाभावो यत्र तादृश।यद्वा, सदाऽविद्यमान द्वयं यस्मात् तादृश। जीवत्ववारणाय शुद्ध इत्युक्तम्। शुद्वत्वन्त्वन्त करणाद्युपाधिसम्बन्ध शून्यत्वं रागादिशून्यत्व वा। नित्यशुद्धबुद्धमुक्तानन्ताद्वयस्वभावत्वमिति भाव। अत्र तदभिन्नत्वे सति तद्बोधकत्वमिति स्वरूपलक्षण बोध्यम्।
-
-
 
  ५७। नरो०। ब्रह्मादयोऽप्यस्य तत्त्वं न जानन्ति योपिन्मूढाऽह कथं जानामीति हृदि निधायाऽऽह—योषिदित्यादि। यतो मूढा विवेकशून्या अतोऽज्ञा परमेश्वरविषयकज्ञानशून्या। हे विभो हे सर्वव्यापिन्, अत पर किं कार्यमित्यपेक्षायामाह—तस्मादित्यादि। यद्वा, उपसंहरति तस्मादिति। ते इत्यत्र विवक्षितकर्मणि सम्बन्धविवक्षायां षष्ठी।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ‘योऽहं स त्वं जगच्चेद सदेवासुरमानुषम्।  
 अविद्यामोहितात्मान पुरुषा भिन्नदर्शिन॥
 
-                                   
      (५।३३।४८ श्लो०) इति। रा०।
-
-
 
  ५६। \[नन्विदंकारास्पदत्वेन परिच्छिन्नस्य कथमीश्वरत्वं तत्राऽऽह—आकाशवदित्यादि। बहिरन्तर्गतत्वेऽप्यनासक्तिमाह—अमल इति, असङ्ग इति। ‘असङ्गो ह्ययं पुरुष’ (बृहदा ० ४।३।१५) इति श्रुते। अचल स्थाणु। गो०\]
 
  ५७। मूढा तमोगुणप्रधाना अत एवाज्ञा नमस्कुर्यां तद्रूपज्ञानायेति भाव। रा०।
 
  \[योषिदिति। यतो योषिदतो मूढा अज्ञाऽह तव तत्त्वं कथ जाने, तस्मात्तत्त्वज्ञानाग्रहं त्यक्त्वा शतशस्ते तुभ्य नमस्कुर्याम्। गो०\]
-
-
 
 देव मेयत्र कुत्रापि स्थिताया अपि सर्वदा।  
 त्वत्पादकमले[^601] सक्ता[^602] भक्तिरेव सदाऽस्तु मे॥५८॥
@@ -7178,8 +6703,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 **‘नारायणाय नम इत्ययमेव सत्य’  
 संसारघोरविषसहरणाय मन्त्र।’इति। रा०।**
 
-
-
 स्तुत्वैवं पुरुष साक्षाद्राघवं पुरतः स्थितम्।  
 परिक्रम्य प्रणम्याऽऽशु साऽनुज्ञाता ययौ पतिम्[^604]॥६१॥
 
@@ -7219,8 +6742,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ६१। नरो०। परिक्रम्य प्रदक्षिणीकृत्य।
 
  ६५। नरो०। गुरुतल्पगोऽपीति। गुरु पिता, तल्पं स्त्री विमातेति यावत्। भोगैकवाञ्छातुरोभोगकेवलवाञ्छातुर भोगकेवलवाञ्छाव्याकुल इत्यर्थ। भोग एव एको मुख्यो यत्र ताद्दशवाञ्छ्या व्याकुल इत्यर्थो वा। कदाचिदपि भोगे विरागो नास्तीति सूचनाय एकेत्युक्तम्।
@@ -7229,11 +6750,7 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ६५। मातृभ्रात्रित्यत्रानड्भाव आर्प। भोगैकबद्व आतुर इति च्छेद, सन्धिरार्प। रा०।
-
-
 
 **षष्ठोऽध्यायः**
 
@@ -7279,8 +6796,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ५। नरो०। सर्वलक्षणलक्षिताविति शुभसूचकाशेपचिह्नचिह्नितावित्यर्थ। चन्द्रसूर्याविवेतिइवशब्दोऽत्र उत्प्रेक्षाद्योतक। तथा च दण्डी—
 
 मन्ये शङ्केध्रुव प्रायो ननमित्येवमादिभि।  
@@ -7296,8 +6811,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 **तुर्ये धर्मकलासर्गे नरनारायणावृषी।**  
 **भूत्वात्मोपशमोपेतमकरोद दुश्चरं तप॥ १।३।९ इति भागवतोक्ते।**
-
-
 
 प्रत्युवाच मुनिः प्रीतो हर्षयञ्जनकं तदा।  
 पुत्रौदशरथस्यैतौ भ्रातरौ रामलक्ष्मणौ॥७॥
@@ -7336,8 +6849,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 प्रीतिकरत्वम्।नरनारायणाविवेति कृष्णार्जुनाविवेत्यर्थ।अत्र उपमायामिव, मनःप्रीतिकरत्वमत्र साधर्म्यम्।
 
  ७। नरो०। सहचरत्वसूचनाय भ्रातरावित्युक्तम्।
@@ -7351,8 +6862,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  १२। तच्च सर्व राजभिर्दृष्टमेव न त्वारूढज्यं कृतमित्यनुशुश्रुवे अनेन श्रुतमित्यर्थ। रा०।
-
-
 
 अथो[^629] दर्शय राजेन्द्र दैव[^630] चापमनुत्तमम्।  
 दृष्ट्वायोभ्यां जिगमिषुः पितरं द्रष्टुमिच्छति॥१३॥
@@ -7395,8 +6904,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 १३। नरो०। अथो अत। दैव देवसम्बन्धिनम्। कथमस्य दिदृक्षा इति चेत्तत्राऽऽह—अविद्यमान उत्तमो यस्मात् तादृशम्। एतदर्थमागत इति बोधो मा भूदिति हृदि कृत्वाह—द्देष्टे्वत्यादि।
 
  १५। नरो०। तत पूजानन्तरम्।बुद्धिमत्तरमतिबुद्धिमन्तमित्यर्थः। एतेनाभिनयव्यङ्गयज्ञत्वं सूचितम्। शीघ्रमित्याद्युक्तेर्जनकस्याऽऽत्मौत्सुक्य सूचितम्। रामायेति रामं हृदि कृत्वेत्यर्थ \[?\]।
@@ -7412,8 +6919,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  १३। अयोध्यां जिगमिषुपितृदर्शनार्थं गन्तुमिच्छु रामदृष्ट्वा धनुरिति शेष। पितर द्रष्टुमिच्छति।
 
  १८। \'मौनीशे' इत्यत्र 'कौलीशे' इति पाठे कुलपतौ मुनौ। शकादेराकृतिगणत्वात्
-
-
 
 [घण्टाशतसमायुक्त[^639] स्वर्णपट्टैर्विभूषितम्[^640]।  
 दर्शयामास रामाय मन्त्री मन्त्रविदां[^641] वरः॥१९॥
@@ -7459,8 +6964,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  २१। अखिलहृत्सार अखिलप्राणिनां हिरण्यगर्भादीनां सकलब्रह्माण्डस्थानां हृत्सारो बलं यस्य स। रा०।
 
  \[बभञ्जाखिलह्रत्सार इति। अखिलानां लोकानां हृदसारो बलं यस्मिन्। सर्वतेजोरूपाखिलानां हृत्सार। गो०\]
-
-
 
 आच्छादयन्त कुसुमैर्देवास्तुतिभिरीडिरे।  
 देवदुन्दुभयो नेदुर्ननृतुश्चाप्सरोगणा॥२३॥
@@ -7520,8 +7023,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  २६। \[मुक्ताहारैकर्णपत्रैश्च भूषिता इति समासैकदेशे सम्बन्ध। गो०\] निक्षिप्य मालामिति शेष। स्मयमाना ईषद्धास्ययुक्ता।
 
-
-
 तथेति प्रेषयामास दूतांस्त्वरितविक्रमान्।  
 ते गत्वा राजशार्दूलं[^655] रामश्रेयो न्यवेदयन्॥२९॥
 
@@ -7572,8 +7073,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ३१। गजाश्वरथपत्तय इति मध्यपदलोपी समास। 'द्वन्द्वश्च' इति सूत्रे सेनाङ्गशब्देन रथिकादीनामेव ग्रहणम्, न रथादीनामतोऽत्र न दोष। अत एव 'संग्रामं हस्त्यश्वरथपदातिभि' इति अल्पाच्तरसूत्रस्थभाष्यप्रयोगसङ्गच्छत इत्यन्ये। रा०।
 
-
-
 दिष्ट्या पश्यामि ते राम मुखं फुल्लाम्बुजोपमम्।  
 मुनेरनुग्रहात् सर्व सम्पन्नं मम शोभनम्॥३६॥
 
@@ -7620,8 +7119,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ३६।नरो०। दिष्ट्या भाग्येन।
 
  ३७। नरो०। पुनपुनराघ्राणमालिङ्गनञ्चातिस्नेहसूचकम्। आविष्टो व्याप्त। ब्रह्यानन्दगतो यथा, ब्रह्मणस्वरूपमानन्द प्राप्त इवेत्यर्थ।
@@ -7637,8 +7134,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ४१। सुसंबाधे सङ्कीर्णे। सुवासिन्यो जीवद्भर्त्तृका। 'पतको रुचको रुक्मो निष्क वक्षोविभूषणे' इति कोषाद् वक्षोविभूषण निष्कम्, तत् कण्ठे यासां ताभि। रा०।
 
  वेदविद्भिर्वेदज्ञो ब्राह्मणैसुसम्बाधे परिपूरिते रत्नपीठे इत्यर्थ।
-
-
 
 भेरीदुन्दुभिनिर्घोषे[^676] नृत्यगीतसमाकुले।  
 दिव्यरत्ना ञ्चिते[^677] स्वर्णपीठे रामं न्यवेशयत्॥४२॥
@@ -7680,8 +7175,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ४२। नरो०। दिव्यरत्नाचिते विलक्षणमणिशोभिते।
 
  ४४। नरो०।शोभाढ्यां शोभासम्पन्नाम्।
@@ -7697,8 +7190,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ४६। साक्षतोदकपूर्वकं पाद्यार्घ्याचमनीयदानपूर्वकमित्यर्थः। पाणिग्रहविधानतः पाणिग्रह सप्तपदीगमनान्तो विवाहस्तस्य विधानतो विधिना वेदोक्तेनेति शेष।
 
  ४७। सीतानाम्नीमे सुता तुभ्यं दीयते प्रीतो भवेति। अनेन निष्कामतया भगवत्प्रीतये दानं कृतवानिति सूच्यते।
-
-
 
 **ऊर्मिलाञ्चौरसीं कन्यां लक्ष्मणाय ददौ तदा[^684]॥४**
 
@@ -7743,8 +7234,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ५१। नरो०।लोकपाला इवापरे इति। इवशब्दोऽत्र उत्प्रेक्षाव्यञ्जक।
 
  ५२। नरो०।तत सीतादिसमर्पणानन्तरम्, यथोदन्त वार्त्तानतिक्रमेणेत्यर्थ।
@@ -7765,8 +7254,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 **                        १।७५।२१-२२ श्लो०।**
 
  ५२। स्वसुतायासीताया यथा यथावत् याथातथ्येनेति यावत्, नारदेन अभिभाषितम् उदन्तं वृत्तान्तम् सर्वं तत्स्वरूपमित्यर्थ।
-
-
 
 धनुरेतत् पणं[^694] कार्यमिति चिन्त्य[^695] तथा[^696] कृतम्।  
 सीतापाणिग्रहार्थाय सर्वेषां[^697] माननाशनम्[^698]॥६४॥
@@ -7806,8 +7293,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 [^704]: "II. 'कोऽन्यो मत्तोऽधि-' । "
 
-
-
 त्वत्पादपङ्कजपराग[^705]सरागयोगि-[^706]  
 वृन्दैर्जित भवभयं जितकालचक्रै।  
 यन्नामकीर्त्तनपरा जित दुखशोका  
@@ -7821,28 +7306,19 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
 ६४। नरो०। माननाशनमहङ्कारनाशक मित्यर्थ।
 
  ६५। नरो०। मुनिश्रेष्ठेति वशिष्ठसम्बोधनम्।
 
  ६७। नरो०। सृष्टिरेव चक्रं तत्प्रवर्त्तयतीति सृष्टिचक्रप्रवर्त्तक। त्वत्पादजलधारणादेव ब्रह्मण सृष्टिसामर्थ्यमिति भाव। दिविजाधिपोऽमरपति।
 
- 
-
 ६९। नरो०। तव यत्पाढपङ्कजं तस्य य परागस्तेनसरागाणि यानि योगिवृन्दानि तै। अत्र पङ्कजपदसमभिव्याहारसत्त्वे पदार्थैकदेशे निरूडो लाक्षणिक परागशब्द।परागशब्दश्लिष्ट। जितं कालचक्रंयैस्तादृशै। शरण रक्षितारम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
- 
 
  ६७। त्वत्पादाम्बु गङ्गारूपम्। रा०। त्वत्पादसलिल तव चरणोदकम्।
 
  ६९।\[त्वत्पादपङ्कजयोर्येपरागा धूलयस्तेषु सरागाणि यानि योगिवृन्दानितै। गो०\]
-
-
 
 **इति स्तुत्वा नृप प्रादाद राघवाय महात्मने।  
 दीनाराणां[^708] कोटिशत स्थानामयुत[^709] तथा॥७०॥**
@@ -7895,22 +7371,16 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 **कार्षापणोऽन्तिका ज्ञेयास्ताश्चतस्रस्तु धानक।  
 तेद्वादश सुवर्णास्तु दीनारश्चित्रकस्मृत॥ इति।**
 
-
-
  कात्यायनमतसंग्रहे दण्डविषय३६१।
 
 **कार्षापणो दक्षिणस्यां दिशि रौप्य प्रवर्त्तते।  
 पणेर्निबद्ध पूर्वस्यां षोडशैव पणा स तु॥**
-
-
 
  इति षोडशपणरूप्य दक्षिणस्थकार्षापण इत्यर्थ। अयुत दशसहत्रम्।रा०।
 
  ७१। नियुतं दशलक्षम्। रा०।
 
 पत्तय पादचारिसेनाविशेषास्तेषाम्।
-
-
 
 अब्रुवन्[^715] गद्गद धीरा मृजन्त्योदुहितुर्मुखम्।  
 श्वश्रृशुश्रूष[^716]णपरा[^717] नित्य राममनुव्रता।  
@@ -7945,14 +7415,9 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
- 
-
 ७६। आनको दुन्दुभि, तत्प्रभृतितूर्यसम्बन्धिघोषः स्वर्वासिभेर्यादिशब्दैसंमूर्छितो मिश्रित सन् प्राणिनां भयङ्करोऽभूत्। धन कांस्यतालादि। रा०।
 
  रघुनन्दनस्य प्रयाणकाले जनकभवनादयोध्याप्रत्यागमनप्रारम्भे भेरीमृदङ्गानकतूर्यघोषै जनकभवनोत्थैरिति शेष। भूतभयङ्कर प्राणिनां भीतिप्रद।
-
-
 
 **सप्तमोऽध्यायः**
 
@@ -8006,8 +7471,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ४। मुष्णन् दर्शनशक्तिरहितानि कुर्वन्। रा०।
 
-
-
 धनु परशुपाणिश्च साक्षात् काल इवान्तकः।  
 कार्त्तवीर्यान्तको रामोदृप्तक्षत्रियमर्दन[^729]।  
 प्राप्तो दशरथस्याग्रे कालमृत्युरिवापर॥६॥
@@ -8053,8 +7516,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ६। नरो०। साक्षात् काल इवान्तक। अन्तक इति प्रलयकाले साक्षाद् यम इवेत्यर्थः। कालमृत्युरिवापर इत्यत्र इवशब्द उत्प्रेक्षाद्योतक। कालमृत्यु प्रलयकालमृत्यु।
 
  ७। नरो०। भयसन्त्रस्तो भयोद्विग्न।
@@ -8070,8 +7531,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  १०।\[क्षत्रियाधम इति। क्षत्रिया अधमा यस्मादिति वास्तवोऽर्थ। गो०\]
 
  ११। \[यत पुराणम् अतो जर्जरम्। गो०\]
-
-
 
 इति ब्रुवति वै तस्मिश्चचाल वसुधा भृशम्।  
 अन्धकारो बभूवाथ सर्वेषामपि[^740] चक्षुषाम्॥१३॥
@@ -8127,8 +7586,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  १८। पुराणपुरुषम् अनादित्वान्नवद्वारासु सर्वपूर्षु शयनाच्च। विष्णु व्यापकम्, अन्तर्बहिश्च सर्वत्र प्रविष्ट वा। जगत्सर्गलयोद्भवम्, जगत सृष्टिसहारस्थितयो यस्मात् तम्। रा०।
 
-
-
 बाल्येऽहं तपसा विष्णुमाराधयितुमञ्जसा।  
 चक्रतीर्थं शुभं गत्वा तपसा विष्णुमन्वहम्।  
 अतोषयं महात्मान नारायणमनन्यधी॥१९॥
@@ -8166,8 +7623,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 १९।नरो०। अनन्यधीस्तन्मात्रमति।
 
  २४। नरो०। दत्तं न्यस्तम्। ब्रह्मणो दिन चतुर्युगसहस्रपरिमित काल, 'चतुर्युगसहस्रन्तु ब्रह्मणो दिनमुच्यते' इति वचनात्।
@@ -8176,15 +7631,11 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 १९। \[चक्रतीर्थं शालग्रामक्षेत्रम्। गो०\]
 
  २१।फलितं फलसमर्थं जातम्। मच्चिदशेन मद्रूपचिदाश्रयशक्त्यशेन। तपसश्रम इति तपोरूपश्रम, राहो शिर इतिवत। रा०।
 
  २४। ब्रह्मणो दिन चतुर्युगसहस्राख्यम्। रा०।
-
-
 
 मयि स्थितन्तु[^755] त्वत्तेजस्त्वयैव पुनराहृतम्।  
 अद्य मे सफल जन्म प्रतीतोऽसि मम[^756] प्रभो॥२६॥
@@ -8222,8 +7673,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  २८। त्व निर्विकारो गमनादिवर्जितश्चासि। ननु तेजोहरणादिक्रियाया इदानीमेवोक्ते कथं निष्क्रियत्वमत आह—यथेति। यथा शुद्धे एव जलादौ फेनजालादि औपाधिकं
 
-
-
 **यावन्मायावृता लोकास्तावत् त्वां न विजानते।  
 अविचारित[^760]सिद्धैषाऽविद्या विद्याविरोधिनी॥२९॥**
 
@@ -8242,8 +7691,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  \[ननु यद्यह ब्रह्म तथाऽपि विश्वरूपेण परिणामात् कुतो निर्विकारता तत्राऽऽह—यथा जल इति। यथा फेनसमूहो जले, यथा वा अग्नोधूमस्तथा त्वयि त्वदाधारे मायैव कार्यप्रपञ्च सृजति। अय भाव—न हि फेनो जलस्य विकार, किन्तु जल निमित्तम्, वायुरुपादानम्, एवमग्निनिमित्तम् आर्द्रन्धनमुपादान धूमस्य। एव त्व निमित्तमात्र माया प्रकृतिरुपादानं प्रपञ्चस्य, कुतस्तव विकारप्रमङ्ग। ननु प्रकृतिराधार विना कथ सृजतु तत्राऽऽह—त्वदाधारेति। त्वमेवाधारो यस्या। उद्देश्यमपि त्वमेवेत्याह—त्वमेवेत्याह विषय उद्देश्यो यस्या। यद्यपि जीवभोगार्थमेव सृष्टिस्तथापि जीवस्यापि त्वदशतया वस्तुतो ब्रह्मत्वात् त्वदर्थतेव सृष्टि।गो०\]
 
  २९। \[ननु तर्हि कथ दाशरथिं मा मानुषवदन्तीत्याह—यावदित्यादि। माया अविद्या। यावदविद्यया आवृतास्तावल्लोकास्त्वा न जानन्ति। ननु श्रेय परिपन्थिनीमविद्या कथ ते न जानन्ति तत्त्वज्ञानाभावादित्याह—अविचारितेत्यादि। अविचारितेन स्वरूपनिरूपणाभावेनाविद्या सिद्धा लब्धावकाशा अस्या या विरोधिनी पुनर्विद्यैव, अत एव यावदविद्या कृतकार्या तावत्त्वां न जानन्ति विद्योदयादविद्यानाशे सत्येव जानन्तीति। गो०\]
-
-
 
 **अविद्याकृतदेहादिसङ्घाते प्रतिबिम्बिता।  
 चिच्छक्तिर्जीवलोकेऽस्मिञ्जीव इत्यभिधीयते॥३०॥**
@@ -8288,8 +7735,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ३२-३३। विशिष्टे एव कर्तृत्वादीत्युक्तमर्थं प्रत्येक तन्निषेधेन द्रढयति—आत्मन इति। ससृतिकर्तृत्वभोक्तृत्वाद्यभिमानकृत ससारो नास्त्यपरिणामित्वादिति भाव। एवं बुद्धेर्ज्ञानं
 
-
-
 यावत् त्वत्पादभक्तानां सङ्गसौख्य[^765] न विन्दति[^766]।  
 तावत् संसारदु खौघान्न निवर्त्तेन्नरः सदा॥३४॥
 
@@ -8314,8 +7759,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ३४। \[तन्निवृत्तेरवधिं वक्तुं प्रथम सत्सङ्गमाह—यावदित्यादि। सङ्गसौख्य सङ्गेन सुखम्, त्वत्सङ्गेन त्वत्कथाश्रवणादिना सुखोत्पत्ते। गो०\]
 
-
-
 सत्सङ्गलब्धया भक्त्या यदा त्वां समुपासते।  
 तदा माया शनैर्याति त्वामेव[^767] प्रतिपद्यते॥३५॥
 
@@ -8336,8 +7779,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 [^771]: "। 5 च ' तथा त्व ' ।"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 चेत्तत्राऽऽह—यावदित्यादि। सङ्गसौख्यं सङ्गजनितसुखम्। विन्दति प्राप्नोति। संसारदुखौघात्संसारदु´खसमूहात्। संसारो जन्ममरणादि।
 
@@ -8361,8 +7802,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 **'तमेव विदित्वाऽतिमृत्युमेति  
 नान्यः पन्था विद्यतेऽयनाय॥' (श्वेताश्व० ३।८) इति श्रुते। गो०\]**
-
-
 
 अतस्त्वत्पाद युगले[^772] भक्तिर्मे जन्मजन्मनि।  
 स्यात् त्वद्भक्तिमतां सङ्गोऽविद्या[^773] याभ्यां विनश्यति॥३८॥
@@ -8402,8 +7841,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ३८। नरो०। पादयुग वापीत्यनेन प्राप्तपदयुगबोधोऽतस्त्वत्पादयुगलेत्यादिना वारित। अतो विवेकजनकत्वाद।अविद्या माया याभ्या भक्तिसङ्गाभ्याम्।
 
  ३९। नरो०।त्वदभक्तिनिरतास्त्वदभक्तिपरिनिष्ठिता। त्वद्धर्मामृतवर्षिणस्त्वच्चरितपीयूषवर्षिणस्त्वच्चरितगायका इति यावत्।
@@ -8417,8 +7854,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ३८। \[याभ्या विनश्यतीति। याभ्यां त्वद्भक्तिसङ्गाभ्यामविद्या नश्यति। गो०\]
 
  ४१। तव बाणाय भूयात् त्वद्वाणनाश्यं भूयादित्यर्थ। अनेन सर्वकर्मक्षयेण मुक्ति देहीति व्यङ्गम्। रा०।
-
-
 
 यदि मेऽनुग्रहो राम तवास्ति मधुसूदन।  
 त्वद्भक्तसङ्गस्त्वत्पादे[^781] दृढा[^782] भक्तिः सदाऽस्तु मे॥४४॥
@@ -8463,8 +7898,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ५३। नरो०। देवमाता अदिति।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -8476,8 +7909,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ४९।देवसम्मिता देवतुल्या। रा०।
 
  ५३। पौलोम्या पुलोमनामदानवविशेषस्य कन्यया शच्या इत्यस्य विशेषणम्।
-
-
 
 **साकेते[^787] लोक नाथप्रथितगुणगणो[^788] लोकसङ्गीतकीर्त्ति  
 श्रीरामसीतयास्तेऽखिलसुरनिकरानन्दसन्दोहमूर्त्ति।**
@@ -8505,8 +7936,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 **आदिकाण्डं समाप्तम्॥**
 
-
-
 अयोध्याकाण्डम्
 
 ![](../books_images/U-IMG-1726651036Screenshot2024-09-17201121.png)
@@ -8532,8 +7961,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 १।नरो०।स्वान्त पुराजिरे निजान्तःपुराङ्गणे।
 
  २। नरो०।कौस्तुभेन आमुक्ता कन्धरा यस्य तादृशम्।
@@ -8541,8 +7968,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ३। नरो०।अवातरद् अवारोहत्, अम्बरादाकाशात्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 १।  
 
@@ -8556,8 +7981,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  रत्नदण्डेन—रत्ननिर्मित दण्डं यस्य तादृशेन चामरेणेत्यर्थ।
 
  ३। विनोदयन्तं प्रीणयन्तं सीतामिति शेष। द्रष्टुमर्थात् सीतारामौ। अम्बरादाकाशात्।
-
-
 
 शुद्धस्फटिकसङ्काशः शरच्चन्द्र इवामलः।  
 अतर्कित मुपायातो[^793] नारदो दिव्यदर्शन[^794]॥४॥
@@ -8592,8 +8015,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ४। नरो०। शुद्धस्फटिकसङ्काशः पदार्थान्तरामिश्रस्फटिकतुल्य।अतर्कितमिति क्रियाविशेषणम्।
 
  ५। नरो०। कृताञ्जलिपुटीकृतहस्त।
@@ -8611,8 +8032,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ७। पूर्वजन्मकृतानि यानि पुण्यानि पुण्यकर्माणि तज्जन्यमहोदयै शुभादृष्टैरवाप्तमित्यर्थ। महत फलस्य उदयो येभ्यस्तैरिति वाच्योऽर्थ। ननु ससारिणां दुर्लभं वस्तु कथं त्वया लब्ध तत्राऽऽह—संसारिणेति, काकतालीयन्यायेनेति भाव। रा०।
 
  अवाप्तमिति। पूर्वजन्मकृतपुण्यमहोदयमिति पाठे मे मया पूर्वस्मिन् जन्मनि कृतं यत् कर्म, तज्जन्यं यत् पुण्यं तस्य महानुदयो यस्मात्तादृशं तव दर्शनमित्यर्थ, अवाप्तम्। पूर्वजन्मकृतपुण्यमहोदयैरिति पाठे तु पूर्वजन्मकृतं यत् पुण्यं तज्जन्यमहोदयैकरणैर्हेतुभिर्वा तव दर्शनमवाप्त प्राप्तम्।
-
-
 
 अतस्त्वद्दर्शनादेव कृतार्थोऽस्मि मुनीश्वर।  
 कि कार्यं ते मया कार्य ब्रूहि तत् करवाणि भो[^802]॥८॥
@@ -8644,8 +8063,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ९। नरो०। किं कथ मोहयसि मोह नयसि।
 
  १०। नरो०। कार्यकारणयोरभेदमङ्गीकुर्वन्नाह, अथ वा ससारिणामित्यादि यदुक्तं तत्राऽऽह—ससार्यहमितीति। संसारकारण माया यस्य गृहिणी तस्य ससारित्वे किं चित्रमिति भाव। ननु यस्य गृहिणी विद्यते तस्य तत्र प्रजा जायन्ते मम तत्र कथं प्रजा न जायन्ते इत्यत आह—त्वत्सन्निकर्षादिति, त्वत्स्वरूपचिदाभासासत्तेरित्यर्थ। यद्वा सन्निकर्षोऽत्रविलक्षणसन्निकर्ष, वैलक्षण्यञ्चात्र ईक्षणकालीनत्वं बोध्यम्।
@@ -8657,8 +8074,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ९। लोकानुसारिभि—लोकान् अनुसरन्तीति तैर्मानुषोचितैरित्यर्थ।
 
  १०-११। आदिभूता मूलप्रकृति। 'मायान्तु प्रकृतिं विद्यान्मायिनन्तु महेश्वर' मिति (श्वेताश्व० ४।१०) श्रुते। त्वत्सन्निकर्षादिति, अचेतनत्वेन तस्याश्चेतनसन्निकर्षापेक्षत्वादिति भाव। अत एव सा त्वदाश्रयेति त्वत्सन्निकर्षेण तस्या स्त्रष्टृत्वात् सा त्वदाश्रयेत्यर्थ। त्रिगुणात्मिका सुखदुखमोहस्वभावा सत्त्वरजस्तमोरूपगुणन्त्रयात्मिका। अत एव स्वगुणानुरूपास्तथागुणा प्रजा सूते, तादृश्या गृहिण्या युक्तो लोकत्रयरूपगेहे गृहस्थस्त्वमित्युदाहृत। रा०।
-
-
 
 त्वं विष्णुर्जानकीलक्ष्मीः शिवस्त्व जानकी शिवा।  
 ब्रह्मा त्वजानकी वाणी सूर्यस्त्व जानकी प्रभा॥१२॥
@@ -8695,8 +8110,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 शरीरम्। गेहं विना गृहिणी कथ शोभेतेति चेत्तत्राऽऽह—लोकत्रयमहागेह इति। लोकत्रयेत्युपलक्षणम्। यद्वा मम यदि गेहस्थत्वस्यात् तदा गेहमपि तिष्ठेदिति चेत्तत्राऽऽह—लोकेत्यादि, अथ वा तर्हि अहं कुत्र गृहस्थ इत्यपेक्षायामाह—लोकत्यादि। लोकत्रयमेव महागेह तस्मिन्।
 
  १२-१३। नरो०। ननु लोकत्रयमहागेहे नानागेहस्था विद्यन्ते, तत्र कुतोमम गृहस्थत्वमित्यत आह—त्व विष्णुरित्यादि। शिवा गौरी, वाणी सरस्वती, शशाङ्कश्चन्द्र पौलोमी शची, अनलो वह्नि।
@@ -8711,8 +8124,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  १७। विशिष्य किञ्चिदुक्त्वासामान्येनोपसंहरति—लोक इति। युवाभ्यामन्यदिति शेष। रा०।
 
-
-
 त्वदाभासोदिताज्ञानमव्याकृतमितीर्यते।  
 तस्मान्महांस्तत सूत्र[^816] लिङ्ग सर्वात्मक ततः॥१८॥
 
@@ -8723,8 +8134,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 १८। नरो०। तर्हि मम जीवेन सह भेदो न स्यात्, जीववज्जन्ममरणं सुखदुखादिभाक्त्वञ्च स्यादिति चेत्तत्राऽऽह—त्वदाभासोदितेत्यादि। त्वदाभासेन उदितम् उदय प्राप्तं प्रकाश गतम् उज्ज्वलितमिति यावत् तच्च तदज्ञानञ्चेति तत्तथा। अज्ञानमविद्या तस्मादव्याकृतात्महान् महत्तत्त्व ज्ञानशक्तिमान् प्रथमो विकार।सूत्र क्रियाशक्तिमान् द्वितीयो विकार।
 
  १९। नरो०। किं लिङ्गमित्याकाङ्क्षायामाह—अहङ्कारश्चेत्यादि। मनोऽहङ्कारयो समानपर्यायता।मन सङ्कल्पविकल्पात्मकान्त करणवृत्ति, बुद्धिर्निश्चयात्मिकान्त करणवृत्ति, पञ्च प्राणा, दश इन्द्रियाणि एतानि मिलित्वा लिङ्गशरीर भवति। तदुक्तम्—
@@ -8733,8 +8142,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 अपञ्चीकृतभूतार्थं सूक्ष्माङ्ग भोगसाधनम्॥ इति**
 
 **(पञ्चीकरणवार्तिकम् ३६ श्लो०)**
-
- 
 
 पञ्च प्राणा यथा—प्रागननवान् वायु प्राणो नासिकादिस्थानवर्त्ती, अवागननवान् वायुरपान पाय्वादिस्थानवर्ती, विश्वगननवान् व्यान सर्वशिरावर्त्ती, ऊर्द्धमननवान् वायुरुदान कण्ठवर्त्ती, अशितपीतान्नादिसमीकरणो नाभिस्थान समान, एतेरजोगुणोपेतेभ्य आकाशादिपञ्चभूतेभ्यो जायन्ते। दशेन्द्रियाणि यथा—श्रोत्रत्वक्चक्षूरसनाघ्राणानि पञ्च ज्ञानेन्द्रियाणि,
 
@@ -8745,8 +8152,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  \[ननु यदि माया जगत् सूते कुतस्तर्हि मम गार्हस्थ्यमुच्यते तत्राऽऽह—त्वदाभासेति। तवाभासेन चिच्छक्त्या उदितम् आ सम्यग् ज्ञानं यस्य एवम्भूतम्। तस्माद् महान् महत्तत्त्वमभूदितीर्यते श्रुत्येत्यर्थ। ततो महत सूत्रम्, क्रियाशक्तियुक्तं महत्तत्त्वमेव सूत्रमुच्यते। तत सूत्रालिङ्ग लिङ्गशरीरम्। ननु षोडशपदार्थैर्लिङ्गदेहस्य निष्पन्नत्वात् कथं सूत्रादेव लिङ्ग तत्राऽऽह—यत सर्वात्मकम्, अहमादिकार्याणां कारणत्वात् सर्वात्मकत्वं सूत्रस्य। यद्वा लिङ्गस्य विशेषण सर्वात्मकं स्थूलदेहस्थसमस्तसामग्रीयुक्तम्। यहा सर्वेषां चराचरदेहानामात्मा स्वार्थे क, स्वार्थिकस्य क्वचिल्लिङ्गाद्यतिक्रमात् क्लीबत्वम्। गो०\]
 
  १९।सर्वात्मकत्वमाह—अहङ्कारश्च बुद्धिश्चेत्यादि। पञ्चेत्यस्य सूक्ष्मभूतानीति शेष।
-
-
 
 स एव जीवसंज्ञश्च लोके भाति जगन्मयः।  
 अवाच्या नाद्यविद्यैव[^817] कारणोपाधिरुच्यते॥२०॥
@@ -8781,8 +8186,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  \एकस्यैव चैतन्यस्य त्रिप्रकारकत्वमाह—स्थूलमित्यादि। स्थूलं स्थूलशरीरम्, लिङ्गं लिङ्गशरीरम्, कारणाख्य परं ब्रह्म परात्मा, इतिचितेरुपाधित्रितयम्, यद्वा कारणाख्यम-
 
-
-
 जाग्रत्स्वप्नसुषुप्त्याख्या संसृतिर्या प्रवर्तते।  
 [तस्या[^819] विलक्षणः साक्षी चिन्मात्रस्त्व रघूत्तम॥२२॥
 
@@ -8799,8 +8202,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  २२। तन्त्र स्थूलसूक्ष्मोपाधिभ्या कारणोपाधेसाक्षिणो भेदकमाह—जाग्रदिति। इन्द्रियादिवृत्तिमती जाग्रदवस्था विश्वसाक्षिणी। इन्द्रियवृत्त्यभावकालिकी अन्तकरणवासनानिमित्तार्थोपलम्भरूपतैजससाक्षिणी स्वप्नावस्था। प्रज्ञासाक्षिणी निद्रावृत्त्यतिरिक्तसर्ववृत्त्यभावरूपा सुषुप्त्यवस्था। एतत्त्रयात्मिकायाः संसृतेरविद्यात्मकत्वात्ततो विलक्षणश्चिन्मात्ररूपसाक्षी कारणोपाधिस्त्वमित्यर्थ। रा०।
 
  \[ननु तर्हि मायागृहिणीत्वाज्जीवोऽहम्, नेत्याह—जाग्रदित्यादि। जाग्रदादिसंज्ञाया समृतिरवस्था वर्तते, अर्थाज्जीवे, तस्याससृतेस्त्व साक्षी द्रष्टा तुरीय इत्यर्थ। अतो विलक्षणो जीवाद् भिन्न, न हि द्रष्टा दृश्यावस्थायुक्तो भवति, तत्रापि हेतुश्चिद्घन, जीवस्तु स्वाविद्यया संवृतज्ञान। गो०\]
-
-
 
 त्वत्त एव जगज्जातं त्वयि सर्व प्रतिष्ठितम्।  
 त्वय्येव लीयते कृत्स्नं[^820] तस्मात्त्वं सर्वकारणम्॥२३॥
@@ -8837,8 +8238,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  २४। रज्जाविति। रज्जोरहित्वेन ज्ञानाद् यथा भयं तथात्मान जीवत्वेन जानतो भयं
 
-
-
 चिन्मात्रज्यो तिषा[^824] सर्वाः सर्व देहेषु[^825] बुद्धयः।  
 त्वया यस्मात् प्रकाश्यन्ते सर्व स्यात्मा[^826] ततो भवान्॥२५॥
 
@@ -8854,8 +8253,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 [^827]: "4 ड ' - ममा-' ।"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 भयशून्यस्यादित्यपेक्षायामाह—परात्माऽहमिति ज्ञात्वेति। जीवस्य परेणाऽऽत्मनाऽभेदज्ञानमनर्थनिवर्तकमिति भावः।
 
@@ -8877,8 +8274,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  २६। अज्ञानात् त्वत्स्वरूपाज्ञानात् त्वयि इदं सर्वं जगद् न्यस्यते आरोप्यते, जगद्रूपेण
 
-
-
 त्वत्पादभक्तियुक्तानां ज्ञानं[^828] भवति विक्रमात्।  
 तस्मात्त्वद्भक्तियुक्ता ये मुक्तिभाजस्त एव हि॥२७॥
 
@@ -8886,15 +8281,11 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 केनोपायेनाज्ञानादिक निवर्तेत इत्यपेक्षायामाह—त्वज्ज्ञानादिति। त्वत्साक्षात्कारादित्यर्थः। लीयते निवर्तते। उपसंहरति—तस्मादिति। ज्ञायतेऽनेनेति ज्ञानं श्रवणादिकम्, तदत्रसाक्षात्कारजनकमभ्यसेत् पुनः पुनः कुर्यात्। यद्वा, ज्ञानं प्रत्यक्षम् अभ्यसेत् पुनः पुनर्ह्रत्पद्मे स्थिरीकुर्यात्।
 
  २७। नरो०। ननु दुर्लभं मज्ज्ञानं जीवानां कथं भवेदिति चेत्तत्राऽऽह—त्वत्पादभक्तियुक्तानामित्यादि। विक्रमात् प्रभावात्। त्वज्ज्ञान प्रति त्वत्पादभक्तिरेव कारणमिति भावः। उपसंहरति—तस्मादिति।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 त्वंगृह्यसे इत्यर्थः। यथा च रज्जुतत्त्वाज्ञानाद् भासमानस्य भुजङ्गस्य रज्जुज्ञानाल्लय, एवं त्वत्स्वरूपज्ञानाज्जगतो लय। अतस्त्वज्ज्ञानं सदाऽभ्यसेत्,
 
@@ -8913,8 +8304,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  इत्येव नवविधभक्तियुक्तानां क्रमाद वैराग्यश्रवणादिक्रमेण विज्ञानमपरोक्षसाक्षात्कारो भवति, अत एव मुक्तिभाज इत्यर्थ। रा०।
 
  \तत्र ज्ञानं हि द्विधा जायते, सच्छास्त्रार्थावबोधयमनियमादिभिरेकान्तभक्त्या च, तत्रापि योगात् सुदुष्कराद विघ्नबाहुल्ययुक्ताच्च भक्ति सुखसाध्या निर्विघ्ना चेति भक्तियुक्तान्
-
-
 
 अह त्वद्भक्तभक्तानां तद्भक्तानाञ्च किङ्करः।  
 [अतो[^829] मामनुगृह्णीष्व मोहयस्व न मां प्रभो॥२८॥
@@ -8943,8 +8332,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 स्तौति—त्वत्पादेत्यादि। विज्ञानमपरोक्षज्ञानम्, क्रमादनुष्ठानानुरोधात्। मुक्तिभाजस्त एव हीति निश्चितार्थशब्दद्वयेन विघ्नादेरभावादतिनि सन्धिग्धोऽय पन्था इत्यर्थ। तदुक्तं श्रीभागवते—
 
  'धावन्निमील्य वा नेत्रे स्खलन्नेव पतेदिह' इति। गो०\]
@@ -8966,8 +8353,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 मरीचिमिश्रा ऋषय प्राणेभ्योऽहञ्चजज्ञिरे॥भागवतम्। १।६।३०-३१।**
 
  इति। 'विभोर्ब्रह्मण। प्राणेभ्य इन्द्रियेभ्य' इति तत्रत्या स्वामिव्याख्या।
-
-
 
 रावणस्य वधार्थाय जातोऽसि रघु[^833]सत्तम।  
 इदानीं राज्यरक्षार्थं पिता त्वामभिषेक्ष्यति॥३१॥
@@ -9002,8 +8387,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ३२।नरो०। ते त्वया।
 
  ३३। नरो०। राजेन्द्र राजश्रेष्ठ। अङ्गीकृताकरणे मम का हानिरिति चेत्तत्राऽऽह—सत्यसन्ध इति। सत्यसन्धसत्यप्रतिज्ञ, अङ्गीकृतनिर्वाहक इति यावत्। अत्रैवकारोऽन्ययोगव्यवच्छेदार्थ।
@@ -9011,8 +8394,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ३५। नरो०। ततस्तत्प्रारब्धसंक्षयात् तत्तत्प्राक्तनकर्मनाशात् अर्थादसुरमण्डलस्य, बोढुमशक्यपदार्थो भारपदवाच्य। असुरमण्डल सुरविरोधिसमूहम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 ३२। प्रतिज्ञा ते कृतेति।
 
@@ -9023,8 +8404,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ३५। \[किन्त्विति। तत् तस्मात्। तत्तत्प्रारब्धसंक्षयादिति तस्य प्रारब्धस्य प्रारब्धकर्मण संक्षयात् सम्यक् क्षयं प्राप्य, प्रारब्धसंक्षयादित्यनन्तर वा, हेतौ वा पच्चमी। गो०\]
 
  कालानुरोधेन कालक्षयक्रमेण प्रारब्धस्य पूर्वजन्मकृतकर्मणसंक्षयाद् भोगादिति भाव। 'प्रारब्धकर्मणां भोगादेव क्षय' इत्युक्ते। योग्ये समये समुपस्थिते सतीति भाव। क्रमेण असुरमण्डलं सुरविरोधिसमूहं रावणकुलमित्यर्थ। हृत्वेति शेष।
-
-
 
 रावणस्य विनाशार्थं श्वो गन्ता दण्ड काननम्[^841]।  
 चतुर्दश समास्तत्र ह्युषित्वा मुनिवेशधृक।  
@@ -9050,8 +8429,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ३६। नरो०। सीतामिषेण सीताव्याजेन।
 
  ३७। नरो०। देवगतिं देवलोकम्।
@@ -9066,10 +8443,7 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ३८। कैवल्यं विमोक्षं ब्रह्मैकत्वलक्षण मोक्षम्। विरतिर्वैराग्यम्। रा०।
 
-                                   
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **द्वितीयोऽध्यायः**
 
@@ -9086,8 +8460,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 [^845]: "2 च 'पोरा सनं ' ।"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 १। नरो०। अथेति। अथ नारदनिवेदनानन्तरम्। रहसि निर्जने।
 
@@ -9115,8 +8487,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  २। नैगमा इति। निगमो वेद, तस्यार्थं विदन्तीति नैगमा। यद्वा निगमे बणिक्पथे भवा नैगमाः। 'निगमे बाणिजे पुर्यां कटे वेदे बणिक्पथे' इत्युभयत्रैव विश्व। प्रशंसन्तीत्यनेन तस्मिन्ननुरागबाहुल्यात् तेऽपि राममेव राजानं काङ्क्षन्तीति ध्वनितम्। एतच्च स्फुटं तेषां तेषां मुखेन वाल्मीकीये अयोध्याकाण्डस्य प्रथमे सर्गे।
 
-
-
 ततः सर्वगुणो पेतं[^846] रामं राजीवलोचनम्।  
 ज्येष्ठ राज्येऽभिषेक्ष्यामि वृद्धोऽह मुनिपुङ्गव॥३॥
 
@@ -9134,8 +8504,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 [^849]: "4 च-छ'गच्छाऽऽम ' ।"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 ३। नरो०। मुनिपुङ्गव मुनिश्रेष्ठ।
 
@@ -9167,8 +8535,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  शीघ्रसम्पादनाभिलाषित्वेन श्व एवाऽऽशु इत्यभिहितम्। कालविलम्बे भरतो नगरं प्रविश्य विघ्नं वा कुर्यादित्याशयः।
 
-
-
 उच्छ्रीयन्तां[^850] पताकाश्च नानावर्णासमन्ततः।  
 तोरणानि विचित्राणि स्वर्णमुक्तामयानि वै॥५॥
 
@@ -9196,8 +8562,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ५। नरो। सम्भारा अभिषेकोचितसामग्र्य। मन्त्रयकर्तव्यं बोधय। समन्ततसर्वतः। स्वर्णमुक्तामयानि स्वर्णमुक्ताप्रचुराणि प्रचरस्वर्णमुक्तानि वा।
 
  ८। नरो०। मध्यकक्षे मध्यद्वारे।
@@ -9205,8 +8569,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ९। नरो०। चत्वारो दन्ताप्रधानदन्ता यस्य स तथा।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 अत्र राजाज्ञया वशिष्ठस्य रामसकाशगमनम् तेनैवराज्याभिषेकवृत्तान्तविनिवेदनम्, बाल्मीकीये राजाज्ञया सुमन्त्रेण राजसविधे रामस्यानयनम् राज्ञैव तत्सकाशेऽभिषेकवृत्तान्तवर्णनम्। (२।२।८-२६)।
 
@@ -9222,8 +8584,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  गज इत्युत्तरान्वयि। रा०।
 
  ९। स्वर्णकुम्भा इति। वाल्मीकीयेऽपि—
-
-
 
 स्थाप्यन्तांनव[^854] वैयाघ्रत्रीणि[^855] चर्माणिवाऽऽनय[^856]।  
 श्वेतच्छत्रं रत्नदण्डं मुक्तामणिविराजितम्॥१०॥
@@ -9249,8 +8609,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 तेषु प्रवर्ततां पूजा नानाबलिभिरावृता॥१३॥
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 १०। नरो०।वयाघ्राणि च तानि त्रीणि चेति तानि तथा। रत्नखचितं दण्डं यस्य तत्तथा।
 
@@ -9283,8 +8641,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 **'बलिः पूजोपहारः स्या’दिति कोष।**
 
-
-
 राजानः शीघ्रमायान्तु नानोपायनपाणयः॥१४॥  
 इत्यादिश्य मुनि श्रीमान् सुमन्त्रं नृपमन्त्रिणम्[^859]।  
 स्वयं जगाम भवनं राघवस्याति शोभनम्[^860]॥१५॥
@@ -9310,8 +8666,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 १४। नरो०। नाना उपायनानि उपढौकनानि पाणौ येषाम्, ते तथा।
 
  १६। नरो०। मुनिसत्तमो मुनिश्रेष्ठ। कक्षाणि द्वाराणि। अवातरद् अवारोहत्।
@@ -9321,8 +8675,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  १८। नरो०। प्रत्युद्गम्य आदरादुत्थाय। पानीयं जलम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 १६। त्रिणीति। अत्र वाल्मीकेर्भङ्गीवैशिष्टयम्—
 
@@ -9338,8 +8690,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  १७। आचार्थत्वादतिवृद्धत्वाच्च द्वारपालैरवारितो भवनं प्रविश्यान्तोऽन्त पुर प्रविष्ट इति शेष। रा०।
 
  १८। पानीयमानिनाय, अर्घ्यपाद्यार्थमिति भाव। रा०।
-
-
 
 रत्नासने समावेश्य पादौ प्रक्षाल्य भक्तितः।  
 तदपः[^864] शिरसा धृत्वा सीतया सह राघवः।  
@@ -9390,8 +8740,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  २२। भक्तिसिद्धये इत्यनेन सर्वेतरस्वरूपापेक्षया रामस्वरूपभक्तिरेव सर्वेष्टसाधनमिति सूचितम्। रा०।
 
-
-
 रावणस्य वधार्थाय जातं जानामि राघव।  
 तथाऽपि देवकार्यार्थ गुह्य नोद्घाट्याम्यहम्॥२३॥
 
@@ -9422,8 +8770,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  २५। गुरुणामस्मद्गुरूणां ब्रह्मादीनाम्। तत्रैव हेतुमाह—अन्तर्यामीति। अन्त स्थित्वा सर्वनियामक, अगोचरो वाङ्मनसोरप्यविषय। स्वाधीनसम्भवत्वं मायाधिष्ठातृत्वात्। रा०।
 
  \[अन्तर्यामीत्यादि। अन्तर्यामी बुद्ध्यादिप्रेरकसन्, जगद् यन्त्रमिव त्वदधीनप्रवृत्तत्वात्, तस्य वाहकप्रवर्त्तकः। अगोचरो बुद्ध्यादेरविषयः। 'यतो वाचो निवर्त्तन्ते अप्राप्य मनसा सह’ तैत्ति० २।४।१ इति श्रुतेः। गो०\]
-
-
 
 शुद्धसत्त्वमयं देहं धृत्वा स्वाधी[^871] नसम्भवम्[^872]।  
 मनुष्य इव लोकेऽस्मिन् भासि त्वं योगमायया॥२६॥
@@ -9460,8 +8806,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 २६। नरो०। तर्हि कथमह शरीरीति चेत्तत्राऽऽह—शुद्धसत्त्वमयमिति। रजस्तमोऽसपृक्तसत्त्वविकारमित्यर्थ, शुद्धसत्त्वस्वरूपमित्यर्थो वा। योगमायया अचिन्त्यशक्त्या।
 
  २७। नरो०।तर्हीद विगर्हितं दृष्टफल कर्म कृत्वा वृथा कथं काल नयसीति चेत्तत्राऽऽह—पौरोहित्यमित्यादि। यतो दूष्यजीवन पौरोहित्यं पुरोहितकर्म, अतो विगर्ह्यमहं जाने इत्यन्वय। दृष्यजीवन दूष्यजीवनोपायमित्यर्थ। परलोकयात्रानिर्वाहक कमैवानवद्यमिति, भाव। तर्हि त्यज्यतामिति चेत्तत्राऽऽह—इक्ष्वाकूणामित्यादि।
@@ -9475,8 +8819,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  २६। \[ननु देही कथमन्तर्यामी भवत्वित्याह—शुद्धसत्वमयमिति, न तु प्राकृतम्। ननु जीववज्जन्मादिदर्शनात् कथं शुद्धसत्वमयत्वं तत्राऽऽह—स्वाधीनसम्भव इति। स्वाधीन स्वेच्छाविलसितः सम्भवो जन्म यस्य स। जीवस्तु कर्माधीनतया जायते इति विशेष। गो०\]
 
  स्वाधीनसम्भवमिति। स्वाधीन स्वेच्छायत्त सम्भव उत्पत्तिर्यस्य तम्।
-
-
 
 गुरुनिष्कृतिकामस्त्वं यदि देह्येतदेव[^880] मे।  
 प्रसङ्गात् सर्वमप्युक्त न वाच्यं कुत्रचिन्मया॥३०॥
@@ -9508,8 +8850,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 तस्या कथ सामर्थ्यमिति चेत्तत्राऽऽह—सर्वलोकैकमोहिनीति। अशेषजनप्रधानमोहिनीत्यर्थ। मोहयेद् विवेकशून्यं कुर्यादित्यर्थ।
 
  ३०। नरो०। गुरुनिष्कृतिकामो गुरुनिस्तारकामः।
@@ -9529,8 +8869,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ३३। प्रातर्गमिष्यसि राजसान्निध्यं वनञ्चेति भाव। रा०।
 
  ३५। कर्त्ता राज्यकर्त्ता। भोक्ता राज्यसुखभोक्ता। अनेन स्वकर्त्तृत्वादिराहित्यमपि ध्वनितम्। मम त्वं हि बहि प्राण इति। अनेन शेषांशरूपत्वात्तस्य प्राणधारकत्वरूपं जीवत्वं दर्शितम्। रा०।
-
-
 
 ततो वशिष्ठेन यथा भाषितं तत्तथाऽकरोत्।  
 वशिष्ठोऽपि नृपं गत्वा कृतं[^885] सर्वं न्यवेदयत्॥३६॥
@@ -9579,8 +8917,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ३८। तस्मै ददतुरित्यन्वय। ततप्रीतमना कौशल्या रामस्यार्थप्रसिद्धये अर्थोऽभिषेकरूपस्तस्य प्रसिद्धये, लक्ष्मीं पर्यचरत् पूजयामास। लक्ष्म्या अर्चनेन तादृशराजैश्वर्यलाभभाग् भविष्यतीति भाव।
 
  ३९।सत्यवादीति यदुक्त कामुकत्वात् तत्र विकल्पमुदघाटयन्ती प्रस्तौति—कैकेयीवशगइति। कामवशगस्य किमप्यकार्यं नास्तीति भाव। तादृशे विप्रश्ने सञ्जाते तत्प्रतीकारमवश्यमेव कार्यमित्याह—दुर्गामिति।
@@ -9590,8 +8926,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  इत्युक्तरीत्या सकलसङ्कटपरित्राणकारिणीं तामपूजयदित्यर्थ।
 
  ४०। दैवीं कुम्भकर्णस्य निद्रावरव्याहारादिना देवानामुपकर्त्त्रीम अयोध्यायामयोध्याप्रदेशावच्छिन्नं भूवो लोक गच्छेत्यन्वयः। रा०।
-
-
 
 रामाभिषेकविनघ्नार्थं यतस्व ब्रह्मवाक्यत।  
 मन्थरां प्रविशस्वऽऽदौकैकेयीञ्चततपरम्[^895]॥४१॥
@@ -9621,8 +8955,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ४१। नरो०। युष्माकं वाक्येन कथमह गमिष्यामीति चेत्तत्राऽऽहु—ब्रह्मवाक्यत इति। सूचकं विना कार्यसिद्धिर्न भवेदित्यभिप्रेत्याऽऽहु—मन्थरामित्यादि। सरस्वत्या प्रवेशं विना कैकेयी कटुवाक्य वक्तुं न शक्ष्यतीत्यभिप्रेत्याऽऽह—कैकेयीञ्चेत्यादि।
 
  ४२। नरो०। प्रविश्यैवाऽऽगतायां प्रत्यूहो न भविष्यतीति हृदि निधायाऽऽहु—ततो विघ्ने इत्यादि।
@@ -9633,8 +8965,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 वाल्मीकीये देवानां वाणीप्रेरणात्मको वृत्तान्तो न दृश्यते।
 
  ४१। भुवो लोकमिति सामान्येनोक्त्वातत्रायोध्यायां रामाभिषेकविघ्नार्थं यतस्वेति विशद्योक्तम्।
@@ -9642,8 +8972,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ४२। तथेति देववाक्यं स्वीकृत्य तथा चक्रे भूलोकमगात्। अथात परं मन्थरां प्रविवेशेत्यर्थ।
 
  ४३। सा वाण्याविष्टा। त्रिषु कटौ उरसि कण्ठे च चक्रा। रा०।
-
-
 
 तामुवाच तदा[^900] धात्री रामचन्द्राभिषेचनम्।  
 श्वो भविष्यति तेनाद्य सर्वतोऽलङ्कृतं पुरम्॥४६॥
@@ -9687,8 +9015,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ४७। नरो०। दासी तादृशं वाक्यं वदन्ती कथं शङ्कां नाऽऽप चेत्तत्राऽऽह—एकान्तेइति।
 
  ४८। नरो०। मूढे मोहविशिष्टे कर्त्तव्याकर्त्तव्यविवेकशून्ये इति यावत्।
@@ -9699,15 +9025,11 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ४८। पुत्रस्य राज्याप्राप्त्या दुर्भगे, तच्चिन्ताराहित्याच्च मूढे। रा०।
 
  ४९। राज्ञो दशरथस्यानुग्रहाद् रामस्याभिषेको भविष्यतीत्यन्वय।
 
  ५२। कारणेन वाणीप्रवेशरूपेण वैरिणी वैरमापन्ना। अकारणवैरिणीति च्छेद इतिकश्चित्।रा०।
-
-
 
 कामुकोऽतथ्यवादी व त्वां वाचा परितोषयन्[^908]।  
 कार्यं करोति तस्या वै राममातुः सुपुष्कलम्॥५४॥
@@ -9749,8 +9071,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ५४। अतथ्यवादी अयथार्थवादी मिथ्यावादीति यावत्। पुष्कल पर्याप्तम्।
 
  ५५। अतिदु खावेशात् प्रेषयामासेति पुनरुक्तिर्न दोषाय। रा०।
@@ -9760,8 +9080,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ५६। कथं सुमित्रायासमीचीनमित्याह—लक्ष्मण इति।
 
  ५९। अभिषेचने इति विषयसप्तमी। नव पञ्च चतुर्दश। रा०।
-
-
 
 **ततो[^916] रूढोऽभये[^917] पुत्रस्तव राज्ञिभविष्यति।  
 उपायं ते प्रवक्ष्यामि पूर्वमेव सुनिश्चितम्[^918]॥६०॥**
@@ -9796,8 +9114,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ६०। नरो०।रूढ स्थिराधिकार। उपाय विना कथमह यतेयेति चेत्तत्राऽऽह—उपायमित्यादि।
 
  ६१।नरो०। देवाश्चअसुराश्चयत्र तस्मिन्।
@@ -9807,8 +9123,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ६४। नरो०। असितापाङ्गी कृष्णापाङ्गी। पतिप्राणपरीप्सया पतिप्राणपालनेच्छया।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 ६०। हे राज्ञि, अभयेऽभयस्थाने भयरहिते तव पुत्रो रूढो राज्ये दृढो भविष्यतीत्यर्थ। ननु वयसा सर्वगुणैश्च ज्येष्ठे विद्यमाने कथ कनीयसो मे पुत्रस्य राज्यमत आह—उपायमिति। रा०।
 
@@ -9827,8 +9141,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 विजित्याभ्यागतो देव त्वयोपचरितस्वयम्॥ इत्यादि। २।८।११-१४।**
 
  ६३-६४। अक्षकीलो रथाक्षकील इत्यर्थ। तस्य छिन्नो न्यपतत् स दशरथो न वेद। तत्कीलरन्ध्र कीलस्थाने स्वहस्तं दत्त्वा त्वं स्थितवतीत्यन्वय। रा०।
-
-
 
 आश्चर्य परम लेभेत्वामालिङ्गय मुदाऽन्वितः।  
 वृणीष्व यत्ते मनसि वाञ्छितं वरदोऽस्म्यहम्।  
@@ -9902,8 +9214,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  अखिल समग्रं कुब्जयोक्त सर्वमिति भाव तथ्य यथार्थं मेने।
 
-
-
 इत्युक्त्वाकोपभवनं प्रविश्य सहसा[^940] रुषा।  
 विमुच्य सर्वाभरण परिकीर्य समन्ततः।
 
@@ -9945,8 +9255,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ७६। अथ कैकेय्याकुब्जासङ्गादिदमविचार्यकारित्वमित्यर्थविशेष सामान्यरूपेणार्थान्तरन्यासेन दर्शयति—धीर इति, महामना इत्यर्थ। सुगुणश्चासावाचारान्वित इत्यर्थ। वाशब्दाश्चार्थे। विधिं वदति तादृशो यो देशिको गुरुप्तत्सेवापरो गुरुसेवया सकलविधेयनिषेध्यार्थज्ञ इत्यर्थ। विद्या वस्तुतत्त्वज्ञानम्, तेन विवेक कर्त्तव्याकर्त्तव्यविचारो यस्य सः। रा०।
 
  \[विधिवाददेशिकपर इति, विधिवादो वेदार्थ, तदुपदेशनिष्ठ, विद्यया विवेको विचारो यस्य यस्मिन् वा । गो०\]
-
-
 
 तृतीयोऽध्यायः
 
@@ -10002,8 +9310,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ५। प्रविष्टा सेति शेष।कारण रोषागारप्रवेशहेतु वयं नैव विद्महे। देव, त्वं तत्र क्रोधभवनं गत्वेत्यन्वय।
 
-
-
 इत्युक्तो भयसन्त्रस्तो राजा तस्याः समीपगः।  
 उपविश्य शनैर्देहं स्पृशन्[^955] ") वै पाणिनाऽब्रवीत्॥६॥
 
@@ -10056,8 +9362,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  १३। कं ब्रह्मतुल्यमपि वधिष्यामि वधार्हश्चोरादिरपि त्वत्प्रियो विमोक्ष्यते मयेति शेषः। रा०।
 
-
-
 मम प्राणात् प्रियतरो राम[^963] सत्यपराक्रम।  
 तस्योपरि शपे ब्रूहि त्वद्धितं तत्[^964] करोम्यहम्॥१४॥
 
@@ -10109,8 +9413,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  अनेन च राज्ञो रामादपि प्रियं सुकृतमिति तात्पर्यत प्रतिभाति।
 
  १९। जटावल्कले भूषणं परिच्छदो यस्येत्यर्थ।
-
-
 
 चतुर्दश समास्तत्र कन्दमूलफलाशनः।  
 पुनरायातु तस्यान्ते वने वा तिष्ठतु स्वयम्॥२०॥
@@ -10168,8 +9470,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  इति पूर्वोक्तप्रकारं मनसि विविच्येति शेष। तत पुर पुरत स्थितां पत्नी व्याघ्रीमिव आलोक्य तां प्रत्युवाच किमिदमित्यादि। व्याघ्रीमिवेत्यनेन कैकेय्या हिंस्रस्वभावत्वं
 
-
-
 रामः कमपराधं[^979] ते कृतवान् कमलेक्षणः।  
 ममाग्रेराघवगुणान् वर्णयस्यनिशं शुभान्॥२५॥
 
@@ -10194,8 +9494,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 २८। नरो०। अश्रुणा परीते व्याप्ते अक्षिणी यस्य स तथा।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -10219,8 +9517,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  २७। रामस्य स्वसम्मुखावस्थानकामुको राजा बालक इव प्रार्थयते—राज्यं गृहाणेत्यादिना। हे वामे प्रतिकूलकारिणि, पुत्राय भरताय राज्यं गृहाण। तव पुत्री भरत एव राजा भवतु। रामो मन्दिरे अयोध्याभवने तिष्ठतु इत्यर्थः। रामात् सर्वजनचित्ताह्लादनकारकादित्यर्थ।
 
  २८। साऽपि पूर्व तादृशभाषणशीलाऽतिमृदुरपि कैकेयी देववाण्यावेशवशाद्रक्तान्तलोचना सती राजानं प्रत्युवाच। रा०।
-
-
 
 राजेन्द्र[^984] कि त्वं भ्रान्तोऽसि उक्तं[^985] तद् भाषसेऽन्यथा[^986]।  
 मिथ्या करोषि चेत्[^987] स्वीय भाषितं नरको भवेत्॥२९॥
@@ -10277,8 +9573,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ३०। नरो०। अजिनचीरयुक्त इति चर्मवस्त्रखण्डयुक्त इत्यर्थ। उद्बन्धनम् ऊर्द्धावबन्धनम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -10293,8 +9587,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 **त्रियामाऽपि भृशार्तस्य सा रात्रिरभवत्तदा।  
 तथा विलपतस्तस्य राज्ञो वर्षशतोपमा॥ इति २।१०।१७।**
-
-
 
 छत्रञ्च चामरं दिव्यं गजो[^994] वाजी तथैव च॥३५॥  
 अन्याश्च[^995]वारमुख्या[^996] याः पौरजानपदास्तथा।
@@ -10341,15 +9633,11 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ३७। नरो०। पीतकौशेये वाससी यस्य स तम्।
 
  ३८। नरो०। तथा किरीटकनकोज्ज्वलं मुकुटघटकस्वर्णदीप्तमित्यर्थ।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 ३८। किरीटकटकानिउज्ज्वलानि शोभावन्ति यत्सम्बन्धात् तम्। रा०।
 
@@ -10358,8 +9646,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ४२।जयशब्देन राजा दशरथो जयतीत्यादिनेत्यर्थ। शिरसा नृपं प्रणमन् पश्यति, पश्यन् नृपं खिन्नं दृष्ट्वेति योजना।
 
  ४३। अन्यथा शोकवान् अस्वस्थश्च। रा०। राज्ञोऽवस्थावलोकनेन जाताशङ्कः
-
-
 
 राम रामेति रामेति राममेवानुचिन्तयन्।  
 प्रजागरेण[^1003] वै राजा ह्यस्वस्थ इव लक्ष्यते।  
@@ -10403,8 +9689,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ४५। नरो०। अश्रुत्वेति। राजाज्ञां विना राममानेतुं गन्तुं न शक्नोमीति भाव।
 
  ४७। नरो०। अवारितप्रविष्ट इत्यनेन सुमन्त्रस्यातिविश्वस्त्वत्व सूचितम्।
@@ -10415,8 +9699,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 सुमन्त्रस्तमष्पृष्ट्वा ‘देवि कैकेयिबर्द्धस्वे’त्यादिना समुदाचारपुर सरं तामेव पृच्छति—किं राजेत्यादिना।  
 
  ४५। भामिनि कोपने, ‘कोपना सैव भामिनी’ इति निघण्टु। रा०।
@@ -10424,8 +9706,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ४७। अतिवृद्धत्वात् प्रियत्वाच्च द्वारपालैरवारित। रा०।
 
  ४९। पश्यन्नेव पितृदर्शनत्वरया दर्शनमात्रेण चक्षुषैव तेषां शिष्टाचारं कुर्वन्नित्यर्थः। रा०।
-
-
 
 राममालिङ्गितुं राजा समुत्थाय ससम्भ्रमः।  
 बाहूप्रसार्य रामेति दुःखान्मध्ये[^1012] पपात ह।  
@@ -10465,17 +9745,11 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 **रामेत्युक्त्वा तु वचन कम्पवेगजडीकृत।  
 नाशक्नोत् परतो वक्तुं नेक्षितुं दयितं श्रुतम्॥ २।१५।४५।**
 
-
-
 ५१। स्त्रीणां रोदनध्वनिं श्रुत्वा तस्य कारणनिर्णयार्थ वशिष्ठागमनमाह—किमर्थमिति।
-
- 
 
 ५२। इदम् अवस्थान्तर किं कथमिति भावः। दु स्वस्य कारणमित्यत्र किमित्यध्याहार्य व्याख्या कार्या।
 
  ५३। राजदुखोपशान्तये तदर्थं त्वमेव कारणम्। तदेव कारणत्वं समर्थयति—किञ्चिदिति। कार्यमेवाऽऽह—सत्यप्रतिज्ञ इति। त्वं दण्डकगमनविषये सत्यप्रतिज्ञो भूत्वा इत्यर्थः। रा०। यतस्त्व सत्यप्रतिज्ञ, अतो राजानमपि सत्यवादिनं कुर्वित्यर्थ।
-
-
 
 राज्ञा वरद्वयं दत्तं मम सन्तुष्टचेतसा।  
 त्वदधीनन्तु[^1016] तत् सर्वं वक्तुं त्वां लज्जते नृप॥५४॥
@@ -10506,8 +9780,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ५४। नरो०। राज्ञा किं सत्यं कृतमित्यपेक्षायामाह—राज्ञेत्यादि। कृतं सत्य तेनैव पालयिष्यते इति चेत्तत्राऽऽह—त्वदधीनन्त्विति। राज्ञा तत् कथमह नोक्त इति चेत्तत्राऽऽह—वक्तुमित्यादि।
 
  ५५। नरो०। त्वया पितुस्त्राणमुचितमिति दर्शयति—सत्यपाशेनेत्यादिना। मया पितुस्त्राणस्य कथमुचितत्वमिति चेत्तत्राऽऽह—पुत्रशब्देनेति। हि यस्मात् यत् पिता नरकात्त्रायते एतत् पुत्रशब्देन प्रतिपाद्यम्। पुन्नाम्नो नरकादित्यत्र पुन्नाम्न इत्युपलक्षणम्।
@@ -10517,8 +9789,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ५७। नरो०। जीवितं जीवनं प्राणं दास्ये त्यक्ष्यामि। केनोपायेन जीवनं त्यक्ष्यामीत्यपेक्षायामाह—पिबेयमिति। उल्वणमुत्कटम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 ५४। तत् सर्व वरप्रदत्तवस्तुजातम्।
 
@@ -10530,8 +9800,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ५७। उल्वणविषभक्षणेनापि जीवनदानसम्भावना, पित्रा चेदाज्ञप्तस्तदाऽन्येनोद्वन्धनादिनाऽपि जीवनं परित्यजेयमित्याशयेन पुनराह—जीवितं दास्ये इत्यादि। जीवितं दास्ये इत्यादिना क्रमेण रामचरितस्यातिवैशिष्ट्य महत्त्वञ्च प्रतिपादितम्।
 
  ५८। अनाज्ञप्तोऽपि पितुरभिलषितं ज्ञात्वैवेत्यर्थ।
-
-
 
 उक्तोऽपि कुरुते नैव स[^1022] पुवो मल उच्यते।  
 अथ[^1023] करोमि तत् सर्व यन्मामाह पिता मम॥५९॥
@@ -10563,8 +9831,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ५९। नरो०। मलो विष्टा। अथ अथवा।
 
  ६०। नरो०। रामो द्विर्नैव भाषते इत्यनेनात्मनः सत्यसन्ध्यत्वमुक्तम्।
@@ -10574,8 +9840,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ६२। नरो०। वने यदि राक्षसैरसौ भक्ष्येत तदा मम पुत्रो निष्कण्टकं राज्यं भुञ्जीतेत्यभिप्रेत्याऽऽह—वन प्रयाहीति। मुनिवेश दृष्ट्वाअवीरं मत्वा हठाद् भक्ष्येतेत्यभिप्रेत्याऽऽह—चीरवासा जटाधर इति। दिनद्वयं दिनत्रय वाऽत्र स्थिते कौशल्यया याचितो यदि राजाऽन्यथा भवेत्तदा मम पुत्रस्याभिषेको न भवेदित्याशङ्कयाऽऽह—अद्येवेति। अत्रास्य स्थितिर्मुहूर्त्तमनुचितेति हृदि निधायाऽऽह—शीघ्रमिति। तत्राऽऽज्ञयाकथ वनं गच्छामीति चेत्तत्राऽऽह—पितुराज्ञयेति।
 
  ६३। नरो०। वनं गत्वा कतिचिद्दिनानि स्थित्वा यद्यागच्छेत्तदा मम पुत्रो रूढो न भवेदिति हृदि निधायाऽऽह—चतुर्दश समास्तत्रेति। बलवत्वे मत्पुत्र पराभूय राज्य हरिष्यते इत्यभिप्रेत्याऽऽह—उत्पन्नभोजन इति। वृद्धपितृपालन विहाय कथ वनं गन्तव्यमिति चेत्तत्राऽऽह—एतदेवेत्यादि। राजाज्ञां विना त विहाय कथं गन्तव्यमिति चेत्तन्नाऽऽह— राजेत्यादि।
-
-
 
 श्रीराम उवाच—
 
@@ -10628,8 +9892,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ६८। यद्यपि तव जगन्नाथत्वाद्राज्याविपिनयोसमतैव तथाऽपि त्वदुवियोगे मम प्राणास्त्वद्वल्लभत्वात् त्वया सह गमिष्यन्तीत्याह—मम प्राणवल्लभेति। रा०।
 
-
-
 विमृज्य नयने रामः पितुः[^1032]सजलपाणिना[^1033]।  
 आश्वासयामास नृपं[^1034]शनैः स नयकोविदः॥६९॥
 
@@ -10673,8 +9935,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ७०। शासतु इत्यार्षम्। मदनुजेनापि राज्यकरणे तस्यापि त्वत्पुत्रत्वात्त्वद्भक्तत्वाच्च दु खं वृथेति भावः। रा०।
 
  ७१। मम सुखं तु विशिष्टम्। हे देव, त्वत्सत्यपालनरूपं कार्य च भविष्यतीत्यधिको लाभ, विशेषेण देवानां कार्यञ्च रक्षोनाशरूपं भविष्यतीति ध्वनितम्। कैकेय्याश्च प्रियोऽतो महागुणोबहुगुण इत्यर्थः। रा०।
-
-
 
 मातरञ्च समाश्वास्य अनुनीय च जानकीम्।  
 आगत्य पादौ[^1040] वन्दित्वा तव[^1041] यास्ये सुखं वनम्॥७३॥
@@ -10720,13 +9980,9 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ७६। अन्त स्थमन्तर्यामितया हृदये स्थितम्। ध्येयं रूपमाह—घनेत्यादि। निरस्तेत्यादिना निर्विकल्पसमाधिस्थेत्युक्तम्। सकलविशेषरहितध्यानस्यैव निर्विकल्पकत्वात्। निरस्तानि सर्वाण्यतिशयस्वरूपाणि भेदकस्वरूपाणि येनेत्यक्षरार्थ। रा०।
 
  \[अन्त स्थमित्यादि। विष्णुं भावयन्ती ध्यायन्ती रामं न ददर्श, अन्तःस्थं सर्वेषां हृदिस्थम्। ननु किमन्त स्थत्वेन परिच्छिन्न प्रतिशरीरेणेत्याह—एकमद्वितीयम्। निरस्तसर्वातिशयस्वरूपं निरस्त सर्वेषामतिशयो यस्मिन् यस्माद्वा एवम्भूतं स्वरूपं यस्य तम्। सदानन्दमयं नित्यानन्दस्वरूपम्। गो०\]
-
-
 
 चतुर्थोऽध्यायः
 
@@ -10766,8 +10022,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 २। नरो०। श्रुत्वैवेत्यनेनात्यावर सूचित। प्रवाहितेति चुरादावप्यस्य पाठो बोध्य।अङ्केक्रोडे।
 
  ३। नरो०।नीलोत्पलस्येव छवि कान्तिर्यस्य तं तथा।
@@ -10790,8 +10044,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ३। पुत्रेति इति अप्लुतवद्भावात् सन्धिः। रा०।
 
  गात्र पस्पर्श एतेन स्नेहबाहुल्यं सूचितम्।हे पुत्र, त्वं क्षुधाऽर्दित क्षुत्पीडितः, अतोमिष्टमन्नं भुङ्क्ष्वइति राम प्राह इत्यन्वयः।
-
-
 
 कैकयीवरदानेन सत्य सन्धः[^1056] पिता मम।  
 भरताय ददौ राज्यंममा[^1057]प्यरण्यमुत्तमम्[^1058]॥५॥
@@ -10834,15 +10086,11 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 —————————————————————————————————————————
 
-
-
 ५। नरो०। सत्यसन्धो दृढप्रतिज्ञ।
 
  ६। नरो०। वनं गत्वा नाऽगमिष्यति तत्र वा एकाकी कथं स्थास्यतीति चिन्ताकुला माता मा भूदिति हृदि निधायाऽऽह—चतुर्दश समा इत्यादि।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 ५। \[मामप्यारण्यमुत्तममिति, आरण्यमरण्यराज्यं मां प्रति ददौ। गो०\]
 
@@ -10851,8 +10099,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ७। सप्लुता मग्ना। रा०।
 
  उद्विग्नासा मूर्च्छिता हतचेतनतया भूमौ पतिता, पुनर्मूर्च्छापनोदेन उत्थिता कथञ्चिदुपविष्टेत्यर्थः। दुःखसागरसंप्लुता दुःखवारिधौ पतितेवेत्यर्थः।
-
-
 
 पिता गुरुर्यथा राम तवाहमधिका[^1065]ततः[^1066]।  
 पित्राज्ञप्तो वनं गन्तुंवार येयमहं[^1067]सुतम्[^1068]॥१२॥
@@ -10893,8 +10139,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 १२। यथा पिता गुरुस्तथाऽहमपि तव गुरुः। यद्वा ततोऽधिका।
 
 **'पितुर्दशगुर्ण माता गौरवेणातिरिच्यते।**
@@ -10913,8 +10157,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  १५। उन्मत्तमिति। यतकैकेयीवशवर्त्तिनम् अतः कामवशगत्वादुन्मत्तं हिताहितज्ञानशून्यमित्यर्थः। यत उन्मत्तं तत एव भ्रान्तमनसं राजानमिति शेष.,बद्ध्वा।
 
  १६। पुरा लोकान् प्रदहतः कालाग्निरुद्रस्येवेत्यर्थः। अनेन तदवतारत्वं स्वस्य सूचितम्। रा०।
-
-
 
 धनुष्पाणिरहं तत्र निहन्यां विघ्नकारिणः।  
 इति ब्रुवन्तं सौमित्रिमालिङ्ग्य रघुनन्दनः॥१७॥
@@ -10951,8 +10193,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 १८। नरो०। समयः प्रतिज्ञा। न हि उचित इति शेष।
 
  १९। नरो०। समयस्यानौचित्य दर्शयन्नाह—यदिदमित्यादि। सामान्यविशेषन्यायाद्विश्वं राज्यं देहादिकमित्युक्तमिति नास्ति विरोधः।
@@ -10962,8 +10202,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  २१। नरो०। अग्नीत्यादिना आयुषोऽत्यन्तास्थैर्यमुक्तम्, तदेव द्रढयितुं सदृष्टान्त-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 १७। रघुनन्दनसौमित्रिमालिङ्ग्य आहेति शेष।
 
@@ -10976,8 +10214,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  भोगा भोग्या राज्यादयः, मेघवितानो मेघसमूह, तत्स्थविद्युल्लेखेव चञ्चला क्षणिका। अग्निसन्तप्तलोहस्थजलबिन्दुर्यथा नश्यति तथा आयुरपीत्यर्थः। न तु कदाचिदप्यायुषोऽविनाशित्वमिति भावः।
 
  २१। यथेति। यथा सर्पगलवर्त्ती भेकस्तद्गलवर्त्तिकोमलमांसभोगाय आसन्नमपि
-
-
 
 करोति दुःखेन हि कर्मतन्त्रं शरीरभोगार्थमहर्निशं नरः।  
 देहस्तु भिन्न पुरुषात् समीक्ष्यते को वाऽत्र भोग पुरुषेण भुज्यते[^1082]॥२२॥
@@ -10999,8 +10235,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 स्वमृत्युमजानंस्तद्गलमांसदशनमपेक्षते इच्छति तथा कालाहिग्रस्तो लोको भोगान् इच्छतीत्यर्थः। रा०।
 
  नन्वेव विजानन्तोऽपि सन्तः कथ राज्यभोगादीनपेक्षन्त इत्यत आह—यथा व्यालगलस्येति। व्यालसर्पस्तद्गलस्यो भेकोऽज्ञानान्यतया निश्चितमपि स्वमृत्युम् अजानन् इवइत्यर्थ। दंशान् स्वभक्षणीयकीटविशेषान् अपेक्षते तथा भोगसुखादिभिराकृष्टा जीवा मृत्युम् अविजानन्त इव अशाश्वतान् विनाशपरिणामिनोऽपि भोगानपेक्षन्ते इति भावः। तथा चोक्तम्—
@@ -11010,17 +10244,11 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 विजानन्तोऽप्येतान् वयमिह विपज्जालजटिलान्  
 न मुञ्चाम कामानहह गहनो मोहमहिमा॥इति।**
 
- 
-
 २२। कर्मतन्त्र धनार्जनादिव्यापारं काम्यं वैदिकं कर्म च। नन्वत्र कस्य भोग, शरीरस्य उताऽऽत्मनः ? नाद्य इत्याह—देहस्त्विति। पुरुषाद्भेदवतस्तस्यात्यन्तजडत्वात् सुखादिसाक्षात्काररूपभोगस्य तत्रासम्भव इति भावः। नान्त्य इत्याह—को वाऽत्रेति। तस्य शुद्धस्वभावत्वेनापरिणामित्वात् तस्य भोगासम्भव इति भावः। अत्र देहशब्देन चित्तमप्युपलक्ष्यते, यद्यपि तयो परस्पर विवेकाग्रहाच्चित्तस्य भोगस्तथाऽपि स भ्रान्तिमूलक इति हेय एवेति तात्पर्यम्। रा०।
-
- 
 
 \[करोति दुखेन हीत्यादि। शरीरभोगार्थमिति। शरीरस्यैव भोगार्थं न त्वात्मनः। ननु आत्मैव कर्त्ता भोक्ता च 'अह भुञ्जे' इत्यादिप्रतीते, कथं शरीरभोगार्थमित्युच्यते इत्यत आह—देहस्त्विति। पुरुषाद जीवात्मनो भिन्न समीक्ष्यते विवेकिभिरित्यर्थ। को भोग पुरुषेण भुज्यते, न कोऽपीत्यर्थ, अकर्तृत्वान्निर्गुणत्वाच्च। गो०\]
 
  २३। एवं भोगस्यापारमार्थिकत्वमुक्त्वेदानी वैराग्याय पुत्रादिसङ्गस्यास्थिरत्वमाह—पित्रिति। प्रपा पानीयशाला। काष्ठौघयोरिव काष्ठौघवत्। रा०।
-
-
 
 छायेव लक्ष्मीश्चपला प्रतीता तारुण्यम ब्जाम्बुवदध्रुवञ्च[^1084]।  
 स्वप्नोपमं स्त्रीसुखमायुरल्पं तथाऽपि जन्तोरभिमान एषः॥२४॥
@@ -11044,8 +10272,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 \[ननु तथाऽपि मातृपित्रादीनां भोगार्थं राज्यादिकमपेक्षणीयमेव, न, तेषामपि क्षणिकसङ्गत्वादित्याह—पित्रित्यादि। एषां सङ्गम प्रपायां जलशालिकायां जलार्थिनां पान्यजनानां सङ्गम इव, नद्यां प्रवाहेण नीयमानस्य काष्ठसमूहस्येव। दृष्टान्तद्वयेन प्रयोजनवशात् कर्मवशत्वाच्च मेलनम्, तत्र जलप्रवाहवत् कर्म सयोगवियोगहेतु। गो०\]
 
  २४। \[स्थितेष्वप्येषु लक्ष्मीर्न तिष्ठतीत्याह—छायेवेत्यादि। लक्ष्मी सम्पत्। यथादित्यगतिवशेन छाया कदाचित् पुरोवर्त्तिनी कदाचित् पृष्ठादिवर्त्तिनी, न क्वापि स्थिरा तथा लक्ष्मीरपि। भोक्तृभोग्यादीनामपि क्षणिकतामाह—अब्जाम्बुवदिति। पद्मपत्रजलवदध्रुवंचञ्चलंस्वप्नोपमम् अनन्तरक्षणे विस्मरणात्। एषोऽभिमानो नित्यत्वाभिमानमात्रं स्मृतिश्चेति। गो०\]
@@ -11053,8 +10279,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  २५। संसृति ससारस्थिति, स्वप्नसदृशी अल्पकालमनुवर्तते तामुपादेयत्वेन मनुते इत्यर्थ। रा०।
 
  ‘संसूति स्वप्नसदृशी’ति गोपालचक्रवर्त्तिधृत पाठ। सूयते गृह्यतेऽसौ सूतिर्देहः स्वप्न सदृशी स्वप्नतुल्या क्षणविनाशित्वात्। सा सूतिरपि न यावज्जीव सुखभोगसमर्था। कुत इत्याह—रोगादिसङ्कुलेति। साऽपि रोगादिना निरन्तरमेव आच्छन्ना तिष्ठतीति भावः।
-
-
 
 आयुः[^1087]संक्षीयतेयस्मादादित्यस्य[^1088] गतागतैः।  
 दृष्ट्वाऽन्येषां जरामृत्यू कथञ्चिन्नेव[^1089] बुध्यते॥२६॥
@@ -11073,15 +10297,11 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 २६२७। नरो०। सूर्यस्य गमनागमनं चाऽऽयुक्षयस्य सूवकम्। जरामृत्यू दृष्ट्वाऽपि। यतः केनापि प्रकारेण नैव बुध्यते अतः स एव दिवसः सैव रात्रिरित्येव। मूढधिय सतो भोगानुशोचनाश्रयत्वं कालवेगदर्शनाभावाश्रयत्वञ्च दर्शयति—आयु संक्षीयत इति। अन्तर्भाविण्यर्थत्वमङ्गीकृत्य कर्मकर्तरि प्रयुक्तम्। यद्वा क्षिधातुदिवादिरपि विद्यते इति नास्ति विरोध। स एव दिवसः सैव रात्रिरित्येव मूढा अयथार्था धीर्यस्य स तथा।
 
  २८। नरो०। अजस्त्रक्षरदायुषि सदा रोगवृन्दव्याप्ते आसन्नजरे आसन्नमृत्यौ नश्वरे बीभत्सरसालम्बने देहे आत्मबुद्धिरत्यन्तमनुचितेति दर्शयन्नाह—प्रतिक्षणमित्यादिना। सपत्ना इव रोगौघारोगसमूहा।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 रोगादीत्यादिपदेन शोकादीनामपि ग्रहणम्। रोगादिसङ्कुला सन्तप्तं रोगशोकादिभियुक्ता।
 
@@ -11092,8 +10312,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  स एवेति विधेयप्राधान्यादन्यलिङ्गता, एवं सैवेत्यनत्रापि। तथा च—तद् आदित्यस्य आगतम् एव दिवसो गतञ्च रात्रिरित्येव मत्वेत्यर्थ, मूढधी भोगान् अनुपतति भोगसमूहं प्रत्युन्मुखो भवति। येन तावदायु क्षयकारकत्वेनादित्यस्य गतेनागतेन च जनानां विरागो जनयितव्यस्तेनैव दिनरात्र्यात्मना मूढधियं प्रति भोगासक्तिरुत्पाद्यत इत्यहो आश्चर्यमिति भाव।
 
  २८। \[एतदेव स्पष्टयति—प्रतिक्षणमिति। आमवटोऽपक्वार्द्धघटस्तत्स्थजलवत् क्षरति क्षीयते। न केवलमायुः क्षरति जनो रोगैरपि सततं दग्धो भवतीत्याह—सपत्ना इति। सपत्नाः शत्रवः। गो०\]
-
-
 
 जरा व्याघ्रीव पुरतस्तर्जयन्त्यवतिष्ठते।  
 मृत्यु सहैव यात्येष समयसम्प्रतीक्षते[^1090]॥२९॥
@@ -11137,8 +10355,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  यमास्थायेति। यं देहमास्थाय देह एवाहमित्यास्थां कृत्वेत्यर्थ।
 
-
-
 देहाभिमानिनः सर्वे दोषाः प्रादुर्भवन्ति हि।  
 देहोऽहमिति या[^1095] बुद्धिरविद्या सा प्रकीर्त्तिता॥३२॥
 
@@ -11161,8 +10377,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ३२।नरो०। देहे आत्मबुद्धौ का हानिरिति चेत्तत्राऽऽह—देहाभिमानिन इत्यादि। देहाभिमानिनो देहात्मबुद्धेरित्यर्थः। दोषा मात्सर्यासूयादयः। हि निश्चितम्। देहाभिमानिन सर्वे दोषाः प्रादुर्भवन्तीति वाक्यं श्रुत्वा देहे आत्मबुद्धि किमाकारा किमाख्या किंप्रयोजनिका तस्या निवर्त्तिका बुद्धि किमाकारिका किमाख्या इति पृच्छन्तं लक्ष्मण प्रत्याह—देहोऽहमिति।
 
  ३४। नरो०। उपसंहरति—तस्मादिति। विद्योत्पत्तावुपाय क इति प्रश्ने आह—कामक्रोधादय इत्यादि। तत्र विद्याभ्यासे, कामक्रोधादीनां त्याग एव विद्योत्पत्तौ कारणमिति भाव। कामादिशत्रुत्यागे तवयोग्यताऽस्तीति सूचनाय शत्रुसूदन इत्युक्तम्।
@@ -11184,8 +10398,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ३४। \[कामेत्यादि। तत्र विद्याभ्यासे। शत्रुमर्दन इति शत्रुनाशकस्य तव कामादीनां शत्रूणां नाशोऽवश्यं करणीय इति सूचयति। गो०\]
 
  ३५। प्रकृतोपयोगितया क्रोधस्यैव मुक्तिविघाते प्राधान्यमाह—तत्रापीति। पित्रादिवधेन पातित्यं प्राप्तो न श्रवणाद्यधिकारीति भावः। रा०।
-
-
 
 क्रोधमूलो मनस्तापः क्रोधः संसारबन्धनः[^1099]।  
 धर्मक्षयकर क्रोधस्तस्मात् क्रोधं परित्यज[^1100]॥३६॥
@@ -11227,8 +10439,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  \क्रोध एवेति।हितानुसन्धानाभावेन नाशहेतुत्वात्। वैतरणी तरङ्गबाहुल्यात्
 
-
-
 आत्मा शुद्धः स्वयंज्योतिरविकारी निराकृतिः।  
 यावद्देहेन्द्रियप्राणभिन्नत्व नाऽऽत्मनो विदु॥३९॥
 
@@ -11260,8 +10470,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ४१। बुद्ध्यादिभ्यो ल्यब्लोपे पञ्चमी। तदतिरिक्तोऽहमित्यन्तर्जानन्नेव तानालम्ब्य बहिर्लोकव्यवहारे सर्वं लोकव्यवहारं लोकवदेवानुवर्त्तस्व कुरु। परन्तु तत्र मा खिदः खेदं न कुरु। ननु लोकवत् कार्यकरणे तद्वत् खेदोऽवश्यं भाव्येवेत्यत आह—भुञ्जन्निति। अखिलं सुखं दुख वा प्रारब्धमित्येव भुञ्जंस्तथा भावयन्। रा०।
 
-
-
 प्रवाहपतितं[^1104] कार्यं कुर्वन्नपि न लिप्यते[^1105]।  
 बाह्ये सर्वत्र कर्तुत्वमावहन्नपि राघव।  
 अन्त शुद्धस्वभावस्त्वं लिप्यसे न च कर्मभिः॥४२॥
@@ -11286,15 +10494,11 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ४२। नरो०। आधुनिकं कर्म बन्धः कथं न भवेदित्याकाङ्क्षायामाह—प्रवाहपतितमित्यादि। प्रवाहपतितं प्रवाहवदुपस्थितमित्यर्थ। न लिप्यते न बध्यतेऽर्थात् कार्येण जन्तुरिति शेष। फलानुसन्धानं विना कृतं कर्म बन्धो न भवेदिति भावः। उपसंहरति—बाह्ये इत्यादि। हे राघव, यतस्त्वमन्त शुद्वस्वभावोऽतः सर्वत्र बाह्येकर्तृत्वमावहन्नपि कर्मभिर्न लिप्यसे इति सम्बन्ध। अन्तर्बहिः शुद्धो रागादिदोषरहितः। आवहन् प्राप्नुवन्।
 
  ४४। नरो०। हे अम्ब हे मात, आदिष्टं कथितम्। आगममागमनम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 \[संसारत्याग एव सद्य किं न क्रियते परमपुरुषार्थत्वात्, तन्नाऽऽह—बहिरिति। बहिर्बाह्यभूतं सर्वं लौकिकं कर्म अनुवर्त्तस्व आसक्तिरहित सन् कुर्वित्यर्थ। मा खिद राज्यत्यागखेदं मा कुरु। भुञ्जन् इति। प्रारब्धमखिलं सुखं वा दु खमेव वा। तत्र हेतुः—प्रारब्ध पूर्वकर्मणोपपादितं सुखं दुःखं वा भुञ्जन् कर्मक्षयमपेक्षमाण, उपस्थिते सुखे वा दुखे वाऽपि खेद मा कुरु। गो०\]
 
@@ -11305,8 +10509,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ४४। \[आगममागमनम्। समागमम् इति पाटे समागमं सङ्गमम् एकत्र मिलनम्। गो०\]
 
  आदिष्टम् इदानीमेव कीर्त्तितम् उपदेशादिकमित्यर्थ।
-
-
 
 न सदैकत्रसंवासः कर्ममार्गानुवर्त्तिनाम्।  
 यथा[^1110] प्रवाहपतितप्लवानांसरितां तथा[^1111]॥४५॥
@@ -11341,8 +10543,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ४५। नरो०। ‘त्वद्विहीना क्षणार्द्धं वा जीवितं धारये कथमि’ति मातुर्वाक्यं समाधातुमाह—न सदैकत्रेत्यादि। कर्ममार्गानुवर्त्तिनां कर्मपथानुसारिणां प्राक्तनकर्माधीनानामिति यावत्। दृष्टान्तमाह—यथेत्यादि। प्रवाहपतिताश्च ते प्लवाश्चेति तेषां तथा। प्लवा उडुपानि। सरितां नदीनाम्।
 
  ४६। नरो०। चतुर्दश समा इति मच्चिन्ताजनितमहामोदेन चतुर्दश समा क्षणार्द्धमिव बुध्येरन्निति भावः।
@@ -11364,8 +10564,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  दुखं सन्त्यज्य प्रसन्नेन चेतसेत्यर्थः। एवञ्चेत् तथा चेत् त्वं यदि सुप्रसन्ना सती वनगमनमनुमन्यसे तदा त्वन्मानसप्रसादमनुचिन्त्यैवास्माकं महद्दुःखजनकोऽपि वनप्रवासी सुखजनको भविष्यतीति भावः।
 
  ४८। चिरं यावदनुमतिपर्यन्तम् अभिनन्दयद् अभ्यनन्दयत्। अडभाव आर्षः। रा०।
-
-
 
 सर्वे देवा सगन्धर्वा ब्रह्मविष्णुशिवादयः।  
 रक्षन्तु त्वां सदा यान्तं तिष्ठन्तं निद्रया युतम्॥४९॥
@@ -11409,8 +10607,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ४९। यान्तं गच्छन्त पथीत्यर्थ। तिष्ठन्तमवस्थितम्। निद्रया युतं शयानं निद्रयाऽभिभूतमपि त्वां शत्रवो यथा स्प्रष्टुमपि न शक्ष्यन्ति तथैव रक्षन्तु इति भाव।
 
  ५१। रामं किमाहेत्याह—ममान्त स्थ इति। ममान्त स्थो मम हृत्स्थ अयं देहात्मविवेकविषय संशय।
@@ -11428,8 +10624,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 **न ते क्षौद्रञ्च दधि च ब्राह्मणा वेदपारगा।  
 मुर्न्धिमूर्धाभिषेकार्थं ददते विधिवच्चकिम्॥**
-
-
 
 **आगतोऽसि गतं[^1131] कुत्र श्वेतच्छत्रञ्च चामरम्[^1132]।  
 वादित्राणि न वाद्यन्ते किरीटादिविवर्जितः॥५५॥**
@@ -11464,15 +10658,9 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ५६। नरो०। सामन्तराजसहित क्षुद्रराजसहित। रामस्य सस्मितवचनेन गाम्भीर्यमुक्तम्।तल्लक्षणं यथा—
 
-
-
 'भी-शोक-त्रास-हर्षादौ गाम्भीर्य निर्विकारता।' इति।
 
-
-
  ५८। नरो०। परिहासो मा मन्यतामिति हृदि कृत्वा 'नमिथ्यावादिनो वयमि'त्युक्तम्।
-
-
 
 कस्मात् प्रकृतिमुख्यास्ते श्रेणीमुख्याश्चराघव।  
 किङ्करा नाद्यतिष्ठन्ति यौवराज्याभिषेचने॥  
@@ -11489,8 +10677,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ५६। सामन्तराजेति। एकाकी किमित्यागत इत्यर्थ। पर्यायोक्तमलङ्कारः। रा०।
 
  ५८। वयं न मिथ्यावादिन, पितृसविधे कृतवनगमनप्रतिज्ञोऽह न तां प्रतिज्ञां मिथ्या
-
-
 
 तामाह रामः कैकेय्यै राजा प्रीतो वरं ददौ।  
 भरताय ददौ राज्यं वनवास ममानघे॥६०॥
@@ -11538,8 +10724,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ६३। नोचितम्, शुद्धस्य तव मया विना कार्याक्षमत्वात्। विवाहकाले नातिचरिष्यामीति प्रतिज्ञातत्वाच्च। रा०।
 
-
-
 कट्वम्लफलमूलानि भोजनार्थं सुमध्यमे।  
 अपूपव्यञ्जनादीनि[^1144] विद्यन्ते न कदाचन॥६६॥
 
@@ -11583,8 +10767,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ६८। वासस्थानमप्यतिदु खजनकमित्याह—गुहेत्यादि। सम्यग् बाध्यन्ते रिपवो यत्रेति संबाधं दुर्गवासस्थानं गुहागह्वरस्वरूपम्। तद् यद्यपि रिपुपीडारहितं तथाऽपि झिल्लीदशादियुतत्वात् तत्र स्थातुमशक्यमिति भावः। रा०।
 
  ७०। अत्र वाल्मीके सीताऽपि भर्त्तुर्मुखत एकस्यैव तस्य वनगमनप्रवृत्तिम् आकर्ण्य अभिमानवशं गतेव असूयापरवशेव स्वमनोगतमभाषत। तथा च—
-
-
 
 कथ मामिच्छसेत्यक्तुं धर्मपत्नीं पतिव्रताम्।  
 त्वदनन्यामदोषां मां धर्मज्ञोऽसि दयापर॥७१॥
@@ -11630,8 +10812,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 **न ममाभिभवे शक्तो महेन्द्रोऽपि त्वदाश्रयात्।  
 अतो नार्हसि मां भक्तां निवर्त्तयितुमातुराम्॥ इति। २।३७।१५।**
 
-
-
 त्वया सह चरन्त्या मेकुशाः काशाश्च कण्टकाः।  
 पुष्पास्तरण तुल्या[^1151] वै[^1152] भविष्यन्ति न संशयः॥७३॥
 
@@ -11674,8 +10854,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ७४। कार्यसाधिनी रक्षोवधादिकार्यसाधिकेति व्यङ्ग्यम्। रा०।
 
  ७५। वनगमनञ्च मे अवश्यम्भावीति इतिहासकथनेन द्रढयति—बाल्य इति। रा०।
@@ -11688,8 +10866,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
       चकार चरितं चित्र विचित्रपदमर्थवत्॥ १।३।१**
 
  इत्यादिवाल्मीकिवचनात् ‘प्राप्तराज्यस्येत्यनेन रामस्य राज्यशासनकाले रामायणनिर्मितिरिति
-
-
 
 अतस्त्वया गमिष्यामि सर्वथा त्वत्सहायिनी।  
 यदि गच्छसि मां त्यक्त्वाप्राणांस्त्यक्ष्यामि तेऽग्रतः॥७७॥
@@ -11708,15 +10884,11 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ७७। नरो०। उपसंहरति—अत इति। त्वया सहायिनी त्वत्सहायिनी। रामायणादिकममत्वा यदि मां त्यक्त्वा गमिष्यति तदा प्राणांस्त्यक्ष्यामीति हृदि कृत्वाह—यदीत्यादि।
 
  ७९। नरो०। स्वान्त पुरधनाभिप्रायेणोक्तं सर्वमिति।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 गम्यते। एतज्ज्ञापनायैव पुनरारम्भः।' इति एतट्टीकायां गोविन्दराजवाक्याच्च रामराज्यकरणकालीनं रामायणमिति महान्विरोधः स्वत एव समुदेति, समाधानावसरे पुन कल्पभेदस्वीकाराद्गत्यन्तरं नास्तीति मन्यते। वाल्मीकीयेऽप्येतदनन्तरमेव—
 
@@ -11737,8 +10909,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 रामं जामातरं लब्धा क्लीबं पुरुषमानिनम्॥ इत्यादि २।३०।१-३।**
 
  ७९। अरुन्धत्यै वशिष्ठपत्न्यै। रा०।
-
-
 
 ददौ गवां वृन्दशतं धनानि वस्त्राणि दिव्यानि विभूषणानि[^1160]।  
 कुटुम्बवद्भ्यः श्रुतशीलवद्भ्यो मुदा द्विजेभ्यो रघुवंशकेतु॥८०॥
@@ -11776,8 +10946,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ८०। नरो०। सप्रदानभेदेन दानफलगततारतम्यसूचनाय कुटुम्बवद्भ्य इत्याद्युक्तम्। रघुवंशकेतू रघुवंशश्रेष्ठः।
 
  ८४। नरो०। पौरान्नागरान्। कुतूहले दृग् दृष्टिर्येषां तांस्तथा। कामसहस्रस्येव सुन्दर वपुर्यस्य स। अत्राद्भुतोपमा। भासयन् दीपयन्। पादन्यासेन पवित्रितानि अखिलानि जगन्ति येन स तथा।
@@ -11786,8 +10954,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 ८०। कुटुम्बवद्भ्य स्त्रीपुत्रादिपरिवारवद्भ्यो गृहस्थेभ्य इत्यर्थः। श्रुतं वेदादिशास्त्रम्, शीलं स्वभाव, तद्युक्तेभ्य।
 
  ८१। राममातुसेवकेभ्य इति पाठे सीतैव ददावित्यर्थ। स्वकान्तपुरवासिभ्य इति पाठे स्वकान्तो रामस्तत्पुरवासिभ्य इत्यर्थ। अत्रापि सीतैव दानकर्त्री।
@@ -11795,8 +10961,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ८४। नृपपथे राजमार्गे। कुतूहलेन पश्यन्ति तान् कुतूहलद्वश। पौरान्सानन्दंपश्यन् तेन तेषां दु खनिरास। पितुस्तत् कैकेय्यधिष्ठितमालय गृहं प्राप। रा०।
 
  सानन्दमित्यनेन वनप्रयागसमयेऽपि नित्यनिर्विकारस्य तस्य विकाराभाव सूचित। पादन्यासपवित्रिताखिलजगदित्यनेन परब्रह्मत्वं सूचितम्।
-
-
 
 **पञ्चमोऽध्यायः**
 
@@ -11850,8 +11014,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ३। कैकेयी वा पूर्वमत्यन्तं रामे प्रीतिमती कथं दुष्टा जातेति शेषः। यद् भरतस्य राज्यं रामस्य वनवास वृतवतीति भावः। याचतां वा लोभाद भरतस्य राज्यम्, राममुच्यमानगुण कथ कुतो हेतोर्विवासयामास, अत्रहेतु न पश्याम।रा०।
 
-
-
 हे जना नात्र वस्तव्यं गच्छामोऽद्यैव काननम्।  
 यत्र रामः सभार्यश्च सानुजो गन्तुमिच्छति॥ ४ ॥  
 पश्यन्तु जानकीं सर्वे पादचारेण गच्छतीम्॥ ५ ॥  
@@ -11895,8 +11057,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ७। यानादीन् विहाय य कदाऽपि पादचारेण न गच्छति, यश्च प्रभु सर्वेषां नियन्ता सोऽपि राजाज्ञया गजाश्वादिविवर्जित पादचारेण गच्छतीति द्रक्ष्यथ, दृष्ट्वाऽवस्थाविपर्ययं विवेचयन्तु इति भावः।
 
-
-
 बलवान् विधिरेवात्रपुंप्रयत्नो[^1183]हि दुर्बल॥ ६ ॥  
 इति दुःखाकुले वृन्दे साधूनां मुनिपुङ्गव।  
 अब्रवीद् वामदेवोऽथ साधूनां[^1184] सङ्घमध्यग।  
@@ -11937,8 +11097,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  \[एष राम परो विष्णुरिति। यो विष्णुर्ब्रह्मादिरभवत् स एव विष्णू रावणादिवधार्थं श्रीरामोऽभवदित्यनुषङ्ग। गो०\]  
 १२ । एष मायागुणैरिति। एतेन मायिक एवायमाकारो न तु पाञ्चभौतिक इत्युक्तम्। रा० ।
-
-
 
 एष एव रजोयुक्तो ब्रह्माऽभूद् विश्वभावनः।  
 सत्त्वाविष्टस्तथा विष्णुस्त्रिजगत्प्रतिपालक.[^1189]।  
@@ -11988,8 +11146,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
                                    
                *
 
-
-
 समुद्र[^1193]मन्थने पूर्व[^1194] मन्दरे सुतल[^1195] गते।  
 अधारयत्[^1196] स्वपृष्ठेऽद्रि कूर्मरूपी रघूत्तम॥ १५ ॥
 
@@ -12032,11 +11188,7 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 एकशृङ्गधरो मत्स्यो हैमो नियुतयोजन.।  
 नावं बबन्ध तच्छृङ्गे मत्याख्यञ्च पुराणकम्॥ २१३-१५ ॥**
 
-
-
  १५ । समुद्रमन्थने इति। मन्दरे मन्थदण्डस्वरूपे सुतल रसातलं गते प्रविष्टे। मन्दरस्य मज्जनमाह भागवते—
-
-
 
 मही रसातल याता प्रलयेशुकरो[^1197]ऽभवत्।  
 तोलयामास दृष्ट्राग्रेतां क्षौणीं रघुनन्दनः॥ १६ ॥
@@ -12084,8 +11236,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 कूर्मपुराणे पुनर्विष्णुरूपधारिणो ब्रह्मण. पृथिवीरक्षार्थं शूकररूपधारणम्। तथा च कौर्मे पूर्वभागे—
 
-
-
 नारसिंहं[^1198] वपुः कृत्वा प्रह्लादवरदः पुरा।  
 त्रिलोककण्टकं वक्षः[^1199] पाटयामास तं[^1200] नखैः॥ १७ ॥  
 पुत्रराज्यं हृतं दृष्ट्रा ह्यदित्या याचित[^1201]पुरा।  
@@ -12118,8 +11268,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 सहस्रशीर्षा पुरुषो रुक्मवर्णो ह्यतीन्द्रिय.।  
 ब्रह्मा नारायणाख्यस्तु सुष्वाप सलिले तदा॥ ६।२-३ ॥
 
-
-
 ततस्तु सलिले तस्मिन् विज्ञायान्तर्गतां महीम्।  
 अनुमानात् तदुद्धारं कर्त्तुकाम. प्रजापतिः॥  
 जलक्रीडासु रुचिरं वाराहं रूपमास्थितः।  
@@ -12144,8 +11292,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 १८ । पुत्रराज्यमिन्द्रराज्यम्, हृत बलिना। याच्ञया बले. सकाशाद्भिक्षाव्याजेनाहरत्परावर्त्तितवान्। रा०
 
-
-
 दुष्टक्षत्रियभूभारनिवृत्त्यै भार्गवोऽभवत्।  
 स एव जगतां नाथ इदानीं रामतां गतः॥ ११ ॥
 
@@ -12168,8 +11314,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 दृष्ट्वासमागतं विष्णुमदितिर्भक्तिसयुता।  
 मेने कृतार्थमात्मानं तोषयामास केशवम्॥ १७ १८
-
-
 
 **प्रणम्य शिरसा भूमौ सा वव्रे वरमुत्तमम्।  
 त्वमेव पुत्र देवानां हिताय वरये वरम्॥ इति १७।२५ ।**
@@ -12196,8 +11340,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
 अवतारे षोडशमे पश्यन् ब्रह्मद्रुहो नृपान्।  
 त्रि. सप्तकृत्व कुपितो नि.क्षत्रामकरोन्महीम्॥ इति । १।३।२०
-
-
 
 रावणादीनि रक्षांसि कोटिशो निहनिष्यति।  
 मानुषेणैव मरणं तस्य[^1204] दृष्टं दुरात्मनः॥ २० ॥  
@@ -12243,9 +11385,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
                                    
             *  
 
-
-
-
 रामोऽप्याह स्वयं साक्षाच् श्वो गमिष्याम्यहं वनम्।  
 अतो[^1208] रामं समुद्दिश्य चिन्तां त्यजत बालिशा॥ २४ ॥  
 राम रामेति ये नित्य जपन्ति[^1209] मनुजा भुवि।  
@@ -12287,8 +11426,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  यस्य रामस्य नाम्नैव मृत्युभयादिस्तिरोभवति तस्य का दुःखशङ्का न काऽपीत्यर्थ।  
  २७ । ईदृशस्य किमर्थं देहपरिग्रहस्तत्राऽऽह—मायेति। विडम्बयति स्वीयाचारेण
-
-
 
 इत्युक्ता विररामाथ वामदेवो महामुनि॥ २८ ॥  
 श्रुत्वा तेऽपि द्विजाः सर्वे राम ज्ञात्वा हरि विभुम्[^1214]।  
@@ -12342,8 +11479,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
                                    
               *
 
-
-
 इत्युक्ता सहसोत्थाय चीराणि प्रददौ स्वयम्।  
 रामाय लक्ष्मणायाथ सीतायै च पृथक् पृथक्॥ ३४ ॥  
 रामस्तु वस्त्राण्युत्सृज्य वन्यचीराणि पर्यधात्।  
@@ -12387,8 +11522,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ३५ । तच् चीरपरिधानप्रकारस्वरूपम्। रा० ।  
  ३६ । लज्जयेति। असामर्थ्यभवेयं लज्जा।'मुखमेक्षत' इत्यनेन स्वासामर्थ्य विनिवेदयन्ती परिधानप्रकारं ज्ञातुमिच्छतीति ध्वनितम्।अंशुके वस्त्रे परिहितवस्त्रोपरि एव तच्चीरं निबबन्ध इत्यर्थ.। 'अंशुकं श्लक्ष्णवस्त्रे स्याद्वमात्रोत्तरीययो ' इति मेदिनी।  
  ३७ । अयमत्र तत्रभवतो वशिष्ठस्य कैकेय्युपालम्भारम्भोऽसुलभ इव गुरुस्थानमुपागतस्येति विवेचयाम। कथमयं वाल्मीकीयाद्यसंवाद्यपि प्रबन्ध. प्रस्तुत कविनेति अल्पधियामस्माकं धियोऽविषयीभूत। वाल्मीकीये नात्र प्रसङ्गोऽपि वशिष्ठस्य। परम् अनतिपूर्वमुक्तेन—
-
-
 
 कैकेयीं प्राह दुर्वृते राम एव त्वया वृतः।  
 वनवासाय दुष्टे त्वं सीतायै किं[^1226] प्रदास्यसि[^1227]॥ ३८॥  
@@ -12436,8 +11569,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ३९ । यदीति । त्वद्वराविषयभूताऽपि यदि स्वेच्छया समन्वेति सम्यग्ग्लानिरहितमनुपश्चादु गच्छतीत्यर्थ। रा० ।  
  भक्त्येति पतिभक्त्येत्यर्थ। भक्तेति पाठे रामं प्रति भक्तिमती सतीत्यर्थ। दिव्याम्बरादीनां मम. प्रीति- जनकत्वात् तत्परिधानेन वनवासजन्यदु खं निवारयितुं प्रभविष्यतीति भाव.।
 
-
-
 इत्युक्त्वा राममालोक्य सीताञ्चैव सलक्ष्मणम्।  
 दुःखान्निपतितो भूमौ रुरोदाश्रुपरिप्लत.।  
 आरुरोह रथं सीता शीघ्रं[^1231] रामस्य पश्यत.॥ ४१ ॥
@@ -12477,8 +11608,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 दान दीक्षा तपश्चैव तनुत्यागो मृधेषु च॥  
 राम दशरथं विद्धि मां विद्धि जनकात्मजाम्।  
 अयोध्यामटवी विद्धि गच्छ वत्स यथासुखम्॥ २।३९।३-११ ॥
-
-
 
 रामः प्रदक्षिणं कृत्वा पितरं रथमारुहत्।  
 लक्ष्मणः खड्गयुगलं[^1232] धनुस्तूणी[^1233]युग तथा॥ ४२ ॥  
@@ -12526,8 +11655,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 'कृताञ्जलिस्ततो रामो लक्ष्मणश्च महायशा.।  
 वैदेही चैव राजानं परिजग्मु प्रदक्षिणम्॥' इति २\।३९\। १ \।
 
-
-
  ४४ । रथमचोदयत्। राज्ञा रामाधीनकृतत्वाद्राजाज्ञापेक्षया तदाज्ञैव प्रबलेति मत्वेति व्यङ्ग्यम्। दूरं गते दृष्टिपथमतिक्रान्ते। रा० ।  
 तत्र वाल्मीकिः—
 
@@ -12542,8 +11669,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 तूष्णीमेव ययौ वाग्मी राम सौमित्रिणा सह॥ इति । २।४३।३४।
 
  ४६ । राममातुरित्यादरसूचक विशेषणम्। एतेनास्य सर्वेभ्यो राम एव स्नेहातिशय इति ध्वनितम्।
-
-
 
 किञ्चित् कालं भवेत् तत्र जीवनं[^1241] दुःखितस्य मे।  
 अत ऊर्द्ध्वंन जीवामि चिरं रामं विना कृतः॥ ४७ ॥  
@@ -12598,8 +11723,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 
  ५०। पालयामास जाग्रद् राम ररक्षेत्यर्थ।
 
-
-
 **इति निश्वय[^1246]माज्ञाय तेषां रामोऽतिविस्मित'।  
 नाह गच्छामि नगरमेते[^1247] वै क्लेशभागिनः॥ ५२ ॥  
 भविष्यन्तीति निश्चित्य सुमन्त्रमिदमब्रवीत्।  
@@ -12640,8 +11763,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  'त्वरित द्रुतं यथा स्यात्तथा। मुहूर्त्तम् उदङ्मुखतया गत्वा रथं पुनर्निवर्त्तय मत्समीपं प्रापय। एतस्य फलमाह—यथा नेति। पौरा मां न विद्यु. रामो वनमेव गत इति न जानीयुस्तथा कुरु। रथचिह्नदृष्टाउत्तरदिग्भागावस्थितामयोध्यामेव रामो गत इति पौरमोहनार्थम् एवं गमनादेश.।' इति तट्टित्पन्याम्। पाठान्तरेऽपि—
 
 मोहनार्थन्तु पौराणां सूतं रामोऽब्रवीद्वच। इति २।४६।३०।
-
-
 
 हृदि राम ससीतं ते ध्यायन्तस्तस्थुरन्वहम्॥ ५६ ॥  
 सुमन्त्रोऽपि रथ शीघ्रं नोदयामास[^1249] सादरम्।  
@@ -12687,8 +11808,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 सुमहानिङ्गुदीवृक्षो वसामोऽत्रैव सारथे॥ इति । २।४७।५ ॥
 
  ५९ । जनै जनमुखै। अय सखा समानख्यातिस्तत्समानज्ञान। अनेन गुहस्य धर्मव्याधादिवत्तत्त्वज्ञत्वं सूचितम्। अथाऽपि 'सत्यपि भेदापगमे नाथ तवाहं न मामकीनस्स्वमि’ति न्यायात् स्वामिन द्रष्टुमिति। रा० ।
-
-
 
 संपृष्टकुशलो[^1254] राम गुहः प्राञ्जलिरब्रवीत्।  
 धन्योऽहमद्य मे जन्म नैषाद[^1255] लोकपावनम्[^1256]।  
@@ -12751,11 +11870,7 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
 यदिदं भवता किञ्चित् प्रीत्यर्थमुपकल्पितम्।  
 सर्व तदनुजानामि न हि वर्ते प्रतिग्रहे॥ इति २।४७।२०।
 
-
-
  ६६ । एतत्ते सर्वं राज्य ममैव, त्वञ्च मे सखैवतत्वज्ञत्वात्। तथाऽपि प्रतिज्ञारक्षणाय ते ग्रामं न प्रविशामीति भाव^(.)। रा० ।
-
-
 
 वटक्षीरं समानाय्य जटामुकुटमादरात्।  
 बबन्ध लक्ष्मणेनाथ सहितो रघुनन्दन॥ ६७ ॥  
@@ -12799,8 +11914,6 @@ farantee पृथिवीपीडक। मृतिर्मरणम्।
  ६७ । समानाय्य गुहेनेति शेष.। अथ आनयनानन्तरं वार्त्तानन्तरं वा। रा० ।  
  ६९ । लक्ष्मणेन यदास्तृतं शयनं शय्या, तत्र वैदेह्या सह सुष्वाष इति पूर्वेणान्वयः।
 
-
-
 **षष्ठोऽध्यायः**
 
 **![](../books_images/U-IMG-1726571012Capture1234.PNG)**
@@ -12833,7 +11946,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 **षष्ठे गत्वाऽथ वाल्मीकेराश्रमं तेन संस्तुत।  
 मुनीन्द्रै सहितस्तत्रावसत् सुखमितीर्यते॥ रा० ।**  
 
-
  स पूर्वाध्यायप्रस्तुत रामस्य चिरमित्रत्वेन प्रसिद्धो गुह। विनयादिति।एतेन जात्या नीचस्यापि तस्य समुदाचारपरिनिष्ठितत्व सूचितम्।  
  २ \। कुशपत्रनिर्मिते संस्तरे आस्तरण इत्यर्थः। शोभने राङ्कवादिभिरास्तीर्णे। रा० ।
 
@@ -12847,8 +11959,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 त पश्य गुह सविष्टं तृणेषु, सह भार्यया॥ इति २।४८।८-१० ।
 
  ३ । प्रकृते कैकेय्या अपराधाभाव इति सूचयन्नाह—विधिना कुतेति। विधेरपि कैकेय्यां
-
-
 
 तच्छ्रुत्वा लक्ष्मणः प्राह सखे शृणु वचो मम।  
 क' कस्य हेतुर्द.खस्य कश्च[^1277] हेतु. सुखस्य वा[^1278]॥ ४ ॥  
@@ -12898,8 +12008,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 इत्यादियाज्ञवल्क्यवचनेनापि दैवाधीना एव सुख·दुखादिरूपा कर्मसिद्धि'। तच्च देव ' पूर्वजन्माजितं कर्म तद्दैववमिति कथ्यते।' इत्युक्तरीत्या 'तत्र दैवमभिव्यक्तं पौरुष पौर्व- देहिकमि'त्युक्तरीत्या च पूर्वजन्मार्जितं कर्मैव, अत. सुखदुःखादिविधौ पूर्वार्जितकर्मरूपं दैवमेव बलवदिति भावः। यद्वा विधिर्बलवानिति यदुक्तं तदपि पूर्वजन्मार्जितकर्मरूपं दैवपरमिति सर्वं सुसमञ्जसम्।  
  ६ । तदेवोपपादयति—सुखस्येति। स्वयमपि तस्य न सम्पादक इत्याह—अहमिति।
 
-
-
 सुहृन्मित्रार्युदासीनद्वेष्यमभ्यस्थबान्धवाः।  
 स्वयमैवाऽऽचरन् कर्म तथा तत्र विभाव्यते॥ ७ ॥  
 सुख वा यदि वा दुखं स्वकर्मवशगो नरः।  
@@ -12942,8 +12050,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  ९। भोगागमे सुखभोगप्राप्तौ भोगविवर्जने दुखभोगप्राप्तौ वाञ्छामेवाभिनयति
 
-
-
 यस्मिन् देशे च काले च यस्माद्वा[^1287] येन केन वा।  
 कृत शुभाशुभ कर्म भोज्यं तत् तत्र[^1288] नान्यथा॥ १० ॥  
 अलं हर्षविषादाभ्यां शुभाशुभफलोदये।  
@@ -12973,8 +12079,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  विधात्रेति। यदि कर्मैव बलवत्, तदेव सुखदु खकारणम्, तत् कुत पुनराह विधात्रेति इति चेत् एवं समाधेयम्,—विधिर्हि कर्मजन्यादृष्टाधीनो न तु स्वाधीन·। कर्म च तं द्वारीकृत्य सुखदु·खादिकं विभजते इति तस्यैव कर्तृत्वव्यपदेश इति न विरोध। यद्वा अनयोरभेदमङ्गी-  
 कृत्यैवमुक्तमिति।
-
-
 
 **सर्वदा सुखदुःखाभ्यां नर^(·) प्रत्यवरुध्यते।  
 शरीरं पुण्यपापाभ्यामुत्पन्नं[^1289] सुखदुःखवत्॥ १२ ॥  
@@ -13012,9 +12116,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 इत्यादिमार्कण्डेयपुराणवचनेन जन्तोरुदरस्थितिः शरीरधारणार्थम्, तच पुण्येनापुण्येन इत्युक्तत्वात् शरीरं पुण्यपापाभ्यामिति शोभनमेव।  
  १३ । सुखस्यानन्तरं दु खमिति। शरीरिणां पुण्यस्य क्षये तदुत्थस्य सुखस्यापि क्षय इति सुखात् परं पापजन्यदु खभोग·, पुन^(.) पापक्षये पुण्योदयात् तदधीनसुखस्य भोगः पुण्यपापो-भयजत्वात् तेषामिति भाव'।  
  १४ । इदानी पदार्थमात्रस्य त्रिगुणात्मकत्वेन सुखस्यापि दुःखात्मकत्वाद हेयत्वमित्याह—  
-
-
-
 
 तस्माद्धैर्येण विद्वांस इष्टानिष्टक्षेपपत्तिषु।  
 न हृष्यन्ति न मुह्यन्ति सर्वं मायेति भावनात्[^1290]॥ १५ ॥  
@@ -13064,8 +12165,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 लक्ष्मणस्याऽऽत्मनश्चैव रामश्चक्रे ततो जटा·।  
 दीर्घवृत्तभुजौ वीरौ जटामण्डलधारिणौ।  
 अशोभेतामृषिसमौ भ्रातरौ रामलक्ष्मणौ॥ इति ।२।५२।२-३ ।
-
-
 
 श्रुत्वा रामस्य वचनं निषादाधिपतिर्गुहः।  
 स्वयमेव दृढां[^1293] नावमानिनाय[^1294] सुलक्षणाम्॥ १७ ॥  
@@ -13132,9 +12231,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  २० । वाहयामास अरित्रादिभिश्चालयामास परं पारं प्रापयितुमित्यर्थः। गङ्गामध्ये गता जानकीप्रार्थयामासेत्यन्वय·। रा० ।  
  २२ । अन्न वाल्मीकेर्गङ्गाप्रीत्यर्थमुपचाराणां पार्थक्यम्।तथा च—  
 
-
-
-
 गुहोऽपि राघवं प्राह गमिष्यामि त्वया सह।  
 अनुज्ञां देहि राजेन्द्र नो चेत् प्राणांस्त्यजाम्यहम्॥ २३ ॥  
 श्रुत्वा नैषाद[^1306]वचनं श्रीरामस्तमथाब्रवीत्।  
@@ -13184,10 +12280,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 प्रवेशयामास मुनि स्वमाश्रमपदं सदा॥ २।५४।१०-११ ।
 
 इत्यादिना स्वयं मुनिनैव तेषां प्रवेशोपदेशात्।
-
-
-
-
 
 तच्छ्रुत्वा सहसा गत्वा पादयोः पतितो मुनेः।  
 स्वामिन् रामः समागत्य वनाद् बहिरवस्थितः[^1311]॥ २६ ॥  
@@ -13243,8 +12335,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  ज्ञातमिति। तव यद् भूतंवृत्तम् आगामिकं वर्त्तिष्यमाण भावीति यावत्, उदन्तं वार्त्ता तन्मया ज्ञातं तपोलब्धशक्त्येति शेषः। 'वार्ता प्रवृत्तिर्वृत्तान्त उदन्त·स्यात्' इत्यमर^(·)।क्लीबत्वमत्रार्षम्।
 
-
-
 जानामि ज्ञानदृष्ट्याऽहं जातया[^1318] त्वदुपासनात्।  
 इतः[^1319] परं त्वां[^1320] कि वक्ष्ये कृतार्थोऽहं[^1321] रघूत्तम।  
 यस्त्वां[^1322] पश्यामि काकुत्स्थं[^1323] पुरुषं प्रकृतेः परम्॥ ३६ ॥  
@@ -13289,8 +12379,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  अत्र 'कुतप्लवेन' इत्यत्र रामधर्मादिधृत^(.) 'कुतालवेन' इति पाठोऽसमीचीन इव प्रतिभाति।
 
-
-
 गत्वा रामोऽथ वाल्मीकेराश्रममृषिसङ्कुलम्।  
 नानामृगद्विजाकीर्ण नित्यपुष्पफला[^1326]न्वितम्[^1327]॥ ४० ॥  
 तत्र दृष्ट्वा समासीनं[^1328] वाल्मीकिं मुनिसत्तमम्।  
@@ -13334,10 +12422,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 वल्मीकप्रभवो यस्मात्तस्माद् वाल्मीकिरित्यसौ॥
 
 इति। माऽस्त्वपत्यार्थत्वम्, तथाऽपि वाल्मीकिशब्द साधुरेव, 'गहादिषु( पा० ४।२।१३८ )
-
-
-
-
 
 दृष्ट्वा राम रमानाथं वाल्मीकिर्लोकसुन्दरम्।  
 जानकीलक्ष्मणोपेतं जटामुकुटमण्डितम्॥ ४२ ॥  
@@ -13388,8 +12472,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 | रा० |
 
  सर्वलोकानां सर्वेषां जनानां भुवनानाञ्च। 'त्वयि सर्व प्रतिष्ठित'मित्युक्तेः। 'लोकस्तु भुवने जने' इत्युभयत्रापि कोष.। उत्तम सर्वश्रेष्टं निवासस्थानम् प्रतिष्ठानिकेतनमित्यर्थः।
-
-
 
 **तवापि सर्वभूतानि निवाससदनानि हि।  
 एवं साधारण स्थानमुक्त ते रघुनन्दन[^1333]॥ ४६ ॥  
@@ -13442,8 +12524,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  ५३ \। निर्द्वन्द्वोऽहंममेति द्वन्द्वरहितोऽत एव निस्पृह। रा० ।
 
-
-
 निरहङ्कारिणः शान्ता ये रागद्वेषवर्जिताः।  
 समलोष्टाश्मकनकास्तेषां[^1339] ते हृदयं गृहम्॥ ५४ ॥  
 त्वयि दत्तमनोबुद्धिर्यः[^1340] सन्तुष्टः सदा भवेत्।  
@@ -13484,8 +12564,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
                                    
           *
 
-
-
 षड्वर्गादिविकारान्[^1343] यो देहे पश्यति नाऽऽत्मनि।  
 क्षुत्तृट्सुखभवं[^1344] दुःखं प्राणबुद्धयोर्निरीक्षते।  
 संसारधर्मैर्निर्मुक्तस्तस्य[^1345] ते मानसं गृहम्॥ ५७ ॥  
@@ -13517,9 +12595,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ५७ । भावादिविकारानिति। भावोऽत्रजन्म। तेन जन्मसत्ताविपरिणामवृद्धापक्षयविनाशरूपा विकारान् यो देहे पश्यति नाऽऽत्मनि.त नित्यं वृद्धिक्षयरहितमविनाशिनं पश्यतीस्यर्थ। क्षुत्तृडुभयं प्राणस्य सुखादि बुद्धेरिति विवेकः। रा० ।  
  ५८ । सर्वा गुहा अन्नमयप्राणमयमनोमयविज्ञानमयानन्दमयरूपास्तद्रूपो य आशय स्थानं तत्स्थम्, चिद्घनं चैतन्यरूपं सर्वगतमप्यलेपकं न भवति लेपकं तत् सर्वं पश्यन्ति तत्र स्थितोऽपि तद्गुणास्पृष्ट इत्यर्थः। रा० ।  
  ५९ । निरन्तरं ध्यानाभ्यासेन त्वय्येव दृढीकृतस्त्वदेकविषयीकृत आत्मा चित्त येषाम्। त्वत्पादसेवायां परिनिष्ठितानां त्वत्पराणाम्। रा० ।  
-
-
-
 
 राम वन्नाममहिमा वर्ण्यते केन वा कथम्।  
 यत्प्रभावादहं राम ब्रह्मर्षित्वमवाप्तवान्॥ ६० ॥  
@@ -13555,10 +12630,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
        *  
  ६० । त्वन्नाममहिमवर्णनस्य प्रकार कर्त्ता व दुर्लभ इत्याह—रामेति। रा० ।  
  ६१ । अत्रैवार्थे स्वविषयमितिहासमाह—अहमिति। किरातेषु तद्वसतिदेशेषु जन्ममात्रद्विजत्वं जन्ममात्रेण द्विजत्वमित्यर्थ। तत्रैवोपपत्तिमाह—शूद्राचाररत इति। रा० ।
-
-
-
-
 
 तानन्वधाव[^1353] लोभेन तेषां सर्वपरिच्छदान्।  
 ग्रहीतुकामस्तत्राहं तिष्ठ तिष्ठेति चाब्रवम्॥ ६४ ॥  
@@ -13613,8 +12684,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ६७ । पृथक् पृथक् पुत्रभार्यादिष्वेकैकं पृच्छेत्यर्थः। रा० ।  
  ७० । जातनिर्वेदस्तादृशकर्मकृति स्वात्मनि जातापमानबुद्धि. विचार्य एते पुत्रादयो म कुत्राप्युपकर्त्तार इति विचार्य ऋषिसन्निधिं पुनरागममागत·। रा० ।
 
-
-
 इत्यग्रेपतित दृष्ट्वा मामूचुर्मुनिसत्तमा.।  
 उत्तिष्ठोतिष्ठ भद्रन्ते सफलः सत्समागम'।  
 उपदेक्ष्यामहे तुभ्यं किञ्चित्तेनैव मोक्ष्यसे॥ ७२ ॥
@@ -13649,8 +12718,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ७३। यद्यपि दुर्वृत्तस्तथाऽपि रक्षणीय इत्युत्तरेणान्वयः। रा०।  
  ७४। व्यत्यस्तानि विपरीतपौर्वापर्याणि अक्षराणि यस्मिन् तादृशं रूपं यस्य तत्, नाम जपेत्यन्वयः। तदाकारो मरेति। एकाग्रमनसेति जपेति कर्त्तव्यतोपदेश। अत्र मनस एकाग्रता वर्ण विषयैव। रा०।  
  \[ व्यत्यस्त राकारमकारयो. पौर्वापर्यवैपरीत्येन अननुरूपाक्षरस्वरूपं मकारमादौ पठित्वा राकारोच्चारणरूपमित्यर्थ। गो० \]
-
-
 
 **अहं यथोपदिष्टं[^1362] तैस्तथाऽकरवमञ्जसा।  
 जपन्नेकाग्रमनसा बाह्य विस्मृतवानहम्॥ ७६ ॥  
@@ -13702,8 +12769,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ७९ । यस्मात्ते इदानी वल्मीकात् सम्भव, अत इदं ते द्वितीय जन्म वल्मीकादभवत् अतस्त्व वाल्मीकिरिति पूर्वेणान्वय। रा० ।  
  ८१ । एवम्भूत राम यत्त्वां प्रपश्यामि तत् सर्वथा मुक्तो भविष्यामि अत्र न सशय। अयञ्च प्रचेतोवंशजो रामायणकर्तृवाल्मीकेरन्य एवेति बहव। रा० ।
 
-
-
 **एवमुक्ता मुनिः श्रीमालक्ष्मणेन समन्वित'।  
 शिष्यैः परिवृतो गत्वा मध्ये[^1371] पर्वतगङ्गयोः॥ ८२ ॥**
 
@@ -13720,7 +12785,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 तत्र[^1374] ते देवसदृशा ह्यवसन् भवनोत्तमे॥ ८४ ॥**  
 
 [^1374]: "च 'त्रयस्ते' ।"
-
 
 *                                  
                                    
@@ -13745,8 +12809,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ८३ । तत्र ऋषिदर्शितस्थाने शालां मन्दिरद्वयं च लक्ष्मणेन समन्वितो राम कारयामास। तत्पर्वतवासिभिर्भिल्लैरिति शेषः। वासभूरिति रामविशेषणम्। संसारस्य वासस्थानमपि स्ववासस्थानं कारितवानित्याश्चर्योक्ति. । रा० ।  
  \ तत्र शालामित्यादि। गङ्गापर्वतयोर्मध्ये इति पूर्वेण सम्बन्ध। तत्र गत्वा यत्र वास-
 
-
-
 वाल्मीकिना [नित्यसुपूजितोऽयं[^1375]  
 रामः ससीत' सह लक्ष्मणेन।  
 देवैर्मुनीन्द्रैःसहितो मुदास्ते  
@@ -13756,7 +12818,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
 इति श्रीमदध्यात्मरामायणे उमामहेश्वरसंवादे अयोध्याकाण्डे  
 षष्ठोऽध्यायः॥ ६ ॥  
-
 
 *                                   
                                    
@@ -13778,16 +12839,12 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
 \[ अयोध्याकाण्डे षष्ठाध्यायव्याख्या समाप्ता॥ ६ ॥ \]
 
-
-
 *                                   
                                    
                        *
 
 योग्या भू, तत्र सुविस्तीर्णां शालां शालायोग्यां भुवं विलोक्येति शेष। मन्दिरद्वयं कारयामास, तत्र एकं प्राक्पश्चिमायतम्, द्वितीयं दक्षिणोत्तरायतम्। गो० \]  
  ८५ । स प्रसिद्ध देवपति· शच्या देवैश्च सहितो यथा स्वर्गे आस्ते तथा ससीतो मुनीन्द्रै·सहितो रामस्तत्राऽऽस्त इत्यर्थ। रा० ।
-
-
 
 **सप्तमोऽध्यायः**
 
@@ -13842,8 +12899,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  अत्रराज्ञा पृष्ट सुमन्त्रो रामवचनमवेदयत्, वाल्मीकीये अपृष्ट एव। तत्र अत^(·)परं दशरथस्य जिज्ञासा, सुमन्त्रस्यापि विस्तृतविनिवेदनम्। तच्च अयोध्याकाण्डस्य अष्टपञ्चाशोनषष्टिसर्गयो।  
  ४ । ज्येष्ठत्वाद् धर्मतो राज्यार्हस्य रामस्य निर्वासन पापजनकमिति कृत्वा
 
-
-
 हा राम हा गुणनिधे हा सीते प्रियवादिनि।  
 दुखार्णवे निमग्नंमां म्रियमाण न पश्यसि[^1380]॥ ५ ॥
 
@@ -13892,8 +12947,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 अशोको धर्मपालश्चसुमन्त्रश्चाष्टमोऽभवत्॥ ११४४ ।इति ।
 
  ८ । प्रीत्या गुहप्रीत्या हस्तेन स्पृष्ट्वानाग्रहीत्, सम्भावितकैकेयीपुत्रराज्ये नाऽऽहारं करिष्यामीति प्रतिज्ञावशादिति भाव। रा० ।
-
-
 
 वीरं समानाय्य गुहेन रघुनन्दन^(·)।  
 जटामुकुटमाबध्य मामाह[^1384] नृपते[^1385] स्वयम्॥ ६ ॥
@@ -13947,8 +13000,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
 **जानकी तु विनिश्वस्य बाष्पच्छन्नस्वरा नृप।  
 भूतोपसृष्टचित्तेव वीक्षमाणा समन्ततः॥**
-
-
 
 साष्टा[^1392]ङ्गं प्रणिपातं मे ब्रूहि श्वश्रोः[^1393] पदाम्बुजे।  
 इति प्ररुदती सीता गता किञ्चिदवाङ्मुखी[^1394]॥ १३ ॥
@@ -14013,8 +13064,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  १६ । यदि त्वं कैकेय्यै वरं दत्तवान् तर्हि तस्यैव तत्पुत्रस्यैव राज्यं देहि, राज्यस्योपा-
 
-
-
 दुःखेन म्रियमाणं मां कि पुनर्दुःखयस्यलम्[^1378]।  
 इदानीमेव मे प्राणा उत्क्रमिष्यन्ति निश्चयम्[^1401]।  
 शप्तोऽहं[^1402] बाल्यभावेन केनचिन्मुनिना पुरा॥ १८ ॥
@@ -14058,8 +13107,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
 'एतस्मिन्नीदृशे काले वर्तमानेऽहमङ्गने।  
 बद्ध्वातूणौ धनुष्पाणि सरयूमगमं नदीम्॥ इति २।६५।१७ ॥
-
-
 
 **गज' पिबति पानीयमिति मत्वा महानिशि।  
 बाणं धनुषि सन्धाय शब्दवेधनमक्षिपम्[^1404]॥ २१ ॥**
@@ -14110,8 +13157,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  ब्राह्मणेन शूदायां जात, तेन पारशवापरनामा निषादोऽयमिति सूच्यते। 'शूद्रायाम् अस्मि वैश्येन' एतेन च करणोऽयमिति सूच्यते इति, तदन्न मूलग्रन्थस्य प्राच्यपाश्चात्त्यग्रन्थयोश्च मतासाम्ये सुधिय एव मीमांसका·
 
-
-
 पितरौ मां प्रतीक्षेते क्षुत्तृङ्भ्यां परिपीडितौ।  
 तयोस्त्वमुदकं देहि शीघ्रमेवाविचारयन्।  
 न[^1409] चेत्वां भस्मसात्कुर्यात् पिता मे यदि कुप्यति॥ २६ ॥
@@ -14160,8 +13205,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  २७ । सर्व कृत बाणनिक्षेपमवधादिकं निवेदय, देहाच्छल्यं बाणमुद्धर चेति चकाराध्याहारेणान्वय कार्यं।  
  ३० । किमुपेक्षते उपेक्षाऽनुचितेति भाव·। अनौचित्ये हेतुः—भक्तिमानिति। रा० ।
-
-
 
 इति चिन्ताविचारौ[^1416] तौ मत्पादन्यासजं ध्वनिम्।  
 श्रुत्वा प्राह पिता पुत्र[^1417] किं विलम्बः[^1418] कृतस्त्वया।  
@@ -14238,8 +13281,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ३६ । जीवितं प्रार्थय त्वमिति शेषः।  
  ३७ । तेन मुनिना इत्युक्तो मुनिहिंसकोऽहम् आगत इति शेषः।
 
-
-
 इति श्रुत्वा तु दुखार्तौ विलप्य बहुशोच्य[^1431] तम्।  
 पतितौ नौ सुतो यत्र नय तत्राविलम्बयन्॥ ३८ ॥
 
@@ -14297,8 +13338,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
 इत्यनन्तरोक्तेन च पद्येन पितुरचिरमरणमनुमातुं शक्यते, मातुस्तु न तदपि। पाश्चात्त्येऽपि नैकचितायामेषां त्रयाणां दाह., परं पुत्रार्थोदकदानाद्दशरथशापाच्च परं तयोर्दम्पत्योश्चितारोहणम्।
 
-
-
 स इदानीं मम प्राप्तंशापकालोऽनिवारित।  
 इत्युक्त्वा विललापाथ राजा शोकसमाकुलः॥ ४३ ॥
 
@@ -14348,8 +13387,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 २।**६८१४४-४७।**
 
  भरतानयनार्थं दूतप्रेरणादिकमपि तत्रैव। तथा च—
-
-
 
 तत्राऽऽस्ते भरत. श्रीमाञ् शत्रुघ्नसहित^(·) प्रभु^(·)।  
 उच्यतां भरतः शीघ्रमाग[^1440]च्छेति[^1441] ममाऽऽज्ञया।  
@@ -14405,9 +13442,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ४७ । ममाज्ञया भरतसमीप गत्वा शीघ्रमागच्छेति भरत उच्यताम्। अयोध्यां प्रति आगत्य कैकेयी राजानञ्च भवान् पश्यतु इति चोच्यताम्। रा० ।  
  ५१ । राज्ञा रामेण वा माऽऽहूत परं वशिष्टेन इत्यतस्तयो·सम्बन्धिनी चिन्ता, वाल्मीकीये नृपाज्ञाज्ञापनपूर्वकाह्वाने दु·स्वप्नादिदर्शनजन्या सा।  
 
-
-
-
 प्रविश्य राजभवन राजलक्ष्मीविवर्जितम्  
 अपश्यत् कैकेयीं[^1448]एका मेवासने[^1449] स्थिताम्।  
 ननाम शिरसा पादौ मातुर्भक्तिसमन्वित^(·)॥ ४३ ॥
@@ -14457,8 +13491,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
 **इति पृष्टोऽथ कैकेय्या भरतो दीनमानस।  
 शशंस मातु· स क्षिप्रं गमनागमनक्रमम्॥**
-
-
 
 इति पृष्ट स भरतो मात्रा चिन्ताकुलेन्द्रिय।  
 दूयमानेन मनसा मातरं समपृच्छत॥ ५६ ॥
@@ -14515,8 +13547,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ६० । वृजिनार्णवे दुखार्णवे। रामाय राज्ञे मामसमर्प्यअयं मद्वत्त्वयाऽपि पालनीय इत्यनुक्त्वैव। रा० ।
 
    वृजिनार्णवे पापजलधौ। 'वृजिन कल्मषे क्लीबं केशे ना कुटिले त्रिषु' इति मेदिनी।
-
-
 
 तामाह भरतस्तातो त्रियमाण किमब्रवीत्[^1462]।  
 तमाह कैकेयी देवी भरत भयवर्जिता॥ ६२ ॥
@@ -14578,8 +13608,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ६५ । सम्भ्रम आदरपूर्वकोपक्रम। राज्यप्रदानाय तव राज्यं प्रदापयितुम्। अन्तर्भावितण्यर्थो ददाति। विघ्नमाचर रामयौवराज्याभिषेकस्येति शेष। रा० ।  
  ७० । त दृष्ट्वानिसज्ञ भरत दृष्ट्वा। अनेन भर्तृशोकादपि पुत्रशोको गरीयानिति दर्शितम्। रा० ।
 
-
-
 कैकेयी पुनरप्याह वत्स शोकेन किं तव।  
 राज्ये महति सप्राप्ते दु^(·)खस्यावसर^(·) कुत'॥ ७१ ॥
 
@@ -14613,10 +13641,10 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
 [^1477]: " ड '-नेत्रा तमब्रवीत' ।"
 
+[^1478]: " अत परग-पुस्तके ‘कौशल्योवाच' इत्यधिकम् । "
+
 पुत्र त्वयि गते दूरमेवं सर्व[^1479]मभूदिदम्।  
 उक्तं मात्रा श्रुतं सर्वं त्वया ते मातृचेष्टितम्॥ ७७ ॥
-
-[^1478]: " अत परग-पुस्तके ‘कौशल्योवाच' इत्यधिकम् । "
 
 [^1479]: "च ' -मभूत्तदा' ।"
 
@@ -14634,8 +13662,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ७२ । चक्षुषा प्रदहन्निव पश्यन्नाहेति शेष।असंभाष्यत्वे हेतु^(·)—भर्त्तृघातिनीत्वम्। रा० ।  
  ७५ ।त स्वसुतस्य वनवासकारणस्वरूपम्। स्वसुतवद् भरतेऽपि स्नेहपरायणायास्यास्तद्दर्शनक्षण एवं शोकावेगो दुर्दमनीय आसीदिति भाव।  
  ७८ । रघुरामचन्द्र रघुकुलजातो रामचन्द्र इत्यर्थ.। रा० ।
-
-
 
 हा राम हा मे रघुवंशनाथ जातोऽसि मे त्वं परतः परात्मा।  
 तथाऽपि दुख न जहाति मां वै विधिर्बलीयानिति मे मनीषा॥ ७६ ॥
@@ -14683,9 +13709,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ८१ । रामराज्यस्याभिषेचने यत् कृत तद्वा अन्यद्वा मद्राज्ययाचनारूपं यदि जानामि यदि वा सा एतदर्थं मया नोदिता प्रेरिता तदेत्यन्वयः। रा० ।  
  ८२ । यद्यहमिमं वृत्तान्तं जानामि तदा तदखिलं पापं मम भूयादित्यन्वयः। रा० ।  
 
-
-
-
 भुक्त्वामर्त्त्यसुखं सर्वमिष्ट्वाविपुलदक्षिणैः।  
 अश्वमेधादिभिर्यज्ञैर्लब्ध्वा राम[^1487] सुतं हरिम्॥ ८६ ॥
 
@@ -14723,8 +13746,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  ८७ । अशोच्यत्वे हेतुगर्भविशेषण मोक्षभाजनमिति। रा० ।  
  ८८ । प्रकारान्तरेणाप्यशोच्यत्वमाह—आत्मेति। नित्योऽव्यय इत्यस्यैव जन्मनाशादिवर्जित इति विवरणम्। शरीरस्य जडत्वान्नश्वरत्वादेव अशोच्यतेत्याह—शरीरमिति। रा० ।
-
-
 
 नि.सारे खलु संसारे वियोगो ज्ञानिनां सदा[^1492]।  
 भवेद् वैराग्य हेतुत्व[^1493] शान्तिसौख्यं तनोति च॥ ६०॥
@@ -14775,8 +13796,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  ९२ । य. अविद्वानपि अतत्वज्ञोऽपि स उत्पत्तिप्रलययोः सर्वजन्तूनां कर्माधीनत्वं विजानन् कथं बान्धवान् शोचति, किं पुनस्तत्स्वज्ञ इति भाव। रा० ।
 
-
-
 ब्रह्माण्डकोटयो नष्टाः सृष्टयो बहुशो गताः।  
 शुष्यन्ति सागराः सर्वे कैवाऽऽस्था[^1500] क्षणजीविते॥ ६३ ॥
 
@@ -14821,8 +13840,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ९५ । देही जीव· प्राक्तनदेहसम्पादितकर्मणाऽय देह एतद्देहसम्पादितकर्मणा च पुनर्देह इति देहवियोगो न कदाचिदात्मन इति देहशोको वृथेति भाव^(·)। रा० ।  
  ९६ । \[ किञ्च जीर्णं देह परित्यज्य नवदेहप्राप्तौ हर्ष एव युज्यते न तु शोक इत्याह—यथा त्यजतीति। गो० \]
 
-
-
 आत्मा न म्रियते जातु जायते न[^1506] च वर्द्धते।  
 षड्भावर[^1507]हितोऽनन्त' सत्यप्रज्ञानविग्रह·।  
 आनन्दरूपो बुद्ध्यादिसाक्षीलयविवर्जितः॥ ६७ ॥
@@ -14853,8 +13870,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  \[ किञ्च आत्मन·स्वरूप बुद्ध्वाऽपि शोको निर्विषय इत्याह—आत्मेति। आत्मा जातु कदाचिद् देहमरणेऽपि न म्रियते नित्यत्वात्, न जायते अजत्वात्, न वर्द्धते परिपूर्णत्वात्। चकाराद् जन्मान्तरास्तित्वापक्षयविपरिणामानां ग्रहणम्। षड्भावरहित इति। यत· षड्भावरहित·अतोऽनन्त देशकालापरिच्छिन्न, सत्य सर्वदा सन् स चासौ प्रज्ञानविग्रह, ज्ञानमेव विग्रहो यस्य इति। आनन्दरूप· नित्यानन्दमूर्त्ति·। यद्वा एतैर्विशेषणै·अस्तित्वादिहीन, नित्यत्वाद् अस्तित्वस्य, आनन्दरूपत्वाद् अपक्षयस्य, ज्ञानरूपत्वाद् विपरिणामस्याभावात्। अनासक्तत्वमाह—बुद्ध्यादिसाक्षी बुद्ध्यादीनां दृष्टा। अतो लयविवर्जित सुषुप्त्यादावपि प्रकाशमान। गो० \]
 
  ९८ । समस्थित· सर्वत्र समतया स्थित, स एवाहमित्यात्मान ज्ञात्वा शोक त्यक्त्वाक्रियां कुरु। रा० ।
-
-
 
 तैलद्रोण्यां[^1510] पितुर्देहमुद्धृत्य सचिवै· सह।  
 कृत्यं कुरु यथान्यायमस्माभिः कुलनन्दन[^1511]॥ ६६ ॥  
@@ -14902,8 +13917,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 **अथास्य सरयूतीरे विविक्ते मृदुशादूले।  
 चन्दनागुरुकाष्ठैस्ते राज्ञश्रक्रुश्रितां तदा॥**
 
-
-
 एकादशेऽहनि[^1515] प्राप्ते ब्राह्मणान् वेदपारगान्।  
 भोजयामास विधिवच्छतशोऽथ[^1516] सहस्रशः॥ १०२ ॥
 
@@ -14946,8 +13959,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  एकादशेऽहनीति। एकादशेऽहनि अर्थादशौचान्तद्वितीयदिवसे। ब्राह्मणान् भोजयामासेति श्राद्धादीन् कृत्वेति शेष·।
 
-
-
 उद्दिश्य पितर तत्र ब्राह्मणेभ्यो धनं बहु।  
 ददौ गवां सहस्त्राणि ग्रामान् रत्नाम्बराणि च॥ १०३ ॥
 
@@ -14977,8 +13988,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
 इत्यस्य व्याख्यायां 'दशाहेऽतिगते एकादशेऽहनि कृतशौच अनुष्ठितप्रेतबिमुक्तिदैकादशाहश्राद्ध^(·), श्राद्धकर्माणि द्वितीयमासिकसपिण्डीकरणश्राद्धानि' इत्यादि यदुक्तं रामायणतिलकाख्यायाम् एतट्टीकायां तस्योपपत्ति^(·) सुधीभिः करणीया।
 
-
-
 रामेऽरण्यं प्रयाते सह जनकसुतालक्ष्मणाभ्यां सुघोर  
 माता मेराक्षसीव प्रदहति हृदय दर्शनादेव सद्य'।  
 गच्छाम्यारण्यमद्य[^1517] स्थिरमतिरखिल दूरतोऽपास्य राज्य  
@@ -15001,12 +14010,9 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  \[ रामेऽरण्यमिति। आरण्यं राज्यमिति सम्बन्ध'। यद्वा वायसचाण्डालादिवत स्वार्थे टन्। गो० \]
 
-
-
 अष्टमोऽध्यायः
 
 —— ♦ ——  
-
 
  श्रीमहादेव उवाच—
 
@@ -15053,8 +14059,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  २। आसने समासीन स वशिष्ठ सानुजं सशत्रुघ्नं भरतम् आनीय तत्रसभायाम् उपवेश्य आसनान्तरे इति शेष।  
  ३ । देशकालोचितं राजहीने देशे तादृश एव च काले यदुचितम्। तदेवाऽऽह—वत्स
 
-
-
 कैकेय्या याचित राज्य त्वदर्थे पुरुषर्षभ।  
 सत्यसन्धो दशरथ. प्रतिज्ञाय ददौ किल।  
 अभिषेको भवत्वद्य मुनिभिर्मन्त्रपूर्वकम्॥ ४ ॥  
@@ -15099,8 +14103,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
   \[ मातृगन्धिनीं लौकिकसम्बन्धवन्मातृत्वेन युक्तां न तु तत्वेन मातरम्। स्त्रीहन्तारमित्युक्तम्, न तु मातृहन्तारम्। गो० \]
 
 ८ \। पादचारेणेत्याद्यंशो वाल्मीकीयविरोधी। तत्र भरतस्य गमनार्थं मार्गसंस्कारप्रभृतीनां बहूनां कार्याणां समारम्भोऽयोध्याकाण्डस्य सप्ताशीतितमसर्गे, भरतानुयायिनाञ्च वर्णनं नवतिमसर्गे।
-
-
 
 रामो यथा वने[^1527] यातस्तथाऽह वल्कलाम्बरः।  
 फलमूलकृताहारः शत्रुघ्नसहितो मुने।  
@@ -15149,8 +14151,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  १२ । पृष्ठत पार्श्वतोऽग्रतः भरतस्येति शेष·।  
  १३ । गङ्गाकूले समन्तत· गङ्गाकूलस्य चतुर्दिक्षु इत्यर्थ। पूर्व सुमन्त्रेण नोदिता(६।८।११) इत्युक्तम्, इदानीं शत्रुघ्न्नपरिचोदिता इत्युच्यते, कथमेतत् सङ्गच्छते इति विप्रश्न
 
-
-
 **आगतं भरतं श्रुत्वा गुह शङ्कितमानसः।  
 महत्या सेनया सार्द्धमागतो भरतः किल।  
 पापकर्त्तुं न वा[^1533] याति रामस्याविदि[^1534]तात्मनः॥ १४ ॥  
@@ -15188,8 +14188,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  गत्वा भरतसमीपमिति शेष। तद्धृदय भरतस्य चित्तवृत्ति· ज्ञेयम्। यदि हृदवृत्तिविचारेण स शुद्ध· पवित्र· रामे वैरहीन इति यावत् स्यात् तदा स तरिष्यति गङ्गामिति द्वितीयार्द्धेनान्धय।
 
   एतेन नीचजातीयस्यापि गुहस्य सामर्थ्यातिशय· सूचित। वाल्मीकीयेऽत्र बहु वीरायितं गुहेन(२।९१)।
-
-
 
 दृष्ट्वा भरतमासीन सानुजं सह[^1540] मन्त्रिभिः।  
 चीराम्बरं घनश्यामं जटामुकुटधारिणम्[^1541]॥ १८ ॥  
@@ -15242,8 +14240,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  २३ । एतेन रामोपवेशनादिस्थानदर्शनेनापि रामे परानुरक्तस्य भरतस्य कथञ्चिन्निर्वृतिर्भविष्यतीति सूचितम्।  
 २४ । इति उक्त्वारामं सस्मृत्य सस्मृत्य साश्रुविलोचनो भरतो रामो यत्र निशि स्थित, गुहेन सहितस्तत्र ययौ,गृहेन सहितस्तत्र ययौ, सीताभरणसंलग्नस्वर्णबिन्दुभिरञ्चितं कुशसमास्तृतं शयनस्थलं ददर्श चेत्युत्तरेणान्वयःI
 
-
-
 **सीताभरण[^1552]संलग्नस्वर्णबिन्दुभिरञ्चितम्[^1553]।  
 दुःखसन्तप्तहृदयो भरतः पर्यदेवयत्[^1554]॥ २५ ॥  
 अहोऽतिसुकुमारी[^1555] या सीता जनकनन्दिनी।  
@@ -15289,8 +14285,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  २५ । सीताभरणघर्षणेन संलग्ना ये स्वर्णबिन्दवस्तदाकारचिह्नानि तैरञ्चितं युक्तं शयनस्थल दृष्ट्वापर्यदेवयत् शुशोचेत्यर्थ·। रा० ।  
  २७ । सा कथ मम दोषत कुशविष्टरे शेते। रामेण सहितेति पुनरुक्ति शोकमेव पुष्णाति। रा० ।  
  २८ । पापराशिसमानत पापराशिसमानायाम्। सार्वविभक्तिकस्तसि। तादृश्यां कैकेय्यां जातोऽस्मि, तस्मात् मां धिक्। इदं क्लेशम् क्लेशशब्दोऽर्धर्चादि। रा०
-
-
 
 **गुहस्तं शुद्धहृदयं ज्ञात्वा सस्नेहमब्रवीत्।  
 देव त्वमेव धन्योऽसि यस्य[^1560] ते भक्तिरीदृशी।  
@@ -15345,8 +14339,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  ३५ । ससैन्यस्य भरतस्य तर्त्तुं तरणार्थमत्यादरदर्शनाय भरतोत्तारणाय राजनावं राजयोग्या नाव स्वयमेवानिनाय। रा० ।
 
-
-
 आरोप्य भरतं तत्र शत्रुघ्न राममातरम्।  
 वशिष्ठञ्च तथाऽन्यत्र[^1565] कैकेयीं चान्ययोषितः[^1566]॥ ३६ ॥  
 तीर्त्वा गङ्गां ययौ शीघ्र भरद्वाजाश्रमं प्रति।  
@@ -15400,8 +14392,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ३६ । तथा कैकेयीमन्ययोषितश्चान्यन्नान्यराजनावीत्यर्थ·। रामे दुष्टत्वाचरणप्रयुक्तोऽय कैकेय्या अनादर। अतारयदिति शेष। रा० ।  
  ३७ । भरद्वाजाश्रमपर्यन्तं सेनया सह गत्वा तत·सेनया आश्रमोपरोधो मा भूदिति ता किञ्चिद्दूरेसस्याप्य स्वय सानुजो ययौ। भरद्वाजाश्रमद्वार प्रतीति शेष। रा० ।  
  ४१ । सर्वभूताशयस्थित सर्वभूताशयस्थेनान्तर्यामिणा तत्त्वज्ञतया अभेदादिति भाव.। रा० ।
-
-
 
 कैकेय्या यत् कृतं कर्म राम राज्यविघातनम्[^1575]।  
 वनवासादिकं वाऽपि न[^1576] हि जानामि किञ्चन॥ ४२ ॥
@@ -15466,8 +14456,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ४९ । यथाज्ञापयतीति च्छन्दोभङ्ग आर्ष·। रा० ।  
  ५० । वाल्मीकीये भरद्वाजाश्रम प्राप्तस्य ससैन्यपरिजनस्य भरतस्य आतिथ्यार्थं सुरसानां।
 
-
-
 असृजत् कामधुक् सर्वं यथाकाममलौकिकम्।  
 भरतस्य ससैन्यस्य यथेष्टञ्च मनोरथम्।  
 तथा ववर्ष सकलं तृप्तास्ते सर्वसैनिकाः॥ ५१ ॥
@@ -15504,7 +14492,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 सरसानाञ्च द्रव्यसम्भाराणां तथा समावेश परिदृश्यते, यथा निरन्तरशुष्कहृदयानामपि तत्तद्वस्तुग्रहे मनो नितरा लोलुप भवति। पर सत्यपि दुर्निवारे लोभे विपुलत्वात् पाठकजनविरागभीत्या न तत्सम्भारससृष्टांशा अत्र निवेशिता। यदि केचन आग्रहान्विता· स्युस्तदा तैरयोध्याकाण्डीयैकाधिकशततम सर्गोऽन्वेष्टव्य।
 
  अत्र भरतातिथ्योपयोगिद्रव्यसम्भारसंग्रहाय भरद्वाजस्य कामदुघाध्यानं वाल्मीकीये तु तेन विश्वकर्मण आह्वानम्। तथा च—  
- 
 
 अग्निशालां प्रविश्याथ पीत्वाप. परिमृज्य च।  
 आतिथ्यर्थी भरद्वाजो विश्वकर्माणमाह्वयत्॥  
@@ -15520,8 +14507,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 गुहो ज्ञातिसहस्रेण शरचापासिधारिणा।
 
 वने मार्गतु काकुत्स्थमस्मिन् परिवृतस्त्वया॥
-
-
 
 अदृष्ट्वा रामभवनमपृच्छदृषिमण्डलम्[^1590]।  
 कुलाऽऽस्ते सीतया सार्द्ध लक्ष्मणेन रघूत्तम॥ ५६ ॥
@@ -15572,16 +14557,11 @@ ahat रामदु·खस्य कारण विधिना कृता�
  शत्रुघ्नादिभि सह सर्वतपस्विमण्डलं तपस्विनामाश्रममण्डल विचिन्वानो रामाश्रममलब्ध्वा न्यवर्त्तत निवृत्तव्यापार एवाऽऽसीत्।  
  ५८ । कदलीषण्डसंवृतं कदलीनां षण्डं समूहस्तेन संवृतं व्याप्तम्। 'षण्ड पद्मादिसघातेन स्त्री स्याद् गोपतौ पुमान' इत्यमर'।  
 
-
-
-
 एव दर्शितमालोक्य मुनिभिर्भरतोऽग्रत'।  
 हर्षाद् ययौ रघुश्रेष्ठभवनं मन्त्रिणा सह॥ ५६ ॥
 
 ददर्श दूरादतिभासुरं शुभं रामस्य गेहं मुनिवृन्दसेवितम्।  
 वृक्षाग्रसंलग्नसुवल्कलाजिन रामाभिरामं भरत सहानुज'॥ ६० ॥
-
-
 
 इति श्रीमदध्यात्मरामायणे उमामहेश्वरसवादे अयोध्याकाण्डे  
 अष्टमोऽध्याय·॥ ८ ॥
@@ -15608,8 +14588,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ५९ । एवं मुनिभिर्दर्शितं रघुश्रेष्ठभवनमग्रतो भरत^(.) समालोक्य मन्त्रिणा सह हर्षाद् ययाविति सम्बन्ध·।रा० ।  
  ६० । रामाभिराम रामेण रामवासेनाभिरामम्। रा० ।  
    \[ वृक्षाग्रेत्यादि। रामाभिराम रामस्याभिराम मन·प्रीतिर्यस्मिन् रामेणाभिरमणीयं वा। गो० \]
-
-
 
 नवमोऽध्यायः
 
@@ -15667,8 +14645,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ३ । वचनव्यत्ययेन भूतलानीत्यत्रापि ब्रह्मादिदेवैर्विमृग्याणीति योज्यम्। श्रुतिभिर्वेदोक्तविधिभिरित्यर्थ·।  
  ४ । अद्भुतो य. प्रेमरस. प्रीतिरसस्तेनाप्लुतो व्याप्त आशयोऽन्त·करणं यस्य।  
 रघुनाथभावने विगाढचेतास्तत्परिचित्त इत्यर्थ.। रा० ।
-
-
 
 स तत्र दृष्ट्वारघुनाथमास्थितं दूर्वादलक्ष्यामलमायतेक्षणम्।  
 जटाकिरीटं[^1605] नववल्कलाम्बरं प्रसन्नवक्तं तरुणारुणद्युतिम्॥ ५ ॥
@@ -15731,8 +14707,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ९ । साश्रु यथा तथा ववन्दे। सा पुत्रमालिङ्ग्यभर्तृवियोगस्मरणेनातीव दु खिता आसीदिति शेष। रा० ।  
  स्वमातरं कौशल्यामित्यर्थ। पादयोरिति तस्या इति शेष।
 
-
-
 इतराश्च[^1615]तथा नत्वा जननी रघुनन्दनः।  
 ततः समागतं दृष्ट्वा[^1616]वशिष्ठमुनिपुङ्गवम्[^1617]॥ १० ॥
 
@@ -15787,8 +14761,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  १४ । कर्णशूलाभं कर्णयो शूलरोगतुल्यम्। रा० ।
 
-
-
 ततोऽनु रुरुदुः सर्वा मातरश्च तथाऽपरे।  
 हा तात मां परित्यज्य व गतोऽसि घृणाकर[^1619]।  
 अनाथोऽस्मि महाबाहो मां को वा पालयेदितः[^1620]॥ १५ ॥
@@ -15832,9 +14804,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  अतो रामक्रन्दनादप्यधिकमित्यर्थ। शान्तवचनैसान्त्वनावाक्यै।
 
  १८ । इङ्गुदी तापसतरु.।  
-
-
-
 
 वयं यदन्नाः[^1625] पितरस्तदन्नाः स्मृतिनोदिताः[^1626]।  
 इति[^1627] दुःखाश्रुपूर्णाक्षः पुनः स्नात्वा गृह ययौ॥ १९ ॥
@@ -15885,8 +14854,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  सद्य^(·) श्रुतपितृवियोगवार्त्तस्य श्रीरामस्य पिण्डदानाधिकारमाश्रित्याऽऽह वाल्मीकि टीकायां तिलक—'न च यदा कदाचित् पितुर्मरणश्रवणे पुत्रस्य दशाहाशौचतायाः स्मृतिषूक्तत्वेन कथं कृतक्रियस्य पितु प्रथमदिन एव पिण्डदानमिति वाच्यम्, तस्या^(.) स्मृते क्षत्रियेतरविषयत्वात् कलिविषयत्वाद्वा न दोष·।' इति।
 
  २२ । पित्र्य पितुरागतम्। यथा पिता ज्येष्ठस्त्व मे तथा पितृसदृश। एवञ्च पितरिजीवति यथा राज्यानधिकारस्तथा त्वयि जीवत्यपीति भाव। रा० ।
-
-
 
 इष्ट्वा यज्ञैर्बहुविधैःपुत्रानुत्पाद्य तन्तवे[^1634]।  
 राज्ये पुत्र समारोप्य गमिष्यसि ततो[^1635] वनम्॥ २३ ॥
@@ -15942,8 +14909,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  २७ । त्वदुक्त तथैव सत्यमेव। तथाऽपि पित्राज्ञापालन मे आवश्यकमितीत्याह—किन्त्विति। नव पञ्च चतुर्दश। रा० ।  
  २८ । अतियत्नत पितृवचनकर्तव्यत्वे हेतुमाह—पितुरिति। स्वतन्त्र स्वच्छाचार। रा० ।
 
-
-
 पितुर्वचनमुल्लङ्घ्यस्वतन्त्रो यश्च वर्त्तते।  
 स जीवन्नेव मृतको देहान्ते निरयं व्रजेत्।  
 तस्माद्राज्य प्रशाधि त्व वयं दण्डकपालकाः॥ २६ ॥
@@ -15979,8 +14944,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ३० \। कामुकत्वादेव मूढधी। यदि वक्ष्यति यद वक्ष्यतीत्यर्थ। सुधी पुरुषो यथा भ्रान्तवाक्यं सत्यमिति न गृह्णाति तथा त्वयोक्तविशिष्टपितृवाक्य न ग्राह्यमित्यर्थ। रा० ।  
  ३१ । ब्रूयात् उक्तवानित्यर्थ। नञ्त्रयम् एकैकमपि तत्रासम्भवि किं पुन समुदितमिति बोधयितुम्। प्रतिश्रुत प्रतिज्ञातम्। भयात् प्रतिज्ञाभङ्गभयात्। रा० ।  
  ३२ । यतो महतां नरकादप्यधिका असत्याद् भीति·, तेषा फलतोऽप्युपाये अतिभयमित्यर्थ। रा० ।
-
-
 
 कथ वाक्यमह[^1647] कुर्यामसत्य राघवोऽपि[^1648] सन्।  
 इतीरितं[^1649] समाकर्ण्य रामस्य भरतोऽब्रवीत्॥ ३३ ॥
@@ -16025,8 +14988,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ३४ । तथैव त्वत्प्रतिनिधितया त्वदुवदेवेत्यर्थ। रा० ।  
  ३६ । प्रायोपवेश—प्राय सन्नप्रासवत्यनशने। सन्न्यास सम्यग् न्यास^(·) आत्यन्तिकत्यागस्तद्युक्तेऽनशने। 'सन्नप्रासवत्यनशने पुमान् प्राय' इत्यमर। तदर्थमुपवेश उपवेशनम्, रामस्य राज्यग्रहणास्वीकारे भरतस्य प्राणपरित्यागार्थं सन्न्यासपूर्वकमनशनेनोपवेशनमित्यर्थ'। यद्वाप्रायो मरण तदर्थमुपवेश, 'प्रायश्चानशने मृत्यौ प्रायो बाहुल्यतुल्ययोः' इति विश्व'।
 
-
-
 **इत्येवं निश्चय कृत्वा दर्भानास्तीर्य चाऽऽतपे[^1652]।  
 मनसाऽपि[^1653] विनिश्चित्य प्राङ्मुखोपविवेश[^1654] सः॥ ३७ ॥**
 
@@ -16047,7 +15008,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 वत्स गुह्य शणुष्वेद मम वाक्यात्[^1657] सुनिश्चितम्॥ ३६ ॥**  
 
 [^1657]: " च-छ 'वाक्य ' ।"
-
 
 *                                  
                                    
@@ -16070,9 +15030,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 सम्यगूचुरिमे सर्वे सुहृदो नो हितैषिण॥  
 किमस्मांस्ते परिक्लिश्य भरत प्रतिगम्यताम्।  
 महार्णव शोषयितुं भवेच्छक्यो नदीपति॥  
-
-
-
 
 रामो नारायणसाक्षाद् ब्रह्मणा याचित'[^1658] पुरा।  
 रावणस्य वधार्थाय जातो दशरथात्मजः॥ ४० ॥  
@@ -16103,8 +15060,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 सदर्भशयनात्तस्मादुत्थाय भरतस्तदा।  
 उपस्पृश्योदक वीरो वाक्यमेतदुवाच ह॥ इति । २।१२१।४-१०
 
-
-
 स्वदेशप्रत्यागमनप्रवृत्तिस्तु तन्त्राऽऽगतानां मुनीनामुपदेशपरम्परया रामस्योत्तेजकवाक्येन च। तथा च—
 
 ततो मुनिगणा सर्वं दशग्रीववधैषिण।  
@@ -16128,10 +15083,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 पूर्वमुक्त्वा प्रसीदेति राघव स ततोऽब्रवीत्॥  
 अलं शप्तेन यास्यामि यद्येवं परितप्यसे।  
 अह हि जीवितेनापि प्रिय कुर्यां तव प्रभो॥ इति २।१२३।११-१२ ।
-
-
-
-
 
 कैकेय्या वरदानादि यद्[^1659] यन्निष्ठुरभाषणम्।  
 सर्वं देवकृतं[^1660] नो चेदेवं सा भाषते[^1661] कथम्॥ ४२ ॥
@@ -16186,8 +15137,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 अधिरोप्याऽऽर्यपादाभ्यामिमे गृह्णीष्व पादुके।  
 एते हि सर्वलोकस्य योगक्षेमं करिष्यत॥ इत्यादि । २।१२३।१६, १८-२० ।
 
-
-
 गृहीत्वा पादुके दिव्ये भरतो रत्नभूषिते।  
 रामं पुन. परिक्रम्य प्रणनाम पुन' पुन'।  
 भरत पुनराहेदं भक्त्या गद्गदया गिरा॥ ४७ ॥
@@ -16236,9 +15185,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
  ५१ । मायामोहितचेतसेत्यनेन वस्तुतो ममापराध एव नेति सूचितमङ्गीकृत्यापि स्वापराधमाह— क्षमस्वेति। क्षमैव सार सर्वगुणप्रधानं येषामित्यर्थः। रा० ।  
 
-
-
-
 त्वं साक्षाद्विष्णुरव्यक्त' परमात्मा सनातन'।  
 मायामानुषरूपेण मोहयस्यखिलं[^1673] जगत्॥ ५२ ॥
 
@@ -16264,13 +15210,9 @@ ahat रामदु·खस्य कारण विधिना कृता�
                                    
                  *
 
- 
-
  ५२ । सम्प्रति मायापगमं ध्वनयति—त्वमिति। नन्वहं मनुष्यो न परमात्मेति चेत्तन्नाऽऽह—मायेति। एषा ते मायैवेति भाव। रा० ।  
  ५३ । त्वयैवेति। तस्मादन्तर्याम्येव त्वमिति भावः । एवं त्वत्प्रेरणयैव तथा कृतवत्या मे नापराध इति ध्वनि·। तदेवोपपादयति—त्वदिति। स्वतोऽस्वतन्त्रं स्वत्प्रेरणां विना किं करोति न किमपि करोतीति भाव। रा० ।  
 ५४ । कुहको विस्मापक^(·), गुप्ततया तत्सूत्रचालनेन तन्नर्तनाद विस्मयोत्पादक इति भाव। त्वदधीनेति। अनेन मायायास्तत्कार्यस्यातिजडत्वं सूचितम्। रा० ।
-
-
 
 त्वयैव प्रेरिताऽहञ्च देवकार्यं करिष्यता[^1674]।  
 पापिष्ठ[^1675]पापमनसा कर्माऽऽचरमरिन्दम[^1676]॥ ५५ ॥
@@ -16326,8 +15268,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ५७ । पुत्रवित्तादिविषयस्नेहरूप पाशमित्यर्थ। रा० ।  
  ६० । मद्भक्त्या सर्वविषयेषु स्नेहत्यागपूर्वकमहर्निश मदभावनमेव मद्भक्ति', तया। रा० ।
 
-
-
 अहं सर्वत्र समदृग् द्वेष्योवा प्रिय एव वा।  
 नास्ति मे कल्पकस्येव[^1683] भजतोऽनुभजाम्यहम्॥ ६१ ॥
 
@@ -16368,8 +15308,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  \[ कल्पकस्येव कल्पवृक्षस्येव। गो० \]  
   ६२ । न तु तत्त्वतोऽहं तादृश इति शेष^(·)। रा० ।  
  ६३ । भवापहमित्यनेन भयान्तरस्यावकाश एव नेति सूचितम्। मां स्मरन्ती तिष्ठ मां जगत्प्रेरकत्वेन संस्मरन्ती तिष्ठ। एवञ्च स्वस्मिन् स्वतन्त्रत्वाभिमानापगमान्न कर्मभिलिप्यसे, सोऽभिमान एव कर्मलेपक इति भावः ।रा० ।
-
-
 
 भरतस्तु सहामात्यैर्मातृभिर्गुरुणा सह।  
 अयोध्यामगमच्छीघ्रं राममेवानुचिन्तयन्॥ ६५ ॥
@@ -16432,8 +15370,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ७० । ब्रह्ममुनिर्ब्रह्मर्षि। रा० ।  
  ७१ । रामश्चित्रकुटाद्रौमुनिभि सीतया लक्ष्मणेनाऽऽवृतो वसन्नपि किञ्चित् कालमेवोपावसदित्यन्वय। एवेत्यस्याध्याहार, न बहुकालमित्यर्थ। रा० ।
 
-
-
 नागराश्च सदा यान्ति रामदर्शनलालसाः।  
 चित्रकूटस्थित[^1698] ज्ञात्वा सीतया लक्ष्मणेन च[^1699]॥ ७२ ॥
 
@@ -16478,8 +15414,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 प्रातिष्ठत स वैदेह्या लक्ष्मणेन च धीमता॥ इति । ३।२।१-४ \।
 
  ७६ । प्रसङ्गादागत्यापि त्वद्दर्शनेनाहं धन्य^(·), किं वक्तव्य त्वदर्शनोदेशेनैवाऽऽगतो धन्य इति। रा० ।
-
-
 
 **श्रुत्वा रामस्य वचनं रामं[^1702] ज्ञात्वा हरि परम्।  
 पूजयामास विधिवद् भक्त्या परमया मुनिः॥ ७७ ॥**
@@ -16526,8 +15460,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ८१ । सीता रामवचनम् 'अवश्यम्' इत्यङ्गीकृत्य तथाऽकरोत् तत्समीपगमनमकरोत्। रा० ।  
  ८२ । सीते इति च्छेद, सन्धिरार्षः। रा० ।
 
-
-
 दिव्ये ददौ कुण्डले द्वे निर्मिते विश्वकर्मणा।  
 दुकूले द्वे ददौ तस्यै निर्मले भक्तियुता॥ ८३ ॥
 
@@ -16559,8 +15491,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
 [^1711]: "छ‘-रीति' ।"
 
-
-
 इति श्रीमदध्यात्मरामायणे उमामहेश्वरसंवादे अयोध्याकाण्डे  
 नवमोऽध्याय॥ ९ ॥
 
@@ -16579,8 +15509,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  ८७ । सुरदेहोवामनादि^(·), मानुषदेहो रामादि, तिर्यग्देहो मत्स्यादि।न च देहेति, मायिकत्वादिति भावः। त्वत्तो बिभेतीति, त्वज्ज्ञाननाश्यत्वादिति भाव।
 
 अयोध्याकाण्डं समाप्तम् ॥
-
-
 
 अध्यात्मरामायणम्
 
@@ -16623,8 +15551,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
  २। सर्वे वयं सीता लक्ष्मणोऽहञ्च इत्यर्थ.। यत्र यस्मिन् प्रदेशे दण्डक दण्डक नाम विपिनमरण्यम्, तत्रेति शेषः।  
  ३ । मार्गद्रष्टा मार्गदर्शयिता। लोकानुसारिण^(·) लोकवदज्ञत्वं नाटयत। रा० ।
 
-
-
 इति शिष्यान् समादिश्य स्वयं किञ्चित्तमन्वगात्।  
 रामेण वारितः प्रीत्या अत्रिः स्वभवनं ययौ॥ ४ ॥
 
@@ -16659,14 +15585,14 @@ ahat रामदु·खस्य कारण विधिना कृता�
 
 [^1718]: "क ख ड 'तावेत्य', ग घ-च-छ ' ततोऽतिवि ' ।"
 
+[^1719]: "ग 'रामो लक्ष्मणमब्रवीत' ।"
+
 ।  
 नानामृगगणाकीर्णं[^1720]
 
-[^1719]: "ग 'रामो लक्ष्मणमब्रवीत' ।"
+[^1720]: " ग पुस्तके दशम श्लोकेन सहृदमर्द्ध न दृश्यते ।"
 
 सहव्याघ्रादिभीषणम्॥ ६ ॥
-
-[^1720]: " ग पुस्तके दशम श्लोकेन सहृदमर्द्ध न दृश्यते ।"
 
 राक्षसैर्घोररूपैश्च सेवितं रोमहर्षणम्[^1721]
 
@@ -16691,9 +15617,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
   ४ । स्वयमन्त्रिस्तं राममन्वगात्। रामेण वारित. अनुगमनादित्यर्थ। स्वभवन स्वाश्रममित्यर्थ।  
  ५ । तत^(·)अन्निप्रत्यागमनात् परम्, राजीवलोचनो राम^(·) महतीं नदीं ददर्श। दृष्ट्वा इति शेष, अत्रेः शिष्यान् स्वमनुगतान् उवाच वक्ष्यमाणमित्यर्थं।  
  ८। रामाभिनन्दिता रामेणानन्दपूर्वकं 'गच्छते'ति दत्तानुमतय। रा ।  
-
-
-
 
 इतः पर प्रयत्नेन गन्तव्यं सहितेन[^1722] मे।  
 धनुर्गुणेन सयोज्य शरानपि[^1723] करे धृतः[^1724]॥ ११ ॥
@@ -16744,8 +15667,6 @@ ahat रामदु·खस्य कारण विधिना कृता�
 I.  
  १४ । कह्लारशीतोदकादियुक्ता पुष्करिणी तत्राऽऽस्ते।  
  सा पुष्करिणी व्यदृश्यत इत्यर्थ'।
-
-
 
 तत्समीपमथो गत्वा पीत्वा[^1730] तत्सलिलं शुभम्[^1731]।  
 ऊषुस्ते[^1732] सलिलाभ्यासे क्षण छायामुपाश्रिता^(·)॥ १५ ॥
@@ -16802,8 +15723,6 @@ I.
 त्रीन् सिहांश्रतुरो व्याघ्रान् द्वौ मृगौ पृषतान् दश।  
 सविषाण वसादिग्ध गजस्य च शिरो महत्॥ इति । ३।२१७ ।
 
-
-
 पश्य भ्रातर्महाकायो राक्षसोऽयमुपागतः[^1738]।  
 आयात्यभिमुख[^1739] नोऽग्रे[^1740] भीरूणां[^1741] भयमावहन्॥ १८ ॥
 
@@ -16854,8 +15773,6 @@ I.
 
 इत्यादिना वाल्मीकीये विदेहतनयां सीतामपहृत्यैव विराधः कथां प्रावर्त्तयदिति दृश्यते। पाश्चात्त्यरामायणसंवादोऽपि प्राच्यमेव मतं द्रढयति। ( पाश्चात्त्ये३।२।१० ) ।
 
-
-
 सुन्दरौ बत मे वक्त्रप्रविष्टौ[^1745]कवलोपमौ।  
 किमर्थमागतौ घोरं वनं व्यालनिषेवितम्॥२२॥
 
@@ -16901,8 +15818,6 @@ I.
 विराध इति मामाहु. पृथिव्यां सर्वराक्षसा॥ इति।३।७।२०।
 
  पाश्चात्त्येतत्र विराधपरिचयो न दृश्यते।
-
-
 
 यदि जीवितुमिच्छाऽस्ति त्यक्त्वासीतां निरायुधौ।  
 पलायत[^1750]न चेच्छीघ्र भक्षयामि युवामहम्॥२७॥
@@ -16954,8 +15869,6 @@ I.
 
  इत्यादिना च स्पष्टम्। विराधवधमवलम्ब्य अध्यात्मरामायणप्राच्यवाल्मीकीयरामायणाभ्यां विलक्षणा दृक्ष्यते काचिदाख्यायिका पाश्चात्यवाल्मीकीयरामायणे। सा च वक्ष्यमाणरूपा।
 
-
-
 ततः क्रोधपरीतात्मा व्यादाय विकटं मुखम्।
 
 राममभ्यद्रवद्रामश्चिच्छेद परिधावतः।  
@@ -16995,8 +15908,6 @@ I.
  इत्यादिश्लोकस्थशापवृत्तान्तेनापि पाश्चात्यरामायणे प्रकटितं विराधस्य बाणाद्यवध्यत्वम् अप्रकटयताऽनेनाध्यात्मरामायणेन सहास्मिन्नपि विषये कोऽप्यस्य विरोधः परिदृश्यते।
 
  २९। ततःक्रोधपरीतात्मा विराध इति शेषः।
-
-
 
 **ततःसर्प इवाऽऽस्येन ग्रसितुं राममापतत्[^1753]।  
 ततोऽर्द्धचन्द्राकारेण बाणेनास्य महच्छिरः॥३०॥**
@@ -17046,9 +15957,6 @@ I.
 **त समुद्यम्य सौमित्रिर्विराधं पर्वतोपमम्।  
 गम्भीरमवटंकृत्वा निचखान परन्तप। इति च ३।८।२०**  
 
-
-
-
 **प्रणम्य राम प्रणतार्त्तिहारिण भवप्रवाहो[^1759]परम कृपाकरम्[^1760]।  
 प्रणम्य भूय प्रणनाम दण्डवत् प्रपन्न[^1761]सर्वार्त्तिहर प्रसन्नधीः॥३४॥**
 
@@ -17097,8 +16005,6 @@ I.
 
  ३६-३७। मे कर्णपुटं त्वदीयं कथामृतं पात्वित्यन्वयः। पिबतु सादरं शृणोत्वित्यर्थः।
 
-
-
 मद्भक्तिर्दुर्लभा लोके जाता चेन्मुक्तिदा[^1767]यतः।  
 अतस्त्व भक्तिसम्पन्नः परं याहि ममाऽऽज्ञया॥४२॥
 
@@ -17126,8 +16032,6 @@ I.
  ४३। रामेण रक्षोनिधन कृतं तेन निधने तस्य रक्षस शापाद्विमुक्तिःकृता, तस्यैवं वरदानञ्च कृतम्, यतस्तेन पुनरेव विद्याधरत्वं लब्धमतो रामं गृणन् नरोऽखिलार्थान् एति प्राप्नोति। रा०।
 
  यतस्तत्तत्कार्यसाधने रामस्य सामर्थ्यम् अतस्तदाराधनेन यदि तस्य प्रसादभागी स्यात्, तदा स निखिलमेवार्थजातं स्वशक्त्यैव वितरिष्यतीत्याशयः।
-
-
 
 **द्वितीयोऽध्यायः**
 
@@ -17172,8 +16076,6 @@ I.
  ३। अभिगम्य सम्मुखागमनपूर्वकं समानीय उपवेशयत्। अढभाव आर्षं। रा०।
 
  ४। आसं स्थितं। तपसे तपःकर्तुं कृतनिश्चय। रा०।
-
-
 
 **तव सन्दर्शनाकाङ्क्षी राम त्वं परमेश्वर।  
 अद्य मे[^1773] तपसः सिद्धं यत् पुण्यं बहु[^1774] विद्यते।  
@@ -17223,8 +16125,6 @@ I.
 
  ६। विरक्तः सन् शोभनं पुण्यं हिसारहितत्वात तपस्तत्फलं रामस्य समर्प्य दत्त्वा सहसा तत्क्षणमेव चितिंसमारोहयत् समारुहत्। निवृत्तप्रेषणाण्णिच्। रा०।
 
-
-
 ध्यायंश्चिरं राममशेषहृत्स्थं दूर्वादलश्यामलमम्बुजाक्षम्।  
 वीराम्बर स्निग्धजटाकलापं सीतासहायं श्रितलक्ष्मणं[^1779] तम्॥७॥
 
@@ -17266,8 +16166,6 @@ I.
  ७। अशेषहृत्स्थ सर्वान्तर्यामिणम्। सहलक्ष्मणम्, समस्तत्वेऽपि 'वोपसर्जनस्य' (पा० ६।३।८२) इति सादेशाभाव.। रा०।
 
  ८। स्मृतकामधेनु स्मृतः सन् कामधेनुस्तत्तुल्यं, सर्वमनोरथपूरकत्वात्। यातआगत। रा०।
-
-
 
 इति रामं चिरं ध्यात्वा दृष्ट्वा च पुरतः स्थितम्।  
 प्रज्वाल्य सहसा वह्निंदग्ध्वा पञ्चात्मकं वपुः।  
@@ -17317,8 +16215,6 @@ I.
 अनाश्रिताःकर्मफलमाश्रिताश्चापरे तथा।  
 स्थिता वसुमतीञ्चान्ये कृत्वैकाङ्गुष्ठपीडिताम्॥ इति। ३।१०।२-६।
 
-
-
 **आशीर्भिरभिनन्द्या[^1788]थ रामं सर्वहृदि स्थितम्।  
 ऊचुःप्राञ्जलयः सर्वे धनुर्बाणधरं हरिम्॥१४॥**
 
@@ -17367,8 +16263,6 @@ I.
 
  १९। अस्थिभूतमुनिशरीरादिदर्शन वाल्मीकीये नास्ति।
 
-
-
 **अस्थीनि केषामेतानि किमर्थ पतितानि वै।  
 तमूचुर्मुनयो राम ऋषीणां मस्तकानि हि॥२०॥**
 
@@ -17413,8 +16307,6 @@ I.
 
  इत्यनेन तदैव तेषां गमनवर्णनात्।
 
-
-
 सुतीक्ष्णस्याऽऽश्रमं प्रागात् प्रख्यातमृषिसङ्कुलम्।  
 सर्वर्त्तुगुणसम्पन्नं[^1797]सर्वकाल[^1798]सुखावहम्॥२५॥
 
@@ -17455,8 +16347,6 @@ I.
 
  २७। हे रामाभिराम परमसुन्दर राम, त्वन्मन्त्रजापी अह सततं तव दासदासो भूयासमिति शेषः। अप्रमेय देशकालाद्यपरिच्छेद्य शिवब्रह्मसमाश्रितचरण ससारसमुद्रतरणे अमलपोतरूपौ पादौ यस्य। तच्चरणाश्रितानां संसारसागरोत्तरणमकिञ्चित्करमेवेति भावः। रा०।
 
-
-
 **मामद्य सर्वजगतामविगोचर[^1804]स्त्वं त्वन्मायया सुतकलत्रगृहान्धकूपे[^1805]।  
 मग्नं निरीक्ष्य मलवद्गल[^1806]पिण्डमोहपाशानु[^1807]बद्ध[^1808]हृदयं स्वयमागतोऽसि॥२८॥**
 
@@ -17496,8 +16386,6 @@ I.
 
  २९। जाप्यं जपस्तद्विमुखेषु। यथा महीपो राजा सेवानुरूपफलदस्तथा त्वमसीत्यर्थ।रा०।
 
-
-
 **विश्वस्य सृष्टिलयसस्थितिहेतुरेकस्त्वं[^1812] मायया त्रिगुणया विधिरी[^1813]शविष्णू[^1814]।  
 भासीश मोहितधियां विविधाकृतिस्त्व यद्वद्रवि[^1815] सलिलपात्रगतो ह्यनेकः॥३०॥**
 
@@ -17527,8 +16415,6 @@ I.
 
  \ननु मायेश्वरा ब्रह्मविष्णुशिवा एव प्रसिद्धा वरदाःकथं मायां तनोषीति मानुषं मां प्रत्युच्यते?
 
-
-
 **प्रत्यक्षतोऽद्य भवतश्चरणारविन्दं पश्यामि राम [तपसः[^1816] परतः[^1817] स्थितस्य।  
 दृग्रूपतस्त्वमसतामविगोचरोऽपि[^1818]त्वन्मन्त्रपूतहृदयेषु सदा प्रसन्नः॥३१॥**
 
@@ -17551,8 +16437,6 @@ I.
  ३१। तमस परतः, तद्धीने शुद्धसत्त्वप्रधाने चित्ते स्थितस्येत्यर्थः। दृग्रूपतो दृग्रूपस्य दृष्टेरित्यर्थ। सार्वविभक्तिकस्तसिः। प्रसन्नो दृग्विषयो भवसीति शेषः। रा०।
 
  \ननु मायायां प्रतिबिम्बस्थितत्वोक्त्या मम जीवत्वमापादयसि? न हि न हीत्याह—प्रत्यक्षतोऽद्यइत्यादि। तमसः परतःप्रकृतेः परे स्थितस्य। हे राम, एवम्भूतस्य भवतश्चरणारविन्दम् अद्य प्रत्यक्षतः साक्षात् पश्यामि अहो महद्भाग्यमित्यर्थः। ननु प्रकृतेः परस्य बुद्ध्यादेरप्यगोचरत्वात् कथं प्रत्यक्षता तत्राऽऽह—त्वम् असतां दृग्रूपत। रूपशब्देनात्र
-
-
 
 पश्यामि राम तव रूपमरूपिणोऽपि मायाविडम्बनकृतं समनुष्यवेशम्।  
 कन्दर्पकोटिसुभगं कमनीय[चाप[^1819]बाणं[^1820] दयार्द्रहृदयं[^1821] स्मितचारुवक्त्रम्॥३२॥
@@ -17593,8 +16477,6 @@ I.
 
  ३२। अरूपिणोऽरूपस्यापि। छान्दस इनिः। मायाविडम्बनेन मायाव्यवहारेण कृतम्। रा०।
 
-
-
 **जानन्तु[^1824] राम तव रूपमशेषदेशकालाद्युपाधिरहितं घनचित्प्रकाशम्।  
 प्रत्यक्षतोऽद्य मम गोचरमेतदेव रूप विभातु हृदये न पर विकाङ्क्षे॥३४॥**
 
@@ -17621,8 +16503,6 @@ I.
  ३४। जानन्तु अन्येऽपि योगिन इति शेषः। देशेत्यादि, देशकालाद्यपरिच्छिन्नमित्यर्थः। घनेति। चैतन्यमात्ररूपमित्यर्थः। प्रत्यक्षत इति, मम तु परिदृश्यमानेऽत्रैव प्रीतिर्न तु परे वाङ्मनसागोचरे इत्यर्थ। रा०।
 
  \[ननु चैतन्यघनमेव तत् कथ सविशेष परिच्छिन्नदेहरूपं मद्रूपत्वेन स्तौषीत्याह—जानन्त्विति। अशेषमपरिच्छिन्न देशकालादिकृतोपाधिरहित घनचिच् चिद्घनम् अत एव प्रकाश सर्वस्य चेतयितृ तव रूपम् अन्ये मुनय श्रुतयो वा जानन्तु मम पुनरद्य प्रत्यक्षगोचरं साक्षाद्दृष्टम् एतदेव तव रूप हृदये भातु। न परमितोऽन्यत् न काङ्क्षे। गो० \]
-
-
 
 **अतोऽहमागतो द्रष्टुं मद्रृते[^1826]नान्यसाधनम्।  
 मन्मन्त्रोपासकालोके[^1827] मामैव शरणं गताः।  
@@ -17678,7 +16558,6 @@ I.
 
 **अरण्यकाण्डे द्वितीयाध्यायव्याख्या समाप्ता॥२॥**
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  ३६। \[महते नान्यसाधनमिति, मां विनाऽन्यत् साधनं मोक्षहेतुर्नास्ति,
@@ -17690,12 +16569,9 @@ I.
 
  ४१। अगस्त्यसंभाषणे लोलमत्युत्कटेच्छावन्मानसं यस्य स इत्यर्थ।
 
-
-
 **तृतीयोऽध्यायः**
 
 ![](../books_images/U-IMG-1726643372090107-removebg-preview.png)
-
 
 श्रीमहादेव[^1834]उवाच—
 
@@ -17737,8 +16613,6 @@ I.
  २। तेन अगस्त्यानुजेन अग्निजिह्वेन राम इति शेष, सम्यक् सम्पूजितोऽभवदित्यर्थ। ततश्चते रामादयश्चत्वार इत्यर्थः, भुक्ता जग्मुरित्यन्वय।
 
  ३। अगस्त्यमण्डल विशिनष्टि—सर्वर्त्तुफलपुष्पाढ्यमित्यादिना। दृश्यतेऽत्र कश्चित् हृद्य सहृदयवेद्यःप्रबन्धो वाल्मीकीये अगस्त्याश्रमागस्त्यमहिमवर्णनरूप। स च गोरसियोमुद्रिते आरण्ये सप्तदशसर्गे।
-
-
 
 **ब्रह्मर्षिभिर्देवर्षिभिः सेवितं मुनिमन्दिरैः।  
 सर्वतोऽलङ्कृतं साक्षाद् ब्रह्मलोकमिवापरम्॥४॥**
@@ -17792,8 +16666,6 @@ I.
 
  विशेषेण रामभक्तःसमायुतम् अतिभक्तित शिष्येभ्यो व्याख्यातराममन्त्रार्थं व्याख्यातो
 
-
-
 **दण्डवत् प्रणिपत्याऽऽहविनयावनतः सुधीः।  
 रामो दाशरथिर्ब्रह्मन् सीतया लक्ष्मणेन च।  
 आगतो दर्शनार्थ ते बहिस्तिष्ठति साञ्जलिः॥८॥**
@@ -17836,8 +16708,6 @@ I.
 
 **औदार्येणावगच्छामः सोऽगस्त्योऽयं न सशय।  
 निधान तपसामेष तेजोराशिर्विभावसो॥ इत्यादि। ३।१।८।२३-२५॥**
-
-
 
 **द्रुतमुत्थाप्य मुनिराड्[^1843] राममालिङ्ग्यभक्तितः।  
 तद्गात्रस्पर्शजाह्लाद[^1844]श्रवन्नेत्रजलाकुलः॥१३॥**
@@ -17900,9 +16770,6 @@ I.
 
  हे राम, तव दर्शनाकाङ्क्षी तपश्चरन् तदादि तत्कालमारभ्य वसामीत्यन्वयः। रा०।  
 
-
-
-
 **सृष्टेः प्रागेक एवाऽऽसीर्निर्विकल्पो[^1853]ऽनुपाधिकः।  
 त्वदाश्रया त्वद्विषया माया ते शक्तिरुच्यते॥१९॥**
 
@@ -17932,8 +16799,6 @@ I.
  इति तटस्थलक्षणेन तस्या ज्ञेयत्वात्। गो०\]
 
  २०। अथ सृष्टिमुपक्रमते त्वामिति। त्वां निर्गुणमेव सन्तं यदा सा शक्ति स्वकल्पितसम्बन्धेन त्वामावृणोति त्वत्सम्बद्धमात्मानं मनुते न तु कदाचिदपि त्वं त्वत्सम्बद्धमात्मानं मनुषे, अतो निर्गुणमेवेत्युक्तम्। तदा तां मायामव्याकृतमित्याहुः। रा०।
-
-
 
 **मूलप्रकृतिरित्येके प्राहुर्मायेति केचन।  
 अविद्या संसृतिर्बन्ध[^1856] इत्यादि बहुधोच्यते॥२१॥**
@@ -17978,8 +16843,6 @@ I.
 
   \[अहङ्कार इति। महत्तत्त्वसंवृतो महत्तत्वेनावेष्टित। त्रैविध्यमाह—सात्त्विक इति। गो०\]
 
-
-
 **अहङ्कारो महत्तत्त्वसंवृत[^1859]स्त्रिविधोऽभवत्[^1860]।  
 सात्त्विको राजसश्चैव तामसश्चेति भण्यते[^1861]॥२३॥**
 
@@ -18009,8 +16872,6 @@ I.
  २४। \[तामसादित्यादि। त्रिविधाहङ्कारस्य तामसाहङ्कारकार्यमाह, भूतसूक्ष्माणि शब्दादीनि। अत परं भूतसूक्ष्मद्वारा स्थूलानि भूतानि आकाशादीनि क्रमोत्तरगुणानि पृथिव्यादिक्रमेण दशदशोत्तरगुणानि महदन्तानि। तदय क्रम—महतोऽहङ्कार, तामसाहङ्कारात् शब्दतन्मात्रंशब्दद्वारा आकाशस्तस्य शब्द एव गुण, आकाशात् स्पर्शतन्मात्रं स्पर्शद्वारा वायुरभूत् तस्यासाधारणो गुण स्पर्श कारणान्वयात् शब्दश्चेति गुणद्वयम्, वायो रूपतन्मात्रमभूत् रूपद्वारा तेजस्तस्य रूपमसाधारणो गुण कारणगुणस्य परम्परान्वयात् शब्दस्पर्शौचेति गुणन्त्रय तेजस, तेजस सकाशात् रसतन्मात्र तद्द्वारा जलम्, तस्यासाधारणो गुणो रस, पूर्ववत् कारणगुणान्वयात् \[शब्दस्पर्शरूपाणीति चत्वारो गुणा जलस्य, जलाद गन्धतन्मात्रम्, गन्धद्वारा पृथिवी, तस्या असाधारण गुणो गन्ध, कारणगुणान्वयात्?\] शब्दस्पर्शरूपरसाश्चॆति पञ्चगुणा पृथिवीति पौराणिकी व्यवस्था। गो०\]
 
  सूक्ष्मतन्मात्राणि शब्दस्पर्शरूपरसगन्धतन्मात्राणि, तत सूक्ष्मतन्मात्रेभ्य स्थूलानि भूतानि। तत्र शब्दतन्मात्रादाकाशम्, स्पर्शतन्मात्रात् पूर्वसहिताद्वायुः, ताभ्यां सहिताद्रूपतन्मात्रात्तेज, तैःसहिताद्रसतन्मात्राज्जल एतै सहिताद् गन्धतन्मात्रात् पृथिवीत्याद्यगुरुकृतसांख्यतन्त्रवृत्तौ विस्तर। तदेवाऽऽह—क्रमोत्तरगुणानीति। क्रमेणाधिकगुणानि आकाशं शब्दमात्रगुणम्,
-
-
 
 राजसानीन्द्रियाण्येव सात्विका देवता मनः[^1863]।  
 तेभ्योऽभवत् सूत्ररूपं[^1864] लिङ्गं सर्वगतं महत्॥२५॥
@@ -18046,8 +16907,6 @@ I.
  मन सात्त्विकाहङ्कारात्। तेभ्य इति। तेभ्यो महदादिभ्यो लिङ्गं समष्टिदेह लिङ्गशरीरं सूत्ररूपं पटसूत्रवत् सर्वानुस्यूतम् अत सर्वगतम् अतो महदपरिच्छिन्नम् अभूत्। गो०\]
 
  २६। ततो विराट्, स्थूलसमष्टिरयम्। तदाह—स्थूलाद्भूतकदम्बकादिति। इदमिन्द्रियादेप्युपलक्षणम्। तस्मादेव विराजःपुरुषात् सर्वं स्थावरं जङ्गम चाभिव्यक्तमित्यर्थ। तत्र जङ्गममाह—देवेत्यादि। कालकर्मक्रमेण। कालक्रमेण यथा—हेमन्ते व्रीहयो वसन्ते यवादि। कर्मक्रमेण कालसहकृतेन तिर्यङ्मनुष्यदेवत्वप्राप्तिः। रा०।
-
-
 
 **त्वं रजोगुणतो ब्रह्मा जगत्सर्गस्य[^1866] कारणम्।  
 सत्त्वाद्विष्णुस्त्वमेवास्य पालकःसद्भिरुच्यते।  
@@ -18087,8 +16946,6 @@ I.
 
  २८। त्वं त्वेतदवस्थात्रयरहित इत्याह तासामिति। स्वप्नसुषुप्त्योरभावात्तत्प्रतिद्वन्द्विजाग्रदवस्थाया अप्यभाव इति भाव। रा०।
 
-
-
 सृष्टिलीलां यदा कतुमीहसे रघुनन्दन।  
 अङ्गीकरोषि मायां त्वं[^1870] तदा वै[^1871] गुणवानिव॥२९॥
 
@@ -18124,8 +16981,6 @@ I.
  \[ननु यद्यहमप्रच्युतस्वरूपस्तुरीयस्तर्हि किं मायावलोकनाद्यै? तया विना अविकारिणस्ते सृष्टिकरणादेरसम्भवादित्याह—सृष्टिलीलामित्यादि। सृष्टिलीलां कर्त्तुं यदेहसे इच्छां करोषि तदा त्व मायामङ्गीकरोषि ईक्षसे, तदैव प्रच्युतस्वरूपस्त्व गुणवानिव भासि। गो०\]
 
  ३०। तव मायैव संसारस्य मोक्षस्य च दाने समर्थेत्याह—रामेति। विद्या तत्त्वज्ञानम्। अविद्या संसारस्थलकारणम्। तदुक्त मार्कण्डेयेन—
-
-
 
 **त्वद्भक्तिनिरता ये च[^1872] ते वै विद्यामयाः[^1873] स्मृताः।  
 अविद्यावशगा ये तु नित्यं संसारिणश्च ते।  
@@ -18170,8 +17025,6 @@ I.
 
  ३२। \[विद्योत्पत्तिश्चत्वद्भक्तिंविना न भवतीत्याह—लोके इत्यादि। गो०\]
 
-
-
 अतस्त्वद्भक्तिसम्पन्ना मुक्ता एव न संशयः।  
 त्वद्भक्त्यमृतहीनानां मोक्षःस्वप्नेऽपि नो भवेत्॥३३॥
 
@@ -18205,8 +17058,6 @@ I.
 
  ३५। साधुस्वरूपज्ञान एव तत्सङ्गति शक्येत्यतस्तल्लक्षणमाह—साधव इति। समचित्ता शत्रुमित्रयो रागद्वेषहीनचित्ताः, अत एव निस्पृहा रागद्वेषकारणीभूतस्पृहाहीना, विगतैषिणस्त्यक्तपुत्रवित्तादीच्छा, दान्ता बहिरिन्द्रियनिग्रहवन्त, शान्ता अन्तरिन्द्रियान्तःकरणनिग्रहवन्त, विगतैषिण इत्यस्यैव व्याख्यान निवृत्ताखिलकामना इति। समा हर्षविषादरहिता, सङ्गवर्जिता दुःसङ्गरहिता।रा०।
 
-
-
 **सन्न्यस्ताखिलकर्माणः सर्वदा ब्रह्मतत्पराः।  
 यमादि[^1877]गुणसम्पन्नाः सन्तुष्टा येन केनचित्॥३६॥**
 
@@ -18239,8 +17090,6 @@ I.
  \[ननु साधनं विना साधुसङ्गमात्रेण कथंमोक्षः?तत्सङ्गात् सर्वसाधनानां क्रमेण स्वयमुत्पत्तेरित्याह—सत्सङ्गम इत्यादि।गो०\]
 
  ३८। अयमाद्यो मुख्यश्चतुरैःकुशलै सेवितो मुक्तेर्मार्ग। रा०।
-
-
 
 **तस्माद्राघव सद्भक्तिस्त्वयि मेप्रेमलक्षणा।  
 सदा भूयाद्धरेसगस्त्वद्भक्तेषु विशेषतः॥३६॥**
@@ -18297,8 +17146,6 @@ I.
 **'पुरा चोक्तोऽहमिन्द्रेण सहस्राक्षेण राघव।  
 यदा राम इहाऽऽगच्छेत् तस्मै देयमिदं धनु॥इति। ३\।१८।४२।**
 
-
-
 **अक्षय्यौ[^1885]बाणतूणीरौ खड्गो रत्नविभूषितः।  
 जहि राघव भूभारभूतं राक्षसमण्डलम्॥४४॥**
 
@@ -18339,8 +17186,6 @@ I.
 
 **‘स देश’श्लाघनीयश्च नातिदूरे च राघव।  
 गोदावर्या समीपे च तत्र सीताऽभिरस्यते॥३।१९।१९।**
-
-
 
 **चतुर्थोऽध्यायः**  
 
@@ -18390,8 +17235,6 @@ I.
   विस्मयानन्तर यदा राक्षसोऽयमिति ज्ञानं तदैवाऽऽह—धनुरानय इति। हे सौमित्रे, पुरोऽग्रतोऽयं राक्षसःस्थितः, अतो धनुरानय आनीय मह्यदेहीत्यर्थ। ऋषिभक्षक हनिष्याम्यहमिति रामोलक्ष्मणम् आह।
 
  ३। भयपीडितो गृध्रराड् जनककन्या सीता मे रक्षितव्या इत्यन्तमाह।
-
-
 
 **जटायुर्नाम भद्रं ते गृध्रोऽहं प्रियकृत् तव।  
 पञ्चवट्यामहं वत्स्ये तवैव प्रियकाम्यया[^1893]॥४॥**
@@ -18447,8 +17290,6 @@ I.
 **महेष्वास महाभाग महाबल महाभुज।  
 आपृच्छे त्वां नरश्रेष्ठ गमिष्यामि स्वमालयम्॥ ३।२३।४-५।**
 
-
-
 **गत्वा ते[^1902] गौतमी[^1903]तीरं[^1904] पञ्चवट्यां सुविस्तरम्।  
 मन्दिरं कारयामास लक्ष्मणेन सुबुद्धिना॥८॥**
 
@@ -18501,8 +17342,6 @@ I.
 
 **शमीशाखाभिरास्तीर्य दृढपाशावपाशिताम्।  
 कुशकाशशरैः पर्णैः सुपरिच्छादितां तथा॥**
-
-
 
 **विविक्ते जनसम्बाधवर्जिते नीरुज[^1907]स्थले।  
 विनोदयञ् जनकजां लक्ष्मणेन विपश्चिता॥१०॥**
@@ -18562,8 +17401,6 @@ I.
 
  त्वत्तःश्रोतुमिच्छामि, त्व सक्षेपात् सङ्क्षेपेण वक्तुमर्हसीत्यर्थः।
 
-
-
 **ज्ञानं विज्ञानसहितं भक्तिवैराग्यबृंहित[^1914]म्।  
 आचक्ष्व मे[^1915] रघुश्रेष्ठ वक्ता नान्यो[^1916]ऽस्ति भूतले॥१७॥**
 
@@ -18620,8 +17457,6 @@ I.
 
  १९। तदुपयोगितया वक्ष्यमाणान्यन्यानि नाममात्रेण क्रमत उद्दिशति—आदाविति। रा०।
 
-
-
 **अनात्मनि शरीरादावात्मबुद्धिस्तु[^1927]या भवेत्।  
 सैव माया तयैवासौ[^1928] संसारः परिकल्प्यते[^1929]॥२०॥**
 
@@ -18663,8 +17498,6 @@ I.
 
  २१। अथ तादृशशक्तिमत्वं मायाया दर्शयति—रूपे इति। पूर्वमित्यनेन तयो रूपयोरनादित्वं दर्शयति। के ते रूपे तन्त्राऽऽह—विक्षेपावरणे इति। विक्षेपशक्तिरावरणशक्तिश्चेत्यर्थ। प्रथमं विक्षेपरूपम्। रा०।
 
-
-
 **लिङ्गाद्याब्रह्मपर्यन्तं स्थूलसूक्ष्म[^1934]विभेदतः।  
 अपरं त्वखिलं ज्ञानं रूपमावृत्य तिष्ठति॥२२॥**
 
@@ -18695,8 +17528,6 @@ I.
  २२। लिङ्गं महत्तत्त्वमाद्य यस्य तच्च तद् ब्रह्मपर्यन्तम्। चतुर्मुखब्रह्मान्तमित्यर्थ। अपरमावरणरूपम्। तस्यान्वर्थत्वमाह—अखिलमिति। सर्वज्ञानरूपावरकत्वादावरणव्यवहारस्तत्रेति भाव \। रा०।
 
  २३। ननु माया कुत्राधिष्ठाने इदं जगत् कल्पितवती तत्राऽऽह—परमात्मनीति। तद्रूपं
-
-
 
 **श्रूयते दृक्ष्यते यद् यत् स्मर्यते वा नरैःसदा।  
 असदेव हि तत् सर्वं यथा स्वप्नमनोरथौ[^1936]॥२४॥**
@@ -18734,8 +17565,6 @@ I.
 इति भागवतोक्ते। सदेवाध्यस्यते भुजङ्गवत्, अत्यन्तमसज्जगद भ्रान्त्याऽपि कथमध्यासयोग्य भवतु। तस्माद्दिश्वमपि प्रसिद्ध तदस्तीत्याह श्रूयत इत्यादि। यथा स्वप्न स्वप्नोपस्थित यत् किञ्चिन्मनोरथश्चमनसा कल्पित सर्वमसत् तथा श्रूयते स्वर्गादि देवादि यद्दृश्यते इह लोके यत् स्मर्यते चिन्त्यते तत् सर्वमसदेव हीति। पुनरुक्त्या निश्चय बोधयति। गो०\]
 
  २५। देह एवेति। तस्यैव सर्वससारकारणकर्मोत्पादकत्वादिति भाव।तदाह—तन्मूल इति। अन्यथा देहाभावे पुत्रादय आत्मन किं भवन्ति, न किमपीत्यर्थ। रा०।
-
-
 
 **जीवश्च परमात्मा च पर्यायो नात्र[^1938] भेदधीः।  
 माना[^1939]भावस्तथा देहे[^1940] हिसादिपरिवर्जनम्[^1941]॥२९॥**
@@ -18775,8 +17604,6 @@ I.
 
  \[परस्याऽक्षेपो निन्दा, आदिना परपरिभवादिस्तस्य सहनम्। अवक्रता ऋजुता। मनोवागित्यादि। मन-आदिभिर्मयि भक्त्या सद्गुरोःपरित सेवनम्। गो०\]
 
-
-
 **बाह्याभ्यन्तरसंशुद्धिः स्थिरता सक्रियादिषु।  
 मनोवाक्कायदण्डश्च विषयेषु निरीहता॥३१॥**
 
@@ -18815,8 +17642,6 @@ I.
   ३३। चित्तस्य समता हर्षविषादराहित्यम्। अनन्यविषया तन्मात्रविषया। रा०।
 
   \[इष्टेति। सुखदुःखप्राप्तौ नित्यं तुल्यता। सर्वात्मके सर्वस्वरूपे रामे परब्रह्मणि मयि निष्कामा मति। गो०\]
-
-
 
 **जनसम्बाधरहितं[^1946] शुद्धदेशनिषेवणम्।  
 प्राकृतैर्जनसङ्घैश्च ह्यरतिःसर्वदा भवेत्॥३४॥**
@@ -18866,8 +17691,6 @@ I.
 
  \[ज्ञेय निरूपयति—बुद्धीत्यादि।बुद्ध्यादिभ्यो विलक्षणो भिन्न।अय नित्यप्रत्यक्ष आत्मा। इदंशब्देन 'सर्वं खल्विद ब्रह्म' (छान्दोग्य० ३\।१४\।१) इति श्रुत्यर्थ उक्तः। नित्य, 'अविनाशी वा अरे अयमात्मा' (बृहदा० ४।५।१४) इति श्रुते स चासौ शुद्दोऽसङ्गः‘असङ्गो ह्ययमात्मे’ति (नृसिंहोत्तरता०९) श्रुते। तत्र हेतु—बुद्ध उद्रिक्तबोधरूपः‘विज्ञानमानन्दं ब्रह्मे’ति (बृहदा० ३।९।२८) श्रुते। एवकारेण सुषुप्तिप्रलययोर्लयाभाव उक्त। निश्रय इति नात्र हेतुरनुसन्धेय। गो०\]
 
-
-
 **आत्मा सर्वत्र पूर्णः स्याच्चिदानन्दात्मकोऽव्ययः।  
 बुद्ध्याद्युपाधिरहितःपरिणामादिवर्जितः॥३८॥**
 
@@ -18887,8 +17710,6 @@ I.
 
  \[इदानी विज्ञानमुक्ता विज्ञाने यादृश आत्मनोऽनुभवो भवेत् तदात्मस्वरूपमाह—आत्मेति। आत्मा सर्वत्र स्थूलसूक्ष्मदेहे पूर्णो ह्रासवृद्धिरहित। नन्वह म्रिये अह सुखी अह दुःखी अहमज्ञःअहं नाऽऽसमित्याद्यभिधानात् कथ पूर्णत्वम्, तत्राऽऽह—सच्चिदानन्द इति। अव्ययःनाशापक्षयशून्यः। स्यादिति क्रियापदं नित्यसत्त्वाबोधकम् \।
 बुद्ध्याद्युपाधिभिर्हीनः, अज्ञत्वात् सुखिदुःखित्वाभिमानो बुद्धेरेव। आदिना देहादेर्ग्रहणम्। देहस्यैव मृत्यु \। स तु तत्त्वत उपाधिरहितःपरिणामरहितः। आदिपदेन जन्मादिविकाराणां ग्रहणम्, तेषां देहधर्मत्वात्। गो०\]
-
-
 
 **स्वप्रकाशेन देहादीन् भासयन्न[^1953]नपावृतः।  
 एक एवाद्वितीयश्च सत्यज्ञानादि[^1954]लक्षणः।  
@@ -18912,8 +17733,6 @@ I.
 सर्वसाक्षी, विज्ञानेन प्रागुक्तेन अवगम्यते विषयीक्रियते। रा०।
 
  \[स्वप्रकाशेन स्वभासया भासयन् चेतनीकुर्वन्। ननु तर्हि किं देहादिभि परिच्छिन्नो गृहोदरस्थदीपवन्नेत्याह—अनपावृत, देहाद्यैरनावृत 'एतावानस्य महिमाऽतो ज्यायांश्च पूरुष'(ऋक् स० १०।९) इति श्रुते। एको द्वैतवर्जित। नन्वहप्रत्ययवेद्यःशरीरभिन्न आत्मेत्युक्तत्वात् कथमेकस्तत्राऽऽह—अद्वितीय सजातीयभेदेनापि हीनः, ‘एकमेवाद्वितीय ब्रह्मे’ति (छान्दोग्य० ६।२।१) श्रुतेः। आदिना आनन्दस्य ग्रहणम्। नित्यानन्दस्वरूप सच्चिदानन्द इत्यर्थ। असङ्गो निर्लेप, स्वप्रभो निरन्तरं स्वप्रकाशसहित। प्रभा चिच्छक्तिः। द्रष्टा साक्षी विज्ञानेनावगम्यते बुध्यते। गो० \]
-
-
 
 **विचार्य[^1957]शास्त्रोपदेशादैक्यज्ञानं यदा भवेत्।  
 आत्मनोर्जीवपरयोर्मूला[^1958]विद्या तदैव हि॥४०॥**
@@ -18952,8 +17771,6 @@ I.
 
  इति। गो०\]
 
-
-
 **इदं मोक्षस्वरूपं ते कथितं रघुनन्दन।  
 ज्ञानविज्ञानवैराग्यसहितं मे परात्मना[^1961]।  
 किन्त्वेतद् दुर्लभं मन्ये मद्भक्तिविमुखात्मनाम्॥४२॥**
@@ -18980,8 +17797,6 @@ I.
  ४२-४३। \[ज्ञानेति। ज्ञानविज्ञाने उक्तलक्षणे, वैराग्यं देहादावौदासीन्यम्, तैर्युक्तम्। मे परात्मनेति। नात्र प्रमाणमनुसन्धातव्यम्, यत परात्मना परब्रह्मणा मे मया कथितमिदम्। ननु तर्हि शास्त्रज्ञानादिना कि न स्यात्, ज्ञानादेरपि भक्तिमूलत्वात् तदभाववतामसिद्धेरित्याह—किन्त्वेतदित्यादि। मद्भक्तिविमुखात्मनां एतद्दुर्लभःमन्ये। तत्र दृष्टान्तः—चक्षुष्मतामिति। रात्रौ तमिस्रायां यथा सम्यक् चक्षुष्मतां निर्मलचक्षुर्युक्तानां गृहोदरस्थमपि वस्तु न दृश्यते। दीपसमेतानां सम्यग् दृक्ष्यत एव। यद्वा यथा पाठ सम्बन्ध एव मद्भक्तियुक्तानां सम्बन्धे आत्मा स्वयमेव सम्यक् प्रकाशते प्रत्यक्षीभवति। अयम्भाव—यथा तमोऽन्तर्हित सद् विद्यमानमपि घटादि न दृष्टिगोचर स्यात्, पित्तादिजनितदोषेण वा विद्यमानस्यापि दक्षुषः, तथा भक्तिहीनानां विराजमानोऽप्यात्मा न बुद्धिगोचरीभवति। दीपसाहित्ये तदेव घटादि सम्यग् दृश्यते एव यथा, तथा भक्तियुक्तत्वे आत्मा स्वयमेव गोचरीभवति। गो०\]
 
  यथा सनेत्राणामपि रात्रौ पदं चोरादिपदं न दृश्यते न दृग्विषयीभवति दीपसमेतानां तुतेषां तद् दृग्विषयो भवति। रा०।
-
-
 
 **एवं मद्भक्तियुक्तानामात्मा सम्यक् प्रकाशते।  
 मद्भक्तेः कारणं किञ्चिद् वक्ष्यामि शृणु तत्त्वतः॥४४॥**
@@ -19037,8 +17852,6 @@ I.
 
  ४८। \[ज्ञानं शास्त्रीयम्, विज्ञानम् अपरोक्षम्, वैराग्य देहादावौदासीन्यम्। गो०\]
 
-
-
 **न वक्तव्यमिदं यत्नान्मद्भक्तिविमुखाय हि।  
 मद्भक्ताय प्रदातव्यमाहूयापि प्रयत्नतः॥५०॥**
 
@@ -19074,8 +17887,6 @@ I.
  ५२। मम भक्तानामत एव योगिनां मद्भक्तियोगवताम्, सुविमल स्वान्त हृदय येषां ते च ते अतिशान्तात्मानश्चॆति शान्तचित्ताश्च तेषाम् मत्सेवायामभिरत प्रीतियुत आत्मा चित्त येषाम्, विमलज्ञानरूप आत्मा येषां ज्ञानविषयस्तेषाम्। उद्यता ज्ञानविषये उद्यमशालिनी मतिर्यस्य सः। सतां सेवने अनन्यधीस्तत्पर इत्यर्थ। तस्यानिशमह दृश्यो भवे। आत्मनेपदमार्षम्। नान्यथा तादृशसङ्ग विना न मद्दर्शनं नापि मोक्ष इत्यर्थ। रा०।
 
  \[भक्तानामिति। सुविमलं स्वान्त मनो येषां ते च ते अतिशान्तात्मानश्चेति, विमल क्वचिदप्यनासक्तं ज्ञानं येषाम् एवमात्मा बुद्धिर्येषाम्। सतां सेवने अनन्या निरन्तरा धीर्यस्येति। गो०\]
-
-
 
 **पञ्चमोऽध्यायः**
 
@@ -19129,8 +17940,6 @@ I.
  ३। कामपरीतात्मा कामव्याप्तचित्ता, पश्यन्ती तत्पादानीत्यर्थ। तेनैव चिह्नेन राघवाश्रममायात्। रा०।
 
  रामं सूर्पणखाश्च विशिनष्टि वाल्मीकीये—
-
-
 
 **तत्र सा[^1978]त रमानाथ सीतया सह सस्थितम्।  
 कन्दर्पसदृश[^1979]रामदृष्ट्वा[^1980]कामविमोहिता॥४॥**
@@ -19186,8 +17995,6 @@ I.
 
  ७। खरेण भ्रात्रा सहितेत्यन्वय। सर्वं वनमिति शेषः। रा०।
 
-
-
 **त्वान्तु वेदितुमिच्छामि वद मे वदतां वर।  
 तामाह रामनामा[^1984]ऽहमयोध्याधिपते सुतः॥८॥**
 
@@ -19227,7 +18034,6 @@ I.
 **सीतेय मम भार्या च भ्राताऽयं लक्ष्मणस्तथा।  
 नियोगात्तुनरेन्द्रस्य पितुर्मातुश्च शासनात्॥इत्यादि ३।२३।३०-३२॥**  
 
-
  ९।स दृश्यमान इत्यर्थः।
 
  ११। गिरिकानने समाहारद्वन्द्व, गिरिषु काननेषु चेत्यर्थः। रा०।
@@ -19238,8 +18044,6 @@ I.
 
 **सप्रहासनिमित्तञ्च राम सूर्पणखां ततः।  
 इदं वचनमारेभे वक्तुं वाक्यविशारदः॥ इति ३।२३।४६॥**
-
-
 
 **तवानुरूपो भविता पतिस्तेनैव सञ्चर[^1987]।  
 इत्युक्ता लक्ष्मणं प्राह पतिर्मे भव सुन्दर॥१४॥**
@@ -19290,8 +18094,6 @@ I.
 
 **अद्येमां भक्षयिष्यामि पश्यतस्तेऽतिमानिन।  
 ततस्त्वया रमिष्येऽहं निःसपत्ना यथासुखम्॥ इति। ३।२४।१७॥**
-
-
 
 **इत्युक्त्वा विकटाकारा जानकीमनुधावती।  
 ततो रामाज्ञया खड्गमादाय परिगृह्य ताम्।  
@@ -19350,8 +18152,6 @@ I.
 **तरुणौ रूपसम्पन्नौ सुकुमारौ महाबलौ।  
 पुण्डरीकविशालाक्षौ चीरकृष्णाजिनाम्बरौ॥**
 
-
-
 **मामेव कृतवांस्तस्य भ्राता तेनैव चोदितः।  
 यदि त्वं कुलजातोऽसि वीरोऽसि जहि तौ रिपू॥२३॥**
 
@@ -19400,8 +18200,6 @@ I.
 
 **तान् दृष्ट्वा राघवःक्रूरान् राक्षसांस्ताञ्च राक्षसीम्।  
 अब्रवीद भ्रातरं रामो लक्ष्मण दीप्ततेजसम्॥**
-
-
 
 **अत्र[^2004] किञ्चिन्न वक्तव्यं शापितोऽसि ममोपरि।  
 तथेति सीतामादाय लक्ष्मणो गह्वरं ययौ॥३०॥**
@@ -19456,8 +18254,6 @@ I.
 
 **एतस्मिन्नन्तरे वीरो लक्ष्मणःसह सीतया।  
 गिरिदुर्गाद् विनिष्क्रम्य सविवेशाऽऽश्रमे सुखी॥ इति ३\।३०\।३७।**
-
-
 
 **सीता रामं समालिङ्ग्य प्रसन्न[^2011]मुखपङ्कजा।  
 शस्त्र[^2012]व्रणानि चाङ्गेषु ममार्ज जनकात्मजा॥३६॥**
@@ -19519,8 +18315,6 @@ I.
 **अजेयं समरे शूर व्यात्ताननमिवान्तकम्।  
 देवासुरविमर्देषु वज्राशनिकृतव्रणम्॥ इत्यादि। ३।३६।३-८।**
 
-
-
 **चारचक्षुर्विहीनस्त्वं कथं राजा भविष्यसि।  
 खरश्च निहत सङ्ख्ये दूषणस्त्रिशिरास्तथा॥४१॥**
 
@@ -19577,8 +18371,6 @@ I.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  ४४। किमर्थं कस्मै प्रयोजनाय कथं केन प्रकारेण असुराः खरादयो हताः। तेषां रामादीनाम्। रा०।
-
-
 
 **देवगन्धर्वनागानां मनुष्याणां तथाविधा।  
 न दृष्टा न श्रुता राजन् द्योतयन्ती वन शुभा[^2028]॥४८॥**
@@ -19643,8 +18435,6 @@ I.
 
 **नैव देवी न गन्धर्वी न यक्षी न च किन्नरी।  
 तथारूपा मया नारी दृष्टपूर्वा महीतले॥**
-
-
 
 **अतो यतस्व राजेन्द्र यथा[^2040] ते वल्लभा भवेत्।  
 सीता राजीवपत्राक्षीसर्वलोकैकसुन्दरी॥५४॥**
@@ -19711,8 +18501,6 @@ I.
 
  ५६। तत् सूर्पणखावाक्यम्। सूक्तर्वाक्यैर्दानादिभिर्भगिनीम् आश्वास्य स्वगृहं प्रविशेत्यन्वयः। रा०।
 
-
-
 **यद्वा न रामो मनुजः परेशो  
 मां हन्तुकामः सबलं[^2050]बलौघैः[^2051]।  
 सम्प्रार्थितोऽयं द्रुहिणेन पूर्वं  
@@ -19762,8 +18550,6 @@ I.
 
  इत्यादिना प्राच्येन वाल्मीकीयेनापि भगिनीविरूपणजन्यापमानेन सुरसुतासदृशसीता-
 
-
-
 **इत्थं विचिन्त्याखिलराक्षसेन्द्रो  
 रामं विदित्वा परमेश्वरं हरिम्।  
 विरोधबुद्ध्यैव हरि प्रयामि  
@@ -19786,13 +18572,10 @@ I.
 
 \_\_\_\_
 
-
-
 **षष्टोऽध्यायः**
 
 ![](../books_images/U-IMG-1726998560090108-removebg-preview.png)
 
- 
 श्रीमहादेव[^2056] उवाच—
 
 [^2056]: "क ख-घ- पुस्तकेषु 'श्रीमहादेव उवाच' इति नास्ति, ड ' श्रीशिव उवाच'।"
@@ -19844,8 +18627,6 @@ I.
 
  २। गुणा प्रकृतिस्तत्कार्याणि तद्भासकम्। रा०।
 
-
-
 **द्रुतमुत्थाय चाऽऽलिङ्ग्य पूजयित्वा यथाविधि।  
 इति[^2062] वृष्यां समासीनं मारीचो वाक्यमब्रवीत्॥३॥**
 
@@ -19896,8 +18677,6 @@ I.
  ७। वनविशेषण वनजनप्रियमिति। रा०।
 
  \[वनजनप्रियमिति। वनजनास्तपस्विन प्रिया यस्य तम्। गो०\]
-
-
 
 **स आस्ते विपिने घोरे पञ्चवट्याश्रमे शुभे।  
 तस्य भार्या विशालाक्षी सीता लोकविमोहि[^2069]नी॥८॥**
@@ -19954,8 +18733,6 @@ I.
 
  १३। \[कृती स्थास्यसीति। कृतं मायारचित नानारूप यस्यास्तीति सः। सहायेन साहाय्येन स्थास्यसि। यद्वा कृती कृतकार्यःसन् पूर्ववत् तपस्विवत् स्थास्यसि। गो०\]
 
-
-
 **केनेदमुपदिष्टं ते मूलघातकरं वचः।  
 स एव शत्रुर्वध्यश्च यस्त्व[^2081]न्नाशं प्रतीक्षते॥१४॥**
 
@@ -20011,8 +18788,6 @@ I.
 
  १५-१६। रामस्य पौरुषं स्मृत्वा अद्यापि मे चित्त विकलमिति शेषः। स्मर्यमाण
 
-
-
 **दण्डकेऽपि पुनरप्यह[^2090] वने पूर्ववैरमनुचिन्तयन् हृदि।  
 तीक्ष्णशृङ्गमृगरूप[^2091] एकदा मादृशैर्बहुभिरावृतोऽभ्यगाम्[^2092]॥१७॥**
 
@@ -20054,8 +18829,6 @@ I.
 
  \[तत्प्रभृत्यहमित्यादि। स्थानमूर्जितभयान्निजार्दित इति। निजेन स्वकीयेन कर्मणा रामविरोधरूपेण मुनियज्ञनाशादिना अर्दितःपीडितः। यद्वा अर्दिता मृता निजा आत्मीया यस्य सः। निजार्दित इति क्तान्तस्य परनिपातः। गो०\]
 
-
-
 **राममेव सततं विभावये भीतभीत इव भोगराशितः[^2097]।  
 राजरत्नरमणीरथादिकं श्रोत्रयोर्यदि गतं भय भवेत्।  
 राम आगत इहेति शङ्कया बाह्य[^2098]कार्यमपि सर्वमत्यजम्॥२०॥**
@@ -20090,8 +18863,6 @@ I.
  भोगराशितो भोग्यवस्तुसमूहात् विरक्त इति शेष। भीतभीत इव यस्य स्मरणेन सर्वंभयजातं विनश्यति तस्य कार्यस्मरणेनैवायं भीतिभाव। ननु यदि तत्कार्यस्मरणेनैव भीतिस्तदा तच्चिन्ता एव त्यज्यताम्, न हि तस्य चिन्तन विना गतिर्न भविष्यतीति। भीतोऽपि रामम् एव तादृशभीतिजनकमपि सतत विभावये। यतो भोगराशितो विरक्तःअतो राजरत्नरमणीरथादिक भोगसाधकं वस्तुजातं यदि श्रोत्रयोरागतं भवति तदा भय भवेत्। विरक्तस्य अनिष्टजनकत्वादित्याशय। राम आगत इहेति चिन्तया तस्य शराघातशङ्कयेत्यर्थ। बाह्य कार्य संसारसमुत्थकार्यजातमित्यर्थः, सर्वम् अत्यजम्। सर्वं बाह्यकार्यं त्यक्त्वामोक्षसाधकं तमेव निरन्तर चिन्तयामीत्यर्थः।
 
  २१। रामागमनशङ्कया बाह्यकार्यं परित्यज्य निद्राणोऽपि राममेव चिन्तयन्। स्वपे इति आत्मनेपदमार्षम्। तदा स्वप्नदृष्टिगतराघवं स्वप्नज्ञानविषयं राघवं पश्यन्नेव बोधितो विगतनिद्र आस्थित आसने भवेयमिति शेषः। रा०।
-
-
 
 **तद् भवानपि विमुच्य चा[^2104]ऽऽग्रहं राघवं प्रति गृहं प्रयाहि भोः।  
 रक्ष राक्षसकुल चिरागत तत्स्मृतौ सकलमेव नश्यति॥२२॥**
@@ -20137,8 +18908,6 @@ I.
  \[आदियुगे त्रेतायुगस्याऽऽदौ। गो०\]
 
  अहम् इदमशेषं सर्वमित्यर्थः। मुनिवाक्यतो मुनेर्नारदस्य वचनतः अशृणवम्।
-
-
 
 **ब्रह्मणोक्तमरविन्दलोचन त्वं प्रयाहि भुवि मानुषं वपुः।  
 दशरथात्मजभावमञ्जसा[^2108] जहि रिपुं दशकन्धरमा[^2109]हवे॥२५॥**
@@ -20194,8 +18963,6 @@ I.
 प्रलोभ्य चैव वेदहीं यथेष्टं कर्त्तुमर्हसि॥ ३।४४।१५-१६॥**
 
  २८। सत्य सङ्कल्प इच्छा यस्य स। रा०।
-
-
 
 **अतोऽहं यत्नतः सीतामाने[^2116]ष्याम्येव राघवात्।  
 वधे[^2117] प्राप्ते रणे वीर प्राप्स्यामि परमं पदम्॥२९॥**
@@ -20261,8 +19028,6 @@ I.
 **तस्मिन् कार्ये च संसिद्धे मारीच भवतेऽप्यहम्।  
 राज्यस्यार्द्धंप्रदास्यामि कृतार्थेनान्तरात्मना॥ इत्यादि।३।४४।२१-२२।**
 
-
-
 इति निश्चित्य मरणं रामादुत्थाय वेगतः।  
 अब्रवीद्रावणं राजन् करोम्याज्ञां तव प्रभो॥३४॥
 
@@ -20309,8 +19074,6 @@ I.
 
 उपस्थितविनाशोऽसि ध्रुवं त्वं राक्षसेश्वर।  
 कार्यं वा यदि वाऽकार्यं कृतमेवेच्छति प्रभुः॥ इति। ३।४६।२०-२१।
-
-
 
 **सप्तमोऽध्यायः**
 
@@ -20361,8 +19124,6 @@ I.
 
  २। त्वदाकारां तव आकार इव आकारो यस्यास्तां स्थापयित्वा बहिरिति शेषः। रा०।
 
-
-
 **मायासीता तदाऽपश्यन्मृगं मायाविनिर्मितम्।  
 हसन्ती राममभ्येत्य प्रोवाच विनयान्विता॥५॥**
 
@@ -20412,8 +19173,6 @@ I.
 
 **यदि ग्रहणमभ्येति जीवन्नेव मृगस्तव।  
 आर्यभूतं भवति विस्मयं जनयिष्यति॥**
-
-
 
 **रक्ष त्वमतियत्नेन सीतां मत्प्राणवल्लभाम्।  
 मायिनः सन्ति विपिने राक्षसा घोरदर्शनाः।  
@@ -20473,8 +19232,6 @@ I.
 
  १२। जगदाकृतिर्जगद्रूपेण परिणम्यमाना। रा०।
 
-
-
 **भक्तानुकम्पी भगवानिति सत्यं वचो हरिः।  
 कर्त्तु सीताप्रियार्थाय[^2148]जानन्नपि मृगं ययौ॥१३॥**
 
@@ -20524,8 +19281,6 @@ I.
 **मुहूर्त्तादेव ददृशे मुहूर्त्तान्न प्रकाशते।  
 अतिवृत्त इषुत्रासाल्लोभयन् स रघूत्तमम्॥**
 
-
-
 **ततो रामोऽपि विज्ञाय राक्षसोऽयमिति स्फुटम्।  
 विव्याध शरमादाय राक्षसं मृगरूपिणम्॥१६॥**
 
@@ -20572,8 +19327,6 @@ I.
 **सीता शून्येन मनसा भर्तृस्नेह समुत्सुका।  
 ततो लक्ष्मणहीनां तां रावणो वै हरेदिति॥ इत्यादि। ३।५०।२२-२४।**
 
-
-
 **यन्नामज्ञोऽपि[^2155] मरणे स्मृत्वा तत्साम्यमाप्नुयात्।  
 किमुताग्रेहरिं पश्यंस्तेनैव निहतोऽसुरः॥१८॥**
 
@@ -20614,8 +19367,6 @@ I.
  २१। रामभयादेव सर्वं गृहादिकं परित्यज्य पूर्वमपि रामं स्मरन्स्थित इति शेष। रा०।
 
  २२। तादृशःस तत्स्मृतिदूरीकृताशेषपापः। अन्ते रामेण निहतो राम पश्यन् राममेव प्राप। अत्र भगवद्भयमेव वैराग्यादिज्ञानान्तसकलमुक्तिसाधनसम्पादकंजातमिति सूचितम्। मुख्यतयैतदेव सर्वसाधनमिति मन्तव्यम्। रा०।
-
-
 
 **द्विजो वा राक्षसोवाऽपि पापी वा धार्मिकोऽपि वा।  
 त्यजन् कलेवरं रामं स्मृत्वा याति परं पदम्।  
@@ -20669,8 +19420,6 @@ I.
 
 **अवध्य समरे रामोनैवं त्वं वक्तुमर्हसि।  
 नोत्सहे त्वां विरहितुं शून्येऽह राघवं विना॥ इत्यादि। ३।५१।१५-१७।**
-
-
 
 **क्रुद्धा लक्ष्मणमालोक्य सीता बाष्पविलोचना।  
 प्राह लक्ष्मण दुर्बुद्धे भ्रातुर्व्यसनमिच्छसि[^2164]।  
@@ -20732,8 +19481,6 @@ I.
 **एतदन्तरमासाद्य दशग्रीव प्रतापवान्।  
 अभिचक्राम वैदेहीं परिव्राट्छद्मना तदा॥ इति। ३।५२।४।**
 
-
-
 **सीता तमवलोक्याऽऽशु नत्वा सम्पूज्य भक्तितः।  
 कन्दमूलफलादीनि दत्त्वा स्वागतमब्रवीत्॥३६॥**
 
@@ -20771,8 +19518,8 @@ I.
 **[तस्याह](http://३ " छ ‘- हञ्च धर्मपत्नी' ।")धर्मतः पत्नी सीता जनकनन्दिनी।  
 तस्य भ्राता कनीयांश्च लक्ष्मणो भ्रातृवत्सलः॥४०॥**
 
-**पितुराज्ञां पुरस्कृत्य [दण्डके](http://॑ "च 'क'। ")वस्तुमागतः।  
-चतुर्दश समास्त्वान्तु ज्ञातुमिच्छामि [मे](http://॑ "च 'मूलतः'।") वद॥४१॥**
+**पितुराज्ञां पुरस्कृत्य [दण्डके]("च 'क'। ")वस्तुमागतः।  
+चतुर्दश समास्त्वान्तु ज्ञातुमिच्छामि [मे]("च 'मूलतः'।") वद॥४१॥**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -20789,8 +19536,6 @@ I.
  ३७। ते प्रियं तद्योग्यातिथ्यकरणेनेति शेषः। रा०।
 
  ३८। ततस्त्वद्वृत्तान्तवर्णनानन्तरम्। रा०।
-
-
 
  भिक्षुरुवाच—
 
@@ -20845,8 +19590,6 @@ I.
 **सीतायास्तद्वचः श्रुत्वा दशग्रीव प्रतापवान्।  
 हस्ते हस्तं विनिष्पिष्य चकार सुमहद्वपु॥**
 
-
-
 **दशास्यं विंशतिभुजं कालमेघसमद्युतिम्[^2186]।  
 त[^2187] दृष्ट्वा वनदेव्यश्च भूतानि च वितत्रसुः॥४७॥**
 
@@ -20888,8 +19631,6 @@ I.
 
 **वैदेहीं रावणःक्रुद्धो निर्दहन्निव राक्षसः।  
 सव्येन सीतां पद्माक्षी मूर्धजेषु करेण सः॥**
-
-
 
 **श्रुत्वा तत्क्रन्दितं[^2188] दीनं सीतायाः पक्षिसत्तमः।  
 जटायुरुत्थितःशीघ्र नगाग्रात् तीक्ष्णतुण्डकः॥४९॥**
@@ -20939,8 +19680,6 @@ I.
 
 **समाक्षिप्य रथात्तस्मात् सारथिं पतगेश्वर।  
 गजाङ्कुशभिभेमाऽऽशु दारयित्वा पदासृजत्॥ ३।५६।५०।**
-
-
 
 **ततः सीतां परित्यज्य रावणः खड्गमाददे।  
 चिच्छेद पक्षौ सामर्षः पक्षिराजस्य धीमतः॥५२॥**
@@ -20994,8 +19733,6 @@ I.
 
  ५४। क्रोशन्ती सीता, मां न पश्यसि मां किं न पश्यसीत्यर्थ। एवं विललापेति शेषः। रा०।
 
-
-
 **विहायसा नीयमाना सीताऽपश्यदधोमुखी।  
 पर्वताग्रे[^2195]स्थितान् पञ्च वानरान् वारिजानना[^2196]॥५७॥**
 
@@ -21045,8 +19782,6 @@ I.
 
 **सोऽभिगम्य पुरीं लङ्कां सुविभक्तमहापथाम्।  
 संरूढकक्षां बहुलां स्वमन्तःपुरमाविशत्॥**
-
-
 
 **यदि[^2199] शोचामि तां दुखसन्तप्तः कामुको यथा।  
 तदा[^2200] क्रमेणानुचिन्वन् सीतां यास्येऽसुरालयम्॥५॥**
@@ -21110,8 +19845,6 @@ I.
 
  १०। रुदन् लक्ष्मणः प्राञ्जलिः, सीताया दुर्वचः प्राह इत्यन्वयः।
 
-
-
 **रुदन्ती[^2212] सा मया प्रोक्ता देवि राक्षसभाषितम्।  
 नेदं रामस्य वचन स्वस्था[^2213]भव शुचिस्मिते[^2214]॥११॥**
 
@@ -21165,8 +19898,6 @@ I.
 
  १६। मद्विमोहार्थं मम मोहार्थं क्व क्वचिद् विलीयसेकिमित्यर्थ। आचिन्वन् अन्वेषयन्। रा०।
 
-
-
 **वनदेव्यः कुतः सीतां ब्रुवन्तु मम वल्लभाम्।  
 मृगाश्च पक्षिणो वृक्षा[^2221]दर्शयन्तु मम प्रियाम्॥१७॥**
 
@@ -21198,8 +19929,6 @@ I.
  १८। न कुत्रचिद्ददर्शॆति शेषः। सर्वथा सर्वप्रकारेण पश्यन्नपि क्वापि देशे नापश्यत्। रा०।
 
  १९। यदानन्दस्तन्मयः सर्वशक्तिसमृद्धो वा सामन्वशोचत्, यदचलोऽप्यनुधावति तत्कर्तृकःशोकोऽचलकर्तृके धावनं तदेतदाश्चर्यमिति भावः। निर्मलत्वादिगुणोऽपि मम जायेति विललाप।मायागृहीतमनुष्यत्वस्य लोकान् सत्यत्वेन प्रत्याययितुमिति भाव। अतिदुःखितः स इव। रा०।
-
-
 
 **एवं मायामनुचरन्नसक्तोऽपि रघूत्तमः।  
 आसक्त इव[^2225] मूढानां भाति तत्त्वविदां न हि॥२०॥**
@@ -21262,8 +19991,6 @@ I.
 
 **एवं हनिष्ये दीप्ताग्रैशीघ्रं बाणैरजिह्मगैः।  
 जातरोषःसहस्राक्षो वज्रॆणेव महाचलम्॥ इत्यादि। ३।७२।१०-१३।**
-
-
 
 **चापमानय शीघ्रं[^2234] मे बाणञ्च रघुनन्दन।  
 तच्छ्रुत्वा रामवचनं जटायुः प्राह भीतवत्॥२४॥**
@@ -21331,8 +20058,6 @@ I.
 अङ्केनाऽऽदाय वैदेहीमुत्पपात विहायसा॥३।७२।२१। इति।**
 
 **सीतामादाय वैदेहीं प्रयातो दक्षिणामुखः। ३।७३।१४ ।इति च।**
-
-
 
 **दिष्ट्यादृष्टोऽसि राम त्व म्रियमाणेन मेऽनघ[^2245]।  
 परमात्माऽसि विष्णुस्त्वं मायामनुज[^2246]रूपधृक्॥३१॥**
@@ -21406,8 +20131,6 @@ I.
 **इत्युक्त्वाराघवस्याग्रे सहसा त्यक्तजीवितः।  
 संस्कारमकरोद्रामस्तस्य ब्रह्मविधानतः॥**
 
-
-
 **भक्षन्तु पक्षिणःसर्वे तृप्तो भवतु पक्षिराट्।  
 इत्युक्त्वाराघवः प्राह जटायो गच्छ मत्पदम्[^2255]।  
 मत्सारूप्यं भजस्वाद्य सर्वलोकस्य पश्यतः॥३६॥**
@@ -21461,8 +20184,6 @@ I.
 
  ४०। अगणितगुणम् अनन्तशक्तित्वात्। अप्रमेय देशकालापरिच्छेद्यम्। संयमो नाशः। आदिना जन्म उपरमःशान्तिरेव परमा शोभा यस्मिन् तम्। रा०।
 
-
-
 **निरवधिसुखमिन्दिराकटाक्षक्षपि[^2263]तसुरेन्द्र[^2264]चतुर्मुखादिदुःखम्।  
 नरवरमनिशं नतोऽस्मि राम वरदमहं वरचाप[^2265]बाणहस्तम्॥४१॥**
 
@@ -21496,8 +20217,6 @@ I.
  ४१। निरवधिसुखं तदतिरिक्तेषु ब्रह्माण्डेषु सुखं सावधिकमिति भाव। इन्दिरा लक्ष्मीः तत्कटाक्षा यस्मिंस्तम्। क्षपितेति, सुरेन्द्रादिसेवाप्रीतेन येन तदीयदुःखं क्षपितमित्यर्थ। रा०।
 
  \[निरवधीत्यादि। अखण्डब्रह्मसुखरूपम् 'आनन्द ब्रह्मणो विद्वान्' (तैत्ति० २।४।१) इति श्रुतेः। इन्दिरा लक्ष्मीः, तस्या कटाक्षेण कृपावलोकनेन क्षपितं खण्डितं सुरेन्द्रचतुर्मुखादीनां दुःखं येन। एतेन लक्ष्म्या अवलोकेऽपि स एव हेतुरित्युक्तम्। नरा जीवास्तेषां वरं पूज्यं परमात्मानमित्यर्थः। यद्वा नरैर्व्रियतेऽसौ ज्ञानैश्वर्यादिनेति नरवरस्तम्। गो०\]
-
-
 
 **भवविपिनदवाग्नि[^2270]नामधेय भवमुख[^2271]दैवतदैवतं[^2272] दयालुम्।  
 दनुजपति[^2273]सहस्रकोटिनाश रवितनया[^2274]सदृशं हरि प्रपद्ये॥४३॥**
@@ -21533,8 +20252,6 @@ I.
 
  ४४। अविरतं भवस्य संसारस्य भावना येषां तेषामतिदूरम्, भवसमुद्रस्य सुतारणे अङ्घ्रिरूपः पोतो यस्य तम्। रा०।
 
-
-
 **गिरिशगिरिसुतामनो[^2275]निवास गिरिवरधारिणमीहिताभिरामम्।  
 सुरवरदनुजेन्द्रसेविताङ्घ्रि सुरवरद[^2276] रघुनायक प्रपद्ये॥४५॥**
 
@@ -21564,8 +20281,6 @@ I.
  \[गिरिःशिवःगिरिसुता पार्वती च तयोर्मनो निवासो यस्य निरन्तर तत्र स्थितत्वात्। गिरिवरो मन्दरो गोवर्द्धनश्च तद्धारिण कूर्मरूपिण श्रीकृष्णरूपिणञ्च। ईहितेनेच्छामात्रेण अभिराम सृष्ट्यादिक्रिया यस्य। यद्वाईहितमेवाभिरामो लीला यस्य। एतेन परमात्मनो नित्यानन्दमयस्य तत्र शोकादिरपि लीलैव न वास्तव इत्यर्थ। सुरवरा ब्रह्माद्या दनुजेन्द्रा प्रह्लादाद्याः, तैः सेविताषडङ्घ्रीयस्य। सुरवरेष्वपि वर ददातीति एतेन सर्वाराध्यत्वं ध्वनितम्। गो०\]
 
  ४६। परगुणादिषु तुष्टमीर्ष्यारहितं मानस येषाम्। रा०।
-
-
 
 **स्मितरुचिरविकासिता[^2278]ननाब्जमति[^2279]सुलभं सुरराजनीलनीलम्[^2280]।  
 सितजल[^2281]रुहचारुनेत्रशोभं रघुपतिमीशगुरोर्गुरुंप्रपद्ये॥४७॥**
@@ -21598,8 +20313,6 @@ I.
  ४८। यथैकोऽपि रविरुदपात्रेष्वनेक इव, एवमेकोऽपि त्व गुणभेदाद्धर्यादिसज्ञकः, अमरपतिरिन्द्रस्तस्य स्तुतिपात्रंतत्कृतस्तुतिविषयमित्यर्थ। रा०।
 
  \[न केवलं तद्गुरुं तद्रूपमपीत्याह—हरीत्यादि। इह पालनादिकार्येहरिर्विष्णु कमलजो ब्रह्मा शम्भुरिति रूपभेदात् त्वमेव भासि, कथम्? गुणत्रयानुवृत्तःसत्त्वरजस्तमोगुणानुगत सन्। एकस्य उपाधिगतत्वेबहुधा भाने दृष्टान्त—रविरिवेति। घटादिषु प्रतिबिम्बगतो रविर्यथा तथेत्यर्थI गुणत्रयजलपात्रयोःसाम्यम्। सर्वसेव्यत्वमाह—अमरपतीनाम् इन्द्रादीनामन्यस्तुतानामपि स्तुतेःपात्रम्। गो०\]
-
-
 
 रतिपतिशतकोटिसुन्दराङ्गंशतपथगोचरभावनाविदूरम्[^2282]।  
 यतिपतिहृदये सदा विभान्त[^2283] रघुपतिमान्तिहरं प्रभुं[^2284]प्रपद्ये॥४९॥
@@ -21649,8 +20362,6 @@ I.
 
  \[ब्रह्मणोऽपि सुपूजित पद वैकुण्ठम्। गो०\]
 
-
-
 नवमोऽध्यायः
 
 ![](../books_images/U-IMG-1725774873Screenshot2024-09-08112419.png)
@@ -21698,8 +20409,6 @@ I.
 नीलमेघनिभं घोर मेघस्तनितनिस्वनम्॥  
 महता चातिपिङ्गेन विपुलेनाऽऽयतेन च।  
 एकेनोरसि दीर्घेण नयनेनातिदर्शिना॥**
-
-
 
 बाहू योजनमात्रेण[^2292] व्यापारौ[^2293] तस्य रक्षसः।  
 कबन्धो नाम दैत्येन्द्र सर्वसत्त्वविहिंसक॥३॥
@@ -21756,8 +20465,6 @@ I.
  ६। सङ्कलितौ प्राप्तौ। रा०।
 
  \[आवामपीति। सङ्कलितौ संयतौ भक्षयेत्। गो०\]
-
-
 
 गन्तुमन्यत्र मार्गो[^2298] न दृश्यते रघुनन्दन।  
 कि कत्तव्यमितोऽस्माभिरिदानीं[^2299] भक्षयेत्[^2300] सनौ॥७॥
@@ -21823,8 +20530,6 @@ I.
 
  १०-११। मद्बाहुच्छेदसमर्थौ लोके भूलोके कुत असंभावितावेव, तथा दिवि विद्यमानेषु देवेष्वपि असंभावितौ‚ तद् युवां कावित्याश्चर्येण प्रश्नः।रा०।
 
-
-
 रामोऽह तस्य पुत्रोऽसौ भ्राता मे लक्ष्मणः सुधी।  
 मम भार्या जनकजा सीता त्रैलोक्यसुन्दरी॥१२॥
 
@@ -21881,8 +20586,6 @@ I.
 
  १६।वरनार्य उत्तमस्त्रियः। अवध्यत्वं लब्ध मयेति शेषः। रा०।
 
-
-
 अष्टावक्र[^2317] मुनिं दृष्ट्वाकदाचिदहसं पुरा।  
 क्रुद्धोऽसावाह[^2318] दुष्ट त्वं राक्षसो भव दुर्मते॥१७॥
 
@@ -21924,8 +20627,6 @@ I.
 सोऽहं भुजाभ्यां दीर्घाभ्यामाकृष्यास्मिन् महावने।  
 गजान् व्याघ्रान् मृगानृक्षान् भक्षयामि समन्ततः॥**
 
-
-
 त्रेतायुगे दाशरथिर्भूत्वा नारायण स्वयम्।  
 आगमिष्यति ते बाहू छिद्येते[^2321] योजनायतौ॥१६॥
 
@@ -21948,9 +20649,11 @@ I.
 [^2326]: "ग-च-छ‘-देशमता-'।"
 
 तदा शिरो गत कुक्षि[^2327] पादौ च रघुनन्दन।  
-ब्रह्मदत्तवरान्मृत्यु [र्नाभून्मे](http://॑# "ड '-मी', छ'-नाभूद्वज्रस्य ता-'।") वज्रताडनात्॥२२॥
+ब्रह्मदत्तवरान्मृत्यु र्नाभून्मे[^3166] वज्रताडनात्॥२२॥
 
 [^2327]: "छ 'कुक्षि-'"
+
+[^3166]: "ड '-मी', छ'-नाभूद्वज्रस्य ता-'।"
 
 ———————————————————————————————————————————————————
 
@@ -21980,8 +20683,6 @@ I.
  २१। कदाचिदिति राक्षसतनुप्राप्त्यनन्तरमिति शेष। रा०।
 
  २२। तदा वज्रेण ताडने शिर कुक्षिं गतं पादौ च गतौ नष्टावित्यनुकर्षः। रा०।
-
-
 
 मुखाभावे[^2328] कथं जीवेयमित्यमराधिपम्।  
 ऊचूः[^2329]सर्वे दयाविष्टामां विलोक्याऽऽस्यवर्जितम्॥ २३॥
@@ -22020,8 +20721,6 @@ I.
 
 ———————————————————————————————————————————————————
 
-
-
 २४। नरो०।योजन योजनमान आयामो दैर्ध्यं ययोस्तौ तथा।
 
  २६। नरो०। अग्नीन्धनाविले अग्निश्चइन्धनानि च तराविले इन्धन काष्ठम्।
@@ -22043,8 +20742,6 @@ I.
 मेऽदग्धस्यन विज्ञातुं शक्तिरस्ति नरर्षभौ।  
 राक्षस तं महावीर्यं येन सीता हृता बलात्॥ इत्यादि।३।७५।४२-४३।**
 
-
-
 निक्षिप्य प्रादहत् काष्ठैस्ततो देहात् समुत्थितः।  
 कन्दर्पसदृशाकारः सर्वाभरणभूषितः॥२८॥
 
@@ -22063,8 +20760,6 @@ I.
 त्वामनन्तमनाद्यन्तं मनोवाचामगोचरम्॥३०॥
 
 ———————————————————————————————————————————————————
-
-
 
 ३०। नरो०। इदानीं श्रीराम स्तौति — त्वामनन्तमित्यादिना। नास्ति अन्तो यस्य तं तथा। अनन्तत्वमाकाशस्यापि विद्यते तत्र किं विचित्रमिति चेत्तत्राऽऽह — अनाद्यन्तमिति। अविद्यमानकारणनाशमित्यर्थ। यतोऽनन्तमतो मनोवाचामगोचरम्।
 
@@ -22092,8 +20787,6 @@ I.
 
  ३०। अतिसम्भ्रमादत्यादरात्। अनन्त देशापरिच्छेद्यम्। अनाद्यन्तम् आद्यन्तरहितम्, तेन कालापरिच्छेद्यत्वमुक्तम्। मनोवाचामिति 'यतो वाचो निवर्त्तन्ते अप्राप्य मनसा सह‛ (तैत्ति० २।४।१) इति श्रुते। रा०।
 
-
-
 सूक्ष्मं ते रूपमव्यक्त देहद्वयविलक्षणम्।  
 दृग्रूपमितरत्[^2341] सर्व दृश्यं जडमनात्मकम्।  
 तत् कथ त्वां विजानीयाद् व्यतिरिक्तं मनः प्रभो॥३१॥
@@ -22108,8 +20801,6 @@ I.
 
 ———————————————————————————————————————————————————
 
-
-
 ३१। नरो०। ते तव रूपमव्यक्तं तर्हि किं प्रधानमिति चेत्तत्राऽऽह — दृगिति। द्रष्टृ इत्यर्थः। सूक्ष्मं मनसोऽप्यगोचरम्। अव्यक्त चक्षुराद्यगोचरम्। यद्वा सूक्ष्मत्वेऽव्यक्तत्वे च हेतु — देहद्वयविलक्षणमिति, लिङ्गशरीरस्थूलशरीरभिन्नमित्यर्थः। तद्वैलक्षण्ये हेतुः — दृगिति। तर्हि किं दृश्यमित्यपेक्षायामाह — रूपमितरदित्यादि। अविद्यमान आत्मा चैतन्य यस्य तत्तथा। तद्रूपस्यादृश्यत्वमुपसहरति — तदित्यर्द्धेन। तत्तस्मात् दृश्यपदार्थव्यतिरिक्त त्वां मनः कथ जानीयादित्यन्वय।
 
  ३२। नरो०। ननु जीवोऽपि परमार्थतो बुद्धयादिसाक्षी ब्रह्मैव कथ मज्ज्ञानापेक्ष इत्यत आह — बुद्ध्यात्माभासयोरित्यादि। बुद्ध्यात्माभासयोरैक्यमिति आभासीभूतान्त करणतादात्म्यापन्नचैतन्यमित्यर्थः। तस्मिन् आत्मनि अन्त करणतद्धर्मकामसङ्कल्पादीन्द्रियधर्मकाणत्ववधिरत्वादि-देहतद्धर्मस्थौल्यादीनामखिलशब्दवाच्यता। निर्नास्ति विषयःकामनाविषयो यस्य तस्मिन् तथा, अत एव कामसङ्कल्पासम्भव। निर्विकारे देहेन्द्रियादिशून्ये, अत एव
@@ -22123,8 +20814,6 @@ I.
  \[ननु इदमहङ्कारात्मतया परिच्छिन्नं कथं मनोऽगोचरं भवतीत्याह — सूक्ष्ममित्यादि। गो०\]
 
  ३२। बुद्धिश्चित्तं तत्राऽऽत्माभास आत्मप्रतिबिम्बः, तयोरैक्य भेदानवभासस्तदुविषयो
-
-
 
 हिरण्यगर्भस्ते[^2343]सूक्ष्मं देहं स्थूल विराट् स्मृतम्।  
 भावनाविषयो राम सूक्ष्मं ते ध्यानमङ्गलम्[^2344]।  
@@ -22171,8 +20860,6 @@ I.
 
  ३४। अण्डकोषरूपो भगवतो विराड्देहस्तत्र महदादिभिरावृते इति। अत्रेयपौराणिकसांख्यसंमता प्रक्रिया।स्वव्याप्याहङ्कारावरणाद्दशगुणितं महत्तत्त्व बाह्यमावरणम्, तन्मध्ये अहङ्कारावरणम्।तदपि स्वव्याप्यव्योमावरणाद्दशगुणितम्, तन्मध्ये व्योमावरणम्।तस्य दश-
 
-
-
 पातालं ते पादमूलं पार्ष्णिस्तव[^2351] महातलम्[^2352]।  
 रसातलं ते[^2353] गुल्फौ तु[^2354] तलातलमितीर्यते॥३५॥
 
@@ -22204,8 +20891,6 @@ I.
 
  \[तमेवावयवविभागमाह — पातालमित्यादि सार्द्धनवभिः। पादमूल पातालम्। पार्ष्णिश्चरणपश्चाद्भागः। गुल्फौ घुटिकाग्रन्थी, तलातलम्, जानुनी, जङ्घेसुतलम्, ऊरू वितलम्। अतल मही जघनं नभो नाभिः नाभितलम् 'नाभिसारा गृणन्ती'ति शुकोक्तेः।ज्योतींषि स्वर्गः। गो०\]
 
-
-
 वदनं जनलोकस्ते[^2355] तपस्ते शङ्खदेशगम्[^2356]।  
 सत्यलोको[^2357] रघुश्रेष्ठ शीर्षण्यास्ते सदा प्रभो॥३७॥
 
@@ -22229,8 +20914,10 @@ I.
 
 [^2361]: "छ 'काम-'।"
 
-रुद्रोऽहङ्काररूपस्ते वाचश्छन्दांसि [तेऽव्यया](http://॑# "क- ख-घ-च '- व्यय', ङ-छ 'व्यय'।")ः।  
+रुद्रोऽहङ्काररूपस्ते वाचश्छन्दांसि तेऽव्यया[^3167]ः।  
 यमस्ते दंष्ट्रदेशस्थो नक्षत्राणि द्विजालय॥४०॥
+
+[^3167]: "क- ख-घ-च '- व्यय', ङ-छ 'व्यय'।"
 
 ———————————————————————————————————————————————————
 
@@ -22256,8 +20943,6 @@ I.
 
  \[छन्दांसि गायत्र्यादीनि वेदा वा‚ द्विजालयो दन्तपङ्तिश्रेणय।गो०\]
 
-
-
 हासो मोहकरी माया सृष्टिस्तेऽपाङ्गमोक्षणम्[^2362]।  
 धर्म पुनस्तेऽधर्मश्च[^2363] पृष्ठभाग उदीरित[^2364]ः॥४१॥
 
@@ -22282,9 +20967,11 @@ I.
 [^2368]: "छ 'स्थूलवपु-'।"
 
 यदिदं[^2369] स्थूलरूपे ते मनसन्धार्यते नरैः।  
-अनायासेन मुक्तिः[स्यात्ततश्चान्यन्न](http://॑# "क-ख-घ छ 'स्यादतोऽन्धन्नहि', ग 'स्यात्ततो वाऽन्धन्न', च 'स्यात्ततोऽन्धन्न-'।") किञ्चन॥४४॥
+अनायासेन मुक्तिःस्यात्ततश्चान्यन्न[^3168] किञ्चन॥४४॥
 
 [^2369]: "क-ख-घ 'यदस्मिन्', च छ'यद्यस्मिन्'।"
+
+[^3168]: "क-ख-घ छ 'स्यादतोऽन्धन्नहि', ग 'स्यात्ततो वाऽन्धन्न', च 'स्यात्ततोऽन्धन्न-'।"
 
 ———————————————————————————————————————————————————
 
@@ -22303,8 +20990,6 @@ I.
  ४३। वृष्टिस्तव रेत, ज्ञानशक्तिस्तव महिमा सर्वत आधिक्यम्। त्वत्तुल्या ज्ञानशक्तिर्नान्यत्रेति भाव। रा०।
 
  ४४। \[यदिदमित्यादि। ते तव इदं यत् स्थूलरूप तद् यैर्नरैः संस्मर्यते सम्यक् स्मरणविषयीकार्यते, तेषामनायासेन मुक्तिः स्यात्, ततो दानध्यानादिकं किञ्चिदपि मुक्तौ नोपयुज्यते। वाशब्द एवार्थे। गो०\]
-
-
 
 अतोऽहं राम रूप[^2370] ते स्थूलमेवानुभावये[^2371]।  
 यस्मिन् ध्याते प्रेमरसः सरोमपुलको भवेत्।
@@ -22364,8 +21049,6 @@ I.
 
  \[अत्र सदाचारं प्रमाणयति — सर्वज्ञ इत्यादि। गो०\]
 
-
-
 मुमूर्षूणां सदा काश्यांतारकं ब्रह्मवाचकम्।  
 राम रामे[^2380]त्युपदिशन्[^2381] सदा सन्तुष्टमानसः॥४८॥
 
@@ -22418,8 +21101,6 @@ I.
 
  ५१। योगिभिरनेनैव देहेन योगबलाद् गम्यं स्वर्लोकम्। रा०।
 
-
-
 जपन्ति[^2389] ये नित्यमनन्यबुद्ध्याभक्त्या त्वदुक्तं स्तवमागमोक्तम्[^2390]।  
 तेऽज्ञानसम्भूतभवं विहाय मां यान्ति[^2391] नित्यानुभवानुमेयम्॥५२॥
 
@@ -22447,8 +21128,6 @@ I.
 
  \[जपन्ति इत्यादि। यान्ति नित्यानुभवानुमेयम्, नित्यश्चासावनुभवो बोधरूपश्चेति स चासौ अनुमेयोऽनुमितिगोचर। बुद्ध्यादीनां जडानां प्रवृत्त्यनुपपत्त्या चेतन सर्वप्रेरकोऽनुमीयते‚ न हि चेतनमधिष्ठान विना जडानां प्रवृत्तिरुपपद्यते। गो०\]
 
-
-
 इत्युक्त्वा प्रययौसोऽपि विमानेनार्कवर्चसा।  
 विष्णोः पद रामनाम स्मरणे[^2392] फलमीदृशम्॥ ३॥
 
@@ -22474,7 +21153,9 @@ I.
 [^2397]: "ग 'सन्निवेशयेत'।"
 
 रामलक्ष्मणयोःसम्यक् पादौ प्रक्षाल्य भक्तितः।  
-तज्जलेनाभिषिच्याङ्गमथार्घ्यादिभि[रादृता](http://॑# "क-ग-ड '-रावृता'।")॥७॥
+तज्जलेनाभिषिच्याङ्गमथार्घ्यादिभिरादृता[^3169]॥७॥
+
+[^3169]: "क-ग-ड '-रावृता'।"
 
 ———————————————————————————————————————————————————
 
@@ -22506,8 +21187,6 @@ I.
 ———————————————————————————————————————————
 
 \* वड्गवासिमुद्रितपुस्तके श्लोकानामेतेषा पाठान्तरादिना बहु वैरूप्य दृश्यते।
-
-
 
 सम्पूज्य विधिवद्रामं ससौमित्रि सपर्यया।  
 संगृहीतानि दिव्यानि[^2398] रामार्थं शबरी मुदा॥८॥
@@ -22554,8 +21233,6 @@ I.
 
  १२। बहुवर्षसहस्राणीति पूर्वान्वयि। गतास्ते इत्यस्येदानीमित्यादिः, गमिष्यन्तस्तेत्वमत्रैव समाहिता वसेति मामब्रुवन्। रा०।
 
-
-
 आगमिष्यति चैकाग्रध्याननिष्ठा स्थिरा[^2402] भव।  
 इदानीं चित्रकूटाद्रावाश्रमे वसति प्रभुः॥१४॥
 
@@ -22572,7 +21249,9 @@ I.
 [^2404]: "च 'तस्य'।"
 
 तव सन्दर्शनं राम गुरूणामपि मे न हि।  
-योषिन्मूढाऽप्रमे[यात्मन्](http://॑# "छ '-यात्मा'।") हीनजातिसमुद्भवा॥१७॥
+योषिन्मूढाऽप्रमेयात्मन्[^3170] हीनजातिसमुद्भवा॥१७॥
+
+[^3170]: "छ '-यात्मा'।"
 
 तव दासस्य दासानां शतसंख्योत्तरस्य वा।  
 दासीत्वे नाधिकारोऽस्ति कुतः साक्षात्तवैव हि॥१८॥
@@ -22598,8 +21277,6 @@ I.
  १८। तव दास तद्दास इत्येवंक्रमेण शतसंख्यात उत्तरस्यापि दासीत्वे नाधिकारः, साक्षात्तव दास्ये तु सुतरामनधिकारः। रा०।
 
  \[तव दासस्य दासानां शतसख्योत्तरस्येति। दासक्रमेण शताधिकदासदासस्यापि दासीत्वे अधिकारो नास्ति साक्षात्तव कुतः? गो०\]
-
-
 
 कथं रामाद्य[^2405] मे[^2406] दृष्टस्त्व मनोवागगोचरः।  
 स्तोतुंन जाने देवेश किं करोमि प्रसीद मे॥१९॥
@@ -22636,8 +21313,6 @@ I.
 
 —————————————————————————————————————————
 
-
-
 २०। नरो०। विशेषो वैलक्षण्यम्। जातिनामाश्रमादय इति। जातयो ब्राह्मणत्वादय, नामानि नरसिंहादीनि, आश्रमा ब्रह्मचारिगृहिवानप्रस्थभिक्षव। आदिपदेन जातिधर्मावारा आश्रमधर्माचाराश्च गृह्यन्ते।
 
  २१। नरो०। मद्भक्तिविमुखै मद्भक्तिहीनैरित्यर्थ।
@@ -22655,8 +21330,6 @@ I.
  २१। तदेवोपपादयति — यज्ञेत्यादि। वेदाध्ययनकर्मभि वेदाध्ययनेन वेदोक्तकर्मानुष्ठानश्चेत्यर्थ। रा०।
 
  २२। सत्सङ्ग एव प्रथम मुख्यं साधनमित्यर्थ। मत्कथालापो मच्चरितनिबन्धालाप इत्यर्थः। मद्गुणेरणं मद्गुणकीर्त्तनम्। रा०।
-
-
 
 व्याख्यातृत्वं मद्वचसां चतुर्थ साधन भवेत्।  
 आचार्योपासनं भद्रे मद्बुद्ध्याऽमायया सदा।  
@@ -22708,8 +21381,6 @@ I.
  २४। मत्पूजने निष्ठा तत्परता। मम ये मन्त्रास्तदुपासकत्वं तदुपासन तच्च साङ्गं तत्तन्मन्त्रकल्पोक्ताङ्गसहितम्। रा०।
 
  २५। अधिका मत्तोऽप्यधिकेत्यर्थ। पुत्रादरस्य पितुरिव तदादरस्य ममाधिकसन्तोषदत्वादिति भावः। मन्मति सर्वान्तर्यामी भगवानिति सर्वं भगवति वर्त्तते इति वा मतिः। विरागित्व वैराग्यम्। शमोऽन्तरिन्द्रियनिग्रहः। आदिना बाह्येन्द्रियनिग्रहरूपो दमः। मम तत्त्वविचार स्वस्य तत्त्व शुद्ध ब्रह्म तद्विचारस्तत्त्वमस्यादिवाक्यतः। रा०।
-
-
 
 एवं नवविधा[^2425] भक्ति[^2426]-साधन यस्य कस्य वा[^2427]।  
 स्त्रियो[^2428] वा पुरुषस्यापि तिर्यग्योनिगतस्य वा।  
@@ -22780,8 +21451,6 @@ I.
 
  २८। सर्व नवविधसाधन ततो भक्तिस्ततो मुक्तिरित्यन्वय। रा०।
 
-
-
  शबर्युवाच —
 
 **देव जानासि सर्वज्ञ सर्व त्व विश्वभावन।  
@@ -22797,9 +21466,11 @@ I.
 [^2444]: "क-ख-घ ड-च-छ'तत्रा-'।"
 
 इतः समीपे रामाऽऽस्ते पम्पानाम सरो वरम्[^2445]।  
-ऋष्यमूकगिरिर्नाम तत्समीपे [महानग](http://॑# "छ'-नघ'।")॥३३॥
+ऋष्यमूकगिरिर्नाम तत्समीपे महानग[^3171]॥३३॥
 
 [^2445]: "ग-ड-छ '-वर'।"
+
+[^3171]: "छ'-नघ'।"
 
 ———————————————————————————————————————————
 
@@ -22830,8 +21501,6 @@ I.
  ३२। यतस्त्वं लोकाननुसुतस्तत इत्यर्थः। रा०।
 
  ३३। तत्प्राप्त्युपायमप्याह —इत इति। रा०।
-
-
 
 चतुर्भिर्मन्त्रिभिः[^2446] सार्द्ध सुग्रीवो वानराधिपः।  
 भीतभीतः सदा तत्र तिष्ठत्यनिलविक्रम[^2447]ः॥३४॥
@@ -22877,8 +21546,6 @@ I.
 **मातङ्गो वालिनं प्राह यद्यागन्ताऽसि मे गिरिम्।  
 इतः परं भग्नशिरा मरिष्यसि न संशयः॥**
 
-
-
 सुग्रीवेण[^2449] स सर्वं ते[^2450] कार्य सम्पादयिष्यति।  
 अहमग्निं[^2451] प्रवेक्ष्यामि तवाग्रे रघुनन्दन॥३६॥
 
@@ -22905,9 +21572,11 @@ I.
 [^2454]: "ग-ड-च-छ 'दुष्कर'।"
 
 **किं पुनर्ब्राह्मणा[^2455] मुख्याः पुण्याः श्रीरामचिन्तकाः।  
-मुक्तिं यान्तीति [मद्भक्तिर्मुक्तिरेव](http://॑# "क-ख-घ-ड-छ'यद्भ-', ग 'यद्भक्ते-', च 'त्वद्भक्ते-'।") न सशय॥४०॥**
+मुक्तिं यान्तीति मद्भक्तिर्मुक्तिरेव[^3172] न सशय॥४०॥**
 
 [^2455]: "ग '-णमुखा,'।"
+
+[^3172]: "क-ख-घ-ड-छ'यद्भ-', ग 'यद्भक्ते-', च 'त्वद्भक्ते-'।"
 
 ———————————————————————————————————————————
 
@@ -22931,8 +21600,6 @@ I.
 
  ४०। मुक्तिं यान्तीति किं पुनर्ब्राह्मणादय इति वक्तव्यमित्यन्वय।यतस्तद्भक्तिर्मुक्तिरेव। अनेन रूपकेण सर्वथा तस्या मुक्तिजनकत्व सूचितम्। रा०।
 
-
-
 भक्तिर्मुक्तिविधायिनी भगवतः श्रीरामचन्द्रस्य हे  
 लोकाः कामदुघाङ्घ्रिपद्मयुगलं सेवध्वमत्युत्सुकाः।  
 नानाज्ञानविशेषमन्त्रविततिं[^2456] त्यक्त्वा सुदूरे भृश  
@@ -22954,15 +21621,11 @@ I.
 
 ———————————————————————————————————————————
 
-
-
 ४१। यतो रामचन्द्रस्य भक्तिर्मुक्तिदा, अतो रामस्य कामदुघचरणपद्मयुगल सेवध्वम्। तद्विषये अत्युत्सुका अत्युत्कटेच्छावन्तःसन्त नानाप्रकारमज्ञानविशेषभूतामज्ञानस्यैव तन्मूलसंसारस्यैव जवनिकां मन्त्रविततिं मन्त्रसमूह त्यक्त्वाभृशमतिशयेन राम भजन्तु। तत्र हेतुगर्भविशेषणम् — स्मरारिहृदये भातम्, स्मरारिःशिव। रा०।
 
  \[नानाज्ञानेत्यादि। ज्ञानं शास्त्रीयम्, विशेषमन्त्रा नानादेवतामन्त्रा, तेषां विततिंविचयनम्, अन्वेषणं सुदूरेत्यक्त्वास्मरारिहृदये भान्त प्रकाशमान श्यामतनुं राम भजध्वम्। गो०\]
 
 **अरण्यकाण्ड समाप्तम्॥**
-
-
 
 **अध्यात्मरामायणम्**
 
@@ -22975,8 +21638,6 @@ I.
 **प्रथमोऽध्यायः**
 
 ![](../books_images/U-IMG-1725942906Screenshot2024-09-10095536.png)
-
- 
 
 श्रीमहादेव उवाच —
 
@@ -22991,8 +21652,6 @@ I.
 [^2460]: "ड छ 'मम्बरम्'।"
 
 ———————————————————————————————————————————
-
-
 
 २। नरो०। अगाधमतलस्पर्शम् अमलं निर्मल शम्बरं जलं यन्त्र तत्तथा। उतफुल्लानि अम्बुजञ्च पद्मंकह्लारञ्च सौगन्धिकं कुमुदञ्च कैरवम् उत्पलञ्चकुवलयं तानि चेति तैर्मण्डितं तत्तथा।
 
@@ -23010,8 +21669,6 @@ I.
  २। विस्मयहेतूनाह — क्रोशमात्रमिति। अगाधामलशम्बरम्। 'नीरक्षीराम्बुशम्बरम्' इत्यमर। अम्बुजं पद्मं कह्लारस्तदविशेषः। एवमुत्पलपदेन कुमुदविशेषोऽत्र। रा०।
 
  \अगाधामलशम्बरमिति, अगाधम् अतलस्पर्शम् अमलं शम्बरं पानीयं यत्र। 'नीरक्षीराम्बु-
-
-
 
 हंसकारण्डवाकीर्णं चक्रवाकादि [शोभितम्।[^2461]  
 जलकुक्कुटकोयष्टिक्रौञ्चनादोपनादितम्॥३॥
@@ -23060,8 +21717,6 @@ I.
  ६। दान्तौ निगृहीतेन्द्रियौ, विविधान् वृक्षान् गिरे शोभाञ्च पश्यन्तौ। पश्यन्तौ तौ जग्मतुरिति शेष। रा०।
 
  ७। चतुर्भिर्वानरैः सह गिरेर्मूर्ध्नि स्थित्वा सुग्रीवः यान्तौ तौ ददर्श। दृष्ट्वा च इति शेष। गिरेः पर्वतान्तरस्येत्यर्थात् शिर आरुरोह।
-
-
 
 भयादाह हनूमन्तं कौ तौ वीरवरौ सखे।  
 गच्छ जानीहि भद्र ते वटुर्भूत्वा द्विजाकृतिः॥८॥
@@ -23114,8 +21769,6 @@ I.
 
 **ततः स हनुमान् वाचा श्लक्ष्णया समनोज्ञया।  
 विनीतवदुपागम्य राघवौ प्रणिपत्य च॥इति।४।३।३।**
-
-
 
 कौ युवां पुरुषव्याघ्रौ युवानौ वीरसम्मतौ।  
 द्योतयन्तौ दिशः सर्वाः प्रभया भास्कराविव॥१२॥
@@ -23171,8 +21824,6 @@ I.
 
  १५। स्थितिलयौ सर्गञ्च लीलया कर्त्तुमुद्यतौ रक्षसां लयस्तदितरजगतः सर्गस्थिती।
 
-
-
 श्रीरामो लक्ष्मणं प्राह पश्यैनं[^2477] वटुरूपिणम्।  
 शब्दशास्त्रमशेषेण[^2478] श्रुत नूनमनेकधा।[^2479]  
 अनेन भाषित कृत्स्नं न किञ्चिदप शब्दितम्[^2480]॥१६॥
@@ -23227,8 +21878,6 @@ I.
 
  १९। तां सीतामित्यर्थः। आयातौ आवामिति शेषः। त्वं ककिंनामधेय। कस्य वा कस्य पुत्रो वा।
 
-
-
  वटुरुवाच —
 
 सुग्रीवो नाम राजास्ते[^2485] वानराणां महामतिः।  
@@ -23259,8 +21908,6 @@ I.
 
 [^2491]: "छ् 'गच्छामि'।"
 
- 
-
 श्रीराम
 
 उवाच —
@@ -23285,8 +21932,6 @@ I.
  २३। तेन सख्यं युक्तं समदुःखत्वात् न तु वालिनेति शेषः। रा०।
 
  २४। सख्युस्तस्य सुग्रीवस्यापि यत् कार्यं सुग्रीवेण स्वहितानुबन्धित्वेनानुष्ठेयं कर्मेत्यर्थः, तदहमसंशयं निश्चितमेव करिष्यामि।
-
-
 
 हनूमान् स्वस्वरूपेण[^2493] स्थितो राममथाब्रवीत्।  
 आरोहतां[^2494] मम[^2495] स्कन्धोगच्छामः पर्वतोपरि॥२५॥
@@ -23346,8 +21991,6 @@ I.
  हनूमानपि कृताञ्जलिः, सुग्रीवमुपगम्य हे राजन्, ते भयं व्येतु श्रीरामलक्ष्मणावायातौ इत्युवाचेत्यध्याहारेणान्वयः।
 
  २९। योजितं ताभ्यामङ्गीकारं कारितम्। आरोप्य कृत्वा। रा०।
-
-
 
 ततोऽतिहर्षात्[^2502] सुग्रीवः समागम्य रघूत्तमम्।  
 वृक्षशाखां स्वयं छित्त्वा विष्ठराय ददौ मुदा॥३०॥
@@ -23412,8 +22055,6 @@ I.
 
  ३५। विहायसा नीयमानां प्रमदोत्तमामपश्यमिति शेष। रा०।
 
-
-
 निरीक्ष्याधः परित्यज्य क्रोशन्ती तेन रक्षसा।  
 नीत्वाऽहं[^2510] भूषणा न्याशु[^2511] गुहा यामक्षिपं[^2512] प्रभो॥३७॥
 
@@ -23455,8 +22096,6 @@ I.
 विनिश्वसंश्चबहुशो भुजङ्ग इव रोषितः॥  
 अविच्छिन्नाश्रुवेगस्तु सौमित्रिं वीक्ष्य राघवः।  
 परिदेवयितुं दीनो राम समुपचक्रमे॥इत्यादि।४।५।१४-१७।**
-
-
 
 अचिरेणैव ते राम प्राप्यते[^2513] जानकी शुभा।  
 वानरेन्द्रसहायेन हत्वा रावणमाहवे॥४०॥
@@ -23517,8 +22156,6 @@ I.
 
   ४५। नाम्ना मायावीत्यन्वयः। समुपाह्वयत् युद्धायेति शेष। रा०।
 
-
-
 सिंहनादेन महता वाली तु तदमर्षणः।[^2521]  
 निर्ययौ क्रोधताम्राक्षो जघान दृढमुष्टिना॥४६॥
 
@@ -23567,8 +22204,6 @@ I.
 अनिष्पतन्तं तं ज्ञात्वा स्नेहादागतसंभ्रमः॥  
 भ्रातर पुरुषव्याघ्र पापशङ्काऽभवत्तदा।  
 अथ दीर्घस्य कालस्य विलात्तस्माद्विनिःसृतम्॥**
-
-
 
 मासादूर्ध्वं गुहाद्वारान्निर्गत रुधिर बहु।  
 तद् दृष्ट्वा परितप्ताङ्गो मृतो वालीति दुखितः॥४९॥
@@ -23631,8 +22266,6 @@ I.
 
  ५२। शिष्टं पालितम्। परुषं भ्रातृद्वेषिन्नित्यादिवाक्यम्। रा०।
 
-
-
 बहुधा भर्तूसयित्वा मां निजघान[^2533] च[^2534] मुष्टिभिः।  
 ततो निर्गत्य नगरादधाव परया भिया॥५३॥
 
@@ -23692,8 +22325,6 @@ I.
 
  ५७। बलवतां बली सर्वेभ्यो बलवद्भ्योऽप्यधिकबलवान् इत्यर्थः। दुरासदं वालिनमिति शेषः। रा०।
 
-
-
 तच्छ्रुत्वाऽसहमानोऽसौ वाली परमकोपनः।  
 महिषं शृङ्गयोर्धृत्वा पातयामास भूतले॥६०॥
 
@@ -23745,10 +22376,6 @@ I.
 
 **तान् दृष्ट्वापतितान् गात्रे मुनिः शोणितबिन्दुकान्।  
 उपस्पृश्य ददौ शापं क्षेप्तारं वालिनं प्रति॥**
-
-
-
-
 
 राम पश्य शिरस्तस्य दुन्दुभेः पर्वतोपमम्।  
 तत्क्षेपणे यदा शक्तः[^2551] शक्तस्त्वं वालिनो वधे॥६५॥
@@ -23802,8 +22429,6 @@ I.
 
  ६८। चालयित्वा मूलतो बाहुभ्यां कम्पनेन। अञ्जसा अनायासेन। रा०।
 
-
-
 यदि त्वमेकबाणेन विद्ध्वा[^2556]छिद्रं करोषि चेत्[^2557]।  
 हतस्त्वया[^2558] तदा वाली विश्वासो मे प्रजायते॥६९॥
 
@@ -23856,8 +22481,6 @@ I.
 
  ७२। एवमाश्चर्यकर्मणा रामं परमात्मानं ज्ञात्वा स्तौति —देवेति। सङ्गतिं मैत्रीं प्राप्तः। रा०।
 
-
-
 त्वां भजन्ति महात्मानः[^2562] संसारविनिवृत्तये[^2563]।  
 त्वां प्राप्य मोक्षमचिरं[^2564] प्रार्थयेऽह कथं भवम्[^2565]॥७३॥
 
@@ -23906,8 +22529,6 @@ I.
 
  ७५-७६। मृदर्थं भूमिं खनता यथा निधानं धनराशि प्राप्तो भवति, एवमहमानन्दानुभवं तद्रूपं त्वां प्राप्तः। अनाद्यविद्यासंसिद्धं निष्पन्नं विषयवासनारूपं बन्धन संसारप्रवर्त्तकं नश्छिन्नं सनष्टम्। अन्येभ्यो भगवद्दर्शनस्याऽऽधिक्यमाह—यज्ञेत्यादि। यज्ञादिभिरप्यसौ ससंसृतिस्तत्कारणं विषयवासनारूप बन्धनं न जीर्यति अपि तु दार्ढ्यमेव भजते त्वच्चरणदर्शनात्तु संद्यस्तन्नाशमेति। रा०।
 
-
-
 यज्ञदानतप[^2573]ःकर्मपूर्त्तेष्टादिभिरप्यसौ।  
 न जीर्यते पुनर्दाढ्यं भजते संसृतिः प्रभो।  
 त्वत्पाद दर्शनात्[^2574] सद्यो नाशमेति न संशयः॥७६॥
@@ -23944,8 +22565,6 @@ I.
  \[तत्तिष्ठतु मनो राम इत्यादि। तत्तस्मात् हे राम, त्वयि त्वय्येवेत्यर्थः, अन्यत्र दारादिष्वेव। गो०\]
 
  ७८। यस्य वाणी त्वन्नाम गायति स मुच्यते। रा०।
-
-
 
 न काङ्क्षेऽरिजयं[^2577] राम न च दारसुखादिकम्[^2578]।  
 भक्तिमेव सदा काङ्क्षेत्वयि बन्धविमोचनीम्॥७९॥
@@ -23992,17 +22611,17 @@ I.
 
  ८२। गुणविशेषता सत्वादिगुणविशेषवत्तेत्यर्थः। सा गुणविशेषता नानात्वं सुहृन्मित्रार्युदासीनत्वरूपोभेदः।रा०।
 
-
-
 यावन्नानात्वमज्ञानात् तावत् कालकृतं भयम्।  
 अतोऽविद्यामुपास्ते यः सोऽन्धे तमसि मज्जति॥८३॥
 
 मायामूलमिद सर्वं[^2583] पुत्रदारादिबन्धनम्।  
-अतोत्सारय[^2584] मायां [त्वं](http://॑# "ग 'मे'।") दासीं तव रघूत्तम॥८४॥
+अतोत्सारय[^2584] मायां त्वं[^3173] दासीं तव रघूत्तम॥८४॥
 
 [^2583]: "क 'सर्वे', 'च 'विश्व'।"
 
 [^2584]: "ग 'अथोत्-', ड-च-क'अतोत्'।"
+
+[^3173]: "ग 'मे'।"
 
 त्वत्पादपद्मार्पितचित्तवृत्तिस्त्वन्नामसङ्गीतकथा[^2585]च वाणी।  
 त्वद्भक्तसेवानिरतौ करौ मे त्वदङ्गसङ्ग लभतां[^2586] मदङ्गम्॥८५॥
@@ -24027,8 +22646,6 @@ I.
 
  ८५। स्वत्पादपद्मयोरर्पिता चित्तवृत्तिर्येन स ईदृशोऽहं भूयासमिति शेष।त्वन्नामविषयसङ्गीतकथासुवाणी निरता तिष्ठत्वित्यन्वयः। त्वद्भक्तानां सेवायां निरतौ तत्परौ।
 
-
-
 त्वन्मूर्त्तिभक्तान् स्वगुरुंश्च[^2587] चक्षुःपश्यत्वजस्रंस शृणोतु[^2588] कर्णः।  
 त्वज्जन्मकर्माणि च पादयुग्मं व्रजत्वजस्रतव मन्दिराणि॥८६॥
 
@@ -24036,8 +22653,10 @@ I.
 
 [^2588]: "ड-छ'शृणोति'।"
 
-अङ्गानि ते पादरजोविमिश्रतीर्थानि [बिभ्रत्वाहिशत्रुकेतो](http://॑# "छ 'बिभ्रन्त्वहि'।")।  
+अङ्गानि ते पादरजोविमिश्रतीर्थानि बिभ्रत्वाहिशत्रुकेतो[^3174]।  
 शिरस्त्वदीय भवपद्मजाद्यैर्जुष्टं पदं राम नमत्वजस्रम्॥८७॥
+
+[^3174]: "छ 'बिभ्रन्त्वहि'।"
 
 **इति श्रीमदध्यात्मरामायणे उमामहेश्वरसंवादे किष्किन्ध्याकाण्डे प्रथमोऽध्यायः॥१॥**
 
@@ -24056,8 +22675,6 @@ I.
  ८७। अहिशत्रुकेतो गरुडध्वज, मे शिरस्त्वदीयं शिवब्रह्माद्यै सेवित पदं नमतु। रा०।
 
  अहीनां शत्रुर्गरुडः स केतुर्यस्य स। भवपद्मजाद्येः शिवब्रह्मप्रभृतिभि। जुष्टं सेवितम्।
-
-
 
 **द्वितीयोऽध्यायः**
 
@@ -24118,8 +22735,6 @@ I.
 
  ४। भद्रन्ते इत्यनेन मदाज्ञाकरणे एतदेव भद्रं नान्यथेति सूचितम्। रा०।
 
-
-
 तथेति गत्वा सुग्रीवकिष्किन्ध्योपवनं[^2599] द्रुतम्।  
 कृत्वा शब्द महा नादं[^2600] तमाह्व[^2601] यत[^2602] वालिनम्॥५॥
 
@@ -24174,11 +22789,7 @@ I.
 **प्रदक्षिण समावृत्य स तौ दशरथात्मजौ।  
 सुग्रीवो विपुलग्रीव आजगाम गुहामुखम्॥इति।४।१२।२२।**
 
- 
-
 एवमन्यत्रापि गुहापददर्शनाद् वाली गुहायामेव राज्य कृतवानिति परमार्थत प्रतिभाति, तेन च तस्य गुहाया निर्गमनमेव समीचीनमिति विभाव्यते।
-
-
 
 वाली तमपि सुग्रीव एव क्रुद्धौ परस्परम्।  
 अयुध्येतामेकरूपौ दृष्ट्वारामोऽतिविस्मितः।  
@@ -24229,10 +22840,6 @@ I.
 
  ११। प्रत्ययं कृत्वा विश्वासमुत्पाद्य। सत्यवादिन्नित्यादिराक्षेपः। रा०।
 
-
-
-
-
 श्रुत्वा सुग्रीववचनं रामः साधुविलोचनः।  
 आलिङ्ग्यमास्म भैषीस्त्वं दृष्ट्वावामेकरूपिणौ।  
 मित्रघातित्वमाशङ्क्यमुक्तवान् सायकं न हि॥१२॥
@@ -24282,10 +22889,6 @@ I.
 कुरु लक्ष्मण कण्ठेऽस्य सुग्रीवस्य महात्मन॥  
 ततो गिरितटे जातामारुह्य सुदुरासदाम्।  
 लक्ष्मणो गजपुष्पींतां तस्य कण्ठे स सक्तवान्॥इति। ४।१२।४५-४६।**
-
-
-
-
 
 लक्ष्मणस्तु तदा बद्ध्वागच्छ गच्छेति[^2612] सादरम्।  
 प्रेषयामास सुग्रीवं सोऽपि गत्वा तथाऽकरोत्॥१५॥
@@ -24340,8 +22943,6 @@ I.
 
  १९। तद्गता सुग्रीवसहायविषया। करं परित्यज्य गच्छ, अन्तःपुरमिति शेषः। मत्तो रक्षितुं जीवितार्थी कस्तस्य सहायो भवेदित्यन्वय। रा०।
 
-
-
 सहायी यदि सुग्रीवस्ततो हत्वोभयं क्षणात्।  
 आयास्ये[^2617] मा शुचः शूर कथं तिष्ठेद् गृहे रिपुम्।  
 ज्ञात्वा ऽप्याहूयमानं[^2618] हि हत्वायास्यामि[^2619] सुन्दरि॥२०॥
@@ -24351,8 +22952,6 @@ I.
 [^2618]: "घ च '-ऽपाह्वय-'"
 
 [^2619]: " ड-च-छ् 'हत्वा यास्यामि'।"
-
- 
 
 तारोवाच —
 
@@ -24396,8 +22995,6 @@ I.
 प्रवृत्तिस्तेन कथिता चारैरासीन्निवेदिता॥इत्यादि। ४।१५।१५-१६।**
 
  २३। रावणेन हृता सीता तां सह भ्रात्रा मार्गमाण ऋष्यमूकाद्रिमागतः। रा०।
-
-
 
 आगत[^2626] ऋष्यमूकाद्रि सुग्रीवेण समागत।[^2627]  
 चकार तेन सुग्रीवः सख्यञ्चानलसाक्षिकम्॥२४॥
@@ -24453,8 +23050,6 @@ I.
 
  इत्यादिना भर्तृसनस्यैवोपलब्धेः।
 
-
-
 रामो यदि समायातो लक्ष्मणेन समं प्रभुः।  
 तदा रामेण मे[^2634]स्नेहो भविष्यति न सशयः॥३०॥
 
@@ -24500,8 +23095,6 @@ I.
  ३४। कथं तदभिषेचनं कुर्यामिति शेषः। यतोऽहं सर्वलोकानां सम्मतः शूरः। रा०।
 
  ३५। बाली भीतभीतम् अत्यन्तभयसूचकमिदं वाक्य कथ वदेत्। रा०।
-
-
 
 एवमाश्वास्य[^2639] तारां[^2640] तां शोचन्तीमश्रुलोचनाम्।[^2641]  
 गतो वाली समुद्युक्तः सुग्रीवस्य[^2642] वधाय[^2643] सः॥३६॥
@@ -24561,8 +23154,6 @@ I.
  वृक्षषण्डगो वृक्षसमूहमध्यवर्त्ती। यतो वृक्षपण्डगः अतोऽदृश्यः। बाण कर्णपर्यन्तम् आकृष्य धनुषि सन्दधे इत्यन्वयः।
 
  ४१। हरिः रामः वालिनं लक्ष्यं तद्हृदयञ्चनिरीक्ष्येत्यर्थः। अशनिसमं बाणमिति शेषः।
-
-
 
 बिभेद स शरो वक्षो वालिनः कम्पयन् महीम्।  
 उत्पपात महाशब्दं मुञ्चन् स निपपात ह॥४२॥
@@ -24624,8 +23215,6 @@ I.
  ४६। वालिनो विगर्हणं वाल्मीकीये किष्किन्ध्याकाण्डस्य षोडशे सर्गे।
 
  ४७। राजधर्ममिति। तिरोभूयान्येन युद्धं कुर्वति बाणपातश्छलत्वान्न राजधर्म इति भावः। ल्यबभाव आर्षः। रा०।
-
-
 
 यशः कि लप्स्यसे राम चौरवत्[^2656] सत्यसङ्गरः।[^2657]  
 यदि क्षत्रियदायादो मनोर्वंशसमुद्भवः।  
@@ -24691,8 +23280,6 @@ I.
 न्यस्तां सागरतोये वा पाताले वाऽपि मैथिलीम्।  
 आनयेयमहं दर्शे श्वेतामश्वतरीमिव॥इत्यादि। ४।१६।४०-४१।**
 
-
-
 इत्येवं बहु भाषन्तं वालिनं राघवोऽब्रवीत्।  
 धर्मस्य गोप्ता लोकेऽस्मिंश्चरामि सशरासनः।  
 अधर्मकारिणं हत्वा सद्धर्म पालयाम्यहम्॥५२॥
@@ -24731,8 +23318,6 @@ I.
 
  ५३ । अधर्मकारित्वंवालिनः समर्थयते —दुहितेत्यादि।भ्रातु कनिष्ठस्येति
 
-
-
 त्वन्तु भ्रातुः कनिष्ठस्य भार्यायां रमसे बलात्।  
 अतो मया धर्मविदा हतोऽसि वनगोचर॥५४॥
 
@@ -24768,8 +23353,6 @@ I.
 
  ५७। इदानीं त्वां परमेश्वरमिति जाने। अजानता पूर्वमिति शेषः।  
  ५८। तवाग्रत इति त्वत्स्वरूपज्ञानपूर्वक तवाग्रत इत्यर्थः।तव दर्शनं त्वत्स्वरूपज्ञानं महायोगिनामपि दुर्लभम्।
-
-
 
 यन्नाम विवशो गृह्णन् म्रियमाणः परं पदम्।  
 याति साक्षात् स एवाद्य[^2676] मुमूर्षोर्मेपुरः स्थितः॥५९॥
@@ -24828,8 +23411,6 @@ I.
 
  ६२। अमरेन्द्रोऽभवत् तदंशत्वात् तत्रैव लयमापेत्यर्थः। रा०।
 
-
-
 वाली रघूत्तमशराभिहतो विमृष्टो[^2684]  
 रामेण शीतलकरेण सुखा करेण[^2685]।  
 सद्यो विमुच्य कपिदेह मनभ्यलभ्यं[^2686]  
@@ -24851,17 +23432,11 @@ I.
 
 **\[ किष्किन्ध्याकाण्डे द्वितीयाध्यायव्याख्या समाप्ता॥२॥\]**
 
-
-
 ————
-
-
 
 तृतीयोऽध्यायः
 
 ![](../books_images/U-IMG-1726244691Screenshot2024-09-13215442.png)
-
- 
 
 श्रीमहादेव उवाच —
 
@@ -24913,8 +23488,6 @@ I.
 **पुत्रेण मम किं कार्यं किं राज्येन किमात्मना।**  
 **कपिसिंहे महाभागे विनष्टे मम भर्त्तरि॥**
 
-
-
 इत्युक्त्वा त्वरिता तत्र रुदन्ती[^2693] मुक्तमूर्द्वजा।  
 ययौ ताराऽतिशोकार्त्ता यत्र भर्त्तृ[^2694]कलेवरम्॥६॥
 
@@ -24957,8 +23530,6 @@ I.
 
  ९। पतिसालोक्यं पत्युः समानलोकम्। कुतस्तत्र ते गमनवाञ्छा इत्याह — पतिर्मामभिकाङ्क्षते इति। अभिकाङ्क्षते वाञ्छति मत्सान्निध्यमिच्छतीत्यर्थः। कुतस्त्वामभिकाङ्क्षते इत्याह — स्वर्गेऽपीति। एतेन तारायां कपिराजस्य वालिनः सुमहाननुराग आसीदिति ध्वनितम् \।
 
-
-
 पत्नीवियोगजं दुःखमनुभूत त्वयाऽनघ।  
 वालिने मां प्रयच्छाऽऽशु पत्नीदानफलं भवेत्[^2697]॥१०॥
 
@@ -24973,8 +23544,6 @@ I.
 सान्त्वयामास दयया तत्त्वज्ञानोपदेशतः॥१२॥
 
 [^2699]: "च 'दृष्ट्वा'।"
-
-
 
 श्रीराम उवाच —
 
@@ -25007,8 +23576,6 @@ I.
  १३। \[पतिस्तवायमिति। अयं पुरोवर्त्तीदेहः किं तव पति‚ जीवो वा पतिस्तव तत्त्वतो निश्चित्य वद। गो०\]
 
  १४। देहजीवयोपतित्वं विकल्प्य नाद्य इत्याह —पञ्चात्मक इति। पञ्चभूतात्मक इत्यर्थ। इदं जडत्वोपपादकम्। त्वङ्मांसेत्यादिना अत्यन्तबीभत्सत्वं दर्शितम्। कालेन
-
-
 
 मन्यसे जीवमात्मानं जीवस्तर्हि निरामयः[^2702]।  
 न जायते न म्रियते न तिष्ठति न गच्छति।  
@@ -25044,8 +23611,6 @@ I.
  \[मन्यसे जीवमात्मानमिति।द्वितीयपक्षेऽपि शोकावकाशाभाव इत्याह — जीव इत्यादि। यदि जीवस्तर्हि स निरामय एव नित्यत्वात् चिद्रूपत्वाच्च, कुतः शोकविषयः। निरामयत्वे हेतुमाह —न जायते इत्यादि। जीवो न जायते नित्यत्वात्, अत एव न म्रियते, न तिष्ठति न गच्छतीति निष्क्रियत्वात्, अपरिच्छेद्यत्वेन गन्तव्यदेशाभावाच्च। गो०\]
 
  १६। सर्वगतश्चेतनो जीव एक एव, अद्वितीय इति द्वितीयसम्बन्धरहितः। तदेवाऽऽह —
-
-
 
  तारोवाच —
 
@@ -25083,8 +23648,6 @@ I.
 
  १८। उत्तरयति —अहङ्कारादीति। देहेन्द्रियैः सह तेषु इत्यर्थः। अहङ्कारादि —
 
-
-
 मिथ्यारोपितसंसारो न स्वयं विनिवर्त्तते।  
 विषयान्[^2709] ध्यायमानस्य स्वप्ने[^2710] मिथ्यागमो यथा॥१९॥
 
@@ -25115,14 +23678,12 @@ I.
 
  २०। तत्र स्वप्नस्य विषयध्यानवत् संसारस्य मूलकारणमाह —अनादीति। अविद्या अनात्मनि आत्मबुद्धिर्माया वा, अयथार्थकोऽत्यन्तमिथ्याभूतः। रा०।
 
-
-
 मन एव हि संसारो बन्धश्चैव मनः शुभे।  
 आत्मा मनःसमानत्वमेत्यतद्गतबन्धभाक्[^2711]॥२१॥
 
 [^2711]: "ग-ड-च छ 'ततकृत-'।"
 
-यथा विशुद्ध[^2712] स्फटिको बन्धूकादिसमी[^2713][पग](http://॑# "क-ख घ '-पत'।")ः।  
+यथा विशुद्ध[^2712] स्फटिको बन्धूकादिसमी[^2713]पग[^3175]ः।  
 तत्तद्वर्ण युतो[^2714] भाति वस्तुतो नास्ति रञ्जना[^2715]।  
 बुद्धीन्द्रियादिसामीप्यादात्मनः ससृतिर्बलात्॥२२॥
 
@@ -25133,6 +23694,8 @@ I.
 [^2714]: "ख '-युता भान्ति ?', घ'-युगाभाति'।"
 
 [^2715]: "क ख-घ ‘रञ्जनम्’।"
+
+[^3175]: "क-ख घ '-पत'।"
 
 ———————————————————————————————————————————
 
@@ -25152,8 +23715,6 @@ I.
 
 **मन एव मानुषस्य कारणं बन्धमोक्षयो।  
 गुणेषु सक्तं बन्धाय रतं वा पुंसि मुक्तये॥ इति। गो०\]**
-
-
 
 आत्मा स्वलिङ्गन्तु[^2716] मनः परिगृह्य तदुद्भवान्[^2717]।  
 कामाञ् जुषन् गुणैर्बद्धः ससारे वर्त्ततेऽवशः॥२३॥
@@ -25190,8 +23751,6 @@ I.
 
  २३-२४। तदेवाऽऽह —आत्मेति। मनसो जडत्वेन ज्ञानादिजनकत्वासम्भवात् चेतनस्याऽऽत्मनो लिङ्गमनुमापकं मनोऽन्त करणं परिगृह्यते। नाविवेकं प्राप्य तदुद्भवान् ततो जातान् कामान् विषयान् जुषन् गुणैस्तदीय रागद्वेषादिभिर्बद्ध इवावशः संसारे वर्त्तते। विषयाणां मन-उद्भवत्वं दर्शयति — आदाविति। गुणान् रागद्वेषादीन्। ततो रागद्वेषादितः। कर्माणि सृष्टिवदिति शेषः। तत्कर्मभेदानाह — शुक्लेत्यादि। शुक्लकर्माणि हिंसादिरहितजपध्यानादिरूपाणि, लोहितानि हिंसामिश्रफलादीनि, कृष्णानि पापकर्माणि। तत्समानतःकर्मस्वरूपतुल्या
 
-
-
 सर्वोपसंहृतौ[^2722] जीवो वासनाभिः स्वकर्मभिः।  
 अनाद्यविद्यावशगस्तिष्ठत्यभिनिवेशतः॥२५॥
 
@@ -25221,8 +23780,6 @@ I.
  २६। वासनाश्चमानसानि कर्माणि च तैःसह तद्युक्त एव जायते वर्षाकाले मण्डूकवत् प्रादुर्भवति। एव सृष्टिप्रलययोर्घटीयन्त्रमिव वर्त्तमानस्तिष्ठति। रा०।
 
  \[सृष्टेर्धारावाहिकत्वमाह —सृष्टिकाल इत्यादि। पुन सृष्टिकाले प्राप्ते सति पूर्ववासनायुक्तमानसैःसह। बहुवचनमिन्द्रियादीनामुपसंग्रहार्थम्। पुनरप्येवं कर्मानुरूपं देवतिर्यगादिरूपेण जायते। अवशः कर्माधीनत्वात्। घटीयन्त्रं कूपाज्जलोद्धरणाय गले रज्जुबद्धः कलसः, स यथा कर्त्तृवशादुन्मज्जति निमज्जति च तथेत्यर्थ। गो०\]
-
-
 
 यदा पुण्यविशेषेण लभते सङ्गतिं सताम्।  
 मद्भक्तानां सुशान्तानां तदा मद्विषया मतिः॥२७॥
@@ -25270,8 +23827,6 @@ I.
 
  २९-३०। तदा तादृशवैराग्यादौ जाते आचार्यप्रसादेन तत्त्वमस्यादिवाक्यार्थज्ञानतः श्रवणमननरूपात् क्षणात् उत्सवात् श्रवणादिविषयोत्साहात् पुनरनुष्ठानादिति यावत्, देहादिभ्यः पृथक्स्थितं सत्यमानन्दरूपम् अद्वितीयमात्मानं स्वात्मानुभवतः स्वात्मविषयादीदृशं
 
-
-
 एवं मयोदितं सम्यगालोचयति योऽनिशम्।  
 तस्य संसारदुःखानि न स्पृशन्ति कदाचन॥३१॥
 
@@ -25311,8 +23866,6 @@ I.
  ३३।मे मया रूपं दर्शितम्, स्वरूपं दर्शितमित्यर्थः। अत्रतारायै भगवता विश्वरूपदर्शनं कारितमिति ध्वनयति। यद्वा दर्शितमित्थं बोधितमित्यर्थः। रा०।
 
  ३४। मद्रूपं परिदृश्यमानं रूपं दर्शितम्, विश्वरूपञ्च आलोचय विचारय। प्रवाहपतितं
-
-
 
 श्रीरामेणोदितं सर्वं श्रुत्वा ताराऽतिविस्मिता।  
 देहाभिमानजं शोकं त्यक्त्वा नत्वा रघूत्तमम्।[^2734]  
@@ -25369,8 +23922,6 @@ I.
 
  ३९। तथेतीत्यस्याङ्गीकृत्येति शेषः। परिणीय उत्थाप्य पुष्पविमानतुल्ये वाहने सर्वराजोपचारकैर्युक्तं वालिनं क्षिप्त्वा।
 
-
-
 भेरीदुन्दुभिनिर्घोषैर्ब्राह्मणैर्मन्त्रिभिः सह।  
 यूथपैर्वानरैःपौरस्तारया चाङ्गदेन च।  
 गत्वा चकार[^2743] तत् सर्वं यथाशास्त्रं प्रयत्नतः॥४०॥
@@ -25419,8 +23970,6 @@ I.
 
  ४३। त्वमेवाहम् इत्यनेन त्वया क्रियमाणराज्यभोग एव मम भोग इति सूचितम्। किञ्चानासक्तो राज्यं भुङ्क्ष्व, ईश्वरप्रेरितोऽहं राज्य कुर्वे इति मत्या च, तादृश्या बुद्ध्या क्रियमाणयाक्रियया भगवांस्तुष्यत्येवेति ध्वनितम्। पुरराज्याधिपत्ये किष्किन्ध्यापुरराज्याधिपत्ये। रा०।
 
-
-
 नगरं न प्रवेक्ष्यामि चतुर्दश समाः सग्वे।  
 आगमिष्यति मे[^2748]भ्राता लक्ष्मणः पत्तनं तव।  
 अङ्गद यौवराज्ये त्वमभिषेचय सादरम्॥४४॥
@@ -25466,8 +24015,6 @@ I.
 **तच् श्रुत्वा माल्यवत्पृष्ठे चातुर्मास्यं चकार सः। ९।५।**
 
  इत्यग्निपुराणवचनमपि वर्षाकालस्य मासचतुष्टयात्मकत्वमतमेव समर्थयते I
-
-
 
 साष्टाङ्ग प्रणिपत्याऽऽह सुग्रीवो रामपादयोः।  
 यदाज्ञापयसे[^2753] देव[^2754] तत्[^2755] तथैव करोम्यहम्॥४६॥
@@ -25535,8 +24082,6 @@ I.
 
  ५०। गह्वरं गुहाम्। फलमूलानि समीपगानि यस्य तत्। रा०।
 
-
-
 दिव्यमूलफलपुष्पसयुते मौक्तिकोपमजलौघपल्वले।  
 चित्रवर्णमृगपक्षिशोभिते पर्वते रघुकुलोत्तमोऽवसत्[^2765]॥४१॥
 
@@ -25561,13 +24106,9 @@ I.
 
  ५१। मौक्तिकोपम जलौघो जलसमूहो येषु तादृशानि पल्वलानि यस्मिंस्तादृशे पर्वते इत्यर्थः। नानावर्णैर्मृगः पक्षिभिश्च शोभिते। रा०।
 
-
-
 **चतुर्थाऽध्यायः**
 
 **![](../books_images/U-IMG-1726667242Screenshot2024-09-18191629.png)**
-
- 
 
 श्रीमहादेव
 
@@ -25587,11 +24128,13 @@ I.
 
 [^2769]: "ग ड च छ 'विद्यु-।"
 
-[नवघाससमास्वादहृष्टपुष्टमृगद्विजा](http://॑# "क ख ड च छ 'नवधाम समासाद्य', घ'नवघामं समास्वाद्य'।")ः।  
+नवघाससमास्वादहृष्टपुष्टमृगद्विजा[^3176]ः।  
 धावन्तः परितो राम वीक्ष्य विस्फारितेक्षणाः।  
 न चलन्ति सदा ध्याननिष्ठा[^2770] इव मुनीश्वराः॥३॥
 
 [^2770]: "'ध्यान नि-'।"
+
+[^3176]: "क ख ड च छ 'नवधाम समासाद्य', घ'नवघामं समास्वाद्य'।"
 
 —————————————————————————————————————————
 
@@ -25610,8 +24153,6 @@ I.
  अत्र 'विद्युद् गर्भे येषाम्' इति नरोत्तमव्याख्यानानुसारिपाठमनुसरता छन्दोभङ्गदोषो दुष्परिहर इति स पाठो नाङ्गीकृतः।
 
  ३। नवघासं नवतृणम्। विस्फारितेक्षणा भगवत्सौन्दर्यदर्शनायेति भावः। तादृशा सन्तो ध्याननिष्ठा मुनीश्वरा इव न चलन्ति। रा०।
-
-
 
 रामं मानुषरूपेण गिरिकाननभूमिषु।  
 चरन्तं परमात्मानं ज्ञात्वा सिद्धगणा भुवि।  
@@ -25643,8 +24184,6 @@ I.
 
 [^2775]: "च छ ‘भ्रातुर्ब्रू-’।"
 
- 
-
 श्रीराम उवाच —
 
 मम पूजाविधानस्य नान्तोऽस्ति रघुनन्दन।  
@@ -25665,8 +24204,6 @@ I.
  ८। इदमेव क्रियामार्गेणाऽऽराधनमेव। योगिन एवाऽऽह — नारद इत्यादि।
 
  \[नारदोऽपि तथा व्यास इति। व्यासावतारात् प्राग्भवत्वेन श्रीरामावतारस्य व्यास इति वृद्धव्यासो न तु कृष्णद्वैपायनः, अष्टाविंशतिव्यासानां पराशरेणोक्तत्वात्। गो०\]
-
-
 
 स्वगृह्योक्तप्रकारेण[^2776] द्विजत्व प्राप्य मानवः।  
 सकाशात् सद्गुरोर्मन्त्रं लब्ध्वा मद्भक्तिसंयुतः।  
@@ -25713,8 +24250,6 @@ I.
  इत्याद्युक्तेः।
 
  १३। प्रातः स्नानमिति सकलप्रातःकृत्योपलक्षणम्।वेदेति। द्विजो वेदोदितैः,शूद्रादिस्तन्त्रोदितैः।मृल्लेपनं सकलस्नानविधेरुपलक्षणम्। तेन स्नानं कुर्वन्नित्यन्वयः। सन्ध्यादि आदिनाहोमतर्पणादि। रा०।
-
-
 
 सङ्कल्पमादौ कुर्वीत सिद्ध्यर्थं[^2779] कर्मणां सुधीः।  
 स्वगुरुंपूजयेद् भक्त्या मद्बुद्ध्यापूजको मम॥१४॥
@@ -25768,8 +24303,6 @@ I.
 
  १७। आधारान्तरे पूजाविशेषमाह —– अग्नाविति। अग्नौ तत्तद्देवतामन्त्रेण होम एव
 
-
-
 पूजाद्रव्याणि सर्वाणि सम्पाद्यैवं[^2786] समारभेत्।  
 चेलाजिनकुशैः[^2787] सम्यगासनं परिकल्पयेत्॥१८॥
 
@@ -25820,8 +24353,6 @@ I.
 
  २०। केशवादिचतुर्विंशतिनामभिरित्यर्थः। स च नारदपञ्चरात्रादौ स्पष्टः। तत्त्वन्यासोऽपि तत्रैवोक्तः।मन्मूर्त्तिपञ्जरन्यासो विष्णुपञ्जरस्तोत्रोक्तो महान्यास इति संप्रदायः। मन्त्रन्यासं मन्त्रवर्णैस्तत्तत्कल्पोक्त षडङ्गादिन्यासम्। प्रतिमादावपीति, 'यथात्मनि तथा देवे' इत्युक्तेः। रा०।
 
-
-
 कलशं स्वपुरो[^2792] वामे क्षिपेत् पुष्पादि दक्षिणे।  
 अर्घ्यपाद्यप्रदानार्थं मधुपर्कार्थमेव च।  
 तथैवाऽऽचमनार्थन्तु न्यसेत् पात्रचतुष्टयम्॥२१॥
@@ -25868,8 +24399,6 @@ I.
  २२। जीवसज्ञितां मत्कलामित्यनेन चेतन सर्वत्रैक एवेति बोधितम्। युक्तञ्चैतत् — व्यापकेनैकेनैवचेत्(ने?) नोपपत्तावनेकतत्कल्पनाया मानाभावात्। प्रतिकर्मव्यवस्था त्वन्त करणभेदेनेवोपपन्नेति। हृत्पह्मे तां ध्यायेत्। तया व्याप्तमखिलं स्वदेहं भावयेत्। तथा भावयित्वा तामेव मत्कलां प्रतिमादिष्वावाहयेत्। तदावाहनेन तामपि चेतनत्वेन ध्यात्वा। रा०।
 
  २३। यावच्छक्यैरुपचारैर्वा षोडशभिः पञ्चभिर्वा। तु पादपूरणार्थः। अमाययाअदम्भादिना मां पूजयेत्। रा०।
-
-
 
 विभवे सति कर्पूरकुङ्कुमागुरुचन्दनैः।  
 अर्चयेन्मन्त्रवन्नित्य सुगन्धकुसुमैः शुभैः॥२४॥
@@ -25924,8 +24453,6 @@ I.
 **कालाम्भोधरकान्तिकान्तमनिशं वीरासनाध्यासिनं  
 मुद्रां ज्ञानमयीं दधानमपरं हस्ताम्बुजं जानुनि।**
 
-
-
 पार्षदेभ्यो बलिं दत्त्वा होमशेषं समापयेत्।  
 ततो जपं प्रकुर्वीत ध्यायन्मां यतवाक्[^2804] स्मरन्॥२९॥
 
@@ -25974,8 +24501,6 @@ I.
  ३२। तं गृहीत्वा शिरसि स्थापयित्वा भावनाभाविते मत्पदे पाणिभ्यां मूर्ध्नि गृहीत्वा धृत्वा। इत्युक्त्वा प्रणमेदित्यन्वयः। प्रत्यग्ज्योतिषि स्वहृदयस्थे, यत एव ध्याता जीवकला प्रतिमायामावाहिता पूर्वम्, तत्रैवोद्वासयेत् तत्रैव प्रविष्टां ध्यायेत्, एतदेव विसर्जनम्। रा०।
 
  ३३। इहामुत्र च ऐहलौकिकीं पारलौकिकीञ्चेत्यर्थ। रा०।
-
-
 
 मद्भक्तो यदि मामेवं पूजाञ्चैव दिने दिने।  
 करोति मम सारूप्यं प्राप्नोत्येव न सशयः॥३४॥
@@ -26030,8 +24555,6 @@ I.
 हितं तथ्यञ्च पथ्यञ्च धर्मकामार्थहेतुमत्॥  
 प्रणयप्रीतिसंयुक्तं विश्वासकृतनिश्चय।  
 हरीश्वरमुपामन्त्र्य हनूमान् वाक्यमब्रवीत्॥इत्यादि। ४।२८।६-८।**
-
-
 
 शृणु राजन्[^2820] प्रवक्ष्यामि तवैव हितमुत्तमम्।  
 रामेण ते कृतः पूर्वमुपकारो ह्यनुत्तमः।  
@@ -26091,8 +24614,6 @@ I.
 दिक्षु सर्वासु सैन्यानां सर्वेषां कुरु संग्रहम्।  
 यथा सेनाः समग्रा मे यूथपालाश्च सर्वशः॥**
 
-
-
 सप्तद्वीपगतान् सर्वान् वानरानानयन्तु ते।  
 पक्षमध्ये समायान्तु सर्वे वानरपुङ्गवाः॥४५॥
 
@@ -26144,13 +24665,9 @@ I.
 
  ४८। अगणिता गुणा सत्त्वं पराक्रमश्च येषा तान्। पर्वताकारसदृश रूपमाकारो येषां तान्। पवनस्य वायोर्हित अतिप्रियः कुमारो हनूमान्।दानमानादितृप्तानित्यनेनावश्यं कार्यसिद्धिकारित्व दर्शितम्। रा०।
 
-
-
 **पञ्चमोऽध्यायः**
 
 **![](../books_images/U-IMG-1726470114Screenshot2024-09-13215442.png)**
-
- 
 
 श्रीमहादेव उवाच —
 
@@ -26196,8 +24713,6 @@ I.
 या पुरा कलहंसानां स्वनेन कलभाषिणी॥  
 बोध्यते चारुसर्वाङ्गी साऽद्य मे बोध्यते कथम्।  
 क्रीडतां चक्रवाकाणां विश्रम्य सहचारिणाम्॥**
-
-
 
 चन्द्रोऽपि भानुवद्भाति मम चन्द्राननां[^2838] विना।  
 चन्द्र त्व जानकीं स्पृष्ट्वाकरैर्मांस्पृश शीतलैः॥६॥
@@ -26249,8 +24764,6 @@ I.
 
  १०। इदानीमेवेत्याद्युक्त्वाराजाज्ञां विनेदृशकार्यकरणमनुचितमिति प्रतिसन्धायाऽऽह — मामाज्ञापयेति। ईदृशे स्थले प्रथमतोऽप्रतिसन्धानं तु रामरोषेण लक्ष्मणस्यापि रोषाविष्टत्वात्, अतो गर्भितत्व न दोषः। रा०।
 
-
-
 इत्युक्ता धनुरादाय खड्ग तूणीरमेव च।  
 गन्तुमभ्युद्यत वीक्ष्य[^2818] रामो लक्ष्मणमब्रवीत्॥११॥
 
@@ -26294,8 +24807,6 @@ I.
 एक एव मया वाली बाणेन निह्रतः पुरा।  
 त्वां तु सत्यादपक्रान्तं हनिष्यामि सबान्धवम्॥इति ४।३०।१६-२१।**
 
-
-
 इत्युक्ता शीघ्रमादाय सुग्रीवप्रतिभाषितम्।  
 आगच्छ[^2847] पश्चाद् यत् कार्यं तत् करिष्याम्यसंशयम्[^2848]॥१३॥
 
@@ -26337,8 +24848,6 @@ I.
  १५। नित्यलक्ष्मीक अविभक्ततन्नामकमायाशक्ति, तत्सम्बोधनादेव सर्वज्ञ । स्वतस्तु विज्ञानात्मा निर्विषयज्ञानस्वरूपोऽपि सीतामनुशुशोचेति विरोध, प्राकृतोऽज्ञो जनः प्राकृतां संयोगवियोगशालिनीम्। रा०।
 
  १६। तत्र शङ्कते बुद्धेत्यादिना कथमुद्भवेदित्यन्तेन। मायाकार्यातिवर्त्तिनः तदस्पृष्टस्य, अत एव रागादिरहितस्य।
-
-
 
 ब्रह्मणोक्तमृतं कत्तु राज्ञो दशरथस्य हि।[^2853]  
 तपसः फलदानाय जातो मानुषवेषधृक्[^2854]॥१७॥
@@ -26382,8 +24891,6 @@ I.
 
  २०। लोकानां क्रोधादिकालिकस्य व्यवहारस्य सिद्धये ज्ञानायार्थस्य तत्फलस्य च सिद्धये तत्तत्कालोचितं व्यवहारं गृह्णन् व्यवहरन् प्रजाः मोहयति, रामोऽप्येवं व्यवहृतवान्तस्मादेवं व्यवहारो युक्त इति बोधयति। मोहकत्वञ्चास्य निवृत्तिमार्गविपरीतत्वेन। रा०।
 
-
-
 अनुरक्त इवाशेषगुणेषु गुणवर्जितः।  
 विज्ञानमूर्त्तिरज्ञानशक्तिसाक्षी[^2857] गुणात्मकः।  
 अतः कामादिभिनित्यमविलिप्तो[^2858] यथा नभः॥२१॥
@@ -26422,8 +24929,6 @@ I.
  \[विज्ञानशक्तिर्बुद्धिस्तस्याः साक्षी द्रष्टा। गुणात्मको गुणानां नियन्ता। अतः कामादिरहितः, यथा नभः सर्वगतमपि न क्वचिदासक्त तथेत्यर्थः। गो०\]
 
  २२। नन्वेवभूतोऽस्माभिर्न गृह्यते किम्? तत्राऽऽह —विन्दन्तीति। केचिदेव सनकादयो मुनयो जानन्ति श्रुतिवाक्यैर्विन्दन्ति लभन्ते, अपरोक्षतयाऽपि साक्षात्कुर्वन्तीति यावत्। तत् किमन्ये न जानन्त्येव सर्वथा? नेत्याह —तद्भक्ता इति। ईदृशाः सम्यग् जानन्त्येवेति भाव। तत्र हेतुमाह —भक्तेति। जायते ज्ञानविषयो जायत इत्यर्थ। रा०।
-
-
 
 तं दृष्ट्वाप्राकृतास्तत्र वानरा वप्रमूर्द्धनि।  
 चक्रुः किलकिलाशब्द धृतपाषाणपादपाः॥२४॥
@@ -26483,8 +24988,6 @@ I.
 
  २८। लक्ष्मणो बहिः स्थित इति न्यवेदयदित्यन्वयः। रा०।
 
-
-
 गच्छ त्वमङ्गदेनाऽऽशु लक्ष्मणं विनयान्वितः।  
 सान्त्वयन् कोपित वीर शनैरानय मन्दिरम्॥३०॥
 
@@ -26530,8 +25033,6 @@ I.
 
  ३४। गृह्येत्यार्षम्। रा०।
 
-
-
 पश्यस्तत्रमहा सौधान्[^2876] यूथपानां समन्तत।  
 जगाम भवन राज्ञ सुरेन्द्रभवनोपमम्॥३५॥
 
@@ -26549,8 +25050,10 @@ I.
 
 [^2880]: "ड ‘-वादिनी’।"
 
-[एहि](http://॑# "क-ख-घ छ‘याहि’।") देवर भद्रं ते साधुस्त्वं भक्तवत्सलः।  
+एहि[^3177] देवर भद्रं ते साधुस्त्वं भक्तवत्सलः।  
 किमर्थं कोपमाकार्षीभक्तेभृत्ये कपीश्वरे॥३७॥
+
+[^3177]: "क-ख-घ छ‘याहि’।"
 
 बहुकालमनाश्वासं दुःखमेवानुभूतवान्।  
 इदानीं बहुदुःखौघाद् भवद्भिरभिरक्षितः॥३८॥
@@ -26581,8 +25084,6 @@ I.
  ३९। यतः प्राप्तसौख्योऽतः कामासक्तोऽपि सेवार्थं नागत इति न, अपि त्वागत एव। काकुरत्र। रा०।
 
  ४०। कथमागतस्तत्राऽऽ—आगमिष्यन्तीति। रा०।
-
-
 
 **सुग्रीवः स्वयमागत्य सर्ववानरयूथपै।  
 वधयिष्यति[^2882] दैत्यौघान् रावणञ्च हनिष्यति।  
@@ -26643,8 +25144,6 @@ I.
  ४५। मदविह्वलितेक्षण मदविकलितनेत्रम्।
 
  ४६।प्रतीक्षते त्वां हन्तुमिति शेष। रा०।
-
-
 
 एवमत्यन्तपरुषं वदन्तं लक्ष्मणं तदा[^2889]।  
 उवाच हनुमान् वीरः कथमेव प्रभाषसे॥४७॥
@@ -26717,8 +25216,6 @@ I.
 
  ५२। यत् किञ्चिन्मयोदितं तत् क्षमस्वेत्यन्वय। प्रणयात् प्रणयकोपात्। रा०
 
-
-
 ** षष्टोऽध्यायः**
 
 ![](../books_images/U-IMG-1725777716090107-removebg-preview.png)
@@ -26746,8 +25243,6 @@ I.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 १। नरो०। चैलाजिनधरमिति। चेलस्य वस्त्रस्य खण्ड चैलम्, अजिनं चर्म।जटाभी रचितो मौलि किरीटं चूढावा तेन विराजितस्तं तथा।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -26762,8 +25257,6 @@ I.
 **इत्युक्त्वाकाञ्चन यानं सुग्रीव सूर्यसन्निभम्।  
 बृहद्भिर्हरिभिर्युक्तमारुरोह सलक्ष्मण॥इति। ४।३८।२९-३०।**
 
- 
-
 अग्रेऽपि—
 
 **स गत्वा क्षणमात्रेण माल्यवन्तं महागिरिम्।  
@@ -26772,11 +25265,7 @@ I.
 **सोऽवतीर्य च सुग्रीव शिविकाया सलक्ष्मण।  
 मूर्ध्नि कृताञ्जलि श्रीमान् राममभ्याजगाम ह॥इति ४।३८।३६-३७॥**
 
- 
-
 एवं पाश्चात्त्येऽपि (४।३८)।
-
-
 
 रामः सुग्रीवमालिङ्ग्य पृष्ट्वाऽनामयमन्तिके।  
 स्थापयित्वा यथान्यायं पूजयामास धर्मवित्॥४॥
@@ -26827,8 +25316,6 @@ I.
  ६। कुलाचला हिमालयादयः सप्त पर्वता। रा०।
 
  वानरान् विशिनष्टि—कुलाचलेति। कामरूपिणो हरय समायान्तीति द्वाभ्यामन्वयः।वानराणामागमनं वाल्मीकीये किष्किन्ध्याकाण्डीयोनचत्वारिंशसर्गे।
-
-
 
 केचिदञ्जनकूटाभाः केचित् कनकसन्निभाः।  
 केचिद्रक्तान्तवदना[^2915] दीर्घवालास्तथाऽपरे॥८॥
@@ -26885,8 +25372,6 @@ I.
 
 **गयं गवाक्षं गवयं कुमुदभृषभं तथा।  
 भैन्दञ्च द्विविदञ्चैव शरभं गन्धमादनम्॥ इति।४।४१।४।**
-
-
 
 वली[^2921]मुखो दधिमुखः[^2922] सुपेणस्तार एव च।  
 केशरी[^2923] च महासत्त्वः पिता हनुमतो बली॥१३॥
@@ -26955,8 +25440,6 @@ I.
 
  १९। वानराणां प्रेषण वाल्मीकीये किष्किन्ध्याकाण्डे चत्वारिंशसर्गादारभ्य चतुश्चत्वरिंशसर्गान्ते अध्यायपञ्चके वर्णितम्।
 
-
-
 दिक्षु सर्वासु विविधान् वानरान् प्रेष्य सत्वरम्।  
 दक्षिणां दिशमत्यर्थं प्रयत्नेन महाबलान्॥२०॥
 
@@ -27003,8 +25486,6 @@ I.
 
 अवगम्य तु वैदेही निलयं रावणस्य च।  
 मासादूर्द्ध न वस्तव्यं वसन् वध्यो भवेन्मम॥इति।४।४४।१२५।
-
-
 
 सीतामदृष्ट्वा यदि वो मासादूर्ध्व दिनं भवेत्।  
 तदा प्राणान्तिक दण्डं मत्त प्राप्स्यथ वानरा॥२३॥
@@ -27060,8 +25541,6 @@ I.
 
  २७। कपीनां राज्ञा सुग्रीवेण। परिमार्गणे अन्वेषणे, विसृष्टा नियुक्ताः। तत्र तत्रसुग्रीवोक्तेषु स्थानेष्वित्यर्थ। वानराणां दिग्भ्रमणप्रवृत्तिर्वाल्मीकीये—
 
-
-
 **भ्रमन्तो[^2940] विन्ध्यगहने ददृशुपर्वतोपमम्।  
 राक्षसं भीषणाकारं भक्षयन्तं मृगान् गजान्॥२८॥**
 
@@ -27109,8 +25588,6 @@ I.
 
  इत्यादिना च अङ्गदेन तस्य विनिपातनम्।
 
-
-
 रावणोऽयमिति ज्ञात्वा केचिद् वानरपुङ्गवाः।  
 जघ्नुः किलकिलाशब्दं मुञ्चन्तो मुष्टिभिः क्षणात्॥२६॥
 
@@ -27130,8 +25607,6 @@ I.
 सर्वे परस्परं धृत्वा बाहून् बाहुभिरुत्सुकाः॥३२॥**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 ३१। नरो०। शुष्कं कण्ठौष्ठतालुकं येषां ते तथा। तृणानि च गुल्माश्चाप्रकाण्डवृक्षास्तैरावृतं वेष्टितम्।
 
@@ -27161,8 +25636,6 @@ I.
  ३२। उत्सुका जलविपयत्कण्ठावन्त इत्यर्थ।परम्पर बाहुभिर्वाहृन्धृत्वा सर्वेहनुमन्तमन्वयु।अत्यन्धकारादेततकरणम्। रा०।
 
  अत्र सलिलम् आस्ते, अत पिपासार्त्ता वयम् इमां महागुहा प्रविशाम पिपासाप्रशमायेत्यर्थः। अत्रापि वाल्मीकीये—
-
-
 
 अन्धकारे महद् दूरं गत्वाऽपश्यन्[^2942] कपीश्वराः।
 
@@ -27208,8 +25681,6 @@ I.
  विलवैचित्र्यवर्णनं वाल्मीकीये किष्किन्ध्याकाण्डे पञ्चाशसर्गे।
 
 **\[मधुद्रोणसमन्वितानिति मधुद्रोण क्षौद्रपटलं तद्युक्तान्। गो०\]**
-
-
 
 गृहान्[^2945] सर्वगुणोपेतान् मणिरत्नादि[^2946]पूरितान्।  
 दिव्यभक्ष्यान्नसहितान् मानुषैः परिवर्जितान्॥३४॥
@@ -27262,8 +25733,6 @@ I.
 
 **पुरा दानवमुख्यानां विश्वकर्मा बभूव सः।  
 तेनेदं काञ्चनमयं निर्मितं भवनोत्तमम्॥ इति। ४।५१।११-१२।**
-
-
 
 दृष्ट्वा तान् वानरान् देवी प्राह यूयं किमा[^2950]गता।  
 कुतो वा कस्य दूता[^2951] वा मत्स्थानं किं प्रधर्षथ॥३७॥
@@ -27320,8 +25789,6 @@ I.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ३७। किं किमर्थमागता। कुत आगता इति शेष। मत्स्थानं किं प्रधर्षथ किमितिबलात् प्रविष्टा। रा०।  
  ४२। अत्राऽऽहवाल्मीकिः—
 
@@ -27330,8 +25797,6 @@ I.
 
 **प्रतिगृह्य तु ते तस्यास्तदातिथ्य वनेचरा।  
 विधिवद् भक्षयामासुस्तां चैव समपूजयन्॥ इति।४।५१।२१-२२।**
-
-
 
 तत प्राह हनूमन्तं योगिनी दिव्यदर्शना।  
 हेमा नाम पुरा दिव्यरूपिणी विश्वकर्मणः।  
@@ -27386,8 +25851,6 @@ I.
 तपोयोगप्रभावेण निमेषान्तरचारिणी॥४।५१।२७-२८।**
 
 ** **इत्यादिना च तत्र गुहायामेव पुनः प्रवेश।
-
-
 
 त्रेतायुगे दाशरथिर्भूत्वा नारायणोऽव्ययः।  
 भूभारहरणार्थाय विचरिष्यति कानने॥४८॥
@@ -27445,8 +25908,6 @@ I.
 
  ५१। वेगात् वेगादिव क्षणेनैवेत्यर्थ। पूर्वस्थित वनं गता। रा०।
 
-
-
 दासी तवाहं राजेन्द्र दर्शनार्थमिहाऽऽगता।  
 बहुवर्षसहस्राणि तप्तं मे दुश्वरं तप।  
 गुहायां दर्शनार्थं ते फलितं मे[^2971]ऽद्य तत् तपः॥५३॥
@@ -27483,8 +25944,6 @@ I.
 
  ५५।जवनिका नटानां वेशग्रहणस्थानावरणं पटनिर्मितम्।नटाश्च तत्र प्रविष्टास्तयाच्छन्ना भवन्ति तद्वद् योगमायया त्व छन्नो गुप्त. कृत सन्। अज्ञानदृशां तैरित्यर्थः, न लक्ष्यसे।रूपधृक् तस्माद्रामादिरूपधृक् शैलूषो नट इव। स यदा रामादिवेश कृत्वा रामाद्यनुकरणकरोति तदा राम इत्येव गृह्यते न तु पूर्वदृष्टोऽपि तद्रूपेण तद्वत्। रा०।
 
-
-
 महाभागवतानां त्वं भक्तियोगविधित्सया।  
 अवतीर्णोऽसि भगवन् कथं जानामि तामसी॥५६॥
 
@@ -27510,8 +25969,6 @@ I.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 \[योगमायैव जवनिका अन्त पटस्तया आच्छन्न। मानुषस्य विग्रहो देहो यस्यस। वेशदृक् अन्यवेशधारी शैलूषो नट इव। गो०\]
 
  ५६। \[नन्वहं चेद् ब्रह्म मायाधीशन्तर्हि किं नटवदवतारेण तत्राऽऽह—महाभागवतानामिति। तवभक्तानां भक्तियोगविधानेच्छया अवतीर्णोऽसि, त्वत्कथाश्रवणस्मरणादिनाभक्ता ससार तरिष्यन्तीत्येतदर्थं त्वमवतीर्ण इत्याशय। तामसी तमोगुणप्रधानाऽहं कथं त्वांजानामि। गो०\]
@@ -27523,8 +25980,6 @@ I.
  \[लोके भुवने य कश्चिदतिविरलस्तव तत्त्वं याथार्थ्यं जानातु।मम तु हृत् हृदयमेवआलयो गृहं तत्र दृश्यमानमेतद्रूपमेव सदा भातु। गो०\]
 
  ५८। मोक्षदर्शनं मोक्षोपायदर्शकं पादयुगलं ते त्वया दर्शितमतोऽन्याकाङ्क्षा मेनास्तीत्यर्थं। तदेव विशिनष्टि—अदर्शनमिति। भवार्णानां भवार्णवानामित्यर्थ। वर्णलोपआर्ष।सन्मार्गस्तत्त्वज्ञानोपायः। रा०।
-
-
 
 धनपुत्रकलत्रादिविभूतिपरिदर्पितः[^2980]।  
 अकिञ्चनधनं[^2981] त्वाद्य नाभिधातुं जनोऽर्हति॥५९॥
@@ -27562,8 +26017,6 @@ I.
 
  \[निवृत्तेत्यादि। निवृत्तो गुणानां मार्गो रागादिर्यस्मिन् स तस्मै, यद्वा गुणेभ्यो निवृत्तानिवृत्तगुणा निर्गुणास्तेषां मार्गाय प्राप्याय। निष्किञ्चनानां परधनस्वरूपाय गुणात्मने गुणनियन्त्रे। गो०\]
 
-
-
 काल[^2985]रूपिणमीशानमादिमध्यान्तवर्जितम्।  
 समं चरन्तं सर्वत्र मन्ये त्वां पुरुषं परम्॥६१॥
 
@@ -27594,8 +26047,6 @@ I.
  ननु दशरथात्मजं मां कथमेवं स्तौषीति चेत्तत्राऽऽह—त्वां परम् आद्यं पुरुषं मन्ये, न तुकस्याप्यात्मजम्, सर्वत्र समं तुल्यं यथा स्यात्तथा चरन्तं वर्त्तमानम्। ननु सुग्रीवसाहाय्यकरणाद् वालिवधाच्च कथं समत्वं तत्राऽऽह—देवेत्यादि। हे देव स्वप्रकाश, ते तव नृविडम्बनचेष्टित मैत्रीकरणं शोकादि वा कश्चिन्न वेद।
 
  ६२। नृविडम्बन मनुष्यव्यवहारानुकरणरूपमनुकरणम् एतदिति कश्चिन्न वेद। समत्वादेवऽऽह—न ते इत्यादि। परो भिन्न सर्वरूपत्वात्तवेति भावः। यद्वादयितद्वेष्याभ्यां परउदासीन, तथाविधं शत्रुमित्रोदासीनवन्तम्। यथा रावणः शत्रुर्विभीषणो मित्रमन्ये उदासीनाइति। रा०।
-
-
 
 अजस्याकत्तु[^2989]रीशस्य देवतिर्यङ्नरादिषु।  
 जन्मकर्मादिकं यद् यत् तदत्यन्तविडम्बनम्॥६३॥
@@ -27632,8 +26083,6 @@ I.
  \[नन्वजस्य जन्मादिविडम्बनमपि किमर्थम्? तत्रानेकवादिमतमाह—त्वामित्यादि, अन्यथाच्छामात्रेण सर्वकार्यस्य सुसिद्धत्वात्। गो०\]
 
  ६५। ब्रह्मणा प्रार्थितो नररूपेण जात इत्यन्वयः। रा०।
-
-
 
 शृण्वन्ति गायन्ति च ये कथास्ते रघुनन्दन।  
 पश्यन्ति तव पादाब्जं भवार्णवसुतारणम्॥६६॥
@@ -27683,8 +26132,6 @@ I.
  ६८। एवञ्च स्तुतेरशक्यत्वात् केवलं प्रणाममेव करोमीत्याह—नमस्यामीति। रा०।
 
  \[अतो नमस्कार एव त्वयि युज्यते इत्याह—नमस्यामीति। बाणासनं धनुस्तदुयुक्तम्। गो०\]
-
-
 
 त्वद्भक्तेषु सदा सङ्गो भूयान्मे प्राकृतेषु न।  
 जिह्वा मे राम रामेति भक्त्या स्मरतु[^2998] सर्वदा॥७१॥
@@ -27749,8 +26196,6 @@ I.
 
  \[अमृतसारकल्पम् अमृतनिर्यासतुल्यम्। गो०\]
 
-
-
 **सप्तमोऽध्यायः**
 
 ![](../books_images/U-IMG-1726050960090108-removebg-preview.png)
@@ -27812,8 +26257,6 @@ I.
 
  ४। शत्रुसुतमिति। वाल्मीकीयेऽपि—
 
-
-
 इदानीं रामकार्यं मे न कृतं तन्मिषं[^3018] भवेत्।  
 तस्य मद्धनने ननं सुग्रीवस्य दुरात्मनः॥५॥
 
@@ -27856,8 +26299,6 @@ I.
 
 **भ्रातुर्ज्येष्ठस्य यो भार्यां जीवतो महिर्षीप्रियाम्।  
 धर्मेण मातरं यस्तु स्वीकरोति जुगुप्सित॥४।५५।३।**
-
-
 
 त्यक्ष्यामि जीवितञ्चात्र येन केनापि मृत्युना।  
 इत्यश्रनयनं केचिद् दृष्ट्वा वानरपुङ्गवाः।  
@@ -27910,8 +26351,6 @@ I.
 
  १०।किमर्थं विचार्यते—सुग्रीवतो वधादिकमित्यर्थ.। अयमितरवानरोक्तो दुर्विचारो
 
-
-
 अतो[^3027] न राघवद्भीतिस्तव राज्ञो विशेषतः।  
 अहं तव हिते सक्तो वत्स नान्यं विचारय॥११॥
 
@@ -27951,8 +26390,6 @@ I.
 
 **स चतुर्णामुपायानां तृतीयमनुवर्त्तयन्।  
 भेदयामास तान् सर्वान् वानरान् वाक्यसम्पदा॥**
-
-
 
 ये त्वां[^3029] दुर्बोधयन्त्येते वानरा वानरर्षभ।  
 पुत्रदारादिक[^3030] त्यक्त्वाकथ स्थास्यन्ति ते त्वया॥१३॥
@@ -28013,8 +26450,6 @@ I.
  १४। भेदनीत्या गुहावासस्य दोषादीन् प्रदर्श्य रामपक्षाश्रयणे सर्वथा कर्त्तव्यत्वंदर्ययति—अन्यदित्यादिना। हे सुत पुत्रतुल्य इत्यर्थं। अनेन अङ्गदे हनुमत. स्नेहाधिक्यध्वनितम्। गुह्यतमं गोप्यं रहस्यं वेदान्तवेद्यमित्यर्थ.।वक्ष्ये अहमिति शेष। मे ममसकाशात् शृणु त्वमिति शेष.।
 
  १६। रक्षोगणविनाशने तन्निमित्तं प्रार्थिता इत्यन्वय। मायामानुषभावेनेति।न तेषां वास्तवं मनुष्यत्वं किन्तु माययैवेति भावः। रा०।
-
-
 
 मनुष्यभावमापन्ने[^3040] स्वेच्छया परमात्मनि[^3041]।  
 वयं वानररूपेण जातास्तस्यैव मायया॥१७॥
@@ -28079,8 +26514,6 @@ I.
 
  २१-२२। भयवर्द्धनं दर्शनमात्रेण भयवृद्धिकरम्। किं कुर्म इतिवादिन वदनशीला।उदधेस्तीरे निषेदुरथ मन्त्रयामासुरित्यन्वयः।
 
-
-
 सुग्रीवस्तीक्ष्णदण्डोऽस्मान् निहन्त्येव न संशयः।  
 सुग्रीववधतीऽस्माक[^3051] श्रेयं प्रायोपवेशनम्॥२३॥
 
@@ -28130,8 +26563,6 @@ I.
 सम्पातिर्नाम नान्ना तु दीर्घजीवी द्विजोत्तमः।  
 जटायुपोऽग्रजोभ्राता प्रख्यातबलपौरुप॥ इति।४।५६।१-२।
 
-
-
 दृष्ट्वाप्रायोपवेशेन[^3054] स्थितान् वानरपुङ्गवान्।  
 उवाच शनकैर्गृध्रः प्राप्तो भक्षो[^3055]ऽद्य मे बहु।  
 एकैकश. क्रमात् सर्वान् भक्षयामि दिने दिने॥२६॥
@@ -28179,8 +26610,6 @@ I.
  २९। योगिनामपि दुरावापमित्यन्वयः। दुराङ्पूर्वादाप्नोतेः खल्। षष्ठी आर्षी शेषे वा। रा०।
 
  ३०। कर्णपीयूषसन्निभं कर्णयोरमृततुल्यमित्यर्थः। जटायुरिति मामेत्यनेनान्वयः। रा०।
-
-
 
 उच्यतां वो भयं मा भून्मत्तः प्लवगसत्तमाः।  
 तमुवाचाङ्गदः श्रीमानुत्थितो गृध्रसन्निधौ॥३१॥
@@ -28247,8 +26676,6 @@ I.
 
  ३८। गह्वरं गुहा। भ्रमन्त इत्यस्य स्थिता इति शेषं।
 
-
-
 गता मासो न जानीमः सीतां वा रावणञ्च वा।  
 मर्त्तु प्रायोपविष्टा स्मस्तीरे लवणवारिधे।  
 यदि जानासि हे पक्षिन् सीतां कथय नः शुभाम्॥३९॥
@@ -28300,8 +26727,6 @@ I.
 प्रत्यारोप्य पुनश्चापि प्रत्यारोप्य कृतोदकम्।  
 बभूवुर्वानरा हृष्टां प्रवृत्तिमुपलभ्य ते॥ इति। ४।५८।३६-३९।
 
-
-
 लङ्का नाम नगर्यास्ते त्रिकूटगिरिमूर्द्धनि।  
 तत्राशोकवने सीता राक्षसीभिः[^3076] सुरक्षिता॥४५॥
 
@@ -28314,8 +26739,6 @@ I.
 [^3077]: "छ ‘क्षमा’।"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 ४६। नरो०। शतयोजनदूरत सा शतयोजनेभ्य. परे इत्यर्थः। मे मया।
 
@@ -28353,8 +26776,6 @@ I.
 **तस्मादाहारलोभेन निसर्गेण च वानराः।  
 आ योजनशतात् साग्रात् पश्यामो वयमामिषम्॥ इति।४।५८।३३-३४।**
 
-
-
 शतयोजनविस्तीर्ण समुद्रं यस्तु लङ्घयेत्।  
 स एव जानकीं दृष्ट्रा पुनरायास्यति ध्रुवम्॥४७॥
 
@@ -28388,8 +26809,6 @@ I.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  ४८। पक्षविवर्जित इत्यनेन बलातिशयेऽपि गमनशक्तिहीनत्वं सूचितम्। रा०।
-
-
 
 **  अष्टमोऽध्यायः**
 
@@ -28436,8 +26855,6 @@ I.
 
 **अहञ्चैव जटायुश्च संहृष्टौ दर्पमोहितौ।  
 वीर्यादुत्पतितौ वेगाज्जिज्ञासन्तौ परां गतिम्॥ इति।४।६०।६।**
-
-
 
 बहुयोजनसाहस्रं गतौ तत्र प्रतापितं।  
 जटायुषं[^3084] परित्रातुं पक्षैराच्छाद्य[^3085] मोहतः॥३॥
@@ -28503,8 +26920,6 @@ I.
 **ऋषिर्दृष्ट्वा तु मां तूर्ष्णीप्रविवेशाऽऽश्रमं प्रभु।  
 स मुहूर्त्ताद् विनिष्क्रम्य तत कार्यं स पृष्टवान्॥**
 
-
-
 जानामि त्वामहं पूर्वमत्यन्त[^3092] बलवानसि।  
 दग्धौकिमर्थ ते पक्षौ कथ्यतां यदि मन्यसे॥८॥
 
@@ -28563,8 +26978,6 @@ I.
 
  इत्येतावन्मात्रम्।
 
-
-
 अहङ्कारस्त्वनादिः स्यादविद्यासम्भवोजड।  
 चिच्छायया सदा युक्तस्ततायः पिण्डवत् सदा।  
 तेन देहस्य तादात्म्याद्देहश्चेतनवान्[^3099] भवेत्॥१२॥
@@ -28597,8 +27010,6 @@ I.
  \[ननु भवतु तत्सम्बन्धाद् देहश्चेतनवान् देहेऽहंबुद्धिं पुनः कथं भव्रतीत्यत आह—देहोऽहमिति। आत्मनो जीवस्य अहङ्कृतेरहङ्कारस्य बलाद देहे अहमिति बुद्धिः स्यात्, तन्मूलो देहाहङ्कारमूल एषलोकेषु दृश्यमानः ससार। गो०\]
 
  १४-१५। एवं निर्विकारस्याप्यात्मनोऽहङ्कारादिभिर्मिथ्यातादात्म्याद्देहोऽहम् यद्वा
-
-
 
 जीवः करोति कर्माणि तत्फलैर्बध्यतेऽवशः।  
 ऊर्ध्वाधो भ्रमते नित्यं पापपुण्यात्मक[^3101] स्वयम्॥१५॥
@@ -28635,8 +27046,6 @@ I.
  \[पतत्यर्वागिति। अर्वाक् स्वर्लोकादध। गो०\]
 
  १८-१९। तत पातपूर्वक येन प्रकारेण गर्भे वासस्तदुपपादयति—पतित्वेति। इन्दो-
-
-
 
 भूत्वा चतुर्विध भोज्यं पुरुषैर्भुज्यते ततः।  
 तो भूत्वा पुनस्तेन ऋतौ स्त्रीयोनि सिञ्चितम्[^3102]॥१६॥
@@ -28679,10 +27088,6 @@ I.
 
  २०। सिक्त स जीव एकेन दिनेन जरायुपरिवेष्टितं योनिरक्तेन संयुक्तं कलले कललाख्यपरिणामवद भूत्वा रूढत्व दार्ड्यमाप्नुयात्। जरायुर्गर्भष्टनम्। रा०।
 
-
-
- 
-
 \[कललं शुक्रशोणितमिश्रितं भूत्वा रूढत्वमङ्कुरत्वम्। गो०\]
 
  कललमिति। ‘दिनेनैकेन कललम्’(२ पृ०) इत्यादिशाक्तानन्दतरङ्गिणीवचनात्, शारदातिलकव्याख्यायां ‘कललं चैकरात्रेण’(३२ पृ०) इत्यादिराघव भट्टधृतविश्वसारवचनाच्च। नृजननरहस्ये विभिन्नग्रन्थगतमतानां तद्वयाख्यातॄणाञ्च परमेवानैक्यं दृश्यते। तेषां सर्वेषां सन्दर्शनं ग्रन्थगौरव भिया न योग्यमिति इत आरभ्य जननसम्बन्धिनां त्रिशश्लोकान्तग्रन्थांशानां समर्थकानामसमर्थकानाञ्च प्रमाणानां दिङ्मानमत्रैव उदाह्रियते। तथाच शारदातिलकटीकायां योगार्णवेइत्युपक्रम्य राघवभट्ट—
@@ -28718,8 +27123,6 @@ I.
 
 **मातृजञ्चास्य हृदयं विषयानभिकाङ्क्षति।  
 अतो मातुर्मनोऽभीष्टं कुर्याद्व गर्भविवृद्धये॥**
-
-
 
 तत् पुनं पञ्चरात्रेण बुद्बुदाकारतामियात्।  
 सप्तरात्रेण तदपि मांसपेशीत्व[^3105]माप्नुयात्॥२१॥
@@ -28768,8 +27171,6 @@ I.
  २२। अङ्कुरोत्पत्ति अङ्कुरवत् शिर. संस्थानम्। ‘मासेन तु शिर’इति भागवतोक्ते।रुधिरेण परिप्लुता भवतीति शेप। तस्यैव पेशीरूपपरिणामस्यैव पञ्चविशतिरात्रिषु गतास्वितिशेष। समासान्ताभावोऽनित्यत्वात्। रा०।
 
  २३। अङ्कुरानेवाऽऽह—ग्रीवेत्यादि। पञ्चधाऽङ्गानि पञ्चधाऽङ्कुरा। मासतः मासेन।क्रमात् प्रथम ग्रीवेत्यादिक्रमेण। रा०।
-
-
 
 पाणिपादौ[^3108] तथा[^3109] पार्श्वः कटिर्जानुस्तथैव च।  
 मासद्वयात् प्रजायन्ते क्रमेणैव न[^3110] चान्यथा॥२४॥
@@ -28842,8 +27243,6 @@ I.
 
  ३०। नाभीति। नाभिसूत्र नालाख्य मातू रसनाड्या सबद्ध तदीयाल्परन्ध्रेण गर्भजठरं
 
-
-
 स्मृत्वा सर्वाणि जन्मानि[^3125]पूर्वजन्म[^3126]कृतानि च।  
 जठरानलतप्तोऽयमिदं वचनमब्रवीत्॥३१॥
 
@@ -28888,8 +27287,6 @@ I.
  ३१-३२। सर्वाणि जन्मानि तत्कृतानि कर्माणि च स्मृत्वा जठरानलयोगादतिमन्तप्तोवचनमाह। नानेति। पुत्रादिसबन्धमनुभूतवानिति सम्बन्ध.। रा०।
 
  ३३। तथा कुटुम्बभरणासक्त्या तन्मात्रासक्त्या न तु धर्मासक्त्या। न्यायान्यायैर्धर्माधर्मैरुपायैर्धनार्जन कृतम्, मयेति शेष। तथा विष्णुचिन्तां स्वप्नेऽपि नाकरवमहं नकृतवानित्यर्थः। तत्फलभूतगर्भदुःख भुञ्जे इत्यन्वयः। रा०।
-
-
 
 **अशाश्वते शाश्वतवद्देहे[^3130] तृष्णासमन्वितः।  
 अकार्याण्येव कृतवान् न कृतं हित[^3131]मात्मनः॥३४॥**
@@ -28944,8 +27341,6 @@ I.
 
  ३७। ततो बाल्यादिदुःखानि भुनक्ति, एवं सर्वजन्तवो विभुञ्जते न कश्विदेवेत्यर्थ.। यानि सर्वाणि विदितानि मया वर्णितानि यानि तु यौवनादिषु दुःखानि सर्वत सर्वै.
 
-
-
 एव देहाऽहमित्यस्मादध्यासा[^3140]न्नित्यादिकम्।  
 गर्भवासादिदुःखानि भवन्त्यभिनिवेशतः॥३८॥
 
@@ -28990,8 +27385,6 @@ I.
 
  ४०। ध्येयात्मस्वरूपमाह—जाग्रदादीति। जाग्रत्स्वप्नसुपुप्ताख्यावस्थात्रयरहितम्, शुद्धंमायादोषालिप्तम्, बुद्ध बोधस्वरूपम्। रा०।
 
-
-
 चिदात्मनि परिज्ञाते नष्टे मोहेऽज्ञसम्भवे।  
 देह. पततु वारब्धकर्मवेगेन तिष्ठतु।  
 योगिनो न हि दुःख वा सुख[^3145] वाऽज्ञानसम्भवम्॥४१॥
@@ -29030,8 +27423,6 @@ I.
  ४२। यावत् प्रारब्धक्षयो भवति तावद्दद्देन सहित सुख तिष्ठ।यथा कञ्चुकवान्सर्पो यावत्तत्त्यागकाल तद्वत्तेऽनन्तर त्यजति तद्वत्।रा०।
 
  \[धृतकञ्चुकसर्पवदिति। यथा कञ्चुकं देहे विद्यमानमपि गुणबुद्ध्यान मन्यते तथाविद्यमानमपि देहम् आत्मबुद्ध्यान मन्यते। गो०\]
-
-
 
 तस्याः सुग्रीवनिर्देशाद्वानरा. परिमार्गणे।  
 आगमिष्यन्ति जलधेस्तीर तत्र समागमः।  
@@ -29080,8 +27471,6 @@ I.
 **यौवने वर्त्तमानस्य ममाऽऽसीद य पराक्रमः।  
 तमेवाद्याधिगच्छामि बल पौरुपमात्मनं॥ ४।६३।१३-१४।**
 
-
-
 स्वस्ति वोऽस्तु गमिष्यामि सीतां द्रक्ष्यथ निश्चयम्।  
 यत्न कुरुध्वं दुर्लङ्घ्यसमुद्रस्य विलङ्घने॥४८॥
 
@@ -29113,8 +27502,6 @@ I.
  ४९। यन्नामस्मरणमात्राद य. कश्चिद्दुर्जनोऽपि इयानिप्ति परिच्छेदरहितं संसारममुद्रंतीर्त्वा विष्णोंपदं गृच्छति, एव दृश्यमानप्रकारेण त्रिजगतां स्थितिकारिण सर्वजगदुत्पत्तिस्थितिलयकर्तुः, स्थितिपदेनेतरदप्युपलक्ष्यते। रामस्य भक्ताः प्रियाश्च यूयं शतयोजनपरिच्छिन्नम्यसमुद्रमात्रस्य तरणे किं कुतोन शक्ता, कथञ्च न शक्ता इति व्यतिरेकालङ्कारः। रा०।
 
 **\_\_\_\_\_\_\_**
-
-
 
 **  नवमोऽध्यायः**
 
@@ -29158,8 +27545,6 @@ I.
 
 **ते तु गत्वा समुद्रस्य दक्षिणस्योत्तरं गिरिम्।  
 समुद्र ददृशुर्भीमं तिमिनक्रसमाकुलम्॥**
-
-
 
 उवाच[^3153] चाङ्गदस्तत्र शृणुध्वं वानरोत्तमा।  
 भवन्तोऽत्यन्तबलिन शूराश्च कृतविक्रमा॥३॥
@@ -29222,8 +27607,6 @@ I.
 **अङ्गदस्य वच श्रुत्वा न किञ्चित् कश्चिदब्रवीत्।  
 स्तिमिताश्चाभवन् सर्वे तत्र ते हरियूथपा॥ इति।५।१।२६।**
 
-
-
  अङ्गद उवाच—
 
 उच्यतां वो[^3160] बलं सर्वैः[^3161] प्रत्येक कार्यसिद्धये।  
@@ -29275,3207 +27658,5 @@ I.
 **योजनानामहं षष्टिमुपक्रामितुमुत्सहे।  
 द्विविदस्तु महातेजाः प्रत्युवाचेदमङ्गदम्॥**
 
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^2893]: "च 'च'।"
-
-
-[^2844]: "च ‘वीर’।"
-
-
-[^2741]: "च 'तदा'।"
-
-
-[^2421]: "च 'तदा'।"
-
-
-[^2094]: "च ' - तश्च शरैकेण'।"
-
-
-[^1400]: "अत पर ग-पुस्तके 'राजोवाच' इत्यधिकम् ।"
-
-
-[^1270]: "ग 'च' ।"
-
-
-[^1137]: "7 च 'राम त' ।"
-
-
-[^587]: "4 च 'एव' ।"
-
-
-[^555]: "च 'गोत- '। "
-
-
-[^54]: "The Adhyatma-Rāmāyana defines the Saksin almost in identical terms "

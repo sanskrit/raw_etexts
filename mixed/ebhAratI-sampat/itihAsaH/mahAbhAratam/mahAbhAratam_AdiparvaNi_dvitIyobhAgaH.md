@@ -16,8 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyMTc0NjcxMTg
 
 \[
 
-
-
 THE  
 
 MAHĀBHĀRATA  
@@ -32,7 +30,6 @@ MAHĀBHĀRATA
 Editor, Descriptive Catalogue of Sanskrit Manuscripts  
 in the Tanjore Palace Library***  
 
-
 **THE KUPPUSWAMI SASTRI  
 RESEARCH INSTITUTE,  
 MADRAS.**
@@ -43,7 +40,6 @@ MADRAS.**
 
 **————**  
 
-
 **PUBLISHED BY**  
 
 **V. RAMASWAMY SASTRULU & SONS**  
@@ -51,8 +47,6 @@ MADRAS.**
 **292, ESPLANADE, MADRAS.**
 
 All Rights Reserved.
-
-
 
 ॥ श्रीरस्तु ॥  
 
@@ -66,22 +60,11 @@ All Rights Reserved.
 पि. पि. सुब्रह्मण्यशास्त्रिभिः  
 दाक्षिणात्यशाखानुसारेण सविमर्शं संशोधितः
 
-
-
-
-
-
-
 ![](../../../books_images/U-IMG-1705744755Screenshot2024-01-20152835555585858585888858.png)
-
-
-
 
 **चेन्नपुर्यां  
 वाविलु रामस्वामिशास्त्रुलु अण्ड् सन्स्,  
 इत्येतैः सम्मुद्र्य प्रकाशितः**
-
-
 
 INTRODUCTION  
 ![](../../../books_images/U-IMG-1704905914Screenshot2024-01-10222803455555252525.png)
@@ -93,8 +76,6 @@ Which is more ancient and authentic?**
 
  In our Introduction to Vol. I, we called attention to the two outstanding recensions of the Mahābhārata, the Northern and the Southern. It is very interesting to observe that some of the main features of the Southern Recension had already been fixed as early as the 11th century (cir. 1022 A. C.) when the great Telugu Poet Nannaya Bhaṭṭa wrote his famous Āndhra Bhāratamu. The object of Nannaya was to epitomise Vyāsa's work. approximating closely to the original, without leaving the main incidents and anecdotes, as far as possible. But the real value of Nannaya's work for our purpose is that he was also careful to state, in his translation of the Parvasangrahādhyāya, the number of stanzas in each of the 18 parvans of the Mahābhārata. This furnishes us with a definite landmark in the history of Mahābhārata literature, as we are authori tatively informed by a trustworthy writer of the definite scope and bulk of the Mahābhārata in his own days. In the Parvasangrahādhyaya, he enumerates the number of stanzas in each parvan. (See at the end the
 
-
-
  INTRODUCTION
 
 comparative table giving the enumeration, according to the Northern Recension, Nannaya and most of the Southern manuscripts we have been using for our edition of the Southern Recension.) The conclusion is irresistible, that, at any rate about the tenth century A. D., the Southern Recension held the field as the more authentic and reliable version of the Māhabhārata. Indeed, that the Southern Recension was the only recension available before the 10th century A. D. seems to be far more probable than otherwise.
@@ -103,21 +84,15 @@ comparative table giving the enumeration, according to the Northern Recension, N
 
  Besides, a critical comparison of the Mahābhārata so far published by B. O. R. I. (1-5 fascicules) with the Southern Recension already published by us, will also reveal the over whelming correspondence of the Southern Recension with the Kāsmir manuscripts on which the constituted Text of the Poona Edition is mainly based.
 
-
-
 INTRODUCTION
 
  The fact that the Southern Recension, whichhad already been definitely fixed by Nannaya as early as the 11th century A.D., finds its counterparts in Greater India, in far-off Java as well as in distant Kashmir, goes a long way indeed to substantiate our claim that, verily, the Southern Recension is the more authentic and reliable version and perhaps the only Recension that was current in India before the 9th century A. D.
 
  How then are we to reconcile the differences in bulk of the Southern Recension, which comes up close on 100,000 stanzas, and the Northern Recension, which does not exceed 86,000 stanzas, if the Bombay Edition of the Text with Nilakantha's Bhāvadipa is taken as the standard representative of the Northern Recension? It has been the practice to assume till now that the Northern Recension is generally the more reliable text and that the Southern Recension has been subjected to a large variety of interpolations,—thanks to the imaginative and inventive skill of the Southern redactors—to such an extent that its present bulk comes close upon 100,000 stanzas. We have already remarked that the bulk of the Southern Recension had already been fixed round 100,000 stanzas even in the 11th century A.D., so that not much room was left for Southern redactors to have their free play after that
 
-
-
  INTRODUCTION
 
  date and we have also affirmed that the general nature of the Javanese Recension which must have left India two or three centuries earlier, if not still earlier, supports in general the main tendencies of the Southern Recension. May it not be possible, therefore, that the Northern Recension, whose representatives are found all over Middle India in greater numbers, represents a mutilated and hastily put together composition of the Middle Indian Redactors, who could not lay their hands on all manuscripts of the Mahābhārata and being perforce obliged to make the best of a bad bargain, were therefore able to get at only about 86,000 stanzas and not at the full Mahābharāta? Indeed, this seems to be quite probable as we know that, on and after the 10th century A. D., Northern, Western, Middle and Eastern India were all successively subject to a large number of predatory invasions of varying intensity, that Hindu life, with all its religious and spiritual moorings, was certainly not blessed with either the necessary safety or enthusiastic encouragement in these lands till very recently. Nilakantha, who wrote his famous Bhavadipa about the 16th Century A.D., had therefore to toil under circumstances which could not have vouchsafed to him the best of conditions, or even all the help in manuscript material that would have
-
-
 
  INTRODUCTION
 
@@ -128,8 +103,6 @@ INTRODUCTION
  In so far as the Ādiparvan is concerned, we are able to point out six distinguishing marks as peculiarly characteristic of the Southern Recension. These are:—  
  (1) The complete omission in the Southern Recension of any reference to Ganes'a being suggested by Brahma and invoked by Vyāsa to be his scribe in the first chapter.  
  (2) The complete omission in the Southern Recension of any reference, soon after the above episode, to the tradition of the Mahā
-
-
 
  INTRODUCTION
 
@@ -142,21 +115,15 @@ INTRODUCTION
 
 ————
 
-
-
 Mahabharata Text-Tradition.
 
  It has come to be the fashion to consider the Mahābhārata, as we have it now, to be an inflated and interpolated one and to surmise that Vyasa's original Mahābhārata should have been far more compendious and that in any case it could not have exceeded 24,000 stanzas, according to some scholars like Mr. C. V. Vaidya, and only 8,800, according to some others, like Macdonell, etc. In the introduction to Volume I, we have already pointed out the source whence arose this kind of theorising. It is the obviously interpolated northern intruder—the naive Brahma-Gaņes'a episode that has, in the main, been responsible for the above conclusions arrived at by Messrs. Vaidya and Macdonell.
 
  The internal evidence available in the Mahābharata itself gives us all that is necessary to form a complete account of the Text Tradition of the Mahābhārata. Krisna-Dvaipayana Vyasa is the original author of the Mahābhārata. We learn that he taught it to his pupils, including Vais'ampāyana and Romaharṣaṇa’s. Vaisampãyana again narrated the story to Janamejaya during his serpent-sacrifice. Romaharşana's, son Sūta or Sauti or Ugras'ravas, as he is variously called, narrated the same to the
 
-
-
  assembled ascetics and Saunaka, at Naimis a forest even as he heard it at Janamejaya's sacrifice.
 
  The story of the Mahābhārata, then, is narrated thrice over, first by Vyāsa, then by Vais'ampayana and again by Suta. We have already said that Sūta's father Romaharşana and Vaisampayāna were contemporaries, both of them being pupils of Vyāsa. All the three narrations, therefore, should have taken place within a very short interval of one another, as Sūta is not far removed in point of time from Vyāsa himself Besides, the occasion of Sūta's narration is very soon after his return from Janamejaya's sacrifice, where he had actually heard the story from the lips of Vaisampayana. Vais'ampāyana's narration of the story to Janamejaya could not also have been after the expiry of a considerable time from his hearing it from Vyāsa, as Vyāsa could have set himself to compose the work only after the Svargārohana of the Pāndavas, before which Pariksit, the father of Janamejaya and the grandson of Arjuna, had already been installed as Emperor. Parikşit reigned only for thirty-six years and died in his sixtieth year, when Janamejaya was too young to be invested with direct control, which was, therefore, vested in his ministers. Vyasa, who is always reckoned to be a long-lived sage, was actually present during Vais'ampāyana's
-
-
 
  narration of the story to Janamejaya. Indeed, Janamejaya asked Vyāsa himself to narrate the story whenVyāsa ordered his pupil Vais'ampāyana to narrate the same. Süta's narration was immediately on the conclusion of the serpent-sacrifice of Janamejaya. Thus, the text-tradition of the Mahābhārata resolves itself into a complete whole during the life-time of the original composer, Vyāsa himself.
 
@@ -164,13 +131,9 @@ Mahabharata Text-Tradition.
 
  In Ādi—chapter I—Stanza 54, Sūta refers to three kinds of beginnings then in vogue regarding the Mahābhārata proper. Some preferred to begin it with मन्वादि, others with आस्तीकादिand yet others with उपरिचरादि. This reference by Sūta clearly indicates the development of the text-tradition
 
-
-
  INTRODUCTION
 
  even during his own time. The beginnings of the Mahābhārata with उपरिचरोपाख्यान (chapter 53) should have been the starting point of the story proper by Vyāsa himself. In chapter 49, we learn from stanza 6, of the desire of Śaunaka to hear the Mahābhārata as was narrated to Janamejaya at his serpent-sacrifice. Stanzas 28–30 deal with Janamejaya's request to Vyasa and stanzas 31-33 tell us how Vaisampayana was ordered by Vyāsa to narrate the same. Chapter 50 opens with Vais'ampayāna's statement undertaking to narrate the story and gives in Vaisampāyana's words the summary of the Mahabhārata in about fifty stanzas. Chapter 51 opens with a request from Janamajaya to narrate the story in greater detail to which Vaisampāyana replies by way of prologue to his main narration, with a statement regarding the bulk of the Mahabharata which he states to be 100,000 stanzas, computing the Mahabharata always along with the Upakhyanas, 2,000 chapters and 100 sub-sections. Vaisampayana adds that these were again recast by the sage Vyasa himself into 18 parvans or main sections (stanzas 13-15). He winds up the adhyaya with a statement regarding the excellence of the Mahabharata judged by various standards, adding that the name of Vyāsa's work which was originally called Jaya or the victory—(giver) is Mahabh^(a)rata, because herein are
-
-
 
  narrated the illustrious life of the Bhāratas—cf. "भारतानां महज्जन्म महाभारतमुच्यते" (stanza
 
@@ -178,17 +141,11 @@ Mahabharata Text-Tradition.
 
  Sūta's narration of the story begins from the first adhyāya itself when he meets the assembled ascetics in the Naimisa forest, who request him to narrate his travels, whereupon he starts off by saying that he was just returning from Janamejaya's serpent-sacrifice where he had heard the many, great, illuminating and purifying stories narrated by Vai–
 
-
-
  s'ampāyana even as was told before by Vyāsa himself. In this chapter, Sūta also gives details of how Vyasa came to compose the Mahābharata, how it was composed in 100,000, stanzas, including the Upakhyānas, how the Mahābhārata proper could be computed to be 24,000 stanzas, if the Upākhyānas are not counted and how he also made a summary chapter of 150 stanzas (see stanza 661). Brahmā now comes on the scene and blesses Vyāsa and his undertaking (cf. stanza 69). Brahmā also refers to the fact that the beginning of the Mahābhārata is the Sangrahādhyāya *i.e.* the Parvasangrahādhyaya or chapter II of our text (cf. stanza 90½). Sūta then introduces the famous tree metaphor, prefacing it with the remark that Dvaipāyana also composed the Anukramanikādhyāya (stanza-97½), the essence of all the parvans, which he first taught his own son Suka and to worthy disciples, including Vaisampayana who narrated it to Janamejaya, the son of Parikṣit (stanza 100). From stanza 101 to 235 of the first chapter is a running summary of the main incidents of the Mahabharata which together with stanzas 73.94 will roughly constitute the 150 stanzas of the Anukramanikā–dhyaya referred to by Sūta as Vyāsa's work in stanza 66½. Thus we have the authority of Sūta himself that about 150 stanzas of the first chapter are actually Vyāsa's; and we have also the statement of Brahmā
-
-
 
  that from the Parvasangrahādhyāya onwards was Vyāsa's composition also, including the Pauloma and Āstika parvans, but omitting the Pauşya (cf. stanza 90½). The third chapter of the Adi-parvan, the Pausyaparvan, is a prologue to the Mahābhārata narrative proper, as it begins with Janamejaya's first Sattra and the incidents that led to its temporary cessation, ending with the anger of Janamejaya being roused when he heard how his innocent father had been bitten to death by the vile Takṣaka. Evidently, here ends the first day's narration of the story by Sūta.
 
  For, in the next chapter, Chapter IV, śaunaka personally welcomes Sūta, who, naturally enough to please him, begins afresh with the narration of the ancestry of S'aunaka ending with the eighth chapter. In the ninth chapter, S'aunaka takes up the narrative from the point where it was left off at the end of the third chapter and asks Sūta about Janamejaya's Sarpasattra and the interference of Astika thereat. As the narrative is kept up in an unbroken manner from now till we come to the Upari–caropākhyána in the fifty-third chapter, we have also the tradition that the Mahābhārata begins from the Astikopakhyāna as आस्तीकादि तथाऽपरे in stanza 56 of the first chapter. Suta's own narration of the story from the first chapter onwards, wherein he
-
-
 
 INTRODUCTION
 
@@ -197,8 +154,6 @@ INTRODUCTION
  Thus, all the three versions, मन्वादि, आस्तीकादिand उपरिचरादि are quite intelligible beginnings of the Mahabharata, as these are intended to indicate the distinct parts into which the preliminary chapters of the Ādi-parvan fall. It should also be remembered that, whereas three kinds of beginnings of the Mahābharata are referred to by Sūta, both Sūta and Vais'ampayana are quite agreed that the conclusion of Mahabharata is with the Svargārohanaparvan.
 
  It would thus be clear that, from the Uparicaravasu's Upākhyana Ādi–chapter 53) to the end of the Svargārohanaparvan, the text that we have is unmistakably the composition of Vyāsa himself, chapters 50 to 52 being the link supplied by Vaisampāyana, and chapters 1 to 49 being the first links supplied by Suta himself. It is also essential to assume that, though chapters 1 to 52 might owe their origir. directly to the workmanship of Sūta and Vaisampayana, the main events narrated therein and the mode of narration should have had the full approval of Vyāsa himself, as it would indeed be sheer impertinence to think of pupils editing their master's text during his life without his full per-
-
-
 
  INTRODUCTION
 
@@ -210,15 +165,11 @@ INTRODUCTION
 
  The contention, therefore, that Bhārata was the original title of Vyāsa's work when it consisted only
 
-
-
 INTRODUCTION
 
 of 24,000 stanzas or far less still and that the appellation Mahābhārata was applied to the epic only after it had grown up to well nigh 100,000 stanzas is thoroughly untenable. Equally untenable also becomes the theory that the original Mahābhārata was at any time devoid of all Upākhyānas when it consisted of 24,000 stanzas and that it came to be 100,000 stanzas only after all the Upākhyānas had been later on interpolated into the text. For, to think of the Mahābhārata without its Upākhyānas is to rob the epic of all its value as an epic. The stanza in question refers only to the two kinds of computation of the bulk of the Mahābhārata by dividing it into the story proper and the Upākhyānas and not to the plausibility of the kernel ever having existed as a separate entity without the Upakhyānas at all. And we have already shown how the whole of Mahābhārata, as we have it now, from chapter 53 of the Adi-parvan to the end of the eighteenth parvan, is completely the work of a single author. Vyāsa himself, and how in fact Vyasa set himself to compose the work only after the incidents narrated in the last of the Parvans had taken place. Thoroughly untenable also is the suggestion put forward by Mr. C. V. Vaidya in his latest work[^1] that Vyāsa
 
 [^1]: History%20of%20Sanskrit%20Literature—Vedic%20period—See%20pages%201–13%20of%20third%20section. "History of Sanskrit Literature—Vedic period—See pages 1–13 of third section."
-
-
 
  composed the work soon after the Bhārata war in 3102 B. C., that Vais'ampāyana's redaction should have been about 1,400—1,200 B.C., that Sūta's narration in the Naimis'a forest must have been about 250 B.C., and that Vais'ampāyana and Sūta above referred to are 'fictions invented for magnifying the importance of the work.'
 
@@ -228,15 +179,11 @@ of 24,000 stanzas or far less still and that the appellation Mahābhārata was a
 
  Thus, from the available internal evidences supported by external evidences, notably from the Javanese and Kasmiri recensions and also from the testimonies of Nannayya and of Dion Chryso-
 
-
-
  INTRODUCTION
 
  stum, who lived long before him, we are driven to the irresistible conclusion that the Mahābhārata text-tradition, as we have it now in the Southern Recension, is quite authentic and reliable, that the final redaction of the story from the beginning of the first chapter as narrated by Sūta is equally trustworthy and that the extent and scope of the Mahābhārata even during Sūta's time consisted of eighteen main parvans with one hundred sub-parvans, divided into two thousand chapters and comprising one hundred thousand stanzas. A truly scientific and historical reconstruction of the text should, therefore, lead us to constitute the text to its original dimensions and not to cast off or artificially reduce its size under the mistaken notion that the Mahābhārata, to be Vyāsa's, should necessarily be considerably short of 100,000 rather than near 100,000, stanzas.
 
 **————**
-
-
 
  In the preparation of this volume for the press all the five manuscripts described in pp. XIV-XV of the Introduction to the first volume were utilised in full. अ continues to represent the principal text printed, and क,ख,गand घhave been utilised for giving additional readings, etc. One more manuscriptक has also been utilised for further readings, etc. from pp. 1348. This manuscript belongs to Mr. Krishnaswami Sastrigal, Sub-Registrar, Tanjore. Its description is as follows:—
 
@@ -244,49 +191,31 @@ of 24,000 stanzas or far less still and that the appellation Mahābhārata was a
 
  With the issue of the second volume, the Adi Parvan is complete. It will be noticed that, according to our critical edition, the total number of chapters in the Adiparvan is 218—the figure given in the Parvasangrahādhyāya of this edition, and which is generally agreed to by all manuscripts representative of the Southern Recension (see pp.
 
-
-
  XVIII of the introduction to the first volume). The total number of stanzas in the Ādiparvan in all these 218 chapters, according to our critical edition, comes to [9984½](http://%C2%A0The%20numerical%20addition%20will%20give%209,985%20stanzas,%20but%20a%20half-stanza%20occuring%20in%20pp.%20677,%20already%20remarked%20by%20us%20as%20अनन्वित,%20should%20be%20deducted. "The numerical addition will give 9,985 stanzas, but a half-stanza occuring in pp. 677, already remarked by us as अनन्वित, should be deducted.")which is half a stanza more. than what is enumerated for the Ādiparvan by Nannaya, the great Telugu Poet (in his Andhra Bhāratamu pp. 7-35 prose) who flourished about 1022 A. D.. Nannaya's enumeration of the number of stanzas in each of the Parvans of the Mahabhārata is the earliest direct external evidence we have so far, among the manuscripts and printed material available for the Mahabharata. In all such enumerations, the usual practice seems to be to leave out prose passages from all calculation. We have, therefore, indicated at the end of each of the chapters, the number of stanzas contained therein separately from the number of prose passages in the same, if any.
 
  In his editorial note prefixed to the third fascicule of the Aliparvan, Dr. Sukthankar has already called attention to the enumeration of stanzas in this Parvan as varying from 7,984 to 10,984 and stated that he prefers the figure 7,984 as it represents the Kasmiri version and is also the shortest version
-
-
-
-
 
  of the Parvan hitherto known. The majority of manuscripts usually state 8,884 stanzas to be thelength of the Adiparvan though Nannaya has definitely stated 9,984 stanzas to be the extent of this Parvan. It would now be clear why we chose for our principal text of the Southern Recension अ kosa; for, therein the length of the Ādiparvan is said to be 9,884 stanzas or one hundred short of what Nannaya has said. Indeed, this shortage by one hundred stanzas is just the additional portion that we have added on to the principal text in editing the same in order to fill up some easily discernible lacunae in the manuscript itself.
 
  In the footnote to pp. 1412, we have already indicated how we had to restore the text to the extent of 70, stanzas, which together with the restoration in other places of stanzas ranging from a half to four or five which we had added to the principal text while editing the same will just account for the 100 stanzas being found short according to the narration of the अ-कोशfrom the figure given by Nannaya. In the last sheet attached to one of the manuscripts in the Madras Government Oriental Manuscripts Library (Vide Descriptive Catalogue No. 1916), the Adiparvan is stated to contain 9,984 stanzas. One of the Kāsmiri version manuscripts collated by
 
-
-
  INTRODUCTION
 
  Dr. Sukthankar—K 6, also agrees with Nannaya in giving the length of the Ādiparvan as 9,984 stanzas. We may be permitted to add that, according to our critical edition of the Southern Recension, the result we have obtained is approximately the same as Nannaya's and, therefore, justfies Nannaya's recitation as certainly authoritative at any rate in so far as the Southern Recension is concerned.
-
-
 
  A careful study of the Adiparvan as issued by us in comparison with Dr. Sukthankar's edition is certainly called for, if only to assess critically the large and small additions and omissions that are detectable in one or the other Editions. We defer our remarks on this aspect till the completion of the Ādiparvan by the Bhandarkar Institute. But we must not omit to call attention to one or two points arising from the work so far published.
 
  In pp. 574 of his Edition (Fascicule 5), in trying to vindicate the superiority of the (Kāsmiri) S'ārada version, Dr. Sukthankar states that "all the remaining versions are not only heavily interpolated but also *indiscriminately conflated" * (italics are not ours), a conclusion he has arrived at on the omission. of Kaņinkanīti not only in the S'aradă recension but also in Kşemendra's Bharatamañjari, in the Javanese version and in the Telugu adaptations by Nannaya Bhatta, etc. There are only four printed editions of Nannaya Bhaṭṭa's work so far known to us. In all these, and in all the available manuscripts in important libraries in Madras, we have been able to obtain definite and unmistakable evidence of the inclusion of the reference to Kaninkaniti in the
 
-
-
 INTRODUCTION
 
  exact place in which it occurs in the printed edition of the Southern Recension. A reference to stanza 101 in pp. 158 of Nannaya's Bharata (Vol. I printed by Vavilla Ramswami Sastrulu & Sons, Madras) will bear out the contention that Nannaya was quite familiar with the imparting of the niti by Kaninka to Dhṛtarāstra. Now, we come to the most difficult problem of our Mahābhārata Text criticism. Here is a writer of definite date (1022 A. D.) whose task is only to epitomise the Mahabharata and who refers to an incident in unmistakable words. Its omission by later writers cannot provemuch, except perhaps that their versions are mutilated. Its omission by earlier hands certainly needs explanation. The only evidence that needs to be explained is that of the Javanese version. Certainly, the Javanese version cannot lay claim to be a thoroughly complete and full version of the Original Mahābhārata. It must needs be also only an abridgement and adaptation though it may have branched off from the parent stem two or three centuries earlier than Nannaya. An inclusion in the Javanese version, if omitted in any Indian Recension by later scholiasts may point to some defect in the latter, but not an omission in an earlier version which is prima facie only an abridgement and an adaptation. Judged by these standards, we are afraid that the omission
 
-
-
  of Kaninkaniti in all the manuscripts and printed material in India; which are subsequent to Nannaya's time, can only prove the mutilated nature of our manuscript–tradition, rather than make Nannaya's and other versions that include Kaninkaniti to be either *indiscriminately inflated* or otherwise untrustworthy.
-
-
 
 (PRESIDENCY COLLEGE, )               P. P. S. SASTRI.  
 MADRAS.                            
 1-11-1931.
-
-
 
 ॥ श्रीरस्तु ॥
 
@@ -301,8 +230,6 @@ MADRAS.
 जतुगृहदाहपर्व
 
 [TABLE]
-
-
 
 |                                                                                                            |
 |:----------------------------------------------------------------------------------------------------------:|
@@ -328,19 +255,11 @@ MADRAS.
 |                                   भीमेन कुन्त्यादीनादाय अविदितं वनगमनम्                                    |
 |               पाण्डवानां दाहं निश्चित्य पौरैः धृतराष्ट्राय दूतमुखेन पाण्डववृत्तान्तनिवेदनम्                |
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 |                                                                                                                |     |
 |----------------------------------------------------------------------------------------------------------------|-----|
@@ -363,8 +282,6 @@ MADRAS.
 | पाण्डवानामर्धरात्रे गङ्गातीरगमनम्                                                                              |     |
 | गङ्गायां स्त्रीभिस्सह जलक्रीडां कुर्वता अङ्गारवर्णनाम्ना गन्धर्वेण सहार्जुनस्य युद्धम्                         |     |
 
-
-
 |                                                                                             |
 |---------------------------------------------------------------------------------------------|
 | आग्नेयास्त्रेण दग्धाद्रथादधःपतितस्याङ्गारवर्णनाम्नो गन्धर्वस्यार्जुनेन ग्रहणम्              |
@@ -386,8 +303,6 @@ MADRAS.
 | वसिष्टेन संवरणार्थ सूर्येण दत्तया तपत्या सह संवरण समीपं प्रत्यागमनम्                        |
 | वसिष्ठाभ्यनुज्ञया तपत्या सह संवरणस्य द्वादशवत्सर पर्यन्तं गिरौ विहारः                       |
 | संवरणस्य राज्येऽभावेन अनावृष्टिः                                                            |
-
-
 
 |                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------|
@@ -413,11 +328,7 @@ MADRAS.
 | कल्माषपादस्य वसिष्टादृश्यन्त्योर्भक्षणाय अभिद्रवणम्                                                       |
 | कल्माषपादस्य वसिष्टेन शापान्मोक्षणम्                                                                      |
 
-
-
 [TABLE]
-
-
 
 |                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------|
@@ -440,8 +351,6 @@ MADRAS.
 | अर्जुनेन धनुरारोपणपूर्वकं लक्ष्यवेधः                                                                               |
 | द्रौपद्या अर्जुनकण्ठे मालाप्रक्षेपः                                                                                |
 
-
-
 |                                                                                                             |
 |-------------------------------------------------------------------------------------------------------------|
 | राजसु क्रोधाद् द्रुपदहननार्थमागतेषु राज्ञां सम्मुखे भीमार्जनयोस्सज्जीभूय स्थितयोस्सतोः कृष्णबलरामयोस्संवादः |
@@ -462,8 +371,6 @@ MADRAS.
 | द्रुपदेन धृष्टद्युम्नं प्रति द्रौपदी केन हृतेति प्रश्नः                                                     |
 | वैवाहिकपर्व                                                                                                 |
 | धृष्टद्युम्नेन भीमार्जुनाभ्यां द्रौपदी हृतेति कथनम्                                                         |
-
-
 
 |                                                                                     |
 |-------------------------------------------------------------------------------------|
@@ -487,8 +394,6 @@ MADRAS.
 | पञ्चेन्द्रोपाख्यानम्                                                                |
 | बलरामकेशवद्रौपदीनामुत्पत्तिकथा                                                      |
 | द्रुपदेन व्यासदत्तदिव्यदृष्ट्या पाण्डवद्रौपदीपूर्वरूपदर्शनम्                       |
-
-
 
 |                                                                                            |
 |:------------------------------------------------------------------------------------------:|
@@ -515,8 +420,6 @@ MADRAS.
 |          दुर्योधनं प्रति कर्णेनोक्तं श्रुतवतो धृतराष्ट्र भीष्मादिभिस्सह मन्त्रणम्          |
 |         भीष्मेण दुर्योदनादिसमीपे पाण्डवेभ्योऽर्धराज्यं दातव्यमिति स्वाभिप्रायकथनम्         |
 
-
-
 |                                                                                  |
 |:--------------------------------------------------------------------------------:|
 |                        पाण्डवास्संविभज्या इति द्रोणवचनम्                         |
@@ -541,8 +444,6 @@ MADRAS.
 |                       नारदेन सुन्दोपसुन्दवृत्तान्तोपक्षेपः                       |
 |                         सुन्दोपसुन्दयोर्ब्रह्मणो वरलाभः                          |
 
-
-
 |                                                                                                          |
 |:--------------------------------------------------------------------------------------------------------:|
 |  सुन्दोपसुन्दयोर्दिग्विजयः,कुरुक्षेत्रे निवासश्चसुन्दोपसुन्दकृतोपद्रवस्य ब्रह्मणे देवादिभिः निवेदनम्   |
@@ -564,8 +465,6 @@ MADRAS.
 |                            अर्जुनेन पुत्रिकापुत्रकधर्मेण चित्राङ्गदापरिग्रहः                             |
 |                             अर्जुनस्य सौभद्रतीर्थे स्नानकाले ग्राहेण ग्रहणम्                             |
 
-
-
 |                                                                                                                |
 |:--------------------------------------------------------------------------------------------------------------:|
 |         वन्दानाम्न्या ग्राहरूप परित्यज्य स्त्रीरूपं प्राप्तया अर्जुनाय स्वेषां ब्राह्मणेन शापदानकथनम्          |
@@ -584,8 +483,6 @@ MADRAS.
 |                                    कृष्णेन रैवतके परिव्राजकरूपार्जुनदर्शनम्                                    |
 |             अर्जुनस्य सुभद्रादर्शनेन तस्यां सञ्जातहृच्छयस्य यति रूपेण सुभद्राहरणे कृष्णानुज्ञालाभः             |
 |                            कृष्णार्जुनाभ्यां दूतप्रेषणेन युधिष्ठिरस्याप्यनुज्ञालाभः                            |
-
-
 
 |                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------|
@@ -606,8 +503,6 @@ MADRAS.
 | भेरीताडनेन वृष्ण्यन्धकानां सन्नाहः                                                                                   |
 | युद्धोयुक्तानां यादवानां बलरामवाक्यान्निवृत्तिः                                                                      |
 | अर्जुने बलरामस्य कोपः                                                                                                |
-
-
 
 |                                                                                          |
 |:----------------------------------------------------------------------------------------:|
@@ -633,8 +528,6 @@ MADRAS.
 |                          युधिष्ठिरस्य राज्यपरिपालनप्रकारवर्णनम्                          |
 |                 अर्जुनस्य श्रीकृष्णेन सह जलक्रीडार्थं यमुनां प्रति गमनम्                 |
 
-
-
 |                                                                                                                     |
 |:-------------------------------------------------------------------------------------------------------------------:|
 |                                        कृष्णेन खाण्डववनदर्शनं तन्नाशदर्शनञ्च                                        |
@@ -659,8 +552,6 @@ MADRAS.
 |                          खाण्डवदाहं दृष्ट्वा त्रस्तैर्देवैः प्रार्थितेनेन्द्रेण जलवर्षणम्                          |
 |                                       इन्द्राभिवृष्टस्य जलस्यार्जनेन निवारणम्                                       |
 
-
-
 |                                                                                                |
 |:----------------------------------------------------------------------------------------------:|
 |         तक्षकभार्यायाः पुत्रमश्वसेनं निगीर्य आकाशोत्पतनकालेअर्जुनेन तस्याश्शिरश्छेदः          |
@@ -681,10 +572,6 @@ MADRAS.
 |                      जरितायाः पुत्रैस्सह संवादानन्तरं स्थानान्तरगमनम्...                       |
 |                       जरितार्यादीनां चतुर्णां शार्ङ्काणां परस्परं संवादः                       |
 
-
-
-
-
 |                                                                                          |
 |:----------------------------------------------------------------------------------------:|
 |                शार्ङ्गकैःकृतेन स्तोत्रेण प्रसन्नेनाग्निना तेभ्योऽभयदानम्                |
@@ -695,15 +582,12 @@ MADRAS.
 |            इन्द्रेण देवगणैस्सहागत्य कृष्णार्जुनाभ्यां वरं प्रदाय स्यलोकगमनम्             |
 |   कृष्णार्जुनाभ्यामनुज्ञां प्राप्याग्नेर्गमनानन्तरं कृष्णार्जुनमयानां नदीकूले उपवेशनम्   |
 
-
-
 ॥ आदिपर्वणि द्वितीयसंपुटम् ॥
 
 ![](../../../books_images/U-IMG-1704647321Screenshot2023-12-1919075878987889888887878787.png)  
 ॥ अष्टत्रिंशदधिकशततमोऽध्यायः ॥
 
 (अथ जतुगृहदाहपर्व॥८॥)  
-
 
 **पाण्डवानां वारणावतयात्रार्थं धृतराष्ट्रानुज्ञा ॥१॥**
 
@@ -724,8 +608,6 @@ MADRAS.
 यथा न वाच्यतां पुत्र गच्छामः कुरु तत्तथा॥३॥**
 
 [^2]: "क-ख-ग—धृतराष्ट्रस्तु वचनं श्रुत्वा सुमहदप्रियम्। उवाच मतिमान् वाक्यं सुयोधनमरिन्दमम्॥ जात्यन्धश्चाप्यहं तात पाण्डुना पूजितो भृशम्। राजानो यद्यपि श्रेष्ठा धर्महेतोर्भवन्ति हि॥ प्रज्ञाचक्षुरनेत्रत्वाद् अशक्तो राष्ट्रगोपने। न चान्धं प्रतिचक्राणि प्रतिव्यूहन्ति सङ्गरे। अर्थशास्त्रं मयाऽधीतं साङ्गा वेदाश्व पुत्रक। धार्तराष्ट्र स्वयं राज्ञा योद्धव्यं धर्मकाङ्क्षिणा॥"
-
-
 
 रणे च मृत्युस्स्वर्गाय राजन्यस्य विधीयते।  
 पुत्रसंक्रामितश्रीर्वा वासाय वनमाश्रयेत्॥
@@ -771,8 +653,6 @@ MADRAS.
 अनेकैरप्युपायैस्तैर्जिघांसन्ति स्म पाण्डवान्।  
 पाण्डवाश्चापि तत्सर्वं प्रतिचक्रुर्यथाबलम् ॥
 
-
-
 **उद्भावनमकुर्वाणा विदुरस्य मते स्थिताः।  
 गुणैस्समुदितान् दृष्ट्वा पौराः पाण्डुसुतांस्तदा।  
 कथयांचक्रिरे सर्वान् गुणान् संसत्सु भारत।  
@@ -802,10 +682,6 @@ MADRAS.
 सततं निरयं प्राप्ताः परपिण्डोपजीविनः।  
 न भवेम यथा राजन् तथा शीघ्रं विधीयताम्॥  
 अतस्त्वमपि राजेन्द्र राजवंशो भविष्यसि।**
-
-
-
-
 
 **यदि हि त्वं पुरा राज्ये भवानास्थापितो नृपः॥  
 ध्रुवं लप्स्यामहे राज्यं वयमप्यवशेन ते।  
@@ -837,8 +713,6 @@ MADRAS.
 **एवमेतन्महाराज भावितंदोषमात्मनि।  
 दृष्ट्वा प्रकृतयः पूर्वम् अर्थमानेन योजिताः॥  
 ध्रुवमस्मत्सहायास्तेभविष्यन्तिन संशयः।**
-
-
 
 **अर्थिवर्गस्सहामात्यो सत्संस्थो हि महीपते॥  
 स भवान् पाण्डवानाशु विवासयितुमर्हति।  
@@ -872,8 +746,6 @@ MADRAS.
 
 इत्यादिपर्वणि संभवपर्वणि सप्ताशीतितमोऽध्यायः॥
 
-
-
 **संप्रदध्वं यथाकामं देवा इव सुवर्चसः ॥१४॥**
 
 **कंचित्कालं विहृत्यैवम् अवाप्य च परां मुदम्।  
@@ -904,8 +776,6 @@ MADRAS.
 
 **प्रसन्नमनसस्सर्वे पुण्या या वाचो विमुञ्चत ॥२१॥**
 
-
-
 **आशीर्भिर्वर्धितानस्मान्[^4] न पापं प्रसहिष्यते ॥२२॥**
 
 [^4]: " घ—दैवयोगाद्वने जाता बाल्येऽस्माकं पिता मृतः। वयं ते वर्धितास्तत्रऋषिभिस्तत्त्वदर्शिभिः॥ मुनयोऽस्मान् समादाय दत्त्वा युष्मासु ते गताः। मातरः पितरो यूयम् अस्माकं गुरुसत्तमाः॥ अनाथानां च बालानाम् अनन्यानां पितामह। गतिर्हि यूयमस्माकं प्रज्ञाचक्षुर्भवानपि॥ अस्मासु स्नेहबाहुल्याद् उत्सवार्थं नृपोत्तम। देवस्य त्रिपुरारातेर् अस्मान् संप्रेषयत्यसौ॥ पश्यन्तु पितुरस्माकं स्नेहं प्रीतिं च सौहृदम्। विशेषेण स्वपुत्रेभ्यो निहत्यास्मान् पितामह॥"
@@ -927,8 +797,6 @@ MADRAS.
 \[अस्मिन्नध्याये २५ श्लोकाः।\]
 
 [^6]: "क-ग-घ—सम्भवपर्वणि अष्टाशीतितमोऽध्यायः— ख—सम्भवपर्वणि एकोननवतितमोऽध्यायः—"
-
-
 
 ॥ ऊनचत्वारिंशदधिकशततमोऽध्यायः ॥
 
@@ -957,8 +825,6 @@ MADRAS.
 सहायो मेऽसि सन्धाय मन्त्रयेयं यथा त्वया ॥५॥
 
 संरक्ष तात मन्त्रं च सपत्नांश्च ममोद्धर ॥६॥
-
-
 
 निपुणेनाभ्युपायेन तव वक्ष्यामि तच्छृणु ॥६॥
 
@@ -991,8 +857,6 @@ MADRAS.
 
 **वेश्मन्येवं कृते तत्र कृत्वा तान् परमार्चितान्।  
 वासयेथाः पाण्डवेयान् कुन्तीं च ससुहृज्जनाम् ॥१५॥**
-
-
 
 **तत्रासनानि मुख्यानि यानानि शयनानि च।  
 विधातव्यानि पाण्डूनां यथा तुष्येच्च मे पिता ॥१६॥**
@@ -1032,8 +896,6 @@ MADRAS.
 
 ——————
 
-
-
 ॥ चत्वारिंशदधिकशततमोऽध्यायः ॥
 
  हास्तिनपुरं त्यक्त्वा वारणावतं गच्छता युधिष्ठिरेण अनुगच्छतां पौराणां निवर्तनम् ॥१॥म्लेच्छभाषया युधिष्ठिरं प्रति विदुरस्योपदेशः ॥२॥
@@ -1062,8 +924,6 @@ MADRAS.
 **ततः[^16] केचिच्चावदन् स्म ब्राह्मणा निर्भयास्तदा ॥५॥**
 
 [^16]: " क-ख-ग-घ—तत्रकेचिद्रवन्ति स्म नागरा"
-
-
 
  पौराः—
 
@@ -1095,8 +955,6 @@ MADRAS.
 **ते[^21] वयं सर्वमेवेदं त्यक्त्वा ह्याशु पुरोत्तमम्।**
 
 [^21]: " क-ख-ग–वयमेवममृष्यन्तस्सर्व एव पुरोत्तमात्।"
-
-
 
 दारानादाय गच्छामो यत्र याति युधिष्ठिरः ॥१२॥
 
@@ -1132,8 +990,6 @@ MADRAS.
 
 प्राज्ञः कुशलवृत्तश्च सम्यग्धर्मार्थदर्शिवान्।
 
-
-
 विज्ञायेदं तथा कुर्याद् आपदं निस्तरेद्यथा ॥१९॥
 
 अलोहं निशितं शस्त्रं शरीरपरिकृन्तनम्।  
@@ -1165,8 +1021,6 @@ MADRAS.
 
 क्षत्ता यदब्रवीद्वाक्यं जनमध्येऽब्रुवन्निव।
 
-
-
 त्वया च तत्तथेत्युक्तं जानीमो न च तद्वयम् ॥२७॥
 
 **यदि तच्छक्यमस्माभिश्श्रोतुं न च सुदोषवत्।  
@@ -1192,7 +1046,6 @@ MADRAS.
 **॥८॥ जतुगृहदाहपर्वणि तृतीयोऽध्यायः॥३॥  
 \[ अस्मिन्नध्याये ३१ श्लोकाः\]**  
 
-
 ॥ एकचत्वारिंशदधिकशततमोऽध्यायः ॥
 
 ![](../../../books_images/U-IMG-1704995233Screenshot2023-12-071309520000000001221.png)
@@ -1205,8 +1058,6 @@ MADRAS.
 सर्वमङ्गलसंयुक्ता यथाशास्त्र[^26]मलङ्कृताः॥१॥**
 
 [^26]: "क-ख-ग-वस्त्रशस्त्रैरलङ्कृताः "
-
-
 
 श्रुत्वाऽऽगतान् पाण्डवेयान् नानायानैस्सहस्रशः।  
 अभिजग्मुर्नरश्रेष्ठाश् श्रुत्वैव परया मुदा ॥२
@@ -1236,8 +1087,6 @@ MADRAS.
 उपास्यमानाः पुरुषैर् ऊपुः पुरनिवासिभिः ॥१०॥
 
 दशरात्रोषितानां तु तत्र तेषां पुरोचनः।
-
-
 
 **निवेशयामास गृहं शिवाख्यमशिवं तदा ॥११॥**
 
@@ -1269,8 +1118,6 @@ MADRAS.
 
 [^27]: "क-ग—आपदं तेन मां पार्थ सर्वां बोधितवरंस्तदा अ—अतस्तेन तदा पार्थ सर्वान्बोधितवरंस्तदा ।"
 
-
-
 **ते[^28] वयं बोधितास्तेन बुद्धिमन्तोऽशिवं गृहम् ॥१९॥**
 
 [^28]: "अस्माकं भागधेयेन विदुरंण महात्मना ।"
@@ -1286,15 +1133,12 @@ MADRAS.
 
 [^29]: " क-ख-घ—दर्शयित्वा पृथग्गन्तुंन कार्यं प्रतिभाति मे। अशुभं वा शुभं वापि तैर्वसाम सहैव तु ॥ अद्यप्रभृति चास्मासु गतेषु भयविह्वलः । रूढमूलो भवेद्राज्ये धार्तराष्ट्रो जनेश्वरः ॥ तदीयं च भवेद्राज्यं तदीयास्स्युः प्रजा इमाः । तस्मात्सहैव वत्स्यामो गलन्यस्तपदा वयम् ॥ अस्माकं कालसामाद्य राज्यमाच्छिद्य शत्रुत । अर्धं पैतृकमस्माकं सुखं भोक्ष्याम शाश्वतम् ॥ धार्तराष्ट्रवचोऽस्माभिः किमर्थमनुमन्यते ॥ ग घ—तेभ्यो भीत्याऽन्यतो गन्तुं दौर्बल्यं ते कुतो नृप ॥ क-ग—आपत्सु रक्षिताऽस्माकं विदुरोऽस्ति महामतिः । मध्यस्थ एवं गाङ्गेयोराज्यभोगपराङ्मुखः ॥ बाह्लिकप्रमुखा वृद्धा मध्यस्था एव सर्वदा । अस्मदीयो भवेद्द्रणः फल्गुनप्रेमसंयुतः ॥ तस्मात्सहैव वस्तव्यं न गन्तव्यं पृथङ् नृप । अथवाऽस्मासु ते कुर्युः किमशक्ताः पराक्रमम् ॥ क्षुद्राः कपटिनो धूर्ता जागृमो मनुजेश्वर।"
 
-
-
 **तुष्टैरिव विचिन्वद्भिर् गतिमन्यां ब्रवीमि वः ॥२१॥**
 
 **आकारं यदि जानीयाद् अस्माकं हि पुरोचनः।  
 क्षिप्रकारी ततो भूत्वा प्रसह्यापि दहेत्ततः ॥२२॥**
 
  पूर्वतोऽनुवृत्तम्—  
-
 
 किं न कुर्युः पुरा मह्यं किं न दत्तं पुरा विषम्॥  
 आशीविषैर्महाघोरैः सर्पैस्तः किं न दंशितः।  
@@ -1320,8 +1164,6 @@ MADRAS.
 इहैव वस्तव्यमिति मन्मनो रोचतेऽनुज॥  
 इष्टैरिह विधिन्वद्भिर् गतिमन्यां सुखप्रदाम्।  
 इतः परं ते किं कुर्युः जिज्ञासुर्भीरुभीरुवत्॥**
-
-
 
 नायं बिभेत्युपक्रोशाद् अधर्माच्च पुरोचनः।  
 तथा च वर्तते मन्दः सुयोधनमते स्थितः ॥२३॥
@@ -1350,8 +1192,6 @@ MADRAS.
 भौमं च विलमद्यैव कारयामस्सुसंवृतम्।  
 गूढोच्छ्वासं ततस्तत्र हुताशस्संप्रधक्ष्यति॥३१॥
 
-
-
 **द्रवतोऽत्र यथा चास्मान् न बुध्येत पुरोचनः।  
 पौरो वाऽपि जनः कश्चित् तथा कार्यमतन्द्रितैः॥३२॥**
 
@@ -1379,14 +1219,11 @@ MADRAS.
 प्रच्छन्नं विदुरेणोक्तं पाण्डव म्लेच्छभाषया।  
 त्वया च तत्तथेत्युक्तम् एतदाश्वासकारणम् ॥३॥
 
-
 वैशम्पायनः[^30]—
 
 [^30]: "क-ख-ग—प्रतिपादय विश्वासादिति किं करवाणि वः। कृष्णपक्षचतुर्दश्यां रात्र्यामाशु पुरोचनः॥"
 
 **उबाचतं सत्यधृतिः कुन्तीपुत्रो युधिष्ठिरः ॥३॥**
-
-
 
  युधिष्ठिरः—
 
@@ -1418,8 +1255,6 @@ MADRAS.
 भवनस्य निशि द्वारि प्रदास्यति हुताशनम्।  
 मात्रासह प्रदग्धव्याः पाण्डवाः पुरुषर्षभाः॥  
 इति व्यवसितं पार्थ धृतराष्ट्रस्य में श्रुतम्।
-
-
 
 **सेयमापदनुप्राप्ता क्षत्ता यां दृष्टवान् पुरा।  
 पुरोचनस्याविदितं अस्मांस्त्वं विप्रमोचय ॥१२॥**
@@ -1454,8 +1289,6 @@ MADRAS.
 ॥८॥ जतुगृहदाहपर्वणि पञ्चमोऽध्यायः॥५॥  
 \[अस्मिन्नध्याये १८ श्लोकाः।\]
 
-
-
 ॥ त्रिचत्वारिंशदधिकशततमोऽध्यायः॥
 
  रात्रौकुन्त्या अन्नादिना ब्राह्मणपूजनम् ॥१॥ भीमेन जतुगृहस्या दीपनम्॥२॥ तस्य कुन्तीं भ्रातृृंश्वादाय सुरङ्गाद्वारा बहिर्निर्गमनम्॥३॥
@@ -1483,8 +1316,6 @@ MADRAS.
 
 **ता विहृत्य यथाकामं भुक्त्वा पीत्वा च भारत।  
 जग्मुर्निशि गृहानेव समनुज्ञाप्य माधवीम् ॥६॥**
-
-
 
 **पुरोचनप्रणिहिता पृथां स्म खलु सेवते।  
 निषादी दुष्टहृदया नित्यमन्तरचारिणी ॥७॥**
@@ -1517,8 +1348,6 @@ MADRAS.
 
 [^33]: "घ—गृहस्थं द्रव्यसंजातं निर्जगाम बिलेन सः।"
 
-
-
  पौराः—
 
 दुर्योधनप्रयुक्तेन पापेनाकृतबुद्धिना।  
@@ -1548,8 +1377,6 @@ MADRAS.
 
 **स्कन्धमारोप्य जननीं यमावङ्केन वीर्यवान्।**
 
-
-
 **पार्थौ[^35]गृहीत्वा पाणिभ्यां भ्रातरौ सुमहाबलै ॥२२॥  
 तरसा पादपान् भञ्जन् महीं पद्भ्यां विदारयन्।  
 स[^36] जगामाशु तेजस्वी वातरंहा वृकोदरः ॥२३॥**
@@ -1563,12 +1390,9 @@ MADRAS.
 **॥८॥ जतुगृहदाहपर्वणि पष्टोऽध्यायः॥६॥  
 \[अस्मिन्नध्याये २३॥ श्लोकाः\]**  
 
-
 ॥ चतुश्चत्वारिंशदधिकशततमोऽध्यायः॥
 
 ![](../../../books_images/U-IMG-1705054607Screenshot2023-12-2322092554545555545555.png)
-
- 
 
 पौरैःपाण्डवानां दाहं निश्चित्य धृतराष्ट्राय दूतमुखेन पाण्डव वृत्तान्तनिवेदनम् ॥१॥ तच्छ्रवगेन ज्ञातिभिस्सह धृतराष्ट्रेण कुन्त्यादीनां उदकशनम् ॥२॥ भीष्मविदुरयोस्संवादः ॥३॥
 
@@ -1577,8 +1401,6 @@ MADRAS.
 **अथ रात्र्यांव्यतीतायां सशोको नागरो जनः ।  
 तत्राजगाम त्वरितो दिदृक्षुः पाण्डुनन्दनान् ॥१॥  
 निर्वापयन्तो ज्वलनं ते जना ददृशुस्तदा ।**
-
-
 
 जातुषं तद्गृहं दग्धम् अमात्यं च पुरोचनम् ॥२॥
 
@@ -1606,13 +1428,10 @@ MADRAS.
 
 ततस्ते प्रेषयामासुर् धृतराष्ट्रस्य नागराः।
 
-
-
 **पाण्डवानग्निना दग्धान् अमात्यं च पुरोचनम् ॥९॥**
 
 **श्रुत्वा तु धृतराष्ट्रस्तद् राजा सुमहदप्रियम्।  
 विनाशंपाण्डवेयानां विललाप सुदुःखितः ॥१०॥**
-
 
 धृतराष्ट्रः[^39]—
 
@@ -1637,8 +1456,6 @@ MADRAS.
 समेतास्तु ततस्सर्वे भीष्मेण सह कौरवाः।  
 धृतराष्ट्रस्सपुत्रश्च गङ्गामभिमुखा ययुः॥१५॥  
 एकवस्त्रा निरानन्दा निराभरणवेष्टनाः।
-
-
 
 **उदकं कर्तुकामा वै पाण्डवानां महात्मनाम् ॥१६॥**
 
@@ -1665,8 +1482,6 @@ MADRAS.
 
 **तरसा वेगितात्मानौ निर्भेत्तुमपि मन्दिरम्।  
 परासुत्वं न पश्यामि पृथायास्सह पाण्डवैः ॥२२॥**
-
-
 
 सर्वथा विकृतं नीतं यदि ते निधनं गताः ॥२३॥
 
@@ -1697,8 +1512,6 @@ MADRAS.
 एतच्च चिन्तयानस्य व्यथितं बहुधा मनः।  
 अवधूय च मे देहं हृदयेऽग्निरुदीर्यते ॥३२॥
 
-
-
 **पीनस्कन्धश्चारुबाहुर् मेरु[^42] कुञ्जसमो युवा।  
 मृतो भीम इति श्रुत्वा मनो न श्रद्दधाति मे ॥३३॥**
 
@@ -1721,12 +1534,9 @@ MADRAS.
 **कथं तावृषभस्कन्धौ सिंहविक्रान्तगामिनौ।  
 सर्त्यधर्ममनुप्राप्तौ यमावरिनिबर्हणौ ॥३८॥**
 
-
 वैशम्पायनः—[^44]
 
-
 [^44]: "क-ग-घ—गता वत्सामां वृद्धं विहाय भृशमातुरम्। हा स्नुषे वत्सं वार्ष्णेयिनिधाय हृदि मे शुचम्॥ वारणावतयात्रायां के स्नुर्वैशकुनाः पथि। एवमल्पायुषोलोके भविष्यन्ति पृथासुताः॥ मंशप्ता इति कैर्यूयं वसान् दर्शय मे विधे। ममैव नाथा मन्नाथामम नेत्राणि पाण्डवाः॥ हा पाण्डवा मे हा वत्सा हा सिंहशिशवो मम। मातङ्गा हा ममतोङ्गाहा ममानन्दवर्धनाः॥"
-
 
 **तस्य[^45] विक्रन्दितं श्रुत्वा उदकं च प्रसिञ्चतः।  
 देशं कालं समाज्ञाय विदुरः प्रत्यभाषत ॥३९॥**
@@ -1760,8 +1570,6 @@ MADRAS.
 हा युधिष्ठिर हा भीम हा फल्गुन हा यमौ।  
 मा गच्छत निवर्तध्वं मयि कोपं विमुञ्चत॥
 
-
-
  वैशम्पायनः—
 
 **एवमुक्तस्तु कौरव्य कौरवाणामशृण्वताम् ।  
@@ -1792,8 +1600,6 @@ MADRAS.
 **अग्निदाहान्महाघोरान्मया तस्मादुपायतः।  
 मा शोकं कार्षी राजंस्त्वं जीवन्त्येव च पाण्डवाः ॥५२॥**
 
-
-
 प्रच्छन्ना विचरिष्यन्ति यावत्कालस्य पर्ययः ॥५२॥
 
 तस्मिन् युधिष्ठिरं काले द्रक्ष्यन्ति भूवि भूमिपाः।  
@@ -1817,8 +1623,6 @@ MADRAS.
  वैशम्पायनः—
 
 पाण्डवाश्चापि निर्गम्य नगराद्वारणावतात्।
-
-
 
 अथाम्बिकेयस्सामात्यः सकर्णस्सहसौबलः॥  
 सात्मजः पार्थनाशस्य स्मरंस्तथ्यं जहर्ष व।  
@@ -1853,8 +1657,6 @@ MADRAS.
 म्लेच्छभाषां वदन्नेव विदुरेण पुरेरिताम् ॥  
 रात्रौपाण्डुसुतान् दृष्ट्वा सान्त्वयित्वा वच्चोऽब्रवीत्।**
 
-
-
 जवेन प्रययुर्वीरा दक्षिणां दिशमाश्रिताः ॥१॥
 
 एतस्मिन्नेव काले तु यथासंप्रत्ययं कविः।  
@@ -1887,8 +1689,6 @@ MADRAS.
 
  (इतः परं—पाण्डवाश्चापि निर्गम्य नगराद्वारणावतात् इत्यारम्भो मूले दृश्यते)
 
-
-
 **विदितं तन्महाबुद्धेर् विदुरस्य महात्मनः।  
 तत्रस्थस्यापि चारेण पापानां वै चिकीर्षितम्॥४॥**
 
@@ -1919,8 +1719,6 @@ MADRAS.
  वैशम्पायनः—
 
 पाण्डवाश्च तथा गत्वा गङ्गायास्तीरमुत्तमम्।
-
-
 
 निषादाधिपतिं वीरा दाशं परमधार्मिकम् ॥१२॥
 
@@ -1954,8 +1752,6 @@ MADRAS.
 इत्युक्त्वा तान् समारोप्य तारयामास पाण्डवान्।  
 इत्युक्तास्सह मात्रा ते तस्मान्मुक्ता महाभयात् ॥२१॥
 
-
-
 **गङ्गामुत्तीर्य कौन्तेया वनं जग्मुर्यथागतम् ॥२१॥**
 
 **ततस्तां तत्र तीर्त्वा तु गङ्गां भागीरथीं नदीम्।  
@@ -1984,8 +1780,6 @@ MADRAS.
 **॥८॥ जतुगृहदाहपर्वणि अष्टमोऽध्यायः॥८॥  
 \[अस्मिन्नध्याये २८॥ श्लोकाः\]**
 
-
-
 ॥ षट्चत्वारिंशदधिकशततमोऽध्यायः॥
 
  तृषार्तान् मातरं भ्रातृृंश्च न्यग्रोधमूले स्थापयित्वा ज्जलानयनाय भीमस्य गमनम्॥१॥ जलमानीयागतस्य सुप्तान् मात्रादीन् पश्यतो भीमस्य प्रलापः ॥२॥
@@ -2013,8 +1807,6 @@ MADRAS.
 
 **कृच्छ्रेण मातरं ह्येकां सुकुमारीं यशस्विनीम्।  
 अवहत्तत्र पृष्ठेन रोधस्सु विषमेषु च ॥५॥**
-
-
 
 अगमञ्च वनोद्देशम् अल्पमूलफलोदकम् ।
 
@@ -2054,8 +1846,6 @@ MADRAS.
 
 कारुण्येन मनश्चक्रेगमनायाथ सत्वरः ॥१२॥
 
-
-
 **ततो भीमो वनं घोरं प्रविश्य विजनं महत्।  
 न्यग्रोधं विपुलच्छायं रमणीयमुपाद्रवत् ॥१३॥**
 
@@ -2079,8 +1869,6 @@ MADRAS.
 **स[^54] सुप्तां मातरं प्रेक्ष्य भ्रातृृंश्च वसुधातले।**
 
 [^54]: "क-ग—भ्रातृृंश्च मातरं चैव जलं शीतमपाययत्। पीतोदकास्ते सर्वेऽपि परिश्रमवशात् पुनः। निद्रापहृतधैर्याश्च सुषुपुर्भृशविह्वलाः॥"
-
-
 
 भृशं[^55] दुःखपरीतात्मा विललाप वृकोदरः ॥२०॥
 
@@ -2106,10 +1894,6 @@ MADRAS.
 अयं[^56] नीलाम्बुदप्रख्यो नरेष्वप्रतिमो भुवि।
 
 [^56]: "क-ख-ग—किं नु दुःखतरं द्रष्टं मया शक्यमतः परम्। योऽहमद्य नरव्याघ्रान् पश्यामि धरणीं गतान्॥ त्रिषु लोकेषु वै राजन् धर्मनित्योऽर्हति प्रभुः। सोऽयं भूमौ परिश्रान्तः शेते प्राकृतवत् कथम्॥"
-
-
-
-
 
 शेते प्राकृतवद्भूमौ ततो दुःखतरं नु किम् ॥२६॥
 
@@ -2138,8 +1922,6 @@ MADRAS.
 तस्मान्मुक्ता वयं दाहाद् इमं वृक्षमुपाश्रिताः।  
 कां दिशं प्रतिपत्स्यामः प्राप्ताः क्लेशमनुत्तमम् ॥३३॥
 
-
-
 नातिदूरेण नगरं वनादस्माद्धि लक्षये।  
 जागर्तव्ये स्वपन्तीमे हन्त जागर्म्यहं स्वयम् ॥३४॥
 
@@ -2147,23 +1929,17 @@ MADRAS.
 
 इति भीमो विनिश्चित्य जागर्ति स्म प्रयत्नवान् ॥३५॥
 
-
-
 इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम् आदिपर्वणि षट्चत्वारिंशदधिकशततमोऽध्यायः॥१४६॥
 
 ॥८॥ अतुगृहदाहपर्वणि नवमोऽध्यायः॥९॥  
 \[अस्मिन्नध्याये ३५॥श्लोकाः\]  
 ॥ अनुगृहदाहपर्व समाप्तं॥
 
-
-
 ॥ सप्तचत्वारिंशदधिकशततमोऽध्यायः॥
 
 ![](../../../books_images/U-IMG-1703247783Screenshot2023-12-1217334320000.jpg)
 
 ॥ हिडिम्बवधपर्व ॥
-
- 
 
 हिडिम्बप्रेरितायाः तद्भगिन्या हिडिम्बायाः पाण्डवसमीपगमनम्॥१॥ भीमे कामार्ताया हिडिम्बायाः भीमं प्रति वाक्यम्॥२॥ भीम हिडिम्बीसंवादः॥३॥
 
@@ -2173,8 +1949,6 @@ MADRAS.
 अविदूरे वनात्तस्मात् सालवृक्षमुपाश्रितः ॥१॥
 
 **क्रूरो मानुषमांसादो महावीर्यो महाबलः।**
-
-
 
 आघ्राय[^58] मानुषं गन्धं भगिनीमिदमब्रवीत् ॥२॥
 
@@ -2202,8 +1976,6 @@ MADRAS.
 सहितौ भक्षयिष्यावः कुरु क्षिप्रं वचो मम ॥८॥
 
 ततस्तुष्टौ प्रनृत्यावः प्रगीतौतलतालकौ ॥८॥
-
-
 
  वैशंपायनः—
 
@@ -2239,8 +2011,6 @@ MADRAS.
 
 [^61]: "क-ख-घ—र्वचो"
 
-
-
 पतिहेतुहि बलवान् न तथा भ्रातृसङ्गमः ॥१७॥
 
 मुहूर्तमपि चाद्याहं प्राप्नुयां तृप्तिमुत्तमाम्।  
@@ -2274,8 +2044,6 @@ MADRAS.
 
 **लज्जया नम्यमानेव सर्वाभरणभूषिता।**
 
-
-
 स्मितपूर्वमिदं वाक्यं भीमसेनमथाब्रवीत् ॥२६॥
 
  हिडिम्बी—
@@ -2305,8 +2073,6 @@ MADRAS.
 त्वया ह्यहं परित्यक्ता न जीवेयमरिन्दम् ॥३४॥
 
 अन्तरिक्षचरी चास्मि कामरूपधराऽपि च।
-
-
 
 अतुलामाप्नुहि प्रीतिं तत्र तत्र मया सह ॥३५॥
 
@@ -2342,8 +2108,6 @@ MADRAS.
 
 सुखसुप्तानिमान् भ्रातॄन् मातरं चैव राक्षसि।
 
-
-
 न भयाद्बोधयिष्यामि भ्रातुस्तव दुरात्मनः ॥४२॥
 
 न हि मे राक्षसा भीरु सोढुं शक्ताः पराक्रमम्।  
@@ -2371,8 +2135,6 @@ MADRAS.
 
 **तलं तलेन संहत्य वाहू विक्षिप्य चासकृत्।**
 
-
-
 उद्वृत्तनेत्रस्संक्रुद्धो दन्तान् दन्तेषु निष्कषन् ॥३॥
 
 कोऽद्य मे भोक्तुकामस्य विघ्नं चरति दुर्मतिः।  
@@ -2380,8 +2142,6 @@ MADRAS.
 
 तमापतन्तं दृष्टैवतथारूपं भयङ्करम्।  
 हिडिम्ब्युवाच वित्रस्ता भीमसेनमिदं वचः ॥५॥
-
-
 
  हिडिम्बी—
 
@@ -2405,8 +2165,6 @@ MADRAS.
 सोढुं युधि परिस्पन्दम् अशक्तास्सर्वराक्षसाः ॥१०॥
 
 **पश्य बाहू सुवृत्तौ मे हस्तिहस्तोपमौशुभौ।**
-
-
 
 ऊरू परिघसङ्काशौ संहतं चाप्युरो मम॥११॥
 
@@ -2435,8 +2193,6 @@ MADRAS.
 कस्मान्मे भोक्तुकामस्य विघ्नं चरसि दुर्मते ।  
 न बिभेषि हिडिम्बे किं कामाद्वै विप्रमोहिता ॥१६॥
 
-
-
 धिक् त्वां पुरुषकामां वै मम विप्रियकारिणीम् ।  
 कुलस्य राक्षसेन्द्राणां सर्वेषामयशस्करीम् ॥१७॥
 
@@ -2463,8 +2219,6 @@ MADRAS.
 
 ![](../../../books_images/U-IMG-1703904626Screenshot2023-11-30232232222222121.png)
 
- 
-
  भीमहिडिम्बयोर्युद्वम्॥१॥
 
 —————
@@ -2473,8 +2227,6 @@ MADRAS.
 
 **भीमसेनस्तु तं दृष्ट्वा राक्षसं प्रहसन्निव।  
 भगिनीं प्रति सङ्क्रुद्धम् इदं वचनमब्रवीत् ॥१॥**
-
-
 
 कि ते प्रियं हिडिम्बैतैः सुखसुप्तैःप्रबोधितैः।  
 मामासादय दुर्बुद्धे तरसा त्वं नराशन् ॥२॥
@@ -2511,8 +2263,6 @@ MADRAS.
 
 **९॥**
 
-
-
 कर्षन्तु भुवि संहृष्टा निहतस्य मया मृधे॥९॥
 
 क्षणेनाद्य करिष्यामि वनं निहतकण्टकम्।  
@@ -2544,8 +2294,6 @@ MADRAS.
 
 [^70]: "घ— ऽभ्यद्भवद्भीमः संक्रुद्धो भैरवं नदन्।"
 
-
-
 अभ्यधावत् सुसंक्रुद्धो भीमसेनमरिन्दमम्॥१७॥
 
 तस्याभिपततस्तूर्णं[^71]भीमो भीमपराक्रमः।  
@@ -2570,8 +2318,6 @@ MADRAS.
 वभञ्जतुर्महावृक्षांल्लताश्च[^73] विचकर्षंतुः।
 
 [^73]: " क-ख-ग-घ—भङक्वा वृक्षान् महाशाखांस्तहुयामासतुस्तदा। सालतालनमालाम्रार्जुनवटाविभातकान्॥१॥  न्यग्रोधप्यक्षस्वर्जरपनसानश्तकण्टकान्। एतानन्यान् महावृक्षान् उत्सवाय तरसाऽखिलान्॥२॥  उत्सायान्यान्यरोपेण ताडयामासतू रणे। यदाऽभवद्वनं सर्वं निर्वृक्षं वृक्षमङ्गलम्॥३॥"
-
-
 
 प्रमत्ताविव सङ्क्रुद्धौ मातङ्गौषष्टिहायनौ ॥२३॥
 
@@ -2607,8 +2353,6 @@ MADRAS.
 तयोर्युद्धेन राजेन्द्र तद्वनंभीमरक्षसोः।  
 मुहूर्तेनाभवत्कूर्मपृष्ठवच्छूक्ष्णमव्रणम् ॥
 
-
-
 तयोश्शब्देन[^75] महता विबुद्धास्ते नरर्षभाः।  
 सह मात्राऽथ ददृशुर् हिडिम्बीमग्रतस्स्थिताम् ॥२९॥
 
@@ -2618,8 +2362,6 @@ MADRAS.
 
 ॥९॥ हिडिम्बवधपर्वणि तृतीयोऽध्यायः॥३॥  
 \[अस्मिन्नध्याये २९श्लोकाः\]
-
-
 
 ॥ पञ्चाशदधिकशततमोऽध्यायः॥
 
@@ -2637,8 +2379,6 @@ MADRAS.
 
 **कस्य त्वं सुरगर्भाभे का वाऽसि वरवर्णिनि।  
 केन कार्येण सुभगे कुतश्चागमनं तव ॥३॥**
-
-
 
 यदि वाऽसि वनस्यास्य देवता यदि वाऽप्सराः।  
 आचक्ष्व मम तत्सर्वं किमर्थं चेह तिष्ठसि ॥४॥
@@ -2671,8 +2411,6 @@ MADRAS.
 
 [^76]: "क-ख-ग—निष्पिषन्तौ"
 
-
-
  वैशम्पायनः—
 
 तत्तस्तस्या वचश्श्रुत्वा उत्पपात युधिष्ठिरः।  
@@ -2704,8 +2442,6 @@ MADRAS.
 साहाय्येऽम्मि स्थितः पार्श्वे योधयिष्यामि राक्षसम्‌।  
 नकुलस्सहदेवश्वमातरं गोपायिष्यतः॥२०॥
 
-
-
  भीमः—
 
 उदासीनो निरीक्षस्व न कार्यस्संभ्रमस्त्वया ।  
@@ -2734,8 +2470,6 @@ MADRAS.
 रक्षो जहि यथा शुक्रः पुरा वृत्रं महाहवे ॥२७॥
 
 अथवा मन्यसे भारं त्वमिमं राक्षसं युधि।
-
-
 
 आतिष्ठे तव साहाय्यं शीघ्रमेव तु हन्यताम् ॥२८॥
 
@@ -2770,8 +2504,6 @@ MADRAS.
 
 [^80]: " अ—अथैनमाक्षिप्य बलात् पशुवच्चाप्यमारयत्।"
 
-
-
 भुजाभ्यां योक्तयित्वा तु बलवान् पाण्डुनन्दनः।  
 समुद्गृह्य शिरश्चास्य सुग्रीवं तदुपाक्षिपत् ॥३६॥
 
@@ -2802,8 +2534,6 @@ MADRAS.
 अदूरे नगरं मन्ये वनादस्मादहं प्रभो।  
 शीघ्रं गच्छाम भद्रं ते न नो विद्यात् सुयोधनः ॥४३॥
 
-
-
  वैशम्पायनः—
 
 ततस्सर्वे तथेत्युक्त्वा मात्रा सह महारथाः।  
@@ -2832,8 +2562,6 @@ MADRAS.
 
 अहं ते दर्शनादेव मन्मथस्य वशं गता।  
 क्रूंरंभ्रातृवशं हित्वा सा त्वामेवानुरुन्धती ॥३॥
-
-
 
 राक्षसे रौद्रसङ्काशे तवापश्यं विचेष्टितम्।  
 अहं शुश्रूपुरिच्छेयं तव गात्रं निषेवितुम् ॥४॥
@@ -2868,8 +2596,6 @@ MADRAS.
 
 मया ह्यस्सृज्य सुहृदो ज्ञातीन् स्वं धर्ममेव च।
 
-
-
 वृतोऽयं पुरुषव्याघ्रस् तव पुत्रः पतिश्शुभः ॥११॥
 
 वरेणानेन तु विना नाहं जीवितुमुत्सहे।  
@@ -2901,8 +2627,6 @@ MADRAS.
 
 पृष्ठेन वः प्रवक्ष्यामि क्षणेन गतिर्माप्सिताम्।
 
-
-
 एवं ब्रुवन्ती हि तथा प्रत्याख्याता क्रियां प्रति ॥२०॥
 
 लभ्यान् दुष्कृतिनो लोकान् गमिष्येऽहं न संशयः॥२०॥
@@ -2933,8 +2657,6 @@ MADRAS.
 व्यासं कमलपत्राक्षं दृष्ट्वा शोकं विहास्यथ ॥२८॥
 
 **धार्तराष्ट्राद्विवासश्च दहनं वारणावते।**
-
-
 
 त्राणं च विदुरात्तुभ्यं विदितं ज्ञानचक्षुषा ॥२९॥
 
@@ -2969,8 +2691,6 @@ MADRAS.
 
 **नित्यं कृताह्रिका स्नाता कृतशौचा सुरूपिणी।**
 
-
-
 स्नातं कृताह्रिकं भद्रे कृतकौतुकमङ्गलम् ॥३७॥
 
 भीमसेनं भजेथास्त्वम् उदिते वै दिवाकरे ॥३७॥
@@ -2999,8 +2719,6 @@ MADRAS.
 
 युधिष्ठिरेणैवमुक्ता कुन्त्या चाङ्केऽधिरोपिता।  
 भीमार्जुनान्तरगता यमाभ्यां च पुरस्कृता ॥१॥
-
-
 
 तिर्यग्युधिष्ठिरेयाति हिडिम्बा भीमगामिनी ॥१॥
 
@@ -3032,8 +2750,6 @@ MADRAS.
 
 तस्मान् पाण्डुहितार्थं मे युवराज हितं कुरु।  
 निकृता धार्तराष्ट्रेण पापेनाकृतबुद्धिना ॥९॥
-
-
 
 दुष्कृतस्य प्रतीकारं न पश्यामि वृकोदर ॥१०॥
 
@@ -3071,8 +2787,6 @@ MADRAS.
 **विशेषतो मत्सकाशे मा प्रकाशय नीचताम्।**  
 **उत्तमस्त्रीगुणोपेता भजेथा वरवर्णिनि ॥१८॥**
 
-
-
  वैशम्पायनः—
 
 सा तथेति प्रतिज्ञाय हिडिम्बी राक्षसी तदा।  
@@ -3103,8 +2817,6 @@ MADRAS.
 सर्वर्तुफलवृक्षेषु मानसेषु वनेषु च।  
 विभ्रती परमं रूपं रमयामास पाण्डवम् ॥२६॥
 
-
-
 यथा च सुकृती स्वर्गे मोदतेऽप्सरसा सह।  
 स तथा परमप्रीतस् तथा रेमे महाद्युतिः ॥२७॥
 
@@ -3127,11 +2839,7 @@ MADRAS.
 ॥९॥ हिडिम्बवधपर्वणि षष्ठोऽध्यायः॥६॥  
 \[अस्मिन्नध्याये ३१॥श्लोकाः।\]
 
-
-
 ॥ त्रिपञ्चाशदधिकशततमोऽध्यायः॥
-
-
 
  व्यासागमनम् ॥१॥ तेन कुन्त्या आश्वासनम् ॥२॥ व्यासस्य प्रति निवर्तनं च ॥३॥ घटोत्कचोत्पतिः ॥४॥ पाण्डवानां एकचक्राप्रवेशः॥५॥
 
@@ -3158,8 +2866,6 @@ MADRAS.
 स्वराष्ट्रे विहरिष्यन्तो भविष्यथ सबान्धवाः ॥६॥
 
 समाप्तेवत्सरे सर्वे यूयं चैव न संशयः॥६॥
-
-
 
 दीनतो बालतश्चैव स्नेहं कुर्वन्ति बान्धवाः।  
 तस्मादभ्यधिकस्स्नेहो युष्मासु मम संप्रति ॥७॥
@@ -3195,8 +2901,6 @@ MADRAS.
 पुत्रास्तव च मान्द्याश्च पञ्चैते पुरुषात्तमा ।  
 स्वराष्ट्रे विहरिष्यन्ति सुखं सुमनसस्तदा ॥१५॥
 
-
-
 यक्ष्यन्ति च नरव्याघ्रा विजित्य पृथिवीमिमाम्।  
 राजसूयाश्वमेघाद्यैः क्रतुभिर्भूरिदक्षिणैः॥१६॥
 
@@ -3229,8 +2933,6 @@ MADRAS.
 
 [^92]: "क-ख-ग—तदा राजन् ततः कमलपालिका।"
 
-
-
 रमयन्ती सदा भीमं तत्र तत्र मनोजवा।  
 दिव्याभरणवस्त्राङ्गी दिव्यस्रगनुलेपना ॥२३॥
 
@@ -3259,8 +2961,6 @@ MADRAS.
 [^94]: "क-ख-ग-घ—यः पिशाचानतीत्यान्यान् बभूवाति स मानुषान्।"
 
 सद्यो हि गर्भं राक्षस्यो लभन्ते प्रसवन्ति च।
-
-
 
 कामरूपधराश्चैव भवन्ति बहुरूपिणः ॥३१॥
 
@@ -3293,8 +2993,6 @@ MADRAS.
 **यथा हि रावणो लोके इन्द्रजिद्वा महाबलः।  
 तेषां वीर्यसमो वीर्ये विशिष्टश्चाभवं नृषु ॥३८॥**
 
-
-
 कृत्यकाल उपस्थास्ये पितृृनिति[^96] घटोत्कचः।  
 आमन्त्र्य राक्षसश्रेष्ठः प्रतस्थे चोत्तरां दिशम् ॥३९॥
 
@@ -3326,10 +3024,6 @@ MADRAS.
 
 ब्राह्मं वेदमधीयाना वेदाङ्गानि च सर्वशः।
 
-
-
-
-
 नीतिशास्त्रं च धर्मज्ञ धर्मज्ञानं च पाण्डवाः ॥४६॥
 
 शालिहोत्रप्रसादेन लब्ध्वा प्रीतिमनुत्तमाम् ॥४७॥
@@ -3360,8 +3054,6 @@ MADRAS.
 
 **एवं स तान् समाश्वास्य व्यासः पार्थानरिन्दमान्।**
 
-
-
 एकचक्रामभिगतां कुन्तीमाश्वासयत्प्रभुः ॥५४॥
 
  व्यासः—
@@ -3389,8 +3081,6 @@ MADRAS.
 \[ अस्मिन्नध्याये ५८ श्लोकाः \]  
 ॥ हिडिम्बवधपर्व समाप्तम् ॥
 
-
-
 ॥ चतुःपञ्चाशदधिकशततमोऽध्यायः॥
 
 ![](../../../books_images/U-IMG-1703666538Screenshot2023-12-1217334320000.jpg)  
@@ -3398,7 +3088,6 @@ MADRAS.
 (बकवधपर्व )
 
  एकचक्रायांभिक्षामटतः पाण्डवान् दृष्ट्वा पौराणां वितर्कः॥१॥ कुम्भकाराङ्गीमस्य महत्तरपात्रलाभः॥२॥ सभार्यस्य तद्गृहस्वामिनो ब्राह्मणस्य क्रन्दितं श्रुतवत्याःकुन्त्याः भीमानुमत्या ब्राह्मणान्तर्गृहप्रवेशः॥३॥ ब्राह्मणप्रलापः॥४॥
-
 
 वैशम्पायनः—[^99]
 
@@ -3412,8 +3101,6 @@ MADRAS.
 [^100]: " स्व—अतः परं द्विजश्रेष्ठ किमकुर्वत पाण्डवाः।   वैशम्पायनः—  एकचक्रां गतास्तेतु पुत्राकुन्त्यामहाबलाः । ऊषुस्तस्य चिरं कालं ब्राह्मणस्य निवेशने ॥"
 
 युधिष्ठिरं च कुन्तीं चचिन्तयन्त उपासते ॥२॥
-
-
 
 भैक्षं चरन्तस्तु तदा जटिला ब्रह्मचारिणः।  
 वभूवुर्नागराणां ते स्वगुणैः प्रियदर्शनाः॥३॥
@@ -3441,8 +3128,6 @@ MADRAS.
 निवेदयन्ति[^103] स्म सदा भैक्षं कुन्त्यै च ते निशि ॥८॥
 
 [^103]: "घ—मात्रेनिवेदयन्ति स्म कुन्त्यै भैक्षं दिवानिशम्।"
-
-
 
 तया[^104] विभक्तान् भिक्षाशान् भुञ्जते स्म पृथक् पृथक्॥९
 
@@ -3474,8 +3159,6 @@ MADRAS.
 तदादायागतं दृष्ट्वा हसन्ति प्रहसन्ति च ॥१५॥
 
 [^108]: " घ—यान् स कुरुते भाण्डान् सपुत्रश्शरदश्शतम्॥"
-
-
 
 भक्ष्यभोज्यानि विविधान्यादाय प्रक्षिपन्ति च।  
 एवमेष सदा भुक्त्वा मात्रे वदति वै रहः ॥१६॥
@@ -3509,8 +3192,6 @@ MADRAS.
 [^111]: "घ—स्सुखम्।"
 
 एतावान् पुरुषस्तात कृतं यस्मिन् न नश्यति।
-
-
 
 यावच्च कुर्यादन्योऽस्य कुर्यादभ्यधिकं ततः ॥२३॥
 
@@ -3564,8 +3245,6 @@ MADRAS.
 
 **३०॥**
 
-
-
 एकात्मना च धर्मार्थोैकामश्च न निषेव्यते।  
 एतैश्च विप्रयोगेऽपि दुःखं परमकं मतम् ॥३१॥
 
@@ -3594,8 +3273,6 @@ MADRAS.
 
 न भोजनं विरुद्धं स्यान्न स्त्रीदेशो निवन्धनः।
 
-
-
 सुदूरमपि कार्यार्थे ब्रजेद्गरुडवासवत्[^116]॥३९॥
 
 [^116]: "क-ख-ग—व्रजेत्प्राज्ञस्तु हंसवत्॥"
@@ -3612,8 +3289,6 @@ MADRAS.
 सखीं च विहितां देवैर् नित्यं परमिकां रतिम् ॥४२॥
 
 मात्रा पित्रा विरहितां सदा दाक्षिण्यभागिनीम्।
-
-
 
 वरयित्वा यथान्यायं मन्त्रवत्परिणीय च॥४३॥
 
@@ -3637,8 +3312,6 @@ MADRAS.
 कन्यायां केचिदपरे मम तुल्यावुभौ मतौ ॥४८॥**
 
 [^120]: "घ—मेधाविनीमदोषां तां शुश्रूषुमनहंकृताम्। तामिमां मे सुतां बालां नाहमुत्स्स्रुष्टमुत्सहे॥"
-
-
 
 यस्यां लोके प्रतिष्ठा च वरं नित्यमथोसुखम्‌।  
 अपापां तांकथंबालाम्‌ उत्स्रष्टुमहमुत्सहे॥४९॥
@@ -3666,13 +3339,9 @@ MADRAS.
 ॥१०॥ बकवधपर्वणि प्रथमोऽध्यायः॥१॥  
 \[अस्मिन्नध्याये ५३ श्लोकाः\]
 
-
-
 ॥ पञ्चपञ्चाशदधिकशततमोऽध्यायः॥
 
 ![](../../../books_images/U-IMG-1704337281Screenshot2023-12-2507460821454444411414141414.png)
-
-
 
 ब्राह्मणं प्रति तत्पत्नीवाक्यम् ॥१॥
 
@@ -3701,8 +3370,6 @@ MADRAS.
 [^125]: "क-ख-ग-घ—भूयनत्र"
 
 यदर्थमिष्यते भार्या प्राप्तस्सोऽर्थस्त्वया मयि॥६॥
-
-
 
 कुमारश्चैव कन्या च कृताऽहमनृणा त्वया ॥७॥
 
@@ -3734,8 +3401,6 @@ MADRAS.
 
 [^128]: "क-ग-घ—दृष्ट्वा तथाऽवलाऽनाथा प्रार्थितैश्वर्यगर्वितैः।"
 
-
-
 कथं तव सुतं चेमम् एकं बालमसंस्कृतम्।  
 पितृपैतामहे मार्गे नियन्तुमहमुत्सहे ॥१५॥
 
@@ -3765,8 +3430,6 @@ MADRAS.
 
 त्रितयं सर्वथा ब्रह्मन् विनशिष्यत्यसंशयम्।
 
-
-
 त्वया विहीनं तस्मात्वं मां परित्यक्तुमर्हसि॥२१॥
 
 इष्टा ह्येषा कुलस्त्रीणां पूर्व भर्तुः परा गतिः।  
@@ -3791,8 +3454,6 @@ MADRAS.
 
 **एकनो वा कुलं कृत्स्नम् आत्मा वा कुलवर्धनः।  
 न समं सर्वमेवेतिबुधानामेष निश्चयः ॥२८॥**
-
-
 
 स[^133] कुरुष्व मया कार्यं तारयात्मानमात्मना ।  
 अनुजानीहि मामार्य सुतौ[^134] ते परिरक्ष वै ॥२९॥
@@ -3823,8 +3484,6 @@ MADRAS.
 
 ततः प्रतिष्ठितो धर्मो भविष्यति पुनस्तव।
 
-
-
 **न[^139] चाप्यधर्मः कल्याण बहुपत्नीकता नृणाम् ॥३४॥**
 
 [^139]: "क-ग-घ—वहस्व कुलजां कन्यां धर्मस्तेभविता पुनः अनाश्रमी न तिष्टेत क्षणमात्रमपि द्विजः॥"
@@ -3843,8 +3502,6 @@ MADRAS.
 ॥१०॥ बकवधपर्वणि द्वितीयोऽध्यायः॥२॥  
 \[अस्मिन्नध्याये ३७श्लोकाः\]
 
-
-
 ॥ षट्पञ्चाशदधिकशततमोऽध्यायः॥  
 ![](../../../books_images/U-IMG-1703680070Screenshot2023-12-1217334320000.jpg)
 
@@ -3854,8 +3511,6 @@ MADRAS.
 
 **तयोर्दुःखितयोर्वाक्यम् अनिमात्रं निशम्य सा।  
 भृशं दुःम्बपरीताङ्गी कन्या तावभ्यभाषत ॥१॥**
-
-
 
  कन्या—
 
@@ -3887,8 +3542,6 @@ MADRAS.
 पित्रा त्यक्ता तथा मात्रा भ्रात्रा चैव न संशयः।  
 दुःखाद्दुःखतरं प्राप्य म्रियेयमतथोचिता ॥९॥
 
-
-
 त्वयि रोगविनिर्मुक्ते माता भ्राता च मे शिशुः।  
 सन्तानश्चैव पिण्डश्च प्रतिष्ठास्यत्यसंशयम् ॥१०॥
 
@@ -3918,8 +3571,6 @@ MADRAS.
 स्वयि रोगविनिर्मुक्ते क्लेशादस्मान् सवान्धवे।  
 अमृतेव सती लोके भविष्यामि सुखान्विता ॥१८॥
 
-
-
 इत्येतदुभयं तात निशम्य तव यद्धितम्।  
 तद्य्ववस्य तथाऽम्बाया हितं स्वस्य सुतस्य च ॥१९॥
 
@@ -3945,8 +3596,6 @@ MADRAS.
 इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम् आदिपर्वणि षट्पञ्चाशदधिकशततमोऽध्यायः ॥१५६॥  
 ॥१०॥ बकवधपर्वणि तृतीयोऽध्यायः॥३॥  
 \[अस्मिन्नध्याये २४ श्लोकाः।\]
-
-
 
 ॥ सप्तपञ्चाशदधिकशततमोऽध्यायः॥
 
@@ -3982,8 +3631,6 @@ MADRAS.
 
 **तस्यां घोरस्स वसति जिघांसुः पुरुषादकः।**
 
-
-
 बको नाम स नाम्ना वै दुष्टात्मा राक्षसाधमः ॥७॥
 
 ईशो जनपदस्यास्य पुरस्य च महाबलः।  
@@ -4011,8 +3658,6 @@ MADRAS.
 पर्यायेण[^146] यथाकामम् इह मांसोदनं प्रभो॥१३॥
 
 [^146]: "क-ख-ग-घ—अन्नं मांससमायुक्तं तिलचूर्णसमन्वितम्। सर्पिषा चसमायुक्तं व्यञ्जनैश्च विभूषितम्॥"
-
-
 
 स्रजश्चित्रास्तिलान्[^147] पिण्डाँल्लाजापूपसुरासवान्।  
 शृताशृतान्[^148] पानकुम्भान् स्थूलमांसं शृताशृतम् ॥१४॥
@@ -4046,8 +3691,6 @@ MADRAS.
 
 तद्विमोक्षाय ये चापि यतन्ते पुरुषाः क्वचित्।
 
-
-
 सपुत्रदारांस्तान् हत्वा तद्रक्षो भक्षयिष्यति॥२१॥
 
 नगरं चैव देशं च रक्षो बलसमन्वितम्।  
@@ -4080,8 +3723,6 @@ MADRAS.
 न च मे विद्यते वित्तं संक्रेतुं पुरुषं क्वचित्।  
 सुहृज्जनंप्रदातुं च न शक्ष्यामि कथञ्चन ॥२९॥
 
-
-
 गतिं चान्यां न पश्यामि तस्मान्मोक्षाय राक्षसात्।  
 सोऽहं दुःखार्णवे मग्नो सहत्यसुकरे भृशम् ॥३०॥
 
@@ -4095,11 +3736,8 @@ MADRAS.
 ॥१०॥ बकवधपर्वणि चतुर्थोऽध्यायः॥४॥  
 \[अस्मिन्नध्याये ३२ श्लोकाः\]
 
-
-
 ॥ अष्टपञ्चाशदधिकशततमोऽध्यायः॥
 
-                         
 ![](../../../books_images/U-IMG-1703684116Screenshot2023-12-1217334320000.jpg)
 
 कुन्त्या बकं प्रति स्वपुत्रप्रेषणकथनम्॥१॥
@@ -4116,8 +3754,6 @@ MADRAS.
 
 मम पञ्च सुता ब्रह्मंस् तेषामेको गमिष्यति।  
 त्यदर्थं वलिमादाय तस्य पापस्य रक्षसः ॥३॥
-
-
 
  ब्राह्मणः—
 
@@ -4147,8 +3783,6 @@ MADRAS.
 
 श्रेयसे सह दारेण विनाशोऽद्य मम स्वयम्।  
 ब्राह्मणस्य वधं नाहम् अनुमंस्ये कथञ्चन ॥१२॥
-
-
 
  कुन्ती—
 
@@ -4182,8 +3816,6 @@ MADRAS.
 
 ॥१०॥ बकवधपर्वणि पञ्चमोऽध्यायः॥५॥  
 अस्मिन्नध्याये २०॥श्नोकाः\]
-
-
 
 ॥ एकोनषष्ट्यधिकशततमोऽध्यायः ॥
 
@@ -4220,9 +3852,6 @@ MADRAS.
 
 **६॥**
 
-
-
-
 युधिष्ठिरः[^154]—
 
 [^154]: "क-ग—बकाय कल्पितं पुत्रमहान्तं वलिमुत्तमम्। भीमो भुनक्तिसंपुष्टम् अध्येकाहं तपस्सुत॥"
@@ -4253,8 +3882,6 @@ MADRAS.
  कुन्ती—
 
 युधिष्ठिर न संतापः कार्यः प्रति वृकोदरम्।
-
-
 
 न चायं बुद्धिदौर्बल्याद् व्यवसायः कृतो मया ॥
 
@@ -4298,8 +3925,6 @@ MADRAS.
 
 **२०॥**
 
-
-
 अर्थौ द्वावपि निर्वृत्तौ युधिष्ठरभविष्यतः।  
 प्रतीकारश्चवासस्य धर्मश्च चरितो महान्॥२१॥
 
@@ -4329,8 +3954,6 @@ MADRAS.
 आगन्ता नगरं चैव तस्मान् पापाद्विमोक्ष्यते ॥२८॥
 
 यथा चैव न नो विद्युर् नरानगरवासिनः।
-
-
 
 तथाऽयं ब्राह्मणो वाच्यः परिगृह्य च यत्नतः॥२९॥
 
@@ -4363,8 +3986,6 @@ MADRAS.
 पिशितोदनमाजह्लुर्अथास्मै पुरवासिनः।  
 सघृतं सोपदंशं च सूपैर्नानाविधैस्सह ॥३६॥
 
-
-
 तदाऽशित्वा भीमसेनो मांसानि विविधानि च।  
 मोदकानि च मुख्यानि चित्रोदनचयान् बहून् ॥३७॥
 
@@ -4394,8 +4015,6 @@ MADRAS.
 यथोपदिष्टमुद्देशे ददर्श विपुलं द्रुमम् ॥४५॥
 
 [^160]: "क-ख-ग-घ—दीर्घ"
-
-
 
 केशमज्जास्थिमेदोभिर्बाहूरुचरणैरपि ।  
 आर्द्रेश्शुष्कैश्च संकीर्णम् अभितोऽथ वनस्पतिम् ॥४६॥
@@ -4429,8 +4048,6 @@ MADRAS.
 
 **आजुहाव ततो नाम्ना तदन्नमुपयोजयन् ॥५५॥**
 
-
-
 ततस्स राक्षसश्श्रुत्वा भीमसेनस्य तद्वचः।  
 आजगाम सुसंक्रुद्धो यत्र भीमो व्यवस्थितः ॥५६॥
 
@@ -4461,8 +4078,6 @@ MADRAS.
 
 **तथा बलवताभीमः पाणिभ्यां भृशमाहतः।**
 
-
-
 नैवावलोकयामास भुङ्क्त एवपराङ्मुखः ॥६४॥
 
 ततस्स[^161] भूयस्संक्रुद्धो वृक्षमादाय राक्षसः।  
@@ -4491,8 +4106,6 @@ MADRAS.
 
 बहुकालं सुपुष्टं ते शरीरं राक्षसाधम् ।
 
-
-
 मद्वाहुबलमाश्रित्य[^166] न त्वं भूयो[^167] भविष्यसि ॥६९॥
 
 [^166]: "क-ग-घ—द्विपश्चतुष्पम्मसैश्व बहुभिश्वौदनावलैः"
@@ -4515,7 +4128,6 @@ MADRAS.
 
 ॥ षष्ट्यधिकशततमोऽध्यायः॥
 
-                                
 ![](../../../books_images/U-IMG-1704889112Screenshot2023-12-1217334320000.jpg)
 
 **बकभीमयोर्युद्धम्॥१॥ भीमेन बकवधश्च ॥२॥**
@@ -4527,8 +4139,6 @@ MADRAS.
 
 महाकायो महावेगो दारयन्निव मेदिनीम्।  
 विरूपरूपः पिङ्गाक्षो भीमसेनमभिद्रवत् ॥२॥
-
-
 
 त्रिशिखां भ्रकुटीं कृत्वा संदश्य दशनच्छदम्॥२॥
 
@@ -4557,8 +4167,6 @@ MADRAS.
 विष्फुरन्तं महावेगं विचकर्ष बलाद्धली ॥८॥
 
 स कृष्यमाणो भीमेन कर्षमाणश्च पाण्डवम्।
-
-
 
 समयुध्यत तीव्रेण क्लमेन पुरुषादकः ॥९॥
 
@@ -4592,8 +4200,6 @@ MADRAS.
 
 तस्य बाहू समादाय त्वरमाणो वृकोदरः।
 
-
-
 उत्क्षिप्य चावधूयैनं पातयन् बलवान् भुवि ॥१७॥
 
 तं तु वामेन पादेन क्रुद्धो भीमपराक्रमः।  
@@ -4622,8 +4228,6 @@ MADRAS.
 
 तयोर्वेगेन महता तत्र भूमिरकम्पत ॥२४॥
 
-
-
 पादपान् वीरुधश्चैव चूर्णयामासतुश्च तौ॥२५॥
 
 समागतौ च तौ वीरावन्योन्यवधकाङ्क्षिणौ।  
@@ -4644,8 +4248,6 @@ MADRAS.
 [^178]: "घ—भग्नोरुबाहुसक्थिश्च विस्रंसदेहबन्धनः। प्रस्वेदो दीर्घनिश्श्वासो निर्यजिह्वाक्षितारकः॥ अजाण्डस्फोटनं कुर्वन्नक्रोशाशनिसञ्चयैः। भूमौनिपत्य लुलुठे दण्डाहत इवोरगः॥"
 
 विकृष्यमाणो भीमेन कर्षंश्च युधि पाण्डवम्।
-
-
 
 समयुज्यत तीव्रेण श्रमेण पुरुषादकः ॥२९॥
 
@@ -4670,11 +4272,7 @@ MADRAS.
 ॥१०॥ बकवधपर्वणि सप्तमोऽध्यायः॥७॥  
 \[अस्मिन्नध्याये ३४ श्लोकाः\]
 
-
-
 ॥ एकषष्ट्यधिकशततमोऽध्यायः॥
-
-
 
  बकवधानन्तरं समागतानां तत्परिवाराणां भीमेन समयकरणम् ॥१॥ नगरद्वारदेशे बकशरीरं निधाय ब्राह्मणगृहमानीय भीमेन कुन्त्या दीन्प्रति बकवृत्तान्तकथनम् ॥२॥ मृतबकदर्शनार्थं पौराणां गमनम् ॥३॥ बकवधेन पौराणां भीमसेवनम् ॥४॥
 
@@ -4696,8 +4294,6 @@ MADRAS.
 
 **तस्य तद्वचनं श्रुत्वा तानि रक्षांसि भारत।  
 एवमस्त्विति तं प्राहुर् जगृहुस्समयं च तम् ॥५॥**
-
-
 
 सगणस्तु[^181] बकभ्राता प्राणमत्पाण्डवं तदा ॥५॥
 
@@ -4726,8 +4322,6 @@ MADRAS.
 आचचक्षेऽथ[^184] तत्सर्वं रात्रौयुद्धमभूद्यथा ॥११॥
 
 [^184]: " क-ग-घ—तृष्णीमन्तगृहं गच्छे्त्यभिधाय द्विजोत्तमम्‌। मातृभृातृवसमक्षं च गत्वा शयनमेत्य च॥"
-
-
 
 ततो[^185] नरा विनिष्क्रम्य नागराः काल्यमेव तु।  
 ददृशुर्निहतं भूमौ राक्षसं रुधिरोक्षितम् ॥१२॥
@@ -4762,8 +4356,6 @@ MADRAS.
 
 [^189]: "घ—अद्य मे रक्षसो वारः पूर्वेद्युर्ज्ञातो मम । ग्रामसाधारणेनैव सूचकेन पुरोकसः॥"
 
-
-
 ददर्श ब्राह्मणः कश्चिन्मन्त्रसिद्धो महाबलः ॥१८॥
 
 परिपृच्छय स मां पूर्वं परिक्लेशं पुरस्य च ।  
@@ -4794,8 +4386,6 @@ MADRAS.
 
 पशुमद्दधिमच्चास्य वारं भक्तमुपाहरन् ॥२६॥
 
-
-
 तस्मिन् हते ते पुरुषा भीतास्ते तमबोधयन् ॥२७॥
 
 ततस्संप्राद्रवन् पार्थास् सह मात्रा परन्तपाः।  
@@ -4811,8 +4401,6 @@ MADRAS.
 \[ अस्मिन्नध्याये २९॥ श्लोकाः \]  
 ॥ समाप्तं बकवधपर्व ॥
 
-
-
 ॥ द्विषष्ट्यधिकशततमोऽध्यायः॥
 
 (चैत्ररथपर्व॥)
@@ -4823,8 +4411,6 @@ MADRAS.
 
 ते तदा पुरुषव्याघ्रा निहत्य बकराक्षसम्।  
 अत ऊर्ध्वं तदा ब्रह्मन् किमकुर्वत पाण्डवाः ॥१॥
-
-
 
  वैशम्पायनः—
 
@@ -4857,8 +4443,6 @@ MADRAS.
 कथं द्रुपदपुत्रस्य धृष्टद्युम्नस्य पावकात्।  
 संभवो वेदिमध्ये च कथं कृष्णा व्यजायत ॥१०॥
 
-
-
 कथं द्रोणान्महेष्वासात् सर्वाण्यस्त्राण्यशिक्षयत्।  
 धृष्टद्युम्नो महेष्वासः कथं द्रोणस्य मृत्युदः ॥११॥
 
@@ -4868,8 +4452,6 @@ MADRAS.
 
 एवं तैश्वोदितो विप्रो राजन् स पुरुषर्षभैः।  
 कथयामास तत्सर्वं द्रौपदीसंभवं तदा ॥१२॥
-
-
 
 ब्राह्मणः—
 
@@ -4891,8 +4473,6 @@ MADRAS.
 अध्यगीष्ट च वेदांश्च वेदाङ्गानि च सर्वशः ॥१७॥
 
 भरद्वाजसखा ह्यासीत् पृषतो नाम पार्थिवः।
-
-
 
 तस्यापि द्रुपदो नाम तदा समभवत्सुतः ॥१८॥
 
@@ -4925,8 +4505,6 @@ MADRAS.
 
 ततो द्रुपदमासाद्य भारद्वाजः प्रतापवान्।  
 अब्रवीत्पुरुषव्याघ्र सखायं विद्धि मामिति ॥२६॥
-
-
 
  द्रुपदः—
 
@@ -4961,8 +4539,6 @@ MADRAS.
 **पार्षतो द्रुपदो नाम छत्रवत्यां नरेश्वरः।  
 तस्यापकृष्य तद्राज्यं मम शीघ्रं प्रदीयताम् ॥३४॥**
 
-
-
  ब्राह्मणः—
 
 धार्तराष्ट्रैश्च सहिताः पाञ्चालान पाण्डवा ययुः ॥३४॥
@@ -4994,8 +4570,6 @@ MADRAS.
 ब्राह्मणैस्सहितो राजन्नहिच्छत्रे वसाम्यहम् ॥४२॥
 
 **असत्कारस्स सुमहान् मुहूर्तमपि तस्य तु।**
-
-
 
 नापैति हृदयाद्राज्ञो दुर्मनास्स कृशोऽभवत् ॥४३॥
 
@@ -5029,8 +4603,6 @@ MADRAS.
 
 संहिताभ्ययने युक्तौ गोत्रतश्चापि काश्यपौ ।
 
-
-
 तरूणौतौ युक्तरूपौब्राह्मणावृषिसत्तमौ॥५१॥
 
 स उपामन्त्रयामास सर्वकामैरतन्द्रितः ॥५१॥
@@ -5063,8 +4635,6 @@ MADRAS.
 
 **तथेत्युक्त्वा तु तं यज्ञं पुत्रकामीयमारभत् ॥५९॥**
 
-
-
 गुर्वर्थ इति चाकामम् उपयाजश्चकार ह ॥५९॥
 
 याजस्तु यजतां श्रेष्ठो हव्यवाहमतर्पयत् ॥६०॥
@@ -5080,7 +4650,6 @@ MADRAS.
 
 नालिप्तं वै मम मुखं पुण्यान् गन्धान् बिभर्मि च।  
 न पत्नी तेऽस्मि सूत्यर्थं तिष्ठ याज मम प्रिये ॥६२॥
-
 
 याजः[^195]—
 
@@ -5098,8 +4667,6 @@ MADRAS.
 बिभ्रत् सखङ्गस्सशरो धनुषा विनदन मुहुः ॥६५॥
 
 **अध्यारोहदृढरथं तेन स प्रययौ तदा॥६६॥**
-
-
 
 ततः प्रणेदुः पाञ्चालाः प्रहृष्टास्साधु साध्विति।  
 हर्षाविष्टांस्ततश्चैतान् नेयं सेहे वसुन्धरा ॥६७॥
@@ -5131,8 +4698,6 @@ MADRAS.
 
 तच्छ्रुत्वा सर्वपाञ्चालाः प्रणेदुस्सिंहसङ्घवत् ॥७५॥
 
-
-
 पाञ्चालराजस्तां दृष्ट्वा हर्षादश्रूण्यवर्तयन् ।  
 परिष्वज्य सुतां कृष्णां स्नुषा पाण्डोरिति ब्रुवन् ॥७६॥
 
@@ -5161,8 +4726,6 @@ MADRAS.
 महाप्रभावो ब्रह्मर्षिर् ज्ञात्वा तस्य च संभवम्।  
 उपाकरोदस्त्रहेतोर भारद्वाजः प्रतापवान् ॥८३॥
 
-
-
 **अमोक्षणीयं दैवं हि भावि मत्वा महामतिः।  
 तथा तत्कृतवान् द्रोण आत्मकीर्त्यर्थकारणात् ॥८४॥**
 
@@ -5170,13 +4733,9 @@ MADRAS.
 ॥११॥ चैत्ररथपर्वणि प्रथमोऽध्यायः ॥१॥  
 \[अस्मिन्नध्याये ८४॥ श्लोकाः\]
 
-
-
 ॥ त्रिषष्ट्यधिकशततमोऽध्यायः॥
 
  जनवार्तया दुर्योधनेन पाण्डवानां दाहं, स्वपुरोहितवचनेन नाश राहित्यं च, ज्ञातवता तेषां जीवने सन्दिहानेन द्रुपदेन उद्घोषितस्य पुत्री स्वयंवरस्य कुन्तीं प्रति ब्राह्मणेन कथनम ॥१॥ युष्मासु तत्रागतेष्वीश्वरेच्छया त्वत्पुत्राणामन्यतमं पाञ्चालो वृणुयादपीत्युक्तवता ब्राह्मणेन सह पाण्डवानां पाञ्चालनगरं प्रति गमनम॥२॥
-
-
 
  ब्राह्मणः—
 
@@ -5188,8 +4747,6 @@ MADRAS.
 
 दुर्योधनेन प्रहितः पुरोचन इति श्रुतः।  
 वारणावतमासाद्य कृत्वा जतुगृहं महत् ॥३॥
-
-
 
 तस्मिन् गृहे सुविश्वस्तान् पाण्डवान् पृथया सह।  
 अर्धरात्रे महाराज दग्धवान् स पुरोचनः ॥४॥
@@ -5222,8 +4779,6 @@ MADRAS.
 
 **तथाऽतप्यत पाञ्चालः पाण्डवानां विनाशने ॥१२॥**
 
-
-
 समाहूय प्रकृतयस् सहितास्सहबान्धवैः।  
 कारुण्यादेव पाञ्चालः प्रोवाचेदं वचस्तदा ॥१३॥
 
@@ -5254,8 +4809,6 @@ MADRAS.
 
 **दृष्ट्वा शोचन्तमत्यर्थं पाञ्चालं गुरुरब्रवीत्।  
 पुरोधास्सत्वसंपन्नस् सम्यग्विद्याविशेषवान् ॥२१॥**
-
-
 
  गुरुः—
 
@@ -5289,8 +4842,6 @@ MADRAS.
  ब्राह्मणः—
 
 **श्रुत्वा पुरोहितेनोक्तं पाञ्चालः प्रीतिमांस्तदा।**
-
-
 
 घोषयामास नगरे द्रौपद्यास्तु स्वयंवरम् ॥३०॥
 
@@ -5327,12 +4878,9 @@ MADRAS.
 ॥११॥ चैत्ररथपर्वणि द्वितीयोऽध्यायः॥२॥  
 \[अस्मिन्नध्याये ३७ ॥ श्लोकाः\]
 
-
-
 ॥ चतुष्षष्ट्यधिकशततमोऽध्यायः ॥
 
  पाण्डवानां द्रुपदनगरप्रस्थानम्॥१॥ व्यासेन द्रौपदीवृत्तान्तकथनं व ॥२॥  
- 
 
  वैशम्पायनः—
 
@@ -5359,8 +4907,6 @@ MADRAS.
 भैक्ष च न तथा वीर लभ्यते कुरुनन्दन ॥६॥**
 
 [^200]: "घ—तथा दृष्टानि तान्येव तथा न प्रीणयन्ति माम् ।"
-
-
 
 **ते वयं साधु पञ्चालान् गच्छाम यदि मन्यसे।  
 अपूर्वदर्शनं तात रमणीयं भविष्यति ॥७॥**
@@ -5391,8 +4937,6 @@ MADRAS.
 
 तमागतमभिप्रेक्ष्य प्रत्युद्गम्य परन्तपाः।  
 प्रणिपत्याभिवाद्यैनं तस्थुः प्राञ्जलयोऽग्रतः ॥१४॥
-
-
 
 **समनुज्ञाप्य तान् सर्वान् आसीनान् मुनिरब्रवीत्।  
 प्रसन्नं[^202] पूजितः पार्थैः प्रीतिपूर्वमिदं वचः ॥१५॥**
@@ -5431,8 +4975,6 @@ MADRAS.
 
 [^206]: "क-ख-ग-घ—यश"
 
-
-
 **अथेश्वरमुवाचेदम् आत्मनस्सा हितं वचः॥२१॥**
 
 **पतिं सर्वगुणोपेतम् इच्छामीति पुनः पुनः॥२२॥**
@@ -5469,8 +5011,6 @@ MADRAS.
 ॥११॥ चैत्ररथपर्वणि तृतीयोऽध्यायः॥३॥  
 \[अस्मिन्नध्याये २८॥ श्लोकाः\]
 
-
-
 ॥ पञ्चषष्ट्यधिकशततमोऽध्यायः॥
 
  पाञ्चालनगरं गच्छतां पाण्डवानां मार्गे ब्राह्मणसंवादः॥१॥
@@ -5500,8 +5040,6 @@ MADRAS.
 तत्र ह्यद्भुतसङ्काशो भविता सुमहोत्सवः ॥५॥  
 यज्ञसेनस्य दुहिता द्रुपदस्य महात्मनः।**
 
-
-
 वेदिमध्यात् समुत्पन्ना पद्मपत्रनिभेक्षणा ॥७॥
 
 दर्शनीयाऽनवद्याङ्गी सुकुमारी यशस्विनी।  
@@ -5530,8 +5068,6 @@ MADRAS.
 
 नटा वैतालिकाश्चैव नर्तकास्तत्र मागधाः।
 
-
-
 **नियोधकाश्च देशेभ्यस् समेष्यन्ति महाबलाः ॥१६॥**
 
 **एवं कौतूहलं दृष्ट्वा भुक्त्वा च प्रतिगृह्य च।  
@@ -5554,10 +5090,6 @@ MADRAS.
 \[अस्मिन्नध्याये २० श्लोकाः\]
 
 [^208]: घ-कोशे%20नात्राध्यायसमाप्ति "घ-कोशे नात्राध्यायसमाप्ति"
-
-
-
-
 
 ॥ षटषष्ट्यधिकशततमोऽध्यायः॥
 
@@ -5590,8 +5122,6 @@ MADRAS.
 
 [^213]: "क ख ग घ—तदा गन्धर्वराजश्व"
 
-
-
 शब्दं तेषां स शुश्राव नदीं समुपसर्पताम्।  
 तेन शब्देन चाविष्टश् चुक्रोध सहसा बली ॥६॥
 
@@ -5621,8 +5151,6 @@ MADRAS.
 **अहं हि मानी चेर्प्युश्च कुबेरस्य प्रियस्सखा ॥१३॥**
 
 **अङ्गारवर्णमिति च वचनं ख्यातितं मम ।**
-
-
 
 अनुगङ्गं महच्चित्रम् अस्मिन् नित्यं वसाम्यहम् ॥१४॥
 
@@ -5658,10 +5186,6 @@ MADRAS.
 **अनिवार्यमसम्बाधं तव वाचा कथं वयम्।  
 न स्पृशेम यथाकामं पुण्यं भागीरथीजलम् ॥२२॥**
 
-
-
-
-
 वैशम्पायनः—
 
 अङ्गारवर्णस्तच्छ्रुत्वा क्रुद्ध आयम्य कार्मुकम्।  
@@ -5684,8 +5208,6 @@ MADRAS.
 भरद्वाजात्ततो रामं भार्गवाच्च गुरुर्मम।  
 स त्विदं मह्यमददाद्द्रोणो ब्राह्मणसत्तमः ॥२८॥
 
- 
-
 वैशम्पायनः—
 
 इत्युक्त्वा पाण्डवः क्रुद्धां गन्धर्वाय मुमाचह।  
@@ -5693,8 +5215,6 @@ MADRAS.
 
 रथात्तु विप्लुतततु गन्धर्वसुमहाबलम्।  
 अस्त्रतेजःप्रमूढं च प्रपतन्तमवाङ्मुखम् ॥३०॥
-
-
 
 **शिरोरुहेषु जग्राह माल्यवत्सु धनञ्जयः ॥३०॥  
 भ्रातॄन् प्रति चकर्षाथ सोऽस्त्रपातादचेतनम् ॥३१॥**
@@ -5726,8 +5246,6 @@ MADRAS.
 ॥११॥ चैत्ररथपर्वणि पञ्चमोऽध्यायः॥५॥  
 \[अस्मिन्नध्याये ३५॥ श्लोकाः\]
 
-
-
 ॥ सप्तषष्ट्यधिकशततमोऽध्यायः॥
 
 गन्धर्वप्रार्थनया आग्नेयास्त्रपरिवर्तनेन तस्माद्गान्धर्वास्त्रग्रहणानुमोदनम् ॥१॥
@@ -5756,8 +5274,6 @@ MADRAS.
 आगमोऽस्या मया प्रोक्तस् तस्या वीर्यं निबोध मे ॥७॥**
 
 **यच्चक्षुषा द्रष्टुमिच्छेत् त्रिषु लोकेषु किञ्चन।**
-
-
 
 **तत्पथे यादृशं चेच्छेत् तादृशं द्रष्टुमर्हति ॥८॥**
 
@@ -5789,8 +5305,6 @@ MADRAS.
 **साधनं क्षत्रधर्मस्य मनोज्ञा वाजिनस्स्मृताः।  
 रथाङ्गं च रथास्त्रेणधनुश्च भरतर्षभ ॥१६॥**
 
-
-
 **कामवर्णाः कामगमाः कामतस्समुपस्थिताः।  
 इमे गन्धर्वजाः कामं पूरयिष्यन्ति मे हयाः ॥१७॥**
 
@@ -5816,11 +5330,7 @@ MADRAS.
 ॥११॥ चैत्ररथपर्वणि षष्टोऽध्यायः॥६॥  
 \[ अस्मिन्नध्याये २१ श्लोकाः
 
-
-
 ॥ अष्टषष्ट्यधिकशततमोऽध्यायः॥
-
-
 
 गन्धर्वेण पाण्डवानां पुरोहितसम्पादनोपदेशः॥१॥
 
@@ -5850,8 +5360,6 @@ MADRAS.
 
 नारदप्रभृतीनां च महर्षीणां मया पुरा।  
 श्रुतं कथयतां पार्थ कुरूणां वंशमादितः॥७॥
-
-
 
 स्वयं चापि मया दृष्टश् चरता सागराम्बराम्।  
 इमां वसुमतीं कृत्स्त्रां प्रभावस्सुकुलस्य च ॥८॥
@@ -5885,8 +5393,6 @@ MADRAS.
 
 येनेमं विधिना सर्वं कीर्त्यमानं निबोध मे ॥१६॥
 
-
-
 ब्रह्मचर्यं परो धर्मस् स चापि नियतस्त्वयि।  
 यस्मादस्मादहं पार्थ रणेऽस्मि विजितस्त्वया ॥१७॥
 
@@ -5913,8 +5419,6 @@ MADRAS.
 
 न हि केवलशौर्येण तापत्याभिजनेन च।  
 जयेदब्राह्मणः कश्चिद् भुवि भूमिपतिः कचित् ॥२५॥
-
-
 
 **तस्मादेवं विजानीहि कुरुणां कीर्तिवर्धन।  
 ब्राह्मणप्रमुखं राज्यं शक्यं पालयितुं चिरम् ॥२६॥**
@@ -5943,8 +5447,6 @@ MADRAS.
 
 **एवमुक्तस्स गन्धर्वः प्रत्युवाच यशस्विनम् ।  
 अर्जुनं त्रिषु लोकेषु विश्रुतं श्रुतीवद्वचः ॥३॥**
-
-
 
  गन्धर्वः—
 
@@ -5978,8 +5480,6 @@ MADRAS.
 
 अथर्क्षपुत्रः कौन्तेय कुरुणामृषभो युवा।
 
-
-
 **सूर्यमाराधयामास नृपस्संवरणस्तदा ॥१२॥**
 
 **अर्ध्यमाल्योपहारैश्च शश्वत् स नृपतिस्तदा ।  
@@ -6010,8 +5510,6 @@ MADRAS.
 
 **स कदाचिदथोराजा श्रीमानुरुयशा भुवि।**
 
-
-
 चचार मृगयां पार्थ पर्वतोपवने किल ॥२१॥
 
 चरतो मृगयां तस्य क्षुत्पिपासाश्रमान्वितः।  
@@ -6041,8 +5539,6 @@ MADRAS.
 
 अस्या नूनं विशालाक्ष्यास् सदेवासुरमानुषम्।
 
-
-
 लोकं निर्मथ्यधात्रेदं रुपमाविष्कृतं कृतम् ॥३०॥
 
 इति तां तर्कयामास रूपद्रविणसंपदा।  
@@ -6053,8 +5549,6 @@ MADRAS.
 
 तुद्यमानस्सुतीव्रेण नृपतिर्मन्मथाग्निना ।  
 अप्रगल्भः प्रगल्भां ताम् उवाचाथ यशस्विनीम् ॥३३॥
-
-
 
 संवरणः—
 
@@ -6076,8 +5570,6 @@ MADRAS.
 
 एष तां स महीपालो वभाषे न तु सा तदा।  
 कामार्तं निर्जनेऽरण्ये प्रत्यभाषत किञ्चन॥३८॥
-
-
 
 तथा लालप्यमानस्य पार्थिवस्यायतेक्षणा।
 
@@ -6105,8 +5597,6 @@ MADRAS.
 तस्मिन्निपतिते भूमावथ सा चारुवर्णिनी[^220]।**
 
 [^220]: "क ख ग घ—हासिनी"
-
-
 
 **पुनः पीनायतश्रोणी दर्शयामास तं नृपम् ॥२॥**
 
@@ -6142,8 +5632,6 @@ MADRAS.
 
 न ह्यहं त्वदृते भीरु शक्ष्ये जीवितुमात्मना।
 
-
-
 **तस्मात् कुरु विशालाक्षि मय्यनुक्रोशमङ्गने ॥११॥**
 
 **भक्तं मामसितापाङ्गे न परित्यक्तुमर्हसि।  
@@ -6173,8 +5661,6 @@ MADRAS.
 स चेत् कामयते दातुं तव मामरिमर्दन।  
 भविष्याम्यथ ते राजन् सततं वशवर्तिनी ॥१९॥
 
-
-
 **अहं हि तपती नाम सावित्र्यवरजा सुता ।  
 अस्य लोकप्रदीपस्य सवितुः क्षत्रियर्षभ ॥२०॥**
 
@@ -6202,8 +5688,6 @@ MADRAS.
 क्षितौ निपतितं काले शक्रध्वजमिवोच्छ्रितम् ॥३॥**
 
 **तं हि दृष्ट्वा महेष्वासं निरश्वं पतितं क्षितौ।**
-
-
 
 बभूव सोऽस्य सचिवस् संप्रदीप्त इवाग्निना ॥४॥
 
@@ -6235,8 +5719,6 @@ MADRAS.
 
 **जगाम मनसा चैवं वसिष्ठमृषिसत्तमम्।**
 
-
-
 **पुरोहितममित्रघ्नं तदा संवरणो नृपः ॥१४॥**
 
 **नक्तंदिवमथैकत्र स्थिते तस्मिञ्जनाधिपे।  
@@ -6261,8 +5743,6 @@ MADRAS.
 इति श्रीमहामारते शतसहस्रिकायां संहितायां वैयासिक्याम् आदिपर्वणि एकसप्तत्यधिकशततमोऽध्यायः॥१७१॥  
 ॥११॥ चैत्ररथपर्वणि दशमोऽध्यायः॥१०॥  
 \[अस्मिन्नध्याये २०॥ श्लोकाः\]
-
-
 
 ॥ द्विसप्तत्यधिकशततमोऽध्यायः॥
 
@@ -6291,8 +5771,6 @@ MADRAS.
 जगत्प्रसूतिस्थितिनाशहेतवे।  
 त्रयीमयाय त्रिगुणात्मधारिणे  
 विरिञ्चनारायणशङ्करात्मने॥४॥**
-
-
 
  सूर्यः—
 
@@ -6330,8 +5808,6 @@ MADRAS.
 
 **दृष्ट्वा तु देवकन्यां तां तपतींचारुहासिनीम्।**
 
-
-
 **वसिष्ठेन सहायान्तींसंहृष्टोऽभ्याधिकं बभौ ॥१३॥**
 
 **कृच्छ्रे द्वादशरात्रे तु तस्य राज्ञस्समापिते।  
@@ -6364,8 +5840,6 @@ MADRAS.
 अभवत् प्रेतराजस्य पुरं प्रेतैरिवावृतम् ॥२२॥**
 
 **ततस्तत्तादृशं दृष्ट्वा स एव भगवानृषिः।**
-
-
 
 अभ्यपद्यत धर्मात्मा वसिष्ठो नरसत्तमम् ॥२३॥
 
@@ -6407,8 +5881,6 @@ MADRAS.
 ॥११॥ चैत्ररथपर्वणि एकादशोऽध्यायः॥११॥  
 \[अस्मिन्नध्याये २१॥ श्लोकाः\]
 
-
-
 ॥ त्रिसप्तत्यधिकशततमोऽध्यायः॥
 
 ![](../../../books_images/U-IMG-1702993127Screenshot2023-12-1919075878987889888887878787.png)
@@ -6439,8 +5911,6 @@ MADRAS.
 तपसा निर्जितौ जता शश्वद् अजेयावमरैरपि  
 कामक्रोधावुभौ यस्य चरणौ संववाहतुः ॥५॥
 
-
-
 **यश्च[^228] नोच्छेदनं चक्रे कुशिकानामुदारधीः।  
 विश्वामित्रापराधेन धारयन् मन्युमुत्तमम् ॥६॥**
 
@@ -6467,8 +5937,6 @@ MADRAS.
 
 **तथा द्विजसहायान् वै न गन्धर्वा न राक्षसाः।  
 शक्ताः प्रार्थयितुं वीर मनसाऽपि महाबलाः॥१३॥**
-
-
 
 **तस्माद्धर्मप्रधानस्तु वेदशास्त्रप्रदीपितः।  
 ब्राह्मणो गुणवान् कश्चित् पुरोधाः परिमृश्यताम् ॥१४॥**
@@ -6500,8 +5968,6 @@ MADRAS.
 **स चचार सहामात्यो मृगयां सुमहावने।  
 मृगान्निध्नन् वराहांश्च चचार मरुधन्वसु ॥२१॥**
 
-
-
 **व्यायामार्तस्तु स तदा मृगलिप्सुः पिपासितः।  
 आजगाम रथिश्रेष्ठो वसिष्ठस्याश्रमं प्रति ॥२२॥**
 
@@ -6531,8 +5997,6 @@ MADRAS.
 
 **भोजनीयानि पेयानि भक्ष्याणि विविधानि च।  
 लेह्यान्यमृतकल्पानि चोष्याणि च तथाऽर्जुन ॥३०॥**
-
-
 
 **रत्नानि च महार्हाणि वासांसि विविधानि च॥३१॥**
 
@@ -6564,8 +6028,6 @@ MADRAS.
 
 **रत्नं हि भगवन्नेतद् रत्नहारी चपार्थिवः।**
 
-
-
 **क्षत्रियोऽहं भवान् विप्रस् तपस्स्वाध्यायसाधनः ॥३८॥**
 
 **ब्राह्मणेषु कुतो वीर्यं प्रशान्तेषु धृतात्मसु।  
@@ -6595,8 +6057,6 @@ MADRAS.
 
 **सा तदा ह्रियमाणाऽपि विश्वामित्रबलैर्बलात्।**
 
-
-
 कशादण्डप्रहारैश्च काल्यमाना इतस्ततः ॥४५॥
 
 ह्रियमाणा तथा तेन वसिष्ठस्याथ नन्दिनी।  
@@ -6622,15 +6082,12 @@ MADRAS.
 
 [^235]: "क ख ग—उपेक्षसे कथं ब्रह्मन् भक्तां पादाब्जसेविनीम्।"
 
-
 गन्धर्वः[^236]—
 
 [^236]: " ध—वसिष्ठः—शृणोमि ते रवं भद्रे विनदन्त्या मुहुर्मुहुः। बलाद्धृियसि मे नन्दि क्षमावान् ब्राह्मणोऽस्म्यहम्॥"
 
 **एवं तस्यां तथा पार्थ घर्षितायां महामुनिः।  
 न चाक्षुभ्यत धैर्याच्च नैव कोपं समादधे ॥५१॥**
-
-
 
  वसिष्ठः—
 
@@ -6664,8 +6121,6 @@ MADRAS.
 
 **अङ्गारवर्षं मुञ्चन्ती मुहुर्वातं मुखाद्वमत्।**
 
-
-
 **असृजत् पप्लवान् पुच्छात् प्रस्रवाच्छबराञ्छकान् ॥५९॥**
 
 **योनिदेशाच्च यवनाञ्शकृद्देशाच्छकांस्तथा।  
@@ -6697,8 +6152,6 @@ MADRAS.
 **विश्वामित्रस्य तत् सैन्यं काल्यमानं त्रियोजनम्।  
 क्रोशमानं भयोद्विग्नं त्रातारं नाध्यगच्छत ॥६७॥**
 
-
-
 विश्वामित्रस्ततो दृष्ट्वा क्रोधाविष्टस्स रोदसी।  
 ववर्ष शरवर्षाणि वसिष्ठे मुनिसत्तमे ॥६८॥
 
@@ -6726,8 +6179,6 @@ MADRAS.
 
 निर्जितोऽसि महाराज दुरात्मन् गाधिनन्दन।  
 यदि तेऽस्ति परं शौर्यं तद्दर्शय मयि स्थिते॥७५॥
-
-
 
  गन्धर्वः—
 
@@ -6760,8 +6211,6 @@ MADRAS.
 ॥११॥ चैत्ररथपर्वणि द्वादशोऽध्यायः॥१२॥  
 \[अस्मिन्नध्याये ८१॥ श्लोकाः\]
 
-
-
 ॥ चतुस्सप्तत्यधिकशततमोऽध्यायः॥
 
  कल्माषपादराजोपाख्याने—वसिष्टपुत्रेण शक्तिना कल्माषपादंप्रति शापदानम्॥१॥ पुनरन्येन ब्राह्मणेन च कल्माषपादं प्रति शापदानम्॥२॥ राक्षसाविष्टेन कल्माषपादेन वसिष्टपुत्राणां भक्षणम्॥३॥ पुत्रशोकाभिसंतप्तेन वसिष्टेन प्राणत्यागार्थं अनेकधा प्रयतनम्॥४॥
@@ -6791,8 +6240,6 @@ MADRAS.
 **कल्माषपाद इत्यास्मिन् लोके राजा बभूव ह ॥५॥**
 
 **इक्ष्वाकूणां कुले जातस् तेजसा सदृशो भुवि।**
-
-
 
 **नास्ति तस्य महाराज वैश्वानरसमद्युतेः ॥६॥**
 
@@ -6827,8 +6274,6 @@ MADRAS.
 
 कशाप्रहाराभिहतो राजानमृषिसत्तमः।
 
-
-
 **तं शशाप नृपश्रेष्ठं वासिष्ठः क्रोधमूर्च्छितः॥१४॥**
 
  शक्तिः—
@@ -6858,8 +6303,6 @@ MADRAS.
 विश्वामित्रस्ततो रक्ष आदिदेश नृपं प्रति ॥२२॥
 
 शापात्तस्य स विप्रर्षेर् विश्वामित्रस्य चाज्ञया।
-
-
 
 राक्षसः किङ्करो नाम विवेश नृपतिं तदा ॥२३॥
 
@@ -6896,8 +6339,6 @@ MADRAS.
 
 [^245]: "क ख ग—न्वनोद्देशे"
 
-
-
 अन्नार्थिनं त्वमन्नेन समांसेनोपपादय ॥३१॥
 
  गन्धर्वः—
@@ -6931,8 +6372,6 @@ MADRAS.
 
 **द्विरनुव्याहृते वाक्ये शापो हि बलवानभूत्।**
 
-
-
 रक्षोबलसमाविष्टो विसंज्ञश्चाभवत्तदा ॥३९॥  
 ततस्स नृपतिः पार्थ रक्षसाऽपहृतेन्द्रियः।  
 उवाच शक्तिं दृष्ट्वा तु न चिरादिव भारत ॥४०॥  
@@ -6953,8 +6392,6 @@ MADRAS.
 न ममार च पातेन तदा स मुनिसत्तमः ॥४८॥  
 तदाऽग्निमिध्वा भगवान् संविवेश महावने।
 
-
-
 तं तदा सुसमिद्धोऽपि न ददाह हुताशनः ॥४९॥  
 दीप्यमानोऽप्यमित्रघ्न शीतोऽग्निरभवत्तदा ॥४९॥  
 स समुद्रमभिप्रेत्य शोकाविष्टो महामुनिः।  
@@ -6970,7 +6407,6 @@ MADRAS.
 
  पूर्वोपायैरपि दुस्त्यप्राणस्य वसिष्टस्य पुनर्गङ्गापतनादिनाऽपि प्राणत्यागासंभवे आश्रमं प्रत्यागमनम्॥१॥ शक्तिभार्याभदृश्यन्तीनाम्नीं गर्भवतीं ज्ञात्वा आत्मघातान्निवर्तनम्॥२॥  
 
-
  गन्धर्वः—
 
 **स[^247] आश्रमपदं दृष्ट्वा रहितं तैर्महामुनिः।  
@@ -6979,8 +6415,6 @@ MADRAS.
 [^247]: "घ—ततो दृष्ट्वाऽऽश्रमपदं पुत्रैर्विरहितो मुनिः।"
 
 सोऽपश्यत् सरितं पूर्णां प्रावृट्काले नवाम्भसा ।
-
-
 
 वृक्षान् वञ्जुलनीपादीन् वहन्तीं तीरजान् बहून् ॥२॥
 
@@ -7011,8 +6445,6 @@ MADRAS.
 
 मज्जयामास शोकार्तो मरणे कृतनिश्चयः ॥१०॥  
 सा तमग्निसमं विप्रम् उपलभ्य सरिद्वरा।
-
-
 
 **शतधा विद्रुता तस्माच् छतद्रुरिति विश्रुता ॥११॥**
 
@@ -7046,8 +6478,6 @@ MADRAS.
 **एवमुक्तस्ततो हृष्टो वसिष्ठश्श्रेष्ठभागिनीम्।  
 अस्ति सन्तानमित्युक्त्वा मृत्योः पार्थ न्यवर्तत ॥१८॥**
 
-
-
 ततः प्रतिनिवृत्तस्स तया वध्वा सहानघ।  
 कल्माषपादमासीनं ददर्श विजने तदा॥१९॥
 
@@ -7075,8 +6505,6 @@ MADRAS.
 ॥११॥ चैत्ररथपर्वणि चतुर्दशोऽध्यायः॥१४॥  
 \[अस्मिन्नध्याये २४ श्लोकाः\]
 
-
-
 ॥ षट्सप्तत्यधिकशततमोऽध्यायः॥
 
  वसिष्टं भक्षयितुमागतस्य कल्माषपादस्य वसिष्टेन शापान्मोक्षणम्॥1॥ सौदासपत्न्या वसिष्ठाद्गर्भसंभवः॥२॥ अश्मकनामपुत्रोत्पत्तिः॥३॥
@@ -7102,8 +6530,6 @@ MADRAS.
 
 **रक्षसा विप्रमुक्तोऽथ स नृपस्तद्वनं महत्।  
 तेजसा रञ्जयामास सन्ध्याभ्रमिव भास्करः॥६॥**
-
-
 
 **प्रतिलभ्य ततस्संज्ञाम् अभिवाद्य कृताञ्जलिः।  
 उवाच नृपतिः काले वसिष्ठमृपिसत्तमम् ॥७॥**
@@ -7137,8 +6563,6 @@ MADRAS.
 **ततः प्रतिययौ काले वसिष्ठसहितोऽनघः।  
 ख्यातं पुरवरं लोकेष्वयोध्यां मनुजेश्वरः ॥१४॥**
 
-
-
 तं प्रजाः प्रतिनन्दन्त्यस् सर्वाः प्रत्युद्ययुस्तदा।  
 विपाप्मानं महात्मानं दिवौकस इवेश्वरम् ॥१५॥
 
@@ -7167,8 +6591,6 @@ MADRAS.
 राज्ञाऽभिवादितस्तेन जगाम पुनराश्रमम्॥२३॥
 
 दीर्घकालकृतं गर्भं सुषाव न तु तं यदा।
-
-
 
 साऽथ[^252] देव्यश्मना कुक्षिं निर्बिभेद तदा स्वकम् ॥२४॥  
 द्वादशेऽथ ततो वर्षे संजज्ञे मनुजर्षभ।
@@ -7200,8 +6622,6 @@ MADRAS.
 
 **जातकर्मादिकास्तस्य क्रियास्स मुनिपुङ्गवः॥  
 पौत्रस्य भरतश्रेष्ठ चकार भगवान् स्वयम् ॥२॥**
-
-
 
 **पराशीर्णो यतस्तेन वसिष्ठस्थापितस्तदा।  
 गर्भस्तेन ततो लोके पराशर इति स्मृतः ॥३॥**
@@ -7236,8 +6656,6 @@ MADRAS.
 
 सोमेन तर्पयामास विपुलेन विशांपतिः ॥११॥
 
-
-
 तस्मिंस्तु नृपशार्दूले स्वर्यातेऽथ कदाचन।  
 बभूव तत्कुले राज्ञां द्रव्यकार्यमुपस्थितम् ॥१२॥
 
@@ -7270,8 +6688,6 @@ MADRAS.
 
 तं गर्भमुपलभ्याथ ब्राह्मण्योऽन्या भयार्दिताः।
 
-
-
 **गत्वा वै कथयामासुः क्षत्रियाणामुपान्तिके ॥२१॥**
 
 **ततस्ते क्षत्रिया जग्मुस्तं गर्भं हन्तुमुद्यताः।  
@@ -7302,8 +6718,6 @@ MADRAS.
 ॥११॥ चैत्ररथपर्वणि षोडशोऽध्यायः॥१६॥  
 \[अस्मिन्नध्याये २८ श्लोकाः\]
 
-
-
 ॥ अष्टसप्तत्यधिकशततमोऽध्यायः ॥
 
 **![](../../../books_images/U-IMG-1703664543Screenshot2023-12-0713095200000000012.png)**
@@ -7333,8 +6747,6 @@ MADRAS.
  गन्धर्वः—
 
 **एवमुक्तास्ततस्सर्वे राजानस्ते तमूरुजम्।**
-
-
 
 **ऊचुः प्रसीदेति तदा प्रसादं च चकार सः ॥७॥**
 
@@ -7367,8 +6779,6 @@ MADRAS.
 
 **आयुषा च प्रकृष्टेन यदा नः खेद आविशत् ।**
 
-
-
 तदाऽस्माभिर्वधस्तात क्षत्रियैरीप्सितस्स्वयम् ॥१६॥
 
 निखातं तद्धि वै वित्तं कस्मिंश्चिद्भृगुवेश्मनि।  
@@ -7399,8 +6809,6 @@ MADRAS.
 
 **वृथा रोषप्रतिज्ञोऽहं न तु जीवितुमुत्सहे।  
 अनिस्तीर्णो हि मे रोषो दहेदग्निरिवारणिम् ॥२३॥**
-
-
 
 **देशकालेन[^257] संजातं क्रोधं यः क्षन्तुमर्हति।  
 नालं स मनुजस्सम्यक् त्रिवर्गंपरिरक्षितुम् ॥२४॥**
@@ -7433,8 +6841,6 @@ MADRAS.
 **यदा तु प्रतिषेद्धारं पापो न लभते क्वचित्।  
 तिष्ठन्ति बहवो लोकास् तदा पापेषु कर्मसु ॥३१॥**
 
-
-
 **जानन्नपि च यः पापं शक्तिमान्न नियच्छति।  
 ईशस्स चापि तेनैव कर्मणा संप्रयुज्यते॥३२॥**
 
@@ -7463,8 +6869,6 @@ MADRAS.
 
 **य एष मन्युजस्तेऽग्निर् लोकानादातुमिच्छति।  
 अप्सु तं मुञ्च भद्रं ते लोका ह्यःप्सु प्रतिष्ठिताः ॥३८।**
-
-
 
 **तस्मादप्सु[^264] प्रमुञ्चेमं क्रोधाग्निं द्विजसत्तम् ॥३८॥**
 
@@ -7501,8 +6905,6 @@ MADRAS.
 
 **ततो वृद्धांच बालांश्च राक्षसान् स महामतिः।**
 
-
-
 ददाह वितते यज्ञे शक्तेर्वधमनुस्मरन् ॥४६॥
 
 न हि तं वारयामास वसिष्ठो रक्षसां वधात्।  
@@ -7535,8 +6937,6 @@ MADRAS.
 
 कञ्चित्तपस्यविघ्नं ते कञ्चिन्नन्दसि पुत्रक।  
 अजानतामदोषाणां सर्वेषां रक्षसां वधात् ॥५४॥
-
-
 
 प्रजोच्छेदमिमं मह्यं मा कार्षीस्तापसोत्तम ॥५५॥
 
@@ -7578,8 +6978,6 @@ MADRAS.
 
 स सत्रं मुञ्च भद्रं ते समाप्तमिदमस्तु ते॥६४॥
 
-
-
  गन्धर्वः—
 
 एवमुक्तः पुलस्त्येन वसिष्ठेन च धीमता।  
@@ -7593,13 +6991,11 @@ MADRAS.
 ॥११॥ चैत्ररथपर्वणि सप्तदशोऽध्यायः॥१७॥  
 \[अस्मिन्नध्याये ६७ श्लोकाः\]  
 
-
 ॥ ऊनाशीत्यधिकशततमोऽध्यायः॥
 
 ![](../../../books_images/U-IMG-1705202488Screenshot2023-12-071309520000000001221.png)
 
  सौदासभार्यायां वसिष्टेन पुत्रोत्पादनकारणं पृष्टवन्तमर्जुनं प्रति पुनः कल्माषपादकथाकथनम्॥१॥ ब्राह्मणं भक्षितवतः सौदासस्य ब्राह्मण्या शापः॥२॥
-
 
 अर्जुनः[^270]—
 
@@ -7607,8 +7003,6 @@ MADRAS.
 
 राज्ञा कल्माषपादेन गुरौ ब्रह्मविदां वरे।  
 कारणं किं पुरस्कृत्य भार्या वै सन्नियोजिता॥१॥
-
-
 
 **जानता च परं धर्मं लौक्यं तेन महर्षिणा।  
 अगम्यागमनं कस्माद् वसिष्ठेन महात्मना ॥२॥**
@@ -7639,8 +7033,6 @@ MADRAS.
 **ददर्श सुपरिक्लिष्टः कस्मिंश्चित् सुमनोरमे।  
 ब्राह्मणं ब्राह्मणीं चैव मिथुनायोपसंगतौ ॥९॥**
 
-
-
 **तौ समीक्ष्य च वित्रस्तावकृतार्थौप्रधावितौ॥९॥  
 तयोः प्रद्रवतोर्विप्रंजगृहे नृपतिर्बलात् ॥१०॥  
 दृष्ट्वा गृहीतं भर्तारम् अथ ब्राह्मण्यभाषत ॥१०॥**
@@ -7669,8 +7061,6 @@ MADRAS.
 
 **ततस्सा शोकसंतप्ता भर्तृव्यसनदुःखिता।  
 कल्माषपादं राजर्षिम् अशपद्ब्राह्मणी रुषा ॥१७॥**
-
-
 
  ब्राह्मणी—
 
@@ -7706,8 +7096,6 @@ MADRAS.
 
 **तं शापमनुसंस्मृत्य पर्यतप्यद्भृशं तदा ॥२५॥**
 
-
-
 एतस्मात् कारणाद्राजा वसिष्ठं संन्ययोजयत्।  
 स्वदारे भरतश्रेष्ठ शापदोषसमन्वितः ॥२६॥
 
@@ -7733,8 +7121,6 @@ MADRAS.
 
 **अस्माकमनुरूपं वै यस्स्याद्गन्धर्वसत्तम ।  
 पुरोहितं ममाचक्ष्व सर्वं हि विदितं तव ॥१॥**
-
-
 
  गन्धर्वः—
 
@@ -7766,8 +7152,6 @@ MADRAS.
 **मातृषष्ठास्ततस्तेन गुरुणा सह संगताः।  
 नाथवन्तमिवात्मानं मेनिरे भरतर्षभाः॥९॥**
 
-
-
 **स हि वेदार्थतत्त्वज्ञस् तेषां गुरुरुदारधीः।  
 वेदविच्चैकवाग्मी च धौम्यश्श्रीमान् द्विजोत्तमः ॥१०॥**
 
@@ -7791,8 +7175,6 @@ MADRAS.
 
 \[अस्मिन्नध्याये १४ श्लोकाः\]  
 ॥समाप्तं चैत्ररथपर्व॥
-
-
 
 ॥ एकाशीत्यधिकशततमोऽध्यायः ॥
 
@@ -7829,8 +7211,6 @@ MADRAS.
 
 **ते तु दृष्ट्वा पुरं तस्य स्कन्धावारं च पाण्डवाः।**
 
-
-
 कुम्भकारस्य शालायां निवेशं चक्रिरे तदा ॥६॥
 
 तत्र भैक्षं समाजह्रुर्ब्राह्मी वृत्तिं समाश्रिताः॥७॥
@@ -7857,8 +7237,6 @@ MADRAS.
 
 [^282]: "क ख ग घ—रनायम्यं मार्गयामास वै तदा।"
 
-
-
 यन्त्रं[^283] वैहायसं चापि कारयामास कृत्रिमम्।  
 तेन यन्त्रेण सहितं कारयामास काञ्चनम् ॥११॥
 
@@ -7879,8 +7257,6 @@ MADRAS.
 दुर्योधनपुरोगाश्च[^286] सकर्णकुरवो नृपाः॥१४॥**
 
 [^286]: "क ग घ—यादवा वासुदेवेन सार्धमन्धकवृष्णयः। राजानो राजपुत्राश्च युवानो मृष्टकुण्डलाः॥ नानाजनपदाधीशा यज्वानो भूरिदक्षिणाः। मनोज्ञरूपा लावण्यान्महेन्द्रसमविक्रमाः॥ क्रोधेन चाग्निसदृशाः क्षमया पृथिवीसमाः। स्थैर्ये मेरुसमा धीरास सूर्यवैश्वानरोपमाः। पृथिव्यां ये च राजानो ऋषयश्च तपोधनाः। बालवृद्धानृते सर्वे महीपालास्समागताः॥"
-
-
 
 **ब्राह्मणाश्च महाभागा देशेभ्यस्समुपागताः।**  
 **ते ह्यर्चिता नरेन्द्रेण द्रुपदेन महात्मना ॥१५॥**
@@ -7908,8 +7284,6 @@ MADRAS.
 **अग्राम्यसमवच्छन्नैर्[^288] अगुरूत्तमधूपितैः।**
 
 [^288]: "घ—स्रग्दामभिरविच्छिन्नैर् विमानध्वजशोभितैः।"
-
-
 
 **हंसवर्णैश्च बहुभिर् आयोजनसुगन्धिभिः ॥२२॥**
 
@@ -7941,8 +7315,6 @@ MADRAS.
 
 [^289]: "अ—वरकांस्यमुपादाय काञ्चनं समलङ्कृतम्"
 
-
-
 **अवतीर्णा ततो रङ्गे द्रौपदी द्रुपदात्मजा ॥३१॥**
 
 **पुरोहितस्सोमकानां मन्त्रविद्ब्राह्मणश्शुचिः।  
@@ -7973,8 +7345,6 @@ MADRAS.
 तानेवमुक्त्वा द्रुपदस्य पुत्रः  
 पश्चादिदं द्रौपदीमित्युवाच।
 
-
-
 **नाम्ना च गोत्रेण च कर्मणा च  
 संकीर्तयंस्तान् नृपतीन् समेतान् ॥३७॥**
 
@@ -7998,8 +7368,6 @@ MADRAS.
 नन्दको बाहुशाली च कुण्डली विकटस्तथा॥३॥**
 
 **विन्दश्चाप्यनुविन्दश्च सदीपी विकलः करी।**
-
-
 
 **एते चान्ये च बहवो धार्तराष्ट्रा महाबलाः॥४॥**
 
@@ -8026,10 +7394,6 @@ MADRAS.
 
 **पौण्ड्रको वासुदेवश्च भगदत्तश्च वीर्यवान्।  
 कलिङ्गस्ताम्रलिप्तश्च पत्तनाधिपतिर्महान् ॥११॥**
-
-
-
-
 
 मद्रराजस्तथा शल्यस् सहपुत्रोमहाबलः।  
 रुक्माङ्गदेन वीरेण तथा रुक्मरथेन च॥१२॥
@@ -8060,8 +7424,6 @@ MADRAS.
 
 वत्सराजश्च धृतिमान् कोसलाधिपतिर्महान्।
 
-
-
 कर्णश्च सह पुत्रेण वृषसेनश्च वीर्यवान् ॥२१॥
 
 बृहद्वलश्च बलवान् राजा चैवाथ दुर्जयः ॥२१॥
@@ -8091,8 +7453,6 @@ MADRAS.
 समृद्धदर्पा मदवेगभिन्ना  
 मत्ता यथा हैमवता गजेन्द्राः॥२६॥
 
-
-
 **परस्परं स्पर्धया प्रेक्षमाणाः  
 सङ्कल्पजेनाभिपरिप्लुताङ्गा।  
 कृष्णा ममैवेत्यभिभाषमाणा  
@@ -8117,8 +7477,6 @@ MADRAS.
 
 **दैत्यास्सुपर्णाश्च महोरगाश्च  
 देवर्षयो गुह्यकाश्चारणाश्च।**
-
-
 
 विश्वावसुर्नारदः पर्वतश्च  
 गन्धर्वमुख्यास्सहिताऽप्सरोभिः॥३१॥
@@ -8145,8 +7503,6 @@ MADRAS.
 व्यायच्छमाना ददृशुस्समन्तात्  
 सन्दष्टताम्रोज्वलदन्तवक्ताः ॥३५॥
 
-
-
 तथैव वीराः पुथुबाहुवर्णाः।  
 पार्थोयमौ चैव महानुभावौ।  
 तां द्रौपदीं प्रेक्ष्य तदा स्म सर्वे  
@@ -8169,8 +7525,6 @@ MADRAS.
 
 समाजवाटोपरि संस्थितानां  
 मेघैस्समन्तांदिव गर्जितानाम् ॥३९॥
-
-
 
 **ततस्तु ते राजगणाः क्रमेण  
 कृष्णानिमित्तं च[^297] समीहमानाः।  
@@ -8197,8 +7551,6 @@ MADRAS.
 
 **ताडितस्स धनुष्कोट्यापपातोर्व्यां वियन्मुखः।  
 संरम्भात् क्रोशमात्रे तु राजानोऽन्ये भयातुराः॥४५॥**
-
-
 
 ततो राजा जरासन्धो महावीर्यो महाबलः।  
 कम्बुग्रीवः पृथुव्यंसो मत्तवारणविक्रमः ॥४६॥
@@ -8227,8 +7579,6 @@ MADRAS.
 
 आरोप्यमाणं तद्राजा धनुषा बलिना तदा।  
 उत्तानशय्यमपतद् अङ्गुल्यन्तरताडितः ॥५४॥
-
-
 
 **स ययौ ताडितस्तेन व्रीडन्निव नराधिपः ॥५४॥**
 
@@ -8261,8 +7611,6 @@ MADRAS.
 
 [^300]: "क-ख-ग-घ—कोशेषु लोकद्वयं नास्ति।"
 
-
-
 **जहर्ष रामेण स पीड्य हस्तं  
 हस्तं गतां पाण्डुसुतस्य मत्वा ॥६१॥  
 न जज्ञुरन्ये नृपवीरमुख्याः  
@@ -8286,8 +7634,6 @@ MADRAS.
 उदक्रोशन्विप्रमुख्या विधुन्वन्तोऽजिनानि च॥१॥**
 
 [^301]: "क ख ग—यदा निवृत्ता राजानो धनुषस्सज्यकर्मणि। अयोदतिष्ठद्विप्राणां मध्याजिष्णुरुदारधीः।"
-
-
 
 **दृष्ट्वा संप्रस्थितं पार्थम् इन्द्रकेतुसमप्रभम्।  
 केचिदासन् विमनसः केचिदासन् मुदाऽन्विताः॥२॥**
@@ -8319,8 +7665,6 @@ MADRAS.
 **संभाव्यं तस्य कर्मेदम् उत्साहाच्चानुमीयते ॥९॥**
 
 **शक्तिरस्य महोत्साहा न ह्यशक्तस्स्वयं व्रजेत् ॥१०॥**
-
-
 
 न च तद्विद्यते किञ्चित् कर्म लोकेषु यद्भवेत्।  
 ब्राह्मणानामसाध्यं वा धृष्णुस्स्थास्नुश्चरिष्णु[^303] वा ॥११॥
@@ -8358,8 +7702,6 @@ MADRAS.
 तस्य तद्वचनं श्रुत्वा प्रययौ ब्राह्मणैर्वृतः।  
 ततः पश्चान्महातेजाः पाण्डवो रणदुर्जयः ॥२०॥
 
-
-
 **स तद्धनुः परिक्रम्य प्रदक्षिणमथाकरोत्।**  
 **प्रणम्य शिरसा हृष्टो जगृहे चपरन्तपः ॥२१॥**
 
@@ -8386,8 +7728,6 @@ MADRAS.
 **तस्मिंस्तु शब्दे महति प्रवृद्धे  
 युधिष्ठिरो धर्मभृतां वरिष्ठः।**
 
-
-
 **आवासमेवाभिजगाम शीघ्रं  
 सार्धं यमाभ्यां पुरुषोत्तमाभ्याम् ॥२६॥**
 
@@ -8412,8 +7752,6 @@ MADRAS.
 स्वाहेव लक्ष्मीश्च यथा मुकुन्दम्।  
 उषेव सूर्यं मदनं रतीव  
 महेश्वरं पर्वतराजपुत्री ॥३०॥**
-
-
 
 रामं[^307]यथा मैथिलराजपुत्री  
 भैमी यथा राजवरं नलं हि॥३१॥
@@ -8443,8 +7781,6 @@ MADRAS.
 [^309]: "क-ग—हन्स्येनं"
 
 गुणवोद्भिजयित्वा तु ततः पश्चाद्विनिन्दति ॥३७॥
-
-
 
 अस्मिन् राजसमावाये देवानामिव सन्नये।  
 किमयं सदृशं कंचिन्नृपतिं नैव दृष्टवान् ॥३८॥
@@ -8477,8 +7813,6 @@ MADRAS.
 
 वेगेनापततस्तांस्तु प्रभिन्नानिव वारणान्।
 
-
-
 पाण्डुपुत्रौ महावीर्यौ प्रतीयतुररिन्दमौ ॥४७॥
 
 ततस्समानेदुरुदायुधास्ते  
@@ -8507,8 +7841,6 @@ MADRAS.
 तदाऽब्रवीज्जिष्णुरुदारकर्मा  
 मा सिंहनादं कुरु पूर्वजेह।
 
-
-
 मा घोरतां दर्शय शत्रुमध्ये  
 साधारणं योधय तावदार्य॥५२॥
 
@@ -8516,8 +7848,6 @@ MADRAS.
 जिष्णुस्स हि भ्रातुरचिन्त्यकर्मा।  
 दामोदरो भ्रातरमुग्रवीर्य  
 हलायुधं वाक्यमिदं बभाषे॥५३॥
-
- 
 
 वासुदेवः—
 
@@ -8535,8 +7865,6 @@ MADRAS.
 कुकर्महा सिंहगतिर्नृवीरः।  
 धीरप्रचण्डोज्ज्वलचारुघोणो  
 विनिस्सृतस्सोऽच्युत धर्मराजः॥५६॥
-
-
 
 यौ तौ कुमाराविव कार्तिकेयौ  
 द्वावाश्विनेयाविति मे वितर्कः।  
@@ -8566,11 +7894,7 @@ MADRAS.
 ॥१२॥ स्वयंवरपर्वणि तृतीयोऽध्यायः॥३॥  
 \[अस्मिन्नध्याये ५९॥श्लोकाः \]
 
-
-
 ॥ चतुरशीत्यधिकशततमोऽध्यायः॥
-
-
 
  अर्जुनेन कर्णपराजयः॥१॥ भीमेन कर्णपराजयः॥२॥ युधिष्ठिरादिभिर्दुर्योधनादिपराजयः॥३॥ पुनर्युद्वाय कृतनिश्चयानां राज्ञां श्रीकृष्णवाक्येन युद्धोद्योगाविरम्य स्वस्त्रालयगमनम्॥४॥द्रौपद्या सह भीमार्जुनयोः कुलालगृहप्रवेशः॥५॥
 
@@ -8595,8 +7919,6 @@ MADRAS.
 आहवेषु द्विजस्यापि वधो दृष्टो युयुत्सतः॥६॥**
 
 **ततो वैकर्तनः कर्णो जगामार्जुनमोजसा।**
-
-
 
 युद्धा
 
@@ -8636,8 +7958,6 @@ MADRAS.
 युध्येतां र्  ॥१५॥  
 ते प्रतिकृत
 
-
-
 इति शूरार्थवचनैर् अभाषेतां परस्परम् ॥१६॥
 
 ततोऽर्जुनस्य भुजयोर् वीर्यमप्रतिमं भुवि।  
@@ -8645,8 +7965,6 @@ MADRAS.
 
 अर्जुनेन प्रयुक्तांस्तान् बाणान्ं वेगवतस्तथा।  
 प्रतिहत्य ननादोच्चैस् सैन्यास्समभिपूजयन् ॥१८॥
-
- 
 
 कर्णः—
 
@@ -8674,9 +7992,6 @@ MADRAS.
 
 तुगृहे.  
 
-
-
-
  वैशम्पायनः—
 
 इत्युवाचार्जुनमिदं प्रत्याहन्तुमशक्नुवन् ॥२४॥
@@ -8684,8 +7999,6 @@ MADRAS.
 तमेवंवादिनं[^312] पार्थः प्रत्यभाषत वीर्यवान् ॥२५॥
 
 [^312]: "क-ग-घ–न्यस्तहस्तो धनुष्कोट्यां मन्दस्मितमुखाम्बुजः"
-
- 
 
 अर्जुनः—
 
@@ -8711,8 +8024,6 @@ MADRAS.
 
 [^314]: "क-ख-ग—ततोऽन्यद्धनुरादाय संयोढ्धुंसन्दधे शरम्। धनुस्तदपि कौन्तेयश चिच्छेद सशरं रुपा ॥ पुनः पुनश्चाददानश चिच्छेद स पुनः पुनः । । अच्छिन्द्रनुपा पार्थश् शतं कर्णस्य संयुगे॥"
 
-
-
 युद्धायोत्पततौ तत्र राजन् शल्यवृकोदरौ।  
 बलिनौ युगपन्मत्तौ स्पर्धया च बलेन च ॥३०॥
 
@@ -8723,8 +8034,6 @@ MADRAS.
 
 ततो भीमस्समुत्क्षिप्य बाहुभ्यां शल्यमाहवे।  
 नावधीद्वलिनां श्रेष्ठोजहास ब्राह्मणस्तदा ॥३३॥
-
-
 
  पूर्वतोऽनुवृत्तम्—
 
@@ -8752,8 +8061,6 @@ MADRAS.
 न जपेद्राह्मणं संख्ये युधा क्षत्रकुलोद्भवः।  
 इति मत्वा द्रुतं कर्णश शिविराय जगाम ह॥**
 
-
-
 ततो[^315] राजसमूहस्य संक्रुद्धो वृक्षमारुजत् ॥३३॥
 
 [^315]: "क-ख-ग—परिरभ्योत्क्षिप्य बाहुभ्यां मध्ये भारतसत्तम। घ—बभञ्ज तरसा शल्यं मध्ये शीघ्रं महाबलः। तत्राश्चर्यं भीमसेनश् चकार पुरुषर्षभ। यच्छल्यं पतितं भूमौ नाहनदुलिनं बली॥"
@@ -8777,8 +8084,6 @@ MADRAS.
 दुर्योधनममित्रघ्नं धर्मराजो युधिष्ठिरः ॥३९
 
 [^316]: "क-ग-घ—आयोधयद्गणे राजन् पश्यतां च महीभृताम् ॥ दुर्योधनो धर्मसुतं तौ यमावप्ययोधयत्। कर्णे पराजिते यत्र मया तत्र कथं भवेत्। चिन्तयन्तमिति ज्ञात्वा राजा विप्राकृतिस्तदा॥"
-
-
 
 ततो दुर्योधनः क्रुद्धो दण्डाहत इवोरगः।  
 प्रत्यविध्यत्राजानं यत्नं परममास्थितः ॥४०॥
@@ -8813,8 +8118,6 @@ MADRAS.
 
 ते प्रयातास्ततस्तत्र क्षत्रिया रणमूर्धनि ॥४८॥
 
-
-
 ब्राह्मणाश्च जयं प्राप्य कन्यामादाय निर्ययुः॥४९॥
 
 तत्राश्चर्यं भीमसेनश् चकार भरतर्षभ।  
@@ -8846,8 +8149,6 @@ MADRAS.
 
 धर्मेण लब्धेत्यनुनीय सर्वान् ॥५६॥
 
-
-
 एवं ते सन्निरुद्धास्तु युद्धाद्युद्धविशारदाः।  
 यथावासं ययुस्सर्वे विस्मिता राजसत्तम् ॥५७॥
 
@@ -8877,8 +8178,6 @@ MADRAS.
 
 ॥१२॥ स्वयंवरपर्वणि चतुर्थोऽध्यायः ॥४॥
 
-
-
 ॥ पञ्चाशीत्यधिकशततमोऽध्यायः॥
 
  भीमार्जुनाभ्यां द्रौपद्याः भिक्षेत्यावेदने कुन्त्या पञ्चानां सह भोजनानुज्ञा॥१॥ पश्चात् द्रोपदीदर्शनेन चिन्तान्वितायां कुन्त्यां युधिष्ठिरार्जुनयोस्पंवादः॥२॥ द्वैपायनवचस्स्मरणेन सर्वेषां द्रोपदी भार्येति युधिष्टिरनिश्चयः॥३॥ जनमेजयेन कृष्णस्य कार्मुकानारोपणे कारणप्रश्ने पाण्डवार्थमिति वैशम्पायनस्योत्तरम् ॥४॥ कुलालशालां प्रति श्रीकृष्णस्यागमनम् ५॥
@@ -8901,8 +8200,6 @@ MADRAS.
 
 **साऽधर्मभीता हि विलज्जमानां  
 तां याज्ञसेनीं परमप्रतीताम्।**
-
-
 
 पाणौगृहीत्वोपजगाम कुन्ती  
 युधिष्ठिरं वाक्यमुवाच चेदम् ॥३॥
@@ -8933,8 +8230,6 @@ MADRAS.
 
 [^320]: "घ—त्वया च शोभिष्यति शोभमाना।"
 
-
-
 प्रज्वाल्यतां हूयतां चैव वह्णिर्  
 गृहाण पाणिं विधिवत्त्वमस्याः ॥७॥
 
@@ -8963,8 +8258,6 @@ MADRAS.
 तेषां च द्रौपदीं दृष्ट्वा सर्वेषाममितौजसाम्।  
 संप्रमध्येन्द्रियग्रामं प्रादुरासीन्मनोभवः॥१२॥
 
-
-
 काम्यं हि रूपं पाञ्चाल्या विधात्रा विहितं स्वयम्।  
 बभूवाधिकमन्याभ्यस् सर्वभूतमनोहरम् ॥१३॥
 
@@ -8992,10 +8285,6 @@ MADRAS.
 शक्तेन कृष्णेन च कार्मुकं त–  
 न्नारोपितं ज्ञातुकामेन पार्थान्।
 
-
-
-
-
 परिश्रवादेवबभूव लोके  
 जीवन्ति पार्था इति निश्चयोऽस्य ॥१९॥
 
@@ -9021,8 +8310,6 @@ MADRAS.
 जगाम तां भार्गवकर्मशालां  
 यत्रासते ते पुरुषप्रवीराः॥२३॥
 
-
-
 तत्रोपविष्टं पृथुदीर्घबाहुं  
 ददर्श कृष्णस्सहरौहिणेयः।  
 अजातशत्रुं परिवार्य तांश्च  
@@ -9046,8 +8333,6 @@ MADRAS.
 **तमब्रवीद्वासुदेवः प्रहस्य  
 गूढोऽप्यग्निर्ज्ञायत एव राजन्।**
 
-
-
 तं विक्रमं पाण्डवेयानतीत्य  
 कोऽन्यः कर्ता विद्यते मानुषेषु ॥२८॥
 
@@ -9068,13 +8353,9 @@ MADRAS.
 तत्रैवासन् पाण्डवाश्चाजघन्या  
 मात्रा सार्धं कृष्णया चापि वीराः॥३१॥**
 
-
-
 इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्याम्  
 आदिपर्वणि पञ्चाशीत्यधिकशततमोऽध्यायः॥१८५॥  
 ॥१२॥ स्वयंवरपर्वणि पञ्चमोऽध्यायः॥५॥
-
-
 
 ॥ षडशीत्यधिकशततमोऽध्यायः॥
 
@@ -9110,8 +8391,6 @@ MADRAS.
 
 **बलिं च विप्राय च देहि भिक्षाम्॥५॥**
 
-
-
 ये चान्नमिच्छन्ति हि देहि तेभ्यः  
 परिश्रिता ये परितो मनुष्याः।  
 ततश्च शेषं प्रविभज्य शीघ्रम्  
@@ -9136,8 +8415,6 @@ MADRAS.
 शिरांसि तेषां कुरुसत्तमानाम्।  
 कुन्ती पुरस्तात्तु बभूव तेषां  
 कृष्णा तिरश्चैव बभूव पत्नी ॥१०॥**
-
-
 
 अशेत भूभौ सह पाण्डुपुत्रैः  
 पादोपधानेव कृता कुशेषु।  
@@ -9166,8 +8443,6 @@ MADRAS.
 
 [^323]: "घ—सदा स्मरन् द्रौपदी किं कृतेति।"
 
-
-
 कञ्चिन्न शूद्रेण न हीनजेन  
 वैश्येन वा करणेनोपपन्ना।  
 कञ्चित् पदं मृर्ध्नि न मे विषक्तं  
@@ -9195,8 +8470,6 @@ MADRAS.
 \[स्वयंवरपर्व समाप्तम्\]  
 \[अस्मिन्नध्याये १९ श्लोकाः\]
 
-
-
 ॥ सप्ताशीत्यधिकशततमोऽध्यायः॥
 
 (अथ वैवाहिकपर्व)
@@ -9219,8 +8492,6 @@ MADRAS.
 
 आसज्जमानश्चगतस्तरस्वी  
 द्विजातिभिस्तैरभिपूज्यमानः।
-
-
 
 विक्रम्य वज्रीव दितेस्सुतेषु  
 सर्वैश्च देवैर्षिभिश्च दृष्टः ॥३॥
@@ -9250,8 +8521,6 @@ MADRAS.
 
 [^326]: "क-ग—विक्षोभ्य विद्वाव्य च पार्थिवांस्तान्‌ स्रतेजसा दुष्प्रतिवीक्ष्यरूपौ॥"
 
-
-
 तत्रोपविष्टाऽर्चिरिवानलस्य  
 तेषां जनित्रीति मम प्रतर्कः।  
 तथाविधैरेव नरप्रवीररै्–  
@@ -9276,8 +8545,6 @@ MADRAS.
 कथा विचित्राः कथयांबभूवुः।  
 न वैश्यशूद्रौपयिकीः कथास्ता  
 न च द्विजार्हाःकथयन्ति वीराः ॥१२॥
-
-
 
 निस्संशयं क्षत्रियपुङ्गवास्ते  
 यथा हि युद्धं कथयन्ति राजन्।  
@@ -9306,8 +8573,6 @@ MADRAS.
 **विज्ञातुमिच्छत्यवनीश्वरो वः  
 पाञ्चलराजो द्रुपदो वरार्हान्।**
 
-
-
 लक्ष्यस्य वेद्धारमिमं हि दृष्ट्वा  
 हर्षस्य नान्तं परिपश्यते सः॥१७॥
 
@@ -9332,8 +8597,6 @@ MADRAS.
 स्थितं विधिज्ञं समुदीक्ष्य राजा।  
 समीपस्थं भीममिदं शशास  
 प्रदीयतां पाद्यमर्ध्यंतथाऽस्मै ॥२१॥
-
-
 
 मान्यः पुरोधा द्रुपदस्य राक्षस  
 तस्मै प्रयोज्याऽभ्यधिका च पूजा॥२१॥
@@ -9361,8 +8624,6 @@ MADRAS.
 कृष्णा जिता पार्थिवसङ्घमध्ये।  
 नैवं गते सौमकिरद्य राजा  
 सन्तापर्हत्यसुखेन कर्तुम्॥२५॥**
-
-
 
 कामश्च योऽसौद्रुपदस्थ राज्ञस्‌  
 स चापि संपत्स्यति पार्थिवस्य।  
@@ -9393,8 +8654,6 @@ MADRAS.
 **अन्यार्थमन्नं द्रुपदेन राज्ञा  
 विवाहहेतोरुपसंस्कृतं च।**
 
-
-
 तदाप्नुवध्वं कृतसर्वकार्याः  
 कृष्णा तु तत्रैतु चिरं न कार्यम् ॥३०॥
 
@@ -9422,8 +8681,6 @@ MADRAS.
 जिज्ञासयैवाथ कुरूत्तमानां  
 द्रव्याण्यनेकान्युपसञ्जहार ॥३४॥
 
-
-
 फलानि माल्यान्यथ संस्कृतानि  
 चर्माणि वर्माणि तथाऽऽसनानि।  
 गाश्चैव राजन्नथ चैव रज्जू–  
@@ -9448,8 +8705,6 @@ MADRAS.
 अन्तःपुरं द्रुपदस्याविवेश।  
 राजस्त्रियः कौरवराजपुत्रीं  
 प्रत्यर्चयाञ्चक्रुरदीनसत्वाम् ॥३९॥**
-
-
 
 तान् सिंहविक्रान्तगतीनुदीक्ष्य  
 महर्षभाक्षानजिनोत्तरीयान्।  
@@ -9476,31 +8731,22 @@ MADRAS.
 उत्क्रम्य सर्वाणि वसूनि तत्र  
 सांग्रामिकाण्याविविशुर्नृवीराः॥४४॥
 
-
-
 तल्लक्षयित्वा द्रुपदस्य पुत्रा  
 राजा च सर्वे सह मन्त्रिमुख्याः।  
 सम्मन्त्रयामासुरतीव हृष्टाः  
 कुन्तीसुतान् पार्थिवपुत्रपौत्रान् ॥४५॥
 
-
-
 इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम् आदिपर्वणि सप्ताशीत्यधिकशततमोऽध्यायः॥१८७॥  
 ॥१३॥ वैवाहिकपर्वणि प्रथमोऽध्यायः॥१॥  
 \[अस्मिन्नध्याये ४५॥ श्लोकाः\]
-
-
 
 ॥ अष्टाशीत्यधिकशततमोऽध्यायः॥
 
 ![](../../../books_images/U-IMG-1702382707Screenshot2023-12-1217334320000.jpg)
 
  द्रुपदप्रश्नानन्तरं युधिष्टिरेण स्वेषां पाण्डवत्वकथनम् ॥१॥ द्रौपद्याः पञ्चपत्नीत्वे द्रुपदस्य विवादः ॥२॥ व्यासागमनम् ॥३॥ एकस्याः बहुभार्यात्वे शङ्कमानान् द्रुपदादीन् प्रति व्यासेन स्वस्वाभिप्रायकथनानुज्ञा॥४॥ द्रुपदादिभिः स्वस्वमते कथिते व्यासेनास्य विवाहस्य धर्म्यत्वकथनम् ॥५॥  
-          
 
  वैशम्पायनः—
-
-     
 
 तत आहूय पाञ्चालो राजपुत्रं युधिष्ठिरम्।  
 परिग्रहेण ब्राह्मेण परिगृह्य महाद्युतिः॥१
@@ -9510,8 +8756,6 @@ MADRAS.
  द्रुपदः—
 
 कथं जानीम भवतः क्षत्रियान् ब्राह्मणानुत।
-
-
 
 वैश्यान् वा गुणसम्पन्नान् उत वा शूद्रयोनिजान् ॥२॥
 
@@ -9545,8 +8789,6 @@ MADRAS.
 
 व्येतु ते मानसं दुःखंक्षत्रियास्स्मो नराधिप ॥१०॥
 
-
-
 पद्मिनीव सुतेयं ते ह्लदादन्यहृदं गता ॥११॥
 
 इति तथ्यं महाराज सर्वमेतद्ब्रवीमि ते ।  
@@ -9576,8 +8818,6 @@ MADRAS.
 
 तत्र ते न्यवसन् राजन् यज्ञसेनेन पूजिताः।  
 पर्याश्वस्तांस्तदा राजा सह पुत्रैरुवाच तान् ॥१९॥
-
-
 
  
 
@@ -9610,8 +8850,6 @@ MADRAS.
 न चैनं हातुमिच्छामस् समयं राजसत्तम्॥२४॥
 
 अक्रमेण निवेशे च धर्मलोपो महान् भवेत् ॥२६॥
-
-
 
 सर्वेषां[^332] धर्मतः कृष्णा महिषी नो भविष्यति।  
 आनुपूर्व्येण गृह्नन्तुसर्वेऽग्नौज्वलिते करम् ॥२७॥
@@ -9649,8 +8887,6 @@ MADRAS.
 
 त्वं च कुन्ती च कौन्तेय धृष्टद्युम्नश्च मे सुतः।
 
-
-
 कथयन्त्विह कर्तव्यं श्वः काल्ये करवामहे ॥३४॥
 
  वैशम्पायनः—
@@ -9684,10 +8920,6 @@ MADRAS.
 अस्मिन् धर्मे विप्रलब्धे लोकवेदविरोधिते।  
 यस्य यस्य मतं यद्यच् छ्रोतुमिच्छामि तस्य तत् ॥४१॥
 
-
-
-
-
  द्रुपदः—
 
 अधर्मोऽयं मम मतो विरुद्धो लोकवेदयोः।  
@@ -9719,8 +8951,6 @@ MADRAS.
 तस्य पुत्री महाप्राज्ञा गौतमस्य यशस्विनी ॥४९॥
 
 **ऋषीनध्यासितवती सप्त धर्मभृतां वरान् ॥४९॥**
-
-
 
 तथा वै मृगशबाक्षी तपोभिर्भावितान् मुनीन् ।  
 दशभजदृषीन् भ्रातॄन् एकनाम्नः प्रचेतसः॥५०॥
@@ -9756,15 +8986,11 @@ MADRAS.
 पाण्डवास्त्वथ कुन्ती च धृष्टद्युम्नश्चपार्षतः।  
 मिथः कथाभिस्ते सर्वे प्रतीक्षन्ते स्म तावुभौ॥५८॥
 
-
-
 ततो द्वैपायनस्तस्मै नरेन्द्राय विशाम्पते ।  
 आचख्यौ तद्यथा धर्मो बहूनामेकपत्निता ॥५९॥
 
 यथा देवा ददुश्चैव राजपुत्र्याः पुरा वरम् ।  
 धर्माद्यास्तपसा तुष्टाः पञ्चपत्नीत्वमीश्वराः॥६०॥
-
-
 
 इति श्रीमहाभारते शतसहस्त्रिकार्या संहितायां वैयासिक्याम् आदिपर्वणि अष्टाशीत्यधिकशततमोऽध्यायः॥१८८॥
 
@@ -9789,8 +9015,6 @@ MADRAS.
 
 **याजोपयाजौ धर्मघृणी तपोभ्यां  
 तौ चक्रतुः पञ्चपतित्वमस्याः ।**
-
-
 
 सा[^338] धर्मतः पाण्डुसुतैरवाप्ता  
 भार्या कृष्णा मोदतां वैकुलंते॥२॥
@@ -9820,8 +9044,6 @@ MADRAS.
  मौद्गल्यः—
 
 नासि वृद्धो न कटुको नेर्ष्युर्नैवातिकोपनः।
-
-
 
 न च दुर्गन्धवदनो न कृशो न च लोलुपः ॥९॥
 
@@ -9856,8 +9078,6 @@ MADRAS.
 पूज्यमानस्तथा शच्या शक्रस्य भवनेष्वपि।  
 महेन्द्रसेनया सार्धं पर्यटन् दिवि रंहसः ॥१६॥
 
-
-
 सूर्यस्य च रथं दिव्यम् आरुह्य भगवान् प्रभुः।  
 पर्युपेत्य पुनर्मेरुं मेरौ वासमरोचयत् ॥२७॥
 
@@ -9888,8 +9108,6 @@ MADRAS.
 अरुन्धतीव सीतेव बभूवातिपतिव्रता ॥३४॥
 
 दमयन्त्याच मातुस्सा विशेषमधिकं ययौ॥३५॥
-
-
 
 एतत्तथ्यं महाराज मा ते भूद्भुद्धिरन्यथा ॥३५॥
 
@@ -9923,8 +9141,6 @@ MADRAS.
 ततः कदाचिद्धर्मात्मा तप्तुकामो व्यरज्यत।  
 अन्विच्छन् परमं ब्रह्म त्यागधर्मपरोऽभवत् ॥४३॥
 
-
-
 उत्ससर्ज स तां विप्रस् सा तदा चापतद्भुवि ।  
 मौद्गल्यो[^343] राजशार्दूल तपोभिर्भावितस्सदा ॥४४॥
 
@@ -9934,7 +9150,6 @@ MADRAS.
 
 प्रसीद भगवन् मह्यं न मामुत्स्रष्टुमर्हसि।  
 अवितृप्ताऽस्मि ब्रह्मर्षे कामानां मम कामद ॥४५॥
-
 
 ऋषिः[^344]—
 
@@ -9956,8 +9171,6 @@ MADRAS.
 
 **निराशीर्मारुताहारा निराहारा तथैव च।  
 अनुवर्तमाना त्वादित्यं तथा पञ्चतपा भवत् ॥५०॥**
-
-
 
 तीव्रेणतपसा तस्यास् तुष्टः पशुपतिस्स्वयम्।  
 वरं प्रादात्तदा रुद्रस् सर्वलोकेश्वरः प्रभुः॥५१॥
@@ -9990,8 +9203,6 @@ MADRAS.
 
 **एको हि भर्ता नारीणां कौमार इति लौकिकः।  
 आपत्सु च नियोगेन सन्तानार्थे परस्स्मृतः ॥५८॥**
-
-
 
 गच्छेत या तृतीयं तु तस्या निष्कृतिरुच्यते॥५८॥
 
@@ -10030,16 +9241,12 @@ MADRAS.
 
 **गच्छ गङ्गाजलद्वारं नरं पश्यसि यंशुभे ।**
 
-
-
 **तमानय ममाभ्याशं सुरराजं शुचिस्मिते ॥६६॥**
 
  व्यासः—
 
 इत्युक्ता विश्वरुपेण रुद्रं कृत्वा प्रदक्षिणम्।  
 जगाम गङ्गामुद्दिश्य पुण्यां त्रिपथगां नदीम् ॥६७॥
-
-  
 
 इति श्रीमहामारते शतसहस्त्रिकायां संहितायां वैयासिक्याम् आदिपर्वणि एकोननवत्यधिकशततमोऽध्यायः॥१८९॥  
 ॥१३॥ वैवाहिकपर्वणि तृतीयोऽध्यायः॥३॥
@@ -10059,12 +9266,6 @@ MADRAS.
 ततः प्रजास्ता बहुला बभूवुः
 
 कालातिपातान्मरणात् प्रहीणाः॥२॥
-
-
-
-
-
-
 
 ततश्च शक्रो वरुणः कुबेरस्  
 साध्याश्च रुद्रा वसवश्वाश्विनौ च।  
@@ -10096,8 +9297,6 @@ MADRAS.
 **वैवस्वतस्येह तनुर्हि भूत्वा  
 वीर्येण युष्माकमुत प्रवृद्धा ।**
 
-
-
 सैषामन्तो भविता ह्यन्तकाले  
 नियच्छध्वं मोहममित्रसाहाः॥८॥
 
@@ -10123,8 +9322,6 @@ MADRAS.
 का त्वं कुतो रोदिषि कस्य हेतोर्  
 वाक्यं तथ्यं कामयेऽहं ब्रवीहि॥१२॥**
 
-
-
  स्त्री—
 
 त्वं वेत्स्यसे मामिह याऽस्मि शक्र  
@@ -10133,8 +9330,6 @@ MADRAS.
 द्रष्टाऽसि तद्रोदिमि यत्कृतेऽहम्॥१३॥
 
  व्यासः—
-
-
 
 तां गच्छन्तीमन्वगच्छत्तदानीं  
 सोऽपश्यदारात्तरुणं दर्शनीयम्।  
@@ -10153,8 +9348,6 @@ MADRAS.
 
 **यदा तु पर्याप्तिरिहाक्षक्रीडया  
 तदा देवीं रुदतीं तामुवाच।**
-
-
 
 आनीयतामेष यतोऽहमारा–  
 न्नंनै दर्पः पुनरप्याविशेत ॥१७॥
@@ -10182,8 +9375,6 @@ MADRAS.
 **उक्तस्त्वेवं विभुना देवराजः  
 प्रावेपमानो भवदेवाभिषङ्गात्।**
 
-
-
 स्रस्तैरङ्गैरानिलेनेव नुन्नम्  
 अश्वत्थपत्रं गिरिराजमूर्ध्नि ॥२२॥
 
@@ -10208,8 +9399,6 @@ MADRAS.
 शूरान् सर्वानाहवे तान् विजित्य।  
 आगन्तारः पुनरेवेन्द्रलोकं  
 स्वकर्मणा पूज्यमाना महार्हम्॥२६॥
-
-
 
 सर्वं मया भाषितमेतदेवं  
 कर्तव्यमन्यद्विविधार्थवच्च॥२६॥
@@ -10238,8 +9427,6 @@ MADRAS.
 स चापि तद्व्यदधात् सर्वमेव  
 ततस्सर्वे संबभूवुर्धरण्याम्॥३०॥
 
-
-
 नरं तु देवं विबुधप्रधानम्  
 इन्द्राज्जिष्णुं पञ्चमं कल्पयित्वा।  
 स चापि केशौ हरिरुद्बबर्ह  
@@ -10264,8 +9451,6 @@ MADRAS.
 समुत्तिष्ठेदन्यतो दैवयोगात्।  
 यस्या रूपं सोमसूर्यप्रकाशं  
 गन्धश्च यस्याः कोशमात्रात् प्रवाति॥३५॥**
-
-
 
 इद चान्यत् प्रीतिपूर्व नरेन्द्र  
 ददामि ते दिव्यमत्यद्भुतं च।  
@@ -10292,8 +9477,6 @@ MADRAS.
 **पूर्वेन्द्रांस्तावमीक्ष्याभिरूपान्  
 प्रीतो राजा द्रुपदो विस्मितश्च।**
 
-
-
 दिव्यां मालां तामवाप्याप्रमेयाम्  
 तां चैवाग्र्यांश्रियामिव रूपिणीं च ॥४०॥
 
@@ -10310,7 +9493,6 @@ MADRAS.
 
 ॥ एकनवत्यधिकशततमोऽध्यायः ॥
 
-                            
 ![](../../../books_images/U-IMG-1702912298Screenshot2023-12-1217334320000.jpg)
 
  व्यासेन द्रौपद्या देवता॑शत्वनिरूपणम्॥१॥ पाण्डवस्वरूपनिदर्शनम्॥२॥ युधिष्ठिरादीनां क्रमेण द्रौपद्याः पाणिग्रहणम्॥३॥
@@ -10319,8 +9501,6 @@ MADRAS.
 
 इदमन्यत् पुरावृत्तं तन्निबोध ष भूमिप।  
 कीर्त्यमानं नृपर्षीणां पूर्वेषां दारकर्मणि॥१॥
-
-
 
 नितन्तुर्नाम राजर्षिर् बभूव भुवि विश्रुतः ॥१॥
 
@@ -10353,8 +9533,6 @@ MADRAS.
 
 **साल्वेयाश्शूरसेनाश्वश्रुतसेनाश्वपार्थिवाः।  
 तिन्दुसाराद्रिसाराश्ववंशा एषां नृपोत्तम् ॥१०॥**
-
-
 
 एवमेकाऽभवद्भार्या भौमाश्वीभुवि विश्रुता[^348] ॥११॥
 
@@ -10391,8 +9569,6 @@ MADRAS.
 द्रुपदैषा ततो जज्ञे सुता ते देवरूपिणी।  
 पञ्चानां विहिता कृष्णा पुरा पार्षत्यनिन्दिता ॥१९॥
 
-
-
 स्वर्गाच्छ्रीः पाण्डवार्थाय समुत्पन्नातपोवने।  
 सैतत् तप्त्वातपो घोरं दुहितृत्वं गता तव ॥२०॥
 
@@ -10400,8 +9576,6 @@ MADRAS.
 पञ्चानामेका स्वकृतेनैव कर्मणा।**
 
 [^350]: "क-ग-घ—शृणु गुह्यं महीपाल वदतस्सावधानतः। संश्रद्धत्स्व वचो मह्यं ततः पश्यसि पाण्डवान्॥१॥  हत्वा वृत्रं सुरपतिस् त्वाष्ट्रं स्वर्गात् सह च्युतः। ब्रह्महत्यामवाप्याथ धर्मादिरहितस्तदा॥२॥  ऐन्द्रो धर्मो यममगाद् बलं वायुमथाविशत्। वीर्यं वरं ज्ञानरूपे नासत्यावभिजग्मतुः॥३॥  ह्रीश्च लक्ष्मीश्च कीर्तिश्च सन्नतिर्मतिरेव च। एता विनिर्गता इन्द्राद् वाग्देवीं तास्समाश्रिताः॥४॥  पूर्वेन्द्रवरदानाश्च महेशस्याज्ञया नृप। धर्मादीन् पाण्डवान् विद्धि ह्रियाद्या द्रोपदीं तथा॥५॥  तदिमे पाण्डवा राजन्निन्द्र एको न संशयः। एकैव द्रौपदीं राजन् पौलोमी ते न संशयः॥६॥  ऋणु गुह्यतमं चान्यद् रहस्यं देवनिर्मितम्। यच्छ्रुत्वा संशयस्तेऽद्य शतधा विफलिष्यति ॥७॥  सद्योजातमुखादीनि मुखानि च महेशितुः। पाण्डवाः पञ्च यानि स्युः पार्वती द्रौपदी त्वियम्॥८॥  इदमन्यद्रहस्यं ते देवगुह्यं सनातनम्। भवतः प्रत्ययार्थं च निस्संशयकरं महत् ॥९॥  चत्वारश्च भुजा विष्णोश्शङ्खचक्रादिलाञ्छिताः। धर्मराजश्व भीमश्च यमां च नृपसत्तम॥१०॥  अर्जुनस्तु स्वयं विष्णुः पाञ्चाली कमला सती। चतस्रो मूर्तयो विष्णोः स्वयं विष्णुश्च सिन्धुजा॥ ११॥  चतुरः पाण्डवाञ्जिष्णुं कृष्णां विद्धि महीं वर। चतुर्मूर्तिश्चतुर्व्यूहो वासुदेवादिभिस्सह ॥१२॥"
-
-
 
 सृष्टा पूर्वंदेवपत्नी स्वयंभुवा  
 श्रुत्वा राजन् द्रुपदेष्टं कुरुष्व[^351] ॥२१॥
@@ -10446,8 +9620,6 @@ MADRAS.
 
 **॥**
 
-
-
 यदि त्वयं विहितश्शङ्करेण  
 धर्मोऽधर्मो वा नात्र ममापराधः।  
 गृह्णन्त्विमे पाण्डवाः पाणिमस्या  
@@ -10477,8 +9649,6 @@ MADRAS.
 **ततस्सर्वे सुहृदस्तत्रतस्य  
 समाजग्मुस्सचिवा मन्त्रिणश्च।**
 
-
-
 द्रष्टुं विवाहं परमप्रतीता  
 द्विजाश्च पौराञ्च यथाप्रधानाः॥३०॥
 
@@ -10504,8 +9674,6 @@ MADRAS.
 
 **प्रदक्षिणं तो परिगृह्य पाणिना  
 समानयामास स वेदपारगः।**
-
-
 
 विप्रांस्तु संतर्प्ययुधिष्ठिरोऽन्नैर्  
 गोभिश्च रत्नैर्विविधैश्च पूर्वम् ॥३५॥
@@ -10533,8 +9701,6 @@ MADRAS.
 **शतं रथानां बरहेमभूषितं  
 चतुर्युजां हेमविचित्रमालिनाम्।**
 
-
-
 शतं गजानामपि पद्मजानां  
 तथा गिरीणामिव हेमशृङ्गिणाम् ॥४०॥
 
@@ -10559,8 +9725,6 @@ MADRAS.
 **सर्वेऽपि तुष्यन्नृप पाण्डवेयास्  
 तस्याश्शुभैश्शीलसमाधिवृत्तैः।**
 
-
-
 सा चाप्येषा याज्ञसेनी तदानीं  
 विवर्धयामास मुदं स्वसुव्रतैः॥४५॥
 
@@ -10584,8 +9748,6 @@ MADRAS.
 
 द्रौपदी क्षौमसंवीता कृतकौतुकमङ्गला।  
 अभिवाद्य तदा श्वश्रूं तस्थौ प्रह्वा कृताञ्जलिः ॥४॥
-
-
 
 रूपयौवनसंपन्नां शीलाचारसमन्विताम्।  
 द्रौपदीमवदत् प्रेम्णा पृथाऽऽशीर्वचनं स्नुषाम् ॥५॥
@@ -10614,8 +9776,6 @@ MADRAS.
 
 पृथिव्यां यानि रत्नानि गुणवन्ति गुणान्विते।
 
-
-
 तान्याप्नुहि त्वं कल्याणि सुखिनी शरदां शतम् ॥१२॥
 
 यथा च त्वाऽभिनन्दामि वध्वद्य क्षौमसंवृताम्।  
@@ -10638,8 +9798,6 @@ MADRAS.
 [प्रेष्यास्सम्प्रददौ](http://क-ग-घ—राकाशशाङ्कवदनाः%20पद्मिनीजातिसंभवाः।%20पद्मगन्धाः%20पद्मवक्ताः%20पद्मपत्रनिभेक्षणाः॥%20मुक्तायुक्तसुवर्णाश्च%20सप्तबिन्दुललाटिकाः।%20पीवरस्तनभारातांश%20शङ्खकण्ठ्यस्सुनासिकाः॥%20कृष्णदीर्घसुकेशिन्यो%20मुष्टिग्राह्यसुमध्यमाः।%20भृङ्गालिरोमतिलका%20ह्यावर्तनिभनाभिकाः।%20विपुलश्रोणिफलका%20रम्भास्तम्भोरुयुग्मकाः॥ "क-ग-घ—राकाशशाङ्कवदनाः पद्मिनीजातिसंभवाः। पद्मगन्धाः पद्मवक्ताः पद्मपत्रनिभेक्षणाः॥ मुक्तायुक्तसुवर्णाश्च सप्तबिन्दुललाटिकाः। पीवरस्तनभारातांश शङ्खकण्ठ्यस्सुनासिकाः॥ कृष्णदीर्घसुकेशिन्यो मुष्टिग्राह्यसुमध्यमाः। भृङ्गालिरोमतिलका ह्यावर्तनिभनाभिकाः। विपुलश्रोणिफलका रम्भास्तम्भोरुयुग्मकाः॥") कृष्णौनानादेश्यास्सहस्रशः ॥१७॥
 
 गजान् विनीतान् भद्रांश्च सदश्वांश्च स्वलङ्कृतान्।
-
-
 
 रथांश्च दान्तान्सौवर्णान् शुभ्रैः पत्रैरलङ्कृतान् ॥१८॥
 
@@ -10669,10 +9827,6 @@ MADRAS.
 
 ततो राज्ञां चरैराप्तैश् चारस्समुपनीयते  
 पाण्डवैरूपसंपन्ना द्रौपदी बहुभिस्त्विति ॥१॥
-
-
-
-
 
 येन तद्धनुरानभ्य लक्ष्यं विद्धं महात्मना।  
 सोऽर्जुनो जयतां श्रेष्ठो महाबाहुर्धनुर्धरः ॥२॥
@@ -10704,8 +9858,6 @@ MADRAS.
 
 **धार्मिकान् वृत्तसंपन्नान् मातुः प्रियहिते रतान्।**
 
-
-
 यदा तानीदृशान् पार्थान् उत्सादयितुमिच्छति ॥११॥
 
 ततस्स्वयंवरे वृत्ते धार्तराष्ट्रास्स्मभारत।  
@@ -10735,8 +9887,6 @@ MADRAS.
 तावदेव व्यवस्यामः पाण्डवानां वधं प्रति॥१९॥
 
 **मुक्ता जतुगृहाद्भीमाद् आशीविषमुखादिव।**
-
-
 
 पुनर्यदीह मुच्यन्ते महन्नो भयमाविशेत् ॥२०॥
 
@@ -10770,8 +9920,6 @@ MADRAS.
 
 न तु केवलदैवेन प्रजा भावेन भेजिरे ॥२८॥
 
-
-
 यद्वभूव मनःकान्तं कर्मणा च चकार तत् ॥२९॥
 
 न ह्ययुक्तं न चासक्तं नानृतं न च विप्रियम्।  
@@ -10802,8 +9950,6 @@ MADRAS.
 
 **तृणधान्येन्धनरसैस् तथा यन्त्रायुधौषधैः।**
 
-
-
 युक्तं बहुकवाटैश्च द्रव्यागारतुषादिकैः॥३८॥
 
 भीमोच्छ्रितमहाचक्रं बृहदट्टालसंवृतम्।  
@@ -10831,11 +9977,7 @@ MADRAS.
 ॥१४॥ विदुरागमनपर्वणि प्रथमोऽध्यायः ॥१॥  
 \अस्मिन्नध्याये ४५॥श्लोकाः
 
-
-
 ॥ चतुर्नवत्यधिकशततमोऽध्यायः॥
-
-
 
  पाण्डवा हन्तव्या एवेति कर्णस्योक्तिः॥१॥ पाञ्चालनगरं प्रति युद्धार्थं दुर्योधनादीनां गमनम्॥२॥ अर्जुनन कर्णजयद्रथपुत्रयोर्वधः॥३॥ कर्णदुर्योधनादीनां पराजयः॥४॥ पराजितानां तेषां हास्तिनपुरगमनम् ॥५॥ कृष्णबलरामयोः पाञ्चालपुरे वासः॥६॥
 
@@ -10860,8 +10002,6 @@ MADRAS.
 
 प्रभवन्तो हृष्टतुष्टास् स्वबाहुबलशालिनः।  
 प्राकारमवमृद्न्तु परिघाः पूरयन्त्वपि ॥६॥
-
-
 
 प्रस्रावयन्तु सलिलं क्रियतां विषमं समम्।  
 तृणकाष्टेनं महता खातमस्य प्रपूर्यताम् ॥७॥
@@ -10892,8 +10032,6 @@ MADRAS.
 वैकर्तनपुरोवातस् सैन्धवोर्मिमहास्वनः।  
 दुश्शासनमहामत्स्यो दुर्योधनमहाग्रहः ॥१५॥
 
-
-
 स राजसागरो भीमो भीमघोषप्रदर्शनः।  
 अभिदुद्राव वेगेन पुरं तदपसव्यतः॥१६॥
 
@@ -10921,8 +10059,6 @@ MADRAS.
 
 **तयोरुभयतो जज्ञे भैरवस्तुमुलस्स्वनः।  
 बलयोस्संप्रहरतोस् स्रवन्त्योस्सरितोरिव ॥२३॥**
-
-
 
 प्रकीर्णरथनागाश्वैस् तान्यनीकानि सर्वशः।  
 ज्योर्तीषिविप्रकीर्णानि सर्वतः प्रचकाशिरे ॥२४॥
@@ -10953,8 +10089,6 @@ MADRAS.
 वृषसेनादवरजं सुबाहुं वै धनञ्जयः।  
 कर्णपुत्रं महावीर्यं रथनीडादपाहरत् ॥३२॥
 
-
-
 तौ सुतौ निहतौ दृष्ट्वा राजसिंहौ तरस्विनौ।  
 नामृष्येतां महावीर्यै प्रहारमिव सद्गजौ ॥३३॥
 
@@ -10983,8 +10117,6 @@ MADRAS.
 सारथिं वाजिनश्चैव निन्युर्वैवस्वतक्षयम्॥४१॥
 
 **हताश्वात् स्यन्दनश्रेष्ठाद् अवरुह्य महारथः।**
-
-
 
 चचार विविधान् मार्गान् असिमुद्यम्य पाण्डवः॥४२॥
 
@@ -11018,8 +10150,6 @@ MADRAS.
 
 ततः पराजिते कर्णे धार्तराष्ट्रं महद्भ्यम्।
 
-
-
 विवेश समुदग्रांश्च पाण्डवान् प्रसमीक्ष्य च॥५१॥
 
 तत्प्रकम्पितमत्यर्थं दृष्ट्वा वै सौबलो बलम्।  
@@ -11050,13 +10180,9 @@ MADRAS.
 
 तान् निवृत्तान् निरानन्दान् हतवारणवाजिनः।
 
-
-
 नानुसस्रुर्न चाजघ्नुर् नोचुः किञ्चिच्च दारुणम्॥६०॥
 
 स्वमेव शिबिरं जग्मुः क्षत्रियाश्शरविक्षताः॥६०॥
-
-
 
 परेऽव्यभिययुर्हृष्टाः पुरं पौरसुखावहाः॥६१॥
 
@@ -11085,8 +10211,6 @@ MADRAS.
 
 **समाजे द्रौपदीं स्माहर् लब्धां राजीवलोचनाम्।**
 
-
-
 आत्मनस्सदृशीं सर्वे शीलवृत्तसमाधिभिः॥६९॥
 
 तच्छ्रुत्वा वचनं कृष्णस् तानुवाचोत्तरं वचः ॥७०॥
@@ -11109,17 +10233,11 @@ MADRAS.
 न्यायतः पूजिता राज्ञा द्रुपदेन महात्मना।  
 रेमिरे पाण्डवैस्सार्धं ते पाञ्चालपुरे तदा ॥७४॥
 
-
-
 इति श्रीमहाभारते शतसहस्त्रिकायांसंहितायां वैयासिक्याम् आदिपर्वणि चतुर्नवत्यधिकशततमोऽध्यायः॥१९४॥  
 ॥१४॥ विदुरागमनपर्वणि द्वितीयोऽध्यायः॥२॥  
 \[अस्मिन्नध्याये ७४ ॥ श्लोकाः\]
 
-
-
 ॥ पञ्चनवत्यधिकशततमोऽध्यायः॥
-
-
 
  विदुरात् ज्ञातपाण्डववृत्तान्तेन धृतराष्ट्रेण द्वौपद्यानयनार्थमाज्ञाप नम् ॥१॥ धृतराष्ट्रसमीपे कर्णदुर्योधनयोर्भाषणम् ॥२॥ धृतराष्ट्रदुर्योधनसंवादः ॥३॥ दुर्योधनं प्रति कर्णेनोक्तं श्रुतोवतो धृतराष्ट्रस्य भीष्मादिभिः सह मन्त्रणम् ॥४॥ भीष्मेण दुर्योधनादिसमीपे पाण्डवेभ्योऽर्धराज्यं दातव्यमिति स्वाभिप्रायकथनम् ॥५॥
 
@@ -11142,8 +10260,6 @@ MADRAS.
 धिगस्मत्पौरुषं पञ्च यद्धरन्तीह पाण्डवाः।  
 दैवमेव परं मन्ये पौरुषं तु निरर्थकम् ॥५॥
 
-
-
 एवं[^361] संभाषमाणास्ते निन्दन्तश्च पुरोचनम्।  
 विविशुर्हास्तिनपुरं[^362] दीना विगतचेतसः ॥६॥
 
@@ -11164,8 +10280,6 @@ MADRAS.
 
 ततः प्रीतमनाः क्षत्ता धृतराष्ट्रं विशाम्पते।  
 उवाच कुरवो दिष्ट्या वर्धन्त इति विस्मितः॥१०॥
-
-
 
 वैचित्रवीर्यस्तु[^364] तदा निशम्य विदुरस्य तत्।  
 अब्रवीत् परमप्रीतो दिष्ट्या दिष्ट्येति कौरवः ॥११॥
@@ -11188,8 +10302,6 @@ MADRAS.
 एतच्छ्रुत्वा तु वचनं विदुरस्य नराधिपः।  
 आकारच्छादनार्थं तु दिष्ट्यादिष्टयेति चाब्रवीत् ॥१५॥
 
-
-
 एवं विदुर भद्रं ते यदि जीवन्ति पाण्डवाः।  
 साध्वाचारा[^367] तथा कुन्ती सम्बन्धो द्रुपदेन च ॥१६॥
 
@@ -11211,10 +10323,6 @@ MADRAS.
 सेयमभ्याधिकाऽन्येभ्यो[^369] वृत्तिर्विदुर मे मता॥१९॥
 
 [^369]: "क-ग-घ—या प्रीतिः पाण्डुपुत्रेषु न साऽन्यत्र ममाभि भो। नित्योऽयं निश्चितः क्षत्तस् सत्यं सत्येन ते शपे॥"
-
-
-
-
 
 यत्ते[^370] कुशलिनाीवीरा मित्रवन्तश्च मे सुताः ॥२०॥
 
@@ -11247,8 +10355,6 @@ MADRAS.
 विविक्तमिति वक्ष्यावः किं तवेदं चिकीर्षितम्॥२४॥
 
 **सपत्नवृद्धिं यत्तात मन्यसे वृद्धिमात्मनः।**
-
-
 
 अभिष्टौषि च यत् क्षत्तुस् समीपे द्विपदांवर ॥२५॥
 
@@ -11283,8 +10389,6 @@ MADRAS.
 प्रच्छन्नैः कुशलैर्विप्रैस सुतुष्टैराप्तकारिभिः।  
 कुन्तीपुत्रान् भेदयामो माद्रीपुत्रौ च पाण्डवौ ॥३२॥
 
-
-
 अथवा द्रुपदो राजा महद्भिर्धनसञ्चयैः।  
 पुत्राश्वास्य प्रलोभ्यन्ताम् अमात्याश्चैव सर्वशः ॥३३॥
 
@@ -11315,8 +10419,6 @@ MADRAS.
 अस्मान् बलवतो मत्वा न शिष्यन्त्यबलीयसः ॥४१॥
 
 **इहागतेषु पार्थेषु निदेशवशवर्तिषु।**
-
-
 
 प्रवर्तिष्यामहे राजन् यथाश्रद्धं यथासुखम् ॥४२॥
 
@@ -11349,10 +10451,6 @@ MADRAS.
 
 [^374]: "अ—यत्रि"
 
-
-
-
-
 निगृहीतुं त्वया वीराश् शकिता न तु भारत ॥५०॥
 
 इहैव वर्तमानास्ते समीपे तव पार्थिव।  
@@ -11382,8 +10480,6 @@ MADRAS.
 इदमद्य क्षमं कर्तुम् अस्माकं भरतर्षभ।  
 यावन्न कृतमूलाश्च पाण्डवेया विशाम्पते ॥५९॥
 
-
-
 तावत् प्रहरणीयास्ते रोचतां तत्र विक्रमः ॥६०॥
 
 अस्मत्पक्षो महानद्य यावत् पाञ्चालको लघुः।  
@@ -11412,8 +10508,6 @@ MADRAS.
 
 ते बलेन वयं राजन् महता चतुरङ्गिणा।  
 प्रमथ्य द्रुपदं शीघ्रम् आनयामेह पाण्डवान् ॥६९॥
-
-
 
 न हि साम्रान भेदेन नच दानेन पाण्डवाः।  
 शक्यास्साधयितुं तस्माद् विक्रमेणैव ताञ्जहि ॥७०॥
@@ -11451,8 +10545,6 @@ MADRAS.
 
 यथा च मम राज्ञश्च तथा दुर्योधनस्य ते।
 
-
-
 तथा कुरूणां सर्वेषाम् अन्येषामपि पार्थिव ॥७८॥
 
 एवं गते विग्रहं तैर्न रोचे  
@@ -11483,8 +10575,6 @@ MADRAS.
 यावत्कीर्तिमनुष्यस्य लोके भवति भारत।  
 तावज्जीवति गान्धारे नष्टकीर्तिस्तु नश्यति॥८६॥
 
-
-
 तदिदं समुपातिष्ठ धर्मं कुरुकुलोचितम्।  
 अनुरूपं महाबाहो पूर्वेषामात्मनः कुरु॥८७॥
 
@@ -11514,8 +10604,6 @@ MADRAS.
 
 [^378]: "घ-वैशम्पायनः—  धृतराष्ट्रो महाराज मन्त्रयामास तैस्सह ।  भीष्मः—  न रोचते विग्रहो मे पाण्डुपुत्रैः कदा चन । यथैव धृतराष्ट्रोमे तथा पाण्डुर्न संशयः।"
 
-
-
 अधर्मेण निरस्ताश्च तुल्ये राज्ये च धर्मतः॥९४॥
 
 यदि धर्मस्त्वया कार्यो यदि कार्यं प्रियं च मे।  
@@ -11526,11 +10614,7 @@ MADRAS.
 ॥१४॥ विदुरागमनपर्वणि तृतीयोऽध्यायः॥३॥  
 \[अस्मिन्नध्याये ९५॥श्लोकाः\]
 
-
-
 ॥ षण्णवत्यधिकशततमोऽध्यायः॥
-
-
 
  पाण्डवाः संविभज्या इति द्रोणवचनम् ॥१॥ तद्विरोधितया कर्णेन विनिन्दवृत्तान्तकथनम् ॥२॥ मदुक्तं न क्रियते चेत् कुरवो विनङ्क्ष्यन्तीति द्रोणेनोक्तिः ॥३॥ भीष्मद्रोणाभ्यामुक्तमेवावश्यं करणीयं पाण्डवा जेतुं न शक्याः दुर्योधनादीनां वचनं मा कार्षीरिति धृतराष्ट्रं प्रति विदुरस्योक्तिः ॥४॥
 
@@ -11544,8 +10628,6 @@ MADRAS.
 
 प्रेष्यतां द्रुपदायाशु नरः कश्चित् प्रियंवदः।  
 बहुलं रत्नमादाय तेषामर्थाय भारत ॥३॥
-
-
 
 मिथः कृत्यं च तस्मै स आदाय बहु गच्छतु ॥३॥
 
@@ -11577,8 +10659,6 @@ MADRAS.
 
 एवं तव महाराज तेषु पुत्रेषु चैव हि।  
 वृत्तमौपयिकं मन्ये भीष्मेण सह भारत ॥१२॥
-
-
 
 कर्णः—
 
@@ -11618,8 +10698,6 @@ MADRAS.
 
 आददे सर्वतो मूढ ऐश्वर्यं व स्वयं तदा॥२१॥
 
-
-
 तदादाय च लुब्धस्य लौभाल्लोभः प्रवर्तते  
 तथा हि सर्वमादाय राज्यमस्य जिहीर्षति ॥२२॥
 
@@ -11652,8 +10730,6 @@ MADRAS.
 
 राजन्निस्संशयं श्रेयो वाच्यस्त्वमसि बान्धवैः
 
-
-
 न त्वं शुश्रूषमाणो हि वाक्यं संप्रति भाषसि॥३०॥
 
 हितं हि तव तद्वाक्यम् उक्तवान् कुरुसत्तमः।  
@@ -11682,8 +10758,6 @@ MADRAS.
 
 **इति मे नैष्ठिकी बुद्धिर् वर्तते कुरुनन्दन।**
 
-
-
 **न चार्थहेतोर्धर्मज्ञो वक्ष्यतः पक्षसंश्रितम् ॥३९॥  
 एतद्धि परमं श्रेयो मेनाते तव भारत॥३९॥**
 
@@ -11709,8 +10783,6 @@ MADRAS.
 
 **यस्मिन् धृतिरनुक्रोशः क्षमा सत्यं पराक्रमः।  
 नित्यानि पाण्डवे ज्येष्ठे स जयी न कथं रणे॥४६॥**
-
-
 
 येषां पक्षधरो रामो येषां मन्त्री च केशवः।  
 किं नु तैरजितं सङ्ख्ये येषां पक्षे च सात्यकिः ॥४७॥
@@ -11741,8 +10813,6 @@ MADRAS.
 श्रुत्वा च जीवतः पार्थान् पौरजानपदो जनः।  
 बलवद्दर्शने हृष्टस् तेषां राजन् कुरु प्रियम् ॥५६॥
 
-
-
 **दुर्योधनश्च कर्णश्च शकुनिश्चापि सौबलः।  
 अधर्माश्चापि दुष्प्रज्ञा बाला मैषां वचः कृथाः॥५७॥**
 
@@ -11754,8 +10824,6 @@ MADRAS.
 इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम् आदिपर्वणि षण्णवत्यधिकशततमोऽध्यायः॥१९६॥  
 ॥१४॥ विदुरागमनपर्वणि चतुर्थोऽध्यायः॥४॥  
 \[अस्मिन्नध्याये ५८ श्लोकाः\]
-
-
 
 ॥ सप्तनवत्यधिकशततमोऽध्यायः॥
 
@@ -11790,8 +10858,6 @@ MADRAS.
 उक्त्वेस्थमात्मजं कर्णं शकुनिं चापि सौबलम्।  
 आहूय विदुरं भूपं पृथक् चेदमुवाच ह॥
 
-
-
 **हितं परमकं वाक्यं त्वं च सत्यं ब्रवीषि माम् ॥१॥**
 
 **यथैव पाण्डोस्ते वीराः कुन्तीपुत्रा महाबलाः।  
@@ -11811,7 +10877,6 @@ MADRAS.
 
 **त्वमेव गत्वा विदुर तानिहानय मा चिरम् ॥६॥**
 
-
 वैशम्पायनः[^383]—
 
 [^383]: "घ—विदुरः— एवं ते निश्चिता बुद्धिर् आचन्द्रार्क जनेश्वर। न भवेच्चञ्चला पार्थे काकस्थानं च मा कुरु॥"
@@ -11820,8 +10885,6 @@ MADRAS.
 आगात् कतिपयाहोभिः पाञ्चालान् राजधर्मवित्॥ ७॥
 
 ततो जगाम विदुरो धृतराष्ट्रस्य शासनात्।
-
-
 
 **सकाशं यज्ञसेनस्य पाण्डवानां च भारत॥८॥**
 
@@ -11849,8 +10912,6 @@ MADRAS.
 दृष्ट्वा मुहुर्मुहू राजन हर्षादश्रुण्यवर्तयन्॥१५॥**
 
 **दृष्ट्वा कुशलिनश्चैतान् ततस्तान् पाण्डुनन्दनान्।**
-
-
 
 **प्रददौ चापि रत्नानि विविधानि वसूनि च॥१६॥**
 
@@ -11884,8 +10945,6 @@ MADRAS.
 **भारद्वाजो महाप्राज्ञो द्रोणः प्रियसखस्तव।  
 समाश्लेषमुपेत्य त्वां कुशलं परिपृच्छति॥२४॥**
 
-
-
 **धृतराष्ट्रस्तु पाञ्चाल त्वया संबन्धमेयिवान्।  
 कृतार्थं मन्यतेत्मानं तथा सर्वेऽपि कौरवाः ॥२५॥**
 
@@ -11916,8 +10975,6 @@ MADRAS.
 एवमेतन्महाप्राज्ञ यथाऽऽत्थ विदुराद्य माम्।  
 ममापि परमो हर्षस् सम्बन्धेऽस्मिन् कृते विभो ॥३३॥
 
-
-
 गमनं चापि युक्तं स्याद् गृहमेषां महात्मनाम्।  
 न तु तावन्मया युक्तम् एतद्वक्तं स्वया गिरा ॥३४॥
 
@@ -11943,8 +11000,6 @@ MADRAS.
  द्रुपदः—
 
 **यथैतन्मन्यते वीरो दाशार्हः पुरुषोत्तमः।**
-
-
 
 प्राप्तकालं महाबाहुस् सा बुद्धिर्निश्चिता मम ॥३९॥
 
@@ -11978,8 +11033,6 @@ MADRAS.
 
 अतः परं न जानामि कर्तव्यं ज्ञातुमर्हसि॥४७॥
 
-
-
  वैशम्पायनः—
 
 **इत्येवमुक्ता दुःखार्ता शुशोचपरमातुरा।  
@@ -12012,8 +11065,6 @@ MADRAS.
 सुवर्णपरिबर्हाणां वरचामरमालिनाम्।  
 जात्यश्वानां च पञ्चाशत् सहस्रं प्रददौ नृपः ॥५५॥
 
-
-
 **दासीनामयुतं राजा प्रददौ वरभूषणम्।  
 ततस्सहस्रं दासानां प्रददौ वरधन्विनाम् ॥५६॥**
 
@@ -12044,8 +11095,6 @@ MADRAS.
 **पाण्डवानागताञ्छ्रुत्वा नागरास्तु कुतूहलात्।  
 मण्डयाञ्चक्रिरे तत्र नगरं नागसाह्वयम् ॥६४॥**
 
-
-
 **मुक्तपुष्पावकीर्णं तज् जलसिक्तं तु सर्वशः।  
 धूपितं दिव्यधूपेन मण्डनैश्चापि संवृतम् ॥६५॥**
 
@@ -12073,8 +11122,6 @@ MADRAS.
 
 **यदि दत्तं यदि हुतं यदि वाऽप्यस्ति नस्तपः।  
 तेन तिष्ठन्तु नगरे पाण्डवाश्शरदां शतम् ॥७२॥**
-
-
 
  वैशम्पायनः—
 
@@ -12105,8 +11152,6 @@ MADRAS.
 
 **दुर्योधनस्य महिषी काशिराजसुता तदा।  
 धृतराष्ट्रस्य पुत्राणां वधूभिस्सहिता तदा॥१॥**
-
-
 
 पाञ्चालींप्रतिजग्राह द्रौपदीं[^392] श्रीमिवापराम् ॥१॥
 
@@ -12141,8 +11186,6 @@ MADRAS.
 
 **तथेत्येव तदा क्षत्ता कारयामास तत्तदा ॥७॥**
 
-
-
 **पूजयामासुरत्यर्थं बान्धवाः पाण्डवांस्तदा।  
 नागराश्श्रेणिमुख्याश्च पूजयन्ति स्म पाण्डवान् ॥८॥**
 
@@ -12175,8 +11218,6 @@ MADRAS.
 
 **स्वकार्यनिरतैर्नित्यम् अवलिप्तैर्दुरात्मभिः।**
 
-
-
 पुनर्वै विग्रहो मा भूत् खाण्डवप्रस्थमाविश ॥१५॥
 
 न च वो वसतस्तत्र कश्चिच्छक्तः प्रबाधितुम्।  
@@ -12191,15 +11232,12 @@ MADRAS.
 प्रतिगृह्य तु ते वाक्यं नृपं सर्वे प्रणम्य च।  
 वासुदेवेन सम्मत्र्य पाण्डवास्समुपाविशन् ॥१८॥
 
-
 धृतराष्ट्रः[^398]—
 
 [^398]: "ध—श्रीभगवान्—  मा स्तु राज्यं पाण्डवानाम् अर्धं वा सर्वमेव वा। शास्तु दुर्योधनो राजा भ्रातृभिश्शरदां शतम्॥ धर्मराजोऽनुजैस्सार्धं मात्राकुन्त्या दिवानिशम्। कृष्णया सह राजेन्द्र भवन्तमुपतिष्ठतु॥ अनाथाः पितृहीनाश्च लोके वदतु नोदति। पितृवन्तो नायवन्तो भवन्तु भवता अमी॥  धृतराष्ट्रः—  पुत्राणां चैव मे कृष्ण पाण्डवानां च सर्वदा। त्वमेव राज्यं स्वर्गं च भोगमोक्षसुखानि च॥ उभयेषां भवान् कर्ता शास्ता नेता पिता गुरुः। तदर्धराज्यं पाण्डूनां त्वमेवादिश केशव॥ इत्युक्त्वा केशवं राजा विदुरं पुनरब्रवीत्। त्रिविधैः करणैः कष्टचित्तोऽसावम्बिकासुतः॥"
 
 अभिषेकस्य संभारान् क्षत्तरानय मा चिरम्।  
 अभिषिक्तं करिष्यामि अद्य वै कुरुनन्दनम्॥१९॥
-
-
 
 ब्राह्मणा नैगमश्रेष्ठाश् श्रेणीमुख्याश्च सर्वशः।  
 आहूयन्तां प्रकृतयो बान्धवाश्च विशेषतः ॥२०॥
@@ -12227,8 +11265,6 @@ MADRAS.
 प्रीताः[^400] प्रीतेन मनसा प्रशंसन्तु पुरे जनाः॥२७॥
 
 [^400]: "घ—प्रीतः प्रीतेन मनसा विदुरादीनुवाच ह। मूर्धाभिषिक्तसंयुक्तं सुवर्णमणिभूषितम्॥ महापर्वतसङ्काशं निर्मदं रोषवर्जितम्। महागजं समारोप्य प्रथयन्तु पुरे जनाः॥"
-
-
 
 **पाण्डोः कृतोपकारस्य राज्यं दत्वा ममैव च।  
 प्रतिक्रिया कृतमिदं भविष्यति न संशयः॥**
@@ -12261,8 +11297,6 @@ MADRAS.
 **जित्वा तु पृथिवीं कृत्स्नां वशे कृत्वा नरर्षभान्।  
 राजसूयादिभिर्यज्ञैः क्रतुभिर्भूरिदक्षिणैः॥३५॥**
 
-
-
 **स्नात्वा ह्यवभृथस्नानं मोदतां बान्धवैस्सह ॥३५॥**
 
 **एवमुक्त्वा तु ते सर्वे आशीर्भिरभिपूजयन्॥३६**
@@ -12294,8 +11328,6 @@ MADRAS.
 तत्रैव निवसन्ति स्म खाण्ड वाह्[^401]वोनृपोत्तम ॥४३॥**
 
 [^401]: "क-ग—वाख्ये"
-
-
 
 **राजधानी तु सर्वेषां पौरवाणां महाभुज।**
 
@@ -12330,8 +11362,6 @@ MADRAS.
 
 **विश्वकर्मन् महाप्राज्ञ अद्यप्रभृति तत् पुरम्।**
 
-
-
 **इन्द्रप्रस्थमिति ख्यातं दिव्यं रम्यं भविष्यति॥५२॥**
 
  वैशम्पायनः—
@@ -12364,8 +11394,6 @@ MADRAS.
 **विपक्षगारुडप्रख्यैर् द्वारैर्घोरप्रदर्शनैः।  
 गुप्तं मन्द्रघनप्रख्यैर् गोपुरैर्मन्दरोपमैः॥६०॥**
 
-
-
 **विविधैरतिनिर्विद्धैश् शस्त्रोपेतैस्सुसंवृतैः ।**
 
 **शक्तिभिश्चावृतं तद्धि द्विजिह्वैरिव पन्नगैः ॥६१॥**
@@ -12397,8 +11425,6 @@ MADRAS.
 **पुष्करिण्यश्च विविधाः पद्मोत्पलसमावृताः।  
 हंसकारण्डवाकीर्णाश चक्रवाकोपशोभिताः॥६९॥**
 
-
-
 रम्याश्च विविधास्तत्र वाप्यश्चैव वनावृताः ॥६९॥
 
 वेश्ममध्ये शुभं दिव्यम् इन्द्रवासगृहोपमम्।
@@ -12429,8 +11455,6 @@ MADRAS.
 पुन्नागैर्नागवृक्षैश्च मधूकैश्च सुपुष्पितैः।  
 सालतालकदम्बैश्च वकुलैश्चसकेतकैः॥७७॥
 
-
-
 **जम्बूभिः पाटलीभिश्च अङ्कोलैरतिमुक्तकैः।**
 
 **कर्णिकारैः पारिजातैः करवीरैस्सुपुष्पितैः ॥७८॥**
@@ -12459,8 +11483,6 @@ MADRAS.
 **कृतमङ्गलसत्कारो ब्राह्मणैर्वेदपारगैः।  
 द्वैपायनं पुरस्कृत्य धौम्यस्यानुमते स्थितः॥८५॥**
 
-
-
 भ्रातृभिस्सहितो राजन् केशवेन सहाभिभूः।  
 तोरणद्वारसुमुखं[^403] द्वात्रिंशद्वारसंयुतम् ॥८६॥
 
@@ -12483,8 +11505,6 @@ MADRAS.
 गोधनैश्च समाकीर्णं सस्यवृद्धिस्तदाऽभवत् ॥९१॥
 
 तेषां पुण्यजनोपेतं राष्ट्रमावसतां महत्।
-
-
 
 **पाण्डवानां महाराज शश्वत् प्रीतिरवर्धत ॥९२॥**
 
@@ -12517,12 +11537,9 @@ MADRAS.
 
 [^404]: "घ—कर्तव्यं नः कृतं कर्म कृत्यं ज्ञात्वा च केशव। अस्माकं यद्धितं कृत्यं तत् कर्तव्यं त्वयाऽनघ। त्वत्प्रेरिता वयं कृत्यं स्वर्गं वा श्वभ्रमेव वा। गच्छाम पुरुषव्याघ्र त्वमस्माकं गतिर्भव॥"
 
-
-
 **यदिष्टमनुमन्तव्यं पाण्डवानां त्वयाऽनघ ॥१००॥**
 
  श्रीवासुदेवः—  
-
 
 **त्वत्प्रभावान्महाभाग राज्यं प्राप्तं स्वधर्मतः।  
 पितृपैतामहं राज्यं कथं न स्यात्तव प्रभो ॥१०१॥**
@@ -12553,8 +11570,6 @@ MADRAS.
 
 **स्मरस्वैनान् महाप्राज्ञ तेन जीवन्ति पाण्डवाः ॥१०७॥**
 
-
-
  वैशम्पायनः—
 
 **करिष्यामीति चामन्त्र्य अभिवाद्य पितृष्वसाम्।  
@@ -12583,8 +11598,6 @@ MADRAS.
 
 **सर्व एव महात्मानस् सर्व एव पितामहाः।  
 द्रौपदी धर्मपत्नी च कथं तानन्वर्तत ॥२॥**
-
-
 
 **कथमासंश्च कृष्णायाम् एकस्यां ते नराधिपाः।  
 वर्तमाना महेष्वासा नाभिद्यन्त परस्परम् ॥३॥**
@@ -12616,8 +11629,6 @@ MADRAS.
 **नभस्स्थलेन दिव्येन दुर्लभेनातपस्विनाम्।  
 भूतार्चितो भूतधरं राष्ट्रं नगरभूषितम्॥११॥**
 
-
-
 अवेक्षमाणो द्युतिमान् आजगाम महातपाः॥११॥
 
 सर्ववेदान्तगो विप्रस् सर्वविद्यासु पारगः।  
@@ -12647,8 +11658,6 @@ MADRAS.
 
 जाम्बूनदमये दिव्ये गण्डलम्बिमुखे नवे।  
 अग्न्यर्कसदृशे दिव्ये धारयन् कुण्डले शुभे ॥१९॥
-
-
 
 राजतच्छत्रमुच्छ्रिय चित्रं परमवर्चसम्।  
 प्राप्य दुष्प्रापमन्येन ब्रह्मवर्चसमुत्तमम्॥२०॥
@@ -12680,8 +11689,6 @@ MADRAS.
 
 स्वरेऽस्वरे च विविधे वृत्तेषु विविधेषु च।  
 समस्थानेषु सर्वेषु समाम्नायेषु धातुषु ॥२८॥
-
-
 
 उद्देश्यानां समाख्याता सर्वमाख्यातमुद्दिशन् ॥२९॥
 
@@ -12726,8 +11733,6 @@ MADRAS.
 
 **तमागतमृषिं दृष्ट्वा प्रत्युद्गम्याभिवाद्य च।**
 
-
-
 **आसनं रुचिरं तस्मै स्वं ददौ स युधिष्ठिरः ॥३७॥**
 
 **कृष्णाजिनोत्तरे तस्मिन्नुपविष्टो महानृषिः ॥३८॥**
@@ -12759,8 +11764,6 @@ MADRAS.
 
 **पाञ्चाली भवतामेका धर्मपत्नी यशस्विनी ॥**
 
-
-
 **यथा वो नात्र भेदस्स्यात् तथा नीतिर्विधीयताम्॥४६॥**
 
 **सुन्दोपसुन्दौ ह्यसुरौ भ्रातरौ सहितावुभौ ।  
@@ -12788,13 +11791,9 @@ MADRAS.
 **शृणु मे विस्तरेणेदम् इतिहासं पुरातनम्।  
 भ्रातृभिस्सहितः पार्थ यथावृत्तं युधिष्ठिर ॥५३॥**
 
-
-
 इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम् आदिपर्वणि एकोनद्विशततमोऽध्यायः॥१९९॥  
 ॥१५॥ राज्यलाभपर्वणि द्वितीयोऽध्यायः॥२॥  
 \[अस्मिन्नध्याये ५३॥ श्लोकाः\]
-
-
 
 ॥ द्विशततमोऽध्यायः॥
 
@@ -12819,8 +11818,6 @@ MADRAS.
 **तौ तु दीर्घेण कालेन तपोयुक्तौ बभूवतुः॥५॥**
 
 **क्षुत्पिपासापरिश्रान्तौ जटावल्कलधारिणौ।**
-
-
 
 मलोपचितसर्वाङ्गौवायुभक्षौ बभूवतुः ॥६॥
 
@@ -12850,8 +11847,6 @@ MADRAS.
 
 **यदा क्षोभं न गच्छेताम् आतिं वैकतरस्तयोः।  
 ततस्त्रियस्तास्सन्त्रस्तास्सर्वमन्तरधीयत ॥१३॥**
-
-
 
 **ततः पितामहस्साक्षाद् अभिगम्य महासुरौ।  
 वरेण च्छन्दयामास सर्वलोकपितामहः ॥१४॥**
@@ -12884,8 +11879,6 @@ MADRAS.
 
 **त्रैलोक्यविजयार्थाय भवद्भ्यामास्थितं तपः।  
 हेतुनाऽनेन दैत्येन्द्रौ न वां कामं करोम्यहम् ॥२०॥**
-
-
 
  सुन्दोपसुन्दौ—
 
@@ -12920,8 +11913,6 @@ MADRAS.
 **भक्ष्यतां भुज्यतां नित्यं रम्यतां गीयतामिति।  
 पीयतां दीयतां चेति वाच आसन् गृहे गृहे ॥२८॥**
 
-
-
 तत्र तत्र महानादैर् उद्घुष्टतलनादितैः।
 
 दृष्टं[^416] प्रमुदितं सर्वं दैत्यानामभवत् पुरम् ॥२९॥
@@ -12951,8 +11942,6 @@ MADRAS.
 तयोरागमनं ज्ञात्वा वरदानं च तत् प्रभोः।  
 हित्वा त्रिविष्टपं जग्मुर् ब्रह्मलोकं ततस्सुराः ॥३६॥
 
-
-
 ताविन्द्रलोकं निर्जित्य यक्षरक्षोगणांस्तथा।  
 खेचराण्यपि भूतानि जघ्नतुस्तीव्रविक्रमौ ॥३७॥
 
@@ -12981,8 +11970,6 @@ MADRAS.
 नाक्रामन्ति तयोस्तेन वरदानेन च प्रभो ॥४५॥
 
 नाक्रामन्ति यदा शापा बाणा मुक्ताश्शिलास्विव।
-
-
 
 नियमांस्तु परित्यज्य विद्रवन्ति द्विजातयः ॥४६॥
 
@@ -13020,8 +12007,6 @@ MADRAS.
 
 निवृत्तपितृकार्यं च निर्वषट्कारमङ्गलम् ।
 
-
-
 जगत् प्रतिभयाकारं दुष्प्रेक्ष्यमभवत् तदा ॥५५॥
 
 चन्द्रादित्यौ ग्रहास्तारा नक्षत्राणि दिवौकसः।  
@@ -13052,8 +12037,6 @@ MADRAS.
 ततोऽभिगम्य सहितास् सर्व एव महर्षयः।  
 सुन्दोपसुन्दयोः कर्म सर्वमेवशशंसिरे ॥६४॥
 
-
-
 यथा हृतं यथा चैव कृतं येन क्रमेण च।  
 न्यवेदयंस्ततस्सर्वम्[^419] अखिलेन पितामहम् ॥६५
 
@@ -13074,8 +12057,6 @@ MADRAS.
 निर्ममेऽपि च तां दिव्यां चिन्तयित्वा प्रयत्नतः ॥६९॥
 
 **त्रिषु लोकेषु यत् किञ्चिद् भूतं स्थावरजङ्गमम्।**
-
-
 
 **समानयद्दर्शनीयं तत्तद्यत्नात् ततस्ततः॥७०॥**
 
@@ -13107,8 +12088,6 @@ MADRAS.
 
 **त्वत्कृते दर्शनादेव रूपसंपत्कृते वै।**
 
-
-
 **विरोधस्स्याद्यथा ताभ्याम् अन्योन्यं तु तथा कुरु ॥७९॥**
 
  नारदः—
@@ -13139,8 +12118,6 @@ MADRAS.
 **तथा देवनिकायानाम् ऋषीणां चैवसर्वशः।  
 मुखान्यपि प्रवर्तन्ते येन याति तिलोत्तमा ॥८८॥**
 
-
-
 तस्या गात्रे निपतिता दृष्टिस्तेषां महात्मनाम्।  
 सर्वेषामेव भूयिष्ठम् ऋते देवं पितामहम् ॥८९॥
 
@@ -13169,8 +12146,6 @@ MADRAS.
 अन्तःपुरे वनोद्याने पर्वतोपवनेषु च।  
 यथेप्सितेषु देशेषु विजह्नातेऽमराविव ॥९६॥
 
-
-
 ततः कदाचिद्विन्ध्यस्य पृष्ठे समशिलातले।  
 पुष्पिताग्रेषु सालेषु विहारमभिजग्मतुः ॥९७॥
 
@@ -13184,8 +12159,6 @@ MADRAS.
 
 **ततस्तिलोत्तमा तस्मिन् वने पुष्पाणि चिन्वती।  
 वेषमादीप्तमाधाय रक्तेनैकेन वाससा ॥१००॥**
-
-
 
 नदीतीरेषु[^422] जातान् सा कर्णिकारान् प्रचिन्वती।  
 शनैर्जगाम तं देशं यत्रास्तां तौ महासुरौ ॥१०१॥
@@ -13215,8 +12188,6 @@ MADRAS.
 
 गन्धाभरणरूपैस्तौ व्यामोहं जग्मतुस्तदा ॥१०८॥
 
-
-
 मदकामसमाविष्टौ परस्परमथोचतुः ॥१०८॥
 
 मम भार्या तव गुरुर् इति सुन्दोऽभ्यभाषत ।  
@@ -13236,8 +12207,6 @@ MADRAS.
 
 **तौगदाभिहतौ भीमौ पेततुर्धरणीतले।  
 रुधिरेणैव लिप्ताङ्गौ द्वाविवार्कौ नभश्च्युतौ ॥११२॥**
-
-
 
 **ततस्ता विद्रुता नार्यस् स च दैत्यगणस्तदा।  
 पातालमगमेन् सर्वे विषादभयशङ्किताः ॥११३॥**
@@ -13268,8 +12237,6 @@ MADRAS.
 [^429]: " घ—कालस्तिलोत्तमारूपं कृत्वा हत्वा महासुरौ। परां निर्वृतिमापेदे साऽगात्सूर्यसलोकताम्॥"
 
 तस्माद्ब्रवीमि वस्स्नेहात् सर्वान् भरतसत्तमाः ॥११९॥
-
-
 
 **यथा वो नात्र भेदस्स्यात् सर्वेषां द्रौपदीकृते।  
 तथा कुरुत भद्रं वो मम चेत् प्रियमिच्छथ ॥१२०॥**
@@ -13302,8 +12269,6 @@ MADRAS.
 
 **न चाभिद्यन्त ते सर्वे तदाऽन्योन्येन भारत ॥१२६॥**
 
-
-
 एतद्विस्तरशस्सर्वम् आख्यातं ते नरेश्वर।  
 काले च तस्मिन् सम्पन्नं यथावज्जनमेजय ॥१२७॥
 
@@ -13330,8 +12295,6 @@ MADRAS.
 बभूव परमप्रीता नागैरिव सरस्वती ॥३॥**
 
 [^432]: "क ग—अनुयातैश्च"
-
-
 
 **वर्तमानेषु धर्मेण पाण्डवेषु महात्मसु ।  
 व्यवर्धन् कुरवस्सर्वे हनिदोषास्सुखान्विताः॥४॥**
@@ -13363,8 +12326,6 @@ MADRAS.
 
 **श्रुत्वैव च महाबाहुर् मा भैरित्याह तं द्विजम् ॥१०॥**
 
-
-
 आयुधानि च यत्रासन् पाण्डवानां महात्मनाम्।  
 कृष्णया सह तत्रासीद् धर्मराजो युधिष्ठिरः ॥११॥
 
@@ -13390,8 +12351,6 @@ MADRAS.
 अनुप्रवेशे[^435] राज्ञस्तु वनवासो भवेन्मम।**
 
 [^435]: "घ—एवं विद्यार्य कौन्तेयो ब्राह्मणं पुनरब्रवीत्। उपर्युपरि चात्यर्थं विक्रोशन्तं पुनः पुनः॥ प्रतीक्षस्व क्षणं विप्र समयो विषमोऽधुना॥ अस्माकमायुधागारे धर्मराजस्स कृष्णय। शेते तल प्रवेष्टुं मे न शक्यस्समयो हि नः॥ गोधनं तेऽपहर्तुं न चोराणां शक्तिरस्ति हि॥"
-
-
 
 **अधर्मो वै महानस्तु वने वा मरणं मम ॥१८॥**
 
@@ -13430,8 +12389,6 @@ MADRAS.
 धर्मलोपभयाद्गीतो ब्रह्मण्यो ब्रह्मवत्सल।  
 अनुप्रवेशाद्रज्ञस्तु वनवासो भवेन्मम॥
 
-
-
 **अदूराध्वगताः क्षुद्रास् तावद्गच्छावहे सह ॥२१॥  
 यावदावर्तंयाम्यद्य[^436] चोरहस्ताद्धनं तव ॥२१॥**
 
@@ -13448,8 +12405,6 @@ MADRAS.
 आजगाम[^438] पुरं वीरस् सव्यसाची धनञ्जयः ॥२३॥**
 
 [^438]: "ध—कृतार्थयित्वा विप्रं तं तोषयित्वा पुनः पुनः। प्रेषयित्वा द्विजश्रेष्टं चोरांस्तानाह फल्गुनः ॥ कुतो यूयं धर्मसूनोराज्यं निहतकण्टकम्। अकुतोभयचोरं च सर्वत्र निरुपद्रवम् ॥ सर्वत्रसंवृतद्वारं निश्शङ्कं निर्भयं सुखम्। प्रविश्य गोधनं हत्वा कुतो यास्यथ निर्भयाः ॥ किं नु न ज्ञास्यथ नृपं धर्मसूनुं युधिष्टिरम्। तस्यानुजं भीमसेनं नागायुतबलं बले ॥ यद्वाहुबलमाश्रित्य वयं जीवाम निर्भयाः। कि न ज्ञास्य्थतं भीमं तयोर्भ्राताऽहमर्जुनः॥ किङ्करो धर्मराजस्य भीमस्य च महात्मनः। नकुलं सहदेवं च रूपे ज्ञाने च निस्समा॥ तौराज्ञश्चक्षुषी चैव तौ च न ज्ञायतो ध्रुवम्। यस्याज्ञया जगत्यस्मिंश चोरशब्दस्थितौश्रुतः॥ तत्रापि पापचौर्यत्वम् अपरद्रव्यचौर्यतः। तस्माद्वदत के यूयं कस्य वा च्छन्दकारिणः॥"
-
-
 
  चोराः—
 
@@ -13492,8 +12447,6 @@ MADRAS.
 अन्तर्धानं ययुस्सर्वे गन्धर्वाश्चोररूपिणः।  
 श्रुत्वैवं तद्रहोवाक्यं गन्धर्वोक्तं शचीशजम्॥**
 
-
-
 **सोऽभिवाद्य गुरून् सर्वांस तैश्चापि प्रतिनन्दितः।  
 धर्मराजमुवाचेदं[^439] व्रतमादिश्यतां मम ॥२४॥**
 
@@ -13525,8 +12478,6 @@ MADRAS.
 **न व्याजेन घरेद्धर्मम् इति मे भवतश्श्रुतम् ।  
 न तस्माद्विचलिष्यामि सत्येनायुधमालभे ॥३१॥**
 
-
-
 आज्ञा तु मम दातव्या भवता कीर्तिवर्धन।  
 भवदाज्ञामृते किञ्चिन्न कार्यमिति निश्चितम्॥३२॥
 
@@ -13554,8 +12505,6 @@ MADRAS.
 
 **तं प्रयान्तं महाबाहुं कौरवाणां यशस्करम् ।  
 अनुजग्मुर्महात्मानो ब्राह्मणा वेदपारगाः॥**
-
-
 
 वेदवेदाङ्गविद्वांसस् तथैवाध्यात्मचिन्तकाः।  
 सौक्षाश्च[^442] भगवद्भक्तास् सूताः पौराणिकाश्च ये ॥२॥
@@ -13585,8 +12534,6 @@ MADRAS.
 
 तेषु प्रणीयमानेषु ज्वलितेषु हुतेषु च।  
 कृतपुष्पोपहारेपु निरन्तरगतेषु च॥९॥
-
-
 
 कृताभिषेकैर्विद्वद्भिर् नियतैस्सत्पथे स्थितैः।  
 शुशुभेऽतीव तद्राजन् गङ्गाद्वारं महात्मभिः ॥१०॥
@@ -13618,8 +12565,6 @@ MADRAS.
 
 ऐरावतकुले जातः कौरव्यो नाम पन्नगः।
 
-
-
 तस्याहं दुहिता पार्थ उलूपी नाम पन्नगी ॥१८॥
 
 साऽहं त्वामेभिषेकार्थम् अवतीर्णं सरिद्वराम्।  
@@ -13648,8 +12593,6 @@ MADRAS.
 यथा[^445] हि तेब्रह्मचर्यम् इति वस्समयः कृतः ॥२४॥
 
 [^445]: "क ख ग—तथा हि ते ब्रह्मचर्यम् इदमादिष्टवान् प्रभुः। परस्परं वर्तमानां द्रुपदस्य सुतां प्रति। यो नोऽनुप्रविशेन्मोहात् स नो द्वादशमासिकम्॥"
-
-
 
 **तदिदं द्रौपदीहेतोर् अन्योन्यस्य प्रवासनम् ।  
 कृतवांस्तत्र धर्मार्थम् अत्र धर्मों न लुप्यते ॥२५॥**
@@ -13681,8 +12624,6 @@ MADRAS.
 
 **एवमुक्तस्तु कौन्तेयः पन्नगेश्वरकन्यया।**
 
-
-
 **कृतवांस्तत्तथा सर्वं धर्ममुद्दिश्य कारणम् ॥३३॥**
 
 **स नागभवने रात्रिंतामुषित्वा प्रतापवान्।  
@@ -13711,8 +12652,6 @@ MADRAS.
 
 **अगस्त्यवनमासाद्य बसिठस्य च पर्वतम्।  
 भृगुतीर्थे च कौरव्यः कृतवाञ्शौचमात्मनः ॥२॥**
-
-
 
 प्रददौ गोसहस्राणि यज्ञानुद्दिश्य दक्षिणाः।  
 निवेशांश्च द्विजातिभ्यस् सोऽददात् कुरुसत्तमः ॥३॥
@@ -13745,8 +12684,6 @@ MADRAS.
 
 [^448]: "अ-क-ग - घ—येन सागरम्॥"
 
-
-
 स कलिङ्गानुतिक्रम्य देशानायतनानि च।  
 हर्म्याणि रमणीयानि प्रेक्षमाणो ययौ प्रभुः ॥१२॥
 
@@ -13775,8 +12712,6 @@ MADRAS.
 तस्य चित्राङ्गदा नाम दुहिता चारुदर्शना ॥२०॥
 
 तां ददर्श पुरे तस्मिन् विचरन्तीं यदृच्छया ॥२०॥
-
-
 
 **दृष्ट्वा च तां वरारोहां चकमे चैत्रवाहनीम्।  
 अभिगम्य च राजानं ज्ञापयत् स्वं प्रयोजनम् ॥२१॥**
@@ -13810,8 +12745,6 @@ MADRAS.
 **स तथेति प्रतिज्ञाय तां कन्यां प्रतिगृह्य च।  
 मासे त्रयोदशे पार्थः कृत्वा वैवाहिकीं क्रियाम् ॥२९॥**
 
-
-
 उवास नगरे तस्मिन् मासांस्त्रीन् स तया सह ॥३०॥
 
 इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम् आदिपर्वणि व्यधिकद्विशततमोऽध्यायः[^449] ॥२०३॥  
@@ -13837,10 +12770,6 @@ MADRAS.
 आचीर्णानि तु यान्यासन् पुरस्तात्तु तपस्विभिः ॥२॥
 
 अगस्त्यतीर्थं सौभद्रं पौलोमं च सुपावनम् ।
-
-
-
-
 
 **करं धर्मप्लवंचैव हयमेधफलं च यत् ॥३॥**
 
@@ -13874,8 +12803,6 @@ MADRAS.
 **उत्कृष्ट एव तु ग्राहस् सोऽर्जुनेन तपस्विना।  
 बभूव नारी कल्याणी सर्वाभरणभूषिता ॥११॥**
 
-
-
 दीप्यमाना श्रिया राजन् दिव्यरूपा मनोरमा ॥१२॥
 
 तदद्भुततमं दृष्ट्वा कुन्तीपुत्रो धनञ्जयः।  
@@ -13885,7 +12812,6 @@ MADRAS.
 
 का वै त्वमसि कल्याणि कुतो वाऽसि जलेचरी।  
 किमर्थ च महत् पापम् इदं कृतवती पुरा ॥१४॥
-
 
 स्त्री[^450]—
 
@@ -13911,8 +12837,6 @@ MADRAS.
 आदित्य इव तं देशं कृत्स्नमभ्यवभासयत् ॥१८॥
 
 तस्य दृष्ट्वा तपस्तादृग रूपं चाद्भुतदर्शनम् ।
-
-
 
 अवतीर्णाऽस्मि तं देशं तपोविघ्नचिकीर्षया ॥१९॥
 
@@ -13944,8 +12868,6 @@ MADRAS.
 याचाम शरणं विप्रं तं तपोधनमच्युतम्॥२५॥  
 रूपेण वयसा चैव कन्दर्पेण च दर्पिताः।
 
-
-
 **अयुक्तं कृतवत्यश्च क्षन्तुमर्हसि नो द्विज ॥२६॥**
 
 **एष एव वधोऽस्माकं सुपर्याप्तस्तपाधन।  
@@ -13974,8 +12896,6 @@ MADRAS.
 **तदा यूयं पुनस्सर्वं स्वरूपं प्रतिपत्स्यथ ॥३४॥**
 
 **अनृतं नोक्तपूर्वं मे भविताऽपि कदा चन ॥३४॥**
-
-
 
 तानि[^457] तीर्थानि सर्वाणि ततःप्रभृति चैव ह।  
 नारीतीर्थानि नाम्नेह ख्यातिं यास्यन्ति सर्वशः॥३५॥
@@ -14011,8 +12931,6 @@ MADRAS.
 तत्राशु पुरुषव्याघ्रः पाण्डवेयो धनञ्जयः।  
 मोक्षयिष्यति शुद्धात्मा दुःखादस्मान्न संशयः ॥४३॥
 
-
-
  वन्दा—
 
 इत्युक्त्वा नारदस्सर्वास् तत्रैवान्तरधीयत् ॥४३॥
@@ -14044,8 +12962,6 @@ MADRAS.
 अनेन तु भविष्यामि ऋणान्मुक्तो जनाधिप ॥५०॥
 
 चित्राङ्गदां पुनर्वाक्यम् अब्रवीत् पाकशासनिः ॥५१॥
-
-
 
  अर्जुनः—
 
@@ -14080,8 +12996,6 @@ MADRAS.
 
 **चित्राङ्गदामेवमुक्त्वा सागरानूपमाश्रितः।**
 
-
-
 स्थानं दूरं समाप्लुत्य दत्त्वा बहुधनं तदा ॥६०॥
 
 केरलान् समतिक्रम्य गोकर्णमभितोऽगमत् ॥६०॥
@@ -14103,8 +13017,6 @@ MADRAS.
 तानि गत्वा स सर्वाणि प्रभासमुपजग्मिवान् ॥२॥**
 
 **चिन्तयामास रात्रौ तु गदेन कथितां कथाम् ।**
-
-
 
 सुभद्रायाश्च माधुर्यरूपसंपद्रुणानि च॥३॥
 
@@ -14138,8 +13050,6 @@ MADRAS.
 
 पुनः पुनस्सत्यभामा चाब्रवीत् पुरुषोत्तमम् ॥११॥
 
-
-
  सत्यभामा—
 
 **भगवंश्चिन्तयाऽऽविष्टश् शयने शयितस्सुखम् ।  
@@ -14147,7 +13057,6 @@ MADRAS.
 
 **श्रोतव्यं यदि वा कृष्ण प्रसादो यदि चेन्मयि।  
 वक्तुमर्हसि लोकेश तच्छ्रोतुं कामये ह्यहम् ॥१३॥**
-
 
 श्रीभगवान्[^460]—
 
@@ -14173,8 +13082,6 @@ MADRAS.
 
 **ईदृशं मां विजानाति माधवो यदि मां स्मरन्॥  
 किञ्चिद्व्याजमवष्टभ्य यायात् कतिपयैर्जनैः ॥१९॥**
-
-
 
 तद्भावं प्रविचिन्त्यैव हसितं मे सुलोचने ।  
 नास्त्यन्यन्मा विशङ्केथाश् शपे सत्येन मे शुभे ॥२०॥
@@ -14214,8 +13121,6 @@ MADRAS.
 तौविहृत्ययथाकामं प्रभासे कृष्णपाण्डवौ।  
 महीधरं रैवतकं वासायैवाभिजग्मतुः॥२८॥
 
-
-
 पूर्वमेव तु कृष्णस्य वचनात् तं महीधरम्।  
 पुरुषास्समलञ्चक्रुर् उपजहृुश्च भोजनम् ॥२९॥  
 प्रतिगृह्यार्जुनस्सर्वम् उपभुज्य च पाण्डवः।  
@@ -14236,8 +13141,6 @@ MADRAS.
 नरेन्द्रमार्गमाजग्मुस् तूर्ण शतसहस्रशः ॥३७॥  
 क्षणार्धमपि वार्ष्णेया गोविन्दविरहाक्षमाः।  
 कौतूहलममाविष्टा भृशमुत्प्रेक्ष्य संस्थिताः॥३८॥
-
-
 
 **अवलोकेषु नारीणां सहस्राणि शतानि च।  
 भोजवृष्ण्यन्धकानां च समवायो महानभूत् ॥३९॥**
@@ -14273,8 +13176,6 @@ MADRAS.
 
 **ततः कतिपयाहस्सु तस्मिन् रैवतके गिरौ।**
 
-
-
 वृष्ण्यन्धकानामभवत् सुमहानुत्सवो नृप ॥१॥
 
 तत्र दानं ददुर्वीरा ब्राह्मणानां सहस्रशः।  
@@ -14307,8 +13208,6 @@ MADRAS.
 
 अक्रूरस्सारणश्चैव गदो भानुर्विडूरथः।
 
-
-
 निशठश्चारुदेष्णश्च पृथुर्विपृथुरेव च ॥१०॥
 
 सत्यकस्सात्यकिश्चैव भङ्गकारसहाचरौ ।  
@@ -14337,8 +13236,6 @@ MADRAS.
 ममैषा भगिनी पार्थ सारणस्य सहोदरी।  
 यदि ते वर्तते बुद्धिर् वक्ष्यामि पितरं स्वयम् ॥१८॥
 
-
-
  अर्जुनः—
 
 दुहिता वसुदेवस्य वासुदेवस्य च स्वसा।  
@@ -14352,7 +13249,6 @@ MADRAS.
 
 प्राप्तौ तु क उपायोऽस्यास् तं ब्रुवीहि जनार्दन।  
 आस्थास्यामि तथा सर्वं यदि शक्यं नरेण तत्॥२२॥
-
 
 वासुदेवः[^466]—
 
@@ -14368,8 +13264,6 @@ MADRAS.
 यतिरूपधरस्त्वं तु यदा कालविपाकता ॥२५॥
 
 हर स्वयंवरे ह्यस्याः को वै वेद चिकीर्षितम् ॥२५॥
-
-
 
  वैशम्पायनः—
 
@@ -14395,8 +13289,6 @@ MADRAS.
 
 **चारैस्सञ्चारिते तस्मिन् अनुज्ञातो धनञ्जयः।  
 वासुदेवाभ्यनुज्ञातः कथयित्वेतिकृत्यताम् ॥१॥**
-
-
 
 कृष्णस्य मतमास्थाय प्रययौ भरतर्षभः॥१॥
 
@@ -14429,8 +13321,6 @@ MADRAS.
 ततस्ते सहितास्सर्वे यतिं दृष्ट्वा समुत्सुकाः।  
 वृष्णयोविनयोपेताः पारिवार्योपतस्थिर ॥११॥
 
-
-
 ततोऽर्जुनः प्रीतमनास्स्वागतं व्याजहार सः।  
 आस्यतामास्यतां सर्वैरमणीये शिलातले ॥१२॥
 
@@ -14462,8 +13352,6 @@ MADRAS.
 ततस्तु यादवास्सर्वे मन्त्रयन्ति स्म भारत ॥१९॥
 
 अयं देशातिथिश्श्रीमान् यतिलिङ्गधरो द्विजः।
-
-
 
 आवासं कमुपाश्रित्य वसेत निरुपद्रवः ॥२०॥  
 इत्येवमब्रुवंस्ते वै रौहिणेयं तु यादवाः ॥२०॥
@@ -14499,15 +13387,12 @@ MADRAS.
 
 बलवान् दर्शनीयश्च वाग्मी श्रीमान् बहुश्रुतः।
 
-
-
 **कन्यापुरसमीपे तु न युक्तमिति मे मतिः ॥२८॥**
 
 **गुरुश्शास्ता च नेता च शास्त्रज्ञो धर्मवित्तमः।  
 त्वयोक्तं न विरुध्येऽहं करिष्यामि वचस्तव ॥२९॥**
 
 **शुभाशुभस्य विज्ञाने नान्योऽस्ति भुवि कश्चन ॥२९॥**
-
 
 बलदेवः[^467]—
 
@@ -14530,8 +13415,6 @@ MADRAS.
  वैशम्पायनः—
 
 **स तथेति प्रतिज्ञाय सहितो यतिना हरिः।**
-
-
 
 **कृत्वा[^470] तु संविदं तेन प्रहृष्टः केशवोऽभवत् ॥३३॥  
 पर्वते तौविहृत्यैव यथेष्टं कृष्णपाण्डवौ।**
@@ -14563,8 +13446,6 @@ MADRAS.
 
 **आर्येण च परिज्ञातः पूजनीयो यतिस्सदा।**
 
-
-
 तस्माद्भरस्व वार्ष्णेय भक्ष्यैर्भोज्यैर्यतिं सदा ॥४१॥
 
 एष यद्यदृषिर्ब्रूयात् कार्यमेव न संशयः।  
@@ -14594,8 +13475,6 @@ MADRAS.
 
 न कृष्णां रूपतो मेने वासुदेवस्य सोदराम्।
 
-
-
 प्राप्ताहृदीन्द्रसेनां वा साक्षाद्वा वरुणात्मजाम् ॥४९॥
 
 अतीतसमये काले सोदर्याणां धनञ्जयः।  
@@ -14623,8 +13502,6 @@ MADRAS.
 
 सत्यसन्धस्य रूपेण चातुर्येण च मोहिता।  
 चारणातिथिसङ्घानां गदस्य च निशम्य सा॥५७॥
-
-
 
 **अदृष्टे कृतभावाऽभूत् सुभद्रा भरतर्षभे ॥५८॥**
 
@@ -14657,8 +13534,6 @@ MADRAS.
 **निशम्य विविधं तस्य लोके चरितमात्मनः।  
 कंथापरिगतो भावः कन्यायास्समपद्यत ॥६६॥**
 
-
-
 पर्वसन्धौ तु कस्मिंश्चित सुभद्रा भरतर्षभम्।  
 रहस्येकान्तमासाद्यहृष्यमाणाऽभ्यभाषत ॥६७॥
 
@@ -14690,11 +13565,7 @@ MADRAS.
 अनुज्ञातश्च मात्रा च सोदर्यैश्च धनञ्जयः।  
 द्वारकामावसत्येको यतिलिङ्गेन पाण्डवः ॥७४॥
 
-
-
 पश्यन्ती सततं कस्मान्नाभिजानासि माधवि ॥७४॥
-
-
 
 वैशम्पायनः—
 
@@ -14724,8 +13595,6 @@ MADRAS.
 [^472]: "क-ग-घ—कार्येणैव; घ—कार्श्यजेन तदा"
 
 सुभद्राऽपि न च स्वस्था पार्थं प्रति बभूव सा।
-
-
 
 **कृशा विवर्णवदना चिन्ताशोकपरायणा ॥८३॥**
 
@@ -14757,8 +13626,6 @@ MADRAS.
 निवेदयित्वा कृष्णाय मन्त्रयामास नैकधा ॥९०॥**
 
 **इदं कार्यमिदं कृत्यम् इदमेवं विनिश्चितम् ॥९१॥**
-
-
 
 अक्रूरश्चोग्रसेनश्च सत्यकेन गदेन ह।
 
@@ -14792,8 +13659,6 @@ MADRAS.
 कृष्णरामाहुकाक्रूराः प्रद्युम्नश्शिनिसात्यकी।  
 समुद्रं प्रययुर्हृष्टाः कुकुरान्धकवृष्णयः ॥१००॥
 
-
-
 युक्तयन्त्रपताकाभिर् वृष्णयो ब्राह्मणैस्सह।  
 समुद्रं प्रययुर्नैभिस् सर्वे पुरनिवासिनः ॥१०१॥
 
@@ -14823,8 +13688,6 @@ MADRAS.
 सप्तयोजनविस्तार आयतो दशयोजनम्।  
 बभूव स महाद्वीपस् सपर्वतमहावनः ॥१०९॥
 
-
-
 **सेतुपुष्करिणीजालैर् आक्रीडस्सर्वसात्वताम् ।  
 वापीपल्वलसङ्घैश्चकाननैश्च मनोरमैः ॥११०॥**
 
@@ -14849,8 +13712,6 @@ MADRAS.
 \[अस्मिन्नध्याये ११४॥ श्लोकाः\]
 
 ————
-
-
 
 ॥अष्टाधिकद्विशततमोऽध्याः॥
 
@@ -14886,8 +13747,6 @@ MADRAS.
 **वरमाहूय विधिना पित्रा दत्ता यथाऽर्थिने।  
 सा पत्नी तु बुधैरुक्ता सा वश्याशयातिव्रता ॥६॥**
 
-
-
 भृत्यानां भरणार्थाय आत्मनः पोषणाय च।  
 दाने गृहीता या नारी सा भार्येति बुधैर्मता ॥७॥
 
@@ -14917,8 +13776,6 @@ MADRAS.
 लग्नो हि मकरश्श्रेष्ठः करणानां बवस्तथा ॥१५॥
 
 मैत्रो मुहूर्तो वैवाह्य आवयोश्शुभकर्माणि ॥१६॥
-
-
 
 सर्वसम्पदियं भद्रे अद्य रात्रौ भविष्यति ॥१६॥
 
@@ -14951,8 +13808,6 @@ MADRAS.
 
 सहाक्रूरेण शिनिना सत्यकेन गदेन च।
 
-
-
 वसुदेवेन देवक्या आहुकेन च धीमता ॥२४॥
 
 आजगाम पुरींरात्रौ द्वारकां स्वजनैर्वृतः ॥२५॥
@@ -14984,8 +13839,6 @@ MADRAS.
 अभिषेकं ततः कृत्वा महेन्द्रः पाकशासनिम्।  
 लोकपालैस्तु सहितस् सर्वदेवैरभिष्टुतः ॥३३॥
 
-
-
 किरीटाङ्गदहाराद्यैर् हस्ताभरणकुण्डलैः।  
 भूषयित्वा तदा पार्थं द्वितीयमिव वासवम् ॥३४॥
 
@@ -15015,8 +13868,6 @@ MADRAS.
 
 यादवाः पार्थमामन्त्र्य अन्तर्द्वीपंगतास्तदा।  
 वासुदेवस्तदा पार्थम् उवाच यदुनन्दनः॥४२॥
-
-
 
  भगवान्—
 
@@ -15050,8 +13901,6 @@ MADRAS.
 
 [^476]: अ–क–ख–ग—कोशेष्वत्रैवाध्यायसमाप्तिर्दृश्यते। "अ–क–ख–ग—कोशेष्वत्रैवाध्यायसमाप्तिर्दृश्यते।"
 
-
-
  वैशम्पायनः—
 
 वृष्ण्यन्धर्केपुरात् तत्र अपयानं धनञ्जयः।  
@@ -15084,8 +13933,6 @@ MADRAS.
 
 रथेनानेन यास्यामि महाव्रतसमापनम्।
 
-
-
 शैब्यसुग्रीवयुक्तेन सायुधेन च शार्ङ्गिणः ॥५९॥
 
 सुभद्रयैवमुक्ते तु जनाः प्राञ्जलयोऽभवन्।  
@@ -15116,8 +13963,6 @@ MADRAS.
 रश्मिप्रग्रहणे पार्थ न मेऽस्ति सहशो भुवि ॥६६॥
 
 तस्मात् सा पूर्वमारुह्य रश्मीञ्जग्राह माधवी।
-
-
 
 सोदरा वासुदेवस्य कृतस्वस्त्ययना हयान् ॥६७॥
 
@@ -15150,8 +13995,6 @@ MADRAS.
 एवमुक्ता प्रहृष्टाभिस् सखीभिः प्रतिनन्दिता ।  
 भद्रा भद्रजवोपेतान् अश्वान पुनरचोदयत् ॥७५॥
 
-
-
 **ततश्चामरहस्ताऽत्र सखी कुब्जाङ्गनाऽभवत् ॥७६॥**
 
 **ततः कन्यापुरद्वारि सुघोषमभिनिस्सृतम्।  
@@ -15182,8 +14025,6 @@ MADRAS.
 
 **मुमोच निशितान् बाणान् दीप्यमानान् स्वतेजसा।**
 
-
-
 **प्रासादवरसङ्घेषु हर्म्येषु भवनेषु च ॥८५॥**
 
 **क्षोभयित्वा[^478] पुरश्रेष्ठम् गरुत्मानिव सागरम्।  
@@ -15207,8 +14048,6 @@ MADRAS.
 
 **प्रवासे वासुदेवस्य तस्मिन् हलधरोपमः।  
 सम्बभूव तदा गोप्ता पुरस्यपुरवर्धनः॥२॥**
-
-
 
 प्राप्य पाण्डवनिर्याणं निर्ययौ विपृथुश्रवाः।  
 निशम्य पुरनिर्घोषं स्वमनीकमचोदयत् ॥३॥
@@ -15242,8 +14081,6 @@ MADRAS.
 एवमुक्ता तदा भद्रा पार्थेन भरतर्षभ।  
 चुचोद चाश्वान् विस्रब्धा ततस्ते विविशुर्बलम् ॥११॥
 
-
-
 तदाहतमहावाद्यं समुदग्रध्वजायुतम्।  
 अनीकं विपृथोर्ष्टंहृष्टं पार्थमेवान्ववर्तत् ॥१२॥
 
@@ -15273,8 +14110,6 @@ MADRAS.
 
 ततोरथवरात्तूर्णम् अवरुह्य नरर्षभः।
 
-
-
 अभिगम्य नरव्याघ्रं प्रहृष्टः परिषस्वजे ॥२१॥
 
 सोऽब्रवीत् पार्थमासाद्य दीर्घकालमिदं तत्र।  
@@ -15303,8 +14138,6 @@ MADRAS.
 
 दीर्घकालावरुद्धं त्वां सम्प्राप्तं प्रियया सह।  
 पश्यन्तु भ्रातरस्तत्र वज्रपाणिमिवामराः॥२९॥
-
-
 
 आगते तु दशार्हाणाम् ऋषभे शार्ङ्गधन्वनि।
 
@@ -15342,8 +14175,6 @@ MADRAS.
 
 ते समासाद्य सहितास सुधर्मामभितः पुरीम्।
 
-
-
 **सभापालस्य तत् सर्वम् आचख्युः पार्थविक्रमम् ॥३९॥**
 
 **तेषां श्रुत्वा सभापालो भेरीं सन्नाहयत्तदा।  
@@ -15372,8 +14203,6 @@ MADRAS.
 **धनूंषि च महार्हाणि कवचानि बृहन्ति च॥४७॥**
 
 **सूतान् विचुऋुशुः केचिद् रथान् योजयतेति च।**
-
-
 
 स्वयं च तुरगान् केचित् निन्युर्हेमविभूषितान् ॥४८॥
 
@@ -15405,8 +14234,6 @@ MADRAS.
 किमवाऽयोपविष्टोऽसि प्रेक्षमाणो जनाकुलम् ॥५५॥
 
 सत्कृतस्त्वत्कृते पार्थस् सर्वैरस्माभिरच्युत।
-
-
 
 **न च सोऽर्हति तां पूजां दुर्बुद्धिः कुलपांसनः ॥५६॥**
 
@@ -15441,8 +14268,6 @@ MADRAS.
 \[अस्मिन्नध्याये ६३॥श्लोकाः\]  
 (सुभद्राहरणपर्व समाप्तम्)
 
-
-
 ॥ दशाधिकद्विशततमोऽध्यायः॥
 
 (अथ हरणहारिकपर्व)
@@ -15468,8 +14293,6 @@ MADRAS.
 स्वयंवरमनाधृष्यं मन्यते चापि पाण्डवः॥४॥**
 
 [^481]: "क-घ-ग—अर्थलुब्धा वः पार्थो मन्यते सात्वतांत्सिदा ।"
-
-
 
 प्रदानमपि कन्यायाः पशुवत् को नु मंस्यति।  
 विक्रयं चाप्यपत्यस्य कः कुर्यात् पुरुषो भुवि ॥५॥
@@ -15502,8 +14325,6 @@ MADRAS.
 यदि निर्जित्य वः पार्थो बलाद्गच्छेत् स्वकं पुरं।  
 विनश्येद्वो यशस्सद्यो न तु सान्त्वे पराजयः ॥१३॥
 
-
-
 पितृष्वसायाः पुत्रो मे सम्बन्धं नार्हति द्विषाम् ॥१४॥
 
  वैशम्पायनः—
@@ -15532,8 +14353,6 @@ MADRAS.
 **सुभद्रा तुकलिर्जाता वृष्णीनां निधनाय च।  
 एवं ब्रुवन्ति पौरास्ते जनवादं जनाः प्रभो ॥२१॥  
 मम शोकं वर्धयन्ति तस्मात् पापं न चिन्तय।**
-
-
 
 परिवादभयान्मुक्ता त्वत्प्रसादाद्भवाम्यहम् ॥२२॥
 
@@ -15566,8 +14385,6 @@ MADRAS.
 
 पुरोद्यानमतिक्रम्य विशालं च गिरिव्रजम्।
 
-
-
 सानुमुञ्जावतं[^484] चैव वनान्युपवनानि च॥३०॥
 
 [^484]: "ग-ङ—सानून्मुञ्जावतं। घ—सानून्युज्जयिनीं चैव"
@@ -15599,8 +14416,6 @@ MADRAS.
 
 कोशमात्रे पुरस्यासीद् गोष्ठं पार्थस्य शोभनम्।  
 तत्राभीयात् स बीभत्सुर् निविष्टो यदुकन्यया ॥३८॥
-
-
 
  अर्जुनः—
 
@@ -15640,8 +14455,6 @@ MADRAS.
 
 एतच्छ्रुत्वा तु गोपालैर् आनीता ब्रजयोषितः ॥४५॥
 
-
-
 ततस्ताभिः परिवृतां व्रजस्त्रीभिरनिन्दिताम्।  
 सुभद्रां त्वरमाणश्च रक्तकौशेयवासिनीम्॥४६॥
 
@@ -15674,8 +14487,6 @@ MADRAS.
 
 ततस्सुभद्रां वार्ष्णेयी परिष्वज्य शुभाननाम्।
 
-
-
 **अङ्के निवेश्य मुदिता वासुदेवं प्रशस्य च ॥५४॥**
 
 **ततः किलकिलाशब्दः क्षणेन समपद्यत।  
@@ -15706,8 +14517,6 @@ MADRAS.
 **ब्राह्मणप्रमुखांत्सर्वान् भ्रातृभिस्सह सङ्गतः।  
 यथार्हंमानयामास पौरजानपदानपि ॥६२॥**
 
-
-
 **तत्रस्थान्यनुयातानि प्रदाय गुरवे वधूम् ।  
 पूजयाञ्चक्रुरारासाद्य कुन्तीपुत्रं युधिष्ठिरम् ॥६३॥**
 
@@ -15736,8 +14545,6 @@ MADRAS.
 ॥१८॥ हरणहारिकपर्वणि प्रथमोऽध्यायः॥१॥  
 \[अस्मिन्नध्याये ६९ श्लोकाः\]
 
-
-
 ॥ एकादशाधिकद्विशततमोऽध्यायः॥
 
  कृष्णानुमत्याऽर्जुनः सुभद्रां जहारेति पौराणामूहः॥१॥ अर्जुनं इन्द्रप्रस्थं प्राप्तं ज्ञात्वा यादवैस्सह श्रीकृष्णस्य इन्द्रप्रस्थं प्रत्यागमनम् ॥२॥ आगताञश्रीकृष्णादीञ्श्रुत्वा युधिष्ठिरस्य प्रत्युद्गमनं तेषां सत्कारश्च॥३॥ वैवाहिकमहोत्सवकरणम्॥४॥ पारिबर्हदानम्॥५॥ कञ्चित्कालं तत्रोषितानां कुरुभिः पूजितानां बलरामादीनां द्बारकां प्रति गमनम् ॥६॥
@@ -15762,8 +14569,6 @@ MADRAS.
 भद्रया सह बीभत्सुः प्रापितो वृजिनं पुरम्॥५॥**
 
 [^493]: "क-ख-ग-घ-ङ—चतुरङ्गेण बलेन जयतां"
-
-
 
 **श्रुत्वा तु पुण्डरीकाक्षस् सम्प्राप्तं स्वपुरोत्तमम्।  
 अर्जुनं पाण्डवश्रेष्ठम् इन्द्रप्रस्थगतं तथा ॥६॥**
@@ -15792,8 +14597,6 @@ MADRAS.
 [^494]: "क-ग-ङ—पतिः श्रीमानाजगाम महा घ—पतिः श्रीमाञ् जगाम सुमहायशाः"
 
 **अक्रूरो वृष्णिवीराणां सेनापतिररिन्दमः।**
-
-
 
 अनाधृष्णिर्महातेजा[^495] उद्धवश्च महायशाः ॥१४॥
 
@@ -15835,8 +14638,6 @@ MADRAS.
 
 चन्दनस्य रसैश्शीतैः पुण्यगन्धैर्निषेवितम्।
 
-
-
 दह्यताऽगुरुणा चैव देशे देशे सुगन्धिनम् ॥२२॥
 
 सुसंहृष्टजनाकीर्णं वणिग्भिरुपशोभितम्।  
@@ -15866,8 +14667,6 @@ MADRAS.
 
 हर्षादभिगतौ दृष्ट्वा सङ्कर्षणजनार्दनौ।  
 बन्धुमन्तं पृथपार्थं युधिष्ठिरममन्यत ॥३१॥
-
-
 
 ततस्सङ्कर्षणक्रूरावप्रमे यावदीनवत्[^499]।
 
@@ -15907,8 +14706,6 @@ MADRAS.
 
 गिरिकूटनिकाशानां समरेष्वनिवर्तिनाम् ॥३९॥
 
-
-
 सुवर्ण[^502]कक्ष्याग्रैवेयसुवर्णाङ्कुशभूषितम्।  
 क्लृप्तानां[^503] पटुघण्टानां चारुणां हेममालिनाम् ॥४०॥
 
@@ -15939,8 +14736,6 @@ MADRAS.
 ददौ शतसहस्रं वै कन्याधनमनुत्तमम् ॥४७॥
 
 स्नापनाच्छादने चैव भोजने पाचने तथा।
-
-
 
 आदानोद्वासने चैव प्रेषणे यत्र कुत्र चित् ॥४८॥
 
@@ -15975,8 +14770,6 @@ MADRAS.
 
 पाण्डुसागरमाविद्धं प्रविवेश महानदः॥५६॥
 
-
-
 पूर्णमापूरयंस्तेषाम् अभीष्टस्सर्वभोगवत् ।  
 प्रतिजग्राह तत्सर्वंधनौघं वै युधिष्ठिरः ॥५७॥
 
@@ -16008,8 +14801,6 @@ MADRAS.
 
 तस्मिन् काले पृथा प्रीतापूजयामास तं तथा ॥६५॥
 
-
-
 **स वृष्णिवीरः पार्थैश्च पौरैश्च परमार्चितः।  
 ययौ द्वारवतीं रामो वृष्णिभिस्सह संयुतः ॥६६॥  
 वासुदेवस्तु पार्थेन तत्रैव सह भारत।  
@@ -16023,7 +14814,6 @@ MADRAS.
 ॥१८॥ हरणहारिकपर्वणि द्वितीयोऽध्यायः॥२॥  
 \[अस्मिन्नध्याये ६८॥ श्लोकाः\]  
 
-
 ॥ द्वादशाधिकद्विशततमोऽध्यायः ॥  
 ![](../../../books_images/U-IMG-1705598495Screenshot2023-12-08093932889899999998989.png)
 
@@ -16031,14 +14821,11 @@ MADRAS.
 
  वैशम्पायनः—  
 
-
 **ततस्सुभद्रा सौभद्रं केशवस्य प्रिया स्वसा।  
 जयन्तमिव पौलोमी द्युतिमन्तमजीजनत्॥  
 दीर्घबाहुंमहोरस्कं[^508] वृषभाक्षमरिन्दमम्।**
 
 [^508]: "क-ख-ग-घ-ङ—महासत्वं"
-
-
 
 सुभद्रा सुषुवे वीरम् अभिमन्युं नरर्षभम् ॥२॥
 
@@ -16071,8 +14858,6 @@ MADRAS.
 
 आगमे च प्रयोगे च चक्रे तुल्यमिवात्मना ।
 
-
-
 तुतोष पुत्रं सौभद्रं प्रेक्षमाणो धनञ्जयः॥१०॥
 
 सर्वसंहननोपेतं सर्वलक्षणलक्षितम्।  
@@ -16104,8 +14889,6 @@ MADRAS.
 सुते सोमसहस्रे तु सोमार्कसमतेजसम्।  
 सुतसोमं महाप्राज्ञं सुषुवे भीमसेनतः॥१८॥
 
-
-
 श्रुतं कर्म महत् कृत्वा निवृत्तेन किरीटिना।  
 जातः पुत्रस्तथेत्येवं श्रुतकर्मा ततोऽभवत् ॥१९॥  
 शतानीकस्य राजर्षेः कौरव्यः कुरुनन्दनः।  
@@ -16125,8 +14908,6 @@ MADRAS.
 ॥१८॥ हरणहारिकपर्वणि तृतीयोऽध्यायः॥३॥  
 \[ समाप्तं च हरणहारिकपर्व \]  
 \[अस्मिन्नध्याये २५ श्लोकाः\]
-
-
 
 ॥ त्रयोदशाधिकद्विशततमोऽध्यायः॥
 
@@ -16163,8 +14944,6 @@ MADRAS.
 
 [^516]: "घ—चत्वार इव ते वर्णा रेमिरे तं जनाधिपम्।"
 
-
-
 **बन्धुमानखिलो लोकस् तेनासीत् पृथिवी क्षिता[^517]॥६॥**
 
 [^517]: "अ-ख—क्षिताम्"
@@ -16199,8 +14978,6 @@ MADRAS.
 
 **उष्णानि कृष्ण वर्तन्ते गच्छाव यमुनां प्रति॥१४॥  
 सुहृज्जनवृतौ तत्र विहृत्य मधुसूदन।**
-
-
 
 सायाह्नेविनिवर्तावो[^519] रोचतां ते जनार्दन ॥१५॥
 
@@ -16237,8 +15014,6 @@ MADRAS.
 
 [^521]: "ख—शब्दतमालिङ्गैरुपेतं । ग—वेत्रसंवृते । घ—शाल्मलिमाल्यङ्गैः कुकुभिः ।"
 
-
-
 शाकपद्मकतालैश्च शतशाखैश्च[^522] रौहिणैः ॥२३॥
 
 [^522]: "क-ग-ङ–एकपद्मकतालैश्च शतसंख्यैश्च। घ—अशोकधवतालैश्च शतसंख्यैश्च"
@@ -16268,11 +15043,7 @@ MADRAS.
 ॥१९॥ खाण्डवदाहपर्वणि प्रथमोऽध्यायः॥१॥  
 \[अस्मिन्नध्याये २८ श्लोकाः\]
 
-
-
 ॥ चतुर्दशाधिकद्विशततमोऽध्यायः॥
-
- 
 
 ब्राह्मणरूपस्याग्नेः तत्रागमनम्॥१॥ खाण्डववनदहनार्थं कृष्णार्जुनौ प्रति अग्नेः प्रार्थना॥२॥ किमर्थमग्नेः खाण्डवदिधक्षेति जनमेजयेन प्रश्ने वैशम्पायनेन श्वेतक्युपाख्यानकथनम्॥३॥ अर्जुनेन दिव्यानां रथाश्वधनुरादीनां याचनम् ॥४॥ अग्निना वरुणादाहृतानां रथादीनां अर्जुनाय दानम्॥५॥ श्रीकृष्णाय सुदर्शनकौमोदक्योश्च दानम्॥५॥ अग्नेः खाण्डवदाहारम्भः॥६॥
 
@@ -16296,8 +15067,6 @@ MADRAS.
 द्रौपदी च सुभद्रा च वासांस्याभरणानि च॥५॥
 
 प्रायच्छतां महाणि स्त्रीणां तारस्म मदोत्कटाः।
-
-
 
 काश्चित् प्रहृष्टा ननृतुश् चुक्रुशुश्च तथाऽपराः ॥६॥
 
@@ -16328,8 +15097,6 @@ MADRAS.
 हरिपिङ्गो[^528]ज्ज्वलश्मश्रुः प्रमाणायामतस्समः॥१४॥
 
 [^528]: "क-ख-ग-ध-ङ–हरिपिङ्गो हरिश्मश्रुः"
-
-
 
 तरुणादित्यसङ्काशश्चीरवासा[^529] जटाधरः।  
 पद्मपत्राननः पिङ्गस् तेजसा प्रज्वलन्निव॥१५॥
@@ -16367,8 +15134,6 @@ MADRAS.
 
 नाहमन्नं बुभुक्षे वै पावकं मां निबोधतम्।
 
-
-
 **यदन्नमनुरुपं मे तद्युवां संप्रयच्छतम् ॥२२॥**
 
 **इदमिन्द्रस्सदा दावंखाण्डवं परिरक्षति।  
@@ -16393,8 +15158,6 @@ MADRAS.
 
 **किमर्थं भगवाग्निःखाण्डवं दग्धुमिच्छति।  
 रक्ष्यमाणं महेन्द्रेण नानासत्त्वसमायुतम् ॥२९॥**
-
-
 
 न ह्येतत्कारणं ब्रह्मन्नल्पं संप्रतिभाति मे।  
 यद्ददाह सुसंक्रुद्धः खाण्डवं हव्यवाहनः ॥३०॥
@@ -16426,8 +15189,6 @@ MADRAS.
 प्रणिपातेन सान्त्वेन दानेन च महायशाः।  
 ऋत्विजोऽनुनयामास भूयो भूयस्त्वतन्द्रितः॥३८॥
 
-
-
 ते चास्य तमभिप्रायं न चक्रुरमितौजसः॥३८॥
 
 सचाश्रमस्थान् राजर्षिस् तानुवाच रुषाऽन्वितः॥३९॥
@@ -16457,8 +15218,6 @@ MADRAS.
 
 **श्रमादस्मात् परिश्रान्तांत्स त्वं नस्त्यक्तुमर्हसि॥४६॥  
 बुद्धिमोहं समास्थाय त्वरासम्भावितोऽनघ।**
-
-
 
 गच्छ रुद्रसकाशं त्वं स हि त्वां याजयिष्यति ॥४७॥
 
@@ -16494,8 +15253,6 @@ MADRAS.
 
 **एतच्छ्रुत्वा तु वचनं राज्ञा तेन प्रभाषितम्**
 
-
-
 **उवाच भगवान् प्रीतस् स्मितपूर्वमिदं वचः॥५६॥**
 
  रुद्रः—
@@ -16522,8 +15279,6 @@ MADRAS.
 अतोऽहं त्वां स्वयं नाद्य याजयामि परन्तप ॥६३॥  
 ममांशस्तु क्षितितले महाभागो द्विजोत्तम्।  
 दुर्वासा इति विख्यातस् स हि त्वां याजयिष्यति ॥६४॥
-
-
 
 **मन्नियोगान्महातेजास् सम्भारास्सम्भ्रियन्तु ते॥६५॥**
 
@@ -16562,8 +15317,6 @@ MADRAS.
 
 ततो भगवतो वह्णेर् विकारस्समजायत।
 
-
-
 **तेजसा विग्रहीणश्च ग्लानिश्चैनं समाविशत्॥७४॥**
 
 **स लक्षयित्वा चात्मानं तेजोहीनं हुताशनः।**
@@ -16600,8 +15353,6 @@ MADRAS.
 तेषां त्वं मेदसा तृप्तः प्रकृतिस्थो भविष्यसि॥८२॥  
 मत्प्रसादादुचिस्सम्यक् त्वयि वह्ने भविष्यति।
 
-
-
 **गच्छ शीघ्रं प्रदग्धुं त्वं ततो मोक्ष्यसि किल्बिषात् ॥८३॥**
 
  वैशम्पायनः—
@@ -16632,8 +15383,6 @@ MADRAS.
 
 **तच्च सर्वं यथान्यायं ब्रह्मणे स न्यवेदयत् ।  
 उवाच चैनं भगवान् मुहूर्तं स विचिन्त्य तु ॥९२॥**
-
-
 
  ब्रह्मा—
 
@@ -16668,8 +15417,6 @@ MADRAS.
 **उत्तमास्त्राणि मे सन्ति दिव्यानि च बहूनि च।  
 यैरहं शक्नुयां योद्धुम् अपि वज्रधरान् बहून् ॥१००॥**
 
-
-
 **धनुर्मे नास्ति भगवन् बाहुवीर्येण सम्मितम्।  
 कुर्वतस्समरे यत्नं वेगं यद्विषहेत वै ॥१०१॥**
 
@@ -16701,8 +15448,6 @@ MADRAS.
 
 **स च सञ्चिन्तितं ज्ञात्वा दर्शयामास पावकम्।  
 तमब्रवीद्धुमफेतुः प्रतिपूज्य जलेश्वरम् ॥१०९॥**
-
-
 
 चतुर्थं लोकपालानां रक्षितारं महेश्वरम् ॥१०९॥
 
@@ -16739,8 +15484,6 @@ MADRAS.
 पाण्डुराभ्रप्रतीकाशैर् मनोवायुसमैर्जवे ।  
 सर्वोपकरणैर्युक्तम् अजयं देवदानवैः ॥११८॥
 
-
-
 **भानुमन्तं महाघोषं सर्वभूतमनोहरम्।  
 ससर्ज यं[^534] सुतपसा भुवने भुवनप्रभुः॥११९॥**
 
@@ -16775,8 +15518,6 @@ MADRAS.
 
 **सन्नद्धः कवची खड्गी बद्धगोधाङ्गुलित्रवान् ।**
 
-
-
 आरुरोह तदा पार्थो विमानं सुकृती यथा ॥१२५॥
 
 तच्च दिव्यं धनुश्रेष्ठं ब्रह्मणा निर्मितं पुरा।  
@@ -16806,8 +15547,6 @@ MADRAS.
 तच्चास्मिन्नर्पय विभो दैत्यघाते यथा पुरा ॥१३४॥
 
 क्षिप्तं क्षिप्तं रणे चैतत् त्वया माधव शत्रुषु।
-
-
 
 **हत्वाऽप्रतिहतं सङ्ख्ये पाणिमेष्यति ते पुनः ॥१३५॥**
 
@@ -16840,8 +15579,6 @@ MADRAS.
 शरताडितखण्डकुण्डलानां  
 कदनं द्रक्ष्यति देववाहिनीनाम्॥१४२॥**
 
-
-
  वैशम्पायनः—
 
 **एवमुक्तस्स भगवान् दाशार्हेणार्जुनेन[^541] ह।  
@@ -16862,12 +15599,9 @@ MADRAS.
 ॥१९॥ खाण्डवदाहपर्वणि द्वितीयोऽध्यायः॥२॥  
 \[अस्मिन्नध्याये १४६ लोकाः\]  
 
-
 ॥ पञ्चदशाधिकद्विशततमोऽध्यायः॥
 
 ![](../../../books_images/U-IMG-1703437412Screenshot2023-11-30232232222222121.png)
-
-
 
  खाण्डवदाहं दृष्ट्वा त्नस्तैर्देवैः प्रार्थितेनेन्द्रेण जलवर्षणम्॥१॥ इन्द्राभिवृष्टस्य जलस्वार्जुनेन निवारणम्॥२॥ पुत्रं निगीर्याकाशमुत्पतन्त्याः तक्षकभार्यायाः अर्जुनेन शिरश्छेदः॥३॥ इन्द्रेण स्वकृतवायुवर्षमोहितादर्जुनात्तक्षकपुत्रस्याश्वसेनस्य मोचनम्॥४॥ अर्जुनेन पावकान्मु मुक्षूणां नागादीनां मारणम्॥५॥ इन्द्रस्य कृष्णार्जुनाभ्यां युद्धम् ॥६॥
 
@@ -16875,8 +15609,6 @@ MADRAS.
 
 **तौ रथाभ्यां सुयुक्ताभ्यां दावस्योभयतस्स्थितौ।  
 दिक्षु सर्वासु भूतानां चक्राते कदनं तदा ॥**
-
-
 
 **यत्र यत्र हि दृश्यन्ते प्राणिनः खाण्डवालयाः।  
 पलायन्तस्तत्र तत्र तौ वीरौ पर्यधावताम् ॥२॥**
@@ -16906,8 +15638,6 @@ MADRAS.
 
 **शरीरैस्सम्प्रदीप्तैश्च देहवन्त इवाग्नयः।  
 अदृश्यन्त बने तत्र प्राणिनः प्राणिसंक्षये॥१०॥**
-
-
 
 तांस्तथोत्पततः पार्थश् शरैस्सञ्छिद्य खण्डशः।  
 दीप्यमाने ततः प्रास्यत् प्रहसन् कृष्णवर्त्मनि ॥११॥
@@ -16939,8 +15669,6 @@ MADRAS.
 **महता मेघजालेन नानारूपेण वज्रभृत्।  
 आकाशं तमसाऽऽस्तीर्य प्रववर्ष सुरेश्वरः ॥१८॥**
 
-
-
 **ततोऽक्षमात्रा विसृजन् धाराश्शतसहस्रशः।  
 अभ्यवर्षत् सहस्राक्षः पावकं खाण्डवं प्रति ॥१९॥**
 
@@ -16971,8 +15699,6 @@ MADRAS.
 **न च स्म किञ्चिच्छक्नोति भूतं निश्चरितुं ततः।  
 सञ्छाद्यमाने गगने अस्यता सव्यसाचिना ॥२५॥**
 
-
-
 **तक्षकस्तु न तत्रासीन्नागराजो महाबलः।  
 कुह्यमाने तु तस्मिंस्तु कुरुक्षेत्रे तदाऽभवत् ॥२६॥**
 
@@ -17002,8 +15728,6 @@ MADRAS.
 पावको वासुदेवश्चाप्यप्रतिष्ठो भविष्यसि ॥३३॥**
 
 **ततो जिष्णुस्सहस्राक्षं खं वित्तत्येषुभिश्शितैः।**
-
-
 
 योधयामास सङ्क्रुद्धांवञ्चनां तामनुस्मरन्॥३४॥
 
@@ -17036,8 +15760,6 @@ MADRAS.
 
 कृष्णाभ्यां रक्षितं दृष्ट्वा तं च दावमहङ्कृताः।
 
-
-
 **समुत्पेतुरथाकाशं सुपर्णाद्याः पतत्रिणः ॥४१॥**
 
 **गरुडा वज्रसदृशैः पक्षतुण्डनखैस्तथा।  
@@ -17068,8 +15790,6 @@ MADRAS.
 वेलामिव समासाद्य व्यबेष्टन्त महौजसः॥४९॥**
 
 **ततश्शक्रोऽतिसङ्क्रुद्धस् त्रिदशानां महेश्वरः॥**
-
-
 
 **पाण्डुरं गजमास्थाय तावुभौ समुपाद्रवत् ॥५०॥**
 
@@ -17102,8 +15822,6 @@ MADRAS.
 
 **आत्तकार्मुकनिस्त्रिशाः कृष्णपार्थावभिद्रवन्॥**
 
-
-
 **रुद्राश्च वसवश्चैव मरुतश्च महाबलाः॥५८॥**
 
 **विश्वे देवास्तथा साध्या दीप्यमानास्स्वतेजंसा॥५८॥**
@@ -17133,8 +15851,6 @@ MADRAS.
 
 **ततोऽश्मवर्षं सुमह्द् व्वसृजत् पाकशासनः।  
 भूय एव तदा वीर्यंजिज्ञासुस्सव्यसाचिनः ॥६६॥**
-
-
 
 **तच्छरैरर्जुनो वर्षं प्रतिजघ्नेऽत्यमर्षणः ॥६७॥**
 
@@ -17167,13 +15883,10 @@ MADRAS.
 \[समाप्तं च खाण्डवदाह पर्व\]  
 \[ अस्मिन्नध्याये ७३ श्लोकाः\]
 
-
-
 ॥ षोडशाधिकद्विशततमोऽध्यायः॥  
 ![](../../../books_images/U-IMG-1703470613Screenshot2023-12-2507460821454444411414141414.png)
 
 (अथ मयदर्शनपर्व)  
-
 
  देवेषु पराजितेषु अशरीरवाणीश्रवणेन इन्द्रस्य निवृत्तिः॥१॥ पलायमानं मयं हन्तुमुद्युक्ते श्रीकृष्णे अर्जुनं शरणं गताय भयाय तेन अभयदानम् ॥२॥ खाण्डवदाहेऽपि अश्वसेनादीनामदाहस्य वैशम्पायनेन कथनम्॥३॥ शार्ङ्गकाणां मोचनकारणे जनमेजयेन पृष्टे वैशम्पायनेन मन्दपालोपाख्यानकथनारम्भः॥४॥ तपसा पितृलोकं गतस्याप्यनवाप्ततपः फलस्य मन्दपालस्य देवाज्ञया प्रजोत्पादनार्थं पुन र्भूमावागमनम्॥५॥ तत्रशारङ्ग्यांजरितायांपुत्रचतुष्टयोत्पादनम् ॥६॥ सपुत्रांजरितां खाण्डवे विसृज्य लपितानाम्न्याऽन्यया शारङ्ग्या सङ्गतस्य मन्दपालस्य विप्ररूपाग्निदर्शनम्॥७॥ तस्य खाण्डवदिघक्षां ज्ञात्वा पुत्ररक्षणार्थ स्तुतादग्नेर्वरलाभः॥८॥ प्रज्वलदग्निदर्शनेन जरितायाः स्वपुत्रैस्संवादः॥९॥
 
@@ -17193,8 +15906,6 @@ MADRAS.
 उत्पातितेन[^562] शब्देन त्रासिता इव चाभवन्॥३॥
 
 [^562]: "क ग घ ङ—उत्पातनादशब्देन"
-
-
 
 **स्वतेजोभास्वरं चक्रम् उत्ससर्जातिवेगवत्।  
 तेनार्ता जातयः क्षुद्रास् सदानवनिशाचराः ॥४॥**
@@ -17225,8 +15936,6 @@ MADRAS.
 बभूवावस्थितः प्रीतः प्रशंसन् कृष्णपाण्डवौ ॥१२॥**
 
 **विनिवृत्तेषु देवेषु वागुवाचाशरीरिणी।**
-
-
 
 **शतक्रतुमभिप्रेक्ष्य तदा गम्भीरनिस्स्वना ॥**
 
@@ -17262,8 +15971,6 @@ MADRAS.
 
 **सम्प्रस्थितं महात्मानं सर्व एव दिवौकसः।**
 
-
-
 त्वरितास्सहिता राजन् अनुजग्मुश्शतक्रतुम् ॥२१॥
 
 देवराजं तदा यान्तं सह देवैरवेक्ष्य तु।  
@@ -17292,8 +15999,6 @@ MADRAS.
 
 तेन शब्देन वित्रेसुर् गङ्गोदधिचरा झषाः।  
 अप्सु न व्यचरंश्चैव तथाऽन्ये मृगपक्षिणः॥३०॥
-
-
 
 न त्वर्जुनं महाबाहुं नापि कृष्णं जगत्पतिम्।  
 निरीक्षितुं च शक्नोति कश्चिद्योद्धुंकुतः पुनः॥३१॥
@@ -17329,8 +16034,6 @@ MADRAS.
 
 [^565]: " ध—जिह्वया लेलिहानोऽग्निर् मयं दग्धुं तमन्वगात् "
 
-
-
 **अभिधायार्जुनेत्येवं मयश्चुक्रोश पाण्डवम् ॥३९॥**
 
 **तस्य भीतस्वनं श्रुत्वा मा भैरिति धनञ्जयः।  
@@ -17364,10 +16067,6 @@ MADRAS.
 
 **यदर्थं शार्ङ्गकानग्निर्न ददाह तथा गते।**
 
-
-
-
-
 **तत् ते सम्यग्यथावृत्तं कीर्तयिष्यामि भारत॥४८॥**
 
 **धर्मज्ञानां मुख्यतमस् तपस्वी संशितव्रतः।  
@@ -17400,8 +16099,6 @@ MADRAS.
 ब्रह्मचर्येण[^569] यज्ञेन प्रजया च न संशयः।**
 
 [^569]: "क-ग-ङ—प्रजाभिर्ब्रह्मचर्येण स्वाध्यायतपसा तथा । घ—ब्रह्मचर्येण यज्ज्ञेयं"
-
-
 
 **तदपाक्रियते[^570] सर्वं यज्ञेन तपसा सुतैः ॥५५॥**
 
@@ -17438,8 +16135,6 @@ MADRAS.
 तस्मिन् गते महाभागे लपितां प्रति भारत।  
 अपत्यस्नेहसंविग्नाजरिता बह्वचिन्तयत् ॥६२॥
 
-
-
 **तेन त्यक्तानसन्त्याज्यान् ऋषीनण्डगतान् वने।  
 नाजहात् पुत्रकानार्तान् जरिता खाण्डवे नृप॥६३॥**
 
@@ -17471,8 +16166,6 @@ MADRAS.
 तुभ्यं कृत्वा नमो विप्राः स्वकर्मविहितां गतिम्।  
 गच्छन्ति सह पत्नीभिस् सुतैरपि च शाश्वतीम् ॥७१॥
 
-
-
 **त्वामग्ने जलदानाहुः खे विषक्तान् सविद्युतः।  
 दहन्ति सर्वभूतानि त्वत्तो निष्क्रम्य हायताः॥७२॥**
 
@@ -17484,7 +16177,6 @@ MADRAS.
 
 **त्वमेव दहनो देव त्वं धाता त्वं बृहस्पतिः।  
 त्वमश्विनौ यमौ मित्रस् सोमस्त्वमसि चानिलः ॥७५॥**
-
 
 वैशम्पायनः[^575]—
 
@@ -17502,8 +16194,6 @@ MADRAS.
 [^576]: "घ—भार्यां रक्ष गृहं रक्ष पशून मे रक्ष सर्वदा। तपन्तु हेतयस्सर्वे हन्यादस्मात्सवाभिभो। सर्वत्रसर्वदाऽस्माकं शिवो भव हुताशन॥"
 
 तथेति तत् प्रतिश्रुत्य भगवान् हव्यवाहनः।
-
-
 
 **खाण्डवे तेन कालेनप्रजज्वाल दिधक्षया[^577] ॥७८॥**
 
@@ -17535,8 +16225,6 @@ MADRAS.
 
 कं नु त्यजाम्यहं पुत्रं कमादाय ब्रजाम्यहम्।  
 किं नु मे स्यात् कृतं कृत्वा मन्यध्वं पुत्रकाः कथम् ॥८५॥
-
-
 
 **चिन्तयानाऽपि मोक्षं वै नाधिगच्छामि किञ्चन।**  
 **छादयित्वा हि वो गात्रैः करिष्ये मरणं सह ॥८६॥**
@@ -17571,8 +16259,6 @@ MADRAS.
 **मा वै कुलविनाशाय स्नेहं कार्षीस्सुतेषु ते।  
 न हीदं कर्म मोघं स्याल् लोककामस्य नः पितुः॥९४॥**
 
-
-
  जरिता—
 
 **इदमाखोर्बिलं भूमौ वृक्षस्यास्य समीपतः।  
@@ -17606,8 +16292,6 @@ MADRAS.
 ॥२०॥ मयदर्शनपर्वणि प्रथमोऽध्यायः॥१॥  
 \[अस्मिन्नध्याये १०२ श्लोकाः\]
 
-
-
 ॥ सप्तदशाधिकद्विशततमोऽध्यायः॥
 
 पुत्रैस्सह संवादानन्तरं जरितायाः स्थानान्तरगमनम्॥१॥ जरितार्यादीनां चतुर्णां शार्ङ्गकाणां परस्परं संवादः॥२॥ स्तुत्या प्रसन्नेनाग्निना तेभ्योऽभयदानम्॥३॥ शार्ङ्गकाणां प्रार्थनया अग्निना मार्जाराणां दाहः॥४॥
@@ -17634,8 +16318,6 @@ MADRAS.
 
 **अहं वै श्येनमायान्तम् अद्राक्षं बिलमन्तिकात्।  
 सञ्चरन्तं समादाय जहाराखुं बिलाद्वली ॥५॥**
-
-
 
 **तं पतन्तमहं श्येनं त्वरिता पृष्ठमन्वगाम्।  
 आशिषोऽस्य प्रयुञ्जाना हरतो मूषिकं बिलात् ॥६॥**
@@ -17668,8 +16350,6 @@ MADRAS.
 पीड्यमाना स्मरस्यस्मान्[^581] का सती के वयं तव ॥१३॥**
 
 [^581]: "क-ग—भरस्य; घ—हरस्थ"
-
-
 
 **तरुणी दर्शनीयाऽसि समर्था भर्तुरेषणे।  
 अनुगच्छस्वभर्तारं पुत्राँल्लप्स्यसि शोभने ॥१४॥**
@@ -17708,8 +16388,6 @@ MADRAS.
 
 [^586]: " क-ग-घ-ङ—न प्रजानाति किञ्चन"
 
-
-
  शारिसृक्वः—
 
 **धीरस्त्वमसि मेधावी प्राणकृच्छ्रमिदं च नः।  
@@ -17745,8 +16423,6 @@ MADRAS.
 
 [^587]: "क-ग-ड—विपक्षा वयं कृशा भगवन् नः प्रसीद"
 
-
-
 न नस्त्राता विद्यते वै त्वदन्यस्  
 तस्मादस्मान् परिपाह्येकवीर ॥२७॥
 
@@ -17775,8 +16451,6 @@ MADRAS.
 
 **त्वमन्नंप्राणिनां भुङ्क्षेअन्तर्भूतो जगत्पते।  
 नित्यप्रवृद्धः पचसि त्वयि सर्वं प्रतिष्ठितम् ॥३३॥**
-
-
 
 **सूर्यो भूत्वा रश्मिभिर्जातवेदो  
 भूमेरम्भो भूमिजातान् रसांश्च।  
@@ -17807,8 +16481,6 @@ MADRAS.
 मन्दपालेन वै यूयं मम पूर्वं निवेदिताः।  
 वर्जयेः पुत्रकान् मह्यं दहन् दावमिति स्म ह ॥४०॥
 
-
-
 यच्च तद्वचनं तस्य त्वया यच्चेह भाषितम्।  
 उभयं[^589] मे गरीयस्तु ब्रूहि किं करवाणि ते ॥४१॥  
 भृशं प्रीतोऽस्मि भद्रं ते ब्रह्मन् स्तोत्रेण ते विभो ॥४२॥
@@ -17832,8 +16504,6 @@ MADRAS.
 इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्याम् आदिपर्वणि सप्तदशाधिकद्विशततमोऽध्यायः॥२१७॥  
 ॥२०॥ मयदर्शनपर्वणि द्वितीयोऽध्यायः॥२॥  
 \[अस्मिन्नध्याये ४४ श्लोकाः\]
-
-
 
 ॥ अष्टादशाधिकद्विशततमोऽध्यायः॥
 
@@ -17861,8 +16531,6 @@ MADRAS.
 सन्तप्यमाना भीता वा गमनायाभिधावती ॥५॥
 
 जरितारिः कथं पुत्रश् शारिसृक्कः कथं च व मे।
-
-
 
 **स्तम्बमित्रः कथं द्रोणः कथं सा च तपस्विनी॥६॥**
 
@@ -17895,8 +16563,6 @@ MADRAS.
 मच्छ त्वं जरितामेव यस्यार्थे परितप्यसे।  
 चरिष्याम्यद्य चैवैका यथा कापुरुषे रता॥१३॥
 
-
-
  मन्दपालः—
 
 **नाहमेवं चरे लोके यथा त्वमभिमन्यसे।  
@@ -17928,8 +16594,6 @@ MADRAS.
 गुरुत्वान्मन्दपालस्य तपसश्च विशेषतः।  
 अभिवादयामहे सर्वे जातपक्षाः प्रसादतः॥२१॥
 
-
-
 **एवमुक्तवतां तेषां प्रतिनन्द्य महातपाः।  
 परिष्वज्य च तान् सर्वान् मूर्ध्युपाघ्राय बालकान्॥२२॥**
 
@@ -17959,8 +16623,6 @@ MADRAS.
 
 **यत्र मां सर्वतो हीनाम् उत्सृज्यासि गतः पुरा।  
 तामेव लपितां गच्छ तरुणीं चारुहासिनीम्॥२८॥**
-
-
 
  मन्दपालः—
 
@@ -17995,8 +16657,6 @@ MADRAS.
 
 [^598]: "अ–क–ख–ग–ङ—कोशेष्वत्रैवाध्यायसमाप्तिर्दृश्यते।"
 
-
-
  मन्दपाल :—
 
 **युष्माकं परिरक्षार्थं विज्ञप्तो ज्वलनो मया।  
@@ -18026,8 +16686,6 @@ MADRAS.
 
 **कृतं युवाभ्यां कर्मेदम् अमरैरपि दुष्करम्।  
 वरान् वृणीतं तुष्टोऽस्मि दुर्लभानप्यमानुषान् ॥४३॥**
-
-
 
  वैशम्पायनः—
 
@@ -18062,8 +16720,6 @@ MADRAS.
 
 **युवाभ्यां पुरुषाग्र्याभ्यां तर्पितोऽस्मि यथासुखम्।**
 
-
-
 **अनुजानामि वां वीरौ भविता यत्र वाञ्छितम् ॥५१॥**
 
 **एव तौ समनुज्ञातापावकेन महात्मना।  
@@ -18091,8 +16747,6 @@ MADRAS.
 
 ॥ शुभमस्तु ॥
 
-
-
 ॥ श्रीरस्तु ॥  
 महाभारतस्य आदिपर्वद्वितीयसम्पुटस्थानाम्  
 ॥ अशुद्धानां शोधनम् ॥  
@@ -18115,8 +16769,6 @@ MADRAS.
 |   शतहास्त्रि   |    शतसहस्रि    |
 |    मन्दिरम्    |    मन्दरम?     |
 |    क्व गता     |    गता क्व     |
-
-
 
 |                 |               |
 |:---------------:|:-------------:|
@@ -18144,8 +16796,6 @@ MADRAS.
 |   एतछ्रुत्वा    | एतच्छ्रुत्वा  |
 |      चवै       |      चैव      |
 
-
-
 |                      |                   |
 |:--------------------:|:-----------------:|
 |       अशुद्धम्       |      शोधनम्       |
@@ -18171,8 +16821,6 @@ MADRAS.
 |         भाया         |      भार्यां      |
 |        व्यासः        |         —         |
 |       द्रोपदीं       |     द्रौपदीं      |
-
-
 
 |                          |                         |
 |:------------------------:|:-----------------------:|
@@ -18200,642 +16848,5 @@ MADRAS.
 |       भगवांत्सर्व       |       भगवानत्सर्व       |
 |        व्वसृजन्         |        व्यसृजत्         |
 
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^585]: अ–क–ख–ग–ङ—कोशेषु%20अत्रैवाध्यायसमाप्तिर्दृश्यते। "अ–क–ख–ग–ङ—कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते।"
-
-
-[^531]: अ–क–ख–ग–ङ—कोशेषु%20अत्रैवाध्यायसमाप्तिर्दृश्यते "अ–क–ख–ग–ङ—कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते"
-
-
-[^486]: अ–क–ख–ग—कोशेष्वत्रैवाध्यायसमाप्तिर्दृश्यते। "अ–क–ख–ग—कोशेष्वत्रैवाध्यायसमाप्तिर्दृश्यते।"
-
-
-[^458]: "घ—बृन्दा"
-
-
-[^417]: अ–क–ख–ग—कोशेषु%20अत्रैवाध्यायसमाप्तिर्दृश्यते। "अ–क–ख–ग—कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते।"
-
-
-[^387]: अ–क–ख–ग—कोशेषु%20अत्रैवाध्यायसमाप्तिर्दृश्यते%20। "अ–क–ख–ग—कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते ।"
-
-
-[^375]: अ-क-ख-ग—कोशेषु%20अत्रैवाध्यायसमाप्तिर्दृश्यते। "अ-क-ख-ग—कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते।"
-
-
-[^373]: अ-क-ख-ग—कोशेषु%20अत्रैवाध्यायसमाप्तिर्दृश्यते। "अ-क-ख-ग—कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते।"
-
-
-[^342]: अ–क–ख–ग—कोशेषु%20अत्रैवाध्यायसमाप्तिर्दृश्यते। "अ–क–ख–ग—कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते।"
-
-
-[^335]: अ–क–ख–ग—कोशेषु%20अत्रैवाध्यायसमाप्तिर्दृश्यते। "अ–क–ख–ग—कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते।"
-
-
-[^77]: "क-ख-ग—निष्पिषन्तौ"

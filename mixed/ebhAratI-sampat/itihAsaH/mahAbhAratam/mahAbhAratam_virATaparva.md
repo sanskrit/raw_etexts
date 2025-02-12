@@ -16,8 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwMzU2MjQxNTQ
 
 \[
 
-
-
 ॥श्रीरस्तु॥  
 
 ॥श्रीमन्महाभारतम्॥  
@@ -31,7 +29,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwMzU2MjQxNTQ
 पि. पि. सुब्रह्मण्यशास्त्रिभिः  
 दाक्षिणात्यशाखानुसारेण सविमर्शं संशोधितम्  
 
-
 [TABLE]
 
 चेन्नपुर्यां  
@@ -41,8 +38,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwMzU2MjQxNTQ
 
 रामस्वामिशास्त्रुलु अण्ड् सन्स्,  
 इत्येतैः सम्मुद्र्यप्रकाशितम्
-
-
 
 INTRODUCTION.
 
@@ -62,8 +57,6 @@ In the preparation of the Virāta Parvan for the press, the following seven manu
 
 घ—is used for additional readings, etc. The Manuscript was procured for us by Mr. K. K. Lakshminarayana Iyer of Kadayam village in the Tinnevelly District from Mr. Natesa Iyer.
 
-
-
 INTRODUCTION
 
 Its description is as follows:—Substance-- palm-leaf; Size-$14\\frac{1}{3}$× 1½ inches; Leaves- 132; Lines—9 to a page; Script-Grantha; Virāṭa Parvan complete; Date of transcription—January, 1825. A. D.
@@ -73,8 +66,6 @@ Its description is as follows:—Substance-- palm-leaf; Size-$14\\frac{1}{3}$× 
  च—is used for additional readings, etc. The manuscript belongs to Mr. R. S. Rajagopala Ayyar, Advocate, Trichinopoly, whose native village is Nalloor in the Tanjore District. This Manuscript was used in the preparation of the Grantha Edition of the text printed from Sarabhojirajapuram from 1895 A. D. onwards. Its description is as follows:— Substance-palm-leaf; Size-15¼ × 2¼ inches; Lines 18 to 20 to a page; Script-Grantha.
 
  म—is used for additional readings, etc. The Manuscript belongs to Brahma Sri Kesavaru of Manalikkara Mutt in the Travancore State The Manuscript was procured for us by Pandit Sambasiva Sastri, Curator of Orierntal Manuscripts, Trivandrum. Its description is as follows:—Substance palm-leaf; Size—\>; Script 11½× 2 inches; Lines—12 to a page Malayalam; Virāța Parvan complete; Date of transcription—Sunday, 15th March.1713. A. D.
-
-
 
 INTRODUCTION
 
@@ -87,23 +78,15 @@ From the Anukramaṇikādhyāya of the Ādi Parvan, it will be observed that, ac
 
 places in the body of the Text the deviations of the several manuscripts wherever they occur.
 
-
-
 In the tentative edition of the Virāța Parvan, already issued by the Bhandarkar Oriental Research Institute, Poona, Dr. Utgikar, the learned editor, has printed the text, dividing it into sixty-seven chapters. A careful examination of the scheme of chapters, both in the Northern and the Southern Recensions, reveals the process that has been responsible for the unnecessary multiplication of chapters. If the chapters are rearranged on the principle of grouping one or more chapters together, if either the Northern or the Southern Texts favour it, we easily arrive at the figure, sixty-seven, which is what has been fixed by the Anukramaṇikādhyāya, according to both Recensions. We have, therefore, printed the Text in sixty-seven chapters, observing the above principle. However, to illustrate the divergences at a glance, a Concordance exhibiting the scheme of chapters in the Northern Recension, according to the Poona Edition with Bhavadipa, the Mixed Recension, according to the Kumbakonam edition, and the Southern Recension, according to the Text printed herein, is appended.
 
 As for the total number of stanzas in the Virāṭa Parvan, we are happy to note that, according to our printed edition, the Virāta Parvan contains all the 3,500 stanzas claimed for it. The actual number of stanzas in all the (7 chapters, according to the Principal Text edited comes to 3283 stanzas. The additional stanzas, given as**अधिकपाठः**
 
 in the several footnotes, yield after re-examination as specified in the last page of the Text 217 stanzas making thus a total of 3,500 stanzas for the whole Virāṭa Parvan.
 
-
-
 ![](../books_images/U-IMG-1702373415fffffff.png)
 
-
-
 The principle underlying the editing of the tentative edition of the Virāṭa Parvan published by the Bhandarkar Oriental Research Institute -a principle that is being followed in the monumental critical edition of the Ādi Parvan published by the same Institute, is to arrive at the Principal Text by omitting most additions found in the Northern but not supported in the Southern as well as most additions found in the Southern but not found in the Northern Recensions. Such a process, though it may certainly lead us to a text that is common to both the Recensions, can at best give us only a Sangraha-Mahābhārata but surely not the Mahābhārata of Vyasa. Be this as it may, it is enough to point out that the several important and major additions found in the Southern Recension, but omitted in the Northern Recension, are all part and parcel of the text of the Virāṭa Parvan as known to Nannaya already in 1022 A.D. and to Vādirāja, the author of the Lakṣālankāra who flourished about 1339 A.D.
-
-
 
 INTRODUCTION
 
@@ -122,8 +105,6 @@ same appears as a separate chapter in the Northern Recension.
 
 \(6\) The Northern Recension omits in full chapter 65, where Uttarā advises Viraṭa to give away his sister Uttarā in marriage to Arjuna to pacify Yudhiṣṭhira and Virāṭa offers Uttarā accordingly.
 
-
-
 The Northern Recension omits the incidents narrated in stanzas 19½
 
 to 33½
@@ -141,8 +122,6 @@ We are glad to assure Dr. Winternitz that the author of the Lakṣālankāra is 
 
 “इति श्रीमन्महाभारते शतसाहस्त्रिकायां संहितायां वैयासिक्यां विराटपर्वणि श्रीमत्कविकुलतिलक श्रीमद्भागीशतीर्थश्रीमञ्चरणकरकमसञ्जातश्रीमद्वादिराजतीर्थपूज्यचरणकृतलक्षालङ्कारे पञ्चसप्ततितमोऽध्यायः॥ समाप्तं विराटपर्व॥ शुभम्॥”
 
-
-
 INTRODUCTION
 
 Vādirāja's contemporaneity with Vāgiśa Tirtha is thus established beyond doubt.
@@ -155,15 +134,11 @@ On page XXXV of his Preface to "A Descriptive Catalogue of Sanskrit Manuscripts 
 
 Proceeding on the basis that the enumeration in the Northern Recension is correct, Dr. Utgikar
 
-
-
 INTRODUCTION
 
 remarks that the additions found in the Southern Recension are all interpolations of a later date. It is the fashion with some scholars to believe that of two Texts, the leaner is the more genuine, whilst the larger is generally a later and an interpolated one. We are afraid that such a view with regard to the Mahābhārata text may not be either scientific or in consonance with tradition. We have already shown in our Introduction to Vol. II on pp. XI how the Mahābhārata text-tradition arose. In our journey backwards in tracing the history of the Mahābhārata Text, we find that Vādirāja who lived about three hundred years before Nilakantha, the author of the Bhavadipa, has already fixed the Southern Recension through his Lakśālaňkāra. Three hundred years earlier than Vādirāja, Nannaya Bhat has also fixed the authoritativeness and genuineness of the Southern Recension of the Mahābhārata in his Āndhra Bhāratamu. At least two or three hundred years earlier should have been the date by which theMahābhārata had probably spread to Insulindia, notably Java. The Javanese version of the Mahābhārata had already been made in the year 996 A. D. and an examination of this version has convinced Dr. Utgikar that "the Javanese version was made from the Southern Recension of the Virāṭa Parvan." The Javanese version is a general rendering of the Mahābhārata story in the Kavi language interspersed with *pratikas* from the Sanskrit original.
 
 It will thus be seen that whatever may be the exact nature of the Southern Recension, its text- tradition is sufficiently well authenticated and claims a pretty long antiquity. The question therefore is which is the more ancient and genuine version of
-
-
 
 INTRODUCTION
 
@@ -171,8 +146,6 @@ the Mahābhārata. the Northern with its comparatively thin content or the South
 
 It is, therefore, quite possible that the Southern Recension with its comparative fullness and authenticated, as it is, by its acceptance by a large line of authors and their works may yet prove to be the more genuine and authoritative version of Vyāsā's Mahābhārata.  
 ![](../books_images/U-IMG-1702571220Screenshot2023-12-14at20-54-28EditBookE-Bharatisampat.png)
-
-
 
 ॥श्रीरस्तु॥
 
@@ -203,8 +176,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |        |               द्रौपद्या स्वस्यास्मैरन्ध्रीभावेनावस्थानकथनम्                |
 |    ५    |              पाण्डवैरिन्द्रसेनादीन् प्रति द्वारकादिगमनचोदनम्               |
 
-
-
 |             |                                                                                                                                                                                                                         |
 |:-----------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **अध्यायः** | **विराटपर्वविषयानुक्रमणिका**                                                                                                                                                                                            |
@@ -224,8 +195,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |            | विराटेन युधिष्टिरस्य प्रत्युत्थानादिना सत्कारः                                                                                                                                                                          |
 |            | विराटस्य युधिष्टिरस्य च सल्लापः                                                                                                                                                                                         |
 |            | यतिरूपस्य युधिष्ठिरस्य विराटभवने निवासः                                                                                                                                                                                |
-
-
 
 |         |                                                                                |
 |:-------:|:------------------------------------------------------------------------------:|
@@ -256,8 +225,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |   १६    | कीचकगृहं प्रति प्रस्थितया द्वापद्या तेन स्वस्या अदूषणायसूर्यादिदेवताप्रार्थना |
 |        |                सूर्येणाद्रौपदीरक्षणाय निगूढस्य रक्षसः प्रेषणम्                |
 
-
-
 |         |                                                                                                           |
 |:-------:|:---------------------------------------------------------------------------------------------------------:|
 | अध्यायः |                                       **विराटपर्वविषयानुक्रमणिका**                                        |
@@ -280,8 +247,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |   १९    |                   भीमेन शोचन्तीं द्रौपदीं प्रति परमनारीणां निदर्शनपूर्वकं परिसान्त्वनम्                   |
 |        |                         द्रौपद्या भीमं प्रति अवश्यं झटिति कीचको हन्तव्य इति कथनम्                         |
 |   २०    | भीमेन द्रौपदीं प्रति कीचकमुद्दिश्य नर्तनशालायां रात्रावुभयोस्सङ्गमाय आगन्तव्यमिति सङ्केतं कुर्वित्युक्तिः |
-
-
 
 |         |                                                                                     |
 |:-------:|:-----------------------------------------------------------------------------------:|
@@ -309,8 +274,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |        |               पाण्डवान्वेषणाय दुर्योधनप्रहितैश्चारैस्मर्वत्रान्विष्य               |
 |        |    दुर्योधनाय पाण्डवानवगतिनिवेदनपूर्वकं विराटनगरे गन्धर्वैः कीचकवधवार्तानिवेदनम्    |
 
-
-
 |         |                                                                                                         |
 |:-------:|:-------------------------------------------------------------------------------------------------------:|
 | अध्यायः |                                        विराटपर्वविषयानुक्रमणिका                                        |
@@ -333,8 +296,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |        |                      भीमेन युधिष्ठिर चोदनया विराटस्य मोचनपूर्वकं सुशर्मणो ग्रहणम्                      |
 |        |                                 युधिष्ठिरेण करुणया सुशर्मणो विमोक्षणम्                                 |
 
-
-
 |             |                                                                                                             |
 |:-----------:|:-----------------------------------------------------------------------------------------------------------:|
 | **अध्यायः** |                                        **विराटपर्वविषयानुक्रमणिका**                                        |
@@ -356,8 +317,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |            |                                 उत्तरेणार्जुननिकटे मुञ्च मुञ्चेति प्रलापः                                  |
 |            | अर्जुनेनाहं कुरून योत्स्ये मम त्वं सारथिर्भवेति उत्तरसमाश्वासनेन गाण्डीवाद्यायुधाहरणाय श्मशान शमीसमीपगमनम् |
 
-
-
 |          |                                                                                                                                                                                   |
 |:--------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | अध्यायः |                                                                            विराटपर्व विषयानुक्रमणिका                                                                            |
@@ -378,11 +337,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |    ४०    | दुर्योधनेनार्जुनदर्शने पुनर्द्वादशवत्सरारण्यवासावश्यकर्तव्यत्वनिर्धारणेन अवश्यं युद्धञ्च करणीयमितिनिश्चयेन च द्रोणानादरपूर्वकं दुर्निमित्तानामन्यथा गतिकल्पनेन सैन्यप्रोत्साहनम् |
 |    ४१    |                                                               कर्णेनात्मश्लाघनपूर्वकमर्जुनपराभवनमिथ्याप्रतिज्ञानम्                                                                |
 
-
-
 [TABLE]
-
-
 
 |         |                                                                                                                                |
 |:-------:|:------------------------------------------------------------------------------------------------------------------------------:|
@@ -413,8 +368,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |        |                                         भीष्मार्जुनयो रणाय समागमे देवैस्तयोः प्रशंसनम्                                         |
 |        |                                                       भीष्मार्जुनयुद्धम्                                                       |
 
-
-
 |             |                                                                                                                                    |
 |:-----------:|:----------------------------------------------------------------------------------------------------------------------------------:|
 | **अध्यायः** |                                                   **विराटपर्व विषयानुक्रमणिका**                                                   |
@@ -437,8 +390,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |            |                                                कर्णभीष्मादिभिर्दुर्योधनस्य रक्षणम्                                                 |
 |            |                                                   अर्जुनेन सम्मोहनास्त्रप्रयोगः                                                    |
 |            |                                                        अर्जुनेन शङ्खध्मानम्                                                        |
-
-
 
 |             |                                                                                                           |
 |:-----------:|:---------------------------------------------------------------------------------------------------------:|
@@ -465,8 +416,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |            |                                           कङ्केन द्यूतनिषेधनम्                                            |
 |            |                                        विराटस्य कङ्केन द्यूतदेवनम्                                        |
 
-
-
 |         |                                                                                     |
 |:-------:|:-----------------------------------------------------------------------------------:|
 | अध्यायः |                              विराटपर्वविपयानुक्रमणिका                               |
@@ -491,8 +440,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |   ६३    | कुरुविजयदिनात् परेद्यवि प्रभाते युधिष्ठिरादिभी राजलक्षणधारणेन सिंहासनादिपूपवेशनम्  |
 |        |          विराटेन उत्तरेण सह सभामागम्य युधिष्ठिरं प्रति राजासनोपवेशनाक्षेपः          |
 
-
-
 |          |                                                                                                                                                                                                            |
 |:--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | अध्यायः |                                                                                         विराटपर्व विषयानुक्रमणिका                                                                                          |
@@ -511,8 +458,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |         |                                                                                        उत्तराया अभिमन्योश्च विवाहः                                                                                         |
 |         |                                                                                     विराटपर्व विषयानुक्रमणिका समाप्ता                                                                                      |
 
-
-
 ------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
@@ -521,13 +466,9 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ॥महाभारतम्॥  
 ॥४॥विराटपर्व॥४॥**
 
-
-
 ------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
-
-
 
 **॥श्रीः॥**
 
@@ -553,8 +494,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 पतिव्रता महाभागा सततं [धर्मचारिणी](http://1.%20ख—%20दुःखभागिनी%20अ-क%20-%20ङ—%20सत्यवादिनी। "1. ख— दुःखभागिनी अ-क - ङ— सत्यवादिनी।")।  
 द्रौपदी सा कथं ब्रह्मन्नज्ञाता दुःखमावसत्॥२॥
-
-
 
 **वैशम्पायन[^1]ः—**
 
@@ -589,8 +528,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अज्ञातवासं वत्स्यन्तश् छन्ना वर्षं त्रयोदशम्॥८॥
 
 [^5]: "5. क ख - ङ च-म—स्सत्यविक्रमाः घ—स्सत्यसङ्गराः "
-
-
 
 उपोपविश्य विद्वांसस् स्नातकास्संशितव्रताः॥८॥
 
@@ -628,8 +565,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^11]: ".6. क —हितस्तेषां विश्वासं गन्तुमर्हति  ख- घ- ङ - म — कस्तेषां विश्वासं गन्तुमर्हति।"
 
-
-
 अपि नस्तद्भवेद्भूयो यद्वयं ब्राह्मणैस्सह।  
 समस्तेष्वेव राष्ट्रेषु स्वराज्यं स्थापयेमहि॥१६॥
 
@@ -666,8 +601,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ॥२१॥
 
-
-
 दितिपुत्रैर्हृते[^16] राज्ये देवराजोऽपि दुःखितः।  
 ब्राह्मणं तोषयिष्यंश्च ब्रह्मरूपं विधाय च॥२२॥
 
@@ -695,8 +628,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 निर्दग्धा रिपवस्सर्वे वसता भुवि वर्षशः॥२९॥
 
 विष्णुना वसता चापि गृहे दशरथस्य च।
-
-
 
 दशग्रीवो हतश्छन्नं संयुगे भीमकर्मणा॥३०॥
 
@@ -735,8 +666,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^19]: "3. च— कोशे इदमर्धं नास्ति "
 
-
-
 सुखोपविष्टो[^20] विद्वद्भिस् तापसैस्संशितव्रतैः॥३७॥
 
 [^20]: "1. म — कोशे इत आरभ्य सार्धश्लोकचतुष्टयं नास्ति"
@@ -771,8 +700,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 सह धौम्येन विद्वांसस् तथा ते पञ्च पाण्डवाः।
 
-
-
 उत्थाय प्रययुर्वीराः कृष्णामादाय भारत॥४५॥
 
 क्रोशमात्रमतिक्रम्य तस्माद्वासान्निमित्ततः।  
@@ -791,8 +718,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ![](../books_images/U-IMG-1704303618Screenshot2023-12-16at00-03-20EditBookE-Bharatisampat.png)
 
- 
-
 युधिष्ठिरेण भ्रातृभिः सह मन्त्रेण विराटनगरे निवासनिर्धारणम्॥१॥ तथा स्वस्य यतिवेषपरिग्रहेण विराटसभास्तारीभवनकथनम्॥२॥
 
 ——————
@@ -808,8 +733,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 भ्रातृृन् कृष्णां च सम्प्रेक्ष्य धौम्यं च कुरुवर्धनः[^24]॥२॥
 
 [^24]: "2. क- च-म—कुरुनन्दनः। ङ— कुलवर्धनम्।"
-
-
 
 **युधिष्ठिरः—**
 
@@ -843,8 +766,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 यत्र ते रोचते राजंस् तत्र गच्छामहे वयम्।  
 कतमस्मिञ्जनपदे महाराज निवत्स्यसि॥९॥
 
-
-
 **युधिष्ठिरः[^27]—**
 
 [^27]: "1. ख -ग - ङ—मा विषादे मनः कार्य राज्यभ्रंश इति क्वचित्।"
@@ -875,8 +796,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 नरदेव कथं कर्म तस्य राष्ट्रे करिष्यसि।  
 मानुषेन्द्र विराटस्य रंस्यसे केन कर्मणा॥१६॥
-
-
 
 अक्लिष्टवेषधारी च धार्मिको ह्यनसूयकः।  
 न तवाभ्युचितं कर्म नृशंसं नापि कैतवम्॥१७॥
@@ -917,8 +836,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^33]: "4. क -ख - म —स्फाटिकांश्च मणींस्तथा।"
 
-
-
 अरिष्टान् राजगोलिङ्गान् दर्शनीयान् सुवर्चसः॥२४॥
 
 लोहिताश्चाश्मगर्भाश्च सन्ति तात धनानि मे।  
@@ -954,8 +871,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[अस्मिन्नध्याये ३१ श्लोकाः\]  
 
 \_\_\_\_\_\_\_
-
-
 
 ॥तृतीयोऽध्यायः॥  
 
@@ -995,8 +910,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^38]: "3. क– म— चातिपौरुषम्"
 
-
-
 त्वया हत्वा महाबाहो वनं निष्कण्टकं कृतम्॥५॥
 
 आपदं चापि सम्प्राप्ता द्रौपदी चारुहासिनी।  
@@ -1034,8 +947,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 आहरिष्यामि दारूणां पाटितानां शतं शतम्।
 
-
-
 राजा कर्माणि मे दृष्ट्वा न मां परिभविष्यति॥११॥
 
 ये च तस्य महामल्लास् समरेष्वपराजिताः।  
@@ -1068,8 +979,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 आसं युधिष्ठिरस्याहम् इति वक्ष्यामि मानुषान्॥१८॥
 
 [^49]: "घ— आरालिकोऽपूपकर्ता।"
-
-
 
 इत्येवं[^50] मत्प्रतिज्ञातं विहरिष्याम्यहं[^51] यथा॥  
 विराटनगरे च्छन्नो विराटस्य समीपतः॥१९॥
@@ -1108,8 +1017,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 राक्षसानां दशग्रीवो दैत्यानामिव शम्बरः।
 
-
-
 रुद्राणामिव कापाली विष्णुर्बलवतामिव॥२६॥
 
 रोषामर्षसमायुक्तो मुजङ्गानां च तक्षकः।  
@@ -1143,8 +1050,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 [^56]: "क- ख- म —ब्रह्मचर्यव्रते युक्तः सर्वशस्त्र"
 
 अवाप चास्त्रमस्त्रज्ञस् सर्व सर्वज्ञसम्मतः॥३४॥
-
-
 
 क्षिप्रं चाणु च चित्रं च ध्रुवं च वदतां वरः॥३४॥
 
@@ -1188,8 +1093,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^63]: "क- ख - ङ - च- म— तलपीडनात् '"
 
-
-
 किं तु कार्यवशादेतद्
 
 आचरिष्यामि कुत्सितम्।  
@@ -1215,8 +1118,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 स्त्रीभावसमुदाचारान्नृत्तगीतकथाश्रयैः।  
 छादयिष्यामि राजेन्द्र माययाऽऽत्मानमात्मना॥४७॥
-
-
 
 युधिष्ठिरस्य गेहेऽस्मिन द्रौपदीपरिचारिका।  
 उषिताऽस्मीति[^66] वक्ष्यामि धर्मराजस्य सम्मता॥४८॥
@@ -1254,8 +1155,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 [^68]: "क—किं त्वं नकुल कुर्वाणस् तस्य तात चरिष्यसि। ख- व- च-म— किंकर्मा॥"
 
 [^69]: " क- ख - घ- म—सुखैधितः। ङ—सुखोचितः।"
-
-
 
 अदुःखार्हश्च बालश्च लालितश्चापि नित्यशः।  
 सोऽयमार्तश्च शान्तश्च किं नु रोचयिता त्विह॥ર॥
@@ -1296,8 +1195,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 बृहस्पतिसमो बुद्धया नये चोशनसा समः।  
 मन्त्रैर्नानाविधैर्नीतः पथ्यैस्सुपरिनिष्ठितः॥८॥
 
-
-
 सुप्रणीतैस्सुमार्गस्थो राजतन्त्रमपालयत्॥८॥
 
 न चास्य स्खलितं[^73] किश्चिद् ददृशुस्तद्विदो जनाः।  
@@ -1333,8 +1230,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ॥
 
-
-
 निपुणश्च[^76] चरिष्यामि प्रीतिरत्र परा हि मे॥१५॥
 
 [^76]: " ख— निपुणं च चरिष्यामि। घ -ङ—निपुर्ण विचरिष्यामि। च-निपुणत्वं चरि"
@@ -1369,8 +1264,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 इयं तु नः प्रिया भार्या प्राणेभ्योऽपि गरीयसी।  
 मातेव परिपाल्या च पूज्या ज्येष्ठा स्वसेव च॥२२॥
 
-
-
 सुकुमारी सुशीला च राजपुत्री यशस्विनी।  
 कथं वत्स्यति कल्याणी विराटनगरे सती॥२३॥
 
@@ -1402,8 +1295,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 [^83]: "क-ख - घ- ङ -च-म — प्रमदाहारिका लोके पुरुषाणां प्रवासिनाम्।"
 
 कृता चैव सदा रक्षा व्रतेनैव नराधिप।
-
-
 
 सुदेष्णां
 
@@ -1443,8 +1334,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 पुरोहितोऽयमस्माकम् अग्निहोत्राणि रक्षतु।  
 सूदाः पौरोगवैस्सार्धं द्रुपदस्य निवेशने॥२॥
 
-
-
 इन्द्रसेनमुखाश्चैते रथानादाय केवलान्।  
 यान्तु द्वारवतीं शीघ्रम् इति मे वर्तते मतिः॥३॥
 
@@ -1478,8 +1367,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 दुर्वासं चैव कर्तव्यं जातेन कुरुवेश्मनि।  
 अमानितेन मानार्ह गूढेन परिवत्सरम्॥९॥
-
-
 
 पाण्डवाग्निरयं लोके सर्वशस्त्रमयो महान्।  
 भर्ता गोप्ता च भूतानां राजा पुरुषविग्रहः॥१०॥
@@ -1515,8 +1402,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 स्वभूमौ काममासीत तिष्ठेद्वा राजसन्निधौ।
 
-
-
 न त्वेवासनमन्यस्य प्रार्थयेत कदाचन॥१८॥
 
 परासनगतं ह्येनं परस्य परिचारकाः।  
@@ -1551,8 +1436,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 यो वै गृहेभ्यः प्रवसन् क्रियमाणमनुस्मरेत्।  
 उत्थाने नित्यसङ्कल्पो निस्तन्द्रीस्संयतात्मवान्॥२५॥
 
-
-
 परीतः क्षुत्पिपासाभ्यां विहाय परिदेवनम्।  
 दुःखेन सुखमन्विच्छेद् यो राजवसतिं वसेत्॥२६॥
 
@@ -1586,8 +1469,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^99]: "अ-ध — कोशयोः अयं श्लोको नास्ति।"
 
-
-
 न मिथो भाषितं राज्ञो मनुष्येषु प्रकाशयेन्।  
 यं चासूयन्ति राजानः पुरुषं न वदेच्च तम्॥३४॥
 
@@ -1616,8 +1497,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 हर्षाद्धिमन्दः पुरुषम् स्वैरं कुर्वीत वैकृतम्।  
 तस्य चान्तःपुरे वृत्तम् ईक्षाङ्कुर्वीत भूमिपः॥४२॥
-
-
 
 अन्तःपुरगतं ह्येनं स्त्रियः क्लीबाश्च सर्वशः।  
 वर्तमानं यथावच्च कुत्सयेयुरसंशयम्॥४३॥
@@ -1648,8 +1527,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तुल्यभोगं हि राजा तु भृत्यं कोपेन योजयेत्॥५०॥
 
 न चापत्येन सम्प्रीतिं राज्ञः कुर्वीत केनचित्।
-
-
 
 अधिक्षिप्तमनर्थं च द्वोन्यं च परिवर्जयेत्॥५१॥
 
@@ -1685,8 +1562,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^105]: " क— कारणादिव। ङ —कारणानि च।"
 
-
-
 तैश्च सामन्तदूतैश्च न संसज्जेत[^106] कर्हिचित्॥५९॥
 
 [^106]: " क- म — पूज्यमानो मुनिर्भवेत्। ख — न स सज्जेत कर्हिचित्।"
@@ -1720,8 +1595,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 न प्रशंसेन्न चासूयेत् प्रियेषु च हितेषु च।  
 स्तूयमानेषु वा तत्र दूष्यमाणेषु वा पुनः॥६७॥
 
-
-
 अथ सन्दृश्यमानेषु प्रियेषु च हितेषु च।  
 श्रूयमाणेषु वाक्येषु वर्णयेदमृतं यथा॥६८॥
 
@@ -1754,8 +1627,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 संवत्सरमिमं तावद् एवंशीला बुभूपत।
 
-
-
 ततस्स्वविषयं प्राप्य यथाकामं चरिष्यथ॥७६॥
 
 **वैशम्पायनः—**
@@ -1786,8 +1657,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अभिवाद्य ततस्सर्वे प्रस्थातुमुपचक्रमुः[^114]॥
 
 [^114]: "क — प्रावन सह कृष्णया।"
-
-
 
 **युधिष्ठिरः—**
 
@@ -1826,8 +1695,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^118]: "क- म— कालिन्दी"
 
-
-
 वसाना वनदुर्गेषु रमणीयेषु धन्विनः।  
 पल्वलेषु च रम्येषु नदीनां सङ्गमेषु च॥९॥
 
@@ -1860,8 +1727,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 युधिष्ठिरः—
 
 इमां कमलपत्राक्षीं द्रौपदीं माद्रिनन्दन।
-
-
 
 बाहुभ्यां[^120] परिगृहौनां मुहूर्त नकुल व्रज॥१७॥
 
@@ -1899,8 +1764,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 एहि वीर विशालाक्ष वीरसिंह इवार्जुन॥२३॥
 
-
-
 इमां कमलपलाक्षीं द्रौपदीं द्रुपदात्मजाम्।  
 परिगृह्य मुहूर्तं त्वं बाहुभ्यां कुशलं व्रज॥२४॥
 
@@ -1930,8 +1793,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 सायुधा हि वयं तात प्रवेक्ष्यामः पुरं यदि।  
 समुद्वेगं जनस्यास्य करिष्यामो न संशयः॥३०॥
-
-
 
 गाण्डीवं हि नरव्याघ्र त्रिषु लोकेषु विश्रुतम्।  
 कथं नाविष्कृतास्यामो धार्तराष्ट्रस्य मारिप॥३१॥
@@ -1964,8 +1825,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 उद्बन्धमिव कृत्वा च धनुर्ज्यापाशसंवृतम्॥३८॥
 
 अस्यामायुधमासज्य गच्छाम नगरं वयम्॥३८॥
-
-
 
 एवं परिहरिष्यन्ति मनुष्या वनचारिणः।
 
@@ -2001,8 +1860,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ॥
 
-
-
 येन वीरः कुरुक्षेत्रम् अभ्यरक्षत परन्तपः।  
 जृम्भिते च धनुश्श्रेष्ठे न्यासार्थ नृपसत्तमः॥४६॥
 
@@ -2033,8 +1890,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 नकुलं पुनराहूय धर्मराजो युधिष्ठिरः।  
 उवाच येन सङ्ग्रामे सर्वाञ् शत्रूञ्जिघांससि॥५४॥
-
-
 
 सुराष्ट्राञ्जितवान् येन शार्ङ्गगाण्डीवसन्निभम्।  
 सुवर्णविकृतं सारम् इन्द्रायुधनिभं वरम्॥५५॥
@@ -2068,8 +1923,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 आरोह यावदेतानि निधातुं विहगैर्वृताम्।  
 शमीमारुह्य महतीं निक्षिपाद्यायुधानि नः॥६३॥
 
-
-
 स हि धर्मेण धर्मात्मा तथा घोरतरे वने।  
 तान्यायुधान्युपादाय[^134] प्रोवाच[^135] मधुराक्षरम्॥६४॥
 
@@ -2100,8 +1953,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वनस्पतीनां च सपर्वतानाम्[^137]॥६९॥
 
 [^137]: " अ - ङ— सरित्पतीनाम्।"
-
-
 
 एष न्यासो मया न्यस्तम्[^138] सूर्यसोमानिलान्तिके।  
 मह्यं पार्थाय वा देयं पूर्णे वर्षे त्रयोदशे॥७०॥
@@ -2134,8 +1985,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 आगोपालाविपालेभ्यः कर्पकेभ्यः परन्तपाः।  
 आजग्मुर्नगराभ्याशं श्रावयन्तः पुनः पुनः॥७६॥
-
-
 
 अशीतिशतवर्षेयं माताऽस्माकमिहान्तिके।  
 हन्त[^141] कालपरीणामा मृत्योस्तु वशमेयुषी॥७७॥
@@ -2170,8 +2019,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तानि वीरो यथा[^144] चक्रे निरासाद्यानि सर्वशः॥८३॥
 
 [^144]: " क- ख- ङ- च-म —यदा जानाशिराबाधानि सर्वशः। घ—महाराज निराबाधानि सर्वशः।"
-
-
 
 पुनः पुन स्स[^145] सम्प्रेक्ष्य कृत्वा सुदृढमग्रतः॥८४॥
 
@@ -2210,8 +2057,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 वने विचरमाणानां लुब्धानां वनचारिणाम्।
 
-
-
 कुलधर्मोऽयमस्माकं पूर्वैराचरितः पुरा॥९१॥
 
 एवं ते समयं कृत्वा समन्तादवघुष्य च।  
@@ -2238,8 +2083,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 **![](../books_images/U-IMG-1705732553Screenshot2024-01-16at15-36-48EditBookE-Bharatisampat.png)**
 
-
-
 युधिष्ठिरेण यतिवेषपरिग्रहेण विराटसभाप्रवेशः॥१॥प्रत्युत्थानादिना सत्कृतेन युधिष्ठिरेण विराटभवने निवासः॥२॥
 
 ![](../books_images/U-IMG-1705732904Screenshot2024-01-20064116.png)
@@ -2252,8 +2095,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 महर्षिगन्धर्वनिषेवितोदकाम्।
 
 [^151]: " क - ङ—पुण्यजलां।"
-
-
 
 त्रिलोककान्तामवतीर्य जाह्नवीम्  
 ऋषीश्च देवांश्च पितॄनतर्पयन्॥१॥
@@ -2279,8 +2120,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 परिष्वजंश्चाह तथैव सौहृदात्।  
 वृणीष्व यद्वाञ्छसि पाण्डुनन्दन  
 स्थितोऽन्तरिक्षे वरदोऽस्मि पश्य माम्॥५॥
-
-
 
 स वै मयोक्तो वरदः पिता प्रभुस्  
 सदैव मे धर्मरता मतिर्भवेत्।  
@@ -2312,8 +2151,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 श्शिखी  
 पवित्रपाणिर्ददृशे तदाऽद्भुतम्॥९॥
 
-
-
 तथैव तेपामपि धर्मचारिणां  
 यथोचितार्हाभरणाम्बरस्त्रजः[^156]।  
 क्षणेन राजन्नंभवन्महात्मनां  
@@ -2340,8 +2177,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 गजैरुदीर्णैस्तुरगैश्च सङ्कुलं  
 मृगद्विपैः कुब्जगणैस्समावृतम्।
-
-
 
 सितोच्छ्रितोष्णीषनिरुद्धमूर्धजं  
 
@@ -2374,8 +2209,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सचन्द्रनक्षत्र इवांशुमान् ग्रहः॥१७॥
 
 [^161]: "ख- घ- ङ— विरोचते।"
-
-
 
 न दृश्यतेऽस्यानुचरो न कुञ्जरो  
 न चोष्णरश्म्यावरणं समुच्छ्रितम्।  
@@ -2411,8 +2244,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^164]: " ख—स चास्य सर्वः"
 
-
-
 प्रियं च मे दर्शनमीदृशे जने  
 द्विजेषु मुख्येषु तथाऽतिथिष्वपि॥२२॥
 
@@ -2444,8 +2275,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^168]: "क-ख-घ-म—ऽभिमुखः"
 
-
-
 तमब्रवीत् प्राञ्जलि रेव[^169] पार्थिवो  
 विराटराजो मधुराक्षरं वचः॥२६॥
 
@@ -2474,8 +2303,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 सर्वा च भूमिं तव दातुमुत्सहे  
 सदण्डकोशं विसृजामि ते पुरम्।
-
-
 
 कस्यासि[^173] राज्ञो विषयादिहागतः  
 किं कर्म चात्राचरसि द्विजोत्तम॥३०॥
@@ -2510,8 +2337,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ममेह पञ्चेन्द्रियगात्रदर्शिनो  
 वदन्ति पञ्चैव पितॄन् यथाश्रुति॥३३॥
 
-
-
 मनुष्यजातित्वमचिन्तयन्नहं  
 न चास्मि तुल्यः पितृभिस्स्वभावतः।  
 कङ्को हि नाम्ना विषयं तवागतो  
@@ -2541,8 +2366,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सोऽहं पुरा तस्य वयस्समस्सखा  
 चरामि सर्वां वसुधां सुदुःखितः।
 
-
-
 न वै प्रशान्तिं व्कचिदाप्तवानहं  
 व्रतोपदेशान्नियमेन हारितः[^181]॥३८॥
 
@@ -2571,8 +2394,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 संवत्सरेणेह समाप्यते त्विदं  
 मम व्रतं दुष्करकर्मकारिणः।
-
-
 
 ततो भवन्तं परितोष्य कर्मभिः  
 पुनर्व्रजिष्यामि कुतूहलं यतः॥४२॥
@@ -2605,8 +2426,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 समानयानासनवस्त्रभोजनं  
 प्रभूतमाल्याभरणानुलेपनम्।
 
-
-
 म सार्वभौमोपम सर्वदाऽर्हसि  
 प्रियं हि मन्ये तव नित्यदर्शनम्॥४६॥
 
@@ -2635,8 +2454,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 व्रतोपदेशात् समयो हि नैष्ठिको  
 न क्रोधितव्यं नरदेव कस्यचित्।
-
-
 
 एवंप्रतिज्ञस्य ममेह भूपते  
 निवासबुद्धिर्भविता तु नान्यथा॥५०॥
@@ -2674,8 +2491,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ![](../books_images/U-IMG-1707220871Screenshot2024-01-20064116.png)
 
-
-
 **॥ अष्टमोऽध्यायः॥**
 
 ![](../books_images/U-IMG-1707223033Screenshot2024-01-16at15-36-48EditBookE-Bharatisampat.png)
@@ -2707,8 +2522,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^196]: " स्वजं च दर्विं च करेण धारयन्नसिं च कालयसकोशमव्रणम्॥ [सर्वेषु कोशेषु अधिकः पाठः पुनरुत्कश्च ]"
 
-
-
 सभागतो वारणयूथपोपमस्  
 तमिस्रहा रात्रिमिवावभासयन्।  
 सहस्रनेत्रावरजान्तकोपमस्  
@@ -2739,8 +2552,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^198]: "क- ख -घ— मिमाम्।"
 
-
-
 व्यूढान्तरांसो मृगराडिवोत्कटो  
 य एप दिव्यः पुरुपः प्रकाशते।  
 राजश्रिया ह्येष विभानि राजवद्  
@@ -2769,8 +2580,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ततो नृपं वाक्यमुवाच पाण्डवो  
 यथाऽऽनुपूर्व्यात् कृपयाऽन्वितोत्तरम्॥११॥
-
-
 
 **भीमः—**
 
@@ -2804,18 +2613,16 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^202]: "क- ख- घ-ङ- च-म— शीविष"
 
-
-
 अनीककर्णाग्रधरो ध्वजी रथी  
-[भवार्य](http://॑ "1. क–ख–ङ– च–म–भवाद्य") मे वारणवाहिनीपतिः।  
+[भवार्य]("1. क–ख–ङ– च–म–भवाद्य") मे वारणवाहिनीपतिः।  
 न नीचकर्मा भवितुं त्वमर्हसि  
 प्रशासितुं भूमिमिमां त्वमर्हसि॥१७॥
 
 भीमः—
 
 चतुर्थवर्णोऽस्म्यहमित्युवाच तं  
-[नान्यं](http://॑ "2. क– ख– घ –ङ –च– म– न वै") वृणे त्वामहमीदृशं पदम्।  
-जात्या [हि](http://॑ "3. क- ख - घ- ङ- च- म -ऽस्मि शूद्रो वललेति") शूद्रो वललो हि नाम्ना  
+[नान्यं]("2. क– ख– घ –ङ –च– म– न वै") वृणे त्वामहमीदृशं पदम्।  
+जात्या [हि]("3. क- ख - घ- ङ- च- म -ऽस्मि शूद्रो वललेति") शूद्रो वललो हि नाम्ना  
 जिजीविपुस्त्वद्विषयं समागतः॥१८॥
 
 युधिष्ठिरस्यास्मि महानसे पुरा  
@@ -2827,8 +2634,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 भवामि तेऽहं नरदेव सूपकृत्।  
 बलेन तुल्यश्चन विद्यते मया  
 नियुद्धशीलोऽस्मि सदा हि पार्थिव॥२०॥
-
-
 
 गजांश्च सिंहांश्च समेयिवानहं  
 सदा करिष्यामि तवानघ प्रियम्।  
@@ -2847,7 +2652,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 विराटः—
 
-एवं न मन्ये तव कर्म [कुत्सितं](http://॑ "1. अ–ख – घ– ङ–म— तत्समं")  
+एवं न मन्ये तव कर्म [कुत्सितं]("1. अ–ख – घ– ङ–म— तत्समं")  
 समुद्रनेमिं पृथिवीं त्वमर्हसि।  
 त्रिलोकपालो हि यथा विरोधते  
 तथाऽद्य मे विष्णुरिवाभिरोचसे॥२३॥
@@ -2855,9 +2660,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 यथा तु कामस्तव तत् तथा कृतं  
 महानसे मे भव वै पुरस्कृतः।  
 नराश्च मे तत्र मया सदाऽर्चिता  
-[भवस्व](http://॑ "2. अ–ख – घ– ङ– च–म — भवाद्य") तेपामधिपो मया कृतः॥२४॥
-
-
+[भवस्व]("2. अ–ख – घ– ङ– च–म — भवाद्य") तेपामधिपो मया कृतः॥२४॥
 
 **वैशम्पायनः—**
 
@@ -2888,10 +2691,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 प्रवालचित्रे प्रविमुच्य कुण्डले  
 उमे चकम्बू परिपातुके तथा॥१॥
 
-[कृष्णे](http://॑ "1. म — इदमर्धं नास्ति") च रक्ते च निबध्य वाससी  
+[कृष्णे]("1. म — इदमर्धं नास्ति") च रक्ते च निबध्य वाससी  
 शरीरवाञ् छक्रबृहस्पतिप्रभः।
-
-
 
 बहूंश्चदीर्घांश्च विकीर्य मूर्धजान्  
 महाभुजो मत्तगजेन्द्रविक्रमः॥२॥
@@ -2913,12 +2714,10 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 विराटः—
 
-गजेन्द्र [शीलो](http://॑ "1. क–घ–च–म— लीलो") मृगराजगामी  
+गजेन्द्र [शीलो]("1. क–घ–च–म— लीलो") मृगराजगामी  
 वृपेक्षणो देवसुतोग्रतेजाः।  
 पीनांसबाहुः कनकावदातः  
 कोऽयं नरो मे नगरं प्रविष्टः॥६॥
-
-
 
 किमेष देवेन्द्रसुतः किमेप  
 ब्रह्मात्मजो वा किमयं स्वयम्भूः।  
@@ -2935,16 +2734,14 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 बृहन्नला—
 
 वेणीं प्रकुर्यां रुचिरे च कुण्डले  
-[तथा](http://॑ "1. क– ख – च– म— ग्रथे") स्रजः प्रावरणानि संहरे।  
-[स्नानं](http://॑ "2. क— स्थानं रचेयं । ख– घ– म— स्नानं रचयं")चरेयं विमृजे च दर्पणं  
+[तथा]("1. क– ख – च– म— ग्रथे") स्रजः प्रावरणानि संहरे।  
+[स्नानं]("2. क— स्थानं रचेयं । ख– घ– म— स्नानं रचयं")चरेयं विमृजे च दर्पणं  
 विशेषकेष्वेव चकौशलं मम॥९॥
 
 क्लीवेषु बालेषु जनेषु नर्तने  
 शिक्षाप्रदानेषु च योग्यता मम।  
 करोमि वेणीषुच पुष्पपूरणं  
 न मे स्त्रियः कर्मणि कौशलाधिकाः॥१०॥
-
-
 
 **वैशम्पायनः—**
 
@@ -2955,25 +2752,23 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 नार्हस्तु वेपोऽयमनूर्जितस्ते  
 नापुंस्त्वमर्हो नरदेवसिंह।  
-[तवैषं](http://॑ "1. म — तवैष वेषोऽशुभवेषभूषणैर् विभूषितो भूतपतेरिव प्रभोः ।") वेपश्शुभवेषभूषणैर्  
+[तवैषं]("1. म — तवैष वेषोऽशुभवेषभूषणैर् विभूषितो भूतपतेरिव प्रभोः ।") वेपश्शुभवेषभूषणैर्  
 विभूषितो भूतपतेरिव प्रभो॥११॥
 
 विभाति भानोरिव रश्मिमालिनो  
-घनावरुद्धे गगने [घनैरिव](http://॑ "2. क– ख– घ – म— रवेरिव")।  
+घनावरुद्धे गगने [घनैरिव]("2. क– ख– घ – म— रवेरिव")।  
 धनुर्हि मन्ये तव शोभयेद्भुजौ  
 तथा हि पीनावतिमात्रमायतौ॥१२॥
 
 प्रगृह्य चापं प्रतिरूपमात्मनो  
-रक्षस्व देशं पुरमद्य [संश्रितः](http://॑ "3. क — सुस्थितः । ख – घ – ङ – च– म— सुस्थिरः ।")।  
+रक्षस्व देशं पुरमद्य [संश्रितः]("3. क — सुस्थितः । ख – घ – ङ – च– म— सुस्थिरः ।")।  
 पुत्रेण तुल्यो भव मे बृहन्नले  
 वृद्धोऽस्मि वित्तं प्रतिपादयामि ते॥१३॥
 
 त्वं रक्ष मे सर्वमिदं पुरं प्रभो  
 न पण्डतां काञ्चन लक्षयामि ते।
 
-
-
-प्रशाधि मत्स्यांस्तरसा [विवर्धयन्](http://॑ "1. म — ऽभिवर्धयन् ददानि राज्यं तव सत्यवानहम् ।")  
+प्रशाधि मत्स्यांस्तरसा [विवर्धयन्]("1. म — ऽभिवर्धयन् ददानि राज्यं तव सत्यवानहम् ।")  
 ददामि राज्यं तव सत्यवागहम्॥१५॥
 
 वैशम्पायनः—
@@ -2981,7 +2776,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तस्याग्रतस्स्वानि धनूंषिपार्थिवो  
 बहूनि दीर्घाणि च वर्णवन्ति च।  
 ददौ स सज्यानि बलान्वितानि  
-[जिज्ञासमानः](http://॑ "2. क– म — जिज्ञासनार्थ किमयं करोति च ।") किमयं करिष्यति॥१६॥
+[जिज्ञासमानः]("2. क– म — जिज्ञासनार्थ किमयं करोति च ।") किमयं करिष्यति॥१६॥
 
 ततोऽर्जुनः क्लीबतरं वघोऽब्रवी-  
 न्न मे धनुर्धारितमीदृशं प्रभो।  
@@ -2990,14 +2785,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 नृत्यामि गायामि च वादयाम्यहं  
 प्रनर्तने कौशलनैपुणं मम।  
-तदुत्तरायाः परिधत्स्व [नर्तने](http://॑ "3. क–म — नर्तनं भवामि तऽहं नरदेव नर्तनाम् ? । ख–घ—नर्तकं ड — तदुत्तरायां परिधत्स्व नर्तकम् ।")  
+तदुत्तरायाः परिधत्स्व [नर्तने]("3. क–म — नर्तनं भवामि तऽहं नरदेव नर्तनाम् ? । ख–घ—नर्तकं ड — तदुत्तरायां परिधत्स्व नर्तकम् ।")  
 भवामि देव्या नरदेव नर्तकी॥१८॥
-
-
 
 **विराटः—**
 
-[ददामि](http://॑ "1. म— ददानि ") ते तं हि वरं बृहन्नले  
+[ददामि]("1. म— ददानि ") ते तं हि वरं बृहन्नले  
 सुतां हि मे नर्तय याच तादृशीः॥१८॥
 
 [वैशम्पायन](http://॒॑ "2. क — इदं तु कर्मसमं न चैतत् । समुद्रनेमिं पृथिवीं त्वमर्हसि ॥ [अधिकः पाठः]")ः—
@@ -3012,15 +2805,13 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 प्रकामभक्ष्याभरणाम्बरा शुभा  
 चरत्वियं सर्वजनेष्ववारिता।  
-[न](http://॑ "3. ङ — प्रिया हि ते दर्शनतोऽपि सम्मता ब्रवीतु कश्चिद्यदि दृष्टवानिमाम् ।") दुष्कुलीना त्वियमाकृतिर्भवे-  
+[न]("3. ङ — प्रिया हि ते दर्शनतोऽपि सम्मता ब्रवीतु कश्चिद्यदि दृष्टवानिमाम् ।") दुष्कुलीना त्वियमाकृतिर्भवे-  
 न्न वृत्तभेदी भवतीदृशो जनः॥२०॥
 
 तथा समादिश्य सुतां नराधिपः  
 प्रवेश्यतां साधु गृहं तवेति च।  
 स शिक्षयामास च गीतवादितं  
 सुतां विराटस्य धनञ्जयः प्रभुः॥२१॥
-
-
 
 सखीश्च तस्याः परिचारिकास्तथा  
 प्रियश्च तस्याः प्रबभूव पाण्डवः॥२२॥
@@ -3052,8 +2843,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तमापतन्तं ददृशुः पृथग्जनाः  
 प्रमुक्तमभ्रादिव चन्द्रमण्डलम्॥१॥
 
-
-
 स वै हयानैक्षत तानितस्ततस्  
 समीक्षमाणं च ददर्श मत्स्यराट्।  
 दृष्ट्वा तथैनं स कुरूत्तमं ततः  
@@ -3061,12 +2850,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 विराटः—
 
-[को](http://॑ "1. अ—अयं श्लोको नास्ति") वा विजानाति पुराऽस्य दर्शनं  
+[को]("1. अ—अयं श्लोको नास्ति") वा विजानाति पुराऽस्य दर्शनं  
 योऽयं युवाऽभ्येति हि मामिकां सभाम्।  
 प्रियो हि मे दर्शनतोऽपि सम्मतो  
 ब्रवीतु कश्चिद्यदि दृष्टवानिमम्॥३॥
 
-[अयं](http://॑ "2. अ– क— अयं श्लोको नास्ति । म —कोऽयं हयान् पश्यति मामकानसौ") हयान् पश्यति मामकान् मुहुर्  
+[अयं]("2. अ– क— अयं श्लोको नास्ति । म —कोऽयं हयान् पश्यति मामकानसौ") हयान् पश्यति मामकान् मुहुर्  
 ध्रुवं हयज्ञो भविता विचक्षणः।  
 प्रवेश्यतामेप समीपमाशु वै  
 विभाति वीरो हि यथाऽमरस्तथा॥४॥
@@ -3074,11 +2863,9 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वैशम्पायनः—
 
 वितर्कयत्येव हि मत्स्यराजनि  
-त्वरन् कुरूणामृपभ[स्सभामगात्](http://॑ "3. क– ख– घ— स्समागतः । म— स्समागमत्")।  
+त्वरन् कुरूणामृपभ[स्सभामगात्]("3. क– ख– घ— स्समागतः । म— स्समागमत्")।  
 ततः प्रणम्योपनतः कुरुत्तमो  
 विराटराजानमुवाचपार्थिवम्॥५॥
-
-
 
 **नकुलः—**
 
@@ -3089,7 +2876,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 विराटः—
 
-ददानि यानानि [धनानि](http://॑ "1. क– ख– ङ–म— धनं निवेशनं") वेशनं  
+ददानि यानानि [धनानि]("1. क– ख– ङ–म— धनं निवेशनं") वेशनं  
 न मेऽश्वसूतो भवितुं त्वमर्हसि।  
 कुतोऽसि कस्यासि कथं त्वमर्हसि  
 ब्रवीहि शिल्पं तव विद्यते च यत्॥७॥
@@ -3107,11 +2894,9 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 जानंस्तु मामाह स चापि पाण्डवो  
 युधिष्ठिरो ग्रन्थिकमेव नामतः॥१०॥
 
-
-
 मातलिरिव देवपतेर्  
 दशरथनृपतेस्सुमन्त्र इव यन्ता।  
-[सुमह](http://॑ "1. क — सहसाहो जमदग्नेः । ङ – म — साहस इव जमदग्नेः ।") इव जामदग्नेस्  
+[सुमह]("1. क — सहसाहो जमदग्नेः । ङ – म — साहस इव जमदग्नेः ।") इव जामदग्नेस्  
 तथैव तव शिक्षयाम्यश्वान्॥११॥
 
 युधिष्ठिरस्य राजेन्द्र नरराजस्य शासनात्।  
@@ -3133,8 +2918,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 समं तवेदं प्रियदर्श दर्शनम्।  
 कथं नु भृत्यैस्स विनाकृतो वने  
 चरत्यनिन्द्यो रमते च पाण्डवः॥१५॥
-
-
 
 वैशम्पायनः—
 
@@ -3168,16 +2951,14 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 नमाव्रजन्तं सहदेवमग्रणीर्  
 नृपो विराटो नचिरात् समैक्षत।
 
-
-
-प्रक्षन्त तं तत्व पृथक् [समागतास्](http://॑ "1. अ– च– क्रमा । घ– सभा")  
-सभासद [स्सर्वमनोहरप्रभम्](http://॑ "2. ङ – स्सर्वमनोरथप्रियम्")॥२॥
+प्रक्षन्त तं तत्व पृथक् [समागतास्]("1. अ– च– क्रमा । घ– सभा")  
+सभासद [स्सर्वमनोहरप्रभम्]("2. ङ – स्सर्वमनोरथप्रियम्")॥२॥
 
 युवानमायान्तममित्रकर्शनं  
 प्रमुक्तमभ्रादिव चन्द्रमण्डलम्॥२॥
 
 यष्ट्या प्रमाणान्वितया सुदर्शनं  
-[दामानि](http://॑ " 3. क– ड– म – दामानि कीलांश्च । घ– दामानि पाशानि च") पाशं च निवद्धयपृष्ठतः।  
+[दामानि](" 3. क– ड– म – दामानि कीलांश्च । घ– दामानि पाशानि च") पाशं च निवद्धयपृष्ठतः।  
 मौञ्जीं चतन्त्रीं महतीं सुसंहितां  
 बालैश्च दामैर्बहुभिस्समावृताम्॥३॥
 
@@ -3191,10 +2972,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 पयःप्रभूता बहुला निरामया  
 भवन्ति गावस्सुभृता नराधिप॥५॥
 
-
-
 निशम्य राजा सहदेवभाषितं  
-निरीक्ष्य माद्रीसुतमभ्य [नन्दत्](http://॑ "1. क – ख–म– नन्दत। च– नन्द्यच")।  
+निरीक्ष्य माद्रीसुतमभ्य [नन्दत्]("1. क – ख–म– नन्दत। च– नन्द्यच")।  
 उवाचहृष्टो मुदितेन चेतसा  
 न वल्लवत्वं त्वयि वीर लक्षये॥६॥
 
@@ -3214,13 +2993,11 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विराटराज्ञाऽभिहितः कुरूत्तमः  
 प्रशस्य राजानमभिप्रणम्य च।  
 उवाच मात्स्यप्रवरं महामतिश्  
-शृणुष्व [राजन्](http://॑ "2. ख– घ– वाक्यं मम राजसत्तम ।") मम वाक्यमुत्तमम्॥१०॥
-
-
+शृणुष्व [राजन्]("2. ख– घ– वाक्यं मम राजसत्तम ।") मम वाक्यमुत्तमम्॥१०॥
 
 बालो ह्यहं जातिविशेषदूषितः  
 कुतोऽद्य मे नीतिषु युक्तमन्त्रता।  
-स्वकर्म[युक्ताश्च](http://॑ "1. क– ख– घ– म– तुष्टाश्च") वयं नराधिप  
+स्वकर्म[युक्ताश्च]("1. क– ख– घ– म– तुष्टाश्च") वयं नराधिप  
 प्रशाधि मां गोपरिरक्षणेऽनघ॥११॥
 
 वैश्योऽस्मि नाम्नाऽहमरिष्टनेमिर्  
@@ -3229,19 +3006,17 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 राजन्यसिंहान् न हि वेद्मि पार्थिवान्॥१२॥
 
 न जीवितुं शक्यमतोऽन्यकर्मणा  
-न च त्वदन्यो मम रोचते [स्वतः](http://॑ "2. क–ख– च–ड– नृप ।म– नृपः ।")॥१२॥
+न च त्वदन्यो मम रोचते [स्वतः]("2. क–ख– च–ड– नृप ।म– नृपः ।")॥१२॥
 
 विराटः—
 
 त्वं ब्राह्मणो वा यदि भूमिपालस्  
 समुद्रनेमीश्वररूपवानसि।  
 आचक्ष्व तत्त्वं त्वममित्रकर्शन  
-न वल्लवत्वं त्वयि [विद्यते](http://॑ "3. ख – वीर विद्यते । ङ– विद्यते कथम् ।") समम्॥१३॥
+न वल्लवत्वं त्वयि [विद्यते]("3. ख – वीर विद्यते । ङ– विद्यते कथम् ।") समम्॥१३॥
 
 कस्यासि राज्ञो विषयादिहागतः  
 किं चापि शिल्पं तव विद्यते कृतम्।
-
-
 
 कथं त्वमस्मासु निवत्स्यसे सदा  
 वदस्व किं चापि तवेह वेतनम्॥१४॥
@@ -3251,7 +3026,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 पञ्चानां पाण्डुपुत्राणां ज्येष्ठो राजा युधिष्ठिरः।  
 तस्याष्टशतसाहस्रा गवां वर्गारशतं शतम्॥१५॥
 
-[अपरे](http://॑ "1. अ– ङ – कोशयोः इदमर्धं नास्ति ।") दशसाहस्रा द्विस्तावन्तस्तथा परे।  
+[अपरे]("1. अ– ङ – कोशयोः इदमर्धं नास्ति ।") दशसाहस्रा द्विस्तावन्तस्तथा परे।  
 तेपां गोसङ्ख्य आसं वै तन्त्रीपालेति मां विदुः॥ १६॥
 
 भूतं भव्यं भविष्यच्चयच्चान्यद् गोगतं क्वचित्।  
@@ -3260,13 +3035,11 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 गुणास्सुविदिता ह्यासन् मया तस्य महात्मनः।  
 असकृत् स मया तुष्टः कुरुराजो युधिष्ठिरः॥१८॥
 
-अनेक [गुणिता](http://॑ "2. क– ख– घ – गणिता ।") गावो दुर्विज्ञेया महत्तराः।  
-बहुक्षीरतरास्ता वै बह्वय[स्सत्यस्सुपुत्रिकाः](http://॑ "3. क– म– स्सद्यस्सपुस्त्रकाः । ख– स्सम्यक् । घ– स्सभ्यक्सपुत्रकाः")॥१९॥
+अनेक [गुणिता]("2. क– ख– घ – गणिता ।") गावो दुर्विज्ञेया महत्तराः।  
+बहुक्षीरतरास्ता वै बह्वय[स्सत्यस्सुपुत्रिकाः]("3. क– म– स्सद्यस्सपुस्त्रकाः । ख– स्सम्यक् । घ– स्सभ्यक्सपुत्रकाः")॥१९॥
 
 क्षिप्रं च गावो बहुला भवन्ति  
 न तासु रोगो भवतीह कश्चित्।
-
-
 
 तैस्तैरुपायैर्विदितं मयैतद्  
 एतानि शिल्पानि माय स्थितानि॥२०॥
@@ -3294,8 +3067,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 एवं विराटेन समेत्य पाण्डवो  
 लब्ध्वा च गोवल्लवतां यथेष्टतः।
 
-
-
 अज्ञातचर्यामवसन्महात्मा  
 यथा रविश्वास्तगिरिं प्रविष्टः॥२५॥
 
@@ -3321,18 +3092,16 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 वैशम्पायनः—
 
-ततः कृष्णा [सुकेशी](http://॑ "1. घ–म – सुकेशान्ता ।") सा दर्शनीया शुचिस्मिता।  
+ततः कृष्णा [सुकेशी]("1. घ–म – सुकेशान्ता ।") सा दर्शनीया शुचिस्मिता।  
 वेणीकेशान् समुत्क्षिप्य पीनवृत्तकुचाशुभा॥१॥
 
-[जुगूहे](http://॑ "2. अ – घ– ङ– इदमर्धं नास्ति ।")दक्षिणे पार्श्वे मृदूनसितलोचना॥१॥
-
-
+[जुगूहे]("2. अ – घ– ङ– इदमर्धं नास्ति ।")दक्षिणे पार्श्वे मृदूनसितलोचना॥१॥
 
 वासश्च परिधायैकं कृष्णा सुमलिनं महत्।  
 कृत्वा वेपं च सैरन्ध्रयाः कृष्णा व्यचरदार्तवत्॥२॥
 
 प्रविष्टा नगरं भीरूस् सैरन्ध्रीवेपसंयुता।  
-[तां](http://॑ "1. क – तां नरा गच्छमानां तु") नराः परिधावन्तस् स्त्रियश्च समुपाद्रवन्॥३॥
+[तां]("1. क – तां नरा गच्छमानां तु") नराः परिधावन्तस् स्त्रियश्च समुपाद्रवन्॥३॥
 
 अपृच्छंस्ते च तां दृष्ट्वा का त्वं किं च चिकीर्षसि॥४॥
 
@@ -3340,21 +3109,19 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 कर्म चेच्छामि वै कर्तुं तस्या या मां भरिष्यति॥५॥
 
 तस्या वेषेण रूपेण श्लक्ष्णया च गिरा तथा।  
-न श्रद्दधाति तां [दासीम्](http://॑ "2. अ–क–ङ– देवीं ।") अन्नहेतोरुपस्थिताम्॥६॥
+न श्रद्दधाति तां [दासीम्]("2. अ–क–ङ– देवीं ।") अन्नहेतोरुपस्थिताम्॥६॥
 
 विराटस्य तु कैकेयी भार्या परमसम्मता।  
 आलोकयन्ती ददृशे प्रासादाद्द्रुपदात्मजाम्॥७॥
 
-सा समीक्ष्य तथारूपाम् [अनाथामेकवाससम्](http://॑ "3. अ– मलिना ।")।  
+सा समीक्ष्य तथारूपाम् [अनाथामेकवाससम्]("3. अ– मलिना ।")।  
 स्त्रीभिश्च पुरुषैश्चापि सर्वतः परिवारिताम्॥८॥
 
 विराटभार्या तां देवों कारुण्याज्जातसम्भ्रमा।  
 अप्रेषयत् समीपस्थास् स्त्रियो वृद्धाश्च तत्पराः॥९॥
 
-[अनुनीय](http://॑ "4. क– ख – अपनीय । अ–घ– च–म – उपनीय") ततस्सर्वा आनयध्वमिहैव ताम्।  
+[अनुनीय]("4. क– ख – अपनीय । अ–घ– च–म – उपनीय") ततस्सर्वा आनयध्वमिहैव ताम्।  
 यदा दृष्टा मया साध्वी कम्पते मे मनस्तदा॥१०॥
-
-
 
 तस्माच्छीघ्रमिहानाय्य दर्शयध्वं यदीच्छथ॥१०॥
 
@@ -3366,7 +3133,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 भद्रे त्वां द्रष्टुमिच्छन्ती सुदेष्णा हर्म्यभूतले।  
 स्थिता त्वदर्थं हि वयं त्वत्समीपमुपागताः॥१२॥
 
-[त्वद](http://॑ "1. अ–ख – घ– ङ –श्लोकद्वयं न दृश्यते ।")र्थं प्रेषयच्चास्मान् द्रष्टुं तां त्वं यदीच्छसि।  
+[त्वद]("1. अ–ख – घ– ङ –श्लोकद्वयं न दृश्यते ।")र्थं प्रेषयच्चास्मान् द्रष्टुं तां त्वं यदीच्छसि।  
 आयाह्यस्माभिरेवाद्य रक्ष्यमाणा यथेष्टतः॥१३॥
 
 वैशम्पायनः—
@@ -3374,7 +3141,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तच्छ्रुत्वा द्रौपदी तासां वचनं वाक्यकोविदा।  
 ईप्सितार्थातिलाभेन हृष्टा याता गृहोत्तमम्॥१४॥
 
-[अथ](http://॑ "2. च– समाहूयाब्रवीद्भद्रेका त्वं किञ्च चिकीर्षसि । [अधिकः पाठः]") सा छिन्नपट्टाभ्यां वल्कलाजिनसंवृता।  
+[अथ]("2. च– समाहूयाब्रवीद्भद्रेका त्वं किञ्च चिकीर्षसि । [अधिकः पाठः]") सा छिन्नपट्टाभ्यां वल्कलाजिनसंवृता।  
 राजवेश्म समागम्य यत्राग्र्यमहिषी स्थिता॥१५॥
 
 सुदेष्णामगमन् कृष्णा राजभार्यां यशस्विनीम्॥१६॥
@@ -3386,8 +3153,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 सा प्रविश्य विराटस्य द्रौपद्यन्तः पुरं शुभा।  
 ह्नीनिषेवान्विता बाला कम्पमाना लतेव सा॥१८॥
-
-
 
 अभिगम्य च सुश्रोणी सर्वलक्षणसंयुता।  
 ददर्शावस्थितां हैमे पीठे रत्नपरिच्छदे॥१९॥
@@ -3409,14 +3174,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अतिसर्वानवद्याङ्गीं तनुगात्रीं सुमध्यमाम्॥२४॥
 
 नातिहृस्वां न महतीं जातां बहुतृणे वने।  
-[ऋश्यरोहीमिवानिन्द्यां](http://॑ "1. क – नीलोत्पलदलश्यामां। घ – महालक्ष्मीमिवानिन्द्यां । ङ– मुख्यारोहामिवानिद्यां ।") सुकेशीं मृगलोचनाम्॥२५॥
+[ऋश्यरोहीमिवानिन्द्यां]("1. क – नीलोत्पलदलश्यामां। घ – महालक्ष्मीमिवानिन्द्यां । ङ– मुख्यारोहामिवानिद्यां ।") सुकेशीं मृगलोचनाम्॥२५॥
 
 तां मृगीमिव वित्रस्तां यूथभ्रष्टामिव द्विपाम्।  
 लक्ष्मीमिव विशालाक्षी विद्यामिव यशस्विनीम्॥२६॥
 
 रोहिणीमिव ताराणां दीप्तामग्निशिखामिव।
-
-
 
 पार्वतीमिव रुद्राणीं वेलामिव महोदधेः॥२७॥
 
@@ -3424,9 +3187,9 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 गङ्गामिव विशुद्धाङ्गीं शारदीमिव शर्वरीम्॥२८॥
 
 तामचिन्त्यतमां लोके इलामिव यशस्विनीम्।  
-सावित्रीमिव दुर्धर्षां ब्राह्मया लक्ष्म्या [समन्विताम्](http://॑ "1. ख– घ– ङ– समावृताम् ।")॥ २९॥
+सावित्रीमिव दुर्धर्षां ब्राह्मया लक्ष्म्या [समन्विताम्]("1. ख– घ– ङ– समावृताम् ।")॥ २९॥
 
-[सुदेष्णा](http://॑ "2. ख– सीतामिव सतीं शुद्धामरुन्धतीमिव प्रियाम् । [अधिकः पाठः]") पर्यपृच्छन्तां विस्मयोत्फुल्ललोचना॥३०॥
+[सुदेष्णा]("2. ख– सीतामिव सतीं शुद्धामरुन्धतीमिव प्रियाम् । [अधिकः पाठः]") पर्यपृच्छन्तां विस्मयोत्फुल्ललोचना॥३०॥
 
 का त्वं सर्वानवद्याङ्गि कुतोऽसि त्वमिहागता।  
 कस्य वा त्वं विशालाक्षि किं वा ते करवाण्यहम्॥३१॥
@@ -3443,20 +3206,18 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अप्सरा वाऽसि नागी वा तारा वा त्वं विलासिनी।  
 अलम्बुसा मिश्रकेशी पुण्डरीकाक्षमालिनी॥३५॥
 
-
-
 तेन तेनैव सम्पन्ना काश्मीरीव तुरङ्गमा।  
 इन्द्राणी त्वथ रुद्राणी स्वाहा वाऽप्यथवा रतिः॥३६॥
 
-[देवि](http://॑ "1. क– ख– घ – म – देवी देवेषु ।") देवीषु विख्याता ब्रूहि का त्वमिहागता।  
+[देवि]("1. क– ख– घ – म – देवी देवेषु ।") देवीषु विख्याता ब्रूहि का त्वमिहागता।  
 तव ह्यनुपमं रूपं भूषणैरपि वर्जितम्॥३७॥
 
 त्वां सृष्टवोपरतं मन्ये लोककर्तारमीश्वरम्।  
 न तृप्यन्ति स्रियो दृष्ट्वा का न पुंसां रतिर्भवेत्॥३८॥
 
-[द्रौपदी](http://॑ "2. क – प्रवालपुष्प स्तबकै राचिता वनदेवता। त्वामेव हि निरीक्षन्ते विस्मिता रूपसम्पदा ॥  अन्तःपुरगता नार्यो मृगपक्षिगणाश्च ये । सर्वे त्वामेव कल्याणि निरीक्षन्ते सुविस्मिताः ॥  न त्वादृशी काप्चन मे त्रिषु लोकेषु सुन्दरी । दृष्टपूर्वा श्रुता वाऽपि वपुषा विद्यते शुभे ॥  एवमुक्ता सुदेष्णां तां कृताञ्जलिपुटा स्थिता । अब्रवीद्विस्मयाविष्ट द्रौपदी योषितां वरा ॥")—
+[द्रौपदी]("2. क – प्रवालपुष्प स्तबकै राचिता वनदेवता। त्वामेव हि निरीक्षन्ते विस्मिता रूपसम्पदा ॥  अन्तःपुरगता नार्यो मृगपक्षिगणाश्च ये । सर्वे त्वामेव कल्याणि निरीक्षन्ते सुविस्मिताः ॥  न त्वादृशी काप्चन मे त्रिषु लोकेषु सुन्दरी । दृष्टपूर्वा श्रुता वाऽपि वपुषा विद्यते शुभे ॥  एवमुक्ता सुदेष्णां तां कृताञ्जलिपुटा स्थिता । अब्रवीद्विस्मयाविष्ट द्रौपदी योषितां वरा ॥")—
 
-[नैव](http://॑ "3. क– ख–ङ- चम - नास्मि (घ) नाहं ।") देवी न गन्धर्वी न यक्षी न च किन्नरी।  
+[नैव]("3. क– ख–ङ- चम - नास्मि (घ) नाहं ।") देवी न गन्धर्वी न यक्षी न च किन्नरी।  
 सैरन्ध्री नाम मे जातिर् वन्यमूलफलाशना॥३९॥
 
 पतीनां प्रेक्षमाणानां कस्मिंश्चित् कारणान्तरे।  
@@ -3464,8 +3225,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 तत्र द्वादशवर्षाणि वन्यमूलफलाशना।  
 चराम्यनिलया सुभ्रूस् सा तवान्तिकमागता॥४१॥
-
-
 
 जानामि केशान् ग्रथितुं जानामि ग्रथितुं मणीन्।  
 मल्लिकोत्पलपद्मानां जानामि ग्रथितुं स्रजः॥४२॥
@@ -3489,16 +3248,14 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 व्रतं किलैतदस्माकं कुलधर्मोऽयमीद्दृशः॥४७॥
 
 यो ह्यस्माकं तु हरेद्रव्यं देशं वसनमेव वा।  
-न क्रोद्धव्यं किलास्माभिर् अस्मद्गु[ररोषणः](http://॑ "2. अ–र्न रोषणः । ख – रतोषणः ।क–घ –रमर्पणः ।")॥४८॥
+न क्रोद्धव्यं किलास्माभिर् अस्मद्गु[ररोषणः]("2. अ–र्न रोषणः । ख – रतोषणः ।क–घ –रमर्पणः ।")॥४८॥
 
 साऽहं वनानि दुर्गाणि तीर्थानि च सरांसि च।  
 शैलांश्च विविधान् रम्यान् सरितश्च समुद्रगाः॥४९॥
 
 भर्तृशोकपरीताङ्गी भर्तृसब्रह्मचारिणी।
 
-
-
-विचरामि महीं [दु](http://॑ "1. अ– कृत्स्नां । ङ– सर्वां ।")र्गां यत्र सायंनिवेशना॥५०॥
+विचरामि महीं [दु]("1. अ– कृत्स्नां । ङ– सर्वां ।")र्गां यत्र सायंनिवेशना॥५०॥
 
 वीरपत्नी यदा देवी चरमाणेपु भर्तृषु।  
 साऽहं विवत्सा विधिना गन्धमादनपर्वतात्॥५१॥
@@ -3523,9 +3280,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 त्वामेवैता निरीक्षन्ते विस्मयाद्वरवर्णिनि॥५६॥
 
 वृक्षांश्चोपस्थितान पश्य य इमे मम वेश्मनि।  
-[विनमन्ते](http://॑ "2. क– ख – न मन्यते हि । म – नमन्त्येते हि ।") हि त्वां दृष्ट्वा पुमांसं कं न लोभयेः॥५७॥
-
-
+[विनमन्ते]("2. क– ख – न मन्यते हि । म – नमन्त्येते हि ।") हि त्वां दृष्ट्वा पुमांसं कं न लोभयेः॥५७॥
 
 राजा विराटस्सुश्रोणि दृष्ट्वा ते परमं वपुः।  
 मां विहाय वरारोहे त्वां गच्छेत् सर्वचेतसा॥५८॥
@@ -3533,16 +3288,16 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 यं हि त्वमनवद्याङ्गी नरमायतलोचने।  
 सुप्रसन्ना हि वीक्षेथास् स कामवशगो भवेत्॥५९॥
 
-सुस्नाताऽलङ्कृता च त्वं [यमीक्षेथा](http://॑ "1. अ – समीक्षेथा । म – यमीक्षेथा हि मानवम् ।") हि मानुषम्।  
+सुस्नाताऽलङ्कृता च त्वं [यमीक्षेथा]("1. अ – समीक्षेथा । म – यमीक्षेथा हि मानवम् ।") हि मानुषम्।  
 ग्लानिर्न तस्य दुःखं वा न तन्द्रिर्न पराजयः॥६०॥
 
 न शोचेन्न च संपश्येन्न घ क्रुध्येन्नानृतं वदेत्॥६१॥
 
-[यं](http://॑ "2. अ– च– यत् त्वं") त्वं सर्वानवद्याङ्गि भजेथास्समलङ्कृता।  
+[यं]("2. अ– च– यत् त्वं") त्वं सर्वानवद्याङ्गि भजेथास्समलङ्कृता।  
 न व्याधिर्न जरा तस्य न तृष्णा न क्षुधा भवेत्॥६२॥
 
 यस्य त्वं वशगा सुभ्रु भवेरङ्कगता सती।  
-पञ्चत्वमपि सम्प्राप्तं [यं](http://॑ "3, म – यदि त्वं पुरुषं स्वजेः ।") च त्वं परिपस्वजेः॥६३॥
+पञ्चत्वमपि सम्प्राप्तं [यं]("3, म – यदि त्वं पुरुषं स्वजेः ।") च त्वं परिपस्वजेः॥६३॥
 
 बाहुभ्यामनुरूपाभ्यां स जीवेदिति मे मतिः॥६३॥
 
@@ -3554,8 +3309,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 यथा कर्कटकी गर्भम् आधत्ते मृत्युमात्मनः।
 
-
-
 तथाविधमहं मन्ये तव सुश्रु समागमम्॥६६॥
 
 अनुमानये त्वां सैरन्ध्रि नावमन्ये कथञ्चन।  
@@ -3566,7 +3319,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 नाहं शक्या विराटेन नापि चान्येन केनचित्।  
 देवगन्धर्वयक्षैर्वा द्रष्टुं दुष्टेन चेतसा॥६८॥
 
-गन्धर्वाः [पालयन्ते](http://॑ "1. अ–ङ–च–म– कामयस्तेमां सुकुलाः । क – कामयन्ते मां कल्याः । घ –कामयन्ते मां सुकुल्याः ।") मां सुकुलाः पञ्च सुव्रताः।  
+गन्धर्वाः [पालयन्ते]("1. अ–ङ–च–म– कामयस्तेमां सुकुलाः । क – कामयन्ते मां कल्याः । घ –कामयन्ते मां सुकुल्याः ।") मां सुकुलाः पञ्च सुव्रताः।  
 पुत्रा देवादिदेवानां सूर्यपावकवर्चसः॥६९॥
 
 यश्च दुश्शीलवान् मर्त्यो मां स्पृशेद्दुष्टचेतसा।  
@@ -3580,10 +3333,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 न तस्य त्रिदशा देवा नासुरा न च पन्नगाः।  
 तेभ्यो गन्धर्वराजेभ्यस् त्राणं कुर्युरसंशयम्॥७३॥
 
-[सुदेष्णे](http://॑ "2. क– घ– ङ– म– सुतेषु ।") विश्वस त्वं मे स्वजने बान्धवेषु वा।  
+[सुदेष्णे]("2. क– घ– ङ– म– सुतेषु ।") विश्वस त्वं मे स्वजने बान्धवेषु वा।  
 नाहं शक्या नरैस्सप्रष्टुं न च मे वृत्तमीद्दृशम्॥७४॥
-
-
 
 यो मे न दद्यादुच्छिष्टं न च पादौ प्रधावयेत्।  
 प्रीयेरंस्तेन वासेन गन्धर्वाः पतयो मम॥७५॥
@@ -3592,7 +3343,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तामेव स इमां रात्रिं प्रविशेदपरां तनुम्॥७६॥
 
 न चाप्यहं चालयितुं शक्या केनचिदङ्गने।  
-दुःखशीला हि गन्धर्वास् ते च मे [बलिनः](http://॑ "1. क– म – बलवत्प्रियाः ।ख – बलवत्तराः । घ–तेन ते बलवत्तराः ।") प्रियाः॥७७॥
+दुःखशीला हि गन्धर्वास् ते च मे [बलिनः]("1. क– म – बलवत्प्रियाः ।ख – बलवत्तराः । घ–तेन ते बलवत्तराः ।") प्रियाः॥७७॥
 
 एवं निवसमानायां मयि मा ते भयं हि भूत्॥७७॥
 
@@ -3605,15 +3356,13 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वसेह मयि कल्याणि यदि ते वृत्तमीद्दृशम्।  
 कश्च ते दातुमुच्छिष्टं पुमानर्हति शोभने ७९॥
 
-[प्रधावयेच्च](http://॑ "2. क – भावयेञ्च। ख – घ– ङ– च– म– सारयेञ्च।") कः पादौ लक्ष्मीं दृष्ट्वैव बुद्धिमान्॥७९॥
+[प्रधावयेच्च]("2. क – भावयेञ्च। ख – घ– ङ– च– म– सारयेञ्च।") कः पादौ लक्ष्मीं दृष्ट्वैव बुद्धिमान्॥७९॥
 
 एवमाचारसम्पन्ना एवं देवपरायणा।  
 रक्ष्या त्वमसि भूतानां सावित्रीव द्विजन्मनाम्॥८०॥
 
 देवतेव हि कल्याणि पूजिता वरवर्णिनी।  
-वस भद्रे [मया](http://॑ "3. क– ख – घ– ङ – म – मयि ।") प्रीता प्रीतिर्हि मम वर्तते॥८१॥
-
-
+वस भद्रे [मया]("3. क– ख – घ– ङ – म – मयि ।") प्रीता प्रीतिर्हि मम वर्तते॥८१॥
 
 सर्वकामैः प्रमुदिता निरुद्विग्ननास्सुखम्॥८२॥
 
@@ -3650,8 +3399,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 एवं विराटनगरे वसन्तस्सत्यविक्रमाः।  
 अत ऊर्ध्वं नरव्याघ्राः किमकुर्वत पाण्डवाः॥१॥
 
-
-
 वैशम्पायनः—
 
 एवं ते न्यवसंस्तत्र प्रच्छन्नाः कुरुनन्दनाः।  
@@ -3667,12 +3414,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 भ्रातृभ्यः पुरुषव्याघ्रो यथेष्ट्रं सम्प्रयच्छति॥५॥
 
 भीमसेनोऽपि मांसानि भक्ष्याणि विविधानि च।  
-अतिसृष्टानि मत्स्येन [विक्रीणन्निव](http://॑ "1. ख- ङ – विक्रीणान्नाम । घ– व्यतरद्भ्रातृवत्सलः ।") भ्रातृषु॥६॥
+अतिसृष्टानि मत्स्येन [विक्रीणन्निव]("1. ख- ङ – विक्रीणान्नाम । घ– व्यतरद्भ्रातृवत्सलः ।") भ्रातृषु॥६॥
 
 वासांसि परिजीर्णानि लब्धान्यन्तः पुरेऽर्जुनः।  
 विक्रीणन् नाम सर्वेभ्यः पाण्डवेभ्यः प्रयच्छति॥७॥
 
-[बीभत्सुरपि](http://॑ "2. म – इदं श्लोकद्वयं नास्ति।") गीतेन सूनृतेन च पाण्डवः।  
+[बीभत्सुरपि]("2. म – इदं श्लोकद्वयं नास्ति।") गीतेन सूनृतेन च पाण्डवः।  
 विराटं तोपयामास सर्वाश्चान्तः पुरे स्त्रियः॥८॥
 
 अश्वैर्विनीतैर्जवनैस् तत्र तत्र समागतैः।  
@@ -3680,31 +3427,27 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 नकुलोऽपि धनं लब्ध्वा कृते कर्मणि वाजिनाम्।
 
-
-
 तुष्टे तस्मिन् नरपतौ पाण्डवेभ्यः प्रयच्छति॥१०॥
 
 विनीतानृपभान् दृष्ट्वा सहदेवेन भावितान्।  
 स तु हृष्टश्च सम्प्रादात् तदा राजा धनं बहु॥११॥
 
-[सहदेवो](http://॑ "1. म – अयं श्लोको नास्ति।") गवां [कृत्ये](http://॑ "2. ख– च– नित्यं ।") कृते मङ्गलकर्मणि।  
+[सहदेवो]("1. म – अयं श्लोको नास्ति।") गवां [कृत्ये]("2. ख– च– नित्यं ।") कृते मङ्गलकर्मणि।  
 अध्यक्षत्वाच्च यल्लेभे राज्ञः कल्याणकार्यवान्॥१२॥
 
-[सहदेवोपि](http://॑ "3. म – इदमर्धं नास्ति ।") गोपानां वेषमास्थाय पाण्डवः।  
+[सहदेवोपि]("3. म – इदमर्धं नास्ति ।") गोपानां वेषमास्थाय पाण्डवः।  
 दधि क्षीरं घृतं चैव पाण्डवेभ्यः प्रयच्छति॥१३॥
 
-कृष्णाऽपि [भ्रातॄन्](http://॑ "4. म – सर्वान् भर्तॄस्तान् निरीक्षन्ती तपस्विनी । घ– सर्वान् भर्तॄन् स्वान् निरीक्षन्त्यतिभामिनी । ङ – भर्तॄन् सर्वांस्तान् ।")सर्वांस्तान् निरीक्षन्ती तपस्विनी।  
+कृष्णाऽपि [भ्रातॄन्]("4. म – सर्वान् भर्तॄस्तान् निरीक्षन्ती तपस्विनी । घ– सर्वान् भर्तॄन् स्वान् निरीक्षन्त्यतिभामिनी । ङ – भर्तॄन् सर्वांस्तान् ।")सर्वांस्तान् निरीक्षन्ती तपस्विनी।  
 यथा पुनरविज्ञाता तथा चरति भामिनी॥१४॥
 
-एवं [सम्भावयन्तस्ते](http://॑ "5. क – सञ्छादयन्तस्ते तथा । घ – संबोधयन्तस्ते यथा । च – एवं स्म भावयन्तस्ते ।") तदाऽन्योन्यं महारथाः।  
+एवं [सम्भावयन्तस्ते]("5. क – सञ्छादयन्तस्ते तथा । घ – संबोधयन्तस्ते यथा । च – एवं स्म भावयन्तस्ते ।") तदाऽन्योन्यं महारथाः।  
 प्रेक्षमाणास्तदा कृष्णाम् ऊषुश्छन्ना नराधिप॥१५॥
 
 अथ मासे चतुर्थे तु शङ्करस्य महोत्सवः।  
 आसीत् समृद्धो मत्स्येषु पुरुषाणां सुसम्मतः॥१६॥
 
 तत्र मल्लास्समापेतुर् दिग्भ्यो राजन् महाबलाः॥१६॥
-
-
 
 महाकाया महावीर्याः कालकेया इवासुराः।  
 वीर्यवन्तो बलोदग्रा राज्ञा समभिपूजिताः॥१७॥
@@ -3716,7 +3459,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 व्यावल्गमानो दद्दृशे गर्जितोद्गतिभिस्स्थितः॥१९॥
 
 वित्रस्तमनसस्सर्वे मल्लास्ते हतचेतसः।  
-[अवाङ्मुखाश्च](http://॑ "1. अ - कोशे इदमर्धं नास्ति ।") भीताश्च मल्लाश्चान्ये विचेतसः॥२०॥
+[अवाङ्मुखाश्च]("1. अ - कोशे इदमर्धं नास्ति ।") भीताश्च मल्लाश्चान्ये विचेतसः॥२०॥
 
 व्यसुत्वमपरे चैव वाञ्छन्तीव प्रविह्वलाः।  
 गां प्रवेष्टुमथेच्छन्ति स्वं/खं गन्तुमिव चोत्थिताः॥२१॥
@@ -3732,8 +3475,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 मल्लेन्द्रस्य वचश्श्रुत्वा बलदर्पसमन्वितम्।  
 विराटो वीक्ष्य तान् मल्लांस् त्रस्तान् वाक्यमुवाच ह॥ २५॥
-
-
 
 विराटः—
 
@@ -3757,7 +3498,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सोऽप्यहूयतां क्षिप्रं योद्धुं मल्लेन संसद॥२९॥
 
 भीमसेनो विराटेन आहूतश्चोदितस्तथा।  
-[योद्धुं](http://॑ "1. क –ङ – म – योद्धुकामो")ततोऽब्रवीद्वाक्यं योद्धुं शक्नोमि भूपते॥३०॥
+[योद्धुं]("1. क –ङ – म – योद्धुकामो")ततोऽब्रवीद्वाक्यं योद्धुं शक्नोमि भूपते॥३०॥
 
 नरेन्द्र ते प्रभावेन श्रिया शक्त्या व शासनात्।  
 अनेन सह मल्लेन योद्धुं राजेन्द्र शक्नुयाम्॥३१॥
@@ -3769,8 +3510,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 योद्धुं व्यवस्थितो वीरो रेणुं सम्मृज्य हस्तयोः॥३३॥
 
 अथ सूदेन तं मल्लं योधयामास पार्थिवः॥३४॥
-
-
 
 चोद्यमानस्ततो[^204] भीमो दुःखेनेवाकरोत् पदम्।  
 न हि शक्नोम्यशक्तोऽपि[^205] प्रत्याख्यातुं नराधिपम्॥३५॥
@@ -3790,7 +3529,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तावुभौ सुमहोत्साहावुभौ तुल्यपराक्रमौ।  
 मत्ताविव महाकायौ वारणौ सन्निपेततुः॥३८॥
 
-[वृषतुल्यबलो](http://॑ "3. ङ – अयं श्लोको नास्ति ।") वीरौ सिंहतुल्यपराक्रमौ।  
+[वृषतुल्यबलो]("3. ङ – अयं श्लोको नास्ति ।") वीरौ सिंहतुल्यपराक्रमौ।  
 गजाविव मदोन्मत्तौ भीममल्लौ निपेततुः॥३९॥
 
 उत्पपाताथ वेगेन मल्लं कक्षे गृहीतवान्।  
@@ -3798,9 +3537,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 चकर्ष दोर्भ्यामुत्पुट्य भीमो मल्लममित्रहा॥४१॥
 
-[निनदन्तमभिक्रोशञ्](http://॑ "4. क– ख –घ– ङ– च– म – विनदन्तमतिक्रोशात् ।") शार्दूल इव दारुणः।
-
-
+[निनदन्तमभिक्रोशञ्]("4. क– ख –घ– ङ– च– म – विनदन्तमतिक्रोशात् ।") शार्दूल इव दारुणः।
 
 तमुद्यम्य महाबाहुर् भ्रामयामास पाण्डवः॥४२॥
 
@@ -3831,8 +3568,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विराटं तोषयामास सर्वाश्चान्तः पुरे स्त्रियः॥५०॥
 
 अश्वैर्विनीतैर्जवनैस् तत्र तत्र समागतैः।
-
-
 
 तोषयामास नकुलो राजानं राजसत्तम॥५१॥
 
@@ -3870,8 +3605,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 याज्ञसेनी सुदेष्णां तु शुश्रूषन्ती शुचिस्मिता।  
 आवसत् परिचारार्हा सुदुःखं जनमेजय॥२॥
 
-
-
 तथा चरन्तीं पाञ्चालीं सुदेष्णाया निवेशने।  
 सेनापनिर्विराटस्य ददर्श जलजेक्षणाम्॥३॥
 
@@ -3902,12 +3635,10 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 दासस्तवाहं पृथुताम्रलोचने  
 वशानुगो वारणखेलगामिनि।
 
-
-
 कन्दर्पवेगाभिहतोऽस्म्यनिन्दिते  
 खगो वसन्तेष्विव पुष्पमूर्च्छितः॥८॥
 
-[त्वमीद्दृशी](http://॑ "1. क— त्वमेवमाचारवती सुदर्शना । च— त्वमेव कल्याणि परीतदर्शना ख–म — त्वमेवमाचारपरीतदर्शना घ–ङ— त्वमेव मे ।") चारुपरीतदर्शना  
+[त्वमीद्दृशी]("1. क— त्वमेवमाचारवती सुदर्शना । च— त्वमेव कल्याणि परीतदर्शना ख–म — त्वमेवमाचारपरीतदर्शना घ–ङ— त्वमेव मे ।") चारुपरीतदर्शना  
 नान्यासिस्त्रयस्सम्परिचर्तुमर्हसि।  
 किं राजवेश्मन्यसितायतेक्षणे  
 करोषि केशान् स्वयमेव भामिनी॥९॥
@@ -3925,16 +3656,14 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ममानुरूपा त्वमनिन्द्यलोचने  
 स्वयं तथाऽऽत्मानमिहानुचिन्तय।  
 प्रत्यक्षमेतत् तव चारुदर्शने  
-यथा [वपुस्तुल्यवयस्तथाऽऽवयोः](http://॑ "2. ख–घ –ङ – म — वयस्तुल्यवपुः ।")॥१२॥
-
-
+यथा [वपुस्तुल्यवयस्तथाऽऽवयोः]("2. ख–घ –ङ – म — वयस्तुल्यवपुः ।")॥१२॥
 
 प्रभूतरत्नोपहितं सुभाजनं  
 परैहि चाद्यैव ममोत्तमं गृहम्।  
 प्रासादमालाग्रविशालतारणं  
 कुबेरपर्जन्यनिवेशनोपमम्॥१३॥
 
-[यदस्ति](http://॑ "1. क – प्रभूतशय्यासनपानभोजनं । प्रविश्य तत्रैव सुखी चिरं भव ॥ [अधिकः पाठः ]") तत्रावसथे मदर्पणं  
+[यदस्ति]("1. क – प्रभूतशय्यासनपानभोजनं । प्रविश्य तत्रैव सुखी चिरं भव ॥ [अधिकः पाठः ]") तत्रावसथे मदर्पणं  
 वसु प्रभावोपगतं ममान्तिके।  
 ददामि तत् सर्वमधीरलोचने  
 त्वमस्य सर्वस्य सुगात्रि भाजनम्॥१४॥
@@ -3946,15 +3675,13 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 त्वया समागम्य घ चारुलोचने  
 पडाननं द्वादशदीप्तलोचनम्।  
-वरं वरार्हं वरदं [वरेण्यं](http://॑ "2. क–ख– घ– म– वरेश्वरं ।")  
+वरं वरार्हं वरदं [वरेण्यं]("2. क–ख– घ– म– वरेश्वरं ।")  
 वरेण तुष्टो वरगात्रि तोषये॥१६॥
 
-
-
 अयं तु राजा परसैन्यवारणः  
-स्यालः प्रियत्वान्मम चाद्य [भामिनि](http://॑ "1. क– म – मेदिनीं ।घ– भामिनीम् ।")।  
-करिष्यते काम [मिमं](http://॑ "2. क– ख– च– म– मयं ।") यथेष्टतो  
-[ह्यलीककर्णाग्रघरोऽस्मि](http://॑ " 3 क– ख – ङ– च– म– ह्यनीक । घ– ह्यनीककण्ठाग्रसरो ।") तस्य वै॥१७॥
+स्यालः प्रियत्वान्मम चाद्य [भामिनि]("1. क– म – मेदिनीं ।घ– भामिनीम् ।")।  
+करिष्यते काम [मिमं]("2. क– ख– च– म– मयं ।") यथेष्टतो  
+[ह्यलीककर्णाग्रघरोऽस्मि](" 3 क– ख – ङ– च– म– ह्यनीक । घ– ह्यनीककण्ठाग्रसरो ।") तस्य वै॥१७॥
 
 अप्राप्य तु त्वामहमद्य शोभने  
 श्रियं समृद्धामिव पापमाचरन्।  
@@ -3974,10 +3701,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 यथा न गच्छेयमहं यमक्षयं  
 तथा कुरुष्वाशु विशाललोचने।
 
-
-
 अहं हि कान्ते त्वदधीनजीवितस्  
-त्वया [विमुक्तो](http://॑ "1. क– ख– ङ– च – वियुक्तो । * सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते ।") न चिरं जिजीविपे॥२१॥
+त्वया [विमुक्तो]("1. क– ख– ङ– च – वियुक्तो । * सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते ।") न चिरं जिजीविपे॥२१॥
 
 वैशम्पायनः—
 
@@ -3987,7 +3712,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 द्रौपदी—
 
 अप्रार्थनीयां कामार्तस् सूतपुत्राभिमन्यसे।  
-चतुर्थवर्णां सैरन्ध्रीं [निहीनां](http://॑ "2. क– ख– ङ– च– म– विहीनां । घ – विधृतां") केशकारिकाम्॥२३॥
+चतुर्थवर्णां सैरन्ध्रीं [निहीनां]("2. क– ख– ङ– च– म– विहीनां । घ – विधृतां") केशकारिकाम्॥२३॥
 
 एतेनैव च यत्नेन वित्तेन च मनोरमा।  
 अन्या शक्या त्वया प्राप्तुं स्वजातिकुलवर्धनी॥२४॥
@@ -4003,22 +3728,20 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 तदक्षय्यं च धर्म्यं च स्वर्ग्यमाहुर्मनीषिणः॥२७॥
 
-
-
-[स्वजातिदारजाः](http://॑ "1. च – कोशे इदमर्धं नास्ति।") पुत्रा जायन्ते कुलपूजिताः॥२८॥
+[स्वजातिदारजाः]("1. च – कोशे इदमर्धं नास्ति।") पुत्रा जायन्ते कुलपूजिताः॥२८॥
 
 ते क्षेत्रजाश्च पित्र्याश्च श्रूयन्ते कुलवर्धनाः।  
 तस्मात् स्वदारनिरता भवन्ति पुरुषाश्शुभाः॥२९॥
 
 प्रिया हि प्राणिनां दारास् तस्मात् त्वं धर्मभाग्भव॥ २९॥
 
-[परदाररतो](http://॑ "2. ङ– च – म – श्लोकोऽयं नास्ति ।") मर्त्यो न च भद्राणि पश्यति।  
+[परदाररतो]("2. ङ– च – म – श्लोकोऽयं नास्ति ।") मर्त्यो न च भद्राणि पश्यति।  
 न च धर्मेण लिप्येत न च कीर्तिमवाप्नुयात्॥३०॥
 
 परदारे न ते बुद्धिर् जातु कार्याकथञ्चन्।  
 विवर्जनमकार्याणाम् एतत् सत्पुरुषव्रतम्॥३१॥
 
-[मिथ्याभिलाषी](http://॑ "3. क–ख–घ–ड–च–म– मिथ्याभिलाषी हि नरः कामात्मा मोहमास्थितः।")च नरः पापात्मा मोहसंस्थितः।  
+[मिथ्याभिलाषी]("3. क–ख–घ–ड–च–म– मिथ्याभिलाषी हि नरः कामात्मा मोहमास्थितः।")च नरः पापात्मा मोहसंस्थितः।  
 अधर्ममयशश्चापि प्राप्नुयाच्च महद्भयम्॥३२॥
 
 परदारास्मि भद्रं ते नाहं शक्या त्वया सदा।  
@@ -4032,32 +3755,28 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 न चाप्यहं त्वया शक्या स्प्रष्टुं दुष्टेन घेतसा।
 
-
-
 कामवेगोद्धताङ्गेन गन्धर्वाः पतयो मम॥३६॥
 
 ते त्वां निहन्युः कुपितास् सानुवन्धममर्षणाः।  
-[सीतार्थं](http://॑ "1. क– च –सीतार्थं हि दशग्रोवं सानुबन्धममर्षिणम् । रामो हत्वा तु मुदितस् तथा त्वां पतयो मम [अधिकः पाठः]") हि दशग्रीवं यथा रामस्सबान्धवम्॥३७॥
+[सीतार्थं]("1. क– च –सीतार्थं हि दशग्रोवं सानुबन्धममर्षिणम् । रामो हत्वा तु मुदितस् तथा त्वां पतयो मम [अधिकः पाठः]") हि दशग्रीवं यथा रामस्सबान्धवम्॥३७॥
 
 पतिष्यसि तथा मूर्ख पाताले क्रूरदर्शने।  
 यथा निश्चेतनो बालस्तीरस्थः कूपमुत्तरन्॥३८॥
 
-यथा लङ्घितुमिच्छेत तथैव त्वं मनोऽ[दधाः](http://॑ "2. क– ख–घ– ङ– म– गतम् ।")॥३९॥
+यथा लङ्घितुमिच्छेत तथैव त्वं मनोऽ[दधाः]("2. क– ख–घ– ङ– म– गतम् ।")॥३९॥
 
 अभव्यरूपैः पुरुषैर् अध्वानं गन्तुमिच्छसि॥३९॥
 
 यो मामज्ञाय कामार्त अबद्धानि प्रभापसे।  
-अशक्तस्तु पुमा[ञ्शीलं](http://॑ "3. च–म – ञ्शैलं । घ–न्नावं ।") न लङ्घयितुमर्हति॥४०॥
+अशक्तस्तु पुमा[ञ्शीलं]("3. च–म – ञ्शैलं । घ–न्नावं ।") न लङ्घयितुमर्हति॥४०॥
 
 पतन हि पातालमुखे महोदधौ  
 क्षितिं प्रविष्टो यदि चोर्ध्वमुत्पतेत्।  
 दिशः प्रपन्नो गिरिगह्वराणि वा  
 गुहां प्रविष्टोऽन्तरितोऽपि वा क्षितेः॥ ४१॥
 
-[जुहुञ्जपन्](http://॑ "4. घ – जुषद्गुहां वा खगवद्गिरेस्तटे ।") वा प्रपतन् गिरेस्नटा-  
+[जुहुञ्जपन्]("4. घ – जुषद्गुहां वा खगवद्गिरेस्तटे ।") वा प्रपतन् गिरेस्नटा-  
 हुताशनादित्यगतिं गतोऽपि वा।
-
-
 
 [भार्याभिमन्ता](http://्र "1. क– घ – भार्यावमन्ता ।") पुरुषो महात्मनां  
 न जातु मुच्येत कथञ्चनाहतः॥४२॥
@@ -4065,7 +3784,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 मोघं तवेदं वचनं भविष्यति  
 प्रतोलनं वा तुलया महागिरेः।  
 त्वं तारकाणामधिपं यथा शिशुं  
-[मां](http://॑ "2. क– न मां बलात्प्राप्स्यसि ।") बालवत प्रेप्ससि दुर्लभां सतीम्॥ ४३॥
+[मां]("2. क– न मां बलात्प्राप्स्यसि ।") बालवत प्रेप्ससि दुर्लभां सतीम्॥ ४३॥
 
 दाराभिमर्शी पुरुषोमहात्मनां  
 गत्वाऽपि देवाञ्छरणं न विन्दति।  
@@ -4079,10 +3798,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 प्रवेष्टुकामोऽसि वधाय चात्मनः  
 कुलस्य [सर्वस्य](http://्र "3. घ –धर्मस्य ।") विनाशनाय च।  
-[सदेवगन्धर्वमहर्षिसंनिधौ](http://॑ "4. ख – घ– ङ– च– न")  
-[सनागलोकासुरराक्षसालये](http://॑ "5. ख– घ– ङ– च–म– न नागलोकासुर ।")॥४६॥
-
-
+[सदेवगन्धर्वमहर्षिसंनिधौ]("4. ख – घ– ङ– च– न")  
+[सनागलोकासुरराक्षसालये]("5. ख– घ– ङ– च–म– न नागलोकासुर ।")॥४६॥
 
 गूढस्थितां मामवमत्य चेतसा  
 न जीवितार्थी शरणं त्वमाप्स्यसि॥४७॥
@@ -4108,14 +3825,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 प्रविश्य राजभवनं भगिन्याश्चायतस्थितः॥१॥
 
 सोऽभिवीक्ष्य सुकेशान्तां सुदेष्णां भगिनीं प्रियाम्।  
-अमर्यादेन कामेन [घोरेणाभिपरिप्लुतः](http://॑ "1. क – स्वचित्तेऽभि ।म – स चित्तोऽभि ।")॥२॥
+अमर्यादेन कामेन [घोरेणाभिपरिप्लुतः]("1. क – स्वचित्तेऽभि ।म – स चित्तोऽभि ।")॥२॥
 
 स तु मूघ्नर्यञ्जलिं कृत्वा भगिन्याश्चरणावुभौ।  
 सम्मोहामिहतस्तूर्णं वातोद्भूत इवार्णवः॥३॥
 
 स प्रोवाच सुदुःखार्तो भगिनीं निश्वसन् मुहुः।
-
-
 
 अव्यक्तमृदुना साना शुष्यता चपुनः पुनः॥४॥
 
@@ -4131,22 +3846,20 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 तमुवाचपरिष्वज्य सुदेष्णा भ्रातरं प्रियम्॥६॥
 
-[सुदेष्णा](http://॑ "1. ख – भ्रातुर्जीवितरक्षार्थं समाश्वास्यासितेक्षणा ।[अधिकः पाठः]")—
+[सुदेष्णा]("1. ख – भ्रातुर्जीवितरक्षार्थं समाश्वास्यासितेक्षणा ।[अधिकः पाठः]")—
 
 शरणागतेयं सुश्रोणी मया दत्ताभया चसा।  
 शुभाचारा च भद्रं ते नैनां वक्तुमिहोत्सहे॥७॥
 
-नैषा च शक्या ह्यन्येन स्पष्टुं [दुष्टेन](http://॑ "2. क– घ– च – पापेन ।") चेतसा।  
+नैषा च शक्या ह्यन्येन स्पष्टुं [दुष्टेन]("2. क– घ– च – पापेन ।") चेतसा।  
 गन्धर्वाः किल पञ्चैनां रक्षन्ति रमयन्ति च॥८॥
 
-एवमेषा [ममाचष्](http://॑ "3. घ– ङ– च– म –समाचष्ट ।")टे तथा प्रथमसङ्गमे॥९॥
+एवमेषा [ममाचष्]("3. घ– ङ– च– म –समाचष्ट ।")टे तथा प्रथमसङ्गमे॥९॥
 
 तथैव गजनासोरुस्सत्यमाह ममान्तिके।  
 ते हि क्रुद्धा महात्मानो नाशयेयुर्हिजीवितम्॥१०॥
 
 राजा चैव समीक्ष्यैनां सम्माहं गतवानिह।
-
-
 
 मया च सत्यवचनैर् अनुनीतो महीपतिः॥११॥
 
@@ -4162,7 +3875,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तव चाहमिदं गुह्यं स्नेहादाख्यामि बन्धुवत्॥१४॥
 
 मा गमिष्यसि वै कृच्छ्रां गतिं परमदुर्गमाम्।  
-वलिनस्ते रुजं कुर्युः कुलस्य च [धनस्य](http://॑ "1. क– ख –घ–म– जनस्य ।") च॥१५॥
+वलिनस्ते रुजं कुर्युः कुलस्य च [धनस्य]("1. क– ख –घ–म– जनस्य ।") च॥१५॥
 
 तस्मादस्यां मनः कर्तुं यदि प्राणाः प्रियास्तव।  
 मा चिन्तयेथा मा गास्त्वं मत्प्रियं च यदीच्छसि॥ १६॥
@@ -4177,8 +3890,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अहमेको हनिष्यामि गन्धर्वान् पञ्च किं पुनः॥१८॥
 
 न चत्वमभिजानीषे स्त्रीणां गुह्यमनुत्तमम्॥१८॥
-
-
 
 पुत्रं वा किल पौत्रं वा भ्रातरं वा मनस्विनम्।  
 रहसीह नरं दृष्ट्वा नानागन्धविभूषितम्॥१९॥
@@ -4211,10 +3922,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 गतस्त्वं धर्मराजस्य विषयं नात्र संशयः।  
 अदूषितमिमं सर्वं स्वजनं घातयिष्यसि॥२७॥
 
-
-
 एतत्तु मे दुःखतरं येनाहं भ्रातृसौहृदात्।  
-विदितार्था [भविष्यामि](http://॑ "1. क– ख – घ – करिष्यामि ।") तुष्टो भव कुलक्षयात्॥२८॥
+विदितार्था [भविष्यामि]("1. क– ख – घ – करिष्यामि ।") तुष्टो भव कुलक्षयात्॥२८॥
 
 गच्छ शीघ्रमितस्त्वं हि स्वमेव भवनं शुभम्।  
 किञ्चित् कार्यं समुद्दिश्य सुरामन्नं च कारय॥२९॥
@@ -4223,7 +3932,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तामहं प्रेषयिष्यामि मध्वन्नार्थं तवान्तिकम्॥३०॥
 
 ततस्सम्प्रेपितामेनां विजने निरवग्रहाम्।  
-सान्त्वयेथा यथान्यायं यदि [सा](http://॑ "2. क– ङ– सा स्म । ख- म– साम । घ– सा मे सहिष्यसि ।") च सहिष्यति॥३१॥
+सान्त्वयेथा यथान्यायं यदि [सा]("2. क– ङ– सा स्म । ख- म– साम । घ– सा मे सहिष्यसि ।") च सहिष्यति॥३१॥
 
 सद्यः कृतमिदं सर्वं शेपमत्रानुचिन्तय॥३१॥
 
@@ -4235,12 +3944,10 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 आगम्य च गृहं रम्यं सुरामन्नं चकार ह।  
 अजैडकं च सुकृतं बहूंश्वोच्चावधान् मृगान्॥३३॥
 
-[भक्षांश्च](http://॑ "3. म – इदमर्धं नास्ति ।") विविधाकारान् बहूंश्वोच्चावचांस्तदा।  
+[भक्षांश्च]("3. म – इदमर्धं नास्ति ।") विविधाकारान् बहूंश्वोच्चावचांस्तदा।  
 कारयामास कुशलैर् अन्नपानं सुसंस्कृतम्॥३४॥
 
 त्वरावान् कालपाशेन कण्ठे बद्धः पशुर्यथा।
-
-
 
 नावबुध्यत मूढात्मा मरणं समुपस्थितम्॥३५॥
 
@@ -4255,12 +3962,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 केनचित्त्वद्य कार्येण त्वर शीघ्रं मम प्रियम्॥३८॥
 
 अहं हि शरणं देवं प्रपद्ये वृषभध्वजम्।  
-समागमं मे सैरन्ध्रया मरणं वा [दिशेति](http://॑ "1. क– म – दिशेदिति । घ– दिदेश है ।") वै॥३९॥
+समागमं मे सैरन्ध्रया मरणं वा [दिशेति]("1. क– म – दिशेदिति । घ– दिदेश है ।") वै॥३९॥
 
 वैशम्पायनः—
 
 सा तमाह विनिश्श्वस्य प्रतिगच्छ स्वकं गृहम्।  
-[एषाऽहमपि](http://॑ "2. अ– ङ– च– म–श्लोकद्वयं नास्ति ।") सैरन्ध्रीं सुरार्थे तूर्णमादिशे॥४०॥
+[एषाऽहमपि]("2. अ– ङ– च– म–श्लोकद्वयं नास्ति ।") सैरन्ध्रीं सुरार्थे तूर्णमादिशे॥४०॥
 
 एवमुक्तस्तु पापात्मा कीचकस्त्वरितः पुनः।  
 स्वगृहं प्राविशत् तूर्णं सैरन्ध्रीगतमानसः॥४१॥
@@ -4272,8 +3979,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 गच्छ सैरन्ध्रिमत्प्रीत्यै कीचकस्य निवेशनम्।  
 सुरामानय सुश्रोणि तृपिताऽहं विलासिनि॥४३॥
-
-
 
 **वैशम्पायनः—**
 
@@ -4288,8 +3993,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 समयश्च कृतो भद्रे त्वया प्रथमसङ्गमे।  
 तथा निवसमानायां यथाऽहं नान्यचारिणी॥४६॥
 
-कीचकश्च सुकेशान्ते मूढो मदन [गर्वितः](http://॑ "1. क– ख – घ– च– म– दर्षितः ।")।  
-स मामिह गतां दृष्ट्वा [व्यवस्थति](http://॑ "2. ख – ङ — व्यवस्यति निराकृतिम् । अ– गृहीष्यति सुदुर्गतिः ।") निराकृतः॥४७॥
+कीचकश्च सुकेशान्ते मूढो मदन [गर्वितः]("1. क– ख – घ– च– म– दर्षितः ।")।  
+स मामिह गतां दृष्ट्वा [व्यवस्थति]("2. ख – ङ — व्यवस्यति निराकृतिम् । अ– गृहीष्यति सुदुर्गतिः ।") निराकृतः॥४७॥
 
 कथं नु वै तत्र गतां मर्षयेन्मामबान्धवाम्॥४८॥
 
@@ -4301,8 +4006,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 एवमुक्ता तु पाञ्चल्या दैवयोगेन कैकयी।  
 तां विराटस्य महिषी क्रुद्धा भूयोऽन्वशासत॥५१॥
-
-
 
 **सुदेष्णा—**
 
@@ -4322,12 +4025,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 या सुजाता सुगन्धा चतामानय सुरामिति॥५५॥
 
 सा शङ्कमाना रुदती वेपन्ती द्रुपदात्मजा।  
-दैवतभ्यो [नमस्कृत्य](http://॑ "1. च – म– नमस्कृत्वा ।") श्वशुरेभ्यस्तथाऽब्रवीत्॥५६॥
+दैवतभ्यो [नमस्कृत्य]("1. च – म– नमस्कृत्वा ।") श्वशुरेभ्यस्तथाऽब्रवीत्॥५६॥
 
 द्रौपदी—
 
 यथाऽहमन्यं पार्थेभ्यो नाभिजानामि मानवम्।  
-तेन सत्येन मां दृष्ट्वा कीचको मा वशं [नयेत्](http://॑ "2. घ– ङ– च– म – यथाऽहं पाण्डुपुत्रेभ्यः पञ्चभ्यो नान्यगामिनी । तेन सत्येन मां दृष्ट्वा कीचको मा वशं नयेत् ॥ [अधिकः पाठः]")॥५७॥
+तेन सत्येन मां दृष्ट्वा कीचको मा वशं [नयेत्]("2. घ– ङ– च– म – यथाऽहं पाण्डुपुत्रेभ्यः पञ्चभ्यो नान्यगामिनी । तेन सत्येन मां दृष्ट्वा कीचको मा वशं नयेत् ॥ [अधिकः पाठः]")॥५७॥
 
 इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
 विराटपर्वणि पञ्चदशोऽध्यायः॥१५॥  
@@ -4335,8 +4038,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[ अस्मिन्नध्याये ५७ श्लोकाः\]
 
 ![](../books_images/U-IMG-1706934048Screenshot2023-11-08175537.png)
-
-
 
 **॥षोडशोऽध्यायः॥**
 
@@ -4351,7 +4052,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अकीर्तयत सुश्रोणी धर्मं शक्रं दिवाकरम्।  
 मारुतं चाश्विनौ देवौ कुबेरं वरुणं यमम्॥१॥
 
-रुद्रमग्निं [भवं](http://॑ "1. क–ख –घ –च–म – भगं ।") विष्णुं स्कन्दं पूषणमेव च।  
+रुद्रमग्निं [भवं]("1. क–ख –घ –च–म – भगं ।") विष्णुं स्कन्दं पूषणमेव च।  
 सावित्रीसहितं चापि ब्रह्माणं पर्यकीर्तयत्॥२॥
 
 इत्येवं मृगशाबाक्षी सुश्रोणी धर्मचारिणी।  
@@ -4363,8 +4064,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तच्चैनां नाजहात् तत्र सर्वावस्थास्वनिन्दिताम्॥४॥
 
 सा प्रतस्थे सुकेशान्ता त्वरमाणा पुनः पुनः।
-
-
 
 विलम्बमाना विवशा कीचकस्य निवेशनम्॥५॥
 
@@ -4384,7 +4083,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सर्वरुक्ममयीं मालां कुण्डले च हिरण्मये।  
 वासांसि चन्दनं माल्यं धूपशुद्धां च वारुणीम्॥१०॥
 
-[प्रतिगृह्णीष्व](http://॑ "1. ङ– इतः श्लोकत्रयं नास्ति ।") भद्रं ते विहर त्वं यथेच्छसि॥१०॥
+[प्रतिगृह्णीष्व]("1. ङ– इतः श्लोकत्रयं नास्ति ।") भद्रं ते विहर त्वं यथेच्छसि॥१०॥
 
 प्रीत्या मे कुरु पद्माक्षि प्रसादं प्रियदर्शने॥११॥
 
@@ -4398,15 +4097,13 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 स मूढः कीचकस्तत्र प्राप्तां राजीवलोचनाम्।
 
-
-
 अब्रवीद्द्रौपदीं दृष्ट्वा दुरात्मा ह्यात्मसम्मतः॥१४॥
 
 कीचकेनैवमुक्ता तु द्रौपदी वरभाषिणी।  
 अब्रवीन्न ममाचारम् ईदृशं वक्तुमर्हसि॥१५॥
 
-नाहं शक्या त्वया स्प्रष्टुं [निषादेने](http://॑ "1. क– ख– घ –श्वपाकेनेव । ङ– च– म – श्वपचेनेव ।")व ब्राह्मणी।  
-मा गमिष्यसि दुर्बुद्धे गतिं [दुर्गान्तरान्तराम्](http://॑ "2. क– दुर्गान्तरान्तनाम् । ख– दुर्गतरां त्वरात् । अ– ङ– म – दुर्गतरान्तराम् ।")॥१६॥
+नाहं शक्या त्वया स्प्रष्टुं [निषादेने]("1. क– ख– घ –श्वपाकेनेव । ङ– च– म – श्वपचेनेव ।")व ब्राह्मणी।  
+मा गमिष्यसि दुर्बुद्धे गतिं [दुर्गान्तरान्तराम्]("2. क– दुर्गान्तरान्तनाम् । ख– दुर्गतरां त्वरात् । अ– ङ– म – दुर्गतरान्तराम् ।")॥१६॥
 
 यत्र गच्छन्ति बहवः परदाराभिमर्शकाः।  
 नरास्सम्भिन्नमर्यादाः कीटवच्च गुहाशयाः॥१७॥
@@ -4428,11 +4125,9 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 सा गृहीता विधून्वन्ती भूमौ निक्षिप्य भाजनम्।
 
-
-
 सभां शरणमाधावद् यत्र राजा युधिष्ठिरः॥२१॥
 
-[तां](http://॑ "1. अ–ङ–च–म – इदमर्धं नास्ति ।") कीचकः प्रधावन्तीं केशपक्षे परामृशन्।  
+[तां]("1. अ–ङ–च–म – इदमर्धं नास्ति ।") कीचकः प्रधावन्तीं केशपक्षे परामृशन्।  
 पातयित्वा तु तां भूमौ सूतपुत्रः पदाऽवधीत्॥२२॥
 
 सभायां पश्यतो राज्ञो विराटस्य महात्मनः।  
@@ -4451,28 +4146,26 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 किमियं वध्यते बाला कृपणा चाप्यबान्धवा॥२७॥
 
-[तस्यामासन्](http://॑ "2. म – ताञ्चासीनौ ददृशतुर्युधिष्ठिरवृकोदरौ । अमृष्यमाणा कृष्णायाः कीचकेन पदा वधम् ॥ [अधिकः पाठः]") हि ते पार्थास् सभायां भ्रातरस्तथा।  
+[तस्यामासन्]("2. म – ताञ्चासीनौ ददृशतुर्युधिष्ठिरवृकोदरौ । अमृष्यमाणा कृष्णायाः कीचकेन पदा वधम् ॥ [अधिकः पाठः]") हि ते पार्थास् सभायां भ्रातरस्तथा।  
 अमृष्यमाणाः कृष्णायाः कीचकेन पदा वधम्॥२८॥
 
 तां दृष्ट्वा भीमसेनस्य क्रोधादास्त्रमवर्तत।
-
-
 
 धूमोच्छ्वासस्समभवन्नेत्रे चोच्छ्रितपक्षमणी।  
 सस्वेदा भ्रुकुटी चोग्रा ललाटे समवर्तत॥३०॥
 
 तस्य भीमो वधप्रेप्सुः कीचकस्य दुरात्मनः।  
-[दन्तैर्दन्तांस्तदा](http://॑ "1. च – श्लोकोऽयं नास्ति ।") रोपान्निष्पिपेष महामनाः॥३१॥
+[दन्तैर्दन्तांस्तदा]("1. च – श्लोकोऽयं नास्ति ।") रोपान्निष्पिपेष महामनाः॥३१॥
 
 भूयस्संत्वरितः क्रुद्धस् सहसोत्थाय चासनात्।  
-[निरैक्षत](http://॑ "2. च– अभूत् सन्त्वरितः क्रुद्धस् सहसोत्थाय चासनात् । [अधिकः पाठः]") द्रुमं दीर्घं राजानं चान्ववैक्षत॥३२॥
+[निरैक्षत]("2. च– अभूत् सन्त्वरितः क्रुद्धस् सहसोत्थाय चासनात् । [अधिकः पाठः]") द्रुमं दीर्घं राजानं चान्ववैक्षत॥३२॥
 
 वधमाकाङ्क्षमाणं तं कीचकस्य दुरात्मनः।  
 आकारेणैव भीमं स प्रत्यषेधयुधिष्ठिरः॥३३॥
 
 तस्य राजा शनैस्संज्ञां
-[कुन्तीपुत्रो](http://॑ "3. क– ख– म– कुर्वन् कुन्तीसुतोऽनघ ।") युधिष्ठिरः।  
-चकार [भीमसेनस्य](http://॑ "4. क– पाण्डुपुत्रस्य भीमस्यामिततेजसः । ख – भीमसेनस्य रोषाविष्टस्य ।") पाण्डुपुत्रस्य धीमतः॥३४॥
+[कुन्तीपुत्रो]("3. क– ख– म– कुर्वन् कुन्तीसुतोऽनघ ।") युधिष्ठिरः।  
+चकार [भीमसेनस्य]("4. क– पाण्डुपुत्रस्य भीमस्यामिततेजसः । ख – भीमसेनस्य रोषाविष्टस्य ।") पाण्डुपुत्रस्य धीमतः॥३४॥
 
 प्रत्याख्यानं तदा चाह कङ्को नाम युधिष्ठिरः॥३४॥
 
@@ -4483,8 +4176,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 यदि ते दारुकृत्यं स्यानिष्क्रम्य नगराद्बहिः।  
 समूलं शातयेर्वृक्षं श्रमस्ते न भविष्यति॥३६॥
-
-
 
 यस्य चार्द्रस्य वृक्षस्य शीतच्छायां समाश्रयेत्।  
 न तम्य पर्णे द्रुह्येत पूर्ववृत्तमनुस्मरन्॥३७॥
@@ -4516,9 +4207,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 प्रजारक्षणशीलानां राज्ञां ह्यमिततेजसाम्।
 
-
-
-[कार्यं](http://॑ "1. ङ–कार्यानुपालिनां । क–कार्यानुपालनान्नियं धर्मे च सत्ये तिष्ठता । ख–कार्यानुपालने । च–कार्यानुपालनं (घ) मर्यादापालनान्नित्यं ।") हि पालनं नित्यं धर्मे सत्ये चतिताम॥४५॥
+[कार्यं]("1. ङ–कार्यानुपालिनां । क–कार्यानुपालनान्नियं धर्मे च सत्ये तिष्ठता । ख–कार्यानुपालने । च–कार्यानुपालनं (घ) मर्यादापालनान्नित्यं ।") हि पालनं नित्यं धर्मे सत्ये चतिताम॥४५॥
 
 स्वप्रजायां प्रजायां च विशेषं नाधिगच्छताम्॥४६॥
 
@@ -4527,7 +4216,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विवादेषु प्रवृत्तेषु समं कार्यानुदर्शिना।  
 राज्ञा धर्मासनस्थेन जितौ लोकावुभावपि॥४७॥
 
-[राजन्](http://॑ "2. अ – राज्ञा धर्मासनस्थोऽपि") धर्मासनस्थोऽसि रक्ष मां त्वमनागसीम्॥४८॥
+[राजन्]("2. अ – राज्ञा धर्मासनस्थोऽपि") धर्मासनस्थोऽसि रक्ष मां त्वमनागसीम्॥४८॥
 
 अहं त्वनपराध्यन्ती कीचकेन दुरात्मना।  
 पश्यतस्ते महाराज ह्ता पादेन दासिवत्॥४९॥
@@ -4541,15 +4230,13 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 यस्त्वधर्मेण कार्याणि मोहात्मा कुरुते नृपः।  
 अचिरात् तं दुरात्मानं वशे कुर्वन्ति शत्रवः॥५२॥
 
-
-
 मत्स्यानां कुलजस्त्वं हि तेषां सत्यं परायणम्।  
 त्वं किलैवंविधो जातः कुले धर्मपरायणे॥५३॥
 
 अतस्त्वाऽहमभिक्रन्दे शरणार्थं नराधिप।  
 त्राहि मामद्य राजेन्द्र कीचकात् पापपूरुषात्॥५४॥
 
-[अनाथामिह](http://॑ "1. अ– च – अर्धत्रयं नास्ति ।") मां ज्ञात्वा कीचकः पुरुषाधमः।  
+[अनाथामिह]("1. अ– च – अर्धत्रयं नास्ति ।") मां ज्ञात्वा कीचकः पुरुषाधमः।  
 प्रहरत्येव नीघात्मा न तु धर्ममवेक्षते॥५५॥
 
 अकार्याणामनारम्भात् कार्याणामनुपालनात्।  
@@ -4565,11 +4252,9 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 द्वन्द्वं कार्यमकार्यं च लोके ह्यासीत् परं यथा॥५९॥
 
 धर्माधर्मौपुनर्द्वन्द्वं विनियुक्तमथापि वा।  
-[क्रियाणामक्रियाणां](http://॑ "2. क–अक्रियायाः क्रियायाश्च । ख– क्रियायामक्रियायां च । घ–क्रियमाणं क्रियाणां च ।") च प्रापणे पुण्यपापयोः॥६०॥
+[क्रियाणामक्रियाणां]("2. क–अक्रियायाः क्रियायाश्च । ख– क्रियायामक्रियायां च । घ–क्रियमाणं क्रियाणां च ।") च प्रापणे पुण्यपापयोः॥६०॥
 
 प्रजायां सृज्यमानायां पुरा ह्येतदुदाहृतम्।
-
-
 
 एतद्वो मानुपास्सम्यक् कार्यं द्वन्द्वत्रयं भुवि॥६१॥
 
@@ -4585,7 +4270,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 शक्रोऽप्यापृच्छय ब्रह्माणं देवराज्यमपालयत्॥६४॥
 
 यथोक्तं देवदेवेन ब्रह्मणा परमेष्ठिना।  
-तथा त्वमपि राजेन्द्र कार्याकार्ये [स्थिरो](http://॑ "1. अ–ङ–ब–म – स्थितो ।") भव॥६५॥
+तथा त्वमपि राजेन्द्र कार्याकार्ये [स्थिरो]("1. अ–ङ–ब–म – स्थितो ।") भव॥६५॥
 
 वैशम्पायनः—
 
@@ -4600,12 +4285,10 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 पाञ्चालराजस्य सुता दृष्ट्वा सुरसुतोपमा।  
 धर्मज्ञा व्यवहाराणां कीचकं कृतकिल्विषम्॥६९॥
 
-
-
 पुनः प्रोवाच राजानं स्मरन्ती धर्ममुत्तमम्॥६९॥
 
 सम्प्रेक्ष्य च वरारोहा सर्वांस्तत्र सभासदः।  
-[विराटं](http://॑ "1. ख – राजानुवर्तनपरान् कीचकं च कृतागसम् ।[अधिकः पाठः]") चाह पाञ्चाली दुःखेनाविष्टचेतना॥७०॥
+[विराटं]("1. ख – राजानुवर्तनपरान् कीचकं च कृतागसम् ।[अधिकः पाठः]") चाह पाञ्चाली दुःखेनाविष्टचेतना॥७०॥
 
 द्रौपदी—
 
@@ -4622,9 +4305,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 नाहमेतेन युक्ता वै हन्तुं मात्स्य तवान्तिके॥७४॥
 
 सभासदस्तु पश्यन्तु कीचकं धर्मलङ्गकम्।  
-विराटनृपते पश्य [मामनाथामनागसीम्](http://॑ "2. ख – न साम फलते दुष्टे दुष्टे दण्डः प्रयुज्यते ॥ अदण्ड्यान् दण्डयन् राजा दण्ड्यांश्चैबाप्यदण्डयन् । स राजा न भवेल्लोके राजशब्दस्य भाजनम् ॥ दीनान्धकृपणानाथपङ्गकुब्जजडादिकान् । अनाथ बालवृद्धांश्च पुरुषान् वा स्त्रियोऽपि वा ॥")॥७५॥
-
-
+विराटनृपते पश्य [मामनाथामनागसीम्]("2. ख – न साम फलते दुष्टे दुष्टे दण्डः प्रयुज्यते ॥ अदण्ड्यान् दण्डयन् राजा दण्ड्यांश्चैबाप्यदण्डयन् । स राजा न भवेल्लोके राजशब्दस्य भाजनम् ॥ दीनान्धकृपणानाथपङ्गकुब्जजडादिकान् । अनाथ बालवृद्धांश्च पुरुषान् वा स्त्रियोऽपि वा ॥")॥७५॥
 
 **विराटः—**
 
@@ -4663,8 +4344,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 त्वद्गृहे वसतीं राजनेतावत्कालपर्ययम्।  
 अधिकां त्वत्सुतायाश्च पश्य मां कीचकाहताम्॥\[अधिकः पाठः\]
 
-
-
 सर्वलोकमिमं हन्युर् यदि क्रुद्धा महावलाः।  
 तेषां मां मानिनीं भार्यां सूतपुत्रःपदाऽवधीत्॥८२॥
 
@@ -4694,15 +4373,13 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 केचित् कृष्णां प्रशंसन्ति केचिन्निन्दन्ति कीचकम्।  
 केचिन्निन्दन्ति राजानं केचिद्देवीं च ते नराः॥९०॥
 
-
-
 यस्येयं चारुसर्वाङ्गी भार्या स्यादायतेक्षणा।  
 परो लाभस्स तस्य स्यान्न स शोचेत् कदाचन॥९१॥
 
-यस्या गात्रं शुभं [पीनं](http://॑ "1. अ–च– दीनं । ख–घ– स्फीत ।") मुखं जयति पङ्कजम्।  
+यस्या गात्रं शुभं [पीनं]("1. अ–च– दीनं । ख–घ– स्फीत ।") मुखं जयति पङ्कजम्।  
 गतिर्हसं स्मितं कुन्दं सैषानार्हति पद्वधम्॥९२॥
 
-[द्वात्रिंशद्दशना](http://॑ "2. अ – घ –च – श्लोकद्वयं नास्ति ।") यस्याश् श्वेता मांसनिबन्धनाः।  
+[द्वात्रिंशद्दशना]("2. अ – घ –च – श्लोकद्वयं नास्ति ।") यस्याश् श्वेता मांसनिबन्धनाः।  
 स्निग्धाश्च मृदवः केश\।स् सैषा नार्हति पद्धधम्॥९३॥
 
 पद्मं चक्रं ध्वजं शङ्खं प्रासादो मकरस्तथा।  
@@ -4720,13 +4397,11 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 देवदेवीव सुभगा शक्रदेवीव शोभना।  
 अप्सरा इव सारूप्यान्नेयं योग्या पदा वधम्॥९८॥
 
-
-
 **वैशम्पायनः—**
 
 इति स्मापूजयंस्तत्रकृष्णां प्रेक्ष्य सभासदः॥९८॥
 
-[सा](http://॑ "1—लक्षालङ्कारकारैरादृतोऽयं श्लोकः — परं तु सर्वेषु कोशेषु नोपलभ्यते ।") विनिश्श्वस्य सुश्रोणी भूमावन्तर्मुखी स्थिता।  
+[सा]("1—लक्षालङ्कारकारैरादृतोऽयं श्लोकः — परं तु सर्वेषु कोशेषु नोपलभ्यते ।") विनिश्श्वस्य सुश्रोणी भूमावन्तर्मुखी स्थिता।  
 तूष्णीमासीत् तदा दृष्ट्वा विवक्षन्तं युधिष्ठिरम्॥९९॥
 
 युधिष्ठिरस्य कोपात् तु ललाटे स्वेद आस्रवत्॥१००॥
@@ -4742,7 +4417,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 यतस्त्वां न परिवाति सत्ये धर्मपथे स्थितः॥१०२॥
 
 भर्तारस्तव पश्यन्ति क्लिश्यन्ते धीरचेतसः।  
-शुश्रूषया क्लिश्यमानाः [परलोकं](http://॑ "2. अ–ड— पति । घ — परलोकान्भजन्सुत ।") जयन्त्युत॥१०३॥
+शुश्रूषया क्लिश्यमानाः [परलोकं]("2. अ–ड— पति । घ — परलोकान्भजन्सुत ।") जयन्त्युत॥१०३॥
 
 मन्ये न कालः क्रोधस्य पश्यन्ति पतयस्तव।  
 तेन त्वां नाभिधावन्ति गन्धर्वास्सूर्यवर्चसः॥१०४॥
@@ -4753,13 +4428,11 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 नास्ति कश्चित् स्त्रिया यज्ञो न श्राद्धं नाप्युपोषणम्।  
 या चभर्तरि शुश्रूषासा स्वर्गायाभिजायते॥१०६॥
 
-
-
 पिता रक्षति कौमारे भर्ता रक्षति यौवने।  
 पुत्रस्तु स्थाविरे भावे न स्त्री स्वातन्त्र्यमर्हति॥१०७॥
 
 अनुरुध्यमाना भर्तारं दृश्यन्ते वीरपत्नयः।  
-[शुश्रूषया](http://॑ "1. अ– च – इदमर्धं नास्ति ।") क्लिश्यमानाः पतिलोकं जयन्त्युत॥१०८॥
+[शुश्रूषया]("1. अ– च – इदमर्धं नास्ति ।") क्लिश्यमानाः पतिलोकं जयन्त्युत॥१०८॥
 
 भर्तॄन् प्रति तथा पत्न्यो न क्रुध्यन्ति कदाचन।  
 बहुभिश्च परिक्लेशैर् अवज्ञाताश्च शत्रुभिः॥१०९॥
@@ -4784,11 +4457,9 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 इत्येवमुक्ते तिष्ठन्तीं पुनरेवाह धर्मराट्॥११५॥
 
-
-
 **युधिष्ठिरः—**
 
-[दुःखं](http://॑ "1. च – दुःखं करोषि वै भद्रे दीव्यतां। ख – विघ्नं करोषि भद्रं तद्दीव्यतां । घ– दुःखाद्गोदिषि भद्रं ते दीनैवं ।") रोदिषि वै भद्रे दीना त्वं राजसंसदि।  
+[दुःखं]("1. च – दुःखं करोषि वै भद्रे दीव्यतां। ख – विघ्नं करोषि भद्रं तद्दीव्यतां । घ– दुःखाद्गोदिषि भद्रं ते दीनैवं ।") रोदिषि वै भद्रे दीना त्वं राजसंसदि।  
 तस्मान्त्वमपि सुश्रोणि शैलषीव विभासि नः॥ ११६॥
 
 वैशम्पायनः—
@@ -4816,8 +4487,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 समयं नातिवर्तन्ते वेलामिव महोदधिः॥१२२॥
 
-
-
 सा प्रविश्य प्रवेपन्ती सुदेष्णाया निवेशनम्।  
 रुदन्ती चारसर्वाङ्गी तस्यास्तस्थावथाग्रतः॥१२३॥
 
@@ -4828,7 +4497,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 किमिदं पद्मसंकाशं सुदन्तोष्ठाक्षिनासिकम्।  
 रुदन्त्या अवमृष्टास्रं पूर्णेन्दुसमवर्चसम्॥१२४॥
 
-[बिम्बोष्ठं](http://॑ "1. क– म– बाष्पोष्णं ।")कृष्णताराभ्याम् अत्यन्तरुचिरप्रभम्।  
+[बिम्बोष्ठं]("1. क– म– बाष्पोष्णं ।")कृष्णताराभ्याम् अत्यन्तरुचिरप्रभम्।  
 नयनाभ्यामजिह्माभ्यां मुखं ते मुञ्चते जलम्॥१२५॥
 
 कस्त्वाऽवधीद्वरारोहे कस्माद्रोदिषि शोभने।  
@@ -4840,30 +4509,28 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वैशम्पायनः—
 
 तां निश्श्वस्याब्रवीत् कृष्णा जानन्ती नाम पृच्छसि।  
-[भ्रातुस्त्वं](http://॑ "2. क – भ्रात्रेत्वं मामनुप्रेष्य । अ–ङ–च– मामभिप्रेक्ष्य ") मामनुप्रेष्य किमेवं हि विकत्यसे॥१२८॥
+[भ्रातुस्त्वं]("2. क – भ्रात्रेत्वं मामनुप्रेष्य । अ–ङ–च– मामभिप्रेक्ष्य ") मामनुप्रेष्य किमेवं हि विकत्यसे॥१२८॥
 
 कीचको माऽवधीत् तत्र सुराहारीमितोगताम्।  
 सभायां पश्यतो राज्ञो यथा वै निर्जने वने॥१२९॥
-
-
 
 **सुदेष्णा—**
 
 घातयामि सुदन्तोष्ठि कीचकं यदि मन्यसे॥१३०॥
 
-[भ्राता](http://॑ "1. म – इदमर्धं नास्ति ।") यद्येप सुव्यक्तं स्यादितो धर्मचारिणीम्।  
+[भ्राता]("1. म – इदमर्धं नास्ति ।") यद्येप सुव्यक्तं स्यादितो धर्मचारिणीम्।  
 यस्त्वां कामाभिभूतात्मा दुर्लभामवमन्यते॥१३१॥
 
 द्रौपदी—
 
-अद्यैव तं हनिष्यन्ति[येषामागस्करो](http://॑ "2. क – विप्रकर्तारमव्यथम् ।घ – एषामागः करोति सः ।") हि सः।  
+अद्यैव तं हनिष्यन्ति[येषामागस्करो]("2. क – विप्रकर्तारमव्यथम् ।घ – एषामागः करोति सः ।") हि सः।  
 मन्येऽहमद्य वा श्वो वा परलोकं गमिष्यति॥१३२॥
 
 भ्रातुः प्रयच्छ त्वरिता जीवश्राद्धं त्वमद्य वै।  
 सुदृष्टं कुरु वै चैनं नासून् मन्ये धरिष्यति॥१३३॥
 
 तेषां हि मम भर्तॄणां पञ्चानां धर्मचारिणाम्।  
-एको [दुर्घर्षणोऽत्यर्थं](http://॑ "3. क– ख – घ–म– दुर्मर्षणो ।") बले पाप्रतिमो भुवि॥१३४॥
+एको [दुर्घर्षणोऽत्यर्थं]("3. क– ख – घ–म– दुर्मर्षणो ।") बले पाप्रतिमो भुवि॥१३४॥
 
 निर्मनुष्यमिमं लोकं कुर्यात् क्रुद्धो निशामिमाम्।  
 न च सङ्क्रुध्यते तावद् गन्धर्वः कामरूपधृक्॥१३५॥
@@ -4875,14 +4542,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 अपि चैतत् पुरा प्रोक्तं निपुणैर्मनुजोत्तमैः॥१३७॥
 
-
-
 एकस्तु कुरुते पापं कालपाशवशं गतः।  
 नीचेनात्मापराधेनकुलं तेन विनश्यति॥१३८॥
 
 वैशम्पायनः—
 
-[सुदेष्णामेवमुक्त्वा](http://॑ "1. अ–घ–ङ– अर्धसप्तकं नास्ति ।") तु सैरन्ध्री दुःखमोहिता।  
+[सुदेष्णामेवमुक्त्वा]("1. अ–घ–ङ– अर्धसप्तकं नास्ति ।") तु सैरन्ध्री दुःखमोहिता।  
 कीचकस्य वधार्थाय व्रतदीक्षामुपागमत्॥१३९॥
 
 अभ्यर्थिता च नारीभिर् मानिता च सुदेष्णया।  
@@ -4893,7 +4558,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तां तथा शोकसन्तप्तां दृष्ट्वा प्ररुदितां स्त्रियः।  
 कीचकस्य वधं सर्वा मनोभिश्च शशंसिरे॥१४१॥
 
-[जनमेजय](http://॑ "* इत आरभ्य अध्यायसमाप्तिपर्यन्तस्थितश्लोकाः अ– घ–कोशयोः नोपलभ्यन्ते")ः—
+[जनमेजय]("* इत आरभ्य अध्यायसमाप्तिपर्यन्तस्थितश्लोकाः अ– घ–कोशयोः नोपलभ्यन्ते")ः—
 
 अहो दुःखतरं प्राप्ता कीचकेन पदा हता।  
 पतिव्रता महाभागा द्रौपदी योषितां वरा॥१४२॥
@@ -4905,8 +4570,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 नाशपत् तं महाभागा कृष्णा पादेन ताडिता॥१४४॥
 
 तेजोराशिरियं देवी धर्मज्ञा सत्यवादिनी।
-
-
 
 केशपक्षे परामृष्टा मर्पयिष्यत्यशक्तवत्॥१४५॥
 
@@ -4938,18 +4601,16 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 उपजीव्य च यत् क्षत्रं लब्धं सूतेन यत्पुरा।  
 सूतानामधिपो राजा केकयो नाम विश्रुतः॥१५६॥
 
-
-
 राजकन्यासमुद्भूतस् सारथ्येऽनुपमोऽभवत्।  
 पुत्रास्तस्य कुरुश्रेष्ठ मालव्याञ्जज्ञिरे तदा॥१५५॥
 
-[तेषामतिबलो](http://॑ "1. ख– कीचका इति विख्याताशतं पट् चैव भारत ।[अधिकः पाठः] ङ – इतः सार्धश्लोको नास्ति") ज्येष्ठः कीचकस्सर्वजित् प्रभो।  
+[तेषामतिबलो]("1. ख– कीचका इति विख्याताशतं पट् चैव भारत ।[अधिकः पाठः] ङ – इतः सार्धश्लोको नास्ति") ज्येष्ठः कीचकस्सर्वजित् प्रभो।  
 अग्रजो बलसम्मत्तस् तेनासीत् सूतपट्शतम्॥१५६॥
 
-[द्वितीयायां](http://॑ "2. ख– म–मालव्या एव कौरव्य पित्रा।") तु मालव्यां चित्रा ह्यवरजाऽभवत्।  
-[तां](http://॑ "3. ख – म – तस्यां केकयराज्ञस्तु सुदेष्णा दुहिताऽभवत् । इति पाठान्तरम्.") सुदेष्णेति वै प्राहुर् विराटमहिर्षीप्रियाम्॥१५७॥
+[द्वितीयायां]("2. ख– म–मालव्या एव कौरव्य पित्रा।") तु मालव्यां चित्रा ह्यवरजाऽभवत्।  
+[तां]("3. ख – म – तस्यां केकयराज्ञस्तु सुदेष्णा दुहिताऽभवत् । इति पाठान्तरम्.") सुदेष्णेति वै प्राहुर् विराटमहिर्षीप्रियाम्॥१५७॥
 
-तां विराटस्य मात्स्यस्य [केकयः](http://॑ "4. अ– क– घ– च– कीचकः ।") प्रददौ मुदा।  
+तां विराटस्य मात्स्यस्य [केकयः]("4. अ– क– घ– च– कीचकः ।") प्रददौ मुदा।  
 सुरथायां मृतायां तु कौसल्यां श्वेतमातरि॥१५८॥
 
 श्वेते विनष्टे शङ्खेच गते मातुलवेश्मनि।  
@@ -4962,8 +4623,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सदा परिचरन् प्रीत्या विराटे न्यवसत् सुखी॥१६१॥
 
 भ्रातरस्तस्य विक्रान्तास्सर्वे च तमनुव्रताः।
-
-
 
 विराटस्यैव संदृष्टा वलं कोशं च वर्धयन्॥१६२॥
 
@@ -4982,17 +4641,15 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अङ्गान् वङ्गान् कलिङ्गांश्च तङ्कणान् वरतङ्कणान्।  
 मलदान् निषधांश्चैव तुण्डिकेरांश्च कोङ्कणान्॥१६७॥
 
-[करदांश्च](http://॑ "1. ख– ग –ङ – किरातांश्च निषिद्वांश्च शिवान् मद्विल्लिकांस्तथा । (ङ) – कदरांश्च ।  [इति पाठान्तरम् ]") निषिद्धांश्च शिवान् दुश्छिल्लिकांस्तथा॥ १६७॥
+[करदांश्च]("1. ख– ग –ङ – किरातांश्च निषिद्वांश्च शिवान् मद्विल्लिकांस्तथा । (ङ) – कदरांश्च ।  [इति पाठान्तरम् ]") निषिद्धांश्च शिवान् दुश्छिल्लिकांस्तथा॥ १६७॥
 
 अन्ये च बहवश्शूरा नानाजनपदेश्वराः।  
 कीचकेन रणे भग्ना व्यद्रवन्त दिशो दश॥१६८॥
 
-तमेवं वीर्यसम्पन्नं नागायुत [बलं](http://॑ "2. ख– ग – ङ–म– समं बले ।") रणे।  
+तमेवं वीर्यसम्पन्नं नागायुत [बलं]("2. ख– ग – ङ–म– समं बले ।") रणे।  
 विराटस्तत्र सेनायाश्चकार पतिमात्मनः॥१६९॥
 
 विराटभ्रातरश्चैव दश दाशरथोपमाः।
-
-
 
 ते चैनानन्ववर्तन्त कीचकान् बलवत्तरान्॥१७०॥
 
@@ -5007,7 +4664,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 जानन्ती तद्यथातत्त्वं पाञ्चाली न शशाप तम्॥१७३॥
 
 क्षमा धर्मः क्षमा दानं क्षमा यज्ञः क्षमा यशः।  
-क्षमा सत्यं क्षमा शीलं क्षमा [सत्यमिति](http://॑ "1. ख– ङ– कीर्तिः क्षमा परम् । क्षमा पुण्यं क्षमा तीर्थं क्षमा सर्वमिति श्रुतिः । [अधिकः पाठः]") श्रुतिः॥१७४॥
+क्षमा सत्यं क्षमा शीलं क्षमा [सत्यमिति]("1. ख– ङ– कीर्तिः क्षमा परम् । क्षमा पुण्यं क्षमा तीर्थं क्षमा सर्वमिति श्रुतिः । [अधिकः पाठः]") श्रुतिः॥१७४॥
 
 क्षमावतामयं लोकः परश्चैव क्षमावताम।  
 एतत् सर्वं विजानन्ती सा क्षमामन्वपद्यत॥१७५॥
@@ -5021,12 +4678,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अथ भीमो महावाहुम् सूदयिष्यंस्तु कीचकम्।  
 वारितो धर्मपुत्रेण वेलयेव महोदधिः॥१७८॥
 
-
-
 सन्धार्य मनसा रोपं दिवारात्रं विनिश्श्वसन्।  
 महानसे सदा कृच्छ्रात् सुप्वाप रजनीं च ताम्॥१७९॥
-
-
 
 **इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
 विराटपर्वणि षोडशोऽध्यायः॥१६॥  
@@ -5056,8 +4709,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 किं करोमि क्वगच्छामि कथं कार्यं भवेन्मम।
 
-
-
 इत्येवं चिन्तयित्वा सा भीमं तं मनसाऽगमत्॥४॥
 
 अन्यः कर्ता विना भीमान्न मेऽद्य मनसेप्सितम्॥४॥
@@ -5073,7 +4724,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सर्वश्वेतेव माहेयी वने वृद्धा त्रिहायणी।  
 उपातिष्ठत पाञ्चाली भीमं कौरवमच्युतम्॥८॥
 
-मृगर्षभं यथा [दृप्तम्](http://॑ "1. क–ग–ङ – व–म – सुप्त") अर्थिनी वननिर्झरे।  
+मृगर्षभं यथा [दृप्तम्]("1. क–ग–ङ – व–म – सुप्त") अर्थिनी वननिर्झरे।  
 सुप्रसुप्तं तथा स्थाने मृगराजवधूरिव॥९॥
 
 अभिप्रसार्यवाहुभ्यां पतिं सुप्तं समाश्लिषत्।  
@@ -5087,12 +4738,10 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 यथा शची देवराजं रुद्राणी शङ्करं यथा।  
 ब्रह्माणमिव सावित्री यथा षष्ठी गुहं तथा॥१२॥
 
-
-
 दिशागजसमाकारं गजं गजवधूरिव।  
 भीमं प्राबोधयत् कान्ता लक्ष्मीर्दामोदरं यथा॥१३॥
 
-वीणेव [मधुरारक्तं](http://॑ "1. क– च–म – मधुरारक्ता।ख – मधुरं रक्ता । घ– मधुरासक्ता") स्वरं गान्धारमाश्रिता।  
+वीणेव [मधुरारक्तं]("1. क– च–म – मधुरारक्ता।ख – मधुरं रक्ता । घ– मधुरासक्ता") स्वरं गान्धारमाश्रिता।  
 अभ्यभाषत पाञ्चाली कौरव्यं पाण्डुनन्दनम्॥१४॥
 
 द्रौपदी—
@@ -5106,19 +4755,17 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वैशम्पायनः—
 
 सुखसुप्तश्च तं शब्दं निशम्य चवृकोदरः।  
-[सञ्चोदितः](http://॑ "2. क– ख– घ –संवेदितः ।म–संवेजितः कुरुश्रेष्ठ ।") कुरुश्रेष्ठस् तोत्रैरिव महागजः॥१७॥
+[सञ्चोदितः]("2. क– ख– घ –संवेदितः ।म–संवेजितः कुरुश्रेष्ठ ।") कुरुश्रेष्ठस् तोत्रैरिव महागजः॥१७॥
 
 स वै विहाय शयनं यस्मिन सुप्तःप्रबोधितः।  
 उदतिष्ठदमेयात्मा पर्यङ्के सोत्तरच्छदे॥१८॥
 
-[उपवेश्य](http://॑ "3. क– उपविश्य । घ – उदपश्यञ्च दुर्घषांपाञ्चालीं ।") चदुर्धर्षः पाञ्चालकुलवर्धनीम्।  
+[उपवेश्य]("3. क– उपविश्य । घ – उदपश्यञ्च दुर्घषांपाञ्चालीं ।") चदुर्धर्षः पाञ्चालकुलवर्धनीम्।  
 अथाब्रवीद्राजपुत्रींकौरव्यो महिषीं प्रियाम्॥१९॥
 
 भीमसेनः—
 
 केनास्यर्थेन सम्प्राप्ता त्वरितेन ममान्तिकम्।
-
-
 
 न ते प्रकृतिमान् वर्णः कृशा त्वमभिलक्ष्यसे॥२०॥
 
@@ -5152,8 +4799,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अशोच्यता कुतस्तस्या यस्या भर्ता युधिष्ठिरः।  
 जानन् सर्वाणि दुःखानि किं मां भीमानुपृच्छसि॥ २७॥
 
-
-
 यन्मां दासीप्रवादेन प्रातिकामी तदाऽनयत्।  
 सभायां परिपन्मध्ये तन्मे मर्माणि कृन्तति॥२८॥
 
@@ -5184,11 +4829,9 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 गोशीर्षकं पद्मकं च हरिश्यामं च चन्दनम्।
 
-
-
 नित्यं पिङ्क्षे विराटस्य त्वयि जीवति पाण्डव॥३७॥
 
-साऽहं बहूनि दुःखानि गणयामि [न](http://॑ "1. म – कृते न ते ।") ते कृते॥३८॥
+साऽहं बहूनि दुःखानि गणयामि [न]("1. म – कृते न ते ।") ते कृते॥३८॥
 
 मत्स्यराजसमक्षं तु तस्य धूर्तस्य पश्यतः।  
 कीचकेन पदा स्पृष्टा का नु जीवेत मादृशी॥३९॥
@@ -5211,10 +4854,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 स मां सैरन्ध्रवेपेण वसन्ती राजवेश्मनि।  
 नित्यमेवाह दुष्टात्मा भार्या भव ममेति वै॥४५॥
 
-तेन [वमुच्यमानाया](http://॑ "2. क – वं चोद्यमानाया वधार्हेणारिसूदन । ङ– म – तेनैवमुच्यमानाऽहं वधार्हेणारिसूदन ।")
-[वधार्हेणारिसूदन](http://॑ "3. अ—वधार्हेण ममेति वै ।")।
-
-
+तेन [वमुच्यमानाया]("2. क – वं चोद्यमानाया वधार्हेणारिसूदन । ङ– म – तेनैवमुच्यमानाऽहं वधार्हेणारिसूदन ।")
+[वधार्हेणारिसूदन]("3. अ—वधार्हेण ममेति वै ।")।
 
 कालेनेव फलं पक्कं हृदयं मे विदीर्यते॥४६॥
 
@@ -5246,16 +4887,14 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 को हि राज्यं परित्यज्य सपुत्रपशुबान्धवम्।  
 प्रव्रजेत महारण्यम् अजिनैः परिवारितः॥५५॥
 
-
-
-[यदि](http://॑ "1. म – यदि निष्कसहस्राणि शतं रुक्मस्य भारत । एकः पणोभवेद् द्यूते बहून् मासान् परन्तप । [अधिकः पाठः]") निष्कसहस्राणि यच्चान्यत् सारवद्धनम्।  
+[यदि]("1. म – यदि निष्कसहस्राणि शतं रुक्मस्य भारत । एकः पणोभवेद् द्यूते बहून् मासान् परन्तप । [अधिकः पाठः]") निष्कसहस्राणि यच्चान्यत् सारवद्धनम्।  
 सायं प्रातरदेविष्यद् अपि संवत्सरायुतम्॥५६॥
 
 रुक्मं हिरण्यं वासांसि यानं युग्यमजाविकम्।  
 अश्वाश्च रथसङ्घाश्च न जातु क्षयमाव्रजेत्॥५७॥
 
 सोऽयं द्यूतप्रवादेन
-[श्रियश्चाप्यवरोपितः](http://॑ "2. क – श्रिया पर्यवरोपितः ।ख– च–म—श्रियश्चैवावरोपितः । ङ– श्रिया चैव वियोजितः ।")।  
+[श्रियश्चाप्यवरोपितः]("2. क – श्रिया पर्यवरोपितः ।ख– च–म—श्रियश्चैवावरोपितः । ङ– श्रिया चैव वियोजितः ।")।  
 तूष्णीमास्ते यथा मूढस् स्वानि कर्माण्यचिन्तयन्॥५८॥
 
 पुरा शतसहस्राणि दन्तिनां हेममालिनाम्।  
@@ -5270,20 +4909,18 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 एष निष्कसहस्राणि दत्त्वा प्रातर्दिनेदिने।  
 द्यूतजेन ह्यनर्थेन महता समुपाश्रितः॥६२॥
 
-एनं सुस्वरसम्पन्ना [बहवस्सूतमागधाः](http://॑ "3. ङ – सर्वकामैरुपस्थिताः ।")।
-
-
+एनं सुस्वरसम्पन्ना [बहवस्सूतमागधाः]("3. ङ – सर्वकामैरुपस्थिताः ।")।
 
 सुप्तं प्रातरुपातिष्ठन् सुमृष्टमणिकुण्डलाः॥६३॥
 
 सहस्रमृषयोः यस्य नित्यमासन् सभासदः।  
 तपश्श्रुतोपसम्पन्नास् सर्वकामैरुपस्थिताः॥६४॥
 
-अन्धान् वृद्धांस्तथा [दीनान्](http://॑ "1. क– ख – म – ऽनाथान् ।घ – ऽनाथानर्धरात्रेषु ।") सर्वराष्ट्रेषु दुःखितान्।  
+अन्धान् वृद्धांस्तथा [दीनान्]("1. क– ख – म – ऽनाथान् ।घ – ऽनाथानर्धरात्रेषु ।") सर्वराष्ट्रेषु दुःखितान्।  
 बिभर्त्यन्नार्थिनो नित्यम् आनृशंस्यायुधिष्ठिरः॥६५॥
 
-स एष[निलयं](http://॑ "2. क– ख – म – निरयं ।ङ– दुर्गतिं ।") प्राप्तो मत्स्यस्य परिचारकः।  
-सभायां[विनतो](http://॑ "3. क– ख– ड– म – विदितो") राज्ञः कङ्को नाम युधिष्ठिरः॥६६॥
+स एष[निलयं]("2. क– ख – म – निरयं ।ङ– दुर्गतिं ।") प्राप्तो मत्स्यस्य परिचारकः।  
+सभायां[विनतो]("3. क– ख– ड– म – विदितो") राज्ञः कङ्को नाम युधिष्ठिरः॥६६॥
 
 इन्द्रप्रस्थे निवसतस् समये यस्य पार्थिवाः।  
 आसन् बलिकरास्सर्वे सोऽन्येभ्यो भूतिमिच्छति॥६७॥
@@ -5300,8 +4937,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अनवद्यं महाप्राज्ञं जीवितार्थेन संवृतम्।  
 दृष्ट्वा कम्य न दुःखं स्याद् धर्मराजं युधिष्ठिरम्॥७१॥
 
-
-
 उपास्ते स्म सभायां यं कृत्स्ना चैव वसुन्धरा।  
 तमुपासन्तमद्यान्यं पश्य भारत भारतम्॥७२॥
 
@@ -5314,7 +4949,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 शार्दूलैर्महिपैर्नागैर् अगारे योत्स्यसे सदा।  
 कैकेय्याः प्रेक्षमाणायाम् तदा मे कश्मलोऽभवत्॥३५॥
 
-[हसन्त्यन्तःपु](http://॑ "1. अ–क– घ –च – म – इदमर्धं नास्ति ।")रे नार्यो मम चेष्टां निरीक्ष्य च॥७५॥
+[हसन्त्यन्तःपु]("1. अ–क– घ –च – म – इदमर्धं नास्ति ।")रे नार्यो मम चेष्टां निरीक्ष्य च॥७५॥
 
 तत उत्थाय कैकेयी सर्वास्ताः प्रत्यभाषत।  
 प्रेक्ष्य मामनवद्याङ्गी कश्मलाभिहतामिव॥७६॥
@@ -5330,8 +4965,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 इति ब्रुवाणा वाक्यानि सा मां नित्यमजीजपत्॥८०॥
 
-
-
 क्रुध्यन्तीं मां च सम्प्रेक्ष्य पर्यशङ्कत मां त्वयि॥८०॥
 
 वैशम्पायनः—
@@ -5343,12 +4976,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 द्रौपदी—
 
-[शोके](http://॑ "1. अ-च- इदमर्धंनास्ति ।") यौधिष्ठिरे मग्ना नाहं जीवितुमुत्सहे॥८२॥
+[शोके]("1. अ-च- इदमर्धंनास्ति ।") यौधिष्ठिरे मग्ना नाहं जीवितुमुत्सहे॥८२॥
 
 यस्तु देवान् मनुष्यांश्च सर्वानेकरथोऽजयत्।  
 सोऽयं राज्ञो विराटस्य कन्यानर्तनको युवा॥८३॥
 
-[आस्ते](http://॑ " 2. म इदमर्धंनास्ति ।") वेषप्रतिच्छन्नः कन्यानां परिचारकः॥८४॥
+[आस्ते](" 2. म इदमर्धंनास्ति ।") वेषप्रतिच्छन्नः कन्यानां परिचारकः॥८४॥
 
 योऽतर्पयदमेयात्मा खाण्डवे हव्यवाहनम्।  
 सोऽन्तःपुरगतः पार्थः कूपेऽग्निरिव संवृतः॥८५॥
@@ -5363,18 +4996,16 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 स्त्रियो गीतस्वनात् तस्यमुदिताः पर्युपासते॥८८॥
 
-
-
 किरीटं सूर्यसङ्काशं यस्य मूर्धन्यशोभत।  
 वेणीविकृत केशान्तस् सोऽयमद्य धनञ्जयः॥८९॥
 
-यस्मिन्नस्त्राणि दिव्यानि [सुबहूनि](http://॑ "1. क- ख -ग - च-म - समस्तानि, घ-- सर्वाणि च") महात्मनि।  
+यस्मिन्नस्त्राणि दिव्यानि [सुबहूनि]("1. क- ख -ग - च-म - समस्तानि, घ-- सर्वाणि च") महात्मनि।  
 आधारस्सर्वविद्यानां स धारयति कुण्डले॥९०॥
 
 यं वै राजसहस्राणि तेजसाऽप्रतिमं भुवि।  
 समरे नातिवर्तन्ते वेलामिव महोर्मयः॥९१॥
 
-[यस्य](http://॑ "2. क ख व-ङ सोऽयं राज्ञो विराटस्य कन्यानर्तनको युवा । आस्ते वेषप्रतिच्छन्नः कन्यार्ना परिचारकः ॥[अधिकः पाठ]") स्म स्थनिर्घोषात् समकम्पत मेदिनी।  
+[यस्य]("2. क ख व-ङ सोऽयं राज्ञो विराटस्य कन्यानर्तनको युवा । आस्ते वेषप्रतिच्छन्नः कन्यार्ना परिचारकः ॥[अधिकः पाठ]") स्म स्थनिर्घोषात् समकम्पत मेदिनी।  
 सपर्वतवनाकाशा सहस्थावरजङ्गमा॥९२॥
 
 यस्मिञ्जाते महेष्वासे कुन्त्याः प्रीतिरवर्धत।  
@@ -5388,14 +5019,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 यदा ह्येनं परिवृतं कन्याभिर्देवरूपिणम।
 
-
-
 प्रच्छन्नमिव मातङ्गं परिपूर्णं करेणुभिः॥९६॥
 
 मात्स्यं पार्थं च गायन्तं विराटं समुपस्थितम्।  
 पश्यामि स्त्रीषु मध्यस्थं दृष्ट्वा मुह्यति मे मनः॥९७॥
 
-['न](http://॑ "1. ख- ङ - म - नूनमार्या न जानातिघ- नूनं महानसव्रतं") चैनमार्या जानाति कृच्छ्रं प्राप्तं धनञ्जयम्।  
+['न]("1. ख- ङ - म - नूनमार्या न जानातिघ- नूनं महानसव्रतं") चैनमार्या जानाति कृच्छ्रं प्राप्तं धनञ्जयम्।  
 अजातशत्रुं कौरव्यं मग्नं तं द्यूतदेवने॥९८॥
 
 ऐन्द्रवारुणवायव्यब्रह्माग्नेयैश्च वैष्णवैः।  
@@ -5403,7 +5032,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^208]: "2. क ख - घ ङ म - सर्वशनिबर्हण :"
 
-[दिव्यैर](http://॑ "3. क ख - घ च - रमेयात्मा सर्वांश्चैकरथोऽजयत् ।")स्त्रै रचिन्त्यात्मा सर्वशत्रुनिवर्हणः॥९९॥
+[दिव्यैर]("3. क ख - घ च - रमेयात्मा सर्वांश्चैकरथोऽजयत् ।")स्त्रै रचिन्त्यात्मा सर्वशत्रुनिवर्हणः॥९९॥
 
 दिव्यं गान्धर्वमस्त्रं च वायव्यमथ वैष्णवम्।  
 ब्राह्मं पाशुपतं चैव स्थूणाकर्णं च दर्शयन्॥१००॥
@@ -5417,8 +5046,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 स्त्रीवेषविकृतं पार्थं कुन्तीं गच्छति मे मनः॥१०३॥
 
 यस्त्रीभिर्नित्यसम्पन्न रूपेणास्त्रेण मेधया।
-
-
 
 सोऽश्वबन्धो विराटस्य पश्य कालस्य पर्ययम्॥१०४॥
 
@@ -5449,15 +5076,13 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 विराटमभिनन्दन्तम् अथ मे भवति ज्वरः॥११२॥
 
-
-
 सहदेवं हि मे नित्यं वीरमार्या प्रशंसति।  
 महाभिजनसम्पन्नो नीतिमाञ् शीलवानपि॥११३॥
 
 ह्रीनिषेधो ह्यनवमो धार्मिकश्च प्रियश्च मे।  
-स तेऽरण्ये[षु](http://॑ "1. क– ख– घ–म – ऽवबोद्धव्यः ।")वोढव्यः पाञ्चालि रजनीष्वपि॥११४॥
+स तेऽरण्ये[षु]("1. क– ख– घ–म – ऽवबोद्धव्यः ।")वोढव्यः पाञ्चालि रजनीष्वपि॥११४॥
 
-तं दृष्ट्वा गोषु गोपालवेषमास्थाय[धिष्ठितम्](http://॑ "2. क– ख – ङ – म – विष्ठितम् । (घ) निष्टितम् ।")।  
+तं दृष्ट्वा गोषु गोपालवेषमास्थाय[धिष्ठितम्]("2. क– ख – ङ – म – विष्ठितम् । (घ) निष्टितम् ।")।  
 सहदेवं युधां श्रेष्ठं किं नु जीवामि पाण्डव॥११५॥
 
 एवं दुःखशताविष्टा युधिष्ठिरनिमित्ततः॥११६॥
@@ -5466,7 +5091,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वर्तन्ते मयि कौन्तेय वक्ष्याम्यन्यानि तानि ते॥११७॥
 
 युष्मासु ध्रियमाणेषु दुःखानि विविधान्युत।  
-शोषयन्ति शरीरं मे किं नु दुःखतरं [ततः](http://॑ " *ख–एकभर्ता तु या नारी सा दुःखेनैव वर्तते । पञ्च मे पतयस्सन्ति मम दुःखमनन्तकम् ॥")॥११८॥
+शोषयन्ति शरीरं मे किं नु दुःखतरं [ततः](" *ख–एकभर्ता तु या नारी सा दुःखेनैव वर्तते । पञ्च मे पतयस्सन्ति मम दुःखमनन्तकम् ॥")॥११८॥
 
 इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
 विराटपर्वणि सप्तदशोऽध्यायः॥१७॥  
@@ -5474,8 +5099,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[अस्मिन्नध्याये ११८श्लोकाः\]
 
 ![](../books_images/U-IMG-1706977610Screenshot2023-11-08175537.png)
-
-
 
 **॥अष्टादशोऽध्यायः॥**
 
@@ -5500,18 +5123,16 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 पराजये च हेतुस्स इति च प्रतिपालये॥४॥
 
 दत्त्वा याचन्ति पुरुषा हत्वा वध्यन्ति चापरे।  
-मानयित्वा [च](http://॑ "1. क–ड–च–म — ऽवमन्यन्ते । ख–च मान्यन्ते नरा दैवविपर्यये ।") मान्यन्ते परैरिति च मे श्रुतम्॥५॥
+मानयित्वा [च]("1. क–ड–च–म — ऽवमन्यन्ते । ख–च मान्यन्ते नरा दैवविपर्यये ।") मान्यन्ते परैरिति च मे श्रुतम्॥५॥
 
 न दैवस्यातिभारोऽस्ति न दैवस्यातिवर्तनम्।  
-इति [मत्वाऽऽगमं](http://॑ "2. ख – मत्वा गतिं भूयो देवस्य । घ– मत्या गर्ति भूयो दैवस्येति च पालये ।") भूयो [दैवस्य](http://॑ "3. अ–न दैवं प्रतिपालये ।") प्रतिपालये॥६॥
+इति [मत्वाऽऽगमं]("2. ख – मत्वा गतिं भूयो देवस्य । घ– मत्या गर्ति भूयो दैवस्येति च पालये ।") भूयो [दैवस्य]("3. अ–न दैवं प्रतिपालये ।") प्रतिपालये॥६॥
 
-
-
-स्थितं पूर्वं [जलं](http://॑ "1. ख–जयं") यत्र पुन[स्तत्र](http://॑ "2. अ –क –घ– ङ–म–स्तत्रैव") न तिष्ठति।  
+स्थितं पूर्वं [जलं]("1. ख–जयं") यत्र पुन[स्तत्र]("2. अ –क –घ– ङ–म–स्तत्रैव") न तिष्ठति।  
 इति पर्यायमिच्छन्ती प्रतीक्षाभ्युदयं पुनः॥७॥
 
 दैवेन किल यस्यार्थम् सुनीतोऽपि विपद्यते।  
-[दैवस्यैवागमे](http://॑ "3. ख–च–सदा दैवागमे ।") यत्नम् तेन कार्यो विजानता॥८॥
+[दैवस्यैवागमे]("3. ख–च–सदा दैवागमे ।") यत्नम् तेन कार्यो विजानता॥८॥
 
 किं नु मे वचनस्याद्य कथितस्य प्रयोजनम्।  
 पृच्छ मां दुःखितामेनाम् अपृष्टाऽपि ब्रवीमि ते॥९॥
@@ -5531,9 +5152,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वर्णं विकारमपि मे पश्य पाण्डव याद्दृशम्।  
 ईद्दृशो मे न तत्रासीद् दुःखे परमके पुरा॥१४॥
 
-[त्वं](http://॑ "5. क–ख – घ–ड–म– त्वमेव भीम जानीपे यन्मे पार्थ ।") मे भीम न जानीषे ह्यनुभूतं सुखं पुरा।
-
-
+[त्वं]("5. क–ख – घ–ड–म– त्वमेव भीम जानीपे यन्मे पार्थ ।") मे भीम न जानीषे ह्यनुभूतं सुखं पुरा।
 
 साऽहं दासीत्वमापन्ना न शान्तिं मनसा लभे॥१५॥
 
@@ -5546,10 +5165,10 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विनिपातमिमं पश्य युष्माकम विचिन्तितम्॥१७॥
 
 यस्या मम मुखप्रेक्षा यूयमिन्द्रसमास्सदा।  
-सा[प्रेक्षे](http://॑ "2. अ–च– प्रेक्ष्य ।")मुखमन्यासाम् अवराणां वरा सती॥१८॥
+सा[प्रेक्षे]("2. अ–च– प्रेक्ष्य ।")मुखमन्यासाम् अवराणां वरा सती॥१८॥
 
 पश्य पाण्डव मेऽवस्थां यथा नार्हामि वै तथा।  
-युष्मासु ध्रियमाणेषु पाञ्चालेषु च [भारत](http://॑ "3. ख–च–म – मानद ।")॥१९॥
+युष्मासु ध्रियमाणेषु पाञ्चालेषु च [भारत]("3. ख–च–म – मानद ।")॥१९॥
 
 यस्यास्सागरपर्यन्ता पृथिवी वशवर्तिनी।  
 आसीन् साऽद्य सुदेष्णायाः पाञ्चाली वशवर्तिनी॥२०॥
@@ -5562,8 +5181,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 [^210]: "4. क– ख– घ– च– म – सह्यं निबोध ।"
 
 या न जातु स्वयं पिङ्क्षे गात्रोन्मर्दनमात्मनः।
-
-
 
 अन्यत्र कुन्त्या भद्रं ते साऽद्य पिङ्क्षामि चन्दनम्॥ २२॥
 
@@ -5578,7 +5195,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 बिभेमि कुन्त्या या नाऽहं युष्माकं वा कदाचन।  
 साऽद्याग्रतो विराटस्य भीता तिष्ठामि किङ्करी॥२४॥
 
-किं नु वक्ष्यति [सम्राण्मां](http://॑ "1. क – सम्राङ्वैवर्णतः सुकृतेन वा। ख – ङ– सम्राङ्वैवर्णकः स्वकृतो न वा । घ–च–म – सम्राङ्वै।") वर्णकस्सुकृतो न वा।  
+किं नु वक्ष्यति [सम्राण्मां]("1. क – सम्राङ्वैवर्णतः सुकृतेन वा। ख – ङ– सम्राङ्वैवर्णकः स्वकृतो न वा । घ–च–म – सम्राङ्वै।") वर्णकस्सुकृतो न वा।  
 नान्यपिष्टं विराटस्य चन्दनं किल रोचते॥२५॥
 
 वैशम्पायनः—
@@ -5597,14 +5214,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 कीचकं चेन्न हन्यास्त्वं स्वात्मानं नाशयाम्यहम्।  
 विषमालोङ्य पास्यामि प्रवेक्ष्याम्यथवाऽनलम्॥२९॥
 
-
-
 अभाग्याऽहमपुण्याऽहं नित्यदुःखा च विक्लबा।  
-[पापे](http://॑ "1. क– ख –घ –ङ– म– पापेन पातितायाश्च ।") निपतितायाश्च किं फलं जीवितेन मे॥३०॥
+[पापे]("1. क– ख –घ –ङ– म– पापेन पातितायाश्च ।") निपतितायाश्च किं फलं जीवितेन मे॥३०॥
 
 वैशम्पायनः—
 
-[ततस्तस्याः](http://॑ "2. ख – ङ– च– म – इत्यस्मै दर्शयामास किणबद्धौकरावुभौ ।[अधिकः पाठः]") करो पीनौ किणबद्धौ पृकोदरः।  
+[ततस्तस्याः]("2. ख – ङ– च– म – इत्यस्मै दर्शयामास किणबद्धौकरावुभौ ।[अधिकः पाठः]") करो पीनौ किणबद्धौ पृकोदरः।  
 मुखमानीय वेपन्त्या रुरोद परवीरहा॥३१॥
 
 तौ गृहीत्वा च कौन्तेयो बाष्पमुत्सृज्य वीर्यवान्।  
@@ -5630,12 +5245,10 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 शृणु भद्रे वरारोहे क्रोधात् तत्र तु चिन्तितम्।  
 त्वां वै सभागतां दृष्ट्वा मात्स्यानां कदनं महत्॥१॥
 
-
-
 कर्तुकामेन भद्रं ते वृक्षश्रावेक्षितो मया॥१॥
 
 तत्र मां धर्मराजस्तु कटाक्षेण न्यवारयत्।  
-[तं](http://॑ "1. म – 'तं ध्यात्वा' इत्यारभ्य अर्धाष्टकं नास्ति । 'तदहं तस्य' इत्यादि वर्तते ।") ध्यात्वाऽवाङ्मुखस्तूष्णीम् आस्थितोऽस्मि महानसम्॥ २॥
+[तं]("1. म – 'तं ध्यात्वा' इत्यारभ्य अर्धाष्टकं नास्ति । 'तदहं तस्य' इत्यादि वर्तते ।") ध्यात्वाऽवाङ्मुखस्तूष्णीम् आस्थितोऽस्मि महानसम्॥ २॥
 
 शृणुष्वान्यत् प्रतिज्ञातं यद्वदामीह भामिनि॥३॥
 
@@ -5664,8 +5277,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 सुयोधनस्य कर्णस्य शकुनेस्सौबलस्य च।
 
-
-
 दुश्शासनचतुर्थानां यच्च मे न हृतं शिरः॥८॥
 
 तन्मां दहति कल्याणि हृदि शल्यमिवार्षितम्॥८॥
@@ -5685,7 +5296,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 सर्वानन्वनयद्भ्रातृन् मुनेर्धौम्यस्य पश्यतः॥१३॥
 
-मा रोदी राज्ञि लोकानां सर्वागम [गुणान्विते](http://॑ "1. अ–ख –ङ–च –म – गुणान्विता")।  
+मा रोदी राज्ञि लोकानां सर्वागम [गुणान्विते]("1. अ–ख –ङ–च –म – गुणान्विता")।  
 रक्षितव्यं सदाऽस्माभिस् सत्यमप्रतिमं भुवि॥१४॥
 
 अनुनीतेषु चास्मासु अनुनीता त्वमप्यसि।  
@@ -5697,8 +5308,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 धनञ्जयो वा सुश्रोणि यमौ चापि सुमध्यमे।  
 लोकान्तरगतेप्वेषु नाहं शक्ष्यामि जीवितुम्॥१७॥
 
-
-
 धर्म शृणुष्व पाञ्चालि यत् ते वक्ष्यामि भामिनि॥१७॥
 
 दुहिता जनकस्यासीद् वैदेही यदि ते श्रुता।  
@@ -5709,7 +5318,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 सा क्लिश्यमाना सुश्रोणी राममेवान्वपद्यत॥२०॥
 
-[लोपामुद्रा](http://॑ "1. म – इतः अर्धद्वयं नास्ति ।") तु [वै](http://॑ "2. अ–च–वैदेहि । ख– वैदर्भि । ङ– वै देवी ।") देवि भर्तारमृषिसत्तमम्।  
+[लोपामुद्रा]("1. म – इतः अर्धद्वयं नास्ति ।") तु [वै]("2. अ–च–वैदेहि । ख– वैदर्भि । ङ– वै देवी ।") देवि भर्तारमृषिसत्तमम्।  
 भगवन्तमगस्त्यं सा वनायैवान्वपद्यत॥२१॥
 
 सुकन्या नाम शर्यातेर् भार्गवच्यवनं वने।  
@@ -5728,23 +5337,21 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 पूर्णे त्रयोदशे वर्षे राज्ञां राज्ञी भविष्यास॥२६॥
 
-
-
 सत्येन ते शपे चाहं भविता नान्यथेति ह॥२६॥
 
 सर्वासां परमस्त्रीणां प्रामाण्यं कर्तुमर्हसि।  
 सर्वेषां च नरेन्द्राणां मूर्ध्नि स्थास्यसि भामिनि॥२७॥
 
-भर्तृभक्त्या च वृत्तेन भोगान् प्राप्स्यसि [दुर्लभान्](http://॑ "1. क –ख– घ –भामिनि ।")।  
-[पूर्णायां](http://॑ "2. ख– घ– च– म– यातायांतु") तु प्रतिज्ञायां महान्तं भोगमाप्नुयाः॥२८॥
+भर्तृभक्त्या च वृत्तेन भोगान् प्राप्स्यसि [दुर्लभान्]("1. क –ख– घ –भामिनि ।")।  
+[पूर्णायां]("2. ख– घ– च– म– यातायांतु") तु प्रतिज्ञायां महान्तं भोगमाप्नुयाः॥२८॥
 
 गुरुभर्तृकृतं ज्ञात्वा राज्ञां मूर्ध्नि स्थिता भवेः॥२९॥
 
 द्रौपदी—
 
-[आर्तप्रलापा](http://॑ "3. क– म – आर्तप्रलापात् । ख– स्वात्मानं प्रलपे चाहं । घ– आर्तप्रलापैः कामं ते ।") कौन्तेय न राजानमुपालभे॥२९॥
+[आर्तप्रलापा]("3. क– म – आर्तप्रलापात् । ख– स्वात्मानं प्रलपे चाहं । घ– आर्तप्रलापैः कामं ते ।") कौन्तेय न राजानमुपालभे॥२९॥
 
-व्यतीतं कथयित्वा [किं](http://॑ "4. अ– तं") भीमसेन महाबल।  
+व्यतीतं कथयित्वा [किं]("4. अ– तं") भीमसेन महाबल।  
 इदं तु दुःखं कौन्तेय ममासह्यं निबोध तत्॥३०॥
 
 योऽयं राज्ञो विराटस्य सूतपुत्रस्तु कीचकः।  
@@ -5754,8 +5361,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 नित्यमेवाह दुष्टात्मा भार्या मे भव शोभने॥३२॥
 
 अविनीतस्सुदुष्टात्मा मामनाथेति चिन्तयन्॥३३॥
-
-
 
 किमुक्तेन व्यतीतेन भीमसेन महाबल।  
 प्रत्युपस्थितकालस्य दुःखस्यान्तकरो भव॥३४॥
@@ -5786,8 +5391,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 धर्मे स्थिताऽस्मि सततं कुलशीलसमन्विता।  
 नेच्छामि किञ्चिद्वध्यं त्वां तस्माज्जीवसि कीचक॥४२॥
 
-
-
 एवमुक्तस्तु दुष्टात्मा प्रहस्य स्वनवत् ततः।  
 न तिष्ठति स्म सन्मार्गे न चधर्मंबुभूपति॥४३॥
 
@@ -5817,8 +5420,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 कीचकं कामसन्तप्तं भिन्धि कुम्भमिवाश्मनि।  
 यो निमित्तमनर्थानां बहूनां मम भारत॥५१॥
-
-
 
 तं चेज्जीवन्तमादित्यः प्रातरभ्युदयिष्यति।  
 विषमालोड्य पास्यामि कीचको मा वशं नयेत्॥५२॥
@@ -5855,8 +5456,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^216]: "क-कैकेयी चादयि।"
 
-
-
 अस्याः प्रदोषे शर्वर्याः कुरुष्वानेन संविदम्।  
 दुःखं शोकं च निर्धूय याज्ञसेनि शुचिस्मिते॥२॥
 
@@ -5889,8 +5488,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 तस्यां रजन्यां व्युष्टायां प्रातरुत्थाय कीचकः।  
 गत्वा राजकुलायैव द्रौपदीमिदमब्रवीत्॥९॥
-
-
 
 कीचकः—
 
@@ -5928,8 +5525,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 एवमेतत् करिष्यामि यथा सुश्रोणि भाषसे॥१६॥
 
-
-
 एकोऽहमागमिष्यामि शून्यमावसथं तव।  
 समागमार्थं रम्भोरु त्वया मदनदर्पितः॥१७॥
 
@@ -5962,8 +5557,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 अलङ्करिष्याम्यद्याहं त्वत्समागमनाय वै॥२४॥
 
-
-
 ¹वैशम्पायनः[^224]—
 
 [^224]: "ख— वासांसि च विचित्राणि मनोज्ञानि तवापि च।       यथा मां न त्यजेथास्त्वं तथा रंस्ये त्वया सह॥   द्रौपदी—       तथा चेदप्यहं सूत दर्शयिष्यामि ते सुखम् ।       यत्रानुभूतं भवता जन्मप्रभृति कीचक॥  [अधिकः पाठः]"
@@ -5990,8 +5583,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ततस्तु द्रौपदी गत्वा भीमसेनं महानसे।  
 उपातिष्ठत कल्याणी कौरव्यं पतिमन्तिकात्॥३१॥
-
-
 
 तमुवाचसुकेशान्ता कीचकस्य कृतो मया।  
 सङ्केतो नर्तनागारे यथा चोक्तं नरर्षभ॥३२॥
@@ -6023,8 +5614,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 सत्यं भ्रातॄंश्च पुत्रांश्चपुरस्कृत्य शपामि ते।
 
-
-
 कीचकं निहनिष्यामि वृत्रं देवपतिर्यथा॥४०॥
 
 प्रसह्य[^227] सूदयिष्यामि केशवः केशिनं यथा।  
@@ -6052,8 +5641,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 निर्वृता भव पाञ्चालि कीचकस्य वधात् पुनः॥४६॥
 
 [^229]: " म—प्युपासन्तु विनीता धर्मचारिणः।  क–ख–घ–च—विनीता धर्मचारिणः।"
-
-
 
 **द्रौपदी[^230]—**
 
@@ -6089,8 +5676,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^233]: "अ–क–घ–ङ–च–म—अर्धत्रयं नास्ति।"
 
-
-
 अवदातेन मृदुना पटेनाच्छादितस्तथा।  
 द्रौपदीं पृष्ठतः कृत्वा यत्रासीन्नर्तनालयः॥५४॥
 
@@ -6123,8 +5708,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 1\. अ—एकान्ते भीममासाद्य कीचकः कालचोदितः।  
     भीमं समुपसङ्गम्य चाभ्यभाषत दुर्मतिः॥    \[अधिकः पाठः\]
 
-
-
 त्वयि तिष्ठतु तत् सर्वं यथाऽसि स्वयमागता॥६१॥
 
 नाकस्मान्मां प्रशंसन्ति सदा गृहगतास्त्रियः।  
@@ -6156,8 +5739,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 गृहीत्वा कीचकं भीमो विरराज महाबलः।
 
-
-
 महावने[^236] ग्रासकामस्सिंहःक्षुद्रमृगं यथा॥६९॥
 
 [^236]: "क—गृहीत्वा ग्रासकामस्तु। घ—महावने तु भक्षार्थं।"
@@ -6187,8 +5768,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ततस्तद्भवनश्रेष्ठं प्राकम्पत तदा भृशम्।  
 तौ क्रोधवशमापन्नावन्यौन्यमभिजघ्नतुः॥७७॥
-
-
 
 तलाभ्यां भीमसेनेन वक्षस्यभिहतो भृशम्[^238]।  
 कीचको रोषताम्राक्षो न चचाल पदात् पदम्॥७८॥
@@ -6225,8 +5804,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
  भीमोऽपि बलवान् पादौ मोचयित्वोरुविक्रमः।  
  उत्प्लुत्य सोर्ध्वमपतत् कीचकस्य शिरोपरि॥
 
-
-
 तस्य पादौ च पाणी च शिरोग्रीवं सकुण्डलम्।  
 काये प्रवेशयामास मृदित्वाऽङ्गानि सर्वशः॥८५॥  
 स तं मथितसर्वाङ्गं मांसपिण्डमिवाकरोत्॥८५॥
@@ -6258,8 +5835,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 मुष्टिं गृहीत्वा वेगेन शिरस्यभिजघान ह॥  
 मुष्टिना तेन तेनासौ निर्यज्जिह्वाक्षितारकः।  
 विसृजन्मलमूत्रे च क्रोशन्महिषवत् खरम्॥   \[अधिकः पाठः\]
-
-
 
 उवाच च महातेजा द्रौपदीं पाण्डुनन्दनः॥८७॥
 
@@ -6303,8 +5878,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^245]: "अ–ख–घ–ङ–च–म—इदमर्धं नास्ति।"
 
-
-
 ततो गत्वाऽथ तद्वेश्म कीचकं विनिपातितम्॥९५॥  
 गतासुं ददृशुर्भूमौ रुधिरेण समुक्षितम्॥९५॥
 
@@ -6312,7 +5885,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 क्वास्य ग्रीवा क्व चरणौ क्व पाणी क्व शिरः क्व दृक्।  
 इति तं सुपरीक्षन्ते गन्धर्वेण हतं तदा॥९७॥  
-
 
 इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
 विराटपर्वणि विंशोऽध्यायः॥२०॥  
@@ -6337,8 +5909,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 [^247]: "ङ—तस्य तन्निधनं श्रुत्वा कीचकस्य सहोदराः॥[अधिकः पाठः]"
 
 सर्वे संहृष्टरोमाणस् सन्त्रस्ताः प्रेक्ष्य कीचकम्।
-
-
 
 तथा सर्वाङ्गसम्भुग्नं कूर्मं स्थल इवोद्धृतम्॥२॥
 
@@ -6371,8 +5941,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वैशम्पायनः—
 
 ततो विराटमागम्य सूताःप्राञ्जलयोऽब्रुवन्॥१०॥
-
-
 
 सूताः—
 
@@ -6410,8 +5978,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^250]: "अ–च—इदमर्धं नास्ति।"
 
-
-
 निवेषमाना[^251] विवशा हि दुष्टैस्  
 तत्रैव पर्यङ्कवरे शुभाङ्गी॥१६॥
 
@@ -6445,8 +6011,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 इत्यस्याः कृपणा वाचः कृष्णायाः परिदेविताः।
 
-
-
 श्रुत्वैवाभ्युत्थतो भीमश् शयनादविचारयन्॥२३॥
 
 भीमः—
@@ -6477,8 +6041,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तं नागवदुपक्रम्य बाहुभ्यां परिरभ्य च।  
 वृक्षमुत्पाटयामास भीमो भीमपराक्रमः॥३०॥  
 ततो वृक्षं दशव्यामं निष्पत्रमकरोत् तदा॥३०॥
-
-
 
 तं महासालमुद्यम्य भ्रामयित्वा च वेगतः।  
 प्रगृह्याभ्यपतत् सूतान् दण्डपाणिरिवान्तकः॥३१॥
@@ -6521,8 +6083,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      एकेनैव प्रहारेण दश सप्त च विंशतिम्॥  
      त्रिंशच्चत्वारि पञ्चाशज् जघान स वृकोदरः॥  \[अधिकः पाठः\]
 
-
-
 वायुवेगसमश्श्रीमान् सर्वान्[^258] सूतानशेषतः॥३९॥
 
 [^258]: "अ–च–म—हत्वा"
@@ -6561,8 +6121,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
     जया नाम सखी साऽभूत् पार्वत्या नखमांस्रवत्।  
     तस्मात् पतिव्रतायाश्च दुःखमल्पंसुखं बहु॥ \[अधिकः पाठः\]
 
-
-
 गच्छ त्वं नगरं कृष्णे न भयं विद्यते तव॥४२॥
 
 अन्येन च पथा शीघ्रं सुदेष्णाया निवेशनम्।  
@@ -6593,8 +6151,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 विराटनगरे चापि सर्वे मात्स्यास्समागताः।
 
-
-
 कल्यं पञ्चशतं चैतान् अपश्यन् सारथीन् हतान्॥॥५१॥
 
 तान् दृष्ट्वा महदाश्चर्यं नरा नार्यश्चनागराः।  
@@ -6611,8 +6167,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ![](../books_images/U-IMG-1706631915Screenshot2024-01-07190619.png)
 
- 
-
 पौरैर्विराटं प्रति सानुजकीचकनिधननिवेदनपूर्वकं नगराद्द्रौपदीनिष्कासनप्रार्थना॥१॥ सुदेष्णया विराटनियोगाद्द्रौपदीं प्रतिस्वपुरान्निर्गमनचोदना॥२॥ तथा द्रौपद्या मासावधिस्ववासाभ्यनुज्ञानप्रार्थनायां तदङ्गीकरणम्॥३॥
 
 वैशम्पायनः—
@@ -6628,8 +6182,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विनिकीर्णाः[^260]प्रदृश्यन्ते तथा सूता महीपते॥२॥
 
 [^260]: "क–ख–म—विनीकीर्णं प्रदृश्येत तथा सूता महीतले।"
-
-
 
 सैरन्ध्री चापि मुक्ता सा पुनरायाति ते गृहम्।  
 सर्वं संशयितं राजन् नगरं ते भविष्यति॥३॥
@@ -6667,8 +6219,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 एकस्मिन्नेव ते सर्वे सुसमिद्धे हुताशने ।  
 अदहन् कीचकान् सर्वान् संस्कारैश्चैव सर्वशः ॥  \[अधिकः पाठः\]
-
-
 
 विराटः—
 
@@ -6709,8 +6259,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ये पुरा पुरुषास्तुभ्यं भवन्ति वशवर्तिनः।
 
-
-
 तेषां वशगता नित्यं विचर त्वं यथेष्टतः॥१७॥
 
 ये यस्या विचरन्तीह पुरुषावशवर्तिनः।  
@@ -6744,8 +6292,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 बृहन्नले किं नु तव सैरन्ध्र्या कार्यमद्य वै।  
 या त्वं वससि कल्याणि सदा कन्यापुरे सुखम्॥२४॥
 
-
-
 न हि तद्दुःखमाप्नोषि सैरन्ध्री यदुपाश्नुते।  
 तेन[^265] मां दुःखितामेवं पृच्छसि प्रहसन्निव॥२५॥
 
@@ -6778,8 +6324,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 नृशंसा खलु ते बुद्धिर् भ्रातॄणां मे वधः कृतः॥३१॥
 
 तस्माद्गन्धर्वराजेभ्यो भयमद्य प्रवर्तते।
-
-
 
 यथेष्टं गच्छ सैरन्ध्रिइह स्वस्ति यथा भवेत्॥३२॥
 
@@ -6819,8 +6363,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ![](../books_images/U-IMG-1704634211Screenshot2024-01-05195648.png)
 
-
-
 **॥त्रयोविंशोऽध्यायः॥**
 
 ![](../books_images/U-IMG-1704634618Screenshot2024-01-07190619.png)  
@@ -6858,8 +6400,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 इत्यजल्पन् महाराज कीचकानां महावधम्।  
 देशे देशे मनुष्याश्च विस्मिताः कीचके हते॥५॥
 
-
-
 अथ ते धार्तराष्ट्रेण प्रयुक्ता ये बहिश्चराः।  
 मृगयित्वा बहून् देशान् ग्रामांश्च नगराणि च॥६॥
 
@@ -6892,8 +6432,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^272]: "ङ—इदमर्धं नास्ति।"
 
-
-
 न च विद्मो गतिं तेषां पाण्डवानामरिन्दम्।  
 मार्गमाणाः पदन्यासम् आश्रमेषु वनेषु च॥१४॥
 
@@ -6921,8 +6459,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 नरदेव यथोद्दिष्टं न च विद्मात्र पाण्डवान्॥२२॥
 
 [^273]: "ख—सन्तीतरे जनपदाः ये पार्थान्वेषणे नृप।      प्राचीहतास्तेऽस्माभिः? प्रतीचीमण्डलेऽखिले॥   [अधिकः पाठः]"
-
-
 
 निर्वृतो भव नष्टास्ते स्वस्थो भव परन्तप॥  
 सर्वथैव[^274] प्रणष्टास्ते नमस्ते भरतर्षभ॥२३॥
@@ -6955,8 +6491,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 नरनारीमनोह्लादी धीरो वाग्मी रणप्रियः।
 
-
-
 पुण्यकर्माऽर्थकामानां भाजनं मनुजोत्तमः॥३१॥
 
 स हतो निशि गन्धर्वैस् स्त्रीनिमित्तं नराधिप।  
@@ -6986,8 +6520,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[अस्मिन्नध्याये ॥३६॥ श्लोकाः\]
 
 ![](../books_images/U-IMG-1704637368Screenshot2024-01-05195648.png)
-
-
 
 ॥
 
@@ -7023,8 +6555,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 अज्ञातसमये ज्ञाताःकृच्छ्ररूपधराः पुनः।  
 प्रविशेयुर्जितक्रोधास् तावदेव पुनर्वनम्॥७॥
-
-
 
 तस्मादाशु[^279] परीक्षध्वं यथा चात्यन्तमव्ययम्।  
 राज्यं निर्द्वन्द्वमव्ययम् असपत्नं चिरं भवेत्॥८॥
@@ -7063,8 +6593,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 यदाह कर्णो राजेन्द्र सर्वमेतदवेक्ष्यताम्॥१४॥
 
-
-
 घ्राणैः पश्यन्ति पशवो वेदैरेव द्विजोत्तमाः।  
 चारैः पश्यन्ति राजानश् चक्षुर्भ्यामितरे जनाः॥१५॥
 
@@ -7099,13 +6627,9 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ![](../books_images/U-IMG-1704703295Screenshot2024-01-05195648.png)
 
-
-
 **॥पञ्चविंशोऽध्यायः॥**
 
 **![](../books_images/U-IMG-1704703567Screenshot2024-01-04141805.png)**
-
- 
 
 द्रोणेन दुर्योधनं प्रति पाण्डवानां धार्मिकत्वादिगुणशालितया विनाशाभावनिर्धारणेन तदन्वेषणविधानम्॥१॥ भीष्मेण पाण्डवावासदेशस्यलक्षणाभिधानपूर्वकं तेषां दुर्ज्ञेयत्वस्यापि कथनेन तैः सह सन्धिविधानकथनम्॥२॥
 
@@ -7133,8 +6657,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 [^287]: "क—भ्रातरो भ्रातरं प्रियम्। ख-म—भ्रातरो भ्रातृवत्सलम्।घ-ङ—भ्रातरो भ्रातृवत्सलाः।"
 
 तेषां तथा विधेयानां निभृतानां महात्मनाम्।
-
-
 
 किमर्थं नीतिमान् प्राज्ञो निश्श्रेयो न करिष्यति॥५॥
 
@@ -7166,8 +6688,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 युधिष्ठिरे समासक्तां धर्मज्ञे धर्मसंहिताम्।
 
-
-
 पाण्डवे नित्यमव्यग्रांगिरं भीष्मस्समाददे॥१४॥
 
 असत्सु दुर्लभां नित्यं सतां चाभिमतां सदा।  
@@ -7197,8 +6717,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वृद्धानुशासने तात तिष्ठतस्सत्यवादिनः॥२२॥
 
 अयुक्तं तु मया वक्तुं तुल्या मे कुरुपाण्डवाः।
-
-
 
 निवासं पाण्डुपुत्राणां सञ्चिन्त्य च वदाम्यहम्॥२३॥
 
@@ -7235,8 +6753,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^290]: "क–ख–घ–च–म—रसवन्ति च धान्यानि गुणवन्ति।"
 
-
-
 गन्धवन्ति च माल्यानि शुभशब्दा च भारती॥३१॥
 
 वायुश्च सुखसंस्पर्शो यत्र राजा युधिष्ठिरः।  
@@ -7270,9 +6786,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 2. क–ख–च —रसास्स्पर्शाश्चगन्धाश्च शब्दाश्चापि गुणाधिकाः।  
            दृश्याधिकप्रसन्नानि यत्र राजा युधिष्ठिरः॥  
 \[अधिकः पाठः\]                            
-                          
-
-
 
 व्यक्तवाक्यास्तथातात शुभकल्याणमङ्गलाः॥३८॥
 
@@ -7301,8 +6814,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[अस्मिन्नध्याये ॥४४॥ श्लोकाः\]
 
 ![](../books_images/U-IMG-1704722191Screenshot2024-01-05195648.png)
-
-
 
 **॥षड्विंशोऽध्यायः॥**
 
@@ -7334,8 +6845,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 स्वराष्ट्रपरराष्ट्रेषु ज्ञातव्यं बलमात्मनः।  
 उदयः पाण्डवानां च प्राप्तकालो न संशयः॥६॥
-
-
 
 निवासं पाण्डुपुत्राणां दर्शने मृगयामहे[^291]।  
 निवृत्तसमयाः पार्था महात्मानो महाबलाः॥७॥
@@ -7374,8 +6883,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 स्वकोशबलसंवृद्धस् सर्वां सिद्धिमवाप्स्यसि॥१३॥
 
-
-
 योत्स्यसे चापि बलिभिर् अरिभिः प्रत्युपस्थितैः।  
 अन्यैर्वा पाण्डवैर्वाऽपि हीनैस्स्वबलवाहनैः॥१४॥
 
@@ -7408,8 +6915,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अन्योन्यानन्तरबलाः परस्परजयैषिणः।  
 बाहुयुद्धमभीप्सन्तो नित्यं संरब्धमानसाः॥२२॥
 
-
-
 तेनाहमवगच्छामि प्रत्ययेन वृकोदरम्।  
 मनस्यभिनिविष्टं मे व्यक्तं जीवन्ति पाण्डवाः॥२३॥
 
@@ -7436,8 +6941,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 मत्स्यराष्ट्रं हनिष्यामो ग्रहीष्यामश्च गोधनम्।  
 गृहीते गोधने नूनं तेऽपि योत्स्यन्ति पाण्डवाः॥३१॥
-
-
 
 अपूर्णे समये चापि यदि पश्येम पाण्डवान्।  
 द्वादशान्यानि वर्षाणि प्रवेक्ष्यन्ति पुनर्वनम्॥३२॥
@@ -7470,8 +6973,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 राष्ट्रं[^299] ममासकृद्राजन् राज्ञा मात्स्येन बाधितम्॥३८॥
 
 [^299]: "क–ख–ङ—स कर्णमभिवीक्ष्याथ दुर्योधनमभाषत।[अधिकः पाठः]"
-
-
 
 प्रणेता कीचकस्तस्य बलमत्तोऽभवत् पुरा।  
 अमर्षी दुर्जयो जेता प्रख्यातबलपौरुषः॥३९॥
@@ -7507,8 +7008,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^303]: "अ–घ–च—मानीयतां बलात्।"
 
-
-
 तं वशे न्यायतः कृत्वा सुखं वत्स्यामहे वयम्।  
 भवतो बलवृद्धिश्च भविष्यति न संशयः॥४८॥
 
@@ -7539,8 +7038,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 तद्भवांश्चतुरङ्गेण बलेन महता वृतः।  
 विराटनगरं यातु सर्वसैन्येन भारत॥५४॥
-
-
 
 आदास्यामो हि गास्तस्य वसूनि विविधानि च॥५५॥
 
@@ -7573,8 +7070,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 तथा गत्वा यथोद्देशं विराटनगरान्तिकम्।
 
-
-
 क्षिप्रं गोष्ठं समासाद्य गृह्णन्तु विपुलं धनम्॥६३॥
 
 गवां शतसहस्राणि श्रीमन्ति गुणवन्ति च।  
@@ -7602,8 +7097,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ![](../books_images/U-IMG-1706706568Screenshot2024-01-07190619.png)
 
-
-
  गोपैर्द्रुततरमाद्भुत्य विराटं प्रति सुशर्मणा गोग्रहणनिवेदनम्॥१॥विराटादिभिर्युद्धाय निर्गमोद्यमः॥२॥ युधिष्ठिरेण विराटं प्रतिस्वेषांयुद्धकौशलनिवेदनेन भ्रातृभिः सह समराभियानम्॥३॥
 
 ![](../books_images/U-IMG-1704788161Screenshot2024-01-08192649.png)
@@ -7614,8 +7107,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 छद्मलिङ्गप्रविष्टानां पाण्डवानां महात्मनाम्॥१॥
 
 [^308]: "ख–घ—महाराज।म—महाराज तत्रैवममितौजसाम्।"
-
-
 
 व्यतीतस्समयस्सम्यग् विराटनगरे सताम्।  
 कुर्वतां तस्य कर्माणि विराटस्य महीपतेः॥२॥
@@ -7646,8 +7137,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 गोपालाः कर्षणैश्चित्रैर् जघ्नुरश्वान् समन्ततः॥९॥
 
 ते हन्यमानास्सङ्क्रद्धास् त्रिगर्ता रथयोधिनः।
-
-
 
 विसृज्य शरवर्षाणि गोपालान् द्रावयन् रणे॥१०॥
 
@@ -7680,8 +7169,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 राजानो राजपुत्राश्च तनुत्राण्यनुभेजिरे।
 
-
-
 भानुमन्ति निवातानि सूपसेव्यानि भागशः॥१८॥
 
 पृथक्काञ्चनसन्नाहान् रथेष्वश्वानयोजयन्।  
@@ -7713,10 +7200,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 बृहत्काञ्चनसन्नाहान्[^314] रथेष्वश्वानयोजयन्॥२६॥
 
 [^314]: "ख—पृथक्।घ—मत्स्याः काञ्चनसंनाहा रथेष्व।"
-
-
-
-
 
 सूर्यचन्द्रप्रतीकाशं मणिकाञ्चनभूषितम्।  
 मत्स्यस्योरुप्रमाणं[^315] च ध्वजमुच्छ्रियते रथे॥२७॥
@@ -7752,8 +7235,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 युद्ध्येयुरिति मे बुद्धिर् वर्तते नात्र संशयः॥३३॥
 
-
-
 एतेषामपि दीयन्तां रथा ध्वजपताकिनः।  
 कवचानि विचित्राणि सुदृढानि लघूनि च॥३४॥
 
@@ -7788,8 +7269,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 स्थान् हेमपरिष्कारान् समास्थाय महारथाः।  
 पाण्डवा निर्ययुर्हृष्टा दंशिता राजसत्तम॥४०॥
 
-
-
 विराटमन्वयुः पश्चात् सहिताः कुरुपुङ्गवाः।  
 चत्वारो भ्रातरशूराः पाण्डवास्सत्यविक्रमाः॥॥४१॥
 
@@ -7821,8 +7300,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 विशारदानां वैश्यानां प्रकृष्टानां तदा नृप।
 
-
-
 विंशतिस्तु सहस्राणि नराणामनुयायिनाम्॥४९॥
 
 अष्टौ रथसहस्राणि दश नागशतानि च।  
@@ -7848,7 +7325,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ![](../books_images/U-IMG-1704811953Screenshot2024-01-08192649.png)  
 
-
 वैशम्पायनः—
 
 निर्ययुर्नगराच्छूरा[^327] व्यूढानीकाःप्रहारिणः।  
@@ -7860,8 +7336,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अन्योन्यमभिवर्तन्ते गोषु गृध्रा महाबलाः॥२॥
 
 [^328]: "अ—इदमर्धं नास्ति।"
-
-
 
 भीमाश्च मत्तमातङ्गास् तोमराङ्कुशचोदिताः।  
 ग्रामणीयैस्समारूढाः कुशलैर्हस्तिसादिभिः॥३॥
@@ -7893,8 +7367,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 रक्ताधरोष्ठं सुनसं रक्तश्मश्रु स्वलङ्कृतम्।
 
-
-
 अदृश्यत शिरश्छिन्नं रजोध्वस्तं सकुण्डलम्॥११॥
 
 दृश्यन्ते गात्राणि वीरैश्छिन्नानि भागशः।  
@@ -7922,8 +7394,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 नकुलस्त्रिशतं जघ्ने सहदेवश्चतुश्शतम्॥१९॥
 
 शतानीकश्शतं हत्वा मदिराश्वश्चतुश्शतम्।
-
-
 
 प्रहृष्टां[^331] महती सेनां त्रिगर्तानां महारथौ॥२०॥  
 आर्च्छतां बहुसाहस्रं केशाकेशि रथारथि॥२०॥
@@ -7956,8 +7426,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^335]: "क–ख–च—असिशक्तिपरश्वथैः। घ—दारयामासतू रणे। म—अभिघ्नन्तौ परस्परम्।"
 
-
-
 ¹मात्स्यो राजा सुशर्माणं विव्याध निशितैश्शरैः।  
 पञ्चभिः पञ्चभिर्बाणैर् विव्याध चतुरो हयान्॥२७॥
 
@@ -7983,8 +7451,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
             अन्योन्यमभिसंरब्धौ दन्ताभ्यामिव कुञ्जरौ।  
             कृतास्त्रौनिशितैर्बाणैर् दारयामासतू रणे॥  
 \[अधिकः पाठः\]
-
-
 
 **॥एकोनत्रिंशोऽध्यायः॥**
 
@@ -8016,8 +7482,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तथैव तेषां तुमुलानि तानि  
 क्रुद्धानि चान्योन्यमभिद्रवन्ति।
 
-
-
 गदासिपट्टैश्च[^337] परश्वथैश्च  
 प्रासैश्च तीक्ष्णाग्रसुरूपधारैः॥६॥
 
@@ -8047,8 +7511,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 तस्मिन् गृहीते नृपतौ विराटे बलवत्तरे।  
 बलं सर्वंविभग्नं तन्निरुत्साहं निराशकम्॥१३॥
-
-
 
 प्राद्रवन्त भयान्मात्स्यास् त्रैगर्तैरर्दिता रणे।  
 विदिक्षु दिक्षु सर्वासु पलायन्ति च यान्ति च॥१४॥
@@ -8082,8 +7544,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 स्वबाहुबलमाश्रित्य परेषामसमं रणे।  
 एकान्तमाश्रितो राजंस तिष्ठ त्वं भ्रातृभिस्सह॥२१॥
 
-
-
 अयं[^339] वृक्षो महासारो गिरिमात्रो वनस्पतिः।  
 अहमेनं समारुज्य पोथयिष्यामि शात्रवान्॥२२॥
 
@@ -8114,8 +7574,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 यमौ च पक्षरक्षौ ते भवितारौ महाबलौ।  
 व्यायच्छतस्ते समरे मत्स्यराजं परीप्सतः॥२८॥
-
-
 
 **वैशम्पायनः[^341]—**
 
@@ -8155,8 +7613,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 शतानि त्रीणि शूराणां सहदेवःप्रतापवान्।  
 युधिष्ठिरसमादिष्टो निजघ्ने पुरुषर्षभः॥३७॥
 
-
-
 प्रविश्य महतीं सेनां त्रिगर्तानां महाबलाः।  
 क्षोभयन्तश्च सैन्यानि सिंहाः क्षुद्रमृगानिव॥३८॥
 
@@ -8184,8 +7640,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ततो विराटःप्रस्कन्द्यरथादथ सुशर्मणः।  
 गदामस्य परामृश्य तमेवाभ्यहनद्बली॥४४॥  
 स चचार गदापाणिर् वृद्धोऽपि तरुणो यथा॥४४॥
-
-
 
 ¹भीमस्तु[^349] भीमसङ्काशो रथात् प्रस्कन्द्या वीर्यवान्।  
 त्रिगर्तराजमादत्त[^350] सिंहःक्षुद्रमृगं यथा॥४५॥
@@ -8226,8 +7680,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      सुशर्मणश्शिरोऽगृह्णात् पुनराश्वास्य युध्यतः।  
      अग्राद्गिरेर्विनिक्षिप्य सिंहः क्षुद्रमृगं यथा॥  
      ऊर्ध्वमुत्प्लुत्य मार्जार आखोर्यद्वच्छिरो रुषा॥
-
-
 
 दर्शयामास भीमस्तु सुशर्माणं नराधिपम्॥५२॥
 
@@ -8274,9 +7726,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 **![](../books_images/U-IMG-1704966683Screenshot2024-01-08192649.png)**  
 
-
-
-
 ॥त्रिंशोऽध्यायः॥
 
 ![](../books_images/U-IMG-1704966926Screenshot2024-01-11152515.png)
@@ -8311,8 +7760,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 प्रतिनन्दामहे वाचं सर्वथैव विशाम्पते।  
 एतेनैवद्य प्रीतास्स्मो यत् त्वं मुक्तोऽसि शत्रुभिः॥६॥
-
-
 
 यत् त्वं मुक्तोऽसि शत्रुभ्यो ह्येतत् कार्यं हितं हि नः।  
 न किञ्चित् कार्यमस्माकं न धनं मृगयामहे॥७॥
@@ -8352,8 +7799,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 पुनरेव विराटश्च राजा कङ्कमभाषत॥१४॥
 
-
-
 विराटः—
 
 अहो सूदस्य[^356] कर्माणि वललस्य द्विजोत्तम।  
@@ -8386,8 +7831,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 दारैः पुत्रैश्च संश्लिष्य सा हि प्रीतिर्ममातुला॥२०॥
 
 सुशर्माणं तु राजेन्द्र सभृत्यबलवाहनम्।
-
-
 
 विसर्जय नृपश्रेष्ठ वरमेतदहं वृणे॥२१॥
 
@@ -8424,8 +7867,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^360]: "क–ङ–च–म–सूर्ये सम्यगथोदिते। ख–सूर्ये सद्यो यथोदिते।घ–सूर्यस्योदयने तथा।"
 
-
-
 विराटनगरं प्राप्य शीघ्रं नान्दीमघोषयन्।  
 पताकोत्तरमालाढ्यं[^361] पुरमप्रतिमं यथा॥२८॥
 
@@ -8459,8 +7900,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विविंशतिर्विकर्णश्च चित्रसेनश्च वीर्यवान्।  
 दुस्सहो दुर्मुखश्चैव एते चान्ये महारथाः॥३॥
 
-
-
 सर्वे मत्स्यानुपागम्य विराटस्य महीपतेः।  
 गोपान् विद्राव्य तरसा गोधनं जह्रुरोजसा॥४॥
 
@@ -8488,8 +7927,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 राजपुत्र हितप्रेप्सुः क्षिप्रं निर्याहि वै स्वयम्।  
 त्वां हि मात्स्यो महीपालस्सैन्यपालमिहाकरोत्॥११॥
-
-
 
 त्वां वै परिषदो मध्ये श्लाघतेहि नराधिपः।  
 पुत्रो ममानुरूपश्च शूरश्चेति कुलोद्वहः॥१२॥
@@ -8519,8 +7956,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 रुक्मपुङ्खाःप्रसन्नाग्रा मुक्ता हस्तवता त्वया।  
 छादयन्तु शरास्सूर्यं राज्ञामायुर्निरोधकाः॥१९॥
-
-
 
 रणे जित्वा कुरून् सर्वान् वज्रपाणिरिवासुरान्।  
 यशो महदवाप्य त्वं प्रविशेदं पुरं पुनः॥२०॥
@@ -8554,8 +7989,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 अद्याहमनुगच्छेयं दृढधन्वा गवां पदम्।
 
-
-
 यदि मे सारथिः कश्चिद् भवेदश्वेषु कोविदः॥२॥
 
 तमहं नाधिगच्छामि यो मे यन्ता समो भवेत्।  
@@ -8583,8 +8016,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 पश्येयुरद्य मे वीर्यं कुरवस्ते समागताः।  
 किं नु पार्थोऽर्जुनस्साक्षाद् इति मंस्यन्ति मां परे ॥१०॥
-
-
 
 वैशम्पायनः—
 
@@ -8619,8 +8050,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 युधिष्ठिरं धर्मपरं सत्यार्जवपथे स्थितम्॥१७॥
 
 अमर्षयन्ती तद्दुःखं कृष्णा कमललोचना।
-
-
 
 उत्तरामाह वचनं सखीमध्ये विलासिनीम्॥१८॥
 
@@ -8658,8 +8087,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
        धनुष्यनवमश्चासीत् तस्य शिष्यो महात्मनः।  \[अधिकः पाठः\]
 
-
-
 वैशम्पायनः—
 
 ततस्सैरन्ध्रसहिता उत्तरा भ्रातुरब्रवीत्॥२२॥
@@ -8696,8 +8123,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 2\. ख—श्रुत्वोत्तरोत्तरावाक्यं सैरन्ध्र्या समुदीरितम्।  
      सन्धार्य मनसा सम्यक् सैरन्ध्रीं पुनरब्रवीत्॥   \[अधिकः पाठः\]
 
-
-
 यदि ते सारथिस्सा स्यात् कुरून् सर्वानसंशयम्।  
 जित्वा गाश्च समादाय ध्रुवमागमनं भवेत्॥२८॥
 
@@ -8731,8 +8156,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सा नागनासोपमसंहितोरूर  
 अनिन्दिता वेदिविलग्नमध्या।
 
-
-
 आसाद्य तस्थौ वरमाल्यधारिणी  
 पार्थं शुभा नागवधूरिव द्विषम्॥३३॥
 
@@ -8764,8 +8187,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सैरन्ध्रराख्याति बृहन्नले त्वां  
 सुशिक्षितां सङ्ग्रहणे रथाश्वयोः ।
 
-
-
 अहं मरिष्यामि न मेऽत्र संशयो  
 मया वृता तत्र न चेद्गमिष्यसि॥३८॥
 
@@ -8793,9 +8214,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विलासिनीं शुक्लदतींशुचिस्मिताम्।  
 बृहन्नलारूपविभूषिताननो  
 विराटपुत्रस्य समीपमाव्रजत्॥४१॥  
-
-
-
 
 तं सा व्रजन्तं त्वरितं प्रभिन्नमिव कुञ्जरम्।  
 अन्वगच्छद्विशालाक्षी गजं गजवधूरिव॥४२॥
@@ -8830,9 +8248,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
        वैराटिरामन्त्र्य ततो बृहन्नलां  
        गवां निनीषन् पदमुत्तरोऽब्रवीत्॥  \[अधिकः पाठः\]  
 
-
-
-
 आहूता त्वं मया सार्धं योद्धुं याहि बृहन्नले।  
 दूराद्दूरतरं गावो भवन्ति कुरुभिर्हृताः॥४८॥
 
@@ -8860,14 +8275,10 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तदा स्मयित्वाऽर्जुनमभ्यनन्दत्।  
 अथोत्तरःपारशवं[^376] शताक्षिमत्  
 सुवर्णचित्रं परिगृह्य[^377] भानुमत्॥५२॥  
-  
 
 [^376]: "अ—पद्मशतं।ख—पारवशं।घ—पारशतं।"
 
 [^377]: "म—परिवाह्य । अ–क–ङ–च—परिधाप्य।घ—परिधत्स्व।"
-
-
-
 
 बृहन्नलायै प्रददौ स्वयं तदा  
 विराटपुत्रः परवीरघातिने।  
@@ -8898,8 +8309,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^379]: "क–पुनर्नियन्ता वचनाद्धनञ्जयः।ख–घ–म—पुनश्च यन्ता कवचं।"
 
-
-
 एवंप्रकाराणि बहूनि कुर्वति  
 तस्मिन् कुमार्यःप्रमदा जहासिरे।  
 तथाऽपि कुर्वन्तममित्रकर्शनं  
@@ -8928,9 +8337,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 उत्तरा —
 
 बृहन्नले आनयेथा वासांसि रुधिराणि नः।  
-
-
-
 
 पालिकार्थं[^382] सुसूक्ष्माणि रत्नानि विविधानि च॥६३॥  
 विजित्य सङ्ग्रामगतान् भीष्मद्रोणमुखान् कुरून्॥६३॥
@@ -8968,9 +8374,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 यदर्जुनस्यर्षभतुल्यगामिनः  
 पुराऽभवत् खाण्डवदाहमङ्गलम्।  
 
-
-
-
 कुरून् समासाद्य रणे बृहन्नले  
 सहोत्तरेणास्तु तवाद्य मङ्गलम्॥॥६८॥
 
@@ -9001,8 +8404,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ते हया नरसिंहेन चोदिताश्शीघ्रगामिनः[^383]।
 
 [^383]: "क–ख–म—वाहिनः।"
-
-
 
 आलिखन्त इवाकाशम् ऊहुः काञ्चनमालिनः॥३॥
 
@@ -9036,10 +8437,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 बहुप्रवीरमत्युग्रं देवैरपि दुरासदम्।  
 प्रतियोद्धुं न शक्नोमि कुरुसैन्यं भयानकम्॥१०॥  
 
-
-
-
-
 नाशंसे भारतींसेनां प्रवेष्टुं भीमकार्मुकाम्।  
 देवैरपि सहेन्द्रेण न शक्यं किम्पुनर्नरैः॥११॥
 
@@ -9067,8 +8464,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 हृषितानि च रोमाणि कश्मलं[^388] चागमन्महत्॥१८॥
 
 [^388]: "च—कश्मलं च गतं मनः। क–म—कश्मलं चागतं मम। ख—कश्मलेनाहतं मनः। ङ—कश्मलं चागमन्मनः।"
-
-
 
 वैशम्पायनः—
 
@@ -9107,8 +8502,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 समुद्रमिव गम्भीरं कुरुसैन्यमरिन्दम॥२६॥
 
-
-
 स्त्रीसकाशे प्रतिज्ञाय पुरुषाणां हि शृण्वताम्।  
 विकत्थमानो निर्यात्वा ब्रूषि किं नात्र युद्ध्यसे॥२७॥
 
@@ -9138,8 +8531,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 इत्युक्त्वा प्राद्रवद्भीतो रथात् प्रस्कन्द्य कुण्डली।  
 त्यक्त्वा मानं सुसन्त्रस्तो विसृज्य सशरं धनुः॥३४॥
-
-
 
 अर्जुनः—
 
@@ -9184,8 +8575,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 इत्येवं सैनिकाः प्राहुर् द्रोणस्तानिदमब्रवीत्।  
 आचार्यःकुरुपाण्डूनां मतौ शुक्राङ्गिरोपमः॥४१॥
 
-
-
 द्रोणः—
 
 किं विचारेण वः कार्यम् एतेनानुसृतेन वै॥४१॥
@@ -9218,8 +8607,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ते हि नः प्रतिसंयातुं सङ्ग्रामे न हि शक्नुयुः॥४८॥
 
 [^395]: "क–म—सत्रेण।ख—छत्रेण वा।ङ—शस्रेण वा।"
-
-
 
 कथमेकतरस्तेषां समस्तान् योधयेत् कुरून्॥४९॥
 
@@ -9261,8 +8648,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^397]: "ङ—तं शस्त्रेण।क–म—तं सत्रेण।ख—विधं सत्रे। (घ
 
-
-
 अर्जुनो नेति चेत्येनं न व्यवस्यन्ति ते पुनः॥५६॥
 
 इति स्म कुरवस्सर्वे मन्त्रयन्तो महारथाः॥५६॥
@@ -9299,8 +8684,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      माभैस्त्वमिति पार्थेन प्रार्थितः पर्यदेवयत्॥    \[अधिकः पाठः\]  
  क—भीतस्त्रस्ताङ्गप्रत्यङ्गो घूर्णिताक्षो विवर्णवान्।  \[अधिकः पाठः\]
 
-
-
 हस्तिनोऽश्वान् रथान् गावस्स्त्रियश्च समलङ्कृताः॥६१॥
 
 शातकुम्भस्य शुद्धस्य श्रेष्ठस्य रजतस्य च।  
@@ -9333,8 +8716,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      उक्तो यौवनगर्वेण को जेतुं शक्नुयात् कुरून्॥  
      अमुक्त्वा मां यदि नयेर् मरिष्यामि तवाग्रतः॥   \[अधिकः पाठः\]
 
-
-
 अथैनमब्रवीन् पार्थो भयार्तं नष्टचेतसम्॥६७॥
 
 अर्जुनः—
@@ -9366,8 +8747,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      अद्य सर्वान् कुरूञ्जित्वा यथा जयमवाप्स्यसि।  
      यथाऽहं प्रयतिष्येऽत्र सहायोऽत्रमतोऽस्म्यहम् ॥  \[अधिकः पाठः\]
 
-
-
 शूरान्समरचण्डांश्च नेष्यामि[^403] यमसादनम्॥७२॥
 
 [^403]: "क–घ–ङ–म—नयिष्ये।ख — स्थापयिष्ये यमालये।"
@@ -9396,12 +8775,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[अस्मिन्नध्याये ॥७५॥ श्लोकाः\]
 
 ![](../books_images/U-IMG-1705471253Screenshot2024-01-08192649.png)
-
-
-
-
-
-
 
 **॥चतुस्त्रिंशोऽध्यायः॥**
 
@@ -9437,8 +8810,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 यादृशानीह दृश्यन्ते रूपाणि विविधानि च।
 
-
-
 एकैकमेषां[^217] पर्याप्तम् अखिलक्षयकारणम्॥७॥
 
 [^217]: "म—इदमर्धं नास्ति।"
@@ -9472,8 +8843,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^408]: "अ–क–घ–ङ–च–म—इदमर्धंनास्ति।"
 
-
-
 द्रोणः—
 
 एष वीरो महेष्वासस् सर्वशस्त्रभृतां वरः।  
@@ -9506,8 +8875,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      यस्मिञ्शौर्यं च वीर्यं च तेजो धैर्यांपराक्रमः।  
      औदार्यं चैव गाम्भीर्यं ह्रीश्श्रीर्धर्मो दयाऽऽर्जवम्॥  
      एवमादिगुणोपेतस् सोऽयं पार्थो न संशयः।   \[अधिकः पाठः \]
-
-
 
 महादेवोपि पार्थेन श्रूयते युद्धतोपितः॥१७॥
 
@@ -9545,9 +8912,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 नेमानीष्वसनानीह सोढुं शक्ष्यन्ति मे बलम्।  
 
-
-
-
 नालं भारं गुरुं भर्तुं[^410] हन्तुं। ख—भङ्क्तुं।") कुञ्जरं वा प्रमर्दितुम्॥२५॥
 
 [^410]: "म—कर्तुं। क—हर्तुं (ग
@@ -9578,8 +8942,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तादृशान्येव[^412] सर्वाणि बलवन्ति दृढानि च।
 
 [^412]: "क—मम वा बाहुविक्षेपं शत्रूनिह विजेष्यतः।[अधिकः पाठः]"
-
-
 
 प्रधानानि[^328] विशिष्टानि दुर्दर्शानि भवन्ति च॥३३॥
 
@@ -9621,8 +8983,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 एवमुक्तस्स पार्थेन रथात् प्रस्कन्द्य कुण्डली।
 
-
-
 आरुरोह शमीवृक्षं वैराटिरवशस्तदा॥  
 तमन्वशासच्छत्रुघ्नो रथे तिष्ठन् धनञ्जयः॥४०॥
 
@@ -9659,12 +9019,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 **![](../books_images/U-IMG-1705488336Screenshot2024-01-08192649.png)**
 
-
-
-
-
-
-
 ॥पञ्चत्रिंशोऽध्यायः॥
 
 ![](../books_images/U-IMG-1705488790Screenshot2024-01-07190619.png)
@@ -9695,8 +9049,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 हाटकस्य सुवर्णस्य यस्मिञ्शाखामृगा दश।  
 दुरानमं महादीर्घं सुरूपं दुष्प्रधर्षणम्॥६॥  
 कस्येदमीदृशं चित्रं धनुस्सर्वे च दंसिताः॥६॥
-
-
 
 चन्द्रार्कविमला भासस् सुरूपास्सुप्रदर्शनाः।  
 हंसाःपृष्ठाश्रिता[^420] यस्य कुशाग्निप्रतिमार्चिषः॥७॥
@@ -9732,8 +9084,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^426]: "ङ—पक्षिणस्तीक्ष्णतुण्डाग्राः कस्येमे रुचिराश्शाराः॥ [अधिकः पाठः]"
 
-
-
 हारिद्रवर्णाः कस्येमे शिताः पञ्चशतं शराः।  
 आशीविषसमस्पर्शा गतौ चाजिह्यगा दृढाः॥१४॥
 
@@ -9766,10 +9116,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 यस्यापिधाने दृश्यन्ते सूर्याः पञ्च परिष्कृताः।
 
-
-
-
-
 ¹कस्यायं निर्मलः[^431] खड्गश् शृङ्गत्सरुमनोरमः॥२१॥
 
 [^431]: "क–ख–घ–च—विपुलः खड्गः शृङ्ग। म—विमलः +हरः।"
@@ -9795,8 +9141,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 1\. अ—वैयाघ्रकोशः कस्यायं दिव्यश्शङ्खो महान् पृथुः।  
      यस्यापिधाने दृश्यन्ते शार्दूलाः काञ्चनांश्शुभाः॥ \[अधिकः पाठः\]
-
-
 
 ॥षट्त्रिंशोऽध्यायः॥
 
@@ -9831,8 +9175,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 सोमः पञ्चसहस्राणि तथैव वरुणश्शतम्॥५॥
 
-
-
 तस्माच्च वरुणादग्निः प्रेम्णा प्राहृत्य तच्छुभम्।  
 अग्निना प्रातिभाव्येन दत्तं पार्थाय गाण्डिवम्॥६॥
 
@@ -9866,8 +9208,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 नकुलस्य धनुस्त्वेतन्माद्रीपुत्रस्य धीमतः।
 
-
-
 एतेन[^440] सदृशं चित्रं धनुश्चैतद्यवीयसः॥१४॥  
 हारिद्रवर्णं राज्ञश्च कौरव्यस्य महात्मनः॥१४॥
 
@@ -9900,8 +9240,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 नीलोत्पलसवर्णाभः खड्गः पार्थस्य निर्मलः।  
 मृगेन्द्रचर्मपिहितस् तीक्ष्णधारस्समाहितः॥२२॥
 
-
-
 दर्शनीयस्सुतीक्ष्णाग्रः कुन्तीपुत्रस्य धीमतः।  
 अर्जुनस्यैष निस्त्रिंशः परसैन्याग्रदूषणः॥२३॥
 
@@ -9923,9 +9261,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[अस्मिन्नध्याये ॥२६॥ श्लोकाः\]**
 
 **![](../books_images/U-IMG-1705503025Screenshot2024-01-17194117.png)**  
-
-
-
 
 **॥सप्तत्रिंशोऽध्यायः॥**
 
@@ -9963,8 +9298,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      धर्मनिष्ठो धर्मकर्ता धर्मगोप्ता सुधर्मकृत्।  
      सत्यार्जवक्षमाधारो घृणी धर्मपरायणः॥  \[अधिकः पाठः\]
 
-
-
 सर्व एव महावीरास्[^444] सर्वामित्रविनाशनाः।  
 राज्यमक्षैः पराजित्य नश्श्रूयन्ते वनं गताः॥६॥
 
@@ -9992,8 +9325,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 भीमसेनस्तु बललः पितुस्ते परिचारकः॥१०॥
 
 अश्वबन्धस्तु नकुलस् सहदेवस्तु गोपतिः।
-
-
 
 सैरन्ध्रीं द्रौपदींविद्धि यदर्थे कीचको हतः॥११॥
 
@@ -10030,8 +9361,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^450]: "क–घ–ङ—कृष्णो।"
 
-
-
 अर्जुनः फल्गुनः ¹पार्थः[^451] किरीटी श्वेतवाहनः।  
 धनञ्जयश्च केनासि शीघ्रं ब्रूहि बृहन्नले॥१८॥
 
@@ -10061,8 +9390,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 इन्द्रदत्तमनाहार्यं तेनाहुर्मां किरीटिनम्॥२४॥
 
 न कुर्यां कर्म बीभत्सं युध्यमानः कथञ्चन।
-
-
 
 तेन देवमनुष्येषु बीभत्सुरिति मां विदुः॥२५॥
 
@@ -10094,8 +9421,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 देवदानवगन्धर्वपिशाचोरगराक्षसान्।  
 अहं पुरा रणे जित्वा खाण्डवेऽग्निमतर्पयम्॥३२॥
 
-
-
 हुताशनं तर्पयित्वा सहितश्शार्ङ्गधन्वना।  
 त्रिविष्टपतौ दृष्ट्वा पितामहमहेश्वरौ॥३३॥
 
@@ -10125,8 +9450,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 तिस्रः कोटीदीनवानां संयुगेष्वनिवर्तिनाम्।  
 एको निर्जित्य सङ्ग्रामे भूयो देवानतोषयम्॥४१॥
-
-
 
 ततो मे भगवानिन्द्रः किरीटमददात् स्वयम्।  
 देवाश्च शङ्खमददुश् शत्रुसैन्यनिवारणम्॥४२॥
@@ -10162,8 +9485,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ![](../books_images/U-IMG-1705596427Screenshot2024-01-05195648.png)
 
-
-
 ॥अष्टात्रिंशोऽध्यायः॥
 
 ![](../books_images/U-IMG-1705597192Screenshot2024-01-04141805.png)
@@ -10197,8 +9518,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^463]: "क–ख–घ–च–म—कारणात्।"
 
-
-
 आस्थाय विपुलं वीर रथं सारथिना मया।  
 दुर्योधनं चजित्वाऽऽजौ निवर्तय पशून् मम॥६॥
 
@@ -10230,8 +9549,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ज्याक्षेपणक्रीडनकं[^467] नेमीनिनददुन्दुभि।
 
 [^467]: "म—ज्याक्षेपणं क्रोधकरं।च—क्रोधमकरम्।ङ—ज्याक्षेपणक्रोधनकं। क—घोरतरं।ख—णी रोधकरं।घ—क्रोधकरं नेमिदुन्दुभिनादितम्।"
-
-
 
 शरजालवितानाढ्यम् आक्ष्वेडितमहास्वनम्॥१३॥  
 नगरं ते मया गुप्तं रथोपस्थं भविष्यति॥१३॥
@@ -10265,9 +9582,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 1\. ख—बहुना किं प्रलापेन शृणु मे परमं वचः।  
      नाहं बिभेमि कौन्तेय साक्षादपि शतक्रतोः॥  
      यमपाशिकुबेरेभ्यो द्रोणभीष्मशतादपि॥   \[अधिकःपाठः\]  
-
-
-
 
 नास्मि क्लीबो महाबाहो परवान् धर्मसंयुतः।  
 उर्वशीशापसम्भूतं[^217] क्लैब्यं मां समुपस्थितम्॥२०॥
@@ -10303,8 +9617,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अहं ते सङ्ग्रहीष्यामि हयाञ्शत्रूनथारुजः।  
 शिक्षितो ह्यस्मि सारथ्ये निष्ठितः पुरुपर्षभ॥२९॥
 
-
-
 दारुको वासुदेवस्य यथा शक्रस्य मातलिः।  
 तथा मां विद्धि सारथ्ये शिक्षितं नरपुङ्गव॥३०॥
 
@@ -10336,9 +9648,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ततो रथादवस्कन्द्य वीर्यवानरिमर्दनः।  
 प्रणम्य देवान् गाण्डीवम् आदाय रुरुचे श्रिया॥३८॥  
-
-
-
 
 ततो[^472] विमुच्य बाहुभ्यां शङ्खचूडानि पाण्डवः।  
 तौ च दुन्दुभिसन्नादौ प्रतिबद्ध्य तलावुभौ॥३९॥
@@ -10375,8 +9684,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 3\. ख–च—महाशनिमहाशब्दसदृशो ज्यास्वनो महान्।  
        शत्रून् वीरांश्चसंतर्ज्य निग्रहस्थो रणे स्थितः॥ \[अधिकः पाठः\]
 
-
-
 **॥एकोनचत्वारिंशोऽध्यायः॥**
 
 ![](../books_images/U-IMG-1705670524Screenshot2024-01-04141805.png)
@@ -10406,8 +9713,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ²सपताकं[^475] विचित्राङ्गं सोपासङ्गं महारथः।
 
 [^475]: "ख—उत्तस्थावुत्तरस्तावन्मत्वा पुनरिहागतः।      तं समाश्वास्य बीभत्सुरभियातुं प्रतत्वरे॥  [अधिकः पाठः]"
-
-
 
 रथमास्थाय बीभत्सुः कौन्तेयश्श्वेतवाहनः॥५॥
 
@@ -10441,8 +9746,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      अतिश्लिष्टोदरोरस्कं तिर्यगाननशोभितम्॥  
      यावत् स्वशक्तिसामग्य्रंत्रैलोक्यं क्षोभयन्निव।  
      मरुद्भिर्दशभिश्चैव प्राध्मापयदरिन्दमः॥   \[अधिकः पाठः\]
-
-
 
 उत्तरं सम्परिष्वज्य समाश्वासयदर्जुनः॥१२॥
 
@@ -10481,8 +9784,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 व्याकुलाश्च दिशस्सर्वा हृदयं व्यथतीव च।  
 ध्वजेन पिहितास्सर्वा दिशो न प्रतिभान्ति मे॥२०॥
 
-
-
 गाण्डीवस्य च शब्देन कर्णौ मे बधिरीकृतौ॥२०॥
 
 वैशम्पायनः—
@@ -10518,9 +9819,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 यथा रथस्य निर्घोषो यथा शङ्ख उदीर्यते।  
 कम्पते च यथा भूमिर् नैषोऽन्यस्सव्यसाचिनः॥२८॥  
 
-
-
-
 औत्पातिकमिदं राजन् निमित्तं भवतीह नः।  
 न हि पश्यामि विजयं सैन्येऽस्माकं परन्तप॥२९॥
 
@@ -10550,8 +9848,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 हस्तिनश्चापि वित्रस्ता योधाश्चापि वितत्रसुः।  
 पराभूता च नस्सेना न कश्चिद्योद्भुमिच्छति॥३६॥
-
-
 
 विषण्णमुखभूयिष्ठास्सर्वे योधा विचेतसः।  
 दिशं ते दक्षिणां सर्वे विप्रेक्षन्ते पुनः पुनः॥३७॥
@@ -10583,8 +9879,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[अस्मिन्नध्याये ॥४३॥ श्लोकाः\]
 
 ![](../books_images/U-IMG-1705733185Screenshot2024-01-08192649.png)
-
-
 
 **॥चत्वारिंशोऽध्यायः॥**
 
@@ -10621,9 +9915,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^488]: "ख–घ–ङ–च–म—जानीयुर्।"
 
-
-
-
 हीनातिरिक्तमेतेषां भीष्मो वेदितुमर्हति॥६॥
 
 अर्थानां हि पुनर्द्वैधे नित्यं भवति संशयः।  
@@ -10654,9 +9945,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^490]: "क—सङ्गतम्।ख–च—सङ्गतिम्।अ–घ—सङ्गताः।"
 
-
-
-
 अथवा तानुपादाय मात्स्यो जानपदैस्सह।  
 सर्वथा सेनया सार्धम् अस्मानेव युयुत्सति॥१५॥
 
@@ -10685,8 +9973,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 को हि जीवेत् पदातीनां भवदेश्वेषु संशयः॥२१॥
 
 आचार्यं पृष्ठतः कृत्वा तथा नीतिर्विधीयताम्।
-
-
 
 जानामि[^494] च गतं तेषाम् अतस्त्रासयतीव नः॥२२॥
 
@@ -10718,9 +10004,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 आचार्या वै कारुणिकाः प्राज्ञाश्चापायदर्शिनः।  
 
-
-
-
 नैते महाहवे घोरे सम्प्रष्टव्याः कथञ्चन॥३०॥
 
 प्रासादेषु विचित्रेषुगोष्ठीपानाशनेषु च।  
@@ -10748,9 +10031,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[अस्मिन्नध्याये ३६ श्लोकाः\]
 
 ![](../books_images/U-IMG-1705759803Screenshot2024-01-08192649.png)  
-
-
-
 
 **॥एकचत्वारिंशोऽध्यायः॥**
 
@@ -10784,8 +10064,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 एकैकं चतुरः पञ्च क्वचित्षष्टिं क्वचिच्छतम्।
 
-
-
 ¹हतान् पश्यत मातङ्गान् कीर्णानेकेषुणा मया॥६॥
 
 मद्बाहुमुक्तैरिषुभिस् तैलधौतैः पतत्रिभिः।  
@@ -10818,8 +10096,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
             उपहूतस्तु कौन्तेयो भ्रातॄणां गुणवानिव॥  
                                  
 \[इति पाठान्तरम्\]
-
-
 
 एष चापि महेष्वासस् त्रिषु लोकेषु विश्रुतः।  
 अहं चापि ¹कुरुश्रेष्ठ अर्जुनानवमः क्वचित्॥१३॥
@@ -10856,8 +10132,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 1\. क–ख–घ–म—कुरुश्रेष्ठादर्जुनान्नावमः क्वचित्।  
          ङ—कुरुश्रेष्ठान्नार्जुनान्नावरमत्क्वचित्।
 
-
-
 शरजालमहाज्वालम् असिशक्तिगदेन्धनम्।  
 निर्दहन्तमनीकानि शमयिष्येऽर्जुनानलम्॥२१॥
 
@@ -10889,8 +10163,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[अस्मिन्नध्याये ॥२७॥ श्लोकाः\]
 
 ![](../books_images/U-IMG-1706855067Screenshot2024-01-08192649.png)
-
-
 
 ॥द्विचत्वारिंशोऽध्यायः॥
 
@@ -10927,8 +10199,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 भारं हि रथकारस्य न व्यवस्यन्ति पण्डिताः।
 
-
-
 परिचिन्त्य तु पार्थेन सन्निपातो न नः क्षमः॥६॥
 
 एको हि शत्रून् समरे समर्थः प्रतिबाधितुम्।  
@@ -10959,8 +10229,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 एकेन हि त्वया कर्ण किं नामेह कृतं पुरा।  
 एकैकेन यथा तेषां भूमिपाला वशे कृताः॥१३॥
 
-
-
 इन्द्रोऽपि हि न पार्थेन संयुगे योद्धुमर्हति।  
 यस्तेनाशंसते योद्धुं कर्तव्यं तस्य भेषजम्॥१४॥
 
@@ -10989,8 +10257,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 उत्सृष्टं तूलराशौ तु एकोऽग्निं शमयेत् कथम्।
 
-
-
 सह युद्ध्यामहे पार्थम् आमतं युद्धदुर्मदम्॥२२॥
 
 यत्तसेनाः[^512] पराक्रान्ता व्यूढानीकाःप्रहारिणः।  
@@ -11013,11 +10279,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ॥४७॥ गोग्रहणपर्वणि विंशोऽध्यायः॥२०॥  
 \[अस्मिन्नध्याये २६ श्लोकाः\]
 
-
-
 ![](../books_images/U-IMG-1705994335Screenshot2024-01-08192649.png)
-
-
 
 **॥त्रिचत्वारिंशोऽध्यायः॥**
 
@@ -11053,8 +10315,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 भार्गवास्त्रं मया मुक्तं निर्दहेत् पृथिवीमिमाम्।  
 किं पुनः पाण्डुपुत्राणाम् एकमर्जुनमाहवे॥६॥
 
-
-
 आगमिष्यन्ति पदवीं मात्स्याः पाण्डवसंश्रिताः।  
 कीचकानां[^516] तु बलिनां शत्रुसेनावमर्दिनाम्॥७॥  
 तानहं निहनिष्यामि भवता गम्यतां गृहम्॥७॥
@@ -11087,10 +10347,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 अधीत्यब्राह्मणो वेदान् याजयेत् यजेत वा।  
 क्षत्रियो धनमाहृत्य यजेतैव न याजयेत्॥१४॥
-
-
-
-
 
 वैश्योऽधिगम्य द्रव्याणि वार्ताकर्माणि कारयेत्¹॥१५॥
 
@@ -11132,8 +10388,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 3.ख—का ज्जाति स्तेषु सूतेयं केऽपि मन्त्राः क्रियाश्च काः।  
      केयं वर्णेषु या राज्ञो वक्तृभोक्तृनियन्तृषु॥  \[अधिकः पाठः\]
 
-
-
 नकुलं सहदेवं च धनं येषां त्वया हृतम्॥२१॥
 
 भूयश्च कतमे युद्धे यत्र कृष्णा त्वया जिता।  
@@ -11165,8 +10419,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वासुदेवसमं युद्धे तं पार्थं को न पूजयेत्॥२९॥
 
 [^525]: "क–घ—वीर्येण धनुष्यमरराट् स्वयम्।ख–ङ—वीर्येण।"
-
-
 
 देवं दैवेन युद्ध्येत मानुषेण च मानुषम्।  
 अस्त्रेण चास्त्रंको[^526] हन्याद् अर्जुनेन समः पुमान्॥३०॥
@@ -11203,8 +10455,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ![](../books_images/U-IMG-1706002366Screenshot2024-01-08192649.png)
 
-
-
 ॥चतुश्चत्वारिंशोऽध्यायः॥
 
 ![](../books_images/U-IMG-1706002534Screenshot2024-01-07190619.png)
@@ -11234,8 +10484,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 स्वार्थे हि सर्वे मुह्यन्ति येऽपि धर्मविदो जनाः।  
 तस्मात् तत्त्वं न जानाति यत्तु कार्यं नराधिपः॥५॥
-
-
 
 धार्तराष्ट्रोऽपि दुर्बुद्धिः पश्यन्नपि धनञ्जयम्।  
 नैव पश्यति नाघ्राति मन्दः क्रोधवशं गतः॥६॥
@@ -11271,12 +10519,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 2\. अ–क–ख–घ–ङ–च—बलस्य व्यसनान्याहुर् यानि धीरा मनीषिणः।  
                  मुख्यभेदश्च तेषां तु पापिष्ठं विदुषांमतम्॥  
 
-                                   
-
-
 \[अधिकः पाठः\]
-
-
 
 अन्यत्र भारताचार्यात् सपुत्रादिति मे मतिः॥१२॥
 
@@ -11315,8 +10558,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 यथा दुर्योधनो राजा न गच्छेत् काञ्चिदापदम्।
 
-
-
 साहसाद्यदि वा मोहात् तथा नीतिर्विधीयताम्॥१९॥
 
 वनवासे तु निर्वृत्ते दर्शयेत धनञ्जयः।  
@@ -11342,8 +10583,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 **![](../books_images/U-IMG-1706073550Screenshot2024-01-08192649.png)**  
 
 .
-
-
 
 **॥पञ्चचत्वारिंशोऽध्यायः॥**
 
@@ -11373,9 +10612,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 सर्वं यथावच्चरितं यद्यदेभिः प्रतिश्रुतम्।  
 एवमेतद्ध्रुवं ज्ञात्वा ततो बीभत्सुरागतः॥५॥  
-
-
-
 
 सर्वे पञ्च महात्मानस् सर्वे धर्मार्थकोविदाः।  
 येषां युधिष्ठिरो राजा कस्माद्धर्मेऽपराध्नुयुः॥६॥
@@ -11408,8 +10644,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 [^545]: "क–ख–ङ–च—परान्।घ—पुरः।म—तिगात्परान्।"
 
 न हि पश्यामि सङ्ग्रामे कदाचिदपि कौरव।
-
-
 
 एकान्तसिद्धिं राजेन्द्र सम्प्राप्तश्च धनञ्जयः॥१३॥
 
@@ -11445,8 +10679,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 यत्तु युद्धायाचरितं भवेद्वा धर्मसंहितम्।
 
-
-
 कस्त्वया सदृशो लोके यदि[^550] तत् कर्तुमर्हति॥१९॥
 
 [^550]: "क–ख–घ–म—भूयस्त्वं वक्तुमर्हसि। ङ—भूयस्तद्वक्तुमर्हसि।"
@@ -11481,10 +10713,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 4\. ङ—अहं द्रोणश्च कर्णश्च अश्वत्थामा कृपस्तथा।  
      प्रतियोत्स्याम बीभत्सुमागतं कृतनिश्चयम्॥ \[अधिकः पाठः\]  
 
-
-
-
-
 भीष्मः—
 
 आचार्यो मध्यतस्तिष्ठेद् अश्वत्थामा तु सव्यतः।  
@@ -11518,14 +10746,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ॥४७॥गोग्रहणपर्वणि त्रयोविंशोऽध्यायः॥२३॥  
 \[अस्मिन्नध्याये ३२ श्लोकाः\]**  
 
-
 ![](../books_images/U-IMG-1706085326Screenshot2024-01-08192649.png)
-
-
-
-
-
-
 
 **॥षट्चत्वारिंशोऽध्यायः॥**
 
@@ -11559,9 +10780,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 रुद्रस्य विष्णोस्सवितुस्त्रिदशानां तथैव च॥६॥  
 
-
-
-
 काञ्चनानि च दामानि विविधाश्चोत्तमस्रजः।  
 दिव्यपुष्पाभिसंवीतास्
 
@@ -11594,8 +10812,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 श्वेतो राजा वसुमनास् तथा भद्रः प्रतर्दनः[^560]॥१४॥
 
 [^560]: "अ–ख–घ–ङ—प्रदर्शनः।"
-
-
 
 नृगो ययातिर्नहुषो मान्धाता भरतः कुरुः।  
 अष्टकश्च शिबिश्चैव[^561] स च राजा पुरूरवाः॥१५॥
@@ -11632,9 +10848,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 **![](../books_images/U-IMG-1706090345Screenshot2024-01-08192649.png)**  
 
-
-
-
 ॥सप्तचत्वारिंशोऽध्यायः॥
 
 ![](../books_images/U-IMG-1706090508Screenshot2024-01-07190619.png)
@@ -11664,9 +10877,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 गवाग्रमभितो गत्वा गाश्चाप्याशु निवर्तय॥५॥
 
 यावदेते निवर्तन्ते कुरवो जवमास्थिताः।  
-
-
-
 
 तावदेव पशून सर्वान् निवर्तिष्ये तथा[^563] विभो॥६॥
 
@@ -11701,8 +10911,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 दारयन्निव तेजस्वी वसुधां वासवात्मजः
 
-
-
 एषतिष्ठन् रथिश्रेष्ठो[^567] रथे रथवरप्रणुत्॥१३॥
 
 [^567]: "ङ—रथश्रेष्ठे रथे रथवरन्नदुन्।क—रथश्रेष्ठे युद्धे रथशतप्रणुत्। घ—रथिश्रेष्ठो रथे रथिवरप्रभुः।"
@@ -11729,8 +10937,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 स्वजनेनाविदितस्त्रयोदशं च।  
 ज्वलते रथमास्थितः किरीटी  
 तम इव रात्रिजमभ्युदस्य सूर्यः॥२०॥
-
-
 
 रथी शरी चारुमाली निषङ्गी  
 शङ्खी पताकी कवची किरीटी।  
@@ -11760,10 +10966,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 नारयः प्रेक्षितुं शेकुस् तपन्तं हि यथा रविम्॥१॥  
 स तं दृष्ट्वा रथानीकं पार्थस्सारथिमब्रवीत्॥१॥
 
-
-
-
-
 अर्जुनः—
 
 इषुपातमात्रे सेनायास् स्थापयाश्वानरिन्दम।  
@@ -11791,8 +10993,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 कृपकर्णौपुरस्तात् तु महेष्वासो व्यवस्थितौ॥९॥
 
 भूरिश्रवास्सोमदत्तो बाह्लीकश्च जयद्रथः।
-
-
 
 दक्षिणं पक्षमाश्रित्य[^569] स्थिता युद्धाय[^570] दंसिताः॥१०॥
 
@@ -11828,9 +11028,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 एष दुर्योधनं पार्थो मार्गते निकृतिं स्मरन्।  
 
-
-
-
 सेनामत्यर्थमालोक्य त्वरते ग्रहणेऽस्य[^572] च॥१८॥  
 मृगं सिंह इवादातुम् ईक्षते पाकशासनिः॥१८॥
 
@@ -11859,8 +11056,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 याह्युत्तरेण सेनाया गवाग्रं प्रविभज्य च।  
 परिक्षिप्य गवां यूथम् अत्र योत्स्ये सुयोधनम्॥२५॥
-
-
 
 गच्छन्ति सत्वरं गावस्सगोपाः परिमोचय॥२५॥
 
@@ -11899,9 +11094,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
   क–ख–च–म—नैवापयाने च नाभियानेऽभवन्मतिः ।  
          घ—नैवाभिधाने च नाभिधानेऽभवन्मतिः ।  
 
-
-
-
 शीघ्रतामेव पार्थस्य पूजयन्ति स्म विस्मिताः॥३३॥
 
 चन्द्रावदातं सामुद्रं कुरुसैन्यभयङ्करम्।  
@@ -11936,9 +11128,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 याह्युत्तरेण गाश्चैतास् सैन्यानां च नृपात्मज।  
 पश्यन्तु कुरवस्सर्वे मम वीर्यपराक्रमम्॥४१॥  
-
-
-
 
 वैशम्पायनः—
 
@@ -11975,8 +11164,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ![](../books_images/U-IMG-1706248680Screenshot2024-01-08192649.png)
 
-
-
 **॥एकोनपञ्चाशोऽध्यायः॥**
 
 **![](../books_images/U-IMG-1706249549Screenshot2024-01-11152515.png)**
@@ -12006,9 +11193,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 जाम्बूनदमयी वेदिर् ध्वजाग्रे यस्य दृश्यते।  
 शोणाश्चाश्वा रथे युक्ता द्रोण एष प्रकाशते॥६॥  
-
-
-
 
 आचार्यो निपुणो धीमान् ब्रह्मविच्छूर[^581] सम्मतः[^582]।  
 आहवे[^583] चाप्रतिद्वन्द्वो दूरपाती महारथः॥७॥
@@ -12040,8 +11224,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 द्रोणेन च समो वीर्ये पितुर्मे परमस्सखा।  
 तेन मे युध्यमानस्य मन्दं वाहय सारथे॥१४॥
-
-
 
 यस्य काञ्चनदण्डेन[^584] हस्तिकक्ष्यापरिष्कृतः।  
 ध्वजः प्रकाशते दूराद् रथे विद्युद्गणोपमः॥१५॥
@@ -12075,8 +11257,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 2\. ख—दृढवैरी सदाऽस्माकं नित्यं कटुकभाषणः॥  
      यस्याश्रयबलादेव धार्तराष्ट्रस्ससौबलः।  
      अस्मान् निरस्य राज्याञ्च पुनरद्यापि योत्स्यति॥ \[अधिकः पाठः\]
-
-
 
 यस्तु श्वेतावदातेन पञ्चतालेन केतुना।  
 वैडूर्यदण्डेन तदा तालवृक्षेण राजते॥२३॥
@@ -12112,8 +11292,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ![](../books_images/U-IMG-1706252564Screenshot2024-01-08192649.png)
 
-
-
 **॥पञ्चाशोऽध्यायः॥**
 
 **![](../books_images/U-IMG-1706253395Screenshot2024-01-07190619.png)**
@@ -12147,8 +11325,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 एवमुक्तस्तदा कर्णः क्रोधादुद्वृत्तलोचनः।
 
-
-
 द्रोणपुत्रमिदं वाक्यम् उवाच कुरुसन्निधौ॥६॥
 
 कर्णः—
@@ -12181,8 +11357,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 न विद्मो ह्यर्जुनं तत्र वसन्तं मत्स्यवेश्मनि।  
 तेनेदं कर्ण मत्स्यानाम् अग्रहीष्म धनं बहु॥१२॥
 
-
-
 इतः[^593] परं चेद्गच्छामो विसृजन्तो धनं बहु।  
 अयशो नातिवर्तेत लोकयोरुभयोरपि॥१३॥
 
@@ -12213,8 +11387,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 अश्वत्थामा महाबाहुर् धनुर्वेदपरायणः॥१९॥
 
-
-
 कृपप्रभृतयश्चान्ये[^217] शकुनिर्धृतराष्ट्रजाः।  
 इषूंश्च सम्यगस्यन्तो जीमूता इव वार्षिकाः॥२०॥
 
@@ -12244,8 +11416,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 दुर्गे विषमजाते वा स्थले निम्ने तथा क्षितौ।
 
-
-
 नैव[^599] रुद्धा गतिस्तस्य रथस्य मनसो यथा॥२७॥
 
 [^599]: "क–म—न च रुध्येद्। ख–ङ—न च रुद्धा।घ—न च रुध्याद्।"
@@ -12273,8 +11443,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 निकृत्तपूर्वचरणास् ते निपेतुश्शितैश्शरैः।  
 शिरोभिः प्रथमं जग्मुर् मेदिनीं जघनैर्हयाः॥३४॥
-
-
 
 चक्षुर्मुखविषाणेषु[^601] पादेषूरस्सु च द्विषान्।  
 ²मर्मस्वग्रेषु चाहत्य पातयामास भूतले॥३५॥
@@ -12309,8 +11477,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      ऊर्ध्वमुद्धृतशुण्डाग्रान् विवृतास्यान् सभूरुहान्॥  
      वक्त्रमारभ्य जघनम् उपर्यर्धं व्यदारयत्।\[अधिकः पाठः\]
 
-
-
 सोऽ¹त्ययात् सहसा शत्रून् साहसाच्च प्रपेदिवान्॥४१॥
 
 शीघ्रं दूरं दृढामोघम् अस्त्रमस्यातिमानुषम्।  
@@ -12343,9 +11509,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
   ख—अर्जुनास्त्रविनिर्मुकश्शरी गाण्डीवनिस्सृतः।  
   घ—अर्जुनेन समाविद्वाः शरा गाण्डीवधन्वना।  
   म—अर्जुनास्त्रविनिर्मुक्ताः शरा गाण्डीवधन्वना।  
-
-
-
 
 सकृदेव न[^606] तं शेकू रथमभ्यसितुं परे।  
 अनभ्यस्तः पुनस्तैर्हि रथस्थोऽतिपपात[^607] तान्॥४७॥
@@ -12380,10 +11543,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^610]: "अ–च—महागज।"
 
-
-
-
-
 कौन्तेयरथमार्गस्तु रणे घोरतरोऽभवत्॥५४॥
 
 नूनं पार्थजयैषित्वाच् छक्रस्सर्वामरेश्वरः[^611]।  
@@ -12417,8 +11576,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 लोहितनापि सम्पृक्तैः पांसुभिः पवनोद्धतैः।  
 तेनैव च समुद्भूतैस् सूक्ष्मैर्लोहितबिन्दुभिः॥६१॥
 
-
-
 लोहितार्द्रैःप्रहरणैर् निमग्ना लोहितोक्षिताः।  
 लोहितेषु निमग्नास्ते निहताश्च किरीटिना॥६२॥
 
@@ -12448,8 +11605,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 स कर्णंकर्णिनाऽविध्यत् पीतेन निशितेन च।
 
-
-
 वासविर्द्विषतां[^217] मध्ये विव्याध परमेषुणा॥६९॥
 
 [^217]: "म—इदमर्धं नास्ति।"
@@ -12471,11 +11626,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ॥४७॥ गोग्रहणपर्वणि अष्टाविंशोऽध्यायः॥२८॥  
 \[अस्मिन्नध्याये ॥७२॥श्लोकाः\]**
 
-
-
 ![](../books_images/U-IMG-1706365832Screenshot2024-01-08192649.png)
-
-
 
 **॥एकपञ्चाशोऽध्यायः॥**
 
@@ -12510,8 +11661,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तेषामनीकानि किरीटमाली  
 व्यूढानि दृष्ट्वा विपुलध्वजानि।
 
-
-
 गाण्डीवधन्वा द्विषतां निहन्ता  
 वैराटिमामन्त्र्य ततोऽभ्युवाच॥५॥
 
@@ -12536,8 +11685,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 गजो गजेनेव हि योद्धुकामो  
 मया सदा काङ्क्षति सूतपुत्रः।
-
-
 
 ¹तमेव मां प्रापय राजपुत्र  
 दुर्योधनापाश्रयजातदर्पम्॥९॥  
@@ -12571,9 +11718,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
                                    
   \[पाठान्तरम्\]  
 
-
-
-
 विविंशतिर्दुर्मुखदुर्जयौ च  
 विकर्णदुश्शासनसौबलाश्च॥१२॥
 
@@ -12600,9 +11744,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 पार्थं विकर्णोऽतिरथं रथेन।  
 विपाठवर्षेण कुरुप्रवीरो  
 भीमेन भीमानुजमाससाद॥१६॥  
-
-
-
 
 ततो विकर्णस्य धनुर्निकृत्य  
 जाम्बूनदेनोपहितं दृढज्यम्।  
@@ -12631,8 +11772,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^631]: "क—भरतर्षभास्ते तु रथर्षभेण।ख–म—रथर्षभास्तेन रथर्षभेण।घ—तुङ्गर्षभास्ते तु तुङ्गर्षभेण।"
 
-
-
 चकम्पिरे वातवशेन काले  
 प्रकम्पितानीव महावनानि॥२१॥
 
@@ -12657,8 +11796,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तथा सपत्नान् विकिरन् किरीटी  
 चचार सङ्ख्येऽतिरथो रथेन॥२४॥
 
-
-
 शोणाश्वावाहस्य हयान् निहत्य  
 वैकर्तन भ्रातुरदीनसत्वः।  
 एकेन सङ्ग्रामजितश्शरेण  
@@ -12681,8 +11818,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 निहत्य कर्णस्य तथा किरीटी  
 पुरस्सरांश्चापि च पृष्ठगोपान्।
-
-
 
 प्रतीपमभ्यागमदप्रमेयो[^634]  
 वितत्य पक्षौ गरुडो[^635] यथोरगम्॥२९॥
@@ -12713,9 +11848,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^637]: "क–स–घ–ङ–म—बाहु।"
 
-
-
-
 बभौ महात्मा सधनुस्सबाणस्  
 सविष्फुलिङ्गोऽग्निरिवाथ कर्णः॥३३॥
 
@@ -12739,8 +11871,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वैकर्तनं चापि किरीटमाली  
 प्रच्छादयामास शितैश्शरौघैः॥३७॥
 
-
-
 तयोरमोघान् सृजतोश्शरौघान्  
 अन्नज्ञयोरास महान् विमर्दः।  
 राहुप्रमुक्ताविव चन्द्रसूर्यौ  
@@ -12763,9 +11893,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 शत्रूनिवेन्द्रस्समरे किरीटी  
 विद्रावयंस्तद्रथसिंहबृन्दम्।  
-
-
-
 
 प्राच्छादयत्[^638] सर्वमधिज्यधन्वा  
 वरेषुभिश्शत्रुगणाननेकान्[^639]॥४२॥
@@ -12801,8 +11928,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 एहि कर्ण मया सार्धम् इहाद्य कुरु वैशसम्।  
 प्रेक्षकाःकुरवस्सन्तु सर्वे ते सहसैनिकाः॥४९॥
 
-
-
 इदानीमेव कर्ण[^642] त्वम् अपयातो रणान्मम।  
 कस्माज्जीवसि राधेय निहतस्त्वनुजस्तव॥५०॥
 
@@ -12837,10 +11962,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^645]: "क–ख–घ–ङ–च–म—अत्र पश्यामि ते बलम्।"
 
-
-
-
-
 वैशम्पायनः—
 
 इति कर्णो ब्रुवन्नेव बीभत्सुमपराजितम्।  
@@ -12870,8 +11991,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अर्जुनस्तु हयान् नागान् रथांश्चापि निपातयन्।  
 क्षोभयामास तत् सैन्यं कर्णं विव्याध चासकृत्॥६५॥
 
-
-
 ततः पार्थो महाबाहुः कर्णस्य धनुरच्छिनत्।  
 छिन्नधन्वा ततः कर्णश् शक्तिं चिक्षेप वीर्यवान्[^647]॥६६॥
 
@@ -12896,9 +12015,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विव्याध कर्णोऽथ धनञ्जयस्य।  
 षड्भिश्च सूतं दशभिर्हयांश्च  
 षष्ट्याचपार्थं त्रिभिरस्य केतुम्॥७१॥  
-
-
-
 
 सविष्फुलिङ्गोज्ज्वलभीमघोषः  
 कोपेन्धनः केतुशिखश्शरार्चिः।  
@@ -12927,9 +12043,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 स हस्तिनेवाभिहतो गजेन्द्रः  
 प्रगृह्य भल्लान् निशितान् निषङ्गात्।  
 
-
-
-
 आकर्णपूर्णं तु धनुर्विकृष्य  
 विव्याध बाणैरथ सूतपुत्रम्॥७६॥
 
@@ -12948,11 +12061,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ॥४७॥ गोग्रहणपर्वणि एकोनत्रिंशोऽध्यायः ॥२९॥  
 \[अस्मिन्नध्याये ७८ श्लोकाः\]**
 
-
-
 ![](../books_images/U-IMG-1707145216Screenshot2024-01-08192649.png)
-
-
 
 **॥द्विपञ्चाशोऽध्यायः॥**
 
@@ -12988,8 +12097,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अस्त्राणां तव दिव्यानां शरौघान् क्षिपतश्च ते।  
 मनो मे मुह्यतेऽत्यर्थं तव दृष्ट्वा पराक्रमम्॥५॥
 
-
-
 द्वैधीभूतं मनो मह्यं भयाद्भरतसत्तम।  
 अदृष्टपूर्वं पश्यामि तव गाण्डीवनिस्वनम्॥६॥
 
@@ -13018,8 +12125,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वैराटिरश्वान् प्रतुतोद शीघ्रम्।  
 धनञ्जयश्चापि विकृष्य चापं  
 विष्फारयामास महेन्द्रकल्पः॥१०॥
-
-
 
 उत्तरं चैव बीभत्सुर् अब्रवीत् पुनरेव[^651] हि॥१०॥
 
@@ -13053,8 +12158,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अमी शोणाः प्रकाशन्ते तुरगास्साधुवाहिनः।  
 युक्ता रथवरे यस्य सर्वशिक्षाविशारदाः॥१७॥
 
-
-
 यत्तो रथवरे शूरस् सर्वशस्त्रभृतां वरः।  
 स्निग्धवैडूर्यसङ्काशस् ताम्राक्षः प्रियदर्शनः॥१८॥
 
@@ -13083,9 +12186,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 उत्तरस्त्वेवमुक्तोऽश्वांश् चोदयामास तं प्रति।  
 आजगामार्जुनरथो भारद्वाजरथं प्रति॥२५॥  
-
-
-
 
 तमापतन्तं सम्प्रेक्ष्य[^654] पाण्डवं सरथं रणे।  
 द्रोणोऽप्यभ्यद्रवत् पार्थं मत्तो मत्तमिव द्विषम्॥२६॥
@@ -13122,10 +12222,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 एवं प्रववृधे युद्धं भारद्वाजकिरीटिनोः॥३३॥  
 
-
-
-
-
 अश्वाञ्शोणान् महावेगान् हंसवर्णैस्तु वाजिभिः।  
 मिश्रितान् समरे दृष्ट्वा व्यस्मयन्त पृथग्जनाः॥३४॥
 
@@ -13157,9 +12253,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^660]: "क–ख–घ–च–म—त्यथार्जुनात्।"
 
-
-
-
 इत्यब्रुवञ्जनास्तत्र सङ्ग्रामशिरसि स्थिताः।  
 तौ समीक्ष्य तु संरब्धौ सन्निकृष्टौ महारथौ॥४२॥
 
@@ -13187,8 +12280,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 शोभते स्म महाबाहुर् गाण्डीवं विक्षिपन् धनुः॥४९॥
 
 [^662]: "ङ—धनुरानम्य चार्जुनः। क—धनुरुद्यम्य। ख—धनुरादाय सोऽ। अ—दिव्यमायम्य।"
-
-
 
 शरांश्च विसृजंश्चित्रान्[^663] सुवर्णविकृतान् बहून्।  
 प्राच्छादयदमेयात्मा भारद्वाजरथं प्रति॥५०॥
@@ -13221,9 +12312,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^666]: "क–घ—कार्मुकम्।ख—मव्रणम्।"
 
-
-
-
 विकृष्य सुमहच्चापं मेघस्तनितनिस्वनम्॥५७॥
 
 असकृन्मुञ्चतो बाणान् ददृशुः कुरवो युधि॥५८॥  
@@ -13253,8 +12341,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तयोश्शराश्चविबभुःकङ्कबर्हिणवाससः।  
 पङ्क्त्यश्शरदि मत्तानां सारसानामिवाम्बरे॥६५॥
 
-
-
 तत्तु युद्धं महद्घोरं तयोस्संरब्धयोरभूत्।  
 अत्यद्भुतमचिन्त्यं च वृत्रवासवयोरिव॥६६॥
 
@@ -13281,8 +12367,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अस्त्रैरस्त्राणि संवार्य पार्थो द्रोणमवारयत्॥७३॥
 
 तयोरासीत् सम्प्रहारःक्रुद्धयोर्नरसिंहयोः।
-
-
 
 अमृष्यमाणयोस्सङ्ख्ये बलिवासवयोरिव॥७४॥
 
@@ -13317,8 +12401,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^671]: "ख–घ–च–म—अथान्तरिक्षे नादोऽ।"
 
-
-
 दुष्करं कृतवान द्रोणो यदर्जुनमयोधयत्।  
 प्रमाथिनं महावीर्यं दृढमुष्टिं दुरासदम्॥८३॥
 
@@ -13348,9 +12430,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ततश्शतसहस्राणि शराणां नवपर्वणाम्।  
 युगपत् प्रापतंस्तत्रद्रोणस्य रथमन्तिकात्॥९१॥  
-
-
-
 
 विकीर्यमाणे द्रोणे तु शरैर्गाण्डीवधन्वना।  
 हाहाकारो महानासीत् सैन्यानां भरतर्षभ॥९२॥
@@ -13382,9 +12461,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^677]: "ङ–च–म—छिन्न।"
 
-
-
-
 पराजिते परं[^678] द्रोणे द्रोणपुत्रस्समागतः।  
 सदण्ड इव रक्ताक्षः कृतान्तस्समरे स्थितः॥९९॥
 
@@ -13396,7 +12472,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[अस्मिन्नध्याये ॥९९॥ श्लोकाः\]
 
 ![](../books_images/U-IMG-1707214176Screenshot2024-01-08192649.png)  
-
 
 **॥त्रिपञ्चाशोऽध्यायः॥**
 
@@ -13418,9 +12493,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 न स्म सूर्यस्तदा भाति न च वाति समीरणः।  
 शरगांढे कृते व्योम्नि छायाभूतमिवाभवत्॥३॥  
-
-
-
 
 महांश्चटचटाशब्दो योधयोर्युध्यमानयोः।  
 दह्यतामिव वेणूनाम् आसीत् परमदारुणः॥४॥
@@ -13449,10 +12521,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ततोऽर्धचन्द्रमाहृत्य तेन पार्थस्समाहतः।  
 
-
-
-
-
 ¹वारणेनेव मत्तेन मत्तो वारणयूथपः॥११॥
 
 ततः प्रववृते युद्धं पृथिव्यामेकवीरयोः।  
@@ -13470,7 +12538,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अश्वत्थाम्नः पुनर्बाणाः क्षिप्रमभ्यस्यतो रणे।  
 जग्मुः परिक्षयं शीघ्रम् अभूत् तेनाधिकोऽर्जुनः॥१६॥  
 
-
 इति श्रीमहाभारते शतसहस्त्रिकायां संहितायां वैयासिक्यां  
 विराटपर्वणि त्रिपञ्चाशोऽध्यायः॥५३॥  
 ॥४७॥ गोग्रहणपर्वणि एकत्रिंशोऽध्यायः॥३१॥  
@@ -13483,8 +12550,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 1\. ख–ङ—चिच्छेद तस्य चापं च सूतं चाश्वान् रथस्य वै।  
         विव्याध निशितैश्चापि शरैराशीविषोपमैः।  
         सोऽन्यं रथं समास्थाय प्रत्ययाद्गथिपुङ्गवः॥   \[अधिकः पाठः\]
-
-
 
 **॥चतुःपञ्चाशोऽध्यायः॥**
 
@@ -13522,9 +12587,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^684]: "क–ख–म—शरवर्षं विमुञ्चति।"
 
-
-
-
 नन्दयन्सुहृदस्सर्वान् प्रत्ययुध्यत फल्गुनम्॥७॥
 
 विकृष्य बलवच्चापं पाण्डवोऽमितविक्रमः।  
@@ -13559,9 +12621,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^688]: "क–ख–घ–म—स्थान्।"
 
-
-
-
 चन्द्रकेतुस्सुकेतुश्च चित्राश्वो मणिमांस्तदा।  
 मुञ्जमौलिश्च विक्रान्तो हेमवर्मा भयावहः॥१६॥
 
@@ -13591,8 +12650,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 चिक्षेप सहसा क्रुद्धः पार्थायाद्भुतकर्मणे॥२२॥
 
 तामर्जुनस्तथारूपां शक्तिं हेमपरिष्कृताम्।
-
-
 
 आपतन्ती[^692] महोल्काभां चिच्छेद दशभिश्शरैः॥२३॥
 
@@ -13627,11 +12684,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 4\. ख–ङ—दन्तैर्दन्तच्छदं दृष्ट्वा चुकोप हृदि दीर्घवत्।  
         भवत्विति पुनश्चोक्त्वा युद्धापगमनोद्यतः॥ \[अधिकः पाठः\]
-
-
-
-
-
 
 स्वस्त्रीयस्य महातेजा जग्राह च धनुः पुनः॥३१॥
 
@@ -13669,8 +12721,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अविषह्य शरान् सर्वे पार्थचापच्युतान् रणे।  
 उदक्प्रयान्ति वित्रस्ता रथेभ्यो रथिनस्तदा॥३९॥
 
-
-
 सादिनश्चाश्वपृष्ठेभ्योभूमेश्चापि[^697] पदातयः॥४०॥
 
 [^697]: "क–ख–घ–म—भूमौ चापि।"
@@ -13702,9 +12752,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 शिरसां पात्यमानानां समरे निशितैश्शरैः।  
 अश्मवृष्टिरिवाकाशाद् अभवद्भरतर्षभ॥४७॥  
-
-
-
 
 दर्शयित्वा तथाऽऽमानं रौद्रं रुद्रपराक्रमः।  
 जघान समरे योधाञ् छतशोऽथ सहस्रशः॥४८॥
@@ -13738,9 +12785,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 करवालविपाठीना[^705] चामरोष्णीषफेनिला॥५५॥  
 
 [^705]: "क–ख–घ–ङ–म—करवालासि।"
-
-
-
 
 अश्वग्रीवामहावर्ता कबन्धजलमानुषा।  
 काककङ्करुता तीव्रा सारसक्रौञ्चनादिता॥५६॥
@@ -13778,8 +12822,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      दुस्तरां भीरुमर्त्यानां शूराणां सुतरां नृप।  
      प्रावर्तयन्नदीमेवं भीषणां पाकशासनिः॥  \[अधिकः पाठः\]
 
-
-
 **॥पञ्चपञ्चाशोऽध्यायः॥**
 
 **![](../books_images/U-IMG-1707287476Screenshot2024-01-11152515.png)**
@@ -13814,8 +12856,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      आत्मना युध्यतस्तस्य वृषसेनस्य पाण्डवः।  
      मुहूर्तं तत्रतद्दृष्ट्वा हस्तलाघवपौरुषे।  
      तुतोष च ततः पार्थो वृषसेनपराक्रमम्॥ \[अधिकः पाठः\]
-
-
 
 दुश्शासनो विकर्णश्च शकुनिश्च विविंशतिः।  
 आयान्तं भीमधन्वानं पर्यकीर्यन्त पाण्डवम्॥५॥
@@ -13854,8 +12894,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
         तस्याङ्के वर्धितो बाल्ये तद्योत्स्येऽनेन सम्प्रति ।  
         अस्माकं धार्तराष्ट्राणां शमकामो दिवानिशम्॥ \[अधिकः पाठः\]
 
-
-
 वाहयच्चोदितस्तेन रथं भीष्मरथं प्रति॥११॥
 
 तं[^710] तथा चोदितं दृष्ट्वा फल्गुनस्य रथोत्तमम्।  
@@ -13889,9 +12927,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 समवेक्ष्य तमायान्तं कौन्तेयः परवीरहा।  
 
-
-
-
 देवदत्तं महाशङ्खं प्रदध्मौ युधि वीर्यवान्॥१८॥
 
 तौ शङ्खनादावत्यर्थं भीष्मपाण्डवयास्तदा।  
@@ -13920,9 +12955,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सर्वास्त्रविदुषां श्रेष्ठौ सर्वशस्त्रभृतां वरौ॥२५॥
 
 अग्निरिन्द्रस्य सोमस्य यमस्य धनंदस्य च।  
-
-
-
 
 अनयोस्सदृशं वीर्यं मित्रस्य वरुणस्य च॥२६॥
 
@@ -13959,11 +12991,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^328]: "अ—इदमर्धं नास्ति।"
 
-
-
-
-
-
 तद्युद्धमभवद्घोरं रोमहर्षणमद्भुतम्।  
 भीष्मस्य सह पार्थेन बलिवासवयोरिव॥३४॥
 
@@ -13993,9 +13020,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ततः कनकपुङ्खाग्रैश्शरैस्सन्नतपर्वभिः।  
 पतद्भिः खगवाजैश्च द्यौरासीत् संवृता शरैः॥४१॥  
-
-
-
 
 ततः प्रासृजदुग्राणि शरजालानि पाण्डवः।  
 तावन्ति शरजालानि भीष्मः पार्थाय प्राहिणोत्॥४२॥
@@ -14028,8 +13052,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 विस्मितान्यथ भूतानि तौ दृष्ट्वा संयुगे तथा।
 
-
-
 साधु पार्थ महाबाहो साधु भीष्मेति चाब्रुवन्॥५०॥
 
 नैतदन्यो मनुष्येषु प्रदर्शयितुमाहवे।  
@@ -14059,8 +13081,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 अतीव पाण्डवो भीष्मं भीष्मश्चातीव पाण्डवम्।  
 बभूव तत्र सङ्घेऽस्मिँल्लोके राजंस्तदद्भुतम्॥५८॥
-
-
 
 पाण्डवेन हताश्शूरा भीष्मस्य रथरक्षिणः।  
 शेरते स्म तदा राजन् कौन्तेयस्याहताश्शरैः[^727]॥५९॥
@@ -14097,8 +13117,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      अथ जिष्णुस्तदावृत्य शितधारेण कार्मुकम्।  
      न्यकृन्तद्गृध्रपत्रेण भीष्मस्यामिततेजसः॥\[अधिकः पाठः\]
 
-
-
 मध्यन्दिनगतं सूर्यं प्रतपन्तमिवाम्बरे।  
 न शक्नुवन्ति सैन्यानि पाण्डवं प्रतिवीक्षितुम्॥६६॥
 
@@ -14132,8 +13150,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
         तस्मात् तं नार्हति भवान् गर्हितुं शूरसम्मतम्।  
         राज्ञैवमुक्तस्स द्वौणिर् गतरोषोऽभवत् तदा॥ \[अधिकः पाठः\]
 
-
-
 अस्यतः प्रतिसन्धाय विवरं सव्यसाचिनः॥६९॥
 
 ततः प्रसह्य बीभत्सुः पृथुधारेण कार्मुकम्।  
@@ -14164,8 +13180,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
         यस्स्वेच्छामरणो जातः पितृशुश्रूषणे रतः।  
         दुर्योधनहितार्थाय युद्ध्वा पार्थेन संयुगे॥  
         पृथासुतहितार्थाय पराजित इवाभवत्।   \[अधिकः पाठः\]
-
-
 
 **॥षट्पञ्चाशोऽध्यायः॥**
 
@@ -14200,8 +13214,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \*अस्मिन्नध्याये॥१९॥श्लोकपर्यन्तग्रन्थः पुनरुक्तः। अतएवासङ्गतोऽनावश्यकश्चेति प्रतिभाति। तथाऽपि सर्वासु मातृकासु पाठ उपलभ्यतइत्यस्माभिर्यथामातृकं मुद्रितः।
 
 \* तृतीयचतुर्थश्लोकौपञ्चाशाध्याये द्वितीयतृतीयश्लोकरूपेण स्तः अत्र पुनरुक्तावेव वर्तेते -
-
-
 
 कर्णः[^732]—
 
@@ -14240,8 +13252,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
      युध्यस्व त्वमभी पार्थं प्रपलायस्व मा रणात्।  
      उक्तं वचस्स्मरन् कर्ण नाहमित्यादि संयुगे। \[अधिकः पाठः\]
 
-
-
 बहुभिर्निशितैर्बाणैर् विविधैर्लोमवापिभिः।  
 अथ[^737] ते प्रत्यवस्थाय प्रत्यविध्यन् धनञ्जयम्॥१०॥
 
@@ -14270,11 +13280,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 मनांसि धार्तराष्ट्राणाम् अप्यकृन्तद्धनञ्जयः॥१६॥
 
 ततो विगाह्य सैन्यानां मध्यं शस्त्रभृतां वरः।  
-
-
-
-
-
 
 सारथिं समरे शूरम् अभ्यभाषत वीर्यवान्॥१७॥
 
@@ -14315,8 +13320,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 2\. क—अर्जुनेनैवमुक्तस्तु वैराटिरपराजितः।  
      चोदयामास तानश्वान् अश्वत्थामरथंप्रति॥ \[इति पाठान्तरम्॥\]
 
-
-
 दिष्ट्या दुर्योधनो मुक्तोगावस्सर्वाः[^742]पलायिताः।  
 मुक्तो[^743] दिष्ट्या च सङ्ग्रामे किं रणेन करिष्यसि॥२३॥
 
@@ -14353,9 +13356,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 यत्र शान्तनवो भीष्मस् सर्वेषां नः पितामहः।  
 सुयुद्धं काङ्क्षमाणो वै रथे तिष्ठति दंशितः॥२॥  
 
-
-
-
 तालो वै काञ्चनो यत्र वज्रवैडूर्यभूषितः।  
 अतीव समरे भाति मातरिश्वप्रकम्पितः॥३॥
 
@@ -14391,9 +13391,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ध्वजवृक्षं शरतृणं नागाश्वश्वापदाकुलम्।  
 रथसिंहगणैर्युक्तं धनुर्बल्लिसमाकुलम्॥१०॥  
 
-
-
-
 वनमादीपयिष्यामि कुरूणामस्त्रतेजसा॥११॥
 
 जयतो भारतींसेनाम् एकस्य मम संयुगे।  
@@ -14422,8 +13419,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 अहमिन्द्रादृृढां मुष्टिं ब्रह्मणः क्षिप्रहस्तताम्।  
 प्रगाढनिपुणं चित्रम् अतिविद्धं प्रजापतेः॥१९॥
-
-
 
 रौद्रं रुद्रादहं वेद्मि वारुणं वरुणादपि।  
 सौर्यं[^217] सूर्यादहं वेद्मि याम्यं दण्डधरादपि॥२०॥
@@ -14458,9 +13453,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 तस्य दुश्शासनष्षष्टिं वामपार्श्वे समर्पयत्।  
 
-
-
-
 अस्यतः प्रतिसन्धाय कुन्तीपुत्रस्य धीमतः॥२८॥
 
 पुनश्चैव स भल्लेन विद्ध्वावैराटिमुत्तरम्।  
@@ -14490,8 +13482,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विव्याध युगपद्व्याग्रस् तयोर्वाहानसूदयत्॥३५॥
 
 तौहताश्वौप्रविद्धाङ्गौ धृतराष्ट्रात्मजावुभौ।
-
-
 
 अभिपत्य रथैरन्यैर अपनीतौ पदानुगैः॥३६॥
 
@@ -14523,8 +13513,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अर्जुनस्य शरास्तीक्ष्णा गाण्डीवान् तस्य निस्तताः।  
 आकाशे समदृश्यन्त हंसानामिव पङ्क्तयः॥
 
-
-
 ¹एवं[^757] तत् प्रहतं सैन्यं समन्तात् प्रद्रुतं भयात्॥४१॥
 
 [^757]: "क–म—क्षिपतो लघु चित्रं च सव्यं दक्षिणमस्यतः।        पार्थस्य विशिखा जग्मुश् शतशोऽथ सहस्त्रशः॥        प्रथमं तूतमाङ्गानि सोत्सेधानि धनुष्मताम्।        प्राहिणोत् त्रिशतं योधान् कुरूणामाततायिनाम्॥        पातयन् रथनीडेभ्यः क्षत्रियान् क्षत्रियर्षभः।        प्रगाढधन्वा कौन्तेयो लब्धलक्षः प्रतापवान्॥"
@@ -14542,8 +13530,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^759]: "क—ततः कृपश्च कर्णश्च द्रोणो द्रौणिश्च संयुगे। [अधिकः पाठः]"
 
-
-
 ते[^760] महास्त्रैर्महोत्साहाः परिवार्य धनञ्जयम्।  
 अभ्यवर्षन् सुसङ्क्रुद्धा मेघा[^761] इव महाचलम्॥४५॥
 
@@ -14553,8 +13539,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 शरौघान् सम्यगस्यन्तो जीमूता इव शारदाः।  
 युद्धे तस्थुर्महावीर्याःप्रतपन्तः किरीटिनम्॥४६॥
-
-
 
 इषुभिर्बहुभिस्तूर्णं निशितैर्लोमवापिभिः[^762]।  
 अदूरात् प्रत्यवस्थाय पाण्डवं समयोधयन्॥४७॥
@@ -14586,8 +13570,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
         दुश्शासनमुखान् सर्वान् स तत्र ह्यस्त्रतेजसा॥  
         अर्दयामास तैर्बाणैः पाण्डवोऽस्त्रभृतां वरः॥  
   यथा रश्मिभिरादित्यो—                 \[अधिकः पाठः\]
-
-
 
 यथा वर्षति पर्जन्यो विद्युत् पतति पर्वते।  
 विष्फूरिता[^763] दिशस्सर्वा ज्वलद्गाण्डीवमावृणोत्॥५२॥
@@ -14621,9 +13603,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 दक्षिणामेव तु दिशं हयानुत्तर वाहय।  
 पुरा सार्थीभवत्येषाम् अयं शब्दोऽत्र तिष्ठताम्॥१॥  
-
-
-
 
 अश्वत्थाम्नः प्रतिरथं प्राचीमुद्याहि सारथे।  
 अचिराद्द्रष्टुमिच्छामि गुरुपुत्रं यशस्विनम्॥२॥
@@ -14659,9 +13638,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^766]: " क—कोपेन प्रतिमार्ग।ख–घ—कोपेन परिमार्गन्।ङ—कोपेन मार्गमाणो। म—क्रोधेन।"
 
-
-
-
 न्यवर्तत कुरुश्रेष्ठस् स्वेनानीकेन संवृतः।  
 वार्यमाणो दुराधर्षैर् भीष्मद्रोणकृपादिभिः[^767]॥९॥
 
@@ -14690,8 +13666,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 आचार्यपुत्रं च पितामहं च  
 सुयोधनं सूतसुतं च सङ्ख्ये।
-
-
 
 द्रोणं कृपं चैव निवार्य युद्धे  
 शिरो हरिष्यामि सुयोधनस्य॥१३॥
@@ -14722,8 +13696,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विष्फारयन् तद्धनुरुग्रघोषं  
 युयुत्समानः पुनरेव जिष्णुः॥१६॥
 
-
-
 गाण्डीवशब्देन तु यत्र योधा  
 भूमौ निपेतुर्बहवोऽतिवेलम्।  
 शङ्खस्य शब्देन तु वानरस्य  
@@ -14750,8 +13722,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तेनार्दितो नाग इव प्रभिन्नः  
 पार्थेन विद्धो धृतराष्ट्रसूनुः।
 
-
-
 युयुत्समानोऽतिरथेन सङ्ख्ये  
 श्वसन्[^774] निगृह्यार्जुनमाससाद॥२०॥
 
@@ -14777,8 +13747,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 शरानुपादाय विषाग्निकल्पान्  
 विव्याध राजानमदीनसत्वः॥२४॥
 
-
-
 दुर्योधनश्चापि तमुग्रतेजाः  
 पार्थश्च दुर्योधनमेकवीरः।  
 अन्योन्यमाजौ पुरुषप्रवीरौ  
@@ -14803,9 +13771,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 शरप्रतप्तस्स तु नागराजः  
 प्रवेषिताङ्गो व्यथितान्तरात्मा।  
-
-
-
 
 संसीदमानो निपपात भूम्यां  
 वज्राहतं शृङ्गमिवाचलस्य॥२९॥
@@ -14834,8 +13799,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 रथं समावृत्य कुरुप्रवीरो  
 रणात् प्रदुद्राव यतो न पार्थः॥३३॥
 
-
-
 तं भीमरूपं त्वरितं व्रजन्तं  
 दुर्योधनं शत्रुगणावमर्दी।  
 अन्वागमयोद्धुमनाः किरीटी  
@@ -14862,9 +13825,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वैकर्तनं द्वादशभिः पृषत्कैः।  
 
 [^779]: "क–ख–घ—पुनरिन्द्रकर्मा।"
-
-
-
 
 विव्याध[^780] तेषां द्रवतां समीक्ष्य  
 दुश्शासनं चैकरथेन पार्थः॥३८॥
@@ -14895,10 +13855,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सर्वास्त्रविद्वारणयूथपाभः  
 काले प्रहर्ता युधि शात्रवाणाम्।  
 
-
-
-
-
 अयं च पार्थः पुनरागतो नो  
 मूलं च रक्ष्यं भरतर्षभाणाम्॥४२॥
 
@@ -14928,8 +13884,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^783]: "अ—इत आरभ्य सार्धश्लोको नास्ति।"
 
-
-
 सुवर्णमाल्यानि च कुण्डलानि  
 हारांश्च वैडूर्यकृतोपधानान्॥४७॥  
 च्युतस्य युद्धान्न तु शङ्खशब्दास्  
@@ -14952,8 +13906,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 नहीह दुर्योधनता तवास्ति  
 पलायमानस्य रणं विहाय॥५१॥
-
-
 
 न ते पुरस्तादथ पृष्ठतोऽपि  
 पश्यामि दुर्योधन रक्षितारम्।  
@@ -14983,8 +13935,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 गजो युवा मत्त इवाङ्कुशेन॥१॥
 
 [^784]: "क–म—निवर्तितस्तस्य। ख—निवर्तितस्तेन। घ–च—निवर्तितस्तस्य वचोङ्कुशेन।"
-
-
 
 सोऽमृष्यमाणो वचसाऽभिमृष्टो  
 महारथेनातिरथस्तरस्वी।  
@@ -15017,9 +13967,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^787]: "क—वर्तमानं, संस्तभ्य गात्राण्यतिविद्वगातः।ख—वर्तमानं, विवृत्य संस्तम्भित।घ–ङ—वर्तमानं।"
 
-
-
-
 दुर्योधनं दक्षिणतो ररक्ष  
 पार्थान्नृवीरो[^788] युधि हेममाली॥७॥
 
@@ -15046,8 +13993,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अस्त्राणि दिव्यानि समाददानाः।  
 ववर्षुरभ्येत्य शरैस्समन्ता-  
 न्मेघा यथा भूधरमम्बुवेगैः॥११॥
-
-
 
 ततोऽस्त्रमन्त्रेण निवार्य तेषां  
 गाण्डीवधन्वा[^790] कुरुपुङ्गवानाम्।  
@@ -15077,9 +14022,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^793]: "क–म—तदा शान्तिपरा।अ—परा।घ—ततश्शान्तिपरा"
 
-
-
-
 तथा विसंज्ञेषु परेषुपार्थस्  
 संस्मृत्य सन्देशमथोत्तरायाः।  
 निर्याहि वाहादिति मात्स्यपुत्रम्  
@@ -15108,9 +14050,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सुवर्णनिष्काभरणानि मारिष॥२०॥  
 
 [^795]: "अ–क–घ–च–म—श्लोकत्रयं नोपलभ्यते।"
-
-
-
 
 माणिक्यबाह्वङ्गदकङ्कणानि  
 अन्यानि राज्ञां मणिभूषणानि।  
@@ -15144,9 +14083,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 लब्ध्वा तु संज्ञां पुरुषप्रवीरः  
 पार्थं समीक्ष्याथ महेन्द्रकल्पम्।  
 
-
-
-
 रणाद्विमुक्तं स्थितमेकमाजौ  
 स धार्तराष्ट्रस्त्वरितो बभाषे॥२६॥
 
@@ -15179,8 +14115,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^799]: "अ–क–घ–च–म—कोशेषु इत आरभ्य श्लोकत्रयं नोपलभ्यते।"
 
-
-
 नृपेषु सर्वेषु च मोहितेषु  
 हन्तुं यदीच्छेत् स हनिष्यतीति।  
 तदा तु धर्मात्मतया नृवीरो  
@@ -15209,8 +14143,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ते षामनीकानि निरीक्ष्य पार्थो  
 विकीर्णतूर्यध्वजकार्मुकाणि।
 
-
-
 गाण्डीवधन्वा प्रवरः कुरूणां  
 शङ्कं प्रदध्मौ बलवान् बलेन॥३६॥
 
@@ -15236,8 +14168,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 द्रोणं कृपं चैव कुरूंश्च मान्याञ्  
 शरैर्विचित्रैरभिवाद्य सङ्ख्ये॥४०॥
 
-
-
 दुर्योधनस्योत्तमरत्नचित्रं  
 चिच्छेद पार्थो मकुटं शरौघैः॥४०॥
 
@@ -15259,8 +14189,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 रणोत्कटो नाग इव प्रभिन्नः।  
 जित्वा च वैराटिमुवाच पार्थः  
 प्रष्टरूपो रथिनां वरिष्ठः॥४३॥
-
-
 
 अर्जुनः—
 
@@ -15291,8 +14219,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ततो विजिय सङ्ग्रामे कुरून् गोवृषभेक्षणः।  
 समानयामास तदा विराटस्य धनं महत्॥१॥
-
-
 
 गतेषु च प्रभग्नेषु धार्तराष्ट्रेषु सर्वशः।  
 वनान्निष्क्रम्य गहनाद् बहवः कुरुसैनिकाः॥२॥  
@@ -15326,9 +14252,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 [^805]: " क–घ–म—विजित्य।ख–च —निहत्य।"
 
-
-
-
 यातो[^806] महामेघ इवातपान्ते  
 विद्राव्य पार्थः कुरुसैन्यमेकः॥९॥  
 तं मात्स्यपुत्रं द्विपतां निहन्ता  
@@ -15357,8 +14280,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 न त्वां प्रवक्ष्यामि पितुस्सकाशे  
 यावन्न मां वक्ष्यसि सव्यसाचिन्॥१२॥
 
-
-
 वैशम्पायनः—
 
 स शत्रुसेनां तरसा विजित्य  
@@ -15380,9 +14301,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 निहत्य शत्रून् द्विषतां निहन्ता।  
 विधाय भूयश्च तथैव वेषं  
 जग्राह रश्मीन् पुनरुत्तरस्य॥१६॥  
-
-
-
 
 बृहन्नलावेषमथो[^217] विधाय  
 प्रायात् स मात्स्यं नगरं प्रवेष्टुम्॥१७॥  
@@ -15417,8 +14335,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 **![](../books_images/U-IMG-1707891504Screenshot2024-01-08192649.png)**
 
-
-
 **॥एकषष्टितमोऽध्यायः॥**
 
 ![](../books_images/U-IMG-1707891850Screenshot2024-01-07190619.png)
@@ -15445,8 +14361,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 उत्तरं[^811] परिपप्रच्छ क्व यात इति चाब्रवीत्॥५॥
 
 [^811]: "ख—प्रविश्यान्तः पुरं रम्यं स्त्रीशतैरुपशोभितम्। [अधिकः पाठः]"
-
-
 
 आचख्युस्तस्य[^812] संहृष्टास् स्त्रियः कन्याश्च वेश्मनि।  
 अन्तःपुरचराश्चैव कुरुभिर्गोधनं हृतम्॥६॥
@@ -15478,8 +14392,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वादित्रसङ्घांश्च ततः प्रभूतान्।  
 प्रस्थापयामास सुतस्य हेतोर्  
 विचित्रनानाभरणोपपन्नान्॥१२॥
-
-
 
 एवं स राजा मात्स्यानां महानक्षौहिणीपतिः।  
 व्यादिदेशाथ स क्षिप्रं वाहिनीं चतुरङ्गिणीम्॥१३॥
@@ -15517,8 +14429,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 राजानं तत आचख्युर् मन्त्रिभिर्जयमुत्तमम्।  
 पराजयं कुरूणां चाप्युपायान्तं तथोत्तरम्॥१९॥
 
-
-
 दूताः—
 
 सर्वा विनिर्जिता गावः कुरवश्च पराजिताः।  
@@ -15554,8 +14464,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 राजमार्गाः क्रियन्तां वै पताकाभिरलङ्कृताः।
 
-
-
 पुष्पोपहारैरर्च्यन्तां देवताश्चापि सर्वशः॥२६॥
 
 कुमारा योधमुख्याश्च गणिकाश्चस्वलङ्कृताः।  
@@ -15586,8 +14494,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वैशम्पायनः—
 
 श्रुत्वा तु वचनं राज्ञः पौरास्वस्तिकपाणयः।
-
-
 
 ¹सर्वे[^820] सुप्रीतमनसः प्रतिजग्मुर्यथोचितम्॥३२॥
 
@@ -15623,8 +14529,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 अक्षानाहर सैरन्ध्रि कङ्क द्यूतं प्रवर्तताम्॥३७॥
 
-
-
 वैशम्पायनः—
 
 तं तथावादिनं दृष्ट्वा पाण्डवःप्रत्यभाषत॥३७॥
@@ -15659,8 +14563,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 अविश्वास्यं बुधैर्नित्यम् एकाह्ना द्रव्यनाशनम्।
 
-
-
 द्यूते हारितवान् सर्वं तस्माद् द्यूतं न रोचये॥४५॥
 
 अथवा मन्यसे राजन् दीव्यतां यदि रोचते॥४५॥
@@ -15684,7 +14586,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 दिष्टया ते विजिता गावः कुरवश्च पराजिताः।  
 अत्यद्भुतमहं मन्ये उत्तरश्चेत् कूरूञ्जयेत्॥४९॥
 
-[यन्ता](http://॑ "1. म– इदमर्धं नास्ति ।") बृहन्नला यस्य सा कथञ्चिद्विजेष्यते॥४९॥
+[यन्ता]("1. म– इदमर्धं नास्ति ।") बृहन्नला यस्य सा कथञ्चिद्विजेष्यते॥४९॥
 
 वैशम्पायनः—
 
@@ -15695,8 +14597,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 तादृशेन तु योधेन महेष्वासेन धीमता।  
 कुरवो निर्जिता युद्धे तत्र किं ब्राह्मणाद्भुतम्॥५१॥
-
-
 
 **युधिष्ठिरः—**
 
@@ -15731,8 +14631,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 यत्र शान्तनवोभीष्मो द्रोणकर्णौव दुर्जयौ।
 
-
-
 अश्वत्थामा विकर्णश्च सोमदत्तो जयद्रथः॥६०॥
 
 भूरिश्रवाश्शलो भूरिर् जलसन्धश्च वीर्यवान्।  
@@ -15754,7 +14652,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 कस्तद्बृहन्नलादन्यो मनुष्यः प्रतियोत्स्यति॥६६॥
 
-[वैशम्पायनः](http://॑ "1. ख– घ– ङ – यस्य बाहुबले तुल्यो न भविष्यति कश्चन् । अतीव समरं दृष्ट्वा हर्षो यस्याभिवर्धते ॥  किमेवं पुरुषो लोके दिवि वा भुवि विद्यते । [अधिकः पाठः]")—
+[वैशम्पायनः]("1. ख– घ– ङ – यस्य बाहुबले तुल्यो न भविष्यति कश्चन् । अतीव समरं दृष्ट्वा हर्षो यस्याभिवर्धते ॥  किमेवं पुरुषो लोके दिवि वा भुवि विद्यते । [अधिकः पाठः]")—
 
 तेन संक्षुभितो राजा दीर्यमाणेन वेतसा।  
 अब्रवीद्वचनं तात अजानन् वै युधिष्ठिरम्॥६७॥
@@ -15763,9 +14661,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 कङ्क मा त्वं ब्रवीर्वाक्यं प्रतिकूलं द्विजोत्तम।
 
-
-
-बहुशः प्रतिषिद्ध [स्सन्](http://॑ "1. क– ख– घ– म– स्त्वं") न चेद्वाचं नियच्छसि॥६८॥
+बहुशः प्रतिषिद्ध [स्सन्]("1. क– ख– घ– म– स्त्वं") न चेद्वाचं नियच्छसि॥६८॥
 
 नियन्ता चेन्न विद्येत न कश्चिद्धर्ममाचरेत्॥६८॥
 
@@ -15773,8 +14669,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ततः प्रक्षुभितो राजा सोऽक्षेणाभ्यहनद्भृशम्॥६९॥
 
-[ततस्तक्षकभोगाभं](http://॑ "2. क – ङ– बाहुं तक्षकभोगाभमुक्षिप्य समलङ्कृतम् । ख – म – तस्य ।") बाहुमुद्यम्य दक्षिणम्।  
-[विराटः](http://॑ "3. अ – ङ– च– म – इदमर्धं नास्ति ।") प्राहरत् क्रुद्धः कर्णमाश्रित्य दक्षिणम्॥७०॥
+[ततस्तक्षकभोगाभं]("2. क – ङ– बाहुं तक्षकभोगाभमुक्षिप्य समलङ्कृतम् । ख – म – तस्य ।") बाहुमुद्यम्य दक्षिणम्।  
+[विराटः]("3. अ – ङ– च– म – इदमर्धं नास्ति ।") प्राहरत् क्रुद्धः कर्णमाश्रित्य दक्षिणम्॥७०॥
 
 मुखे युधिष्ठिरं कोपान्मैवमित्यवभर्त्सयन्॥७०॥
 
@@ -15786,22 +14682,20 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तस्य रक्तोत्पलानिभं शिरसश्शोणितं तदा।  
 प्रावर्तत महाबाहोर् अभिघातान्महात्मनः॥७३॥
 
-तदप्राप्तं महीं पार्थः पाणिभ्यां [समधारयत्](http://॑ "क–व– समवारयत् ।")।  
+तदप्राप्तं महीं पार्थः पाणिभ्यां [समधारयत्]("क–व– समवारयत् ।")।  
 अवैक्षत च धर्मात्मा द्रौपदीं पार्श्वतस्स्थिताम्॥७४॥
 
 सा वेदनामभिज्ञाय भर्तुश्चित्तवशानुगा।  
 सा विषण्णा च भीता च क्रुद्धा च द्रुपदात्मजा॥७५॥
 
-बाष्पं नियम्य [दुःखेन](http://॑ "5. क– व – दुःखं च । म – दुःखं च भर्तृनि । ख– कृष्छ्रेण भर्तुर्निश्श्रेयसैषिणी ।") भर्तुर्निश्श्रेयकारिणी।
-
-
+बाष्पं नियम्य [दुःखेन]("5. क– व – दुःखं च । म – दुःखं च भर्तृनि । ख– कृष्छ्रेण भर्तुर्निश्श्रेयसैषिणी ।") भर्तुर्निश्श्रेयकारिणी।
 
 उत्तरीयेण सूक्ष्मेण तूर्णं जग्राह शोणितम्॥७६॥
 
 निगृह्य रक्तं वस्त्रेण सैरन्ध्री दुःखमोहिता।  
 सौवर्णं गृह्य भृङ्गारं शोणितं तदपामृजत्॥७७॥
 
-युधिष्ठिरस्य राजेन्द्र द्रुपद [स्यात्मजा](http://॑ "1. क– ख– घ–म–स्य सुता") तदा॥७७॥
+युधिष्ठिरस्य राजेन्द्र द्रुपद [स्यात्मजा]("1. क– ख– घ–म–स्य सुता") तदा॥७७॥
 
 विराटः—
 
@@ -15814,14 +14708,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तावद्वर्षाणि ते राष्ट्रेष्वनावृष्टिर्भविष्यति॥७९॥
 
 एतन्निमित्तं मात्स्येन्द्र कङ्कस्य रुधिरं मया।  
-गृहीतमुत्तरीयेण विनाशो मा भवेत् [तव](http://॑ "2. ख– घ – यतीशं यो विहन्येत तस्यायुर्विनशिष्यति । यो यतीशं नियम्येत सहस्रं यातना यमे ॥ यतौरक्तं दर्शयति यावत्पा॑सुरगृह्यत । तावन्तः पितृलोकस्थाः पितरः प्रपतन्त्यधः ॥ इति ज्ञात्वा विराटेन्द्र धृतं रक्तं च वाससा । मया तव हितार्थाय त्वयि प्रणयकारणात् ॥ [ अधिकः पाठः]")॥८०॥
+गृहीतमुत्तरीयेण विनाशो मा भवेत् [तव]("2. ख– घ – यतीशं यो विहन्येत तस्यायुर्विनशिष्यति । यो यतीशं नियम्येत सहस्रं यातना यमे ॥ यतौरक्तं दर्शयति यावत्पा॑सुरगृह्यत । तावन्तः पितृलोकस्थाः पितरः प्रपतन्त्यधः ॥ इति ज्ञात्वा विराटेन्द्र धृतं रक्तं च वाससा । मया तव हितार्थाय त्वयि प्रणयकारणात् ॥ [ अधिकः पाठः]")॥८०॥
 
 इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
 विराटपर्वणि एकषष्टितमोऽध्यायः॥ ६१॥  
 ॥ ४७॥ गोग्रहणपर्वणि एकोनचत्वारिंशोऽध्यायः॥ ३९॥  
 \[अस्मिन्नध्याये ८०॥ श्लोकाः \]
-
-
 
 **॥द्विषष्टितमोऽध्यायः॥**
 
@@ -15849,30 +14741,26 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 भीष्मं शारद्वतं द्रोणं कर्णं गाण्डीवधन्वना।
 
-
-
 जितांश्चान्यान् भूमिपालान्दृष्ट्वा जग्मुर्दिवौकसः॥५॥
 
 सर्वे ते परितुष्टाश्च प्रशस्य च मुहुर्मुहुः।  
 असङ्गगतिना तेन विमानेनाशुगामिना॥६॥
 
-प्रतिजग्मु [रसङ्गेन](http://॑ "1. क– घ –रसङ्ख्येन । ख – रसङ्गास्ते ।") त्रिदिवं च दिवौकसः॥६॥
+प्रतिजग्मु [रसङ्गेन]("1. क– घ –रसङ्ख्येन । ख – रसङ्गास्ते ।") त्रिदिवं च दिवौकसः॥६॥
 
-[कुरवोऽर्जुनबाणैश्च](http://॑ "2. ख– च– कुरवो निर्जितास्सर्वे भोष्मद्रोणकृपादयः । अजय्यास्त्रिदशैस्सर्वैः सैन्ट्रेस्सर्वैस्सुरासुरैः ॥ पार्थेनैकेन सङ्ग्रामे विस्मयो नो महानहो । कस्मिन् मुहूर्ते सञ्जातः कस्य धर्मस्य वा फलम् ॥ किमाश्चर्यं फल्गुनेऽस्मिन् यो रुद्रेण न्ययोधयत् । निवातकवचानाजौयस्त्रिंशत्कोटिसम्मितान् ॥ तस्य चैतत् किमाश्चर्यं स्तुवन्त इति ते सुराः । जग्मुस्सुरालयं हृष्टा विस्मयाविष्टचेतसः ॥ [अधिकः पाठः]") ताडिताश्शरविक्षताः।  
+[कुरवोऽर्जुनबाणैश्च]("2. ख– च– कुरवो निर्जितास्सर्वे भोष्मद्रोणकृपादयः । अजय्यास्त्रिदशैस्सर्वैः सैन्ट्रेस्सर्वैस्सुरासुरैः ॥ पार्थेनैकेन सङ्ग्रामे विस्मयो नो महानहो । कस्मिन् मुहूर्ते सञ्जातः कस्य धर्मस्य वा फलम् ॥ किमाश्चर्यं फल्गुनेऽस्मिन् यो रुद्रेण न्ययोधयत् । निवातकवचानाजौयस्त्रिंशत्कोटिसम्मितान् ॥ तस्य चैतत् किमाश्चर्यं स्तुवन्त इति ते सुराः । जग्मुस्सुरालयं हृष्टा विस्मयाविष्टचेतसः ॥ [अधिकः पाठः]") ताडिताश्शरविक्षताः।  
 कुरूनभिमुखा यातास् समग्रबलवाहनाः॥७॥
 
 विराटनगराच्चैव गजाश्वरथसङ्कुलाः।  
 योधैः क्षत्रियदायादैर् बलवद्भिरधिष्ठिताः॥८॥
 
 विराटप्रहिता सेना नगराच्छीघ्रयायिनी।  
-उत्तरं सह सूतेन प्रत्ययात् तम [नन्तरम्](http://॑ "3. क– ख– घ– रिन्दमम् ।")॥९॥
+उत्तरं सह सूतेन प्रत्ययात् तम [नन्तरम्]("3. क– ख– घ– रिन्दमम् ।")॥९॥
 
 तस्मिंस्तूर्यशताकीर्णे हस्त्यश्वरथसङ्कुले।  
 प्रहर्षस्स्त्रीकुमाराणां तुमुलस्समपद्यत॥१०॥
 
 अर्जुनस्तु ततो दृष्ट्वा सैन्यरेणुं समुत्थितम्।
-
-
 
 सैन्यध्वजं निशाम्याथ वैराटिं समभाषत॥११॥
 
@@ -15898,15 +14786,13 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अनीकानि प्रकाशन्ते हस्तिनोऽश्वाश्च वर्मिताः॥१७॥
 
 पादाता रथिनश्चैव बहवो न च शस्त्रिणः।  
-विराटवचनात् सर्वे संहृष्टाःप्रति[भान्ति](http://॑ "1. क– ख– घ–भाति ।") मे॥१८॥
+विराटवचनात् सर्वे संहृष्टाःप्रति[भान्ति]("1. क– ख– घ–भाति ।") मे॥१८॥
 
 न चमेऽत्रप्रतीघातश् चित्तस्य स्वजने यथा॥१८॥
 
 वैशम्पायनः—
 
-ततश्शीघ्रं समागम्य उत्तर [स्स्वजनं](http://॑ "2. क – स्वजनो बहु । परस्परममित्रघ्नं सस्बजे तं समागतम् । ख– घ –ङ– म – स्वजनं बहु ॥ परस्परममित्रघ्नःसस्बजे तं समागतम् ॥") विभुः।
-
-
+ततश्शीघ्रं समागम्य उत्तर [स्स्वजनं]("2. क – स्वजनो बहु । परस्परममित्रघ्नं सस्बजे तं समागतम् । ख– घ –ङ– म – स्वजनं बहु ॥ परस्परममित्रघ्नःसस्बजे तं समागतम् ॥") विभुः।
 
 परस्परममितघ्नस्सस्वजे तं समागतः॥१९॥
 
@@ -15930,7 +14816,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 वैशम्पायनः—
 
-उत्तरस्य वचश्श्रुत्वा [शंसमानस्य](http://॑ "1. अ–ङ– च – एकस्य युधि वीर्येण युधि") चार्जुनम्।  
+उत्तरस्य वचश्श्रुत्वा [शंसमानस्य]("1. अ–ङ– च – एकस्य युधि वीर्येण युधि") चार्जुनम्।  
 चोदिना राजपुत्रेण जयं मङ्गलवादिनः॥२५॥
 
 ततो गन्धैश्च माल्यैश्च धूपैश्च वसुसम्भृतैः।  
@@ -15939,10 +14825,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 आपूर्यमाणो माल्यैश्च गन्धैश्च विविधैश्शुभैः।  
 सम्पूज्यमानो लोकेन नगरद्वारमागमत्॥२७॥
 
-
-
 भेर्यश्च तूर्याणि च वेणवश्च  
-[विचित्रवेषाः](http://॑ "1. क – पुरा विराटस्य महाबलस्य । निष्क्रम्य भूमिञ्जयमभ्यनन्दन् बृहन्नलासारथिनं प्रशस्य ॥[ इति पाठान्तरम् ]") प्रमदाजनाश्च।  
+[विचित्रवेषाः]("1. क – पुरा विराटस्य महाबलस्य । निष्क्रम्य भूमिञ्जयमभ्यनन्दन् बृहन्नलासारथिनं प्रशस्य ॥[ इति पाठान्तरम् ]") प्रमदाजनाश्च।  
 विराटराजस्य महाबलस्य  
 निष्क्रम्य भूमिञ्जयमभ्यनन्दन॥२८॥
 
@@ -15951,18 +14835,16 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सम्भाष्यमाणस्तु जयेन तेन  
 मोऽन्तर्मनाः पाण्डवमीक्षमाणः॥२९॥
 
-[पुत्र्या](http://॑ "2. क–ख–ङ– पुत्र्यै")विराटस्य ततो वराणि  
+[पुत्र्या]("2. क–ख–ङ– पुत्र्यै")विराटस्य ततो वराणि  
 वस्त्राण्यदात् पाण्डुसुतस्सखीभ्यः।  
 सभाजयंश्चापि समागतास्ता  
-दृष्ट्वा जयं तच्च बलं [कुमार्यः](http://॑ "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते ।")॥३०॥
+दृष्ट्वा जयं तच्च बलं [कुमार्यः]("सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते ।")॥३०॥
 
 सभाज्यमानः पौरैश्च स्त्रीभिर्जानपदैरपि।  
 आसाद्यान्तःपुरद्वारं पित्रे सम्प्रत्यवेदयत्॥३१॥
 
 ततो द्वास्स्थस्समागम्य प्रणिपत्य कृताञ्जलिः।  
 वर्धयित्वा जयाशीर्भिर् इदं वचनमब्रवीत्॥३२॥
-
-
 
 **द्वारस्थः—**
 
@@ -15982,7 +14864,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 वैशम्पायनः—
 
-क्षत्तारं कुरुराजस्तु शनैः कर्ण [उवाच](http://॑ "1. क–ख – ङ–च–म – उपाजपत् । घ – उपादिशत् ।") ह॥३५॥
+क्षत्तारं कुरुराजस्तु शनैः कर्ण [उवाच]("1. क–ख – ङ–च–म – उपाजपत् । घ – उपादिशत् ।") ह॥३५॥
 
 कङ्कः—
 
@@ -15995,8 +14877,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 व्यक्तं भृशं सुसङ्क्रुद्धो मां दृष्ट्वैव सशोणितम्।  
 विराटं हि सहामात्यं हन्यात् सबलवाहनम्॥३८॥
-
-
 
 इन्द्रं वाऽपि कुवेरं वा यमं वा वरुणं तथा।  
 मम शोणितकर्तारं मृद्गीयान् किं पुनर्नरम्॥३९॥
@@ -16012,7 +14892,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 ततो राजसुतो ज्येष्ठःप्राविशत् पृथिवीञ्जयः॥४२॥
 
-[अभिवाद्य](http://॑ "1. क–घ– म –सोऽभिवाद्य । ख– ववन्देस ।") पितुः पादौ धर्मराजस्य पश्यतः।
+[अभिवाद्य]("1. क–घ– म –सोऽभिवाद्य । ख– ववन्देस ।") पितुः पादौ धर्मराजस्य पश्यतः।
 
 ——————————————————————————————————————————————————————
 
@@ -16034,9 +14914,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अक्षक्रीडनयाऽनेन कालक्षेपमकारिषम्॥  
 तदाऽजयत् कुरून् सर्वान् उत्तरो राष्ट्रवर्धनः।
 
-
-
-ततो रुधिरसिक्ताङ्गं [धर्मराजमपश्यत](http://॑ "1. क – घ– ङ– म–अनेकाग्रमनागसम् ।")॥४३॥
+ततो रुधिरसिक्ताङ्गं [धर्मराजमपश्यत]("1. क – घ– ङ– म–अनेकाग्रमनागसम् ।")॥४३॥
 
 भूमावेकान्त आसीनं सैरन्ध्रया समुपस्थितम्॥४३॥
 
@@ -16046,23 +14924,21 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 केनायं ताडितो विप्रः केन पापमिदं कृतम्॥४४॥
 
-[विराट](http://॑ "2. च– को वा जिगमिषुर्मृत्युं केन स्पृष्टः पदोरगः ।[अधिकः पाठः]")ः—
+[विराट]("2. च– को वा जिगमिषुर्मृत्युं केन स्पृष्टः पदोरगः ।[अधिकः पाठः]")ः—
 
 मयाऽयं ताडितो जाल्मो न चाप्येतावदर्हति।  
 मया प्रशस्यमानेऽपि त्वयि पण्डं प्रशंसति॥४५॥
 
 ताडितोऽयं मया पुत्र दुरात्मा शत्रुपक्षकृत्।  
-बृहन्नलाप्रशंसाभिर् [असूया](http://॑ "3. क– ख– घ–च– म – अभ्यसूयाम्यहं भृशम् ।") मे महत्तमा॥४६॥
+बृहन्नलाप्रशंसाभिर् [असूया]("3. क– ख– घ–च– म – अभ्यसूयाम्यहं भृशम् ।") मे महत्तमा॥४६॥
 
-[उत्तरः](http://॑ "4. ख– च– श्रुत्वा पितुर्भृशं क्रुद्धः पितरं वाक्यमब्रवीत् । [अधिकः पाठः]")—
+[उत्तरः]("4. ख– च– श्रुत्वा पितुर्भृशं क्रुद्धः पितरं वाक्यमब्रवीत् । [अधिकः पाठः]")—
 
 अकार्यं त्वत्कृतं राजन् क्षिप्रमेषप्रसाद्यताम्।
 
 ![](../books_images/U-IMG-1707189963Screenshot2024-02-03115343.png)
 
 पूर्वतोऽनुवृत्तम्—
-
-
 
 इत्युक्तं हि मया पुत्रनेति कङ्को वृहन्नला॥
 
@@ -16071,13 +14947,11 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 प्रशंसिते मया पुत्रविजये तत्र विश्रुते।  
 बृहन्नलाया विजयं कङ्कोऽस्तुवत वै रुषा॥ \[अधिकः पाठः \]
 
-
-
 मा त्वा ब्रह्मद्विपं घोरं समूलमुपनिर्दहेत्॥४७॥
 
-[वैशम्पायन](http://॑ "1. ख– च– यावन्न क्षयमायाति कुलं सर्वमशेषतः । स्फीतं वृद्धं च मात्स्यानाम् अयं तावत् प्रसाद्यताम्॥ प्रणम्य पादयोरस्य दण्डवत् क्षितिमण्डले । प्रगृह्य तावत् पाणिभ्याम् अयं तावत् प्रसाद्यताम्॥  दक्षेण पाणिना स्पृष्ट्वा शपे त्वां क्षमितं मया । इति यावद्वदेत् कङ्क अयं तावत् प्रसाद्यताम् ॥ [अधिकः पाठः]")ः—
+[वैशम्पायन]("1. ख– च– यावन्न क्षयमायाति कुलं सर्वमशेषतः । स्फीतं वृद्धं च मात्स्यानाम् अयं तावत् प्रसाद्यताम्॥ प्रणम्य पादयोरस्य दण्डवत् क्षितिमण्डले । प्रगृह्य तावत् पाणिभ्याम् अयं तावत् प्रसाद्यताम्॥  दक्षेण पाणिना स्पृष्ट्वा शपे त्वां क्षमितं मया । इति यावद्वदेत् कङ्क अयं तावत् प्रसाद्यताम् ॥ [अधिकः पाठः]")ः—
 
-[पुत्रस्य](http://॑ "2. क– च–म – स पुत्रस्य वचः । ख–पुत्रेणैवमभिहितो विराटस्साध्वसाकुलः । [ पाठान्तरम् ]") वचनं श्रुत्वा विराटो राष्ट्रवर्धनः।  
+[पुत्रस्य]("2. क– च–म – स पुत्रस्य वचः । ख–पुत्रेणैवमभिहितो विराटस्साध्वसाकुलः । [ पाठान्तरम् ]") वचनं श्रुत्वा विराटो राष्ट्रवर्धनः।  
 क्षमयामासकौन्तेयं छन्नं ब्राह्मणतेजसा॥४८॥
 
 क्षमयन्तं तु राजानं पाण्डवः प्रत्यभाषत॥४९॥
@@ -16097,8 +14971,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 शोणिते तु व्यतिक्रान्ते प्रविवेश बृहन्नला।  
 अभिवाद्य महाराजं कङ्कं चाप्युपतिष्ठत॥५२॥
 
-
-
 क्षमयित्वा तु कौरव्यं रणादुत्तरमागतम्।  
 परिष्वज्य दृढं राजा प्रवेश्य भवनोत्तमम्॥५३॥
 
@@ -16106,15 +14978,15 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 विराटः—
 
-त्वया दायादवानस्मि [कैकेय्यानन्दवर्धन](http://॑ "1. क– घ– ङ– च– म – कैकेयीनन्दि ।")।  
+त्वया दायादवानस्मि [कैकेय्यानन्दवर्धन]("1. क– घ– ङ– च– म – कैकेयीनन्दि ।")।  
 त्वया मे सहशः पुत्रो न भूतो न भविष्यति॥५५॥
 
 पदं पदसहस्रेण यश्चरन्नापराध्नुयात्॥५५॥
 
-[शूरश्च](http://॑ "2. म– इदमर्धं नास्ति ।") लघुहस्तश्च कर्णो लघुपराक्रमः।  
+[शूरश्च]("2. म– इदमर्धं नास्ति ।") लघुहस्तश्च कर्णो लघुपराक्रमः।  
 तेन कर्णेन ते तात कथमासीत् समागमः॥५६॥
 
-[पर्वतं](http://॑ "3. म– रणे यं प्रेक्ष्य सीदन्ति हृतत्रीर्यपराक्रमाः । कृपेण तेन ते तात कथमासीत् समागमः ॥[अधिकः पाठः]") यो विभिन्द्यात् तु राजपुत्रो वरेपुभिः।  
+[पर्वतं]("3. म– रणे यं प्रेक्ष्य सीदन्ति हृतत्रीर्यपराक्रमाः । कृपेण तेन ते तात कथमासीत् समागमः ॥[अधिकः पाठः]") यो विभिन्द्यात् तु राजपुत्रो वरेपुभिः।  
 दुर्योधनेन ते तात कथमासीत् समागमः॥५७॥
 
 आचार्यो वृष्णिवीराणां पाञ्चायनां च यः प्रभुः।  
@@ -16122,10 +14994,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 तेन द्रोणेन ते तात कथमासीत् समागमः॥५९॥
 
-[रणे](http://॑ "4. म– इदमर्धं अत्रनास्ति ।") यं प्रेक्ष्य सीदन्ति हतवीर्यपराक्रमाः।  
-[कृपेण](http://॑ "अ – इदमर्थं न दृश्यते") तेन ते तप्त कथमासीत् समागमः॥६०॥
-
-
+[रणे]("4. म– इदमर्धं अत्रनास्ति ।") यं प्रेक्ष्य सीदन्ति हतवीर्यपराक्रमाः।  
+[कृपेण]("अ – इदमर्थं न दृश्यते") तेन ते तप्त कथमासीत् समागमः॥६०॥
 
 यस्य तद्विश्रुतं लोके ब्रह्मचर्यं सुदुष्करम्।  
 पितुः कृते कृतं घोरं महद्व्रतमनुत्तमम्॥६१॥
@@ -16150,13 +15020,11 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 न मया निर्जिता गावो न मया कुरवो जिताः।  
 कृतं च कर्म तत् सर्वं देवपुत्रेण केन चित्॥६७॥
 
-स हि भीतं द्रवन्तं मां [भीष्मद्रोणमुखान्](http://॑ "1. अ–क – घ– ङ – च–म– देवपुत्रोन्यवारयत्") कुरून्।  
-[दृष्ट्वा](http://॑ "2. इदमर्थं ख– कोश एव वर्तते") विपण्णं सङ्ग्रामे देवपुत्रो न्यवारयन्॥६८॥
+स हि भीतं द्रवन्तं मां [भीष्मद्रोणमुखान्]("1. अ–क – घ– ङ – च–म– देवपुत्रोन्यवारयत्") कुरून्।  
+[दृष्ट्वा]("2. इदमर्थं ख– कोश एव वर्तते") विपण्णं सङ्ग्रामे देवपुत्रो न्यवारयन्॥६८॥
 
 स ह्यतिष्ठद्रथोपस्थे वज्रहस्तनिभो युवा।  
 तेन ते निर्जिता गावः कुरवस्तेन निर्जिताः॥६९॥
-
-
 
 तस्य तत् कर्म वीरस्य न मया तात तत् कृतम्॥६९॥
 
@@ -16164,14 +15032,14 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सूतपुत्रं च भीष्मं च चकार विमुखाञ् शरैः॥७०॥
 
 दुर्योधनं च समरे प्रभिन्नमिव कुञ्जरम्।  
-[प्रभग्नमब्रवीद्भीतं](http://॑ "1. अ–ड–च– प्रच्छन्न।") राजपुत्रं महाबलम्॥७१॥
+[प्रभग्नमब्रवीद्भीतं]("1. अ–ड–च– प्रच्छन्न।") राजपुत्रं महाबलम्॥७१॥
 
 देवपुत्रः—
 
 न हास्तिनपुरे त्राणं तव पश्यामि किञ्चन।  
 व्यायामेन परीप्सव जीवितं कौरवात्मज॥७२॥
 
-[न](http://॑ "2. म – इदमर्धं नास्ति ।") हास्तिनपुरे शक्या भोक्तुं भोगाः पलायता।  
+[न]("2. म – इदमर्धं नास्ति ।") हास्तिनपुरे शक्या भोक्तुं भोगाः पलायता।  
 न मोक्ष्यसे पलायंस्त्वं राजन् युद्धमना भव॥७३॥
 
 पृथिवीं मोक्ष्यसे जित्वा हतो वा स्वर्गमाप्स्यसि॥७४॥
@@ -16189,8 +15057,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 एकेन तेन शूरेण षड्रथाः परिनिर्जिताः।  
 शार्दूलेनेव मत्तेन मृगास्तृणचरा यथा॥७८॥
-
-
 
 हयानां च गजानां च शूराणां च धनुष्मताम्।  
 निहतानि सहस्राणि भग्ना च कुरुवाहिनी॥७९॥
@@ -16221,9 +15087,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 इच्छामि तममित्रघ्नं द्रष्टुमर्चितुमेव च।  
 येन मे त्वं च गावश्च मोक्षिता देवसूनुना॥८७॥
 
-
-
-[तस्मै](http://॑ "1.अ–क–घ–च–म – कौरोषु–अयं श्लौका न दृश्यते ।") दास्यामि तां पुत्रीं ग्रामांश्चैव तु हाटकान्।  
+[तस्मै]("1.अ–क–घ–च–म – कौरोषु–अयं श्लौका न दृश्यते ।") दास्यामि तां पुत्रीं ग्रामांश्चैव तु हाटकान्।  
 स्फुरितं कटिसूत्रं च स्त्रीसहस्रशतानि च॥८८॥
 
 उत्तरः—
@@ -16233,24 +15097,22 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 वैशम्पायनः—
 
-एवमाख्यायमानं तु छन्नं [वस्त्रेण](http://॑ "2. अ–क– ख– च–म– सत्रेण")पाण्डवम्।  
+एवमाख्यायमानं तु छन्नं [वस्त्रेण]("2. अ–क– ख– च–म– सत्रेण")पाण्डवम्।  
 वसन्तं तत्र नाज्ञासीद्विराटः पार्थमर्जुनम्॥९०॥
 
 ततः पार्थोऽभ्यनुज्ञातो विराटेन महात्मना।  
 सह पुत्रेण मात्स्यस्य मन्त्रयित्वा धनञ्जयः॥९१॥
 
-[इत्येवं](http://॑ "3 अ– क– ख – घ– ङ– च – मन्दिरं प्रविशन्तं तमनुगम्य स मात्स्यजः । आमन्त्रयित्वा कान्तेयमुत्तरो वाक्यमब्रवीत् ॥ इति राज्ञः प्रवक्ष्यामि धर्मराजं युधिष्टिरम् । [अधिकः पाठः]") ब्रूहि राजानं विराटं च युधिष्ठिरम्॥९१॥
+[इत्येवं]("3 अ– क– ख – घ– ङ– च – मन्दिरं प्रविशन्तं तमनुगम्य स मात्स्यजः । आमन्त्रयित्वा कान्तेयमुत्तरो वाक्यमब्रवीत् ॥ इति राज्ञः प्रवक्ष्यामि धर्मराजं युधिष्टिरम् । [अधिकः पाठः]") ब्रूहि राजानं विराटं च युधिष्ठिरम्॥९१॥
 
 इत्युक्त्वा सहसा पार्थः प्रविश्यान्तःपुरं शुभम्।  
 ददौ रत्नानि वस्त्राणि विराटदुहितुस्स्वयम्॥९२॥
 
 उत्तरा तु महाणि वस्त्राण्याभरणानि च।  
-प्रगृह्य तानि सर्वाणि घ्रीता [सानुचराऽभवत्](http://॑ "*सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते ।")॥९३॥
+प्रगृह्य तानि सर्वाणि घ्रीता [सानुचराऽभवत्]("*सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते ।")॥९३॥
 
 प्रदाय वस्त्राणि किरीटमाली  
 विराटगेहे मुदिनस्सखीभ्यः।
-
-
 
 कृत्वा महत् कर्म तदाऽऽजिमध्ये  
 दिदृक्षया सोऽभिजगाम पार्थम्॥९४॥
@@ -16280,14 +15142,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 इति प्रतिच्छाद्य मुखं ततोऽहं  
 मन्युं नियच्छन्नुपविष्ट आसम्॥९८॥
 
-
-
-[क्रुद्धे](http://॑ "1. ख– च – शुभाई राष्ट्रं तु खिलीकृतं भवेद् । वयं तु यस्मिन् सुखिनो भवामः ।[अधिकः पाठः]") तु वीरे त्वयि चाप्रतीते  
+[क्रुद्धे]("1. ख– च – शुभाई राष्ट्रं तु खिलीकृतं भवेद् । वयं तु यस्मिन् सुखिनो भवामः ।[अधिकः पाठः]") तु वीरे त्वयि चाप्रतीते  
 राजा विराटो न लभेत शर्म।  
 अजानता तेन च शौर्यमत्र्यं  
-छन्नस्य [ते](http://॑ "2. क–ख–म–सत्रेण बलं च पार्थ ।") पार्थ बलं च वीर्यम्॥९९॥
+छन्नस्य [ते]("2. क–ख–म–सत्रेण बलं च पार्थ ।") पार्थ बलं च वीर्यम्॥९९॥
 
-इदं विराटेन [तदा](http://॑ "3. क – मयि प्रयुक्तं तदीक्ष । ख – मयि प्रवृत्तं । घ –ङ–म– मयि ।") प्रयुक्तं  
+इदं विराटेन [तदा]("3. क – मयि प्रयुक्तं तदीक्ष । ख – मयि प्रवृत्तं । घ –ङ–म– मयि ।") प्रयुक्तं  
 त्वां वीक्षमाणो न गतोऽस्मि हर्षम्॥९९॥
 
 वैशम्पायनः—
@@ -16307,10 +15167,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विराटमद्यैव निहत्य शीघ्रं  
 सपुत्रपौत्रं सकुलं ससैन्यम्।
 
-
-
 योक्ष्यामहे धर्मसुतं तु राज्ये  
-अद्यैव शीघ्रं [त्वरिरेष](http://॑ "1. क– ख – ङ– रिपुरेष ")मात्स्यः॥१०२॥
+अद्यैव शीघ्रं [त्वरिरेष]("1. क– ख – ङ– रिपुरेष ")मात्स्यः॥१०२॥
 
 अनेन पाञ्चालसुताऽथ कृष्णा  
 उपेक्षिता कीचकेनानुयाता।  
@@ -16324,19 +15182,17 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 अर्जुनः—
 
-भवतः क्षमया [चैव](http://॑ "2. क– ख–घ– म– राजन् ।") सर्वे दोपाश्च नोऽभवन्॥१०५॥
+भवतः क्षमया [चैव]("2. क– ख–घ– म– राजन् ।") सर्वे दोपाश्च नोऽभवन्॥१०५॥
 
 तस्मादेनं च हत्वा वै सबलं सहबान्धवम्।  
-पश्चाच्चैव कुरून् सर्वान् [हनिष्यामो](http://॑ "3. अ–ङ–च–म–हनिष्यामि") न संशयः॥१०६॥
+पश्चाच्चैव कुरून् सर्वान् [हनिष्यामो]("3. अ–ङ–च–म–हनिष्यामि") न संशयः॥१०६॥
 
 वैशम्पायनः—
 
-भीमसेनश्च ये चान्ये तथैवेति [तमब्रुवन्](http://॑ "4. अ–ङ–च– तथाऽब्रुवन् ।")॥१०६॥
+भीमसेनश्च ये चान्ये तथैवेति [तमब्रुवन्]("4. अ–ङ–च– तथाऽब्रुवन् ।")॥१०६॥
 
 तमब्रवीद्धर्मसुतो महात्मा  
 क्षमी वदान्यः कुपितं च भीमम्॥१०७॥
-
-
 
 **युधिष्ठिरः—**
 
@@ -16347,7 +15203,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 श्वःप्रभाते प्रवेक्ष्यामस् सभां सिंहासनेष्विह॥१०८॥
 
 राजवेषेण संयुक्तान् यदि तत्र न मंस्यते।  
-[पश्चाद्वध्यामहे](http://॑ "1. ख– विराटो यदि तसस्थान् राजालङ्कारशोभितान् । रजालक्षणसम्पन्नान् यदि तत्रन मंस्यते ॥[अधिकः पाठः]") सर्वान् विराटेन सबान्धवान्॥१०९॥
+[पश्चाद्वध्यामहे]("1. ख– विराटो यदि तसस्थान् राजालङ्कारशोभितान् । रजालक्षणसम्पन्नान् यदि तत्रन मंस्यते ॥[अधिकः पाठः]") सर्वान् विराटेन सबान्धवान्॥१०९॥
 
 वैशम्पायनः—
 
@@ -16363,8 +15219,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[अस्मिन्नध्याये १११॥ श्लोकाः\]  
 \[समाप्तं गोग्रहणपर्व \]**  
 ![](../books_images/U-IMG-1707203914Screenshot2023-11-08175537.png)
-
-
 
 ॥त्रिषष्टितमोऽध्यायः॥  
 
@@ -16387,19 +15241,17 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 निपेदुः पावकप्रख्यास् सर्वे धिष्ण्येष्विवाग्नयः॥३॥
 
 तेषु तत्रोपविष्टेषु विराटः पृथिवीपतिः।  
-[आजगाम](http://॑ "1. ख – तस्यां राज्यां व्यतीतायां प्रातः कृत्यं समाप्य च । गोसुवर्णादिकं दत्त्वा ब्राह्मणेभ्यो यथाविधि ॥ [अधिकः पाठः]") सभां राजा उत्तरेण सह प्रभो॥४॥
+[आजगाम]("1. ख – तस्यां राज्यां व्यतीतायां प्रातः कृत्यं समाप्य च । गोसुवर्णादिकं दत्त्वा ब्राह्मणेभ्यो यथाविधि ॥ [अधिकः पाठः]") सभां राजा उत्तरेण सह प्रभो॥४॥
 
 स तान् दृष्ट्वा महासत्वान् ज्वलतः पावकानिव।  
 राजवेषानुपादाय पार्थिवो विस्मितोऽभवत्॥५॥
 
-
-
 किमिदं को विधिस्त्वेप
-[इत्येवं](http://॑ "1. क– ख– घ – म – भयार्त इव पार्थिवः ।ङ–पार्थिवो ।") विस्मितोऽभवत्।  
+[इत्येवं]("1. क– ख– घ – म – भयार्त इव पार्थिवः ।ङ–पार्थिवो ।") विस्मितोऽभवत्।  
 पुरुषप्रवरान् दृष्ट्वा विपादमगमन्नृपः॥६॥
 
 अथ मात्स्योऽब्रवीत् कङ्कं देवराजमिव स्थितम्।  
-मरुद्गणैः [परिवृतं](http://॑ "2. क– ख – उपासीनं । घ– समासीनं । म – सहासीनं ।") त्रिदशानामिवेश्वरम्॥७॥
+मरुद्गणैः [परिवृतं]("2. क– ख – उपासीनं । घ– समासीनं । म – सहासीनं ।") त्रिदशानामिवेश्वरम्॥७॥
 
 विराटः—
 
@@ -16417,12 +15269,10 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ब्रह्मण्यश्श्रुतवांस्त्यागी सर्वलोकाभिपूजितः॥१०॥
 
 अयं कुरूणामृषभः कुन्तीपुत्रो युधिष्ठिरः।  
-यस्य कीर्तिस्स्थिता लोके सूर्यस्ये [वोद्यतः](http://॑ "3. अ–च–व प्रभा यथा । ङ –सूर्यस्येवोद्यता प्रभा ।") प्रभा॥११॥
+यस्य कीर्तिस्स्थिता लोके सूर्यस्ये [वोद्यतः]("3. अ–च–व प्रभा यथा । ङ –सूर्यस्येवोद्यता प्रभा ।") प्रभा॥११॥
 
 संसरन्ति दिशस्सर्वा यशसोऽस्य गभस्तयः।  
 उदितस्येव सूर्यस्य तेजसोऽनु गभस्तयः॥१२॥
-
-
 
 एनं त्रिंशत्सहस्राणि कुञ्जराणां तरस्विनाम्।  
 अन्वयुः पृष्ठतो राजन् यावदध्यावसत् कुरून्॥१३॥
@@ -16445,21 +15295,19 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 उपजीवन्ति राजानम् एनं सुचरितव्रतम्॥१८॥
 
 एष वृद्धाननाथांश्च व्यङ्गान् पङ्गूंश्च वामनान्।  
-पुत्रवत् पालयामास प्रजाधर्मेण [च](http://॑ "1. क – चाभि भोः । ख– घ– म– चाभिभूः ।") प्रजाः॥१९॥
+पुत्रवत् पालयामास प्रजाधर्मेण [च]("1. क – चाभि भोः । ख– घ– म– चाभिभूः ।") प्रजाः॥१९॥
 
 एष धर्मे दमे चैव दाने सत्ये रतस्सदा।  
 महाप्रसादो ब्रह्मण्यस् सत्यवादी च पार्थिवः॥२०॥
 
 श्रीप्रभावेण वै यस्य तप्यते वै सुयोधनः।
 
-
-
 सगणस्सह कर्णेन सौबलेन च वीर्यवान्॥२१॥
 
-[न](http://॑ "1. क – घ– ङ – म – न शक्यमे तस्य गुणान् ॥ ख – न शक्यते त्वस्य गुणान् ।") शक्यन्ते गुणास्तस्य प्रसङ्ख्यातुं नरेश्वर।  
+[न]("1. क – घ– ङ – म – न शक्यमे तस्य गुणान् ॥ ख – न शक्यते त्वस्य गुणान् ।") शक्यन्ते गुणास्तस्य प्रसङ्ख्यातुं नरेश्वर।  
 एष धर्मपरो नित्यम् अनृशंसी च पाण्डवः॥२२॥
 
-एवं युक्तो महाराजः पाण्डवः [परवीरहा](http://॑ "2. क– ख– घ– म– पुरुषर्षभः ।")।  
+एवं युक्तो महाराजः पाण्डवः [परवीरहा]("2. क– ख– घ– म– पुरुषर्षभः ।")।  
 कथं नार्हतिराजार्हम् आसनं पृथिवीपतिः॥२३॥
 
 इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
@@ -16482,10 +15330,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 यद्येप राजा कौरव्यः कुन्तीपुत्रो युधिष्ठिरः।  
 कतमोऽस्यार्जुनो भ्राता भीमश्चकतमो बली॥१॥
 
-
-
 नकुलस्सहदेवो वा द्रौपदी वा यशस्विनी।  
-यतोऽ [क्षैर्निर्जिता](http://॑ "1. म–ह्यक्षैर्जिता लोके । क– ख– ङ– ह्यक्षै जिता । घ– यदा ह्यक्षैर्जिता ह्येते न श्रूयन्ते वनं गताः ।") ह्येते नान्तरा श्रूयते कथा॥२॥
+यतोऽ [क्षैर्निर्जिता]("1. म–ह्यक्षैर्जिता लोके । क– ख– ङ– ह्यक्षै जिता । घ– यदा ह्यक्षैर्जिता ह्येते न श्रूयन्ते वनं गताः ।") ह्येते नान्तरा श्रूयते कथा॥२॥
 
 अर्जुनः—
 
@@ -16496,7 +15342,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 सौगन्धिकानि पुष्पाणि कृष्णार्थे समुपानयत्॥४॥
 
 गन्धर्व एषवै हन्ता कीचकानां दुरात्मनाम्।  
-व्याघ्रान् ऋक्षान् गजांश्चैव [हतवान्](http://॑ "2. ख–च–हतवांश्च । घ –हतवांस्त्रिपुरे । ङ–म–हतर्वास्त्रीपुरे ।") वै पुरे तव॥५॥
+व्याघ्रान् ऋक्षान् गजांश्चैव [हतवान्]("2. ख–च–हतवांश्च । घ –हतवांस्त्रिपुरे । ङ–म–हतर्वास्त्रीपुरे ।") वै पुरे तव॥५॥
 
 हिडिम्बं च बकं चैव किम्मीरं च जटासुरम्।  
 हत्वा निष्कण्टकं चक्रे अरण्यं सर्वतस्सुखम्॥६॥
@@ -16507,9 +15353,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 शृङ्गारवेषाभरणौ रूपवन्तौमनस्विनौ।  
 नानारथसहस्राणां समर्थौ भरतर्षभौ॥८॥
 
-[जितवन्तौ](http://॑ "3. म– इदमर्धं नास्ति ।") महेष्वासौ शक्रतुल्यपराक्रमौ॥८॥
-
-
+[जितवन्तौ]("3. म– इदमर्धं नास्ति ।") महेष्वासौ शक्रतुल्यपराक्रमौ॥८॥
 
 एषा पद्मपलाशाक्षी सुमध्या चारुहासिनी।  
 सैरन्ध्री द्रौपदी राजन् यत्कृते कीचका हताः॥९॥
@@ -16522,19 +15366,17 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अस्त्रज्ञो दुर्लभः कश्चित् केवलं पृथिवीमनु।  
 धनुर्भृतां तथा श्रेष्ठः कौन्तेयोऽयं धनञ्जयः॥११॥
 
-[एतेन](http://॑ "1. म – एकेन खाण्डवं येन अकामस्य । अ – एकेन । क – एतेन खाण्डवं दग्ध्वा अकामस्य । ख– एतेन खाण्डवं यस्य अकामस्य । घ–ङ – एतेन खाण्डवं दग्धं अकामस्य ।") खाण्डवं ह्येतद् अकामस्य शतक्रतोः।  
+[एतेन]("1. म – एकेन खाण्डवं येन अकामस्य । अ – एकेन । क – एतेन खाण्डवं दग्ध्वा अकामस्य । ख– एतेन खाण्डवं यस्य अकामस्य । घ–ङ – एतेन खाण्डवं दग्धं अकामस्य ।") खाण्डवं ह्येतद् अकामस्य शतक्रतोः।  
 दग्धं नागवनं चैव सह नागैर्नराधिप॥१२॥
 
 वर्षं च शरवर्षेण वारितं दुर्जयेन वै।  
-करमाहारितास्सर्वे पार्थिवाः पृथिवी[तले](http://॑ "2. क– ख– घ– ङ – पते । म–पतेः ।")॥१३॥
+करमाहारितास्सर्वे पार्थिवाः पृथिवी[तले]("2. क– ख– घ– ङ – पते । म–पतेः ।")॥१३॥
 
 स्त्रीवेषं कृतवानेष तव राजन् निवेशने।  
 बृहन्नलेति यामाहुर् अर्जुनं जयतां वरम्॥१४॥
 
 उपितास्म सुखं सर्वे तव राजन् निवेशने।  
-अज्ञातवासे [निभृता](http://॑ "3. ख – ङ– म – निहिता । घ–वासो निहितो ।") गर्भवास इव प्रजाः॥१५॥
-
-
+अज्ञातवासे [निभृता]("3. ख – ङ– म – निहिता । घ–वासो निहितो ।") गर्भवास इव प्रजाः॥१५॥
 
 वैशम्पायनः—
 
@@ -16552,11 +15394,9 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अनेन विजिता गावो निर्जिताः कुरवो युधि।  
 अस्य शङ्खप्रणादेन कर्णौ मे बधिरीकृतौ॥१९॥
 
-[जायते](http://॑ "1. च–म – नास्तीदमर्धम् ।") रोमहर्षो मे संस्मृत्यास्य [धनुर्ध्वनिम्](http://॑ "2. च–नानारथसहस्राणांसमर्थौरक्षणे उभौ ।[अधिकः पाठः]")॥२०॥
+[जायते]("1. च–म – नास्तीदमर्धम् ।") रोमहर्षो मे संस्मृत्यास्य [धनुर्ध्वनिम्]("2. च–नानारथसहस्राणांसमर्थौरक्षणे उभौ ।[अधिकः पाठः]")॥२०॥
 
-[अनेन](http://॑ "3. ख– ध्वजस्य वानरं भूतैर् आक्रोशन्तं सहानुगैः । नाददानं शरान् घोरान् न मुञ्चन्तं शरोत्करान् ॥  न कार्मुकं विकर्षन्तम् एनं पश्यामि संयुगे॥  एतद्धनुः प्रमुक्ताश्च शराः पुङ्खानुपुङ्क्षिनः । नालक्ष्येषु रणे पेतुर् नाराचा रक्तभोजनाः ॥  तीक्ष्णनारायसङ्कृत्तशिरोबाहूरुवक्षसाम् । कलेबराणि दृश्यन्ते योधानां साश्वसादिनाम् ॥  अनेन तटिनी तत्रशोणिताम्बुप्रवाहिनी । प्रवर्तिता भीमरूपा यां स्मृत्वाऽद्यापि मे मनः ॥  प्रकम्पते चण्डवायुकम्पिता कदली यथा ॥ [अधिकः पाठः]") राजन् वीरेण भीष्मद्रोणमुखा रथाः।
-
-
+[अनेन]("3. ख– ध्वजस्य वानरं भूतैर् आक्रोशन्तं सहानुगैः । नाददानं शरान् घोरान् न मुञ्चन्तं शरोत्करान् ॥  न कार्मुकं विकर्षन्तम् एनं पश्यामि संयुगे॥  एतद्धनुः प्रमुक्ताश्च शराः पुङ्खानुपुङ्क्षिनः । नालक्ष्येषु रणे पेतुर् नाराचा रक्तभोजनाः ॥  तीक्ष्णनारायसङ्कृत्तशिरोबाहूरुवक्षसाम् । कलेबराणि दृश्यन्ते योधानां साश्वसादिनाम् ॥  अनेन तटिनी तत्रशोणिताम्बुप्रवाहिनी । प्रवर्तिता भीमरूपा यां स्मृत्वाऽद्यापि मे मनः ॥  प्रकम्पते चण्डवायुकम्पिता कदली यथा ॥ [अधिकः पाठः]") राजन् वीरेण भीष्मद्रोणमुखा रथाः।
 
 दुर्योधनेन सहिता निर्जिता भीमकर्मणा॥२१॥
 
@@ -16579,7 +15419,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 दिष्टया च चरितं कृच्छ्रम् अज्ञातं तैर्दुरात्मभिः॥२५॥
 
 इदं राज्यं च नस्सर्वं यच्चापि वसु किञ्चन्।  
-अभक्तमेतद्भवतां नोत्कण्ठां [कर्तुमर्हथ](http://॑ "1. च– अविभक्तं भवद्भिर्मे न सन्देहो नराधिपाः । [अधिकः पाठः]")॥२६॥
+अभक्तमेतद्भवतां नोत्कण्ठां [कर्तुमर्हथ]("1. च– अविभक्तं भवद्भिर्मे न सन्देहो नराधिपाः । [अधिकः पाठः]")॥२६॥
 
 इति श्रीमहाभारते शतमहस्रिकायां संहितायां वैयासिक्यां  
 विराटपर्वणि चतुष्षष्टितमोऽध्यायः॥ ६४॥  
@@ -16587,8 +15427,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[अस्मिन्नध्याये २६॥ श्लोकाः\]
 
 ![](../books_images/U-IMG-1707276900Screenshot2023-11-08175537.png)
-
-
 
 **॥पञ्चषष्टितमोऽध्यायः॥**
 
@@ -16609,7 +15447,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तेजस्वी बलवाञ् शूरो राजराजेश्वरः प्रभुः॥२॥
 
 उत्तरां च वरारोहां पार्थस्यामित्रकर्शन।  
-प्रणिपत्य प्रयच्छामम् [तस्य](http://॑ "1. क – घ – म – ततश्शिष्टा । ख–च– ततस्तुष्टा ।") शिष्या भवामहे॥३॥
+प्रणिपत्य प्रयच्छामम् [तस्य]("1. क – घ – म – ततश्शिष्टा । ख–च– ततस्तुष्टा ।") शिष्या भवामहे॥३॥
 
 वयं च सर्वे सामात्याः कुन्तीपुत्रं युधिष्ठिरम्।  
 प्रसाद्य ह्युपतिष्ठामो राजन् किं करवामहे॥४॥
@@ -16620,9 +15458,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 कुरवो निर्जिता यस्मात् सङ्ग्रामेऽमिततेजसः।  
 एष तत् सर्वमकरोत् कुन्तीपुत्रो युधिष्ठिरः॥६॥
 
-
-
-[आर्याः](http://॑ "I. क- ख- म - अर्ध्याः पूज्याश्च मान्याश्च प्रत्युत्थेयाश्च ।") पूज्याश्च मान्याश्च प्रत्युद्गम्याश्च पाण्डवाः।  
+[आर्याः]("I. क- ख- म - अर्ध्याः पूज्याश्च मान्याश्च प्रत्युत्थेयाश्च ।") पूज्याश्च मान्याश्च प्रत्युद्गम्याश्च पाण्डवाः।  
 अर्च्याश्चैवाभिवाद्याश्च प्राप्तकालं च मे मतम्॥७॥
 
 पूज्यन्तां पूजनीयाश्च महाभागाश्च पाण्डवाः।  
@@ -16651,8 +15487,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 प्रसीदतु महाराजो धर्मपुत्रो युधिष्ठिरः।  
 प्रच्छन्नरूपवेषत्वान्नाग्निर्दृष्टस्तृणैर्वृतः॥१४॥
 
-
-
 शिरसाऽभिप्रपन्नोऽस्मि सपुत्रपरिचारकः॥१४॥
 
 यदस्माभिरजानद्भिर् अधिक्षिप्तो महीपतिः।  
@@ -16675,14 +15509,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 युधिष्ठिरः—
 
 न ते भयं पार्थिव विद्यते मयि  
-प्रतीतरूपोऽस्म्यनुचिन्त्य [पार्थिव](http://॑ "1. क– मात्मनः । ख– म – मानसम् । घ–मानः ।")।  
+प्रतीतरूपोऽस्म्यनुचिन्त्य [पार्थिव]("1. क– मात्मनः । ख– म – मानसम् । घ–मानः ।")।  
 एतत् त्वया सम्यगिहोपपादितं  
-द्विजैरमात्यै[स्सदृशैश्च](http://॑ "2. क– स्सुहृदैश्च । अ– स्सचिवैश्च पण्डितैः । घ–म–स्सुहृदा च ।") पण्डितैः॥१९॥
+द्विजैरमात्यै[स्सदृशैश्च]("2. क– स्सुहृदैश्च । अ– स्सचिवैश्च पण्डितैः । घ–म–स्सुहृदा च ।") पण्डितैः॥१९॥
 
 इमां च कन्यां समलङ्कृतां भृशं  
 समीक्ष्य तुष्टोऽस्मि नरेन्द्रसत्तम॥२०॥
-
-
 
 क्षान्तमेतन्महावाहोयन्मां वदसि पार्थिव।  
 न चैव किश्चित् पश्यामि विकृतं ते नराधिप॥२१॥
@@ -16711,11 +15543,9 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 विराटः—
 
-यच्चवक्ष्यामि [ते](http://॑ "1. क–ख – घ– ङ– म – तत् । ") सर्वं मा शङ्केथा युधिष्ठिर॥१॥
+यच्चवक्ष्यामि [ते]("1. क–ख – घ– ङ– म – तत् । ") सर्वं मा शङ्केथा युधिष्ठिर॥१॥
 
-इदं सनगरं राष्ट्रं [सवनं](http://॑ "2. क– ख – ङ– च–म –सधनं । घ – सजनं ।") सवधूजनम्।
-
-
+इदं सनगरं राष्ट्रं [सवनं]("2. क– ख – ङ– च–म –सधनं । घ – सजनं ।") सवधूजनम्।
 
 युष्मभ्यं सम्प्रदास्यामि भोक्ष्याम्युच्छिष्टमेव च॥१॥
 
@@ -16736,7 +15566,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 किन्तु दुर्योधनादीनां राज्ञां राज्यं गृहामहे॥५॥
 
 प्रतिगृह्णाम्यहंराजन् स्नुपां दुहितरं तव।  
-[युक्तो](http://॑ "1. म – युक्तोऽयं वां हि । क – युक्तरूपो हि (घ) युक्तो युवां हि ।") ह्यावां च सम्बन्धो मात्स्यभारतवंशयोः॥६॥
+[युक्तो]("1. म – युक्तोऽयं वां हि । क – युक्तरूपो हि (घ) युक्तो युवां हि ।") ह्यावां च सम्बन्धो मात्स्यभारतवंशयोः॥६॥
 
 विराटः—
 
@@ -16749,8 +15579,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 रहस्यं च प्रकाशं च विश्वस्ता पितृवन्मयि॥८॥
 
 प्रियो बहुमतश्चासं नर्तने गीतवादिते।
-
-
 
 आचार्यवच्च मां नित्यं मन्यते दुहिता तव॥९॥
 
@@ -16767,7 +15595,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 अभिषङ्गादहं भीतो मिथ्याचारात् परन्तप।  
 स्नुषार्थमुत्तरां राजन् प्रतिगृह्णामि ते सुताम्॥१३॥
 
-[स्वस्त्रीयो](http://॑ "1. च – इतः सार्धश्लोकोनास्ति ।") वासुदेवस्य साक्ष [द्देवसुतोपमः](http://॑ "2. क– घ – म – द्देवशिशुर्यथा । ख – द्देवसुतो यथा ।")।  
+[स्वस्त्रीयो]("1. च – इतः सार्धश्लोकोनास्ति ।") वासुदेवस्य साक्ष [द्देवसुतोपमः]("2. क– घ – म – द्देवशिशुर्यथा । ख – द्देवसुतो यथा ।")।  
 दयितश्चक्रहस्तस्य बलवानस्त्रकोविदः॥१४॥
 
 अभिमन्युर्महावाहुः पुत्रो मम विशाम्पते।  
@@ -16776,9 +15604,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विराटः—
 
 उपपन्नं कुरुश्रेष्ठ कुन्तीपुत्रे धनञ्जये।  
-[यदेवं](http://॑ "3. अ – तदेवं धर्मनित्यञ्च ज्ञातज्ञानञ्च पाण्डवे । ख – सदैव । ङ–च– यदैवं धर्मनित्यश्च शास्त्रज्ञानं च पाण्डव । घ– तदेव धर्मयुक्तस्य ज्ञानज्ञानस्य पाण्डव ।") धर्मनित्यश्च ज्ञातज्ञेयश्च पाण्डवः॥१६॥
-
-
+[यदेवं]("3. अ – तदेवं धर्मनित्यञ्च ज्ञातज्ञानञ्च पाण्डवे । ख – सदैव । ङ–च– यदैवं धर्मनित्यश्च शास्त्रज्ञानं च पाण्डव । घ– तदेव धर्मयुक्तस्य ज्ञानज्ञानस्य पाण्डव ।") धर्मनित्यश्च ज्ञातज्ञेयश्च पाण्डवः॥१६॥
 
 यत् कृत्यं मन्यसे पार्थ क्रियतां तदनन्तरम्।  
 सर्वे कामास्समृद्धा मे सम्बन्धी यस्य मेऽर्जुनः॥१७॥
@@ -16794,7 +15620,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 प्रतिगृह्य स्नुषार्थं वै दर्शयन् वृत्तमात्मनः।  
 शीलशौचसमाचारं लोकस्यावेद्य फल्गुनः॥२०॥
 
-लोके [विख्याप्य](http://॑ "1. ख–ङ– म – विख्याप्य माहात्म्यं यशश्चास्य परन्तपः ।") माहात्म्यं यशसश्च परन्तप।  
+लोके [विख्याप्य]("1. ख–ङ– म – विख्याप्य माहात्म्यं यशश्चास्य परन्तपः ।") माहात्म्यं यशसश्च परन्तप।  
 कृतार्थश्शुचिरव्यग्रस् तुष्टिमानभवत् तदा॥२१॥
 
 युधिष्ठिरः—
@@ -16810,8 +15636,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तथा ब्रुवन्तं प्रसमीक्ष्य राजा  
 परं प्रहृष्टस्स्वजनेन तेन।
 
-
-
 स्नेहात् परिष्वज्य नृपो भुजाभ्यां  
 ददौ तमर्थं कुरुपाण्डवानाम्॥२४॥
 
@@ -16820,7 +15644,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 आचार्यपुत्रश्शकुनिश्च राजा  
 दुर्योधनस्सूतपुत्रश्च कर्णः॥२५॥
 
-[समेत्य](http://॑ "1. क – समेत्य राजन्सहिताः सुहृद्भिः । ख – संमन्ध्य राजन् सहिताः समर्थाः । घ–म – समेत्य राजन् सहिता समर्थाः ।") राजा सहितास्समर्थं  
+[समेत्य]("1. क – समेत्य राजन्सहिताः सुहृद्भिः । ख – संमन्ध्य राजन् सहिताः समर्थाः । घ–म – समेत्य राजन् सहिता समर्थाः ।") राजा सहितास्समर्थं  
 समादिशन् दूतमथो समग्राः॥२६॥
 
 युधिष्ठिरापि सुसम्प्रहृष्टो  
@@ -16835,14 +15659,12 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 त्रयोदशे ह्येष किरीटमाली  
 संवत्सरे पाण्डवेयोऽद्य दृष्टः॥२८॥
 
-
-
 **वैशम्पायनः—**
 
 ततोऽब्रवीद्धर्मसुतः प्रहस्य  
 क्षिप्रं गत्वा ब्रूहि सुयोधनं तम्।  
 पितामहश्शान्तनवो ब्रवीतु  
-यद्यत्र पूर्णो [न](http://॑ "1. क– म – ऽद्य । ख– न तु तत्रयत्स्यात् । घ– यद्यत्पूर्णो नु।") त्रयोदशो नः॥२९॥
+यद्यत्र पूर्णो [न]("1. क– म – ऽद्य । ख– न तु तत्रयत्स्यात् । घ– यद्यत्पूर्णो नु।") त्रयोदशो नः॥२९॥
 
 संवत्सरान्ते तु धनञ्जयेन  
 विष्फारितं गाण्डिवमाजिमध्ये।  
@@ -16865,9 +15687,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तीर्णप्रतिज्ञेन धनञ्जयेन  
 विष्फारितं गाण्डिवमाजिमध्ये॥३२॥
 
-
-
-**[वैशम्पायनः](http://॑ "1. ख – नेच्छन्त्यसत्येन सुरेन्द्रलोकं पाण्डोस्सुता ब्रह्मणश्चापि लोकम् । तथ्यं च ते पथ्यमहं ब्रवीमि स्वयं यशस्यं परलोकपथ्यम् ॥  कुन्तीसुतैस्त्वं समुपैहि सन्धिं भुङ्क्ष्व स्वराज्यं सह पाण्डवेयैः । युध्यस्त्र नो चेत् स्थिरबुद्धिराजौ कुन्तीसुतैर्यद्यपि राज्यमिच्छेः ॥  आन्तं न शक्यं कपटेन भोक्तुं राज्यं परेषां महतां बलीनाम् । जित्वा शत्रून् भुङ्क्ष्व राज्यं समग्रं हतो भवान् भोक्ष्यति वज्रिलोकम् ॥  वैशम्पायनः—  ततस्स भागीरथिसूनुवाक्यं निशम्य गान्धारितनूद्भवो नृपः । उवाच भीष्मं प्रमुखे च पित्नोर्")—**
+**[वैशम्पायनः]("1. ख – नेच्छन्त्यसत्येन सुरेन्द्रलोकं पाण्डोस्सुता ब्रह्मणश्चापि लोकम् । तथ्यं च ते पथ्यमहं ब्रवीमि स्वयं यशस्यं परलोकपथ्यम् ॥  कुन्तीसुतैस्त्वं समुपैहि सन्धिं भुङ्क्ष्व स्वराज्यं सह पाण्डवेयैः । युध्यस्त्र नो चेत् स्थिरबुद्धिराजौ कुन्तीसुतैर्यद्यपि राज्यमिच्छेः ॥  आन्तं न शक्यं कपटेन भोक्तुं राज्यं परेषां महतां बलीनाम् । जित्वा शत्रून् भुङ्क्ष्व राज्यं समग्रं हतो भवान् भोक्ष्यति वज्रिलोकम् ॥  वैशम्पायनः—  ततस्स भागीरथिसूनुवाक्यं निशम्य गान्धारितनूद्भवो नृपः । उवाच भीष्मं प्रमुखे च पित्नोर्")—**
 
 ते धार्तराष्ट्रास्समयं निशम्य  
 तीर्णप्रतिज्ञस्य धनञ्जयस्य।  
@@ -16878,8 +15698,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 विराटपर्वणि षट्षष्टितमोऽध्यायः॥६६॥  
 ॥४८॥ वैराटीवैवाहिकपर्वणि चतुर्थोऽध्यायः॥४॥  
 \[ अस्मिन्नध्याये ३३॥ श्लोकाः \]
-
-
 
 **॥सप्तषष्टितमोऽध्यायः॥**
 
@@ -16894,7 +15712,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ततस्त्रयोदशे वर्षे निवृत्ते पञ्च पाण्डवाः।  
 उपप्लाव्ये विराटस्य वासं चक्रुः पुरोत्तमे॥१॥
 
-[विराटेन](http://॑ "1. अ–क – घ –च– म – नास्तीदमर्धम् ।") सपुत्रेण पूज्यमानास्समावसन्॥१॥
+[विराटेन]("1. अ–क – घ –च– म – नास्तीदमर्धम् ।") सपुत्रेण पूज्यमानास्समावसन्॥१॥
 
 ततो मित्रेषु सर्वेषु ज्ञातिसम्वन्धिकेष्वपि।  
 प्रेषयामास कौन्तेयो विराटश्च महीपतिः॥२॥
@@ -16902,7 +15720,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तेषु तत्रोपविष्टेषु प्रेषितेषु ततस्ततः।  
 तत्रागमन्महाबाहुर् वनमाली हलायुधः॥३॥
 
-[तस्मिन्](http://॑ "अ– क– घ–च–म – सार्धश्लोकद्वयमिदं न दृश्यते ।") काले निशम्याथ दूतवाक्यं जनार्दनः।  
+[तस्मिन्]("अ– क– घ–च–म – सार्धश्लोकद्वयमिदं न दृश्यते ।") काले निशम्याथ दूतवाक्यं जनार्दनः।  
 दयितं स्वस्त्रियं पुत्रं सुभद्रायास्सुमानितम्॥४॥
 
 ![](../books_images/U-IMG-1707199944Screenshot2024-02-03115343.png)
@@ -16913,8 +15731,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 निहत्य पाण्डूदरसम्भवान् वा  
 हतोऽस्मि तैर्वा सुरलोकमेमि।
-
-
 
 अभिमन्युं समादाय रामेण सहितस्तदा।  
 सर्वयादवमुख्यैश्च संवृतः परवीरहा॥५॥
@@ -16927,20 +15743,18 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 प्रद्युम्नश्च महाबाहुर् उल्मुकश्च महाबलः।  
 अभिमन्युमुपादाय सह मात्रा परन्तपाः॥८॥
 
-[कृष्णेन](http://॑ "1. अ–क–घ–व–म – उपेयुस्सहितास्सर्वे परिसंवत्सरोषिताः ।[अधिकः पाठः] अ–क–घ–च–म – अयं सार्धश्लोको नास्ति ।") सहितास्सर्वे पाण्डवान् द्रष्टुमागताः॥८॥
+[कृष्णेन]("1. अ–क–घ–व–म – उपेयुस्सहितास्सर्वे परिसंवत्सरोषिताः ।[अधिकः पाठः] अ–क–घ–च–म – अयं सार्धश्लोको नास्ति ।") सहितास्सर्वे पाण्डवान् द्रष्टुमागताः॥८॥
 
 इन्द्रसेनादयश्चैव रथैस्तैस्सुसमाहितैः।  
 उपेयुस्सादिनस्सर्वे परिसंवत्सरोपिताः॥९॥
 
-[शतनागसहस्राणि](http://॑ "2. क–ख – ङ– च– दशनागसहस्राणि हयानां च ।") रथानां च शतायुतम्।  
-[हयानामर्बुदं](http://॑ "3. क– ख– घ–ङ– च– रथाना ।") पूर्णं निखर्वं च पदातयः॥१०॥
+[शतनागसहस्राणि]("2. क–ख – ङ– च– दशनागसहस्राणि हयानां च ।") रथानां च शतायुतम्।  
+[हयानामर्बुदं]("3. क– ख– घ–ङ– च– रथाना ।") पूर्णं निखर्वं च पदातयः॥१०॥
 
 वृष्ण्यन्धकाश्चशतशो भोजाश्च परमौजसः।  
 अन्वयुर्वृष्णिशार्दूलं वासुदेवं महाद्युतिम्॥११॥
 
-[वासुदेवं](http://॑ "4. अ–क – घ – च–म– सार्धैकादशश्लोका न दृश्यन्ते ।") तदाऽऽयान्तं श्रुत्वा पाण्डुसुतास्तदा।
-
-
+[वासुदेवं]("4. अ–क – घ – च–म– सार्धैकादशश्लोका न दृश्यन्ते ।") तदाऽऽयान्तं श्रुत्वा पाण्डुसुतास्तदा।
 
 मात्स्येन सहितास्सर्वे प्रत्युद्याता जनार्दनम्॥१२॥
 
@@ -16980,8 +15794,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 अभिमन्युना च पार्थेन रौक्मिणेयेन ते शपे।
 
-
-
 सत्यमेतद्वचो मह्यम् अवेहि त्वमनिन्दिते॥२२॥
 
 वैशम्पायनः—
@@ -16989,10 +15801,10 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 इत्युक्त्वा तां विसृज्याथ प्रीयमाणो युधिष्ठिरम्।  
 अन्वास्त सह शार्दूलस् सह वृष्ण्यन्धकैस्तदा॥२३॥
 
-[काशिराजश्च](http://॑ "1. क– घ– च– म – इन्द्रसेनमुखाश्चैव रपैस्तैस्सुसमाहितैः । प्रययुस्सादिनस्सर्वेपरिसंवत्सरोपिताः॥ [अधिकः पाठः]") शैब्यश्च भजमानौ युधिष्ठिरम्।  
+[काशिराजश्च]("1. क– घ– च– म – इन्द्रसेनमुखाश्चैव रपैस्तैस्सुसमाहितैः । प्रययुस्सादिनस्सर्वेपरिसंवत्सरोपिताः॥ [अधिकः पाठः]") शैब्यश्च भजमानौ युधिष्ठिरम्।  
 अक्षौहिणीभ्यां सहितावागतौ पृथिवीपते॥२४॥
 
-[अक्षौहिणीभिः](http://॑ "*अ – क– घ–च–म – अर्धद्वयमिदं नास्ति । 3. अ– क– घ– च– म – सह पुत्रैर्महावीर्येर्धृष्टद्युम्नशिखण्डिभिः ।") पाञ्चालस् तिसृभिश्च [महाबलः](http://॑ "2. ङ– द्रुपदस्य सुता वीरौ शिखण्डी च महारथः । [अधिकः पाठः]")।  
+[अक्षौहिणीभिः]("*अ – क– घ–च–म – अर्धद्वयमिदं नास्ति । 3. अ– क– घ– च– म – सह पुत्रैर्महावीर्येर्धृष्टद्युम्नशिखण्डिभिः ।") पाञ्चालस् तिसृभिश्च [महाबलः]("2. ङ– द्रुपदस्य सुता वीरौ शिखण्डी च महारथः । [अधिकः पाठः]")।  
 द्रौपद्याश्च सुता वीराश्शिखण्डी चापराजिनः॥२५॥
 
 वृष्टद्युम्नश्च दुर्धर्षस् सर्वशास्त्रभृतां वरः।  
@@ -17004,9 +15816,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 समुद्रमिव घर्मान्ते स्रोतश्श्रेष्ठाः पृथक् पृथक्।  
 आमूरयन् महीपालास् सर्वे पाण्डुसुतं तदा॥२८॥
 
-[वेदावभृथसम्पन्नास्](http://॑ "4. अ–क – घ– च –म – सार्धश्लोको न दृश्यते")शूरास्सर्वेतनुत्यजः॥२८॥
-
-
+[वेदावभृथसम्पन्नास्]("4. अ–क – घ– च –म – सार्धश्लोको न दृश्यते")शूरास्सर्वेतनुत्यजः॥२८॥
 
 तानागतानभिप्रेक्ष्य पार्थो ज्ञानभृतां वरः।  
 पूजयामास विधिवद् यथार्हेंराजसत्तमान्॥२९॥
@@ -17014,7 +15824,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 पारिवर्हं ददौ कृष्णः पाण्डवानां महात्मनाम्।  
 स्त्रियो रत्नानि वासांसि पृथक्पृथगनेकशः॥३०॥
 
-[राजानो](http://॑ "1. अ– क – घ – च–म – सार्धश्लोको नोपलभ्यते ।") राजपुत्राश्च निवृत्ते समये तथा।  
+[राजानो]("1. अ– क – घ – च–म – सार्धश्लोको नोपलभ्यते ।") राजपुत्राश्च निवृत्ते समये तथा।  
 यथार्हं पाण्डवश्रेष्टे ह्यवर्तन्ताभिवृजिनाः॥३१॥
 
 आसन् प्रहृष्टमनसः पारिवर्हं ददुस्तदा॥३२॥
@@ -17025,8 +15835,8 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 ततश्शङ्खा मृदङ्गाश्च गोमुखा डिण्डिमास्तदा।  
 पार्थैस्संयुज्यमानस्य नेदुर्मात्स्यस्य वेश्मनि॥३४॥
 
-उच्चावचा[स्तदा](http://॑ "2. क– ख– घ– ङ – म –न्मृगान् जघ्नुर्मेध्यांश्च शतशः पशून् ।") जघ्नुर् वाद्यसङ्घान् महस्रशः।  
-भक्ष्यभोज्यान्नपानानि [भूतानभ्यवहारयत्](http://॑ "3. म–भूतान्यभ्यवहारयत् । क–ख – घ –ङ– च – प्रभूतानभ्यहारयत्")॥३५॥
+उच्चावचा[स्तदा]("2. क– ख– घ– ङ – म –न्मृगान् जघ्नुर्मेध्यांश्च शतशः पशून् ।") जघ्नुर् वाद्यसङ्घान् महस्रशः।  
+भक्ष्यभोज्यान्नपानानि [भूतानभ्यवहारयत्]("3. म–भूतान्यभ्यवहारयत् । क–ख – घ –ङ– च – प्रभूतानभ्यहारयत्")॥३५॥
 
 गायनाख्यानशीलाश्च नटा वैतालिकास्तथा।  
 स्तुवन्तस्तानुपातिष्ठन् मूताश्च सह मागधैः॥३६॥
@@ -17036,8 +15846,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 सुदेष्णां तु पुरस्कृत्य मत्स्यानां केवलास्त्रियः।
 
-
-
 आजग्मुश्चारुपीनाङ्गन्यस् सुमृष्टमणिकुण्डलाः॥३८॥
 
 वर्णोपपन्नास्ता नार्यो रूपवत्यस्स्वलङ्कृताः।  
@@ -17046,7 +15854,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 परिवार्योत्तरां श्लाघ्यां राजपुत्रीमलङ्कृताम्।  
 सुतामिव महेन्द्रस्य पुरस्कृत्योपतस्थिरे॥४०॥
 
-[भृङ्गारुं](http://॑ "1. ख – ङ– कोशयोरेवेदमर्धत्रयं दृश्यते") तु समादाय सौवर्णं जलपूरितम्।  
+[भृङ्गारुं]("1. ख – ङ– कोशयोरेवेदमर्धत्रयं दृश्यते") तु समादाय सौवर्णं जलपूरितम्।  
 पार्थस्य हस्ते सहसा सुतामिन्दीवरेक्षणाम्॥४१॥
 
 स्नुपार्थं प्राक्षिपद्वारि विराटी वाहिनीपतिः॥४१॥
@@ -17068,22 +15876,20 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 
 मुदा गृह्यात्तरां पार्थ आनाय्यच जनार्दनम्।
 
-
-
 विवाहं कारयामास सौभद्रस्य महात्मनः॥४७॥
 
 ततो विवाहो ववृधे स्थितस्सर्वगुणान्वितः।  
 सौभद्रस्याद्भुतश्चैव पितुस्तव पितुस्तदा॥४८॥
 
-[धौम्यशिशष्यैः](http://॑ "1. ख–ङ– कोशयोरेवायं श्लोको वर्तते") परिवृतो जुहावाग्नौ विधानतः।  
+[धौम्यशिशष्यैः]("1. ख–ङ– कोशयोरेवायं श्लोको वर्तते") परिवृतो जुहावाग्नौ विधानतः।  
 अग्निं प्रदक्षिणीकुर्वन् सौभद्रः पाणिग्रहीत्॥४९॥
 
 ततस्सभार्यस्संहृष्टो मात्स्यराजो धनं महत्।  
-तस्मै [शतसहस्राणि](http://॑ "2. ख – सप्त") हयानां वातरंहसाम्॥५०॥
+तस्मै [शतसहस्राणि]("2. ख – सप्त") हयानां वातरंहसाम्॥५०॥
 
-[द्वे](http://॑ "3. म – द्वे च नागशते मुरव्ये वि ख – ङ– च– द्वे च नागशते मुख्ये धनं बहुविधं तदा ।")गजानां शते मुख्ये विराटः प्रददौ मुदा॥५१॥
+[द्वे]("3. म – द्वे च नागशते मुरव्ये वि ख – ङ– च– द्वे च नागशते मुख्ये धनं बहुविधं तदा ।")गजानां शते मुख्ये विराटः प्रददौ मुदा॥५१॥
 
-[प्रादान्मात्स्यपतिर्हृष्टः](http://॑ "4. अ–क–घ–च–म – इदमर्धं नास्ति ।") कन्याधनमनुत्तमम्॥५१॥
+[प्रादान्मात्स्यपतिर्हृष्टः]("4. अ–क–घ–च–म – इदमर्धं नास्ति ।") कन्याधनमनुत्तमम्॥५१॥
 
 पारिवर्हं च पार्थस्य प्रददौ मात्स्यपुङ्गवः।  
 कृष्णेन सह कौन्तेयः प्रत्यगृह्णान् परन्तप॥५२॥
@@ -17094,16 +15900,14 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 गोसहस्राणि रत्नानि वस्त्राणि विविधानि च।  
 भूषणानि च सर्वाणि यानानि शयनानि च॥५४॥
 
-[पट्टवासांसि](http://॑ "5. अ– क– घ– च–म – श्लोकोऽयं नास्ति ।") चित्राणि दासीदासान् बहून् ददौ।  
+[पट्टवासांसि]("5. अ– क– घ– च–म – श्लोकोऽयं नास्ति ।") चित्राणि दासीदासान् बहून् ददौ।  
 नागरान् प्रीतिभिर्दिव्यैस् तर्पयामास भूपतिः॥५५॥
 
 तन्महोत्सवसङ्काशं हृष्टपुष्टजनाकुलम्।
 
-
-
 नगरं मत्स्यराजस्य शुशुभे भरतर्षभ॥५६॥
 
-[पुरोहितैरमात्यैश्च](http://॑ "1. अ–क –घ– च – म –सार्ध श्लोकोऽयं न दृश्यते ।") पौरैर्जानपदैस्सह।  
+[पुरोहितैरमात्यैश्च]("1. अ–क –घ– च – म –सार्ध श्लोकोऽयं न दृश्यते ।") पौरैर्जानपदैस्सह।  
 विराटो नृपतिश्श्रीमान् सौभद्रायाभिमन्यवे॥५७॥
 
 तां सुतामुत्तरां दत्वा मुमुदे परमां तदा॥५८॥
@@ -17113,8 +15917,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 वृत्ते विवाहे हृष्टात्मा यदुवाच युधिष्ठिरः।  
 तत् सर्वं कथयस्वेह कृतवन्तो यदुत्तरम्॥५९॥
 
-
-
 **इति श्रीमहाभारते शतसहस्रिकायां संहितायांवैयासिक्यां  
 विराटपर्वणि सप्तषष्टितमोऽध्यायः॥६७॥**  
 
@@ -17123,7 +15925,7 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 \[ अस्मिन्नध्याये ५९ श्लोकाः\]  
 
 **॥वैराटीवैवाहिकपर्व समाप्तम्॥॥समाप्तं च विरापटर्व॥४॥**  
-॥अस्मिन् विराटपर्वणि [श्लोकाः ३५००](http://॑ " * यद्यप्यध्यायक्रमेण श्लोकगणनार्या ३२८३ लोका एव भवन्ति ; तथाऽपि तत्रतत्राधः प्रदर्शितानां समीचीनानाम् २१७ अधिकपाठश्लोकानां सम्मेलनेन ३५०० श्लोका भवन्तीति ज्ञेयम् ।") ॥
+॥अस्मिन् विराटपर्वणि [श्लोकाः ३५००](" * यद्यप्यध्यायक्रमेण श्लोकगणनार्या ३२८३ लोका एव भवन्ति ; तथाऽपि तत्रतत्राधः प्रदर्शितानां समीचीनानाम् २१७ अधिकपाठश्लोकानां सम्मेलनेन ३५०० श्लोका भवन्तीति ज्ञेयम् ।") ॥
 
 ![](../books_images/U-IMG-1707195388Screenshot2023-11-08175537.png)
 
@@ -17133,8 +15935,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 तदाऽभिमन्योर्मुदितास्सपक्षाः।  
 विश्रम्य रात्रावुपसि प्रतीताम्  
 सभां विराटस्य ततोऽभिजग्मुः॥१॥
-
-
 
 ॥श्रीः॥  
 महाभारतविराटपर्वस्थानामशुद्धानां शोधनम्
@@ -17161,8 +15961,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |    प्रणष्टास्ते     |      प्रनष्टास्ते       |
 |    प्रणष्टास्ते     |      प्रनष्टास्ते       |
 
-
-
 |                |                  |
 |:--------------:|:----------------:|
 |  **अशुद्धम्**  |    **शोधनम्**    |
@@ -17188,8 +15986,6 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |     पयन्त      |     पर्यन्त      |
 |    द्रोणिं     |     द्रौणिं      |
 
-
-
 |                   |                   |
 |:-----------------:|:-----------------:|
 |   **अशुद्धम्**    |    **शोधनम्**     |
@@ -17204,931 +16000,5 @@ It is, therefore, quite possible that the Southern Recension with its comparativ
 |        रजा        |        राज        |
 |       सहिता       |      सहिताः       |
 
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^808]: "म—इदमर्धं नास्ति।"
-
-
-[^755]: "अ–च—इदमर्धं नास्ति।"
-
-
-[^750]: "म—इदमर्धं नास्ति।"
-
-
-[^719]: "अ—इदमर्धं नास्ति।"
-
-
-[^716]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते।"
-
-
-[^703]: "म—इदमर्धं नास्ति।"
-
-
-[^644]: "अ—इदमर्धं नास्ति।"
-
-
-[^628]: "अ–च—इदमर्धं नास्ति।"
-
-
-[^619]: "म—इदमर्धं नास्ति।"
-
-
-[^615]: "अ—इदमर्धं नास्ति।"
-
-
-[^603]: "म—इदमर्धं नास्ति।"
-
-
-[^596]: "म—इदमर्धं नास्ति।"
-
-
-[^587]: "म—इदमर्धं नास्ति।"
-
-
-[^574]: "अ—इदमर्धं नास्ति।"
-
-
-[^573]: "म—इदमर्धं नास्ति।"
-
-
-[^546]: "ङ—श्लोकद्वयं नास्ति।"
-
-
-[^529]: "म—इदमर्धं नास्ति।"
-
-
-[^513]: "अ—इदमर्धं नास्ति।"
-
-
-[^500]: "म—इदमर्धं नास्ति।"
-
-
-[^481]: "म—इदमर्धं नास्ति।"
-
-
-[^469]: "म—इदमर्धं नास्ति।"
-
-
-[^461]: "म—इदमर्धं नास्ति।"
-
-
-[^424]: "म—इदमर्धं नास्ति।"
-
-
-[^419]: "अ—इदमर्धं नास्ति।"
-
-
-[^413]: "अ—इदमर्धं नास्ति।"
-
-
-[^407]: "म—इदमर्धं नास्ति।"
-
-
-[^404]: "अ–च—इदमर्धं नास्ति।"
-
-
-[^369]: "अ–च—इदमर्धं नास्ति।"
-
-
-[^342]: " अ–ख–घ–ङ–च–म—अयं श्लोको न दृश्यते।"
-
-
-[^317]: "म—इदमर्धं नास्ति।"
-
-
-[^311]: "म—इदमर्धं नास्ति।"
-
-
-[^231]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते।"

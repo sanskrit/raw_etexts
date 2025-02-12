@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMwMTcwOTg2NjA
 
 \[
 
-
-
 **REMINISCENCES**
 
  We feel much pleasure in placing before our Dharma Shastra reading public this ery indispensable work named "Smriti sandarbha prepared with a view to bunging all the available Smrities within the orbit of one single collection for proper references Concerning all the topics of human conduct and behaviour in day to day life of the people in the world.
@@ -23,17 +21,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMwMTcwOTg2NjA
 
  It is an admitted fact that Shabda Brahman is the root cause of the creation विवर्ततेऽर्थभावेन प्रक्रिया जगतो यत (भर्तृहरिकृतवाक्यपदीय
 
-
-
 ब्रह्मकाण्ड १ कारिका). And the Vedas are Apaurusheya not human creation but of Divine revelntion as they come direct from the breaths of Brahman "तस्य महतो निःश्वसितमेतत्". The same divine revelation— the knowledge was bestowed upon the Rishies who after deep meditation preached before the humaṅ beings for their welfare. They are, therefore, called the Rishies (spiritual researchers or Sekeers after truth), who were the first receipients of the divine knowledge as revealed to them. " ऋषिदर्शनात्" The word "Shruti" verifies the above contention in the fullest sense of the word. Next to "Shruti" comes the "Smrities" whith form the interpretation of the sacred vedic laws as observed by the Rishies and as such they constitute the law of nature for governing the universe. In a word, "Shruti" means that knowledge which the sages obtained direct from Divine and "Smrities" are their interpretations composed mainly after deep meditation.
-
-
 
  Though men of authority assign the word Hindu law to the Smrities it is in itself a word carrying incomplete significance. This term is of recent origin restricted to denote the body of law which is administered by the law courts since the British period in India. Even this does not cover the whole field of human conduct and jurisprudence.
 
  The Smrities propound such codes of conduct in theory of Divine origin as are useful and serviceable at all times for all irrespective of caste, creed and colour. Hence the principles laid down are unchangeable by human authority as they are fundmental truths of the universal law. If we ask an Indian where his law is to be found, he will reply that in the Shastras. So the Shastras, broadly speaking, are the books of superhuman knowledge divinely inspired and preached by the sages whocould see the present, past and future the through their
-
-
 
 spiritual eyes and they enable every human being to dorive as much benifit from them as he can by his constant practice.
 
@@ -41,8 +33,6 @@ spiritual eyes and they enable every human being to dorive as much benifit from 
 
 मन्यविविष्णुशरीतयाज्ञवल्क्योशनोऽङ्गिराः।  
 यमापस्तम्बसम्बर्त्ताः कात्यायनबृहस्पती॥
-
-
 
 पराशरव्यास शङ्खलिखिताः वृक्षगौतमौ।  
 शाततपो वशिष्ठश्चधर्मशास्त्रप्रयोजकाः॥
@@ -53,11 +43,7 @@ spiritual eyes and they enable every human being to dorive as much benifit from 
 
  The Smritis as they are, should be read with a view to getting the real significance underlying the words of the Rishies concerned in as much as they are the rules and regulations prescribed for moral conduct of humanity and universe (सृष्टि). In a word, they are the natural Laws of the universe. Therefore, the attempt of bringing out the original texts of the noble codes for placing before the
 
-
-
 public is made. Smrities as envisaged by the sages forming the unbiassed and unprejudiced principles have been guiding us since times immemorial. Those have been capably interpreted by the commentators. These great scholars contributed much towards guiding the human destiny and effecting smooth working of society but the inclusion of their commentaries side by the side with the texts, would havecost much labour and the work would have been voluminous out of our control. It is the aim of these law givers that the greatest good to all the creation causing the least harm to any must be realizedthoroughly. It is for the betterment of the universe "विश्व कल्याणार्थ"that these Smrities while forming the background for a smooth working of society shall ever remain the light house for showing real path amidst great stress and storm to the suffering humanity. The sages, law givers as they are, preached these sermons with a sole motive of making
-
-
 
 and formulating such a social order upon which depends the smooth working of the corporate life of all and sundry. This way lies the entire solution of all the pretty strifes and trifles which have been caused by different iams as these (principles of Smrities) are in quite harmony with natural law and consistent with the ohanging natural environments for the good of all the creation.
 
@@ -65,27 +51,17 @@ and formulating such a social order upon which depends the smooth working of the
 
  We shall humbly request the readors to have a watchful eye towards grasping the true meaning of the words of all these anges strictly in accordance with reference to the context to condition, place and time, as for example; the sages have predicted to have a
 
-
-
 recourse to agriculture and resort to land work with all renewed energy for the welfare of the state. It is the first and foremost duty of every citizen to translate these precepts in to action as sincerely as anything. It is necessary for ensuring the prosperity of the nation as it is the priority number one for the growth and well being of the human beings. It is the principal item for maintaining the three bare necessities of life *e. g.* food, cloth, and shelter. It is tho greatest of all the Yajnas as a result of which "Anna" foodgrain is available which is life and light of all the living creation. The all-round progress of a country depends mainly upon the abundance of rich harvest. This is necessary pre-requisite for maintaining the vitality of a nation in peace or in war. It is a great Purushartha the successful achievement of which brings good and lasting fruits to bo enjoyed by all in the form of genuine progress. in Art, Science and Literature. The Vedas
 
-
-
 enjoin "बलमुपास्व" develop strength which is solely dependant upon upon the bountifulharvest. If a well-to-do young man sits idle and remains homesick all through his blooming age, he is the worst bane to the society. A young is the greatest asset to the nation and as such he must strive hard to grow more and become a productive citizen to his nation in the real sense of the word. But this practice of doing land work and bringing the soil under the plough is not permissible in the old age. A grey-haired sanyasin is better fitted for leading a hermit's life rather than working strenously on land with no results of important yield. He is, moreover, expected to attain perfection and freedom from. transmigration of soul in his last days for better after life. It is old age which is the worst hindrance to hard labour when physical vitality is no more and gives way to mental and spiritual development for obtaining higher planes *e. g.* devotion and
-
-
 
 prayer. In our humble opinion if this Yajna, as the Smrities dictate, is performed in all earnestness, the cattle protection and: "grow more food" compaign will no more be slogans of the Government but the Nation as a whole will rise to the occasion to solve the long-felt want of food, as a result abundant yield of food grains and proper protection to cattle will be targetted and achieved.
 
  A small child up to three entirely lives upon its mother's milk, a wholesome, good and easily digestible diet with other eatable sereals fit for the digestive system of the same as and when necessary. It is also consistent with the nature of the child and plays an important role in forming its vitality, while for the rest of the life and specially in his or her young age the food obtained from land work will constitute the wholesome nutritional diet and help ensure vitality for proper development of physical, mental and spiritual faculties of the individual concorned.
 
-
-
  There is a reference in the Shastric injunctions to the sight at the woman other than one's own wife (धर्मपत्नी) which is solely responsible for the entire downfall and degeneration of tho man, morally and ethically; while on othor occasions, reference to their Darshan ensures peace, progress and prosperity of the person concerned. If we ponder over the idea underlying these words we come to know that it is as a result due to two extreme view-points.
 
  On one hand, if one looks at the woman other than one's own wife with a passion of ill—will it will cause the worst effect which will allow the dismissal of manly vitality "thevirya" from its place effecting all sorts of diseases thereby. If a drop of "Virya" is wasted it is just like death. It is a common experience that a man entertaining sexual pleasure at his best is the early traveller to the abode of death "यमलोकातिपि". It is true " मरणं विन्दुपातेन जीवनं विन्दुधारणात्।" In a word, a
-
-
 
 person wasting bis vitality by excessive sensual gratification is nearer to death than enjoying the pleasures and boons of life bestowed upou him as the best inheritor of nature. On the other, the noble feelings ofreverence and best regards to-wards womanfolk as the manifestation and embodiment of Durga, motherhood by asking and invoking their blessings and seeking for their noble advice ensure good life and total abolition of all the ills due to the person concerned.
 
@@ -93,15 +69,11 @@ person wasting bis vitality by excessive sensual gratification is nearer to deat
 
 accordingly. Indian tradition in moral, ethical and metaphysical spheres deals mainly with Self-restraint, Trath, Love, Non-injury, Non-violence and sympathy. In order to achieve the fourParusharthas and ultimate realization of
 
-
-
 God one must perform all injunctions laid down in the Smrities strictly which is the best and surest panacea for all the worldly maladies.
 
  This collection "Smriti Sandarbha"consists of all the main Smrities available to us at present and attempts are in progress to get more to be included in future. This voluminous publication undertaken will be completed in more than a couple of volumes. This present one includes ten Smrities in all. It is nineth publication in the "Gurumandaiseries". We owe a great debt of gratitude to Rajguru Dharmadhurin Pandit Haridatta Shastri Vidyalankar, Vidyabhushan, Vidyaratna of Tehri Garhwal whose scholarly paternal guidancehas always inspired us to bring this and other publications of the series in the hands of the honourable readers.
 
  For Shri Mansukhrai More we have no words to express our gratitude. It is by
-
-
 
 mistakes and omissions occurring in this publication which is a natural outcome of suoha task of great magnitude which we hope, they will not leave uncorrected as per errata given in the end.
 
@@ -116,23 +88,15 @@ samvat 2009
 LADURAM TRIVEDI,  
 M.A**
 
-
-
 sheer dint of his noble aptitudes of head and heart, experience, knowledge, strong will and keen love for the Shastras that the work was undertaken at his own instance and initiative and has been a success to the last. Farther more, it has been the aim of his life to present the noble principles envisaged in the Vedas which are acclaimed as of lasting service and profit to all the creatures. He has been, so to say, striving hard to bring the treasure house of the noble heritage of humanity for the benefit of all.
 
  Shri Moreji is ever as enthusiastic as he has been philanthropic contributing much towards getting the publication financed and printed to be presented to the public for the best use conceivable. It is also gratifying to note that Seth Mansukhrai More has been genuinely devoting his precious life for the last decade or so substantially doing for the "Betterment of the suffering humanity all the
 
-
-
 world over by giving wide publicity to the selfaxiomed precepts envisaged in the Shruties and Smrities through very comprehensible and indispensable interpretation well appropriate to the contexts. His book Grihastha Dharma has been a popular watch word to all the Hindi-speaking house holders. In a word, Shri Moreji has, to his credit, a life entirely devoted to selfless service to his fellow persons in particular and all the creatures of universe in general. Even as he acts and moves his thoughts are concentrated towards performing deeds of kindness never of indiscriminate charity, but of far reaching con-sequences; work of introducing measures to develop agriculture, horticulture and to protect our cattle wealth for national prosperity. He believes in the decentralization programme for the village uplift as propounded by the Father of the Indian Nation "Gandhiji" änd is a true devotee of Ahimsa as preached by the Shastras. His unperturbed zeal towards
-
-
 
 "ईशावास्यमिदं ꣳ सर्वम्"is a matter for envy to all. An institution SattvieJiwan Shala at Nawalgarh (Jaipur-Rajasthan) is a successful experiment in giving shape to his noble plans wherestudents are imparted free instruction of all kind in the healthy natural environment and atmosphere of the open. The boys lead a self restraint life, Brahmacharya Jiwan, "far from madding crowd's ignoble strife", where they do spade, work, manual labour and enjoy other extra-curricular activities which help in developing their physical, mental and spiritual progress in a balanced manner to become capable citizens of the country. All this is reminiscent of ancient Ashram life. His is a dream for carrying out this successful experiment on a grand scale on all world basis.
 
  We wish Shree Moreji all success and may God bless him with more resources at his disposal for performing all the humanitarian tasks which he hopes to undertake in near
-
-
 
 future so that long cherished feelings of compassion and mutual understanding may prevail among all the nationals bringing in their wake the real progress and prosperity of
 
@@ -146,8 +110,6 @@ the world.
 
  In the end, while thanking all of our gentle co-workers and kind sympathisers in this noble cause, we begatapology of our honoured readers for all the trecuracies.
 
-
-
 mistakes and omissions occulling in this publication which is a natural outcome of such a task of great magnitude which we hope, they will not leave uncorrected as pereirata given in the end'
 
 'आ परितोषाद्विदुषांन साधु मन्ये प्रयोगविज्ञानम्'
@@ -160,8 +122,6 @@ Samvnt 2009
 SHASTRI BRAHMA DATTA  
 LADURAM TRIVEDI,
 
-
-
 हुईं उसी मन्त्रद्रष्टाकी ऋषि संज्ञा हुई। ऋषियों द्वारा अनन्ताकाश में आवत्तं-तरंग रूप से लहराते हुए परमेश्वर उद्गीथ रूप आदिनाद ऋषियों ने तपस्या करते-करते दिव्यश्रुति दिव्य दृष्टि पाकर विश्व मेंप्रसरण किया। मन्त्रों के आवर्त ( वीची तरङ्ग) के स्वरुपका देवताओं के मन्त्र द्वारा ज्ञान हो सकता है। त्रिकोण आदि जितने मन्त्र दीप्तपड़ते हैं वे उन उन मन्त्रों के आवर्तरूप के प्रतीक हैं, इन्हीं आवर्तोसे ऋषियों ने भिन्न भिन्न मन्त्रों का अनुसन्धान प्राप्त किया है। विद्वन्मोदतरङ्गिणी में लिखा है— "मन्त्रात्मकाहि देवाः" अर्थात् ये मन्त्र ही देवतास्वरूप हैं। आदिवैदिकमन्त्रों को श्रुति शब्द से निर्देश किया है। इन्हीं मन्त्रों के संस्मरण से मनु याज्ञवल्क्यादि ऋषियों ने अपने संस्मरणों को प्रकट किया जिनको स्मृतिनाम दिया गया। स्मृति शक्ति का विकास स्मृतिनिर्माता ऋषि मुनियों की जीवनी के अध्ययनसे स्पष्ट हो जायगा। स्मृतिशक्ति का समार उस सदाचार पर निहित है जो याज्ञवल्क्यादि का था।
 
  वेदव्यासजी ने श्रुतिस्मृति के सिद्धान्तों का विस्तार अष्टादश पुराणों में किया है। इनका अध्ययन धर्म की तात्विकता का प्रवोधक होने से भारतीय संस्कृति ने इनका अध्ययन मानव जाति को अपनी उच्चपरिस्थिति तथा यथार्थ कान्ति का साधन माना है। भगवद्गीता मे—
@@ -171,16 +131,12 @@ LADURAM TRIVEDI,
 
  कर्म की गहन गति कहते हुए कर्म, अकर्म और विकर्म परिपाक परे विचार करने को लिखा हें। यह विज्ञान स्मृति ग्रन्थों से
 
-
-
 ही प्राप्य है। स्मृति ग्रन्थ मनुष्य के कर्तव्यं और अकर्तव्य का निर्देशक होने से मनुष्यमात्र को स्मृति शास्त्रों में देश काल भेद से जो कर्तव्य सांस्कृतिक जीवन, व्यवहार नीति और कर्म विपाक दिखाया है उसकी जानकारी होनी परमावश्यक है। विना स्मृति ग्रन्थों के जाने कर्तव्य कर्म, ग्राह्यव्यवहार, और त्यज्यव्यवहार का ज्ञान नहीं हो सकता है। भारतवर्ष में प्रायः लोग अपने को स्मार्तधर्मी कहते हैं अर्थात् स्मृति प्रतिपाद्य जीवन यात्रा बनानाहै। श्रुति का विशदीकरण स्मृतियों में है। कविकुलचूड़ामणि कालिदास ने लिखा भी है—"श्रुतेरिवार्थ स्मृतिरन्यगच्छत्" वेद मन्त्रों का ही विशदीकरण स्मृति शास्त्र हैं। श्रुतिद्रष्टा ऋषि के अनन्तर स्मृतिकार ऋषि "मुनि" कहे जाते हैं। स्मृतियां४०१५० के लगभग हैं। प्रत्येक स्मृति का अधार दर्पधर्मआश्रमधर्म, राजधर्म व व्यवहारकमहैं परन्तु किसी स्मृति में किसीमात को प्रधान मानकर विस्तार से वर्णन किया गया, दूसरी स्मृति ने किसी दूसरे महत्वपूर्ण विषय को प्रधानः वर्णन स्थान दिया हैं। कर्म अकर्म का व्यवहारस्मृति का ही स्मरण है। याज्ञवल्क्यने मानवता के पतन का कारण बताया है—
 
 विहितस्याननुष्ठानात् निन्दितस्य च सेवनात्।  
 अनिग्रहाच्चेन्द्रियाणां नरः पतनमृच्छति॥
 
  जिन कर्मों के करने का विधान किया गया है अर्थात् सांसारिकनित्य, नैमित्तिक ग्राह्यकर्म, व्यावहारिक, नैतिक सांस्कृतिक जिन जिन को कर्तव्य बताया गया है अर्थात् विधि नियम रुप से प्रतिपादित कर्मों का
-
-
 
 "मन्वत्रिविष्णुहारीतयाज्ञवल्क्योशनोऽङ्गिराः।  
 यमापस्तम्बसम्बर्त्ताः कात्यायनबृहस्पतिः॥
@@ -191,8 +147,6 @@ LADURAM TRIVEDI,
  स्मृतिग्रन्थ और भी हैं किन्तु धर्मशास्त्रीयव्यवस्था के प्रयोजक मनु से वशिष्ठ तक हैं जिनके नाम उक्त इलोकों में हैं। उक्त धर्मशास्त्रीय स्मृतियों के अनुरुपपरिषद् व्यवस्था देने की अधिकारिणी होती हैं। उक्त धर्मशास्त्रों में प्रायः धर्मनिर्णय की शैली एक हीहै। कुछ गवेषकोका मतहै कि स्मृतियां भिन्न-भिन्न काल में विभिन्न दृष्टिकोण से लिखी गई हैं यह गवेषणा सर्वथा सत्य नहीं है। ऋषि मुनियों के अतिरिक्त कोई प्रगाढ़ पाण्डित्यवादी भी धर्मशास्त्रप्रयोजक (व्यवस्थादेनेवाला) नहीं हो सकता है। काव्य, दर्शन, इतिहास, विज्ञान, रसायन आदि भिन्न-भिन्न काल में भिन्न-भिन्न विद्वानों के उद्गार भिन्न-भिन्न दृष्टिकोण से हैं परन्तु धर्मशास्त्र की मर्यादा एक है। देशकालभेद से जो तारतम्य होता है उसका स्पष्टीकरणवहीं किया गया है। स्मृतिग्रन्थों में सत्य, त्रेता, द्वापर और कलियुग इन चार युगों में तपस्या, ज्ञान, यज्ञ और दान इनको युग के अनुरूप प्राथमिकता दी गई है। इससे यह अर्थ न समझना कि सत्ययुग में दान नहीं था और कलियुग में तप नहीं है। अबयुगों में तप, यज्ञ ज्ञान और दान की महिमा है केवल किस युग में किस धर्म की प्रधानता हैयहइसका तात्पर्य है।
 
  धर्मशास्त्रोमें विधि वाक्य, नियम वाक्य, परिसंख्या और अर्थवाद
-
-
 
 वाक्यों की परिभाषा की जानकारी कर तब ठीक ठीक तात्पर्य बुद्धि में आवेग, अन्यथा कहीं विरोधाभास प्रतीन होने से भ्रम हो जायगा। विधि वाक्य और नियम वाक्यों में जो बताया गया है उसका पालन न करने से शास्त्रीय दण्ड या प्रायश्चित का भागी होता है। स्मृति ग्रन्थों का मौलिक रचनाक्रम और धर्मशास्त्रीय व्यवस्था संस्कार परिज्ञान धर्मपूर्वक व्यवहार शासक के गुण प्रायः सब स्मृतियों में समान ही हैं। परन्तु किसी स्मृतिकार ने किसी वात को अधिक महत्त्व दिया है।
 
@@ -206,8 +160,6 @@ LADURAM TRIVEDI,
 स सर्वो विहितो वेदे सर्वज्ञानमयो हि सः॥
 
  मनुस्मृति में धर्म बताया गया है वह सब वेदों में हैं। यहां यह ध्यान रखने की धापहे कि महर्षि मनु के ये विचार हैं जिन्हें महर्षिभृगुजी ने निवन्धीकृत किया है। मनु को सम्पूर्ण ज्ञाननिष्ठा थी। मनु ने गर्भाधानसंस्कार से विवाह संस्कार तक को धर्म बताया है। तृतीय अध्याय में कहा गया है—
-
-
 
 न हो तवतक हमसव समान हैं यह कल्पता, तो बन्ध्यापुत्रवत् हैं। मनु ने स्मृति की समाप्ति में कहा भी है—
 
@@ -233,16 +185,12 @@ LADURAM TRIVEDI,
 
  शासक के स्मृतिमान् स्मृतिशास्त्रोंका ज्ञाता,कृतज्ञ,कुलीन, सत्वप्रधान आदि लक्षण बनाये हैं। व्यवहार में ऋणादान अर्थात् रूपया
 
-
-
 की बृद्धि के दर से लेकर सब प्रकार के भूमि कर आदि की सुचारु व्यवस्था की है।
 
  मर्यादात्यागी (धर्मशास्त्र की विधि नियम का उल्लङ्घनकरनेवाले) को प्रायश्चितोबताया है। पाप पांच श्रेणियों में बनाये हैं— महापाप, अतिपाप, उपपातक, पातक, जातिभ्रंश आदि। मद्यपान महापाप बताया है, कृतघ्नपुरुषप्रायश्चित करने पर भी शुद्ध नहीं होता है इत्यादि। अग्निस्मृति में शुद्धता को विशेष स्थान दिया है। विष्णुस्मृति में भगवदुपासना-भक्ति का सङ्केत सर्व प्रकार की बाधा निवृत्तिके लिये बताया है। इसके अतिरिक्त मानव संस्कृति को विष्णुस्मृतिने एक बहुत सुचारुऔर आवतक प्रणाली में बर्णनकिया है। इस शिक्षाबली के अध्ययन और विचार से मानवता कीसंस्कृति का विकास हो जाता है। इन सूत्रों में धार्मिक आचरण और पारस्परिक सम्बन्ध यमनियम उपासना उत्सवादियों का सविस्तर वर्णन है। शाततप ने प्रायश्चितकरने का विशेष स्थान कहा है—
 
 प्रायश्चित्तविहीतानां महापातकिनां नृणाम्।  
 नरकान्ते भवेज्जन्म चिह्नाङ्कितशरीरिणाम्॥
-
-
 
  शातातप ने किस पाप के करने से क्या रोग होता है उसका विशेष वर्णन किया है। रोगोत्पत्ति के विषय में यह बताया कि अलग अलग रोग अलगअलग पापों से होते हैं। साथ ही उन पापों से निवृत्ति होने का उपाय भी बताया है जिससे रोग शान्त हो जाय।
 
@@ -261,8 +209,6 @@ LADURAM TRIVEDI,
 "कृतेरन्यतमोधर्मां न लभेत्कृषितोऽन्यथा।  
 न सुखं कृषितोऽन्यत्र यदि धर्मेण कर्षति॥"
 
-
-
  खेती के समान और कोई धर्म नहीं है यदि स्मृतियों में बताये नियम धर्म से खेती चलावे तो कृषि महान् यज्ञ है जिसके द्वारा कीट पतङ्गपशु पक्षी सभी की परितृप्ति होती है।कृषि यज्ञ में यज्ञशिष्टाशीः बह ही पुण्यहोंगें जो कीट पतङ्गादि सेलेकर ऋृषि मुनि तपस्वीसबके लिये अन्न का भाग निकाल कर फिर अवशिष्ट को अपने गृहस्थ के काम में ले। धर्मपूर्वक खेती का यही रहस्य है। श्रीमद्भगवद्गीता में— 'यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः' कहकर कितना बड़ा महत्व बताया गया है। इसीलिये महर्षियों कीउञ्छवृत्तिका विधान भी चरितार्थ होता है। मयि कणाद इसके ज्वलन्त प्रमाण हैं।
 
  इसीलिये बो कहाहै—
@@ -275,8 +221,6 @@ LADURAM TRIVEDI,
 
 एकोऽपि वृषभो देयो धुर्धरः शुभलक्षणः।  
 अरोगश्चापरिक्लिष्टोयस्मात्सदशगोसमः॥
-
-
 
 एकेन दत्तेन वृषेण येन  
 दत्ताभवेयुर्दश सौरभेयाः।  
@@ -298,8 +242,6 @@ LADURAM TRIVEDI,
 
  जवतक मनुष्य जाति की स्वाभाविक गति धर्मानुकूल चलती जाती थी तवतक व्यवहार का अनुशासन नहीं था। धर्म गति से जब संसार विचलित होने लगा तवव्यवहार के नियमों में उसे जकड़ना पड़ा। नारदीय
 
-
-
 एकेन दत्तेन वृषेण येन  
 दत्ताभवेयुर्दश सौरभेयाः।  
 आहेम पीताद्धरणीसमाना  
@@ -320,8 +262,6 @@ LADURAM TRIVEDI,
 
  जबतक मनुष्य जाति की स्वाभाविक गति धर्मानुकूल चलती नवतक व्यवहार का अनुशासन नहीं था। धर्म गति से जब विचलितहोने लगातवव्यवहार के नियमों में उसे जकड़ना पडा।
 
-
-
 पार्थ शक्यनहीं । शक्ति न रहने परपुरुषायें करने से उलटी हानि हीहोतीहै।
 
  वालक के लिये अपनी माता का दूध ही पथ्य, हितकर और प्रकृति के अनुकूल है जो उसकी शक्ति है और बड़े होने पर तोपृथ्वी माता से उत्पन्न किया हुआ अन्न ही उसकी शक्ति है।
@@ -331,8 +271,6 @@ LADURAM TRIVEDI,
  महर्षियों के सभी शब्द मान्य एवं शिरोधार्य है केवल देश, काल और अवस्थाका ध्यान रहे महषियों काके वचनों में प्रविष्ट होना चाहिये।
 
  मानव जागृति में स्मृतियों के ज्ञानपरिशीलन ज्ञान परमावश्यक है। स्मृतियों के ज्ञान के बिना व्यवहार राजधर्म एवं संस्कृतिक जीवनी में दोषआजाता है।
-
-
 
  यह गुहनरकार्य कई राण्ढोंमें सम्पादित दोगा जिन्हें शीघ्र ही प्रकाश में लाने के लिये श्रीमान् मोरजी सोत्साह उत्सुक हैं। सेठजी ऐसे अत्युतम ग्रन्थ के लोक हितकारी प्रकाशन के लिये आशीर्वाद और धन्यवाद के पान है जिनकी व्यावहारिक जीवनी भी शाखों के विनोद तथा प्रसारण से देश जाति की यथार्थ सेवा कर रही है। सेठजी शास्त्रोक्त मार्ग से उपासना और जनसेवा कृषि कर्म विकास गोधन की रक्षा के निरन्तर प्रयत्नमें लगे रहते हैं। भगवान् उदारमनाः सेठजी के सत्-सङ्कल्पसफल कर जनता में धार्मिक भावना एवं परस्पर एकता प्रदान करें।
 
@@ -350,8 +288,6 @@ LADURAM TRIVEDI,
 राजगुरु पण्डित हरिदत्त शास्त्री  
 टिहरीगढबाल।
 
-
-
 श्रीगणेशाय नमः।
 
 किञ्चित्प्रास्ताविकम्।
@@ -365,8 +301,6 @@ LADURAM TRIVEDI,
  अतोऽग्रकोऽप्युपायः शास्त्रीयो लौकिको व्यावहारिको वायेन मानव मानवतां विकाशयेयुः, विचार्यते, कारुणिकानां महर्षीणांतत्साधनं स्मृत्याचरणं लोके प्रसारितमासीत् इदानीम्भोगलोलुपैः हतमानसैः मानवतां मन्यमानैः तत्स्मृतिपन्था विस्मारितप्रायः। अतो मनुस्मृतोराज्यानुशासनपद्धतावपि—
 
  "स्वधर्मचरितान्लोकान्विनीय स्थापयेत्पथि" इति स्मरणात् स्वे स्वे कर्मणिः सर्वेषां पथभ्रष्टानांपथप्रदर्शनं राजशासनमपि अनुमोदते।
-
-
 
 "स्मृत्याचारव्यपेतेन मार्गेणाधर्पितः परैः।  
 आवेदयति चेद्राज्ञेव्यवहारपदं हि तत्॥"
@@ -382,8 +316,6 @@ LADURAM TRIVEDI,
 
  जनतन्त्रराजशासनेकस्यचिदपि साम्प्रदायिकता पथप्रदर्शन-
 
-
-
 तदाचरण विभिन्नसम्प्रदायिनां तिरस्कारे कस्यचिदेक सम्प्रदायस्यानुशासनं प्रमाणीकृत्य सर्वे विभिन्न सम्प्रदायिनः कस्यचिदेकस्य सम्प्रदायस्यानुशासने महाननर्थोऽधर्मश्च नीतिमार्गाभिशापश्च (Blunder of the Politics) भवति राजधर्मस्तु सर्वान् स्वे स्वे धर्मे संरक्षणं देयमिति सेयं मर्यादा भारतीय धर्मशास्त्रे प्राचुर्य्येण सङ्कलिताऽस्ति येन पारस्परिकसद्भावना समतैकता दैनंदिनं सम्वर्धेत।
 
  संस्कृतिमयं जीवनं पृथिव्यां धर्मशास्त्रैकनिधिः सवरनुभूता। ने कोऽपि स्मृत्याचार सम्पन्नः परैरभिभूयते न च परांस्तिरस्करोति अपि तु सर्वदा सर्वेषु बन्धुत्व व्यवहारेण समादरं करोति।
@@ -395,8 +327,6 @@ LADURAM TRIVEDI,
 शास्त्रीणोहरिदत्तस्य  
 टेहरी गढ़वाल वास्तव्यस्य
 
-
-
 ॥ॐ तत्सत्॥
 
 साभ्यर्थनोधन्यवादः।
@@ -404,8 +334,6 @@ LADURAM TRIVEDI,
  सकलकल्याणगुणाकरकरुणामयदीनवत्सलश्रीनारायणचरणानुकम्पया प्राप्तधर्ममतयो मरुदेशस्थवैश्यकुलावतंस नवलगढ़ निवासिनः लुप्तवैदिकधर्मेष्वनवरप्रवृत्तमानसाः परमैश्वर्यादि गुणकीर्तिसम्पन्ना **मान्यवर श्रीमनसुखरायजी और श्रेष्ठिनः** महता परिश्रमेण द्रव्यव्ययाधिक्येन चाप्राप्तस्मृतिग्रन्थान् प्राप्तस्मृतिग्रन्थां च देशान्तरातथा विविधभारतीयपुस्तकालयेभ्यः समानीय सयत्नेन सुसंग्रहं कृतवन्तः धर्मार्थवितरणार्थंपृथक् पृथक् भाग चतुष्यात्मकं (स्मृतिसंदर्भनामकं पुस्तकं) प्रकाशीकृतवन्तश्च, स्मृतिसन्दर्भोऽयंमनुष्यमात्राणामभ्युदयार्थे येनासंस्कृतविचारिणामपि सांस्कृतिकविचारधाराप्रवाहेणाखिलमानवसंसारसुशान्तिसद्भावनायामवतरेयुः। अथ च सनातनधर्मावलम्बिनां जनसमुदायिनां च कल्याणेद्धया गारते बहुषु स्थानेषु ब्रह्मचर्याश्रमस्थापनार्थम्, लुप्तस्मार्तवेदिवधर्माणां सयत्नपुरस्सरं प्ररुयापनार्थन्तद् ग्रन्थानां विकाशनाय च स्वजीवनं यापयन्तो राजन्ते।
 
  अतुलकीर्तिशालिभ्यः सपरिवारेभ्यस्तेभ्यो महोदयेभ्यः शतशो हार्दिकान् शुभाशीर्वादान् धन्यवादाश्चवितराम।
-
-
 
 प्रार्थयामश्चसृष्टिस्थितिलयकर्तारं भगवन्तं जगदीश्वरमपौरुषेयं यद् भवन्तु तेषां पुत्रपौत्रादिसन्तानाः सदा सनातनधर्मोद्धरणे सयत्नचित्ताः गङ्गानयनाय भगीरथ इवेति।
 
@@ -420,8 +348,6 @@ LADURAM TRIVEDI,
  किं तस्यलक्षणं इत्युक्यते चेत् तदा— यागादिरेव धर्मः।
 
  तल्लक्षणस्तु— वेद प्रतिपाद्यप्रयोजनवदर्थो धर्मः। यजेत— किमर्थं स्वर्गकामः। "धर्मं जिज्ञासमानानां प्रमाणं परमं श्रुतिः।"
-
-
 
 मनुः—
 
@@ -456,8 +382,6 @@ LADURAM TRIVEDI,
 
 वेदोऽखिलो धर्ममूलमाचारस्तु प्रकीर्तितः।
 
-
-
   अत्रिः—
 
 आचारेषु व्यवस्थानं शौचमित्यभिधीयते।  
@@ -491,8 +415,6 @@ LADURAM TRIVEDI,
 
  क्रमागतानां चतुर्णां ब्राह्मण क्षत्रिय वैश्य शूद्राणां वर्णानां पृथक् वृत्तयो दश्यन्ते—
 
-
-
 यथा मनुः—
 
 अध्यापनमध्ययनं यजनं याजनं तथा।  
@@ -524,8 +446,6 @@ LADURAM TRIVEDI,
 एकेन दत्तेन वृषेण येन भवन्ति दत्ता दश सौरभेय्यः।  
 माहेष्वपीर्य धरणी समाना तस्माद् वृषात् पूज्यतमोऽस्तिनान्यः।
 
-
-
 उत्पाद्यसश्यानि तृणं चरन्ति तदेव भूयः सततं वहन्ति॥  
 न भारखिन्नाः प्रवदन्ति किञ्चिदहो वृषर्जीवति जीवलोकः॥
 
@@ -554,8 +474,6 @@ LADURAM TRIVEDI,
 
 वैवाहिकेऽग्नौकुर्वीत गृह्यं कर्म यथाविधि।  
 पश्च सूना गृहस्थस्य चुल्लीपेयष्युपस्करः।
-
-
 
 पण्डनोचोदयुम्भश्च वध्यते यास्तु वाहयन्।  
 अध्यापनं ब्रह्मयज्ञ, पितृयज्ञस्तु तर्पणम्॥  
@@ -590,8 +508,6 @@ LADURAM TRIVEDI,
 अनिर्दशाया गो क्षीरमोष्ट्रमेक्शकंतथा।  
 आविकं सन्धिनीक्षीरं विवत्सायाश्चगोपय॥
 
-
-
 दधिभक्ष्यं च शुत्तेषु सर्वं च दधि सम्भवम्।  
 यानि चैवानि पूयन्ते पुष्पमूलफलैः शुभैः॥
 
@@ -623,8 +539,6 @@ LADURAM TRIVEDI,
 कणान्वाभक्षयेदब्दंपिण्याकं वा सकृन्निशी।  
 सुरापानापनुत्यर्थं बालवासा जटी ध्वजी॥
 
-
-
 पराशरस्तुतथैव—
 
 गोरवत्सा न दोग्धव्या न चैवं गर्भसन्धिनी।  
@@ -652,8 +566,6 @@ LADURAM TRIVEDI,
 इत्यादि श्रुत्युक्तेः। नराः पूर्वोक्तविधिना यथाविधिद्याथमादाश्रमं गच्छन्त ऐहिकामुष्मिकानि सर्वाणि कल्याणानि लभन्ते।
 
  अथ तेषा सहृदयानां श्रेष्ठिमहानुभावानामदज्ञा एषुस्मृति
-
-
 
 सन्दर्भ संकलितेषु ग्रन्थेषु संशोधनविषयादिकार्येषु भ्रमवशाद्यत् किमपिस्खलनं जातं तत्क्षन्तव्यं गुणैक पक्षपातिभिर्विद्वद्भिर्भवद्भिर्यतः—
 
@@ -684,9 +596,6 @@ LADURAM TRIVEDI,
 **\[ मैथिलस्य \]  
 ![](../books_images/U-IMG-1725158264DHARMASASTRA_1-removebg-preview.png)**  
 
-
-
-
 ॥श्री॥
 
 **अथ स्मृतिसन्दर्भस्य प्रथमभागस्य  
@@ -715,8 +624,6 @@ LADURAM TRIVEDI,
 
 ॥शुभम्॥
 
-
-
 ॥श्रीगणेशाय नमः॥
 
 **स्मृतिसन्दर्भ प्रथम भाग की विषय-सूची**
@@ -733,8 +640,6 @@ LADURAM TRIVEDI,
 
 धर्मका वर्णन और धर्म का स्वरूप (श्लोक १-१२ )। अर्थ मे और काम मेजिसकी आसक्ति न हो वही धर्म को समझ सकते है और धर्म के जिज्ञासुओं को वेद से प्रमाण लेना चाहिये ( ३-१७)।
 
-
-
 **२ ब्रह्मनय वर्णनम्—**
 
 देश और परम्परा के अनुरूप आभार (१८ )। द्विजातियों के संस्कार के समय का वर्णन, गर्भाधान से उपनयन तक दस संस्कार (२६-७७ )।
@@ -748,8 +653,6 @@ LADURAM TRIVEDI,
 विद्याभ्यास का काल ( १-२ )। विवाह का प्रकरण और कन्या के लक्षण (४-१६)। विवाद के भेद, राक्षस, आसुर, पैशाच और गान्धर्व चार असत् विवाह तथा ब्राह्म, दैव, आर्ष, प्राजापत्य इन चार सद्विवाहों का वर्णन (२१-३६॥ इनका विस्तार (४० तक )। पाणिग्रहण संस्कार सवर्णों के ही साथ होसकता है असवर्ण के साथ नहीं (४३)।
 
 मृतकाल मे सहवास करने से गृहस्थ होने पर भी ब्रह्मचारी संज्ञा (४५५०)। स्त्री का सम्मान करने के लिये आर्य संस्कृति का विकास (१६-६२ )।
-
-
 
 **३ गृहस्थस्य पञ्चमहायज्ञाः—**
 
@@ -772,8 +675,6 @@ LADURAM TRIVEDI,
 **४ गृहस्थाश्रम वर्णनम्—**
 
 गृहस्थाश्रम का वर्णन (१)। श्राद्ध में और यज्ञ में कैसे ब्राह्मण को भोजन कराना चाहिये (३०-३१)। उपनयनसंस्कार के अनन्तर स्नातक के रहन-सहन और व्यवहार के नियम (३५-११०)। विशेष नियम तथा गृहस्थ की शिक्षा (१११-१३५) धर्म का आचरण और नियम (१७७)। दान, धर्म और श्राद्ध (२६०)।
-
-
 
 **५ अभक्ष्य वर्णनम् —**
 
@@ -806,8 +707,6 @@ LADURAM TRIVEDI,
 सुसंस्कृतोपस्करया व्यये चामुक्तहस्तया॥  
 पतिव्रता स्त्रियों का माहात्म्य (१५४-१६६ )।
 
-
-
 आयु के द्वितीय भाग यौवनावस्था ५० वर्ष की उम्र तक गृहस्थ में रहे (१६६)।
 
 **६ वानप्रस्थाश्रमवर्णनम्—**
@@ -823,8 +722,6 @@ LADURAM TRIVEDI,
 
 राज्यसत्ता, शासन सत्ता का वर्णन, राजा अर्थात् शासक के आचरण का निर्देश (१८)। राजदण्ड की आवश्यकता (१६-२०)। शासक का विनयाधिकार (३५-४४)। शासक के दस कामज दोष और आठ क्रोध से उत्पन्न होनेवाले दोषों से वचने का निर्देश (४५-४७)। सचिवों की योग्यता और उनके साथ राज्यकार्य के परामर्श की विधि (५४)। राज दूत (६६) दुर्ग निर्माण (७०)। शत्रु से युद्ध का वर्णन (६०)। राष्ट्र-
 
-
-
 राष्ट्र संग्रह और राष्ट्र निर्माण (११३ ११७)। राज्य कार्य में लगे हुए मनुष्यों की वृत्तिका माप (१२४-१२३)। वाणिज्य कर, राज्यशासन नीति (१२७-२२६)।
 
 **८ राज्यधर्म दण्डविधानवर्णनम्—**
@@ -838,8 +735,6 @@ LADURAM TRIVEDI,
 **८ द्रव्यपरिमाणनिरूपण वर्णनम्—**
 
 तौल (माप) वनाने की विधि (१३२)। ऋृण लेने पर ब्याज की दर (१३६)।किसी वस्तु के रखने पर चक्रवृद्धि मेंवृद्धि का सन्तुलन (१५०)।
-
-
 
 **८. राजधर्मदण्डविधान वर्णनम्—**
 
@@ -864,8 +759,6 @@ LADURAM TRIVEDI,
 
 मातृ जाति शक्ति रूपा है इसे दृष्टिगत रखना पुरुष का प्रधान धर्म और कर्तव्य है। किसी भी रूप में शक्ति का ह्रास अवा-
 
-
-
 ञ्छनीय है।स्त्रीकी रक्षा से धर्म और सन्तान की रक्षा होती है (१-३५)।
 
 पुत्रं प्रत्युदितं सद्भिः पूर्वजैश्चमहर्षिभिः।  
@@ -888,8 +781,6 @@ LADURAM TRIVEDI,
 **९सम्पत्तिश्राद्धयोरधिकारित्ववर्णनम्—**
 
 अपुत्रक का धन दौहित्र को (१३१)। कन्या को पुत्र समझकर धन देने का निश्चय होने के अनन्तर यदि औरस पुत्र हो जाय तो धन विभाग का निर्णय (१३४)।
-
-
 
 **९**
 
@@ -921,8 +812,6 @@ LADURAM TRIVEDI,
 
 कर लेने का समय (३०२)।
 
-
-
 **९**
 
 **वर्णानां कर्मविधि वर्णनम्—**
@@ -947,8 +836,6 @@ LADURAM TRIVEDI,
 
 यज्ञ होम सोम यज्ञ के सम्बन्ध में स्नातकों का सम्मान।
 
-
-
 प्रायश्चित्तों का यज्ञ के लिये धन एकत्र कर यज्ञ में न लगाने बाले की काक योनि इत्यादि में गति (१-२४)।
 
 **११ देवादि धनं हरतीति फलम्—**
@@ -972,8 +859,6 @@ LADURAM TRIVEDI,
 
 तपस्या से पाप नाश (२४२)। अक्षर प्रणव को जप करने से सर्वपाप क्षय (२६६)।
 
-
-
 **१२ कर्मणां शुभाशुभफल वर्णनम्—**
 
 वाचिक, शारीरिक और मानसिककर्म का वर्णन (४-६)। वाणी के पाप से पक्षियों का जन्म, शरीर के पाप से स्थावर योनि और मन के पाप से शारीरिक दुःख होते हैं।
@@ -990,8 +875,6 @@ LADURAM TRIVEDI,
 
 स्वराज्य की यथार्थ परिभाषा (६१)। राज्य शासन राष्ट्र और सेना के शासन के लिये वेदधर्मकी आवश्यकता
 
-
-
 (६७-१००) ब्राह्मण को तपस्या और ब्रह्मविद्या से मोक्ष (१०४)।धर्म की व्यवस्था कौन दे सकता है(१०८)। दस हजार पुरुषों की तुलना में एक आत्मज्ञानी का अधिक मान्य है (११३)।
 
 आत्म ज्ञान अध्यात्म जीवन का निरूपण (११६-१२६)।
@@ -1004,15 +887,11 @@ LADURAM TRIVEDI,
 
  मनु प्रजापति आदि जिस समय राज्य कर रहे थे उस समय सव सत्यवादी थे और जब धर्म का ह्रास हुआ तो नियन्त्रण के लिये व्यवहार की प्रतिष्ठा की गई। इसी के लियेराजा दण्ड नीति का धारण करनेवाला बनाया गया (१-२)। व्यवहार के निर्णय में साक्षी और लेख दो बातें रखी गईं। जब दो पक्षों में विवाद हो तो साक्षी और लेख का विधान हुआ (३-६) जितने प्रकार के व्यवहार और वाद-विवाद होते हैं उनका वर्णन (६-२०)।विवाद का मौलिक कारण काम क्रोध को बतलाया है (२१)।विवाद के निर्णय की विधि (२५-३२)। अर्थ शास्त्र और धर्मशास्त्र के बीच मतभेद होने में धर्मशास्त्र की मान्यता (३३-३४)।कोई भी सन्देह हो तो राजा द्वारा निर्णय कराये जानेका विधान (४०)।विनयन का प्रकार (४४-५०) लेख और गवाही (साक्षी) की सत्यता की जाँच (५१-६४)।
 
-
-
 राजा को व्यवहार के निर्णय में सहायता के लिये संसद (जूरी) का विधान (६८-७२)। सभासद् (निर्णय सभा के) का नियम। ठीक वात को छिपाकर या बढ़ाकर वोलने का पाप (७३)। सभासद को बात बढ़ाने और छिपाने में पाप का संस्पर्श (७४)। सभा का वर्णन (८०) ।
 
  ऋणादानं प्रथमं विवादपदम्
 
  ऋृण के सम्बन्ध में (१)। समय चले जाने पर भी पुत्र को वाप का ऋृण चुका देना चाहिये (८-६)। स्त्री पति का ऋृण नहीं देते(१३)। जो जिसका धन लेनेवाला होता है उसे देना चाहिये (१४)। निर्धन, अपुत्री स्त्री को ले जानेवाले को उसके ऋृण देना चाहिये (१६)। पुत्रपति के अभाव में राजा का अधिकार (२३)। पति के प्रेम से दी हुई वस्तु को कोई नहीं ले सकता है (२४)। कौन कुटुम्ब में स्वतन्त्र है और कौन परतन्त्र है इसका वर्णन (२६-३२)।छल से कमाये धन को काला धन कहते हैं (४३)। न्याय का धनागम (५०-५१)। प्रत्येक जाति की अपनी अपनी वृत्ति (५६-६४)।तीन प्रकारके लिखित, साक्षी, भोग का प्रमाण (६५-७७)। धरोहर का प्रमाण (७३)। स्त्रीधन के रक्षा का विवरण (७५)। मृत पुरुष का प्रमाण (८०-८६)।रुपये का वृद्धि (ञ्याज का प्रकार) चक्रवृद्धि का (Compound interest) वर्णन (८७-६४)। धनी को ऋृणी का लेख वतलाना चाहिये (६८-१००)। प्रतिभू
-
-
 
 (जामिन) का वर्णन (१०३)। लेख, लेखक के प्रकार, कितने प्रकार के होते हैं (११२-१२२) जो साक्षी के योग्य नहीं है— अशुद्ध साक्षी (१३४)। शुद्धसाक्षी।साक्षी 'विषय' (१३५-१५२)। असाक्षी (१६३-१६७)। उभय पक्ष (जिसकी स्वीकृति को मान लेने पर) एक भी साक्षी हो सकता है (१७१) झूठेसाक्षी के मुख के चिह्न, (आकार आदि चेष्टा से) (१७२-१७७)।झूठसाक्षी का पाप (१८६-१८८)। सत्य साक्षी का माहात्म्य (१६०-२००)। सत्य साक्षी की महिमा (२०३)। तम साक्षी के सम्बन्ध में (२१५)। शाप ऋृषि और देवतों पर भी लगता है (२१८)।
 
@@ -1030,8 +909,6 @@ LADURAM TRIVEDI,
 
  दत्ता प्रदानिक— जो नियम के विरुद्ध दिया हैवह वापिस करने कानिदान क्या अदेय क्या वापिस लेना।आपत्ति पर भी जो किसी को समर्पण कर दिया वह फिरनहीं दिया जाता (५)।
 
-
-
 ** अभ्युपेत्याशुश्रुषापञ्चमं विवाद पदम्**
 
  शुश्रूषक ५ प्रकार, काम करनेवाले ४ प्रकार (२)। कर्म के भेद—शुद्ध कर्म करनेवाला (५)। आचार्य की शुश्रूषा आदि (१३-२३)। दास के प्रकार (२४-२६)। स्वामी के साथ उपकार करनेवाला दासत्व से छुटकारा पाता है (२८)। सन्यास से वापिस आने पर गृहस्थ में आने पर राजा का दास होकर छुटकारा नहीं है (३३)। वलात् दास वनायेहुए के छुटकारे का उपाय (३६)।
@@ -1044,8 +921,6 @@ LADURAM TRIVEDI,
 
  जिस धन पर अधिकार नहीं है उसके वेचने के विषय में, पृथ्वी में जो धन पड़ा है उसपर अधिकार (१)। अस्वामि विक्रय धन चोरी केधन के तुल्य है (२)। चोरी का धन लेने वाला दण्डभागी (५)। पृथ्वी पर पड़ा या गड़ा धन राजा का होता है (६)।
 
-
-
  विक्रीयासम्प्रदानमष्टमं विवादपदम्
 
  बेचकर न देने का विवाद (१)। सौदा करके क्रेता को न देने से स्थायी सम्पत्ति में हानि देनी पड़ती है। जङ्गमं वस्तु न देने से उसका जो लाभ हो सो क्रेता को देना पड़ता है (४)। सौदा करने के वाद मूल्य देने पर उपरोक्त नियम लागू होता है अन्यथा नहीं (१०)।
@@ -1057,8 +932,6 @@ LADURAM TRIVEDI,
 ** समयस्यानपाकर्म दशमं विवादपदम्**
 
  समय का अनपाकरण (पाखण्डी से राजा वच कर रहे ) (१)।
-
-
 
 प्रवृत्ति भी हो तो भी वचना चाहिये (७)।
 
@@ -1074,8 +947,6 @@ LADURAM TRIVEDI,
 
  पाणिग्रहण होने पर स्त्री मानी जाती है (२-३)। एक गोत्र को कन्या और वर का विवाह नहीं हो सकता है \[७\]। गुणदोष न देखकर विवाह होने पर त्याग \[ ६-१५\]। दूसरा पति करने का नियम \[१६\]। कन्यादान करनेवाले अधिकारियों का वर्णन \[२०-२२\] \। स्त्री संग्रहण के दण्ड \[६२-६८\]। व्यभि-चार दण्ड \[७०-७५\] पशुयोनि गमन दण्ड \[७६\]। स्त्री गमन निषेध का वर्णन \[८३-८८\]। स्त्री की निर्वासन की दशा का वर्णन \[६१-६५ \]। निर्दोष स्त्री त्याग का दण्ड \[६७ \]।
 
-
-
 अन्य पति का विधान (६६-१००)। वर्णसंकर का वर्णन (१०५)। वर्णसंकरों की पृथक् पृथक् जाति (१०६-११८)।
 
 ** दायविभागस्त्रयोदशं विवादपदम्**
@@ -1088,8 +959,6 @@ LADURAM TRIVEDI,
 
  वाग्दण्डपारुष्यंपञ्चदशं षोडशञ्चविवादपदम् (३१५)। वाक्पारुष्य दण्डपारुष्य(भहीगालीऔर अशलील)तीन
 
-
-
 प्रकार का दण्ड (१-३)। दूसरे पर पत्थरफेंकना दण्ड पारूष्य(४)।दण्डपारुष्यं कादण्ड (५-१३)।जाति परत्व दण्ड का तारतम्य (१४- १७)। जिस अङ्गद्वारा पाप हुआ उसका छेदन (२३-२४)।दण्ड पारुष्य में अपराधी को दण्ड (२५-२७)।
 
 ** द्यूतसमाव्हयं सप्तदशं विवादपदम्**
@@ -1099,8 +968,6 @@ LADURAM TRIVEDI,
  प्रकीर्णकमष्टादशं विवादपदम्
 
 प्रकीर्ण विवाद की परिभाषा (१-४)। शास्त्र निषिद्ध मार्गगामी को दण्ड (७)।अन्याय से व्यवस्था की हुई का राजा द्वारा भंग (८-६)।राजा द्वारा सर्वस्वहरण पर आजीविका त्याग (१२)।राजा के दण्ड न देने पर क्षति (१६-१७)।दण्ड देने से राजा निर्दोष (१८)। राजा की महिमा और आज्ञापालन (२०-३०)। राजा का धर्म (४७-४८)। माङ्गलिक आठ चीजों का वर्णन (५१)। उनकी प्रदक्षिणा का वर्णन (५२)। 'प्रगट' 'अप्रगट' चोरों का वर्णन (५३-५८)। चारों चोरों को दण्ड
-
-
 
 (६०-६४)।चोरों के सहवासियों को दण्ड (७०-७५)। भिन्न-भिन्न प्रकार की चोरी कादण्ड (७६,६०)। जिस जिस अङ्ग द्वारा चोरी उसका छेदन (६२)।आघात करने को शरीर के स्थान ( ६४-६५)। ब्राह्मणको फांसी नहीं लगाना और देश से बहिष्कृत करना (६६)। दुष्टों को दण्ड और अङ्गोंपर निशान (१०१-१०६)।गुन पापों का यमराज द्वारा दण्ड (१०८)।दण्डों का प्रकार ( १११)। अर्थदण्ड के मान की व्यवस्था (११८)।
 
@@ -1115,8 +982,6 @@ LADURAM TRIVEDI,
 **१ आत्मशुद्धिवर्णनम्**
 
 अत्रिके प्रति पाप मुक्त्यर्थ ऋृषियोंका प्रश्न (१-३)। प्राणायाम विधि उससे लाभ (४ १०)। गायत्री मन्त्र प्रणव-विधान (१५)।
-
-
 
 **२ सर्वपाप विमुक्तिः, गायत्रीमन्त्रवर्णनञ्च**
 
@@ -1134,8 +999,6 @@ LADURAM TRIVEDI,
 
 भोजन के समय मण्डल का विधान (१-३)। अन्न देने के अधिकारियों का वर्णन (४)।भोज्यान्न के भिन्न-भिन्न अधिकारियों का वर्णन (५-१७)। भोजन और जलपान का नियम (२०-२३)। भोजन के समय पाद-
 
-
-
 प्रक्षालन (२५) भोजन के नियम (२६-२८)।सूतक स्नान विधि (३२-३३)। शुद्धि विधान (३८)। सूतक दिन निर्णय (४१-४२)। सूतक के विषय में वर्णन. (४३-४६ )। कन्या ऋृतुमती होने पर शुद्धि विधान (४७-७०)। जन्म के दिन ग्रहण होने पर पूजा विधि (७१-७५ )।
 
 ** स्वर्गसुख प्राप्ति फलवर्णनम्**
@@ -1147,8 +1010,6 @@ LADURAM TRIVEDI,
 **धर्मशास्त्रोपदेश वर्णनम्**
 
 संहिता श्रवण माहात्म्य (१-७)। गुरु के सत्कार न करने से कुक्कुरयोनि प्राप्ति (१०)। शास्त्र अपमान से पशुयोनि ( ११ )। स्वकर्तव्यनिष्ठ को प्रशंसा ( १२ )। प्रत्येक वर्ण के कर्म (१३-२० )। विद्वानों के कार्य में मूखों को नियुक्ति करने पर क्षति (२३)। विद्वत्पूजा वर्णन (२७)। राजा के पञ्चयज्ञ—दुष्ट को दण्ड सज्जन पूजा, न्याय से कोपवृद्धि, निष्पक्ष न्याय, राष्ट्र वृद्धि (२८)। शौच लक्षण (३१-३५)। ब्राह्मण कर्तव्य (३६-३६)। दान माहात्म्य (४०-४१)। दृष्टापूर्ति के लक्षण (४३-४४)।
-
-
 
 नियम की अपेक्षा यम का सेवन (४७)। नियम(४६)।जिनको उद्देश्यकर स्नान किया जाता है उसका फल (५०-५१)। पुत्र को पिता का गया श्राद्ध करना चाहिये, गया श्राद्ध का माहात्म्य (५२-५८ )। आहार शुद्धि स्थान शुद्धि, वस्त्र शुद्धि आदि का निर्देश (५६-८१)। सूतक आशौच आदि का प्रायश्चित्त (८३ - १११)। कृच्छ्र, सान्तपन, चान्द्रायण व्रत का विधान (१११-१३५)। स्त्री को जप व्रत का निषेध केवल पति परायणता (१३५-१३८ )। लोह पात्र में भोजन करने से पतित। ( १५२ )।
 
@@ -1166,8 +1027,6 @@ LADURAM TRIVEDI,
 
 चाण्डाल का जल पीने से पक्ष्यगव्य से शुद्धि (२३२ )। जल शुद्धि का वर्णन (२३७ )।
 
-
-
 ** प्रायश्चित्तवर्णनम्**
 
 रजस्वला स्पर्श, भिन्न-भिन्न पापों का प्रायश्चित एवं अशौच वर्णन (२३८- २८०)। स्पर्शास्पर्श एवं उच्छिष्ट भोजन का वर्णन (२८२-२६०)।पतित अन्न भक्षण, चाण्डाल अन्न, कन्या अन्न, राजान्न भक्षण का दोष वर्णन \[२६१- ३०५\] श्राद्ध में भोजन शुद्धि वर्णन \[३०६-३१०\]। अङ्गली से दतौन का निषेध \[ ३१४ \]। शौच, मैथुन, स्नान, भोजन में मौन रखना \[ ३२९ \]।
@@ -1183,8 +1042,6 @@ LADURAM TRIVEDI,
 ** निन्द्यब्राह्मण वर्जनवर्णनम्**
 
 ब्राह्मण की संज्ञा देव ब्राह्मण, विप्रब्राह्मण, शूद्र ब्राह्मण आदि
-
-
 
 म्लेच्छ ब्राह्मण, विप्र चाण्डाल \[३७२-३८०\]। श्राद्ध में वर्ज्य ब्राह्मण \[३८४\]।विद्वान होने पर भी पतित ब्राह्मण की पूजा नहीं की जाती है \[३८५-२८६\]। खरीदी हुई स्त्री के पुत्र श्राद्ध करने योग्य नहीं होते है \[३८७\]।
 
@@ -1203,8 +1060,6 @@ LADURAM TRIVEDI,
 युधिष्ठिरस्य पितामहं प्रति प्रश्नः भीष्मस्य पुरातन वार्ताकथनमोङ्कारवर्णनं, विष्णोः प्रसादन विधिवर्णनम्, ईश्वरवर्णनम्, वरप्राप्तिवर्णनम्, नारायणवर्णनञ्च
 
 भीष्म के प्रश्न पर विष्णु भगवान् का उत्तर नारायण नाम
-
-
 
 का माहात्म्य \[४-
 
@@ -1229,8 +1084,6 @@ LADURAM TRIVEDI,
 र्णनम्
 
 प्रजा सुख से सुखी और दुःख से दुखी रहने से राजा को स्वर्ग प्राप्ति ।
-
-
 
 ५ राजधर्मविधाने दण्डवर्णनम्
 
@@ -1258,8 +1111,6 @@ LADURAM TRIVEDI,
 
 जो साक्षी में निषेध है उनका वर्णन, कूट साक्षियों का वर्णन, शुद्ध साक्षियों के कहने पर निर्णय करना। जिस विवाद में कूट विवासाक्षी होना निश्चित हो जाय वह विवाद समाप्त कर देना ।
 
-
-
 ९ समयक्रियावर्णनम्
 
 समय क्रिया राजद्रोहादि में शपथ कराने का विवरण, अभियुक्त को दिव्य कराने की प्रक्रिया, सचेल स्नान कराकर तव देवता और ब्राह्मण के आगे शपथ करावे !
@@ -1275,8 +1126,6 @@ LADURAM TRIVEDI,
 ११ अग्निपरीक्षा वर्णनम्
 
 अभि परीक्षा—सोलह अङ्गुल के सात मंडल वनावे और उन मंडलों को दो हाथ के सूत्रों से वेष्टित कर देवें। पचास पल के लोहे को आग में गरम करके उसे हाथ में लेकर सात मंडलों पर चले फिर लोहे को नीचे रख देवे। जिसका हाथ न जले यह अनपराधी यदि जल जाये तो अपराधी—इसके नीचे अग्नि के मन्त्र लिये हैं।
-
-
 
 २० दिनरात्रिकालवर्परदीनां वर्णनम्
 
@@ -1308,8 +1157,6 @@ LADURAM TRIVEDI,
 
 पार जाति में विवाद, क्षत्रिय को तीन,वैश्य को दो, शुद्र को एक जाति में विषाह वताया है।
 
-
-
 विवाह का निषेध । माता से पंचम और पिता से सप्तमकुल में विवाहग्राह्य है। स्त्री के लक्षण और आठ प्रकार के विवाह अन्तिम में ब्राह्म विवाह का माहात्म्य।
 
 **२५ स्त्रीणां संक्षिप्तधर्मवर्णनम्**
@@ -1328,8 +1175,6 @@ LADURAM TRIVEDI,
 
 इसमें ब्रह्मचारी के नियम, गुरुकुल में रहना, गुरु की आज्ञा पर चलना, वेदों को पढ़ना इत्यादि वर्णन किया गया है।
 
-
-
 १२ उदकपरीक्षावर्णनम्
 
 उदक \[जल में परीक्षा\]—वहां पर एक आदमी धनुष एक तीर पानी में डाले। बहु आदमी कूदकर उस तीर छावे। जो पानी के नीचे न दिखलाई देवे वह शुद्ध दिखाई दे यह अशुद्ध और मन्त्र वहीं लिखे हैं।
@@ -1347,8 +1192,6 @@ LADURAM TRIVEDI,
 १५ द्वादश पुत्र वर्णनम्
 
 बारह प्रकार के पुत्र— सबसे पहिले, औरस, क्षेत्रज, पुत्रिका पुत्र, भाई और पिता के न होने पर लड़की पुनर्भव,कानीन,
-
-
 
 गृहोत्पन्न, सहोड़, दत्तक, कील,स्वयं उपागत, अपविद्ध, परित्यक्त ये बारह प्रकार के पुत्र बचलाए गये हैं। इस अध्याय के अन्तिम श्लोकों में बतलाया है कि
 
@@ -1372,8 +1215,6 @@ LADURAM TRIVEDI,
 
  ब्राह्मण के अग्निदाह का निर्णय किया है।
 
-
-
 २० दिनरात्रिकालवपदीनां वर्णनम्
 
 देवताओं का उत्तरायण दिन, दक्षिणायन रात्रि है । सम्वत्सर अहोरात्र है इस प्रकार काल का विभाग बताकर कर्म विपाक बताया गया है और पितृ क्रिया बताई गई है।
@@ -1394,8 +1235,6 @@ LADURAM TRIVEDI,
 
 व्राह्मण को चार जाति से विवाह, क्षत्रिय को तीन,वैश्य को दो, शूद्र को एक जाति से विवाद बतलाया है। सगोत्र से
 
-
-
 विवाह का निषेध । माता से पंचम और पिता से सप्तम कुल में विवाहग्राह्य है। स्त्री के लक्षण और आठ प्रकार के विवाह अन्तिम में ब्राह्म विवाह का माहात्म्य।
 
 २५ स्त्रीणां संक्षिप्तधर्म वर्णनम्
@@ -1414,8 +1253,6 @@ LADURAM TRIVEDI,
 
 इसमें ब्रह्मचारी के नियम, गुरुकुल में रहना, गुरु की आज्ञा पर चलना, वेदों को पढ़ना इत्यादि वर्णन किया गया है।
 
-
-
 २९ आचार्य (गुरु) कर्तव्यता विधान वर्णनम्
 
 इसमें आचार्य, ऋत्विक के कर्तव्यों का वर्णन है ।
@@ -1431,8 +1268,6 @@ LADURAM TRIVEDI,
 ३२राजां-ऋत्विक्-अधर्मप्रतिषेधी-उपाध्यायपितृव्यादीनामाचार्यषद्वयवहारवर्णनम्,तेषां पत्न्योऽपि मातृवत् माननीयास्तच्छ्रुतिः
 
 राजा, ऋत्विक, उपाध्याय, चाचा, ताऊ, मामा, नाना,वर और ज्येष्ठ भ्राताइनका सम्मान करना चाहिये । अन्त में पतलाया है कि ये व्रह्मसे विद्या, कर्म, अवस्था, वन्धुत्व, धन इनके मान के स्थान दें ।
-
-
 
 ३३ पुंसां के स्त
 
@@ -1456,8 +1291,6 @@ LADURAM TRIVEDI,
 
 इसमें
 
-
-
 मृठी गादी
 
 देनेवाला, गर्भपाती आदि के पाप वतलायेहैं। जो महापातक के समान पाप होते हैं ये वतलाये हैं।
@@ -1471,8 +1304,6 @@ LADURAM TRIVEDI,
 जा
 
 विभ्रंशकरण—जैसे पशुमें मैथुन करना इत्यादि।
-
-
 
 ३९ जीवहिंसाकरणे (संकरीकरणे) दोषस्तत्प्रायश्चित्त वर्णनम्—
 
@@ -1497,8 +1328,6 @@ LADURAM TRIVEDI,
 ४४ नरकस्थानां यमयातना निर्णयः
 
 पापी आदमियों को नरक जाने के अनन्तर तिर्यग्
-
-
 
 योनि अति पातकोंकी स्थावर और महापातकी की कृमि योनि और जातिवंश को जलचर योनि इत्यादि। जो दूसरे के
 
@@ -1526,8 +1355,6 @@ LADURAM TRIVEDI,
 
 न्ट्रातिष्ट्र उदकष्ट्र मूलकृष्ट्र श्रीफल, पराक, सान्तपन, मद्दामान्तपन, अवि सान्तपन, पर्णकृच्छ्र—इनका विधान आया है।
 
-
-
 ४७ चान्द्रायण व्रतवर्णनम् ग्रासार्थन्न निर्णय वर्णनञ्च
 
 चान्द्रायणके विधान— इसमें यति चान्द्रायण और सामान्य चान्द्रायणादि का वर्णन आया है।
@@ -1546,8 +1373,6 @@ LADURAM TRIVEDI,
 
 व्रतका वर्णन— वन में झोपड़ी बनाये और तीन बार स्नान
 
-
-
 करे और ग्राम ग्राम में भीख मांगे और घास पर सोवे तथा अपने पाप को कहता जाये। रजस्वला आदि गमनं स्त्री पाप आदि नष्ट हो जाते हैं। फल के वृक्षादि, गुल्मादि काटने के पाप भी इस व्रत से नष्ट हो जाते हैं।
 
 ५१ सुरापः सर्वकर्मस्वनर्हःमद्यमांसादि निषेधतच्चसर्व प्रायश्चित्तवर्णनम्
@@ -1561,8 +1386,6 @@ LADURAM TRIVEDI,
 ५३ अगम्यागमने दोपनिरूपणं प्रायश्चित्त वर्णनम्
 
 अगम्यागम्य के विषय में प्रायश्चित्त बतलाया है।
-
-
 
 ५४ यः पापात्मा येन सह युज्यते तत्प्रायश्चित्त वर्णनम्
 
@@ -1583,8 +1406,6 @@ LADURAM TRIVEDI,
 ५८ गृहस्थाश्रमिणस्त्रिविधोऽर्थोपार्जन वर्णनम्
 
 इसमें गृहस्थी के तीन प्रकार के अर्थ बतलाये हैं। शुल्क सबल और असित, जो अपनी वृत्ति से धनोपार्जन करते हैं उन्हें शुल्क, दूसरों को ठगकर अपना व्यापार करते हैं उन्हें
-
-
 
 सबल, तीसरे रिश्वत और सट्टा आदि से रोजगार करनेवाले और व्याज खानेवाले को असिव कहते हैं। जिस तरह जो रुपया आता है उसकी गति वैसी ही होती है।
 
@@ -1610,8 +1431,6 @@ LADURAM TRIVEDI,
 
 ६८ चन्द्रसूर्योपराकर्तव्यतात्वनेक प्रकरणे त्याज्यवर्णनम्
 
-
-
 ६९ स्वस्त्रियामपि गमने निषेध तिथिःशयन विचार वर्णनञ्च
 
 ७० शयनाद्यनेक विबेक वर्णनम्
@@ -1631,8 +1450,6 @@ LADURAM TRIVEDI,
 ७६ अमायां तथान्यदिवसेऽष्टकाश्राद्धविमर्शः श्राद्धकाल वर्णनञ्च
 
 ७७ काम्यश्राद्ध विषय वर्णनम्
-
-
 
 ७८ नक्षत्र विशेषेण श्राद्ध वर्णनम्, सदा रविवारे श्राद्ध निषिद्ध वर्णनञ्च
 
@@ -1660,8 +1477,6 @@ LADURAM TRIVEDI,
 
 अध्याय ८७, ८८ में दान वर्णनउर्ध्वमुखी गाय का दान।
 
-
-
 ६७ संन्यासीनां नियमः, तत्त्वानां विमर्शः, विष्णुध्यान वर्णनम्
 
 संन्यास के नियम— उसके शब्द रूप रस के विषयों से हटने का नियम, इस शरीर को पृथिवी समझो, चेतना को आत्मा समझे, किस संन्यासी को फिस विचार से ध्यान करने का प्रकार, पुरुष शब्द का विषय, ज्ञान क्षेय, गम्य ज्ञान का विचार \।
@@ -1671,8 +1486,6 @@ LADURAM TRIVEDI,
 ६९लक्ष्मी वसुधा सम्वाद वर्णनम्, लक्ष्मी निवासस्थान वर्णनञ्च।
 
 पृथिवी का प्रार्थना और पूजन, लक्ष्मी का निवास— आंवला के वृक्ष, शंख, पद्म में, पवित्रता, प्रियवादिनी खियों में लक्ष्मी का निवास है।
-
-
 
 १०० वसुधां प्रति नारायणस्योक्तिः, एतद्धर्मशास्त्रस्य माहात्म्य वर्णनञ्च
 
@@ -1688,8 +1501,6 @@ LADURAM TRIVEDI,
 
 विवाह प्रकरण (३५-३६)। अशौच शुद्धि (३७-३८) प्रेत-कर्म ( ३६ )। दसवें दिन शुद्धिः, एकादश दिन श्राद्ध कर्म द्वादश दिन शय्या दान ( ४५-४६) विविध दान महात्म्य (५०-६५)। पन्या का विवाद फाल (६६)। विधान और प्रत्येक दान का मद्दालय (६७-६१ )। दान का गृहस्थी की दिनचर्या (६७)।
 
-
-
 ८९ सर्वदेवानाम्मध्येऽग्नेः प्राधान्यत्वं कार्तिके सर्व पाप विमुक्ति वर्णनञ्च
 
 इसमें कार्तिक मास में जितेन्द्रिय इव करना हुआ करता है वह मनुष्य सत्र पापों से छूट जाता है।
@@ -1701,8 +1512,6 @@ LADURAM TRIVEDI,
 ९१ कूप तड़ाग खनन तदुत्सर्गविधानं, नलक्षणञ्च, निर्देश वस्तु दान महत्त्व वर्णनम्।
 
 कूबा और तालाब के दान करनेवाले सब योनियों में स रहता है। ब्राह्मण के घर या रास्ते में वृक्ष लगाने से वह फल उसके घर में पुत्र रूप से उत्पन्न होते हैं। जो उनकी छाया में बैठते हैं ये उनके भित्र और सहायक होते है । कूपदि तडागऔर मन्दिर का जीर्णोद्धार करनेवाले को नये बनाने का फल होता है। तीनों
-
-
 
 ९२ सर्वदानेष्वभय महत्व वर्णनम्।
 
@@ -1726,8 +1535,6 @@ LADURAM TRIVEDI,
 
 तीन में यक्ष करने का विधान और संन्यासाश्रम का वर्णन है।
 
-
-
 १०० वसुधां प्रति नारायणस्योक्तिः, एतद्धर्मशास्त्रस्य माहात्म्य वर्णनञ्च
 
 इस धर्मशास्त्र का महात्म्य।
@@ -1742,8 +1549,6 @@ LADURAM TRIVEDI,
 
 विवाह प्रकरण ( ३५-३६)। अशौच शुद्धि (३७-३८) प्रेतकर्म ( ३६ )। दसवें दिन शुद्धि, एकादश दिन श्राद्ध कर्म, द्वादश दिन शय्या दान ( ४५-४६)। विविध दान महात्म्य (५०-६५)। कन्या का विवाह काल (६६) दान का विधान और प्रत्येक दान का महात्म्य (६७-६१ ) । गृहस्थी की दिनचर्या (६७)।
 
-
-
 आचारव्यवहारयोथ (दिनचर्या) वर्णनम्, वानप्रसथधर्मं, यतिधर्मं, पापानां प्रायश्चित्तं सुरापान प्रायश्चित्तं, गोवध प्रायश्चित्तं जीवहत्या प्रयश्चित्तं, अगम्यागमन, दुष्टानां निष्कृति व०,अस्प्रुप-स्पर्श वर्णनम्, अभक्ष्य भक्ष्ये प्रायश्चित्व वर्णनम्। वानप्रस्थ धर्म (६८-१०१) यति के धर्म (१०२-१०७) महापापों की गणना और पापों का प्रायश्चित, उपपाप, संकीर्ण आदि सब पापों का प्रायश्चित्त (१०८-२००)। दान माहात्म्यमुपवासवतं ब्राह्मणभोजनमहत्त्वं, पापविमुक्त्यर्थंसर्वप्रायश्चित्त ) गायत्री मन्त्र जप प्राणायामस्य च वर्णनम्। उपवासव्रत व्राह्मण भोजन कराने की तिथियां (२०३) गायत्री जप, प्राणायामादि से पापमुक्ति बतलाई गई है (२०४-२२७)।
 
 दक्षस्मृति के प्रधान विषय
@@ -1751,8 +1556,6 @@ LADURAM TRIVEDI,
 १ आश्रमवर्णनम्
 
 वाल्यकाल में भक्ष्याभक्ष्य का दोष नहीं होता है (१-५) उपनयन संस्कार नियमाचरण (६-१४)।
-
-
 
 (१-३)। हाथ पैर पर कितने बार मृत्तिका जल देवें, आगे जल से किस अंग को कितनी चार प्रक्षालन करना (४-१३) \।
 
@@ -1768,20 +1571,13 @@ LADURAM TRIVEDI,
 
 सवप्रायश्चित्तविधानं, अन्त्यजानां द्रव्यमाण्डेपु जलपानं, अज्ञानवशाज्जलपानं, उच्छिष्ट भोजनं नीलवस्त्रधारणं कृत्वा दानादिकरणे प्रत्यवायः, भूमौ नीलवपनाद् द्वादशवर्ष पर्यन्त भृमेरशुद्धिः, गोवधप्रायश्चितरूपनेकप्रकारेण वर्णनम्,  
 
-
-
-
 स्त्री शुद्धिवर्णनं, अन्नभक्षणेन मेदान्तर पापवर्णनम् द्विविवाहितायाः कन्याया अन्नभक्षणेन प्रायश्चित्तम्, दोषयुक्त मनुष्यान्न वर्णनम् राजान्नं शूद्रान्नं च तेज धीर्यहासकथं, यूतकान्नं मतुल्यं, वर्णनमिति।
 
 प्रायश्चित्तका विधान अन्त्यज के परतन में पानी पीने से सान्तपन प्रत यताया है (१-६)। अज्ञान से पानी पीने पर केवल एक दिन का उपवास बताया ६ (७)।
 
-
-
 उच्छिष्टभोजन करने का प्रायश्चित्तबताया है (८-१४) १ नीला वस्त्रपहनकर भोजन दान करने से चान्द्रायण व्रत(१५-२२)। जिस भूमि पर नील की
 
 येती एक बार भी की जाय पद भूमि पारह वर्ष तक शुद्ध नहीं होती (२४)। गाय के मरने पर प्रायश्चित्तहै औषधि या भोजन देने से गाय मरे तो चोथाई प्रायश्चित्तमायति साया है (२५-०८)। गोपाल या स्वामी की असावधानी से शृङ्गादि टूटने से गाय के मरने पर भिन्न भिन्न प्रकार का प्रायश्चित्त वताया है (६६-३४)। रजस्वला स्त्रीकी शुद्धि। (३४-४२)। जिसका अम खाया है उसको उस अत्र के क्षेत्र और पाप भी लगता है (४३-५८)। उन स्थानों की गणना जी का पहनकर
-
-
 
 नहीं जाना चाहिये (५६-६३)। जिसका अन्न नहीं खाना चाहिये उसका खा लेने पर चान्द्रायण (६४-६६)। जो कन्या दुवारा व्याही जाय उसका अन्न खाने से दोष (६६)। जिन- जिन का अन्न आने में दोष हो उसका वर्णन (६७-७२)। राजा के अन्न से तेज का हास, शूद्र के अन्न सेवन से ब्रह्मचर्य का हास और सूतक का अन्न बिलकुल दूषित (७३)।
 
@@ -1796,8 +1592,6 @@ LADURAM TRIVEDI,
 उपपातक के चिह्न पाच जन्म तक सामान्य पापों का तीन जन्म तक। दुष्ट कर्मों से जो रोग होते हैं उनकी उप, देवा- पेन, हवन आदि से शान्ति की जाती है (४)। पदले जन्म के लिये पाप नरकभोरागति के अनन्तर बीमारी के रूप में आते हैं उनका शमन अप दानादि से होता है (५)। महापातकादि से होनेवाले रोग कुष्ट यक्ष्मा,
 
 मणी, अप्तिसार, आदि होते है (६-७)। उपपातक से श्वास, अजीर्ण आदि
-
-
 
 रोग बताये हैं (८) पापों से होनेवाले कम्प, चित्रकुष्ट, पुण्डरीकादि रोग (६)। अति पाप से उत्पन्न होनेवाले रोग अर्श आदि (१०)। इस पाप जन्य रोगों का शमन करने का उपाय दान जप आदि बताये गये हैं (११-३२)।
 
@@ -1817,8 +1611,6 @@ LADURAM TRIVEDI,
 
 पितृ हत्या से जो अचैतन्य रोग होता उसका विधान। 'मातृहत्या से जो अचैतन्य रोग होता है उसका विधान (२०-२५)। बहिन हत्या के पाप का प्रायश्चित्त (२६-३६) स्त्रीघातीएवं राज घाती के प्रायश्रित (३१-४२)। भिन्न भिन पशुओं के वध का भिन्न भिन्न प्रायश्चित (१३-१७)।
 
-
-
 ३ प्रकीर्णरोगाणां प्रायश्चित्तम्
 
 प्रकीर्णरोगों का प्रायश्चित्त (१-६)। सुरापान आदि अभक्ष्यभक्षण का प्रायश्चित्त (७ - १५)। सड़क तोड़नेवाले को रोग और प्रायश्चित गर्भपात करने से यकृत प्लीहा आदि रोग होते हैं उनके प्रायशित, जल धेनु और अश्वत्थ का पूजन और दान करना (१६ - १९)।दुष्टवादी का अंग खण्डित हो जाता है (२०-२१)। सभा में पक्षपात करनेवाले को पक्षाघात रोग, उसका प्रायश्चित्त
@@ -1827,15 +1619,11 @@ LADURAM TRIVEDI,
 
 कुल को नाश करने वाले को प्रमेह की बीमारी और उसकानिदान (१)। ताम्बा, कांसा, मोती आदि चौरी करने से जो रोग होते हैं उसका वर्णन और प्रायश्चित्त (२-७)। दूध दही आदि चीरनेवाले को रोग उसका निदान (८-१०)। मधु चोरी करनेवाले को बीमारी और उसका प्रायश्चित्त (११-१२)। लोहा की चोरी से रोग की उत्पत्ति और उसका प्रायश्चित्त (१४)। तेल की चोरी से रोग और प्रायश्चित्त (१५)। धातुओं के चोरने से रोग और उसका प्रायश्चिच तथा वन, फल, पुस्तक, शाक, शय्या छोटी वस्तु
 
-
-
 चोरने से जो जो बीमारी होती है उनका विस्तार उनके शमनार्थ प्रायश्चित व्रत, दान (१६-१९) \।
 
 ५ अगम्यागमन प्रायश्चित्तम्।
 
 मातृ गमन से कुष्ठ (लिंग नाश) रोग उनके शमन का प्रायश्चित्त और दान का विधान (२६)। लड़की के साथ व्यभिचार करने से रतकुष्ठ उसकी शान्ति (२७) भगिनी के साथ व्यभिचार करने से पीतकुष्ठ (२८)। उपर के पापो का प्रायश्चित्त विधान और दान (२६-३५)। भ्रातृभार्या गमन करने से गति कुष्ट होता है (३६) और वधू के पास गमन करने से कृष्ण कुष्ठ होता है (३७) (तथा चतुर्थ अध्याय में भी मातृगमन भगिनी गमन के रोग और शांति है) उक्त रोगों का प्रायश्चित्त और दान वर्णन है। तपस्विनी के साथ गमन करने से अश्मरी रोग, (पथरी रोग)। राज और राजपुत्र को चोरी से मारना, मित्र में भेद परानेवाले. का वर्णन, गुरु को मारने से रोग और प्रायश्चित्त। छोटेछोटे पापों का वर्णन और प्रायश्चित्त तथा व्रत शान्ति फा वर्णन \। 'पांचवें अध्याय में मातृगमन से लेकर भगिनी आदि अगम्यागमन से नो वुध रोग असाध्य रोग होते हैं उनकी शान्ति का विस्तार, देव प्रतिमा, पूजन, दान, हवनआदि प्रायश्चित्त बताया है।
-
-
 
 ६ अनुचित व्यवहारफलम्।
 
@@ -1850,8 +1638,6 @@ LADURAM TRIVEDI,
 सन्दर्भप्रथम भाग की विषय सूची समाप्त ॥
 
 ॥ शुभम् ॥
-
-
 
 ॥ श्रीगणेशाय नमः ॥
 
@@ -1883,8 +1669,6 @@ LADURAM TRIVEDI,
 
 **सोऽभिध्याय शरीरात् स्वात् सिसृक्षुर्विविधाः प्रजाः।  
 अप एव ससर्जादौ तासु वीर्यमवासृजत्॥८**
-
-
 
 तदण्डमभवद्धैमंसहस्रांशुसमप्रभम्।  
 तस्मिन् जज्ञे स्वयंब्रह्मा सर्वलेाकपितामहः॥९॥
@@ -1919,8 +1703,6 @@ LADURAM TRIVEDI,
 तेषामिदं तु सप्तानां पुरुषाणां महौजसाम्।  
 सूक्ष्माभ्यो मूर्तिमात्राभ्यः संभवत्यव्ययाद्व्ययम्॥१९॥
 
-
-
 लोकानां तु विवृद्व्यर्थंमुखबाहूरुपादतः।  
 ब्राह्मणं क्षत्रियं वैश्यं शूद्रं च निरवर्तयत्॥३१॥
 
@@ -1954,8 +1736,6 @@ LADURAM TRIVEDI,
 एवमेतैरिदं सर्वं मन्नियोगान्महात्मभिः।  
 यथाकर्म तपोयोगात् सृष्टंस्थावरजङ्गमम्॥४१॥
 
-
-
 तस्मिन् स्वपति सुस्थं तु कर्मात्मानः शरीरिणः।  
 कर्मयोनिवर्तन्ते मनश्च ग्लानिमृच्छति॥५३॥
 
@@ -1988,8 +1768,6 @@ LADURAM TRIVEDI,
 
 स्वायम्भुवाद्याः सप्तैते मनवो भूरितेजसः।  
 स्वेस्वेऽन्तरे सर्वमिदमुपद्यापुश्चराचरम्॥६३॥
-
-
 
 मनः सृष्टिं विकुरुते चोद्यमानं सिसृक्षया।  
 आकाशं जायते तस्मात् तस्य शब्दं गुणं स्मृतम्॥७५॥
@@ -2025,8 +1803,6 @@ LADURAM TRIVEDI,
 अन्ये कृतयुगे धर्मास्त्रेतायां द्वापरेऽपरे।  
 अन्ये कलियुगे नृणां युगह्रासानुरूपतः॥८५॥
 
-
-
 ब्राह्मणेषु तु विद्वांसो विद्वत्सु कृतबुद्धयः।  
 कृतबुद्धिषु कर्तारः कर्तृषुब्रह्मवेदिनः॥९७॥
 
@@ -2060,8 +1836,6 @@ LADURAM TRIVEDI,
 अस्मिन् धर्मोऽखिलेनोक्तौगुणदोषौच कर्मणाम्।  
 चतुर्णामपि वर्णानामाचारश्चैव शाश्वतः॥१०७॥
 
-
-
 यथेदमुक्तवाञ्छास्त्रं पुरा पृष्टो मनुर्मया।  
 
 तथेदं यूयमप्यद्यमत्सकाशान्निबोधत॥११९॥
@@ -2093,8 +1867,6 @@ LADURAM TRIVEDI,
 यः कश्चित् कस्यचिद्धर्मो मनुना परिकीर्तितः।  
 स सर्वोऽभिहितो वेदे सर्वज्ञानमयो हि सः॥७॥
 
-
-
 यथेदमुक्तवान् शास्त्रंपुरा पुष्टो मनुर्मया।  
 तथेदं यूयमप्यद्य मतसकाशान्निबोधत॥११९
 
@@ -2124,8 +1896,6 @@ LADURAM TRIVEDI,
 
 यः कश्चित् कस्यचिद्धर्मो मनुना परिकीर्तितः।  
 स सर्वोऽभिहितो वेदे सर्वज्ञानमयो हि सः॥७॥
-
-
 
 कुरुक्षेत्रं च मत्स्याश्च पंचालाः शूरसेनकाः।  
 एषब्रह्मर्षिदेशो वे ब्रह्मावर्तादनन्तरः॥१९॥
@@ -2160,8 +1930,6 @@ LADURAM TRIVEDI,
 प्राङ्नाभिवर्धनात् पुंसो जातकर्म विधीयते।  
 मन्त्रवत् प्राशनं चास्यहिरण्यमधूसर्पिषाम्॥२९॥
 
-
-
 कार्ष्णरौरवास्तानि चर्माणि व्रह्मचारिणः।  
 वसीरन्नानुपूर्व्येण शाणक्षौमाविकानि च॥४१॥
 
@@ -2194,8 +1962,6 @@ LADURAM TRIVEDI,
 
 समाहृत्य तु तद्भैक्षं यावदन्नममायया।  
 निवेद्य गुरवेऽश्नीयादाचम्य प्राङ्मुखः शुचिः॥५१॥
-
-
 
 उद्धृते दक्षिणेपाणावुपचित्युच्यते द्विजः।  
 सव्ये प्राचीन आवीती निवीती कण्ठसज्जने॥६३॥
@@ -2230,8 +1996,6 @@ LADURAM TRIVEDI,
 अध्येष्यमाणं तु गुरुर्नित्यकालमतन्द्रितः।  
 अधीष्व भो इति न व्रूयाद्विरामोऽस्त्विति चारमेत्॥७३
 
-
-
 विधियज्ञाज्जपयज्ञो विशिष्टो दशभिर्गुणैः।  
 उपांशुः स्याच्छतगुणः साहस्रो मानसः स्मृतः॥८५॥
 
@@ -2264,8 +2028,6 @@ LADURAM TRIVEDI,
 
 यश्चैतान्प्राप्नुयात्सर्वान्यश्चैतान्केवलांस्त्यजेत्।  
 प्रापणात्सर्वकामानां परित्यागो विशिष्यते॥९५॥
-
-
 
 यः स्वाध्यायमधीतेऽव्दंविधिना नियतः शुचिः।  
 तस्य नित्यं क्षरत्येष पयो दधि घृतं मधु॥१०७॥
@@ -2300,8 +2062,6 @@ LADURAM TRIVEDI,
 लौकिकं वैदिकं वापि तथाध्यात्मिकमेव च।  
 आददीत यतो ज्ञानं तं पूर्वमभिवादयेत् ॥११७॥
 
-
-
 परपत्नीतु या श्री स्यादसम्बन्धा च योनितः।  
 तां व्रुयाद्भवतीत्येवंसुभगे भगिनीति च॥१२९॥
 
@@ -2334,8 +2094,6 @@ LADURAM TRIVEDI,
 
 तेषान्तु समवेतानां मान्यौ स्नातकपार्थिवौ।  
 राजसातयोश्चैव जातको नृपमानभाक्॥१३९॥
-
-
 
 अध्यापयामास पितृशिशुराङ्गिरसः कविः।  
 पुत्रका इति होवाच ज्ञानेन परिगृह्यतान्॥१५१॥
@@ -2370,8 +2128,6 @@ LADURAM TRIVEDI,
 नारुन्तुदः स्यादार्तोऽपि न परद्रोहकर्मधीः।  
 ययात्योद्विजते वाचा नाऽलोक्यां तामुदीरयेत्॥१६१॥
 
-
-
 सम्मानाद् व्राह्मणोनित्यमुद्विजेत विषादिव।  
 अमृतस्येच चाकाङ्क्षेदवमानस्य सर्वदा॥१६२॥
 
@@ -2404,8 +2160,6 @@ LADURAM TRIVEDI,
 
 नाभिव्याहारयेद्व्रह्म स्वधा निनयनादृते।  
 शूद्रेण हि समस्तावद्यावद्वेदे न जायते॥१७२॥
-
-
 
 कृतोपनयनस्यास्य व्रतादेशनमिष्यते।  
 व्रह्मणो ग्रहणञ्चैव क्रमेण विधिपूर्वकम् ॥१७३॥
@@ -2441,8 +2195,6 @@ LADURAM TRIVEDI,
 वेदयज्ञैरहीनानां प्रशस्तानां स्वकर्मसु।  
 ब्रह्मचार्याहरेद्र्भैक्षं गृहेभ्यः प्रयतोऽन्यहम् ॥१८३
 
-
-
 गुरोः कुले न भिक्षेत न ज्ञातिकुलबन्धुषु।  
 अलाभे त्वन्यगेहानां पूर्वं पूर्वं विवर्जयेत॥१८४॥
 
@@ -2475,8 +2227,6 @@ LADURAM TRIVEDI,
 
 हीनान्नस्त्रवेपः स्यात् सर्वदा गुरुसन्निधौ।  
 उत्तिष्ठेत् प्रथमं चास्य चरमं चैव संविशेत्॥१९४॥
-
-
 
 प्रतिश्रवणसम्भाषे शयानो न समाचरेत्।  
 नासीनो न च भुञ्जानो न तिष्ठन् न पराङ्मुखः॥१९५॥
@@ -2511,8 +2261,6 @@ LADURAM TRIVEDI,
 गुरोर्गुरौसन्निहिते गुरुवद्वृत्तिमाचरेत्।  
 न चानिसृष्टो गुरुणा स्वान्गुरूनभिवादयेत् ॥२०५॥
 
-
-
 विद्यागुरुष्वेतदेव नित्या वृत्तिः स्वयोनिषु।  
 प्रतियेधत्सु चाधर्मान्हितं चोपदिशतस्वपि॥२०६॥
 
@@ -2545,8 +2293,6 @@ LADURAM TRIVEDI,
 
 कामं तु गुरुपत्नीनां युवतीनां युवा भुवि।  
 विधिवद्वन्दनं कुर्यादसाबहमिति ब्रुवन्॥२१६॥
-
-
 
 विप्रोष्य पादप्रहणमन्वहं चाभिवादनम्।  
 गुरुदारेषु कुर्वीत सतां धर्ममनुस्मरन्॥२१७॥
@@ -2581,8 +2327,6 @@ LADURAM TRIVEDI,
 यं मातापितरौ क्लेशं सहेते सम्भवे नृणाम्।  
 न तस्य निष्कृतिः शक्याकर्तुं वर्षशतैरपि॥२२७॥
 
-
-
 तयोर्नित्यंप्रियं कुर्यादाचार्यस्य च सर्वदा।  
 तेष्वेव त्रिषु तुष्टेषु तपः सर्वंसमाप्यते॥२२८॥
 
@@ -2615,8 +2359,6 @@ LADURAM TRIVEDI,
 
 श्रद्दधानः शुभां विद्यामाददीतावरादपि।  
 अन्त्यादपि परं धर्मं स्त्रीरत्नं दुष्कुलादपि॥२३८॥
-
-
 
 विषादप्यमृतं ग्राह्यंवालादपि सुभाषितम्।  
 अमित्रादपि सद्वृत्तममेध्यादपि काञ्चनम्॥२३९॥
@@ -2653,8 +2395,6 @@ LADURAM TRIVEDI,
 
 इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां मनुस्मृत्यां द्वितीयोऽध्यायः॥
 
-
-
 षट्त्रिंशदाब्दिकं चर्यंगुरौ त्रैवैदिकं व्रतम।  
 तदर्धिकं पादिकं या ग्रहणान्तिकमेव वा॥१॥
 
@@ -2684,8 +2424,6 @@ LADURAM TRIVEDI,
 
 अव्यङ्गाङ्गीं सौम्यनाम्नीं हंसवारणगामिनीम्।  
 तनुलोमकेशदशनां मृद्वङ्गीमुद्वहेतस्त्रियम्॥१०॥
-
-
 
 यस्यास्तु न भवेद्भ्राता न विज्ञायेत वा पिता।  
 नोपयच्छेत तांप्राज्ञः पुत्रिकाधर्मशङ्कया॥११॥
@@ -2721,8 +2459,6 @@ LADURAM TRIVEDI,
 ब्राह्मोदैवस्तथैवार्षः प्राजापत्यस्तथाऽऽसुरः।  
 गान्धर्वो राक्षसश्चैव पैशाचश्चाष्टमोऽधमः॥२१॥
 
-
-
 यो यस्य धर्म्यो वर्णस्य गुणदोषाौच यस्य यो।  
 तद्वःसर्वं प्रवक्ष्यामि प्रसवे च गुणागुणान्॥२२॥
 
@@ -2755,8 +2491,6 @@ LADURAM TRIVEDI,
 
 इच्छयाऽन्योन्यसंयोगः कन्यायाश्च वरस्य च।  
 गान्धर्वः स तु विज्ञेयोमैथुन्यः कामसम्भवः॥ ३२॥
-
-
 
 हत्वा छित्वा च भित्वा च क्रोशन्तीं रुदतींगृहात्।  
 प्रसह्य कन्याहरणं राक्षसो विधिरुच्यते॥३३॥
@@ -2791,8 +2525,6 @@ LADURAM TRIVEDI,
 पाणिग्रहणसंस्कारः सवर्णासूपदिश्यते।  
 असवर्णास्वयं ज्ञेयो विधिरुद्वाहकर्मणि॥४३॥
 
-
-
 शरः क्षत्रियया ग्राह्यः प्रतीदोवैश्यकन्यया।  
 वसनस्यदशा ग्राह्या शूद्रयोतकृष्टवेदने॥४४॥
 
@@ -2826,8 +2558,6 @@ LADURAM TRIVEDI,
 यासां नाददते शुल्कं ज्ञातयो न स विक्रयः।  
 अर्हणं तत कुमारीणामानृशंस्या केवलम्॥५४॥
 
-
-
 पितृभिर्भ्रातृभिश्चैताः पतिभिर्देवरस्तथा।  
 पूज्या भूषयितव्याश्च बहुकल्याणमीप्सुभिः॥५५॥
 
@@ -2860,8 +2590,6 @@ LADURAM TRIVEDI,
 
 अयाज्ययाजनेश्चैव नास्तिक्येनच कर्मणाम्।  
 कुलान्याशु विनश्यन्ति यानि हीनानि मन्त्रतः॥६५॥
-
-
 
 मन्त्रस्तु समृद्धानि कुलान्यधनान्यपि।  
 
@@ -2907,8 +2635,6 @@ LADURAM TRIVEDI,
 
 आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः॥७६॥
 
-
-
 यथा वायुं समाश्रित्य वर्तन्ते सर्वजन्तवः।  
 
 तथा गृहस्थमाश्रित्य वर्तन्ते सर्व आश्रमाः॥७७॥
@@ -2943,8 +2669,6 @@ LADURAM TRIVEDI,
 एवं सम्यग्घविर्हुत्वासर्वदिक्षु प्रदक्षिणम्।  
 इन्द्रान्तकाप्पतीन्दुभ्यः सानुगेभ्यो बलिं हरेत्॥८७॥
 
-
-
 मरुद्भ्यइति तु द्वारि क्षिपेदपस्वद्भ्य इत्यपि।  
 वनस्पतिभ्य इत्येवं मुसलोलूखले हरेत्॥८८॥
 
@@ -2978,8 +2702,6 @@ LADURAM TRIVEDI,
 विद्यातपःसमृद्धेषु हुतं विप्रमुखाग्निषु।  
 निस्तारयतिः दुर्गाच्च महतश्चैव किल्विषात॥९८॥
 
-
-
 संप्राप्तायत्वथितये प्रदद्यादासनोदके।  
 अन्नं चैव यथाशक्ति संस्कृत्य विधिपूर्वकम्॥९९॥
 
@@ -3012,8 +2734,6 @@ LADURAM TRIVEDI,
 
 न भोजनार्थं स्वे विप्रः कुलगोत्रे निवेदयेत्।  
 भोजनार्थं हि ते शंसन्यान्ताशीत्युच्यते बुधैः॥१०९॥
-
-
 
 न ब्राह्मणस्य त्वतिथिर्गृहे राजन्य उच्यते।  
 वैश्यशूद्रौ सखा चैव ज्ञातयो गुरुरेव च ॥ ११०॥
@@ -3057,8 +2777,6 @@ LADURAM TRIVEDI,
 
 मधुपर्केण संपूज्यौ न त्वयज्ञ इति स्थितिः॥१२०॥
 
-
-
 सायंत्वन्नत्य सिद्धस्य पत्न्यमन्त्रैवलिं हरेत्।  
 वैश्वदेवं हि नामैतत् सायं प्रातर्विधीयते॥१२१॥
 
@@ -3092,8 +2810,6 @@ LADURAM TRIVEDI,
 सहस्रं हि सहस्राणामनृचां यत्र भुञ्जते।  
 
 एकस्तान् मन्त्रवित् प्रीतः सर्वानर्हति धर्मतः॥१३१॥
-
-
 
 ज्ञानोतकृष्टाय देयानि कव्यानि च हवींषि च।  
 न हस्तावसृगदिग्धौ रूधि
@@ -3139,8 +2855,6 @@ LADURAM TRIVEDI,
 
 तथाऽनृचे हविर्दत्त्वा न दाता लभते फलम्॥१४२॥
 
-
-
 दातृृन् प्रतिग्रहीतृृंश्च कुरुते फलभागिनः।  
 विदुषे दक्षिणां दत्त्वा विधिवत् प्रेत्य चेह च॥१४३॥
 
@@ -3174,8 +2888,6 @@ LADURAM TRIVEDI,
 प्रेष्योग्रामस्य राज्ञश्चकुनखी श्यावदन्तकः।  
 प्रतिरोद्धा गुरोश्चैव त्यक्ताग्निर्वार्धुषिस्तथा॥१५३॥
 
-
-
 यक्ष्मी च पशुपालश्च परिवेता निराकृतिः।  
 ब्रह्मद्विट् परिवित्तिश्च गणाभ्यन्तर एवच॥१५४
 
@@ -3208,8 +2920,6 @@ LADURAM TRIVEDI,
 
 श्वक्रीडीश्येनज़ीवो च कन्यादूषक एव च।  
 हिंस्रो वृषलवृत्तिश्च गणानां चैव याजकः॥१६४
-
-
 
 आचारहीनः क्लीवश्च नित्यं याचनकस्तथा।  
 कृषिजीवी श्लीपदी च सद्भिर्निन्दित एव च॥१६५
@@ -3245,8 +2955,6 @@ LADURAM TRIVEDI,
 तौ तु जातौ परक्षेत्रे प्राणिनौ प्रेत्य चेह च।  
 दत्तानि हव्यकव्यानि नाशयेते प्रदायिनाम् ॥१७५
 
-
-
 अपाङ्क्त्योयावतः पंङक्त्यान्न् भुञ्जानाननुपश्यति।  
 तावतांन फलं तत्र दाताप्राप्नोति बालिशः॥१७६॥
 
@@ -3281,8 +2989,6 @@ LADURAM TRIVEDI,
 वेदार्थवित् प्रवक्ता च ब्रह्मचारी सहस्रदः।  
 शतायुश्चैव विज्ञेया ब्राह्मणाः पंक्तिपावनाः॥१८६॥
 
-
-
 **पूर्वेद्युरपरेद्युर्वा श्राद्धकर्मण्युपस्थिते।  
 निमन्त्रयीत त्र्यवरान्सम्यग्विप्रान्यथोदितान्॥१८७॥**
 
@@ -3315,8 +3021,6 @@ LADURAM TRIVEDI,
 
 **सोमपानाम विप्राणांक्षत्रियाणां हविर्भुजः।6  
 वैश्यानामज्यपानाम शूद्राणां सु सुकालिनः॥१९७॥**
-
-
 
 सोमपास्तु कवेः पुत्रा हविष्मन्तोऽङ्गिरः सुताः।  
 पुलस्त्यस्याज्यापाःपुत्रा वसिष्ठस्यसुकालिनः॥१९८॥
@@ -3351,8 +3055,6 @@ LADURAM TRIVEDI,
 आसनेषूपक्लृप्तेषु वर्हिष्मत्सु पृथक् पृथक्।  
 उपस्पृष्टोदकान्सम्यग्विप्रांस्तानुपवेशयेत्॥२०८॥
 
-
-
 उपवेश्य तु तान्विप्रानासनेष्वजुगुप्सितान्।  
 गन्धमाल्यैः सुरभिभिरर्चयेद्देवपूर्वकम्॥२०९॥
 
@@ -3385,8 +3087,6 @@ LADURAM TRIVEDI,
 
 पिण्डेभ्यस्त्वल्पिकां मात्रां समादायानुपूर्वशः।  
 तेनैव विप्रानासीनान्विधिवत्पूर्वमाशयेत्॥२१९॥
-
-
 
 ध्रियमाणे तु पितरि पूर्वेषामेव निर्वपेत्।  
 विप्रावद्वापि तंश्राद्धं स्वकं पितरमाशयेत्॥२२०॥
@@ -3421,8 +3121,6 @@ LADURAM TRIVEDI,
 अस्त्रंगमयति प्रेतान् कोपोऽरीननृतं शुनः।  
 पादस्पर्शस्तु रक्षांसि दुष्कृतीनवधूननम्॥२३०॥
 
-
-
 यद्यद्रोचेत विप्रेभ्यस्तत्तद्दद्यादमत्सरः।  
 ब्रह्मोद्याश्च कथाः कुर्यात्पितृृणामेतदीप्सितम्॥२३१॥
 
@@ -3455,8 +3153,6 @@ LADURAM TRIVEDI,
 
 घ्राणेन शूकरो हन्ति पक्षपातेन कुक्कुटः।  
 श्वा तु दृष्टिनिपातेन स्पर्शेनावरवर्णजः॥२४१॥
-
-
 
 खञ्जो या यदि वा काणोदातुः प्रेष्योऽपि वा भवेत्।  
 हीनातिरिक्तगात्रो वातमप्यपनयेत्पुनः॥२४२॥
@@ -3491,8 +3187,6 @@ LADURAM TRIVEDI,
 स्वधाऽस्त्वित्येव तं व्रूयुर्ब्राह्मणास्तदनन्तरम्।  
 स्वधाकारः पराह्याशीः सर्वेषु पितृकर्मसु॥२५२॥
 
-
-
 ततो भुक्तवतां तेषामन्नशेषं निवेदयेत्।  
 यथा व्रूयुस्तथाकुर्यादनुज्ञातस्ततो द्विजैः॥२५३॥
 
@@ -3525,8 +3219,6 @@ LADURAM TRIVEDI,
 
 आयुष्मन्तंसुतं सूतेयशोमेधासमन्वितम्।  
 धनवन्तं प्रजावन्तं सात्विकंधार्मिकं तथा॥२६३॥
-
-
 
 प्रक्षाल्य हस्तावाचम्य ज्ञातिप्रायं प्रकल्पयेत्।  
 ज्ञातिभ्यः सत्कृतं दत्त्वाबान्धवानपि भोजयेत्॥२६४॥
@@ -3561,8 +3253,6 @@ LADURAM TRIVEDI,
 अपि नः स कुले भूयाद्यौनो दद्यात्त्रयोदशीम्।  
 पायसं मधुसर्पिर्भ्यां प्राक्छायेकुञ्जरस्य च॥२७४॥
 
-
-
 यद्यद्ददातिविधिवत् सम्यक् श्रद्धासमन्वितः।  
 तत्तत् पितॄणां भवति परत्रानन्तमक्षयम्॥२७५॥
 
@@ -3596,8 +3286,6 @@ LADURAM TRIVEDI,
 विघसाशीभवेन्नित्यं नित्यं वामृतभोजनः।  
 वियसो भुक्तशेषं तु यज्ञशेषंतथामृतम्॥२८५॥
 
-
-
 एतद्वोऽभिहितं सर्वंविधानं पाञ्चयज्ञिकम्।  
 द्विजातिमुख्यवृत्तीनांविधानं भूयतामिति॥२८६॥
 
@@ -3629,8 +3317,6 @@ LADURAM TRIVEDI,
 
 कुसूलधान्यको वा स्यात् कुम्भीधान्यकएव वा।  
 त्र्यहैहिको वाऽपि भवेदश्वस्तनिक एव वा॥७॥
-
-
 
 **चर्तुणामपि चैतेषां द्विजानांगृहमेधिनाम्।  
 ज्यायान्परः परो ज्ञेयोधर्मतो लोकजित्तमः॥८॥**
@@ -3665,8 +3351,6 @@ LADURAM TRIVEDI,
 **वयसः कर्मणोऽर्थस्य श्रुतस्याभिजनस्य च।  
 वेषवाग्बुद्धिसारूप्यमाचरन्विचरोदिह॥१८॥**
 
-
-
 बुद्धिवृद्धिकराण्याशु धन्यानि च हितानि च।  
 नित्यं शास्त्राण्यवेक्षेतनिगमांश्चैव वैदिकान्॥१९॥
 
@@ -3699,8 +3383,6 @@ LADURAM TRIVEDI,
 
 आसनाशनशय्याभिरद्भिर्मृलफलेन वा।  
 नास्य कश्चिद्वसेद्गेहेशक्तितोऽनर्चितोऽतिथिः॥२६॥
-
-
 
 पापण्डिनोविकर्मस्थान्वैडालव्रतिकाञ्छठान्।  
 हैतुकान्वकवृत्तींश्च वाङ्मात्रेणापि नार्चयेत्॥३०॥
@@ -3735,8 +3417,6 @@ LADURAM TRIVEDI,
 नोपगच्छेत्प्रमत्तोऽपि स्त्रियमार्तवदर्शने।  
 समानशयने चैव न शयीत तया सह॥४०॥
 
-
-
 रजसाऽभिप्लुतांनारी नरस्यह्युपगच्छतः।  
 प्रज्ञा तेजी वलं चक्षुरायुश्चैव प्रहीयते॥४१॥
 
@@ -3769,8 +3449,6 @@ LADURAM TRIVEDI,
 
 छायायामन्धकारे वा रात्रावहनि वा द्विजः।  
 यथासुखमुखः कुर्यात्प्राणवाधाभयेषु च॥५१॥
-
-
 
 प्रत्यग्निं प्रतिसूर्यंच प्रतिसोमोदकद्विजम्।  
 प्रतिगां प्रतिवातं च प्रज्ञा नश्यति मेहतः॥५२॥
@@ -3805,8 +3483,6 @@ LADURAM TRIVEDI,
 न भुञ्जीतोद्धृतस्नेहंनातिसौहित्यमाचरेत्।  
 नातिप्रगे नाति सायं न सायं प्रातराशितः॥६२॥
 
-
-
 न कुर्वीत वृथाचेष्टांवार्यञ्जलिना पिवेत्।  
 नोत्सङ्गे भक्षयेद्भक्ष्यान्नजातुस्यात् कुतूहली॥६३॥
 
@@ -3839,8 +3515,6 @@ LADURAM TRIVEDI,
 
 अद्वारेण च नातीयाद्ग्रामं वा वेश्म वा वृतम्।  
 रात्रौ च वृक्षमूलानि दूरतः परिवर्जयेत्॥७३॥
-
-
 
 नाक्षैर्दीव्येत्कदाचित्तु स्वयं नोपानहौहरेत्।  
 शयनस्थो न भुञ्जीत न पाणिस्थं न चासने॥७४॥
@@ -3875,8 +3549,6 @@ LADURAM TRIVEDI,
 न राज्ञः प्रतिगृह्णीयादराजन्यप्रसूतितः।  
 सूनाचक्रध्वजवतां वैशेनैव च जीवताम्॥८४॥
 
-
-
 दशसूनासमं चक्रं दशचक्रसमो ध्वजः।  
 दशध्वजसमोवेशोदशवेशसमोनृपः॥८५॥
 
@@ -3909,8 +3581,6 @@ LADURAM TRIVEDI,
 
 श्रावण्या प्रौष्ठपद्यां वाप्युऽपाकृत्य यथाविधि।  
 युक्तश्छान्दांस्यधीयीत मासान्विप्रोऽर्धपञ्चमान्॥९५॥
-
-
 
 पुष्ये तु च्छन्दसांकुर्याद्वहिरुत्सर्जनं द्विजः।  
 माघशुक्लस्यवाप्राप्ते पूर्वाह्णे प्रथमेऽहनि॥६६॥
@@ -3945,8 +3615,6 @@ LADURAM TRIVEDI,
 प्रादुष्कृतेष्वग्निषुतु विद्युत्स्तनितनिःस्वने।  
 सज्योतिः स्यादनध्यायः शेषे रात्रौ यथा दिवा॥१०६॥
 
-
-
 नित्यानध्याय एव स्याद्ग्रामेषु नगरेषु च।  
 धर्मनैपुण्यकामानां पूतगन्धे च सर्वशः॥१०७॥
 
@@ -3979,8 +3647,6 @@ LADURAM TRIVEDI,
 
 प्राणि या यदि वाऽप्राणि यत्किंचिच्छाद्धिकं भवेत्।  
 तदालभ्याप्यनध्यायः पाण्यास्योहि द्विजः स्मृतः॥११७॥
-
-
 
 चौरेरुपप्लुते ग्रामे संभ्रमे चाग्निकारिते।  
 आकालिकमनध्यायं विद्यात् सर्वाद्भुतेषु च॥११८॥
@@ -4015,8 +3681,6 @@ LADURAM TRIVEDI,
 अमावास्यामष्टमीं च पौर्णमासीं चतुर्दशीम्।  
 ब्रह्मचारी भवेन्नित्यमप्यृतौ स्नातको द्विजः॥१२८॥
 
-
-
 न स्नानमाचरेद्भुक्त्वानातुरो न महानिशि।  
 न वासोभिःसहाजस्रंनाविज्ञाते जलाशये॥१२९॥
 
@@ -4049,8 +3713,6 @@ LADURAM TRIVEDI,
 
 भद्रं भद्रमिति ब्रूयाद्भद्रामित्येव या वदेत्।  
 शुष्कवैरंविवादं च न कुर्यात्केनचित् सह॥१३९॥
-
-
 
 नातिकल्यं नातिसायं नातिमध्यं दिने स्थिते।  
 नाज्ञातेन समं गच्छेन्नैकोन वृषलैः सह॥१४०॥
@@ -4085,8 +3747,6 @@ LADURAM TRIVEDI,
 सावित्रान् शान्तिहोमांश्चकुर्यात् पर्वसुनित्यशः।  
 पितृृंश्चैवाष्टकास्वर्चेन्नित्यमन्वष्टकासु॥१५०॥
 
-
-
 **दूरादावसथान्मूत्रं दूरात् पादावसेचनम्।  
 उच्छिष्टान्ननिषेकं च दूरादेव समाचरेत्॥१५१॥**
 
@@ -4119,8 +3779,6 @@ LADURAM TRIVEDI,
 
 **यत्कर्म कुर्वतोऽस्य स्यात् परितोषोऽन्तरात्मनः।  
 तद् प्रयत्नेनकुर्वीत विपरीतंतु वर्जयेत्॥१६१॥**
-
-
 
 आचार्यं च प्रवक्तारं पितरं मातरं गुरुम्।  
 न हिंस्याद् ब्राह्मणान् गांश्चसर्वांश्चैव तपस्विनः॥१६२॥
@@ -4155,8 +3813,6 @@ LADURAM TRIVEDI,
 नाधर्मश्चरितो लोके सद्यः फलति गौरिव।  
 शनैरावर्त्यमानस्तु कर्तुर्मूलानि कृन्तति॥१७२॥
 
-
-
 यदि नात्मनि पुत्रेषु न चेत्पुत्रेषु नप्तृषु।  
 न त्वेव तु कृतोऽधर्मः कर्तुर्भवति निष्फलः॥१७३॥
 
@@ -4189,8 +3845,6 @@ LADURAM TRIVEDI,
 
 जामयोऽप्सरसां लोके वैश्वदेवस्य वान्धवाः।  
 सम्बन्धिनो ह्यषांलोके पृथिव्यांमातृमातुलौ॥१८३॥
-
-
 
 आकाशेशास्तु विज्ञेया बालवृद्धकृशातुराः।  
 भ्राता ज्येष्ठः समः पित्रा भार्या पुत्रः स्वका तनुः॥१८४॥
@@ -4225,8 +3879,6 @@ LADURAM TRIVEDI,
 यथा प्लवेनौपलेन निमज्जत्युदके तरन्।  
 तथा निमज्जतोऽधस्तादज्ञौदातृप्रतीच्छकौ॥१९४॥
 
-
-
 धर्मध्वजी सदालुब्धश्छाद्मिको लोकदम्भकः।  
 वैड़ालव्रतिको ज्ञेयो हिंस्रःसर्वाभिसन्धकः॥१९५॥
 
@@ -4259,8 +3911,6 @@ LADURAM TRIVEDI,
 
 नाश्रोत्रियतते यज्ञेग्रामयाजिकृतेतथा।  
 स्त्रिया क्लीवेन च हुते भुञ्जीत ब्राह्मणःक्वचित्‌॥२०५॥
-
-
 
 अश्लीक(ल)मेतत्साधूनां यत्र जुह्वत्यमीहविः।  
 प्रतीपमेतद्देवानां तस्मात्तत्परिवर्जयेत्॥२०६॥
@@ -4295,8 +3945,6 @@ LADURAM TRIVEDI,
 श्ववतां शौण्डिकानां च चैलनिर्णेजकस्य च।  
 रञ्ज(रज)कस्य नृशंसस्य यस्य चोपपतिर्गृहे॥२१६॥
 
-
-
 मृष्यन्ति ये चोपपतिं स्त्रीजितानां च सर्वशः।  
 अनिर्दशं च प्रेतान्नमतुष्टिकरमेव च॥२१७॥
 
@@ -4330,8 +3978,6 @@ LADURAM TRIVEDI,
 दानधर्मं निषेवेत नित्यमैष्टिकपौर्तिकम्।  
 परितुष्टेनभावेन पात्रमासाद्य शक्तितः॥२२७॥
 
-
-
 **नामुत्र हि सहायार्थं पिता माता च तिष्ठतः।  
 न पुत्रदारा नज्ञातिर्धर्मस्तिष्ठति केवलः॥२३९॥**
 
@@ -4364,8 +4010,6 @@ LADURAM TRIVEDI,
 
 **नाश्नन्ति पितरस्तस्य दश वर्षाणिपञ्चच।  
 न च हव्यंवहत्यग्निर्यस्तामभ्यवमन्यते॥२४९॥**
-
-
 
 शय्यां गृहान्कुशान्गन्धानपः पुष्पं मणीन्दधि।  
 धाना मत्स्यान्पयोमांसं शाकं चैव न निर्णुदेत्॥२५०॥
@@ -4402,8 +4046,6 @@ LADURAM TRIVEDI,
 
 **इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां मनुस्मृत्यां चतुर्थोऽध्यायः॥**
 
-
-
 **पञ्चमोऽध्यायः।**
 
 तत्रादौ- अभक्ष्यवर्णनमाह—
@@ -4438,8 +4080,6 @@ LADURAM TRIVEDI,
 दधि भक्ष्यं च शुक्तेषु सर्वं च दधिसम्भवम्।  
 यानि चैवाभिषूयन्ते पुष्पमूलफलैः शुभैः॥१०॥
 
-
-
 क्रव्यादः शकुनीन् सर्वांस्तथा ग्रामनिवासिनः।  
 अनिर्दिष्टांश्चैकशफांष्टिट्टिभं च विवर्जयेत्॥११॥
 
@@ -4472,8 +4112,6 @@ LADURAM TRIVEDI,
 
 संवत्सरस्यैकमपि चरेत्कृच्छ्रं द्विजोत्तमः।  
 अज्ञातभुक्तशुद्ध्यर्थं ज्ञातस्य तु विशेषतः॥२१॥
-
-
 
 यज्ञार्थंब्राह्मणैर्वध्याः प्रशस्तामृगपक्षिणः।  
 भृत्यानांचैव वृत्यर्थमगस्त्यो ह्यचरत्पुरा॥२२॥
@@ -4508,8 +4146,6 @@ LADURAM TRIVEDI,
 क्रीत्वा स्वयं वाप्युत्पाद्य परोपकृतमेव वा।  
 देवान् पितृृंश्चार्चयित्वा खादन्मांसं न दुष्यति॥३२॥
 
-
-
 नाद्यादविधिना मांसं विधिज्ञोऽनापदि द्विजः।  
 जग्ध्वा ह्यविधिना मांसं प्रेत्य(प्रेतः) तैरद्यतेऽवशः॥३३॥
 
@@ -4542,8 +4178,6 @@ LADURAM TRIVEDI,
 
 गृहे गुरावरण्ये वानिवसन्नात्मवान्द्विजः।  
 नावेदविहितां हिंसामापद्यपि समाचरेत्॥४३॥
-
-
 
 **या वेदविदिता हिंसा नियताऽस्मिंश्चराचरे।  
 अहिंसामेव तांविद्याद्वेदाद्धर्मोहि निर्बभौ॥४४॥**
@@ -4578,8 +4212,6 @@ LADURAM TRIVEDI,
 **फलमूलाशनैर्मेध्यैर्मुन्यन्नानां च भोजनैः।  
 न तत्फलमवाप्नोतियन्मांसपरिवर्जनात्॥५४॥**
 
-
-
 **मांसं भक्षयिताऽमुत्र यस्य मांसमिहाद्म्यहम्।  
 एतन्मांसस्य मांसत्वं प्रवदन्ति मनीषिणः॥५५॥**
 
@@ -4612,8 +4244,6 @@ LADURAM TRIVEDI,
 
 **गुरोः प्रेतस्य शिष्यस्तु पितृमेधं समाचरन्।  
 प्रेताहारैःसमं तत्र दशरात्रेण शुध्यति॥६५॥**
-
-
 
 रात्रिभिर्मासतुल्याभिर्गर्भस्रावेविशुध्यति।  
 रजस्युपरते साध्वीस्नानेन स्त्रीरजस्वला॥६६॥
@@ -4649,8 +4279,6 @@ LADURAM TRIVEDI,
 
 संवत्सरे व्यतीते तु स्पृष्ट्वैवापोविशुध्यति॥७६॥
 
-
-
 निर्दशं ज्ञातिमरणं श्रुत्वा पुत्रस्य जन्म च।  
 सवासा जलमाप्लुत्यशुद्धो भवति मानवः॥७७॥
 
@@ -4683,8 +4311,6 @@ LADURAM TRIVEDI,
 
 नारं स्पृष्वाऽस्थिसस्नेहं स्नात्वा विप्रो विशुध्यति।  
 आचम्येवतु निःस्नेहं गामालभ्यार्कमीक्ष्य वा॥८४॥
-
-
 
 आदिष्टी नोदकंकुर्यादाव्रतस्यसमापनात्।  
 समाप्ते तूदकं कृत्वा त्रिरात्रेणैव शुध्यति॥८८॥
@@ -4719,8 +4345,6 @@ LADURAM TRIVEDI,
 उद्यतैराहवे शस्त्रैः क्षत्रधर्महतस्य च।  
 सद्यः सन्तिष्ठतेयज्ञस्तथाऽऽशौचमिति स्थितिः॥९८॥
 
-
-
 विप्रः शुध्यत्यपः स्पृष्ट्वा क्षत्रियो वाहनायुधम्।  
 वैश्यः प्रतोदं रश्मीन्वा यष्टिं शूद्रः कृतक्रियः॥९९॥
 
@@ -4753,8 +4377,6 @@ LADURAM TRIVEDI,
 
 अद्भिर्गात्राणि शुध्यन्ति मनः सत्येन शुध्यति।  
 विद्यातपोभ्यां भूतात्मा बुद्धिर्ज्ञानेन शुध्यति॥१०९॥
-
-
 
 एष शौचस्य वः प्रोक्तःनः शरीरस्य विनिर्णयः।  
 नानाविधानां द्रव्याणांशुद्धेःशृणुत निर्णयम्॥११०॥
@@ -4789,8 +4411,6 @@ LADURAM TRIVEDI,
 कौशेयाविकयोरूपैःकुतपानामरिष्टकैः।  
 श्रीफलैरंशुपट्टानां क्षौमाणां गौरसर्षपैः॥१२०॥
 
-
-
 क्षौमवच्छङ्खशृङ्गाणामस्थिदन्तमयस्य च।  
 शुद्धिर्विजानता कार्या गोमूत्रेणोदकेन वा॥१२१॥
 
@@ -4823,8 +4443,6 @@ LADURAM TRIVEDI,
 
 श्वभिर्हतस्य यन्मांसं शुचि तन्मनुरव्रवीत्।  
 क्रव्याद्भिश्चहतस्यान्यैश्चण्डालाद्यैश्च दस्युभिः॥१३१॥
-
-
 
 ऊर्ध्वं नाभेर्यानि खानि तानि मेध्यानि सर्वशः।  
 यान्यधस्तान्यमेध्यानि देहाच्चैव मलाश्च्युताः॥१३२॥
@@ -4859,8 +4477,6 @@ LADURAM TRIVEDI,
 स्पृशन्ति विन्दवः पादौ य आचामयतः परान्।  
 भौमिकैस्तेसमा ज्ञेया न तैराप्रयतो भवेत्॥१४२॥
 
-
-
 उच्छिष्टेन तु संस्पृष्टो द्रव्यहस्तः कथंचन।  
 अनिधायैव तद्द्रव्यमाचान्तः शुचितामियात्॥१४३॥
 
@@ -4893,8 +4509,6 @@ LADURAM TRIVEDI,
 
 अनृतावृतुकाले चमन्त्रसंस्कारकृत्पतिः।  
 मुखस्य नित्यं दातेह परलोके च योषितः॥१५३॥
-
-
 
 विशीलः कामवृत्तो वा गुणैर्वापरिवर्जितः।  
 उपचर्यः स्त्रिया साध्व्यासततं देववत्पतिः॥१५४॥
@@ -4929,8 +4543,6 @@ LADURAM TRIVEDI,
 व्यभिचारात्तु भर्तुःस्त्री लोके प्राप्नोति निन्द्यताम्।  
 शृगालयोनिं प्राप्नोति पापरोगश्च पीड्यते॥१६४॥
 
-
-
 पतिं या नाभिचरति मनोवाग्देहसंयता।  
 सा भर्तृलोकमाप्नोति सद्भिः साध्वीति चोच्यते॥१६५॥
 
@@ -4945,8 +4557,6 @@ LADURAM TRIVEDI,
 
 अनेन विधिना नित्यं पंच यज्ञान्न हापयेत्।  
 द्विपीयमायुषो भागं कृतदारो गृहे वसेत्॥१६९॥
-
-
 
 इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां मनुस्मृत्यां शौचविधिः
 
@@ -4963,8 +4573,6 @@ LADURAM TRIVEDI,
 
 गृहस्थस्तु यदा पश्येद्वलीपलितमात्मनः।  
 अपत्यस्यैवचापत्यं तदारण्यं समाश्रयेत्॥२॥
-
-
 
 संत्यज्य ग्राम्यमाहारं सर्वं चैव परिच्छदम्।  
 पुत्रेषु भार्यां निक्षिप्य वनं गच्छेत्सहैव वा॥३॥
@@ -4999,8 +4607,6 @@ LADURAM TRIVEDI,
 स्थलजौदकशाकानि पुष्पमूलफलानि च।  
 मेध्यवृक्षोद्भवान्यद्यात्स्नेहांश्च फलसंभवान्॥१३॥
 
-
-
 वर्जयेन्मधु मांसं च भौमानि कवकानि च।  
 भूस्तृणं शिग्र्युकं चैव श्लेष्मातकफलानि च॥१४॥
 
@@ -5033,8 +4639,6 @@ LADURAM TRIVEDI,
 
 उपस्पृशं स्त्रिपवणं पितॄन्देवांश्च तर्पयेत्।  
 तपश्चरंश्चोग्रतरं शोषयेद्देहमात्मनः॥२४॥
-
-
 
 **अग्नीनात्मनि वैतानान्समारोप्य यथाविधि।  
 अनग्निरनिकेतः स्यान्मुनिर्मूलफलाशनः॥२५॥**
@@ -5069,8 +4673,6 @@ LADURAM TRIVEDI,
 **ऋणानि त्रीण्यपाकृत्य मनो मोक्षेनिवेशयेत्।  
 अनपाकृत्य मोक्षं तु सेवमानो व्रजत्यधः॥३५॥**
 
-
-
 अधीत्य विधिवद्वेदान्पुत्रांश्चोत्पाद्यधर्मतः।  
 इष्ट्वा च शक्तितो यज्ञैर्मनो मोक्षे निवेशयेत्॥३६॥
 
@@ -5103,8 +4705,6 @@ LADURAM TRIVEDI,
 
 दृष्टिपूतं न्यसेत्पादंवस्त्रपूतं जलं पिवेत्।  
 सस्यपूतां वदेद्वाचंमनःपूतं समाचरेत्॥४६॥
-
-
 
 **अतिवादांस्तितिक्षेत नावमन्येत कञ्चन।  
 न चेमं देहमाश्रित्य वैरं कुर्वीत केनचित्॥४७॥**
@@ -5139,8 +4739,6 @@ LADURAM TRIVEDI,
 **अलाभे न विषादी स्याल्लाभेचैव न हर्षयेत्।  
 प्राणयात्रिकमात्रः स्यान्मात्रासङ्गाद्विनिर्गतः॥५७॥**
 
-
-
 अभिपूजितलाभांस्तुजुगुप्सेतैव सर्वशः।  
 अभिपूजितलाभैश्च यतिर्मुक्तोऽपि वध्यते॥५८॥
 
@@ -5173,8 +4771,6 @@ LADURAM TRIVEDI,
 
 संरक्षणार्थं जन्तूनां रात्रावहनि वासदा।  
 शरीरस्यात्यये चैव समीक्ष्य वसुधां चरेत्॥६८॥
-
-
 
 अह्ना रात्र्याचयाञ्जन्तून्हिनस्त्यज्ञानतो यतिः।  
 तेषां स्नात्वा विशुद्ध्यर्थं प्राणायामान् षडाचरेत्॥६९॥
@@ -5209,8 +4805,6 @@ LADURAM TRIVEDI,
 प्रियेषु स्वेषु सुकृतमप्रियेषु च दुष्कृतम्।  
 विसृज्य ध्यानयोगेन ब्रह्माभ्येति सनातनम्॥७९॥
 
-
-
 यदा भावेन भवति सर्वभावेषु निष्पृहः।  
 तदासुखमवाप्नोति प्रेत्य चेह च शाश्वतम्॥८०॥
 
@@ -5244,8 +4838,6 @@ LADURAM TRIVEDI,
 यथा नदीनदाःसर्वे सागरे यान्ति संस्थितिम्।  
 तथैवाश्रमिणः सर्वेगृहस्थेयान्तिसंस्थितिम्॥९०॥
 
-
-
 चतुर्भिरपि चैवैतैर्नित्यमाश्रमिभिर्द्विजैः।  
 दशलक्षणको धर्मः सेवितव्यः प्रयत्नतः॥९१॥
 
@@ -5270,8 +4862,6 @@ LADURAM TRIVEDI,
 **इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां मनुस्मृत्यां पष्ठोऽध्यायः।**
 
 **![](../books_images/U-IMG-1728840061Screenshot(84).png)**
-
-
 
 सप्तमोऽध्यायः।
 
@@ -5307,8 +4897,6 @@ LADURAM TRIVEDI,
 कार्यं सोऽवेक्ष्य शक्तिञ्चदेशकालौच तत्त्वतः।  
 कुरुते धर्मसिद्ध्यर्थं विश्वरूपं पुनः पुनः॥१०॥
 
-
-
 सर्वो दण्डजितो लोको दुर्लभो हि शुचिर्नरः।  
 दण्डस्य हि भयात्सर्वंजगद्भोगाय कल्पते॥२२॥
 
@@ -5341,8 +4929,6 @@ LADURAM TRIVEDI,
 
 स्वराष्ट्रे न्यायवृत्तः स्याद्भृशदण्डश्चशत्रुषु।  
 सुहृत्स्वजिह्मःस्निग्धेषु ब्राह्मणेषु क्षमान्वितः॥३२॥
-
-
 
 इन्द्रियाणां जये योगं समातिष्ठेद्दिवानिशम्।  
 जितेन्द्रियो हि शक्नोति वशे स्थापयितुं प्रजाः॥४४॥
@@ -5377,8 +4963,6 @@ LADURAM TRIVEDI,
 मौलाञ्छास्त्रविदः शूरांल्लब्धलक्षान्कुलोद्गतान्।  
 सचिवान्सप्त चाष्टौ वा कुर्वीत सुपरीक्षितान्॥५४॥
 
-
-
 दूत एव हि सन्धत्तेभिनत्त्येव च संहतान्।  
 दूतस्तत्कुरुते कर्म भिद्यन्ते येन मानवाः॥६६॥
 
@@ -5411,8 +4995,6 @@ LADURAM TRIVEDI,
 
 तस्य मध्ये सुपर्याप्तं कारयेद्गृहमात्मनः।  
 गुप्तं सर्वर्तुकं शुभ्रं जलवृक्ष समन्वितम्॥७६॥
-
-
 
 संग्रामेष्वनिवर्तित्वं प्रजानां चैव पालनम्।  
 शुश्रूषाब्राह्मणानां च राज्ञां श्रेयस्करं परम्॥८८॥
@@ -5447,8 +5029,6 @@ LADURAM TRIVEDI,
 एषोऽनुपस्कृतः प्रोक्तो योधधर्मः सनातनः।  
 अस्माद्धर्मान्न च्यवेत क्षत्रियो घ्नन्रणे रिपून्॥९८॥
 
-
-
 यथोद्धरति निर्दाता कक्षं धान्यं च रक्षति।  
 तथा रक्षेन्नृपो राष्ट्रं हन्याच्च परिपन्थिनः॥११०॥
 
@@ -5481,8 +5061,6 @@ LADURAM TRIVEDI,
 
 तेषांग्राम्याणि कार्याणि पृथक्कार्याणि चैव हि।  
 राज्ञोऽन्यःसचिवः स्निग्धस्तानिपश्येदतन्द्रितः॥१२०॥
-
-
 
 पत्रशाकतृणानां च वैदलस्य च चर्मणाम्।  
 मृण्मयानां च भाण्डानां सर्वस्याश्ममयस्यच॥१३२॥
@@ -5517,8 +5095,6 @@ LADURAM TRIVEDI,
 एवं सर्वं विधायेदमितिकर्तव्यमात्मनः।  
 युक्तश्चैवाप्रमत्तश्च परिरक्षेदिमाः प्रजाः॥१४२॥
 
-
-
 विक्रोशन्त्यो यस्य राष्ट्राद्ध्रियन्ते दस्युभिः प्रजाः।  
 संपश्यतः सभृत्यस्य मृतः स न तु जीवति॥१४३॥
 
@@ -5551,8 +5127,6 @@ LADURAM TRIVEDI,
 
 दूतसम्प्रेषणं चैव कार्यशेषं तथैव च।  
 अन्तःपुरप्रचारं च प्रणिधीनां च चेष्टितम्॥१५३॥
-
-
 
 कृत्स्नंचाष्टविधंकर्मपञ्चवर्गं च तत्त्वतः।  
 अनुरागापरागौ च प्रचारं मण्डलस्य च॥१५४॥
@@ -5587,8 +5161,6 @@ LADURAM TRIVEDI,
 स्वयंकृतश्च कार्यार्थमकाले काल एव वा।  
 मित्रस्य चैवापकृते द्विविधो विग्रहः स्मृतः॥१६४॥
 
-
-
 एकाकिनश्चात्ययिकेकार्ये प्राप्ते यदृच्छया।  
 संहतस्य च मित्रेण द्विविधं यानमुच्यते॥१६५॥
 
@@ -5621,8 +5193,6 @@ LADURAM TRIVEDI,
 
 निग्रहं प्रकृतीनां च कुर्याद्योऽरिबलस्य च।  
 उपसेवेत तं नित्यं सर्वयत्नैर्गुरुं यथा॥१७५॥
-
-
 
 यदि तत्रापि सम्पश्येद्दोषंसंश्रयकारितम्।  
 सुयुद्धमेव तत्रापि निर्विशङ्कः समाचरेत्॥१७६॥
@@ -5657,8 +5227,6 @@ LADURAM TRIVEDI,
 शत्रुसेविनि मित्रे च गूढेयुक्ततरो भवेत्।  
 गतप्रत्यागते चैव स हि कष्टतरो रिपुः॥१८६॥
 
-
-
 दण्डव्यूहेन तन्मार्गं यायात्तु शकटेन वा।  
 वराहमकराभ्यां वा सूच्या वा गरुडेन वा॥१८७॥
 
@@ -5691,8 +5259,6 @@ LADURAM TRIVEDI,
 
 उपजप्यानुपजपेद्वुध्येतैव च तत्कृतम्।  
 युक्तेच दैवे युध्येत जयप्रेप्सुरपेतभीः॥१९७॥
-
-
 
 साम्नादानेन भेदेन समस्तैरथवा पृथक्।  
 विजेतुं प्रयतेतारिं न युद्धेन कदाचन॥१९८॥
@@ -5727,8 +5293,6 @@ LADURAM TRIVEDI,
 हिरण्यभूमिसंप्राप्त्या पार्थिवो न तथैधते।  
 यथा मित्रं ध्रुवं लब्ध्वाकृशमप्यायतिक्षमम्॥२०८॥
 
-
-
 धर्मज्ञंच कृतज्ञं च तुष्टप्रकृतिमेव च।  
 अनुरक्तं स्थिरारम्भं लघुमित्रं प्रशस्यते॥२०९॥
 
@@ -5762,8 +5326,6 @@ LADURAM TRIVEDI,
 परीक्षिताः स्त्रियश्चैनं व्यजनोदकधूपनैः।  
 वेषाभरणसंशुद्धः स्पृशेयुःसुसमाहिताः॥२१९॥
 
-
-
 एवं प्रयत्नं कुर्वीत यानशय्यासनाशने।  
 स्नाने प्रसाधने चैव सर्वालङ्कारकेषु च॥२२०॥
 
@@ -5789,8 +5351,6 @@ LADURAM TRIVEDI,
 राज्यशासनधर्मवर्णननाम सप्तमोऽध्यायः॥७
 
 ————
-
-
 
 **अष्टमोऽध्यायः**
 
@@ -5819,8 +5379,6 @@ LADURAM TRIVEDI,
 
 एपु स्थानेषु भूयिष्ठं विवादं चरतां नृणाम्।  
 धर्मं शाश्वतमाश्रित्य कुर्यात्कार्यविनिर्णयम्॥८
-
-
 
 यदा स्वयं न कुर्यात्तु नृपतिः कार्यदर्शनम्।  
 तदा नियुञ्ज्याद्विद्वांसं ब्राह्मणं कार्यदर्शने॥९
@@ -5855,8 +5413,6 @@ LADURAM TRIVEDI,
 राजा भवत्यनेनास्तु मुच्यन्ते च सभासदः।  
 एनो गच्छति कर्तारं निन्दार्होयत्र निन्द्यते॥१९
 
-
-
 जातिमात्रोपजीवी वा कामं स्याद्ब्राह्मणब्रुवः।  
 धर्मप्रवक्ता नृपतेर्न तु शूद्रः कथंचन॥२०
 
@@ -5889,8 +5445,6 @@ LADURAM TRIVEDI,
 
 प्रणष्टस्वामिकं रिक्थं राजा त्र्यब्दं निधापयेत्।  
 अर्वाक्त्र्यब्दाद्धरेत्स्वामी परेण नृपतिर्हरेत्॥३०
-
-
 
 ममेदमिति यो ब्रुयात्सोऽनुयोज्यो यथाविधि।  
 संवाद्य रूपसंख्यादीन्स्वामी तद्द्रव्यमर्हति॥३१
@@ -5925,8 +5479,6 @@ LADURAM TRIVEDI,
 जातिजानप्रदान्धर्मान्छ्रेणीधर्मांश्च धर्मवित्।  
 समीक्ष्य कुलधर्मांश्च स्वधर्मं प्रतिपादयेत्॥४१
 
-
-
 स्वानि कर्माणि कुर्वाणा दूरे सन्तोऽपि मानवाः।  
 प्रिया भवन्ति लोकस्य स्वेस्वेकर्मण्यवस्थिताः॥४२
 
@@ -5959,8 +5511,6 @@ LADURAM TRIVEDI,
 
 अपह्नवेऽधमर्णस्य देहीत्युक्तस्य संसदि।  
 अभियोक्ता दिशेद्देशं कारणं वाऽन्यदुद्दिशेत्॥५२
-
-
 
 अदेशं यश्च दिशति निर्दिश्यापह्नुते च यः।  
 यश्चाधरोत्तरानर्थान्विगीतान्नावबुध्यते॥१३
@@ -5997,8 +5547,6 @@ LADURAM TRIVEDI,
 आप्ताः सर्वेषु वर्णेषु कार्याः कार्येषु साक्षिणः।  
 सर्वधर्मविदोऽलुब्धा विपरीतांस्तु वर्जयेत्॥६३
 
-
-
 नार्थसम्बन्धिनो नाप्तासहाया न वैरिणः।  
 न दृष्टदोषाः कर्तव्या न व्याध्यार्त न दूषिताः॥६४
 
@@ -6031,8 +5579,6 @@ LADURAM TRIVEDI,
 
 समक्षदर्शनात्साक्ष्यं श्रवणाच्चैव सिध्यति।  
 तत्रसत्यं ब्रुवन्साक्षी धर्मार्थाभ्यां न हीयते॥७४
-
-
 
 साक्षी दृष्टश्रुतादन्यद्विब्रुवन्नार्यसंसदि।  
 अवाङ्नरकमभ्येति प्रेत्य स्वर्गाच्चहीयते॥७५
@@ -6067,8 +5613,6 @@ LADURAM TRIVEDI,
 मन्यन्ते वै पापकृतो न कश्चित्पश्यतीति नः।  
 तास्तु देवाः प्रपश्यन्ति स्वस्यैवान्तरपूरुषः॥८५
 
-
-
 द्यौर्भूमिरापो हृदयं चन्द्रार्काग्नियमानिलाः।  
 रात्रिः सन्ध्ये च धर्मध वृत्तज्ञाः सर्वदेहिनाम्॥८६
 
@@ -6101,8 +5645,6 @@ LADURAM TRIVEDI,
 
 यस्य विद्वान्हि वदतःक्षेत्रज्ञो नातिशङ्कते।  
 तस्मिन्न देवाः श्रेयांसं लोकेऽन्यं पुरुषं विदुः॥९६
-
-
 
 यावतो बान्धन्यस्मिन्हन्ति साक्ष्येऽनृतं वदन्।  
 तायतः सङ्ख्ययातस्मिन् शृणु सौम्यानुपूर्वशः॥९७
@@ -6137,8 +5679,6 @@ LADURAM TRIVEDI,
 त्रिपक्षादब्रुवन्साक्ष्यमृणादिषु नरोऽगदः।  
 तद्दणं प्राप्नुयात्सर्वंदशबंधंच सर्वतः॥१०७
 
-
-
 यस्य दृश्येत सप्ताहादुक्तवाक्यस्य साक्षिणः।  
 रोगोऽग्निर्ज्ञातिमरणमृणं दाप्यो दमं च सः॥१०८
 
@@ -6171,8 +5711,6 @@ LADURAM TRIVEDI,
 
 लोभान्मोहाद्भयान्मैत्रात्कामात्क्रोधात्तथैव च।  
 अज्ञानादूूबालभावाच्च साक्ष्यं वितथमुच्यते॥११८
-
-
 
 एषामन्यतमे स्थाने यः साक्ष्यमनृतं वदेत्।  
 तस्य दण्डविशेषांस्तु प्रवक्ष्याम्यनुपूर्वशः॥११९
@@ -6207,8 +5745,6 @@ LADURAM TRIVEDI,
 वाग्दण्डं प्रथमं कुर्याद्धिग्दण्डं तदनन्तरम्।  
 तृतीयं धनदण्डं तु बधदण्डमतस्परम्॥१२९
 
-
-
 बधेनापि यदा त्वातान्निग्रहीतुं न शक्नुयात्।  
 तदैषु सर्वमप्येतत्प्रयुञ्जीत चतुष्टयम्॥१३०
 
@@ -6242,8 +5778,6 @@ LADURAM TRIVEDI,
 वसिष्टविहितां वृद्धिं सृजेद्वित्तविवर्धिनीम्।  
 अशीतिभागं गृह्णीयान्मासाद्वार्धुषिकः शते॥१४०
 
-
-
 द्विकं शतं वर गृहीयात्सतां धर्ममनुस्मरन्।  
 द्विकं शतं हि गृह्णानो न भवत्यर्धकिल्बिषी॥१४१
 
@@ -6276,8 +5810,6 @@ LADURAM TRIVEDI,
 
 कुसीदवृद्धिर्द्वैगुण्यं नात्येति सकृदाहृता।  
 धान्ये सदे लवे वाह्येनातिक्रामति पञ्चताम्॥१५१
-
-
 
 कृतानुसारादधिका व्यतिरिक्ता नसिद्ध्यति।  
 कुसीदपथमाहुतं पञ्चकं शतमर्हति॥१५२
@@ -6314,8 +5846,6 @@ LADURAM TRIVEDI,
 निरादिष्टधनश्चेत्तुप्रतिभूः स्यादलंघनः।  
 स्वधनादेव तद्दद्यान्निरादिष्टइति स्थितिः॥१३२
 
-
-
 मत्तोन्मत्तार्ताध्यधीनैर्बालेन स्थविरेण वा।  
 असंबद्धकृतश्चैव व्यवहारो न सिद्ध्यति॥१६३
 
@@ -6348,8 +5878,6 @@ LADURAM TRIVEDI,
 
 तस्माद्यम इव स्वामी स्वयं हित्वाप्रियाप्रिये।  
 वर्तेत याम्यया वृत्त्या जितकोधोजितेन्द्रियः॥१७३
-
-
 
 यस्त्वधर्मेण कार्याणि मोहात्कुर्यान्नराधिपः।  
 अचिरात्तं दुरात्मानं वशे कुर्वन्ति शत्रवः॥१७४
@@ -6384,8 +5912,6 @@ LADURAM TRIVEDI,
 तेषां न दद्याद्यदि तु तद्धिरण्यं यथाविधि।  
 उभौ निगृह्य दाप्यः स्यादिति धर्मस्य धारणा॥१८४
 
-
-
 निक्षेपोपनिधी नित्यं न देयौ प्रत्यनन्तरे।  
 नश्यतो विनिपाते तावनिपाते त्वनाशिनी॥१८५
 
@@ -6419,8 +5945,6 @@ LADURAM TRIVEDI,
 मिथो दायः कृतो येन गृहीतो मिथ एव वा।  
 मिथ एव प्रदातव्यो यथा दायस्तथा ग्रहः॥१९५
 
-
-
 निक्षिप्तस्य धनस्यैवं प्रीत्योपनिहितस्य च।  
 राजा विनिर्णयं कुर्यादक्षिण्वन्न्यासधारिणम्॥१९६
 
@@ -6453,8 +5977,6 @@ LADURAM TRIVEDI,
 
 ऋत्विग्यदि वृतो यज्ञे स्वकर्म परिहापयेत्।  
 तस्य कर्मानुरूपेण देयोंऽशः सह कर्तृभिः॥२०६
-
-
 
 दक्षिणासु च दत्तासु स्वकर्म परिहापयन्।  
 
@@ -6490,8 +6012,6 @@ LADURAM TRIVEDI,
 यथोक्तमार्तः सुस्थोवा यस्तत्कर्म न कारयेत्।  
 न तस्य वेतनं देयमल्पोनस्यापि कर्मणः॥२१७
 
-
-
 एष धर्मोऽखिलेनोक्तोवेतनादानकर्मणः।  
 अत उर्ध्यं प्रवक्ष्यामि धर्मं समयभेदिनाम्॥२१८
 
@@ -6524,8 +6044,6 @@ LADURAM TRIVEDI,
 
 यस्मिन्यस्मिन्कृते कार्ये यस्येहानुशयो भवेत्।  
 तमनेन विधानेन धर्म्ये पथि निवेशयेत्॥२२८
-
-
 
 पशुषुस्वामिनां चैव पालानां च व्यतिक्रमे।  
 विवादं सम्प्रक्ष्यामि यथावद्धर्मतत्त्वतः॥२२९
@@ -6560,8 +6078,6 @@ LADURAM TRIVEDI,
 वृतिं तत्र प्रकुर्वीत यां मुष्ट्रो न विलोकयेत्।  
 छिद्रं च वारयेत्सर्वं श्वसूकरमुखानुगम्॥२३९
 
-
-
 पथि क्षेत्रे परिवृते ग्रामान्तीयेऽथ वा पुनः।  
 सपालः शतदण्डार्होविपालान्वारयेत्पशून्॥२४०
 
@@ -6594,8 +6110,6 @@ LADURAM TRIVEDI,
 
 अश्मनोऽस्थीनि गोबालांस्तुषान्भस्मकपालिकाः।  
 करीषमिष्टकाङ्गारांश्छर्कराबालुकास्तथा॥२५०
-
-
 
 यानि चैवं प्रकाराणि कालाद्भूमिर्नभक्षयेत्।  
 तानि सन्धिषु सीमायामप्रकाशानि कारयेत्॥२५१
@@ -6630,8 +6144,6 @@ LADURAM TRIVEDI,
 तेपृष्टास्तु यथा ब्रूयुः सीमासन्धिषु लक्षणम्।  
 तत्तथा स्थापयेद्राजा धर्मेण ग्रामयोर्द्वयोः॥२६१
 
-
-
 क्षेत्रकूपतडागानामारामस्य गृहस्य च।  
 सामन्तप्रत्योयो ज्ञेयः सीमासेतुविनिर्णयः॥२६२
 
@@ -6664,8 +6176,6 @@ LADURAM TRIVEDI,
 
 धर्मोपदेशं दर्पेण विप्राणामस्य कुर्वतः।  
 तप्तमासेचयेत्तैलं वक्त्रेश्रोत्रे च पार्थिवः॥२७२
-
-
 
 च्युतं(श्रुतं) देशं च जातिच कर्म शारीरमेव च।  
 वितथेन व्रुवन्दर्पाद्दाप्यःस्याद्द्विशतं दमम्॥२७३
@@ -6700,8 +6210,6 @@ LADURAM TRIVEDI,
 केशेषु गृह्णतो हस्तौ छेदयेदविचारयन्।  
 पादयोर्दाढिकायां च ग्रीवायां वृषणेषु च॥२८३
 
-
-
 त्वग्भेदकःशतं दण्ड्यो लोहितस्य च दर्शकः।  
 मांसभेत्ता तु षण्णिष्कान्प्रवास्यस्त्वस्थिभेदकः॥२८४
 
@@ -6734,8 +6242,6 @@ LADURAM TRIVEDI,
 
 प्राजकश्चेद्भवेदाप्तःप्राजको दण्डमर्हति।  
 युग्यस्थाःप्राजकेऽनाप्ते सर्वे दण्ड्याः शतं शतम्॥२९४
-
-
 
 स चेत्तु पथि संरुद्धः पशुभिर्वारथेन वा।  
 प्रमापयेत्प्राणभृतस्तत्रदण्डोऽविचारितः॥२९५
@@ -6770,8 +6276,6 @@ LADURAM TRIVEDI,
 यदधीते यद्यजते यद्ददाति यदर्चति।  
 तस्य पड्भागभाग्राजा सम्यग्भवति रक्षणात्॥३०५
 
-
-
 रक्षन्धर्मेण भूतानि राजा बध्यांश्चघातयन्।  
 यजतेऽहरहर्यज्ञैःसहस्रशतदक्षिणैः॥३०६
 
@@ -6804,8 +6308,6 @@ LADURAM TRIVEDI,
 
 शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते।  
 अशासित्वा तु तं राजा स्तेनस्थाप्नोति किल्बिषम्॥३१६
-
-
 
 अन्नादे भ्रूर्णहा मार्ष्टिपत्यौभार्यापचारिणी।  
 गुरौ शिष्यश्च याग्यश्च स्तेनो राजनि किल्विषम्॥३१७
@@ -6840,8 +6342,6 @@ LADURAM TRIVEDI,
 वेणुवैदलभाण्डानां लवणानां तथैवच।  
 मृन्मयानां च हरणे मृदो भस्मन एव च॥३२७
 
-
-
 मत्स्यानां पक्षिणां चैव तैलस्य च घृतस्य च।  
 मांसस्य मधुनश्चैव यच्चान्यत्पशुसंभवम्॥३२८
 
@@ -6874,8 +6374,6 @@ LADURAM TRIVEDI,
 
 ब्राह्मणत्य चतुःषष्टिः पूर्णं वाऽपि शतं भवेत्।  
 द्विगुणा वाचतुःषष्टिस्तद्दोषगुणविद्धि सः॥३३८
-
-
 
 वानस्पत्यंमूलफलं दार्वग्न्यर्थं तथैव च।  
 तृणं च गोभ्यो ग्रासार्थमास्तेयं मनुरव्रवीत्॥३३९
@@ -6910,8 +6408,6 @@ LADURAM TRIVEDI,
 आत्मनश्च परित्राणे दक्षिणानां च सङ्गरे।  
 स्त्रीविप्राभ्युपपत्तौ च धर्मेण ध्नन्न दुष्यति॥३४९
 
-
-
 गुरुं वा बालबृद्धौवा ब्राह्मणं वा बहुश्रुतम्।  
 आततायिनमायान्तं हन्यादेवाविचारयन्॥३५०
 
@@ -6944,8 +6440,6 @@ LADURAM TRIVEDI,
 
 भिक्षुका वन्दिनश्चैव दीक्षिताः कारवस्तथा।  
 संभाषणंसह स्त्रीभिः कुर्युरप्रतिवारिताः॥३६०
-
-
 
 न संभाषां परस्त्रीभिः प्रतिषिद्धः समाचरेत्।  
 निषिद्धो भाषमाणस्तु सुवर्णं दण्डमर्हति॥ ३६१
@@ -6980,8 +6474,6 @@ LADURAM TRIVEDI,
 भर्तारं लङ्घ्येद्या तु स्त्री ज्ञातिगुणदर्पिता।  
 तां श्वभिः स्वादयेद्राजा संस्थाने बहुसंस्थिते॥३७१
 
-
-
 पुमांसं दाहयेत्पापं शयने तप्त आयसे।  
 अभ्यादध्युश्च काष्ठानि तत्र दह्येत पापकृत् ॥३७२॥
 
@@ -7014,8 +6506,6 @@ LADURAM TRIVEDI,
 
 वैश्यश्चेत्क्षत्रियां गुप्तांवैश्यां वा क्षत्रियो ब्रजेत्।  
 यो ब्राह्मण्यामगुप्तायांतावुभौ दण्डमर्हतः॥३८२॥
-
-
 
 सहस्रं ब्राह्मणो दण्डं दाप्यो गुप्ते तु ते व्रजन्।  
 शूद्राया क्षत्रियविशोः साहस्रो वै भवेद्दमः ॥३८३
@@ -7050,8 +6540,6 @@ LADURAM TRIVEDI,
 श्रोत्रियः श्रोत्रियं साधुंभूतिकृत्यैष्यभोजयन्।  
 तदन्नंहिगुणं दाप्योहिरण्यं चैव माषकम्॥३९३
 
-
-
 अन्धो जडः पीठसर्पी सप्तत्या स्थविरश्चयः।  
 श्रोत्रियेषूपकुर्वंश्च न दाप्याः केनचित्करम्॥३९४
 
@@ -7084,8 +6572,6 @@ LADURAM TRIVEDI,
 
 पणं यानं तरे दाप्यं पौरुषोऽर्धपणं तरे।  
 पादे पशुश्चयोषिच्चपदार्घंरिक्तकः पुमान्॥४०४
-
-
 
 भाण्डपूर्णानि यानानि तार्यं दाप्यानि सारतः।  
 रिक्तभाण्डानि यत्किंचित्पुमांसश्चापरिच्छदाः॥४०५
@@ -7120,8 +6606,6 @@ LADURAM TRIVEDI,
 ध्वजाहृतो भक्तदासोगृहजःक्रीतदत्रिमौ।  
 पैत्रिकोदण्डदासश्च सप्तैतेदासयोनयः॥४१५
 
-
-
 भार्या पुत्रश्च दासश्च त्रय एवाधना स्मृताः।  
 यत्ते समधिगच्छन्ति यस्य ते तस्य तद्धनम्॥ ४१६
 
@@ -7143,8 +6627,6 @@ LADURAM TRIVEDI,
 
 ![](../books_images/U-IMG-1725119070जद.PNG)
 
-
-
 **नवमोऽध्यायः।**
 
 अत्रादौ—स्त्रीस्वातन्त्र्यमधर्मवर्णनम्।
@@ -7154,8 +6636,6 @@ LADURAM TRIVEDI,
 
 अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम्।  
 विषयेषु च सज्जन्त्यःसंस्थाप्या आत्मनो वशे॥२
-
-
 
 नैतारूपं परीक्षन्ते नासां वयसि संस्थितिः।  
 सुरूपं वा विरूपं वा पुमानित्येव भुञ्जते॥१४
@@ -7190,8 +6670,6 @@ LADURAM TRIVEDI,
 एताश्चान्याश्च लोकेऽस्मिन्नपकृष्टप्रसूतयः।  
 उत्कर्षं योषितः प्राप्ताः स्वैः स्वैर्भतृर्गुणैः शुभैः॥२४
 
-
-
 एषोदिता लोकयात्रा नित्यं स्त्रीपुंसयोः शुभा।  
 प्रेत्योहच सुखोदकार्न्प्रजाधर्मान्निबोधत॥२५
 
@@ -7224,8 +6702,6 @@ LADURAM TRIVEDI,
 
 वीजस्य चैव योन्याश्चबीजमुत्कृष्टमुच्यते।  
 सर्वभूतप्रसूतिर्हि बीजलक्षणलक्षिता॥३५
-
-
 
 यादृशं तूप्यते बीजं क्षेत्रे कालोपपादिते।  
 तादृग्रोहति तत्तस्मिन्बीजं स्वैर्व्यञ्जितं गुणैः॥३६
@@ -7260,8 +6736,6 @@ LADURAM TRIVEDI,
 न निष्क्रयविसर्गाभ्यां भर्त्तुर्भार्या विमुच्यते।  
 एवं धर्मं विजानीमः प्राक्प्रजापतिनिर्मितम्॥४६
 
-
-
 सकृदंशो निपतति सकृत्कन्या प्रदीयते।  
 सकृदाह ददानीति त्रीण्येतानि सतां सकृत्॥४७
 
@@ -7294,8 +6768,6 @@ LADURAM TRIVEDI,
 
 भ्रातुर्ज्येष्ठस्य भार्या या गुरुपल्यनुजस्य सा।  
 यवीयसस्तु या भार्या स्तुषाज्येष्ठस्य मा स्मृता॥५७
-
-
 
 ज्येष्ठो यवीयसो भार्या यवीयान्वाऽग्रजस्त्रियम्।  
 पतितौभवतो गत्या नियुक्तावप्यनापदि॥५८
@@ -7330,8 +6802,6 @@ LADURAM TRIVEDI,
 ततः प्रभृति यो मोहात्प्रमीतपतिकां स्त्रियम्।  
 नियोजयत्यपत्यार्थं तं विगर्हन्ति साधवः॥ ६८
 
-
-
 **यस्या म्रियेत कन्याया वाचा सत्ये कृते पतिः।  
 तामनेन विधानेन निजो विन्देत देवरः॥६९**
 
@@ -7364,8 +6834,6 @@ LADURAM TRIVEDI,
 
 **उन्मत्तं पतितं क्लीबमबीजं पापरोगिणम्।  
 न त्यागोऽस्तिद्विषन्त्याश्च न च दायापवर्तनम्॥७९**
-
-
 
 **मद्यपाऽसत्य(असाधु) वृत्ता च प्रतिकूला च या भवेत्।  
 व्याधिता वाऽविवेत्तत्र्या हिंस्राऽर्थघ्नी च सर्वदा॥८०**
@@ -7400,8 +6868,6 @@ LADURAM TRIVEDI,
 **त्रीणि वर्षाण्युदीक्षेत कुमार्यृतुमती सती।  
 ऊद्र्ध्वंतु कालादेतस्माद्विन्देत सदृशं पतिम्॥९०**
 
-
-
 अदीयमाना भर्तारमधिगच्छेद्यदि स्वयम्ः।  
 नैनः किञ्चिदवाप्नोति न च यं साऽविगच्छति॥९१
 
@@ -7434,8 +6900,6 @@ LADURAM TRIVEDI,
 
 अन्योन्यस्यान्यभीचारो भवेदामरणान्तिकः।  
 एषधर्मः समासेन ज्ञेयः स्त्रीपुंसयोः परः॥१०१
-
-
 
 तथा नित्यं यतेयातां स्त्रीपुंसौ तु कृतक्रियौ।  
 यथा नातिचरेतां तौवियुक्तावितरेतरम्॥ १०२
@@ -7470,8 +6934,6 @@ LADURAM TRIVEDI,
 ज्येष्ठस्य विंश उद्धारःसर्वद्रव्याच्च यद्वरम्।  
 ततोऽर्धंमध्यमस्य स्यात्तुरीयं तु यवीयसः॥११२
 
-
-
 ज्येष्ठश्चैव कनिष्ठश्च संहरेता यथोदितम्।  
 येऽन्ये ज्येष्ठकनिष्ठाभ्यां तेषां स्यान्मध्यमं धनम्॥११३
 
@@ -7504,8 +6966,6 @@ LADURAM TRIVEDI,
 
 एकं वृषभमुद्धारं संहरेत स पूर्वजः।  
 ततोऽपरेज्येष्ठवृषास्तदूनानां स्वमातृतः॥ १२३
-
-
 
 ज्येष्ठस्तु जातोज्येष्ठायं हरेद्वृषभषोडशाः।  
 ततः स्वमातृतः शेषा भजेरन्निति धारणा॥१२४
@@ -7540,8 +7000,6 @@ LADURAM TRIVEDI,
 पुत्रिकायां कृतायां तु यदि पुत्रोऽनुजायते।  
 समस्तत्र विभागः स्याज्ज्येष्ठता नास्ति हि स्त्रियाः॥१३४
 
-
-
 अपुत्रायां मृतायां तु पुत्रिकायां कथंचन।  
 धनं तत्पुत्रिकाभर्ता हरेतैवाविचारयन्॥१३५
 
@@ -7574,8 +7032,6 @@ LADURAM TRIVEDI,
 
 हरेत्तत्र नियुक्तायां जातः पुत्र यथौरसः।  
 क्षेत्रिकस्य तु तद्बीजं धर्मतः प्रसवश्च सः॥१४५
-
-
 
 **धनं यो विभृयाद्भ्रातुर्मृतस्य स्त्रियमेव च।  
 सोऽपत्यं भ्रातुरुत्पाद्य दद्यात्तस्यैव तद्धनम्॥१४६**
@@ -7610,8 +7066,6 @@ LADURAM TRIVEDI,
 **समवर्णासु ये (वा) जाताः सर्वे पुत्रा द्विजन्मनाम्।  
 उद्वारं ज्यायसे दत्वा भजेरन्नितरे समम्॥१५६**
 
-
-
 शूद्रस्य तु सवर्णैव नान्या भार्या विधीयते।  
 तस्यां जाताः समांशाः स्युर्यदि पुत्रशतं भवेत्॥१५७
 
@@ -7644,8 +7098,6 @@ LADURAM TRIVEDI,
 
 यस्तल्पजः प्रमीतस्य क्लीवस्य व्याधितस्य वा।  
 स्वधर्मेण नियुक्तायां सपुत्रः क्षेत्रजः स्मृतः॥१६७
-
-
 
 माता पिता वा दद्यातां यमद्भिः पुत्रमापदि।  
 सदृशं प्रीतिसंयुक्तं स ज्ञेयो दत्रिमः सुतः॥१६८
@@ -7680,8 +7132,6 @@ LADURAM TRIVEDI,
 यं ब्राह्मणस्तु शद्रायां कामादुत्पादयेत्सुतम्।  
 स पारयन्नेव शवस्तस्मात्पारशवः स्मृतः॥१७८
 
-
-
 दास्यांवादासदास्यां वा यः शूद्रस्य सुतो भवेत्।  
 सोऽनुज्ञातो हरेदंशमिति धर्मों व्यवस्थितः॥१७९
 
@@ -7714,8 +7164,6 @@ LADURAM TRIVEDI,
 
 अहार्यंब्राह्मणद्रव्यं राज्ञा नित्यमिति स्थितिः।  
 इतरेषां तु वर्णानां सर्बाभावं हरेन्नृपः॥१८९         
-
-
 
 संस्थितस्यानपत्यस्य सगोत्रात्पुत्रमाहरेत्।  
 तत्र यद्रिक्थजातं स्यात्तत्तस्मिन्प्रतिपादयेत्॥१९०
@@ -7750,8 +7198,6 @@ LADURAM TRIVEDI,
 पत्यौ जीवति यः स्त्रीभिरलङ्कारो धृतो भवेत्।  
 न तं भजेरन्दायादा भजमानाः पतन्ति ते॥२००
 
-
-
 **अनंशौक्लीवपतितौजात्यन्धबधिरौ तथा।  
 उन्मत्तजडमूकाश्च ये च केचिन्निरिन्द्रियाः॥२०१**
 
@@ -7784,8 +7230,6 @@ LADURAM TRIVEDI,
 
 **येषां ज्येष्ठः कनिष्ठो वा हीयेतांशप्रदानतः।  
 म्रियेतान्यतरोवापि तस्य भागो न लुप्यते॥२११**
-
-
 
 सोदर्या विभजेरंस्तं समेत्य सहिताः समम्।  
 भ्रातरो ये च संसृष्टाभगिन्यश्चसनाभयः॥२१२
@@ -7820,8 +7264,6 @@ LADURAM TRIVEDI,
 प्रकाशमेतत्तास्कर्यंयद्देवनसमाह्वयौ।  
 तयोर्नित्यं प्रतीघाते नृपतिर्यत्नवान्भवेत्॥२२२
 
-
-
 अप्राणिभिर्यत्क्रियते तल्लोके द्यूतमुच्यते।  
 प्राणिभिः क्रियते यस्तु स विज्ञेयः समाह्वयः॥२२३
 
@@ -7854,8 +7296,6 @@ LADURAM TRIVEDI,
 
 तीरितं चानुशिष्टं च यत्र क्वचन यद्भवेत्।  
 कृतं तद्धर्मतोविद्यान्ननद्भूयो निवर्तयेत्॥२३३
-
-
 
 अमात्याः प्राड्विवाको वा यत्कुर्युः कार्यमन्यथा।  
 तत्स्त्रयं नृपतिः कुर्यात्तंसहस्रञ्च दण्डयेत्॥२३४
@@ -7890,8 +7330,6 @@ LADURAM TRIVEDI,
 अप्सु प्रवेश्य तं दण्डं वरुणायोपपादयेत्।  
 श्रुतवृत्तोपपन्ने या ब्राह्मणे प्रतिपादयेत्॥२४४
 
-
-
 ईशो दण्डस्य वरूणो राज्ञां दण्डधरो हि सः।  
 ईशः सर्वस्य जगतो ब्राह्मणो वेदपारगः॥२४५
 
@@ -7924,8 +7362,6 @@ LADURAM TRIVEDI,
 
 निर्भयं तु भवेद्यस्य राष्ट्रं बाहुबलाश्रितम्।  
 तस्य तद्वर्धते नित्यं सिच्यमान इव द्रुमः॥२५५
-
-
 
 द्विविधांस्तस्करान्विद्यात्परद्रव्यापहारकान्।  
 प्रकाशांश्चाप्रकाशांश्च चारचक्षुर्महीपतिः॥२५६
@@ -7960,8 +7396,6 @@ LADURAM TRIVEDI,
 एवं विधान्नृपो देशान्गुल्मैःस्थावरजङ्गमैः।  
 तस्करप्रतिषेधार्थं चारैश्चाप्यनुचारयेत्॥२६६
 
-
-
 तत्सहायैरनुगतैर्नानाकर्मप्रवेदिभिः।  
 विद्यादुत्सादयेच्चैव निपुणैः पूर्वतस्करैः॥२६७
 
@@ -7994,8 +7428,6 @@ LADURAM TRIVEDI,
 
 अङ्गुलीर्ग्रन्थिभेदस्य छेदयेत्प्रथमेग्रहे।  
 द्वितीये हस्तचरणौ तृतीये बधमर्हति॥ २७७
-
-
 
 **अग्निदान्भक्तदांश्चैवतथा शस्त्रावकाशदान्।  
 संनिधातृृंश्च मोषस्य हन्याच्चौरमिवेश्वरः॥२७८**
@@ -8030,8 +7462,6 @@ LADURAM TRIVEDI,
 **बन्धनानि च सर्वाणि राजमार्गे निवेशयेत्।  
 दुःखिता यत्रदृश्येरन्विकृताः पापकारिणः॥२८८**
 
-
-
 प्राकारस्य च भेत्तारं परिखाणां च पूरकम्।  
 द्वाराणां चैव भङ्क्तारं क्षिप्रमेवप्रवासयेत्॥२८९
 
@@ -8064,8 +7494,6 @@ LADURAM TRIVEDI,
 
 पीडनानि च सर्वाणि ब्यसनानि तथैव च।  
 आरभेत ततः कार्यं संचिन्त्यगुरुलाघवम्॥२९९
-
-
 
 आरभेतैव कर्माणि श्रान्तः श्रान्तः पुनः पुनः।  
 कर्माण्यारभमाणं हि पुरुषं श्रीर्न्निषेवते॥३००
@@ -8100,8 +7528,6 @@ LADURAM TRIVEDI,
 प्रतापयुक्तस्तेजस्वीनित्यं स्यात्पापकर्मसु।  
 दुष्टसामन्तहिंस्रश्च तदाग्नेयं व्रतं स्मृतम्॥३१०
 
-
-
 यथा सर्वाणि भूतानि धरा धारयते समम्।  
 तथा सर्वाणि भूतानि विभ्रतः पार्थिवं ब्रतम्॥३११
 
@@ -8134,8 +7560,6 @@ LADURAM TRIVEDI,
 
 अद्भ्योऽग्निर्ब्रह्मतःक्षत्रमश्मनो लोहमुत्थितम्।  
 तेषांसर्वत्रगं तेजः स्वासुयोनिषु शाम्यति॥३२१
-
-
 
 नाब्रह्मक्षत्रमृध्नोति नाक्षत्रं ब्रह्म वर्धते।  
 ब्रह्म क्षत्रं च संपृक्तमिह चामुत्र वर्धते॥३२२
@@ -8170,8 +7594,6 @@ LADURAM TRIVEDI,
 भृत्यानां च भृतिंविद्याद्भषाश्च विविधा नृणाम्।  
 द्रव्यणां स्थानयोगांश्च क्रयविक्रयमेव च॥३३२
 
-
-
 धर्मेण च द्रव्यवृद्धावातिष्ठेद्यत्नमुत्तमम्।  
 दद्याच्च सर्वभूतानामन्नमेव प्रयत्नतः॥३३३
 
@@ -8199,10 +7621,6 @@ LADURAM TRIVEDI,
 
 सर्वेषां ब्राह्मणो विद्याद्वृत्त्युपायान्यथाविधि।  
 प्रब्रूयादितरेभ्यश्च स्वयं चैव तथा भवेत्॥२
-
-
-
-
 
 **वैशेष्यात्प्रकृतिश्रेष्ठ्यान्नियमस्य च धारणात्।  
 संस्कारस्य विशेषाच्च वर्णानां ब्राह्मणः प्रभुः॥ ३**
@@ -8237,8 +7655,6 @@ LADURAM TRIVEDI,
 **एकान्तरे त्वानुलोम्यादम्बष्ठोग्रौ यथा स्मृतौ।  
 क्षत्तृवैदेहकौ तद्वत्प्रातिलोम्येऽपि जन्मनि॥ १३**
 
-
-
 पुत्रा येऽनन्तरस्त्रीजाः क्रमेणोक्ता द्विजन्मनाम्।  
 ताननन्तरनाम्नस्तु मातृदोषात्प्रचक्षते॥ १४
 
@@ -8271,8 +7687,6 @@ LADURAM TRIVEDI,
 
 व्यभिचारेण वर्णानामवेद्यावेदनेन च।  
 स्वकर्मणां च त्यागेन जायन्ते वर्णसंकराः॥ २४
-
-
 
 संकीर्णयोनयो ये तु प्रतिलोमानुलोमजाः।  
 
@@ -8316,8 +7730,6 @@ LADURAM TRIVEDI,
 मृतवस्त्रभृत्सुनारीषु गर्हितान्नाशनासु च।  
 
 भवन्त्यायोगवीष्वेते जातिहीनाः पृथक्त्रयः॥ ३५
-
-
 
 कारावरो निषादात्तु चर्मकारंप्रसूयते।  
 
@@ -8363,8 +7775,6 @@ LADURAM TRIVEDI,
 
 ते निन्दितैर्वर्तयेयुर्द्विजानामेव कर्मभिः॥ ४६
 
-
-
 **सूतानामश्वसारथ्यमम्बष्ठानां चिकित्सनम्।**  
 **वैदेहकानां स्त्रीकार्यं मागधानां वणिक्पथः॥ ४७**
 
@@ -8397,8 +7807,6 @@ LADURAM TRIVEDI,
 
 **वर्णापेतमविज्ञातं नरं कलुषयोनिजम्।**  
 **आर्यरूपमिवानार्यं कर्मभिः स्वैर्विभावयेत्॥ ५७**
-
-
 
 **अनार्यता निष्ठुरता क्रूरता निष्क्रियात्मता।**  
 **पुरुषं व्यञ्जयन्तीह लोके कलुषयोनिजम्॥ ५८**
@@ -8433,8 +7841,6 @@ LADURAM TRIVEDI,
 **तावुभावप्यसंस्कार्याविति धर्मो व्यवस्थितः।**  
 **वैगुण्याज्जन्मनः पूर्वमुत्तरः प्रतिलोमतः॥ ६८**
 
-
-
 **सुबीजं चैव सुक्षेत्रे जातं संपद्यते यथा।  
 तथाऽऽर्याज्जात आर्यायां सर्वं संस्कारमर्हति॥ ६९**
 
@@ -8467,8 +7873,6 @@ LADURAM TRIVEDI,
 
 **शस्त्रास्त्रभृत्त्वं क्षत्रस्य वणिक्पशुकृषिर्विशः।**  
 **आजीवनार्थं धर्मस्तु दानमध्ययनं यजिः॥ ७९**
-
-
 
 **वेदाभ्यासो ब्राह्मणस्य क्षत्रियस्य च रक्षणम्।**  
 **वार्ताकर्मैव वैश्यस्य विशिष्टानि स्वकर्मसु॥ ८०**
@@ -8503,8 +7907,6 @@ LADURAM TRIVEDI,
 **काममुत्पाद्य कृष्यां तु स्वयमेव कृषीवलः।**  
 **विक्रीणीत तिलान्शूद्रान्धर्मार्थमचिरस्थितान्॥ ९०**
 
-
-
 **भोजनाभ्यञ्जनाद्दानाद्यदन्यत्कुरुते तिलैः।**  
 **कृमिभूतः श्वविष्ठायां पितृभिः सह मज्जति॥ ९१**
 
@@ -8537,8 +7939,6 @@ LADURAM TRIVEDI,
 
 **वैश्यवृत्तिमनातिष्ठन्ब्राह्मणः स्वे पथि स्थितः।**  
 **अवृत्तिकर्षितः सीदन्निमं धर्मं समाचरेत्॥ १०१**
-
-
 
 **सर्वतः प्रतिगृह्णीयाद्ब्राह्मणस्त्वनयं गतः।**  
 **पवित्रं दुष्यतीत्येतद्धर्मतो नोपपद्यते॥ १०२**
@@ -8573,8 +7973,6 @@ LADURAM TRIVEDI,
 **शिलोञ्छमप्याददीत विप्रोऽजीवन्यतस्ततः।**  
 **प्रतिग्रहाच्छिलः श्रेयांस्ततोऽप्युञ्छः प्रशस्यते॥ ११२**
 
-
-
 **सीदद्भिः कुप्यमिच्छद्भिर्धनं वा पृथिवीपतिः।**  
 **याच्यः स्यात्स्नातकैर्विप्रैरदित्संस्त्यागमर्हति॥ ११३**
 
@@ -8608,10 +8006,6 @@ LADURAM TRIVEDI,
 **विप्रसेवैव शूद्रस्य विशिष्टं कर्म कीर्त्यते।**  
 **यदतोऽन्यद्धि कुरुते तद्भवत्यस्य निष्फलम्॥ १२३**
 
-
-
-
-
 **प्रकल्प्या तस्य तैर्वृत्तिः स्वकुटुम्बाद्यथार्हतः।  
 शक्तिं चावेक्ष्य दाक्ष्यं च भृत्यानां च परिग्रहम्॥ १२४**
 
@@ -8636,12 +8030,8 @@ LADURAM TRIVEDI,
 **एष धर्मविधिः कृत्स्नश्चातुर्वर्ण्यस्य कीर्तितः।  
 अतः परं प्रवक्ष्यामि प्रायश्चित्तविधिं शुभम्॥ १३१**
 
-
-
 **इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां मनुस्मृत्यां  
 दशमोऽध्याय ॥१०॥**
-
-
 
 **एकादशोऽध्यायः।**
 
@@ -8673,8 +8063,6 @@ LADURAM TRIVEDI,
 
 **शक्तः परजने दाता स्वजने दुःखजीविनि।**  
 **मध्वापातो विषास्वादः स धर्मप्रतिरूपकः॥ ९**
-
-
 
 **भृत्यानामुपरोधेन यत्करोत्यौर्ध्वदेहिकम्।  
 तद्भवत्यसुखोदर्कं जीवतश्च मृतस्य च॥ १०**
@@ -8709,8 +8097,6 @@ LADURAM TRIVEDI,
 **यद्धनं यज्ञशीलानां देवस्वं तद्विदुर्बुधाः।**  
 **अयज्वनां तु यद्वित्तमासुरस्वं तदुच्यते॥ २०**
 
-
-
 **न तस्मिन्धारयेद्दण्डं धार्मिकः पृथिवीपतिः।**  
 **क्षत्रियस्य हि बालिश्याद्ब्राह्मणः सीदति क्षुधा॥ २१**
 
@@ -8743,8 +8129,6 @@ LADURAM TRIVEDI,
 
 **न ब्राह्मणो वेदयेत किञ्चिद्राजनि धर्मवित्।**  
 **स्ववीर्येणैव ताञ्छिष्यान्मानवानपकारिणः॥ ३१**
-
-
 
 **स्ववीर्याद्राजवीर्याच्च स्ववीर्यं बलवत्तरम्।**  
 **तस्मात्स्वेनैव वीर्येण निगृह्णीयादरीन्द्विजः॥ ३२**
@@ -8779,8 +8163,6 @@ LADURAM TRIVEDI,
 **ये शूद्रादधिगम्यार्थमग्निहोत्रमुपासते।**  
 **ऋत्विजस्ते हि शूद्राणां ब्रह्मवादिषु गर्हिताः॥ ४२**
 
-
-
 **तेषां सततमज्ञानां वृषलाग्न्युपसेविनाम्।**  
 **पदा मस्तकमाक्रम्य दाता दुर्गाणि सन्तरेत्॥४३॥**
 
@@ -8813,8 +8195,6 @@ LADURAM TRIVEDI,
 
 **एवं कर्मविशेषेण जायन्ते सद्विगर्हिताः।  
 जडमूकान्धबधिरा विकृताकृतयस्तथा॥५३॥**
-
-
 
 **चरितव्यमतो नित्यं प्रायश्चित्तं विशुद्धये।  
 निन्द्यैर्हि लक्षणैर्युक्ता जायन्तेऽनिष्कृतैनसः॥५४॥**
@@ -8849,8 +8229,6 @@ LADURAM TRIVEDI,
 **सर्वाकरेष्वधीकारो महायन्त्रप्रवर्तनम्।  
 हिंसौषधीनां स्त्र्याजीवोऽभिचारो मूलकर्म च॥६४॥**
 
-
-
 **इन्धनार्थमशुष्काणां द्रुमाणामवपातनम्।  
 आत्मार्थं च क्रियारम्भो निन्दितान्नादनं तथा॥६५॥**
 
@@ -8883,8 +8261,6 @@ LADURAM TRIVEDI,
 
 **यजेत वाऽश्वमेधेन स्वर्जिता गोसवेन वा।  
 अभिजिद्विश्वजिद्भ्यां वा त्रिवृताग्निष्टुताऽपि वा॥७५॥**
-
-
 
 **जपन्वान्यतमं वेदं योजनानां शतं व्रजेत्।  
 ब्रह्महत्यापनोदाय मितभुङ्नियतेन्द्रियः॥७६॥**
@@ -8919,8 +8295,6 @@ LADURAM TRIVEDI,
 **तेषां वेदविदो ब्रूयुस्त्रयोऽप्येनः सुनिष्कृतिम्।  
 सा तेषां पावनाय स्यात्पवित्रं विदुषां हि वाक्॥८६॥**
 
-
-
 **अतोऽन्यतममास्थाय विधिं विप्रः समाहितः।  
 ब्रह्महत्याकृतं पापं व्यपोहत्यात्मवत्तया॥८७॥**
 
@@ -8953,8 +8327,6 @@ LADURAM TRIVEDI,
 
 **अमेध्ये वा पतेन्मत्तो वैदिकं वाप्युदाहरेद्।  
 अकार्यमन्यत्कुर्याद्वा ब्राह्मणो मदमोहतः॥९७॥**
-
-
 
 **यस्य कायगतं ब्रह्म मद्येनाप्लाव्यते सकृत्।  
 तस्य व्यपैति ब्राह्मण्यं शूद्रत्वं च स गच्छति॥९८॥**
@@ -8989,8 +8361,6 @@ LADURAM TRIVEDI,
 **एतैर्व्रतैरपोहेयुर्महापातकिनो मलम्।  
 उपपातकिनस्त्वेवमेभिर्नानाविधैर्व्रतैः॥१०८॥**
 
-
-
 **उपपातकसंयुक्तो गोघ्नो मासं यवान्पिबेत्।  
 कृतवापो वसेद्गोष्ठे चर्मणा तेन संवृतः॥१०९॥**
 
@@ -9023,8 +8393,6 @@ LADURAM TRIVEDI,
 
 **अवकीर्णी तु काणेन गर्दभेन चतुष्पथे।  
 पाकयज्ञविधानेन यजेत निर्ऋतिं निशि॥११९॥**
-
-
 
 **हुत्वाऽग्नौ विधिवद्धोमानन्ततश्च समेत्यृचा।  
 वातेन्द्रगुरुवह्नीनां जुहुयात्सर्पिषाहुतीः॥१२०॥**
@@ -9059,8 +8427,6 @@ LADURAM TRIVEDI,
 **एतदेव चरेदब्दं प्रायश्चित्तं द्विजोत्तमः।  
 प्रमाप्य वैश्यं वृत्तस्थं दद्याच्चैकशतं गवाम्॥१३०॥**
 
-
-
 **एतदेव व्रतं कृत्स्नं षण्मासान्शूद्रहा चरेत्।**  
 **वृषभैकादशा वापि दद्याद्विप्राय गाः सिताः॥१३१॥**
 
@@ -9093,8 +8459,6 @@ LADURAM TRIVEDI,
 
 **अस्थिमतां तु सत्वानां सहस्रस्य प्रमापणे।**  
 **पूर्णे चानस्यनस्थ्नां तु शूद्रहत्याव्रतं चरेत्॥१४१॥**
-
-
 
 **किंचिदेव तु विप्राय दद्यादस्थिमतां वधे।**  
 **अनस्थ्नां चैव हिंसायां प्राणायामेन शुद्ध्यति॥१४२॥**
@@ -9129,8 +8493,6 @@ LADURAM TRIVEDI,
 **वपनं मेखलादण्डो भैक्षचर्या व्रतानि च।  
 निवर्तन्ते द्विजातीनां पुनः संस्कारकर्मणि॥१५२॥**
 
-
-
 **अभोज्यानां तु भुक्त्वाऽऽन्नं स्त्रीशूद्रोच्छिष्टमेव च।  
 जग्धा मांसमभक्ष्यञ्च सप्तरात्रं यवान्पिबेत्॥१५३॥**
 
@@ -9163,8 +8525,6 @@ LADURAM TRIVEDI,
 
 **धान्यान्नधनचौर्याणि कृत्वा कामाद्द्विजोत्तमः।  
 स्वजातीयगृहादेव कृच्छ्राब्देन विशुध्यति॥१६३॥**
-
-
 
 **मैथुनं तु समासेव्य पुंसि योषिति वा द्विजः।  
 गोयानेऽप्सु दिवा चैव सवासाः स्नानमाचरेत्॥१७५॥**
@@ -9199,8 +8559,6 @@ LADURAM TRIVEDI,
 **निवर्तेरंश्च तस्मात्तु सम्भाषण सहासने।  
 दायाद्यस्य प्रदानं च यात्रा चैव हि लौकिकी॥१८५॥**
 
-
-
 **सत्यमुक्त्वा तु विप्रेषु विकिरेद्यवसं गवाम्।  
 गोभिः प्रवर्तिते तीर्थे कुर्युस्तस्य परिग्रहम्॥१९७॥**
 
@@ -9233,8 +8591,6 @@ LADURAM TRIVEDI,
 
 **अवगूर्य त्वब्दशतं सहस्रमभिहत्य च।  
 जिघांसया ब्राह्मणस्य नरकं प्रतिपद्यते॥२०७॥**
-
-
 
 **शोणितं यावतः पांसून्संगृह्णाति महीतले।  
 तावन्त्यब्दसहस्राणि तत्कर्ता नरकं (व्रजेत्) वसेत्॥२०८॥**
@@ -9269,8 +8625,6 @@ LADURAM TRIVEDI,
 **एतमेव विधिं कृत्स्नमाचरेद्यवमध्यमे।  
 शुक्लपक्षादिनियतश्चरंश्चान्द्रायणं व्रतम्॥२१८॥**
 
-
-
 अष्टावष्टौ समश्नीयात्पिण्डान्मध्यन्दिने स्थिते।  
 नियतात्मा हविष्याशी यतिचान्द्रायणं चरन्॥२१९॥
 
@@ -9303,8 +8657,6 @@ LADURAM TRIVEDI,
 
 यथा यथा नरोऽधर्मं स्वयं कृत्वाऽनुभाषते।  
 तथा तथा त्वचेवाहिस्तेनाधर्मेण मुच्यते॥२२९॥
-
-
 
 **यथा यथा मनस्तस्य दुष्कृतं कर्म गर्हति।  
 तथा तथा शरीरं तत्तेनाधर्मेण मुच्यते॥२३०॥**
@@ -9339,8 +8691,6 @@ LADURAM TRIVEDI,
 **महापातकिनश्चैव शेषाश्चा कार्यकारिणः।  
 तपसैव सुतप्तेन मुच्यन्ते किल्बिषात्ततः॥२४०॥**
 
-
-
 **कीटाश्चाहिपतङ्गाश्च पशवश्च वयांसि च।  
 स्थावराणि च भूतानि दिवं यान्ति तपोबलात्॥२४१॥**
 
@@ -9373,8 +8723,6 @@ LADURAM TRIVEDI,
 
 **सकृज्जप्त्वास्य वामीयं शिवसङ्कल्पमेव च।  
 अपहृत्य सुवर्णं तु क्षणाद्भवति निर्मलः॥२५१॥**
-
-
 
 **हवीष्यान्तीयमभ्यस्य न तमं ह इतीति च।**  
 **जपित्वा पौरुषं सूक्तं मुच्यते गुरुतल्पगः॥२५२॥**
@@ -9409,8 +8757,6 @@ LADURAM TRIVEDI,
 **हत्वा लोकानपीमांस्त्रीनश्नन्नपि यतस्ततः।**  
 **ऋग्वेदं धारयन्विप्रो नैनः प्राप्नोति किञ्चन॥२६२॥**
 
-
-
 **ऋक्संहितां त्रिरभ्यस्य यजुषां वा समाहितः।  
 साम्नां वा सरहस्यानां सर्वपापैः प्रमुच्यते॥२६३॥**
 
@@ -9436,8 +8782,6 @@ LADURAM TRIVEDI,
 
 **स तानुवाच धर्मात्मा महर्षीन्मानवो भृगुः।  
 अस्य सर्वस्य शृणुत कर्मयोगस्य निर्णयम्॥२॥**
-
-
 
 **शुभाशुभफलं कर्म मनोवाग्देहसम्भवम्।**  
 **कर्मजा गतयो नॄणामुत्तमाधममध्यमः॥३॥**
@@ -9472,8 +8816,6 @@ LADURAM TRIVEDI,
 **जीवसंज्ञोऽन्तरात्माऽन्यः सहजः सर्वदेहिनाम्।**  
 **येन वेदयते सर्वं सुखं दुःखं च जन्मसु॥१३॥**
 
-
-
 **तावुभौ भूतसंपृक्तौ महान्क्षेत्रज्ञ एव च।**  
 **उच्चावचेषु भूतेषु स्थितं तं व्याप्य तिष्ठतः॥१४॥**
 
@@ -9506,8 +8848,6 @@ LADURAM TRIVEDI,
 
 **सत्त्वं रजस्तमश्चैव त्रीन्विद्यादात्मनो गुणान्।**  
 **यैर्व्याप्येमान्स्थितो भावान्महान्सर्वानशेषतः॥२४॥**
-
-
 
 **यो यदैषां गुणो देहे साकल्येनातिरिच्यते।**  
 **स तदा तद्गुणप्रायं तं करोति शरीरिणम्॥२५॥**
@@ -9542,8 +8882,6 @@ LADURAM TRIVEDI,
 **यत्कर्म कृत्वा कुर्वंश्च करिष्यंश्चैव लज्जति।**  
 **तज्ज्ञेयं विदुषा सर्वं तामसं गुणलक्षणम्॥३५॥**
 
-
-
 **येनास्मिन्कर्मणा लोके ख्यातिमिच्छति पुष्कलाम्।**  
 **न च शोचत्यसम्पत्तौ तद्विज्ञेयं तु राजसम्॥३६॥**
 
@@ -9576,8 +8914,6 @@ LADURAM TRIVEDI,
 
 **राजानः क्षत्त्रियाश्चैव राज्ञां चैव पुरोहिताः।**  
 **वादयुद्धप्रधानाश्च मध्यमा राजसी गतिः॥४६॥**
-
-
 
 **यो यदैषां गुणो देहे साकल्येनातिरिच्यते।**  
 **स तदा तद्गुणप्रायं तं करोति शरीरिणम्॥२५॥**
@@ -9612,8 +8948,6 @@ LADURAM TRIVEDI,
 **यत्कर्म कृत्वा कुर्वंश्च करिष्यंश्चैव लज्जति।**  
 **तज्ज्ञेयं विदुषा सर्वं तामसं गुणलक्षणम्॥३५॥**
 
-
-
 **येनास्मिन्कर्मणा लोके ख्यातिमिच्छति पुष्कलाम्।**  
 **न च शोचत्यसम्पत्तौ तद्विज्ञेयं तु राजसम्॥३६॥**
 
@@ -9646,8 +8980,6 @@ LADURAM TRIVEDI,
 
 **राजानः क्षत्त्रियाश्चैव राज्ञां चैव पुरोहिताः।**  
 **वादयुद्धप्रधानाश्च मध्यमा राजसी गतिः॥४६॥**
-
-
 
 **गन्धर्वा गुह्यका यक्षा विबुधानुचराश्च ये।**  
 **तथेवाप्सरसः सर्वा राजसीषूत्तमा गतिः॥४७॥**
@@ -9682,8 +9014,6 @@ LADURAM TRIVEDI,
 **लूताहिसरटानां च तिरश्चां चाम्बुचारिणाम्।**  
 **हिंस्राणां च पिशाचानां स्तेनो विप्रः सहस्रशः॥५७॥**
 
-
-
 **तृणगुल्मलतानां च क्रव्यादां दंष्ट्रिणामपि।**  
 **क्रूरकर्मकृतां चैव शतशो गुरुतल्पगः॥५८॥**
 
@@ -9716,8 +9046,6 @@ LADURAM TRIVEDI,
 
 **यद्वा तद्वा परद्रव्यमपहृत्य बलान्नरः।**  
 **अवश्यं याति तिर्यक्त्वं जग्ध्वा चैवाहुतं हविः॥६८॥**
-
-
 
 **सर्वभूतेषु चात्मानं सर्वभूतानि चात्मनि।**  
 **समं पश्यन्नात्मयाजी स्वाराज्यमधिगच्छति॥९१॥**
@@ -9752,8 +9080,6 @@ LADURAM TRIVEDI,
 **यथा जातबलो वह्निर्दहत्यार्द्रानपि द्रुमान्।**  
 **तथा दहति वेदज्ञः कर्मजं दोषमात्मनः॥१०१॥**
 
-
-
 **वेदशास्त्रार्थतत्त्वज्ञो यत्र तत्राश्रमे वसन्।**  
 **इहैव लोके तिष्ठन्स ब्रह्मभूयाय कल्पते॥१०२॥**
 
@@ -9786,10 +9112,6 @@ LADURAM TRIVEDI,
 
 **ऋग्वेदविद्यजुर्विच्च सामवेदविदेव च।**  
 **त्र्यवरा परिषज्ज्ञेया धर्मसंशयनिर्णये॥११२॥**
-
-
-
-
 
 **एकोऽपि वेदविद्धर्मं यं व्यवस्येद्द्विजोत्तमः।  
 स विज्ञेयः परो धर्मो नाज्ञानामुदितोऽयुतैः॥११३॥**
@@ -9824,10 +9146,6 @@ LADURAM TRIVEDI,
 **एतमेके वदन्त्यग्निं मनुमन्ये प्रजापतिम्।  
 इन्द्रमेके परे प्राणमपरे ब्रह्म शाश्वतम्॥१२३॥**
 
-
-
-
-
 **एष सर्वाणि भूतानि पञ्चभिर्व्याप्य मूर्तिभिः।**  
 **जन्मवृद्धिक्षयैर्नित्यं संसारयति चक्रवत्॥१२४॥**
 
@@ -9844,8 +9162,6 @@ LADURAM TRIVEDI,
 **शुभं भवतु।**
 
 **![](../books_images/U-IMG-1725550933EBHARAT.PNG)**
-
-
 
 **॥श्रीः॥**
 
@@ -9872,8 +9188,6 @@ LADURAM TRIVEDI,
 
 सारस्तु व्यवहाराणां प्रतिज्ञा समुदाहृता।  
 तद्धानौ हीयते वादी तरंस्तामुत्तरो भवेत्॥६॥
-
-
 
 कुलानि श्रेणयश्चैव गणाश्चाधिकृता नृपैः।  
 प्रतिष्ठा व्यवहारस्य गुर्वेषामुत्तरोत्तरम्॥७॥
@@ -9907,8 +9221,6 @@ LADURAM TRIVEDI,
 
 वेतनस्यानपाकर्म तथैवास्वामिविक्रयः।  
 विक्रीयासम्प्रदानं च क्रीत्वानुशय एव च॥१७॥
-
-
 
 **समयस्यानपाकर्म विवादः क्षेत्रजस्तथा।  
 स्त्रीपुंसयोश्च सम्बन्धो दायभागोऽथ साहसम्॥१८**
@@ -9965,8 +9277,6 @@ LADURAM TRIVEDI,
 
 ॥
 
-
-
 **धर्मशास्त्रं पुरस्कृत्य प्राड्विवाकमते स्थितः।  
 समाहितमतिः पश्येद् व्यवहाराननुक्रमात्॥२९॥**
 
@@ -9999,8 +9309,6 @@ LADURAM TRIVEDI,
 
 **गोभूहिरण्यस्त्रीस्तेयपारुष्यात्ययिकेषु च।  
 साहसेष्वभिशापे च सद्य एव विवादयेत्॥३९॥**
-
-
 
 **अनिवेद्य तु यो राज्ञः सन्दिग्धेऽर्थे प्रवर्तते।  
 प्रसह्य स विनेयः स्यात्स चाप्यर्थो न सिध्यति॥४०॥**
@@ -10035,8 +9343,6 @@ LADURAM TRIVEDI,
 **न च मिथ्याभियुञ्जीत दोषो मिथ्याभियोगिनः।  
 यस्तत्र विनयः प्रोक्तः सोऽभियोक्तारमाव्रजेत्॥५०॥**
 
-
-
 **सापदेशं हरन् कालमब्रुवंश्चापि संसदि।  
 उक्त्वा वचो विब्रुवंश्चहीयमानस्य लक्षणम्॥५१॥**
 
@@ -10069,8 +9375,6 @@ LADURAM TRIVEDI,
 
 **अतः परीक्ष्यमुभयमतद्राज्ञा विशेषतः।  
 लेख्याचारेण लिखितं साक्ष्याचारेण साक्षिणः॥६१॥**
-
-
 
 **असत्याः सत्यसङ्काशाः सत्याश्चासत्यदर्शनाः।  
 दृश्यन्ते विविधा भावास्तस्माद्युक्तं परीक्षणम्॥६२॥**
@@ -10107,8 +9411,6 @@ LADURAM TRIVEDI,
 **यत्र धर्मो ह्यधर्मेण सत्यं यत्रानृतेन च।  
 हन्यते प्रेक्षमाणानां हतास्तत्र सभासदः॥७२॥**
 
-
-
 **सभा वा न प्रवेष्टव्या वक्तव्यं वा समञ्जसम्।  
 अब्रुवन् विब्रुवन्वापि नरो भवति किल्बिषी॥७३॥**
 
@@ -10139,8 +9441,6 @@ LADURAM TRIVEDI,
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **अथ ऋणादानं प्रथमं विवादपदम्।**
 
 **ऋणं देयमदेयं च येन यत्र यथा च यत्।  
@@ -10169,8 +9469,6 @@ LADURAM TRIVEDI,
 
 **पितुरेव नियोगाद्यत्कुटुम्बभरणाय वा।  
 कृतं वा यदृणं कृच्छ्रे दद्यात्पुत्रस्य तत्पिता॥९॥**
-
-
 
 **शिष्यान्तेवासिदासस्त्रीवैयावृत्त्यकरैश्च यत्।  
 कुटुम्बहेतोरुच्छिन्नं वोढव्यं तत्कुटुम्बिना॥१०॥**
@@ -10205,8 +9503,6 @@ LADURAM TRIVEDI,
 **धनस्त्रीहारिपुत्राणामृणभाग् यो धनं हरेत्।  
 पुत्रोऽसतोः स्त्रीधनिनोः स्त्रीहारी धनिपुत्रयोः॥२०॥**
 
-
-
 **उत्तमा स्वैरिणीनां या पुनर्भ्वामुत्तमा तथा।  
 ऋणं तयोः पतिकृतं दद्याद्यस्ते उपाश्नुते॥२१॥**
 
@@ -10239,8 +9535,6 @@ LADURAM TRIVEDI,
 
 **गर्भस्थसदृशो ज्ञेय आष्टमाद्वत्सराच्छिशुः।  
 बाल आ षोडशाद्वर्षात्पौगण्डश्चेति शब्द्यते॥३१॥**
-
-
 
 **परतो व्यवहारज्ञः स्वतन्त्रः पितरावृते।  
 जीवतोर्ह्यस्वतन्त्रः स्याज्जरयापि समन्वितः॥३२॥**
@@ -10275,8 +9569,6 @@ LADURAM TRIVEDI,
 **कुसीदकृषिवाणिज्यशुल्कशिल्पानुवृत्तिभिः।  
 कृतोपकारादाप्तं च शबलं समुदाहृतम्॥४२॥**
 
-
-
 **पार्श्वकद्यूतदूतार्तप्रतिरूपकसाहसैः।  
 व्याजेनोपार्जितं यच्चतत्कृष्णं समुदाहृतम्॥४३॥**
 
@@ -10309,8 +9601,6 @@ LADURAM TRIVEDI,
 
 **न कथञ्चन कुर्वीत ब्राह्मणः कर्म वार्षलम्।  
 वृषलः कर्म न ब्राह्मं पतनीयौ हि तौतयोः॥५३॥**
-
-
 
 **उत्कृष्टं चापकृष्टं च तयोः कर्म न विद्यते।  
 मध्यमे कर्मणी हित्वा सर्वसाधारणे हि ते॥५४॥**
@@ -10345,8 +9635,6 @@ LADURAM TRIVEDI,
 **प्रमाणानि प्रमाणस्थैः परिपाल्यानि यत्नतः।  
 सीदन्ति हि प्रमाणानि प्रमाणैरव्यवस्थितैः॥६४॥**
 
-
-
 **निर्भोगो यत्र दृश्येत न दृश्येतागमः क्वचित्।  
 आगमः कारणं तत्र न भोगस्तत्र कारणम्॥७६॥**
 
@@ -10379,8 +9667,6 @@ LADURAM TRIVEDI,
 
 **स्थानलाभनिमित्तं हि दानग्रहणमिष्यते।  
 तत्कुसीदमिति ज्ञेयं तेन वृत्तिः कुसीदिनाम्॥८६॥**
-
-
 
 **कायिका कालिका चैव कारिका च तथास्मृता।  
 चक्रवृद्धिश्च शास्त्रेषु तस्य वृद्धिश्चतुर्विधा॥८७॥**
@@ -10415,8 +9701,6 @@ LADURAM TRIVEDI,
 **यदा च न सकुल्याः स्युर्नच सम्बन्धिबान्धवाः।  
 तदा दद्यात्स्वजातिभ्यस्तेष्वसत्स्वप्सु निक्षिपेत्॥९७॥**
 
-
-
 **गृहीत्वोपगतं दद्याद् ऋणिकायोदयं धनी।  
 अददद् याच्यमानस्तु शेषहानिमवाप्नुयात्॥९८॥**
 
@@ -10449,8 +9733,6 @@ LADURAM TRIVEDI,
 
 **रक्ष्यमाणोऽपि यत्राधिः कालेनेयादसारताम्।  
 आधिरन्योऽधिकर्तव्यो देयं वा धनिने धनम्॥१०८॥**
-
-
 
 **ऋणिकः सधनो यस्तु दौरात्म्यान्न प्रयच्छति।  
 राज्ञा दापयितव्यः स्याद् गृहीत्वांशं तु विंशकम्॥१०९॥**
@@ -10485,8 +9767,6 @@ LADURAM TRIVEDI,
 **लेख्ये देशान्तरन्यस्ते दग्धे दुर्लिखिते हृते।  
 सतस्तत्कालकरणमसतोऽदृष्टदर्शनम्॥११९॥**
 
-
-
 **यस्मिन्स्यात्संशयो लेख्ये भूताभूतकृते क्वचित्।  
 तत्स्वहस्तक्रियाचिह्नप्राप्तियुक्तिभिरुद्धरेत्॥१२०॥**
 
@@ -10519,8 +9799,6 @@ LADURAM TRIVEDI,
 
 **कुलीना ऋजवः शुद्धा जन्मतः कर्मतोऽर्थतः।  
 त्र्यवराः साक्षिणोऽनिन्द्याः शुचयः स्युः सुबुद्धयः॥१३०॥**
-
-
 
 **ब्राह्मणाः क्षत्त्रिया वैश्याः शूद्रा ये चाप्यनिन्दिताः।  
 प्रतिवर्णंभवेयुस्ते सर्वे सर्वेषु वा पुनः॥१३१॥**
@@ -10555,8 +9833,6 @@ LADURAM TRIVEDI,
 **योऽर्थः श्रावयितव्यः स्यात् तस्मिन्नसति चार्थिनि।  
 क्व तद् वदति साक्षित्वमित्यसाक्षी मृतान्तरः॥१४१॥**
 
-
-
 **द्वयोर्विवदतोरर्थे द्वयोः सत्सु च साक्षिषु।  
 पूर्वपक्षो भवेद् यस्य भवेयुस्तस्य साक्षिणः॥१४२॥**
 
@@ -10589,8 +9865,6 @@ LADURAM TRIVEDI,
 
 **उल्काहस्तोऽग्निदो ज्ञेयः शस्त्रपाणिस्तु घातकः।  
 केशाकेशिगृहीतस्तु युगपत् पारदारिकः॥१५२॥**
-
-
 
 **वधकृच्चित्रकृन्मङ्खः पतितः कूटकारकः।  
 कुहकः प्रत्यवसृतस्तस्करो राजपूरुषः॥१६४॥**
@@ -10625,8 +9899,6 @@ LADURAM TRIVEDI,
 **भिद्यते मुखवर्णोऽस्य ललाटं स्विद्यते तथा।  
 शोषमागच्छतश्चोष्ठावूर्ध्वं तिर्यक् च वीक्षते॥१७४॥**
 
-
-
 **त्वरमाण इवापृष्टो बह्वबद्धं च भाषते।  
 कूटसाक्षी स विज्ञेयस्तं पापं विनयेद् भृशम्॥१७५॥**
 
@@ -10660,8 +9932,6 @@ LADURAM TRIVEDI,
 **यावतो बान्धवान् यस्मिन्हन्ति मादतेऽनृतं वदन्।  
 तावतः सङ्ख्यया तस्मिञ्शृणु सौम्यानुपूर्वशः॥१८५॥**
 
-
-
 **पञ्च पश्वनृते हन्ति दश हन्ति गवानृते।  
 शतमश्वानृते हन्ति सहस्रं पुरुषानृते॥१८६॥**
 
@@ -10694,8 +9964,6 @@ LADURAM TRIVEDI,
 
 **शूले मत्स्यानिवाक्षिप्य क्रोशन्तमपरायणम्।  
 अवाक्छिरसमुत्क्षिप्य क्षेप्स्यन्त्यग्निह्रदेषु च॥१९६॥**
-
-
 
 अनुभूय च दुःखास्ताश्चिरं नरकवेदनाः।  
 इहायास्यस्यभव्यासु गृध्रकाकादियोनिषु॥१९७
@@ -10767,8 +10035,6 @@ LADURAM TRIVEDI,
 
 **॥**
 
-
-
 निर्दिष्टेष्वर्थजातेषु साक्षी चेत्साक्ष्य आगते।  
 न ब्रूयादक्षरसमं न तन्निगदितं भवेत्॥२०८
 
@@ -10824,8 +10090,6 @@ LADURAM TRIVEDI,
 
 **॥**
 
-
-
 सप्तर्षयस्तथा सेन्द्राः पुष्करार्थे तपोधनाः।  
 शेपुः शपथमव्यग्राः परस्परविशुद्धये॥२१९
 
@@ -10871,8 +10135,6 @@ LADURAM TRIVEDI,
 तत्रापि दण्ड्यः स भवेत् तच्चसोदयमाप्नुयात्॥५
 
 **॥**
-
-
 
 ग्रहीतुः सह योऽर्थेन नष्टो नष्टः स दायिनः।  
 दैवराजकृते तद्वन्न चेत् तज्जिह्मकारितम्॥६
@@ -10924,8 +10186,6 @@ LADURAM TRIVEDI,
 
 **॥**
 
-
-
 दैवतस्करराजोत्थे व्यसने समुपस्थिते।  
 यस्तत् स्वशक्त्यासंरक्षेत् तस्यांशी दशमः स्मृतः॥६॥
 
@@ -10961,8 +10221,6 @@ LADURAM TRIVEDI,
 
 इति सम्भूयसमुत्थानं तृतीयं विवादपदम्।
 
-
-
 अथ दत्ताप्रदानिकं चतुर्थं विवादपदम्।
 
 दत्त्वा द्रव्यमसम्यग् यः पुनरादातुमिच्छति।  
@@ -10995,8 +10253,6 @@ LADURAM TRIVEDI,
 **अपात्रे पात्रमित्युक्ते कार्ये चाधर्मसंहिते।  
 यद् दत्तं स्यादविज्ञानाददत्तं तत् प्रकीर्तितम्॥१०॥**
 
-
-
 गृह्णात्यदत्तं यो लोभाद् यश्चादेयं प्रयच्छति।  
 अदत्तादायको दण्ड्यस्तथादेयस्य दायकः॥११॥
 
@@ -11026,8 +10282,6 @@ LADURAM TRIVEDI,
 
 इष्टतःस्वामिनश्चाङ्गैरुपस्थानमथान्ततः।  
 अशुभं कर्म विज्ञेयं शुभमन्यदतः परम्॥७॥
-
-
 
 आ विद्याग्रहणाच्छिष्यःशुश्रूषन् प्रयतो गुरुम्।  
 तद्वृत्तिर्गुरुदारेषु गुरुपुत्रे तथैव च॥८॥
@@ -11062,8 +10316,6 @@ LADURAM TRIVEDI,
 शिक्षितोऽपि कृतं कालमन्तेवासी समाप्नुयात्।  
 तत्र कर्म च यत् कुर्यादाचार्यस्यैव तत्फलम्॥१८॥
 
-
-
 गृहीतशिल्पःसमये कृत्वाचार्यंप्रदक्षिणम्।  
 शिक्षितश्चानुमान्यैनमन्तेवासी निवर्तयेत्॥१९॥
 
@@ -11096,8 +10348,6 @@ LADURAM TRIVEDI,
 
 अनाकालभृतो दास्यान्मुच्यते गोयुगं ददत्।  
 सम्भक्षितं यद् दुर्भिक्षे न तच्छुध्येत कर्मणा॥२९॥
-
-
 
 आधत्तोऽथ धनं दत्त्वास्वामी यद्येनमुद्धरेत्।  
 अथोपगमयेदेनं सोऽपि क्रीतादनन्तरः॥३०॥
@@ -11132,8 +10382,6 @@ LADURAM TRIVEDI,
 स्वदासमिच्छेद् यं कर्तुमदासं प्रीतमानसः।  
 स्कन्धादादाय तस्याथ भिन्द्यात् कुम्भं सहाम्भसा॥४०॥
 
-
-
 अक्षताभिः सपुष्पाभिर्मूर्धन्येनमवाकिरेत्।  
 अदास इति चोक्त्वा त्रिः प्राङ्मुखं तमथोत्सृजेत्॥४१॥
 
@@ -11163,8 +10411,6 @@ LADURAM TRIVEDI,
 
 अनयन् नादयित्वा तु भाण्डं वा यानवाहने।  
 दाप्यो भृतिचतुर्भागं सर्वामर्धपथे त्यजन्॥६॥
-
-
 
 कालेऽपूर्णे त्यजन् कर्म भृतिनाशमवाप्नुयात्।  
 स्वामिदोषादपक्रामेद् यावत् कृतकमालभेत्॥७॥
@@ -11199,8 +10445,6 @@ LADURAM TRIVEDI,
 तासामनवरुद्धानां चरन्तीनां मिथो वने।  
 याः प्रसह्यवृको हन्यान्न पालस्तत्र किल्बिषी॥१७॥
 
-
-
 विघुष्य तु हृतं चोरैर्न पालो दातुमर्हति।  
 यदि देशे च काले च स्वामिनः स्वस्य शंसति॥१८॥
 
@@ -11231,8 +10475,6 @@ LADURAM TRIVEDI,
 द्रव्यमस्वामिविक्रीतंप्राप्य स्वामी तदाप्नुयात्।  
 प्रकाशं क्रयतः शुद्धिःक्रेतुः स्तेयं रहःक्रयात्॥२॥
 
-
-
 अस्वाम्यनुमताद्दासादसतश्च जनाद् रहः।  
 हीनमूल्यमवेलायां क्रीणंस्तद्दोषभाग् भवेत्॥३॥
 
@@ -11262,8 +10504,6 @@ LADURAM TRIVEDI,
 
 **लोकेऽस्मिन् द्विविधं द्रव्यं स्थावरं जङ्गमं तथा।  
 क्रयविक्रयधर्मेषु सर्वं तत् पण्यमुच्यते॥२॥**
-
-
 
 षड्विधस्तस्य तु बुधैर्दानादानविधिक्रमः।  
 गणिमंतुलिमं मेयं क्रियया रूपतः श्रिया॥३॥
@@ -11301,8 +10541,6 @@ LADURAM TRIVEDI,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 अथ क्रीत्वानुशयो नवमं विवादपदम्।
 
 क्रीत्वा मूल्येन यत् पण्यं क्रेता न बहु मन्यते।  
@@ -11334,8 +10572,6 @@ LADURAM TRIVEDI,
 
 लोहानामपि सर्वेषां हेतुरग्निःक्रियाविधौ।  
 क्षयःसंस्क्रियमाणानां तेषां दृष्टोऽग्निसङ्गमात्॥१०॥
-
-
 
 सुवर्णस्य क्षयो नास्तिरजतं द्विपलं शतम्।  
 शतमष्टपलं ज्ञेयंक्षयःस्यात् त्रपुसीसयोः॥११॥
@@ -11370,8 +10606,6 @@ LADURAM TRIVEDI,
 यो धर्मः कर्मयच्चैषामुपस्थानविधिश्च यः।  
 यच्चैषां (प्रत्यु? वृत्त्यु)पादानमनुमन्येत तत् तथा॥३॥
 
-
-
 प्रतिकूलं च यद् राज्ञः प्रकृत्यवमतं च यत्।  
 बाधकं चयदर्थानां तत् तेभ्यो विनिवर्तयेत्॥४॥
 
@@ -11401,8 +10635,6 @@ LADURAM TRIVEDI,
 
 समुन्नयेयुस्ते सीमां लक्षणैरुपलक्षिताम्।  
 तुषाङ्गारकपालानां कुम्भैरायतनैर्द्रुमैः॥४॥
-
-
 
 अभिज्ञानैश्च वल्मीकस्थलनिम्नोन्नतादिभिः।  
 केदारागारमार्गैश्च पुराणैः सेतुभिस्तथा॥५॥
@@ -11437,8 +10669,6 @@ LADURAM TRIVEDI,
 सेतुस्तु द्विविधो ज्ञेयः खन्यो बध्यस्तथैव च।  
 तोयप्रवर्तने खन्योबध्यःस्याद्विनिवर्तने॥१५॥
 
-
-
 नान्तरेणोदकं सस्यं नाशोऽप्यत्युदकेन तु।  
 यावाननुदके दोषस्तावानत्युदके स्मृतः॥१६॥
 
@@ -11471,8 +10701,6 @@ LADURAM TRIVEDI,
 
 समूलसस्यनाशे तु तत्स्वामी धान्यमाप्नुयात्।  
 वधेन पालो मुच्येत दण्डं स्वामिनि पातयेत्॥२६॥
-
-
 
 गौः प्रसूता दशाहात् तु महोक्षाजाविकुञ्जराः।  
 निवार्यास्तु प्रयत्नेन तेषां स्वामी न दण्डभाक्॥२७॥
@@ -11507,8 +10735,6 @@ LADURAM TRIVEDI,
 खातखातस्य केदारमाहुःशल्यवतो मृगम्।  
 इषवस्तस्य नश्यन्ति यो विद्धमनुविध्यति॥३७॥
 
-
-
 अशक्तप्रेतनष्टेषु क्षेत्रिकेष्वनिवारितः।  
 विकृष्यमाणे क्षेत्रे चेत् क्षेत्रिकः पुनराव्रजेत्॥३८॥
 
@@ -11538,8 +10764,6 @@ LADURAM TRIVEDI,
 
 ब्राह्मणस्यानुलोम्येन स्त्रियोऽन्यास्तिस्रएव तु।  
 शूद्रायाः प्रातिलोम्येन तथान्ये पतयस्त्रयः॥५॥
-
-
 
 द्वे भार्ये क्षत्रियस्यान्ये वैश्यस्यैका प्रकीर्तिता।  
 वैश्याया द्वौ पती अन्याएकोऽन्यः क्षत्रियापतिः॥६॥
@@ -11574,8 +10798,6 @@ LADURAM TRIVEDI,
 आक्षिप्तमोघबीजौ च पत्यावप्रतिकर्मणि।  
 पतिरन्यः स्मृतो नार्या वत्सरं सम्प्रतीक्ष्य तु॥१६॥
 
-
-
 शालीनस्यापि धृष्टस्त्रीसंयोगाद् भज्यते ध्वजः।  
 तं हीनवेषमत्तस्त्रीबालान्धाभिरुपक्रमेत्॥१७॥
 
@@ -11608,8 +10830,6 @@ LADURAM TRIVEDI,
 
 अतोऽप्रवृत्ते रजसि कन्यां दद्यात् पिता सकृत्।  
 महदेनः स्पृशेदेनमन्यथैष विधिः सताम्॥२७॥
-
-
 
 सकृदंशोनिपतति सकृत्कन्या प्रदीयते।  
 सकृदाहददानीति त्रीण्येतानिसकृत्सकृत्॥२८॥
@@ -11644,8 +10864,6 @@ LADURAM TRIVEDI,
 अष्टौविवाहा वर्णानां संस्काराख्याः प्रकीर्तिताः।  
 ब्राह्मस्तु प्रथमस्तेषां प्राजापत्यस्तथैव च॥३८॥
 
-
-
 आर्षश्चैवाथ दैवश्चगान्धर्वोऽथासुरस्तथा।  
 राक्षसोऽनन्तरस्तस्मात् पैशाचश्चाष्टमोऽधमः॥३९॥
 
@@ -11678,8 +10896,6 @@ LADURAM TRIVEDI,
 
 प्रसूता वाप्रसूता वापत्यावेव तु जीवति।  
 कामात् समाश्रयेदन्यंस्वैरिणी प्रथमा तु सा॥४९॥
-
-
 
 कौमारं पतिमुत्सृज्य या त्वन्यपुरुषाश्रिता।  
 पुनः पत्युर्गृहं यायात् सा द्वितीया प्रकीर्तिता॥५०॥
@@ -11714,8 +10930,6 @@ LADURAM TRIVEDI,
 **नाथवत्या परगृहे संयुक्तस्य स्त्रिया सह।  
 दृष्टं संग्रहणं तज्ज्ञैर्नागतायाः स्वयं गृहे॥६०॥**
 
-
-
 प्रदुष्टत्यक्तदारस्य क्लीबस्य क्षमकस्य च।  
 स्वेच्छैरुपेयुषोदारैर्न दोषः साहसो भवेत्॥६१॥
 
@@ -11748,8 +10962,6 @@ LADURAM TRIVEDI,
 
 कन्यायामसकामायां द्व्यङ्गुलस्यापकर्तनम्।  
 उत्तमायां वधस्त्वेव सर्वस्वहरणं तथा॥७१॥
-
-
 
 सकामायां तु कन्यायां सवर्णे नास्त्यतिक्रमः।  
 किन्त्वलङ्कृत्य सत्कृत्य स एवैनां समुद्वहेत्॥७२॥
@@ -11784,8 +10996,6 @@ LADURAM TRIVEDI,
 घृतेनाभ्यज्य गात्राणि तैलेनाविकृतेन वा।  
 मुखान्मुखं परिहरन् गात्रैर्गात्राण्यसंस्पृशन्॥८२॥
 
-
-
 नीरजस्कामनिच्छन्तीं वन्ध्यां पुत्रवतीं स्त्रियम्।  
 न गच्छेत् गर्भिणीं निन्द्यामनियुक्तां च बन्धुभिः॥८३॥
 
@@ -11818,8 +11028,6 @@ LADURAM TRIVEDI,
 
 व्यभिचारे स्त्रि(यो? या) मौण्ड्यमधःशयनमेवच।  
 कदन्नंच कुवासश्चकर्म चावस्करोञ्छनम्॥९३॥
-
-
 
 स्त्रीधनभ्रष्टसर्वस्वांगर्भविस्राविणीं तथा।  
 भर्तुश्च वधमिच्छन्तीं स्त्रियं निर्वासयेद् गृहात्॥९४॥
@@ -11854,8 +11062,6 @@ LADURAM TRIVEDI,
 प्रजाप्रवृत्तौभूतानां सृष्टिरेषाप्रजापतेः।  
 अतोऽन्यथागमेस्त्रीणामेवं दोषोन विद्यते॥१०४॥
 
-
-
 **अनुलोम्येन वर्णानां यज्जन्म स विधिः स्मृतः।  
 प्रातिलोम्येन यज्जन्म स ज्ञेयो वर्णसङ्करः॥१०५॥**
 
@@ -11889,8 +11095,6 @@ LADURAM TRIVEDI,
 **सूतश्च मागधश्चोभौपुत्रावायोगवस्तथा।  
 प्रातिलोम्येन वर्णानां तद्वदेतेऽप्यनन्तराः॥११५॥**
 
-
-
 ब्राह्मण्येकान्तरं वैश्यात् सूते वैदेहकं सुतम्।  
 क्षत्तारं क्षत्रिया शूद्रात् पुत्रमेकान्तरं तथा॥११६॥
 
@@ -11920,8 +11124,6 @@ LADURAM TRIVEDI,
 
 बिभृयाद् वेच्छतःसर्वाञ्ज्येष्ठो भ्राता यथा पिता।  
 भ्राता शक्तःकनिष्ठोवाशक्त्यपेक्षंक्रिया॥५॥
-
-
 
 शौर्यभार्याधने हित्वा यच्च विद्याधनं भवेत्।  
 त्रीण्येतान्यविभाज्यानि प्रसादो यश्चपैतृकः॥६॥
@@ -11955,8 +11157,6 @@ LADURAM TRIVEDI,
 
 कानीनश्च सहोढश्चगूढायां यश्चजायते।  
 तेषांवोढा पिता ज्ञेयस्ते च भागहराः स्मृताः॥१६॥
-
-
 
 अज्ञातपितृको यस्तु कानीनो गूढमातृकः।  
 मातामहाय दद्याच्च पिण्डं रिक्थंहरेत च॥१७॥
@@ -11993,8 +11193,6 @@ LADURAM TRIVEDI,
 
 **विनियोगात्मरक्षासु भरणे च स ईश्वरः॥२७॥**
 
-
-
 परिक्षीणे पतिकुले निर्मनुष्ये निराश्रये।  
 तत्सपिण्डेषुचासत्सुपितृपक्षः प्रभुः स्त्रियाः॥२८॥
 
@@ -12027,8 +11225,6 @@ LADURAM TRIVEDI,
 
 दानग्रहणपश्वन्नगृहक्षेत्रपरिग्रहाः।  
 विभक्तानां पृथग् ज्ञेयाः पाकधर्मागमव्ययाः॥३८॥
-
-
 
 साक्षित्वं प्रातिभाव्यं च दानं ग्रहणमेव च।  
 विभक्ता भ्रातरः कुर्युर्नाविभक्ताः परस्परम्
@@ -12071,8 +11267,6 @@ LADURAM TRIVEDI,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **अथ साहसं चतुर्दशं विवादपदम्।**
 
 सहसा क्रियते कर्म यत्किञ्चिद्बलदर्पितैः।  
@@ -12101,8 +11295,6 @@ LADURAM TRIVEDI,
 
 शिरसो मुण्डनं दण्डस्तस्य निर्वासनं पुरात्।  
 ललाटे चाभिशस्ताङ्को निर्याणं गर्दभेन च॥९॥
-
-
 
 स्यातां संव्यवहार्यौ तौधृतदण्डौतु पूर्वयोः।  
 धृतदण्डोऽप्यसंभोज्यो ज्ञेय उत्तमसाहसे॥१०॥
@@ -12137,8 +11329,6 @@ LADURAM TRIVEDI,
 साहसेषु य एवोक्तस्त्रिषु दण्डोमनीषिभिः।  
 स एव दण्डः स्तेयेऽपि द्रव्येषु त्रिष्वनुक्रमात्॥२०॥
 
-
-
 गवादिषु प्रनष्टेषु द्रव्येष्वपहृतेषु वा।  
 पदेनान्वेषणं कुर्युरामूलात् तद्विदो जनाः॥२१॥
 
@@ -12168,8 +11358,6 @@ LADURAM TRIVEDI,
 
 निष्ठुराश्लीलतीव्रत्वात् तदपि त्रिविधं स्मृतम्।  
 गौरवानुक्रमादस्य दण्डोऽपि त्रिविधः स्मृतः॥२॥
-
-
 
 साक्षेपंनिष्ठुरं ज्ञेयमश्लीलं न्यङ्गसंयुतम्।  
 पतनीयैरुपक्रोशैस्तीव्रमाहुर्मनीषिणः॥३॥
@@ -12204,8 +11392,6 @@ LADURAM TRIVEDI,
 मलाह्येते मनुष्येषु धनमेषां मलात्मकम्।  
 अतस्तान्घातयेद् राजा नार्थदण्डेन दण्डयेत्॥१३॥
 
-
-
 शतं ब्राह्मणमाक्रुश्य क्षत्रियो दण्डमर्हति।  
 वैश्योऽध्यर्धं शतंद्वे वा शूद्रस्तु वधमर्हति॥१४॥
 
@@ -12239,8 +11425,6 @@ LADURAM TRIVEDI,
 सहासनमभिप्रेप्सुरुत्कृष्टस्यापकृष्टजः।  
 कटिदेशेऽङ्क्यनिर्वास्यः स्फिग्देशं वास्य कर्तयेत्॥२४॥
 
-
-
 अवनिष्ठीवतो दर्पाद् द्वावोष्ठौ छेदयेन्नृपः।  
 अवमूत्रयतः शिश्नमवशर्धयतो गुदम्॥२५॥
 
@@ -12271,8 +11455,6 @@ LADURAM TRIVEDI,
 द्विरभ्यस्ताः पतन्त्यक्षागेहे यस्याक्षदेविनः।  
 जयं तस्यापरस्याहुःकितवस्य पराजयम्॥३॥
 
-
-
 कितवेष्वेव तिष्ठेयुःकितवाः संशयं प्रति।  
 त एव तस्य द्रष्टारः स्युस्त एव च साक्षिणः॥४॥
 
@@ -12302,8 +11484,6 @@ LADURAM TRIVEDI,
 
 राजा त्ववहितः सर्वानाश्रमान् परिपालयेत्।  
 उपायैः शास्त्रविहितैश्चतुर्भिः प्रकृतैस्तथा॥५॥
-
-
 
 यो यो वर्णोऽपहीयेत यो वोद्रेकमनुव्रजेत्।  
 तं तं दृष्ट्वा स्वतोमार्गात् प्रच्युतं स्थापयेत् पथि॥६॥
@@ -12338,8 +11518,6 @@ LADURAM TRIVEDI,
 
 राजान(चे? श्चे)न्नाभविष्यन् पृथिव्यां दण्डधारणे।  
 शूले मत्स्यानिवापक्ष्यन् दुर्बलान् बलवत्तराः॥१६॥
-
-
 
 सतामनुग्रहो नित्यमसतां निग्रहस्तथा।  
 एष धर्मः स्मृतो राज्ञामर्थश्चापीडयन् प्रजाः॥१७॥
@@ -12376,8 +11554,6 @@ LADURAM TRIVEDI,
 
 २७॥
 
-
-
 धर्मासनगतः श्रीमान् दण्डं धत्ते यदानृपः।  
 समः सर्वेषु भूतेषु तदा वैवस्वतोयमः॥२८॥
 
@@ -12413,8 +11589,6 @@ LADURAM TRIVEDI,
 नाभिशस्तान्न पतितान्न द्विषोन च नास्तिकात्।  
 न सोपधान्नानिमित्तं न दातारं प्रपीड्यच॥३८॥
 
-
-
 अर्थानां भूरिभावाच्च देयत्वाच्च महात्मनाम्।  
 श्रेयान् प्रतिग्रहो राज्ञामन्येभ्यो ब्राह्मणादृते॥३९॥
 
@@ -12447,8 +11621,6 @@ LADURAM TRIVEDI,
 
 अशुचिर्वचनाद् यस्यशुचिर्भवति पूरुषः।  
 शुचिश्चैवाशुचिः सद्यःकथं राजा न देवतम्॥४९॥
-
-
 
 तथैवान्ये प्रणिहिताः श्रद्धेयाश्चित्रवादिनः।  
 चोरा ह्युत्साहयेयुस्तांस्तस्करा(न्) पूर्वतस्कराः॥६१॥
@@ -12483,8 +11655,6 @@ LADURAM TRIVEDI,
 असद्व्ययात् पूर्वचौर्यादसत्संसर्गकारणात्।  
 लेशैरप्यवगन्तव्या न होढेनैव केवलम्॥७१॥
 
-
-
 गोरसेक्षुविकाराणां तथालवणतैलयोः।  
 पक्वान्नानां कृतान्नानां मद्यानामामिषस्य च॥८३॥
 
@@ -12515,8 +11685,6 @@ LADURAM TRIVEDI,
 दासीं तुहरतो नित्यमर्धपादावकर्तनम्।  
 येन येन यथाङ्गेन स्तेनो नृषु विचेष्टते।  
 छेत्तव्यं तत्तदेवास्य तन्मनोरनुशासनम्॥९२॥
-
-
 
 गरीयसि गरीयांसमगरीयसि वा पुनः।  
 स्तेने निपातयेद् दण्डं न यथा प्रथमे तथा॥९३॥
@@ -12551,8 +11719,6 @@ LADURAM TRIVEDI,
 विशिराः पुरुषः कार्यो ललाटे ब्रह्मघातिनः।  
 असम्भाष्यश्चकर्तव्यस्तन्मनोरनुशासनम्॥१०३॥
 
-
-
 राजा स्तेनेन गन्तव्यो मुक्तकेशेन धीमता।  
 आचक्षाणेन तत् स्तेयमेवंकर्मास्मि शाधि माम्॥१०४॥
 
@@ -12585,8 +11751,6 @@ LADURAM TRIVEDI,
 कार्षापणापरार्धस्तु चतुष्कार्षापणोत्तरः।  
 द्व्यवरोऽष्टपरश्चान्यस्त्र्यवरो द्वादशोत्तरः॥११४॥
 
-
-
 कार्षापणाद्या ये प्रोक्ताः सर्वे ते स्युश्चतुर्गुणाः।  
 एवमन्येऽपि बोद्धव्याः प्राक् च ते पूर्वसाहसात्॥११५॥
 
@@ -12616,8 +11780,6 @@ LADURAM TRIVEDI,
 
 सन्दिग्धेऽर्थेभिशस्तानां परीक्षार्थंमहात्मना।  
 नारदेन पुरा प्रोक्ताःसत्यानृतविभाजिकाः॥३॥
-
-
 
 कारयेत चतुर्हस्तां समांलक्षणलक्षिताम्।  
 तुलां काष्ठमयीं राजा शिक्यप्रान्तावलम्बिनीम्॥४॥
@@ -12650,8 +11812,6 @@ LADURAM TRIVEDI,
 चतुर्विंशत् समाख्यातं भूमेस्तु परिकल्पनम्।  
 मण्डलैस्तुततः क्लृप्तैः सोपवासः शुचिर्नरः॥१३॥
 
-
-
 सवासा जलमाप्लुत्य त्वार्द्रकेशः समाहितः।  
 सप्ताश्वत्थस्य पत्राणि तथा सौत्राणि तन्तवः(?)॥१४॥
 
@@ -12683,8 +11843,6 @@ LADURAM TRIVEDI,
 मध्यमस्तु शरो यः स्यात् पुरुषेण बलीयसा॥२३॥
 
 प्रत्यानीते तु तेनाथतस्य शुद्धिर्भविष्यति॥२४॥
-
-
 
 स्त्रियस्तु न बलात्कार्या न पुमांसोऽतिदुर्बलाः।  
 भीरुत्वाद् योषितो मृत्युर्निरुत्साहतया कृशः॥२५॥
@@ -12719,8 +11877,6 @@ LADURAM TRIVEDI,
 शार्ङ्गं हैमवतं शस्तं रूपवर्णरसान्वितम्।  
 महादोषवते दद्याद् राजा तत्त्वबुभुत्सया॥३४॥
 
-
-
 न वृद्धातुरबालेषु नच स्वल्पापराधिषु॥३५॥
 
 विषस्य पलषड्भा(गं? गो) भागो विंशतिम(स्य तत्? स्तु यः)।  
@@ -12754,8 +11910,6 @@ LADURAM TRIVEDI,
 अद्भ्यश्चाग्निरभूत् यस्मादतस्तोयेविशेषतः।  
 तस्मात् सत्येन भगवञ्जलेश!त्रातुमर्हसि॥४५॥
 
-
-
 यथोक्तेन विधानेन पञ्च दिव्यानि धर्मवित्।  
 ददद् राजाभिशस्तेभ्यः प्रेत्य चेह च नन्दति॥४६॥
 
@@ -12766,8 +11920,6 @@ LADURAM TRIVEDI,
 समाप्तैषा नारदीयमनुस्मृतिः॥
 
 ![](../books_images/U-IMG-1729442004Screenshotfrom2024-10-2022-03-04.png)
-
-
 
 **॥अथ॥**
 
@@ -12801,8 +11953,6 @@ LADURAM TRIVEDI,
 (त्वक्चर्ममांसरुधिरमेदोमज्जास्थिभिः कृताः।  
 तथेन्द्रियकृता दोषाः दह्यन्ते प्राणनिग्रहात्॥)
 
-
-
 निरोधाज्जायते वायुर्वायोरग्निर्हि जायते।  
 तापेनापो हि जायन्ते ततोऽन्तः शुध्यते त्रिभिः॥८॥
 
@@ -12833,8 +11983,6 @@ LADURAM TRIVEDI,
 इत्यात्रेयस्मृत्यां प्रथमोऽध्यायः॥
 
 ![](../books_images/U-IMG-1729443578Screenshotfrom2024-10-2022-29-25.png)
-
-
 
 **॥अथ द्वितीयोऽध्यायः॥**
 
@@ -12867,8 +12015,6 @@ LADURAM TRIVEDI,
 
 आरम्भयज्ञाज्जपयज्ञो विशिष्टो दशभिर्गुणैः।  
 उपांशु स्याच्छतगुणः सहस्रो मानसः स्मृतः॥१०॥
-
-
 
 न वेदबलमाश्रित्य पापकर्मरति(रतो)र्भवेत्।  
 अज्ञानाच्च प्रमादाच्चदह्यते कर्म नेतरत्॥४॥
@@ -12905,8 +12051,6 @@ LADURAM TRIVEDI,
 अव्लिङ्गा वार्हस्पत्यं च वाक्सूक्तञ्चामृतं (ब्रुवं) तथा।  
 गोसूक्तञ्चाश्वसूक्तञ्च इन्द्रशुद्धेश्च सामनि॥१४॥
 
-
-
 उपांशुस्तुचलज्जिह्वानांदशनच्छद ईरितः।  
 अधरोष्ठविभागो वा विश्वासोपांशुलक्षणः।  
 निर्विकारेण वक्रेण मनसा मानसः स्मृतः॥११॥
@@ -12939,8 +12083,6 @@ LADURAM TRIVEDI,
 यथा मदाह्रदे लोष्टंक्षिप्तं(अप्सु) सर्वं विनश्यति।  
 एवमात्मकृतं पापं त्रयी दहति देहिनः॥३॥
 
-
-
 दशसाहस्रमभ्यस्ता गायत्री शोधनी परा।  
 ब्रह्महागुरुतल्पी वाऽगम्या गामी तथैव च॥४॥
 
@@ -12971,11 +12113,7 @@ LADURAM TRIVEDI,
 
 ![](../books_images/U-IMG-1729460697Screenshotfrom2024-10-2103-14-43.png)
 
-
-
 **अथ रहस्य प्रायश्चित्तानि व्याख्यास्यामः॥**
-
- 
 
 सामान्यस्त्रीगमनरहस्ये रहस्य प्रकाशे प्रकाशं पावनं अनुतिष्ठेत्। वा—समान्यमगम्यागमनन्दुरन्नभोजनान्तौरहस्यौरहस्यं प्रकाशं वावनमनुतिष्ठेत्। अथवाप्सुनिमज्यन् समन्दोऽयं त्रिरावृत्य (त्रिरात्र्यन्तरं) शुद्धेत्। गोवन्यवधेकन्यादूषणे इन्द्रशुद्ध्या इत्यापः पीत्वा मुच्यते।
 
@@ -12995,8 +12133,6 @@ LADURAM TRIVEDI,
 अग्निसोम इन्द्रसोम इति जपित्वाकन्यादूषी विमुच्यते।  
 सोमं राजानमिति जपित्वा विषदा अग्निदाश्चविमुच्यन्ते।  
 सर्वेषामेव पापानां सङ्करे समुपस्थिते॥३॥
-
-
 
 दशसाहस्रमभ्यस्ता गायत्री शोधनी परा।  
 ब्रह्महागुरुतल्पी वाऽगम्या गामी तथैव च॥४॥
@@ -13028,8 +12164,6 @@ LADURAM TRIVEDI,
 
 ![](../books_images/U-IMG-1729488654Screenshotfrom2024-10-2103-14-43.png)
 
-
-
 चतुरस्रंब्राह्मणस्यत्रिकोणं क्षत्रियस्य तु।  
 वर्त्तुलञ्चैव वैश्यस्य शूद्रस्याभ्युक्षणं स्मृतम्।  
 ब्रह्मा विष्णुश्च रुद्रश्च श्रीर्हुताशन एव च॥१॥
@@ -13060,8 +12194,6 @@ LADURAM TRIVEDI,
 
 उभावेतावभोज्यान्नौ भुक्त्वाचान्द्रायणं चरेत्।  
 अमृतं ब्राह्मणस्यान्नं क्षत्रियान्नं पयः स्मृतम्॥१०॥
-
-
 
 वैश्यस्य चान्नमेवान्नं शूद्रान्नं रुधिरं स्मृतम्।  
 शूद्रान्नेनोदरस्थेन योऽधिगच्छति मैथुनम्॥११॥
@@ -13095,8 +12227,6 @@ LADURAM TRIVEDI,
 
 उद्धृतेप्यशुचिस्तावद्यावन्मण्डलशोधनम्।  
 आसने पादमारोप्य ब्राह्मणो यस्तु भुञ्जते॥२१॥
-
-
 
 मुखेन वमितं चान्नं तुल्यं गोमांसभक्षणम्।  
 उपदंशान्नशेषं वाभोजने मुखनिःसृतम्॥२२॥
@@ -13133,8 +12263,6 @@ LADURAM TRIVEDI,
 सूतकेसूतकंस्पृष्ट्वास्नानं शाते च सूतके।  
 सूतकेनैवशुद्धिः स्यान्मृतस्यान्निर्दशे शुचिः॥३२॥
 
-
-
 सूतके सूतकं स्पृष्ट्वा स्नानं शावे च सूतके।  
 भुक्त्वापीत्वा तदज्ञानादुपवासस्त्र्यहं भवेत्॥३३॥
 
@@ -13167,8 +12295,6 @@ LADURAM TRIVEDI,
 उत्तरांशः प्रभातेन युज्यते मृत(ऋतु)सूतके॥४२॥
 
 यदिपश्येदृतुंपूर्वं क्रूरवारे मृतिः स्मृता।
-
-
 
 इति पश्येत्तु भुक्त्वातु पादुकारोहणं स्मृतम्।  
 स्नात्वैन्द्रव्रतमादायदेवताभ्यो निवेदयेत्॥४३॥
@@ -13204,8 +12330,6 @@ LADURAM TRIVEDI,
 भाषयित्वा तु संमोहादुपवासस्तयोर्भवेत्।  
 उदक्यायाः करेणाथ भुक्त्वाचान्द्रायणं चरेत्॥५३॥
 
-
-
 प्राजापत्यमसत्याच्चेत् त्रिरात्रं स्पृष्टभोजने।  
 तद्धस्तभोजनञ्चैव त्रिगुणं सह भोजने॥५४॥
 
@@ -13238,8 +12362,6 @@ LADURAM TRIVEDI,
 
 सर्वतीर्थतटात्पुण्याद्विशिष्टतरमुच्यते।  
 रजस्वलायाः प्रेतायाःसंस्कारं नाचरेद्द्विजः॥६४॥
-
-
 
 ऊर्ध्वं त्रिरात्रात्स्नातायाः शावधर्मेण दाहयेत्।  
 रजस्वले च द्वे स्पृष्टे चातुर्वर्णस्य याः स्त्रियः॥६५॥
@@ -13278,8 +12400,6 @@ LADURAM TRIVEDI,
 
 \_\_\_\_\_\_\_\_\_
 
-
-
 **स्वर्गसुखप्राप्ति फलम्।**
 
 इष्ट्वा क्रतुशतैरेवं देवराजो महाद्युतिः।  
@@ -13305,8 +12425,6 @@ LADURAM TRIVEDI,
 \_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **शुभमस्तु।**
-
-
 
 ॥ॐ तत्सद्ब्रह्मणेनमः॥
 
@@ -13335,8 +12453,6 @@ LADURAM TRIVEDI,
 
 ये चपापकृतोलोके येचान्ये धर्मदूषकाः।  
 सर्वैःपापैःप्रमुच्यन्ते श्रुत्वेदं शास्त्रमुत्तमम्॥६॥
-
-
 
 तस्मादिदं वेदविद्भिरध्येतव्यं प्रयत्नतः।  
 शिष्येभ्यश्च प्रवक्तव्यं सद्वृत्तेभ्यश्च धर्मतः॥७॥
@@ -13371,8 +12487,6 @@ LADURAM TRIVEDI,
 ये व्यपेताः स्वधर्मेभ्य परधर्मे व्यवस्थिताः।  
 तेषां शास्तिकरोराजा स्वर्गलोके महीयते॥१७॥
 
-
-
 आत्मीये संस्थितो धर्मे शूद्रोऽपि स्वर्गमश्नुते।  
 परधर्मो भवेत्त्याज्यः सुरूपपरदारवत्॥१८॥
 
@@ -13405,8 +12519,6 @@ LADURAM TRIVEDI,
 
 दुष्टस्य दण्डः सुजनस्य पूजा न्यायेन कोषस्यच संप्रवृद्धिः।  
 अपक्षपातोऽर्थिषुराष्ट्ररक्षाःपञ्चैव यज्ञाः कथिता नृपाणाम्॥२८॥
-
-
 
 **यत् प्रजापालने पुण्यंप्राप्नुवन्तीह पार्थिवाः।  
 न तु क्रतुसहस्रेण प्राप्नुवन्ति द्विजोत्तमाः॥२९॥**
@@ -13442,8 +12554,6 @@ LADURAM TRIVEDI,
 **वाह्यमध्यात्मिकं वाऽपि दुःखमुत्पाद्यतेऽपरैः।  
 न कुप्यति न चाहन्ति दम इत्यभिधीयते॥३९॥**
 
-
-
 **अहन्यहनि दातव्यमदीनेनन्तरात्मना।  
 स्तोकादपि प्रयत्नेन दानमित्यभिधीयते॥४०॥**
 
@@ -13476,8 +12586,6 @@ LADURAM TRIVEDI,
 
 **प्रतिकृतिं कुशमयीं तीर्थवारिषुमज्जयेत्।  
 यमुद्दिश्य निमज्जेत अष्टभागं लभेव सः॥५०॥**
-
-
 
 मातरं पितरं वाऽपि भ्रातारं सुहृदं गुरुम्।  
 यमुद्दिश्य निमज्जेत द्वादशांशफलं लभेत्॥५१॥
@@ -13512,8 +12620,6 @@ LADURAM TRIVEDI,
 मद्यभाण्डाद्द्विजः कश्चिद्ज्ञानात्पिबते जलम्।  
 प्रायश्चित्तंकथं तस्य मुच्यते केन कर्मणा॥६१॥
 
-
-
 शुना चैव तु संस्पृष्टस्तस्य स्नानं विधीयते।  
 तदुच्छिष्टन्तु संप्राश्य षण्मासान् कृच्छ्रमाचरेत्॥७३॥
 
@@ -13546,8 +12652,6 @@ LADURAM TRIVEDI,
 
 एकाहाच्छुद्ध्यते विप्रोयोऽग्निवेदसमन्वितः।  
 त्र्यहात् केवलवेदस्तु निर्गुणो दशभिर्दिनैः॥८३॥
-
-
 
 व्रतिनः शास्त्रपूतस्य आहिताग्नेस्तथैव च।  
 राज्ञस्तु सूतकं नास्ति यस्य चेच्छति ब्राह्मणः॥८४॥
@@ -13582,8 +12686,6 @@ LADURAM TRIVEDI,
 महायज्ञविधानन्तु न कुर्यान्मृतजन्मनि।  
 होमंतत्र प्रकुर्वीतशुष्कान्नेन फलेन वा॥९४॥
 
-
-
 एतेषामुदकं पीत्वा पर्णकृच्छ्रन्तदुच्यते।  
 पञ्चगव्यञ्चगोक्षीरदधिमूत्रशकृद्घृतम्॥११७॥
 
@@ -13616,8 +12718,6 @@ LADURAM TRIVEDI,
 
 उपवासेन चैकेनपादकृच्छ्रः प्रकीर्त्तितः।  
 कृच्छ्रातिकृच्छ्रः पयसा दिवसानेकविंशतिम्॥१२७॥
-
-
 
 **द्वादशाहोपवासेन पराकः परिकीर्त्तितः।  
 पिण्याकदधिशक्तूनां ग्रासश्चप्रतिवासरम्॥१२८॥**
@@ -13652,8 +12752,6 @@ LADURAM TRIVEDI,
 **शङ्करस्यापि विष्णोर्वा प्रयाति परमं पदम्।  
 जीवद्भर्त्तरि वामाङ्गी मृते वापि सुदक्षिणे॥१३८॥**
 
-
-
 **श्राद्धे यज्ञे विवाहे च पत्नी दक्षिणतः सदा।  
 सोमः शौचं ददौ तासां गन्धर्वाश्च वथाङ्गिराः॥१३९॥**
 
@@ -13687,8 +12785,6 @@ LADURAM TRIVEDI,
 **हस्तंप्रक्ष्याल्य यस्त्वापः पिबेद्भुक्ताद्विजोत्तमः।  
 तदन्नमसुरैर्भुक्तंनिराशाः पितरो गताः॥१४९॥**
 
-
-
 नास्ति वेदात् परं शास्त्रं नास्ति मातुः परो गुरुः।  
 नास्ति दानात् परं मित्रमिह लोके परत्र च॥१५०॥
 
@@ -13720,8 +12816,6 @@ LADURAM TRIVEDI,
 
 सौवर्णायसताम्रेषु कांस्यरौप्यमयेषु च।  
 भुञ्जन् भिक्षुर्न दूष्येत दूष्येच्चैवपरिग्रहात्॥१५९॥
-
-
 
 यदिहस्ते जलं दद्याद्भिक्षांदद्यात् पुनर्जलम्।  
 तद्भैक्षं मेरुणा तुल्यं तज्जलं सागरोपमम्॥१६०॥
@@ -13757,8 +12851,6 @@ LADURAM TRIVEDI,
 स्त्रीघातः शुद्ध्यतेऽप्येवं चरेत् कृच्छ्राब्दमेव च।  
 रजकः शैलुषश्चैव वेणुकर्मोपजीवनः॥१७०॥
 
-
-
 **भुञ्जते मानवाः पश्चान्न ता दुष्यन्ति कर्हिचित्।  
 असवर्णैस्तु यो गर्भः स्त्रीणां योनौ निषिच्यते॥१९३॥**
 
@@ -13791,8 +12883,6 @@ LADURAM TRIVEDI,
 
 **कृच्छ्रपादेन शुद्ध्येत पुनः संस्कारमर्हति।  
 अन्त्यजस्य तु ये वृक्षा बहुपुष्पफलोपगाः॥२०३॥**
-
-
 
 **उपभोग्यास्तु ते सर्वेपुष्पेषु च फलेषु च।  
 चाण्डालेन तु संस्पृष्टंयत्तोयं पिबति द्विजः॥२०४॥**
@@ -13832,8 +12922,6 @@ LADURAM TRIVEDI,
 **जातकर्मादिकं प्रोक्तंपुनः संस्कारमर्हति।  
 नाशौचं नोदकं नाश्रु नापवादानुकम्पने॥२१४॥**
 
-
-
 एतेषां यस्तु भुङ्क्ते वै द्विजश्चान्द्रायणञ्चरेत्।  
 सर्व्वान्त्यजानां गमने भोजने सम्प्रवेशने॥१७१॥
 
@@ -13866,8 +12954,6 @@ LADURAM TRIVEDI,
 
 फलान्यत्ति स्थितस्तत्र प्रायश्चित्तं कथं भवेत्।  
 त्रिरात्रोपोषितो भूत्वा पञ्चगव्येन शुद्ध्यति॥१८१॥
-
-
 
 स्त्रिया म्लेच्छस्यसम्पर्काच्छुद्धिःसान्तपने तथा।  
 तप्तकृच्छ्रं पुनः कृत्वा शुद्धिरेषाऽभिधीयते॥१८२॥
@@ -13902,8 +12988,6 @@ LADURAM TRIVEDI,
 नाऽऽपो मूत्रपुरीषाभ्यां नाग्निर्दहतिकर्मणा।  
 पूर्वं स्त्रिय सुरैर्भुक्ताःसोमगन्धर्ववह्णिभिः॥१९२॥
 
-
-
 ब्रह्मदण्डहतानां तु न कार्यं कटधारणम्।  
 स्नेहं कृत्वा भयादिभ्यो यस्त्वेतानि समाचरेत्॥२१५॥
 
@@ -13937,8 +13021,6 @@ LADURAM TRIVEDI,
 **हत्वा चशूद्रहत्यायाः प्रायश्चित्तं विधीयते।  
 मार्जारगोधानकुलमण्डूकांश्च पतत्त्रिणः॥२२५॥**
 
-
-
 हत्वात्र्यहं पिबेत् क्षीरं कृच्छ्रंवा पादिकञ्चरेत्।  
 चाण्डालस्य चसंस्मृष्टंविण्मूत्रस्पृष्टमेव वा॥२२६॥
 
@@ -13970,8 +13052,6 @@ LADURAM TRIVEDI,
 
 वर्णवाह्येनसंस्पृष्ट उच्छिष्टस्तु द्विजोत्तमः।  
 पञ्चरात्रोषितो भूत्वा पञ्चगव्येन शुद्ध्यति॥२३६॥
-
-
 
 शुचि गोतृप्तिकृत्तोयं प्रकृतिस्थं महीगतम्।  
 चर्मभाण्डैस्तु धाराभिस्तथा यन्त्रोद्धृतं जलम्॥२३७॥
@@ -14006,8 +13086,6 @@ LADURAM TRIVEDI,
 देशंकालं वयः शक्तिंपापञ्चावेक्षयेत्त(श्य यत्न)तः।  
 प्रायश्चित्तंप्रकल्प्यंस्याद्यस्य चोक्तान निष्कृतिः॥२४७॥
 
-
-
 देवयात्राविवाहेषु यज्ञप्रकरणेषु च।  
 उत्सवेषु च सर्वेषु स्पृष्टास्पृष्टिर्न विद्यते॥२४८॥
 
@@ -14040,8 +13118,6 @@ LADURAM TRIVEDI,
 
 महापातकसंस्पृष्टः (ष्टे) स्नानमेव विधीयते।  
 संस्पृष्टस्य यदा भुङ्क्तेस्नानमेव विधीयते॥२५८॥
-
-
 
 **पतितैः सह संसर्गं मासार्द्धं मासमेव वा।  
 गोमूत्रयावकाहारो मासार्धेन विशुध्यति॥२५९॥**
@@ -14076,8 +13152,6 @@ LADURAM TRIVEDI,
 
 **त्रिरात्रेणैवशुद्धिः स्यादथोच्छिष्टस्त्वहेन तु (!)॥२६८॥**
 
-
-
 आरूढोनैष्ठिके धर्मेयस्तु प्रच्यवते पुनः।  
 चान्द्रायणं चरेन्मासमिति शातातपोऽब्रवीत्॥२६९॥
 
@@ -14110,8 +13184,6 @@ LADURAM TRIVEDI,
 
 स्पृष्टारजस्वलाऽन्योन्यं ब्राह्मण्याक्षत्त्रियी च या।  
 त्रिरात्रेण विशुद्धिः स्याद्व्यासस्य वचनं यथा॥२७९॥
-
-
 
 स्पृष्टा रजस्वलाऽन्योन्यं ब्राह्मण्या वैश्यसम्भवा।  
 चतूरात्रं निराहारा पञ्चगव्येन शुद्ध्यति॥२८०॥
@@ -14146,8 +13218,6 @@ LADURAM TRIVEDI,
 शठञ्चब्राह्मणंहत्वाशूद्रहत्याव्रतं चरेत्।  
 निर्गुणं सगुणो हत्वा पराकव्रतमाचरेत्॥२९०॥
 
-
-
 **उपपातकसंयुक्तो मानवो म्रियते यदि।  
 तस्य संस्कारकर्ता च प्राजापत्यद्वयञ्चरेत्॥२९१॥**
 
@@ -14181,8 +13251,6 @@ LADURAM TRIVEDI,
 **राजान्नंहस्ते तेजः शूद्रान्नं ब्रह्मबर्च्चसम्।  
 स्वसुतान्नञ्चयो भुङ्क्तेस भुङ्क्तेपृथिवीमलम्॥३०१॥**
 
-
-
 स्वसुता अप्रजा तावन्नाश्नीयात्तद्गृहे पिता।  
 अन्नं भुङ्क्ते तुयो मोहात्पूयंस नरकंव्रजेत्॥३०२॥
 
@@ -14215,8 +13283,6 @@ LADURAM TRIVEDI,
 
 हीनवर्णे च यः कुर्यादज्ञानादभिवादनम्।  
 तत्र स्नानंप्रकुर्वीत घृतं प्राश्य विशुद्ध्यति॥३१२॥
-
-
 
 समुत्पन्ने यदा स्नाने, भुङ्क्ते, वाऽपिपिबेद्यदि।  
 गायत्र्यष्टसहस्रं तु जपेत् स्नात्वा समाहितः॥३१३॥
@@ -14252,8 +13318,6 @@ LADURAM TRIVEDI,
 सर्वस्वमपि यो दद्यात् पातयित्वाद्विजोत्तम्।  
 नाशयित्वा तु तत्सर्वं भ्रूणहत्याफलं लभेत्॥३२४॥
 
-
-
 ग्रहणोद्वाहसंक्रान्तौ स्त्रीणाञ्च प्रसवे तथा।  
 दानं नैमित्तिकं ज्ञेयं रात्रौ चापि प्रशस्यते॥३२५॥
 
@@ -14287,8 +13351,6 @@ LADURAM TRIVEDI,
 **आदित्योवरुणोविष्णुर्ब्रह्मासोमो हुताशनः।  
 शूलपाणिस्तु भगवानभिनन्दन्ति भूमिदम्॥३३५॥**
 
-
-
 बालुकानां कृता राशि र्यावत् सप्तर्षिमण्डलम्।  
 गते वर्षशते चैव पलमेकं विशीर्यति॥३३६॥
 
@@ -14321,8 +13383,6 @@ LADURAM TRIVEDI,
 दुश्चर्माणं शीर्णकेशं पाण्डुरोगं जटाधरम्।  
 भारवाहकमुग्रञ्च द्विभार्यं वृषलीपतिम्॥३४५॥
 
-
-
 भेदकारी भवेच्चैव बहुपीडाकरोऽपि वा।  
 हीनातिरिक्तगात्रो वा तमप्यपनयेत्तथा॥३४६॥
 
@@ -14354,8 +13414,6 @@ LADURAM TRIVEDI,
 
 नरकस्था विमुच्यन्ते ध्रुवंयान्ति त्रिविष्टपम्।  
 तस्माद्विप्रं परीक्षेतश्राद्धकाले प्रयत्नतः॥३५६॥
-
-
 
 न निर्व्वपति यः श्राद्धं प्रमीतपितृको द्विजः।  
 इन्दुक्षये मासि मासि प्रायश्चित्ती भवेत्तु सः॥३५७॥
@@ -14390,8 +13448,6 @@ LADURAM TRIVEDI,
 **श्राद्धं कृत्वा तु मर्त्त्योवै स्वर्गलोके महीयते।  
 अमृतंब्राह्मणस्यान्नंक्षत्रियान्नंपयःस्मृतम्॥३६७॥**
 
-
-
 वैश्यस्य चान्नमेवान्नंशूद्रान्नंरुधिरं भवेत्।  
 एतत् सर्वं मया ख्यातं श्राद्धकाले समुत्थिते॥३६८॥
 
@@ -14424,8 +13480,6 @@ LADURAM TRIVEDI,
 
 चौरश्चतस्करश्चैवसूचको दंशकस्तथा।  
 मत्स्यमांसे सदालुब्धो विप्रो निषाद उच्यते॥३७८॥
-
-
 
 ब्रह्मतत्त्वं न जानाति ब्रह्मसूत्रेण गर्वितः।  
 तेनैव स च पापेन विप्रः पशुरुदाहृतः॥३७९॥
@@ -14460,8 +13514,6 @@ LADURAM TRIVEDI,
 ऊर्द्ध्वजङ्घेषु विप्रेषु प्रक्षाल्य चरणद्वयम्।  
 तावच्चाण्डालरूपेण यावद्गङ्गां न मज्जति॥३८९॥
 
-
-
 दीपशय्यासनच्छाया कार्पासं दन्तधावनम्।  
 अजारेणुस्पृशं चैव शक्रस्यापि श्रियं हरेत्॥३९०॥
 
@@ -14493,8 +13545,6 @@ LADURAM TRIVEDI,
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ॥श्रीः॥
 
 विष्णुस्मृतिः।
@@ -14519,8 +13569,6 @@ LADURAM TRIVEDI,
 
 **पितामह! महाप्राज्ञ! सर्वशास्त्रविशारद!।  
 प्रयाणकाले यच्चिन्त्यं सूरिभि स्तत्वचिन्तकैः॥५॥**
-
-
 
 किन्नुस्मरन् कुरुश्रेष्ठ! मरणे पर्युपस्थिते।  
 प्राप्नुयात् परमां सिद्धिं श्रोतुमिच्छामि तद्वद॥६॥
@@ -14553,8 +13601,6 @@ LADURAM TRIVEDI,
 
 हन्त ते कथयिष्यामि इमांदिव्यामनुस्मृतिम्।  
 मरणे मामनुस्मृत्य प्राप्नोति परमां गतिम्॥१३॥
-
-
 
 यामधीत्यप्रयाणेतु मद्भावायोपपद्यते।  
 ओङ्कारमग्रतःकृत्वामां नमस्कृत्य नारद॥१४॥
@@ -14589,8 +13635,6 @@ LADURAM TRIVEDI,
 लोकत्रयहितार्थाय स्वोपकाराय नोहरिः।  
 यतश्चोत्पद्यते विश्वं यस्मिन्नेव प्रलिप्यते॥२४॥
 
-
-
 क्षराक्षरविसृष्टस्तु सोऽच्युतः पुरुषोत्तमः।  
 अव्यक्तंशाश्वतं देवं प्रभवं पुरुषोत्तमम्॥२५॥
 
@@ -14623,8 +13667,6 @@ LADURAM TRIVEDI,
 
 हूयते च पुनर्द्वाभ्यांस मे विष्णुः प्रसीदतु।  
 पर्जन्यः पृथिवी सस्यं कालो धर्मः क्रियाक्रिये॥३५॥
-
-
 
 गुणाकरः समेविष्णुर्वासुदेवः प्रसीदतु।  
 अग्निसोमार्कताराणां ब्रह्मरुद्रेन्द्रयोगिनाम्॥३६॥
@@ -14659,8 +13701,6 @@ LADURAM TRIVEDI,
 न प्रधानो नच महान् पुरुषश्चेतनोह्यजः।  
 अनयोग्यः परतरस्तमस्मि शरणं गतः॥४६॥
 
-
-
 चिन्तयन्तोऽपि यन्नित्यं ब्रह्मेशानादयः प्रभुम्।  
 निश्चयं नाधिगच्छन्ति तमस्मि शरणं गतः॥४७॥
 
@@ -14693,8 +13733,6 @@ LADURAM TRIVEDI,
 
 कामक्रोधविनिर्मुक्ताभक्तास्त्वां प्रविशन्ति च।  
 अव्यक्तमत्यहङ्कारा मनोभूतेन्द्रियाणि च॥५७॥
-
-
 
 त्वयि तानि चलेषु त्वं नतेषु त्वं नते त्वयि।  
 एकत्वान्यत्वनानात्वं ये विदुर्यान्ति ते परम्॥५८॥
@@ -14729,8 +13767,6 @@ LADURAM TRIVEDI,
 वायुराकाशमप्येतु मनश्चाकाशमेव च।  
 अहङ्कारं मनो यातु मोहनं सर्वदेहिनाम्॥६८॥
 
-
-
 अहङ्कारस्तथा बुद्धिं बुद्धिरव्यक्तमेव च।  
 प्रधाने प्रकृतिं याते गुणसाम्ये व्यवस्थिते॥६९॥
 
@@ -14763,8 +13799,6 @@ LADURAM TRIVEDI,
 
 आत्मनात्मनि संयोज्यममात्मन्यनुसंस्मरेत्।  
 एवं बुद्धेः परंबुद्ध्वा लभते न पुनर्भवम्॥७९॥
-
-
 
 ॐ नमो भगवते तस्मै देहिनां परमात्मने।  
 नारायणाय भक्तानामेकनिष्ठाय शाश्वते॥८०॥
@@ -14799,8 +13833,6 @@ LADURAM TRIVEDI,
 मामेव तस्माद्देवर्षे ध्याहि नित्यमतन्द्रितः।  
 अवाप्स्यसितपः सिद्धिं लभ्यसे च पदं मम॥९०॥
 
-
-
 अज्ञानामिच्छया ज्ञानं दद्याद्धर्मोपदेशनम्।  
 कृत्स्नां वा पृथिवीं वद्यात्तेन तुल्यं न तत्फलम्॥९१॥
 
@@ -14833,8 +13865,6 @@ LADURAM TRIVEDI,
 
 किं तस्य दानैः किं तीर्थैःकिं तपोभिः किमम्बरैः।  
 यो नित्यं ध्यायते देव!नारायण मनन्यधीः॥९९॥
-
-
 
 चीरवासा जपी वापि त्रिदण्डी मुण्ड एववा।  
 भूषितो वा द्विजश्रेष्ठ! न लिङ्गं धर्मकारणम्॥१००॥
@@ -14869,8 +13899,6 @@ LADURAM TRIVEDI,
 गत्वा गत्वा निवर्तन्ते चन्द्रसूर्यादयो ग्रहाः।  
 अद्यापि न निवर्तन्ते द्वादशाक्षरचिन्तकाः॥११०॥
 
-
-
 न वासुदेवात्परमस्ति मङ्गलं न वासुदेवात्परमस्ति पावनम्।  
 न वासुदेवात्परमस्ति दैवतं न वासुदेवं प्रणिपत्य सीदति॥१११॥
 
@@ -14887,8 +13915,6 @@ LADURAM TRIVEDI,
 "इति विष्णुस्मृति" समाप्ता॥
 
 \_\_\_\_\_\_\_\_\_\_
-
-
 
 ॥अथ॥
 
@@ -14921,8 +13947,6 @@ LADURAM TRIVEDI,
 
 दक्षिणाहृदयो योगमहामन्त्रमयो महान्।  
 उपाकर्मोष्ठरुचिरः प्रवर्ग्यावर्त्तभूषणः॥८॥
-
-
 
 नानाच्छन्दोगतिपथो गुह्योपनिषदासनः।  
 छायापत्नीसहायोऽसौ मणिशृङ्गइवोदितः॥९॥
@@ -14957,8 +13981,6 @@ LADURAM TRIVEDI,
 जगज्जगाम लोकानामविज्ञातां तदा गतिम्।  
 अविज्ञातां गतिं याते देवदेवे जनार्द्दने॥१९॥
 
-
-
 वसुधा चिन्तयामास का धृतिर्म्मे भविष्यति।  
 पृच्छामि कश्यपं गत्वा स मे वक्ष्यत्यसंशयम्॥२०॥
 
@@ -14992,8 +14014,6 @@ LADURAM TRIVEDI,
 रूपयौवनसम्पन्नां विनीक्त्वदुपस्थिताम्।  
 समीपमागतां दृष्टापूजयामास कश्यपः॥३०॥
 
-
-
 **उवाच तां वरारोहे! विज्ञातं हृद्गतं मया।  
 धरे तव विशालाक्षि! गच्छदेवि जनार्द्दनम्॥३१॥**
 
@@ -15025,8 +14045,6 @@ LADURAM TRIVEDI,
 
 **अनिर्द्देश्यपरामाणमनिर्द्देश्यर्द्धिसंयुतम्।  
 शेषपर्यङ्कशं तस्मिन् ददर्श मधुसूदनम्॥४०॥**
-
-
 
 शेषाहिफणरत्नांशुदुर्विभाव्य मुखाम्बुजम्।  
 शशाङ्कशतसङ्काशं सूर्यायुतसमप्रभम्॥४१॥
@@ -15060,8 +14078,6 @@ LADURAM TRIVEDI,
 
 अतीन्द्रिय! सुदुष्पार! देव! शार्ङ्गधनुर्द्धरः!।  
 वराह! भीम! गोविन्द! पुराण! पुरुषोत्तम!॥५१॥
-
-
 
 हिरण्यकेश! विश्वाक्ष! यज्ञमूर्त्ते! निरञ्जन!।  
 क्षेत्र! क्षेत्रज्ञ! लोकेश! सलिलान्तरशायक!॥५२॥
@@ -15099,8 +14115,6 @@ LADURAM TRIVEDI,
 आश्रमाचारसंयुक्तान् सरहस्यान् ससंग्रहान्।  
 एवमुक्तस्तु देवेशः पुनः क्षौणीमभाषत॥६२॥
 
-
-
 श्रृणु देवि! धरे! धर्म्मांश्चातुर्वर्ण्यस्य शाश्वतान्।  
 आश्रमाचारसंयुक्तान् सरहस्यान् ससंग्रहान्॥६५॥
 
@@ -15131,8 +14145,6 @@ LADURAM TRIVEDI,
 क्षमा सत्यं दमः शौचं दानमिन्द्रियसंयमः।  
 अहिंसा गुरुशुश्रूषा तीर्थानुसरणं दया॥
 
-
-
 आर्ज्जवत्वमलोभश्च देवब्राह्मणपूजनम्।  
 अनभ्यसूया च तथा धर्मः सामान्य उच्यते।
 
@@ -15159,8 +14171,6 @@ LADURAM TRIVEDI,
 प्रजाभ्यो वल्यर्थं सम्बत्सरेण धान्यतःषष्ठमंशमादद्यात्।  
 सर्वशस्येभ्यश्च द्विकं शतम्। पशुहिरण्येभ्यो वस्त्रेभ्यश्च।
 
-
-
 मांसमधुघृतौषधिगन्धमूलफलरसदारु पत्राजिनमृद्भाण्डाश्मभाण्डवैदलेभ्यः षष्ठभागम्।  
 ब्राह्मणेभ्यः करादानं न कुर्यात् ते हि राज्ञो धर्मकरदाः।  
 राजा च प्रजाभ्यः सुकृतदुष्कृतषष्ठांशभाक्।  
@@ -15182,8 +14192,6 @@ LADURAM TRIVEDI,
 राजा पुरावाप्तौ तत्र तत्कुलीनमभिषिञ्चेत्॥  
 न राजकुलमुच्छिन्द्यात्। अन्यत्राकुलीनराजकुलात्।  
 मृगयाक्षस्त्रीपानेष्वभिरतिं न कुर्य्यात्।
-
-
 
 वाक्पारुष्यदण्डपारुष्ये च नार्थदूषणं कुर्यात्।  
 आद्यद्वाराणि नोच्छिन्द्यात्। नापात्रवर्षी स्यात्।  
@@ -15208,8 +14216,6 @@ LADURAM TRIVEDI,
 शुचीनलुब्धानवहिताञ्छक्तिसम्पन्नान् सर्व्वार्थेषु च–  
 सहायान् स्वयमेव व्यवहारान् पश्येद्विद्वद्भिब्राह्मणैः सार्द्धम्।
 
-
-
 व्यवहारदर्शने ब्राह्मणं वा नियुञ्ज्यात्।  
 जन्मकर्मव्रतोपेताश्च राज्ञा सभासदः कार्य्यारिपौमित्रे च—  
 ये समाः कामक्रोधलोभादिभिः कार्य्यार्थिभिरनाहार्य्याः।  
@@ -15232,8 +14238,6 @@ LADURAM TRIVEDI,
 यत्र श्यामो लोहिताक्षो दण्डश्चरति निर्भरः।  
 प्रजास्तत्र विबर्द्धन्ते नेता चेत् साधु पश्यति।  
 स्वराष्ट्रे न्यायदण्डः स्याद्भृशदण्डश्चशत्रुषु।
-
-
 
 सुहृत्स्वजिह्मः स्निग्धेषु ब्राह्मणेषु क्षमान्वितः।  
 एवं वृत्तस्य नृपतेः शिलोञ्छेनापि जीवतः।  
@@ -15262,8 +14266,6 @@ LADURAM TRIVEDI,
 
 \_\_\_\_\_\_\_\_\_
 
-
-
 **॥अथ पञ्चमोऽध्यायः॥**
 
 अथमहापातकिनो ब्राह्मणवर्ज्जं सर्वे बध्याः।  
@@ -15288,8 +14290,6 @@ LADURAM TRIVEDI,
 गुरुनाक्षिपन् कार्षापणशतम्।  
 परस्य पतनीयाक्षेपे कृते तूत्तमसाहसम्।
 
-
-
 उपपातकयुक्ते मध्यमं त्रैविद्यवृद्धाक्षेपे जातिपूगानाञ्च।  
 ग्रामदेशयोः प्रथमसाहसम्।  
 व्यङ्गतायुक्ताक्षेपे कार्षापणशतम्।  
@@ -15313,8 +14313,6 @@ LADURAM TRIVEDI,
 तृणच्छेद्येकं सर्वे च तत्स्वामिनां तदुत्पत्तिम्॥  
 हस्तेनावगोरयितादशकार्षापणान्।
 
-
-
 पादेन विंशतिम्। काष्ठेन प्रथमसाहसम्।  
 पाषाणेन मध्यमम्। शस्त्रेणोत्तमम्।  
 पादकेशांशुककरलुण्ठने दशपणान् दण्ड्यः।  
@@ -15335,8 +14333,6 @@ LADURAM TRIVEDI,
 सुवर्णरजतवस्त्रणां पञ्चाशतस्त्वभ्यधिकमपहरन्—  
 विकरः तदूनमेकादशगुणं दण्ड्यः।  
 सूत्रकार्पासगोमयगुडदधिक्षीरतक्रतृणलवणमृद्भस्मपक्षिमत्स्यघृततैलमांसमधुवैदलवेणुमृण्मयलोहदण्डानामपहर्त्तामूल्यात्त्रिगुणं दण्ड्यः॥
-
-
 
 पक्वान्नानाञ्चपुष्पहरितगुल्मवल्लीलतापर्णानामपहरणेपञ्चकृष्णलान्।  
 शाकमूलफलानाञ्चरत्नापहार्युत्तमसाहसम्।  
@@ -15359,8 +14355,6 @@ LADURAM TRIVEDI,
 पथ्युद्यानोदकसमीपेशुचिकारी पणशतम्। तच्चापास्यात्।  
 गृहभूकुड्याद्युपभेत्ता मध्यमसाहसं दण्ड्यः।तच्च योजयेत्।  
 गृहेपीडाकरं द्रव्यं प्रक्षिपन् पणशतम्॥
-
-
 
 साधारण्यापलापी च। प्रोषितस्याप्रदाता च।  
 पितृपुत्राचार्ययाज्यर्त्विजामन्योन्यापतितत्यागी च।  
@@ -15385,8 +14379,6 @@ LADURAM TRIVEDI,
 उपधिदेविनां सन्दंशच्छेदः। ग्रन्थिभेदकानां करच्छेदः।  
 दिवा पशूनां वृकाद्युपघाते पाते त्वनापदि पालदोषः।
 
-
-
 विनष्टपशुमूल्यञ्च स्वामिने दद्यात्।  
 अननुज्ञातांदुहन् पञ्चविंशतिकार्षापणान् दण्ड्यः।  
 महिषीचेच्छस्यनाशं कुर्य्यात्तत्पालकस्त्वष्टौमाषकान् दण्ड्यः।  
@@ -15410,8 +14402,6 @@ LADURAM TRIVEDI,
 यद्यप्रकाशं हीनमूल्यञ्च क्रीणीयात्तदा क्रेता  
 विक्रेताच चौरवच्छास्यौ॥
 
-
-
 गणद्रव्यापहर्त्ता विवास्यः तत्सम्बिदं यश्च लङ्घयेत्।  
 निक्षेपापहार्यर्थवृद्धिसहितं धनं धनिकस्य दाप्यः।  
 राज्ञाचौरवच्छास्यः यश्चानिक्षिप्तं निक्षिप्तमिति ब्रूयात्।  
@@ -15434,8 +14424,6 @@ LADURAM TRIVEDI,
 
 सागमेन च भोगेन भुक्तं सम्यग्यदा भवेत्।  
 आहर्त्ता लभते तत्र नापहार्य्यन्तु तत् क्वचित्॥
-
-
 
 पित्रा भुक्तन्तु यद्द्रव्यं भुक्त्याचारेण धर्मतः।  
 तस्मिन् प्रेते न वाच्योऽसौ भुक्त्वा प्राप्तं हि तस्य तत्॥
@@ -15478,8 +14466,6 @@ LADURAM TRIVEDI,
 
 \_\_\_\_\_\_\_\_\_\_
 
-
-
 अथोत्तमर्णोऽधमर्णाद्यथादत्तमर्थं गृह्णीयात्।  
 द्विकं त्रिकं चतुष्कं पञ्चकञ्च शतं वर्णानुक्रमेण  
 प्रतिमासं सर्वे वर्णा वा स्वप्रतिपन्नां वृद्धिं दद्युः।  
@@ -15502,8 +14488,6 @@ LADURAM TRIVEDI,
 सर्व्वापलाप्येकदेशविभावितोऽपि सर्वं दद्यात्।  
 तस्य च भावनास्तिस्रो भवन्ति लिखितं साक्षिणः समक्रिया च।  
 ससाक्षिकमाप्तं ससाक्षिकमेव दद्यात्।
-
-
 
 लिखितार्थप्रविष्टोलिखितं पाटयेत्।  
 असमग्रदाने लेख्यासन्निधाने चोत्तमर्णोलिखितं दद्यात्।  
@@ -15535,8 +14519,6 @@ LADURAM TRIVEDI,
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 अथ लेख्यं त्रिविधं राजसाक्षिकं ससाक्षिकमसाक्षिकञ्च।  
 राजाधिकरणे तन्नियुक्तकायस्थकृतं तदध्यक्षकरचिह्नितं  
 राजसाक्षिकम्।  
@@ -15559,8 +14541,6 @@ LADURAM TRIVEDI,
 
 \_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **अथाष्टमोऽध्यायः।**
 
 अथ साक्षिणः न राजश्रोत्रियप्रव्रजितकितबतस्करपराधीन-स्त्रीबालसाहसिकातिवृद्धमत्तोन्मत्ताभिशस्तपतितक्षुत्तृष्णार्त्तव्यसनिरागान्धाः।  
@@ -15581,8 +14561,6 @@ LADURAM TRIVEDI,
 कूटसाक्षिणं विद्यात्।  
 साक्षिणश्चाहुयादित्योदये कृतशपथान् पृच्छेत्।  
 ब्रूहीति ब्राह्मणं पृच्छेत्। सत्यं ब्रूहीति राजन्यम्।
-
-
 
 गोवीजकाञ्चनैर्वैश्यम्। सर्वमहापातकैस्तु शूद्रम्।  
 साक्षिणः श्रावयेत्।  
@@ -15613,8 +14591,6 @@ LADURAM TRIVEDI,
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **अथाष्टमोऽध्यायः।**
 
 अथ साक्षिणः न राजश्रोत्रियप्रव्रजितकितबतस्करपराधीन-  
@@ -15637,8 +14613,6 @@ LADURAM TRIVEDI,
 कूटसाक्षिणं विद्यात्।  
 साक्षिणश्चाहुयादित्योदये कृतशपथान् पृच्छेत्।  
 ब्रूहीति ब्राह्मणं पृच्छेत। सत्यं ब्रूहीति राजन्यम्।
-
-
 
 गोबीजकाञ्चनैर्वैश्यम्। सर्वमहापातकैस्तु शूद्रम्।  
 साक्षिणः श्रावयेत्।  
@@ -15669,8 +14643,6 @@ LADURAM TRIVEDI,
 
 **————**
 
-
-
 सा च न वाति वायौ।  
 न कुष्ठसमर्थलोहकाराणामग्निर्देयः।  
 शरद्ग्नीऽष्मयोश्च न कुष्ठिपैत्तिकब्राह्मणानां विषंदेयं -  
@@ -15696,8 +14668,6 @@ LADURAM TRIVEDI,
 तत्र चैकस्मिन् शिक्ये पूरूषमारोपयेद्द्वितीये प्रतिमानं शिलादि।  
 प्रतिमानपुरुषौ समधृतौ सुचिह्नितौ कृत्वा पुरुषमवतारयेत्।  
 घटञ्चसमयेन गृह्णीयात् तुलाधारञ्च॥
-
-
 
 ब्राह्मघ्नोये स्मृता लोका ये लोकाःकूटसाक्षिणः।  
 तुलाधारस्य ते लोकास्तुलां धारयतोमृषा॥
@@ -15727,8 +14697,6 @@ LADURAM TRIVEDI,
 करयौर्दद्यात्।  
 तानि च करद्वयसहितानि सूत्रेण वेष्टयेत्।
 
-
-
 ततस्तत्राग्निवर्णं लोहपिण्डं पञ्चाशत्पलिकं संन्यसेत्।  
 तमादायनातिद्रुतं नाविलम्बितं मण्डलेषु पदन्यासं कुर्वन् ब्रजेत्।  
 ततः सप्तम मण्डलमतीत्य भूमौपिण्डं जह्यात्।
@@ -15751,8 +14719,6 @@ LADURAM TRIVEDI,
 इति वैष्णवे धर्मशास्त्रे एकादशोऽध्यायः॥
 
 ————
-
-
 
 **॥अथ द्वादशोऽध्यायः॥**
 
@@ -15778,8 +14744,6 @@ LADURAM TRIVEDI,
 
 -------------------------
 
-
-
 **॥अथ त्रयोदशोऽध्यायः॥**
 
 अथ विषम्।
@@ -15795,7 +14759,6 @@ LADURAM TRIVEDI,
 
 व्यवहाराभिशस्तोऽयं मानुषः शुद्धिमिच्छति।  
 तदेनं संसायादस्माद्धर्मतस्त्रातुमर्हसि॥  
-
 
 इति वैष्णवे धर्मशास्त्रे त्रयोदशोऽध्यायः॥
 
@@ -15814,8 +14777,6 @@ LADURAM TRIVEDI,
 दिव्ये च शुद्धं पुरुषं सत्कुर्याद्धार्मिको नृपः॥
 
 **इति वैष्णवे धर्मशास्त्रेचतुर्द्दशोऽध्यायः॥**
-
-
 
 **॥अथ पञ्चदशोऽध्यायः॥**
 
@@ -15840,8 +14801,6 @@ LADURAM TRIVEDI,
 यत्र क्वचनोत्पादितश्च द्वादशः।  
 एतेषांपूर्वः पूर्वः श्रेयान्। स एव दायहारः॥  
 स चान्यान्विभृयात्।
-
-
 
 अनूढनां स्ववित्तानुरूपेण संस्कारं कुर्यात्।  
 पतितक्लीवाचिकित्सरोगविकला स्त्वभागहारिणः।  
@@ -15868,8 +14827,6 @@ LADURAM TRIVEDI,
 दौहित्रोऽपि ह्यपुत्रं तं सन्तारयति पौत्रवत्॥
 
 इति वैष्णवे धर्मशास्त्रे पञ्चदशोऽध्यायः॥
-
-
 
 **॥अथ षोडशोऽध्यायः॥**
 
@@ -15900,8 +14857,6 @@ LADURAM TRIVEDI,
 पिता चेत् पुत्रान् विभजैस्तस्य स्वेच्छा स्वयमुपात्तेऽर्थे।  
 पैतामहे त्वर्थे पितृपुत्रयोस्तुल्यं स्वामित्वम्।
 
-
-
 पितृविभक्ताविभागानन्तरोत्पन्नस्य भागंदद्युः।  
 अपुत्रस्य धनं पत्न्यभिगामि। तदभावे दुहितृगामि।  
 तदभावे पितृगामि। तदभावे मातृगामि।  
@@ -15928,8 +14883,6 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रे सप्तदशोऽध्यायः॥
 
-
-
 **॥अथ अष्टादशोऽध्यायः॥**
 
 ब्राह्मणस्य चतुर्षु वर्णेषु चेत्पुत्रा भवेयुस्ते पैतृकमृक्थंदशधाविभजेयुः तत्र ब्राह्मीपुत्रश्चतुरोंऽशानादद्यात्।  
@@ -15952,8 +14905,6 @@ LADURAM TRIVEDI,
 अथ ब्राह्मणस्य क्षत्रियस्य वा क्षत्रियशूद्रौ पुत्रौ स्यातां तदा -  
 तद्धनं चतुर्द्धा विभजेयातां त्रीनंशान् क्षत्रियस्त्वादद्यादेकं शूद्रः।  
 अथ ब्राह्मणस्य क्षत्रियत्य वैश्यस्य वा वैश्यशूद्रौपुत्रौ स्यातां-
-
-
 
 स्यातां तदा तद्धनं त्रिधा विभजेयातां द्वावंशौ  
 वैश्यस्त्वादद्यादेकं शूद्रः।  
@@ -15983,8 +14934,6 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रेऽष्टादशोऽध्यायः॥
 
-
-
 **॥अथ एकोनविंशोऽध्यायः॥**
 
 मृतं द्विजं न शूद्रेण निर्हारयेत्। न शूद्रंद्विजेन।  
@@ -16007,8 +14956,6 @@ LADURAM TRIVEDI,
 तत्र शान्तिंकृत्वा ब्राह्मणानाञ्च पूजनं कुर्य्युः।  
 देवाः परोक्षदेवाः प्रत्यक्षदेवा ब्राह्मणाः।  
 ब्राह्मणैर्लोकाधार्यन्तेI
-
-
 
 ब्राह्मणानां प्रसादेन दिवि तिष्ठन्ति देवताः।  
 ब्राह्मणाभिहितं वाक्यं न मिथ्या जायते क्वचित्॥
@@ -16036,8 +14983,6 @@ LADURAM TRIVEDI,
 ब्रह्मणोवर्पशरुमायुः  
 ब्रह्मायुषाच परिच्छिन्नः पौरुषो दिवसः।  
 तस्यान्ते महाकल्पः। तावत्येवास्य निशा।
-
-
 
 **पौरुषाणामहोरात्राणामतीतानां संख्यैवनास्ति।  
 न च भविष्याणाम्। अनाद्यन्तेता कालस्य॥**
@@ -16072,8 +15017,6 @@ LADURAM TRIVEDI,
 **सुकृतंदुष्कृतञ्चोभौ सहायौ यस्य गच्छतः।  
 बान्धवैस्तस्य किं कार्यं शोचद्भिरथवा न वा॥**
 
-
-
 बान्धवानामशौचे तु स्थितिं प्रेतो न विन्दति।  
 अतस्त्वभ्येति तानेव पिण्डतोयप्रदायिनः॥
 
@@ -16106,8 +15049,6 @@ LADURAM TRIVEDI,
 
 क्षेत्रापणगृहासक्तमन्यत्र गतमानसम्।  
 वृकीवोरणमासाद्य मृत्युरादाय गच्छति॥
-
-
 
 न कालस्य प्रियः कश्चिद्द्वेष्यश्चास्य न विद्यते।  
 आयुष्ये कर्मणि क्षीणे प्रसह्य हरते जनम्॥
@@ -16144,8 +15085,6 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रे विंशोऽध्यायः॥
 
-
-
 **॥अथ एकविंशोऽध्यायः॥**
 
 अथाशौचव्यपगमे सुस्नातः सुप्रक्षालितपाणिपाद आचान्तस्त्वेवंबिधान् ब्राह्मणान् यथाशक्त्युदङ्मुखान् गन्धमाल्यवस्त्रालङ्कारादिभिः पूचितान् भोजयेत्।  
@@ -16167,8 +15106,6 @@ LADURAM TRIVEDI,
 संसृजतु त्वापृथिवीसमानीव इति च प्रेतपाद्यापात्रे -  
 पितृपाद्यपात्रत्रये योजयेत्।  
 उच्छिष्टसन्निधौ पिण्डचतुष्टयंकुर्य्यात्।
-
-
 
 ब्राह्मणांश्च स्वाचान्तान्दत्तदक्षिणांश्चनुब्रज्यविसर्जयेत्।  
 ततःप्रेतपिण्डंपाद्यपात्रोदकवत् पिण्डत्रये निदध्यात्।  
@@ -16197,8 +15134,6 @@ LADURAM TRIVEDI,
 अशौचे होमदानप्रतिग्रहस्वाध्याया निवर्त्तन्ते।  
 नाशौचे कस्यचिदन्नमश्नीयात् ।
 
-
-
 ब्राह्मणादीनामशौचे यः सकृदेवान्नमश्नाति तस्य -  
 तावदशौचं यावत्तेषाम्।  
 अशौचापगमे प्रायश्चित्तं कुर्य्यात्।  
@@ -16220,8 +15155,6 @@ LADURAM TRIVEDI,
 जातमृते मृतजाते वा कुलस्य सद्यःशोचम्।  
 अदन्तजाते बाले प्रेते सद्य एव।  
 नास्याग्निसंस्कारो नोदकक्रिया।
-
-
 
 दन्तजाते त्वकृतचूडेत्वहोरात्रेण।  
 कृतचडंत्वसंस्कृतेत्रिरात्रेण। ततः परं यथोत्तकालेन।  
@@ -16245,8 +15178,6 @@ LADURAM TRIVEDI,
 न देवप्रतिष्ठाविवाहयोः पूर्वसंभृतयोः।  
 न देशविप्लवे। आपद्यपि च कष्टायाम्।
 
-
-
 आत्मत्यागिनः पतिताश्च नाशौचोदकभाजः।  
 पतितस्य दासी मृतेऽह्निपादाभ्यां घटमपवर्ज्जयेत्।  
 उद्बन्धनमृतस्य यः पाशं च्छिन्द्यात् स तप्तकृच्छ्रेण शुध्यति।  
@@ -16267,8 +15198,6 @@ LADURAM TRIVEDI,
 सवर्णामधिकरणां वा स्पृष्ट्वा स्नात्वाश्नीयात्।  
 क्षुत्वा सुप्त्वाभोजनाध्ययने पीत्वा स्नात्वा निष्ठीव्यवासः परिधाय रध्यामाक्रम्य मूत्रपुरीषे कृत्वा पञ्चनखस्य-  
 सस्नेहास्थि स्पृष्ट्वाचाचामेत्।
-
-
 
 चाण्डालम्लेच्छसम्भाषणेच।  
 नाभेरधस्तात् प्रवाहेषु च कायिकैर्मलैःसुराभिर्व्योपहतोमृत्तोयैस्तदङ्गं प्रक्षाल्य शुध्यति।  
@@ -16300,8 +15229,6 @@ LADURAM TRIVEDI,
 ज्ञानंतपोऽग्निराहारो मृण्मनोवार्य्युपाञ्जनम्।  
 वायुः कर्म्मार्ककालौच शुद्धिकर्तॄणि देहिनाम्॥
 
-
-
 सर्वेषामेव शौचानामन्नशौचं परं स्मृतम्।  
 योऽन्ने शुचिर्हि स शुचिर्न मृद्वारिशुचिः शुचिः॥
 
@@ -16332,9 +15259,6 @@ LADURAM TRIVEDI,
 अश्ममयानाञ्चमसानां ग्रहाणाञ्च।  
 चरुस्रुक्स्रुवाणामुष्णेनाम्भसा।  
 
-
-
-
 यज्ञकर्मणि यज्ञपात्राणांपाणिना संमार्ज्जनेन।  
 स्पयशूर्पशकटमुषलोलूषलानां प्रोक्षणेन।  
 शयनयानासनानाञ्च।  
@@ -16358,8 +15282,6 @@ LADURAM TRIVEDI,
 तस्योपहतमात्रमपास्य गायत्र्याभिमन्त्रितं सुवर्णाम्भः-  
 
 प्रक्षिपेत् वस्तस्य च प्रदशयेदग्नेः।
-
-
 
 पक्षिजग्धंगवाघ्रातमवधूतमवक्षुतम्।  
 दूषितं केशकीटैश्चमृदः क्षेपेण शुद्ध्यति॥
@@ -16394,8 +15316,6 @@ LADURAM TRIVEDI,
 नित्यमास्यं शुचि स्त्रीणां शकुनिः फलपातने।  
 प्रस्रवे च शुचिर्वत्सः श्वा मृगग्रहणे शुचिः॥
 
-
-
 श्वभिर्हतस्य यन्मासं शुचि तत् परिकीर्तितम्।  
 क्रव्याद्भिश्च हतस्वान्यैश्चाण्डालाद्यैश्च दस्युभिः॥
 
@@ -16428,8 +15348,6 @@ LADURAM TRIVEDI,
 गवां कण्डुयनञ्चैव सर्वकल्पपनाशनम्।  
 गवां ग्रासप्रदानेन स्वर्गलोके महीयते॥**
 
-
-
 गवां हि तीर्थे वसतीह गङ्गा पुष्टिस्तथा सा रजसि प्रवृद्धा।  
 लक्ष्मीः करीषे प्रणतौ च धर्म्मस्तासां प्रणामं सतञ्चकुर्य्यात्॥
 
@@ -16455,8 +15373,6 @@ LADURAM TRIVEDI,
 प्रार्थिताप्रदानेन प्राजापत्यः।  
 द्वयोः सकामयोर्म्मातापितृरहितो योगो गान्धर्वः।
 
-
-
 क्रयेणासुरः। युद्धहरणेन राक्षसः।  
 सुप्तप्रमत्ताभिगमनात् पैशाचः।  
 एतेष्वाद्याश्चत्वारोधर्म्याः। गान्धर्व्वोऽपि राजन्यानाम्।  
@@ -16474,12 +15390,9 @@ LADURAM TRIVEDI,
 पितृवेश्मनि या कन्या रजः पश्यत्यसंस्कृता।  
 सा कन्या वृषली ज्ञेयाहरंस्तांन विदुष्यति॥  
 
-
 इति वैष्णवे धर्मशास्त्रे चतुर्विंशोऽध्यायः॥
 
 ![](../books_images/U-IMG-1725816495Screenshot2024-09-08114906.png)
-
-
 
 **॥अथ पञ्चविंशोऽध्यायः॥**
 
@@ -16506,8 +15419,6 @@ LADURAM TRIVEDI,
 इति वैष्णवे धर्मशास्त्रे पञ्चविंशोऽध्यायः॥
 
 ————
-
-
 
 ॥अथ षड्विंशोऽध्यायः॥
 
@@ -16538,8 +15449,6 @@ LADURAM TRIVEDI,
 जुगुप्सितं शूद्रस्य। चतुर्थेमास्यादित्यदर्शनम्।  
 षष्ठेऽन्नप्राशनम्। तृतीयेऽब्दे चूडाकरणम्।
 
-
-
 एता एव क्रियाः स्त्रीणाममन्त्रकाः।  
 तासां समन्त्रको विवाहः।  
 गर्भाष्टमेऽब्देब्राह्मणस्योपनयनम्। गर्भैकादशे राज्ञः।  
@@ -16566,8 +15475,6 @@ LADURAM TRIVEDI,
 
 ————
 
-
-
 ॥अथ अष्टाविंशोऽध्यायः॥
 
 अथ ब्रह्मचारिणां गुरुकुले वासः। सन्ध्याद्वयोपसनम्।  
@@ -16591,8 +15498,6 @@ LADURAM TRIVEDI,
 पराङ्मुखस्याभिमुखःदूरस्थस्यान्तिकमुपेत्यः।  
 शयानस्य प्रणम्य।  
 तस्य च चक्षुर्विषये न यथेष्टासनःस्यात्।
-
-
 
 नचास्य केवलं नाम ब्रूयात्।  
 गतिचेष्टाभाषितादिकं नास्य कुर्यात्।  
@@ -16618,8 +15523,6 @@ LADURAM TRIVEDI,
 एवञ्चरतियो विप्रो ब्रह्मचर्यमतन्द्रितः।  
 स गच्छत्युत्तमं स्थानं न चेहा जायते पुनः॥
 
-
-
 कामतो रेतसः सेको ब्रतस्थस्य द्विजन्मनः।  
 अतिक्रमब्रतस्याहुर्ब्रह्मज्ञा ब्रह्मवादिन्॥
 
@@ -16638,7 +15541,6 @@ LADURAM TRIVEDI,
 तञ्चेदभ्युदियात् सूर्यंशयानं कामकातर।  
 निम्लोचेद्वाप्यविज्ञानाज्जपन्नुसेहिनम्॥  
 
-
 इति वैष्णवे धर्मशास्त्रेऽष्टाविंशोऽध्याय॥
 
 ![](../books_images/U-IMG-1725864928Screenshot2024-09-09122357.png)
@@ -16650,8 +15552,6 @@ LADURAM TRIVEDI,
 
 यो यस्य यज्ञे कर्माणि कुर्य्यात्तमृत्विजं विद्यात्।  
 नापरीक्षितं याजयेत् नाध्यापयेत् नोपनयेत्॥
-
-
 
 अधर्मेण च यः प्राह यश्च धर्मेण पृच्छति।  
 तयोरन्यतरः प्रैति विद्वेषं वाधिगच्छति॥
@@ -16680,8 +15580,6 @@ LADURAM TRIVEDI,
 न वाति चण्डपवने। नाकालवर्षविद्युत्स्तनितेषु।  
 न भूकम्पोल्कापातदिग्दाहेषु।
 
-
-
 नान्तःशवेग्रामे। न शस्त्रसंपाते।  
 नश्वशृगालर्द्दभनिह्नादे। न वादित्रशब्दे।  
 न शूद्रपतितयोः समीपे।  
@@ -16704,8 +15602,6 @@ LADURAM TRIVEDI,
 यश्वविद्यामासद्यास्मिंल्लोके तया जीवेन्न सा तस्य-  
 परलोके फलप्रदा भवेत्।  
 यश्चविद्यया यशः परेषांहन्ति।
-
-
 
 अनुज्ञातश्चान्यस्मादधीयानान्न विद्यामादद्यत।  
 तददानमस्य ब्रह्मणः स्तेयं नरकाय भवति।
@@ -16737,8 +15633,6 @@ LADURAM TRIVEDI,
 यत्ते ब्रूयुस्तत्कुर्य्यात्। तेषां प्रियहितमाचरेत्।  
 न तैरननुज्ञातः किञ्चिदपि कुर्य्यात् ।
 
-
-
 एत एव त्रयोवेदा एत एवत्रयः सुराः।  
 एतएव त्रयो लोका एत एवा त्रयोऽग्नयः॥
 
@@ -16765,8 +15659,6 @@ LADURAM TRIVEDI,
 हीनवर्णानां गुरुपत्नीना दूरादभिवादनं न पादोपसंस्पर्शनम्।  
 गुरुपत्नीनांगात्रोत्सादनाञ्जनकेशसंयमनपादप्रक्षालनं  
 न कुर्य्यात्।
-
-
 
 असंस्तुतापि परपत्नी भगिनीति वाच्या पुत्रीति मातेति वा।  
 न च गुरुणां त्वमिति ब्रुयात्।  
@@ -16796,8 +15688,6 @@ LADURAM TRIVEDI,
 
 ————
 
-
-
 ॥अथ त्रयस्त्रिंशोऽध्यायः॥
 
 अथ पुरुषस्य कामक्रोधलोभास्व्यंरिपुत्रयं सुघोरं भवति।  
@@ -16822,8 +15712,6 @@ LADURAM TRIVEDI,
 इति वैष्णवे धर्मशास्त्रे चतुस्त्रिंशोध्याय॥
 
 ———
-
-
 
 ॥अथ पञ्चत्रिंशोऽध्यायः॥
 
@@ -16850,8 +15738,6 @@ LADURAM TRIVEDI,
 पितृव्यमातामहमातुलश्वशुरनृपपत्न्यभिगमनं -  
 गुरुदारगमनसमम्। पितृष्वसृमातृष्वसृस्वसृगमनञ्च।
 
-
-
 श्रोत्रियर्त्विगुपाध्यायमित्रपत्न्यभिगमनञ्च।  
 स्वसुः सख्याःस गोत्राया उत्तमवर्णायाःकुमार्य्यां -  
 अन्त्यजायारजस्वलायाः शरणागतायाः प्रव्रजिताया-  
@@ -16876,8 +15762,6 @@ LADURAM TRIVEDI,
 सर्वाकरेष्वधिकारः। महायत्त्रप्रवर्त्तनम्।  
 द्रमगुल्मवल्लीलतौषधीनांहिंसा। स्त्रीजीवनम्।
 
-
-
 अभिचारबलकर्मसु प्रवृत्तिः। आत्मार्थे क्रियारम्भः।  
 अनाहिताग्निता। देवर्षिपितृऋणानामनपाक्रिया।  
 असच्छास्त्राभिगमनम्। नास्तिकता। कुशीलवता।  
@@ -16899,8 +15783,6 @@ LADURAM TRIVEDI,
 इति वैष्णवे धर्मशास्त्रे अष्टात्रिंशोऽध्यायः॥
 
 ![](../books_images/U-IMG-1725939590Screenshot2024-09-09183835.png)
-
-
 
 ॥अथ द्विचत्वारिंशत्तमोऽध्यायः॥
 
@@ -16930,8 +15812,6 @@ LADURAM TRIVEDI,
 
 कृतपातकिनः सर्वे प्राणत्यागादनन्तरम्।  
 याम्यं पन्थानमासाद्य दुःखमश्नन्ति दारुणम्॥
-
-
 
 यमस्यपुरुत्रैर्घोरैःकृष्यमाणा यतस्ततः।  
 सुकृच्छ्रेणानुकारेण नीयमानाञ्चते यथा॥
@@ -16965,8 +15845,6 @@ LADURAM TRIVEDI,
 कण्ठेषु दत्तपादाश्च भुजङ्गाभोगवेष्टिताः।  
 पीड्यमानास्तथा यन्त्रैः कृष्यमाणाश्च जानुभिः॥
 
-
-
 भग्नपृष्ठशिरोग्रीवाःसूचीकण्ठाः सुदारुणाः।  
 कूटागारप्रमाणैश्च शरीरैर्यातनाक्षमैः॥
 
@@ -16990,8 +15868,6 @@ LADURAM TRIVEDI,
 प्रकीर्णेषु प्रकीर्णा हिंस्राः क्रव्यादा भवन्ति।  
 अभोज्यान्नाभक्ष्याशी कृमिः। स्तेन श्येनः।  
 प्रकष्टवर्त्मापहारी विलेशयः। आखुर्धान्यहारी।
-
-
 
 हंसः कांस्यापहारी। जलं हृत्वाभिप्लवः। मधु दंशः।  
 पयः काकः। रसं श्वा। घृतं नकुलः। मासं गृध्रः।  
@@ -17019,8 +15895,6 @@ LADURAM TRIVEDI,
 अथ नरकानुभूत दुःखानां तिर्य्यत्क्वमुत्तीर्णानां  
 मनुष्येषु लक्षणानि भवन्ति।
 
-
-
 कुष्ठ्यतिपातकी। ब्रह्महा यक्ष्मी। सुरापः श्यावदन्तकः।  
 सुवर्णहारः कुनख। गुरुतल्पगो दुश्चर्म्मा।  
 पूतिनासः पिशुनः। पूतिवक्त्रः सूचकः।  
@@ -17047,8 +15921,6 @@ LADURAM TRIVEDI,
 
 ![](../books_images/U-IMG-1725963650Screenshot2024-09-10130409.png)
 
-
-
 ॥अथ षट्चत्वारिंशोऽध्यायः॥
 
 अथ कृच्छ्राणि भवन्ति।
@@ -17073,8 +15945,6 @@ LADURAM TRIVEDI,
 वहारस्तुलापुरुषः।  
 कुशपलाशोडुम्बरपद्मशङ्खपुष्पीवटब्रह्मसुवर्ज्वलानांपत्रैः -  
 क्वथितस्यम्भसः प्रत्येकं पानेन पर्णकृच्छ्रः॥
-
-
 
 कृच्छ्राण्येतानि सर्व्वाणि कुर्वीत कृतपावनः।  
 नित्यं त्रिषवणस्नायी अधःशायी जितेन्द्रियः॥
@@ -17106,8 +15976,6 @@ LADURAM TRIVEDI,
 
 ————
 
-
-
 **॥अथ अष्टचत्वारिंशत्तमोऽध्याय॥**
 
 अथकर्म्मभिरात्मकृतैर्गुरुमात्मानं मन्येतात्मार्थे-  
@@ -17132,8 +16000,6 @@ LADURAM TRIVEDI,
 
 यवोऽसि धान्यराजोऽसि वारुणौमधुसंयुतः।  
 निर्णादः सर्वपापानां पवित्र मूषिभिः स्मृतम्॥
-
-
 
 धृतमेव मधु यवा आपो वा अमृतं यवाः।  
 सर्वे पुनीत मे पापं यन्मे किञ्चन दुष्कृतम्॥
@@ -17163,8 +16029,6 @@ LADURAM TRIVEDI,
 ब्रह्मभूतममावास्यांपौर्णमास्यान्तथैव च।  
 योगभूतं परिचरन् केशवं महदाप्नुयात्॥
 
-
-
 दृश्येत सहितौ यस्यां दिवि चन्द्र बृहस्पती।  
 पौर्णमासोतु महती प्रोक्तासम्बत्सरे तु सा॥
 
@@ -17190,8 +16054,6 @@ LADURAM TRIVEDI,
 तासां शीतादित्राणमकृत्वानात्मनः कुर्य्यात् गोमूत्रेण-  
 स्नायात् गोरसैश्च वर्त्तेत। एतद्रोब्रतं गोवधे कुर्य्यात्।
 
-
-
 गजं हत्वा पञ्च नीलान् वृषभान् दद्यात्।  
 तुरगं वासः। एकहायनमड्वाहं खरवधे।  
 मेपाजबधे च। सुवर्णकृष्णलमुष्ट्रवधे।  
@@ -17215,8 +16077,6 @@ LADURAM TRIVEDI,
 
 किञ्चिदेव तु विप्राय दद्यादस्थिमतां वधे।  
 अनस्थ्नां चैव हिंसायां प्राणायामेण सुध्यति॥
-
-
 
 फलदानान्तु वृक्षाणां छेदने जप्यमृक्शतम्।  
 गुल्मवल्लीलतानाञ्च पुष्पितानाञ्च वीरुधाम्॥
@@ -17244,8 +16104,6 @@ LADURAM TRIVEDI,
 गणगणिकास्तेनगायनाग्नानि भुक्त्वासप्तरात्रं पयसा वर्त्तेत।  
 तक्षक्वाग्नंचर्मकर्त्तुश्च।
 
-
-
 वार्द्युपिककदर्य्यदीक्षितबद्धनिगडाभिशस्तपण्डानाञ्च।  
 पुंश्चलीदाम्भिकचिकित्सकलुब्धकक्रूरोप्रोच्छिष्टभोजिनाञ्च।  
 अवीरास्त्रीसुवर्णकारसपत्नपतितानाञ्च।  
@@ -17266,8 +16124,6 @@ LADURAM TRIVEDI,
 प्राश्याज्ञातं सूनास्थं शुष्कमांसञ्च।  
 क्रव्यादमृगपश्निर्मासाशने तप्तकृच्छ्रम्।
 
-
-
 कलविलुप्लवचक्रवाकहंसरज्जुदालसारसदात्यूहशुकसारिकावकवलाकाकोकिलखञ्जरीटाशने त्रिरात्रमुपवसेत्।  
 एकशफोभयदन्ताशने च।  
 तित्तिरिकापिञ्जललावकवर्त्तिकामयूरयज्जंसर्वपक्षिमांसाशने चाहोरात्रम्।  
@@ -17286,8 +16142,6 @@ LADURAM TRIVEDI,
 स्वोच्छिष्टाशने दिनसेकसुपोषितः पञ्चगव्यं पिबेत्।  
 पञ्चनखविण्मूत्राशने सप्तरात्रम्।  
 आमश्राद्धाराने त्रिरात्रं पयसा वर्त्तेत।
-
-
 
 ब्राह्मणः शूद्रोच्छिष्टाशने सप्तरात्रम्।  
 वैश्योच्छिष्टाशने पञ्चरात्रम्।  
@@ -17318,8 +16172,6 @@ LADURAM TRIVEDI,
 
 यज्ञार्थेषु पशून् हिंसन् वेदतत्त्वार्थचिद्द्विजः।  
 आत्मानञ्च पशूश्चैव गमयत्युत्तमां गतिम्॥
-
-
 
 गृहे गुरावरण्ये वा निवसन्नात्मवान् द्विजः।  
 नावेदविहितां हिंसामापद्यपि समाचरेत्॥
@@ -17354,8 +16206,6 @@ LADURAM TRIVEDI,
 वर्षे वर्षेऽश्वमेघेन यो यजेत शतं समाः।  
 मांसानि च न स्वादेद्यस्तस्य पुण्यफलं समम्॥
 
-
-
 फलमूलाशनैर्दिव्यैर्मुन्यन्नानाञ्च भोजनैः।  
 न तत्फलमवाप्नोति यन्मांसपरिवर्जनात्॥
 
@@ -17381,8 +16231,6 @@ LADURAM TRIVEDI,
 द्विशफैकशफहरणे त्रिरात्रमुपवसेत्।  
 पक्षिगन्धौषधिरज्जुर्वेदलानामपहरणे दिनमुपवसेत्॥
 
-
-
 **दत्त्वैवापहृतं द्रव्यं धनिकस्याप्युपायतः।  
 प्रायश्चित्तं ततः कुर्य्यात् कल्मषस्यापनुत्तये॥**
 
@@ -17403,8 +16251,6 @@ LADURAM TRIVEDI,
 
 अथागम्यागमने महाव्रतविधानेनाब्दं चीरवासा पतेप्राजापत्यं कुर्य्यात्। परदारमने च। गोव्रतं गोगमने च।पुंस्ययोनायाकारोऽप्सु दिवा गोयाने च सवासाः स्नानमाचरेत्।चाण्डालीगमने तत्साम्यमवाप्नुयात्।  
 अज्ञानतश्चास्त्रायणद्वयं कुर्य्यात्।पशुप्रयागमने प्राजापत्यम्।सकृद्दुष्टा सो यत् पुरुषायपरदारे राहतं कुर्य्यात्।
-
-
 
 यत्करोत्येकरात्रेण वृषलीसेवनाद्द्विजः।  
 तद्भैक्षभुग्जपन्नित्यं त्रिभिर्वर्षैर्व्यपोहति॥
@@ -17430,8 +16276,6 @@ LADURAM TRIVEDI,
 स्रवन्तीमासाद्य षोडश प्राणायामान् कुर्य्यात्।  
 वेदाग्न्युत्सादी त्रिपवणस्नाय्यवशायी सम्वत्सरं सकृद्रैक्ष्यैणवर्त्तेत।
 
-
-
 **विष्णुस्मृतिः।**
 
 समुत्कर्षातृते गुरोश्चालीकनिर्बन्धे तदाक्षेपणे च मांसपयसा वर्त्तेत।
@@ -17456,8 +16300,6 @@ LADURAM TRIVEDI,
 
 चेषां द्विजानां सावित्री नानूच्येत यथाविधि।  
 तांश्चारयित्वा त्रीन्कृच्छ्रान्यथाविध्युपतापयेत्॥
-
-
 
 प्रायश्चित्तं चिकीर्षन्ति विकर्म्मस्थास्तु ये द्विजाः।  
 ब्राह्मण्याञ्च परित्यक्तास्तेषामप्येतदादिशेत्॥
@@ -17485,8 +16327,6 @@ LADURAM TRIVEDI,
 इति वैष्णवे धर्मशास्त्रे चतुःपञ्चाशत्तमोऽध्यायः॥
 
 ————————
-
-
 
 **॥अथ पञ्चपञ्चाशत्तमोऽध्यायः॥**
 
@@ -17516,8 +16356,6 @@ LADURAM TRIVEDI,
 
 एतदक्षरमेवाश्चजपन् व्याहृतिपूर्विकाम्।  
 सन्ध्ययोर्वेदविदुषो वेदपुण्येनयुज्यते॥
-
-
 
 सहस्रकृत्वरत्वभ्यस्य बहिरेतत्त्रिकं द्विजः।  
 महतोऽप्येनसो मासात्त्वचेवाहिर्विमुच्यते॥
@@ -17549,8 +16387,6 @@ LADURAM TRIVEDI,
 
 -----------------------------------
 
-
-
 **॥अथ षट्पश्चाशत्तमोऽध्यायः॥**
 
  अथातः सर्ववेदपवित्राणि भवन्ति। येषां जपैश्चहोमैश्च द्विजातयः पापेभ्यः पूयन्ते। अधमर्पणं देववृतं शुद्धवत्यःतत्सम्भदीयं कुमाण्ड्यःपावमान्यः दुर्गां सावित्री अनीपङ्गाः पदस्तोमाः सामानि व्याहृतयः भारुण्डानि चन्द्रसापुरुषस्तेभासं बार्हस्पर्त्य गोसूक्तम्अश्वसूक्तं सामनीचन्द्रसूक्तेच शतरुद्रीयं अथर्वशिरः त्रिसुपर्णं महारतं नारायणीयं पुरुषसूक्तश्च। त्रीण्याज्यदोहानि रथश्चरञ्चअग्निव्रतं वामदेव्यं वृहच्च। एतानि गीतानि पुनन्ति जन्तून् जातित्मरत्वं लभते च इच्छेत्।
@@ -17563,11 +16399,7 @@ LADURAM TRIVEDI,
 
 अथ त्याज्याः।
 
-
-
  व्रात्या पतितास्त्रिपुरुषंमातृतः पितृश्चाशुद्धाः-सर्वं एवाभोज्याश्चाप्रतिग्राह्याः। अप्रतिग्राह्येभ्यश्चप्रतिग्रहप्रसङ्गं वर्जयेत्। प्रविपद्देण ब्राह्मणानां ब्राह्मं तेजः प्रणश्यति। द्रव्याणां वाऽविज्ञाय प्रतिपदविधिंयः प्रतिग्रहंकुर्प्यात् सदात्रा सह निमज्जति।
-
-
 
 **अष्टपञ्चाशत्तमोऽध्यायः।**
 
@@ -17599,8 +16431,6 @@ LADURAM TRIVEDI,
 
  अथ गृहोश्रमिण स्त्रिविधोऽर्धोभवति। शुल्कः शवलोऽसितश्चार्थः।
 
-
-
  शुल्केनार्थेन यदैहिकं करोति तद्देवमासादयति। यच्छवलेन तन्मानुष्यम्। यत्कृष्णेन तत्तिर्य्यक्त्वम्। स्ववृत्त्युपार्जितं सर्व्वंसर्वेषां शुल्कम्। अनन्तरवृत्त्युपात्तं शवलम्। अन्तरितवृत्त्युपात्तञ्च कृष्णम्।
 
 **क्रमागतं प्रीतिदायं प्राप्तञ्च सह भार्यया ।  
@@ -17627,8 +16457,6 @@ LADURAM TRIVEDI,
 चन्द्रार्कसन्निकर्षविप्रकर्षयोर्दर्शपूर्णमासाभ्यां यज्ञेत्।  
 प्रत्ययनं पशुना। शरदूग्रीष्मयोश्चाप्रदायणेन।
 
-
-
  व्रीहियवयोर्वा पाके। त्रैवार्षिकाभ्यधिकान्नः प्रत्यब्दं सोमेन। वित्ताभावे इष्ट्यावैश्वानर्य्या। शूद्रान्नं यागे परिहरेत्। यज्ञार्थं भिक्षितमवाप्तमर्थं सकलमेव वितरेत्। सायं प्रातर्वैश्वदेवं जुहुयात्। भिक्षां च भिक्षवे दद्यात्। अर्च्चितभिक्षादानेन गोदानफलमवाप्नोति। भिक्ष्वभावे तन्मात्रं गवां दद्यात्। वह्णौवा प्रक्षिपेत्।
 
  भुक्ताऽप्यन्ने विद्यमानेन भिक्षुकं प्रत्याचक्षीत। कण्डनी पेषणी चुल्ली कुम्भ उपस्कर इति पञ्चसूना गृहस्थस्य। तन्निकृत्यर्थञ्च ब्रह्मदेवभूतपितृनरयज्ञान् कुर्य्यात्। स्वाध्यायो ब्रह्मयज्ञः। होमो दैवः। वलिर्भौतः। पितृ तर्पणं पित्र्यः। नृयज्ञश्चातिथिपूजनम्।
@@ -17645,8 +16473,6 @@ LADURAM TRIVEDI,
 **ऋषयः पितरो हेवा भूतान्यतिथयस्तथा।  
 अरशासते कुटुम्बिभ्यस्तस्माच्छ्रेष्ठोगृहाश्रमी॥**
 
-
-
 त्रिवर्गसेवां सततान्नदानं सुरार्धनं ब्राह्मणपूजननञ्च।  
 स्वाध्यायसेवां पितृतर्पणञ्च कृत्वा गृही शक्रपदं प्रयाति॥
 
@@ -17656,14 +16482,10 @@ LADURAM TRIVEDI,
 
 **॥अथ षष्टितमोऽध्यायः॥**
 
-
-
 ब्राह्मेमुहूर्त्ते उत्थाय मूत्रपुरीपोत्सर्ग कुर्य्यात्। दक्षिणाभिमुखो रात्रौ दिवा चोदङ्मुखः सन्ध्ययोश्च। नाप्रच्छादितायो भूमौ। न फालकृष्टायाम्। न च्छायायाम्। न चोपरे। न शाद्वले। न ससत्वे। न गर्त्ते। न वल्मीके। न पथि। न रथ्यायाम्। न पराशुचौ। नोद्याने। नोद्यानोदकसमीपयोः। नाङ्गारे। ने भस्मनि। न गोमये। न गोव्रजे। नाकाशे। नौदके। न प्रत्यनिलानलेन्दुर्कस्त्रीगुरुवाह्यणानाञ्च। नैवावगुण्ठितशिराः। लौष्टेष्टकाभिः परिमृज्य गुदं गृहीतशिश्नोश्चोत्थायाद्धिर्मृद्भि श्चोद्धृताभिर्गन्धलेपक्षयकरं शौचं कुर्य्यात्॥
 
 एका लिङ्गे गुदे तिस्रस्तथैकत्र करे दश।  
 उभयोः सप्त दातव्या सूदस्तिस्रस्तु पादयोः॥
-
-
 
 एतच्छौचं गृहस्थानां द्विगुणं ब्रह्मचारिणाम्।  
 त्रिगुणञ्च वनस्थानां यतीनाञ्च चतुर्गुणम्॥
@@ -17684,8 +16506,6 @@ LADURAM TRIVEDI,
 
 **इति वैष्णवे धर्मशास्त्रे एकषष्टितमोऽध्यायः॥**
 
-
-
 **॥अथ द्विषष्टितमोऽध्यायः॥**
 
  अथ द्विजातीनां कनीनिकामूले प्राजापत्यं नाम तीर्थम्। अङ्गुष्टमूले व्राह्यम्। अङ्गुल्यग्रे देवम्। तर्ज्जनीमूले पित्र्यम्। अनग्न्युष्णाभिरफेनिलाभिर्नशूद्रैककरावर्जिताभिरक्षराभिरद्भिः शुचौ देशे स्वासीनो तर्ब्रानुः प्राङ्मुखश्चोदङ्मुखोवातन्मनाः सुमनाश्चाचामेत्। ब्रार्ह्मेण तीर्थेन विराचामेत्। द्विःप्रमृज्यात्।खाल्यद्भिर्मूर्द्धानं हृदयं स्पृशेत्।
@@ -17701,13 +16521,9 @@ LADURAM TRIVEDI,
 
  अथ योगक्षेमार्थमीश्वरमुपगच्छेत्। नैकोऽध्वानं प्रपद्येत। नाधार्म्मिकैःसार्द्धम्। न वृषलैः। न द्विषद्भिः। नातिप्रत्यूपसि। नातिसायम्। न सन्ध्ययोः। न मध्याह्ने सन्निहितपानीयम्। नातितूर्णम्। न रात्रौ। न सन्ततं व्याल व्याधितार्त्तैर्वाहनैः। न हीनाङ्गैःन रोगिभिः। न दीनैः। न गोर्भिः।
 
-
-
 त्रिषष्टितमोऽध्यायः।
 
  नादान्तैः। यवसोदकैर्वाहनानामदत्त्वात्मनः क्षुत्तृष्णापनोदने न कुर्य्यात्। न चतुष्पथमधितिष्ठेत्। न रात्रौ पृक्षमूलम्। न शून्यालयं न तृणम्। न पशूनां बन्धनागारम्। न केशतुपकपालस्थिभस्माङ्गारान्। न कार्पासास्थि। चतुष्पथं प्रदक्षिणीकुर्य्यात् देवताञ्च प्रज्ञासाश्चवनस्पतीन्। अग्निब्राह्मणगणिकापूर्णकुम्भादर्शच्छत्रध्वजपताकाश्रीवृक्षवर्द्धमाननन्द्यावर्तीश्चतालदन्तचामराश्वगजाजगोद-धिक्षीरमधुसिद्धार्थकांश्च वीणाचन्दनायुधार्द्रगोमयपुष्पशाक- गोरोचनादूर्व्वाप्ररोहांश्चउष्णाीषालङ्कारमणिकनकरजत-वस्त्रासनयानामिषांश्चभृङ्गारोद्धृतोर्म्यरारज्जुबद्धपशु कुमारोमीनांश्चदृष्ट्वाप्रयादिति।अधमत्तोन्मत्तव्यङ्गान् दृष्ट्वानिवर्त्तेत्। वान्तविविक्तमुण्डमलिनवसनजटिलबामनांश्च। कषायिप्रव्रजितमलिनांश्च। तैलगुढशुष्कगोमवेन्धनतृणकुशपलाशभस्माङ्गारांश्च। लवणपासवनपुंसकापांसरज्जुनिगढमुक्तकेशाश्च वीणाचन्दनार्द्रशाकोष्णीपालकुरणकुमारीः-प्रस्थानकालेऽभिनन्दयेदिति।देवब्राह्मणगुरुवधूदीक्षितानां च्छायां नाक्रामेत्। निष्ठूनवान्तरुधिरविष्णुब्रह्मानोदकानि वा।न वत्सतन्त्री लक्ष्येत्। प्रवर्षति न धावन्। न वृथा नदीतरेत्।
-
-
 
  न देवताभ्यः पितृभ्यश्चेदकामं प्रदाय। न बाहुभ्याम्। न भिन्नया नावा। न कच्छमधितिष्ठेत।न कूपमवलोकयेत् न लङ्घयेत्॥
 
@@ -17720,20 +16536,14 @@ LADURAM TRIVEDI,
 
 **॥अथ चतुषष्टितमोऽध्यायः॥**
 
-
-
 परनिपानेषु न स्नानमाचरेत्। आचरेत् पञ्चपिण्डानुद्धृत्यापदि। नाजीर्णे। न चातुरः। न नग्नः। न रात्रौ राहुदर्शनवर्जम्। न सन्ध्ययोः।
 
  प्रातः स्नाय्यरुणकिरणग्रस्तां प्राचीमवलोक्य स्नायात्। स्नातः शिरो नावधुनेत्। नाङ्गेभ्यस्तोयमुद्धरेत्। न तैलवस्तु स्पृशेत्। नाप्रक्षालितं पूर्वधृतं वसनं विभृयात्। स्नातः सोष्णीपो धौतवाससी विभृयात्। न म्लेच्छान्त्यजपत्तितैःसह सम्भाषणं कुर्य्यात्। स्नायात् प्रास्रवणदेवस्यातसरोवरेषु। उद्धृताद्भूमिष्टमुदकं पुण्यं स्थावरात् प्रस्रवणं तस्मान्नादेयंतस्मादपि साधुपरिगृहीतं सर्वत एव गाङ्गम्।
-
-
 
  मृत्तोयैः कृतमलापकर्षोऽप्सु निमज्यापोहिष्ठेति तिसृर्भिर्हिरण्यवर्णा इति चतसृभिरिदमापः प्रयहत इति चतुर्थमभिमन्त्रयेत्। तवोऽप्सु निमग्नस्त्रिरघमर्षणं जपेत्। तद्विष्णोः परमं पदमिति वा। द्रुपदां सावित्रीं वा। युञ्जते मन इत्यनुपाकं वा। पुरुषसूक्तं वा। स्नातश्चाद्रवासा देवपितृतर्पणमम्भःस्थ एवं कुर्य्यात्। परिवर्तितयासाश्चेत्तीर्थमुत्ती।अकृत्वा देवपितृतर्पणं सानवस्रादि न पीडयेत्। स्नात्याचम्य विधिवदुपस्पृशेत्। पुरुषसूक्तेन प्रग्य्रधं पुरुषाय पुष्पाणि दद्यात्। उदकाञ्जलिं पश्चात्। आदावेवदिव्येनतीर्थेन देवतानां कुर्य्यात्। तदनन्तरं पित्र्येण पितृृणाम्। तत्रादौ स्वयंस्नानांतर्पणंकुर्य्यात्। ततः सम्बन्धिबान्धवानाम्। ततः गुदद्दाम। एवं नित्यस्नायी स्यात्। स्नातश्च पवित्राणि यथाशक्ति जपेत्। विशेषतः सावित्री त्यवश्यं जपेत् पुरुषसुक्तञ्च। नैताभ्यामधिकमस्ति॥
 
 स्नातोऽधिकारी भवति दैवेपित्र्येच कर्मणि।  
 पवित्राणां तथा जप्ये दाने च विधिनोदिते॥
-
-
 
 अलक्ष्मीः कालकर्णी च दुःस्वप्नं दुर्विचिन्तितम्।  
 स्नातस्य जलमात्रेण नश्यते इति धारणा॥
@@ -17746,8 +16556,6 @@ LADURAM TRIVEDI,
 **॥अथ पञ्चषष्टितमोऽध्यायः॥**
 
  अथातः सुस्नातः प्रक्षालितपाणिपादः त्वाचान्तोदेवतार्श्चायां स्थलेवा भगवन्तमनादिनिधनं वासुदेवसभ्यर्च्चयेत्। अश्विनेैःप्राणैस्त्वेते इति कीचकीयमन्त्रेणाष्टव्य जीवस्य भगवतोजीवादानं दत्त्वा युज्जतेमन इत्यनुवाकेनावाहनं कृत्वा जानुभ्यां पाणिभ्यां शिरसा च नमस्कारं कुर्य्यात्। आपोहिष्ठेति तिभूमिरध्यं निवेदयेत्। हिरण्यवर्णा इति चतसृभिः पाद्यम्। शन्न आपो धन्वन्या इत्याचमनीयम्। इदमापः प्रवहत इति स्नानीयम्। रथे स्वर्क्षेषु वृषभराजा इत्यनुलेपना लङ्कारौ। युवा सुवासा इतिवासः। पुष्पवतीरितिपुष्पम्। घूरसि धूपमितिधूपम्। तेजोऽसि शुक्रमितिदीपम्। दधिक्रावण इति मधुपर्कः। हिरण्यगर्भं इत्यष्टाभिर्नैवेद्यम्।
-
-
 
 चामरं व्यजनं मात्रां छत्रं पानासने तथा।  
 सावित्रेणैव तत् सर्व्वं देवाय विनिवेदयेत्॥
@@ -17763,14 +16571,10 @@ LADURAM TRIVEDI,
 
 न नक्तं गृहीतेनोदकेन देवपितृकर्म्म कुर्य्यात्। चन्दनमृगमदागुरुकर्पूरकुङ्कुमजातीफलवर्जमनुलेपनं न दद्यात्। न वासो नीलीरक्तम्। न मणिसुवर्णयोः प्रतिरूपमलङ्करणम्। नागन्धि। नोग्रगन्धि। न कण्टकिजम्। कण्टकिजमपि शुक्लं सुगन्धिकं दद्यात्। रक्तमपि शुक्लं सुगन्धिकं दद्यात्।न धूपार्थे जीवजातम्। न घृततैलं विना किञ्चन दीपार्थे। नाभक्ष्यं नैवेद्यार्थे। न भक्ष्ये अप्यजामहिपीक्षीरे।पञ्चनखमत्स्यधराहमांसानि च।
 
-
-
 प्रयतश्च शुचिर्भूत्वा सर्व्वमेव निवेदयेत्।  
 तन्मनाः सुमना भूत्वा त्वराक्रोधविवर्जितः॥
 
 **इति वैष्णवे धर्मशास्त्रे षट्षष्टितमोऽध्यायः॥**
-
-
 
 **॥अथ सप्तषष्टितमोऽध्यायः॥**
 
@@ -17785,10 +16589,6 @@ LADURAM TRIVEDI,
  अबानामासीति त्वलानामासीति नितन्तीनामासीतिक्षिप्रणिकानामासीति सर्व्वासाम्।
 
  नन्दिनि सुभगे सुमङ्गलि भद्रकालीतिस्वरिपष्वभिप्रदक्षिणाम्। स्थूणायां ध्रुवायां श्रियैः। हिरण्यकेश्यैवनस्पतिभ्यः। धर्म्माधर्म्मयोद्वारे मृत्यवे च। उदपाने वरुणाय। विष्णव इत्युलूखले। मरुद्भ्यइति दशदि। उपरिशरणं वैश्रवणाय राज्ञेभूतेभ्यश्च। इन्द्रायेन्द्रपुरुषेभ्य इति पूर्व्वार्द्धे। यमाय यमपुरुषेभ्य इति दक्षिणार्द्धे। वरुणाय वरुणपुरुषेभ्य इति पश्चार्द्धे। सोमाय सोमपुरुषेभ्य इत्युत्तरार्द्धे
-
-
-
-
 
 ब्रह्मणे ब्रह्मपुरुषेभ्यइति मध्ये। ऊर्द्धमाकाशाय। दिवाचरेभ्यो भूतेभ्य इतिस्पण्डिलं। नत्तञ्चरेभ्य इति नत्तम्। ततो दक्षिणाग्रेषु दर्भेषु पित्रे पितामहाय प्रपितामहाय मात्रे पितामह्यैप्रपितामह्यैस्वनामगोत्राभ्याञ्च पिण्डनिर्व्वपणं कुर्य्यात्।
 
@@ -17808,13 +16608,9 @@ LADURAM TRIVEDI,
 यदि त्वतिथिधर्मेण क्षत्त्रियो गृहमागतः।  
 भुक्तवत्सु च विप्रेषु कामं तमभिपूजयेत्॥
 
-
-
 **॥अथ सप्तषष्टितमोऽध्यायः॥**
 
  अथाग्निं परिसमूह्य पप्युक्ष्य परिस्तीर्य्य परिषिच्य सर्वतः पाकादग्रमुद्धृत्य जुहुयात्। वासुदेवाय सङ्कीर्णायप्रद्युम्नायानिरुद्धायपुरुषाय सत्यायाच्युताय वासुदेवाय। अधाग्नये सौमाय मित्राय वरुणाय इन्द्रायेन्द्राग्निभ्यां विश्वेभ्यो देवेभ्यः प्रजापतये अनुमत्यै धन्वन्तरये वास्तोव्पतवे अग्नये स्विष्टिकृते च। ततोऽत्रशेषेण वलिमुपहरेत्। भक्ष्योपभक्ष्वाभ्यामभितः पूर्वेणाग्नेः। अबानामासीति त्वलानामासीति नितन्तीनामासीतिक्षिप्रणिकानामासीति सर्व्वासाम्। नन्दिनि सुभगे सुमङ्गलि भद्रकालीतिस्वस्थिष्वभिप्रदक्षिणाम्। स्थूणायां ध्रुवायां श्रियैः। हिरण्यकेश्ये वनस्पतिभ्यः। धर्म्माधर्म्मयोद्वारे मृत्यवे च। उदपाने वरुणाय। विष्णव इत्युलूखले। मरुद्भ्यइति दशदि। उपरिशरणं वैश्रवणाय राज्ञेभूतेभ्यश्च। इन्द्रायेन्द्रपुरुषेभ्य इतिपूर्व्वार्द्धे। यमाय यमपुरुषेभ्य इनिदक्षिणार्द्धे। वरुणाय वरुणपुरुषेभ्य इतिपश्चार्द्धे। सोमाय सोमपुरुषेभ्य इत्युत्तरार्द्धे
-
-
 
  ब्रह्मणे ब्रह्मपुरुषेभ्य इति मध्ये। ऊर्द्धमाकाशाय। दिवाचरेभ्यो भूतेभ्य इति स्थण्डिले। नक्तञ्चरेभ्य इति नक्तम्। ततो दक्षिणाग्रेषु दर्भेषु पित्रे पितामहाय प्रपितामहाय मात्रे पितामह्यै प्रपितामह्यैस्वनामगोत्राभ्याञ्च पिण्डनिर्व्वषणं कुर्य्यात्।
 
@@ -17831,8 +16627,6 @@ LADURAM TRIVEDI,
 
 **यदि त्वतिथिधर्मेण क्षत्रियो गृहमागतः।  
 भुक्तवत्सु च विप्रेषु कामं तमभिपूजयेत्॥**
-
-
 
 **वैश्यशूद्रावपि प्राप्तौकुटुम्बेऽतिथिधर्मिणौ।  
 भोजयेत् सह भूत्यैस्तावानृशंस्यं प्रयोजयन्॥**
@@ -17866,16 +16660,12 @@ LADURAM TRIVEDI,
 
 **इति वैष्णवे धर्मशास्त्रे सप्तषष्टितमोऽध्यायः॥**
 
-
-
 **॥अथ अष्टषष्टितमोऽध्यायः॥**
 
   चन्द्रार्कोपरागे नाश्नीयात्। स्नात्वा मुक्तयोरश्नीयात्। अमुक्तयोरस्तंगतयोर्दृष्ट्वा स्नात्वा चापरेऽह्नि। न गोब्राह्मणोपरागेऽश्नीयात्। न राजव्यसने। प्रवसिताग्निहोत्री यदाग्निहोत्रं कृतं मन्येव तदाश्नीयात्। यदा कृतं मन्येत वैश्यदेवमपि। पर्वणि च यदा कृतं मन्येत पर्व। नाश्नीयाच्चाजीर्णे। नार्द्धरात्रे। न मध्याह्णे। न सन्ध्योः। नार्द्रवासाः। नैकवासाः। न नग्नः। न जलस्थः।नोत्कुटुकः। न भिन्नासनगतः। न च शयनगतः।न भिन्नभाजने। नोत्सङ्गे। न भुवि। न पाणौ। लवणञ्चयत्र दद्यात् न चाश्नीयात्। न बालकान्निर्भर्त्सयेत्। नैको मिष्टम्। नोद्धृतस्नेहम्। न दिवा धानाः। न रात्रौ तिलसंयुत्तम्। न दधि सक्तून्। न कोविदारवटपिप्पलशाणशाकम्। नादत्त्वा। नाहुत्वा। नानार्द्रपादः। नानार्द्रकरमुखश्च। नोच्छिष्टश्च घृतमादद्यात् न चन्द्रार्कतारका निरीक्षेत। न मूर्द्धानं स्पृशेत्। न ब्रह्मा कीर्त्तयेत्। प्राङ्मुखोऽश्रीयात् दक्षिणामुखो वा। अभिपूज्यान्नम्। सुमनाः स्रग्व्यनुलिप्तः। न निःशेषकृत्स्यात्। अन्यत्र दधिमधुसर्पिःपयः सक्तुपलमोदकेभ्यः।
 
 नाश्नीयाद्भार्य्यया सार्द्धं नाकाशे न तथोत्थितः।  
 बहूनां प्रेक्षमाणानां नैकस्मिन् बहवस्तथा॥
-
-
 
 शून्यागारे वह्णिगृहे देवगारे कथञ्चन।  
 पिवेन्नाञ्जलिना तोयं नातिसौहित्यमाचरेत्॥
@@ -17899,8 +16689,6 @@ LADURAM TRIVEDI,
 
 **इति वैष्णवे धर्म्मशास्त्रे एकोनसप्ततितमोऽध्यायः॥**
 
-
-
  नार्द्रपादः स्वप्यात्। नोत्तरापरावाक्शिराः। न नग्नः। नार्द्रवंशे। नाकाशे। न पलाश शयने। न पञ्चदारुकृते। न गजभग्नकृते। न विद्युद्दग्धकृते न भिन्ने। नाग्निव्युष्टे। न घटासिक्तद्रुमजे। न श्मशानशून्यालयदेवतायतनेषु। न चपलमध्ये।न नारीमध्ये। न धान्यगोगुरुहुताशनसुराणामुपरि।
 
 नोच्छिष्टो न दिवा स्वप्यात् सन्ध्ययोर्न च भस्मनि।  
@@ -17914,11 +16702,7 @@ LADURAM TRIVEDI,
 
  न च हीनाङ्गाधिकाङ्गान्मूर्खान् धनहीनानवहसेत्। न हीनान् सेवेत। स्वाध्यायविरोधि कर्म्म नाचरेत्। योऽनुरूपं वेशं कुर्य्यात् श्रुतस्याभिजनस्य धनस्य देशस्य च। नोद्धतः। नित्यं शास्त्राद्यवेक्षी स्यात्। सति विभवे न जीर्णमलवद्वासाः स्यात्। न नास्तीत्यभिभाषेत। न निर्गन्धोप्रगन्धिरक्तश्च माल्यं विभृयात्। विभृयाज्जलजं रक्तमपि। यष्टिञ्चवैणवीम्।
 
-
-
 कमण्डलुश्च सोदकम्। कार्पासमुपवीतम्। रौपमेच कुण्डले। नादित्यमुद्यन्तमीक्षेत। नान्तं यान्तम्। न वाससा तिरोहितम्। न चादर्शं जलमध्यगतम्। न मध्याह्नेः। न कुद्धस्य गुरोर्मुखम्। न तैलोकयोः स्वच्छायाम्। न मलवत्यादर्शे। स्यादर्शे। न पत्नींभोजनसमये। न स्त्रियंनग्नाम्। न कञ्चन मेहमानम्। न चालानभ्रष्टकुञ्जरम्। न च विपमस्थोकुषादियुद्धम्। न मत्तम्। नामेध्यमग्नौप्रक्षिपेत्। नासृक्। न विषम्। नापस्वपि। नाग्निं लङ्घयेत्। न पादौ प्रतापयेत्। न कुशैस्तेषु वा परिमृज्यात्। न कांस्यभाजते चार्पयेत्। न पादं पादेन। न भुवमालिखेत्। न लोप्टमद्दींस्यात्। न तृणच्छेदी स्यात्। न दन्तैर्नखलोमानि च्छिन्द्यात्। द्यूतं वर्जयेत्बालातपसेवाश्च। वस्त्रोपानहमाल्योपवीतान्यन्यधृतानि न धारयेत्। न शूद्राय मति दद्यात् नोच्छिष्टहविषी नतिलान्। न चास्योपदिशेद्धर्म्म न व्रतम् न संहताभ्यांपाणिभ्यां शिर उदरञ्चकण्डूयेत। न दधि सुमनसी प्रत्याचक्षीत। नात्मनः स्रजमपकर्षयेत्। सुप्तं नप्रबोधयेत्। नोदक्यामभिभाषेत न म्लेच्छान्त्यवान्।
-
-
 
 अग्निदेवब्राह्मणसन्निधौ प्रदक्षिणम् पाणिमुद्धरेत्। न परक्षेत्रे चरन्तीं गामाचक्षीत न पिवन्तं वत्सकम्।नोद्धतान् प्रहर्षयेत्। न शूद्रराज्ये निवसेत्। नाधार्म्मिकजनाकीर्णे। न संवसेद्वैद्यहीने। नोपसृष्टे। न चिरं पर्वते। न वृथाचेष्ठां कुर्य्यात्। न नृत्यगीते। नास्फोटनं कार्य्यम्। नाश्लीलं कीर्त्तयेत्। नानृतम्। नाप्रियम्। न किञ्चन्मर्म्माणि स्पृशेत्। नात्मानमवजानीयाद्दीर्घमायुर्जिजीविषुः। चिरं सन्ध्योपासनं कुर्य्यात्। न सर्पशस्त्रैःक्रीडेत। अनिमित्ततःखानि खानि न स्पृशेत्।परस्य दण्डं नोद्यच्छेत। शास्त्रं शासनार्थं ताडयेत्। तन्वा वेणुदलेन रज्ज्वावा पृष्ठे। देवब्राह्मणशास्त्रमहात्मानां परीवादं परिहरेत्। धर्मविरुद्धौ चार्थकामौ। लोकविद्विष्टञ्चधर्ममपि। पर्वसु शान्तिहोमं कुर्य्यात्। न तृणमपि च्छिन्द्यात्। अलङ्कृतश्चतिष्ठेत्। एवमाचारसेवी स्यात्॥
 
@@ -17927,8 +16711,6 @@ LADURAM TRIVEDI,
 
 **आचाराल्लभते चायुराचारादीप्सितां गतिम्।  
 आचाराद्धनमक्षय्यमाचाद्धन्त्यरक्षणम्॥**
-
-
 
 सर्वलक्षणहीनोऽपि यः सदाचारवान्नरः।  
 श्रद्धधानोऽनसूयश्च शतं वर्षाणि जीवति॥
@@ -17958,15 +16740,9 @@ LADURAM TRIVEDI,
 
 अथश्रार्द्धेषु पूर्वद्युब्राह्मणानामन्त्रयेत्। द्वितीयेऽप्रश्नस्य पूर्वाद्धे कृष्णपक्षत्यापराते विप्रान्
 
-
-
 सुस्नातान् स्वाचान्तान् यथाभूयो विद्याक्रमेण कुशोत्तरेष्वासनेपूपवेशयेत्। द्वौ दैवं प्राड्मुखौ श्रीश्चपित्र्ये उदङ्मुखान् एकैकमुभयत्र वेति। आमश्राद्धेषु काम्येषु च प्रथम पञ्च केनाग्निं हुत्वा। पशुश्राद्धेषु मध्यमपञ्चकेन। अमावास्यासूत्तमपञ्चकेन। आग्रहायण्या उर्द्धंकृष्णाष्टकासु च क्रमेणैव प्रथममध्यमोत्तमपञ्चकैः। अन्वष्टकासु च। ततो ब्राह्मणामुज्ञातः पितॄनावाहयेत्। अपयान्त्वसुराइति श्राद्धविघ्नकर्त्तृन्। यातुधानानपसार्य्य तिलैर्यातुधानानां विसर्जनं कृत्वा। एत पितरः सर्व्वास्तान् श्रमाय सन्त्वेतद्वः पितरइत्यावाहनं कृत्वा कुश तिलमिश्रेण गन्धोदकेन यस्तिष्ठन्त्यमृतागावितियन्मेमातेति च पाद्यंनिर्वर्त्य निवेद्याध्यं कृत्वा निवेद्यं चानुलेपनं कृत्वा कुशतिलवस्त्रपुष्पालङ्कारघूपदीपैर्यथाशक्त्याविप्रान् समभ्यर्च्च वृतष्टुत्मन्द्रमादायादित्यारुद्रावसव इतिवीक्ष्याग्नौ करवाणीत्युक्त्वा तत्र विप्रैः कुर्वित्युक्ते आहुतित्रयं दद्यात्। ये मामकाः पित्तर एतद्वः पितरोऽयं यज्ञे इति च हविरनुमन्त्रणं कृत्वायथोपपन्नेषु पात्रेषु विशेषाद्रजतमयेष्वन्नं नमो विश्वेभ्यो देवेभ्य इत्यन्नमादौ प्राड्मुखयोर्न्निवेदयेत्। पित्रे पितामहाय प्रपितामहाय च नामगोत्राभ्यामुदड्मुखेषु। तददत्सु ब्राह्मणेषु यन्मे प्रकामा अहोरात्रैर्यद्वाक्रव्यादिति जपेत्। इतिहासपुराणधर्मशास्त्राणि चेति।
 
-
-
 उच्छ्रिष्ठसन्निधौ दक्षिणाग्रेषु दर्भेषु पृथिवी दर्व्वीरक्षिता इत्येकं पिण्डं पित्रे निदध्यात्। अन्तरीक्षं दर्व्वीं रक्षिता इति द्वितीयं पितामहाय। द्यौर्दर्व्वींरक्षिता इति तृतीयं प्रपितामहाय। अत्रपितरः प्रेता इति वासोदेयम्। धीरान्नः पितरो घन्त इत्यन्नम्। अत्र पितरो मादयध्वं यथाभागमावृषायध्वमिति दर्भमूले करघर्षणम्। तजं वहन्तीरित्यतेनसोदकेन प्रदक्षिणं पिण्डानां विकरणंसेचनं कृत्वा अर्धपुष्पधूपालेपनान्नादिभक्ष्यभोज्यानि च निवेदयेत्। उदकपात्रञ्चमधुवृततिलैः संयुक्तञ्च। भुक्तवत्सु ब्राह्मणेषु तृप्तिमागतेषुमामेश्रेष्ठेत्यन्नं सतृणमभ्युक्ष्यान्नविकिरमुच्छिष्टाग्रतःकृत्वा नृप्ताभवन्तः सम्पन्नमिति पृष्टोदङ्मुखेष्वाचमनप्रादौदत्त्वा ततः प्राङ्मुखेषु दत्त्वा ततश्च मुमुप्रोक्षितमिति श्राद्धदेशं संप्रोक्ष्य दर्भपाणिः सर्व्वं कुर्य्यात्। ततः प्राङ्मुखाप्रतोयन्मे नाम इति प्रदक्षिणं कृत्वा प्रत्येत्य च यथाशक्ति दक्षिणाभिः समभ्युर्च्याभिरमन्तु भवन्त इत्युक्त्वा तैरूक्तोऽभिरताः रम इति दैवाश्च पिरतश्चेत्यभिजपेत्। अक्षप्योदकञ्चनामगोत्राभ्यां दत्त्वाविश्वे देवाः प्रोवन्तामिति प्रास्मुखेन्यस्ततः प्राम्बुलिरिदं सम्भनाः सुमनायाचेत दातारो जोऽभियर्द्धन्तां वेशः सन्ततिरेव च। श्रद्धा च नो मादेवश्च नोऽस्त्यिति।
-
-
 
 तथास्त्विति ब्रूयुः। अन्नञ्चनोबहु भवेदतिर्थीश्च लभेमहि। याचितारश्च नः सन्तु मा च याचिष्म कञ्चन। इत्येताभ्यामाशिषः प्रतिगृह्य।
 
@@ -17985,8 +16761,6 @@ LADURAM TRIVEDI,
 
 **———————**
 
-
-
 **॥अथ पञ्चसप्ततितमोऽध्यायः॥**
 
 पितरि जीवति यः श्राद्धं कुर्य्यात् स येषां पिता कुर्य्यात्तेषां कुर्य्यात्। पितरि पितामहे च जीवति येषां पितामहःकुर्य्यात्तेषां कुर्य्यात्। त्रिषु जीवत्सु नैव कुर्य्यात्। यस्य पिता प्रेतः स्यात् सपित्रे पिण्डं निधाय प्रपितामहात् परं द्वाभ्यां दद्यात्। यस्य पिता पितामहश्च प्रेतौ स्यातां स ताभ्यां पिण्डौ दत्त्वा पितामहपितामहाय दद्यात्। यस्य पितामहः प्रेतः स्यात् स तस्मै पिण्डं निधाय प्रपितामहात्परं द्वाभ्यांदद्यात्। यस्य पिता प्रपितामहश्चप्रेतौ स्यातां स पित्रे पिण्डं निधायपितामहात् परं द्वाभ्यां दद्यात्।
@@ -18001,8 +16775,6 @@ LADURAM TRIVEDI,
 **॥अथ षट्सप्ततितमोऽध्यायः॥**
 
 अमावास्यास्तिस्रोऽष्टकास्तिस्रोऽन्वष्टकामाघी प्रौष्ठपद्यूर्द्धकृष्णत्रयोदशी प्रोहियवपाकौचेति।
-
-
 
 एतास्तु श्राद्धकालान् वै नित्यानाह प्रजापतिः।  
 श्राद्धमेतेष्वकुर्वाणोनरकं प्रतिपद्यते॥
@@ -18029,11 +16801,7 @@ LADURAM TRIVEDI,
 
 सततमादित्येऽह्निश्रार्द्धं कुर्वन्नारोग्यमाप्नोति। सौभाग्यं चान्द्रे। समरविजयं कौजे।
 
-
-
 सर्व्वान् कामान् वौधे। विद्यामभीष्टां जीवे। धनं शौक्रेजीवितं शनैश्चरे। स्वर्गं कृत्तिकासु। अपत्यं रोहिणीषु। ब्रह्मवर्तस्यं सौम्ये कर्मसिद्धिं रौद्रे। भुवं पुनर्वसौ पुष्टिं पुण्ये। श्रियं सर्पे। सर्व्वान् कामान् पैत्रे। सौभाग्यं भाग्ये। धनमार्य्यमणे। ज्ञातिश्रेष्ठ्यंहस्ते। रूपवतः सुतां स्वाष्ट्रे। वाणिज्यसिद्धिं स्वाती। कनकंविशाखासु। मित्राणि मैत्रे। राज्यं शाके। कृषिं मूले। समुद्रयासिद्धिभाप्ये। सर्वान् कामान् वैश्वदेवे। श्रेष्ठमभिजिति। सर्व्वान् कामान् श्रवणे। लवणंवासवे। आरोग्यं वारुणे। कुयद्रव्यमाजे। गृहमाहिर्व्रघ्ने। गाः पौष्णे। तुरद्रमाश्विने। जीवितं याम्ये। गृहसुरूपाः स्त्रियः प्रतिपदि। कन्यां वरदां द्वितीयायाम्। सर्व्वान् कामास्तृतीयायाम्। पशुश्चतुर्थ्याम्। प्रियंपश्यम्याम्। द्यूत विषयंषष्ठ्याम्। कृषिं सप्तम्याम्। वाणिज्यमष्टभ्याम्। पशून्नवम्याम् वाजिनो दशम्याम्। ब्रह्मचर्यस्विनः पुत्रानेकादश्याम्। आयुर्वसुराज्यजयान् द्वादश्याम्। सौभाग्यं त्रयोदश्याम्। सर्वकामान् पञ्चदश्याम् शस्त्रहतानाम्। श्राद्धकर्मणि चतुर्दशी शस्ता। अपि पितृगीते गाथे भवतः।
-
-
 
 **अपि जायेत सोऽस्माकं कुले कश्चिन्नरोत्तमः।  
 प्रावृट्कालेऽसिते पक्षे त्रयोदश्यां समाहितः॥**
@@ -18049,8 +16817,6 @@ LADURAM TRIVEDI,
 
 अथ न नक्तं गृहीतेनोदकेन श्रार्द्धं कुर्य्यात्। कुशाभावे कुशस्थाने काशान् दुर्व्वां वा दद्यात्। वाससोऽर्थेकार्पासोत्थं सूत्रम्। दशां विवर्जयेद् यद्यप्याहतवस्त्रजा स्यात्। जगन्धीन्यगन्धीनि कण्टकिजातानि रक्तानि च पुष्पाणि। शुक्लानि सुगन्धीनि कण्टकिजातान्यपि जलजानि रक्तान्यपिदद्यात्। वसां भेदञ्चदीपार्थे न दद्यात्। घृतं तैलं वा दद्यात्। जीवजं सर्वधूपार्थे न दद्यात्। मधुघृतसंयुक्तं गुग्गुलुं दद्यात्। चन्दनकुङ्कुमकर्पूरागुरुपद्मकान्यनुलेपनार्थे। न प्रत्यक्षलवणं दद्यात् हस्तेन च घृतव्यञ्जनादि। तैजसानि पात्राणि दद्यात्। विशेषतो राजतानि।
 
-
-
 खङ्गकुतपकृष्णाजिनतिलसिद्धार्थकाङ्क्षतानि न पवित्राणि रक्षोघ्नानि चेति दद्यात्। पिणलीमुकुन्दकभूस्तृणशिसुसर्पपसुरसासर्जकसुवर्च्चलकुष्माण्डालावुवार्त्ताकुपालङ्क्योपोढकीतण्डुलौय-ककुसूम्भपिण्डालुकमहिषोक्षीराणि वर्जयेत्। राजमापमसूरपर्य्युपितकृतलवणानि च। कोपं परिहरेत्। नाश्रुपातयेत्। न त्वरा कुर्य्यात्। घृतादिदाने तैजसानिपात्राणि खड्गपात्राणिफल्गुपात्राणि च प्रशस्वानि। अत्र च श्लोकोभवति।
 
 **सौवर्णराजलाभ्याञ्चखड्गनौडुम्बरेण च।  
@@ -18063,8 +16829,6 @@ LADURAM TRIVEDI,
 ॥अथाशीतिमोऽध्यायः ॥
 
 तिलैर्व्रीहियवैमांसैर्मूलफलैः शाकैः श्यामाकैः प्रियङ्गुभिर्नीवारैर्मुद्गैर्गोधूमैर्यमारां प्रीयन्ते। द्वौ मासौ मत्समांसेन त्रीन् द्दयरिणेन। चतुरस्त्रौरघ्नेणपञ्चशाकुनेन। षट्छागेन। सप्त रौखेण अष्टौ पार्षतेन। नवगयनेन। दश माहिषेण। एकादश कोर्मेण। सम्वत्सरं गुलपेन पयसा तद्विकारैर्न्वां। अत्र पितृगीता गाथा भवति॥
-
-
 
 **कालशाकं महाशल्कं मांसं वाध्रीणसस्य च।  
 विषाणवज्यांये खड्गास्तांस्तु भक्षामहे सदा॥**
@@ -18088,8 +16852,6 @@ LADURAM TRIVEDI,
 दैवे कर्म्मणि ब्राह्मणं न परीक्षेत। प्रयत्नात् पित्र्ये परीक्षेत। हीनाधिकाङ्गान् विवर्जयेत्।
 
 विकर्म्मस्थांश्चवैड़ालन्नतिकान् वृथालिङ्गिनो नक्षत्रजीविनोदेवलकांश्च चिकित्सकान् अनूढापुत्रान् तत्पुत्रान् बहुयाजिनोग्रामयाजिनः शूद्रयाजिनोऽयाज्ययाजिनो व्रात्यांस्तद्याजिनः पर्वकारान् सूचकान् भृतकाध्यापकान् भूतकाध्यापितान्शूद्रान्नपुष्टान् पतितसंसर्गान् अनधीयानान् सन्ध्योपासना-
-
-
 
 ननुष्ठान् राजसेवकान् नग्नान्पितृमातृगुर्वग्निस्वाध्यायत्यागिनश्चेति॥
 
@@ -18115,8 +16877,6 @@ LADURAM TRIVEDI,
 
 **——————————**
 
-
-
 ॥अथ चतुरशीतितमोध्यायः॥
 
  न म्लेच्छविषये श्राद्धं कुर्य्यात्। न गच्छेत्म्लेच्छविषयम्। परनिपानेष्वपः प्रीत्वा तत्साम्यमुपगच्छीति॥
@@ -18139,8 +16899,6 @@ LADURAM TRIVEDI,
 सततं नैमिषारण्ये वाराणस्यां विशेषतः॥**
 
  अगस्त्याश्रमे कण्वाश्रमे कौशिक्यां सरयूतीरे शोणस्य-
-
-
 
  ज्योतिषायाश्चसङ्गमे श्रीपर्वते कालोदके उत्तरमानसेषड़वाया मतङ्गवाप्यां सप्तार्षे विष्णुपदे स्वर्गमार्गपदे गोदावर्य्यांगोमत्यां वेत्रवत्यां विपाशायां वित्तस्तायां शतद्रुतीरे चन्द्रभागायां इरावत्यां सिन्धोस्तीरे दक्षिणे पञ्चनदे औजसे।
 
@@ -18168,8 +16926,6 @@ LADURAM TRIVEDI,
 
 अथ वृषोत्सर्गः कार्त्तिक्यमाप्त्ययुज्यां वा।तत्रादविव वृषभंपरीक्षेत। जीवद्वत्प्तायाः पयस्विन्याःपुत्रं सर्वलक्षणोपेतं नीलं
 
-
-
 लोहितं वा मुखपुच्छपादशृङ्गशुक्लं युपस्याच्छादकम्। ततो गवां मध्ये सुसमिद्धमग्निं परिस्तीर्य्य पौष्णं चरुं पयसा श्रपयित्वापूषागा अन्येतु न इह रतिरिति च हुत्वावृषमयस्कारस्त्वङ्कयेत्।
 
 एकस्मिन् पार्श्वे चक्रेणापरस्मिन् पार्श्वे शूलेन। अङ्कितञ्च हिरण्यवर्णा इति चतसृभिः शन्नोदेवीति च स्त्रापयेत्।
@@ -18196,8 +16952,6 @@ LADURAM TRIVEDI,
 
 **इति वैष्णवे धर्मशास्त्रे षड़शीतितमोऽध्यायः॥**
 
-
-
 ॥ अथ सप्ताशीतितमोऽध्यायः॥
 
 अथ वैशाख्यां पौर्णमास्यां कृष्णमृगाजिनं सुवर्णशृङ्गं रौप्यखुरं मौक्तिकलाङ्गूलभूषितं कृत्वा आविके वस्त्रे च प्रसारयेत। ततस्तिलैः प्रच्छादयेत्। सुवर्णनाभिञ्च कुर्यात्।आहतेन वासोयुगेन प्रच्छादयेत्। सर्व्वगन्यरत्नैश्चालङ्कृतं कुर्प्यात्। चतसृषु दिक्षुचत्वारि तेजसपात्राणि क्षीरदधिमधुघृतपूर्णानि निधायाहिताग्नये ब्राह्मणायालङ्कृतायावासो युगेन प्रच्छादिताय दद्यात्। अत्र च गाथा भवन्ति॥
@@ -18212,8 +16966,6 @@ LADURAM TRIVEDI,
 ददाति यस्तु विप्राय सर्वं तरतिदुष्कृतम्॥
 
 **इति वैष्णवे धर्मशास्त्रे सप्ताशीतितमोऽध्यायः॥**
-
-
 
 **॥अथाष्टाशीतितमोऽध्यायः॥**
 
@@ -18241,17 +16993,11 @@ LADURAM TRIVEDI,
 
  मार्गशीर्षशुक्लपञ्चदश्यां मृगशिरसंयुक्तायां चूर्णित लवणस्य सुवर्णनाभं प्रस्थमेकं चन्द्रोदये ब्राह्मणाय प्रदापयेत्।
 
-
-
 अनेन कर्म्मणा रूपसौभाग्यवानभिजायते। पौपोचेत् पुज्ययुक्ता स्यात्तस्यां गौरसर्पपकल्कोद्वर्त्तितशरीरो गव्यधृतपूर्णकुम्भेनाभिषिक्तः सर्व्वोपधिभिःसर्वगन्धैःसर्वबीजेश्च स्नातो घृतेन भगवन्तं वासुदेवंस्नापयित्वागन्धपुष्पधूपदीपनैवेद्यादिभिश्चाभ्यर्च्य वैष्णवैः-शाक्रैर्बार्हस्पत्यैश्च मन्त्रैः पावके हुत्वा स्रसुवर्णेन घृतेन ससुवर्णेन घृतेन ब्राह्मणान् स्वस्ति वाचयेत्।
 
 वासोयुगं कर्त्रे दद्यात्। अनेन कर्म्मणा पुष्यते। मानो मघायुता चेत्तत्यां तिलैः श्राद्धं कृत्वा पूतो भवति। फाल्गुनी फल्गुनीयुता चेत्स्यात्तस्यां ब्राह्मणाय सुसंस्कृतंस्वारतीर्णं शयनं निबेद्यभार्य्यां मनोज्ञां रूपवती द्रविणयतीष्वाप्नोति। नार्य्यपि भर्त्तारम्। चैत्री चित्रायुता स्यात्तस्यां चित्रवस्त्रप्रदानेन सौभाग्यमाप्नोति । वैशाखी विशाखायुता चेतस्यां ब्राह्मणसप्तकंक्षौद्रयुक्तैस्तिलैः - सन्तर्प्य धर्मराजानं प्रीणयित्वा पापेभ्यः पूतो भवति। ज्यैष्ठीज्येष्ठायुता चैत्तस्यां छत्रोपानहप्रदानेन गत्राधिपत्यं प्राप्नोति। आषाढ्यामाषाढायुक्तायामन्नपानदातेन तदेवाक्षय्यमाप्नोति। श्रावण्यां श्रवणयुक्तायां जलधेनुं सान्नां वासोयुगाच्छादितां दत्त्वा स्वर्गमाप्नोति। प्रोष्ठपद्यां प्रौष्ठपदायुक्तायां गोदानेन सर्वपापविनिर्मुक्तो भवति। आश्वयुज्यामश्विनो गते चन्द्रमसि घृतपूर्णं भाजनं सुवर्णयुतं-
 
-
-
 विप्राय दत्त्वा दीप्नाग्निर्भवति। कार्त्तिकी कृत्तिकायुता चेत्तस्यांसितमुक्षाणमन्यवर्णं वा शशाङ्कोदये सर्वशस्यरत्नगन्धोपेतं दीपमध्ये ब्राह्मणाय दत्त्वा कान्तारभयं नश्यति। वैशाखशुक्लतृतीयायामुपोषितोऽक्षतैर्वासुदेवमभ्यर्च्य तानेव हुत्वा दत्त्वा च सर्वपापेभ्यः पूतो भवति। यच्च तस्मिन्नहनि प्रयच्छवि दतक्षप्यमाप्नोति। पौष्यां समतीतायां कृष्णपक्षद्वादश्यां सोपवासस्तिलैः स्नातरितलोदकं दत्त्वा विलैर्वासुदेवमभ्यर्च्य तानेव हुत्त्वा दत्त्वा भुक्त्वाच पापेभ्यः पूतो भवति। माध्यां समतीतायां कृष्णद्वादश्यां सोपवासश्रवणं प्राप्य वासुदेवाग्रतोमहावर्त्तिद्वयेन दीपद्वयं दद्यात्। दक्षिणपार्श्वे महारजनरक्तेन समग्रेण वाससा घृततुला मष्टाधिकां दत्त्वा वामपार्श्वे तिलतैलतुलांसाष्टां दत्त्वा श्येतेन समग्रेण वाससा। एतत्कृत्वाकृतकृत्यो यस्मिन् राष्ट्रेऽभिजायते यस्मिन् देशेयस्मिन् कुले स तत्रोज्ज्वलो भवति। आश्विनं सकलं मासंब्राह्मणेभ्यः प्रत्यहं घृतं प्रदद्याश्विनौ प्रीणयित्वारूप भाग्भवति। तस्मिन्नेव मासि प्रत्यहं गोरसैब्राह्मणान् भोजयित्वा राज्यभाग्भवति। प्रतिमासं रेवतीयुते चन्द्रमसि मधुघृतयुतं रेवतीप्रीत्यै
-
-
 
 परमान्नं ब्राह्मणान् भोजयित्वा रेवतीं प्रीणयित्वा रूपभाग्भवति। माघेमासेऽग्निं प्रत्यहं तिलैर्हुत्वा सघृत कुल्मापं ब्राह्मणान् भोजयित्वा दीप्ताग्निर्भवति। सर्व्वां चतुर्दशीं नदीजले स्नात्वा धर्मराजानं पूजयित्वा सर्व्वपापेभ्यः पूतो भवति।
 
@@ -18265,8 +17011,6 @@ LADURAM TRIVEDI,
 **॥अथ एकनवतितमोऽध्यायः ॥**
 
 अथ कूपकर्त्तुस्तत्प्रवृत्तं पानीये दुष्कृतस्यार्द्धं विनश्यति। तडागकृन्नित्यतृप्त्यो वारण लोकमश्नुते । जलपदः सदा तृप्तो भवति। वृक्षारोपवितुर्वृक्षा परलोके पुजा भवन्ति। वृक्षप्रदोवृक्षप्रसूनैर्द्देवान् प्रीणयति फलैश्चातिधीन् छायया चाभ्यागतान् देवंपर्षत्युदकेन पितॄन्। सेतुकृत्सर्गमाप्नोति देवायतनकारुर्यस्य देवायतनं करोति- दन्तैव लोकमाप्नोति। सुधासिक्तं कृत्वा यशसाविराजते।
-
-
 
 विविक्तं कृत्वागन्धर्वलोकमाप्नोति।' पुष्पप्रदानेन श्रीमान् भवति। अनुलेपनप्रदानेन कीर्त्तिमान् भवति। दीपप्रदानेन चक्षुष्मान् सर्वतो ज्वलश्च। अन्नप्रदानेन बलवान्। धूपप्रदानेनोर्द्ध्वंगच्छति। देवनिर्म्माल्यापनयनाद्गोप्रदानफलमाप्सोति। देवायतनमार्जनात्तदुपलेपनाद् ब्राह्मणोच्छिष्टमार्जनात् पादादिशौचोदकल्पपरिचरणाच्च॥
 
@@ -18282,8 +17026,6 @@ LADURAM TRIVEDI,
 सर्वदानाधिकमभयप्रदानम्। तत्प्रदानेनाभीप्सितं लोकमाप्नोति भूमिप्रदानेन च। गोचर्म्ममात्रमपि भुवं प्रदाय सर्वपापेभ्यः पूतो भवति। गोप्रदानेन स्वर्गलोकमाप्नोति। दशधेनुप्रदो गोलोकान्। शतधेनुप्रदो ब्रह्मलोकान्।  
 सुवर्णशृङ्गीं रौप्यस्वुरामुक्तालाङ्गुलां कांस्वोपदोहां बस्त्रोत्तरीया दत्त्वा धेनुरोमसंख्यानि वर्षाणि स्वर्गलोकमाप्नोति।
 
-
-
 र्विशेषतः कपिलाम्। दान्तं धुरन्धरं दत्वा दशधेनुप्रदो भवति। अश्वदः सूर्यसालोक्यमाप्नोति। वासोदश्चन्द्रसालोक्यम्। सुवर्णदानेनाग्निसालोक्यम्। रूप्यप्रदानेन रूप्यम्। तैजसानां पात्राणां प्रदानेन पात्रं भवेत् सर्वकामानामौषधप्रदानेन च। लवणप्रदानेन च लावण्यम्। धान्यप्रदानेन तृप्तिं शस्यप्रदानेन च। अन्नदः सर्वम्। धान्यप्रदानेन सौभाग्यम्। अकीर्त्तितानामन्येषा दानात् स्वर्गमवाप्नुयादिति। तिलप्रदः प्रजामिष्टा इन्धनप्रदानेन दीप्ताग्निर्भवति। आसनप्रदानेन स्थानम्। शय्याप्रदानेन भार्य्याम्। उपानत्प्रदानेनाश्वतरीयुक्तं रथम्। छत्रप्रदानेन स्वर्गम्। तालवृन्तचामरप्रदानेनाध्वसुखित्वम्।वास्तुमदानेन नगराधिपत्यम्॥
 
 यद्यदिष्टतमं लोके यथास्ति दयितं गृहे।  
@@ -18292,8 +17034,6 @@ LADURAM TRIVEDI,
 **इति वैष्णवेधर्मशास्त्रेत्रयोदशोऽध्यायः॥**
 
 **—————————**
-
-
 
 अब्राह्मणे दत्तं तत्सममेव पारलौकिकम्। द्विगुणंब्राह्मणब्रुवे। सहस्रगुणंप्राधीते। अनन्तं वेदपारगे। पुरोहितस्त्वात्मन एव पात्रम्। स्वसा दुहिता जामातरश्चपात्रम्॥
 
@@ -18323,8 +17063,6 @@ LADURAM TRIVEDI,
 
 **इति वैष्णवेधर्मशास्त्रे त्रिनवतितमोऽध्यायः॥**
 
-
-
 **॥अथ चतुर्नवतितमोऽध्यायः॥**
 
 गृही वलीपलितदर्शने बनाश्रयो भवेत्। अपत्यस्य चापत्यदर्शनेन वा। पुत्रेषु भार्य्यां निक्षिप्य तवानुगम्यमानो वा। तत्राप्यग्नीनुपचरेत्। अफालकृष्णेन पश्चयज्ञान्न हापयेत्। स्वाध्यायं च न जह्यात्। ब्रह्यचर्य्यं पालयेत्। चर्म्मचोरवासाः स्यात्। जटाश्मश्रुलोमनखांश्च विभृयात्। त्रिपवणस्नायी स्यात्।
@@ -18343,8 +17081,6 @@ LADURAM TRIVEDI,
 
 वानप्रस्थस्तपसा शरीरं शोषयेत्। ग्रीष्मे पश्चतपाः स्यात्।आकाशशायी प्रावृषि।आर्द्रवासा हेमन्ते। नक्ताशी स्यात्। एकान्तरद्र्यन्तरत्र्यन्तराशी वा स्यात्। पुष्पाशी फलाशी शाकाशी। पर्णाशी। मूलाशी।
 
-
-
 यवान्नं पक्षान्तयोर्व्वासकृदश्नीयात्। चान्द्रायणैर्वा वर्त्तेत। अश्मकुटुः। दन्तोलूखलिको वा॥
 
 तपोमूलमिदं सर्वं दैवमानुषजं जगत्।  
@@ -18359,8 +17095,6 @@ LADURAM TRIVEDI,
 
 अथ त्रिष्वाश्रमेषु पक्वकषायः प्राजापत्यामिष्टिं कृत्या सर्वं वेदं दक्षिणां दत्वा प्रव्रज्याश्रमी स्यात्। आत्मभ्यग्नीनारोप्य भिक्षार्थं ग्राममियात्। सप्तागारिकं भैक्ष्यमादद्यात्। अलाभे न व्यथेत। न भिक्षुकं भिक्षेत। भुक्तवति जनेऽतीते पात्रसम्पाते भैक्ष्यमादद्यात्। मृण्मये दारुपात्रेऽलावुपात्रे या। तेपाञ्च तस्याद्भिः शुद्धिः स्यात्। अभिपूजितलाभादुद्विजेत। शून्यागारनिकेनतःस्यात्। वृक्षमूलनिकेतनो वा। न ग्रामे द्वितीयां रात्रिमावसेत्। कौपीनाच्छादनमात्रमेव वसनमादद्यात्। दृष्टिपूतं न्यसेत् पादम्। वस्त्रपूतं जलमादद्यात्।
 
-
-
 सत्यपूतं वदेत्। मनःपूतं समाचरेत्। मरणं नाभिकामयेत जीवितञ्च।अतिवादांस्तितिक्षेत। न कश्चनावमन्येत। निराशीः स्यात्। निर्नमस्कारः॥
 
 **वास्यैकं तक्षतो बाहुं चन्दनेनैकमुक्षतः।  
@@ -18368,11 +17102,7 @@ LADURAM TRIVEDI,
 
 प्राणायागधारणाध्याननित्यः स्यात्। संसारस्यानित्यतां पश्येत्। शरीरस्याशुचिभावम्। जरयारूपविपर्य्ययम्। शारीरमानसागन्तुकव्याधिभिश्चोपतापम्। सहजैश्च। नित्यान्धकारे गर्भे वसति सूत्रपुरीषमध्ये च। तत्रच शीतोऽगदुःखानुभवनम्। जन्मसमये योनिसङ्कटनिर्गमान्महद्दुःखानुभवनम्। वाल्ये गोहं गुरुपरवश्यताम्। अध्ययनादनेकक्लेशम्। यौवनं च विषयप्राप्तावमार्गेण तदवाप्तौ विषयसेवनान्नरके पतनम्। अप्रियैर्वसतिं प्रियैश्च विप्रयोगम्। नरकेषु च सुमहद्दुःखम्। संसारसंसृतौ तिर्य्यग्योनिषु च। एवमस्मिन्सततपापिनि संसारे न किञ्चित्। तदपि किञ्चिद्दुःखापेक्षया मुखसंज्ञं तदप्यनित्यम्। तत्सेवाक्तायलभने वा महद्दुःखम्। शरीरं चेदं सप्तधातुकं पश्येत् वसारुधिरमांसास्त्रिमेदोमब्जा-
 
-
-
 शुक्रात्मकं चर्म्मावनद्धं दुर्गन्धि च मलायतनं सुखशतैरपि वृत्तं विकारि प्रयत्नादुद्धृतमपि विनाशि कामक्रोधलोभमोहमदमात्सर्य्यस्थानं पृथिव्यप्तेजोवाय्वाकाशात्मकम्अस्थिशिरा-धमनिश्नायुयुतं रजस्वलं पट्त्वक्पेशि अस्थ्नां त्रिभिः शतैः षष्ठ्यधिकैर्धार्य्यमाणम्। तेषां विभागः। सूक्ष्मैः सह चतु षष्टिर्दशनाः, विंशतिर्नखाः, पाणिपादशलाकाश्च, षष्टिरङ्गुलीनां पत्राणि, द्वे पाष्वर्यो, चतुष्टयंगुल्फेषु चत्कर्य्यरतन्योः चत्वारि जङ्घयोः द्वे द्वे, जानुकपोलयोः द्वे द्वे अक्षतालूपकश्रोणिफलकेषु, भगारध्येकं, पृष्ठास्थि पञ्चचत्वारिंशद्भागं, पश्चदशास्थोनि ग्रीवा, जान्वेकं तथा हनुः, तन्मूले च द्वे, द्वे ललाटाक्षिगण्डे, नासा घनास्थिका अर्बुदेःस्थानकैश्च सार्द्धं द्वासप्ततिः पार्श्वकाः, उरः सप्तदश, द्वौ शङ्खकौ, चत्वारि कपालानि शिरश्चेति। शरीरेऽस्मिन् सप्तशिराशतानि। नव स्तायुशतानि। धमनोशते द्वे। पश्चपेशीशतानि। क्षुद्रवमनीनामेकोनत्रिंशदाल्लक्षाणि नवशतानि षट्पञ्चाशद्वमन्यः। लक्षत्रयं श्मश्रुकेशकूपानाम्। सप्तोत्तरं मर्म्मशतम्। सन्विशते द्वे। चतुःपञ्चाशद्रोमकोटयः सप्तपक्षिणि। नाभिरोजोगुदं शुक्रं शोणितं शङ्खको मूर्द्धा कण्ठोहदयञ्चेति प्राणायतनानि। बाहुद्वयं जङ्घाद्वयं भव्यं शीर्षमिति षड्ङ्गानि। वसा वया अवहननं नाभिः क्लोमो यकृत, प्लीहाक्षुद्रान्त्रं बुक्वोवस्तिः पुरीपाधानमामाशयो हृदयं स्थूलान्त्रं-
-
-
 
 गुदमुदरं गुदकोष्ठम्। कनीनिके अक्षिकूटेशष्कुली-कर्णौकर्णपत्रकौ गण्डौ भ्रुवौ शङ्खकौदन्तवेष्टावोष्ठौ ककुन्दरे वंक्षणौ वृषणौ बुक्वौश्लेष्मसङ्घातकौस्तनौ-तपजिह्वास्फिचौ बाहू जङ्घे ऊरूपिण्डिके तालदरेवस्तिशीर्षो चिबुकं गलगुण्डिके अवटश्चेत्यस्मिन् शरोरके स्थानानानि। शब्दस्पर्शरसरूपगन्धाश्चविषया। नासिकालोचनत्वग्जिह्वाश्रोत्रमिति बुद्धिन्द्रियाणि।
 
@@ -18395,8 +17125,6 @@ LADURAM TRIVEDI,
 
 व्यतीति चिन्तयेत्।
 
-
-
 नित्यमतीन्द्रियमगुणं शब्दस्पर्शरसरूपगन्धातीतं सर्वज्ञमतिस्थूलं सर्वगमतिसूक्ष्मं सर्वतः पाणिपादं सर्वतोऽक्षिशिरोमुखं सर्वतः सर्वेन्द्रियशक्तिम्। एवं ध्यायेत्। ध्याननिरतस्य च संवत्सरेण योगाविर्भावो भवति। अथ निराकारे लक्षबन्धं कर्त्तुं न शक्नोति तदापृथिव्यप्तेजोवाय्वाकाशमतोबुद्ध्यात्माव्यक्तपुरुषाणां पूर्वंपूर्वं ध्यात्वा तत्र तच्च लक्षन्तत् परित्यज्यापरमपरं ध्यायेत्। एवं पुरुषध्यानमारभेत। अत्राप्यसमर्थः स्वहृदयपद्मस्यावाङ्मुखस्य मध्ये दीपवत् पुरुषं ध्यायेत्। तत्राप्यसमर्थोभगवन्तं वासुदेवं किरीटिनं कुण्डलिनमङ्गदिनं श्रीवत्साङ्क वनमालाविभूपितोरस्कं सौन्यरूपं चतुर्भुजं शङ्खचक्रगदापद्मधरं चरणमध्यगतभुवं ध्यायेत् । यद्ध्यायति तदाप्नोति ध्यानगुह्यम्। तस्मात् सर्वमेव क्षरं त्यक्ता अक्षरमेव ध्यायेत्। न च पुरुपं विना किञ्चिदप्यक्षरमस्ति। तं प्राप्य मुक्तो भवति।
 
 पुरमाक्रम्य सकलं शेते यस्मान्महाप्रभुः।  
@@ -18407,8 +17135,6 @@ LADURAM TRIVEDI,
 
 तत्त्वात्मानमगम्यञ्च सर्वतत्त्वविवर्जितम्।  
 असक्तं, सर्वभृच्चैव निर्गुणगुणभोक्तृ च॥
-
-
 
 बहिरन्तश्च भूतानामचरं चरमेव च।  
 सूक्ष्मत्वात्तदविज्ञेयं दुरस्थञ्चान्तिके च तत्॥
@@ -18430,16 +17156,12 @@ LADURAM TRIVEDI,
 
 इत्येवमुक्तावसुमती जानुभ्यां शिरसा च नमस्कारं कृत्वोवाच। भगवत्वत्समीपे सततमेवं चत्वारि महाभूतालयात्याकाशशङ्खरूपोवायुत्वकरूपोतेजश्चसदारूप्यम्भोऽम्भोरुहरूपिअहमवचनेनैव रूपेण भगवत्पादमध्यपरिवर्त्तिनो भवितुमिच्छामि। इत्येवमुतोभगवत्युवाच। वसुधापि लब्धकामा तथा चक्रे देवदेवश्चतुष्टाव।अरे नमस्ते देवदेव वासुदेव आदिदेव कामदेव महीपालजनादिमध्यनिधन प्रजापते सुप्रजापते महा-
 
-
-
 प्रजापते ऊर्ज्जत्पते वाचस्पते जगत्पते दिवस्पते वनस्पते पयस्पते पृथिवीपते सलिलपते दिक्पते महत्पतेमरुत्पते लक्ष्मीपते ब्रह्मरूप ब्राह्मणप्रिय सर्वग अचिन्त्यज्ञानगम्य पुरुहूत पुरुष्टत व्रह्मण्य ब्रह्मप्रिय ब्रह्मकायिकमहाकायिक महाराजिक चतुस्महाराजिक भास्वर महाभास्वर सप्त महाभाग स्वर तुपित महातुपितप्रतर्दन परिनिर्मित अपरिनिर्मित वशवर्त्तिन् यज्ञ महायज्ञ यज्ञयोग यज्ञगभ्य यज्ञनिधन अजित वैकुण्ठ अपार पर पुराण लेख्य प्रजावर चित्राशसखण्डधर यज्ञभागहर पुरोडाशहर विश्वक् विश्वधर शुचिश्रवः अच्युतार्च्चन घृतार्च्चिःखण्डपरशो पद्मनाभ पद्मधर पद्मधाराधर हृषीकेश एकशृङ्ग महावराह द्रुहिण अच्युत अनन्त पुरुष महापुरुष कपिल सांख्यचार्य्य विश्वक्सेन धर्माधर्म्मद धर्माङ्ग धर्मवसुप्रद वरप्रद विष्णो जिष्णोसहिष्णो कृष्ण पुण्डरीकाक्ष नारायण परायण जगत्परायण नमोनम इति॥
 
 स्तुत्वात्वेवं प्रसन्नेन मनसा पृथिवी तदा।  
 उवाच सम्मुखं देवं लब्धकामा वसुन्धरा॥
 
 **इति वैष्णवेधर्मशास्त्रेऽष्टनवतितमोऽध्यायः॥**
-
-
 
 **॥ अथ नवनवतितमोऽध्यायः ॥**
 
@@ -18471,8 +17193,6 @@ LADURAM TRIVEDI,
 
 साम्यधार्के च निशाकरे च तारागणढ्योगगने विमेधे।  
 मेघे तथालम्बपयोधरे च शक्रत्युपाढ्येच तडित्प्रकाशे॥
-
-
 
 तथा सुवर्णे विमले च रूप्ये रत्नेषु वस्त्रेष्वमलेषु मूने।  
 प्रासादमालासु च पाण्डुरासु देवालयेषु ध्वजभूपितेषु॥
@@ -18506,8 +17226,6 @@ LADURAM TRIVEDI,
 
 सत्ये स्थिते भूतहिते निविष्टे क्षमार्चिते क्रोधविवर्ज्जिते च।  
 स्वकार्य्यदक्षे परकार्य्यदक्षेकल्याणचित्तेच सदा विनीते॥
-
-
 
 नारीषु नित्यं सुविभूषितासु पतिव्रतासु प्रियवादिनीषु।  
 अमुक्तहस्तासु सुतान्वितासु सुगुप्तभाण्डासु वलिप्रियासु॥
@@ -18543,8 +17261,6 @@ LADURAM TRIVEDI,
 
 **ॐ तत्सत्।**
 
-
-
 **॥ अथ ॥**
 
 **सम्वर्त्तस्मृतिः**
@@ -18570,8 +17286,6 @@ LADURAM TRIVEDI,
 
 सन्ध्यां प्रातः सनक्षत्रामुपासीत यथाविधि।  
 साहित्यां पश्चिमां सन्ध्यामर्द्धास्तमितभास्करे॥६॥
-
-
 
 आमणिबन्धनाद्धस्तौ पादावद्भिर्विशोधयेत्।  
 अशब्दाभिरनुष्णाभिः स्ववर्णरसगन्धिभिः॥१८॥
@@ -18606,8 +17320,6 @@ LADURAM TRIVEDI,
 ब्रह्मचारी तु यः स्कन्देत् कामतः शुक्रमात्मनः।  
 अवकीर्णी व्रतं कुर्य्यात् स्नात्या शुद्ध्येदकामतः॥२८॥
 
-
-
 प्रेतस्य तु जलं देयं स्नात्वा च गोत्रजैर्वहि।  
 प्रथमेऽह्नितृतीये च सप्तमे नवमे तथा॥३९॥
 
@@ -18638,8 +17350,6 @@ LADURAM TRIVEDI,
 
 गन्धमाभरणं माल्यं यः प्रयच्छति धर्मवित्।  
 स सुगन्धः सदा हृष्टोयत्र तत्रोपजायते॥४८॥
-
-
 
 सर्वपापविशुद्धात्मा सर्वकामसमन्वितः।  
 वर्षाणि वसति स्वर्गे रोमसंख्याप्रमाणतः॥७१॥
@@ -18674,8 +17384,6 @@ LADURAM TRIVEDI,
 सर्वेषामेव दानानामप्रदानं परं स्मृतम्।  
 सर्वेषामेव जन्तूनां चतुस्तज्जीवितं फलम्॥८१॥
 
-
-
 यस्मादन्नात् प्रज्ञाः सर्व्वाः कल्पे कल्पेऽसृजत् प्रभुः।  
 तस्मादन्नात् परं दानं न भूतो न भविष्यति॥८२॥
 
@@ -18708,8 +17416,6 @@ LADURAM TRIVEDI,
 
 ब्रह्मचारियतिभ्यश्च वपनं यस्तु कारयेत्।  
 नखकर्मादिकञ्चैव चक्षुष्मान् जायते नरः॥९२॥
-
-
 
 **देवागारे द्विजातीनां दीपं दद्याच्चतुष्पथे।  
 मेधाविज्ञानसम्पन्नश्चक्षुष्मान् जायते नरः॥९३॥**
@@ -18744,8 +17450,6 @@ LADURAM TRIVEDI,
 **अष्टौ भिक्षाः समादाय स मुनिः सप्त पञ्चवा।  
 अद्भिः प्रक्षाल्यतत्सर्व्वंभुञ्जीतः च समाहितः॥१०३॥**
 
-
-
 अरण्ये निर्ज्जने विप्रः पुनरासीत भुक्तवान्।  
 एकाकी चिन्तयेन्नित्यं मनोवाक्कायसंयतः॥१०४॥
 
@@ -18779,8 +17483,6 @@ LADURAM TRIVEDI,
 अतः परं सुरापस्य प्रवक्ष्यामि विनिष्कृतिम्।  
 श्रोतुमिच्छथ भो विप्रा! वेदशास्त्रानुरूपिकाम्॥११४॥
 
-
-
 गौड़ी पैष्ठी तथा साध्वीविज्ञेया त्रिविधा सुरा।  
 यथैवैका तथा सर्वा न पातव्या द्विजैः सदा॥११५॥
 
@@ -18811,8 +17513,6 @@ LADURAM TRIVEDI,
 
 एभिः सम्पर्कमायाति यः कश्चित् पापमोहितः।  
 षण्मासादधिकं वापि पूर्वोक्ततमाचरेत्॥१२४॥
-
-
 
 महापातकिसंयोगे ब्रह्महत्यादिभिर्नरः।  
 तत्पापस्य विशुद्ध्यर्थं तस्य तस्यव्रतञ्चरेत्॥१२५॥
@@ -18848,8 +17548,6 @@ LADURAM TRIVEDI,
 एका चेद्बहुभिः कैश्चिद्दैवाद्व्यापादिता क्वचित्।  
 पादं पादन्तु हत्यायाश्चरेयुस्ते पृथक् पृथक्॥१३६॥
 
-
-
 यन्त्रणे गोचिकित्सार्थं मूढगर्भविसोचने।  
 यदि तत्र विपत्तिः स्यान्न स पापेन लिप्यते॥१३७॥
 
@@ -18883,8 +17581,6 @@ LADURAM TRIVEDI,
 मणडुकञ्चैव हत्वाच सर्पमार्ज्जारमूषिकम्।  
 त्रिरात्रोपोषितस्तिष्टेत् कुर्य्याद् ग्राहणभोजनम्॥१४७॥
 
-
-
 **अनस्थीन् ब्राह्मणो हत्वाप्राणायामेन शुध्यति।  
 अस्थिमतो वधे विप्रः किञ्चिद्दद्याद्विचक्षणः॥१४८॥**
 
@@ -18917,8 +17613,6 @@ LADURAM TRIVEDI,
 **पितृव्यदारगमने भ्रातृभार्य्यागमे तथा।  
 गुरुतल्पव्रतं कुर्य्यात्तस्यान्या निष्कृतिर्न च॥१५८॥**
 
-
-
 **पितृदाराः समारुह्य मातृव्रजं नराधमः।  
 भगिनीं मातुलसुतांस्वसारं चान्यमातृजाम्।  
 एतास्तिस्त्रःस्त्रियो गत्वा तन्तकृच्छ्रं समाचरेत्॥१५९॥**
@@ -18949,8 +17643,6 @@ LADURAM TRIVEDI,
 
 **चाण्डालं पुष्पाध्वैय श्वपाकं पतितं तथा।  
 एतान् श्रेष्ठस्त्रियो गत्वा कुर्य्याच्चान्द्रायणव्रतम्॥१६८॥**
-
-
 
 अतःपरञ्चदुष्टानां निष्कृतिं श्रोतुमर्हथ।  
 सन्न्यस्य दुर्म्मतिः कश्चिदपत्यार्थं स्त्रियं व्रजेत्।  
@@ -18983,8 +17675,6 @@ LADURAM TRIVEDI,
 
 चाण्डालं पतितं स्पृष्ट्वाशवमन्त्यजमेव च।  
 उदक्यां सूतिकां नारीं सवासाः स्नानमाचरेत्॥१७८॥
-
-
 
 अस्पृश्यं संस्पृशेद्यस्तु स्रानं तेन विधीयते।  
 ऊदूर्ध्वमाचमनं प्रोक्तं द्रव्याणां प्रोक्षणं तथा॥१७९॥
@@ -19019,8 +17709,6 @@ LADURAM TRIVEDI,
 विण्मूत्रभक्षणे चैव प्राजापत्यं समाचरेत्।  
 श्वकाफोच्छिष्टगोच्छिष्टभक्षणे तु त्र्यहं द्विजः॥१८९॥
 
-
-
 **विडालमूषकोच्छिष्टे पञ्चगव्यं पिवेद्द्विजः।  
 शूद्रोच्छिष्टं तथा भुक्त्वात्रिरात्रेणेव शुध्यति॥१९०॥**
 
@@ -19053,8 +17741,6 @@ LADURAM TRIVEDI,
 
 **दानैर्होमैर्जपैर्नित्यं प्राणायामैर्द्विजोत्तमः।  
 पातकेभ्यः प्रमुच्येत वेदाभ्यासान्न संशयः॥२००॥**
-
-
 
 सुवर्णदानं गोदानं भूमिदानं तथैव च।  
 नाशयन्त्याशु पापानि ह्यन्यजन्मकृतान्यपि॥२०१॥
@@ -19089,8 +17775,6 @@ LADURAM TRIVEDI,
 स्नात्वा च विधियत्तत्र प्राणानायस्य वाग्यतः।  
 प्राणायामैर्स्त्रिभिः पूतो गायत्रीन्तु जपेद्द्विजः॥२११॥
 
-
-
 अक्लिन्नवासाः स्थलगः शुचौ देशे समाहितः।  
 पवित्रपाणिराचान्तो गायत्र्या जपमारभेत्॥२१२॥
 
@@ -19123,8 +17807,6 @@ LADURAM TRIVEDI,
 मानसं वाचिकं पापं कायेनैव तु यत्कृतम्।  
 तत्सर्वं नश्यते तूर्णं प्राणायामत्रये कृते॥२२२॥
 
-
-
 **ऋग्वेदमभ्यसेद्यस्तु यजुःशाखामथापि वा।  
 सामानि सरहस्यानि सर्वपापैः प्रमुच्यते॥२२३॥**
 
@@ -19145,8 +17827,6 @@ LADURAM TRIVEDI,
 **ॐ तत्सत् ३**
 
 **——————**
-
-
 
 **॥ अथ॥**
 
@@ -19176,8 +17856,6 @@ LADURAM TRIVEDI,
 
 भक्ष्याभक्ष्ये तथा पेये वाच्यावाच्ये तथाऽनृते।  
 तस्मिन् काले न दोषोऽस्ति स यावन्नोपनीयते॥५॥
-
-
 
 उपनीतस्य दोषोऽस्ति कियमाणैर्विगर्हितैः।  
 अप्राप्तव्ययहारोऽसौ यावत् षोडशवार्षिकः॥६॥
@@ -19209,8 +17887,6 @@ LADURAM TRIVEDI,
 द्विजानान्तु हितार्थाय दक्षस्तु स्वयममब्रवीत्॥१४॥
 
 इति दाक्षेधर्मशास्त्रे प्रथमोऽध्यायः।
-
-
 
 **अथ द्वितीयोऽध्यायः।**
 
@@ -19244,9 +17920,6 @@ LADURAM TRIVEDI,
 **प्रातरुत्थाय योविप्रः प्रातस्नायी भवेत् सदा।  
 समस्तजन्मजं पापं त्रिभिर्वर्षैर्व्यपोहति॥१०॥**  
 
-
-
-
 उपस्युषसि यत् स्नानं सन्ध्यायामुदिते रवौ।  
 प्राजापत्येन तत्तुल्यं महापातकनाशनम्॥११॥
 
@@ -19277,8 +17950,6 @@ LADURAM TRIVEDI,
 यदन्यत् कुरुते कर्म न तस्य फलमश्नुते॥  
 सन्धाकर्मावसानेतु स्वयं द्दोमोविधीयते।  
 स्वयंद्दोमे फलं यत्तु तदन्येन न जायते॥२०॥
-
-
 
 **ऋत्यिक् पुत्रोगुरुर्भ्राताभागिनेयोऽथ विट्पतिः।  
 एभिरेव हुतं यत्तु तद्ब्रूतं स्वयमेवहि॥२१॥**
@@ -19311,8 +17982,6 @@ LADURAM TRIVEDI,
 भरणं पोष्यवर्गस्य प्रशस्तं स्वर्गसाधनम्॥३०॥**
 
 **नरकं पीड़ने चास्य तस्माद्यत्नेन तं भरेत्।**
-
-
 
 **सुधावस्तूनि वक्ष्यामि विशिष्ठे गृहमागते।  
 मनश्चक्षुर्मुखं वाचं सौम्यं दद्याच्चतुष्टयम्॥४॥**
@@ -19347,8 +18016,6 @@ LADURAM TRIVEDI,
 **कन्यादानं वृषोत्सर्गो रहः पापमकुत्सनम्।  
 प्रकाश्यानि नवैतानि गृहस्थाश्रमिणस्तथा॥१४॥**
 
-
-
 **सार्वभौतिकमन्नाद्यंकर्त्तव्यन्तु विशेषतः।  
 ज्ञानविद्भ्यःप्रदाव्यमन्यथा नरकं व्रजेत्॥३१॥**
 
@@ -19379,8 +18046,6 @@ LADURAM TRIVEDI,
 
 **विश्वामित्रऋषिश्छन्दोगायत्री सःविशिष्यते।  
 पवने च तथाभागे सम्विभागो यथार्हतः॥४०॥**
-
-
 
 **पितृदेवमनुष्याणां कीटानाञ्चोपदिश्यते।  
 देवैश्चैव मनुष्यैश्च तिर्य्यग्भिश्चोपजीव्यते॥४१॥**
@@ -19415,8 +18080,6 @@ LADURAM TRIVEDI,
 **मुक्त्वातु मुखमास्थाय तदघ्नंपरिणामयेन।  
 इतिहासपुराणाद्यैःषष्ठञ्चसप्तमं नयेत्॥५१॥**
 
-
-
 **मातापित्रोर्गुरौमित्रे विनीते चोपकारिणि।  
 दीनानाथविशिष्टेभ्यो दत्तन्तु सफलं भवेत्॥१५॥**
 
@@ -19450,8 +18113,6 @@ LADURAM TRIVEDI,
 **समद्विगुणसाहस्रमानन्त्यञ्चयथाक्रमम्।  
 दाने फलविशेषः स्याद्भिसायां तावदेव तु॥२५॥**
 
-
-
 **सममब्राह्मणे दानं द्विगुणं ब्राह्मणयब्रुवे।  
 सहस्रगुणमाचार्य्येत्वनन्तं वेदपारगे॥२६॥**
 
@@ -19481,8 +18142,6 @@ LADURAM TRIVEDI,
 
 **तया धर्मार्थकामानां त्रिवर्गफलमश्नुते।  
 प्राकाम्ये वर्त्तमाना तु स्नेहान्नतुनिवारिता॥२॥**
-
-
 
 **अवश्या सा भवेत् पश्चाद् यथा व्याधिरुपेक्षितः।  
 अनुकूला नवाग्दुष्टा दक्षा साध्वी प्रियम्वदा॥३॥**
@@ -19516,8 +18175,6 @@ LADURAM TRIVEDI,
 **या हृष्टमनसा नित्यं स्थानमानविचक्षणाI  
 भत्तुःप्रीतिकरी नित्यं साभार्य्या हीतरा जरा॥१३॥**
 
-
-
 शिष्योभाय्यां शिशुश्रोतापुत्रोदासः समाश्रितः।  
 यस्यैतानि विनोतानि तस्य लोहे हिगौरवम्॥१४॥
 
@@ -19543,8 +18200,6 @@ LADURAM TRIVEDI,
 तेषां जातान्यपत्यानि चाण्डालैःसह वासयेत्॥२१॥
 
 **इति दाक्षेधर्मशास्त्रे चतुर्थोऽध्यायः॥**
-
-
 
 **॥ अथ पञ्चमोऽध्यायः॥**
 
@@ -19580,8 +18235,6 @@ LADURAM TRIVEDI,
 मृदा जलेन शुद्धिः स्थानक्लेशो न धनव्ययः।  
 यस्य शौचेऽपि शैथिल्यं चित्तं वस्य परीक्षितम्॥१०॥
 
-
-
 अन्यदेव दिवाशौचं रात्राश्चन्यद्विधीयते।  
 अन्यदापत्सु विप्राणामन्यदेव ह्यनापदि॥११॥
 
@@ -19611,8 +18264,6 @@ LADURAM TRIVEDI,
 
 राजर्त्विग्दीक्षितानाञ्च वाले देशान्तरे तथा।  
 व्रतिनां सत्रिणाञ्चैव सद्यः शौचं विधीयते॥५॥
-
-
 
 **एकाहस्तु समाख्यातो योऽग्निवेदसमन्वितः।  
 हीने हीनतरेच्चैव द्वित्रिचतुरहस्तथा॥६॥**
@@ -19645,8 +18296,6 @@ LADURAM TRIVEDI,
 
 **चतुर्थेऽहनि कर्तव्यमस्थि सञ्चयनं द्विजैः।  
 ततः सञ्चयनादूर्द्ध्वमद्गस्पर्शो विधीयते॥१५॥**
-
-
 
 अभियोगात्तथाभ्यासात्तस्मिन्नेव तु निश्चयात्।  
 पुनः पुनश्च निर्वेदाद्योगः सिद्ध्यति नान्यथा॥६॥
@@ -19681,8 +18330,6 @@ LADURAM TRIVEDI,
 कषायमोहविक्षेपलज्जाशङ्कादिचेतसः।  
 व्यापारास्तु समाख्यातास्तान् जित्वा वशमानयेत्॥१६॥
 
-
-
 कुटुम्बैः पञ्चभिर्ग्रामैःषष्टस्तत्र महत्तरः।  
 देवासुरमनुष्यैस्तु स जेतुं नैव शक्यते॥१७॥
 
@@ -19715,8 +18362,6 @@ LADURAM TRIVEDI,
 
 सत्त्वोत्कटाः सुराश्चापि विषयेण वशीकृताः।  
 प्रमादिभिः क्षुद्रसत्वैर्मानुषैरत्र का कथा॥२७॥
-
-
 
 तस्मात्त्यक्तकषायेण कर्तव्यं दण्डधारणम्।  
 इतरस्तु न शक्नोति विषयैरभिभूयते॥२८॥
@@ -19751,8 +18396,6 @@ LADURAM TRIVEDI,
 लाभपूजानिमित्तं हि व्याख्यानं शिष्यसंग्रहः।  
 एते चान्ये च बहवः प्रपञ्चाः कुतपस्विनाम्॥३८॥
 
-
-
 **ध्यानं शौचं तथा भिक्षा नित्यमेकान्तशीलता।  
 भिक्षोश्चत्वारि कर्माणि पश्चमो नोपपद्यते॥३९॥**
 
@@ -19786,8 +18429,6 @@ LADURAM TRIVEDI,
 **नाहंनैवान्यसम्बन्धोब्रह्मभावेन भावितः।  
 ईदृशायामवस्थायामवाप्यं परमं पदम्॥४९॥**
 
-
-
 द्वैतपक्षाः समाख्याता येद्वैतेतु व्यवस्थिताः।  
 अद्वैत्तिनां प्रवक्ष्यामि यथा धर्मः सुनिश्चितः॥५०॥
 
@@ -19809,8 +18450,6 @@ LADURAM TRIVEDI,
 
 ——————  
 ॥ शुभम्॥
-
-
 
 **॥ अथ॥**
 
@@ -19839,8 +18478,6 @@ LADURAM TRIVEDI,
 
 **चरेत् सान्तपनं विप्रः प्राजापत्यन्तु भूमिपः।  
 तदर्द्धन्तु चरेद्वैश्यः पादं शूद्रेषु दापयेत्॥६॥**
-
-
 
 अज्ञानात् पिवते तोयं ब्राह्मणस्त्वन्त्यजातिषु।  
 अहोरात्रोपितो भूत्वापञ्चगव्येन शुध्यति॥७॥
@@ -19875,8 +18512,6 @@ LADURAM TRIVEDI,
 नीलीवृक्षेण पक्वन्तु अन्नमश्नाति चेद्द्विजः।  
 आहार वमनं कृत्वा पञ्चगव्येन शुष्यति॥१७॥
 
-
-
 भक्षन् प्रमादतोनीलीं द्विजातिस्त्व समाहितः।  
 त्रिषु वर्णेषु सामान्यं चान्द्रायणमिति स्थितम्॥१८॥
 
@@ -19909,8 +18544,6 @@ LADURAM TRIVEDI,
 
 अङ्गुष्टपर्वमात्रस्तु बाहुमात्रः प्रमाणतः।  
 सपल्लवश्चसामश्चदण्ड इत्यभिधीयते॥२८॥
-
-
 
 **दण्डादुक्तापदान्येन पुरुषा प्रहरन्ति गाम्।  
 द्विगुण गोव्रतंतेषां प्रायश्चित्तं विशोधनम्॥२९॥**
@@ -19945,8 +18578,6 @@ LADURAM TRIVEDI,
 **रजस्वलायदा स्पृष्टा शुना शूद्रेण चैयंहि।  
 उपोष्य रजनीमेका पश्चगव्येन शुध्यति॥३९॥**
 
-
-
 दशाहाच्छुध्यते विप्रो द्वादशाहेन भूमिपः।  
 पाक्षिकं वैश्य एवाह शूद्रोमासेन शुध्यति॥५१॥
 
@@ -19980,8 +18611,6 @@ LADURAM TRIVEDI,
 अग्न्यागारे गया गोष्ठे देवब्राह्मण सन्निधौ।  
 आहारे जपकाले च पादुकानां विसर्जनम्॥६१॥
 
-
-
 ॥ अथ ॥
 
 ॥ शातातपस्मृतिः॥
@@ -20005,8 +18634,6 @@ LADURAM TRIVEDI,
 
 दुष्कर्मजा नृणां रोगा यान्ति चोपक्रमैः शमम्।  
 जपैः सुरार्चनैर्होमैर्दानैस्तेषां शमोभवेत्॥४॥
-
-
 
 सुवर्णशतनिष्कन्तु तदर्द्धार्द्धप्रमाणतः।  
 अश्वदाने मृदु श्वक्ष्णमश्वंसोपस्करं दिशेत्॥१६॥
@@ -20041,8 +18668,6 @@ LADURAM TRIVEDI,
 जपच्छिद्रंतपश्छिद्रंयच्छिद्रं यज्ञकर्मणि।  
 सर्वं भवति निश्छिद्रंयस्य चेच्छन्ति ब्राह्मणाः॥२६॥
 
-
-
 **ब्राह्मणा यानि भाषन्ते मन्यन्ते तानि देवताः।  
 सर्वदेवमया विप्रा न तद्वचनमन्यथा॥२७॥**
 
@@ -20074,8 +18699,6 @@ LADURAM TRIVEDI,
 
 **अश्वत्थानादिमृद्युक्तास्तीर्थोदकसुपूरिताः।  
 कषायपश्चकोपेता नानाविधफलान्विताः॥३॥**
-
-
 
 **सर्वौषधिसमायुक्ताः स्थाप्याः प्रतिदिशं द्विजैः।  
 रौप्यमष्टदलं पद्मं मध्यकुम्भोपरि न्यसेत्॥४॥**
@@ -20110,8 +18733,6 @@ LADURAM TRIVEDI,
 **रक्तचन्दनलिप्ताङ्गंरक्तपुष्पाम्वरान्वितम्।  
 रक्तकुम्भन्तु तं कृत्वा स्थापयेद्दक्षिणां दिशम्॥१४॥**
 
-
-
 ताम्रपात्रं न्यसेत्तत्र तिलचूर्णेन पूरितम्।  
 तस्योपरि न्यसेद्देवं हेमनिष्कमयं यमम्॥१५॥
 
@@ -20144,8 +18765,6 @@ LADURAM TRIVEDI,
 
 इत्युदीर्य्य प्रणम्याथ ब्राह्मणाय विसर्जयेत्।  
 अन्येभ्योऽपि यथाशक्ति विप्रेभ्यो दक्षिणां ददेत्॥२५॥
-
-
 
 स्वसृघाती तु वधिरो नरकान्ते प्रजायते।  
 मूको भ्रातृवधे चैव तस्येयं निष्कृतिः स्मृतौ॥२६॥
@@ -20180,8 +18799,6 @@ LADURAM TRIVEDI,
 गोत्रहा पुरुषा कुष्ठी निर्वंशश्चोपज्ञायते।  
 स च पापविशुद्ध्यर्थंप्राज्ञापत्यशतं चरेत्॥३६॥
 
-
-
 **व्रतान्ते मेदिनीं दद्याच्छृणुयादथ भारतम्।  
 स्त्रीहन्ता चातिसारी स्यादश्वत्थान्रोपयेद्दश॥३७॥**
 
@@ -20213,8 +18830,6 @@ LADURAM TRIVEDI,
 
 **अश्वे विनिहते चैव वक्रतुण्डः प्रजायते।  
 शतं पलानि दद्याच्चचन्दनान्यघनुत्तये॥४७॥**
-
-
 
 महिषीघातने चैवकृष्णगुल्मः प्रजायते।  
 खरे विनिहते चैव खररोमा प्रजायते॥४८॥
@@ -20250,8 +18865,6 @@ LADURAM TRIVEDI,
 इति शतातपीये कर्मविपाके हिंसाप्रायश्चित्तविधिर्नाम  
 द्वितीयोऽध्यायः॥
 
-
-
 **॥ तृतीयोऽध्यायः॥**
 
 **अथ प्रकीर्णरोगाणां प्रायश्चित्तम्।**
@@ -20282,8 +18895,6 @@ LADURAM TRIVEDI,
 
 विपदः स्याच्छर्दिरोगी दद्याद्दशपयस्विनीः।  
 मार्गहापादरोगी स्यात् सोऽश्वदानं समाचरेत्॥९॥
-
-
 
 **पिशुनो नरस्यान्ते जायते श्वासकासवान्।  
 घृतं तेन प्रदातव्यं सहस्रपलसम्मितम्॥१०॥**
@@ -20318,8 +18929,6 @@ LADURAM TRIVEDI,
 **दुष्टवादी खण्डितः स्यात्स वैदद्याद्विजातये।  
 रूप्यं पलद्वयं दुग्धं घटद्वयसमन्वितम्॥२०॥**
 
-
-
 **खल्लीटः परनिन्दावान् धेनुं दद्यात् सकाञ्चनम्।  
 परोपहासकृत् काणः स गां दद्यात् समौक्तिकाम्॥२१॥**
 
@@ -20352,8 +18961,6 @@ LADURAM TRIVEDI,
 
 **त्रपुहारी च पुरुषो जायते नेत्ररोगवान्।  
 उपोष्य दिवसं सोऽपि दद्यात् पलशतन्त्रपु॥६॥**
-
-
 
 सीसहारी च पुरुषो जायते शीर्षरोगवान्।  
 उपोष्य दिवसं दद्याद्घृतधेनुंविधानत॥७॥
@@ -20388,8 +18995,6 @@ LADURAM TRIVEDI,
 ताम्बूलहरणेनैव श्वेतौष्ठः सम्प्रजायते।  
 सदक्षिणं प्रदद्याच्चविद्रुमस्य द्वयं वरम्॥१७॥
 
-
-
 **शाकाहारी च पुरुषो जायते नीललोचनः।  
 ब्राह्मणाय प्रदद्याद्वैमहानीलमणिद्वयम्॥१८॥**
 
@@ -20422,8 +19027,6 @@ LADURAM TRIVEDI,
 
 **विप्ररत्नापहारी चाप्यनपत्यः प्रजायते।  
 तेन कार्य्यंविशुद्ध्यर्थं महारुद्रजपादिकम्॥२८॥**
-
-
 
 मृतवत्सोदितः सर्वो विधिरत्र विधीयते।  
 दशांशहोमः कर्तव्यः पलाशेन यथाविधि॥२९॥
@@ -20458,8 +19061,6 @@ LADURAM TRIVEDI,
 यजेत् पुरुषसूक्तेन धनदं विश्वरूपिणम्।  
 अथर्ववेदविद्विप्रो ह्याथर्वणंसमाचरेत्॥४॥
 
-
-
 सुवर्णपुत्रकांकृत्वानिष्कविंशतिसङ्ख्यया।  
 दद्याद्विप्राय सम्पूज्य निष्पापोऽहमिति ब्रुवन्॥५॥
 
@@ -20492,8 +19093,6 @@ LADURAM TRIVEDI,
 
 स्वसुतागमने चैव रक्तकुष्ठंप्रजायते।  
 भगिनीगमने चैव पीतकुष्ठं प्रजायते॥१५॥
-
-
 
 तस्य प्रतिक्रियां कर्त्तुंपूर्वतः कलशंन्यसेत्।  
 पीतवस्त्रसमाच्छन्नं पीतमाल्यविभूषितम्॥१६॥
@@ -20528,8 +19127,6 @@ LADURAM TRIVEDI,
 सुरभिर्यण्णयोमाता मम पापं व्यपोहतु।  
 तपस्विनी (मातुः स पत्नी) सङ्गमने जायते चाश्मरीगदः॥२६॥
 
-
-
 स तु पापविशुद्ध्यर्थं प्रायश्चित्तं समाचरेत्॥२७॥
 
 दद्याद्विप्राय विदुषे मधुश्चेतुं यथोदितम्।  
@@ -20562,8 +19159,6 @@ LADURAM TRIVEDI,
 पशुयोनौ च गमने मूत्राघातः प्रजायते।  
 तिलपत्रद्वयञ्चैव दद्यादात्मविशुद्धये॥३७॥
 
-
-
 अश्वयोनौ च गमनाद्गुदस्तम्भः प्रजायते।  
 सहस्रकमलस्नानं मासं कुर्य्यात् शिवस्य च॥३८॥
 
@@ -20594,8 +19189,6 @@ LADURAM TRIVEDI,
 
 द्वादशैते पितृगणास्तर्पिताःसन्ततिप्रदाः।  
 गतिहीनाः सुतादीनां सन्ततिंनाशयन्ति ते॥५॥
-
-
 
 दशव्याघ्रादिनिहता गर्भंनिघ्नन्त्यमी क्रमात्।  
 द्वादशास्त्रादिनिहता आकर्षन्तिच बालकम्॥६॥
@@ -20630,8 +19223,6 @@ LADURAM TRIVEDI,
 
 पतितोऽपत्यविक्रेतानपत्यो द्विजवस्त्रहृत्॥१५॥
 
-
-
 अथ तेषांक्रमेणैव प्रायश्चित्तं विधीयते।  
 कारयेन्निष्कमात्रन्तु पुरुषं प्रेतरूपिणम्॥१६॥
 
@@ -20662,8 +19253,6 @@ LADURAM TRIVEDI,
 ददामि तस्मै प्रेताय यः पीढांकुरुते मम।  
 सजलान् कृष्णकलसास्तिलपात्रसमन्वितान्।  
 द्वादश प्रेतमुद्दिश्य दद्यादेकञ्च विष्णवे॥२५॥
-
-
 
 ततोऽभिषिञ्चेदाचार्यो दम्पती कलशोदकैः।  
 शुचिर्वरायुध(रक्ताम्बर)धरो मन्त्रौर्वरुणदैवतैः।  
@@ -20696,8 +19285,6 @@ LADURAM TRIVEDI,
 शृङ्गिणा च हते दद्याद्वपर्भ वस्त्रसंयुतम्।  
 शकटेन मृते दद्यादश्वंसोपस्करान्वितम्॥३५॥
 
-
-
 भृगुपाते मृते चैव प्रदद्याद्धान्यपर्वतम्।  
 अग्निना निहते दद्यादुपानहं स्वशक्तितः॥३६॥
 
@@ -20728,8 +19315,6 @@ LADURAM TRIVEDI,
 विसूचिकामृते त्वादु भोजयेच्चशतंद्विजान्।  
 विटधेनुः प्रदातव्या कण्ठेऽन्नफसलेमृते॥४५॥
 
-
-
 **केशरोगमृते चापि अष्टौ कृच्छ्रान् समाचरेत्।  
 एवं कृते विधानेन विदध्यादौर्ध्वदैहिकम्।  
 ततः प्रेतत्त्वनिर्मुक्ताः पितरस्तर्पितास्तथा॥४६॥**
@@ -20747,8 +19332,6 @@ LADURAM TRIVEDI,
 
 **समाप्तश्चायंधर्मशास्त्रस्य प्रथमो भागः।  
 ॐ तत्सद्ब्रह्मार्पणमस्तु।**
-
-
 
 |                              |
 |:----------------------------:|
@@ -20775,8 +19358,6 @@ LADURAM TRIVEDI,
 | २२      | ब्राह्मणो     | ३६         | ब्राह्मो        |
 | १४      | ब्रह्मादिषु   | ३८         | ब्राह्मादिषु    |
 
-
-
 |         |                   |            |                    |
 |---------|-------------------|------------|--------------------|
 | पंक्तिः | अशुद्धपाठः        | पत्राङ्कम् | शुद्धपाठः          |
@@ -20801,8 +19382,6 @@ LADURAM TRIVEDI,
 | ११      | दुख               | ६२         | दु ख               |
 | १३      | स्ब               | ६२         | स्व                |
 | २१      | प्राणने           | ६३         | प्राणाने           |
-
-
 
 |         |                    |            |                    |
 |---------|--------------------|------------|--------------------|
@@ -20829,8 +19408,6 @@ LADURAM TRIVEDI,
 | २१      | प्रहाद्            | १०७        | प्राहाद्           |
 | १४      | शिष्ठो             | १०८        | शिष्टो             |
 
-
-
 |         |             |            |             |
 |---------|-------------|------------|-------------|
 | पंक्तिः | अशुद्ध पाठः | पत्राङ्कम् | शुद्धपाठः   |
@@ -20855,8 +19432,6 @@ LADURAM TRIVEDI,
 | १७      | वर्णन       | १३०        | वर्णनं      |
 | १७      | त्धमं       | १३२        | द्धमं       |
 | १८      | द्धम        | १३२        | द्धर्म      |
-
-
 
 |         |                |            |                 |
 |---------|----------------|------------|-----------------|
@@ -20883,8 +19458,6 @@ LADURAM TRIVEDI,
 | १६      | भप्रयुगे       | १५७        | भग्नयुगे        |
 | २०      | गोगयरय         | १६०        | गोमयस्य         |
 
-
-
 |         |                   |            |                   |
 |---------|-------------------|------------|-------------------|
 | पंक्तिः | अशुद्धपाठः        | पत्राङ्कम् | शुद्धपाठः         |
@@ -20909,8 +19482,6 @@ LADURAM TRIVEDI,
 | १०      | अघ्य              | १८७        | अध्य              |
 | ४       | तुयं              | १८८        | तु                |
 | ७       | मुतपन्न           | १८८        | मुत्पन्न          |
-
-
 
 |         |             |            |               |
 |---------|-------------|------------|---------------|
@@ -20937,8 +19508,6 @@ LADURAM TRIVEDI,
 | ६       | योऽन्नमति   | २१०        | योऽन्नमत्ति   |
 | १८      | क्रयेते     | २१०        | क्रियेते      |
 
-
-
 |         |             |            |             |
 |---------|-------------|------------|-------------|
 | पंक्तिः | अशुद्धपाठः  | पत्राङ्कम् | शुद्धपाठः   |
@@ -20964,8 +19533,6 @@ LADURAM TRIVEDI,
 | १५      | मानस        | २३८        | मानसै       |
 | १       | ३३८         | २३८        | २३८         |
 
-
-
 |         |              |            |              |
 |---------|--------------|------------|--------------|
 | पंक्तिः | अशुद्धपाठः   | पत्राङ्कम् | शुद्धपाठः    |
@@ -20990,8 +19557,6 @@ LADURAM TRIVEDI,
 | १९      | नोपभोगेन     | २६४        | नौपभोगेन     |
 | २१      | आध्य         | २६४        | आध्या        |
 | ५       | यति          | २६५        | याति         |
-
-
 
 |         |            |            |            |
 |---------|------------|------------|------------|
@@ -21019,8 +19584,6 @@ LADURAM TRIVEDI,
 | १९      | सव         | २७६        | सर्व       |
 | ६       | प्रव्रयु   | २७७        | प्रब्रूयु  |
 
-
-
 |         |            |            |             |
 |---------|------------|------------|-------------|
 | पंक्तिः | अशुद्धपाठः | पत्राङ्कम् | शुद्धपाठः   |
@@ -21045,8 +19608,6 @@ LADURAM TRIVEDI,
 | १७      | किल्वीपी   | ३०५        | किल्विषी    |
 | ५       | मेय        | ३१०        | मेव         |
 | ११      | भतत्र्याः  | ३१०        | भर्तत्र्याः |
-
-
 
 |         |              |            |              |
 |---------|--------------|------------|--------------|
@@ -21073,8 +19634,6 @@ LADURAM TRIVEDI,
 | ३       | विपयस्य      | ३३४        | विपस्य       |
 | ११      | चिधीयते      | ३३४        | विधीयते      |
 
-
-
 |         |              |            |                |
 |---------|--------------|------------|----------------|
 | पंक्तिः | अशुद्धपाठः   | पत्राङ्कम् | शुद्धपाठः      |
@@ -21099,8 +19658,6 @@ LADURAM TRIVEDI,
 | १४      | सचेल         | ३६०        | सचैलः          |
 | १६      | स्कृंता      | ३६०        | संस्कृता       |
 | १८      | यघानं        | ३६०        | यद्याग्नं      |
-
-
 
 |         |            |            |             |
 |---------|------------|------------|-------------|
@@ -21128,8 +19685,6 @@ LADURAM TRIVEDI,
 | १८      | मथिका      | ३७९        | मधिफां      |
 | ६       | रात्रो     | ३८१        | रात्रौ      |
 
-
-
 |         |            |            |            |
 |---------|------------|------------|------------|
 | पंक्तिः | अशुद्धपाठः | पत्राङ्कम् | शुद्धपाठः  |
@@ -21155,8 +19710,6 @@ LADURAM TRIVEDI,
 | १७      | राजचि      | ४१७        | राजवि      |
 | १३      | सयर्व      | ४१९        | सर्व       |
 
-
-
 |         |               |            |               |
 |---------|---------------|------------|---------------|
 | पंक्तिः | अशुद्धपाठः    | पत्राङ्कम् | शुद्धपाठः     |
@@ -21181,8 +19734,6 @@ LADURAM TRIVEDI,
 | २३      | कर्तणि        | ४४८        | कर्तृृणि      |
 | ३       | शुचिन         | ४४९        | शुचिर्न       |
 | १५      | प्रभूतातां    | ४५०        | प्रभूतानां    |
-
-
 
 |         |             |            |              |
 |---------|-------------|------------|--------------|
@@ -21210,8 +19761,6 @@ LADURAM TRIVEDI,
 | १६      | गुरो        | ४६३        | गुरवो        |
 | ९       | ध्यांय      | ४६४        | ध्याय        |
 
-
-
 |         |            |            |             |
 |---------|------------|------------|-------------|
 | पंक्तिः | अशुद्धपाठः | पत्राङ्कम् | शुद्धपाठः   |
@@ -21236,8 +19785,6 @@ LADURAM TRIVEDI,
 | १९      | प्रहात्    | ४९०        | प्रहान्     |
 | ११      | सर्वपाप    | ४९२        | सर्वपापा    |
 | १७      | भूर्व्भुव  | ४९२        | भूर्भुवः    |
-
-
 
 |         |              |            |              |
 |---------|--------------|------------|--------------|
@@ -21264,8 +19811,6 @@ LADURAM TRIVEDI,
 | १९      | प्रगन्धि     | ५११        | प्रगत्धि     |
 | १५      | मद्दात्मा    | ५१३        | महात्म       |
 
-
-
 |         |            |            |              |
 |---------|------------|------------|--------------|
 | पंक्तिः | अशुद्धपाठः | पत्राङ्कम् | शुद्धपाठः    |
@@ -21290,8 +19835,6 @@ LADURAM TRIVEDI,
 | ७       | माप्सो     | ५३३        | माप्नो       |
 | १८      | त्रयोदशोऽ  | ५३४        | द्विनयतितमोऽ |
 | ६       | यद         | ५३७        | यद्          |
-
-
 
 |         |             |            |             |
 |---------|-------------|------------|-------------|
@@ -21318,8 +19861,6 @@ LADURAM TRIVEDI,
 | ११      | सत          | ५६०        | सप्त        |
 | ६       | रपृष्टा     | ५६४        | स्पृष्टा    |
 
-
-
 |         |                   |            |                    |
 |---------|-------------------|------------|--------------------|
 | पंक्तिः | अशुद्धपाठः        | पत्राङ्कम् | शुद्धपाठः          |
@@ -21344,8 +19885,6 @@ LADURAM TRIVEDI,
 | ५       | तदद्धं            | ५८३        | तदर्द्धं           |
 | १       | दक्षस्मृितिः      | ५८४        | दक्षस्मृतिः        |
 | ९       | विशेपतः           | ५८४        | विशेषतः            |
-
-
 
 |        |            |            |            |
 |--------|------------|------------|------------|
@@ -21372,8 +19911,6 @@ LADURAM TRIVEDI,
 | १२     | ओदूम्वरी   | ६०९        | औदुम्वरी   |
 | २१     | व्रपु      | ६०९        | वपु        |
 
-
-
 |        |                |            |                       |
 |--------|----------------|------------|-----------------------|
 | पंक्ति | अशुद्धपाठः     | पत्राङ्कम् | शुद्धपाठः             |
@@ -21396,11 +19933,5 @@ LADURAM TRIVEDI,
 तच्छुद्धाशुद्धिपत्रम्।
 
 ![](../books_images/U-IMG-1725306822w.png)
-
-
-
-
-
-
 
 \]

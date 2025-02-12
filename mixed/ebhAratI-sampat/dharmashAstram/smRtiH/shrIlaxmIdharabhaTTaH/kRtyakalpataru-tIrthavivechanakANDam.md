@@ -17,53 +17,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NDI5OTg3MzA
 
 \[
 
-
-
 KRTYAKALPATARU  
 
 OF  
 
 BHATTA LAKSMĪDHARA
 
-
-
-
-
-
-
-
-
 EDITED BY  
 
 K. V. RANGASWAMI AIYANGAR
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **BARODA  
 ORIENTAL INSTITUTE  
 1942**  
-
-
-
-
-
-
-
-
-
-
 
 Printed by R. Narayanaswami Iyer, B.A., B.L., at the Madras  
 Law Journal Press, Mylapore, Madras and Published  
@@ -74,14 +40,9 @@ Oriental Institute, Baroda.
 
 **Price Rs. 8.**  
 
-
-
-
 **PREFACE**
 
 * Tīrthavivecana-kāṇḍa* is the eighth part of Lakṣmīdhara's great digest, and it is the second section of it to be published. The publication of later divisions of a *nibandha* before the earlier requires a word of explanation. Through the action of many causes, which can only be now surmised, the *KṛtyaKalpataru* has all but disappeared, and nowhere has a complete copy of it come to light. Libraries are fortunate which possess a part or two even in a transcript not over two centuries old. It has been the aim, in publishing it, to use all manuscripts of any section that may be discovered after assiduous search. Obvious difficulties exist in basing a book on a solitary manuscript, even if its text is tolerably correct. In the case of the *KṛtyaKalpataru*, however, an *andha-paramparā*of scribes, who transcribed from predecessors not better equipped, has resulted in texts which are far from satisfactory. In the case of some divisions valuable help in the preparation of a tolerable text comes from an unexpected quarter. The great *nibandha* of Lakṣmīdhara was held in such respect by later writers that they made extensive use of it, some going to the length of transferring to the pages of their own books, not only passages of the earlier *nibandha*, but whole chapters, comprising quotations, reproduced in the same order as in the original, and comments and verbal interpretations. It may be said with justice that some of the later digests are but built on a central core supplied by Lakṣmīdhara with overlayers made up of further quotations from sources which he had rejected. This is so for instance with Caṇḍeśvara's *Gṛhastharatnākara* in relation to *Gṛhastha-kāṇḍa* of the *Kṛtya-Kalpataru*, the *Dāna-khaṇḍa* of Hemādri's *Caturvarga-cintāmaṇi* and the *DānaKalpataru*, and Mitramiśra's *Tīrthaprakāśa* and the section on *Tīrtha* in the *Kṛtya-Kalpataru* now published. But for this help, and the accident of the discovery of a manuscript of the *Tīrtha-kāṇḍa* during a special visit that I made to the Library of the Bhonsle Mahārājas at Nagpur, and the acquisition of another manuscript of it for the Library of the Punjab University by Paṇḍit R. A. Śāstri (who brought the fact to my
-
-
 
 notice) its present publication might have been delayed. Two manuscripts of it known to exist in Mithila were not available, in spite of attempts to get them.
 
@@ -89,15 +50,11 @@ notice) its present publication might have been delayed. Two manuscripts of it k
 
  It is this contribution of Lakṣmīdhara and of the treatises modelled on his which it has been the aim of the Introduction
 
-
-
 to explain and evaluate. The ascetic way of life on which the fruition of a pilgrimage depends (*tīrtha-phala*) is itself a spiritual preparation, which culminates in the ecstasy of the attainment of the *tīrtha*. The raptures of the pilgrim, who cries "Gangā, Gaṅgā” through his toilsome march to the divine stream, and who humbles himself on his first sight of the river or a *kṣetra* like Kāśī and salutes it, are the marks of this feeling. It will be wrong to treat a work on *Tīrtha*, like Lakṣmīdhara's either as a priestly manual or as a mere pilgrim's itinerary. The apparently dry discussions of ritual and of gradations of benefit springing from pilgrimage have a background of philosophy, which is often missed. It is noteworthy that with the practical statesmanship to be expected of him, Lakṣmīdhara brushes aside some of the more rigorous rules, such as those relating to compulsory tonsure, the use of vehicles, etc. Later writers, who are more scholiasts than statesmen, revel in discussions of the rites he will not stress.
 
  A consideration of *tīrtha-vivecana* before and after him shows the lines of the evolution of the Hindu theory of pilgrimage, which it has been the attempt of the Introduction to make clear. The connection between fasts, the satisfaction of the manes, the concepts of sin, expiation and purification and the mental and physical cleanliness of the pilgrim have to be clarified. It has been attempted in the Introduction. The function of a modern editor of such a work is to correct the eliptical treatment of the *nibandhas*, which presume on an intimacy with the philosophic and religious back-ground of life, that is now rare. The difference between the ancient Hindu and the modern outlook may be most clearly seen in the attitude to death and suffering. The assumption that the doctrine of *samsāra* and *karma* have their roots in a belief in pre-destination and the denial of human volition have been exposed in modern studies of Indian philosophy. It is because man is the architect of his own fortune, master of his destiny, that pilgrimages are acceptable as means of grace.
 
  Death has no terrors for those who believe in the Hindu theory of survival of personality and *karma.* When one undertook a long and arduous pilgrimage, he went prepared for death. The attitude struck the imagination of Sir William Hunter, when he described with feeling and eloquence how, when the pilgrim enters the ferry over the river *Vaitaraṇī*,
-
-
 
 which divides Bengal from the holy land of Utkala, sanctified by the residence of the Lord of the World (Jagannātha) at His city (Puri), the ferryman whispers into the ears of the pilgrim the *mantra*, which associates the mundane stream with the stream of the other world, after which it is named, and which the disembodied souls have to cross. It is this spirit that makes the pilgrim "scorn delights and live laborious days" in the course of the tour, and continue the mode of life after his return home. It is this again which even to-day views with disapproval well-intentioned attempts, in the interests of public health, to discourage or prohibit festivals or gatherings of pilgrims at great *tīrthas* and *kṣetras*. When a pilgrim is recommended to find release by undertaking the journey from which he will not return (*Mahāprasthāna*) or find a short-cut to release by drowning himself at a confluence of sacred streams, or by falling from a cliff at Amarakaṇṭaka, where is the meaning of trying to save his "life" (and prolong the suffering of endless re-birth) by putting obstacles in the way of his transit?
 
@@ -106,8 +63,6 @@ which divides Bengal from the holy land of Utkala, sanctified by the residence o
 aṉ
 
 ). While administrative and economic justification of so beneficent a measure may be seen, it is necessary that its value to unhindered pilgrimage which it is the duty of the Hindu king to foster, should not be overlooked. Of all the unpopular measures of Muslim rule, the most obnoxious was the tax on pilgrims. The monk Kavīndrācārya won fame by procuring its suspension by Shahjahan (vide G.O.S., XVII, p. v). Its absence under the East India Company can be reckoned among the attractions of its rule. But for weakening religious senti-
-
-
 
 ment, due to weakening faith, its successor, the modern pilgrimtax, on which municipalities in pilgrim centres thrive, would be quite as hateful.
 
@@ -127,8 +82,6 @@ PH.D.,
 
 has helped me as usual with manuscripts which I needed. The
 
-
-
 authorities of the Punjab University have to be thanked for the loan of a manuscript. The Hon'ble Mr. B. S. Niyogi, Judge of the Nagpur High Court, helped me to gain access to the library of the Bhonsle Mahārājas from which I borrowed a set of six parts of the *Kṛtya-Kalpataru*, of which Tīrthakāṇḍa was one. I am indebted to Mr. E. S. Maclenaghen then Deputy Commissioner of Nagpur, for procuring me the loan of these manuscripts.
 
  Mr. A. N. Krishna Aiyangar,
@@ -147,8 +100,6 @@ BASAVANGUDI, Bangalore,
 
 *17th* *December*, 1942.                       
            K. V. RANGASWAMI
-
-
 
 |                                |
 |:------------------------------:|
@@ -184,21 +135,13 @@ BASAVANGUDI, Bangalore,
 |      नानातीर्थमाहात्म्यम्      |
 |         महापथयात्रादि          |
 
-
-
 [TABLE]
-
-
 
 The eighth book of *Kṛtya-kalpataru* is designated by its author *Tīrtha-vivecana-kāṇḍa*. The great digest (*nibandha*) is the oldest work of the type extant, and one of the earliest of the class. It is also one of the largest as well as the most comprehensive. It aims at being complete and self-contained, viewed as an exposition of current views on *Dharma,* which would furnish guidance to kings in following its precepts themselves and seeing that they were duly observed by their subjects. The voluminous character of the *nibandha* is due to its range and the growth of interpretation by the eleventh century. But it is not diffuse. What is said in a *kāṇḍa* is rarely reproduced in another. Lakṣmīdhara aimed at brevity. "Of authorities," he declares in one of the ślokas of the exordium to the digest, "on an identical topic, a text is given in one place and another in a different context, as required by its purpose; what is founded on correct knowledge is declared and what is basedon ignorance, even if popular, is rejected; ambiguities are cleared up, and only what is accepted by all authorities fully is stated; and where controversy has been endless, Lakṣmīdhara has given a decision[^1]."He assumes that he would be read by scholars who would not need elaborate explanations and who, from very brief indications and even without them, would know what *mantra* and *prayoga* to use in all cases. all cases. It is noteworthy that subsequent writers, who tried to improve on the *Kalpataru*, could only add the omitted matter, which might have well been left to the judge or the priest[^2].In Lakṣmīdhara's days it was apparently possible to proceed on his assumptions, but when in
 
 [^1]: "See p. 49, Introduction to the Dānakāṇḍa:  एकार्थेष्वेकमेकं क्वचिदपरमपि स्वीकृतं कार्ययोगात्  न्यस्तं विज्ञानमूलं प्रचरदपि परित्यक्तमज्ञानमूलम् ।  शिष्टैस्सम्यग्गृहीतं वचनमभिहितं स्पष्टितं चाऽस्फुटार्थं  यत्राऽपारे विरोधः स्फुरति विरचिता तेन तत्र व्यवस्था ॥"
 
 [^2]: "Cf. the treatment of prayoga as regards dāna and tīrtha in Dānaprakāśa and Tīrthaprakāśa of Vīramitrodaya."
-
-
-
-
 
 later times, after the Musulman assaults and conquests, Brahmanical erudition became less common and priest and learning became divorced, there was more need for comment and guidance in *prayoga*, and writers like Hemādri, Vācaspatimīśra, Mitra-miśra and Nīlakaṇṭha by supplying thèm came to meet ordinary requirements more than Lakşmīdhara. In spite of his self-imposed restrictions, Lakşmīdhara's work attained a size which makes it stand only second to the *Vīramitrodaya* in mere bulk. In studying the *Kalpataru*, however, as in studying any other *nibandha*, the underlying unity must be grasped, and apparent omissions in particular places rectified by reference to the missing topics or treatment in other sections of the work.
 
@@ -209,8 +152,6 @@ later times, after the Musulman assaults and conquests, Brahmanical erudition be
 [^4]: "Cf. Śloka prefixed to Rājadharmakāṇḍa:  न्याय्ये वर्त्मनि यजगद्गुणवतां गेहेषु यद्दन्तिनो  राज्ञां मूर्धनि यत्पदं व्यरचयद्गोविन्दचन्द्रो नृपः ।  तत्सर्वं खलु यस्य मन्त्रमहिमाऽऽश्चर्यं स लक्ष्मीधरः"
 
 [^5]: " Cf. his claim in the introduction Brahmacārikānda,  Śls. 8-9:-  विद्यावल्लिविलासभूरुहवरो वीरस्य विप्रोत्तमः  श्रीलक्ष्मीधर इत्यचिन्त्यमहिमा तस्यास्ति मन्त्रीश्वरः ।"
-
-
 
 scholar was also a soldier-statesman. The *nibandha* was written by express command òf one of the most powerful rulers of the day. Even a favoured minister could hardly have been permitted to advance publicly, in a work meant for wide study, such high claims unless his services to the king and country were of such an outstanding character that their public recital was natural and permissible. The Gāhaḍvālas took a prominent part in the Brahmanical revival of the eleventh and twelfth centuries, to which we owe so many śāstraic and literary works in Sanskrit. They endeavoured to comport themselves as orthodox kings, following in the wake of the great rulers of the past, and worthy to be ranked with them. Their munificent gifts to pious men, on prescribed occasions and at *tīrthas* sanctified by tradition, are recorded in numerous inscriptions that have survived. Among the host of grantees who received royal gifts the names of Lakṣmīdhara and his father Hṛdayadhara do not figure, though from their birth, learning and reputation for orthodoxy, their fitness for *prati-graha* must have been well established. The omission is intelligible when one reads the stern enunciation of the inhibitions against theacceptance of donations[^6], particularly at *tīrthas*,[^7] ; also the following (cited in Tīrthaprakāśa, p. 89) :  तीर्थे न प्रतिगृह्णीयात्पुण्येष्वायतनेनु च ।  निमित्तेषु च सर्वेषु चाऽप्रमत्तो भवेन्नरः ॥              (मत्स्यपुराण)") as well as his
 
@@ -230,8 +171,6 @@ scholar was also a soldier-statesman. The *nibandha* was written by express comm
 
   सङ्ग्रामव्रतनैष्ठिकेन विलयं विद्यार्थिना पार्थिवाः ॥
 
-
-
 open declarations of having himself made, as an opulent *Brāhmaṇa*, lavish donations and endowments to deserving *śrotriyas*[^8] दत्तानेकपुरद्विजोत्तमवधूसंगीतनादोत्सवो  गार्हस्थ्यं वदति द्वितीयमधुना काण्डं स लक्ष्मीधरः ॥  (2) येनाविच्छेदध्वनिहतकलिभिः श्रोत्रियाणां पुरीभिः  फुल्लाब्जामोदमाद्यन्मधुकरमुखरव्योमभागैस्तडागैः ।  चक्रे धात्री पवित्रा विभववितरणैरर्थिवाञ्छातिरिक्तैः  स श्रीमानेष लक्ष्मीधर इह तनुते पञ्चमं दानकाण्डम् ॥").He observed in his own life the rules that he laid down for others to follow. The *smṛtis* lay even more store on *ācāra* than upon a knowledge of Dharma[^9].If Lakṣmīdhara's life had been an exemplar of the ideals of conduct that he expounded in his *nibandha*, one can visualize the honour whichcame to him, even more from it than from the great offices that he held or his public services. The high authority attached to his views and the estimation in which the *Kalpataru* was held by later *nibandha* writers and commentators are the natural tributes to his wide and massive learning, his incisive logic and subtle mind, and the capacity to select, summarise and present the salient features of Dharma, strengthened by his experience as a judge. An omission to refer to a rule or practice by Lakṣmīdhara has been construed by later authorities as tantamount to a justification for its rejection.
 
 [^8]: " Cf. (1
@@ -246,8 +185,6 @@ open declarations of having himself made, as an opulent *Brāhmaṇa*, lavish do
 
                 (पद्मपुराण)
 
-
-
 expert admiration, is to be inferred from the introductory verse to the *Vyavahāra-kānda*[^10] नानाशास्त्रवचोविचारचतुरप्रज्ञाबलस्थापित-  न्यायादिव्यवहारमार्गविशदास्तास्ताः प्रगल्भा गिरः ।  यस्याऽऽकर्ण्य विपश्चितः प्रतिसभं रोमाञ्चमातन्वते  काण्डे स व्यवहारमत्र तनुते लक्ष्मीधरो द्वादशे ॥").The appointment as *Mahā-sāndhi-vigrahika*, (Minister for War and Peace ), which corresponds to that of Chief Minister, must have come to him later, probably when his father, who held it, died. The achievements and services to the kingdom and the sovereign, which are claimed as his in the introductory verses of the different *kāṇḍas* of the *nibandha,* were over when the digest was composed.[^11] Govindacandra's major achievement was the defeat of the Musulman invader (Hammīra, *i.e.*, Amīr)[^12].In the Rāhan plates (A.D. 1109) his defeat of the Gauḍa king is described in vivid language.[^13]. Introduction to Dānakānda, p. 41.")These are the only exploits of the king which are named in the *Kalpataru,* and it is improbable that his other conquests would not have been named also, had they occurred when the digest was composed. Royal *praśastis* are useful in determining dates; for, with each fresh achievement, the formula undergoes progressive modification. An expression which occurs in most of the *praśastis, viz.. navarājya (rāja)*
 
 [^10]: "(a
@@ -257,10 +194,6 @@ expert admiration, is to be inferred from the introductory verse to the *Vyavah�
 [^12]: "ibid, p. 48:  असमसमरसंपल्लम्पटः शौर्यभाजामवधिरधियुद्धे येन हम्मीरवीरः ॥"
 
 [^13]: " Indian Antiguary, XVIII, 15ff. The date of the inscription is 1109 A.D. Govindacandra was then only princeregent. His victories up to this date are thus described :  दुर्वारस्फारगौडद्विरदवरघटाकुम्भनिर्भेदभीमः  हम्मीरं न्यस्तवैरं मुहुरसमरणक्रीडया यो विधत्ते ।  शश्वत्संचारिवल्गत्तुरगखुरपुटोल्लेखमुद्रासनाथ-  क्षोणीस्वीकारदक्षः स इह विजयते प्रार्थनाकल्पवृक्षः ॥  The resemblance in style to Lakṣmīdhara's introductory verses may be noted. As Mahā-sāndhi-vigrahika, he should have composed all the grants :  सन्धिविग्रहकारी तु भवेद्यस्तस्य लेखकः ।  स्वयं राज्ञा समादिष्टः स लिखेद्राजशासनम् ॥  (मिताक्षरा, II, 320
-
-
-
-
 
 gajo narendraḥ, which appears as early as an inscription of 1114 A.D.,[^14]would not have been missed by Lakşmīdhara. Nor would the titles *aśvapati,* *gajapati, narapati, rājyatrayādhipati, vividha-vidyā-vicāra-vācaspati* have been missed by him if they had already been assumed by Govindacandra, when the *nibandha* was published. These *birudas* occur in a grant Kulottunga of 1117 A.D.[^15], J. A. S. B., XLVII, p. 327; See Introduction to Dānakāṇḍa, p. 43.")An alliance with the Coḷa emperor Kulottuṅgais implied in an inscription bearing a date equal to 1110 A.D.[^16]The probabilities point to c. 1110 A.D. as the date of the composition of Lakşmīdhara's digest.[^17]The formal enthronement of Govindacandra dates about this year, His reign extended to 1154 A.D. atleast.[^18] copperplate of V. S. 1211 (1154), Epig. Ind., pp. 116-117, is his latest extant record.")He had however been virtual ruler, in the reign of his father Madanapāla (c. 1090-1110 A.D.) from atleast A.D. 1099. As he was already *yuvarāja*, according to an inscription of 1099[^19],and a *yuvarāja* must atleast be a major (i.e., sixteen), Govindacandra cannot have been less than thirty years of age when he became king in name as in fact (1110 A.D.).
 
@@ -280,8 +213,6 @@ gajo narendraḥ, which appears as early as an inscription of 1114 A.D.,[^14]wou
 
 [^20]: "शान्तिकाण्डोपक्रमे यथा—  'यस्मिन् बिभ्रति विश्वपालनमहायज्ञं द्विजन्मोत्तमे'"
 
-
-
 approved by the *śāstras* (among which inheritance is one)[^21]and used it for such pious purposes as lavish offerings of *havya* and *kavya*, gifts of houses and endowment of *śrotriyagrāmas*, and built rest-houses for pilgrims and *steps* for bathers at *tīrthas*.[^22].")
 Even if these could have been accomplished from inherited wealth by a young minister, filled with an avid desire to live the life of a *śrotriya* in affluent circumstances, the wide and many-sided learning and the marks of a mature mind which the *Kalpataru* exhibits, could not be those of a young man. The probability is that Lakṣmīdhara was much older than Govindacandra, that his chief services had been rendered during the regency, during which he had received orders to compose a great *dharma-nibandha*, and that it was published after the regent became King, about A.D. 1110. The claim made at the beginning of the *Mokṣa-kāṇḍa*[^23]that by his profound study of philsophy and skill in expounding abstruse doctrines, Lakṣmīdhara overcame 'the darkness of delusion' (*māyā-tamaḥ*) in the minds of even the elect could hardly have been put forward in a critical age by a person to whom ripe maturity of knowledge and judgment could not be conceded. Lakṣmīdhara's selection itself for a task, which would need years to complete, carries the implication of his having already acquired the necessary equipment and prestige as a scholar and as a Śiṣṭa.
 
@@ -295,10 +226,6 @@ PLAN OF THE KṚTYA-KALPATARU
 
 The *Kṛtya-kalpataru* arranges its topics in a sequence which aims at following the ordered stages (*āśrama*) of life, as-
 
-
-
-
-
 cending from conception and birth to the climax of *mukti* (release from rebirth), the goal of life's march. Each section of it is so connected with those which precede and those which follow it that in their aggregation they form a harmonious whole. No *smṛti* follows a logical order, though a rough approximation to a grouping of subjects is descernible in Manu and Yājñavalkya. There is much repetition and overlapping, as well as an absence of a due sense of proportion, if *smṛtis* are viewed in relation to the Indian conception of the fundamental aims of existence. Thus, out of the three sections into which *Yājñavalkya'*s work is divided, one is devoted to *vyavahāra*, and the other two to *ācāra* and *prāyaścitta*. The duties of kings are dealt with under *ācāra*.[^24] The commentaries of Aparārka and Vijñāneśvara, which are virtually digests, are lop-sided and incomplete as expositions of Dharma, by being restricted to their text. Lakṣmīdhara had more freedom. He could make his own arrangement without reference to an older scheme. He therefore planned the divisions of his digest in the order of the stages of life (*āśrama*). In the Indian view, the soul is born under a triple debt (*ṛṇa-traya*) to seers, ancestors and gods. The debt must be paid, and life is to be so regulated as to make the repayment possible. *Brahmacarya* discharges the *ṛṣi-ṛṇa*, the activities of the *gṛhastha* the *pitṛ-ṛṇa*, and the debt to the gods are discharged by the worship of divine beings. As civil society is divinely ordained and man has to function within it, a consideration of the bases of social activity, becomes relevant in a comprehensive review of Dharma. It is only when one has lived a full life, as laid down in the *śāstras*, that he can be regarded as ready for an advance to the goal of *mokṣa*.
 
 [^24]: " I, 309-368."
@@ -307,13 +234,9 @@ cending from conception and birth to the climax of *mukti* (release from rebirth
 
   In Indian belief suffering is inseparable from life. All human effort should therefore be directed to find an escape from suffering. The final release comes only when re-birth ceases after *karma,* which clings to one like his shadow, is burnt out. An ordered life, lived under the discipline prescribed by the *śāstras* is the means to the end. Man rises or falls in the scale of existence, as he lives a well or ill regulated life. The ethos of life determines its destiny. For atonement that would
 
-
-
 be effective one need not wait for a series of regulated lives. Even in this existence through one's own effort an advance to the goal is possible. The discipline of ordered ritual and ceremony helps to secure the mental tranquillity and the purity of the heart which are pre-requisites of emancipation. Many are the means of grace indicated by the scriptures. The worship of God with devotion and absolute self-surrender is among them. In the infinite mercy of God, He makes himself accessible to worshippers through images. Their worship (*pūjā*) is possible only after consecration (*pratiṣṭhā*). The specification of the rules governing both forms a necessary part of a complete statement of Dharma. Wealth and power tend to breed indifference to duty and even impiety. By sharing one's riches with the deserving, *i.e*., by way of gifts (*dāna*), he frees himself from the shackles of affluence. The practice of charity breeds sympathy to fellow beings and a sense of unworthiness for the bounties that one has received. They make one turn to worship in a chastened spirit. In a comprehensive exposition of Dharma, *dāna* therefore precedes both *pratiṣṭhā* and *pūjā*. The logical order is followed by the *Kṛtya-kalpataru*, and its fifth, sixth and seventh sections are devoted to these topics in the above sequenee.
 
   Divine providence is reflected in forest and hill, grove and stream. They contribute to the sustenance of life and add to the beauty of the earth. Sages and semi-divine beings are attracted to them, and they become sanctified by such association. The Supreme Being either reveals himself in such surroundings or is remembered in their context. Shrines arise towhich men turn for worship. To identify sacred streams and reservoirs with divinities is to follow a natural bent of the mind. The great rivers, and even ordinary streams, become gods. and goddesses, legends of their divine origin spring up and are cherished in folk-memory. Ablution suggests the mental purification which must precede man's approach to God. It is an easy transition therefore from the conception of the waters, which clean physically, to viewing them as purifying the spirit, if approached with faith and devotion. The purification of mind and body (*pāvana*) which a pilgrimage effects is identified with spiritual merit (*puṇya*) which can be accumlated and used to reduce the power of *karma* in lengthening the chain of rebirth. A stream or shrine or an old retreat of a semi-divine
-
-
 
 sage (*ṛṣyāśrama*) radiates a beneficent influence which seems to sanctify and energise good actions performed near it. The banks of a sacred river or an 'abode of God' (*devāyatana*) are therefore eminently fit for the performance of *yajña, śrāddha* and *piṇḍa-dāna*. Their efficacy, when done in such environment, is bound to be greater than when performed in one's home. Holy rivers are veritable fords (*tara*) by which the stream of transmigration (*samsāra*) is crossed. They lighten the burden of sin and are rightly designated *tīrthāni.* The name then passes from streams to holy places since they too furnish a passage over the òcean of re-birth. Shrines and sanctuaries which rise on the banks of sacred rivers are classed as *tīrthas*. Even in a pessimistic outlook, existence and re-birth can be shortened by exercising the freedom to act in prescribed ways. An option to perform merit-producing actions or ceremonies at home or at a *tīrtha,* will naturally be exercised in favour of the second of the alternatives. The urge to pilgrimage will be strengthened by belief in its furnishing an inexpensive substitute for costly sacrifices or rites which are beyond the means of ordinary persons.
 
@@ -321,23 +244,17 @@ sage (*ṛṣyāśrama*) radiates a beneficent influence which seems to sanctify
 
   Lakṣmīdhara strictly follows this order. Others, like Mitra-miśra adopt a somewhat haphazard arrangement. In the *Vīramitrodaya*, the section on *Śrāddha* comes after those on *pūjā*, and *pratiṣṭhā* (which are in the the reverse of the logical order) and before those on *dāna* and *vrata.* The arrangement in Dalapati's *Nṛsimhaprasāda* is even more confused. For, its twelve sections are arranged in this order: *sāmskāra, āhnika, śrāddha, kāla, vyavahāra, prāyaścitta, karmavipāka, vrata, dāna, śānti, tīrtha and pratiṣṭhā. Vācaspati Miśra's 'cintāmaṇi'*
 
-
-
 series was filled in as he found convenient, and the order of the appearances of its volumes can only be specified in cases where one of them refers to another. Thus *Āhnika-cintāmani* is mentioned in *Śuddhicintāmaṇī*, *Dvaitacintāmaṇi* in *Kṛtyacintāmaṇi* and *Nīticintāmaṇi* in *Vivādacintāmaṇi*. Raghunandana deals with *tīrtha* incidentally in Prāyaścitta-tattva,[^25]and the arrangement of his twenty-eight *tattvas* is also haphazard. Nīlakaṇṭha's digest, (*Bhagavanta-bhāskara*) omits both *pūjā*and *tīrtha*, but otherwise its order is logical and conforms to the plan of Lakṣmīdhara. The twenty-two works of his cousin Kamalākara, named in *Śāntiratna,* were not produced according to any previously thought-out plan. The section on *tīrtha*, named *sarva-tīrthavidhi* or more commonly referred to as *Tīrthakamalakāra*, comes as the twenty-first in the enumeration.[^26]
 
 [^25]: "He wrote a Tīrtha-tattva or Tīrthayātrāvidhi, which has not been printed. P. V. Kane, Hist. of Dharmaśāstra, I, p. 417."
 
-                        ATTRACTIONS OF TIRTHA-YĀTRA
-
 [^26]: "See footnote 1081, Ibid, p. 433,"
+
+                        ATTRACTIONS OF TIRTHA-YĀTRA
 
    All the world over, pilgrimages to sacred rivers, pools, mountains and to shrines at or near such holy places have held a powerful attraction not only for common people but even for the mental and spiritual elect. Now-a-days, they are undertaken from a mixture of aims, and the impelling motives are not always clearly formed in the minds of pilgrims. Perhaps it was so even in the distant past in which our epics and *purāṇas* were composed. That will account for the enumeration of the benefits of pilgrimage (*tīrtha-phala*) not only as regards particular *tīrthas* but *tīrtha-yātrā* generally, in the *Mahābhārata* and the *Purāṇas*. Divinity and power were ascribed to all rivers, streams and mountains, but some were more holy than others, and holiest of all was the Ganges.[^27]As in the body some limbs (like the right ear are more holy than others, so also on the earth some spots are more holy than others, because of the marvellous nature of their soil, the
 
 [^27]: "Thus Śaṅkha, cited in Tīrthaprakāśa p. 14:  सर्वे प्रस्रवणाः पुण्याः सर्वे पुण्याः शिलोचयाः ।  नद्यः पुण्यास्सदा सर्वा जाह्नवी तु विशेषतः ॥  Cf. also Vişnusmrti, 80, 53-81:  एवमादिष्वथान्येषु तीर्थेषु । सरिद्वरासु । सर्वेष्वपि स्वभावेषु । पुलिनेषु । प्रस्रवणेषु । पर्वतेषु । निकुञ्जेषु । वनेषु । उपवनेषु ॥"
-
-
-
-
 
 splendour of their water, their selection by sages, or their association with divine beings[^28]. See infra. p. 7, the verses beginning भौमानामपि तीर्थानाम्.").The sanctity of all *tīrthas* is not obvious to the uninitiated, and of some, even the sages are ignorant (*ṛṣīņām paramam* *guḥyam*[^29] ). Hence the need to describe the importance (*māhātmya*) of particular *tīrthas*. Accordingly, when a *tīrtha* is recommended, the indication is followed by a specification of the fruit of a visit to it (*tīrthaphala*)[^30].").In general terms, the advantages accruing from a pilgrimage are not only equal to those resulting from a sacrifice (*yajña*)[^31] reads the third line as तीर्थे फलं यज्ञफलं हि यस्मात्, but the sense in both readings is the same.")
 but in some respects even transcend them[^32].").He who completes a pilgrimage in accordance with its rules, obtains a result superior to that arising from the performance of the *agniṣṭoma* sacrifice. To perform a *yajña*, one needs much expert help from priests; he must command much wealth, especially for the gifts (*dakṣiṇā*) which are necessary for their completion, and for the costly accessories and offerings; and he must have the co-operation of his wife so that an unmarried person, or a widower or an ascestic can not perform it. In short only kings and very rich persons can command the facilities for performing it. Not so with a *tīrtha-yātrā[^33].").*It has
@@ -360,8 +277,6 @@ but in some respects even transcend them[^32].").He who completes a pilgrimage i
 
 नार्थन्यूनैरवगणैरेकात्मभिरसंहितैः । (*inf*., P. 3).
 
-
-
 the additional merits of being open not only to *dvijas* (the twice-born) like the *yajñas*, but even to Śūdras, and those who are classed with them (*śūdrāṇām sa-dharmāṇaḥ) viz.* women, married or widows, as well as both *anuloma* and *pratiloma* off-spring of intercaste union[^34].It is open to men of all the four *āśramas*, the *brahmacārin* with his preceptor's permission, the house-holder, who maintains the sacred fire (*āhita-agni*) when accompanied by his *agnipatnī* (wife, who tends the sacredfire) or he who does not tend the fire, the *vānaprastha* and the *yati* (ascetic). Even the *caṇḍāla* who is excluded by Yājñavalkya[^35]")from all Dharma (*sarva-dharma-bahiṣkṛtāḥ*) is deemed eligible for *tīrtha-yātrā* by construction with the general rule of Śaṅkha that "all sins of (all) men are all destroyed at *tīrthas[^36].*"Neither sex, nor social condition, nor hereditary degradation springing from miscegenation, nor status in family or in society, nor poverty will be a bar to to the pilgrimage which will destroy sin and open the way to higher things and ultimate emancipation. The outcaste has the same right as the Brahman, the child as the sage, the sinner as the *sādhu*, the slave as the king, in the opportunity affordedfor spiritual ascent by pilgrimage. By a general maxim, the rules of untouchability, which kept down certain servile castes, are suspended at *tīrthas* and in the course of the journeys undertaken to reach them.[^37] as at Puri, and by Tīrtha-pra-")Similarly, the distinction between
 
 [^34]: "See the disquisition on those competent to perform tīrtha-yātrā in Tīrthaprakāśa, pp. 19-28."
@@ -371,10 +286,6 @@ the additional merits of being open not only to *dvijas* (the twice-born) like t
 [^36]: "तथापि “तीर्थान्येव तु सर्वाणि पापघ्नानि सदा नृणाम्"
 
 [^37]: "तीर्थे विवाहे यात्रायां सङ्ग्रामे देशविप्लवे ।  नगरग्रामदाहे च स्पृष्टास्पृष्टिर्न दुष्यति ॥  The rule is however limited by the Kalpataru to touchability of cooked food (पक्वान्नस्पर्श
-
-
-
-
 
 areas which the regenerate castes can enter or must avoid (*gamyāgamyadeśāni*) vanishes in pilgrimage and it is open to a pilgrim to tread the forbidden soil on his way to reach holy ground or a holy river.[^38]Even civil disabilities disapear in the face of a journey to a *tīrtha*. A pilgrim cannot be molested. No toll or ferry dues may be collected from him.[^39] On the other hand, the belief that he who helps a pilgrim shares in the accruing spiritual merit (*puṇya*)[^40]—  यच्चान्यं कारयेच्छक्त्या तीर्थयात्रा तथेश्वरः ।  स्वकीयद्रव्ययानाभ्यां तस्य पुण्यं चतुर्गुणम् ॥.  विशिष्टब्राह्मणानां तीर्थगमनानुकूल्येऽष्टगुणमप्युक्तम्, भारते युधिष्ठिरं प्रति—  नेता च त्वम् ऋषीन् यस्मात् तेन तेऽष्टगुणं फलम् ॥")filled the highways with resthouses and free feeding places and the *tīrthas* themselves with shelters for temporary or permanent occupation, and ghats on the sacred rivers and tanks, which kings and rich men vied with one another to provide on a lavish scale.
 
@@ -392,8 +303,6 @@ areas which the regenerate castes can enter or must avoid (*gamyāgamyadeśāni*
 
 राहोदर्शनकाले च सूतकं नैव विद्यते ॥
 
-
-
 discover person disaffectedto the state[^41], enemies and thieves.[^42]The protection of pilgrims both on the routes which passed through their kingdoms and at the *tīrthas* within their own jurisdiction where, as strangers, they were vulnerable to deception or harm, threw a heavy duty on the Indian ruler, and the management of huge concourses such as would collect on specially sacred days at great *tīrthas* strained his organising skill. As a pilgrim was tax-free, the fiscal advantage to the kingdom was indirect and sprang from the dues paid by traders attracted to *tīrthas*, normally as well as on the occasion of very large gatherings (*mela*). The economic benefit to the kingdom was the expenditure of the pilgrim-tourist and the gifts which he made at *tīrthas* to local residents as part of the ritual of the pilgrimage. The recommendation for a pilgrim to assume the garb of a *kārpaṭika*, which is defined by Mitramiśra as wearing red caste marks, (*tāmra-mudrā*), a copper wristlet, (*tāmra-kaṅkana*) and a red robe (*kāṣāyavastra*) was probably designed to help in the identification of pilgrims, but it was facile disguise for fugitives from justice and criminals to assume.[^43].")Worldly motives might impel persons to undertake tours to *tīrthas* without faith in their efficacy, or in vedic rites; or they may even be materials believing in life ending when the body is consumed, who question the value of *tīrthas* and unrepentantly live sinfully during a tour which they have undertaken without faith. While even an accidental visit of a devout person to *tīrtha* brings him the merit of *tīrthasnāna*,[^44]")
 
 [^41]: "Arthaśāstra, p. 22:  गूढपुरुषप्रणधि......सत्रिणो द्वन्द्विनः तीर्थसभाशालापूगजनसमवायेषु विवादं कुर्युः – “सर्वगुणसंपन्नश्चायं राजा श्रूयते । न चास्य कश्चिद्गुणो दृश्यते यः पौरजानपदान् दण्डकराभ्यां पीडयति"
@@ -404,15 +313,10 @@ discover person disaffectedto the state[^41], enemies and thieves.[^42]The prote
 
 [^44]: "महाभारते—अज्ञानेनापि यस्येह तीर्थयात्रादिकं भवेत् ।  सर्वकामसमृद्धः स स्वर्गलोके महीयते ॥                      (Tīrthaprakāśa. p. 15.
 
-
-
-
-
 such men as these derive no advantage a even a completed pilgrimage[^45].") .
 
 [^45]: " वायुपुराणे – अश्रद्धधानः पापात्मा नास्तिकोऽच्छिन्नसंशयः ।  हेतुनिष्ठश्च पञ्चैते न तीर्थफलभागिनः ॥(infra, P.6
 
-                              
 TIRTHAPHALA
 
  The usual estimate of the value of a pilgrimage is that it is equal to that of a *yajña*. In some *tīrthas* the fruit is lower than that of the *agniṣṭoma*, and in others greater. The *Gṛhastha* (house holder) who maintains both the *gṛhya* and *śrauia* fires may look on a pilgrimage as optional or superfluous; but, in the words of the *Brahma purāṇa* this view is not correct, as *tīrthas* vary in their potency and some are more powerful in their effects than *agnihotra*.[^46].")
@@ -421,8 +325,6 @@ It is commonly believed that the mere act of doing a *yajña,* the mechanical pr
 [^46]: "ब्रह्मपुराणे — एवं गृहस्थाश्रमसंस्थितस्य तीर्थे गतिः पूर्वतरैर्निषिद्धा ।  सर्वाणि तीर्थान्यपि चाग्निहोत्रतुल्यानि नैवेति वयं वदामः ॥                                      (ती. प्र. १९
 
 [^47]: "VII, 15:"
-
-
 
 resolution (saṅkalpa) with which a pilgrim must begin his *yātrā* brings clearly before his mind his lapse from virtue, for which the completed pilgrimage will furnish the expiation[^48].
 The rigors of the *yātrā, e.g*. avoidance of vehicles[^49]. See inf. p. 11 where Lakṣmīdhara contends that the prohibition of conveyances applies only to a pilgrimage to Prayãga. This view is criticised by Mitramiśra on the ground that Kūrmapurāṇa extends the rule for Prayāga to all tīrthas."),
@@ -434,19 +336,11 @@ continence, fasting[^50]and austerities generally, are outward manifestations of
 
 [^50]: " On fasting at tīrthas see infra, p. 11. By defining fasting "
 
-
-
-
-
 conducted and completed. The rewards held out to the pilgrim ranging from immediate relief from troubles and residence in other and happier worlds, and ending with the indescribable happiness (*paramānanda*), which is the ultimate reality springing from God-realisation, are the fruits not of the toilsome marches and the immersions in sacred streams and of the austere life lived in the course of the journey, but of the high ethical ideals cultivated and sustained by the pilgrim. If the streams could wash away spiritual dirt by mere immersion as easily as ablutions in their waters remove physical impurities, they would possess the Midas touch that would transmute the dross in man to spiritual gold. But this power they do not possess, unless the process is aided and controlled by high conduct and spirituality in the pilgrim. If mere physical association can effect the translation, the fish in the Ganges and the birds in sacred shrines are assured of beatitude[^51],and the sinful priest who resides in holy ground and preys on the pilgrims who flock to it, is as certain of salvation as the best of them. There is no automatic spiritual reaction to a mechanical act or rite in a universe dominated by moral law. Spiritual ascent is the fruit of a righteous life. The principle sublimates the concept of *tīrtha-yātrā*. A running stream is not the only *tīrtha*. There are mental *tīrthas* which are even more effiective than the physical. Truth is a *tīrtha*, forgiveness is another; control of the senses is a third; compassion to all living beings is a fourth; and other *tīrthas* are uprightness, charity, selfrestraint, contentment, continence, amiability, wisdom, steadfastness and austerity of life. But the best of all *tīrthas* is a pure heart[^52]. These are the waters which wash away sin. No ablutions can purify the covetous man, the miser, the sadist, the braggart and the voluptuary. They may bathe in every sacred stream and still remain as soiled as ever. The blackened heart is not washed clean by mere baths. Neither charity (*dāna*), nor sacrifice (*iṣṭa*), nor austerity (*tapas*), nor learning (*śruta*) nor pilgrimage (*tīrtha-sevā*) can bleach a nature that is black. Where dwells the man who has controlled his passions
 
 [^51]: "See the eloquent passage, from the Brahmapurāṇa. inf., p. 8. Mitramiśra omits it."
 
 [^52]: "See the elaboration of this idea by the Mahābhārata in the passage cited infra, on pp. 6-7."
-
-
-
-
 
 are Kurukṣetra, Naimiśa and Puṣkara. He attains the highest end (*paramām gatim*) who is purified by knowledge (*jñāna pūta*), and washes away his affections and hatreds by the water of meditation[^53].This picturesque exposition of the elements of the pious life, is cited by Lakṣmīdhara at the very beginning of his *Tīrtha-kāṇḍa* with the obvious aim of correcting the vulgar view of *tīrtha-yātrā*. Looked at in this way, the concept of pilgrimage attains a moral elevation which places it side by side with other recognized means of grace. A virtuous life is the common denominator of all pious endeavour. It will be missing in the sceptic, the scoffer and in him who gloats on his sins; they are therefore held out as examples of persons who can never be redeemed by any number of pilgrimages. The will to do right is strengthened by suituble exercise and discipline. The aim of the ritual governing *tīrtha-yatrā* is to secure this co-ordination.
 
@@ -456,8 +350,6 @@ are Kurukṣetra, Naimiśa and Puṣkara. He attains the highest end (*paramām 
 
   The apportionment of duties so as to suit the capacities and the aspirations of those on whom they are laid is a feature of *Dharmaśāstra*. But desires out-run power. The ladder of effort has to be graduated so as to secure a slow ascent to the pinnacle. Those who are of "the earth, earthy" look for rewards which are immediate, which overcome visible unhappiness and bring common joys. The best minds crave for the arrest of the drag to rebirth (*punarbhava*). The glory of this life is the opportunity it gives for man to prove his mastery of his destiny. The highest aim of Life is to dispense with it once for all. The law of the moral conservation of energy, which rules the universe, destroys the tendency (*vāsanā*) to reincarnation only when sufficient merit is stored and sin is totally destroyed. When death comes, the individual is either lifted to a higher life by his good deeds or dragged to a lower by his sin. Post-mortuary existence still keeps up individuality, and rewards and punishments await the unreleased soul. The soul which is released by death follows either the path of the gods or the path of the ancestors (*devayāna, pitṛ-yana*), according to the nature of its past record. The former leads ultimately
 
-
-
 to *Brahmaloka* or *Satya-loka*, the highest of the seven *lokas*, The and the latter to *Candraloka*, the region of the moon.[^54]soul that enters *Satyaloka* is not reborn; but that which enters the world of the Moon is re-born after it has remined in the happy reigion long enough to exhaust its store of merit (*punya*).[^55] The conception is varied in the Purāṇas and different regions are assigned to various divinities to which the blessed are transported. The soul of the devout pilgrim either returns to be reborn after a long period of joy in another and 'better' world, or makes no return to this world (*na punarāvṛtti*). We are told of the transit of the pious soul to *Gaṇeśaloka, Sivaloka* and *Sārasvataloka*.[^56]The promised rewards for visits to certain *tīrthas* or for worship at certain *kṣetras* are not to be taken literally, but to be understood to signify a high destiny for the devout pilgrim. But underlying the whole doctrine of the potency of a *tīrtha-yātrā* is the hypothesis that it depends on the possession of high moral and spiritual qualities by the pilgrim and on his making the pilgrimage without any relaxation of the rules laid down for their proper performance. The procedure laid down and the way of life prescribed for the pilgrim are devised to secure the retention and cultivation of morality and spirituality. A literary device for suggesting emphasis, with which students of even technical literature in India must familiarise themselves, is the use of exaggeration or over-statement. In medical works a useful drug is not only described as curing a specific disease, but all conceivable diseases. In art mental power is indicated by endowing a semi-divine person with many heads (*e.g*. Brahmā, Skanda, Rāvaṇa) and invincibility by a multiplicity of arms. In iconography, we find illustrations of the action of this device. Viṣṇu has almost always at least fourarms. So has his consort Lakṣmī, who is endowed with fourarms, except when she is in the company of Viṣṇu when she has only two arms, a device to indicate their relative position. Even in portrait sculptures, the king is represented in life size, while the queens standing by his side are dwarfed. Such verbal devices have to be properly discounted before a correct apprehension is reached. This is illustrated by the *phala*
 
 [^54]: "Bṛhadāraṇyaka Upaniṣad, VI, 2, 2."
@@ -466,8 +358,6 @@ to *Brahmaloka* or *Satya-loka*, the highest of the seven *lokas*, The and the l
 
 [^56]: " Infra. p. 52."
 
-
-
 (fruit) attached to doing certain acts: a *yajña* a *dāna*, a *prāyaścitta*, and a *tīrtha-yātrā*, and the rhetorical description of their results. Taken literally, their effects are so overwhelming, that he who does one of the prescribed rites, has no need to attempt others. To each *tīrtha* the adherent efficacy is so great, if the *māhātmya* of that *tīrtha* is contrued literally, that there is no need to visit more than one *tīrtha*. That persons nevertheless go to innumerable *tīrthas* and shrine in the course of a toilsome pilgrimage is evidence of the spirit in which such florid descriptions of results are understood.
 
   Read casually, and without reference to its background, the Indian *tīrtha* seems to be endowed with a magical effect, which acts immediately on a pilgrim who visits it. Indian thought recognises the connection between mind and matter and stresses the value of a discipline of the body to produce a proper state of the mind. This is the justification for insisting on purity of food to ensure purity of the body and consequently of the mind. A suitable state of equanimity is possible only from control of the emotions or passions (*indriya-nigraha*). Yogic practices and training have the object of helping the conquest of the emotions and impulses. For ordinary persons, some restraint or even constraint, in a physical sense, is necessary to bring the body under perfect control. Austerity (*tapas*) takes many forms, but all of them have the same end. An extreme way of describing the value of *tapas* is not only to say that it conquers an individual but it affects the established order of nature.[^57]The purpose of the description is served if it secures a ready acquiescence in the value of austerity as a pre-requisite to victory over the spirit. Fasting, partial or complete, the practice of sexual continence, abstinence from unguents, soft beds and luxuries, rejection of the aid of vehicles or animals for making long and painful journeys[^58]. Mitramiśra allows the use of boats ( नौकायानं अयानं स्यात्). ibid, p. 35.  The taboos in a tīrtha are enumerated in Brahmāṇḍa Purāṇa thus: (Raghunandana's Prāyaścitta Tattva, I, 535)-")are
@@ -475,8 +365,6 @@ to *Brahmaloka* or *Satya-loka*, the highest of the seven *lokas*, The and the l
 [^57]: "This is a logical extension of the idea that every act or thought must produce an effect on the Universe. In a vulgarised form tapas is described as a form of coercion practised on the higher powers."
 
 [^58]: "As regards shoes, not wearing them is meritorious but using them is not sinful (Tīrthaprakāśa. p. 35
-
-
 
 illustrations of the application of the principle to the inhibitions of *tīrtha-yātrā*. For cleansing the mind meditation and contemplation are recommended. The development of religious consciousness passes, according to the Upaniṣads, through three steps: listening (*śravaṇa*), reflection (*manana*) and contemplative meditation (*nididhyāsana*)[^59].A rough parallel is seen in the disciplines of the pilgrim. He is to *hear* (*śravaṇa*) constantly the praise of his *tīrtha*; he is to *remember* it always (*smaraṇa*); he is to *chant* its name and praise (*saṅkīrtana*)[^60].
 As meditation on the Deity in one of His manifestations has to be done to the exclusion of all thought of other manifestations, or of one god to the exclusion of other gods, to put it crudely, so the mind of the pilgrim must be centred on one *tīrtha* at a time to the exclusion of all others, and on one form of the Deity at the *tīrtha* (*ananyamanas*). Here is the significance of two rules for the pilgrim, *vis*., to begin the *yātrā* (journey) with a solemn declaration of his resolution and purpose (*saṅkalpa*)[^61]
@@ -502,21 +390,15 @@ and to abstain at any naming, *i.e*., thinking of any others.[^62]. The rule is�
 
 वस्त्रत्यागमथाघातं सन्तारञ्च विशेषतः ॥
 
-
-
-
-
 nity to discharge the triple debt (*ṛṇa-traya*) to the gods, sages and ancestors. The performance of *homa* (fire oblation), the worship of deities (*pūjā*), the chanting of the Vedas, the doing of *yajña* (sacrifice), and pleasing sages and ancestors by rites of propitiation (*ṛṣi-tarpaṇa* and *pitṛ-tarpaṇa*), offering funeral cakes (*piṇḍa-dāna*) and doing *śrāddhas* are all commended at *tīrthas* as infinitely more effective than when done in one's own home[^63].The rationale of the commendation of these rites in a *tīrtha* will be obvious, without postulating any magical efficacy in its waters. None of these rites will ordinarily be approached in one's own home with that feeling of ecstasy and devotion with which the pilgrim, who has made the long tour, after undergoing the rigor of the *yātrā*, will being it with at a *tīrtha.* The magic which multiplies the efficacy of the rites lies less in the waters of the *tīrtha* than upon the moral discipline which the pilgrim has undergone before reaching it and his mental state after he does so. The saying of Pulastya, cited by Raghunandana[^64], that even he who performs in the Ganges the prescribed rites like baths, gifts etc., through cunning, or greed or for self-advertisement, goes to heaven, is only a picturesque way of stressing the sanctity of the Ganges. That the magic of the sacred stream was ineffective in the case of one who does not make the pilgrimage deliberately and at his own expense, and personally undergoing its rigor, is shown by the dicta of Śaṅkha and Paiṭhīnasi that he who comes upon a *tīrtha* accidentally, in proceeding on some other errand, he who travels at the expenses of another (as his paid deputy, for instance), or incidentally, gets only a fraction of the advantage (*puṇya*) that a true pilgrim derives.[^65]
 
 [^63]: "e.g. Viṣṇusmṛti, LXXXV:  पुष्करेष्वक्षयं दानं श्राद्धं जपहोमतपांसि च ।"
 
 [^64]: " Prāyaścitta-tattva, I, 505:  पुलस्त्यः—  कपटेनापि गङ्गायां स्नानदानादि कर्म यत् ।  यो लाभख्यातिपूजार्थं कुर्यात् सोऽपि दिवं व्रजेत् ॥"
 
-   This aspect of pilgrimage is obscured by popular legends, and stories of miracles formerly wrought at certain *tīrthas* with the unconscious suggestion they convey that similar
-
 [^65]: "infra, p. 11."
 
-
+   This aspect of pilgrimage is obscured by popular legends, and stories of miracles formerly wrought at certain *tīrthas* with the unconscious suggestion they convey that similar
 
 miracles may happen to the pilgrims who visit them. When pilgrimage becomes a habit, and a source of profit to those who live by exploiting it at the great *tīrthas*, the spirit and the dis-cipline, which are vital to the *yātrā*, are apt to be obscured or overlooked. That it was perhaps so even in the days of Lakṣmīdhara may be inferred from two circumstances. He has prefixed to the detailed consideration of the chief *tīrthas* a long quotation from the *Mahābhārata*[^66]ending with this pointed statement: "Accordingly, he attains the highest end (*paramāmgatim*) who 'bathes' constantly (*nityaśaḥ*) in both (*ubhayeṣu*) the mundane (*bhaumeṣu*) and the spiritual (*mānaseṣu*) streams (*tīrtheṣu*)". Later in the work, in dealing with miscellaneous *tīrthas* he makes another significant quotation from the same epic[^67] :" "Nothing is beyond the reach of the pilgrim (*na kiñcid aprāpyam*) who finishes a pilgrimage, conquering anger, lust and cupidity. Those holy places (*tīrthāni*) which are inaccessible (*agamyāni*), difficult to get at and hard to attain (*viṣamāṇi*), can all be reached by him (*gamyāni*) by mere thought of them." The Purāṇas have expressed the same idea in other ways. Great *tīrthas* like Kāśī have guardian gods, like Daṇḍapāṇi, whose duty is to expel from holy ground and stream all those who have sinned grievously or live in sin[^68]. The gods protect Prayāga.[^69] "Those whose lack faith (*aśraddadhānāḥ puruṣāḥ*) and those who minds are overcome by sin (*pāpopahatacetasaḥ*) do not attain.salvation in divinely protected Prayāga." Almost every *phalaśruti* is qualified by statements restricting the fruits of pilgrimage to those who are virtuous, and the pure in heart (*śuddhātmanām*.)[^70].
 As stated by Albiruni[^71], most persons took *tīrthas* only on trust, without reflection or any enquiry into their sanctity. But it was not so with legists, like Lakṣmīdhara, who placed due stress on the ethical pre-requisites of their efficacy.
@@ -533,10 +415,6 @@ As stated by Albiruni[^71], most persons took *tīrthas* only on trust, without 
 
 [^71]: " India, ed. Sachau, II, p. 146."
 
-
-
-
-
   In spite of the large part which pilgrimage has always played in Indian life, a formal treatment of it in the law books is wanting. That pilgrimages were very ancient is evidenced by literature of both Brahmanism and Buddhism. The animistic urge is seen in the deification of rivers as early as the Ṛg Veda. The sanctity of certain regions, like *Brahmāvarta* sprang from the rivers which flowed through it, or bounded it. In the famous hymn to the rivers,[^72]from which *ṛks* are quoted even to-day when going through the daily bath, as many as twenty-one out of the thirty-one rivers known to the Veda are hymned as deities. The splendour of the mighty rivers of the Punjab and Madhyadeśa are reflected in the *sūkta*. The first place is given to the Indus (*Sindhu*), "the Lord and Leader of the moving floods" and its tributaries are With compared to calves running to the mother cows. the exception of the Ganges, Sarasvatī, and the Jumna (Yamunā) the commemorated streams are those of the Punjab and the North-West. The anthropomorphic tendency invested forest and stream with divinity, and the recommendation to seek the seclusion which they offered for meditation in the last two stages of life enhanced their attractions. Their sanctity is stressed by so early a *smṛti* as that of Gautama (XIX, 15) who uses the term *tīrthāni* in describing them.[^73] That there were lakes or rivers, which were deemed holy, whose water was believed to have special virtues in purification, is implied in another maxim of his[^74]. *Viṣṇusmṛti* equates *tīrtha-yātrā* with *aśvamedha* (horse-sacrifice) as the effective expiation for the major and minor sins.[^75]A long chapter[^76]is devoted to an
 
 [^72]: "Rg Veda, X, 75."
@@ -548,12 +426,6 @@ As stated by Albiruni[^71], most persons took *tīrthas* only on trust, without 
 [^75]: "अश्वमेधेन शुद्ध्येयुर्महापातकिनस्त्विमे ।  पृथिव्यां सर्वतीर्थानां तथानुसरणेन च ॥ XXX, 6.  अनुपातकिनस्त्वेते महापातकिनो यथा ।  अश्वमेधेन शुद्ध्यन्ति तीर्थानुसरणेन च ॥ XXXVI, 8."
 
 [^76]: "Ch. LXXXV,"
-
-
-
-
-
-
 
 enumeration of *tīrthas* like *Puṣkara* where baths, the performance of *yajñas*, the practice of austerities (*tapas*) and the offering of *piṇḍas* to the manes and the doing of *śrāddhas* is is effective. A pilgrim is free of ferry dues[^77]. One who ispurified by *tīrtha-yātrā* sanctifies a whole assembly[^78]. The water of the Ganges is praised for its superlative purity[^79].
 The bones remaining after the cremation of a dead body should be thrown into the Ganges, and "as many bones as are contained in the waters of the Ganges, so many thousands of years will the dead man live in heaven[^80]."The list given by *Viṣṇusmṛti* embraces many well known *tīrthas* spread over the whole of India. It is evident that by the time of the composition of the work, the practice of pilgrimage to many of the reputed *tīrthas* was well established. Vasiṣṭha[^81]lauds those ancestors alone as having true descendants, when the latter offer them food in *śrāddas* performed at Gayā. An allusion in Manusmṛti[^82],shows the high sanctity attached at the time to pilgrimages to the Ganges and Kurukṣetra, which in the Epic and the Purāṇas are equated in spiritual efficacy (*puṇya*). The extant fragments of *Bṛhaspatismṛti* contain the *pitṛ-gāthā* lauding the perfor-
@@ -570,12 +442,6 @@ The bones remaining after the cremation of a dead body should be thrown into the
 
 [^82]: "VIII, 92  यो हि वैवस्वतो देवो यस्तवैष हृदि स्थितः ।  तेन चेदविवादस्ते मा गङ्गां वा कुरून् गमः ॥  A truth-telling witness has no need to get the highest spiritual merit by pilgrimage to the Ganges and to Kurukṣetra."
 
-
-
-
-
-
-
 mance of *śrāddhas* at Gayã[^83] –  एष्टव्या बहवः पुत्रा यद्येकोऽपि गयां व्रजेत् ।  यजेत वाऽश्वमेधेन नीलं वा वृषमुत्सृजेत् ॥  काङ्क्षन्ति पितरः पुत्रान् नरकापातभीरवः ।  गयां यास्यति यः कश्चित्सोऽस्मान् सन्तारयिष्यति ॥  गयायां धर्मपृष्ठे च सदसि ब्रह्मणस्तथा ।  गयाशीर्षे वटे चैव पितॄणां दत्तमक्षयम् ॥  The first verse is cited infra pp. 163, 170 and 174, from the Matsyapurāṇa, the Mahābhārata and Yamasmṛti respectively. The remaining two are cited from Bṛhaspati on p. 167 infra."),and an eulogy of the merit of living for three nights at the confluence of the Sarasvatīand the Aruṇā rivers[^84].*Parāśarasmṛti*[^85]repeats the dictum of Vasiṣṭha[^86]that a Brahman bitten by a dog is purified by a bath in a sacred ocean-going river. The value of a *śrāddha* at Gayā is stressed by Yajñavalkya[^87]and the addition of a conjunctive particle to the name is explained as signifying that other similar places are implied, which have equal sanctity. The long prose passage, cataloguing and classifying *tīrthas*, which is cited from Devala by Lakṣmīdhara (pp. 249-250) suggests an earlier *sūtra* work as its source. The later *smṛtis*, which are laid under contribution for passages on *tīrthas* are not noted for their antiquity, but they probably repeat older authorities how lost.
 
 [^83]: "श्राद्धकाण्ड, ६४–६७ (p. 335
@@ -590,14 +456,6 @@ mance of *śrāddhas* at Gayã[^83] –  एष्टव्या बहवः �
 
  The high antiquity of pilgrimage's to sacred rivers and sites is however beyond question. In Kauṭilya's days they
 
-
-
-
-
-
-
-
-
 attracted mixed and large congregations of pilgrims. Long before his days certain places were regarded as so holy as to merit selection for the performance of the biggest sacrifices (*sattra* ). The *Śrauta-sūtras* of *Āśvalāyana*[^88]and *Lāṭyāyana*[^89]
 recommend sites on the banks of the Sarasvatīfor such sacrifices, while *Kātyāyana-śrauta-sūtras*[^90]states that the lustral bath at the end of the *sattra* was done in the Jumna or the Kārapacā.
 
@@ -611,14 +469,6 @@ recommend sites on the banks of the Sarasvatīfor such sacrifices, while *Kāty�
 
 [^91]: "CXXVI, 16–22.  एतत्तु दृश्यते तीर्थं समुद्रस्य वरानने ।  यत्र सागरमुत्तीर्य तां रात्रिमुषिता वयम् ॥  एष सेतुर्मया बद्धः सागरे सलिलार्णवे ।  तव हेतोर्विशालाक्षि नलसेतुः सुदुष्करः ॥...  एतत्तु दृश्यते तीर्थं सागरस्य महात्मनः ।  सेतुबन्ध इति ख्यातं त्रैलोक्येनाऽभिपूजितम् ॥  एतत् पवित्रं परमं महापातकनाशनम् ।  अत्र पूर्वं महादेवः प्रसादमकरोत् प्रभुः ॥  The last half-verse is explained by Govindarāja às referring to Darbhaśayana ( Tamil, Tiru-p-pulāṇai
 
-
-
-
-
-
-
-
-
 epic, Balarāma, the Pāṇḍavas, and Arjuna performed pilgrimages. Accounts of the sanctity of *tīrthas* are given by the sages Pulastya, Lomaśa, Dhaumya and Angiras. A large section of the *Vanaparva* (ch. 78-158) is entitled *Tīrtha-yātrāparva*. To the *nibandhakāras* the *Mahābhārata* is a fundamental source on pilgrimage. The inclusion of *Mahāprasthāna*under *tīrtha* by Lakṣmīdhara must have been obviously. suggested by the seventeenth book of the great epic, though for the ritual he suggests he has to cite only puranic authority (inf. pp. 558-264).
 
     The Purāṇas and Upa-purāṇas are the main sources on pilgrimage. Many of them deal with little else than *tīrtha*, *sthala* and *kṣetra*-*māhātmya*. But it is noteworthy that Lakṣmīdhara does not draw upon the following major Purāṇas: *Agni, Bhāgavata, Gāruḍa, Kūrma, Nāradīya, Śiva* and *Saura*[^92]. But he draws extensively on the following Upa-Purāṇas; *Āditya*, *Devī*, *Kālikā* and *Nārasimha purānas*. Among works of the class dealing with the same *tīrtha*, he has rejected some and chosen others. The circumstance that he omits any, notice of certain famous *tīrthas* or areas completely, which are dealt with in the Purāṇas he quotes for other *tīrthas*, might suggest that either he rejected the claim to sanctity of the "holy places" he omits to treat of, or that the recensions of the Purāṇas available to him did not contain the matter they now contain[^93]."). A prominent omission is that of the shrines and sites in *Utkala* (Orissa) to which great attention is paid by the Brahma and Skanda Purāṇas which he utilises[^94] are barely mentioned on p. 235 in the long extract from Prahlada's tīrtha-yātrāfrom Vāmana-purāṇa. The citation. of this extract by the Kalpataru is alluded to by Raghunandana in Puruṣottama-tattva (II, p. 564)."). The *topgra*-
@@ -628,8 +478,6 @@ epic, Balarāma, the Pāṇḍavas, and Arjuna performed pilgrimages. Accounts o
 [^93]: "Two independant recensions of Skandapurāṇa now exist. The absence of any reference in Lakṣmīdhara's work to the Kāśi-khaṇḍa raise suspicions of its authenticity and antiquity. Vācaspatimiśra cites it twice in Tīrthacintāmani (pp. 368 and 370
 
 [^94]: "Four holy tīrthas in Orissa, including Puruṣottamakṣetra (Puri
-
-
 
 *phia* sacra for Benares, which he furnishes, is remarkably full and, as he was a resident of *Kāśī*, it will furnish a valuable check to the mention of sites he omits to mention, as his silence about them may suggest a suspicion of the authenticity of the chapters treating of them in the Puranas he has cited. Aninstance in point is 'the sacred way' in Benares, which all modern pilgrims tread, *viz*. the *Pañcakrośī*, of which he makes no mention, though it has appeared in certain recensions of the *Skānda* *Purāṇa* for over four centuries[^95] at Benares is from the Brahmavaivarta and Mitramiśra relies on it (op. cit. pp. 220-236).").
 
@@ -641,14 +489,9 @@ LAKṢMIDHARA'S TREATMENT
 
 [^96]: "ibid. p. 26. “तीर्थयात्रासमारम्भे तीर्थात्प्रत्यागमेऽपि च । वृद्धिश्राद्धं प्रकुर्वीत बहुसर्पिस्समन्वितम् ॥"
 
-
-
 2\. *Tīrthaprakāśa*, p, 52.  
 
  अथ एव केषांचित् कामधेनुलिखितवाक्यानां कल्पतरुकारलिखितानामपि शिष्टपरिग्रहादेव प्रामाण्यमिति श्रीदत्तोपाध्याया अप्यवोचन्।  
-
-
-
 
 as also the shrine at Multan before it was destroyed[^97]. The boast of Kalhana[^98]that in his native land there was not the space which a grain of sesame would cover that had not its *tīrtha*, is justified by the remains of ancient objects of worship at springs and on river banks throughout Kāṣmīr, several of which claim to be self-revealed (*svayambhū*). Kalhana mentions about a dozen in the first canto of his chronicle. The *Vitastā*, (Jhelum) the chief river of the valley was regarded as a manifestation of Śiva's consort, Gaurīand Nandikṣetra as the permanent abode of Śiva. In Kāṣmīr, dwelt Śāradā, and her temple on a low hill was well-known in the middle ages. The omission of these in the Puranas as well as in treatises on tīrtha, like their omission to stress the sanctity of the great streams of the old Aryan area in the Punjab, must be due to the areas having fallen under the control of *mlecchas*, with fears of their desecration and the impossibility of reaching the *tīrthas* except by passing through regions controlled by powers which did not respect the Hindu traditions and beliefs. It is noteworthy that such famous *tīrthas* as Mount Kailasa and Mānasa-saras, which were equally inaccessible on the same grounds, are neglected in *tīrtha* literature. Going to a *tīrtha* through an excluded area is allowed, and it was feasible when such an area was inhabited by Hindus and under the rule of Hindu kings. But when they passed under hostile occupation even tracts which had been the homes of ancient sages had to be omitted even in comprehensive accounts of places of Hindu Pilgrimage. Lakṣmīdhara's citation of the passage from the Mahābhārata (p. 245) which names the rivers of the Punjab and refers generally to the rivers of Kāṣmīr, which are affluents of the *Sindhu* (Indus), occurs only in the chapter on 'miscellaneous' *tīrthas*, while *tīrthas* now forgotten but which enjoyed a vogue in his days like Sükara and Stutasvāmin have indepen- dent sections assigned to them. The discrimination reflects his practical aims.
 
@@ -659,8 +502,6 @@ as also the shrine at Multan before it was destroyed[^97]. The boast of Kalhana[
 EVOLUTION OF THE TIRTHA THEORY.
 
    The primary basis of belief in *tīrthas* is the recognition of invisible and beneficent agencies in springs, fountains, rivers and the ocean. In a wider sense water itself is spiritualised, as in the Upanişads, its cleansing virtues being ascribed to a
-
-
 
 non-physical character. It is the garment (*vāsaḥ*) of the breath of the life (*prāṇa*). Its subtle essence becomes life's breath[^99]. It is the source of the "five primordial elements" (*pañca bhūtāni*) of life[^100].In the beginning the Universe was water, and from it was born everything[^101].Water is the foundation of the universe[^102].").The Supreme Being is known as Nārāyaṇa because water (*nārā*) is His abode (*ayanam*). Water and Wisdom are known by the same name, *nārā*, and God abides in both[^103]. Naturally water is a cleansing agency par excellence. Rinsing the mouth with water cleanses the "breath" (*prāṇa*[^104]).The rite of sipping water (*ăcamana*, *upasparśa*) is the most efficacious method of purification, and it has to be gone through, as preliminary, to any act with spiritual significance to produce the requisite antecedent purity[^105]").Water is the body of Viṣṇu[^106].").According to the *Śatapatha* *Brāhmaṇa*, water is the abode of truth[^107].The invocation of the Supreme Being as the Lord of Waters, at the application of the ordeal by water, is thus logical (*Nāradasmṛti*, p. 123, vv. 316-7), for "nothing is more capable than water and fire to bring out the difference between truth and falsehood[^108]."In the *Atharva*
 
@@ -684,8 +525,6 @@ non-physical character. It is the garment (*vāsaḥ*) of the breath of the life
 
 [^108]: " Nārada-smṛti, p. 123, or 316-7. सत्यानृतविभागस्य तोयानी स्पष्टकृत्तमौ । अद्भयश्चाग्निरभूद्यस्मात्तस्मात्तोये विशेषतः ॥ क्रियते धर्मतत्त्वज्ञैर्दूषितायां विशोधनम् । तस्मात्सत्येन भगवन् जलेश त्रातुमर्हसि ॥"
 
-
-
 *Veda* the curative power of water in disease is implied in the invocation of Water as the healer[^109]. The belief that a *tīrtha*, which is pre-eminent in sanctity, like the *Setubandha* or *Gañgā*, is a remedy for diseases which have defied the physician is founded on two notions: *viz*., that water is the great healer, and that it destroys sin in certain *tīrthas*, sins being the causative factors in producing diseases[^110]. The *Śatapatha* *Brāhmaṇa* which sees in the waters the divine nymphs (*Apsarasas*), the brides of the Wind-god (*Vāta*), gives a poetical expression to the natural beauty of streams or rippling water[^111].Anthropomorphism follows animism.
 
 [^109]: "Atharvaveda, S. B. E., XLII, p. 40."
@@ -699,8 +538,6 @@ non-physical character. It is the garment (*vāsaḥ*) of the breath of the life
 [^112]: "Tīrtha-prakāśa; citing Smṛtisāra, 14. मन्त्रे तीर्थे द्विजे दैवे देवज्ञे भेषजे गुरौ । यादृशी भावना यस्य सिद्धिर्भवति तादृशी ॥"
 
 [^113]: "Śatapatha Brāhmaṇa (S. B. E., XII, 448-450
-
-
 
 commencement of the *yajña*. The termination of studentshipis marked by tonsure[^114].Shaving terminates a period of impurity (*aśauca*) springing from death or birth. The customs are world-wide and reflect the belief that hair is infected with the virus of taboo and its removal removes the taboo[^115]. Works on *tīrthayātrā*, and on Hindu ritual generally, are full of discussions of the occasions when tonsure of either or both sexes is obligatory, as the omission is held to prejudice the effect of a religious act.
 
@@ -718,8 +555,6 @@ commencement of the *yajña*. The termination of studentshipis marked by tonsure
 
 [^119]: "शा. गृ. सू., २, १७, ३"
 
-
-
 SIN AND PILGRIMAGE
 
    The regimen of *tīrtha-yatrā* is also brought into close association with two other ancient beliefs, *viz*., sin with the means of expiating it, and the duty of ancestor worship, which had developed elaborate theories of their own in India. makes for unhappiness in this as well as other lives. There are grades of moral obliquity, whose consequences are correspondingly graded to last through one or more lives. Writers on expiation (*prāyaścitta*) like Sūlapāṇi have classified sins (*pātaka*) as dealt with in *smṛtis* under nine divisions of which the four chief are *mahāpātaka*, *anupātaka, atipātaka* and *upa-pātaka*. The classical enumeration of *mahāpātakas* makes them five, beginning with the slaughter of a Brāhmaṇa (*brahmahatyā*), and their effects are said to last for seven lives[^120] killing a Brāhman, drinking spirits, theft (of gold), adultery with a Guru's wife, and association with such sinners."). Thirty-five *anupātakas* are named as equal to *brahmahatyā*. Revolting sins (*ati-pātaka*) are incest and its analogues. The "minor sins" (*upa-pātaka*) are classified as forty-nine. Among them are such fairly grave moral offences as adultery with a married woman, and abandoning one's parents, wives, children and teachers and selling oneself or one's wife or children into slavery. Cow-killing, usury, theft; neglect of Vedic study, eating forbidden food and marrying before an elder brother are also brought within this category. The purpose of the classification is to indicate a common cosmic effect for all sins of the same class and a common form of expiation. Even the gravest sin is within the scope of penitential expiation[^121]. He concludes- एतैव्रतैरपोहेयुर्महापातकिनो मलम् ॥").Much acumen is displayed by commentators and *nibandhakāras* in making subtle distinctions between offences, and in explaining the apparent prescription of very severe or comparatively light penances for an offence bearing the same name, like *Brahmahatyā*. The *smṛtis* are so largely taken up with this subject, that their commentators, as well as digest-writers, have evolved a vast literature on sin and expiation. To those
@@ -728,15 +563,11 @@ SIN AND PILGRIMAGE
 
 [^121]: "Manusmṛti prescribes prāyaścitta for each of the five deadly sins (XI, 89, 92, 101, 105-107
 
-
-
 conversant with it, the brief indication of the benefit of a particular *tīrtha* is enough, e.g., that it is able to destroy a major sin (*mahāpātaka-nāśana*) or *ati-pātaka-nāśana*, or, reversing the method of indication confer the same benefit as an *aśvamedha* (horse-sacrifice) or *agniṣṭoma*. For, in the schedule of sins and expiations, *aśvamedha* is the sovereign spiritual remedy for all mahāpātakas. So, if a bath is described, as is one at Benares (inf. p. 21) as conferring a spiritual benefit equal to that arising from the performance ten horse-sacrifices, it is to be taken as an emphatic way of saying that the bath is a penance for a *mahāpataka*. The elliptical method of indication has to be understood in a work like the present, since it assumes in the reader the requisite knowledge of *prāyaścitta* literature.
 
 FASTING
 
    Another elliptical indication in *tīrtha-yātrā* and other*kṛtyas* which has to be understood in its full implication is *upavāsa* or fasting. Before a *yātrā* is begun and after it is concluded, the pilgrim is enjoined to worship Gaṇesa (to avoid obstacles in the course of the journey) and propitiate gods, ancestors and Brāhamaņas by worship, *śrāddhas* and liberal feeding, accompanied by *dakṣiṇā* (gifts of money). One thing more he has to see to before he starts on the pilgrimage and that is to fast. So far as mere abstention from food goes, *upavāsa* may range from one meal, (*ekāhāra*) or a meal of fruits, roots etc., to total rejection of food for the entire day and night. But it implies a great deal more. Its wide range is indicated in a picturesque etymology. *Upavāsa* is "living" (in union with good qualities) with one's face averted (*upāvṛttaḥ*) from sins. In the 'enjoined' (*vaidheya*) fasting there should be starvation from morning to evening, and from evening to dawn. On the day before and on the day following a "fast," the following should be eschewed: eating out of a bell-metal plate, collyrium, meat, spirits, liquor, greed (*lobha*), idle talk (*vitatha-bhāṣaṇam*), physical exercise, siesta, anointing body and head, acceptance of hospitality, gambling, and excessive drinking of water. On the actual day of the fast, the following are to be avoided: collyrium to the eyes, painting the forehead, flowers, garlands, scents, spices, anointing the head and body, mid-day siesta, playing with dice, familiar talk
-
-
 
 with women and sexual intercourse[^122], p. 260."). A fast is not broken if one partakes of water, milk, roots, fruits and medicines[^123].Even with the relaxations allowed, the regimen was so severe for many people that *upavāsa* by deputy was permitted in "unavoidable" cases. A wife or a husband may endure a fast on behalf of the other partner, a son for his father, brothers for one another and a sister for a brother, and a well-conducted Brahman for any one[^124]. The *upavāsa* had to be observed on the days preceding a *śrāddha*. As *śrāddhas* are enjoined during a visit to a *tīrtha*, it follows that a long pilgrimage entails many "fasts."
 
@@ -754,8 +585,6 @@ The practice of the *śrāddha* has its roots in ancestor worship, which can be 
 
 [^126]: "Cf. quotations from Bṛhaspati, Viṣṇu, Yama and Vasiṣṭha on p. 167, ff. infra."
 
-
-
 on dutiful descendants in the line. "The dead person, maintains *Viṣṇusmṛti*, "and the performer of the *śrāddha* are sure to be benefitted by its performance. Perform the *śrāddha* always abandoning useless grief. This is the duty which should be constantly discharged towards a dead person by his kinsmen[^127]."The manes enjoy as celestial food in their existence after death, whatever it be, as their share of the oblation of a *śrāddha*. As a Vedic sacrifice establishes a friendly and beneficial relationship between men and gods, so a *śrāddha* ensures the mutual dependance and helpfulness of the living and the dead. Accordingly, the performance of it is enjoined before every auspicious family event, like the initiation of a boy (*upanayana*), ante-natal ceremony (*sīmanta*, *pumsavana*), marriage, house-occupation and *tīrtha-yātrā*. The type of *śrāddha* which is performed on auspicious occasions is known as *abhyudaya-śrāddda* or *vṛddhi-śrāddha[^128]").* For the performance of other kinds of śräddhas also a tirtha is recommended as highly efficacious. Ancient legends of the origin of certain *tīrthas* like Gayā are held to enforce the high efficacy of the śrāddhas performed there[^129]. The Ganges was brought down to the earth to give release to the manes of the ancestors of Bhagiratha who had been destroyed for their irreverence to a divine sage[^130]. The great river is therefore a *pitṛ-tīrtha* which surpasses all others, and the performance of every form of śrāddha at Benares or on the banks of the Ganges is regarded as supremely meritorious[^131].
 
 [^127]: "२०, ३६-३- प्रेतस्य श्राद्धकर्तुश्च पुष्टिः श्राद्धे कृते ध्रुवम् । तस्माच्छ्राद्धं सदा कार्यंशोकं त्यक्त्वा निरर्थकम् ॥"
@@ -768,8 +597,6 @@ on dutiful descendants in the line. "The dead person, maintains *Viṣṇusmṛt
 
 [^131]: "For the merit of offerings to the manes on the banks of the Ganges see infra p. 157 and p. 161."
 
-
-
 PLENARY INDULGENCES OF PILGRIMAGE
 
   The association of *śrāddha* and upavasa intensified the high seriousness with which pilgrimages were begun and performed. An act of supreme merit carries its own purification. A *tīrtha-yātrā* is such an act. Accordingly, plenary indulgences surround it. *Aśuddhi* (pollution) arising from birth or death affects a pilgrim no more than it does one who has entered on a *dīkṣā*[^132] that one who is under pollution (Sūtakī) should not go to a tīrtha is explained. by Mitramiśra as forbidding the commencement of pilgrimage when one is under pollution.") The touch of others does not pollute a pilgrim: during Even a journey there no *spṛsṭa-aspṛṣṭa[^133] . “स्पृष्टास्पृष्टिर्न दुष्यतीति वचनं पक्कान्नशुद्धौ कल्पतरुकृता लिखितम्, तीर्थपक्कान्नस्पर्शे न दोष इति । अत एव पुरुषोत्तमक्षेत्रादौ तथैव शिष्टाचारः” (मित्रमिश्राः)").*prolonged absence, incidental to pilgrimages in ancient times, will not affect adversely one's rights to and in property[^134]"). Those who hesitate to undertake a long pilgrimage by fear of inability to complete it by death on the way are reassured. If they die in one of the many holy places, at which death ensures immediate release (*mokṣa*) like Kāśī or Prayāga, they are all the better for having undertaken the pilgrimage. If the pilgrims die in the course of the journey, they gain the full benefit of the *yātrā* which they had hoped for[^135] explains the merit of death during the journey to a tīrtha as equal to that accruing from fasting for a month. He who is obliged to discontinue a pilgrimage has to do a penance.").
@@ -781,8 +608,6 @@ PLENARY INDULGENCES OF PILGRIMAGE
 [^134]: "गोत्रसाधारणं त्यक्त्वा योऽन्यं देशं समाश्रितः । तद्वंशस्यागतस्यांशः प्रदातव्यो न संशयः ॥ ( व्यवहारमयूखे पृ. १०१, देवलः
 
 [^135]: "यस्तीर्थसम्मुखो भूत्वा व्रजन्ननशने कृते । चेन्द्रियेदन्तराले तु ऋषीणां मण्डलं व्रजेत् ॥ Mitramiśra (p. 42
-
-
 
 Even those who travel to *tīrthas*, at the expense of others or deputise for others for a remuneration, acquire some punya from the act[^136].
 
@@ -800,8 +625,6 @@ TĪRTHA-NIYAMA-TONSURE
 
 [^140]: " See infra. 27."
 
-
-
 INTRODUCTION
 
 *tīrthas*, and *tīrtha-upavāsa* is optional because it is only intended for additional efficacy of the pilgrimage (*inf*. p. 11). Mitramiśra, dissenting from Lakṣmīdhara, holds that both tonsure and fast are indispensable elements of *tīrtha-snāna*(pp. 34, 48 and 51) on the ground of their adoption by *śiṣṭas*(pious and learned men). Vācaspatimiśra is also criticised by Mitramiśra (following Nārāyaṇa Bhaṭṭa) for holding that tonsure is unnecessary before a bath in the Ganges, on the ground that the text on which the former relied is corrupt and substitutes Gayā and Gaṅgā for Kurukṣetra, and that the general rule that 'what applies to Prayāga applies to all *tīrthas*' (*sarva-tīrtheṣu ayam vidhiḥ*) extends the ritual of *Prayāgasnāna* to all holy places.
@@ -817,8 +640,6 @@ INTRODUCTION
 [^144]: "ibid., p. 41."
 
 [^145]: "ibid., p. 59."
-
-
 
 ed[^146].  —यतिः शूद्रश्च विधवा सशिखं वपनं चरेत्,  and critises Vācaspatimiśra for rejecting tonsure before a bath in the Ganges.").Bathing was enjoined immediately on attaining a *tīrtha* even if it be night, when ordinarily a bath in a river is objectionable[^147].A bath at a *tīrtha* alone is allowed in *malamdāsa*(i.e. a month in which two new-moon days occur) when sacred acts are ordinarily void[^148].The rule of Śaṅkha-Likhita, cited by Lakṣmīdhara in another section of his nibandha, prohibiting the passing of a river without performing *pitṛ-tarpaṇa* was stressed[^149].The *tarpaṇa* is to be done even at night (*ib*. p. 68). It should be done immediately after the bath[^150].But anchorities,even though allowed to make pilgrimage, are not to perform *tarpaṇa*. The credentials of a Brahman engaged for a ś*rāddha* at a *tīrtha* are not to be scrutinised[^151].  This exempts the piligrim from the scrutiny hemustmake of the fitness of the person to whom he makes gifts or invites to Sraddhas. (See ब्राम्हणरीक्षाin पराशरमाधविय, I, ii,pp. 336-361.)").A ś*rāddha* at a *tīrtha* is not to be done at night by the Vaidikas. It maybe done even by persons whose parents are alive[^152].
 
@@ -839,9 +660,6 @@ ed[^146].  —यतिः शूद्रश्च विधवा सशिख
 ADDITIONS TO TIRTHA RITUAL
 
   The rules for the completion of a visit to a *tīriha* were enlarged by the introduction of a number of prescriptions drawn from analogy.The *tīrtha*, being divine, confers merit on those who go round its bounds, walking from the left to the right (*pradakṣiṇam*). In the case of Kāśī, perambulation of the “sacred way” (*Pañcakrośī*) is prescribed by the *Kāśīkhaṇḍa*, and it is euologised by Nārāyaṇa Bhaṭṭa and  
-
-
-
 
 INTRODUCTION
 
@@ -869,8 +687,6 @@ A river which does not flow into the sea gives by bath in it the merit of three 
 
   This rule enables Mitramiśra to bring in many local divinities like Bhairava, (p. 208), the fifty-six Gaṇeśas of Kāśī (p. 239), Duṇdi (p. 212), the twelve Ādityas (pp. 272-277) and Caṇḍikā (p. 277). Most of them find no place in Lakṣmīdhara's work, and the existence of their shrines at Kāśī in the twelfth century is open to doubt.
 
-
-
 going river, that of a *pakṣa*, and the ocean that of a month[^160]. Lakṣmīdhara ignores all such rules.
 
 [^160]: "ibid., 9. 2134."
@@ -887,8 +703,6 @@ OCCASIONAL TĪRTHAS
 
 [^165]: "स्कन्द्पुराणे—  “अर्द्धोदये तु संप्राप्ते सर्वे गङ्गासमं जलम्‌ । शुद्धात्मानो द्विजाःसर्वे भवेयुर्ब्रह्मसम्मिताः ॥ यत्किंचित्‌ कुरूते दानं तद्दानं सेतुसन्निभम्‌ ।"
 
-
-
 every well, pool, tank or river gains the virtues of the Ganges[^166]— स्वर्धुन्यम्भःसमानि स्युः सर्वाण्यम्भांसि भूतले । कूपस्थान्यपि सोमार्कग्रहणे नाऽत्र संशयः ॥ स्वर्धुनी = देवनदी = गङ्गा.").Another combination which requires the conjunction of the planet Jupiter and the constellation *Maghā*. It happens only once in twelve years, and is viewed as endowing certain tanks with the virtues of all holy rivers, beginning with the Ganges. On the rare occasions when it recurs, the place where the tank is situated attracts immense numbers of bathers[^167] to take place. It attracts immense crowds.").Such *tīrthas* should be regarded as occasional *tīrthas*, but ordinaryworks on *tīrta-yātrā*do not take note of them. If on such occasions, every river or tank gains the virtues of the Ganges, the Ganges itself must be more powerful for good than usual andabath in it be priceless. Gifts made and prayers uttered on such occasions are very powerful in their effects. The bearings of astronomical conjunctions on the sanctity of *tīrthas is*further indicated by Purāṇic specification of certain times as specially good for certain rivers, and as periods of impurity for them for three days, owing to *rajodoṣa*. The Ganges is however always pure.
 
 [^166]: "तिथितत्त्वेच्छन्दोगपरिशिष्टः (I, p. 153
@@ -901,8 +715,6 @@ TĪRTHAS: THEIR NUMBER AND CLASSIFICATION
 
 rāṇas and the Mahābhārata make a considerable number. The *Śabda-kalpadruma*, which has utilised this form of literature more than any other indigenous work of reference, gives a list 264
 
-
-
 *tīrthas* arranged in the order of their due perambulation from the left to the right. Thirty-five millions of *tīrthas* are said to exist in the three worlds (*bhuvi, divi, antarikṣe*). Many *tīrthas* are named in one and the same locality. As many as 300 have been named at Kāśī alone. The number of independant *tīrthas* named in Lakṣmīdhara's work does not fall short of this figure. But, in accordance with the aim implicit in the title he gave to his treatise, *viz*., *Tīrtha-vivecana*, he has freely exercised the power of selection and rejection. He omits whole areas, and his example is followed by later writers. Someśvara III (1127-1138), the son and successor of Govindacandra's rival Vikramāditya VI, composed an encylopaedic work named*Mānasollāsa* or *Abhilaṣārtha-cintamāni*[^168].His treatment of *tīrtha-snāna* is interesting[^169]").The indication of *tīrthas* is prefaced by a declaration, that tapas can accomplish everything that a pilgrimage to distant and inaccessible *tīrthas*can accomplish (v. 122). The rivers named are the Ganges, "the best of rivers," the Jumna, the Narmadā, the Tāpī, the Gotamī (Godāvarī), Pañjarā (Paingangā?), the Bhīmarathi (Bhīmā), Kṛṣṇaveṇī (Kṛṣṇā), Bṛhannadī(Mahānadī), the Malāpahāriṇi (Malparbha) at its junction with the Kṛṣṇāand the Tuṅgabhadrā, and “other rivers." It is noteworthy that all these were within his dominions. Famous rivers like the Kāverī and the Tāmraparṇī, which run through the dominions of the Colas, the hereditary enemies of the Cālukyas, are ignored. Prabhāsa in Gujarat, Kedāra, Prayāga, the river Sarasvatīand the "very sacred" (*mahāpuṇyā*) Vārāṇasī are mentioned in a way that betrays absence of personal knowledge. Compared with Lakṣmīdhara's list that of Someśvara is very meagre, but it suggests an underlying principle in selection, *viz*. recommendation of easily accessible places or rivers. The same principle rules the major *tīrthas* named by Lakṣmīdhara and explains his omissions. Vācaspatimiśra brings in the famous *tīrthas* of Utkala, particularly Puruṣottma-kṣetra
 
 [^168]: "Ed., Mysore, pp. 122-131."
@@ -913,19 +725,13 @@ rāṇas and the Mahābhārata make a considerable number. The *Śabda-kalpadrum
 
 2\. The first part is published by the Mysore University, 1926. Two volumes have been edited by G. K. Shrigondekar in the Gaekwad's Oriental Series, 1925 and 1939.
 
-
-
 (Pūri-Jagannāth). In the days of Mitramiśra several *tīrthas*, which were frequented in the twelfth century, had disappeared. Not only had new *tīrthas* come to notice, but new shrines in ancient *tīrthas* like Kāśī, and he duly commemorates them. Nārāyaṇa Bhaṭṭa carries selection to an extreme by dealing with only three *tīrthas*, namely Prayāga, Kāśī and Gayā, which were still living places of pilgrimage whose sanctity received universal homage. The relative space devoted to each *tīrthas* reflects the predilections of the authors. In *Tristhalīsetu*, nearly two-third (244 pages) is taken up by Kāśi, a fifth by Prayāga and one-sixth by Gayā. Mitramiśra devotes also the largest space given to any single *tīrtha*to Kāśi (184 pages). His next largest sections are those dealing with Gayā and Prayāga, and he gives a separate chapter to the Ganges (pp. 355-375). To a Maithila like Vācaspatimiśra, Gayāand the *kṣetras* and *tīrthas* of Utkala are more attractive, and of course the Ganges, which is a common attraction. Only a fifth of the *Tīrthacintāmaṇi* is taken up by Kāśī and Prayāga, while Utkala covers nearly two-fifth of the work. The Ganges and Gayāreceive more generous treatment than Prayāga the"king of tirthas" (*Tīrtha-rāja*) and Kāśī the city of Viśveśa. The preferences are suggestive.
 
 **TIRTHA-VIBHAGA**
 
-  
-
 An ancient classification of *tīrthas* is given in the *Brahma-Purāṇa[^170]*.*Tīrthas* are of four kinds: *Daiva, Āsura, Ārṣa* and *Mānuṣa,*according to their origin. The first consists of sacred places revealed by Brahmā, Viṣṇu or Śiva. If the three gods have all sanctified a *tīrtha* it attains the utmost sanctity. Kāśi, Puṣkara and Prabhāsa are illustrations. The Sarasvatīsprings from Brahmā, the Ganges from Viṣṇu and the Narmadāfrom Śiva. Among *tīrthas* called *Daiva* are the Ganges, the Jumna, the Sarasvatī, the Jhelum and the Beas (*Veṇikā*) and among the rivers south of the Vindhyas the Godāvarī, Bhīmā, Tuṅgabhadrā, Kṛṣṇa-veṇī (*Veṇikā*), Tapti, and the Pain-Ganga (Payoṣṇī). Reservoirs, which are not due to human labour, are *Daivakhāta* ("dug by gods"). Gayāis an *Āsura-tīrtha*. *Ārṣa-tīrthas* derive their holiness from sages (ṛṣi). "Human" *tīrthas* are those made holy by rulers of the solar and lunar dynasties.
 
 [^170]: "LXX, 16, ff."
-
-
 
 **EXCLUDED AND HOLY AREAS (VARJYA PRAŚASTA-DEŚĀḤ)**
 
@@ -941,8 +747,6 @@ An ancient classification of *tīrthas* is given in the *Brahma-Purāṇa[^170]*
 
 [^175]: "Tīrthaprakāśa, p. 38. The familiar verse   कर्मनाशाजलस्पर्शात् करतोयाविलङ्घनात् । गण्डकीबाहुतरणात् पुनःसंस्कारमर्हति ॥   is read by them, transposing the two first rivers."
 
-
-
 COMMENDED TIRTHA PRACTICES
 
   In a general review of *tīrthas* some common features emerge. Baths, vows, prayers, gifts and funeral ceremonies like *piṇḍa-dāna*, *tarpaṇa* and *śrāddhas* are usually recommended for performance at almost every important *tīrtha*. Propitiatīon of the divinity resident in a *tīrtha* is done by chanting its name during the journey, by recalling to the memory its sanctity, by cultivating devotion to it and by making *pūjā* to it[^176].Today a picturesque custom is the evening hārati (waving of lamps) to the Jumna at Muttra. The Ganges receives *pūjā* from almost every pilgrim, and flowers, cocoanuts, fruits and *tāmbūla* are ceremoniously thrown into a *tīrtha*. Milk and flowers are thrown into the lake at Puṣkara. Strings of names of the great *tīrtha* are recited. The mud of the Ganges and its waters are believed to possess sovereign virtues[^177].The sale of *Gaṅgā-jalam* is prohibited, though it is now commonly done[^178].Sweeping the streets of Kāśī is meritorious (*inf*. p. 22). In the normal funeral rites, the bones which remain after cremation of the dead body are collected and buried in a pot in the bed of a running stream. The throwing of such bones into the Ganges is specially recommended[^179],and it harks back to the legendary origin of the mighty river, and its invitation to the world by Bhagīratha for conferring *mokṣa* on his condemned ancestors by flowing over their ashes. Special ritual for the throwing of the bones into the water of the Ganges (*asthi-prakṣepaṇa-prakāśa*) are given in the manuals on pilgrimage[^180].While under a taboo which interdicts his pilgrimage one who has lost a parent or any other relation for whom funeral ceremonies have to be performed by him, is still allowed to make the journey to the banks of
@@ -956,8 +760,6 @@ COMMENDED TIRTHA PRACTICES
 [^179]: "e.g., infra p. 160,"
 
 [^180]: "e.g., Tīrthaprakāśa, p. 374; Tīrthacintāmaṇi, pp. 262-264."
-
-
 
 the Ganges for the sole purpose of depositing the bones into the sacred stream, within the interdicted first year after death[^181].").The glory of Kāśī is its being a grand crematorium (*mahāśmaśāna*[^182].) The banks of the Ganges at Benares are studded with cremation grounds. As other attractions of the holy river and "the city of Śiva"include dying within its bounds and on the banks of the Ganges, the creamatoria are often crowded, and funerals are apt to be delayed. By a special dispensation allowed only to Kāśīthe ordinary interval between a cremation and the collection of the mortal remains that remain after it (*asthi-sañcayana*) is abbreviated, and that ceremony is allowed to be done immediately after the body is devoured by the fire.
 
@@ -975,8 +777,6 @@ the Ganges for the sole purpose of depositing the bones into the sacred stream, 
 
 . He is interdicted from undertaking the *annual* perambulation of the *fifty-krośa* pathwhich forms "the sacred way," that encircles the city, because in doing it, he may have to cross the strict boundaries
 
-
-
 of Kāśi[^186].These rules seem to have been gradually evolved, and find their culmination in the *Kāśīkhaṇḍa* of *Skandapurāṇa*. That some of them were *not* in force in the twelfth century is to be inferred from the silence of Lakṣmīdhara about them, in spite of the great space assigned to Kāśi in his work. The result is that Kāśi has long been a city of the living as well as a city of the dying and the dead. A considerable section of its population has been made up of floating elements, and a large proportion of its inhabitants has been awaiting the advent of death. *Tīrtha* literature endeavours to banish the fear of death in the devout. For no *tīrtha* is it done so thoroughly by suggestion, recommendation and rule as for Kāśi. A cremation ground conveys impurity to all who tread it[^187].Kāśī, the greatest cremation ground of all[^188], is the exception.
 
 [^186]: "Tirtha-prakāśa, p. 166:  'मध्ये कुर्यादसीवरणयोः कृती' इति संन्यासिनोऽसीवरणोलङ्घननिषेधः ।एतानि वचनानि कल्पतरुकारादिभिरलिखितानि ॥"
@@ -991,8 +791,6 @@ of Kāśi[^186].These rules seem to have been gradually evolved, and find their 
 
 [^190]: "Artha-śāstra, IV, 7, cited in my Rājadharma, pp. 180-187"
 
-
-
 commit *mahāpātakas* (cardinal sins[^191]).Such persons should not be cremated nor should the usual funeral rites be performed for them. This is the rule. To it five exceptions arestated in the Purāṇas and Smṛtis (1). Sati or self-immolation of women, either with (*sahamaraṇam*) or after (*anumaraṇam*) the cremation of their husbands comes first (2).Suicide by drowning is not only permitted but enjoined at the confluence of the Ganges and the Jumna at Prayāga, and as sanction for it a verse in *Ṛg Veda* ( khila ) is cited[^192].
 Selfcremation at one of the *tīrthas* is also commended. Among other commended forms suicide are hanging head-downwards over a blazing fire and cutting up one's flesh and offering it to birds of prey. The inducements held out are happiness and sensual enjoyments in another world, for thousands of years and lordship of India after re-birth. Death by fire self-lit at Avimukta (Benares ) is said to free from re-birth the person who so ends his life[^193].Death by slow starvation is also lauded as capable of conferring salvation. (3) The Purāṇas permit persons, who suffer from incurable diseases, or who are too old to do their appointed religious duties, to terminate their lives voluntarily by drowning, starvation, falling from cliffs, or self-cremation[^194].(4) It is specially recommended for
 
@@ -1004,13 +802,9 @@ Selfcremation at one of the *tīrthas* is also commended. Among other commended 
 
 [^194]: "आदिपुराणे यथा- वृद्धः शौचस्मृतेर्लुप्तः प्रत्याख्यातभिषविक्रयः । आत्मानं घातयेद्यस्तु भृग्वग्न्यनशनादिभिः ॥ तस्य त्रिरात्रमाशौचं द्वितीये त्वस्थिसंचयः । तृतीये तूदकं कृत्वा चतुर्थे श्राद्धमाचरेत् ॥"
 
-
-
 ascetics. The case of Kalanos, the Indian ascetic, who burnt himself over a pyre in the camp of Alexander the Great, is an instance in point. (5) Terminating one's life towards the end by *mahā-prasthāna* is a recognised form of exit from this vale of misery. Lakṣmīdhara devotes a chapter (the last) to this kind of journey (yātrā). The pilgrim walks on till (yātrā). he drops down dead or he loses his life by fire or in the Himā- layan snow (*inf*., p. 258). Suicide by fire and by falling from a cliff is brought under *mahāpatha-yātrā*, i. e., "journey by the wide path" by Lakṣmīdhara. *Tristhalīsetu* and *Tīrthaprakāśa[^195]*discuss at some length the apparent conflict between the inhibition of suicide in general and its commendation when done at Prayāga, the Ganges etc. Nārāyaṇa Bhaṭṭa regards death at Prayāga or by suicide in one of the indicated ways as an inferior way of death, and as dictated by the desire for a definite gain (*kāmya-phala*), and not by the desire for *mokṣa*. It is therfore like the condemned *śyenayāga*, indicated for the attainment of a definite object, *viz*., destruction of an enemy, but not a commendable ceremony. Mitramiśra brings such forms of suicide as falling from a cliff and self-cremation under the practices interdicted for Brāhmaṇas in Kali Yuga (p. 354). Lakṣmīdhara underlines the practices. The writers of the 16th and 17th centuries (who are divided in opinion on the obligatory nature of *sati*) are united in explaining away the time-honoured forms of self-slaughter at Prayāga, in the Ganges and at Kāśi. The progress of opinion against forms of religious suicide, as against *sati*, is noteworthy. Suicide at Pehoa near Thanesar (Pṛthūdaka) (inf.. 180) is mentioned by Lakṣmīdhara, in a quotation from the *Mahābhārata*, but he does not mention the merit of suicide at Kurukṣetra, which is recommended by *Liṅgapurāṇa*, of which he makes extensive use in treating of Benares. But Mitramiśra cites this passage (p. 475, op. cit.). Suicide by fire or water, and above all by *bhṛgu-patana* (falling headlong from a cliff) at Amarakaṇṭaka is mentioned by Lakṣmīdhara (inf., p. 200). These suicides are different from those prescribed by the *smṛtis* as expiation for *mahāpātakas*, since a pilgrim must already possess the moral qualities specified, which alone make his pilgrimage fruitful. Inscriptions give instances of historical personages.
 
 [^195]: "Tristhalīsetu, pp. 290-316 and Tīrtha-prakāśa, pp. 242-248, 342-347 and 372-373."
-
-
 
 who, even within a generation or two of Lakṣmīdhara, sought this release[^196]; and Epigra- phia Carnatica, II, Sk., 136 (suicide of the Cālukya king Someśvara Āhavamalla in the Tuṅgabhadrā, 1068 A.D.).").
 
@@ -1030,8 +824,6 @@ DETAILED CONSIDERATION OF TIRTHAS
 
 [^199]: "Jātaka, 161, 165, 173, 175, 180, etc."
 
-
-
 from Kāśī retired to Himalayan forests for this purpose. The practice had obviously changed. The Gāhaḍvālas take pride in styling themselves protectors of Kāśī, Kuśika, Indraprastha, and Ayodhyā, even more than as kings of ancient Kanauj[^200]—  येनोद्धारितरप्रतापशमिताशेषप्रजोपद्रवं श्रीमद्गाधिपुराधिराज्यमसमं दोर्विक्रमेनार्जितम् ॥ तीर्थ काशि- कुशिकोत्तरकोसलेन्द्रस्थानीयकानि परिपालयिताधिगम्य । हेमात्मतुल्यमनिशं ददता द्विजेभ्यो येनाङ्किता वसुमती शतशस्तुलाभिः ॥").Lakṣmīdhara himself refers to Govindacandra as *Kāśīpati*[^201]. See pp. 48-49, Introduction to Dāna-kalpataru.").Many of the Gāhaḍvāla grants were issued from Kāśī. Rājghāt, now at the northern end of the city, was in all probability the ward in which the kings of the dynasty dwelt. This would explain more convincingly than an assumption of Vaiṣṇava leanings of the eclectic kings of a city dedicated to Śiva[^202],the circumstance that many of the gifts, recorded in the grants. of not only Govindacandra but of his father Madanapāla, and his grandfather Candradeva, and his grandson Jayacandra were made at the ancient shrine of Keśava, at the confluence of the Varaṇā and the Ganges, at the northern edge of the fort at Rājghāt. Some of the grants show that they were made at shrines in Kāśī dedicated to Śiva, like Vedeśvara, Trilocaneśvara, Aghoreśvara, Kṛttivāseśvara, Indreśvara, Omkāreśava, Svapneśvara, or to Sūrya, like Lolārka, at the confluence of the Asī and the Ganges at the south end of the city. Koṭitīrtha is mentioned in an inscription of Govindacandra as the place at which he bathed before making one of his many grants. Everyone of these sites or shrines is among the *tĪrthas* of Kāśi mentioned by Lakṣmīdhara. From the tenth century onwards, inscriptions in even distant South India bear indirect testimony to the supremacy of Kāśi among holy places by regarding as the deadliest of all sins the slaughter of Brahmans and cows at Kāśi[^203].
 
 [^200]: "Candradeva, Govindacandra's grand father, is thus described in an inscription of A. D. 1097, (Indian Antiquary, XVIII, pp. 9-14
@@ -1041,8 +833,6 @@ from Kāśī retired to Himalayan forests for this purpose. The practice had obv
 [^202]: "A. S. Altekar, History of Benares, p. 28."
 
 [^203]: "Ibid., p. 26."
-
-
 
   This pre-eminence in sanctity was evolved in the course of centuries. The name Kāśī itself, in spite of the ingenious etymologies[^204],suggested or popularised after it became the spiritual capital of India, is derived from Kāśa, seventh in descent from Purūravas, grandson of Manu, who is said to have founded the kingdom[^205].Among his successors was Dhanvantari, the founder of Indian medicine. In the Upaniṣad, Kāśī appears as the capital of Ajātaśatru, a philosopherking[^206].").In earlier Vedic literature it does not figure, except as a remote place. In the days of the Buddha, it was just a big town, though his selection of Sārānth on the environs of the city, for his first sermon might indicate that it had spiritual qualities. The Gṛhyasūtra of Hiraṇyakeśin names Kāśiśvara among the gods to be worshipped along with Viṣṇu, Rudra, Skanda and *Jvara* (fever)[^207].It would prove the worship of Śiva at Benares in the fifth century B.C. The last name recalls the exorcism in the *Atharvaveda*[^208]"),banishing a fever to those who live in Kāśī, Magadha and Gāndhāra. They were all perhaps infested by malaria. *Manusmṛti* places the eastern limit of *Madhyadeśa* at Prayāga, and Kaśī is well out of the area[^209].Kāśī is not among the *tīrthas* of which a long list is given in *Viṣṇusmṛti*, at which the performance of śrāddha, the muttering of prayers, the offering of burnt-oblations and the practice of austerities "confers eternal bliss" (ch. 81). The only reference to Kāśī (under its other name Vārāṇasī) in the *Mah*ā*bh*ā*rata* occurs in Pulastya's enumeration of *tīrthas* in ch. 82 of the *Tīrtha-y*ā*trā-parva* of the Vanaparva. It lies in a single śloka stating that one may proceed after Koti- tīrtha to Vārāṇasī, worship Śiva (*Vṛṣabha-dhvaja*) and attain the merit of performing a horsesacrifice by bathing there in Kapilāhrada. He should then proceed to the confluence of the
 
@@ -1058,8 +848,6 @@ from Kāśī retired to Himalayan forests for this purpose. The practice had obv
 
 [^209]: "II 21."
 
-
-
 Gomatī(Gumti) and the Ganges, and visit Mārkaṇḍeya-tīrtha situated there. This is how the passage runs in Lakṣmīdhara (inf, pp. 940-1). The Kumbakonam edition of the Mahābhārata, however, has three lines between the above two verses. They state that a pilgrim (*tīrtha-sevī*) who goes to Avimukta (Kāśi) is released from the 'sin of killing a Brahman (*Brahmahatyā*), and the man who dies there attains *mokṣa*'. That these lines were interpolated after the twelfth century is evident from Lakṣmīdhara's omission to include them in his citation. That, however, before the third century A. D. Kāśi had become a notable place of pilgrimage, specially valuable for the performance of Vedic sacrifices, is clear from epigraphic testimony. The devout Śaivas, the Bhāraśivas, performed horse sacrifices and had lustral baths at Daśāśvamedha on the Ganges at Kāśi[^210].In the first century A.D., Benares was within the dominions of the Kuśaṇas, and a viceroy ruled over it[^211].To Kāśi its pre-eminence was really the gift of the Purāņas which undertook to spread the cult of Śiva. Beginning by stressing (as did the later *Bhaktim*ā*rga*) the inferiorityof Vedic sacrifices as compared to devotion to God (Śiva), they ended by making the city of Śiva' (Ś*ivapurī*,. i. e. Kāśi) the best place for the performance of those sacrifices. In this syncretism of Vedic and non-Aryan cults at Kāśī lay the secret of its wide appeal. and its rise to the first place among our *tirthas*[^212]").  
   The nominal capital of the Gāhadwālas was Kanauj. But before they took it, it had suffered from enemy attacks, both Hindu and Muslim. It had been sacked by the Rāṣṭrakūṭa Indra III about 916 A. D. It was again destroyed by Mahmūd of Ghazni in 1018 A. D. It was too near the Muslim frontier.
 
@@ -1068,8 +856,6 @@ Gomatī(Gumti) and the Ganges, and visit Mārkaṇḍeya-tīrtha situated there.
 [^211]: "Altekar, op. cit., p. 18."
 
 [^212]: "Dr. A. S. Altekar maintains that Śiva was orginally the the non-Aryan God of Kāśī, who was opposed to Vedic rites. The incidents of Dakṣa-yāga, as recounted in the Śaivite purāṇas emphasize this antagonism. Kāśi was the shrine of Maheśvara in the 7th century A.D., (Beal's Si yu ki, II, pp. 44-55.
-
-
 
 The situation of Benares made for greater safety[^213].After having been for centuries an important centre of trade and industry, it became under the Gāhadwalas the virtual capital of an expanding kingdom. Even in the eighth century, its wealth and reputation as a holy place made it the gathering place ail sorts of persons. The satire of Dāmodaragupta has pictured the gay life of the rich and luxurious city which then, as now, attracted the *demi-monde*, although it was  
 a great *tīrtha*[^214]. Damõdaragupta, who lived in Kāṣmīr in the reign of Jayāpīḍa (779-813 A. D.), works on the idea of their attaining Sāyujya (likeness) with Śiva, and lays the scene of his poem in Kāśi.").Lakṣmidhara's treatise on tirtha seems deliberately to aim at the magnification of Kāśī. As neither his king nor he were worshippers of Śiva by choice, his euology of Kāśī looks like propaganda. The powerful Karṇa of Cedi, whose territories were partially conquered by Govindacandra, had built, or perhaps re-built the Karṇeśvara temple at Kāśī, attracted doubtless by its name[^215].").The desire to be remembered at a spot which all India visits is natural. Mān Singh of Jaipur is reported to have attempted this by vowing to erect a hundred-thousand shrines in one day "by cutting out on blocks of granite a great many tiny carvings each repre- senting a temple." About 340 shrines are named by Lakṣmīdhara at Kāśi[^216].He probably made an exhaustive enumeration. Many shrines, which he has not mentioned, came to view or were erected after his time, and are noticed in the works of Nārāyaṇa Bhaṭṭa and Mitramiśra. In his capital (*r*ā*jadhānī*) Śiva must have the full complement of his *parivāra* (retinue) Among them the chief are his consort Pārvatī, known by many names, Nandī, Vināyaka and Bhairava. In the old Liñgapurāṇa accounts, which are utilised by Lakṣmīdhara, the diffe-
@@ -1081,8 +867,6 @@ a great *tīrtha*[^214]. Damõdaragupta, who lived in Kāṣmīr in the reign of
 [^215]: "A. D. 1042: Jabālpur copper plate of Karṇadeva of Cedi (Epig. Ind., II, 297; XII, 212
 
 [^216]: "See Appendices B and D."
-
-
 
 rent deities, male and female, nāgas, asuras and sages, vie with one another in installing *liṅgas* in honor of Śiva within the sacred bounds of Vārāṇasī. The list of founders. of such shrines virtually includes every Purāṇic celebrity. The planetary deities are among the devotees of Siva who have done the pious work. In process of time, those who founded such shrines, came themselves to be worshipped at them. Thus Śani (Saturn)is said to have dedicated a *liṅga* near old Viśveśvara, and the shrine was named as that of Śanaiścareśvara (the Śiva of Saturn[^217]).In the shrine only Saturn is now worshipped.
 
@@ -1097,8 +881,6 @@ rent deities, male and female, nāgas, asuras and sages, vie with one another in
 [^220]: "Infra, p. 34."
 
 [^221]: "See Tirthaprakāśa, p. 272."
-
-
 
 in Käsi. In the Kaśikhanda their number has gone up to fifty-six and the pious pilgrim is exhorted to remember allto ensure that he does do not encounter any misfortune in the course of his journey[^222].
 
@@ -1116,25 +898,21 @@ in Käsi. In the Kaśikhanda their number has gone up to fifty-six and the pious
 
 [^217]: "Infra, p. 67."
 
-
-
 Mandāragiri. The force of the assertion is brought out by reference to Śiva as *sannihita*, ever present, at the *tīrtha*. Lakṣmīdhara himself uses the name Kāśī only in a "civil" or secular sense.
 
   The name *Ānandavana*, which occurs in the formulæ of all rites at Kāśī now-a-days, does not occur at all in the *Kalpataru*. The minimum baths prescribed now are in five places (*pañca-tīrtha*), and there is a prescribed order to be followed in going round the shrines.[^226]In Lakṣmīdhara's time the order was different, and the pilgrim took the route laid down by the*Liṅgapurāṇa*.[^227]
 
 [^226]: "infra, pp. 121-3."
 
-VISVESVARA
-
 [^227]: "infra, pp. 17, 27, and 93."
+
+VISVESVARA
 
   The most important shrine and *liṅga*, since at least the sixteenth century when Nārāyaṇa Bhaṭṭa induced Toḍarmāl to reconstruct the temple of Viśveśvara, (c. 1586 A.D.) which had been destroyed at least twice before his time, was that of Viśveśvara. In the twelfth century there was indeed a shrine of Višveśvara; but, judging from Lakṣmīdhara's allusions, it[^228]. (आवश्यकतीर्थानि).")was only one of many holy places in the sacred area, with no superior sanctity as compared with the others. This preeminence is given to the *svayambhū-liṅga* of Avimukteśvara, which had revealed itself by piercing its way through the ground (*inf*. p. 41). Of the three mentions of Viśveśvara in the *Kalpataru*, one (*inf*. p. 17) is probably an interpolation, as it occurs only in one manuscript, the second (*inf*. p. 27) merely refers to Śiva or Avimukteśvara descriptively as 'Lord of the Universe', and the third (*inf*. p. 93) makes it an ordinary *liṅga*, like hundreds of others, whose *darśana* confers a *lower* benefit than *mukti*. Viśveśvara had, however, come into prominence before the fifteenth century, when Vācaspati Miśra wrote, as he reconciled the new cult of Viśveśvara with the older of Avimukteśvara by identifying the two, as *both* were represented as the lords of Kāśī[^229].As the *Kāśikhaṇḍa*, (the
 
 [^228]: "Tīrthaprakāśa, p. 212 (rif
 
 [^229]: "Tīrthacintāmaņi, p. 360:   अविमुक्त-श्मशानोभयसंज्ञके क्षेत्रे शिवस्थापितम् अविमुक्तेश्वरं लिङ्गं विश्वनाथनाम्ना लोकप्रसिद्धम् ॥"
-
-
 
 chief work that spread the Viśveśvara legends and pre-eminence in Kāśī), was popular enough to be translated into Telugu by Śrīnātha (c. 1440 A. D.), it is clear that by that time atleast the cult was well-established. By the middle of the sixteenth century the entire body of legends, including those relating to Kāśī as *Ānandakānana*, was accepted all over India, and the chapters on the *Ānandakānana-māhātmya* in the *Vāyupurāṇa* were translated into Telugu, by Liṅgamaguṇṭa Rāma Kavi, a son-in-law of the famous Telugu poet Tenāli Rāmayya. It is worthy of note that manuscript and printed versions of the *Kāśikhaṇḍa* are current in South India, which do *not* contain the *Pañcakrośī-māhātmya*, which occurs in Śrīnātha's free version of that section of the *Skandapurāṇa*, and that the text of the *Vāyupurāṇa* current in South India does *not* contain the section translated by Rāma Kavi[^230].
 
@@ -1146,8 +924,6 @@ chief work that spread the Viśveśvara legends and pre-eminence in Kāśī), wa
 
 [^232]: "Tirthaprakāśa, p. 219. But he adds: दुर्दान्तम्लेच्छादिवशात् तत्र लिङ्गाभावे स्थानप्रदक्षिणेनैव नित्ययात्रा सिध्यति । स्नपनादिकं तु तदा निरधिष्ठानत्वात् निवर्तत इति शिष्टाः ॥  Mitramiśra follows Nārāyaṇa Bhaṭṭa who remarks;-"
 
-
-
 ful if the present shrine of Viśvanātha stands on the site of that of the original Avimukteśvara or even of the less important Viśveśvara known to Lakṣmīdhara. It is worthy of remark that among the numerous grants of the Gāhadwālas, which were issued from Kāśī, and which specify the *kṣetra* at which the donor worshipped after bath, there is mention of Viśveśvara in only *one* grant, and that in a context which suggests that the name was used merely as a synonym for God.
 
   Other results of the comparative study may be briefly indicated. Maṇikarṇikā-kuṇḍa is mentioned, but not so as to suggest for it the high sanctity now attributed to it. (*inf*., pp. 103-121). Daśāśvamedha is mentioned both as a *tīrtha* at which a bath is enjoined (p. 237 *infra*, on the authority of the *Vāmanapurāṇa*) and as the shrine of a *liṅga* of the name (*inf*. 116). The now famous *via* *sacra* of Benares, the fifty miles long *Pañcakrośī* and the obligation to make its perambulation annually are not mentioned at all by Lakṣmīdhara. It is very probable that neither the "sacred way" nor its shrines were in existence even after the twelfth century, and there was for a long time after it no obligation to make its peregrination. A *tīrtha-pradak-ṣiṇa* is part of a pilgrimage, as the *tīrtha* is a divinity. There are those who attempt a circum-ambulation of all *tīrthas* (as was done by Caitanya and Rāmadāsa Samartha Svāmin in the 5th and 17th centuries). Where, as in Kāśī, numerous sacred pools and objects worship are crowded into a narrow area six miles by one and a half, a practice of making a circuit of them may have arisen and then crystallized into an obligation to do so by a prescribed route[^233].
@@ -1158,11 +934,7 @@ ful if the present shrine of Viśvanātha stands on the site of that of the orig
 
 [^234]: "Tīrthaprakāśa, p. 221."
 
-
-
 of salutation must be made to the spot only. By that action the fruit of the pilgrimage is attained. The *abhiṣeka*, etc., which can only be done (to the *liṅga*) can of course not be done." (*Tristhalīsetu*, p. 208)
-
-
 
 *Śṛngāra*, *Āiśvarya* and *Jñāna maṇḍapas[^235]*,the *Jñāna-vāpī*[^236],and the shrines of Maṅgaḷa Gaurī, Bhavānī, Śūlaṭanka, and the three Vaiṣṇava shrines dedicated to Vidāra and Lakṣmī-Nara-siṁha, Gopī-Govinda, and Kiṇo-Varāha[^237].The cult of the black, (kāla) Bhairava at Kāśī is unknown to Lakṣmīdhara, though he describes the rites of suicide by fire, after worshipping a picture of Bhairava[^238](*inf*., pp. 258-262). Śiva's queen at Kāśi is Viśālākṣī, though a shrine of Lalitāas Mukhaprekṣaṇī is also named[^239].").
 
@@ -1182,8 +954,6 @@ of salutation must be made to the spot only. By that action the fruit of the pil
 
 [^241]: "Tirthaprakaśa, pp. 2137-8. The mantra is “ओं श्री रामाय नमः । ओं श्री राम राम राम."
 
-
-
 himself is an irresistible inducement for those who expect the approach of death to make Kāśī their home. This plenary indulgence is enjoyed by no other *tīrtha*. It is only at Kāśī that mere death grants release from rebirth. In the face of so wide a guarantee, it would seem unnecessary that one should go to all the other tedious preparations to secure the same end by baths, fasts, vows, sacrifices and prayers. That they also are recommended is due to the obvious need to provide different means of conviction to natures of varying moral and spiritual calibre. As the privilege is restricted to deaths *within* the holy area, the determination of its bounds becomes a necessity. This is done by the name of the city itself, *viz*., *Vārāṇasī,* the *enclave* between the Varaṇā(Barņā) and the Asī(or Śuṣkanadī, the dry stream[^242]).Few cities have changed their limits so little through the ages as Benares has done[^243] in length and about 6 lis (nearly a mile) in width. ").Its situation on a long, narrow ridge, forming a crescent within which the great river makes a wide sweep towards north, and provides deep water close to the northern bank, well above high-water mark has made its length greater than its width. Kāśi's location contributes to its beauty, especially as one first sees it on an approach from the southern shore. The magnificent river front, which is Kāśi's glory, makes one's first sight of it unforgettable. The great flights of steps, which lead down to the edge of the water, probably existed, more or less as at present, centuries ago, and the city was then, as now, filled with rest houses and free feeding places. This may be inferred from Lakṣmīdhara's allusion to the provision of such amenities for pilgrims which he had himself made as a mark of his piety and faith.
 
 [^242]: "inf. pp. 39-40; Tirthaprakāśa, p. 174f."
@@ -1193,8 +963,6 @@ himself is an irresistible inducement for those who expect the approach of death
 *Matsyodarī*
 
   Among the riddles which the *sthala-pur*ā*nas* offer in Kāśi one is the identity of the river *M*ā*tsyodarī,* to which three references occur in the extracts cited by Lakṣmīdhara. (*inf*. pp. 34, 58 and 69). In a striking metaphor, the *kṣetra* is compared to the human body, and three streams in the *kṣetra* to three *nāḍīs* of Indian anatomy. They are represented
-
-
 
 as influenced by the gods Agni, Sūrya and Candra. At Prayāga the three streams, which make the *triveṇī*, are represented as the three *nāḍīs*, Piṅgalā (Yamunā), Iḍā (Gaṅgā) and Suṣumnā (Sarasvatī). As regards the streams of Kāśī the "dry stream" *i.e*., the Asī is Piṅgalānāḍi, Varaṇā is Idā-nāḍi and the Matsyodarī, which is between the two, is the Suṣumnā nāḍi (p. 34-5). On p. 58 a confluence of the Matsyodarīand the Ganges is stated as marking the spot at which a bath confers *mokṣa*. On p. 69 this river is described as one to which the gods resort, leaving their own abode (*devaloka*). In a passage from the *Kāśīkhaṇḍa* quoted by Mitramiśra (*op*. *cit*., p. 240) the Matsyodarīis described as ‛inner' and 'outer' (*bahir-antaścarā*), and as flowing into the Ganges against the current (*samhāra-mārga* i.e., *pratiloma*). It is therefore some ancient stream, which drained the ridge on which K*ā*śī stands and mingled its waters during the rains with those of the Ganges. In the days of Lakṣmīdhara it could apparently be distinguished from the main stream, while when, the *Kāśikhaṇḍa* was issued in its present form, it was supposed to flow under-ground or to be an under-current in the Ganges. How thoroughly its identity had been forgotten by the sixteenth century is shown by Nārāyaṇa Bhaṭṭa's forced interpretation of the name to show that the Ganges is the Matsyodarī. It was so named (he holds) as it lies in the womb of Käśī, which in shape is like a fish (*matsyākāra*). Mitramiśra accepts this explanation[^244].Another forced explanation, offered after the identity of the stream was lost, in the geographical changes that intervened, is that the Ganges is Matsyodarī because it has fish in its body[^245] !
 
@@ -1206,8 +974,6 @@ as influenced by the gods Agni, Sūrya and Candra. At Prayāga the three streams
 
   Compared to Kāśī, Prayāga enjoys a reputation which goes back to even earlier times. It stood at the confluence of two mighty rivers, each of which would command adoration from those who saw it rolling irresistably across the plains from its distant Him*ā*layan source, gathering volume from many affluents, and spreading fertility and life over the parched surface of the earth. Herein lay Pray*ā*ga's age-long appeal.
 
-
-
 **INTRODUCTION**
 
  Like the Nile, whose two mighty branches are marked off fromeach other by the color of their floods, the Ganges and theNile could be seen as "white" and "dark" streams(*sitāita)*. Allahabad is like and unlike Khartoum. Two great riversmeet below it; but it is spiritualized by the idealism of acultured people, who have seen a divine purpose in the minglingof the waters. Such mighty unions have a compelling influenceon the human mind. Among a people who have an oppressivesense of a destiny, which ties them to an endless chain of birthand death, of joy and sorrow, a wistful feeling to find anoccasion to throw away life so that its sorrows might be ended for ever, comes naturally to every one who can feel and think. Sacrifices are easy for men whose lives reveal only a receding vista of unfulfilled hopes and repressed desires. Pilgrimages furnish opportunities for sacrifices, great and small: thesurrender of accustomed comforts and ease, the expenditure of accumulated wealth abandonment of one's native soil, and a decision to await death at a remote *tīrtha*, and even the laying down of life. To different minds different inducements to make the sacrifice are needed. A dweller in a desert isready to stake everything for the promise of post-mortuaryenjoyment of the pleasures denied to him in life. Pilgrim literature caters to high minds and to low. In this lies its wideinfluence. If life is to be laid down, one would like a noblesetting for the act of renunciation. He who essays the "greatjourney (*mahāprasthāna*) prefers to lose himself in theHimalayan snows. If the end must come through fire or water, where else could he find a more fitter place to meet hisdeath than where two mighty rivers mingle their floods, orwhere great streams lose themselves in the ocean?
@@ -1215,8 +981,6 @@ as influenced by the gods Agni, Sūrya and Candra. At Prayāga the three streams
  Countless generations have found the ideal conditions forsuch a culmination of a pilgrimage in Prayāga. The holy areaextended to five *yojanās*, along the spit of land which laybetween the two approaching streams. Gods must love toguard and cherish such a spot. It obviously is *Prajāpati-kṣetra*(p. 136). The Creator performed there a difficult (*prakṛṣṭa*) y*ā*ga, and hence its name *Pra-yāga[^246].*It is under the protection
 
 [^246]: "Tīrthaprakāśa, p. 227. To describe other holy sites asPrayāga is incorrect, e.g., Karṇa-prayāga, Nanda-prayāga, whenthey were not places where similar great sacrifices were performedby the Creator."
-
-
 
 **HAKĀṆḌA**
 
@@ -1235,8 +999,6 @@ of Indra (p. 137). It marks the hip of the earth (*inf*. p. 142). It is sacred t
 [^251]: "inf. 137."
 
 [^252]: "Tristhalīsetu, p. 22."
-
-
 
 **INTRODUCTION**
 
@@ -1264,8 +1026,6 @@ view that tonsure at a *tīrtha* has already been noted. He omitsto deal with it
 
 ब्राह्मणेन कलौ जलादिप्रवेशो न कार्यः ।
 
-
-
 'delectable' destiny awaits the person, who remembers Prayāga at the moment of death (p. 139). Such a person, when reborn, becomes king of Jambūdvīpa. Hewho jumps from the sacred banyan tree (*vaṭa-vṛkṣa*) into the river below and so ends his life finds his way to Rudraloka[^253].") (p. 142).In some accounts the benefits of the two modes of suicide are interchanged. The number of suicides in Allahabad by jumping off this tree became so great, from a belief that Akbar had committed such suicide in a past birth and been rewarded by becoming an emperor in the next, that he had the tree cut down. Today only a stump is left. Similar post-mortuary advantages are held out for self-cremation on the sands near Prayāga, known as Ūrvaśīpuḷiṇa and in the continguous Koṭi-tīrtha. In ages where the common man was starved of sense pleasures, such appeals to the lower nature would have been even more powerful than inducements like the termination of re-incarnation.
 
 [^253]: "Suicide from this tree was common already in the 7th century (Beal's Si-yu-ki, I, p. 232
@@ -1281,8 +1041,6 @@ view that tonsure at a *tīrtha* has already been noted. He omitsto deal with it
 
 इति मिताक्षरादिधृतवचनात् (ती. प्र. ८२ ).
 
-
-
 **THE GANGES**
 
  The sanctity of the great river is the foundation of theimportance of every kşetra or *tīrtha* which springs on itsbanks. The Ganges has gained a grip over the heart of Indiawhich no other river has rivalled. In Indian belief its sources are in heaven and its waters penetrate to the nether regions. Itis therefore *tripatha-gā*, or *trivartma-gā* (p. 158). It nourishesthe denizens of the three worlds, heaven, earth and *pātāḷa*(p. 158). Its tender helpfulness to men is like that of amother (p. 159). It springs from the feet of Viṣṇu and hasbeen caught up in the matted locks of Śiva before being released to the world. It is thus twice sanctified, and equallyacceptable to those who see the one God only in Viṣṇu or Śiva.Offerings of water from its holy stream to the manes givesthem a satisfaction which is infinite (p. 157 and p. 161). It isthe holiest of the holy, the purest of the pure (p. 160). Itstands at the head of rivers as the Brāhmaṇa stands at thehead of the four *varṇas* (p. 158). Its mere *darśana* destroyssin (p. 156). Those countries are truly blessed through which theGanges passes (p. 154). To drink it, to see it, to feel it, to sinkone's body within its water and to chaunt its name and praiseare blessings (p. 159). Holy through-out its course, it is holier at Hardwār, Prayāga, Kāśi, and where it joins the ocean(p. 160). The Ganges is man's last refuge (*gati*) whentormented by afflictions, to which life is subject (p. 155).Without explanation or comment, Lakṣmīdhara gives in afew choice extracts the secret of the age-long lure of India'sgreatest life-giving stream[^255].
@@ -1292,8 +1050,6 @@ view that tonsure at a *tīrtha* has already been noted. He omitsto deal with it
 **GAYA**
 
  Gayā forms the third of the trinity, regarded as the "three*kṣetras* par excellance", the other two being Prayāga and Kāśi.Gaṅgā is a *pitṛ-nadī*, Gayā is a *pitṛ-tīrtha*. In other *tīrthas*bathing comes first in importance, and the performance of propitiatory rites to the manes is only incidental. In Gaya the relation is reversed. Gayā's chief merit is the potency of a*śrāddha* performed within its bounds, in accordance with modifications made in the ordinary *śrāddha* ritual to suit the *geniusloci.* Gayā as a *śrāddha-*performing place has great antiquity.Its value for this purpose is recognised in the *Mahābhārata*, in
-
-
 
 which it is commemorated in every one the *tīrtha-yātrās*(Dhaumya, Pulastya, Aṅgiras, Lomaśa and Balarāma) whoseitinerary is furnished in the epic. The similar *yātrā* of Prahlāda, which is described in the *Vāmana-purāṇa*, deals also withit. Unlike other *tīrthas*, Gayā receives commemoration in the*smṛtis*: and Viṣṇu, Vasiṣṭha, Bṛhaspati, Yājñavalkya andYama laud the virtues of the *Śrāddha* done at Gayā.
 
@@ -1309,15 +1065,13 @@ which it is commemorated in every one the *tīrtha-yātrās*(Dhaumya, Pulastya, 
 
 [^258]: "ibid, p. 288,"
 
-
-
 muttered at it.[^259]The Brāhmaṇas to be invited at Gayā for*śrāddhas* are those of Gayā, who claim to be descended fromthose who grumbled about the fees given to them by Brahmā,when he performed a *yāga* there, were cursed by him, and subsequently, on their penitence were forgiven and given the privilege of officiating at all *śrāddhas* at Gayā.^(**2**) After the lapseof one year from their death, *patitas* may have *śrāddhas* performed for their benefit at Gayā. So too suicides, those who have met with death from violence, poisoners, atheists, thoseguilty of arson, adulterers slain by the injured husbands, thosewho practise unnatural sex offences and associates of caṇḍālas[^260]
 
 [^259]: "Tīrthaprakāśa, p. 390."
 
-**.**
-
 [^260]: "Tīrthaprakāśa, p. 452."
+
+**.**
 
   Among writers on tirtha, Vācaspatimiśra deals more fullywith Gayā than others. The *Tīrthacintāmaṇi*, like the *Tīrtha-prakāśā*, has absorbed the entire section from Lakṣmīdhara'swork and reproduced it *verbatim* (*op. cit. 268-280*). The respect that Vācaspati and Mitramiśra held Lakṣmidhara's workin is evident from his placing the *Kalpataru* with the Vāyu andGāruḍa Purāṇas among his authorities[^261].
 
@@ -1335,8 +1089,6 @@ muttered at it.[^259]The Brāhmaṇas to be invited at Gayā for*śrāddhas* are
 
 Lakṣmīdhara is silent on the alleged monopoly.
 
-
-
 release from *Preta-loka* of those for whose sake a piṇḍa isoffered there. One who bathes in at Kanakhala near Gayā goto heaven. He who makes a circuit of the *yūpa* (sacrificialpost) of Brahmā's *yāga* at Gayā obtains the puṇya arisingfrom a Vājapeya sacrifice *i.e.,* he is released from the sin ofBrahmahatyā. The presiding deity of Gayā is 'Viṣṇu with theMace', *Gadādhara*, who simultaneously removed an *asura*, andprovided a means of releasing ancestral spirits by *śrāddhas* performed at Gayā-*śiras*, the *asura's* head, which became the holyground known as Gayā.
 
   The worship of tree spirits is widespread.Great trees are the homes of spirits or are incarnated gods[^262].They meritworship. They attract ancestral spirits, and piṇḍas offeredin their shade, are specially relished by the manes, as thoselaid at the feet of Viṣṇu (*Viṣṇupāda*). The funereal ritual atGayā includes the placing of *piṇḍas* under "the undying tree" (*Akṣaya-vaṭa*) and on Viṣṇupāda, over which a special shrinehas arisen. It is curious that while Viṣṇu as Gadādhara is thedeity of Gayā, the Purāṇas allude to shrines of Gopati (Kṛṣṇa)and Janārdana there[^263].The local holy spots recall the association of Brahmā with Gayā (*e.g.*, Brahmayoni, Brahmasaras).
@@ -1349,13 +1101,9 @@ release from *Preta-loka* of those for whose sake a piṇḍa isoffered there. O
 
 [^264]: "cf. Tīrthaprakāśa, pp. 401-422 and Tristhalīsetu, pp. 352-368,"
 
-
-
 **OTHER TIRTHAS**
 
  Vācaspati Miśra has only one more *tīrtha* to deal with, *viz.*,Puruṣottama (Puri) in Orissa to which he devotes a third ofhis book. He deals less fully with three other *tīrthas* of Utkala,*viz.*, Kṛttivāsas (Bhuvaneśvara or Ekāmrakṣetra), Virajā andand Koṇārka (Konarak). These were apparently his favoriteholy shrines, and he deals scrappily with Prayāga. NārāyaṇaBhaṭṭa had an even more restricted scope. For the other*tīrthas*, our main guide, outside the *Kalpataru*, is Mitramišra,who absorbs almost all that Lakṣmīdhara has written andadded to it here and there. Even Lakṣmīdhara's treatmentbecomes perfunctory. He devotes a chapter each, some conisting of hardly more than a page, to seventeen *tīrthas*, and has asupplementary chapter, which gallops over the names of over ahundred, which to him may have been mere names. Even then,his treatise contains glaring omissions, especially of *tīrthas*in distant regions of which he had no knowledge, and to whichperhaps pilgrimage from North India was then an impossibility.The Godāvarī and *Setu-bandha* would not have been omitted,in a well-proportioned work, nor rivers like the Tuṅgabhadrā,Kāverī and Tāmraparṇī, which are mere names in the *Kalpataru*. An extract from Matsyapurāṇa (*inf.* p. 204) bring the Kāverīwithin the section dealing with Narmadā-*tīrthas* and immediately after Amarakaṇṭaka! His attitude is explicable.When he wrote of Kāśī, he did so not only from books butfrom close personal knowledge. Such intimacy is not displayedin regard to other kṣetras or tīrthas even within the dominionsof the king, whom he served as chief minister.It seems verydoubtful whether he had made the pilgrimage to Himālayan*tīrthas* like Badari, Kedāra and Lohārgala, which he describesas situated in *mleccha-deśa*, *i.e.*, in an area under Muhammadanoccupation (*inf*. p. 288). He has simply reproduced extractsfrom the Purāṇas about them. It is also not likely that he hadvisited Gujarat and the regions of the Narmadā as well asMālwa and Rajputāna. His accounts of Puṣkara, Ujjainīand Amarakaṇṭaka betray no personal acquaintance. Neitherthe tradition of Brahmā's *yāga* at Puṣkara nor of the lake being*Tīrtha-Nārāyaṇa* seem to have been known to him. He certainlyknew Mathurā and its neighbourhood, probably had visitedHardwār (which he calls Kubjāmraka) and the country drainedby the ancient Sarasvatī, *viz.*, Kurukṣetra and Pṛthudaka. The*tīrthas* of Madhydeśa, like Naimiśa, Sūkara, Gopratāra
-
-
 
 (p. 235) and Stutasvāmī, which must have been in the presentUnited Provinces as it is said to be only three miles fromDhūtapāpā, *i.e.*, Dhopāp, in Oudh. The exact location of some*tīrthas* to which he has given the distinction of separatechapters, is difficult to determine. Is Kokāmukha, a *kṣetra*dedicated to Viṣṇu as Varāha, or the *Triveṇī* in Bengal? Whereis Mandāra he describes? (p. 21 & 8). The Mandāra of theMahābhārata seems to be a hill in Garhwāl, in the Himālayanregion, but Lakṣmīdhara's description would suit Mandāragiri(p. 218) in Bhagalpur District. The family deity of theGāhdawālas was Varāha (Viṣṇu). It may explain the choiceof two Varāha-tirthas like Sūkara and Kokāmukha. They probably were patronised by the Gāhadwālas.
 
@@ -1369,8 +1117,6 @@ release from *Preta-loka* of those for whose sake a piṇḍa isoffered there. O
 
 [^268]: "infra, p. 185. Meghadūta, 1, 38."
 
-
-
 the cliff of Amarakaṇṭaka is noticed (p. 200). Hardwār(Māyāpurī) is one of the traditional seven cities of India[^269].^()The *Tīrthasudhānidhi*, which attempts to treat the seven, beginswith it. Its identity will hardly be realized by a perusal of thechapter on Kubjāmraka (near Hṛṣikeśa) which deals with theregion (p. 206).
 
 [^269]: "अयोध्या मथुरा माया काशी काञ्ची अवन्तिका ।   पुरी द्वारवती चैव सतैता मोक्षदायिकाः ॥"
@@ -1380,8 +1126,6 @@ the cliff of Amarakaṇṭaka is noticed (p. 200). Hardwār(Māyāpurī) is one 
   An intriguing extract which concludes the chapter onmiscellaneous *tīrthas* describes the sanctity of a *kṣetra* calledĀmalaka in the Sahya, and its *tīrthas.* It seems to refer to afomous Viṣṇu temple of Malabar[^270].The extract is from the*Narasiṁhapurāṇa*, which Lakṣmīdhara cites in this as well as inother sections of the *Kalpataru*. When he shows so littleknowledge of the geography and the *tīrthas* of the Dakhan, how
 
 [^270]: "Tirunelli in Wynad, Malabar. See Logan's MalabarManual, I, p. 190. Tirunelli means Śrī-Āmalaka"
-
-
 
 did he choose the extract in question? The *upa-purāṇa* may besimply following in the wake of *Śrī Bhāgavata-purāṇa* (whichLakṣīmdhara does not seem to citeanywhere) in referring tothe sanctity of places and persons in South India.The selection of the passage by Lakṣmīdhara for inclusion in his digestmay be simply an indication of his love of completeness.
 
@@ -1395,31 +1139,19 @@ MAHĀPATHA-YATRĀ
 
   The *Mahābhārata* counsels one who has realized the transitoriness of life (*adhruvam jīvitam jñātvā*) to end it in the
 
-
-
 Himālayas. The same advice is given by the *Brahmapurāṇa*,with a side-glance to the story of the Pāṇḍava brethren andDraupadī having attempted in the last journey to scale theheaven of Indra[^272].He who is unable to make this journey toIndra-loka should give up his life in the snows. When he doesso, firmly rooted in truth and courage, his death immediatelyleads him to heaven (p. 258). The Śaiva Purāṇas advocatesuicide by fire, or falling from the top of a mountain-cliff, byone imbued with devotion to Śiva, for obtaining for thesuccessful suicide a post-mortuary existence of unalloyedsensual pleasure (p. 362). A form of suicide that is recommended by them is to a build up great fire, and after worshipping a picture of Bhairava, offer oneself as a sacrifice in thatfire (*śivānale kṣipet kāyam*, p. 262). The special featureof this form of approach to heaven is its availablity to sinnersas well as to virtuous men, to women as to men, to men of theregenerate castes as to men of no caste whatever, *i.e*., theoutcastes (p. 262). The sorrow of a sinner for his morallapses must be as intense as his faith in this form of redemption, if he is led to select it. The spread of such beliefs wasapparently helped by the anarchy engendered by the fall ofgreat empires and the invasions of peoples hostile to Hinduism.
 
 [^272]: "The last parva of the Mahābhārata is named Svargārohaṇa."
 
   The work concludes with a passage which offers theheavens of the Sun, Brahmā, Śiva and Viṣṇu to righteous kingswho lose their lives in defence of their kingdoms, and to thosewho are killed by fire or lightning, or by elephants or tigersor lions. As one who finds death by infuriated animals, whichare teased or provoked, is a *mahāpātakin*, the privilege must beunderstood as available only to those who meet such deathsaccidentally or in war or in the chase. A hope of such benefitsafter death should have been heartening to the kings of theRājput clans.
 
-
-
 **CONCLUSION**
 
-
-
  So ends Lakṣmīdhara's treatise on pilgrimage. The way inwhich the subject has been treated by him indicates two things:firstly, the almost universal recognition of *tīrtha-yātrā* as apopular way to redemption; and secondly, the need to guardagainst the spread of a tendency to a mechanical, un-ethical andun-spiritual conception of pilgrimage, which would make it an
-
-
 
 easily available expiation for the timorous, weak-minded andsuperstitious. They can see in it only a means of compoundingfor sins, without the need for a change of life or heart.Neither of these is in harmony with Dharma. Easy absolution isa moral solvent, and it is specially so when obtained by economicor physical means. New scenes, improved health, and wideningexperience of men and manners are results of travel, but in aproper conception of pilgrimage they should be viewed asadventitious. Some authorities, and especially the Purāṇas,had popularised *tīrtha-yātrā* by the promise of benefits thatcould not be regarded as worthy. Their trend had to becorrected by a comprehensive review of *tīrtha-yātrā* in theIndian scheme of life. Pilgrimage had come to stay. Itspopularity was on the increase. It was not statesmanship toarrest it. Its advantages to state and society were undeniable.In ages of political fission and the multiplication of kingdomswith unstable borders and foundations, the stream of pilgrims,which meandered unhindered through the length and breadthof India, helped to bring about economic and social interdependence, unification of culture, and a way to political co-operation,especially when Indian society and religion were threatened byenemies of alien race and a hostile faith. To leave pilgrimageto develope into a soul-killing, mechanical device for givingharassed men and women a mental anodyne, was not right.The concept of *tīrtha-yātrā* had to be sublimated, and its ethicaland spiritual tone raised. The emotions which inspired apilgrimage were not to be repressed. They had to be transfusedwith high aims, and then canalised. It was not enough forkings and leaders of society to provide for the safety ofpilgrims and for their conveniences, as tasks set by politicalduty or piety. To stress ethical and spiritual constituents, todistinguish between its spirit and form, and to bring pilgrimageinto relation with a comprehensive view of life and the hereafter were tasks for exponents of Dharma. If all Dharma is inone sense the obligation of the heads of society, *i.e., Rājadharma*, the enunciation of the principles of *tīrtha-yātrā* waswithin its ambit. In his recognition of this truth must be soughtthe purpose of Lakṣmīdhara, when he treated pilgrimage as a*major* topic in his comprehensive exposition of Dharma, andapplied his acute mind and massive learning to *tīrtha-vivecana.*
 
 ![](../books_images/U-IMG-1693965759NewPicture(1).bmp)
-
-
-
-
 
 ॥ श्रीगणेशाय नमः[^273] ॥
 
@@ -1428,13 +1160,7 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 श्री लक्ष्मीधरविरचितकृत्य कल्पतरौ  
 तीर्थविवेचनकाण्डम्
 
-
-
-
-
 मङ्गलाचरणम्
-
-
 
 धर्मं निर्मलहेमकुम्भशिरसो यस्याऽमराणां गृहाः
 
@@ -1450,11 +1176,7 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 [^276]: "P. काण्डं and सोऽष्टमम्"
 
-
-
 प्रतिज्ञा
-
-
 
 अष्टमे तीर्थकाण्डेऽस्मिंस्तीर्थयात्राविधिः पुरा ।
 
@@ -1474,8 +1196,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 बदर्याश्रममाहात्म्यं मन्दारस्य तथैव च॥
 
-
-
 शालग्रामस्य माहात्म्यं तथैव स्तुतस्वामिनः ।
 
 द्वारकायाश्च माहात्म्यं तथा लोहार्गलस्य च ॥
@@ -1485,8 +1205,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 महापथस्य यात्रा च विस्तरेण प्रकीर्तिता ॥
 
 चतुर्विंशतिपर्वाणि तीर्थकाण्डे कृतानि तु ।
-
-
 
 १  
 अथ तीर्थयात्राविधिः
@@ -1537,8 +1255,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 अग्निष्टोमादिभिर्यज्ञैरिष्ट्वाविपुलदक्षिणैः ।
 
-
-
 न तत्फलमवाप्नोति तीर्थाभिगमनेन यत्[^287]॥
 
 [^287]: "P.हि for यत्"
@@ -1587,8 +1303,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 [^299]: "Corrected by P."
 
-
-
  "अकल्पको[^298] दम्भरहितः । 'निरारम्भो'ऽन्त्राऽर्थार्जनादि[^301]व्यापाररहितः । 'सर्वसङ्गैः' सङ्गोऽत्राऽविहितासक्तिः ।
 
 [^298]: "P. अकल्कको"
@@ -1635,8 +1349,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 स्वर्गे भवति वै विप्रो[^308] मोक्षोपायं च विन्दति॥
 
 [^308]: " P. विश्राम्ये for वै विप्रो"
-
-
 
 अश्रद्दधानः[^309] पापात्मा नास्तिकोऽच्छिन्नसंशयः ।
 
@@ -1685,8 +1397,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 तीर्थानामपि तत् तीर्थं[^315] विशुद्धिर्मनसः परा॥
 
 [^315]: "U. तं तीर्थं"
-
-
 
 न जलाप्लुतदेहस्य स्नानमित्यभिधीयते ।
 
@@ -1740,8 +1450,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 तथा पृथिव्यामुद्देशाः केचित् पुण्यतमाः स्मृताः॥
 
-
-
 प्रभावादद्भुता भूमेः सलिलस्य च तेजसा ।
 
 परिग्रहान्मुनीनां च तीर्थानां पुण्यता स्मृता॥
@@ -1789,8 +1497,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 [^321]: "B. सर्वस्वनाथेऽथवा"
 
 सद्ब्राह्मणानग्रत एवं कृत्वा॥
-
-
 
 यज्ञाधिकारेऽप्यथवा निवृत्ते
 
@@ -1846,10 +1552,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
  'भावो' विशुद्धा मनोवृत्तिः । 'देवान् पितृनिति तीर्थयात्रां करिष्यतो देवपितृब्राह्मणपूजनमावश्यकम् \। 'पितॄन्
 
-
-
-
-
 वित्तशक्त्या' इत्यनेन च विशेषतो धनवता पितृपूजनं कर्तव्यमिति विधीयते ।
 
 देवीपुराणे—
@@ -1898,8 +1600,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 विलम्बो नैव कर्तव्यो नैव विघ्नं समाचरेत्॥
 
-
-
 शङ्खः—
 
 तीर्थंप्राप्याऽनुषङ्गेण स्नानं तीर्थे समाचरेत् ।
@@ -1940,13 +1640,9 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 इति देवीपुराणवचनात् ।
 
-
-
 **२**  
 
 **अथ वाराणसीमाहात्म्यम्**
-
-
 
 तत्र मत्स्यपुराणे[^343]—
 
@@ -1989,8 +1685,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 नानालिङ्गधरा नित्यं मम लोकाभिकाङ्क्षिणः॥
 
 अभ्यस्यन्ति परं योगं युक्तात्मानो जितेन्द्रियाः ।
-
-
 
 'नानालिङ्गधराः' मेखलाजिनादिलिङ्गधारिणश्चत्वारआश्रमिण इत्यर्थः ।
 
@@ -2045,8 +1739,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 [^354]: "P. अव्यक्तलिङ्गमुनिभिः"
 
 इह संप्राप्यते मोक्षो दुर्लभोऽन्यत्र कर्हिचित्॥
-
-
 
 तेभ्यश्चाहं प्रयच्छामि योगैश्वर्यमनुत्तमम् ।
 
@@ -2104,8 +1796,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 विषयासक्तचित्तोऽपि त्यक्तधर्मरतिर्नरः॥
 
-
-
 इह क्षेत्रे मृतः सोऽपि संसारं न पुनर्विशेत् ।
 
 ये पुनर्निर्ममा धीराः सत्त्वस्था विजितेन्द्रियाः॥
@@ -2159,8 +1849,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 चन्द्रार्धमौलिनः सर्वे ललाटाक्षा वृषध्वजाः।
 
 शिवे मम पुरे देवि जायन्ते तत्र मानवाः ॥
-
-
 
 अकामो वा सकामो वा अपि तिर्यग्गतोऽपि वा ।
 
@@ -2218,8 +1906,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 प्राप्यते क्षेत्रमाहात्म्यात् प्रभावाच्छङ्करस्य च॥
 
-
-
 'नैःश्रेयसी गतिः' विशिष्टदेहप्राप्तिर्मोक्षानुकूला ।
 
 ब्रह्महा योऽभिगच्छेत्तु अविमुक्तं कदाचन ।
@@ -2276,8 +1962,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 अशाश्वतमिदं ज्ञात्वा मानुष्यं बहुकिल्बिषम्॥
 
-
-
 अविमुक्तं निषेवेत संसारभयमोचनम् ।
 
 भोगमोक्षप्रदं दिव्यं बहुपापविनाशनम्॥
@@ -2328,8 +2012,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 मत्प्रसादात्तु ते देवि दीप्यन्ते शुभलोचने॥
 
-
-
 दुर्धर्षा दुर्धराश्चैव भवन्ति विगतज्वराः ।
 
 तथा—
@@ -2378,8 +2060,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 येऽविमुक्ते वसन्तीह स्वर्गे च प्रविशन्ति ते ।
 
-
-
 मत्समःपुरुषो नास्ति त्वत्समा नास्ति योषिताम्[^387]॥
 
 [^387]: "P. योषितः"
@@ -2427,8 +2107,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 यो दद्याद्ब्राह्मणे किंचित्तस्मिन् क्षेत्रे वरानने ।
 
 कनकं रजतं वस्त्रमन्नाद्यं बहु विस्तरम्॥
-
-
 
 अक्षयं चाऽव्ययं चैव स्यात्तत्रस्थं[^391] सुलोचने ।
 
@@ -2486,8 +2164,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 अग्निहोत्रफलं धूपे गन्धदानेन तच्छृणु॥
 
-
-
 भूमिदानेन तत्तुल्यं गोप्रदानफलं स्मृतम् ।
 
 सम्मार्जने पञ्चशतं सहस्रमनुलेपने॥
@@ -2542,8 +2218,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 [^404]: "P. न शक्यन्ते"
 
-
-
 नाऽनाहिताग्निर्नाऽयज्वा नाऽशुचिस्तस्करोऽपि वा ।
 
 अविमुक्ते वसेद्यस्तु स वसेदीश्वरालये॥
@@ -2596,8 +2270,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 [^408]: "B. सिद्धाः"
 
-
-
 उपासते शिवं भक्त्या मद्भक्ता मत्परायणाः ।
 
 या गतिर्ज्ञानतपसां या गतिर्यज्ञयाजिनाम्॥
@@ -2648,8 +2320,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 अविमुक्तं न सेवन्ते मूढा ये तामसा नराः॥
 
-
-
 विण्मूत्ररेतसां मध्ये ते वसन्ति पुनः पुनः ।
 
 कामः क्रोधोऽतिलोभश्च दम्भस्स्तम्भोऽतिमत्सरः[^412]॥
@@ -2698,8 +2368,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 ईश्वरानुगृहीता हि सर्वे यान्ति परां गतिम्॥
 
-
-
 तथा—
 
 भूलोके[^417] चाऽन्तरिक्षे च दिवि तीर्थानि यानि च ।
@@ -2747,8 +2415,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 किल्विषैः पूर्णदेहाश्चप्रकृष्टैः पातकैस्तथा॥
 
 भेषजं परमं तेषामविमुक्तं विदुर्बुधाः ।
-
-
 
 जात्यन्तरसहस्रेषु अविमुक्ते[^423] म्रियेत यः॥
 
@@ -2799,8 +2465,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 अविमुक्तेन वसता व्यासेनाऽमिततेजसा ।
 
 नैव लब्धा क्वाचिद्भिक्षा भ्राम्यमाणेन यत्नतः॥
-
-
 
 क्षुधाविष्टस्ततः क्रुद्धोऽचिन्तयच्छापमुत्तमम् ।
 
@@ -2854,8 +2518,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 चतुर्दश्यां तथाऽष्टम्यां प्रवेशं दातुमर्हसि ।
 
-
-
 एवमस्त्वित्यनुज्ञाय तत्रैवाऽन्तरधीयत॥
 
 न तद्गृहं न सा देवी न देवो ज्ञायते क्वचित् ।
@@ -2908,8 +2570,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 अविमुक्ते मृतानान्तु पतनं नैव विद्यते॥\]
 
-
-
 कल्पकोटिसहस्रैस्तु कल्पकोटिशतैरपि ।
 
 न तेषां पुनरावृत्तिर्ये मृताः क्षेत्र उत्तमे॥
@@ -2957,8 +2617,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 वरणा चाऽप्यसिश्चैव द्वे नद्यौसुरवल्लभे ।
 
 अन्तराले तयोः क्षेत्रं धरण्यां न विशेत् क्वचित् ।
-
-
 
 तीर्थानां प्रथमं तीर्थंक्षेत्राणां प्रथमं तव ।
 
@@ -3014,8 +2672,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 सुश्वेतं तरुणं सौम्यं रूपवत्सुरभीयुतम्॥
 
-
-
 पश्वांकिचा (?) मोचयति स याति परमां [गतिम्॥\]][^435]
 
 पितृभिः सहितो मोक्षं गच्छत्यत्र न संशयः ।
@@ -3070,8 +2726,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 तेषामध्यधिकं तीर्थमविमुक्तं महामुने ।
 
-
-
 सर्वतीर्थानि च मया तस्मिन् स्थाने प्रतिष्ठिताः॥
 
 न कदाचिन्मया मुक्तं स्थानं च सततं मुने ।
@@ -3123,8 +2777,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 निम्नगाभ्यां पुरी सा च नाम्ना वाराणसी मुने ।
 
 कृतस्नानेन देवेन ओङ्कारे संस्थितेन वा॥
-
-
 
 तस्मिन् काले वरो दत्तो देवदेवेन शम्भुना ।
 
@@ -3178,8 +2830,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 वरणा नाम सा ज्ञेया केशवो यत्र संस्थितः॥
 
-
-
 आभ्यां[^446] मध्ये तु या नाडी सुषुम्ना च प्रकीर्तिता ।
 
 [^446]: "P.आसां for आभ्यां"
@@ -3225,8 +2875,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 श्मशानं परमं विद्धि क्षेत्राणां परमं तथा ।
 
 पाप्मानमुत्सृजत्याशु प्रविष्टस्तत्र वै पुमान्॥
-
-
 
 तथा—
 
@@ -3278,8 +2926,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 सन्निहत्य कुरुक्षेत्रं सार्द्धं तीर्थशतैस्तथा ।
 
-
-
 नैमिशं पुष्करं चैव प्रयागं सपृथूदकम् ॥  
 सन्ध्या सप्तऋचं चैव सर्वा नद्यः सरांसि च ।  
 समुद्राः सप्त चैवाऽत्र देवतीर्थानि कृत्स्नशः ॥  
@@ -3308,8 +2954,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 [^453]: "B. P. दृमि (?
 
 [^454]: "B. P. कालेश्वरं for कामेश्वरं"
-
-
 
 ब्रह्मार्कवैश्वानरशक्रचन्द्रै-  
 र्जलेन्द्रवित्ताधिपवायुभिश्च ।  
@@ -3347,8 +2991,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 ख्यातो भवेत्सर्वसुरासुराणां  
 मृतश्च यायात्परमं पदं च ॥
 
-
-
 तथा—
 
 ब्रह्मघ्नगोघ्नगुरुतल्पगभिन्नवृत्ति-[^460]  
@@ -3385,8 +3027,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 पञ्चक्रोशप्रमाणं तु क्षेत्रं दत्तं मया तव ।
 
-
-
 यत्र[^463] चोदङ्मुखी गङ्गा प्राची वाऽपि सरस्वती ॥  
 उदङ्मुखी[^464] योजने द्वे गच्छते जाह्नवी नदी।
 
@@ -3418,8 +3058,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 किं रहस्यं च लिङ्गानां के हृदास्तत्र विश्रुताः ॥  
 के कूपाःकानि कुण्डानि लिङ्गानां स्थापकाश्च के ।  
 कस्मिन् स्थाने कृतं कर्म ज्ञाननिष्टं प्रजायते ॥
-
-
 
 एतदाचक्ष्व[^465] मे सर्वं यद्यनुग्रहभागहम् ।
 
@@ -3457,8 +3095,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 [^471]: "B. P. चोत्तरे"
 
-
-
 मानवानां हितार्थाय स्थिता कूपस्य[^472] पश्चिमे ॥  
 वाराणसीं तु यो दृष्ट्वा भक्त्या चैव नमस्यति ।  
 तस्य तुष्टा च सा देवी वसतिं च प्रयच्छति ॥  
@@ -3490,8 +3126,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 तेन दृष्टेन लभते गणेशस्य सलोकताम्[^476] ।
 
 [^476]: "P supplies 'words in brackets. Udaipur Ms. reads पावकीव गणेशताम् and B यावत्कालं गणेशताम्"
-
-
 
 गणेश्वरात् पश्चिमेन हिरण्यकशिपुः पुरा ।
 
@@ -3526,8 +3160,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 बालकेश्वरसामीप्ये विज्वरेश्वरसंज्ञितम् ॥
 
 [^480]: "B and P समधोः"
-
-
 
 तेन दृष्टेन सुश्रोणि ज्वरो[^481] नश्यति तत्क्षणात् ।  
 विज्वरेश्वरपूर्वेण[^482] देवेश्वरमिति श्रुतम् ॥
@@ -3564,8 +3196,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 लिङ्गपुराणे—
 
-
-
 सङ्गमेशस्य पूर्वेण लिङ्गं चैव चतुर्मुखम् ।  
 ब्रह्मणा स्थापितं भद्रे प्रयागमिति कीर्त्यते ॥
 
@@ -3599,8 +3229,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 तस्मिन् हृदे तु यः स्नानं कुर्याद्भक्तिपरायणः ।  
 वृषध्वजं च वै दृष्ट्वा राजसूयफलं लभेत् ॥  
 नरकस्थास्ततो देवि पितरः सपितामहाः ।
-
-
 
 पितृलोकं प्राप्नुवन्ति तस्मिन् श्राद्धे कृते तु वै[^490] ॥  
 गयायां चाऽष्टगुणितं पुण्यं प्रोक्तं महर्षिभिः ।  
@@ -3636,8 +3264,6 @@ easily available expiation for the timorous, weak-minded andsuperstitious. They 
 
 [^492]: "P. नान्दीशं for वन्दि"
 
-
-
 अन्यत्तत्र तु विख्यातं हिरण्याक्षेश्वरं विभुम् ।  
 हिरण्याक्षेण दैत्येन स्थापितं मम भक्तितः ॥  
 हिरण्याख्यस्य सामीप्ये अन्यैर्देवैः सहस्रशः ।  
@@ -3670,8 +3296,6 @@ P adds here :-
 भक्त्या प्रतिष्ठितं साध्व्या अरुन्धत्या शुभार्थदम् ॥  
 तस्य पश्चिमदिग्भागे नाम्ना कृष्णेश्वरं स्मृतम् ।
 
-
-
 तेन दृष्टेन लभते परं ज्ञानं सुदुर्लभम् ।  
 याज्ञवल्क्येश्वरस्याऽपि पश्चिमे पश्चिमाननम् ॥  
 प्रह्लादेश्वरनामानमद्वैतफलदायकम् ।  
@@ -3700,8 +3324,6 @@ P adds here :-
 [^496]: "P. बालेश्वर"
 
 [^497]: "P महाभागा"
-
-
 
 तस्यैव च समीपे तु चन्द्रेण स्थापितं शुभम् ।  
 चन्द्रेश्वरस्य पूर्वेण लिङ्गं विद्येश्वरं शुभम् ॥  
@@ -3734,8 +3356,6 @@ P adds here :-
 कदाचित्कालपर्याये मातृभिः परिचिन्तितम् ।  
 अस्माकं पुत्रतां प्राप्त एष बालो न संशयः ॥
 
-
-
 अस्माभिर्गन्तुमारब्धं खेचरीचक्रमुत्तमम् ।  
 ब्रह्माणी चाऽब्रवीदेवि योगपीठं तु नीयताम् ॥  
 योगपीठेन दृष्टेन बालो राज्यक्षमो भवेत् ।  
@@ -3767,8 +3387,6 @@ P adds here :-
 
 [^499]: "P. स्वकं"
 
-
-
 अद्याऽपि दृश्यते व्योम्नि मातॄणां गणमण्डलम् ।  
 निरीक्ष्यते पुण्यकर्मा उत्तराभिमुखं स्थितम् ॥  
 यदेतद्दृश्यते व्योम्नि मातॄणां तु समीपतः ।  
@@ -3799,8 +3417,6 @@ P adds here :-
 
 [^501]: "P. तत्र"
 
-
-
 सगरात्पश्चिमेनैव लिङ्गं तत्र प्रतिष्ठितम् ।  
 मम भक्त्या च सुश्रोणि अश्विभ्यां परमेश्वरि ॥  
 तस्यैवोत्तरपार्श्वे तु भद्रदोहमिति स्मृतम् ।  
@@ -3828,8 +3444,6 @@ P adds here :-
 
 [^502]: "[ ] Lacuna supplied by P"
 
-
-
 स्थापितं मम लिङ्गतु कुण्डस्य पुरतः शुभम् ।  
 तस्मिन् कुण्डे नरः स्नात्वा दृष्ट्वा वै नारदेश्वरम् ॥  
 संसारमाया[^503] या घोरा तां तरेन्नाऽत्र संशयः ।  
@@ -3854,8 +3468,6 @@ P adds here :-
 [^503]: "P omits these two ślokas"
 
 [^504]: "P. चैव विनायकम्"
-
-
 
 ममाऽपि तत्र सान्निध्यं तस्मिँल्लिङ्गे यशस्विनि ।  
 तेन दृष्टेन सुश्रोणि गन्धर्वत्वं च विन्दति ॥  
@@ -3884,8 +3496,6 @@ P adds here :-
 तत्र गत्वा तु यः पूजां मम देवि करिष्यति ।  
 सर्वपापविनिर्मुक्तो गच्छेच्च परमां गतिम् ॥
 
-
-
 अन्यच्च ते प्रवक्ष्यामि महातीर्थं यशस्विनि।  
 कपालमोचनं नाम त्रिषु लोकेषु विश्रुतम् ॥  
 कपालं पतितं तत्र स्नातस्य मम सुन्दरि ।  
@@ -3910,8 +3520,6 @@ P adds here :-
 सर्वान् कामानवाप्नोति दृष्ट्वा देवं बुधेश्वरम् ॥
 
 [^506]: "B omits this line and the next two lines"
-
-
 
 बुधेश्वराद्दक्षिणतो लिङ्गं चैव चतुर्मुखम् ।  
 महामुण्डेश्वरं नाम सर्वसिद्धिप्रदायकम् ॥  
@@ -3939,8 +3547,6 @@ P adds here :-
 [^508]: "B. शृङ्गाङ्गम्"
 
 [^509]: "B. शृङ्गाङ्गश्वेर"
-
-
 
 यस्तदायतनं दृष्ट्वा अर्चितं स्तुतिपूर्वकम् ।
 
@@ -3987,8 +3593,6 @@ P adds here :-
 *नन्दीशेश्वर*नामाऽहमुत्तरेण व्यवस्थितः ।
 
 तं च देवि तदोङ्कारं मम रूपं सुरेश्वरि ॥
-
-
 
 मानवानां हितार्थाय तत्र स्थाने स्थितो ह्यहम् ।
 
@@ -4042,8 +3646,6 @@ P adds here :-
 
 कपिलेश्वरस्याऽधस्ताद्दक्षिणे वरवर्णिनि ॥
 
-
-
 मत्स्योदरीं समेष्यन्ति तीर्थानि सह सागरैः ।
 
 षष्टिकोटिसहस्राणि षष्टिकोटिशतानि च ॥
@@ -4089,8 +3691,6 @@ P adds here :-
 अन्यत् पश्चान्मुखं लिङ्गं स्थितं तत्र तथोत्तरे ।
 
 तस्मिँल्लिङ्गे तु संसिद्धः पाराशर्यो महामुनिः ॥
-
-
 
 अन्यत्तत्रैव संलग्ने स्थितं पश्चान्मुखं शुभम् ।
 
@@ -4140,8 +3740,6 @@ P adds here :-
 
 अनेनैव शरीरेण रुद्रत्वं गतवान् मुनिः ॥
 
-
-
 तत्र गत्वा त्रिरात्रं तु क्षपयेदेकमानसः ।
 
 नरो वा यदि वा नारी संसारं न विशेत् पुनः ॥
@@ -4189,8 +3787,6 @@ P adds here :-
 अपरं चैव लिङ्गं तु तस्य दक्षिणतः स्थितम् ।
 
 ओङ्कारेश्वरनामानं देवानामपि दुर्लभम् ॥
-
-
 
 तत्र सिद्धिं परां प्राप्तो मुनिः कालिकवृक्षियः ।
 
@@ -4243,8 +3839,6 @@ P adds here :-
 यत्र तत्र मृतो देवि रुद्रलोकं तु गच्छति ।
 
 पूर्वामुखस्थिताश्चाऽहं तस्मिँल्लिङ्गे महेश्वरि ॥
-
-
 
 रुद्राणां[^510] कोटिजप्येन यत्फलं प्रतिपद्यते ।
 
@@ -4300,8 +3894,6 @@ P adds here :-
 
 बृहस्पतीश्वरं नाम सर्वदुःखविनाशनम् ॥
 
-
-
 पितृभिः स्थापितं लिङ्गं तटे कूपस्य दक्षिणे ।
 
 तेन पूजितमात्रेण पितरस्तृप्तिमाप्नुयुः ॥
@@ -4352,8 +3944,6 @@ P adds here :-
 
 चैत्रे मासि सिते पक्षे त्रयोदश्यां तु मानवः ॥
 
-
-
 स्नानं ये च प्रकुर्वन्ति ते कामसदृशा नराः ।
 
 कामेश्वरं सदा लिङ्गं योऽर्चयतीह मानवः ॥
@@ -4399,8 +3989,6 @@ P adds here :-
 नाम्ना देवेश्वरं लिङ्गं[^514] कामकुण्डस्य दक्षिणे ॥
 
 [^514]: "B. पुण्यं"
-
-
 
 अहमेव सदा भद्रे तस्मिन् स्थाने व्यवस्थितः ।
 
@@ -4450,8 +4038,6 @@ P adds here :-
 
 अन्यदायतनं पुण्यं सनकेन प्रतिष्ठितम् ॥
 
-
-
 सनकेश्वरनामानं सर्वसिद्धामरार्चितम् ।
 
 तेन दृष्टेन देवेशि राजसूयफलं लभेत् ॥
@@ -4497,8 +4083,6 @@ P adds here :-
 तस्य लिङ्गस्य चाऽग्रे तु पश्चिमेन यशस्विनि ।
 
 मार्कण्डेयह्रदो नाम त्रिषु लोकेषु विश्रुतः ॥
-
-
 
 मार्कण्डेयह्रदे स्नात्वा किं भूयः परिशोचति ।
 
@@ -4550,8 +4134,6 @@ P adds here :-
 
 [^518]: "P. कपालेशः"
 
-
-
 तस्य दक्षिणदिग्भागे लिङ्गानि कथयाम्यहम् ।
 
 तत्र देवी स्वयं देवी श्रीर्वै तिष्ठति सर्वदा ॥
@@ -4597,8 +4179,6 @@ P adds here :-
 तस्य विष्णुध्रुवस्यैव पश्चिमाया दिशः स्थितम् ।
 
 स्थापितं मम लिङ्गं तु दधीचेन महर्षिणा ॥
-
-
 
 दधीचेश्वरनामानं ख्यातं सर्वसुरासुरैः ।
 
@@ -4647,10 +4227,6 @@ P adds here :-
 तानि दृष्ट्वाऽतिपुण्यानि स्वर्गलोकं व्रजेन्नरः ।
 
 धनदेशात् पश्चिमतो नाम्ना तु करवीरकम् ॥
-
-
-
-
 
 तेन दृष्टेन देवेशि सिद्धिं प्राप्नोति मानवः ।
 
@@ -4702,8 +4278,6 @@ P adds here :-
 
 तस्यैव पूर्वदिग्भागे नाम्ना ह्याम्नातकेश्वरम् ॥
 
-
-
 तं दृष्ट्वा मनुजो भद्रे रुद्रस्याऽनुचरो भवेत् ।
 
 एकलिङ्गं तु तद्विद्यात् सूक्ष्मं च वरवर्णिनि ॥
@@ -4752,8 +4326,6 @@ P adds here :-
 
 कस्मिन् स्थाने तु कः सिद्धस्तन्मे ब्रूहि सुरेश्वर ॥
 
-
-
 ईश्वर उवाच—
 
 तस्मिन् स्थाने पुरा भद्रे *पिङ्गाक्षो*[^529]नाम वै मुनिः ।
@@ -4801,8 +4373,6 @@ P adds here :-
 यत्पीत्वा भवबन्धोत्थभयं मुञ्चन्ति मानवाः ।
 
 एतद्देवि रहस्यं तु कालोदकमुदाहृतम् ॥
-
-
 
 दर्शनात्तस्य देवस्य महापातकिनोऽपि ये ।
 
@@ -4860,8 +4430,6 @@ P adds here :-
 
 [^540]: "P. प्राप्तोऽपि"
 
-
-
 जागरं ये प्रकुर्वन्ति कालेशस्यैव चाऽग्रतः ॥
 
 ते मृता वृषभारूढाः शूलहस्तास्त्रिलोचनाः ।
@@ -4910,8 +4478,6 @@ P adds here :-
 
 [^543]: "P and B. सर्वेश्वरं तु"
 
-
-
 तस्यैव दक्षिणे भागे *मातलीश्वर*मुत्तमम्[^544] ।
 
 [^544]: "P and B. मातलेश्वरम्"
@@ -4953,8 +4519,6 @@ P adds here :-
 वासं तु कृतवान् पूर्वं कृत्तिवासस्ततो ह्यहम् ।
 
 अविमुक्ते स्थितश्चाऽहं तस्मिन् स्थाने महामुने ॥
-
-
 
 लिङ्गंदारुवने गुह्यमृषिसङ्घैस्तु पूजितम् ।
 
@@ -5002,8 +4566,6 @@ P adds here :-
 
 [^548]: "P and B. प्रविष्टाश्च पुनर्भवाः"
 
-
-
 अनेनैव शरीरेण प्राप्ता निर्वाणमुत्तमम् ।
 
 बहूनि तत्र तीर्थानि संख्या कर्तुं न शक्यते ॥
@@ -5047,8 +4609,6 @@ P adds here :-
 [^551]: " This line is missing in the Udaipur Ms. and is supplied  by the Punjab and Bhonsle Mss."
 
 मायामोहसमायुक्ता दम्भमोहसमन्विताः ॥
-
-
 
 शूद्रान्ननिरता विप्रा विह्वला रतिलालसाः ।
 
@@ -5099,8 +4659,6 @@ P adds here :-
 प्राप्यते द्विजशार्दूल कृत्तिवासे न संशयः ।
 
 कृते तु त्र्यम्बकं प्रोक्तं त्रेतायां कृत्तिवाससम् ॥
-
-
 
 माहेश्वरं तु देवस्य द्वापरे नाम गीयते ।
 
@@ -5154,8 +4712,6 @@ P adds here :-
 
 तेन तैः प्रेरिता यान्ति दुष्प्रापमकृतात्मभिः ॥
 
-
-
 अशाश्वतमिदं ज्ञात्वा मानुष्यं बहुकिल्बिषम् ।
 
 अविमुक्ते तु वस्तव्यं जप्तव्यं शतरुद्रियम् ॥
@@ -5204,8 +4760,6 @@ P adds here :-
 
 पूजनात्तदवाप्नोति षण्मासाभ्यन्तरेण तु ॥
 
-
-
 ममैव प्रीतिरतुला तस्मिन्नायतने सदा ।
 
 अन्ये च बहवस्तत्र सिद्धलिङ्गाश्च सुव्रते ॥
@@ -5251,8 +4805,6 @@ P adds here :-
 ते यान्ति परमं स्थानं सदाशिवमनामयम् ।
 
 भूता हि चैत्रमासस्य अर्चयेत्परमेश्वरम् ॥
-
-
 
 स वित्तेशपुरं प्राप्य क्रीडयेत् यक्षराडिव ।
 
@@ -5304,8 +4856,6 @@ P adds here :-
 
 माघे समर्चयित्वा वै पुष्पमूलफलैः शुभैः ॥
 
-
-
 प्राप्नोति शिवलोकं तु त्यक्त्वा संसारसागरम् ।
 
 कृत्तिवासेश्वरं देवमर्चयेत्तु प्रयत्नतः ॥
@@ -5355,8 +4905,6 @@ P adds here :-
 [^576]: "B and P. हरीशेश्वरसंज्ञितम्"
 
 रोगैश्चाऽपि प्रमुच्यन्ते हरिकेश्वरदर्शनात् ॥
-
-
 
 तुङ्गेशस्य समीपे तु दक्षिणे वरवर्णिनि ।
 
@@ -5408,8 +4956,6 @@ P adds here :-
 
 व्यासेश्वरं तु विख्यातमृषिसङ्घैस्तु वन्दितम् ॥
 
-
-
 व्यासकुण्डे नरः स्नात्वा अर्चयित्वा सुरान् पितृृन् ।
 
 अक्षयाँल्लभते लोकान् यत्र तत्राऽभिकाङ्क्षितान् ॥
@@ -5453,8 +4999,6 @@ P adds here :-
 मन्दाकिनीजले स्नात्वा दृष्ट्वा वै मध्यमेश्वरम् ।
 
 एकविंशकुलोपेतो रुद्रलोके वसेच्चिरम् ॥
-
-
 
 एतत्किल सदा प्राहुः पितरः सपितामहाः ।
 
@@ -5504,8 +5048,6 @@ P adds here :-
 
 [^585]: "P and B add [ ]"
 
-
-
 ब्रह्मतारेश्वरं चैवं तस्मिन् स्थाने सुरेश्वरि ।
 
 पितृभिः याज्ञवल्क्येन तत्र लिङ्गं प्रतिष्ठितम् ॥\]
@@ -5552,8 +5094,6 @@ P adds here :-
 
 अस्मिन् क्षेत्रे तु निर्माल्यं पापं संक्रमते तु यत् ॥
 
-
-
 तत् सर्वं विलयं याति सिद्धेश्वरस्य दर्शनात् ।
 
 ॥ इति श्रीलिङ्गपुराणे[^589] वाराणसीमाहात्म्ये गुह्यायतनवर्णनं नाम दशमोऽध्यायः ॥
@@ -5597,8 +5137,6 @@ P adds here :-
 तेन दृष्टेन देवेशि योगं विन्दति शाङ्करम् ।
 
 चतुःसमुद्रविख्यातः कूपस्तिष्ठति सुन्दरि ॥
-
-
 
 चतुःसमुद्रस्नानेन यत्फलं लभते नरः ।
 
@@ -5645,8 +5183,6 @@ P adds here :-
 दण्डेन देवदेवस्य स्थितेन सुमहत्सरः ॥
 
 दण्डखातमिति प्राहुर्ये पुराणविदो जनाः ।
-
-
 
 तस्मात्स्नानं तु कर्तव्यं तत्रैव श्रेय इच्छया ॥
 
@@ -5695,8 +5231,6 @@ P adds here :-
 एवमाराधितो देवि जैगीषव्येण धीमता ।
 
 तस्य पृष्टश्चाऽहं देवि सर्वान् कामान् प्रदत्तवान् ।
-
-
 
 तस्मात्तु सुकृतं लिङ्गं पूजयिष्यन्ति ये नराः ॥
 
@@ -5748,8 +5282,6 @@ P adds here :-
 
 तस्यैव पश्चिमे भागे लिङ्गं पश्चान्मुखं स्थितम् ॥
 
-
-
 चतुर्मुखंतु तलिङ्गमाषाढं नाम विश्रुतम् ।
 
 अन्यानि तत्र लिङ्गानि स्थापितानि महान्ति च ॥
@@ -5796,8 +5328,6 @@ P adds here :-
 
 [^601]: " P. B. पाशुपतीश्वरं"
 
-
-
 तस्य दर्शनमात्रेण पशुयोनिं न गच्छति ।
 
 चतुर्मुखं तु तल्लिङ्गं पश्चिमाभिमुखं स्थितम् ॥
@@ -5841,8 +5371,6 @@ P adds here :-
 मानवानां[^602] हितार्थाय त्वं च तत्र व्यवस्थिता ॥
 
 [^602]: "P. B. मनुष्याणां"
-
-
 
 आराधयन्ति देवि त्वामुत्तराभिमुखीं स्थिताम् ।
 
@@ -5891,8 +5419,6 @@ P adds here :-
 पृथ्वीं प्रदक्षिणं कृत्वा यत्फलं लभते नरः ।
 
 तत्फलं ललितायां च वाराणस्यां न संशयः ॥
-
-
 
 तेन ते नाम विख्यातं तथा मुखनिरीक्षिणी[^605]।
 
@@ -5946,8 +5472,6 @@ P adds here :-
 
 नरः पञ्चनदे स्नात्वा दृष्ट्वा लिङ्गं गभस्तिनः ॥
 
-
-
 अनन्तं फलमाप्नोति यत्र तत्राऽभिजायते ।
 
 *उपमन्युश्च* सुश्रोणि लिङ्गं स्थापितवांस्तथा ॥
@@ -5995,8 +5519,6 @@ P adds here :-
 तेषां तु दक्षिणे भागे लिङ्गं पश्चान्मुखस्थितम् ।
 
 बुधेश्वरं तथा कोणे सर्वसौख्यप्रदायकम् ॥
-
-
 
 बुधेश्वारात्तुकोणेन वायव्ये नातिदूरतः ।
 
@@ -6046,8 +5568,6 @@ P adds here :-
 
 तस्यैव चोत्तरे देवि पाण्डवैः सुमहात्मभिः ॥
 
-
-
 पञ्च लिङ्गानि पुण्यानि पश्चिमाभिमुखानि तु ।
 
 तेषामेते तु देवेशि लिङ्गं पश्चान्मुखं स्थितम् ॥
@@ -6093,8 +5613,6 @@ P adds here :-
 रक्तान्तनयनो घोरः सर्पयष्टिकरो[^618] महान् ॥
 
 [^618]: "P and B सार्पियष्टिकरो"
-
-
 
 दंष्ट्राकरालो विकृतो भिन्नाञ्जनसमप्रभः[^619]।
 
@@ -6144,8 +5662,6 @@ P adds here :-
 
 कर्ममार्गानुसारेण धात्राऽहं संप्रयोजितः ।
 
-
-
 नयामि सर्वमाक्रम्य नीयमानस्त्रिलोचने[^622]॥
 
 [^622]: " B. त्रिलोचनः"
@@ -6194,8 +5710,6 @@ P adds here :-
 
 ॥ इति श्रीलिङ्गपुराणे वाराणसीमाहात्म्ये गुह्यायतनवर्णने द्वादशोऽध्यायः ॥
 
-
-
 ईश्वर उवाच—
 
 उत्तरे तस्य देवस्य चित्रगुप्तेश्वरं स्थितम् ।
@@ -6241,8 +5755,6 @@ P adds here :-
 अपरं तस्य देवस्य लिङ्गं पश्चान्मुखं स्थितम् ॥
 
 नलकूबरेश्वरं नाम सर्वसिद्धिप्रदायकम् ।
-
-
 
 तस्यैव दक्षिणे देवि *मणिकर्णी*[^626] च विश्रुता ॥
 
@@ -6290,8 +5802,6 @@ P adds here :-
 
 तस्य दक्षिणपार्श्वे तु गङ्गया स्थापितेन तु ।
 
-
-
 गङ्गेश्वरेति नामानं सुरलोकप्रदायकम् ॥
 
 तस्योत्तरेण देवेशि निम्नगाभिस्ततः शुभे ।
@@ -6337,8 +5847,6 @@ P adds here :-
 तस्यैव चाऽग्रतो देवि लिङ्गं पूर्वामुखं स्थितम् ।
 
 इन्द्रेण स्थापितं देवि मम भक्त्या प्रतिष्ठितम् ॥
-
-
 
 तस्य दर्शनमात्रेण देवि ज्ञानं प्रवर्तते ।
 
@@ -6387,8 +5895,6 @@ P adds here :-
 दिव्या हि सा परा मूर्तिर्दिव्यज्ञानं हि तत् स्मृतम् ।
 
 अनुग्रहाय विप्राणां योजयिष्ये व्रतेन तु ॥
-
-
 
 ब्रह्मचारी गृहस्थश्च वानप्रस्थो यतिस्तथा ।
 
@@ -6440,8 +5946,6 @@ P adds here :-
 
 शूद्रान्नरसपुष्टस्य निष्कृतिस्तस्य कीदृशी ॥
 
-
-
 अमृतं ब्राह्मणस्याऽन्नं क्षत्रियान्नं पयः स्मृतम् ।
 
 वैश्यान्नमन्नमित्याहुः शूद्रान्नंरुधिरं स्मृतम् ॥
@@ -6485,8 +5989,6 @@ P adds here :-
 नकुलीशेश्वरं देवं कपिलेश्वरमेव च ।
 
 पञ्चायतनमेतत्तु यत्तु पूर्वमुदाहृतम् ॥
-
-
 
 रहस्यं परमं वेदं[^638]मम व्रतनिषेवणम् ।
 
@@ -6536,8 +6038,6 @@ P adds here :-
 
 अविमुक्ते न मोक्षस्तु कथं मे संभविष्यति ॥
 
-
-
 इममर्थंतु देवेशो यावचिन्तयते प्रभुः ।
 
 तावत् कुक्कुटशब्दस्तु तस्मिन् देशे समुत्थितः ॥
@@ -6584,8 +6084,6 @@ P adds here :-
 
 पूर्वेण तारको देवो जलं रक्षति सर्वदा ।
 
-
-
 नन्दीशश्चोत्तरेणैव महाकालस्तु दक्षिणे ॥  
 रक्षते तज्जलं नित्यं मद्भक्तानां तु मोहनम् ।
 
@@ -6616,8 +6114,6 @@ P adds here :-
 भविष्यति गणाध्यक्षो वरदः सर्वपूजितः ॥
 
 [^643]: " १८०, ९५-९८."
-
-
 
 अजेयश्चाऽपि सर्वेषां योगैश्वर्यसमन्वितः ।
 
@@ -6667,9 +6163,6 @@ P adds here :-
 
 प्रीतिकेश्वरनामानं प्रीतिं यच्छति शाश्वतीम् ॥  
 
-
-
-
 अविमुक्तोत्तेरणैव लिङ्गं पश्चान्मुखं स्थितम् ।
 
 अविमुक्तं च तं देवि नाम्ना वै मोक्षकेश्वरम् ॥
@@ -6714,8 +6207,6 @@ P adds here :-
 
 कचेन स्थापितं भद्रे देवाचार्यस्य सूनुना॥
 
-
-
 तस्यैव च समीपे तु कूपस्तिष्ठति सुव्रते[^578]।  
 तस्योपस्पर्शनाद्देवि सर्वमेधफलं लभेत् ॥  
 तस्यैव पश्चिमेभागे देवो देवी च तिष्ठतः ।  
@@ -6743,8 +6234,6 @@ P adds here :-
 तत्रैवाऽऽराधितो देवि हरिकेशेन सुव्रते ॥  
 हरिकेशेश्वरं देवं सर्वकिल्बिषनाशनम् ।  
 तस्य पश्चिमदिग्भागे गोकर्णंनाम विश्रुतम् ॥
-
-
 
 तत्र स्नातो वरारोहे राजते देवि[^650]चन्द्रवत् ।  
 पश्चिमाभिमुखं लिङ्गं काशिपुर्यां च सुव्रते \।\।  
@@ -6775,9 +6264,6 @@ P adds here :-
 
 [^653]: "P adds here: प्रियव्रतस्य तद्देवि सर्वयज्ञफलप्रदम् । तस्यैव दक्षिणे देवि लिङ्गं पूर्वामुखं स्थितम् ॥"
 
-
-
-
 तस्यैव दक्षिणे देवि लिङ्गं पूर्वामुखं स्थितम् ।  
 सर्वपापप्रशमनं गौतमेशं च नामतः ॥  
 तेन दृष्टेन देवेशि सामवेदफलं लभेत् ।  
@@ -6801,8 +6287,6 @@ P adds here :-
 तस्यैव पश्चिमे भागे ब्रह्मेशस्य समीपतः ।
 
 [^654]: " P. पश्चिमे"
-
-
 
 पश्चान्मुखं तु तल्लिङ्गं दृष्ट्वा वेदफलं[^655] लभेत्¹॥  
 अगस्त्यस्य समीपे तु मुखलिङ्गं तु तिष्ठति ।  
@@ -6828,8 +6312,6 @@ P adds here :-
 
 1\. P and B suppliy here these verses तस्यैव चाऽग्रतो देवि लिङ्गं पूर्वामुखं स्थितम् । दिलीपेश्वरनामानमिष्टापूर्तफलप्रदम् \।\।
 ब्रह्मेश्वरात् पश्चिमेन अगस्त्येशमिति स्मृतम् । पूर्वामुखं कृतं देवि अगस्त्येन महर्षिणा \।\।
-
-
 
 पुष्पदन्तेश्वरं नाम सर्वसिद्धिप्रदायकम् ।  
 तस्यैवाऽग्रे[^656] तु कोणे तु लिङ्गानि सुमहान्ति च ॥  
@@ -6861,8 +6343,6 @@ P adds here :-
 
 [^659]: "P. तिष्ठति"
 
-
-
 \[तस्य¹ दक्षिणदिग्भागे केदारं नाम विश्रुतम् ।  
 तं दृष्ट्वा मनुजो देवि रुद्रस्याऽनुचरो भवेत् ॥  
 केदाराद्दक्षिणे चैव लिङ्गं पूर्वामुखं स्थितम् ।  
@@ -6892,8 +6372,6 @@ P adds here :-
 
 P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- तस्यैव दक्षिणे देवि क्षेमेश्वरमनुत्तमम् । तस्य दक्षिणदिग्भागे चित्राङ्गेश्वरसंज्ञितम् \।\। चित्राङ्गदेन देवेशि विधिना संप्रतिष्ठितम् । तस्य पूजानमस्कारैः गन्धर्वाधिपतिर्भवेत् \।\।
 
-
-
 शुष्केश्वरात् पश्चिमेन नाम्ना तु जनकेश्वरम् ।  
 जनकेन महाभागे भक्त्या चाऽपि प्रतिष्ठितम् ॥  
 पश्चान्मुखं तु तल्लिङ्गं दर्शनादव्यथः शुभे ।  
@@ -6919,8 +6397,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 [^664]: " P. देवः"
 
 [^665]: "P. उत्तरपूर्वे तु"
-
-
 
 तस्य पूर्वेण सुश्रोणि लिङ्गं पूर्वामुखं स्थितम् ।  
 हरितेश्वरनामानं[^666] सर्वपापक्षयङ्करम् ॥  
@@ -6955,8 +6431,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^670]: "P and B पुण्यहृदास्तथा"
 
-
-
 तेषां मध्ये तु ये श्रेष्ठा मया ते कथिता शुभे ।  
 तीर्थयात्रा वरारोहे कथिता पापनाशिनी ॥  
 येन चैषा कृता देवि सोऽवश्यं मुक्तिभाग्भवेत् ।
@@ -6985,8 +6459,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 [^672]: " B. शैलेयम्"
 
 [^673]: " From दृष्ट्वा to ज्येष्ठस्थानं missing in B."
-
-
 
 तस्मिन् कूपे उपस्पृश्य दृष्ट्वोपशान्तमीश्वरम् ।  
 पञ्चचूडाह्रदे स्नात्वा ज्येष्ठस्थानं ततोऽर्चयेत् \।\।  
@@ -7026,8 +6498,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 1.B adds- येन क्रमेण कर्तव्यं तच्छृणुष्व वरानने । अग्नीशाने च कर्तव्यं स्नानं वै दीर्घिकाजले \।\। दृष्ट्वा देवं ततो गच्छेदूर्वशीश्वरमुत्तमम् ।
 
-
-
 अष्टायतनमेवं हि मया ते परिकीर्तितम् ।  
 अष्टायतनमेतद्धि करिष्यन्ति हि ये नराः ॥  
 ते मृताऽपि बहिः क्षेत्रे रुद्रलोकस्य भाजनाः ।
@@ -7060,8 +6530,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 कारणं तस्य क्षेत्रस्य मया ते कथितं शुभे ।  
 इयं वाराणसी पुण्या श्रेष्ठा पाशुपती स्थली \।\।
 
-
-
 सर्वेषां चैव जन्तूनां हेतुर्मोक्षस्य सुन्दरि ।
 
 तथा—
@@ -7092,8 +6560,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 [^683]: "P and B शुभे"
 
 [^684]: "B and P omit this line and the next"
-
-
 
 ऋषिभिश्चापि यात्रेयं कार्त्तिके मासि तत्परैः ।
 
@@ -7145,8 +6611,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 तस्मात् स्थानात्तु गन्तव्यमविमुक्तस्य चोत्तरे ।
 
-
-
 तत्र देवी सदा गौरी पूजितव्या च भक्तितः ॥
 
 अन्या वाऽपि परा प्रोक्ता संवर्तललिता शुभा[^687]।
@@ -7197,8 +6661,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 उत्तरे भीष्मचण्डी च महामुण्डा च सा ततः ॥
 
-
-
 ऊर्ध्वकेशी समायुक्ता शाङ्करी सर्वतः स्मृता ।
 
 ऊर्ध्वकेशी च आग्नेय्यां चित्रघण्टाऽथ मध्यतः ॥
@@ -7247,8 +6709,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 कपालमोचनं नाम तत्रैव सुमहत्सरः ॥
 
-
-
 पावनं सर्वसत्त्वानां पुण्यदं सर्वदेहिनाम् ।
 
 ओङ्कारेश्वरनामानं तत्र स्नानं कृतं मया ॥
@@ -7294,8 +6754,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 आराधनपरो भूत्वा लिङ्गं स्थाप्य चतुर्मुखम् ।
 
 देवदेवसकाशाद्वै कृतकृत्यो भवेच्छुचिः ॥
-
-
 
 यः संप्राप्य महत्तत्त्वमीश्वरे कृतनिश्चयः ।
 
@@ -7347,10 +6805,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 तेषां वै पश्चिमे काले ज्ञानमुत्पद्यते सदा ॥
 
-
-
-
-
 एवं ज्ञात्वा तु यो मर्त्यः सदा लिङ्गार्चने रतः ।
 
 न तस्य पुनरावृत्तिः कल्पकोटिशतैरपि ॥
@@ -7364,8 +6818,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 लिङ्गं योऽर्चयते विप्रआत्मानं स समुद्धरेत् ।
 
 आत्मानं घातयेन्नित्यं यो न लिङ्गं समर्चयेत् ॥
-
-
 
 ॥ इति श्रीलिङ्गपुराणे वाराणसीमाहात्म्ये गुह्यायतनवर्णनं नामाऽष्टादशोऽध्यायः ॥
 
@@ -7398,8 +6850,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 प्रसादं कुरु देवेश सुरभीणां सुतेजसाम् ।
 
 विनश्येयुर्यथा नेमास्तथा कुरु सुरार्चितः ॥
-
-
 
 ततोऽहमास्थितो देवि स्थानेऽस्मिन् स्वयमेव तु ।
 
@@ -7451,8 +6901,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 अत्राऽहं ब्रह्मणाऽऽनीय स्थापितः परमेष्ठिना ॥
 
-
-
 ब्रह्मणश्चाऽपि संगृह्य विष्णुना स्थापितः पुनः ।
 
 ब्रह्मणा स ततो विष्णुः प्रोक्तः संभिन्नचेतसा ॥
@@ -7501,8 +6949,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 ज्येष्ठस्थानमिदं तस्मादेतन्मे पुण्यदर्शनम् ॥
 
-
-
 दृष्ट्वैवं मम लिङ्गं तु ज्येष्ठस्थानसमाश्रितम् ।
 
 न शोचते पुनर्मर्त्यः सिद्धो जन्मनि जन्मनि ॥
@@ -7548,9 +6994,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 स्थापितं लिङ्गमेतच्चशुक्रेण तव सूनुना ।
 
 नाम्ना शुक्रेश्वरं लिङ्गं सर्वसिद्धामरार्चितम् ॥  
-
-
-
 
 दृष्ट्वैव मानवः सद्यो मुक्तः स्यात् सर्वकिल्बिषैः ।
 
@@ -7600,8 +7043,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 सद्यः पापविनिर्मुक्तः पशुपाशैर्विमुच्यते ॥
 
-
-
 शैलेश सङ्गमेशं च स्वर्लीनं मध्यमेश्वरम् ।
 
 हिरण्यगर्भमीशानं[^703] गोप्रेक्षं वृषभध्वजम् ॥
@@ -7615,9 +7056,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 दृष्ट्वा न जायते मर्त्यः संसारे दुःखसागरे ॥
 
 ॥ इति भट्टहृदयधरात्मजमहासन्धिविग्रहिकभट्ट-श्रीमलक्ष्मीधरविरचिते कृत्यकल्पतरौ तीर्थकाण्डे वाराणसीमाहात्म्यं समाप्तम् ॥  
-
-
-
 
 ॥ ३ ॥
 
@@ -7660,8 +7098,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 एतत्प्रजापतेः क्षेत्रं त्रिषु लोकेषु विश्रुतम् ।
 
 यत्र स्नात्वा दिवं यान्ति ये मृतास्तेऽपुनर्भवाः ॥
-
-
 
 तत्र ब्रह्मादयो देवा रक्षां कुर्वन्ति सर्वदा ।
 
@@ -7706,8 +7142,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 धर्मानुसारी तत्त्वज्ञो गोब्राह्मणहिते रतः ।
 
 गङ्गायमुनयोर्मध्ये स्नातो मुच्येत किल्विषात् ॥
-
-
 
 मनसा चिन्तितान् कामांस्तांश्च प्राप्नोति पुष्कलान् ।
 
@@ -7754,8 +7188,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 दीप्तकाञ्चनवर्णाभैर्विमानैः सूर्यवर्चसैः ।
 
 गन्धर्वाप्सरसां मध्ये स्वर्गे मोदति मानवः ॥
-
-
 
 ईप्सिताँल्लभते कामान् वदन्ति ऋषिपुङ्गवाः ।
 
@@ -7805,8 +7237,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 यस्तु गां प्रतिगृह्णाति गङ्गायमुनसङ्गमे ॥
 
-
-
 सुवर्णमणिमुक्तां वा यदि वाऽन्यं प्रतिग्रहम् ।
 
 स्वकार्ये पितृकार्ये वा देवताभ्यर्चनेऽपि वा ॥
@@ -7850,8 +7280,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 उत्तरान् स कुरून प्राप्य मोदते कालमक्षयम् ।
 
 गवां शतसहस्रेभ्यो दद्यादेकां पयस्विनीम् ॥
-
-
 
 पुत्रान् दारांस्तथा भृत्यान् गौरेका प्रतिकारयेत् ।
 
@@ -7901,8 +7329,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 उत्तरान् स कुरून् गत्वा मोदते कालमक्षयम् ॥
 
-
-
 पुत्रदारांश्च लभते धार्मिकान् रूपसंयुतान् ।
 
 तत्र दानं प्रदातव्यं यथाविभवसंभवम् ॥
@@ -7948,8 +7374,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 मृत्तिकालम्भनाद्वाऽपि नरः पापात् प्रमुच्यते ।
 
 तत्राऽभिषेकं यः कुर्यात् संगमे संशितव्रतः ॥
-
-
 
 तुल्यं फलमवाप्नोति राजसूयाश्वमेधयोः ।
 
@@ -7998,8 +7422,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 उत्तरेण प्रतिष्ठानाद्भागीरथ्यास्तु पूर्वतः ।
 
 हंसप्रतपनं नाम तीर्थंत्रैलोक्यविश्रुतम् ॥
-
-
 
 अश्वमेधफलं तस्मिन् स्नानमात्रेण भारत ।
 
@@ -8051,8 +7473,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 कोटितीर्थं समासाद्य यस्तु प्राणान् परित्यजेत् ॥
 
-
-
 कोटिवर्षसहस्राणां स्वर्गलोके महीयते ।
 
 ततः स्वर्गात् परिभ्रष्टः क्षीणकर्मा दिवश्च्युतः ॥
@@ -8098,8 +7518,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 ततः स्वर्गात् परिभ्रष्टः क्षीणकर्मा दिवश्च्युतः ।
 
 सुवर्णमणिमुक्ताढ्येजायते विपुले कुले ।
-
-
 
 षष्टितीर्थसहस्राणि षष्टितीर्थशतानि च ।
 
@@ -8149,8 +7567,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 विहगैरुपभुक्तस्य शृणु तस्याऽपि यत्फलम् ॥
 
-
-
 शतं वर्षसहस्राणां सोमलोके महीयते ।
 
 तस्मादपि परिभ्रष्टो राजा भवति धार्मिकः ॥
@@ -8198,8 +7614,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 पञ्चयोजनविस्तीर्णं प्रयागस्य तु मण्डलम् ।
 
 प्रवेशात्तस्य तद्भूमौ सोऽश्वमेधः पदे पदे ॥
-
-
 
 व्यतीतान् पुरुषान् सप्त भविष्यांश्च चतुर्दश ।
 
@@ -8249,8 +7663,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 अज्ञानेन तु यस्येह तीर्थयात्रादिकं भवेत् ॥
 
-
-
 सर्वकामसमृद्धस्तु स्वर्गलोके महीयते ।
 
 स्थानं च लभते नित्यं धनधान्यसमाकुलम् ॥
@@ -8299,8 +7711,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^738]: "P. निरुदकं"
 
-
-
 उपासते सदा सन्ध्यां नित्यं काले युधिष्ठिर ॥
 
 देवाः सेवन्ति तत्तीर्थं ये चाऽन्ये विदुषो जनाः ।
@@ -8348,8 +7758,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 गया च धेनुकं चैव गङ्गासागरमेव च ॥
 
 एते चाऽन्ये च बहवो ये च पुण्याः शिलोच्चयाः ।
-
-
 
 दशतीर्थसहस्राणि तिस्रः कोट्यस्तथाऽपराः ।
 
@@ -8401,8 +7809,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 महेश्वरो वटो भूत्वा तिष्ठते परमेश्वरः ॥
 
-
-
 ततो देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।
 
 रक्षन्ति मण्डलं सर्वंपापकर्मनिवारणात् ॥
@@ -8449,8 +7855,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 दशतीर्थसहस्राणि षष्टिकोट्यस्तथाऽपराः ॥
 
-
-
 येषां सान्निध्यमत्रैव कीर्तितं कुरुनन्दन ।
 
 चतुर्वेदेषु यत् पुण्यं सत्यवादिषु चैव यत् ॥
@@ -8470,8 +7874,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 सिद्धिक्षेत्रं हि तज्ज्ञेयं गङ्गातीरसमाश्रितम् ।
 
 ॥ इति श्रीभट्टहृदयधरात्मजमहासान्धिविग्रहिकभट्ट-श्रीमल्लक्ष्मीधरविरचिते कृत्यकल्पतरौ तीर्थकाण्डे प्रयागमाहात्म्यं समाप्तम् ॥
-
-
 
 ॥४॥
 
@@ -8514,8 +7916,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 पूर्वे वयसि कर्माणि कृत्वा पापानि ये नराः ।
 
 पश्चाद्गङ्गांनिषेवन्ते तेऽपि यान्त्युत्तमां गतिम् ॥
-
-
 
 स्नातानां शुचिभिस्तोयैर्गाङ्गेयैः प्रयतात्मनाम् ।
 
@@ -8565,8 +7965,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 गतिमन्वेषमाणानां न गङ्गासदृशी गतिः ॥
 
-
-
 भवन्ति निर्विषाः सर्पाः यथा तार्क्ष्यस्य दर्शनात् ।
 
 गङ्गाया दर्शनात्तद्वत् सर्वपापैः प्रमुच्यते ॥
@@ -8614,8 +8012,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 [^755]: "Omitted verse supplied by P, which notes the śloka on the margin. It is missing in B."
 
 त्रयोदशाऽर्जितं पापं जन्मजं नश्यति ध्रुवम् ॥\]
-
-
 
 श्रुताऽभिलपिता दृष्टा स्पृष्टा पीताऽवगाहिता ॥
 
@@ -8665,8 +8061,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^756]: "P. गङ्गा विगाह्या सततं B omits this line"
 
-
-
 तथा—
 
 गङ्गां गत्वा यैः शरीरं विसृष्टं
@@ -8715,8 +8109,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 षष्ठ्यादौ कृष्णपक्षे तु भूमौ सन्निहिता भवेत् ॥
 
-
-
 यावत्पुण्याममावास्यां दिनानि दश नित्यशः ।
 
 शुक्लप्रतिपदारभ्य दिनानि दशसंख्यया ॥
@@ -8763,8 +8155,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^761]: " १०६, ४९-५६"
 
-
-
 कुरुक्षेत्राद्दशगुणा यत्र विन्ध्येन संगता ॥
 
 विन्ध्याच्छतगुणा प्रोक्ता काशिपुर्यां तु जाह्नवी ।
@@ -8810,8 +8200,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 कीर्तनान्मुच्यते पापाद्दृष्ट्वा भद्राणि पश्यति ।
 
 अवगाह्य च पीत्वा च पुनात्यासप्तमं कुलम् ॥
-
-
 
 विष्णुपुराणे—
 
@@ -8869,8 +8257,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^767]: " B. द्विजरूपाः"
 
-
-
 स्नाता निर्धूतपापाश्च यज्जले यत्तपस्तथा।  
 केशवासक्तमनसः प्राप्ता निर्वाणमुत्तमम् ॥  
 स्तुताऽभिलषिता दृष्टा स्पृष्टा पीताऽवगाहिता ।  
@@ -8905,8 +8291,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 तीर्थकाण्डे गङ्गामाहात्म्यं
 
 समाप्तम् ॥
-
-
 
 ॥५॥
 
@@ -8949,8 +8333,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 उवास धन्यां धृतिमानपुत्रः
 
  स्वयं विशालाधिपतिर्द्विजाग्र्याम् ॥
-
-
 
 पप्रच्छ पुत्रार्थममित्रहन्ता
 
@@ -8998,8 +8380,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
  नृशंसकृद्ब्रह्महा पापकारी ॥
 
-
-
 अधीश्वरः शृणु परः पिताऽस्य
 
   कृष्णो नाम्ना कर्मणा वर्णतश्च ।
@@ -9043,8 +8423,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 तत्रपिण्डप्रदानेन एतौ तव पितामहौ ।
 
 'पितामहौ' पितामहप्रपितामहौ ।
-
-
 
 दुर्गतावपि संसिद्धौ पापाद्विकृतिलिङ्गिनौ ॥
 
@@ -9091,8 +8469,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 प्रेतराजो वणिजं कञ्चित् प्रत्याह—
 
 गयायां तीर्थजुष्टायां स्नात्वा शौचसमन्वितः ॥
-
-
 
 मम नाम समुद्दिश्य पिण्डनिर्वपणं कुरु ।
 
@@ -9142,8 +8518,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 गयाशीर्षेऽक्षयवटे पितॄणां दत्तमक्षयम् ॥
 
-
-
 ब्रह्मारण्यं धर्मपृष्ठं धेनुकारण्यमेव च ।
 
 दृष्ट्वैतानि पितृृंश्चाऽऽर्य वंशान् विंशतिमुद्धरेत् ॥
@@ -9192,8 +8566,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 उत्तरं मानसं गत्वा सिद्धिं प्राप्नोत्यनुत्तमाम् ॥
 
-
-
 तस्मिन्निर्वर्तयेच्छ्राद्धं यथाशक्ति यथावलम् ।
 
 कामान् स लभते दिव्यान् मोक्षोपायांश्च कृत्स्नशः ॥
@@ -9237,8 +8609,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 सवत्सायाः पदानि स्म दृश्यन्तेऽद्याऽपि तत्र वै ॥
 
 तं यूपं स्पृश्य राजेन्द्र पादेषु नृपसत्तम ।
-
-
 
 यत्किंचिदशुभं कर्म तत्प्रणश्यति भारत ।
 
@@ -9290,8 +8660,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 ततो गच्छेत्तु राजेन्द्र ब्रह्मणस्तीर्थमुत्तमम् ॥
 
-
-
 तत्राऽभिगम्य राजेन्द्र ब्रह्माणं भरतर्षभ ।
 
 राजसूयाश्वमेधाभ्यां फलमाप्नोति मानवः ॥
@@ -9342,8 +8710,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 राजर्षिणा पुण्यकृता गयेनाऽनुपमद्युते ॥
 
-
-
 नगो गयशिरो यत्र पुण्या चैव महानदी ।
 
 ऋषिजुष्टं महापुण्यं तीर्थं ब्रह्मसरोऽतुलम् ॥
@@ -9390,8 +8756,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^790]: " वा. पु. अ. ८३, ४, स्नात्वा ब्रह्मतडागे तु (Venkateśwar edn.p. 138
 
-
-
 पिण्डनिर्वपणं पुण्यं पितॄणां स चकार ह ।
 
 नरसिंहपुराणे—
@@ -9434,8 +8798,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 यजेत वाऽश्वमेधेन नीलं वा वृषमुत्सृजेत् ॥”
 
-
-
 वसिष्ठः—
 
 नन्दन्ति पितरस्तस्य सुवृष्टेरिव कर्षकाः ।
@@ -9452,13 +8814,9 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 समाप्तम् ॥
 
-
-
 **॥ ६ ॥**
 
 **॥**
-
-
 
 **अथ कुरुक्षेत्रमाहात्म्यम्॥**
 
@@ -9497,8 +8855,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 कलिद्वापरयोर्मध्ये व्यासेन च महात्मना ।
 
 सरःप्रमाणं यत्प्रोक्तं तच्छृणुध्वं द्विजोत्तमाः ॥
-
-
 
 विश्वेश्वरादस्ति पुरा तथाऽरण्या[^798]जरद्गवी ।
 
@@ -9547,8 +8903,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 ततोऽहं ताः प्रजा दृष्ट्वा पिहितास्तेन तेजसा ।
 
 क्रोधेन महता युक्तो लिङ्गमुत्पाट्यचाऽक्षिपम् ॥
-
-
 
 संक्षिप्तः[^802] सरसोर्मध्ये ऊर्ध्वमेव पुनः[^803] स्थितः ।
 
@@ -9600,8 +8954,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 फलं प्राप्नोति च तदा राजसूयाश्वमेधयोः ॥
 
-
-
 तथा—
 
 ततो[^808] गच्छेच्च धर्मज्ञ तीर्थं सन्निहतीमपि ।
@@ -9652,8 +9004,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 उत्तरेण दृषद्वत्यां दक्षिणेन सरस्वतीम् ।
 
-
-
 ये वसन्ति कुरुक्षेत्रे ते वसन्ति त्रिविष्टपे ।
 
 कुरुक्षेत्रं गमिष्यामि कुरुक्षेत्रे वसाम्यहम् ॥
@@ -9674,7 +9024,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 एतत् कुरुक्षेत्रसमन्तपञ्चकं
 
- 
 पितामहस्यो[^814]त्तरवेदिरुच्यते ॥
 
 [^814]: "वी. मि. ती. p. 458 प्रजापतेः for पितामहस्य"
@@ -9685,12 +9034,9 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
   तीर्थकाण्डे कुरुक्षेत्रमाहात्म्यं
 
-                                
 समाप्तम्[^815] ॥
 
 [^815]: " B. कुरुक्षेत्रमाहात्म्यपरिच्छेदः"
-
-
 
 ॥७॥
 
@@ -9740,8 +9086,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^820]: " वी. मि. ती. p. 476 has wrongly नपि गच्छेत्"
 
-
-
 पृथूदकात् पुण्यतमं नाऽन्यत्तीर्थं नराधिप ।
 
 एतन्मेध्यं पवित्रं च पावनं च न संशयः ॥
@@ -9759,8 +9103,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 तीर्थकाण्डे पृथूदकमाहात्म्यं
 
 समाप्तम् ॥
-
-
 
 **॥ ८॥**
 
@@ -9803,8 +9145,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 पुष्करेषु महाभाग देवाः सर्षिगणाः पुरा ।
 
 सिद्धिं समभिसंप्राप्ताः पुण्येन महताऽन्विताः ॥
-
-
 
 तत्राऽभिषेकं यः कुर्यात् पितृदेवार्चने रतः ।
 
@@ -9854,8 +9194,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 यस्तु वर्षशतं पूर्णमग्निहोत्रमुपाचरेत् ॥
 
-
-
 कार्तिकीं वा वसेदेकां पुष्करे सममेव तत् ।
 
 दुष्करं पुष्करे स्नानं दुष्करं पुष्करे तपः ॥
@@ -9901,8 +9239,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 एतस्मात् कारणाद्यानं वियत्येव चिरं[^834]स्थितम् ॥
 
 [^834]: "P and B, and वी. मि. ती. P. 485 स्थिरं"
-
-
 
 कार्त्तिक्यां पुष्करे स्नातुं स्वयमेवाऽभिगच्छति ।
 
@@ -9950,8 +9286,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^838]: "The whole of this section is reproduced verbatim by  वी. मि. ती."
 
-
-
 ॥९॥
 
 ॥ अथ मथुरामाहात्म्यम्॥
@@ -9993,9 +9327,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 [^842]: "P and B, and वी. मि. ती. p. 503. read यथा for तथा"
 
 भविष्यति न सन्देहो गङ्गायास्तदनन्तरम् ।
-
-
-
 
 'सा[^843] प्रयागे त्वि'ति । 'तदनन्तरं' मथुराया अनन्तरम् 'प्रयागे' ब्रह्मक्षेत्रे गङ्गायाः संबन्धाद्यथा यमुना शुभा भवि-ष्यति, तथाऽत्र प्रथममेव मथुरायां शुभा भविष्यतीत्यर्थः ॥
 
@@ -10042,8 +9373,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 देवा अपि न जानन्ति नागा यक्षा महासुराः ।
 
 तत्र स्नानं प्रकुर्वीत एकभक्तोषितो नरः ॥
-
-
 
 मोदते नागलोकेषु एवमेतन्न संशयः ।
 
@@ -10097,8 +9426,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^852]: "P and B, शुभकारिणाम्"
 
-
-
 अथाऽत्र स्नानं कुर्वीत एकरात्रोषितो नरः ।
 
 मोदते सूर्यलोकेषु[^853]एवमेतन्न संशयः ॥
@@ -10148,8 +9475,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 यस्तत्र तिष्ठते भूमिमेकरात्रोषितो नरः ।
 
 स वायुभवनं गत्वा मोदते कृतनिश्चयः ॥
-
-
 
 अथाऽत्र मुञ्चति प्राणान् याति लोकं ममाऽक्षयम् ।
 
@@ -10201,8 +9526,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^862]: "B. वल्लणम्"
 
-
-
 अथाऽत्र मुञ्चति प्राणांस्तीर्थेबल्लभके[^863]मम ॥
 
 [^863]: "B. वल्लणके"
@@ -10248,8 +9571,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 तत्राऽभिषेकं कुर्वीत चतुःकालसमन्वितः ।
 
 वत्सप्रक्रीडनं नाम तस्मिन् गुह्यं परं मम ।
-
-
 
 मथुरापश्चिमे पार्श्वे अदूरादर्धयोजनात् ॥
 
@@ -10301,8 +9622,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 तत्र तिष्ठाम्यहं भद्रे दिशं पूर्वांसमाश्रितः ॥
 
-
-
 हिरण्यप्रतिमां कृत्वा बृहद्रूपश्चतुर्भुजः ।
 
 दक्षिणे गच्छतः पार्श्वे कूपोऽत्र विमलोदकः ॥
@@ -10349,8 +9668,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 ज्येष्ठे मास्यमले पक्षे द्वादश्यामुपवासकृत् ॥
 
-
-
 समभ्यर्च्याऽच्युतं सम्यङ्मथुरायां समाहितः ।
 
 अश्वमेधस्य यज्ञस्य प्राप्नोत्यविकलं फलम् ॥
@@ -10386,8 +9703,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 तीर्थकाण्डे मथुरामाहात्म्यं
 
 समाप्तम् ॥
-
-
 
 ॥ १०॥
 
@@ -10428,8 +9743,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 तत् सर्वंच व्ययीभूतं न चाऽन्यदिह दृश्यते ॥
 
 आगतासु भवन्तीषु किं देयं वै मया भवेत् ।
-
-
 
 अपूर्वं भवतीनां च मया यं विशेषतः ॥
 
@@ -10479,8 +9792,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 हंसयुक्तेन यानेन ब्रह्मलोके महीयते ।
 
-
-
 मत्स्यपुराणे—
 
 प्रयागे वा भवेन्मोक्षो महाकालेऽथवा प्रिये ।
@@ -10504,10 +9815,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 समाप्तम् ॥
 
 [^885]: "Colophon as in P"
-
-
-
-
 
 **॥ ११ ॥**
 
@@ -10548,8 +9855,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 पुण्या च त्रिषु लोकेषु माननीया[^892]मनोरमा ॥
 
 [^892]: "P and B as well as वी. मि. ती. p. 380 and म पु. read रमणीया"
-
-
 
 तत्र स्नात्वा नरो राजन्नियमस्थो जितेन्द्रियः ।
 
@@ -10600,8 +9905,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 [^897]: " P and B, द्वयमायते"
 
 षष्टितीर्थसहस्राणि षष्टिकोट्यस्तथैव च ॥
-
-
 
 पर्वते तत्र सुशुभे तिष्ठत्यमरकण्टके ।
 
@@ -10655,8 +9958,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^905]: "Udaipur Ms. ईदृशेनैव"
 
-
-
 यादृशोऽयं मृतः श्रेष्ठः पर्वतेऽमरकण्टके ।
 
 तावत्तीर्थं तु विज्ञेयं पर्वतस्य तु पश्चिमे ॥
@@ -10705,8 +10006,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 तत्र स्नात्वानरो राजन् ब्रह्मचारी जितेन्द्रियः ॥
 
-
-
 उपोष्य रजनीमेकां कुलानां तारयेच्छतम् ।
 
 कपिला च विशल्या च श्रूयते राजत्तम ॥
@@ -10752,8 +10051,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 यज्ञाः पवित्रमन्त्राणि प्रविभक्तानि पाण्डव ।
 
 तेषां स्नात्वा तु राजेन्द्र सर्वपापैः प्रमुच्यते ॥
-
-
 
 तथा—
 
@@ -10807,8 +10104,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^916]: "[ ] Two lines are omitted by B"
 
-
-
 तत्र स्नात्वा दिवं यान्ति येऽमृतास्तेऽपुनर्भवाः ।\]
 
 ज्वालेश्वरे महाराज यस्तु प्राणान् परित्यजेत् ॥
@@ -10857,8 +10152,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^920]: " P and B, भाति"
 
-
-
 षष्टिवर्षसहस्राणि षष्टिकोटीस्तथाऽपराः[^921] ॥
 
 [^921]: "P. षष्टिकोट्यस्तथाऽपराः"
@@ -10888,8 +10181,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 [^925]: "P [ ] supplies the words in brackets:"
 
 तीर्थकाण्डे नर्मदामाहात्म्यं समाप्तम् ॥
-
-
 
 **॥ १२ ॥**
 
@@ -10930,8 +10221,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 तत्र यो मुञ्चति प्राणान् कौमुदस्य तु द्वादशीम् ॥
 
 पुष्कलां लभते सिद्धिं मम लोकाय गच्छति ।
-
-
 
 मा[^929]यातीर्थमिति[^930]ख्यातं येन मायां विजानते ॥
 
@@ -10983,8 +10272,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 तत्राऽथ म्रियते भूमि माघमासे तु द्वादशीम् ॥
 
-
-
 ब्रह्माणं मां च पश्येत[^933] तथैव वृषभध्वजम् ।
 
 [^933]: "B.दृश्येत "
@@ -11025,8 +10312,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 समाप्तम् ॥
 
-
-
 **॥ १३ ॥  
 ॥ अथ सूकरमाहात्म्यम् ॥**
 
@@ -11065,8 +10350,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 ये मृतास्तत्र सुश्रोणि क्षेत्रे सूकरके मम \।
 
 तारितास्सर्वसंसाराच्छ्वेतद्वीपाय यान्ति ते ॥
-
-
 
 चक्रतीर्थंमहाभागे चक्रं यत्र प्रतिष्ठितम् ।
 
@@ -11120,8 +10403,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 अहोरात्रोषितस्तत्र यः करोति यशस्विनि ॥
 
-
-
 तीर्थे स्नानं विनिर्मुक्तो मम कर्मपरायणः ।
 
 \ [स[^943] तं मृगयते तीर्थं योगायतनसंस्थितः ॥
@@ -11172,8 +10453,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 आत्मनः पश्यति च्छायां यथा न्यायपथे स्थितः ॥
 
-
-
 सोमश्चैव न दृश्येत एष वै विस्मयः परः ।
 
 एतत्ते कथितं भद्रे सोमतीर्थविनिश्चितम्[^948] ॥
@@ -11222,10 +10501,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 समाप्तम् ॥
 
-
-
-
-
 **॥ अथ कोकामुखमाहात्म्यम् ॥**
 
 ** तत्र वराहपुराणे -**
@@ -11256,8 +10531,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
  **तथा-**
 
-
-
 पञ्चयोजनविस्तारे[^954] क्षेत्रे कोकामुखे मम ।
 
 [^954]: " १४०, ८४"
@@ -11267,10 +10540,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 तत्र कोकामुखे तीर्थे स्थितोऽहं दक्षिणामुखः ।
 
 वराहरूपी भगवांस्तिष्ठामि पुरुषाकृतिः ॥
-
-
-
-
 
 वामोन्नतमुखं कृत्वा पञ्चदंष्ट्रासमन्वितम् ।
 
@@ -11300,19 +10569,13 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 तीर्थकाण्डे कोकामुखमाहात्म्यं  
 समाप्तम् ॥
 
-
-
 **॥ १५ ॥**  
 
 **॥ अथ बदरिकाश्रममाहात्म्यम् ॥**
 
-
-
 तत्र वराहपुराणे-
 
 ** वराह उवाच-**
-
-
 
 तस्मिन्[^957] हिमवतः पृष्ठे स्थानं गुह्यं परं मम ।
 
@@ -11344,9 +10607,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 अग्निकुण्डेति विख्यातं तत्र कुण्डे परं मम ॥  
 
-
-
-
 यदि तत्र कृतप्राणः कृतचान्द्रायणव्रतः ।
 
 अग्निलोकमतिक्रम्य मम लोकं स गच्छति ॥
@@ -11356,8 +10616,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 समाप्तम् ॥
 
 [^960]: "P and B omit the colophon"
-
-
 
 **॥ १६॥**  
 
@@ -11401,8 +10659,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 तपः कृत्वा महाभागे मम लोकं स गच्छति ॥
 
-
-
 ** तथा-**
 
 मन्दारं[^964] परमं गुह्यं तस्मिन् गुह्ये शिलोच्चये ।
@@ -11424,8 +10680,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 समाप्तम् \।\।
 
 [^936]: " P and B omit the colophon"
-
-
 
 **॥ १७॥**
 
@@ -11462,10 +10716,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 अगाधश्च सदा भूमि देवानामपि दुर्लभः ॥
 
 तस्मिन् ह्रदे महाभागे सदा मम कृतोदके ।
-
-
-
-
 
 चक्राङ्काः परितो मत्स्याः पर्यटन्ति इतस्ततः ॥
 
@@ -11515,8 +10765,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 मृता अत्र नरा यान्ति मां सत्कर्मानुसारिणः ।
 
-
-
 ** महाभारते -**
 
 सदा[^972] सन्निहितो यत्र हरिर्वसति भारत ।
@@ -11552,8 +10800,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 समाप्तम् ॥
 
 [^960]: "P and B omit the colophon"
-
-
 
 **॥ १८ ॥**
 
@@ -11595,19 +10841,12 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 ये च पश्यन्ति मां भूमि मणिपूरगिरौ स्थितम् ।  
 
-
-
-
-
-
 त्रि[^977]सन्ध्यमावसन्तस्तु मत्प्रसादाच्च सुन्दरि ॥  
 ते सर्वे किल्बिषान्मुक्ता यान्ति ते परमां गतिम् ।
 
 [^977]: "P. त्रिसन्ध्यमाचमन्तस्तु "
 
  तथा-
-
-
 
 सु[^978]गुह्यं पूर्वपार्श्वे तु मम क्षेत्रस्य सुन्दरि ।
 
@@ -11647,10 +10886,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 तत्र तिष्ठाम्यहं देवि पश्चिमां दिशमास्थितः ।
 
-
-
-
-
 तत्र चाऽमलका भद्रे अदूरादर्धयोजनात् ॥
 
 तान्न कश्चिद्विजानाति पापकर्मा नराधमः ।
@@ -11671,9 +10906,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 तीर्थकाण्डे स्तुतस्वामिमाहात्म्यं समाप्तम् ॥  
 
 [^980]: "P omits the colophon"
-
-
-
 
 **॥ १९ ॥**
 
@@ -11718,10 +10950,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 अथवा मुञ्चति प्राणान् मामेव प्रतिपद्यते ॥
 
 प्लक्षो वै तत्र सुश्रोणि शतशाखो महाद्रुमः ।
-
-
-
-
 
 चतुर्विंशतिद्वादश्यां स भवेत् फलभागसौ[^986] ॥
 
@@ -11771,10 +10999,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 मम चोत्तरपार्श्वे तु अदूरात्सप्तयोजनम् ।
 
-
-
-
-
 तत्सरो मम पार्श्वे तु देवानामपि दुर्लभम् ॥
 
 अस्ति[^990] रैवतकं नाम तस्मिन् क्षेत्रे परं मम ।
@@ -11821,9 +11045,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^994]: " P omits colophon"
 
-
-
-
 **॥ २० ॥**
 
 **॥ अथ[^995] लोहार्गलमाहात्म्यम् ॥**
@@ -11868,8 +11089,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 अन्यच्च ते प्रवक्ष्यामि तत्र यत् परमाद्भुतम् ॥
 
-
-
 चतुर्विंशतिद्वादश्यां न मांसेन विना मम ।
 
 बलिर्हि दीयते तत्र सर्वकामविशोधनः ॥
@@ -11897,8 +11116,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^1000]: " P omits colophon. वी. मि. reproduces this section"
 
-
-
 **॥ २१ ॥**
 
 **॥ अथ[^1001] केदारमाहात्म्यम् ॥**
@@ -11916,8 +11133,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 तत्र रेतोदकं शक्र पूर्वं देवेन निर्मितम् \।\।
 
 गोपितं पिहितं तच्च न विज्ञातं सुरासुरैः ।
-
-
 
  तथा-
 
@@ -11942,10 +11157,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 दर्शितं ज्ञानमुदकं पीत्वा न जन्मसंभवः[^1005] ।
 
 [^1005]: " P and B, पशूनां पाशमोक्षणम्"
-
-
-
-
 
 न पातुं लभते ब्रह्मा न विष्णुर्न पुरन्दरः ॥
 
@@ -11979,9 +11190,7 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 तथा-[^1006]
 
-
 [^1006]: "B supplies तथा"
-
 
 यथा पिबन्ति तत्तोयं विधिं तस्य वदाम्यहम् ।
 
@@ -11996,8 +11205,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 नत्वा देवं शिवं तत्र उमां चाऽपि महेश्वरीम् ॥
 
 नन्दीं गणपतिं चैव सर्वांस्तांश्च गणेश्वरान् ।
-
-
 
 शिवोऽहमिति संचिन्त्य पिबेद्वामेन पाणिना ॥
 
@@ -12022,9 +11229,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 ॥ इति[^1007] श्रीभट्टहृदयधरात्मजमहासान्धिविग्रहिकभट्टश्रीमल्लक्ष्मीधरविरचिते कृत्यकल्पतरौ तीर्थकाण्डे केदारमामाहात्म्यं समाप्तम् ॥  
 
 [^1007]: "P omits colophon"
-
-
-
 
 **॥ २२ ॥**
 
@@ -12068,14 +11272,9 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^1010]: " P and B omit the colophon."
 
-
-
-
-
 **॥ २३ ॥**
 
 ॥ अथ नानातीर्थमाहात्म्यम् ॥
-
 
 वामनपुराणे—[^1011]
 
@@ -12114,10 +11313,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 गोप्रतारं[^1015] ततो गच्छेत् सरय्वास्तीर्थमुत्तमम् ।
 
 [^1015]: "वन, ८२, ७०-७१"
-
-
-
-
 
 यत्र रामो गतः स्वर्गं सभृत्यबलवाहनः ॥
 
@@ -12162,8 +11357,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 यत्र देववरः शंभुर्देवानां[^1016] तु सुपूजितः ॥
 
 [^1016]: "P and B, गणानां"
-
-
 
 विश्वरूपमथाऽऽत्मानं दर्शयामास योगवित् ।
 
@@ -12215,8 +11408,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 तत्राऽमरेश्वरं देवं दृष्ट्वा सम्पूज्य भक्तितः।
 
-
-
 महोदयं समभ्येत्य हयग्रीवं ददर्श सः ॥
 
 अश्वतीर्थे नरः स्नात्वा दृष्ट्वा च तुरगाननम् ।
@@ -12262,11 +11453,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 नैमिशे ये द्विजवरा मागधेयाः ससैन्धवाः ।
 
 धर्मारण्याः पौष्करेया दण्डकारण्यकास्तथा ॥  
-
-
-
-
-
 
 चाम्पेया भृगुकच्छीया देविका तीरगाश्च ये ।
 
@@ -12314,9 +11500,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 यो दक्षशापनिर्दग्धः क्षयी ताराधिपः शशी ।  
 
-
-
-
 आप्यायितः शङ्करेण विष्णुना च कपर्दिना[^1027]॥
 
 [^1027]: "B has a big gap from here, extending to नरश्चैतेष्वरण्येषु on p. 244"
@@ -12362,8 +11545,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 तत्र देवं पशुपतिं लोकनाथं महेश्वरम्॥
 
 सम्पूजयित्वा विधिवत् कामरूपं जगाम ह।
-
-
 
 शशिप्रभं देववरं त्रिनेत्रं
 
@@ -12413,8 +11594,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^1031]: " P. वाजपेयफलं"
 
-
-
 मार्कण्डेयस्य राजेन्द्र तीर्थमासाद्य दुर्लभम् ।
 
 गोमती गङ्गयोश्चैव सङ्गमे लोकविश्रुते ॥
@@ -12461,10 +11640,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^1034]: " P. बाह्याः पुण्याः स्युः"
 
-
-
-
-
 अयने विषुवे ख्याता व्यतीपाते तथैव च ॥
 
 दीनच्छिद्रे तथा दर्शेब्राह्मणानां च सङ्गमे ।
@@ -12508,8 +11683,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 वैशाखे तु महापुण्या चन्द्रभागा सरिद्वरा ।
 
 ज्येष्ठे तु कौशीकी पुण्या आषाढे तापिका नदी ॥
-
-
 
 श्रावणे सिन्धुनामा च भाद्रमासे च गण्डकी ।
 
@@ -12557,8 +11730,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 येनैव मृत्तिकां तस्मात्तीर्थादाहृत्य भोजने ॥
 
-
-
 प्रातः प्रातः समुत्थाय वादयन्ति नरोत्तमाः ।
 
 ते सर्वे पापनिर्मुक्ता भवन्ति विगतामयाः ॥
@@ -12602,8 +11773,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 गत्वा चैतानि पूतः स्याछ्राद्धमक्षय्यमेव च ।
 
 जपहोमतपोध्यानं यत् किंचित् सुकृतं भवेत् ॥
-
-
 
  महाभारते-
 
@@ -12653,8 +11822,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 एककालं निराहारः सिद्धिं कालेन स व्रजेत् ॥
 
-
-
 महाह्रद उपस्पृश्य भृगुतुङ्गे त्वलोलुपः ।
 
 त्रिरात्रोपोषितो भूत्वा मुच्यते ब्रह्महत्त्यया ॥
@@ -12703,8 +11870,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 चित्रकूटे जनस्थाने तथा मन्दाकिनीजले ॥
 
-
-
 विगाह्य वै निराहरो राजलक्ष्मीं नियच्छति ।
 
 श्यामायास्त्वाश्रमं गत्वा उषित्वा चाऽभिषिच्य च ॥
@@ -12748,9 +11913,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 मैनाकपर्वते स्नात्वा तथा सन्ध्यामुपास्य च ॥
 
 कामं जित्वाऽथ वै मासं सर्वमेधफलं लभेत् ।  
-
-
-
 
 कालोदकं नन्दिकूटं[^1048] तथैवोत्तरमानसम् ॥
 
@@ -12798,8 +11960,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 शुक्ले स्नात्वा दशम्यां तु पुण्डरीके तथैव च ॥
 
-
-
 सन्निहत्य ममावास्यां प्रभाते वा तथा पुनः ।
 
 ओजसे तु नरः स्नात्वा मुच्यते सर्वकिल्बिषैः ॥
@@ -12844,11 +12004,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^1053]: " B. चम्पा"
 
-
-
-
-
-
 पर्णी-चर्मण्वती-रेवती-भीमा[^1054]-रक्षुवीरणा[^1055] चेति महानद्यः पुण्यतमाः ॥
 
 [^1054]: " P and B, चर्मण्वती वेत्रवती "
@@ -12876,8 +12031,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 सर्वाः समुद्रगाः पुण्याः सर्वे पुण्या नगोत्तमाः ।
 
 सर्वमायतनं पुण्यं सर्वे पुण्या वनाश्रमाः ॥
-
-
 
 ** ब्रह्मपुराणे-**
 
@@ -12924,11 +12077,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 पाण्डिसह्ये तु देवेशं वसुतुङ्गे जगत्पतिम् ।
 
 भल्लीवने महायोगिं चित्रकूटे नराधिपम् ॥  
-
-
-
-
-
 
 नैमिशे पीतवासं च गयां निष्क्रमणे हरिम् ।
 
@@ -12980,9 +12128,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 आद्यं पिष्णुपदे विद्याच्छूकरे शूकरं विदुः ॥  
 
-
-
-
 ब्रह्मेशं मानसे तीर्थे दण्डके श्यामलं विदुः ।
 
 त्रिकूटे नागमोक्षं च मेरुकूटे च भास्करम् ॥
@@ -13032,8 +12177,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 इमं स्तवं यः पठते सदा नरः
 
 प्राप्नोति विष्णोरमृतात्मकं पदम् ॥
-
-
 
 ** तथा -[^1036]**
 
@@ -13091,8 +12234,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^1072]: "Tirunelli ?"
 
-
-
 आराध्य सिद्धिं संप्राप्तास्सप्ततिं च चतुर्मुखैः ॥
 
 तस्य पादतलात्तीर्थंनिश्चितं पश्चिमामुखम् ।
@@ -13138,8 +12279,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 सुतृप्ताः पितरो यान्ति पितृलोकं न संशयः ।
 
 पञ्चरात्रोषितः स्नात्वा यस्तीर्थे पापनाशने ॥
-
-
 
 सर्वपापक्षयं प्राप्य विष्णुलोके महीयते ।
 
@@ -13189,8 +12328,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 विहाय पापं प्रविशेच्च विष्णुम् ॥
 
-
-
 सकृत्तीर्थानि सेवेत गङ्गां चैव पुनः पुनः ।  
 सर्वतीर्थमयी गङ्गा सर्वदेवमयो हरिः ॥  
 अहो मुञ्चंस्तुरगमेधसहस्रतुल्यं  
@@ -13209,8 +12346,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 कृत्यकल्पतरौ तीर्थकाण्डे नानातीर्थमाहात्म्यं
 
 समाप्तम् ॥
-
-
 
 **॥ २४ ॥  
 ॥ अथ[^1078] महापथयात्रादि ॥**
@@ -13250,8 +12385,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 इत्येवं मनसा मात्रं सम्यगुच्चारणं द्विजः ।
 
 अग्निं प्रविशते यस्तु रुद्रलोकं स गच्छति ॥
-
-
 
 अग्निस्तु[^1079] भावान् कालः कालो रुद्र इति स्मृतः ।
 
@@ -13304,8 +12437,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 खड्गखेटघरं कार्यंशूलोद्यतकरं परम् ।
 
 गजचर्मधरं चाऽन्यौ चक्रोद्यतभुजं तथा ॥
-
-
 
 खट्वाङ्गं च कपालं च वज्रं डमरुकं तथा ।
 
@@ -13361,8 +12492,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 एवं पटगतं कृत्वा पूजयित्वाऽपरं विभुम् ।
 
-
-
 परागं[^1087]सर्वमन्त्रेशं रक्तमाल्याम्बरादिभिः ॥
 
 [^1087]: " P and B, सानुगं"
@@ -13416,8 +12545,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 वृषपातं विजानीयाच्छक्रलोकफलप्रदम्[^1091] ।
 
 [^1091]: "P and B. रुद्रलोक"
-
-
 
 सिंहो गजेन्द्रनिधने यथा विक्रमते तनुम् ॥
 
@@ -13473,8 +12600,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 पुरुषान् दिव्यभोगाद्यान् मम रूपान् महाबलान् ॥
 
-
-
 गान्धर्वंच तथा ब्राह्मं वायवं चाऽपि वारुणम् ।
 
 तथा वैद्याधरं सौरं सैन्द्रं चान्द्रं समं स्थितम् ॥
@@ -13527,8 +12652,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 योऽत्र साधयते प्राणान् सोऽपि मुच्येन्महाभयात् ॥
 
-
-
 यद्वा प्रार्थयतेऽन्यच्च प्राधान्ये नाऽत्र किञ्चन ।
 
 तत् प्राप्नुयान्नरः सर्वमचिरात्तत्र वै स्मृतम् ॥
@@ -13558,8 +12681,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 [^1102]: "B supplies the finis, and U ग्रन्थसङ्ख्या २५२५ ॥"
 
-
-
 |                                                                                  |
 |:--------------------------------------------------------------------------------:|
 |                                    APPENDIX A                                    |
@@ -13587,8 +12708,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 |                             विष्णुपुराणम्, १६१, १९३                              |
 |                                   शङ्खः, ५, ११                                   |
 |                   स्कन्दपुराणम्, ३६, ४०, ४२, ४४, ४६, ११०, १३०                    |
-
-
 
 |                             |
 |:---------------------------:|
@@ -13642,19 +12761,9 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 |        सङ्गमनगर २२६         |
 |        सुधर्मा २२५         |
 
-
-
-
-
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
 
 |                      |
 |:--------------------:|
@@ -13737,10 +12846,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 |   दधिकर्णेश्वर ९४   |
 |     दधीचेश्वर ४३     |
 
-
-
-
-
 |                        |
 |:----------------------:|
 |      दण्डखाता ९०       |
@@ -13821,8 +12926,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 |   मार्कण्डेयह्रद ६७    |
 |    मार्कण्डेश्वर ६७    |
 |     मित्रावरुण ४७      |
-
-
 
 |                         |
 |:-----------------------:|
@@ -13905,10 +13008,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 |    समुद्रेश्वर १०५     |
 |    सावर्ण्येश्वर ६०     |
 
-
-
-
-
 |                            |
 |:--------------------------:|
 |      सावित्रीश्वर ७०       |
@@ -13945,13 +13044,7 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 |         धूतपाप २२३         |
 |       मणिपूरगिरि २२३       |
 
-
-
 [TABLE]
-
-
-
-
 
 |                              |
 |:----------------------------:|
@@ -14034,8 +13127,6 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 |    गङ्गाह्रद, म.भा. १७८     |
 |   गङ्गेश्वर, लि. पु., ६६    |
 
-
-
 |                                   |
 |:---------------------------------:|
 |      गङ्गेश्वर,लि. पु., १०४       |
@@ -14116,13 +13207,7 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 |      द्रोणेश्वर, लि. पु., ६६      |
 |       द्वारवती, व. पु.,२२५        |
 
-
-
-
-
 [TABLE]
-
-
 
 |                                |
 |:------------------------------:|
@@ -14204,11 +13289,7 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 |    रम्भेश्वर, लि. पु., १०२    |
 |    राधाकुण्ड, व. पु., १९०     |
 
-
-
 [TABLE]
-
-
 
 |                                  |
 |:--------------------------------:|
@@ -14279,15 +13360,11 @@ P. The three ślokas which follow are missing in the Udaipur Ms. B supplies :- �
 
 PRINTED AT THE MADRAS LAW JOURNAL PRESS, MYLAPORE, MADRAS.
 
-
-
 APPENDIX D
 
 SUPPLEMENTARY LIST OF TIRTHAS
 
 [TABLE]
-
-
 
 |                                                  |
 |:------------------------------------------------:|
@@ -14362,13 +13439,7 @@ SUPPLEMENTARY LIST OF TIRTHAS
 |              दशार्णा, वा. पु., २४४               |
 |              दारुवन, वाम. पु., २३४              |
 
-
-
 [TABLE]
-
-
-
-
 
 |                                                  |
 |:------------------------------------------------:|
@@ -14408,8 +13479,6 @@ SUPPLEMENTARY LIST OF TIRTHAS
 |            हिमाचलारण्य, दे. पु., २४४             |
 |               हिमवान्, देवल, २५०                |
 
-
-
 **APPENDIX E**  
 
 TOPOGRAPHICAL NOTES.
@@ -14446,8 +13515,6 @@ TOPOGRAPHICAL NOTES.
 
 *Ṛṣabha-parvata* (251) a Viṣṇu-kṣetra in South India, probably the Alagar Hill temple near Madura,
 
-
-
 *  Airāvatī* (249), the Rāpti in Oudh or the Ravi in the Punjab. Both will suit the context.
 
 *  Kanakhala* (168, 239, 255), the place where Dakşa-yāga was performed. Two miles east of Hardw*ā*r at the junction of the Ganges and the Nīladhārā.
@@ -14475,8 +13542,6 @@ TOPOGRAPHICAL NOTES.
 *  Kurukṣetra* (175-179). The area between the Dṛṣadvatī and Sarasvatī, the holiest area in India.
 
   Ked*ā*ra (230, 250), modern Ked*ā*rn*ā*th at the confluence of the Mand*ā*kinīand Dūdha-Gaṅg*ā*. It is a self-revealed
-
-
 
 (*svayam-vyakta*) kṣetra of Śiva. It is the traditional place of the passing away of Śaṅkarācārya.
 
@@ -14510,8 +13575,6 @@ TOPOGRAPHICAL NOTES.
 
   *Citrakūṭa* (251), the lone hill on the *Mand*ā*kinī* or *Payasvinī* (Paisuni), where Śrī Rāma lived; now known as Kamptanāthgiri; in Buṇḍelkhand, four miles from the railway station, Chitrakut, G. I. P. railway.
 
-
-
   *Campakāraṇya* (168) or *Campakavana* mentioned as one of the *upatīrthas* of Gayā, may also be Camparan in the Patna division, Bihar.
 
   *Janasthāna* (246), the area of the Dakhan between the rivers Godāvarī and the Kṛṣṇā. Pargiter (J. R. A. S., 1894, p. 247) considers it to extend to the country both north and south of the Godāvarī near its junction with the *Prāṇahitā*(Waingaṅgā). See *Rāmāyaṇa,* III. 21, ff.
@@ -14542,8 +13605,6 @@ from the Nizam's dominions. Tributary of the Kṛṣṇā; formed by the junctio
 
  *Devika* (242), another name for the Ś*arayū* or Goghrāin the United Provinces, but a smaller river distinct from the S*arayū* and running between that river and the Gomatī(Gumti) is
 
-
-
 referred to by the *Kālikā-purāṇa,* ch. 23. The reference on p. 245 in the passage from the *Māhabhārata* suggests a big river like the Sarayū.
 
   *Dvārakā,* modern Dwarka, in Gujarat, ŚrīKṛṣṇa's capital. (225-227).
@@ -14557,8 +13618,6 @@ referred to by the *Kālikā-purāṇa,* ch. 23. The reference on p. 245 in the 
   *Dhūtapāpā* (223) is Dhopāp on the Gumti, some miles south of Sultānpūr in Oudh.
 
   *Narmadā* (198-205, 241, 243), the great river Narbuda.
-
-
 
 ** *Nandāvarī* (249) is the *Mahānandā i*n the U. P., which runs east of the Kuśī(*Kauśiki*) with which it is mentioned in the text.
 
@@ -14579,8 +13638,6 @@ referred to by the *Kālikā-purāṇa,* ch. 23. The reference on p. 245 in the 
   *Puṇḍarīkā* (208) is *upa-tīrtha* of Kubjāmraka, and not Pandharpur.
 
   *Puṣkara, Puṣkarāraṇya,* (182-185, 237, 244). The Puṣkar lake, six miles from Ājmir. The area was formerly covered by a
-
-
 
 forest apparently. The *Puṣkarāraṇya* on p. 237 may be one in the United Provinces.
 
@@ -14621,8 +13678,6 @@ forest apparently. The *Puṣkarāraṇya* on p. 237 may be one in the United Pr
   *Mahodaya* (237), Kanauj.
 
   *Mānasa-tīrtha.* Three bearing the name occur in the text. The first (145) is on the north bank of the Ganges at Allahabad;
-
-
 
  the second (206) is attached to Kubjāmraka; while the last (253) is mentioned vaguely suggesting North India.
 
@@ -14676,8 +13731,6 @@ forest apparently. The *Puṣkarāraṇya* on p. 237 may be one in the United Pr
 
   *śoṇa* (239) the river Śone in Bihar,
 
-
-
   *Saptā-godavari* (239), Solangipur, a few miles from Pithāpuram.
 
   *Sarayū* (241, 233), the Sarjju or Goghra river on which Ayodhyā stands.
@@ -14690,15 +13743,11 @@ forest apparently. The *Puṣkarāraṇya* on p. 237 may be one in the United Pr
 
   *Hariharakṣetra* (252), Harihar on the Tungabhadrā, marking the frontier between Mysore state and the Bombay presidency.
 
-
-
 **APPENDIX F.**
 
 BIBLIOGRAPHY OF TREATISES ON TĪRTHA.
 
 General Works.
-
-
 
 1\*. Lakṣmīdhara's *Tīrtha-vivecana-kāṇḍa* (c. 1125 A.D.); eighth part of the Kṛtya-kalpataru.
 
@@ -14736,8 +13785,6 @@ General Works.
 
 18\*. Mādhavasimha Varma's *Tīrtha-sudhānidhi*. Pr. 1896. Date of author not known.
 
-
-
 Special Works on Individual Tirthas.
 
 Gangā
@@ -14768,8 +13815,6 @@ Kurukṣetra.
 Puri.
 
 Raghunandana's-*Puruṣottama-kṣetra-tattva.*
-
-
 
 APPENDIX G  
 
@@ -14834,10 +13879,6 @@ and a dagger (+) fourth *pāda* of a Śloka.
 |      इह क्षेत्रे मृतस्सोऽपि, म. पु., १५       |
 |       उत्तरेण दृषद्वत्याम्, म. भा. १७८        |
 |        उपरागेऽधिकं भवेत, दे. पु., २४३         |
-
-
-
-
 
 |                                                            |
 |:----------------------------------------------------------:|
@@ -14911,8 +13952,6 @@ and a dagger (+) fourth *pāda* of a Śloka.
 |              तिलपिण्याकं देयं तु दे. पु., १०               |
 |           तिस्रो नद्यन्तु तत्रस्था लि. पु., १२७            |
 
-
-
 |                                                         |
 |:-------------------------------------------------------:|
 |            तीर्थमभिगम्य व्रतोपवास, देवल, ११            |
@@ -14983,8 +14022,6 @@ and a dagger (+) fourth *pāda* of a Śloka.
 |           \+ पशुपाशैर्विमुच्यते, लि. पु., ४१            |
 |    पांसवोऽपि कुरुक्षेत्रे, वाम. पु., १७६ म.भा., १७८     |
 
-
-
 |                                                    |
 |:--------------------------------------------------:|
 |       पिण्डं दानं तु तच्छस्तम्, दे. पु., १०        |
@@ -15053,11 +14090,7 @@ and a dagger (+) fourth *pāda* of a Śloka.
 |         यस्तत्र निवसेद्ब्रह्म, म. पु., १६          |
 |        यस्तुषारदाह्यांस्तु, ब्र. पु., २५८         |
 
-
-
 [TABLE]
-
-
 
 |                                              |
 |:--------------------------------------------:|
@@ -15088,1193 +14121,13 @@ and a dagger (+) fourth *pāda* of a Śloka.
 |      स्वर्णशृङ्गी रौप्यखुराम, म. पु, २०      |
 |       हेतुनिष्ठश्च पञ्चैते, वा. पु., ६       |
 
-
-
 ———  
 
 PRINTED AT THE MADRAS LAW JOURNAL PRESS, MYLAPORE, MADRAS.
 
-
-
 [TABLE]
 
 [TABLE]
-
-
-
 
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^1100]: "P and B omit this line"
-
-
-[^1069]: " P and B omit three lines from here "
-
-
-[^1066]: " P omits तथा "
-
-
-[^1047]: " B omits this line"
-
-
-[^1033]: " P omits this line "
-
-
-[^975]: "P and B omit the colophon"
-
-
-[^966]: " P and B omit the colophon"
-
-
-[^945]: " P omits this line "
-
-
-[^941]: " Omitted by B "
-
-
-[^865]: "P omits this line"
-
-
-[^860]: "B omits this line and the next"
-
-
-[^686]: "P. तत्र"
-
-
-[^648]: " B. सुन्दरि"
-
-
-[^625]: " B omits this line and the next"
-
-
-[^616]: "B. पश्चान्मुखं"
-
-
-[^614]: "B omits this line"
-
-
-[^487]: "B omits two lines from here"
-
-
-[^486]: "P omits the line"
-
-
-[^485]: "P omits the line"
-
-
-[^414]: "P. विमत्सरः"
-
-
-[^300]: "P. अकल्कको"
-
-
-[^225]: "Infra, p. 67."
-
-
-[^162]: "अमार्कपाश्रवणैयुक्ता चेन्माधपूषयोः । अर्द्धोदयः स विज्ञेयः कोटिसूर्यग्रहैःसमः ॥ अत्र‘सूर्यपर्वशताधिका’इति कृत्यचिन्तामणिपाठः (शब्दकल्पद्रुम, १०८

@@ -16,8 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5MzQ3NzgxMzk
 
 \[
 
-
-
 THE  
 
 MAHĀBHĀRATA  
@@ -25,11 +23,7 @@ MAHĀBHĀRATA
 
 Southern Recension)
 
-
-
 Critically Edited by
-
-
 
 P, P. S. SASTRI, B. A, (OXON) M, A.,  
 
@@ -39,23 +33,15 @@ Manuscripts in the Tanjore Maharaja
 Serfoji Saraswati Maha।  
 Palace Library
 
-
-
 Vol. I-ĀDI PARVA-Part I.
-
-
 
 THE KUPPUSWAMI SAST  
 RESEARCH INSTITUTE,  
 MADRAS.
 
-
-
 PUBLISHED BY  
 V. RAMASWAMY SASTRULU & SONS  
 292, ESPLANADE, MADRAS.
-
-
 
 \।\। श्रीरस्तु \।\।  
 
@@ -72,17 +58,11 @@ V. RAMASWAMY SASTRULU & SONS
 पि. पि. सुब्रह्मण्यशास्त्रिभिः  
 दाक्षिणात्यशाखानुसारेण सविमर्शं संशोधितः
 
-
-
 ![](../books_images/U-IMG-1707118513Screenshot2024-02-05130455.png)  
-
-
 
 चेन्नपुर्यां  
 वाविलू रामस्वामिशास्त्रुल अण्डू सन्स्,  
 इत्येतैः सम्मुद्र्य प्रकाशितः
-
-
 
 INTRODUCTION
 
@@ -96,10 +76,6 @@ INTRODUCTION
 
  4. Mahābhārata, published and distributed gratis by Pratab Chandra Roy, Calcutta-First Edition, 1882.
 
-
-
-
-
 attention to the two outstanding recensions of the Mahabharata-the Northern and the Southern.  
  A critical examination of the first two chapters of the Ādiparvan-the Anukramaṇikādhyāya and the Parvasangrahādhyāya-reveals the broad principles by which the Southern Recension could be differentiated from the Northern. Dr. Sukthankar has rightly pointed out that "the naive Brahma- Ganesa episode in the first chapter is a late Northern intruder." We may, therefore, safely take it that the omission of the Ganes'a episode marks the text as really Southern. Indeed, this test has held good with regard to the many really South Indian manuscripts representing the Southern Recension that we have had the opportunity to examine. The following verses which find a place in the first chapter, in all the editions referred to in paragraph 1 Supra, are conspicuous by their absence in all the Mss. we have used for the preparation of the Southern Recension.
 
@@ -107,8 +83,6 @@ attention to the two outstanding recensions of the Mahabharata-the Northern and 
 ब्रह्मा–    ♦        ♦         ♦  
       ** काव्यस्य लेखनार्थाय गणेशस्स्मर्यतां मुने॥**  
 सौतिः–    ♦        ♦         ♦
-
-
 
 स्मृतमात्रो गणेशानो भक्तचिन्तितपूरकः ॥
 
@@ -140,8 +114,6 @@ attention to the two outstanding recensions of the Mahabharata-the Northern and 
 षष्टिं शतसहस्राणि चकारान्यां स संहिताम् ।  
 त्रिंशच्छतसहस्रञ्च देवलोके प्रतिष्ठितम ॥
 
-
-
 पित्र्ये पञ्चदश प्रोक्तं गन्धर्वेषु चतुर्दश ।  
 एकं शतसहस्रं तु मानुषेषु प्रतिष्ठितम् ॥
 
@@ -156,8 +128,6 @@ attention to the two outstanding recensions of the Mahabharata-the Northern and 
 
   It may here be observed that the Mahabharata, which is generally exalted to the rank of a fifth Veda, need not have worried for lack of a scribe as the same process which has preserved the four Vedas would have been found to be equally serviceable in its case also. Hence the Ganes'a episode is indeed a later interpolation which has been fruitful only in mislead- ing even able Orientalists into the conjecture that the original Mahābhārata consisted of only 8800 verses and that it had three beginnings, the second beginning being at the stage when it is supposed to have contained only 24000 verses. Attention is invited in this connection to verses 65 and 66 appearing in page 14 of this edition, which unmistakably state that the computation of the Maha-bhārata is 100,000, verses if counted along with the minor narratives, and only 24,000 verses if the minor
 
-
-
 narratives are excluded. It is not at all meant that 24,000 verses alone were originally composed and the remaining 76,000 verses were added later on to complete the 100,000 verses. The idea, that 60 lakhs of verses were originally composed, that 30 lakhs represent the version in Devaloka, 15 lakhs the version in Pitrloka, 14 lakhs the version in Gandharvaloka, one lakh alone represents the version in the land of men and that even this one lakh was first given out to men only by Vaisampāyana, one of the pupils of Vyasa and not by Vyāsa him self directly, may also be dismissed as thoroughly fantastic.
 
  The absence of the above verses containing the episode, enumeration, etc., in the Southern Recen sion certainly adds to its critical value.
@@ -166,23 +136,15 @@ narratives are excluded. It is not at all meant that 24,000 verses alone were or
 
  Judged by these two main tests, not to speak of many other minor peculiarities of the Southern Recension, all the printed editions of the text
 
-
-
 referred to in the beginning of the introduction, can. be pronounced to represent, if any, only the Northern Recension.
 
  To scholars who desire to assess the full criti- cal value of the B. O. R. I. edition, texts representing both the Recensions are indispensable.
 
  The Northern Recension is already available in some form in the existing printed editions, represented by Nos. 1, 3 & 4 referred to in para 1. The Southern Recension is, however, not available anywhere in print. It has been the practice to consider Nos. 2, 5 and 6 referred to in para 1 as representatives of the Southern Recension. No. 5, the Grantha edition, maintains the Ganes'a episode in the first adhyaya, though the scheme of chapters and verses in the second adhyāya approximates more closely to the Southern Recension. Nos. 2 and 6, the Telugu and Kumba-konam editions, maintain not only the Gaņes'a episode but also preserves with very slight deviations the scheme of chapter and verses according to the Northern Recension. Besides, the Kumbakonam edition includes all additional slokas wherever these may be found, thus successfully laying claim to be the most exhaustive edition, though it professes to be based mainly on South Indian Texts.
 
-
-
- 
-
 It is this want of a really representative text of the Southern Recension that has led the present Editor to undertake the task of a critical edition of the Southern Recension.
 
  Whilst the Poona edition lays claim to constitute the text of the Mahābhārata as closely as possible to Vyasa's version of the same, the principle underlying this edition of the Southern Recension is to accept Mallinatha's dictum **“नामूलं लिख्यते किंचित्”** and choose accordingly one thoroughly reliable and Representative Manuscript as the principal text and add, by way of critical apparatus, the more important variations of readings as may be found in four other different Manuscripts which are also undispu. ted representatives of the Southern Recension. The Editor's task is, therefore, to print the text as it is in the original palm-leaf, liberty being taken only to correct scriptorial blunders, to weigh the different readings in the additional manuscripts and choose the more important ones for being added to the text by way of footnotes. As voluminous footnotes, scrupulously maintaining all scriptorial and unintelligible blunders also are likely only to distract the attention of the reader without any comparative advantage, footnotes by way of different readings are added only wherever a different reading suggests a better interpretation or enhances
-
-
 
 the beauty of the text or wherever a half verse at least is a completely new addition to the principal text.
 
@@ -194,21 +156,15 @@ the beauty of the text or wherever a half verse at least is a completely new add
 
 ** ख**– is used for additional readings, etc. The Manuscript is from the Tanjore Palace Library. Its description is as follows:– Burnell's Catalogue No. 11851; Page-183; Left column Substance-Palm Leaf; Size 19x1 inches; Leaves-320; Lines-8 to a page; Script– Grantha. Adiparvan complete.
 
-
-
 ** ग–**is used for additional readings etc., The Manuscript is from the Tanjore Palace Library. Its description is as follows:-Burnell's Catalogue No. 11809; Page-183; Left column ; Substance-palmleaf ; size 21×2 inches; Leaves-164; Lines-13 to a page; Script-Telugu; Adiparvan complete.
 
 ** घ–** is used for additional readings, etc. from pp. 474. The Manuscript belongs to the family of S'ivānandayogindra, the famous biographer of Appaya Dikṣita. The manuscript was procur- ed to us by Mr. K. K. Lakshminarayanier of Kadayam from Mr. Natesaiyar, the present owner of the Manuscript. Its description is as follows:-Substance-palm-leaf; Size 15½×1½ inches; Leaves-210; Lines-7 to 10 to a page; Script Grantha; Ādiparvan complete. Date of transcription-twelfth day of the Palghuni month of Kollam year 1002 corresponding to 1825 A D.
 
  In the printing of the text, an up-to-date scheme of enumeration has been adopted. In printing the epics, it is usual to count as one verse even three half–verses. Such a calculation can never give the actual number of verses as the many additional halves are thus left out of calculation. A careful examination of these half–verses reveals that they are halves only to
 
-
-
 assist punctuation. Where a sense is fully covered even in the half-verse itself or where the interpre- tation of the preceding two halves naturally attract the following half also to complete the sense, it has been the custom to omit the half-verse that is added as such, from calculation and numbering of verses. In our edition, it will be found that half-verses also are dúly numbered, the numbering having been done where the rules of interpretation and punctuatior will naturally admit of a stop. Such a system is more likely to give us the correct number of verses in each chapter as the original author Vyasa must have meant by 100,000 verses, 100,000 verses, each verse consisting of 32 syllables according to the de finition of a sloka by the Rhetoricians. Indeed enumeration by half-verses and full verses is already preserved with regard to such sacred texts as the Saptas'ati where Gaudapāda in his Anukraman calculates the number of verses in the Saptas'ati by half-verses and full verses. To facilitate easy calculation, we have added at the end of each chapter, the number of verses contained therein as well as the number of prose passages if any.
 
   A word of explanation is necessary with regard to the mode of printing adopted. Each half-verse is given in a single line and each quarter-verse is separated as far as possible where the cæsura falls,
-
-
 
 provided grammatical rules of Sandhi are not violated. Printed editions of Sanskrit texts in Roman characters adopt this method uniformly, to the immense advantage of the reader. The same method is also adopted even though the Devanagari script is used and it is hoped that such a method will prove to be of real help in the easier elucidation of the text.
 
@@ -221,9 +177,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
  PRESIDENCY COLLEGE,                        
              **P. P. S. SASTRI.**  
  MADRAS.                              
-                
-
-
 
 **ACKNOWLEDGMENT.**
 
@@ -238,8 +191,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
    MADRAS                             
                           **15-7-1931.**
 
-
-
 **॥ श्रीः ॥  
 ॥ भूमिका ॥**
 
@@ -253,8 +204,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ३. १८७८.वत्सरे मोहमयीनगरस्थेन गणपतिकृष्णाजीमुद्रणालयेन बहिरवतारितमन्यत्। इदं च श्रीनीलकण्ठविरचितेन भावदीपाख्येन व्याख्यानेन विद्योतितम्।
 
-
-
   ४. १८८२. हायने श्रीमता प्रतापचन्द्रराय महाशयेन प्रकाशितमपरम्। इदं च तेन महाशयेन विनैव मूल्यमपेक्ष केभ्य उपदीकृतम्।
 
   ५. १८९५. संवत्सरे तञ्जापुरभूभागान्तर्गते शरभोजिराजपुरे सह व्याख्यया ग्रन्थलिपिभिः श्रीमता ए. रङ्गस्वा- मिदीक्षित महाशयेन प्रकाशित मितरत्।
@@ -263,17 +212,11 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
   आरभ्य च १८३४ संवत्सरं भारतीयविद्याभिनिवेशिनः क्रमेण संख्यया वर्धमानाः श्रीमहाभारतस्य सूक्ष्मेक्षिकया परिशीलने समाकृष्टाः समभूवन्। वर्तमानस्य क्रैस्तववर्षशतकस्य आदिमेषु भागेषु तेषामेव महाशयानां स विमर्शः परिचयस्तथा नाम समवरुद्धः समजनि, यथा सोऽयं समग्राय फलाय न कल्पते स्म : यतो लब्धानां सर्वासामपि मातृकाणां निरीक्षणेन पाठतारतम्यपरीक्षणेन च निर्वर्तनीयं प्राच्यविद्याकुतूहलिनामाराधनार्हंकिमपि मुद्रणं नासीत्;
 
-
-
 यतश्च निर्दिष्टपूर्वेषु मुद्रणेषु अन्यतममपि तादृशं नाभूत् । सर्वदेशीयप्राच्यविद्यासमाजस्तमिममर्थं साधयितुं प्रयतमान एव तदा बभूव। १९१९ वर्षे सेप्टम्बर्मासे ४ दिने लण्डननगरप्रचलिते च एकस्मिन् सुहृद्देशीयप्राच्यविद्यासमाजे महामहिम्ना मगधनालमहाशयेन— “श्रीमहाभारतस्य सविमर्श मुद्रणं निर्तयितुं तैस्तैमहाशयैः षट्सहस्रनिष्काः प्रदीयेरन्निति प्रतिज्ञातम्। तन्मुद्रणादिषु च कियन्ति धनानि व्यययितव्यानीत्ययमंशोऽपि तद्विषयकुतुकिभिरापाततो निर्णीतः, येषु शर्मण्यदेशीया एव भूयांसः। अमुको भागो महाशयेनामुकेन परिशीलनीय इति विभागव्यस्थाऽपि कल्पिता। अथापि सर्वमिदं महता युद्धेन विपर्यासि तमासीत्" इत्युपन्यस्तम् । तदनुयायिना च केनचिन्महाशयेन विवादकाले–यद्यस्य महाभारतस्य क्षोदक्षमे मुद्रणे भारतीया विदेशीयाश्च विद्वांसः परस्परं सध्रीचीना भवन्ति, तब भारतवर्षे राजकीयाः, अन्येऽप्युदारा धनिनो नैज स्वाभाविकं साहायकमाचरेयुः। एवं सत्येव सत्यमिदं कृत्यं सुकरं च प्रशस्यं च भविष्यति" इत्यवतारितः सभायामात्माशयः। तस्मिन्नेव समाजे डाक्टरुपाधिधारी यफू. डब्लियू. तामस्महाशयोऽपि भारतीये पुण्यनगरे श्रीमद्भण्डारकप्राच्यविद्या विमर्शालयसामाजिकैर्महाधनसंचयेन श्रीमहाभारतस्य विचारसहं मुद्रणं चिकीर्षितम्' इत्याचष्ट ।
-
-
 
 पश्चाच्च श्रीभण्डारकप्राच्यविद्याविमर्शालयपारिषद्यैः, एतद्देशीयैर्विदेशीयैश्च बहुभिः प्राच्यविद्यापण्डितैः सहकृतं डाक्टरुपपदधारिणं श्रीमन्तं सूक्तंकरमहाभागं तन्मुद्रणाधिपतिं विधाय प्रारभन्त तादृशं महाभारतस्य मुद्रणम् । श्रीमान् सूक्तंकरमहाशयश्च १९२७, १९२८, १९२९, १९३०, १९३१, कैस्तववर्षेषु क्रमेण प्रथमद्वितीयतृतीयचतुर्थपञ्चमीः संधिकाः प्रकाशयति स्म। सूक्तंकरच भूमिकायामुद्धोषयति – “श्रीमहाभारतस्य दक्षिणा उत्तरा चेति द्वे शाखे स्तः” इति ।
 
  आदिपर्वणि अनुक्रमणिकाध्यायस्य पर्वसंग्रहाध्यायस्य च समीक्षायामिदं तावद्व्यक्तं भवति–यन्महाभारतस्य दक्षिणशाखा उत्तरशाखा च परस्परं सुदूरं विभिन्ने इति । सूक्तंकरश्च “श्रीमहाभारतस्य औत्तराहशाखायाम् अर्वाचीनैरेव कैश्चित् कुशाग्रमतिभिः कथमपि गणेशवृत्तान्तो निराग्रासमन्तर्भावितः” इति लिखति। तदिदं युक्तमुत्पश्यामः। अस्माभिश्च परीक्षितासु वस्तुतो दाक्षिणात्यासु बह्वीषु मातृकासु गणेशोपाख्यानं न दृश्यत इति गणेशवृत्तान्तापेन्यासाभाव एव दाक्षिणात्याया महाभारतमातृकाशाखायाश्चिह्नमिति वक्तुं प्रभवामः। अधः प्रदर्शयिष्यमाणानि च पधानि सन्ति निर्दिष्टपूर्वेषु मुद्रितेषु सर्वेष्वपि पुस्तकेषु, न सन्ति चास्माभि-
-
-
 
 मुद्रणाय परिगृहीतासु महाभारतदाक्षिणात्यशाखावलम्बिनीध्वखिलास्वपि मातृकासु ।
 
@@ -310,8 +253,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अष्टौ लोकसहस्राणि अष्टौ लोकशतानि च ।  
 अहं वेद्मि शुको वेत्ति सञ्जयो वेत्ति वा न वा॥
 
-
-
 तच्छलोककूटमद्यापि प्रथितं सुदृढं मुने ।  
 भेत्तुं न शक्यतेऽर्थस्य गूढत्वात् प्रश्रितस्य च ॥
 
@@ -330,13 +271,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  यथा च चत्वारोऽपि वेदाः स्वस्वसंरक्षणाय लेखनमन्यद्वा किमप्युपकरणमनपेक्षमाणा एव सत्यमात्मानमात्मनैव धारयितुं प्रभवन्ति, एवं पञ्चमवेदत्वेन प्रथमानं श्रीमन्महाभारतमपि गोपायितुमात्मानं न किमपि साधनमपेक्षेतेत्येव, मन्यामहे, युक्तं प्रतिपत्तुम्। अतश्च गणेशवृत्तान्तोऽयं नूनमर्वाचीनैः प्रक्षिप्त एवेत्यत्र नास्ति संशयलेशोऽपि ।अस्य च प्रक्षितस्य वृत्तान्तस्य सत्यमिदं पुनर्दुर्जातं फलम्— यद्विवेकिनामपि केषांचन प्राच्यविद्याकुतूह लिनाम्— “ प्रथ-
 
-
-
 मतो महाभारतं ८८०० लोकैरेव विरचितम् । इयं च तस्य प्राथमिकी समवस्था । तिस्रः खल्ववस्थाः सन्ति श्रीमहाभारतस्य। द्वितीयस्यां चावस्थायां तस्य १४००० पद्यानि” इति महानद्याप्यशान्तो विवादः। अस्मिंश्च प्रस्तावे एतत्पुस्तकचतुर्दशपुटस्थे ६४. ६५. पद्ये सम्यग्विमर्शनीये। एताभ्यां १ पद्याभ्यां विगतसंशयमिदं तावदावेद्यते– यन्महाभारतं साकमुपाख्यानपद्यैः लक्षग्रन्थपरिमितं, विना तु तैश्चतुर्विंशतिसहस्र लोक पूर्णम्–इति। यत्तुकै—द्वितीये दशान्तरे २४००० पद्यानि, अनन्तरं च तृतीयस्यामवस्थायां ७६००० लोकाः परिवर्धिताः – इति भ्राम्यद्भिरुष्यते तस्य लेशतोऽ व्यवकाशं परीक्षका वयं न पश्यामः । यदव्यभिधीयते - षष्टिलक्ष- ग्रन्थात्मकं श्रीमहाभारतमादितो विरचितम् । तत्र त्रिंशल्लक्षग्रन्था देवलोके, पञ्चदशलक्षग्रन्थाः पितृलोके, चतुर्दशलक्ष- ग्रन्था गन्धर्वलोके च सन्ति । अवशिष्टा लक्षं ग्रन्था एव मर्त्य लोकमवतीर्णाः। इमेऽपि व्यासशिष्यण वैशम्पायनेनैव मध्यमलोकमवतारिताः, न पुनः साक्षायासेन–इति। अस्यापि लोकवादस्य किमपि मूलं विमृश्यापि न वयं पश्यामः।
 
  अन्यत्र दृश्यमानस्य गणेशवृत्तान्तस्य अदर्शनम्, अध्यायपद्यसंख्याविवरणादिकं च दाक्षिणात्यशाखाया नूनमुत्कर्षमुपपादयतः।
-
-
 
 अष्टादशस्वपि पर्वसु प्रत्येकमध्यायानां पद्यानां चसंख्या यथा पर्वसंग्रहाध्याये निरूपिता, तथैव वर्तते दाक्षि- णात्यशाखाप्रदर्शिनीषु मातृकासु, या पुनरौत्तराहशाखातः सुदूरं विभिद्यते, उभयोरपि शाखयोस्तारतम्यप्रदर्शिका पट्टिकापि अस्माभिः आङ्ग्लभूमिकायां १७-१८ पुटयोः समायोजिता ।
 
@@ -346,27 +283,19 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  औत्तराहशाखापरिशीलनं तु सर्वेषामपि सुकरमेव, यतो यथाकथंचित्तच्छाखावलम्बीन्येव मुद्रितानि पुस्तकानि सर्वत्र सुलभानि। पूर्व निर्दिषु मुद्रितपुस्तकेषु प्रथमं तृतीयं चतुर्थ च तच्छाखावलम्बि। दक्षिणशाखावलम्बेन मुद्रणं तु कालेनैतावता न कुत्रापि संपन्नम्। द्वितीयं पञ्चमं षष्ठं च दक्षिणशाखावलम्बीति प्रायेण विश्वस्यते। प्रन्थाक्षरमुद्रिते महाभारत पुस्तके अस्त्येव गणेशवृत्तान्तः, अभ्यायसंख्यापद्य-
 
-
-
 संख्यादिकं तु पर्वसंग्रहाध्यायोक्तरीत्या अस्मदीयमुद्रणोपयोगिदक्षिणशाखीय मातृकास्विच प्रायेण परिदृश्यते। आन्ध्रलिपिमुद्रितानि पुस्तकानि कुम्भघोणमुद्रितं च अध्यायश्लोकसंख्यायाम् औत्तराहशाखीयपुस्तकेभ्यः किंचिदेव विभियन्ते। एध्वप्यस्ति गणेशवृत्तान्तः। किंच, कुम्भघोणमध्वविलासाधिपतिभ्यां दक्षिणभारतमातृकानुसारेण श्रीमहाभारतं मुद्रयत इति यद्यपि प्रतिजज्ञे, अथापि तद्विलोकने, तदिदं पुस्तकं तत्र तत्र भिन्नभिन्नतया उपलभ्यमानानां सर्वेषामपि पाठानां समावेशेन बृहद्भुतं दुरवबोधयथावस्थितपाठच जातमिति शक्यते सुस्पष्टमवगन्तुम्।
 
  इत्थं नाम सति मुद्रितानां पुस्तकानां स्वभावे, महा भारतस्य दक्षिणशाखावलम्बेन किमपि मुद्रणमवश्यकर्तव्यमापतितमित्यालोच्यैव संप्रति वयमस्मिन् मुद्रणे प्रवर्तामहे ।
 
  पुण्यनगरीयमुद्रणाधिकृतश्च साक्षाद्व्यासविरचितान्येव पद्यानि यावच्छक्यमत्र योज्यन्त इति प्रतिजानीते । वयं तु “नामूलं लिख्यते किश्चित्” इति मल्लिनाथसूक्तिमनुसरन्तः, दक्षिणशाखावलाम्बिनीः पञ्च मातृकाः परिगृह्य, तत्रापि यस्यामनेकैः कारणैरतीव प्रत्ययः, तस्यां परिदृश्यमानान् पाठान् प्रधानतया स्वीकृत्य पुस्तके निवेशायामः। अधस्ताच्च अवशिष्टे मातृका चतुष्टये लक्ष्यमाणान् प्रधानतमान् पाठभे-
 
-
-
 दान्प्रदर्शयामः । इदं चापि निवेदयामः– प्रधानमातृकायां यथा वयं पश्यामः, तथैव पाठान् पुस्तके मुद्रयामः । अक्षर– 'प्रमादादिकं तु तत्र तत्र परिहरामः। अधस्तादपि तादृशानेव पाटभेदान् निवेशयामः, ये तावत्समीक्षिता अर्थभेदाय ग्रन्थसौ– भाग्याय अर्थान्तरपूरणाय विमर्शादिफलान्तराय वा कल्पिष्यन्ते; न तु पुनरक्षरप्रमादादिजनितानपि पाठभेदानधः प्रदर्य पुस्तकं निरर्थकं बहूकर्तुमध्यवस्यामः।
 
  मुद्रणाय अस्माभिः परिगृहीताश्च मातृका एताः मुद्रणे प्रधानमातृका अ–नामिका–तञ्जापुरीयशरभोजीमहाराजसरस्वतीमहाल्नामककोशागारस्था ग्रन्थाक्षरैलिखिता– ११८६० अङ्कत तालपत्रात्मिका संपूर्णादिपर्ववती प्रथ–मा; द्वितीया पुनः निर्दिष्ट कोशागारस्था–११८३८–संख्ययाऽ– किता ग्रन्थलिपिमयी तालपत्वात्मिका संपूर्णादिपर्ववती कं–संज्ञिका ; तृतीया निरुक्त कोशागारस्था– ११८५१– संख्य–या संख्याता तालपत्रात्मिका ग्रन्थाक्षरमयी संपूर्णादिपर्वव– ती–ख नाम्नी; तुरीया पूर्वोक्त पुस्तकभाण्डागारस्था ११८०९–अङ्केन भूषिता आन्ध्रलिपिमयी संपूर्णादिपर्ववती–ग–संज्ञिका; पञ्चमी तु शिवानन्दयोगीन्द्रीया कडयंप्रामस्थ लक्ष्मीनारायणदीक्षितैरस्मभ्यं दत्ता प्रन्थाक्षररूपा ताल–पत्रात्मिका संपूर्णादिपर्ववती–घ–संज्ञावती–
 
-
-
  अथास्मदीयं मुद्रणमधिकृत्य किंचित्प्रस्तोतव्यं प्रस्तुवीमः—एतावता मुद्रितेष्वितिहासपुराणादिष्वन्वयानुरोधेन अर्धत्रयमध्येकपद्यत्वेन संख्या यंते, यत्न एकमधं पूर्वेण परेण वा पद्येन संगतं भवति। सत्यवं प्रामाणिकी वास्तविकी च संख्या तावदाकुलिता भवति। अस्माभिस्त्वस्मिन् मुद्रणे न तथा क्रियते। यत्व तावदर्घत्रयमेव परस्परं संगतम्, तत्र तत्तदर्धसंख्यामेव दशः। यत्र च केवलमर्धमेव संपूर्ण वाक्यम् तत्रापि क्रमप्राप्ता तदीया संख्या निवेश्यते। एवं क्रियमाणे, श्रीव्यासविरचितानां ग्रन्थानां लक्षसंख्या सुसंगता समीक्षासहा च भवति। द्वात्रिंशतोऽक्षराणां समवायस्तावदेको ग्रन्थ इति प्राचीनः संप्रदायः। एवं नाम संख्यानिवेशनरीतिः सप्तशत्या अनुक्रमणिकायां श्रीगौडपादाचार्यैरेव समादृता दृश्यते। एवं ग्रन्थसंख्यापरीक्षणसौकर्याय प्रत्यध्यायमस्माभिरन्ते पद्यानाम्, यत्र सन्ति तत्र गद्यानां च, गणनया संख्या संप्रदर्शिता।
 
  एतस्मिंश्चमुद्रणे अयमप्यपरो विशेषः—एकैकमध्यर्धम् एकैकस्यां पङ्क्तौ संनिवेशितम्। एकैकोऽपि पादः पृथक्तया विभज्य प्रदर्शितः। तत्रापि संधिसंस्कारादिकं यथा न खलु लुप्येत, तथैव दृष्टिर्निक्षिप्ता। एकैव समीचीना विशदा घ लिपिः सर्वत्राप्युपयोजिता। एतैश्च परिष्कारैराधीयमानैरक्लेशेनैव पठितॄणां पठनं संपद्येते त्यस्ति महीयानस्माकं विश्वासः।
-
-
 
  तत्तत्संपुटादौ च कथासंग्रहः पाठकसौकर्याय योज्यते । तथा अन्ते च कश्चिदनुबन्धञ्च, येन स्थलविशेषाणां पुरुषवि- शेषाणां च चरित्रं संग्रहेण ज्ञायेत ।
 
@@ -376,12 +305,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 इति
 
-
 श्रीमदद्वैतविद्याचार्यश्रीभरद्वाजकुलजलधिकौस्तुभश्रीमदप्पयदीक्षितसोदर्यश्रीमदाच्चान्दीक्षितवंशोद्भवस्य पवित्र कीर्तेरमात्यशिरोमणेः श्रीनीलकण्ठदीक्षितस्य द्वितीयसूनोवंशजः
 
 श्रीसुब्रह्मण्यशास्त्री
-
-
 
 **॥श्रीरस्तु ॥  
 महाभारतस्य आदिपर्वणि प्रथमभागः**  
@@ -415,8 +341,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |        | सभापर्वसंक्षेपवृत्तान्ताध्यायलोकसंख्या           |
 |        | आरण्यपर्ववृत्तान्ताध्यायश्लोकसंख्या              |
 
-
-
 |     |                                                                 |
 |-----|-----------------------------------------------------------------|
 | २   | विराटपर्वसंक्षेपवृत्तान्ताध्यायश्लोकसंख्या                     |
@@ -445,8 +369,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | धौम्यस्योपाख्यानम्                                              |
 |    | आरुण्युपाख्यानम्                                                |
 
-
-
 |     |                                                                              |
 |-----|------------------------------------------------------------------------------|
 | ३   | आरुणिपाञ्चालस्य उद्दालकेतिनामप्राप्तिः                                      |
@@ -473,8 +395,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | भृगुणाऽमेस्सर्वभक्षत्वशापः                                                   |
 | ६  | अग्निना क्रोधेन स्वात्मोपसंहारः                                             |
 |    | ब्रह्मस्तुत्या अभिना स्वशिखादीपनम्                                           |
-
-
 
 |     |                                                |
 |-----|------------------------------------------------|
@@ -506,8 +426,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | विषदाहेन देवासुरापाक्रमणम्                     |
 |    | ब्रह्मणस्स्तुत्या शिवेन गरलभक्षणम्             |
 
-
-
 |     |                                                                 |
 |-----|-----------------------------------------------------------------|
 | १३  | पुनस्समुद्रमथनेन श्रान्तानां नारायणेन बलदानम्                  |
@@ -537,8 +455,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | गरुडेन सर्पान्प्रति दास्यमोचनोपायप्रश्नः                        |
 |    | गरुडस्यामृताहरणोद्योगः                                          |
 
-
-
 |     |                                                                    |
 |-----|--------------------------------------------------------------------|
 | २०  | विनतया गरुडाय ब्राह्मणवर्ज समुद्रमध्यस्थनिषादभक्षणेऽनुज्ञा        |
@@ -567,10 +483,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | इन्द्रवज्रप्रहारेण गरुडेनेन्द्राय स्वबलप्रकाशाय पक्षैकदेशविसर्जनम् |
 |    | गरुडस्य सुपर्णनामप्राप्तिः                                         |
 | २६  | इन्द्रगरुडसख्यम्                                                   |
-
-
-
-
 
 |     |                                                  |
 |-----|--------------------------------------------------|
@@ -603,10 +515,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | तक्षकेण कृमिभूतेन परीक्षितो दंशनम्               |
 | ३६  | परीक्षिन्मरणम्                                  |
 |    | जनमेजयस्य राज्याभिषेकः                           |
-
-
-
-
 
 |     |                                                                                 |
 |-----|---------------------------------------------------------------------------------|
@@ -641,8 +549,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | अस्तीकेन वासुकेराश्वासनम्                                                       |
 |    | अस्तिकेन सर्पसत्रगमनम्                                                          |
 
-
-
 |     |                                                         |
 |----:|---------------------------------------------------------|
 |  ४५ | अस्तीककृतजनमेजययज्ञप्रशंसा                              |
@@ -672,8 +578,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | वसोर्गिरिकया विवाहः                                     |
 |    | वसुना स्वपितृनियोगेन मृगयार्थं वनगमनम्                  |
 |    | मीनभावं प्राप्ताया अद्वित्प्सरसः सत्यवत्या उत्पत्तिः    |
-
-
 
 |     |                                                 |
 |-----|-------------------------------------------------|
@@ -705,8 +609,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | अधर्मोत्पत्ति:-तद्वंशश्च                        |
 |    | पक्षिमृगादीनामुत्पत्तिः                         |
 |    | दिग्गजायुत्पत्तिः                               |
-
-
 
 |     |                                                                 |
 |-----|-----------------------------------------------------------------|
@@ -740,8 +642,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | शुक्रदेवयानी संवादः                                             |
 | ६३  | शुक्रेण देवयानीसान्त्वनम्                                      |
 
-
-
 |     |                                                         |
 |-----|---------------------------------------------------------|
 |    | देवयान्याः प्रत्युत्तरम्                                |
@@ -772,8 +672,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | तुर्वशुनिकटे जरासकामणप्रार्थना                          |
 |    | तुर्वशीर्जरामनङ्गीकुर्वाणस्य ययातिशापः                  |
 |    | द्रुह्युनिकटे जरासङ्क्रामणप्रार्थना                     |
-
-
 
 |     |                                                                |
 |----:|----------------------------------------------------------------|
@@ -807,8 +705,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | ययास्यष्टकादीनां स्वर्गगमनम्                                   |
 |    | उत्तरयायातसमाप्तिः                                             |
 
-
-
 |     |                                                                       |
 |-----|-----------------------------------------------------------------------|
 | ७८  | पूरुवंशस्य पुनः कथनम्                                                |
@@ -839,8 +735,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | शकुन्तलाया दुष्यन्ते नाङ्कीकारः                                       |
 |    | शकुन्तलापुत्रस्य भरतेतिनामकरणमभिषेकश्च                                |
 |    | भरतचरितकथनम्                                                          |
-
-
 
 |     |                                                                |
 |-----|----------------------------------------------------------------|
@@ -873,8 +767,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | गङ्गाप्रवाहस्य शरैस्स्तम्भनं कुर्वतो बालकस्य दर्शनम्           |
 |    | बालकस्य तिरोधानम्                                              |
 
-
-
 |     |                                                        |
 |-----|--------------------------------------------------------|
 |    | गङ्गया शन्तनवे देवव्रतसमर्पणम्                         |
@@ -906,8 +798,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | कुमारस्वामिना दत्तायास्त्रवः शिखण्डिन्या कण्ठेऽवमोचनम् |
 |    | यज्ञसेनेन शिखण्डिन्या विवासनम्                         |
 
-
-
 |     |                                                                          |
 |-----|--------------------------------------------------------------------------|
 |    | शिखण्डिन्या इषीकब्राह्मणं प्रति शरणगमनम्                                 |
@@ -934,8 +824,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | सत्यवत्याः व्यासेन सह संवादः                                             |
 |    | व्यासेनाम्बिकाम्बालिकयोः पुत्रोत्पादनाङ्गीकारः                           |
 | १०२ | व्यासादम्बिकायांधृतराष्ट्रस्योत्पत्तिः                                  |
-
-
 
 |     |                                                                                     |
 |-----|-------------------------------------------------------------------------------------|
@@ -966,8 +854,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 | १०८ | व्यासेन वरदानाद् गान्धार्या धृतराष्ट्राद्वर्भोत्पत्तिः                             |
 |    | पुत्रजनने पाण्डोश्चिन्ता                                                            |
 
-
-
 |     |                                                                                      |
 |-----|--------------------------------------------------------------------------------------|
 |    | व्युषिताश्वोपाख्यानम्                                                                |
@@ -997,8 +883,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | शय्यातिपुलाच्छुकात् पाण्डवैर्धनुर्वेद शिक्षणं                                        |
 | ११५ | युधिष्ठिरादीनामायुर्भावकथनम्                                                         |
 |    | पाण्डोर्मरणम्                                                                        |
-
-
 
 |     |                                                                   |
 |-----|-------------------------------------------------------------------|
@@ -1032,8 +916,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | अश्वत्थाम्न उत्पत्तिः                                             |
 |    | द्रोणस्य परशुरामादस्त्रप्राप्तिः                                  |
 
-
-
 |     |                                                                |
 |-----|----------------------------------------------------------------|
 | १२३ | द्रोणस्य द्रुपदं प्राप्य स्वसस्वित्वं वदतो द्रुपदकृतंभर्त्सनम् |
@@ -1065,8 +947,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    | दुर्योधनेन भीमस्य प्रत्युत्तरदानम्                             |
 |    | सर्वेषां रङ्गाविष्क्रमणम्                                      |
 
-
-
 |     |                                                                                           |
 |-----|-------------------------------------------------------------------------------------------|
 | १३१ | द्रोणेन जीवतो द्रुपदस्य ग्रहणे आज्ञापिते तदर्थ सर्वशिष्याणां पाञ्चालपुरगमनम्              |
@@ -1089,11 +969,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 | १३७ | कणिकेन धृतराष्ट्राय दुर्नीत्युपदेशः                                                      |
 |    | जम्बुकोपाख्यानम्                                                                          |
 
-
-
-
-
-
 ![](../books_images/U-IMG-1707208352Screenshot2023-12-27101426.png)
 
 ॥श्रीः॥  
@@ -1101,8 +976,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥१॥ आदिपर्व ॥१॥
 
 ![](../books_images/U-IMG-1707208352Screenshot2023-12-27101426.png)
-
-
 
 ॥ श्रीः ॥  
 ॥ महाभारतम् ॥
@@ -1133,8 +1006,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 असच सञ्चैव (घ) यद् विश्वं सदसतः परम् ।  
 परावराणां स्रष्ट्रारं पुराणं परमव्ययम् ॥६॥
 
-
-
 मङ्गल्यं मङ्गलं विष्णुं वरेण्यमनघं शुचिम् ।  
 नमस्कृत्य हृषीकेशं चराचरगुरुं हरिम् ॥७॥
 
@@ -1149,15 +1020,15 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 साक्षाल्लोकान् पावयमानः कविमुख्यः  
       पाराशर्यः पर्वसु रूपं विवृणोतु ॥१०॥
 
-[पाराशर्यवचः](http://॑# "1. ग - ( 11809) इतः पूर्व विद्यमाना दश श्लोका अत्र नोपलभ्यन्ते ॥ नारायणं नमस्कृत्य नरं चैव नरोत्तमम् । देवीं सरस्वतीं चैव ततो जयमुदीरयेत् ॥ जयति पराशरसूनुः सत्यवतीहृदयनन्दनो व्यासः यस्यास्यकमलगलितं वायममृतं जगत्पिबति ॥")सरोजममलं गीतार्थगन्धोत्कटं  
+पाराशर्यवचः[^1312] इतः पूर्व विद्यमाना दश श्लोका अत्र नोपलभ्यन्ते ॥ नारायणं नमस्कृत्य नरं चैव नरोत्तमम् । देवीं सरस्वतीं चैव ततो जयमुदीरयेत् ॥ जयति पराशरसूनुः सत्यवतीहृदयनन्दनो व्यासः यस्यास्यकमलगलितं वायममृतं जगत्पिबति ॥")सरोजममलं गीतार्थगन्धोत्कटं  
       नानाख्यानककेसरं हरिकथासंबोधनाबोधनम् ।  
 लोके सज्जनषट्पदैरहरहः पेपीयमानं मुदा  
       भूयाद्भारतपङ्कजंकलिमलप्रध्वंसने श्रेयसे ॥११॥
 
+[^1312]: "1. ग - ( 11809
+
 नमो धर्माय महते नमः कृष्णाय वेधसे ।  
 ब्राह्मणेभ्यो नमस्कृत्य धर्मान्वक्ष्यामि शाश्वतान् ॥१२॥
-
-
 
 ॥ श्रीः ॥  
 ॥ महाभारतम् ॥  
@@ -1182,8 +1053,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 शौनकप्रमुखाः[^4] सर्वे नैमिशारण्यवासिनः ।
 
 [^4]: "1. क ख ग - तमाश्रममनुप्राप्य नैमिशारण्यवासिनः । उवाच तानृपीन् सर्वान् धन्यो वोऽस्म्यद्य दर्शनात् ॥ वेद वैयासिकीः सर्वाः कथा धर्मार्थसंहिताः । वक्ष्यामि वो द्विजश्रेष्ठाः शृण्वन्त्वच तपोधनाः ॥ तस्य तद्वचनं श्रुत्वा नैमिशारण्यवासिनः ॥अधिकः पाठः । "
-
-
 
 चित्राः श्रोतुं कथास्तत्र परिवव्रुः समन्ततः[^5]॥३॥
 
@@ -1222,10 +1091,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 श्रुत्वाहं ता विचित्रार्था महाभारतसंश्रिताः।  
 बहूनि संपरिक्रम्य तीर्थान्यायतनानि च ॥१०॥
 
-
-
-[समन्तपञ्चकं](http://॑# "1. स्यमन्त") नाम पुण्यं द्विजनिषेवितम् ।  
+समन्तपञ्चकं[^1313] नाम पुण्यं द्विजनिषेवितम् ।  
 गतवानस्मि तं देशं युद्धं यत्राभवत्पुरा ॥११॥
+
+[^1313]: "1. स्यमन्त"
 
 पाण्डवानां कुरूणां च सर्वेषां च महीक्षिताम् ।  
 दिदृक्षुरागतस्तस्मात् समीपं भवतामिह ॥१२॥
@@ -1262,12 +1131,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^16]: "7. हितां"
 
-
-
 जनमेजयस्य यां राज्ञो वैशम्पायन उक्तवान् ।  
-यथावत् [स](http://॑# "1. क - तां") मुनिः पृष्टः[^17] सत्रे द्वैपायनाज्ञया ॥१९॥
+यथावत् स[^1314] मुनिः पृष्टः[^17] सत्रे द्वैपायनाज्ञया ॥१९॥
 
 [^17]: "2. क - श्रुत्वा"
+
+[^1314]: "1. क - तां"
 
 वेदेवतुर्भिः सहितां व्यासस्याद्भुतकर्मणः ।  
 संहितां श्रोतुमिच्छामो धर्म्यं पापभयापहाम् ॥२०॥
@@ -1291,9 +1160,7 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 आख्यास्यन्ति तथैवान्य इतिहासमिमं भुवि ।
 
-
-
-[एतद्धि](http://॑॑॑॑# "अ (मूलकोशे)–ख–ग–एतस्मिन् हि त्रिलोकेषु") त्रिषु लोकेषु महज्ज्ञानं प्रतिष्ठितम् ॥२४॥
+[एतद्धि](॑॑॑# "अ (मूलकोशे)–ख–ग–एतस्मिन् हि त्रिलोकेषु") त्रिषु लोकेषु महज्ज्ञानं प्रतिष्ठितम् ॥२४॥
 
 विस्तरैश्च समासैश्चसाध्यते[^21] यजातिभिः ।  
 अलङ्कृतैः[^22] शुभैः शब्दैः समयैर्दिव्यमानुषैः ॥२५॥
@@ -1325,8 +1192,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 युगस्यादिनिमित्तं तन् महदिव्यं प्रचक्षते ।  
 यस्मिंस्तच्छ्रयते नित्यं ज्योतिर्ब्रह्म सनातनम् ॥३१॥
-
-
 
 अद्भुतं चाप्यजातं च सर्वतः समतां गतम् ।  
 अव्यक्तं कारणं सूक्ष्मं यत्तत्सदसदात्मकम् ॥३२॥
@@ -1362,8 +1227,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^30]: " 5. चेदं"
 
-
-
 यथर्तुष्टतुलिङ्गानि नानारूपाणि पर्यये ।  
 दृश्यन्ते तानि तान्येव तथा भावा युगादिषु ॥४०॥
 
@@ -1380,10 +1243,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^32]: "2. क –स"
 
-सुता विवस्वतः सर्वे [मह्यस्तेषामथावरः](http://॑# "3. क – पर") ।  
+सुता विवस्वतः सर्वे मह्यस्तेषामथावरः[^1315] ।  
 देवरस्तस्य[^33] तनयस् तस्मात्सुभ्राडिति स्मृतः ॥४४॥
 
 [^33]: "4. क - देवभ्राट् तस्य"
+
+[^1315]: "3. क – पर"
 
 सुभ्राजस्तु त्रयः पुत्राः प्रजावन्तो बहुश्रुताः ।  
 दशज्योतिः शतज्योतिः सहस्रज्योतिरात्मवान् ॥४५॥
@@ -1400,17 +1265,19 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^36]: "7. ख - भरतस्य"
 
-
-
-ययातीक्ष्वाकुवंशश्च राजर्षीणां [तु](http://॑# "1. क – च ") सर्वशः ।  
+ययातीक्ष्वाकुवंशश्च राजर्षीणां तु[^1316] सर्वशः ।  
 संभूता बहवो 'वंशा[^37] भूतसङ्घाः सुविस्तराः[^38] ॥४८॥
 
 [^37]: "2. क – वंश्या"
 
 [^38]: "3. क - सुवर्चसः"
 
+[^1316]: "1. क – च "
+
 भूतस्थानानि सर्वाणि रहस्यं त्रिविधं च यत्।  
-वेद [योगं](http://॑# "4. क - वेदं") सविज्ञानं धर्मार्थो काममेव च ॥४९॥
+वेद योगं[^1317] सविज्ञानं धर्मार्थो काममेव च ॥४९॥
+
+[^1317]: "4. क - वेदं"
 
 इह सर्वमनुक्रान्तं उक्तं ग्रन्थस्य लक्षणम्।  
 संक्षेपेणेतिहासस्य ततो वक्ष्यति विस्तरम् ॥५०॥
@@ -1438,13 +1305,13 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^42]: "5. ख ग - भारत"
 
-
-
 तपसा ब्रह्मचर्येण व्यस्य वेदं सनातनम् ।  
 इतिहासमिमं चक्रे पुण्यं सत्यवतीसुतः ॥५६॥
 
-पराशरात्मजः [श्रीमान्](http://॑# "1. क - विद्वान्") ब्रह्मर्षिः संशितव्रतः।  
+पराशरात्मजः श्रीमान्[^1318] ब्रह्मर्षिः संशितव्रतः।  
 मातुर्नियोगाद्धर्मात्मा गाङ्गेयस्य च धीमतः ॥५७॥
+
+[^1318]: "1. क - विद्वान्"
 
 क्षेत्रे विचित्रवीर्यस्य कृष्णद्वैपायनः पुरा ।  
 त्रीनग्मीनिव कौरव्यान् जनयामास वीर्यवान् ॥५८॥
@@ -1476,27 +1343,29 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 वासुदेवस्य माहात्म्यं पाण्डवानां च सत्यताम् ।
 
-
-
 दुर्वृत्तं धार्तराष्ट्राणां उक्तवान्भगवानृषिः ॥६४॥
 
-इदं शतसहस्रा[ग्रं](http://॑# "1. क–ख्यं") लोकानां पुण्यकर्मणः[^48]।  
+इदं शतसहस्राग्रं[^1319] लोकानां पुण्यकर्मणः[^48]।  
 उपाख्यानैः सह ज्ञेयं श्राव्यं भारतमुत्तमम् ॥६५॥
 
 [^48]: "कर्मणाम्"
 
+[^1319]: "1. क–ख्यं"
+
 चतुर्विंशतिसाहस्रं[^49] चक्रे भारत संज्ञितम्[^50] ।  
-उपाख्यानै [र्विना](http://॑# "5. विनैतावत्") तावद् भारतं प्रोच्यते बुधैः ॥६६॥
+उपाख्यानै र्विना[^1320] तावद् भारतं प्रोच्यते बुधैः ॥६६॥
 
 [^49]: "3. स्ख – चतुर्विंशत्सहस्राणि"
 
 [^50]: "4. संहिताम्"
 
+[^1320]: "5. विनैतावत्"
+
 ततोऽव्यर्धशतं[^51] भूयः संक्षेपं कृतवानृषिः ॥६६॥
 
 [^51]: "6. अध्यर्ध"
 
-[तस्याख्यानवरिष्ठस्य](http://॑॑# "अनुक्रमणिकाध्यायं वृतान्तानां सपर्वणाम्,") कृष्णद्वैपायनः प्रभुः ।  
+[तस्याख्यानवरिष्ठस्य](॑# "अनुक्रमणिकाध्यायं वृतान्तानां सपर्वणाम्,") कृष्णद्वैपायनः प्रभुः ।  
 कथमध्यापयामी ह[^52] शिष्यानित्यभ्यचिन्तयत् ॥६७॥
 
 [^52]: "8. ति सशिष्यानित्यचिन्तयत्"
@@ -1517,13 +1386,13 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 हिरण्यगर्भमासीनं तस्मिस्तु परमासने ।
 
-
-
-परिवृत्यासनाभ्याशे वासवेय[^56]: [स्थितो](http://॑# "2. ख - वासवो यः")ऽनघः[^57] ॥७१॥
+परिवृत्यासनाभ्याशे वासवेय[^56]: स्थितो[^1321]ऽनघः[^57] ॥७१॥
 
 [^56]: "ह्ह्दस्द्बझ्स्द्न्ब्"
 
 [^57]: "3. नतः"
+
+[^1321]: "2. ख - वासवो यः"
 
 अनुज्ञातोऽथ कृतिना ब्रह्मणा परमेष्ठिना।  
 निषसादासनाभ्याशे प्रीयमाणः सुविस्मितः ॥७२॥
@@ -1558,12 +1427,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^63]: "9. वेदाध्यात्मम्"
 
-
-
-[न्याय](http://॑# "1. क ख – म्यायशिक्षा"): शिक्षा चिकित्सा च ज्ञानं पाशुपतं तथा ।  
+न्याय[^1322]: शिक्षा चिकित्सा च ज्ञानं पाशुपतं तथा ।  
 इत्यनेकाश्रयं जन्म दिव्यमानुषसंज्ञितम्[^64] ॥७९॥
 
 [^64]: "2. क - श्रितम्"
+
+[^1322]: "1. क ख – म्यायशिक्षा"
 
 तीर्थानां चैव पुण्यानां देशानां चैव कीर्तनम् ।  
 नदीनां पर्वतानां च वनानां सागरस्य च ॥८०॥
@@ -1597,8 +1466,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 जडान्धबधिरोन्मत्तं[^70] तमोभूतं जगद्भवेत् ।
 
 [^70]: "ग-न्मत्ततमोभूतम्"
-
-
 
 यदि ज्ञानहुताशेन त्वया नोञ्जलितं भवेत् ॥८५॥
 
@@ -1636,8 +1503,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^75]: "श्रुति"
 
-
-
 सर्वेषां कविमुख्यानां उपजीव्यो भविष्यति ।  
 पर्जन्य इव भूतानां अक्षयो[^76] भारतद्रुमः ॥९४॥
 
@@ -1670,8 +1535,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
      मूलं राजा धृतराष्ट्रोऽम्बिकेयः ॥१०१॥
 
 [^78]: "3. अ-ख-ग-शाखा"
-
-
 
 युधिष्ठिरो धर्ममयो महाद्रुमः  
      स्कन्धोऽर्जुनो भीमसेनोऽस्य शाखाः[^79] ।  
@@ -1708,15 +1571,15 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^83]: "5. तेषु जातेषु सर्वेषु पाण्डवेषु महात्मसु । माझा तु सह संगम्य ऋषिशापप्रभावतः ॥ सतः पाण्डमंडापुण्ये शतके महागिरौ । अधिकः पाठः ।"
 
-
-
 शिशवश्चाभिरूपाश्च जटिला ब्रह्मचारिणः ॥१०९॥
 
 पुत्राश्च भ्रातरश्चेमे शिष्याश्च सुहृदश्च वः।  
 पाण्डवाश्चैत इत्युक्त्वा मुनयोऽन्तर्हितास्ततः ॥११०॥
 
-तैस्तान्निवेदिताल्छ्रुत्वा पाण्डवान् [कौरवांस्तदा](http://॑# "1. क – कौरवास्तदा")।  
+तैस्तान्निवेदिताल्छ्रुत्वा पाण्डवान् कौरवांस्तदा[^1323]।  
 शिष्टाय वर्णाः पौरा ये ते हर्षाच्चुक्रुशुभृशम् ॥१११॥
+
+[^1323]: "1. क – कौरवास्तदा"
 
 आहुः केचिन्न तस्यैते तस्यैत इति चापरे।  
 यदा[^84] चिरमृतः पाण्डुः कथं तस्येति चापरे ॥११२
@@ -1738,8 +1601,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तेऽधीत्य सकलान्वेदान् शास्त्राणि विविधानि च।  
 न्यवसन् पाण्डवास्तत्र पूजिता अकुतोभयाः ॥११७॥
 
-
-
 युधिष्ठिरस्य शौचेन प्रीताः प्रकृतयोऽभवम् ।  
 घृत्या च भीमसेनस्य विक्रमेणार्जुनस्य च ॥११८॥
 
@@ -1752,10 +1613,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तदा प्रभृति लोकेऽस्मिन् पूज्यः सर्वधनुष्मताम् ।  
 आदित्य इव दुष्प्रेक्ष्यः समरेष्वपि चाभवत् ॥१२१॥
 
-स सर्वान् पार्थिवाक्षित्वा सर्वांश्च महतो [गणान्](http://॑# "1. अ-ख -ग - गुणान्")।  
+स सर्वान् पार्थिवाक्षित्वा सर्वांश्च महतो गणान्[^1324]।  
 आजदारार्जुनो राज्ञो[^85] राजसूनुर्महाऋतुम् ॥१२२॥
 
 [^85]: "2. क- राज्ञे राजसूर्य"
+
+[^1324]: "1. अ-ख -ग - गुणान्"
 
 अन्नवान्दक्षिणावांच सर्वैः समुदितो गुणैः।  
 युधिष्प्रिरेण संप्राप्तो राजसूयो महाक्रतुः ॥१२३॥
@@ -1763,17 +1626,19 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सुनयाद्वासुदेवस्य भीमार्जुनबलेन च।  
 घातयित्वा जरासन्धं चैद्यं च बलदर्पितम् ॥१२४
 
-[दुर्योधनमुपागच्छन्नर्हणानि](http://॑# "3. क – दुर्योधनं विनागच्छन्") ततस्ततः।  
+दुर्योधनमुपागच्छन्नर्हणानि[^1325] ततस्ततः।  
 मणिकाञ्चनरत्नानि गोहस्त्यश्वधनानि च ॥१२५॥
 
+[^1325]: "3. क – दुर्योधनं विनागच्छन्"
+
 समृद्धां तां ततो दृष्ट्वा पाण्डवानां तदा श्रियम्।
-
-
 
 ईर्ष्यासमुत्थः सुमहांस्तस्य मन्युरजायत ॥१२६॥
 
 विमानप्रतिमां चापि मयेन सुकृतां सभाम्।  
-पाण्डवानामुप[सृतां](http://॑# "1 क-हृतां") स दृष्ट्वा पर्यतप्यत ॥१२७॥
+पाण्डवानामुपसृतां[^1326] स दृष्ट्वा पर्यतप्यत ॥१२७॥
+
+[^1326]: "1 क-हृतां"
 
 यत्रापहसितश्वासीत् प्रस्कन्दन्निव संभ्रमात्।  
 प्रत्यक्षं वासुदेवस्य भीमेनानभिजातवत् ॥१२८॥
@@ -1797,9 +1662,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 धृतराष्ट्रश्चिरं ध्यात्वा संजयं वाक्यमब्रवीत् ॥१३३॥
 
-शृणु संजय मे [सर्वाम्नाद्यासूयितुमर्हसि](http://॑# "3. क - सर्व नाभ्यसूयितुं")।
+शृणु संजय मे सर्वाम्नाद्यासूयितुमर्हसि[^1327]।
 
-
+[^1327]: "3. क - सर्व नाभ्यसूयितुं"
 
 श्रुतवानसि मेधावी बुद्धिमान्प्राज्ञसत्तम ॥१३४॥
 
@@ -1815,8 +1680,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तच्चापहसनं प्राप्य समारोहणदर्शने।  
 अमर्षितः स्वयं जेतुमशक्तः पाण्डवान् रणे ॥१३८॥
 
-[निरुत्साहः](http://॑# "1. क - निरुत्साहं च संप्राप्तुं")श्रियं प्राप्तुं श्रियं चाक्षत्रियो यथा।  
+निरुत्साहः[^1328]श्रियं प्राप्तुं श्रियं चाक्षत्रियो यथा।  
 गान्धारराजसहितश् छद्मधूतममन्त्रयत् ॥१३९॥
+
+[^1328]: "1. क - निरुत्साहं च संप्राप्तुं"
 
 तत्र यद्यद्यथा ज्ञातं मया संजय तच्छृणु ॥१४०॥
 
@@ -1827,8 +1694,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
    विद्धं लक्ष्यं पातितं वै पृथिव्याम् ।  
 कृष्णां हृतां पश्यतां सर्वराज्ञां  
    तदा नाशंसे विजयाय संजय ॥१४२॥
-
-
 
 यदाश्रौषं द्वारकायां सुभद्रां  
   प्रसह्योढां माधवीमर्जुनेन।  
@@ -1854,8 +1719,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   सभां नीतां दुःखिता मेकवखाम्।  
 रजस्वलां नाथवतीमनाथवत्  
   तदा नाशंसे विजयाय संजय ॥१४७॥
-
-
 
 यदाश्रौष स्नातकानां सहस्र-  
   रन्वागतं धर्मराजं वनस्थम् ।  
@@ -1883,8 +1746,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   पाण्डोस्सुतं सहितं रोमशेन ।
 
 [^88]: "2. क- प्रवृत्तं"
-
-
 
 तस्मादश्रौषीदर्जुनस्यार्थलाभं[^89]  
   तदा नाशंसे विजयाय संजय ॥१५२॥
@@ -1915,12 +1776,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^91]: "3. अ-ख-यास्यः; क- आगतः; ग-आगतान्"
 
-
-
 यदाश्रौष कीचकानां वरिष्ठं  
   निषूदितं भ्रातृशतेन सार्धम्।  
-द्रौपद्यर्थ भीमसेनेन [सङ्ख्ये](http://॑# "1. ख-सके")  
+द्रौपद्यर्थ भीमसेनेन सङ्ख्ये[^1329]  
   तदा नाशंसे विजयाय संजय ॥१५७॥
+
+[^1329]: "1. ख-सके"
 
 यदाश्रौषं मामकानां वरिष्ठान्  
   धनंजयेनैकरथेन भग्नान्।  
@@ -1939,8 +1800,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यदाश्रौष नरनारायणौ तौ  
   कृष्णार्जुनौ वदतो नारदस्य।
-
-
 
 अहं द्रष्टा ब्रह्मलोके सदेति  
   तदा नाशंसे विजयाय संजय ॥१६१॥
@@ -1968,8 +1827,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यदाश्रौषं वासुदेवार्जुनौ तौ  
   तथा धनुर्गाण्डिवमप्रमेयम्।
 
-
-
 त्रीण्युम्नवीर्याणि समागतानि  
   तदा नाशंसे विजयाय संजय ॥१६६॥
 
@@ -1995,8 +1852,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यदाश्रौषं शान्तनवे शयाने  
   पानीयार्थ चोदिते शक्रसूनौ ।
-
-
 
 गां भित्त्वाम्भो वारुणेनाददाने  
   तदा नाशंसे विजयाय संजय ॥१७१॥
@@ -2027,14 +1882,14 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^94]: "3. अ क ख - नोक"
 
-
-
-[यदाभिमन्युं](http://॑# "1. ख - अयं लोकः ख पुस्तके नास्ति") परिवार्य बालं  
+यदाभिमन्युं[^1330] परिवार्य बालं  
   सर्वे हत्वा हृष्टरूपा बभूवुः।  
 महारथाः पार्थमशक्नुवन्त[^95]-  
   स्तदा नाशंसे विजयाय संजय ॥१७६
 
 [^95]: "2. अ-क-ग - भम्यु"
+
+[^1330]: "1. ख - अयं लोकः ख पुस्तके नास्ति"
 
 यदाश्रीषं चाभिमन्युं निहत्य  
   हर्षान्मोत्क्रोशतो धार्तराष्ट्राम्।  
@@ -2054,8 +1909,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यदाचं वाहनेष्याश्वसत्सु  
   रथोपस्थे तिष्ठता चार्जुनेन ।
 
-
-
 सर्वान्योधान्वारितान्पाण्डवेन  
   तदा नाशंसे विजयाय संजय ॥१८०॥
 
@@ -2070,18 +1923,18 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   तदा नाशंसे विजयाय संजय ॥१८२॥
 
 यदाश्रौष कृतवर्मा कृपश्च  
-  कर्णो द्रौणिर्मद्रराजच [सङ्ख्ये](http://॑# "1. अ-ख-ग - सङ्घे")।  
+  कर्णो द्रौणिर्मद्रराजच सङ्ख्ये[^1331]।  
 नारक्षन्यत्सैन्धवं[^96] वध्यमानं  
   तदा नाशंसे विजयाय संजय ॥१८३॥
 
 [^96]: "2. अ - ख ग - यदा रक्षन्सैन्धवं"
 
+[^1331]: "1. अ-ख-ग - सङ्घे"
+
 यदाश्रौष देवराजेन दत्तां  
   शक्ति मुक्तां शक्तिां माधवेन ।  
 घटोत्कचे राक्षसे घोररूपे  
   तदा नाशंसे विजयाय संजय ॥१८४॥
-
-
 
 यदाश्रौष कर्णघटोत्कचाभ्यां  
   युद्धे मुक्तां सूतपुत्रेण शक्तिम् ।  
@@ -2105,8 +1958,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यदाश्रौष कर्णमत्यन्तशूरं  
   हतं पार्थेना हवेष्वप्रधृष्यम् ।
-
-
 
 तस्मिन् भ्रातॄणां विग्रहे देवगुह्ये  
   तदा नाशंसे विजयाय संजय ॥१८९॥
@@ -2135,12 +1986,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^98]: "अ-क-ग-शान्त"
 
-
-
 यदाश्रौषं पाण्डवांस्तिष्ठमानान्  
   गङ्गाह्रदे वासुदेवेन सार्धम् ।  
-[अमर्षणं](http://॑# "1. अ- अमर्षणान्मर्षयतस्सुतान्मे ।") धर्षयतस्सुतं मे  
+अमर्षणं[^1332] धर्षयतस्सुतं मे  
   तदा नाशंसे विजयाय संजय ॥१९४॥
+
+[^1332]: "1. अ- अमर्षणान्मर्षयतस्सुतान्मे ।"
 
 यदाश्रौषं विविधांस्तात मार्गान्  
   गदायुद्धे मण्डलं संघरन्तम् ।  
@@ -2154,23 +2005,25 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यदाश्रौष भीमसेनानुयाते-  
   नाश्वत्थाम्ना परमास्त्रं प्रयुक्तम् ।  
-क्रुद्धेनैषी[कमवधीद्येन](http://॑# "2. क–कं नावधीत्") गर्भ  
+क्रुद्धेनैषीकमवधीद्येन[^1333] गर्भ  
   तदा नाशंसे विजयाय संजय ॥१९७॥
+
+[^1333]: "2. क–कं नावधीत्"
 
 यदाभौषं ब्रह्मशिरोऽर्जुनेन  
   मुक्तं स्वस्तीत्यस्त्र[^99]मस्त्रेण शान्तम् ।
 
 [^99]: "5. अ - ख ग - उमं"
 
-
-
 अश्वत्थाम्ना मणिरत्नं च मुक्तं  
   तदा नाशंसे विजयाय संजय ॥१९८॥
 
 यदाश्रौष द्रोणपुत्रेण गर्भे  
   वैराट्यावै पात्यमाने महास्त्रे।  
-[संजीवयामीति](http://॑# "1. अ – कोशे - इदमधं नास्ति-परं तु अत्र इदमुपलभ्यते 'द्वैपायनः केशवो द्रोणपुत्रं परस्परेणाभिशापैश्शपेताम्") हरेः प्रतिज्ञां  
+संजीवयामीति[^1334] हरेः प्रतिज्ञां  
   तदा नांशंसे विजयाय संजय ॥१९९॥
+
+[^1334]: "1. अ – कोशे - इदमधं नास्ति-परं तु अत्र इदमुपलभ्यते 'द्वैपायनः केशवो द्रोणपुत्रं परस्परेणाभिशापैश्शपेताम्"
 
 शोच्या[^100] गान्धारी पुत्रपौत्रैर्विहीना  
   तथा वध्वः पतिभिर्भ्रातृभिश्च ।  
@@ -2186,10 +2039,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^101]: ". अ - ख ग - विग्रहे"
 
-
-
-[तमसा](http://॑# "1. क ग - कालाभिपना समितिर्महात्मनां निपूदिता हेतुरासीत्सुतो मे ॥") संभृतं तूर्ण मोह आविशतीव माम् ।  
+तमसा[^1335] संभृतं तूर्ण मोह आविशतीव माम् ।  
 संज्ञां नैव लभे सूत मनो विह्वलतीव मे ॥२०२॥
+
+[^1335]: "1. क ग - कालाभिपना समितिर्महात्मनां निपूदिता हेतुरासीत्सुतो मे ॥"
 
 इत्युक्त्वा धृतराष्ट्रोऽथ विलय च सुदुःखितः ।  
 मूर्च्छितः पुनराश्वस्तस् संजयं वाक्यमब्रवीत् ॥२०३॥
@@ -2215,8 +2068,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 वैन्यं महारथं वीरं सृञ्जयं जयतां वरम् ।  
 सुहोत्रं रन्तिदेवं च कक्षीवन्तमथौशिजम् ॥२०९॥
-
-
 
 बाहीकं दमनं चैद्यं शर्यातिं च शिबिं नलम् ।  
 विश्वामित्रममित्रघ्नं अम्बरीषं महाबलम्॥२१०॥
@@ -2247,8 +2098,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सत्यव्रतः शान्तभवः सुमित्रः सुबलः प्रभुः।
 
-
-
 जानुजङ्घोऽनरण्यश्च प्रियभृत्यश्शुचित्रतः ॥२१९॥
 
 बलबन्धुर्निरामर्दः केतुश्रृङ्गो बृहद्बलः।  
@@ -2278,8 +2127,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 निग्रहानुग्रहौचापि विदितौ तेनराधिप।  
 नात्यन्तमेवानुवृत्तिः भूयते पुत्ररक्षणे ॥२२८॥
 
-
-
 भवितव्यं तथा तश्च नातइशोचितुमर्हसि।  
 दैवं पुरुषकारेण[^102] को निवर्तितुमर्हति ॥२२९॥
 
@@ -2307,8 +2154,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 आश्वास्य स्वस्थ मकरोत् सूतो गावल्गाणिस्तदा।  
 अतोपनिषदं पुण्यां कृष्णद्वैपायनोऽब्रवीत् ॥२३५॥
-
-
 
 भारताध्ययनात्पुण्याद् अपि पादमधीयतः।  
 श्रद्दधानस्य पूयन्ते सर्वपापान्यशेषतः ॥२३६॥
@@ -2339,8 +2184,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सभामध्ये जपन्कश्चित् सयो मुच्येत किल्बिषात्।
 
-
-
 अनुक्रमिण्यां तन्न स्याद् दिवा राज्यां च संचितम् ॥२४५॥
 
 भारतस्य वपुर्धेतत् सत्यं चानृतमेव च।  
@@ -2361,8 +2204,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^105]: "अ-ख- कृत्वं"
 
-[कार्ष्णं](http://॑# "अ- ख ग वेदार्थमुपबृंहयेत्")वेदमिमं विद्वान् श्रावयित्वार्थमश्नुते।  
+कार्ष्णं[^1336]वेदमिमं विद्वान् श्रावयित्वार्थमश्नुते।  
 भ्रूणहत्याकृतं चापि पापं दह्यान्न संशयः ॥२५०॥
+
+[^1336]: "अ- ख ग वेदार्थमुपबृंहयेत्"
 
 य इमं शुधिरध्यायं पठन्पर्वणि पर्वणि।  
 अधीतं भारतं तेन कृत्स्नं स्यादिति मे मतिः॥२५१॥
@@ -2372,12 +2217,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 चत्वार एकतो वेदा भारतं चैकमेकतः।
 
-
-
 समागतैः सुरर्षिभिस्तुलामारोपितं पुरा ॥२५३॥  
 महत्ये च गुरुत्वे च ध्रियमाणं यतोऽधिकम् ।
 
-महत्त्वा [द्भारवत्वाच्च](http://॑# "अ. ख-ग--भारतत्वाच") महाभारतमुच्यते ॥२५४॥
+महत्त्वा द्भारवत्वाच्च[^1337] महाभारतमुच्यते ॥२५४॥
+
+[^1337]: "अ. ख-ग--भारतत्वाच"
 
 निरुक्तमस्य यो वेद सर्वपापैः प्रमुच्यते ॥२५५॥
 
@@ -2404,9 +2249,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 शुश्रूषा यदि वो विप्रा ब्रुवतश्च शुभाः कथाः।  
 समन्तपञ्चकाख्यानं श्रोतुमर्हथ सत्तमाः॥  
-
-
-
 
 त्रेताद्वापरयोस्सन्धौ रामः प्रहरतां वरः।  
 असकृत्पार्थिवं क्षवं जघाना मर्षचोदितः ॥३॥
@@ -2435,10 +2277,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एवं नामाभिनिर्वृत्तं तस्य देशस्य वै द्विजाः।  
 पुण्यश्च रमणीयश्च स देशः संप्रकीर्तितः ॥११॥
 
-
-
-तदेतत्कथितं सर्व मया वो मुनि[सत्तमाः](http://॑# "1. भ-द्विज")।  
+तदेतत्कथितं सर्व मया वो मुनिसत्तमाः[^1338]।  
 यथा देशः सविख्यातस् त्रिषु लोकेषु विश्रुतः ॥१२॥
+
+[^1338]: "1. भ-द्विज"
 
 **ऋषयः—**
 
@@ -2464,8 +2306,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अक्षौहिण्यां प्रसंख्याता रथानां द्विजसत्तमाः।  
 संख्या गणिततत्त्वज्ञैः सहस्राण्येकविंशतिः ॥१९॥
-
-
 
 शतान्युपरि चाप्यष्टौ भूयश्च सह सप्ततिः।  
 गजानां तु परीमाणं तावदेवात्र निर्दिशेत्॥२०॥
@@ -2495,8 +2335,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तस्यैव तु दिनस्यान्ते हार्दिक्यद्रौणिगौतमाः।  
 प्रसुप्तं निशि विश्वस्तं जघ्नुर्यौधिष्ठिरं बलम् ॥२८॥
-
-
 
 तत्तु शौनक सत्रे ते भारताख्यानविस्तरम् ।  
 आख्यास्ये पौष्य पौलोमं आस्तीकं च ततः परम् ॥२९॥
@@ -2533,8 +2371,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अ विचित्रवाख्यपदख्यानां
 
-
-
 अर्जुनस्य ¹⁶वने वासः ¹⁷सुभद्राहरणं तथा ।  
 सुभद्राहरणादूर्ध्वं ज्ञेयं ¹⁸हरणहारिकम्॥३८॥
 
@@ -2563,8 +2399,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 \*मन्त्रस्य[^108] निश्चयं कृत्वा कार्यस्यापि विचिन्तनम्॥४६॥
 
 [^108]: "*क-ख-ग—इदमर्धं नास्ति"
-
-
 
 ⁴¹व्रीहिद्रोणकमाख्यानं ततोऽनन्तरमुच्यते ।  
 ⁴²द्रौपदीहरणं पर्व सैन्धवेन वनात्ततः॥४७॥
@@ -2595,8 +2429,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ⁵⁷निर्याणं च ततः पर्वकुरुपाण्डवसेनयोः।  
 ⁵⁸रथातिरथसंख्या च पर्वोक्तं तदनन्तरम्॥५५॥
 
-
-
 ⁵⁹ उलूकदूतागमनं पर्व रोषविवर्धनम् ।  
 ⁶⁰अम्बोपाख्यानमथ च पर्व ज्ञेयमतः परम्॥५६॥
 
@@ -2625,8 +2457,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ⁸²श्राद्धपर्व ततो ज्ञेयं कुरूणामौर्ध्वदैहिकम्॥ ६४॥
 
 ⁸³आभिषेचनिकं पर्व धर्मराजस्य धीमतः।
-
-
 
 ⁸⁴चार्वाकनिग्रहः पर्व रक्षसो ब्रह्मरूपिणः॥६५॥
 
@@ -2657,8 +2487,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यथा तु सूतपुत्रेण रौमहर्षणिना पुनः ।  
 कथितं नैमिशारण्ये पर्वाण्यष्टादशैव तु॥७३॥
-
-
 
 समासो भारतस्यायं तत्रोक्तः पर्वसंग्रहः।  
 पौष्ये पर्वणि माहात्म्यं उदकस्योपवर्णितम्॥७४॥
@@ -2691,8 +2519,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 नागानामथ सर्पाणां गन्धर्वाणां पतत्त्रिणाम् ।  
 अन्येषां चैव भूतानां विविधानां समुद्भवः॥८२॥
 
-
-
 वसूनां पुनरुत्पत्तिर् भागीरथ्यां महात्मनाम् ।  
 शन्तनोर्वेश्मनि पुनस् तेषां चारोहणं दिवि॥८३॥
 
@@ -2722,8 +2548,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^114]: "1. क-ख-ग—अङ्गारपर्णं।"
 
-
-
 तापत्यमथ वासिष्ठं और्वोपाख्यानमेव च ।  
 पञ्चेन्द्राणामुपाख्यानं अत्रैवाद्भुतमुच्यते॥९२॥
 
@@ -2750,8 +2574,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 महर्षेर्मन्दपालस्य शार्ङ्ग्यांतनयसंभवः।  
 इत्येवमादिपर्वोक्तं प्रथमं भुषि विस्तरम्॥१००॥
-
-
 
 अध्यायानां शते द्वे तु संख्याते परमर्षिणा।  
 अष्टादशैव चाध्याया व्यासेनोत्तमतेजसा॥१०१॥
@@ -2787,8 +2609,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^117]: "3. क-ख-ग—व्याहृतं बो महाद्विजाः"
 
-
-
 अध्यायाः सप्ततिर्ज्ञेया द्वौ चात्र परिसंख्यया ।  
 चतुः लोकसहस्राणि पञ्च श्लोकशतानि च॥११०॥
 
@@ -2816,8 +2636,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 युधिष्ठिरस्य चार्तस्य व्यसने परिदेवनम्॥११७॥
 
 नलोपाख्यानमत्रैव धर्मिष्टं करुणोदयम् ।
-
-
 
 दमयन्त्याः स्थितिर्यत्र नलस्य व्यसनागमे॥११८॥
 
@@ -2849,8 +2667,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सौकन्यमपि चाख्यानं च्यवनो यत्र भार्गवः।
 
-
-
 शर्यातियज्ञे नासत्यौ कृतवान्सोमपीथिनौ॥१२७॥
 
 ताभ्यां च यत्र स मुनिर् यौवनं प्रतिपादितः।  
@@ -2881,8 +2697,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 व्रीहिद्रोणकमाख्यानं ऐन्द्रद्युम्नं तथैव च।  
 साबित्र्यौद्यालकीये च वैन्योपाख्यानमेव च॥१३५॥
 
-
-
 रामायणमुपाख्यानं अत्रैव बहुविस्तरम् ।  
 पुनरागमनं चैव तेषां द्वैतवने सरः॥१३६॥
 
@@ -2910,8 +2724,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 विराटेनोत्तरा दत्ता स्नुषा यत्र किरीटिनः।  
 अभिमन्युं समुद्दिश्य सौभद्रमरिघातिनम् ॥१४४॥
 
-
-
 चतुर्थमेतद्विपुलं वैराटं पर्व वर्णितम् ।  
 अत्रचोपरि संख्यानं अध्यायानां महात्मना॥१४५॥
 
@@ -2938,8 +2750,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 श्रुत्वा च पाण्डवान्यातान् वासुदेवपुरोगमान् ।  
 प्रजागरः संप्रजज्ञे धृतराष्ट्रस्य चिन्तया॥१५३॥
-
-
 
 विदुरो यत्र वाक्यानि चित्राणि विविधानि च ।  
 श्रावयामास राजानं धृतराष्ट्रं मनीषिणम्॥१५४॥
@@ -2972,8 +2782,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 नगराद्धस्तिनपुराद्बलसंख्यानमेव च।  
 यत्र राज्ञा उलूकस्य प्रेषणं पाण्डवान् प्रति ॥१६२॥
 
-
-
 श्वोभाविनि महायुद्धे दूतेन क्रूरवादिना ।  
 रथातिरथसंख्यानं अम्बोपाख्यानमेवच॥१६३॥
 
@@ -3005,8 +2813,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 षष्ठमेतन्महापर्व भारते परिकीर्तितम् ।  
 अध्यायानां शतं प्रोक्तं अष्टादश तथापरे॥१७१॥
 
-
-
 पञ्चश्लोकसहस्राणि संख्ययाष्टौ शतानि च ।  
 श्लोकानां चतुराशीतिर् अस्मिन् पर्वणि कीर्तिता॥१७२॥
 
@@ -3036,8 +2842,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अत्र ते पृथिवीपालाः प्रायशो निधनं गताः॥१७९॥
 
 द्रोणपर्वणि ये शूरा निर्दिष्टाः पुरुषर्षभाः।
-
-
 
 अश्वत्थामा पितरि वै द्रोणे युधि निपातिते॥१८०॥
 
@@ -3069,8 +2873,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एकोनसप्ततिः प्रोक्ता अध्यायाः कर्णपर्वणि ।  
 चत्वार्येव सहस्राणि नव श्लोकशतानि च ॥१८८॥
 
-
-
 अतः परं विचित्रार्थं शल्यपर्व प्रकीर्तितम्।  
 हतप्रवीरे सैन्ये तु नेता मद्रेश्वरोऽभवत्॥१८९॥
 
@@ -3097,8 +2899,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 प्रतिजज्ञे दृढकोधोद्रौणिर्यत्र महारथः।  
 अहत्वा सर्वपाञ्चालान् भृष्टद्युम्नपुरोगमान्॥१९७॥
-
-
 
 पाण्डवांश्च तथामात्यान् न विमोक्षामि दंसनम्।  
 प्रसुप्तान्निशि विश्वस्तान् यत्र ते पुरुषर्षभाः॥१९८॥
@@ -3127,8 +2927,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सुतस्यैतदिह प्रोक्तं दशमं पर्व सौप्तिकम्।  
 अष्टादशास्मिन्नध्यायाः पर्वण्युक्ता महात्मना॥२०६॥
 
-
-
 श्लोकाग्रमत्र कथितं शतान्यष्टौ तथैव च।  
 श्लोकाश्च सप्ततिः प्रोक्ता यथावदभिसंख्यया॥२०७॥
 
@@ -3156,8 +2954,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यत्र निवेदमापेदे धर्मराजो युधिष्ठिरः।  
 घातयित्वा पितॄन् भ्रातृृन्पुत्रान् संबन्धिवान्धवान्॥२१५॥
 
-
-
 शान्तिपर्वणि धर्माश्च व्याहृताः शरतल्पिकाः।  
 राजभिर्वेदितव्या ये सम्यगर्थं बुभुत्सुभिः॥२१६॥
 
@@ -3184,8 +2980,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 आचारविधियोगश्च सत्यस्य च परा गतिः।  
 एतत्सुबहुवृत्तान्तं उत्तमं चानुशासनम्॥२२४॥
-
-
 
 भीष्मस्यैवात्र संप्राप्तिः स्वर्गस्य परिकीर्तिता ।  
 एतत्त्रयोदशं पर्व धर्मनिश्चयकारणम्॥२२५॥
@@ -3217,8 +3011,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 विंशतिश्च तथा श्लोकाः संख्यातस्तत्त्वदर्शिना।  
 ततश्चाश्रमवासाख्यं पर्व पञ्चदशं स्मृतम् ॥२३३॥
-
-
 
 यत्र राज्यं परित्यज्य गान्धारीसहितो नृपः ।  
 धृतराष्ट्राश्रमपदं विदुरश्च जगाम ह॥२३४॥
@@ -3252,8 +3044,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अतः परं निबोधेदं मौसलं भृशदारुणम् ।
 
-
-
 यत्र ते पुरुषव्याघ्राः शस्त्रस्पर्शहता युधि॥२४२॥
 
 ब्रह्मदण्ड[^135]विनिष्पिष्टाः समीपे लवणाम्भसः।  
@@ -3284,8 +3074,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 धर्मराजं समासाद्य संन्यासं समरोचयत्।  
 इतीदं मौसलं पर्व षोडशं परिकीर्तितम्॥२५१॥
-
-
 
 अष्टाध्यायाः प्रसंख्याताः श्लोकाग्रंच शतत्रयम् ।  
 महाप्रस्थानिकं तस्माद् ऊर्ध्वं सप्तदशं स्मृतम्॥२५२॥
@@ -3327,8 +3115,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यत्र कृष्णस्य कर्माणि श्रूयन्ते जन्मना सह ।
 
-
-
 तन्महद्दारुणं युद्धं अहान्यष्टादशाभवत्॥२५८॥
 
 यो विद्याच्चतुरो वेदान् साङ्गोपनिषदो द्विजः।  
@@ -3357,8 +3143,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^136]: "1. क-ख-ग—द्वैपायनोष्ठपुटनिःसृतमप्रमेयं पुण्यं पवित्रमथ पापहरं शिवं च । यो भारतं समधिगच्छति वाच्य किं तस्य पुष्करजलैरभिषेचनेन॥"
 
-
-
 श्रुत्वादौमहति[^137] नृणां सुखावगाहो  
   विस्तीर्णे लवणजले यथा प्लवेन॥२६६॥
 
@@ -3386,8 +3170,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  स जनमेजयस्य भ्रातृभिर्हतो रोरूयमाणो मातुः समीपमभ्यागच्छत्॥ २॥
 
-
-
  तं माता रोरूयमाणमुवाच। कि रोदिषि, केनास्यभिहत इति ॥३॥
 
  स एवमुक्तो मातरं प्रत्युवाच। जनमेजयस्य भ्रातृभिर्हतोऽस्मीति॥४॥
@@ -3406,8 +3188,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  स तस्मिन्सत्रे समाप्ते हस्तिनपुरमभ्येत्य पुरोहिमनुरूपमन्विच्छमानः परं यत्नमकरोत्, यो मे पापकृत्यां नाशयेदिति॥ ११॥
 
-
-
  स कदाचिन्मृगयां गतः पारीक्षितो जनमेजयः कस्मिंश्च स्वविषयोद्देशे आश्रममपश्यत् ॥१२॥
 
  तत्र कश्चिदृषिरासाञ्चक्रेश्रुतश्रवा नाम।तस्याभिमतः पुत्र आस्ते सोमश्रवा नाम॥१३॥
@@ -3423,8 +3203,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
  स तं पुरोहितमुपादायोपावृत्तो भ्रातृृनुवाचमयायं वृत उपाध्यायः, यदयं ब्रूयात्तत्कार्यमविचारयद्भिरिति॥ १८॥
 
  तेनैवमुक्ता भ्रातरस्त्रयस्तस्य तथा चक्रुः॥१९॥
-
-
 
  स तथा तान्भ्रातृृन्सन्दिश्य तक्षशिलां प्रत्यभितस्थौ। तं च देशं स्वांशे स्थापयामास॥२०॥
 
@@ -3446,8 +3224,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  स गत्वा तत्र ह्याह्वानशब्दं चकार। भो आरुणिपाञ्चाल ! क्वासि वत्सैहीति॥२७॥
 
-
-
  तच्छ्रुत्वाथारुणिपाञ्चाल उपाध्यायवाक्यं तस्मात्केदारखण्डात् सहसोत्थाय तमुपतस्थे। प्रोवाच चैनम्।अहमस्मात्केदार-खण्डान्निस्सरमाणमुदकमवारणीयं संरोद्धुं संविष्टो भगवच्छब्दंश्रुत्वैव सहसा विदार्य केदारखण्डं भगवन्तमुपस्थितः। तदभिवादये भगवन्तं, आज्ञापयतु भवान् किंकरवाणीति॥
 
  तमुपाध्यायोऽब्रवीत्। यस्माद्भवान्केदारखण्डमवदार्योत्थितस्तस्मादुद्दालक एव नाम्ना भवत्विति॥२९॥
@@ -3455,7 +3231,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
  स उपाध्यायेनानुगृहीतः——यस्मात्त्वया मद्वघोऽनुष्ठितं तस्माच्छ्रेयोऽवाप्स्यसि, सर्वे ते वेदाः प्रतिभास्यन्ति, सर्वाणि च धर्मशास्त्राणीति॥ ३०॥
 
  स एवमुक्त उपाध्यायेनेष्टान्देशाञ्जगाम॥३१॥
-
 
 अथापरस्त[^142]स्यायोदधौम्यस्य शिष्य उपमन्युर्नाम।तमुपाध्यायः प्रेषयामास, वत्सोपमन्यो! गा रक्षेति॥ ३२॥
 
@@ -3466,8 +3241,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
  तमुपाध्यायः पीवानमेव दृष्ट्वोवाच। वत्सोपमन्यो ! केन वृत्तिं कल्पयसि दृढमिति॥ ३४॥
 
  स उपाध्यायं प्रत्युवाच भैक्षेण वृत्तिं कल्पयामीति ॥ ३५॥
-
-
 
  तमुपाध्यायः प्रत्युवाच। ममानिवेद्य भैक्षं नोपयोक्तव्यमिति स्थूलमिति॥३६॥
 
@@ -3491,8 +3264,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  तमुपाध्यायः प्रत्युवाच-नैतन्न्याय्यं पय उपयोक्तुंभवतो मया नाभ्यनुज्ञातमिति ॥४४॥
 
-
-
  स तथेति प्रतिज्ञाय गा रक्षित्वा पुनरुपाध्यायगृहमासाद्य गुरोरप्रतस्स्थित्वा नमश्चक्रे॥४५॥
 
  तमुपाध्यायस्तथा पीवानमेव दृष्ट्वोवाच। भैक्षं नाश्नासि, न चान्यच्चरसि, न पयः पिबसि, पीवासि, केन वृत्ति कल्पयसीति॥४६॥
@@ -3512,8 +3283,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
  सोऽन्धोऽपिचङ्क्रम्यमाणः कूपेऽपतत् ॥५३॥
 
  अथ तस्मिन्ननागच्छत्युपाध्यायश्शिष्यानवोचत्। मयोपमन्युः सर्वतः प्रतिषिद्धः कुपितो नागच्छति चिरंगतस्त्विति॥५४॥
-
-
 
  स एवमुक्त्वा गत्वारण्यमुपाध्याय आह्वानं चक्रे। भो उपमन्यो ! क्वासि वत्सैहीति॥५५॥
 
@@ -3538,8 +3307,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   नासत्यवस्त्रौ सुमनसौ वैजयन्तौ ।  
 शुक्लंवयन्तौ तरसा सुवेषा-  
   वभिव्ययन्तावसितं विवस्वत्॥६२॥
-
-
 
 ग्रस्तां सुपर्णस्य बलेन वर्तिका-  
   ममुञ्चतावश्विनौ सौभगाय।  
@@ -3576,8 +3343,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^150]: "क-ख-ग—ना"
 
-
-
 भित्वा गिरीनश्विनौगास्सदा[^151] चर-  
   न्नरगा[^152] अदृष्टं प्रथिता बलस्य॥६७॥
 
@@ -3613,8 +3378,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मुखेन गर्भं लभतां युवानौ  
   गतासुरिक्तंप्रपदेन सूते ।
 
-
-
 सद्यो जातो मातरं मुक्तिगर्भ[^158]-  
   स्तवाश्विनौ[^159] मुञ्चथो जीवसे[^160] गाम्॥७१॥
 
@@ -3645,8 +3408,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  स एवमुक्तः प्रत्युवाच। एतौ प्रत्यनुनये भवन्तावश्विनौ, नोत्सहेऽहमनिवेद्योपाध्यायायोपयोक्तमिति ॥७८॥
 
-
-
  तमश्विनावाहतुः। प्रीतौस्वस्तवानया गुरुवृत्त्याऽपूपं भक्षय। उपाध्यायस्य ते देहः कार्ष्णायसो दत्तः। भवतो हिरण्मयो भविष्यति। एतौ गृहाण[^162], चक्षुष्मांश्च भवसिं, श्रेयश्चावाप्स्यसीति॥
 
 [^162]: "1. क-ख-ग—एतौ गृहाणेसिवाक्यं नास्ति"
@@ -3667,8 +3428,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  तत्परितोषाच्च श्रेयः सर्वज्ञतां चाप। एषा तस्यापि परीक्षा बैदस्य॥८६॥
 
-
-
  स उपाध्यायेनानुज्ञातस्समावृत्तस्तस्माद्गुगुरुकुलनिवासाद्गृहाश्रमं प्रत्यपद्यत॥८७॥
 
  तस्यापि गृहे वसतस्त्रयशिष्या बभूवुः। स शिष्यान् न किञ्चिदुवाच। कर्म वा क्रियतां शुश्रूष वेति। दुःखाभिज्ञो गुरुकुलवा-सस्य शिष्यान्परिक्लेशेन योजयितुं नेयेष॥८८॥
@@ -3684,8 +3443,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
  वसंस्तत्रोपाध्यायस्त्रीभिस्सहिताभिराहूयोक्तः। उपाध्यायानी ते ऋतुमती। उपाध्यायश्च प्रोषितः। अस्या यथायमृतुर्वन्ध्योन भवति तथा क्रियतामेतस्यामेतद्धि सीदतीति ॥९३॥
 
  स एवमुक्तस्स्त्रीं प्रत्युवाच। न मया स्त्रीणां वचनादकार्यं कार्यं। नाह्यमुपाध्यायेन सन्दिष्टोऽकार्यमपि त्वया कार्यमिति॥९४॥
-
-
 
  तस्य पुनरुपाध्यायः कालान्तरे गृहानुपाजगाम तस्मात्प्रवासात्॥९५॥
 
@@ -3710,8 +3467,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  एवमुक्त उपाध्यायेनोपाध्यायानमिपृच्छत्। भवति ! उपाध्यायेनास्म्यनुज्ञातो गन्तुं।तदिच्छामीष्टं ते गुर्वर्थमुपहत्यानृणो गन्तुं। तदाज्ञापयतु भवती किमुपहरामि गुर्वर्थमिति ॥१०४॥
 
-
-
  सैवमुक्तोपाध्यायान्युदङ्कंप्रत्युवाच। गच्छ, पौष्यं कुण्डले भिक्षस्वेति। क्षत्रियया पिनद्धे ते आनयस्व, इतश्चतुर्थेऽहनि पुण्यकर्म भविता, एताभ्यां कुण्डलाभ्यां शोभमाना ब्राह्मणान् परिवेष्टुमिच्छामि। तथा त्वं[^164] संपादयस्व, श्रेयस्ते[^165] कुण्डलभि-क्षणं कुर्वत इति॥१०५॥
 
 [^164]: "1. क-ख-ग—ताभ्यां तस्मिन्नहनि"
@@ -3734,8 +3489,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  यत्र स क्षत्रियः पौष्यस्तमुपेत्यापश्यदुदङ्क आसीनं, स तमुपेत्याशीर्भिरभिनन्द्योवाच। अर्थी भवन्तमभिगतोऽस्मीति ॥११२॥
 
-
-
  स तमभिवाद्योवाच। भगवन्पौष्यः खल्वहं किं करवाणीति॥११३॥
 
 तमुवाचोदङ्को गुर्वर्थे कुण्डलाभ्यामर्थ्यागतोऽस्मीति ।  
@@ -3747,7 +3500,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  एवमुक्तः पौष्यस्तं प्रत्युवाच। तत्र सन्निहितैव सा, संप्रति भवानुच्छिष्टः, स्मर तावत्, न सा क्षत्रियोच्छिष्टेनाशुचिना वा शक्या द्रष्टुं पतिव्रतात्वात्, एषा नाशुचिना त्वया द्रष्टव्या भविष्यतीति ॥११८॥
 
-
 अथैवमुक्त[^167]स्तत्राहोदङ्कः। अस्ति खलु मया तु भक्षितं, नोपस्पृष्टमागच्छतेति॥११९॥
 
 [^167]: "1. क-ख-ग – तथैवमुक्तवन्तं स्मृत्वाहोदङ्कः"
@@ -3757,8 +3509,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^168]: "2. एतदेवहि न हि गच्छतोपस्पृष्टम्"
 
  अथोदङ्कस्तथेत्युक्त्वा प्राङ्मुख उपविश्य प्रक्षालितपाणिपादवदनश्शुद्धाभिः हृदयङ्गमाभिरद्भिर्द्विरुपस्पृश्य द्विः
-
-
 
 परिमृज्य मुखान्यद्भिरुपस्पृश्यान्तःपुरं प्रविश्य क्षत्रियामपश्यत्॥१२१॥
 
@@ -3786,8 +3536,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^171]: "3. क-ख-ग—उपाहृतमिति पदं नास्ति"
 
-
-
  स तथेत्युक्त्वा यथोपपन्नेनैवान्नेन भोजयामास ॥१३१॥
 
  अथोदङ्कः शीतमन्नं दृष्ट्वा अशुच्येतदन्नमिति मत्वा पौष्यमुवाच। सकेश मन्त्रमुपहृतं शीतमन्नमशुचि यस्मान्मे ददासि, तस्मात्त्वमन्धो भविष्यसीति ॥१३२॥
@@ -3811,8 +3559,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 विपरीतमेतदुभयं क्षत्रियस्य  
   वाजूनवनीतं हृदयं तीक्ष्णधारम् ॥ इति ॥१३८॥
 
-
-
  तदेवं गते न शक्तोऽहं तीक्ष्णहृदयत्वात्तं शापमन्यथाकर्तुंगम्यतामिति ॥१३९॥
 
  तमुदकः प्रत्युवाच। भवताहमन्नस्याशुचिभावं गमयित्वा प्रत्यनुनीतः। प्राक् त्वेतदभिहितम्। यस्माददुष्टमन्नं दूषयसि, तस्मादनपत्यो भविष्यसीति। दुष्टे चान्ने मम शापो न भविष्यति। साधयामस्तावदित्युक्त्वा प्रातिष्ठदुदङ्कः ते कुण्डले गृहीत्वा ॥१४०॥
@@ -3834,8 +3580,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
  2
 
 क–ख—तद्बिलं दण्डकाष्ठेन च स्वनितुं नाशकत्। क्लिश्यमान मिन्द्रोऽपश्यत्। वज्रं प्रेषयामास। गत्वास्य ब्राह्मणस्य कार्यं कुरुष्वेति। अथ वज्रो दण्डकाष्ठं प्रविश्य तद्विलमदारयत्। तमुदङ्कोऽन्वाविवेश। तेनैव बिलेन च प्रविश्य तं नागलोकमपर्यन्तमनेकविधप्रासादवदननिर्यूहशतसङ्कुल मुञ्चावचाक्रीडनवासस्थानावकीर्णमपश्यत्॥\[इत्यदिकः पाठः\]
-
-
 
 यावन्तो[^173] नागराजानः सर्पास्त्वमितविक्रमाः।  
 वर्षन्त इव जीमूताः सविद्युत्पवनेरिताः॥१४६॥
@@ -3869,12 +3613,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अवसद्योमहानिम्ने प्रार्थयन्नागमुख्यताम् ।
 
-
-
  करवाणि सदा चाहं नमस्तस्मै महात्मने॥१५४
 
  एवं स्तुवन्नपि नागान्नालभत्कुण्डले तदा॥ १५४॥
-
 
 अथापश्य[^176]त्स्त्रियौ तन्त्रे अधिरोप्य पटं वयन्त्यौ॥ १५५॥
 
@@ -3901,9 +3642,7 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वज्रस्य भर्ता भुवनस्य गोप्ता  
   वृत्रस्य हन्ता नमुचेर्वलस्य[^179]
 
-
 [^179]: "4.क-ख-ग—र्निहन्ता"
-
 
 कृष्णे वसानो वसने महात्मा  
   सत्यानृते यो विविनक्ति लोके॥१६०॥
@@ -3931,8 +3670,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^182]: "3. क-ख-ग—स ते प्रतिगृह्याचिन्तयत्"
 
-
-
  तत एनं चिन्तयानमेवं पुरुष उवाच । उदङ्कैनमश्वमधिरोह, एष त्वामेतत्क्षणेनोपाध्यायकुलं प्रापयिष्यतीति ॥१६८॥
 
  स तथेत्युक्त्वाश्वमधिरुह्य प्रत्याजगामोपाध्यायकुलम् ॥१६९॥
@@ -3949,8 +3686,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  तमुदङ्क उपाध्यायं प्रत्युवाच। भो तक्षकेण नागराजेन विघ्नः कृतः अस्मिन्कर्मणि, तेनास्मि नागलोकगतस्तत्रैव च मया दृष्टे स्त्रियौ तन्त्रऽधिरोप्य पटं वयन्त्यौ, तस्मिंश्च तन्त्रे कृष्णास्सिताश्च सन्तवः, किं, तत्र चक्रमपि दृष्टं द्वादशारं चैनं कुमाराः परिवर्तयन्ति, तदपि किं, पुरुषश्च मया दृष्टः, पुनरश्व-
 
-
-
 श्चातिप्रमाणयुक्तः, स चापि कः, पथि गच्छता मया वृषभो दृष्टः, तं च पुरुषोऽधिरूढः, तेनास्मि सोपचारमुक्तः। अस्य पुरीषमृषभस्य भक्षयेति। उपाध्यायेनापि ते भक्षितमिति। ततस्तस्य वचनान्मयापि तदृषभस्य पुरीषमुपयुक्तम्। तदिच्छामि भवतोपदिष्टं, कि तदिति ॥१७४॥
 
  तेनैवमुक्त उपाध्यायः प्रत्युवाच, ये ते स्त्रियौधाता विधाता च। ये ते कृष्णास्सिताश्च तन्तवः, ते रात्र्यहनी । तदपि चक्रं द्वादशारं षट् कुमाराः परिवर्तयन्ति, ते षडृतवः, द्वादशारं द्वादशमासाः, संवत्सरश्चक्रम्। यः पुरुषस्स पर्जन्यः। योऽश्वस्सोऽग्निः। य ऋषभस्त्वया दृष्टस्स ऐरावतो नाम नागराजः। यश्चैनमधिरूढस्स इन्द्रः। यदपि ते पुरीषं भक्षितं तदमृतम् । तेन खल्वसि न व्यापन्नः। तस्मिन् नागभवने स चापि मम सखेन्द्रः । तदनुग्रहात्कुण्डले गृह्य पुनरभ्यागतोऽसि। तत्सौम्य गम्यताम् । अनुजाने भवन्तं श्रेयोऽवाप्स्यसति ॥१७५॥
@@ -3959,8 +3694,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 स हास्तिनपुरं प्राप्य न चिराद्द्विजसत्तमः ।  
 समागच्छत राजानं उदङ्को जनमेजयम् ॥१७७॥
-
-
 
 पुरा तक्षशिलायास्तु निवृत्तमपराजितम् ।  
 सम्यग्विजयिनं दृष्ट्वा समन्तान्मन्त्रिभिर्वृतम् ॥१७८॥
@@ -3996,8 +3729,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 उवाच राजानमदीनसत्वं  
   त्वमेव कार्यं नृपतेश्च यत्तत् ॥१८३॥
 
-
-
 **उदङ्कः—**
 
 तक्षकेण हि राजेन्द्र येन ते हिंसितः पिता ।  
@@ -4030,8 +3761,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एतच्छ्रुत्वा तु नृपतिस् तक्षकस्य चुकोप छ ।
 
-
-
 उदङ्कवाक्यहविषा दीप्तोऽग्निर्हविषा यथा ॥१९२॥
 
 अपृच्छच्च महाराजो मन्त्रिणस्तान्सुदुःखितः।  
@@ -4063,12 +3792,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  पुराणे कृतश्रमः स तान् कृताञ्जलिरुवाच ॥२॥
 
-
 किं[^188] भगवन्तः श्रोतुमिच्छथ, किमहं ब्रवीमीति ॥३॥
 
 [^188]: "क ख ग -मयोदङ्कस्य चरितमशेषमुक्तं जनमेजयस्य सर्पसत्रस्य । ( निमित्तान्तरमिदमपि किं भवन्तः श्रोतुमिच्छन्ति । अधिकः पाठः "
-
-
 
  तमृषय ऊचुः । रोमहर्षणेप्रवक्ष्यामः, त्वं वक्ष्यसि च शुश्रूषतां कथायोगं। भगवांश्च तावच्छौनकोऽग्निशरण एवास्ते ॥४॥
 
@@ -4092,8 +3818,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यत्र ब्रह्मर्षयः सिद्धास् त आसीना यतव्रताः ।  
 यज्ञायतनमाश्रित्य सूतपुत्रपुरस्सरः॥९॥
-
-
 
 ऋत्विक्ष्वय सदस्येषु स वै गृहपतिस्ततः ।  
 उपविष्टेषूपविष्टः शौनकोऽथाब्रवीदिदम् ॥१०॥
@@ -4125,8 +3849,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 निगदामि कथायुक्तं पुराणाश्रयमद्भुतम् ।  
 भृगोश्च दयितः पुत्रश् च्यवनो नाम भार्गवः ॥१७॥
 
-
-
 च्यवनस्यापि दायादः प्रमतिर्नाम धार्मिकः।  
 प्रमतेरप्यत्पुत्रो घृताच्यां रुरुरित्युत ॥१८॥
 
@@ -4157,8 +3879,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अभ्यागतं तु तद्दृष्ट्वा पुलोमा चारुहासिनी।
 
-
-
 न्यमन्त्रयत पाद्येन फलमूलादिना तदा ॥२६॥
 
 तां तु रक्षस्तदा ब्रह्मन् हृच्छयेन निपीडितः।  
@@ -4187,8 +3907,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^193]: "क ख ग - असंमतमिदं मेऽद्य हरिष्याम्याश्रमादिमाम् । [अधिकः पाठः ]"
 
 त्वमग्ने सर्वभूतानां अन्तर्वससि नित्यदा ।
-
-
 
 साक्षिवत्पुण्यपापेषु सत्यं ब्रूहि कवे वचः ॥३४॥
 
@@ -4229,8 +3947,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सेयमित्यवगच्छामि नानृतं वक्तुमुत्सहे ।  
 नानृतं हि सदा लोके पूज्यं दानवसत्तम ॥ \[अधिकः पाठः\]
 
-
-
 **॥पञ्चमोऽध्यायः॥**
 
 ![](../books_images/U-IMG-1706024198Screenshot2023-12-31185204.png)
@@ -4262,8 +3978,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तस्या मार्गगतवर्ती[^195] दृष्ट्वा तु सरितं तदा ॥६॥
 
 [^195]: " क -ख-ग-सृ"
-
-
 
 नाम तस्यास्तदा नद्याश चक्रे लोकपितामहः।  
 वधूसरेति भगवान् च्यवनस्याश्रमं प्रति ॥७॥
@@ -4298,8 +4012,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥४॥ पौलोमपर्वणि द्वितीयोऽध्यायः ॥२॥  
 \[अस्मिन्नध्याये १३॥ श्लोकाः\]
 
-
-
 **॥ षष्ठोऽध्यायः ॥**
 
 क्रोधेनाभिकृत आत्मोपसंहारः ॥१॥ ब्रह्मस्तुत्या स्वशिखादीपनं च ॥२॥
@@ -4330,8 +4042,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ॥
 
-
-
 वेदोक्तेन विधानेन मयि यद्धूयते हविः ।  
 देवताः पितरश्चैव तृप्तास्तेन भवन्ति वै॥७॥
 
@@ -4358,8 +4068,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अग्निनाशात्क्रियाभ्रंशद् भ्रान्ता लोकास्त्रयोऽनघाः ।  
 विधष्वमत्र यस्कार्यं न स्यास्कालात्ययो महान् ॥१५॥
-
-
 
 अथर्षयश्च देवाश्च ब्रह्माणमुपगम्य च ।  
 अग्नेरावेदयन्शापं क्रियासंहारमेव च ॥१६॥
@@ -4390,8 +4098,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यथा सूर्यांशुभिः स्पृष्टं सर्वं शुचि विभाव्यते ।  
 तथा त्वदर्निर्निर्दग्धं सर्वं शुद्धं भविष्यति ॥२३॥
 
-
-
 तदग्नेत्वं महत्तेजः स्वप्रभावाद्विनिर्गतम् ।  
 स्वतेजसैव तं शापं कुरु सत्यमृषेर्विभो ॥२४॥
 
@@ -4420,8 +4126,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ॥४॥ पौलोमपर्वणि तृतीयोऽध्यायः ॥३॥  
 \[अस्मिन्नध्याये २८॥ श्लोकाः।\]
-
-
 
 **॥सप्तमोऽध्यायः॥**
 
@@ -4453,8 +4157,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एतस्मिन्नेव काले तु मेनकायां प्रजज्ञिवान्।  
 गन्धर्वराजो विप्रर्षेर् विश्वावसुरिति श्रुतः ॥६॥
-
-
 
 अथाप्सरा मेनका सा तं गर्भं भृगुनन्दन ।  
 उत्ससर्ज यथाकालं स्थूलकेशाश्रमं प्रति ॥७॥
@@ -4488,8 +4190,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ततः कतिपयाहस्सु विवाहे समुपस्थिते ।
 
-
-
 सर्वाभिः सखिभिस्तत्र[^204] क्रीडन्ती वरवर्गिनी ॥१६॥
 
 [^204]: ". अ-स्य"
@@ -4520,8 +4220,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 प्रमतिः सह पुत्रेण तथान्ये वनवासिनः ।  
 तां ते कन्यां व्यसुं दृष्ट्वा भुजंगस्य विषार्दिताम् ॥२४॥
 
-
-
 रुरुदुः कृपयाऽऽविष्टा रुरुस्त्वार्तो बहिर्गतः ।  
 ते च सर्वे द्विजश्रेष्ठास तत्रैवोपाविशंस्तदा ॥२५॥
 
@@ -4550,8 +4248,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वान्धवानां[^206] च सर्वेषां किं नु दुःखमतः परम् ॥३॥
 
 [^206]: "क ख ग - प्राणानपहरन्तीव पूर्णचन्द्रनिभानना । यदि पीनायतश्रोणी पद्मपत्रनिभक्षणा ॥ मुमूर्षुरपि मे प्राणान् आदायाशु गमिष्यति । पितृमातृसस्त्रीनां च लुप्तपिण्डस्य तस्य मे ॥ अधिकः पाठः ।"
-
-
 
 यदि दत्तं तपस्तप्तं गुरवो वा मया यदि ।  
 सम्यगाराधितास्तेन सा जीवतु मम प्रिया ॥४॥
@@ -4589,8 +4285,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 देवैस्सर्वैरहं ब्रह्मन् प्रेषितोऽस्मि तवान्तिकम् ।  
 त्वद्धितं त्वद्धितैरुक्तं शृणु वाक्यं द्विजोत्तम ॥ \[अधिकः पाठः। \]
 
-
-
 **रुरुः—**
 
 क उपायः कृतो देवैर् ब्रूहि तत्त्वेन स्वेचर।  
@@ -4625,8 +4319,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवमुक्ते ततः कन्या सोदतिष्ठत् प्रमद्वारा।  
 करोस्तस्यायुषोऽर्धेन सुप्तेव वरवर्णिनी ॥१६॥
-
-
 
 एतद्दृष्टं महत्कर्म[^209] रुरोरुत्तमतेजसः ।  
 तपसातिप्रवृद्धस्य भार्यार्थेऽर्धंप्रयच्छतः ॥१७॥
@@ -4663,8 +4355,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 मम प्राणसमा भार्यां दृष्टासीद्भुजगेन वै ।
 
-
-
 तत्र मे समयो घोर आत्मनोरग वै कृतः॥२४॥
 
 भुजङ्गमान् समाहन्यां यान् यान् पश्येयमित्युत ।  
@@ -4698,8 +4388,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 किमर्थं शप्तवान्क्रुद्धो द्विजस्त्वां भुजगोत्तम ।  
 कियन्तं चैवकालं ते वपुरेतद्भविष्यति॥३१॥
 
-
-
 डुन्डुभः—
 
 सखा बभूव मे पूर्वं खगमो नाम वै द्विजः।  
@@ -4729,8 +4417,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 नानृतं वै मया प्रोक्तं भवितें कथश्चन॥३९॥
 
 यत्तु वक्ष्यामि ते सर्वं शृणु तत् संशितव्रत ।
-
-
 
 श्रुत्वा च हृदि मे वाक्यं इदमस्तु तवानघ॥४०॥
 
@@ -4765,8 +4451,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तपोवीर्यबलोपेताद् वेदवेदाङ्गपारगात्॥४८॥
 
 अस्तीकाद्द्विजमुख्याद्वै सर्पसत्रे द्विजोत्तम॥४८॥
-
-
 
 रुरुः—
 
@@ -4808,8 +4492,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 **॥ समाप्तं पौलोमपर्व॥**
 
-
-
 ॥नवमोऽध्यायः॥
 
 ![](../books_images/U-IMG-1707458171Screenshot2023-12-26160236.png)
@@ -4837,8 +4519,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥५॥ आस्तीकपर्वणि प्रथमोऽध्यायः ॥१॥  
 \[ अस्मिन्नध्याये ४ श्लोकाः\]  
 ![](../books_images/U-IMG-1707458171Screenshot2023-12-26160236.png)
-
-
 
 **॥दशमोऽध्यायः॥**
 
@@ -4871,8 +4551,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यायावराणां धर्मज्ञःसततं संशितव्रतः॥६॥
 
 अटमानः कदाचित्स स्वान् ददर्श पितामहान् ।
-
-
 
 लम्बमानान्महागर्ते पादेरुर्ध्वैरवाङ्मुखान्॥७॥
 
@@ -4910,8 +4588,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 मम पूर्वे भवन्तो वै पितरः सपितामहाः।  
 व्रूतकिं करवाण्यद्य जरत्कारुरहं स्वयम्॥१५॥
-
-
 
 पितरः—
 
@@ -4951,8 +4627,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तत्रोत्पत्स्यति चेज्जन्तुर् भवतां तारणाय वै ।  
 शाश्वतं स्थानमासाद्य मोदन्तु पितरो मम॥२४॥
 
-
-
 सूतः—
 
 ततो निवेशाय तदा स विप्रः संशितव्रतः  
@@ -4990,8 +4664,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^234]: "5. क-ख-ग–एवमुक्त्वा तदा प्रादाद्भार्यार्थे वरवर्णिनीम् ।"
 
-
-
 तस्य शापस्य शान्त्यर्थं प्रददौ पन्नगोत्तमः।  
 स्वसारमृषये तस्मै सुवृत्ताय महात्मने॥३२॥
 
@@ -5020,8 +4692,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 जरत्कारुर्गतः स्वर्गं सहितः स्वैः पितामहैः।  
 अस्तीकं च सुतं प्राप्य धर्मं चानुत्तमं मुनिः॥४०॥
-
-
 
 जरत्कारुः सुमहता कालेन स्वर्गमेयिवान्॥ ४०॥
 
@@ -5054,8 +4724,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अस्मच्छुश्रूषणे नित्यं पिता हि निरतस्तव।  
 आचष्टे तद्यथाऽऽख्यानं पिता ते स्वं तथा वद॥३॥
 
-
-
 सूतः—
 
 आयुष्मन्निदमाख्यानं आस्तीकं कथयामि ते  
@@ -5087,8 +4755,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 कद्रूश्च लब्ध्वा पुत्राणां सहस्रं तुल्यतेजसाम्॥११॥
 
 [^240]: "क-ख-ग—सा प्रीता चाभवत्तौ सु"
-
-
 
 धार्यौप्रयत्नतो गर्भो इत्युक्त्वा स महातपाः।  
 ते[^241] भायें वरसंह काश्यपो वनमाविशत्॥१२॥
@@ -5128,8 +4794,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यद्येनमपि मातस्त्वं मामिषाण्ड विभेदनात् ।
 
-
-
 न करिष्यस्यदेहं वा व्यङ्गं वापि तपस्विनम्[^247]॥२०॥
 
 [^247]: "क ख ग—नी उद्यन्नथ सहस्रांशुर्दृष्ट्वा तमरुणं प्रभुः।"
@@ -5154,8 +4818,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि एकादशोऽध्यायः ॥११॥  
 ॥५ ॥आस्तीकपर्वणि तृतीयोऽध्यायः ॥३ ॥  
 \[ अस्मिन्नध्याये २४ श्लोकाः।\]
-
-
 
 ॥ द्वादशोऽध्यायः॥  
 ![](../books_images/U-IMG-1707459845Screenshot2024-01-09183043.png)
@@ -5196,8 +4858,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 व्यालैराचरितं घोरैर् दिव्यौषधिविदीपितम् ।
 
-
-
 नाकमावृत्य तिष्ठन्तं उच्छ्रायेण[^252] महागिरिम्॥७॥
 
 [^252]: "1. क-ख-ग—च्छ्रयेण"
@@ -5231,8 +4891,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥५ ॥आस्तीकपर्वणि चतुर्थोऽध्यायः ॥४ ॥  
 \[ अस्मिन्नध्याये १३ श्लोकाः\]
 
-
-
 ॥ त्रयोदशोऽध्यायः॥
 
 वासुकियोक्त्रेण मन्दरेण समुद्रमथनंम् ॥१॥ अमृतोत्पत्तिः ॥२॥ मोहिन्या देवेभ्योऽमृतदानम् ॥ ३ ॥
@@ -5265,8 +4923,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तथेति चाब्रवीद्विष्णुर् ब्रह्मणा सह भार्गव ।  
 अचोदयदमेयात्मा फणीन्द्रं पद्मलोचनः॥६॥
 
-
-
 ततोऽनन्तः[^260] समुत्थाय ब्रह्मणा परिचोदितः।  
 नारायणेन चाप्युक्तस् तस्मिन्कर्मणि वीर्यवान्॥७॥
 
@@ -5298,8 +4954,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 विवुधाः सहिताः सर्वे यतः पुच्छं ततः स्थिताः।  
 बासुकेरग्रमाश्लिष्टा नागराज्ञो महासुराः॥१५॥
 
-
-
 शिर उद्यम्य नागस्य पुनः पुनरवाक्षिपन् ।  
 अनन्तो भगवान्देवो यतो नारायणः स्थितः॥१६॥
 
@@ -5329,8 +4983,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तस्याथ देवस्तत्सर्वं आचचक्षे प्रजापतिः ।  
 तच्छ्रुत्वा देवदेवेशो लोकस्यास्य हितेप्सया॥२४॥
 
-
-
 अपिबत्तद्विषं रुद्रः कालानलसमप्रभम् ।  
 कण्ठे निहितवान्देवो देवानां हितकाम्यया॥२५॥
 
@@ -5358,8 +5010,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वारुणानि च भूतानि विविधानि महीधरः।  
 पातालतलवासीनि विलयं समुपानयत्॥३३॥
 
-
-
 तस्मिंश्च भ्राम्यमाणेऽद्रौ संघृष्यन्तः परस्परम् ।  
 न्यपतन्पतगोपेताः पर्वताग्रान्महाद्रुमाः॥३४॥
 
@@ -5386,8 +5036,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ऋते नारायणं देवं देत्या नागोत्तमास्तथा ।  
 चिरारब्धमिदं चापि सागरस्यापि मन्थनम्॥ ४२॥
-
-
 
 ततो[^263] नारायणं देवं ब्रह्मा[^264] वचनमब्रवीत् ।  
 विधत्स्वैषां बलं विष्णो भवानत्र परायणम्॥४३॥
@@ -5422,8 +5070,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 कौस्तुभश्चमणिर्दिव्य उत्पन्नोऽमृतसंभवः ।  
 मरीचिविकचः श्रीमान् स च नारायणं गतः॥ ४९॥
 
-
-
 पारिजातश्च तत्रैव सुरभिश्च महामुने ।  
 जातौ तौ च महाब्रह्मन् सर्वकामफलप्रदौ॥ ५०॥
 
@@ -5450,8 +5096,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स्त्रियैदानवचैतेयाः सर्वे तद्गतमानसाः॥५६॥
 
 सा तु नारायणी माया धारयन्ती कमण्डलुम् ।
-
-
 
 आस्यमानेषु देवेषु पङ्क्तया च सह दानवैः॥ ५७॥
 
@@ -5484,8 +5128,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पाययत्यमृतं देवान् हरौ बाहुबलेन च ।  
 निरोधयति चापेन दूरीकृत्य धनुर्धरान्॥ ४॥
 
-
-
 ततः पिबत्सु तत्काले देवेष्वमृतमुत्तमम् ।  
 राहुर्वि[^269]बुधरूपेण दानवः प्रापिबत्तदा॥ ५॥
 
@@ -5514,8 +5156,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ततोऽसुराश्चक्रभिन्ना वमन्तो रुधिरं बहु ।
 
-
-
 असिशक्तिगदारुग्णा निपेतुर्धरणीतले॥१३॥
 
 छिन्नानि [पट्टिशै](.# "क-ख-ग—पट्टसैश्चापि शिरांसि विबुधद्विषाम्")श्चापि शिरांसि युधि दारुणैः।  
@@ -5543,8 +5183,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 चिन्तयामास तच्चक्रं विष्णुर्दानवसूदनम्॥ २०॥
 
-
-
 ततोऽम्बराच्चिन्तितमात्रमागतं  
   महाप्रभं चक्रममित्रतापनम् ।  
 विभावसोस्तुल्यमकुण्ठमण्डलं  
@@ -5569,8 +5207,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   मुहुर्मुहुः सुरगणमर्दयंस्तदा ।  
 महाबला विगलितमेघवर्चसः  
   सहस्रशो गगनमभिप्रविश्य ते ॥२५॥
-
-
 
 अथाम्बराद्भयजननाः प्रपेदिरे  
   सपादपा बहुविधा मेघरूपिणः।  
@@ -5599,8 +5235,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततः सुरैर्विजयमवाप्य मन्दरः  
   स्वमेव देशं गमितः सुपूजितः ।
 
-
-
 विनाद्य स्वं दिवमपि चैव सर्वश  
   स्ततो गताः सलिलधरा यथागतम् ॥ ३० ॥
 
@@ -5620,7 +5254,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 कद्रुविनतयो पणबन्ध ॥ १ ॥ सर्पाणां कद्रूशापः ॥२॥ ब्रह्मणा कश्यपाय विषहरविद्यादानं॥ ३॥  
 
-
 सूतः—
 
 एतत्ते सर्वमाख्यातममृतं मथितं यथा ।  
@@ -5628,8 +5261,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यं निशम्य तदा कद्रूर् विनतामिदमब्रवीत् ।  
 उच्चैःश्रवास्तु किंवर्णो जानीहि ब्रूहि मा चिरम् ॥२॥
-
-
 
 **विनता—**
 
@@ -5665,8 +5296,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सार्धं देवगणैः सर्वैर वचनं चान्वमोदत \।  
 बहुत्वं प्रेक्ष्य सर्पाणां प्रजानां हितकाम्यया ॥१०॥
 
-
-
 उग्रवीर्यविषा ह्येते दन्दशूका महाबलाः।  
 तेषां तीक्ष्णविषत्वाद्धि प्रजानां च हिताय वै ॥११॥
 
@@ -5699,8 +5328,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततो रजन्यां व्युष्टायां प्रभात उदिते रवौ ।  
 कद्रूश्च विनता चैव भगिन्यौ ते तपोधन॥१॥
 
-
-
 अमर्षिते सुसंरब्धे दास्ये कृतपणे तदा ।  
 जग्मतुस्तुरगं द्रष्टुं उच्चैश्रवसमन्तिकात् ॥२
 
@@ -5731,8 +5358,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 चन्द्रवृद्धिक्षयवशाद् उत्थितोर्मिं दुरासदम् ।  
 पाश्चजन्यस्यं जननं रत्नाकरमनुत्तमम् ॥१०॥
 
-
-
 गां विन्दता भगवता गोविन्देनामितौजस।  
 वराहरूपिणा चान्तर विक्षोभितजलाविलम् ॥११॥
 
@@ -5762,8 +5387,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि षोडशोऽध्यायः ॥ १६ ॥  
 ॥ ५ ॥ आस्तीकपर्वणि अष्टमोऽध्यायः ॥ ८ ॥  
 \[ अस्मिन्मध्याये १७ श्लोकाः।\]
-
-
 
 **॥सप्तदशोऽध्यायः॥**
 
@@ -5803,8 +5426,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 महासत्वबलोपेतः शशिवद् द्योतयन्दिशः।  
 कामरूपः कामगमः कामरूपो वियत्तमः॥ \[अधिकः पाठः । \]
 
-
-
 अग्निराशिरिवोद्भासन समिद्धोऽतिभयंकरः ।  
 प्रवृद्धः स महापक्षी महाकायो नभोगतः ॥५॥
 
@@ -5837,8 +5458,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^279]: "क ख ग - विष्णुः"
 
-
-
 त्वं मुखं पद्मजो विप्रस् त्वमग्निः पवनस्तथा ॥११॥
 
 स्त्वं विधाता च धाता च त्वं विष्णुः[^280] सुरसत्तमः ।  
@@ -5866,8 +5485,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 स्वगेश्वरं शरणमुपस्थिता वयं  
   महौजसं वितिमिरमभ्रगोचरम् ।
-
-
 
 महाबलं गरुडमुपेत्य स्वेचरं  
 परावरं वरदमजेयविक्रमम् ॥ १७
@@ -5915,8 +5532,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न मे सर्वाणि भूतानि बिभियुर्देहदर्शनात् ।  
 समुद्विग्नानि रूपाम्मे इति तेजस्समाहरत्॥ \[अधिकः पाठः\]
-
-
 
 तेजसः प्रतिसंहारमात्मनस्तु चकार ह[^281]॥
 
@@ -5968,8 +5583,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 बहुनर्थकरं पापमहोऽहं समवाप्नुयाम् ।  
 सहाय एव कार्येषु न मे कृच्छ्रेषु जायते ॥
 
-
-
 ततः कामगमः पक्षी कामवीर्यो[^282]महाबलः ।  
 अरुणं चात्मनः पृष्ठमुपारोप्य पितुर्गृहात् ॥१॥
 
@@ -6013,8 +5626,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 भूय एवं परं ब्रह्म शृणु पूर्वमुदाहृतम्॥ \[अधिकः पाठः।\]
 
-
-
 मातुरन्तिकमागच्छत् परं तीरं महोदधेः ।  
 यत्र सा विनता तस्मिन् पणिते वै पराजिता ॥२॥
 
@@ -6045,8 +5656,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ईशो ह्यसि पयः स्रष्टुं त्वं ह्यनल्पं पुरंदर ।  
 त्वमेव मेघस्त्वं वायुस् त्वमग्निर्वियुतोऽम्बरे ॥१०॥
 
-
-
 त्वमभ्रघनविक्षेप्ता त्वामेवाहुर्घनं पुनः ॥११॥
 
 त्वं वज्रमतुलं घोरं घोषवांस्त्वं वलाहकः।  
@@ -6072,8 +5681,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   मनीषिभिर्मुदितहृदम्बुजे विभो ।  
 अभिष्टुतः पिबसि च सोममध्वरे  
   वषट्कृतान्यपि च हवींषि हूयते ॥१७॥
-
-
 
 त्वं विप्रैः सततमिहेज्यसे[^284]फलार्थं  
   वेदान्तेष्वतुलबलौघ गीयसे त्वम् ।  
@@ -6107,8 +5714,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 परस्परमिवात्यन्तं गर्जन्तः सततं दिवि ।  
 अद्रिसङ्घमिवाकाशं जलदैस्तु महाद्भुतैः ॥३॥
 
-
-
 सृजद्भिरतुलंतोयमसक्कं सुमहारवैः।  
 संप्रवृत्तमिवाकाशं धारोर्मिभिरनेकशः॥४॥
 
@@ -6137,8 +5742,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सागरराम्बुपरिक्षिप्तं[^285] पक्षिसङ्घविनादितम् ॥१॥
 
 [^285]: "क ख ग - तं द्वीपं मकरावासं विहितं विश्वकर्मणा ॥ इन्वतुल्यबला घोरा दहशुः पूर्वमालयम् । सुपर्णसहितास्सर्पाः काननं च मनोरमम् ॥  [अधिकः पाठः ]"
-
-
 
 विचित्रफलपुष्पाभिर् वनराजिभिरावृतम् ।  
 भवनैश्चावृतं दिव्यैस् तथा पद्माकरैरपि ॥२॥
@@ -6169,8 +5772,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 दासीभूतास्म्यनार्याया भगिन्याः पतगोत्तम ।  
 पणंवितथमास्थाय सपैंरुपधिना कृतम् ॥९॥
-
-
 
 **सूतः—**
 
@@ -6205,8 +5806,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अग्निरकों विषं शस्त्रं विप्रो भवति कोपितः।  
 भूतानामप्रभुग्विप्रो वर्णश्रेष्ठस्तथा गुरुः ॥१६॥
 
-
-
 **वैनतेयः—**
 
 यथाह मनुजानीयां[^289] ब्राह्मणं लक्षणैः शुभैः ।  
@@ -6239,8 +5838,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततः स मातुर्वचनं निशम्य  
   वितत्य पक्षौ नभ उत्पपात ।
 
-
-
 ततो निषादान्बलवानुपागमत्  
   बुभुक्षितः काल इवान्तकोपमः ॥२२॥
 
@@ -6261,8 +5858,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ततः स्वगो बदनममित्रतापनः  
   समाहरत्परिचपलो महाबलः ।
-
-
 
 निषूदयन्बहुविधमत्स्यभक्षिणो  
   बुभुक्षितो गगनचरेश्वरस्तदा ॥२६॥
@@ -6294,8 +5889,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^292]: " क ख ग - करुणं ब्राह्मणः समभाषत"
 
-
-
 **गरुडः—**
 
 एतामपि निषादींत्वं परिगृह्याशु निष्पत \।  
@@ -6324,8 +5917,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तस्माद्भक्तव्यमपरं भगवन्प्रदिशस्व मे ।  
 यद्भुक्त्वाऽमृतमाहर्तुं समर्थः स्यामहं प्रभो ॥९॥
 
-
-
 **काश्यपः—**
 
 आसीद्विभावसुर्नाम[^295] महर्षिः कोपनो भृशम् ॥१०॥
@@ -6351,8 +5942,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तस्माञ्चैव विभागार्थं न प्रशंसन्ति पण्डिताः।  
 एवमुक्तः सुप्रतीको भागं कीर्तयतेऽनिशम् ॥१६॥
-
-
 
 एवं निर्वध्यमानस्तु शशापैनं विभावसुः ।  
 गुरुशास्त्रेण बद्धानामन्योन्यमभिशङ्किनाम् ॥१७॥
@@ -6383,8 +5972,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^296]: "क ख ग - जलम्"
 
 तं विक्षोभयमाणं तु सरो बहुझषाकुलम्।
-
-
 
 स कूर्मोऽप्युन्नतशिरा युद्धायाभ्येति वीर्यवान् ॥२६॥
 
@@ -6431,8 +6018,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अपश्यन्निर्मलस्वच्छं नानापक्षिसमाकुलम्। \[अधिकः पाठः।\]
 
-
-
 अन्यानतुलरूपाङ्गान् उपचक्राम स्वेचरः ॥३२॥
 
 राजतैः काञ्चनैश्चैव फलैवेंदूर्यशस्विनः।  
@@ -6459,8 +6044,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि एकविंशोऽध्यायः ॥२१॥  
 ॥५॥ आस्तीकपर्वणि त्रयोदशोऽध्यायः ॥१३॥  
 \[अस्मिन्नध्याये ३६ श्लोकाः\]
-
-
 
 ॥द्वाविंशोऽध्यायः॥
 
@@ -6494,8 +6077,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 गरुत्मन्तं स्वगश्रेष्टं तस्मात्पन्नगभोजिनम् । \[अधिकः पाठः । \]
 
-
-
 शनैः पर्यपतत्पक्षी पर्वतान्परिचालयन् ॥४॥
 
 एवं सोऽभ्यपतद्देशान् बहून् सगजकच्छपः।  
@@ -6523,8 +6104,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 पुत्र मा साहसं कार्षीर् मा सद्यो लप्स्यसे व्यथाम् ।  
 मा त्वां वहेयुः संक्रुद्धा वालखिल्या मरीचिपाः ॥१२॥
-
-
 
 **सूतः—**
 
@@ -6559,8 +6138,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न तां बार्ध्रःपरिणहेच् छतचर्मा महानणुः।
 
-
-
 शाखिनो महतीं शाखां प्रगृह्य प्रययौ खगः ॥२०॥
 
 ततः शतसहस्रं स योजनान्तरमागतः।  
@@ -6589,8 +6166,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 प्रावर्तन्ताथ देवानामुत्पाता भयवेदिनः ।  
 इन्द्रस्य वज्रं दयितं प्रजज्बाल व्यथन्निव ॥२९॥
-
-
 
 सधूमा चापतत्सार्चिर्दीप्तोल्का नभसि च्युता ।  
 तथा वसूनां रुद्राणामादित्यानां च सर्वशः ॥३०॥
@@ -6622,8 +6197,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 काश्यपस्य मुनेः पुत्रो बिनतायाश्च स्वेचरः ।
 
-
-
 हर्तुं सोममनुप्राप्तो बलवान्कामरूपवान् ॥३८॥
 
 समर्थो बलिनां श्रेष्ठो हर्तुं सोमं विहंगमः।  
@@ -6652,8 +6225,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 शततीक्ष्णाग्रधाराणि समुद्यम्य सहस्रशः।  
 सविष्फुलिङ्गज्वालानि सधूमानि च सर्वशः ॥४५॥
 
-
-
 चक्राणि परिघांश्चैव त्रिशूलानि परश्वधान् ।  
 शक्तीश्च विमलास्तीक्ष्णाः करवालांश्च निर्मलान् ॥४६॥
 
@@ -6676,8 +6247,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि द्वात्रिंशोऽध्यायः ॥२२॥  
 ॥५॥ आस्तीकपर्वणि चतुर्दशोऽध्यायः ॥१४॥  
 \[अस्मिन्नध्याये ४९॥ श्लोकाः।\]
-
-
 
 **॥ त्रयोविंशोऽध्यायः ॥**
 
@@ -6711,8 +6280,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 शक्रः स्ववीर्यसदृशमिष्मभारं गिरिप्रभम्।  
 समुयम्यानयामास नातिकृच्छादिव प्रभो ॥ ७॥
 
-
-
 अथापश्यदृषीन् सर्वान् ह्रस्वानङ्गुष्टमात्रकान् ।  
 पालाशवृत्तिकामेकां वहतः सहितान्पथि ॥८॥
 
@@ -6739,8 +6306,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तच्छ्रुत्वा देवराजस्य काश्यपोऽथ प्रजापतिः।  
 वालखिल्यानुपागम्य कर्मसिद्धिमपृच्छत ॥ १६॥
-
-
 
 [एवमस्त्विति](#) तं चापि प्रत्यूचुः सत्यवादिनः ।  
 तान्काश्यप उवाचेदं सान्त्वपूर्वं प्रजापतिः ॥१७॥
@@ -6776,14 +6341,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 **–**
 
-
-
 अवज्ञातास्सुरेन्द्रेण मूढेनाकृतबुद्धिना।  
 ऐश्वर्यमदमत्तेन सदाचारान्निरस्यता॥
 
 तद्विघासार्थमारम्भो विधिवत्तस्य काश्यप। \[अधिकः पाठः\]
-
-
 
 एतस्मिन्नेव काले तु देवी दाक्षायणी शुभा ।  
 विनता नाम कल्याणी पुत्रकामा यशस्विनी ॥२४॥
@@ -6814,8 +6375,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न चाप्येवं त्वया भूयः क्षेतव्या ब्रह्मवादिनः ।  
 न चावमान्या दर्पात्ते वाग्विषा भृशकोपनाः ॥३२॥
-
-
 
 **सूतः—**
 
@@ -6851,8 +6410,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तं दृष्ट्वातिबलं चैव प्राकम्पन्त समन्ततः ।
 
-
-
 परजेन[^302] च संयुद्धं चकार प्रलिहेन च ॥१९॥
 
 [^302]: "क ख ग - प्ररुचेन"
@@ -6878,8 +6435,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ज्वलन्तमग्निंतममित्रतापनः  
   समास्तरत्पत्ररथो नदीभिः ।
-
-
 
 ततः प्रचक्रे वपुरन्यदल्पं  
   प्रवेष्टु कामोऽग्निमभिप्रशाम्य ॥२५॥
@@ -6914,8 +6469,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तस्यान्तरं स दृष्दैव पर्यवर्तत स्वेचरः ।  
 अरान्तरेणाभ्यपतत् संक्षिप्याङ्गं क्षणेन ह ॥४॥
 
-
-
 अथ चक्रस्य[^305] चैवास्तां दीप्तानलसमद्युती ।  
 विद्युजिह्वौ महाकायौ दीप्तास्यौ दीप्तलोचनौ॥५॥
 
@@ -6943,8 +6496,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 विष्णुना तु तदाकाशे वैनतेयः समेयिवान् ।  
 तस्य नारायणस्तुष्टस् तेनातुल्येन कर्मणा ॥१२॥
-
-
 
 तमुवाचाव्ययो देवो वरदोऽस्मीति खेचरम् ।  
 स वब्रेतव तिष्ठेयमुपरीत्यन्तरिक्षगः ॥१३॥
@@ -6974,8 +6525,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 वज्रस्य च करिष्यामि तव चैव शतक्रतो ।  
 एष पत्रं त्यजाम्येकं यस्यान्तं नोपलप्स्यसे ॥२०॥
-
-
 
 न हि वज्रनिपातेन वेदना मेऽस्ति काचन।  
 इत्येवमुक्त्वा गरुडः पत्रं त्वेकं व्यसर्जयत् ॥ २१॥
@@ -7011,8 +6560,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सख्यमस्तु त्वया देव यथेच्छसि पुरंदर।  
 बलं तु मम जानीहि महच्चासह्यमेव च ॥१॥
 
-
-
 कामं नैव प्रशंसन्ति सन्तः स्ववलसंस्तवम् ।  
 गुणसंकर्तिनं[^310] चापिस्वयमेव शतक्रतो[^311] ॥२॥
 
@@ -7045,8 +6592,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^314]: "क ख ग - नु प्रबाधेयुः"
 
-
-
 **गरुडः—**
 
 किंचित्कारणमुद्दिश्य सोमोऽयं नीयते मया ।  
@@ -7077,8 +6622,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 हरिष्यामि विनिक्षिप्तं सोममित्यनुभाष्य तम् ।  
 आजगाम ततस्तूर्णं सुपर्णो मातुरन्तिके ॥१४॥
 
-
-
 अथ
 
 सर्पानुवाचेदं सर्वान्परमहृष्टवत् ॥१४॥
@@ -7104,8 +6647,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^316]: "क ख ग - प्रति"
 
-
-
 सोमस्थानमिदं चेति दर्भास्ते लिलिहुस्तदा ॥१९ ॥
 
 ततो द्वैधीकृता जिह्वाः सर्पाणां तेन कर्मणा ।  
@@ -7129,8 +6670,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 \[अस्मिन्नध्याये २२॥ श्लोकाः।\]
 
 ॥ सौपर्णं समाप्तम् ॥
-
-
 
 **॥ सप्तविंशोऽध्यायः ॥**
 
@@ -7164,8 +6703,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 नीलानीलौतथा नागौ कल्माषशबलौ तथा ।  
 आर्यकश्चार्द्रकश्चैव नागश्च हलपोतकः ॥७॥
-
-
 
 सुमुखो दुर्मुखश्चैव विमुखोऽसिमुखस्तथा ।  
 विमलः पिण्डकश्चैव[^319] शङ्खो वाल शिखस्तथा ॥८॥
@@ -7211,8 +6748,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^328]: "क–ख–ग—कञ्जरश्चैव तथा नागः प्रहारकः ।."
 
-
-
 कुमुदः कुमुदाक्षश्च तिकिरिर्हरिलस्तथा[^329] ।  
 कर्कराकर्करौ[^330]लोहौतुण्डोदरमहोदरौ ॥१६॥
 
@@ -7251,8 +6786,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एते वै भुजगास्तात वीर्यवन्तो दुरासदाः ।  
 शापतत्त्वमविज्ञाय कृतवन्तो नु किं परम् ॥१॥
 
-
-
 **सूतः—**
 
 तेषां तु भगवाञ्छेषः त्यक्त्वा कद्रुसुतानपि ।  
@@ -7281,8 +6814,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सोदर्या मम सर्वे हि भ्रातरो मन्दचेतसः।  
 सह तैर्मोत्सहे वस्तुं तद्भवाननुमन्यताम् ॥७॥
-
-
 
 अभ्यसूयन्ति सततं परस्परममित्रवत् ।  
 ततोऽहं तप आतिष्ठे नैतान्पश्येयमित्युत ॥८॥
@@ -7315,8 +6846,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अतो भूयश्च ते बुद्धिर धर्मे भवतु सुस्थिरा ॥१५॥
 
-
-
 **शेषः—**
 
 एष एव वरो मेऽद्य काङ्क्षितः प्रपितामह ।  
@@ -7346,8 +6875,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 इमां महीं धारयता त्वया हि मे  
   महत्प्रियं शेष कृतं भविष्यति ॥२०॥
 
-
-
 शेषोऽसि नागोत्तम धर्मदेवो  
   महीमिमां धारयिता त्वमेकः।  
 अनेकभोगान् परिगृह्य सर्वान्  
@@ -7373,8 +6900,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि अष्टाविंशोऽध्यायः ॥२८॥  
 ॥५॥ आस्तीकपर्वणि विंशोऽध्यायः ॥२०॥  
 \[अस्मिन्नध्याये २५॥ श्लोकाः।\]
-
-
 
 ॥ एकोनत्रिंशोऽध्यायः ॥
 
@@ -7408,8 +6933,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^337]: " क ख ग -ह्येनामव्ययो देवः [अधिकः पाठः]"
 
-
-
 तस्मात्संमन्त्रयामोऽद्य भुजङ्गानामनामयम् ।  
 यथा भवेन्न सर्वेषां मातुः कामोऽत्यगादयम् ॥७॥
 
@@ -7436,8 +6959,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 स नः पृच्छति सर्वेषु कार्येष्वर्थविनिश्चयम् ।  
 तत्र बुद्धि प्रवक्ष्यामो यथा यज्ञो न वर्तते ॥ १३॥
-
-
 
 स नो बहुमतान् राजा बुद्धौ बुद्धिमतां वरः ।  
 यज्ञार्थं वक्ष्यते व्यक्तं नेति वक्ष्यामहे वयम् ॥१४॥
@@ -7469,8 +6990,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 प्रमत्तानाहरन्त्वाशु विघ्न एवं भविष्यति ॥ २२॥
 
 [^341]: "क ख ग -ण्डंनिशि गवा वा त्वपरे"
-
-
 
 यज्ञे वाभुजगास्तस्मिञ् शतशोऽथ सहस्रशः।  
 जनं दशन्तु वै सर्वमेवं त्रासो भविष्यति ॥२३॥
@@ -7504,8 +7023,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^343]: "क ख ग - ( श्रेयः प्रसादनं मन्ये काश्यपस्य महात्मनः । अधिकः पाठः (शातिवंशस्य सौहार्दाद् आत्मनश्च भुजंगमाः ॥"
 
-
-
 सर्वेषामेव मे बुद्धिः पन्नगानां न रोचते ॥३१॥
 
 किं तत्र संविधातव्यं भवतां यद्धितं भवेत् ।  
@@ -7535,8 +7052,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 जनमेजयः पाण्डवेयो यतोऽस्माकमिदं भयम् ॥२॥
 
 [^344]: "क ख ग - प्रागेव दर्शिता बुद्धिर मयैषा भुजगोत्तमाः । हेयेति यदि वो बुद्धेिस तवापि च तथा प्रभो ॥ अस्तु कामं ममाद्यापि बुद्धिः स्मरणमागता । तां शृणुष्व प्रवक्ष्यामि याथातथ्येन पन्नगाः ॥ [अधिकः पाठः]"
-
-
 
 दैवेनोपहतं राजन् न कर्तव्यं च पौरुषम् ।  
 स[^345] दैवमेवाश्रयेत नान्यत्तत्र परायणम् ॥३॥
@@ -7572,8 +7087,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 बहवः पन्नगास्तीक्ष्णा भीमवीर्या विषोल्बणाः।
 
-
-
 प्रजानां हितकामोऽहं न च वारितवांस्तदा ॥९॥
 
 ये दन्दशूकाः क्षुद्राश्च पापाचारा विषोल्बणाः।  
@@ -7605,8 +7118,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अपत्यं वीर्यवान्देवा वीर्यवज्जनयिष्यति ॥ १५॥
 
 [^351]: "क ख ग - वासुकेर्भगिनी कन्या समुत्पन्ना सुशोभना । तस्मै दास्यति तां कन्यां वासुकिर्भुजगोत्तमः । तस्यां जनयिता पुत्रं वेदवेदांगपारगम् ॥ [अधिकः पाठः]"
-
-
 
 **एलापत्रः—**
 
@@ -7642,8 +7153,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ततः प्रभृति तां कम्यां वासुकिः पर्यरक्षत ।
 
-
-
 जरत्कारुं स्वसारं वै परं हर्षमवाप च ॥२॥
 
 ततो नातिमहान् कालः समतीत इवाभवत् ।  
@@ -7674,8 +7183,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 उत्पन्नः स जरत्कारुस् तपस्युंग्रे रतः सदा ।  
 तस्मै स्वभगिनीं काले जरत्कारुं प्रयच्छतु ॥१०॥
-
-
 
 एलापत्रेण वचनं तदोक्तं भुजगोत्तम ।  
 भुजगानां हितं चैव तथा तन्न तदन्यथा ॥११॥
@@ -7709,8 +7216,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 जरत्कारुरिति प्रोक्तंयस्त्वया सूतनन्दन।  
 इच्छामि तदहं तस्य ऋषेः श्रोतुं महात्मनः ॥१॥
 
-
-
 किं कारणं जरत्कारोर नामैतत्प्रथितं भुवि ।  
 जरत्कारुनिमित्तं मे यथावद्वक्तुमर्हसि ॥२॥
 
@@ -7736,8 +7241,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   न चापि दारान्मनसाभ्यकाङ्क्षन् ॥[^356] ७॥
 
 [^356]: "क ख ग – कोशेषु अत्र अध्यायसमाप्तिः-द्वाविंशोऽध्यायस्समाप्त इति ॥"
-
-
 
 ततः परस्मिन्संप्राप्ते काले कस्मिश्चिदेव तु।  
 परीक्षिदिति विख्यातो[^357] राजा कौरववंशभृत् ॥८॥
@@ -7773,8 +7276,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 परिश्रान्तः पिपासार्त आससाद मुनिं वने।  
 गवां प्रचारेष्वासीनं वत्सानां मुखनिस्सृतम् ॥१५॥
 
-
-
 भूयिष्ठमुपयुञ्जानं फेनं वै पिवतां पयः ॥१६॥
 
 तमभिद्रुत्य वेगेन स राजा संशितव्रतः ।  
@@ -7802,8 +7303,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स देवं परमीशानं सर्वभूतहिते रतम् ॥  
 ब्रह्माणमुपतस्थे वै काले काले सुसंयतः॥२३॥
 
-
-
 स तेन समनुज्ञातो ब्रह्मणा गृहमेयिवान् ।  
 सख्योक्तः क्रीडमानेन स तत्र सहसा[^363] किल ॥२४॥
 
@@ -7827,8 +7326,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि द्वात्रिंशोऽध्यायः ॥३२॥  
 ॥५॥ आस्तीकपर्वणि चतुर्विंशोऽध्यायः ॥२४॥  
 \[अस्मिन्नध्याये २८ लोकाः\]
-
-
 
 **॥त्रयस्त्रिंशोऽध्यायः॥**
 
@@ -7858,8 +7355,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 कि मे पित्रा कृतं तात राज्ञोऽनिष्टं दुरात्मनः।  
 ब्रूहि त्वं कृश तत्त्वेन पश्य मे तपसो बलम् ॥ ४॥
-
-
 
 **कृशः—**
 
@@ -7894,8 +7389,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 योऽसौ वृद्धस्य तातस्य तथा कृच्छ्रगतस्य च।
 
-
-
 स्कन्धे मृतमवास्त्राक्षीत् पन्नगं राजकिल्बिषी ॥१२॥
 
 तं पापमतिसंक्रुद्धस् तक्षकः पन्नगोत्तमः ।  
@@ -7928,8 +7421,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सूतः—
 
 तमब्रवीस्पिता ब्रह्मंस तथा कोपसमन्वितम् ॥१९॥
-
-
 
 न मे प्रियं कृतं तात नैष धर्मस्तपस्विनाम् ।  
 वयं तस्य नरेन्द्रस्य विषये निवसामहे ॥२०॥
@@ -7968,8 +7459,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मानुषाणां हि यो धाता राजा राज्यकरः प्रभुः।  
 सुदुःखश्रोत्रियस्सोम्य इत्येवं मनुरब्रवीत्॥ \[अधिकः पाठः\]
 
-
-
 अजानता कृतं तात[^369] ध्रुवमेतदसंशयम् ॥२६॥
 
 [^369]: "क ख ग - व्रतमिदं कृतमेतदसंशयम्"
@@ -8007,8 +7496,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^371]: "क ख ग - जानाम्युम्रप्रभावं त्वां पुत्र सत्यगिरं तथा ।"
 
-
-
 नानृतं चोक्तपूर्वं ते नैतन्मिथ्या भविष्यति ॥३॥
 
 पित्रा पुत्रोवयस्थोऽपि सततं वाच्य एव तु।  
@@ -8039,8 +7526,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अहं[^374] तु शममास्थाय वक्तुं तत्त्वाख्यमद्य वै ।
 
 [^374]: "क-ख-ग-मया तु शममास्थाय यच्छक्यं कर्तुमद्य वै ।"
-
-
 
 शिष्यं[^375] धर्मभृतस्तात प्रेषयिष्ये नृपस्य वै ॥११॥
 
@@ -8075,8 +7560,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तस्य त्वया नरव्याघ्र स्कन्धे भरतसत्तम ।  
 अवसक्तोधनुष्कोट्या सर्पः प्राणैर्वियोजितः ॥१८॥
 
-
-
 क्षान्तवांस्तव तत्कर्मंपुत्रस्तस्य न चक्षमे ॥१९॥
 
 तेन शप्तोऽसि राजेन्द्र पितुरज्ञातमद्य वै ।  
@@ -8107,8 +7590,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 श्रुत्वा तद्वचनं राज्ञो मुनिर्गौरमुखस्तदा ।
 
-
-
 तमनुज्ञाप्य वेगेन प्रजगामाश्रमं गुरोः ॥२८॥
 
 तस्मिस्तु गतमात्रे तु राजा गौरमुखे तदा ।  
@@ -8138,8 +7619,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तमब्रवीत्पन्नगेन्द्रः काश्यपं मुनिपुंगवम् ।  
 क भवांस्त्वरितो याति किं च कार्यं चिकीर्षति ॥३८॥
 
-
-
 **काश्यपः—**
 
 नृपं कुरुकुलोत्पन्नं परीक्षितमरिन्दमम् ।  
@@ -8164,8 +7643,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि चतुस्त्रिंशोऽध्यायः ॥ ३४ ॥  
 ॥५॥ आस्तीकपर्वणि षड्विंशोऽध्यायः ॥२६॥  
 \[अस्मिन्नध्याये ४२॥ श्लोकाः\]
-
-
 
 ॥पञ्चत्रिंशोऽध्यायः॥
 
@@ -8194,8 +7671,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तं दुग्ध्वा स नगं नागः काश्यपं पुनरब्रवीत् ।  
 कुरु यत्नं द्विजश्रेष्ठ जीवयैनं वनस्पतिम् ॥६॥
-
-
 
 **सूतः—**
 
@@ -8231,8 +7706,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 विप्रशापाभिभूते च क्षीणायुषि नराधिपे ।  
 अटमानस्य ते विप्र सिद्धिः संशयिता भवेत् ॥१४॥
 
-
-
 ततो यशः प्रदीप्तं ते त्रिषु लोकेषु विश्रुतम् ।  
 विरश्मिरिव घर्मांशुर् अन्तर्धानमितो व्रजेत् ॥ १५॥
 
@@ -8263,8 +7736,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मन्त्रैर्विषहरैर्दिव्यै रक्ष्यमाणं प्रयत्नतः ॥ २१ ॥
 
 स चिन्तयामास तदा मायायोगेन पार्थिवः।
-
-
 
 मया वञ्चयितव्योऽसौ क उपायो भवेदिति ॥२२॥
 
@@ -8298,8 +7769,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स तं गृह्य नृपश्रेष्ठः सचिवानिदमब्रवीत् ॥३०॥
 
 अस्तमभ्येति सविता विषादन्यन्न मे भयम्।
-
-
 
 सत्यवागस्तु स मुनिः कृमिको मां दशत्वयम् ॥३१॥
 
@@ -8338,8 +7807,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^379]: " क ख ग तं तु नागं सतो"
 
-
-
 अपश्यंश्चैव ते यान्तम् आकाशे नागमद्भुतम् ॥२॥
 
 सीमन्तमिव कुर्वाणं नभसः पद्मवर्चसम् ।  
@@ -8368,8 +7835,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   सदैव तैर्मन्त्रिपुरोहितैस्तदा ।  
 शशास राज्यं कुरुपुंगवाप्रजो  
   यथाऽस्य वीरः प्रपितामहस्तथा ॥७॥
-
-
 
 ततस्तु राजानममित्रतापनं  
   समीक्ष्य ते तस्य नृपस्य मन्त्रिणः।  
@@ -8401,8 +7866,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि षट्त्रिंशोऽध्यायः ॥३६॥  
 ॥५॥ आस्तीकपर्वणि अष्टाविंशोऽध्यायः ॥२८॥  
 \[अस्मिन्नध्याये ११ श्लोकाः\]
-
-
 
 **॥ सप्तत्रिंशोऽध्यायः॥**
 
@@ -8439,8 +7902,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वीरणस्तम्बके मूलं यदप्येकमिह स्थितम् ।  
 तदप्ययं शनैरास्वुर् आदत्ते दशनैः शितैः ॥७॥
 
-
-
 छेद्यतेऽल्पावशिष्टत्वाद् एतदप्यचिरादिव ।  
 तत्रस्थाः पतिता रौद्रे गर्तेह्यस्मिन्नधोमुखाः ॥८॥
 
@@ -8472,8 +7933,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^387]: " क ख ग - शोध्यान्सुदुःखितानस्मान् कस्माद्वेदविदांवर ।[ अधिकः पाठः]"
 
 यायावरा नाम वयम् ऋषयः संशितव्रताः।
-
-
 
 लोकान् पुण्यादितो[^388] भ्रष्टाः सन्तानप्रक्षयान्विताः ॥१६॥
 
@@ -8508,8 +7967,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^389]: "क ख ग - मस्यार्धभक्षितम्"
 
-
-
 यमास्वुंपश्यसि ब्रह्मन् काल एष महाबलः ॥२५॥
 
 स[^390] तन्तुमेकं दिवसैर् दशनैः क्षयते नुदन्।  
@@ -8540,8 +7997,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि सप्तत्रिंशोऽध्यायः ॥३७॥  
 ॥१॥ आस्तीकपर्वणि एकोनत्रिंशोऽध्यायः ॥२९॥  
 \[अस्मिन्नध्याये ३२ श्लोकाः।\]
-
-
 
 **॥अष्टत्रिंशोऽध्यायः॥**
 
@@ -8579,8 +8034,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 करिष्ये वः प्रियं कामं निवेक्ष्ये नात्र संशयः ।  
 सनामां यद्यहं कन्याम् उपलप्स्ये कदाचन ॥६॥
 
-
-
 भविष्यति च या काचिद् भैक्षवत्स्वयमुद्यता ।  
 प्रतिग्रहीता तामस्मि न[^393] हरेयं च तामहम् ॥७॥
 
@@ -8610,8 +8063,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यस्य कन्याऽस्ति भूतस्य गुणैः सम्यक् प्रकीर्तिता ।  
 प्रयच्छतु स मे कन्यां चरतः सर्वतोदिशम् ॥१४॥
-
-
 
 मर्मं कन्या सनामा या भैक्षवञ्चोद्यता भवेत् ।  
 हरेयं[^395] चैव यां नाहं तां मे कन्यां प्रयच्छत ॥१५॥
@@ -8643,8 +8094,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि अष्टत्रिंशोऽध्यायः ॥३८॥  
 ॥५॥ आस्तीकपर्वणि त्रिंशोऽध्यायः ॥३०॥  
 \[अस्मिन्नध्याये २० श्लोकाः\]
-
-
 
 **॥ एकोनचत्वारिंशोऽध्यायः ॥**
 
@@ -8684,8 +8133,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^400]: " क ख ग - गृहं शुभं"
 
-
-
 जगाम भार्यामादाय स्तूयमानो मनीषिभिः ॥६॥
 
 शयनं तत्र वैङ्कसं परार्थ्यास्तरणावृतम् ।[^401]  
@@ -8719,8 +8166,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 शुक्लपक्षे यथा सोमो व्यवर्धत तथैव सः ।  
 ततः कतिपयाहस्सु जरत्कारुर्महातपाः ॥१४॥
 
-
-
 सत्सङ्गेऽस्याश्शिरः कृत्वा सुप्वाप परिखिन्नवत् ।  
 तस्मिंश्च सुप्ते विप्रेन्द्रे सविताऽस्तमियाद्भिरिम्॥१५॥
 
@@ -8751,8 +8196,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 1.क–ख–ग—नास्या  
 2. क–ख–ग— मायां
-
-
 
 एवमुक्तस्स भगवाञ् जरत्कारुर्महातपाः ।  
 भार्यां प्रस्फुरमाणोष्ठ इदं वचनमब्रवीत् ॥२३॥
@@ -8787,8 +8230,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न मे बागनृतं प्राह गमिष्येऽहं भुजंगमे ।
 
-
-
 समयो ह्येष मे पूर्वं स्वया सह मिथः कृतः ॥३०॥
 
 सुखमध्युषितं भद्रे ब्रूयास्त्वं भ्रातरं शुभे ॥३१॥
@@ -8820,8 +8261,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अपत्यमीप्सितं त्वत्तस् तच्च तावन्न दृश्यते ॥३८॥
 
 त्वत्तो ह्यपत्यलाभेन ज्ञातीनां मे शुभं भवेत् ॥३८॥
-
-
 
 संप्रयोगो भवेन्नायं मम मोधस्त्वया द्विज ।  
 ज्ञातीनां सुखमिच्छन्ती भगवंस्त्वां प्रसादये ॥३९॥
@@ -8860,8 +8299,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 गतमात्रं तु भर्तारं जरत्कारुरवेदयत् ।  
 भ्रातुस्त्वरितमागत्य याथातथ्यं तपोधन ॥१॥
 
-
-
 ततस्स भुजगश्रेष्ठः श्रुत्वा सुमहदप्रियम् ।  
 सवाच भगिनीं दीनां तदा दीनतरस्स्वयम् ॥२॥
 
@@ -8894,8 +8331,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 पृष्टो मयाऽपत्यहेतोः स महात्मा महातपाः ।
 
-
-
 अस्तीत्युदरमुद्दिश्य ममेदं गतवांश्च सः ॥१०॥
 
 स्वैरेष्वपि न तेनाहं स्मरामि वितथं क्वचित् ।  
@@ -8925,8 +8360,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वेदांश्चाधिजगे साङ्गान् भार्गवच्यवनात्मजात॥ १८॥
 
 चरितब्रतो बाल एव बुद्धिसत्वगुणान्वितः।
-
-
 
 नाम चास्याभवत्ख्यातं लोकेष्वस्तीक इत्युत ॥१९॥
 
@@ -8960,8 +8393,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यदपृच्छत्ततो राजा मन्त्रिणो जनमेजयः ।  
 पितुर्स्स्वगगतिं तन्मे विस्तरेण पुनर्बद ॥१॥
-
-
 
 **सूतः—**
 
@@ -9000,8 +8431,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 समस्सर्वेषु भूतेषु प्रजापतिरिवाभवत् ।
 
-
-
 ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्चैव स्वकर्मसु ॥९॥
 
 स्थितास्सुमनसो राजंस् तेन राज्ञा स्वधिष्ठिताः ।  
@@ -9029,8 +8458,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततो दिष्टान्तमापन्नः सर्पणानतिवर्तिनम् ॥१६॥
 
 ततस्त्वं पुरुषश्रेष्ठ धर्मेण प्रतिपेदिवान् ।
-
-
 
 इदं वर्षसहस्राय राज्यं कलियुगे गतम् ॥ १७॥
 
@@ -9067,8 +8494,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 विद्ध्वाचान्वचरत्तूर्णं स मृगं गहने बने ।  
 पदातिर्बद्धनिर्स्त्रिशः शरपाणिर्धनुर्धरः ॥२३॥
 
-
-
 न चाससाद गहने मृगं नष्टं पिता तव ।  
 परिश्रान्तो वयस्थश्चषष्टिवर्षो जरान्वितः ॥२४॥
 
@@ -9097,8 +8522,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 \[ अस्मिन्नध्याये ३० श्लोकाः। \]
 
 ![](../books_images/U-IMG-1707734500Screenshot2023-12-26160236.png)
-
-
 
 **॥ द्विचत्वारिंशोऽध्यायः॥**
 
@@ -9133,8 +8556,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 शुभाचारं शुभकथं सुस्थिरं तमलोलुपम् ।
 
-
-
 अक्षुद्रमनसूयं च वृद्धं मौनव्रते स्थितम् ।  
 शरण्यं सर्वभूतानां पित्रा विप्रकृतं[^411] तव ॥७॥
 
@@ -9166,8 +8587,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततस्तस्मिस्तु दिवसे सप्तमे समुपस्थिते ।  
 राज्ञस्समीपं ब्रह्मर्षिः काश्यपो गन्तुमैच्छत ॥१५॥
 
-
-
 तं ददर्शाथ नागेन्द्रस् तक्षकः काश्यपं तदा ।  
 तमब्रवीत्पन्नगेन्द्रः काश्यपं त्वरितं ब्रजन् ॥१६॥
 
@@ -9194,8 +8613,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तमुवाच महात्मानं वारयन् श्लक्ष्णया गिरा ।  
 यावद्धनं प्रार्थयसे राज्ञस्तस्मात्ततोऽधिकम् ॥२१॥
-
-
 
 गृहाण मत्त एव त्वं सन्निवर्तस्व चानघ ॥२१॥
 
@@ -9227,8 +8644,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 शृणु राजन्यथाऽस्माकं येनैतत्कथितं पुरा।  
 समागतं द्विजेन्द्रस्य पन्नगेन्द्रस्य चाध्वनि ॥२९॥
-
-
 
 तस्मिन्वने चरः[^413] कश्चिदिन्धनार्थाय पार्थिव ।  
 विचिन्वन्पूर्वमारूढः शुष्कशास्त्रं वनस्पतिम् ॥३०॥
@@ -9265,8 +8680,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अनन्तरमहं मन्ये तक्षकाय दुरात्मने ।
 
-
-
 प्रतिकर्तव्यमित्येवं येन मे हिंसितः पिता ॥३८॥
 
 ऋषेर्हि शृङ्गेर्वचनं कृत्वा दृष्ट्वा च पार्थिवम् ।  
@@ -9294,8 +8707,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि द्विचत्वारिंशोऽध्यायः ॥४२॥  
 ॥५॥ आस्तीकपर्वणि चतुस्त्रिंशोऽध्यायः ॥३४॥  
 \[अस्मिन्नध्याये ४३॥ श्लोकाः।\]
-
-
 
 ॥त्रिचत्वारिंशोऽध्यायः ॥
 
@@ -9333,8 +8744,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 **ऋत्विजः—**
 
 अस्ति राजन् महत् सत्रं तदर्थं देवनिर्मितम् ।
-
-
 
 सर्पसत्रमिति ख्यातं पुराणैः कथ्यते नृप \।\।६ ॥
 
@@ -9374,8 +8783,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 इदं चासीत्तत्र पूर्वं सर्पसत्रे भविष्यति ।  
 निमित्तं महदुत्पनं यज्ञविघ्नकरं तदा ॥१४॥
 
-
-
 यज्ञस्यायतने तस्मिन् क्रियमाणे वचोऽब्रवीत् ।  
 स्थपनिर्बुद्धिसंपन्नो वास्तुविद्याविशारदः ॥१५॥
 
@@ -9410,8 +8817,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 विस्फुरन्तश्श्वसन्तश्च वेष्टयन्तस्तथा परे ।  
 पुच्छेश्चैव शिरोभिश्च चित्रभानुं प्रपेदिरे ॥२२॥
 
-
-
 श्वेताः कृष्णाश्च रक्ताश्च स्थविराश्शिशवस्तथा ।  
 रवन्तो भैरवं नादं पेतुर्दीप्ते विभावसौ ॥२३॥
 
@@ -9435,8 +8840,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि त्रिचत्वारिंशोऽध्यायः ॥४३॥  
 ॥५॥ आस्तीकपर्वणि पञ्चत्रिंशोऽध्यायः ॥३५॥  
 \[अस्मिन्नध्याये २८ श्लोकाः\]
-
-
 
 **॥ चतुश्चत्वारिंशोऽध्यायः ॥**
 
@@ -9470,8 +8873,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^428]: " क ख ग -स्सोऽथ"
 
 सदस्यश्चाभवद्व्यासः पुत्रशिष्यसमन्वितः ।
-
-
 
 उद्दालकः कामठकः[^429] श्वेतकेतुश्च शाण्डिलः ॥ ७॥
 
@@ -9507,8 +8908,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^432]: " क ख ग -त भागस्कृत्वा"
 
-
-
 तमिन्द्रः प्राह सुप्रीतो न तवास्तीह तक्षक।  
 भयं नागेन्द्र तस्माद्वै सर्पसत्रान् कथं चन ॥१६॥
 
@@ -9537,8 +8936,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अयं स कालस्संप्राप्तो यदर्थमसि मे स्वसः ।  
 जरत्कारोः पुरा दत्ता सा त्राह्मस्मान् सबान्धवान् ॥२४॥
-
-
 
 अस्तीकः किल यज्ञं तं वर्तमानं भुजङ्गमे ।  
 प्रतिषेत्स्यति मां पूर्वं स्वयमाह पितामहः ॥२५॥
@@ -9573,8 +8970,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 किंनिमित्तं मम पितुर् दत्ता त्वं मातुलेन मे ।
 
-
-
 तन्ममाचक्ष्व तत्त्वेन श्रुत्वा कर्ताऽस्मि तत्तथा ॥३॥
 
 **सूतः—**
@@ -9605,8 +9000,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 भ्रातरं मे पुरस्कृत्य प्रजापतिमुपागमन् ॥१०॥
 
 ते तं प्रसादयामासुः देवास्सर्वे पितामहम् ॥१०॥
-
-
 
 राज्ञा वासुकिना सार्धं स शापो न भवेदिति ॥११॥
 
@@ -9641,8 +9034,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अहं त्वां मोक्षयिष्यामि वासुके पन्नगोत्तम \।  
 तस्माच्छापान्महासत्त्व सत्यमेतद्रवीमि ते ॥ १८ ॥
 
-
-
 स्वस्थो भव महाभाग न हि ते विद्यते भयम् ।  
 प्रयतिध्ये तथा सौम्य यथा श्रेयो भविष्यति ॥१९॥
 
@@ -9674,8 +9065,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ततस्सवासुकेर्घोरम् अपनीय मनोज्वरम् ।
 
-
-
 आदाय[^435] चात्मनोऽङ्गेषु जगाम त्वरितो भृशम् ॥२६॥
 
 [^435]: "क - ख-ग-धाय"
@@ -9705,8 +9094,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यमस्य यज्ञो हरिमेधसश्च  
   यथा यज्ञो रन्तिदेवस्य राज्ञः ।
 
-
-
 तथा यज्ञोऽयं तव भारताग्र्य  
   पारीक्षित स्वस्ति नोऽस्तु प्रियेभ्यः ॥३२॥
 
@@ -9733,8 +9120,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   युधिष्ठिरस्याजमीढस्य राज्ञः ।
 
 [^439]: "क- ख-ग - यशश्श्रुतो दिवि देवेषु राज्ञो यौधिष्ठिरो हरिश्चन्द्रस्य यज्ञः । नलस्य यशस्तव भारताग्र्य पारीक्षित स्वस्ति नोऽस्तु प्रियेभ्यः ॥ [अधिकः पाठः]"
-
-
 
 तथा यज्ञोऽयं तव भारताग्र्य  
   पारीक्षित स्वस्ति नोऽस्तु प्रियेभ्यः ॥३६॥
@@ -9765,8 +9150,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 विभावसुश्चित्रभानुर्महात्मा  
   हिरण्यरेता विश्वभुक्कृष्णवर्त्मा।
 
-
-
 प्रदक्षिणावर्तशिखः प्रदीप्तो  
   हव्यं तवेदं हुतभुम्भुनक्कि ॥४०॥
 
@@ -9792,8 +9175,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यमो यथा धर्मविनिश्चयज्ञः  
   कृष्णो यथा सर्वगुणोपपन्नः ।
-
-
 
 श्रियो निकेतोऽसि तथा वसूनां  
   निधानभूतोऽसि तथा क्रतूनाम् ॥४५॥
@@ -9832,8 +9213,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 बालो वाक्यं स्थविर इव प्रभाषते  
   नायं वालस्थविरो धर्मतो मे
 
-
-
 इच्छाम्यहं वरमस्मै प्रदातुं  
   तन्मे विप्राः प्रवद्ध्वं समेताः ॥१॥
 
@@ -9860,8 +9239,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   यथा च नस्तक्षक एति शीघ्रम् ।  
 तथा भवन्तः प्रयतन्तु सर्वे  
   परं शक्त्या स हि मे विद्विषाणः ॥४॥
-
-
 
 होता जुहाव तत्रस्थं तक्षकं पन्नगं तथा ॥१४॥
 
@@ -9893,8 +9270,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वर्तते तव राजेन्द्र कर्मेतद्विधिवत्प्रभो ।  
 अस्मै च द्विजमुख्याय वरं त्वं दातुमर्हसि ॥२०॥
 
-
-
 **राजा—**
 
 बालाभिरूपस्य तवाप्रमेय !  
@@ -9924,8 +9299,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सुवर्णं रजतं गाश्च न त्वां राजन्वृणोम्यहम् ।  
 सत्रं ते विरमत्वेतत् स्वस्ति मातुः कुलस्य नः ॥२६॥
-
-
 
 **सूतः—**
 
@@ -9960,8 +9333,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ये सर्पारसर्पसत्रेऽस्मिन् पतिता हव्यवाहने ।  
 तेषां नामानि सर्वेषां श्रोतुमिच्छामि सूतज ॥१॥
 
-
-
 **सूतः—**
 
 सहस्राणि बहून्यस्मिन् प्रयुतान्यर्बुदानि च ।  
@@ -9992,8 +9363,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मुद्ररश्शशरोमा च समरो वेगवान् हरः।  
 एते तक्षकजा नागाः प्रविष्टा हव्यवाहनम् ॥९॥
 
-
-
 पारावतः पारियात्रपाण्डरो हरिणः कृशः।  
 विहङ्गश्शरभो मोदः प्रमोदस्संहताशनः ॥१०॥
 
@@ -10023,8 +9392,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 प्राधान्येन बहुत्वात्तु सर्वे ते परिकीर्तिताः ॥१८॥
 
 एतेषां पुत्रपौत्राश्च प्रसवस्य च सन्ततिः ।
-
-
 
 न शक्याः परिसंख्यातुं ये दीप्तं पावकं गताः ॥१९॥
 
@@ -10057,8 +9424,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 इदमत्यद्भुतं चान्यदस्तीकस्य च शुश्रुमः।  
 तथा वरैश्छन्यमानो राज्ञा पारीक्षितेन च ॥१॥
-
-
 
 इन्द्रहस्ताच्च्युतो नागस् स ख एव व्यवस्थितः ।  
 ततश्चिन्तापरो राजा बभूव जनमेजयः ॥२॥
@@ -10094,8 +9459,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततो हलहलाशब्दः प्रीतिजस्समवर्धत ।  
 अस्तीकस्य वरे दत्ते तथैवोपरराम च ॥९॥
 
-
-
 स यज्ञः पाण्डवेयस्य राज्ञः पारीक्षितस्य ह ॥९॥
 
 समापिते ततस्सत्रे विधिवद्विधिदर्शिभिः ।  
@@ -10125,8 +9488,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स गत्वा परमप्रीतो मातरं मातुलं च तम् ।  
 अभिगम्योपसंगृह्य यथावृत्तं न्यवेदयत् ॥१७॥
 
-
-
 एतच्छ्रुत्वा प्रीयमाणास्समेता  
   ये तत्रासन् पन्नगा वीतमोहाः ।  
 अस्तीकं ते[^453] प्रीतिमन्तो बभूवुर्  
@@ -10153,8 +9514,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   एतत्सत्यं वचनं ते चराम।  
 प्रीत्या युक्ता ईप्सितं सर्वतस्ते  
   कर्तारस्स्म प्रवणा भागिनये ॥२१॥
-
-
 
 जरत्कारोर्जरत्कार्वांसमुत्पन्नो महायशाः ।  
 अस्तीकस्सत्यसन्धो मां पन्नगेभ्योऽभिरक्षतु ॥ २२ ॥
@@ -10188,8 +9547,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 **॥ आस्तीकपर्व समाप्तम् ॥**
 
-
-
 ॥ एकोनपञ्चाशत्तमोऽध्यायः ॥
 
 ( आदिवंशावतारणपर्व ॥ ६ ॥)
@@ -10219,8 +9576,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 महाभारतमाख्यानं पाण्डवानां यशत्करम् ।
 
-
-
 जनमेजयेन यः पृष्टः कृष्णद्वैपायनस्तदा ॥६॥
 
 श्रावयामास विधिवत् तदा कर्मान्तरेषु सः ।  
@@ -10249,8 +9604,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यं नाति तपसा कश्चिन् न वेदाध्ययनेन च ।  
 व्रतेनोपवासेन न प्रशान्त्या न मन्युना ॥ १४॥
 
-
-
 विव्यासैकं चतुर्धा यो वेदं वेदविदां वरः ।  
 परावरज्ञो ब्रह्मर्षिः कविस्सत्यव्रतश्शुचिः ॥१५॥
 
@@ -10277,8 +9630,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 पाद्यमाचमनीयं च अर्ध्यंगां च विधानतः।  
 पितामहाय कृष्णाय तदर्हाय न्यवेदयत् ॥२३॥
-
-
 
 प्रतिगृह्य च तां पूजां पाण्डवाज्जनमेजयात् ।  
 गां चैव समनुज्ञाय मुनिः प्रीतोऽभवत्तदा ॥२४॥
@@ -10311,8 +9662,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^457]: " क ख ग - उवाच वरदशिशष्यं वैशम्पायनमन्तिकात् ।"
 
 कुरूणां पाण्डवानां च यथा भेदोऽभवत्पुरा ।
-
-
 
 तदस्मै सर्वमाचक्ष्व यन्मत्तश्श्रुतवानसि ॥३२॥
 
@@ -10347,8 +9696,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 महर्षेस्सर्वलोकेषु विश्रुतस्यास्य धीमतः।  
 प्रवक्ष्यामि मतं कृत्स्त्रंव्यासस्यामिततेजसः ॥३॥
 
-
-
 श्रोतुं पात्रंतु राज॑स्त्वं प्राप्येमां भारतीं कथाम् ।  
 गुरोर्वक्तुं परिस्पन्दो मुदा प्रोत्सहतीव माम् ॥४॥
 
@@ -10377,8 +9724,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यदाऽबुध्यत कौन्तेयस् सदा संछिद्य बन्धनम् ।  
 उदतिष्ठन्महातेजा भीमसेनो गतव्यथः ॥१२॥
-
-
 
 आशीविषैः कृष्णसर्पैस् सुप्तं चैनमदंशयत् ।  
 सर्वेष्वेवाङ्गदेशेषु न ममार स शत्रुहा ॥१३॥
@@ -10416,8 +9761,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मार्गभोजीव लोकस्य यथा शुक्रस्सुम्बावहः।  
 पाण्डवानां तथा नित्यं विदुरोऽभूत् सुखावहः॥ \[अधिकः पाठः\]
 
-
-
 धृतराष्ट्रमनुज्ञाप्य जातुषं चक्रुरालयम् ॥१८॥
 
 तत्र तान् वासयामास पाण्डवान मितौजसः ॥१८॥
@@ -10448,8 +9791,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 पुरं जानपदोपेतं सुबिभक्तमहापथम् ।
 
-
-
 वासाय[^459] खाण्डवप्रस्थं व्रजध्वं गतमन्यवः ॥२७॥
 
 [^459]: "क-ख-ग–अस्माभिः खाण्डवप्रस्थे युष्मद्वासो निश्चिन्तितः ।"
@@ -10478,8 +9819,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 धैर्यात्सत्याच्च धर्माच्च विजयाचाधिकप्रियः।  
 अर्जुनो भ्रातरं ज्येष्ठं नात्यवर्तत जातु चित् ॥ ३५॥
 
-
-
 स वै संवत्सरं पूर्णंमासं चैव वने वसन् ।  
 तीर्थयात्रां च कृतवान् नागकन्यामवाप्य च ॥३६॥
 
@@ -10507,8 +9846,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तस्यां दुर्योधनः क्षुद्रो लोभं चक्रे सुदुर्मतिः।  
 ततोऽक्षैर्वञ्चयित्वा च सौबलेन युधिष्ठिरम् ॥४४॥
 
-
-
 वनं प्रस्थापयामास सप्तवर्षाणि पञ्च च।  
 अज्ञातमेकं राष्ट्रे तु ततो वर्षं त्रयोदशम्॥४५॥
 
@@ -10535,8 +9872,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि पञ्चाशत्तमोऽध्यायः ॥५०॥  
 ॥६॥ आदिवंशावतारणपर्वणि द्वितीयोऽध्यायः ॥२॥  
 \[ अस्मिन्नध्याये ५०॥ श्लोकाः। \]
-
-
 
 **॥ एकपञ्चाशत्तमोऽध्यायः ॥**
 
@@ -10569,8 +9904,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 कथं सा द्रौपदी कृष्णा क्लिश्यमाना दुरात्मभिः ।
 
-
-
 शक्ता सती धार्तराष्ट्रान् नादहद्धोरचक्षुषा॥७॥
 
 कथं व्यतिक्रमं द्यूते पार्था माद्रीसुतौ तदा ।  
@@ -10602,8 +9935,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 य इदं श्रावयेद्विद्वान् यश्चेदं शृणुयान्नरः।
 
-
-
 स प्राप्य ब्रह्मणस्स्थानं देवैर्याति च तुल्यताम्॥१६॥
 
 इदं हि वेदैस्समितं पवित्रं चोत्तमं महत् ।  
@@ -10633,8 +9964,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 धर्मे चार्थे च कामे च मोक्षे च भरतर्षभ।  
 यदिहास्ति तदन्यत्र यन्नेहास्ति न तत्क्वचित्॥२४॥
-
-
 
 इदं हि ब्राह्मणैर्लोके आख्यातं ब्राह्मणेष्विह॥२५॥
 
@@ -10666,8 +9995,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यश्चेदं पठते विद्वान् सदा पर्वसु पर्वसु ।  
 धूतपाप्मा जितस्वर्गो ब्रह्मभूयं स गच्छति ॥३४॥
 
-
-
 यस्तु राजा शृणोतीदम् अखिलामश्नुते महीम् ।  
 प्रसूते गर्भिणी पुत्रं कन्या चाशु प्रदीयते॥३५॥
 
@@ -10696,8 +10023,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तीर्थानां नाम पुण्यानां देशानां चेह कीर्तनम् ।  
 वनानां पर्वतानां च नदीनां सागरस्यच॥४३॥
-
-
 
 देशानां चैव पुण्यानां[^464] पुराणां चैव कीर्तनम् ।  
 उपचारस्तथैवाग्रोयो वीर्यमप्यतिमानुषम्॥४४॥
@@ -10728,8 +10053,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 महाभारतमाख्याय पश्चात् संध्यां प्रमुच्यते॥५०॥
 
 रात्रौ यदेनः कुरुते इन्द्रियैर्ब्राह्मणश्चरन्।
-
-
 
 महाभारतमाख्याय पूर्वां सन्ध्यां प्रमुच्यते॥५१॥
 
@@ -10762,8 +10085,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अङ्गुष्ठाद्दक्षमसृजच् चक्षुर्भ्यांच मरीचिनम् ।
 
-
-
  मरीचेः[^466] काश्यपः पुत्रो दक्षस्य दुहिताऽदितिः॥३
 
 [^466]: "1. क-ख-ग—अङ्गुष्ठादृक्षमसृजच्चक्षुभ्यां च मरीचिनम् ।"
@@ -10787,8 +10108,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  यः प्राचीं दिशं जिगाय यावत्सूर्योदयात्। तत्तस्य प्राचीन्वत्त्वम्॥ ११॥
 
-
-
  प्राचीन्वांस्तु खल्वाश्मकीमुपयेमे सुषावान्नाम।तस्यामस्य जज्ञे शय्यातिः ॥१२॥
 
  शम्यातिस्तु त्रिशङ्कोर्दुहितरं वराङ्गीं नामोपयेमे । तस्यामस्य जज्ञेऽहंपातिः॥ १३॥
@@ -10807,8 +10126,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  अक्रोधनस्तु कालिङ्गीं करण्डुं नामोपयेमे । तस्यामस्य जज्ञे देवातिथिः॥ १९॥
 
-
-
  देवातिथिस्तु खलु वैदर्भीमुपयेमे मर्यादां नाम।तस्यामस्य जज्ञे ऋचः॥२०॥
 
  ऋचस्तु खलु वामदेव्यामङ्गराजकन्यायामृक्षं पुत्रमजीजनत् ॥ २१॥
@@ -10824,15 +10141,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 त्रस्नुस्सरस्वतीपुत्र अन्तिनारादजायत ।  
 इलिलं जनयामास कालिन्द्यां त्रस्नुरात्मजम्॥ २४॥
 
-
 इलिलस्तु[^470] रथन्तरायां दुष्यन्तादीन् पञ्च पुत्रानजीजनत्॥  
 दुष्यन्तस्तु खलु लक्ष्मणां नाम भागीरथीमुपयेमे। तस्यामस्य जज्ञे जनमेजयः॥२६॥
 
 [^470]: "2. क-ख-ग—इलिलस्तु खलु रथन्तर्यां जनमेजयमुत्पादयामास ॥२५ जनमेजयस्तु खलु कक्षीं नाम भागीरथीमुपयेमे । तस्यां दुष्यन्तादीन्पञ्च पुत्रानजीजनत॥ दुष्यन्तस्तु विश्वामित्र दुहितरं—"
 
  स एव दुष्यन्तो विश्वामित्रदुहितरं शकुन्तलां नामोपयेमे। तस्यामस्य जज्ञे भरतः॥२७॥
-
-
 
 तत्रेमौ श्लोकौ भवतः—
 
@@ -10856,8 +10170,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  अजमीढस्य तु चतुर्विंशतिपुत्रशतं बभूव–कैकय्यां नागायां गान्धार्यां विमलायामृक्षायामिति । पृथग्वंशकर्तारो नृपतयः॥ ३६
 
-
-
  अजमीढादृक्षायां वंशकरस्संवरणो जज्ञे॥३७॥
 
  संवरणस्तु खलु वैवस्वतीं तपतीं नामोपयेमे। तस्यामस्यजज्ञे कुरुः॥ ३८॥
@@ -10880,8 +10192,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यं यं कराभ्यां स्पृशति जीर्णं स सुखमश्नुते।
 
-
-
 पुनर्युवा च भवति तस्मात्तं शन्तनुं विदुः। तत्तस्य शन्तनुत्वम् ॥
 
  शन्तनुस्तु खलु गङ्गां भागीरथीमुपयेमे। तस्यामस्य जज्ञे देवव्रतः।यमाहुर्भीष्म इति॥ ४७॥
@@ -10901,8 +10211,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
  सा थ द्वैपायनं चिन्तयामास, सोऽप्रतस्स्थितः किं करवाणीति। तं सत्यवत्युवाच, भ्राता तेऽनपत्य एव स्वर्गतः, तस्यार्थेऽपत्यमुत्पादयेति ॥५३॥
 
  स परमित्युवाच, स तत्र त्रीन्पुत्रानुत्पादयामास–धृतराष्ट्रं पाण्डुं विदुरं चेति॥ ५४॥
-
-
 
  धृतराष्ट्रस्य राज्ञः पुत्राणां शतं बभूव गान्धर्यां वरदानात्तेषां च धार्तराष्ट्राणां चत्वारः प्रधानाः—दुर्योधनो दुश्शासनो विक-र्णश्चित्रसेनश्चेति॥५५॥
 
@@ -10927,8 +10235,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
  इयं ते सपत्नी ह्यनपत्या व्रीडिता साध्वी अस्यामपत्यमुत्पाद्यतामिति॥६३॥
 
-
-
  तस्यां नकुलसहदेवौ यमावश्विभ्यां जज्ञाते॥६४॥
 
  माद्रींतु स्वलङ्कृतां दृष्ट्वा पाण्डुर्भावं चक्रे । स तां प्राप्यैव विदेहत्वं प्राप्तः ॥६५॥
@@ -10950,8 +10256,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
  शैव्यस्य कन्यां देविकां[^472] नामोपयेमे युधिष्ठिरः।तस्यां पुत्रं जनयामास युधिष्ठिरो यौधेयं नाम॥ ७३॥
 
 [^472]: "1. क-ख-ग—देवकीं"
-
-
 
  भीमसेनस्तु खलु वाराणस्यां काशिराजकन्यां बलधरां नामोदवहत् स्वयंवरस्थां। तस्यामस्य जज्ञे शर्वत्रातः[^473]॥ ७४॥
 
@@ -10976,8 +10280,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 बिराटस्य दुहितरमुत्तरां नामाभिमन्युरुपयेमे।तस्यामस्य परामुर्गर्भोऽजायत॥८२॥
 
 तमुत्सङ्गे प्रतिजग्राह पृथिवी नियोगात्पुरुषोत्तमस्य ॥८३॥
-
-
 
  सौभद्रस्य[^475] षण्मासिकं गर्भमहं जीवयामि पादस्पर्शादिति वासुदेव उवाच॥८४॥
 
@@ -11010,8 +10312,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥६॥ आदिवंशावतारणपर्वणि चतुर्थोऽध्यायः ॥४॥  
 \[अस्मिन्नध्याये ११ श्लोकाः७९ वाक्यानि च \]
 
-
-
 **॥ त्रिपञ्चाशत्तमोऽध्यायः ॥**
 
 **![](../books_images/U-IMG-1707810461Screenshot2023-05-16123818.png)**
@@ -11043,8 +10343,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 देवानहं पालयिता पालय त्वं हि मानुषान् ।  
 लौक्यं धर्मं पालय त्वं नित्ययुक्तस्समाहितः॥६॥
 
-
-
 धर्मयुक्तस्ततो लोकान् पुण्याल्लप्स्यसि शाश्वतान्॥७॥
 
 दिविष्ठस्य भुविष्ठस्त्वं सखा भूत्वा मम प्रियः ।  
@@ -11073,8 +10371,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ददामि ते वैजयन्तीं मालामम्लानपङ्कजाम् ।  
 धारयिष्यसि सङ्ग्रामे यां च शखैरविक्षतः॥१६॥
-
-
 
 लाञ्छनं चैतदेवेह भविता ते नराधिप ।  
 इन्द्रमालेति विख्यातां धन्यामप्रतिमां वह॥१७॥
@@ -11107,8 +10403,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 चतुर्विंशत्यङ्गुलात्मा हस्तः किष्कुरिति स्मृतः।
 
-
-
 उद्धृत्य पीठके चापि द्वादशारत्निकोच्छ्रिते॥२५॥
 
 महाराजतवासोभिः परिक्षिप्य ध्वजोत्तमम् ।  
@@ -11137,8 +10431,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 जातिभिस्तूलिकेनाक्तस् तदा स मुमुदे सदा ।  
 एवं जानपदास्सर्वे चरिन्द्रमखं तथा॥३४॥
-
-
 
 यथा चेदिपतिः प्रीतश् चकारेन्द्रमखं वसुः॥३५॥
 
@@ -11175,8 +10467,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^481]: "2. क-ख-ग—वरदानं महायज्ञैः"
 
-
-
 इन्द्रप्रीत्या भूमिपतिञ्चकारेन्द्रमखं वसुः॥४३॥
 
 संपूजितो मघवता वसुश्चेदिपतिस्तथा।  
@@ -11207,8 +10497,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 गिरिं कोलाहलं तं तु पदा वसुरताडयत् ।  
 निश्चक्राम नदी तस्य प्रहारविवरेण सा॥५२॥
 
-
-
 तस्यां नद्यामजनयन्मिथुनं पर्वतस्स्वयम।  
 तस्माद्धि मोक्षणात्प्रीता नदी राज्ञे न्यवेदयत्॥५३॥
 
@@ -11237,8 +10525,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एतैरन्यैर्महावृक्षैः पुण्येस्स्वादुफलैर्युतम्॥ ६०॥
 
 कोकिला कुलसन्नादं मत्तभ्रमरनादितम्।
-
-
 
 वसन्तकाले तत्पश्यन् वनं चैत्ररथोपमम्॥६१॥
 
@@ -11271,8 +10557,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अभिमन्त्र्याशु तच्छुक्रम् आरात्तिष्ठन्तमाशुगम्।
 
-
-
 सूक्ष्मधर्मार्थतत्त्वज्ञो ज्ञात्वा श्येनं ततोऽब्रवीत्॥७०॥
 
 मत्प्रियार्थमिदं सौम्य शुक्रं मम गृहं नय ।  
@@ -11302,8 +10586,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आश्चर्यभूतं मत्वा तत् राज्ञस्ते प्रत्यवेदयन् ।  
 कायान्मास्स्यादिमौ राजन् संभूतौमांनुषावितिः॥ ७९॥
 
-
-
 तयोः पुमांसं जग्राह राजोपरिचरस्तदा ।  
 स मात्स्यो नाम राजाऽऽसीद् धार्मिकस्सत्यसङ्गरः॥८०॥
 
@@ -11332,8 +10614,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 दृष्ट्वैव स च तां धीमांश् चकमे चारुदर्शनाम्॥८७॥
 
 विद्वांस्तां वासवीं कन्यां कार्यवान् मुनिपुङ्गवः।
-
-
 
 संभवं चिन्तयित्वा तां ज्ञात्वा प्रोवाच शक्तिजः॥८८॥
 
@@ -11370,8 +10650,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^484]: "1. क-ख-ग—पद इति विख्याताः"
 
-
-
 तेषां त्वं मानसी कन्या अच्छोदा नाम विश्रुता॥९५॥
 
 अच्छोदं नाम तद्दिव्यं सरो यस्मात्समुत्थितम्॥९६॥
@@ -11398,8 +10676,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ततः प्रसादयामास स्वान्पितृृन्दीनया गिरा।  
 त ऊचुः पितरः कन्यां भ्रष्टैश्वर्यां व्यतिक्रमात् ॥१०३॥
-
-
 
 भ्रष्टैश्वर्या स्वदोषेण तप्यसे त्वं शुचिस्मिते॥१०३॥
 
@@ -11433,8 +10709,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवमुक्ता पुरा तैस्त्वं जाता सत्यवती शुभा॥११२॥
 
-
-
 अद्रिकेत्यभिविख्याता ब्रह्मशापाद्वराप्सराः।  
 मीनभावमनुप्राप्ता त्वां जनित्वा गता दिवम्॥११३॥
 
@@ -11465,8 +10739,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एतत्संचिन्त्य भगवन् विधत्स्व यदनन्तरम्॥१२०॥
 
 एवमुक्तवतीं तां तु प्रीतिमानृषिसत्तमः ।
-
-
 
 उवाच मत्प्रियं कृत्वा पुनः कन्या भविष्यसि॥१२१॥
 
@@ -11500,8 +10772,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 स्वस्तीति वचनं चोक्त्वा ददौ कलशमुत्तमम् ।  
 गृहीत्वा कलशं पार्श्वेतस्थौ व्यासो महामुनिः॥१२९॥
-
-
 
 श्वेतपट्टगृहे रम्ये पर्यङ्के सोत्तरच्छदे ।  
 तूष्णींभूतां तदा कन्यां ज्वलन्तीं योगतेजसा॥
@@ -11544,8 +10814,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 गान्धर्वेण विवाहेन न स्पृशामि यहच्छया ।  
 क्रियाहीनं तु गान्धर्वं न कर्तव्यमनापदि ॥
-
-
 
 यदस्यां जायते पुत्रो वेदव्यासो भवेदृषिः ।  
 क्रियाहीनः कथं विप्रो भवेदृषिरुदारधीः॥
@@ -11591,8 +10859,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 जलपूर्णघटेश्चैव सर्वतः परिशोभितम्॥
 
 तस्य मध्ये प्रतिष्ठाप्य बृस्यां मुनिवरं तदा।
-
-
 
 सिद्धार्थयवकल्कैश्चस्नातं सर्वौषधैरपि ॥
 
@@ -11640,8 +10906,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 दक्षिणाबन्धसंयुक्ता योगिनः प्रपतन्ति ते ।
 
-
-
 ततो दाशभयात्पत्नी स्नात्वा कन्या बभूव सा ।  
 अभिवाद्य मुनेः पादौ पुत्रं जग्राह पाणिना॥१३०॥
 
@@ -11649,8 +10913,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मम पित्रा तु संस्पर्शान्मातस्त्वमभवशुचिः॥१३१॥
 
 अद्य दाशसुता कन्या न स्पृशेर्मामनिन्दिते॥ १३१॥
-
-
 
 वैशंपायनः—
 
@@ -11690,8 +10952,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पराशरे कृतोद्वाहे देवास्सर्षिगणास्तदा ।  
 हृष्टा जग्मुः क्षणादेव वेदव्यासो भवत्विति॥
 
-
-
 मनुष्यभावात्सा योषित् पतिता मुनिपादयोः॥१३२॥
 
 ततः प्रसन्नो भगवान् पुत्रं प्रोवाच धर्मवित्॥ १३३॥
@@ -11722,8 +10982,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 वेदव्यास इति प्रोक्तः पुराणे च स्वयंभुवा ।  
 धर्मनेता महर्षीणां मनुष्याणां त्वमेव च॥ १४०॥
-
-
 
 तस्मात्पुत्र न दूष्येत वासवी योगचारिणी ।  
 मप्रीत्यर्थं महाप्राज्ञ सस्नेहं वक्तुमर्हसि॥१४१॥
@@ -11756,8 +11014,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एवमुक्तस्ततस्स्त्रेहाद् व्यासो मातरमब्रवीत् ॥ १४८॥  
 त्वया स्पृष्टः परिष्वक्तो मूर्ध्नि चाघ्रायितो मुहुः ।
 
-
-
 एतावन्मात्रया प्रीता भविष्येथा नृपात्मजे॥१४९
 
 स्मृतोऽहं दर्शयिष्यामि कृत्येष्विति च सोऽब्रवीत्॥ १४९॥
@@ -11789,8 +11045,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सुमन्तुं जैमिनिं पैलं शुकं चैव स्वमात्मजम्॥ १५७॥
 
 प्रभुर्वरिष्ठो वरदो वैशंपायनमेव च ।
-
-
 
 वेदानध्यापयामास महाभारतपञ्चमान्॥ १५८॥
 
@@ -11830,8 +11084,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥६॥ आदिवंशावतारणपर्वणि पञ्चमोऽध्यायः ॥५॥  
 \[अस्मिन्नध्याये १६५॥ श्लोकाः\]
 
-
-
 ॥ चतुःपञ्चाशत्तमोऽध्यायः ॥
 
 ![](../books_images/U-IMG-1707805484Screenshot2024-01-09183043.png)
@@ -11864,8 +11116,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 संजयो मुनिकल्पस्तु जज्ञे सूतो गवल्गणात् ।  
 सूर्याच्च कुन्त्यां कन्यायां जज्ञे कर्णो महारथः॥७॥
 
-
-
 सहजं कवचं बिभ्रत् कुण्डलद्योतिताननः॥७॥
 
 अनुग्रहार्थं लोकानां विष्णुर्लोकनमस्कृतः ।  
@@ -11897,8 +11147,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 गौतमान्मिथुनं जज्ञे शरस्तम्बाच्छरद्वतः॥१६॥
 
-
-
 अश्वत्थाम्नश्च जननी कृपश्चैव महारथः॥१६॥
 
 अश्वत्थामा ततो जज्ञे द्रोणादस्त्रभृतां वरः ।  
@@ -11927,8 +11175,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 धर्माद्युधिष्ठिरो जज्ञे मारुतात्तु वृकोदरः ।  
 इन्द्राद्धनंजयो जज्ञे सर्वशस्त्रविशारदः॥२५॥
 
-
-
 जज्ञाते रूपसंपन्नावश्विभ्यां तु यमावपि।  
 नकुलस्सहदेवश्च गुरुशुश्रूषणे रतौ॥२६॥
 
@@ -11954,8 +11200,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 राज्ञां शतसहस्राणि योत्स्यमानानि संयुगे॥३३॥
 
 तेषामपरिमेयानि नामधेयानि सर्वशः ।
-
-
 
 न शक्यं परिसंख्यातुं वर्षाणामयुतैरपि॥३४॥
 
@@ -11992,8 +11236,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 त्रिस्सप्तकृत्वः पृथिवीं कृत्वा निःक्षत्रियां पुरा ।  
 जामदग्न्यस्तपस्तेपे महेन्द्रे पर्वतोत्तमे॥४॥
 
-
-
 तदा निःक्षत्रिये लोके भार्गवेण कृते सति ।  
 ब्राह्मणान्क्षत्रिया राजन् गर्भार्थिन्योऽभिचक्रमुः॥ ५॥
 
@@ -12027,8 +11269,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^496]: "क-ख-ग—सागरोपान्तां"
 
-
-
 प्रशासति पुनः क्षत्रे धर्मेणेमां वसुन्धराम् ।  
 ब्राह्मणाद्यास्ततो वर्णा लेभिरे मुदमुत्तमाम्॥१४॥
 
@@ -12055,8 +11295,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 फेनपांश्च तथा वत्सान् न दुहन्ति स्म मानवाः ।  
 न कूटमानैर्वणिजः पण्यं विक्रीणते तदा॥२२॥
-
-
 
 कर्माणि च नरव्याघ्र धर्मोपेतानि मानवाः ।  
 धर्ममेवानुपश्यन्तश् चक्रुर्धर्मपरायणाः॥२३॥
@@ -12092,8 +11330,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 क्रव्यादेषु च भूतेषु गजेषु च मृगेषु च॥३१॥
 
 [^500]: "4. क-ख-ग—मानुषेषु च"
-
-
 
 जातैरिह महीपाल जायमानैश्च तैर्मही ।  
 न शशाकात्मनात्मानम् इयं धारयितुं तदा॥३२॥
@@ -12131,8 +11367,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ततो मही महीपाल भारार्ता भयपीडिता ।
 
-
-
 जगाम शरणं देवं सर्व लोकपिता[^506]महम्॥४०॥
 
 [^506]: "क-ख-ग—भूत"
@@ -12169,8 +11403,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 उत्तिष्ठ गच्छ वसुधे स्वस्थानमिति साऽगमत् ।  
 इत्युक्त्वा स महीं देवो ब्रह्मा राजन्विसृज्य च॥४८॥
 
-
-
 आदिदेश तदा सर्वान् विबुधान्भूतकृत्स्वयम्॥ ४८॥
 
 अस्या भूमेर्निरसितुं भारं भागैः पृथक्पृथक् ।  
@@ -12204,8 +11436,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ![](../books_images/U-IMG-1707806806Screenshot2023-12-26160236.png)
 
-
-
 ॥षट्पञ्चाशत्तमोऽध्यायः ॥
 
 ![](../books_images/U-IMG-1707813193Screenshot2023-09-06222342.png)
@@ -12236,8 +11466,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 दानवानां च ये मुख्यास् तथा भुजगरक्षसाम् ।  
 ये तान् बलस्थान् वाल्येऽपि जघ्नुर्भरतसत्तम॥६॥
-
-
 
 जनमेजयः—
 
@@ -12271,8 +11499,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अदित्यां द्वादशादित्यास् संभूता भुवनेश्वराः।  
 ये राजन्नामतस्तांस्ते कीर्तयिष्यामि भारत॥ १४॥
 
-
-
 धाता मित्रोऽर्यमा शक्रोवरुणस्त्वंश एव च ।  
 भगो विवस्वान् पूषा च सविता दशमस्तथा॥१५॥
 
@@ -12302,8 +11528,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तथा गगनमूर्धा च वेगवान् केतुमांश्च यः॥२३॥
 
 स्वर्भानुरश्वोऽश्वपतिर् वृषपर्वाऽङ्गजस्तथा॥२३॥
-
-
 
 अश्वग्रीवश्च सूक्ष्मश्च गुल्गुण्डश्च महाबलः ।  
 खस्रवश्चैकवित्तश्च विरूपाक्षो महासुरः॥२४॥
@@ -12336,8 +11560,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 कालायाः प्रथिताः पुत्राः कालकल्पाः प्रहारिणः ।  
 भुवि ख्याता महावीर्या दानवेषु परन्तप॥३३॥
 
-
-
 विनाशनश्च क्रोधश्च क्रोधहन्ता च वीर्यवान् ।  
 विवर्धनश्च क्रोधश्च कालकेया महासुराः॥३४॥
 
@@ -12368,8 +11590,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पुत्रवानर्कवर्णश्च पृथुगश्चापि विश्रुतः ।  
 भीमश्चित्ररथश्चैव विख्यातस्सर्वविद्वशी॥४२॥
 
-
-
 तथा गाधिशिरा राजन् धृष्टद्युम्नश्चतुर्दशः ।  
 कलः पञ्चदशश्चैव नारदश्चैव षोडशः॥४३॥
 
@@ -12399,8 +11619,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^516]: "1. क-ख-ग—जानी बाहुश्चविख्याता हाहा हूहुः पुनस्तथा । तुम्बुरुश्चैव चत्वारस् स्मृता गन्धर्वसत्तमाः ॥"
 
-
-
 अमृतं ब्राह्मणा गावोगन्धर्वाप्सरसस्तथा ।  
 अपत्यं कपिलायास्तु पुराणे परिकीर्तितम्॥५२॥
 
@@ -12422,8 +11640,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि षट्पञ्चाशत्तमोऽध्यायः ॥५६॥  
 ॥७॥ संभवपर्वणि प्रथमोऽध्यायः ॥१॥  
 \[ अस्मिन्नध्याये ५६ श्लोकाः\]
-
-
 
 ॥सप्तपञ्चाशत्तमोऽध्यायः॥
 
@@ -12455,8 +11671,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 राक्षसाश्च पुलस्त्यस्य वानराः किन्नरास्तथा ।  
 पुलहस्य मृगास्सिंहाः व्याघ्रा यक्षा महामृगाः॥७॥
 
-
-
 क्रतोःक्रतुसमाः पुत्राः पतङ्गसहचारिणः ।  
 विश्रुतास्त्रिषु लोकेषु सत्यव्रतपरायणाः॥८॥
 
@@ -12485,8 +11699,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 पितामहान्मुनिर्देवस् तस्य पुत्रः प्रजापतिः ।  
 तस्याष्टौ वसवः पुत्रास् तेषां वक्ष्यामि विस्तरम्॥२६॥
-
-
 
 धरो ध्रुवश्चन्द्रमाश्च आपश्चैवानिलोऽनलः ।  
 प्रत्यूषश्च प्रभासश्च वसवोऽष्टाविति स्मृताः॥१७॥
@@ -12518,8 +11730,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अनिलस्य शिवा भार्या तस्याः पुत्रः पुरोजयः ।  
 अविज्ञातगतिश्चैव द्वौ पुत्रावनिलस्य तु॥२५॥
 
-
-
 प्रत्यूषसो विदुः पुत्र ऋषिर्नाम्ना तु देवलः।  
 द्वौ पुत्रौदेवलस्यापि क्षमावन्तौ मनीषिणौ॥२६॥
 
@@ -12548,8 +11758,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 नन्दी तु भार्या हर्षस्य यत्र लोकाः प्रतिष्ठिताः॥३४॥
 
 मरीचेः काश्यपः पुत्रः काश्यपस्य सुरासुराः।
-
-
 
 जज्ञिरे नृपशार्दूल लोकानां प्रभवस्तु सः॥३५॥
 
@@ -12581,8 +11789,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 त्रैलोक्यप्राणयात्रार्थं वर्षावर्षे नयानये ।  
 स्वयंभुवा नियुक्तस्सन् भुवनं परिधावति॥ ४३॥
-
-
 
 योगाचार्यो महाविद्यो दैत्यानामभवद्गुरुः।  
 सुराणामहिते युक्तो ब्रह्मचारी यतव्रतः॥४४॥
@@ -12616,8 +11822,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तयोस्तु भगिनी ज्येष्ठा लक्ष्मीः पद्मगृहा शुभा॥ ५२॥
 
-
-
 तस्यास्तु मानसाः पुत्रा वचसा व्योमचारिणः॥५३॥
 
 वरुणस्य भार्या ज्येष्ठाऽभूच्छुक्रादेवी व्यजायत ।  
@@ -12647,8 +11851,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 क्रौञ्चौतु सुषुवे क्रौञ्चान्भासी भासान् व्वजायत॥६०॥
 
-
-
 धृतराष्ट्री तु हंसांश्च कलहंसांश्च सर्वशः ।  
 चक्रवाकांश्च भद्रं ते विजज्ञे भरतर्षभ॥६१॥
 
@@ -12677,8 +11879,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 दिशागजं तु श्वेताक्षं श्वेताऽजनयदाशुगम्॥६९॥
 
 तथा दुहितरौ राजन् सुरभिर्वैव्यजायत ।
-
-
 
 रोहिणीं चैव भद्रं ते गन्धवीं तु यशस्विनीम्॥ ७०॥
 
@@ -12717,8 +11917,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 इत्येष सर्वभूतानां महतां मनुजाधिप ।  
 संभवः कीर्तितस्सम्यक् पूतो भवति पापतः॥७९॥
 
-
-
 यं श्रुत्वा पुरुषस्सम्यक् सर्वपापात्प्रमुच्यते ।  
 सर्वज्ञतां च लभते रतिमग्र्यां च विन्दति॥८०॥
 
@@ -12754,8 +11952,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 प्रथमं दानवांश्चैतांस् तेऽद्यवक्ष्यामि सर्वशः॥४॥
 
-
-
 विप्रचित्तिरिति ख्यातो य आसीद्दानवर्षभः ।  
 जरासन्ध इति ख्यातस् स आसीन्मनुजर्षभः॥५॥
 
@@ -12787,8 +11983,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 केतुमानिति विख्यातो यस्ततोऽन्यः प्रतापवान् ।  
 अमितौजा इति ख्यातस् स जज्ञे मनुजर्षभ॥१३॥
 
-
-
 स्वर्भानुरिति विख्यातश् श्रीमान् यस्तु महासुरः।  
 उग्रसेन इति ख्यातस् सोग्रकर्मा नराधिप॥ १४॥
 
@@ -12819,8 +12013,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 स्वस्रवो नाम यस्तेषाम् असुराणां पुरोगमः।
 
-
-
 रिपुजिन्नाम राजर्षिर् बभूव भुवि विश्रुतः॥२२॥
 
 एकचक्रइति ख्यातो य आसीच्चमहासुरः।  
@@ -12850,8 +12042,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 कापथस्तु महावीरो बभूव किल योऽसुरः।  
 सुपार्श्व इति विख्यातः क्षितो जज्ञे महीपतिः ॥३०॥
-
-
 
 क्रथस्तु[^534] राजन्नाजर्षिः क्षितौ जज्ञे महासुरः ।  
 पार्वतेय इति ख्यातः काञ्चनाचलसन्निभः॥३१॥
@@ -12884,8 +12074,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 दीर्घजिह्णस्तु कौरव्य य उक्तो दानवर्षभः।  
 काशिराज इति ख्यातःपृथिव्यां प्रथितो नृपः ॥३८॥
-
-
 
 सिंहिका सुषुवे यं तु ग्रहं चन्द्रार्कमर्दनम् ।  
 कथ[^538] इत्यभिविख्यातस् स वभूव नराधिपः॥३९॥
@@ -12925,8 +12113,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वृत्रइत्यभिविख्यातो यस्तु राजन् महासुरः।  
 मणिमान्नाम राजर्षिस् स बभूव नराधिपः॥४६॥
 
-
-
 क्रोधहन्तेति यस्तस्य बभूवावरजोऽसुरः।  
 दण्ड इत्यभिविख्यातस् स बभूव नराधिपः॥४७॥
 
@@ -12958,8 +12144,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 षष्ठस्तु मतिमान्यो वै तेषामासीन्महासुरः।  
 अभिरूप इति ख्यातः क्षितौ राजर्षिसत्तमः॥५५॥
 
-
-
 सप्तमस्तु बभूवैषां प्रवरो यो महासुरः।  
 समुद्रसेनस्तु नृपः ख्यातो[^547] नाम्ना महाबलः॥५६॥
 
@@ -12990,8 +12174,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 क्षेमोग्रतीर्थः कुहकः कलिङ्गेषु नराधिपः।
 
-
-
 मतिमांश्च मनुष्याणाम् ईश्वरश्चातिविक्रमः॥६४॥
 
 गणात्कोधवशादेव राजपूगः क्षिताविह ।  
@@ -13021,8 +12203,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 जज्ञिरे वसवस्त्वष्टौगङ्गायां शन्तनोस्सुताः ।  
 बसिष्ठस्य च शापेन नियोगाद्वासवस्य च॥ ७३॥
-
-
 
 तेषामवरजो भीष्मः कुरूणामभयङ्करः ।  
 मतिमान्वेदविद्वांश्च सर्वभूतभयङ्करः॥७४॥
@@ -13055,8 +12235,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अरिष्टायास्तु यः पुत्रो हंस इत्यभिविश्रुतः ।  
 स गन्धर्वपतिर्जज्ञेकुरुवंशविवर्धनः॥८२॥
 
-
-
 धृतराष्ट्र इति ख्यातः कृष्णद्वैपायनादपि।  
 दीर्घबाहुर्महातेजाः प्रज्ञाचक्षुर्नराधिपः॥८३॥
 
@@ -13087,8 +12265,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अश्विनोस्तु तथैवांशौरूपेणाप्रतिमौ भुवि ।
 
-
-
 नकुलं सहदेवं च सर्वभूतमनोहरौ॥९२॥
 
 यस्सुवर्चा इति ख्यातस् सोमपुत्रः प्रतापवान् ।  
@@ -13116,8 +12292,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तस्य भागः क्षितौ जज्ञे नियोगाद्वासवस्य च ॥१००॥
 
 तानि षोडशदेवीनां सहस्राणि नराधिप।
-
-
 
 बभूवुर्मानुषे लोके नारायणपरिग्रहाः॥ १०१॥
 
@@ -13148,8 +12322,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 धन्यं यशस्यमायुष्यं पुण्यं च विजयावहम्॥१०८॥
 
 इदमंशावतरणं श्रोतव्यमनसूयया॥१०९॥
-
-
 
 अंशावतरणं श्रुत्वा देवगन्धर्वरक्षसाम् ।  
 प्रभवाप्ययवित् प्राज्ञो न कृच्छेष्ववसीदति॥११०॥
@@ -13189,8 +12361,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 प्रवीरश्शतगर्ज्यौ च त्रयः पुत्रा महाबलाः ।  
 पुरोः पौप्यामजायन्त प्रवीरन्तस्य वंशभाक्॥
-
-
 
 नमस्युरभवत्तस्माच् छ्वरश्शैब्यसुतस्ततः ।  
 पृथिव्यां सागरान्तायां राजा राजीवलोचनः ॥५॥
@@ -13236,8 +12406,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 दुष्यन्ताल्लक्षणायांतु जज्ञे वैजनमेजयः ।
 
-
-
 इमं तु भूय इच्छामि कुरूणां वंशमादितः ।  
 कथ्यमानं त्वया ब्रह्मन् विप्रर्षिगणसन्निधौ॥२॥
 
@@ -13273,8 +12441,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ॥इति संभवपर्वणि चतुर्थोऽध्यायः॥
 
-
-
 सहस्रसङ्ख्यायान्सहितान् दक्षपुत्रांश्च नारदः।  
 मोक्षमध्यापयामास येन[^552] स्युरजररामराः॥१०॥
 
@@ -13303,8 +12469,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 वेनं व्रस्नुंनरिष्यन्तं नाभागेक्ष्वाकुमेव च ।  
 करूशमथ शय्यातिं तथैवात्राष्टमीमिलाम्॥१८॥
-
-
 
 वृषस्रं[^553]नवमं प्राहुः क्षत्रधर्मपरायणान्।  
 तथैवारिष्टदशमान् मनोः पुत्रान्महाबलान्॥१९॥
@@ -13338,8 +12502,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^554]: "क–ख–ग–पुत्रा जज्ञिरेऽथैलादायुर्धीमानमावसुः ।"
 
-
-
 महायुश्च शतायुश्च सुतायु[^555]श्चोर्वशीसुताः॥२७॥
 
 [^555]: "1. क-ख-ग—श्रु"
@@ -13370,8 +12532,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अतिशक्त्या पितृृनर्चन् देवांश्च प्रयतस्सदा ।  
 अन्वगृहात्प्रजास्सर्वा ययातिरपराजितः ॥३५॥
 
-
-
 तस्य पुत्रा महेष्वासास् सर्वैस्समुदिता गुणैः ।  
 देवयान्यां महाराज शर्मिष्ठायां च जज्ञिरे॥३६॥
 
@@ -13400,8 +12560,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 कामार्थः परिहीनो वै तप्येऽहं तेन पुत्रकाः॥४३॥
 
 मामकेन शरीरेण राज्यमेकः प्रशास्तु वः।
-
-
 
 अहं[^557] त्वभिनववयोयुक्तः काममवाप्नुयाम्॥४४॥
 
@@ -13432,8 +12590,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 नालमेकस्य तत्सर्वम् इति मत्वाशमं व्रजेत्॥५२॥
 
 यदा न कुरुते भावं सर्वभूतेषु पापकम् ।
-
-
 
 कर्मणा मनसा वाचा ब्रह्म संपद्यते तदा॥ ५३॥
 
@@ -13470,8 +12626,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ययातिः पूर्वजोऽस्माकं दशमो यः प्रजापतेः ।  
 कथं स शुक्रतनयां लेभेपरमदुर्लभाम् ॥१॥
 
-
-
 एतदिच्छाम्यहं श्रोतुं वदतो[^558] द्विजसत्तम ।  
 आनुपूर्व्येण ये चान्ये राजानो वंशधारिणः॥२॥
 
@@ -13503,8 +12657,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न हि वेद स तां विद्यां यां काव्यो वेत्ति बीर्यवान् ।
 
-
-
 सञ्जीविनीं ततो देवा विषादमगमन् परम्॥१०॥
 
 ते देवास्तु भयोद्विग्नाःकाव्यादौशनसात्तदा ।  
@@ -13534,8 +12686,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ऋषेरङ्गिरसः पौत्रः पुत्रश्चाहंबृहस्पतेः।  
 नाम्नाकच इति ख्यातं शिष्यं गृह्णातु मां भवान्॥१९॥
-
-
 
 ब्रह्मचर्यंचरिष्यामि त्वत्समीपे यदात्थमाम् ।  
 अनुमन्यस्व मां ब्रह्मन् सहस्रं परिवत्सरम्॥२०॥
@@ -13570,8 +12720,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^560]: "क-ख-ग—न्तं चैव शुल्कं च(श्लक्ष्णं च
 
-
-
 नार्यो नरं कामयन्ते रूपिणं स्रग्विणं तथा॥२७॥
 
 पञ्चवर्षशतान्येवं कचस्य चरतोव्रतम् ।  
@@ -13604,8 +12752,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततस्संजीविनीं विद्यां प्रयुज्य कच्चमाह्वयत्॥३४॥
 
 भित्त्वा भित्त्वा शरीराणि वृकाणां स विनिष्पतत्॥ ३५॥
-
-
 
 आहूतः प्रादुरभवत् कचो हृष्टोऽथ विद्यया ।  
 हतोऽहमिति चाचष्ट पृष्ठो भार्गवकन्यया॥३६॥
@@ -13642,8 +12788,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 विप्रेण पुनराहूतो विद्यया ब्राह्मणेन सः ।
 
-
-
 पुनरागम्य तद्वृत्तं न्यवेदयत तत्तथा॥४३॥
 
 देवयानी पुनस्तं तु कदाचिद्वन्यमाहर।  
@@ -13670,8 +12814,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तन्मा शुचोमा रुदो देवयानि  
   न त्यादृशी मर्त्यमनुप्रशोचेत् ।
-
-
 
 सुराश्च विश्वे च जगच्चसर्वम्  
   उपस्थितां वैकृतिमामनन्ति॥४९॥
@@ -13704,8 +12846,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 संचोदितो देवयान्या महर्षिः पुनराह्वयत्।
 
-
-
 संरभ्मेणैव काव्यो हि बृहस्पतिसुतं कचम्॥५४॥
 
 कचोऽपि राजन् स महानुभावो  
@@ -13737,8 +12877,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 असुरैस्सुरायां भवतोऽस्मि दत्तो  
   हत्वा दग्ध्वा चूर्णयित्वा च काव्य ।
 
-
-
 ब्राह्मीं मायामासुरी त्वद्य माया  
   त्वयि स्थिते कथमेवातिवर्तेत्॥ ५९॥
 
@@ -13765,8 +12903,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न निवर्तेत्पुनर्जीवन् कश्चिदन्यो ममोदरात् ।  
 ब्राह्मणं बर्जयित्वैव तस्माद्विद्यामबाप्नुहि॥६३॥
-
-
 
 पुत्रो भूत्वा भावय भावितो माम्  
   अस्मच्छरीरादुपनिष्क्रम्य तात।  
@@ -13795,8 +12931,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ऋतस्य दातारमनुत्तमस्य  
   निधिं निधीनां चतुरन्वयानाम् ।
 
-
-
 ये नाद्रियन्ते गुरुमर्चनीयं  
   पापांलोकांस्ते व्रजन्त्यप्रतिप्राः॥६८॥
 
@@ -13823,8 +12957,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मया चेमां विप्रधर्मोक्तसीमां  
   मर्यादां वे स्थापितां सर्वलोके।
 
-
-
 सन्तो विप्राश्शुश्रुवांसो गुरूणां  
   देवा लोकाश्चापि शृण्वन्तु सर्वे॥७२॥
 
@@ -13848,8 +12980,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि षष्टितमोऽध्यायः ॥६०॥  
 ॥७॥संभवपर्वणि पञ्चमोऽध्यायः ॥५॥  
 \[अस्मिध्याये ७६॥श्लोकाः \]
-
-
 
 ॥ एकषष्टितमोऽध्यायः॥
 
@@ -13886,8 +13016,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^569]: "2. क-ख-ग—तरा भार्गवस्य महात्मनः ।"
 
-
-
 त्वं भद्रे धर्मतः[^570] पूज्या गुरुपुत्री मता मम ॥७॥
 
 [^570]: " 1. क ख ग सर्वतः पूज्या गुरुपुति सदा मम । क"
@@ -13920,8 +13048,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मम त्वं भगिनी भद्रे मैवं बोचश्शुभानने।  
 सुखमस्म्युषितो भद्रे न मन्युर्विद्यते मम ॥१५॥
 
-
-
 आपृच्छे त्वां गमिष्यामि शिवमाशंस मे पथि ।  
 विरोधेन धर्मस्य स्मर्तव्योऽहं कथान्तरे ॥१६॥
 
@@ -13942,7 +13068,7 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 गुरुणा चाननुझातो धर्मतः प्रत्रवीम्यहम् ॥१९॥
 
 आर्ष धर्म ब्रुवाणोऽहं देवयानि यथा त्वया ।  
-शप्तोऽस्म्यन[र्हश्शापस्य](http://॑॑# "क–ख–ग–समर्थः पापस्य कामतोऽच") कामतोऽस्मि न धर्मतः ॥२०॥
+शप्तोऽस्म्यन[र्हश्शापस्य](॑# "क–ख–ग–समर्थः पापस्य कामतोऽच") कामतोऽस्मि न धर्मतः ॥२०॥
 
 तस्माद्भवत्या यः कामो न तथा स भविष्यति ।  
 ऋषिपुत्रो न ते कश्चिद् द्विजः पाणि महीष्यति ॥२१॥
@@ -13953,8 +13079,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 **वैशंपायनः—**
 
 एवमुक्त्या द्विजश्रेष्ठो देवयानी कचस्तदा ।
-
-
 
 त्रिदशेशालयं शीघ्रं जगाम द्विजसत्तमः॥२३॥
 
@@ -13987,9 +13111,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 कचादधीत्य तो विद्यां कृतार्था भरतर्षभ ॥१॥
 
 ततो देवास्समागम्य शतक्रतुमयाब्रुवन् ।  
-कालस्ते विक्रमस्या[यं](http://॑# "क–ख–ग–जहि भन्नून पुरन्दर")यथा श्रेष्ठो भविष्यसि॥२॥
+कालस्ते विक्रमस्यायं[^1339]यथा श्रेष्ठो भविष्यसि॥२॥
 
-
+[^1339]: "क–ख–ग–जहि भन्नून पुरन्दर"
 
 एवमुतस्तु भगवान्[^573] सह तैस्विदिवेश्वरः ।  
 तथेत्युक्त्वापचक्राम सोऽपश्यत बने स्त्रियः ॥३॥
@@ -14025,8 +13149,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स्तुवतो दुहिता त्वं वै यात्रतः प्रतिगृह्णतः ।  
 सुताहं स्नूयमानस्य ददतोऽप्रतिगृह्णतः ॥१०॥
 
-
-
 आधून्त्रस्व विधून्वस्व द्रुह्य कुष्य च या किल।  
 अनायुधा सायुधाया रिक्ता क्षुभ्यसि भिक्षुकी ॥११॥
 
@@ -14056,8 +13178,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तामपृच्छत्स दृष्ट्वैव कन्याममरवर्षसम्।  
 सान्त्वयित्वा नरश्रेष्ठ उवाच परवल्गुना॥१९॥
-
-
 
 ययातिः—
 
@@ -14092,8 +13212,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 स्त्रीचैषा ब्राह्मणी चेति विज्ञायैनां स नाहुषः।
 
-
-
 गृहीत्वा दक्षिणं पाणिम् उज्जहार ततोऽवटात् ॥२७॥
 
 उद्धृत्य चैनां तरसा नस्मात्कूपान्नराधिपः।  
@@ -14126,8 +13244,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 धात्रि स्वमानय क्षिप्रं देवयानी शुचिस्मिताम् ॥३५॥
 
 [^576]: "क–ख–ग–सतश्विरायमाणां तु दुहितारं द्विजोत्तम ।"
-
-
 
 इत्युक्तमात्रे साधात्री त्वरिता हुयितुं गता ॥३५॥
 
@@ -14163,8 +13279,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^581]: "क–ख–ग–त्वरया निर्ययो दुर्गान्मार्गमाणस्सुतां बने ।"
 
-
-
 सोऽनुगत्या पदं दुःखान्मार्गमाणस्सुतां वने ॥४२॥
 
 दृष्ट्वा दुहितरं काव्यो देवयानीं तदा वने ।  
@@ -14196,8 +13310,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 उक्ताप्येवं भृशं क्रुद्धा मां गृप बिजने वने ।
 
-
-
 कूपे प्रक्षेपयामास प्रक्षिप्यैष गृहं ययौ॥५१॥
 
 शुक्रः—
@@ -14227,8 +13339,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 मम विद्या हि निर्द्वन्द्वा ऐश्वर्य हि फलं मम।  
 दैन्यं शाठ्यं च द्वेष्यं च नास्ति मे यदधर्मतः॥१॥
-
-
 
 यो[^583] वै परेषामाकोशान् अतिवादांस्तितिक्षते ।  
 देवयानि विजानीहि तेन सर्वमिदं जितम् ॥२॥
@@ -14262,8 +13372,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यं कुमाराः कुमार्यश्च वैरं कुर्युस्थियोऽपि वा।
 
-
-
 स तैर्वैरं न कुर्वीत विद्यात्तस्य तदा बलम् ॥१०॥
 
 देवयानी—
@@ -14296,8 +13404,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 न हि जात्या हि चण्डालास् स्वकर्मविहितैर्विना ।  
 धनाभिजनविद्यासु सत्ताश्चण्डालधर्मिणः ॥१८॥
 
-
-
 अकारणाद्ये द्विष्यन्ति परिवादं वदन्ते च ।  
 न तत्रास्य निवासोऽस्ति पाप्मभिः पापतां व्रजेत् ॥१९॥
 
@@ -14325,8 +13431,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि लिपष्टितमोऽध्यायः ॥६३॥  
 ॥७॥ संभवपर्वणि अष्टमोऽध्यायः ॥८॥  
 \[अस्मिन्नध्याये २५ श्लोकाः\]
-
-
 
 **॥ चतुष्षष्टितमोऽध्यायः॥**
 
@@ -14358,8 +13462,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सा न कल्पेत वासाय तया वा रहितः कथम् ।  
 वसेयमिह तस्मात्ते त्यजामि विषयं नृप ॥६॥
-
-
 
 संभवपर्व—
 
@@ -14401,8 +13503,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 समुद्रं प्रविश त्वं वा अग्निं प्रज्वलितं तथा ।  
 दुहितुर्नाप्रियं सोढुं शक्तोऽहं दयिता हि मे ॥१५॥
 
-
-
 प्रसाद्यतां देवयानी जीवितं यत्र मे स्थितम् ।  
 प्रसन्ना देवयानी चेत् प्रियं नान्यतरं मम ॥१६॥
 
@@ -14435,8 +13535,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यत्काममभिकामाऽसि देवयानि शुचिस्मिते ।  
 वचेऽहं संप्रदास्यामि यदि चेदपि दुस्त्यजम् ॥२२॥
 
-
-
 देवयानी—
 
 दासीकन्यासहस्रेण शर्मिष्ठामभिकामये ।  
@@ -14468,8 +13566,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततः कन्यासहस्रेण वृता शिबिकया तदा ।  
 पितुर्नियोगात्त्वरिता निश्चक्राम पुरोत्तमात् ॥२९॥
 
-
-
 शर्मिष्टा—
 
 अहं दासीसहस्रेण दासी ते परिचारिका ।  
@@ -14498,8 +13594,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 प्रविशाम पुरं तात तुष्टाऽस्मि द्विजसत्तम ।  
 अमोघं तव विज्ञानम् अस्ति विद्याबलं च ते ॥३५॥
 
-
-
 एवमुक्तो दुहित्रा स भृगुश्रेठो महातपाः ।  
 प्रविवेश पुरं हृष्टः पूजितस्सर्वदानवैः ॥३६॥
 
@@ -14518,8 +13612,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 **वैशंपायनः—**
 
-अथ [दीर्घेण](http://॑# "क–ख–ग– दीर्घस्य कालस्य ") कालेन देवयानी नृपोत्तम ।  
+अथ दीर्घेण[^1340] कालेन देवयानी नृपोत्तम ।  
 वनं तदेव निर्याता क्रीडार्थ वरवर्णिनी ॥१॥
+
+[^1340]: "क–ख–ग– दीर्घस्य कालस्य "
 
 तेन दासीसहस्रेण सार्ध शर्मिष्ठया तदा ।  
 तमेव देशं संप्राप्ता यथाकामं चचार सा॥२॥
@@ -14528,8 +13624,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 क्रीडित्वोपरतास्सर्वाः पिबन्त्यो मधु माण्विकम् ॥३॥
 
 खादन्त्यो विविधान् भक्ष्यान् बिदंशन्त्यः फलानि च ॥ ३॥
-
-
 
 पुनश्च नाहुषो राजा मृगलिप्सुः पिपासया[^589] ।  
 तमेव देशं संप्राप्तो जलार्थी श्रमकर्शितः ॥४॥
@@ -14560,8 +13654,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 आख्यास्याम्यहमादत्व वचनं मे नरोत्तम ।  
 शुक्रो नामासुरगुरुस् सुतां जानीहि तस्य माम् ॥११॥
-
-
 
 इयं च मे सखी दासी यत्राहं तत्र भामिनी ।  
 दुहिता दानवेन्द्रस्य शर्मिष्ठा वृषपर्वणः ॥१२॥
@@ -14595,8 +13687,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ब्रह्मचर्येण सर्वाम् वै सानाम् वेदान् विदाम्यहम् ।  
 राजाऽहं राजपुत्र ययातिरिति विश्रुतः ॥१९॥
-
-
 
 देवयानी—
 
@@ -14640,8 +13730,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 संसृष्टं ब्रह्मणा क्षत्रं क्षत्रं च ब्रह्मसंहितम् ।
 
-
-
 तयोरत्यन्तता नास्ति एकान्तरतमौ हि तौ ॥२६॥
 
 ऋषिस्त्वमृषिपुत्रश्च नाहुषाङ्ग वहस्व माम् ॥२६॥
@@ -14673,8 +13761,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एकमाशीविषो इन्ति शस्त्रमेकं हनिष्यति ।  
 सराष्ट्रं सवलं हन्ति विप्रः कोपेन संयुसः ॥३२॥
-
-
 
 दुराधर्षतरो विप्रस् तस्माद्भीरुमतो मम ॥३३॥
 
@@ -14708,12 +13794,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 नमस्ते देहि मामस्मै लोके नान्यं पतिं वृणे ॥४०॥
 
-
-
 **शुक्रः—**
 
 अन्यो धर्मः प्रियस्त्वन्यो वृतस्ते नाहुषः पतिः ।  
-[वृतो](http://॑# "क–ख–ग–कचशापावया पूर्व नान्यद्भवितुमर्हति । [अधिकः पाठः]") राजन् वृणीष्वेमां महिषी नहुषात्मज ॥४१॥
+वृतो[^1341] राजन् वृणीष्वेमां महिषी नहुषात्मज ॥४१॥
+
+[^1341]: "क–ख–ग–कचशापावया पूर्व नान्यद्भवितुमर्हति । [अधिकः पाठः]"
 
 स्वयं ग्रहे महान्दोपो ब्राह्मण्यां वर्णसंकरात् ।  
 गृहाणेमां मया दत्तां महिपी नहुषात्मज ॥४२॥
@@ -14740,8 +13826,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 **वैशम्पायनः—**
 
 तथेत्युक्त्वा ययातिस्तु तत्सर्वमकरोत्प्रभुः ।
-
-
 
 विवाहं विधिवत्कृत्वा प्रदक्षिणमथाकरोत् ॥४८॥
 
@@ -14777,8 +13861,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 देवयान्या तु सहितो ययातिर्नहुषात्मजः ।  
 प्रीत्या परमया युक्तो मुमुदे शाश्वतीरसमाः ॥४॥
 
-
-
 अशोकवनिकामध्ये देवयानी समागता ।  
 शर्मिष्ठया सा क्रीडित्वा रमणीये मनोरमे ॥५॥
 
@@ -14807,8 +13889,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ऋतुकालश्च मे प्राप्तो न च भर्ताऽस्ति कश्चन ।  
 किं प्राप्तं किं नु कर्तव्यं किं कृत्वा सुकृतं भवेत्॥१३॥
 
-
-
 देवयानी प्रजाताऽसौ यथा संप्राप्तयौवना \।  
 देवयानी पुण्यकृता तस्या भर्ता हि नाहुषः ॥१४॥
 
@@ -14833,13 +13913,13 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तव वा नाहुष कुले कस्वियं प्रद्रुमर्हति ॥२०॥
 
 रूपाभिजनशीलैर्हि त्वं राजन् वेत्थ मां सदा ।  
-त्वां याचे संप्रसाद्याहं [तं](http://॑# "क–ख–ग–सुतं देहि नराधिप ।") तु मे दातुमर्हसि ॥२१॥
+त्वां याचे संप्रसाद्याहं तं[^1342] तु मे दातुमर्हसि ॥२१॥
+
+[^1342]: "क–ख–ग–सुतं देहि नराधिप ।"
 
 ययातिः—
 
 वेशि त्वां शीलसंपन्नां दैत्यकन्यामनिन्दिताम् ।
-
-
 
 रूपेण ते न पश्यामि सूच्यग्रमपि निन्दितम् ॥२२॥
 
@@ -14871,8 +13951,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 राजा प्रमाणं भूतानां विनश्येत मृषा वदन् ।  
 अर्थकृच्छमपि प्राप्य न मिथ्या कर्तुमुत्सहे ॥२८॥
 
-
-
 **शर्मिष्ठा—**
 
 उभौ हि च पती लोके पतिस्सख्याः पतिश्च यः।  
@@ -14902,8 +13980,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 दास्यामि याचते नित्यम् इति मे व्रतमाहितम् ।  
 त्वं च याचसि मां कामं ब्रूहि किं करवाणि ते ॥३६॥
-
-
 
 धनं वा यदि वा किंचिद् राज्यं वाऽपि शुचिस्मिते ॥३७॥
 
@@ -14937,8 +14013,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 समागम्य च शर्मिष्ठां यथा काममवाप्य च ।  
 अन्योन्यं पूजयित्वा तु जग्मतुस्तौ यथागतम् ॥४५॥
 
-
-
 तस्मिन् समागमे सुभ्रुश्शर्मिष्ठा चारुहासिनी ।  
 लेभे गर्म प्रथमतस् तस्माद्वाजर्षिसत्तमात् ॥४६॥
 
@@ -14971,8 +14045,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^600]: "1. क-ग - भ्याशे"
 
 पर्जन्य इव सस्यानां देवानाममृतं यथा ।
-
-
 
 तद्वन्ममापि संभूता शर्मिष्ठा वार्षपर्वणी ॥३॥
 
@@ -15009,8 +14081,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ओजसा तेजसा चैव दीप्यमानं यथा रबिम् ।  
 तं दृष्ट्वा मम संप्रष्टुं शकिर्नासी छुचिस्मिते ॥१०॥
 
-
-
 देवयानी—
 
 यद्येतदेवं शर्मिष्ठे न मन्युर्विद्यते मम ।  
@@ -15041,8 +14111,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 इत्येवं प्रलपन्ती तां देवयानीं तु नाहुषः ।
 
-
-
 भर्त्सयामास वचनैरपापां हर्षवर्धनीम्॥१९॥
 
 ततो वर्षवरान्मूकान पद्भून् वृद्धान् मपिण्डकान् ।  
@@ -15052,7 +14120,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 रेमे च सुचिरं कालं तया शर्मिष्टया सह ॥२१॥
 
 तस्मादेव तु राजर्पेश शर्मिष्ठा वार्षपर्वणी \।  
-[द्रुह्युं](http://॑# "क–ख–ग–शर्मिष्ठाकामुको राजा यदासीत्तव्रताकुलः । मदिराविवशां कृत्वा रेमे शर्मिष्ठयाऽम्वहम् ॥  [अधिकः पाठः] ")चानुं च पकं च त्रीन् कुमारानजीजनत् ॥२२॥
+द्रुह्युं[^1343]चानुं च पकं च त्रीन् कुमारानजीजनत् ॥२२॥
+
+[^1343]: "क–ख–ग–शर्मिष्ठाकामुको राजा यदासीत्तव्रताकुलः । मदिराविवशां कृत्वा रेमे शर्मिष्ठयाऽम्वहम् ॥  [अधिकः पाठः] "
 
 ततः काले तु कस्मिंश्चिद् देवयानी वराङ्गना।  
 ययातिसहिता देवी जगाम प्रमदावनम् ॥२३॥
@@ -15070,8 +14140,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एवं वृष्ट्वा तु राजानं कुमारान् प्राप्य पृच्छति ॥२६॥
 
 तस्मिन्काले तु तच्छ्रुत्वा धात्री तेषां वचोऽप्रवीत् ॥ २६॥
-
-
 
 किं न ब्रूत कुमारा वः पितरं वै द्विजर्षभम् ॥२७॥
 
@@ -15105,8 +14173,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 श्रुत्वा तेषां तु बालानां प्रणयं पार्थिवं प्रति।
 
-
-
 लव्ध्वा तु तत्त्वतो देवी शर्मिठामिदमब्रवीत् ॥३५॥
 
 दृष्ट्वा तु तेषां बालानां सीड इव पार्थिवः।  
@@ -15137,8 +14203,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 त्वस्पित्रा मम गुरुणा सह दत्ते उभे शुभे ।  
 तब भर्ता व पूज्या पोष्यां पोषयतीह माम् ॥४३॥
-
-
 
 एवं श्रुत्वा ततो वाक्यं देवयान्यब्रवीदिदम् ॥४३॥
 
@@ -15171,8 +14235,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 त्रयोऽस्यां जनिताः पुत्रा राज्ञा तेन ययातिना ।
 
-
-
 दुर्भगाया मम द्वौ तु पुत्रौ तात ब्रवीमि ते ॥५२॥
 
 धर्मिष्त्र इति विख्यात एष राजा कुरूद्वह \।  
@@ -15204,8 +14266,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 इत्येतानि समीक्ष्याहं कारणानि भृगूद्वह ।  
 अधर्मभयसंविग्नः शर्मिष्ठामुपजग्मिवान् ॥५९॥
 
-
-
 शुक्रः—
 
 न त्वहं प्रत्यवेक्ष्यस्ते मय्यधीनोऽसि पार्थिव।  
@@ -15233,8 +14293,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 संक्रामयिष्यसि जरां यथेष्टं नहुषास्मज।  
 मामनुष्याय भाषेन न च पापमवाप्स्यसि ॥६५॥
-
-
 
 वयो दास्यति ते पुत्रो यस्स राजा भविष्यति ।  
 आयुष्मान् कीर्तिमांश्चैव बहुपत्यस्तथैव च ॥६६॥
@@ -15268,8 +14326,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 पूर्ण वर्षसहस्रे तु पुनस्ते यौवनं त्यहम् ।  
 दत्त्वा स्वं प्रतिपत्स्यामि पाप्मानं जरया सह ॥४॥
-
-
 
 यदुः—
 
@@ -15305,8 +14361,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यो मे त्वं हृदयाजातो वयस्स्वं न प्रयच्छसि ।
 
-
-
 तुर्वशो[^602] त्वं प्रियं कामं नैतत्सम्पत्स्यसे क्वचित् ॥११॥
 
 [^602]: "क–ख–ग–यत्रोडुप्लव सन्तारास्तत्र नित्यं भविष्यसि । [अधिकः पाठः]"
@@ -15339,8 +14393,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 जीर्णशिशुबदाइत्ते कालेऽन्न मशुचिर्यथा ।  
 न जुहोति च कालेऽग्निं न बुध्यति च कालतः ॥१७॥
 
-
-
 न च कृत्यं करोत्येष तां जरां नाभिकामये ॥१८॥
 
 **ययातिः—**
@@ -15369,8 +14421,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यो मे त्वं हृदयाजातो वयस्स्वं न प्रयच्छसि ।  
 हस्त्यश्वरथमुख्यानाम् अध्वा न स्यात्कदाचन ॥२४॥
 
-
-
 हस्तिनां पीठकानां वा गर्दभानां तथैव च ।  
 उष्ट्राणां च गवां चैत्र शिविकायास्तथैव च ॥२५॥
 
@@ -15379,10 +14429,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 **वैशम्पायनः**—
 
-प्रत्याख्यातश्चतुर्भिस्तु [शपित्वा](http://॑# "क–ख–ग– शप्खा ताम्यचदिच्छया") तान् यदृच्छया ।  
+प्रत्याख्यातश्चतुर्भिस्तु शपित्वा[^1344] तान् यदृच्छया ।  
 पुरोस्सकाशमगमज् ज्ञात्वा पुरु्मलिङ्गिनम्[^605] ॥२७॥
 
 [^605]: "क–ख–ग–मकडनम्"
+
+[^1344]: "क–ख–ग– शप्खा ताम्यचदिच्छया"
 
 **ययातिः—**
 
@@ -15406,8 +14458,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 गुरोवें वचनं पुण्यं स्वर्ग्यमायुष्करं नृणाम् ।  
 गुरुप्रसादात् त्रैलोक्यम् अन्वशासच्छतऋतुः ॥३२॥
-
-
 
 गुरोरनुमति प्राप्य सर्वान् कामानवाप्नुयात् ।  
 प्रतिपत्स्यामि ते राजन् पाप्मानं जरया सह ॥३३॥
@@ -15443,8 +14493,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^607]: "क–ख–ग–इव सोऽभवत्"
 
-
-
 प्रीतियुक्तो नृपश्रेष्टश चचार विषयान् प्रियाम् ॥१॥
 
 यथाकामं यथोत्साहं यथाकालं यथासुखम् ।  
@@ -15456,8 +14504,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अतिथी नन्नपानैश्च विशश्च परिपालनैः।  
 आनृशंस्थेन शूद्रांश्च दस्यून्निग्रहणेन च ॥४॥
 
-[धर्मेण](http://॑# "अ–ख–धर्मेण च") स्वप्रजास्सर्वा यथावदनुरञ्जयन्।  
+धर्मेण[^1345] स्वप्रजास्सर्वा यथावदनुरञ्जयन्।  
 ययातिः पालयामास साक्षादिन्द्र इवापरः ॥५॥
+
+[^1345]: "अ–ख–धर्मेण च"
 
 स राजा सिंहविक्रान्तो युवा विषयगोचरः।  
 अविरोधेन धर्मस्य चचार सुखमुत्तमम् ॥६॥
@@ -15473,8 +14523,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यथाकामं यथोत्साहं यथाकालमरिन्दम।  
 सेविता विषयाः पुत्र यौबनेन मया तव॥९॥
 
-
-
 तेजसा तव सत्पुत्र पूर्ण यौवनमुत्तमम् ।  
 पूरो प्रीतोऽस्मि भद्रं ते गृहाणेदं स्वयौवनम् ॥१०॥
 
@@ -15488,7 +14536,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अभिषेक्कामं नृपतिं पूरुं पुत्रं कनीयसम् ।  
 ब्राह्मणप्रमुखाः पौरा इदं वचनमब्रुवन् ॥१३॥  
-
 
 कथंशुक्रस्य नप्तारं देवयान्यास्सुतं प्रभो ।  
 ज्येष्ठं यदुमतिक्रम्य राज्यं पुरोः प्रदास्यसि ॥१४॥
@@ -15506,8 +14553,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 मम ध्येष्ठेन यदुना नियोगो नानुपालितः ।  
 प्रतिकूलः पितुर्यय न स पुनस्सतां मतः ॥१८॥
-
-
 
 मातापित्रोर्वचनकृद्धितश्च विभवस्य च ।  
 स पुत्रः पुत्रवद्यश्च वर्तते पितृमातृषु ॥१९॥
@@ -15533,14 +14578,14 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 भवतोऽनुनयाम्येवं[^609] पूरू राज्येऽभिषिच्यताम् ॥२५॥
 
-[^609]: "क–ख–ग–वेदोक्तं संभवं मह्यम् अनेन हृदयोद्भवम् । तस्य जातमिदं कृत्स्त्रम् आत्मा पुत्र इति श्रुतिः ॥ मम कामरूप च कृतः पूरुणा पितृरूपिणा । शुक्रेण च वरो दत्तः काव्येनोशनमा स्वयम् ॥ पुत्रो यस्त्वानुवर्तेत म राजा पृथिवीपतिः । यो वानुवर्ती पुत्राणां स पुखो दायभाग्भवेत् ॥ [अधिकः पाठः"
-
-
+[^609]: "क–ख–ग–वेदोक्तं संभवं मह्यम् अनेन हृदयोद्भवम् । तस्य जातमिदं कृत्स्त्रम् आत्मा पुत्र इति श्रुतिः ॥ मम कामरूप च कृतः पूरुणा पितृरूपिणा । शुक्रेण च वरो दत्तः काव्येनोशनमा स्वयम् ॥ पुत्रो यस्त्वानुवर्तेत म राजा पृथिवीपतिः । यो वानुवर्ती पुत्राणां स पुखो दायभाग्भवेत् ॥ अधिकः पाठः"
 
 पौराः—
 
-[यः](http://॑# "क–ख–ग–स पुत्रो गुणसंयुको हितकृत्सततं गुरोः ।") पुत्रो गुणसंपन्नो मातापित्रोर्हि तस्सदा ।  
+[यः[^1346] पुत्रो गुणसंपन्नो मातापित्रोर्हि तस्सदा ।  
 सर्वमर्हति कल्याणं कनीयानपि स प्रभो ॥२६॥
+
+[^1346]: "क–ख–ग–स पुत्रो गुणसंयुको हितकृत्सततं गुरोः ।"
 
 वेदे धर्मार्थशास्त्रेषु मुनिभिः कथितं पुरा ॥२७॥
 
@@ -15571,8 +14616,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 पूर्वयायातं समाप्तम्  
 ![](../books_images/U-IMG-1709121985Screenshot2023-12-03164755.png)
-
-
 
 ॥सप्ततितमोऽध्यायः ॥
 
@@ -15607,8 +14650,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तदा सार्धं हि बसुना श्रीमता चाष्टकेन च ।  
 प्रतर्दनेन शिबिना समेत्य किल संसदि ॥७॥
 
-
-
 कारणेन दिवं केन संप्राप्तो द्विजसत्तम॥७॥
 
 सर्वमेतदशेषेण श्रोतुमिच्छामि तत्त्वतः।  
@@ -15638,8 +14679,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 शिलोच्छवृत्तिमादाय शेषान्न कृतभोजनः ॥१५॥
 
 पूर्ण वर्षसहस्रं च एवंवृत्तिरभून्नृपः ॥१६॥
-
-
 
 अव्भक्ष शरदस्त्रिंशद् आसीन्नियतवाङ्मनाः।
 
@@ -15674,8 +14713,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अवसत्पृथिवीपालो दीर्घकालमिति श्रुतः ॥२॥
 
-
-
 स कदाचिनृपश्रेष्ठो ययातिइशक्रमागमत् ।  
 कथान्ते तत्र शक्रेण स पृष्टः पृथिवीपतिः ॥३॥
 
@@ -15706,8 +14743,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 निर्गुणो गुणवन्तं व शत्रैतत्कलिलक्षणम् ।  
 विपरीतं च राजेन्द्र एतेषु कृतलक्षणम्॥१०॥
 
-
-
 ब्राह्मणो वाऽथ राजा वा वैश्यो वा शूद्र एव वा।  
 प्रशस्तेषु प्रसक्ताश्चेत् प्रशस्यन्ते यशस्विनः॥११॥
 
@@ -15736,8 +14771,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ययाऽस्य बाचा पर उद्विजेत  
   न तो बदेदुशत पापलोक्याम् ॥१७॥
 
-
-
 अरुन्तुदं परुषं रूक्षवाचं  
   वाक्कण्टकैर्वितुदन्तं मनुष्यम् ।  
 क्षिप्रंह्यलक्षीर्भजते नरं तं  
@@ -15763,8 +14796,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि एकसप्ततितमोऽध्यायः ॥७१॥  
 ॥७॥ संभवपर्वणि षोडशोऽध्यायः ॥१६॥  
 \[ अस्मिन्नध्याये २२ श्लोकाः\]
-
-
 
 **॥द्विसप्ततितमोऽध्यायः॥  
 ![](../books_images/U-IMG-1709276780Screenshot2023-09-04162120.png)**
@@ -15796,8 +14827,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सुरर्षिगन्धर्षनरबमानान्  
   क्षयं गतो मे यदि शक लोकः ।
 
-
-
 इच्छेयं वै सुरलोकाद्विहीनः  
   सतां समीपे पतितुं देवराज॥४॥
 
@@ -15823,8 +14852,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 दृष्ट्वा च त्वां सूर्यपथात् पतन्तं  
   वैश्वानरार्कद्युतिमप्रमेयम्॥
 
-
-
 किं नु स्विदेतत्पततीति सर्वे  
   वितर्कयन्तः परिमोहितास्स्मः॥८॥
 
@@ -15847,8 +14874,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   सतां सदैवामरराजकल्प ।  
 सुसङ्गतास्स्थावरजङ्गमेशाः  
   प्रतिष्ठितस्त्वं सदृशेषु सत्सु॥१२॥
-
-
 
 प्रभुरभिः प्रतपने भूमिरावपने प्रभुः ।  
 प्रभुस्सूर्यः प्रकाशित्वे सतामभ्यागतः प्रभुः ॥१३॥
@@ -15877,8 +14902,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   तेनाभिवादं भवतां न प्रयुञ्जे ।  
 यो विद्यया तपसा जन्मना वा  
   वृद्धस्स पूज्यो भवति द्विजानाम् ॥
-
-
 
 **अष्टकः—**
 
@@ -15909,8 +14932,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 न जातु हृष्येन्महता धनेन  
   वेदानधीयीत नाईकृतस्स्यात्॥६॥
 
-
-
 नानाभावा बहवां जांवलोके  
   दैवाधीना नष्टचेष्टाधिकाराः।  
 तत्प्राप्येत न विहन्येत धीरो  
@@ -15935,8 +14956,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   सरीसृपा : कृमयोऽथाप्सु मत्स्याः ।  
 तथा इमानस्तृणकाष्ठं च सर्वे  
   दिष्टक्षये स्वां प्रकृतिं भजन्ति ॥११॥
-
-
 
 अनित्यतां सुखदुःखस्य मत्वा  
   बुद्ध्या कस्मादष्टक संपतेयम् ।  
@@ -15963,14 +14982,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 राजाऽहमासमिह सार्वभौमस्-  
   ततो लोकान् महतोऽहं जयेयम्॥
 
-
-
 तत्रावसं वर्षसहस्रमात्रं  
   ततो लोकमपरमभ्युपेतः ॥
 
 ततः पुरी पुरुहूतस्य रम्यां  
   सहस्रद्वारां शतयोजनान्ताम् !  
-[अध्य](http://॒॑॑॑# "क-ख-ग- अध्यावसं")वसं वर्षसहस्रमात्रं  
+[अध्य](॒॑॑# "क-ख-ग- अध्यावसं")वसं वर्षसहस्रमात्रं  
   ततो लोकमपरमभ्युपेतः ॥
 
 ततो दिव्यमजरं प्राप्य लोकं  
@@ -15987,8 +15004,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   संवत्सराणामयुतं शतानाम् ।  
 सहाप्सरोभिर्विहरन् पुण्यगन्धान्  
   पश्यन्नगान् पुष्पितामान् सुरूपान् ॥
-
-
 
 तत्रस्थं मां देव सुखेषु सक्तं  
   कालेऽतीते महति ततोऽतिमात्रम् ।  
@@ -16015,8 +15030,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥ ७॥ संभवपर्वणि अष्टादशोऽध्यायः ॥१८॥  
 \[अस्मिन्नध्याये २३॥श्लोकाः।\]  
 ![](../books_images/U-IMG-1709278304Screenshot2023-12-03164755.png)
-
-
 
 **॥चतुस्सप्ततितमोऽध्यायः ॥**  
 ![](../books_images/U-IMG-1709278474Screenshot2023-06-13143438.png)
@@ -16046,8 +15059,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 के वा विशिष्टाः कस्य धामोपयान्ति  
   तन्मे ब्रूहि क्षेत्रवित् त्वं मतो मे॥ ३॥
 
-
-
 **ययातिः—**
 
 इमं भौमं नरकं ते पतन्ति  
@@ -16075,8 +15086,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   नावेक्षन्ते वर्षपूगाननेकान् ॥७॥
 
 [^610]: "क–ख–ग–ब्राह्मणा जम्भमाणाः"
-
-
 
 षष्टिं सहस्राणि पतन्ति व्योम्नः  
   तथाऽशीतिं घोपरिवत्सराणि ।  
@@ -16107,8 +15116,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अन्यो हि वैनं विदधातीह गर्भम्  
   उताहोस्वित् स्वेन कामेन याति ।
 
-
-
 आपद्यमानो नरयोनिमेताम्  
   आचक्ष्व मे संशयात् प्रब्रवीमि॥१२॥
 
@@ -16133,8 +15140,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   त्वचा स्पर्श मनसा देवभावान् ।  
 इत्यष्टकैताम् विहितांश्च विद्धि  
   सहात्मनः प्राणभृतश्शरीरे ॥१६॥
-
-
 
 **अष्टकः—**
 
@@ -16165,8 +15170,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 किंस्वित् कृत्वा लभते तात लोकान्  
   मर्त्यश्रेष्ठांस्तपसा विद्यया च ।
 
-
-
 तन्मे पृष्टश्शंस सर्व यथावच्  
   छुभांल्लोकान् येन गच्छेत् क्रमेण॥२१॥
 
@@ -16191,8 +15194,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   न सन्तापं प्राप्नुयाचा वमानात् ।  
 सं साघवः पूजयन्तीह लोके  
   नासाघवस्साधुबुद्धिं लभन्ते ॥२५॥
-
-
 
 इति दद्यादिति यजेदू इत्यधीयीत मे व्रतम् ।  
 इत्यस्मीति भयान्याहुस् तानि वर्ज्यानि नित्यशः ॥२६॥
@@ -16223,8 +15224,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वानप्रस्थस्सत्पथे सन्निविष्टो  
   कथमेतस्मिन् संप्रति वेदयन्ति ॥
 
-
-
 **ययातिः—**
 
 आहूताध्यायी गुरुकर्मस्वचोद्यः  
@@ -16249,8 +15248,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 राज्या यया चाभिजिताश्च लोका  
   भवन्ति कामाविजितास्सुखाश्च।
-
-
 
 तामेव रात्रिं प्रयतेत विद्वान्  
   अरण्यानित्यो भवितुं यतात्मा॥६॥
@@ -16283,8 +15280,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न ग्राम्यमुपयुञ्जीत य आरण्यो मुनिर्भवेन् ।  
 तथाऽस्य वसतोऽरण्ये प्रामो भवति पृष्ठतः॥११॥
-
-
 
 अनग्निरनिकेतश्च अगोत्रचरणो मुनिः ।  
 कौपीनाच्छादनी चीरी सर्वस्वादुविवर्जितः ॥१२॥
@@ -16319,8 +15314,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 नित्यस्नायी ब्रह्मचारी गृहस्थो बनगो मुनिः ।
 
-
-
 नाधर्ममशनात्प्राप्येत् कथं ब्रूहीह पृच्छते ॥२०॥
 
 **ययातिः—**
@@ -16343,8 +15336,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स्वर्गाच्च्युतस्य ययातेरष्टकादियज्ञभूभिं प्रत्यागमननिमित्त कथनम् ॥१॥ अष्टकप्रतईन योर्ययातिना संवादः॥ २॥  
 ![](../books_images/U-IMG-1709280666Screenshot2024-02-15110726.png)
 
-
-
 **अष्टकः—**
 
 कतरस्त्वेतयोः पूर्व देवानामेति साम्यताम् ।  
@@ -16356,8 +15347,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ग्राम एव वसन्भिक्षुस् तयोः पूर्वतरं गतः ॥२॥
 
 [^615]: "घ — षु संयतः"
-
-
 
 अवाप्य दीर्घमायुस्तु यः प्राप्तो विकृति चरेत् ।  
 तथ्यते यदि तत्कृत्वा चरेत्सोऽन्यत्तपस्तथा॥३॥
@@ -16385,8 +15374,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   प्रवेष्टुमुख गगनाद्विप्रहीणः।  
 विद्वांश्चैवं मसिमानार्यबुद्धिर्  
   ममाभवत्कर्मलोक्यं च सर्वम् ॥७॥
-
-
 
 उक्त्वाऽहं वः प्रपतिष्याम्यनन्तरं  
   त्वरयन्ति मां ब्राह्मणा लोकपालाः॥७॥
@@ -16417,8 +15404,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तांस्ते ददामि मा प्रपत प्रपातं  
   ये मे लोका दिवि राजेन्द्र सन्ति ।
 
-
-
 यद्यन्तरिक्षे यदि वा दिवि श्रित स्  
   तानाक्रमस्व क्षिप्रममित्रसाह॥११॥
 
@@ -16440,14 +15425,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   प्रतर्दनोऽहं यदि मे सन्ति लोकाः।  
 यद्यन्तरिक्षे यदि वा दिवि श्रिताः  
  
-[क्षेत्रज्ञं](http://॑॑# "घ - स तानाक्रमस्व प्रहदाम्यहं ते । घ - कोशे, 15, 16, श्लोकौ न दृश्येते ॥")त्वां तस्य धर्मस्य मन्ये॥१४॥
+[क्षेत्रज्ञं](॑# "घ - स तानाक्रमस्व प्रहदाम्यहं ते । घ - कोशे, 15, 16, श्लोकौ न दृश्येते ॥")त्वां तस्य धर्मस्य मन्ये॥१४॥
 
 **ययातिः—**
 
 ये सन्ति लोका बहवस्ते नरेन्द्र  
   एकैकशरसप्त सप्तैव तानि ।
-
-
 
 मधुच्युतो घृतसिक्ता विशोक स्  
   ते तावन्तस्त्वां प्रतिपालयन्ति ॥१५॥
@@ -16463,8 +15446,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न तुल्यतेजास्सुकृतं कामयत  
   योगक्षेमं पार्थिव पार्थिवस्सन्।  
-[दैवा](http://॑# "घ - दैवादेव आपदः ")देशादापदं प्राप्य विद्वांश्  
+दैवा[^1347]देशादापदं प्राप्य विद्वांश्  
   घरेन्नृशंसं न हि जातु राजा ॥१७॥
+
+[^1347]: "घ - दैवादेव आपदः "
 
 धर्म्य मार्ग घेतग्रानो यशस्यं  
   कुर्यान्नृपो धर्ममवेक्षमाणः।  
@@ -16475,8 +15460,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 कुर्यात्तथा वै न कृतं यदन्यैर्  
   विवित्समानः किमित्रात्र साधु ॥१९॥
-
-
 
 धर्माधर्मो सुविनिश्चित्य सभ्यक्  
   कार्याकार्येष्वप्रमत्तश्चरेद्यः ।  
@@ -16497,8 +15480,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि षट्सप्ततितमोऽध्यायः ॥७६॥  
 ॥७॥ संभवपर्वणि एकविंशोऽध्यायः ॥२१॥  
 \[अस्मिनध्याये २१॥ श्लोकाः\]
-
-
 
 **॥सप्तसप्ततितमोऽध्यायः ॥  
 ![](../books_images/U-IMG-1709282027Screenshot2024-01-09183043.png)**
@@ -16531,8 +15512,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^620]: "क–ख–ग–घ– हस्ते यदि वै न दृष्टः॥"
 
-
-
 **ययातिः—**
 
 न मिथ्याऽहं विक्रयं वै स्मरामि  
@@ -16564,8 +15543,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   मम लोका ये पार्थिवास्तत्र सन्ति।  
 यद्यन्तरिक्षे यदि वा दिवि श्रिताः  
   क्षेत्रहं त्वां तस्य धर्मस्य मन्ये ॥७॥
-
-
 
 **ययातिः—**
 
@@ -16600,8 +15577,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सर्वे प्रदाय भवतो गन्तारो नगरं[^626] वयम् ॥११॥
 
 [^626]: "घ - नरकं"
-
-
 
 **ययातिः—**
 
@@ -16640,8 +15615,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 विद्यां च देवं मतिमानबुद्धिर्  
   मा मा भवस्सत्यानृशंस्यतः ॥ \[अधिकः पाठः\]
 
-
-
 धूमगन्धं वपायास्तु ये जिघ्रन्ति नराधिपाः।  
 विमुक्तपापाः पूतास्ते तत्क्षणेनाभवन्नराः ॥१७॥
 
@@ -16673,8 +15646,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 पूरुं मे भ्रातरं राज्ये समावेश्य दिवं गतः ।
 
-
-
 केनवा कारणेनैव इह प्राप्तो महायशाः ॥२५॥
 
 **वैशंपायनः—**
@@ -16689,7 +15660,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तपसा निर्जिताल्लोकान् प्रतिगृही व मामकान् ॥२७॥
 
 पुत्राणामिव पौत्राणां धर्मादधिगतं धनम् ।  
-स्वार्थमेव वदन्तीह [ऋषयो](http://॑# "घ — मुनयो धर्मपाठकाः") वेदपारगाः ॥२८॥
+स्वार्थमेव वदन्तीह ऋषयो[^1348] वेदपारगाः ॥२८॥
+
+[^1348]: "घ — मुनयो धर्मपाठकाः"
 
 तस्माद्दानेन तपसा अस्माकं दिवमात्रज ॥२८॥
 
@@ -16707,8 +15680,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 भोक्तारः परिवेष्टारः भावितारः पवित्रकाः ॥३२॥
 
 दिवसस्याटमे भागे मन्दीभवति भास्करे ।
-
-
 
 स कालः कुतपो नाम पितॄणां दत्तमक्षयम् ॥३३॥
 
@@ -16748,8 +15719,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तेऽघिरा रथान् सर्वे प्रयाता नृपसत्तमाः ।
 
-
-
 आक्रमन्तो दिवं भाभिर् धर्मेणावृत्य रोदसी॥४०॥
 
 **अष्टकः—**
@@ -16780,8 +15749,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पृच्छामि त्वां नृपते ब्रूहि सत्यं  
   पितासि कस्यासि सुतश्च कस्य।
 
-
-
 कृतं त्वया यश्च न तस्य कर्ता  
   लोके त्वदन्यः क्षत्रियो ब्राह्मणो वा॥४५॥
 
@@ -16808,8 +15775,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
   तथैवाग्निर्ज्वलितो मानुषेषु ।  
 न मे वृथा व्याहृतमेव वाक्यं  
   सत्यं हि सन्तः प्रतिपूजयन्ति ॥४९॥
-
-
 
 सत्येन[^631] लोका मुनयश्च सङ्घाः  
   सत्येन पूज्या इति मे मनोगतम् ॥५०॥
@@ -16853,8 +15818,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पुत्रं ययातेः प्रब्रहि पूरुं धर्मभृतां वरम् ।  
 आनुपूर्येण ये चान्ये पूरोवंशविवर्धनाः॥१॥
 
-
-
 विस्तरेण पुनर्ब्रूहि दौध्यन्तेर्जनमेजयात् ।  
 संबभूव यथा राजा भरतो राजसत्तमः ॥२॥
 
@@ -16888,8 +15851,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यवीयाञ्जनयामास गन्धर्वान्भीमविक्रमान्॥९॥
 
 रुद्राश्वस्य महाबाहोर दशाप्सरसि सूनवः॥९॥
-
-
 
 ऋते[^637]पुरथ कक्षेपुः कृपणेपुश्च वीर्यवान्।  
 स्थण्डिले पुर्जलेपुश्च स्थलेपुश्च महाबलः॥१०॥
@@ -16927,8 +15888,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^642]: "क–ख–ग–घ–प्रपूर्वं"
 
-
-
 तेषां ज्येष्ठो महाराज दुष्यन्तो दुर्जयो युधि ।  
 दुष्यन्ताल्लक्ष्मणायां तु जज्ञे वै जनमेजयः ॥१८॥
 
@@ -16961,8 +15920,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 चतुर्भागं भुवः कृत्स्नं यो भुङ्क्ते मनुजेश्वरः।  
 समुद्रवसनांश्चापि देशान् स समिर्तिजयः ॥
 
-
-
 म्ले[^643]च्छानाटव्यजांश्चापि यो भुङ्क्ते रिपुमर्दनः।  
 रत्नाकरान् समुद्रांश्च चातुर्वर्ण्यजनावृतान् ॥४॥
 
@@ -16994,8 +15951,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वले बिष्णुसमासीत् तेजसा भास्करोपमः।  
 अक्षोभ्यत्वे ऽर्णवसमः सहिष्णुत्वे धरासमः ॥१२॥
 
-
-
 सर्वतस्स महीपालः प्रसन्नपुरराष्ट्रवान्।  
 भूयो धर्मपरैर्भावैर् मुदितं जनमावसत् ॥१३॥
 
@@ -17026,8 +15981,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 द्वेषितस्वनमिश्रश्च क्ष्वेडितास्फोट निस्वनैः।  
 आसीत्किलकिलाशब्दस् तस्मिन्गच्छति पार्थिवे॥४॥
 
-
-
 प्रासादवरशृङ्गस्था वरया नृपशोभया।  
 ददृशुस्तं स्त्रियस्ता नृपमात्मयशस्करम् ॥५॥
 
@@ -17055,8 +16008,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 विषमं पर्वतप्रस्थैर् अइमभिश्च समाचितम् ।  
 निर्जलं निर्मनुष्यं च बहुयोजनमायतम् ॥१३॥
 
-
-
 मृगसङ्घैर्वृतंघोरैर् अन्यैश्चापि वनेचरैः॥१३॥
 
 तद्वनं मनुजव्याघ्रस् सभृत्यबलवाहनः।  
@@ -17074,10 +16025,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तोमरैरसिभिश्चापि गदामुसलकर्पर्णैः।  
 चचार निघ्नन् वै वन्यान् स्वैरचारान वनद्विपान् ॥ १८॥
 
-राज्ञा [चाद्भुत](http://॑# "अ–क–ख–वंशेन") वीर्येण यौधेच समरप्रियैः।  
+राज्ञा चाद्भुत[^1349] वीर्येण यौधेच समरप्रियैः।  
 वध्य[^645]मानं महारण्यं तत्यजुश्च महामृगाः॥१९॥
 
 [^645]: "घ -लोड्य"
+
+[^1349]: "अ–क–ख–वंशेन"
 
 तत्र विद्रुतसङ्घानि हतयूथपतीनि च ।  
 मृगयूथान्यथो भीत्या शब्दं चक्रुरनेकशः॥२०॥
@@ -17087,15 +16040,15 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 क्षुत्पिपासापरीताञ्च श्रान्ताश्च पतिता भुवि ।
 
-
-
 कश्चित्तत्र नरव्याघ्रैर् अभक्ष्यन्त बुभुक्षितैः॥२२॥
 
 कोचिदग्निमथोत्पाद्य समिठ्य च वनेचराः।  
 भक्षयन्ति स्म मांसानि प्रतव्य विधिवत्तदा ॥२३॥
 
-तत्र केचिद्भजा [मात्रा](http://॑# "ग-घ-मत्ता") बलिन शस्त्रविक्षताः।  
+तत्र केचिद्भजा मात्रा[^1350] बलिन शस्त्रविक्षताः।  
 संकुच्याप्रकरान् भीताः प्राइवन्ति स्म वेगिताः ॥२४॥
+
+[^1350]: "ग-घ-मत्ता"
 
 शकुन्मूत्रं सृजन्तश्च क्षरन्तश्शोगिनं बहु।  
 वन्या गजबरास्तत्र ममृदुर्मनुजान बहून ॥२५॥
@@ -17121,8 +16074,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ततो मृगसहस्राणि हत्वा सबलवाहनः ।  
 ततो मेघघनप्रख्यं सिद्धचारणसेवितम्॥१॥
-
-
 
 बनमालोकयामास नगराधोजनद्वये ॥१॥
 
@@ -17151,8 +16102,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सर्व कुसुमै वृक्षैर् अतीव सुखशाबुलम् ॥९॥
 
 मनोरमं महेष्वासो विवेश वनमुत्तमम् ॥१०॥
-
-
 
 मारुतान्दोलि[^646]तास्तत्र द्रुमाः कुसुमशोभिताः ।  
 पृष्पवृष्टिं विचित्रां तु व्यसृजंस्ते पुनः पुनः॥११॥
@@ -17183,8 +16132,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 नदीकच्छवं कान्तम् उच्छ्रितध्वजसभिभम्॥१८॥
 
 प्रेक्षमाणो वनं तत्तु सुप्रहृष्टविहङ्गमम् ।
-
-
 
 आश्रमप्रवरं रम्यं ददर्श च मनोरमम् ॥१९॥
 
@@ -17218,8 +16165,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मत्तवा रणशार्दूलभुजगेन्द्र निषेविताम् ॥२७॥
 
 तस्यास्तीरे भगवतः काश्यपस्य महात्मनः।
-
-
 
 आश्रमप्रवरं पुण्यं महर्षिगणसेवितम् ॥२८॥
 
@@ -17255,8 +16200,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सामात्यो राजलिङ्गानि सोपनीय नराधिपः।
 
-
-
 पुरोहितसहायश्च जगामाश्रममण्डलम् ॥३६॥
 
 दिक्षुस्तत्र तमृषिं तपोराशिमथाध्ययम्।  
@@ -17287,8 +16230,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 संहितामीरयन्ति स्म पदक्रमयुतां तु ते ॥४२॥
 
 शब्द संस्कारसंयुक्तं ब्रुवद्भिर्न्यीय वित्तमैः।
-
-
 
 नादितस्स बभौ श्रीमान् ब्रह्मलोक इवा[^656]परः ॥४३॥
 
@@ -17323,8 +16264,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^658]: "क–ख–घ–स्थामात्मानं"
 
-
-
 तं काश्यपतपोगुप्तम् आश्रमप्रवरं शुभम् ।  
 नातृप्यत्प्रेक्षमाणो वै तपोधनगणैर्युतम् ॥५२॥
 
@@ -17349,8 +16288,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सोऽपश्यमानस्तमृषि शून्यं दृष्ट्वा तमाश्रमम् ।  
 सवाच कोऽत्र इत्युचैर् वनं सन्नादयनिय ॥२॥
-
-
 
 श्रुत्वाऽथ तस्य तं शब्दं कन्या श्रीरिव रूपिणी ।  
 निश्चक्रामाश्रमात्तस्माद् यथा विद्युत् घनान्तरात्॥३॥
@@ -17384,8 +16321,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 राजर्षेर स्मि पुत्रोऽहम् इलिलस्य महात्मनः ।
 
-
-
 दुष्यन्त इति मे नाम सत्यं पुष्करलोचने॥११॥
 
 आगतो[^660]ऽहं महाभागम्[^661] ऋषिं कण्वमुपासितुम् ।  
@@ -17415,8 +16350,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 दर्शनादेव हि शुभे त्वया मेऽपहृतं मनः।  
 स्थितोऽस्म्यमित सौभाग्ये विवश्वास्मि किचन॥१७॥
-
-
 
 शृणु मे नागनासोरु वचनं मत्तकाशिनि॥१८॥
 
@@ -17448,8 +16381,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अस्वतन्त्राऽस्मि राजेन्द्र काश्यपो मे गुरुः पिता ।  
 तमेव प्रार्थय स्वार्थ नायुक्तं कर्तुमर्हसि॥२५॥
-
-
 
 **दुष्यन्तः—**
 
@@ -17490,8 +16421,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^666]: "क–ख–ग–असावादित्यसङ्काशो विश्वामित्रोऽथ कौशिकः । [अधिकः पाठः ]"
 
-
-
 भीतः पुरन्दरस्तस्मान्मेनका मिदमब्रवीत् ॥३३॥
 
 **इन्द्र—**
@@ -17520,8 +16449,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तेजसस्तपसकः कोपस्य च महात्मनः।  
 त्वमध्युद्विजसे यस्य नोद्विजेयमहं कथम् ॥४०॥
-
-
 
 विमोद्य च वसिष्ठं च तस्य पुत्राञ्छशाप ह।  
 क्षत्रे जातश्च यः पूर्व सोऽभवद्राह्मणो बलात्[^668]॥४१॥
@@ -17555,8 +16482,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अन्यानि च महातेजा यज्ञाङ्गान्य सृजत्प्रभुः ।  
 निनाय च तदा स्वर्ग त्रिशकं स महातपाः॥४९॥
 
-
-
 एतान्यन्यानि कर्माणि भृशं देव विभेम्यहम् ।  
 यथा मां न दहेत्क्रुद्धस् तथा पश्य सुरेश्वर॥५०॥
 
@@ -17581,8 +16506,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 भवेष मे मन्मथस्तत्र कार्ये  
   सहायभूतस्तव व प्रसादात् ।
-
-
 
 वनं च वायुस्सुरभिः प्रवापयेत्  
   तस्मिन् काले तमृषि लोभयन्त्याः॥५६॥
@@ -17616,8 +16539,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तथाऽपश्यद्वरागेहा तपसोप्रेण कर्शितम् ।  
 विश्वामित्रं तपस्यन्तं दुर्धर्ष संशितव्रसम्॥२॥
 
-
-
 ततोऽभिवाद्य सा तस्मै प्राक्रीडदृषिसन्निधौ ।  
 अपोवाह च वासोऽस्या मारुतश्शशिसंनिभम् ॥३॥
 
@@ -17647,8 +16568,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^673]: "क–ख–ग–घ– प्रसम्मूलफलं मुनिः ।"
 
 पादैर्जलरवं कृत्वा अन्तर्द्वीपे कुटीं गतः।
-
-
 
 मेनका गन्तुकामा वै शुश्राव जलनिस्वनम्॥११॥
 
@@ -17682,8 +16601,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 नेमां हिंस्युर्वने बालां क्रव्यादा मांसगर्धिनः ।  
 इति मत्वा स्म रक्षन्ति शकुन्ता मेनकास्मजाम्॥१९॥
 
-
-
 उपप्रष्टुं गतवाहं तामपश्यमनिन्दिताम्।  
 निर्जने विपिने रम्ये शकुन्तैः परिवारिताम्॥२०॥
 
@@ -17715,8 +16632,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एवं दुहितरं विद्धि मम सौम्य शकुन्तलाम् ।  
 शकुन्तला चपितरं मन्यते मामनिन्दिता॥२७॥
 
-
-
 **शकुन्तला—**
 
 एतदाघष्ट्र भगवान् मम जन्म महर्षये ।  
@@ -17747,8 +16662,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 नानापत्तनजैशुभैर् मणिरमैच शोभनेः ॥२॥
 
 आहरामि तवाद्याहं निष्कादीन्यमितानि च ॥२॥
-
-
 
 सर्व राज्यं तत्राद्य त्वं भार्या मे भव शोभने॥३॥
 
@@ -17786,8 +16699,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^678]: " घ-मम्युना प्रन्ति ते शत्रून् वज्रेणेन्द्र इवासुरान् ।"
 
-
-
 क्रोधितो मन्युना हन्ति वज्रपाणिरिवासुरान् ॥१०॥
 
 **दुष्यन्तः—**
@@ -17821,8 +16732,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^681]: " क–ख–ग–घ–अन्येन"
 
-
-
 पृथग्वा यदि वा मिश्रौ कर्तव्यो नात्र संशयः॥१७॥
 
 सा त्वं मम सकामस्य सकामा भव शोभने ।  
@@ -17855,8 +16764,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 लोकापवादशान्त्यर्थ विवाह विधिना कुरु।  
 सन्त्यत्र यज्ञपात्राणि वर्भास्सुमनसोऽक्षताः॥२५॥
-
-
 
 यथा युक्तो विवाहस्स्यात् तथा युक्ता प्रजा भवेत्॥२५॥
 
@@ -17893,8 +16800,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 प्रेषयिष्ये तवार्थाय वाहिनी चतुरङ्गिणीम्॥३२॥
 
-
-
 त्रयीवि[^684]वृद्वैस्साहिता नागरा मामकैस्सह।  
 शिबिकासहस्रैस्सहिता वनमायान्ति बान्धवाः ॥३३॥
 
@@ -17923,8 +16828,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 इति तस्याः प्रतिश्रुत्य स नृपो जनमेजय ।  
 मनसा चिन्तयन् प्रायात् काश्यपं प्रति पार्थिवः ॥४०॥
-
-
 
 भगवांस्तपसा युक्तश् श्रुत्वा किं नु करिष्यति ।  
 तं न प्रसाद्यागतोऽहं प्रसीदेति द्विजोत्तमम्॥४१॥
@@ -17957,8 +16860,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सतः प्रक्षाल्य पादौ सा विश्रान्तं पुनरब्रवीत् ।  
 निघाय कामं तस्यर्षेः कन्दानि च फलानि च ॥४९॥
 
-
-
 ततस्संवाह्य पादौ सा विश्रान्तं वेदिमध्यगा।  
 शकुन्तला पौरवाणां दुष्यन्तं जग्मुषी पतिम्॥५०॥
 
@@ -17990,8 +16891,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पुंसा सह समायोगो न स धर्मोपघातकः॥५६॥
 
 न भयं विद्यते भद्रे मा शुद्धस्सुकृतं कृतम्॥५७॥
-
-
 
 क्षत्रियस्य तु गान्धर्वो विवाहइश्रेष्ठ उच्यते ।  
 सकामायास्सकामेन निमन्व[^685]श्रेष्ठ उच्यते ॥५८॥
@@ -18026,8 +16925,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तस्मै ससचिवाय त्वं प्रसादं कर्तुमर्हसि ॥६५॥
 
-
-
 **वैशंपायनः—**
 
 इत्येवमुक्त्वा मनसा प्रणिधाय मनस्विनी ।  
@@ -18052,14 +16949,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 इत्येवमुक्त्या धर्मात्मा तां विशुद्वयर्थमस्पृशत्।  
 स्पृष्टमात्रे शरीरे तु परं हर्षमवाप सा॥६९॥
 
-
-
 इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
 आदिपर्वणि चतुरशीतितमोऽध्यायः ॥८४॥  
 ॥७॥ संभवपर्वणि एकोनत्रिंशोऽध्यायः ॥२९॥  
 \[अस्मिन्नध्याये ६९॥श्लोकाः\]
-
-
 
 **॥ पञ्चाशीतितमोऽध्यायः ॥  
 ![](../books_images/U-IMG-1709541204Screenshot2024-01-09130841.png)**
@@ -18094,8 +16987,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 शृणु भद्रे लोकवृत्तं श्रुत्वा यद्रोचते तव ।
 
-
-
 तत्कुरुष्व हितं देवि नावमान्यं गुरोर्वचः ॥६॥
 
 देवानां दैवतं विष्णुर् विप्राणामग्निरेव च ।  
@@ -18128,8 +17019,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 बलं तेजय रूपं च न समं भुवि केन चित् ।  
 आहर्ता वाजिमेधस्य शतसङ्गन्यस्य पौरखः॥१३॥
-
-
 
 अनेकानि सहस्राणि राजसूयादिभिर्मखैः।  
 स्वार्थ ब्राह्मणसात्कृत्वा दक्षिणाममितां ददत् ॥१४॥
@@ -18165,13 +17054,13 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 व्याघ्रान् सिंहान् वराहांश्च वृकांश्च महिषांस्तथा ।  
 ऋक्षांश्चाभ्यहनव्यालान पद्भ्यामाश्रमपीडकान् ॥२२॥
 
-
-
 गजान् भुजाभ्यां संगृह्य बलवान् संनियम्य च ।  
 बढ़ा वृक्षेषु दौष्यन्तिर् आश्रमस्य समन्ततः ॥२३॥
 
-[आरोह](http://॑# "क–ख–ग–आरुराहे द्रुमांश्चैव क्रीडंश्च । घ- आरूढं दमयंसेव क्रारंभ ।  ")द्दमयंश्चैव क्रीडन् स्म परिधावति ।  
+आरोह[^1351]द्दमयंश्चैव क्रीडन् स्म परिधावति ।  
 वनं च लोडयामास सिंहव्याघ्रगणैर्वृतम् ॥२४॥
+
+[^1351]: "क–ख–ग–आरुराहे द्रुमांश्चैव क्रीडंश्च । घ- आरूढं दमयंसेव क्रारंभ ।  "
 
 तता राक्षसान् सर्वान् पिशाचांश्च रिपून् रणे ।  
 मुष्टियुद्धेन ता[^696] झिवा ऋषीनाराधयत्तदा ॥२५॥
@@ -18196,8 +17085,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तं दृष्ट्वाविस्मय चक्रुः कुमारस्य विचेष्टितम् ॥३०॥
 
 [^698]: " घ - निरसुजनुना भूमो पपात भुषि पीडितः ।"
-
-
 
 नित्यकालं वभ्यमाना दैतेया राक्षसैस्सह।  
 कुमारस्य भयादेव नैव जग्मुस्तदाश्रमम् ॥३१॥
@@ -18231,8 +17118,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 पतिशुश्रूषणं पूर्व मनोवाकायचेष्टितैः।
 
-
-
 अनुज्ञाता मया पूर्व पूजयैतद्व्रतं तव॥३९॥
 
 एतेनैव[^699] च वृत्तेन विशिष्टां लस्य से श्रियम्॥४०॥
@@ -18265,8 +17150,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तस्याप्रमहिषी चैषा तव माता शुचित्रता॥४६॥
 
 गन्तुकामा भर्तृवशं त्वया सह सुमुध्यमा।
-
-
 
 गत्वाऽभिवाद्य राजानं यौवराज्यमवाप्स्यसि॥४७॥
 
@@ -18302,8 +17185,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तस्य तद्वचनं श्रुत्वा प्ररुरोद शकुन्तला ।
 
-
-
 स्नेहात् पितुश्च पुत्रस्य हर्षशोकसमन्विता॥५४
 
 निशाम्य रोदनं मातुर दौष्यन्तिर्वाक्यमत्रवीत्॥५४॥
@@ -18337,8 +17218,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवं बिलपत कण्वश चानुनीय च हेतुभिः ।  
 पुनः प्रोषाच भगवान् आनृशंस्याद्धितं वचः॥६१॥
-
-
 
 **कण्वः—**
 
@@ -18374,8 +17253,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 शकुन्तलामिमां शीघ्रम् इहास्मानर्तुरन्तिकम् ।  
 भर्तुः प्रापयत स्थानं सर्वलक्षणपूजितम्॥६९॥
 
-
-
 नारीणां घिरवासो हि बान्धवेषु न रोचते ।  
 कीर्तिचारित्रधर्मघ्नस् तस्मान्नयत मा चिरम् ॥७०॥
 
@@ -18405,8 +17282,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 फलमूलाशिनो दान्तान् कृशान् धमनिसंततान् ॥७७॥
 
 प्रतिनो जटिलान् मुण्डान् वल्कलजिनसंवृताम् ।
-
-
 
 समाहूय मुनीन् कण्वः कारुण्यादिदमब्रवीत् ॥७८॥
 
@@ -18441,8 +17316,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 गृहत्विा चामरप्रख्यं पुत्रं कमललोचनम् ।  
 आजग्मुच पुरं शुभ्रं दुष्यन्ताध्युषितं वनात् ॥८६॥
 
-
-
 शकुन्तलां समादाय मुनयो धर्मवत्सलाः।  
 ते वनानि नदीइशैलान् गिरिप्रस्रवणानि च ॥८७॥
 
@@ -18473,8 +17346,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 वर्णाश्र मै स्वधर्मस्थैर् नित्योत्सवसमाहितैः।  
 धनधान्यसमृद्धैव संतुष्प्रै रत्नपूजितैः ॥९४॥
-
-
 
 ऋतुयुक्तैश्च विद्वद्भिर् अग्निहोत्र परैस्सदो।  
 अकार्य[^709]वर्जितैश्चैव दानशीलैर्दयापरैः ॥९५॥
@@ -18509,8 +17380,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अस्मिंस्तु दिवसे पुत्रो युवराजो भविष्यति॥१०२॥
 
-
-
 **वैशम्पायनः—**
 
 वर्धमानपुरद्वारं तूर्यघोपनिनादितम् ।  
@@ -18543,8 +17412,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ये केचिदब्रुवन्मूढाः शाकुन्तलदिदृक्षवः ।
 
-
-
 कृष्णाजिनेन संछन्नान् द्रष्टुं नेच्छन्ति तापसान्॥१०९॥
 
 पिशाचा इव दृश्यन्ते नागराणां विरूपिणः ।  
@@ -18572,8 +17439,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि पञ्चाशीतितमोऽध्यायः ॥४५॥  
 ॥७॥ संभवपर्वणि त्रिंशोऽध्यायः ॥३०॥  
 \[अस्मिन्नध्याये ११६॥ श्लोकाः\]
-
-
 
 **॥षडशीतितमोऽध्यायः ॥**
 
@@ -18607,8 +17472,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पद्मपत्रविशालाक्षी सप्तजाम्बूनदप्रभाम् ।  
 करान्तमितमध्यां तां सुकेशी संहतस्तनीम् ॥६॥
 
-
-
 जघनं सुविशालं वै ऊरू करिकरोपमौ ।  
 रक्ततुङ्ग[^714]तलौ पादौ धरण्यां सुप्रतिष्ठितौ॥७॥
 
@@ -18639,8 +17502,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 वेश्मद्वारं समासाद्य विह्वलन्ती नृपात्मजा।  
 चिन्तयामास सहसा कार्यगौरवकारणात्॥१५॥
-
-
 
 लज्जया च परीताङ्गी राजन् राजसमक्षतः।  
 अघृणा किं नु वक्ष्यामि दुष्यन्तं मम कारणात् ॥१६॥
@@ -18674,8 +17535,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 प्रसीदस्व महाराज वक्ष्यामि पुरुषोत्तम॥२४॥
 
-
-
 एष पुत्रो हि ते राजन् मय्युत्पन्नः परंतप।  
 तस्मात्पुत्रस्त्वया राजन् यौवराज्येऽभिषिच्यताम् ॥२५॥
 
@@ -18704,8 +17563,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 विसंज्ञैव च दुःखेन तस्थौ विगतचेतना॥३१॥
 
 संरम्भामर्षताम्राक्षी स्फुरमाणोष्टसंपुटा।
-
-
 
 निर्दहन्तीत्र नेवाभ्यां तिर्यप्राजानमैक्षत॥३२॥
 
@@ -18736,8 +17593,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 मन्यते पापकं कृत्वा न कमिदो मामिति ।
 
-
-
 देवानं विदन्त्येव भूताश्चैव तथापरे॥४०॥
 
 आदित्यचन्द्रावनिलोऽनलश्च  
@@ -18751,7 +17606,7 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 हृदि स्थितः कर्मसाक्षी क्षेत्रज्ञो यस्य तुष्यति॥४२॥
 
 न तुष्यति च यस्यैष पुरुषस्य दुरात्मनः ।  
-तं यमः पापकर्माणं [निर्भर्त्स](http://॑॑॑॑# "क ख ग - तिर्यक्नयति । घ - निर्यातयति")यति दुःकृतम्॥४३॥
+तं यमः पापकर्माणं [निर्भर्त्स](॑॑॑# "क ख ग - तिर्यक्नयति । घ - निर्यातयति")यति दुःकृतम्॥४३॥
 
 योऽवमत्यात्मनात्मानम् अन्यथा प्रतिपद्यते ।  
 न तस्य देवाइ श्रेयांसो यम्यात्मापि न कारणम्॥४४॥
@@ -18764,8 +17619,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यदि मे याचमानाया वचनं न करिष्यसि ।  
 दुप्यन्त ! शतधा त्वद्य मूर्धा ते विफलिष्यति ॥४७॥
-
-
 
 जायां पतिस्संप्रविश्य यदस्यां जायते पुनः।  
 जायाया इति जायात्वं यस्तस्यां[^717] जायते ततः ॥४८॥
@@ -18798,8 +17651,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 कान्तारेष्वपि विश्रामो जनस्याध्वनिकस्य वै  
 यस्सदारस्स विश्वास्यम् तस्माद्दाराः परा गतिः ॥५६॥
 
-
-
 संसरन्तमभिप्रेतं विषमेष्वेकपातिनम् ।  
 भायनान्वेति भर्तारं सततं वै पतिव्रता ॥५७॥
 
@@ -18829,8 +17680,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^720]: "घ–पितॄणां यनि दृश्यन्ते पुत्राणां सम्सतानि वै । तेषां शीला गुणाचारा परवीजस्य संग्रहात् ॥ [अधिकः पाठः]"
 
-
-
 कुलं[^721] ") विनाश्यभर्तॄणां नरकं याति दारुणम् ॥६५॥
 
 [^721]: "क ख-ग- कुलानि यस्य दृश्यन्ते पुत्राणां सन्ततानि च । (अधिकः पाठः
@@ -18840,7 +17689,7 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 द्विषन्ति प्रतिकुर्वन्ति न ते वचनकारिणः ॥६६॥
 
-[न](http://॑॑॑॑॑# "क-ख-ग - न द्वेष्यति पिता पुत्रांस्तस्मादात्मसमो भवेत् । घ-न द्वेष्टि पितरं पुत्रस् तस्मादात्मसुतो भवेत् । ") द्वेष्टीति पिता पुत्रं तस्मादात्मा सुतो भवेत्॥६७॥
+[न](॑॑॑॑# "क-ख-ग - न द्वेष्यति पिता पुत्रांस्तस्मादात्मसमो भवेत् । घ-न द्वेष्टि पितरं पुत्रस् तस्मादात्मसुतो भवेत् । ") द्वेष्टीति पिता पुत्रं तस्मादात्मा सुतो भवेत्॥६७॥
 
 दह्यमाना मनोदुःखैर् व्याधिभिस्तुमुलैर्जनाः।  
 स्वेषु दारेषु तुष्यन्तिधर्मार्तास्सलिलेष्विव॥६८॥
@@ -18848,16 +17697,16 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 विप्रवासकृशा दीना नरामलिनवाससः।  
 तेऽपि स्वदारांस्तुष्यन्ति दरिद्रा धनलाभवत्॥६९॥
 
-[अ](http://॑# "क-ख-ग- सुसंक्रुद्धोऽपि")प्रियोक्तोऽपि दाराणां न ब्रूयादप्रियं वचः।  
+अ[^1352]प्रियोक्तोऽपि दाराणां न ब्रूयादप्रियं वचः।  
 रतिं प्रीतिं च धर्मं च तास्वायत्तमवेक्ष्य च ॥७०॥
+
+[^1352]: "क-ख-ग- सुसंक्रुद्धोऽपि"
 
 आत्मनोऽर्धमिति श्रौतं सारक्षति धनं प्रजाः।  
 शरीरं लोकयात्रां वै धर्मं स्वर्गमृषीन् पितॄन् ॥७१॥
 
 आत्मनो जन्मनः क्षेत्रं पुण्या रामास्सनातनाः।  
 ऋषीणामपि का शक्तिस् स्रष्टुं रामामृते प्रजाः ॥७२॥
-
-
 
 देवानामपि का शक्तिः वेत्तुं संभवमात्मनः।  
 पण्डितस्यापि लोकेषु स्त्रीषु सृष्टिः प्रतिष्ठिता ॥७३॥
@@ -18889,8 +17738,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 शिशुनालिङ्ग्यमानस्य स्पर्शस्सूनोर्यथा सुखः ॥८०॥
 
 [^724]: " घ-तथासुखम्"
-
-
 
 पुत्रस्पर्शात्सुखतरस् स्पर्शो लोके न विद्यते ॥८०॥
 
@@ -18924,8 +17771,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^726]: "क ख ग - पोषितं त्वधीनं मे  घ-पोषणं स्वदधीनं मे"
 
-
-
 तस्मात्त्वं जीव मे पुत्र सुखीव शरदां शतम् ॥८९॥
 
 एको भूत्वा द्विधा भूत इति वादः प्रदृश्यते ।  
@@ -18955,8 +17800,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एवंविधः पिता राजन् मेनका[^727] जननी वरा ।
 
 [^727]: "क- ख- ग- घ - माता मे मेनकाप्सराः ।"
-
-
 
 सा मां हिमवतः पृष्ठे सुषुवे मेनकाऽप्सराः ॥९८॥
 
@@ -18992,8 +17835,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^730]: " घ- अवोचस्त्वाश्रमे वाचः धर्मकामार्थमिश्रिताः ।"
 
-
-
 गान्धर्वेण विवाहेन विधिना[^731] पाणिमग्रहीः ॥१०६॥
 
 [^731]: "अ - फलवन्त्यो वचोऽब्रवीः ।"
@@ -19025,8 +17866,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 क्वमहर्षिस्स चैवोग्रःक्वाप्सरास्सा चमेनका।  
 क्वच त्वमेवं कृपणा तापसीवेषधारिणी ॥११३॥
 
-
-
 अतिकायश्च पुत्रस्ते बालोऽतिबलवानयम् ।  
 कथमल्पेन कालेन सालस्कन्ध इवोद्गतः॥११४॥
 
@@ -19056,8 +17895,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ब्रुवन्ती राजसान्निध्ये गम्यतां यत्र वेच्छसि ॥१२३॥
 
-
-
 सुवर्णमणिमुक्तानि सर्वाण्याभरणानि च ।  
 यद्यदिच्छसि भोगार्थं तापसि ! प्रतिगृह्यताम् ॥१२४॥
 
@@ -19077,10 +17914,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 **शकुन्तला—**
 
-राजन्सर्षपमात्राणि [म](http://॑# "क-ख - ग घ - परच्छिद्राणि")य्यघानि प्रपश्यसि ।  
+राजन्सर्षपमात्राणि म[^1353]य्यघानि प्रपश्यसि ।  
 आत्मनो मे[^733]रुमात्राणि पश्यन्नपि न पश्यसि ॥१॥
 
 [^733]: "क-ख-ग- घ - हस्ति"
+
+[^1353]: "क-ख - ग घ - परच्छिद्राणि"
 
 मेनका त्रिदशेष्वेव त्रिदशाश्चानु मेनकाम् ।  
 ममैवोद्रिच्यते जन्म दुष्यन्त तव जन्मतः ॥२॥
@@ -19089,8 +17928,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आवयोरन्तरं पश्य मेरुसर्षपयोरिव ॥३॥
 
 महेन्द्रस्य कुबेरस्य यमस्य वरुणस्य च ।
-
-
 
 भवनान्यनुसंयामि प्रभावं पश्य मे नृप ॥४॥
 
@@ -19119,8 +17956,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सत्यधर्माच्युतात्पुंसः क्रुद्धादाशीविषादिव \।  
 नास्तिकोऽप्युद्विजत्येव जनः किं पुनरास्तिकः ॥१२॥
-
-
 
 स्वयमुत्पाद्य पुत्रं वै सदृशं योऽवमन्यते ।  
 तस्य देवाशिश्रयं घ्नन्ति तत्रैनं कलिराविशेत् ॥१३॥
@@ -19153,10 +17988,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अभिवाद्यच वृद्धान्हि साधुर्गच्छतिनिर्वृतिम् ।  
 एवं सज्जनमाक्रुश्य मुर्खोभवति निर्वृतः ॥२१॥
 
-
-
 सुखं जीवन्त्यदोषज्ञा मूर्खा दोषानुदर्शिनः।  
-[ये](http://॑# "घ - स्वयं") तु वाच्याः परैस्सन्तः परानाहुस्तथाविधान् ॥२२॥
+ये[^1354] तु वाच्याः परैस्सन्तः परानाहुस्तथाविधान् ॥२२॥
+
+[^1354]: "घ - स्वयं"
 
 अतो हास्यतरं लोके किंचिदन्यन्न विद्यते ॥२२॥
 
@@ -19184,8 +18019,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 उभयं पालय ह्येतन्नानृतं वक्तुमर्हसि।  
 आत्मानं सत्यधर्मो च पालयेथा महीपते ॥२९॥
 
-
-
 नरेन्द्रसिंह कपटं न हि वोढुं त्वमर्हसि ॥२९॥
 
 वरं कूपशताद्वापी वरं वापीशतात्क्रतुः ।  
@@ -19195,7 +18028,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अश्वमेघसहस्राद्धि सत्यमेव विशिष्यते ॥३१॥
 
 सर्ववेदाधिगमनं सर्वतीर्थावगाहनम्।  
-[सत्यं](http://॑# "क ख ग - सत्यस्यैव च राजेन्द्र कलां नार्हति पोडशीम् । घ-सत्यं च वदतो राजन् समं वा स्याद्विशिष्यते ।") च वदतो राजन् समं वा स्यान्न वा समम् ॥ ३२॥
+सत्यं[^1355] च वदतो राजन् समं वा स्यान्न वा समम् ॥ ३२॥
+
+[^1355]: "क ख ग - सत्यस्यैव च राजेन्द्र कलां नार्हति पोडशीम् । घ-सत्यं च वदतो राजन् समं वा स्याद्विशिष्यते ।"
 
 नास्ति सत्यान् परो धर्मो न सत्याद्विद्यते परम् ।  
 न हि तीव्रतरं पापम् अनृतादिह विद्यते ॥३३॥
@@ -19211,8 +18046,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यो न कामान्न च क्रोधान्न द्रोहादभिवर्तते ।  
 अमित्रं वापि मित्रं वा स वा उत्तमपूरुषः॥३७॥
-
-
 
 अनृते चेत् प्रसङ्गस्तेश्रद्दधासि न चेत् स्वयम् ।  
 आत्मना[^739] हतमिच्छामि तादृशे नास्ति सङ्गतं ॥३८॥
@@ -19243,8 +18076,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 असाक्षिणी[^740] मन्दभाग्या गमिष्यामि यथागतम् ॥४६॥
 
 [^740]: " क ख ग - असाक्षी मन्दभाग्याहं"
-
-
 
 **वैशंपायनः—**
 
@@ -19280,8 +18111,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सर्वेभ्यो ह्यङ्गेभ्यस् साक्षादुत्पद्यतेसुतः।  
 आत्मा चैष सुतो नाम तथैष तव पौरव ॥३॥
 
-
-
 आहितं ह्यात्मनाऽऽत्मानं परिरक्ष इमं सुतम् ।  
 अनन्यां स्वां प्रतीक्षस्व मावमंस्थाश्शकुन्तलाम् ॥४॥
 
@@ -19313,8 +18142,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 भर्तव्योऽयं त्वया यस्माद् अस्माकं वचनादपि ।  
 तस्माद्भवत्वयं नाम्नाभरतो नाम ते सुतः ॥११॥
 
-
-
 भरताद्भारती कीर्तिर् येनेदं भारतं कुलम् ।  
 अपरे ये च पूर्वे च भारता इति तेऽभवन् ॥१२॥
 
@@ -19326,8 +18153,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तच्छ्रुत्वा पौरवो वाक्यं व्याहृतं वै दिवौकसाम् ।  
 सिंहासनात् समुत्थाय प्रणम्य च दिवौकसः ॥१४॥
 
-पुरोहितममात्यांश्च [प्रष्टव्या](http://॑# "क-ग-ध- संप्रहृष्टो")नब्रवीदिदम् ॥१४॥  
+पुरोहितममात्यांश्च प्रष्टव्या[^1356]नब्रवीदिदम् ॥१४॥  
 
+[^1356]: "क-ग-ध- संप्रहृष्टो"
 
 **दुष्यन्तः—**
 
@@ -19347,8 +18175,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 हृष्टः प्रमुदितश्चापि प्रतिजग्राह तं सुतम् ॥१८॥
 
 मूर्ध्नि चैनं समाधाय सस्नेहं परिषस्वजे ॥१८॥
-
-
 
 सभाज्यमानो विप्रैश्च स्तूयमानश्च वन्दिभिः।  
 मुदं स परमां लेभे पुत्रस्पर्शनजां नृपः ॥१९॥
@@ -19379,8 +18205,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अनृतं वाप्यनिष्टं वा दुरुक्तं वापि दुष्कृतम्।  
 त्वयाप्येवंविशालाभि क्षन्तव्यं मम दुर्वचः॥२६॥
 
-
-
 क्षान्त्या[^745] पतिकृते नार्यः पातिव्रत्यं व्रजन्ति ताः ॥
 
 [^745]: "क-ख-ग -क्षम्याः पतिकृतं नार्यः घ - गम्याः पतिकृते नार्यः"
@@ -19410,8 +18234,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तव भर्ता विशालाक्षि ! बैलोक्यविजयी भवेत् ॥३४॥
 
 दिव्यान् भोगाननुप्राप्ता भव त्वं वरवर्णिनि ! ॥३४॥
-
-
 
 एवमुक्ता रथन्तर्या परं हर्षमाप सा ॥३५॥
 
@@ -19447,8 +18269,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ईजे च बहुभिर्यज्ञैर् यथा शको मरुत्पतिः।  
 याजयामास तं कण्वो दक्षवदूरदक्षिणम् ॥४३॥
 
-
-
 श्रीमद्गोविततं नाम वाजिमेधमवाप सः।  
 यस्मात् सहस्रं पद्मानां कण्वाय भरतो ददौ ॥४४॥
 
@@ -19480,8 +18300,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^751]: "क ख ग - थः पुलको घ-वितथे पुत्रजन्मनि ।"
 
-
-
 सुहोत्रसुतहोतारौ तथा गर्हतरावुभौ[^752] ॥५१॥
 
 [^752]: " क ख ग - गर्गनरावुभौ घ--गर्गतरावुभौ"
@@ -19507,9 +18325,7 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ऐक्ष्वाक्यां जनयामास सुहोत्रस्त्रीन् सुतान् नृप ।  
 अजमीढं सदामीढं पुरुमीढं च भारत ॥५७॥
 
-[अजमीढो](http://॑॑# "क-ख-ग-अजमीढस्तु राजेन्द्र धर्मनित्यो यशस्सु च । [अधिकः पाठः]") वरस्तेषां तस्मिन् वंशः प्रतिष्ठितः ॥५८॥
-
-
+[अजमीढो](॑# "क-ख-ग-अजमीढस्तु राजेन्द्र धर्मनित्यो यशस्सु च । [अधिकः पाठः]") वरस्तेषां तस्मिन् वंशः प्रतिष्ठितः ॥५८॥
 
 षट्[^753]") पुत्रान् सोऽध्यजनयत् तिसृषु स्त्रीषु भारत ॥५८॥
 
@@ -19538,8 +18354,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 चालयन्तो घृति भीमां जनयन्तो भृशं भयम् ॥६५॥
 
 [^755]: "कम्ब-ग- अम्वकीर्यन्त भरतास्सपश्च महाबलेः ।अधिकः पाठः
-
-
 
 अभ्ययुस्तं च पाश्र्वाला विवृण्वन्तो बलैर्महीम् ।  
 अक्षौहिणीभिर्दशभिस् तदा तं तरसाऽजयन् ॥६६॥
@@ -19570,8 +18384,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवमस्विति तं विप्रो भारतं प्रत्यभाषत ।  
 तमभ्यषिवत्साम्राज्ये सर्वक्षत्रस्य पौरवम् ॥७३॥
-
-
 
 विषाणभूतं सर्वस्यां पृथिव्यामिति नः श्रुतम्।  
 स[^758] पुरं भारतस्सर्पिर अध्यतिष्ठत् पुरातनम् ॥७४॥
@@ -19610,8 +18422,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^761]: "क-ख-ग - शबला श्वादयस्मत तथैवान्ये महाबलाः ।[अधिकः पाठः]"
 
-
-
 जनमेजयादयस्सप्त तथैवान्ये महारथाः।  
 परीक्षितोऽभवन्पुत्रास्सप्त[^762]धर्मार्थकोविदाः॥८३॥
 
@@ -19645,8 +18455,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 भीमसेनान्महेष्वासः प्रतीपस्समपद्यत ॥९०॥
 
-
-
 प्रतीपस्य त्रयः पुत्रा जज्ञिरे भरतर्षभ ॥९०॥
 
 देवापिश्शन्तनुश्चैव बाह्रीकञ्च महायशाः ॥९१॥
@@ -19659,8 +18467,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^766]: "क ख ग - न्वयास्त्वेतेदेवकल्पा घ-न्वये जाताः सरखवन्तो"
 
-[एवंविधाश्चाप्यपरे](http://॑# "क- ख-ग- महाभाग देवरूपाः प्रहारिणः ।") देवकल्पा महारथाः।  
+एवंविधाश्चाप्यपरे[^1357] देवकल्पा महारथाः।  
 अन्ववाये महाराज ऐलवंशविवर्धनाः॥९४॥
+
+[^1357]: "क- ख-ग- महाभाग देवरूपाः प्रहारिणः ।"
 
 गङ्गातीरं समागम्य दीक्षितो जनमेजय।  
 अश्वमेधसहस्राणि वाजपेयशतानि च ॥९५॥
@@ -19677,8 +18487,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 यस्य यूपाइशतव्यामाः परिणाहेऽथ काञ्चनाः ॥९८॥
 
 सहस्रव्याममुदृद्धास् सेन्वेस्समुच्छ्रिताः ॥९९॥
-
-
 
 स्वलकता भ्राजमानास् सर्वरत्नैर्मनोरमैः॥९९॥
 
@@ -19714,8 +18522,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥शकुन्तलोपाख्यानं समाप्तम्॥  
 \[अस्मिन्नध्याये १०५ लोकाः।\]**
 
-
-
 **॥एकोननवतितमोऽध्यायः॥**
 
 **![](../books_images/U-IMG-1708576329Screenshot2024-01-09130841.png)**
@@ -19747,8 +18553,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सोऽपण्यातो भगवता ब्रह्मणा स महाभिषक्।  
 उक्त जातो मर्त्यपु पुनलीकानवाप्स्यसि ॥६॥
 
-
-
 मनुष्येषु चिरं स्थित्वा लोकान् प्राप्स्यसि शोभनान् ॥६॥
 
 यया हृतमनाश्चापिगङ्गया त्वं सुदुर्भते।  
@@ -19776,14 +18580,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^774]: " क-ग-मुखानि न प्रसन्नानि विवर्णानि कृतानि किम् । [अधिकः पाठः]"
 
-
-
 **वैशम्पायनः—**
 
 तामूचुर्वसवो दीनाश् शप्ता वै सुमहानदि।  
 अस्वयंकृतया बुद्ध्या वसिष्ठेन महात्मना ॥१३॥
-
-
 
 वयं हि सहसा सर्वे प्रच्छन्नमृषिसत्तमम् ।  
 सन्ध्यां वसिष्ठमासीनं तमत्यभिसृताः पुरा ॥१४॥
@@ -19819,8 +18619,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवमेव करिष्यामि पुत्रस्तस्य विधीयताम् ॥
 
-
-
 नास्य मोघं भवेत् कर्म पुत्रहेतोः कृतं मया ॥२१॥
 
 **वसवः—**
@@ -19855,8 +18653,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततः प्रतीपो राजाऽऽसीन् सर्वभूतहिते रतः।  
 निषसाद महाबाहुर गङ्गातीरे जितेन्द्रियः ॥१॥
 
-
-
 तस्य रूपगुणोपेता लोभनीयतमाकृतिः ।  
 उत्तीर्य गङ्गा सलिलाइ उद्देशं स्त्री समभ्यगात् ॥२॥
 
@@ -19887,13 +18683,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^775]: "घ-वरस्त्रियम् ।"
 
-
 प्रतीपः—
 
 समयातीतमेतद्वै यन्मां चोदयसि प्रियम् ।  
 अन्यथा प्रतिपनं मां क्षिणुयाद्धर्मविलवः ॥८॥
-
-
 
 प्राप्य दक्षिणमूरु मे त्वमाश्लिष्टा वराङ्गने ।  
 अपत्यानां स्नुषाणां च आसनं विद्धि तच्छुभे ॥९॥
@@ -19923,8 +18716,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवं वसन्ती राजेन्द्र ! वर्धयिष्यामि ते प्रियम् ।  
 पुत्रैः पुण्यैः परं चापि स्वर्ग प्राप्स्यति ते सुतः ॥१६॥
-
-
 
 वैशम्पायनः—
 
@@ -19957,8 +18748,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^778]: "ख ग घ - धार्मिकः ।"
 
-
-
 धनुर्वेदे च वेदे च गतिं स परमां गतः ।  
 यौवनं चापि संप्राप्तः कुमारो वदतां वरः ॥२५॥
 
@@ -19987,10 +18776,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पीनस्कन्धो महाबाहुर् मत्तवारणविक्रमः।  
 अन्वितः परिपूर्णायेंस सर्वैर्नृपतिलक्षणैः ॥३३॥
 
-
-
-[अमर्त्य](http://॑# "क-ख-ग-घ अमात्य")संपदोपेतः क्षत्रधर्मविशेषवित् ।  
+अमर्त्य[^1358]संपदोपेतः क्षत्रधर्मविशेषवित् ।  
 वशे चक्रे महीमेको विजित्य वसुधाधिपान् ॥३४॥
+
+[^1358]: "क-ख-ग-घ अमात्य"
 
 वेदानागमयत् कृत्स्नान् राजधर्माश्च सर्वशः।  
 इजे च बहुभिस्सत्रैः क्रतुभिर्भूरिदक्षिणैः ॥३५॥
@@ -20016,8 +18805,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एवं पशुवराहाणां तथैव मृगपक्षिणाम् ।  
 शन्तनावय राज्यस्थे नावर्तत वृथा वधः ॥४२॥
 
-
-
 असुखानामनाथानां तिर्यग्योनिषु वर्तताम् ।  
 स एव राजा सर्वेषां भूतानामभवत् पिता ॥४३॥
 
@@ -20038,17 +18825,19 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सा च शन्तनुमभ्यागाद् अलक्ष्मीमपकर्षती ॥४८॥
 
-जाज्वल्य मानां वपुषा [साक्षा](http://॑# " क ख ग घ -त्पद्मामिव श्रियम् ।")च्छ्रियमिवापराम्।  
+जाज्वल्य मानां वपुषा साक्षा[^1359]च्छ्रियमिवापराम्।  
 सर्वानवद्यां युवतिं दिव्याभरणभूषिताम् ॥४९॥
+
+[^1359]: " क ख ग घ -त्पद्मामिव श्रियम् ।"
 
 सूक्ष्माम्बरधरां साक्षात् पद्मोदरसमप्रभाम् ।  
 स्नात मात्रामधोवस्त्रां गङ्गातीररुहे वने ॥५०॥
 
 प्रकीर्णकेशी पाणिभ्यां संस्पृशन्ती शिरोरुहान्।
 
+तां[^1360] दृष्ट्वा हृष्टरोमाऽभूद् दर्शनादेव शन्तनुः ॥५१॥
 
-
-[तां](http://॑# "क ख ग - रूपेण वयसा कान्त्या शरीरावयवेन्नथा । हासभावविलासैश्च लोचनाञ्चलविक्रियैः॥ श्रोणीभारेण मध्येन सनाभ्यामुरसा हशा । कबरीभरण पादास्यामिहगितेन स्मितेन च ॥ कोकिलालाप संल्लापककुन्त त्रिलोकगाम् । वाणीं च गिरिजां लक्ष्मी योषितोऽन्यास्सुराङ्गनाः ॥ [अधिकः पाठः]") दृष्ट्वा हृष्टरोमाऽभूद् दर्शनादेव शन्तनुः ॥५१॥
+[^1360]: "क ख ग - रूपेण वयसा कान्त्या शरीरावयवेन्नथा । हासभावविलासैश्च लोचनाञ्चलविक्रियैः॥ श्रोणीभारेण मध्येन सनाभ्यामुरसा हशा । कबरीभरण पादास्यामिहगितेन स्मितेन च ॥ कोकिलालाप संल्लापककुन्त त्रिलोकगाम् । वाणीं च गिरिजां लक्ष्मी योषितोऽन्यास्सुराङ्गनाः ॥ [अधिकः पाठः]"
 
 पिवन्नित्र च नेत्राभ्यां नातृप्यत नराधिपः ॥५२॥
 
@@ -20073,8 +18862,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 देवता किन्नरी वा त्वं गन्धर्वी वा सुमध्यमे ।  
 यक्षी वा मानवी वापि जानीयां कां शुचिस्मिते ॥५७॥
-
-
 
 याऽसि काऽसि सुमध्ये[^782] त्वं महिषी मे भवानघे ! ।  
 स्वगता हि मम प्राणा वसु यन्मेऽस्ति किंचन ॥५८॥
@@ -20105,8 +18892,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवं वै वर्तमाने तू त्वाय वत्स्यामि पार्थिव।  
 वारिता विप्रियं चोक्ता त्यजेयं त्वां नराधिप ॥६५॥
-
-
 
 एष मे समयो राजन् भज मां त्वं यथेप्सितम् ।  
 अनुनीताऽस्मि ते पित्रा भर्ता मे त्वं भव प्रभो॥
@@ -20139,8 +18924,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 संभोगनेहचातुर्यैर् भावलास्यैर्मनोरमैः ।
 
-
-
 राजानं रमयामास यथा रज्येत स प्रभुः ॥७४॥
 
 स राजा रतिसक्तोऽभूद् उत्तमस्त्रीगणैर्वृतः ॥७४॥
@@ -20164,11 +18947,7 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 देवव्रतोत्सर्जनम् ॥ १ ॥  
 ![](../books_images/U-IMG-1708583187Screenshot2024-02-15110726.png)
 
-
-
 **वैशंपायनः—**
-
-
 
 अहोरात्रानृतून् मासान् न बुबोध गतान् बहून् ।  
 रममाणः प्रियां लब्ध्वा यथाकामं नरेश्वरः ॥१॥
@@ -20183,8 +18962,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सूतके कण्ठमाक्रम्य तानिनाय यमक्षयम् ॥४॥
 
 [^784]: "क ख ग घ - स्वास्वप्सु"
-
-
 
 एष मे समयो राजन् भज मां त्वं यथेप्सितम्  
 अनुनीताऽस्मि ते पित्रा भर्ता मे त्वं भव प्रभो ॥६६॥
@@ -20216,8 +18993,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 शन्तनो राजसिंहस्य देवराजसमधुतेः ॥७३॥
 
 संभोगनेचातुर्यैर् भावला स्यैर्मनोरमैः ।
-
-
 
 राजानं रमयामास यथा रज्येत स प्रभुः ॥७४॥
 
@@ -20252,8 +19027,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सूतके कण्ठमाक्रम्य तान्निनाय यमक्षयम् ॥४॥
 
 [^786]: "क ख ग १४ - स्वास्वप्सु"
-
-
 
 वृणोतु[^787] त्वां नदीत्युक्त्वा सर्वान् स्रोतस्यवासृजत् ।
 
@@ -20290,8 +19063,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अहं गङ्गा जह्नुसुता महर्षिगणपावनी।
 
-
-
 देवकार्यार्थसिद्ध्यर्थम् उषिताऽहं त्वया सह ॥१२॥
 
 इमेऽष्टौ वसवोदेवा महाभागा महौजसः।  
@@ -20320,8 +19091,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मत्प्रसादाच्च जानीहि गङ्गादत्तमिमं सुतम् ॥१९॥
 
 तस्मादेवव्रतश्चैव गङ्गादत्तश्च वीर्यवान् ।
-
-
 
 द्विनामा शन्तनोः पुत्रश् शन्तनोरधिको गुणैः ॥२०॥
 
@@ -20358,8 +19127,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवमुक्ता वरारोहा राजानमिदमब्रवीत् ।
 
-
-
 भर्तारं जाह्नवी देवी शन्तनुं पुरुषर्षभ ॥४॥
 
 **गङ्गा—**
@@ -20389,8 +19156,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 रेमिरे रमणीयेषु पर्वतेषु वनेषु च ॥१२॥
 
 एकस्य भार्या राजेन्द्र ! वसोर्वासवविक्रम !।
-
-
 
 तां च दोग्ध्र वने तस्मिन् गां ददर्श सुदर्शनाम् ॥१३॥
 
@@ -20425,8 +19190,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एतच्छ्रुत्वा तु सा देवी नृपोत्तम ! सुमध्यमा।  
 तमुवाचानवद्याङ्गी भर्तारं दीप्ततेजसम् ॥२१॥
 
-
-
 **गङ्गा—**
 
 अस्ति मे मानुषे लोके नरदेवात्मजा सखी ।  
@@ -20456,8 +19219,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तदाश्रमपदं प्राप्तः फलान्यादाय वारुणिः ॥२९॥
 
 नापश्यद्गांसवत्सां तां सा हि तस्मिन् वनोत्तमे।
-
-
 
 स तस्मिन् मृगयामास वने तामृषिसत्तमः ॥३०॥
 
@@ -20490,8 +19251,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 चकार च न तेषां वै प्रसादं भगवानृषिः।
 
-
-
 आपगः पुरुषव्याघ्र ! सर्वधर्मविशारदः ॥३९॥
 
 उवाच च स धर्मात्मा सप्त राजन् धरादिकान्।  
@@ -20520,8 +19279,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अयं शापादृषेस्तस्य एक एव नृपोत्तम !।  
 द्यौ राजन् मानुषे लोके चिरं वत्स्यति भारत ! ॥४७॥
 
-
-
 अयं देवव्रतश्चैव गङ्गादत्तश्च मे सुतः।  
 द्विनामा शन्तनोः पुत्रश् शन्तनोरधिको गुणैः ॥४८॥
 
@@ -20546,8 +19303,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि द्विनवतितमोऽध्यायः ॥९२॥  
 ॥७॥ संभवपर्वणि सप्तत्रिंशोऽध्यायः ॥३७॥  
 \[ अस्मिन्नध्याये ५३॥ श्लोकाः\]
-
-
 
 **॥ त्रिनवतितमोऽध्यायः॥**
 
@@ -20582,8 +19337,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वर्तमानं च सद्धर्मे शमशास्त्रविदांवर।  
 तं महीपा महेष्वासं राजराजमकुर्वत ॥६॥
 
-
-
 तेन कीर्तिमता शिष्टाश् शक्रप्रतिमतेजसा ।  
 यज्ञदानतपशीलासू समपद्यन्त पार्थिवाः ॥७॥
 
@@ -20613,8 +19366,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 चकोरनेत्रस्ताम्रास्यस् सिंहर्षभगतिर्युवा।  
 गुणैरनुपमैर्युक्तस् समस्तैराभिगामिकैः ॥१६॥
 
-
-
 गम्भरिस्सत्वसंपन्नः पूर्णचन्द्रनिभाननः ॥१६॥
 
 देवर्षिपितृयज्ञार्थं बभूवुः पशवोनृणाम्।  
@@ -20642,9 +19393,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सर्वास्त्रेषु च निष्णातः पार्थिवेष्वितरेषु च।  
 महाबलो महासत्वो महावीर्यो महायशाः ॥२३॥
 
-स कदाचिन्मृगान् [बद्ध्वा](http://॑# "3. क ख ग - विद्धा गङ्गाम; घ– निघ्नन् गङ्गाम")वनादनुससार ह।
+स कदाचिन्मृगान् बद्ध्वा[^1361]वनादनुससार ह।
 
-
+[^1361]: "3. क ख ग - विद्धा गङ्गाम; घ– निघ्नन् गङ्गाम"
 
 भागीरथीमल्पजलां ददर्श सरितां वराम् ॥२४॥
 
@@ -20676,8 +19427,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अलङ्कृतामाभरणैर् अरजोवनवासिनीम् ।
 
-
-
 दृष्टपूर्वां[^800] सतीं गङ्गाम् अभ्यजानात्स शन्तनुः ॥३३॥
 
 [^800]: "1. ख ग – शङ्कमानस्सुतं स्वस्थ कर्म तस्यातिमानुषम् ।"
@@ -20703,8 +19452,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 **वैशंपायनः—**
 
 इत्युक्त्वा सा महाभागा तत्रैवान्तरधीयत ॥३८॥
-
-
 
 तयैवं समनुज्ञातः पुत्रमादाय शन्तनुः ।  
 भ्राजमानं यथाऽदित्यम् आययौ स्वपुरं प्रति ॥३९॥
@@ -20741,8 +19488,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स तथा सह पुत्रेण रममाणो महीपतिः ।  
 वर्तयामास वर्षाणि चत्वार्यमितविक्रमः ॥
 
-
-
 स कदाधिद्वनं यातो यमुनामभितो नदीम् ।  
 महीपतिरनिर्देश्यम् अजिघ्रद्गन्धमुत्तमम् ॥२॥
 
@@ -20750,7 +19495,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स ददर्श तदा कन्यां दाशानां देववर्णिनीम् ॥३॥
 
 तामपृच्छत्ततो राजा कन्यामसितलोचनाम् ।  
-कस्य त्वमसि [का](http://॑# "1. क ख ग घ - वा कासि किं च तेह चिकीर्षितम् ।") चासि किं च भीरु चिकीर्षसि ॥४॥
+कस्य त्वमसि का[^1362] चासि किं च भीरु चिकीर्षसि ॥४॥
+
+[^1362]: "1. क ख ग घ - वा कासि किं च तेह चिकीर्षितम् ।"
 
 साऽब्रवीद्दाशकन्याऽस्मि धर्मार्थं वाहये तरिम् ।  
 पितुर्नियोगाद्भद्रं ते दाशराज्ञो महात्मनः ॥५॥
@@ -20772,8 +19519,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सत्यवागसि सत्येन समयं प्रतिपद्यसे ॥९॥
 
 ततो दास्यामि राजेन्द्र तव कन्यामिमां नृप ।
-
-
 
 न हि मे त्वत्समः कश्चिद् वरो जातु भविष्यति ॥१०॥
 
@@ -20808,8 +19553,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तत्किमर्थमिहाभीक्ष्णं परिशोचसि दुःखितः।  
 कस्मान्न भुङ्क्षेराजंस्त्वं न किञ्चिदपि भाषसे ॥१७॥
 
-
-
 न[^804] घाश्वेन च निर्यासि विवर्णो हरिणः कृशः।  
 व्याधिमिच्छामि ते ज्ञातुं प्रतिकुर्यां हि तत्र वै॥१८॥
 
@@ -20842,8 +19585,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 चक्षुरेकं च पुत्रश्च अस्ति नास्ति च भारत ।  
 चक्षुर्नाशे तनोर्नाशः पुत्रनाशे कुलक्षयः ॥२५॥
 
-
-
 अग्निहोत्रं त्रयो वेदा यज्ञाश्च सहदक्षिणाः।  
 सर्वाण्येतान्यपत्यस्य कलां नार्हन्ति षोडशीम् ॥२६॥
 
@@ -20874,12 +19615,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सूतस्तु कुरुमुख्यस्य उपयातस्तदाज्ञया।  
 तमुवाच महाप्राज्ञो भीमो वै सारथिं पितुः ॥३४॥
 
-
-
 **भीष्मः—**
 
-त्वं सारथे पितुर्मह्यं सखाऽसि [रथयुग्यतः](http://॑# "1. क ख ग - सरयूर्गतः । घ - रथधूर्गतः ।")।  
+त्वं सारथे पितुर्मह्यं सखाऽसि रथयुग्यतः[^1363]।  
 अपि जानासि यदि वै कस्यां भावो नृपस्य तु ॥३५॥
+
+[^1363]: "1. क ख ग - सरयूर्गतः । घ - रथधूर्गतः ।"
 
 यथा[^806] वक्ष्यसि मे पृष्टः करिष्ये न तदन्यथा ॥३५॥
 
@@ -20907,8 +19648,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तं दाशः प्रतिजग्राह विधिवत् प्रतिपूज्य च ।  
 अब्रवीचैनमागम्य राजसंसदि भारत ॥४१॥
-
-
 
 उच्चैश्रवाः—
 
@@ -20940,8 +19679,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 भूयांसं त्वयि पश्यामि तदोषमपराजित ॥४९॥
 
 यस्य हि त्वं सपत्नस्स्या गन्धर्वस्यासुरस्य वा ।
-
-
 
 न स जातु सुखं विन्देत् त्वयि क्रुद्धे परन्तप ॥५०॥
 
@@ -20977,8 +19714,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यत् स्वया सत्यमर्थ हि सत्यशील महाबल ।
 
-
-
 राज्ञां मध्ये प्रतिज्ञातम् अनुरूपं तथैव तत् ॥५८॥
 
 अत एव महाबाहो संशयो नात्र विद्यते ॥५९॥
@@ -21011,8 +19746,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न हि जन्मप्रभृत्युकं मम किंचिदिहानृतम् ॥६६॥
 
-
-
 यावत्प्राणा ध्रियन्ते वै मम देहं समाश्रिताः ।  
 तावन्न जनयिष्यामि पित्रे कन्यां प्रयच्छ मे ॥६७॥
 
@@ -21042,8 +19775,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 बभूत्र दुःखितो राजा घिररात्राय भारत ॥७५॥
 
 स तेन कर्मणा सूनोः प्रीतस्तस्मै वरं ददौ ।
-
-
 
 नाकाममरणं तात ! भविष्यति तवेति ह ॥७६॥
 
@@ -21076,8 +19807,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततश्शान्तनवो धीमान् सत्यवत्यामजायत ।  
 पुत्रचित्राङ्गदो नाम बलवीर्यसमन्वितः॥
 
-
-
 तथाऽपरं महेष्वासं सत्यवत्यां पुनस्सुतम् ।  
 विचित्रवीर्य धर्मात्मा जनयामास वीर्यवान् ॥४॥
 
@@ -21108,8 +19837,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 नद्या कूले हिरण्वत्यास् समास्तिस्रोऽभवद्रणम् ॥११॥
 
-
-
 तयोर्बलवतोस्तत्र गन्धर्व कुरुमुख्ययोः ।  
 तस्मिन् विमर्दे तुमुले शस्त्रदृष्टिसमाकुले ॥१२॥
 
@@ -21134,8 +19861,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि पञ्चनवनिमोऽध्यायः ॥९५॥  
 ॥७॥ संभवपर्वणि चत्वारिंशोऽध्यायः ॥४०॥  
 \[अस्मिन्नध्याये १८ श्लोकाः।\]
-
-
 
 **॥ षण्णवतितमोऽध्यायः ॥**
 
@@ -21167,8 +19892,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वङ्गाः पुण्ड्राः कलिङ्गाश्च ते जग्मुस्तां पुरीं प्रति ॥ ६॥
 
 कीर्त्यमानेषु राज्ञां तु नामधेयेषु भारतं।
-
-
 
 एकाकिनं तदा भीष्मं वृद्धं शन्तनुनन्दनम् ॥७॥
 
@@ -21203,8 +19926,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 प्रमत्तामुपयान्त्यन्ये स्वयं गृह्णन्ति चापरे।
 
-
-
 अष्टमं तु मिथोवृत्तं विवाहं कविभिस्स्मृतम् ॥१६॥
 
 स्वयंवरं तु राजन्याः प्रशंसन्त्युपयान्ति च ।  
@@ -21236,8 +19957,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सूतोपकृप्तान सुरढान् सदश्वैरभि चोदिताम्।
 
-
-
 स्थानास्थाय ते वीरास् सर्वोपकरणान्विताः ॥२५॥
 
 प्रयान्तमेकं कौरव्यम् अनुसस्रुरुदायुधाः ॥२५॥
@@ -21268,8 +19987,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अभ्याइनदमेयात्मा भीष्मं शान्तनवं रणे ॥३३॥
 
 कुञ्जरं जघने निघ्नन् दन्ताभ्यामपरो यथा ॥३४॥
-
-
 
 वाशिता समये मत्तो यूथपो बलिनां वरः।  
 स्त्रीकाम तिष्ठतिष्ठति साहस पार्थिवः ॥३५॥
@@ -21305,8 +20022,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अभ्यद्रवत् साल्वपति युद्धाय कुरुपुङ्गवः ॥४३॥
 
-
-
 कवची बद्धनिस्त्रिशस् तलबन्धः प्रतापवान् ।  
 तिष्ठ तिष्ठेति राजानं साल्वं शान्तनवोऽब्रवीत् ॥४४॥
 
@@ -21336,8 +20051,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तदस्त्रंवारुणं सम्यग् योजयामास पार्थिवः।  
 तेनाश्वांश्चतुरोऽमूद्गात्साल्वराजस्य पार्थिवः ॥५२॥
 
-
-
 अस्त्रैरस्त्राणि संवार्य भीष्मस्तस्य परन्तपः।  
 ततो नृपतिशार्दूलो न्यहनत्तस्य सारथिम् ॥५३॥
 
@@ -21360,7 +20073,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तेऽपि स्वान्येव राष्ट्राणि हतशेषाः प्रचक्रमुः ॥५९॥
 
 ते वनानि च रम्याणि शैलांच सरितस्तथा।  
-अतिक्रम्य च राजानसू [स्वं](http://॑# "1. अ-स्वयं राज्यं") स्वं राज्यं प्रचक्रमुः ॥६०॥
+अतिक्रम्य च राजानसू स्वं[^1364] स्वं राज्यं प्रचक्रमुः ॥६०॥
+
+[^1364]: "1. अ-स्वयं राज्यं"
 
 भीष्मस्स्वयंवरे कन्या विजित्य कुरुसत्तमः।  
 वनानि सरितश्चापि शैलांश्च विविधद्ग्रुमान् ॥६१॥
@@ -21368,8 +20083,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अक्षतः क्षपयित्वाऽरीस्[^814] तानसंख्ययविक्रमः।
 
 [^814]: "क–ख–ग–कम्पयित्वा; घ–क्षतयित्वा"
-
-
 
 सोऽचिरेणैव कालेन अतिक्रम्य नराधिपः ॥६२॥
 
@@ -21405,8 +20118,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवमुक्तस्ततो भीष्मः कन्यया विप्रसंसदि ।
 
-
-
 चिन्तामभ्यगमद्वीरो युक्तां तस्यैव कर्मणः ॥७०॥
 
 अन्यसक्ता त्वियं कन्या ज्येष्ठा क्षत्रे मया जिता ॥७१॥
@@ -21429,7 +20140,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 **विचित्रवीर्यः—**
 
-[प्रत्यक्षफल](http://॑# "घ–स पापफल एवैष कामस्साधु निरर्थकः ।") एवैष कामोऽसाधु निरर्थकः ॥७६॥
+प्रत्यक्षफल[^1365] एवैष कामोऽसाधु निरर्थकः ॥७६॥
+
+[^1365]: "घ–स पापफल एवैष कामस्साधु निरर्थकः ।"
 
 परतन्त्रोपभोगे[^815] माम् आर्य नायोकुमईसि ॥७७॥
 
@@ -21438,8 +20151,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 भीष्मः—
 
 प्रतिष्ठितश्शन्तनोवैं तात ! यस्य स्वमन्वयः।
-
-
 
 अकामवृत्तो धर्मात्मा साधु मन्ये मतं तव ॥७८॥
 
@@ -21478,8 +20189,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 निर्जिवासीह भीष्मेण मां विनिर्जित्य राजसु ।
 
-
-
 अन्येन निर्जितां भद्रे विमृष्टां तेन चालयात् ॥८६॥
 
 न गृहामि वरारोहे तत्र चैत्र तु गम्यताम् ॥८६॥
@@ -21515,8 +20224,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवमम्बगमद्वीष्मं षट् समाः पुष्करेक्षणा।\[अधिकः पाठः\]
 
-
-
 भूयस्साल्वं समभ्येत्य राजन् गृह्णीष्व मामिति ॥९१॥
 
 नाहं गृहाम्यन्यजिताम् इति साल्वनिराकृताम् ।  
@@ -21544,8 +20251,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मानयन् राजपुत्रीं तां ददौ तस्यै शुभां स्रजम् ॥९८॥
 
 एषा पुष्करिणी दिव्या यथावत् समुपस्थिता ।
-
-
 
 अम्बे त्वच्छोकशमनी माला भुवि भविष्यति ॥९९॥
 
@@ -21582,8 +20287,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 नाभवच्छरणं कश्चित् क्षत्रियो भीष्मजाद्भयात् ॥३॥
 
-
-
 अगच्छत् सोमकं सा तु पाञ्चालेषु यशस्विनम् ।  
 सत्यसन्धं महेष्वासं सत्यधर्मपरायणम् ॥६॥
 
@@ -21614,14 +20317,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अन्यस्मात् पार्थिवात्ते यद् भयं स्यात् पार्थिवारमजे ।
 
-
-
 तस्यापनयने हेतुं संविधातुमहं प्रभुः ॥१२॥
 
 न हि शान्तनवस्याहं महास्त्रस्य प्रहारिणः ।  
 ईश्वरः क्षत्रियाणां हि बलं धर्मोऽनुवर्तते ॥१३॥
 
-[सा](http://॑#) साधु व्रज कल्यागि ! न नो वैरं प्रसञ्जय ॥१४॥
+[सा](#) साधु व्रज कल्यागि ! न नो वैरं प्रसञ्जय ॥१४॥
 
 एवमेव स्त्रया कार्यम् इति मे प्रतिकाङ्क्षसे ।  
 न तु तम्यान्यथाभावो देवमेतन्न मानुषः ॥१५॥
@@ -21656,8 +20357,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 स्रजं गृहाण कल्याणि न नो वैरं प्रसञ्जय। \[अधिकः पाठः\]
 
-
-
 तां पिता त्वत्यजच्छीघ्रं त्रस्तो भीष्मस्य किल्बिषात् ॥१८॥
 
 इषीकं ब्राह्मणं भीता सा ह्यगच्छत्तपस्विनम् ।  
@@ -21686,8 +20385,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 लब्ध्वा तु महतीं प्रीति याज्ञसेनिर्महायशाः ।  
 ततो बुद्धदकं हत्वा पुनरखाणि सोऽकरोत् ॥२६॥
-
-
 
 तत्र चास्त्राणि दिव्यानि कृत्वा स सुमहामतिः ।  
 स्वदेशमभिसंपेदे पाचालं कुलनन्दनः ॥२७॥
@@ -21720,8 +20417,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ते चापि वनिते साध्ये नीलकुचितमूर्धजे ।
 
-
-
 रक्ततुङ्गनखे श्याभे पीनश्रोणिपयोधरे ॥३॥
 
 आत्मरूपानुरुपो नौ लब्धः पतिरिति स्म ते।  
@@ -21751,8 +20446,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 कृत्वा प्रेतस्य कृत्यानि स्नुषाभ्यां सहिता तदा।  
 माता सत्यवती भीष्मम् उवाच वदनां वरम् ॥११॥
-
-
 
 धर्म च पितृवंशं[^821] च शोभनं परमास्पदम् ।  
 सत्यवत्यभिसंप्रेक्ष्य भीष्मं वचनमब्रवीत् ॥१२॥
@@ -21784,8 +20477,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 मम पुत्रस्तव भ्राता यवीयान् कुलवंशभृत्।  
 बाल एव गतस्स्वर्गम् अपुत्रः पुरुषर्षभ ॥१९॥
-
-
 
 तस्य[^823] देव्यौ भगिन्यौ ते अम्बिकाम्बालिके उभे ।  
 रूपयौवनसंपन्ने पुत्रकामे च भारत ॥२०॥
@@ -21821,8 +20512,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 परित्यजेयं त्रैलोक्यं राज्यं देवेषु वा पुनः ॥२६॥
 
-
-
 यद्वा पधिकमेताभ्यां न तु सत्यं कथश्चन ॥२७॥
 
 त्यजेच पृथिवी गन्धम् अपश्च रसमात्मजम्।  
@@ -21852,8 +20541,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^826]: "क–ख–ग–घ–जानामि त्वयि सर्वज्ञ सत्यं सत्यवतां वर । इच्छन् सृजेथास्त्रीन लोकान् अम्यांच स्वेन तेजसा ॥ जानामि चैव सत्यं तन्मदर्थ यदभाषथाः । [अधिकः पाठः]"
 
 यथा तु नः कुलं चैव लोक न पराभवेत्।
-
-
 
 सुहृदा सकामास्ते तथा त्वं कर्तुमर्हसि ॥  
 आत्मनश्च हितं तात प्रियं च मम भारत ॥३४॥
@@ -21890,8 +20577,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 जामदग्न्येन रामेण निशाम्य वचनं पितुः ।
 
-
-
 पुरा परशुहस्तेन हेह्याधिपतिर्हतः ॥५॥
 
 क्रुद्धेन च महाप्राज्ञे हेहयस्य महात्मनः ।  
@@ -21922,8 +20607,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ममता—
 
 अन्तर्वत्यस्मि ते भ्रात्रा ज्येष्ठेनारम्यतामिति।
-
-
 
 अयं च मे महाभाग कुक्षावेव बृहस्पते ॥१४॥
 
@@ -21956,8 +20639,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 जात्यन्धो वेदवित् प्राज्ञः पत्नी लेभे स्वविद्यया \।  
 तरुणी रूपसंपन्नां प्रद्वेषीं नाम ब्राह्मणीम् ॥२२॥
-
-
 
 ऋषेरुचध्यस्य महान् सन्तानकुलवृद्धये ।  
 स पुत्राञ्जनयामास गौतमादीन् महायशाः ॥२३॥
@@ -21995,8 +20676,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 मृते जीवति वा तस्मिन् न परं प्राप्नुयानरम् ।
 
-
-
 अभिगम्य परं नारी पतिष्यति न संशयः ॥३०॥
 
 अपतीनां तु नारीणाम् अद्यप्रभृति पातकम्।  
@@ -22027,8 +20706,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तं पूजयित्वा राजर्षिर् विभान्तं मुनिमगवीत् ॥३९॥
 
-
-
 राजा—
 
 सन्तानार्थ महाभाग भार्यायां मम मानद ।  
@@ -22046,8 +20723,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 जनयामास धर्मात्मा पुत्रानेकादशैव तु ॥४३॥
 
 कक्षीवदादीन् सर्वास्तान सामान् वेदानघीयतः।  
-[उवाच](http://॑# "क–ख–ग–घ–मुदा च तान् बली राजा दृष्ट्वा कक्षीवदादिकान् । [अधिकः पाठः]") तमृषि राजा ममैत इति वीर्यवान् ॥  
+उवाच[^1366] तमृषि राजा ममैत इति वीर्यवान् ॥  
 नेत्युवाच महर्षिस्तं ममैत इति चात्रवीत् ॥४४॥
+
+[^1366]: "क–ख–ग–घ–मुदा च तान् बली राजा दृष्ट्वा कक्षीवदादिकान् । [अधिकः पाठः]"
 
 शूद्रयोनौ मया हमे जाताः कक्षीवदादयः ॥४५॥
 
@@ -22057,8 +20736,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^828]: "क–ख–ग–घ–प्राहिणोदवमानाम्मे शूद्रां धात्रेयिकां नृप ।"
 
 ततः प्रसादयामास पुनस्तमृषिसत्तमम् ।
-
-
 
 बली सुदेष्णां भार्या च तस्मै तां प्राहिणोत् पुनः॥४७॥
 
@@ -22080,8 +20757,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि एकोनशततमोऽध्याय ॥९९॥  
 ॥७॥ संभवपर्वणि चतुश्चत्वारिंशोऽध्यायः ॥४४॥  
 \[अस्मिन्नध्याये ५० श्लोकाः\]
-
-
 
 **॥शततमोऽध्यायः॥**
 
@@ -22120,12 +20795,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^833]: "क–ख–ग–घ–धर्ममेतं परं"
 
-
-
 भीष्मः—
 
 असंशयं परो धर्मस् त्वया मातः प्रकीर्तितः ।  
-त्वमप्येतां प्रतिज्ञां तु वेत्थ [यापरमा](http://॑# "क–ख–ग–मयि वर्तते") मयि ॥७॥
+त्वमप्येतां प्रतिज्ञां तु वेत्थ यापरमा[^1367] मयि ॥७॥
+
+[^1367]: "क–ख–ग–मयि वर्तते"
 
 जानीषे यत्तदा वृत्तं शुल्कहेतोस्त्वदन्तरे ।  
 तत् सत्यवति सत्यं वै पुनरेव ब्रवीमि ते ॥८॥
@@ -22157,8 +20832,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^836]: "क-ख–ग-तव"
 
-
-
 यथा तु वः कुलं चैव धर्मं[^837] च न पराभवेत्।  
 सुहृदश्च प्रभातास्स्युस्[^838]तथा त्वं कर्तुमर्हसि॥१५॥
 
@@ -22169,7 +20842,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
  भीष्मः-
 
 त्वमेव कुलवृद्धाऽसि गौरवं च परं त्वयि।  
-सोपायं कुलसन्ताने [वक्तु](http://॑# "घ—वेत्तुं")मर्हसि नः परम्॥१६॥
+सोपायं कुलसन्ताने वक्तु[^1368]मर्हसि नः परम्॥१६॥
+
+[^1368]: "घ—वेत्तुं"
 
 स्त्रियो हि परमं गुह्यं धारयन्ति कुले[^839]कुले॥१६॥
 
@@ -22201,8 +20876,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥७॥ संभवपर्वणि पञ्चचत्वारिंशोऽध्यायः॥ ४५॥  
 \[अस्मिन्नध्याये २० श्लोकाः\]
 
-
-
 **॥एकोत्तरशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1708673322Screenshot2024-01-09190011.png)**
 
@@ -22221,7 +20894,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 त्वमेव नः कुले धर्मस् त्वं सत्यं त्वं गतिः प्रभो ।  
 यत् त्वं वक्ष्यसि तत्कार्यम् अस्माभिरिति मे मतिः॥२॥
 
-तस्मान्निशम्य वाक्यं मे [वद](http://॑# "क ख ग घ —बु")त्वं यदनन्तरम्॥३॥
+तस्मान्निशम्य वाक्यं मे वद[^1369]त्वं यदनन्तरम्॥३॥
+
+[^1369]: "क ख ग घ —बु"
 
 शृणु भीष्म वचो मह्यं धर्मार्थसहितं हितम् ।  
 न च विस्रम्भकथितं भवान् सूचितुमर्हति॥४॥
@@ -22231,8 +20906,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 मातरं मे जलाद्धृत्वा दाशः परमधर्मवित् ।  
 मां तु स्वगृहमानीय दुहितृत्वे ह्यकल्पयत्॥६॥
-
-
 
 धर्मयुक्तस्सधर्मेण पिता चासीत्ततो मम॥६॥
 
@@ -22266,15 +20939,15 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^848]: "स्व घ - पराशरस्सत्यष्टतिहीपे च यमुनाम्भसि।! अधिकः पाठः]"
 
-
-
 तमपास्य शुभं गन्धम् इमं प्रादात् स मे मुनिः॥१२॥
 
 ततो मामाह स मुनिर् गर्भ उत्सृज्यतामयम् ।  
 द्वीपेऽस्या एव सरितः कन्यैव त्वं भविष्यसि॥१३॥
 
-[पाराशर्यो](http://॑#) महायोगी स बभूव [महामतिः](http://॑# "क-ख-ग-घ- महानृषिः") ।  
+[पाराशर्यो](#) महायोगी स बभूव महामतिः[^1370] ।  
 सद्योत्पन्नस्स तु महान् सह पित्रा यतो गतः॥१४॥
+
+[^1370]: "क-ख-ग-घ- महानृषिः"
 
 कन्यापुत्रो मम पुरो द्वैपायन इति स्मृतः ॥१५॥
 
@@ -22306,8 +20979,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^849]: "घ–द्विज"
 
-
-
 स्मरिष्यामि महाबाहो यदि भीष्म त्वमिच्छसि ॥१८॥
 
 तव धनुमते भीष्म नियतं[^850] स महातपाः।  
@@ -22317,9 +20988,11 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 **वैशंपायनः—**
 
-[महर्षेः](http://॑# " क–ख–ग–घ–इत्युक्तमाग्रे भीष्मस्तु मृर्ग्यलिमथवहन्") कीर्तनात्तस्य[^851] भीष्मः प्राञ्जलिरब्रवीत् ॥२०॥
+महर्षेः[^1371] कीर्तनात्तस्य[^851] भीष्मः प्राञ्जलिरब्रवीत् ॥२०॥
 
 [^851]: "क–ख–ग–ने तस्य वन्द्य मातुस्तथाब्रवीत् । घ– ने तस्य वन्यमानस्तथाब्रवीत् ।"
+
+[^1371]: " क–ख–ग–घ–इत्युक्तमाग्रे भीष्मस्तु मृर्ग्यलिमथवहन्"
 
 **भीष्मः—**
 
@@ -22337,8 +21010,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^853]: " क–ख–ग–घ–शुभं शुभानुबन्धं च तांश्चैव त्रिविधान् पुनः । पुनः पुनर्यो विचिन्त्य धिया सम्यग्ग्यवस्यति॥ स बुद्धिमाम्मनुष्येषु स नरः कृत्कर्मकृत्।[अधिकः पाठः]"
 
 तदिदं धर्मयुक्तं च हितं चैव कुलस्य नः।
-
-
 
 उक्तं भवत्या यच्छ्रेयः परमं रोचते मम ॥२४॥
 
@@ -22373,8 +21044,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तस्मै पूजां ततोऽकार्थीन् पुरोधाय[^859] परन्तपः ॥३०॥
 
 [^859]: "क–ख–ग–घ–धाः परमर्पये"
-
-
 
 स च तां प्रतिजग्राह विधिवन्मन्त्रपूर्वकम् ॥३०॥
 
@@ -22413,10 +21082,10 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^864]: "क–ख–ग–घ–तस्य चापेक्षया"
 
-
-
-अनुक्रोशाश्च [भ्रातॄणां](http://॑# "क–ख–ग–घ–भूतानां") सर्वेषां रक्षणाय च ।  
+अनुक्रोशाश्च भ्रातॄणां[^1372] सर्वेषां रक्षणाय च ।  
 आनृशंस्थेन यद्रूयां तच्छ्रुत्वा कर्तुमर्हसि ॥३९॥
+
+[^1372]: "क–ख–ग–घ–भूतानां"
 
 तयो[^865] रुत्पादयापत्यं[^866] समर्थो ह्यसि पुलक ॥३९॥
 
@@ -22445,14 +21114,14 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^869]: "क–ख–ग–घ–व्रतं च चरितव्यं तु निर्दिष्टमिह यन्मया । संवत्सरं यथान्यायं ततश्युद्धे भविष्यतः ॥ न हि मामवतोपेता स्पृशते काचिदना ।"
 
-
-
 न च मामर्हतः प्राप्तुम् अशुद्धे कोसलात्मजे ॥  
 एवं सत्यवती धर्म परमाज्ञातुमर्हसिं ॥४४॥
 
 सत्यवती—
 
-[तद्यथा](http://॑# "क–ख–ग–घ–यथा सद्यः प्रपद्येते भार्ये गर्भ तथा कुरु ।") प्रतिपद्येतां देव्यो गर्भ तथा कुरु ॥४५॥
+तद्यथा[^1373] प्रतिपद्येतां देव्यो गर्भ तथा कुरु ॥४५॥
+
+[^1373]: "क–ख–ग–घ–यथा सद्यः प्रपद्येते भार्ये गर्भ तथा कुरु ।"
 
 अराजकेषु राज्येषु नास्ति[^870] वृष्टिर्न देवता ।  
 कथं चाराजकं राज्यं शक्यं धारयितुं[^871] प्रभो ॥४६॥
@@ -22484,16 +21153,16 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 शयने चैव कौसल्या शुचिवस्त्रा स्वलङ्कृता ।
 
-
-
 समागमनमाकाङ्क्षेद् इस्युक्त्वाऽन्तरधीयत ॥५०॥
 
 वैशंपायनः—
 
-[अभिगम्य](http://॑# " क–ख–ग–ततोऽभिगम्य सा") तु सा देवी स्नुषां रहसि संगताम् ।  
+अभिगम्य[^1374] तु सा देवी स्नुषां रहसि संगताम् ।  
 धर्ममर्थसमायुक्तम्[^876] उवाच वचनं "मिथः ॥५१॥
 
 [^876]: "क–ख–ग–घ–धर्मार्थकामसहितं"
+
+[^1374]: " क–ख–ग–ततोऽभिगम्य सा"
 
 सत्यवती—
 
@@ -22520,8 +21189,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^880]: "क–ख–ग–घ–मुद्रहिव्यति"
 
 [^881]: "क–ख–ग–घ–धर्मतः"
-
-
 
 **वैशम्पायनः—**
 
@@ -22556,8 +21223,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 श्वश्रास्तु वचनं श्रुत्वा शयाना शयने शुभा[^884]।
 
 [^884]: "क ख ग -भे"
-
-
 
 जगाम[^885] मनसा भीष्मम् अन्यांश्च भरतांस्तथा॥३॥
 
@@ -22602,8 +21267,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 नागायुतसमप्राणो विद्वान् राजर्षिसत्तमः।  
 महाभागो महावीर्यो महाबुद्धिर्भविष्यति॥
 
-
-
 सुगन्धेतरगन्धश्च सर्वथा दुष्प्रधर्षणः।७॥
 
 तस्य कृष्णस्य कपिला जटा दीप्ते च चक्षुषी।  
@@ -22641,8 +21304,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 किन्तु मातुस्स वैगुण्यादन्ध एव भविष्यति॥  
 तस्य तद्वचनं श्रुत्वा माता वचनमब्रवीत्॥\[अधिकः पाठः\]
 
-
-
 अस्यामुत्पादयापत्यं मन्नियोगाद्गुणाधिकम्'[^893]॥
 
 [^893]: "क ख ग - द्वितीयं कुरुवंशस्य राजानं शतुमर्हति।वैशंपायनः-  स तथेति प्रतिज्ञाय निश्रक्राम महातपाः॥"
@@ -22673,8 +21334,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तस्मादेष सुतस्तुभ्यं पाण्डुरेव भविष्यति॥
 
 नाम चास्य तदेवेह भविष्यति शुभानने॥
-
-
 
 वैशंपायनः—
 
@@ -22709,8 +21368,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अन्धं दृष्ट्वाऽम्बिकापुत्रं जातं सत्यवती सुतम्।  
 कौसल्यार्थे समाहूय पुत्रमन्यमयाचत॥२७॥
 
-
-
 महाभारतम् अन्धोऽयमन्यमिच्छामि कौसल्यातनयं शुभम्॥२८॥
 
 एवमुक्तो महर्षिस्तां मातरं प्रत्यभाषत॥२८॥
@@ -22743,12 +21400,12 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एष ते सुभगे गर्भश श्रीमानुदरमागतः।  
 धर्मात्मा विश्रुतो लोक सर्वधर्मभृतां वरः॥३६॥
 
-
-
 ज[^902]ज्ञे स विदुरो नाम कृष्णद्वैपायनात्मजः।  
-धृतराष्ट्रस्य च भ्राता [पाण्डवश्च](http://॑# "श्रामितबुद्धिमान्") पृथिवीपतेः॥३७॥
+धृतराष्ट्रस्य च भ्राता पाण्डवश्च[^1375] पृथिवीपतेः॥३७॥
 
 [^902]: "इत्यूक्त्वा स निराक्रामत् कृष्णद्वैपायनः प्रभुः"
+
+[^1375]: "श्रामितबुद्धिमान्"
 
 धर्मो विदुररूपेण शापात्तस्य महात्मनः।  
 माण्डव्यस्यार्थतत्त्वज्ञः कामक्रोधविवर्जितः॥३८॥
@@ -22771,8 +21428,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि द्व्यधिकशततमोऽध्यायः॥१०२॥  
 ॥७॥संभवपर्वणि मप्तचत्वारिंशोऽध्यायः॥४७॥  
 \[अस्मिन्नध्याये ४२॥श्लोकाः\]
-
-
 
 **॥त्र्यधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1708928024Screenshot2023-06-13142026.png)**
@@ -22811,8 +21466,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^908]: "अ–दा"
 
-
-
 अनुसाधयमानास्ते[^909] रक्षिभिर्भरतर्षभ।  
 तामेव वसतिं जग्मुस् तद्नामे लोहारिणः।६॥
 
@@ -22843,8 +21496,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^911]: "स्ततोपश्यंस्तं नं म्य; घ - नं न्यवेदयन्"
 
-
-
 महाभारतम् तं राजा सह चोरैस्तैर् अवदच्छिद्यतामि[^912]ति॥  
 स वध्यघा तैर\।ज्ञप्तैश् शूले प्रोतो महातपाः॥१४॥
 
@@ -22854,9 +21505,11 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 प्रतिजग्मुर्महीपाला धनान्यादाय तान्यथ॥१५॥
 
 शूलस्थस्स तु धर्मात्मा कालेन महता अपि[^913] ।  
-[निराहारस्तदा](http://॑# "क–ख–ग–घ–रोऽपि विप्रार्थः") राजन् मरणं नाभ्युपागमन्॥१६॥
+निराहारस्तदा[^1376] राजन् मरणं नाभ्युपागमन्॥१६॥
 
 [^913]: "क–ख–ग–घ–ततः"
+
+[^1376]: "क–ख–ग–घ–रोऽपि विप्रार्थः"
 
 शूलाग्रे[^914] तप्यमानेन तदाऽनेन महात्मना ।  
 सन्तापं परमं जग्मुर् ऋषयो[^915] भरतर्षभ॥१७॥
@@ -22878,8 +21531,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^917]: "क–ख–ग–घ–ब्रह्मस्वमपापोऽमि"
 
 तत्ते द्विजवर श्रेष्ठ संशयस्तु महान् हि नः ।
-
-
 
 ईदृशस्य नर[^918]श्रेष्ठ उग्रेतपसि वर्ततः॥२०॥
 
@@ -22917,8 +21568,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 स तदान्तर्गतेनैव शूलेन व्यचरन्मुनिः।
 
-
-
 कण्ठपार्श्वान्तरस्थेन शङ्कुना मुनिरचरन्॥
 
 पुष्पभाजनधारी स्याद् इति चिन्तापरोऽभवत्॥
@@ -22927,7 +21576,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तमाहुराणिमाण्डव्यम् इति धर्मे रतं मुनिम्॥
 
 गत्वा संयमिनीं विप्रो धर्मस्य परमार्थविन्।  
-धर्म धर्मवतां श्रेष्ठं [पर्युपालभतानघ](http://॑# "क–ख–ग–पर्यपृच्छत्तदानघ; घ - परिपालयतानध")॥
+धर्म धर्मवतां श्रेष्ठं पर्युपालभतानघ[^1377]॥
+
+[^1377]: "क–ख–ग–पर्यपृच्छत्तदानघ; घ - परिपालयतानध"
 
 **आणिमाण्डव्यः**—
 
@@ -22950,8 +21601,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वालो[^924] हि द्वादशाद्वर्षाज् जन्मनो यत्करिष्यति।
 
 [^924]: "क–ख–ग–कस्मिन्काले मया तत्तु कृतं ब्रूहि यथातथम् । घ-तेनोको धर्मराजोऽथ बालभावे त्वया कृतम् ॥"
-
-
 
 न भविष्यत्यधर्मोऽद्य[^925] न प्रज्ञास्यति वै[^926] दिशः॥३३॥
 
@@ -22986,8 +21635,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥७॥ संभवपर्वणि अष्टचत्वारिंशोऽध्यायः ॥४८॥  
 \[अस्मिन्नध्याये ३८ श्लोकाः\]
 
-
-
 **॥चतुरधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1708929901Screenshot2024-01-09183043.png)**
 
@@ -23011,13 +21658,13 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 शुराश्च कृतविद्याश्च सन्तश्च सुखिनोऽभवन् ॥४॥
 
 नाभवत् कृपणः कश्चिन्न काचिद्विधवाऽभवत् ।  
-नाभवन् दस्यवः केचिन्नाधर्मरुचयो [नराः](http://॑# "क ख ग -जनाः") ॥५॥
+नाभवन् दस्यवः केचिन्नाधर्मरुचयो नराः[^1378] ॥५॥
+
+[^1378]: "क ख ग -जनाः"
 
 प्रदेशेष्वपि राष्ट्राणां कृतं युगमवर्तत ॥६॥
 
 तन्महोदधिसंकाशं नगरं बहशोभत॥६॥
-
-
 
 द्वारतोरणनिर्यूहैश् छन्नमभ्रं घनैरिव ।  
 प्रासादशतसंबाधं महेन्द्रपुरसन्निभम् ॥७॥
@@ -23056,15 +21703,15 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^936]: " क ख ग - पर्यंरक्षत; ग- परिरक्षितम् "
 
-
-
 भीष्मेण विहितं राष्ट्रे धर्मचक्रमवर्तत ॥१४॥
 
 क्रियमाणेषु कृत्येषु कुमाराणां यशस्विनाम् ।  
 पौरजानपदास्सर्वे बभूवुः परमोत्सवाः ॥१५॥
 
 गृहेषु कुरुमुख्यानां पौराणां च नराधिप।  
-[दीयतामिज्यतां](http://॑# "क–ख–ग–घ–म्भु") चेति वाचोऽ श्रयन्त सर्वशः॥१६॥
+दीयतामिज्यतां[^1379] चेति वाचोऽ श्रयन्त सर्वशः॥१६॥
+
+[^1379]: "क–ख–ग–घ–म्भु"
 
 धृतराष्ट्रश्च पाण्डुश्च विदुरश्च महायशाः।  
 जन्मप्रभृति भीष्मेण पुत्रवत् परिपालिताः ॥१७॥
@@ -23089,8 +21736,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अमात्यो मनुजेन्द्रस्य बाल एव यशस्विनः।  
 प्रणेता सर्वधर्माणां भीष्मेण विदुरः कृतः॥२२॥
 
-
-
 सर्वशास्त्रार्थतत्त्वज्ञो बुद्धिमेधापदुर्युवा।  
 भावेनागमर्युक्तेन सर्व वेदयते जगत् ॥२३॥
 
@@ -23110,7 +21755,7 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^940]: "क–ख–ग–घ– श्रम"
 
-धनुर्वेदेऽश्वष्पृष्ठे च [तथा](http://॑॑# "क–ख–ग–घ– गदा") युद्धेऽसि चर्मणि ।  
+धनुर्वेदेऽश्वष्पृष्ठे च [तथा](॑# "क–ख–ग–घ– गदा") युद्धेऽसि चर्मणि ।  
 तथैव गजशिक्षायां नीतिशास्त्रे च पारगाः ॥२८॥
 
 इतिहासपुराणेषु नानाशिल्पासु[^941] चान्विताः ।  
@@ -23127,9 +21772,9 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 त्रिषु लोकेषु नत्वासीत् प्राणी विदुरसंमितः।
 
+धर्मनित्यो हि धर्मज्ञ[^1380] बुद्धया चैव गतिं गतः॥३१॥
 
-
-धर्मनित्यो हि [धर्मज्ञ](http://॑# "क–ख–ग–स्य") बुद्धया चैव गतिं गतः॥३१॥
+[^1380]: "क–ख–ग–स्य"
 
 अथ शुश्राव विप्रेभ्यो देवकस्य[^944] महीपतेः।  
 रूपयौवनसंपन्नां सुतां सागरगासुतः ॥३२॥
@@ -23167,8 +21812,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सुबलस्यात्मजा चैत्र तथा मद्रेश्वरस्य च ॥३८॥
 
 कुलीना रूपवत्यश्च नाथवत्यश्च सर्वशः।
-
-
 
 उचिताश्चैव संबन्धे तेऽस्माकं क्षत्रियर्षभ[^950] ॥३९॥
 
@@ -23208,8 +21851,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 गान्धारी त्वथ शुश्राव धृतराष्ट्रं त्वचक्षुषम्।
 
-
-
 आत्मानं दिस्सितां तत्र[^955] पितुर्मातुश्च कौरव॥४७॥
 
 [^955]: "क–ख–ग–घ–स्य"
@@ -23247,8 +21888,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^960]: "क–ख–ग–घ–चारे"
 
-
-
 वृत्तेनाराधितान्[^961] सर्वान् पतिव्रतपरायणा  
 वाचाऽपि परुषानन्यान सुव्रता[^962] नान्वकीर्तयत्॥५५॥
 
@@ -23276,8 +21915,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥७॥संभवपर्वणि एकोनपञ्चाशत्तमोऽध्यायः॥४९॥  
 \[अस्मिन्नध्याये ५९॥ श्लोकाः\]
 
-
-
 ॥ पञ्चाधिकशततमोऽध्यायः ॥  
 ![](../books_images/U-IMG-1708937491Screenshot2023-10-17153432.png)
 
@@ -23302,8 +21939,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तमुग्रं[^964]संशितात्मानं सर्वयत्नैरतोषयत्॥५॥
 
 [^964]: "क–ख–ग–तं मुनिं"
-
-
 
 स तस्यै[^965] प्रददौ धर्मम् आपद्धर्मान्ववेक्षया।  
 अभिचाराभिसंयुक्तम् अब्रवीच्चैव तां मुनिः॥६॥
@@ -23332,8 +21967,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 आहूतोपस्थितं भद्रे ऋषिमन्त्रेण चोदितम् ।  
 विद्धि मां पुत्रलाभाय देवमर्कं शुचिस्मिते॥१२॥
-
-
 
 1\.
 
@@ -23380,8 +22013,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 **सूर्यः–**\[अधिकः पाठः\]
 
-
-
 वैशम्पायनः—
 
 एवमुक्ता ततः कुन्ती गोपतिं प्रत्युवाच ह ।  
@@ -23425,8 +22056,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^975]: "क–ख–ग–देवी"
 
-
-
 आमुक्तकवचश्श्रीमान् कुण्डलाभ्यां समावृतः।  
 सोऽजायत तदा वीरस् सर्वलोकेषु विश्रुतः॥२३॥
 
@@ -23462,8 +22091,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदित्यो ब्राह्मणो भूत्वा शृणु वीर वचो मम॥३०॥
 
 [^980]: "घ—महः कश्चित्"
-
-
 
 प्रभातायां रजन्यां त्वाम् आगमिष्यति वासवः ।  
 न तस्य विप्रदात[^981]व्यं विप्ररूपी भविष्यति॥ ३१॥
@@ -23502,8 +22129,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तमिन्द्रो ब्राह्मणो भूत्वा पुत्रार्थं भूतभावनः ।  
 कुण्डले प्रार्थयामास कवचं च महाद्युतिः॥३७॥
 
-
-
 उत्कृत्याविमनास्स्वाङ्गात् कवचं रुधिरस्रवम् ।  
 कर्णपाशौ[^986] च द्वे छित्वा प्रायच्छत्स कृताञ्जलिः॥३८॥
 
@@ -23538,14 +22163,11 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥७॥ संभवपर्वणि पञ्चाशोऽध्यायः ॥५०॥  
 \[अस्मिन्नध्याये ४४ श्लोकाः\]
 
-
-
 **॥षडधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1708939893Screenshot2023-07-01115902.png)**
 
 **कुन्तीविवाहः॥१॥ माद्रीविवाहः॥२॥पाण्डोर्दिग्विजयः॥३॥ मृगयार्थमरण्यं गतस्य पाण्डोः किन्दमेन शापः ॥४॥**  
 ![](../books_images/U-IMG-1708939919Screenshot2023-09-20123439.png)  
-
 
 वैशंपायनः—
 
@@ -23570,8 +22192,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 दृष्ट्वा पाण्डुं नरव्याघ्रं व्यस्मयन्त नरा भुवि॥६॥
 
 कृतोद्वाहस्ततः पाण्डुर् बलोत्साहसमन्वितः ।
-
-
 
 गोप्ता भरतवंशस्य पाण्डुरसर्वास्त्रकोविदः॥७॥
 
@@ -23604,8 +22224,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ते ससेनाः स्म यानेन विध्वंसितमहाबलाः।  
 पाण्डुना पृथिवीपालाः कुरुकर्मसु योजिताः॥१५॥
 
-
-
 तेन ते निर्जितास्सर्वे पृथिव्यां सर्वपार्थिवाः॥१६॥
 
 तमेकं मेनिरे शूरं देवेष्विव पुरन्दरम्।  
@@ -23635,8 +22253,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अभ्यनन्दंश्च वै पाण्डुम् आशीर्वादैः पृथग्विधैः ॥ २३॥
 
 प्रसन्नमनसो भूत्वा बान्धवाः कुरुभिस्सह ।
-
-
 
 प्रत्युद्ययुस्तं संप्राप्तं सर्वे भीष्मपुरस्सराः॥२४॥
 
@@ -23668,8 +22284,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ननन्द मनसा कौसल्या तमप्रतिमतेजसम् ।
 
-
-
 जयन्तमिव पौलोमी परिष्वज्य नरर्षभम्॥३४॥
 
 तस्य वीरस्य विक्रान्तैस् सहस्र[^991]शतदक्षिणैः ।  
@@ -23698,8 +22312,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अनुजह्नुर्वनान्तेषु धृतराष्ट्रप्रचोदिताः॥४१॥
 
 तदासाद्यमहारण्यं मृगव्यालनिषेवितम् ।
-
-
 
 तत्र मैथुनकालस्थं ददर्श मृगयूथपम्॥४२॥
 
@@ -23732,8 +22344,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^993]: "घ - नरा मृग विजानीहि किं त्वं मोहाद्विकरथसे ।"
 
-
-
 अमायया ह्यच्छलेन मृगाणामिषुधारिभिः।  
 वध एव भवेद्धर्मस् तद्विद्वान् किं विगर्हसे॥५०॥
 
@@ -23763,8 +22373,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 पुरुषार्थफलं कालं यत्वया वितथःकृतः॥५७॥
 
-
-
 नीतिमा[^995]र्गप्रतिष्ठस्य भरतस्य महात्मनः।  
 वंशे जातस्य राजेन्द्र नानुरूपमिदं तव॥५८॥
 
@@ -23793,8 +22401,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अपत्रपाभिभूतानां नराणां मैथुनं प्रियम् ।  
 मृगो भूत्वा मृगीष्वेव मैथुने विचराम्यहम्॥६६॥
-
-
 
 1.न हि ते ब्रह्महत्येयं भविष्यति न जानतः ।  
 मृगरूपधरं हत्वा मामेवं काममोहितम्॥६७॥
@@ -23834,8 +22440,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 मैथुनासक्तचित्तस्य मृगद्वन्द्वस्य भूमिप।\[अधिकः पाठः\]
 
-
-
 ॥सप्ताधिकशततमोऽध्यायः॥  
 
 ![](../books_images/U-IMG-1708941469Screenshot2023-12-29111908.png)
@@ -23867,8 +22471,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मोक्ष एव व्यवस्यामि बद्धं हि व्यसनं महत् ।  
 सद्वृत्तिमनुवर्तिष्येतामहं पितुरम्ययाम्॥६॥
 
-
-
 अतीव तपसाऽऽत्मानं योजयिष्याम्यसंशयम्॥६॥
 
 तस्मादेकाहमेकाहम् एकैकस्मिन् वनस्पतौ ।  
@@ -23899,8 +22501,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 याःकाश्चिज्जीवता शक्याःत्यक्तं[^997] नित्यं क्षमाः क्रियाः ।
 
 [^997]: "1. अ-तित्यक्षताः क्रियाः ।"
-
-
 
 तास्सर्वास्समतिक्रम्य निमेषादिष्ववस्थिताः॥१५॥
 
@@ -23935,8 +22535,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 कौसल्या विदुरः क्षत्ता राजा च सह बन्धुभिः।
 
-
-
 आर्या सत्यवती भीष्मस्ते च राजपुरोहिताः॥२३॥
 
 ब्राह्मणाश्च महाभागे सोमपास्संशितव्रताः।  
@@ -23970,8 +22568,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 **पाण्डुः—**
 
 यदि व्यवसितं त्वेवं युवाभ्यां धर्ममिश्रितम् ।
-
-
 
 सद्वृत्तिमनुवर्तिष्येतामहं पितुरव्ययाम्॥३१॥
 
@@ -24012,8 +22608,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 प्रणिधायेन्द्रियग्रामं भर्तृलोक सुखाय च ।  
 व्यक्तकामसुखे ह्यावां राजंस्तप्यावहे तपः॥\[अधिकः पाठः\]
 
-
-
 ततश्चूडामणिं निष्कान् अङ्गदे कुण्डलानि च॥३८॥
 
 मकुटं हारसूत्रंच कटिबन्धं तथैव च ।  
@@ -24048,8 +22642,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 उष्णमास्रं प्रमुञ्चन्तस् तमालोक्य यशस्विनम् ।  
 ययुर्नागपुरं तूर्णं सर्वमादाय तद्धनम्॥४५॥
 
-
-
 ते गत्वा नगरं राज्ञे यथावृत्तं महात्मने ।  
 कथयाञ्चकिरे सर्वं धनं च विविधं ददुः॥४६॥
 
@@ -24079,8 +22671,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 केषांचिद्भवद्भ्रता केषांचिदभवत् सखा ।  
 ऋषिभिस्त्वभवत्कैश्चित पुत्रवत् परिरक्षितः॥५४॥
 
-
-
 स तु कालेन महता प्राप्य निष्कल्मषं तपः ।  
 ब्रह्मर्षिसदृशः पाण्डुर् अभवद्भरतर्षभ॥५५॥
 
@@ -24107,14 +22697,11 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 प्रस्थितं सह भार्याभ्याम् अब्रुवंस्ते तु तापसाः॥६०॥  
 
-
 उपर्युपरि गच्छन्तश् शैलराजमुदङ्मुखाः।  
 प्रपश्यामो गिरिं तस्मिन् दुर्गान् देशान् बहून् वयम् ॥६१॥
 
 यक्षराक्षसगुप्तानि गन्धर्वचरितानि च ।  
 आक्रीडितान्यप्सरोभिस्सह देवगणैस्सदा॥६२॥
-
-
 
 सदनानि कुबेरस्य हृद्यानि च मृदूनि च ।  
 तेषां नदं नितम्बांश्च घोरांश्च गिरिगह्वरान्॥६३॥
@@ -24145,8 +22732,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अरिष्टं क्षिप्रमव्यग्रोविन्देथाःपरमां गतिम्॥७०॥
 
 तस्मादिष्टफले तात कुरु यत्नं यथागमम् ।
-
-
 
 अपत्यं गुणसंपन्नं लब्ध्वा प्रीतिमवाप्स्यसि॥७१॥
 
@@ -24186,8 +22771,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततः पुत्रशतं जज्ञे गान्धार्यां जनमेजय ।  
 धृतराष्ट्रस्य वेश्यायाम् एकश्चैव शतात् परः॥ १॥
 
-
-
 कथञ्चित् सदृशीं भार्यां गान्धारीं धर्मचारिणीम् ।  
 वर्तमानं प्रियेष्वेव धृतराष्ट्रोऽन्ववर्तत॥२॥
 
@@ -24215,8 +22798,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततः कालेन सा गर्भम् अगृह्णाज्ज्ञानचक्षुषः॥७॥
 
 गान्धार्यामाहिते गर्भे पाण्डुरम्बालिकासुतः।
-
-
 
 अगच्छत् परमं दुःखम् अपत्यार्थमरिन्दम॥८॥
 
@@ -24248,8 +22829,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पितृणामृणनाशाद्धि न प्रजा नाशमृच्छति।  
 इह तस्मात् प्रजालाभे प्रयतन्ते द्विजोत्तमाः॥१६॥
 
-
-
 यथैवाहं पितुः क्षेत्रे सृष्टस्तेन महात्मना ।  
 तथैवास्मिन् मम क्षेत्रे कथं सृज्येत वै प्रजाः॥१७॥
 
@@ -24280,8 +22859,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अनपत्यो हि मरणं कामये नाते जीवितम्॥२४॥
 
 मृगामिशापाज्जानासि प्रजने मम केवलम् ।
-
-
 
 नृशंसं कर्मणा कृत्स्नं यथाह्युपगतं तथा॥२५॥
 
@@ -24315,8 +22892,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सा वीरपत्नी स्वजनैर् नियुक्ताऽपत्यकर्मणि ।  
 पुष्पेण प्रयता स्नाता निशि कुन्ति चतुष्पथे॥३३॥
 
-
-
 अपत्यार्थे प्रजालाभे अन्वगच्छच्छुभव्रता।  
 वरयित्वा द्विजं देवी कृते पुंसवने पुरा॥३४॥
 
@@ -24346,8 +22921,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 त्वत्तः[^1013] प्रतिविशिष्टस्सन्को योऽन्यो भुवि मानवः॥४१॥
 
 [^1013]: "क-ग—त्वत्तो यः प्रविशिष्टस्मःकोऽन्योऽस्ति"
-
-
 
 इमां धर्म्यां धर्म्यकथांमम[^1014] चैव निबोधय।  
 पौराणिकीं विशालाक्ष कीर्तयिष्यामि भारत॥४२॥
@@ -24380,8 +22953,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 व्युषिताश्वस्समुद्रान्तां विजित्येमां वसुन्धराम् ।  
 अपालयत् सर्ववर्णान् पिता पुत्रानिवौरसान्॥५०॥
 
-
-
 यजमानो महायज्ञैर् ब्राह्मणेभ्यो महद्धनम् ।  
 अनन्तामखिलां तत्र पृथिवीमददात्ततः॥५१॥
 
@@ -24412,8 +22983,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 त्वयाहीना क्षणमपि नाहं जीवितुमुत्सहे।  
 प्रसादं कुरु मे राजन् इतः क्षिप्रं नयस्व माम् ॥५८॥
-
-
 
 पृष्ठतोऽनुगमिष्यामि समेषु विषमेषु च ।  
 त्वामहंनरशार्दूल गच्छन्तमनिवर्तिनम्॥ ५९॥
@@ -24448,8 +23017,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आत्मीये तु वरारोहे शयने मां[^1018] चतुर्दशीम् ।
 
 [^1018]: "क-ग-घ—त्वं"
-
-
 
 अष्टमीं वाप्यृतुस्नाता संभवेथा[^1019]श्शुचिस्मिते॥६८॥
 
@@ -24486,8 +23053,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एवमुक्तस्तया राजा तां देवीं वाक्यमब्रवीत् ।  
 धर्मविद्धर्मसंयुक्तम् इदं वचनमुत्तमम् ॥१॥
 
-
-
 पाण्डुः—
 
 एवमेव वरारोहे व्युषिताश्वश्चकार ह ।  
@@ -24517,8 +23082,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अगम्यागमनं स्त्रीणां नास्ति नित्यं शुचिस्मिते॥९॥
 
 पुत्रं वा किल पौत्रं वा कासांचिद्भ्रातरं तथा ।
-
-
 
 रहसीह नरं दृष्ट्वा योनिरुत्क्लिद्यतेस्त्रियाः॥१०॥
 
@@ -24551,8 +23114,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 शाकमूलफलाद्यैश्च वन्यैरन्यैरपूजयत्।
 
-
-
 क्षुत्पिपासाश्रमैकार्तःपूजितस्तु महर्षिणा॥१८॥
 
 विश्रान्तो मुनिमासाद्यपर्यपृच्छद्द्विजस्तदा।  
@@ -24583,8 +23144,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 प्रजारिणी तु पत्नी ते कुलशीलसमाधिनी।  
 सदृशी मम गात्रेण वहाम्येनां क्षमस्व वै॥२५॥
-
-
 
 पाण्डुः—
 
@@ -24622,8 +23181,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवमुक्त्वा तु याचन्तं विमुञ्चेति मुहुर्मुहुः ।
 
-
-
 प्रत्यवोचद्द्वि जो राजन् अप्रगल्भमिदं वचः॥३३॥
 
 द्विजः—
@@ -24658,8 +23215,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 चकारैव च मर्यादाम् इमां स्त्रीपुंसयोर्भुवि॥ ४१॥
 
-
-
 मानुषेष्वसि[^1029]तापाङ्गे न त्वेवान्येषु जन्तुषु ।  
 तदाप्रभृति मर्यादा स्थापितेयमिति श्रुतिः॥४२॥
 
@@ -24688,8 +23243,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 नियुक्ता पतिना भार्या यद्यपत्यस्य कारणात् ।  
 न कुर्यात्तत्तथा भीरु सैनस्सुमहदाप्नुयात्॥४९॥
-
-
 
 सौदासेन च रम्भोरु नियुक्ताऽपत्यकर्मणि ।  
 मदयन्ती जगामर्षिं वसिष्ठमिति नश्श्रुतम्॥५०॥
@@ -24721,8 +23274,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 प्रसादनार्थं सुश्रोणि ! शिरस्यभ्युद्यतोऽञ्जलिः॥५८॥
 
 मन्नियोगात् सुकेशान्ते मत्तश्श्रेयस्तरैर्द्विजैः ।
-
-
 
 अपत्यानि विशिष्टानि कैश्चिदुत्पादयाबले॥५९॥
 
@@ -24757,8 +23308,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^1033]: " क-ख-ग—ऽभिचार"
 
 यं यं देवं त्वमेतेन मन्त्रेणावाहयिष्यसि ।
-
-
 
 अकामो वा सकामो वा स[^1034] समेष्यति ते वशम्॥६६॥
 
@@ -24795,8 +23344,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 विप्रं वा गुणसम्पन्नं सर्वभूतहिते रतम् ।
 
-
-
 अनुजानीहि भद्रं ते दैवतं हि पतिस्त्रियाः॥१॥
 
 यं त्वं वक्ष्यसि धर्मज्ञ देवं ब्राह्मणमेव वा ।  
@@ -24830,8 +23377,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अधर्मेण न धर्मो वै संयुज्येत कदा चन।  
 लोकश्चापि वरारोहे धर्मोऽयमिति मंस्यते॥९॥
 
-
-
 धार्मिकश्च कुरूणां स भविष्यति न संशयः ।  
 दत्तस्य तस्य धर्मेण नाधर्मे रंस्यते मनः॥१०॥
 
@@ -24861,8 +23406,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तस्मिन् बहुमृगे रम्ये शतशृङ्गे नगोत्तमे।  
 पाण्डोरर्थे महाभाग कुन्ती धर्ममुपागमत्॥१७॥
-
-
 
 ऋतुकाले शुचिस्स्नाता शुक्लवस्त्रा यशस्विनी ।  
 शय्यां जगाम सुश्रोणी सह धर्मेण सुव्रता॥१८॥
@@ -24894,8 +23437,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 कौरव्यस्यापरिज्ञातं यत्नेन महता स्वयम् ।  
 उदरं घातयामास गान्धारी शोकमूर्छिता॥२६॥
 
-
-
 ततो जज्ञे मांसपेशी साष्ठीला जनमेजय ।  
 द्विवर्षसम्भृतां कुक्षौ तामुत्स्रष्टुं प्रचक्रमे॥२७॥
 
@@ -24926,8 +23467,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^1039]: "घ—बभूव शतधा नृप।"
 
 अङ्गुष्ठपर्वमात्राणां गर्भाणां पुनरेव तु ।
-
-
 
 एकाधिकशतं पूर्णं यथायोगं विशाम्पते॥३५॥
 
@@ -24964,8 +23503,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 प्राहुः क्षत्रवलं ज्येष्ठं बलज्येष्ठं सुतं वृणे॥४२॥
 
-
-
 ततः कुन्तीमभिक्रम्य शशासातीव भारत॥४२॥
 
 वायुमावाहयस्वेति स देवो बलवत्तरः॥४३॥
@@ -24995,8 +23532,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सर्वेषां बलिनां श्रेष्ठो जातोऽयमिति भारत॥५०॥
 
-
-
 जातमात्रे[^1042]कुमारे तु सर्वलोकस्य पार्थिवाः।  
 मूत्राम्बु सुस्रुवस्सर्वे व्यथिताश्च प्रपेदिरे॥५१॥
 
@@ -25024,8 +23559,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तमापतन्तं शार्दूलं विकृष्याथ कुरूत्तमः ।  
 निर्बिभेद शरैः पाण्डुस् त्रिभिस्त्रिदशविक्रमः॥५७॥
-
-
 
 नादेन महता तां तु पूरयन्तं गिरेर्गुहाम् ।  
 दृष्ट्वा शैलमुपारोद्द्रुम् ऐच्छत् कुन्ती भयात्ततः॥५८॥
@@ -25055,8 +23588,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सदा बाणधनुष्पाणिर् अभवन् कुरुनन्दनः॥ ६३॥
 
 मघेचन्द्रमसा युक्ते सिंहे चाभ्युदये गुरौ।
-
-
 
 दिवा मध्यगते सूर्ये तिथौ पुण्ये त्रयोदशे॥६४॥
 
@@ -25090,8 +23621,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 वाक्यस्यैतस्य निधने दिक्षु सर्वासु भारत ।  
 क्रव्यादाः प्राणादन् घोराश् शिवाचा शिवशंसिनः ॥७२॥
-
-
 
 लक्षयित्वा निमित्तानि तानि सर्वाणि भारत।  
 तेऽब्रुवन् ब्राह्मणा राजन् विदुरश्च महामतिः॥७३॥
@@ -25130,8 +23659,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तया समभवद्राजा धृतराष्ट्रो यदृच्छया ।
 
-
-
 तस्यामजनयत् पुत्रं युयुत्सुं नाम भारत॥८०॥
 
 इत्थमेकशतं जज्ञे पुत्राणां भरतर्षभ ।  
@@ -25167,8 +23694,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 साध्वयं प्रश्न उद्दिष्टः पाण्डवेय ब्रवीमि ते ॥३॥
 
-
-
 तां[^1054] मांसपेशीं तु तदा स्वयमेव महामुनिः ।  
 शीताभिरद्भिस्सिञ्चन् वै भागं भागमधारयत्॥४॥
 
@@ -25198,8 +23723,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एतस्मिन्नेव काले तु कृष्णद्वैपायनस्स्वयम् ।  
 व्यभजत्सहसा विप्रस् तां पेशीं गर्भसम्भवाम्॥ १२॥
 
-
-
 गण्यमानेषु कुण्डेषु शते पूर्णे महात्मना ।  
 अभवच्चापरं खण्डं वामहस्ते तदा किल॥१३॥
 
@@ -25222,8 +23745,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि एकादशाधिकशततमोऽध्यायः ॥११९॥  
 ॥७॥ संभवपर्वणि षट्पञ्चाशोऽध्यायः ॥५६॥  
 \[अस्मिनन्नध्याये १७ श्लोकाः\]
-
-
 
 **॥ द्वादशाधिकशततमोऽध्यायः ॥**
 
@@ -25258,8 +23779,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ³⁶सेनापति ³⁷स्सुषेणश्च ³⁸कुण्डोदर ³⁹महोदरौ ।  
 ⁴⁰चित्रध्वज ⁴¹श्चित्ररथश् ⁴²चित्रबाहु ⁴³रमित्रजित् ॥६॥
 
-
-
 ⁴⁴चित्रवाण ⁴⁵श्चित्रबर्मा ⁴⁶सुवर्मा ⁴⁷दुर्विमोचनः।  
 ⁴⁸चित्रसेनश्च ⁴⁹विक्रान्तस् ⁵⁰सुचित्र ⁵¹श्चित्रवर्मवान् ॥७॥
 
@@ -25288,8 +23807,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सर्वेऽप्यतिरथाश्शूरास् सर्वे युद्धविशारदाः।  
 सर्वे वेदविनीताश्च नानाशास्त्रेषु चाभवन्॥१५॥
-
-
 
 सर्वे संसक्तविद्यास्तु मुख्याभिजनशोभिताः॥१६॥
 
@@ -25323,8 +23840,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 दैवं पुरुषकारश्च यत्र लोकः प्रतिष्ठितः।  
 ततो देवात्तु तपसा लप्स्ये पुत्रं महाबलम्॥ २॥
 
-
-
 इन्द्रो हि राजा देवानां प्रधान इति मे श्रुतः ।  
 अप्रमेयबलोत्साहो वीर्यवानुत्तमद्युतिः॥३॥
 
@@ -25355,8 +23870,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वैशम्पायनः—
 
 इत्युक्तस्तु महेन्द्रेण कौरवः कुरुवर्धनः।
-
-
 
 कुन्तीं राजसुतां पाण्डुर् अपत्यार्थेऽभ्यचोदयत्॥११॥
 
@@ -25389,8 +23902,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 कार्तवीर्यसमः पुत्रो देवतुल्यपराक्रमः ।  
 एष शक्र इवाजय्यः प्रापयिष्यति ते यशः ॥१९॥
 
-
-
 अदित्या विष्णुना प्रीतिर् यथा समभिवर्धिता।  
 तथा विष्णुसमः प्रीतिं वर्धयिष्यति तेऽर्जुनः॥२०॥
 
@@ -25420,8 +23931,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एष चास्त्राणि दिव्यानि निखिलेन हरिष्यति ।  
 विप्रनष्टां श्रियं चायम् आहर्ता भरतर्षभ॥ २८॥
 
-
-
 एतदत्यद्भुतं राजन् कुन्त्याः पार्थस्य सूतके।  
 उक्तवान् वायुराकाशे कुन्ती शुश्राव भारत॥ २९॥
 
@@ -25450,8 +23959,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^1060]: "अ—गन्धर्वान् समचोदयत् ।"
 
 गन्धर्वाप्सरसश्चैव किन्नरास्समवादयन्॥३५॥
-
-
 
 दिव्यमाल्याम्बरधरास्सर्वालङ्कारभूषिताः।  
 ते च[^1061] प्रकाशा मर्त्येषु सर्वोपस्कारसंभृताः॥३६॥
@@ -25485,8 +23992,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 हाहा हूहूश्च गन्धर्वो हंसश्च भरतर्षभ ।  
 इत्येते देवगन्धर्वा उपगायन् धनञ्जयम्॥ ४४॥
 
-
-
 तथैवाप्सरसो हृष्टास् सर्वालङ्कारभूषिताः ।  
 ननृतुश्च वरारोहा जगुरायतलोचनाः॥४५॥
 
@@ -25514,8 +24019,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 उर्वश्येका दशीत्येता जगुरायतलोचनाः॥५१॥
 
 [^1066]: "क-ख-ग—विम्लोचेत्यभिविख्याता प्रम्लोचेति च तादृशी ।"
-
-
 
 घाताऽर्यमा च मित्रश्च वरुणोंऽशो भगस्तथा ।  
 इन्द्रो विवस्वान् पूषा च पर्जन्यो दशमस्मृतः॥५२॥
@@ -25545,8 +24048,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मरुमां[^1068] ल्लुलुमांश्चैव रोचमानस्तु तेजसा॥ ५९॥
 
 [^1068]: "घ—पुरूरवार्द्रवाश्चैव रोचमानाश्च तंजसा। विश्वे देवा इति ख्यातास्तस्यासन् जन्मनि स्थिताः ॥ [अधिकः पाठः]"
-
-
 
 विश्वे देवा इति ख्यातास् तस्यासञ्जन्मनि स्थिताः॥५९॥
 
@@ -25578,8 +24079,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 देवलोकादिहागम्य प्रैक्षन्त भरतर्षभम्॥६८॥
 
 विद्योतमानं वपुषा भासयन्तं दिशो दश॥६८॥
-
-
 
 लक्षणैर्व्याञ्जितैर्युक्तस् सर्वैर्माहात्म्यसूचकैः ।  
 एतं दृष्ट्वा महावीर्यं विस्मिता ऋषिसत्तमाः॥६९॥
@@ -25614,8 +24113,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न व चतुर्थप्रसव विदुरापत्सु भारत ।  
 अतः परमनाचारं पञ्चमे वार्धकी भवेत्॥ ७६॥
-
-
 
 स वै विद्वान् धर्ममिमं संचोदयति मां कथम् ।  
 अपत्यलाभात् त्वं राजन् प्रमत्त इव भाषसे॥ ७७॥
@@ -25652,8 +24149,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1073]: "3. घ—त्वत्तो न मेऽस्ति सन्तानो मम शोकविनाशनः ।"
 
-
-
 मम जातो वनस्थाया ह्यवरत्वात् कथञ्चन॥२॥
 
 गान्धार्याश्चापि पुत्राणां शतं जातं महात्मनाम्।  
@@ -25686,8 +24181,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अनुगृह्णीष्व कल्याणि !मद्रराजसुतामपि ।
 
-
-
 कुलस्य मम सन्तानं लोकस्य च कुरु प्रियम्॥ ९॥
 
 मम वा पिण्डलाभाय पूर्वेषां च महात्मनाम्।  
@@ -25718,8 +24211,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एवमुक्ताऽब्रवीत् स्नेहात् सकृच्चिन्तय दैवतम् ।  
 तत्र ते भविताऽपत्यम् अनुरूपमसंशयम्॥१८॥
 
-
-
 वैशम्पायनः—
 
 कुन्त्या मन्त्रे कृते तस्मिन् विधिदृष्टेन कर्मणा ।  
@@ -25748,8 +24239,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 नाज्ञासिषमहं मूढा द्वन्द्वाह्वाने द्वयं फलम्।  
 तस्मान्नाहंनियोक्तव्या त्वयैषोऽस्तु वरो मम॥ २६॥
-
-
 
 वैशंपायनः—
 
@@ -25780,8 +24269,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अन्ववर्तन्त पार्थाश्च यमौ पुत्रौ तथैव च॥३५॥
 
 ते च पञ्च शतं चैव कुरुवंशविवर्धनाः।
-
-
 
 सर्वे ववृधिरे राजन् कालेनाप्स्विव पङ्कजाः॥३६॥
 
@@ -25816,8 +24303,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 युक्तानि च कुमाराणां पारिबर्हाण्यनेकशः ।
 
-
-
 कुन्तीं माद्रीं च सन्दिश्य दासीदासपरिच्छदम्॥४४॥
 
 गावो रौप्यं हिरण्यं च प्रेषयामास भारत॥४५॥
@@ -25851,8 +24336,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तेनोपकरणश्रेष्ठैश् शिक्षया चोपबृंहिता।  
 तत्प्रसादाद्धनुर्वेदे समपद्यन्त पारगाः॥५३॥
 
-
-
 गदायां पारगो भीमस् तोमरेषु युधिष्ठिरः।  
 असिचर्मणि निष्णातौ यमौ सत्त्ववतां वरौ॥५४॥
 
@@ -25878,8 +24361,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि चतुर्दशाधिकशततमोऽध्यायः ॥११४॥  
 ॥७॥ संभवपर्वणि एकोनषष्टितमोऽध्यायः ॥५९॥  
 \[अस्मिन्नध्याये ६० श्लोकाः\]
-
-
 
 ॥पञ्चदशाधिकशततमोऽध्यायः॥
 
@@ -25912,8 +24393,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1077]: "घ—विराटनगरे चैकं हायनं गूढचर्यकम् ।  [अधिकः पाठः]"
 
-
-
 राज्ये परीक्षितं स्थाप्य इष्टां गतिमवाप्नुवम्॥ ६॥
 
 एवं युधिष्ठिरस्यापि आयुरष्टोत्तरं शतम्॥७॥
@@ -25945,8 +24424,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1082]: " घ–अज्ञातं पृथया भूपः कालपाशप्रपाशितः ॥  [अधिकः पाठः]"
 
-
-
 पलाशै[^1083]स्तिलकैश्चूतैश् चम्पकैःपारिभद्रकैः।  
 कर्णिकारैरशोकैश्च मल्लिकैरतिमुक्तकैः॥१३॥
 
@@ -25976,8 +24453,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अथ सोऽष्टादशे वर्षे ऋतौ माद्रीमलङ्कृताम् ।  
 आजुहाव ततः पाण्डुः परीतात्मा यशस्विनीम् ॥२०॥
 
-
-
 तत एनां बलाद्राजा जग्राह च रहोगतः।  
 वार्यमाणस्तया देव्या विस्फुरन्त्त्यायथाबलम्॥ २१॥
 
@@ -26006,8 +24481,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सहपुत्रा ततः कुन्ती माद्रीपुत्रौ च पाण्डवौ॥२८॥
 
 आजग्मुस् सहितास्तत्र यत्र राजा तथा गतः॥२८॥
-
-
 
 ततो माद्य्रब्रवीद्राजन् आर्तां कुन्तीमिदं तदा ।  
 एकैव त्वमिहागच्छ तिष्ठन्तां तत्र दारकाः॥२९॥
@@ -26039,8 +24512,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 धन्या त्वमसि बाह्नीके मत्सौभाग्यतरा भुवि ।  
 दृष्टवत्यसि यद्वक्त्रं प्रहृष्टस्य महीपतेः॥३६॥
 
-
-
 माद्री—
 
 अलोभ्यमानेन मया वार्यमाणेन चासकृत् ।  
@@ -26070,8 +24541,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^1088]: " घ–सदुक्त्रेवक्त्रमाधाय दशन्तमिव भारत। [अधिकः पाठः]"
 
 माद्री चापि समालिङ्ग्यराजानं बिललाप सा ॥४३॥
-
-
 
 तं तथाऽधिगतं पाण्डुम् ऋषयस्सह चारणैः।  
 अभ्येत्य सहितास्सर्वे शोकाश्रूणि प्रवर्तयन्॥४४॥
@@ -26103,8 +24572,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 आवाभ्यां त्वेवसहितो गमिष्यसि विशां पते ।
 
-
-
 मुहूर्तं क्षम्यतां राजन् आरोक्ष्यावश्चितां तव॥५३॥
 
 वैशंपायनः—
@@ -26129,8 +24596,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 बान्धवानामथाज्ञानात्प्राप्तास्स्म व्यसनं महत्।  
 किं करिष्यामहे राजन् कर्तव्यं नः प्रसीदताम्॥ ५८॥
-
-
 
 भीमसेनः—
 
@@ -26169,8 +24634,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न चावाप्तं त्वया तात त्वत्पित्रा तु यथा पुरा॥६६॥
 
-
-
 वैशम्पायनः—
 
 एवमुक्त्वा यमौ चापि विलेपतुरथातुरौ॥६७॥
@@ -26201,8 +24664,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 मम हेतोर्गतो राजा दिवं राजर्षिसत्तमः ।  
 न चैव तादृशी बुद्धिर् बान्धवाश्च न तादृशाः॥७३॥
-
-
 
 न चोत्सहे धारयितुं प्राणान् भर्त्राविनाकृता ।
 
@@ -26237,8 +24698,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सुभगे बालपुत्रे तु न मर्तव्यं कथञ्चन।  
 पाण्डवांश्चापि नेष्यामः कुरुराष्ट्रं परन्तपान्॥८०॥
-
-
 
 अधर्मेष्वर्थजातेषु धृतराष्ट्रश्च लोभवान् ।  
 स कदाचिन्न वर्तेत पाण्डवेषु यथाविधि॥ ८१॥
@@ -26281,8 +24740,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 3\. घ—अपुत्रिणां मृतानां स्त्री पुत्रिणां लोकदा भवेत् ।  
 विधवाचारसंयुक्ता सा सुपुत्रासमा स्मृतिः ॥\[अधिकः पाठः\]
 
-
-
 कुन्ती—
 
 यथा पाण्डोश्चनिर्देशस् तथा विप्रगणस्य च ।  
@@ -26312,8 +24769,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अभिवाद्य ऋषीन् सर्वान् परिष्वज्य च पाण्डवान्।  
 मूर्ध्न्युपाघ्राय बहुशः पार्थानात्मसुतौ तथा ॥९४॥
-
-
 
 हस्ते युधिष्ठिरं गृह्य माद्री वाक्यमभाषत॥९४॥
 
@@ -26346,8 +24801,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1095]: "1. अ—यावदनिन्दिते ।"
 
-
-
 धर्मं स्वर्गं च कीर्तिं च त्वत्कृतेऽहमवाप्नुयाम् ।  
 यथा तथा विधत्स्वेह मा च कार्षीर्विचारणाम्॥१०३॥
 
@@ -26378,8 +24831,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 रुदञ्छोकाभिसंतप्तः पपात भुवि पाण्डवः॥ १०९॥
 
 ऋषीन् पुत्रान् पृथां चैव विसृज्य च नृपात्मजान् ।
-
-
 
 नमस्कृत्य[^1096] चिताग्निस्थं धर्मपत्नी नराधिपम्॥११०॥
 
@@ -26413,8 +24864,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पाण्डोरवभृयं कृत्वा देवकल्पा महर्षयः।  
 ततो मन्त्रमकुर्वन्त ते समेत्य तपस्विनः॥१॥
 
-
-
 हित्वा राज्यं च राष्ट्रं च स महात्मा महातपाः।  
 अस्मिन् स्थाने तपस्तप्तुं तापसाञ् शरणं गतः॥२॥
 
@@ -26440,8 +24889,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सुखिनी सा पुरा भूत्वा सततं पुत्रवत्सला।  
 प्रपन्ना दीर्घमध्यानम् संक्षिप्तं तममन्यत॥९॥
-
-
 
 सा न दीर्घेण कालेन सम्प्राप्ता कुरुजाङ्गलम् ।  
 वर्धमानपुरद्वारम् आससाद यशस्विनी॥१०॥
@@ -26470,8 +24917,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तान् महर्षिगणान् सर्वाञ्छिरोभिरभिवाद्य च।  
 स्वागतं वचनं चोक्त्वापाण्डोर्भबनमाविशन्॥१८॥
-
-
 
 उपोपविविशुस्सर्वे कौरवस्य पुरोहिताः॥१९॥
 
@@ -26505,8 +24950,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अनपत्यस्य राजेन्द्र पुण्यलोका न सन्ति ते॥२७॥
 
 तस्माद्धर्मं च वायुं च महेन्द्रं च तथाऽश्विनौ ।
-
-
 
 आराधयस्व राजेन्द्र पत्नीभ्यां सह देवताः॥२८॥
 
@@ -26550,8 +24993,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सोऽहं त्वामाविशं भद्रे जातोऽयं फल्गुनाह्वयः।  
 तस्मादजेयो भुवनैश्चतुर्दशभिरप्यसौ ॥\[अधिकः पाठः\]
 
-
-
 एष जेता मनुष्यांश्च सर्वान् गन्धर्वराक्षसान्।  
 एष[^1099] दुर्योधनं कीर्त्या भारतांश्च विजेष्यति॥ ३५॥
 
@@ -26583,8 +25024,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 प्रविष्ठा पावकं मादी हिस्वा जीवितमात्मनः॥४३॥
 
 सङ्गता सह तेनैव पतिलोकमनुव्रता।
-
-
 
 तस्यास्तस्य च यत् कार्यं क्रियतां तदनन्तरम्॥४४॥
 
@@ -26622,8 +25061,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एतेषां भरणं भीष्म महान्धर्मस्तवाभि भो ।  
 क्षस्तुश्च धृतराष्ट्रस्य गान्धार्वाश्च विशेषतः ॥\[अधिकः पाठः\]
 
-
-
 **॥ सप्तदशाधिकशततमोऽध्यायः ॥**  
 
 ![](../books_images/U-IMG-1709702105Screenshot2024-01-09190011.png)
@@ -26655,8 +25092,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततस्तु नगरात्तूर्णम् आज्यहोमपुरस्कृताः ।  
 निर्हृताः पावका दीप्ताः पाण्डो राजन्पुरोहितैः॥६॥
 
-
-
 अथैतमा[^1102]र्तवैर्गन्धैर् माल्यैश्च विविधैरपि ।  
 शिबिकास्थमलञ्चक्रुर्वस्त्रैराच्छाद्य सर्वशः॥७॥
 
@@ -26684,8 +25119,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 याजकैश्शुक्लवासोभिर् हूयमाना हुताशनाः।  
 अगच्छन्नग्रतस्तस्य दीप्यमानास्स्वलङ्कृताः॥ १३॥
 
-
-
 ब्राह्मणाः क्षत्रिया वैश्याश् शूद्राश्चैव सहस्रशः ।  
 रुदन्तश्शोकसन्तप्ता अनुजम्मुर्नराधिपम् ॥१४॥
 
@@ -26712,8 +25145,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^1107]: "घ-आच्छिद्य वासस्संवीतं देशशुद्धिं वितेनिरे ॥ [अधिकः पाठः]"
 
 पर्यषिञ्जञ्जलेनाशु शातकुम्भमयैर्घटैः ।
-
-
 
 चन्दनेनापि मुख्येन शुक्लेन समलेपयन्॥२०॥
 
@@ -26748,8 +25179,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततस्तयोश्शरीरे ते दृष्ट्वा मोहवशं गताः।  
 हा हा पुत्रेति कौसल्या पपात सहसा भुवि॥२८॥
 
-
-
 तां प्रेक्ष्य पतितामार्तां पौरजानपदा जनाः ।  
 रुरुदुस्सस्वरं सर्वे राजभक्त्या कृपान्विताः॥२९॥
 
@@ -26782,8 +25211,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ॥७॥ संभवपर्वणि द्विषष्टितमोऽध्यायः ॥ ६२ ॥  
 \[अस्मिन्नध्याये ३५ श्लोकाः\]
 
-
-
 **॥ अष्टादशाधिकशततमोऽध्यायः ॥  
 ![](../books_images/U-IMG-1709704865Screenshot2024-01-09130841.png)**
 
@@ -26815,8 +25242,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अतिक्रान्तसुखाः कालाः प्रत्युपस्थितदारुणाः ।  
 शश्वत् पापीयदिवसाः पृथिवी गतयौवना॥ ६॥
-
-
 
 बहुमायासमाकीर्णा नानादेशास्समाकुलाः ।  
 लुप्तधर्मक्रियाचारो घोरः कालो भविष्यति॥ ७॥
@@ -26852,8 +25277,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 घोरमेनमद्दष्ट्वैव कालं सर्वक्षयावहम् ।  
 दृष्ट्वाऽऽनन्दसुखं प्रीत्या दिष्ठ्या मातश्श्रृणुष्व ह ॥
 
-
-
 तास्सुघोरं तपः कृत्वा दैवाद्भरतसत्तम ।  
 देहं त्यक्त्वा महाराज गतिमिष्टां ययुस्तदा॥१३॥
 
@@ -26882,8 +25305,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 धार्तराष्ट्रान्भीमसेनस् सर्वांस्तु परिमर्दति॥ ३॥
 
 हर्षाद्ध्येतान् क्रीडमानान् गृह्णकाकी निलीयते।
-
-
 
 शिरस्सु[^1115] च निगृह्यैनान् योधयामास पाण्डवः॥ ४॥
 
@@ -26914,8 +25335,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ततो बलमभिख्यातं धार्तराष्ट्रः प्रतापवान् ।
 
-
-
 भीमसेनस्य तज्ज्ञात्वा दुष्टभावमदर्शयत्॥१२॥
 
 तस्य धर्मादपेतस्य पापानि परिपश्यतः ।  
@@ -26945,8 +25364,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वाहयित्वा कुमारांस्ताञ्जलक्रीडागतान् विभुः॥ २०॥
 
 प्रमाणकोट्यां वासार्थं सुष्वापारुह्य तत्स्थलम्॥ २१॥
-
-
 
 शीतं वासं समासाद्य श्रान्तो मदविमोहितः।  
 निश्चेष्टः पाण्डवो राजन् सुष्वाप मृतकल्पवत्॥ २२॥
@@ -26980,8 +25397,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तेषां सुतीक्ष्णदंष्ट्राश्च निमग्नास्तत्र मर्मसु ॥  
 त्वचं च नाल्पिकां भेत्तुं शक्नुवन् पृथुतेजसः ॥
 
-
-
 त्वचंन चास्य बिभिदुस् सारत्वात् पृथुवक्षसः॥२८॥
 
 प्रबुद्धो भीमसेनस्तान् सर्वान् सर्पानपोथयत् ।  
@@ -27011,8 +25426,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न जज्ञिरे तु तद्वृत्तं पाण्डवा मन्दचेतसः ।  
 वेश्यापुत्रस्तदाचष्ट पार्थानां हितकाम्यया॥ ३६॥
-
-
 
 पाण्डवा ह्यपि तत्सर्वं प्रत्यजानन्नरिन्दमाः।  
 उद्भावनमकुर्वन्तो विदुरस्य मते स्थिताः॥३७॥
@@ -27047,8 +25460,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 प्रमाणकोट्यामुद्देशे स्थले कृत्वा परिच्छदम्।
 
-
-
 भक्ष्यं भोज्यं च पेयं च चोष्यं लेह्यं तथाऽपि च॥५॥
 
 उपार्जितं नरैस्तत्र तदा सूदकुतं च तत् ।  
@@ -27080,8 +25491,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सुपस्थितं सुधाकारैश् शिल्पकारैश्च शिल्पिमिः॥ १२॥
 
 दीर्घिकाभिश्च पुण्याभिस् तथा कारण्डकैरपि।
-
-
 
 जलं तु शुशुभे छन्नं फुल्लैजेलरुहैस्तथा॥१३॥
 
@@ -27115,8 +25524,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 दिवसान्ते परिश्रान्ता विहृत्य कुरुनन्दनाः।  
 विहारायतनेष्वेव वीरा वासमरोचयन्॥२१॥
 
-
-
 भीमस्तु बलवान् भुक्त्वा व्यायामाभ्यधिकं जले ।  
 वाहयित्वा कुमारांस्ताञ्जलक्रीडां महाबलः॥२२॥
 
@@ -27146,8 +25553,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततः प्रबुद्धः कौन्तेयस् स संछिद्य च बन्धनम् ।  
 पोथयामास तान् सर्पान् कांश्चित् प्राणैर्व्ययोजयत् ॥२९॥
 
-
-
 ते हन्यमानाः पार्थेन सर्पा वासुकिमभ्ययुः।  
 ऊचुश्च सर्पराजानं वासुकिं वासवोपमम्॥३०॥
 
@@ -27175,8 +25580,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अब्रवीत्तं च नागेन्द्रः किमस्य क्रियतामिति॥ ३६॥
 
 प्रियं धनौघं रत्नानि यावदस्य प्रदीयताम्॥३६॥
-
-
 
 एवमुक्तस्तदा नागो वासुकिं प्रत्यभाषत॥३७॥
 
@@ -27210,8 +25613,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1124]: "1. घ—वदन्तो भीमसेनोऽपि पूर्वमेव गृहागतः । इति स्म पृच्छतां नृृणां कुन्त्याश्च विदुरस्य तु ॥"
 
-
-
 युधिष्ठिरस्तु धर्मात्मा चिन्तयन् पापमात्मनि।  
 स्वतोऽनुमा[^1125]नेन परं तदान्तं स्मानुपश्यति॥४५॥
 
@@ -27240,8 +25641,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 न च प्रणयते चक्षुस् साधु दुर्योधनस्य ह ।  
 ततः प्रसुप्तं मन्येऽहं पापेन निहतं सुतम्॥५३॥
-
-
 
 विदुरः—
 
@@ -27274,8 +25673,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अभिवाद्य परिष्वक्तस् समाघ्रातश्च मूर्धनि।  
 प्रणम्य धर्मपुत्राय सस्वजे फल्गुनं तदा॥६१॥
 
-
-
 अभिवादितश्च तैर्वीरैस् सस्वजे च यमावपि ।  
 तच्च सर्वं यथावृत्तम् आख्याति स्म वृकोदरः ॥६२॥
 
@@ -27301,8 +25698,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि विंशत्यधिकशततमोऽध्यायः ॥१२०॥  
 ॥७॥ संभवपर्वणि पञ्चषष्टितमोऽध्यायः ॥६५॥  
 \[अस्मिन्नध्याये ६७ श्लोकाः।\]
-
-
 
 **॥ एकविंशत्यधिकशततमोऽध्यायः ॥  
 ![](../books_images/U-IMG-1709871994Screenshot2024-01-09190011.png)**
@@ -27335,8 +25730,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 साऽभिगम्याऽऽश्रमं तस्य रमणीयं शरद्वतः ।  
 धनुर्बाणधरं दृष्ट्वा लोभयामास गौतमम् ॥७॥
 
-
-
 तामेकवसनां दृष्ट्वा गौतमोऽप्सरसं वने ।  
 लोकेऽप्रतिमसंस्थानाम् उत्फुल्लनयनोऽभवत् ॥८॥
 
@@ -27367,8 +25760,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 स तदादाय मिथुनं राजा च कृपयाऽन्वितः ।  
 आजगाम गृहानेव मम पुत्राविति ब्रुवन् ॥१७॥
-
-
 
 ततस्संवर्धयामास संस्कारैश्चाप्ययोजयत् ।  
 कृपया परया बालाविमौ संवर्धिताविति ॥१८॥
@@ -27403,8 +25794,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 \[अस्मिन्नध्याये २५ श्लोकाः\]
 
 [^1129]: "2. घ – कोशे नाध्यायपरिसमाप्तिरिह।"
-
-
 
 **॥ द्वाविंशत्यधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1709987873Screenshot2024-01-09130841.png)**
@@ -27446,8 +25835,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स वै युक्तो गुरुरिह यदीच्छेत्कृपणस्सुखम् ।  
 भीष्मोऽप्यलपदेवं स भरद्वाजपरीप्सया ॥
 
-
-
 द्रोणाय वेदविदुषे भारद्वाजाय धीमते ।  
 पाण्डवान् कौरवांश्चैव ददौ शिष्यान् नरर्षभ ॥३॥
 
@@ -27476,8 +25863,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 भरद्वाजो महाप्राज्ञस् सततं संशितव्रतः ॥९॥
 
 सोऽभिषेक्तुं ततो गङ्गां पूर्वमेवागमन्नदीम् ॥१०॥
-
-
 
 महर्षिस्तु भरद्वाजो हविर्धाने चरन् पुरा ।  
 ददर्शाप्सरसं साक्षात् घुताचीमाप्लुतामृषिः ॥११॥
@@ -27509,8 +25894,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 ततः पितृनियुक्तात्मा पुत्रलोभाद्यशस्विनीम् ।  
 शारद्वतीं तदा द्रोणः कृपीं भार्यामविन्दत ॥१९॥
 
-
-
 अग्निहोत्रे च धर्मे च दमे च सततं रताम् ॥१९॥
 
 अलभद् गौतमी पुत्रम् अश्वत्थामानमच्युतम् ॥२०॥
@@ -27541,8 +25924,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 क्षत्रघ्नंतममित्रघ्नम् अपश्यद्भृगुनन्दनम् ॥२७॥
 
 स रामायात्मनो नाम जन्म चाङ्गिरसे कुले।
-
-
 
 निवेद्याङ्गिरसो भूमौ पादावस्याभ्यवादयत् ॥२८॥
 
@@ -27576,8 +25957,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अस्त्राणि मे समन्त्राणि ससंहाराणि भार्गव ।  
 सप्रयोगरहस्यानि दातुमर्हस्यशेषतः ॥३५॥
 
-
-
 एतद्वसु वसूनां हि सर्वेषां विप्रसत्तम ॥३५॥
 
 तथेत्युक्त्वा ततस्तस्मै प्रादादस्त्राणि भार्गवः ।  
@@ -27609,8 +25988,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^1137]: "क–ख–ग–पार्षतं राजन्"
 
 इत्येवमुक्तस्सख्या स प्रीतिपूर्वं जनेश्वरः ।
-
-
 
 भारद्वाजेन पाञ्चालो रोषात् संरक्तलोचनः ॥२॥
 
@@ -27647,8 +26024,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ययोरेव समं वित्तं ययोः प्रज्ञा ययोश्रुतम।
 
-
-
 तयोस्सम्बन्धकं तुल्यं न तु पुष्टविपुष्टयोः ॥१०॥
 
 नाश्रोत्रियश्रोत्रियस्य नारथी रथिनस्सखा ।  
@@ -27676,8 +26051,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स्यालस्यैव[^1143] गृहं द्रोणस् सदारः पर्युपस्थितः॥१५॥
 
 [^1143]: "घ—कोशे--प्रीतिकारं करोम्यस्य द्रुपदस्य निराकृतेः । ऐश्वर्यमदमत्तस्य नृपं कंचिदुपेत्य च ॥ पौर्वकं सौहृदं त्यक्त्वा राज्यैश्वर्यविमोहितः । अपहस्तेन मां मत्तःद्रावयामास सोऽन्तिकात् ॥"
-
-
 
 अश्वत्थाम्ना च पुत्रेण महाबलवता सह ।  
 अवसत्तत्र राजेन्द्र गौतमस्य निवेशने ॥१६॥
@@ -27722,8 +26095,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स तथोक्तस्तथा तेन सदारः प्राद्रवत्कुरून् ।  
 तां प्रतिज्ञां प्रतिज्ञाय यां कर्ता न चिरादिव।\[अधिकः पाठः\]
 
-
-
 स तथोक्तस्तथा तेन सदारःप्राद्रवत् कुरून् ।  
 तां प्रतिज्ञां प्रतिज्ञाय यां कर्ता न चिरादिव ॥२॥
 
@@ -27752,8 +26123,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 कृत्यवन्तस्समीपस्थम् अग्निहोत्रपुरस्कृतम्॥ ७॥
 
 [^1149]: "4. घ—परस्परं कुमारास्ते परितः पर्यवर्तयन् । [अधिकः पाठः]"
-
-
 
 स तान्[^1150] कृत्यवतो दृष्ट्वा कुमारांस्तु विचेतसः ।  
 ब्राह्मणः[^1151] प्रहसन् मन्दं कौशलेनाभ्यभाषत ॥८॥
@@ -27784,8 +26153,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 इत्युक्तो धर्मपुत्रेण भारद्वाजोऽब्रवीत्पुनः ।  
 अद्य भोजनमस्माकं त्रयाणां कुन्तिसंभव ॥  
 दिवारात्रं मृष्टमन्नम् इत्युक्तं पुनरब्रवीत् ॥
-
-
 
 द्रोणः—
 
@@ -27822,8 +26189,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 कोऽसि कं त्वां विजानीमो ब्रूहि किं करवाम ते ॥२०॥
 
-
-
 वैशम्पायनः—
 
 एवमुक्तस्तथा विप्रः प्रत्युवाच कुमारकान् ।  
@@ -27854,8 +26219,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 पाञ्चालराजपुत्रश्च यज्ञसेनो महाबलः ।  
 मया सहाकरोद्विद्यां गुरौ तस्मिन् समाहितः ॥२८॥
-
-
 
 स मे तत्र सखा चासीत् प्रियवागुपकारकः।  
 मया स्म रमते नित्यं सङ्गम्य समये तदा ॥२९॥
@@ -27889,8 +26252,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 लेभे च गौतमी पुत्रम् अश्वत्थामानमात्मजम् ॥३६॥
 
-
-
 भीष्म विक्रमकर्माणम् आदित्यमिव तेजसा ।  
 आत्मजेनाभवं प्रीतो भरद्वाजो यथा मया ॥३७॥
 
@@ -27922,8 +26283,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सीदमानकुटुम्बस्सन् दृष्ट्वा दारिद्र्यमात्मनः ॥  
 आदाय गां धनं चापि याचित्वा दातृहस्ततः ।  
 गतिं गत्वा बहून् देशान् पर्यटन् धनकाङ्क्षया॥ \[अधिकः पाठः\]
-
-
 
 अनभिज्ञक्षीररसो नृत्यति प्रहसन् मुहुः ॥४२॥
 
@@ -27964,8 +26323,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 रुदन्तमेवमित्युक्ता दृष्ट्वा माता भृशातुरा।  
 महद्दुःखं तयो र्दृष्ट्वा दुःखितोऽहं पितामह ॥ \[अधिकः पाठः\]
 
-
-
 संम्मरन् सङ्गतं चैव वचनं चैव तस्य तत् ।  
 ततो द्रुपदमागम्य सखिपूर्वमहं प्रभो ॥४९॥
 
@@ -28001,8 +26358,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 न हि राज्ञामुदीर्णनामेवंभूतैर्नरैः क्वचित्।  
 सख्यं भवति मन्दात्मञ् छ्रिया हीनैर्धनच्युतैः ॥
 
-
-
 सङ्गमं नाभिजानामि त्वयाऽद्य समये कृतम् ।  
 एकरात्रं तु ते ब्रह्मन् कामं दास्यामि भोजनम् ॥  
 आदत्स्वैनं द्विजश्रेष्ठ सौहार्दं ह्यर्थबन्धनम्॥  
@@ -28035,8 +26390,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 समेतानां तु सर्वेषां बभूवाभ्यधिकोऽर्जुनः॥  
 ऐन्द्रिं त्वविषमं द्रोण उपदेशेऽभ्यभाषत॥  
 एकस्सर्वकुमाराणां विव्याध शरमुत्तमम् ।
-
-
 
 नाराजा पार्थिवस्यापि सखिपूर्वं किमिष्यते॥५४॥
 
@@ -28074,8 +26427,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पूजयित्वा बहुविधैर्धनैर् गुरुपरीप्सया।  
 पौत्राणां सुमतिं दृष्ट्वा सर्वशास्त्रार्थगाहिनीम् ॥\[अधिकः पाठः\]
 
-
-
 स च शिष्यान् महेष्वासः प्रतिजग्राह कौरवान्॥५७॥
 
 प्रतिगृह्य च ताम् सर्वान् द्रोणो वचनमब्रवीत् ।  
@@ -28107,8 +26458,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ततो द्रोणः पाण्डुपुत्रान् अस्त्राणि विविधानि च ।  
 ग्राहयामास दिव्यानि मानुषाणि च वीर्यवान्॥
-
-
 
 राजपुत्रा[^1157]स्तथैवान्ये समेत्य भरतर्षभाः।  
 अभिजग्मुस्ततो द्रोणम् अस्त्रार्थं द्विजसत्तमम्॥ ६६॥
@@ -28142,8 +26491,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1159]: "3. ख—बुज्या भुजबलोद्योगे तेषु सर्वेषु पाण्डवः। अस्त्रविद्यानुरागाच्च विशिष्टोऽभवदर्जुनः ॥"
 
-
-
 अस्त्रे चपरमे योगे प्रियो द्रोणस्य चाभवत्॥ १॥
 
 द्रोणेन[^1160] च तदाहूय रहस्युक्तोऽन्नसाधकः।  
@@ -28176,8 +26523,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सममाचार्यपुत्रेण गुरुमायात् सफल्गुनः॥  
 आचार्य पुत्रात्तस्मात्तुविशेबेऽपि धियो गुणैः ।  
 न चाहीयत मेधावी पार्थश्शस्त्रमृतां वरः॥
-
-
 
 हस्तस्तेज[^1163]स्विनो नित्यम् अभ्यासकृतकारणात्॥ ४॥
 
@@ -28214,8 +26559,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 शिष्याणां पश्यतां चैव क्षिपति स्म महाभुज ॥  
 चक्षुषी वाससा चैव बद्ध्वा प्रादाच्छरासनम् ॥
 
-
-
 रथेषु भूमावपि च रणशिक्षामशिक्षयत्॥ ७॥
 
 गदायुद्धेऽसिचर्यायां तोमरप्रासशक्तिषु ।  
@@ -28248,8 +26591,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1165]: "ख—असामान्यमिदं तात लोकेष्वस्त्रं निगद्यते । तद्वारयेथाः प्रयतः शृणु चेदं वचो मम ॥ [अधिकः पाठः]"
 
-
-
 तस्य तत्कौशलं दृष्ट्वा धनुर्वेद जिघृक्षवः।  
 राजानो राजपुत्राश्च समाजमुस्सहस्रशः॥९॥
 
@@ -28281,8 +26622,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अथ द्रोणाभ्यनुज्ञाताः कदाचित् कुरुपाण्डवाः।
 
-
-
 रथैर्विनिर्ययुस्सर्वे मृगयामरिमर्दनाः॥१७॥
 
 तत्रोपकरणं गृह्य नरः कश्चिद्यदृच्छया ।  
@@ -28308,8 +26647,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 प्रेक्ष्य[^1168] तं ब्रीडिताश्चासन् प्रशशंसुश्च सर्वशः॥२३॥
 
 [^1168]: "क–ख–ग–आत्मन्यकापूर्वीलां चततस्ते पाण्डुनन्दनाः । श्वानंतु पाण्डवा दृष्ट्वा विस्मयोत्फुल्ललोचनाः॥ [अधिकः पाठः]"
-
-
 
 तं ततोऽन्वेषमाणास्ते वने वनचरेश्वरम् ।  
 ददृशुः पाण्डवा राजन् अस्यन्तमनिशं शरान्॥२४॥
@@ -28341,8 +26678,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 वैशंपायनः—
 
 मुहूर्तमिव सं द्रोणश् चिन्तयित्वा विनिश्चयम् ।
-
-
 
 सव्यसाचिनमादाय नैषादिं प्रति जग्मिवान्॥३१॥
 
@@ -28378,8 +26713,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तमब्रवीत् त्वयाऽङ्गुष्ठो दक्षिणो दीयतामिति ॥ ३७॥
 
-
-
 एकलव्यस्तु तच्छ्रुत्वा वचो द्रोणस्य दारुणम्।  
 प्रतिज्ञामात्मनो रक्षन् सत्ये च निरतस्सदा॥३८॥
 
@@ -28406,8 +26739,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 \[अस्मिन्नध्याये ४२॥श्लोकाः\]
 
 [^1174]: "ख–कोशे- एकोनसप्ततितमोऽध्यायः । घ—कोशे-अष्टषष्टितमोऽध्यायः ।"
-
-
 
 **॥षड्विंशत्यधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1710074802Screenshot2024-01-09190011.png)**
@@ -28439,8 +26770,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तुल्येष्वस्त्रोपदेशेषु सौष्ठवेन च वीर्यवान्।  
 एकस्सर्वकुमाराणां सबभूवार्जुनोऽधिकः॥४॥
 
-
-
 प्राणाधिकं भीमसेनं कृतविद्यं धनञ्जयम् ।  
 धार्तराष्ट्रा दुरात्मानो नामृष्यन्त परंतप॥ ५॥
 
@@ -28471,8 +26800,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^1180]: "क–ख–ग–घ–ततः कुन्सीसुतो राजन् गृहीत्वा धनुरुत्तमम् ।"
 
 ततो विततधन्वानं द्रोणस्तं कुरुनन्दनम्।
-
-
 
 स मुहूर्तादुवाचेदं वचनं भरतर्षभ॥१२॥
 
@@ -28508,8 +26835,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 विकृष्य कार्मुकं पुत्र तिष्ठ तावनिमुहुर्तकम्॥२०॥
 
-
-
 एवमुक्तस्सव्यसाची मण्डलीकृतकार्मुकः।  
 तस्थौ भासं समुद्दिश्य गुरुवाक्यप्रचोदितः ॥ २१॥
 
@@ -28537,8 +26862,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 कस्य[^1184] चित्त्वथकालस्य सशिष्योऽङ्गिरसां वरः।
 
 [^1184]: "घ–सामर्थ्यं फल्गुनस्यापि कौरवाणां तथेतरत् । दर्शयामास भीष्माय विदुराय महात्मने ॥ [अधिकः पाठः]"
-
-
 
 जगाम गङ्गामभितो मज्जितुं भरतर्षभ॥२९॥
 
@@ -28569,8 +26892,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 गृहाणेदं महाबाहो विशिष्टमतिदुर्धरम्।
 
-
-
 अस्त्रंब्रह्मशिरो वीर सप्रयोगनिवर्तनम्॥३६॥
 
 न च ते मानुषेष्वेतत् प्रयोक्तव्यं कथंचन ।  
@@ -28591,8 +26912,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि षड्विंशत्यधिकशततमोऽध्यायः ॥१२६॥  
 ॥७॥संभवपर्वणि एकसप्ततितमोऽध्यायः ॥७१॥  
 \[अस्मिन्नध्याये ४१ श्लोकाः\]
-
-
 
 **॥ सप्तविंशत्यधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1710075613Screenshot2024-01-09130841.png)**
@@ -28628,8 +26947,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1191]: "क–ख–ग–स्वयि तथा यश्वं समाज्ञापय चैव माम् ।"
 
-
-
 स्पृहयाम्यद्यनिर्वेदात् पुरुषाणां सचक्षुषाम् ।  
 अस्त्रहेतोस्समायुक्तान् ये मे द्रक्ष्यन्ति पुत्रकान्॥ ६॥
 
@@ -28660,8 +26977,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 सान्तः पुरस्सहामात्यो व्यासस्यानुमते तदा॥१३॥
 
 भीष्मं प्रमुखतः कृत्वा कृपं चाचार्यसत्तमम्।
-
-
 
 बाह्लीकं सोमदत्तं च भूरिश्रवसमेव च॥१४॥
 
@@ -28698,8 +27013,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1196]: "क–ख–ग–स तथा समये चक्रे बलं"
 
-
-
 ब्राह्मणांश्चापि शास्त्रज्ञान् वाचयामास मङ्गलैः ॥२२॥
 
 सुवर्णमणिरत्नानि वस्त्राणि विविधानि च।  
@@ -28731,8 +27044,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 द्रोणेन समनुज्ञाता गृह्य शस्त्रंपरन्तपाः ।  
 धनूंषि पूर्वं संगृह्य सप्तकाञ्चनभूषिताः॥३०॥
 
-
-
 सज्यानि विविधाकारैश् शरैस्सन्धाय कौरवाः।  
 ज्याघोषं तलघोषं च कृत्वा भूतान्यपूजयन्॥ ३१॥
 
@@ -28763,8 +27074,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 गृहीतखड्गचर्माणस् ततो भूयः प्रहारिणः।
 
-
-
 शस्त्रमार्गान् यथोद्दिष्टांश् चेरुस्सर्वासु भूमिषु॥४०॥
 
 लाघवं सौष्ठवं शोभां स्थिरत्वं दृढमुष्टिताम् ।  
@@ -28792,8 +27101,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 \[अस्मिन्नध्याये ४५ श्लोकाः\]
 
 [^1202]: "3. क-कोशे-ग—कोशे च एकसप्ततितमोऽध्यायः । स्व-कोशे-घ-कोशे च सप्ततितमोऽध्यायः ।"
-
-
 
 **॥ अष्टाविंशत्यधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1710077925Screenshot2024-01-09183043.png)**
@@ -28828,8 +27135,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ततस्तावुद्यतगदौ गुरुपुत्रेण वारितौ ।
 
-
-
 युगान्तानिलसंक्षुब्धौ महावेगाविवार्णवौ॥६॥
 
 ततो रङ्गाङ्कणगतो द्रोणो वचनमब्रवीत् ।  
@@ -28856,8 +27161,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 एष शीलवतां[^1204] चापि शीलरत्राकरोऽर्जुनः॥
 
 [^1204]: "1. क-ख-ग—वसामग्र्यएष ज्ञानवतां वरः । घ—वतांशील गुणरत्नाकरोऽर्जुनः ।"
-
-
 
 वैशम्पायनः—[^1205]
 
@@ -28892,8 +27195,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1207]: "घ—इत्थमन्तस्तपन् राजन् हृदि मात्सर्यवह्विना । बहिर्मधुरया वाचा पृथापुतानतोषयत् ॥ [अधिकः पाठः]"
 
-
-
 दर्शयामास बीभत्सुर् आचार्यादस्त्रलाघवम्॥ १९॥
 
 आग्नेयेनासृजद्वह्निंवारुणेनासृजत् पयः।  
@@ -28925,8 +27226,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अन्येषां चापि शिक्षाणां दर्शयामास लाघवम् ॥२७॥
 
-
-
 ततस्समाप्तभूयिष्ठे तस्मिन् कर्मणि भारत ।  
 महाभूते समाजे च वादित्रस्य च निस्वने ॥२८॥
 
@@ -28954,8 +27253,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि अष्टाविंशत्यधिकशततमोऽध्यायः ॥१२८॥  
 ॥७॥ संभवपर्वणि त्रिसप्ततितमोऽध्यायः ॥७३॥  
 \[अस्मिन्नध्याये ३४॥ श्लोकाः\]
-
-
 
 **॥एकोनत्रिंशदधिकशततमोऽध्यायः॥**
 
@@ -28985,8 +27282,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 कोऽयमित्यागतक्षोभः कौतूहलपरोऽभवत् ॥५॥
 
 विवेश र विस्तीर्ण कर्णः परपुरञ्जयः ॥५॥
-
-
 
 सहजं कवचं बिभ्रत् कुण्डलद्योतिताननः ॥६॥
 
@@ -29022,8 +27317,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स्वागतं ते महावाहो दिष्ट्या प्राप्तोऽसि मानद।  
 अहं च कुरुराष्ट्रं च यथेष्टमुपभुज्यताम् ॥ १४॥
 
-
-
 **कर्णः—**
 
 कृतं सर्वेण मे राजन् सखित्वं भवता वृणे।  
@@ -29052,8 +27345,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 गुरोस्समक्षं यावत्ते हराभ्यद्य शिरश्शरैः ॥१९॥
 
 [^1214]: "अर्जुनः-  सर्वसाधारणं रङ्गं विवाहाद्युत्सवं तथा । नाहूता नगच्छन्ति श्रेष्ठाः प्राप्ताश्चभूमिपाः ॥"
-
-
 
 **वैशंपायनः—**
 
@@ -29093,8 +27384,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 **कर्णः-**
 
-
-
 कुन्तिभोजसुता मोहं विज्ञातार्था जगाम ह ॥२६॥
 
 तां तथा मोहमपन्नां विदुरस्सर्वधर्मवित् ।  
@@ -29128,8 +27417,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवमुक्तस्य कर्णस्य ब्रीडावनतमाननम् ।
 
-
-
 बभौ वर्षाम्बुदक्लिनं पद्ममागलितं यथा ॥३३॥
 
 **दुर्योधनः—**
@@ -29160,8 +27447,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 राजलिङ्गैस्तथाऽन्यैश्च भूषितो भूषणैश्शुभैः ॥४०॥
 
 सच्छत्रवालव्यजनो जयशब्दोत्तरेण च।
-
-
 
 सभाज्यमानो विप्रैश्च प्रदत्त्वा ह्यमितं वसु ॥४१॥
 
@@ -29203,8 +27488,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1220]: "क–ख–ग–घ–रङ्गं"
 
-
-
 तमालोक्य धनुस्त्यक्त्वा पितृगौरवयन्त्रितः।  
 कर्णोऽभिषेकार्द्रशिराश् शिरसा तमवन्दत ॥२॥
 
@@ -29244,8 +27527,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 गच्छ पार्थ न योद्धव्यं शुना सह कदा चन॥
 
 साकं शुना विवदतो ध्रुवं भवति लाघवम् ॥\[अधिकः पाठः\]
-
-
 
 ततो दुर्योधनः कोपात् उत्पपात महाबलः ।  
 भ्रातृपद्मवनात् तस्मान्मदोत्कट इव द्विपः ॥९॥
@@ -29291,8 +27572,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 दुर्योधनः—\[अधिकः पाठः\]
 
-
-
 क्षत्रियासु[^1223] च ये जाता ब्राह्मणास्तव विश्रुताः ।  
 आचार्यः[^1224] कलशाज्जातो शरस्तम्बाद् गुरुः कृपः ॥१४॥
 
@@ -29322,8 +27601,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 [^1225]: "ध - श्रुत्वतद्धीमसेनस्य पार्थस्य महात्मनः ।[अधिकः पाठः
 
 ततो दुर्योधनः कर्णम् आलम्व्याप्रकरे नृपः ।
-
-
 
 दीपिकाभिः कृतालोकस् तस्माद्रङ्गाद्विनिर्ययौ ॥२०॥
 
@@ -29361,8 +27638,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 **वैशम्पायनः—**
 
 ततः सर्वस्य सैन्यस्य हा \[अधिकः पाठः\]
-
-
 
 **॥ एकत्रिंशदधिकशततमोऽध्यायः॥**
 
@@ -29408,8 +27683,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अहमेवास्य जगतः सृष्ट्यादेः कारणं महत् ।  
 स्रष्टा पालयिता हर्ता जगतोऽस्याहमेव च ॥
 
-
-
 **वैशम्पायनः—**
 
 त्वं कः पञ्चाननोब्रूहि विधिनेत्थं प्रकोपितः ।  
@@ -29454,8 +27727,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 जयेच्छ्वोरेकाहमिव दिवारात्रं निरन्तरम् ॥  
 दिव्ये वर्षशतेऽतीते रोपेण महता ऽन्विः ॥
 
-
-
 गुर्वर्थं दक्षिणां काले प्राप्तेऽमन्यत वै गुरुः ॥१॥
 
 कृतास्त्रांश्च ततश्शिष्यांश् चोदयामास वै गुरुः।  
@@ -29493,8 +27764,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 विवेकपञ्चमं पार्थां गुह्यमेतन्मयोदितम् ।  
 एतत्ते सर्वमाख्यातं यत्पृष्टोऽहमिह त्वया ॥ \[अधिकः पाठः\]
 
-
-
 **वैशंपायनः—**
 
 तथेत्युक्त्वा तु ते सर्वे रथैस्तूर्ण प्रहारिणः ।  
@@ -29521,8 +27790,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 भ्रातृभिस्सहितो राजंस् त्वरया निर्ययौ गृहात् ॥ ११ ॥
 
 [^1229]: "घ- कुलस्योऽयं महाघोष इति पृष्टे नृपे जगुः । कौरवा योद्धुमायान्ति भवता कारणं विना ॥ राधेयप्रमुग्दा वीरा धार्तराष्ट्रा इति प्रभो ॥ इति कम्युकिनस्पर्वे वेस्त्रहस्ताः पृथक्पृथक् । शीघ्रं निर्याहि राजेन्द्र भिन्दन्ति च पुरं महत् ॥[अधिकः पाठः]"
-
-
 
 ततस्तु कृतसन्नाहा यज्ञसेनसहोदगः ।  
 शरवर्षाणि मुञ्चन्तः प्रणेदुस्सर्वतोदिशम् ॥१२॥
@@ -29551,8 +27818,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अनेकमिव सन्त्रासान्मेनिरे सर्वकौरवाः ॥१८॥
 
 द्रुपदस्य शरारा घोरा विचेरुस्मर्वतोदिशम् ॥१९॥
-
-
 
 ततश्शङ्खाश्च[^1232] मेर्यश्च मृदङ्गाश्च सहस्रशः ।  
 प्रावाद्यन्त महाराज पाञ्चालानां निवेशने ॥२०॥
@@ -29583,8 +27848,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सुबाहुं पञ्चभिर्विद्धा तथाऽन्यान् विविधैश्शरैः।  
 विव्याथ सहसा भूयो ननाद बलवत्तरम् ॥२७॥
-
-
 
 विनद्य कोपात् पाश्र्वालस् सर्वशस्त्रभृतां वरः ।  
 धनूंषि रथयन्त्रं च हयाञ्छत्रध्वजानपि ॥२८॥
@@ -29623,8 +27886,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 कर्णदुर्योधनी पूर्व नगरात्तो विनिर्गतौ ।  
 सर्वेषु निर्गतेष्वेषु दृष्ट्वा तान् कुरुनन्दनान् ॥ \[ अधिकः पाठः\]
 
-
-
 युधिष्ठिरं निवार्याशु मा युद्धमिति पाण्डव ।  
 माद्रेयौ चक्ररक्षौ तु फल्गुनस्तु तदाऽकरोत् ॥३४॥
 
@@ -29657,8 +27918,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पूरयन् रथघोषेण निम्नञ् शसुबलं शरैः॥  
 विस्मापयजनीकानि ह्रादयन् सुहृदां मनः।  
 पूरमच्छरजालेन दिशो दश ययौ रणम्॥\[अधिकः पाठः\]
-
-
 
 1.ते गजा गिरिसकाशाः क्षरन्तो रुधिरं बहु ।  
 भीमसेनस्य[^1237] गदया भिन्नमस्तकपिण्डकाः ॥४०॥
@@ -29694,8 +27953,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 दंशितारूढरथिनः सव्यसाधि शरार्दिताः॥  
 भीतयन्तप्रतोदाग्रपृथुविद्भुतवाजिनः।  
 रथिनां च रथास्सर्वे भेञ्जिरे ते दिशो दश।
-
-
 
 पदातीन् नागरांश्चैव नावधीदर्जुनाग्रजः ।  
 गोपाल इव दण्डेन यथा पशुगणान् वने ॥४२॥
@@ -29733,8 +27990,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अर्जुना नावधीश्चैव भीषयामास केवलम् \। \[अधिकः पाठः\]
 
-
-
 न दिशो नान्तरिक्षं च तदा नैव च मेदिनी।  
 अदृश्यत महाराजतत्र[^1239] किंच न संयुगे ॥५०॥
 
@@ -29765,8 +28020,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ततस्त्वर्जुनपाञ्चालौ युद्धाय समुपागतौ ।  
 ब्यक्षोभयेतां तो सैन्यम् इन्द्रवैरोचनावित्र ॥५६॥
-
-
 
 ततस्सत्यजितं पार्थो दशभिर्मर्मभेदिभिः।  
 विव्याथ बलवद्राजंस तदद्भुतमिवाभवत् ॥५७॥
@@ -29799,8 +28052,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 पञ्चभिस्तस्य विव्याथ हयान् सूतं च सायकैः ॥६५॥
 
-
-
 तत उत्सृज्य तच्चापम् आददानश्शरावरम् ।  
 स्वङ्गमुद्यम्य कौन्तेयस् सिंहनादमथाकरोत् ॥६६॥
 
@@ -29829,8 +28080,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 उत्पाहं पौरुषं वीर्यं धैर्यं गाम्भीर्यमेव च ॥  
 सत्यं बलं च शौर्यं च धार्ष्ट्र्यं बुद्धिविनिश्चयम्।  
 दृष्टिं मुष्टिं च सन्धानं हस्तलाघवमेव च ॥
-
-
 
 आयान्तमर्जुनं दृष्ट्वा कुमारास्सहितास्तदा ।  
 ममृदुस्तस्य नगरं द्रुपदस्य महात्मनः ॥७०॥
@@ -29871,8 +28120,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 आयन्तमर्जुनं           \[अधिकः पाठः\]
 
-
-
 स वैरं मनसा ध्यात्वा द्रोणो द्रुपदमब्रवीत् ॥७४॥
 
 **द्रोणः—**
@@ -29902,8 +28149,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1249]: "घ–येनाहृतं यस्य राज्यं दुर्बलस्य बलीयसा । दुर्बलस्य न तद्राज्यं बलिनो राज्यमुच्यते ॥ राजा राज्ञस्सख्यालोके इत्युक्तं हि त्वया पुरा । राजाऽहमभवं तस्मात् त्वं च राजा भवामिभो ॥[अधिकः पाठः"
 
-
-
 **द्रुपदः—**
 
 अनाश्चर्यमिदं ब्रह्मन् विक्रान्तेषु महात्मसु ।  
@@ -29927,8 +28172,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि एकत्रिंशदधिकशततमोऽध्यायः ॥१३१॥  
 ॥७॥ संभवपर्वणि पट्सप्ततितमोऽध्यायः ॥७६॥  
 \[अस्मिन्नध्याये ८५॥ श्लोकाः\]
-
-
 
 **॥द्वात्रिंशदधिकशततमोऽध्यायः॥**
 
@@ -29958,8 +28201,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 पुत्रजन्म[^1252] परीप्सन् वै पृथिवीमन्वयादिमाम् ॥४॥
 
 [^1252]: "घ–न सन्ति बलिनः पुत्रास्मकामे विजिगीषवः । इति चिन्ताकुलो राजा निश्वासपरमोऽभवत् । असुखश्च विनिद्रश्च द्रोणाप्रियश्चिकीर्षया ॥ [अधिकः पाठः]"
-
-
 
 प्रभावशिक्षाविनयाद्[^1253] द्रोणस्यास्य बलेन च ।  
 कर्तुं प्रयतमानो ऽपि न शशाक पराजयम् ॥५॥
@@ -29993,8 +28234,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 केन कार्यविशेषेण त्वमस्मानभिकाङ्क्षसे ।  
 कुतश्चायं समुद्योगस् तद् ब्रवीतु भवानिति ॥१३॥
-
-
 
 **वैशम्पायनः—**
 
@@ -30032,8 +28271,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अपरिज्ञातशौचायां भूमौ निपतितं फलम् ।
 
-
-
 तदपश्यमहं भ्रातुर् असांप्रतमनुव्रजन् ॥१९॥
 
 विमर्शनं फलादाने नायं कुर्यात् कथं चन ।  
@@ -30068,8 +28305,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 गोऽयुतानि ददाम्यष्टौ याज याजय मां विभो ।
 
-
-
 द्रोणवैरान्तरे[^1258] तप्तं विषण्णं शरणागतम् ॥२७॥
 
 [^1258]: "क–ख–ग– द्रोणवैराभितप्तं मां स्वं हि स्नातुमिहाईसि । त्वं हि ब्रह्मविदां श्रेष्ठः क्षत्रान्ते चाप्यनुत्तमः ॥[अधिकः पाठः]"
@@ -30094,8 +28329,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स हि ब्राह्मणवेगेन क्षत्रवेगमसंशयम् ॥३२॥
 
 प्रतिहत्य चरत्येव भारद्वाजो महामनाः ॥३३॥
-
-
 
 कार्तवीर्यसमो ह्येष स्वट्वाङ्गप्रतिमोऽपि वा ॥३३॥
 
@@ -30131,8 +28364,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 **याजः—**
 
 मा भैस्त्वं संप्रदातास्मि कर्मणा भवतस्सुतम् ।
-
-
 
 क्षिप्रमुत्तिष्ठ चाव्यग्रस् संभारांश्चोपकल्पय ॥४१॥
 
@@ -30171,8 +28402,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 प्रैहि मां राज्ञि पृषति मिथुनं त्वामुपस्थितम् ।
 
-
-
 कुमारश्च कुमारी च पितृवंशविवृद्धये ॥४९॥
 
 **प्रपती—**
@@ -30208,8 +28437,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 द्वितीयायां च होत्रायां हुते हविषि मन्त्रतः ।
 
-
-
 कुमारी चापि पाञ्चाली वेदिमध्यात् समुत्थिता ॥५७॥
 
 प्रत्याख्याते पृषत्या च याजके भरतर्षभ ।  
@@ -30242,8 +28469,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 श्रिया परमया युक्ता क्षात्रेण वपुषा तथा ।  
 तो दृष्ट्वा पृषती याजं प्रपेदे सा सुतार्थिनी ॥६६॥
-
-
 
 न मां विनाऽन्यां जननीं जानीयेतामिमाविति ।  
 तथेत्युवाच तां याजो राज्ञः प्रियचिकीर्षया ॥६७॥
@@ -30279,8 +28504,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1268]: "क-ख- ग- घ- पञ्चसप्ततितमोऽध्यायः"
 
-
-
 **॥त्रयस्त्रिंशदधिकशततमोऽध्यायः॥  
 ![](../books_images/U-IMG-1709877142Screenshot2024-01-09130841.png)**
 
@@ -30314,8 +28537,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1271]: "घ–यज्ञसेनो महाराज म तीव्र रूप आदधे ।"
 
-
-
 1.तस्य त्वेवं महाबाहोर् वर्तमानस्य भारत।  
 कालस्तत्र महाराज व्यत्ययान्नृपसत्तम ॥६॥
 
@@ -30348,8 +28569,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 मां मां हिंसीर्भवांस्तात सुतस्तेऽहं त्वदुद्भवः ॥  
 इत्थं वदन्नेव तदा प्रादुर्भूतो मनोहरः।  
 उदितादित्यसङ्काशः पूर्णचन्द्रनिभाननः ॥
-
-
 
 ततो नातिचिरात्कालाद् वनं तन्मनुजेश्वर ।  
 संप्राप्ता सहसा राजन् मेनकेति परिश्रुता ॥९॥
@@ -30388,8 +28607,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 नाम चकुर्हि विद्वांसः       \[अधिकः पाठः\].
 
-
-
 भरद्वाजस्य[^1273] शिष्यार्थं सुतं दत्वा महात्मनः ॥१६॥
 
 [^1273]: "क–ख–ग–पात्रोऽसौ पृपतस्येति पार्षतस्तेन चाभवत् ॥  वैशंपायनः-  एवं स द्रुपदो जज्ञे पाञ्चालस्य महात्मनः । भारद्वाजस्य शिष्योऽभून्मृत्युस्तस्यैव सोऽभवत् ॥ द्रुपदेन स्वयं दत्तः शिष्यार्थं द्रोणज्जन्मनः ॥ धृष्टद्युम्नो महावीरः सुकुमारो गुरुप्रियः । द्रोणेन सहितोऽरण्ये अग्निवेश्याश्रमेऽवसत् ॥ वेदानधिजगे[अधिकः पाठः ]"
@@ -30414,8 +28631,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आदिपर्वणि त्रय स्त्रिंशदधिकशततमोऽध्यायः ॥१३३॥  
 ॥७॥ संभवपर्वणि अष्टसप्ततितमोऽध्यायः ॥७८॥  
 \[अस्मिन्नध्याये २१॥ श्लोकाः\]
-
-
 
 **॥ चतुस्त्रिंशदधिकशततमोऽध्यायः ॥**
 
@@ -30442,8 +28657,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 असियुद्धे रथोद्याने बाहुयुद्धे च पाण्डवः।  
 संकर्षणाच्छिक्षितवान् शश्वच्छिक्षां वृकोदरः ॥५॥
-
-
 
 ते तं बुध्वाऽन्वतप्यन्त धृतराष्ट्रात्मजास्तदा ।  
 समाप्तविद्यस्सोऽध्यासीद् द्युमत्सेनसमो बले ॥६॥
@@ -30474,8 +28687,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 अगस्त्यस्य धनुर्वेदे शिष्यो मम गुरुस्सदा ।  
 अग्निवेश्य इति ख्यातस् तस्य शिष्योऽस्मि भारत ॥१४॥
-
-
 
 तीर्थात्तीर्थगतं पार्थ मया संक्रमितं त्वयि ।  
 तपसेदं मया प्राप्तम् अमोघमशनिप्रभम् ॥१५॥
@@ -30509,8 +28720,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 नाहं त्वत्तो विशिष्टोऽस्मि कि पुनर्यानवारणे ।  
 एकत्तवाधिको लोके यो हि वृष्णिकुलोद्भवः॥  
 कृष्णः कमलपत्राक्षः कंसकालीयसूदनः ।
-
-
 
 स जेता सर्वलोकानां सर्वप्रहरणायुधः ॥ ५॥
 
@@ -30556,8 +28765,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 आवयोस्सख्यसदृशं न च लोके भविष्यति ।  
 यक्तद्भक्तस्स मद्भक्तो यस्तं द्वेष्टि स मामपि ॥१९॥
 
-
-
 उपसंगृह्य चरणौ युधिष्ठिरवशोऽभवत् ॥२१॥
 
 गदायुद्धेऽसियुद्धे च रथयुद्धे च भारत ।  
@@ -30591,8 +28798,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 शरण्यस्सर्वदेवानां देवदेवो जनार्दनः ॥२१॥ \[अधिकः पाठः\]
 
-
-
 सोऽर्जुनेन वशं नीतो स राजा यवनाधिपः ॥२७॥
 
 अतीव बलसंमत्तस् त्वतिमानी कुरून् प्रति ।  
@@ -30621,8 +28826,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 तान् दृष्ट्वा कर्मभिः पार्थान् सर्वानहतलक्षणान् ।  
 बलाद्वाहुबलात्तेभ्यो बिभियुदुष्टबुद्धयः ॥३६॥
-
-
 
 ततो बलमभिख्यातं विज्ञाय दृढधन्विनाम् ।  
 दूषितस्सहसा भावो धृतराष्ट्रस्य पाण्डुषु ॥३७॥
@@ -30654,8 +28857,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 गुणैस्समुदितान् दृष्ट्वा जनाः पाण्डुसुतांस्तदा ।  
 कथयन्ति स्म ते भूयो देशे देशे सभासु च ॥४॥
-
-
 
 प्रज्ञाचक्षुरचक्षुष्मान् धृतराष्ट्री जनाधिपः ।  
 अशक्तो राज्यकरणे स कथं धारयिष्यति ॥ ५॥
@@ -30692,8 +28893,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 5.घ—दुर्योधनमुखान् भ्रातृनात्मवत्परिरक्ष्यति ।  
 स्ववशस्थैर्महाभागै लोकवीरैस्सुदुर्जयैः ॥
 
-
-
 युधिष्ठिरानुरक्तानि पर्यतप्यत दुर्मतिः ॥९॥
 
 स तप्यमानो दुष्टात्मा तेषां वाचो न चक्षमे ।  
@@ -30728,8 +28927,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 **वैशंपायनः—**
 
 तेषां दुर्योधनश्रुत्वा—
-
-
 
 1\.
 
@@ -30780,8 +28977,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 लोकस्य वचस्सु प्रीतिः दया धर्मो धृतिः क्षमा ।
 
-
-
 सत्यं दानममानित्वं अहिंसाऽऽर्जवमेव च ॥
 
 बुद्धिर्धृतिश्च गाम्भीर्यं स नरो राज्यमर्हति ।  
@@ -30828,8 +29023,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एवं चेत्तव पुत्राणां का गतिः कुलवर्धन।
 
-
-
 तस्य पुत्रो ध्रुवं प्राप्तस् तस्य तस्येति चा परः॥१४॥
 
 ते वयं राजवंशेन हीनास्सह सुतैरपि ।  
@@ -30861,8 +29054,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 तत्पश्चात्तस्य पुत्रोऽभूत् तत्पुत्रश्चेति चापरः॥
 
 ते वयं राजवंशेन हीनास्सह सुतैरपि । \[अधिकः पाठः\]
-
-
 
 **॥ षट्त्रिंशदधिकशततमोऽध्यायः ॥**
 
@@ -30898,8 +29089,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 ते तथा सत्कृतास्तात विषये पाण्डुना नराः।
 
-
-
 कथं युधिष्ठिरस्यार्थे न नो हस्युम्सबान्धवान् ॥६॥
 
 नैते विषयमिच्छेयुर्[^1283] धर्मत्यागे[^1284] विशेषतः।  
@@ -30927,8 +29116,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 सुविस्रब्धान् पाण्डुसुतान् सह मात्रा विवासय।  
 वारणावतमद्यैव नात्र दोषो भविष्यति ॥११॥
-
-
 
 विनिद्रावरणं घोरं[^1287] हृदि शल्यमिवार्पितम् ।  
 शोकपावकमुद्भूतं कर्मणा तेन नाशय ॥१२॥
@@ -30964,8 +29151,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 **वैशंपायनः—**
 
 संप्रपन्नाय तस्मै स परिपृष्टोऽर्थचिन्तया।
-
-
 
 उवाच वचनं तीक्ष्णं राजशास्त्रनिद
 
@@ -31013,8 +29198,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 यो विभूतिमवाप्योच्चै राज्ञो विकुरुते मनः ।
 
-
-
 बधमेव प्रशंसन्ति शत्रूणामपकारिणाम् ॥३॥  
 निरुद्विग्नो[^1289] हि भवति हत्वा च रिपुमोजसा ॥३॥
 
@@ -31053,8 +29236,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 गृहेत्कूर्म इवाङ्गानि रक्षेद्विवरमात्मनः ॥  
 नासम्यक्कृत्यकारी स्यादुपक्रम्य कदाचन ॥\[अधिकः पाठः\]
 
-
-
 कथं नु परियास्यामो न च ज्ञायामहे वयम् ।  
 दातृत्वेन ग्रहीष्यामो[^1291] भेदतो दण्डतोऽपिवा ॥८॥
 
@@ -31080,8 +29261,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 अमित्रस्तु[^1293] न मोक्तव्यः कृपणं बह्बपि ब्रुवन् ।
 
 [^1293]: "घ - उत्पथं प्रतिपञ्चस्य न्याय्यं भवति शासनम् । क्रुद्धोप्यक्रुद्धरूपस्स्यात् स्मितपूर्वाभिभाषिता ॥ न चैनं क्रोधसन्दीप्तं विद्यात् कश्चित् कथञ्चन । प्रहरिष्यन् प्रियं ब्रूयात् प्रहरन्नपि भारत ॥ प्रहृत्य च कृपायेतच्छोचन्ति च रुदन्ति च । आश्वासये चैव परं सामधर्मार्थवृतिभिः ॥  अथ तं प्रहरेत् काले तथा विचलितं पथि ॥ [ अधिकः पाठः]"
-
-
 
 दुःखं तस्मिन्नकर्तव्यं विध्यादेवापकारिणम् ॥१४॥
 
@@ -31117,8 +29296,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 जम्बुकस्य तु ते वाक्यं तथा चक्रुस्समाहिताः \।  
 मूषिकाभक्षितैः पादैर् मृगं व्याघ्रोऽहनत्तदा ॥२२॥
-
-
 
 **जम्बुकः—**
 
@@ -31156,8 +29333,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 एतस्मिन्नेव काले तु मूषिकोऽप्याजगाम ह ॥२९॥
 
-
-
 **जम्बुकः—**
 
 शृणु मूषिक भद्रं ते नकुलो यदिहाब्रवीत् ।  
@@ -31192,8 +29367,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 स्वबाहुबलमाश्रित्य निर्जितास्ते समागताः ।  
 मम दत्वा नियुद्धं त्वं भुङ्क्ष्व मांसं यथेप्सितम् ॥३६॥
 
-
-
 **नकुलः—**
 
 मृगराजो वृकश्चैव बुद्धिमांश्चैव मूषिकः ।  
@@ -31224,8 +29397,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 क्रुद्धोऽध्यक्रुद्धरूपरस्याच् छुक्लः पूर्वाभिभाषिता ।  
 न चैनं क्रोधसंदीप्तं विद्यात् कश्चित् कथंचन ॥४३॥
 
-
-
 अवेक्षितात्मा[^1298]") शुद्धात्मा मन्त्रयेत द्विजैस्सह ॥५९॥
 
 [^1298]: "क–ख–ग–आशाकृताप्ययुक्तश्च सान्त्वशीलो न चोज्ज्वलः ।अधिकः पाठः
@@ -31253,8 +29424,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 नाच्छित्वा[^1302] परमर्माणि नाकृत्वा कर्म दुष्करम् ।
 
 [^1302]: "क–ख–ग–न रात्रौ मन्त्रयेद्विद्वान् न च कैश्चिदुपासितः । प्रासादाग्रे शिलाग्रे वा विशाले विजनेऽपि वा ॥"
-
-
 
 नाहत्वा मत्स्यघातीव[^1303] प्राप्नोति परमां श्रियम् ॥६४॥
 
@@ -31287,8 +29456,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 गुणवद्वाक्यमादद्यान्नैव कुप्येविचक्षणः।  
 आकारं चात्मनो रक्ष्यं चारयोग्यं च सर्वदा ॥ \[अधिकः पाठः\]
 
-
-
 संग्रहे विग्रहे[^1305] चैव यत्नः कार्योऽनसूयता ।  
 निग्रहः[^1306] कालयुक्तश्च कर्तव्यो भूतिमिच्छता ॥६७॥
 
@@ -31320,8 +29487,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 [^1309]: "क–ख–ग–निश्श्रेयसा हि तौ ज्ञेयाविह चामुख च स्थितौ ।घ–श्रेयसे व स ते ज्ञेया इह चामुत्र चास्थिराः ॥"
 
-
-
 गहनेऽग्निरिवोत्सृष्टः क्षिप्रं संजायते महान् ।  
 अग्निंस्तोकमिवात्मान सन्धुक्षयति पण्डितः ॥७४॥
 
@@ -31345,8 +29510,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 भ्रातृव्या बलवन्तस्ते पाण्डुपुत्रा नराधिप।  
 ब्रवीमि तस्माद्विस्पष्टं यत्कर्तव्यमरिन्दम ॥८०॥
-
-
 
 **वैशंपायनः—**
 
@@ -31372,8 +29535,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 दुर्योधनश्च कर्णश्च शकुनिस्सौबलस्तथा ॥
 
 इति
-
-
 
 **॥ श्रीरस्तु ॥**
 
@@ -31408,12 +29569,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |            अर्जुनेन द्रोणाय गुरुदक्षिणादानम्            |
 |                      अर्जुनपरीक्षा                      |
 
-
-
-
-
-
-
 |                                                                        |
 |:----------------------------------------------------------------------:|
 |                                अध्याय:-                                |
@@ -31445,12 +29600,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                आश्वमेधिकपर्ववृत्तान्ताध्यायश्लोकसंख्या                 |
 |   इन्द्रवज्रप्रहारेण गरुडेनेन्द्राय स्वबलप्रकाशाय पक्षैकदेशविसर्जनम्   |
 
-
-
-
-
-
-
 |                                                                                           |
 |:-----------------------------------------------------------------------------------------:|
 |                                         अध्याय:-                                          |
@@ -31479,12 +29628,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                                    ऋषिभिः भारतकथनचोदना                                    |
 |                            ऋषिणा तेन प्रद्वेषीब्राह्मणीविवाहः                             |
 |             ऋषिभिः पाण्डोर्मरणकथनपूर्वकं पाण्डवानां भीष्मादिहस्तेप्रतिपादनम्              |
-
-
-
-
-
-
 
 |                                                   |
 |:-------------------------------------------------:|
@@ -31519,10 +29662,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |              कर्णस्य भीमेनाधिक्षेपः               |
 |            कर्णार्जुनयोर्युद्धप्रसङ्गः            |
 
-
-
-
-
 |                                                         |
 |:-------------------------------------------------------:|
 |                        अध्याय:-                         |
@@ -31554,12 +29693,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                   गङ्गाप्रतीप संवादः                    |
 |       गङ्गया शन्तनुजातसप्तपुत्राणां जले क्षेपणम्        |
 |                गङ्गाया भीष्ममादाय गमनम्                 |
-
-
-
-
-
-
 
 |                                                                |
 |:--------------------------------------------------------------:|
@@ -31594,10 +29727,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |          चतुर्मुखेन महाभारतस्य सर्वोत्कृष्टत्ववरदानम्          |
 | चन्द्रलक्ष्मीसुराणां कौस्तुभपारिजातसुरभीर्णा ऐरावतस्य चोत्पतिः |
 
-
-
-
-
 |                                                        |
 |:------------------------------------------------------:|
 |                        अध्याय:-                        |
@@ -31630,10 +29759,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |           तक्षकेण कृमिभूतेन परीक्षितो दंशनम्           |
 |            तक्षककाश्यपसंवादज्ञाने कारणकथनम्            |
 
-
-
-
-
 |                                                                                         |
 |:---------------------------------------------------------------------------------------:|
 |                                        अध्याय:-                                        |
@@ -31664,13 +29789,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                             दुष्यन्तस्य मृगयार्थमरण्यगमनम्                              |
 |                                  दुष्यन्तमृगयावर्णनम्                                   |
 |                        दुष्यन्तस्य मृगयाप्रसङ्गेन कण्वाश्रमगमनम्                        |
-
-
-
-
-
-
-
 
 |                                                                |
 |:--------------------------------------------------------------:|
@@ -31704,10 +29822,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |      द्रुपदग्रहणाय पाण्डववर्जं गतानां कौरवाणां तेन पराजयः      |
 |                  द्रुपदेन सह द्रोणस्य संवादः                   |
 
-
-
-
-
 |                                                                               |
 |:-----------------------------------------------------------------------------:|
 |                                   अध्यायः -                                   |
@@ -31738,12 +29852,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                    धात्रेयिकायां ऋषिणा तेन एकादशपुत्रजननम्                    |
 |                               धृतराष्ट्रविवाहः                                |
 |                      धृतराष्ट्रस्य ब्राह्मणैर्मन्त्रणम्                       |
-
-
-
-
-
-
 
 |                                                  |
 |:------------------------------------------------:|
@@ -31778,10 +29886,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                 पाण्डोस्संस्कारः                 |
 |            पाण्डोरस्थिसञ्चयनादिविधिः             |
 
-
-
-
-
 |                                                                         |
 |:-----------------------------------------------------------------------:|
 |                                अध्याय:-                                 |
@@ -31812,12 +29916,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                       बृहस्पतिना तस्य शिशोश्शापः                        |
 |                     बैदस्य धौम्यशिष्यस्य उपाख्यानम्                     |
 |                     बैदशिष्यस्य उदङ्कस्य उपाख्यानम्                     |
-
-
-
-
-
-
 
 |                                                                                                    |
 |:--------------------------------------------------------------------------------------------------:|
@@ -31851,13 +29949,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                                   भीष्मेण काश्यां राज्ञां पराजयः                                   |
 |                                        भीष्मेण तदनङ्गीकारः                                         |
 
-
-
-
-
-
-
-
 |                                                                  |
 |:----------------------------------------------------------------:|
 |                             अध्यायः                              |
@@ -31889,12 +29980,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |             मोहिनीरूपधारिणा विष्णुना देवानाममृतदानम्             |
 |                मौसलपर्ववृत्तान्ताभ्यायश्लोकसंख्या                |
 |                  यज्ञसेनेन शिखण्डिन्या विवासनम्                  |
-
-
-
-
-
-
 
 |                                                           |
 |:---------------------------------------------------------:|
@@ -31928,12 +30013,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |             ययातेरष्टकसमीपे स्ववृत्तान्तकथनम्             |
 | याजेन द्रुपदस्य वैतानाग्नौ धृष्टद्यम्नपाञ्चायोरुत्पादनम्  |
 
-
-
-
-
-
-
 |                                                                                             |
 |:-------------------------------------------------------------------------------------------:|
 |                                           अध्यायः                                           |
@@ -31964,10 +30043,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                           वसुना स्वपितृनियोगेन मृगयार्थं वनगमनम्                            |
 |                      वसुप्रार्थनया प्रसन्नेन वसिष्टेन वसुशापमोक्षकयनम्                      |
 |                              वसुभार्यया कया चित कामधेनुदर्शनम्                              |
-
-
-
-
 
 |                                                              |
 |:------------------------------------------------------------:|
@@ -32002,10 +30077,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |         वैशम्पायनेन जनमेजयाय सङ्ग्रहेण भारतकथाकथनम्          |
 |                  वैशम्पायनेन भारतप्रशंसनम्                   |
 
-
-
-
-
 |                                                                        |
 |:----------------------------------------------------------------------:|
 |                                अध्यायः                                |
@@ -32038,8 +30109,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                शन्तनुना मृगयार्थ वनगमने गङ्गासमीपगमनम्                 |
 
 :
-
-
 
 |                                                        |
 |:------------------------------------------------------:|
@@ -32074,10 +30143,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                 शुक्रेण सुरापाननिषेधः                  |
 |               शुक्रेण देवयानीसान्त्वनम्                |
 
-
-
-
-
 |                                                                            |
 |:--------------------------------------------------------------------------:|
 |                                  अध्यायः                                   |
@@ -32110,10 +30175,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                        सर्पसमीपादिन्द्रेणामृतहरणम्                         |
 |                       सर्वाणां द्विजिह्णत्वप्राप्तिः                       |
 
-
-
-
-
 |                                                            |
 |:----------------------------------------------------------:|
 |                          अध्यायः                           |
@@ -32143,8 +30204,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |                 हिमालये गरुडेन शाखात्यागः                  |
 |            होत्रा तक्षकसहितस्येन्द्रस्याह्वानम्            |
 
-
-
 **॥ श्रीरस्तु ॥**
 
 **॥ अशुद्धशोधनम् ॥**
@@ -32171,8 +30230,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 | भवत्                | भवः                |
 | विप्रर्षेर्         | विप्रर्षे          |
 
-
-
 |                   |                   |
 |:-----------------:|:-----------------:|
 |     अशुद्धम्     |      शोधनम्       |
@@ -32197,8 +30254,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |    ब्राह्मणान्    |    ब्राह्मणान्    |
 |  कल्पं परार्थ्या  | क्लप्तं परार्थ्या |
 |       शौनक        |       शौनक        |
-
-
 
 |                        |                     |
 |:----------------------:|:-------------------:|
@@ -32225,8 +30280,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |        परिहीनो        |      परिहीनो       |
 |    पापां लोकांस्ते     |    पाँलोकांस्ते     |
 
-
-
 |              |              |
 |:------------:|:------------:|
 |   अशुद्धम्   |   शोधनम्    |
@@ -32251,8 +30304,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |     त च      |     तं च     |
 |  अथर्वभिः ऋ  |  अथर्वभिः ऋ  |
 | भगवां भद्रे  | भगवान्भद्रे |
-
-
 
 |                     |                     |
 |:-------------------:|:-------------------:|
@@ -32279,10 +30330,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |      समुत्पतु       |      समुत्पतु       |
 |      अमहाबाहुः      |      अमहाबाहुः      |
 
-
-
-
-
 |                     |                    |
 |:-------------------:|:------------------:|
 |      अशुद्धम्       |      शोधनम्       |
@@ -32308,8 +30355,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |     सुहृद्रयश्च     |    सुहृद्रयश्च     |
 | स्त्वेनम् वस्त्रेण  | स्त्वेनम् वस्त्रेण |
 
-
-
 |                 |                 |
 |:---------------:|:---------------:|
 |  **अशुद्धम्**   |   **शोधनम्**    |
@@ -32334,8 +30379,6 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 |      सिह्म      |      सिंह       |
 |    प्राणस्ख     |   प्राणस्स्ख    |
 |    दुर्योधनः    |    दुर्योधनः    |
-
-
 
 |                     |                     |
 |:-------------------:|:-------------------:|
@@ -32364,1327 +30407,5 @@ provided grammatical rules of Sandhi are not violated. Printed editions of Sansk
 
 Printed by V.Ramaswamy Sastrulu & Sons at‘Vavilla’ Press, Madras.
 
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^1006]: "क-ग-घ—पा"
-
-
-[^184]: "क ख ग - चेन्मत्वा शापायोपस्थितः । श्रेयस्तवो पस्थितं सिद्धिमवाप्स्यसीति । पाठान्तरम् ।"

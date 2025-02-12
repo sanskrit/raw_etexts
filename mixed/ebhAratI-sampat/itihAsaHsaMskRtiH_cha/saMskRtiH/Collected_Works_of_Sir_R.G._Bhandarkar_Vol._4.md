@@ -16,18 +16,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzNDMxMzgxNTk
 
 \[
 
-
-
 GOVERNMENT ORIENTAL SERIES
 
 CLASS B, No. 4
 
 PREPARED UNDER THE SUPERVISION OF THE PUBLICATION DEPARTMENT OF THE BHANDARKAR ORIENTAL RESEARCH INSTITUTE POONA  
 
-
 ![](../../../../../../../books_images/U-IMG-1697621404sss.png)
-
-
 
 POONA  
 
@@ -36,21 +31,16 @@ POONA
 
 **Government Oriental Series-Class B, No. 4**  
 
-
 COLLECTED WORKS
 
 OF  
 SIR. R. G. BHANDARKAR  
 VOL. IV
 
-
-
 COMPRISING VAIṢṆAVISM, ŚAIVISM AND MINOR RELIGIOUS SYSTEMS  
 AND  
 WILSON PHILOLOGICAL LECTURES ON SANSKRIT AND THE  
 DERIVED LANGUAGES, DELIVERED IN 1877
-
-
 
 EDITED BY  
 
@@ -58,35 +48,21 @@ EDITED BY
 Editor, Virāṭaparvan  
 Sometime, of the Deccan College and the Bhandarkar O. R. Institute
 
-
-
-
-
 **Bhandarkar Oriental Research Institute, Poona**  
 
 1929
-
-
 
 Copies can be had direct from the  
 Bhandarkar Oriental Research Institute, Poona (4), India.  
 **Price Rs. 6 per copy, exclusive of postage**
 
-
-
 Printed by V. G. Paranjpe, M. A., LL. B., D. Litt., at the Bhandarkar Institute Press, 198 (18) Sadashiv Peth, Poona No. 2, and Published by S. K. Belvalkar, M. A., Ph. D., Secretary, at the Bhandarkar Oriental Research Institute, Poona No. 4
-
-
 
 CONTENTS OF VOLUME IV
 
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 |                                                                                                                   |
 |-------------------------------------------------------------------------------------------------------------------|
@@ -121,8 +97,6 @@ CONTENTS OF VOLUME IV
 | Phonology of the Pali Dialect—Pronouncing a Conjunct:                                                             |
 | Śvāsa: Nāda                                                                                                       |
 
-
-
 |                                                                                                              |
 |--------------------------------------------------------------------------------------------------------------|
 | No Pali consonants omitted by Pali speakers                                                                  |
@@ -152,11 +126,7 @@ CONTENTS OF VOLUME IV
 | General rule that the dramatic person should speak language of the country to which he is supposed do belong |
 | Later dramatists: Sāhityadarpaṇa                                                                             |
 
-
-
 [TABLE]
-
-
 
 |                                                                                 |
 |---------------------------------------------------------------------------------|
@@ -195,8 +165,6 @@ CONTENTS OF VOLUME IV
 | The Past Participle                                                             |
 | The Present Participle in the Vernaculars                                       |
 
-
-
 |                                                                                         |
 |-----------------------------------------------------------------------------------------|
 | The Absolutive in the Vernaculars                                                       |
@@ -231,8 +199,6 @@ CONTENTS OF VOLUME IV
 | Were there various dialects in the Vedic times?                                         |
 | Many uneducated persons using wrong English: instances                                 |
 
-
-
 |                                                                                                        |
 |--------------------------------------------------------------------------------------------------------|
 | The theory is utterly untenable; contemporaneous development of Sanskrit and Prakrits an impossibility |
@@ -263,8 +229,6 @@ CONTENTS OF VOLUME IV
 | Index IV—Index of Ancient Writers and Works                                                            |
 | Index V—Index of Modern Scholars                                                                       |
 | Inder VI—Index of Sanskrit and other Words.                                                            |
-
-
 
 **PREFATORY NOTE**
 
@@ -833,9 +797,9 @@ tions, and of Harihara in which the peculiar marks of Hari, or Viṣṇu, and of
 
 [^29]: "Br. S. 60. 19."
 
- Amarasiṁha, the author of the well-known Kośa or thesaurus, was a Buddhist. After giving the words expressive of gods. generally, when he comes to the names of particular gods, he begins by giving those of Buddha and proceeds next to give the names Viṣṇu, Nārāyaṇa etc., of which we have thirty-nine. After finishing these he says that Vāsudeva was his father. This means that the thirty-nine names proviously given are the names of Vāsudeva. If we examine these, we shall find that hefore Amare's time Vāsudeva had already been identified with Viṣṇu and NārāyaṇaExcept the name Dāmodara, there is no other con- necting Vāsudeva with Gokula, and the etymology of Dāmodara which connects him with that cow-settlement is doubtful. While Kaṁsārāti, or the enemy of Kaṁsa, does occur, we have no such name as Pūtanāri, the enemy of Pūtanā, or any other derived. from the names of the many demons he slew while he was a boy. There are also no names of incarnations except the doubtful one, Balidhvaṁsin, which however, has been interpreted by one. commentator as the destroyer of ignorance by means of Bali or oblations. There are, of course, several names derived from those. of other demons, such as Madhuripu and Kaitabhajit, but these are not the enemies destroyed by Viṣṇu in his incarnations as they are usually mentioned. After giving the name of the father of Vāsudeva-Kṛṣṇa, Amara proceeds to mention those of Saṁkarsana, or Baladeva, and afterwards of Pradyumna and Aniruddha. Thereafter he mentions those of Lakṣmi, the wife of Nārāyaṇa or Viṣṇu, then those of the weapons of the god and his ornaments, and ends with the names of Garuḍa, the vehicle of Viṣṇu After
-
 [^30]: "Bhau Daji. Lit. Remains, p. 240."
+
+ Amarasiṁha, the author of the well-known Kośa or thesaurus, was a Buddhist. After giving the words expressive of gods. generally, when he comes to the names of particular gods, he begins by giving those of Buddha and proceeds next to give the names Viṣṇu, Nārāyaṇa etc., of which we have thirty-nine. After finishing these he says that Vāsudeva was his father. This means that the thirty-nine names proviously given are the names of Vāsudeva. If we examine these, we shall find that hefore Amare's time Vāsudeva had already been identified with Viṣṇu and NārāyaṇaExcept the name Dāmodara, there is no other con- necting Vāsudeva with Gokula, and the etymology of Dāmodara which connects him with that cow-settlement is doubtful. While Kaṁsārāti, or the enemy of Kaṁsa, does occur, we have no such name as Pūtanāri, the enemy of Pūtanā, or any other derived. from the names of the many demons he slew while he was a boy. There are also no names of incarnations except the doubtful one, Balidhvaṁsin, which however, has been interpreted by one. commentator as the destroyer of ignorance by means of Bali or oblations. There are, of course, several names derived from those. of other demons, such as Madhuripu and Kaitabhajit, but these are not the enemies destroyed by Viṣṇu in his incarnations as they are usually mentioned. After giving the name of the father of Vāsudeva-Kṛṣṇa, Amara proceeds to mention those of Saṁkarsana, or Baladeva, and afterwards of Pradyumna and Aniruddha. Thereafter he mentions those of Lakṣmi, the wife of Nārāyaṇa or Viṣṇu, then those of the weapons of the god and his ornaments, and ends with the names of Garuḍa, the vehicle of Viṣṇu After
 
 finishing these he proceeds to the other great god of the Hindus, Śambhu or Śiva.
 
@@ -1272,8 +1236,6 @@ him. But Kabīr miraculously escaped death and was eventually reconciled to Sika
  Kabīr died at Maghar, and there was a dispute between the Hindus and the Mahomedans as to the disposal of his dead body, which was covered by a sheet of cloth. When the sheet was removed, the body had disappeared, and in its stead there was a heap of flowers. The Mahomedans took one-half of the quantity and buried it at Maghar and erected a tomb over it, and the Hindus took their share to Benares, where it was burnt. Kabīr had a wife of the name of Loi, a son of the name Kamāl, and a daughter of the name of Kamālī. But there are miraculous stories. as to how Kabīr came by them.
 
  As to how much of this account is historical and how much legendary, it is difficult to say. But that he was a Mahomedan weaver at the beginning may be accepted as a fact. And that Shaikh Taqqi, a Mahomedan Pīr, who is mentioned in one of the Ramainīs, as stated above, was his rival and that Kabīr lived about the time of Sikandar Lodi may also be regarded as historical. As to whether Kabīr was a disciple of Rāmānanda, there is some question, as will be presently mentioned. Mr. Westcott considers it not impossible that he should have been both a Mahomedan and a Sūfi¹, but all his writings show a complete familiarity with the names occurring in Hindu religious. literature and Hindu manners and customs, so that it appears to me that there is little or nothing in Kabīr's writings calculated to show that his teachings had a Mahomedan basis. The basis appears to be purely Hindu, though Kabīr was a bold and uncompromising reformer and hurled anathemas at the Pandits, the Brāhmaṇas proud of their caste, and the teachers of the existing sects of the Hindus, and thus appears to have come under the influence of Mahomedanism.
-
- 
 
 The dates given by various writers for the birth and death of Kabīr are conflicting. Mr. Westcott makes him live for 78 years, from 1440 to 1518 A. D.[^57], and according to Mr. Macauliffe he
 
@@ -2564,8 +2526,6 @@ immanence and transcendency are not incompatible or inconsistent with each other
 
 1.Encyclopedia Britarica, Eleventh Edition, Vol XX, p. 683a, under Pantheism.
 
-
-
  But even this partial Pantheism is only one of the doctrinesset forth in the Upaniṣads. As mentioned in the beginning theycontain the rudiments not only of one system of religious philosophy, but of a good many and even of Buddhism.WhenBrahman or the Supreme Soul is affirmed to be distinct from theworld and thus there is a denial of the partial Pantheism I havespoken of, that soul is represented as dwelling in the externalworld and in the soul of man; that is to say. Theism is taughtwith the immanency of God in the world and in man. Forinstance in the BU. III. 7. 7-30[^119] we have first "He who dwelling.in the earth is distinct from it, whom the earth does not know,whose body the earth is, and who, being in the inside, controls theearth, is the indestructible controlling soul". In the followingpassages up to 30 we have precisely the same statement about water,
 
 [^119]: "Mādhyaṁdina recension."
@@ -2623,35 +2583,21 @@ of Rāmānuja. Practically he makes no distinction between thetwo. The theory of
 | VS. = Vājasaneyi-Saṁhitā.             |
 | YV. = Yajur-Veda.                     |
 
-
-
 INDEXES
 
 I. INDEX OF SANSKRIT WORDS AND PROPER NAMES
-
- 
 
 (The Indexes have been complied by Dr. V.S. Sukthankar, M.A. Ph.D. Througout the references are to pages)
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 [TABLE]
 
@@ -3080,8 +3026,6 @@ them off entirely, even when they left their own tongue andlearned that of the m
  In the same way, in forming the causative of a root, **प** or **आप**is added in Sanskrit to roots ending in **आ** and to a few others. Itis extended to all roots in the Pali, and thus we have **तिकिच्छापेहि**for **चिकित्सय** in the above passage.
 
  The termination **त्वा**of the absolutive is in Sanskrit replacedby **य** when a root has a preposition prefixed to it. But here nosuch distinction is observed, and ldbe is **त्वा** used in all cases.
-
-
 
 The operation of this law of false analogies is very extensive
 
@@ -3805,8 +3749,6 @@ language as either of the other two, and both were spoken orused for ordinary pu
 
  **चोप्पडइ** rubs, anoints; M. **चोपडणें**.
 
-
-
  **छिण्णो**
 
  **छिण्णी**       an adulterer or adulteress; M. **शिदल**.
@@ -3814,8 +3756,6 @@ language as either of the other two, and both were spoken orused for ordinary pu
  **छिण्णालो**
 
 ** छिण्णाली**
-
- 
 
  **पोआलो** an ox; M. **पोल**.
 
@@ -4071,20 +4011,16 @@ distinctions, though it is questionable whether they are enough tojustify the Pu
 
  **कित्येक लोक मुत्सही याणीं पदर पसरोन प्रार्थना आईसाहेबांची केली जे तुम्हीं अग्निप्रवेश केलिया नंतर संपादिलेलें राज्य लयास आजच जातें प्राण महाराज कांहींठेवीत नाहींत हा प्रकार घडतो शाहाजी महाराजांचे व शिवाजी महाराजांचें नांव जगीं नाहीसे होतें सर्वोवर साहेबीं दृष्टि देवून राजयांस वोसंगास घेऊन सादेबीं अग्नि न घेतांमानस कठिण करून राहावें। हेंकाम करून गेलिया वंशक्षय महाराजांचा वडिलींचकेला ऐसें जगीं प्रसिद्धता दिसतें तेव्हां आई साहेबांस राइविलें ।**
 
-                                   
   (From an old Bakhara or Chronical of Shivaji.)
 
  Some counsellors supplicated the lady-mother in an humbleattitude saying: 'If you will burn yourself by fire, the kingdomwhich has been acquired goes to ruin this very day; and it will
 
 happen that the king will not bear life; the name of Shahaji Maharaj and Shivaji Maharaj will not remain in the world. Therefore,your ladyship, looking to all these things, should make the kingsit in your lap ( protect), and, not resorting to fire, render yourmind firm, and live. If you do this (burn yourself), it will plainlyappear to all the world that you destroyed the race of the Mahārāj Thus they prevailed on her to live.
 
-
-
 **II Gujarati :**
 
  **दमयंती तो महा आश्चर्य लाग्युं अने भ्रान्ति पड़ी के आ ते स्वप्न के साचुं\। एवाअनेक विचार करती चालेछे एवामांएक अशोक वृक्ष दीठो त्यां दीन दमयंती आवीनेकहेछे के ओ प्रिपदर्शन अशोक तारा नामनो महिमा राखी मारा शोकनोनाश करीसत्यनामी था। पण कोण उत्तर आये।**
 
-                                   
    (From Mr. Mansukharāma‛s Nala-Damayantī)
 
  Damayanti felt greatly astonished and was in doubt whetherit was a reality or a dream. While moving on, engaged in varioussuch thoughts, sho saw an Aśoka tree. Going there she said "Olovely Aśoka, having regard to the greatness of thy name, destroymy *Śoka*(sorrow) and deserve that name." But who wouldanswer?
@@ -4127,8 +4063,6 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 
 **VII Bengali :**
 
-
-
 तबे शुन्बे? आर बत्सर जखन आमि पाला ज्वर भुगते छिनु–दिवारात्रि बिछानाय पडे थाकितुम–उठिया दांडाइबार शक्ति छिल ना, से समय स्वामी आसिया उपस्थित इलेन। स्वामी केमन ज्ञान हओया अवधि देखि नाइ, मेये मानुषेर स्वामी न्याय धन नाइ । मने करिलाम दुइदण्ड काछे बसे कथा कहिले रोगेर यन्त्रणा कम हबे । दिदि बल्ले प्रत्यय जाबे ना–तिनि आमार काकछे दांडाइयाइ अमनि बलनेन षोल बत्सर हइल तोमाके बिबाह करे गियाछि–तुमि आमार एक स्त्री—टाकार दरकारे तोमार निकटे आसितोछि-शीघ्र जाब–तोमार बापके बल्लाम तिनि तो फांकि दिलेन—तोमार हातेर गहना खुलिया दाओ।
 
 ( From Peary Chand's Ālāler gharer dulāla-& Kulina Marriage.)
@@ -4159,19 +4093,13 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 
 ** के** of**केली**, from Pr **कअ** or **कय**, Skr. **कृत**, **ल** being a termination oftenused in the Prakrits.
 
- 
-
 **ओ**, Pr, **जअ** or **जय**, Skr. **यकत्**, **क** being a suffix used in the Prakrits generally, and sometimes in Sanskrit also.
-
- 
 
 **तुम्हि**,Apabhr. **तुम्हई**,Pr.**तुम्हे** or **तुम्हए**.Skr such a form as **तुष्मके**,by analogy, for **यूयम्**.
 
 ** आज**, Pr. **अज्ज** Skr.**अद्य**,
 
 ** जा** of **जातें**, Pr.**जा**, Skr. **या**.
-
- 
 
 **फोही**,Pr.**कोभी**:Skr.कोभिः.
 
@@ -4227,8 +4155,6 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 
 ** एवो** sing of **एवा**, Apabhr. **एहु** or **एहउ** and **अइसो** Pr.**इदिसो**, Skr.**ईदृश**.
 
- 
-
 **कर** as in No. I.
 
 ** चाल**, Pr. **चल**, Skr. **चल**.
@@ -4264,8 +4190,6 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 ** ना** of **नाले**, Pr. and Skr. **नाम**, **ल** being suffix.
 
 ** हो**, Apsbhr. **हुअउ**, Pr. **हुअओ**, Skr. **भूतः** ( **भूतकः**).
-
- 
 
 **तर्हि**of **तर्हिजे**, Pr. **तेसिं**, Skr. **तेषाम्**.
 
@@ -4339,8 +4263,6 @@ and
 
 II\.
 
- 
-
 हु
 
 of
@@ -4349,11 +4271,7 @@ of
 
 ,as in No
 
-
-
 I.
-
- 
 
 जां
 
@@ -4389,8 +4307,6 @@ I.
 
 ( No. V )  
 
-
-
 ** इत** of **इतना**, Pr.**इतिअ**, Skr. **इयत्** with **इक**.
 
  **कह**, as in Nos.
@@ -4404,8 +4320,6 @@ and
 .
 
  **हाथ**, Pr. **हत्थ**, Skr. **हस्त**.
-
- 
 
 **किय** of **किये**, Pr. **किअ**, **कृत**.
 
@@ -4466,8 +4380,6 @@ and
 ** किय** as in No. V.
 
 ** जो**, Pr. **जओ**, Skr. **यकः** *i.e* **य** with the suffix **क** or **अक**.
-
- 
 
 **हो** of **होय**or **होइ**, as in No.**I.**
 
@@ -4581,13 +4493,9 @@ VI,
 
  **दि** as **दे** in No.I.
 
-
-
 **(No. VIII)**
 
 ** माशा**, Pr. **मसअ**, Skr, **मशक**.
-
- 
 
 **बस** of **बसि**, as in No. VII.
 
@@ -4616,8 +4524,6 @@ VI,
 ** जे**as in No. I.
 
 ** ए,**Apabhr. **एह**, Pr. **एह**, Skr.**एष**, as **इह** in No. IV, and **यह** in No. VI.
-
- 
 
 You will find that in the Marathi passage there are about 58 different words of which 26 or a few less than a half are derived from the Sanskrit through the Prakrits; in the Gujarati there are 42 out of which 23 or a few more than a half are of the latter description; in the Sindhi the proportion is 38 to 21, or somewhat greater than a half; in the Panjabi 44 to 23 or a half; in the High
 
@@ -4663,14 +4569,11 @@ for attributing changes that involve no economy or necessitate greater exertion,
 
 \[Table 2: Skr.ऋchanged to इ\]
 
-
-
  Skr. **कृपा** pity. Pr.**किवा**,far, M. **कींव**.
 
  Skr. हृदयम् heart, Pr. **हिअअं**, H. B. O. **हिय** or **हिया**, old M. **हियं**, Mod. M. **हिय्या**, 8. **हिओ, हिआउं**, G. **हइया**, P. **हियाउं**.
 
  Skr.**सृष्टम्** sweet, Pr. **मिंड**, P. **मिट्ठा**, H. **मीठा**, B.O. **मिठा**, G.**मीठुं** S. **मिठो**.  
-
 
     {
 
@@ -4738,8 +4641,6 @@ for attributing changes that involve no economy or necessitate greater exertion,
 \[Table 4: Skr.ऋ its different changed \]
 
  Skr. **तृणम्**straw, Pr.
-
-
 
 **{** Pali **तिणं**, H. **तिन** in **तिनका**.
 
@@ -4928,8 +4829,6 @@ Bengali
 
  Of the instances in which long **ई** and **ऊ** are softened to long **ए** and **ओ** in the Prakrits, the vernaculars have retained the following:—  
 
-
-
 \[Table 8: change of ई and ऊ to long ए and ओ\]
 
  Skr. **बिभीतक** myrobalan, Pr. **बहेडओ**, M. बे**हडा**, G. **बेहडूं**. H. P. **बहेडा**,S. **बहेडौ**.
@@ -4954,8 +4853,6 @@ Skr. **ताम्बूल** betel leaf, Pr. **तम्बोल,** H. P. **�
 
  O, **भोक** hunger, for the **भूक** or **भूख** of the others.
 
- 
-
 Of the few instances in which **इ** is softened to **अ** in the Prakrits, the vernaculars have retained **हलद्वा** in the M. G **हलद**, H. **हलदी**, 0. **हलदी** and P. **हलहदी** or **हलदी**. Though प**डंसुआ** does not occur, still **पडा** which stands for **प्रति** a in this word is preserved in several words, as M. **पडसाद** ,'echo' for Skr. **प्रतिशब्द, पडजीभ**, 'the uvula' for Skr. **प्रतिजिह्वा,, पडछाया** Or **पडसावली**, H. **परछाई** for Skr. **प्रतिच्छाया** &o. No more instances of this change are given by the grammarians, but, as observed in the last lecture, the substitution of **अ** for **इ** or **उ** in one of the two or more places in which it occurs in some words indicates a tendency in the Prakrits towards this change. The vernaculars have got more instances.Thus:—
 
 \[Table 10: इ changed to अ\]
@@ -4968,8 +4865,6 @@ Skr.**परीक्षा** pr. **परिक्खा**; also the verb **प
 ** **M. H. G. **विखरणे-ना-वुं**. P. **विक्खरना** to scatter, Skr. **बिष्किर**, Pr. **विक्खिर** (S. **विखेरणुं** ).
 
  H.**बहलाना** to divert, amuse, Skr. **विहर**.
-
- 
 
 H. **भभूत** holy ashes, Skr **विभूति**.
 
@@ -5001,11 +4896,7 @@ pronouncing a consonant, they emit the breath; without compressing it at the pal
 
  Skr. **गैरिक** red chalk, Pr.**गेरिअ**, M. H. **गेरू**.
 
-
-
 Skr. **कैवर्त** pilot, Pr. **केवट्ट**, H. **केवट**.
-
-
 
 Skr. **तैल** oil, Pr.**तेल्ल** , M. G. H.**तेल**.
 
@@ -5044,8 +4935,6 @@ for **कयलं** . Skr. **कदलम्** .
 ** **M. **ओणवा** bent, Pr. **ओणअ**, Skr. **अवनत**.
 
  M. G. **ओलंबा** plumb, Pr. **ओलम्बअ** Skr. **अवलम्बकः**.
-
- 
 
 M. **बोर** jujube fruit Pr. **बो**र for **बवर** or **बअर**, Skr. **बदर**.
 
@@ -5122,8 +5011,6 @@ M. **बोर** jujube fruit Pr. **बो**र for **बवर** or **बअर
  Skr. **धबल** white, Pr. **धवल**, H. P. **धौला**, M. **धवला**.
 
  Skr. **नवशिक्षित** newly learned, Pr. **नवसिक्खिअ**, H.**नौसिख**, M.**नोशिका** or **नवाशिका**.
-
- 
 
 Skr **भवन** a dwelling, Pr. **भवण**, H. **भौन** P. **भौण**.
 
@@ -5314,8 +5201,6 @@ Similarly, though a few Sanskrit words containing **ऐ** and **ओ** do occur i
 
  M. **ओपणें** to give over, sssign, Pr. **ओप्प**, Skr. **अर्प**.
 
- 
-
 There are a few modern instances as in:—
 
 \[Table 28: the Assimilation of vowels\]
@@ -5423,8 +5308,6 @@ syllable being dropped in virtue of a general law to be presently noticed in the
  M. **हिरवा**green from Skr. **हरित** or **हरितक**.
 
  M. **चोंच** a beak, M. (dial.) and B. **टोंच**, Skr.**चंचु**.
-
- 
 
 Of the Prakrit words with a syllable lengthened or shortened through the influence of an accent of some sort, the vernaculars have preserved a few words. Thus:—
 
@@ -5534,8 +5417,6 @@ to the modern languages from the spoken dialects af ancient times, have also bee
  M. G. B. O.**हाड**, H. **हाड, हड्डु** or **हड्डी**, P. **हड्डु**, or **हड्डी**,S. **हडु**, or **हडि**, Pr.**अड्डी**, Skr. **अस्थि**.
 
  M. **हत्तीण**, H. G. **हाथीन**, Pr. **हत्थनी** Skr. **हस्तिनी**.
-
- 
 
 Here also the Sindhi preserves the old endings in some cases, and has dropped them in others. In this manner, the final **आ, इ, ई, उ** and
 **ऊ** of Sanskrit and Prakrit nouns have been dropped in the vernaculars or changed to a silent **अ**.
@@ -5675,23 +5556,15 @@ Thus:—
 
  M. **दलवी** for Pr. **दलवइ**, Skr **दलपति**.
 
- 
-
 You will have seen that the Sanskrit nouns, composed of three or more syllables, given in Table 36, with **अ** at for their penultimate. vowel and **क**or any other similar syllable ending in for the final, have dropped one syllable and become nouns ending in **आ** in Marathi, Hindi, Panjabi, and Bengali, and in Oriya also in some cases, and in **ओ**in Gujarati, Sindhi, and in the dialects of the Marathi and Hindi spoken of above. Such of them as are neuter have acquired the ending **एं** or **आं**in Marathi and in **ऊं** in Gujarati.
 
  But these are not the only nouns with a final **आ**and **ओ**and **एं, आं**and **ऊं** in these languages. There are a good many more, both substantives and adjectives, which have these endings. In the Brajabhāṣa also a great many adjectives, nominal and verbal, end in **ओ**or **औ**. The Sanskrit words from which they are derived. are not composed of three syllables, with **क** or another syllable like it preceded by an **अ**, as the final. Thus the substantives H. M. **श्चेला** ‘adisciple', **पुडा**'a parcel', **काढा** ' a decoction, and the adjectives H. **नीला**,M. **निला**'blue' H. **पीला**, M.**पिलला** ’yellow', and past participles, H. **गया** 'gone', **मुवा**'dead', M.**गेला, मेला**&c., and the corresponding Gujarati, **चेलो, पुढो, काढो, नीलो, पीलो, गयो** and **मुवो**,are
 
 derived from the Sanskrit **चेटः, पुटः, क्वाथः,नीलः, पीतलः**, &c. Similarly such neuter nouns as M. **केलें**(dial.**केलां**), G.**केलुं**M. (dial. **सोनां**), G.**सोनूं** are derived from the Skr. **कदलम्**and **सुवर्णम्**. How then did they get their **आ** and **ओ**and **आं, एं** and **ऊं** ?
 
- 
-
 A great many nouns in our languages end in , which has now become silent; and these, as I have explained, are derived from the Sanskrit nouns ending in **अ**, the nominative termination being, because it was unaccented, at first reduced to**उ** and afterwards dropped in most of them, but preserved in Sindhi. By that same law of accentuation which brought about the elision of this **ओ**, we have seen, that nouns ending in **क** or such othersyllable preceded by **अ**come to have **आ-ओ** and **एं-आं-ऊं** for their final. By an obvious inference, therefore, those other substantives and adjectives also must have got **कः**or **कम्** in the Prakrits and the Apabhraṁśa in the forms of **ओ** or **अं**and **उ**or **उं**, though in Sanskrit they do not possess them.
 
- 
-
 The suffix **क**, though actually found in certain words only in Sanskrit, must have been largely used in the spoken language of ancient times, since Pāṇini and his expositors allow of its being appended to all nouns and even verbs and participles, to indicate [littleness](http://# "Pāṇini, V. 3. 85, 86; V. 4. 4."), [contempt](http://# "Pāṇini, V. 3. 74, 75,"), [tenderness](http://# "Pāṇini, V.3. 76, 77."), the state of being [unknown](http://# "Pāṇini, V. 3. 73."), resemblance or [copy](http://# "Pāṇini, V. 3. 96, 97."), and a [species](http://# "Pāṇini, V. 3. 75, 87, 97.") founded on some of theseparticularities. Words formed by the addition of such a suffix in such senses cannot, of course, be much used in literary works. They are adapted for colloquial purposes, such as our Marathi Pāṇinifor Rama and Pāṇinifor Govinda are.
-
- 
 
 Accordingly, in the Prakrits and Apabhraṃśa, which were derived from the spoken languages, we find the practice of adding the suffix to be very common. Thus in the fourth act of the Vikramorvaśīwe have Pāṇinifor Pāṇiniformed from the analogy of Pāṇini but properly Pāṇini for Pāṇini
 
@@ -5719,14 +5592,10 @@ for **युगलकम्**; **जुआणओ** for **युवकः**; **�
 
  B.**भाल**, H. P. M. **भला**good.
 
-
-
 It thus appears that originally the suffix was not necessarily applied to any nouns, but optionally to such as admitted of the additional signification.This additional signification has been preserved in some cases, but lost in others.
 
 **THE ORIGINAL AND DERIVATIVE ACCENTS IN THE  
 VERNACULARS.**
-
-
 
 You will now have seen, that the Sanskrit and Prakrit final vowels having, for the most part, been dropped by the influence of the accent, the final **आ, आं, ई, ईं, ऊ, ऊं, एं**and **ओ**that we have
 
@@ -5777,13 +5646,9 @@ pronounced as
 
  So also **अङ्गुष्ठकः** is **आंग्ठा**, and **श्वशुरकः,** **साम्रा** the penultimate **उ** being dropped.
 
- 
-
 When the final is unaccented, it is the penultimate that is emphasized, but when it is accented, the penultimate is slurred over. Thus the accentuation of the penultimate leads to the elision of the final vowel, and the accentuation of the final brings about an elision or shortening of the penultimate.
 
 **ACCENT IN HINDI**
-
- 
 
 In Hindi also the accent leads to the elision of the **अ**of the previous syllable when more than one precede the accented syllable. Thus **उबटन**‘a cosmetic’ is pronounced is pronounced as **उबटन**, **सूरखपन**as**मूरख्पन** as**मूरखपन** as **मूरख्प॑न, उबटना***inf.* 'to rub the body with a cosmetic’, as **उबट्ना करना**as **कर् ना**. The Braj present participle **करत** is pronounced as **कर॑त्** since one syllable only precedes the accented penultimate; but the Hindi **करता**is **कर् ता**as two syllables precede the accented **ता**. The accent leads to the shortening of the preceding vowels in some cases. Thus **गोपाल** 'cowherd,' and **पाताल** 'the lower regions,’ are sometimes pronounced and written as **गुपाल** and **पताल**;so does **आसिष्**become **आसीस**. In such words as **उपज**'produce,’ **उसास**'respiration,’ and **उबटन** ‘a cosmetic’, from the Pr. **उप्पज्ज, उस्सास,** and **उब्बट्टण**, Skr. **उत्पद्य**, **उच्छ्वास**, and **उद्वर्तन**, it prevents the lengthening of the initial **उ**, as by the general rule it should be long, since one member of the following double consonant is dropped. The
 
@@ -5808,33 +5673,23 @@ derived socent also shortens the preceding vowels in such instances as the follo
 
 **EXCEPTIONS TO THE ABOVE.**
 
- 
-
 But in a great many cases the accent does not affect the preceding close vowels. The Sanskrit words **सूतक, पीतल,** &c., the first syllable of which is shortened in Marathi, retain it long in the Hindi. The words **उपज,उपजना, उसास,** and othershave their initial vowel optionally lengthened, and in a few cases, such as **ऊपर** and **ऊखल**, it is lengthened without any apparent reason. Similarly, the Hindi forms of **कीटक**and the other words in Table 6 retain the long vowel. It has also **बीडी, जूही**and **सूजी** as in Table 35, and **नीला**'blue', **पीला**‘yellow’, **सी**खा, learnt', **मीठा**'sweet', **पूछा**'asked', **मूआ** 'dead', **सीखना**'to learn, **पूछना**‘to ask', **दूसरा** &c., while in all these cases the Marathi has short **इ** and **उ**. Perhaps, this weakening of the accent as regards previous **ई** and **ऊ** is due to the development of another accentin Hindi on the initial syllable. To such an accent as this might be attributed the almost universal change of **अय**and **अव** to **ऐ** and **औ**that we have already noticed. The **अ**of the initial syllable, being accented, draws to itself the **य**or **व**of the following and
 
 deprives it of its **अ**, in which cases the **य**or **व** becomes **इ** or **उ**, and then the two form **ऐ** and **औ**.
 
 **THE ACCENT IN GUJARATI**
 
- 
-
 The Gujarati follows the Hindi completely, sometimes shortening the preceding vowels as in **कुवो, सुवो**, and **कुमलो** 'delicate', 'tender', and dropping it as in **सस्रो** 'father-in-law', (Skr.**श्वशुरकः**) and**आङ्गुली** 'finger' (Skr. **अङ्गुलिका**), sometimes preventing their being lengthened, as in **उपज, उठघुं**, &c., and very often preserving them long as in **पूरो** 'full', **शीक्वुं, शीक्यो**, &c.
 
 **THE ACCENT IN PANJABI**
-
- 
 
 The Panjabi also keeps the short vowel in such cases as **उचार** 'utterance', **उजाला** 'light', though a member of a double is droppedand preserves the long in such casesas **दीया** or **दीवा**, **जुआ, कीडा, पूरा, पूरी** ‘a cake', &c. It has even fewer instances of shortening than the Hindi.
 
 **THE ACCENT IN SINDHI**
 
- 
-
 The Sindhi has **जुआ**'gambling', **डिओ**'a lamp,' **पितल**&c., but has such words as **मूतक**, 'mourning', **कीडो** 'a worm', **वीडो** 'a roll of betel leaves, (Skr. **वीटकः**), **पीतो**'drunk', &c. In a great many words such as **सुको**'dried', **वुधो**'heard', **छुतो**'touched', **दुधो**'milked', the vowel of the preceding syllable is short; but that is due not to the accent on the last syllable but to the peculiarity of the Sindhi not to lengthen the preceding vowels even when a member of a double is dropped.
 
 **THE ACCENT IN BENGALI AND ORIYA**
-
- 
 
 The Bengali is more like the Marathi in this respect than the Hindi. Thus we have **भितर**, H. **भीतर** 'in the interior’, **शुका** dry, H. **भूका; भिजा** or **भिगा** 'wet’, H. **भीजा** or **भीगा; किडा** 'a worm', H.**कीडा; जुता** 'shoes', H.**जूता; खिला**'a nail', H. **कीला, उपजन** 'to be produced, &c. It thus shortens **इ** and **उ** in the unaccented syllables like the Marathi.
 
@@ -5842,13 +5697,9 @@ The Bengali is more like the Marathi in this respect than the Hindi. Thus we hav
 
 **THE ACCENT ON VERNACULAR TERMINATIONS**
 
- 
-
 In Marathi the termination of the oblique form of cases and that of the plural of neuter nouns in **ए** are also accented. The reasonwhy they bear the accent will be considered hereafter. The accent on the causal termination, in consequence of which the preceding vowels are shortened in the Hindi and the Gujarati, has already been mentioned. This also seems to be the same accent that we have been considering. Thus in G. **शिवडाव**'make him sew, or **धोवडाव** 'make him wash', the **आ**being penultimate bears the accent and the final **अ**is dropped. Similarly in **धोवडाववुं**by the general rule, the final vowel being accented the penultimate **अ** is silent. It is because it is so, and the **ववुं**forms the conjunct**व्वुं**, that the **आ**looks as if emphasized just as the first **अ**of **अड्चण** and **कर् ता** is. In the Marathi and other dialectsalso, there is this accent in the case of the causal, and the preceding **ई** and **ऊ** are shortened; as in **निज्॑व्** 'make him sleep', **निजव्णें**'to make one sleep', from the original **नीज** 'sleep', in **करीव्**cause him to do **करिव्णें**or**करव्णें** ’to cause one to do', &c. In the standard Hindi the **व** is dropped, but still the way of pronunciation remains the same as it was when it existed. In **दिखाना**'to show,'for instance, the **खा** is pronounced as it would have been if the word had been **दिखावना**. And the forms with **व** exist in the Braj.
 
 **ACCENT IN VERNACULAR COMPOUNDS**
-
- 
 
 Compounds in the vernaculars, most of which belong to the Tatpuruṣa, Karmadhāraya, or Dvandva class have an accent on the penultimate or final of the last word, as in the H. **पन् सा॑ल** 'a place where water is provided for passengers', in which the first word**पानी**becomes **पन्**, **अमरा॑ई**a forest of mango-trees', in which the **आ**of **आम**is shortened, **घुडसा॑ल** 'a stable', in which we have **घुड**for **घोडा, रन् वास** 'harem', the **रन्** of which is a shortened form of रानी, and in the G. **अधमुई**'half dead’, and the M. **अधम॑ण**’half a maund’.In the Marathi **आम्ररा॑इ,** **रानमाणू॑स,कालमांज॑र**, the **आ** of the first syllable is short though not changed to **अ**; and in **तिर्कांबटे**'an arrow and bow', the first word is **तीर्**with the **ई** shortened.
 
@@ -5879,8 +5730,6 @@ Compounds in the vernaculars, most of which belong to the Tatpuruṣa, Karmadhā
  Of the two instances of this change in the Prakrits **लावू** a 'pumpkin' exists in Hindi, and **रण्ण**in the form of **रान** in M. and P. and of **रन** in H. Medial **ऐ** is dropped in Marathi, Bengall, and Oriya in the word **बैस**, and others enumerated before. It is dropped in the G. **माशी**for H. **मौसी**(see p. 391). This elision does not appear to be due to accent since according to our theory it must fall on the **ऐ**in some at least of the cases. The change is due to the process of softening, sitice what takes place here is the simple dropping away of the close element of the diphthong.
 
 **THE AVOIDING OF THE HIATUS IN THE VERNACULARS**
-
- 
 
 We will now briefly notice the manner in which the hiatus caused by two vowels coming together in consequence of the olision of uninitial consonants in the Prakrits is avoided. We have seen that **अ**and **इ** and **अ**and **उ** are combined into **ऐ** and **औ**in some of the dialects, and into **ए** and **ओ**in [others](http://# "Pp. 400-406."). Final unacdented **अ**and **आ**are dropped when preceded by **इ** or **उ** as in the words given in Table No. 35, and unaccented **उ** preceded by **अ**is dropped in some of the vernaculars, as in Table No. 36, and combined into **ओ**or **उ** in [others](http://# "See P. 418."). Final **इ** is preserved or changed to **य**after **अ**in some cases, and combined with it to form **ई**[others](http://# "P. 419.").
 
@@ -5961,8 +5810,6 @@ We will now briefly notice the manner in which the hiatus caused by two vowels c
  The long **आ**is preserved and changes the preceding **इ** to **इय** or **य**as in the H. **सियार** or **स्या**र 'jackal' for Pr. **सिआल**, Skr. **सुगाल**; **याह** 'marriage,’ for Pr.**विआह**, Skr.**विवाह**, &c.
 
 CONSONANTAL CHANGES IN THE VERNACULARS.
-
- 
 
 We will now proceed to the consideration of consonantal changes; and first of those due to the process of softening. The semivowel **य्** is often softened to **इ**. In the Prakrits, **व्यजन**‘a fan' becomes **विअण** which is preserved in the H. **बेना** and **स्त्यान** is changed to for **थीण**. This word does not occur in the vernaculars, butthe Hindi and Marathi have got **थिजता**and **थिजणें** ‘to congeal' from the verb **स्त्यायते**, in which **या**is softenedto**इ**. From **व्यजन**, or rather such a word as **व्यंजन**, we have by a similar softening M. **विंजणा**, H.**विंजना**, G.**विजणो**, S, **विञिणु**. More modern instances are:-
 
@@ -6101,8 +5948,6 @@ vowel; and the vernaculars have preserved the words so changed. For instance:-
 
  Skr. **कपाट** a door, M. **कवाड**, H. **किवाड**, G. **कमाड**.
 
- 
-
 Skr. **कटु** bitter, M. **कडु**, G. **कडवुं**,H. **कडुवा**, 8. **कडो**.
 
  Skr **कटि** waist, M. **कड**, G. **केड**.
@@ -6111,17 +5956,11 @@ Skr. **कटु** bitter, M. **कडु**, G. **कडवुं**,H. **कड�
 
  Skr. **रट्**or **आरट्**to cry, M. **रड** in **रडणें**or **आरडणें**, G.S.**रड-\[वुं-णु\]**.
 
-
-
 Skr. **शाटिका** a garment, M. G. **साडी** H. P. **साड़ी** S. **शाडही**, B. O. **शाडी**.
 
  Skr. **वटः** the Banyan tree, M. G.**वड**,H. P. **वड़**,S. **बडु**.
 
- 
-
 Skr. **त्रोट** in **त्रोटपति** to snap **तोड** in M. **तोडणें**, G. **तोडवुं**H. P. **तोड़ना**S**.तोडणु**.
-
- 
 
 Skr. **स्फोट** in **स्फोदयति** to break, **फोड** in M. **फोडणें**.
 
@@ -6131,15 +5970,11 @@ Skr. **स्फोट** in **स्फोदयति** to break, **फोड**
 
  Skr. **पटोल** a kind of cucumber, M. **पडवल**, H. **परवल**, G. **परवल**.
 
- 
-
 Skr. **कीटक**: a worm, M. **किडा**, G. **किडो**, H. **कीडा**.
 
  The instances in which the cerebral **ट्** resulting from an original **त्** has been softened in the Prakrits to **ड्** have been preserved by the vernaculars. The following are some of these:-
 
 \[Table 52: ट्( from original त्) softened to ड्\]
-
- 
 
 **पड**for Pr. **पडि**, Skr. **प्रति**, in such words as H. G. **पडोसी** & neighbour, M. **पडोशी**, Skr. **प्रतिवेशी**.
 
@@ -6239,8 +6074,6 @@ the two **ठ्** is dropped, and the preceding vowel lengthened according to a
 
 \[Table 57: ड् changed to ल्\]
 
- 
-
 Skr. **तडाग** a tank, Pr.**तलाअ**, M. G.**तलाव**, H.**तलें**,H.**तलाव**, S. B.**तलाउ**.
 
  Skr. **दाडिम** pomegranate, Pr. **दालिम**, M. **डालिंब**, G. **दालम**, H. B. **डालिम** H. **दालिम**.
@@ -6254,8 +6087,6 @@ Skr. **तडाग** a tank, Pr.**तलाअ**, M. G.**तलाव**, H.**�
 |                                                  |
 |:------------------------------------------------:|
 | \[Table 58:द्of Skr. Numerals changed to र्\] |
-
-
 
 [TABLE]
 
@@ -6307,8 +6138,6 @@ but there are a great many in the vernaculars, so that this appears to be a pecu
 
  What the origin is of the **ड्** of these forms, which is more primitive than the **ल्** and **र्** to which it was afterwards changed, will be considered in the next lecture.
 
- 
-
 Another peculiarly vernacular process, of which Hemacandra gives only one instance, is the transformation of **न्** into **ल्**, in which **न्** is deprived of its nasal element and the complete contact of the vocal organs avoided. Thus:—
 
 \[Table 61 Skr. न् initial changed to ल् in vernaculars\]
@@ -6321,8 +6150,6 @@ Another peculiarly vernacular process, of which Hemacandra gives only one instan
 
 \[Table 62: Skr. initial ल् changed to न् in vernaculars\]
 
- 
-
 M. G. **नांगर** a plough or anchor, P. **मङ्गलः** or **लाङ्गल**.
 
  M. **निढल**, S. **निराडु**, Pr. **निडाल** or **णडाल**, Skr. **ललाट** forehead.
@@ -6332,8 +6159,6 @@ M. G. **नांगर** a plough or anchor, P. **मङ्गलः** or **ल
  The sibilant **स्**, whether original or derived from the Sanskrit **ञ्**, or **स्**, is in a few cases changed to **ड्** in the Prakrits. For **दिवस** 'a day' we have **दिवह** or **दिअह**, for **पाषाण** 'a stone' **पहाण**, and for **दशन्** 'ten' **दह**. These words, so changed, have come down to the vernaculars, and are found in one or other of them. The various forms of the numerals having the word **दश** at the end have been given above. Of the other words G. has **दिह** 'a day' and **दिहाडो** with the suffix **डो**, P. **दिंह** and **दिहाडा़**, and S. **डि़ंहु** and **डिहाढो**; and S. **पहणउ** 'a stone'. The Sindhi and the Panjabi have given a wider range to this process, as will be seen from the following:—
 
 \[Table 63: म्, श् or ष् changed to ह in Vernaculars\]
-
- 
 
 S. **बहु** or **बुहो** chaff, Skr. **बुस**, M. **भुसा**.
 
@@ -6351,8 +6176,6 @@ S. **बहु** or **बुहो** chaff, Skr. **बुस**, M. **भुस�
 
  P. स**हुरा**, S. **सहुरो**, Skr **श्वशुर**, M. **सासरा** father-in-law.
 
- 
-
 P. **तिहा** thirst, Skr. **तृषा**.
 
  P. **फाहा** or **फाही**, S. **फाहो** or **फाही** & snare noose Skr. **पाश**, M. **फांस.**
@@ -6362,8 +6185,6 @@ P. **तिहा** thirst, Skr. **तृषा**.
  The change of **म** to **वं** seems to be an almost entirely later process of which there are scarcely any instances in the Prakrits. It is seen in full operation in the Apabhraṁśa.
 
 \[Table 64 Skr. म changed to व\]
-
- 
 
 Skr. **नाम** name, M. **नांव**, H, **नाओं**, old H. **नाऊं**, also **नाम**, P. **नांउं**, S. **नांउं** also **नामु** and **नालो**.
 
@@ -6397,8 +6218,6 @@ Skr. **नाम** name, M. **नांव**, H, **नाओं**, old H. **न�
 
  Skr. **गमन***caus.* spending, wasting. H. **गंवाना**, P. **गवाउणा**, S. **गंवाइणु**, but M. **गमवणे**.
 
- 
-
 Skr, **भ्रमर** bee, H. **भंवरा** Or **भौंरा**, P. **भौंर** or **भौंरा**, S. **भौंरु**.
 
  Skr. **पञ्चम** fifth, M. **पांचवा**, H. **पांचवां**, P. **पंजवां**, &c., and other ordinals.
@@ -6425,13 +6244,9 @@ Skr, **भ्रमर** bee, H. **भंवरा** Or **भौंरा**, P. 
 |                    **सामलो** a dark-complexioned.                     |              **जमवुं** eating.              |
 |                         **जमाइ** son-in-law.                          |            **आमला** myrobalans.             |
 
- 
-
 The reason why I consider this as a change of **वं** back to **म्** and not a preservation of the original Sanskrit and Prakrit **म्**, is that the Gujarati changes **व्** to **म्** in other cases where there is no question as to the **व्** (or **प्**) being the original sound. Thus:—
 
 \[Table 66: व् or प् changed to म् in Gujarati\]
-
- 
 
 G. **कमाड** a door, H. **किवाड**, M. **कवाड**, Pr. **कवाड**, Skr. **कपाट**.
 
@@ -6484,8 +6299,6 @@ G. **कमाड** a door, H. **किवाड**, M. **कवाड**, Pr. **�
 
  The Marathi reduces a Sanskrit or Prakrit **म्** invariably to **स्**, and in this respect differs from all its cognate dialects. Thus:—
 
-
-
 **\[Table 68: Skr. or Prk. छ् reduced to स् in Marathi\]**
 
  Skr. **इक्षु** sugarcane, Pr.**उच्छु**, M. **ऊस.** The H. has **ईख** or **ऊख**.
@@ -6520,11 +6333,7 @@ G. **कमाड** a door, H. **किवाड**, M. **कवाड**, Pr. **�
 
  Skr. **क्षण**a festival, Pr. **छण**, M.**सण**.
 
- 
-
 According to a general rule in Marathi, **म्** is changed to **श**when followed by the palatal vowel **इ**or**ए.** This change of **ल्** to **स्** in this dialect is to be accounted for by the fact that the vocal organs of the Marathas have a predilection for the dento-palatals, **च, छ, ज, झ**, to which the Sanskrit palatals are in almost all cases reduced by them, except when they are followed by **इ, ए,** or **य्**. The Sanskrit **छ्** therefore becoming the dento-palatal **छ्** passes into **म्** which differs from it only in the contact of the vocal organs being somewhat less incomplete. The only instances in the Prakrits in which the change appears to be the same as that we have been considering are **ऊसवो** for **उच्छवो** and **ऊसुओ**for **ऊच्छओ**.
-
- 
 
 I have already given instances of the many words with their uninitial consonants dropped which the vernaculars have inherited from the Prakrits, and shown what further changes they have undergone. This process of elision has not been continuedby any of the vernaculars unless we consider the disappearance of uninitial **व्** (which is very general in Hindi, Sindhi, and Bengali) to be an instance of the process.
 
@@ -6554,8 +6363,6 @@ I have already given instances of the many words with their uninitial consonants
 
  H, **ता-\[ना\]**, S. **ताइ-\[णु\]** to heat, Pr. **ताव**, Skr. **ताप**, M. **ताव-\[णें**\].
 
- 
-
 H. **दुआर**, B. **दोयार** door, Pr. **दुवार** or **दुआर** Skr. **द्वार**.
 
  B. **दुइ**two, Pr.**दुवे**, Skr. **द्वौ**.
@@ -6566,27 +6373,17 @@ H. **दुआर**, B. **दोयार** door, Pr. **दुवार** or **�
 
 **THE OF THE CAUSAL TERMINATIONS IN THE VERNACULARS**.
 
- 
-
 This elision of **व्** appears also in the Hindi causal forms such as**उठाना, चलाना**, **जलाना**, in which the **आ** only of the Prakrit or Marathi termination **आव**or **अव** is retained. The whole termination appears in the Braj and other dialects and in old books, sometimes in the form of **औ**.
 
- 
-
 The Sindhi causal termination is **आइ**as in **बधाइणु** 'to cause toincrease.’The **इ** here as well as in some of the Sindhi words given above represents the य which according to the Prakrit rule, takes the place of the dropped **व**, and is, as shown before, changed to **ए** in the other vernaculars. The Sindhi **इ** is a shortened form of this **ए**. The termination **आइ**appears sometimes in its more original form of **आअ** as in **वठाअणु** 'to cause to take.’
-
- 
 
 The Bengali too forms its causal by adding **आइ**as in **धराइतेछे**’is causing to be held,’ but the **इ** here seems to be an euphonic addition, which even in their primitive form the verbs take, as in **धरितेछे**‘isholding,’ so that the **व्** is here dropped and the vowel **अ**combined with the preceding as in the Hindi. In the speech of the Maratha lower classes of Southern Konkan **व्** is very often elided, and the causal termination of the Savantvadi dialect is **अय**, as in **करय** 'cause to do, which corresponds to the Sindhi **कराइ-\[णु\]**.
 
 \[Table 69 A : of म् dropped in the Vernaculars \]
 
- 
-
 There are instances also in which the **व्** resulting from **म्**is elided:—
 
  H. **कुअंर** 'a boy,’‘a prince,’ Pr.**कुमर**, Skr. **कुमार; बायां** 'left-hand-side, Pr. **वामअ**, Skr. **वामकः**, **धुआं** ‘smoke,’ Pr. **धूमअ**, Skr. **धूमक**;**अचाना**; ‘to rinse the mouth,’ Pr. Skr. **आचम**; or **बेराना**' ‘tomock’,Skr. **विडम्ब; भुई** ‘ground,’ Skr.B.
-
- 
 
 There are traces of this change in other dialects too, as in the Oriya **वां** for **वाम** ‘left,’ Gujarati **भांय = भूंई**, S. **भुइं**,Skr. **भूमि**, and the Marathi**भुंई** and the termination **ईं** of the locative, which is to be traced to the Pr. **म्मि**, Skr. **स्मिन्**. In all these instances we may regard **म्** as directly elided, and not the **व्** resulting from it. Hemacandra notices a few instances of the process in the Prakrits.
 
@@ -6612,8 +6409,6 @@ There are traces of this change in other dialects too, as in the Oriya **वा�
 
 \[Table 71 : Verna. ह् for Skr. घ\]
 
- 
-
 Skr. **मेघ** rain, Pr. **मेह**, G. H. **मेह**, S. **मेहु**.
 
  Skr. **श्लाघ्**to praise, Pr, **सलाह**, H. **सराह-(ना)**.
@@ -6628,15 +6423,11 @@ Skr. **मेघ** rain, Pr. **मेह**, G. H. **मेह**, S. **मेह�
 
  M. **माहेर**, G. **महीरुं** & woman's mother's house, Pr. **माइघर** or **माइहर,** Skr. **मातृगृह**.
 
- 
-
 G. **भौयार**, M. **भुंयार**, H. **भूंयारा** collar, Skr. **भूमिगृह**.
 
  G. **देहरुं**, M. **देव्हारा**, H. **देहरा, दिहरा** an idol-chamber, Skr.. **देवगृह**.
 
 **\[Table 72: Vernacular हfor Skr. ध\]**
-
- 
 
 Skr. **नाथ**alord, Pr, **नाह**, old M. & H. **नाह**.
 
@@ -6658,8 +6449,6 @@ Skr. **नाथ**alord, Pr, **नाह**, old M. & H. **नाह**.
 
 \[Table 73 : Vernacular हfor Skr. ध\]
 
- 
-
 Skr. **बधिरकः** deaf, Pr, **बहिरओ**, H. M. O. **बहिरा,** G. **बेहरो**.
 
  Skr. **दधि** curds Pr. **दहि**, H. M. G.P. O. **दहिं** S. **ड़हि**.
@@ -6676,8 +6465,6 @@ Skr. **बधिरकः** deaf, Pr, **बहिरओ**, H. M. O. **बहि�
 
 \[Table 74: Vernacular ह for Skr. भ\]
 
- 
-
 Skr. **प्रभा** or **प्रभात** light, dawn, Pr, **पहा, पहांअ, पहाद**, H. **पह** or **पोह**, G. **पोह**, M. **पहाट**. The S. **पिरिह**must be a later form. From the same root with the prepositions **वि** and **सु** we have H. **विहान** morning, S . **सुहाउ** light, &c.
 
  Skr. **शुभ** to become to adorn, Pr. **सुह**, H. **सोह- \[ना\]**. S. **सुह-\[णु\]**
@@ -6686,29 +6473,19 @@ Skr. **प्रभा** or **प्रभात** light, dawn, Pr, **पहा,
 
  Similarly, H. **पहिचान** ‘recognise’ is from Skr. **प्रत्यभिजाना**, the consonants interchanging places; G. **वहालो** or **वाल्हो**‘dear’ from Skr. **वल्लभःसेहलो** 'easy’ from **सलभ; वेहच - \[वुं\]** to ‘distribute or divide' from **विभज्** &c.
 
- 
-
 The existence of many such words as M. H. P. **उपाध**'injury,'H. P. **साध**‘a good man,' M. G. H. P. **मध** 'honey, H. G**लिख,लख** 'to write,' M. G. H. **नख**‘nail,’ S. **सुभाणे**'in the morning’ shows that the popular speech of Northern India has now for a long time ceased to have recourse to this process of dropping the mute element of the aspirates of the Sanskrit words, adopted from time to time from the parent language. Still, however, a few laterinstances, such as S. **पिरिह** ‘dawn,’ H. G. **माह**‘middle’ from **माध**and **मध्य**, and some of the compounds of घर noticed above show that it has not been entirely absent.
 
- 
-
 The elision of simple mutes and of the mute element of aspirates is a natural phenomenon which one always meets with in the course of lingual development; but its operation is generally slow and it is only in consequence of its systematic occurrence. in the Prakrits that I have attributed it to an ethnological cause and have supposed that the Prakrit speakers belonged to another race than those who spoke Sanskrit and, being unused to Sanskrit sounds, caught only the initial consonants from their Sanskrit teachers and dropped the rest or the mute portion of the rest. When, however, in the course of time they became used to those sounds and the Sanskrit and Prakrit speaking races became united into one community, they ceased to be so dropped, except through the slow and gradual operation of the usual phonetiol laws; and hence it is that in modern times we find Sanskrit words, not shorn of their elements in the manner in which they were in ancient times, as indicated above.
-
- 
 
 This elision, though it involves economy and is a natural process, constitutes a peculiarity of the Prakrits in so far as it is duel to peculiar historical incidents. We will now notice the peculiarities which do not involve economy and must be attributed to vocal predilections. Of the words in which a Sanskrit dental is changed to a cerebral in the Prakrits the vernaculars have preserved the following:—
 
 \[Table 75: Skr. Dentals changed to Cerebrals in Vernaculars\]
-
- 
 
 Skr. **बिभीतक**myrobalan,Pr.**बहेडाओ**,M. **बेहडा**, &c. as in table 8.
 
  Skr. **पत**to fall, Pr, **पड,** M. G.H. **पड- \[णे-वुं-ना\].**
 
  Skr. **दंश**to bite, Pr. **डस**, M. H. P. G. **डस- \[णें-ना-णा-वुं\]**. From this H. E. G. **डांस**, O. **डाआंश**a mosquito, Skr. **दंश**.
-
- 
 
 Skr. **दंश** to stick, Pr. **डक्क** (past part.), M. G.**डक
 -\[णें-वुं\] .**
@@ -6746,8 +6523,6 @@ Skr. **दंश** to stick, Pr. **डक्क** (past part.), M. G.**डक
  The Sindhi has the largest number of instances, and the Hindi and the Panjabi come next. The Marathi and Gujarati have the smallest number.
 
 \[Table 77: the same as No. 76\]
-
-
 
 S, **टुंठो**satisfied, Skr. **तुष्ट-\[कः\]**.
 
@@ -6789,8 +6564,6 @@ S, **टुंठो**satisfied, Skr. **तुष्ट-\[कः\]**.
 
 \[Table 78: Dentals adjoining र्changed to cerebral mute\]
 
-
-
 **पड**for Pr.**पंडि**, Skr. **प्रति**, in the words given in Table 52, and **हरडा, पुढें** and **मडें**in the same.
 
  M. G. H. S. P. **डर-\[णें- वुं-ना-णु-ना\]**, B. 0. **डरिवा**. Pr. **डर**, Skr. **दर**fear.
@@ -6809,13 +6582,9 @@ S, **टुंठो**satisfied, Skr. **तुष्ट-\[कः\]**.
 
  H. M. **पवादा**, S. G. **पबाडो** a narrative, Skr. **प्रवाद-\[कः\]**.
 
- 
-
 Even here the Sindhi has more instances than the others:—
 
 **\[Table 79 the same change in Sindhi\]**
-
- 
 
 **पुटु**a son, Skr. **पुत्र**, M. **पूत**.
 
@@ -6824,8 +6593,6 @@ Even here the Sindhi has more instances than the others:—
  **निंड़**sleep, Skr. **निद्रा**, H. **नींद**.
 
  **टामो**copper Skr. **ताम्र**, H. **तांबे**, &c.
-
- 
 
 Uninitial is changed to **ण्** in the Prakrits invariably, but when it is the beginning of a word is undergoes that change or optionally. In the vernaculars the initial remains unchanged, but when medial it becomes mostly in the Marathi, Gujarati, Sindhi, and Panjabi.
 
@@ -6870,8 +6637,6 @@ M.**नीज**,H, **नींद**,S.**निंद**sleep, Skr. **निद्
 
  P. S. G. **जण \[णा-णु-वुं\]** Skr. (causal) to give birth to, to produce.
 
- 
-
 G.**लुण**, S.**लूण**, P.**लूण**, M. **लोण** (**सेंधेलोण**), Skr. **लवण**salt.
 
   P. M. G. **आपण**, S. **पाण**, Pr. **अप्पाण**, Skr. **आत्मान** one's self.
@@ -6880,13 +6645,9 @@ G.**लुण**, S.**लूण**, P.**लूण**, M. **लोण** (**सें
 
   M. **नणंद**, &c., as above.
 
- 
-
 There are a few instances in which we have the original**न्** in the body of a word, as in M. G. P. **मन**,S.**मनु**, Skr. **मनः** 'mind,’G. **वानुं**'promise', for Skr.**वचन**, and G. **बेन**,as above. But the general in the rule seems to be that these four dialects have a medial **न्** place of the double **ण्** of the Prakrits, resulting from a Sanskrit conjunct of which **न्** is a member. Thus:—
 
 \[Table 82 Prk. णchanged to न् in the vernaculars\]
-
- 
 
 Skr. **अरण्य**, Pr. **रण्ण**, M. G. **रान** wilderness.
 
@@ -6910,8 +6671,6 @@ Skr. **अरण्य**, Pr. **रण्ण**, M. G. **रान** wilderness.
 
  But even here in Marathi, the purely Deshastha Brahmans living in the eastern part of the Deccan or Mahārāṣṭra pronounce the **न्**as **ण्**; and the ordinary **रान, कान, पान, विनंति**, &c., of that dialect become in their mouths **राण, काण, पाण, विणंति**, &c. They have, therefore, preserved in its integrity the old habit of the Prakrit speakers to pronounce the **न्** as **ण्** throughout. On the other hand, the lower class of the Konkani population preserve the Paiśacipeculiarty of reducing **ण्** in all cases to **न्** and pronounce of, **पाणी, वाणी,कोण**, &c, as **पानी, वानी, कोन**, &c, and this peculiarity we find in its fulness in the Hindi, and next to it in the Bengali. Thus the words with a **ण्** in them in the Marathi, Gujarati, Sindhi and Panjabi, given above, have the following forms in Hindi:—
 
- 
-
 **मानूस, दिसना, जन, कहानी, पानी, जानना, कौन, बहिन**,or**बैन, कठिन, जनना, लून** or **नून,अपना, टानना** or **तानना, ननद** or**ननदी**.
 
  And such of these words as are in use in the Bengali have the following:—
@@ -6921,8 +6680,6 @@ Skr. **अरण्य**, Pr. **रण्ण**, M. G. **रान** wilderness.
  Other words, in some of which even in Sanskrit a **ण्** appears, are in the Hindi and Bengali thus:—
 
 \[Table 83: Original ण् preserved\]
-
- 
 
 Skr. **ब्राह्मण**, H., **बम्हन**, or**बामन**,B.**बामुन**,but S.**बाभणु**, a Brahman.
 
@@ -6936,13 +6693,9 @@ Skr. **ब्राह्मण**, H., **बम्हन**, or**बामन**,B
 
  Still **ण्**does appear in Bengali books in a few words such as **काण**'ear', **लोण**, 'salt', &c. In the Hindi it seems to be entirely absent.
 
- 
-
 In the principal Prakrit and the Śaurasenī, all the Sanskrit sibilants are reduced to **स्**. Sanskrit words, therefore, containing the palatal **श्**and the cerebral **ष्**, which in the Prakrits came to have the dental **स्** instead, have the last in the Hindi, Panjabi, Sindhi, Gujarati, and Marathi. But according to a law of Marathi pronunciation, this **स्**, when followed by the palatal vowel or semi-vowel **इ, ए,** or **य्**, is transformed into the palatal **श्**.The foregoing list of words contain many instances that provethese points. Thus:—
 
 \[Table 84 A: Skr. श् or ष् changed to स् in the Vernaculars\]
-
- 
 
 Table 2. M. H. P. **दिस**, S. **डि़स**, Skr. **दृश्य**; H. **सियार**, Skr. **शृगाल**; G. H. **सींग**, P. **सिंग**, B. **सिङु**, Skr. **शृङ्ग**; H. P. **किस** Skr, **कृषिः** M. **पाउस**, H. **पावस**, Skr **प्रावष्**.
 
@@ -6952,27 +6705,19 @@ Table 2. M. H. P. **दिस**, S. **डि़स**, Skr. **दृश्य**; 
 
  Table 14. M. H. **बैस**, Skr. **उअपविश**; M. **ह्मैस**, H. **भैंस**, G.**भेंस**, Skr. **महिषी**.
 
- 
-
 Table 24. H.**सेमल**, M.**सावरी**, Skr. **शाल्मली** ; Table 34. H. S. **साध**, Skr. **श्रद्धा**.
 
  Table 47. H. P. **परोस**, G. **पीरस**, Skr. **परिवेष**; Table 46. H **सलाई**,M. P. **सलई**, Skr. **शलाका**.
 
  Table 36. H. **साला**, P. M. **साला**, Skr. **श्यालक**;Table 63. M. **सांवला**, H. P. **सांवला**,&c., Skr. **श्यामलक** ;M. **विसावा**, &c., Skr. **विश्रा**म.
 
- 
-
 Table 69. H. **सिहरा**, or **सेहरा** &c., Skr. **शेखर**; Table 73. H. **सोह**,S. **सुह**,Skr. **शुभ**; Table 74. P. H. M. G. **डांस**, Skr. **दंश** ;H. **सुन**,S.**सुण**,Skr. **शृण**as above. &c.
 
  H. **सीसो**, M. **शिसवा** G. **शिसम**, Skr **शिंशप** Table 65.
 
- 
-
 Other instances are—
 
 \[Table 84 B: The same: श्or ष्changed to in the Vernaculars\]
-
- 
 
 M. **साल**,H. **साल**,Skr. **शाला**‘a school' or 'an establishment.
 
@@ -6994,19 +6739,11 @@ M. **साल**,H. **साल**,Skr. **शाला**‘a school' or 'an estab
 
 \[Table 84 C: The Same More Modern Instances\]
 
- 
-
 Even in words adopted later, and consequently treated somewhat differently, from the way in which they were treatedin the Prakrits, the Sanskrit **श्** and **ष्** are reduced to **स्**, as in the H. **तर्सना** 'to thirst,’ Skr. **तृष्** ; **परवेस** ‘entrance,’ Skr. **प्रवेश ; परसु** ‘ahatchet,’ Skr. **पर्शु ; निसपति**‘lord of the night,' 'the moon,' Skr. **निशापति**;S. **वंसु** ‘race,’ ‘descent,’ Skr. **वंश;वर्सणु**‘to rain,’ Skr. **वर्ष** ; **वसिकरणु** ‘to subdue,’ Skr. **वशीकरण** , P. **सोग** 'sorrow,’ Skr.**शोक; सांत** 'quietness,’ Skr. **शान्ति** ;**परमेसुर** 'God,’ Skr. **परमेश्वर**; H. **वरिस**, G. **वरस** 'a year,’ 'Skr, **वर्ष**; G, **वरसवुं** ‘to rain,’ Skr. **व**र्ष &c.
-
- 
 
 The present speakers of the Hindi, the Panjabi, and the Sindhi retain therefore the vocal peculiarity of their Prakrit ancestors of pronouncing Sanskrit **ष्** and **श्** as **स्**.
 
- 
-
 Of the words given above, the **सींग, सेमल, सीख** and **सेज** of the Hindi become **शिंग, शेवरी, शिक** and **शेज** in Marathi, because they are followed by a palatal vowel. Similarly, we have **शेण**‘cowdung’ Skr. **शकन्; शेगट** 'atree,’ Skr. **शिग्र ; शेवाल** 'moss,’ 'Skr. **शैवाल; शिडी** 'ladder,' Skr. **श्रेडी**, &c. Even the original **स्**of Sanskrit words is pronounced by the Marathas as **श्** under those conditions, as **शेंदूर** ‘red lead,’ Skr. **सिन्दूरः** ; **शिवणें** 'to sew,’ Skr. **सिव्** ;**माउशी**'mother's sister,’ Skr. **मातृष्वसा**, &c.
-
- 
 
 Gujarati too shows the same tendency though it is not so decided; and we have thus **शिंग**‘a horn,’ **शिखवुं**'to learn' **सिववुं**‘to sew,’ **शिसम**‘blackwood,’ Skr. **शिंशप, शेज**,Skr. **शय्या** &c. But we have also such words as **शिंचवुं**'sprinkling,’ Skr. **सिंच, सिजववुं**'to boil,' **सिडी**‘ladder, &c. So that the Marathi rule does not seem to be strictly applicable to the Gujarati. Still the sound **श्**is as natural to the Gujaratis as to the Marathas, as is shown by such forms as **शुं**for **सुं**‘what?', **करशो**'do,’ &c., and in some provinces it is freely used for **स्**in many words.
 
@@ -7025,31 +6762,21 @@ Gujarati too shows the same tendency though it is not so decided; and we have th
 |  डांश   | डांसa mosquito. |   शेल    |           सालa dart.            |
 |   भईश   | भैंसa buffalo.  | दिवाशलाई |      दिपासलाई & fire-match.      |
 
- 
-
 Bengali books and dictionaries contain a good many words, derived from the old Prakrits or recently adopted from Sanskrit, which contain **स्**in them. The object of the authors in these cases is to give the correct Prakrit or Sanskrit forms, and not to represent the correct Bengali pronunciation. But it is not necessary to hear a Bengali speak or read his language or even Sanskrit for a long time to arrive at the clear conviction that his vocal habits do not admit of the pronunciation of **स्** or, **ष्**,but only of **श्.**
 
 Sanskrit and Prakrit **स्** becomes **श्** in his mouth. Thus the Bengalis of the present day possess the same vocal characteristic that is attributed to their ancestors, the speakers of the Māgadhī, by the Prakrit grammarians.
 
 \[Table 85 A : श्changed to छ्in the vernaculars\]
 
- 
-
 **श्** has a tendency to pass off into **छ्** as we observed in going over the Pali. For the Pali **छक** from the Skr. **शकृत्**‘cowdung," we have **छेणु** in S., **छाणा**in G., &, from **शकन्**, another form of the word; and for the Pali **छाप**, Skr. **शाव**‘the young of an elephant,’we have **छावा** in H. M. &c., the Pr. form being **छाव**. For the Skr. **शेव**the G. has **छेवट, छेडो**, and **छेल्लो**‘last,' 'end,’ with the suffixes. **ट, ड** and **ल** ; for Skr. **शल्ल**‘rind,’ H. has **छल्ली**, for Skr. **शण** ‘hemp,’ O. has **छण** ; for **मूत्रधार**'carpenter,’which is **सुतार**in the other dialects and must have been pronounced **शुतार**by the Bengalis, the B. has **छुतार**and O. also. Other instances may be found.
 
 \[Table 85 B : ष् changed to ख्in Hindi\]
 
- 
-
 In Hindi Skr. **ष्**is often pronounced as **ख्** as in **भाख**for **भाष**, ‘spoken dialect', **पुरुख** for **पुरुष**, **भेख**for **वेष, विखम** for **विषम** &c. This is to be identified with the practice of the followers of the Mādhyaṁdina recension of the White Yajurveda who read the **ष्**occurring in their books throughout as **ख्**. But other dialects also have a few instances of this change, as **विख**P. M. G., **विखु**S. for Skr. **विष**.
-
- 
 
 Of the Prakrit words in which a vowel or a mute is aspirated through the influence of an adjoining aspirate or an aspirated mute, the vernaculars have preserved the following :—
 
 \[Table 86: Mutes aspirated in the Prakrits and the Vernaculars\]
-
- 
 
 Pr. **पनस**, M. G.**फणस**, Skr. **पनस**a Jacktree. The H. has also **फनस** but more commonly **पनस**.
 
@@ -7061,11 +6788,7 @@ Pr. **पनस**, M. G.**फणस**, Skr. **पनस**a Jacktree. The H. has 
 
 \[Table 87: Mutes aspirated in the Vernaculars\]
 
- 
-
 M. **फरशी**, G. **फरसी**, H. **फरसा**, Skr. **परशु** an axe.
-
- 
 
 M. G. **फांस**, H. **फांस-फांसा-फांसी**, P. **फाहा-फाही-फांसी**,P.**फासी-फाही**, S. **फांस-फांसी**, Skr. **पाश** a noose.
 
@@ -7093,29 +6816,19 @@ M. G. **फांस**, H. **फांस-फांसा-फांसी**, P. 
 
 **\[Table 86 A : Aspiration transferred\]**
 
- 
-
 In some cases the aspirate sound is absorbed in the adjoining mute, and it ceases to exist as a separate component of a word. Thus, from the Pr. **पहुडि**, Skr. **प्रभृति**, we have the M. **पुढें**in **ह्** which the combines with **ड्**, and the M. *dial*. **फुडें**in which it combines with **प्**. In the same manner the Skr. **मेष**‘sheep' becomes, with the usual Apabhraṁśa suffix **ड**or **डअ, मेसडउ** or **मेहडउ**, which in M. and G. assumes the form of **मॆंढा**and **मॆंढा**, the **ह** combining with **ड**. and in H. and P., of **भेडा**, in which the being combined with the preceding **मे** destroys the nasal character of the sound. P. has **मेढा**also, and G. **भेडा**, and B. and O. **मेडा**as well as **भेडा**. By a similar absorption of the **ह्** sound and the reduction of the nasal to a mere Anusvāra, we have H. P. **भैंस**(masc. **भैंसा**), G. **भेंस**, B.**भंईश**, from Skr. **महिषी**‘a female buffalo,' and G. M. **भेल** from Pr. **मिस्स**, Skr. **मिश्र**with the suffix **ल**, through an intermediate form **मिहल** or **मेहल**. We have a more ancient instance of the process in the Pr. **संभर**for Skr. **संस्मर**, through the intermediate form **संम्हर**, which has been preserved by the G. in **सांभरवुं**'to remember 'or 'remind.’
-
- 
 
 Sometimes a mute is aspirated without any appsrent resson in the Prakrits, and these instances have come down to some of the vernaculars : —
 
 \[Table 88 : Mutes aspirated\]
 
- 
-
 Skr. **कुब्ज** humpbacked, Pr. **खुज्जो**, M. **खुजा**; but P. **कोझा**, H. **कुंजा**, B. **कुंजो**, O, **कुंजा**, S, **कुबो** ;M. **कुबड़ा** also.
-
- 
 
 Skr. **कीलकः**a nail, Pr. **खीलओ**, M. **खिला**, G. **खिलो**, B.O. **खील** or **खिला**; the rest **कील**.
 
  Skr. **कर्पर** potsherd, an earthen cup, Pr. **खप्पर**, M. **खापर**, H. P. **खप्पर**, O. **खपरा** B. **खाबरा**.
 
  Later instances are:—
-
- 
 
 P. **ग्वूहा**, S. **कूहा** a well, Skr. **कूपकः**.
 
@@ -7129,11 +6842,7 @@ P. **ग्वूहा**, S. **कूहा** a well, Skr. **कूपकः**.
 
 \[Table 89 : Interchange of Consonants\]
 
-
-
 **हलू** 'slow' in M. Pr. **हलुअ**and Skr. **लघुक, हौला** in H. and P and **हलू** and **हलवे** in G.
-
- 
 
 M. **सून** 'dsughter-in-law, Pr. **सुण्हा**, Skr. **स्नुषा**.
 
@@ -7141,13 +6850,9 @@ M. **सून** 'dsughter-in-law, Pr. **सुण्हा**, Skr. **स्न�
 
  There are a good many more modern instances -
 
- 
-
 H. **पहिचानना** to recognize Pr. **पच्चहिआण** Skr. **प्रत्यभिज्ञा-(जा) न**, P. **पछाणना**.
 
  H. **पहिरना** to dress, Pr. **परिहाण**, Skr. **परिधान** P. **पहिराउणा** to cause to dress. In both the last two syllables are assimilated and we have **पहिन्ना** also ; G. **परेवु**by the loss of **ह्**.
-
- 
 
 G. **वहालुं**beloved, Pr. **वल्लह**, Sir, **वल्लभ**.
 
@@ -7155,11 +6860,7 @@ G. **वहालुं**beloved, Pr. **वल्लह**, Sir, **वल्ल�
 
  **बिलाडी** a cat, Skr. **बिडाल** ; **उथलपाथल** topsy-turvy, the M. form being **उलटापालट**, Pr. **उवलत्थ-ठ्ठ पल्लत्थ-ठ्ठ**. **उपर्यस्त पर्यस्त**.
 
- 
-
 M. **शेपूट** or **शेपटी** tail, G. having **पूछडुं**or **पूछडी**, Skr. **पुच्छ**, with the suffix **ट**, the **छ्** being changed to **श्**by the usual Mrule and the palatal vowel being brought in by the palatal **श्**.
-
- 
 
 M. **थोडकें**little, Pr.**थोक्क**, Skr.**स्तोक**, with the suffix **ड**.
 
@@ -7169,21 +6870,15 @@ M. **थोडकें**little, Pr.**थोक्क**, Skr.**स्तोक**
 
 TREATMENT OF SKR. CONJUNCTS IN THE VERNACULARS,
 
- 
-
 We will now trace in the vernaculars the Sanskrit conjunct consonants assimilated in the Pali and the Prakrits, in the order I have observed in treating of them in the lecture on the Pali. And first I will give a few instances of those in which the second member being strong prevails over the first and is doubled.
 
 \[Table 90: Second Member of the Conjunct preserved and doubled\]
-
- 
 
 Skr. **कर्म** act, business, Pr.**कम्म**, P. **कम्म**, S.**कमु**, H. G. M. O.**काम**.
 
  Skr. **घर्म**heat of the sun, Pr. **घम्म**, H.**घाम**, M. G. B. O. **घाम**in the sense of ‘sweat.’
 
  Skr. **चर्म** skin, leather, Pr.**चम्म**, P. **चम्म**, S. **चमु**, H. G. B. **चाम**, 0. **चम**, M. **चाम** in **चामडें**.
-
- 
 
 Skr.**कार्य**, Pr.**कज्जं**, S. **काजु**, M. G. H. P. **काज**. The M. has, however, the dento-palatal **ज** here.
 
@@ -7192,8 +6887,6 @@ Skr.**कार्य**, Pr.**कज्जं**, S. **काजु**, M. G. H. P
  Skr. **पर्ण**a leaf, Pr. **पण्ण**, P.**पन्ना** (of a book), S. **पनु**, H. G. M. **पान**, G. **पानुं** (of a book ), P. S. O. **पान**in the sense of 'betel leaf.’
 
  Skr. **विज्ञप**to solicit, supplicate, Pr. **विण्णव**, H.G. M. **विनव-\[ना-वुं-णें\]**; H. also **विनौना**.
-
- 
 
 Skr. **राज्ञी**a queen, Pr. **रण्णी**(?), G. P. S. M. B. O.**राणी**, H. **रानी**.
 
@@ -7253,8 +6946,6 @@ Skr. **राज्ञी**a queen, Pr. **रण्णी**(?), G. P. S. M. B. O
 
  Skr. **स्ना**to bathe, Pr. **ण्हा**or **नहा**, P. H. M.G. **न्हा- \[उणा-ना-णें-वुं\]** P. H. **नहा** also.
 
- 
-
 Skr. **अङ्गुष्ठ**thumb, Pr. **अंगुठ्ठ**, P. **अंगूठ**, S, **आङूठो**, H. **अंगूठा**, G, **अंगूठो**, M. **आंगठा**.
 
  Skr. **विष्किर** to spread,Pr. **विक्खिर**, P. **विक्खरना**, S. **विखेरणु**, H. G. M. **विखर-\[ना-वुं-णें\]** to be scattered.
@@ -7275,8 +6966,6 @@ Skr. **अङ्गुष्ठ**thumb, Pr. **अंगुठ्ठ**, P. **अ�
 
 \(b\) Conjuncls of a dental and a heavy य्.
 
- 
-
 Skr **सत्य** true, Pr, **सच्च**, P. H. **सच्च**, S. **सचु**, H. M. **साच**, G. **साचुं**,B. **सांचा**.
 
  Skr. **नृत्य** of **नृत्यति** to dance, Pr. **नच**, P. **नच** or **नच-\[णा\]**, S. **नच-\[णु\]**, H. M. G. **नाच-\[ना-णें-वुं\]**,B. O. **नाचिवा**.
@@ -7289,8 +6978,6 @@ Skr **सत्य** true, Pr, **सच्च**, P. H. **सच्च**, S. **�
 
  Skr. **उत्पद्य**of **उत्पद्यते** to be produced, Pr. **उप्पज्ज**, P. S. H. M. G. **पज-\[णा-णु-ना-णें-वुं\]**.
 
- 
-
 Skr. **माद्य**of **माद्यति**to be intoxicated, Pr. **मज्ज**, M. **माजणें**.
 
  Skr. **विद्युत** lightning, Pr. **विज्जू**, M. G. **वीज**, P. **विज्ज**, S. **विजु**.
@@ -7300,8 +6987,6 @@ Skr. **माद्य**of **माद्यति**to be intoxicated, Pr. **म
  Skr. **स्विग**of **स्वराति** to sweat also to boil, Pr. **सिज्ज**, P. **सिज्जणा** to be soaked, S. **सिझणु**, H. **सिझना-सिजाना** (casual), M. **शिजणें**, G. **सिजवुं**, 0. **सिजिवा**.
 
  Skr. **वन्ध्या**abarren woman, Pr. **बंज्झा** Or **बंज्झा**, P. **वंझा**, S. **वांझ**, H.O. **वांझ**, G. **बांझ-\[णी\]**, M. **वांझ** or **वांज**, B, **बांझा**.
-
- 
 
 Skr. **संध्या** evening, Pr. **संज्झा**, P.S. **संझा**, S. **सांझी**, H. **सांझ**, M.G, H. B. **सांज**, O. **संज**.
 
@@ -7315,8 +7000,6 @@ Skr. **संध्या** evening, Pr. **संज्झा**, P.S. **सं�
 
 \[Table 93 :व् as second member of a conjunct changed to प्प, ब्ब, ब्भ,च्च,ज्ज, ज्झ\]
 
- 
-
 Skr. **त्व**abstract termination, Apabhr., **प्प**,H. **पा**as in **बुढापा**old age, **मोटापा** fatness, S **पो** as in **माण्हिपो**humanity, from **माण्डु**man.
 
  Skr. **त्वन** abstract terminstion, Pr. **त्तण**, Apabhr. **प्पण**, H. **पन** or **पना** as in **कुआरपन** celibacy; S. **पणु** or **पणो** as in **जालपणु** womanhood, **माण्हुअपणु** humanity ; M. **पण** or **पणा** as in **माणुसपण** or **माणुसपणा** humanity ; P. **पुण** as in **निआणपुण** childhood &c.
@@ -7326,8 +7009,6 @@ Skr. **त्व**abstract termination, Apabhr., **प्प**,H. **पा**as i
  Skr. **द्वार** door, Pr. **दार** or **बार**, P. H. G. **बार**, P. **दर** S. **दरु**. M. **दार**.
 
  Skr. **सर्व** all, Pr. **सब्ब**, H, **सब**, P. **सभ**, S. **सभु**, G. **सहु**for **सव**.
-
- 
 
 Skr **ज्वल** to burn, Pr, **जल** or **बल**, S. **बरणु**, P. **जलना-बलणा**, H. **जलना-बलना** G. M. **जलणें** and **पोलणें** where **ब**seems to be hardened, B. O. **पोड़** in **पोडिवा**.
 
@@ -7341,25 +7022,17 @@ Skr **ज्वल** to burn, Pr, **जल** or **बल**, S. **बरणु**,
 
 **\[DENTALS CHANGED TO PALATALS\]**
 
- 
-
 Dentals have a tendency to become palatals even when not followed by **य्** or **व्**, probably because they do so become when followed by those semi-vowels. Thus, from the Skr. **वादयति** ‘to sound' or 'play on a musical instrument,' we have P. **बजाउणा**,H. **बजाना**, M. **वाजविणें**, &c.; from Skr. **निद्रा**'sleep,’ M. **नीज**; P. H. **ओछा**;'trifling,' 'vain', S. **ओछा**,from very probably, Skr. **वृथा** ;M. **सावज**,H. **साजा**from Skr. **श्वापद** which appears even in the Prakrits to have assumed the form of **सावज**,though **सावय**is usually given; M. H. G. **छी छी**, M. **छे छे**,Pr. **छि छि**from Skr. **धिक् धिक**&c.
 
 \[Table 94: (c) The conjunct क्ष्(when the sibilant is pronounced like श्,) and त्स, and त्स्य\]
 
  Skr. **क्षण** a moment, Pr. **खण**, P. **छिण**, S. **खिण**, H. **छिन**, G. **खण**, M. (*dial.*) **खिण**a festival, Pr. **छण**, M. **छिन**, M. **सण**for **छण**.
 
- 
-
 Skr. **क्षुरक-रिका** aknife a razor, Pr. **छुरअ-रिआ**, P. **छुरा-री**, S. **छुरी**, H. **छुरा-री**, B. O. **छोरा-छुरी**, M. **सुरी**.
 
 ** **Skr. **मक्षिका**afly, Pr.  **मक्खिआ**, P. **मक्खी**, S. **मखी**, H. G. **माखी.मच्छिआ**, H. B. O. **माछी**, M. **माशी**.
 
- 
-
 Skr. **कुक्षि**a side of the abdomen, Pr. **कुच्छि**or **कुक्खि**, M. **कूस**; the rest **कुख** or **कोख**as in Table 5.
-
- 
 
 Skr. **ऋक्ष**a bear, Pr. **रिच्छ**, S. **रिछु**, H. G. **रीछ**, M. **रीस**.
 
@@ -7367,15 +7040,11 @@ Skr. **ऋक्ष**a bear, Pr. **रिच्छ**, S. **रिछु**, H. G.
 
  Skr. **क्षेत्र**a field, M. **शेत** from Pr. **छेत्त**; the rest **खे**त.
 
- 
-
 Skr. **वत्स**a calf, Pr. **वच्छ**, P. **बच्छा**, S. **वछ**, H. **बाछा, बछा, बछ**, G. **वछ, वाछ-\[रहुं\]**. B. **बाछु-\[र\]** O. **बाछु-\[री\]**, M. **वास-\[रुं\]**; P. H. **बच्चा**, S. **बचो**,B.**बाच्चा**, M.**बच-\[डें\]**, &c., in the sense of ‘the young one of any animal,’ from the same.
 
  Skr. **मत्स्य** & fish, Pr. **मच्छ**, P, **मच्छ**, S. **मछु**, H. **मछ** or **माछ**, B. O. **माछ**, M. **मासा**.
 
  Skr. **उत्सङ्ग**lap, Pr.**उच्छङ्ग**, H.**उछंग**, M. **ओसंग**.
-
- 
 
 The conjunct **क्ष्**sometimes appears in the Prakrits, and perhaps even in Sanskrit, in the form of **झ्**. The Sanskrit **क्षर** is **ज्झर**in the Prakrits, and this we have in the H. **झरना**, M. **झरणें** and **पाझरणें**in which last **पा**stands for the preposition **प्र. क्षि**is Pr. **झिज्झ**from which we have M;**झिजणें**'to waste away', and from **क्षीण**we haveS. **झीणो**, H. **झीन**, &c.
 
@@ -7401,8 +7070,6 @@ The conjunct **क्ष्**sometimes appears in the Prakrits, and perhaps even
 
 \[Table 96: Instances where the first member of a conjunct remains\]
 
- 
-
 Skr **भग्न-\[कः\]** fled away, Pr. **भग्ग- \[ओ\]**, H **भागा**, S. **भ**गो.
 
  Skr. **लग्न** adhered to, connected, Pr. **लग्ग**, P. **लग्गा** or **लग्ग** in **लग्गणा**, S. **लग** in **लगण**, H. M. G. **लाग-\[ना-णें-वुं\]** B. **लागा**, O **लागि**वा.
@@ -7415,29 +7082,19 @@ Skr **भग्न-\[कः\]** fled away, Pr. **भग्ग- \[ओ\]**, H **�
 
  Skr. **शून्य**void, empty, Pr. **सुण्ण**, P. **सुन्न** or **सुन्ना**, S.**सुंन**, H. **सून** or **सूना**,M. **सुना, सुंन** has acquired the sense of "insensibility" also.
 
- 
-
 Skr. **मन्य** of **मन्यते** to regard, Pr. **मण्ण**, P. **मन्नणा**, S. **मनणु**, M. G.H. **मान-\[णें-वुं-ना\]**.
 
  Skr. **व्याख्यान** to explain, Pr. **वक्खाण**, P. **व-बखाणना**, H, **बखानना** explain or praise, S. **बखाणणु** praise, G. **वखाणवुं**, H. **वाखाणणें**.
-
- 
 
 Skr. **अरण्य** desert, Pr. **रण्ण**, M. G. **रान**, G. **रन**, S.**रिणु**.
 
  Skr. **व्याघ्र** a tiger Pr. **वग्ध**, P. H. B. O. **बाघ**, S. **बाघु** M. G. **वाघ**.
 
- 
-
 Skr. **अग्र** front part, Pr. **अग्ग**, S. **अगो**;H. **आगा**; P **आग्गु**before, G. **आगो**, G. **आगल** before, B. **आगे** O. **आगु**first of all.
 
  Skr.**चक्र**a wheel, Pr. **चक्क**, P. **चक्क**, S. **चकु** (both) apotter’s wheel, H. **चाक, चक्की**, in the sense of a ‘mill-stone', G. M. **चाक**, B, **चाका**.
 
- 
-
 Skr. **पत्र** a leaf, Pr. **पत्त**, P. **पत्त**, S. **पतो** aplaying card, H. **पात, पाता, पत्त**G, **पातरुं**, M. **पातें** blade of a knife, M. **पातेरा** a collection of dry leaves.
-
- 
 
 Skr. **चन्द्र** moon, Pr. **चन्द**, P. **चंद**. S. **चंडु**, H. G.M, B.O. **चांद**. H. **चंद** also.
 
@@ -7453,8 +7110,6 @@ Skr. **चन्द्र** moon, Pr. **चन्द**, P. **चंद**. S. **�
 
 \[Table 97: र्यis changed to ल्ल\]
 
- 
-
 Skr. **पर्याय** rotation, turn, Pr. **पल्लाअ**, H. **पाला**, M. G.O. **पाली**.
 
  Skr. **पर्यस्त** changed, Pr. **पल्लठ्ठ**or **पल्लत्थ**, P, H. **पलटा**, P. **पलटा**, M. G. **पालट**.
@@ -7462,8 +7117,6 @@ Skr. **पर्याय** rotation, turn, Pr. **पल्लाअ**, H. **प
  Skr. **पर्यङ्क**a bedstead, Pr. **पल्लङ्क**, P. **पलंघ**, S. **पलंगु**, H. M. G. **पलंग**, B. **पालंक** or**पालंग**, O. **पलंक**.
 
  The following are instances of other cases of the same change;
-
- 
 
 Skr. **मर्द**to squeeze, rub, knead, Pr. **मल**, P. M. G. **मल-\[ना-णें-वुं\]**, H. S. **मल- \[ना-नें-वुं\]**.
 
@@ -7477,8 +7130,6 @@ H. has **आदा** also from Pr.**अद्दअ**.
  When **क्**, the first sound of **क्ष्**, prevails and adds to itself the heavy aspiration of **ष्**, the conjunct becomes **क्ख्**. Of this change there are many instances in the vernaculars :—
 
 \[Table 98 :क्ष changed to क्ख्\]
-
- 
 
 H. **रूस**, Skr. **वृक्ष** a tree, Pr, **रुक्ख**, P. **रुख**.
 
@@ -7506,33 +7157,21 @@ H. **रूस**, Skr. **वृक्ष** a tree, Pr, **रुक्ख**, P. *
 
  Skr. **इक्षु** sugar-cane, Pr. **उक्लु** or **इक्खु**, H. **ऊख** or**ईख**, P. **इक्ख**.
 
- 
-
 Though accordingto Hemacandra and Vararuci, the **क्ष्** of **क्षेत्र, कुक्षि,अक्षि,क्षीर, मक्षिका**and इक्षु**i**s changed to **च्छ्**in the Mahārāṣṭrl or principal Prakrit, still we see that most of the vernaculars derive their forms of these words from such Prakrit formal as had **क्ख्** for the Sanskrit **क्ष्**. But with the exception of **इक्खु**and **खीर** which are mentioned as occurring in the Jaina sacredbooks, these forms are not given as existing in any of the dialects.
 
- 
-
 This and other similar omissions show that the observation of the Prakrit grammarians was by no means perfect. The Marathi forms of these words, however, with the exception of **अक्षि**, which is unknown to the language, and of **क्षीर**,which is **खीर**,have **म्** or **श्**, which is representative of the Prakrit **छ्**, and hence they are the same as those given by Hemacandra and Vararuci. Here we have one of several indications that the modern Marathi is the direct daughter of the old Mahārāṣṭrlof the grammarians.
-
- 
 
 It will be seen from the lists given above that the Hindi, Gujarati, Marathi and Bengali mostly drop one component of the doubled consonants, and to make up for the quantity thus lost, lengthen the preceding vowel. In other words, the speakers of those dialects take the same time to pronounce two syllables the latter of which contains a double consonant which the speakers of the Prakrit did; but the preceding forcible vowel utterance and the subsequent strong contact and pressure being avoided, the effect is that one of the two consonants is dropped and the previous vowel lengthened. This then is essentially a case of softening.
 
  The Sindhi drops one of the two consonants, but does not. lengthen the preceding vowel; while the Panjabi generally preserves. the doubled consonants handed down to it by the old Prakrits. The Hindi contains more instances in which the original Prakrit pronunciation is preserved than the other three dialects. Hemacandra notices in the Prakrits the softened pronunciation we have been considering in the case of only, one of which is according to him dropped and the preceding vowel is lengthened, as in **पासइ** for **पस्सइ**, Sk. **पश्यति, मीसं** for **मिस्सं**, Skr, **मिश्रम्**, &c. This lengthening of the previous vowel is in the four dialects prevented, as observed [before,](http://# "1 See pp. 424-26,") by the accent falling on a subsequent syllable.
 
- 
-
 In the ‘Pali and the Prakrits, you will remember, the components of some conjuncts such as **र्य्, ई, र्श्, र्ष्, श्ल्, क्ल्, ग्ल्, म्ल्**, &c., are not assimilated but separated by the interposition of a vowel. The vernaculars have preserved some instances of this process:—
 
 \[Table 99 Interposition of a vowel between the members of a conjunct\]
 
- 
-
 H. **सराहना** to praise, Pr. **सलाह** Skr. **श्लाघ**.
 
  H. **अगनी**, P. **अगन**, B. **आसुन** fire, Pr. **अगणी** Skr. **अग्नि**.
-
- 
 
 H. **बरस, बरिस**, M. **वरीस** a year, Pr. **वरिस**, Skr. **वर्ष**. So also H. P.**वरस-\[ना-णा\]**,G. **वरसवुं**, Skr. **वर्ष**.
 
@@ -7544,17 +7183,11 @@ H. **बरस, बरिस**, M. **वरीस** a year, Pr. **वरिस**
 
  In modern times other conjuncts also are similarly dissolved, and we have a **पर्ताप**S. M., &c. 'exploit' for **प्रताप, खेतर**, P. G., &c. 'a field' for **क्षेत्र, पदमु**S. 'a lotus' for **पद्म, तियाग**P. for **त्या**ग. **तर्सु**S., others **तरास**, 'vexation' for **त्रास, धरम**'virtue' H. M. G., &c., for **धर्म**, &c.
 
- 
-
 But the books and dictionaries of some of these languages contain a good many Sanskrit words the conjuncts in which are not changed in any way. This is due to the fact that those languages are now the spoken languages of the educated as well as the uneducated portions of the different communities, and the former pronounce the words correctly, and the forms given to them by the latter are not taken into account by the authors of those books. Again, even the latter, though they interpose a vowel between the components of some conjuncts as shown above, have, to a certain extent, become used to Sanskrit sounds and can pronounce others correctly. But in some of the provinces. the old disability of the Prakrit speakers has been inherited in certain cases by their modern descendants, whether educated or uneducated, and it is very much to be regretted that the writers of books should in such cases write words in their Sanskrit forms. which, when they are read by themselves or others, are read in a quite different way.
-
- 
 
 The people of Sindh**¹**, whether belonging to the higher or lower classes, and the Bengalis pronounce the conjuct **क्ष्**invariably as **क्ख्**.Thus Sanskrit **नक्षत्र** as **नक्खत्रसाक्षी** as**साखी, मोक्ष** as**मोक्ख**or **मोख**,&c. The speakers of the Hindi more often pronounce as **चा** than as **क्ख्,नक्षत्र** becoming **नच्छंत्तर** with them; **साक्षी, साच्छी; मोक्ष मोच्छ ; लक्ष्मण, लच्छमन ; लक्षणा, लच्छना ; क्षत्रिय, खत्री** or **छत्री ; क्षय, छय ; क्षम, छम** ;&c. The Panjabis pronounce the first three words as **साखी**, and **मोच्छ, लक्षण** as**लच्छण, क्षत्रिय** as **खत्रि**, &c. so that they also agree with the Hindi people, but seem more inclined towardsmaking **क्ख्** of the conjunct. The Marathas, however, pronounce the **क्ष्**properly, though ordinarily they make **क्श्** of it rather than **क्-ष्**, as remarked on a former occasion. Similarly, the Bengali assimilates conjuncts the latter member of which is **व्** or **य्**, **ईश्वर**becoming **इश्शर** and **व्याख्यान बाक्खान** in his mouth. Similarly be pronounces Skr. **आत्मा** as just as his Prakrit ancestors did though it is written correctly.
 
 ASSIMILATION OF MEMBERS OF CONJUNCTS CONTAINING NASALS
-
- 
 
 Some of the vernaculars assimilate the components of a conjunct made up of a nasal and a mute. Thus the Panjabi hast **डन्न**for **दण्ड** 'penalty **मुन्नणा** for **मुण्डना** 'to shave **सुन्न** for **सुण्ड**, Skr. **शुण्डा**'the trunk of an elephant', **कन्नहा** for **कन्धा**,Skr. **स्कन्ध**'shoulder', **बन्नह**for **बन्ध** 'binding', **खन्न**for **खन्ड** 'a piece', **भन्नणा** 'to break for **भङ्गना** or**भजना, थम्म** for **स्तम्भ** 'a pillar, &c.In the Bengali **खान** ‘a piece', one of the two **न्** sounds of **खन्न** is dropped and the preceding vowel lengthened. Similarly we have **थाम** ‘to stop’ from **स्तम्भ**. In Sindhi we have **भञु** ‘interruption',for**भङ्ग, चङो**'good' for **चङ्गो**, M. **चांगला** ;**मञुठ** 'madder' for **मञ्जिष्ट ; पिनु**'a ball’ for **पिण्ड; खनु** 'apiece of bread’ for **खण्ड ; चुमणु** 'to kiss’ for **चुम्ब**, &c. Here the Sindhi, as is usual with him, drops one component of thedoubled consonants. With this exception, the modern dialects have got no cases of the assimilation of the members of a conjuner unknown to the Prakrits, while, as shown above, the speakers of those dialects tenaciously retain the vocal habit of assimilation of their Prakrit ancestors in a few cases.
 
@@ -7578,45 +7211,27 @@ LECTURE V
 
 REMNANTS OF THE OLDER GRAMMATICAL FORMS IN THE NORTHERN VERNACULARS
 
- 
-
 I have already directed your attention to the accent on the penultimate syllable of words in the vernaculars of Northern India and the effect it has had in mutilating and transforming the Sanskrit and Prakrit words existing in their vocabularies. Through its influence, you will remember, the final vowel or the vowel of the last syllable is shortened in some cases, and often entirely dropped and the word ends in a consonant or silent . When the consonant of the last syllable is dropped in consequence of the Prakrit law of the elision of uninitial consonants, the final vowel and the vowel of the penultimate syllable are brought together and when they are in this condition, it is possible for them to unite into one sound and thus the final vowel is dropped in some cases and combined with the preceding in others. The Sindhi, however, oftentimes resists the influence of this accent as I have already mentioned.
 
 CASE TERMINATIONS IN THE VERNACULARS.
 
- 
-
 Now on account of these processes, the nominative singular termination **ओ** of masculine Prakrit nouns ending **अ** in is sometimes shortened to **उ**and in this form we have it in the Sindhi and in old Marathi and Hindi literature. In the other dialects. including the modern Marathi and Hindi, it is dropped except in instances such as **वाटसरु**M. and** आयसु** 'command' H. The Prakrit plural terminations **अ**and **ए** of this case are also dropped everywhere for the same reason and we have such forms as **हाथ**S., **हाथ** H., **हात** M. G. &c. for the nom. pl. and these are the sing. forms also except in the case of the Sindhi, which has **हथु**.
-
- 
 
 In the Prakrit the plurals of the nominative and accusative cases of all nouns are alike and so are they alike in the vernaculars. The analogy came to be extended to the singulars also in the Apabhraṁśa and accordingly the singulars of the two cases. are the same in the vernaculars. An independent accusative
 
 case made up by affixing a termination to a noun is given in ordinary grammars; but it has the sense of the dative, or rather of the Sanskrit genitive, which expresses relation in general. Thus we say **मी काम करितों** M. ‘I do work,’ **हूं काम करूं छूं**G., **आंवकमुथो कर्यां** B., **मै कमकरदा** P., **मैकाम करता हूं** H., **आमि** or **मुइ काम करि** or **करिते छि** B., **मु कर्मकरु अछि** O., in which instances **काम**etc. are really accusatives and we do not use **कामास, कामने, कमखे, कमनु, कामको, कामके** and **कर्मकु**, which forms are generally referred to the accusative.
 
- 
-
 The masculine nom, and acc. sing. form in**उ** was in the Apabhraṁśa extended by analogy to the neuter singular also; and, though the peculiar neuter plural termination was preserved, the fact shows that in the vernacular speech of the times there was a tendency to forget the distinction between the two genders. Accordingly we now find that in the Sindhi, the Panjabi, the Hindi, Bengali and Oriya the distinction is entirely lost. In Gujarati also nouns ending in **अ**have retained none of the two neuter terminations, but the Prakrit and Apabhraṁśa **इं** plural of that gender exists in the Marathi combined with the preceding **अ**into **एं** as ‘a fruit' sing., **फलें** 'fruits' pl.
 
- 
-
 This neuter pl. termination is applied in Hindi, Sindhi, and Panjabi to the pl. of fem. nouns ending in **अ** as in **रातें**'nights' H., **जाला**‘women' S. and **गल्लां**'words' P., though the **इ**is changed to **आ**in the last two cases.
-
- 
 
 The change of the final syllables **अओ**of Prakrit words resulting from such Sanskrit words as **आम्रातकः-को, पारदः-दो, दीपकः-को** etc. to **आ**by the dropping of the final and lengthening of the penultimate through the force of the general accent on the penultimate in some of the modern dialects such as the Marathi and the Hindi and to **ओ**, into which the two vowels are combined in consequence of the weakness of the accent in such languages as the Gujarati and the Sindhi and in some of the minor dialects of the Marathi, has already been noticed in the last lecture. Similarly the change of the Prakrit final syllables of neuter nouns **अअं**or **अयं** arising from such Sanskrit words as **कदलकम, मस्तकम्** have been changed to **एं** in the Marathi and to **उं** in Gujarati and to **आं**in some of the dialects of the Marathi. This also has been explained. The pl. of such neuter nouns, most of which are formed by
 
 the addition of **क**and may be called augmented nouns, is formed by the addition of the Apabhraṁśa **इं**, which being rendered emphatic by the nasal sound absorbs the previous **अ**or light **य** and thus wehave **केलीं** for Ap. **कअलअ+ इं**= Skr. **कदलक + आनि**.
 
- 
-
 Fem. nouns in **इ** or **ई** add **आं** as**घोडी-घोडियां** H., **घोडिआं** P. This **यां**or **आं**represents the combination of **य**or **अ**with **इं**; such nouns as घोडीbeing derived from **घोटिका = घोडिआ**. In Panjabi after fem. nouns in **आ** the **ईं** appears distinct, as **बला** a calamity, **बलाईं** nom. pl. In Sindhi the neuter termination is added to the original Prakrit fem. pl. **उ**, shortened from **ओ**, **घोड्यूं**'mares'nom. pl. **हचा**'murder' **हचाऊं**‘murders'; **जाल**a 'woman,' **जालूं**'women' nom. pl. This last **जालां** has it also like the P. **रातां**. In Marathi also it is not very unusual to speak of women in the neuter pl. when respect is intended as **राणींसाहेब आलीं**. This transference of neuter termination to the fem. must have taken place when gendersbegan to be confused in the Apabhraṁśa period.
 
- 
-
 The nom. pl. termination of masc. nouns, which in the Prakrit was **आ**,is preserved by the class of nouns we have been considering i. e. augmented nouns, in Sindhi and Gujarati; while the **ए** of the Prakrit acc. pl. is used for those nouns in the Marathi and its dialects and the Hindi and the Panjabi. When the two cases were thoroughly confounded, one can easily see how this came to pass. Other or unaugmented nouns have dropped both the terminations in all the languages, as has been already noticed.
-
- 
 
 The Marathi has preserved the Apabhramsa instr. sing. **एं** which is used after nouns in **अ** and the plural **हिं**reduced to **इं**. In all the modern languages the **ह** of the Apabhraṁśaforms is dropped. These terminations are appended to the old instrumental termination **न** and we have **नें**and **नीं**which are now ordinarily used. These you will see are double forms and of such we have many in the various languages. Goan., Mal. and Cit. have **न्** for the sing. and the last has **इं**for the pl.
 
@@ -7625,8 +7240,6 @@ The Marathi has preserved the Apabhramsa instr. sing. **एं** which is used a
 where **मते**is hardly an instrumental); but here evidently the termination **ए** is confounded with the **एं** of the instrumental and we have **माझ्या मतें**lit. "by my opinion."
 
  The dative **स** is generally considered a remnant of the Skr.**स्य**and Pr.**स्स**. But I have not found it in the Jñaneśvarīand in its place we have **शीं**in the old poets, which is connected with a similar post-position in other languages which will be considered hereafter. None of the minor dialects of the languages have anything like it, but still the derivation may be correct.
-
- 
 
 Gujarati has the old instrumental in **एं**, but it is confounded. with the corresponding **ए** of the fem. and with the locative **ए** and we have one termination for both, with the nasal dropped. The shortened Apabhraṁśa form in **इ** is found in old Gujarati. It is confounded with that in **इं**, the anusvāra being dropped.
 
@@ -7640,19 +7253,11 @@ From the chronicle of Kanhadade-prabandha given in the Gujarati School-paper.
 
 Pancopākhyāna, the story of Hiraṇyaka.
 
- 
-
 In this latter, however, there occurs an anusvāra, which should be correct, the termination is a remnant **हिं**. The Gujarati has also the double instrumental णेंin pronouns, as **तेंणें, जेंंणें**, etc.
-
- 
 
 The Sindhi has got the ablative terminations **आं, ओं, ऊं,अउ**and **आउ**. The first is from the pronominal instrumental **हां**of the Apabhraṁśaand **म्हा**of the Prakrit; **ओं**and **ऊं** from **हुं** of the former **अउ** and **आउ** and from the corresponding Prakrit. The locative **ए** and its shortened form **इ** are also preserved, but they are used after nouns in **अ**as in the older dialects, as **खुहि**or **खुहेपिओ**'he fell into a well.'
 
- 
-
 The Panjabi possesses the abl. in **हुं**with the **ह** dropped and the **उं** amalgamated with the preceding **अ**into **ओं**as **घरॊं**‘from a house, the locative pl. **हिं**as **घरीं** ‘in the house,’ the instrumental pl. **हिं**as **उअसदें हथीं**‘by the hands’ and the locative sing. in **ए** as **उसदोदरगाहे**‘in his court.’ The instr. in **नें** is also ordinarily used in the form of **नैं**.
-
- 
 
 The Hindi has scattered instances of the loc. in **एं**, but the instrumental **ने**is common. The Bengali has preserved the former. The instrumental also has **ए**, though the grammarians do not give it, as—
 
@@ -7670,11 +7275,7 @@ The Hindi has scattered instances of the loc. in **एं**, but the instrumenta
 
  'How do the moon and the sun in the form of lamps shine in the plate of the sky !’
 
- 
-
 The Oriya also possesses the loc. in **ए**and as in the B. and G. it is confounded with the instr. in **एं**, the nasal being lost, as **हातें**'in or by the hand.’ This dialect has the Pr. abl. in **उ**also as **हातु**'from the hand.’
-
- 
 
 The nom. pl **ओ**or **उ**of fem. nouns in **आ** or**ई** is preserved in the Mal., Goan and Cit. as **जीभ, जिभो ; साडी, साड्यो;** and **घोडी, घोड्यो** ;but the two latter are derived from the Skr. **शाटिका**and **घोटिका**which are nouns ending in **आ**. The final **आ**, which alone. remains after the elision of the consonant **क्**, is dropped in consequence of the penultimate accent and we have **साडी** and **घोडी**. The **ओ**or **उ** of the plural of the original Prakrit **साडिआओ-उ**also isdropped like the **ओ** or **उ** of **घोडओ-उ** in the ordinary Marathi **घोडा**;and, just as the previous vowel; in this latter is lengthened in consequence the accent and the resulting form is **घोडा**, so the previous **आ** of **साडिआ-ओ-उ** and **घोडिआ-ओ-उ**, being accented, remains and we have **साड्या**, and **घोड्या**for **साडिआ** and **घोडिआ**; but in the dialects of the Marathi, in which the **ओ**or **उ**Masc. nouns in the sing. is preserved, we have **घोडो**and **कांटो**etc.; so also is the **ओ-उ**of the fem. preserved and we have , **साड्यो,घोड्यो**etc.
 
@@ -7717,15 +7318,12 @@ inSindhi. The old Hindi or Braj poots use this tense in the presentalso. In all 
 
  M. has two forms of this old Present :—  
 
-
 |      |       |        |       |        |
 |------|-------|--------|-------|--------|
 |     | Sing. | Plural | Sing. | Plural |
 | 1st | करीं  | करूं   | हसें  | हसूं   |
 | 2nd  | करीस  | करा    | हसस   | हसा    |
 | 3rd  | करी   | करीत   | हसे   | हसत    |
-
-
 
  In poetry we have ति and सि for त and स as—
 
@@ -7752,15 +7350,12 @@ pronounced without closing the lips, becomes **इं**. In the same waythe Pr. 
 
  O. and B. have the following forms for the Present Tense :—  
 
-
 |         |           |          |           |
 |:-------:|:---------:|:--------:|:---------:|
 |   O.    |           |    B.    |           |
 | मु करइं | अम्भे करु | मुइ करि  |  आमि करि  |
 | तु करु  | तुम्भे कर | तुइ करिस |  तुमि कर  |
 | से करइ  | से करन्ति |  से करे  | तिनि करेन |
-
-
 
  Theso also are from the Pr forms. O. has lost nasal of the Ist.pers. pl. and B. of the sing. also, i. e., it has one same form forboth. O. has lost the **स** of the 2nd pers.sing. and has **उ** in itsplace. The pl. **कर** of both is pronounced **करो; ओ** being broadlike that to which **अ** even of Skr. words is reduced in ordinaryuttarance by the speakers of these languages. This form **करो** isthe same us the M. **करा** fromthe Pr. **करह**. O. has preserved the3rd pers. pl. **न्ति** intact; B. has lost the **त**and **इ**.
 
@@ -7787,8 +7382,6 @@ pronounced without closing the lips, becomes **इं**. In the same waythe Pr. 
 |  हलां   | हलूं | मै करां  | असीं करये |
 |  हलें   | हलो  | तूं करें | तुसी करो  |
 |   हले   | हलनि |  उह करे  |  उह करण   |
-
-
 
  The Hindi 2nd and 3rd person sing. and pl. are derived directly from those in Ap. The **ह**of **करहि-हु-हिं** being dropped as ususl; the forms are **करइ-द-इ-इं** and, when the vowels are combined,we have **करे-रो-रे-रें**.
 
@@ -7892,15 +7485,12 @@ Bāla-K.
 
  The Marathi, Oriya, and the Bangali have preserved theImperative mood entire; the others, only the second person sing.,the rest being taken over from the old present or the modernPotential.  
 
-
 |     |        |          |     |                 |         |             |
 |-----|:------:|:--------:|:---:|:---------------:|:-------:|:-----------:|
 |    |   M.   |          | O.  |                 |   B.    |             |
 | 1st |  करूं  | करूं-रों | करि |      करूं       |   करि   |     करि     |
 | 2nd | कर-रीं |   करा    | कर  |       कर        | कर-करीस | कर करह करीओ |
 | 3rd |  करो   |   करोत   | करु | करन्तु or करन्त |  करुक्  |    करुन्    |
-
-
 
  In the 1st per. sing. the **मु** of the Pr. is changed to **उं**M. i. e.**म** has lost its labial element as in the Present. O. and B. have.got the form of the Present for it, the nasal being dropped.The **मो**of the pl. is similarly changed to **ओं**and is also shortenedor resolved into **ऊं**. The B. has the same form as the sing. The2nd pers. sing. in M. has the form without the termination as inthe Pr., the other made up by adding **ईं** corresponds to that in theAp. ending in that vowel. Intransitive and reflexive roots have**एं** instead of **इं**, which form is also found in the Ap. a **धावें, शिकें,सांगें.**
 
@@ -8015,20 +7605,16 @@ seen that **ई** is used in many more grammatical forms in M. than**ए**, whil
 
  The third Skr. tense preserved by the Prakrits is the SecondFuture. It has descended to the Gujarati. Thus:—  
 
-
 |     |      |            |
 |-----|------|------------|
 | हुं | करीस | अमे करिसुं |
 | तुं | करसे | तमे करसो   |
 | ते  | करसे | तेओ करसे   |
 
-
-
  The **स** of these forms is the old Skr. **स्य**corrupted to **स्स** in the Śaur.and **स** in the Ap. From the Skr. downwards the terminations of the Present in each of the languages are appended, as formerly observed, to this tense. So in G. we find in the 2nd and 3rd pers. the terminations **ए** and **ओ** of the G. Present attached to **स**. But the consciousness of the etymology of these forms has been partially lost;wherefore in 1st pers. we have not **करसुं** for the sing. corresponding to **करूं**, and **करसीये**corresponding to **करूं**,But G. has derived its 1st. pers. pl. **करसुं**directly from the Skr. or Ap. pl. **करिस्समु** or **करिसमु**, and the sing. **करीस** from **करिस्सं**, which, you will remember, was an optional Saur. form in addition to **करिस्सामि**, the nasal being dropped according to the usual Guj. rule.
 
  We have these forms in the Braj-Bhäṣäbut the **स** is corrupted  
 to **ह**as it very often is. Thus:—  
-
 
 |        |        |
 |--------|--------|
@@ -8076,10 +7662,7 @@ to **ह**as it very often is. Thus:—
 
 **इआ** As **आगिओ** from **जागणु** 'to be awake,' **पर्खिओ**from **पर्खणु** 'to remain,'**गइआ** 'gone', **घलिआ** 'sent;' the nom. termination **उ** and the augment**अ** for **क** heing left out of consideration it is reduced to **इअ**. TheG. hss **यो** and the Braj. **यौ**as in **राख्यो, राख्यौ** 'kept' from **राख,कह्यो, कह्यौ**'told' from **कह**, where also the **ओ** being dropped the termination is i. e. g **इअ** hastily pronounced. These languages therefore preserve the old termination with augment prefixed to itas in the Pr, as **हसिओ, परिओ** etc. Some of the vernsculars andnotably the Sindhi have also inherited from the Pr. readymadeTadbhava forms of the past passive participles as:—  
 
-
 [TABLE]
-
-
 
  The Sindhi seems to have made up the forms of a few rootson the analogy of these though they do not exist in the Pr. as**झल्तो** from **झल**, Skr. **धृत**, Pr. **धरिओ**; **पीतो** drunk, **कीतो** done; ( P. hasthis also ); but some of these may be modern Tadbhavas.
 
@@ -8248,7 +7831,6 @@ Parasm. **इ**, and **ए** or **अ**of the intransitive and reflexive with th
 
 will remember, the Pr. has **ए, आवे**and, the **ए** of the latter beingdropped, there is another **आव**. We have also a good manyexamples in the vernaculars of the Pr. causals mentioned byHemacandra as formed by dropping all terminations and preserving the vowel changes, guns or viddhi, which roots takebefore the Skr. **अय**or Pr. **ए** Thus:—  
 
-
 |             |                  |                  |
 |-------------|------------------|------------------|
 | M. G. H.    | मरणें-वुं-ना     | मारणें-वुं-ना.   |
@@ -8264,8 +7846,6 @@ will remember, the Pr. has **ए, आवे**and, the **ए** of the latter bein
 | M. S.       | गलणें-गरणु       | गालणें-गारणु     |
 | S.          | पढणु             | पाढणु            |
 
-
-
  I have already mentioned that the causal of some roots isformed in H. by inserting **ल** before the causal termination **आ**.G. has **ड** and Sindhi **र**for **ल**, **खवाढवुं** 'to cause to eat' from **खा**to eat, **देवाडवुं** 'to cause to give,' **देखाडवुं** 'to show' from **देख**'to see,'**धवाडवुं** to cause to run,' **डिअणु**'to give,' **दिआरणु**'to cause to give,'**सिखणु-सेखारणु, बेहणु-वेहारणु** 'to cause to sit.' In these instances wehave **वा** or **आ**before **ड**; but in G. all these forms have **आव** optionally added to them when the previous **आ**is dropped as **वचडाववुं** 'to cause to run,' **खवडाववुं** 'to cause to eat 'etc.; and inS. we have the causal **आइ**appended to **र** after roots ending in **आ**as **खाराइणु** 'to cause to eat,'**घाराइणु** 'to cause to wound,' **धाराइणु**'to cause to suok' or ' to suckle;' so that the intervening **आ** isinterchangeable in both these languages with the causal termination and hence some way conveys the same sense. M. has atrace of these forms as **भोंवणें** 'to turn,' to cause to turn,'**घावणें** 'run,' **धावडणें**'to cause to run,' **भिणें-भेडावणें**'to threaten.'Hemacandra mentions **भमाडो** as the causal base of **भ्रम** and gives**वाउ** in the sense of pushing which is very likely a causal form of**वा**. We have this **घाड**in the sense of sending in M.
 
  We have seen that **द** or**त** is sometimes changed to **ड** and thenceto **र** or **ल** in the Pr. and vernaculars; whence it appears that**पिलाना** is a denominstive or nominal root from **पिला** or **पिडा**or **पीत**,by the application of the usual denominative termination **आप्**,which is also the causal termination. In Skr. such a denominative has the sense of doing the thing expressed by the base as **पीतं करोति-पीतयति**,Śaur. **पीदावेदि**.
@@ -8273,8 +7853,6 @@ will remember, the Pr. has **ए, आवे**and, the **ए** of the latter bein
  We have a great many denominatives from past participles;first in the sense of *being* the thing expressed by the base, inwhich case the participle has simply the verbal terminationsappended to it, as **लग्गइ** from **लग, अब्भिडइ** from **अभ्येत, कट्टइ**from **कष्ट,पल्लटइ, पल्लत्थइ** from **पर्यस्त** etc.; and secondly in the sense of doing,when **आव** or **आवे** intervenes between the base and the terminations,as **भीदावेदि**in Mālatī-Mādhava, from which we have in M, **भेडावणें**.The forms in which we have **आ** before **ड** as **देवाडवुं, खषाडषुं**etc. aredenominatives from the past participles of original Pr. cauealsas **दाविद** or **खाविद**, the causal fermination **आव** being changed to **औ**and **आ**as in the H. in ordinary causals. In the vernaculars wehave also the first class of denominatives expressive of beinglike the thing denoted by the base, as:—
 
 [TABLE]
-
-
 
  We have another verbal base in M. which involves the ides ofpower and ability as **करवतें** 'can be done,' **बसवतें**'can be sat.'These forms are passive when the original verb istransitive, andimpersonal when it is intransitive. In old M. **प**is somesimesseen for **व**:—
 
@@ -8331,7 +7909,6 @@ will not serve his purpose, but he must have some such as **तदीयंप�
 
  The Marathi oblique forms are made up by adding theseterminations :—  
 
-
 |             |     |      |     |
 |-------------|-----|:----:|-----|
 | \(1\) Sing. | आ   | Pl. | आं  |
@@ -8339,8 +7916,6 @@ will not serve his purpose, but he must have some such as **तदीयंप�
 | (3) „      | ई   |  „   | आं  |
 | (4) „      | ऊ   |  „   | ऊं  |
 | (5) „      | ए   |  „   | आं  |
-
-
 
  (1) The following classes of nouns take the first—
 
@@ -8740,8 +8315,6 @@ Sursāgar, pada 29, page 255.
 | S.  |   जो-जी   | O. |    र     |
 | H.  |   का-की   |    |         |
 
-
-
  In the first lecture I have remarked that in the third stage ofthe development of Sanskrit the nominal style came into useinstead of the verbal style or fluent style. When the languagewas in this condition, adjectival forms expressive of possessionor other relations came into use instead of the genitive case andsuch forms, as :
 
  **तदीयम् गृहम्** 'the house belonging to him,'
@@ -8943,7 +8516,6 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
 
  The reason why forms expressive of present time have cometo denote past time is to be sought for in that natural use of thePres, which is called Historic Present. A man in narrating astory transports himself for the sake of vividness into that timewhen the actions are supposed to have taken place and speaks ofthem as if they were present; and when this habit becomes generalin a language, the fact of such an imaginary transfer is forgottenand the Present Tense becomes Past Tense. We have manyinstances of this use of the Skr. Pres. in such books as the Pañcatantra. The forms of the O. Past Habitual are these :—  
 
-
 |           |        |         |
 |:---------:|:------:|:-------:|
 |   Sing.   |        |   Pl.   |
@@ -8951,14 +8523,11 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
 | 2nd pers. | करन्तु |  करन्त  |
 | 3rd pers. | करन्ता | करन्ते  |
 
-
-
  As in the M., the 3rd pers. sing. has no personal termination;and the pl. is the M. and H. pl. of nouns in **आ** as **घोडे** which wefind in the O. nom. pl. **पशुमाने** 'beasts' also. The second personhas the same termination as the corresponding old Present, viz.**अ** and **उ**. The first person sing. has **इ**and the pl. **ऊं** and they arethe same as the **इं** and **उ** of the Pres., but there is some confusionabout the anusvāras.
 
  Before proceeding it is necessary to mention that O. and B.use the sing, forms in speaking of, and to, inferiors, while thepl. is used in an honorific sense. This is so in all the languages;but these two use even in a singular nominative with the honorific forms or real plurals and a plural one with the inferior forms.This is due to the loss of the original plural of nouns in theselanguages, which I have before mentioned; so that one sameform of the nom. came to be used for both the sing. and pl. verbalforms; but, since the usage common to all our vernaculars didexist, the pl. forms came to be understood in a simply honorificsense, and the sing. in the sense of inferiority. There was nothing in the form of the nom. which expressed plurality and hencethe verbs also ceased to indicate it, though originally fitted todo so. Similarly, the pl. forms of personal pronouns which werenot lost came to be restricted to an honorific signification andthe sing, to that of inferiority. The words which were broughtinto use to indicate plurality expressed an aggregate or collection and thus, being themselves sing., the necessity of pl. verbalforms in connection with them was not felt; and hence they take& verb in the real old sing. But there is this consistency in theuse of the verb, that the honorific pers. pronouns take an honorificverb and the inferior an inferior, *i.e.* an original pl. nom.takes an original plural verb and an original sing. a singular.
 
  These same forms that we have been discussing have in theS. acquired a future signification and constitute the regularFuture tense of that dialect. The Pres, expresses in all languagesan immediate future—a man's intending shortly to do a thing isconsidered as good as actually doing it. This is the germ offuturity in the signification of forms of the Present tense; andusage may take hold of it and constitute them into a regularFuture. The Sindhi forms are—  
-
 
 |           |         |           |                  |               |
 |:---------:|:-------:|:---------:|:----------------:|:-------------:|
@@ -8967,8 +8536,6 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
 | 1st pers. | हलंदुसि | हलंदासीं  | हलांदेआसि-द्यासि | हलंदिऊं-गूसीं |
 | 2nd pers. | हलंदें  | हलंदउन्दौ |    हलंदिअं-एं    |  हलंदिऊं-गू   |
 | 3rd pers. |  हलंदो  |   हलंदा   |      हलंदी       | हलंदिऊं-द्यूं |
-
-
 
  Here **हलंद**is the old pres part.The 3d pers, as in the O. andalso M., partially has no personal terminations. The sing, and
 
@@ -8993,8 +8560,6 @@ the pl. are like those of corresponding adjectives in **ओ**. The 2ndpers, has 
 | हलिउसि-ल्यसि | हलियूंसि  |
 |   हलिअं-एं   | हलियूं-ऊं |
 |     हलीं     |  हलियूं   |
-
-
 
  When the verb is transitive, the participle is passive and theagent, if used, is put in the instr. case. The verb takes the person,gender and number of the object in the nom. case and the formsare just the same as the above, as **मार्युसि** 'I was beaten', **मार्यै**thouwert beaten.
 
@@ -9022,8 +8587,6 @@ the pl. are like those of corresponding adjectives in **ओ**. The 2ndpers, has 
 |   तूं गेलो-ली-लंस    |    तुमी गेले-ल्यो-लींत    |
 | तो-ती-तें-गेलो-ली-लं | ते-त्यो-तीं-गेले-ल्यो-लीं |
 
-
-
 Māl.
 
 |                       |                           |
@@ -9031,8 +8594,6 @@ Māl.
 |       मी गेलइं        |         आमी गेलौं         |
 |       तूं गेलस        |     तुमी गेलात-ल्यात      |
 | तो-ती-तां-गेलो-ली-लां | ते-त्यो-तीं-गेले-ल्यो-लीं |
-
-
 
  In transitive verbs M. attempts a curious combination. The participle being passive, it must agree with the object and take its number and gender and, if made the base of the verbal forms, its personalso. But unliked the Sindhī, the M.does not use this passive participlefor an object in the first and second persons. Thus **मायैं** and **मार्युसि** in
 
@@ -9049,8 +8610,6 @@ S. mean 'thou wert beaten' and 'I was beaten', but we do not use'.such forms as 
 | 1st. pers. |  कलि  | कलुं |   देखिलाम्    | देखिलाम्  |
 | 2nd pers.  |  कलु  |  कल  |    देखिलि     | देखिला-ले |
 | 3rd pers.  |  कला  | कले  | देखिल (or ल्) | देखिलेन्  |
-
-
 
  As in the Pres., the O. like the other languages does not addverbal terminations to the third pers., but the forms are likethose in M., namely the nom. sing. and pl. masc., though they donot indicate gender here. The other persons have the terminationsof the Present.
 
@@ -9406,19 +8965,11 @@ GENERAL INDEX
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 [TABLE]
 
@@ -9454,15 +9005,11 @@ INDEX OF ANCIENT WRITTEN AND WORKS
 
 [TABLE]
 
-
-
 [TABLE]
 
 **INDEX IV**
 
 [TABLE]
-
-
 
 [TABLE]
 
@@ -9489,8 +9036,6 @@ INDEX VI
 INDEX OF SANSKRIT AND OTHER WORDS
 
 [TABLE]
-
-
 
 [TABLE]
 
@@ -9614,18 +9159,13 @@ INDEX OF SANSKRIT AND OTHER WORKS
 
 [TABLE]
 
-
-
 GOVERNMENT ORIENTAL SERIES
 
 CLASS B, No. 4
 
 PREPARED UNDER THE SUPERVISION OF THE PUBLICATION DEPARTMENT OF THE BHANDARKAR ORIENTAL RESEARCH INSTITUTE POONA  
 
-
 ![](../../../../../../../books_images/U-IMG-1697621404sss.png)
-
-
 
 POONA  
 
@@ -9634,21 +9174,16 @@ POONA
 
 **Government Oriental Series-Class B, No. 4**  
 
-
 COLLECTED WORKS
 
 OF  
 SIR. R. G. BHANDARKAR  
 VOL. IV
 
-
-
 COMPRISING VAIṢṆAVISM, ŚAIVISM AND MINOR RELIGIOUS SYSTEMS  
 AND  
 WILSON PHILOLOGICAL LECTURES ON SANSKRIT AND THE  
 DERIVED LANGUAGES, DELIVERED IN 1877
-
-
 
 EDITED BY  
 
@@ -9656,35 +9191,21 @@ EDITED BY
 Editor, Virāṭaparvan  
 Sometime, of the Deccan College and the Bhandarkar O. R. Institute
 
-
-
-
-
 **Bhandarkar Oriental Research Institute, Poona**  
 
 1929
-
-
 
 Copies can be had direct from the  
 Bhandarkar Oriental Research Institute, Poona (4), India.  
 **Price Rs. 6 per copy, exclusive of postage**
 
-
-
 Printed by V. G. Paranjpe, M. A., LL. B., D. Litt., at the Bhandarkar Institute Press, 198 (18) Sadashiv Peth, Poona No. 2, and Published by S. K. Belvalkar, M. A., Ph. D., Secretary, at the Bhandarkar Oriental Research Institute, Poona No. 4
-
-
 
 CONTENTS OF VOLUME IV
 
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 |                                                                                                                   |
 |-------------------------------------------------------------------------------------------------------------------|
@@ -9719,8 +9240,6 @@ CONTENTS OF VOLUME IV
 | Phonology of the Pali Dialect—Pronouncing a Conjunct:                                                             |
 | Śvāsa: Nāda                                                                                                       |
 
-
-
 |                                                                                                              |
 |--------------------------------------------------------------------------------------------------------------|
 | No Pali consonants omitted by Pali speakers                                                                  |
@@ -9750,11 +9269,7 @@ CONTENTS OF VOLUME IV
 | General rule that the dramatic person should speak language of the country to which he is supposed do belong |
 | Later dramatists: Sāhityadarpaṇa                                                                             |
 
-
-
 [TABLE]
-
-
 
 |                                                                                 |
 |---------------------------------------------------------------------------------|
@@ -9793,8 +9308,6 @@ CONTENTS OF VOLUME IV
 | The Past Participle                                                             |
 | The Present Participle in the Vernaculars                                       |
 
-
-
 |                                                                                         |
 |-----------------------------------------------------------------------------------------|
 | The Absolutive in the Vernaculars                                                       |
@@ -9829,8 +9342,6 @@ CONTENTS OF VOLUME IV
 | Were there various dialects in the Vedic times?                                         |
 | Many uneducated persons using wrong English: instances                                 |
 
-
-
 |                                                                                                        |
 |--------------------------------------------------------------------------------------------------------|
 | The theory is utterly untenable; contemporaneous development of Sanskrit and Prakrits an impossibility |
@@ -9861,8 +9372,6 @@ CONTENTS OF VOLUME IV
 | Index IV—Index of Ancient Writers and Works                                                            |
 | Index V—Index of Modern Scholars                                                                       |
 | Inder VI—Index of Sanskrit and other Words.                                                            |
-
-
 
 **PREFATORY NOTE**
 
@@ -10431,9 +9940,9 @@ tions, and of Harihara in which the peculiar marks of Hari, or Viṣṇu, and of
 
 [^29]: "Br. S. 60. 19."
 
- Amarasiṁha, the author of the well-known Kośa or thesaurus, was a Buddhist. After giving the words expressive of gods. generally, when he comes to the names of particular gods, he begins by giving those of Buddha and proceeds next to give the names Viṣṇu, Nārāyaṇa etc., of which we have thirty-nine. After finishing these he says that Vāsudeva was his father. This means that the thirty-nine names proviously given are the names of Vāsudeva. If we examine these, we shall find that hefore Amare's time Vāsudeva had already been identified with Viṣṇu and NārāyaṇaExcept the name Dāmodara, there is no other con- necting Vāsudeva with Gokula, and the etymology of Dāmodara which connects him with that cow-settlement is doubtful. While Kaṁsārāti, or the enemy of Kaṁsa, does occur, we have no such name as Pūtanāri, the enemy of Pūtanā, or any other derived. from the names of the many demons he slew while he was a boy. There are also no names of incarnations except the doubtful one, Balidhvaṁsin, which however, has been interpreted by one. commentator as the destroyer of ignorance by means of Bali or oblations. There are, of course, several names derived from those. of other demons, such as Madhuripu and Kaitabhajit, but these are not the enemies destroyed by Viṣṇu in his incarnations as they are usually mentioned. After giving the name of the father of Vāsudeva-Kṛṣṇa, Amara proceeds to mention those of Saṁkarsana, or Baladeva, and afterwards of Pradyumna and Aniruddha. Thereafter he mentions those of Lakṣmi, the wife of Nārāyaṇa or Viṣṇu, then those of the weapons of the god and his ornaments, and ends with the names of Garuḍa, the vehicle of Viṣṇu After
-
 [^30]: "Bhau Daji. Lit. Remains, p. 240."
+
+ Amarasiṁha, the author of the well-known Kośa or thesaurus, was a Buddhist. After giving the words expressive of gods. generally, when he comes to the names of particular gods, he begins by giving those of Buddha and proceeds next to give the names Viṣṇu, Nārāyaṇa etc., of which we have thirty-nine. After finishing these he says that Vāsudeva was his father. This means that the thirty-nine names proviously given are the names of Vāsudeva. If we examine these, we shall find that hefore Amare's time Vāsudeva had already been identified with Viṣṇu and NārāyaṇaExcept the name Dāmodara, there is no other con- necting Vāsudeva with Gokula, and the etymology of Dāmodara which connects him with that cow-settlement is doubtful. While Kaṁsārāti, or the enemy of Kaṁsa, does occur, we have no such name as Pūtanāri, the enemy of Pūtanā, or any other derived. from the names of the many demons he slew while he was a boy. There are also no names of incarnations except the doubtful one, Balidhvaṁsin, which however, has been interpreted by one. commentator as the destroyer of ignorance by means of Bali or oblations. There are, of course, several names derived from those. of other demons, such as Madhuripu and Kaitabhajit, but these are not the enemies destroyed by Viṣṇu in his incarnations as they are usually mentioned. After giving the name of the father of Vāsudeva-Kṛṣṇa, Amara proceeds to mention those of Saṁkarsana, or Baladeva, and afterwards of Pradyumna and Aniruddha. Thereafter he mentions those of Lakṣmi, the wife of Nārāyaṇa or Viṣṇu, then those of the weapons of the god and his ornaments, and ends with the names of Garuḍa, the vehicle of Viṣṇu After
 
 finishing these he proceeds to the other great god of the Hindus, Śambhu or Śiva.
 
@@ -10870,8 +10379,6 @@ him. But Kabīr miraculously escaped death and was eventually reconciled to Sika
  Kabīr died at Maghar, and there was a dispute between the Hindus and the Mahomedans as to the disposal of his dead body, which was covered by a sheet of cloth. When the sheet was removed, the body had disappeared, and in its stead there was a heap of flowers. The Mahomedans took one-half of the quantity and buried it at Maghar and erected a tomb over it, and the Hindus took their share to Benares, where it was burnt. Kabīr had a wife of the name of Loi, a son of the name Kamāl, and a daughter of the name of Kamālī. But there are miraculous stories. as to how Kabīr came by them.
 
  As to how much of this account is historical and how much legendary, it is difficult to say. But that he was a Mahomedan weaver at the beginning may be accepted as a fact. And that Shaikh Taqqi, a Mahomedan Pīr, who is mentioned in one of the Ramainīs, as stated above, was his rival and that Kabīr lived about the time of Sikandar Lodi may also be regarded as historical. As to whether Kabīr was a disciple of Rāmānanda, there is some question, as will be presently mentioned. Mr. Westcott considers it not impossible that he should have been both a Mahomedan and a Sūfi¹, but all his writings show a complete familiarity with the names occurring in Hindu religious. literature and Hindu manners and customs, so that it appears to me that there is little or nothing in Kabīr's writings calculated to show that his teachings had a Mahomedan basis. The basis appears to be purely Hindu, though Kabīr was a bold and uncompromising reformer and hurled anathemas at the Pandits, the Brāhmaṇas proud of their caste, and the teachers of the existing sects of the Hindus, and thus appears to have come under the influence of Mahomedanism.
-
- 
 
 The dates given by various writers for the birth and death of Kabīr are conflicting. Mr. Westcott makes him live for 78 years, from 1440 to 1518 A. D.[^57], and according to Mr. Macauliffe he
 
@@ -12162,8 +11669,6 @@ immanence and transcendency are not incompatible or inconsistent with each other
 
 1.Encyclopedia Britarica, Eleventh Edition, Vol XX, p. 683a, under Pantheism.
 
-
-
  But even this partial Pantheism is only one of the doctrinesset forth in the Upaniṣads. As mentioned in the beginning theycontain the rudiments not only of one system of religious philosophy, but of a good many and even of Buddhism.WhenBrahman or the Supreme Soul is affirmed to be distinct from theworld and thus there is a denial of the partial Pantheism I havespoken of, that soul is represented as dwelling in the externalworld and in the soul of man; that is to say. Theism is taughtwith the immanency of God in the world and in man. Forinstance in the BU. III. 7. 7-30[^119] we have first "He who dwelling.in the earth is distinct from it, whom the earth does not know,whose body the earth is, and who, being in the inside, controls theearth, is the indestructible controlling soul". In the followingpassages up to 30 we have precisely the same statement about water,
 
 [^119]: "Mādhyaṁdina recension."
@@ -12221,35 +11726,21 @@ of Rāmānuja. Practically he makes no distinction between thetwo. The theory of
 | VS. = Vājasaneyi-Saṁhitā.             |
 | YV. = Yajur-Veda.                     |
 
-
-
 INDEXES
 
 I. INDEX OF SANSKRIT WORDS AND PROPER NAMES
-
- 
 
 (The Indexes have been complied by Dr. V.S. Sukthankar, M.A. Ph.D. Througout the references are to pages)
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 [TABLE]
 
@@ -12678,8 +12169,6 @@ them off entirely, even when they left their own tongue andlearned that of the m
  In the same way, in forming the causative of a root, **प** or **आप**is added in Sanskrit to roots ending in **आ** and to a few others. Itis extended to all roots in the Pali, and thus we have **तिकिच्छापेहि**for **चिकित्सय** in the above passage.
 
  The termination **त्वा**of the absolutive is in Sanskrit replacedby **य** when a root has a preposition prefixed to it. But here nosuch distinction is observed, and ldbe is **त्वा** used in all cases.
-
-
 
 The operation of this law of false analogies is very extensive
 
@@ -13403,8 +12892,6 @@ language as either of the other two, and both were spoken orused for ordinary pu
 
  **चोप्पडइ** rubs, anoints; M. **चोपडणें**.
 
-
-
  **छिण्णो**
 
  **छिण्णी**       an adulterer or adulteress; M. **शिदल**.
@@ -13412,8 +12899,6 @@ language as either of the other two, and both were spoken orused for ordinary pu
  **छिण्णालो**
 
 ** छिण्णाली**
-
- 
 
  **पोआलो** an ox; M. **पोल**.
 
@@ -13669,20 +13154,16 @@ distinctions, though it is questionable whether they are enough tojustify the Pu
 
  **कित्येक लोक मुत्सही याणीं पदर पसरोन प्रार्थना आईसाहेबांची केली जे तुम्हीं अग्निप्रवेश केलिया नंतर संपादिलेलें राज्य लयास आजच जातें प्राण महाराज कांहींठेवीत नाहींत हा प्रकार घडतो शाहाजी महाराजांचे व शिवाजी महाराजांचें नांव जगीं नाहीसे होतें सर्वोवर साहेबीं दृष्टि देवून राजयांस वोसंगास घेऊन सादेबीं अग्नि न घेतांमानस कठिण करून राहावें। हेंकाम करून गेलिया वंशक्षय महाराजांचा वडिलींचकेला ऐसें जगीं प्रसिद्धता दिसतें तेव्हां आई साहेबांस राइविलें ।**
 
-                                   
   (From an old Bakhara or Chronical of Shivaji.)
 
  Some counsellors supplicated the lady-mother in an humbleattitude saying: 'If you will burn yourself by fire, the kingdomwhich has been acquired goes to ruin this very day; and it will
 
 happen that the king will not bear life; the name of Shahaji Maharaj and Shivaji Maharaj will not remain in the world. Therefore,your ladyship, looking to all these things, should make the kingsit in your lap ( protect), and, not resorting to fire, render yourmind firm, and live. If you do this (burn yourself), it will plainlyappear to all the world that you destroyed the race of the Mahārāj Thus they prevailed on her to live.
 
-
-
 **II Gujarati :**
 
  **दमयंती तो महा आश्चर्य लाग्युं अने भ्रान्ति पड़ी के आ ते स्वप्न के साचुं\। एवाअनेक विचार करती चालेछे एवामांएक अशोक वृक्ष दीठो त्यां दीन दमयंती आवीनेकहेछे के ओ प्रिपदर्शन अशोक तारा नामनो महिमा राखी मारा शोकनोनाश करीसत्यनामी था। पण कोण उत्तर आये।**
 
-                                   
    (From Mr. Mansukharāma‛s Nala-Damayantī)
 
  Damayanti felt greatly astonished and was in doubt whetherit was a reality or a dream. While moving on, engaged in varioussuch thoughts, sho saw an Aśoka tree. Going there she said "Olovely Aśoka, having regard to the greatness of thy name, destroymy *Śoka*(sorrow) and deserve that name." But who wouldanswer?
@@ -13725,8 +13206,6 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 
 **VII Bengali :**
 
-
-
 तबे शुन्बे? आर बत्सर जखन आमि पाला ज्वर भुगते छिनु–दिवारात्रि बिछानाय पडे थाकितुम–उठिया दांडाइबार शक्ति छिल ना, से समय स्वामी आसिया उपस्थित इलेन। स्वामी केमन ज्ञान हओया अवधि देखि नाइ, मेये मानुषेर स्वामी न्याय धन नाइ । मने करिलाम दुइदण्ड काछे बसे कथा कहिले रोगेर यन्त्रणा कम हबे । दिदि बल्ले प्रत्यय जाबे ना–तिनि आमार काकछे दांडाइयाइ अमनि बलनेन षोल बत्सर हइल तोमाके बिबाह करे गियाछि–तुमि आमार एक स्त्री—टाकार दरकारे तोमार निकटे आसितोछि-शीघ्र जाब–तोमार बापके बल्लाम तिनि तो फांकि दिलेन—तोमार हातेर गहना खुलिया दाओ।
 
 ( From Peary Chand's Ālāler gharer dulāla-& Kulina Marriage.)
@@ -13757,19 +13236,13 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 
 ** के** of**केली**, from Pr **कअ** or **कय**, Skr. **कृत**, **ल** being a termination oftenused in the Prakrits.
 
- 
-
 **ओ**, Pr, **जअ** or **जय**, Skr. **यकत्**, **क** being a suffix used in the Prakrits generally, and sometimes in Sanskrit also.
-
- 
 
 **तुम्हि**,Apabhr. **तुम्हई**,Pr.**तुम्हे** or **तुम्हए**.Skr such a form as **तुष्मके**,by analogy, for **यूयम्**.
 
 ** आज**, Pr. **अज्ज** Skr.**अद्य**,
 
 ** जा** of **जातें**, Pr.**जा**, Skr. **या**.
-
- 
 
 **फोही**,Pr.**कोभी**:Skr.कोभिः.
 
@@ -13825,8 +13298,6 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 
 ** एवो** sing of **एवा**, Apabhr. **एहु** or **एहउ** and **अइसो** Pr.**इदिसो**, Skr.**ईदृश**.
 
- 
-
 **कर** as in No. I.
 
 ** चाल**, Pr. **चल**, Skr. **चल**.
@@ -13862,8 +13333,6 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 ** ना** of **नाले**, Pr. and Skr. **नाम**, **ल** being suffix.
 
 ** हो**, Apsbhr. **हुअउ**, Pr. **हुअओ**, Skr. **भूतः** ( **भूतकः**).
-
- 
 
 **तर्हि**of **तर्हिजे**, Pr. **तेसिं**, Skr. **तेषाम्**.
 
@@ -13937,8 +13406,6 @@ and
 
 II\.
 
- 
-
 हु
 
 of
@@ -13947,11 +13414,7 @@ of
 
 ,as in No
 
-
-
 I.
-
- 
 
 जां
 
@@ -13987,8 +13450,6 @@ I.
 
 ( No. V )  
 
-
-
 ** इत** of **इतना**, Pr.**इतिअ**, Skr. **इयत्** with **इक**.
 
  **कह**, as in Nos.
@@ -14002,8 +13463,6 @@ and
 .
 
  **हाथ**, Pr. **हत्थ**, Skr. **हस्त**.
-
- 
 
 **किय** of **किये**, Pr. **किअ**, **कृत**.
 
@@ -14064,8 +13523,6 @@ and
 ** किय** as in No. V.
 
 ** जो**, Pr. **जओ**, Skr. **यकः** *i.e* **य** with the suffix **क** or **अक**.
-
- 
 
 **हो** of **होय**or **होइ**, as in No.**I.**
 
@@ -14179,13 +13636,9 @@ VI,
 
  **दि** as **दे** in No.I.
 
-
-
 **(No. VIII)**
 
 ** माशा**, Pr. **मसअ**, Skr, **मशक**.
-
- 
 
 **बस** of **बसि**, as in No. VII.
 
@@ -14214,8 +13667,6 @@ VI,
 ** जे**as in No. I.
 
 ** ए,**Apabhr. **एह**, Pr. **एह**, Skr.**एष**, as **इह** in No. IV, and **यह** in No. VI.
-
- 
 
 You will find that in the Marathi passage there are about 58 different words of which 26 or a few less than a half are derived from the Sanskrit through the Prakrits; in the Gujarati there are 42 out of which 23 or a few more than a half are of the latter description; in the Sindhi the proportion is 38 to 21, or somewhat greater than a half; in the Panjabi 44 to 23 or a half; in the High
 
@@ -14261,14 +13712,11 @@ for attributing changes that involve no economy or necessitate greater exertion,
 
 \[Table 2: Skr.ऋchanged to इ\]
 
-
-
  Skr. **कृपा** pity. Pr.**किवा**,far, M. **कींव**.
 
  Skr. हृदयम् heart, Pr. **हिअअं**, H. B. O. **हिय** or **हिया**, old M. **हियं**, Mod. M. **हिय्या**, 8. **हिओ, हिआउं**, G. **हइया**, P. **हियाउं**.
 
  Skr.**सृष्टम्** sweet, Pr. **मिंड**, P. **मिट्ठा**, H. **मीठा**, B.O. **मिठा**, G.**मीठुं** S. **मिठो**.  
-
 
     {
 
@@ -14336,8 +13784,6 @@ for attributing changes that involve no economy or necessitate greater exertion,
 \[Table 4: Skr.ऋ its different changed \]
 
  Skr. **तृणम्**straw, Pr.
-
-
 
 **{** Pali **तिणं**, H. **तिन** in **तिनका**.
 
@@ -14526,8 +13972,6 @@ Bengali
 
  Of the instances in which long **ई** and **ऊ** are softened to long **ए** and **ओ** in the Prakrits, the vernaculars have retained the following:—  
 
-
-
 \[Table 8: change of ई and ऊ to long ए and ओ\]
 
  Skr. **बिभीतक** myrobalan, Pr. **बहेडओ**, M. बे**हडा**, G. **बेहडूं**. H. P. **बहेडा**,S. **बहेडौ**.
@@ -14552,8 +13996,6 @@ Skr. **ताम्बूल** betel leaf, Pr. **तम्बोल,** H. P. **�
 
  O, **भोक** hunger, for the **भूक** or **भूख** of the others.
 
- 
-
 Of the few instances in which **इ** is softened to **अ** in the Prakrits, the vernaculars have retained **हलद्वा** in the M. G **हलद**, H. **हलदी**, 0. **हलदी** and P. **हलहदी** or **हलदी**. Though प**डंसुआ** does not occur, still **पडा** which stands for **प्रति** a in this word is preserved in several words, as M. **पडसाद** ,'echo' for Skr. **प्रतिशब्द, पडजीभ**, 'the uvula' for Skr. **प्रतिजिह्वा,, पडछाया** Or **पडसावली**, H. **परछाई** for Skr. **प्रतिच्छाया** &o. No more instances of this change are given by the grammarians, but, as observed in the last lecture, the substitution of **अ** for **इ** or **उ** in one of the two or more places in which it occurs in some words indicates a tendency in the Prakrits towards this change. The vernaculars have got more instances.Thus:—
 
 \[Table 10: इ changed to अ\]
@@ -14566,8 +14008,6 @@ Skr.**परीक्षा** pr. **परिक्खा**; also the verb **प
 ** **M. H. G. **विखरणे-ना-वुं**. P. **विक्खरना** to scatter, Skr. **बिष्किर**, Pr. **विक्खिर** (S. **विखेरणुं** ).
 
  H.**बहलाना** to divert, amuse, Skr. **विहर**.
-
- 
 
 H. **भभूत** holy ashes, Skr **विभूति**.
 
@@ -14599,11 +14039,7 @@ pronouncing a consonant, they emit the breath; without compressing it at the pal
 
  Skr. **गैरिक** red chalk, Pr.**गेरिअ**, M. H. **गेरू**.
 
-
-
 Skr. **कैवर्त** pilot, Pr. **केवट्ट**, H. **केवट**.
-
-
 
 Skr. **तैल** oil, Pr.**तेल्ल** , M. G. H.**तेल**.
 
@@ -14642,8 +14078,6 @@ for **कयलं** . Skr. **कदलम्** .
 ** **M. **ओणवा** bent, Pr. **ओणअ**, Skr. **अवनत**.
 
  M. G. **ओलंबा** plumb, Pr. **ओलम्बअ** Skr. **अवलम्बकः**.
-
- 
 
 M. **बोर** jujube fruit Pr. **बो**र for **बवर** or **बअर**, Skr. **बदर**.
 
@@ -14720,8 +14154,6 @@ M. **बोर** jujube fruit Pr. **बो**र for **बवर** or **बअर
  Skr. **धबल** white, Pr. **धवल**, H. P. **धौला**, M. **धवला**.
 
  Skr. **नवशिक्षित** newly learned, Pr. **नवसिक्खिअ**, H.**नौसिख**, M.**नोशिका** or **नवाशिका**.
-
- 
 
 Skr **भवन** a dwelling, Pr. **भवण**, H. **भौन** P. **भौण**.
 
@@ -14912,8 +14344,6 @@ Similarly, though a few Sanskrit words containing **ऐ** and **ओ** do occur i
 
  M. **ओपणें** to give over, sssign, Pr. **ओप्प**, Skr. **अर्प**.
 
- 
-
 There are a few modern instances as in:—
 
 \[Table 28: the Assimilation of vowels\]
@@ -15021,8 +14451,6 @@ syllable being dropped in virtue of a general law to be presently noticed in the
  M. **हिरवा**green from Skr. **हरित** or **हरितक**.
 
  M. **चोंच** a beak, M. (dial.) and B. **टोंच**, Skr.**चंचु**.
-
- 
 
 Of the Prakrit words with a syllable lengthened or shortened through the influence of an accent of some sort, the vernaculars have preserved a few words. Thus:—
 
@@ -15132,8 +14560,6 @@ to the modern languages from the spoken dialects af ancient times, have also bee
  M. G. B. O.**हाड**, H. **हाड, हड्डु** or **हड्डी**, P. **हड्डु**, or **हड्डी**,S. **हडु**, or **हडि**, Pr.**अड्डी**, Skr. **अस्थि**.
 
  M. **हत्तीण**, H. G. **हाथीन**, Pr. **हत्थनी** Skr. **हस्तिनी**.
-
- 
 
 Here also the Sindhi preserves the old endings in some cases, and has dropped them in others. In this manner, the final **आ, इ, ई, उ** and
 **ऊ** of Sanskrit and Prakrit nouns have been dropped in the vernaculars or changed to a silent **अ**.
@@ -15273,23 +14699,15 @@ Thus:—
 
  M. **दलवी** for Pr. **दलवइ**, Skr **दलपति**.
 
- 
-
 You will have seen that the Sanskrit nouns, composed of three or more syllables, given in Table 36, with **अ** at for their penultimate. vowel and **क**or any other similar syllable ending in for the final, have dropped one syllable and become nouns ending in **आ** in Marathi, Hindi, Panjabi, and Bengali, and in Oriya also in some cases, and in **ओ**in Gujarati, Sindhi, and in the dialects of the Marathi and Hindi spoken of above. Such of them as are neuter have acquired the ending **एं** or **आं**in Marathi and in **ऊं** in Gujarati.
 
  But these are not the only nouns with a final **आ**and **ओ**and **एं, आं**and **ऊं** in these languages. There are a good many more, both substantives and adjectives, which have these endings. In the Brajabhāṣa also a great many adjectives, nominal and verbal, end in **ओ**or **औ**. The Sanskrit words from which they are derived. are not composed of three syllables, with **क** or another syllable like it preceded by an **अ**, as the final. Thus the substantives H. M. **श्चेला** ‘adisciple', **पुडा**'a parcel', **काढा** ' a decoction, and the adjectives H. **नीला**,M. **निला**'blue' H. **पीला**, M.**पिलला** ’yellow', and past participles, H. **गया** 'gone', **मुवा**'dead', M.**गेला, मेला**&c., and the corresponding Gujarati, **चेलो, पुढो, काढो, नीलो, पीलो, गयो** and **मुवो**,are
 
 derived from the Sanskrit **चेटः, पुटः, क्वाथः,नीलः, पीतलः**, &c. Similarly such neuter nouns as M. **केलें**(dial.**केलां**), G.**केलुं**M. (dial. **सोनां**), G.**सोनूं** are derived from the Skr. **कदलम्**and **सुवर्णम्**. How then did they get their **आ** and **ओ**and **आं, एं** and **ऊं** ?
 
- 
-
 A great many nouns in our languages end in , which has now become silent; and these, as I have explained, are derived from the Sanskrit nouns ending in **अ**, the nominative termination being, because it was unaccented, at first reduced to**उ** and afterwards dropped in most of them, but preserved in Sindhi. By that same law of accentuation which brought about the elision of this **ओ**, we have seen, that nouns ending in **क** or such othersyllable preceded by **अ**come to have **आ-ओ** and **एं-आं-ऊं** for their final. By an obvious inference, therefore, those other substantives and adjectives also must have got **कः**or **कम्** in the Prakrits and the Apabhraṁśa in the forms of **ओ** or **अं**and **उ**or **उं**, though in Sanskrit they do not possess them.
 
- 
-
 The suffix **क**, though actually found in certain words only in Sanskrit, must have been largely used in the spoken language of ancient times, since Pāṇini and his expositors allow of its being appended to all nouns and even verbs and participles, to indicate [littleness](http://# "Pāṇini, V. 3. 85, 86; V. 4. 4."), [contempt](http://# "Pāṇini, V. 3. 74, 75,"), [tenderness](http://# "Pāṇini, V.3. 76, 77."), the state of being [unknown](http://# "Pāṇini, V. 3. 73."), resemblance or [copy](http://# "Pāṇini, V. 3. 96, 97."), and a [species](http://# "Pāṇini, V. 3. 75, 87, 97.") founded on some of theseparticularities. Words formed by the addition of such a suffix in such senses cannot, of course, be much used in literary works. They are adapted for colloquial purposes, such as our Marathi Pāṇinifor Rama and Pāṇinifor Govinda are.
-
- 
 
 Accordingly, in the Prakrits and Apabhraṃśa, which were derived from the spoken languages, we find the practice of adding the suffix to be very common. Thus in the fourth act of the Vikramorvaśīwe have Pāṇinifor Pāṇiniformed from the analogy of Pāṇini but properly Pāṇini for Pāṇini
 
@@ -15317,14 +14735,10 @@ for **युगलकम्**; **जुआणओ** for **युवकः**; **�
 
  B.**भाल**, H. P. M. **भला**good.
 
-
-
 It thus appears that originally the suffix was not necessarily applied to any nouns, but optionally to such as admitted of the additional signification.This additional signification has been preserved in some cases, but lost in others.
 
 **THE ORIGINAL AND DERIVATIVE ACCENTS IN THE  
 VERNACULARS.**
-
-
 
 You will now have seen, that the Sanskrit and Prakrit final vowels having, for the most part, been dropped by the influence of the accent, the final **आ, आं, ई, ईं, ऊ, ऊं, एं**and **ओ**that we have
 
@@ -15375,13 +14789,9 @@ pronounced as
 
  So also **अङ्गुष्ठकः** is **आंग्ठा**, and **श्वशुरकः,** **साम्रा** the penultimate **उ** being dropped.
 
- 
-
 When the final is unaccented, it is the penultimate that is emphasized, but when it is accented, the penultimate is slurred over. Thus the accentuation of the penultimate leads to the elision of the final vowel, and the accentuation of the final brings about an elision or shortening of the penultimate.
 
 **ACCENT IN HINDI**
-
- 
 
 In Hindi also the accent leads to the elision of the **अ**of the previous syllable when more than one precede the accented syllable. Thus **उबटन**‘a cosmetic’ is pronounced is pronounced as **उबटन**, **सूरखपन**as**मूरख्पन** as**मूरखपन** as **मूरख्प॑न, उबटना***inf.* 'to rub the body with a cosmetic’, as **उबट्ना करना**as **कर् ना**. The Braj present participle **करत** is pronounced as **कर॑त्** since one syllable only precedes the accented penultimate; but the Hindi **करता**is **कर् ता**as two syllables precede the accented **ता**. The accent leads to the shortening of the preceding vowels in some cases. Thus **गोपाल** 'cowherd,' and **पाताल** 'the lower regions,’ are sometimes pronounced and written as **गुपाल** and **पताल**;so does **आसिष्**become **आसीस**. In such words as **उपज**'produce,’ **उसास**'respiration,’ and **उबटन** ‘a cosmetic’, from the Pr. **उप्पज्ज, उस्सास,** and **उब्बट्टण**, Skr. **उत्पद्य**, **उच्छ्वास**, and **उद्वर्तन**, it prevents the lengthening of the initial **उ**, as by the general rule it should be long, since one member of the following double consonant is dropped. The
 
@@ -15406,33 +14816,23 @@ derived socent also shortens the preceding vowels in such instances as the follo
 
 **EXCEPTIONS TO THE ABOVE.**
 
- 
-
 But in a great many cases the accent does not affect the preceding close vowels. The Sanskrit words **सूतक, पीतल,** &c., the first syllable of which is shortened in Marathi, retain it long in the Hindi. The words **उपज,उपजना, उसास,** and othershave their initial vowel optionally lengthened, and in a few cases, such as **ऊपर** and **ऊखल**, it is lengthened without any apparent reason. Similarly, the Hindi forms of **कीटक**and the other words in Table 6 retain the long vowel. It has also **बीडी, जूही**and **सूजी** as in Table 35, and **नीला**'blue', **पीला**‘yellow’, **सी**खा, learnt', **मीठा**'sweet', **पूछा**'asked', **मूआ** 'dead', **सीखना**'to learn, **पूछना**‘to ask', **दूसरा** &c., while in all these cases the Marathi has short **इ** and **उ**. Perhaps, this weakening of the accent as regards previous **ई** and **ऊ** is due to the development of another accentin Hindi on the initial syllable. To such an accent as this might be attributed the almost universal change of **अय**and **अव** to **ऐ** and **औ**that we have already noticed. The **अ**of the initial syllable, being accented, draws to itself the **य**or **व**of the following and
 
 deprives it of its **अ**, in which cases the **य**or **व** becomes **इ** or **उ**, and then the two form **ऐ** and **औ**.
 
 **THE ACCENT IN GUJARATI**
 
- 
-
 The Gujarati follows the Hindi completely, sometimes shortening the preceding vowels as in **कुवो, सुवो**, and **कुमलो** 'delicate', 'tender', and dropping it as in **सस्रो** 'father-in-law', (Skr.**श्वशुरकः**) and**आङ्गुली** 'finger' (Skr. **अङ्गुलिका**), sometimes preventing their being lengthened, as in **उपज, उठघुं**, &c., and very often preserving them long as in **पूरो** 'full', **शीक्वुं, शीक्यो**, &c.
 
 **THE ACCENT IN PANJABI**
-
- 
 
 The Panjabi also keeps the short vowel in such cases as **उचार** 'utterance', **उजाला** 'light', though a member of a double is droppedand preserves the long in such casesas **दीया** or **दीवा**, **जुआ, कीडा, पूरा, पूरी** ‘a cake', &c. It has even fewer instances of shortening than the Hindi.
 
 **THE ACCENT IN SINDHI**
 
- 
-
 The Sindhi has **जुआ**'gambling', **डिओ**'a lamp,' **पितल**&c., but has such words as **मूतक**, 'mourning', **कीडो** 'a worm', **वीडो** 'a roll of betel leaves, (Skr. **वीटकः**), **पीतो**'drunk', &c. In a great many words such as **सुको**'dried', **वुधो**'heard', **छुतो**'touched', **दुधो**'milked', the vowel of the preceding syllable is short; but that is due not to the accent on the last syllable but to the peculiarity of the Sindhi not to lengthen the preceding vowels even when a member of a double is dropped.
 
 **THE ACCENT IN BENGALI AND ORIYA**
-
- 
 
 The Bengali is more like the Marathi in this respect than the Hindi. Thus we have **भितर**, H. **भीतर** 'in the interior’, **शुका** dry, H. **भूका; भिजा** or **भिगा** 'wet’, H. **भीजा** or **भीगा; किडा** 'a worm', H.**कीडा; जुता** 'shoes', H.**जूता; खिला**'a nail', H. **कीला, उपजन** 'to be produced, &c. It thus shortens **इ** and **उ** in the unaccented syllables like the Marathi.
 
@@ -15440,13 +14840,9 @@ The Bengali is more like the Marathi in this respect than the Hindi. Thus we hav
 
 **THE ACCENT ON VERNACULAR TERMINATIONS**
 
- 
-
 In Marathi the termination of the oblique form of cases and that of the plural of neuter nouns in **ए** are also accented. The reasonwhy they bear the accent will be considered hereafter. The accent on the causal termination, in consequence of which the preceding vowels are shortened in the Hindi and the Gujarati, has already been mentioned. This also seems to be the same accent that we have been considering. Thus in G. **शिवडाव**'make him sew, or **धोवडाव** 'make him wash', the **आ**being penultimate bears the accent and the final **अ**is dropped. Similarly in **धोवडाववुं**by the general rule, the final vowel being accented the penultimate **अ** is silent. It is because it is so, and the **ववुं**forms the conjunct**व्वुं**, that the **आ**looks as if emphasized just as the first **अ**of **अड्चण** and **कर् ता** is. In the Marathi and other dialectsalso, there is this accent in the case of the causal, and the preceding **ई** and **ऊ** are shortened; as in **निज्॑व्** 'make him sleep', **निजव्णें**'to make one sleep', from the original **नीज** 'sleep', in **करीव्**cause him to do **करिव्णें**or**करव्णें** ’to cause one to do', &c. In the standard Hindi the **व** is dropped, but still the way of pronunciation remains the same as it was when it existed. In **दिखाना**'to show,'for instance, the **खा** is pronounced as it would have been if the word had been **दिखावना**. And the forms with **व** exist in the Braj.
 
 **ACCENT IN VERNACULAR COMPOUNDS**
-
- 
 
 Compounds in the vernaculars, most of which belong to the Tatpuruṣa, Karmadhāraya, or Dvandva class have an accent on the penultimate or final of the last word, as in the H. **पन् सा॑ल** 'a place where water is provided for passengers', in which the first word**पानी**becomes **पन्**, **अमरा॑ई**a forest of mango-trees', in which the **आ**of **आम**is shortened, **घुडसा॑ल** 'a stable', in which we have **घुड**for **घोडा, रन् वास** 'harem', the **रन्** of which is a shortened form of रानी, and in the G. **अधमुई**'half dead’, and the M. **अधम॑ण**’half a maund’.In the Marathi **आम्ररा॑इ,** **रानमाणू॑स,कालमांज॑र**, the **आ** of the first syllable is short though not changed to **अ**; and in **तिर्कांबटे**'an arrow and bow', the first word is **तीर्**with the **ई** shortened.
 
@@ -15477,8 +14873,6 @@ Compounds in the vernaculars, most of which belong to the Tatpuruṣa, Karmadhā
  Of the two instances of this change in the Prakrits **लावू** a 'pumpkin' exists in Hindi, and **रण्ण**in the form of **रान** in M. and P. and of **रन** in H. Medial **ऐ** is dropped in Marathi, Bengall, and Oriya in the word **बैस**, and others enumerated before. It is dropped in the G. **माशी**for H. **मौसी**(see p. 391). This elision does not appear to be due to accent since according to our theory it must fall on the **ऐ**in some at least of the cases. The change is due to the process of softening, sitice what takes place here is the simple dropping away of the close element of the diphthong.
 
 **THE AVOIDING OF THE HIATUS IN THE VERNACULARS**
-
- 
 
 We will now briefly notice the manner in which the hiatus caused by two vowels coming together in consequence of the olision of uninitial consonants in the Prakrits is avoided. We have seen that **अ**and **इ** and **अ**and **उ** are combined into **ऐ** and **औ**in some of the dialects, and into **ए** and **ओ**in [others](http://# "Pp. 400-406."). Final unacdented **अ**and **आ**are dropped when preceded by **इ** or **उ** as in the words given in Table No. 35, and unaccented **उ** preceded by **अ**is dropped in some of the vernaculars, as in Table No. 36, and combined into **ओ**or **उ** in [others](http://# "See P. 418."). Final **इ** is preserved or changed to **य**after **अ**in some cases, and combined with it to form **ई**[others](http://# "P. 419.").
 
@@ -15559,8 +14953,6 @@ We will now briefly notice the manner in which the hiatus caused by two vowels c
  The long **आ**is preserved and changes the preceding **इ** to **इय** or **य**as in the H. **सियार** or **स्या**र 'jackal' for Pr. **सिआल**, Skr. **सुगाल**; **याह** 'marriage,’ for Pr.**विआह**, Skr.**विवाह**, &c.
 
 CONSONANTAL CHANGES IN THE VERNACULARS.
-
- 
 
 We will now proceed to the consideration of consonantal changes; and first of those due to the process of softening. The semivowel **य्** is often softened to **इ**. In the Prakrits, **व्यजन**‘a fan' becomes **विअण** which is preserved in the H. **बेना** and **स्त्यान** is changed to for **थीण**. This word does not occur in the vernaculars, butthe Hindi and Marathi have got **थिजता**and **थिजणें** ‘to congeal' from the verb **स्त्यायते**, in which **या**is softenedto**इ**. From **व्यजन**, or rather such a word as **व्यंजन**, we have by a similar softening M. **विंजणा**, H.**विंजना**, G.**विजणो**, S, **विञिणु**. More modern instances are:-
 
@@ -15699,8 +15091,6 @@ vowel; and the vernaculars have preserved the words so changed. For instance:-
 
  Skr. **कपाट** a door, M. **कवाड**, H. **किवाड**, G. **कमाड**.
 
- 
-
 Skr. **कटु** bitter, M. **कडु**, G. **कडवुं**,H. **कडुवा**, 8. **कडो**.
 
  Skr **कटि** waist, M. **कड**, G. **केड**.
@@ -15709,17 +15099,11 @@ Skr. **कटु** bitter, M. **कडु**, G. **कडवुं**,H. **कड�
 
  Skr. **रट्**or **आरट्**to cry, M. **रड** in **रडणें**or **आरडणें**, G.S.**रड-\[वुं-णु\]**.
 
-
-
 Skr. **शाटिका** a garment, M. G. **साडी** H. P. **साड़ी** S. **शाडही**, B. O. **शाडी**.
 
  Skr. **वटः** the Banyan tree, M. G.**वड**,H. P. **वड़**,S. **बडु**.
 
- 
-
 Skr. **त्रोट** in **त्रोटपति** to snap **तोड** in M. **तोडणें**, G. **तोडवुं**H. P. **तोड़ना**S**.तोडणु**.
-
- 
 
 Skr. **स्फोट** in **स्फोदयति** to break, **फोड** in M. **फोडणें**.
 
@@ -15729,15 +15113,11 @@ Skr. **स्फोट** in **स्फोदयति** to break, **फोड**
 
  Skr. **पटोल** a kind of cucumber, M. **पडवल**, H. **परवल**, G. **परवल**.
 
- 
-
 Skr. **कीटक**: a worm, M. **किडा**, G. **किडो**, H. **कीडा**.
 
  The instances in which the cerebral **ट्** resulting from an original **त्** has been softened in the Prakrits to **ड्** have been preserved by the vernaculars. The following are some of these:-
 
 \[Table 52: ट्( from original त्) softened to ड्\]
-
- 
 
 **पड**for Pr. **पडि**, Skr. **प्रति**, in such words as H. G. **पडोसी** & neighbour, M. **पडोशी**, Skr. **प्रतिवेशी**.
 
@@ -15837,8 +15217,6 @@ the two **ठ्** is dropped, and the preceding vowel lengthened according to a
 
 \[Table 57: ड् changed to ल्\]
 
- 
-
 Skr. **तडाग** a tank, Pr.**तलाअ**, M. G.**तलाव**, H.**तलें**,H.**तलाव**, S. B.**तलाउ**.
 
  Skr. **दाडिम** pomegranate, Pr. **दालिम**, M. **डालिंब**, G. **दालम**, H. B. **डालिम** H. **दालिम**.
@@ -15852,8 +15230,6 @@ Skr. **तडाग** a tank, Pr.**तलाअ**, M. G.**तलाव**, H.**�
 |                                                  |
 |:------------------------------------------------:|
 | \[Table 58:द्of Skr. Numerals changed to र्\] |
-
-
 
 [TABLE]
 
@@ -15905,8 +15281,6 @@ but there are a great many in the vernaculars, so that this appears to be a pecu
 
  What the origin is of the **ड्** of these forms, which is more primitive than the **ल्** and **र्** to which it was afterwards changed, will be considered in the next lecture.
 
- 
-
 Another peculiarly vernacular process, of which Hemacandra gives only one instance, is the transformation of **न्** into **ल्**, in which **न्** is deprived of its nasal element and the complete contact of the vocal organs avoided. Thus:—
 
 \[Table 61 Skr. न् initial changed to ल् in vernaculars\]
@@ -15919,8 +15293,6 @@ Another peculiarly vernacular process, of which Hemacandra gives only one instan
 
 \[Table 62: Skr. initial ल् changed to न् in vernaculars\]
 
- 
-
 M. G. **नांगर** a plough or anchor, P. **मङ्गलः** or **लाङ्गल**.
 
  M. **निढल**, S. **निराडु**, Pr. **निडाल** or **णडाल**, Skr. **ललाट** forehead.
@@ -15930,8 +15302,6 @@ M. G. **नांगर** a plough or anchor, P. **मङ्गलः** or **ल
  The sibilant **स्**, whether original or derived from the Sanskrit **ञ्**, or **स्**, is in a few cases changed to **ड्** in the Prakrits. For **दिवस** 'a day' we have **दिवह** or **दिअह**, for **पाषाण** 'a stone' **पहाण**, and for **दशन्** 'ten' **दह**. These words, so changed, have come down to the vernaculars, and are found in one or other of them. The various forms of the numerals having the word **दश** at the end have been given above. Of the other words G. has **दिह** 'a day' and **दिहाडो** with the suffix **डो**, P. **दिंह** and **दिहाडा़**, and S. **डि़ंहु** and **डिहाढो**; and S. **पहणउ** 'a stone'. The Sindhi and the Panjabi have given a wider range to this process, as will be seen from the following:—
 
 \[Table 63: म्, श् or ष् changed to ह in Vernaculars\]
-
- 
 
 S. **बहु** or **बुहो** chaff, Skr. **बुस**, M. **भुसा**.
 
@@ -15949,8 +15319,6 @@ S. **बहु** or **बुहो** chaff, Skr. **बुस**, M. **भुस�
 
  P. स**हुरा**, S. **सहुरो**, Skr **श्वशुर**, M. **सासरा** father-in-law.
 
- 
-
 P. **तिहा** thirst, Skr. **तृषा**.
 
  P. **फाहा** or **फाही**, S. **फाहो** or **फाही** & snare noose Skr. **पाश**, M. **फांस.**
@@ -15960,8 +15328,6 @@ P. **तिहा** thirst, Skr. **तृषा**.
  The change of **म** to **वं** seems to be an almost entirely later process of which there are scarcely any instances in the Prakrits. It is seen in full operation in the Apabhraṁśa.
 
 \[Table 64 Skr. म changed to व\]
-
- 
 
 Skr. **नाम** name, M. **नांव**, H, **नाओं**, old H. **नाऊं**, also **नाम**, P. **नांउं**, S. **नांउं** also **नामु** and **नालो**.
 
@@ -15995,8 +15361,6 @@ Skr. **नाम** name, M. **नांव**, H, **नाओं**, old H. **न�
 
  Skr. **गमन***caus.* spending, wasting. H. **गंवाना**, P. **गवाउणा**, S. **गंवाइणु**, but M. **गमवणे**.
 
- 
-
 Skr, **भ्रमर** bee, H. **भंवरा** Or **भौंरा**, P. **भौंर** or **भौंरा**, S. **भौंरु**.
 
  Skr. **पञ्चम** fifth, M. **पांचवा**, H. **पांचवां**, P. **पंजवां**, &c., and other ordinals.
@@ -16023,13 +15387,9 @@ Skr, **भ्रमर** bee, H. **भंवरा** Or **भौंरा**, P. 
 |                    **सामलो** a dark-complexioned.                     |              **जमवुं** eating.              |
 |                         **जमाइ** son-in-law.                          |            **आमला** myrobalans.             |
 
- 
-
 The reason why I consider this as a change of **वं** back to **म्** and not a preservation of the original Sanskrit and Prakrit **म्**, is that the Gujarati changes **व्** to **म्** in other cases where there is no question as to the **व्** (or **प्**) being the original sound. Thus:—
 
 \[Table 66: व् or प् changed to म् in Gujarati\]
-
- 
 
 G. **कमाड** a door, H. **किवाड**, M. **कवाड**, Pr. **कवाड**, Skr. **कपाट**.
 
@@ -16082,8 +15442,6 @@ G. **कमाड** a door, H. **किवाड**, M. **कवाड**, Pr. **�
 
  The Marathi reduces a Sanskrit or Prakrit **म्** invariably to **स्**, and in this respect differs from all its cognate dialects. Thus:—
 
-
-
 **\[Table 68: Skr. or Prk. छ् reduced to स् in Marathi\]**
 
  Skr. **इक्षु** sugarcane, Pr.**उच्छु**, M. **ऊस.** The H. has **ईख** or **ऊख**.
@@ -16118,11 +15476,7 @@ G. **कमाड** a door, H. **किवाड**, M. **कवाड**, Pr. **�
 
  Skr. **क्षण**a festival, Pr. **छण**, M.**सण**.
 
- 
-
 According to a general rule in Marathi, **म्** is changed to **श**when followed by the palatal vowel **इ**or**ए.** This change of **ल्** to **स्** in this dialect is to be accounted for by the fact that the vocal organs of the Marathas have a predilection for the dento-palatals, **च, छ, ज, झ**, to which the Sanskrit palatals are in almost all cases reduced by them, except when they are followed by **इ, ए,** or **य्**. The Sanskrit **छ्** therefore becoming the dento-palatal **छ्** passes into **म्** which differs from it only in the contact of the vocal organs being somewhat less incomplete. The only instances in the Prakrits in which the change appears to be the same as that we have been considering are **ऊसवो** for **उच्छवो** and **ऊसुओ**for **ऊच्छओ**.
-
- 
 
 I have already given instances of the many words with their uninitial consonants dropped which the vernaculars have inherited from the Prakrits, and shown what further changes they have undergone. This process of elision has not been continuedby any of the vernaculars unless we consider the disappearance of uninitial **व्** (which is very general in Hindi, Sindhi, and Bengali) to be an instance of the process.
 
@@ -16152,8 +15506,6 @@ I have already given instances of the many words with their uninitial consonants
 
  H, **ता-\[ना\]**, S. **ताइ-\[णु\]** to heat, Pr. **ताव**, Skr. **ताप**, M. **ताव-\[णें**\].
 
- 
-
 H. **दुआर**, B. **दोयार** door, Pr. **दुवार** or **दुआर** Skr. **द्वार**.
 
  B. **दुइ**two, Pr.**दुवे**, Skr. **द्वौ**.
@@ -16164,27 +15516,17 @@ H. **दुआर**, B. **दोयार** door, Pr. **दुवार** or **�
 
 **THE OF THE CAUSAL TERMINATIONS IN THE VERNACULARS**.
 
- 
-
 This elision of **व्** appears also in the Hindi causal forms such as**उठाना, चलाना**, **जलाना**, in which the **आ** only of the Prakrit or Marathi termination **आव**or **अव** is retained. The whole termination appears in the Braj and other dialects and in old books, sometimes in the form of **औ**.
 
- 
-
 The Sindhi causal termination is **आइ**as in **बधाइणु** 'to cause toincrease.’The **इ** here as well as in some of the Sindhi words given above represents the य which according to the Prakrit rule, takes the place of the dropped **व**, and is, as shown before, changed to **ए** in the other vernaculars. The Sindhi **इ** is a shortened form of this **ए**. The termination **आइ**appears sometimes in its more original form of **आअ** as in **वठाअणु** 'to cause to take.’
-
- 
 
 The Bengali too forms its causal by adding **आइ**as in **धराइतेछे**’is causing to be held,’ but the **इ** here seems to be an euphonic addition, which even in their primitive form the verbs take, as in **धरितेछे**‘isholding,’ so that the **व्** is here dropped and the vowel **अ**combined with the preceding as in the Hindi. In the speech of the Maratha lower classes of Southern Konkan **व्** is very often elided, and the causal termination of the Savantvadi dialect is **अय**, as in **करय** 'cause to do, which corresponds to the Sindhi **कराइ-\[णु\]**.
 
 \[Table 69 A : of म् dropped in the Vernaculars \]
 
- 
-
 There are instances also in which the **व्** resulting from **म्**is elided:—
 
  H. **कुअंर** 'a boy,’‘a prince,’ Pr.**कुमर**, Skr. **कुमार; बायां** 'left-hand-side, Pr. **वामअ**, Skr. **वामकः**, **धुआं** ‘smoke,’ Pr. **धूमअ**, Skr. **धूमक**;**अचाना**; ‘to rinse the mouth,’ Pr. Skr. **आचम**; or **बेराना**' ‘tomock’,Skr. **विडम्ब; भुई** ‘ground,’ Skr.B.
-
- 
 
 There are traces of this change in other dialects too, as in the Oriya **वां** for **वाम** ‘left,’ Gujarati **भांय = भूंई**, S. **भुइं**,Skr. **भूमि**, and the Marathi**भुंई** and the termination **ईं** of the locative, which is to be traced to the Pr. **म्मि**, Skr. **स्मिन्**. In all these instances we may regard **म्** as directly elided, and not the **व्** resulting from it. Hemacandra notices a few instances of the process in the Prakrits.
 
@@ -16210,8 +15552,6 @@ There are traces of this change in other dialects too, as in the Oriya **वा�
 
 \[Table 71 : Verna. ह् for Skr. घ\]
 
- 
-
 Skr. **मेघ** rain, Pr. **मेह**, G. H. **मेह**, S. **मेहु**.
 
  Skr. **श्लाघ्**to praise, Pr, **सलाह**, H. **सराह-(ना)**.
@@ -16226,15 +15566,11 @@ Skr. **मेघ** rain, Pr. **मेह**, G. H. **मेह**, S. **मेह�
 
  M. **माहेर**, G. **महीरुं** & woman's mother's house, Pr. **माइघर** or **माइहर,** Skr. **मातृगृह**.
 
- 
-
 G. **भौयार**, M. **भुंयार**, H. **भूंयारा** collar, Skr. **भूमिगृह**.
 
  G. **देहरुं**, M. **देव्हारा**, H. **देहरा, दिहरा** an idol-chamber, Skr.. **देवगृह**.
 
 **\[Table 72: Vernacular हfor Skr. ध\]**
-
- 
 
 Skr. **नाथ**alord, Pr, **नाह**, old M. & H. **नाह**.
 
@@ -16256,8 +15592,6 @@ Skr. **नाथ**alord, Pr, **नाह**, old M. & H. **नाह**.
 
 \[Table 73 : Vernacular हfor Skr. ध\]
 
- 
-
 Skr. **बधिरकः** deaf, Pr, **बहिरओ**, H. M. O. **बहिरा,** G. **बेहरो**.
 
  Skr. **दधि** curds Pr. **दहि**, H. M. G.P. O. **दहिं** S. **ड़हि**.
@@ -16274,8 +15608,6 @@ Skr. **बधिरकः** deaf, Pr, **बहिरओ**, H. M. O. **बहि�
 
 \[Table 74: Vernacular ह for Skr. भ\]
 
- 
-
 Skr. **प्रभा** or **प्रभात** light, dawn, Pr, **पहा, पहांअ, पहाद**, H. **पह** or **पोह**, G. **पोह**, M. **पहाट**. The S. **पिरिह**must be a later form. From the same root with the prepositions **वि** and **सु** we have H. **विहान** morning, S . **सुहाउ** light, &c.
 
  Skr. **शुभ** to become to adorn, Pr. **सुह**, H. **सोह- \[ना\]**. S. **सुह-\[णु\]**
@@ -16284,29 +15616,19 @@ Skr. **प्रभा** or **प्रभात** light, dawn, Pr, **पहा,
 
  Similarly, H. **पहिचान** ‘recognise’ is from Skr. **प्रत्यभिजाना**, the consonants interchanging places; G. **वहालो** or **वाल्हो**‘dear’ from Skr. **वल्लभःसेहलो** 'easy’ from **सलभ; वेहच - \[वुं\]** to ‘distribute or divide' from **विभज्** &c.
 
- 
-
 The existence of many such words as M. H. P. **उपाध**'injury,'H. P. **साध**‘a good man,' M. G. H. P. **मध** 'honey, H. G**लिख,लख** 'to write,' M. G. H. **नख**‘nail,’ S. **सुभाणे**'in the morning’ shows that the popular speech of Northern India has now for a long time ceased to have recourse to this process of dropping the mute element of the aspirates of the Sanskrit words, adopted from time to time from the parent language. Still, however, a few laterinstances, such as S. **पिरिह** ‘dawn,’ H. G. **माह**‘middle’ from **माध**and **मध्य**, and some of the compounds of घर noticed above show that it has not been entirely absent.
 
- 
-
 The elision of simple mutes and of the mute element of aspirates is a natural phenomenon which one always meets with in the course of lingual development; but its operation is generally slow and it is only in consequence of its systematic occurrence. in the Prakrits that I have attributed it to an ethnological cause and have supposed that the Prakrit speakers belonged to another race than those who spoke Sanskrit and, being unused to Sanskrit sounds, caught only the initial consonants from their Sanskrit teachers and dropped the rest or the mute portion of the rest. When, however, in the course of time they became used to those sounds and the Sanskrit and Prakrit speaking races became united into one community, they ceased to be so dropped, except through the slow and gradual operation of the usual phonetiol laws; and hence it is that in modern times we find Sanskrit words, not shorn of their elements in the manner in which they were in ancient times, as indicated above.
-
- 
 
 This elision, though it involves economy and is a natural process, constitutes a peculiarity of the Prakrits in so far as it is duel to peculiar historical incidents. We will now notice the peculiarities which do not involve economy and must be attributed to vocal predilections. Of the words in which a Sanskrit dental is changed to a cerebral in the Prakrits the vernaculars have preserved the following:—
 
 \[Table 75: Skr. Dentals changed to Cerebrals in Vernaculars\]
-
- 
 
 Skr. **बिभीतक**myrobalan,Pr.**बहेडाओ**,M. **बेहडा**, &c. as in table 8.
 
  Skr. **पत**to fall, Pr, **पड,** M. G.H. **पड- \[णे-वुं-ना\].**
 
  Skr. **दंश**to bite, Pr. **डस**, M. H. P. G. **डस- \[णें-ना-णा-वुं\]**. From this H. E. G. **डांस**, O. **डाआंश**a mosquito, Skr. **दंश**.
-
- 
 
 Skr. **दंश** to stick, Pr. **डक्क** (past part.), M. G.**डक
 -\[णें-वुं\] .**
@@ -16344,8 +15666,6 @@ Skr. **दंश** to stick, Pr. **डक्क** (past part.), M. G.**डक
  The Sindhi has the largest number of instances, and the Hindi and the Panjabi come next. The Marathi and Gujarati have the smallest number.
 
 \[Table 77: the same as No. 76\]
-
-
 
 S, **टुंठो**satisfied, Skr. **तुष्ट-\[कः\]**.
 
@@ -16387,8 +15707,6 @@ S, **टुंठो**satisfied, Skr. **तुष्ट-\[कः\]**.
 
 \[Table 78: Dentals adjoining र्changed to cerebral mute\]
 
-
-
 **पड**for Pr.**पंडि**, Skr. **प्रति**, in the words given in Table 52, and **हरडा, पुढें** and **मडें**in the same.
 
  M. G. H. S. P. **डर-\[णें- वुं-ना-णु-ना\]**, B. 0. **डरिवा**. Pr. **डर**, Skr. **दर**fear.
@@ -16407,13 +15725,9 @@ S, **टुंठो**satisfied, Skr. **तुष्ट-\[कः\]**.
 
  H. M. **पवादा**, S. G. **पबाडो** a narrative, Skr. **प्रवाद-\[कः\]**.
 
- 
-
 Even here the Sindhi has more instances than the others:—
 
 **\[Table 79 the same change in Sindhi\]**
-
- 
 
 **पुटु**a son, Skr. **पुत्र**, M. **पूत**.
 
@@ -16422,8 +15736,6 @@ Even here the Sindhi has more instances than the others:—
  **निंड़**sleep, Skr. **निद्रा**, H. **नींद**.
 
  **टामो**copper Skr. **ताम्र**, H. **तांबे**, &c.
-
- 
 
 Uninitial is changed to **ण्** in the Prakrits invariably, but when it is the beginning of a word is undergoes that change or optionally. In the vernaculars the initial remains unchanged, but when medial it becomes mostly in the Marathi, Gujarati, Sindhi, and Panjabi.
 
@@ -16468,8 +15780,6 @@ M.**नीज**,H, **नींद**,S.**निंद**sleep, Skr. **निद्
 
  P. S. G. **जण \[णा-णु-वुं\]** Skr. (causal) to give birth to, to produce.
 
- 
-
 G.**लुण**, S.**लूण**, P.**लूण**, M. **लोण** (**सेंधेलोण**), Skr. **लवण**salt.
 
   P. M. G. **आपण**, S. **पाण**, Pr. **अप्पाण**, Skr. **आत्मान** one's self.
@@ -16478,13 +15788,9 @@ G.**लुण**, S.**लूण**, P.**लूण**, M. **लोण** (**सें
 
   M. **नणंद**, &c., as above.
 
- 
-
 There are a few instances in which we have the original**न्** in the body of a word, as in M. G. P. **मन**,S.**मनु**, Skr. **मनः** 'mind,’G. **वानुं**'promise', for Skr.**वचन**, and G. **बेन**,as above. But the general in the rule seems to be that these four dialects have a medial **न्** place of the double **ण्** of the Prakrits, resulting from a Sanskrit conjunct of which **न्** is a member. Thus:—
 
 \[Table 82 Prk. णchanged to न् in the vernaculars\]
-
- 
 
 Skr. **अरण्य**, Pr. **रण्ण**, M. G. **रान** wilderness.
 
@@ -16508,8 +15814,6 @@ Skr. **अरण्य**, Pr. **रण्ण**, M. G. **रान** wilderness.
 
  But even here in Marathi, the purely Deshastha Brahmans living in the eastern part of the Deccan or Mahārāṣṭra pronounce the **न्**as **ण्**; and the ordinary **रान, कान, पान, विनंति**, &c., of that dialect become in their mouths **राण, काण, पाण, विणंति**, &c. They have, therefore, preserved in its integrity the old habit of the Prakrit speakers to pronounce the **न्** as **ण्** throughout. On the other hand, the lower class of the Konkani population preserve the Paiśacipeculiarty of reducing **ण्** in all cases to **न्** and pronounce of, **पाणी, वाणी,कोण**, &c, as **पानी, वानी, कोन**, &c, and this peculiarity we find in its fulness in the Hindi, and next to it in the Bengali. Thus the words with a **ण्** in them in the Marathi, Gujarati, Sindhi and Panjabi, given above, have the following forms in Hindi:—
 
- 
-
 **मानूस, दिसना, जन, कहानी, पानी, जानना, कौन, बहिन**,or**बैन, कठिन, जनना, लून** or **नून,अपना, टानना** or **तानना, ननद** or**ननदी**.
 
  And such of these words as are in use in the Bengali have the following:—
@@ -16519,8 +15823,6 @@ Skr. **अरण्य**, Pr. **रण्ण**, M. G. **रान** wilderness.
  Other words, in some of which even in Sanskrit a **ण्** appears, are in the Hindi and Bengali thus:—
 
 \[Table 83: Original ण् preserved\]
-
- 
 
 Skr. **ब्राह्मण**, H., **बम्हन**, or**बामन**,B.**बामुन**,but S.**बाभणु**, a Brahman.
 
@@ -16534,13 +15836,9 @@ Skr. **ब्राह्मण**, H., **बम्हन**, or**बामन**,B
 
  Still **ण्**does appear in Bengali books in a few words such as **काण**'ear', **लोण**, 'salt', &c. In the Hindi it seems to be entirely absent.
 
- 
-
 In the principal Prakrit and the Śaurasenī, all the Sanskrit sibilants are reduced to **स्**. Sanskrit words, therefore, containing the palatal **श्**and the cerebral **ष्**, which in the Prakrits came to have the dental **स्** instead, have the last in the Hindi, Panjabi, Sindhi, Gujarati, and Marathi. But according to a law of Marathi pronunciation, this **स्**, when followed by the palatal vowel or semi-vowel **इ, ए,** or **य्**, is transformed into the palatal **श्**.The foregoing list of words contain many instances that provethese points. Thus:—
 
 \[Table 84 A: Skr. श् or ष् changed to स् in the Vernaculars\]
-
- 
 
 Table 2. M. H. P. **दिस**, S. **डि़स**, Skr. **दृश्य**; H. **सियार**, Skr. **शृगाल**; G. H. **सींग**, P. **सिंग**, B. **सिङु**, Skr. **शृङ्ग**; H. P. **किस** Skr, **कृषिः** M. **पाउस**, H. **पावस**, Skr **प्रावष्**.
 
@@ -16550,27 +15848,19 @@ Table 2. M. H. P. **दिस**, S. **डि़स**, Skr. **दृश्य**; 
 
  Table 14. M. H. **बैस**, Skr. **उअपविश**; M. **ह्मैस**, H. **भैंस**, G.**भेंस**, Skr. **महिषी**.
 
- 
-
 Table 24. H.**सेमल**, M.**सावरी**, Skr. **शाल्मली** ; Table 34. H. S. **साध**, Skr. **श्रद्धा**.
 
  Table 47. H. P. **परोस**, G. **पीरस**, Skr. **परिवेष**; Table 46. H **सलाई**,M. P. **सलई**, Skr. **शलाका**.
 
  Table 36. H. **साला**, P. M. **साला**, Skr. **श्यालक**;Table 63. M. **सांवला**, H. P. **सांवला**,&c., Skr. **श्यामलक** ;M. **विसावा**, &c., Skr. **विश्रा**म.
 
- 
-
 Table 69. H. **सिहरा**, or **सेहरा** &c., Skr. **शेखर**; Table 73. H. **सोह**,S. **सुह**,Skr. **शुभ**; Table 74. P. H. M. G. **डांस**, Skr. **दंश** ;H. **सुन**,S.**सुण**,Skr. **शृण**as above. &c.
 
  H. **सीसो**, M. **शिसवा** G. **शिसम**, Skr **शिंशप** Table 65.
 
- 
-
 Other instances are—
 
 \[Table 84 B: The same: श्or ष्changed to in the Vernaculars\]
-
- 
 
 M. **साल**,H. **साल**,Skr. **शाला**‘a school' or 'an establishment.
 
@@ -16592,19 +15882,11 @@ M. **साल**,H. **साल**,Skr. **शाला**‘a school' or 'an estab
 
 \[Table 84 C: The Same More Modern Instances\]
 
- 
-
 Even in words adopted later, and consequently treated somewhat differently, from the way in which they were treatedin the Prakrits, the Sanskrit **श्** and **ष्** are reduced to **स्**, as in the H. **तर्सना** 'to thirst,’ Skr. **तृष्** ; **परवेस** ‘entrance,’ Skr. **प्रवेश ; परसु** ‘ahatchet,’ Skr. **पर्शु ; निसपति**‘lord of the night,' 'the moon,' Skr. **निशापति**;S. **वंसु** ‘race,’ ‘descent,’ Skr. **वंश;वर्सणु**‘to rain,’ Skr. **वर्ष** ; **वसिकरणु** ‘to subdue,’ Skr. **वशीकरण** , P. **सोग** 'sorrow,’ Skr.**शोक; सांत** 'quietness,’ Skr. **शान्ति** ;**परमेसुर** 'God,’ Skr. **परमेश्वर**; H. **वरिस**, G. **वरस** 'a year,’ 'Skr, **वर्ष**; G, **वरसवुं** ‘to rain,’ Skr. **व**र्ष &c.
-
- 
 
 The present speakers of the Hindi, the Panjabi, and the Sindhi retain therefore the vocal peculiarity of their Prakrit ancestors of pronouncing Sanskrit **ष्** and **श्** as **स्**.
 
- 
-
 Of the words given above, the **सींग, सेमल, सीख** and **सेज** of the Hindi become **शिंग, शेवरी, शिक** and **शेज** in Marathi, because they are followed by a palatal vowel. Similarly, we have **शेण**‘cowdung’ Skr. **शकन्; शेगट** 'atree,’ Skr. **शिग्र ; शेवाल** 'moss,’ 'Skr. **शैवाल; शिडी** 'ladder,' Skr. **श्रेडी**, &c. Even the original **स्**of Sanskrit words is pronounced by the Marathas as **श्** under those conditions, as **शेंदूर** ‘red lead,’ Skr. **सिन्दूरः** ; **शिवणें** 'to sew,’ Skr. **सिव्** ;**माउशी**'mother's sister,’ Skr. **मातृष्वसा**, &c.
-
- 
 
 Gujarati too shows the same tendency though it is not so decided; and we have thus **शिंग**‘a horn,’ **शिखवुं**'to learn' **सिववुं**‘to sew,’ **शिसम**‘blackwood,’ Skr. **शिंशप, शेज**,Skr. **शय्या** &c. But we have also such words as **शिंचवुं**'sprinkling,’ Skr. **सिंच, सिजववुं**'to boil,' **सिडी**‘ladder, &c. So that the Marathi rule does not seem to be strictly applicable to the Gujarati. Still the sound **श्**is as natural to the Gujaratis as to the Marathas, as is shown by such forms as **शुं**for **सुं**‘what?', **करशो**'do,’ &c., and in some provinces it is freely used for **स्**in many words.
 
@@ -16623,31 +15905,21 @@ Gujarati too shows the same tendency though it is not so decided; and we have th
 |  डांश   | डांसa mosquito. |   शेल    |           सालa dart.            |
 |   भईश   | भैंसa buffalo.  | दिवाशलाई |      दिपासलाई & fire-match.      |
 
- 
-
 Bengali books and dictionaries contain a good many words, derived from the old Prakrits or recently adopted from Sanskrit, which contain **स्**in them. The object of the authors in these cases is to give the correct Prakrit or Sanskrit forms, and not to represent the correct Bengali pronunciation. But it is not necessary to hear a Bengali speak or read his language or even Sanskrit for a long time to arrive at the clear conviction that his vocal habits do not admit of the pronunciation of **स्** or, **ष्**,but only of **श्.**
 
 Sanskrit and Prakrit **स्** becomes **श्** in his mouth. Thus the Bengalis of the present day possess the same vocal characteristic that is attributed to their ancestors, the speakers of the Māgadhī, by the Prakrit grammarians.
 
 \[Table 85 A : श्changed to छ्in the vernaculars\]
 
- 
-
 **श्** has a tendency to pass off into **छ्** as we observed in going over the Pali. For the Pali **छक** from the Skr. **शकृत्**‘cowdung," we have **छेणु** in S., **छाणा**in G., &, from **शकन्**, another form of the word; and for the Pali **छाप**, Skr. **शाव**‘the young of an elephant,’we have **छावा** in H. M. &c., the Pr. form being **छाव**. For the Skr. **शेव**the G. has **छेवट, छेडो**, and **छेल्लो**‘last,' 'end,’ with the suffixes. **ट, ड** and **ल** ; for Skr. **शल्ल**‘rind,’ H. has **छल्ली**, for Skr. **शण** ‘hemp,’ O. has **छण** ; for **मूत्रधार**'carpenter,’which is **सुतार**in the other dialects and must have been pronounced **शुतार**by the Bengalis, the B. has **छुतार**and O. also. Other instances may be found.
 
 \[Table 85 B : ष् changed to ख्in Hindi\]
 
- 
-
 In Hindi Skr. **ष्**is often pronounced as **ख्** as in **भाख**for **भाष**, ‘spoken dialect', **पुरुख** for **पुरुष**, **भेख**for **वेष, विखम** for **विषम** &c. This is to be identified with the practice of the followers of the Mādhyaṁdina recension of the White Yajurveda who read the **ष्**occurring in their books throughout as **ख्**. But other dialects also have a few instances of this change, as **विख**P. M. G., **विखु**S. for Skr. **विष**.
-
- 
 
 Of the Prakrit words in which a vowel or a mute is aspirated through the influence of an adjoining aspirate or an aspirated mute, the vernaculars have preserved the following :—
 
 \[Table 86: Mutes aspirated in the Prakrits and the Vernaculars\]
-
- 
 
 Pr. **पनस**, M. G.**फणस**, Skr. **पनस**a Jacktree. The H. has also **फनस** but more commonly **पनस**.
 
@@ -16659,11 +15931,7 @@ Pr. **पनस**, M. G.**फणस**, Skr. **पनस**a Jacktree. The H. has 
 
 \[Table 87: Mutes aspirated in the Vernaculars\]
 
- 
-
 M. **फरशी**, G. **फरसी**, H. **फरसा**, Skr. **परशु** an axe.
-
- 
 
 M. G. **फांस**, H. **फांस-फांसा-फांसी**, P. **फाहा-फाही-फांसी**,P.**फासी-फाही**, S. **फांस-फांसी**, Skr. **पाश** a noose.
 
@@ -16691,29 +15959,19 @@ M. G. **फांस**, H. **फांस-फांसा-फांसी**, P. 
 
 **\[Table 86 A : Aspiration transferred\]**
 
- 
-
 In some cases the aspirate sound is absorbed in the adjoining mute, and it ceases to exist as a separate component of a word. Thus, from the Pr. **पहुडि**, Skr. **प्रभृति**, we have the M. **पुढें**in **ह्** which the combines with **ड्**, and the M. *dial*. **फुडें**in which it combines with **प्**. In the same manner the Skr. **मेष**‘sheep' becomes, with the usual Apabhraṁśa suffix **ड**or **डअ, मेसडउ** or **मेहडउ**, which in M. and G. assumes the form of **मॆंढा**and **मॆंढा**, the **ह** combining with **ड**. and in H. and P., of **भेडा**, in which the being combined with the preceding **मे** destroys the nasal character of the sound. P. has **मेढा**also, and G. **भेडा**, and B. and O. **मेडा**as well as **भेडा**. By a similar absorption of the **ह्** sound and the reduction of the nasal to a mere Anusvāra, we have H. P. **भैंस**(masc. **भैंसा**), G. **भेंस**, B.**भंईश**, from Skr. **महिषी**‘a female buffalo,' and G. M. **भेल** from Pr. **मिस्स**, Skr. **मिश्र**with the suffix **ल**, through an intermediate form **मिहल** or **मेहल**. We have a more ancient instance of the process in the Pr. **संभर**for Skr. **संस्मर**, through the intermediate form **संम्हर**, which has been preserved by the G. in **सांभरवुं**'to remember 'or 'remind.’
-
- 
 
 Sometimes a mute is aspirated without any appsrent resson in the Prakrits, and these instances have come down to some of the vernaculars : —
 
 \[Table 88 : Mutes aspirated\]
 
- 
-
 Skr. **कुब्ज** humpbacked, Pr. **खुज्जो**, M. **खुजा**; but P. **कोझा**, H. **कुंजा**, B. **कुंजो**, O, **कुंजा**, S, **कुबो** ;M. **कुबड़ा** also.
-
- 
 
 Skr. **कीलकः**a nail, Pr. **खीलओ**, M. **खिला**, G. **खिलो**, B.O. **खील** or **खिला**; the rest **कील**.
 
  Skr. **कर्पर** potsherd, an earthen cup, Pr. **खप्पर**, M. **खापर**, H. P. **खप्पर**, O. **खपरा** B. **खाबरा**.
 
  Later instances are:—
-
- 
 
 P. **ग्वूहा**, S. **कूहा** a well, Skr. **कूपकः**.
 
@@ -16727,11 +15985,7 @@ P. **ग्वूहा**, S. **कूहा** a well, Skr. **कूपकः**.
 
 \[Table 89 : Interchange of Consonants\]
 
-
-
 **हलू** 'slow' in M. Pr. **हलुअ**and Skr. **लघुक, हौला** in H. and P and **हलू** and **हलवे** in G.
-
- 
 
 M. **सून** 'dsughter-in-law, Pr. **सुण्हा**, Skr. **स्नुषा**.
 
@@ -16739,13 +15993,9 @@ M. **सून** 'dsughter-in-law, Pr. **सुण्हा**, Skr. **स्न�
 
  There are a good many more modern instances -
 
- 
-
 H. **पहिचानना** to recognize Pr. **पच्चहिआण** Skr. **प्रत्यभिज्ञा-(जा) न**, P. **पछाणना**.
 
  H. **पहिरना** to dress, Pr. **परिहाण**, Skr. **परिधान** P. **पहिराउणा** to cause to dress. In both the last two syllables are assimilated and we have **पहिन्ना** also ; G. **परेवु**by the loss of **ह्**.
-
- 
 
 G. **वहालुं**beloved, Pr. **वल्लह**, Sir, **वल्लभ**.
 
@@ -16753,11 +16003,7 @@ G. **वहालुं**beloved, Pr. **वल्लह**, Sir, **वल्ल�
 
  **बिलाडी** a cat, Skr. **बिडाल** ; **उथलपाथल** topsy-turvy, the M. form being **उलटापालट**, Pr. **उवलत्थ-ठ्ठ पल्लत्थ-ठ्ठ**. **उपर्यस्त पर्यस्त**.
 
- 
-
 M. **शेपूट** or **शेपटी** tail, G. having **पूछडुं**or **पूछडी**, Skr. **पुच्छ**, with the suffix **ट**, the **छ्** being changed to **श्**by the usual Mrule and the palatal vowel being brought in by the palatal **श्**.
-
- 
 
 M. **थोडकें**little, Pr.**थोक्क**, Skr.**स्तोक**, with the suffix **ड**.
 
@@ -16767,21 +16013,15 @@ M. **थोडकें**little, Pr.**थोक्क**, Skr.**स्तोक**
 
 TREATMENT OF SKR. CONJUNCTS IN THE VERNACULARS,
 
- 
-
 We will now trace in the vernaculars the Sanskrit conjunct consonants assimilated in the Pali and the Prakrits, in the order I have observed in treating of them in the lecture on the Pali. And first I will give a few instances of those in which the second member being strong prevails over the first and is doubled.
 
 \[Table 90: Second Member of the Conjunct preserved and doubled\]
-
- 
 
 Skr. **कर्म** act, business, Pr.**कम्म**, P. **कम्म**, S.**कमु**, H. G. M. O.**काम**.
 
  Skr. **घर्म**heat of the sun, Pr. **घम्म**, H.**घाम**, M. G. B. O. **घाम**in the sense of ‘sweat.’
 
  Skr. **चर्म** skin, leather, Pr.**चम्म**, P. **चम्म**, S. **चमु**, H. G. B. **चाम**, 0. **चम**, M. **चाम** in **चामडें**.
-
- 
 
 Skr.**कार्य**, Pr.**कज्जं**, S. **काजु**, M. G. H. P. **काज**. The M. has, however, the dento-palatal **ज** here.
 
@@ -16790,8 +16030,6 @@ Skr.**कार्य**, Pr.**कज्जं**, S. **काजु**, M. G. H. P
  Skr. **पर्ण**a leaf, Pr. **पण्ण**, P.**पन्ना** (of a book), S. **पनु**, H. G. M. **पान**, G. **पानुं** (of a book ), P. S. O. **पान**in the sense of 'betel leaf.’
 
  Skr. **विज्ञप**to solicit, supplicate, Pr. **विण्णव**, H.G. M. **विनव-\[ना-वुं-णें\]**; H. also **विनौना**.
-
- 
 
 Skr. **राज्ञी**a queen, Pr. **रण्णी**(?), G. P. S. M. B. O.**राणी**, H. **रानी**.
 
@@ -16851,8 +16089,6 @@ Skr. **राज्ञी**a queen, Pr. **रण्णी**(?), G. P. S. M. B. O
 
  Skr. **स्ना**to bathe, Pr. **ण्हा**or **नहा**, P. H. M.G. **न्हा- \[उणा-ना-णें-वुं\]** P. H. **नहा** also.
 
- 
-
 Skr. **अङ्गुष्ठ**thumb, Pr. **अंगुठ्ठ**, P. **अंगूठ**, S, **आङूठो**, H. **अंगूठा**, G, **अंगूठो**, M. **आंगठा**.
 
  Skr. **विष्किर** to spread,Pr. **विक्खिर**, P. **विक्खरना**, S. **विखेरणु**, H. G. M. **विखर-\[ना-वुं-णें\]** to be scattered.
@@ -16873,8 +16109,6 @@ Skr. **अङ्गुष्ठ**thumb, Pr. **अंगुठ्ठ**, P. **अ�
 
 \(b\) Conjuncls of a dental and a heavy य्.
 
- 
-
 Skr **सत्य** true, Pr, **सच्च**, P. H. **सच्च**, S. **सचु**, H. M. **साच**, G. **साचुं**,B. **सांचा**.
 
  Skr. **नृत्य** of **नृत्यति** to dance, Pr. **नच**, P. **नच** or **नच-\[णा\]**, S. **नच-\[णु\]**, H. M. G. **नाच-\[ना-णें-वुं\]**,B. O. **नाचिवा**.
@@ -16887,8 +16121,6 @@ Skr **सत्य** true, Pr, **सच्च**, P. H. **सच्च**, S. **�
 
  Skr. **उत्पद्य**of **उत्पद्यते** to be produced, Pr. **उप्पज्ज**, P. S. H. M. G. **पज-\[णा-णु-ना-णें-वुं\]**.
 
- 
-
 Skr. **माद्य**of **माद्यति**to be intoxicated, Pr. **मज्ज**, M. **माजणें**.
 
  Skr. **विद्युत** lightning, Pr. **विज्जू**, M. G. **वीज**, P. **विज्ज**, S. **विजु**.
@@ -16898,8 +16130,6 @@ Skr. **माद्य**of **माद्यति**to be intoxicated, Pr. **म
  Skr. **स्विग**of **स्वराति** to sweat also to boil, Pr. **सिज्ज**, P. **सिज्जणा** to be soaked, S. **सिझणु**, H. **सिझना-सिजाना** (casual), M. **शिजणें**, G. **सिजवुं**, 0. **सिजिवा**.
 
  Skr. **वन्ध्या**abarren woman, Pr. **बंज्झा** Or **बंज्झा**, P. **वंझा**, S. **वांझ**, H.O. **वांझ**, G. **बांझ-\[णी\]**, M. **वांझ** or **वांज**, B, **बांझा**.
-
- 
 
 Skr. **संध्या** evening, Pr. **संज्झा**, P.S. **संझा**, S. **सांझी**, H. **सांझ**, M.G, H. B. **सांज**, O. **संज**.
 
@@ -16913,8 +16143,6 @@ Skr. **संध्या** evening, Pr. **संज्झा**, P.S. **सं�
 
 \[Table 93 :व् as second member of a conjunct changed to प्प, ब्ब, ब्भ,च्च,ज्ज, ज्झ\]
 
- 
-
 Skr. **त्व**abstract termination, Apabhr., **प्प**,H. **पा**as in **बुढापा**old age, **मोटापा** fatness, S **पो** as in **माण्हिपो**humanity, from **माण्डु**man.
 
  Skr. **त्वन** abstract terminstion, Pr. **त्तण**, Apabhr. **प्पण**, H. **पन** or **पना** as in **कुआरपन** celibacy; S. **पणु** or **पणो** as in **जालपणु** womanhood, **माण्हुअपणु** humanity ; M. **पण** or **पणा** as in **माणुसपण** or **माणुसपणा** humanity ; P. **पुण** as in **निआणपुण** childhood &c.
@@ -16924,8 +16152,6 @@ Skr. **त्व**abstract termination, Apabhr., **प्प**,H. **पा**as i
  Skr. **द्वार** door, Pr. **दार** or **बार**, P. H. G. **बार**, P. **दर** S. **दरु**. M. **दार**.
 
  Skr. **सर्व** all, Pr. **सब्ब**, H, **सब**, P. **सभ**, S. **सभु**, G. **सहु**for **सव**.
-
- 
 
 Skr **ज्वल** to burn, Pr, **जल** or **बल**, S. **बरणु**, P. **जलना-बलणा**, H. **जलना-बलना** G. M. **जलणें** and **पोलणें** where **ब**seems to be hardened, B. O. **पोड़** in **पोडिवा**.
 
@@ -16939,25 +16165,17 @@ Skr **ज्वल** to burn, Pr, **जल** or **बल**, S. **बरणु**,
 
 **\[DENTALS CHANGED TO PALATALS\]**
 
- 
-
 Dentals have a tendency to become palatals even when not followed by **य्** or **व्**, probably because they do so become when followed by those semi-vowels. Thus, from the Skr. **वादयति** ‘to sound' or 'play on a musical instrument,' we have P. **बजाउणा**,H. **बजाना**, M. **वाजविणें**, &c.; from Skr. **निद्रा**'sleep,’ M. **नीज**; P. H. **ओछा**;'trifling,' 'vain', S. **ओछा**,from very probably, Skr. **वृथा** ;M. **सावज**,H. **साजा**from Skr. **श्वापद** which appears even in the Prakrits to have assumed the form of **सावज**,though **सावय**is usually given; M. H. G. **छी छी**, M. **छे छे**,Pr. **छि छि**from Skr. **धिक् धिक**&c.
 
 \[Table 94: (c) The conjunct क्ष्(when the sibilant is pronounced like श्,) and त्स, and त्स्य\]
 
  Skr. **क्षण** a moment, Pr. **खण**, P. **छिण**, S. **खिण**, H. **छिन**, G. **खण**, M. (*dial.*) **खिण**a festival, Pr. **छण**, M. **छिन**, M. **सण**for **छण**.
 
- 
-
 Skr. **क्षुरक-रिका** aknife a razor, Pr. **छुरअ-रिआ**, P. **छुरा-री**, S. **छुरी**, H. **छुरा-री**, B. O. **छोरा-छुरी**, M. **सुरी**.
 
 ** **Skr. **मक्षिका**afly, Pr.  **मक्खिआ**, P. **मक्खी**, S. **मखी**, H. G. **माखी.मच्छिआ**, H. B. O. **माछी**, M. **माशी**.
 
- 
-
 Skr. **कुक्षि**a side of the abdomen, Pr. **कुच्छि**or **कुक्खि**, M. **कूस**; the rest **कुख** or **कोख**as in Table 5.
-
- 
 
 Skr. **ऋक्ष**a bear, Pr. **रिच्छ**, S. **रिछु**, H. G. **रीछ**, M. **रीस**.
 
@@ -16965,15 +16183,11 @@ Skr. **ऋक्ष**a bear, Pr. **रिच्छ**, S. **रिछु**, H. G.
 
  Skr. **क्षेत्र**a field, M. **शेत** from Pr. **छेत्त**; the rest **खे**त.
 
- 
-
 Skr. **वत्स**a calf, Pr. **वच्छ**, P. **बच्छा**, S. **वछ**, H. **बाछा, बछा, बछ**, G. **वछ, वाछ-\[रहुं\]**. B. **बाछु-\[र\]** O. **बाछु-\[री\]**, M. **वास-\[रुं\]**; P. H. **बच्चा**, S. **बचो**,B.**बाच्चा**, M.**बच-\[डें\]**, &c., in the sense of ‘the young one of any animal,’ from the same.
 
  Skr. **मत्स्य** & fish, Pr. **मच्छ**, P, **मच्छ**, S. **मछु**, H. **मछ** or **माछ**, B. O. **माछ**, M. **मासा**.
 
  Skr. **उत्सङ्ग**lap, Pr.**उच्छङ्ग**, H.**उछंग**, M. **ओसंग**.
-
- 
 
 The conjunct **क्ष्**sometimes appears in the Prakrits, and perhaps even in Sanskrit, in the form of **झ्**. The Sanskrit **क्षर** is **ज्झर**in the Prakrits, and this we have in the H. **झरना**, M. **झरणें** and **पाझरणें**in which last **पा**stands for the preposition **प्र. क्षि**is Pr. **झिज्झ**from which we have M;**झिजणें**'to waste away', and from **क्षीण**we haveS. **झीणो**, H. **झीन**, &c.
 
@@ -16999,8 +16213,6 @@ The conjunct **क्ष्**sometimes appears in the Prakrits, and perhaps even
 
 \[Table 96: Instances where the first member of a conjunct remains\]
 
- 
-
 Skr **भग्न-\[कः\]** fled away, Pr. **भग्ग- \[ओ\]**, H **भागा**, S. **भ**गो.
 
  Skr. **लग्न** adhered to, connected, Pr. **लग्ग**, P. **लग्गा** or **लग्ग** in **लग्गणा**, S. **लग** in **लगण**, H. M. G. **लाग-\[ना-णें-वुं\]** B. **लागा**, O **लागि**वा.
@@ -17013,29 +16225,19 @@ Skr **भग्न-\[कः\]** fled away, Pr. **भग्ग- \[ओ\]**, H **�
 
  Skr. **शून्य**void, empty, Pr. **सुण्ण**, P. **सुन्न** or **सुन्ना**, S.**सुंन**, H. **सून** or **सूना**,M. **सुना, सुंन** has acquired the sense of "insensibility" also.
 
- 
-
 Skr. **मन्य** of **मन्यते** to regard, Pr. **मण्ण**, P. **मन्नणा**, S. **मनणु**, M. G.H. **मान-\[णें-वुं-ना\]**.
 
  Skr. **व्याख्यान** to explain, Pr. **वक्खाण**, P. **व-बखाणना**, H, **बखानना** explain or praise, S. **बखाणणु** praise, G. **वखाणवुं**, H. **वाखाणणें**.
-
- 
 
 Skr. **अरण्य** desert, Pr. **रण्ण**, M. G. **रान**, G. **रन**, S.**रिणु**.
 
  Skr. **व्याघ्र** a tiger Pr. **वग्ध**, P. H. B. O. **बाघ**, S. **बाघु** M. G. **वाघ**.
 
- 
-
 Skr. **अग्र** front part, Pr. **अग्ग**, S. **अगो**;H. **आगा**; P **आग्गु**before, G. **आगो**, G. **आगल** before, B. **आगे** O. **आगु**first of all.
 
  Skr.**चक्र**a wheel, Pr. **चक्क**, P. **चक्क**, S. **चकु** (both) apotter’s wheel, H. **चाक, चक्की**, in the sense of a ‘mill-stone', G. M. **चाक**, B, **चाका**.
 
- 
-
 Skr. **पत्र** a leaf, Pr. **पत्त**, P. **पत्त**, S. **पतो** aplaying card, H. **पात, पाता, पत्त**G, **पातरुं**, M. **पातें** blade of a knife, M. **पातेरा** a collection of dry leaves.
-
- 
 
 Skr. **चन्द्र** moon, Pr. **चन्द**, P. **चंद**. S. **चंडु**, H. G.M, B.O. **चांद**. H. **चंद** also.
 
@@ -17051,8 +16253,6 @@ Skr. **चन्द्र** moon, Pr. **चन्द**, P. **चंद**. S. **�
 
 \[Table 97: र्यis changed to ल्ल\]
 
- 
-
 Skr. **पर्याय** rotation, turn, Pr. **पल्लाअ**, H. **पाला**, M. G.O. **पाली**.
 
  Skr. **पर्यस्त** changed, Pr. **पल्लठ्ठ**or **पल्लत्थ**, P, H. **पलटा**, P. **पलटा**, M. G. **पालट**.
@@ -17060,8 +16260,6 @@ Skr. **पर्याय** rotation, turn, Pr. **पल्लाअ**, H. **प
  Skr. **पर्यङ्क**a bedstead, Pr. **पल्लङ्क**, P. **पलंघ**, S. **पलंगु**, H. M. G. **पलंग**, B. **पालंक** or**पालंग**, O. **पलंक**.
 
  The following are instances of other cases of the same change;
-
- 
 
 Skr. **मर्द**to squeeze, rub, knead, Pr. **मल**, P. M. G. **मल-\[ना-णें-वुं\]**, H. S. **मल- \[ना-नें-वुं\]**.
 
@@ -17075,8 +16273,6 @@ H. has **आदा** also from Pr.**अद्दअ**.
  When **क्**, the first sound of **क्ष्**, prevails and adds to itself the heavy aspiration of **ष्**, the conjunct becomes **क्ख्**. Of this change there are many instances in the vernaculars :—
 
 \[Table 98 :क्ष changed to क्ख्\]
-
- 
 
 H. **रूस**, Skr. **वृक्ष** a tree, Pr, **रुक्ख**, P. **रुख**.
 
@@ -17104,33 +16300,21 @@ H. **रूस**, Skr. **वृक्ष** a tree, Pr, **रुक्ख**, P. *
 
  Skr. **इक्षु** sugar-cane, Pr. **उक्लु** or **इक्खु**, H. **ऊख** or**ईख**, P. **इक्ख**.
 
- 
-
 Though accordingto Hemacandra and Vararuci, the **क्ष्** of **क्षेत्र, कुक्षि,अक्षि,क्षीर, मक्षिका**and इक्षु**i**s changed to **च्छ्**in the Mahārāṣṭrl or principal Prakrit, still we see that most of the vernaculars derive their forms of these words from such Prakrit formal as had **क्ख्** for the Sanskrit **क्ष्**. But with the exception of **इक्खु**and **खीर** which are mentioned as occurring in the Jaina sacredbooks, these forms are not given as existing in any of the dialects.
 
- 
-
 This and other similar omissions show that the observation of the Prakrit grammarians was by no means perfect. The Marathi forms of these words, however, with the exception of **अक्षि**, which is unknown to the language, and of **क्षीर**,which is **खीर**,have **म्** or **श्**, which is representative of the Prakrit **छ्**, and hence they are the same as those given by Hemacandra and Vararuci. Here we have one of several indications that the modern Marathi is the direct daughter of the old Mahārāṣṭrlof the grammarians.
-
- 
 
 It will be seen from the lists given above that the Hindi, Gujarati, Marathi and Bengali mostly drop one component of the doubled consonants, and to make up for the quantity thus lost, lengthen the preceding vowel. In other words, the speakers of those dialects take the same time to pronounce two syllables the latter of which contains a double consonant which the speakers of the Prakrit did; but the preceding forcible vowel utterance and the subsequent strong contact and pressure being avoided, the effect is that one of the two consonants is dropped and the previous vowel lengthened. This then is essentially a case of softening.
 
  The Sindhi drops one of the two consonants, but does not. lengthen the preceding vowel; while the Panjabi generally preserves. the doubled consonants handed down to it by the old Prakrits. The Hindi contains more instances in which the original Prakrit pronunciation is preserved than the other three dialects. Hemacandra notices in the Prakrits the softened pronunciation we have been considering in the case of only, one of which is according to him dropped and the preceding vowel is lengthened, as in **पासइ** for **पस्सइ**, Sk. **पश्यति, मीसं** for **मिस्सं**, Skr, **मिश्रम्**, &c. This lengthening of the previous vowel is in the four dialects prevented, as observed [before,](http://# "1 See pp. 424-26,") by the accent falling on a subsequent syllable.
 
- 
-
 In the ‘Pali and the Prakrits, you will remember, the components of some conjuncts such as **र्य्, ई, र्श्, र्ष्, श्ल्, क्ल्, ग्ल्, म्ल्**, &c., are not assimilated but separated by the interposition of a vowel. The vernaculars have preserved some instances of this process:—
 
 \[Table 99 Interposition of a vowel between the members of a conjunct\]
 
- 
-
 H. **सराहना** to praise, Pr. **सलाह** Skr. **श्लाघ**.
 
  H. **अगनी**, P. **अगन**, B. **आसुन** fire, Pr. **अगणी** Skr. **अग्नि**.
-
- 
 
 H. **बरस, बरिस**, M. **वरीस** a year, Pr. **वरिस**, Skr. **वर्ष**. So also H. P.**वरस-\[ना-णा\]**,G. **वरसवुं**, Skr. **वर्ष**.
 
@@ -17142,17 +16326,11 @@ H. **बरस, बरिस**, M. **वरीस** a year, Pr. **वरिस**
 
  In modern times other conjuncts also are similarly dissolved, and we have a **पर्ताप**S. M., &c. 'exploit' for **प्रताप, खेतर**, P. G., &c. 'a field' for **क्षेत्र, पदमु**S. 'a lotus' for **पद्म, तियाग**P. for **त्या**ग. **तर्सु**S., others **तरास**, 'vexation' for **त्रास, धरम**'virtue' H. M. G., &c., for **धर्म**, &c.
 
- 
-
 But the books and dictionaries of some of these languages contain a good many Sanskrit words the conjuncts in which are not changed in any way. This is due to the fact that those languages are now the spoken languages of the educated as well as the uneducated portions of the different communities, and the former pronounce the words correctly, and the forms given to them by the latter are not taken into account by the authors of those books. Again, even the latter, though they interpose a vowel between the components of some conjuncts as shown above, have, to a certain extent, become used to Sanskrit sounds and can pronounce others correctly. But in some of the provinces. the old disability of the Prakrit speakers has been inherited in certain cases by their modern descendants, whether educated or uneducated, and it is very much to be regretted that the writers of books should in such cases write words in their Sanskrit forms. which, when they are read by themselves or others, are read in a quite different way.
-
- 
 
 The people of Sindh**¹**, whether belonging to the higher or lower classes, and the Bengalis pronounce the conjuct **क्ष्**invariably as **क्ख्**.Thus Sanskrit **नक्षत्र** as **नक्खत्रसाक्षी** as**साखी, मोक्ष** as**मोक्ख**or **मोख**,&c. The speakers of the Hindi more often pronounce as **चा** than as **क्ख्,नक्षत्र** becoming **नच्छंत्तर** with them; **साक्षी, साच्छी; मोक्ष मोच्छ ; लक्ष्मण, लच्छमन ; लक्षणा, लच्छना ; क्षत्रिय, खत्री** or **छत्री ; क्षय, छय ; क्षम, छम** ;&c. The Panjabis pronounce the first three words as **साखी**, and **मोच्छ, लक्षण** as**लच्छण, क्षत्रिय** as **खत्रि**, &c. so that they also agree with the Hindi people, but seem more inclined towardsmaking **क्ख्** of the conjunct. The Marathas, however, pronounce the **क्ष्**properly, though ordinarily they make **क्श्** of it rather than **क्-ष्**, as remarked on a former occasion. Similarly, the Bengali assimilates conjuncts the latter member of which is **व्** or **य्**, **ईश्वर**becoming **इश्शर** and **व्याख्यान बाक्खान** in his mouth. Similarly be pronounces Skr. **आत्मा** as just as his Prakrit ancestors did though it is written correctly.
 
 ASSIMILATION OF MEMBERS OF CONJUNCTS CONTAINING NASALS
-
- 
 
 Some of the vernaculars assimilate the components of a conjunct made up of a nasal and a mute. Thus the Panjabi hast **डन्न**for **दण्ड** 'penalty **मुन्नणा** for **मुण्डना** 'to shave **सुन्न** for **सुण्ड**, Skr. **शुण्डा**'the trunk of an elephant', **कन्नहा** for **कन्धा**,Skr. **स्कन्ध**'shoulder', **बन्नह**for **बन्ध** 'binding', **खन्न**for **खन्ड** 'a piece', **भन्नणा** 'to break for **भङ्गना** or**भजना, थम्म** for **स्तम्भ** 'a pillar, &c.In the Bengali **खान** ‘a piece', one of the two **न्** sounds of **खन्न** is dropped and the preceding vowel lengthened. Similarly we have **थाम** ‘to stop’ from **स्तम्भ**. In Sindhi we have **भञु** ‘interruption',for**भङ्ग, चङो**'good' for **चङ्गो**, M. **चांगला** ;**मञुठ** 'madder' for **मञ्जिष्ट ; पिनु**'a ball’ for **पिण्ड; खनु** 'apiece of bread’ for **खण्ड ; चुमणु** 'to kiss’ for **चुम्ब**, &c. Here the Sindhi, as is usual with him, drops one component of thedoubled consonants. With this exception, the modern dialects have got no cases of the assimilation of the members of a conjuner unknown to the Prakrits, while, as shown above, the speakers of those dialects tenaciously retain the vocal habit of assimilation of their Prakrit ancestors in a few cases.
 
@@ -17176,45 +16354,27 @@ LECTURE V
 
 REMNANTS OF THE OLDER GRAMMATICAL FORMS IN THE NORTHERN VERNACULARS
 
- 
-
 I have already directed your attention to the accent on the penultimate syllable of words in the vernaculars of Northern India and the effect it has had in mutilating and transforming the Sanskrit and Prakrit words existing in their vocabularies. Through its influence, you will remember, the final vowel or the vowel of the last syllable is shortened in some cases, and often entirely dropped and the word ends in a consonant or silent . When the consonant of the last syllable is dropped in consequence of the Prakrit law of the elision of uninitial consonants, the final vowel and the vowel of the penultimate syllable are brought together and when they are in this condition, it is possible for them to unite into one sound and thus the final vowel is dropped in some cases and combined with the preceding in others. The Sindhi, however, oftentimes resists the influence of this accent as I have already mentioned.
 
 CASE TERMINATIONS IN THE VERNACULARS.
 
- 
-
 Now on account of these processes, the nominative singular termination **ओ** of masculine Prakrit nouns ending **अ** in is sometimes shortened to **उ**and in this form we have it in the Sindhi and in old Marathi and Hindi literature. In the other dialects. including the modern Marathi and Hindi, it is dropped except in instances such as **वाटसरु**M. and** आयसु** 'command' H. The Prakrit plural terminations **अ**and **ए** of this case are also dropped everywhere for the same reason and we have such forms as **हाथ**S., **हाथ** H., **हात** M. G. &c. for the nom. pl. and these are the sing. forms also except in the case of the Sindhi, which has **हथु**.
-
- 
 
 In the Prakrit the plurals of the nominative and accusative cases of all nouns are alike and so are they alike in the vernaculars. The analogy came to be extended to the singulars also in the Apabhraṁśa and accordingly the singulars of the two cases. are the same in the vernaculars. An independent accusative
 
 case made up by affixing a termination to a noun is given in ordinary grammars; but it has the sense of the dative, or rather of the Sanskrit genitive, which expresses relation in general. Thus we say **मी काम करितों** M. ‘I do work,’ **हूं काम करूं छूं**G., **आंवकमुथो कर्यां** B., **मै कमकरदा** P., **मैकाम करता हूं** H., **आमि** or **मुइ काम करि** or **करिते छि** B., **मु कर्मकरु अछि** O., in which instances **काम**etc. are really accusatives and we do not use **कामास, कामने, कमखे, कमनु, कामको, कामके** and **कर्मकु**, which forms are generally referred to the accusative.
 
- 
-
 The masculine nom, and acc. sing. form in**उ** was in the Apabhraṁśa extended by analogy to the neuter singular also; and, though the peculiar neuter plural termination was preserved, the fact shows that in the vernacular speech of the times there was a tendency to forget the distinction between the two genders. Accordingly we now find that in the Sindhi, the Panjabi, the Hindi, Bengali and Oriya the distinction is entirely lost. In Gujarati also nouns ending in **अ**have retained none of the two neuter terminations, but the Prakrit and Apabhraṁśa **इं** plural of that gender exists in the Marathi combined with the preceding **अ**into **एं** as ‘a fruit' sing., **फलें** 'fruits' pl.
 
- 
-
 This neuter pl. termination is applied in Hindi, Sindhi, and Panjabi to the pl. of fem. nouns ending in **अ** as in **रातें**'nights' H., **जाला**‘women' S. and **गल्लां**'words' P., though the **इ**is changed to **आ**in the last two cases.
-
- 
 
 The change of the final syllables **अओ**of Prakrit words resulting from such Sanskrit words as **आम्रातकः-को, पारदः-दो, दीपकः-को** etc. to **आ**by the dropping of the final and lengthening of the penultimate through the force of the general accent on the penultimate in some of the modern dialects such as the Marathi and the Hindi and to **ओ**, into which the two vowels are combined in consequence of the weakness of the accent in such languages as the Gujarati and the Sindhi and in some of the minor dialects of the Marathi, has already been noticed in the last lecture. Similarly the change of the Prakrit final syllables of neuter nouns **अअं**or **अयं** arising from such Sanskrit words as **कदलकम, मस्तकम्** have been changed to **एं** in the Marathi and to **उं** in Gujarati and to **आं**in some of the dialects of the Marathi. This also has been explained. The pl. of such neuter nouns, most of which are formed by
 
 the addition of **क**and may be called augmented nouns, is formed by the addition of the Apabhraṁśa **इं**, which being rendered emphatic by the nasal sound absorbs the previous **अ**or light **य** and thus wehave **केलीं** for Ap. **कअलअ+ इं**= Skr. **कदलक + आनि**.
 
- 
-
 Fem. nouns in **इ** or **ई** add **आं** as**घोडी-घोडियां** H., **घोडिआं** P. This **यां**or **आं**represents the combination of **य**or **अ**with **इं**; such nouns as घोडीbeing derived from **घोटिका = घोडिआ**. In Panjabi after fem. nouns in **आ** the **ईं** appears distinct, as **बला** a calamity, **बलाईं** nom. pl. In Sindhi the neuter termination is added to the original Prakrit fem. pl. **उ**, shortened from **ओ**, **घोड्यूं**'mares'nom. pl. **हचा**'murder' **हचाऊं**‘murders'; **जाल**a 'woman,' **जालूं**'women' nom. pl. This last **जालां** has it also like the P. **रातां**. In Marathi also it is not very unusual to speak of women in the neuter pl. when respect is intended as **राणींसाहेब आलीं**. This transference of neuter termination to the fem. must have taken place when gendersbegan to be confused in the Apabhraṁśa period.
 
- 
-
 The nom. pl. termination of masc. nouns, which in the Prakrit was **आ**,is preserved by the class of nouns we have been considering i. e. augmented nouns, in Sindhi and Gujarati; while the **ए** of the Prakrit acc. pl. is used for those nouns in the Marathi and its dialects and the Hindi and the Panjabi. When the two cases were thoroughly confounded, one can easily see how this came to pass. Other or unaugmented nouns have dropped both the terminations in all the languages, as has been already noticed.
-
- 
 
 The Marathi has preserved the Apabhramsa instr. sing. **एं** which is used after nouns in **अ** and the plural **हिं**reduced to **इं**. In all the modern languages the **ह** of the Apabhraṁśaforms is dropped. These terminations are appended to the old instrumental termination **न** and we have **नें**and **नीं**which are now ordinarily used. These you will see are double forms and of such we have many in the various languages. Goan., Mal. and Cit. have **न्** for the sing. and the last has **इं**for the pl.
 
@@ -17223,8 +16383,6 @@ The Marathi has preserved the Apabhramsa instr. sing. **एं** which is used a
 where **मते**is hardly an instrumental); but here evidently the termination **ए** is confounded with the **एं** of the instrumental and we have **माझ्या मतें**lit. "by my opinion."
 
  The dative **स** is generally considered a remnant of the Skr.**स्य**and Pr.**स्स**. But I have not found it in the Jñaneśvarīand in its place we have **शीं**in the old poets, which is connected with a similar post-position in other languages which will be considered hereafter. None of the minor dialects of the languages have anything like it, but still the derivation may be correct.
-
- 
 
 Gujarati has the old instrumental in **एं**, but it is confounded. with the corresponding **ए** of the fem. and with the locative **ए** and we have one termination for both, with the nasal dropped. The shortened Apabhraṁśa form in **इ** is found in old Gujarati. It is confounded with that in **इं**, the anusvāra being dropped.
 
@@ -17238,19 +16396,11 @@ From the chronicle of Kanhadade-prabandha given in the Gujarati School-paper.
 
 Pancopākhyāna, the story of Hiraṇyaka.
 
- 
-
 In this latter, however, there occurs an anusvāra, which should be correct, the termination is a remnant **हिं**. The Gujarati has also the double instrumental णेंin pronouns, as **तेंणें, जेंंणें**, etc.
-
- 
 
 The Sindhi has got the ablative terminations **आं, ओं, ऊं,अउ**and **आउ**. The first is from the pronominal instrumental **हां**of the Apabhraṁśaand **म्हा**of the Prakrit; **ओं**and **ऊं** from **हुं** of the former **अउ** and **आउ** and from the corresponding Prakrit. The locative **ए** and its shortened form **इ** are also preserved, but they are used after nouns in **अ**as in the older dialects, as **खुहि**or **खुहेपिओ**'he fell into a well.'
 
- 
-
 The Panjabi possesses the abl. in **हुं**with the **ह** dropped and the **उं** amalgamated with the preceding **अ**into **ओं**as **घरॊं**‘from a house, the locative pl. **हिं**as **घरीं** ‘in the house,’ the instrumental pl. **हिं**as **उअसदें हथीं**‘by the hands’ and the locative sing. in **ए** as **उसदोदरगाहे**‘in his court.’ The instr. in **नें** is also ordinarily used in the form of **नैं**.
-
- 
 
 The Hindi has scattered instances of the loc. in **एं**, but the instrumental **ने**is common. The Bengali has preserved the former. The instrumental also has **ए**, though the grammarians do not give it, as—
 
@@ -17268,11 +16418,7 @@ The Hindi has scattered instances of the loc. in **एं**, but the instrumenta
 
  'How do the moon and the sun in the form of lamps shine in the plate of the sky !’
 
- 
-
 The Oriya also possesses the loc. in **ए**and as in the B. and G. it is confounded with the instr. in **एं**, the nasal being lost, as **हातें**'in or by the hand.’ This dialect has the Pr. abl. in **उ**also as **हातु**'from the hand.’
-
- 
 
 The nom. pl **ओ**or **उ**of fem. nouns in **आ** or**ई** is preserved in the Mal., Goan and Cit. as **जीभ, जिभो ; साडी, साड्यो;** and **घोडी, घोड्यो** ;but the two latter are derived from the Skr. **शाटिका**and **घोटिका**which are nouns ending in **आ**. The final **आ**, which alone. remains after the elision of the consonant **क्**, is dropped in consequence of the penultimate accent and we have **साडी** and **घोडी**. The **ओ**or **उ** of the plural of the original Prakrit **साडिआओ-उ**also isdropped like the **ओ** or **उ** of **घोडओ-उ** in the ordinary Marathi **घोडा**;and, just as the previous vowel; in this latter is lengthened in consequence the accent and the resulting form is **घोडा**, so the previous **आ** of **साडिआ-ओ-उ** and **घोडिआ-ओ-उ**, being accented, remains and we have **साड्या**, and **घोड्या**for **साडिआ** and **घोडिआ**; but in the dialects of the Marathi, in which the **ओ**or **उ**Masc. nouns in the sing. is preserved, we have **घोडो**and **कांटो**etc.; so also is the **ओ-उ**of the fem. preserved and we have , **साड्यो,घोड्यो**etc.
 
@@ -17315,15 +16461,12 @@ inSindhi. The old Hindi or Braj poots use this tense in the presentalso. In all 
 
  M. has two forms of this old Present :—  
 
-
 |      |       |        |       |        |
 |------|-------|--------|-------|--------|
 |     | Sing. | Plural | Sing. | Plural |
 | 1st | करीं  | करूं   | हसें  | हसूं   |
 | 2nd  | करीस  | करा    | हसस   | हसा    |
 | 3rd  | करी   | करीत   | हसे   | हसत    |
-
-
 
  In poetry we have ति and सि for त and स as—
 
@@ -17350,15 +16493,12 @@ pronounced without closing the lips, becomes **इं**. In the same waythe Pr. 
 
  O. and B. have the following forms for the Present Tense :—  
 
-
 |         |           |          |           |
 |:-------:|:---------:|:--------:|:---------:|
 |   O.    |           |    B.    |           |
 | मु करइं | अम्भे करु | मुइ करि  |  आमि करि  |
 | तु करु  | तुम्भे कर | तुइ करिस |  तुमि कर  |
 | से करइ  | से करन्ति |  से करे  | तिनि करेन |
-
-
 
  Theso also are from the Pr forms. O. has lost nasal of the Ist.pers. pl. and B. of the sing. also, i. e., it has one same form forboth. O. has lost the **स** of the 2nd pers.sing. and has **उ** in itsplace. The pl. **कर** of both is pronounced **करो; ओ** being broadlike that to which **अ** even of Skr. words is reduced in ordinaryuttarance by the speakers of these languages. This form **करो** isthe same us the M. **करा** fromthe Pr. **करह**. O. has preserved the3rd pers. pl. **न्ति** intact; B. has lost the **त**and **इ**.
 
@@ -17385,8 +16525,6 @@ pronounced without closing the lips, becomes **इं**. In the same waythe Pr. 
 |  हलां   | हलूं | मै करां  | असीं करये |
 |  हलें   | हलो  | तूं करें | तुसी करो  |
 |   हले   | हलनि |  उह करे  |  उह करण   |
-
-
 
  The Hindi 2nd and 3rd person sing. and pl. are derived directly from those in Ap. The **ह**of **करहि-हु-हिं** being dropped as ususl; the forms are **करइ-द-इ-इं** and, when the vowels are combined,we have **करे-रो-रे-रें**.
 
@@ -17490,15 +16628,12 @@ Bāla-K.
 
  The Marathi, Oriya, and the Bangali have preserved theImperative mood entire; the others, only the second person sing.,the rest being taken over from the old present or the modernPotential.  
 
-
 |     |        |          |     |                 |         |             |
 |-----|:------:|:--------:|:---:|:---------------:|:-------:|:-----------:|
 |    |   M.   |          | O.  |                 |   B.    |             |
 | 1st |  करूं  | करूं-रों | करि |      करूं       |   करि   |     करि     |
 | 2nd | कर-रीं |   करा    | कर  |       कर        | कर-करीस | कर करह करीओ |
 | 3rd |  करो   |   करोत   | करु | करन्तु or करन्त |  करुक्  |    करुन्    |
-
-
 
  In the 1st per. sing. the **मु** of the Pr. is changed to **उं**M. i. e.**म** has lost its labial element as in the Present. O. and B. have.got the form of the Present for it, the nasal being dropped.The **मो**of the pl. is similarly changed to **ओं**and is also shortenedor resolved into **ऊं**. The B. has the same form as the sing. The2nd pers. sing. in M. has the form without the termination as inthe Pr., the other made up by adding **ईं** corresponds to that in theAp. ending in that vowel. Intransitive and reflexive roots have**एं** instead of **इं**, which form is also found in the Ap. a **धावें, शिकें,सांगें.**
 
@@ -17613,20 +16748,16 @@ seen that **ई** is used in many more grammatical forms in M. than**ए**, whil
 
  The third Skr. tense preserved by the Prakrits is the SecondFuture. It has descended to the Gujarati. Thus:—  
 
-
 |     |      |            |
 |-----|------|------------|
 | हुं | करीस | अमे करिसुं |
 | तुं | करसे | तमे करसो   |
 | ते  | करसे | तेओ करसे   |
 
-
-
  The **स** of these forms is the old Skr. **स्य**corrupted to **स्स** in the Śaur.and **स** in the Ap. From the Skr. downwards the terminations of the Present in each of the languages are appended, as formerly observed, to this tense. So in G. we find in the 2nd and 3rd pers. the terminations **ए** and **ओ** of the G. Present attached to **स**. But the consciousness of the etymology of these forms has been partially lost;wherefore in 1st pers. we have not **करसुं** for the sing. corresponding to **करूं**, and **करसीये**corresponding to **करूं**,But G. has derived its 1st. pers. pl. **करसुं**directly from the Skr. or Ap. pl. **करिस्समु** or **करिसमु**, and the sing. **करीस** from **करिस्सं**, which, you will remember, was an optional Saur. form in addition to **करिस्सामि**, the nasal being dropped according to the usual Guj. rule.
 
  We have these forms in the Braj-Bhäṣäbut the **स** is corrupted  
 to **ह**as it very often is. Thus:—  
-
 
 |        |        |
 |--------|--------|
@@ -17674,10 +16805,7 @@ to **ह**as it very often is. Thus:—
 
 **इआ** As **आगिओ** from **जागणु** 'to be awake,' **पर्खिओ**from **पर्खणु** 'to remain,'**गइआ** 'gone', **घलिआ** 'sent;' the nom. termination **उ** and the augment**अ** for **क** heing left out of consideration it is reduced to **इअ**. TheG. hss **यो** and the Braj. **यौ**as in **राख्यो, राख्यौ** 'kept' from **राख,कह्यो, कह्यौ**'told' from **कह**, where also the **ओ** being dropped the termination is i. e. g **इअ** hastily pronounced. These languages therefore preserve the old termination with augment prefixed to itas in the Pr, as **हसिओ, परिओ** etc. Some of the vernsculars andnotably the Sindhi have also inherited from the Pr. readymadeTadbhava forms of the past passive participles as:—  
 
-
 [TABLE]
-
-
 
  The Sindhi seems to have made up the forms of a few rootson the analogy of these though they do not exist in the Pr. as**झल्तो** from **झल**, Skr. **धृत**, Pr. **धरिओ**; **पीतो** drunk, **कीतो** done; ( P. hasthis also ); but some of these may be modern Tadbhavas.
 
@@ -17846,7 +16974,6 @@ Parasm. **इ**, and **ए** or **अ**of the intransitive and reflexive with th
 
 will remember, the Pr. has **ए, आवे**and, the **ए** of the latter beingdropped, there is another **आव**. We have also a good manyexamples in the vernaculars of the Pr. causals mentioned byHemacandra as formed by dropping all terminations and preserving the vowel changes, guns or viddhi, which roots takebefore the Skr. **अय**or Pr. **ए** Thus:—  
 
-
 |             |                  |                  |
 |-------------|------------------|------------------|
 | M. G. H.    | मरणें-वुं-ना     | मारणें-वुं-ना.   |
@@ -17862,8 +16989,6 @@ will remember, the Pr. has **ए, आवे**and, the **ए** of the latter bein
 | M. S.       | गलणें-गरणु       | गालणें-गारणु     |
 | S.          | पढणु             | पाढणु            |
 
-
-
  I have already mentioned that the causal of some roots isformed in H. by inserting **ल** before the causal termination **आ**.G. has **ड** and Sindhi **र**for **ल**, **खवाढवुं** 'to cause to eat' from **खा**to eat, **देवाडवुं** 'to cause to give,' **देखाडवुं** 'to show' from **देख**'to see,'**धवाडवुं** to cause to run,' **डिअणु**'to give,' **दिआरणु**'to cause to give,'**सिखणु-सेखारणु, बेहणु-वेहारणु** 'to cause to sit.' In these instances wehave **वा** or **आ**before **ड**; but in G. all these forms have **आव** optionally added to them when the previous **आ**is dropped as **वचडाववुं** 'to cause to run,' **खवडाववुं** 'to cause to eat 'etc.; and inS. we have the causal **आइ**appended to **र** after roots ending in **आ**as **खाराइणु** 'to cause to eat,'**घाराइणु** 'to cause to wound,' **धाराइणु**'to cause to suok' or ' to suckle;' so that the intervening **आ** isinterchangeable in both these languages with the causal termination and hence some way conveys the same sense. M. has atrace of these forms as **भोंवणें** 'to turn,' to cause to turn,'**घावणें** 'run,' **धावडणें**'to cause to run,' **भिणें-भेडावणें**'to threaten.'Hemacandra mentions **भमाडो** as the causal base of **भ्रम** and gives**वाउ** in the sense of pushing which is very likely a causal form of**वा**. We have this **घाड**in the sense of sending in M.
 
  We have seen that **द** or**त** is sometimes changed to **ड** and thenceto **र** or **ल** in the Pr. and vernaculars; whence it appears that**पिलाना** is a denominstive or nominal root from **पिला** or **पिडा**or **पीत**,by the application of the usual denominative termination **आप्**,which is also the causal termination. In Skr. such a denominative has the sense of doing the thing expressed by the base as **पीतं करोति-पीतयति**,Śaur. **पीदावेदि**.
@@ -17871,8 +16996,6 @@ will remember, the Pr. has **ए, आवे**and, the **ए** of the latter bein
  We have a great many denominatives from past participles;first in the sense of *being* the thing expressed by the base, inwhich case the participle has simply the verbal terminationsappended to it, as **लग्गइ** from **लग, अब्भिडइ** from **अभ्येत, कट्टइ**from **कष्ट,पल्लटइ, पल्लत्थइ** from **पर्यस्त** etc.; and secondly in the sense of doing,when **आव** or **आवे** intervenes between the base and the terminations,as **भीदावेदि**in Mālatī-Mādhava, from which we have in M, **भेडावणें**.The forms in which we have **आ** before **ड** as **देवाडवुं, खषाडषुं**etc. aredenominatives from the past participles of original Pr. cauealsas **दाविद** or **खाविद**, the causal fermination **आव** being changed to **औ**and **आ**as in the H. in ordinary causals. In the vernaculars wehave also the first class of denominatives expressive of beinglike the thing denoted by the base, as:—
 
 [TABLE]
-
-
 
  We have another verbal base in M. which involves the ides ofpower and ability as **करवतें** 'can be done,' **बसवतें**'can be sat.'These forms are passive when the original verb istransitive, andimpersonal when it is intransitive. In old M. **प**is somesimesseen for **व**:—
 
@@ -17929,7 +17052,6 @@ will not serve his purpose, but he must have some such as **तदीयंप�
 
  The Marathi oblique forms are made up by adding theseterminations :—  
 
-
 |             |     |      |     |
 |-------------|-----|:----:|-----|
 | \(1\) Sing. | आ   | Pl. | आं  |
@@ -17937,8 +17059,6 @@ will not serve his purpose, but he must have some such as **तदीयंप�
 | (3) „      | ई   |  „   | आं  |
 | (4) „      | ऊ   |  „   | ऊं  |
 | (5) „      | ए   |  „   | आं  |
-
-
 
  (1) The following classes of nouns take the first—
 
@@ -18338,8 +17458,6 @@ Sursāgar, pada 29, page 255.
 | S.  |   जो-जी   | O. |    र     |
 | H.  |   का-की   |    |         |
 
-
-
  In the first lecture I have remarked that in the third stage ofthe development of Sanskrit the nominal style came into useinstead of the verbal style or fluent style. When the languagewas in this condition, adjectival forms expressive of possessionor other relations came into use instead of the genitive case andsuch forms, as :
 
  **तदीयम् गृहम्** 'the house belonging to him,'
@@ -18541,7 +17659,6 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
 
  The reason why forms expressive of present time have cometo denote past time is to be sought for in that natural use of thePres, which is called Historic Present. A man in narrating astory transports himself for the sake of vividness into that timewhen the actions are supposed to have taken place and speaks ofthem as if they were present; and when this habit becomes generalin a language, the fact of such an imaginary transfer is forgottenand the Present Tense becomes Past Tense. We have manyinstances of this use of the Skr. Pres. in such books as the Pañcatantra. The forms of the O. Past Habitual are these :—  
 
-
 |           |        |         |
 |:---------:|:------:|:-------:|
 |   Sing.   |        |   Pl.   |
@@ -18549,14 +17666,11 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
 | 2nd pers. | करन्तु |  करन्त  |
 | 3rd pers. | करन्ता | करन्ते  |
 
-
-
  As in the M., the 3rd pers. sing. has no personal termination;and the pl. is the M. and H. pl. of nouns in **आ** as **घोडे** which wefind in the O. nom. pl. **पशुमाने** 'beasts' also. The second personhas the same termination as the corresponding old Present, viz.**अ** and **उ**. The first person sing. has **इ**and the pl. **ऊं** and they arethe same as the **इं** and **उ** of the Pres., but there is some confusionabout the anusvāras.
 
  Before proceeding it is necessary to mention that O. and B.use the sing, forms in speaking of, and to, inferiors, while thepl. is used in an honorific sense. This is so in all the languages;but these two use even in a singular nominative with the honorific forms or real plurals and a plural one with the inferior forms.This is due to the loss of the original plural of nouns in theselanguages, which I have before mentioned; so that one sameform of the nom. came to be used for both the sing. and pl. verbalforms; but, since the usage common to all our vernaculars didexist, the pl. forms came to be understood in a simply honorificsense, and the sing. in the sense of inferiority. There was nothing in the form of the nom. which expressed plurality and hencethe verbs also ceased to indicate it, though originally fitted todo so. Similarly, the pl. forms of personal pronouns which werenot lost came to be restricted to an honorific signification andthe sing, to that of inferiority. The words which were broughtinto use to indicate plurality expressed an aggregate or collection and thus, being themselves sing., the necessity of pl. verbalforms in connection with them was not felt; and hence they take& verb in the real old sing. But there is this consistency in theuse of the verb, that the honorific pers. pronouns take an honorificverb and the inferior an inferior, *i.e.* an original pl. nom.takes an original plural verb and an original sing. a singular.
 
  These same forms that we have been discussing have in theS. acquired a future signification and constitute the regularFuture tense of that dialect. The Pres, expresses in all languagesan immediate future—a man's intending shortly to do a thing isconsidered as good as actually doing it. This is the germ offuturity in the signification of forms of the Present tense; andusage may take hold of it and constitute them into a regularFuture. The Sindhi forms are—  
-
 
 |           |         |           |                  |               |
 |:---------:|:-------:|:---------:|:----------------:|:-------------:|
@@ -18565,8 +17679,6 @@ M., S., B. and O. make up some of their tenses and moods in thefirst way; the ot
 | 1st pers. | हलंदुसि | हलंदासीं  | हलांदेआसि-द्यासि | हलंदिऊं-गूसीं |
 | 2nd pers. | हलंदें  | हलंदउन्दौ |    हलंदिअं-एं    |  हलंदिऊं-गू   |
 | 3rd pers. |  हलंदो  |   हलंदा   |      हलंदी       | हलंदिऊं-द्यूं |
-
-
 
  Here **हलंद**is the old pres part.The 3d pers, as in the O. andalso M., partially has no personal terminations. The sing, and
 
@@ -18591,8 +17703,6 @@ the pl. are like those of corresponding adjectives in **ओ**. The 2ndpers, has 
 | हलिउसि-ल्यसि | हलियूंसि  |
 |   हलिअं-एं   | हलियूं-ऊं |
 |     हलीं     |  हलियूं   |
-
-
 
  When the verb is transitive, the participle is passive and theagent, if used, is put in the instr. case. The verb takes the person,gender and number of the object in the nom. case and the formsare just the same as the above, as **मार्युसि** 'I was beaten', **मार्यै**thouwert beaten.
 
@@ -18620,8 +17730,6 @@ the pl. are like those of corresponding adjectives in **ओ**. The 2ndpers, has 
 |   तूं गेलो-ली-लंस    |    तुमी गेले-ल्यो-लींत    |
 | तो-ती-तें-गेलो-ली-लं | ते-त्यो-तीं-गेले-ल्यो-लीं |
 
-
-
 Māl.
 
 |                       |                           |
@@ -18629,8 +17737,6 @@ Māl.
 |       मी गेलइं        |         आमी गेलौं         |
 |       तूं गेलस        |     तुमी गेलात-ल्यात      |
 | तो-ती-तां-गेलो-ली-लां | ते-त्यो-तीं-गेले-ल्यो-लीं |
-
-
 
  In transitive verbs M. attempts a curious combination. The participle being passive, it must agree with the object and take its number and gender and, if made the base of the verbal forms, its personalso. But unliked the Sindhī, the M.does not use this passive participlefor an object in the first and second persons. Thus **मायैं** and **मार्युसि** in
 
@@ -18647,8 +17753,6 @@ S. mean 'thou wert beaten' and 'I was beaten', but we do not use'.such forms as 
 | 1st. pers. |  कलि  | कलुं |   देखिलाम्    | देखिलाम्  |
 | 2nd pers.  |  कलु  |  कल  |    देखिलि     | देखिला-ले |
 | 3rd pers.  |  कला  | कले  | देखिल (or ल्) | देखिलेन्  |
-
-
 
  As in the Pres., the O. like the other languages does not addverbal terminations to the third pers., but the forms are likethose in M., namely the nom. sing. and pl. masc., though they donot indicate gender here. The other persons have the terminationsof the Present.
 
@@ -19004,19 +18108,11 @@ GENERAL INDEX
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 [TABLE]
 
@@ -19052,15 +18148,11 @@ INDEX OF ANCIENT WRITTEN AND WORKS
 
 [TABLE]
 
-
-
 [TABLE]
 
 **INDEX IV**
 
 [TABLE]
-
-
 
 [TABLE]
 
@@ -19087,8 +18179,6 @@ INDEX VI
 INDEX OF SANSKRIT AND OTHER WORDS
 
 [TABLE]
-
-
 
 [TABLE]
 
@@ -19211,674 +18301,6 @@ INDEX OF SANSKRIT AND OTHER WORKS
 **INDEX VI**
 
 [TABLE]
-
 
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^266]: "Such are काणमोअस for काणभोजप, पवइतिफाअ for पवजितिकायाः महामोयस forमहाभोजस्य, भयंत forवैयिका for वेदिका, पटिक for प्रतिफ &c."
-
-
-[^265]: " Lucknow Ed., 1874."
-
-
-[^264]: " M.-Marathi; G.-Gujarati; H-Hindi."
-
-
-[^263]: "Prof. Lassen derives them differently."
-
-
-[^262]: "बुधानं Kh."
-
-
-[^261]: "बंभ Kh."
-
-
-[^260]: "ततेस for हेता इयं Dh."
-
-
-[^259]: "निखमिठा Kh."
-
-
-[^258]: "Dh. om."
-
-
-[^257]: "हुसुfor हुवंतिनं Kh."
-
-
-[^256]: " हेडिसानि Kh."
-
-
-[^255]: "देवानं पिया Kh."
-
-
-[^254]: "Since published."
-
-
-[^253]: "[ Ante, p. 112-N. B. U.]"
-
-
-[^252]: "Mādhyaṁdina recension."
-
-
-[^251]: "Epigraphia Indica, Vol. I, pp. 72-73."
-
-
-[^250]: "Ibid., Plate LVI."
-
-
-[^249]: "Ibid, Vol. I, p. 116."
-
-
-[^248]: "Sachau s Translation, Vol. I, p. 21."
-
-
-[^247]: "Asāv ādityo Brahma."
-
-
-[^246]: "Ib.p. 395."
-
-
-[^245]: "See JBBRAS, Vol. XX, p. 385."
-
-
-[^244]: "[Ante, p. 196 N. B. U.]"
-
-
-[^243]: "Ep. Ind. Vol. IX. pp. 277ff."
-
-
-[^242]: "See Hemādri Vratakhaṇḍa."
-
-
-[^241]: "Aufrecht s Oxf. Cat. p. 92, n."
-
-
-[^240]: "Saundaryalaharīv. 41, commentary."
-
-
-[^239]: "Ibid. v. 34."
-
-
-[^238]: "South-Ind. Insers.. Vol. I, p. 11."
-
-
-[^237]: "South-Ind. Inscrs., Vol. II, p. 2."
-
-
-[^236]: "Ind. Ant., Vo . XXIII, p. 297."
-
-
-[^235]: "Pañcācāryapañcamotpattiparakaraṇa."
-
-
-[^234]: "Ante. p. 177nl [N. B. U.]"
-
-
-[^233]: "Pañcācāryapañcamotpattiprakaraṇa p. 35."
-
-
-[^232]: "§ 95."
-
-
-[^231]: "Pañcācāryapañcamotpattiprakaraṇa, Bombay 1903 A. D. p. 1."
-
-
-[^230]: "P. 177. note 1."
-
-
-[^229]: "Vīraśaivācārapradīpikā, Poona 1905 A. D., pp. 33-37."
-
-
-[^228]: "Vivekacintāmaṇi Pūrvabhāga, Sholapur 1909 A. D. pp. 230 ff."
-
-
-[^227]: "1bid. pp. 81-82."
-
-
-[^226]: "Bitbler, Report of a Tour made in Kasmir; extract from Nos. 465-66, p. OLX."
-
-
-[^225]: "Śivasūtravimarśinī; I. 5."
-
-
-[^224]: "Buhler, Report of a Tour made in Kashmir, p 78."
-
-
-[^223]: "From the same work."
-
-
-[^222]: "Śambhudeva s Saivasiddhāntadīpikā, Sholupar 1909,"
-
-
-[^221]: "1. See previous section."
-
-
-[^220]: "These five formulas, or Mantras, are contained in the TA. (X. 13-47
-
-
-[^219]: "These four schools are mentioned in the Vayaviyasambit of the Siva- Purina (II. 24, 177
-
-
-[^218]: "Ep. Carn. Vol. XII, p. 45 (Translation
-
-
-[^217]: "Ep. Carn. Vol. V, Arsikere Taluq No. 46."
-
-
-[^216]: "Ep. Carn. Vol. V. Arsikere Taluq No. 103."
-
-
-[^215]: "Ep. Carn. Vol. V, Pt. I. p. 135 (Translation
-
-
-[^214]: "Ep. Carn. Vol. VIII. Pt. I, p.64, (Translation
-
-
-[^213]: "Ep. Carn. Vol. VII, Sikarpur Taluq No. 107."
-
-
-[^212]: "Ep. Carn. Vol. XII, p. 92 (Translation
-
-
-[^211]: "JBBRAS, Vol. XIV, p. 26,"
-
-
-[^210]: "lnd. Ant. Vol. XI, pp. 255-256."
-
-
-[^209]: "See JBBRAS, Vol. XXII, pp. 151-153."
-
-
-[^208]: "See his comment on P. V. 3. 99."
-
-
-[^207]: "Ante, p. 157f. [N. B. U.]"
-
-
-[^206]: "[Ante, p. 149 N. B. U. ]"
-
-
-[^205]: "Ante, p. 31, and p. 153. [N. B. U. ]"
-
-
-[^204]: "Ante, p. 31. [N. B. U.]"
-
-
-[^203]: "A long fabulous period."
-
-
-[^202]: "[ Ante, p. 109.-N. B. U.]"
-
-
-[^201]: "Tukaram Tatya s edition."
-
-
-[^200]: "Deśnāmamālā,VI. 23."
-
-
-[^199]: "Indian Antiquary, Vol. XIV, p. 68ff."
-
-
-[^198]: "See above, p. 72."
-
-
-[^197]: "[Ante, p. 58 N. B. U.]"
-
-
-[^196]: "Yajñeśvara,Āryavidyāsudhākara, p. 228."
-
-
-[^195]: "Yajñeśvara,Āryavidyāsudhākara."
-
-
-[^194]: "The editions consulted are those published by Navalkisora at Lakhnau in 1886 and in the Bibliotheco Indica in 1897."
-
-
-[^193]: "See Wilson s Hindu Religions."
-
-
-[^192]: "Ibid. pp. 139-40."
-
-
-[^191]: "The Sikh Religion, &c., Vol. VI. p. 122."
-
-
-[^190]: "Ibid, Chronological Table, p. VII."
-
-
-[^189]: "[Ante, p. 49. N. B. U. ]"
-
-
-[^188]: "[Ante, p. 80. N. BU.]"
-
-
-[^187]: "See Keśava s commentary, Br, S. I. 4. 23."
-
-
-[^186]: "Ṙjus are a class of gods."
-
-
-[^185]: "Ep. Ind., Vol. VI, p. 266."
-
-
-[^184]: "Ep. Ind., Vol. VI, page 262, note."
-
-
-[^183]: "Mādhvavijaya, VI, 33."
-
-
-[^182]: "Ep. Ind., Vol. VI, pp. 260 ff."
-
-
-[^181]: "This Mantra is "
-
-
-[^180]: "Ante, p. 57. [N. B. U.]"
-
-
-[^179]: "Yat. 7."
-
-
-[^178]: "Yat.8."
-
-
-[^177]: "Tattvatraya"
-
-
-[^176]: "yat.8"
-
-
-[^175]: "Yatīndramatadīpikā, 9."
-
-
-[^174]: "Imperial Gazetteer, Vol. XVIII, p. 173,"
-
-
-[^173]: "Ibid. p. $51,"
-
-
-[^172]: "JBBRAS, Vol. XI. p. 244."
-
-
-[^171]: "Kāyena vācāmanasendriyair vā, etc."
-
-
-[^170]: "Ind. Ant. Vol, XXXV, p. 228."
-
-
-[^169]: "See his Bhāvārtha-Rāmāyaṇa,Āraṇyakāṇḍa."
-
-
-[^168]: "P.941 (Bibl. Ind.
-
-
-[^167]: "See below."
-
-
-[^166]: "Ante, p. 64 [N. B. U. ]"
-
-
-[^165]: "See above [p. 59 N. B. U. ]"
-
-
-[^164]: "Ep. Ind., Vol. II. p., 182."
-
-
-[^163]: "Bhau Daji. Lit. Remains, p. 240."
-
-
-[^162]: "Br. S. 60. 19."
-
-
-[^161]: "Fergusson and Burgess, Cave Temples, p. 407."
-
-
-[^160]: "Ind. Ant. Vol. III. p. 305; Vol. VI. p. 363,"
-
-
-[^159]: "Ibid. p. 339 ff."
-
-
-[^158]: "Ibid. p. 121 ff."
-
-
-[^157]: "Ibid. p. 88 ff."
-
-
-[^156]: "Ibid. p. 56ff."
-
-
-[^155]: "Ibid. p. 52.ff."
-
-
-[^154]: "Corp. Inser. Ind. Vol. III, p. 21."
-
-
-[^153]: "Ante, p. 9 [N. B. U.]"
-
-
-[^152]: "Archeological Survey of India, Annual Report, 1905-1906. p. 135    8.[R.G. Bhandarkar s Works, Vol. IV]"
-
-
-[^151]: "Journal of the Royal Asiatic Society for 1907, p. 981."
-
-
-[^150]: "Lūders, List of Brāhmī Inscriptions, Nr. 963."
-
-
-[^149]: "Lūders, List of Brāhmī Inscriptions, Nr. 1137."
-
-
-[^148]: "Ante, pp. 13 and ff. [N. B. U.]"
-
-
-[^147]: "Ante,p.4  [N.B.U.]"
-
-
-[^146]: "1 See Medhātithi s commentary on Manu 1.10."
-
-
-[^145]: "[R. G. Bhandarkar s Works, Vol. IV.]"
-
-
-[^144]: "Ante. p. 1.[ N. B. U.]"
-
-
-[^143]: "Yada sarve pramucyante kama yesya brdi sritah, KU,VI. 14, and also BU. IV. 4. 7."
-
-
-[^142]: "Ante, p. 3. [N. B. U.] [R. G. Bhandarkar s Works, Vol. IV.]"
-
-
-[^141]: "Vrntakhanda (Bibl. Ind.
-
-
-[^140]: " Ibid. No. 1112."
-
-
-[^139]: "Ibid. No. 669."
-
-
-[^138]: "Luders, List of Brāhmī Inscriptions, No. 6."
-
-
-[^137]: "SeeJRAS, 1910, p. 163."
-
-
-[^136]: "This passage has been furnished to me by Mr. Dharmanand Kosambi."
-
-
-[^135]: "RV. V. 3, 1—2"
-
-
-[^134]: "[R. G. Bhandarkar s Works, Vol. IV]"

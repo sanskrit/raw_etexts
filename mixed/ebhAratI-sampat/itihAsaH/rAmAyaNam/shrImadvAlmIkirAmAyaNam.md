@@ -16,8 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0NzAxMjc4NjU
 
 \[
 
-
-
 **॥ श्रीरामजयम्॥**  
 
 **श्री म द्वा ल्मी कि रा मा य ण म्**  
@@ -50,13 +48,9 @@ KALPATHI-PALGHAT**
 ![](../books_images/U-IMG-1700128892Screenshot2023-11-07133925.png)  
 Library Edition.\]       1940         \[Price Rs. 1–8–0
 
-
-
 PUBLISHERS' NOTE  
 
 **![](../books_images/U-IMG-1699344884Screenshot2023-11-07134409.png)**
-
-
 
 We have great pleasure in presenting to the public this attractive new edition of the text of the Ramayana (Southern recension) according to the Manuscripts prepared by the late Rao Sahib P. S. Krishnaswami Iyer of Dharmalaya, Mylapore.
 
@@ -71,8 +65,6 @@ We have great pleasure in presenting to the public this attractive new edition o
  We therefore hope that this edition will receive due appreciation and an encouraging welcome from the discerning public.
 
 ![](../books_images/U-IMG-1699345307Screenshot2023-11-07135120.png)
-
-
 
 |                             |                                 |                 |
 |:---------------------------:|:-------------------------------:|:---------------:|
@@ -101,8 +93,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 |             40              |     सगरपुत्राणां भस्मीभावः      |       30        |
 |             41              |         सगरयज्ञसमाप्तिः         |       28        |
 
-
-
 |                                   |                               |             |
 |:---------------------------------:|:-----------------------------:|:-----------:|
 |               सर्गः               |             विषयः             | श्लोकसंख्या |
@@ -130,13 +120,9 @@ We have great pleasure in presenting to the public this attractive new edition o
 |                62                 |          अम्बरीषयागः          |     28      |
 |                63                 |          मेनकासमागमः          |     26      |
 
-
-
 [TABLE]
 
 ![](../books_images/U-IMG-170360632913.png)
-
-
 
 ॥ ऊँ ॥  
 ॥ अथ स्मार्तानां श्रीरामायणपठनोपक्रमेऽनुसन्धेयाः श्लोकाः ॥
@@ -166,8 +152,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 अञ्जनानन्दनं वीरं जानकीशोकनाशनम्।  
 कपीशमक्षहन्तारं वन्दे लङ्काभयङ्करम्॥८॥
-
-
 
 **उल्लङ्घ्य सिन्धोः सलिलं सलीलं  
 यः शोकवह्निं जनकात्मजायाः ।  
@@ -200,8 +184,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 **वेदवेद्ये परे पुंसि जाते दशरथात्मजे ।  
 वेदः प्राचेतसादासीत्साक्षाद्रामायणात्मना॥१७॥**
 
-
-
 वैदेहीसहितं सुरद्रुमतले हैमे महामण्डपे  
 मध्येपुष्पकमासने मणिमये वीरासने सुस्थितम् ।  
 अग्रे वाचयति प्रभञ्जनसुते तत्त्वं मुनिभ्यः परं  
@@ -230,8 +212,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अपुत्राः पुत्रिणः सन्तु पुत्रिणः सन्तु पौत्रिणः।  
 अधनाः सधनाः सन्तु जीवन्तु शरदां शतम् ॥३॥
 
-
-
 **चरितं रघुनाथस्य शतकोटिप्रविस्तरम् ।  
 एकैकमक्षरं प्रोक्तं महापातकनाशनम् ॥४॥  
 शृण्वन् रामायणं भक्त्त्या यः पादं पढ़मेव वा ।  
@@ -255,8 +235,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 नारायणायेति समर्पयामि॥१२॥**
 
 **![](../books_images/U-IMG-1699293194Screenshot2023-11-06232243.png)**
-
-
 
 **॥ श्रीवैष्णवानां श्रीरामायणपठनोपक्रमेनुसन्धेयाः श्लोकाः ॥**
 
@@ -282,8 +260,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 पारिजाततरुमूलवासिनं भावयामि पवमाननन्दनम्॥  
 यत्र यत्र रघुनाथकीर्तनं तत्र तत्र कृतमस्तकाञ्जलिम् ।  
 बाष्पवारिपरिपूर्णलोचनं मारुतिं नमत राक्षसान्तकम् ॥
-
-
 
 वेदवेद्ये परे पुंसि जाते दशरथात्मजे ।  
 वेदः प्राचेतसादासीत्साक्षाद्रामायणात्मना ॥१०॥
@@ -314,8 +290,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 काले वर्षतु पर्जन्यः पृथिवी सस्यशालिनी ।  
 देशोऽयं क्षोभरहितो ब्राह्मणास्सन्तु निर्भयाः ॥३॥
 
-
-
 कावेरी वर्धतां काले काले वर्षतु वासवः ।  
 श्रीरङ्गनाथो जयतु श्रीरङ्गश्रीश्च वर्धताम्॥४॥
 
@@ -344,8 +318,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 दण्डकारण्यवासाय खण्डितामरशत्रवे ।  
 गृध्रराजाय भक्ताय मुक्तिदायास्तु मङ्गलम् ॥१२॥
-
-
 
 सादरं शबरीदत्तफलमूलाभिलाषिणे ।  
 सौलभ्यपरिपूर्णाय सत्त्वोद्रिक्ताय मङ्गलम्॥ १३ ॥
@@ -378,8 +350,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 सर्वविघ्नशमनं सर्वसिद्धिकरं परम् ।  
 सर्वजीवप्रणेतारं वन्दे विजयदं हरिम्॥४॥
 
-
-
 सर्वाभीष्टप्रदं रामं सर्वारिष्टनिवारकम् ।  
 जानकीजानिमनिशं वन्दे मद्गुरुवन्दितम्॥५॥
 
@@ -409,8 +379,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 गोष्पदीकृतवाराशिं मशकीकृतराक्षसम् ।  
 रामायणमहामालारत्नं वन्देऽनिलात्मजम्॥१३॥
 
-
-
 अञ्जनानन्दनं वीरं जानकीशोकनाशनम् ।  
 कपीशमक्षहन्तारं वन्दे लङ्काभयङ्करम् ॥१४॥
 
@@ -439,8 +407,6 @@ We have great pleasure in presenting to the public this attractive new edition o
   मध्येपुष्पकमासने मणिमये वीरासने सुस्थितम् ।  
 अग्रे वाचयति प्रभञ्जनसुते तत्त्वं मुनिभ्यः परं  
   व्याख्यान्तं भरतादिभिः परिवृतं रामं भजे श्यामलम् ॥
-
-
 
 वन्दे वन्द्यं विधिभवमहेन्द्रादिबृन्दारकेन्द्रैः  
   व्यक्तं व्याप्तं स्वगुणगणतो देशतः कालतश्च ।  
@@ -472,14 +438,10 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ![](../books_images/U-IMG-1699362044Screenshot2023-11-06232243.png)
 
-
-
 स्वस्ति प्रजाभ्यः परिपालयन्तां  
-  
 
 न्याय्येन मार्गेण महीं महीशाः ।  
 गोब्राह्मणेभ्यःशुभमस्तु नित्यं  
-  
 
 लोकाः समस्ताः सुखिनो भवन्तु॥१॥
 
@@ -492,12 +454,9 @@ We have great pleasure in presenting to the public this attractive new edition o
 मङ्गलं कोसलेन्द्राय महनीयगुणाब्धये ।  
 चक्रवर्तितनूजाय सार्वभौमाय मङ्गलम्॥४॥  
 
-
 इत्यादिश्लोकाः श्रीवैष्णवपद्धतिवदनुसन्धेयाः॥  
 
 ![](../books_images/U-IMG-1699294268Screenshot2023-11-06232243.png)
-
-
 
 ॥ श्रीगुरुभ्यो नमः ॥
 
@@ -524,8 +483,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 को न्वस्मिन् सांप्रतं लोके गुणवान् कश्च वीर्यवान् ।  
 धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः॥२॥
-
-
 
 **चारित्रेण च को युक्तः सर्वभूतेषु को हितः ।  
 विद्वान् कः कः समर्थश्च कश्चैकप्रियदर्शनः ॥३॥**
@@ -554,8 +511,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 **समः समविभक्ताङ्गः स्निग्धवर्णःप्रतापवान् ।  
 पीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः ॥११॥**
 
-
-
 धर्मज्ञः सत्यसन्धश्च प्रजानां च हिते रतः ।  
 यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यःसमाधिमान्  
 प्रजापतिसमः श्रीमान्धाता रिपुनिषूदनः॥१२॥
@@ -583,8 +538,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 प्रकृतीनां हितैर्युक्तं प्रकृतिप्रियकाम्यया ।  
 यौवराज्येन संयोक्तुमैच्छत् प्रीत्या महीपतिः ॥२०॥
-
-
 
 तस्याभिषेकसंभारान्दृष्ट्रा भार्याऽथ कैकयी ।  
 पूर्वं दत्तवरा देवी वरमेनमयाचत॥  
@@ -615,8 +568,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः ।  
 चित्रकूटमनुप्राप्य भरद्वाजस्य शासनात्॥२९॥
 
-
-
 रम्यमावसयं कृत्वा रममाणां वने त्रयः ।  
 देवगन्धर्वसङ्काशास्तत्र ते न्यवसन् सुखम्॥३०॥
 
@@ -643,8 +594,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 गते तु भरते श्रीमान् सत्यसन्धोजितेन्द्रियः।  
 रामस्तु पुनरालक्ष्य नागरस्य जनस्य च ॥  
 तत्रागमनमेकाग्रो दण्डकान् प्रविवेश ह॥३८॥
-
-
 
 प्रविश्य तु महारण्यं रामो राजीवलोचनः ।  
 विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह॥  
@@ -673,8 +622,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्च्छितः ।  
 सहायं वरयामास मारीचं नाम राक्षसम्॥४७॥
-
-
 
 वार्यमाणःसुबहुशो मारीचेन स रावणः ।  
 न विरोधो बलवता क्षमो रावण तेन ते॥४८॥
@@ -707,8 +654,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 सुग्रीवाय च तत्सर्वंशंसद्रामो महाबलः  
 आदितस्तद्यथावृत्तं सीतायाश्च विशेषतः॥५८॥
 
-
-
 सुग्रीवश्चापि तत्सर्व श्रुत्वा रामस्य वानरः ।  
 चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् ॥५९॥
 
@@ -737,8 +682,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 अनुमान्य तदा तारां सुग्रीवेण समागतः ।  
 निजघान च तत्रैनं शरेणैकेन राघवः॥६८॥
-
-
 
 ततः सुग्रीववचनाद्धत्वा वालिनमाहवे ।  
 सुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत्॥६९॥
@@ -773,8 +716,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 दर्शयामास चात्मानं समुद्रः सरितां पतिः ।  
 समुद्रवचनाच्चैव नलं सेतुमकारयत्॥७९॥
 
-
-
 तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे ।  
 रामः सीतामनुप्राप्य परां व्रीडामुपागमत्॥८०॥
 
@@ -807,8 +748,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 न पुत्रमरणं किञ्चिद्द्रक्ष्यन्ति पुरुषाः क्वचित् ।  
 नार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः ॥९०॥
-
-
 
 न चाग्निजं भयं किञ्चिन्नाप्सु मज्जन्ति जन्तवः ।  
 न वातजं भयं किञ्चिन्नापि ज्वरकृतं तथा॥९१॥
@@ -844,8 +783,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ![](../books_images/U-IMG-1699370027Screenshot2023-11-06232243.png)
 
-
-
 **द्वितीयः सर्गः॥२॥  
 ब्रह्मागमनम्॥**
 
@@ -876,8 +813,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तस्याभ्याशे तु मिथुनं चरन्तमनपायिनम् ।  
 ददर्श भगवांस्तत्र क्रौञ्चयोश्चारुनिस्वनम्॥९॥
 
-
-
 तस्मात्तु मिथुनादेकं पुमांसं पापनिश्चयः ।  
 जघान वैरनिलयो निषादस्तस्य पश्यतः ॥१०॥  
 तं शोणितपरीताङ्गं वेष्टमानं महीतले ।  
@@ -903,8 +838,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 पादबद्धोऽक्षरसमस्तन्त्रीलयसमन्वितः ।  
 शोकार्तस्य प्रवृत्तो मे श्लोको भवतु नान्यथा ॥१८॥
-
-
 
 शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम् ।  
 प्रतिजग्राह संहृष्टस्तस्य तुष्टोऽभवद्गुरुः॥११॥
@@ -934,8 +867,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 उपविष्टे तदा तस्मिन् साक्षाल्लोकपितामहे ।  
 तद्गतेनैव मनसा वाल्मीकिर्ध्यानमास्थितः॥२८॥
-
-
 
 पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना।  
 यस्तादृशं चारुरवं क्रौञ्चंहन्यादकारणात्॥२९॥
@@ -967,8 +898,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 यावद्रामस्य च कथा त्वत्कृता प्रचरिष्यति ।  
 तावदूर्ध्वमधश्च त्वं मल्लोकेषु निवत्स्यसि॥३८॥
 
-
-
 इत्युक्त्वा भगवान् ब्रह्मा तत्रैवान्तरधीयत ।  
 ततः सशिष्यो भगवान् मुनिर्विस्मयमाययौ ॥३९॥
 
@@ -996,8 +925,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 आदितः श्लोकाः 144
 
 ![](../books_images/U-IMG-1699372436Screenshot2023-11-06232243.png)
-
-
 
 **तृतीयः सर्गः॥३॥  
 रामचरित्रापरोक्षीकरणम्॥**
@@ -1029,8 +956,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 यथावत् कथितं पूर्वं नारदेन महर्षिणा ।  
 रघुवंशस्य चरितं चकार भगवानृषिः॥९॥
 
-
-
 जन्म रामस्य सुमहद्वीर्यं सर्वानुकूलताम् ।  
 लोकस्य प्रियतां क्षान्तिं सौम्यतां सत्यशीलताम् ॥१०॥
 
@@ -1059,8 +984,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अनसूयासमस्यां च अङ्गरागस्य चार्पणम्॥१८॥
 
 अगस्त्यदर्शनं चैव दर्शनं च जटायुषः॥१९॥
-
-
 
 शूर्पणख्याश्च संवादंविरूपकरणं तथा ।  
 वधं खरत्रिशिरसोरुत्थानं रावणस्य च॥२०॥
@@ -1092,8 +1015,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 सिंहिकायाश्च निधनं लङ्कामलयदर्शनम्॥  
 रात्रौ लङ्काप्रवेशं च एकस्यापि विचिन्तनम् ॥२९॥
 
-
-
 आपानभूमिगमनमवरोधस्य दर्शनम् ।  
 दर्शनं रावणस्यापि पुष्पकस्य च दर्शनम्॥३०॥
 
@@ -1123,8 +1044,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अयोध्यायाश्च गमनं भरतेन समागमम् ।  
 रामाभिषेकाभ्युदयं सर्वसैन्यविसर्जनम् ॥  
 स्वराष्ट्ररञ्जनं चैव वैदेह्याश्च विसर्जनम्॥३९॥
-
-
 
 अनागतं च यत्किञ्चिद्रामस्य वसुधातले ।  
 तच्चकारोत्तरे काव्ये वाल्मीकिर्भगवानृषिः ॥४०॥
@@ -1156,8 +1075,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 स तु मेधाविनौ दृष्ट्वा वेदेषु परिनिष्ठितौ ।  
 वेदोपबृंहणार्थाय तावग्राहयत प्रभुः॥६॥
 
-
-
 काव्यं रामायणं कृत्स्नं सीतायाश्चरितं महत् ।  
 पौलस्त्यवधमित्येव चकार चरितव्रतः॥७॥
 
@@ -1185,8 +1102,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 तच्छ्रुत्वा मुनयः सर्वे बाष्पपर्याकुलेक्षणाः ।  
 साधु साध्विति तावूचुः परं विस्मयमागताः ॥१५॥
-
-
 
 ते प्रीतमनसः सर्वे मुनयो धर्मवत्सलाः ।  
 प्रशशंसुः प्रशस्तव्यौ गायमानौ कुशीलवौ ॥१६॥
@@ -1219,8 +1134,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 आयुष्यमपरे प्राहुर्मुदा तत्र महर्षयः ।  
 ददुश्चैव वरान् सर्वे मुनयः सामवादिनः॥२५॥
 
-
-
 आश्चर्यमिदमाख्यानं मुनिना संप्रकीर्तितम् ।  
 परं कवीनामाधारं समाप्तं च यथाक्रमम्॥२६॥
 
@@ -1248,8 +1161,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ह्लादयत्सर्वगात्राणि मनांसि हृदयानि च ।  
 श्रोत्राश्रयसुखं गेयं तद्बभौ जनसंसदि ॥३४॥
-
-
 
 इमौ मुनी पार्थिवलक्षणान्वितौ कुशीलवौ चैव महातपस्विनौ ।  
 ममापि तद्भूतिकरं प्रचक्ष्यते महानुभावं चरितं निबोधत ॥
@@ -1282,8 +1193,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 कोसलो नाम मुदितः स्फीतो जनपदो महान् ।  
 निविष्टःसरयूतीरे प्रभूतधनधान्यवान्॥५॥
 
-
-
 अयोध्या नाम नगरी तत्रासील्लोकविश्रुता ।  
 मनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम्॥६॥
 
@@ -1313,8 +1222,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 प्रासादै रत्नविकृतैः पर्वतैरिव शोभिताम् ।  
 कूटागारैश्च संपूर्णामिन्द्रस्येवामरावतीम्॥१५॥
-
-
 
 चित्रामष्टापदाकारां वरनारीगणैर्युताम् ।  
 सर्वरत्नसमाकीर्णांविमानगृहशोभिताम्॥१६॥
@@ -1349,8 +1256,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ![](../books_images/U-IMG-1699383952Screenshot2023-11-06232243.png)
 
-
-
 अयोध्या नाम नगरी तत्रासील्लोकविश्रुता ।  
 मनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम्॥६॥
 
@@ -1381,8 +1286,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 प्रासादै रत्नविकृतैः पर्वतैरिव शोभिताम् ।  
 कूटागारैश्च संपूर्णामिन्द्रस्येवामरावतीम्॥१५॥
 
-
-
 चित्रामष्टापदाकारां वरनारीगणैर्युताम् ।  
 सर्वरत्नसमाकीर्णांविमानगृहशोभिताम्॥१६॥  
 गृहगाढामविच्छिद्रां समभूमौ निवेशिताम् ।  
@@ -1406,8 +1309,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे पञ्चमः सर्गः ॥  
 आदितः लोकाः 244.  
 ![](../books_images/U-IMG-1700717997Screenshot2023-11-06232243.png)
-
-
 
 षष्ठः सर्गः॥६॥  
 दशरथस्य राज्यपरिपालनम्॥
@@ -1439,8 +1340,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 सर्वे नराश्च नार्यश्च धर्मशीलाःसुसंवृताः ।  
 उदिताःशीलवृत्ताभ्यां महर्षय इवामलाः॥९॥
 
-
-
 नाकुण्डली नामकुटी नास्रग्वी नाल्पभोगवान्।  
 नामृष्टो नानुलिप्ताङ्गो नासुगन्धश्च विद्यते॥१०॥
 
@@ -1470,8 +1369,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 क्षत्रं ब्रह्ममुखं चासीद्वैश्याः क्षत्रमनुव्रताः ।  
 शूद्राः स्वकर्मनिरतास्त्रीन् वर्णानुपचारिणः॥१९॥
-
-
 
 सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता ।  
 यथा पुरस्तान्मनुना मानवेन्द्रेण धीमता॥२०॥
@@ -1507,8 +1404,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ![](../books_images/U-IMG-1699385569Screenshot2023-11-06232243.png)
 
-
-
 सप्तमः सर्गः॥७॥  
 मन्त्रिवर्णनम्॥
 
@@ -1538,8 +1433,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 कुशला व्यवहारेषु सौहृदेषु परीक्षिताः ।  
 प्राप्तकाले यथादण्डं धारयेयुः सुतेष्वपि॥९॥
 
-
-
 कोशसंग्रहणे युक्ता बलस्य च परिग्रहे ।  
 अहितं चापि पुरुषं न विहिंस्युरदूषकम्॥१०॥
 
@@ -1568,8 +1461,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 नीतिशास्त्रविशेषज्ञाः सततं प्रियवादिनः ।  
 ईदृशैस्तैरमात्यैश्च राजा दशरथोऽनघः ।  
 उपपन्नगुणोपेतैरन्वशासद्वसुन्धराम्॥१८॥
-
-
 
 अवेक्षमाणश्चारेण प्रजा धर्मेण रञ्जयन् ।  
 प्रजानां पालनं कुर्वन्नधर्मं परिवर्जयन्॥१९॥
@@ -1602,8 +1493,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 सुनिश्चितां मतिं कृत्वा यष्टव्यमिति बुद्धिमान् ।  
 मन्त्रिभिः सह धर्मात्मा सर्वैरेव कृतात्मभिः॥३॥
 
-
-
 ततोऽब्रवीदिदं राजा सुमन्त्रं मन्त्रिसत्तमम् ।  
 शीघ्रमानय मे सर्वान् गुरूंस्तान् सपुरोहितान् ॥४॥
 
@@ -1633,8 +1522,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 सर्वथा प्राप्स्यसे पुत्रानभिप्रेतांश्च पार्थिव ।  
 यस्य ते धार्मिकी बुद्धिरियं पुत्रार्थमागता॥१२॥
-
-
 
 ततः प्रीतोऽभवद्राजा श्रुत्वैतद्द्विजभाषितम् ।  
 अमात्यांश्चाब्रवीद्राजा हर्षपर्याकुलेक्षणः॥१३॥
@@ -1666,8 +1553,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्युक्त्वा नृपशार्दूलःसचिवान् समुपस्थितान् ।  
 विसर्जयित्वा स्वं वेश्म प्रविवेश महाद्युतिः॥२२॥
 
-
-
 ततः स गत्वा ताः पत्नीर्नरेन्द्रो हृदयप्रियाः ।  
 उवाच दीक्षां विशत यक्ष्येऽहं सुतकारणात् ॥२३॥
 
@@ -1694,8 +1579,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 स वने नित्यसंवृद्धो मुनिर्वनचरस्तदा ।  
 नान्यं जानाति विप्रेन्द्रो नित्यं पित्रनुवर्तनात् ॥४॥
-
-
 
 द्वैविध्यं ब्रह्मचर्यस्य भविष्यति महात्मनः ।  
 लोकेषु प्रथितं राजन् विप्रैश्च कथितं सदा॥५॥
@@ -1727,8 +1610,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ततो राजा विनिश्चित्य सह मन्त्रिभिरात्मवान् ।  
 पुरोहितममात्यांश्चप्रेषयिष्यति सत्कृतान् ॥१४॥
 
-
-
 ते तु राज्ञो वचः श्रुत्वा व्यथिता विनताननाः।  
 न गच्छेम ऋषेर्भीता अनुनेष्यन्ति तं नृपम् ॥१५॥
 
@@ -1750,7 +1631,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ![](../books_images/U-IMG-1699422285Screenshot2023-11-06232243.png)  
 
-
 दशमः सर्गः ॥१०॥  
 ऋश्यश्रृङ्गानयनकथनम् ॥
 
@@ -1759,8 +1639,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 रोमपादमुवाचेदं सहामात्यं पुरोहितः ।  
 उपायो निरपायोऽयमस्माभिरभिचिन्तितः ॥२॥
-
-
 
 ऋश्यशृङ्गो वनचरस्तपस्वाध्यायने रतः ।  
 अनभिज्ञः स नारीणां विषयाणां सुखस्य च॥३॥
@@ -1792,8 +1670,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 कस्त्वं किं वर्तसे ब्रह्मन ज्ञातुमिच्छामहे वयम् ।  
 एकस्त्वं विजने घोरे वने चरसि शंस नः ॥१२॥
 
-
-
 अदृष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः ।  
 हार्दात्तस्य मतिर्जाता आख्यातुं पितरं स्वकम् ॥१३॥
 
@@ -1823,8 +1699,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 आपृच्छ्य च तदा विप्रंव्रतचर्यां निवेद्य च ।  
 गच्छन्ति स्मापदेशात्ता भीतास्तस्य पितुः स्त्रियः ॥२२॥
-
-
 
 गतासु तासु सर्वासु काश्यपस्यात्मजो द्विजः ।  
 अस्वस्थहृदयश्वासीद्दुःखात् संपरिवर्तते॥२३॥
@@ -1856,8 +1730,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अन्तःपुरं प्रविश्यास्मै कन्यां दत्त्वा यथाविधि।  
 शान्तां शान्तेन मनसा राजा हर्षमवाप सः ॥३१॥
 
-
-
 एवं स न्यवसत्तत्र सवेकामःसुपूजितः ।  
 ऋश्यशृङ्गो महातेजाः शान्तया सह भार्यया ॥३२॥
 
@@ -1885,8 +1757,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 श्रुत्वा राज्ञोऽथ तद्वाक्यं मनसा स विचिन्त्य च ।  
 प्रदास्यते पुत्रवन्तं शान्ताभर्तारमात्मवान् ॥६॥
-
-
 
 प्रतिगृह्य च तं विमं स राजा विगतज्वरः ।  
 आहरिष्यति तं यज्ञं प्रहृष्टेनान्तरात्मना॥७॥
@@ -1918,8 +1788,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ततो राजा यथान्यायं पूजां चक्रे विशेषतः ।  
 सखित्वात्तस्य वै राज्ञः प्रहृष्टेनान्तरात्मना॥१६॥
 
-
-
 रोमपादेन चाख्यातमृषिपुत्राय धीमते ।  
 सख्यं संबन्धकं चैव तदा तं प्रत्यपूजयत्॥१७॥
 
@@ -1950,8 +1818,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ततः स्वलङ्कतं राजा नगरं प्रविवेश ह ।  
 शङ्खदुन्दुभिनिर्घोषैः पुरस्कृत्य द्विजोत्तमम् ॥२६॥
 
-
-
 ततः प्रमुदिताः सर्वे दृष्ट्वातं नागरा द्विजम् ।  
 प्रवेश्यमानं सत्कृत्य नरेन्द्रेणेन्द्रकर्मणा॥२७॥
 
@@ -1979,8 +1845,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 तथेति च स राजानमुवाच च सुसत्कृतः ।  
 संभाराःसंभ्रियन्तां ते तुरगश्च विमुच्यताम् ॥३॥
-
-
 
 ततो राजाऽब्रवीद्वाक्यं सुमन्त्रं मन्त्रिसत्तमम् ।  
 सुमन्त्रावाहय क्षिप्रमृत्विजो ब्रह्मवादिनः॥४॥
@@ -2012,8 +1876,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ततः प्रीतोऽभवद्राजा श्रुत्वैतद्द्विभाषितम् ।  
 अमात्यांश्चाब्रवीद्राजा हर्षेणेदं शुभाक्षरम्॥१३॥
 
-
-
 गुरूणां वचनाच्छीघ्रं संभाराःसंभ्रियन्तु मे ।  
 समर्थाधिष्ठितश्चाश्वः सोपाध्यायो विमुच्यताम् ॥१४॥
 
@@ -2041,8 +1903,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे द्वादशः सर्गः ॥  
 आदितः लोकाः421
-
-
 
 त्रयोदशः सर्गः॥१३॥  
 यज्ञशालाप्रवेशः॥
@@ -2075,8 +1935,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 औपकार्याः क्रियन्तां च राज्ञां बहुगुणान्विताः ।  
 ब्राह्मणावसथाश्चैव कर्तव्याः शतशःशुभाः॥९॥
 
-
-
 भक्ष्यान्नपानैर्बहुभिः समुपेताःसुनिष्ठिताः ।  
 तथा पौरजनस्यापि कर्तव्या बहुविस्तराः॥१०॥
 
@@ -2104,8 +1962,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ब्राह्मणान् क्षत्रियान् वैश्यान् शूद्रांश्चैव सहस्रशः।  
 समानयस्व सत्कृत्य सर्वदेशेषु मानवान् ॥१८॥
-
-
 
 मिथिलाधिपतिं वीरं जनकं सत्यविक्रमम् ।  
 निष्ठितं सर्वशास्त्रेषु तथा वेदेषु निष्ठितम्॥१९॥
@@ -2137,8 +1993,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ते च कर्मान्तिकाः सर्वे वसिष्ठाय च धीमते ।  
 सर्वंनिवेदयन्ति स्म यज्ञे यदुपकल्पितम्॥२८॥
 
-
-
 ततः प्रीतो द्विजश्रेष्ठस्तान् सर्वानिदमब्रवीत् ॥२९॥
 
 अवज्ञया न दातव्यं कस्यचिल्लीलयापि वा ।  
@@ -2168,8 +2022,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे त्रयोदशः सर्गः ॥  
 आदितः श्लोकाः458
-
-
 
 चतुर्दशः सर्गः॥१४॥  
 अश्वमेधयजनम्॥
@@ -2201,8 +2053,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 न तेष्वहस्सु श्रान्तो वा क्षुधितो वाऽपि दृश्यते ।  
 नाविद्वान् ब्राह्मणस्तत्र नाशतानुचरस्तथा॥९॥
 
-
-
 ब्राह्मणा भुजते नित्यं नाथवन्तश्च भुञ्जते ।  
 तापसा भुञ्जते वाऽपि श्रमणा भुञ्जते तथा॥१०॥
 
@@ -2233,8 +2083,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 नाषडङ्गविदत्रसीन्नाव्रतो नाबहुश्रुतः ।  
 सदस्यास्तस्य वै राज्ञो नावादकुशला द्विजाः ॥१९॥
 
-
-
 प्राप्ते यूपोच्छ्रये तस्मिन् षड्बैल्वाःखादिरास्तथा ।  
 तावन्तो बिल्वसहिताः पर्णिनश्च तथापरे॥२०॥
 
@@ -2264,8 +2112,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 स चित्यो राजसिंहस्य सञ्चितः कुशलैर्द्विजैः ।  
 गरुडो रुक्मपक्षो वै त्रिगुणोऽष्टादशात्मकः॥२९॥
-
-
 
 नियुक्तास्तत्र पशवस्तत्तदुद्दिश्य दैवतम् ।  
 उरगाःपक्षिणश्चैव यथाशास्त्रं प्रचोदिताः॥३०॥
@@ -2299,8 +2145,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 प्लक्षशाखासु यज्ञानामन्येषां क्रियते हविः ।  
 अश्वमेधस्य चैकस्य वतसो भाग इष्यते॥३९॥
 
-
-
 त्र्यहोऽश्वमेधः संख्यातः कल्पसूत्रेण ब्राह्मणैः ।  
 अग्निष्टोममहस्तस्य प्रथमं परिकल्पितम्॥  
 उक्थ्यं द्वितीयं संख्यातमतिरात्रं तथोत्तरम् ॥ ४० ॥  
@@ -2327,8 +2171,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 मणिरत्नं सुवर्णं वा गावो यद्वा समुद्यतम् ।  
 तत् प्रयच्छ नरश्रेष्ठ धरण्या न प्रयोजनम्॥४८॥
-
-
 
 एवमुक्तो नरपतिर्ब्राह्मणैर्वेदपारगैः ।  
 गवां शतसहस्राणि दश तेभ्यो ददौ नृपः॥४९॥
@@ -2359,8 +2201,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ततोऽब्रवीदृश्यशृङ्गं राजा दशरथस्तदा ।  
 कुलस्य वर्धनं तन्तुं कर्तुमर्हसि सुव्रत॥५८॥
 
-
-
 तथेति च स राजानमुवाच द्विजसत्तमः ।  
 भविष्यन्ति सुता राजंश्चत्वारस्ते कुलोद्वहाः ॥५९॥
 
@@ -2387,8 +2227,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ततो देवाःसगन्धर्वाः सिद्धाश्च परमर्षयः ।  
 भागप्रतिग्रहार्थं वै समवेता यथाविधि॥४॥
-
-
 
 ताः समेत्य यथान्यायं तस्मिन् सदसि देवताः ।  
 अब्रुवंल्लोककर्तारं ब्रह्माणं वचनं महत्॥५॥
@@ -2419,8 +2257,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 नाकीर्तयदवज्ञानात्तद्रक्षो मानुषान् प्रति ।  
 तस्मात् स मानुषाद्बध्यो मृत्युर्नान्योऽस्य विद्यते ॥१४॥
-
-
 
 एतच्छ्रुत्वा प्रिंयं वाक्यं ब्रह्मणा समुदाहृतम् ।  
 सर्वे महर्षयो देवाः प्रहृष्टास्तेऽभवंस्तदा॥१५॥
@@ -2453,8 +2289,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ऋषयस्तु ततः सर्वे गन्धर्वाप्सरसस्तथा ।  
 क्रीडन्तो नन्दनवने रौद्रेण किल हिंसिताः ॥२४॥
 
-
-
 वधार्थं वयमायातास्तस्य वै मुनिभिः सह ।  
 सिद्धगन्धर्वयक्षाश्च ततस्त्वां शरणं गताः॥२५॥
 
@@ -2485,8 +2319,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 त्वमुद्धतं रावणमुग्रतेजसं प्रवृद्धर्पं त्रिदशेश्वरद्विषम् ।  
 विरावणं साधु तपस्विकण्टकं तपस्विनामुद्धर तं भयावहम्॥
 
-
-
 तमेव हत्वा सबलं सबान्धवं विरावणं रावणमुग्रपौरुषम् ।  
 स्वर्लोकमागच्छ गतज्वरश्चिरं सुरेन्द्रगुप्तं गतदोषकल्मषम् ॥
 
@@ -2515,8 +2347,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 अवज्ञाताःपुरा तेन वरदाने हि मानवाः॥६॥
 
-
-
 एवं पितामहात्तस्मादरं प्राप्य स दर्पितः ।  
 उत्सादयति लोकांस्त्रीन् स्त्रियश्चाप्यपकर्षति॥  
 तस्मातस्य वधो दृष्टो मानुषेभ्यः परन्तप॥७॥
@@ -2544,8 +2374,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ताराधिपतिकल्पेन हारेणोरसि राजितम् ।  
 ताराधिपतिकल्पैश्च दन्तैः परमशोभितम्॥१५॥
-
-
 
 ज्वलन्निव च तेजोभिर्दीपयन्निव च श्रिया।  
 तप्तजाम्बूनदमयीं राजतान्तपरिच्छदाम्॥१६॥
@@ -2576,8 +2404,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ततो दशरथः प्राप्य पायसं देवनिर्मितम् ।  
 बभूव परमप्रीतः प्राप्य वित्तमिवाधनः॥२५॥
-
-
 
 ततस्तदद्भुतप्रख्यं भूतं परमभास्वरम् ।  
 संवर्तयित्वा तत्कर्म तत्रैवान्तरधीयत॥२६॥
@@ -2610,8 +2436,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे षोडशः सर्गः ॥  
 आदितः श्लोकाः 587.
 
-
-
 सप्तदशः सर्गः॥१७॥  
 ऋक्षवानराद्युत्पत्तिः॥
 
@@ -2641,8 +2465,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ऋषयश्च महात्मानः सिद्धविद्याधरोरगाः ।  
 चारणाश्च सुतान् वीरान् ससृजुर्वनचारिणः॥९॥
-
-
 
 वानरेन्द्रं महाभागमिन्द्रो वालिनमूर्जितम् ।  
 सुग्रीवं जनयामास तपनस्तपतां वरः॥१०॥
@@ -2674,8 +2496,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ते गजाचलसङ्काशा वपुष्मन्तो महाबलाः ।  
 ऋक्षवानरगोपुच्छाः क्षिप्रमेवाभिजज्ञिरे॥१९॥
 
-
-
 यस्य देवस्य यद्रूपं वेषो यत्र पराक्रमः ।  
 अजायत समस्तेन तस्य तस्य सुतः पृथक्॥२०॥
 
@@ -2706,8 +2526,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 गृह्णीयुरपि मातङ्गान् मत्तान् प्रव्रजितान् वने।  
 नर्दमानाश्च नादेन पातयेयुर्विहङ्गमान् ॥२८॥
 
-
-
 ईदृशानां प्रसूतानि हरीणां कामरूपिणाम् ।  
 शतं शतसहस्राणि यूथपानां महात्मनाम्॥३०॥
 
@@ -2736,8 +2554,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे सप्तदशः सर्गः ॥  
 आदितः श्लोकाः 624.
-
-
 
 अष्टादशः सर्गः॥१८॥  
 श्रीरामावतारः॥
@@ -2768,8 +2584,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ततश्च द्वादशे मासे चैत्रे नावमिके तिथौ ।  
 नक्षत्रेऽदितिदैवत्ये स्वोच्चसंस्थेषु पञ्चसु॥९॥
 
-
-
 ग्रहेषु कर्कटे लग्ने वाक्पताविन्दुना सह ।  
 प्रोद्यमाने जगन्नाथं सर्वलोकनमस्कृतम्॥१०॥
 
@@ -2798,8 +2612,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 रथ्याश्च जनसंबाधा नटनर्तकसंकुलाः ।  
 गायकैश्च विराविण्यो वादकैश्च तथाऽपरैः॥१९॥
-
-
 
 प्रदेयांश्च ददौ राजा सूतमागधवन्दिनाम् ।  
 ब्राह्मणेभ्यो ददौ वित्तं गोधनानि सहस्रशः॥  
@@ -2831,8 +2643,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 सर्वप्रियकरस्तस्य रामस्यापि शरीरतः ।  
 लक्ष्मणो लक्ष्मिसंपन्नो बहिःप्राण इवापरः॥२८॥
 
-
-
 न च तेन विना निद्रां लभते पुरुषोत्तमः ।  
 मृष्टमन्नमुपानीतमश्नाति न हि तं विना॥२९॥
 
@@ -2863,8 +2673,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 स राज्ञो दर्शनाकाङ्क्षी द्वाराध्यक्षानुवाच ह ।  
 शीघ्रमाख्यात मां प्राप्तं कौशिकं गाधिनन्दनम् ॥३८॥
 
-
-
 तच्छ्रुत्वा वचनं तस्य राज्ञो वेश्मप्रदुद्रुवुः ।  
 संभ्रान्तमनसः सर्वे तेन वाक्येन चोदिताः ॥३९॥
 
@@ -2894,8 +2702,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 अथ हृष्टमना राजा विश्वामित्रं महामुनिम् ।  
 उवाच परमोदारो हृष्टः समभिपूजयन्॥४८॥
-
-
 
 यथाऽमृतस्य संप्राप्तिर्यथा वर्षमनूदके ।  
 यथा सदृशदारेषु पुत्रजन्म प्रशस्यते॥४९॥
@@ -2929,8 +2735,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे अष्टादशः सर्गः ॥  
 आदितः श्लोकाः682
 
-
-
 एकोनविंशः सर्गः ॥१९॥  
 विश्वामित्रेण श्रीरामयाचनम् ॥
 
@@ -2959,8 +2763,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 स्वपुत्रं राजशार्दूल रामं सत्यपराक्रमः।  
 काकपक्षघरं वीरं ज्येष्ठं मे दातुमर्हसि॥९॥
-
-
 
 शक्तो ह्येष मया गुप्तो दिव्येन स्वेन तेजसा ।  
 राक्षसा येऽपकर्तारस्तेषामपि विनाशने॥१०॥
@@ -2992,8 +2794,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अभिप्रेतमसंसक्तमात्मजं दातुमर्हसि ।  
 दशरात्रं हि यज्ञस्य रामं राजीवलोचनम्॥१९॥
 
-
-
 नात्येति कालो यज्ञस्य यथाऽयं मम राघव ।  
 तथा कुरुष्व भद्रं ते मा च शोके मनः कृथाः ॥२०॥
 
@@ -3021,8 +2821,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 उनषोडशवर्षो मे रामो राजीवलोचनः ।  
 न युद्धयोग्यतामस्य पश्यामि सह राक्षसैः॥२॥
-
-
 
 इयमक्षौहिणी पूर्णा यस्याहं पतिरीश्वरः ।  
 अनया संवृतो गत्वा योद्धाऽहं तैर्निशाचरैः॥३॥
@@ -3052,8 +2850,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 चतुर्णामात्मजानां हि प्रीतिःपारमिका मम ।  
 ज्येष्टं धर्मप्रधानं च न रामं नेतुमर्हसि॥११॥
 
-
-
 किंवीर्या राक्षसास्ते च कस्य पुत्राश्च के च ते ।  
 कथंप्रमाणाःके चैतान् रक्षन्ति मुनिपुङ्गव ॥१२॥
 
@@ -3082,8 +2878,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 स त्वं प्रसादं धर्मज्ञ कुरुष्व मम पुत्रके ।  
 मम चैवाल्पभाग्यस्य दैवतं हि भवान् गुरुः॥२१॥
 
-
-
 देवदानवगन्धर्वा यक्षाः पतगपन्नगाः ।  
 न शक्ता रावणं सोढुं किं पुनर्मानवा युधि॥२५॥
 
@@ -3111,8 +2905,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे विंशः सर्गः ॥  
 आदितः श्लोकाः 733
-
-
 
 एकविंशः सर्गः ॥२१॥  
 वसिष्ठवचनाद्रामप्रेषणः ॥
@@ -3144,8 +2936,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 कृतास्त्रमकृतास्त्रं वा नैनं शक्ष्यन्ति राक्षसाः ।  
 गुप्तं कुशिकपुत्रेण ज्वलनेनामृतं यथा॥९॥
 
-
-
 एष विग्रहवान्धर्म एष वीर्यवतां वरः ।  
 एष बुध्याऽधिको लोके तपसश्च परायणम् ॥१०॥
 
@@ -3173,8 +2963,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तानि चास्त्राणि वेत्त्येष यथावत् कुशिकात्मजः।  
 अपुर्वाणां च जनने शक्तो भूयश्च धर्मवित्॥१८॥
 
-
-
 **एवंवीर्यो महातेजा विश्वामित्रो महायशाः ।  
 तेनास्य मुनिमुख्यस्य धर्मज्ञस्य महात्मनः॥१९॥**
 
@@ -3196,8 +2984,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे प्रथमेऽह्नि वर्तमानकथाप्रसङ्गः ॥
 
 ![](../books_images/U-IMG-1699630533Screenshot2023-11-06232243.png)
-
-
 
 \[पुरा कुशलवाभ्यां श्रीरामसन्निधावश्वमेधयज्ञवाटे  
 द्वात्रिंशति दिनेषु गीते श्रीमद्रामायणे द्वितीयेऽह्नि  
@@ -3229,8 +3015,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 कलापिनौ धनुष्पाणी शोभयानौ दिशोदश ।  
 विश्वामित्रं महात्मानं पञ्चशीर्षाविवोरगौ॥७॥
 
-
-
 तदा कुशिकपुत्रं तु धनुष्पाणी स्खलङ्कृतौ ।  
 बद्धगोधाङ्गुलित्राणौ खड्गवन्तौ महाद्युती॥८॥
 
@@ -3259,8 +3043,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 क्षुत्पिपासे न ते राम भविष्येते नरोत्तम ।  
 बलामतिबलां चैव पठतः पथि राघव॥१६॥
 
-
-
 अर्हणां सर्वलोकस्य प्राप्स्यसे रघुनन्दन ।  
 विद्याद्वयमधीयानो यशस्वी च भवेद्भुवि॥१७॥
 
@@ -3288,12 +3070,8 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे द्वाविंशः सर्गः ॥  
 आदितः श्लोकाः 778
 
-
-
 त्रयोविंशः सर्गः ॥२३॥  
 कामाश्रयगमनम् ॥
-
-
 
 प्रभातायां तु शर्वर्यांविश्वामित्रो महामुनिः ।  
 अभ्यभाषत काकुत्स्थं शयानं पर्णसंस्तरे॥१॥
@@ -3321,8 +3099,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 तयोस्तद्वचनं श्रुत्वा प्रहस्य मुनिपुङ्गवः ।  
 अब्रवीच्छ्रूयतां राम यस्यायं पूर्व आश्रमः॥९॥
-
-
 
 कन्दर्पो मूर्तिमानासीत् काम इत्युच्यते बुधैः ॥१०॥
 
@@ -3353,8 +3129,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तेषां संवदतां तत्र तपोदीर्घेणचक्षुषा ।  
 विज्ञाय परमप्रीता मुनयो हर्षमागमन्॥१९॥
 
-
-
 अर्ध्यं पाद्यं तथाऽऽतिथ्यं निवेद्य कुशिकात्मजे ।  
 रामलक्ष्मणयोः पश्चादकुर्वन्नतिथिक्रियां॥२०॥
 
@@ -3381,8 +3155,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 आरोहतु भवान्नावं राजपुत्रपुरस्कृतः ।  
 अरिष्टं गच्छ पन्थानं मा भूत् कालविपर्ययः॥३॥
-
-
 
 विश्वामित्रस्तथेत्युक्त्वा तानृषीनभिपूज्य च ।  
 ततार सहितस्ताभ्यां सरितं सागरङ्गमाम्॥४॥
@@ -3414,8 +3186,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अहो वनमिदं दुर्गंझिल्लिकागणनादितम् ।  
 भैरवैः श्वापदैः पूर्णं शकुन्तैर्दारुणस्वनैः॥१३॥
 
-
-
 **नानाप्रकारैः शकुनैर्वाश्यद्भिर्भैरवैः स्वनैः ।  
 सिंहव्याघ्रवराहैश्च वारणैश्चोपशोभितम्॥१४॥**
 
@@ -3445,8 +3215,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 **साधु साध्विति तं देवाः पाकशासनमब्रुवन् ।  
 देशस्य पूजां तां दृष्ट्वा कृतां शक्रेण धीमता ॥२३॥**
-
-
 
 एतौ जनपदौ स्फीतौदीर्घकालमरिन्दम् ।  
 मलदाश्च करूशाश्च मुदितौ धनधान्यतः॥२४॥
@@ -3479,8 +3247,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे चतुर्विंशः सर्गः ॥  
 आदितः श्लोकाः 518
 
-
-
 पञ्चविंशः सर्गः॥२५॥  
 ताटकावधचोदना॥
 
@@ -3510,8 +3276,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 कस्यचित्त्वथ कालस्य यक्षी पुत्रं व्यजायत ।  
 मारीचं नाम दुर्धर्ष यः शापाद्राक्षसोऽभवत्॥९॥
-
-
 
 सुन्दे तु निहते राम साऽगस्त्यमृषिसत्तमम् ।  
 ताटका सह पुत्रेण प्रधर्षयितुमिच्छति॥१०॥
@@ -3544,8 +3308,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 नृशंसमनृशंसं वा प्रजारक्षणकारणात् ।  
 पातकं वा सदोषं वा कर्तव्यं रक्षता सताम् ॥२०॥
 
-
-
 राज्यभारनियुक्तानामेष धर्मः सनातनः ।  
 अधर्म्यां जहि काकुत्स्थ धर्मो ह्यस्या न विद्यते ॥२१॥
 
@@ -3574,8 +3336,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 अनुशिष्टोऽस्म्ययोध्यायां गुरुमध्ये महात्मना।  
 पित्रा दशरथेनाहं नावज्ञेयं च तद्वचः॥३॥
-
-
 
 सोऽहं पितुर्वचः श्रुत्वा शासनाद्ब्रह्मवादिनः।  
 करिष्यामि न सन्देहस्ताटकावधमुत्तमम्॥४॥
@@ -3607,8 +3367,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 एवं ब्रुवाणे रामे तु ताटका क्रोधमूर्च्छिता।  
 उद्यम्य बाहू गर्जन्ती राममेवाभ्यधावत ॥१३॥
 
-
-
 विश्वामित्रस्तु ब्रह्मर्षिहुङ्कारेणाभिभर्त्स्य ताम् ।  
 स्वस्ति राघवयोरस्तु जयं चैवाभ्यभाषत॥१४॥
 
@@ -3636,8 +3394,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ततस्तावश्मवर्षेण कीर्यमाणौ समन्ततः ।  
 दृष्ट्वा गाधिसुतः श्रीमानिदं वचनमब्रवीत्॥२२॥
-
-
 
 अलं ते घृणया राम पापैषा दुष्टचारिणी ।  
 यज्ञविघ्नकरी यक्षी पुरा वर्धेत मायया॥२३॥
@@ -3668,8 +3424,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 पात्रभूतश्च ते ब्रह्मंस्तवानुगमने धृतः ।  
 सुराणां च महत् कर्म कर्तव्यं राजसूनुना॥३२॥
-
-
 
 एवमुक्त्वा सुराः सर्वे जग्मुर्हृष्टा यथागतम् ।  
 विश्वामित्रं पूजयित्वा ततः सन्ध्या प्रवर्तते॥३३॥
@@ -3704,8 +3458,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 .
 
-
-
 सप्तर्विशः सर्गः ॥२७॥  
 अस्त्रोपदेशः ॥
 
@@ -3736,8 +3488,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 धर्मपाशं महद्राम कालपाशं तथैव च ।  
 वारुणं पाशमस्त्रं च ददाम्यहमनुत्तमम्॥९॥
 
-
-
 अशनी द्वे प्रयच्छामि शुष्कार्द्रे रघुनन्दन ।  
 ददामि चास्त्रं पैनाकमस्त्रं नारायणं तथा॥१०॥
 
@@ -3765,8 +3515,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 तामसं नरशार्दूल सौमनं च महाबल ।  
 संवर्तं चैव दुर्धर्षंमौसलं च नृपात्मज॥१८॥
-
-
 
 सत्यमस्त्रं महाबाहो तथा मायाधरं परम् ।  
 सौरं तेजःप्रभं नाम परतेजोऽपकर्षणम्॥१९॥
@@ -3799,8 +3547,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे सप्तविंशः सर्गः ॥  
 आदितः श्लोकाः 925
 
-
-
 अष्टाविंशः सर्गः॥२८॥  
 अस्त्रोपसंहारोपदेशः॥
 
@@ -3832,8 +3578,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 कामरूपं कामरूचिं मोहनं मारणं तथा ।  
 जृंभकं सर्वनाभं च सन्धानवरुणावुभौ॥९॥
 
-
-
 भृशाश्वतनयान् राम भास्वरान् कामरूपिणः ।  
 प्रतीच्छ मम भद्रं ते पात्रभूतोसि राघव॥१०॥
 
@@ -3862,8 +3606,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 किञ्चैतन्मेघसङ्काशं पर्वतस्याविदूरतः ।  
 वृक्षषण्डमितो भाति परं कौतूहलं हि मे॥१८॥
-
-
 
 दर्शनीयं मृगाकीर्णं मनोहरमतीव च ।  
 नानाप्रकारैः शकुनैःबल्गुभाषैरलङ्कृतम्॥१९॥
@@ -3897,8 +3639,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अदृश्यः सर्वभूतानां सर्वात्मा सर्वलोकभृत्॥  
 मोहनार्थ तु लोकस्य सर्वेषां जगतः प्रभुः॥२॥
 
-
-
 वर्षाणि सुबहूनीह तथा युगशतानि च ।  
 तपश्चरणयोगार्थमुवास स महातपाः॥३॥
 
@@ -3929,8 +3669,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 देवीसहायो भगवान् दिव्यं वर्षसहस्रकम् ।  
 व्रतं समाप्य वरदं तुष्टाव मधुसूदनम्॥१२॥
 
-
-
 तपोमयं तपोराशिं तपोमूर्तिं तपात्मकम् ।  
 तपसा त्वां सुतप्तेन पश्यामि पुरुषोत्तमम्॥१३॥
 
@@ -3959,8 +3697,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 छत्री भिक्षुकरूपेण कमण्डलुशिखोज्ज्वलः॥२१॥
 
 वामनं रूपमास्थाय वैरोचनमुपागमत् ॥२२॥
-
-
 
 आसाद्य यजमानं तमुवाच भगवान् हरिः ।  
 स्वस्ति तेऽस्तु महाराज यज्ञश्चातीव शोभते ॥२३॥
@@ -3991,8 +3727,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 श्रुत्वा तद्वामनेनोक्तं स्मितं कृत्वाऽसुरोत्तमः ।  
 येनेष्टं पूर्त्यते ब्रह्मन् तत् कुर्मेति ततोब्रवीत् ॥३२॥
 
-
-
 वामनाय महीं दातुं निश्चितेऽसुरसत्तमे ।  
 तं निवार्यं महाराजं प्राह शुक्रो द्विजोत्तमः॥३३॥
 
@@ -4021,8 +3755,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 त्रीन् क्रमानथ भिक्षित्वा प्रतिगृह्य च वामनः ।  
 आक्रम्य लोकान् लोकात्मा सर्वलोकहिते रतः ॥४२॥
-
-
 
 महेन्द्राय पुनः प्रादान्नियम्य बलिमोजसा।  
 त्रैलोक्यं स महातेजाश्चक्रे शक्रवशं पुनः॥४३॥
@@ -4054,8 +3786,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अद्यैव दीक्षां प्रविश भद्रं ते मुनिपुङ्गव ।  
 सिद्धाश्रमोऽयं सिद्धः स्यात्सत्यमस्तु वचस्तव ॥५१॥
 
-
-
 एवमुक्तो महातेजा विश्वामित्रो महामुनिः ।  
 प्रविवेश तदा दीक्षां नियतो नियतेन्द्रियः ॥५२॥
 
@@ -4071,7 +3801,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ![](../books_images/U-IMG-1699692572Screenshot2023-11-06232243.png)  
 
-
 त्रिंशः सर्गः ॥३०॥  
 यज्ञसंभरणम् ॥
 
@@ -4086,8 +3815,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 अद्य प्रभृति षड्रात्रंरक्षेतां राघवावुभौ ।  
 दीक्षां गतो ह्येष मुनिर्मौनित्वं च गमिष्यति॥४॥
-
-
 
 तौ तु तद्वचनं श्रुत्वा राजपुत्रौ यशस्विनौ ।  
 अनिद्रौ षडहोरात्रं तपोवनमरक्षताम्॥५॥
@@ -4117,8 +3844,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 दृष्ट्वा वेदिं तथाभूतां राघवः क्रोधसंयुतः ।  
 सहसाऽभिद्रुतो रामस्तावपश्यत्ततो दिवि॥१३॥
 
-
-
 तावापतन्तौ सहसा दृष्ट्वाराजीवलोचनः ।  
 लक्ष्मणं चाथ संप्रेक्ष्य रामो वचनमब्रवीत्॥१४॥
 
@@ -4146,8 +3871,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 शेषान् वायव्यमादाय निजघान महायशाः ।  
 राघवः परमोदारो मुनीनां मुदमावहन्॥२२॥
-
-
 
 स हत्वा राक्षसान्सर्वान् यज्ञघ्नान्ं रघुनन्दनः ।  
 ऋषिभिः पूजितस्तत्र यथेन्द्रो विजये पुरा
@@ -4178,8 +3901,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 इमौ स्म मुनिशार्दूल किङ्करौ समुपस्थितौ ।  
 आज्ञापय यथेष्टं वै शासनं करवाव किं ॥४॥
-
-
 
 एवमुक्तास्ततस्ताभ्यां सर्व एव महर्षयः ।  
 विश्वामित्रं पुरस्कृत्य रामं वचनमब्रुवन्॥५॥
@@ -4213,8 +3934,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 एवमुक्त्वा मुनिवरः प्रस्थानमकरोत्तदा ।  
 सर्षिसङ्कःसकाकुत्स्थ आमन्त्र्य वनदेवताः ॥१४॥
 
-
-
 स्वस्ति वोऽस्तु गमिष्यामि सिद्धः सिद्धाश्रमादहम् ।  
 उत्तरे जाह्नवीतीरे हिमवन्तं शिलोच्चयम् ॥१५॥
 
@@ -4242,8 +3961,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 भगवन् को न्वयं देशः समृद्धवनशोभितः ।  
 श्रोतुमिच्छामि भद्रं ते वक्तुमर्हसि तत्त्वतः॥२३॥
-
-
 
 चोदितो रामवाक्येन कथयामास सुव्रतः ।  
 तस्य देशस्य निखिलमृषिमध्ये महातपाः ॥२४॥
@@ -4273,8 +3990,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 कुशाम्बस्तु महातेजाः कौशाम्बीमकरोत्पुरीम् ।  
 कुशनाभस्तु धर्मात्मा पुरं चक्रे महोदयम्॥५॥
-
-
 
 अधूर्तरजसो राम धर्मारण्यं महीपतिः ।  
 चक्रे पुरवरं राजा वसुश्चक्रे गिरिव्रजम्॥६॥
@@ -4306,8 +4021,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अहं वः कामये सर्वा भार्या मम भविष्यथ ।  
 मानुषस्त्यज्यतां भावो दीर्घमायुरवाप्स्यथ॥१५॥
 
-
-
 चलं हि यौवनं नित्यं मानुषेषु विशेषतः ।  
 अक्षयं यौवनं प्राप्ता अमर्यश्च भविष्यथ॥१६॥
 
@@ -4338,8 +4051,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 किमिदं कथ्यतां पुत्र्यः को धर्ममवमन्यते ।  
 कुब्जाःकेन कृताः सर्वा वेष्टन्त्यो नाभिभाषथ ॥२५॥
 
-
-
 श्रोतुमिच्छामि तं पुत्र्यः कस्येदं कर्म गर्हितम् ॥२६॥  
 एवं राजा विनिश्वस्य समाधिं सन्दधे ततः ॥२७॥
 
@@ -4368,8 +4079,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 क्षान्तं क्षमावतां पुत्र्यः कर्तव्यं सुमहत् कृतम् ।  
 ऐकमत्यमुपागम्य कुलञ्चावेक्षितं मम॥६॥
-
-
 
 अलङ्कारो हि नारीणां क्षमा हि पुरुषस्य वा॥७॥
 
@@ -4401,8 +4110,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 लक्ष्म्या समुदितों ब्राह्मया ब्रह्मभूतो महातपाः।  
 ब्राह्मण तपसा युक्तं पुत्रमिच्छामि धार्मिकम् ॥१६॥
 
-
-
 अपतिश्चास्मि भद्रं ते भार्या चास्मि न कस्य चित् ।  
 ब्राह्मणोपगतायाश्च दातुमर्हसि मे सुतम् ॥१७॥
 
@@ -4429,8 +4136,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 कृतोद्वाहं तु राजानं ब्रह्मदत्तं महीपतिम् ।  
 सदारं प्रेषयामास सोपाध्यायगणं तदा॥२५॥
-
-
 
 सोमदाऽपि सुसंहृष्टा पुत्रस्य सदृशीं क्रियाम् ।  
 यथान्यायं च गन्धर्वी स्नुषास्ताः प्रत्यनन्दत ॥
@@ -4462,8 +4167,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 स पिता मम काकुत्स्थ गाधिःपरमधार्मिकः।  
 कुशवंशप्रसूतोऽस्मि कौशिको रघुनन्दन॥६॥
 
-
-
 पूर्वजा भगिनी चापि मम राघव सुव्रता ।  
 नाम्ना सत्यवती नाम ऋचीके प्रतिपादिता॥७॥
 
@@ -4494,8 +4197,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 शनैर्वियुज्यते सन्ध्या नभो नेत्रैरिवानृतम् ।  
 नक्षत्रतारागहनं ज्योतिर्भिरवभासते॥१६॥
 
-
-
 उत्तिष्ठति च शीतांशुः शशी लोकतमोनुदः ।  
 ह्लादयन् प्राणिनां लोके मनांसि प्रभया विभो ॥१७॥
 
@@ -4520,8 +4221,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे चतुस्त्रिंशः सर्गः ॥  
 आदितः श्लोकाः 1129
-
-
 
 पञ्चत्रिंशः सर्गः ॥३५॥  
 गङ्गोमावृत्तान्तकथनम् ॥
@@ -4551,8 +4250,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ततः स्नात्वा यथान्यायं सन्तर्प्य पितृदेवताः ।  
 हुत्वा चैवाग्निहोत्राणि प्राश्य चामृतवद्धविः॥८॥
 
-
-
 विविशुर्जाह्नवीतीरे शुचौ मुदितमानसाः ।  
 विश्वामित्रं महात्मानं परिवार्य समन्ततः॥९॥
 
@@ -4580,8 +4277,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 प्रतिगृह्य त्रिलोकार्थंत्रिलोकहितकारिणः ।  
 गङ्गामादाय तेऽगच्छन्कृतार्थेनान्तरात्मना ॥१८॥
-
-
 
 या चान्या शैलदुहिता कन्याऽऽसीद्रघुनन्दन ।  
 उग्रं सा व्रतमास्थाय तपस्तेपे तपोधना॥१९॥
@@ -4611,8 +4306,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 धर्मयुक्तमिदं ब्रह्मन्कथितं परमं त्वया ।  
 दुहितुः शैलराजस्य ज्येष्ठाया वक्तुमर्हसि ॥  
 विस्तरं विस्तरज्ञोऽसि दिव्यमानुषसंभवम्॥२॥
-
-
 
 त्रीन् पथो हेतुना केन प्लावयेल्लोकपावनी॥३॥
 
@@ -4645,8 +4338,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 देवतानां वचः श्रुत्वा सर्वलोकमहेश्वरः ।  
 बाढमित्यब्रवीत् सर्वान् पुनश्चेदमुवाच ह॥१३॥
 
-
-
 धारयिष्याम्यहं तेजस्तेजस्येव सहोमया ।  
 त्रिदशाः पृथिवी चैव निर्वाणमधिगच्छतु ॥१४॥
 
@@ -4675,8 +4366,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्युक्त्वा सलिलं गृह्य पार्वती भास्करप्रभा।  
 समन्युरशपत् सर्वान् क्रोधसंरक्तलोचना॥२२॥
 
-
-
 यस्मन्निवारिता चाहं सङ्गता पुत्रकाम्यया ।  
 अपत्यं स्वेषु दारेषु नोत्पादयितुमर्हथ॥२३॥
 
@@ -4700,8 +4389,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे षट्त्रिंशः सर्गः ॥  
 आदितः श्लोकाः 1180  
 ![](../books_images/U-IMG-170377432714.png)
-
-
 
 सप्तत्रिंशः सर्गः॥३७॥  
 स्कन्दोत्पत्तिः॥
@@ -4734,8 +4421,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तच्छ्रुत्वा वचनं तस्य कृतार्था रघुनन्दन ।  
 प्रणिपत्य सुराः सर्वे पितामहमपूजयन्॥१०॥
 
-
-
 ते गत्वा पर्वतं राम कैलासं धातुमण्डितम् ।  
 अग्निं नियोजयामासुः पुत्रार्थंसर्वदेवताः॥११॥
 
@@ -4763,8 +4448,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 यदस्या निर्गतं तस्मात्तप्तजाम्बूनदप्रभम् ।  
 काञ्चनं धरणीं प्राप्तं हिरण्यमतुलप्रभम् ॥१९॥
-
-
 
 ताम्रं कार्ष्णायसं चैव तैक्ष्ण्यादेवाभ्यजायत ।  
 मलं तस्याभवत्तत्र त्रपु सीसकमेव च ।  
@@ -4795,8 +4478,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 स्कन्द इत्यब्रुवन् देवास्स्कन्नं गर्भपरिस्रवात् ।  
 कार्तिकेयं महाभागं काकुत्स्थ ज्वलनोपमम् ॥२८॥
 
-
-
 प्रादुर्भूतं ततः क्षीरं कृत्तिकानामनुत्तमम् ।  
 षण्णां षडाननो भूत्वा जग्राह स्तनजं पयः॥२९॥
 
@@ -4825,8 +4506,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 तां कथां कौशिको रामे निवेद्य मधुराक्षराम् ।  
 पुनरेवापरं वाक्यं काकुत्स्थमिदमब्रवीत् ॥१॥
-
-
 
 अयोध्याधिपतिः शूरः पूर्वमासीन्नराधिपः ।  
 सगरो नाम धर्मात्मा प्रजाकामःस चाप्रजाः॥२॥
@@ -4857,8 +4536,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 तयोस्तद्वचनं श्रुत्वा भृगुः परमधार्मिकः ।  
 उवाच परमां वाणी स्वच्छन्दोऽत्र विधीयताम् ॥११॥
-
-
 
 एको वंशकरो वाऽस्तु बहवो वा महाबलाः ।  
 कीर्तिमन्तो महोत्साहाः का वा कं वरमिच्छति ॥१२॥
@@ -4891,8 +4568,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 एवं पापसमाचारःसज्जनप्रतिबाधकः ।  
 पौराणामहिते युक्तः पित्रा निर्वासितः पुरात् ॥२१॥
 
-
-
 तस्य पुत्रोंशुमान्नाम असमञ्जस्य वीर्यवान् ।  
 संमतः सर्वलोकस्य सर्वस्यापि प्रियंवदः॥२२॥
 
@@ -4920,8 +4595,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तस्य तद्वचनं श्रुत्वा कौतूहलसमन्वितम् ।  
 विश्वामित्रस्तु काकुत्स्थमुवाच प्रहसन्निव।  
 श्रूयतां विस्तरो राम सगरस्य महात्मनः॥३॥
-
-
 
 शङ्करश्वशुरो नाम हिमवानचलोत्तमः ।  
 इन्द्रदत्तवरः श्रीमानद्रिराजोऽभिषेचितः ।  
@@ -4951,8 +4624,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 गतिं पुत्रा न पश्यामि रक्षसां पुरुषर्षभाः ।  
 मन्त्रपूतैर्महाभागैरास्थितो हि महाक्रतुः॥१२॥
 
-
-
 तद्गच्छत विचिन्वध्वं पुत्रका भद्रमस्तु वः ।  
 समुद्रमालिनीं सर्वंपृथिवीमनुगच्छत॥१३॥
 
@@ -4981,8 +4652,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 शूलैरशनिकल्पैश्च हलैश्चापि सुदारुणैः ।  
 भिद्यमाना वसुमती ननाद रघुनन्दन॥२१॥
 
-
-
 नागानां वध्यमानानामसुराणां च राघव ।  
 राक्षसानां च दुर्धर्षः सत्त्वानां निनदोऽभवत् ॥२२॥
 
@@ -5008,8 +4677,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे एकोनचत्वारिंशः सर्गः ॥  
 आदितः श्लोकाः 1267.  
 ![](../books_images/U-IMG-170377556714.png)
-
-
 
 चत्वारिंशः सर्गः ॥४०॥  
 सगरपुत्राणां भस्मीभावः ॥
@@ -5041,8 +4708,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 न च पश्यामहेऽश्वं तमश्वहर्तारमेव च ।  
 किं करिष्याम भद्रं ते बुद्धिरत्र विचार्यताम्॥९॥
 
-
-
 तेषां तद्वचनं श्रुत्वा पुत्राणां राजसत्तमः ।  
 समन्युरब्रवीद्वाक्यं सगरो रघुनन्दन॥१०॥
 
@@ -5073,8 +4738,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ततः प्रदक्षिणं कृत्वा सगरस्य महात्मनः ।  
 षष्टिः पुत्रसहस्राणि पश्चिमां बिभिदुर्दिशम् ॥१९॥
 
-
-
 पश्चिमायामपि दिशि महान्तमचलोपमम् ।  
 दिशागजं सौमनसं ददृशुस्ते महाबलाः॥२०॥
 
@@ -5103,8 +4766,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अस्माकं त्वं हि तुरगं याज्ञीयं हृतवानसि ।  
 दुर्मेधस्त्वं हिं संप्राप्तान् विद्धि नः सगरात्मजान् ॥२८॥
 
-
-
 श्रुत्वा तद्वचनं तेषां कपिलो रघुनन्दन ।  
 रोषेण महताऽऽविष्टो हुङ्कारमकरोत्तदा॥२९॥
 
@@ -5132,8 +4793,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 एवमुक्तोंशुमान् सम्यक् सगरेण महात्मना ।  
 धनुरादाय खङ्गं च जगाम लघुविक्रमः॥५॥
-
-
 
 स खातं पितृभिर्मार्गमन्तर्भौमं महात्मभिः ।  
 प्रापद्यत नरश्रेष्ठस्तेन राज्ञाऽभिचोदितः॥६॥
@@ -5165,8 +4824,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 स तेषां राजपुत्राणां कर्तुकामो जलक्रियाम् ।  
 सलिलार्थी महातेजा न चापश्यज्जलाशयम् ॥१५॥
 
-
-
 विसार्य निपुणां दृष्टिं ततोऽपश्यत् खगाधिपम् ।  
 पितॄणां मातुलं राम सुपर्णमनिलोपमम्॥१६॥
 
@@ -5196,8 +4853,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ततो राजानमासाद्य दीक्षितं रघुनन्दन ।  
 न्यवेदयद्यथावृत्तं सुपर्णवचनं यथा॥२५॥
 
-
-
 तच्छ्रुत्वा घोरसङ्काशं वाक्यमंशुमतो नृपः ।  
 यज्ञं निर्वर्तयामास यथातत्त्वं यथाविधि॥२६॥
 
@@ -5225,8 +4880,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 द्वात्रिंशच्चसहस्राणि वर्षाणि सुमहायशाः ।  
 तपोवनगतो राजा स्वर्गं लेभे तपोधनः॥४॥
-
-
 
 दिलीपस्तु महातेजाः श्रुत्वा पैतामहं वधम् ।  
 दुःखोपहतया बुद्ध्या निश्चयं नाधिगच्छति॥५॥
@@ -5256,8 +4909,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तस्य वर्षसहस्राणि घोरे तपसि तिष्ठतः ।  
 अतीतानि महाबाहो तस्य राज्ञो महात्मनः ॥१३॥
 
-
-
 सुप्रीतो भगवान् ब्रह्मा प्रजानां प्रभुरीश्वरः॥१४॥
 
 ततः सुरगणैः सार्धमुपागम्य पितामहः  
@@ -5286,8 +4937,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 इयं हैमवती गङ्गा ज्येष्ठा हिमवतः सुता ।  
 तां वै धारयितुं राजन् हरस्तत्र नियुज्यताम् ॥२३॥
-
-
 
 गङ्गायाः पतनं राजन् पृथिवी न सहिष्यति ।  
 तां वै धारयितुं वीर नान्यं पश्यामि शूलिनः ॥२४॥
@@ -5320,8 +4969,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तदा सा तु महद्रूपं कृत्वा वेगं च दुस्सहम्॥  
 आकाशादपतगङ्गा शिवे शिवशिरस्युत॥५॥
 
-
-
 अचिन्तयच्च सा देवी गङ्गा परमदुर्धरा ।  
 विशाम्यहं हि पातालं स्रोतसा गृह्य शङ्करम्॥६॥
 
@@ -5353,8 +5000,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 भगीरथोऽपि राजर्षिर्दिव्यं स्यन्दनमास्थितः ।  
 प्रायादग्रे महातेजा गङ्गा तं चाप्यनुव्रजत्॥१६॥
 
-
-
 गगनाच्छङ्करशिरस्ततो धरणिमास्थिता ।  
 व्यसर्पत जलं तत्र तीव्रशब्दपुरस्कृतम्॥१७॥
 
@@ -5385,8 +5030,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 सलिलेनैव सलिलं क्वचिदभ्याहतं पुनः ।  
 मुहुरुर्ध्वपथं गत्वा पपात वसुधां पुनः॥२६॥
 
-
-
 विष्णुपादात् परिभ्रष्टं प्लावयित्वेन्दुमण्डलम् ।  
 तच्छङ्करशिरोभ्रष्टं भ्रष्टं भूमितले पुनः ॥  
 व्यरोचत तदा तोयं निर्मलं गतकल्मषम्॥२७॥
@@ -5414,8 +5057,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 यतो भगीरथो राजा ततो गङ्गा यशस्विनी  
 जगाम सरितां श्रेष्ठा सर्वपापप्रणाशिनी॥३५॥
-
-
 
 ततो हि यजमानस्य जह्लोरद्भुतकर्मणः ।  
 गङ्गा संप्लावयामास यज्ञवाटं महात्मनः॥३६॥
@@ -5445,8 +5086,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे त्रिचत्वारिंशः सर्गः ॥  
 आदितः श्लोकाः1393
 
-
-
 चतुश्चत्वारिंशः सर्गः॥४४॥  
 सगरस्वर्गप्राप्तिः॥
 
@@ -5473,8 +5112,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 पूर्वकेणापि ते राजंस्तेनातियशसा तदा ।  
 धर्मिणां प्रवरेणाथ नैष प्राप्तो मनोरथः॥८॥
-
-
 
 तथैवांशुमता वत्स लोकेऽप्रतिमतेजसा ।  
 गङ्गां प्रार्थयता नेतुं प्रतिज्ञा नापवर्जिता॥९॥
@@ -5503,8 +5140,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 भगीरथोऽपि राजर्षिः कृत्वा सलिलमुत्तमम्  
 यथाक्रमं यथान्यायं सागराणां महायशाः॥१७॥
 
-
-
 कृतोदकः शुची राजा स्वपुरं प्रविवेश ह ।  
 समृद्धार्थो नरश्रेष्ठ स्वराज्यं प्रशशास ह॥१८॥
 
@@ -5527,8 +5162,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 आदितः श्लोकाः1416.
 
 इत्यार्षेश्रीमद्रामायणे द्वितीयेह्निवर्तमानकथाप्रसङ्गः ॥
-
-
 
 \[पुरा कुशलवाभ्यां श्रीरामसन्निधावश्वमेधयज्ञवाटे  
 द्वात्रिंशति दिनेषु गीते श्रीमद्रामायणे  
@@ -5560,8 +5193,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 नौरेषा हि सुखास्तीर्णा ऋषीणां पुण्यकर्मणाम्॥  
 भगवन्तमिह प्राप्तं ज्ञात्वा त्वरितमागता ॥७॥
 
-
-
 तस्य तद्वचनं श्रुत्वा राघवस्य महात्मनः ।  
 सन्तारं कारयामास सर्षिसङ्घःसराघवः॥८॥
 
@@ -5592,8 +5223,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तेषां चिन्तयतां राम बुद्धिरासीद्विपश्चिताम् ।  
 क्षीरोदमथनं कृत्वा रसं प्राप्स्याम तत्र वै॥१७॥
 
-
-
 ततो निश्चित्य मथनं योक्त्रंकृत्वा च वासुकिम् ।  
 मन्थानं मन्दरं कृत्वा ममन्थुरमितौजसः ॥१८॥
 
@@ -5623,8 +5252,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 सर्वलोकहितार्थाय भगवान् परमेश्वरः ।  
 कण्डस्थमकरोत् प्राश्य लीलयाऽमरपूजितः॥२७॥
-
-
 
 ततो देवासुराः सर्वे प्रणम्य वृषभध्वजम्।  
 मन्दरं पूर्ववत् कृत्वा ममन्थुरमितौजसः॥२८॥
@@ -5658,8 +5285,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 उदतिष्ठत् स धर्मात्मा सदण्डःसकमण्डलुः॥  
 तदा धन्वन्तरिर्नामाऽप्सरसश्च सुवर्चसः॥३७॥
 
-
-
 अप्सु निर्मथनादेव रसात्तस्माद्वरस्त्रियः ।  
 उत्पेतुर्मनुजश्रेष्ठ तस्मादप्सरसोऽभवन्॥३८॥
 
@@ -5689,8 +5314,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ततो दीर्घेण कालेन चोत्पन्ना कमलालया।  
 अतीव रूपसम्पन्ना प्रथमे वयसि स्थिता॥४७॥
-
-
 
 सर्वाभरणपूर्णाङ्गी सर्वलक्षणलक्षिता ।  
 मकुटाङ्गदचित्राङ्गी नीलकुञ्चितमूर्धजा॥४८॥
@@ -5725,8 +5348,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे पञ्चचत्वारिंशः सर्गः ॥  
 आदितः श्लोकाः1473
 
-
-
 षट्चत्वारिंशः सर्गः ॥४६॥  
 मरुदुत्पत्तिः
 
@@ -5754,8 +5375,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 गते तस्मिन्नरश्रेष्ठ दितिः परमहर्षिता ।  
 कुशप्लवनमासाद्य तपस्तेपे सुदारुणम्॥८॥
-
-
 
 तपस्तस्यां हि कुर्वन्त्यां परिचर्यां चकार ह ।  
 सहस्राक्षो नरश्रेष्ठ परया गुणसंपदा॥९॥
@@ -5787,8 +5406,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तस्याः शरीरविवरं प्रविवेश पुरन्दरः ।  
 गर्भं च सप्तधा राम चिच्छेद परमात्मवान् ॥१८॥
 
-
-
 भिद्यमानस्ततो गर्भो वज्रेण शतपर्वणा।  
 रुरोद सुवरं राम ततो दितिरबुध्यत॥१९॥
 
@@ -5816,8 +5433,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ममापराधाद्गर्भोऽयं सप्तधा विफलीकृतः ।  
 नापराधोऽस्ति देवेश तवात्र बलसूदन॥२॥
-
-
 
 प्रियं त्वत्कृतमिच्छामि मम गर्भविपर्यये ।  
 मरुतां सप्त सप्तानां स्थानपाला भवन्त्विमे॥३॥
@@ -5849,8 +5464,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 तेन चासीदिह स्थाने विशालेति पुरी कृता  
 विशालस्य सुतो राम हेमचन्द्रो महाबलः॥१२॥
-
-
 
 सुचन्द्र इति विख्यातों हेमचन्द्रादनन्तरः।  
 सुचन्द्रतनयो राम धूम्राश्व इति विश्रुतः॥१३॥
@@ -5885,8 +5498,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे सप्तचत्वारिंशः सर्गः ॥  
 आदितः श्लोकाः 1518
 
-
-
 अष्टचत्वारिंशः सर्गः ॥४८॥  
 अहल्याशापः ॥
 
@@ -5914,8 +5525,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 सिद्धाश्रममनुप्राप्य राक्षसानभिहत्य च ।  
 इमं देशमनुप्राप्तौ वीरौदशरथात्मजौ॥८॥
-
-
 
 विश्वामित्रवचः श्रुत्वा राजा परमहर्षितः ।  
 अतिथी परमो प्राप्तौ पुत्रौ दशरथस्य तौ ॥  
@@ -5949,8 +5558,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ॥१७॥
 
-
-
 कदाचिद्दिवसे राम ततो दूरं गते मुनौ ।  
 तस्यान्तरं विदित्वा तु सहस्राक्षः शचीपतिः ॥  
 मुनिवेषधरोऽहल्यामिदं वचनमब्रवीत्॥१८॥
@@ -5980,8 +5587,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 शिवभक्तं महात्मानं सर्वतत्त्वार्थवेदिनम् ।  
 गृहीतसमिध राम सकुशं मुनिपुङ्गवम्॥२७॥
-
-
 
 दृष्ट्वा सुरपतिस्त्रस्तो विषण्णवदनोऽभवत्॥२८॥
 
@@ -6014,8 +5619,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे अष्टचत्वारिंशः सर्गः ॥  
 आदितः श्लोकाः 1554
 
-
-
 एकोनपञ्चाशः सर्गः ॥४९॥  
 अहल्याशापमोक्षः ॥
 
@@ -6047,8 +5650,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यग्नेर्वचनं श्रुत्वा पितृदेवाः समागताः ।  
 उत्पाढ्य मेषवृषणौ सहस्राक्षे न्यवेशयन्॥१०॥
 
-
-
 तदाप्रभृति काकुत्स्थ पितृदेवाः समागताः ।  
 अफलान् भुञ्जते मेषान् फलैस्तेषामयोजयन् ॥११॥
 
@@ -6076,8 +5677,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 राघवौ तु ततस्तस्याः पादौ जगृहतुस्तदा ।  
 स्मरन्ती गौतमवचः प्रतिजग्राह सा च तौ ॥१९॥
-
-
 
 पाद्यमर्घ्यंतथाऽऽतिथ्यं चकार सुसमाहिता।  
 प्रतिजग्राह काकुत्स्थो विधिदृष्टेन कर्मणा॥२०॥
@@ -6110,8 +5709,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 रामस्तु मुनिशार्दूलमुवाच सहलक्ष्मणः ।  
 साध्वी यज्ञसमृद्धिर्हि जनकस्य महात्मनः॥२॥
 
-
-
 बहूनीह सहस्राणि नानादेशनिवासिनाम् ।  
 ब्राह्मणानां महाभाग वेदाध्ययनशालिनाम्॥३॥
 
@@ -6140,8 +5737,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 जनकस्य वचः श्रुत्वा निषसाद महामुनिः ।  
 पुरोधा ऋत्विजश्चैव राजा च सह मन्त्रिभिः ॥११॥
 
-
-
 आसनेषु यथान्यायमुपविष्टान् समन्ततः ।  
 दृष्ट्वा स नृपतिस्तत्र विश्वामित्रमथाब्रवीत्॥१२॥
 
@@ -6169,8 +5764,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बद्धगोधांगुलित्राणौ खड्गवन्तौ महाद्युती ।  
 काकपक्षधरौ वीरौ कुमाराविव पावकी॥२०॥
 
-
-
 रूपौदार्यगुणैः पुंसां दृष्टिचित्तापहारिणौ ॥२१॥
 
 प्राकाश्यं कुलमस्माकं मामुद्धर्तुमिहागतौ ।  
@@ -6197,8 +5790,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे पञ्चाशः सर्गः ॥  
 आदितः श्लोकाः1606
-
-
 
 एकपञ्चाशः सर्गः ॥५१॥  
 विश्वामित्रचरित्रकथनम् ॥
@@ -6230,8 +5821,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अपि शान्तेन मनसा गुरुर्मे कुशिकात्मज।  
 इहागतेन रामेण पूजितेनाभिवादितः॥९॥
 
-
-
 तच्छ्रुत्वा वचनं तस्य विश्वामित्रो महामुनिः ।  
 प्रत्युवाच शतानन्दं वाक्यज्ञो वाक्यकोविदम् ॥१०॥
 
@@ -6261,8 +5850,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 कुशनाभसुतस्त्वासीद्गाधिरित्येव विश्रुतः ।  
 गाधेः पुत्रो महातेजा विश्वामित्रो महामुनिः ॥१९॥
-
-
 
 विश्वामित्रो महातेजाः पालयामास मेदिनीम् ।  
 बहुवर्षसहस्राणि राजा राज्यमकारयत्॥२०॥
@@ -6295,8 +5882,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे एकपञ्चाशः सर्गः ॥  
 आदितः श्लोकाः 1634
 
-
-
 द्विपञ्चाशः सर्गः ॥५॥  
 वसिष्टकृतविश्वामित्रातिथ्यम् ॥
 
@@ -6327,8 +5912,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 कच्चिद्बलेषु कोशेषु मित्रेषु च परंतप ।  
 कुशलं ते नरव्याघ्र पुत्रपौत्रे तथाऽनघ॥९॥
 
-
-
 सर्वत्र कुशलं राजा वसिष्ठं प्रत्युदाहरत् ।  
 विश्वामित्रो महातेजा वसिष्ठं विनयान्वितः ॥१०॥
 
@@ -6358,8 +5941,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 वाढमित्येव गाधेयो वसिष्ठं प्रत्युवाच ह ।  
 यथा प्रियं भगवतस्तथाऽस्तु मुनिसत्तम॥१९॥
-
-
 
 एवमुक्तो महातेजा वसिष्ठो जपतां वरः ।  
 आजुहाव ततः प्रीतः कल्माषीं धूतकल्मषः॥२०॥
@@ -6392,8 +5973,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 उष्णाढ्यस्यौदनस्यात्र राशयः पर्वतोपमाः ।  
 मृष्टान्नानि च सूपाश्च दधिकुल्यास्तथैव च॥३॥
 
-
-
 नानास्वादुरसानां च षड्रसानां तथैव च ।  
 भाजनानि सुपूर्णानि गौडानि च सहस्रशः॥४॥
 
@@ -6421,8 +6000,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 न परित्यागमयं मत्सकाशादरिन्दम ।  
 शाश्वती शवला मह्यं कीर्तिरात्मवतो यथा॥१२॥
-
-
 
 अस्यां हव्यं च कव्यं च प्राणयात्रा तथैव च ।  
 आयत्तमग्निहोत्रं च बलिहोमस्तथैव च॥१३॥
@@ -6454,8 +6031,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 एवमुक्तस्तु भगवान्विश्वामित्रेण धीमता ।  
 न दास्यामीति शबलां प्राह राजन्कथञ्चन ॥२२॥
 
-
-
 एतदेव हि मे रत्नमेतदेव हि मे धनम् ।  
 एतदेव हि सर्वस्वमेतदेव हि जीवितम्॥२३॥
 
@@ -6483,8 +6058,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 किं मयाऽपकृतं तस्य महर्षेर्भावितात्मनः ।  
 यन्मामनागसं भक्तामिष्टां त्यजति धार्मिकः॥४॥
-
-
 
 इति सञ्चिन्तयित्वा तु निःश्वस्य च पुनः पुनः ।  
 जगाम वेगेन तदा वसिष्ठं परमौजसम्॥५॥
@@ -6515,8 +6088,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 न बलं क्षत्रियस्याहुर्ब्राह्मणो बलवत्तरः ।  
 ब्रह्मन् ब्रह्मबलं दिव्यं क्षत्रात्तु बलवत्तरम्॥१४॥
-
-
 
 अप्रमेयं बलं तुभ्यं न त्वसौ बलवत्तरः।  
 विश्वामित्रो महावीर्यस्तेजस्तव दुरासदम्॥१५॥
@@ -6552,8 +6123,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे चतुःपञ्चाशः सर्गः ॥  
 आदितः श्लोकाः 1705
 
-
-
 पञ्चपञ्चाशः सर्गः ॥५५॥  
 विश्वामित्रस्य धनुर्वेदाधिगमः ॥
 
@@ -6583,8 +6152,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 समुद्र इव निर्वेगो भग्नदंष्ट्र इवोरगः ।  
 उपरक्त इवादित्यः सद्यो निष्प्रभतां गतः॥९॥
-
-
 
 हतपुत्रबलो दीनो लूनपक्ष इव द्विजः ।  
 इतदर्पो हतोत्साहो निर्वेदं समपद्यत॥१०॥
@@ -6619,8 +6186,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 **प्राप्य चास्त्राणि राजर्षिर्विश्वामित्रो महाबलः।  
 दर्पेण महता युक्तो दर्पपूर्णोऽभवत्तदा॥१९॥**
 
-
-
 विवर्धमानो वीर्येण समुद्र इव पर्वणि।  
 हतमेव तदा मेने वसिष्टमृषिसत्तमम्॥२०॥
 
@@ -6654,8 +6219,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे पञ्चपञ्चाशः सर्गः ॥  
 आदितः श्लोकाः1733.
 
-
-
 षट्पञ्चाशः सर्गः ॥५६॥  
 विश्वामित्रतपश्चर्या ॥
 
@@ -6685,8 +6248,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 पिनाकास्त्रं च दयितं शुष्कार्द्रे अशनी उभे ।  
 दण्डास्त्रमथ पैशाचं क्रौञ्चमस्त्रं तथैव च ॥९॥
-
-
 
 धर्मचक्रं कालचक्रं विष्णुचक्रं तथैव च ।  
 वायव्यं मथनं चैव अस्त्रं हयशिरस्तथा॥१०॥
@@ -6718,8 +6279,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 प्राज्वलद्ब्रह्मदण्डश्च वसिष्ठस्य करोद्यतः ।  
 विधूम इव कालाग्निर्यमदण्ड इवापरः॥१९॥
 
-
-
 ततोऽस्तुवन्मुनिगणा वसिष्ठं जपतां वरम् ।  
 अमोघं ते बलं ब्रह्मंस्तेजो धारय तेजसि॥२०॥
 
@@ -6747,8 +6306,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 स दक्षिणां दिशं गत्वा महिष्या सह राघव।  
 तताप परमं घोरं विश्वामित्रोमहातपाः॥२॥
-
-
 
 फलमूलाशनो दान्तश्चकार परमं तपः ।  
 अथास्य जज्ञिरे पुत्राः सत्यधर्मपरायणाः ॥  
@@ -6779,8 +6336,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तस्य बुद्धिः समुत्पन्ना यजेयमिति राघव ।  
 गच्छेयं सशरीरेण देवानां परमां गतिम्॥११॥
 
-
-
 स वसिष्ठं समाहूय कथयामास चिन्तितम् ।  
 अशक्यमिति चाप्युक्तो वसिष्ठेन महात्मना ॥१२॥
 
@@ -6809,8 +6364,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 प्रत्याख्यातो वसिष्टेन गतिमन्यां तपोधनाः ।  
 गुरुपुत्रातृते सर्वान्नाहं पश्यामि काञ्चन॥२१॥
-
-
 
 इक्ष्वाकूणां हि सर्वेषां पुरोधाः परमा गतिः ।  
 पुरोधसस्तु विद्वांसस्तारयन्ति सदा नृपान्॥२२॥
@@ -6842,8 +6395,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 याजने भगवाञ्च्छक्तस्त्रैलोक्यस्यापि पार्थिव॥  
 अवमानं वयं कर्तुं तस्य शक्ष्यामहे कथम्॥५॥
 
-
-
 तेषां तद्वचनं श्रुत्वा क्रोधपर्याकुलेक्षणः ।  
 स राजा पुनरेवैतानिदं वचनमब्रवीत् ॥६॥
 
@@ -6873,8 +6424,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 किमागमनकार्यं ते राजपुत्र महायशः ।  
 अयोध्याधिपते वीर शापाच्चण्डालतां गतः॥१५॥
-
-
 
 अथ तद्द्वाक्यमाकर्ण्य राजा चण्डालतां गतः ।  
 अब्रवीत् प्राञ्जलिर्वाक्यं वाक्यज्ञो वाक्यकोविदम्॥
@@ -6908,8 +6457,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 आदितः श्लोकाः 1804  
 ![](../books_images/U-IMG-170386282514.png)
 
-
-
 एकोनषष्टितमः सर्गः ॥६९॥  
 वसिष्ठपुत्रशापः ॥
 
@@ -6937,8 +6484,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 यदन्यो वचनं ब्रूयान्मद्वाक्यबलचोदितः ।  
 तत्सर्वमखिलेनोक्तं ममाख्येयमनादृतम्॥८॥
-
-
 
 तस्य तद्वचनं श्रुत्वा दिशो जग्मुस्तदाज्ञया ।  
 आजग्मुरथ देशेभ्यःसर्वेभ्यो ब्रह्मवादिनः॥९॥
@@ -6970,8 +6515,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अद्य ते कालपाशेन नीता वैवस्वतक्षयम् ।  
 सप्तजातिशतान्येव भृतपाः सन्तु सर्वशः॥१८॥
 
-
-
 श्वमांसनियताहारा मुष्टिका नाम निर्घृणाः ।  
 विकृताश्च विरूपाश्च लोकाननुचरन्त्विमान् ॥१९॥
 
@@ -6998,8 +6541,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 अयमिक्ष्वाकुदायादस्त्रिशङ्कुरिति विश्रुतः ।  
 धर्मिष्टश्च वदान्यश्च मां चैव शरणं गतः ।  
 स्वेनानेन शरीरेण देवलोकजिगीषया॥२॥
-
-
 
 यथाऽयं स्वशरीरेण स्वर्गलोकं गमिष्यति ।  
 तथा प्रवर्त्यतां यज्ञो भवद्भिश्व मया सह॥३॥
@@ -7030,8 +6571,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ततः क्रोधसमाविष्टो विश्वामित्रो महामुनिः ।  
 स्रुवमुद्यम्य सक्रोधस्त्रिशङ्कुमिदमब्रवीत्॥१२॥
 
-
-
 पश्य मे तपसो वीर्यं स्वार्जितस्य नरेश्वर।  
 एष त्वां सशरीरेण नयामि स्वर्गमोजसा ॥१३॥
 
@@ -7061,8 +6600,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 नक्षत्रमालामपरामसृजत्क्रोधमूर्च्छितः ।  
 दक्षिणां दिशमास्थाय ऋषिमध्ये महातपाः॥२२॥
 
-
-
 सृष्ट्वानक्षत्रवंशं च क्रोधेन कलुषीकृतः ।  
 अन्यमिन्द्रं करिष्यामि लोको वा स्यादनिन्द्रकः ॥  
 दैवतान्यपि स क्रोधात्स्रष्टुं समुपचक्रमे॥२३॥
@@ -7090,8 +6627,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 एवं भवतु भद्रं ते तिष्ठन्त्वेतानि सर्वशः ।  
 गगने तान्यनेकानि वैश्वानरपथाद्बहिः॥३१॥
-
-
 
 नक्षत्राणि मुनिश्रेष्ठ तेषु ज्योतिष्षु जज्वलुः।  
 अवाक्छिरास्त्रिशङ्कुश्च तिष्ठत्वमरसन्निभः॥३२॥
@@ -7121,8 +6656,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 पश्चिमायां विशालायां पुष्करेषु महात्मनः ।  
 सुखं तपश्चरिष्यामः परं तद्धि तपोवनम्॥३॥
 
-
-
 एवमुक्त्वा महातेजाः पुष्करेषु महामुनिः ।  
 तप उग्रं दुराधर्षं तेपे मूलफलाशनः॥४॥
 
@@ -7150,8 +6683,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तमुवाच महातेजाः प्रणम्याभिप्रसाद्य च ।  
 ब्रह्मर्षिं तपसा दीप्तं राजर्षिरमितप्रभः  
 पृष्ट्वासर्वत्र कुशलमृचीकं तमिदं वचः॥१२॥
-
-
 
 गवां शतसहस्रेण विक्रीणीषे सुतं यदि ।  
 पशोरर्थे महाभाग कृतकृत्योऽस्मि भार्गव॥१३॥
@@ -7181,8 +6712,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 गवां शतसहस्रेण शुनःशेपंनरेश्वरः ।  
 गृहीत्वा परमप्रीतो जगाम रघुनन्दन॥२२॥
-
-
 
 अम्बरीषस्तु राजर्षी रथमारोप्य सत्वरं ।  
 शुनःशेपं महातेजा जगामाशु महाबलः॥२३॥
@@ -7215,8 +6744,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 राजा च कृतकार्यःस्यादहं दीर्घायुरव्ययः।  
 स्वर्गलोकमुपाश्नीयां तपस्तप्त्वा ह्यनुत्तमम्॥६॥
 
-
-
 त्वं मे नाथो ह्यनाथस्य भव भव्येन चेतसा ।  
 पितेव पुत्रं धर्मात्मंस्त्रातुमर्हसि किल्बिषात्॥७॥
 
@@ -7246,8 +6773,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 निःसाध्वसमिदं प्रोक्तं धर्मादपि विगर्हितम् ।  
 अतिक्रम्य तु मद्वाक्यं दारुणं रोमहर्षणम्॥१६॥
-
-
 
 श्वमांसभोजिनःसर्वे वासिष्ठा इव जातिषु।  
 पूर्णं वर्षसहस्रं तु पृथिव्यामनुवत्स्यथ॥१७॥
@@ -7279,8 +6804,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ततः प्रीतः सहस्राक्षो रहस्यस्तुतितर्पितः ।  
 दीर्घमायुस्ततः प्रादाच्छुनश्शेपाय वासवः॥२६॥
 
-
-
 स च राजा नरश्रेष्ठ यज्ञस्य च समाप्तवान् ।  
 फलं बहुगुणं राम सहस्राक्षप्रसादजम्॥२७॥
 
@@ -7307,8 +6830,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ततः कालेन महता मेनका परमाप्सराः  
 पुष्करेषु नरश्रेष्ठ स्त्रातुं समुपचक्रमे ॥४॥
-
-
 
 तां ददर्श महातेजा मेनकां कुशिकात्मजः।  
 रूपेणाप्रतिमां तत्र विद्युतं जलदे यथा ॥  
@@ -7337,8 +6858,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 मेनकां मधुरैर्वाक्यैर्विसृज्य कुशिकात्मजः ।  
 उत्तरं पर्वतं राम विश्वामित्रो जगाम ह ॥१३॥
-
-
 
 स कृत्वा नैष्ठिकीं बुद्धिं ततकामो महातपाः ।  
 कौशिकीतीरमासाद्य तपस्तेपे सुदारुणम्॥१४॥
@@ -7370,8 +6889,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 घर्मे पञ्चतपा भूत्वा वर्षास्वाकाशसंश्रयः ।  
 शिशिरे सलिलस्थायी रात्र्यहानि तपोधनः ॥२३॥
 
-
-
 एवं वर्षसहस्राणि तपो घोरमुपागमत्॥२४॥
 
 तस्मिन्संतप्यमाने तु विश्वामित्रे महामुनौ ।  
@@ -7400,8 +6917,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 तामुवाच सहस्राक्षो वेपमानां कृताञ्जलिम् ।  
 मा भैषि रंभे भद्रं ते कुरुष्व मम शासनम् ॥४॥
-
-
 
 कोकिलो हृदयग्राही माधवे रुचिरद्रुमे ।  
 अहं कन्दर्पसहितः स्थास्यामि तव पार्श्वतः॥५॥
@@ -7432,8 +6947,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 तस्य शापेन महता रम्भा शैली तदाऽभवत् ।  
 वचः श्रुत्वा च कन्दर्पो महर्षेः स च निर्गतः॥१४॥
-
-
 
 कोपेन सुमहातेजास्तपोऽपहरणे कृते ।  
 इन्द्रियैरजितै राम न लेभे शान्तिमात्मनः॥१५॥
@@ -7467,8 +6980,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 मौनं वर्षसहस्रस्य कृत्वा व्रतमनुत्तमम् ।  
 चकाराप्रतिमंराम तपः परमदुष्करम्॥२॥
 
-
-
 पूर्णे वर्षसहस्रे तु काष्ठभूतं महामुनिम् ।  
 विर्घ्नैर्बहुभिराधूतं क्रोधो नान्तरमाविशत्॥३॥
 
@@ -7497,8 +7008,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 लोभितः क्रोधितश्चैव तपसा चाभिवर्धते॥११॥
 
 न ह्यस्य वृजिनं किञ्चिद्दृश्यते सूक्ष्ममप्यथ॥१२॥
-
-
 
 न दीयते यदि त्वस्य मनसा यदभीप्सितम् ।  
 विनाशयति त्रैलोक्यं तपसा सचराचरम्॥१३।
@@ -7530,8 +7039,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 पितामहवचः श्रुत्वा सर्वेषां च दिवौकसाम् ।  
 कृत्वा प्रणामं मुदितो व्याजहार महामुनिः ॥२२॥
 
-
-
 ब्राह्मण्यं यदि मे प्राप्तं दीर्घमायुस्तथैव च ।  
 ओंकारोऽथ वषट्कारो वेदाश्च वरयन्तु माम् ॥२३॥
 
@@ -7558,8 +7065,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 धन्योऽस्म्यनुगृहीतोऽस्मियस्य ते मुनिपुङ्गव।  
 यज्ञं काकुत्स्थसहितः प्राप्तवानसिकौशिक ॥३०॥
-
-
 
 पावितोऽहं त्वया ब्रह्मन्दर्शनेन महामुने ।  
 विश्वामित्र महाभाग ब्रह्मर्षीणां वरोत्तम॥  
@@ -7595,8 +7100,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे त्रितीयेऽह्नि वर्तमानकथाप्रसङ्गः ॥  
 ![](../books_images/U-IMG-170387125514.png)
 
-
-
 \[पुरा कुशलवाभ्यां श्रीरामसन्निधावश्वमेधयज्ञवाटे द्वाविंशति दिनेषु गीते श्रीमद्रामायणे चतुर्थेऽह्नि बालकाण्डे षट्षष्टितमसर्गमारभ्य यावत्काण्डसमाप्ति अयोध्याकाण्डे प्रथमसर्गमारभ्य नवमसर्गपर्यन्तं च (1998 – 2751 श्लोकाः) गीतम्।तस्मिन् दिने गीताः श्लोकाः 751\]
 
 षट्षष्टितमः सर्गः ॥६६॥  
@@ -7620,8 +7123,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 एतद्दर्शय भद्रं ते कृतकामौ नृपात्मजौ।  
 दर्शनादस्य धनुषो यथेष्टं प्रतियास्यतः॥६॥
-
-
 
 एवमुक्तस्तु जनकः प्रत्युवाच महामुनिम् ।  
 श्रूयतामस्य धनुषो यदर्थमिह तिष्ठति ॥७॥
@@ -7652,8 +7153,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 भूतलादुत्थितां तां तु वर्धमानां ममात्मजाम् ।  
 वरयामासुरागम्य राजानो मुनिपुङ्गव ॥१६॥
 
-
-
 तेषां वरयतां कन्यां सर्वेषां पृथिवीक्षिताम् ।  
 वीर्यशुल्केति भगवन्न ददामि सुतामहम्॥१७॥
 
@@ -7680,8 +7179,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ततो भग्ना नृपतयो हन्यमाना दिशो ययुः ।  
 अवीर्या वीर्यसन्दिग्धाः सामात्याः पापकारिणः ॥२५॥
-
-
 
 तदेतन्मुनिशार्दूल धनुः परमभास्वरम् ।  
 रामलक्ष्मणयोश्चापि दर्शयिष्यामि सुव्रत॥२६॥
@@ -7711,8 +7208,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तामादाय तु मञ्जूषामायसीं यत्र तद्धनुः ।  
 सुरोपमं ते जनकमूचुर्नृपतिमन्त्रिणः॥५॥
 
-
-
 इदं धनुर्वरं राजन् पूजितं सर्वराजभिः ।  
 मिथिलाधिप राजेन्द्र दर्शनीयं यदिच्छसि॥६॥
 
@@ -7740,8 +7235,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इदं धनुर्वरं ब्रह्मन् संस्पृशामीह पाणिना।  
 यत्नवांश्च भविष्यामि तोलने पूरणेऽपि वा  
 वाढमित्येव तं राजा मुनिश्च समभाषत॥१४॥
-
-
 
 लीलया स धनुर्मध्ये जग्राह वचनान्मुनेः ।  
 पश्यतां नृसहस्राणां बहूनां रघुनन्दनः॥१५॥
@@ -7773,8 +7266,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 राजानं प्रश्रितैर्वाक्यैरानयन्तु पुरं मम ।  
 प्रदानं वीर्यशुल्कायाः कथयन्तु च सर्वशः॥२४॥
 
-
-
 मुनिगुप्तौ च काकुत्स्थौ कथयन्तु नृपाय वै ।  
 प्रीयमाणं तु राजानमानयन्तु सुशीघ्रगाः॥२५॥
 
@@ -7800,8 +7291,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 बद्धाञ्जलिपुटाः सर्वे दूता विगतसाध्वसाः ।  
 राजानं प्रणता वाक्यमब्रुवन्मधुराक्षरम्॥४॥
-
-
 
 राजसिंह महासत्त्व रघुश्रेष्ठ परन्तप ।  
 मैथिलो जनको राजा साग्निहोत्रपुरस्कृतम्॥  
@@ -7830,8 +7319,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 प्रतिज्ञां मम राजेन्द्र निर्वर्तयितुमर्हसि ।  
 पुत्रयोरुभयोःप्रीतिं लप्स्यसे वीर्यनिर्जिताम् ॥१३॥
-
-
 
 एवं विदेहाधिपतिर्मधुरं वाक्यमब्रवीत् ।  
 विश्वामित्राभ्यनुज्ञातः शतानन्दमते स्थितः॥१४॥
@@ -7862,8 +7349,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे अष्टषष्टितमः सर्गः ॥  
 आदितः श्लोकाः2072
-
-
 
 एकोनसप्ततितमः सर्गः ॥६९॥  
 मिथिलागमनम् ॥
@@ -7896,8 +7381,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 जनको मुदितो राजा हर्षंच परमं ययौ॥  
 उवाच च नरश्रेष्ठो नरश्रेष्ठं मुदाऽन्वितम् ॥९॥
 
-
-
 स्वागतं ते महाराज दिष्ट्या प्राप्तोऽसि राघव।  
 पुत्रयोरुभयोः प्रीतिं लप्स्यसे वीर्यनिर्जिताम् ॥१०॥
 
@@ -7928,8 +7411,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 जनकोऽपि महातेजाः क्रियां धर्मेण तत्ववित् ।  
 यज्ञस्य च सुताभ्यां च कृत्वा रात्रिमुवास ह ॥१९॥
 
-
-
 ततो मुनीनां च नराधिपानां  
 विसृज्य संघाञ्जनको महात्मनाम् ।  
 तद्यज्ञवाटं विधिवत्प्रविश्य  
@@ -7956,8 +7437,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 एवमुक्ते तु वचने शतानन्दस्य सन्निधौ ।  
 आगताः केचिदव्यग्रा जनकस्तान्समादिशत् ॥५॥
-
-
 
 शासनात्तु नरेन्द्रस्य प्रययुः शीघ्रवाजिभिः ।  
 समानेतुं नरव्याघ्रं विष्णुमिन्द्राज्ञया यथा॥६॥
@@ -7987,8 +7466,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 मन्त्रिश्रेष्ठवचः श्रुत्वा राजा सर्षिगणस्तदा ।  
 सवन्धुरगमत्तत्र जनको यत्र वर्तते॥१४॥
 
-
-
 राजा च जनकः श्रीमान् राजराजं सहानुजः ।  
 प्रत्युद्गम्य प्रहृष्टात्मा प्रवेश्य गृहमर्हयत्॥१५॥
 
@@ -8016,8 +7493,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 कुक्षेरथात्मजः श्रीमान्विकुक्षिरुदपद्यत ।  
 विकुक्षेस्तु महातेजा बाणः पुत्रः प्रतापवान्॥२३॥
-
-
 
 बाणस्य तु महातेजा अनरण्यः प्रतापवान्।  
 अनरण्यात् पृथुर्जज्ञे त्रिशङ्कुस्तु पृथोः सुतः ॥२४॥
@@ -8049,8 +7524,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तत्र चैका महाभागा भार्गवं देववर्चसम् ।  
 ववन्दे पद्मपत्राक्षी कांक्षन्ती सुतमुत्तमम्॥३३॥
 
-
-
 तमृषिं साऽभ्युपागम्य कालिन्दी चाभ्यवादयत् ।  
 स तामभ्यवदद्विप्रः पुत्रेप्सुंपुत्रजन्मनि॥३४॥
 
@@ -8077,8 +7550,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 सुदर्शनःशङ्खणस्य अग्निवर्णःसुदर्शनात् ।  
 शीघ्रगस्त्वग्निवर्णस्य शीघ्रगस्य मरुः सुतः॥  
 मरोः प्रशुश्रुकस्त्वासीदम्बरीषःप्रशुश्रुकात्॥४१॥
-
-
 
 अम्बरीषस्य पुत्रोऽभून्नहुषः पृथिवीपतिः ।  
 नहुषस्य ययातिस्तु नाभागस्तु ययातिजः॥४२॥
@@ -8110,8 +7581,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 राजाऽभूत्त्रिषु लोकेषु विश्रुतः स्वेन कर्मणा ।  
 निमिः परमधर्मात्मा सर्वसत्त्ववतां वरः॥३॥
 
-
-
 तस्य पुत्रो मिथिर्नाम मिथिला येन निर्मिता ।  
 प्रथमो जनको नाम जनकादप्युदावसुः॥४॥
 
@@ -8141,8 +7610,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 तस्य पुत्रद्वयं राज्ञो धर्मज्ञस्य महात्मनः ।  
 ज्येष्ठोऽहमनुजो भ्राता मम वीरःकुशध्वजः॥१३॥
-
-
 
 मां तु ज्येष्ठं पिता राज्ये सोऽभिषिच्य नराधिपः ।  
 कुशध्वजं समावेश्य भारं मयि वनं गतः॥१४॥
@@ -8175,8 +7642,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 रामलक्ष्मणयो राजन् गोदानं कारयस्व ह ।  
 पितृकार्यं च भद्रं ते ततो वैवाहिकं कुरु॥२३॥
 
-
-
 मघा ह्यद्य महाबाहो तृतीये दिवसे विभो ।  
 फल्गुन्यामुत्तरे राजंस्तस्मिन्वैवाहिकं कुरु॥  
 रामलक्ष्मणयोरर्थेदानं कार्यं सुखोदयम्॥२४॥
@@ -8208,8 +7673,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 भरतस्य कुमारस्य शत्रुघ्नस्य च धीमतः ।  
 वरयेम सुते राजंस्तयोरर्थे महात्मनोः॥६॥
 
-
-
 पुत्रा दशरथस्येमे रूपयौवनशालिनः ।  
 लोकपालोपमाः सर्वे देवतुल्यपराक्रमाः॥७॥
 
@@ -8238,8 +7701,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 इमान्यासनमुख्यानि आसातां मुनिपुङ्गवौ।  
 यथा दशरथस्येयं तथाऽयोध्यापुरी मम॥  
 प्रभुत्वे नास्ति संदेहो यथार्हं कर्तुमर्हथ॥१६॥
-
-
 
 तथा ब्रुवति वैदेहे जनके रघुनन्दनः ।  
 राजा दशरथो हृष्टः प्रत्युवाच महीपतिम्॥१७॥
@@ -8274,8 +7735,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ![](../books_images/U-IMG-1699858806Screenshot2023-11-06232243.png)
 
-
-
 त्रिसप्ततितमः सर्गः ॥७३॥  
 सीताविवाहः ॥
 
@@ -8304,8 +7763,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 ततस्तामुषितो रात्रिं सह पुत्रैर्महात्मभिः ।  
 प्रभाते पुनरुत्थाय कृत्वा कर्माणि तत्त्ववित्॥  
 ऋषींस्तदा पुरस्कृत्य यज्ञवाटमुपागमत्॥८॥
-
-
 
 युक्ते मुहूर्ते विजये सर्वाभरणभूषितः ।  
 भ्रातृभिः सहितो रामः कृतकौतुकमङ्गलः॥९॥
@@ -8338,8 +7795,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ॥१८॥
 
-
-
 ततो राजा विदेहानां वसिष्ठमिदमब्रवीत् ।  
 कारयस्व ऋषे सम्यगृषिभिः सह धार्मिकैः॥  
 रामस्य लोकरामस्य क्रियां वैवाहिकीं प्रभो ॥१९॥
@@ -8367,8 +7822,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 श्रियं पद्मवियुक्तां वै केशवाङ्कच्युतामिव ॥२६॥
 
 विद्युत्प्रभांविशालाक्षीं नीलकुञ्चितमूर्धजाम् ॥२७॥
-
-
 
 हंसाङ्कितेन क्षौमेण किंचित्पीतेन संवृताम् ।  
 वासितेनोत्तरीयेण सुरक्तेन सुसंवृताम्॥२८॥
@@ -8398,8 +7851,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 शत्रुघ्नं चापि धर्मात्मा अब्रवीज्जनकेश्वरः ।  
 श्रुतकीर्त्या महाबाहो पाणिं गृह्णीष्व पाणिना ॥३७॥
-
-
 
 सर्वे भवन्तः सौम्याश्च सर्वे सुचरितव्रताः ।  
 पत्नीभिः सन्तु काकुत्स्था मा भूत्कालस्य पर्ययः ॥३८॥
@@ -8433,8 +7884,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ![](../books_images/U-IMG-1699860789Screenshot2023-11-06232243.png)
 
-
-
 चतुःसप्ततितमः सर्गः ॥७४॥  
 परशुरामसमागमः ॥
 
@@ -8462,8 +7911,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 दत्वाबहुधनं राजा समनुज्ञाप्य पार्थिवम् ।  
 संपूज्य मङ्गलाशीर्भिःकुमारान् रघुनन्दनान्  
 प्रविवेश स्वनिलयं मिथिलां मिथिलेश्वरः॥८॥
-
-
 
 तस्मिन् प्रविष्टे नगरं जनके जगतीपतिः ।  
 राजाऽप्ययोध्याधिपतिः सह पुत्रैर्महात्मभिः॥  
@@ -8496,8 +7943,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 वसिष्ठश्चर्षयश्चान्ये राजा च ससुतस्तदा ।  
 ससंज्ञा इव तत्रासन्सर्वमन्यद्विचेतनम्॥१९॥
 
-
-
 तस्मिंस्तमसि घोरे तु भस्मच्छन्नेव सा चमूः ।  
 ददर्श भीमसङ्काशं जटामण्डलधारिणम्॥२०॥
 
@@ -8529,8 +7974,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 ![](../books_images/U-IMG-1699891848Screenshot2023-11-06232243.png)
 
-
-
 पञ्चसप्ततितमः सर्गः ॥७५॥  
 वैष्णवधनुरारोपणचोदना ॥
 
@@ -8561,8 +8004,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 स त्वं धर्मपरो भूत्वा कश्यपाय वसुन्धराम् ।  
 दत्त्वा वनमुपागम्य महेन्द्रकृतकेतनः॥९॥
 
-
-
 मम सर्वविनाशाय संप्राप्तस्त्वं महामुने ।  
 न चैकस्मिन्हते रामे सर्वे जीवामहे वयम्॥१०॥
 
@@ -8592,8 +8033,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तदा तु जृम्भितं शैवं धनुर्भीमपराक्रमम् ।  
 हुङ्कारेण महादेवः स्तम्भितोऽथ त्रिलोचनः ॥१९॥
 
-
-
 देवैस्तदा समागम्य सर्षिसङ्घैः सचारणैः ।  
 याचितौ प्रशमं तत्र जम्मतुस्तौ सुरोत्तमौ ॥२०॥
 
@@ -8622,8 +8061,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 पृथिवीं चाखिलां प्राप्य कश्यपाय महात्मने ।  
 यज्ञस्यान्ते तदा राम दक्षिणां पुण्यकर्मणे ॥२९॥
-
-
 
 दत्त्वा महेन्द्रनिलयस्तपोबलसमन्वितः ।  
 स्थितोऽस्मि तस्मिंस्तप्यन्वैसुसुखं सुरसेविते ॥३०॥
@@ -8655,8 +8092,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 वीर्यहीनमिवाशक्तं क्षत्रधर्मेण भार्गव ।  
 अवजानासि मां राम पश्य मेऽद्य पराक्रमम्॥३॥
 
-
-
 इत्युक्त्वा राघवः क्रुद्धो भार्गवस्य वरायुधम् ।  
 शरं च प्रतिजग्राह हस्ताल्लघुपराक्रमः॥४॥
 
@@ -8685,8 +8120,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 तेजोऽभिहतवीर्यत्वाज्जामदग्न्यो जडीकृतः ।  
 रामं कमलपत्राक्षं मन्दं मन्दमुवाच ह॥१२॥
-
-
 
 त्राहि त्राहि महाबाहो शृणु राम बचो मम ।  
 राजसूये कृते पूर्वं यज्ञे दशरथात्मज॥१३॥
@@ -8719,8 +8152,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 तथा ब्रुवति रामे तु जामदग्न्ये प्रतापवान् ।  
 रामो दाशरथिः श्रीमांश्चिक्षेप शरमुत्तमम्॥२३॥
 
-
-
 स हतान्दृश्य रामेण स्वांल्लोकांस्तपसार्जितान् ।  
 जामदग्न्यो जगामाशु महेन्द्रं पर्वतोत्तमम्॥२४॥
 
@@ -8749,8 +8180,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 जामदग्न्यो गतो रामः प्रयातु चतुरङ्गिणी।  
 अयोध्याभिमुखी सेना त्वया नाथेन पालिता ॥४॥
-
-
 
 संदिशस्व महाराज सेनां त्वच्छासने स्थिताम् ।  
 शासनं काङ्क्षते सेना चातकालिर्जलं यथा॥५॥
@@ -8781,8 +8210,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 रामं च लक्ष्मणं चैव शत्रुघ्नं भरतं तथा ।  
 अर्चयन् मङ्गलाशीर्भिर्मङ्गलैरभ्यपूजयन्  
 उपाहारैश्च संहृष्टाः कुमारानभिपूज्य च॥१४॥
-
-
 
 ततः सीतां महाभागामूर्मिलां च यशस्विनीम् ।  
 कुशध्वजसुते चोभे जगृहुर्नृपपत्नयः॥१५॥
@@ -8815,8 +8242,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 प्रार्थिवस्तेन धर्मज्ञ मिथिलायामहं तदा ।  
 ऋषियध्ये तु तस्य त्वं प्रीतिं कर्तुमिहार्हसि॥२४॥
 
-
-
 श्रुत्वा दशरथस्यैतद्भरतः कैकयीसुतः ।  
 अभिवाद्य गुरुं रामं परिष्वज्य च लक्ष्मणम् ॥  
 गमनायाभिचक्राम शत्रुघ्नसहितस्तदा ॥२५॥
@@ -8848,8 +8273,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 प्रिया तु सीता रामस्य दाराःपितृकृता इति ।  
 गुणाद्रुपगुणाञ्चापि प्रीतिर्भूयोऽभ्यवर्धत॥३४॥
 
-
-
 हृदयं चैव जानाति प्रीतियोगि परस्परम्॥३५॥
 
 तस्याश्च भर्ता द्विगुणं हृदये परिवर्तते ।  
@@ -8874,10 +8297,5 @@ We have great pleasure in presenting to the public this attractive new edition o
 गच्छता मातुलकुलं भरतेन तदाऽनघः ।  
 शत्रुघ्नो नित्यशत्रुघ्नो नीतः प्रीतिपुरस्कृतः ॥  
 ![](../books_images/U-IMG-1699861613Screenshot2023-11-06232243.png)
-
-
-
-
-
 
 \]
