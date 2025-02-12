@@ -15,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY3ODA3ODg5NjU
 
 **काव्यमाला।**
 
-![](#)![](../books_images/U-IMG-1727856899Screenshot2024-10-02134336.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1727856899Screenshot2024-10-02134336.png"/>
 
 **श्री[^1]रुद्रटमणीतः**
 
@@ -24,7 +24,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY3ODA3ODg5NjU
 **काव्यालंकारः।**
 
 श्वेता[^2]म्बरजैनपण्डितनमिसाधुकृतटिप्पणसमेतः।  
-![](../books_images/U-IMG-1727856658Screenshot2024-10-02134009.png)
+<MISSING_FIG href="../books_images/U-IMG-1727856658Screenshot2024-10-02134009.png"/>
 
 [^2]: "नमिसाधुरस्य ग्रन्थस्य टिप्पणं १०६९ मिते ख्रिस्तसंवत्सरे रचितवानिति टिप्पणसमाप्तौ स्थितात् ‘पञ्चविंशतिसंयुक्तैरेकादशसमाशतैः। विक्रमात्समतिक्रान्तैः प्रावृपीदं समर्थितम्॥’ इत्यस्माच्छ्लोकाज्ज्ञायते. राजकीयसंग्रहान्तर्वर्तिनि तालपन्नलिखिते टिप्पणपुस्तके तु ‘षट्सप्ततिसंयुक्तैरेकादशसमाशतैः’ इति पाठो वर्तते. अत्र तु छन्दोभङ्गः"
 
@@ -4360,6 +4360,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY3ODA3ODg5NjU
 विट एकदेशविद्यो विदूषकः क्रीडनीयकप्रायः।  
 निजगुणयुक्तो मूर्खो हासकराकारवेषवचाः॥१५॥
 
+ 
+
 त्रिविध इति। विट इति। गतार्थमार्याद्वयम्॥
 
  अथ नायिकानां स्वरूपं भेदान्प्रभेदांश्च भेदप्रभेदस्वरूपं चाह—
@@ -5246,21 +5248,20 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY3ODA3ODg5NjU
 
 -----------
 
-![](../books_images/U-IMG-17288836321.png)
+<MISSING_FIG href="../books_images/U-IMG-17288836321.png"/>
 
-![](../books_images/U-IMG-17288837062.png)
+<MISSING_FIG href="../books_images/U-IMG-17288837062.png"/>
 
-![](../books_images/U-IMG-17288838073.png)
+<MISSING_FIG href="../books_images/U-IMG-17288838073.png"/>
 
-![](../books_images/U-IMG-17288838954.png)
+<MISSING_FIG href="../books_images/U-IMG-17288838954.png"/>
 
-![](../books_images/U-IMG-17288839745.png)
+<MISSING_FIG href="../books_images/U-IMG-17288839745.png"/>
 
 [TABLE]
 
-![](../books_images/U-IMG-17288840446.png)
+<MISSING_FIG href="../books_images/U-IMG-17288840446.png"/>
 
-![](../books_images/U-IMG-17288841167.png)
+<MISSING_FIG href="../books_images/U-IMG-17288841167.png"/>
 
 \]
-

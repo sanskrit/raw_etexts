@@ -317,7 +317,7 @@ Size of leaves 10×4¼ inches, lines on a page 9. It differs considerably from A
 
 **R. Pischel**.  
 
-![](../books_images/U-IMG-1734881711Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1734881711Screenshot2024-08-08063503.png"/>
 
 M I S P R I N T S.
 
@@ -326,7 +326,7 @@ p. 72, 5 r.   ºग्रहाः।
 
  In printing parts of some letters and even whole letters have occasionally dropped. I have noticed: p. 4, 2 °शदमो; p. 7, 9 नोज्ज्वलं; p. 7, 11 त्वन्ये; p. 21, 5 °न्को; p. 31, 1 °ग्यगर्वं; p. 38, 3 चक्षुर्दिक्षु .
 
-![](../books_images/U-IMG-1734881711Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1734881711Screenshot2024-08-08063503.png"/>
 
 **शृङ्गारी गिरिजानने सकरुणो रत्यां प्रवीरः स्मरे  
 बीभत्सोऽस्थिभिरुत्फणीति भयकृन्मूर्त्याद्भुतस्तुङ्गया।  
@@ -2447,7 +2447,7 @@ BE°शव°C °र्णवसं° From बसंत° to गुण° line 10 
 —————————
 
 **Notes.**  
-![](../books_images/U-IMG-1735200625Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1735200625Screenshot2024-08-08063503.png"/>
 
 **1. Notes on Rudraṭa.**
 
@@ -2460,13 +2460,13 @@ and translated by *Aufrecht*, ZDMG. 36, 376, who also compares Çiçupâlavadha 
 
 heroine is called **विरहोत्कपिठता**.—136. Quoted: Alaṁkâratilaka fol. 25^(a). Sâhityad. p. 49. 74. (1. 1 **ममोद्वेजितः** 1. 2 **यन्नाद्यागतो** 1. 3 **विन्यस्य**.) Translated by *Böhtlingk*, Ind. Spr. I², 1718.—137. Daçar. 2, 23. Sâhityad. 120. Sarasvatîk. 5, 118. Pratâpar. 1, 41. —139. Daçar. 2, 24. Sâhityad. 117. Sarasvatîk. 5, 116. Pratâpar. 1, 45. In all these works the name of this kind of heroines is **कलहान्तरिता**.—141. Daçar. 2, 25. Sâhityad. 118. Sarasvatîk. 5, 117. Pratâpar. 1, 43.— 142. Quoted: Alaṁkâratilaka fol. 25ª. Alaṁkâracuḍâmaṇi fol. 44^(a).——143. Daçar. 2, 24. Sâhityad. 114. Sarasvatîk. 5, 115. Pratâpar. 1, 44.— 145. Daçar. 2, 25. Sâhityad.115. Sarasvatîk. 5, 120. Pratâpar. 1, 47.—147. **गर्जित्**. is, I think, the correct reading. It is also intimated in A. In none of the passages quoted by Böhtlingk nor below 3, 61 the gender of **गर्जि** is distinguishable.— 147. Daçar. 2, 25. Sâhityad. 119. Sarasvatîk. 5, 120. Pratâpar. 1, 46. —151 ff. Sâhityad. 116.—155. Sâhityad. 122.—157. This stanza is an imitation of Amaru st. 53. Hence the interpolation in D. 159. **शबलित** = mixed with“, „sticking to“.—165 . तीक्ष्ण= ,,an ascetic“.
 
-![](../books_images/U-IMG-1736007641Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1736007641Screenshot2024-08-08063503.png"/>
 
  1. Sarasvatîk. 5, 46. p. 310, 11 ff. Sâhityad. 213. Agnipurâna 341, 5.— Kâvyaprakâça p. 53, 11. Rasataraṅgiṇî p. 59, 11 f. Rasagaṅgâdhara p. 60, 4 ff. divide the *vipralambha* into five kinds: *abhilâṣa, viraha* (Rasat. instead: *gurunirdeça*), *irṣyâ, pravâsa* (Rasat. *deçántaragamana*), çápa. The Daçarûpa 4, 53 divides it into two kinds only: mâna and *pravâsa*. Hence the assertion of Jagannâtha that the old ones (*prâñcaḥ*) state five kinds is wrong. cfr. *Regnaud* 1. c. p. 303 ff.— 2. Sâhityad. 214. —4. cfr. Kâvyâdarça 2, 41.— 6 ff. Daçar. 4, 48 ff. Sâhityad. 214. Commentary on Hâla st. 185 (minor edition, from the Kâmaçâstra). cfr. Bhâratîyan. 6, p.5, 19 f.: वैशिकशास्त्रकारैश्च (thus Pûṅa MSS.) **दशावस्थोऽभिहितः** (scil. **शृङ्गारः**).— Sarasvatîk. 5, 98 ff. and Pratâpar. 4, 73 (**कामशास्त्रानुसारतः**। **केचित्तु दशवस्था इति कथयन्ति**) distinguish 12 *avasthâs*. Kumârasvâmin in his commentary on the last passage has the following quotation:॥ **अथ**
 
 **एवोक्तं भावप्रकाशे॥ दशधा मन्मयावस्था भवेद्द्वादशधापि वा। इच्छोत्कण्ठाभिलाषाश्च चिन्ता स्मृतिगुणस्तुती॥ उद्वेगोऽथ प्रलापः स्यादुन्मादो व्याधिरेव च। जाड्यं मरणमित्याद्ये द्वे कैश्चिद्वर्जिते बुधैरिति॥ अन्ये तु॥ दृङ्मनःसङ्गसंकल्पा जागरः कृशता रतिः। ह्रीत्यागोन्मादमूर्छान्ता इत्यनङ्गदशा दशोत्याहुः॥** cfr.. also *Hall*, Preface to theDaçarûpa p. 34 note.—12. Quoted: Çârngadharap. 1. c. p. 81. — 14. Compare *Uhle* on Vetâlap. p. 190.— 28 f. Sâhityad. 215. —38. **रात्रिचार = ,,**taking place by night“.— 50. Quoted: Çârṅgadharap. 1. c. p. 81.—62 ff. Daçar. 4, 56 ff. Sâhityad. 220.—69. **स्वसंज्ञाकृता** = „called (**आकृता**) by name“—. 79. **अमुष्यां** is the Accus. sing. femin. of a pronoun **अमुष्य**, which has its origin in the Genit. sing. mascul. of **अदस्**, appearing as the former part of compounds like **अमुष्यपुत्र, अमुष्यकुल**. 102. Daçar. 2, 27. Sâhityad. 157. Pratâpar. 1, 48. 103. Sâhityad. 158, copied from Rudraṭa. 105. **कदम्ब** n. = ,,flower of the Nauclea Cadamba“.—107. Quoted: Çârṅgadharap. 1. c. p. 80.—109. कठिन° ,,fullmoon“cfrÇiçup. 1, 20.
 
-![](../books_images/U-IMG-1735276673Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1735276673Screenshot2024-08-08063503.png"/>
 
  1 ff. *Regnaud* 1. c. p. 306 ff. Vâgbhaṭâl5, 20 ff. Candrâl.— 6, 6 ff.— 3. Quoted: Alaṁkâracûḍâmaṇi fol. 10^(b) (MS.A; fol. 21^(b)MS. B). —26 **पत्त्रिक** means,I think, „vulture“. —cfr.Caṇḍakauçikamp. 71, 4 ff.ZDMG. 36, 366 f. 35—50 are quoted in thePratâpar. 4, 100. 101 in a somewhat different order and with various readings. 52 ff. See note on 1, 19—60.**चतुष्कार्चितः**=„adorned with ornaments of pearls“.—62. Quoted: Çârṅgadharap. I. c. p. 80.
 
@@ -2478,9 +2478,8 @@ alphabet it is impossible to confound these ligatures; 2) by Raghuvaṁça 18, 3
 
 —————
 
-![](../books_images/U-IMG-1734892187Screenshot2024-12-22235929.png)  
+<MISSING_FIG href="../books_images/U-IMG-1734892187Screenshot2024-12-22235929.png"/>  
 **Bonn:  
 Printed by CharlesGeorgi.**
 
 \]
-

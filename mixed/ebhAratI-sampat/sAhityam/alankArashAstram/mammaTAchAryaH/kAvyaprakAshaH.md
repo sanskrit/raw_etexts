@@ -1010,6 +1010,8 @@ Miscellaneous.
 यदि दहत्यनलोऽत्र किमद्भुतं यदि च गौरवमद्रिषु किं ततः।  
 लवणमम्बु सदैव महोदधेः प्रकृतिरेव सतामविषादिता॥६३॥
 
+ 
+
 इत्यादिका मालाप्रतिवस्तूपमा द्रष्टव्या। एवमन्यत्राप्यनुसर्तव्यम्॥
 
 **दृष्टान्तः पुनरेतेषां सर्वेषां प्रतिबिम्बनम्॥१६॥**
@@ -1142,6 +1144,8 @@ Miscellaneous.
 
 **अखण्डमण्डलः श्रीमान्पश्यैष पृथिवीपतिः।  
 न निशाकरवज्जातु कलावैकल्यमागतः॥७६॥**
+
+ 
 
 अत्र तुल्यार्थे वतिः कलाशब्दः श्लिष्टः।
 
@@ -1450,6 +1454,8 @@ Miscellaneous.
 कर्पूर मं. २. ९.
 
  श्वासदण्डादिगतं दीर्घत्वादि शाब्दम्, दिवस-निशादिगतं तु सहार्थसामर्थ्यात्प्रतिपद्यते ।
+
+ 
 
 **सेति**। “शब्दशक्त्या एकार्थाभिधायकं पदं यत्सहार्थान्वयबलादनेकार्थाभिधायकं सा सहोक्तिः। 'चैत्रमैत्रौ गच्छतः' इत्यादौ तु शब्दशक्त्यैवोभयाभिधानम्" \[प्र०\]।
 
@@ -3716,6 +3722,8 @@ KĀRIKĀ X
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+ 
+
 1\. अन्यत्साध्यते इत्येतावदुक्तौ रूपकातिव्याप्तेः प्रकृतमित्युक्तम्। तन्मात्रोक्तौ च निषेधालंकारे वक्ष्यमाणेऽतिव्याप्तिरत उभयोपादानम्। प्रभा.
 
 ** अपह्नुति** is of two kinds:— (A) Expressed and (B) Implied. Of these the first is instanced in **अवाप्तः प्रागल्भ्यं** etc. verse 39. Here, the unreality of the spot on the Moon is expressed by the words **कलंको नैवायम्**.
@@ -4692,9 +4700,9 @@ in places that are several. No cause, however, as to why it resides in many plac
 
 Although¹[^53]
 
-**कालकूट**
-
 [^53]: "अत्र गेहादि त्यज्यते एव, न तु केनापि स्वीक्रियते। परिवृत्तौ तु यदेकेन त्यज्यते तदन्येन गृह्यते। San."
+
+**कालकूट**
 
 is abandoned by **अर्णव**, still, something else is not received by him; so also although**कालकूट**is received by **शंकर**, still, something else is not abandoned by him.
 
@@ -4963,6 +4971,8 @@ reach of any other means of proof,' and not 'remarkably striking.' For, if we ac
 
  In this (world), an effect such as, 'smoke etc.' is observed to be produced at the very place where the cause (such as 'fire etc.) is present. Where, however, things, although related to each other as cause and effect, are represented as simultaneously residing in two totally different places, owing to the peculiar excellence (of the cause), that is area; (so called) because, in it the mutual association of cause and effect which is natural to them (or well-known) is abandoned.
 
+ 
+
 Here, the word**अत्यन्त**although mentioned separatelyfrom**भिन्नदेशतया** is yet connected (as an adjective) with **भिन्न**, and shows that the places must be quite apart from each other. Thus, the definition does not extend to such an example²[^78]as**दष्टो भुजंगेन** etc. where the eyes and feet are not completely different from each other in point of locality, they residing in one and the same body.
 
 [^78]: "'दष्टो भुजंगेन पदेऽक्ष्णि घूर्णते ' इत्यत्र नातिव्याप्तिः, देशस्य अत्यन्तभिन्नत्वाभावात्। Vam."
@@ -5151,7 +5161,7 @@ because, according to it, the definition of this figure does not extend to such 
 
 [^98]: "अन्यादृशेति । सादृश्यामूलकेत्यर्थः । ' स तथेति प्रतिज्ञाय विसृज्य कथमप्युमाम् । ऋषीञ्ज्योतिर्मयान् सप्त सस्मार स्मरशासनः॥ 'इत्यादौहि न स्मृतेश्चारुत्वमिति नालङ्कारत्वम्। प्रभा."
 
- Thus, the definition of**स्मरण** is:— *When an object, which is once cognised (by any of the kinds of evidence) as possessed of a certain form, is afterwards recollected in the same form (in which it was cognised before), on the perception[^99](by any of the senses) or even on the recollection[^100] of another object*
+ Thus, the definition of**स्मरण** is:— *When an object, which is once cognised (by any of the kinds of evidence) as possessed of a certain form, is afterwards recollected in the same form (in which it was cognised before), on the perception[^99] (by any of the senses) or even on the recollection[^100] of another object*
 
 [^99]: "3. उपलब्धिमात्रे अत्र दृशिरिति। San."
 
@@ -5356,6 +5366,8 @@ verse which consists of both word and sense; that is **संसृष्टि*
 
  The words **भेदेन स्थितिः**exclude **संकर**, in the first kind of which, the figures are dependent upon each other as regards their natures; in the second, their existence is not an ascertained one; and in the third, they are dependent upon each other as regards the words that contain them, or rather, the words that contain them are not different. This Aggregation may be of two figures of 'word' or of two figures of 'sense' or of one figure of 'word' and one figure of 'sense.'
 
+ 
+
 Of these, the
 
 Aggregation of two figures of 'word' may be instanced in **वदन**
@@ -5369,6 +5381,8 @@ figures of 'sense, however, may be instanced in **लिम्पतीव***etc
 , both figures of 'sense' exist similarly (i. e. independent of each other), and thus (lead to the
 
 figure Aggregation).
+
+ 
 
 The
 
@@ -6823,4 +6837,3 @@ Vāg.— Vāg-bhaṭālaṅkāra.
 | बा० च०— बालचरितम् (भास ) |        |                                          |
 
 \]
-

@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc5MDI3ODQ0NzU
 
 \[
 
+
+
+
+
 ***ऊरुभङ्गम्***।
+
+
+
+
 
 (
 
@@ -25,6 +33,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc5MDI3ODQ0NzU
 सूत्रधारः
 
 )
+
+
 
 सूत्रधारः
 
@@ -235,6 +245,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc5MDI3ODQ0NzU
 इति
 
 स्थापना
+
+
 
 अथ
 
@@ -514,6 +526,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc5MDI3ODQ0NzU
 
 प्रतिभयता।
 
+
+
 प्रथमः
 
 ---
@@ -783,6 +797,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc5MDI3ODQ0NzU
 वज्रपतनैश्चूर्णीकृताः
 
 पर्वता
+
+
 
 निर्घातैस्तुमुलस्वनप्रतिभयैः
 
@@ -1471,6 +1487,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc5MDI3ODQ0NzU
 इति
 
 विष्कम्भकः
+
+
 
 प्रथमोऽङ्कः
 
@@ -4829,6 +4847,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc5MDI3ODQ0NzU
 
  ----------
 
+
+
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 
 \]

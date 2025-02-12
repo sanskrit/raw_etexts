@@ -12,11 +12,33 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI5NTYyMzA2NjU
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **रघुवीरगद्यम्**
+
+
+
+
+
+
 
 जयत्याश्रित संत्रास ध्वान्त विध्वंसनोदयः \।
 
 प्रभावान् सीतया देव्या परम- व्योम भास्करः \।\।
+
+
 
 जय जय महावीर !
 
@@ -280,9 +302,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI5NTYyMzA2NjU
 
 नमस्ते पुनस्ते नमः \।\।
 
+
+
 चतुर्मुखेश्वरमुखैः पुत्र पौत्रादि शालिने \।
 
 नमः सीता समेताय रामाय गृहमेधिने \।\।
+
+
 
 कविकथक सिंहकथितं
 
@@ -292,7 +318,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI5NTYyMzA2NjU
 
 पठत महावीर वैभवं सुधियः \।\।
 
+
+
 सर्वं श्री कृष्णार्पणमस्तु
+
+
 
 The text is authored by Shri vedAnta deshika a great Vaishnava
 
@@ -302,8 +332,19 @@ possessing the title kavithaarkika simham.
 
 In his works, the indication or mudhra is "venkatesa" or venkata kavi .
 
+
+
 Encoded by T. R. Chari trchari@hotmail.com
 
 http://trchari.tripod.com/script.html
+
+
+
+
+
+
+
+
+
 
 \]

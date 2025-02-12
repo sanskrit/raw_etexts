@@ -13,8 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMwMTk2MzUwMjA
 
 \[
 
+
+
 **            श्रीः  
   *अलङ्कारमणिहार लक्षणश्लोकाः***
+
 
   ---------------------  
  जयतु श्रीवृषाद्रिस्थं जगत्रितयरक्षणम्।  
@@ -610,5 +613,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMwMTk2MzUwMjA
   ॥समाप्ता अलंकारमणिहारलक्षणश्लोकाः॥  
    
 (84)
+
 
 \]

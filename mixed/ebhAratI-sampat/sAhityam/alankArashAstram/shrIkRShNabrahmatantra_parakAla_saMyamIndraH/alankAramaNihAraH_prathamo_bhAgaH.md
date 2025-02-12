@@ -24,13 +24,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 [TABLE]
 
-![](../books_images/U-IMG-1699626862p.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1699626862p.PNG"/>
 
-![](../books_images/U-IMG-1699626578n.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1699626578n.PNG"/>
 
 \* श्रीकृष्णब्रह्मतन्त्रपरकालमहादेशिकाः \*
 
-![](../books_images/U-IMG-1706591004sss.png)
+<MISSING_FIG href="../books_images/U-IMG-1706591004sss.png"/>
 
 \* विद्वत्कविसार्वभौमाः \* कविगण्डभेरुण्डाः \*
 
@@ -136,7 +136,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 **अलङ्कारमणिहारः**
 
-![](../books_images/U-IMG-1699700069r.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1699700069r.PNG"/>
 
 श्रीहयवदनपरब्रह्मणे नमोनमः ॥
 
@@ -1106,6 +1106,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
  अत्रापि शबलितत्वविचित्रितत्वयोर्वस्तुप्रतिवस्तुभावः । तद्विशेष्यकयोः हीरकुरुविन्दहाररुचिगाङ्गसारस्वतपूरयोश्च बिम्बप्रतिबिम्बभाव इत्ययमपि तत्करम्भित एव ॥
 
+ 
+
 तृतीयो यथा—
 
 **शिशिरतरसलिलरुचिरा शशिशेखरमकुटवाहिनीवैषा ।  
@@ -1333,7 +1335,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलङ्कारमणिहारे उपमासरः प्रथमः
 
-![](../books_images/U-IMG-169962889551.PNG)
+<MISSING_FIG href="../books_images/U-IMG-169962889551.PNG"/>
 
 अथोपमेयोपमा  
 
@@ -1424,7 +1426,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 **इत्यलङ्कारमणिहारे उपमेयोपमासरो द्वितीयः**  
 
-![](../books_images/U-IMG-169970308052.PNG)
+<MISSING_FIG href="../books_images/U-IMG-169970308052.PNG"/>
 
 **अथानन्वयसरः**  
 
@@ -1450,6 +1452,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 निपुणं विचिन्तने पुनरुपमा भवतोऽस्ति ननु भवानेव ॥१३४॥**
 
  विधुतः त्रिविधोऽवधिः देशकालवस्तुपरिच्छेदो यस्य तं तथोक्तं ‘सत्यं ज्ञानमनन्तम्’ इति श्रुतेः । त्वां वेदः ‘न तत्समश्चाभ्यधिकश्च दृश्यते’ इति श्रुतिः निस्समं द्वितीयसदृशवस्तुरहितं वदतु । उपमासदृश इत्यर्थः‘प्रतिकृतिरुपमोपमानं स्यात्’इत्यमरः । ‘सहकार न प्रपेदे मधुपेन तवोपमा जगति’ इति प्रयोगश्च॥
+
+ 
 
 यथा वा—
 
@@ -1573,7 +1577,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलङ्कारमणिहारे अनन्वयसरस्तृतीयः
 
-![](../books_images/U-IMG-169942513640.PNG)
+<MISSING_FIG href="../books_images/U-IMG-169942513640.PNG"/>
 
 **अथासमालंकारसरः**
 
@@ -1664,7 +1668,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यसमालंकारसरश्चतुर्थः
 
-![](../books_images/U-IMG-169942710641.PNG)
+<MISSING_FIG href="../books_images/U-IMG-169942710641.PNG"/>
 
 अथोदाहरणालंकारसरः  
 
@@ -1734,7 +1738,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 द्यांशमात्रे विशेषत्वम् । विधेयांशस्तु सामान्यगत एवेत्येका । अनुवाद्यविधेयोभयांशेऽपि विशेषत्वमित्यपरा । तत्राद्या उदाहरणालङ्कारस्य विषयः । द्वितीया त्वर्थान्तरन्यासभेदस्य । एवं च ‘मृगनाभिस्सुरभितया भगवत इव निटिलफलकसीमायाम्’ इत्युदाहरणालङ्कारगते विशेषे मान्यतामेतीति प्राचीनसामान्यार्थगतैव यथोक्तरूपेण क्रिया विधेया ।‘भगवद्वदने बिभर्ति तिलकत्वम्’इति तुरीयपादपाठेनार्थान्तरन्यासगते तु पृथगुपात्तविशेषरूपेण । एवं—‘यत्र क्ववाऽस्तुजातस्तेजस्वी भवति भूषणं महताम्’इत्याद्युदाहरणालङ्कारश्लोकेष्वपि ‘यदयं जनिमानुदधौ हृदये प्रचकास्ति कौस्तुभोऽच्युत ते’इत्याद्युत्तरार्धपाठे उदाहरणार्थान्तरन्यासविशेषयोर्वैलक्षण्यं बोध्यमिति । यदि चायमल्पो विशेषो नार्थान्तरन्यासविशेषस्योदाहरणालङ्कारात्पृथगलङ्कारतामीष्टे साधयितुं, अपि तु तद्विशेषतामित्युच्येत, तदा उदाहरणालङ्कारोऽर्थान्तरन्यासस्य, प्रतिवस्तूपमा दृष्टान्तस्य, अतिशयोक्ती रूपकस्य च विशेषः, उपमैव चार्थी स्मरणभ्रान्तिमत्सन्देहा इत्यपि सुवचं स्यात्, तत्रापि विशेषस्याल्पत्वात् । उपमयैवेमं गतार्थं मन्वानाःप्राञ्चस्तु विशेषेण सामान्यस्य समर्थनमर्थान्तरन्यासं विनाऽन्यत्र नेष्टे प्रवेष्टुमित्यभिप्रयन्तीति दिक् ॥
 
 **इत्यलङ्कारमणिहारे उदाहरणालङ्कारसरः पञ्चमः।**  
-![](../books_images/U-IMG-169943831442.PNG)
+<MISSING_FIG href="../books_images/U-IMG-169943831442.PNG"/>
 
 **अथ प्रतीपालङ्कारसरः**
 
@@ -1820,7 +1824,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 **इत्यलङ्कारमणिहारे प्रतीपालङ्कारसरः षष्ठः**  
 
-![](../books_images/U-IMG-169944721150.PNG)
+<MISSING_FIG href="../books_images/U-IMG-169944721150.PNG"/>
 
 **अथ रूपकम्**  
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -2391,7 +2395,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
  विमर्शिनीकारस्तु रूपकनिरूपणावसरे ‘क्वचिच्चाभेदमेव द्रढयितुं विषयिणो निषेधपूर्वकमारोप्यमाणत्वेन तदीयस्य वाऽभेदहेतोर्धर्मस्य हानिकल्पनेनाधिक्येन वा दृढारोपत्वेनापीदं दश्यते’ इत्यभाणीत् । तत्राद्यस्योदाहरणं पर्यस्तापह्नुतिनिरूपणावसरे दर्शयिष्यति । द्वितीय-तृतीययोरुदाहरणे तु कुवलयानन्दकृन्मतेन रूपकनिरूपणा वसरे दर्शिते न्यूनाधिकाभेदताद्रूप्यरूपकोदाहाहरणे एवेति ध्येयम् ॥
 
-![](../books_images/U-IMG-1699428581अलङ्कारमणिहार.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699428581अलङ्कारमणिहार.JPG"/>
 
 अथास्य ध्वनिः  
 
@@ -2420,7 +2424,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे रूपकसरस्सप्तमः.
 
-![](../books_images/U-IMG-1699429391alankarmanihara2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699429391alankarmanihara2.JPG"/>
 
 **अथ परिणामसरः.  
 \_\_\_\_\_\_\_**
@@ -2485,7 +2489,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
  केचित्तु— “क्वचित्केवलो विषयस्स्वात्मना न प्रकृतोपयोगीत्ययमारोप्यमाणाभिन्नतयाऽवतिष्ठते तत्रारोप्यमाणपरिणामः, यथा— ‘वदनेनेन्दुना तन्वी शिशिरीकुरुते दृशौ’ अत्र वदनमिन्द्व-भिन्नतयाऽवतिष्ठते, केवलस्य वदनस्य दृक्छिशिरीकारकत्वायोगात् । क्वचिच्चारोप्यमाणस्स्वात्मना न प्रकृतकार्योपयोगीत्ययं विषयाभिन्नतयाऽवतिष्ठते । तत्र विषयपरिणामः, यथा— ‘वदनेनेन्दुना तन्वी स्मरतापं विलुम्पति’ अत्रेन्दुर्वदनाभिन्नतयाऽवतिष्ठते, केवलस्येन्दोः स्मरतापापनोदकत्वायोगात् । एवं च परिणामद्वयात्मकमिदं रूपकमेव भवितुमर्हति विषयतावच्छेदकविषयितावच्छेदकान्यतरपुरस्कारेण निश्चीयमानविषयिविषयान्यतरत्वस्य तल्लक्षणत्वात् । अत एवोक्तं— ‘तद्रूपकमभेदो य उममानोपमेययोः’ इति । तस्मान्न रूपकात्परिणामोऽतिरिच्यते” इति वदन्ति । वस्तुतस्तूक्तरीत्या विच्छित्तिविशेषस्य सद्भावे अलंकारान्तरत्वमवश्याभ्युपेत्यम् । अन्यथा तुल्ययोगितादीपकादीनामपि यत्किंचिद्वैलक्षण्यसद्भावेन पृथगलंकारता न स्यादिति दिक् ॥
 
-![](../books_images/U-IMG-1699436326alankramanihara3.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699436326alankramanihara3.JPG"/>
 
 **अथ परिणामध्वनिः**
 
@@ -2516,7 +2520,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे परिणामसरोऽष्टमः**.**
 
-![](../books_images/U-IMG-1699436806l.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1699436806l.PNG"/>
 
 **अथोल्लेखसरः.**
 
@@ -2596,7 +2600,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
  अत्रैकस्यैव भगवदुदयस्य फलानामनेकधात्वेनोल्लेखनम् । तद्धाम तत्तेजः परं ब्रह्मेत्यर्थः ॥
 
-![](../books_images/U-IMG-1699440093a4.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699440093a4.JPG"/>
 
 **अथ द्वितीय उल्लेखः.  
 \_\_\_\_\_\_\_**
@@ -2660,7 +2664,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
  अत्र गोपादिसहचरभेदप्रयुक्तं भगवतोऽनेकविधत्वम् । एवमन्येषां सम्बन्धिनां भेदेऽप्यूह्यम् ॥
 
-![](../books_images/U-IMG-1699513150अलंकार5.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699513150अलंकार5.JPG"/>
 
 अथोल्लेखध्वनिः  
 
@@ -2691,7 +2695,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे उल्लेखसरो नवमः
 
-![](../books_images/U-IMG-1699514598Capture6.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699514598Capture6.JPG"/>
 
 अथ स्मृत्यलंकारसरः  
 
@@ -2795,7 +2799,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
  अत्राद्ये विभासिनीत्यादिशब्दः श्रीनिवासहृदयस्थलीहैमनसमृद्ध्योः साधारणो धर्मः । द्वितीये मृद्वीकामितफलदेतिशब्दो हरिप्रियोद्यानवन्योः । मृद्वीदयामृदुला कामितफलदा ।पक्षे–मृद्वीकानां द्राक्षाणां अमितानि फलानि ददाति तथोक्ता । एवमन्येऽपि भेदास्सुधीभिरुन्नेयाः ॥
 
-![](../books_images/U-IMG-1699518616Capture7.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699518616Capture7.JPG"/>
 
 **अथास्य ध्वनिः**  
 
@@ -2819,7 +2823,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे स्मृतिसरो दशमः
 
-![](../books_images/U-IMG-1699522102captur8.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699522102captur8.JPG"/>
 
 **अथ भ्रान्तिमदलंकारसरः**  
 
@@ -2895,7 +2899,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 **बिभ्यति वीक्ष्य मयूरान् कादम्बा नूतनाम्बुदभ्रान्त्या ।  
 तेऽपि निरीक्ष्य मरालान् शारदनीरदधिया वृषाद्रिवने ॥ २९३ ॥**
 
-![](../books_images/U-IMG-1699524080Capture9.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699524080Capture9.JPG"/>
 
 अथास्य ध्वनिः  
 
@@ -2910,7 +2914,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे भ्रान्तिसर एकादशः
 
-![](../books_images/U-IMG-1699524606Capture10.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699524606Capture10.JPG"/>
 
 अथ सन्देहसरः  
 
@@ -3106,7 +3110,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलङ्कारमणिहारे सन्देहसरो द्वादशः
 
-![](../books_images/U-IMG-1699601677Capture11.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699601677Capture11.JPG"/>
 
 अथापह्नुतिसरः  
 
@@ -3317,7 +3321,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
  अत्र नैषा वैजयन्ती अपि तु इन्द्रधनुर्वल्ली, नाप्येषा लक्ष्मीः अपि तु विद्युल्लतेति पूर्वोत्तराभ्यां द्वे अपह्नुती तावत् स्पष्टमेव निर्दिष्टे । ताभ्यां च नायं भगवान् किं तु प्रावृषेण्यघनाघन इति तृतीयापह्नुतिर्व्यञ्जनया प्राधान्येनावेद्यते तदीयवस्तुप्रतिषेधारोपयोः तत्प्रतिषेधारोपावेदकताया न्यय्यत्वात् ॥
 
-![](../books_images/U-IMG-1699426414g.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1699426414g.PNG"/>
 
 **अथ हेत्वपह्नुतिः**
 
@@ -3339,7 +3343,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
  अत्र भगवतो निष्कलङ्कत्वरूपयुक्त्याअङ्के अङ्कत्वनिह्नवः अञ्जनबिन्दुत्वारोपार्थः ॥
 
-![](../books_images/U-IMG-1699427033i.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1699427033i.PNG"/>
 
 **अथ पर्यस्तापह्नुतिः**
 
@@ -3400,7 +3404,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
  तर्हि दीक्षितानां कथमिदं परस्परविप्रतिषिद्धवादित्वमिति चेच्छृणु—चित्रमीमांसालक्षणं प्राचामनुरोधेन, इदं तु रत्नाकराद्यनुरोधेनेति न विरोधः ॥
 
-![](../books_images/U-IMG-1699428460j.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1699428460j.PNG"/>
 
 **अथ भ्रान्त्यपह्नुतिः**
 
@@ -3436,7 +3440,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
  अत्रापि कल्पिता भ्रान्तिः निषेधमात्रोन्नेया प्रश्नविरहात् । न तटित्त्वानिति निषेधे हंसानन्दविधायीति हेतूक्तिः चित्तहंसेति रूपकसंकीर्णत्वं च पूर्वस्माद्विशेषः ॥
 
-![](../books_images/U-IMG-1699428994k.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1699428994k.PNG"/>
 
 **छेकापह्नुतिः**
 
@@ -3618,7 +3622,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे अपह्नवसरस्त्रयादेशः
 
-![](../books_images/U-IMG-1699515459m.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1699515459m.PNG"/>
 
 **अथोत्प्रेक्षासरः**
 
@@ -4641,11 +4645,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे उत्प्रेक्षासरश्चतुर्दशः
 
-![](../books_images/U-IMG-170014045919.png)
+<MISSING_FIG href="../books_images/U-IMG-170014045919.png"/>
 
 **अथातिशयोक्तिसरः**
 
-**![](../books_images/U-IMG-170014047617.png)**
+**<MISSING_FIG href="../books_images/U-IMG-170014047617.png"/>**
 
 **निगीर्य विषयं यत्र विषय्येवाध्यवस्यते ।  
 रूपकातिशयोक्तिं तामलंकारविदो विदुः ॥**
@@ -5311,11 +5315,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलङ्कारमणिहारे तुल्ययोगितासरष्षोडशः
 
-![](../books_images/U-IMG-170005886922.png)
+<MISSING_FIG href="../books_images/U-IMG-170005886922.png"/>
 
 **अथ दीपकालंकारसरः**
 
-![](../books_images/U-IMG-170005888922.png)
+<MISSING_FIG href="../books_images/U-IMG-170005888922.png"/>
 
 **तद्दीपकं स्याद्यद्वर्ण्यावर्ण्ययोरेकधर्मता ॥**
 
@@ -5440,10 +5444,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे दीपकसरस्सप्तदशः.
 
-![](../books_images/U-IMG-170005953122.png)  
+<MISSING_FIG href="../books_images/U-IMG-170005953122.png"/>  
 
 **अथावृत्तिदीपकसरः**  
-![](../books_images/U-IMG-170005978417.png)
+<MISSING_FIG href="../books_images/U-IMG-170005978417.png"/>
 
 **समस्तयोर्व्यस्तयोर्वाऽऽवृत्तौ पदतदर्थयोः ।  
 आवृत्तिदीपकं प्राहुस्त्रिविधं बुधसत्तमाः ॥**
@@ -5546,7 +5550,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे आवृत्तिदीपकसरोऽष्टादशः
 
-![](../books_images/U-IMG-170006002217.png)
+<MISSING_FIG href="../books_images/U-IMG-170006002217.png"/>
 
 **अथ प्रतिवस्तूपमासरः**
 
@@ -5632,11 +5636,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलङ्कारमणिहारे प्रतिवस्तूपमासर एकोनविंशः
 
-![](../books_images/U-IMG-170006039117.png)
+<MISSING_FIG href="../books_images/U-IMG-170006039117.png"/>
 
 **अथ दृष्टान्तसरः**
 
-![](../books_images/U-IMG-170006039117.png)
+<MISSING_FIG href="../books_images/U-IMG-170006039117.png"/>
 
 बिम्बत्वप्रतिबिम्बत्वापन्नधर्मादिकं द्वयोः ।  
 वाक्यार्थयोश्चेदौपम्यमार्थं दृष्टान्त ईर्यते ॥
@@ -5702,7 +5706,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे दृष्टान्तसरो विंशः
 
-![](../books_images/U-IMG-1704180177aaaaa.png)
+<MISSING_FIG href="../books_images/U-IMG-1704180177aaaaa.png"/>
 
 **अथ निदर्शनालंकारसरः**
 
@@ -5968,7 +5972,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे निदर्शनासर एकविंशः
 
-![](../books_images/U-IMG-1704277137aaaaa.png)
+<MISSING_FIG href="../books_images/U-IMG-1704277137aaaaa.png"/>
 
 **अथ व्यतिरेकालंकारसरः**
 
@@ -6509,7 +6513,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे व्यतिरेकसरो द्वाविंशः
 
-**![](../books_images/U-IMG-170019162517.png)**
+**<MISSING_FIG href="../books_images/U-IMG-170019162517.png"/>**
 
  अथ सहोक्त्यलंकारसरः—
 
@@ -6672,7 +6676,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 ॥ इत्यलंकारमणिहारे सहोक्तिसरस्त्रयोविंशः ॥
 
-![](../books_images/U-IMG-170029024317.png)  
+<MISSING_FIG href="../books_images/U-IMG-170029024317.png"/>  
 
 **अथ विनोक्तिसरः**  
 \_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -6684,6 +6688,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 **फणिरमणतु शब्दनये कणचरणतु वाऽपिकोपि तर्कनये ।  
 गणनां नार्हति मनुजः फणिनाथगिरीश्वरे विना भक्तिम् ॥ ७१५ ॥**
+
+ 
 
 अत्र भगवद्भक्तिविनाकृतस्यारम्यत्वम् ॥
 
@@ -6787,7 +6793,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 
 इत्यलंकारमणिहारे विनोक्तिसरश्चतुर्विंशः
 
-![](../books_images/U-IMG-170029175517.png)
+<MISSING_FIG href="../books_images/U-IMG-170029175517.png"/>
 
 **अथ समासोक्तिसरः**  
 
@@ -8536,6 +8542,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3MDgzNTc4NTI
 **इत्यलंकारमणिहारे समासोक्तिसरः पञ्चविंशः.  
 पूर्वभागस्समाप्तः.**
 
-**![](../books_images/U-IMG-170132070717.png)**
+**<MISSING_FIG href="../books_images/U-IMG-170132070717.png"/>**
 
 \]

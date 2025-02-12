@@ -192,7 +192,7 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **चन्द्रालोकः**
 
-**![](../books_images/U-IMG-1702017689e.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1702017689e.PNG"/>**
 
 **प्रथमो मयूखः**
 
@@ -282,7 +282,7 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **इति चन्द्रालोकालङ्कारे वाग्विचारो नाम प्रथमो मयूखः ।**
 
-**![](../books_images/U-IMG-1702018659f.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1702018659f.PNG"/>**
 
 तन्त्र पूरा वाक्य है परन्तु सम्बोधन विभक्ति युक्त होने पर भीदेव ! यह पूरा वाक्य नहीं है । बहुत से वाक्य जिनका अर्थ मिलकर एक ही होता है वाक्य–कदम्वकहलाते हैं ॥१५॥
 
@@ -294,7 +294,7 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **द्वितीयो मयूखः**
 
-**![](../books_images/U-IMG-1702018810g.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1702018810g.PNG"/>**
 
 **अथ दोषाः**
 
@@ -309,7 +309,7 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **द्वितीयो मयूखः**
 
-**![](../books_images/U-IMG-1702019003h.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1702019003h.PNG"/>**
 
  हृदय में प्रवेश करते ही शब्द और अर्थ द्वारा उत्पन्न हुए भावो में रमणीयता के साथ विनाश वर्णन अलङ्कार शास्त्र में दोष माना गया है ॥१॥
 
@@ -340,7 +340,7 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **द्वितीयो मयूखः**
 
-**![](../books_images/U-IMG-1702019344g.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1702019344g.PNG"/>**
 
 **अथ दोषाः**
 
@@ -355,7 +355,7 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **द्वितीयो मयूखः**
 
-**![](../books_images/U-IMG-1702019597i.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1702019597i.PNG"/>**
 
  हृदय में प्रवेश करते ही शब्द और अर्थ द्वारा उत्पन्न हुए भावो में रमणीयता के साथ विनाश वर्णन अलङ्कारशास्त्र में दोष माना गया है ॥१॥
 
@@ -603,11 +603,11 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **इति द्वितीयो मयूखः**
 
-**![](../books_images/U-IMG-1702021604j.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1702021604j.PNG"/>**
 
 **तृतीयो मयूखः**
 
-**![](../books_images/U-IMG-1702021215g.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1702021215g.PNG"/>**
 
 **अथ लक्षणानि**
 
@@ -643,7 +643,7 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **चतुर्थो मयूखः**
 
-**![](../books_images/U-IMG-1702981365g.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1702981365g.PNG"/>**
 
 **अथ गुणाः**
 
@@ -689,11 +689,11 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **इति चतुर्थ मयूख**
 
-**![](../books_images/U-IMG-1703075557o.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1703075557o.PNG"/>**
 
 **पञ्चमो मयूखः**
 
-**![](../books_images/U-IMG-1703077320p.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1703077320p.PNG"/>**
 
 **अथालङ्काराः**
 
@@ -764,6 +764,8 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 काश्मीरसेकारक्ताङ्गी=केशर रगी हुई ।
 
 शत्रु श्रिता शत्रु के कराठ पर गिर को उद्यत ॥१०॥
+
+       
 
 **उपमा यत्र सादृश्यलक्ष्मीरुल्लसति द्वयोः ।  
 हृदये खेलतोरुच्चैस्तन्वङ्गीस्तनयोरिव ॥११॥  
@@ -1381,7 +1383,7 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **षष्ठो मयूखः**
 
-**![](../books_images/U-IMG-1703134051q.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1703134051q.PNG"/>**
 
 **आलम्बनोद्दीपनात्मा विभावः कारणं द्विधा ।  
 कार्योऽनुभावो भावश्च सहायो व्यभिचार्यपि ॥१॥  
@@ -1497,7 +1499,7 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **सप्तमो मयूखः**
 
-**![](../books_images/U-IMG-1703134765r.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1703134765r.PNG"/>**
 
 **वृत्तिभेदैस्त्रिभिर्युक्ता स्रोतोभिरिव जाह्नवी ।  
 भारती भाति गम्भीरा कुटिला सरला क्वचित् ॥१॥  
@@ -1591,11 +1593,11 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **इति सप्तमो मयूख ।**
 
-**![](../books_images/U-IMG-1703135354s.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1703135354s.PNG"/>**
 
 **अष्टमो मयूखः**
 
-**![](../books_images/U-IMG-1703135406q.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1703135406q.PNG"/>**
 
 **यद्व्यज्यमान मनसस्तैमित्याय स नो ध्वनिः ।  
 अन्यथा तु गुणीभूतव्यङ्ग्यमापतितं त्रिधा ॥१॥  
@@ -1653,7 +1655,7 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **इति अष्टमो मयूख ।**
 
-**![](../books_images/U-IMG-1703135875t.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1703135875t.PNG"/>**
 
 **नवमो मयूखः**
 
@@ -1747,11 +1749,11 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **इति नवमो मयूख ।**
 
-**![](../books_images/U-IMG-1703136606u.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1703136606u.PNG"/>**
 
 **दशमो मयूखः**
 
-**![](../books_images/U-IMG-1703072140l.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1703072140l.PNG"/>**
 
 **धर्म कञ्चित् पुरस्कृत्य प्रायः शब्दः प्रवर्तते ।  
 यथार्थे स्पष्टमाचष्टे शब्दस्तामभिधां विदुः ॥१॥  
@@ -1790,11 +1792,11 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 
 **इति दशमो मयूखः ।**
 
-**![](../books_images/U-IMG-1703072618m.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1703072618m.PNG"/>**
 
 **समाप्तश्चायं ग्रन्थः ।**
 
-**![](../books_images/U-IMG-1703072643n.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1703072643n.PNG"/>**
 
 **श्लोकानुक्रमणिका ।**
 
@@ -1981,4 +1983,3 @@ The present century has had much to do with the ‘Aesthetica’of Benedetto Cro
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \]
-

@@ -11,7 +11,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 \[
 
+              
+
+
+
 ॐ
+
+ 
 
 ॥
 
@@ -19,9 +25,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 अभिज्ञानशाकुन्तलम्
 
 नाम
+
+ 
 
 ॥
 
@@ -29,7 +39,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 \_\_\_\*\_\_\_
+
+
+
+
+
+
 
 ॥
 
@@ -38,6 +56,12 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ॥
+
+
+
+
+
+
 
 सा
 
@@ -58,6 +82,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 च
 
 होत्री
+
+
 
 ये
 
@@ -81,6 +107,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 यामाहु
 
 :
@@ -97,6 +125,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 :
 
+
+
 प्रत्यक्षभि
 
 :
@@ -112,6 +142,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 1
 
 ॥
+
+
 
 सूत्रधार
 
@@ -133,9 +165,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रविश्य
 
 ।
+
+
 
 नटी
 
@@ -179,6 +215,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सूत्रधार
 
 :---
@@ -211,6 +249,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 नटी
 
 ---( 1 )
@@ -239,6 +279,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सूत्रधार
 
 :---
@@ -255,6 +297,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 आ
 
 परितोषाद्विदुषं
@@ -269,6 +313,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 बलदपि
 
 शिक्षितानामासत्मन्यप्रत्ययं
@@ -282,6 +328,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 2
 
 ॥
+
+
 
 नटी
 
@@ -321,6 +369,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सूत्रधार
 
 :----
@@ -334,6 +384,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 तटी
 
@@ -367,6 +419,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सूत्रधार
 
 :---
@@ -389,6 +443,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सुभगसलिलावगाहा
 
 :
@@ -398,6 +454,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 प्रच्छायतुलभनिद्रा
 
@@ -414,6 +472,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 3
 
 ॥
+
+
 
 लटी
 
@@ -465,6 +525,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अवतंसयन्ति
 
 प्रमदा
@@ -480,6 +542,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 4
 
 ॥
+
+
 
 सूत्रधार
 
@@ -516,6 +580,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 नटी
 
@@ -591,6 +657,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ?
 
+
+
 तवास्मि
 
 गीतरागेण
@@ -605,6 +673,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 एष
 
 राजेव
@@ -617,6 +687,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 ।
 
 इति
@@ -625,11 +697,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+ 
+
 ॥
 
 प्रस्तावना
 
 ॥
+
+
 
 तत
 
@@ -649,6 +725,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सूत
 
 :------(
@@ -667,6 +745,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 !
 
+
+
 कृष्णसारे
 
 ददच्चक्षुस्त्वयि
@@ -674,6 +754,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 चाधिजृयकार्मुके
 
 ।
+
+
 
 मृगानुसारिणं
 
@@ -686,6 +768,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 6
 
 ॥
+
+
 
 राजा
 
@@ -721,6 +805,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 :
 
+
+
 पश्चार्धेन
 
 प्रविष्ट
@@ -744,6 +830,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 कीर्णवर्त्मा
+
+
 
 पश्योदग्रप्लुतत्वाद्वियति
 
@@ -780,6 +868,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 सूत
 
@@ -821,6 +911,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 संप्रति
 
 समदेशवर्तिनस्ते
@@ -833,6 +925,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -844,6 +938,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विमुच्यन्तामभीशव
 
 :
+
+
 
 सूत
 
@@ -877,6 +973,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 निरायतपूर्वकाया
 
+
+
 निष्कम्पचामरशिखा
 
 निभृतोर्ध्वकर्णा
@@ -888,6 +986,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 आत्मोत्थितैरपि
 
 रजोभिरलङ्घनीया
+
+
 
 धावन्त्यमी
 
@@ -902,6 +1002,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 8
 
 ॥
+
+
 
 राजा
 
@@ -937,6 +1039,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 तद्विपुलतां
 
+
+
 यदर्धे
 
 विच्छिन्नं
@@ -948,6 +1052,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तत्
 
 ।
+
+
 
 प्रकृत्या
 
@@ -1001,6 +1107,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 ।
 
 ने
@@ -1030,6 +1138,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 सूत
 
@@ -1067,6 +1177,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -1088,6 +1200,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 सूत
 
@@ -1122,6 +1236,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ॥
 
 )
+
+
 
 वैखानस
 
@@ -1167,6 +1283,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 िनपात्योऽयमस्मिन्
 
+
+
 मृदुनि
 
 मृगशरीरे
@@ -1189,6 +1307,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ?
 
+
+
 क्क
 
 च
@@ -1209,6 +1329,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 तत्साधु
 
 कृतसंधानं
@@ -1218,6 +1340,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सायकम्
 
 ।
+
+
 
 आर्तत्राणाय
 
@@ -1236,6 +1360,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 11
 
 ॥
+
+
 
 राजा
 
@@ -1261,6 +1387,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 वैखानस
 
 :----
@@ -1273,6 +1401,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 जम््म
 यस्य
 
@@ -1283,6 +1413,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तव
 
 ।
+
+
 
 पुत्रमेवं
 
@@ -1295,6 +1427,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 12
 
 ॥
+
+
 
 इतरौ
 
@@ -1314,6 +1448,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -1329,6 +1465,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ब्राह्मणवचनम्
 
 ।
+
+
 
 वैखानस
 
@@ -1380,6 +1518,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 रम्यास्तपोधनां
 
 प्रतिहतविघ्रा
@@ -1393,6 +1533,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 समवलोक्य
 
 ।
+
+
 
 ज्ञास्यसि
 
@@ -1416,6 +1558,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 राजा
 
 ---
@@ -1431,6 +1575,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 वैखानस
 
@@ -1457,6 +1603,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -1486,6 +1634,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 वैखानस
 
 :---
@@ -1508,6 +1658,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 \-
@@ -1528,6 +1680,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सूत
 
 :---
@@ -1545,6 +1699,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निरूपयति
 
 )
+
+
 
 राजा
 
@@ -1574,6 +1730,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सूत
 
 :----
@@ -1581,6 +1739,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कथमिव
 
 ?
+
+
 
 राजा
 
@@ -1600,6 +1760,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 हि
 
+
+
 नीवरा
 
 :
@@ -1607,6 +1769,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शुकगर्मकोटरमुखभ्रष्टष्टास्तरूणामध
 
 :
+
+
 
 प्रस्त्रिग्धा
 
@@ -1624,6 +1788,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 विश्वासोपगभादभिन्नगतय
 
 :
@@ -1638,6 +1804,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 तोयाधारपथाश्च
 
+
+
 वल्कलशिखानिष्यन्दरेखाङ्किता
 
 :
@@ -1648,6 +1816,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 सूत
 
 :---
@@ -1655,6 +1825,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सर्वमुपपन्नम्
 
 ।
+
+
 
 राजा
 
@@ -1668,6 +1840,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 सूत
 
 :---
@@ -1675,6 +1849,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सर्वमुपपन्नम्
 
 ।
+
+
 
 राजा
 
@@ -1708,6 +1884,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 धौतमूला
 
+
+
 भिन्नो
 
 राग
@@ -1722,6 +1900,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 चार्वागुपवनभुविच्छिन्नदर्भांकुरायां
 
+
+
 नष्टाशङ्का
 
 हरिणशिशवो
@@ -1733,6 +1913,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ॥
 
 )
+
+
 
 सूत
 
@@ -1754,9 +1936,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 यावदवतरामि
 
 ।
+
+
 
 सूत
 
@@ -1775,6 +1961,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अवतरत्वायुष्मान्
 
 ।
+
+
 
 राजा
 
@@ -1832,6 +2020,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सूत
 
 :----
@@ -1840,6 +2030,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 निष्कान्त
@@ -1847,6 +2039,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -1900,6 +2094,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 शान्तमिदमाश्रमपदं
 
 स्फुरति
@@ -1920,6 +2116,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अथ
 
 वा
@@ -1937,6 +2135,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 15
 
 ॥
+
+
 
 नेपथ्ये
 
@@ -1963,6 +2163,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सख्यौ
 
 ।
+
+
 
 राजा
 
@@ -2036,6 +2238,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शुद्धान्तदुर्लभमिदं
 
 वपुराश्रमवासिनो
@@ -2045,6 +2249,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 जनस्य
 
 ।
+
+
 
 दरीकृता
 
@@ -2100,6 +2306,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---( 1 )
@@ -2125,6 +2333,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 अनसूया
 
@@ -2198,6 +2408,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ----( 2 )
@@ -2248,6 +2460,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -2276,6 +2490,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इदं
 
 किलाव्याजमनोहरं
@@ -2293,6 +2509,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 इच्छति
 
 ।
+
+
 
 ध्रुवं
 
@@ -2333,6 +2551,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 करोति
 
 )
+
+
 
 शकुन्तला
 
@@ -2392,6 +2612,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनसूया
 
 ---( 2 )
@@ -2413,6 +2635,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तथा
 
 ।
+
+
 
 प्रियंवदा
 
@@ -2450,6 +2674,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -2478,6 +2704,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सरसिमनुविद्धं
 
 शैवलेनापि
@@ -2493,6 +2721,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तनोति
 
 ।
+
+
 
 इयमधिकमनोज्ञा
 
@@ -2536,6 +2766,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 विकच
 
 सरसिजाया
@@ -2557,6 +2789,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ॥
 
 )
+
+
+
+
 
 शकुन्तला
 
@@ -2618,6 +2854,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ----( 2 )
@@ -2652,6 +2890,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---( 3 )
@@ -2669,6 +2909,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निमित्तम्
 
 ।
+
+
 
 प्रियंवदा
 
@@ -2710,6 +2952,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ----( 2 )
@@ -2738,6 +2982,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -2758,6 +3004,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अधर
 
 :
@@ -2771,6 +3019,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 बाहू
 
 ।
+
+
 
 कुसुमामिव
 
@@ -2789,6 +3039,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
  19
 
 ॥
+
+
 
 अनसूया
 
@@ -2841,6 +3093,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विस्मृतास्येनासां
 
 ।
+
+
 
 शकुन्तला
 
@@ -2942,6 +3196,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ---( 2 )
@@ -2982,6 +3238,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनसूया
 
 ---( 1 )
@@ -3011,6 +3269,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कथय
 
 ।
+
+
 
 प्रियंवदा
 
@@ -3062,6 +3322,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---( 3 )
@@ -3098,6 +3360,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 असंशयं
 
 क्षत्त्त्रपरिग्रक्षमा
@@ -3111,6 +3375,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 सतां
 
@@ -3141,6 +3407,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 एनामुपलप्स्ये
 
 ।
+
+
 
 शकुनतला
 
@@ -3198,6 +3466,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -3220,6 +3490,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 यतो
 
 यत
@@ -3235,6 +3507,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रेरितलोलोचना
 
 ।
+
+
 
 विनर्तितभ्रूरियमद्य
 
@@ -3262,6 +3536,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ) 
 
+
+
 चलापाङ्गां
 
 दृष्टिं
@@ -3271,6 +3547,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 बहुशो
 
 वेपथुभतीं
+
+
 
 रहस्याख्यायीव
 
@@ -3284,6 +3562,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 करौ
 
 व्याधूवत्या
@@ -3293,6 +3573,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पिबसि
 
 रतिसर्वस्वमधरं
+
+
 
 वयं
 
@@ -3309,6 +3591,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 22
 
 ॥
+
+
 
 शकुन्तला
 
@@ -3353,6 +3637,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 माम्
 
 ।
+
+
 
 उभे
 
@@ -3408,6 +3694,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -3445,6 +3733,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 एवमभिधास्ये
 
 ।
+
+
 
 शकुन्तला
 
@@ -3514,6 +3804,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 '
 
+
+
 क
 
 :
@@ -3530,6 +3822,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अयमाचरत्यविनयं
 
 मुग्धासु
@@ -3541,6 +3835,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 23
 
 ॥
+
+
 
 अनसूया
 
@@ -3604,6 +3900,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -3637,6 +3935,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 अनसूया
 
@@ -3712,6 +4012,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -3725,6 +4027,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कृतमातिथ्यम्
 
 ।
+
+
 
 प्रियंवदा
 
@@ -3782,6 +4086,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनसूया
 
 ---( 2 )
@@ -3835,6 +4141,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 शकुन्तला
 
@@ -3890,6 +4198,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -3909,6 +4219,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भवतीनाम्
 
 ।
+
+
 
 प्रियवदा
 
@@ -3967,6 +4279,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 । 
+
+
 
 अनसूया
 
@@ -4122,6 +4436,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ----(
@@ -4167,6 +4483,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मन्त्रयते
 
 ।
+
+
+
+
 
 राजा
 
@@ -4236,6 +4556,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनूसूया
 
 ---( 2 )
@@ -4271,6 +4593,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 सख्यौ
 
@@ -4324,6 +4648,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शुकुन्तला
 
 --- (
@@ -4354,6 +4680,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सख्यौ
 
 ----( 3 )
@@ -4381,6 +4709,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कृतार्थीकरिण्यति
 
 ।
+
+
 
 शकन्तला
 
@@ -4442,6 +4772,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सख्यौ
 
 ---( 1 )
@@ -4463,6 +4795,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 खल्वभ्यर्थना
 
 ।
+
+
 
 राजा
 
@@ -4501,6 +4835,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 अनसूया
 
@@ -4550,6 +4886,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----
@@ -4559,6 +4897,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 श्रूयते
 
 ।
+
+
 
 अनसूया
 
@@ -4622,6 +4962,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -4641,6 +4983,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मूलाच्छ्रोतुमिच्छामि
 
 ।
+
+
 
 अनसूया
 
@@ -4716,6 +5060,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -4731,6 +5077,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 अनसूया
 
@@ -4774,6 +5122,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -4791,6 +5141,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 संभवैषा
 
 ।
+
+
 
 अनसूया
 
@@ -4810,6 +5162,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -4817,6 +5171,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 उपपद्यते
 
 ।
+
+
 
 मानुषीषु
 
@@ -4834,6 +5190,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 न
 
 प्रभातरलं
@@ -4848,11 +5206,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 शकुन्तलाधोमुखी
 
 तिष्टति
 
 ।
+
+
 
 राजा
 
@@ -4897,6 +5259,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 प्रियंवदा
 
@@ -4954,6 +5318,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
+
+
 राजा
 
 ---
@@ -4975,6 +5343,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रष्टव्यम्
 
 ।
+
+
 
 प्रियावदा
 
@@ -5010,6 +5380,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -5021,6 +5393,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ज्ञातुमिच्छामि
 
 ।
+
+
 
 वैखानसं
 
@@ -5035,6 +5409,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 अत्यन्तमेव
 
@@ -5055,6 +5431,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 23
 
 ॥
+
+
 
 प्रियंवदा
 
@@ -5114,6 +5492,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -5132,6 +5512,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 भव
 
 हृदय
@@ -5148,6 +5530,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 आशङ्कसे
 
 यदग्रिं
@@ -5163,6 +5547,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 24
 
 ॥
+
+
 
 शकुन्तला
 
@@ -5190,6 +5576,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनसूया
 
 ---( 1 )
@@ -5209,6 +5597,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 शकुन्तला
 
@@ -5239,6 +5629,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निवेदयितुम्
 
 ।
+
+
 
 अनसूया
 
@@ -5283,6 +5675,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 गन्तुम्
 
 ।
+
+
 
 शकुन्तला
 
@@ -5334,6 +5728,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनुयास्न्मुनितनयां
 
 सहसा
@@ -5345,6 +5741,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 स्थानादनुचचलग्नपि
 
@@ -5363,6 +5761,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 25
 
 ॥
+
+
 
 प्रियंवदा
 
@@ -5400,6 +5800,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+ 
+
 शकुन्तला
 
 ---(
@@ -5423,6 +5825,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निमित्तम
 
 ।
+
+
 
 प्रियंवदा
 
@@ -5480,6 +5884,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -5498,11 +5904,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 :
 
+
+
 स्त्रस्तांसावतिमात्रलोहिततलौ
 
 बाहू
 
 घटोत्क्षेपणादद्यापि
+
+
 
 स्तवेपर्थु
 
@@ -5518,6 +5928,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 बद्धं
 
 कर्णशिरीषरोधि
@@ -5527,6 +5939,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 घर्माम्भसां
 
 जालकं
+
+ 
 
 वन्धे
 
@@ -5547,6 +5961,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 26
 
 ॥
+
+
 
 तदहमेनामनृणां
 
@@ -5576,6 +5992,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 ---
@@ -5593,6 +6011,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 परिग्रह्मेऽयम्
 
 ।
+
+
 
 प्रियंवदा
 
@@ -5684,6 +6104,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ----(
@@ -5736,6 +6158,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --(
@@ -5778,6 +6202,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 :
 
+
+
 वाचं
 
 न
@@ -5792,6 +6218,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 :
 
+
+
 कर्णं
 
 ददातृयभिमुखं
@@ -5802,6 +6230,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कार्म
 
 न
@@ -5811,6 +6241,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मदाननसंमुखी
 
 सा
+
+
 
 भूयिष्ठमन्यविषया
 
@@ -5828,9 +6260,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 नेपथ्ये
 
 ।
+
+
 
 भो
 
@@ -5862,6 +6298,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तुरगखुरहतस्तथा
 
 हि
@@ -5869,6 +6307,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 रेणुर्विटपविषक्तलार्द्रवल्कलेषु
 
 ।
+
+
 
 पतति
 
@@ -5892,15 +6332,21 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तीव्रधातग्रतिहततरुस्कन्धलग्रैकदन्त
 
 :
+
+
 
 पादाकृष्टव्रततिवलयासङ्गसञ्जातवास
 
 :
 
 ।
+
+
 
 मूर्तो
 
@@ -5911,6 +6357,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 नो
 
 भिननसारङ्गयूथो
+
+
 
 धर्मारण्यं
 
@@ -5952,6 +6400,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 ---(
@@ -5985,6 +6435,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तावत्
 
 ।
+
+
 
 अनसूया
 
@@ -6034,6 +6486,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -6065,6 +6519,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सर्वाउडत्तिष्टन्ति
 
 ।
+
+
 
 सख्यौ
 
@@ -6105,6 +6561,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विज्ञापयितुम्
 
 ।
+
+
 
 राजा
 
@@ -6206,6 +6664,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 ---
@@ -6244,6 +6704,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 हि
 
+
+
 गच्छति
 
 पुर
@@ -6262,6 +6724,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 चीनांशुकमिव
 
 केतो
@@ -6278,11 +6742,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 इति
 
 निष्कान्तास्सर्वे
 
 ।
+
+ 
 
 ॥
 
@@ -6296,7 +6764,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 \_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+
+
+
 
  
 
@@ -6311,6 +6787,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ॥
+
+
+
+
 
  (
 
@@ -6329,6 +6809,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 विदूषक
 
@@ -6822,6 +7304,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तत
 
 :
@@ -6838,6 +7322,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ---
 
+
+
 कामं
 
 प्रिया
@@ -6851,6 +7337,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तद्भावदर्शनायासि
 
 ।
+
+
 
 अकृतार्थेऽपि
 
@@ -6888,6 +7376,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 स्त्रिग्धं
 
 वीक्षितमन्यतोऽपि
@@ -6897,6 +7387,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 यत्प्रेरयन्त्या
 
 तया
+
+
 
 ?
 
@@ -6912,6 +7404,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मा
 
 गा
@@ -6925,6 +7419,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सरासूयमुक्ता
 
 सखी
+
+
 
 सर्वं
 
@@ -6943,6 +7439,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 2
 
 ॥
+
+
 
 विदूषक
 
@@ -7006,6 +7504,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----(
@@ -7023,6 +7523,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ?
+
+
 
 विदूषक
 
@@ -7064,6 +7566,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----
@@ -7073,6 +7577,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 खल्ववगच्छामि
 
 ।
+
+
 
 विदूषक
 
@@ -7138,6 +7644,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -7147,6 +7655,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कारणम्
 
 ।
+
+
 
 विदूषक
 
@@ -7164,6 +7674,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -7173,6 +7685,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 ?
 
@@ -7300,6 +7814,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -7324,11 +7840,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कुत
 
 :
 
 ।
+
+
 
 न
 
@@ -7341,6 +7861,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मृगेषु
 
 ।
+
+
 
 सहवसतिमुपेत्य
 
@@ -7365,6 +7887,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 3
 
 ॥
+
+
 
 विदेषक
 
@@ -7428,6 +7952,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -7447,6 +7973,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 स्थितोऽस्मि
 
 ।
+
+
 
 विदूषक
 
@@ -7474,6 +8002,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -7496,6 +8026,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 विदूषक
 
 :----( 1 )
@@ -7514,6 +8046,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -7531,6 +8065,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भवितव्यम्
 
 ।
+
+
 
 विदूषक
 
@@ -7556,6 +8092,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -7565,6 +8103,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वक्ष्यमि
 
 ।
+
+
 
 विदूषक
 
@@ -7588,6 +8128,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रविश्य
 
 दैवारिक
@@ -7595,6 +8137,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -7613,6 +8157,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 दौवारिक
 
@@ -7638,6 +8184,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----
@@ -7649,6 +8197,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सेनापतिस्तावदाहूयताम्
 
 ।
+
+
 
 दौवारिक
 
@@ -7716,6 +8266,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सेनापति
 
 :----(
@@ -7748,7 +8300,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनवरतधनुर्ज्यास्फालनक्रूरपूर्वं
+
+
 
 रविकिरणहिष्णु
 
@@ -7756,11 +8312,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अपचितमपि
 
 गात्रं
 
 व्यायतत्वादलक्ष्यं
+
+
 
 गिरिचर
 
@@ -7804,6 +8364,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --
@@ -7821,6 +8383,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 माढव्येन
 
 ।
+
+
 
 सेनापति
 
@@ -7876,6 +8440,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मेदश्छेद
 
 कृशोदरं
@@ -7888,6 +8454,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 :
 
+
+
 सत्त्वानामपि
 
 लक्ष्यते
@@ -7899,6 +8467,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 उत्कर्ष
 
@@ -7919,6 +8489,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 लक्ष्ये
 
 चले
+
+
 
 मिथ्या
 
@@ -7941,6 +8513,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 5
 
 ॥
+
+
 
 विदूषक
 
@@ -8004,6 +8578,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -8042,6 +8618,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 गाहन्तां
 
 महिषा
@@ -8050,6 +8628,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 शृङ्गैर्मुहुस्ताडितं
 
+
+
 छायाबद्धकदम्बकं
 
 मृगकुलं
@@ -8057,6 +8637,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 रोमन्थमभ्यस्यतु
 
 ।
+
+
 
 विस्त्रब्धं
 
@@ -8067,6 +8649,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 पल्वले
+
+
 
 विश्रान्तिं
 
@@ -8084,6 +8668,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 सेनापति
 
 :---
@@ -8095,6 +8681,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 रोचते
 
 ।
+
+
 
 राजा
 
@@ -8134,6 +8722,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शमप्रधानेषु
 
 तपोधनेषु
@@ -8150,6 +8740,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 स्पर्शानुकूला
 
 इव
@@ -8162,6 +8754,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 सेनापति
 
 :---
@@ -8171,6 +8765,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 स्वामी
 
 ।
+
+
 
 विदूषक
 
@@ -8210,6 +8806,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 निष्क्रान्त
@@ -8221,6 +8819,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -8274,6 +8874,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 निष्क्रान्त
@@ -8281,6 +8883,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 विदूषक
 
@@ -8352,6 +8956,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --
@@ -8361,6 +8967,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 विदूषक
 
@@ -8384,11 +8992,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उभौ
 
 परिक्रमृयोपविष्टो
 
 ।
+
+
 
 राजा
 
@@ -8416,6 +9028,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 विदेषक
 
 :----( 3 )
@@ -8431,6 +9045,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वट्टइ
 
 ।
+
+
 
 राजा
 
@@ -8469,6 +9085,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वर्तते
 
 ।
+
+
 
 विदूषक
 
@@ -8536,6 +9154,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -8572,6 +9192,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
+
+
 राजा
 
 ---(
@@ -8581,6 +9205,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 नवामिन्दुकलां
 
@@ -8598,6 +9224,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 सुरयुवतिसम्भवं
 
 किल
@@ -8607,6 +9235,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तदुज्ज्ञिताधिगतम्
 
 ।
+
+
 
 अर्कस्योपरि
 
@@ -8621,6 +9251,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 8
 
 ॥
+
+
 
 विदृषक
 
@@ -8678,6 +9310,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----
@@ -8697,6 +9331,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 विदूषक
 
@@ -8738,6 +9374,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -8752,11 +9390,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 चित्रे
 
 निवेश्य
 
 परिकल्पितसत्त्वयोगा
+
+
 
 रूपोच्चयेन
 
@@ -8772,6 +9414,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 स्त्रीरत्नसृष्टिरपरा
 
 प्रतिभाति
@@ -8779,6 +9423,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सा
 
 मे
+
+
 
 धातुर्विभुत्वमनु
 
@@ -8797,6 +9443,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 9
 
 ॥
+
+
 
 विदूषक्
 
@@ -8817,6 +9465,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 दीणं
 
 ।
+
+
 
 राजा
 
@@ -8846,6 +9496,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनाघ्रातं
 
 पुष्पं
@@ -8854,6 +9506,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 कररुहैरनाविद्धं
 
+
+
 रत्नं
 
 मधु
@@ -8861,6 +9515,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 नवमनास्वादितरसम्
 
 ।
+
+
 
 अखण्डं
 
@@ -8871,6 +9527,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 च
 
 तद्रूपमनधं
+
+
 
 न
 
@@ -8893,6 +9551,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 10
 
 ॥
+
+
 
 विदूषक
 
@@ -8954,6 +9614,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -8977,6 +9639,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 विदूषक
 
@@ -9012,6 +9676,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -9028,6 +9694,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अभिमुखे
 
 मयि
@@ -9037,6 +9705,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 हसितमन्यनिमित्तकृतोदयम्
 
 ।
+
+
 
 विनयवारितवृत्तिरतस्तया
 
@@ -9059,6 +9729,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 11
 
 ॥
+
+
 
 विदूषक
 
@@ -9102,6 +9774,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -9126,6 +9800,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ---
 
+
+
 दर्भाङ्कुरेण
 
 चरण
@@ -9146,6 +9822,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 आसीद्विवृत्तवदना
 
 च
@@ -9163,6 +9841,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 12
 
 ॥
+
+
 
 विदृषक
 
@@ -9214,6 +9894,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -9247,6 +9929,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 विदृषक
 
@@ -9284,6 +9968,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -9297,6 +9983,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 विदृषक
 
@@ -9317,6 +10005,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अस्माकमुपहरन्त्विति
 
 । 
+
+
 
 राजा
 
@@ -9340,6 +10030,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 यदुत्तिष्ठति
 
 वर्णेभ्यो
@@ -9351,6 +10043,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तत्फलम्
 
 ।
+
+
 
 तप
 
@@ -9370,6 +10064,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 नेपथ्ये
 
 ।
@@ -9383,6 +10079,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -9410,6 +10108,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
+
+
 प्रविश्य
 
 दौवारिक
@@ -9417,6 +10119,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 दौवारिक
 
@@ -9458,6 +10162,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --
@@ -9471,6 +10177,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तौ
 
 ।
+
+
 
 दौवारिक
 
@@ -9526,6 +10234,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उभौ
 
 राजानं
@@ -9535,6 +10245,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 प्रथम
 
@@ -9570,11 +10282,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अध्याक्रान्ता
 
 वसतिरभुनाप्याश्रमे
 
 सर्वभोग्ये
+
+
 
 रक्षायोगादयमपि
 
@@ -9588,6 +10304,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अस्यापि
 
 द्यां
@@ -9597,6 +10315,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वशिनश्चारणद्वन्द्वगीत
 
 :
+
+
 
 पुण्य
 
@@ -9622,6 +10342,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 द्वितीय
 
 :---
@@ -9642,6 +10364,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रथम
 
 :---
@@ -9651,6 +10375,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 किम्
 
 ।
+
+
 
 द्वितीय
 
@@ -9662,11 +10388,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 नैतच्चित्रं
 
 यदयमुदधियामसीमां
 
 धरित्री
+
+
 
 मेक
 
@@ -9677,6 +10407,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 नगरपरिघाप्रांशुबाहुर्भुनक्ति
 
 ।
+
+
 
 आशंसन्ते
 
@@ -9689,6 +10421,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 हि
 
 दैत्यैरस्याधिज्ये
+
+
 
 धनुषि
 
@@ -9706,6 +10440,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 उभौ
 
 ---(
@@ -9719,6 +10455,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 राजन्
 
 ।
+
+
 
 राजा
 
@@ -9735,6 +10473,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भगवन्तौ
 
 ।
+
+
 
 उभौ
 
@@ -9760,6 +10500,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 ---(
@@ -9775,6 +10517,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 आज्ञापयितुमिच्छामि
 
 ।
+
+
 
 उभौ
 
@@ -9796,6 +10540,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -9805,6 +10551,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 उभौ
 
@@ -9838,6 +10586,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -9845,6 +10595,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अनुनृहीतोऽस्मि
 
 ।
+
+
 
 विदृषक
 
@@ -9871,6 +10623,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 इत्यमिदानीमनुकूला
 
 अभ्यर्थना।
+
+ 
 
 राजा
 
@@ -9899,6 +10653,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 रथमुपस्थापयेति
 
 ।
+
+
 
 दैवारिक
 
@@ -9932,6 +10688,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 निष्क्रान्त
@@ -9939,6 +10697,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 उभौ
 
@@ -9950,6 +10710,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 अनुकारिणि
 
 पूर्वेषां
@@ -9959,6 +10721,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 त्वयि
 
 ।
+
+
 
 आयन्नाभयसत्रेषु
 
@@ -9977,6 +10741,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 16
 
 ॥
+
+
 
 राजा
 
@@ -10002,6 +10768,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उभौ
 
 ---
@@ -10013,6 +10781,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निष्कान्तौ
 
 ।
+
+
 
 राजा
 
@@ -10029,6 +10799,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 विदृषक
 
@@ -10074,6 +10846,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -10094,6 +10868,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 विदूषक
 
 :---( 2 )
@@ -10113,6 +10889,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 राक्षसाद्रदितोऽस्मि
 
 ।
+
+
 
 प्रविश्य
 
@@ -10192,6 +10970,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --- (
@@ -10212,6 +10992,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 दौवारिक
 
 :----( 2 )
@@ -10230,6 +11012,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --
@@ -10239,6 +11023,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रवेश्यताम्
 
 ।
+
+
 
 दौवारिक
 
@@ -10281,6 +11067,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 उपसर्प
 
 ।
+
+
 
 करभक
 
@@ -10378,6 +11166,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -10408,6 +11198,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -10422,6 +11214,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कृत्ययोर्भिननदेशत्वाद्द्वैधीभवति
 
 ।
@@ -10433,6 +11227,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 पुर
 
@@ -10502,6 +11298,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 विदूषक
 
 :---( 1 )
@@ -10532,6 +11330,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --(
@@ -10551,6 +11351,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 संभाव्यते
 
 ।
+
+
 
 विदूषक
 
@@ -10592,6 +11394,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -10613,6 +11417,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रस्थापयामि
 
 ।
+
+
 
 विदूषक
 
@@ -10643,6 +11449,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -10734,6 +11542,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 क्क
 
 वयं
@@ -10753,6 +11563,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 परिहासविल्पितं
 
@@ -10774,6 +11586,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 विदूषक
 
 :---( 1 )
@@ -10792,6 +11606,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 निष्कान्ता
@@ -10801,6 +11617,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सर्वे
 
 ॥
+
+ 
 
 ॥
 
@@ -10814,7 +11632,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 \_\_\_\_\_\_\_\_\_\_\_
+
+
+
+
+
+
 
 ॥
 
@@ -10825,6 +11651,12 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ॥
+
+
+
+
+
+
 
 तत
 
@@ -10839,6 +11671,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कुशानादाय
 
 ।
+
+
 
 शिष्य
 
@@ -10876,6 +11710,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 का
 
 कथा
@@ -10889,6 +11725,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 हुङ्कारेणेव
 
@@ -11004,6 +11842,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 ॥
 
 शुद्धविष्कम्भ
@@ -11011,6 +11851,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ॥
+
+
 
 तत
 
@@ -11027,6 +11869,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 राजा
 
 ---
+
+
 
 जाने
 
@@ -11045,6 +11889,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विदितम्
 
 ।
+
+
 
 अलमस्मि
 
@@ -11100,6 +11946,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तव
 
 कुसुमशरत्वं
@@ -11111,6 +11959,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मद्विधेषु
 
 ।
+
+
 
 विसृजति
 
@@ -11166,6 +12016,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अद्यापि
 
 नूनं
@@ -11177,6 +12029,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 इवाम्बुराशौ
 
 ।
+
+
 
 त्वमन्यथा
 
@@ -11202,6 +12056,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनिशमपि
 
 मकरकेतुर्मनसो
@@ -11211,6 +12067,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मे
 
 ।
+
+
 
 यदि
 
@@ -11430,6 +12288,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शक्यमरविन्दसुरभि
 
 :
@@ -11439,6 +12299,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मालिनीतरङ्गाणाम्
 
 ।
+
+
 
 अङ्गैरनङ्गतप्तैरविरलमालिङ्गितुं
 
@@ -11478,6 +12340,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अभ्युन्नता
 
 पुरस्तादवगाढा
@@ -11485,6 +12349,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 जघनगौरवात्पश्चात्
 
 ।
+
+
 
 द्वारेऽस्य
 
@@ -11560,6 +12426,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 तत
 
 :
@@ -11575,6 +12443,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शकुन्तला
 
 ।
+
+
 
 सख्यौ
 
@@ -11618,6 +12488,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---( 2 )
@@ -11644,6 +12516,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सख्यौ
 
 विषादं
@@ -11655,6 +12529,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -11704,9 +12580,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 । 
 
+
+
 स्तनन्यस्तोशीरं
 
 प्रशिथिलमृणालैकवलयं
+
+
 
 प्रियाया
 
@@ -11722,6 +12602,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 समस्ताप
 
 :
@@ -11729,6 +12611,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 काभं
 
 मनसिजनिदाघप्रसरयोर्न
+
+
 
 तु
 
@@ -11743,6 +12627,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 6
 
 ॥
+
+
 
 प्रियंवदा
 
@@ -11824,6 +12710,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ?
 
+
+
 अनसूया
 
 ---( 2 )
@@ -11873,6 +12761,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तावदेनाम्
 
 ।
+
+
 
 प्रियंवदा
 
@@ -11928,6 +12818,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---(
@@ -11957,6 +12849,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 अनसूया
 
@@ -12112,6 +13006,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -12139,6 +13035,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 शकुन्तला
 
@@ -12201,6 +13099,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निवेदयितुम्
 
 ।
+
+
 
 प्रियंवदा
 
@@ -12294,6 +13194,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --
@@ -12308,11 +13210,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 क्षामक्षामकपोलमाननमुर
 
 :
 
 काठिन्यमुक्तस्तनं
+
+
 
 मध्य
 
@@ -12332,6 +13238,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शोच्या
 
 च
@@ -12341,6 +13249,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 च
 
 मदनाक्लिष्टेयमालक्ष्यते
+
+
 
 पत्राणामिव
 
@@ -12359,6 +13269,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 7
 
 ॥
+
+
 
 शकुन्तला
 
@@ -12420,6 +13332,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उभे
 
 ---( 1 )
@@ -12472,9 +13386,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
+
+
 
 पृष्टा
 
@@ -12498,6 +13416,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 दृष्टो
 
 विवृत्सय
@@ -12515,6 +13435,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 8
 
 ॥
+
+
 
 शकुन्तला
 
@@ -12588,6 +13510,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -12603,6 +13527,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 श्रोतव्यम्
 
 ।
+
+
 
 स्समर
 
@@ -12622,6 +13548,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 दिवस
 
 इवाभ्रश्यामस्तपात्यये
@@ -12633,6 +13561,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 9
 
 ॥
+
+
 
 शकुन्तला
 
@@ -12704,6 +13634,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -12713,6 +13645,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वचनम्
 
 ।
+
+
 
 प्रियंवदा
 
@@ -12789,6 +13723,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अभिलाषोऽभिनन्दितुम्
 
 ।
+
+
 
 अनसूया
 
@@ -12874,6 +13810,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ---( 3 )
@@ -12912,6 +13850,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --
@@ -12927,6 +13867,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शशाङ्कलेखामनुवर्तिते
 
 ।
+
+
 
 अनसूया
 
@@ -12982,6 +13924,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ---( 2 )
@@ -13020,6 +13964,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनसूया
 
 ---( 3 )
@@ -13037,6 +13983,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 प्रियंवदा
 
@@ -13086,6 +14034,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -13100,7 +14050,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इदमशिशिरैरन्तस्तापाद्विवर्णमणीकृतं
+
+
 
 निशि
 
@@ -13112,9 +14066,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनतिलुलितज्याघाताङ्कं
 
 मुहुर्मणिबन्धनात्कनकवलयं
+
+
 
 स्त्रस्तं
 
@@ -13129,6 +14087,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 10
 
 ॥
+
+
 
 प्रियंवदा
 
@@ -13196,6 +14156,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनसूया
 
 ----( 1 )
@@ -13248,6 +14210,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---( 2 )
@@ -13273,6 +14237,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विकल्प्यते
 
 ।
+
+
 
 प्रियंवदा
 
@@ -13315,6 +14281,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ललिदपदबंधणं
 
 ।
+
+
 
 राजा
 
@@ -13362,9 +14330,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
+
+
 
 असं
 
@@ -13383,6 +14355,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 यतोऽवधीरणाम्
 
 ।
+
+
 
 लभेत
 
@@ -13413,6 +14387,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 11
 
 ॥
+
+
 
 प्रियंवदा
 
@@ -13468,6 +14444,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---(
@@ -13502,6 +14480,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 उन्नमितैकभ्रूलतमाननमस्या
 
 :
@@ -13513,6 +14493,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 कण्टकितेन
 
@@ -13527,6 +14509,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 12
 
 ॥
+
+
 
 शकुन्तला
 
@@ -13576,6 +14560,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ---( 2 )
@@ -13609,6 +14595,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कुरु
 
 ।
+
+
 
 शकुन्तला
 
@@ -13650,6 +14638,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उभे
 
 ---( 4 )
@@ -13669,6 +14659,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 शकुन्तला
 
@@ -13707,6 +14699,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वि
 
 ।
+
+
 
 णिग्धिणो
 
@@ -13754,6 +14748,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --(
@@ -13763,6 +14759,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 तपति
 
@@ -13777,6 +14775,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पुनर्दहत्येव
 
 ।
+
+
 
 ग्लपयति
 
@@ -13801,6 +14801,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 14
 
 ॥
+
+
 
 उभे
 
@@ -13838,6 +14840,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 ---
@@ -13846,9 +14850,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 संदष्टकुसुमशयनान्याशुक्लान्तबिसभङ्गसुरभीणि
 
 ।
+
+
 
 गुरुपरितापानि
 
@@ -13863,6 +14871,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 15
 
 ॥
+
+
 
 अनसूया
 
@@ -13911,6 +14921,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 प्रियंवदा
 
@@ -13970,6 +14982,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -13989,6 +15003,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 जनयति
 
 ।
+
+
 
 प्रियंवदा
 
@@ -14040,6 +15056,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -14047,6 +15065,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 नास्मात्परम्
 
 ।
+
+
 
 प्रियंवदा
 
@@ -14178,6 +15198,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 यदि
 
 समर्थयसे
@@ -14199,6 +15221,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 16
 
 ॥
+
+
 
 अनसूया
 
@@ -14268,6 +15292,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -14284,6 +15310,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 परिग्रहबहुतृवेऽपि
 
 द्वे
@@ -14295,6 +15323,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मे
 
 ।
+
+
 
 समुद्ररशना
 
@@ -14311,6 +15341,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 17
 
 ॥
+
+
 
 दभे
 
@@ -14331,6 +15363,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 ।प्रयवदा
 
@@ -14412,6 +15446,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 शकुन्तला
 
 ----( 3 )
@@ -14445,6 +15481,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वामागच्छुतु
 
 ।
+
+
 
 उभे
 
@@ -14488,11 +15526,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+ 
+
 इति
 
 निष्क्रान्ते
 
 ।
+
+
 
 शकुन्तला
 
@@ -14526,6 +15568,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 निष्क्रन्ते
@@ -14550,6 +15594,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 किं
 
 शीतलै
@@ -14566,6 +15612,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अङ्के
 
 निधाय
@@ -14575,6 +15623,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 यथासुखं
 
 ते
+
+
 
 संवाहयामि
 
@@ -14620,6 +15670,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -14646,6 +15698,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उत्सृज्य
 
 कुसुमशयनं
@@ -14653,6 +15707,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 नलिनीदलकल्पितस्तनावरणम्
 
 ।
+
+
 
 कथमातपे
 
@@ -14668,6 +15724,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 इति
 
 बलादेतां
@@ -14675,6 +15733,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निवर्तयति
 
 ।
+
+
 
 शकुन्तला
 
@@ -14716,6 +15776,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --
@@ -14756,6 +15818,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 गान्धर्वेण
 
 विवाहेन
@@ -14767,6 +15831,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 श्रूयन्ते
 
@@ -14783,6 +15849,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 20
 
 ॥
+
+
 
 शकुन्तला
 
@@ -14826,6 +15894,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -14836,6 +15906,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---
@@ -14845,6 +15917,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 राजा
 
@@ -14859,6 +15933,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 षट्पदेन
 
 ।
+
+
 
 अधरस्य
 
@@ -14892,6 +15968,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 शकुन्तला
 
 ---
@@ -14901,6 +15979,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 परिहरति
 
 ।
+
+
 
 नेपथ्ये
 
@@ -14939,6 +16019,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 रजनी
 
 ।
+
+
 
 शकुन्तला
 
@@ -15014,6 +16096,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -15025,6 +16109,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 तत
 
@@ -15061,6 +16147,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 गौतमी
 
@@ -15102,6 +16190,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---( 3 )
@@ -15129,6 +16219,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 गौतमी
 
@@ -15221,6 +16313,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 शकुन्तला
 
@@ -15344,6 +16438,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 दु
@@ -15365,6 +16461,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -15396,11 +16494,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मुहुरङ्गुनिसंवृताघरोष्ठं
 
 प्रतिषेधाक्षरविक्लबाभिरामम्
 
 ।
+
+
 
 मुखमंसविवर्ति
 
@@ -15444,6 +16546,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तस्स्या
 
 :
@@ -15455,6 +16559,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शय्या
 
 शिलायामियं
+
+
 
 क्लान्ते
 
@@ -15470,9 +16576,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 हस्तस्त्रस्तमिदं
 
 बिसाभरणमित्यासजृयमानेक्षणो
+
+
 
 निर्गन्तुं
 
@@ -15490,9 +16600,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 नेपथ्ये
 
 ।
+
+
 
 सायंतेन
 
@@ -15514,6 +16628,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 छायाश्चरन्ति
 
 बहुधा
@@ -15533,6 +16649,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 27
 
 ॥
+
+
 
 राजा
 
@@ -15556,6 +16674,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+ 
+
 ॥
 
 इति
@@ -15566,7 +16686,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+  
+
 ---------
+
+
+
+
+
+
 
 ॥
 
@@ -15577,6 +16705,12 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ॥
+
+
+
+
+
+
 
 तत
 
@@ -15591,6 +16725,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सख्यौ
 
 ।
+
+
 
 अनसूया
 
@@ -15664,6 +16800,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ---( 2 )
@@ -15675,6 +16813,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 अनसूया
 
@@ -15715,6 +16855,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वेत्ति
 
 ।
+
+
 
 प्रियंवदा
 
@@ -15794,6 +16936,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनसूया
 
 ---( 3 )
@@ -15843,6 +16987,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 अनसूया
 
@@ -15922,6 +17068,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ---(
@@ -15962,6 +17110,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनूसूया
 
 ---( 4 )
@@ -15988,6 +17138,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ---( 5 )
@@ -16012,9 +17164,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 नेपथ्ये
 
 ।
+
+
 
 अयमहं
 
@@ -16023,6 +17179,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 अनसूया
 
@@ -16052,6 +17210,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ---( 2 )
@@ -16071,6 +17231,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शकुन्तला
 
 ।
+
+
 
 अनसूया
 
@@ -16095,6 +17257,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सन्निहिता
 
 ।
+
+
 
 प्रियंवदा
 
@@ -16124,15 +17288,21 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 प्रस्थिते
 
 ।
 
+
+
 नेपथ्ये
 
 ।
+
+
 
 आ
 
@@ -16141,6 +17311,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अतिथिपरिभाविनि
 
 !
+
+
 
 विचिन्तयन्ती
 
@@ -16155,6 +17327,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मामुपसिथतम्
 
 ।
+
+
 
 स्मरिष्यति
 
@@ -16181,6 +17355,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 1
 
 ॥
+
+
 
 अनूसूया
 
@@ -16326,6 +17502,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ---( 1 )
@@ -16339,6 +17517,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तथा
 
 ।
+
+
 
 न
 
@@ -16400,11 +17580,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 निष्कान्ता
 
 ।
+
+
 
 अनसूया
 
@@ -16446,6 +17630,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 पुष्पोच्चयं
@@ -16453,6 +17639,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निरूपयति
 
 ।
+
+
 
 प्रियंपदा
 
@@ -16522,6 +17710,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनसूया
 
 ---(
@@ -16564,6 +17754,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ---( 4 )
@@ -16604,6 +17796,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनसूया
 
 ---( 1 )
@@ -16623,6 +17817,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 प्रियंवदा
 
@@ -16670,6 +17866,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनसूया
 
 ---( 3 )
@@ -16687,6 +17885,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 प्रियंवदा
 
@@ -16763,6 +17963,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 अनसूया
 
@@ -16845,6 +18047,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भविष्यति
 
 ।
+
+
 
 प्रियंवदा
 
@@ -16966,6 +18170,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनसूया
 
 ---( 1 )
@@ -17024,6 +18230,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ---( 2 )
@@ -17054,13 +18262,21 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 निष्कान्ते
 
 ।
 
+ 
+
 ---------
+
+
+
+
 
  
 
@@ -17091,6 +18307,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 शिष्य
 
@@ -17130,11 +18348,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तथा
 
 हि
 
 ।
+
+
 
 यात्येकतोऽस्तशिखरं
 
@@ -17147,6 +18369,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 तेजोद्वयस्य
 
@@ -17170,6 +18394,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अन्तर्हिते
 
 शशिनि
@@ -17189,6 +18415,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 संस्मरणीयशोभा
 
 ।
+
+
 
 इष्टप्रवासजनितान्यबलाजनस्य
 
@@ -17210,11 +18438,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 प्रविश्य
 
 यटाक्षेपेण
 
 ।
+
+
 
 अनुसूया
 
@@ -17278,6 +18510,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शिष्य
 
 :---
@@ -17292,6 +18526,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 निष्कान्त
@@ -17299,6 +18535,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 अनसूया
 
@@ -17626,6 +18864,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 प्रियंवदा
 
 ----(
@@ -17667,6 +18907,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निर्वर्तयितुम्
 
 ।
+
+
 
 अनसूया
 
@@ -17726,6 +18968,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ---( 2 )
@@ -17777,6 +19021,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भवतु
 
 ।
+
+
 
 अनसूया
 
@@ -17890,6 +19136,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रियंवदा
 
 ----( 1 )
@@ -17908,6 +19156,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनसूया
 
 निष्कान्ता
@@ -17924,9 +19174,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 नेपथ्ये
 
 ।
+
+
 
 गौतमी
 
@@ -17941,6 +19195,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शकुन्तलानयनाय
 
 ।
+
+
 
 प्रियंवदा
 
@@ -17994,11 +19250,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रविश्य
 
 समालम्भनहस्ता
 
 ॥
+
+
 
 अनसूया
 
@@ -18028,6 +19288,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 परिक्रमत
@@ -18035,6 +19297,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 प्रियंवदा
 
@@ -18102,6 +19366,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तत
 
 :
@@ -18115,6 +19381,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शकुन्तला
 
 ।
+
+
 
 तापसीनामन्यतमा
 
@@ -18152,6 +19420,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अपरा
 
 ----( 1 )
@@ -18175,6 +19445,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भव
 
 ।
+
+
 
 अन्या
 
@@ -18204,6 +19476,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इत्याशिषो
 
 दत्त्वा
@@ -18215,6 +19489,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 सख्यौ
 
@@ -18254,6 +19530,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---( 4 )
@@ -18291,6 +19569,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निषदितम्
 
 ।
+
+
 
 उभे
 
@@ -18348,6 +19628,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---( 6 )
@@ -18390,6 +19672,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अमी
 
 वेदिं
@@ -18411,6 +19695,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 अपघ्रन्तो
 
@@ -18451,6 +19737,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 बिश्य
 
@@ -18518,11 +19806,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सर्वे
 
 सविस्मयमाकर्णयन्ति
 
 ।
+
+
 
 गौतमी
 
@@ -18644,6 +19936,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 । 
 
+
+
 प्रियंवदा
 
 ---( 3 )
@@ -18736,6 +20030,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 ओसरिअपण्डुपत्ता
 
 मु
@@ -18755,6 +20051,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 12
 
 ॥
+
+
 
 शकुन्तला
 
@@ -18790,6 +20088,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्प
 
 :---
@@ -18809,6 +20109,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तावद्दक्षिणेन
 
 ।
+
+
 
 शकुन्तला
 
@@ -18880,9 +20182,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्यप
 
 :----
+
+
 
 संकल्पितं
 
@@ -18899,6 +20205,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 त्वम्
 
 ।
+
+
 
 चूतेन
 
@@ -18932,6 +20240,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---( 1 )
@@ -18963,6 +20273,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 उभे
 
@@ -19012,6 +20324,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्यप
 
 :----
@@ -19045,6 +20359,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 शकुन्तला
 
@@ -19114,6 +20430,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्यप
 
 :----
@@ -19127,6 +20445,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 शकुन्तला
 
@@ -19240,6 +20560,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 काश्यप
 
 :----
@@ -19247,6 +20569,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वत्से
 
 !
+
+
 
 यस्य
 
@@ -19267,6 +20591,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कुशमूविद्धे
 
 ।
+
+
 
 श्यामाकमुष्टिपरिवर्धितको
 
@@ -19289,6 +20615,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 14
 
 ॥
+
+
 
 शकुन्तला
 
@@ -19350,9 +20678,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्यप
 
 :----
+
+
 
 उत्पक्ष्मणोर्नयनयोरुपरुद्धवृत्तिं
 
@@ -19365,6 +20697,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विरतानुबन्धम्
 
 ।
+
+
 
 अस्मिननलक्षितनतोन्नतभूमिभागे
 
@@ -19383,6 +20717,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 15
 
 ॥
+
+
 
 शर्ङ्गरव
 
@@ -19420,6 +20756,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्यप
 
 :---
@@ -19434,6 +20772,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सर्वे
 
 परिक्रम्य
@@ -19443,6 +20783,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 काश्यप
 
@@ -19483,6 +20825,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 शकुन्तला
 
@@ -19555,6 +20899,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 करोमि
 
 ।
+
+
 
 अनसूया
 
@@ -19630,6 +20976,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 गरुअं
 
 वि
@@ -19645,6 +20993,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 16
 
 ॥
+
+
 
 काश्यप
 
@@ -19670,6 +21020,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शार्ङ्गरव
 
 :----
@@ -19681,6 +21033,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 काश्यप
 
 :----
+
+
 
 अस्समान्साधु
 
@@ -19696,6 +21050,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 :
 
+
+
 कथमप्यबान्धवकृतां
 
 स्त्रेहप्रवृत्तिं
@@ -19706,6 +21062,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सामान्यप्रतिपत्तिपूर्वकमियं
 
 दारेषु
@@ -19713,6 +21071,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 दृश्या
 
 त्वया
+
+
 
 भाग्यायत्तमत
 
@@ -19736,6 +21096,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 शार्ङ्गरव
 
 :----
@@ -19749,6 +21111,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 काश्यप
 
@@ -19770,6 +21134,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शार्ङ्गरव
 
 :----
@@ -19786,6 +21152,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शुश्रूषस्व
 
 गुरून्
@@ -19795,6 +21163,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रियसखीवृत्तिं
 
 सपत्नीजने
+
+
 
 भर्तुर्विप्रकृतापि
 
@@ -19812,6 +21182,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 भूयिष्ठं
 
 भव
@@ -19821,6 +21193,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 परिजने
 
 भाग्येष्वनुत्सेकिनीं
+
+
 
 यान्त्येवं
 
@@ -19853,6 +21227,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 गौतमी
 
@@ -19904,6 +21280,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्यप
 
 :---
@@ -19921,6 +21299,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 च
 
 ।
+
+
 
 शकुन्तला
 
@@ -19962,6 +21342,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्यप
 
 :---
@@ -19995,6 +21377,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 यास्यति
 
 ।
+
+
 
 शकुन्तला
 
@@ -20050,6 +21434,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्यप
 
 :---
@@ -20063,6 +21449,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कातरासि
 
 ।
+
+
 
 अभिजनवतो
 
@@ -20085,6 +21473,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रतिक्षणमाकुला
 
 ।
+
+
 
 तनयमचिरात्प्राचीवार्कं
 
@@ -20114,6 +21504,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 शकुन्तला
 
 पितु
@@ -20128,6 +21520,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्यप
 
 :---
@@ -20139,6 +21533,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तदस्तु
 
 ।
+
+
 
 शकुन्तला
 
@@ -20181,6 +21577,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 परिष्वजेथाम्
 
 ।
+
+
 
 उभे
 
@@ -20252,6 +21650,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ---( 3 )
@@ -20267,6 +21667,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 आअंपिदम्हि
 
 ।
+
+
 
 उभे
 
@@ -20300,6 +21702,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शार्ङ्गरव
 
 :----
@@ -20317,6 +21721,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भवती
 
 ।
+
+
 
 शकुन्तला
 
@@ -20370,6 +21776,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 भूत्वा
 
 चिराय
@@ -20383,6 +21791,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निवेश्य
 
 ।
+
+
 
 भर्त्रा
 
@@ -20403,6 +21813,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 20
 
 ॥
+
+
 
 गौतमी
 
@@ -20490,6 +21902,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्यप
 
 :----
@@ -20505,6 +21919,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तपोऽनुष्ठानम्
 
 ॥
+
+
 
 शकुन्तला
 
@@ -20560,6 +21976,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्यप
 
 :---(
@@ -20569,6 +21987,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 शममेष्यति
 
@@ -20590,6 +22010,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उटजद्वारविरूढं
 
 नीवारबलिं
@@ -20603,6 +22025,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 21
 
 ॥
+
+
 
 उभे
 
@@ -20644,6 +22068,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 निष्कान्ता
@@ -20653,6 +22079,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सहयायिनश्च
 
 ।
+
+
 
 सख्यौ
 
@@ -20698,6 +22126,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 काश्यप
 
 :---(
@@ -20728,6 +22158,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 प्रस्थितम्।
 
+
+
 अर्थो
 
 हिं
@@ -20748,6 +22180,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 जातो
 
 ममायं
@@ -20764,6 +22198,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 ॥
 
 इति
@@ -20776,6 +22212,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+ 
+
 इति
 
 चतुर्थोऽङ्क
@@ -20786,6 +22224,14 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
  ----------
 
+
+
+
+
+
+
+
+
 ॥
 
 अथ
@@ -20795,6 +22241,12 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ॥
+
+
+
+
+
+
 
 तत
 
@@ -20807,6 +22259,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विदृषकश्च
 
 ।
+
+
 
 विदूषक
 
@@ -20896,6 +22350,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -20935,6 +22391,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 चूअमञ्जरिम्
 
 ।
+
+
 
 कमलवसइमंत्तणिव्वदुदो
 
@@ -20978,6 +22436,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 राजा
 
 ---
@@ -20991,6 +22451,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 विदूषक
 
@@ -21025,6 +22487,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 राजा
 
@@ -21067,6 +22531,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निपुणमुपालब्धोऽस्मीति
 
 ।
+
+
 
 विदूषक
 
@@ -21150,6 +22616,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -21163,6 +22631,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 संज्ञपयैनाम्
 
 ।
+
+
 
 विदूषक
 
@@ -21194,6 +22664,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -21218,6 +22690,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 रम्याणि
 
 वीक्ष्य
@@ -21240,6 +22714,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तच्चेतसा
 
 स्मरति
@@ -21256,11 +22732,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 इति
 
 पर्याकुलस्तिष्टति
 
 ।
+
+
 
 तत
 
@@ -21271,6 +22751,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कज्जुकी
 
 ।
+
+
 
 कञ्चुकी
 
@@ -21285,6 +22767,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रतिपन्नोऽस्मि
 
 ।
+
+
 
 आचार
 
@@ -21303,6 +22787,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 काले
 
@@ -21374,6 +22860,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 भानु
 
 :
@@ -21391,6 +22879,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रयाति
 
 ।
+
+
 
 शेष
 
@@ -21434,6 +22924,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रजा
 
 :
@@ -21455,6 +22947,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विविक्तम्
 
 ।
+
+
 
 यूथानि
 
@@ -21526,6 +23020,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -21544,6 +23040,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कञ्चुकी
 
 ---
@@ -21553,6 +23051,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 किम्
 
 ।
+
+
 
 राजा
 
@@ -21596,6 +23096,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कञ्चुकी
 
 ---
@@ -21617,6 +23119,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 राजा
 
@@ -21650,6 +23154,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 प्रतिहारी
 
 ---( 1 )
@@ -21670,6 +23176,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --
@@ -21681,6 +23189,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अग्रिशरणमार्गमादेशय
 
 ।
+
+
 
 प्रतिदहारी
 
@@ -21705,6 +23215,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -21758,6 +23270,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 औत्सुक्यमात्रमवसाययति
 
 प्रतिष्ठा
@@ -21767,6 +23281,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 लब्धपरिपालनवृत्तिरेवं
 
 ।
+
+
 
 नातिश्रमापनयनाय
 
@@ -21786,9 +23302,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 नेपथ्ये
 
 ।
+
+
 
 वैतालिकौ
 
@@ -21801,6 +23321,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 प्रथम
 
@@ -21816,6 +23338,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 :
 
+
+
 प्रतिदिनमथ
 
 वा
@@ -21827,6 +23351,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विधैव
 
 ।
+
+
 
 अनुभवति
 
@@ -21850,6 +23376,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 द्वितीय
 
 :---
@@ -21860,6 +23388,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 :
 
+
+
 प्रशमयसि
 
 विवादं
@@ -21869,6 +23399,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 रक्षणाय
 
 ।
+
+
 
 अतनुषु
 
@@ -21897,6 +23429,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 8
 
 ॥
+
+
 
 राजा
 
@@ -21929,6 +23463,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 प्रतिहारी
 
@@ -21970,6 +23506,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -22010,6 +23548,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 किं
 
 तरपद्ग्रतिनामुपोढतपसां
@@ -22027,6 +23567,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्राणिष्वसच्चेष्टितम्
 
 ?
+
+
 
 आहो
 
@@ -22047,6 +23589,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 9
 
 ॥
+
+
 
 प्रतिहारी
 
@@ -22082,6 +23626,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तत
 
 :
@@ -22102,6 +23648,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 पुरश्चैषां
 
 पुरोहित
@@ -22113,6 +23661,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 च
 
 ।
+
+
 
 कञ्चुकी
 
@@ -22128,6 +23678,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शार्ङ्गरव
 
 :----
@@ -22135,6 +23687,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शरद्वत
 
 !
+
+
 
 महाभाग
 
@@ -22155,6 +23709,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भजते
 
 ।
+
+
 
 तथापीदं
 
@@ -22182,6 +23738,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 शरद्वत
 
 :---
@@ -22206,6 +23764,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अभ्यक्तमिव
 
 स्त्रात
@@ -22222,6 +23782,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 बद्धमिव
 
 स्वैरगतिर्जनमिह
@@ -22233,6 +23795,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 11
 
 ॥
+
+
 
 शकुन्तला
 
@@ -22273,6 +23837,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विस्फुरति
 
 ।
+
+
 
 गौतमी
 
@@ -22316,11 +23882,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 परिक्रामम्ति
 
 ।
+
+
 
 पुरोहित
 
@@ -22362,6 +23932,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शार्ङ्गरव
 
 :---
@@ -22392,6 +23964,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 भविन्ति
 
 नम्रास्तरव
@@ -22405,6 +23979,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ॥
+
+
 
 अनुद्धता
 
@@ -22429,6 +24005,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 12
 
 ॥
+
+
 
 प्रतिहारी
 
@@ -22476,6 +24054,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -22492,6 +24072,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 का
 
 स्विदवगुण्ठनवती
@@ -22499,6 +24081,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 नातिपरिस्फुटशरीरलावण्या
 
 ।
+
+
 
 मध्ये
 
@@ -22513,6 +24097,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 13
 
 ॥
+
+
 
 प्रतिहारी
 
@@ -22564,6 +24150,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -22577,6 +24165,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 परकलत्रम्
 
 ।
+
+
 
 शकुन्तला
 
@@ -22642,6 +24232,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 पुरोहित
 
 :---(
@@ -22666,6 +24258,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कश्चिदेषामुपाध्यायसन्देश
 
 :
@@ -22682,6 +24276,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -22689,6 +24285,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अवहितोऽस्मि
 
 ।
+
+
 
 ऋषय
 
@@ -22706,6 +24304,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 !
 
+
+
 राजा
 
 ---
@@ -22717,6 +24317,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 ऋषय
 
@@ -22734,6 +24336,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -22750,9 +24354,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 ऋषय
 
 :---
+
+
 
 कुतो
 
@@ -22768,6 +24376,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तमस्तपति
 
 घर्मांशौ
@@ -22779,6 +24389,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 14
 
 ॥
+
+
 
 राजा
 
@@ -22810,6 +24422,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ?
 
+
+
 शार्ङ्गरव
 
 :---
@@ -22830,6 +24444,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -22839,6 +24455,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भगवान्
 
 ?
+
+
 
 शार्ङ्गरव
 
@@ -22868,6 +24486,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ?
 
+
+
 त्वमर्हतां
 
 प्राग्रसीर
@@ -22887,6 +24507,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सत्क्रिया
 
 ।
+
+
 
 समानर्यस्तुल्यगुणं
 
@@ -22911,6 +24533,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 15
 
 ॥
+
+
 
 गौतमी
 
@@ -22966,6 +24590,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तदिदानीमापन्नसत्त्वाप्रतिगृह्मतां
 
 सह
@@ -22991,6 +24617,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 बंधू
 
 ।
+
+
 
 एक्केक्कं
 
@@ -23026,6 +24654,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ----(
@@ -23058,6 +24688,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 भणति
 
+
+
 राजा
 
 ---(
@@ -23065,6 +24697,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 किमिदमुपन्यस्तम्
 
 ।
+
+
 
 शकुन्तला
 
@@ -23098,6 +24732,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शार्ङ्गरव
 
 :---
@@ -23126,6 +24762,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सतीमपि
 
 ज्ञातिकुलैकसंश्रयां
@@ -23137,6 +24775,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विशङ्कते
 
 ।
+
+
 
 अत
 
@@ -23160,6 +24800,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 राजा
 
 ---
@@ -23173,6 +24815,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 परिणीतपूर्वा
 
 ।
+
+
 
 शकुन्तला
 
@@ -23218,9 +24862,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शार्ङ्गरव
 
 :---
+
+
 
 किं
 
@@ -23236,6 +24884,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मूर्च्छन्त्यमी
 
 विकारा
@@ -23250,6 +24900,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 राजा
 
 ---
@@ -23262,9 +24914,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शार्ङ्गरव
 
 :----
+
+
 
 राजा
 
@@ -23273,6 +24929,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विशेषेणाधिक्षिप्तोऽस्मि
 
 ।
+
+
 
 गौतमी
 
@@ -23340,6 +24998,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -23356,6 +25016,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 इदमुपनतमेवंरूपमक्लिष्टकान्ति
 
 प्रथमपरिगृहीतं
@@ -23365,6 +25027,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वेत्यव्यवस्यन्
 
 ।
+
+
 
 भ्रमर
 
@@ -23408,6 +25072,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 परिजन
 
 :---(
@@ -23425,6 +25091,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भट्टिणो
 
 ।
+
+
 
 ईरिसं
 
@@ -23474,6 +25142,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -23509,6 +25179,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रतिपत्स्थे
 
 ।
+
+
 
 शकुन्तला
 
@@ -23578,6 +25250,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कृताभिमर्शमनुमन्यमान
 
 :
@@ -23593,6 +25267,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 मुष्टं
 
@@ -23611,6 +25287,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 20
 
 ॥
+
+
 
 शरद्वत
 
@@ -23645,6 +25323,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रत्ययप्रतिवचनम्
 
 ।
+
+
 
 शकुन्तला
 
@@ -23834,6 +25514,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -23852,6 +25534,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 व्यपदेशमाविलयितुं
 
 किमीहसे
@@ -23863,6 +25547,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पातयितुम्
 
 ।
+
+
 
 कूलंकषेव
 
@@ -23879,6 +25565,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 21
 
 ॥
+
+
 
 शकुन्तला
 
@@ -23938,6 +25626,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -23951,6 +25641,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 शकुन्तला
 
@@ -24002,6 +25694,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 गौतमी
 
 ----( 3 )
@@ -24040,6 +25734,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -24061,6 +25757,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 यदुच्यते
 
 ।
+
+
 
 शकुन्तलरा
 
@@ -24106,6 +25804,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -24115,6 +25815,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 संवृत्तम्
 
 ।
+
+
 
 शकून्तला
 
@@ -24160,6 +25862,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -24167,6 +25871,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शृणुमस्तावत्
 
 ।
+
+
 
 शकुन्तला
 
@@ -24360,6 +26066,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -24371,6 +26079,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विषयिण
 
 :
+
+
 
 गौतमी
 
@@ -24420,6 +26130,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -24429,6 +26141,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तापसवृद्धे
 
 !
+
+
 
 स्त्रीणामशिक्षितपटुत्वममानुषीषु
 
@@ -24445,6 +26159,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 प्रागन्तरिक्षगमनात्
 
@@ -24469,6 +26185,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 22
 
 ॥
+
+
 
 शकुन्तला
 
@@ -24507,6 +26225,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पडिवज्जिस्सदि
 
 ।
+
+
 
 राजा
 
@@ -24568,6 +26288,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मय्येव
 
 विस्समरणदारुणचित्तवृत्तौ
@@ -24581,6 +26303,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रणयमप्रतिपद्यमाने
 
 ।
+
+
 
 भेदाद्भ्रुवो
 
@@ -24625,6 +26349,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 लक्षये
 
 ।
+
+
 
 शकुन्तला
 
@@ -24694,6 +26420,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 अत
 
 :
@@ -24712,6 +26440,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अज्ञातहृदयेष्वेवं
 
 वैरीभवति
@@ -24723,6 +26453,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 24
 
 ॥
+
+
 
 राजा
 
@@ -24742,6 +26474,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शार्ङ्गरव
 
 :---(
@@ -24758,6 +26492,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 आन्मन
 
 :
@@ -24771,6 +26507,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 जनस्य
 
 ।
+
+
 
 परातिसंधानमधीयते
 
@@ -24789,6 +26527,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 25
 
 ॥
+
+
 
 राजा
 
@@ -24816,6 +26556,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शार्ङ्गरव
 
 :----
@@ -24825,6 +26567,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 शार्ङ्गरव
 
@@ -24856,6 +26600,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तदेषा
 
 भवत
@@ -24874,6 +26620,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उपपन्ना
 
 हि
@@ -24890,6 +26638,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 गौतमि
 
 !
@@ -24900,6 +26650,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 प्रस्थिता
@@ -24907,6 +26659,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 शकुन्तला
 
@@ -24969,6 +26723,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 गौतमी
 
@@ -25046,6 +26802,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शार्ङ्गरव
 
 :---(
@@ -25072,6 +26830,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 भीता
@@ -25080,6 +26840,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शार्ङ्गरव
 
 :---
@@ -25087,6 +26849,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शकुन्तले
 
 !
+
+
 
 यदि
 
@@ -25103,6 +26867,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पितुरुत्कुलयात्वया
 
 ।
+
+
 
 अथ
 
@@ -25130,6 +26896,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 तिष्ठ
 
 तिष्ठ
@@ -25139,6 +26907,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वयम्
 
 ।
+
+
 
 राजा
 
@@ -25154,6 +26924,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कुमुदान्येव
 
 शशाङ्क
@@ -25167,6 +26939,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पङ्कजान्येव
 
 ।
+
+
 
 वशिनां
 
@@ -25183,6 +26957,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 28
 
 ॥
+
+
 
 शार्ङ्गरव
 
@@ -25202,6 +26978,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -25213,6 +26991,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पृच्छामि
 
 ।
+
+
 
 मूढ
 
@@ -25228,6 +27008,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 दारतृयागी
 
 भवाम्याहो
@@ -25241,6 +27023,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 29
 
 ॥
+
+
 
 पुरोहित
 
@@ -25260,6 +27044,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -25271,6 +27057,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भवान्
 
 ।
+
+
 
 पुरोहित
 
@@ -25342,6 +27130,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -25353,6 +27143,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 रोचते
 
 ।
+
+
 
 पुरोहित
 
@@ -25367,6 +27159,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 माम्
 
 ।
+
+
 
 शकुन्तला
 
@@ -25414,6 +27208,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -25430,13 +27226,19 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 नेपथ्ये
 
 ।
 
+
+
 आश्चर्यमाश्चर्यम्
 
 ।
+
+
 
 राजा
 
@@ -25458,9 +27260,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रविश्य
 
 ।
+
+
 
 पुरोहित
 
@@ -25482,6 +27288,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -25489,6 +27297,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 किमिव
 
 ?
+
+
 
 पुरोहित
 
@@ -25503,6 +27313,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कण्वशिष्येषु
 
 ।
+
+
 
 सा
 
@@ -25526,6 +27338,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 स्त्रीसंसथानं
 
 चाप्सरस्तीर्थमारादाक्षिप्यैनां
@@ -25540,6 +27354,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 सवे
 
 विस्मयं
@@ -25547,6 +27363,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 रूपयन्ति
 
 ॥
+
+
 
 राजा
 
@@ -25558,9 +27376,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 पुरोहित
 
 :---
+
+
 
 राजा
 
@@ -25596,6 +27418,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 पुरोहित
 
 :---(
@@ -25620,6 +27444,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 ---
@@ -25637,6 +27463,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शयनभूभिमार्गमादेशय
 
 ।
+
+
 
 प्रतीहारी
 
@@ -25668,6 +27496,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -25677,6 +27507,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 कामं
 
@@ -25691,6 +27523,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मुनेस्तनयाम्
 
 ।
+
+
 
 बलवत्तु
 
@@ -25708,6 +27542,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 इति
 
 निष्कान्ता
@@ -25718,6 +27554,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इति
 
 पञ्चमोऽङ्क
@@ -25726,7 +27564,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+ 
+
 ----------
+
+
+
+
+
+
+
+
 
 ॥
 
@@ -25737,6 +27585,12 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ॥
+
+
+
+
+
+
 
 तत
 
@@ -25763,6 +27617,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 च
 
 ।
+
+
 
 रहिणौ
 
@@ -25820,6 +27676,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 पुरुष
 
 :---(
@@ -25859,6 +27717,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 नेदृशकर्मकारी
 
 ।
+
+
 
 रक्षिणो
 
@@ -25914,6 +27774,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 पुरुष
 
 :---( 3 )
@@ -25948,6 +27810,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 द्वितीय
 
 :---( 4 )
@@ -25981,6 +27845,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 स्याल
 
@@ -26024,6 +27890,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उभौ
 
 ----( 1 )
@@ -26058,6 +27926,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 स्याल
 
 :----( 2 )
@@ -26075,6 +27945,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कथय।
 
 )
+
+
 
 पुरुष
 
@@ -26106,6 +27978,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 स्याल
 
 :----(
@@ -26135,6 +28009,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 पुरुष
 
@@ -26218,6 +28094,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 स्याल
 
 :----( 1 )
@@ -26235,6 +28113,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+ 
 
 पुरुष
 
@@ -26358,6 +28238,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 स्याल
 
 :----( 1 )
@@ -26420,6 +28302,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 रक्षिणौ
 
 ---( 2 )
@@ -26457,6 +28341,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 स्याल
 
@@ -26536,6 +28422,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उभौ
 
 ---( 1 )
@@ -26557,6 +28445,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 स्वामिप्रसादाय
 
 ।
+
+
 
 प्रथम
 
@@ -26586,6 +28476,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 द्वितीय
 
 :----( 3 )
@@ -26607,6 +28499,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 प्रथम
 
@@ -26666,6 +28560,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 पुरुष
 
 :----( 5 )
@@ -26697,6 +28593,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भवितुम्
 
 ।
+
+
 
 द्वितीय
 
@@ -26792,6 +28690,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 स्याल
 
 :----( 1 )
@@ -26838,6 +28738,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रथम
 
 ---( 2 )
@@ -26859,6 +28761,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भणति
 
 !
+
+
 
 द्वितीय
 
@@ -26885,6 +28789,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 पुरुष
 
@@ -26962,6 +28868,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 पुरुष
 
 :----(
@@ -26991,6 +28899,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अनुगृहीतोऽस्मि
 
 ।
+
+
 
 सूचक
 
@@ -27031,6 +28941,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 जानुक
 
@@ -27174,6 +29086,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सूचक
 
 :----( 1 )
@@ -27195,6 +29109,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 आवुत्तेन
 
 ।
+
+
 
 जानुक
 
@@ -27240,6 +29156,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 पुरुष
 
 :---( 3 )
@@ -27274,6 +29192,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 जानुक
 
 :----( 1 )
@@ -27289,6 +29209,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 एतद्युज्यते
 
 ।
+
+
 
 स्याल
 
@@ -27382,6 +29304,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
  -----------
 
+
+
+
+
 ॥
 
 प्रवेशक
@@ -27407,6 +29333,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 सानुमती
 
@@ -27696,6 +29624,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रथमा
 
 ----( 1 )
@@ -27722,6 +29652,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सच्चरणचरणभग्गं
 
 उद्मङ्गलं
@@ -27736,6 +29668,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 द्यानपालिकयोस्तिरस्करिणीप्रतिच्छन्ना
 
 पार्श्ववर्तिनी
@@ -27744,11 +29678,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 षट्चरणचरणभग्रम्तुमङ्लभिव
 
 पश्यामि
 
 ॥
+
+
 
 द्वितीया
 
@@ -27779,6 +29717,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 प्रथमा
 
@@ -27820,6 +29760,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 द्वितीया
 
 ----(
@@ -27847,6 +29789,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 प्रथमा
 
@@ -27879,6 +29823,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मदविभ्रमगीतानाम्
 
 ।
+
+
 
 द्वितीया
 
@@ -27926,6 +29872,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रथमा
 
 ---( 1 )
@@ -27949,6 +29897,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ममाप्यर्धमयर्चनफलस्य
 
 ।
+
+
 
 द्वितीया
 
@@ -28044,6 +29994,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 परिकुविदमवइलक्खे
 
 पञ्चब्भहिओ
@@ -28094,6 +30046,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
  (
 
 इति
@@ -28122,6 +30076,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 कञ्चुकी
 
 ---
@@ -28141,6 +30097,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 त्वमाम्रकलिकाभङ्गमारभसे
 
 ।
+
+
 
 उभे
 
@@ -28175,6 +30133,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 आवाम्
 
 ।
+
+
 
 कञ्चुकी
 
@@ -28218,6 +30178,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 चूतानां
 
 चिरनिर्गतापि
@@ -28234,6 +30196,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 :
 
+
+
 सन्नद्धं
 
 यदपि
@@ -28248,6 +30212,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कण्ठेषु
 
 स्खालितं
@@ -28259,6 +30225,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पुंस्कोकिलानां
 
 रुतं
+
+
 
 शङ्के
 
@@ -28275,6 +30243,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 4
 
 ॥
+
+
 
 सानुमती
 
@@ -28295,6 +30265,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 ( 1 )
+
+
 
 प्रथमा
 
@@ -28378,6 +30350,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कञ्चुकी
 
 ----
@@ -28391,6 +30365,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रवर्तितव्यम्
 
 ।
+
+
 
 उभौ
 
@@ -28476,6 +30452,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सानुमती
 
 ---( 2 )
@@ -28518,6 +30496,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उभे
 
 ----( 3 )
@@ -28539,6 +30519,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 राष्ट्रियमुखाद्यावदंगुलींयकदर्शनम्
 
 ।
+
+
 
 कञ्चुकी
 
@@ -28572,6 +30554,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 शकुन्तला
 
+
+
 रम्यं
 
 द्वेष्टि
@@ -28586,6 +30570,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 सेव्यते
 
+
+
 शय्याप्रान्तविवर्तनैर्विनमत्युन्निद्र
 
 एव
@@ -28595,6 +30581,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 दाक्षिण्येन
 
@@ -28607,6 +30595,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पुरेभ्यो
 
 यदा
+
+
 
 गोत्रेषु
 
@@ -28623,6 +30613,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 5
 
 ॥
+
+
 
 सानुमती
 
@@ -28642,6 +30634,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कञ्चुकी
 
 ----
@@ -28659,6 +30653,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 उभे
 
@@ -28706,6 +30702,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कञ्चुकी
 
 ----(
@@ -28735,6 +30733,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 स्वकर्मानुष्ठीयताम्
 
 ।
+
+
 
 उभे
 
@@ -28782,6 +30782,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 विदूषक
 
 :----( 5 )
@@ -28803,6 +30805,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भवान्
 
 ।
+
+
 
 कञ्चुकी
 
@@ -28840,9 +30844,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रत्यादिष्टविशेषमण्डनविधिर्वामप्रकोष्ठोर्पितं
 
 बिभ्रत्
+
+
 
 काञ्चनमेकमेव
 
@@ -28854,9 +30862,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 चिन्ताजागरणप्रतान्तनयनस्तेजतोगुणादात्मन
 
 :
+
+
 
 संस्कारोल्लिखितो
 
@@ -28871,6 +30883,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 6
 
 ॥
+
+
 
 सानुमती
 
@@ -28900,6 +30914,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -28912,6 +30928,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 प्रथमं
 
 सारङ्गाक्ष्या
@@ -28923,6 +30941,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सुप्तम्
 
 ।
+
+
 
 अनुशयदु
 
@@ -28942,6 +30962,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 सानुमती
 
 ----( 1 )
@@ -28959,6 +30981,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तपस्विनीभागधेयानि
 
 ।
+
+
 
 विदूषक
 
@@ -29025,6 +31049,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भवष्यितीति
 
 ।
+
+
 
 कञ्चुकी
 
@@ -29096,6 +31122,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रतीहारी
 
 ---( 1 )
@@ -29130,6 +31158,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 ---
@@ -29145,6 +31175,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कुरु
 
 । 
+
+
 
 कञ्चुकी
 
@@ -29169,6 +31201,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 विदूषक
 
@@ -29220,6 +31254,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -29248,6 +31284,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मुनिसुताप्रणयस्मृतिरोधिना
 
 मम
@@ -29263,6 +31301,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 मनसिजेन
 
@@ -29283,6 +31323,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 8
 
 ॥
+
+
 
 विदूषक
 
@@ -29336,6 +31378,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 ---(
@@ -29377,6 +31421,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विलोभयामि
 
 ।
+
+
 
 विदूषक
 
@@ -29464,6 +31510,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -29479,6 +31527,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मार्गमादेशय
 
 ।
+
+
 
 विदूषक
 
@@ -29517,6 +31567,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 विदूषक
 
@@ -29561,6 +31613,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 सानुमती
 
@@ -29625,6 +31679,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निवेदयिष्यामि
 
 ।
+
+
 
 राजा
 
@@ -29691,6 +31747,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 विदूषक
 
@@ -29798,6 +31856,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सानुमती
 
 ----( 2 )
@@ -29813,6 +31873,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 एवमेतम्
 
 ।
+
+
 
 राजा
 
@@ -29928,6 +31990,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 इत
 
 :
@@ -29937,6 +32001,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 स्वजनमनुगन्तुं
 
 व्यवसिता
+
+
 
 स्थिता
 
@@ -29948,9 +32014,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 पुनर्दृष्टिं
 
 बराष्प्रसरकलुषामर्पितवती
+
+
 
 मयि
 
@@ -29971,6 +32041,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 9
 
 ॥
+
+
 
 सानुमती
 
@@ -30017,6 +32089,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 रमे
 
 ।
+
+
 
 विदूषक
 
@@ -30068,6 +32142,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -30106,6 +32182,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सानुमती
 
 ---( 1 )
@@ -30142,6 +32220,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 विदूषक
 
 :----( 2 )
@@ -30176,6 +32256,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----
@@ -30185,6 +32267,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 विदूषक
 
@@ -30230,6 +32314,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -30237,6 +32323,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वयस्य
 
 !
+
+
 
 सवप्रो
 
@@ -30260,6 +32348,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 असंनिवृत्त्यै
 
 तदतहीतमेव
@@ -30277,6 +32367,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 10
 
 ॥
+
+ 
 
 विदूषक
 
@@ -30324,6 +32416,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -30346,6 +32440,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तव
 
 सुचरितमङ्गुलीय
@@ -30362,6 +32458,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अरुणनखमनोहरासु
 
 तस्याश्युतमसि
@@ -30375,6 +32473,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 11
 
 ॥
+
+
 
 सानुमती
 
@@ -30395,6 +32495,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भवे
 
 ।
+
+
 
 विदूषक
 
@@ -30417,6 +32519,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पाविदा
 
 ?
+
+
 
 सानुमती
 
@@ -30445,6 +32549,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -30482,6 +32588,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 विदूषक
 
 :----( 4 )
@@ -30499,6 +32607,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -30518,6 +32628,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 एकैकमत्र
 
 दिवसे
@@ -30533,6 +32645,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 गच्दसि
 
 यावदन्तम्
+
+
 
 तावत्
 
@@ -30552,6 +32666,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 तच्चं
 
 दारुणेम
@@ -30561,6 +32677,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मोहान्नानुष्ठितम्
 
 ।
+
+
 
 सानुमती
 
@@ -30591,6 +32709,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 विदूषक
 
@@ -30626,6 +32746,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -30644,6 +32766,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 विदूषक
 
 :----( 1 )
@@ -30657,6 +32781,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 युज्यते
 
 ।
+
+
 
 सानुमती
 
@@ -30750,6 +32876,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -30759,6 +32887,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तावदिदमङ्गुलीयकम्
 
 ।
+
+
 
 विदूषक
 
@@ -30789,6 +32919,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 उन्मत्तानां
 
 ।
+
+
 
 राजा
 
@@ -30824,6 +32956,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 \-
 
+
+
 अचेतनं
 
 नाम
@@ -30842,6 +32976,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 विदूषक
 
 :----(
@@ -30857,6 +32993,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 बुभुक्खाए
 
 स्वादिदव्वो
+
+
 
 राजा
 
@@ -30885,6 +33023,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 स्ता
 
  )
+
+
 
 चतुरिका
 
@@ -30919,6 +33059,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 विदूषक
 
@@ -30967,6 +33109,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 दृदश्टिर्निम्रोन्नतप्रदेशेषु
 
 ।
+
+
 
 सानुमती
 
@@ -31018,6 +33162,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----
@@ -31038,6 +33184,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तथापि
 
 तस्या
@@ -31049,6 +33197,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 किंचिदन्वितम्
 
 ॥
+
+
 
 सानुमती
 
@@ -31081,6 +33231,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 च
 
 ।
+
+
 
 विदूषक
 
@@ -31148,6 +33300,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सानुमती
 
 ----( 2 )
@@ -31185,6 +33339,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 विदूषक
 
@@ -31276,6 +33432,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -31294,6 +33452,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 स्विन्नाङ्गुलिविनिवेशो
 
 रेखाप्रान्तेषु
@@ -31305,6 +33465,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 अश्रु
 
@@ -31321,6 +33483,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 15
 
 ॥
+
+
 
 चतुरिके
 
@@ -31345,6 +33509,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 श्
 
 ?
+
+
 
 चतुरिका
 
@@ -31380,6 +33546,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -31408,6 +33576,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 ---(
@@ -31417,6 +33587,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 साक्षात्
 
@@ -31431,6 +33603,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 स्त्रोतोवह
 
@@ -31455,6 +33629,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 16
 
 ॥
+
+
 
 विदूषक
 
@@ -31566,6 +33742,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -31574,6 +33752,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कार्या
 
 सैकतलीनहंसमिथुना
@@ -31581,6 +33761,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 स्त्रोतोवहा
 
 मालिनी
+
+
 
 पादास्तामभितो
 
@@ -31596,6 +33778,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शाखलम्बितवल्कलस्य
 
 च
@@ -31603,6 +33787,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तरोर्निर्मातुमिच्छाम्यध
 
 :
+
+
 
 शृङ्गे
 
@@ -31619,6 +33805,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 17
 
 ॥
+
+
 
 विदूषक
 
@@ -31670,6 +33858,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -31692,6 +33882,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 विदूषक
 
 :----( 2 )
@@ -31707,6 +33899,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 किभिव
 
 ।
+
+
 
 सानुमती
 
@@ -31742,6 +33936,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -31757,6 +33953,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शिरीषमागष्डविलम्बिकेसरम्
 
 ।
+
+
 
 न
 
@@ -31775,6 +33973,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 18
 
 ॥
+
+
 
 विदूषक
 
@@ -31882,6 +34082,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -31895,6 +34097,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 विदूषक
 
@@ -31930,6 +34134,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -31954,6 +34160,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 एषा
 
 कुसुमनिषण्ण
@@ -31965,6 +34173,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भवनतमनुरक्ता
 
 ।
+
+
 
 प्रतिपालयति
 
@@ -31987,6 +34197,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 19
 
 ॥
+
+
 
 सानुमती
 
@@ -32016,6 +34228,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 विदूषक
 
 :--- ( 2 )
@@ -32044,6 +34258,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -32070,6 +34286,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अक्लिष्टबालतरुपल्लवलोभनीयं
 
 पीतं
@@ -32081,6 +34299,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 रतोतृसवेषु
 
 ।
+
+
 
 बिम्बाधरं
 
@@ -32099,6 +34319,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 20
 
 ॥
+
+
 
 विदूषक
 
@@ -32208,6 +34430,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सानुमती
 
 ----( 2 )
@@ -32246,6 +34470,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -32260,6 +34486,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 दर्शनसुखमनुभवत
 
 :
@@ -32271,6 +34499,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 हृदयेन
 
 ।
+
+
 
 स्मृतिकारिणा
 
@@ -32302,6 +34532,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 सानुमती
 
 ---( 1 )
@@ -32328,6 +34560,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----
@@ -32346,6 +34580,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रजागरात्
 
 खिलीभूतस्तस्या
@@ -32359,6 +34595,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 बाष्वषसतु
 
@@ -32375,6 +34613,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 22
 
 ॥
+
+
 
 सानुमती
 
@@ -32419,6 +34659,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 चतुरिका
 
@@ -32466,6 +34708,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -32475,6 +34719,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 च
 
 ।
+
+
 
 चतुरिका
 
@@ -32532,6 +34778,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 विदूषक
 
 :----( 4 )
@@ -32553,6 +34801,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मुक्ता
 
 ।
+
+
 
 चतुरिका
 
@@ -32597,6 +34847,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 आत्मा
 
 ।
+
+
 
 विदूषक
 
@@ -32678,6 +34930,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 सानुमती
 
 ----( 1 )
@@ -32726,6 +34980,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 प्रतीहारी
 
 ----( 2 )
@@ -32750,6 +35006,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -32769,6 +35027,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 देवी
 
 ।
+
+
 
 प्रतीहासर्री
 
@@ -32808,6 +35068,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -32821,6 +35083,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 परिहरति
 
 ।
+
+
 
 प्रतीहारी
 
@@ -32894,6 +35158,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -32915,6 +35181,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 राजा
 
@@ -32994,6 +35262,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रतीहारी
 
 ---( 1 )
@@ -33040,6 +35310,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -33065,6 +35337,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ब्रूहि
 
 ।
+
+
 
 प्रतीहारी
 
@@ -33096,6 +35370,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 ---
@@ -33105,6 +35381,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तावत्
 
 ।
+
+
 
 प्रतीहार
 
@@ -33120,6 +35398,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 --
@@ -33131,6 +35411,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 नास्तीति
 
 ।
+
+
 
 येन
 
@@ -33147,6 +35429,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 बन्धुना
 
 ।
+
+
 
 स
 
@@ -33167,6 +35451,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 23
 
 ॥
+
+
 
 प्रतीहारी
 
@@ -33230,6 +35516,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -33282,6 +35570,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रतीहारी
 
 ---( 2 )
@@ -33298,6 +35588,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -33305,6 +35597,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 धिङ्मामुपस्थितश्रेयोऽवमानिनम्
 
 ।
+
+
 
 सानुमती
 
@@ -33342,6 +35636,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -33360,6 +35656,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 कल्पिष्यमाणा
 
 महते
@@ -33377,6 +35675,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 24
 
 ॥
+
+
 
 सानुमती
 
@@ -33403,6 +35703,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 संततिर्भविष्यति
 
 ।
+
+
 
 चतुरिका
 
@@ -33462,6 +35764,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रतीहारी
 
 ---( 3 )
@@ -33492,6 +35796,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 ---
@@ -33516,6 +35822,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अस्मात्
 
 परं
@@ -33539,6 +35847,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 करिष्यतीति
 
 ।
+
+
 
 नूनं
 
@@ -33574,6 +35884,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 चतुरिका
 
 ---(
@@ -33601,6 +35913,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भर्ता
 
 ।
+
+
 
 सानुमती
 
@@ -33794,6 +36108,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 नेपथ्ये
 
 ।
@@ -33813,6 +36129,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अब्रह्मण्यम्
 
 ।
+
+
 
 राजा
 
@@ -33864,6 +36182,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 प्रतीहारी
 
 ----(
@@ -33896,6 +36216,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 वयस्यम्
 
+
+
 राजा
 
 ----
@@ -33907,6 +36229,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 प्रतीहारी
 
@@ -33948,6 +36272,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -33980,6 +36306,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अहन्यहन्यात्मन
 
 एव
@@ -33995,6 +36323,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 शक्यम्
 
 ।
+
+
 
 प्रजासु
 
@@ -34045,6 +36375,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वयस्य
 
 ।
+
+
 
 राजा
 
@@ -34154,6 +36486,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -34177,6 +36511,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 यवनिका
 
@@ -34224,6 +36560,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 एष
 
 त्वामभिनवकण्ठशोणितार्थी
@@ -34240,6 +36578,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 आर्तानां
 
 भयमपनेतुमात्तधन्वा
@@ -34255,6 +36595,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 27
 
 ॥
+
+
 
 राजा
 
@@ -34300,6 +36642,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रतीहारी
 
 ---( 1 )
@@ -34331,6 +36675,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 राजा
 
@@ -34440,6 +36786,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -34464,6 +36812,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 यो
 
 हनिष्यति
@@ -34481,6 +36831,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 द्विजम्
 
 ।
+
+
 
 हंसो
 
@@ -34528,6 +36880,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 मातलि
 
 :----
@@ -34551,6 +36905,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विकृष्यतामिदम्
 
 ।
+
+
 
 प्रसादसौम्यानि
 
@@ -34578,6 +36934,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 राजा
 
 ---(
@@ -34601,6 +36959,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 महेन्द्रसारथे
 
 !
+
+
 
 विदूषक
 
@@ -34640,6 +37000,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मातलि
 
 :----(
@@ -34670,6 +37032,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -34678,6 +37042,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मातालि
 
 :----
@@ -34685,6 +37051,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अवहितोऽस्मि
 
 ।
+
+
 
 मातलि
 
@@ -34702,6 +37070,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -34715,6 +37085,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 नारदात्
 
 ।
+
+
 
 मातलि
 
@@ -34738,6 +37110,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उच्छेत्तुं
 
 प्रभवति
@@ -34758,6 +37132,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 स
 
 भवानात्तशस्त्र
@@ -34771,6 +37147,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रतिष्ठताम्
 
 ।
+
+
 
 राजा
 
@@ -34799,6 +37177,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रत्युक्तम्
 
 ।
+
+
 
 मातलि
 
@@ -34844,6 +37224,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 ज्वलति
 
 चलितेन्धनोऽग्रिर्विप्रकृत
@@ -34859,6 +37241,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कुरुते
 
 ।
+
+
 
 प्राय
 
@@ -34881,6 +37265,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 31
 
 ॥
+
+
 
 राजा
 
@@ -34914,6 +37300,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 त्वन्मति
 
 :
@@ -34930,6 +37318,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अधिज्यमिदमन्यस्मिन्
 
 कर्मणि
@@ -34945,6 +37335,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 32
 
 ॥
+
+
 
 विदूषक
 
@@ -34975,6 +37367,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 मातलि
 
@@ -35010,13 +37404,23 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 इति
 
 षष्ठोऽङ्क
 
 : !
 
+ 
+
 --------
+
+
+
+
+
+
 
 ॥
 
@@ -35027,6 +37431,12 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ॥
+
+
+
+
+
+
 
 तत
 
@@ -35041,6 +37451,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मातलिश्च
 
 ।
+
+
 
 राजा
 
@@ -35061,6 +37473,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 समथ्रये
 
 ।
+
+
 
 मातलि
 
@@ -35104,6 +37518,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 गणयत्यवदानतोषितो
 
 भवत
@@ -35121,6 +37537,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 1
 
 ॥
+
+
 
 राजा
 
@@ -35154,6 +37572,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अन्तर्गतप्रार्थनमन्तिकस्थं
 
 जयन्तमुद्वीक्ष्य
@@ -35161,6 +37581,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कृतस्मितेन
 
 ।
+
+
 
 आमृष्टवक्षोहरिचन्दनाङ्का
 
@@ -35175,6 +37597,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 2
 
 ॥
+
+
 
 मातलि
 
@@ -35193,6 +37617,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 कृतं
+
+
 
 त्रिदिवमुद्धतदानवकण्टकम्
 
@@ -35220,6 +37646,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 राजा
 
 ---
@@ -35238,6 +37666,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 सिध्यन्ति
 
 कर्मसु
@@ -35253,6 +37683,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तमीश्वराणम्
 
 ।
+
+
 
 किं
 
@@ -35275,6 +37707,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 4
 
 ॥
+
+
 
 मातलि
 
@@ -35310,6 +37744,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 विच्छित्तिशेषै
 
 :
@@ -35321,6 +37757,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कल्पलतांशुकेषु
 
 ।
+
+
 
 संचिन्त्य
 
@@ -35335,6 +37773,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 5
 
 ॥
+
+
 
 राजा
 
@@ -35370,6 +37810,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मातलि
 
 :----
@@ -35394,6 +37836,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तस्थ
 
 द्वितीयहरिविक्रमनिस्तमस्कं
@@ -35411,6 +37855,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 6
 
 ॥
+
+
 
 राजा
 
@@ -35450,6 +37896,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मातलि
 
 :----
@@ -35457,6 +37905,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कथमवगम्यते
 
 ।
+
+
 
 राजा
 
@@ -35473,6 +37923,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 गतमुपरि
 
@@ -35494,6 +37946,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 मातलि
 
 :----
@@ -35505,6 +37959,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वर्तिश्यते
 
 ।
+
+
 
 राजा
 
@@ -35536,6 +37992,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शैलानामवारोहतीव
 
 शिखरादुन्मज्जतां
@@ -35553,6 +38011,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 संतानैस्तनुभावनष्टसलिला
 
@@ -35573,6 +38033,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 8
 
 ॥
+
+
 
 मातलि
 
@@ -35599,6 +38061,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पृथिवी
 
 ।
+
+
 
 राजा
 
@@ -35628,6 +38092,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मातलि
 
 :----
@@ -35654,6 +38120,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ---
 
+
+
 स्वायम्भुवान्मरीचेर्य
 
 :
@@ -35665,6 +38133,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 सुरासुरगुरु
 
@@ -35679,6 +38149,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 9
 
 ॥
+
+
 
 राजा
 
@@ -35699,6 +38171,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 गन्तुमिच्छामि
 
 ।
+
+
 
 मातलि
 
@@ -35724,6 +38198,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -35733,6 +38209,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 उपोढशब्दा
 
@@ -35756,6 +38234,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अभूतलस्तर्शतया
 
 निरुद्धतस्तवावतीर्णो
@@ -35776,6 +38256,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 मातलि
 
 :---
@@ -35789,6 +38271,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -35810,6 +38294,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मातलि
 
 :---(
@@ -35822,6 +38308,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 वल्मीकार्धनिमग्रमूर्तिरुरसा
 
 संदष्टसर्पतृवचा
@@ -35833,6 +38321,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 अंसव्यापि
 
@@ -35856,6 +38346,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 राजा
 
 ---
@@ -35865,6 +38357,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कष्टतपसे
 
 ।
+
+
 
 मातलि
 
@@ -35896,6 +38390,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -35909,6 +38405,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अमृतहृदमिवावगाढोऽस्मि
 
 ।
+
+
 
 मातलि
 
@@ -35926,6 +38424,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----(
@@ -35941,6 +38441,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कथभिदानीम्
 
 ।
+
+
 
 मातलि
 
@@ -35992,6 +38494,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -36001,6 +38505,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 विस्त्रयादवलोकयामि
 
 ।
+
+
 
 प्राणानामनिलेन
 
@@ -36018,6 +38524,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 ध्यानं
 
 रत्नशिलातलेषु
@@ -36026,6 +38534,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 संयमो
 
+
+
 यत्
 
 काङ्क्षन्ति
@@ -36033,6 +38543,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तपोभिरन्यमुनयस्तस्मिंस्पस्यन्त्यमी
 
 ॥
+
+
 
 मातलि
 
@@ -36057,6 +38569,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 अये
 
@@ -36104,6 +38618,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -36132,6 +38648,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मातलि
 
 :----(
@@ -36153,6 +38671,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भवामि
 
 ।
+
+
 
 राजा
 
@@ -36178,6 +38698,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 मातलि
 
 :----
@@ -36202,6 +38724,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 राजा
 
 ---(
@@ -36213,6 +38737,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 मनोरथाय
 
@@ -36227,6 +38753,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वृथा
 
 ।
+
+
 
 पूर्वावधीरितं
 
@@ -36308,6 +38836,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -36362,11 +38892,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अर्धपीतस्तनं
 
 मातुरामर्दल्लिष्टकेसरम्
 
 ।
+
+
 
 प्रकीडितुं
 
@@ -36404,6 +38938,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 बाल
 
 :---( 1 )
@@ -36431,6 +38967,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 गणयिष्यामि
 
 ।
+
+
 
 प्रथमा
 
@@ -36514,6 +39052,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----
@@ -36547,6 +39087,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वत्सलयति
 
 ।
+
+
 
 द्वितीया
 
@@ -36602,6 +39144,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 बाल
 
 :----(
@@ -36642,9 +39186,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
+
+
 
 महतस्तेजसो
 
@@ -36657,6 +39205,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मे
 
 ।
+
+
 
 स्फुलिङ्गावस्थया
 
@@ -36673,6 +39223,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 15
 
 ॥
+
+
 
 प्रथमा
 
@@ -36720,6 +39272,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 बाल
 
 :----( 2 )
@@ -36754,6 +39308,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -36772,6 +39328,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 । 
 
+
+
 प्रलोभ्यवस्तुप्रणयप्रसारितो
 
 विभाति
@@ -36786,6 +39344,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अलक्ष्यपत्रान्तरमिद्धरागया
 
 नवोषसां
@@ -36797,6 +39357,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 16
 
 ॥
+
+
 
 द्वितीया
 
@@ -36884,6 +39446,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 प्रथमा
 
 ---( 2 )
@@ -36903,6 +39467,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तथा
 
 ।
+
+
 
 बाल
 
@@ -36940,6 +39506,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -36952,6 +39520,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 आलक्ष्यदन्तमुलाननिमित्तहासैरव्यक्तवर्णरमणीयवच
 
 :
@@ -36959,6 +39529,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रवृत्तीन्
 
 ।
+
+
 
 अङ्काश्रयप्रणयिनस्तनयान्
 
@@ -36973,6 +39545,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 17
 
 ॥
+
+
 
 तापसी
 
@@ -37082,6 +39656,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -37102,6 +39678,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 !
 
+
+
 एवमाश्रमविरुद्धवृत्तिना
 
 संयम
@@ -37113,6 +39691,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 जन्मनस्त्वया
 
 ।
+
+
 
 सत्त्वसंश्रयगंणोऽपि
 
@@ -37129,6 +39709,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 18
 
 ॥
+
+
 
 तापसी
 
@@ -37160,6 +39742,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 अनेन
 
 कस्यापि
@@ -37175,6 +39759,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ममैवम्
 
 ।
+
+
 
 कां
 
@@ -37200,6 +39786,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 तापसी
 
 ----(
@@ -37224,6 +39812,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----
@@ -37237,6 +39827,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 तापसी
 
@@ -37300,6 +39892,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -37322,6 +39916,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 तापसी
 
 ----( 3 )
@@ -37337,6 +39933,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -37378,6 +39976,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 भवनेषु
 
 सुधासितेषु
@@ -37391,6 +39991,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 निवासम्
 
 ।
+
+
 
 नियतैकयतिव्रतानि
 
@@ -37425,6 +40027,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 तापसी
 
@@ -37478,6 +40082,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -37516,6 +40122,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ?
 
+
+
 तापसी
 
 ---( 2 )
@@ -37535,6 +40143,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 राजा
 
@@ -37600,6 +40210,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -37660,6 +40272,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 तापसी
 
 ---( 1 )
@@ -37685,6 +40299,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पश्य
 
 ।
+
+
 
 बाल
 
@@ -37716,6 +40332,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उभे
 
 ---( 3 )
@@ -37743,6 +40361,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 द्वितीया
 
@@ -37784,6 +40404,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -37805,6 +40427,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 सन्ति
 
@@ -37829,6 +40453,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 बाल
 
@@ -37869,6 +40495,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 प्रथमा
 
@@ -37912,6 +40540,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -37935,6 +40565,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 उभे
 
@@ -37982,6 +40614,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -37997,6 +40631,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 प्रथमा
 
@@ -38096,6 +40732,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -38105,6 +40743,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 गृह्णाति
 
 ।
+
+
 
 प्रथमा
 
@@ -38134,6 +40774,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -38152,6 +40794,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 उभे
 
 ---( 2 )
@@ -38167,6 +40811,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 राजा
 
@@ -38199,6 +40845,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 द्वितीया
 
@@ -38256,6 +40904,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 बाल
 
 :----( 4 )
@@ -38288,6 +40938,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 गच्छामि।
 
+
+
 राजा
 
 ---
@@ -38301,6 +40953,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मातरमभिनन्दयिष्यसि
 
 ।
+
+
 
 बाल
 
@@ -38342,6 +40996,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---(
@@ -38375,6 +41031,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 शकुन्तला
 
@@ -38460,6 +41118,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----(
@@ -38482,6 +41142,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 यैषा
 
+
+
 वसने
 
 परिधूसरे
@@ -38495,6 +41157,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 अपि
 
@@ -38515,6 +41179,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 21
 
 ॥
+
+
 
 शकुन्तला
 
@@ -38590,6 +41256,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 बाल
 
 :---(
@@ -38638,6 +41306,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----
@@ -38667,6 +41337,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पश्यामि
 
 ।
+
+
 
 शकुन्तला
 
@@ -38726,6 +41398,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -38733,6 +41407,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रिये
 
 !
+
+
 
 स्मृतिभिन्नमोहृतमसो
 
@@ -38747,6 +41423,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सुमुखि
 
 ।
+
+
 
 उपरागान्ते
 
@@ -38765,6 +41443,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 22
 
 ॥
+
+
 
 शकुन्तला
 
@@ -38798,6 +41478,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -38805,6 +41487,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 सुन्दरि
 
 ! 
+
+
 
 बाष्पेण
 
@@ -38818,6 +41502,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 यत्ते
 
 दृष्टमसंस्कारपाटलोष्ठपुटं
@@ -38829,6 +41515,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 23
 
 ॥
+
+
 
 बाल
 
@@ -38858,6 +41546,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ----( 3 )
@@ -38873,6 +41563,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 ( 3 )
+
+
 
 राजा
 
@@ -38891,6 +41583,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 सुतनु
 
@@ -38915,6 +41609,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 बलवानभूत्
 
 ।
+
+
 
 प्रबलतमसामेवंप्राया
 
@@ -38943,6 +41639,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 24
 
 ॥
+
+
 
 शकुन्तला
 
@@ -39034,6 +41732,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 शुकुन्तला
 
 ---
@@ -39078,6 +41778,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -39089,6 +41791,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कथयिष्यामि
 
 ।
+
+
 
 मोहान्मया
 
@@ -39105,6 +41809,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 तं
 
@@ -39132,6 +41838,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 शकुन्तला
 
 ----(
@@ -39154,6 +41862,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -39175,6 +41885,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तदङ्गुलीयकम्
 
 ।
+
+
 
 शकुन्तला
 
@@ -39220,6 +41932,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -39235,6 +41949,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 कुसुमम्
 
 ।
+
+
 
 शकुन्तला
 
@@ -39292,6 +42008,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 : )
 
+
+
 मातलि
 
 :----
@@ -39305,6 +42023,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 चायुष्मान्वर्धते
 
 ।
+
+
 
 राजा
 
@@ -39336,6 +42056,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मातलि
 
 :----(
@@ -39364,6 +42086,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -39387,6 +42111,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 द्रष्टुमिच्छामि
 
 ।
+
+
 
 शकुन्तला
 
@@ -39415,6 +42141,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 गन्तुम्
 
 ।
+
+
 
 राजा
 
@@ -39456,6 +42184,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 मारीच
 
 :----(
@@ -39469,6 +42199,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 दाक्षायणि
 
 !
+
+
 
 पुत्रस्य
 
@@ -39485,6 +42217,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 गोप्ता
 
 ।
+
+
 
 चापेन
 
@@ -39508,6 +42242,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 अदिति
 
 :----( 1 )
@@ -39527,6 +42263,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 मातलि
 
@@ -39550,6 +42288,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 तावुपसर्प।
 
+
+
 राजा
 
 ---
@@ -39557,6 +42297,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 मातले
 
 !
+
+
 
 प्राहुर्द्वादशधा
 
@@ -39579,6 +42321,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 यद्यज्ञभागेश्वरम्
 
 ।
+
+
 
 यस्मिन्मभुव
 
@@ -39604,6 +42348,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 मातलि
 
 :---
@@ -39613,6 +42359,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 किम्
 
 ।
+
+
 
 राजा
 
@@ -39636,6 +42384,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मारीच
 
 :----
@@ -39649,6 +42399,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 पालय
 
 ।
+
+
 
 आदिति
 
@@ -39671,6 +42423,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भव
 
 ।
+
+
 
 शकुन्तला
 
@@ -39698,6 +42452,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मारीच
 
 :----
@@ -39705,6 +42461,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वत्से
 
 !
+
+
 
 आखण्डलसमो
 
@@ -39719,6 +42477,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 आशीरन्या
 
@@ -39741,6 +42501,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 28
 
 ॥
+
+
 
 अदिति
 
@@ -39808,6 +42570,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 मारीच
 
 :---(
@@ -39820,6 +42584,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
+
+
 दिष्ट्या
 
 शकुन्तला
@@ -39831,6 +42599,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 भवान्
 
 ।
+
+
 
 श्रद्धा
 
@@ -39851,6 +42621,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 29
 
 ॥
+
+
 
 राजा
 
@@ -39882,6 +42654,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 :
 
+
+
 उदेति
 
 पूर्वं
@@ -39908,6 +42682,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 निमित्तनैमि
 
 ?
@@ -39930,6 +42706,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 मातलि
 
 :----
@@ -39943,6 +42721,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 प्रसीदन्ति
 
 ।
+
+
 
 राजा
 
@@ -39994,6 +42774,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 यथा
 
 गजो
@@ -40011,6 +42793,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 स्यात्
 
 ।
+
+
 
 पदानि
 
@@ -40036,6 +42820,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 मारीच
 
 :----
@@ -40058,6 +42844,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -40065,6 +42853,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अवहितोऽस्मि
 
 ।
+
+
 
 मारीच
 
@@ -40110,6 +42900,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ----(
@@ -40124,6 +42916,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ----(
@@ -40137,6 +42931,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वचनीयान्मुक्तोऽस्मि
 
 ।
+
+
 
 शकुनतला
 
@@ -40258,6 +43054,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मारीच
 
 :---
@@ -40288,6 +43086,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शपादसि
 
 प्रतिहा
@@ -40301,6 +43101,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 तवैव
 
 ।
+
+
 
 छाया
 
@@ -40324,6 +43126,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 राजा
 
 ---
@@ -40341,6 +43145,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वंशप्रतिष्ठा
 
 ।
+
+
 
 मारीच
 
@@ -40360,6 +43166,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 रथेनानुत्खातस्तिमितगतिना
 
 तीर्णजलधि
@@ -40377,6 +43185,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 :
 
 ।
+
+
 
 इहायं
 
@@ -40404,6 +43214,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ॥
 
+
+
 राजा
 
 ----
@@ -40417,6 +43229,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 वयमाशंसामहे
 
 ।
+
+
 
 अदिति
 
@@ -40484,6 +43298,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शकुन्तला
 
 ----(
@@ -40522,6 +43338,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 । 
 
+
+
 शिष्य
 
 :----
@@ -40543,6 +43361,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ।
 
 )
+
+
 
 मारीच
 
@@ -40566,6 +43386,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 राजा
 
 ---
@@ -40576,6 +43398,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 मारीच
 
 :---
@@ -40583,6 +43407,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 अपि
 
 च
+
+
 
 तव
 
@@ -40610,6 +43436,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 युगशतपरिवर्तानेवमन्योन्यकृत्यैर्नयतमुभयलोकानुग्रहश्लाघनीयै
 
 :
@@ -40619,6 +43447,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 34
 
 ॥
+
+
 
 राजा
 
@@ -40633,6 +43463,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 यतिष्ये
 
 ?
+
+
 
 मारीच
 
@@ -40653,6 +43485,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 ?
 
 ।
+
+
 
 राजा
 
@@ -40682,6 +43516,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ---
 
+
+
 प्रवर्ततां
 
 प्रकृ
@@ -40699,6 +43535,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 महीयताम्
 
 ।
+
+
 
 ममापि
 
@@ -40738,6 +43576,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 )
 
+
+
 इति
 
 सप्तमोऽङ्क
@@ -40746,11 +43586,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
 ।
 
+
+
 शाकुन्तलं
 
 समाप्तम्
 
 ।
+
+
 
  
 
@@ -40758,8 +43602,62 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MDk2NzU1
 
  
 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
  
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \]

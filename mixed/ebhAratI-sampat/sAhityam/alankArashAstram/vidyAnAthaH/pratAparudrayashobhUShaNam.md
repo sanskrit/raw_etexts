@@ -1114,21 +1114,31 @@ sions and sub-divisions of a *Kâvya* with instances of the chief of them, and v
 
 2 Works like the *Pratâparudrîya* are thus condemned in साहित्यरत्नाकर of धर्मसूरिः—अलंक्रियाःपूर्वतरैः प्रणीताः प्रयोजिताः काश्चन नायकेन। कैश्चित्तु कुर्क्षिमरिमिर्तिबदाः क्षोदीयसा काश्चननायकेन॥In the commentary on this by मल्लादिलक्ष्मणसूरि the following is found: तर्हिसनायकाः प्रतापरुद्रीयादिप्रबन्धाः प्रथन्त एवेत्याशङ्क्याह कैश्रिदिति। कुर्क्षिंमरिभिः स्वोदरपूरकैः धनमात्रलोलुपैरित्यर्थः। केश्चिद्विद्यानाथादिभिस्तु क्षोदीयसा क्षुद्रतरेण। तरलीकृतकाचानां तारद्वारयर्ष्टानामिव तासामपि चाह्वयत्वादग्राह्यत्वम्।
 
-southern parts of India and were widely known to the learned circle. Prof. M. Seshagiri S'âstrî, M. A., states that the work is even now very popular in southern India and is studied by every Sanskrit [student]("Vide Report on a Search for Sanskrit and Tamil Mss. for the year 1893, No. 2 of 1899, by Prof. M. S'eshagiri S'âstrî, M. A., pp. 82 and 88."). The *Pratâparudriya* is also quoted by *Viśveśvara Paṇdita* in the *[Alaṅkârakaustubha](" Vide, the Alaṇkârakaustubha, p. 12, where Appayya Dikshita is attacked and Vidyânâtha justified by Visvesvara Paṇḍita. There the instance of द्रव्यस्वरूपोत्प्रेक्षा-न नित्यमस्मिन् परिपूर्णतेति &c. is also qnoted.")*and by Appa *Díkshita* in the *[Chitramimâṁsâ]("Vide pp. 7 and 8 (where the propriety of स्वतः सिद्धेन in विद्यानाथ' definition of उपमाis questioned), pp. 56-8 (where the definition of परिणामis quoted, प्रकृतस्योपयोगि स्यात्is the reading there). The instance,एषशाम्यति वस्तापो राजपादनिषेवया।कण्टकद्रुममूलेषु वातस्तं शमयेत् कथम्॥, ascribed to Vidyânâtha on p. 58, is not found in the प्रतापरुद्रीय, p. 84 and p. 87, where Vidyânâtha's method of the division of उत्प्रेक्षाis mentioned.")*. A verse in honour of *Virarudra* or *Pratâparudra* is found in the *Kuvalayânanda* of *Appayya Dîkshita*— कतिपयदिवसैःक्षयं प्रयायात् कनकगिरिः कृतवासरावसानः। इति मुदमुपयाति चक्रवाकी वितरणशालिनि वीररुद्रदेव॥, given as an instance of संबन्धातिशयोक्ति.
+southern parts of India and were widely known to the learned circle. Prof. M. Seshagiri S'âstrî, M. A., states that the work is even now very popular in southern India and is studied by every Sanskrit student[^3485]. The *Pratâparudriya* is also quoted by *Viśveśvara Paṇdita* in the *Alaṅkârakaustubha[^3486]*and by Appa *Díkshita* in the *Chitramimâṁsâ[^3487], pp. 56-8 (where the definition of परिणामis quoted, प्रकृतस्योपयोगि स्यात्is the reading there). The instance,एषशाम्यति वस्तापो राजपादनिषेवया।कण्टकद्रुममूलेषु वातस्तं शमयेत् कथम्॥, ascribed to Vidyânâtha on p. 58, is not found in the प्रतापरुद्रीय, p. 84 and p. 87, where Vidyânâtha's method of the division of उत्प्रेक्षाis mentioned.")*. A verse in honour of *Virarudra* or *Pratâparudra* is found in the *Kuvalayânanda* of *Appayya Dîkshita*— कतिपयदिवसैःक्षयं प्रयायात् कनकगिरिः कृतवासरावसानः। इति मुदमुपयाति चक्रवाकी वितरणशालिनि वीररुद्रदेव॥, given as an instance of संबन्धातिशयोक्ति.
 
- *Vidyânâtha*.—*Pratâparudrayaśobhushaṇa* is the only known work of the author. Dr. Aufrecht ascribes *Pratâparudrakalyâṇa* also to him; but it is only a part of the *Pratâparudriya*, comprehended in the third *[prakaraṇa]("Vide p. 139 of the text where the name of the Nâṭaka is given as प्रतापरुद्रकल्याण.")*, and is simply a model drama composed to illustrate the characteristics of a *Naṭaka*, its Sandhis and their divisions.
+[^3485]: "Vide Report on a Search for Sanskrit and Tamil Mss. for the year 1893, No. 2 of 1899, by Prof. M. S'eshagiri S'âstrî, M. A., pp. 82 and 88."
+
+[^3486]: " Vide, the Alaṇkârakaustubha, p. 12, where Appayya Dikshita is attacked and Vidyânâtha justified by Visvesvara Paṇḍita. There the instance of द्रव्यस्वरूपोत्प्रेक्षा-न नित्यमस्मिन् परिपूर्णतेति &c. is also qnoted."
+
+[^3487]: "Vide pp. 7 and 8 (where the propriety of स्वतः सिद्धेन in विद्यानाथ' definition of उपमाis questioned
+
+ *Vidyânâtha*.—*Pratâparudrayaśobhushaṇa* is the only known work of the author. Dr. Aufrecht ascribes *Pratâparudrakalyâṇa* also to him; but it is only a part of the *Pratâparudriya*, comprehended in the third *prakaraṇa[^3488]*, and is simply a model drama composed to illustrate the characteristics of a *Naṭaka*, its Sandhis and their divisions.
+
+[^3488]: "Vide p. 139 of the text where the name of the Nâṭaka is given as प्रतापरुद्रकल्याण."
 
  *Vidyânâtha's* Age.—The age of the author is easily settled from the internal evidence that the work affords and from
 
 inscriptions of the *Kâkatiya* kings of *Ekaśilâ*¹ or Oraṅgal. We will consider them in order and then compare them.
 
- The internal evidence.—The age of *Vidyânâtha* is very easily settled from the internal evidence of the work. That he has panegyrised *Pratâparudra* so much that the very name of the work is called after him, that the glorification of the hero of a work is given as the principal cause of the greatness and fame of the work and its author and that all the instances given in illustration of the properties of poetry and its inherent characteristics, are in honour of *Pratâparudra* are all clear indications of the fact that he lived in the time of *Pratâparudra*. As regards *Pratâparndra*, we learn much from the work itself apart from his own inscriptions and those of his predecessors. He was a *Kâkatîya* king or *Kâkati Virarudra* and was so called because he worshipped a Goddess called *Kâkati[^1], also Ratnaśâṇa, p. 485.")*, which is explained as *Durgâśakti*, a tutelary deity of his family installed in the *Ekaśilâ* town. *Ekaśilânagarî* was the capital of the Andhra or *Tr*ilinga*[^2].")*country, so called on account of the three famous liṅgas of *Sitiaila, Kâleśvara[^3]* and [*Drâkshârama*]("In the Godâvari District."). The river
+ The internal evidence.—The age of *Vidyânâtha* is very easily settled from the internal evidence of the work. That he has panegyrised *Pratâparudra* so much that the very name of the work is called after him, that the glorification of the hero of a work is given as the principal cause of the greatness and fame of the work and its author and that all the instances given in illustration of the properties of poetry and its inherent characteristics, are in honour of *Pratâparudra* are all clear indications of the fact that he lived in the time of *Pratâparudra*. As regards *Pratâparndra*, we learn much from the work itself apart from his own inscriptions and those of his predecessors. He was a *Kâkatîya* king or *Kâkati Virarudra* and was so called because he worshipped a Goddess called *Kâkati[^1], also Ratnaśâṇa, p. 485.")*, which is explained as *Durgâśakti*, a tutelary deity of his family installed in the *Ekaśilâ* town. *Ekaśilânagarî* was the capital of the Andhra or *Tr*ilinga*[^2].")*country, so called on account of the three famous liṅgas of *Sitiaila, Kâleśvara[^3]* and *Drâkshârama*[^3489]. The river
 
 [^1]: "Vide the commentary Ratnâpaṇa, p. 10, ficucin ' काकतिनांम दुर्गाशक्तिरेकशिलानगरेश्वराणां कुलदेवता सा शक्तिभंजनीया अस्येति काकतीयः
 
 [^2]: " Vide p. 213 (v. 22
 
 [^3]: "The temple at Kâlahasti in the North Areot District."
+
+[^3489]: "In the Godâvari District."
 
 **—————————————————————————————————————————**
 
@@ -1142,17 +1152,29 @@ Dr. Burnell says that Warangal (Worangal) is a Muhammadan and corrupt way of wri
 
  Further, the drama, called *Pratâparudrakalyâna*, given as a portion of the *Nâṭakaprakaraṇa*, supplies the following main points of information regarding *Pratâparudra* and the family of the *Kâkatiya* kings:-*Svayambhú* (*[S'iva](http://्र "Vide pp. 152-53 (v. 27).")*) is described as the family-deity instructing all the members of the family in their [duties](http://्र "Vide p. 149 (v. 22)."). He is also described as having manifested himself in a dream to king *Rudra* who, though daughter of king *Gaṇapati*, was designated by *Gaṇapati* by a male [name](http://्र "Vide p. 149."). Her real name, as given by the commentator *Kumârsvâmin*, was *Rudrâmbâ*. She succeeded *Gaṇapati* on the throne of *Ekaiilâ*. She was, as mentioned above, called *Rudra* or *Rudradeva* and her greatness is shewn by the fact that her mother was Umd herself, known among the people as *Somâ*, and father God *S'iva* himself, *Ganapati*, Lord of *Pramatha* and other *Gaṇas*. In the dream which *Rudradeva* had, God *S'iva*, manifesting himself, praised the greatness of *Pratâparudra* and advised *Rudradeva* to place the burden of the kingdom upon the shoulders of the prince, his grandson, who had been adopted by him as his son by His [command](http://्र "Vide p. 153 (v. 29)."). The prince then sets out for the conquest of directions before he is installed as *Yuvarâja* or crown prince. In his expedition of conquest he first sets out for the east and conquers the *[Kalingas](http://्र "Kalinga corresponds to the modern Northern Circars.")*. He then goes southwards and vanquishes the *[Pânḍyas](http://्र "Their country corresponds to the modern province of Madura")*. He next marches towards the west and conquers it. Then crossing the *Narmadâ*, he starts northwards. There the *[Aṅgas](http://्र "Their kingdom lay on the right bank of the Ganges, with the capital Champa, probably Bhâgalpur.")*, the *Vaṅgas* and the *Mâlavas* combine and oppose him. The leaders of the
 
-army of *Pratâparudra* challenge them, speaking in derision of [them]("Vide p. 186 (v. 14)."). Here are mentioned the *Gurjars*, the *Lampâkas*, the *Vaṅgas*, the *Konkaṇis*, the *[Huṇas]("A nomadic non-Aryan tribe that established itself in the Punjab and along the Indus.")*and the *Mahârâshṭras*. Further on are named the following [kings]("Vide p. 188 (verses 16, 17, 18)."):—
+army of *Pratâparudra* challenge them, speaking in derision of them[^3490]."). Here are mentioned the *Gurjars*, the *Lampâkas*, the *Vaṅgas*, the *Konkaṇis*, the *Huṇas[^3491]*and the *Mahârâshṭras*. Further on are named the following kings[^3492]."):—
 
- Kings of *[Chola]("The country of the Cholas corresponds to the modern province of Tanjor.")*, *Kâshmîr, Nepâl, [Suhma]("Suhmudeśa lay to the west of Vaṅga or Eastern Bengal with its capital Tâmralipta, identified with modern Tumlook."), [Kamboja]("The name of a non-Aryan people in the north-west."), [Sevaṇa](http://्र "Seuṇadeśa was the name of the region extending from Nâsik to Devagiri, the modern Daulatâbâd' Vide Dr. R. G. Bhâḍârkar's ‛Early History of the Dekkan', p. 76."), [Gauḍa](http://्र "The people of Northern Bengal,"), [Lâta](http://्र "Ancient name of central and southern Gujarat."), [Siṁhala](http://्र "Ceylon."),Karṇâta, [Bhoja](http://्र "The Bhojas ruled over the country of Vidarbha or Berar' 'Early History of the Dekkan', pp. 8-9."), [Kerala](http://्र "The country of the Keralas corresponds to Malabâr"), [Pâṅchâla](http://्र "The people of the Gangetic Doab."), [Kikața](http://्र "Probably Behar.")* and *[Kâmpila](http://्र "Kâmpilya was the capital of the Pañchálas,")*.
+[^3490]: "Vide p. 186 (v. 14
+
+[^3491]: "A nomadic non-Aryan tribe that established itself in the Punjab and along the Indus."
+
+[^3492]: "Vide p. 188 (verses 16, 17, 18
+
+ Kings of *Chola[^3493]*, *Kâshmîr, Nepâl, Suhma[^3494], Kamboja[^3495], [Sevaṇa](http://्र "Seuṇadeśa was the name of the region extending from Nâsik to Devagiri, the modern Daulatâbâd' Vide Dr. R. G. Bhâḍârkar's ‛Early History of the Dekkan', p. 76."), [Gauḍa](http://्र "The people of Northern Bengal,"), [Lâta](http://्र "Ancient name of central and southern Gujarat."), [Siṁhala](http://्र "Ceylon."),Karṇâta, [Bhoja](http://्र "The Bhojas ruled over the country of Vidarbha or Berar' 'Early History of the Dekkan', pp. 8-9."), [Kerala](http://्र "The country of the Keralas corresponds to Malabâr"), [Pâṅchâla](http://्र "The people of the Gangetic Doab."), [Kikața](http://्र "Probably Behar.")* and *[Kâmpila](http://्र "Kâmpilya was the capital of the Pañchálas,")*.
+
+[^3493]: "The country of the Cholas corresponds to the modern province of Tanjor."
+
+[^3494]: "Suhmudeśa lay to the west of Vaṅga or Eastern Bengal with its capital Tâmralipta, identified with modern Tumlook."
+
+[^3495]: "The name of a non-Aryan people in the north-west."
 
  *Sevaṇa*, jewel of the kings of the *Yâdava* family, all powerful and mighty as he was, is described as having run away on having heard the war-drum of *[Pratâparudra](http://्र "Vide p. 40 (v. 70).")*. He is in another place described as one whose retreats, when he was insulted by the soldiers of *Pratâparudra*, were known by
 
  Further, the drama, called *Pratâparudrakalyâna*, given as a portion of the *Nâṭakaprakaraṇa*, supplies the following main points of information regarding *Pratâparudra* and the family of the *Kâkatiya* kings:-*Svayambhú ([S'iva](http://्र "Vide pp. 152-53 (v. 27)."))* is described as the family-deity instructing all the members of the family in their [duties](http://्र "Vide p. 149 (v. 22)."). He is also described as having manifested himself in a dream to king *Rudra* who, though daughter of king *Gaṇapati*, was designated by *Gaṇapati* by a male [name](http://्र "Vide p. 149."). Her real name, as given by the commentator *Kumârsvâmin*, was *Rudrâmbâ*. She succeeded *Gaṇapati* on the throne of *Ekaiilâ*. She was, as mentioned above, called *Rudra* or *Rudradeva* and her greatness is shewn by the fact that her mother was Umd herself, known among the people as Somâ, and father God *S'iva* himself, *Gânapati*, Lord of *Pramatha* and other *Gaṇas*. In the dream which *Rudradeva* had, God *S'iva*, manifesting himself, praised the greatness of *Pratâparudra* and advised *Rudradeva* to place the burden of the kingdom upon the shoulders of the prince, his grandson, who had been adopted by him as his son by His [command](http://्र "Vide p. 153 (v. 29)."). The prince then sets out for the conquest of directions before he is installed as *Yuvarâja* or crown prince. In his expedition of conquest he first sets out for the east and conquers the *[Kalingas](http://्र "Kalinga corresponds to the modern Northern Circars.")*. He then goes southwards and vanquishes the *[Pânḍyas](http://्र "Their country corresponds to the modern province of Madura")*. He next marches towards the west and conquers it. Then crossing the *Narmadâ*, he starts northwards. There the *[Aṅgas](http://्र "Their kingdom lay on the right bank of the Ganges, with the capital Champa, probably Bhâgalpur.")*, the *Vaṅgas* and the *Mâlavas* combine and oppose him. The leaders of the
 
-army of *Pratâparudra* challenge them, speaking in derision of [them]("Vide p. 186 (v. 14)."). Here are mentioned the *Gurjars*, the *Lampâkas*, the *Vaṅgas*, the *Konkaṇis*, the *[Huṇas]("A nomadic non-Aryan tribe that established itself in the Punjab and along the Indus.")*and the *Mahârâshṭras*. Further on are named the following [kings]("Vide p. 188 (verses 16, 17, 18)."):—
+army of *Pratâparudra* challenge them, speaking in derision of them[^3490]."). Here are mentioned the *Gurjars*, the *Lampâkas*, the *Vaṅgas*, the *Konkaṇis*, the *Huṇas[^3491]*and the *Mahârâshṭras*. Further on are named the following kings[^3492]."):—
 
- Kings of *[Chola]("The country of the Cholas corresponds to the modern province of Tanjor.")*, *Kâshmîr, Nepâl, [Suhma]("Suhmudeśa lay to the west of Vaṅga or Eastern Bengal with its capital Tâmralipta, identified with modern Tumlook."), [Kamboja]("The name of a non-Aryan people in the north-west."), [Sevaṇa](http://्र "Seuṇadeśa was the name of the region extending from Nâsik to Devagiri, the modern Daulatâbâd' Vide Dr. R. G. Bhâḍârkar's ‛Early History of the Dekkan', p. 76."), [Gauḍa](http://्र "The people of Northern Bengal,"), [Lâta](http://्र "Ancient name of central and southern Gujarat."), [Siṁhala](http://्र "Ceylon."),Karṇâta, [Bhoja](http://्र "The Bhojas ruled over the country of Vidarbha or Berar' 'Early History of the Dekkan', pp. 8-9."), [Kerala](http://्र "The country of the Keralas corresponds to Malabâr"), [Pâṅchâla](http://्र "The people of the Gangetic Doab."), [Kikața](http://्र "Probably Behar.")* and *[Kâmpila](http://्र "Kâmpilya was the capital of the Pañchálas,")*.
+ Kings of *Chola[^3493]*, *Kâshmîr, Nepâl, Suhma[^3494], Kamboja[^3495], [Sevaṇa](http://्र "Seuṇadeśa was the name of the region extending from Nâsik to Devagiri, the modern Daulatâbâd' Vide Dr. R. G. Bhâḍârkar's ‛Early History of the Dekkan', p. 76."), [Gauḍa](http://्र "The people of Northern Bengal,"), [Lâta](http://्र "Ancient name of central and southern Gujarat."), [Siṁhala](http://्र "Ceylon."),Karṇâta, [Bhoja](http://्र "The Bhojas ruled over the country of Vidarbha or Berar' 'Early History of the Dekkan', pp. 8-9."), [Kerala](http://्र "The country of the Keralas corresponds to Malabâr"), [Pâṅchâla](http://्र "The people of the Gangetic Doab."), [Kikața](http://्र "Probably Behar.")* and *[Kâmpila](http://्र "Kâmpilya was the capital of the Pañchálas,")*.
 
  *Sevaṇa*, jewel of the kings of the *Yâdava* family, all powerful and mighty as he was, is described as having run away on having heard the war-drum of *[Pratâparudra](http://्र "Vide p. 40 (v. 70).")*. He is in another place described as one whose retreats, when he was insulted by the soldiers of *Pratâparudra*, were known by
 
@@ -1176,11 +1198,17 @@ the *Gautamî* [river](http://्र "Vide p. 439 (v. 156)."). This means that t
 
  (2) Another inscription of *Pratâparudra* is found at Jambukeśvara temple near Trichinopoly. It mentions *Manma Gaṇḍagopâla* as his subordinate, whose latest known date is
 
-S'aka-saṁvat 1221 (A. D. [1299]("(तत्राग्रजस्तुस्तो मन्मो गण्डगोपाल भूपतिः। प्रतापरुद्रमुपस्प प्रसादार्जितवैभवः ॥ ). Vide Epi. Ind., Vol. VIL, pp. 128-32.")) from an inscription at Nellore.
+S'aka-saṁvat 1221 (A. D. 1299[^3502]. Vide Epi. Ind., Vol. VIL, pp. 128-32.")) from an inscription at Nellore.
 
- (3) Three other inscriptions of *Pratâparudra* are found at Bezvâḍa, Warangal and Palivela. They are dated respectively S'aka-saṁvat 1220, (A. D. 1298, 1235), (A. D. 1313 and 1239), (A. D. [1317]("Vide Epi, Ind., Vol. VII., pp. 128-32."))
+[^3502]: "(तत्राग्रजस्तुस्तो मन्मो गण्डगोपाल भूपतिः। प्रतापरुद्रमुपस्प प्रसादार्जितवैभवः ॥
 
- (4) [The *Anmakoṇḍ*]("Vide Ind. Ant., Vol. XI., pp. 3-20.") Sanskrit and Telugu inscription of the *Kâkatiya Mahâmaṇḍaleśvara Rudradeva*-His capital was *Anmakoṇḍa*, at a short distance from Woraṅgal. The inscription is dated S'aka-saṁvat 1084 (A. D. 1162). Its object is to record that *Mahâmaṇḍaleśvara Rudradeva* of the *Kâkatya* or *Kâkatiya* family set up at his capital the images of God *Rudra*, the God *Vâsudeva* and the God *Sûrya*. The following is the genealogy furnished by the inscription:—
+ (3) Three other inscriptions of *Pratâparudra* are found at Bezvâḍa, Warangal and Palivela. They are dated respectively S'aka-saṁvat 1220, (A. D. 1298, 1235), (A. D. 1313 and 1239), (A. D. 1317[^3503])
+
+[^3503]: "Vide Epi, Ind., Vol. VII., pp. 128-32."
+
+ (4) The *Anmakoṇḍ*[^3504] Sanskrit and Telugu inscription of the *Kâkatiya Mahâmaṇḍaleśvara Rudradeva*-His capital was *Anmakoṇḍa*, at a short distance from Woraṅgal. The inscription is dated S'aka-saṁvat 1084 (A. D. 1162). Its object is to record that *Mahâmaṇḍaleśvara Rudradeva* of the *Kâkatya* or *Kâkatiya* family set up at his capital the images of God *Rudra*, the God *Vâsudeva* and the God *Sûrya*. The following is the genealogy furnished by the inscription:—
+
+[^3504]: "Vide Ind. Ant., Vol. XI., pp. 3-20."
 
 Tribhuvanamalla.  
 \।  
@@ -1188,17 +1216,31 @@ Prola or Prolerâja.
 \।  
 Rudra Deva.
 
- *Prola* is described in the inscription as having imprisoned in war *[Tailapadeva]("Taila III, who reigned from S'aka 1072 (A, D, 1150) to S'aka 1084 (A. D. 1162).")*, ornament of the *Châlukyas*, defeated a king *Govinda* and given his kingdom to king *Udaya* and conquered *Guṇḍa*, lord of the city of *Mantrakúta*. In his time *Anmakoṇḍa* was besieged by *Jagaddeva*, who was repulsed and put to flight. *Rudradeva* conquered a certain *Domma* and had a powerful opponent in king *Bhtna* who was
+ *Prola* is described in the inscription as having imprisoned in war *Tailapadeva[^3505] to S'aka 1084 (A. D. 1162).")*, ornament of the *Châlukyas*, defeated a king *Govinda* and given his kingdom to king *Udaya* and conquered *Guṇḍa*, lord of the city of *Mantrakúta*. In his time *Anmakoṇḍa* was besieged by *Jagaddeva*, who was repulsed and put to flight. *Rudradeva* conquered a certain *Domma* and had a powerful opponent in king *Bhtna* who was
 
-defeated by *Rudradeva* and had to fly to a forest. His kingdom was bounded by *[Śrtśaila]("A hill in the Karnal District, to the north-east of it. It is sacred, having the image of Mallikârjuna, a Jyotirlinga on it.")* on the south, the kingdom of the Western *Chalukyas* on the west and the region of *Malyavan* on the north.
+[^3505]: "Taila III, who reigned from S'aka 1072 (A, D, 1150
 
-  (5) [The *Gaṇapeśvaram*](" Vide Epi, Ind., Vol. III, p. 84 and Plate.") Sanskrit and Telugu inscription of the time of the *Kâkatiya Gaṇapati* is dated S'aka-saṁvat 1153 (A. D. 1231). It is engraved on a pillar in front of the *Durgâmbâ* temple at *Ganapeśvaram*, a village in the Masulipatam tâlukâ of the Kṛishṇa district. Besides giving the information about Prola found in the *Anmakoṇḍa* inscription, it records that *Prola* married *Muppaladevî* and had two sons, *Rudra* and *Mahâdeva*. *Rudra* succeeded his father *Prola* and was succeeded by *Mahâdeva*. *Gaṇapati* was the son of the latter by *Bayyâmbikâ*. He defeated the kings of *Chola, Kaliṇga, Sevaṇa, Karṇâṭa* and *Lâṭa* and married *Nâramâ (Nârâmbhâ)* and *Peramâ (Peramâmbâ)*, the elder sisters of *Jâya (Jâyana)*, chief of his elephant [troop]("Vide Ind. Ant., Vol. XXI, pp. 197 et sequentia.").
+defeated by *Rudradeva* and had to fly to a forest. His kingdom was bounded by *Śrtśaila[^3506]* on the south, the kingdom of the Western *Chalukyas* on the west and the region of *Malyavan* on the north.
 
- (6) The Conjeveram (*Ekâmranâtha* temple) inscription of *Gaṇapati* and his minister and general, *Sâmanta Bhoja*, is dated S'aka-saṁvat 1172 (A. D. 1250). The S'aiva temple of *Ekâmranâtha* is the largest of all temples at *Kâñchî* (Conjeveram) and the inscription is engraved on its wall. In this *Gaṇapati* traces his descent from the sun; his successors that are mentioned being *Betmarâja* (*Tribhuvanamalla*), *Prodarâja*, *Rudradeva*, and *Mahâdeva*. *Prodarâja* is stated to have constructed a lake which he called *Jagattkesari-tatâka* after his surname *[Jagatîkesarin]("द्विपदुपट्टतदृप्पद्दन्तिमेकराशोनिरविशदच भूमिंभूपतिः प्रोडराजः। प्रतिनिधिमुदधीनां सञ्चयत् तोयसृष्टेरकृत जगति केसप्पाख्यया पस्तटाकम्॥                               V. 9, of the inscription."). Gaṇapati* is stated to
+[^3506]: "A hill in the Karnal District, to the north-east of it. It is sacred, having the image of Mallikârjuna, a Jyotirlinga on it."
 
-have conquered the *Yâdava* king *Siṁhana* and the *Kalinga* king and to have reduced kings of *Lâṭa* and *Gauḍa* to his submission¹. *Siṁhaṇa*'s (Siṅghana's) father *Jaitrapâla* or *Jaitugi* is represented to have killed *Rudradeva, Gaṇapati's* uncle, as appears from the *Paiṭhaṇ* grant of the *Yâdava* king, *Râmachandra*, who ruled from S'aka-saṁvat 1193 to 1231, (A.D. 1271 to 1309) and also from an introduction to *Hemâdri's* [*Vratakhaṇḍa*.]("Vide Dr. R. G. Bhâṇdârkar's Early History of the Dekkan',pp. 82 and 113-4.") The same *Paiṭhaṇ* grant shows that *Gaṇapati* was a contemporary of both *Jaitugi* I. and *Siṅghaṇa* II.
+  (5) The *Gaṇapeśvaram*[^3507] Sanskrit and Telugu inscription of the time of the *Kâkatiya Gaṇapati* is dated S'aka-saṁvat 1153 (A. D. 1231). It is engraved on a pillar in front of the *Durgâmbâ* temple at *Ganapeśvaram*, a village in the Masulipatam tâlukâ of the Kṛishṇa district. Besides giving the information about Prola found in the *Anmakoṇḍa* inscription, it records that *Prola* married *Muppaladevî* and had two sons, *Rudra* and *Mahâdeva*. *Rudra* succeeded his father *Prola* and was succeeded by *Mahâdeva*. *Gaṇapati* was the son of the latter by *Bayyâmbikâ*. He defeated the kings of *Chola, Kaliṇga, Sevaṇa, Karṇâṭa* and *Lâṭa* and married *Nâramâ (Nârâmbhâ)* and *Peramâ (Peramâmbâ)*, the elder sisters of *Jâya (Jâyana)*, chief of his elephant troop[^3508].
 
- (7) The *[Yenamadala](" Vide Epi. Ind, Vol. III, p. 94.")* fragmentary Sanskrit and Telugu inscription of the *Kâkatîya* Princess *Gaṇapâmbâ* is dated S'aka-saṁvat 1172 (A. D. 1250). It gives *Mâdhava* as the name of *Prola's* son. This *Mâdhava* lost his life in a battle²,*Gaṇapâmbâ* or *Gaṇapâmbikâ* was the daughter of *Gaṇapati*.
+[^3507]: " Vide Epi, Ind., Vol. III, p. 84 and Plate."
+
+[^3508]: "Vide Ind. Ant., Vol. XXI, pp. 197 et sequentia."
+
+ (6) The Conjeveram (*Ekâmranâtha* temple) inscription of *Gaṇapati* and his minister and general, *Sâmanta Bhoja*, is dated S'aka-saṁvat 1172 (A. D. 1250). The S'aiva temple of *Ekâmranâtha* is the largest of all temples at *Kâñchî* (Conjeveram) and the inscription is engraved on its wall. In this *Gaṇapati* traces his descent from the sun; his successors that are mentioned being *Betmarâja* (*Tribhuvanamalla*), *Prodarâja*, *Rudradeva*, and *Mahâdeva*. *Prodarâja* is stated to have constructed a lake which he called *Jagattkesari-tatâka* after his surname *Jagatîkesarin[^3509]. Gaṇapati* is stated to
+
+[^3509]: "द्विपदुपट्टतदृप्पद्दन्तिमेकराशोनिरविशदच भूमिंभूपतिः प्रोडराजः। प्रतिनिधिमुदधीनां सञ्चयत् तोयसृष्टेरकृत जगति केसप्पाख्यया पस्तटाकम्॥                               V. 9, of the inscription."
+
+have conquered the *Yâdava* king *Siṁhana* and the *Kalinga* king and to have reduced kings of *Lâṭa* and *Gauḍa* to his submission¹. *Siṁhaṇa*'s (Siṅghana's) father *Jaitrapâla* or *Jaitugi* is represented to have killed *Rudradeva, Gaṇapati's* uncle, as appears from the *Paiṭhaṇ* grant of the *Yâdava* king, *Râmachandra*, who ruled from S'aka-saṁvat 1193 to 1231, (A.D. 1271 to 1309) and also from an introduction to *Hemâdri's* *Vratakhaṇḍa*.[^3510] The same *Paiṭhaṇ* grant shows that *Gaṇapati* was a contemporary of both *Jaitugi* I. and *Siṅghaṇa* II.
+
+[^3510]: "Vide Dr. R. G. Bhâṇdârkar's Early History of the Dekkan',pp. 82 and 113-4."
+
+ (7) The *Yenamadala[^3511]* fragmentary Sanskrit and Telugu inscription of the *Kâkatîya* Princess *Gaṇapâmbâ* is dated S'aka-saṁvat 1172 (A. D. 1250). It gives *Mâdhava* as the name of *Prola's* son. This *Mâdhava* lost his life in a battle²,*Gaṇapâmbâ* or *Gaṇapâmbikâ* was the daughter of *Gaṇapati*.
+
+[^3511]: " Vide Epi. Ind, Vol. III, p. 94."
 
 —————————————————————————————————————————
 
@@ -1221,7 +1263,9 @@ V. 14 of the inscription,
 
 She married *Beta*, son of a chief. After the death of her husband she lived a pîous life and built a temple *Beteśvara* in memory of her lord. The inscription was made in the lifetime of her father *Gaṇapati*.
 
- (8) [The last]("Vide Epi. Ind., Vol. V., p. 142.") inscription worth noting is the *Chebrolu* inscription of *Jâya* in Sanskrit verse and Telugu prose. It is engraved on a pillar in the *Nâgeśvara* temple at *Chebrolu*in the Kṛishṇa district. It gives the genealogy of king *Gaṇapati* whose descent is traced from the sun. Manu was son of the Sun, his son was *Ikshvâku* who was followed by *Sagara, Kakutstha, Dilîpa, Daśaratha* and *Râmachandra*. In this family was born *Durjaya*, the earliest historical ancestor of *Gaṇapati*. Then follow the names of *Beta (Betma)*, *Prola, Rudra, Mahâdeva* and *Gaṇapati* who is described as having borne the *biruda* of *Chhalamattigaṇḍa¹* *Jaya* or *Jâyana* was the chief of the elephant-troop of *Gaṇapati* and was presented by him with the city of *Shaṇmukha* or *Tâmprapurî*.
+ (8) The last[^3512] inscription worth noting is the *Chebrolu* inscription of *Jâya* in Sanskrit verse and Telugu prose. It is engraved on a pillar in the *Nâgeśvara* temple at *Chebrolu*in the Kṛishṇa district. It gives the genealogy of king *Gaṇapati* whose descent is traced from the sun. Manu was son of the Sun, his son was *Ikshvâku* who was followed by *Sagara, Kakutstha, Dilîpa, Daśaratha* and *Râmachandra*. In this family was born *Durjaya*, the earliest historical ancestor of *Gaṇapati*. Then follow the names of *Beta (Betma)*, *Prola, Rudra, Mahâdeva* and *Gaṇapati* who is described as having borne the *biruda* of *Chhalamattigaṇḍa¹* *Jaya* or *Jâyana* was the chief of the elephant-troop of *Gaṇapati* and was presented by him with the city of *Shaṇmukha* or *Tâmprapurî*.
+
+[^3512]: "Vide Epi. Ind., Vol. V., p. 142."
 
 —————————————————————————————————————————
 
@@ -1261,6 +1305,8 @@ She married *Beta*, son of a chief. After the death of her husband she lived a p
               \।  
                                    
           ————————  
+                                   
+                              
 
 \।
 
@@ -1296,7 +1342,11 @@ Mummadambâ, (married Mahâdeva).
 A. D. 1316, A. D. 1299,  
 A. D. 1298, A. D. 1313, A.D. 1317.
 
- The dates assigned to *Pratâparudra* by Robert Sewell in his 'Sketch of the Dynasties of Southern India' are 1295 to 1323 A. D. In the Catalogue of Sanskrit Manuscripts in the India Office, and in the Report on Sanskrit Manuscripts by M. S'eshagiri S'âstrî the dates of his reign are 1268 to [1319 A. D]("In his letter dated 26th July 1901, T. Gaṇapati S'âstrî of Trivandrum writes to me as follows :— शालिवाहन शकाब्दवत् प्रतापरुद्रदेवाब्दोऽवयत्यपञ्चाङ्गे नियमेन प्रख्याप्यते। तत्र वर्तमानः प्रतापरुद्राब्दः ६२४ तम इति लिखितः।"). In 1303 the Mehomedans invaded the kingdom of Waraṅgul but were forced to retreat. In 1310 they invaded it again under Mâlik Kâfur and compelled Pratâparudra to pay tribute. But in 1316 he threw off the yoke and made himself independent. In 1321 Mahmad Taghlakh sent an army under his son Ulughkhan to conquer Woraṅgal. This attempt was unsuccessful, but in 1323 another attempt was made and it succeeded. Worangal was captured and *Pratâparudra* was imprisoned and sent to Delhi. He was succeeded by his son Krishṇa who, though at first victorious in repulsing the Mehomedans from his kingdom with the help of other Hindu states, was finally defeated by the Mehomedans. In 1424 the king of Woraṅgal was slain by Ahmad Shah Bahmani. In 1538 war broke out again. In this the Warangal Raja lost his son and between this year and 1543 the empire was incorporated in a Bahmani kingdom of the Kutub Shâhi [dynasty]("Vide Robert Sewell's Sketch of the Dynasties of Southern India', p. 32 ff, and W. W. Hunter's Imperial Gazetteer of India', Vol. XIII, p. 521, New Edition Vol. XXIV., p. 358.").
+ The dates assigned to *Pratâparudra* by Robert Sewell in his 'Sketch of the Dynasties of Southern India' are 1295 to 1323 A. D. In the Catalogue of Sanskrit Manuscripts in the India Office, and in the Report on Sanskrit Manuscripts by M. S'eshagiri S'âstrî the dates of his reign are 1268 to 1319 A. D[^3513]. In 1303 the Mehomedans invaded the kingdom of Waraṅgul but were forced to retreat. In 1310 they invaded it again under Mâlik Kâfur and compelled Pratâparudra to pay tribute. But in 1316 he threw off the yoke and made himself independent. In 1321 Mahmad Taghlakh sent an army under his son Ulughkhan to conquer Woraṅgal. This attempt was unsuccessful, but in 1323 another attempt was made and it succeeded. Worangal was captured and *Pratâparudra* was imprisoned and sent to Delhi. He was succeeded by his son Krishṇa who, though at first victorious in repulsing the Mehomedans from his kingdom with the help of other Hindu states, was finally defeated by the Mehomedans. In 1424 the king of Woraṅgal was slain by Ahmad Shah Bahmani. In 1538 war broke out again. In this the Warangal Raja lost his son and between this year and 1543 the empire was incorporated in a Bahmani kingdom of the Kutub Shâhi dynasty[^3514].
+
+[^3513]: "In his letter dated 26th July 1901, T. Gaṇapati S'âstrî of Trivandrum writes to me as follows :— शालिवाहन शकाब्दवत् प्रतापरुद्रदेवाब्दोऽवयत्यपञ्चाङ्गे नियमेन प्रख्याप्यते। तत्र वर्तमानः प्रतापरुद्राब्दः ६२४ तम इति लिखितः।"
+
+[^3514]: "Vide Robert Sewell's Sketch of the Dynasties of Southern India', p. 32 ff, and W. W. Hunter's Imperial Gazetteer of India', Vol. XIII, p. 521, New Edition Vol. XXIV., p. 358."
 
  The Commentator—the commentator is *Kumârasvâmin* *Somaptihin*, son of *Kolâchala Mallinâtha* about whose date and works I have said fully in my Introduction to the *Bhaṭṭikâvya* and the *Ekâvalî*. The word *'Ratnâpaṇa'**,* as the commentary is called, is explained by the commentator himself as a market-place where are sold jewels of poetic sentiment, poetic merits, figures &c. collected together by *Vidyânâtha* after they have been sharpened on the grindstone consisting of the expression of the merits of a *nâyaka* the very mention of whose name brings merit; and the appreciating and the fortunate are requested to purchase the gems by giving for them the price of their favour. The commentary bespeaks a very wide reading and knowledge on the part of *Kumârasvâmin*, though it does not show the critical acumen of his father. To the student of poetics, however, it is very useful; for it abounds with quotations and elucidates the text very well.
 
@@ -1338,7 +1388,9 @@ Kapardin.
 
  This genealogy cannot be accepted in face of the one given by *Kumârasvâmin* himself in his introduction to the *Ratnâpaṇa*. *Venkaṭanârâyaṇa* was seventh in descent from *Kumârasvâmin* and his evidence cannot therefore be accepted to be as trustworthy as that of *Kumârasvâmin* himself.
 
- The *Ratnaśâṇa* is another commentary on the work. I have been able to secure it on the first two *Prakaraṇas* only. It is more explanatory than critical and borrows much from the *Ratnâpaṇa*. The name of the author is not known, but he has composed another work called *[Hemantatilakabhâṇa]("Vide p. 521.")*.
+ The *Ratnaśâṇa* is another commentary on the work. I have been able to secure it on the first two *Prakaraṇas* only. It is more explanatory than critical and borrows much from the *Ratnâpaṇa*. The name of the author is not known, but he has composed another work called *Hemantatilakabhâṇa[^3515]*.
+
+[^3515]: "Vide p. 521."
 
  The English notes are explanatory and critical and avoid the ground already covered in my notes to the *Ekâvalî* to which references are made.
 
@@ -1378,7 +1430,13 @@ Pra
 
 tiśâren
 
-durâja, in the *Sarvapathîna* by *Mallinâtha* on the *Bhaṭṭikâvya*, in his *tîkâ* on *Kâvyânuiâsana* by *Hemachandra*, in the *Chitramîndâsâ* by Appayya *Dîkshita*, by Vallabha in the *Subhâshitavalî*, by *Vidyâdhara* in his *[Ekâvali]("यत् पुनरलंकारकोटिनिविष्टत्वं वस्तुध्वनेरुदभावयन् भामहादयस्तदपि विचारविधुरम् । p.30.")*, in the *Alaṅkârakaustubha* by *Viśveśvara Paṇḍita*, in the *Yamakaratnâkara* (Introduction I. 33) by *[Śrîvatsâṅkamiśra]("This I have learnt from Śâstrî A. Anantâchârya, Archaeological Department, Mysore Government.")*, in *Râjânakaruyyaka's [Alaṅkârasarvasva]("इह हि तावद्भामहोद्भटप्रभृतयचिरन्तनालंकारकाराः प्रतीयमानमर्थ वाच्योपस्कारकतयालंकापक्षनिक्षिप्तं मन्यन्ते। P. 3.")*, in the *Súktikarṇâ*-
+durâja, in the *Sarvapathîna* by *Mallinâtha* on the *Bhaṭṭikâvya*, in his *tîkâ* on *Kâvyânuiâsana* by *Hemachandra*, in the *Chitramîndâsâ* by Appayya *Dîkshita*, by Vallabha in the *Subhâshitavalî*, by *Vidyâdhara* in his *Ekâvali[^3516]*, in the *Alaṅkârakaustubha* by *Viśveśvara Paṇḍita*, in the *Yamakaratnâkara* (Introduction I. 33) by *Śrîvatsâṅkamiśra[^3517]*, in *Râjânakaruyyaka's Alaṅkârasarvasva[^3518]*, in the *Súktikarṇâ*-
+
+[^3516]: "यत् पुनरलंकारकोटिनिविष्टत्वं वस्तुध्वनेरुदभावयन् भामहादयस्तदपि विचारविधुरम् । p.30."
+
+[^3517]: "This I have learnt from Śâstrî A. Anantâchârya, Archaeological Department, Mysore Government."
+
+[^3518]: "इह हि तावद्भामहोद्भटप्रभृतयचिरन्तनालंकारकाराः प्रतीयमानमर्थ वाच्योपस्कारकतयालंकापक्षनिक्षिप्तं मन्यन्ते। P. 3."
 
 —————————————————————————————————————————
 
@@ -1388,7 +1446,11 @@ durâja, in the *Sarvapathîna* by *Mallinâtha* on the *Bhaṭṭikâvya*, in h
 चंपूनारायणाख्यस्य प्रवन्धस्यापहारिणः।  
 विवृतिः क्रियते प्रेम्णा यथामति समासतः॥
 
-*[mṛita]("Vide Anfrecht's 'Catalogus Catalogorum.'")*, in the commentary by *Namisâdhu* on *Rudraṭa*'s *Kâvyâlankâra*1, and in the *Arthadyotanikâ¹* by *Râghavabhaṭṭa* on the *Abhijñanaśâkuntala*. In the last, however, quotations seem wrongly ascribed to *Bhâmaha*². He is mentioned in the text also with [reverence]("Vide p.४.").
+*mṛita[^3519]*, in the commentary by *Namisâdhu* on *Rudraṭa*'s *Kâvyâlankâra*1, and in the *Arthadyotanikâ¹* by *Râghavabhaṭṭa* on the *Abhijñanaśâkuntala*. In the last, however, quotations seem wrongly ascribed to *Bhâmaha*². He is mentioned in the text also with reverence[^3520].
+
+[^3519]: "Vide Anfrecht's 'Catalogus Catalogorum.'"
+
+[^3520]: "Vide p.४."
 
  *Udbhaṭa* or *Bhaṭṭodbhaṭa*, who lived in the reign of king *Jayâpâda* (A. D. 779-813) has written a commentary called *Bhâmahavivaraṇa*' on the work of *Bhâmaha* as appears from the commentary of *Pratihârendurâja* on *Udbhaṭâlaṅkârasâra*-
 
@@ -1433,9 +1495,23 @@ Lochana
 
 3  भामहोक्तं 'शब्दश्छन्दोभिधानार्थः' इत्यभिधानस्य शब्दाद्भेदं व्याख्यातुं भट्टोद्भटो बभाषे—''शब्दानामभिधानमभिधाव्यापारो पुरुषोगुणवृत्तिश्च" इति। *Vide* ध्वन्या०, P. 10.
 
-or grammatical purity (by sixty verses) and that he has named in his work *[Ramaśarman]("Vide 2-58, 2-19.")* and his work *Achyutottara*, *[Medhâvin]("Vide 2-40, 2-88.")*, *[Śakhavardhana]("Vide 2-47.")*and his work *[Râjamitra]("Vide 2-45, 3,10.")* and *[Ratnâharaṇa]("Vide 3-8. This seems to be the name of a work.")*. Of the authors and the works named by *Bhâmaha*, *Medhavin* alone is known; since he is named and quoted by *Namisâdhu* in his commentary on *Rudraṭa*'s *[Kavyâlankâra]("Vide p. 2 and p. 145.")*.
+or grammatical purity (by sixty verses) and that he has named in his work *Ramaśarman[^3521]* and his work *Achyutottara*, *Medhâvin[^3522]*, *Śakhavardhana[^3523]*and his work *Râjamitra[^3524]* and *Ratnâharaṇa[^3525]*. Of the authors and the works named by *Bhâmaha*, *Medhavin* alone is known; since he is named and quoted by *Namisâdhu* in his commentary on *Rudraṭa*'s *Kavyâlankâra[^3526]*.
 
- From the materials at present available, it cannot be conclusively settled whether *Bhâmaha* was anterior or posterior to *Daṇḍin*, though Prof. M. T. Narasiṁhiengar, B. A., has, in his paper on *Bhâmaha* published in the Journal of the Royal Asiatic Society' (July 1905), argued the priority of *Daṇḍin* to *Bhâmaha* and thinks he has made out a conclusively strong case in favour of the priority of *Daṇḍin* on the following [grounds]("'In his introduction to Karirâja-Mârga (p. 16) Mr. Pâṭhak says that Bhâmaha is prior to Daṇḍin, but I believe we have conclusive evidence now to prove that the reverse is the case"):—
+[^3521]: "Vide 2-58, 2-19."
+
+[^3522]: "Vide 2-40, 2-88."
+
+[^3523]: "Vide 2-47."
+
+[^3524]: "Vide 2-45, 3,10."
+
+[^3525]: "Vide 3-8. This seems to be the name of a work."
+
+[^3526]: "Vide p. 2 and p. 145."
+
+ From the materials at present available, it cannot be conclusively settled whether *Bhâmaha* was anterior or posterior to *Daṇḍin*, though Prof. M. T. Narasiṁhiengar, B. A., has, in his paper on *Bhâmaha* published in the Journal of the Royal Asiatic Society' (July 1905), argued the priority of *Daṇḍin* to *Bhâmaha* and thinks he has made out a conclusively strong case in favour of the priority of *Daṇḍin* on the following grounds[^3527] Mr. Pâṭhak says that Bhâmaha is prior to Daṇḍin, but I believe we have conclusive evidence now to prove that the reverse is the case"):—
+
+[^3527]: "'In his introduction to Karirâja-Mârga (p. 16
 
  (1) *Bhâmaha* criticizes *Daṇḍin*, though Dandin is not expressly mentioned by him.
 
@@ -1461,13 +1537,19 @@ tracing stanzas to their original sources, specifically ascribes this verse to *
 
 Vide the definitions of ससंदेह(My notes to the EkâvalÎ, pp. 564-65), अपह्नुति (Vide My notes on the EkâvalÎ, p. 575), उत्प्रेक्षा (Notes on the EkâvalÎ, p. 585), अतिशयोक्ति(Notes on the Ekâ. p. 589), सद्दोक्ति(Notes, pp. 610),अप्रस्तुत्प्रसंशा(Notes, pp. 631-32), पर्यायोक्त(first half of the verse, (notes, p. 639), आक्षेप(Notes, pp. 647-48). विरोध (Notes, pp.649-50) विभावना(Notes, p. 653), यथासङ्घ्य (Notes, p. 683) There are many otherpoints of similarity in the two works as in the reasons assigned for the figure, two of which are the same in both (Vide Notes, p. 710), in considering रसand भावas expressed and not suggested (Notes, p. 712), in the omission of the treatment of भ्रान्तिमत्as an Alaṇkâra (Vide Notes p. 569) &c.
 
-cases it is not clear who is criticizing whom. Take for instance the case of *Kathâ* and *Âkhyâyikâ*. They are distinguished from each other by many writers on poetics— such as by *Abhinavagupta* in the *[Lochana]("Vide my notes, p. २४.")*, in the *Agnipurâṇa*, in the *Kâvyânuśâsana* by *[Hemachandra](http://्र "Vide काव्यानु०, PP. 340-41.")*, by *Rudrata* in his*[Kâvyâlaṅkara](http://्र "Vide pp. 170-171.")*, in the *Mandâramarandachampú* by *[Śrikrishṇa](http://्र "Vide pp. 187-88.")*, by *Vâgbhața* in the *[Kâvyânusâsana](http://्र "Vide p. 16 and p. 18.")* and by *Viśvanâtha* in his *[Sâhityadarpaṇa]("Vide my notes, p. २४.")*. *Bhâmaha* too distinguishes between them; and many writers who preceded *Bhâmaha* and *Daṇḍin* both and whose works are not available, may be presumed to have distinguished between them; because the word किल(किल इति ऐतिह्ये) in *Daṇḍin*'s *Kâvyâdarśa* ‘तयारोख्यायिका किल&c.' shews that the distinction between आख्यायिकाand कथा, mentioned there, is traditional. Indeed, the fact that *Bhâmaha* distinguishes between them and that *Daṇḍin* criticizes those who distinguish between them, the points of distinction mentioned by *Daṇḍin* being the same as those found in *Bhâmaha*'s work, would rather lead one to presume that *Bhâmaha* preceded *Daṇḍin*. The last line of *Bhâmaha* in his treatment of *Kathâ*, viz. 'स्वगुणाविष्कृतिं कुर्यादभिजातः कथं जनः' (How can a highborn person declare his own merits) simply explains why in a *Kathâ* the narrator is other than the hero (अन्यैः स्वचरितं तस्यां नायकेन तु नोच्यते' - In a *Kathâ* the hero does not narrate his own story, but it is narrated by another), just as *Daṇḍin*'s line स्वगुणाविष्किया दोषो नात्र भूतार्थशंसिनः' (in an *Âkhyayikâ*, the declaration of one's own merits is no fault, because it simply mentions the true thing) explains, by stating a reason, what is given in the preceding line तयोराख्यायिका किल नायकेनैव वाच्या (of these two *Kathâ* and *Âkhyâyikâ*, the latter should be
+cases it is not clear who is criticizing whom. Take for instance the case of *Kathâ* and *Âkhyâyikâ*. They are distinguished from each other by many writers on poetics— such as by *Abhinavagupta* in the *Lochana[^3528]*, in the *Agnipurâṇa*, in the *Kâvyânuśâsana* by *[Hemachandra](http://्र "Vide काव्यानु०, PP. 340-41.")*, by *Rudrata* in his*[Kâvyâlaṅkara](http://्र "Vide pp. 170-171.")*, in the *Mandâramarandachampú* by *[Śrikrishṇa](http://्र "Vide pp. 187-88.")*, by *Vâgbhața* in the *[Kâvyânusâsana](http://्र "Vide p. 16 and p. 18.")* and by *Viśvanâtha* in his *Sâhityadarpaṇa[^3528]*. *Bhâmaha* too distinguishes between them; and many writers who preceded *Bhâmaha* and *Daṇḍin* both and whose works are not available, may be presumed to have distinguished between them; because the word किल(किल इति ऐतिह्ये) in *Daṇḍin*'s *Kâvyâdarśa* ‘तयारोख्यायिका किल&c.' shews that the distinction between आख्यायिकाand कथा, mentioned there, is traditional. Indeed, the fact that *Bhâmaha* distinguishes between them and that *Daṇḍin* criticizes those who distinguish between them, the points of distinction mentioned by *Daṇḍin* being the same as those found in *Bhâmaha*'s work, would rather lead one to presume that *Bhâmaha* preceded *Daṇḍin*. The last line of *Bhâmaha* in his treatment of *Kathâ*, viz. 'स्वगुणाविष्कृतिं कुर्यादभिजातः कथं जनः' (How can a highborn person declare his own merits) simply explains why in a *Kathâ* the narrator is other than the hero (अन्यैः स्वचरितं तस्यां नायकेन तु नोच्यते' - In a *Kathâ* the hero does not narrate his own story, but it is narrated by another), just as *Daṇḍin*'s line स्वगुणाविष्किया दोषो नात्र भूतार्थशंसिनः' (in an *Âkhyayikâ*, the declaration of one's own merits is no fault, because it simply mentions the true thing) explains, by stating a reason, what is given in the preceding line तयोराख्यायिका किल नायकेनैव वाच्या (of these two *Kathâ* and *Âkhyâyikâ*, the latter should be
+
+[^3528]: "Vide my notes, p. २४."
 
 narrated by the hero alone). Similarly, the fact that **गतोऽस्तमर्कः**which is called bad poetry (**किंकाव्यम्**) by *Bhâmaha* and good poetry (**साध्वेव**) by *Daṇḍin* may by stretch of reasoning be argued to prove that *Daṇḍin* is criticizing *Bhâmaha* and is thus posterior to him; while the probability is that the verse is old and traditional, that old writers on poetics who preceded *Bhâmaha* and *Daṇḍin* have recognized it as an instance of an *Alaṅkâra* (**वार्तामेनां प्रचक्षते**), that some may have called it bad poetry and that these people may have been in the mind of *Daṇḍin*.
 
- It will thus be seen that the first two grounds on which *Daṇḍin*'s priority to *Bhâmaha* is based by Prof. M. T. Narasiṁhiengar, B. A., do not afford any conclusive proof. Let us now consider the last argument, the existence of half the versed '**हिमापहामित्रधैरेर्व्याप्तं व्योम'** in both the works, which Prof. Narasimhiengar remarks is by itself sufficient to conclusively prove the posteriority of *Bhâmaha*' It is said that the instances given by *Daṇḍin* in his *Kâvyadarśa* are generally his own and that *Śârṅgadhara* ascribes the verse in question to *Daṇḍin*. Now **लिम्पतीव तमोऽङ्गानि**&c. in the *Kâvyadarśa* is evidently from the *Mṛichchhakaṭika* and thus shows that all the instances in the *Kâvyadarśa* are not *Daṇḍin*'s own, unless we hold with Dr. Pischel that of the three works ascribed to *Daṇḍin* in the well-known verse of [Râjaśekhara]("त्रयोऽनयस्त्रयो वेदास्त्रयो देवास्त्रयो गुणाः। भयो दण्डिप्रवन्धाश्चत्रिषु लोकेषु विश्रुताः॥"), the third is *Mṛichchhakaṭika* itself. This is, however, a bold assertion and is not generally accepted. Indeed, it is doubtful whether *Daṇḍin*, the author of *Daśakumâracharita*, is the same *Daṇḍin* that is the author of *Kâvyada*rsa***;* for the two works are widely divergent in style and purity of language. It is also to be borne in mind that a *Prahelikâ* is an artificial and laboured composition and instances of it are more likely to be borrowed from old
+ It will thus be seen that the first two grounds on which *Daṇḍin*'s priority to *Bhâmaha* is based by Prof. M. T. Narasiṁhiengar, B. A., do not afford any conclusive proof. Let us now consider the last argument, the existence of half the versed '**हिमापहामित्रधैरेर्व्याप्तं व्योम'** in both the works, which Prof. Narasimhiengar remarks is by itself sufficient to conclusively prove the posteriority of *Bhâmaha*' It is said that the instances given by *Daṇḍin* in his *Kâvyadarśa* are generally his own and that *Śârṅgadhara* ascribes the verse in question to *Daṇḍin*. Now **लिम्पतीव तमोऽङ्गानि**&c. in the *Kâvyadarśa* is evidently from the *Mṛichchhakaṭika* and thus shows that all the instances in the *Kâvyadarśa* are not *Daṇḍin*'s own, unless we hold with Dr. Pischel that of the three works ascribed to *Daṇḍin* in the well-known verse of Râjaśekhara[^3530], the third is *Mṛichchhakaṭika* itself. This is, however, a bold assertion and is not generally accepted. Indeed, it is doubtful whether *Daṇḍin*, the author of *Daśakumâracharita*, is the same *Daṇḍin* that is the author of *Kâvyada*rsa***;* for the two works are widely divergent in style and purity of language. It is also to be borne in mind that a *Prahelikâ* is an artificial and laboured composition and instances of it are more likely to be borrowed from old
 
-writers than composed by *Daṇḍin* himself. Thus both *Bhâmaha* and *Daṇḍin* may have borrowed the verse in question from an old work. Again, 'गतोऽस्तमर्को भातीन्वुर्यान्ति वासाय पक्षिणः’found in the *Kâvyâdarśa* (2-244) is found also in *Bhâmaha* whose words 'वार्तामेनां प्रचक्षते' show that the instance is from old works on poetics and that old writers call this *Vârtâ*. Thus, though the generality of instances in the *Kâvyâdarśa* is *Daṇḍin*'s own production, there are some instances which are not his. Further, to consider the verse विजितात्मभवद्वेषि as *Daṇḍin*'s production on the strength of *Śârṅgadhara*'s having ascribed it to him in his collection is also not safe; because *Śârṅgadhara* is not faultless in tracing stanzas to their original sources; since the well-known stanza वितरति गुरुः प्राज्ञे विद्यांयथैव तथा जडे &c. which occurs in *Bhwabhûti*'s *Uttararâmacharita* is ascribed by *Śârṅgadhara* to *[Kâlidasa]("Vide Śârṅgadharapaddhati No. 414, pp. 61-62.")*. It will thus be seen that the evidence on which Prof. Narasiṁhiengar has settled the priority of *Daṇḍin* to *Bhâmaha* is not conclusive and that the subject requires further materials before it can be conclusively and satisfactorily settled which of the two writers is prior to the other.
+[^3530]: "त्रयोऽनयस्त्रयो वेदास्त्रयो देवास्त्रयो गुणाः। भयो दण्डिप्रवन्धाश्चत्रिषु लोकेषु विश्रुताः॥"
+
+writers than composed by *Daṇḍin* himself. Thus both *Bhâmaha* and *Daṇḍin* may have borrowed the verse in question from an old work. Again, 'गतोऽस्तमर्को भातीन्वुर्यान्ति वासाय पक्षिणः’found in the *Kâvyâdarśa* (2-244) is found also in *Bhâmaha* whose words 'वार्तामेनां प्रचक्षते' show that the instance is from old works on poetics and that old writers call this *Vârtâ*. Thus, though the generality of instances in the *Kâvyâdarśa* is *Daṇḍin*'s own production, there are some instances which are not his. Further, to consider the verse विजितात्मभवद्वेषि as *Daṇḍin*'s production on the strength of *Śârṅgadhara*'s having ascribed it to him in his collection is also not safe; because *Śârṅgadhara* is not faultless in tracing stanzas to their original sources; since the well-known stanza वितरति गुरुः प्राज्ञे विद्यांयथैव तथा जडे &c. which occurs in *Bhwabhûti*'s *Uttararâmacharita* is ascribed by *Śârṅgadhara* to *Kâlidasa[^3531]*. It will thus be seen that the evidence on which Prof. Narasiṁhiengar has settled the priority of *Daṇḍin* to *Bhâmaha* is not conclusive and that the subject requires further materials before it can be conclusively and satisfactorily settled which of the two writers is prior to the other.
+
+[^3531]: "Vide Śârṅgadharapaddhati No. 414, pp. 61-62."
 
  Though, as shewn above, it cannot be conclusively proved whether *Bhâmaha* is prior or posterior to *Daṇḍin*, the following points afford a strong presumptive evidence in favour of the priority of *Bhâmaha* to *Daṇḍin*:—
 
@@ -1491,19 +1573,31 @@ me in which *Daṇdin* is mentioned before *Bhâmaha* by *[Rudraṭa](http://्
 
  Here एवand अपिhave been used pointedly and levelled against the distinctive characteristics given by *Bhâmaha*.
 
- (d) In the beginning of the 4th *Parichchheda Bhâmaha* enumerates eleven *Doshas*. *Daṇdin* enumerates the first ten *Doshas* in the same words and states that the *Doshas* are ten only, that the eleventh *Dosha* which is the same as mentioned by *Bhâmaha* is hard to judge and that there is no fruit in troubling one's self about [it]("इति दोषा दशैवेते वयां काव्येषु सूरिभिः॥ प्रतिज्ञाहेतुदृष्टान्तहानिर्दोषो न वेत्यसौ। विचारः कर्कशः प्रायस्तेनालीडेन किं फलम्॥ काव्या० ३।२२६-२०."). This too favours the presumption of *Bhâmaha's* priority to *Daṇdin*.
+ (d) In the beginning of the 4th *Parichchheda Bhâmaha* enumerates eleven *Doshas*. *Daṇdin* enumerates the first ten *Doshas* in the same words and states that the *Doshas* are ten only, that the eleventh *Dosha* which is the same as mentioned by *Bhâmaha* is hard to judge and that there is no fruit in troubling one's self about it[^3532]. This too favours the presumption of *Bhâmaha's* priority to *Daṇdin*.
+
+[^3532]: "इति दोषा दशैवेते वयां काव्येषु सूरिभिः॥ प्रतिज्ञाहेतुदृष्टान्तहानिर्दोषो न वेत्यसौ। विचारः कर्कशः प्रायस्तेनालीडेन किं फलम्॥ काव्या० ३।२२६-२०."
 
  (e) **गतोऽस्तमर्कः**&c. which *Bhâmaha* calls bad poetry is called good composition by *Dandin* by the words **साध्वेव**,which seem clearly aimed against those who call it **असाधु**, and as *Bhâmaha* calls it **किंकाव्यम्**, this is also a presumption in favour of the priority of *Bhâmaha* to *Daṇdin*.
 
- (f) The instance of the figure called **प्रेयः** is the same in the works of both *Daṇdin* and *Bhâmaha*, viz.**अद्य या मम गोविन्द**&c. It is highly probable that *Daṇdin* has borrowed this from *Bhâmaha*; for while the former does not acknowledge he source where he has borrowed as in **लिम्पतीव तमोऽङ्गानि** &c., the latter acknowledges the source where he has borrowed verses from others, as *Râjamitra, Achyutottara* &c. Moreover, *Bhâmaha* distinctly states at the end of the 2nd Parichchheda that the instances of the figures of speech given by him are his own [composition]("स्वयंकृतैरेव निदर्शनैर्मया प्रकॢप्ता खलु बागलंकृतिः । २-९६.").
+ (f) The instance of the figure called **प्रेयः** is the same in the works of both *Daṇdin* and *Bhâmaha*, viz.**अद्य या मम गोविन्द**&c. It is highly probable that *Daṇdin* has borrowed this from *Bhâmaha*; for while the former does not acknowledge he source where he has borrowed as in **लिम्पतीव तमोऽङ्गानि** &c., the latter acknowledges the source where he has borrowed verses from others, as *Râjamitra, Achyutottara* &c. Moreover, *Bhâmaha* distinctly states at the end of the 2nd Parichchheda that the instances of the figures of speech given by him are his own composition[^3533].
+
+[^3533]: "स्वयंकृतैरेव निदर्शनैर्मया प्रकॢप्ता खलु बागलंकृतिः । २-९६."
 
  (g) **काव्यान्यपि यदीमानि व्याख्यागम्यानि शास्त्रवत्** &c. (II. 20), found also in the *Bhaṭṭikâvya*, is ascribed to *Bhâmaha* by *Śrivatsâṅkamiśra* of the tenth century A. D. This places *Bhâmaha*
 
 before Bhaṭṭi. Moreover, authors like *Râmaśarman* and *Sâkhavardhana* and works like *Achyutottara, Ratnâharana, Râjamitra* and *Aśmakavaṁśa* are mentioned by *Bhâmaha*; but nothing is known about them, nor are they found quoted elsewhere. This would place *Bhâmaha* in very ancient times and justify the epithet of **पूर्व**applied to him by old writers on poetics and the respect in which he was held by authors like *Mammaṭa* and *Abhinavagupta.*
 
- Prof. K. B. *Pâṭhak* brought to my notice that he had found the reference alluded to by *[Bhâmaha]("Vide VI. 36-37.  शिष्टप्रयोगमात्रेण न्यासकारमतेन वा। तूचा समस्तषष्ठीकं न कथंचिदुदाहरेत्॥ सूत्रज्ञापकमात्रेण वृत्रहन्ता यथोदितः।")*, viz., the justification of the compound **वृत्रहन्ता**, in *Jinendrabuddhi's Kâsikâvivaraṇapañjikâ* and that *Bhâmaha* is consequently posterior to *Jinendrabuddhi* who flourished about the eighth century of the Christian era. If this is proved, it would be a very strong ground in favour of the priority of *Daṇdin* to *Bhâmaha*. I thereupon tried to verify the reference in question and am indebted to the learned *Śâstrî* A. *Anantâchârya* of the Archæological Department, Mysore, for an extract from *Jinendrabuddhi's Kâśikâvivaraṇapañjikâ*, in question, given in the foot-note, which shews that there is no reference to**वृत्रहन्ता**in it. [Moreover]("श्रीः  स्थविरजिनेन्द्रबुद्धिकृत काशिकाविवरणपंचिका   तृजकाभ्याम् भवतश्शायिका इत्यादी भावे पर्यायार्हणोत्पतिषु त्वुच्'। भवत इति (1) 'कर्तृकर्मणोः कृति' (इति) कर्तरि षष्ठी। तत्प्रयोगे कर्तरि षष्ठी नास्ति तेनैव कर्तुरमितित्वात्। किमर्थं तर्हि तृचो ग्रहणमित्याह। तस्मात् तृजुग्रहणमेतदिति । इक्षुभक्षिकां मे धारयसि इति।"), a mere mention of
+ Prof. K. B. *Pâṭhak* brought to my notice that he had found the reference alluded to by *Bhâmaha[^3534]*, viz., the justification of the compound **वृत्रहन्ता**, in *Jinendrabuddhi's Kâsikâvivaraṇapañjikâ* and that *Bhâmaha* is consequently posterior to *Jinendrabuddhi* who flourished about the eighth century of the Christian era. If this is proved, it would be a very strong ground in favour of the priority of *Daṇdin* to *Bhâmaha*. I thereupon tried to verify the reference in question and am indebted to the learned *Śâstrî* A. *Anantâchârya* of the Archæological Department, Mysore, for an extract from *Jinendrabuddhi's Kâśikâvivaraṇapañjikâ*, in question, given in the foot-note, which shews that there is no reference to**वृत्रहन्ता**in it. Moreover[^3535] 'कर्तृकर्मणोः कृति' (इति) कर्तरि षष्ठी। तत्प्रयोगे कर्तरि षष्ठी नास्ति तेनैव कर्तुरमितित्वात्। किमर्थं तर्हि तृचो ग्रहणमित्याह। तस्मात् तृजुग्रहणमेतदिति । इक्षुभक्षिकां मे धारयसि इति।"), a mere mention of
 
-*Nyâsakâra* by *Bhâmaha* cannot place *Bhâmaha* after the time of *Jinendrabuddhi* or eighth century after Christ; for *Jinendrabuddhi* is not the only *Nyâsakâra;* many *Nyâsakâras* are mentioned in the *Dhâluvritti* of [*Mâdhavâcharya*]("Vide Introduction to Mâdharîya Dhâtueritti, Mysore Government Oriental Library Series. pp. १७- २०."):—**क्षेमेन्द्रन्यास, न्यासोद्योत, बोधिन्यास, वृत्तिन्यास, शाकटायनन्यास.** A *Nyâsa* by one *Vinîtakîrî* is quoted by *Srîvatsâṅkamiśra* of the tenth century A. D. in his *Yamakaratnâkara*, *Âivâsa* I. Again, *Mâdhava* in treating of the use of the root **साति**quotes the opinion of one *Jinendra* against that of [*Bodhinyása*]("Vide Mâdhaviya Dhâtueritti, १२२- "). This opinion, when compared with that of *Jinendrabuddhi* in his *Kâśikavivaraṇapañjikâ*, as I learn from Śâstri Anantâchârya who has got a manuscript of the work with him, leaves room for the inference that the *Jinendra* of *Madhava's* quotation must be different from the *Jinendrabuddhi* of *Vivaraṇapañjik*â. The same *Sâstr*î informs that there was another *Nyâsakâra* who lived in
+[^3534]: "Vide VI. 36-37.  शिष्टप्रयोगमात्रेण न्यासकारमतेन वा। तूचा समस्तषष्ठीकं न कथंचिदुदाहरेत्॥ सूत्रज्ञापकमात्रेण वृत्रहन्ता यथोदितः।"
+
+[^3535]: "श्रीः  स्थविरजिनेन्द्रबुद्धिकृत काशिकाविवरणपंचिका   तृजकाभ्याम् भवतश्शायिका इत्यादी भावे पर्यायार्हणोत्पतिषु त्वुच्'। भवत इति (1
+
+*Nyâsakâra* by *Bhâmaha* cannot place *Bhâmaha* after the time of *Jinendrabuddhi* or eighth century after Christ; for *Jinendrabuddhi* is not the only *Nyâsakâra;* many *Nyâsakâras* are mentioned in the *Dhâluvritti* of *Mâdhavâcharya*[^3536]:—**क्षेमेन्द्रन्यास, न्यासोद्योत, बोधिन्यास, वृत्तिन्यास, शाकटायनन्यास.** A *Nyâsa* by one *Vinîtakîrî* is quoted by *Srîvatsâṅkamiśra* of the tenth century A. D. in his *Yamakaratnâkara*, *Âivâsa* I. Again, *Mâdhava* in treating of the use of the root **साति**quotes the opinion of one *Jinendra* against that of *Bodhinyása*[^3537]. This opinion, when compared with that of *Jinendrabuddhi* in his *Kâśikavivaraṇapañjikâ*, as I learn from Śâstri Anantâchârya who has got a manuscript of the work with him, leaves room for the inference that the *Jinendra* of *Madhava's* quotation must be different from the *Jinendrabuddhi* of *Vivaraṇapañjik*â. The same *Sâstr*î informs that there was another *Nyâsakâra* who lived in
+
+[^3536]: "Vide Introduction to Mâdharîya Dhâtueritti, Mysore Government Oriental Library Series. pp. १७- २०."
+
+[^3537]: "Vide Mâdhaviya Dhâtueritti, १२२- "
 
 —————————————————————————————————
 
@@ -1517,9 +1611,13 @@ the fifth century A. D. The title *Pâjyapâda* was given to him on account of h
 
  (a) He was, as he himself tells us, son of *Rakrila* *Gomin*. *Gomin* is explained by *Naighaṇṭukas* as a contraction of Go-
 
-sudy, a caste designation added after the names of Brahmins throughout Kâshmîr and northern India and corresponding to the *Âcharya* of the [south]("This information was supplied to me by Śâstrî A. Anantâchârya of Mysore,").
+sudy, a caste designation added after the names of Brahmins throughout Kâshmîr and northern India and corresponding to the *Âcharya* of the south[^3538].
 
- (b) Performers of *soma*-sacrifice are praised by [him]("Vide IV. 49.").
+[^3538]: "This information was supplied to me by Śâstrî A. Anantâchârya of Mysore,"
+
+ (b) Performers of *soma*-sacrifice are praised by him[^3539].
+
+[^3539]: "Vide IV. 49."
 
 ——————————————————————————————————
 
@@ -1537,11 +1635,17 @@ For all this information on Nyâsakaras and on certain other points regarding *B
 
 [^5]: "Vide IV, 21,28; III. 23, 31; VI, 32,"
 
- (e) There is no reference to incidents in the life of *Buddha* or to *Bauddha* heroes. *Sarvajña*, mentioned by *Bhâmaha*, is not simply a synonym of *Buddha*, but is given by *Amara* as an epithet of *Śiva* [also]("Vide Amarakoja १।१।१३ and १।१।१५").
+ (e) There is no reference to incidents in the life of *Buddha* or to *Bauddha* heroes. *Sarvajña*, mentioned by *Bhâmaha*, is not simply a synonym of *Buddha*, but is given by *Amara* as an epithet of *Śiva* also[^3540].
 
- (f) *Bhâmaha* rejects *'Anyâpoha'* as a *[Śabdârtha](" Vide VI. 16.")*.
+[^3540]: "Vide Amarakoja १।१।१३ and १।१।१५"
 
- (g) *Bhâmaha* mentions a person studying the Vedas like a [Brahmin]("Vide II. 38.").
+ (f) *Bhâmaha* rejects *'Anyâpoha'* as a *Śabdârtha[^3541]*.
+
+[^3541]: " Vide VI. 16."
+
+ (g) *Bhâmaha* mentions a person studying the Vedas like a Brahmin[^3542].
+
+[^3542]: "Vide II. 38."
 
  In conclusion, I trust that the great trouble take in placing the work of an old *Alaṅkârika*
 
@@ -1557,7 +1661,7 @@ P. R. Training College,
 श्रीविद्यानाथकृतप्रतापरुद्रयशोभूषणं  
 
 श्रीमल्लिनाथसुतकुमारस्वामिकृतरत्नापणोपेतम्।  
-![](../books_images/U-IMG-1734603878Screenshot2024-12-19155414939999999.png)
+<MISSING_FIG href="../books_images/U-IMG-1734603878Screenshot2024-12-19155414939999999.png"/>
 
 अथ काव्यप्रकरणम्।  
 
@@ -1634,7 +1738,9 @@ P. R. Training College,
 
 वचनम् 'आशीर्नमस्क्रिया वस्तुनिर्देशो वापि तन्मुखम्'
 
-इत्या[शीराद्यन्यतमस्य](#) प्रबन्धमुखलक्षणत्वप्रतिपादकमाचार्यदण्डिवाक्यं
+इत्याशीराद्यन्यतमस्य[^3543] प्रबन्धमुखलक्षणत्वप्रतिपादकमाचार्यदण्डिवाक्यं
+
+[^3543]: #
 
 चप्रमाणयन् बृद्धाचारपरिप्राप्तं विशिष्टेष्टदेवता
 
@@ -1697,6 +1803,8 @@ P. R. Training College,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+ 
+
 अथालंकारशास्त्रप्रणेतृप्रमाणपूर्वकं
 
 वक्ष्यमाणमर्थंप्रतिजानीते। **पूर्वेभ्य** इति।
@@ -1709,9 +1817,13 @@ P. R. Training College,
 
 सूचितं भवति॥२॥
 
+ 
+
 संप्रत्यलंकारशास्त्रस्य लोकोत्तरवर्ण्यलाभेनोत्कर्षमाह।
 
 चिरेणेति॥३॥
+
+ 
 
 शास्त्रसर्वस्वसंग्रह इत्युक्तं तद्विभजते। **रसे**ति। रसप्रधाना रसजीविता इत्यर्थः। यद्यपि वस्त्वलंकाररसात्मना त्रिविधस्यापि व्यङ्ग्यस्य जीवितत्वमुत्तरत्र वक्ष्यति तथापि
 
@@ -1756,9 +1868,13 @@ P. R. Training College,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+ 
+
 अत एव
 
 प्रबन्धृृणामप्यपकर्ष इत्याह **पुण्ये**ति। चरितोदाहरणे कर्तृकर्मणी॥६॥
+
+ 
 
 तन्निरूपणे तु महानुभयेषामुत्कर्ष इत्याह। **प्रबन्धानामि**ति। प्रबन्धृृणां प्रवन्धकर्त्तॄणाम्॥७॥
 
@@ -1787,6 +1903,8 @@ P. R. Training College,
 
 कान्तासंमितया यया सरसतामापाद्य काव्यश्रिया  
 कर्त्तव्ये कुतुकी बुधो विरचितस्तस्यै स्पृहां कुर्महे॥८॥
+
+ 
 
 ततः काव्यं दृष्टादृष्टफलजनकतया
 
@@ -2033,6 +2151,8 @@ P. R. Training College,
 **'आदिराजयशोबिम्बमादर्शे प्राप्य वाङ्मयम्।  
 तेषामसंनिधानेऽपि न स्वयं पश्य नश्यति ॥'**
 
+ 
+
 सूक्तैव प्रतिपाद्यमहिम्ना प्रबन्धमहत्ता। तदुक्तं प्राचा **भामहेन**।
 
  '
@@ -2048,6 +2168,8 @@ P. R. Training College,
 **'गुणालंकारचारुत्वयुक्तमप्यधिकोज्ज्वलम्।  
 काव्यमाश्रयसंपत्त्या मेरुणेवामरद्रुमः॥**
 
+ 
+
 इति।
 
 रुद्रभट्टेनापि कथितम्। 'उदारचरितनिबन्धना प्रबन्धप्रतिष्ठा' इति। प्रपञ्चितं
@@ -2056,12 +2178,16 @@ P. R. Training College,
 
 सुकृतिनामाकल्पमाकल्पन्ति' इति।
 
+ 
+
 निरूपितं च भोजराजेन।
 
 'कवेरल्पापि वाग्वृत्तिर्विद्वत्कर्णावतंसति।  
 नायको यदि वर्ण्येत लोकोत्तर
 
 गुणोत्तरः॥'
+
+ 
 
 इति।
 
@@ -2090,6 +2216,8 @@ P. R. Training College,
 
 **पूर्वशास्त्रानुसारेण कतिचित् कथिता इमे।  
 प्रतापरुद्रदेवस्य गुणा वाचामगोचराः॥१२॥**
+
+ 
 
 अथैतेषां स्वरूपमुदाहरणं च।
 
@@ -2143,6 +2271,8 @@ P. R. Training College,
 
 **विश्वंभराधिपत्यं यत्तन्महाभाग्यमुच्यते॥**
 
+ 
+
 यथा
 
 सेवानम्रनरेन्द्रमौलि
@@ -2155,6 +2285,8 @@ P. R. Training College,
  अथौदार्यम् !
 
 **यद्विश्राणनताच्छील्यमौदार्यंतन्निगद्यते।**
+
+ 
 
 यथा
 
@@ -2286,6 +2418,8 @@ P. R. Training College,
 
 **तन्महामहिमत्वं स्याद्या पुनर्देवतात्मता।**
 
+ 
+
 यथा
 
 कौसल्यासीत् प्रथमजननी देवकी च द्वितीया  
@@ -2311,6 +2445,8 @@ P. R. Training College,
 
 **यस्त्रेतायां रघुपतिरभूद् द्वापरे शौरिरासीत्  
 त्रातुं क्षोणीं स जयति कलौ वीररुद्रावतारः॥२०॥**
+
+ 
 
 अत्र गरुडध्वजात्मकतया महामहिम
 
@@ -2412,12 +2548,16 @@ P. R. Training College,
 मालोक्यते  
 तन्मन्ये नियतं प्रतापतपनस्तस्योपरि द्योतते॥२३॥
 
+ 
+
 धर्मकामार्थतत्परत्वं यथा।
 
 धर्मोऽर्थ इव पूर्णश्रीरर्थो धर्म इव स्थितः।  
 कामस्ताविव तौ काम इव
 
 रुद्रनरेश्वरे॥२४॥
+
+ 
 
 धुरीणता
 
@@ -2457,6 +2597,8 @@ P. R. Training College,
 
 उदात्त उद्धतश्चैव ललितः शान्त इत्यपि।  
 धीरपूर्वा इमे पूर्वैश्चत्वारो नायकाः स्मृताः॥२७॥
+
+ 
 
 तत्र सर्वरससाधारणाश्चत्वारो नायकाः
 
@@ -2610,6 +2752,8 @@ P. R. Training College,
 
 च।
 
+ 
+
 एकायत्तोऽनुकूलः स्यात्
 
  एकस्यां नायिकायां
@@ -2617,6 +2761,8 @@ P. R. Training College,
 विशेषानुरक्तोऽनुकूलो[^36] नायकः।
 
 [^36]: "नुकूलनायकः M."
+
+ 
 
 यथा।
 
@@ -2649,6 +2795,8 @@ P. R. Training College,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+ 
+
 तत्रानुकूलमाह। एकेति। सत्स्वपि नायिकान्तरेष्विति शेषः। तदेवाह **एकस्या**मिति। एकजानिरेवानुकूलो यथा रामादिरित्यन्ये। उदाहरति। **किमि**ति। नायिकावाक्यमेतत्। भुवा कयाचिन्नायिकया। नामेति संभावनायाम्। यतः सुचरितात्। अथ सखी नायिकामाह। **जान** इति। नायकघटनोपायमिति
 
 शेषः।' अनुपसर्गात् ज्ञः' इत्यात्मनेपदम्। नामेति कुत्सायाम्। अनुरागोत्पादनार्थे सपत्नीनामसाम्येन नायिकाप्रकाशनस्य कुत्सितत्वात् ‘नाम प्रकाश्यसंभाव्यकुत्साभ्युपगमेषु च ' इति विश्वः। अत्र राज्ञो भूमौ विशेषानुरागोऽन्यत्र न तथेत्यानुकूल्यम् ॥३५॥
@@ -2667,6 +2815,8 @@ P. R. Training College,
 
 गच्छामीत्यनुचिन्तयैव नृपतेरासीत् प्रभाता निशा॥३६॥
 
+ 
+
 तथा च
 
 वाणीं मुखेन नेत्राभ्यां श्रियं दोष्णा च मेदिनीम्।  
@@ -2675,6 +2825,8 @@ P. R. Training College,
 रुद्रनरेश्वरः॥३७॥
 
 व्यक्तापराधो गतभीः स धृष्ट इति कथ्यते।
+
+ 
 
 यथा
 
@@ -2759,6 +2911,8 @@ P. R. Training College,
 
 हास्यप्रायो विदूषकः॥४०॥
 
+ 
+
 स्पष्टमेषामुदाहरणम्।
 
 अथाष्टविधाः शृङ्गारनायिकाः।
@@ -2807,6 +2961,8 @@ P. R. Training College,
 प्रतीक्षितः॥४५॥
 
 ———————————————————————————————————————————————
+
+ 
 
 तत्रस्वाधीनपतिकामाह। **प्रिये**ति। अध्युपरि इनः स्वामी यस्यासाबधीनः आयत्तः। 'अधीनो निघ्नआयत्तः' इत्यमरः। स्वस्मिन्नधीनः स्वाधीनः। यद्वा स्वस्मिन्नधिकृतमधीति वा विगृह्य 'सप्तमी शौण्डैः' इति समासः। 'अषडक्ष—'इत्यादिना अध्युत्तरपदान्नित्यः खप्रत्ययः। सुरतसुखास्वादलोभेनासन्नत्वात् स्वाधीन आयत्तः पतिर्यस्याः सा तथोक्ता। उदाहरति। प्रियामिति। सर्वे सहत इति सवैसहा नाम काचिन्नायिका। 'संज्ञायाम्—
 
@@ -2918,9 +3074,13 @@ P. R. Training College,
 
 सूरिभिः परिकीर्त्तिता॥५१॥
 
+ 
+
 यथा
 
-तह तह [अणुणअंतो]("अणुणयन्तो M; अणुणंतो R.") पिओ तुएहिअअरोसकलुसेण।  
+तह तह अणुणअंतो[^3544] पिओ तुएहिअअरोसकलुसेण।  
+
+[^3544]: "अणुणयन्तो M; अणुणंतो R."
 
 अवहीरिदो
 
@@ -2962,7 +3122,9 @@ P. R. Training College,
 
 **कान्ताभिसरणोद्युक्तास्मरार्त्ता साभिसारिका॥**
 
- [यथा]("Omitted in M.")
+ यथा[^3545]
+
+[^3545]: "Omitted in M."
 
 संभ्रमैरलमल्पज्ञे प्रेयानस्तु महीपतिः।  
 करेणुस्थां न पश्यामि न शृणोभ्यभिसारिकाम्॥५४॥
@@ -2998,6 +3160,8 @@ P. R. Training College,
 लिङ्गिनी शिल्पिनी
 
 स्वा च सहायाः परिकीर्त्तिताः॥५५॥
+
+ 
 
 ऐतासां स्वरूपमुदाहरणं
 
@@ -3052,6 +3216,8 @@ P. R. Training College,
 
 व्रीडया॥५७॥
 
+ 
+
 मध्या यथा
 
 लीलाविभ्रमपूर्वरङ्गमुदितं तारुण्यमेत्य त्रपा—  
@@ -3073,6 +3239,8 @@ P. R. Training College,
 तच्चेष्टाश्चोक्ताः।
 
 तच्चाल्यां प्रणयैकवाचीत्यनेन सूच्यते ॥५६-७.
+
+ 
 
 मध्यामुदाहरति। **लीलेति**। पूर्वरङ्गो नाम
 
@@ -3126,10 +3294,10 @@ P. R. Training College,
 
 यथासंभवमुदाहार्यम्।[^45]
 
+[^45]: "M M. closes the नायकप्रकरण at "
+
 **गुणालंकाराणां रसमहति काव्ये विलसितं  
 स्फुरच्छव्दार्थाभ्यां तदपि हृदयानन्दि भवति।**
-
-[^45]: "M M. closes the नायकप्रकरण at "
 
 ———————————————————————————————————————————————
 
@@ -3247,6 +3415,8 @@ P. R. Training College,
 दुग्धाब्धिंविहाय स्वगृहं प्राप्त इत्यनेन क्षीरसमुद्रे
 
 हरिर्नास्तीति व्यज्यते। अनेन पुरुषोत्तमः प्रतापरुद्ररूपेण काकतीयकुले बर्त्तत इति वस्तु व्यज्यते। इति त्रिविधं व्यङ्ग्यप्राधान्यम्॥
+
+ 
 
 काव्यं समाश्रित्य गुणालंकाराणां विलासः। तच्च काव्यं शब्दस्फुरणेनार्थस्फुरणेन
 
@@ -3668,9 +3838,9 @@ P. R. Training College,
 
  वाच्यार्थानुपपत्त्या[^74]
 
-तत्संबन्धिन्यारोपितः शब्दव्यापारो लक्षणा।
-
 [^74]: "वाच्यानुपपत्त्या M., M, M"
+
+तत्संबन्धिन्यारोपितः शब्दव्यापारो लक्षणा।
 
  तत्र[^75] जहल्लक्षणा यथा।
 
@@ -3681,9 +3851,9 @@ P. R. Training College,
 
  अत्र[^76]
 
-नगराण्याक्रोशन्तीति
-
 [^76]: "अत्र is omitted in M."
+
+नगराण्याक्रोशन्तीति
 
 वाच्यस्यानन्वयः।
 
@@ -3701,6 +3871,8 @@ P. R. Training College,
 स्फुरद्रत्नप्रभाजालैरलंकुर्वन्ति मौलयः॥९॥
 
 ——————————————————————————————————————————————
+
+ 
 
 यद्यंपि स्वार्थे प्रत्याय्योपरतव्यापारस्य शब्दस्य पुनर्व्यापारान्तरायोगादर्थ एव लक्षक इत्यर्थव्यापारो लक्षणा तथापि वाच्यधर्मो वाचक उपचर्यत इति लक्षणायाः शब्दवृत्तित्वव्यवहार इति विज्ञेयम्। अत्र
 
@@ -3764,8 +3936,6 @@ P. R. Training College,
 
 अत्र[^75]कुरङ्गस्य
 
-[^75]: "तत्र "
-
 वराहात्मकत्वं प्रतीयते। अत्र विषयविषयिणौ विविञ्चन्नारोपं दर्शयति। अत्रेति॥
 
  अत्र
@@ -3778,6 +3948,8 @@ P. R. Training College,
 
 विषयविषयिणोरभिहितयोरभेदप्रतिपत्तिरारोपः।  
 विषयनिगरणेनाभेदप्रतिपत्तिरध्यवसायः।
+
+ 
 
 साध्यवसानलक्षणा यथा।
 
@@ -3835,9 +4007,9 @@ P. R. Training College,
 
  अत्र[^84]
 
-वाहिनीसर्वतोमुखकबन्धशब्दा[^85]नामर्थप्रकरणादिना
-
 [^84]: "तत्र T."
+
+वाहिनीसर्वतोमुखकबन्धशब्दा[^85]नामर्थप्रकरणादिना
 
 [^85]: "शब्दादीनां युद्धप्रकरणा M शब्दानां युद्धप्रकरणा T"
 
@@ -4073,6 +4245,8 @@ P. R. Training College,
 
 सात्वती वृत्तिरिष्यते॥१६॥
 
+ 
+
 तत्र
 
 अत्यन्तसुकुमारौ द्वौ शृङ्गारकरुणौ मतौ।  
@@ -4105,6 +4279,8 @@ P. R. Training College,
 निर्वाह्येते तत्र
 
 सात्वती।
+
+ 
 
 कैशिकी यथा।
 
@@ -4220,6 +4396,8 @@ P. R. Training College,
 
 ———————————————————————————————————————————
 
+ 
+
 सात्वतीमुदाहरति। दूरादिति। विश्वप्रसृमरमहसो विश्वव्यापितेजसः।
 
 **“सृघस्यदः क्वरच्"**। जैत्रयात्रारम्भभेरीझाङ्काराकर्णनेनैव कान्दिशीकानामरिभूपतीनां दूरत एव समरकथेति भावः। अत्र विकटबन्धपरुपवर्णसंदर्भेण भयानकप्रतिपादनात् सात्वती॥
@@ -4297,17 +4475,17 @@ P. R. Training College,
 
 गुणाश्लिष्ट[^115]
 
-प
-
 [^115]: "वर्णसंघटना M, M, M M"
+
+प
 
 दसंघटना मता।
 
   सा[^116]
 
-त्रिधा। वैदर्भी गौडी पाञ्चाली चेति।
-
 [^116]: "सा त्रिधा is omitted in M, M, M. M, M"
+
+त्रिधा। वैदर्भी गौडी पाञ्चाली चेति।
 
 ———————————————————————————————————————————————
 
@@ -4396,6 +4574,8 @@ P. R. Training College,
 
 प्रभवन्नान्ध्रभूपतिः॥३०॥
 
+ 
+
 यथा वा।
 
 उद्यद्दोःस्तम्भ
@@ -4438,6 +4618,8 @@ P. R. Training College,
 विशंकटतटी दीर्घा वियद्दीर्घिका  
 गाढं गूढतमा च गौतमनदी पातालगङ्गायते॥३२॥
 
+ 
+
 यथा च।  
 
 स्थाने तच्चलमर्त्तिगण्डनृपते त्वत्खङ्गभोगी द्विषत्-  
@@ -4448,6 +4630,8 @@ P. R. Training College,
 त्रिलोकभरितां त्वत्कीर्तिलक्ष्मीसुधाम्॥३३॥  
 
 ———————————————————————————————————————————————
+
+ 
 
 पाञ्चालीमाह।
 
@@ -4586,7 +4770,7 @@ P. R. Training College,
 
 मध्यप्रतीतेरनेकविधत्वात् तदनुसारेण कदलीरसालादिपाकाः स्वयमूह्या इत्याह। एवमिति॥
 
-![](../books_images/U-IMG-1735310522Screenshot2024-12-27201135.png)
+<MISSING_FIG href="../books_images/U-IMG-1735310522Screenshot2024-12-27201135.png"/>
 
 **अथ काव्यविशेषाः।**
 
@@ -5112,6 +5296,8 @@ P. R. Training College,
 
 ———————————————————————————————————————————————
 
+  
+
 दृष्ट्वेति। अत्र कीर्त्ती शंभुप्रभृतीनां निवासाकाङ्क्षादिलक्षणेन वस्तुना तेषां यथाक्रमं कैलासक्षीरोदम-न्दाकिनीचन्द्राभ्रमातङ्गभ्रान्तिरूपो भ्रान्तिमदलंकारो व्यज्यते। तदेतदाह। अत्र हरस्येति। अत्र व्यङ्ग्यस्य प्राधान्येनालंकार्यत्वेऽपिब्राह्मणश्रमणन्यायेन प्रत्यभिज्ञानबलादलंकारव्यपदेशो न विरुध्यते। एवमन्यत्राप्यलंकारध्वनौ वेदितव्यम्॥
 
   **प्रतापेति**। कषायितस्यारुणीकृतस्य। अत्र कृपाणस्य चण्डिकाकटाक्षविजृम्भितालम्बनासंभवाद्विजृम्भि-तानीव विजृम्भितानीति सादृश्याक्षेपादसंभवद्वस्तुसंबन्धरूपो निदर्शनालंकारः॥
@@ -5410,9 +5596,9 @@ P. R. Training College,
 एष सत्यं राजा श्यामा खलु त्वं समागमो द्वयोः।  
 किं पुनर्न प्रदोषकथा दृश्यत एतत्खल्वाश्चर्यम्।'[^325]
 
-  एसो इति। नायिकां प्रति सखीवाक्यमेतत्। समागम इति। युज्यते इति शेषः। प्रदोषो दोषः[^326] कालविशेषश्च। अत्र श्यामाराजशब्दवाच्ययोः कान्तानृपयोः प्रकृतयोरप्रकृतनिशाचन्द्राभेदाध्यवसायेन प्राप्तस्य प्रदोषस्य कालविशेषलक्षणस्य प्रतिषेधेन विरोधः प्रतीयते। तद्द्योतकमाश्चर्यपदम्[^327]। परिहारस्तु दोषनिषेधादिति विरोधाभासोऽलंकारः। व्यङ्ग्यं विविनक्ति। अत्रेति। अनेकार्थपदगुम्फनमहिम्ना कवेरर्थान्तरं विवक्षितमेव प्रतीयते। तस्यासंबन्धत्वपरिहाराय प्रकृतेनौपम्यं कल्पनीयम्। तेन व्यङ्ग्यस्योपमालंकारस्य श्लिष्टशब्दान्वयव्यतिरेकानुविधायित्वाच्छन्दशक्तिमूलत्वमिति भावः॥——————————————————————————————————————
-
 [^325]: " This छाया is omittedin T and, p; m. gives it after एसो इति।"
+
+  एसो इति। नायिकां प्रति सखीवाक्यमेतत्। समागम इति। युज्यते इति शेषः। प्रदोषो दोषः[^326] कालविशेषश्च। अत्र श्यामाराजशब्दवाच्ययोः कान्तानृपयोः प्रकृतयोरप्रकृतनिशाचन्द्राभेदाध्यवसायेन प्राप्तस्य प्रदोषस्य कालविशेषलक्षणस्य प्रतिषेधेन विरोधः प्रतीयते। तद्द्योतकमाश्चर्यपदम्[^327]। परिहारस्तु दोषनिषेधादिति विरोधाभासोऽलंकारः। व्यङ्ग्यं विविनक्ति। अत्रेति। अनेकार्थपदगुम्फनमहिम्ना कवेरर्थान्तरं विवक्षितमेव प्रतीयते। तस्यासंबन्धत्वपरिहाराय प्रकृतेनौपम्यं कल्पनीयम्। तेन व्यङ्ग्यस्योपमालंकारस्य श्लिष्टशब्दान्वयव्यतिरेकानुविधायित्वाच्छन्दशक्तिमूलत्वमिति भावः॥——————————————————————————————————————
 
 [^326]: "प्रकृष्टो दोषः m2•"
 
@@ -5420,10 +5606,10 @@ P. R. Training College,
 
 छाया[^328]
 
+[^328]: " M. has नित्यं राजा in छाया."
+
 एष सत्यं राजा श्यामा खलु त्वं समागमो द्वयोः।  
 किं पुनर्न प्रदोषकथा दृश्यते एतत्खल्वाश्चर्यम्॥
-
-[^328]: " M. has नित्यं राजा in छाया."
 
 **कान्तारवाससंतप्ताः संशृणुध्वं हितादितः[^329]।  
 कुरुध्वमधुना राजपादसेवां नरेश्वराः॥५८॥**
@@ -5449,11 +5635,11 @@ P. R. Training College,
 
  अत्र[^335] क्ष्माभृतो निजपक्षविजृम्भितं मुञ्चन्तु[^334] जिष्णुरेष इत्यत्र शब्दशक्तिमूलता। भुजस्तम्भजृम्भमाणाद्भुतायुध इत्यत्रार्थशक्तिमूलता॥
 
-[^334]: " मुञ्चत M1."
-
 [^335]: "७ अत्र जिष्णुरित्यत्र M4."
 
 ———————————————————————————————————————————————
+
+ 
 
 **कान्तारेति**। हितादाप्तादितोऽस्मान् मत्त इत्यर्थः। संशृणुध्वमित्यत्र[^337] कर्मणो हितोपदेशस्या-विवक्षितत्वादकर्मकत्वम्। तदुक्तम्—
 
@@ -5489,10 +5675,10 @@ P. R. Training College,
 
 तथा चोक्तं काव्यप्रकाशे[^344]
 
+[^344]: " काव्यप्रकाशे is omitted in M2."
+
 **'अगूढमपरस्याङ्गं वाच्यसिद्धयङ्गमस्फुटम्।**  
 **संदिग्धतुल्यप्राधान्ये काक्वाक्षिप्तमसुन्दरम्॥'**
-
-[^344]: " काव्यप्रकाशे is omitted in M2."
 
 इति। कामिनीकुचकलशवद्गूढ[^345]स्यैव चमत्कारित्वाद[^346]गूढव्यङ्ग्यं[^347] मध्यमं काव्यम्। यथा
 
@@ -5691,9 +5877,9 @@ P. R. Training College,
 एकशिलामहिलानां श्रुत्वा नरेन्द्रदर्शनामोदम्।  
 गुरुजननियन्त्रिताया वध्वाः श्यामलं वदनम्॥'[^398]
 
-अत्र गुरुजनपराधीना क्वाचिदेकशिलामहिलानां नरेन्द्रसंदर्शनसंतोषमहालाभंश्रुत्वा[^399] मलिनमुखाभूदिति वाच्यस्यातिचारुत्वादात्मनस्तदलाभरूपस्य व्यङ्ग्यस्यासुन्दरत्वमित्याह। अत्र **नरेन्द्रेति**॥
-
 [^398]: "The छाया is not given in p. and T."
+
+अत्र गुरुजनपराधीना क्वाचिदेकशिलामहिलानां नरेन्द्रसंदर्शनसंतोषमहालाभंश्रुत्वा[^399] मलिनमुखाभूदिति वाच्यस्यातिचारुत्वादात्मनस्तदलाभरूपस्य व्यङ्ग्यस्यासुन्दरत्वमित्याह। अत्र **नरेन्द्रेति**॥
 
 [^399]: "  दृष्ट्वा M2"
 
@@ -5736,10 +5922,10 @@ P. R. Training College,
 प्रियसखि कथयाधिका क्षोणी लक्ष्मीः सरस्वती मत्तः।  
 यां बहु मन्यते स नरनाथो गुणविशेषज्ञः॥[^408]
 
+[^408]: " This छाया is omitted in P. T."
+
   'मइमममहमज्झङसौ ' इति पञ्चम्येकवचनेऽस्मदो मज्झादेशः। 'ङसेर्लुक् ' इति वैकल्पिको लुक्। शित्त्वत् पूर्वस्य दीर्घः। अत्राधिक्यनिषेधस्य वाचकाभावात् केवलवाच्यसामर्थ्यलभ्यत्वेन[^409] व्यङ्ग्यत्वम्। तस्य च काकुसंस्पर्शाद्[^410]गूढत्वकृतचारुत्वातिशयभङ्गेन गुणीभूतत्वमेव। तदेतत् सर्वंमनसि निधायाह।  
 अत्रेति।
-
-[^408]: " This छाया is omitted in P. T."
 
 [^409]: "लम्पव्यङ्ग्यत्वम् t."
 
@@ -5747,7 +5933,7 @@ P. R. Training College,
 
   अधमकाव्यप्रपञ्चोऽलंकारप्रकरणे भविष्यतीत्याह। **चित्रं त्विति**॥
 
-![](../books_images/U-IMG-1734333466Screenshot2024-08-30212323.png)
+<MISSING_FIG href="../books_images/U-IMG-1734333466Screenshot2024-08-30212323.png"/>
 
 —————————————————————————————————————————————
 
@@ -5801,6 +5987,8 @@ P. R. Training College,
 [^420]: "सारसाख्यायिका मता P."
 
 ———————————————————————————————————————————————
+
+  
 
 पूर्वं प्रबन्धानां ध्वन्याश्रयत्वमुक्तं तत्स्वरूपस्य लक्षणमन्तरेण दुर्ज्ञेयत्वात्[^421]तन्निरूपणं प्रतिजानीते। अथेति। तत्र महाकाव्यलक्षणमाह। नगरेत्यादिना। एतञ्चसर्गनिबन्धचतुर्वर्गफलचतुरोदात्तनायकत्वादीनामुपलक्षणम्। तत्प्रपञ्चस्तु काव्यादर्शे द्रष्टव्यः। चम्पूकाव्यं दमयन्त्यादि। आख्यायिका नाम गद्यकाव्यविशेषः। तल्लक्षणमाह। **वक्त्रमिति**। उच्छ्वासः सर्गादिरिव परिच्छेदभेदः।
 
@@ -5901,6 +6089,8 @@ P. R. Training College,
 
 ————————————————————————————————————————————————
 
+   
+
 तारावलीमाह। **ताराणामिति**। संख्यया सप्तविंशत्येत्यर्थः॥
 
  नन्वन्येऽपि चतुरुत्तरचतुर्भद्रादिचाटुप्रबन्धाः किमिति म लक्ष्यन्ते इत्यत्राह। एवमिति। उदाहरणानुक्तौ हेतुमाह। अथेति।
@@ -5917,7 +6107,7 @@ P. R. Training College,
 
 [^444]: "m1has समासंafter प्रकरणम्"
 
-![](../books_images/U-IMG-1734289008Screenshot2024-12-03080725.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1734289008Screenshot2024-12-03080725.jpg"/>
 
 **अथ[^445] नाट्यप्रधानाः[^446] प्रबन्धा निरूप्यन्ते।**
 
@@ -6125,11 +6315,13 @@ P. R. Training College,
 'एककार्यान्वितेष्वत्र कथांशेषु प्रयोगतः।  
 अवान्तरैककार्यस्य संबन्धः संधिरिष्यते॥'
 
-इति। अथावस्यार्थप्रकृतिसंबन्धे मुखादिसंधयो जायन्त इत्याह। तत्रेति[^498]। अत्र संमतिमाह। अर्थेति। अर्थप्रकृतयः प्रयोजनसिद्धिहेतव इति केचित्। कथाशरीरकारणानीति **भोजराजादयः[^499]**। तद्विशेषाः पूर्वोक्ता [बीजादयः]("बीजे॰ P., T.") पञ्च। फलसिद्धये स्वीक्रियमाणस्य नायकव्यापाररूपस्योपायस्य पूर्वोक्ता आरम्भादयः पञ्चावस्था भवन्ति। तदुक्तम्।
+इति। अथावस्यार्थप्रकृतिसंबन्धे मुखादिसंधयो जायन्त इत्याह। तत्रेति[^498]। अत्र संमतिमाह। अर्थेति। अर्थप्रकृतयः प्रयोजनसिद्धिहेतव इति केचित्। कथाशरीरकारणानीति **भोजराजादयः[^499]**। तद्विशेषाः पूर्वोक्ता बीजादयः[^3546] पञ्च। फलसिद्धये स्वीक्रियमाणस्य नायकव्यापाररूपस्योपायस्य पूर्वोक्ता आरम्भादयः पञ्चावस्था भवन्ति। तदुक्तम्।
 
 [^498]: "अत्रेति m. "
 
 [^499]: "९ भोजादयः-"
+
+[^3546]: "बीजे॰ P., T."
 
 विमर्शसंधिः। फलागमकार्यसंबन्धो[^500] निर्वहणसंधिः। तथा चोक्तं[^501]दशरूपके।
 
@@ -6426,9 +6618,9 @@ P. R. Training College,
 
  फेलाप्तिकार्यानुगुण्येन निर्वहणसंधेरङ्गानि चतुर्दश प्रतिपादनीयानि।[^566]
 
-——————————————————————————————————————
-
 [^566]: "M. has एतेषां स्वरूपं निरूप्यते for फलाप्ति-प्रतिपादनीयानि "
+
+——————————————————————————————————————
 
  अथ साङ्गं[^567] निर्वहणसंधिमाह। वीजवन्त इति। संसर्गे मतुप्। बीजयुक्ता इत्यर्थः। यथायथं यथास्वं विप्रकीर्णा निजस्थानेषूपन्यस्ता इत्यर्थः। एको मुख्योऽर्थः प्रयोजनं येषां तेषां भावस्तत्त्वम्। यत्र बीजयुक्ता मुखसंध्याद्यर्थाः परमप्रयोजन[^568]संबन्धं लभन्ते स निर्वहणसंधिरित्यर्थः। अत्रोपक्षेपादिषु यत्र क्वचन कार्यकारणभावसद्भावस्तत्रैव क्रमोऽङ्गीकर्त्तव्यो न त्वन्यत्र। वस्तुस्वरूपविचारे क्रमाङ्गीकारे कारणाभावाल्लक्ष्येषु व्युत्क्रमदर्शनाच्च। तदुक्तम्।
 
@@ -6519,8 +6711,6 @@ P. R. Training College,
 
 इति। त्रिपताकग्रहणं[^591] पताकस्याप्युपलक्षणार्थम्[^508]। तदुक्तं तद्वेदिभिः।
 
-[^508]: " ॰लक्षणम् P."
-
 [^591]: "त्रिपताका॰ P."
 
 ‘त्रिपताकः पताकश्च गण्डश्रोत्रं गतः करः।  
@@ -6600,8 +6790,6 @@ P. R. Training College,
 
 वृत्तवर्त्तिष्यमाणानां कथांशानां निदर्शकः[^594]।  
 प्रवेशकस्तु नाद्येऽङ्के[^610] नीचपात्रप्रयोजितः॥ २२॥
-
-[^594]: "प्रदर्शकः M1."
 
 [^610]: "नाद्यङ्के P. "
 
@@ -6781,7 +6969,7 @@ P. R. Training College,
 
 [^636]: "t. drops स्तोत्रं."
 
-पूर्वरङ्गे नटादिसल्लापोऽत्र[^637] तु साम्यादनेकार्थयोजनं त्रिगतम्। प्रियसदृशैर्वाक्यै[^638] ")रप्रियैर्विलोभनं[^639] छलम्[^640]। साकाङ्क्षस्यापि वाक्यस्य निवर्त्तनमुक्तिप्रयुक्ति[^641]र्वाक्केलिर्द्विधा[^642]। स्पर्धयान्योन्यवाक्याधिक्यमाधेबलम्। सहसोदितं प्रस्तुतविरोधि गण्डम्। रसवशादुक्तान्यथाव्याख्यानमवस्यन्दितम्[^643]। सोपहासनिगूढार्थ[^644]प्रहेलिका नालिका।[असंबन्धकंथाप्रायः](#)
+पूर्वरङ्गे नटादिसल्लापोऽत्र[^637] तु साम्यादनेकार्थयोजनं त्रिगतम्। प्रियसदृशैर्वाक्यै[^638] ")रप्रियैर्विलोभनं[^639] छलम्[^640]। साकाङ्क्षस्यापि वाक्यस्य निवर्त्तनमुक्तिप्रयुक्ति[^641]र्वाक्केलिर्द्विधा[^642]। स्पर्धयान्योन्यवाक्याधिक्यमाधेबलम्। सहसोदितं प्रस्तुतविरोधि गण्डम्। रसवशादुक्तान्यथाव्याख्यानमवस्यन्दितम्[^643]। सोपहासनिगूढार्थ[^644]प्रहेलिका नालिका।असंबन्धकंथाप्रायः[^3547]
 
 [^637]: " नटादिभिः साम्यादनेका॰ P; नटादिशब्दसाम्यादनेका॰ M."
 
@@ -6798,6 +6986,8 @@ P. R. Training College,
 [^643]: " ॰मवस्पन्दितम् P. M1; ॰मवस्कन्दितम् M. "
 
 [^644]: " ॰निग्द्यथां M., M2, M1, M4.. "
+
+[^3547]: #
 
 \-
 
@@ -6867,6 +7057,8 @@ P. R. Training College,
 
 बीरशृङ्गारयोरेकः प्रधानं यत्र वर्ण्यते।  
 प्रख्यातनायकोपेतं नाटकं तदुदाहृतम्‌॥ ३३॥
+
+ 
 
 तत्र नान्दीस्वरूपं[^656] निरूप्यते।
 
@@ -7683,10 +7875,10 @@ P. R. Training College,
 
 आर्ये[^813]
 
+[^813]: "P. omits आर्ये. "
+
 **त्वया दारैरुदारश्रीर्नाट्यसंपदियं मम।**  
 **प्रबन्धलक्ष्मीरीत्येव विदर्भभणितिस्पृशा॥१४॥**
-
-[^813]: "P. omits आर्ये. "
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
@@ -7912,9 +8104,9 @@ P. R. Training College,
 
  नटी—²अज्जो अणंतरकरणिज्जं णिरूवेदु[^853]
 
-————————————————————————————————————
-
 [^853]: "णिरूपेदु P. "
+
+————————————————————————————————————
 
  विशेषान्तराणि तत्रैव द्रष्टव्यानि। विस्तरभयादत्र न लिख्यन्ते।
 
@@ -8302,10 +8494,10 @@ P. R. Training College,
 
 ** अथ च**[^930]
 
+[^930]: "अपि च M1."
+
 **विभुः स्वयंभूरवदच्छुचिस्मितां**  
 **गिरं स्ववामार्धवधूपलालिताम्।**
-
-[^930]: "अपि च M1."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
@@ -8337,12 +8529,12 @@ P. R. Training College,
 
  यत् किल[^934]
 
+[^934]: "तत् किल M2"
+
 **उन्मस्तकैर्मध्यमलोकभाग्यै-**  
 **स्तपोविशेषैरनघैः पृथिव्याः[^935]।**  
 **सम्यक्फलैः सच्चरितैः प्रजानां**  
 **प्रतापरुद्रोऽयमिहावतीर्णः॥२८॥**
-
-[^934]: "तत् किल M2"
 
 [^935]: "पृथिव्याम् M. "
 
@@ -8532,12 +8724,12 @@ P. R. Training College,
 
 सुखाय माध्यन्दिनी संध्या भवतु देवस्य। यदिदानीं[^969]
 
+[^969]: "T omics यदिदानीम्, "
+
 **लोकालोकगिरीन्द्रकन्दरतमःसंदोहदर्पापहं**  
 **त्वत्तेजःपटलं कियन्ति भुवनान्याक्रम्य संक्रीडते।**  
 **इत्यालोकनकौतुकीव शिथिलस्वीयाधिकारश्रमो[^970]**  
 **भास्वानेष समग्रदीप्तिरधुना व्योमाग्रमारोहति॥३०॥**
-
-[^969]: "T omics यदिदानीम्, "
 
 [^970]: "क्रमो M."
 
@@ -9105,8 +9297,6 @@ P. R. Training College,
 
  प्रताप०[^1043]—
 
-[^1043]: "रुद्र M. "
-
 यथाभिरुचितममात्येभ्यः। (इति गन्धगजाभिरोहणं नाटयति)।
 
  मन्त्रिणः—
@@ -9492,11 +9682,13 @@ P. R. Training College,
 
  परि०—
 
-¹विअअलच्छीपाणिग्गहणसमअदिण्णा विअ[^1159] मङ्गलख्खदा [जुवराअस्स](#) सीसे दीसंदि[^1160]।
+¹विअअलच्छीपाणिग्गहणसमअदिण्णा विअ[^1159] मङ्गलख्खदा जुवराअस्स[^3548] सीसे दीसंदि[^1160]।
 
 [^1159]: "इविअ M. "
 
 [^1160]: "दीसन्ति R., M. "
+
+[^3548]: #
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10050,6 +10242,8 @@ P. R. Training College,
 
 [^1278]: "°स्तम्भा स्फुरत्° M. "
 
+ 
+
 तत्र च
 
 मुनौ लोपामुद्रासुहृदि निकटस्थेऽपि महता  
@@ -10193,8 +10387,6 @@ P. R. Training College,
 यात्याक्षीत्सुरभूयकारणनिजाहंकारमुच्छ्रङ्खलम्।  
 आराद्वीक्ष्य समग्रमन्ध्र[^1179]सुभटप्रोद्घूर्णखड्गावली-  
 धारातीर्थमुपेत्य दिव्यनगरीमारोहतो भूपतीन्॥१५॥
-
-[^1179]: "°मान्ध्र° M. "
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10461,8 +10653,6 @@ P. R. Training College,
 
  धात्री—(सरोषम्) ¹हंजे एआरिससहस्स[^1365]कज्जपज्जाउले[^1366] राअडले[^1367] महूसवे वि सअला वि रअणी केण समं तुए णीदा[^1368]। ईरिसमहग्धाई[^1369]ं भूसणा[^1370]ईं[^1371]कुदो[^1372] चोरिआई[^1373]ं। कहं ण जाणिअं[^1374] तुए दासीए[^1375] उत्तीए[^1376]। सअला दिसो[^1377] जऊण चउरंतसामंत[^1378]परिवारो पआवरुद्दो णअरं पविठ्ठो। कुलदेवदाए पसत्तीए महाराअस्स अण्णाए[^1379] पुरोहिदाणं अणुरोहेण अमच्चाणं अणुवट्टणेण[^1380] पआणं भाअहेएण[^1381] खोणीए तवो[^1382]विसेसेण अम्हारिसस्स परिअणस्स सुकअपरिपाएण[^1383] अभ्भुपगअमहारज्जाहिसेओ[^1384] जुवराओ[^1008] संजाओ[^1386]। एव्वं वि एआइणीं[^1387] मं महूसवा[^1388]उलिअं मोत्तूण[^1389] कहं[^1390] ठिदा[^1391]।
 
-[^1008]: "जुवराअ P. "
-
 [^1365]: "°कज्जसइस्स° M. "
 
 [^1366]: "°पज्जाउलराअउलमहू° T' "
@@ -10632,9 +10822,9 @@ P. R. Training College,
 
  चेटी—³सामिणि सहेहि विलंबिअं। तुए कादव्वं मंगलोवआरं[^1426]
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 [^1426]: "मंगलप्पआरं P."
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 भवतीमनुवर्त्तितुमहं न पर्याप्ता। वक्रशीलदुर्ललिते लूनकर्णनासां त्वां बध्वा कारागृहभाजनं करोमि। स्वामिनि रक्ष रक्ष अशरणं निरपराधमिमं जनम्। तव अत्तिकया ज्येष्ठभगिन्या। 'अत्तिका भगिनी ज्येष्ठा' **इत्यमरः**। हिडिम्बाश्रमं गच्छन्त्याहं बलात्कारेण नीता। तत्र प्रतिकूलं दैवं प्रसादयन्त्या विलम्बितं किं करोमि। एतादृशं राजकुलमहोत्सवमुज्झित्वा हिडिम्बालयगण्डशैलेषु किमिति मस्तकं ताढ्यते मन्दभागिन्या। स्वामिनि सहस्व सहस्व विलम्बितं त्वया कर्त्तव्यं मङ्गलोपचारं शीघ्रं निवर्त्तयामि। हञ्जेउत्तिष्ठ उत्तिष्ठ।
 
@@ -10833,22 +11023,16 @@ P. R. Training College,
 
 (ततः प्रविशति यथानिर्दिष्टः प्रतापरुद्रः पुरोधसो मन्त्रिणश्च)
 
- पुरो०—काकतीयकुलतिलक युवराजेन भवता लीलयैव दिशो दश विजिताः [सत्यममी](#) सम्य[^1478]गद्य सत्याशिषो वयम्। किं[^736] च
-
-[^736]: "Dropped in M."
+ पुरो०—काकतीयकुलतिलक युवराजेन भवता लीलयैव दिशो दश विजिताः सत्यममी[^3549] सम्य[^1478]गद्य सत्याशिषो वयम्। किं[^736] च
 
 [^1478]: "सत्यमित्यमी सम्य° T'."
+
+[^3549]: #
 
 अद्यान्वयः[^1480] काकतिभूपतीनां  
 प्राप्तस्त्रिलोकीप्रथितां प्रतिष्ठाम्[^1481]।  
 राजन्वती भूरियमद्य जाता  
 वीतोपसर्गाः[^1482] सकलाः प्रजाश्च॥३॥
-
-[^1480]: "किं चा° M. "
-
-[^1481]: "°प्रथितप्रतिष्ठाम् M."
-
-[^1482]: "विलोपसर्गाः T’. "
 
  एषा सिद्धवद्भाविश्रेयःकथनात् प्ररोचना।
 
@@ -11105,8 +11289,6 @@ P. R. Training College,
 [^1531]: "महास्थान्यामनु° M1., P."
 
  प्रताप०—शिरसि धृतैव[^1532] खलु[^1029] तातस्या[^1534]ज्ञा। किं तु नोपदिश्यते पुनरनन्तरकरणीयम्।
-
-[^1029]: "P. drops खलु. "
 
 [^1532]: "कृतैव M. "
 
@@ -11657,7 +11839,7 @@ P. R. Training College,
 
 (राजा यथोचितं वन्दते)
 
- मन्त्रिणः—साधीयान् श्रीमतो वन्दनक्रमः[^1655](इति सर्वानुपवेशयन्ति)
+ मन्त्रिणः—साधीयान् श्रीमतो वन्दनक्रमः[^1655] (इति सर्वानुपवेशयन्ति)
 
 [^1655]: "साधीयानाशीर्वादक्रमः R., T'."
 
@@ -13480,8 +13662,6 @@ P. R. Training College,
 **को[^1967] संसओ[^1968] महिअले चंदो[^1969] एव्व[^1970] वीररुद्दणरणाहो।  
 जस्स करप्पस्सादो अंगाइ[^1931] मिअंकरण्णंति[^1972]॥४७॥**
 
-[^1931]: "अंगाई P."
-
 [^1967]: "छाया।  1 कः संशयो महीतले चन्द्र एव वीररुद्रनरनाथः। यस्य करस्पर्शादङ्गानि मृगाङ्करन्ति॥"
 
 [^1968]: "संशओ M."
@@ -13717,8 +13897,6 @@ P. R. Training College,
 
 सुव्यक्तविक्रियो भावो हेलेति प्रतिपाद्यते[^1995]।
 
-[^1995]: "परिकीर्त्त्यते R."
-
  यथा।
 
 **मा[^2018] होदु कस्स वि फ्फुडं[^2019] इइ मुध्ये कुणोसि[^2020] वल्लहं हिअए[^2021]।  
@@ -13894,11 +14072,7 @@ P. R. Training College,
 
  अथ किलकिञ्चितम्[^2007]।
 
-[^2007]: "किलचिन्तितम् P."
-
 रोषाश्रु[^2055]हर्षभीत्यादेः संकरः[^2056] किलकिञ्चितम्[^2007]।
-
-[^2007]: "किलचिन्तितम् P."
 
 [^2055]: "क्रोधाश्र॰ T."
 
@@ -13908,8 +14082,6 @@ P. R. Training College,
 
 ²गेह्वइ[^2058] णरणाहे[^2059] विअणंमि पडंचलं मिअछ्छीए।  
 वेवइ तणू विणच्चइ[^2060] भुउडी[^2061] अवि[^1970] गग्गआ वाआ[^2063]॥६०॥
-
-[^1970]: "विअ M."
 
 [^2058]: "गेह्णति P.; गह्णन्ते M."
 
@@ -16681,9 +16853,11 @@ P. R. Training College,
 
 **अथौर्जित्यम्।**
 
-** [और्जित्यं](#)गाढवन्धत्वम्[^2533]।**
+** और्जित्यं[^3550]गाढवन्धत्वम्[^2533]।**
 
 [^2533]: "गाढवन्धत्वमौर्जित्यम् M."
+
+[^3550]: #
 
 **यथा।**
 
@@ -16744,12 +16918,14 @@ P. R. Training College,
 
 **यथा।**
 
-**काकतीयनरेन्द्रस्य [यश](#)श्चन्दन[^2543]चर्चनम्[^2544]।  
+**काकतीयनरेन्द्रस्य यश[^3551]श्चन्दन[^2543]चर्चनम्[^2544]।  
 दिगङ्गना वितन्वन्ति वतंसीकृततद्गुणाः॥१६॥**
 
 [^2543]: "कोर्तिचन्दन°M."
 
 [^2544]: "°चर्चितम् M.; °चर्चिकाम् M;"
+
+[^3551]: #
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -16800,14 +16976,12 @@ P. R. Training College,
 
 ** यथा।**
 
-**अध्यधःपरिसं[श्लिष्टाः](#) ष्ठा[^2550]कृ[^2551]ञ्भूधातवः सदा।  
+**अध्यधःपरिसंश्लिष्टाः[^3551] ष्ठा[^2550]कृ[^2551]ञ्भूधातवः सदा।  
 वर्त्तन्ते काकतीयेन्द्रे कर्त्तर्यन्यत्र कर्मणि॥१९॥**
 
 [^2550]: "°श्लिष्टा ष्ठा° P."
 
 [^2551]: ".कृfor कृञ्P,;कृञिM2."
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   ध्वनिमत्त्वमुदाहरणे योजयति। **अत्र शङ्करस्ये**ति। **वंश** इति। भाग्यविवर्त्तोभाग्यपरिपाकः।
 
@@ -17108,6 +17282,7 @@ P. R. Training College,
 
  उपमानन्वयोपमेयोपमास्मरणानां भेदाभेदसाधारणसाधर्म्यमूलता। उत्प्रेक्षातिशयोक्ती अध्यवसायमूले।
 
+  
 विभावनाविशेषोक्तिविषम[^2606]चित्रा[^2607]संगत्यन्योन्यव्याघातातद्गुणभाविकविशेषाणां विरोधमूलता।
 
 [^2606]: "M. drops विषम."
@@ -17408,7 +17583,7 @@ P. R. Training College,
 
 **अष्टदलपद्मबन्धोऽयम्।**
 
-**![](../books_images/U-IMG-1734811352SYMBOL1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734811352SYMBOL1.png"/>**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -17458,7 +17633,7 @@ P. R. Training College,
 
 चक्रबन्धोऽयम्।
 
-![](../books_images/U-IMG-1734812903symbol2.png)
+<MISSING_FIG href="../books_images/U-IMG-1734812903symbol2.png"/>
 
  **नागबन्धो यथा।**
 
@@ -17486,7 +17661,7 @@ P. R. Training College,
 
 नागबन्धोऽयम्।
 
-![](../books_images/U-IMG-1734815582symbol3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1734815582symbol3.jpg"/>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -17528,12 +17703,14 @@ P. R. Training College,
 वेष्टनत्रितये वर्णाः समाप्तिस्तु गलाक्षरे॥७॥  
 एवमेतन्निधायान्तः संगृहीतं महात्मभिः॥
 
-विदिक्स्थले [कुण्डलितं](#) स्वमङ्गं[^2675]  
+विदिक्स्थले कुण्डलितं[^3553] स्वमङ्गं[^2675]  
 स्वेन त्रिरावेष्ट्य विभङ्गिभङ्गम्।  
 क्षिप्त्वा गले पुच्छमहेः स्थितस्य  
 पाठ्यः फणातः फणिबन्ध एषः॥८॥’ इति॥
 
 [^2675]: "कुण्डलित्यत्वमङ्गम् P."
+
+[^3553]: #
 
 इति पदवाक्यप्रमाणपारावारपारीणश्रीमहोपाध्यायकोलचलमल्लिनाथसूरिसूनुना विश्वजनीनविद्यस्य विद्वन्मणेः पेद्दयार्यस्यानुजेन कुमारस्वामिसोमपीथिना विरचिते प्रतापरुद्रीयव्याख्याने रत्नापणाख्याने शब्दालंकारनिरूपणं नाम सप्तमं प्रकरणम्॥
 
@@ -17545,8 +17722,6 @@ P. R. Training College,
 साम्यमन्येन वर्ण्यस्य वाच्यं चेदेकदोपमा॥
 
  यत्र स्वतः सिद्धेन स्वतो भिन्नेन सहृदयसंमतेनाप्रकृतेन सह प्रकृतस्य धर्मतः[^1315] सादृश्यमेकदा वाच्यं चेद् भवति तत्रोपमा। स्वतः सिद्धेनेत्यनेनोत्प्रेक्षाव्यावृत्तिः। उत्प्रेक्षायामप्रसिद्धस्याप्युपमानत्वसंभवात्
-
-[^1315]: "P. drops it."
 
  ^(२)यथा
 
@@ -17643,10 +17818,10 @@ P. R. Training College,
 
  एकदा साम्यमित्यनेन उपमेयोपमाव्यवच्छेदः। उपमेयोपमायामुपमानोपमेययोरनेकधा साम्यप्रतिपादनम्।[^2692]
 
+[^2692]: "R and T', omit उपमेयोपमायामु°—प्रतिपादनम्."
+
 धर्मोऽर्थ इव पूर्णश्रीरर्थो धर्म इव स्थितः।  
 कामस्ताविव तौ काम इव रुद्रनरेश्वरे॥६॥
-
-[^2692]: "R and T', omit उपमेयोपमायामु°—प्रतिपादनम्."
 
  अत्र धर्मोऽर्थ इव अर्थो धर्म इवेत्यनेकदा शब्दद्वयेन धर्मार्थकामानां सादृश्यं प्रतिपाद्यत इत्युपमेयोपमा।
 
@@ -17773,9 +17948,11 @@ P. R. Training College,
 उद्दामोद्यतविक्रमे कृतयुगे बाहौ ययातेर्यथा  
 त्रेतायां रघुनायकस्य महितख्यातौ भुजायां यथा।  
 दोर्दण्डे च युधिष्ठिरस्य विलसच्छौर्येयथा द्वापरे  
-[विस्रब्धाद्य](#)कलौतथैव रमते क्षोण्यन्ध्रभर्त्तुर्भुजे[^2718]॥१२॥
+विस्रब्धाद्य[^3554]कलौतथैव रमते क्षोण्यन्ध्रभर्त्तुर्भुजे[^2718]॥१२॥
 
 [^2718]: " भूभृद्भुजे P."
+
+[^3554]: #
 
 समासगा पूर्णा श्रौती यथा।
 
@@ -19491,8 +19668,6 @@ P. R. Training College,
 
 क्रिया जगत्सर्जनाधिकारः। विष्णुर्विरिञ्चिकथनमन्यथा करोति। मिथ्येति।अत्रालौकिकौन्नत्यादिगुणयुक्तमेनं ब्रह्मापि निर्मातुं न शक्नोतीति भावः। असंबन्धे संबन्धं योजयति। अत्रेति। पूर्ववदभेदाध्यवसाय इत्याह। शम्भुनेति[^704]।
 
-[^704]: "अत्रेति t."
-
  पञ्चमं भेदमुदाहरति। मातरिति। कामशरपीडामसहमानायाः कस्याश्चिन्मात्रा सह वचनम्। तस्य काकतीन्द्रस्य। अभूषणेऽपि भूषितवद्भासमान आकारो रूपं लावण्यं कान्तिविशेषः। अनयोर्लक्षणमुक्तम्। अमुष्य काकतीन्द्रस्य। कारणं पूर्वमपरं कार्यमिति सर्वत्र नियमः। कविप्रौढोक्त्या तद्विपर्ययोऽलंकार इत्याशयेनाह। अत्रेति।
 
 'अविरलबिलोलजलदः कुटजार्जुननीपसुरभिवनवातः।  
@@ -19886,8 +20061,6 @@ P. R. Training College,
 
 **¹बहुबल्लहो खु[^2030] राआ[^3087] सहि तस्स सिरिंमि[^3088]णिम्भरा[^3089]सत्ती।  
 णूणा[^3090] सिरिएवि तुमं[^3091] अप्पाणं किं णु[^3092] लहुएसि॥११०॥**
-
-[^2030]: "क्खु P."
 
 [^3087]: "राओ M. "
 
@@ -20634,8 +20807,6 @@ P. R. Training College,
 
  **अत्र कीर्त्तीनां द्विषदङ्गनानां च प्राकरणिकत्वम्। पाण्डुरतां[^3210] भजन्त इति समानधर्मः।**
 
-[^3210]: "पाण्डरताम् M."
-
 ** अप्राकरणिकानां यथा।———————————————————————————————————————————————————————**  
 शस ओदादेशः। अत्र श्लाघ्ययोः लक्ष्मीसरस्वत्योर्योगः। अश्लाध्ययोस्तु 'धात्रा निम्बफलास्वादे काकलोको हि कल्पितः' इत्यादौ द्रष्टव्यः।
 
@@ -20999,6 +21170,8 @@ P. R. Training College,
 
  **अत्र पूजाविषयतया हरिहरयोः प्राकरणिकत्वम्।**
 
+ 
+
 अप्राकरणिकयोर्यथा।
 
 **सदृशः काकतीन्द्रोऽयं महाकुलमहीभृताम्।  
@@ -21130,11 +21303,13 @@ P. R. Training College,
 [^3302]: "प्रातिपक्ष्येणावलम्बनीयः P."
 
 **
-समानार्थतयाऽनिष्टविध्याभासोऽप्याक्षेप[^3303][इ](#)त्यभ्युपगम्यते[^3304]।**
+समानार्थतयाऽनिष्टविध्याभासोऽप्याक्षेप[^3303]इ[^3555]त्यभ्युपगम्यते[^3304]।**
 
 [^3303]: "समर्थतया R."
 
 [^3304]: "इत्युपगम्यते P. "
+
+[^3555]: #
 
 ** यथा चेष्टनिषेधस्यानुपपद्यमानतयाभासत्वं तथानिष्टविधेरप्यनुपपद्यमानतयाभासत्वम्।  
  यथा।**
@@ -21375,6 +21550,8 @@ P. R. Training College,
 
  **अत्र फलरूपेणौन्नत्येन नम्रत्वकारणं समर्थितम्।**
 
+ 
+
 सामान्याद्विशेषसमर्थनं यथा।
 
 **उद्वेजिता रुद्रनरेश्वरस्य  
@@ -21385,6 +21562,8 @@ P. R. Training College,
  **अत्र भीतस्य सर्वे भयकारीति सामान्यमचेतनेभ्यो रिपुमूपा[^3350] विभ्यतीति विशेषं समर्थयति।**
 
 [^3350]: "रिपुमूपाला M. "
+
+ 
 
 विशेषात् सामान्यसमर्थनं यथा।
 
@@ -21579,8 +21758,6 @@ P. R. Training College,
 
 **किं[^3372] पु धणं कुलविज्जाको लाहो सज्जणेण सहवासो।  
 का णअरी एअशिला को राआ[^3087] वीररुद्दणरणाहो॥१८७॥**
-
-[^3087]: "राओ M. "
 
 [^3372]: "किं तुं धर्म कुलविद्या को लाभः सज्जनेन सहवासः। का नगरी एकशिला को राजा वीररुदनरनाथः॥"
 
@@ -22035,6 +22212,7 @@ P. R. Training College,
 दत्त्वा भूषां किरातेभ्यो लभन्ते वल्कलादिकम्॥२०५॥**
 
 ——————————————————————————————————————  
+ 
 
 समृद्धिकार्यत्वात् विनिमयस्य तद्रूपां परिवृत्तिमुदात्तानन्तरं निरूपयति। अथेति। समानन्यायात्[^3449] लेाकव्यवहाररूपात्। समेति। किंचित् दत्त्वा कस्यचिदादानं विनिमयः। समस्य समेन न्यूनस्याधिकेनाधिकस्य न्यूनेन विनिमय इति त्रेधा परिवृत्तिः। समेन समपरिवृत्तिमुदाहरति। सुधेति। अतः काकतीन्द्रात्। गन्धसिन्धुरान् गन्धगजान्। लक्षणमुत्त्कंनाटकप्रकरणे।
 
@@ -22167,10 +22345,10 @@ P. R. Training College,
 तिलतण्डुलसंश्लेषन्यायाद्यत्र परस्परम्।  
 संश्लिष्येयुरलंकाराः सा संसृष्टिर्निरूप्यते॥[^3462]
 
+[^3462]: "°निगद्यते P. "
+
  **यत्र तिलतण्डुलन्यायेन परस्परसंबद्धा[^3463] रूपकादयो भवन्ति सा संसृष्टिः। सा त्रिविधा। शब्दालंकारगतत्वेनार्थालंकारगतत्वेनोभयालंकारगतत्वेन च।**  
 —————————————————————————————————————————————————
-
-[^3462]: "°निगद्यते P. "
 
 [^3463]: "परस्परम् R."
 
@@ -22281,8 +22459,6 @@ P. R. Training College,
 **प्रतापरुद्रनृपतेः[^3474] पारिजातात् समुद्भवाः।  
 वतंसयन्ति दिङ्नार्यो मधुरा कीर्त्तिमञ्जरीः॥२९८॥**
 
-[^3474]: "°नृपतिपारिजातसमु° M."
-
 ——————————————————————————————————————————————
 
 विजितारिपुर इत्यत्र शब्दपरिवृत्तिसहिष्णुत्वादर्थसाम्यम्। विलसत्सर्वमङ्गल इत्यत्र तदभावाच्छब्दस्वाम्यम्। तावुपमाश्लेषावेकस्मिन्निवशब्देऽनुप्रविष्टौ। तस्योभयोपकारित्वादिति भावः।
@@ -22341,7 +22517,7 @@ P. R. Training College,
 
 प्रतापरुद्रीयव्याख्या रत्नशाणः।
 
-![](../books_images/U-IMG-1735033744Screenshot2024-12-24151837999897999.png)
+<MISSING_FIG href="../books_images/U-IMG-1735033744Screenshot2024-12-24151837999897999.png"/>
 
 वन्दे हयग्रीवमहं वलक्षं  
 यत्रावटुस्योच्चसटामिषेण।  
@@ -22571,7 +22747,7 @@ P. R. Training College,
 
 **अथ काव्यप्रकरणम्।**
 
-**![](../books_images/U-IMG-1735110403Screenshot2024-12-24151837999897999.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735110403Screenshot2024-12-24151837999897999.png"/>**
 
  अथ काव्यप्रकरणं व्याख्यायते। अथेति। अथ नायकस्वरूपनिरूपणानन्तरं काव्यस्य कविकर्मणः शब्दार्थसंदर्भरूपस्य स्वरूपं निरूप्यते। लक्षणोदाहरणाभ्यां स्पष्टीक्रियते। काव्यलक्षणमाह। गुणेति। गुणैः प्रसादादिभिरलंकारैरुपमादिभिः सहितौ दोषवर्जितौ शब्दार्थौदोषरहितौशब्दार्थौ कर्म काव्यविदो विद्वांसः काव्यं विदुः। तदिति शेषः। तत् काव्यं गद्यपद्योभयमयम्। गद्यमयं पद्यमयमुभयमयं गद्यपद्यात्मकं चेत्यन्वयः। एककारिकायां काव्यसामान्यविशेषलक्षणसद्भावात्। तत्र सामान्यलक्षणं ग्रन्थरूपेण व्याख्यात्यदोषादित्यादिना।
 
@@ -23103,7 +23279,7 @@ N
 
  The following tree represents the sixteen divisions of नायिका. These sixteen varieties are each sub-divided in eight snb-varieties, according as they are स्वाधीनपतिका, वाससज्जिता, विरत्कण्ठिता, विप्रलब्धा, खण्डिता, कलहान्तरिता, प्रोषितभर्तृका अभिसारिका. Thus there are eight times sixteen or one hundred and twenty-eight varieties, each of which is again sub-divide into उत्तम, मध्यम and अबम, making up altogether 384 varietie
 
-![](../books_images/U-IMG-173487203622.png)
+<MISSING_FIG href="../books_images/U-IMG-173487203622.png"/>
 
  The following definitions show the characteristics of मध्या धीरा and other sub-varieties:—
 
@@ -25007,7 +25183,7 @@ in a secondary sense be called शब्दगुण's. Letters, words and const
 
  The following are the divisions of Upamâaccording to Vidyânâtha:—
 
-![](../books_images/U-IMG-173523481123.png)
+<MISSING_FIG href="../books_images/U-IMG-173523481123.png"/>
 
  **३५७इवेन सह नित्यसमासः**—According to Udyotakâra the insertion of नित्यin the Vârtika is an interpolation. *Vide* my notes on the Ekavali p. 539.
 
@@ -25017,7 +25193,7 @@ in a secondary sense be called शब्दगुण's. Letters, words and const
 
  **३७१ आरोपविषयस्य**—The following tree shews the divisions of Rūpaka according to Vidyânâtha:—
 
-![](../books_images/U-IMG-173523689825.png)  
+<MISSING_FIG href="../books_images/U-IMG-173523689825.png"/>  
 
  **३७७आरोप्यमाणº &e**.—On the Parinâma Alaṅkâra the reader is referred to my full notes on it in my edition of the Ekávali pp. 452-456 and PP- 558-560.
 
@@ -25027,7 +25203,7 @@ in a secondary sense be called शब्दगुण's. Letters, words and const
 
  The following are the divisions of Upamá according toVidyânâtha :—
 
-![](../books_images/U-IMG-1733493963Screenshot2024-12-06193545.png)
+<MISSING_FIG href="../books_images/U-IMG-1733493963Screenshot2024-12-06193545.png"/>
 
  ३५७ इवेन सह नित्यसमासः— According to Udyotakâra the insertion of नित्य in the Vârtika is an interpolation. *Vide* mynotes on the Ekâvalîp. 589.
 
@@ -25037,7 +25213,7 @@ in a secondary sense be called शब्दगुण's. Letters, words and const
 
  ३७१ आरोपविषयस्य—The following tree shews the divisionsof Rūpaka according to Vidyânâtha:—
 
-![](../books_images/U-IMG-1733495482Screenshot2024-12-06200059.png)
+<MISSING_FIG href="../books_images/U-IMG-1733495482Screenshot2024-12-06200059.png"/>
 
  ३७७ आरोप्यमाण^(०)&c.— On the Pariṇâma Alaṅkára thereader is referred to my full notes on it in my edition of theEkâvalîpp. 452–456 and pp. 558-560.
 
@@ -25066,15 +25242,18 @@ Vidyâdhara and not Vidyânâtha, unless we take आरोपविषयात�
 
  The following tree shows the classification of उत्प्रेक्षा :—  
 
-![](../books_images/U-IMG-1733752576Screenshot2024-12-09192232.png)
+<MISSING_FIG href="../books_images/U-IMG-1733752576Screenshot2024-12-09192232.png"/>
+
+ 
 
  Similar 14 divisions of क्रियाविषया उत्प्रेक्षा, गुणविषया and द्रन्यविषयाउत्प्रेक्षा, in all 56 divisions of वाच्योत्प्रेक्षा. Old writers on rhetoricdivided अनुपात्तनिमित्ता also into गुणनिमित्ता and क्रियानिमिता and thus had8 divisions of जातिविषया स्वरूपोत्प्रेक्षा. They divided जातिविषया हेतूत्प्रेक्षाand जातिविषथा फलोत्प्रेक्षा into similar 8 divisions each. Thusजातिविषया उत्प्रेक्षा falls into 24 divisions. There are 24 similar divisions of each of क्रियाविषया, गुणविषया and द्रव्यविषया उत्प्रेक्षा. Thus thetotal comes to 96 divisions. *Vide* Alaṅkârasarvasva p. 57which gives the following classification :—
 
-![](../books_images/U-IMG-1733753110Screenshot2024-12-09193414.png)
+<MISSING_FIG href="../books_images/U-IMG-1733753110Screenshot2024-12-09193414.png"/>
 
  Of these 96 divisions, 56 alone are charming and thedivision of अनुपात्तनिमित्ता into गुणनिमित्ता and क्रियानिमित्ता is not logical.Therefore the text says:—'चारुत्वातिशयस्तु षट्पञ्चाशत एव भेदानाम्'.
 
-![](../books_images/U-IMG-1733753087Screenshot2024-12-09193428.png)
+   
+<MISSING_FIG href="../books_images/U-IMG-1733753087Screenshot2024-12-09193428.png"/>
 
  Similar 12 divisions of क्रियाविषया, गुणविषया and द्रव्यविषया उत्प्रेक्षा,in all 48 divisions of प्रतीयमानोत्प्रेक्षा.
 
@@ -25088,7 +25267,7 @@ pp.697–699.
 
  ४५८ खलेकपोतन्यायेन— For the difference between the secondkind of Samuchchaya otherwise designated Tatkar, andSamâdhi the reader is referred to my notes on the EkâvalÎpp. 692-694.
 
-![](../books_images/U-IMG-1733754457Screenshot2024-11-11190800.png)
+<MISSING_FIG href="../books_images/U-IMG-1733754457Screenshot2024-11-11190800.png"/>
 
  ४७४ उद्यद्बृंहितगर्जितैः—This verse is given as an instance ofअङ्गाङ्गिभावसंकरor fusion of figures standing in the relation ofprincipal and subordinate. यात्राः प्रावृद्धिहाराइव is उपमा and it makesus decide that द्विपघटाकादम्बिनी is to be taken as उपमा and not रूपक.If the componnd is taken as मयूरव्यंसकादि and dissolved as द्विपघटा पद कादम्बिनी, the figure is रूपक; and if it be dissolved as द्विपपटा कादम्बिनी, it is उपमित समास and the figure is उपमा. If there is साधकवाचकाभाव or absence of what proves the figure to be उपमा or रूपक (उपमासाधक or रूपकसाचक) or disproves it to be either of them(उपमावाचक or रूपकवाचक), the figure is designated संदेहसंकर. Inthe present instance, however, Upamâप्रावृङ्गिहारा इवproves that द्विपघटाकादम्बिनी is to be taken as Upamā, far if it be taken as Rūpaka, कादम्बिनी becomes the predominant word in the compound and द्विपघटाbecomes subordinate to it; the word can inthat case be construed only with age, प्रावृङ्गिहाराः,that is, with theउपमान and not with यात्राः or the उपमेय. यात्रा प्रावृङ्गिहाराइव is theprincipal (अङ्गी) Upamâand द्विपघटा कादम्बिनीव is the subordinate(अङ्ग) Upamâ; and as they are similar figures, we have fusion of similar figures standing in the relation of principal andsubordinate.
 
@@ -25104,7 +25283,7 @@ pp.697–699.
 
  On the whole subject of Alaṅkâras and their varietiesand sub-varieties, their points of similarity and dissimilarityand the opinions of different writers on poeties there-onthe reader is referred to my notes on the Ekâvalî, Unmeshas VII. and VIII. where the treatment is full.
 
-![](../books_images/U-IMG-1733889058Screenshot2024-11-11190800.png)
+<MISSING_FIG href="../books_images/U-IMG-1733889058Screenshot2024-11-11190800.png"/>
 
 APPENDIX I.
 
@@ -25335,6 +25514,8 @@ APPENDIX I.
 
 1\. 7 किं च T"and T"' for यथा वा.  
 „
+
+ 
 
 1\. 10 ^(०)अन्ध्रT" and T"' for आन्ध्र^(०).  
 „
@@ -31347,20 +31528,26 @@ Abbreviations.
 प्रणम्य सार्वंसर्वज्ञंमनोवाक्कायकर्मभिः।  
 काव्यालंकार इत्येष यथाबुद्धि विधास्यते॥१॥
 
-[धर्मार्थकाममोक्षेषु]("This verse is found in ध्वन्यालोकलोचन, quoted without the anthor's name on p. 12. The reading there is साधुकाव्यनिषेवणम् ºनिवश्वनम् is also noticed in the foot-note as found in क. and ख.") वैचक्षण्यं कलासु च।  
+धर्मार्थकाममोक्षेषु[^3556] वैचक्षण्यं कलासु च।  
 प्रीतिं करोति कीर्तिं च साधुकाव्यनिबन्धनम्॥२॥
+
+[^3556]: "This verse is found in ध्वन्यालोकलोचन, quoted without the anthor's name on p. 12. The reading there is साधुकाव्यनिषेवणम् ºनिवश्वनम् is also noticed in the foot-note as found in क. and ख."
 
 अथनस्येव दातृत्वं क्लीबस्येवास्त्रकौशलम्।  
 अज्ञस्येव प्रगल्भत्वमकवेः शास्त्रवेदनम्॥३॥
 
-[विनयेन]("Found, quoted without the author's name in चित्रमीमांसा p. 83.") विना का श्रीः का निशा शशिना विना।  
+विनयेन[^3557] विना का श्रीः का निशा शशिना विना।  
 रहिता सत्कवित्वेन कीदृशी वाग्विदग्धता॥४॥
+
+[^3557]: "Found, quoted without the author's name in चित्रमीमांसा p. 83."
 
 गुरूपदेशादध्येतुं शास्त्रंजडधियोऽप्यलम्।  
 काव्यं तु जायते जातु कस्यचित् प्रतिभावतः॥५॥
 
-[उपेपुषामपि]("a Found, quoted without the author's name in लोचन p. 12.") दिवं सन्निबन्धविधायिनाम्।  
+उपेपुषामपि[^3558] दिवं सन्निबन्धविधायिनाम्।  
 आस्त एव निरातङ्कं कान्तं काव्यमयं वपुः॥६॥
+
+[^3558]: "a Found, quoted without the author's name in लोचन p. 12."
 
 रुणद्धिरोदसी चास्य यावत् कीर्तिरनश्वरी।  
 तावत् किलायमध्यास्ते सुकृती वैबुधं पदम्॥७॥
@@ -31368,8 +31555,10 @@ Abbreviations.
 अतोऽभिवाञ्छता कीर्तिं स्थेयसीमा भुवः स्थितेः।  
 यत्नो विदितवेद्येन विधेयः काव्यलक्षणः॥८॥
 
-[शब्दश्छन्दोऽभिवानार्था]("Quoted with Bhâmasha's name in लोचन p. 10. The different readings are शब्दश्छन्दोभिधानार्थः and शब्दश्छन्दोभिधानार्थ. Only the 1st Pâda is quoted.")इतिहासाश्रयाः कथाः।  
+शब्दश्छन्दोऽभिवानार्था[^3559]इतिहासाश्रयाः कथाः।  
 लोको युक्तिः कलाश्चेति मन्तव्या काव्ययैर्वशी ? (मन्तव्याः काव्ययैर्हमी?)॥९॥
+
+[^3559]: "Quoted with Bhâmasha's name in लोचन p. 10. The different readings are शब्दश्छन्दोभिधानार्थः and शब्दश्छन्दोभिधानार्थ. Only the 1st Pâda is quoted."
 
 शब्दाभिधेये विज्ञाय कृत्वा तद्विदुपासनाम्।  
 विलोक्यान्यनिवन्धांश्चकार्यः काव्यक्रियादरः॥१०॥
@@ -31383,17 +31572,25 @@ Abbreviations.
 रूपकादिरलंकारस्तस्यान्यैर्वहुयोदितः।  
 न कान्तमपि निर्भूषं विभाति वनितामुखम्॥१३॥
 
-[रूपकादिमलंकारं]("Verses 13, 14 and 15 are quoted without the author's name in the 6th Ullâsa of the Kâvyaprakâs'a (V. 1. there वनिताननम् ).") बाह्यमाचक्षते परे।  
-[सुपां]("This half and the first half of verse 15 are quoted by S'rî Premachandra Tarkavâgis'a on Kâvyâdars'a. Vide p. 11 of his edition.") तिङांच व्युत्पत्तिं वाचां वाञ्छन्त्यकृतिम्॥१४॥
+रूपकादिमलंकारं[^3560].") बाह्यमाचक्षते परे।  
+सुपां[^3561] तिङांच व्युत्पत्तिं वाचां वाञ्छन्त्यकृतिम्॥१४॥
+
+[^3560]: "Verses 13, 14 and 15 are quoted without the author's name in the 6th Ullâsa of the Kâvyaprakâs'a (V. 1. there वनिताननम्
+
+[^3561]: "This half and the first half of verse 15 are quoted by S'rî Premachandra Tarkavâgis'a on Kâvyâdars'a. Vide p. 11 of his edition."
 
 तदेतदाहुः सौशब्द्यंनार्थव्युत्पत्तिरीदृशी।  
 शब्दाभिधेयालंकारभेदादिष्टं द्वयं तु नः॥१५॥
 
 शब्दार्थौ सहितौ काव्यं गद्यं पद्यं च तद् द्विधा।  
-[कयुतं]("of प्राकृतं संस्कृतं चैतदपभ्रंश इति त्रिधाquoted without uame by नमिसाधु on काव्यालंकार of उद्भट २-११.") ? (संस्कृतं ?) प्राकृतं चान्यदपभ्रंश इति त्रिधा॥१६॥
+कयुतं[^3562] ? (संस्कृतं ?) प्राकृतं चान्यदपभ्रंश इति त्रिधा॥१६॥
 
-[वृत्तदेवादिचरितशंसि]("Quoted with the name of Bhâmaha in the commentary on उद्भटालंकारसारसंग्रह by प्रतीहारेन्दुराज.") चोत्पाद्यवस्तु च।  
+[^3562]: "of प्राकृतं संस्कृतं चैतदपभ्रंश इति त्रिधाquoted without uame by नमिसाधु on काव्यालंकार of उद्भट २-११."
+
+वृत्तदेवादिचरितशंसि[^3563] चोत्पाद्यवस्तु च।  
 कलाशास्त्राश्रयं चेति चतुर्धा भिद्यते पुनः॥१७॥
+
+[^3563]: "Quoted with the name of Bhâmaha in the commentary on उद्भटालंकारसारसंग्रह by प्रतीहारेन्दुराज."
 
 सर्गबन्धोऽभिनेयार्थं तथैवाख्यायिकाकथे।  
 अनिवद्धं च काव्यादि तत् पुनः पञ्च चोच्यते॥१८॥
@@ -31401,8 +31598,10 @@ Abbreviations.
 सर्गबन्धो महाकाव्यं महतां च महच्च यत्।  
 अग्राम्यशब्दमर्थ्य च सालंकारं सदाश्रयम्॥१९॥
 
-[मन्त्रदूत]("M. has मन्त्रि")प्रयाणाजिनायकाभ्युदयैश्चयत्।  
+मन्त्रदूत[^3564]प्रयाणाजिनायकाभ्युदयैश्चयत्।  
 पञ्चभिः संधिभिर्युक्तं नातिव्याख्येयमृद्धिमत्॥२०॥
+
+[^3564]: "M. has मन्त्रि"
 
 चतुर्वर्गभिधानेऽपि भूयसार्थोपदेशकृत्।  
 युक्तं लोकस्वभावेन रसैश्चसकलैः पृथक्॥२१॥
@@ -31416,8 +31615,10 @@ Abbreviations.
 नाटकं द्विपदीशम्यारासकस्कन्धकादि यत्।  
 उक्तं तदभिनेयार्थमुक्तोऽन्यैस्तस्य विस्तरः॥२४॥
 
-[प्रकृतानाकु]("T. notices प्रसृता also.")लश्रव्यशब्दार्थपदवृत्तिना।  
+प्रकृतानाकु[^3565]लश्रव्यशब्दार्थपदवृत्तिना।  
 गद्येन युक्तोदात्तार्था सोच्छ्वासाख्यायिका मता॥२५॥
+
+[^3565]: "T. notices प्रसृता also."
 
 वृतमाख्यायते तस्यां नायकेन स्वचेष्टितम्।  
 वक्रं चापरवक्रंच काले भाव्यर्थशंसि च॥२६॥
@@ -31426,10 +31627,14 @@ Abbreviations.
 कन्याहरण संग्रामविप्रलम्भोदयान्विता॥२७॥
 
 न वक्रापरवक्राभ्यां युक्ता नोच्छ्वासवत्यपि।  
-संस्कृतं संस्कृता चेष्टा कथापभ्रंशभाक् [तथा]("M. has तदा.")॥२८॥
+संस्कृतं संस्कृता चेष्टा कथापभ्रंशभाक् तथा[^3566]॥२८॥
 
-[अन्यैः]("This distinction between आख्यायिका and कथा given by भामहis criticized by दण्डिन् in his काव्यादर्श १-२३-२८. Vide my notes on the Kâvyasprakaran pp. २५-२६.") स्वचरितं तस्यां नायकेन तु नोच्यते।  
+[^3566]: "M. has तदा."
+
+अन्यैः[^3567] स्वचरितं तस्यां नायकेन तु नोच्यते।  
 स्वगुणाविष्कृतिं कुर्यादभिजातः कथं जनः॥२९॥
+
+[^3567]: "This distinction between आख्यायिका and कथा given by भामहis criticized by दण्डिन् in his काव्यादर्श १-२३-२८. Vide my notes on the Kâvyasprakaran pp. २५-२६."
 
 अनिबन्धं पुनर्गाथाश्लोकमात्रादि तत् पुनः।  
 युक्तं वक्रस्वभावोक्त्यासर्वमेवैतदिष्यते॥३०॥
@@ -31450,7 +31655,9 @@ Abbreviations.
 गौडीयमपि साधीयां वैदर्भमिति नान्यथा॥३५॥
 
 न नितान्तादिमात्रेण जायते चारुता गिराम्।  
-[वक्राभिधेयशब्दोक्तिरिष्टा]("Found, quoted in अभिनवगुप्त's लोचन on ध्वन्यालोक P.208.") वाचामलंकृतिः॥३६॥
+वक्राभिधेयशब्दोक्तिरिष्टा[^3568] वाचामलंकृतिः॥३६॥
+
+[^3568]: "Found, quoted in अभिनवगुप्त's लोचन on ध्वन्यालोक P.208."
 
 नेयार्थं क्लिष्टमन्यार्थमवाचक्रमयुक्तिमत्।  
 गुढशब्दाभिधानं च कवयो न प्रयुञ्जते॥३७॥
@@ -31464,11 +31671,15 @@ Abbreviations.
 क्लिष्टं व्यवहितं विद्यादन्यार्थविगमे यथा ( दन्यार्थं विगमे यथा ? )  
 विजहुस्तस्य ताः शोकं क्रीडायां विकृतं च तत्॥४०॥
 
-[हिमापहामित्रधरैर्व्याप्तं](" हिमापहामित्रधरैव्याप्तं व्योम is found in Daṇḍin's Kâvyadârs'a 8-120.(latter half).") व्योमेत्यवाचकम्।  
+हिमापहामित्रधरैर्व्याप्तं[^3569].") व्योमेत्यवाचकम्।  
 साक्षादरूढं वाच्येऽर्थे नाभिधानं प्रतीयते॥४१॥
 
-अयुक्तिमद्यथा दूता [जलभृन्मात्रकेङ]("M. has जलमुन्मात्र (रु?) तेषु च।") च ? (मारुतेन्दवः? )।  
+[^3569]: " हिमापहामित्रधरैव्याप्तं व्योम is found in Daṇḍin's Kâvyadârs'a 8-120.(latter half
+
+अयुक्तिमद्यथा दूता जलभृन्मात्रकेङ[^3570] तेषु च।") च ? (मारुतेन्दवः? )।  
 तथा भ्रमरहारीतचक्रवाकशुकादयः॥४२॥
+
+[^3570]: "M. has जलमुन्मात्र (रु?
 
 भवाची व्यक्तवाचश्चदुरदेशविचारिणः।  
 कथं दूत्यं प्रपद्येरत्रिति युक्तया न युज्यते॥४३॥
@@ -31493,8 +31704,10 @@ Abbreviations.
 श्रुतिदुष्टार्थदुष्टे च कल्पनादुष्टमित्यपि।  
 श्रुतिकष्टं तथैवाहुर्वाचां दोषं चतुर्विधम्॥४७॥
 
-विड्वर्चोविष्ठितक्किन्न?[च्छिन्नवान्तप्रवृत्तयः](" ºच्छिन्नक्लिन्नºM.")।  
+विड्वर्चोविष्ठितक्किन्न?च्छिन्नवान्तप्रवृत्तयः[^3571]।  
 प्रचारधर्षितोद्रारविसर्गहृदयं वृताः ? (यन्त्रिताः ? )॥४८॥
+
+[^3571]: " ºच्छिन्नक्लिन्नºM."
 
 हिरण्यरेताः संबाधः पेलवोपस्थिताण्डजाः।  
 वाक्काटवादयश्चेति श्रुतिदुष्टा मता गिरः॥४९॥
@@ -31505,8 +31718,10 @@ Abbreviations.
 हन्तुमेव प्रवृत्तस्य स्तम्भस्य (स्तब्धस्य?) विवरैपिणः।  
 पतनं जायतेऽवश्यं कृच्छ्रेण पुनरुन्नतिः॥५१॥
 
-पदद्वयस्य सन्धाने यदनिष्टं [प्रकल्पते]("प्रगल्भतेM.")।  
+पदद्वयस्य सन्धाने यदनिष्टं प्रकल्पते[^3572]।  
 तदाहुः कल्पनादुष्टं सशौर्याभरणो यथा॥५२॥
+
+[^3572]: "प्रगल्भतेM."
 
 यथाजिह्वददित्यादि श्रुतिकष्टं च तद्विदुः।  
 न तदिच्छन्ति कृतिनो गण्डमप्यपरे किल॥५३॥
@@ -31541,14 +31756,18 @@ Abbreviations.
 केचिदोजोऽभिचित्सन्तः समस्यन्ति बहुन्यपि।  
 यथा मन्दारकुसुमरेणुपिञ्जरिताटका॥२॥
 
-[भव्यं]("Found in the Sarvapathina, Mallinatha's commentary on Bhaṭṭikâvya C. XI. L. The reading there is श्राव्यंfor श्रव्यं. It is also found in Jayamaṅgalâ on the same verse. The readings there are श्राव्यंand काव्ये. Found quoted with Bhâmaha's name in his Tikâ on the Kavyânus'ana p. 201 तेन 'श्रव्यं नातिसमस्तार्थशब्दंमधुरमिष्यते’ इति माधुर्यलक्षणत्वेन श्रव्यत्वं यद्भामहेनोक्तंतन्नयुक्तमित्यर्थः।") नातिसमस्तार्थं काव्यं मधुरमिप्यते।  
+भव्यं[^3573] नातिसमस्तार्थं काव्यं मधुरमिप्यते।  
 आविद्वदङ्गनाबालप्रतीतार्थं प्रसादवत्॥३॥
+
+[^3573]: "Found in the Sarvapathina, Mallinatha's commentary on Bhaṭṭikâvya C. XI. L. The reading there is श्राव्यंfor श्रव्यं. It is also found in Jayamaṅgalâ on the same verse. The readings there are श्राव्यंand काव्ये. Found quoted with Bhâmaha's name in his Tikâ on the Kavyânus'ana p. 201 तेन 'श्रव्यं नातिसमस्तार्थशब्दंमधुरमिष्यते’ इति माधुर्यलक्षणत्वेन श्रव्यत्वं यद्भामहेनोक्तंतन्नयुक्तमित्यर्थः।"
 
 अनुप्रासः सयमको रूपकं दीपकोपमे।  
 इति वाचामलंकाराः पञ्चैवान्यैरुदाहृताः॥४॥
 
-[सरूपवर्णविन्यासमनुप्रासं]("The first half of the verse is found quoted in the Jayamaṅgala on Bhaṭṭi X. I") प्रचक्षते।  
+सरूपवर्णविन्यासमनुप्रासं[^3574] प्रचक्षते।  
 किं तया चिन्तया कान्ते नितान्तेति यथोदितम्॥५॥
+
+[^3574]: "The first half of the verse is found quoted in the Jayamaṅgala on Bhaṭṭi X. I"
 
 ग्राम्यानुप्रासमन्यतु मन्यन्ते सुधियोऽपरे।  
 स लोलमालानीलालिकुलाकुलगलो बलः॥६॥
@@ -31589,8 +31808,10 @@ Abbreviations.
 अनन्तरैकान्तरयोरेवं पादान्तयोरपि।  
 कृत्न्नंच सर्वपादेषु दुष्कृतं साधु तादृशम्॥१६॥
 
-[तुल्यश्रुतीनां]("Found, quoted in the Jayamaṅgalâ on the Bhaṭṭi kâvya X. 1 without the author's name. The reading there is यमकं तन्निरूप्यते.") भिन्नानामभिधेयैः परस्परम्।  
+तुल्यश्रुतीनां[^3575] भिन्नानामभिधेयैः परस्परम्।  
 वर्णानां यः पुनर्वादो यमकं तन्निगद्यते॥१७॥
+
+[^3575]: "Found, quoted in the Jayamaṅgalâ on the Bhaṭṭi kâvya X. 1 without the author's name. The reading there is यमकं तन्निरूप्यते."
 
 प्रतीतशब्दमोजस्वि सुष्टिपदसन्धि च।  
 प्रसादि स्वाभियानं च यमकं कृतिनां मतम्॥१८॥
@@ -31598,41 +31819,59 @@ Abbreviations.
 नानाधात्वर्थगम्भीरा यमकव्यपदेशिनी।  
 प्रहेलिका सा द्युदिता रामशर्माच्युतोत्तरे॥१९॥
 
-[काव्यान्यपि]("cf. व्याख्यागम्यमिदं काव्यमुत्सवः सुवियामलम् । हता दुर्मेचसश्चास्मिन् विद्वत्प्रियतया मया॥ भट्टि २२-३४.") यदीमानि व्याख्यागम्पानि शास्त्रवत्।  
+काव्यान्यपि[^3576] यदीमानि व्याख्यागम्पानि शास्त्रवत्।  
 उत्सवः सुधियामेव हन्त दुर्मेघसो हताः॥२०॥
 
-[उपमानेन]("Found in the Jayamaṅgalâ on the Bhaṭṭi kâvya X. 25 and also in the Agnipurâṇa without the author's name. The reading there is तुल्यत्वं for यत्तत्त्वं") यत्तत्त्वमुपमेयस्य रूप्यते।  
+[^3576]: "cf. व्याख्यागम्यमिदं काव्यमुत्सवः सुवियामलम् । हता दुर्मेचसश्चास्मिन् विद्वत्प्रियतया मया॥ भट्टि २२-३४."
+
+उपमानेन[^3577] यत्तत्त्वमुपमेयस्य रूप्यते।  
 गुणानां समतां दृष्ट्वा रूपकं नाम तद्विदुः॥२१॥
+
+[^3577]: "Found in the Jayamaṅgalâ on the Bhaṭṭi kâvya X. 25 and also in the Agnipurâṇa without the author's name. The reading there is तुल्यत्वं for यत्तत्त्वं"
 
 समस्तवस्तुविषयमेकदेशविवर्ति च।  
 द्विधारूपकमुद्दिष्टमेतत्तच्चोच्यते यथा॥२२॥
 
-[सीकराम्भोमद]("M. शीकराº.")सृजस्तुङ्गा जलददन्तिनः।  
+सीकराम्भोमद[^3578]सृजस्तुङ्गा जलददन्तिनः।  
 निर्यान्तो मदयन्तीमे शक्रकार्मुककारणम्॥२३॥
+
+[^3578]: "M. शीकराº."
 
 तडिद्वलयकक्ष्याणां वलाकामालभारिणाम्।  
 पयोमुचां ध्वनिर्धीरो दुनोति मम तां प्रियाम्॥२४॥
 
-[आदिमध्यान्तविषयं]("Found in the Lochana p. 38 without the author's name,") त्रिधा दीपकमिष्यते।  
+आदिमध्यान्तविषयं[^3579] त्रिधा दीपकमिष्यते।  
 एकस्यैव व्यवस्थत्वादिति तद्भिद्यते त्रिधा॥२५॥
+
+[^3579]: "Found in the Lochana p. 38 without the author's name,"
 
 अमूनि कुर्वतेऽन्वर्थांमस्याख्यामर्थदीपनात्।  
 त्रिभिर्निदर्शनैश्चेदं त्रिधा निर्दिश्यते यथा॥२६॥
 
-[मदो]("Found in the Lochana p. 40, quoted without the anthor's name, Found in the Jayamaṅgalâ with the name of the author, Bhaṭṭi, C. X. 21. The readings there are प्रीतिमानन्दं & यत्प्रियासङ्गमोत्कण्ठामसह्यां.Vâmana also quotes a portion of it, though wrongly as मातङ्गमानभङ्गुरम् Vide the वृत्ति on ५।२।३८.") जनयति प्रीतिं [सानङ्गं]("सानला M.")मानभङ्गुरम्।  
+मदो[^3580] जनयति प्रीतिं सानङ्गं[^3581]मानभङ्गुरम्।  
 स प्रियासंगमोत्कण्ठां सासह्यांमनसः शुचम्॥२७॥
+
+[^3580]: "Found in the Lochana p. 40, quoted without the anthor's name, Found in the Jayamaṅgalâ with the name of the author, Bhaṭṭi, C. X. 21. The readings there are प्रीतिमानन्दं & यत्प्रियासङ्गमोत्कण्ठामसह्यां.Vâmana also quotes a portion of it, though wrongly as मातङ्गमानभङ्गुरम् Vide the वृत्ति on ५।२।३८."
+
+[^3581]: "सानला M."
 
 मालिनीरंशुकभृतः स्त्रियोऽलंकुरुते मधुः।  
 हारीतशुकवाचश्चभूघराणामुपत्यकाः॥२८॥
 
-[चीरीमतीररण्यानीः]("चरीमती M.") सरित शुष्यदम्भ्रसः।  
+चीरीमतीररण्यानीः[^3582] सरित शुष्यदम्भ्रसः।  
 प्रवासिनां च चेतांसि शुचिरन्तं निनीषति॥२९॥
 
-[विरुद्धेनोपमानेन]("Found quote with the author's name in the Jayamaṅgalâ on Bhaṭṭi X. 30. ( V. 1. गुणमात्रेण ).") देशकालक्रियादिभिः।  
+[^3582]: "चरीमती M."
+
+विरुद्धेनोपमानेन[^3583].") देशकालक्रियादिभिः।  
 उपमेयस्य यत् साम्यं गुणलेशेन सोपमा॥३०॥
 
+[^3583]: "Found quote with the author's name in the Jayamaṅgalâ on Bhaṭṭi X. 30. ( V. 1. गुणमात्रेण
+
 यथेवशब्दौ सादृश्यमाहतुर्व्यतिरेकिणोः।  
-डुर्वाकाण्डमित्र [श्यामं]("श्यामा M.") तन्वी श्यामलता यथा॥३१॥
+डुर्वाकाण्डमित्र श्यामं[^3584] तन्वी श्यामलता यथा॥३१॥
+
+[^3584]: "श्यामा M."
 
 विना यथेवशब्दाभ्यां समासाभिहितापरा।  
 यथा कमलपत्राक्षी शशाङ्कवदनेति च॥३२॥
@@ -31658,13 +31897,17 @@ Abbreviations.
 हीनतासंभवो लिङ्गवचोभेदो विपर्ययः।  
 उपमानाधिकत्वं च तेनासदृशतापि च॥३९॥
 
-त एत उपमादोषाः सप्त?[मेधाविनोदिताः]("मेधाविन् or मेवाविरुद्रis named and quoted by नमिसाधु in his commentary on रुद्रट’s काव्यालंकार 1. 1 and X 24. Medhâvin gives seven defects of Upatuâ:– लिङ्गवचनभेदी हीनताधिक्यसंभवो विपर्ययोऽसादृश्यमिति सप्तोपमादोषाः।")।  
+त एत उपमादोषाः सप्त?मेधाविनोदिताः[^3585]।  
 सोदाहरणलक्ष्मणोवर्ण्यन्तेऽत्र च ते पृथक्॥४०॥
 
-[स]("Found, quoted by नमिसाधु on काव्यालंकार XI. 24. शशिमासि शङ्खम् is the reading there and is correct as appears from वासःशङ्खानुपादानाद्धीनमित्यभित्रीयते। ४२.") मारुताकम्पितपीतवासा  
+[^3585]: "मेधाविन् or मेवाविरुद्रis named and quoted by नमिसाधु in his commentary on रुद्रट’s काव्यालंकार 1. 1 and X 24. Medhâvin gives seven defects of Upatuâ:– लिङ्गवचनभेदी हीनताधिक्यसंभवो विपर्ययोऽसादृश्यमिति सप्तोपमादोषाः।"
+
+स[^3586] मारुताकम्पितपीतवासा  
 विघ्नत् सलीलंशशिभासमब्जम्।  
 यदुप्रवीरः प्रगृहीतशार्ङ्ग—  
 सेन्द्रायुधो मेघ इवावभासे॥४१॥
+
+[^3586]: "Found, quoted by नमिसाधु on काव्यालंकार XI. 24. शशिमासि शङ्खम् is the reading there and is correct as appears from वासःशङ्खानुपादानाद्धीनमित्यभित्रीयते। ४२."
 
 शक्रचापग्रहादत्र दर्शितं किल कार्मुकम्।  
 वासःशङ्खानुपादानाद्धीनमित्यभिधीयते॥४२॥
@@ -31678,15 +31921,21 @@ Abbreviations.
 किं च काव्यानि नेयानि लक्षणेन महात्मनाम्।  
 दृष्टं वा सर्वसारूप्यं राजमित्रे यथोदितम्॥४५॥
 
-[सूर्याशुसंमीलितलोचनेषु]("Found, quotel, without the author's name in the वृत्ति on वामन काव्यालंकारसूत्र ४. २. १०. (V. 1. ºनिर्मलेषु and नर्मदेषु for ºनिर्मदेषु ) अत्र बहुत्वमुपमेयर्माणामुपमानात् न विशिष्टानामेव मुखानामुपमेयत्वात्। तादृशेष्वेव केकाविनाशस्य संभवात्।")  
+सूर्याशुसंमीलितलोचनेषु[^3587] अत्र बहुत्वमुपमेयर्माणामुपमानात् न विशिष्टानामेव मुखानामुपमेयत्वात्। तादृशेष्वेव केकाविनाशस्य संभवात्।")  
 दीनेषु पद्मानिलनिर्मदेषु।  
 साध्व्यःस्वगेहेष्विव भर्तृहीनाः  
-केका [विनेशुः]("विनेदुः M.") शिखिनां मुखेषु॥४६॥
+केका विनेशुः[^3588] शिखिनां मुखेषु॥४६॥
 
-[निष्पेतुरास्यादिव]("Found, quoted in the काव्यप्रकाश X. ( V. 1. निपेतुः ) - 'अत्रापि ज्वलन्त्योऽम्बुवाराः सूर्यमण्डलान्निष्पतन्त्योन संभवन्तीत्युपनिबध्यमानोऽर्थोऽनोचित्यमेव पुष्णाति।'") तस्य दीप्ताः  
+[^3587]: "Found, quotel, without the author's name in the वृत्ति on वामन काव्यालंकारसूत्र ४. २. १०. (V. 1. ºनिर्मलेषु and नर्मदेषु for ºनिर्मदेषु
+
+[^3588]: "विनेदुः M."
+
+निष्पेतुरास्यादिव[^3589] - 'अत्रापि ज्वलन्त्योऽम्बुवाराः सूर्यमण्डलान्निष्पतन्त्योन संभवन्तीत्युपनिबध्यमानोऽर्थोऽनोचित्यमेव पुष्णाति।'") तस्य दीप्ताः  
 शरा धनुर्मण्डलमध्यभाजः।  
 जाज्वल्यमाना इव वारिधारा  
 दिनार्घभाजः परिवेषिणोऽर्कात्॥४७॥
+
+[^3589]: "Found, quoted in the काव्यप्रकाश X. ( V. 1. निपेतुः
 
 **शाखवर्धनस्य**
 
@@ -31708,11 +31957,15 @@ Abbreviations.
 **अविगाह्योऽसि नारीणामनन्यमनसामपि।  
 विषमोपलभिन्नोर्मिरापगेवोत्तितीर्षतः॥५३॥**
 
-**[क्वचिदग्रे]("Found quoted in केशवमिश्र's अलंकारशेखर (V. 1. क्वचिदापद्य) Vide p.18 of अलंकार शेखर.")प्रसरता क्वचिदापत्य निघ्नता।  
+**क्वचिदग्रे[^3590] Vide p.18 of अलंकार शेखर.")प्रसरता क्वचिदापत्य निघ्नता।  
 शुनेव सारङ्गकुलंत्वया भिन्नं द्विषां बलम्॥५४॥**
 
-**[अयं]("Found quoted in the काव्यप्रकाश X. ( V. 1. देवाः for ब्रह्मा ).") पद्मासनासीनश्चक्रवाको विराजते।  
+[^3590]: "Found quoted in केशवमिश्र's अलंकारशेखर (V. 1. क्वचिदापद्य
+
+**अयं[^3591].") पद्मासनासीनश्चक्रवाको विराजते।  
 युगादौ भगवान् ब्रह्मा विनिर्मित्सुरिव प्रजाः॥५६॥**
+
+[^3591]: "Found quoted in the काव्यप्रकाश X. ( V. 1. देवाः for ब्रह्मा
 
 **ननूपमीयते पाणिः कमलेन विकासिना।  
 अधरो विद्रुमच्छेदभासा विम्बफलेन च॥५६॥**
@@ -31720,10 +31973,12 @@ Abbreviations.
 **उच्यते काममस्तीदंकिं तु स्त्रीपुंसयोरयम्।  
 विधिर्नाभिमतोऽन्यैस्तु त्रयाणामपि नेष्यते॥५७॥**
 
-**[स]("Found, quoted in the काव्यप्रकाश X.—'अत्रोपमेयस्य शङ्कादेरनिर्देशे शशिनो ग्रहणमतिरिच्यते— इत्यविकपदम्।'") पीतवासा प्रगृहीतशार्ङ्गो  
+**स[^3592] पीतवासा प्रगृहीतशार्ङ्गो  
 मनोज्ञभीमं वपुराप कृष्णः।  
 शतहदेन्द्रायुधवान् निशायां  
 संसृज्यमानः शशिनेव मेघः॥५८॥**
+
+[^3592]: "Found, quoted in the काव्यप्रकाश X.—'अत्रोपमेयस्य शङ्कादेरनिर्देशे शशिनो ग्रहणमतिरिच्यते— इत्यविकपदम्।'"
 
 **रामशर्मणः।**
 
@@ -31739,10 +31994,12 @@ Abbreviations.
 **एतेनैवोपमानेन ननु सादृश्यमुच्यते।  
 उक्तार्थस्य प्रयोगो हि गुरुमर्थं न पुष्यति॥६२॥**
 
-**[वनेऽथ]("Found, quoted by नमिसाधुon रुद्रट's काव्यालंकार XI. 24. (V. 1. वनिताविहारिणः प्रभिन्नदानाकटा ). 'यत्रोपमानोपमेययोः साम्यं नास्ति तद्सादृश्यम्— यथा वनेऽथ &c.। अत्र न किंचिद्दन्तिनां मयूराणां च ग्रहैः सारूप्यमस्तीति।") तस्मिन् वनितानुयायिनः  
+**वनेऽथ[^3593]. 'यत्रोपमानोपमेययोः साम्यं नास्ति तद्सादृश्यम्— यथा वनेऽथ &c.। अत्र न किंचिद्दन्तिनां मयूराणां च ग्रहैः सारूप्यमस्तीति।") तस्मिन् वनितानुयायिनः  
 प्रवृत्तदानार्द्रकटामतङ्गजाः।  
 विचित्रवर्हाभरणाश्च बर्हिणो  
 वभुर्दिवीवामलविग्रहा ग्रहाः॥६३॥**
+
+[^3593]: "Found, quoted by नमिसाधुon रुद्रट's काव्यालंकार XI. 24. (V. 1. वनिताविहारिणः प्रभिन्नदानाकटा
 
 **ग्रहैरपि गजादीनां यदि सादृश्यमुच्यते।  
 तथापि तेषां तैरस्ति कान्तिर्वाप्युग्रतापि वा॥६४॥**
@@ -31756,17 +32013,23 @@ Abbreviations.
 **वक्ष्यमाणोक्तविषयस्तत्राक्षेपोद्विधा मतः।  
 एकरूपतया शेषा निर्देश्यन्ते यथाक्रमम्॥६७॥**
 
-**[प्रतिषेध](" Fonnd, quoted, without the author's name in लोचन P. 36 (प्रतिषेधइवेष्टस्य यो विशेषामिधित्सया। वक्ष्यमाणोक्तविषयः स आक्षेपोद्विधामतः॥ ) It is also found, quoted, with the name of the author in the Jayamaṅgalâ on Bhaṭṭi X. 37 (V. 1. द्विविधं यथा ).") इवेष्टस्य यो विशेषाभिधित्सया।  
+**प्रतिषेध[^3594] It is also found, quoted, with the name of the author in the Jayamaṅgalâ on Bhaṭṭi X. 37 (V. 1. द्विविधं यथा ).") इवेष्टस्य यो विशेषाभिधित्सया।  
 आक्षेप इति तं सन्तः शंसन्ति द्विविधं यथा॥६८॥**
 
-**[अहं]("Found, quoted in अभिनवगुप्त's लोचन on ध्वन्यालोक p. 36 (V. L किमुक्तेनाप्रियेण ते). Also quoted by Hemachandra in his Kâvyâunsâsana P. 268 ( ºनाप्रियेण ते ).") त्वा यदि नेक्षेय क्षणमप्युत्सुका ततः।  
+[^3594]: " Fonnd, quoted, without the author's name in लोचन P. 36 (प्रतिषेधइवेष्टस्य यो विशेषामिधित्सया। वक्ष्यमाणोक्तविषयः स आक्षेपोद्विधामतः॥
+
+**अहं[^3595]. Also quoted by Hemachandra in his Kâvyâunsâsana P. 268 ( ºनाप्रियेण ते ).") त्वा यदि नेक्षेय क्षणमप्युत्सुका ततः।  
 इयदेवास्त्वतोऽन्येन किमुक्तेनाप्रियेण तु॥६९॥**
+
+[^3595]: "Found, quoted in अभिनवगुप्त's लोचन on ध्वन्यालोक p. 36 (V. L किमुक्तेनाप्रियेण ते
 
 **स्वविक्रमाकान्तभुवश्चित्रं यन्न तवोद्धतिः।  
 को वा सेतुरलंसिन्धोर्विकारकरणं प्रति॥७०॥**
 
-**[उपन्यसनमन्यस्य]("Found, quoted, with the name of मामहin जयमङ्गला on भट्टि X.36 (V.1. उपन्यसनमर्थस्य प्रकान्तादपरस्य यत्। ) नविसाधुon रुद्रट's काव्यालंकार VIII. 84. says भामहादिप्रतेन अर्थान्तरन्यास एव। अर्थद्वयस्य न्यासः सोऽर्थान्तरन्यासः' इति तदीयलक्षणात्।") यदर्थस्योदितादृते।  
+**उपन्यसनमन्यस्य[^3596] नविसाधुon रुद्रट's काव्यालंकार VIII. 84. says भामहादिप्रतेन अर्थान्तरन्यास एव। अर्थद्वयस्य न्यासः सोऽर्थान्तरन्यासः' इति तदीयलक्षणात्।") यदर्थस्योदितादृते।  
 ज्ञेयः सोऽर्थान्तरन्यासः पूर्वार्थानुगतो यथा॥७१॥**
+
+[^3596]: "Found, quoted, with the name of मामहin जयमङ्गला on भट्टि X.36 (V.1. उपन्यसनमर्थस्य प्रकान्तादपरस्य यत्।
 
 परानीकानि भीमानि विविक्षोर्नतव व्यथा।  
 साधु वासाधु वागामि पुंसामात्मैव शंसति॥७२॥
@@ -31777,26 +32040,36 @@ Abbreviations.
 वहन्ति गिरयो मेघानभ्युपेतान् गुरूनपि।  
 गरीयानेव हि गुरून् विभर्त्ति प्रणयागतान्॥७४॥
 
-[उपमानवतोऽर्थस्य]("Found, quoted, with the name of भामहin जयमङ्गला on भट्टि X.39 (V.1. विशेषोत्पादनाद्यथा)") यद्विशेषनिदर्शनम्।  
+उपमानवतोऽर्थस्य[^3597]") यद्विशेषनिदर्शनम्।  
 व्यतिरेकं तमिच्छन्ति विशेषापादनाद्यथा॥७५॥
+
+[^3597]: "Found, quoted, with the name of भामहin जयमङ्गला on भट्टि X.39 (V.1. विशेषोत्पादनाद्यथा
 
 सितासिते पक्ष्मवती नेत्रे ते ताम्रराजिनी।  
 एकान्तशुभ्रश्यामे तु पुण्डरीकासितोत्पले॥७६॥
 
-[क्रियायाः](" Found, quoted, with the name of भामह, in जयमङ्गला on भट्टिX. 40 (V. 1. प्रतिषेधेन तत्फलस्य विभावनात् & सान्वयं कथ्यते यथा for समाधौसुलभेसति ). उद्भट's definition of विभावना is exactly the same as भामह’s.") प्रतिषेधे या तत्फलस्य विभावना।  
+क्रियायाः[^3598]. उद्भट's definition of विभावना is exactly the same as भामह’s.") प्रतिषेधे या तत्फलस्य विभावना।  
 ज्ञेया विभावनैवासौ समाधौ मुलभे सति॥७७॥
+
+[^3598]: " Found, quoted, with the name of भामह, in जयमङ्गला on भट्टिX. 40 (V. 1. प्रतिषेधेन तत्फलस्य विभावनात् & सान्वयं कथ्यते यथा for समाधौसुलभेसति
 
 अपीतमत्ताः शिखिनो दिशोऽनुत्कण्ठिताकुलाः।  
 नीपोऽविलिप्तसुरभिरभ्रष्टकलुषं जलम्॥७८॥
 
-[यत्रोक्ते](" Found, quoted with the name of भामह, in जयमङ्गला on भट्टिX. 41 (V. 1, यत्रोक्तेर्गम्यते and ºरुदिता for ºरुद्दिष्टा ) अग्रिपुराण has the same definition as is given in जयमङ्गला but has बुधैः for यथा. Also quoted without the name of मामद्द in ध्वन्यालोकलोचन p. 80 ( तत्समानैर्विशेषणैः V. 1.).")गम्यतेऽन्योऽर्थस्तत्समानविशेषणः।  
-सा समासोक्तिरुदिष्टा [संक्षिप्तार्थतया]("संक्षिप्तार्थायथा तथा M.") यथा॥७९॥
+यत्रोक्ते[^3599] अग्रिपुराण has the same definition as is given in जयमङ्गला but has बुधैः for यथा. Also quoted without the name of मामद्द in ध्वन्यालोकलोचन p. 80 ( तत्समानैर्विशेषणैः V. 1.).")गम्यतेऽन्योऽर्थस्तत्समानविशेषणः।  
+सा समासोक्तिरुदिष्टा संक्षिप्तार्थतया[^3600] यथा॥७९॥
+
+[^3599]: " Found, quoted with the name of भामह, in जयमङ्गला on भट्टिX. 41 (V. 1, यत्रोक्तेर्गम्यते and ºरुदिता for ºरुद्दिष्टा
+
+[^3600]: "संक्षिप्तार्थायथा तथा M."
 
 स्कन्धवानृजुव्यालः स्थिरोऽनेकमहाफलः।  
 जातस्तरुरयं चोच्चैः पातितश्चनभस्वता॥८०॥
 
-[निमित्ततो]("Found, quoted without the name of भामहin जयमङ्गला on भट्टिX. 42. (V. 1. यत्र वचो ) उद्भट has यतु वचो and बुधाः for यथा.") वचो यत्तु लोकातिक्रान्तगोचरम्।  
+निमित्ततो[^3601] उद्भट has यतु वचो and बुधाः for यथा.") वचो यत्तु लोकातिक्रान्तगोचरम्।  
 मन्यन्तेऽतिशयोक्तिं तामलंकारतया यथा॥८१॥
+
+[^3601]: "Found, quoted without the name of भामहin जयमङ्गला on भट्टिX. 42. (V. 1. यत्र वचो
 
 स्वपुष्पच्छविहारिण्या चन्द्रभासा तिरोहिताः।  
 अन्वमीयन्त भृङ्गालिवाचा सप्तच्छदद्रुमाः॥८२॥
@@ -31810,8 +32083,10 @@ Abbreviations.
 **१सैपा सर्वैव वक्रोक्तिरनयार्थोविभाव्यते।  
 यत्नोऽस्यां कविना कार्यः कोऽलंकारोऽनया विना॥८५॥**
 
-**[हेतुश्च]("Found, quoted, with भामह's name on काव्यादशं२।२३५ by प्रेमचन्द्र तर्कवागीश (V. 1. सूक्ष्मलेशौच, मताः समुदायाभिधेयस्य ).")सूक्ष्मो लेशोऽथ नालंकारतया मतः।  
+**हेतुश्च[^3602].")सूक्ष्मो लेशोऽथ नालंकारतया मतः।  
 समुदायाभिधानस्य वक्रोक्त्यनभिधानतः॥८६॥**
+
+[^3602]: "Found, quoted, with भामह's name on काव्यादशं२।२३५ by प्रेमचन्द्र तर्कवागीश (V. 1. सूक्ष्मलेशौच, मताः समुदायाभिधेयस्य
 
 **३गतोऽस्तमर्कोभातीन्दुर्यान्ति वासाय पक्षिणः।  
 इत्येवमादि किं काव्यं वार्त्तामेनां प्रचक्षते॥८७॥**
@@ -31819,14 +32094,18 @@ Abbreviations.
 **यथासंख्यमथोत्प्रेक्षामलंकारद्वयं विदुः।  
 संख्यानमिति मेधाविनोत्प्रेक्षाभिहिता क्वचित्॥८८॥**
 
-**[भूयसामुपदिष्टानामर्थानामसधर्मणाम्]("Quoted without the author's ( भामह'sname in the जयमङ्गला on भट्टिX. 43. (V. 1. मुपदिष्टानां क्रियाणामथ कर्मणाम् ). उद्भट has the same definition as भामह.")।  
+**भूयसामुपदिष्टानामर्थानामसधर्मणाम्[^3603]. उद्भट has the same definition as भामह.")।  
 क्रमशो योऽनुनिर्देशो यथासङ्ख्यं तदुच्यते॥८९॥**
+
+[^3603]: "Quoted without the author's ( भामह'sname in the जयमङ्गला on भट्टिX. 43. (V. 1. मुपदिष्टानां क्रियाणामथ कर्मणाम्
 
 **पद्मेन्दुभृङ्गमातङ्गपुंस्कोकिलकलापिनः।  
 वक्रक्रान्तीक्षणगतिवाणीवालैस्त्वया जिताः॥९०॥**
 
-**[अविवक्षितसामान्या]("Quoted, without भामह's name in the जयमङ्गला on भट्टि X. 44. ( V. 1. ºसामान्यात, ºक्रियारोपादुत्प्रेक्षा),") किंच्चिच्चोपमया सह।  
+**अविवक्षितसामान्या[^3604],") किंच्चिच्चोपमया सह।  
 अतद्गणक्रियायोगादुत्प्रेक्षातिशयान्विता॥९१॥**
+
+[^3604]: "Quoted, without भामह's name in the जयमङ्गला on भट्टि X. 44. ( V. 1. ºसामान्यात, ºक्रियारोपादुत्प्रेक्षा
 
 **———————————————————————————————————————————————**
 
@@ -31834,11 +32113,15 @@ Abbreviations.
 
  ३ Found, quoted, in हेमचन्द्र's काव्यानुशासन p. 17. Found also quoted without भामह's name in जयमङ्गला on भट्टि X. 45 ( V. 1.ºमादिकं, ºमेत ). Also see काव्यादर्श २।२४४ where the first half is found. Also given by मम्मट in the काव्यप्रकाश 7 th उल्लास to indicate varieties of the व्यङ्ग्य according to the nature of the वक्तृ and the बोद्धृ.
 
-**[किंशुक्रव्यपदेशेन]("Found, quoted with भामह's name, by वल्लभin सुभाषितावली (No. 1546, ºमरण्यारयां). Also found in Bhoja's Sarasvatîkanthabharaṇa in the Utprek shâprakarana as an instance of Utprekshopanna") तरुमारुह्यसर्वतः।  
+**किंशुक्रव्यपदेशेन[^3605]. Also found in Bhoja's Sarasvatîkanthabharaṇa in the Utprek shâprakarana as an instance of Utprekshopanna") तरुमारुह्यसर्वतः।  
 दग्धादग्धमरण्यान्याः पश्यतीव विभावसुः॥९२॥**
 
-**[स्वभावोक्तिरलंकार]("Found, quoted, without भानह's name in the जयमङ्गला on भट्टि X. 45 (V. 1. अर्थस्य तादवस्थ्ये च ).") इति केचित् प्रचक्षते।  
+[^3605]: "Found, quoted with भामह's name, by वल्लभin सुभाषितावली (No. 1546, ºमरण्यारयां
+
+**स्वभावोक्तिरलंकार[^3606].") इति केचित् प्रचक्षते।  
 अर्थस्य तदवस्थत्वं स्वभावोऽभिहितो यथा॥९३॥**
+
+[^3606]: "Found, quoted, without भानह's name in the जयमङ्गला on भट्टि X. 45 (V. 1. अर्थस्य तादवस्थ्ये च
 
 **आक्रोशन्नाह्वयन्नन्यानाधावन् मण्डलै रुदन्।  
 गा वारयति दण्डेन डिम्भः सस्यावतारणीः॥९४॥**
@@ -31868,20 +32151,28 @@ Abbreviations.
 भाविकत्वं च निजगुरलंकारं सुमेधसः॥४॥**
 
 **प्रेयो गृहागतं कृष्णमवादीद्विदुरो यथा।  
-[अद्य]("Found in the Kâvyâdars’a of Daṇḍin 2-276. Also quoted in the श्रित्रमीमांसाof अप्पय्यदीक्षित without the anthor's narie P 42.") या मम गोविन्द जाता त्वयि गृहागते॥  
+अद्य[^3607] या मम गोविन्द जाता त्वयि गृहागते॥  
 कालेनैषाभवेत् प्रीतिस्तवैवागमनात् पुनः॥५॥**
 
-**[रसवद्दर्शित]("Quotel, without भामह's name in the जयमङ्गला on भट्टि X. 47. (V. 1. दर्शित ) Uâbhâtâlaikârasaṅgraha has रसवद्दर्शितस्पष्टशृङ्गारादिरसोदयम्। स्वशब्दस्थापितं चारिविभाचाभिनयास्पदम्॥")स्पष्टशृङ्गारादिरसं यथा।  
+[^3607]: "Found in the Kâvyâdars’a of Daṇḍin 2-276. Also quoted in the श्रित्रमीमांसाof अप्पय्यदीक्षित without the anthor's narie P 42."
+
+**रसवद्दर्शित[^3608] Uâbhâtâlaikârasaṅgraha has रसवद्दर्शितस्पष्टशृङ्गारादिरसोदयम्। स्वशब्दस्थापितं चारिविभाचाभिनयास्पदम्॥")स्पष्टशृङ्गारादिरसं यथा।  
 देवी समागमद्धर्ममस्करिष्यतिरोहिता॥६॥**
+
+[^3608]: "Quotel, without भामह's name in the जयमङ्गला on भट्टि X. 47. (V. 1. दर्शित
 
 ऊर्जस्वि कर्णेन यथा पार्थाय पुनरागतः।  
 द्विः संदधाति किं कर्णः शल्येत्यहिरपाकृतः॥७॥
 
-[पर्यायोक्तं]("Quoted in the Jayamaṅgala on Bhaṭṭi X. 49 without Bhâmaha's name.") यदन्येन प्रकारेणाभिधीयते।  
+पर्यायोक्तं[^3609] यदन्येन प्रकारेणाभिधीयते।  
 उवाच रत्नाहरणे चैद्यंशार्ङ्गधनुर्यथा॥८॥
 
-[गृहेष्वध्वसु]("Found, quoted with भामह's name in ध्वन्यालोकलोचन p. 40 (V. 1. पदवीतिनौविप्रा न भुञ्जते तत्र ).") वा नान्नंभुञ्ज्महे य (द) धीतिनः।  
+[^3609]: "Quoted in the Jayamaṅgala on Bhaṭṭi X. 49 without Bhâmaha's name."
+
+गृहेष्वध्वसु[^3610].") वा नान्नंभुञ्ज्महे य (द) धीतिनः।  
 न भुञ्जते द्विजास्तच्च रसदाननिवृत्तये॥९॥
+
+[^3610]: "Found, quoted with भामह's name in ध्वन्यालोकलोचन p. 40 (V. 1. पदवीतिनौविप्रा न भुञ्जते तत्र
 
 समाहितं राजमित्रे यथा क्षत्रिययोषिताम्।  
 रामप्रसक्त्यैयान्तीनां पुरोऽदृश्यत नारदः॥१०॥
@@ -31889,24 +32180,32 @@ Abbreviations.
 उदातं शक्तिमान् रामो गुरुवाक्यानुरोधकः।  
 विहायोपवनं राज्यं यथा वनमुपागमत्॥११॥
 
-[एतदेवापरेऽन्येन]("Found, quoted withont भामह's name in the जयमङ्गला on भट्टि X. 62. (V. 1. वाक्यार्थेनान्यथा, नानारत्नर्वियुक्त and नानारत्नवियुक्तं ).") व्याख्यानेनान्यथा विदुः।  
+एतदेवापरेऽन्येन[^3611].") व्याख्यानेनान्यथा विदुः।  
 नानारत्नादियुक्तं यत् तत् किलोदात्तमुच्यते॥१२॥
+
+[^3611]: "Found, quoted withont भामह's name in the जयमङ्गला on भट्टि X. 62. (V. 1. वाक्यार्थेनान्यथा, नानारत्नर्वियुक्त and नानारत्नवियुक्तं
 
 चाणक्यो नक्तमुपयान्नन्दक्रीडागृहं यथा।  
 शशिकान्तोपलच्छन्नं विवेद पयसां गणैः॥१३॥
 
-[उपमानेन]("Quoted without भामह's name in the जयमङ्गला on the भट्टि X 54 (क्रियागुणाभ्याV. 1.)") यत् तत्त्वमुपमेयस्य साध्यते।  
+उपमानेन[^3612]") यत् तत्त्वमुपमेयस्य साध्यते।  
 गुणक्रियाभ्यां नाम्ना श्लिष्टंतदभिधीयते॥१४॥
+
+[^3612]: "Quoted without भामह's name in the जयमङ्गला on the भट्टि X 54 (क्रियागुणाभ्याV. 1.
 
 [लक्षणं](http://्र "Quoted without भामह's name in जयमङ्गला on भट्टि X 54 ( विद्यते for लक्ष्यते and दृष्टः for इष्टः ).") रूपकेऽपीदं लक्ष्यते काममत्र तु।  
 इष्टः प्रयोगो युगपदुपमानोपमेययोः॥१५॥
 
 शीकराम्भोमदसृजस्तुङ्गा जलददन्तिनः।  
 इत्यत्र मेघकरिणां निर्देशः क्रियते समम्॥  
-[श्लेषादेवार्थवचसोरस्य]("Quoted without भामह's name in जयमङ्गला on भट्टि X 04 (V. 1. बचसोर्यस्यक्रमशोfor त्रिविधं.)") च क्रियते भिदा॥१६॥
+श्लेषादेवार्थवचसोरस्य[^3613]") च क्रियते भिदा॥१६॥
 
-[तत्]("Quoted with भामह's name in the commentary on उद्भटालंकारसारसंग्रह by प्रतीहारेन्दुराज") सहोक्त्युपमाहेतुनिर्देशात् क्रमशो यथा।  
+[^3613]: "Quoted without भामह's name in जयमङ्गला on भट्टि X 04 (V. 1. बचसोर्यस्यक्रमशोfor त्रिविधं.
+
+तत्[^3614] सहोक्त्युपमाहेतुनिर्देशात् क्रमशो यथा।  
 छायावन्तो गतव्यालाः स्वारोहाः फलदायिनः॥१७॥
+
+[^3614]: "Quoted with भामह's name in the commentary on उद्भटालंकारसारसंग्रह by प्रतीहारेन्दुराज"
 
 मार्गद्रुमा महान्तश्चपरेषामेव भूतये।  
 उन्नता लोकदयिता महान्तः प्राज्यवर्षिणः॥  
@@ -31915,57 +32214,83 @@ Abbreviations.
 रत्नवत्त्वादगाधत्वात् स्वमर्यादाविलङ्घनात्।  
 बहुसत्त्वाश्रयत्वाच्च सदृशत्वमुदन्वता॥१९॥
 
-[अपह्णुतिरभीष्टा](" Quoted without मामह's name in the जयमङ्गला on the भट्टि X. 57 ºरितिष्टात्र, ºपहवादेषा, क्रियतेऽस्या भिदा यथा). Udbhaṭa has the sate definition as Bhâmaha, but has निवन्ध क्रियतेबुधैः for क्रियते चामिधायथा- 'The first hall is quoted in ध्वन्यालोकलोचन also, p. 38, ºरमीष्टस्य &ºदर्थगतोपमा ).") च किञ्चिदन्तर्गतोपमा।  
+अपह्णुतिरभीष्टा[^3615]. Udbhaṭa has the sate definition as Bhâmaha, but has निवन्ध क्रियतेबुधैः for क्रियते चामिधायथा- 'The first hall is quoted in ध्वन्यालोकलोचन also, p. 38, ºरमीष्टस्य &ºदर्थगतोपमा ).") च किञ्चिदन्तर्गतोपमा।  
 भूतार्थापह्ववादस्याः क्रियते चाभिया यथा॥२०॥
 
-[नेयं]("Quted in ध्वन्यालोकलोचन p. 38 ( ºराकृष्यमाणस्य) Also found quoted with मामह's name by बल्लम in सुभाषितावाले No. 1644 (मधुरास्वरा forमुखरा मुहुः and ºमाकृष्यमाणस्प) Also found, quoted in हेमचन्द्र'sकाव्यानुशासन P. 28 ( अयप्राकृष्यमाणस्य ).") विरौति भृङ्गाली मदेन मुखरा मुहुः।  
+[^3615]: " Quoted without मामह's name in the जयमङ्गला on the भट्टि X. 57 ºरितिष्टात्र, ºपहवादेषा, क्रियतेऽस्या भिदा यथा
+
+नेयं[^3616] Also found quoted with मामह's name by बल्लम in सुभाषितावाले No. 1644 (मधुरास्वरा forमुखरा मुहुः and ºमाकृष्यमाणस्प) Also found, quoted in हेमचन्द्र'sकाव्यानुशासन P. 28 ( अयप्राकृष्यमाणस्य ).") विरौति भृङ्गाली मदेन मुखरा मुहुः।  
 अयमाक्रन्दमाणस्य कन्दर्पधनुषो ध्वनिः॥२१॥
 
-[एकदेशस्य]("Quoted in लोचन p. 38 ( निगमे, ºसंस्कृतिः, ºक्तिरिति स्मृता) Also quoted without भामह's name in जयमङ्गला on मट्टि X 68. ( संस्तुतिः ) Also quoted by प्रतिहारेन्दुराज on उद्भट'sकाव्यालंकारसारसंग्रह (ºसंस्तुतिः ) with मामह's name.") विगमे या गुणान्तरसंस्थितिः।  
+[^3616]: "Quted in ध्वन्यालोकलोचन p. 38 ( ºराकृष्यमाणस्य
+
+एकदेशस्य[^3617] Also quoted without भामह's name in जयमङ्गला on मट्टि X 68. ( संस्तुतिः ) Also quoted by प्रतिहारेन्दुराज on उद्भट'sकाव्यालंकारसारसंग्रह (ºसंस्तुतिः ) with मामह's name.") विगमे या गुणान्तरसंस्थितिः।  
 विशेषप्रथनायासौ विशेषोक्तिर्मता यथा॥२२॥
 
-[स]("Quoted in the [ध्वन्यालोकलोचन p. 38 ( न हतं बलम् ) Also quoted by हेमचन्द्र in his काव्यानुशासन P. 270.") एकस्त्रीणि जयति जगन्ति कुसुमायुधः।  
+[^3617]: "Quoted in लोचन p. 38 ( निगमे, ºसंस्कृतिः, ºक्तिरिति स्मृता
+
+स[^3618] Also quoted by हेमचन्द्र in his काव्यानुशासन P. 270.") एकस्त्रीणि जयति जगन्ति कुसुमायुधः।  
 हरतापि तनुं यस्य शंभुना न वलंहृतम्॥२३॥
 
-[गुणस्य]("Found, quoted, withont भामह's name in the जयमङ्गला on the भट्टिX. 63 ( गुणस्य च, ºक्रियाभिधा, विदुर्यथा ).") वा क्रियाया वा विरुद्धान्यक्रियाभिदा।  
+[^3618]: "Quoted in the ध्वन्यालोकलोचन p. 38 ( न हतं बलम्
+
+[गुणस्य[^3619].") वा क्रियाया वा विरुद्धान्यक्रियाभिदा।  
 या विशेषाभिधानाय विरोधं तं विदुर्बुधाः॥२४॥
+
+[^3619]: "Found, quoted, withont भामह's name in the जयमङ्गला on the भट्टिX. 63 ( गुणस्य च, ºक्रियाभिधा, विदुर्यथा
 
 उपान्तरूढोपवनच्छायाशीतापि धूरसौ।  
 विदूरदेशानपि वः संतापयति विद्विषः॥२५॥
 
-[न्यूनस्यापि](" Found quoted without भामह's name in the जयमङ्गला on the भट्टि X. 16.") विशिष्टेन गुणसाम्यविवक्षया।  
+न्यूनस्यापि[^3620] विशिष्टेन गुणसाम्यविवक्षया।  
 तुल्यकार्यक्रियायोगादित्युक्ता तुल्ययोगिता॥२६॥
+
+[^3620]: " Found quoted without भामह's name in the जयमङ्गला on the भट्टि X. 16."
 
 शेषो हिमगिरिस्त्वं च महान्तो गुरवः स्थिराः।
 
-**यदलङ्घित्तमर्यादाश्चलन्तीं [बिभृथ]("विभ्रति M.") क्षितिम्॥२७॥**
+**यदलङ्घित्तमर्यादाश्चलन्तीं बिभृथ[^3621] क्षितिम्॥२७॥**
 
-**[अधिकारादपेतस्य]("Found, quoted in the ध्वन्यालोकलोचन p. 42 ( ºप्रशंसा सा त्रिविधा परिर्तिता). It may have been quoted from some other work, asमामह's प्रस्तुतप्रशंसा is not of three kinds.") वस्तुनोऽन्यस्य या स्तुतिः।  
+[^3621]: "विभ्रति M."
+
+**अधिकारादपेतस्य[^3622]. It may have been quoted from some other work, asमामह's प्रस्तुतप्रशंसा is not of three kinds.") वस्तुनोऽन्यस्य या स्तुतिः।  
 अप्रस्तुतप्रशंसेति सा चैवं कथ्यते यथा॥२८॥**
+
+[^3622]: "Found, quoted in the ध्वन्यालोकलोचन p. 42 ( ºप्रशंसा सा त्रिविधा परिर्तिता
 
 **प्रीणितप्रणयि स्वादु काले परिणतं बहु।  
 विना पुरुषकारेण फलं पश्यत शास्त्रिनाम्॥२९॥**
 
-**[दूराधिकगुणस्तोत्रव्यपदेशेन]("Found, quoted, without मामह's name in the जयमङ्गला on the भट्टि X. 59 ( तुल्यता, विधित्सया ).") तुल्यताम्।  
+**दूराधिकगुणस्तोत्रव्यपदेशेन[^3623].") तुल्यताम्।  
 किञ्चिद्विधित्सोर्यानिन्दा व्याजस्तुतिरसौ यथा॥३०॥**
+
+[^3623]: "Found, quoted, without मामह's name in the जयमङ्गला on the भट्टि X. 59 ( तुल्यता, विधित्सया
 
 **रामः सप्ताभिनत् सालान् गिरिं क्रौञ्चं भृयूत्तमः।  
 शतांशेनापि भवता किं तयोः सदृशं कृतम्॥३१॥**
 
-**[क्रिययैव](" Found, quoted, without मामह's name, in the जयमङ्गला on the भट्टि X. 69 (तदर्थस्य विशिष्टस्योº, and इष्टा for ज्ञेया ).") विशिष्टस्य तदर्थस्ये पदर्शनात्।  
+**क्रिययैव[^3624].") विशिष्टस्य तदर्थस्ये पदर्शनात्।  
 ज्ञेया निदर्शना नाम यथेववतिभिर्विना॥३२॥**
 
-**[अयं]("Found, quoted with मामह's name by प्रतीहारेन्दुराज in his commentary on उद्भटालकारसारसंग्रह. Also found quoted in ध्वन्यालोकलोचन p. 209.") मन्दद्युतिर्भास्वानस्तं प्रतियियासति।  
+[^3624]: " Found, quoted, without मामह's name, in the जयमङ्गला on the भट्टि X. 69 (तदर्थस्य विशिष्टस्योº, and इष्टा for ज्ञेया
+
+**अयं[^3625] मन्दद्युतिर्भास्वानस्तं प्रतियियासति।  
 उदयः पतनायेति श्रीमतो बोधयन् नरान्॥३३॥**
 
-**[उपमानेन]("Found, quoted without मामह's name, in the जयमङ्गला on the भट्टि X. 60 ( उपमानस्य, रूपपन् for साथयत्, यो for यां).") तद्भावमुपमेयस्य साधयत्।  
+[^3625]: "Found, quoted with मामह's name by प्रतीहारेन्दुराज in his commentary on उद्भटालकारसारसंग्रह. Also found quoted in ध्वन्यालोकलोचन p. 209."
+
+**उपमानेन[^3626].") तद्भावमुपमेयस्य साधयत्।  
 यां वदत्युपमामेतदुपमारूपकं यथा॥३४॥**
+
+[^3626]: "Found, quoted without मामह's name, in the जयमङ्गला on the भट्टि X. 60 ( उपमानस्य, रूपपन् for साथयत्, यो for यां
 
 **समग्रगगनायाममानदण्डो स्थाङ्गिणः।  
 पादो जयति सिद्धस्त्रीमुखेन्दुनवदर्पणः॥३५॥**
 
-**[उपमानोपमेयत्वं]("Found, qnoted, without मामइ's name, in the जयमङ्गला on the भट्टि X. 64 (धीरा for नाम ).") यत्र पर्यायतो भवेत्।  
+**उपमानोपमेयत्वं[^3627].") यत्र पर्यायतो भवेत्।  
 उपमेयोपमां नाम ब्रुवते तां यथोदिताम्॥३६॥**
+
+[^3627]: "Found, qnoted, without मामइ's name, in the जयमङ्गला on the भट्टि X. 64 (धीरा for नाम
 
 **सुगन्धि नयनानन्दि मदिरामदपाटलम्।  
 अम्भोजमिव वक्रं ते त्वदास्यमिव पङ्कजम्॥३७॥**
@@ -31976,34 +32301,46 @@ Abbreviations.
 हिमपाताविलदिशो गाढालिङ्गनहेतवः।  
 वृद्धिमायान्ति यामिन्यः कामिनां प्रीतिभिः सह॥३९॥
 
-[विशिष्टस्य]("Quoted without भामह's name in the जयमङ्गला on the भट्टि X. 66.") यदादानमन्यापोहेन वस्तुनः।  
+विशिष्टस्य[^3628] यदादानमन्यापोहेन वस्तुनः।  
 अर्थान्तरन्यासवती परिवृत्तिरसौ यथा॥४०॥
+
+[^3628]: "Quoted without भामह's name in the जयमङ्गला on the भट्टि X. 66."
 
 प्रदाय वित्तमर्थिभ्यः स यशोधनमादित।  
 सतां विश्वजनीनानामिदमस्स्वलितं व्रतम्॥४१॥
 
-[उपमानेन]("Quoted without मामह's name in the जयमङ्गला on the मट्टि X. 67. (मानोपमेयस्य तत्त्वं च वदतः पुनः ससन्देहवचः स्तुत्यै) Also quoted in ध्वन्यालोकलोचन p. 107.") तत्त्वं च भेदं च वदतः पुनः।  
+उपमानेन[^3629] Also quoted in ध्वन्यालोकलोचन p. 107.") तत्त्वं च भेदं च वदतः पुनः।  
 ससन्देहं वचः स्तुत्यै ससन्देहं विदुर्यथा॥४२॥
+
+[^3629]: "Quoted without मामह's name in the जयमङ्गला on the मट्टि X. 67. (मानोपमेयस्य तत्त्वं च वदतः पुनः ससन्देहवचः स्तुत्यै
 
 किमयं शशी न स दिवा विराजते  
 कुसुमायुधो न धनुरस्य कौसुमम्।  
 इति विस्मयाद्विमृशतोऽपि मे मति-  
 स्त्वयि वीक्षते न लभतेऽर्थनिश्चयम्॥४३॥
 
-[यत्र]("Quoted withont भामह's name in the जयमङ्गला on the मट्टि X 68 (साहयस्याविवक्षात ).  Also quoted with भामह's name in the चित्रमीमांसा p 14 (विवक्षातो बदन्ति ) and without भामह's name in the अलंकारकौस्तुम p. 23 of विश्वेश्वरपण्डित (ºविवक्षात वदन्ति ).") तेनैव तस्य स्यादुपमानोपमेयता।  
+यत्र[^3630].  Also quoted with भामह's name in the चित्रमीमांसा p 14 (विवक्षातो बदन्ति ) and without भामह's name in the अलंकारकौस्तुम p. 23 of विश्वेश्वरपण्डित (ºविवक्षात वदन्ति ).") तेनैव तस्य स्यादुपमानोपमेयता।  
 असादृश्यविवक्षातस्तमित्याहुरनन्वयम्॥४४॥
+
+[^3630]: "Quoted withont भामह's name in the जयमङ्गला on the मट्टि X 68 (साहयस्याविवक्षात
 
 ताम्बूलरागवलयं स्फुरहशनदीधिति।  
 इन्दीवराभनयनं तवेव वदनं तव॥४५॥
 
-[श्लिष्टस्यार्थेन]("Found, quoted without भामह''s name in जयमङ्गला on भट्टि X . 69 (किंचित्रोत्प्रेक्षयाº )") संयुक्तः किंचिदुत्प्रेक्षयान्वितः।  
+श्लिष्टस्यार्थेन[^3631]") संयुक्तः किंचिदुत्प्रेक्षयान्वितः।  
 रूपकार्थेन च पुनरुत्प्रेक्षावयवो यथा॥४६॥
 
-[तुल्योदयावसान]("Found quoted in ध्वन्यालोकलोचन p. 41 ( तमोगुहाम् ).")त्वाद्गतेऽस्तं प्रति भास्वति।  
+[^3631]: "Found, quoted without भामह''s name in जयमङ्गला on भट्टि X . 69 (किंचित्रोत्प्रेक्षयाº
+
+तुल्योदयावसान[^3632].")त्वाद्गतेऽस्तं प्रति भास्वति।  
 वासाय वासरः क्लान्तो विशतीव तमोगृहम्॥४७॥
 
-[वरा](" Found, quoted without मामह's name in the जयमङ्गला on the मट्टि X.70 (परामिभूता, कथ्यते for उदिता ).") विभूषा संसृष्टिर्वह्वलंकारयोगतः।  
+[^3632]: "Found quoted in ध्वन्यालोकलोचन p. 41 ( तमोगुहाम्
+
+वरा[^3633].") विभूषा संसृष्टिर्वह्वलंकारयोगतः।  
 रचिता रत्नमालेव सा चैवमुदिता यथा॥४८॥
+
+[^3633]: " Found, quoted without मामह's name in the जयमङ्गला on the मट्टि X.70 (परामिभूता, कथ्यते for उदिता
 
 गाम्भीर्यलाघववतोर्युवयोः प्राज्यरत्नयोः।  
 सुखसेव्यो जनानां त्वं दुष्टग्राहोऽम्भसां पतिः॥४९॥
@@ -32014,14 +32351,18 @@ Abbreviations.
 अन्येषामपि कर्त्तव्या संसृष्टिरनया दिशा।  
 कियदुद्धट्टितज्ञेभ्यः शक्यं कथयितुं मया॥५१॥
 
-[भाविकत्वमिति]("Found, quoted without the author's name, in the Jayamaṅgalâ on the Bhaṭṭi- kâvya XII. 1.  Also, quoted without the name of the author, in the Sarvapathîna by Mallinâtha on the Bhatti XII. 1.") प्राहुः प्रबन्धविषयं गुणम्।  
+भाविकत्वमिति[^3634] प्राहुः प्रबन्धविषयं गुणम्।  
 प्रत्यक्षा इव दृश्यन्ते यत्रार्थाभूतभाविनः॥५२॥
+
+[^3634]: "Found, quoted without the author's name, in the Jayamaṅgalâ on the Bhaṭṭi- kâvya XII. 1.  Also, quoted without the name of the author, in the Sarvapathîna by Mallinâtha on the Bhatti XII. 1."
 
 ३चित्रोदात्ताद्भूतार्थत्वं कथायाः स्वभिनीतता।  
 शब्दानाकुलता चेति तस्य हेतुं प्रचक्षते॥५३॥
 
-[आशीरपि]("Quoted in the जयमङ्गला on the भट्टिX. 71 आशीरिति च, सौहदस्याº).") च केषांचिदलंकारतया मता।  
+आशीरपि[^3635].") च केषांचिदलंकारतया मता।  
 सौहृदय्याविरोधोक्तौ प्रयोगोऽस्याश्च तद्यथा॥५४॥
+
+[^3635]: "Quoted in the जयमङ्गला on the भट्टिX. 71 आशीरिति च, सौहदस्याº
 
 अस्मिञ्जहीहि सुहृदि प्रणयाभ्यसूया-  
 माश्लिप्य गाढममुमानतमादरेण।  
@@ -32051,8 +32392,10 @@ Abbreviations.
 
 **अथ चतुर्थः परिच्छेदः।**
 
-[अपार्थं]("The first verse and the first half of the second is exactly the same in the Kâvyâdars'a of Danḍin. 3-125-126.") व्यर्थमेकार्थससंशयमपक्रमम्।  
+अपार्थं[^3636] व्यर्थमेकार्थससंशयमपक्रमम्।  
 शब्दहीनं यतिभ्रष्टंभिन्नवृत्तं विसन्धि च॥१॥
+
+[^3636]: "The first verse and the first half of the second is exactly the same in the Kâvyâdars'a of Danḍin. 3-125-126."
 
 देशकालकलालोकन्यायागमविरोधि च।  
 [प्रतिज्ञाहेतुदृष्टान्तहीनं](http://्र "The line प्रतिज्ञाºis quoted by Premachandratarkavagis's in his commentary on the Kâvyâdars'a 3-197.") दुष्टं च नेष्यते॥२॥
@@ -32105,8 +32448,10 @@ Abbreviations.
 ससंशयमिति प्राहुस्ततस्तज्जननं वचः।  
 इष्टं निश्चितये वाक्यं न वेलायेति (?) तद्यथा॥१८॥
 
-[व्यालवन्तो]("Quoted by हेमचन्द्र in his commentary on काव्यानुशासन p. 279.") दुरारोहा रत्नवन्तः फलान्विताः।  
+व्यालवन्तो[^3637] दुरारोहा रत्नवन्तः फलान्विताः।  
 विषमा भूभृतस्तेभ्यो भयमाशु प्रमादिनाम्॥१९॥
+
+[^3637]: "Quoted by हेमचन्द्र in his commentary on काव्यानुशासन p. 279."
 
 यथोपदेशं क्रमशो निर्देशोऽत्र क्रमो मतः।  
 तदपेतं विपर्यासादित्याख्यातमपक्रमम्॥२०॥
@@ -32120,8 +32465,10 @@ Abbreviations.
 स्फुरत्तडिद्वयिनो वितताम्भोगरीयसः।  
 तेजस्तिरयतः सौरं घनान् पश्य दिवाभितः॥२३॥
 
-यतिश्छन्दोनि [रूढानां]("ºधिरूढाना M.") शब्दानां या विचारणा।  
+यतिश्छन्दोनि रूढानां[^3638] शब्दानां या विचारणा।  
 तदपेतं यतिभ्रष्टमिति निर्दिश्यते यथा॥२४॥
+
+[^3638]: "ºधिरूढाना M."
 
 विद्युत्वन्तस्तमालासितवपुष इमे वारिवाहा ध्वनन्ति॥२५॥
 
@@ -32189,7 +32536,9 @@ Abbreviations.
 शास्त्रलोकापास्यैवं नयन्ति नयवेदिनः॥४६॥
 
 सचेतसो वनेभस्य चर्मणा निर्मितस्य च।  
-विशेषं वेद बालोऽपि कष्टं किं [नु]("तु. M.")कथं नु तत्॥४७॥
+विशेषं वेद बालोऽपि कष्टं किं नु[^3639]कथं नु तत्॥४७॥
+
+[^3639]: "तु. M."
 
 आगमो धर्मशास्त्राणि लोकसीमा च तत्कृता।  
 तद्विरोधि तदाचारव्यतिक्रमणतो यथा॥४८॥
@@ -32213,14 +32562,22 @@ Abbreviations.
 समासेन यथान्यायं तन्मात्रार्थप्रतीतये॥१॥
 
 प्रायेण दुर्बोधतया शास्त्राद्विभ्यत्यमेधसः।  
-तदुच्छन्दनायैप हेतुन्याय?[लवोच्चयः]("°बलो° M.")॥२॥
+तदुच्छन्दनायैप हेतुन्याय?लवोच्चयः[^3640]॥२॥
 
-[स्वादुकाञ्यरसोन्मिश्रं]("Quoted with भामइ's name in ध्वन्यालोकलोचन p. 182 ( वाक्यार्थमुपभुञ्जते ).") शास्त्रमप्युपयुञ्जते।  
+[^3640]: "°बलो° M."
+
+स्वादुकाञ्यरसोन्मिश्रं[^3641].") शास्त्रमप्युपयुञ्जते।  
+
+[^3641]: "Quoted with भामइ's name in ध्वन्यालोकलोचन p. 182 ( वाक्यार्थमुपभुञ्जते
 
 मालीदमधवः पिवन्ति कटु भेषजम्॥३॥
 
-[न]("Quoted without Bhâmaha's name by Hemachandra in his Tikâ on the Kâvyânus'âsana p. 7 ( काव्याङ्गमद्दाभारो गुरुः कवेः )") स शब्दो न [तद्वाच्यं]("°द्वाक्यं M.") न स न्यायो न सा कला।  
+न[^3642]") स शब्दो न तद्वाच्यं[^3643] न स न्यायो न सा कला।  
 जायते यत्र काव्याङ्गमही भारो महान् कवेः॥४॥
+
+[^3642]: "Quoted without Bhâmaha's name by Hemachandra in his Tikâ on the Kâvyânus'âsana p. 7 ( काव्याङ्गमद्दाभारो गुरुः कवेः
+
+[^3643]: "°द्वाक्यं M."
 
 सत्त्वादयः प्रमाणाभ्यां प्रत्यक्षमनुमा च ते।  
 असाधारणसामान्यविषयत्वं तयोः किल॥५॥
@@ -32238,7 +32595,9 @@ Abbreviations.
 विज्ञानमत्र सादृश्याद्विशेषो स (स्य! ) विकल्पना॥९॥
 
 अर्थादेवेति रूपादेस्तत एवेति न्यायतः।  
-[अन्यथा]("अन्यदा T.") घटविज्ञानमन्येन व्यपदिश्यते॥१०॥
+अन्यथा[^3644] घटविज्ञानमन्येन व्यपदिश्यते॥१०॥
+
+[^3644]: "अन्यदा T."
 
 त्रिरूपाल्लिङ्गतो ज्ञानमनुमानं च केन च (केचन ? )।  
 तद्विदो नान्तरीयार्थदर्शनं चापरं विदुः॥११॥
@@ -32247,16 +32606,26 @@ Abbreviations.
 पक्षस्तस्य च निर्देशः प्रतिज्ञेत्यभिधीयते॥१२॥
 
 तदर्थहेतुसिद्धान्तसर्वागमविरोधिनी।  
-[प्रसिद्धधर्मा]("विरुद्धमां T.") प्रत्यक्षबा[धिनी]("°वादिनी M. ") चेति दुष्यति॥१३॥
+प्रसिद्धधर्मा[^3645] प्रत्यक्षबाधिनी[^3646] चेति दुष्यति॥१३॥
+
+[^3645]: "विरुद्धमां T."
+
+[^3646]: "°वादिनी M. "
 
 तयैव हि तदर्थस्य विरोधकरणं यथा।  
 यतिर्मम पिता बाल्यात् सूनुर्यस्याहमौरसः॥१४॥
 
-[अस्यात्मा]("अस्यात्मा T.") प्रकृतिर्वेति ज्ञेया हेत्वपवादिनी।  
-धर्मिणोऽस्याप्रसिद्धत्वात्त[द्धर्मोऽपि]("°तदर्थोऽपि M.") न सेत्स्यति॥१५॥
+अस्यात्मा[^3647] प्रकृतिर्वेति ज्ञेया हेत्वपवादिनी।  
+धर्मिणोऽस्याप्रसिद्धत्वात्तद्धर्मोऽपि[^3648] न सेत्स्यति॥१५॥
+
+[^3647]: "अस्यात्मा T."
+
+[^3648]: "°तदर्थोऽपि M."
 
 शाश्वतोऽशाश्वतो वेति प्रसिद्धे धर्मिणि ध्वनौ।  
-जायते भेदविषयो विवादो [वादिनोर्मिथः]("वादिनो मिथः M.")॥१६॥
+जायते भेदविषयो विवादो वादिनोर्मिथः[^3649]॥१६॥
+
+[^3649]: "वादिनो मिथः M."
 
 स्वसिद्धान्तविरोधित्वाद्विज्ञेया तद्विरोधिनी।  
 कणभक्षो यथा शब्दमाचक्षीताविनश्वरम्॥१७॥
@@ -32268,7 +32637,9 @@ Abbreviations.
 प्रसिद्धधर्मेति मता श्रोत्रग्राह्योध्वनिर्यथा॥१९॥
 
 प्रत्यक्षवाधिनी तेन प्रमाणेनैव बाध्यते।  
-यथा शीतोऽनलो नास्ति [रूपमुष्णः]("कूप° M.") क्षपाकरः॥२०॥
+यथा शीतोऽनलो नास्ति रूपमुष्णः[^3650] क्षपाकरः॥२०॥
+
+[^3650]: "कूप° M."
 
 सन् द्वयोः सदृशे सिद्धो व्यावृत्तस्तद्विपक्षतः।  
 हेतुस्त्रिलक्षणो ज्ञेयो हेत्वाभासो विपर्ययात्॥२१॥
@@ -32303,11 +32674,15 @@ Abbreviations.
 अथ नित्याविनाभावि दृष्टं जगति कारणम्।  
 कारणं चेन्न तत्रित्यं नित्यं चेत् कारणं न तत्॥३१॥
 
-लक्ष्मप्रयोगदोषाणां?[भेदेनानेकवर्त्मना]("भेदेनानेन वर्त्मना M")।  
+लक्ष्मप्रयोगदोषाणां?भेदेनानेकवर्त्मना[^3651]।  
 सन्धादिसाधनं सिद्ध्यैशास्त्रेषुदितमन्यथा॥३२॥
 
+[^3651]: "भेदेनानेन वर्त्मना M"
+
 तज्ज्ञैः काव्यप्रयोगेषुतत्प्रादुष्कृतमन्यथा।  
-तत्र लोकाश्चयंकाव्यमानस्त[स्वदर्शिनः]("T. notices °स्तत्त्वशंसिनः also.")॥३३॥
+तत्र लोकाश्चयंकाव्यमानस्तस्वदर्शिनः[^3652]॥३३॥
+
+[^3652]: "T. notices °स्तत्त्वशंसिनः also."
 
 असिसङ्काशमाकाशंशब्दोदूरानुपात्ययम्।  
 तदेववा (+पि?) सिन्धूनामहो स्थेमा महार्चिषः॥३४॥
@@ -32347,8 +32722,10 @@ Abbreviations.
 अथाभ्युपगमप्राप्तिः सन्धाभ्युपंगमाद्विना।  
 अनुक्तमपि यत्रार्थादभ्युपैति यथोच्यते॥४५॥
 
-[किमिन्द्रियद्विषा]("ºद्विषां M.")ज्ञेयं को निराकृतयेऽरिभिः।  
+किमिन्द्रियद्विषा[^3653]ज्ञेयं को निराकृतयेऽरिभिः।  
 को वा गत्वरमर्थिभ्यो न यच्छति धनं लघु॥४६॥
+
+[^3653]: "ºद्विषां M."
 
 किमत्ययं तु यः क्षेपः सौकर्यं दर्शयत्यसौ।  
 हेतुस्त्रिलक्ष्मैव मृतः काव्येष्वपि सुमेधसाम्॥४७॥
@@ -32362,14 +32739,18 @@ Abbreviations.
 धूमादभ्रङ्कषात् साग्नेःप्रदेशस्यानुमामिव।  
 अपृथक्कृतसाध्योऽपि हेतुश्चात्र प्रतीयते॥५०॥
 
-अन्वयव्यतिरेकाभ्यां [विनैवार्थगतिर्यथा]("विनैकार्यºM.")।  
+अन्वयव्यतिरेकाभ्यां विनैवार्थगतिर्यथा[^3654]।  
 दीप्रदीपा निशा जज्ञे व्यपवृत्तदिवाकरा॥५१॥
+
+[^3654]: "विनैकार्यºM."
 
 हेतुप्रदीपदीपत्वमपवृत्तौ रवेरिह।  
 तस्यापि सुथियामिष्ठा दोषाः प्राशुदितास्त्रयः॥५२॥
 
 अज्ञानसंशयज्ञानविपर्ययकृतो यथा।  
-काशा हरन्ति हृदयममी कुसुमसौ[रभात्]("ºसौहृदात् M.")॥५३॥
+काशा हरन्ति हृदयममी कुसुमसौरभात्[^3655]॥५३॥
+
+[^3655]: "ºसौहृदात् M."
 
 अपामभ्यर्णवर्त्तित्वादेते ज्ञेयाः शरारवः।  
 असौ शुक्लान्तनेत्रत्वाच्चकोर इति गृह्यताम्॥५४॥
@@ -32477,8 +32858,10 @@ Abbreviations.
 विनश्वरोऽस्तु नित्यो वा संबन्धोऽर्थेन वासता।  
 नमोऽस्तु तेभ्यो विद्वदभ्यः प्रमाणं येऽस्य निश्चितौ॥१५॥
 
-[अन्यापोहे]("अन्यापोहे न शब्दोºM.")नशब्दोऽर्थमाहेत्यन्ये प्रचक्षते।  
+अन्यापोहे[^3656]नशब्दोऽर्थमाहेत्यन्ये प्रचक्षते।  
 अन्यापोहश्चनामान्यवा (प? ) दार्थावा (पा ? ) कृतिः किल॥१६॥
+
+[^3656]: "अन्यापोहे न शब्दोºM."
 
 यदि गौरित्ययं शब्दः कृतार्थोऽन्यनिराकृतौ।  
 जनको गवि गोबुद्धेर्मृग्यतामपरो ध्वनिः॥१७॥
@@ -32550,8 +32933,10 @@ Abbreviations.
 सर्वेभ्यश्च भृशादिभ्यो वदेल्लुप्तहलंयथा।  
 प्रियोन्मनायते सा ते किं शठाभिमनायसे॥३९॥
 
-[तृतीयैकवचः]("तृतीयैव चतुः षष्ठ्याº M.")षष्ठयामामन्तं च वदेत् क्विपि।  
+तृतीयैकवचः[^3657]षष्ठयामामन्तं च वदेत् क्विपि।  
 यथोदितं बलभिदा सुरुचां विद्युतामिव॥४०॥
+
+[^3657]: "तृतीयैव चतुः षष्ठ्याº M."
 
 असन्तमपि यद्वाक्यं तत्तथैव प्रयोजयेत्।  
 यथोच्यतेऽम्भसां भासा यशसामम्भसामिति॥४१॥
@@ -32590,7 +32975,9 @@ Abbreviations.
 ठक् चापि तेन जयतीत्याक्षिकः शास्त्रिको यथा॥५२॥
 
 हितप्रकरणेऽणं च सर्वशब्दात् प्रयुञ्जते।  
-[ततच्छमिष्ट्]("ततश्चमिष्टया M.")या च यथा सार्वः सर्वीय इत्यपि॥५३॥
+ततच्छमिष्ट्[^3658]या च यथा सार्वः सर्वीय इत्यपि॥५३॥
+
+[^3658]: "ततश्चमिष्टया M."
 
 वदेदिमनिजन्तं च पटिमा उघिमा यथा।  
 विशेषेणेयसुन्निष्टो ज्यायानाप कनीयसीम्॥५४॥
@@ -32614,7 +33001,9 @@ Abbreviations.
 यथैतच्छ्याममाभाति वनं बनजलोचने॥६०॥**
 
 **नैकत्रौकारभूयस्त्वं गतो यातो हतो यथा।  
-सावर्ण्यावत्सयोभस्य?[ब्रूयान्नान्यत्र]("मूथान्नाºM.") पद्धतेः॥६१॥**
+सावर्ण्यावत्सयोभस्य?ब्रूयान्नान्यत्र[^3659] पद्धतेः॥६१॥**
+
+[^3659]: "मूथान्नाºM."
 
 **सालातुरीयमतमेतदनुक्रमेण  
 को वक्ष्यतीति विरतोऽहमतो विचारात्।  
@@ -32629,7 +33018,9 @@ Abbreviations.
 **अवलोक्य मतानि सत्कवीना-  
 मवगम्य स्वपिया च काव्यलक्ष्म।  
 सृजनावगमाय भामहेन  
-प्रथितं [रकिलगोमिसूनुनेदम्](" वकिलº M.")॥६४॥**
+प्रथितं रकिलगोमिसूनुनेदम्[^3660]॥६४॥**
+
+[^3660]: " वकिलº M."
 
 इति भामहालंकारे षष्ठःपरिच्छेदः।
 
@@ -32639,7 +33030,9 @@ Abbreviations.
 **षष्ठ्याशब्दस्य शुद्धिस्यादित्येव वस्तुपञ्चकं  
 उक्तं षद्भिः परिच्छेदैर्भामहेन क्रमेण वः॥**
 
-[श्रीदाशरथिपादेभ्यो]("M. has शुभमस्तु.")नमः॥
+श्रीदाशरथिपादेभ्यो[^3661]नमः॥
+
+[^3661]: "M. has शुभमस्तु."
 
 **———————**
 
@@ -32879,3 +33272,8 @@ The Pratâparudrîya, the Ratnâpaṇs, and the Ratnas'âņa.
 
 \]
 
+[^1482]: "विलोपसर्गाः T’. "
+
+[^1481]: "°प्रथितप्रतिष्ठाम् M."
+
+[^1480]: "किं चा° M. "

@@ -359,7 +359,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NDc3NDc1NTA
 
 हारबंध चित्र।
 
-![](../books_images/U-IMG-1704697864Screenshot2024-01-08123917.png)
+<MISSING_FIG href="../books_images/U-IMG-1704697864Screenshot2024-01-08123917.png"/>
 
 **प्रचंडबल निष्काम प्रकाशितमहागम॥ भावतत्त्वनिधे देव भालमत्राद्भुतं तव ॥ २५ ॥**
 
@@ -369,7 +369,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NDc3NDc1NTA
 
 **छत्रबंधचित्र।**
 
-![](../books_images/U-IMG-1704698472Screenshot2024-01-08124335.png)
+<MISSING_FIG href="../books_images/U-IMG-1704698472Screenshot2024-01-08124335.png"/>
 
 भवकाननमत्तेभ भग्नमायातमःप्रभ॥  
 विनयात्त्वां स्तुवे वीर विनतत्रिदशेश्वर २६
@@ -840,7 +840,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NDc3NDc1NTA
 
 षोडशदलपद्मबंधचित्रस्य स्वरूपम्
 
-![](../books_images/U-IMG-1704697007Screenshot2024-01-08122357.png)
+<MISSING_FIG href="../books_images/U-IMG-1704697007Screenshot2024-01-08122357.png"/>
 
 |                                |
 |:------------------------------:|
@@ -899,7 +899,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NDc3NDc1NTA
 
 द्वादशदल पद्म बंध।
 
-![](../books_images/U-IMG-1704697548Screenshot2024-01-08123105.png)
+<MISSING_FIG href="../books_images/U-IMG-1704697548Screenshot2024-01-08123105.png"/>
 
 यही गोमूत्रिकाबंध भी होसक्ता है।
 
@@ -2445,4 +2445,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NDc3NDc1NTA
 खेमराज श्रीकृष्णदास, "श्रीवेंकटेश्वर” स्टीम् जैस-बंबई.  
 
 \]
-

@@ -25,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkyNjU5MDQ1OTY
 
 **PREFACE.**
 
-![](../books_images/U-IMG-1729583069विद्याश्रीएम्.png)
+<MISSING_FIG href="../books_images/U-IMG-1729583069विद्याश्रीएम्.png"/>
 
  The idea of preparing an edition of Udbhaṭa's Kāvyālaṁkāra-sāra-saṁgraha was conceived as far back as theyear 1898 under peculiar circumstances. The editor was, at the time, in charge of the Government MSS. Library atthe Deccan College, and as such he had to examine and readthe MSS. carefully. The collections of 1872-73, 1873-74and 1874-75, acquired for the Government by Dr. Bühler, consisted of very rare and valuable works on Alaṁkāra, Kashmirian History and General Literature. A good MS. ofUdbhata's work with the commentary of Indurāja amongthem attracted the notice of the editor as being a fit subjectfor careful study. The celebrity of the author Udbhața,whose name was familiar to the readers of Kāvyaprakāśaof Mammata, who along withĀnandavardhana, Ruyyaka and Jagannātha mentions him with great respect, togetherwith the acuteness and learning of the commentatorIndurāja, added to the solicitude of the editor for taking upthe work immediately. Accordingly he started preparing the text with a view to edit it in the Bombay SanskritSeries; and the necessary permission of the EducationalDepartment was obtained in the year 1900 for the inclusionof the work in the Series. The work of the edition was beingcarried on along with his official and other duties. In course of time the press copy of the text was prepared, but beforeany arrangement for printing could be made the editorwas, in 1907, suddenly transferred from his post at theDeccan College. Owing to the transfer from Poona to other inconvenient places and owing to various othercauses the work of this edition was laid aside indefinitely,till at the suggestion of the authorities at the BhandarkarOriental Research Institute (to whose care, in the mean while, the management and publication of the B. S. Series
 
@@ -97,7 +97,7 @@ landmark in the development of the science of poetics. Judging from the tributes
 
 **INTRODUCTION.**
 
-![](../books_images/U-IMG-1729587220विद्याश्रीजि.png)
+<MISSING_FIG href="../books_images/U-IMG-1729587220विद्याश्रीजि.png"/>
 
 I THE AUTHOR.
 
@@ -166,6 +166,8 @@ From this we learn that Bhaṭṭa Udbhata was the Sabhāpati or the Head of the
 *                                   
                             *  
 
+ 
+
 1\. The text of Bhāmaha has now been discovered, and we find it printed as an appendix to Prat
 
 ā
@@ -219,8 +221,6 @@ For this information we are indebted to Indurāja whosays in one place of his co
 
 प्रायशः साम्यमेव सूचितम्[^8]point to the fact that Udbhaṭa wasa standard author on Alaṅkāra and had written somealaṅkāra works besides the present one. For the subjectsreferred to in the above passages are foriegn to this treatise.
 
-[^8]: "Alankarasarvasva, p. 3"
-
  The poem Kumārasambhava which was composedby Udbhața evidently contained the same theme thatmakes the story of the Kumārasambhava of Kālidāsa. Andprobably this was the reason why it was altogether lostto Sanskrit Literature except the fragment that exists inthe shape of the examples of Kāvyālaṁkārasārasangraha.Although it is no wonder that the Kumārasambhava ofUdbhața could not hold out for long against the established eminence of the poem of the Prince of poets, still hispoetry is not of a low order and if its subject were not thesame as that of Kālidāsa's Kumārasambhava it wouldsurely have held its own upto this time. The verses includedin the present work as examples are 94 and they are probab.ly one Sarga of the whole poem as the thread of the narrative goes on fairly unbroken from beginning to end. Butsometimes the natural order of verses seems to be changed. Thus the natural position of the 8th[^10]verse seems to beafter the 5th.[^11]It is standing without a verb in its present position. The 33rd[^12]verse should have its natural placeafter the 31st[^13],for the 32nd[^14]verse contains the exclamationof the pt and not the thoughts of Śiva as is required bythe 33rdverse.⁷A little gap is also occasionally experiencedbetween the meanings of two verses. Butthat is quite natural in a narrative specially composed toillustrate all figures in a settled order. Notwithstandingthis, there is a great beauty in the description and the style which makes it a great pleasure to read the poem even  
 ————————————————————————————————————  
 
@@ -265,6 +265,8 @@ IV\. UDBHATA'S POSITION IN ALAṄ
 *                                   
                                    
         *  
+
+ 
 
 1\. The only terminus ad quem to Rudrata's date was supposed tobe the middle of the eleventh century as his commentator Namisādhuhad written his comment in A.D.1069 But we can now say with certainty that he appeared before Induraja whose time we have settled tobe about A.D.970 We can also have a probable estimation of theterminus a quo of his date. Indurāja now and then quotes him without name And it is the habit of Indurāja to quote the recent authorsof his time without name. Also Dhvanyā
 
@@ -424,6 +426,8 @@ kāras. Thusall Vyaṅgya sense comes under पर्यायोक्त, अ�
 *                                   
                              *  
 
+ 
+
 1\. While the work is passing through the press we observe, however, that in his recently published essay on “The History of Alaṅ
 
 kāraLiterature,”prefixed as an Introduction to the Second Edition (1923) ofhis साहित्यदर्पण, Mr. P.V. Kano expresses his opinion that “though भट्टेन्दुराजand प्रतिहारेन्दुराजwere both of them well versed in Alaṅkara Śāstra andflourished almost about the same time, they must be regarded as distinct.” The facts of the case do not, it seems to us, warrant such a conclusion.We fail to see how the fact that Indurāja differed from the views ofthe author of Dhvanyāloka would prevent him from explaining thatwork to his pupil. Even at this date we observe a staunch Vaishnava, follower of Dvaita Vedānta, explaining to his pupil tenets of AdvaitaVedānta which he personally does not approve of. According to our oldideas the acharya or preceptor is regarded as सर्वशास्त्रपारंगतand is expected to teach every thing that the pupil has a craving to learn. Besides onemust bear in mind that Abhinavagupta had more teachers than one, andwhen he only says 'अस्मद्गुरवः','अस्मदुपाध्यायः',etc. without mentioning thename of the teacher it is quite possible that some teacher other than Indurāja might have been meant.
@@ -466,6 +470,8 @@ while still calling themselves Koṅkaṇasthas (i.e.कौङ्कणाः) h
 प्रजिघाय घनश्लाघः काश्मीरान्कोङ्कणे (न्कुङ्कुणे) श्वरः॥  
 तेन श्रीतेजकण्ठेन.........etc.  
             श्रीकण्ठचरित of मङ्ख, 25, 109 to 111.
+
+ 
 
 Thus Indurāja, although a Kashmirian to all intentsand purposes might very well call himself a Kauṅkaṇa.
 
@@ -530,7 +536,7 @@ to five different views on the interpretation of this definitionof the figure �
 
 **लघुवृत्तिसमेतः।**  
 
-**![](../books_images/U-IMG-1729773254विद्याश्रीएम्१.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729773254विद्याश्रीएम्१.png"/>**
 
 **प्रथमो वर्गः।**
 
@@ -577,6 +583,8 @@ to five different views on the interpretation of this definitionof the figure �
 **छेकानुप्रासः।**
 
 **छेकानुप्रासस्तु द्वयोर्द्वयोः सुसदृशोक्तिकृतौ॥३॥**
+
+ 
 
 द्वयोर्द्वयोरज्झलसमुदाययोः सुष्ठु सदृशे उच्चारणे क्रियमाणे सतिछेकानुप्रासो भवति। तथाविधा हि समुदायास्तत्रालंकारतां प्रतिपद्यन्ते। द्वयोर्द्वयोरिति—स्वार्थे अवधार्यमाणे अनेकस्मिन् —इति द्विर्वचनम्। तत्रस्वार्थग्रहणेन वीप्साया निरस्तत्वान्न यावन्तोत्र द्विकाः संभवन्ति तेषांसर्वेषामेव सुसदृशत्वं कार्यं किं तर्हि कतिपयानामेव। वीप्सा हि
 
@@ -1120,7 +1128,7 @@ to five different views on the interpretation of this definitionof the figure �
 
 **द्वितीयो वर्गः।**  
 
-**![](../books_images/U-IMG-1730130319श्रीविद्याएम्.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730130319श्रीविद्याएम्.png"/>**
 
 **आक्षेपोर्थान्तरन्यासो व्यतिरेको विभावना।  
 समासातिशयोक्ती चेत्यलंकारान्परे विदुः॥१॥ (२४)**
@@ -1394,7 +1402,7 @@ to five different views on the interpretation of this definitionof the figure �
 
 **तृतीयो वर्गः।**
 
-![](../books_images/U-IMG-1731506415विद्याग्णेश१२३.png)
+<MISSING_FIG href="../books_images/U-IMG-1731506415विद्याग्णेश१२३.png"/>
 
 **यथासंख्यमथोत्प्रेक्षां स्वभावोक्तिं तथैव च।  
 अपरे त्रीनलंकारान् गिरामाहुरलंकृतौ॥१॥ (३७)**
@@ -1514,7 +1522,7 @@ to five different views on the interpretation of this definitionof the figure �
 
 **चतुर्थो वर्गः।**  
 
-**![](../books_images/U-IMG-1730318124विद्याश्रीएम्९.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730318124विद्याश्रीएम्९.png"/>**
 
 प्रेयोरसवदूर्जस्वि पर्यायोक्तं समाहितम्।  
 द्विधोदात्तं तथा श्लिष्टमलंकारान्परे विदुः॥१॥ (४२)
@@ -1759,7 +1767,7 @@ to five different views on the interpretation of this definitionof the figure �
 
 **पञ्चमो वर्गः।**
 
-![](../books_images/U-IMG-1731057338विद्याश्रीजिहेगडे.png)
+<MISSING_FIG href="../books_images/U-IMG-1731057338विद्याश्रीजिहेगडे.png"/>
 
 **अपह्नुतिंविशेषोक्तिं विशेधं तुल्ययोगिताम्।  
 अप्रस्तुतप्रशंसां च व्याजस्तुतिविदर्शने॥१॥(५२)**
@@ -2033,7 +2041,7 @@ to five different views on the interpretation of this definitionof the figure �
 
 **षष्ठो वर्गः।**  
 
-![](../books_images/U-IMG-1731314696विद्याजि.png)
+<MISSING_FIG href="../books_images/U-IMG-1731314696विद्याजि.png"/>
 
 **अनन्वयं ससंदेहं संसृष्टिं भाविकं तथा।  
 काव्यदृष्टान्तहेतू चेत्यलंकारान्परे विदुः॥१॥(६८)**
@@ -2197,6 +2205,8 @@ to five different views on the interpretation of this definitionof the figure �
 विभूषाघटनादेशान् दर्शयन्ती दुनोति माम्॥\*८॥**
 
  अत्र विभूषणविन्यासास्पदभूता ये कण्ठादयस्तदत्र शिष्टानामङ्गानांयासौ कान्तिः दीप्तिः तस्या अनुज्ज्वला मलिना यासौ छाया शोभा सालिङ्गम्।तत्सामर्थ्याच्च भूषाविन्यासप्रदेशानां भूषणसंबन्धोतीतोनुमीयते। तेन तत्काव्यलिङ्गम्।
+
+ 
 
 काव्यदृष्टान्तः।
 
@@ -2498,7 +2508,7 @@ fourth पादis the repetition of the second. The firstआगस्यपि 
 
 ** P.7, L.12–** स च प्रथमं तावत्त्रिप्रकारः...।Udbhaṭa mentionsthe five varieties apparently without having any principlein his mind. But Indurājas divides लाटानुप्रास according tosome logical principle. His mode of division might bestated in a tabular form as follows:—
 
-![](../books_images/U-IMG-1732646037Screenshot2024-11-27000203.png)
+<MISSING_FIG href="../books_images/U-IMG-1732646037Screenshot2024-11-27000203.png"/>
 
  Nos. I and II are the 4th and 5th varieties according to Udbhaṭa's enumeration. No. III is the 2nd variety of
 
@@ -2787,7 +2797,7 @@ the currency or use of words (प्रवृत्तिनिमित्त) 
 
 ** P. 18, L. 20—**एषाचोपमा ......। Divisions of उपमा—
 
-![](../books_images/U-IMG-1731525468symbol11.png)
+<MISSING_FIG href="../books_images/U-IMG-1731525468symbol11.png"/>
 
 ** P. 18, LL. 24–27.**—अव्ययं हि......अवद्योतयति। अव्यय, being without a case termination, is not decidedly connected
 
@@ -2817,7 +2827,7 @@ either with उपमानwith उपमेयand therefore shows the relation 
 
 ** P. 22. L 10.**—तस्याश्च पञ्चविधत्वम्। लुप्तोपमा is also of five kinds. See the subjoined table.
 
-![](../books_images/U-IMG-1731532482symbol14.png)
+<MISSING_FIG href="../books_images/U-IMG-1731532482symbol14.png"/>
 
  **P. 22, L. 14.**—लुप्तैकदेशत्वमपि। Here (in the example अखण्डेनेन्दुना etc.) when we take असितोदरत्व as the साधारणधर्म, it is not present in both; so it is also an instance of a लुप्तोपमा. **L. 17**—साम्यवाचकविच्युतेः। When the साधारणधर्म is dropped. तद्वाचिविरहेण। when इवादि is dropped. तद्वाचि=उपमावाचि. **L. 21**—त्रयं अनुषज्यते। Here in the whole section the three expressions—संक्षेपाभिहिताप्येषा, क्वचित् समासे and निबध्यते are to be understood wherever they are required by the context. **L. 22**—साम्यवाचिवियोगेन।By dropping the साधारणधर्म. **L. 25**—शब्देन नोपात्तम्। Here the common property असितोदरत्व is not expressed by words, as it is to be understood by implication.
 
@@ -2904,7 +2914,7 @@ Though तिङन्त can never be aa उपमान, it can be an उप�
 
  They are given in the subjoined table:—
 
-![](../books_images/U-IMG-1731569573symbol15.png)
+<MISSING_FIG href="../books_images/U-IMG-1731569573symbol15.png"/>
 
 ** P. 29. L. 4**—तदंवमेदा.....।Thus 17 kinds of उपमा are explained by the Commentator: 5 kinds of संपूर्णा + 12 kinds of लुप्ता= 17. Mammaṭa recognises 25 kinds of उपमा, 6 पूर्णा and 19 लुप्ता. Udbhaṭa's divisions of लुप्तोपमा as well as of संपूर्णा are based on the difference of the substratum (e. g. वाक्य, समास etc.) in which theउपमा is found; while Mammaṭa's divisions are mainly based on the principle of the लोप of one, two or three of the requisites of उपमा.
 
@@ -3307,6 +3317,8 @@ From Indurāja's standpoint it will be—
 ** P, 40, LL. 6, 7**—श्लिष्टोक्तियोग्यशब्दस्य etc. (Kārikā 31)। “When a word capable of expressing double meaning is repeated separately, if there is establishment of superiority (विशेषापादन) then that also is व्यतिरेक." This cannot be called a श्लेषयुक्तव्यतिरेक. श्लिष्टोक्तियोग्यशब्दयुक्तव्यतिरेक would be a proper title for it. If a word stated only once has two meanings it becomes श्लेष. Here the same word is twice stated having two different meanings in its different positions, therefore it cannot be a श्लेष.
 
 ** P. 40, L. 9**—तन्त्रेण...... न क्रियते। Repetition of the word having two meanings is necessary. Either the statement of the word only once or the use of a different word having the same meaning will not do.
+
+ 
 
 **P. 40, LL. 13, 14**—या शैशिरी श्री.......। The example of the variety described above. Here तपस्has two different meanings in its two different positions: (1) the month माघ
 
@@ -4572,7 +4584,7 @@ in which that process is so quick and instantaneous that it cannot be noticed (*
 
  **P. 91, LL. 14-18—** **तदेवं ... षट्प्रकारता भवति।**Indurāja now once more enumerates the six divisions of **ध्वनि** hitherto explained. We also give them here:**—**
 
-![](../books_images/U-IMG-1730993016Untitled44.png)
+<MISSING_FIG href="../books_images/U-IMG-1730993016Untitled44.png"/>
 
 It will be clearly seen that this division is quite different from that put forth in **षट्प्रकारता...विवक्षितत्वाभ्यामुक्ता** (See p. 89, 11. 8-9). There all the three **ध्वनि**s, viz. **वस्तुरूप, अलंकाररूप** and **रसरूप** are each said to be twofold, viz. **विवक्षितवाच्य** and **अविवक्षितवाच्य**.
 
@@ -4629,7 +4641,7 @@ or **वस्तु. उभयशक्त्युद्भव** is only of on
 
 a has eighteen varieties of**ध्वनि**. Of these, all varieties except **उभयशक्त्युद्भव** are twofold, viz. **पदप्रकाश्य** and **वाक्यप्रकाश्य.** This brings the number of varieties up to 35.
 
-![](../books_images/U-IMG-1730993373Untitled66.png) Ā
+<MISSING_FIG href="../books_images/U-IMG-1730993373Untitled66.png"/> Ā
 
 nandavardhana's treatment is not so developed and systematic, but he has on the whole divided **ध्वनि**on the same principles. In **संलक्ष्यक्रमध्वनि** he has not the variety **उभयशक्त्युद्भव**. The **शब्दशक्त्युद्भव**is only **अलंकाररूप** according to him (like Indurāja), and not twofold as Mammaṭ
 
@@ -4655,7 +4667,7 @@ THE END.
 
 **APPENDIX I.**
 
-**![](../books_images/U-IMG-1730453220५५.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1730453220५५.png"/>  
 Variæ Lectiones.**
 
  The MS. acquired by Bühler and diposited in the Deccan College Mss. Library (now removed to the Bhandarkar Oriental Research Institute, Poona is called D.). Our Edition is mainly based on this MS.
@@ -4835,7 +4847,7 @@ APPENDIX II.
 
 **उद्भटालंकारसारसंग्रहस्थकारिकासंग्रहः।**
 
-![](../books_images/U-IMG-1730453987५५.png)
+<MISSING_FIG href="../books_images/U-IMG-1730453987५५.png"/>
 
 **प्रथमो वर्गः।**
 
@@ -5087,7 +5099,7 @@ APPENDIX II.
 *         *  
 
 APPENDIX III.  
-![](../books_images/U-IMG-1730531099७७.png)  
+<MISSING_FIG href="../books_images/U-IMG-1730531099७७.png"/>  
 उद्भटालंकारसारसंग्रहे लक्षितानामलंकाराणामुदाहरणसंग्रहः।
 
 **A list of all examples given by Udbhaṭ**
@@ -5141,6 +5153,7 @@ order in which they occur in the text.**
 पद्मिनीं पद्मिनीगाढस्पृहयागत्य मानसात्।  
 अन्तर्दन्तुरयामासुर्हंसा हंसकुलालयात्॥**१०**॥  
                (स्वतन्त्रपरतन्त्रपदाश्रयः।)      
+        
 
 **रूपकम्।**
 
@@ -5546,7 +5559,7 @@ order in which they occur in the text.**
 
 APPENDIX IV.
 
-![](../books_images/U-IMG-1730781800५५.png)
+<MISSING_FIG href="../books_images/U-IMG-1730781800५५.png"/>
 
 Quotations occurring in the Laghuvṛitti alphabetically arranged and traced to their sources.
 
@@ -5646,7 +5659,7 @@ Quotations occurring in the Laghuvṛitti alphabetically arranged and traced to 
 
 APPENDIX V.
 
-![](../books_images/U-IMG-1730791309५५.png)
+<MISSING_FIG href="../books_images/U-IMG-1730791309५५.png"/>
 
 (The numbers refer to pages and lines of our printed text.)
 
@@ -5666,7 +5679,7 @@ Alphabetical list of authors and works from whom Indurāja draws quotations in h
 
 APPENDIX VI.  
 
-![](../books_images/U-IMG-1730650409५५.png)  
+<MISSING_FIG href="../books_images/U-IMG-1730650409५५.png"/>  
 
 Verses cited by other writers and ascribed  
 to Indurāja and Udbhaṭa.
@@ -5775,7 +5788,7 @@ a\.
 
 **A list of Books Consulted in preparing this Edition.**
 
-![](../books_images/U-IMG-1730792551५५.png)
+<MISSING_FIG href="../books_images/U-IMG-1730792551५५.png"/>
 
 Abhidhāvṛittimātṛikā of Mukula. Nirnaya Sagara Edition; 1916.
 
@@ -5867,7 +5880,7 @@ Vārtikas of Kātyāyana on Pāṇini's Sūtras. References are to Panini's Sūt
 
 ADDITIONS AND CORRECTIONS.
 
-![](../books_images/U-IMG-1730877949५५.png)
+<MISSING_FIG href="../books_images/U-IMG-1730877949५५.png"/>
 
 Introduction.
 
@@ -5915,7 +5928,7 @@ To stanzas occurring in the text and the commentary.
 
 अकारादिक्रमेण पद्यानां सूची।
 
-![](../books_images/U-IMG-1730879691५५.png)
+<MISSING_FIG href="../books_images/U-IMG-1730879691५५.png"/>
 
 Items printed in black type refer to Kārikās of Udbhata.
 
@@ -5933,7 +5946,9 @@ INDEX II.
 
 To Introduction and Notes.
 
-![](../books_images/U-IMG-1731054039५५.png)
+<MISSING_FIG href="../books_images/U-IMG-1731054039५५.png"/>
+
+ 
 
 Roman figures indicate pages of the Introduction, while Arabic numerals refer to pages of the Notes. The abbreviated form *fig*. stands for 'figure of speech' or 'alaṁkāra'. Numerals printed in black type show that the main treatment of the alaṁkāra will be found in those pages. E. g. 'Atiśayokti, *fig*., xxii, 79-83'; here '*fig*.' indicates that it is an alaṁkāra, and it is principally treated in pp. 79-83.
 
@@ -5959,7 +5974,7 @@ Roman figures indicate pages of the Introduction, while Arabic numerals refer to
 
 [TABLE]
 
-![](../books_images/U-IMG-1730453800६६.png)
+<MISSING_FIG href="../books_images/U-IMG-1730453800६६.png"/>
 
 Printed at the Aryabhushan Press Poona, by Anant  
 Vinayak Patvardhan, and published by V. G.  
@@ -5967,6 +5982,6 @@ Paranjpe, M. A., LL. B., D. Litt., Secretary,
 Bhandarkar Oriental Research  
 Institute, Poona.
 
-![](../books_images/U-IMG-1730453800६६.png)
+<MISSING_FIG href="../books_images/U-IMG-1730453800६६.png"/>
 
 \]

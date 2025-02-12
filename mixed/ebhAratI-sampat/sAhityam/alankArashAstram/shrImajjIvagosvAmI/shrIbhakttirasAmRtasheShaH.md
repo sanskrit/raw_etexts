@@ -19,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 
 **विज्ञप्तिः**
 
-**![](../books_images/U-IMG-1729381138Screenshot2024-10-20045944.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729381138Screenshot2024-10-20045944.png"/>**
 
  परम करुण भगवद् श्रीकृष्णचैतन्य देव की अनुकम्पा से **"श्रीभक्तिरसामृतशेष"** नामक अलङ्कार ग्रन्थ प्रकाशित हुआ, प्रस्तुत ग्रन्थरत्न के रचयिता, विश्रुत कीर्त्तिश्रीजीवगोस्वामिचरण है ।
 
@@ -736,7 +736,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 | **गुणनिर्णयः|**  | नगुणत्वं समाधेश्च      |
 | गुणः             | तेन नार्थगुणाः पृथक्   |
 
-**![](../books_images/U-IMG-1729381138Screenshot2024-10-20045944.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729381138Screenshot2024-10-20045944.png"/>**
 
 [TABLE]
 
@@ -776,14 +776,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 | तद्गुणः                | प्रतीपम्           |
 | तुल्ययोगित             | प्रत्यनीकम्        |
 
-**![](../books_images/U-IMG-1729381138Screenshot2024-10-20045944.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729381138Screenshot2024-10-20045944.png"/>**
 
 **श्रीश्रीगौरगदाधरौविजयेताम्  
-![](../books_images/U-IMG-1729233863Screenshot(59).png)**  
+<MISSING_FIG href="../books_images/U-IMG-1729233863Screenshot(59"/>.png)**  
 **श्रीश्रीभक्तिरसामृतशेषः**  
 **प्रथमः प्रकाशः।**
 
-**![](../books_images/U-IMG-1729381138Screenshot2024-10-20045944.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729381138Screenshot2024-10-20045944.png"/>**
 
 **राधाकृष्णपदाश्रयिरूपश्रीः शश्वदद्भुता स्फुरति।  
 भक्तिरसामृतसिन्धु र्यस्याः प्रसरन्जगन्ति पुष्णाति॥१॥**
@@ -918,7 +918,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 
 नामधरे प्रथमः प्रकाशः॥१७॥
 
-![](../books_images/U-IMG-1729247221Screenshot(32).png)
+<MISSING_FIG href="../books_images/U-IMG-1729247221Screenshot(32"/>.png)
 
 **द्वितीयः प्रकाशः**
 
@@ -931,7 +931,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 ---------------------------------------------------------  
 रसामृतशेष नामधरे प्रथमः प्रकाशः॥१॥
 
-![](../books_images/U-IMG-1729247221Screenshot(32).png)
+<MISSING_FIG href="../books_images/U-IMG-1729247221Screenshot(32"/>.png)
 
 **काव्यलक्षण में उक्त—**
 
@@ -2116,10 +2116,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 
 **इति रसामृतशेषे तृतीयः प्रकाशः।**
 
-![](../books_images/U-IMG-1728874385रसभेद1-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1728874385रसभेद1-removebg-preview.png"/>
 
 **\* चतुर्थः प्रकाशः\***  
-![](../books_images/U-IMG-1728874385रसभेद1-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1728874385रसभेद1-removebg-preview.png"/>
 
 \[ **अलङ्कार–निर्णयः** \]
 
@@ -2136,7 +2136,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 
 इति रसामृतशेषे तृतीयः प्रकाशः।
 
-![](../books_images/U-IMG-1728874385रसभेद1-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-1728874385रसभेद1-removebg-preview.png"/>  
 **\* चतुर्थ प्रकाशः \*  
 \* अलङ्कारनिर्णयः \***
 
@@ -2848,7 +2848,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 
 **तेनोपमायाभेदाः स्युसप्तविंशति संख्यकाः॥**
 
-**![](../books_images/U-IMG-1728995626रसभेद2-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728995626रसभेद2-removebg-preview.png"/>**
 
  साधारण धर्म लोप से अलुप्त साधारण धर्म से उपमा दो प्रकार होगी। उस में से अलुप्त साधारण धर्म के मध्यमें विशेषकुछ कहते
 
@@ -3231,7 +3231,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 
  अत्र कलङ्कराहित्यादिनाऽधिकं वैशिष्ट्यं॥५॥
 
-![](../books_images/U-IMG-1729011200रसभेद3-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1729011200रसभेद3-removebg-preview.png"/>
 
 **विषयार्थतयारोप्ये प्रकृतार्थोपयोगिनि।  
 परिणामो भवेत्तुल्या तुल्याधिकरणो द्विधा॥**
@@ -3847,9 +3847,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 
  एकधर्म्माभिसम्बन्ध इत्यनुवर्त्तते। \*[^18]
 
-**'अथ कारकमेकं स्यादनेकासु क्रियासु चेत्।'**
-
 [^18]: "धर्म्म=क्रियादिरूपः।"
+
+**'अथ कारकमेकं स्यादनेकासु क्रियासु चेत्।'**
 
  यथा—
 
@@ -4119,7 +4119,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 
 **\* तदेवं व्यतिरेकभेद सङ्कलनम्\***
 
-![](../books_images/U-IMG-1729055052रसभेद2-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1729055052रसभेद2-removebg-preview.png"/>
 
 |                                     |                                                                |     |
 |-------------------------------------|----------------------------------------------------------------|-----|
@@ -4143,7 +4143,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 | श्लेषे - १२                         | आक्षिप्तौपम्ये उक्तक्रमेण                                      | ४   |
 |                                    |                                                               | ४८  |
 
-![](../books_images/U-IMG-1729055084रसभेद1-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1729055084रसभेद1-removebg-preview.png"/>
 
 **'सहाधरेण राधाया यौवने रागभाक् प्रियः।**
 
@@ -4485,6 +4485,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 
  विशेष्य विशेषणोभयश्लेष अप्रस्तुतात् समात् प्रस्तुतसमप्रतीतौ..१
 
+                                   
         ७
 
  उक्ते सम्भवरूपत्वे-उक्तविधा एव सप्त........................................७
@@ -4497,7 +4498,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 
  वैधर्म्म्येभेदस्तुक्वचिदेव सम्भवतीति साधर्म्यवैधर्म्म्याभ्यां सर्वं द्वैविध्यं न गणितम्। एवञ्च कारिकायां पञ्चधा इति पञ्चविधत्वोक्तिः प्रधानाभिप्रायेणेति बोध्यम्।
 
-![](../books_images/U-IMG-1728616357Capture.JPG) 
+<MISSING_FIG href="../books_images/U-IMG-1728616357Capture.JPG"/> 
 
  अप्रस्तुत का कथन से प्रस्तुत विषय का बोध होता है, यह अप्रस्तुत प्रशंसा है, इस प्रकार अन्य कथन से अन्य का बोध होने से आर काई अलङ्कार होगा या नहीं इस के उत्तर में कहते हैं—उक्ता
 
@@ -4978,7 +4979,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 | क्रिययासह द्रव्यस्य विरोधः  | अनङ्गो यत्कटाक्षेण           |
 | द्रव्येन सह द्रव्यस्य विरोधः | त्वत् कीर्त्या सितिमाद्धेते  |
 
-![](../books_images/U-IMG-1728791306Capture.JPG) 
+<MISSING_FIG href="../books_images/U-IMG-1728791306Capture.JPG"/> 
 
  विरोध प्रस्ताव से विरोध विशेष घटित असङ्गति अलङ्कार का निरुपण करते है, कार्य कारण भिन्न अधिकरण में होने से असङ्गति नामक अलङ्कार होता है, कार्य का वैयधिकरण होने से ही असङ्गति है। कार्य कारण का सामानाधिकर होना ही नियम है।
 
@@ -7040,7 +7041,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 
 **इति दोषा दर्शिताः**
 
-**![](../books_images/U-IMG-1729570010221001-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729570010221001-removebg-preview.png"/>**
 
  रसदोषास्तु श्रीरसामृतसिन्धोरन्ते विवृता एवेति तदवशिष्टाः केचिदेवोद्दिश्यन्ते।
 
@@ -7059,8 +7060,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 [^24]: "कल्पिता कृच्छ्रादनुभाव-विभाबयोः॥अकाण्डे"
 
 **अकाण्डे[^24] प्रथन[^26]-च्छेदौ[^27] तथा दीप्तिः[^28] पुनः पुनः।**
-
-[^24]: "कल्पिता कृच्छ्रादनुभाव-विभाबयोः॥अकाण्डे"
 
 [^26]: "प्रथम, "
 
@@ -8173,7 +8172,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 
 **समाप्तश्चायं ग्रन्थः॥**
 
-![](../books_images/U-IMG-1729657536231001-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1729657536231001-removebg-preview.png"/>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -8191,7 +8190,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNTM0NTYzNzI
 **फाल्गुनस्यासितेपक्षे चतुर्थ्यां रविवासरे  
 द्व्याधिकोनविशेशाके व्याख्येयं पूर्णतागता॥**
 
-**![](../books_images/U-IMG-1729524584भक्तिरसाशेष2-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729524584भक्तिरसाशेष2-removebg-preview.png"/>**
 
 \]
-

@@ -55,6 +55,7 @@ of articles. I am thankful to the authorities of the Madras University for permi
 *Madras*                               
     ** V. RAGHAVAN**  
 16-3-42                                
+               
 
 |                                       |
 |:-------------------------------------:|
@@ -563,6 +564,7 @@ by Abhinavagupta's great pains to explain them at length as different from Sandh
 
  एतेषु पक्षेषु अन्यतमग्र विशेषणानि न संगच्छन्ने स्पष्टेन पथा।
 
+                                   
  p. 381.
 
  One comprehensive and definite view must be made out of the cloud of these several Pakṣas. Abhinava adopts shades of each view and gives his own definite idea of Lakṣaṇa, which itself takes conclusive shape only as he proceeds further and further. Here and there Abhinava cannot help pushing new wine into old bottles in his difficult task. One line thought he has definitely rejected and that is, the association of Lakṣaṇa with Nāṭaka only and taking it as something like Sandhyaṅgakas. He refutes this view in this chapter and elsewhere also while dealing with the Vithyangas. He says there—
@@ -617,6 +619,7 @@ utterances. And here, as is usual with him wherever he agrees, Abhinava quotes B
 
  सर्वो विभावाद्युचितो निर्वर्ण्यमाणः काव्यलक्षणत्वेन सूचितः।
 
+                                   
  p. 399.
 
  If Lakṣaṇa should be thus taken as equal to poetic expression, the natural consequence is that Lakṣaṇas are not 36 only but as many as the poetic expressions. This Abhinava grants and says that Bharata only indicated a few, 36 of such possible Lakṣaṇas. He adds that it is because of this that, according to another view, Bharata gives another set of Lakṣaṇas with definitions. Abhinava here refers to the Anuṣṭubh and Upajāti recensions, takes both of them as given by Bharata, but says, that he follows the list handed down from his own teacher.^(**1**)
@@ -700,6 +703,7 @@ manifold Alaṅkāras is the result of their interaction with the Lakṣaṇas, 
 
  नन्वेवं सर्वत्र लक्षणयोगः ? क आक्षेपार्थः ? प्रियमेव ह्यस्माकमदः।
 
+                                   
       p. 391,
 
  Thus in this passage Abhinava combines his teacher's view, i.e. the eighth with the seventh, reconciles both by making them as parts of a bigger and more comprehensive view of his. Abhinava opines that Lakṣaṇa is sometimes natural grace and sometimes it adds beauty to Alańkāra also. Thus he considers it to be more important than Alaṅkāra.
@@ -1140,9 +1144,9 @@ This expressional deviation, this striking disposition of words and ideas, is Al
 
 p. 88, Mahimabhaṭṭa says: अलङ्काराणां च अभिवात्मत्वम्उपगतं, तेषां भङ्गिभणितिरूपत्वात्।' V. V., I, p. 3, T.S.S. 'भङ्गिभणितिभेदानामेव अलङ्कारत्वोपगमात्।' *Ibid*., II, p. 87. 'चारुत्वं हि वैचित्र्यापरपर्यायंप्रकाशमानमलङ्कारः।' 'चारुत्वमलङ्कारः।' Commentary on the V.V., p. 4, T.S.S.: ‘तथा च शब्दार्थयोर्विच्छित्तिरलङ्कारः।'*Ibid*., p. 44. Namisādhu also says 'ततो यावन्तो हृदयावर्जका अर्थप्रकारास्तावन्तोऽलङ्काराः।' Vyā on Rudrata, p. 149. Ānanda has this further remark – 'तत् (रस) प्रकाशिनो वाच्यविशेषा एव रूपकादयोऽलङ्काराः। p. 87. If Alaṅkāra is understood in this large sense as emphasising the need for a beautiful form in poetry, it is not very improper for the subject of poetics to be calledAlaṅkāraśāstra.[^5]
 
-^(** **)Thus, Alaṅkāra, properly understood and properly employed, can hardly be a subject for wholesale condemnation. This is said not only in view of the large sense in which we have tried to explain it above. Taking the figures as such, the best definition we can give of them is that, in a great poet, they form the inevitable incarnations in which ideas embody themselves. Says Ānanda :
-
 [^5]: "On the names of the Alaṅkaraśāstra, see below."
+
+^(** **)Thus, Alaṅkāra, properly understood and properly employed, can hardly be a subject for wholesale condemnation. This is said not only in view of the large sense in which we have tried to explain it above. Taking the figures as such, the best definition we can give of them is that, in a great poet, they form the inevitable incarnations in which ideas embody themselves. Says Ānanda :
 
  अलङ्कारान्तराणि हि निरूप्यमाणदुर्घटान्यपि रससमाहितचेतसः प्रतिभानवतः कवेः अहंपूर्विकया परापतन्ति। \* \* \* युक्तं चैतत्। यतो रसा वाच्यविशेषैरेव आक्षेप्तव्याः, तत्प्रतिपादकैश्च शब्दैः, तत्प्रतिपादिनो वाच्यविशेषा एवं रूपकादयोऽलङ्काराः। — Dhva ā, p. 87.
 
@@ -1270,9 +1274,9 @@ There is Hetu-Utprekṣāhere: the poet imagines that Brahmā presented himself 
 
  Thus whatever, remaining in a functionary place, aids to embellish and add to the main theme's beauty is Alaṅkāra. Rasa also can thus be employed as a decorative, as an Alaṅkara, to adorn a Vastu (idea) or Rasa.[^8]
 
- Raymond[^9]expresses a similar opinion on Alaṅkāra : 'The one truth underlying all the rules laid down for the employment of figures is that nothing is gained by any use of those which does not add to the effect of the thought to which they give expression. Language is to express our thoughts to others and in ordinary conversation, we use both plain and figurative language but when a man wants to give another the description of a scene he has seen, he does not catalogue one and all of the details of that sight, but brings only his own idea of the landscape by adding to such of the details as have struck him many more ideas and emotions that have been aroused in him.' Thus he transports his mental image to the hearer and if the representation is comparatively plain, we have Svabhāvokti. 'On the other hand, if he realises that it is hard for the hearer to understand him fully, he gains his end by repeating the statement, or by adding illustrative images to the mere enumeration of facts.' \[Compare Rudrata, VIII, 1.
-
 [^8]: "Rasavad alankāra. Locana, pp. 72, 73, 74."
+
+ Raymond[^9]expresses a similar opinion on Alaṅkāra : 'The one truth underlying all the rules laid down for the employment of figures is that nothing is gained by any use of those which does not add to the effect of the thought to which they give expression. Language is to express our thoughts to others and in ordinary conversation, we use both plain and figurative language but when a man wants to give another the description of a scene he has seen, he does not catalogue one and all of the details of that sight, but brings only his own idea of the landscape by adding to such of the details as have struck him many more ideas and emotions that have been aroused in him.' Thus he transports his mental image to the hearer and if the representation is comparatively plain, we have Svabhāvokti. 'On the other hand, if he realises that it is hard for the hearer to understand him fully, he gains his end by repeating the statement, or by adding illustrative images to the mere enumeration of facts.' \[Compare Rudrata, VIII, 1.
 
 [^9]: "Poetry as a Representative Art."
 
@@ -1338,9 +1342,9 @@ See Dhva. Ā., p. 86.
 **हतपुत्रबलो दीनःलूनपक्ष इव द्विजः।  
 हतदर्पो हतोत्साहः निर्वेदं समपद्यत॥** —Rā. Bā., 55. 8–10.[^13]
 
- But there are also places in the epic of high strung emotion where figures are not employed at all and the sublimity or pathos of the situation (e.g. Rāma weeping on the loss of Sīta in the closing cantos of the Āraṇyakāṇḍa) is left to itself to appeal to us with its own grandeur and beauty.
-
 [^13]: "Kumbhakonam Edn."
+
+ But there are also places in the epic of high strung emotion where figures are not employed at all and the sublimity or pathos of the situation (e.g. Rāma weeping on the loss of Sīta in the closing cantos of the Āraṇyakāṇḍa) is left to itself to appeal to us with its own grandeur and beauty.
 
  In Kālidāsa, we have many instances of figures rushing to the poet's pen in moments of overflowing Rasa. Every line is a figure in Purūravas's description of Urvas'ī who has captivated his heart, as he sees her slowly recovering fromstupor:
 
@@ -3175,9 +3179,9 @@ and अर्थवृत्तिamong Kais'ikyādivṛttis themselves**.** Bh�
 
  एतास्तिस्रो वृत्तयो वामनादीनां मते वैदर्भी गोडीया पाञ्चाल्याख्या रीतय उच्यन्ते। K. Pra. IX.[^59]
 
-एतेन रीतयो वृत्त्यात्मका इत्यर्थः। Māṇikyacandra.
-
 [^59]: "See above ch. on Riti, pp. 146-7."
+
+एतेन रीतयो वृत्त्यात्मका इत्यर्थः। Māṇikyacandra.
 
  Hemacandra quotes and completely follows Mammaṭa**.** K. A. p. 204. He however does not treat of these three Vṛttis**,** which are the same as the three Rītis**,** in the Śabdālankāra section**,** but**,** with a slight improvement treats of them in the Guṇa section**.** Therefore he does not consider these three Vṛttis as Anuprāsa Jātis but merely as three kinds of Varna Saṅghaṭanā**.**
 
@@ -3258,6 +3262,7 @@ Vidyānātha we find that Bhārāti leans to Kaiśikī as. ईषन्मृद
 **एताः प्रयत्नादधिगम्य सम्यगौचित्यमालोच्य तथार्थसंस्थम्।  
 मिश्राःकवीन्द्रैरघनाल्पदीर्घाः कार्या मुहुश्चैव गृहीतमुक्ताः॥**
 
+                                 
 **Rudraṭa, K. A. II, 32.**
 
  Thus the four Vṛttis of Nāṭya live in Kāvya as रसोचितार्थसन्दर्भ and as such stand in close relation to the Guṇas. They are on a par with Rītis which are रसोचितशब्दसन्दर्भ or in an earlier stage, with what has been characterised as Śabda Vṛtti, Upanāgarikā etc. Of the four Vṛttis, the Kaiśikīand Ārabhaṭī have had the least or no change at all in Kāvya. As can be expected, Bhāratīand Sāttvatī, when they came into Kāvya had to cast off their old meanings of Speech and Action of subtle Bhāvas of the mind. Even the Śabda Vṛtti, Bhāratī, became an Artha Vṛtti leaning towards the Kaiśikī as having less Saukumārya. Sāttvatī, as having less Prauḍhi, was made to mean a weak variety of Ārabhaṭī.
@@ -3811,9 +3816,9 @@ Other writers call these ‘Śabdārthapravibhājakas’, Aucitya etc., as ‘An
 
 who is speaking. A vulgar and a rustic character does not employ the same words as a refined city-bred man. The appropriate vocabulary is one of the chief conditions that call up the correct atmosphere. Inappropriate vocabulary which is a breach of Aucitya is the Doṣa called Apada. See S. K. Ā. I, 23, pp. 19-20. Bhoja's Vākyārthadoṣa called Virasa, which is borrowed by him from Rudraṭa, emphasises a principle of Rasa-aucitya. (See S. K. Ā. I, 50, p. 35.) Ratneśvara, commentator on the S. K. Ā., quotes here Ānandavardhana's verse on Aucitya and Anaucitya—अनौचित्यादृते नान्यत् etc., and adds that the three following Upamādoṣas also are various instances of Anaucitya. Thirdly, the Doṣa called Viruddha (S. K. Ā. 1, 54-57), Loka virodha, Kāla virodha etc., is also based on Aucitya. These are only more definite and particularised names for varieties of Anaucitya of Vastu or Artha. In the sub-class of Anumāna viruddha, Bhoja has a variety called Aucitya viruddha (see p. 40. S. K. Ā) and illustrates it by a case of an incorrect and inappropriate description of a low ordinary man, a Pāmara, as wearing refined silk-dress. Fourthly, a similar instance of Anaucitya of Artha-kalpana is mentioned by Bhoja in connection with his Śabdaguṇa Bhāvika. (S. K. Ā., p. 58.) Here is an instance of the larger Aucitya of Adaptation, which makes Guṇas of flaws. Besides this, there is a whole section of Vaiśeṣika guṇas at the end of chapter I where it is shown that as a result of circumstance, special context and Aucitya, all the Doṣas may cease to be so and may even become Guṇas (S. K. Ā., pp. 74-120, see esp. p. 118).[^66]
 
- अत्र स्त्रीत्वाद् औचित्यविरोधेऽपि तत्समयोचितत्वाद् गुणत्वम्।
-
 [^66]: "See also above pp. 202-3 and 211-2."
+
+ अत्र स्त्रीत्वाद् औचित्यविरोधेऽपि तत्समयोचितत्वाद् गुणत्वम्।
 
 S. K. Ā. P. 118.
 
@@ -4184,7 +4189,7 @@ Kāvya. All the other theories only run at the back of Aucitya which leads the v
 **“औचितीमनुधाबन्ति सर्वे ध्वनिरसोन्नयाः।  
 गुणालङ्कृतिरीतीनां नयाश्चानृजुवाङ्मयाः॥”**  
 
-![](../books_images/U-IMG-1703689933gol.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1703689933gol.PNG"/>
 
 Mm. Prof. S. Kuppuswāmi Śāstriar
 
@@ -4556,4 +4561,3 @@ Act I. P. 40. Jīvānanda Vīdyāsāgara's edn.
 [TABLE]
 
 \]
-

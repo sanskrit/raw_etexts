@@ -13,9 +13,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAyNjMyMDg1Nzk
 
 \[
 
+
+
+
 **        (पञ्चमं तन्त्रम्)  
          (आमुख)  
        क्षपणक - कथा**
+
+
+
 
 अथेदमारभ्यतेऽपरीक्षितकारकं नाम पञ्चमं तन्त्रम्। यस्याऽयमादिमः श्लोकः
 -  
@@ -576,5 +582,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAyNjMyMDg1Nzk
 ॥ समाप्तमिदं पञ्चतन्त्रम् ॥  
 - - - - - - - - - - - - - - - - - - - - - - - \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* - - - - - - - - - - - - - - - - - - -
 -  
+
+
 
 \]

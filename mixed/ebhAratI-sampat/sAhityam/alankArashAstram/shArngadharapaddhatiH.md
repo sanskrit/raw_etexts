@@ -3894,7 +3894,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ5MzMxMzY1NDM
 त्रिनयनचूडारत्नं मित्रं सिन्धोः कुमुद्वतीदयितः।  
 अयमुदयति घुसृणारुणरमणीवदनोपमश्चन्द्रः॥८॥
 
-![](../books_images/U-IMG-1712127002123.png)
+<MISSING_FIG href="../books_images/U-IMG-1712127002123.png"/>
 
 इति बिन्दमती
 
@@ -5330,6 +5330,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ5MzMxMzY1NDM
 
 संप्रति न कल्पतरवो न सिद्धयो नापि देवता वरदाः।  
 जलद त्वयि विश्राम्यति सृष्टिरियं भुवनलोकस्य॥२॥  
+                      
 
 व तुपालस्य।
 
@@ -5850,6 +5851,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ5MzMxMzY1NDM
 एते हि दैवहतकास्तदभिन्नवर्णं  
 त्वां काकमेव कलयन्ति कलानभिज्ञाः॥३॥                  
                           केषामप्येते।   
+            
 
 841
 

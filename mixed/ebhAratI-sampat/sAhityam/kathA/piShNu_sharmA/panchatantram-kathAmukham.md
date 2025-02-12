@@ -13,9 +13,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwNDIwOTk1NzE
 
 \[
 
+
+
          **॥ श्रीः ॥  
          पञ्चतन्त्रम्      
         \[ कथामुखम् \]**
+
+
+
 
  ब्रह्मा रुद्रः कुमारो हरिवरुणयमा वह्निरिन्द्रः कुबेर-  
 श्चन्द्रादित्यौ सरस्वत्युदधियुगनगा वायुरुर्वी भुजङ्गाः।  
@@ -76,5 +81,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwNDIwOTk1NzE
  अधीते य इदं नित्यं नीतिशास्त्रं शृणोति च।  
  न पराभवमाप्नोति शक्रादपि कदाचन ॥ 10 ॥  
   ॥ इति कथामुखम् ॥  
+
+
 
 \]

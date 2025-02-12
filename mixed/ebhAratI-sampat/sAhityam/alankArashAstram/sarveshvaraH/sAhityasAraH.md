@@ -77,7 +77,7 @@ P. V. RAMANUJASWAMI,
 **श्रीनिवासो विजयते॥**
 
 **परिचयः  
-![](../books_images/U-IMG-1727350239Screenshot2024-09-26165950.png)**
+<MISSING_FIG href="../books_images/U-IMG-1727350239Screenshot2024-09-26165950.png"/>**
 
 ** १. संपादकः**
 
@@ -476,7 +476,7 @@ P. V. RAMANUJASWAMI,
 
 **द्वितीयः प्रकाशः**
 
-**![](../books_images/U-IMG-1727446997Screenshot2024-09-27195259.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1727446997Screenshot2024-09-27195259.png"/>**
 
 **सार्थैरङ्गैरनेकार्थैःकथ्यन्ते वृत्तयोऽधुना।  
 भारती सात्त्विकी चैव कैशिक्यारभटी तथा॥१॥**
@@ -955,7 +955,7 @@ P. V. RAMANUJASWAMI,
 **इति साहित्यसारे द्वितीयः प्रकाशः**
 
 **तृतीयः प्रकाशः  
-![](../books_images/U-IMG-1727460967Screenshot2024-09-27234530.png)**
+<MISSING_FIG href="../books_images/U-IMG-1727460967Screenshot2024-09-27234530.png"/>**
 
 **षट्त्रिंशत्काव्यगुणाः**
 
@@ -1963,7 +1963,7 @@ P. V. RAMANUJASWAMI,
 **इति साहित्यसारे पञ्चमः प्रकाशः**
 
 **षष्ठः प्रकाशः**  
-![](../books_images/U-IMG-1727627394Screenshot2024-09-29212220.png)
+<MISSING_FIG href="../books_images/U-IMG-1727627394Screenshot2024-09-29212220.png"/>
 
 **नाटकलक्षणम्**
 
@@ -2208,7 +2208,7 @@ P. V. RAMANUJASWAMI,
 
 **श्रीरस्तु**
 
-![](../books_images/U-IMG-1727464219Screenshot2024-09-28003953.png)
+<MISSING_FIG href="../books_images/U-IMG-1727464219Screenshot2024-09-28003953.png"/>
 
 Printed at the Tirumalai-Tirupati Devasthanamns Press, Tirupati and published by the Director Sri Venkatesvara Oriental Institute.
 

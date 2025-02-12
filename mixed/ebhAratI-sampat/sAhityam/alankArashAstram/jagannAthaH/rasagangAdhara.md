@@ -1807,9 +1807,23 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 
 ## · ससंदेहालंकारः - लक्षण ११
 
-**Tags** : [grammer](\%22http://www.khapre.org/portal/url/keywords/grammer/word\%22)[rasagangadhar](\%22http://www.khapre.org/portal/url/keywords/rasagangadhar/word\%22)[sanskrit](\%22http://www.khapre.org/portal/url/keywords/sanskrit/word\%22)[रसगंगाधर](\%22http://www.khapre.org/portal/url/keywords/%e0%a4%b0%e0%a4%b8%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%a7%e0%a4%b0/word\%22)[व्याकरण](\%22http://www.khapre.org/portal/url/keywords/%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a4%a3/word\%22)[संस्कृत](\%22http://www.khapre.org/portal/url/keywords/%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4/word\%22)
+**Tags** : grammer[^1]rasagangadhar[^2]sanskrit[^3]रसगंगाधर[^4]व्याकरण[^5]संस्कृत[^6]
 
-![\\"http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\\"](\%22http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\%22)SEARCH
+[^1]: \%22http://www.khapre.org/portal/url/keywords/grammer/word\%22
+
+[^2]: \%22http://www.khapre.org/portal/url/keywords/rasagangadhar/word\%22
+
+[^3]: \%22http://www.khapre.org/portal/url/keywords/sanskrit/word\%22
+
+[^4]: \%22http://www.khapre.org/portal/url/keywords/%e0%a4%b0%e0%a4%b8%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%a7%e0%a4%b0/word\%22
+
+[^5]: \%22http://www.khapre.org/portal/url/keywords/%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a4%a3/word\%22
+
+[^6]: \%22http://www.khapre.org/portal/url/keywords/%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4/word\%22
+
+!\\"http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\\"[^7]SEARCH
+
+[^7]: \%22http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\%22
 
 लक्षण ११
 
@@ -3730,9 +3744,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 
 ## विरोधमूलालंकाराः - लक्षण २
 
-**Tags** : [grammer](\%22http://www.khapre.org/portal/url/keywords/grammer/word\%22)[rasagangadhar](\%22http://www.khapre.org/portal/url/keywords/rasagangadhar/word\%22)[sanskrit](\%22http://www.khapre.org/portal/url/keywords/sanskrit/word\%22)[रसगंगाधर](\%22http://www.khapre.org/portal/url/keywords/%e0%a4%b0%e0%a4%b8%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%a7%e0%a4%b0/word\%22)[व्याकरण](\%22http://www.khapre.org/portal/url/keywords/%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a4%a3/word\%22)[संस्कृत](\%22http://www.khapre.org/portal/url/keywords/%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4/word\%22)
+**Tags** : grammer[^1]rasagangadhar[^2]sanskrit[^3]रसगंगाधर[^4]व्याकरण[^5]संस्कृत[^6]
 
-![\\"http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\\"](\%22http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\%22)SEARCH
+!\\"http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\\"[^7]SEARCH
 
 लक्षण २
 
@@ -3916,9 +3930,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 
 ## असंगति अलंकारः - लक्षण २
 
-**Tags** : [grammer](\%22http://www.khapre.org/portal/url/keywords/grammer/word\%22)[rasagangadhar](\%22http://www.khapre.org/portal/url/keywords/rasagangadhar/word\%22)[sanskrit](\%22http://www.khapre.org/portal/url/keywords/sanskrit/word\%22)[रसगंगाधर](\%22http://www.khapre.org/portal/url/keywords/%e0%a4%b0%e0%a4%b8%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%a7%e0%a4%b0/word\%22)[व्याकरण](\%22http://www.khapre.org/portal/url/keywords/%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a4%a3/word\%22)[संस्कृत](\%22http://www.khapre.org/portal/url/keywords/%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4/word\%22)
+**Tags** : grammer[^1]rasagangadhar[^2]sanskrit[^3]रसगंगाधर[^4]व्याकरण[^5]संस्कृत[^6]
 
-![\\"http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\\"](\%22http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\%22)SEARCH
+!\\"http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\\"[^7]SEARCH
 
 लक्षण २
 
@@ -3965,9 +3979,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4
 
 ## **विषमालंकाराः - लक्षण १**
 
-**Tags** : [grammer](\%22http://www.khapre.org/portal/url/keywords/grammer/word\%22)[rasagangadhar](\%22http://www.khapre.org/portal/url/keywords/rasagangadhar/word\%22)[sanskrit](\%22http://www.khapre.org/portal/url/keywords/sanskrit/word\%22)[रसगंगाधर](\%22http://www.khapre.org/portal/url/keywords/%e0%a4%b0%e0%a4%b8%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%a7%e0%a4%b0/word\%22)[व्याकरण](\%22http://www.khapre.org/portal/url/keywords/%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a4%a3/word\%22)[संस्कृत](\%22http://www.khapre.org/portal/url/keywords/%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4/word\%22)
+**Tags** : grammer[^1]rasagangadhar[^2]sanskrit[^3]रसगंगाधर[^4]व्याकरण[^5]संस्कृत[^6]
 
-![\\"http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\\"](\%22http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\%22)SEARCH
+!\\"http://www.khapre.org/portal/service/themes/red/images/menu.search.gif\\"[^7]SEARCH
 
 लक्षण १
 

@@ -487,6 +487,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYyOTUyMzQ0NTY
 
 ॥
 
+ 
+
 मात्रशब्देन तत्समवधानव्यवच्छेदः। यथा—
 
 कृष्णप्रभुरयमागत इति परिहासादुदीरिते सख्या।  
@@ -1359,6 +1361,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYyOTUyMzQ0NTY
 कृष्णभूपभटाश्शूरा नगराण्यरिभूभुजां।  
 आक्रामन्त्युपरुन्धन्ति विगृह्णन्ति जयन्त्यपि॥१२३॥
 
+ 
+
 अत्र आक्रमणादि क्रियाणां भटैकनिष्ठानां ऋमिकत्वं॥५५॥
 
 ५६—कारणान्तरसंनिधानात्कार्यसौकर्य समाधिः॥
@@ -1788,6 +1792,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYyOTUyMzQ0NTY
 
 धृत्वा किंचित्करे प्राणान्सहस्वाहानि कानिचित्॥१६६॥
 
+ 
+
 अत्र करे किंचित्प्राणान् धृत्वेति लोकप्रवादानुकारः॥९०॥
 
 **९१—लोकोक्तेरर्थान्तरगर्भत्वे छेकोक्तिः॥**
@@ -1982,7 +1988,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYyOTUyMzQ0NTY
 
 तत्राष्टदलपद्मबन्धो यथा—
 
-![](../books_images/U-IMG-1706770299Screenshot2024-02-01121900.png)
+<MISSING_FIG href="../books_images/U-IMG-1706770299Screenshot2024-02-01121900.png"/>
 
  
 
@@ -1993,14 +1999,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYyOTUyMzQ0NTY
 
 ** षडरचक्रबन्धो यथा—**
 
-![](../books_images/U-IMG-1706722536Screenshot2024-01-31225943.png)
+<MISSING_FIG href="../books_images/U-IMG-1706722536Screenshot2024-01-31225943.png"/>
 
 भर्ता मन्यथविग्रहस्सखिधरे श्रेयस्करं जन्म ते  
 सस्नेहादृतभोगधीरखिलिदग्राजत्रपाकृद्युवा।  
 दग्धारातिभुजप्रभस्सुखिषु संख्येयस्सकृष्णस्स्वयं  
 यं शक्राभमुपासते सदवनं ते मानवास्सुश्रियं॥९॥
 
- ![](../books_images/U-IMG-1706722073Screenshot2024-01-31225059.png)
+ <MISSING_FIG href="../books_images/U-IMG-1706722073Screenshot2024-01-31225059.png"/>
 
  अत्र अरशिरस्थानगता नेमिवर्णाश्चक्रनाभिगतो वर्णश्च श्लिष्टाः। किंचात्र चक्रे अराणां तृतीय वर्णान् तथा षष्ठवर्णांश्च संगृह्य यथाक्रमं योजने महाराज कृष्णविभो जयजयेति अभिमतार्थसमर्पकशब्दो लभ्यते॥
 

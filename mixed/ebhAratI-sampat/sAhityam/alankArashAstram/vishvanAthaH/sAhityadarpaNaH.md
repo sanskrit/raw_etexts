@@ -26,7 +26,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU2OTgyMjg1MzE
 
 श्रीमद्रामचरणतर्कवागीशकृतया विवृत्यानुगतः।
 
-![](../books_images/U-IMG-1727427302270901-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1727427302270901-removebg-preview.png"/>
 
 **प्रथमः परिच्छेदः।**
 
@@ -6285,4 +6285,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU2OTgyMjg1MzE
 **समाप्तश्चायं प्रबन्धः।**
 
 \]
-

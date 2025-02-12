@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2ODkxMzE0MzM
 
 **FOREWORD.**
 
-![](../books_images/U-IMG-1726837910m.png)**NDIAN** Poetics have not yet received that due meed of world-recognition which it so richly and amply deserves. It comes next only to Indian philosophy in its complex and manifold affluence of subtle and delicate loveliness. It has received an illuminating elaboration from many gifted and penterative minds in the course of many centuries. It has been the fashion of late to cry down Sanskrit poetry as a barren Sahara of conceits and Sanskrit poetics as a barren Sahara of rules. But a close study of the best and highest works of Indian poesy and poetics shows that each of these branches of art— the creative and the critical— is a veritable mine of gold. Mr. A. B. Keith says well: "The theorists never forgot that genius was necessary for the highest poetry, as they show by the extraordinary fondness they show for citing Kalidasa and the premier rank they assign to him." A nation that has produced Valmiki and Kalidasa among poets and Anandavardhana and Mammata among critics will easily get the highest seat of honour in the realms of creation and creative criticism by the
+<MISSING_FIG href="../books_images/U-IMG-1726837910m.png"/>**NDIAN** Poetics have not yet received that due meed of world-recognition which it so richly and amply deserves. It comes next only to Indian philosophy in its complex and manifold affluence of subtle and delicate loveliness. It has received an illuminating elaboration from many gifted and penterative minds in the course of many centuries. It has been the fashion of late to cry down Sanskrit poetry as a barren Sahara of conceits and Sanskrit poetics as a barren Sahara of rules. But a close study of the best and highest works of Indian poesy and poetics shows that each of these branches of art— the creative and the critical— is a veritable mine of gold. Mr. A. B. Keith says well: "The theorists never forgot that genius was necessary for the highest poetry, as they show by the extraordinary fondness they show for citing Kalidasa and the premier rank they assign to him." A nation that has produced Valmiki and Kalidasa among poets and Anandavardhana and Mammata among critics will easily get the highest seat of honour in the realms of creation and creative criticism by the
 
 acclamation of all worshippers of the Beautiful life and art in all times and climes.
 
@@ -379,7 +379,7 @@ ward to the publication of the remaining portion of the work. The work is not, l
 **॥श्रीः॥**
 
 **॥काव्यदर्पणः॥**  
-**![](../books_images/U-IMG-1726849238ह.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726849238ह.png"/>**
 
 **प्रथम उल्लासः।**
 
@@ -497,11 +497,11 @@ ward to the publication of the remaining portion of the work. The work is not, l
 
 इति श्रीदन्तिद्योतिदिवाप्रदीपाङ्कसाग्निचिद्विश्वजिदतिरात्रयाजिसत्यमङ्गलरत्नखेटश्रीनिवासदीक्षिततनयस्य कामाक्षीगर्भसंभवस्य श्रीमदर्धनारीश्वरदीक्षितगुरुचरणसहजतालब्धविद्यावैशद्यस्य श्रीराजचूडामणिदीक्षितस्य कृतौ काव्यदर्पणे काव्यलक्षणनिर्णयः प्रथम उल्लासः॥
 
-![](../books_images/U-IMG-1727266350ह.png)
+<MISSING_FIG href="../books_images/U-IMG-1727266350ह.png"/>
 
 **द्वितीय उल्लासः।**
 
-**![](../books_images/U-IMG-1728899216Screenshot2024-10-14151510.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728899216Screenshot2024-10-14151510.png"/>**
 
  प्रथमोल्लासे हि गुणादिविशिष्टं शब्दार्थयुगलं काव्यमित्युक्तम्। तत्र शब्दार्थयोः प्राधान्यात्प्रथमं तयोः स्वरूपं दर्शयिष्यन्नर्थापेक्षयापि शब्दस्य प्राधान्याच्छब्दस्वरूपं तावद्विभजन्नेव निर्दिशति—
 
@@ -1020,10 +1020,10 @@ ward to the publication of the remaining portion of the work. The work is not, l
 
 **इति श्रीदन्तिद्योतिदिवाप्रदीपाङ्कसाग्निचिद्विश्वजिदतिरात्रयाजिसत्यमङ्गलरत्नखेटश्रीनिवासदीक्षिततनयस्य कामाक्षीगर्भसंभवस्य श्रीमदर्धनारीश्वरदीक्षितगुरुचरणसहजतालब्धविद्यावैशद्यस्य श्रीराजचूडामणिदीक्षितस्य कृतौकाव्यदर्पणे शब्दार्थस्वरूपनिर्णयः द्वितीय उल्लासः॥**
 
-![](../books_images/U-IMG-1726899632Screenshot2024-09-21114828ॅॅ.png)
+<MISSING_FIG href="../books_images/U-IMG-1726899632Screenshot2024-09-21114828ॅॅ.png"/>
 
 **तृतीय उल्लासः॥  
-![](../books_images/U-IMG-1728978413Screenshot2024-10-15131543.png)**
+<MISSING_FIG href="../books_images/U-IMG-1728978413Screenshot2024-10-15131543.png"/>**
 
  अवसरलक्षणां संगतिं दर्शयन्नुल्लासप्रतिपाद्यमाह—
 
@@ -1162,7 +1162,7 @@ ward to the publication of the remaining portion of the work. The work is not, l
 
 **इति श्रीदन्तिद्योतिदिवाप्रदीपाङ्कसाग्निचिद्विश्वजिदतिरात्रयाजिसत्यमङ्गलरत्नखेटश्रीनिवासदीक्षिततनयस्य कामाक्षीगर्भसंभवस्य श्रीमदर्धनारीश्वरदीक्षितगुरुचरणसहजतालब्धविद्यावैशद्यस्य श्रीराजचूडामणिदीक्षितस्य कृतौ काव्यदर्पणे अर्थव्यञ्जकतानिर्णयः तृतीय उल्लासः॥**
 
-**![](../books_images/U-IMG-1726986989Screenshot2024-09-22120552.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726986989Screenshot2024-09-22120552.png"/>**
 
 **चतुर्थ उल्लासः॥  
 ————**
@@ -2491,7 +2491,7 @@ ward to the publication of the remaining portion of the work. The work is not, l
 
 **इति श्रीदन्तिद्योतिदिवाप्रदीपाङ्कसाग्निचिद्विश्वजिदतिरात्रयाजिसत्यमङ्गलरत्नखेटश्रीनिवासदीक्षिततनयस्य कामाक्षीगर्भसंभवस्य श्रीमदर्धनारीश्वरदीक्षितगुरुचरणसहजतालब्धविद्यावैशद्यस्य श्रीराजचूडामणिदीक्षितस्य कृतौ काव्यदर्पणे ध्वनिभेदनिर्णयः चतुर्थ उल्लासः॥**
 
-**![](../books_images/U-IMG-1727120835Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1727120835Capture.PNG"/>**
 
 **पञ्चम उल्लासः॥  
 ————**
