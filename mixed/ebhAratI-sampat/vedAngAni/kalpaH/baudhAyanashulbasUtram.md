@@ -12,6 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE5NjQ0NTAyNzY
 
 \[
 
+
+
+
 Maharishi Mahesh Yogi
 
 “Close the eyes and transcend,  
@@ -362,5 +365,7 @@ Baudhāyana Shrauta Sūtra
 प्राकृतो वा त्रिगुणः । त्रिस्तावोऽग्निर्भवतीत्येकविंशोऽग्निर्भवतीत्युभयं ब्राह्मणमुभयं ब्राह्मणम् १३  
 २१  
 इति बौधायनशुल्बसूत्रम्  
+
+
 
 \]

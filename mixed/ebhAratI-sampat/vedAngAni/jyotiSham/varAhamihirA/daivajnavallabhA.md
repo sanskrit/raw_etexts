@@ -12,6 +12,14 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM3NTcxODk3
 
 \[
 
+
+
+
+
+
+
+
+
 दैवज्ञ वल्लभा वराहमिहिररचिता
 
           ॥ ॐ॥  
@@ -148,5 +156,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDM3NTcxODk3
 यातुः पृच्छालग्नतः सप्तमस्य स्वामी यायाद्यावता वक्रभावम् ।  
 कालेनैति प्रस्थितस्तावतेति प्राहुस्त्वेते प्रश्नतत्त्वप्रवीणाः॥ १०॥  
 ।स्मल्ल्स्किप्
+
+
+
+
+
+
+
+
 
 \]

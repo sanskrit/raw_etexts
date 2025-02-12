@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwMDA2ODAwNDU
 
 \[
 
+
+
 याजुषज्योतिषम्
 
 पंचसंवत्सरमयं युगाध्यक्षं प्रजापतिम् ।  
@@ -105,5 +107,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwMDA2ODAwNDU
 सोमसूर्यस्तृचरितं विद्वान् वेदविदश्नुते ।  
 सोमसूर्यस्तृचरितं लोकं लोके च सम्मतिम् ॥ ४३॥  
 ॥ इति याजुषज्योतिषं समाप्तम् ॥
+
 
 \]

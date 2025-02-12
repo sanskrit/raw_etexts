@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDg3MjQ3OTM
 
 \[
 
+
+
 Shankhayana shrauta sutra
 
 शाङ्खायन
@@ -20,11 +22,15 @@ Shankhayana shrauta sutra
 
 सूत्र
 
+
+
 शाङ्खायन
 
 श्रौत
 
 सूत्र
+
+
 
 यज्ञं
 
@@ -372,6 +378,8 @@ Shankhayana shrauta sutra
 
 १
 
+
+
 प्लावयेदाकारमावाहनम्
 
 १
@@ -570,6 +578,8 @@ Shankhayana shrauta sutra
 
 २
 
+
+
 उपोय्य
 
 पौर्णमासेन
@@ -707,6 +717,8 @@ Shankhayana shrauta sutra
 १८
 
 ३
+
+
 
 आमन्त्रितो
 
@@ -1024,6 +1036,8 @@ Shankhayana shrauta sutra
 
 ४
 
+
+
 आवह
 
 देवान्यजमानाय
@@ -1159,6 +1173,8 @@ Shankhayana shrauta sutra
 ९
 
 ५
+
+
 
 मानुष
 
@@ -1492,6 +1508,8 @@ Shankhayana shrauta sutra
 
 ६
 
+
+
 समिधः
 
 समिधो
@@ -1605,6 +1623,8 @@ Shankhayana shrauta sutra
 ६
 
 ७
+
+
 
 अग्निर्वृत्राणि
 
@@ -1770,6 +1790,8 @@ Shankhayana shrauta sutra
 
 ८
 
+
+
 पिप्रीहि
 
 देवानिति
@@ -1860,6 +1882,8 @@ Shankhayana shrauta sutra
 
 ९
 
+
+
 इलामुपह्वास्यमानस्य
 
 दक्षिणस्य
@@ -1941,6 +1965,8 @@ Shankhayana shrauta sutra
 ७
 
 १०
+
+
 
 उपह्रतं
 
@@ -2214,6 +2240,8 @@ Shankhayana shrauta sutra
 
 ११
 
+
+
 इलोपहूतोपहूतेलोपास्माँ
 
 इला
@@ -2444,6 +2472,8 @@ Shankhayana shrauta sutra
 
 १२
 
+
+
 देवं
 
 बर्हिर्वसुवने
@@ -2523,6 +2553,8 @@ Shankhayana shrauta sutra
 ४
 
 १३
+
+
 
 सूक्ता
 
@@ -2818,6 +2850,8 @@ Shankhayana shrauta sutra
 
 १४
 
+
+
 उपांशु
 
 गार्हपत्ये
@@ -3106,6 +3140,8 @@ Shankhayana shrauta sutra
 
 १५
 
+
+
 व्याख्यातौ
 
 दर्शपूर्णमासौ
@@ -3275,6 +3311,8 @@ Shankhayana shrauta sutra
 २२
 
 १६
+
+
 
 चोदनाप्रकरणे
 
@@ -3514,6 +3552,8 @@ Shankhayana shrauta sutra
 
 समाप्तः
 
+
+
 वसन्ते
 
 ब्राह्मणस्याग्न्याधेयम्
@@ -3583,6 +3623,8 @@ Shankhayana shrauta sutra
 ९
 
 १
+
+
 
 अथेष्टिकालाः
 
@@ -3784,6 +3826,8 @@ Shankhayana shrauta sutra
 
 २
 
+
+
 प्रथमे
 
 वा
@@ -3970,6 +4014,8 @@ Shankhayana shrauta sutra
 
 ३
 
+
+
 पूर्वा
 
 दर्शपूर्णमासाभ्यामन्वारम्भणीयेष्टिः
@@ -4113,6 +4159,8 @@ Shankhayana shrauta sutra
 १०
 
 ४
+
+
 
 काम्यं
 
@@ -4382,6 +4430,8 @@ Shankhayana shrauta sutra
 
 ५
 
+
+
 अग्निहोत्रं
 
 जुहोति
@@ -4543,6 +4593,8 @@ Shankhayana shrauta sutra
 १३
 
 ६
+
+
 
 प्रथमास्तमिते
 
@@ -4713,6 +4765,8 @@ Shankhayana shrauta sutra
 १९
 
 ७
+
+
 
 दक्षिणतोऽग्निहोत्रीमुपसृजन्ति
 
@@ -4978,6 +5032,8 @@ Shankhayana shrauta sutra
 
 ८
 
+
+
 अग्निर्ज्योतिर्ज्योतिरग्निः
 
 स्वाहेति
@@ -5178,6 +5234,8 @@ Shankhayana shrauta sutra
 
 ९
 
+
+
 इह
 
 पुष्टिं
@@ -5331,6 +5389,8 @@ Shankhayana shrauta sutra
 ७
 
 १०
+
+
 
 दक्षिणतोन्यायं
 
@@ -5542,6 +5602,8 @@ Shankhayana shrauta sutra
 
 ११
 
+
+
 संहितासि
 
 विश्वरूप्यूर्जा
@@ -5734,6 +5796,8 @@ Shankhayana shrauta sutra
 
 १२
 
+
+
 अथ
 
 प्रातः
@@ -5867,6 +5931,8 @@ Shankhayana shrauta sutra
 ९
 
 १३
+
+
 
 प्रवत्स्यन्नग्नीन्
 
@@ -6123,6 +6189,8 @@ Shankhayana shrauta sutra
 
 १५
 
+
+
 वास्तोष्यतीयं
 
 ध्रौव्ये
@@ -6164,6 +6232,8 @@ Shankhayana shrauta sutra
 ३
 
 १६
+
+
 
 समारोहयमाणो
 
@@ -6277,6 +6347,8 @@ Shankhayana shrauta sutra
 
 समाप्तः
 
+
+
 संस्थितायां
 
 पौर्णमास्यामिन्द्रायेष्टिर्विमृधे
@@ -6344,6 +6416,8 @@ Shankhayana shrauta sutra
 ९
 
 १
+
+
 
 अनागते
 
@@ -6427,6 +6501,8 @@ Shankhayana shrauta sutra
 
 २
 
+
+
 अतीते
 
 पर्वण्यामावास्ये
@@ -6504,6 +6580,8 @@ Shankhayana shrauta sutra
 ९
 
 ३
+
+
 
 अग्नयेऽग्निमतेऽग्नावग्नावभ्युद्धृते
 
@@ -6608,6 +6686,8 @@ Shankhayana shrauta sutra
 १४
 
 ४
+
+
 
 अग्निमग्निं
 
@@ -6861,6 +6941,8 @@ Shankhayana shrauta sutra
 
 ६
 
+
+
 मित्रविन्दायाः
 
 १
@@ -6992,6 +7074,8 @@ Shankhayana shrauta sutra
 ९
 
 ७
+
+
 
 फाल्गुन्यां
 
@@ -7273,6 +7357,8 @@ Shankhayana shrauta sutra
 
 ८
 
+
+
 इलादधस्य
 
 १
@@ -7331,6 +7417,8 @@ Shankhayana shrauta sutra
 
 ९
 
+
+
 सार्वसेनियज्ञे
 
 १
@@ -7382,6 +7470,8 @@ Shankhayana shrauta sutra
 ७
 
 १०
+
+
 
 सार्वसेनियज्ञेन
 
@@ -7480,6 +7570,8 @@ Shankhayana shrauta sutra
 १६
 
 ११
+
+
 
 सौमी
 
@@ -7644,6 +7736,8 @@ Shankhayana shrauta sutra
 १७
 
 १२
+
+
 
 फाल्गुन्यां
 
@@ -8007,6 +8101,8 @@ Shankhayana shrauta sutra
 
 १३
 
+
+
 आषाढ्यां
 
 वरुणप्रघासाः
@@ -8182,6 +8278,8 @@ Shankhayana shrauta sutra
 २१
 
 १४
+
+
 
 कार्त्तिक्यां
 
@@ -8388,6 +8486,8 @@ Shankhayana shrauta sutra
 २४
 
 १५
+
+
 
 अपराह्णे
 
@@ -8671,6 +8771,8 @@ Shankhayana shrauta sutra
 
 १६
 
+
+
 अया
 
 विष्ठा
@@ -8828,6 +8930,8 @@ Shankhayana shrauta sutra
 १३
 
 १७
+
+
 
 गुनासीर्ये
 
@@ -9034,6 +9138,8 @@ Shankhayana shrauta sutra
 २०
 
 १८
+
+
 
 विध्यपराधे
 
@@ -9286,6 +9392,8 @@ Shankhayana shrauta sutra
 १७
 
 १९
+
+
 
 उपसृष्टा
 
@@ -9565,6 +9673,8 @@ Shankhayana shrauta sutra
 
 २०
 
+
+
 इष्टिपशुबन्धेषु
 
 सोमे
@@ -9679,6 +9789,8 @@ Shankhayana shrauta sutra
 
 समाप्तः
 
+
+
 पत्नीयजमानौ
 
 व्रत्यमश्नीयातां
@@ -9704,6 +9816,8 @@ Shankhayana shrauta sutra
 २
 
 १
+
+
 
 अग्नीनन्वादधातीष्टिपशुबन्धेषु
 
@@ -9830,6 +9944,8 @@ Shankhayana shrauta sutra
 १४
 
 २
+
+
 
 पिण्डपितृयज्ञोऽपराह्णेऽमावास्यायाम्
 
@@ -10119,6 +10235,8 @@ Shankhayana shrauta sutra
 
 ४
 
+
+
 नमो
 
 वः
@@ -10407,6 +10525,8 @@ Shankhayana shrauta sutra
 
 ५
 
+
+
 दक्षिणतोन्यायं
 
 ब्रह्मकर्म
@@ -10550,6 +10670,8 @@ Shankhayana shrauta sutra
 १७
 
 ६
+
+
 
 प्रणीताकाले
 
@@ -10789,6 +10911,8 @@ Shankhayana shrauta sutra
 
 ७
 
+
+
 अदब्धेन
 
 त्वा
@@ -10946,6 +11070,8 @@ Shankhayana shrauta sutra
 ६
 
 ८
+
+
 
 मयीदमिन्द्र
 
@@ -11141,6 +11267,8 @@ Shankhayana shrauta sutra
 
 ९
 
+
+
 यं
 
 वां
@@ -11276,6 +11404,8 @@ Shankhayana shrauta sutra
 ४
 
 १०
+
+
 
 आ
 
@@ -12028,6 +12158,8 @@ Shankhayana shrauta sutra
 
 १३
 
+
+
 जीवतः
 
 कर्माणि
@@ -12352,6 +12484,8 @@ Shankhayana shrauta sutra
 
 १४
 
+
+
 मैनमग्न
 
 इति
@@ -12646,6 +12780,8 @@ Shankhayana shrauta sutra
 
 १५
 
+
+
 व्रतापवर्गे
 
 परिधिकर्म
@@ -12858,6 +12994,8 @@ Shankhayana shrauta sutra
 
 १६
 
+
+
 रुद्रं
 
 गवा
@@ -13009,6 +13147,8 @@ Shankhayana shrauta sutra
 १३
 
 १७
+
+
 
 या
 
@@ -13232,6 +13372,8 @@ Shankhayana shrauta sutra
 
 १८
 
+
+
 भवाय
 
 स्वाहा
@@ -13343,6 +13485,8 @@ Shankhayana shrauta sutra
 ९
 
 १९
+
+
 
 भूपते
 
@@ -13525,6 +13669,8 @@ Shankhayana shrauta sutra
 ६
 
 २०
+
+
 
 षलर्घ्या
 
@@ -13812,6 +13958,8 @@ Shankhayana shrauta sutra
 
 समाप्तः
 
+
+
 आर्षेयान्
 
 यूनोऽनूचानानृत्विजो
@@ -13980,6 +14128,8 @@ Shankhayana shrauta sutra
 
 १
 
+
+
 प्राचीनप्रवणं
 
 देवयजनम्
@@ -14015,6 +14165,8 @@ Shankhayana shrauta sutra
 ४
 
 २
+
+
 
 अपराह्णे
 
@@ -14101,6 +14253,8 @@ Shankhayana shrauta sutra
 ९
 
 ३
+
+
 
 अध्वर्युमन्वारभ्यौद्ग्रभणानि
 
@@ -14291,6 +14445,8 @@ Shankhayana shrauta sutra
 ७
 
 ५
+
+
 
 क्रीत्वा
 
@@ -14605,6 +14761,8 @@ Shankhayana shrauta sutra
 ६
 
 ८
+
+
 
 अप्रवर्ग्यः
 
@@ -14993,6 +15151,8 @@ Shankhayana shrauta sutra
 २७
 
 ९
+
+
 
 उप
 
@@ -15678,6 +15838,8 @@ Shankhayana shrauta sutra
 
 ११
 
+
+
 अग्निप्रणयनमप्रवर्ग्ये
 
 १
@@ -15709,6 +15871,8 @@ Shankhayana shrauta sutra
 ५
 
 १२
+
+
 
 हविर्धानप्रवर्तनायामन्त्रितः
 
@@ -15843,6 +16007,8 @@ Shankhayana shrauta sutra
 ११
 
 १३
+
+
 
 मितेषु
 
@@ -16258,6 +16424,8 @@ Shankhayana shrauta sutra
 
 १५
 
+
+
 प्रैषा
 
 मैत्रावरुणस्य
@@ -16361,6 +16529,8 @@ Shankhayana shrauta sutra
 १०
 
 १६
+
+
 
 दैव्याः
 
@@ -16565,6 +16735,8 @@ Shankhayana shrauta sutra
 १३
 
 १७
+
+
 
 स्तोकेभ्य
 
@@ -17000,6 +17172,8 @@ Shankhayana shrauta sutra
 
 समाप्तः
 
+
+
 व्याख्यातोऽग्नीषोमीयः
 
 प्रकृतिः
@@ -17266,6 +17440,8 @@ Shankhayana shrauta sutra
 
 १
 
+
+
 महारात्रे
 
 प्रातरनुवाकायामन्त्रितोऽग्रेणाग्नीध्रीयं
@@ -17371,6 +17547,8 @@ Shankhayana shrauta sutra
 ३
 
 २
+
+
 
 अस्यां
 
@@ -17740,6 +17918,8 @@ Shankhayana shrauta sutra
 आपोरेवतीमनूच्य
 
 ३
+
+
 
 आग्नेयं
 
@@ -18162,6 +18342,8 @@ Shankhayana shrauta sutra
 
 ५
 
+
+
 अथाश्विनं
 
 गायत्रम्
@@ -18490,6 +18672,8 @@ Shankhayana shrauta sutra
 
 ६
 
+
+
 अप
 
 इष्य
@@ -18663,6 +18847,8 @@ Shankhayana shrauta sutra
 १०
 
 ७
+
+
 
 प्राणं
 
@@ -18916,6 +19102,8 @@ Shankhayana shrauta sutra
 
 ८
 
+
+
 आग्नेयः
 
 सवनीयः
@@ -19095,6 +19283,8 @@ Shankhayana shrauta sutra
 १८
 
 ९
+
+
 
 अग्ने
 
@@ -19448,6 +19638,8 @@ Shankhayana shrauta sutra
 
 १०
 
+
+
 इन्द्रा
 
 नु
@@ -19645,6 +19837,8 @@ Shankhayana shrauta sutra
 १७
 
 ११
+
+
 
 ढिष्ण्यानुपस्थाय
 
@@ -19914,6 +20108,8 @@ Shankhayana shrauta sutra
 
 १२
 
+
+
 अग्नयः
 
 सगराः
@@ -20136,6 +20332,8 @@ Shankhayana shrauta sutra
 
 समाप्तः
 
+
+
 प्रसृप्य
 
 पुरोलाशैः
@@ -20217,6 +20415,8 @@ Shankhayana shrauta sutra
 ८
 
 १
+
+
 
 ऐन्द्रवायवमैत्रावरुणावाश्विनश्च
 
@@ -20351,6 +20551,8 @@ Shankhayana shrauta sutra
 १५
 
 २
+
+
 
 ऐतु
 
@@ -20631,6 +20833,8 @@ Shankhayana shrauta sutra
 १७
 
 ४
+
+
 
 इह
 
@@ -20932,6 +21136,8 @@ Shankhayana shrauta sutra
 
 ५
 
+
+
 अच्छावाकः
 
 सीदेत्युक्तोऽग्रेण
@@ -21088,6 +21294,8 @@ Shankhayana shrauta sutra
 
 ६
 
+
+
 उन्नीयमानायेत्युक्तः
 
 प्रत्यस्मै
@@ -21192,6 +21400,8 @@ Shankhayana shrauta sutra
 
 ७
 
+
+
 अथर्तुयाजैश्चरन्ति
 
 १
@@ -21285,6 +21495,8 @@ Shankhayana shrauta sutra
 १२
 
 ८
+
+
 
 आज्यं
 
@@ -21808,6 +22020,8 @@ Shankhayana shrauta sutra
 
 १०
 
+
+
 तृचाः
 
 स्तोत्रियानुरूपाः
@@ -21860,6 +22074,8 @@ Shankhayana shrauta sutra
 
 ११
 
+
+
 आ
 
 याहि
@@ -21899,6 +22115,8 @@ Shankhayana shrauta sutra
 ४
 
 १२
+
+
 
 इन्द्राग्नी
 
@@ -21951,6 +22169,8 @@ Shankhayana shrauta sutra
 ४
 
 १३
+
+
 
 मित्रं
 
@@ -22059,6 +22279,8 @@ Shankhayana shrauta sutra
 १२
 
 १४
+
+
 
 आदौ
 
@@ -22356,6 +22578,8 @@ Shankhayana shrauta sutra
 
 १५
 
+
+
 माध्यन्दिनेन
 
 स्तुते
@@ -22465,6 +22689,8 @@ Shankhayana shrauta sutra
 ९
 
 १६
+
+
 
 माध्यन्दिनस्य
 
@@ -22609,6 +22835,8 @@ Shankhayana shrauta sutra
 १८
 
 १७
+
+
 
 अग्नये
 
@@ -22801,6 +23029,8 @@ Shankhayana shrauta sutra
 ९
 
 १८
+
+
 
 इन्द्राय
 
@@ -23050,6 +23280,8 @@ Shankhayana shrauta sutra
 
 १९
 
+
+
 रथन्तरं
 
 पृष्ठं
@@ -23170,6 +23402,8 @@ Shankhayana shrauta sutra
 
 २०
 
+
+
 उभयसामिन्
 
 १
@@ -23252,6 +23486,8 @@ Shankhayana shrauta sutra
 
 २१
 
+
+
 वामदेव्यं
 
 मैत्रावरुणस्य
@@ -23309,6 +23545,8 @@ Shankhayana shrauta sutra
 ६
 
 २२
+
+
 
 नौधसं
 
@@ -23408,6 +23646,8 @@ Shankhayana shrauta sutra
 
 २३
 
+
+
 कालेयमच्छावाकस्य
 
 १
@@ -23451,6 +23691,8 @@ Shankhayana shrauta sutra
 ६
 
 २४
+
+
 
 शस्त्रेषु
 
@@ -23626,6 +23868,8 @@ Shankhayana shrauta sutra
 
 २५
 
+
+
 इन्द्रनिहवोऽस्तोत्रियः
 
 १
@@ -23765,6 +24009,8 @@ Shankhayana shrauta sutra
 १६
 
 २६
+
+
 
 त्रिपदा
 
@@ -23960,6 +24206,8 @@ Shankhayana shrauta sutra
 
 समाप्तः
 
+
+
 यथा
 
 मध्यन्दिनायैवमूर्ध्वं
@@ -24037,6 +24285,8 @@ Shankhayana shrauta sutra
 ९
 
 १
+
+
 
 तृतीये
 
@@ -24171,6 +24421,8 @@ Shankhayana shrauta sutra
 १३
 
 २
+
+
 
 देवाय
 
@@ -24398,6 +24650,8 @@ Shankhayana shrauta sutra
 
 ३
 
+
+
 घृतस्य
 
 यजेत्युक्तो
@@ -24494,6 +24748,8 @@ Shankhayana shrauta sutra
 
 ४
 
+
+
 अग्नीत्पात्नीवतस्य
 
 यजेत्युक्त
@@ -24547,6 +24803,8 @@ Shankhayana shrauta sutra
 ७
 
 ५
+
+
 
 यज्ञायज्ञीयं
 
@@ -24704,6 +24962,8 @@ Shankhayana shrauta sutra
 
 ६
 
+
+
 प्रथमा
 
 निविन्मरुत्वतीयस्य
@@ -24833,6 +25093,8 @@ Shankhayana shrauta sutra
 २२
 
 ७
+
+
 
 तिष्ठा
 
@@ -24999,6 +25261,8 @@ Shankhayana shrauta sutra
 १२
 
 ८
+
+
 
 आत्मकृतस्यैनसोऽवयजनममि
 
@@ -25238,6 +25502,8 @@ Shankhayana shrauta sutra
 
 १०
 
+
+
 वारुणीष्टिः
 
 १
@@ -25407,6 +25673,8 @@ Shankhayana shrauta sutra
 १६
 
 ११
+
+
 
 प्रायणीययोदयनीया
 
@@ -25610,6 +25878,8 @@ Shankhayana shrauta sutra
 
 १२
 
+
+
 उदङ्ङुदवसाय
 
 वैष्णव्यर्चा
@@ -25657,6 +25927,8 @@ Shankhayana shrauta sutra
 ६
 
 १३
+
+
 
 मन्द्रया
 
@@ -25715,6 +25987,8 @@ Shankhayana shrauta sutra
 ९
 
 १४
+
+
 
 यस्मै
 
@@ -25869,6 +26143,8 @@ Shankhayana shrauta sutra
 १५
 
 १५
+
+
 
 इन्द्रो
 
@@ -26032,6 +26308,8 @@ Shankhayana shrauta sutra
 
 १६
 
+
+
 इन्द्रो
 
 देवः
@@ -26158,6 +26436,8 @@ Shankhayana shrauta sutra
 
 १७
 
+
+
 सविता
 
 देवः
@@ -26271,6 +26551,8 @@ Shankhayana shrauta sutra
 १
 
 १८
+
+
 
 द्यावापृथिवी
 
@@ -26387,6 +26669,8 @@ Shankhayana shrauta sutra
 १
 
 १९
+
+
 
 ऋभवो
 
@@ -26525,6 +26809,8 @@ Shankhayana shrauta sutra
 १
 
 २०
+
+
 
 शिश्वे
 
@@ -26758,6 +27044,8 @@ Shankhayana shrauta sutra
 
 २१
 
+
+
 अग्निर्वैश्वानरः
 
 सोमस्य
@@ -26856,6 +27144,8 @@ Shankhayana shrauta sutra
 
 २२
 
+
+
 मरुतो
 
 देवाः
@@ -26933,6 +27223,8 @@ Shankhayana shrauta sutra
 १
 
 २३
+
+
 
 अग्निर्जातवेदाः
 
@@ -27045,6 +27337,8 @@ Shankhayana shrauta sutra
 ३
 
 २४
+
+
 
 अस्य
 
@@ -27222,6 +27516,8 @@ Shankhayana shrauta sutra
 
 समाप्तः
 
+
+
 पूर्वार्धः
 
 समाप्तः
@@ -27302,6 +27598,8 @@ Shankhayana shrauta sutra
 
 १
 
+
+
 साकमश्वं
 
 मैत्रावरुणस्य
@@ -27349,6 +27647,8 @@ Shankhayana shrauta sutra
 ६
 
 २
+
+
 
 सौभरं
 
@@ -27412,6 +27712,8 @@ Shankhayana shrauta sutra
 
 ३
 
+
+
 नार्मेधमच्छावाकस्य
 
 १
@@ -27461,6 +27763,8 @@ Shankhayana shrauta sutra
 ७
 
 ४
+
+
 
 षोलशिने
 
@@ -27743,6 +28047,8 @@ Shankhayana shrauta sutra
 १३
 
 ५
+
+
 
 आ
 
@@ -28076,6 +28382,8 @@ Shankhayana shrauta sutra
 
 ६
 
+
+
 पान्तमा
 
 वो
@@ -28127,6 +28435,8 @@ Shankhayana shrauta sutra
 ५
 
 ७
+
+
 
 प्र
 
@@ -28187,6 +28497,8 @@ Shankhayana shrauta sutra
 ३
 
 ८
+
+
 
 वयमु
 
@@ -28250,6 +28562,8 @@ Shankhayana shrauta sutra
 
 ९
 
+
+
 इन्द्राय
 
 मद्वने
@@ -28285,6 +28599,8 @@ Shankhayana shrauta sutra
 ४
 
 १०
+
+
 
 अयं
 
@@ -28329,6 +28645,8 @@ Shankhayana shrauta sutra
 ४
 
 ११
+
+
 
 आ
 
@@ -28384,6 +28702,8 @@ Shankhayana shrauta sutra
 
 १२
 
+
+
 अभि
 
 त्वा
@@ -28430,6 +28750,8 @@ Shankhayana shrauta sutra
 
 १३
 
+
+
 इदं
 
 वसो
@@ -28465,6 +28787,8 @@ Shankhayana shrauta sutra
 ३
 
 १४
+
+
 
 इदं
 
@@ -28513,6 +28837,8 @@ Shankhayana shrauta sutra
 ४
 
 १५
+
+
 
 आ
 
@@ -28564,6 +28890,8 @@ Shankhayana shrauta sutra
 
 १६
 
+
+
 योगेयोगे
 
 युञ्जन्ति
@@ -28605,6 +28933,8 @@ Shankhayana shrauta sutra
 ३
 
 १७
+
+
 
 इन्द्रः
 
@@ -28655,6 +28985,8 @@ Shankhayana shrauta sutra
 ५
 
 १८
+
+
 
 अथाच्छावाकस्याहीनिक्याः
 
@@ -28707,6 +29039,8 @@ Shankhayana shrauta sutra
 ५
 
 १९
+
+
 
 समया
 
@@ -29004,6 +29338,8 @@ Shankhayana shrauta sutra
 
 २०
 
+
+
 त्रिवृद्बहिष्पवमानः
 
 १
@@ -29049,6 +29385,8 @@ Shankhayana shrauta sutra
 ८
 
 २१
+
+
 
 अग्निं
 
@@ -29117,6 +29455,8 @@ Shankhayana shrauta sutra
 ७
 
 २२
+
+
 
 प्राजापत्यश्च
 
@@ -29276,6 +29616,8 @@ Shankhayana shrauta sutra
 
 २३
 
+
+
 त्रिहविश्च
 
 दीक्षणीया
@@ -29352,6 +29694,8 @@ Shankhayana shrauta sutra
 
 २४
 
+
+
 संचिते
 
 परिष्टुतेऽग्न्युक्थमनुशंसेत्युक्तश्चित्यस्य
@@ -29377,6 +29721,8 @@ Shankhayana shrauta sutra
 २
 
 २५
+
+
 
 अग्नीषोमीयस्य
 
@@ -29451,6 +29797,8 @@ Shankhayana shrauta sutra
 ४
 
 २६
+
+
 
 अग्नये
 
@@ -29633,6 +29981,8 @@ Shankhayana shrauta sutra
 ७
 
 २७
+
+
 
 देविकाहवींषि
 
@@ -29972,6 +30322,10 @@ Shankhayana shrauta sutra
 
 समाप्तः
 
+
+
+
+
 शुद्धपक्षस्याष्टम्यां
 
 द्वादशाहाय
@@ -30156,6 +30510,8 @@ Shankhayana shrauta sutra
 
 १
 
+
+
 त्रिवृत्स्तोमं
 
 रथन्तरपृष्ठमग्निष्टोमः
@@ -30283,6 +30639,8 @@ Shankhayana shrauta sutra
 ११
 
 २
+
+
 
 पञ्चदशस्तोमं
 
@@ -30499,6 +30857,8 @@ Shankhayana shrauta sutra
 १५
 
 ३
+
+
 
 सप्तदशस्तोमं
 
@@ -30727,6 +31087,8 @@ Shankhayana shrauta sutra
 १५
 
 ४
+
+
 
 एकविशस्तोमं
 
@@ -31060,6 +31422,8 @@ Shankhayana shrauta sutra
 
 ५
 
+
+
 त्रिणवस्तोमं
 
 शाक्वरपृष्ठं
@@ -31388,6 +31752,8 @@ Shankhayana shrauta sutra
 
 ६
 
+
+
 त्रयस्त्रिंशस्तोमं
 
 रैवतपृष्ठं
@@ -31593,6 +31959,8 @@ Shankhayana shrauta sutra
 १४
 
 ७
+
+
 
 अयं
 
@@ -31902,6 +32270,8 @@ Shankhayana shrauta sutra
 
 ८
 
+
+
 चतुर्विंशस्तोमं
 
 बृहत्पृष्ठमुभयसाम
@@ -32138,6 +32508,8 @@ Shankhayana shrauta sutra
 
 ९
 
+
+
 चतुश्चत्वारिंशस्तोमं
 
 रथन्तरपृष्ठमष्टमम्
@@ -32357,6 +32729,8 @@ Shankhayana shrauta sutra
 ८
 
 १०
+
+
 
 अष्टाचत्वारिंशस्तोमं
 
@@ -32663,6 +33037,8 @@ Shankhayana shrauta sutra
 
 ११
 
+
+
 अविवाक्यं
 
 चतुर्विंशस्तोमं
@@ -32818,6 +33194,8 @@ Shankhayana shrauta sutra
 १७
 
 १२
+
+
 
 अग्ने
 
@@ -33127,6 +33505,8 @@ Shankhayana shrauta sutra
 
 १३
 
+
+
 अध्वर्यो३
 
 इति
@@ -33300,6 +33680,8 @@ Shankhayana shrauta sutra
 ८
 
 १४
+
+
 
 अध्वर्यो३
 
@@ -33501,6 +33883,8 @@ Shankhayana shrauta sutra
 
 १५
 
+
+
 अध्वर्यो३
 
 इति
@@ -33640,6 +34024,8 @@ Shankhayana shrauta sutra
 ८
 
 १६
+
+
 
 अध्वर्यो३
 
@@ -33792,6 +34178,8 @@ Shankhayana shrauta sutra
 ८
 
 १७
+
+
 
 अध्वर्यो३
 
@@ -34020,6 +34408,8 @@ Shankhayana shrauta sutra
 ८
 
 १८
+
+
 
 तनूरतो
 
@@ -34389,6 +34779,8 @@ Shankhayana shrauta sutra
 
 १९
 
+
+
 गृहपतिरतो
 
 गृहपतिवदनम्
@@ -34452,6 +34844,8 @@ Shankhayana shrauta sutra
 २
 
 २०
+
+
 
 प्रजापत
 
@@ -34655,6 +35049,10 @@ Shankhayana shrauta sutra
 
 समाप्तः
 
+
+
+
+
 व्याख्यातो
 
 द्वादशाहः
@@ -34698,6 +35096,8 @@ Shankhayana shrauta sutra
 ६
 
 १
+
+
 
 चतुर्विंशस्तोमं
 
@@ -34823,6 +35223,8 @@ Shankhayana shrauta sutra
 
 २
 
+
+
 एकत्रिके
 
 तृचकॢप्तं
@@ -34862,6 +35264,8 @@ Shankhayana shrauta sutra
 ४
 
 ३
+
+
 
 अभिप्लवः
 
@@ -34977,6 +35381,8 @@ Shankhayana shrauta sutra
 
 ४
 
+
+
 इमा
 
 उ
@@ -35036,6 +35442,8 @@ Shankhayana shrauta sutra
 ८
 
 ५
+
+
 
 औष्णिहो
 
@@ -35132,6 +35540,8 @@ Shankhayana shrauta sutra
 ८
 
 ६
+
+
 
 होताजनिष्टेत्याज्यं
 
@@ -35249,6 +35659,8 @@ Shankhayana shrauta sutra
 
 ७
 
+
+
 अग्न
 
 ओजिष्ठमित्याज्यं
@@ -35346,6 +35758,8 @@ Shankhayana shrauta sutra
 ७
 
 ८
+
+
 
 सखायः
 
@@ -35517,6 +35931,8 @@ Shankhayana shrauta sutra
 
 ९
 
+
+
 अभिजित्सर्वस्तोम
 
 उभयसामा
@@ -35630,6 +36046,8 @@ Shankhayana shrauta sutra
 ११
 
 १०
+
+
 
 सप्तदशस्तोमाः
 
@@ -35921,6 +36339,8 @@ Shankhayana shrauta sutra
 
 ११
 
+
+
 यतो
 
 बृहतीकः
@@ -36122,6 +36542,8 @@ Shankhayana shrauta sutra
 १७
 
 १२
+
+
 
 एकविंशस्तोमं
 
@@ -36425,6 +36847,8 @@ Shankhayana shrauta sutra
 
 १३
 
+
+
 यद्येने
 
 पवमाने
@@ -36699,6 +37123,8 @@ Shankhayana shrauta sutra
 
 १४
 
+
+
 विश्वजित्सर्वस्तोमः
 
 सर्वपृष्ठो
@@ -36830,6 +37256,10 @@ Shankhayana shrauta sutra
 एकादशोऽध्यायः
 
 समाप्तः
+
+
+
+
 
 होत्रकाणाम्
 
@@ -37004,6 +37434,8 @@ Shankhayana shrauta sutra
 ५
 
 १
+
+
 
 द्विरात्रप्रभृतिष्वहःसंघातेष्वनुरूपाः
 
@@ -37291,6 +37723,8 @@ Shankhayana shrauta sutra
 
 २
 
+
+
 माध्यन्दिनेषु
 
 विकारः
@@ -37552,6 +37986,8 @@ Shankhayana shrauta sutra
 २३
 
 ३
+
+
 
 कं
 
@@ -37877,6 +38313,8 @@ Shankhayana shrauta sutra
 
 ४
 
+
+
 कदू
 
 न्वस्येत्यच्छावाकस्यानुरूपादनन्तरः
@@ -38123,6 +38561,8 @@ Shankhayana shrauta sutra
 
 ५
 
+
+
 अन्तरेण
 
 प्रायणीयोदयनीयौ
@@ -38311,6 +38751,8 @@ Shankhayana shrauta sutra
 
 ६
 
+
+
 उक्थेषु
 
 क्रियमाणेषु
@@ -38396,6 +38838,8 @@ Shankhayana shrauta sutra
 ८
 
 ७
+
+
 
 अथ
 
@@ -38490,6 +38934,8 @@ Shankhayana shrauta sutra
 ११
 
 ८
+
+
 
 त्रिवृद्दशरात्रस्य
 
@@ -38685,6 +39131,8 @@ Shankhayana shrauta sutra
 
 ९
 
+
+
 उक्थेषु
 
 विकारः
@@ -38860,6 +39308,8 @@ Shankhayana shrauta sutra
 १२
 
 १०
+
+
 
 द्विपदाः
 
@@ -39139,6 +39589,8 @@ Shankhayana shrauta sutra
 
 ११
 
+
+
 एवा
 
 ह्यसि
@@ -39303,6 +39755,8 @@ Shankhayana shrauta sutra
 
 १२
 
+
+
 अप
 
 प्राच
@@ -39418,6 +39872,8 @@ Shankhayana shrauta sutra
 ७
 
 १३
+
+
 
 इदं
 
@@ -39547,6 +40003,8 @@ Shankhayana shrauta sutra
 
 १४
 
+
+
 वच्यस्व
 
 रेभ
@@ -39671,6 +40129,8 @@ Shankhayana shrauta sutra
 
 १५
 
+
+
 त्वं
 
 वृषाक्षुं
@@ -39791,6 +40251,8 @@ Shankhayana shrauta sutra
 
 १६
 
+
+
 राज्ञो
 
 विश्वजनीनस्य
@@ -39908,6 +40370,8 @@ Shankhayana shrauta sutra
 ३
 
 १७
+
+
 
 एता
 
@@ -40054,6 +40518,8 @@ Shankhayana shrauta sutra
 १
 
 १८
+
+
 
 आदित्या
 
@@ -40205,6 +40671,8 @@ Shankhayana shrauta sutra
 
 १९
 
+
+
 पञ्चातो
 
 दिशां
@@ -40322,6 +40790,8 @@ Shankhayana shrauta sutra
 २
 
 २०
+
+
 
 षलतो
 
@@ -40480,6 +40950,8 @@ Shankhayana shrauta sutra
 ३
 
 २१
+
+
 
 विततौ
 
@@ -40665,6 +41137,8 @@ Shankhayana shrauta sutra
 
 १२
 
+
+
 इहेत्थ
 
 प्रागपागुदगधरागरालागुदभर्त्सत
@@ -40806,6 +41280,8 @@ Shankhayana shrauta sutra
 ६
 
 २३
+
+
 
 अत
 
@@ -41053,6 +41529,8 @@ Shankhayana shrauta sutra
 
 २४
 
+
+
 दधिक्राञ्णो
 
 अकारिषमित्येका
@@ -41144,6 +41622,8 @@ Shankhayana shrauta sutra
 ७
 
 २५
+
+
 
 इन्द्रं
 
@@ -41415,6 +41895,8 @@ Shankhayana shrauta sutra
 
 २६
 
+
+
 चतुर्विंशे
 
 शस्त्रं
@@ -41488,6 +41970,10 @@ Shankhayana shrauta sutra
 द्वादशोऽध्यायः
 
 समाप्तः
+
+
+
+
 
 पूर्वकारिणश्छन्दोगा
 
@@ -41586,6 +42072,8 @@ Shankhayana shrauta sutra
 ८
 
 १
+
+
 
 आनीते
 
@@ -41687,6 +42175,8 @@ Shankhayana shrauta sutra
 
 २
 
+
+
 प्रवृत्तेषु
 
 सृते
@@ -41767,6 +42257,8 @@ Shankhayana shrauta sutra
 
 ३
 
+
+
 यूपे
 
 विरूल्हेऽनपवृत्ते
@@ -41818,6 +42310,8 @@ Shankhayana shrauta sutra
 ३
 
 ४
+
+
 
 ज्ञानविषये
 
@@ -42003,6 +42497,8 @@ Shankhayana shrauta sutra
 
 ५
 
+
+
 क्रीते
 
 सोमेऽपहृतेऽनतिनयन्कालमन्यमाहृत्याभिषुणुयात्
@@ -42077,6 +42573,8 @@ Shankhayana shrauta sutra
 
 ६
 
+
+
 प्रातःसवनात्सोमेऽतिरिक्ते
 
 १
@@ -42141,6 +42639,8 @@ Shankhayana shrauta sutra
 
 ७
 
+
+
 माध्यन्दिनादतिरिक्ते
 
 १
@@ -42168,6 +42668,8 @@ Shankhayana shrauta sutra
 ४
 
 ८
+
+
 
 तृतीयसवनादतिरिक्ते
 
@@ -42202,6 +42704,8 @@ Shankhayana shrauta sutra
 ४
 
 ९
+
+
 
 आश्विनादतिरिक्ते
 
@@ -42292,6 +42796,8 @@ Shankhayana shrauta sutra
 ११
 
 १०
+
+
 
 यदि
 
@@ -42390,6 +42896,8 @@ Shankhayana shrauta sutra
 १०
 
 ११
+
+
 
 कलशे
 
@@ -42627,6 +43135,8 @@ Shankhayana shrauta sutra
 
 १२
 
+
+
 यदि
 
 सत्त्राय
@@ -42656,6 +43166,8 @@ Shankhayana shrauta sutra
 २
 
 १३
+
+
 
 आहिताग्नय
 
@@ -42783,6 +43295,8 @@ Shankhayana shrauta sutra
 
 १४
 
+
+
 एकाहार्थे
 
 महाव्रतमाहरन्ति
@@ -42891,6 +43405,8 @@ Shankhayana shrauta sutra
 
 १५
 
+
+
 अथैतान्यपवदन्ति
 
 १
@@ -42995,6 +43511,8 @@ Shankhayana shrauta sutra
 
 १६
 
+
+
 पञ्चाभिप्लविकानि
 
 त्रिरुपेत्य
@@ -43075,6 +43593,8 @@ Shankhayana shrauta sutra
 
 १७
 
+
+
 अथैकषष्टिरात्रे
 
 १
@@ -43110,6 +43630,8 @@ Shankhayana shrauta sutra
 ५
 
 १८
+
+
 
 सप्तदश
 
@@ -43283,6 +43805,8 @@ Shankhayana shrauta sutra
 
 १९
 
+
+
 उत्सर्गिणामयने
 
 १
@@ -43403,6 +43927,8 @@ Shankhayana shrauta sutra
 
 २०
 
+
+
 आदित्यानामयने
 
 १
@@ -43495,6 +44021,8 @@ Shankhayana shrauta sutra
 
 २१
 
+
+
 अङ्गिरसामयने
 
 १
@@ -43522,6 +44050,8 @@ Shankhayana shrauta sutra
 ६
 
 २२
+
+
 
 दृतिवातवतोरयने
 
@@ -43570,6 +44100,8 @@ Shankhayana shrauta sutra
 ८
 
 २३
+
+
 
 मासं
 
@@ -43745,6 +44277,8 @@ Shankhayana shrauta sutra
 
 २४
 
+
+
 चतुरो
 
 मासान्दीक्षाः
@@ -43787,6 +44321,8 @@ Shankhayana shrauta sutra
 
 २५
 
+
+
 संवत्सरं
 
 दीक्षाः
@@ -43808,6 +44344,8 @@ Shankhayana shrauta sutra
 ४
 
 २६
+
+
 
 चीन्संवत्सरान्दीक्षाः
 
@@ -43850,6 +44388,8 @@ Shankhayana shrauta sutra
 ७
 
 २७
+
+
 
 गवामयनं
 
@@ -43916,6 +44456,8 @@ Shankhayana shrauta sutra
 ८
 
 २८
+
+
 
 सरस्वत्या
 
@@ -44215,6 +44757,10 @@ Shankhayana shrauta sutra
 
 समाप्तः
 
+
+
+
+
 एकाहेष्वहीनेषु
 
 च
@@ -44244,6 +44790,8 @@ Shankhayana shrauta sutra
 ३
 
 १
+
+
 
 अग्न्याधेयेन
 
@@ -44465,6 +45013,8 @@ Shankhayana shrauta sutra
 
 २
 
+
+
 एवं
 
 पशवः
@@ -44683,6 +45233,8 @@ Shankhayana shrauta sutra
 
 ३
 
+
+
 पुनराधेयेन
 
 तेजस्कामो
@@ -44724,6 +45276,8 @@ Shankhayana shrauta sutra
 ६
 
 ४
+
+
 
 दर्शपूर्णमासावन्नाद्यकामस्य
 
@@ -44770,6 +45324,8 @@ Shankhayana shrauta sutra
 ८
 
 ५
+
+
 
 प्रजापतिर्ह
 
@@ -44852,6 +45408,8 @@ Shankhayana shrauta sutra
 ७
 
 ६
+
+
 
 वैश्वदेवेन
 
@@ -45013,6 +45571,8 @@ Shankhayana shrauta sutra
 
 ७
 
+
+
 ताः
 
 प्रजाः
@@ -45153,6 +45713,8 @@ Shankhayana shrauta sutra
 
 ८
 
+
+
 ताः
 
 प्रजाः
@@ -45276,6 +45838,8 @@ Shankhayana shrauta sutra
 १२
 
 ९
+
+
 
 पशुमत्सु
 
@@ -45439,6 +46003,8 @@ Shankhayana shrauta sutra
 
 १०
 
+
+
 प्रत्यवरोहणीयः
 
 प्रतिष्ठाकामस्य
@@ -45524,6 +46090,8 @@ Shankhayana shrauta sutra
 १०
 
 ११
+
+
 
 अथातः
 
@@ -45672,6 +46240,8 @@ Shankhayana shrauta sutra
 ११
 
 १२
+
+
 
 तस्याश्विनो
 
@@ -45843,6 +46413,8 @@ Shankhayana shrauta sutra
 
 १३
 
+
+
 देवा
 
 ह
@@ -45907,6 +46479,8 @@ Shankhayana shrauta sutra
 
 १४
 
+
+
 गोसवेन
 
 पशुकामो
@@ -45956,6 +46530,8 @@ Shankhayana shrauta sutra
 ८
 
 १५
+
+
 
 ऋतपेयेन
 
@@ -46067,6 +46643,8 @@ Shankhayana shrauta sutra
 
 १६
 
+
+
 प्रजापतिरिमं
 
 लोकमीप्संस्तपस्तप्त्वैतं
@@ -46089,6 +46667,8 @@ Shankhayana shrauta sutra
 
 १७
 
+
+
 प्रजापतिरन्तरिक्षलोकमीप्सं
 
 स्तपस्तप्त्वैतं
@@ -46106,6 +46686,8 @@ Shankhayana shrauta sutra
 १
 
 १८
+
+
 
 प्रजापतिरमुं
 
@@ -46142,6 +46724,8 @@ Shankhayana shrauta sutra
 ३
 
 १९
+
+
 
 सूर्यो
 
@@ -46182,6 +46766,8 @@ Shankhayana shrauta sutra
 ३
 
 २०
+
+
 
 तीव्रसवः
 
@@ -46236,6 +46822,8 @@ Shankhayana shrauta sutra
 ३
 
 २१
+
+
 
 ज्योतिः
 
@@ -46433,6 +47021,8 @@ Shankhayana shrauta sutra
 
 २२
 
+
+
 देवासुराः
 
 समयतन्त
@@ -46531,6 +47121,8 @@ Shankhayana shrauta sutra
 
 २३
 
+
+
 सूर्यो
 
 ह
@@ -46621,6 +47213,8 @@ Shankhayana shrauta sutra
 
 २४
 
+
+
 वसिष्ठो
 
 हान्नाद्यकामस्तपस्तप्त्वैतं
@@ -46687,6 +47281,8 @@ Shankhayana shrauta sutra
 
 २५
 
+
+
 इन्द्रो
 
 ह
@@ -46742,6 +47338,8 @@ Shankhayana shrauta sutra
 ५
 
 २६
+
+
 
 उशना
 
@@ -46897,6 +47495,8 @@ Shankhayana shrauta sutra
 
 २७
 
+
+
 स
 
 हैक्षत
@@ -47014,6 +47614,8 @@ Shankhayana shrauta sutra
 १३
 
 २८
+
+
 
 इन्द्राग्नी
 
@@ -47165,6 +47767,8 @@ Shankhayana shrauta sutra
 
 २९
 
+
+
 मित्रावरुणयोर्वै
 
 वैराज्यमन्यतर
@@ -47196,6 +47800,8 @@ Shankhayana shrauta sutra
 २
 
 ३०
+
+
 
 ज्येष्ठस्तोमः
 
@@ -47260,6 +47866,8 @@ Shankhayana shrauta sutra
 ५
 
 ३१
+
+
 
 देवासुराः
 
@@ -47400,6 +48008,8 @@ Shankhayana shrauta sutra
 १०
 
 ३२
+
+
 
 इन्द्रो
 
@@ -47635,6 +48245,8 @@ Shankhayana shrauta sutra
 
 ३३
 
+
+
 सूर्यो
 
 ह
@@ -47691,6 +48303,8 @@ Shankhayana shrauta sutra
 
 ३४
 
+
+
 वरुणो
 
 ह
@@ -47736,6 +48350,8 @@ Shankhayana shrauta sutra
 २
 
 ३५
+
+
 
 भानुमती
 
@@ -47787,6 +48403,8 @@ Shankhayana shrauta sutra
 
 ३६
 
+
+
 इन्द्राविष्णुर्ह
 
 स्वर्गकामस्तपस्तप्त्वैतं
@@ -47822,6 +48440,8 @@ Shankhayana shrauta sutra
 २
 
 ३७
+
+
 
 देवासुराः
 
@@ -47939,6 +48559,8 @@ Shankhayana shrauta sutra
 
 ३८
 
+
+
 राशिमरायावन्नाद्यकामस्य
 
 १
@@ -48008,6 +48630,8 @@ Shankhayana shrauta sutra
 १०
 
 ३९
+
+
 
 आदित्याश्च
 
@@ -48291,6 +48915,8 @@ Shankhayana shrauta sutra
 
 ४०
 
+
+
 एषैवोत्तरस्य
 
 विधा
@@ -48368,6 +48994,8 @@ Shankhayana shrauta sutra
 १२
 
 ४१
+
+
 
 एषैवोत्तरस्य
 
@@ -48521,6 +49149,8 @@ Shankhayana shrauta sutra
 
 ४२
 
+
+
 इन्द्रो
 
 वै
@@ -48544,6 +49174,8 @@ Shankhayana shrauta sutra
 १
 
 ४३
+
+
 
 इन्द्रो
 
@@ -48572,6 +49204,8 @@ Shankhayana shrauta sutra
 १
 
 ४४
+
+
 
 इन्द्रो
 
@@ -48607,6 +49241,8 @@ Shankhayana shrauta sutra
 
 ४५
 
+
+
 इन्द्रो
 
 वै
@@ -48638,6 +49274,8 @@ Shankhayana shrauta sutra
 २
 
 ४६
+
+
 
 इन्द्रो
 
@@ -48672,6 +49310,8 @@ Shankhayana shrauta sutra
 २
 
 ४७
+
+
 
 इन्द्रो
 
@@ -48766,6 +49406,8 @@ Shankhayana shrauta sutra
 ३
 
 ४९
+
+
 
 इन्द्रो
 
@@ -48900,6 +49542,8 @@ Shankhayana shrauta sutra
 २
 
 ५०
+
+
 
 तमभ्येवाक्रोशन्ननहर्जाततया
 
@@ -49091,6 +49735,8 @@ Shankhayana shrauta sutra
 
 ५१
 
+
+
 अग्निमीले
 
 पुरोहितमित्युन्नीयमानेभ्यः
@@ -49217,6 +49863,8 @@ Shankhayana shrauta sutra
 
 ५२
 
+
+
 अग्निं
 
 वो
@@ -49307,6 +49955,8 @@ Shankhayana shrauta sutra
 
 ५३
 
+
+
 पाहि
 
 नो
@@ -49375,6 +50025,8 @@ Shankhayana shrauta sutra
 
 ५४
 
+
+
 अग्निमग्निं
 
 वो
@@ -49426,6 +50078,8 @@ Shankhayana shrauta sutra
 ५
 
 ५५
+
+
 
 अगम््म
 महेत्यादित्यग्रहस्य
@@ -49575,6 +50229,8 @@ Shankhayana shrauta sutra
 १५
 
 ५६
+
+
 
 अभि
 
@@ -49776,6 +50432,8 @@ Shankhayana shrauta sutra
 
 ५७
 
+
+
 इन्द्रो
 
 ह
@@ -49809,6 +50467,8 @@ Shankhayana shrauta sutra
 २
 
 ५८
+
+
 
 सूर्यो
 
@@ -49845,6 +50505,8 @@ Shankhayana shrauta sutra
 २
 
 ५९
+
+
 
 विश्वे
 
@@ -49918,6 +50580,8 @@ Shankhayana shrauta sutra
 
 ६०
 
+
+
 गोगमो
 
 ह
@@ -49984,6 +50648,8 @@ Shankhayana shrauta sutra
 
 ६१
 
+
+
 पञ्चशारदीयः
 
 १
@@ -50048,6 +50714,8 @@ Shankhayana shrauta sutra
 
 ६२
 
+
+
 ऋषिस्तोमाः
 
 १
@@ -50078,6 +50746,8 @@ Shankhayana shrauta sutra
 
 ६३
 
+
+
 भरद्वाजो
 
 ह
@@ -50104,6 +50774,8 @@ Shankhayana shrauta sutra
 
 ६४
 
+
+
 अत्रिर्ह
 
 प्रजातिकामस्तपस्तप्त्वैतं
@@ -50128,6 +50800,8 @@ Shankhayana shrauta sutra
 
 ६५
 
+
+
 वसिष्ठो
 
 हान्नाद्यकामस्तपस्तप्त्वैतं
@@ -50147,6 +50821,8 @@ Shankhayana shrauta sutra
 १
 
 ६६
+
+
 
 जमदग्निर्ह
 
@@ -50171,6 +50847,8 @@ Shankhayana shrauta sutra
 १
 
 ६७
+
+
 
 प्रजापतिर्ह
 
@@ -50200,6 +50878,8 @@ Shankhayana shrauta sutra
 
 ६८
 
+
+
 व्रात्यस्तोमाः
 
 १
@@ -50228,6 +50908,8 @@ Shankhayana shrauta sutra
 
 ६९
 
+
+
 मित्रावरुणयोरश्विनोर्वसूनां
 
 मरुतां
@@ -50243,6 +50925,8 @@ Shankhayana shrauta sutra
 २
 
 ७०
+
+
 
 उत्क्रान्तिरतिरात्रः
 
@@ -50320,6 +51004,8 @@ Shankhayana shrauta sutra
 
 ७१
 
+
+
 मित्रावरुणयोरश्विनोर्वसूनां
 
 मरुतां
@@ -50366,6 +51052,8 @@ Shankhayana shrauta sutra
 
 ७२
 
+
+
 व्रात्यस्तोमानाम्
 
 १
@@ -50387,6 +51075,8 @@ Shankhayana shrauta sutra
 ३
 
 ७३
+
+
 
 प्रजापतिर्ह
 
@@ -50413,6 +51103,8 @@ Shankhayana shrauta sutra
 १
 
 ७४
+
+
 
 ऋतुस्तोमाः
 
@@ -50442,6 +51134,8 @@ Shankhayana shrauta sutra
 
 ७५
 
+
+
 मासस्तोमाः
 
 १
@@ -50464,6 +51158,8 @@ Shankhayana shrauta sutra
 
 ७६
 
+
+
 अर्धमासस्तोमाः
 
 १
@@ -50485,6 +51181,8 @@ Shankhayana shrauta sutra
 २
 
 ७७
+
+
 
 नक्षत्रस्तोमाः
 
@@ -50516,6 +51214,8 @@ Shankhayana shrauta sutra
 
 ७८
 
+
+
 अहोरात्रस्तोमाः
 
 १
@@ -50537,6 +51237,8 @@ Shankhayana shrauta sutra
 २
 
 ७९
+
+
 
 मुहूर्तस्तोमाः
 
@@ -50565,6 +51267,8 @@ Shankhayana shrauta sutra
 २
 
 ८०
+
+
 
 निमेषस्तोमाः
 
@@ -50618,6 +51322,8 @@ Shankhayana shrauta sutra
 
 ८२
 
+
+
 दिशां
 
 स्तोमाः
@@ -50641,6 +51347,8 @@ Shankhayana shrauta sutra
 २
 
 ८३
+
+
 
 स्वान्तरदिशां
 
@@ -50705,6 +51413,10 @@ Shankhayana shrauta sutra
 चतुर्दशोऽध्यायः
 
 समाप्तः
+
+
+
+
 
 शरदि
 
@@ -51050,6 +51762,8 @@ Shankhayana shrauta sutra
 
 १
 
+
+
 त्रिकद्रुकेषु
 
 महिषो
@@ -51338,6 +52052,8 @@ Shankhayana shrauta sutra
 
 २
 
+
+
 तत्र
 
 पुरस्तादानोभद्रीयस्य
@@ -51552,6 +52268,8 @@ Shankhayana shrauta sutra
 
 ३
 
+
+
 वाजपेयेनेष्ट्वा
 
 बृहस्पतिसवः
@@ -51639,6 +52357,8 @@ Shankhayana shrauta sutra
 १२
 
 ४
+
+
 
 प्रजापतिर्ह
 
@@ -51816,6 +52536,8 @@ Shankhayana shrauta sutra
 
 ५
 
+
+
 छान्दोमाः
 
 पवमानाः
@@ -51881,6 +52603,8 @@ Shankhayana shrauta sutra
 ८
 
 ६
+
+
 
 कयाशुभीयं
 
@@ -51979,6 +52703,8 @@ Shankhayana shrauta sutra
 ११
 
 ७
+
+
 
 तदिदासीयं
 
@@ -52200,6 +52926,8 @@ Shankhayana shrauta sutra
 
 ८
 
+
+
 यमस्तोमः
 
 १
@@ -52266,6 +52994,8 @@ Shankhayana shrauta sutra
 
 ९
 
+
+
 गायत्रः
 
 सर्वस्वारो
@@ -52319,6 +53049,8 @@ Shankhayana shrauta sutra
 ६
 
 १०
+
+
 
 वागकामयत
 
@@ -52483,6 +53215,8 @@ Shankhayana shrauta sutra
 १५
 
 ११
+
+
 
 वरुणोऽकामयत
 
@@ -52678,6 +53412,8 @@ Shankhayana shrauta sutra
 
 १२
 
+
+
 सह
 
 सोमौ
@@ -52793,6 +53529,8 @@ Shankhayana shrauta sutra
 १५
 
 १३
+
+
 
 अथोत्तरं
 
@@ -52960,6 +53698,8 @@ Shankhayana shrauta sutra
 
 १४
 
+
+
 अथ
 
 सौत्रामणी
@@ -53111,6 +53851,8 @@ Shankhayana shrauta sutra
 १४
 
 १५
+
+
 
 उत
 
@@ -53303,6 +54045,8 @@ Shankhayana shrauta sutra
 १९
 
 १६
+
+
 
 हरिश्चन्द्रो
 
@@ -54474,6 +55218,8 @@ Shankhayana shrauta sutra
 
 १९
 
+
+
 तस्य
 
 ह
@@ -54640,6 +55386,8 @@ Shankhayana shrauta sutra
 
 २०
 
+
+
 तस्य
 
 ह
@@ -54777,6 +55525,8 @@ Shankhayana shrauta sutra
 उपधावानीति
 
 २१
+
+
 
 स
 
@@ -55107,6 +55857,8 @@ Shankhayana shrauta sutra
 संस्थामधिगच्छेः
 
 २२
+
+
 
 अथ
 
@@ -55904,6 +56656,10 @@ Shankhayana shrauta sutra
 
 समाप्तः
 
+
+
+
+
 प्रजापतिरकामयत
 
 ।
@@ -56291,6 +57047,8 @@ Shankhayana shrauta sutra
 २५
 
 १
+
+
 
 मनुर्वैवस्वत
 
@@ -56708,6 +57466,8 @@ Shankhayana shrauta sutra
 
 २
 
+
+
 एकविंशतिर्यूपा
 
 एकविंशत्यरत्नयः
@@ -56894,6 +57654,8 @@ Shankhayana shrauta sutra
 
 ३
 
+
+
 इति
 
 परिशिष्य
@@ -57055,6 +57817,8 @@ Shankhayana shrauta sutra
 ३७
 
 ३
+
+
 
 माता
 
@@ -57232,6 +57996,8 @@ Shankhayana shrauta sutra
 
 ४
 
+
+
 किं
 
 स्वित्सूर्यसमं
@@ -57361,6 +58127,8 @@ Shankhayana shrauta sutra
 २
 
 ५
+
+
 
 पृच्छामि
 
@@ -57513,6 +58281,8 @@ Shankhayana shrauta sutra
 ३
 
 ६
+
+
 
 सुभूः
 
@@ -57711,6 +58481,8 @@ Shankhayana shrauta sutra
 १६
 
 ७
+
+
 
 महानाम्न्यः
 
@@ -57925,6 +58697,8 @@ Shankhayana shrauta sutra
 २८
 
 ८
+
+
 
 आमन्दीवति
 
@@ -58242,6 +59016,8 @@ Shankhayana shrauta sutra
 
 ९
 
+
+
 प्रजापतिरश्वमेधेनेष्ट्वा
 
 पुरुषमेधमपश्यत्
@@ -58427,6 +59203,8 @@ Shankhayana shrauta sutra
 १६
 
 १०
+
+
 
 शौनःशेपं
 
@@ -58764,6 +59542,8 @@ Shankhayana shrauta sutra
 
 ११
 
+
+
 पञ्चविंशतिर्यूपाः
 
 १
@@ -58939,6 +59719,8 @@ Shankhayana shrauta sutra
 २१
 
 १२
+
+
 
 पुरुषेण
 
@@ -59160,6 +59942,8 @@ Shankhayana shrauta sutra
 
 १३
 
+
+
 आश्वमेधिकमाज्यात्
 
 १
@@ -59361,6 +60145,8 @@ Shankhayana shrauta sutra
 २०
 
 १४
+
+
 
 ब्रह्म
 
@@ -59600,6 +60386,8 @@ Shankhayana shrauta sutra
 
 १५
 
+
+
 गार्हपत्येऽधरारणिमनुप्रहृत्य
 
 ।
@@ -59687,6 +60475,8 @@ Shankhayana shrauta sutra
 ४
 
 १६
+
+
 
 वाजपेये
 
@@ -59825,6 +60615,8 @@ Shankhayana shrauta sutra
 ११
 
 १७
+
+
 
 राजसूयेऽभिषिक्तो
 
@@ -60062,6 +60854,8 @@ Shankhayana shrauta sutra
 
 १८
 
+
+
 अथात
 
 एकोत्तरा
@@ -60077,6 +60871,8 @@ Shankhayana shrauta sutra
 २
 
 १९
+
+
 
 अथ
 
@@ -60237,6 +61033,8 @@ Shankhayana shrauta sutra
 १९
 
 २०
+
+
 
 अथ
 
@@ -60512,6 +61310,8 @@ Shankhayana shrauta sutra
 
 २१
 
+
+
 एषो
 
 न्वै
@@ -60739,6 +61539,8 @@ Shankhayana shrauta sutra
 ३०
 
 २२
+
+
 
 अथ
 
@@ -61008,6 +61810,8 @@ Shankhayana shrauta sutra
 
 २३
 
+
+
 अथ
 
 यत्पञ्चविधं
@@ -61184,6 +61988,8 @@ Shankhayana shrauta sutra
 
 २४
 
+
+
 अथ
 
 यत्षड्विधं
@@ -61243,6 +62049,8 @@ Shankhayana shrauta sutra
 ७
 
 २५
+
+
 
 अथ
 
@@ -61336,6 +62144,8 @@ Shankhayana shrauta sutra
 
 २६
 
+
+
 अथ
 
 यदष्टविधं
@@ -61391,6 +62201,8 @@ Shankhayana shrauta sutra
 ७
 
 २७
+
+
 
 अथ
 
@@ -61459,6 +62271,8 @@ Shankhayana shrauta sutra
 ५
 
 २८
+
+
 
 अथ
 
@@ -61666,6 +62480,8 @@ Shankhayana shrauta sutra
 
 २९
 
+
+
 अथ
 
 यदेकादशविधं
@@ -61783,6 +62599,10 @@ Shankhayana shrauta sutra
 षोडशोऽध्यायः
 
 समाप्तः
+
+
+
+
 
 अथातो
 
@@ -61930,6 +62750,8 @@ Shankhayana shrauta sutra
 
 १
 
+
+
 अथ
 
 मौञ्ज्यौ
@@ -61993,6 +62815,8 @@ Shankhayana shrauta sutra
 ९
 
 २
+
+
 
 अथैतां
 
@@ -62150,6 +62974,8 @@ Shankhayana shrauta sutra
 
 ३
 
+
+
 चतुरो
 
 दुन्दुभीनध्वर्युः
@@ -62262,6 +63088,8 @@ Shankhayana shrauta sutra
 
 ४
 
+
+
 अथैतमश्वरथमुपकल्पयन्ति
 
 विततवरूथम्
@@ -62372,6 +63200,8 @@ Shankhayana shrauta sutra
 
 ५
 
+
+
 अथ
 
 शूद्रार्यौ
@@ -62425,6 +63255,8 @@ Shankhayana shrauta sutra
 ६
 
 ६
+
+
 
 अथ
 
@@ -62590,6 +63422,8 @@ Shankhayana shrauta sutra
 
 ७
 
+
+
 विशोविशो
 
 वो
@@ -62724,6 +63558,8 @@ Shankhayana shrauta sutra
 
 ८
 
+
+
 अथातो
 
 माध्यन्दिनं
@@ -62821,6 +63657,8 @@ Shankhayana shrauta sutra
 ७
 
 ९
+
+
 
 अथातो
 
@@ -63022,6 +63860,8 @@ Shankhayana shrauta sutra
 
 १०
 
+
+
 अथाध्वर्युर्माहेन्द्रं
 
 ग्रहं
@@ -63083,6 +63923,8 @@ Shankhayana shrauta sutra
 ४
 
 ११
+
+
 
 आयुष्मद्गायत्रं
 
@@ -63231,6 +64073,8 @@ Shankhayana shrauta sutra
 ६
 
 १२
+
+
 
 नमस्ते
 
@@ -63428,6 +64272,8 @@ Shankhayana shrauta sutra
 
 १३
 
+
+
 स
 
 पुरस्तादेव
@@ -63585,6 +64431,8 @@ Shankhayana shrauta sutra
 १६
 
 १४
+
+
 
 अथैतमश्वरथं
 
@@ -63758,6 +64606,8 @@ Shankhayana shrauta sutra
 
 १५
 
+
+
 अथैनदुरसा
 
 संस्पृश्य
@@ -63897,6 +64747,8 @@ Shankhayana shrauta sutra
 ९
 
 १६
+
+
 
 सं
 
@@ -64107,6 +64959,10 @@ Shankhayana shrauta sutra
 सप्तदशोऽध्यायः
 
 समाप्तः
+
+
+
+
 
 उच्चैराहूय
 
@@ -64392,6 +65248,8 @@ Shankhayana shrauta sutra
 
 १
 
+
+
 अथैतानि
 
 शीर्षण्यानि
@@ -64504,6 +65362,8 @@ Shankhayana shrauta sutra
 
 २
 
+
+
 अथैतं
 
 ग्रैवं
@@ -64575,6 +65435,8 @@ Shankhayana shrauta sutra
 ३
 
 ३
+
+
 
 उरुं
 
@@ -64707,6 +65569,8 @@ Shankhayana shrauta sutra
 ९
 
 ४
+
+
 
 स
 
@@ -64868,6 +65732,8 @@ Shankhayana shrauta sutra
 
 ५
 
+
+
 अथैतानि
 
 चतुरुत्तराणि
@@ -64967,6 +65833,8 @@ Shankhayana shrauta sutra
 ६
 
 ६
+
+
 
 अथैता
 
@@ -65169,6 +66037,8 @@ Shankhayana shrauta sutra
 २१
 
 ७
+
+
 
 या
 
@@ -65374,6 +66244,8 @@ Shankhayana shrauta sutra
 
 ८
 
+
+
 अथ
 
 प्रत्यक्षबृहतीः
@@ -65463,6 +66335,8 @@ Shankhayana shrauta sutra
 ८
 
 ९
+
+
 
 अथ
 
@@ -65608,6 +66482,8 @@ Shankhayana shrauta sutra
 
 १०
 
+
+
 अथ
 
 प्रत्यक्षबृहतीः
@@ -65698,6 +66574,8 @@ Shankhayana shrauta sutra
 
 ११
 
+
+
 इन्द्रः
 
 सुतेषु
@@ -65777,6 +66655,8 @@ Shankhayana shrauta sutra
 ७
 
 १२
+
+
 
 अथ
 
@@ -65906,6 +66786,8 @@ Shankhayana shrauta sutra
 
 १३
 
+
+
 अथैतं
 
 वशमर्धर्चशः
@@ -66017,6 +66899,8 @@ Shankhayana shrauta sutra
 ९
 
 १४
+
+
 
 अथैता
 
@@ -66188,6 +67072,8 @@ Shankhayana shrauta sutra
 
 १५
 
+
+
 अथैतदैन्द्राग्नं
 
 सूक्तं
@@ -66235,6 +67121,8 @@ Shankhayana shrauta sutra
 ३
 
 १६
+
+
 
 अथैतदावपनं
 
@@ -66315,6 +67203,8 @@ Shankhayana shrauta sutra
 ७
 
 १७
+
+
 
 अथैतमानुष्टुभं
 
@@ -66488,6 +67378,8 @@ Shankhayana shrauta sutra
 
 १८
 
+
+
 अथैतं
 
 त्रिष्टुप्छतं
@@ -66602,6 +67494,8 @@ Shankhayana shrauta sutra
 
 १९
 
+
+
 अथ
 
 प्रथमायै
@@ -66715,6 +67609,8 @@ Shankhayana shrauta sutra
 ८
 
 २०
+
+
 
 तदेतत्सकृच्छस्तायां
 
@@ -66862,6 +67758,8 @@ Shankhayana shrauta sutra
 
 २१
 
+
+
 अथातस्तृतीयसवनम्
 
 १
@@ -66987,6 +67885,8 @@ Shankhayana shrauta sutra
 १०
 
 २२
+
+
 
 अथात
 
@@ -67187,6 +68087,8 @@ Shankhayana shrauta sutra
 १८
 
 २३
+
+
 
 अथ
 
@@ -67509,5 +68411,6 @@ Shankhayana shrauta sutra
 शाङ्खायनश्रौतसूत्रं
 
 समाप्तम्
+
 
 \]

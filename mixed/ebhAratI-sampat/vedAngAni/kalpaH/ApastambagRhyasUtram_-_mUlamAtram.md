@@ -61,6 +61,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 
 इत्यापस्तम्बीये गृह्यप्रश्ने प्रथमः खण्डः
 
+
+
 द्वितीयः खण्डः
 
 येन जुहोति तदग्नौ प्रतितप्य दर्भैः संमृज्य पुनः प्रतितप्य प्रोक्ष्य निधाय दर्भानद्भिस्संस्पृश्याग्नौ प्रहरति १
@@ -96,6 +98,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 इन्वकाभिः प्रसृज्यन्ते ते वराः प्रतिनन्दिताः १६
 
 इत्यापस्तम्बीये गृह्यप्रश्ने द्वितीयः खण्डः
+
+
 
 तृतीयः खण्डः
 
@@ -145,6 +149,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 
 समाप्तश्च प्रथमः पटलः
 
+
+
 अथ द्वितीयः पटलः
 
 चतुर्थः खण्डः
@@ -182,6 +188,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 सखेति सप्तमे पदे जपति १६
 
 इत्यापस्तम्बीये गृह्यप्रश्ने चतुर्थः खण्डः
+
+
 
 पञ्चमः खण्डः
 
@@ -239,6 +247,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 
 इत्यापस्तम्बीये गृह्यप्रश्ने पञ्चमः खण्डः
 
+
+
 षष्ठः खण्डः
 
 नावमुत्तरयाऽनुमन्त्रयते १
@@ -266,6 +276,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 इत्यापस्तम्बीये गृह्यप्रश्ने षष्ठः खण्डः
 
 इति द्वितीयः पटलः
+
+
 
 अथ तृतीयः पटलः
 
@@ -329,6 +341,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 
 इत्यापस्तम्बीये गृह्यप्रश्ने सप्तमः खण्डः
 
+
+
 अष्टमः खण्डः
 
 उपाकरणे समापने च ऋषिर्यः प्रज्ञायते १
@@ -359,6 +373,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 
 इत्यापस्तम्बीये गृह्यप्रश्ने अष्टमः खण्डः
 
+
+
 नवमः खण्डः
 
 चतुर्थीप्रभृत्याषोडशीमुत्तरामुत्तरां युग्मां प्रजानिःश्रेयसमृतुगमन इत्युपदिशन्ति १
@@ -386,6 +402,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 इत्यापस्तम्बीये गृह्यप्रश्ने नवमः खण्डः
 
 समाप्तस्तृतीयः पटलः
+
+
 
 अथ चतुर्थः पटलः
 
@@ -418,6 +436,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 यजुषोपनीय सुप्रजा इति दक्षिणे कर्णे जपति १२
 
 इत्यापस्तम्बीये गृह्यप्रश्ने दशमः खण्डः
+
+
 
 एकादशः खण्डः
 
@@ -472,6 +492,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 इत्यापस्तम्बीये गृह्यप्रश्ने एकादशः खण्डः
 
 चतुर्थः पटलः समाप्तः
+
+
 
 अथोपाकर्मोत्सर्जनपटलः
 
@@ -535,6 +557,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 
 इत्युपाकर्मोत्सर्जनपटलः
 
+
+
 अथ पञ्चमः पटलः
 
 द्वादशः खण्डः
@@ -568,6 +592,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 रातिना सम्भाष्य यथार्थं गच्छति १४
 
 इत्यापस्तम्बीये गृह्यप्रश्ने द्वादशः खण्डः
+
+
 
 त्रयोदशः खण्डः
 
@@ -617,6 +643,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 
 पञ्चमश्च पटलः समाप्तः
 
+
+
 अथ षष्ठः पटलः
 
 चतुर्दशः खण्डः
@@ -651,6 +679,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 
 इत्यापस्तम्बीये गृह्यप्रश्ने चतुर्दशः खण्डः
 
+
+
 पञ्चदशः खण्डः
 
 जातं वात्सप्रेणाभिमृश्योत्तरेण यजुषोपस्थ आधायोत्तराभ्यामाभिमन्त्रणं मूर्धन्यवघ्राणं दक्षिणे कर्णे जापः १
@@ -680,6 +710,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 कुमारीमुत्तरेण यजुषाऽभिमन्त्रयते १३
 
 इत्यापस्तम्बीये गृह्यप्रश्ने पञ्चदशः खण्डः
+
+
 
 षोडशः खण्डः
 
@@ -721,6 +753,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 
 षष्ठश्च पटलः समाप्तः
 
+
+
 अथ सप्तमः पटलः
 
 सप्तदशः खण्डः
@@ -753,6 +787,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 
 इत्यापस्तम्बीये गृह्यप्रश्ने सप्तदशः खण्डः
 
+
+
 अष्टादशः खण्डः
 
 श्वग्रहगृहीतं कुमारं तपोयुक्तो जालेन प्रच्छाद्य कंसं किङ्किणिं वा ह्रादयन्नद्वारेण सभां प्रपाद्य सभाया मध्येऽधिदेवनमुद्धत्यावोक्ष्याक्षान्न्युप्याक्षेधूत्तानं निपात्य दध्ना लवणमिश्रेणाञ्जलिनोत्तरैरवोक्षेत्प्रातर्मध्यन्दिने सायम् १
@@ -782,6 +818,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 ब्राह्मणान्भोजयेत् १२
 
 इत्यापस्तम्बीये गृह्यप्रश्नेऽष्टादशः खण्डः
+
+
 
 एकोनविंशः खण्डः
 
@@ -814,6 +852,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 अपरेणाग्निं द्वे कुटी कृत्वा १४
 
 इत्यापस्तम्बीये गृह्यप्रश्ने एकोनविंशः खण्डः
+
+
 
 विंशः खण्डः
 
@@ -855,6 +895,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 
 इत्यापस्तम्बीये गृह्यप्रश्ने विंशः खण्डः
 
+
+
 अथाष्टमः पटलः
 
 एकविंशः खण्डः
@@ -884,6 +926,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 अष्टाकपाल इत्येके १३
 
 इत्यापस्तम्बीये गृह्यप्रश्ने एकविंशः खण्डः
+
+
 
 द्वाविंशः खण्डः
 
@@ -929,6 +973,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 
 इत्यापस्तम्बीये गृह्यप्रश्ने द्वाविंशः खण्डः
 
+
+
 त्रयोविंशः खण्डः
 
 दक्षिणेन फलीकरणमुष्टिमुत्तरया हुत्वा गत्वोत्तरां जपेत् १
@@ -956,5 +1002,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODMzNjAyOTAz
 समाप्तस्तथाऽष्टमश्च पटलः
 
 समाप्तोऽयमापस्तम्बगृह्यसूत्रम्
+
+
 
 \]

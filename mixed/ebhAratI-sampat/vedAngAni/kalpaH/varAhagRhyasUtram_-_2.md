@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 \[
 
+
+
 **Varaha Shankhyayana Grhya Sutra Bhashyam**
 
 वाराहगृह्रसूत्रम्।
@@ -270,6 +272,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 परिषिंचेत्॥
 
+
+
 ॥इति
 
 वाराहगृह्रसूत्रे
@@ -278,9 +282,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 खण्डः॥
 
+
+
 नामकरणम्
 
 ।
+
+
 
 एवमेव
 
@@ -374,6 +382,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 मांसमश्नीयाताम्॥
 
+
+
 ॥
 
 इति
@@ -389,6 +399,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 च
 
 ।
+
+
 
 पुत्रस्य
 
@@ -486,6 +498,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 हवनम्॥
 
+
+
 ॥
 
 इति
@@ -496,7 +510,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 खण्डः॥
 
+
+
 चूडाकरणम्।
+
+
 
 तृतीयवर्षस्य
 
@@ -663,6 +681,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 जीवसे।
 
 दीर्घायुत्वाय
+
+
 
 स्वस्तय
 
@@ -838,6 +858,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 वप्तर्वपासि
 
+
+
 केशान्
 
 शुन्धश्शिरो
@@ -986,6 +1008,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 एवमुत्तरेषु॥
 
+
+
 ॥इति
 
 वाराहगृह्रे
@@ -995,6 +1019,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 खण्डः॥
 
 उपनयनम्।
+
+
 
 गर्भाष्टमे
 
@@ -1448,6 +1474,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 ग्न
 
+
+
 परिणयेत्।
 
 पश्चादग्नेः
@@ -1744,6 +1772,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 ग्न
 
+
+
 परिचरेत्।
 
 इमं
@@ -1940,15 +1970,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 श्रुतिः॥
 
+
+
 वाराहगृह्रे
 
 पञ्चमः
 
 खण्डः॥
 
+
+
 व्रतानि
 
 ।
+
+
 
 उपनयनप्रभृति
 
@@ -1962,15 +1998,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 व्याख्याताः॥
 
+
+
 मार्गवासाः
 
 ।
 
+
+
 संहतकेशः।
+
+
 
 भैक्षाचर्यावृत्तिः।
 
+
+
 सशल्कण्डः।
+
+
 
 सप्तमैञ्जीं
 
@@ -1978,9 +2024,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 धारयेत्।
 
+
+
 आचार्यस्याप्रतिकूलः
 
 सर्वकारी।
+
+
 
 यदेनमुपेयात्
 
@@ -1988,29 +2038,41 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 दद्यात्।
 
+
+
 बहूनां
 
 येन
 
 संयुक्तः।
 
+
+
 नास्य
 
 शय्यामाविशेत्।
+
+
 
 न
 
 रथमारोहेत्।
 
+
+
 न
 
 संविशेत्।
+
+
 
 न
 
 विहारार्थो
 
 जल्पेत्।
+
+
 
 न
 
@@ -2020,6 +2082,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 धारयेत्।
 
+
+
 सर्वाणि
 
 सांस्पर्शकानि
@@ -2028,11 +2092,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 वर्जयेत्।
 
+
+
 न
 
 स्नायाद्दण्डवत्।
 
+
+
 नोदकमभ्युपेयात्।
+
+
 
 न
 
@@ -2040,17 +2110,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 स्वपेत्।
 
+
+
 त्रैविद्यकं
 
 ब्राहृचर्यं
 
 चरेत्।
 
+
+
 इन्द्रियसंयतः।
+
+
 
 सायं
 
 प्रातर्भैक्षाचर्यवृत्तिः।
+
+
 
 सायं
 
@@ -2060,21 +2138,35 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 परिचरेत्।
 
+
+
 अधः
 
 शय्या।
 
+
+
 आचोर्याधीनवृत्तिः।
+
+
 
 तन्निसर्गादशनं।
 
+
+
 अयाचितमलवणं।
 
+
+
 वाग्यतोऽश्नीयात्।
+
+
 
 मधुमांसे
 
 वर्जयेत्।
+
+
 
 आच्छिन्नवस्त्रां
 
@@ -2086,6 +2178,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 पश्येत्।
 
+
+
 यौपस्य
 
 वृक्षस्य
@@ -2093,6 +2187,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 दण्डी
 
 स्यात्।
+
+
 
 नानेन
 
@@ -2102,11 +2198,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 ब्रााहृणाय।
 
+
+
 न
 
 नृत्यगीते
 
 गच्छेत्।
+
+
 
 न
 
@@ -2114,7 +2214,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 कुर्यात्।
 
+
+
 नावलिखेत्।
+
+
 
 शिखाजटः
 
@@ -2124,19 +2228,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 स्यात्।
 
+
+
 शाणं
 
 क्षौममाजिनं
 
 वासः।
 
+
+
 रक्तं
 
 वसनं।
 
+
+
 कम्बलमैणेयं
 
 ब्रााहृणस्य।
+
+
 
 रौरवं
 
@@ -2144,9 +2256,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 ।
 
+
+
 आजं
 
 वैश्यस्य।
+
+
 
 एतेन
 
@@ -2240,6 +2356,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 चोपस्पृशेच्छीर्षण्यानि॥
 
+
+
 ॥इति
 
 वाराहगृह्रे
@@ -2248,7 +2366,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 खण्डः॥
 
+
+
 श्रवणीकर्म।
+
+
 
 वर्षासु
 
@@ -2402,6 +2524,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 च।
 
+
+
 तस्यानध्यायाः
 
 समूहनवातो
@@ -2526,6 +2650,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 तीर्थान्युपायाः॥
 
+
+
 ॥इति
 
 वाराहगृह्रे
@@ -2534,7 +2660,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 खण्डः॥
 
+
+
 चातुर्होत्रिकदीक्षा।
+
+
 
 अथ
 
@@ -2688,6 +2818,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 व्रतमुपेयात्।
 
+
+
 रहस्यमध्येष्यतः
 
 प्रवग्र्यः।
@@ -2720,6 +2852,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 भवति॥
 
+
+
 इति
 
 वाराहगृह्रे
@@ -2728,7 +2862,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 खण्डः॥
 
+
+
 गोदानम्।
+
+
 
 षोडशवर्षस्य
 
@@ -2950,6 +3088,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 वा
 
+
+
 याचितमनायासेन
 
 सिधअयमानायां
@@ -2960,6 +3100,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 स्वाध्यायविरोधिनोऽर्थान्विसृजेत्॥
 
+
+
 ॥इति
 
 वाराहगृह्रे
@@ -2968,7 +3110,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 खण्डः॥
 
+
+
 विवाहः।
+
+
 
 विनीतक्रोधस्सहर्षः
 
@@ -3051,6 +3197,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 देवाः
 
 इति
+
+
 
 वरकान्व्रजतोऽनुमन्त्रयते
 
@@ -3170,6 +3318,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 ह्वयेत्॥
 
+
+
 ॥इति
 
 वाराहगृह्रे
@@ -3178,9 +3328,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 खण्डः॥
 
+
+
 विवाहः--
 
 प्रवदनकर्म।
+
+
 
 अथ
 
@@ -3410,6 +3564,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 कन्यामुदकेनाभिषिञ्चेत्॥
 
+
+
 ॥इति
 
 वाराहगृह्रे
@@ -3421,6 +3577,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 विवाहः-
 
 अघ्र्यदानम्।
+
+
 
 षडघ्र्याहा
 
@@ -3441,6 +3599,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 करणिकानापरिसंवत्सरादर्हयन्ति।
 
 अन्यत्र
+
+
 
 याज्यात्कर्मणो
 
@@ -3818,7 +3978,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 खण्डः॥
 
+
+
+
+
 कन्यादानम्
+
+
 
 पश्चादग्नेश्चत्वार्यासनानि
 
@@ -3962,6 +4128,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 कन्यामभिषिञ्चेत्॥
 
+
+
 ॥
 
 इति
@@ -3973,6 +4141,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 खण्डः॥
 
 पाणिग्रहणम्
+
+
 
 प्रागुदञ्चीं
 
@@ -4261,6 +4431,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 तिथिं
 
 तिथिदेवतां
+
+
 
 विरूपाक्षं
 
@@ -4603,6 +4775,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 श्रिये
 
+
+
 पुत्राय
 
 वेधवै
@@ -4681,13 +4855,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 जपेत्॥
 
+
+
 ॥इति
 
 वाराहगृह्रे
 
 चतुर्दशःखण्डः॥
 
+
+
 योक्रबंन्धनम्।
+
+
 
 ततो
 
@@ -5263,7 +5443,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 वरो
 
+
+
 दक्षिणा॥
+
+
 
 ॥इति
 
@@ -5273,7 +5457,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 खण्डः॥
 
+
+
 सीमन्तः
+
+
 
 सुमङ्गलीरियं
 
@@ -5399,7 +5587,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 प्राश्नीतः॥
 
+
+
 रथारोहणम्।
+
+
 
 पुण्याहे
 
@@ -5819,7 +6011,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 ब्रााहृणवचनाद्वा॥
 
+
+
 गृहप्रवेशः।
+
+
 
 अस्मिन्नहस्सन्धौ
 
@@ -6163,6 +6359,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 संन्निपातयेत्॥
 
+
+
 ॥इति
 
 वाराहगृह्रे
@@ -6171,7 +6369,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 खण्डः॥
 
+
+
 पुंसवनम्।
+
+
 
 अथाऽस्यास्तृतीये
 
@@ -6228,6 +6430,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 बृहस्पतिः।
 
 पुमानग्निश्च
+
+
 
 वायुश्च
 
@@ -6391,6 +6595,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 वा॥
 
+
+
 ॥इति
 
 वाराहगृह्रे
@@ -6399,9 +6605,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 खण्डः॥
 
+
+
 वै·
 
 ादेवकर्म।
+
+
 
 अथ
 
@@ -6609,6 +6819,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 गृहानुपतिष्ठेत्॥
 
+
+
 ॥इति
 
 वाराहगृह्रे
@@ -6619,9 +6831,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 खण्डः॥
 
+
+
 परिशिष्टम्
 
 ।
+
+
 
 अतः
 
@@ -6677,13 +6893,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 प्रातरुपस्थान-
 
+
+
 भूतोत्पत्तिरिति
 
 द्वाविंशतिः
 
 परिशिष्टसंख्यानाम्॥
 
+
+
 पाकयज्ञाः।
+
+
 
 गृह्राग्नौ
 
@@ -6941,6 +7163,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 होमानां
 
+
+
 ब्रााहृणमामन्त्र्य
 
 समिधमादायाधारावाधार्याज्यभगौ
@@ -7167,6 +7391,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 विद्याद्गामित्येके॥
 
+
+
 ॥इति
 
 वाराहगृह्रे
@@ -7177,10 +7403,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0MzUwMjAwNjE
 
 संपूर्णः॥
 
+
+
 ॥इति
 
 वाराहगृह्रमेकविंशतिखण्डैः
 
 समाप्तम्॥
+
+
+
+
+
 
 \]

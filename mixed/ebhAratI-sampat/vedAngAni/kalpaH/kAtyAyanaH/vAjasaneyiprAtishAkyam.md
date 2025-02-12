@@ -61,9 +61,9 @@ University of Madras.
 **वाजसनेयिप्रातिशाख्यम्**
 
 **उव्वटभाष्य–अनन्तभट्टभाष्याभ्यां सहितम्**  
-![](../books_images/U-IMG-170317642712s.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-170317642712s.jpg"/>  
 **प्रथमोऽध्यायः**  
-![](../books_images/U-IMG-170317642712s.jpg)
+<MISSING_FIG href="../books_images/U-IMG-170317642712s.jpg"/>
 
 ** स्वरसंस्कारयोश्छन्दसि नियमः॥१॥**
 

@@ -25,7 +25,7 @@ TRIVANDRUM: PRINTED BY THE SUPERINTENDENT, GOVERNMENT PRESS, 1930.
 
 [TABLE]
 
-![](../books_images/1682081210.png)
+<MISSING_FIG href="../books_images/1682081210.png"/>
 
 **"कृष्णाजपित्तंच मयूरपित्त-  
 मशोकमूलं गतमुत्तराशाम्। **
@@ -1612,7 +1612,7 @@ The edition of the work is based on the following three manuscripts.
 
 चक्रराजं समाश्रित्य जपेदष्टसहस्रकम्॥ १००॥
 
-अष्टादशाक्षरींविद्यामञ्जयेल्लोचनद्व[^165](योः ? ये )।
+अष्टादशाक्षरींविद्यामञ्जयेल्लोचनद्व[^165] (योः ? ये )।
 
 [^165]: "१. 'द्यां दन्तोरोलो', "
 
@@ -2236,4 +2236,3 @@ The edition of the work is based on the following three manuscripts.
 ———————
 
 \]
-

@@ -10,7 +10,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5NTkyMjIxNDQ
 +++
 [[गोभिलीयगृह्यसूत्रम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5NTkyMjIxNDQ0MzAz&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 ***Maharishi Mahesh Yogi***  
 
@@ -19,13 +19,23 @@ open the eyes and
 read the Vedic Literature  
 in Sanskrit.”
 
-[**Menu of 40 Branches**](\%20%3E%3Cstrong%3E%3Cem%3EMaharishi%20University%20of%20Management%3C/em%3E%3C/strong%3E%3C/a%3E%3Cbr%20/%3E%3Cstrong%3EVedic%20Literature%20Collection%3C/strong%3E%3C/p%3E%3Cp%3E%3Ca%20href=)[**Reading Vedic Literature**](\%20%3E%3Cstrong%3E%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0Menu%20of%20Charaka%20Saṁhitā%3C/strong%3E%3C/a%3E%3Ca%20href=)[**Consciousness-Based Education**](\%20%3E%3Cstrong%3E%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0The%20Vedic%20Alphabet%3C/strong%3E%3Cstrong%3E%C2%A0%3C/strong%3E%3C/a%3E%3Cbr%20/%3E%3Ca%20href=)
+[**Menu of 40 Branches**[^1]**Reading Vedic Literature**[^2]**Consciousness-Based Education**[^3]
+
+[^1]: \%20%3E%3Cstrong%3E%3Cem%3EMaharishi%20University%20of%20Management%3C/em%3E%3C/strong%3E%3C/a%3E%3Cbr%20/%3E%3Cstrong%3EVedic%20Literature%20Collection%3C/strong%3E%3C/p%3E%3Cp%3E%3Ca%20href=
+
+[^2]: \%20%3E%3Cstrong%3E%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0Menu%20of%20Charaka%20Saṁhitā%3C/strong%3E%3C/a%3E%3Ca%20href=
+
+[^3]: \%20%3E%3Cstrong%3E%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0The%20Vedic%20Alphabet%3C/strong%3E%3Cstrong%3E%C2%A0%3C/strong%3E%3C/a%3E%3Cbr%20/%3E%3Ca%20href=
 
 **कल्प**  
 **Kalpa**  
 **गोभिलीयगृह्यसूत्रम्**  
 **Gobhila Grihya Sūtra**  
-[**2**](\%20%3E%3Cstrong%3EChapter%201%3C/strong%3E%3C/a%3E%3Ca%20href=)[**4**](\%20%3E%3Cstrong%3E%C2%A0%C2%A0%C2%A03%3C/strong%3E%3C/a%3E%3Ca%20href=)
+**2**[^4]**4**[^5]
+
+[^4]: \%20%3E%3Cstrong%3EChapter%201%3C/strong%3E%3C/a%3E%3Ca%20href=
+
+[^5]: \%20%3E%3Cstrong%3E%C2%A0%C2%A0%C2%A03%3C/strong%3E%3C/a%3E%3Ca%20href=
 
 पुण्ये नक्षत्रे दारान्कुर्वीत १ लक्षणप्रशस्तान्कुशलेन २ तदलाभे पिण्डान् ३ वेद्याः सीताया हृदाद्गोष्ठाच्चतुष्पथादादेवनादादहनादिरिणात् ४ सर्वेभ्यः सम्भार्यं नवमम् ५ समान्कृतलक्षणान् ६ पाणावाधाय कुमार्या उपनामयेदृतमेव प्रथममृतं नात्येति कश्चन र्त इयं पृथिवी श्रिता सर्वमिदमसौ भूयादिति तस्या नाम गृहीत्वैषामेकं गृहाणेति ब्रूयात् ७ पूर्वेषां चतुर्णां गृह्णन्तीमुपयच्छेत् ८ सम्भार्यमपि त्वेके ९ क्लीतकैर्यवैर्माषैर्वाप्लुतां सुहृत्सुरोत्तमेन सशरीरां त्रिर्मूर्धन्यभिषिञ्चेत्काम वेद ते नाम मदो नामासीति समानयामुमिति पतिनाम गृह्णीयात्स्वाहाकारान्ताभिरुपस्थमुत्तराभ्यां प्लावयेत् १० ज्ञातिकर्मैतत् ११ पाणिग्रहणे पुरस्ताच्छालाया उपलिप्तेऽग्निरुपसमाहितो भवति १२ अथ जन्यानामेको ध्रुवाणामपां कलशं पूरयित्वा सहोदकुम्भः प्रावृतो वाग्यतोऽग्रेणाग्निं परिक्रम्य दक्षिणत उदङ्मुखोऽवतिष्ठते १३ प्राजनेनान्यः १४ शमीपलाशमिश्राँ श्च लाजाँ श्चतुरञ्जलिमात्राञ् छूर्पेणोऽपसादयन्ति पश्चादग्नेः १५ दृषत्पुत्रं च १६ अथ यस्याः पाणिं ग्रहीष्यन्भवति सशिरस्का साप्लुता भवति १७ अहतेन वसनेन पतिः परिदध्याद्या अकृन्तन्नित्येतयर्चा परिधत्त धत्त वाससेति च १८ प्रावृतां यज्ञोपवीतिनीमभ्युदानयन्जपेत्सोमोऽददद्गन्धर्वायेति १९ पश्चादग्नेः संवेष्टितं कटमेवंजातीयं वान्यत्पदा प्रवर्तयन्तीं वाचयेत्प्र मे पतियानः पन्थाः कल्पतामिति २० स्वयं जपेदजपन्त्यां प्रास्या इति २१ बर्हिषोऽन्तं कटान्तं प्रापयेत् २२ पूर्वे कटान्ते दक्षिणतः पाणिग्राहस्योपविशति २३ दक्षिणेन पाणिना दक्षिणमँ समन्वारब्धायाः षडाज्याहुतीर्जुहोत्यग्निरेतु प्रथम इत्येतत्प्रभृतिभिः २४ महाव्याहृतिभिश्च पृथक् २५ सम स्ताभिश्चतुर्थीम् २६ १  
 

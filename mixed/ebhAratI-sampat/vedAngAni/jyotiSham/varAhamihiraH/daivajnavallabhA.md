@@ -277,9 +277,9 @@ As regards the number of questions to be asked at one particular time the genera
 
 The astrologer should understand the good and bad results by considering carefully the syllables of the query as also the omens obtaining around and then proclaim the prediction for that time.[^2]
 
-फल भरकुसुमाभिरामभूमीरुहभुवि गोमयपुष्पतोयवत्याम् ।  
-
 [^2]: "Prasna Jnana, Sls. 3-4"
+
+फल भरकुसुमाभिरामभूमीरुहभुवि गोमयपुष्पतोयवत्याम् ।  
 
 चरणासुखकृति पृच्छतां स्यादभिमतसिद्धिरसंशयेन पुंसाम् ॥ १२ ॥
 
@@ -390,8 +390,8 @@ lord of kendra does not make him a functional malefic because he occupies the ho
 
 are vargottam. Mercury the 11th lord is exalted. Jupiter is exalted in the 9th house. Venus the 7th lord as well as the kalatra karaka is also not very badly placed. Despite allthis the marriage was not given. It is true that there are reasons in the charts which explain 'why' of the matter. The point is that the dignities or other avastha's do verylittle in giving the results.
 
-![](../../../books_images/1684237610.jpg)   
-![](../../../books_images/1684237692.jpg)
+<MISSING_FIG href="../../../books_images/1684237610.jpg"/>   
+<MISSING_FIG href="../../../books_images/1684237692.jpg"/>
 
 पर्यायसंज्ञा चैतेषां कथ्यते मुनिसंमता ।  
 
@@ -1224,11 +1224,11 @@ If Saturn placed in quadrant, aspects Sun posited in another quadrant, the resul
 
 *NOTES:* Full aspect of Saturn from quadrant on the Sun placed in the eighth house is not possible. So Bhattotpala has suggested consideration of fractional aspect i.e. 1/4 aspect, 1/2 aspect and 3/4th aspect here.
 
-![](../../../books_images/1684237137.jpg)
+<MISSING_FIG href="../../../books_images/1684237137.jpg"/>
 
 In these places, Saturn's 3/4 aspects over the Sun is possible.
 
-![](../../../books_images/1684237263.jpg)
+<MISSING_FIG href="../../../books_images/1684237263.jpg"/>
 
 There is 1/2 aspect of Saturn over the Sun.
 
@@ -2656,4 +2656,3 @@ Here ends chapter XV of Daivajnavallabha entitled
 Plese attach the picture here
 
 \]
-
