@@ -13,28 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MDY2MjQ1NzU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 ** श्रीः**
-
 
 **  ईश्वरदत्तप्रणीतः**
 
-
 **  धूर्तविटसंवादः**
-
-
-
 
   (नान्द्यन्ते ततः प्रविशति सूत्रधारः)  
 % सू - विद्यया ख्यापिता ख्यातिः सज्जनाराधनं धनम्।  
@@ -403,14 +386,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MDY2MjQ1NzU
  इति श्री ईश्वरदत्तस्य कृतिः धूर्तविटसंवादो नाम  
   भाणः समाप्तः।  
 \*\*\*
-
-
-
-
-
-
-
-
-
 
 \]

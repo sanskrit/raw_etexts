@@ -19,23 +19,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkyNjU5MDQ1OTY
 
 \[
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **PREFACE.**
 
 ![](../books_images/U-IMG-1729583069विद्याश्रीएम्.png)
 
  The idea of preparing an edition of Udbhaṭa's Kāvyālaṁkāra-sāra-saṁgraha was conceived as far back as theyear 1898 under peculiar circumstances. The editor was, at the time, in charge of the Government MSS. Library atthe Deccan College, and as such he had to examine and readthe MSS. carefully. The collections of 1872-73, 1873-74and 1874-75, acquired for the Government by Dr. Bühler, consisted of very rare and valuable works on Alaṁkāra, Kashmirian History and General Literature. A good MS. ofUdbhata's work with the commentary of Indurāja amongthem attracted the notice of the editor as being a fit subjectfor careful study. The celebrity of the author Udbhața,whose name was familiar to the readers of Kāvyaprakāśaof Mammata, who along withĀnandavardhana, Ruyyaka and Jagannātha mentions him with great respect, togetherwith the acuteness and learning of the commentatorIndurāja, added to the solicitude of the editor for taking upthe work immediately. Accordingly he started preparing the text with a view to edit it in the Bombay SanskritSeries; and the necessary permission of the EducationalDepartment was obtained in the year 1900 for the inclusionof the work in the Series. The work of the edition was beingcarried on along with his official and other duties. In course of time the press copy of the text was prepared, but beforeany arrangement for printing could be made the editorwas, in 1907, suddenly transferred from his post at theDeccan College. Owing to the transfer from Poona to other inconvenient places and owing to various othercauses the work of this edition was laid aside indefinitely,till at the suggestion of the authorities at the BhandarkarOriental Research Institute (to whose care, in the mean while, the management and publication of the B. S. Series
-
-
 
 was transferred) it was taken up again. During the closing months of 1919 and the beginning of 1920 the work of finally preparing the edition for the press was pushed through and the complete press copy was delivered to the B.O.R. Institute in August 1920. The press copy lay with the Bhandarkar Institute for two more years awaiting the printer. One was at last found and the printing began in about October 1922 which, however, took three more years. Such is the very long history of the present edition.
 
@@ -65,8 +57,6 @@ was transferred) it was taken up again. During the closing months of 1919 and th
 
  Foll. 34. Lines 20 in a page. Devanāgarì: good.
 
-
-
  Transcribed in 1919-20 from a MS. of M. R. Ry. Narayana Nambudripad, Kudalur Mana, Narcri, Malabar Dt. Folios 1 a to 336. Folio 34 is left blank. Contains Vargas 1 to 6 complete."
 
  A specially prepared copy of this MS. was obtained for this Edition, for which the thanks of the Editor are due to the Curator, Prof. S. Kuppuswamy Sastri, avl., M. A. The transcript was received when the printing of the text was fairly advanced. Hence the variant readings had to be given in the form of an Appendix at the end, as the results of collation could not be availed of in printing the text. As the commentary was a new one it was thought advisable to give copious extracts from it in the notes. This has gone to swell the bulk of the Notes to a great extent.
@@ -77,15 +67,11 @@ was transferred) it was taken up again. During the closing months of 1919 and th
 
 **THE EDITOR.**
 
-
-
 _( \*)\*_(\*)It was thought unnecessary to append a listof abbreviations of works, references to which occur in theIntroduction and the Notes. As a rule abbreviations arenot used and where they are used they are such as would be easily intelligible, e.g. पा. for पाणिनि, सू. for सूत्र, का.प्र. for काव्यप्रकाशetc. The manner of reference is also easy to understand. References to Kāvyaprakāśa are usually to theUllāsas, and, where pages are mentioned, they are from the Edition of Vāmanāchārya Zalakikar, third Edition byN.D.Banhatti, (1917). References to the pages of ध्वन्यालोक,अलंकारसर्वस्व, रसगङ्गाधर, etc. are to the editions of these workspublished by the Nirnaya Sagara Press, Bombay, throughthe Kāvyamālā Series. References to metrical works willpresent very little difficulty as passages in them can bereferred to by numbers of stanzas and chapters. Referencesto Bhāmaha's काव्यालंङ्कारare to the text as published byRao Bahadur K. P. Trivedi in his edition of प्रतापरुद्रयशोभूषण, Bombay Sanskrit Series, No. 65. References to अष्टाध्यायीand महाभाष्य are to अध्याय, पाद and सूत्र or आह्निक.
 
      MIRAJ,  
   August, 20, 1925.                        
        N. D. BANHATTI.
-
-
 
 landmark in the development of the science of poetics. Judging from the tributes paid to him and from the references made to him and to his opinions by alaṅkāra-writerswe can say without the least fear of exaggeration that his influence on alankära literature was second to none tillthe time of Mammaṭa's Kāvyaprakāśa. It is true thatowing to the great advance effected during the threecenturies that intervened between them and owing to the absorbing genius of Mammața, Udbhaṭa's works werethrown rather into the background after Mammaṭa's time. Yet as facts are being brought to light gradually the realstate of things has begun to force itself upon us and we are becoming aware of the fame and popularity that ourauthor once enjoyed. Commensurate with his fame andpopularity the number of his commentators must havebeen large, and from the facts that are now available wecan assert that his work was commented upon by more than three exegetes at least.
 
@@ -93,37 +79,21 @@ landmark in the development of the science of poetics. Judging from the tributes
 
  Of this उद्भटविवेकno MS. has as yet been discovered. But another MS. containing a commentary named उद्भटालंकारविवृत्तिःhas been discovered at Kudalur Mana, in Malabarin A.D. 1919–20. A copy of it has been deposited in the Gov-
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 [TABLE]
 
 *           *
-
-
 
 **INTRODUCTION.**
 
@@ -139,9 +109,9 @@ I THE AUTHOR.
 
 [^1]: " Compare G. Bühler's Report of a tour in Kashmir-J. B. B. R. A. S. Extra No. of 1877,PP. 64-65."
 
-**(ii) His date**.
-
 [^2]: "cf.rājatarangiṇī,IV,495, quoted below."
+
+**(ii) His date**.
 
  In the first place we can ascertain with precision thatUdbhața came after Bhāmaha and preceded Ånandavardhana. Udbhața had written a
 commentary^(3[^3])on Bhāmahaand besides, the present work of his contains many distinctadaptations and verbal borrowings from Bhāmaha's
@@ -150,8 +120,6 @@ Kāvyālaṅkāra.⁴[^4]Ânandavardhana pointedly mentionsUdbhața in more than
 [^3]: "Udbhata's भामहविवरण."
 
 [^4]: "Instances in point may be seen here and there throughout the commentary."
-
-
 
 by him as a venerable elderly author within memory ofthe people of those times.^(*1*)The times of Udbhața andĀnandavardhana given by Rājatarangiṇīare perfectlyconsistent with this our conclusion. Udbhața belonged tothe reign of Jayāpīḍa (779–813 A.D.), and Ānandavardhanaflourished in the reign of Avantivarman (857–884 A.D.)^(*2*)Thus there exists a difference of about 40 or 50 years between the careers of both these Ālankārikas and the dateof the end of Udbhața and the birth of Ānandavardhanawould still be much nearer each other. Thus it is quitepossible, Udbhaṭa might have lived within memory of thepeople of Ānandavardhana's times.
 
@@ -178,8 +146,6 @@ nandavardhana in bis Rājatarangini thus:—
 
  3. The credit of the find is due to G. Bühler who undertook hisfamous tour in Kashmir in 1875, and brought to light many valuableworks on poetry, rhetorics and history of Kashmir. For further information see his Report on the tour to Kashmir, J. B. B. R. A. S. Extra No. of 1877.
 
-
-
 importance given to his name and the school of thought installed by him, by such writers as **मम्मट, जगन्नाथ**and others. No mention of his parentage, his teachers, his friends or even his own name exists in this work, and without the commentary of Indurāja we could not have learnt that the work belonged to the famous Ālaṅkārika Udbhaṭa. The only reliable information about the life and activities of Udbhața is what is given to us by Kalhaṇa in his Rājataraṅgiṇī
 
 . Kalhaṇa thus mentions Udbhaṭa :—
@@ -200,8 +166,6 @@ From this we learn that Bhaṭṭa Udbhata was the Sabhāpati or the Head of the
 *                                   
                             *  
 
- 
-
 1\. The text of Bhāmaha has now been discovered, and we find it printed as an appendix to Prat
 
 ā
@@ -209,8 +173,6 @@ From this we learn that Bhaṭṭa Udbhata was the Sabhāpati or the Head of the
 parudrayaśobhū
 
 shana, a modern work on poetics, edited with copious notes and introduction by Rao Bahadur K. P. Trivedi, B. A., in the Bomhay Sanskrit series, No. LXV.
-
-
 
 of Pratīhāra Indurāja, in Jesalmir. Of this Bhaṭṭodbhața Kalhaṇa says that he was Jayāpīḍa's Sabhāpati, or ChiefPaṇḍit, and that he was paid daily a lakh of Dīnāras. It is to be regretted that the recipient of such munificentpay did not write a more extensive book, and did not giveus extracts from contemporaneous poets. He has onlycomposed a short treatise on Alankāras or ornaments to beused in poetry, and most egotistically takes his examplesfrom his own work, a Kumārasambhava". It was not thefault of Udbhața if his works did not survive till the ageof our modern researcher; still less was it his fault if theresearcher had remained blind to Indurāja'sstatement thatUdbhata had written 'a gloss on Bhāmaha' or even if afterreading the statement, had refused to admit the 'Gloss on Bhāmaha' as a 'book'. Udbhaṭa Bhaṭṭa certainly does notdeserve such a mention in a ridiculous tone if he did notdream in his time that his insertion of examples fromcontemporaneous poets would prove of great value to theresearchers that were destined, eleven hundred years later, to wield the fate of writers like him in their hands. Itwas the practice of very many writers on poetics to givetheir own verses as illustrations. Daṇḍin, Bhāmaha, Rudrața, Jagannātha and many others have done the same more or less. Nay, the great Ālaṅkārika Poets seemedeven to think it a matter of pride to have been able togive examples of their own composition in illustration of the several items of poetics.¹
 
@@ -233,8 +195,6 @@ tha's Rasagangādhara —p. 2.
 किं सेव्यते सुमनसां मनसापि गन्धः  
 कस्तूरिकाजननशक्तिमता मृगेण॥
 
-
-
 For this information we are indebted to Indurāja whosays in one place of his commentary, विशेषोक्तिलक्षणे च भामहविवरणे¹ भट्टोद्भटेन एकदेशशब्द एवं व्याख्यातो यथेहास्माभिर्निरूपितः[^5]and at anotherplace, अनेन ग्रन्थकृता स्वोपरचितकुमारसंभवैकदेशोत्र उदाहरणत्वेनोपन्यस्तः[^6]।
 
 [^5]: "See page 14, 1. 21 of the text."
@@ -255,13 +215,7 @@ For this information we are indebted to Indurāja whosays in one place of his co
 
 [^8]: "Alankarasarvasva, p. 3"
 
-
-
-
-
 1\. It is not necessary to conclude that the name of the commentaryitself was भामहविवरण. भामहविवरण more probably means only a gloss onBhāmaha's work**.**
-
-
 
 प्रायशः साम्यमेव सूचितम्[^8]point to the fact that Udbhaṭa wasa standard author on Alaṅkāra and had written somealaṅkāra works besides the present one. For the subjectsreferred to in the above passages are foriegn to this treatise.
 
@@ -282,8 +236,6 @@ For this information we are indebted to Indurāja whosays in one place of his co
 
  7. Idem, p. 33. See appendix II for the verses given in the order in which they exist in the text.
 
-
-
 more than once. And one really cannot but regret thefate of such a beautiful poem condemned to rest in oblivionfor no defect of its own.
 
  The substance of the story contained in these 94 versesis as follows:—After \[burning cupid\] the God Śiva passedhis time leisurely in a valley of the Himālayas (Stanzas 1-2). But when the autumnal season (**शरद्**) appeared his mind again became perturbed by passion and he began tothink about Pārvatī(St. 3-31). Being thus agitated he cameto Parvati in the guise of a celibate (**बटु**) (St. 32-35). Hesaw Parvati performing hard penance, and yet shiningbeautiful in that condition (St. 37-44). While he was thusobserving and musing on the beauty and lustre of Parvatihe got intensely excited and was on the verge of committing a rash act (St. 45-58). But he appeased himself intime and addressed Parvati thus:— “You are the daughterof the glorious Himalaya and yourself are beautifulbeyond comparison (St. 59-68); such hard penance isnot proper for you and if you are performing it with the desire of getting a wooer, it is quite needless (St. 69-79); for, on account of your beauty every youth is bound downto your feet as a slave, रूपेण ते युवा सर्वः पादबद्धो हि किंकरः. EvenGod Vishṇu will abandon Lakshmi and come down foryour hand (St. 80-91). Therefore abandon this ascetic lifeand have a home for yourself with any fortunate youth asyour mate, किं चात्र बहुनोफेन व्रज भर्तारमाप्नुहि। उदन्वन्तमनासाद्य महानद्यः किमासते॥”
@@ -292,8 +244,6 @@ III\. THE KĀVYĀLAṄ**KĀRA-SĀRA-SAṄGRAHA.**
 
 ** **This work is a treatise on the figures of poetry belonging to word and sense. In all 41 alaṅkāras are accorded treatment and these 41 are divided into 6 groups. Neither the groups nor the whole order of enumerationseem to follow any scientific principle. The order ofthe alaṅkāras and their grouping generally followBhāmaha. The definitions are also many a time borrowed, sometimes completely and sometimes with a slightchange, from Bhāmaha. The definitions of विभावना, the
 
-
-
 first variety of अतिशयोक्ति, यथासंख्य, सहोक्ति, ससन्देह and अनन्वय are bodily taken from Bhāmaha. The definitions of आक्षेप, उत्प्रेक्षा,अपह्नुति,विरोध and अप्रस्तुतप्रशंसा are accepted with some change. Half portions of the definitions of पर्यायोक्त and रसवत् arealso taken from Bhāmaha. But even so muchborrowingcannot overshadow the original nature of Udbhata's work.His originality and acuteness are seen even in the slightalterations he makes in Bhāmaha's originals.¹ In thedefinitions which he has not taken from Bhāmaha hisgenius is fully brought out, for even Mammaṭa has manytimes thought it fit toaccept the ideas and structurescreated by Udbhaṭa. Udbhaṭa only accepts Bhāmaha'sversion where he agrees with him, and no one will findfault with him if he has done so instead of casting thesame definition in words different from those of Bhāmaha.If his own views are the same as those of Bhāmaha on aparticular alaňkāra, a straight-forward borrowing fromsuch a great author as Bhāmaha was perhaps better thancomposing the definition in his own words which wasbound to be similar in meaning with that of the original. When the definition of Bhamaha does not fit in with hismore advanced views he casts it aside and brings out hisown definition which would even match with that ofMammața in accuracy.
 
  The high ability and the independence of thought ofUdbhaṭa in theprovince of Alaṅkāra is displayed in onemore way. He is not at all a slavish follower of Bhāmahaor any other old ālaṅkārika. He has rejected some alaṅkāras that are treated by Bhāmaha, as he did not think itfit to treat them as separate alaṅkāras. Thus he does notat all mention the alaṅkāras यमक,असंभव (उपमाभेद),उपमारूपकand उत्प्रेक्षावयवwhich are defined and illustrated inBhāmaha's Kävyālaṅkāra. On the other hand he adds somealaṅkāras of his own to the established list of alaṅkārasand they are invariably accepted after him by all writers on  
@@ -301,13 +251,9 @@ first variety of अतिशयोक्ति, यथासंख्य, स�
                                    
          ***  
 
-
-
 1.For example, see the definition of अप्रस्तुतप्रंशसा.By putting thesingle wordhe has excellently brought out the chief characteristic of the alankara which was absent in Bhamaha's definition
 
 .
-
-
 
 rhetorics. According to our knowledge Udbhaṭa is thefirst writer to include पुनरुक्तवदाभास,काव्यहेतु and काव्यदृष्टान्त inthe generally accepted list of alaṅkāras. Not only in thework of Bhāmaha but in those of Daṇḍin, Vāmana andother old writers no trace is found of these figures. Theproper examples ofदृष्टान्त and काव्यलिङ्गwere inserted undersome other alaṅkāras and the creation of such alankaras asकाव्यलिङ्ग and दृष्टान्त, especially of दृष्टान्त, did not occur to any one. We are thus led to the conclusion that Udbhatafirst brought these alaṅkäras into existence. They were of course accepted and placed among important alaṅkārasby later writers.
 
@@ -320,13 +266,9 @@ IV\. UDBHATA'S POSITION IN ALAṄ
                                    
         *  
 
- 
-
 1\. The only terminus ad quem to Rudrata's date was supposed tobe the middle of the eleventh century as his commentator Namisādhuhad written his comment in A.D.1069 But we can now say with certainty that he appeared before Induraja whose time we have settled tobe about A.D.970 We can also have a probable estimation of theterminus a quo of his date. Indurāja now and then quotes him without name And it is the habit of Indurāja to quote the recent authorsof his time without name. Also Dhvanyā
 
 lokadoes not contain a single
-
-
 
 the author of Abhidhāvṛittimātṛikā. After Indurāja cameAbhinavagupta, the author of the gloss Lochana onDhvanyāloka, for he mentions his own date in some of hisworks, which is the end of the 10th century A.D. After thiscame Mahimabhaṭṭa, Kshemendra, Ruyyaka and finallyMammata. This list is, we believe, fairly complete as faras the important Kashmirian writers on Alankāra areconcerned; and if we add a few names such as Dandin, Vāmana, Bhojarāja, Hemachandra and Vāgbhața (author of Vāgbhaṭālankāra) we shall have completed a roughsurvey of all authors on poetics upto the time of Mammaṭa.
 
@@ -340,8 +282,6 @@ afterĀnandavardhana and a little before Indurāja. Now the time of
 Ānandavardhana is about A. D. 885-910. Therefore, unless any con tradictory evidence comes forth, we can place Rudrața in the interval
 between the two limits viz. A. D. 900 and 970.
 
-
-
 1. Keśavamiśra of Alaṅkāraśekhara, Vāgbhața of Kāvyānuśāsanaand some others have not been included in the above enumeration asthey probably come after Mamma
 
 ṭ
@@ -351,8 +291,6 @@ a\. They are probably non-Kāshmīrians. Even if they be Kāshmirians they would
 ṭ
 
 a and others who areaccepted Kāshmirians. We are not so much concerned with his actual place of living as we are with the trend of views that he displays in hiswork.
-
-
 
 of Bhāmaha, Udbhaṭa and Ruyyaka on the other, there willbe found many important and inherent diversities in thesetwo groups. Daṇḍin and his followers give supremeprominence to Guṇas which are ten according to them¹, or even more according to Bhoja. Doshas or faults in theiropinion are the opposites of Gunas. And Rīti or style isalso admitted by them as an essential factor of poetry². They admit the alankāras Hetu, Sūkshma and Leśa. All these peculiarities exist in the works of these authorsirrespective of time; and all these are scrupulously avoided by all Kashmirians, even by the old author Bhāmaha. Bhāmaha especially decries the distinctions between Vaidarbhīand GauḍīRīti's, has only three Guṇas veryscantily treated and does not admit Hetu, Sūkshma and Le
 
@@ -370,8 +308,6 @@ a into his list of alaṅkāras³. All other Kāshmirian ālankā–
 
 .
 
-
-
 Vāmana has:—पूर्वे (गुणाः) नित्याः। ३।१।३. Compare his well-knownstanza: युवतेरिवरूपमङ्ग काव्यं स्वदते शुद्धगुणं तदप्यतीव। etc. Vide also the wholeof the 1st परिच्छेद of भोज's सरस्वतीकण्ठाभरण which is devoted to Gunas andtheir विपर्ययऽ and other दोषऽ. See also the 3rd परिच्छेद of वाग्भट´s काव्यालंकारwhich treats of чs in the same manner as Daṇḍin.
 
  2. Vāmana's सूत्र viz. रीतिरात्मा काव्यस्य।(१।२।६) is well-known. Daṇḍin writes―
@@ -388,8 +324,6 @@ Vāmana has:—पूर्वे (गुणाः) नित्याः। ३
 
  Bhāmaha devotes only three verses to the three Guṇas माधुर्य, ओजस् and प्रसाद; while Danḍin takes about 60 verses to describe them. Aboutसूक्ष्म and लेश Bhāmaha says:— हेतुश्चसूक्ष्मो लेशोथ नालंकारतया मतः!—काव्यालंकार २.८६.
 
-
-
 rikas follow the same path and even Ruyyaka of Alaṅkarāsarvasva who has treated more than 80 alaṅkāras has notthought fit to accept Hetu¹and Leśa. This, we think, sufficiently establishes the diversity between the twoschools, one of Kāśmīrakas and the otherof Vaidarbhas(if we may so call it) of Daṇḍin, Bhoja and others.² Theepithets new and old would be quite inappropriate forthese schools, as developments of both the systems weregoing on on their own lines up to the time of Mammața.
 
  It is needless to dilate upon the development andhistory of the Kashmirian and the Vaidarbha schools inAlaṅkāra Literature, as it is not germane to our subjectunder discussion. Even without reference to the Kashmirian or non-Kashmirian nature of his views one can clearlysee from the contents of his work that Udbhaṭa was thelineal descendant of the thought-system of Bhāmaha onthe one hand and the precursor of Mammaṭa in many important points of principle and method on the other. In thisway it can be shown-and we hope we have sufficientlyshown it in our Notes-that he holds a very importantposition in the line of authors which began with Bhāmahaand terminated with Mammaṭa. As all these authors in the thoughtsystem promulgated by Bhāmaha kashmirianswe may very well call the school of thought whichthey formed the Kashmirian School ofĀlaṅkārikas. Thus from the inherent nature of his work and not from anycircumstantial evidence it can be ascertained that Udbhataoccupies an important place in the Kashmirian School.
@@ -403,8 +337,6 @@ rikas follow the same path and even Ruyyaka of Alaṅkarāsarvasva who has treat
 
  2. The inherent diversity between these two schools is pointed out in our Notes in many places.
 
-
-
 non-Kashmirians. The whole matter is worth a detailedtreatment but there is no occasion for it here.¹
 
  The whole Kashmirian school of Ālaṅkārikas initself seems to have undergone a great change and development. If we compare the work of Bhāmaha with that ofMammaṭa we find that both have essentially different kindsof treatment of the science of poetics. Both the style andmethod have changed and the views have undergone a greatrevolution. The new school of thought which arose andspread only in Kashmir was started or promulgated by theauthor of Dhvanikārikās who must have lived some time before Anandavardhana. The special characteristic of thisnew school was the Dhvani theory. The prominence ofDhvani established with much force by Dhvanikāra andĀnandavardhana was afterwards disputed or even altogetherthrown over by some writers.² Along with this discussionand the consequent development of ideas, a reform was  
@@ -412,13 +344,9 @@ non-Kashmirians. The whole matter is worth a detailedtreatment but there is no o
                                    
         *  
 
-
-
 1. If all that is said above is accepted, it would also removethe reasons by which some are put into puzzle about the mutual chronological relations of Daṇḍin and Bhāmaha. In many places, Daṇḍin in hisKāvyādarśa seems to criticise the views of Bhamaha, while Bhāmahaalso decries in his work some opinions which are exactly the opinionsheld by Daṇḍin. If we accept the view that both were criticizing thetenets of the schools represented by each other and not of individualsall puzzle will be solved.
 
  2. Indurāja (and perhaps Udbhaṭa) was probably one who disputedthe supremacy of Dhvani. He holds that Dhvani is the beautifier ofVāchya Artha and is therefore to be included in alaṅkāras. Dhvani, therefore, according to Indurāja need not be recognised as the allimportant element in poetry. We are not certain that Udbhata knewthe theory, for we cannot settle whether Dhvanikāra preceded orfollowed Udbhaṭa. Considered independently, his work contains noindication that he was aware of at all. Indurājaof course interpretshis silence on ध्वनि in a different way. He says that: Udbhața did nottreat ofध्वनि because he thought it altogether included in the alankāras that he had treated of. But evidently this is an attempt of fathering his own views about ध्वनिupon Udbhaṭa.
-
-
 
 going on in the notions about alaṅkāras also¹. Thesomewhat loose descriptions of Bhāmaha were replaced byaccurate and scientific definitions and newer alaṅkāraswere brought into existence as more minute discernmentprevailed. Till up to the time of Mammaṭa the alaṅkāras came up to about seventy and even more; and the tendencyof Mammaṭa is seen to diminish the number of alaṅkārasalready growing too unwieldy.
 
@@ -428,8 +356,6 @@ going on in the notions about alaṅkāras also¹. Thesomewhat loose description
 *                                   
                              *  
 
-
-
 1. This development of alaṅkāras was quite independent of thedevelopment going on in the theory ofध्वनि.Alaṅkāras are only adepartment of the science of poetics, but the question of 'ध्वनि,or 'no ध्वनि'was the essence of that science.
 
  2. For a detailed comparison of Udbhaṭa with Bhāmaha on the onehand and Mamma
@@ -437,8 +363,6 @@ going on in the notions about alaṅkāras also¹. Thesomewhat loose description
 ṭ
 
 a on the other see our Notes at the end of each Alaṅkāras.
-
-
 
 has reached us. But he was no doubt a very importantwriter in the whole Kashmirian system of ālaṅkārikas. All authors including Ānandavardhana, Abhinavagupta, Ruyyaka and Mammața refer to him with great respect.He must have originated a school of thought that had somevery peculiar tenets of its own. This is clear from thefrequent references occurring in very many works, asउद्भटादयः, औद्भटाः, उद्भटमतानुयायिनः उद्भटप्रभृतयः ete¹.As many of thepeculiarities as could be gathered from the references made to them are given here:—
 
@@ -456,8 +380,6 @@ has reached us. But he was no doubt a very importantwriter in the whole Kashmiri
  1. Such references occur in रसगङ्गाधर P. ४९१, ४७८; ध्वन्यालोक p.१०८; अलंकारसर्वस्व p.३,७; रत्नापण (a commentary on प्रतापरुद्रयशोभूषण) p. ३३५, ४२७; and many others might be existing as we have not ransacked all commentaries andminor works for that purpose. Individual references to Udbhaṭa existalmost in every work on alaṅkāra that came after him.
 
  2. Mammaṭa has refuted this view. See K. P. Ullāsa IX, pp. 520–527.
-
-
 
 such a beautifier is fit to be included in alaṅ
 
@@ -479,8 +401,6 @@ kāras. Thusall Vyaṅgya sense comes under पर्यायोक्त, अ�
 *                                   
                              *  
 
-
-
 1. It is needless to cite here all the references from which the above gist is drawn.
 
  2. Indurāja himself at the beginning of his Laghuvritti says:—विद्वदग्र्यान्मुकुलकादधिगम्य विविच्यते। प्रतीहारेन्दुराजेन काव्यालङ्कारसंग्रहः॥ At the end also he has a very beautiful verse on Mukula:—
@@ -489,8 +409,6 @@ kāras. Thusall Vyaṅgya sense comes under पर्यायोक्त, अ�
 साहित्यश्रीमुरारेर्बुधकुसुममधोः शौरिपादाब्जभृङ्गात्।  
 श्रुत्वा सौजन्यसिन्धोर्द्विजबरमुकुलात्कीर्तिबल्ल्यालवालात्  
 काव्यालङ्कारसारे लघुवृत्तिमधात् कौङ्कणः श्रीन्दुराजः॥
-
-
 
 भट्टेन्दुराजचरणाब्जकृताधिवासो  
 हृद्यश्रुतोभिनवगुप्तपदाभिधोहम्।  
@@ -506,13 +424,9 @@ kāras. Thusall Vyaṅgya sense comes under पर्यायोक्त, अ�
 *                                   
                              *  
 
- 
-
 1\. While the work is passing through the press we observe, however, that in his recently published essay on “The History of Alaṅ
 
 kāraLiterature,”prefixed as an Introduction to the Second Edition (1923) ofhis साहित्यदर्पण, Mr. P.V. Kano expresses his opinion that “though भट्टेन्दुराजand प्रतिहारेन्दुराजwere both of them well versed in Alaṅkara Śāstra andflourished almost about the same time, they must be regarded as distinct.” The facts of the case do not, it seems to us, warrant such a conclusion.We fail to see how the fact that Indurāja differed from the views ofthe author of Dhvanyāloka would prevent him from explaining thatwork to his pupil. Even at this date we observe a staunch Vaishnava, follower of Dvaita Vedānta, explaining to his pupil tenets of AdvaitaVedānta which he personally does not approve of. According to our oldideas the acharya or preceptor is regarded as सर्वशास्त्रपारंगतand is expected to teach every thing that the pupil has a craving to learn. Besides onemust bear in mind that Abhinavagupta had more teachers than one, andwhen he only says 'अस्मद्गुरवः','अस्मदुपाध्यायः',etc. without mentioning thename of the teacher it is quite possible that some teacher other than Indurāja might have been meant.
-
-
 
  (1) We have seen that Ānandavardhana lived aboutA.D.900. Indurāja quotes without name more than oneverse of the authorship of Ānandavardhana.¹It seemsto be the habit of Indurāja to give the name of a remoteauthor. He always quotes without names from authorsthat were quite recent in his time. Verses of Rudraṭa andmany other verses which we have not been able to trace upto any extant writer, are quoted in a similar way withoutname. He quotes the names of Bhāmaha, Vāmana, Daṇḍin, Amaruka, but not of Rudraṭa, Ānandavardhana and thelike. This clearly shews that Ānandavardhana was arecent author when Indurāja lived.
 
@@ -530,11 +444,7 @@ kārika, and lived at the same time andin the same place as Indurāja, the autho
 *                                   
                             *  
 
-
-
  1. One verse is: सर्वैकशरणमक्षय— etc. (Vide p. 88 of the text). This verse occurs on p. 101 of ध्वन्यालोकwhere the author distinctly owns theverse as is his own thus:यथा वा ममैव। 'सर्वैकशरणetc.'Another verse isलावण्यकान्तिपरिपूरितetc.(vide p. 87 of the text).Thisis also owned in ध्वन्यालोकat p. 110 in a similar way.
-
-
 
 certain that he lived in Kashmir. His own work showsthat he had a very intimate acquaintance with all Kashmirian works on alaṅkāra and his views are nothing ifthey are not of a Kashmirian type. Yet we must solve the difficulty presented by the epithet Kauṅkaṇa which Indurāja has himself appended to his name before we can callhim a native of Kashmir. There may be three possibleconjectures—
 
@@ -548,8 +458,6 @@ certain that he lived in Kashmir. His own work showsthat he had a very intimate 
 
  But although we may be unwilling to believe thatIndurāja was a native and resident of the coastal districts called Koṅkan we may still suppose that his familyhad come from Koṅkan to be naturalised in Kashmirin bygone times. His case might be compared withthat of the Koṅkaṇastha Brahmans of our times who
 
-
-
 while still calling themselves Koṅkaṇasthas (i.e.कौङ्कणाः) have left all traces of their connection with Koṅkan andhave become naturalised residents of Mahārāshṭra andother Indian provinces for several generations. That Indurāja's forefathers might have migrated from Koṅkanto Kashmir is rendered probable by the available evidencethat a general intercourse was kept up between these provinces in those times. The following verses in the poemof a Kashmirian poet (मङ्ख) contain the description of anambassador named तेजकण्ठ despatched by अपरादित्य, the kingof Koṅkan, to Kashmir in the 12th century:—
 
 वचोभिर्नुनुदे दन्तद्युतिश्रीखण्डपाण्डुभिः।  
@@ -558,8 +466,6 @@ while still calling themselves Koṅkaṇasthas (i.e.कौङ्कणाः) h
 प्रजिघाय घनश्लाघः काश्मीरान्कोङ्कणे (न्कुङ्कुणे) श्वरः॥  
 तेन श्रीतेजकण्ठेन.........etc.  
             श्रीकण्ठचरित of मङ्ख, 25, 109 to 111.
-
- 
 
 Thus Indurāja, although a Kashmirian to all intentsand purposes might very well call himself a Kauṅkaṇa.
 
@@ -576,8 +482,6 @@ VI\. THE LAGHUVRITTI.
  The Laghuvṛitti of Indurāja is a very valuable andlearned commentary.
 
 Its special elegances are:
-
-
 
  (i) The peculiar and charming method of explaining the Kārikās.
 
@@ -598,15 +502,11 @@ VII\. OTHER COMMENTARIES ON THE KĀ
 
  Udbhaṭa himself was a commentator as we have seenabove. He had written a gloss on Bhāmaha's Kāvyālaṅkāra. But his original and creative genius could not besatisfied with having commented upon others views merely; so he wrote the present work which has since become a
 
-
-
 landmark in the development of the science of poetics. Judging from the tributes paid to him and from the references made to him and to his opinions by alaṅkāra-writers we can say without the least fear of exaggeration that his influence on alaṅkāra literature was second to none till the time of Mammaṭa's Kāvyaprakāśa. It is true that owing to the great advance effected during the three centuries that intervened between them and owing to the absorbing genius of Mammaṭa, Udbhaṭa's works were thrown rather into the background after Mammaṭa's time. Yet as facts are being brought to light gradually the real state of things has begun to force itself upon us and we are becoming aware of the fame and popularity that our author once enjoyed. Commensurate with his fame and popularity the number of his commentators must have been large, and from the facts that are now available we can assert that his work was commented upon by more than three exegetes at least.
 
  As far as our knowledge goes the first commentator that Udbhaṭa had was Indurāja. It does not appear either from the contents of Indurāja's Laghuvṛitti or from any external evidence that Udbhaṭa had another commentator before Indurāja. After Indurāja we find that one राजानकतिलकis mentioned as having written an उद्भटविवेक or विचार. commentary विमर्शिनी of जयरथ on Ruyyaka's अलंकारसर्वस्व states in more than one place that राजानकतिलकwrote a gloss on Udbhaṭa called उद्भटविवेक, and that the सर्वस्वकार himself generally followed the views propounded in उद्भटविवेक(Vide Kāvyamālā edition of अलंकारसर्वस्वpp.115, 205 e.t.c) NowRuyyaka composed his अलंकारसर्वस्व about A.D.1150etc.) And relying upon the facts which seem to prove that Ruyyaka was the same person as Ruchaka who mentions राजानकतिलक as the name of his father we may place राजानकतिलकa little before A.D.1150.
 
  Of this उद्भटविवेकno MS. has as yet been discovered. But another MS. containing a commentary named उद्भटालंकारविवृत्तिःhas been discovered at Kudalur Mana, in Malabar in A.D.1919-20. A copy of it has been deposited in the Gov-
-
-
 
 ernment Oriental MSS. Library, madras, thetext of Udbhaṭa adopted by this commentator is the same as thatof Indurāja and from its contents the commentary appearsto be written after Indurāja. We can even assert that thecommentator came after Mammaṭa as he derives a greatdeal of matter directly from काव्यप्रकाश. Out of about 50 extraquotations that the commentator has taken to elucidatehis points, about 20 are drawn from काव्यप्रकाश,and manytimes he almost verbally borrows passages from that great work. In his treatment of संदेहसंकर hegives the illustration नयनान्ददायीन्दोःgiven by Mammaṭa in his का.प्र.and putshis argument on it thus:—
 
@@ -620,13 +520,9 @@ ernment Oriental MSS. Library, madras, thetext of Udbhaṭa adopted by this comm
 
  From the numerous references to previous interpretations of the Kārikās of Udbhaṭa, that exist in the उद्भटालंकारविवृति one is led to infer that several other commentaries must have existed before this विवृत्तिकार.In commenting upon पुनरुक्ताभासमभिन्नवस्त्विवोद्भासिभिन्नरूपपदम्, the विवृतिकार refers
 
-
-
 to five different views on the interpretation of this definitionof the figure पुनरुक्तवदाभास.His words are(1) इति केचिद्व्याचचक्षिरे;(2)...समासे संख्या न विवक्षितेत्यन्ये; (3) तस्मादेकस्मादनेकस्माद्यत्रेत्यपरे; (4)...भिन्नरूपंयत्रेत्येके विवृण्वते; (5)...इति तुल्यकक्ष्यदृशः, (See our extract from the विवृति in the notes on the definition of पुनरुक्तवदाभास p.2, 1.7)None of these references point to anything contained inIndurāja's Laghuvṛitti and we must conclude that therewere several other exegetes who had tried their hand onUdbhaṭa's famous work.
 
 *        *
-
-
 
 **॥श्रीः॥**  
 
@@ -657,8 +553,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  अत्रालंकारा अष्टावुद्दिष्टाः। तत्र चादौ चत्वारः शब्दालंकारानिरूपिताः। रूपकादीनां तु चतुर्णामत्रार्थालंकारता। अत्रानुप्रासेरूपके यथाक्रमं त्रिधेति चतुरिति वचनंविप्रतिपत्तिनिरासार्थम्। भामहो हि ग्राम्योपनागरिकावृत्तिभेदेन द्विप्रकारमेवानुप्रासं व्याख्यातवान्। तथा रूपकस्य ये चत्वारो भेदा वक्ष्यन्ते तन्मध्यादाद्यमेव भेदद्वितयं प्रादर्शयत्। अतः स्वाभिमतभेदोपदर्शनद्वारेणैवंविधविप्रतिपत्ति–
 
-
-
 निरासार्थमुद्देशावस्थायामेवानुप्रासस्त्रिधेति रूपकं चतुरिति चोक्तम्। रूपकंचतुरित्यत्र रूपकत्वेन सहैकस्मिन्नर्थे वर्तमाना सत्ता रूपकभेदेष्वावर्तमानाप्रतीयते। अतः प्रतीयमाना यासौ रूपकत्वैकार्थसमवेता सत्तात्मिकाभवनक्रिया तदभ्यावृत्तावयं– द्वित्रिचतुर्भ्यः सुच् (पा. ५-४-१८) इति सुच्प्रत्ययः। रूपकं चतुर्षु भेदेषु चतुरो वारान्भेदात्मना भवतीत्यर्थः।
 
 तत्र **पुनरुक्तवदाभासं** प्रोच्यते।
@@ -668,8 +562,6 @@ to five different views on the interpretation of this definitionof the figure �
  अभिन्नं वस्तु यस्मिन्नुद्भासते तदभिन्नवस्तु। भिन्नं रूपं ययोःपदयोस्ते भिन्नरूपे। अभिन्नवस्त्विव अभीक्ष्णमुद्भासेते भिन्नरूपे पदे यस्मिंस्तदभिन्नवस्त्विवोद्भासिभिन्नरूपपदम्। एवमयं बहुव्रीहिद्वितयगर्भःपञ्चपदो बहुव्रीहिः। तत्रैकः अभिन्नवस्त्विति बहुव्रीहिः। अपरस्तु भिन्नरूपइति। तद्गर्भश्चायं बहुबीहिरभिन्नवस्त्विवोद्भासिभिन्नरूपपदमिति। अनेन च यत्र भिन्नरूपेपदे एकार्थवदाभासेते तत्पुनरुक्ताभासं काव्यमलंकार्यं निर्दिष्टम्। यद्यपि
 पुनरुक्तवदाभासमित्युद्देशे वतिः प्रयुक्तस्तथापि तस्येह गम्यमानार्थत्वादप्रयोगः। उद्देशे त्वेवमनभिधानमभिधावैचित्र्यप्रदर्शनार्थम्। काचित्खलु गम्यमानार्थान्वयेन अभिधा प्रवर्तते काचित्त्वभिधीयमानार्थान्वयेन। तत्रोद्देशे वत्यभिधीयमानसादृश्यान्वयेन अभिधा उपदर्शिता। इह त्वर्थसामर्थ्यावसेयसादृश्यान्वयेन। तदेवमर्थसामर्थ्यावसेयेन वत्यर्थेनान्वितं पुनरुक्ताभासमत्र काव्यमलंकार्यं निर्दिष्टम्। पुनरुक्तवदाभासमाने च पदे तस्यालंकारः। अत्रालंकार्यं यत्काव्यं तद्धर्मत्वेनपुनरुक्तवदाभासमानयोः पदयोरलंकारत्वमुक्तं न तु स्वतन्त्रतया। फलं चैवमभिधानस्य पुनरुक्तवदाभासमानपदसमन्वयस्य अलंकारताख्यापनम्। अलंकारस्य खल्वलंकार्यपरतन्त्रतया निरूपणे क्रियमाणे सुष्ठु स्वरूपं निरूपितं भवति स्वात्मन्यवस्थितस्य तस्यानलंकारत्वात् समुद्रकस्थितहारकेयूरपारिहार्याद्यलंकारवत्। अतः
 पुनरुक्तवदाभासत्वस्यालंकारताख्यापनाय काव्यपरतन्त्रतया निर्देशो युक्त एवं।
-
-
 
   तस्योदाहरणम्।
 
@@ -686,11 +578,7 @@ to five different views on the interpretation of this definitionof the figure �
 
 **छेकानुप्रासस्तु द्वयोर्द्वयोः सुसदृशोक्तिकृतौ॥३॥**
 
- 
-
 द्वयोर्द्वयोरज्झलसमुदाययोः सुष्ठु सदृशे उच्चारणे क्रियमाणे सतिछेकानुप्रासो भवति। तथाविधा हि समुदायास्तत्रालंकारतां प्रतिपद्यन्ते। द्वयोर्द्वयोरिति—स्वार्थे अवधार्यमाणे अनेकस्मिन् —इति द्विर्वचनम्। तत्रस्वार्थग्रहणेन वीप्साया निरस्तत्वान्न यावन्तोत्र द्विकाः संभवन्ति तेषांसर्वेषामेव सुसदृशत्वं कार्यं किं तर्हि कतिपयानामेव। वीप्सा हि
-
-
 
 साकल्ये सति भवति। सा चात्र स्वार्थशब्देन निरस्ता। अवधार्यमाणग्रहणाञ्च द्वयोर्द्वयोरेवात्र समुदाय्नयोः सदृशत्वं नतु त्रयाणां त्रयाणामिति द्रष्टव्यम्। अनेकस्मिन्निति वचनाच्च असकृदेवंविधरूपोपनिबन्धेसति छेकानुप्रासता न तु सकृदिति मन्तव्यम्। परस्परमेकरूपान्वितारसाद्यभिव्यक्त्यनुगुणत्वेन लब्धोत्कर्षा वर्णास्तत्समुदाया वा शोभातिशयहेतुत्वेन काव्ये क्षिप्यमाणा अनुप्रासशब्देनान्वर्थेनाभिधीयन्ते। छेकशब्देन कुलायाभिरतानां पक्षिणामभिधानम्। तदुक्तम्— छेकान्गृहेष्वभिरतानुशन्ति मृगपक्षिणः— इति। तेषां च कुलायाभिरतत्वादन्येन केनचिदनायास्यमानानामनेनानुप्रासेन सदृशी मधुरा वागुञ्चरति। अतोयमनुप्रासश्छेकैर्व्यपदिश्यते छेकानुप्रास इति। अथवा छेका विदग्धास्तद्वल्लभत्वादस्य छेकानुप्रासता।
 
@@ -709,8 +597,6 @@ to five different views on the interpretation of this definitionof the figure �
 पृथक् पृथगनुप्रासमुशन्ति कवयः सदा॥ इति।**
 
  अस्यार्थः। त्रिष्वेतेषु यथायोगं रसाद्यभिव्यक्त्यनुगुणेषु वर्णव्यवहारेषु यः सरूपाणां व्यञ्जनानां पृथक्पृथगुपनिबन्धस्तमनुप्रासं कवयः
-
-
 
 सदेच्छन्तीति। अतस्तास्तावद्वृत्तयो रसाद्यभिव्यक्त्यनुगुणवर्णव्यवहारात्मिकाः प्रथममभिधीयन्ते। ताश्चतिस्रः परुषोपनागरिकाग्राम्यत्वभेदात्।
 
@@ -737,8 +623,6 @@ to five different views on the interpretation of this definitionof the figure �
 
   तस्योदाहरणं च।
 
-
-
 सान्द्रारविन्दवृन्दोत्थमकरन्दाम्बुबिन्दुभिः।  
 स्यन्दिभिः सुन्दरस्यन्दं नन्दितेन्दिन्दिरा क्वचित्॥\*४॥
 
@@ -764,8 +648,6 @@ to five different views on the interpretation of this definitionof the figure �
 पृथक् पृथगनुप्रासमुशन्ति कवयः सदा॥७॥**
 
  अयं श्लोकः सोदाहरणो वृत्तिस्वरूपनिरूपणप्रसङ्गेन व्याख्यातः।
-
-
 
 **लाटानुप्रासः।**
 
@@ -794,8 +676,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  आचिक्षिपुरपहृतवन्तः। अत्र काशादयः शब्दा अपरैः काशादिभिः शब्दैरेकरूपा एकाभिधेयाश्च। तात्पर्यभेदेन तु तेषां पुनरुक्तिः। तथाहि। अत्र एकेषां काशादिशब्दानां जातिभेदोपरक्तद्रव्यपरतया
 
-
-
 प्रयोगः। अपरेषां तु अनन्वयालंकारच्छायया उपमानान्तरव्यावृत्तिपरतया। अत्र च स्वातन्त्र्यं पदानां काशादीनामुपलभ्यमानसुप्तिङरूपत्वात्। एकैकरूपतया च आवृत्तेरुपनिबन्धः।
 
  पदसमुदायात्मकस्य तु पादस्य स्वरूपार्थाविशेषे तात्पर्यभेदेन पुनरुक्तौ पादाभ्यासपरिपाट्या स्वतन्त्रपदाश्रयो लाटानुप्रासो भवति। पादाभ्यासक्रमेण चेति क्रमग्रहणेन सकृद्द्विस्त्रिश्च पादाभ्यासे ये भेदास्संभवन्ति तत्स्वीकारेण पादाभ्यासे लाटानुप्रासस्य प्रवृत्तिः सूचिता।
@@ -816,8 +696,6 @@ to five different views on the interpretation of this definitionof the figure �
 **कचिदुत्फुल्लकमला कमलभ्रान्तषट्पदा।  
 षट्पदकाणमुखरा मुखरस्फारसारसा॥\*८॥**
 
-
-
  सारसा लक्ष्मणाख्याः पक्षिविशेषाः। अत्र कमलषट्पदमुखरशब्दानांस्वरूपार्थाभेदेपि तात्पर्यभेदेन पुनरुक्तिः पदद्वितयाश्रयित्वं च। तात्पर्यभेदश्चात्र कमलषट्पदशब्दयोः कारकशक्तिभेदात्। तथाहि। पूर्वः कमलशब्दोत्रविकाशक्रियाकर्तृत्वपरतयोपात्तः। उत्तरस्तु भ्रमणक्रियाकर्तृभूतषट्पदाधारत्वेन। तथा पूर्वः षट्पदशब्दो भ्रमणक्रियां प्रति कर्तृत्वेनोपवर्णितः। उत्तरस्तु क्वाणक्रियासंबन्धित्वेन। मुखरशब्दौ तु विशेषणभूतंसशब्दत्वं भिन्नार्थनिष्ठतयावगमयतः। तथाहि। पूर्वेण मुखरशब्देनशरन्निष्ठं मौखर्यमवगम्यते अपरेण तु सारसनिष्ठम्।
 
  एवमयं पदद्वितयपरतन्त्रशब्दद्वयाश्रयो लाटानुप्रासोभिहितः। **एक**पदाश्रयशब्दद्वितयवर्ती तु **द्वयोर्वैकपदाश्रयात्—**इत्युक्तः।
@@ -837,8 +715,6 @@ to five different views on the interpretation of this definitionof the figure �
 अन्तर्दन्तुरयामासुर्हंसा हंसकुलालयात्॥\*१०॥
 
  मानसात्सरोविशेषात्। दन्तुरयामासुः महत्वाच्छुक्लत्वाच्च उन्नतदन्ताइव चक्रुः। अत्र स्वरूपार्थाभेदेपि पद्मिनीशब्दयोर्हंसशब्दयोश्च
-
-
 
 तात्पर्यभेदात्पुनरुक्तिः। एकस्य पदान्तरानुप्रवेशः अपरस्य च स्वतन्त्रत्वम्। तात्पर्यभेदस्तु एकस्य पद्मिनीशब्दस्य कर्मरूपत्वादपरस्यचस्पृहाविषयप्रतिपादनार्थत्वात्। तथा एकस्य हंसशब्दस्य दन्तुरणक्रियाकर्तृभूतार्थाभिधायित्वादपरस्य तु कुलसंबन्धित्वात्।
 
@@ -866,8 +742,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  अत्राम्बुशब्दो निरन्तरार्थनिष्ठशब्दव्यापारगोचरीकृते उदकत्वेवर्तमानो ज्योत्स्नाशब्देन सामानाधिकरण्यं नानुभवति अम्बुत्वज्योत्स्नात्वयोरेकार्थसमवायाभावात्। अतोम्बुगताः शौक्ल्याह्लादकत्वप्रसरणशीलत्वादयो ये गुणास्तत्सदृशज्योत्स्नागतगुणवृत्तिः सन्नम्बुशब्दो ज्योत्स्नायां वर्तते। तेनाम्बुशब्दस्य श्रुत्या निरन्तरार्थनिष्ठेन अभिधाव्यापारेण यः पदान्तरेण ज्योत्स्नाशब्देन संबन्धस्तच्छून्यत्वाद्गुणवृत्तिता।
 
-
-
 अतोत्र रूपकता। न चैवं नीलमुत्पलमित्यादौ श्रुत्या संबन्धविरहाद्गुणवृत्तित्वं किं तर्हि स्वत एवेति न रूपकताप्रसङ्गः।
 
  ननु विरुद्धार्थाभिधायिनोः समानाधिकरणयोः शब्दयोर्निरन्तरार्थनिष्ठेन अभिधाव्यापारेण अनुपपद्यमानान्योन्यसमन्वयत्वाद्यद्येकस्यलक्षणाया गुणवृत्तित्वमभिधीयते एवं सति पर्यायेणात्र गुणवृत्तित्वंप्राप्नोति नियमकरणाभावात्। ततश्च यथाम्बुशब्दस्य ज्योत्स्नाशब्दसा मानाधिकरण्याद्गुणवृत्तित्वमुक्तं तद्वज्ज्योत्स्नाशब्दस्यापि अम्बुशब्दसा मानाधिकरण्याद्गुणवृत्तित्वं कथं न स्यादित्याशङ्कयोक्तं **प्रधानेन**—इति। प्रधानार्थानुरोधेन उपसर्जनस्य लक्षणया गुणवृत्तित्वमुपपन्नं प्रधानवशवर्तिंत्वाद्गुणानामित्यभिप्रायः। अतश्च प्राकरणिकार्थाभिधायित्वात्प्रधानार्थविषयो या ज्योत्स्नाशब्दस्तद्नुरोधेन अम्बुशब्दस्य अप्राकरणिकार्थत्वादप्रधानार्थस्य गुणवृत्तित्वमुपपन्नमिति न पर्यायेण ज्योत्स्नाम्बुशब्दयोः परस्परानुरोधेन गुणवृत्तित्वप्रसङ्गः।
@@ -879,8 +753,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  एतयोरुभयोरिति। उपमानोपमेययोरित्यर्थः। तत्कथमिदमुक्तंज्योत्स्नापदस्य
 प्राधान्यात्तद्वशेनाम्बुशब्दस्य गुणवृत्तित्वं कल्प्यत इति। उच्यते। अत्र खलु द्वे अवस्थे विद्येते। एका तावत् ज्योत्स्नाया अम्बूकरणावस्था। अपरा तु अम्बुत्वमापादिताया ज्योत्स्नायाः सेकसंबन्धरूपा। तत्र यदा तावत् ज्योत्स्ना अम्बुरूपत्वमापद्यते तदा प्राकरणिकत्वात् ज्योत्स्ना प्रधानं अम्बु च तद्विपर्ययाद्गुणः तदानीं चाम्बु-
-
-
 
 शब्दोज्योस्त्नाशब्दानुरोधेनाम्बुगतशौक्ल्यादिगुणसदृशगुणयोगालक्षणया ज्योत्स्नायां वृत्तिमनुभवति। तदा च तस्य प्रधानार्थानुरोधाद्गुणवृत्तित्वेन रूपकत्वमुक्तम्। यदा त्वसौ अम्बुशब्दआपादिताम्बुभावज्योत्स्नाभिधायी सन् सेकक्रियया समन्वयमापद्यमानो यदेतदत्र सेकसाधनत्वेनाम्बु उपयुज्यते तज्ज्योत्स्नैवेति ज्योत्स्नया विशिष्यते तदा तस्यन रूपकावस्था। पूर्वावस्थायामेवानुभूतगुणवृत्तित्वात्। अतस्तस्थामवस्थायामसौ अतिशयोक्तिच्छायां भजते। पूर्वावस्थापेक्षया त्वेतद्रूपकमुक्तम्। प्रधानानुरोधेन तत्र गुणेषु वर्तमानत्वात्। रूपकत्वं चात्राध्यरोप्यमाणगतेन रूपेण अध्यारोपविषयस्य वस्तुनो रूपवतः क्रियमाणत्वादन्वर्थं द्रष्टव्यम्।
 
@@ -898,8 +770,6 @@ to five different views on the interpretation of this definitionof the figure �
   तस्योदाहरणम्।
 
 ज्योत्स्नाम्बुना (श्लो.११)— इत्याद्युक्तम्।
-
-
 
 शारितम् शबलितम्।
 
@@ -919,8 +789,6 @@ to five different views on the interpretation of this definitionof the figure �
  यदि वा मालारूपकस्य समस्तवस्तुविषयता। तत्र ह्येकस्मिन् रूप्येसमुच्चयेन अस्यन्ते क्षिप्यन्ते बहूनि रूपकाणि। तदुक्तम् **समस्तवस्तुविषयं मालारूपकमुच्यते**। यद्वेति प्रकारान्तरोपक्षेपार्थः।
 
   तस्योदाहरणम्।
-
-
 
 **बनान्तदेवतावेण्यः पान्थस्त्रीकालशृङ्खलाः।  
 मारप्रवीरासिलता भृङ्गमालाश्चकाशिरे॥\*१३॥**
@@ -943,8 +811,6 @@ to five different views on the interpretation of this definitionof the figure �
 
 तेनात्र विशेषोक्तिलक्षणवदेकदेशशब्देन अन्यदा प्रभविष्णुर्वाक्यार्थ
 
-
-
 उच्यते। अन्यत्र च अन्यदा प्रभविष्णूपार्जनं अप्रकृतं हि तत् श्लेषवेशेनात्र नीतम्। तेनात्रैकदेशवृत्तिता।
 
 **दीपकम्।**
@@ -960,8 +826,6 @@ to five different views on the interpretation of this definitionof the figure �
 प्रेयोवियोगिनीनां च निःशेषसुखसंपदः॥\*१५॥
 
  अत्र संहरणात्मा धर्मः कदम्बकुसुमशोभाकर्मकत्वेन विरहिणीसुखसंपत्कर्मकत्वेन च उपनिबध्यमानोन्तर्गतोपमः शरत्समयस्योपवर्ण्यमानतया कदम्बकुसुमश्रीसंहारस्य प्राकरणिकार्थनिष्ठत्वाद्बिरहिणीसुखसंपत्संहारस्य चाप्राकरणिकार्थविषयत्वात्। तेनात्रान्तर्गतोपमत्वम् यथाप्रेयोवियोगिनीनां निःशेषाः सुखसंपदः संजहार तथा कदम्बकुसुमश्रियो
-
-
 
 पीति। शरत्कालशब्दस्य चात्र शरत्समयः श्लेषच्छाययान्तकानुरञ्जितोवाच्यः संहारस्यान्तककर्मत्वात्। अत्र च प्रथम एव वाक्येसंजहारेत्यस्यापनिबद्धस्य द्वितीयवाक्ये अनुषङ्गच्छायया उपजीव्यमानत्वादादिदीपकत्वम्।
 
@@ -982,10 +846,6 @@ to five different views on the interpretation of this definitionof the figure �
  एवमेतद्दीपकं लक्षितमुदाहृतं च।
 
  ननु उपमाया **उपमा दीपकं च**—इति पूर्वमुद्दिष्टत्वाद्यथोद्देशलक्षणमितिन्यायात्तस्या एव पूर्व लक्षणं कर्तव्यं पश्चात्तु दीपकस्य तत्कथमादौदीपकं लक्षितमिति व्यक्तव्यम्। उच्यते। अनेन ग्रन्थकृता स्वोपरचित**कुमारसंभवै**कदेशोत्र उदाहरणत्वेनोपन्यस्तः। तत्र पूर्वं दीपकस्योदाहरणानि। तदनुसंधानाविच्छेदायात्र उद्देशक्रमः परित्यक्तः। उद्देशस्तुतथा न कृतो वृत्तभङ्गभयात्। एवमुत्तरत्रापि लक्षणेषूद्देशक्रमाननुसारेणसमाधिर्वाच्यः।
-
-
-
-
 
 उपमा।
 
@@ -1012,13 +872,9 @@ to five different views on the interpretation of this definitionof the figure �
 
  सादृश्यसंबन्धित्वेनोपादीयते यत्प्राकरणिकं तदुपमेयम्। न खलुप्राकरणिकस्यापि सादृश्यसंबन्धित्वेन अनुपादीयमानस्योपमेयता। यथाराज्ञः पुरुषमानयेत्यत्र पुरुषस्य। पुरुषोह्यत्र आनीयमानत्वेन चाद्यमानत्वात्सत्यपि प्राकरणिकत्वे सादृश्यसंबन्धित्वेनानुपादीयमानत्वान्नोपमेयः। सत्यपि च सादृश्यसंबन्धित्वेनोपादाने यस्य प्राकरणिकत्वंनास्ति तस्योपमानत्वं न तुपमेयत्वमिति प्राकरणिकमित्युक्तम्। तदेवंसादृश्यसंबन्धित्वेनोपादीयमानं यत्प्राकरणिकं तदुपमेयम्। तद्ध्युपमानेन सादृश्यप्रतिपादनद्वारेण समीपे क्षिप्यते तस्मादुपमेयम्। अप्राकरणिकं तु तथाविधमेवोपमानम्। तयोरुपमानोपमेययोः यत्साधर्म्यंसमानो धर्मस्तेन धर्मेण संबन्धो यः सा उपमानोपमेययोः सादृश्यद्वारेण
 
-
-
 सामीप्य परिच्छेदहेतुत्वादुपमा। तस्याश्चालंकाराधिकाराच्चेतोहारित्वंलब्धमेव काव्यशोभावहानां धर्माणां गुणव्यतिरिक्तत्वे सत्यलंकारत्वात्। गुणाः खलु काव्यशोभाहेतवो धर्माः। ते च माधुर्यौजः प्रसादलक्षणाः।येषां तु गुणोपजनितशोभे काव्ये शोभातिशयहेतुत्वं तेलंकाराः यदवोच**द्भट्टवामनः—काव्यशोभायाः कर्तारो धर्मा गुणास्तदतिशयहेतवस्त्वलंकाराः—**इति। तेनालंकारत्वादेवोपमायाश्चेतोहारित्वं लब्धम्। अतश्चेतोहारीत्यनुवादः प्राप्तार्थत्वात्। उपमानोपमेयभावश्चनात्यन्तं साधर्म्येण उपादाने सति भवति गौरिवायं गौरिति। अतउक्तं **मिथोविभन्नकालादिशब्दयो**रिति। कालादयोत्र शब्दप्रवृत्तिनिमित्तभूता विवक्षिताः। केषांचित्खलु शब्दानां स्वार्थे प्रवर्तमानानांकालः प्रवृत्तिनिमित्तं यथा वसन्तादीनाम्। केषांचित्तु दिक् यथाप्राच्यादीनाम्। केषांचिज्जातिर्यथा गवादीनाम्। शुक्लप्रभृतीनां तुगुणः। गच्छत्यादीनां क्रिया। राजपुरुषादीनां स्वस्वामिभावादिः संबन्धः। एवमन्यदप्यनुसर्तव्यम्। मिथः परस्परं विभिन्नाः कालादयःप्रवृत्तिनिमित्तभूता ययोः शब्दयोस्तथाविधौ शब्दौ वाचकौ ययोरुपमानोपमेययोरिति बहुव्रीहिगर्भो बहुव्रीहिः। गौरिवाथं गौरित्यभिधानेतु न प्रवृत्तिनिमित्तभेदः गोत्वस्यैवैकस्य प्रवृत्तिनिमित्तत्वात्। तेनैवंविध उपमानोपमेयभावो न भवति। **उपमा तु तत्**— इत्यत्र वाक्ये तुशब्दोलंकारान्तरे व्यतिरेके उपमा पुनरेवंप्रकारेत्यर्थः।
 
  एषा चोपमा द्विधा। पूर्णा लुप्ता च। पूर्णा यत्र चतुष्टयमुपादीयतेउपमानमुपमेयं तयोश्च साधारणो धर्मः सौन्दर्यादिरुपमानोपमेयभावस्य द्योतक इवादिः। सा चं पूर्णा त्रिविधा वाक्यसमासतद्धितावसेयत्वात्। तत्र वाक्यावसेयायाः श्रौतत्वार्थत्वभेदेन द्वैविध्यम्। अन्ययावसेया श्रौती। अव्ययं हि लुप्तविभक्तिकत्वेन उपमानोपमेययोरेकतरत्राप्यविश्रान्तत्वादुभयोरप्युपमानोपमेययोरुपमितिक्रियाविषयतयायथायोगं कर्मकरणभावात्मकं संबन्धमवद्योतयति। अतस्तत्र श्रौतीउपमा। तदुक्तं— **यथेवशब्दयोगेन श्रुत्यान्वयमर्हति**— इति। **यथे-**
-
-
 
 वशब्दौ चात्रोपलक्षणम्। अव्ययान्तरादपि वाशब्दादेस्तेन रूपेणोपमानोपमेयभावस्यावगतेः। यथा—
 
@@ -1049,8 +905,6 @@ to five different views on the interpretation of this definitionof the figure �
 प्रबोधाद्धवलं रात्रौ किञ्जल्कालीनषट्पदम्।  
 पूर्णेन्दुबिम्बप्रतिममासीत्कुिमुदकाननम्॥\*२०॥
 
-
-
  अत्र कुमुदकाननं विकसितं किञ्जल्कालीनषट्पदत्वविशिष्टमुपमेयम्।पूर्णेन्दुबिम्बमुपमानम्। धवलत्वं साधारणो धर्मः। प्रतिभाशब्द उपमानोपमेयभावावगतिहेतुः। स च उपमाने विश्रान्तः। तथा हि। पूर्णेन्दुबिम्बंप्रतिमा प्रतिबिम्बं सदृशमस्येति बहुव्रीहिरत्र क्रियते तेन प्रमिताशब्द उपमाने विश्रान्तः। तेन च उपमाने विश्रान्तेनापि अर्थादुपमेयस्यसादृश्यमवगम्यते सादृश्यस्योभयाधिष्ठानत्वात्। यदापि च पूर्णेन्दुबिम्बेनप्रतिममिति तृतीयातत्पुरुषस्तदाप्युपमेये स्वकण्ठेनाभिहितं सादृश्यम्।उपमाने च तस्यार्थात्प्रतिपत्तिः। अतो बहुव्रीहौ उपमानगतसादृश्यपर्यालोचनया उपमेयस्योपमेयत्वमवगम्यते। तत्पुरुषे तु उपमेयवर्तिसादृश्यविचारेण उपमानस्योपमानत्वावगतिरित्यार्थोत्र उपमानोपमेयभावः।
 
  अत्र च उपमेयवर्तिकिञ्जल्कालीनषट्पदत्वाभिधानसामर्थ्यादपरमपिसाधर्म्यमनभिहितमसितोदरत्वलक्षणमाक्षिप्तम्। यथा पूर्णेन्दुबिम्बं शशलाञ्छनत्वादसितोदरमेवं कुमुदकाननमपि किञ्जल्कालीनषट्पदत्वादिति।अतोसितोदरत्वलक्षणं धर्ममपेक्ष्य लुप्तैकदेशत्वाल्लुप्तापीयमुपमा।
@@ -1068,8 +922,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  एवमेषा संपूर्णा वाक्यावगम्या द्विविधोपमा प्रतिपादिता श्रौती आर्थी च। समासावगम्या त्वार्थत्वेन एकप्रकारैवोक्ता।
 
-
-
  या तु तद्धितावसेया संपूर्णा तस्या अपि द्वैविध्यं श्रौतत्वार्थत्वभेदेन। तत्र तस्येव (पा. ५-१-११६) इत्यनेन हि यो वतिर्विधीयते तस्यइवार्थेविधीयमानत्वादिवशब्दवच्छ्रौतेन रूपेण उभयानुयायितयाउपमानोपमेयभावावगतिनिबन्धनत्वम्। यः पुनः—तेन तुल्यं (पा.५-१-११५) इति तुल्यार्थे वतिर्विधीयते ततो ब्राह्मणेन तुल्यमधीतेब्राह्मणवदधीते क्षत्रिय इत्युपमेये यत्तदध्ययनक्रियाद्वारेण विश्रान्तंतुल्यत्वं तत्पर्यालोचनया अर्थादुपमानस्योपमानत्वमवगम्यते तेन आर्थस्तत्र उपमानोपमेयभावः। तदुक्तम्—**वतिना च कर्मसामान्यवचनेन। षष्ठीसप्तम्यन्ताच्च यो वतिर्नामतस्तदभिधेया**— इति। कर्मसामान्यवचनो वतिः—तेन तुल्यं क्रिया चेद्वतिः (पा.५-१-११५) इति क्रियातुल्यत्वेभिधानात्। तेन चाभिधीयते उपमा। वाच्येतिपूर्वोपक्रान्तमत्रानुषज्यते। षष्ठ्यन्तात्सप्तम्यन्ताच्च नामतो नाम्नः प्रातिपदिकादितिसंबन्धः।
 
   तत्र पूर्वस्था उदाहरणम्।
@@ -1085,8 +937,6 @@ to five different views on the interpretation of this definitionof the figure �
 अकाण्डोड्डामरानङ्गहतकेन समर्पिताः॥\*२३॥
 
  अकाण्डोड्डामरः अनवसरे उद्भटः। प्रचण्ड इति पाठान्तरम्। उत्कलिकाः उत्कण्ठाः। अत्रास्मदर्थंउपमानम्। तच्छब्दार्थं उपमेयः।
-
-
 
 मन्मथेन समर्पिता यास्ता निरर्गलाः उत्कलिकास्तत्कर्तृकं भवनं साधारणोधर्मः। वतिश्चेवार्थे विधीयमानत्वादिवशब्दवदुपमानोपमेययोरेकतरत्राप्यविश्रान्तः श्रौतेन
 रूपेणोपमानोपमेयभावमवद्योतयति। तेनेयं संपूर्णाश्रौती च तद्धितावसेया। अत्र तु तस्या अपीति पाठे षष्ठ्यन्ताद्वतिर्विधेयः। यदा तु तस्यामपीति पाठस्तदा सप्तम्यन्तात्। यदुक्तम्— उपमाने यःसंशयः स उपमेयाद्व्यावर्तते- इति।
@@ -1110,8 +960,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  अत्र ह्यसितोदरत्वमर्थसामर्थ्याविसेयत्वाच्छब्देन नोपात्तम्। इवादिवियोगे तु तस्या उदाहरणम्।
 
-
-
 **इति काले कलोल्लापिकादम्बकुलसंकुले।  
 त्रिदशाधीशशार्दूलः पश्चात्तापेन धूर्जटिः॥\*२४॥**
 
@@ -1131,8 +979,6 @@ to five different views on the interpretation of this definitionof the figure �
  त्रिदशाधीशशार्दूल इत्यत्र च त्रिदशाधीश उपमेयः शार्दूल उपमानम्। तच्च द्वयं स्वकण्ठेनोपात्तम्। इवाद्यर्थः साधारणश्चधर्मस्तेजस्वित्वादिः—सामर्थ्यादवसीयते। नीलोत्पलदलेक्षणाम्—इत्यत्र तु नीलोत्पलपलाशानामुपमानत्वम् ईक्षणयोरुपमेयता। एतयोश्चस्वकण्ठेनोपादानम्। नीलत्वदीर्घत्वादिसाधारणो धर्म इवाद्यर्थश्चउपमानोपमेयभावात्मकः स्वशब्देन अनुपात्तोपि समासवशेनार्थसामर्थ्यादवसीयते। त्रिदशाधीशशार्दूल इत्यस्मात्तु नीलोत्पलदलेक्षणामित्यस्य बहुव्रीहित्वकृतो विशेषः। तत्र हि - उपमितं व्याघ्रादिभिः (पा. २-१-५६ ) इतितत्पुरुषो विहितः ।
 
  एवमेषा साधारणधर्मवाचिन इवादेश्चाप्रयोगात् द्वितीयलोपे समासे संक्षेपोपमोक्ता।
-
-
 
  त्रितयलोपे तु साधारणधर्मवाचिन उपमेयाभिधायिन उपमानोपमेयभाववाचिनश्चइवादेर्युगपदप्रयोगात्समासवर्तिनी संक्षेपोपमा भवति। तदुक्तं—
 
@@ -1159,8 +1005,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  निःशेषैश्चर्यसंपदा कृतार्थोपीति संबन्धः। अत्र दुःस्थमिवात्मानमाचरन्निति दुःस्थः कश्चिद्दारिद्र्याद्युपप्लुत उपमानं भगवदात्मा उपमेयः
 
-
-
 आचाराख्यः साधारणो धर्मः क्यच्प्रत्ययोपात्तः। अत्र चोपमानसाधारणधर्मयोः शब्दस्पृष्टत्वम् उपमेयस्य उपमानोपमेयभावस्य च सामर्थ्यादवगतिः। तेनेयं द्वितयस्य गम्यमानार्थत्वाद्द्वितयलोपे सति सुब्धातूपमा। एवमियं कर्मोप्रमानिका सुब्धातूपमा उदाहृता।
 
  अधिकरणोपमानिका तु नरकीयति कानने-इति। (का.सा.सं. प.२४)
@@ -1184,8 +1028,6 @@ to five different views on the interpretation of this definitionof the figure �
 
 कृशानवज्जगदिति। (का.सा.सं. प.२५)
 
-
-
  कृशानुशब्दादाचारक्विबन्ताच्छतरि रूपम्। अत्र कृशानुरुपमानंजगदुपमेयम्। आचारश्च साधारणो धर्मः क्विप्सामर्थ्यादवगम्यते। अत्रचोपमानोपमेययोः शब्दोपात्तत्वादिवादीनामाचारस्य च अर्थसामर्थ्यावसेयत्वात्तद्द्वितयलोपः। न खल्वश्रूयमाणस्य क्विपोर्थाभिधायिता वक्तुं शक्या।
 
  एवमेषा सुब्धात्ववसेया त्रिविधा संक्षेपोपमा प्रतिपादिता क्यच्-क्यङ्-क्विप्-प्रत्ययावसेयत्वात्। क्यच्प्रत्ययसामर्थ्यावसेया तु द्विविधा कर्माधिकरणोपमानकत्वात् क्यङ्प्रत्ययावसेयात्वेकप्रकारा। क्विप्प्रत्ययावसेयाप्येकप्रकारैव भवति। तदेवमेषा चतुर्विधा सुब्धातुप्रत्ययावसेया संक्षेपोपमोक्ता।
@@ -1206,8 +1048,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  विग्रहः शरीरम्। अत्र सामान्यभूतः प्राणी गुणातिशयशून्य उपमानंतच्छब्दनिर्दिष्टश्च भगवानुपमेयः चिन्तयितृत्वं साधारणो धर्मः। णमुल्सामर्थ्याच्च इवादेरप्रयोगेप्युपमानोपमेयभावावसायः। तेनेयमेकलोपे सतिकर्त्रुपमानिका संक्षेपोपमा कृत्प्रत्ययावसेया।
 
-
-
  एवमेषा कृत्प्रत्ययावसेया संक्षेपोपमा द्विविधा प्रतिपादिता।
 
  या तु तद्धितसामर्थ्यावसेया वतिशब्दादवगम्यते सा संपूर्णत्वात्पूर्वमुक्ता। अन्या त्वसंपूर्णाकल्पबादेस्तद्धितस्य प्रयोगादवसीयते। तदुक्तं— **कल्पप्प्रभृतिभिरन्यैश्च तद्धितैः सा निबध्यते कविभिः**—इति। प्रभृतिशब्देनात्र–इवेप्रतिकृतौ (पा. ५-३-९६) इत्यादिविहितानां कनादीनां परिग्रहः।
@@ -1221,8 +1061,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  आयःशूलिक इत्यादौ तु त्रितयलोपेन तद्धितसामर्थ्यादुपमावसायः।तथा हि। अत्रायःशूलेनान्विच्छतीति विगृह्य— अयः शूलदण्डाजिनाभ्याम्(पा.५-२-७६)— इति ठग्विधीयते। अत्र चायःशूलमुपमानम् अर्थान्वेषणोपायः कश्चिदुपमेयः तीक्ष्णत्वादि साधारणो धर्मः उपमानोपमेयभावश्चेति चतुष्टयमवगम्यते। तन्मध्यात्स्वशब्दस्पृष्टमुपमानमयःशूलेनेति। शिष्टशब्दस्य तु त्रितयस्यात्रार्थसामर्थ्यादवगतिः। ननु चात्रोपमानेनायः- शूलेनार्थान्वेषणोपायस्योपमेयस्य तद्भावाध्यवसानेनापादिताभेदस्य प्रतीयमानत्वादतिशयोक्तिरियं न तूपमा। तत्कथमेतदुपमोदाहरणम्। उच्यते। यथा शशिच्छायवदनामित्यत्र सत्यपि शशिच्छायावच्छादितरूपत्वेवदनच्छायायाःकथंचिद्भेदप्रतिपत्तिपुरःसरीकारेणोपमाभेदत्वमुपन्यस्तं तथात्रापि भविष्यतीत्यदोषः। तेनायःशूलिक इत्यत्र त्रितयलोपेसति तद्धितावसेया संक्षेपोपमा भवति।
 
-
-
  एवं श्वा मुमूर्षति कूलं पिपतिषति (पा. ३-१-७ सूत्रस्थं १२ वार्तिकम्)—इत्यादावपि यदि मरणपतनाद्यानुगुण्यस्य उपमेयभूतस्यतद्भावाध्यवसानात्सन्वाच्यया इच्छयोपमानभूतया समापादिताभेदस्यप्रतीयमानस्य भेदावगतिनिबन्धनं किञ्चिद्विद्यते तदोपमाभेदत्वं वाच्यम्। अन्यथात्वतिशयोक्तिभेदतास्यावसेया। यदाह सन्विधौ भगवान्कात्यायनः— आशङ्कायामचेतनेषूपसङ्ख्यानम्। न वा तुल्यकारणत्वादिच्छायाहि प्रवृत्तित उपलब्धिः—इति। उपमानाद्वा सिद्धम्— इति च (पा ३-१-७ सूत्रस्थानि १२,१३,१४ वार्तिकानि)। अत्र हि न वा तुल्यकारणत्वादित्यादिना तद्भावाध्यवसानं सूचितम्। उपमानाद्वा सिद्धमिति तूपमानोपमेयभावः प्रतिपादितः। इयं च धातोः सनोविधानात्तदन्तस्य चधातुत्वात्सुब्धातूपमावद्धातुधातूपमावसेया।
 
  एवं वर्तमानसामीप्यादावप्युपमाभेदत्वमतिशयोक्तिभेदत्वं वा यथाप्रतीति योज्यम्।
@@ -1235,8 +1073,6 @@ to five different views on the interpretation of this definitionof the figure �
  इत्यादेर्गर्भीकृतातिशयोत्प्रेक्षाभेदत्वमेव महता प्रपञ्चेनाभ्यधायि। तेनकदा देवदत्त ग्रामं गमिष्यसि एष गच्छामीत्येवमादावपि वर्तमानसामीप्ये वर्तमानरूपतया भविष्यत्कालसाध्यवसानादतिशयोक्तिभेदत्वमेववाच्यम्। एवमन्यत्राप्यूह्यम्।
 
  एवमेषा वाक्यसमाससुब्धातुकृतद्धितावसेया संक्षेपोपमा पंचविधाप्रतिपादिता। संपूर्णा तु वाक्यसमासतद्धितभेदेन त्रिविधा पूर्वमुक्ता।आसामेव चावान्तरभेदा अन्ये निर्दिष्टाः। तथाहि। संपूर्णयोर्वाक्यतद्धितोपमयोः श्रौतत्वार्थत्वभेदेन प्रत्येकं द्वैविध्यमुक्तम्। संक्षेपोपमायाश्च समासोपमाया एकद्वयत्रयलोपेन चतुर्विधत्वम्। एकलोपस्य हि तत्रद्वैविध्यमुक्तमिवादेः साधारणधर्मवाचिनश्च लोपात्। सुब्धातूपमायाश्च–
-
-
 
 तुर्विधत्वं क्यच्-क्यङ्-क्विप्-प्रत्ययावसेयत्वात्। क्यच्प्रत्ययावयासेयाहिकर्माधिकरणोपमानकत्वेन द्विविधोक्ता। कृत्प्रत्ययावसेयायाश्च कर्तृकर्मोपमानकत्वेन द्विविधत्वम्।
 
@@ -1266,8 +1102,6 @@ to five different views on the interpretation of this definitionof the figure �
 इवोदरप्रतीतापि शब्दसंस्कारतः क्वचित्।  
 उपमा लक्ष्यतेन्यत्र केवलार्थनिबन्धना॥ इति।
 
-
-
  इह प्रकारत्रयेणोपमायाः प्रतिपत्तिः। क्वचिदिवादिशब्दसामर्थ्यादुपमा वाच्यभूता प्रतीयते यथा चन्द्र इव मुखमस्या इत्यादौ। क्वचित्तुतत्तद्विशिष्टसंस्कारसहायाच्छब्दात्स्वार्थाभिधानमुखेन लक्ष्यमाणायास्तस्याः प्रतिपत्तिर्यथा शस्त्रीश्यामेति (पा.२-१-५५ सूत्रस्थभाष्यम्)। अत्र हि समासनिबन्धनैकपद्यादिसंस्कारसहिताभ्यां शस्त्रीश्यामाशब्दाभ्यांस्वार्थाभिधानव्यवधानेन लक्ष्यमाणोपमा गम्यते। क्वचित्तूपमानोपमेयनिबन्धनशब्दसंस्काराभावेपि केवलादेवार्थ सामर्थ्यात्तस्याः प्रतिपत्तिर्यथारूपकदीपकप्रतिवस्तूपमादिष्वित्यर्थः। अतश्चास्यां प्रतिवस्तूपमायां केवलेनैवार्थ्यसामर्थ्येनोपमानोपमेयत्वमवगम्यते इत्यदोषः।
 
   तस्या उदाहरणम्।
@@ -1283,8 +1117,6 @@ to five different views on the interpretation of this definitionof the figure �
 सारसंग्रहलघुवृत्तौ प्रथमो वर्गः।  
 
 *        *
-
-
 
 **द्वितीयो वर्गः।**  
 
@@ -1308,8 +1140,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  वक्ष्यमाणमुक्तं चेष्टमाश्रित्य निषेधाभिधानादाक्षेपो द्विविध इत्यर्थः। ननु **प्रतिषेध इवेष्टस्य**— इत्याक्षेपलक्षणमुक्तम्। इष्टत्वं चेच्छाकर्मता। यस्य च वस्तुनः इच्छाकर्मता तस्य नावश्यमुक्तिक्रियां प्रतिकर्मत्वं भवति। इष्यमाणं हि कदाचिदुच्यते कदाचिन्न। अतश्चेष्टस्यो–
 
-
-
 क्तिकर्मतामाश्रित्य यदेतदाक्षेपस्य वक्ष्यमाणोक्तविषयतया द्वैविध्यमुक्तं तन्न संगच्छत इत्याशङ्क्याह।
 
 **निषेधेनेव तद्बन्धोविधेयस्य च कीर्तितः॥३॥(२६)**
@@ -1324,8 +1154,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  अहो इति विस्मये। अत्र मन्मथमाहात्म्यं तदवस्थाविशेषसंस्पर्शेनप्रतिपादयितुमिष्टम्। तच्च तस्य तथाप्रतिपादनमियदास्तामित्यादिना निषिद्धम्। निषेधश्चात्राभिधेयत्वविरोधात्। अभिधेयत्वेन च विरोधआनन्त्येन तस्य तथाविधस्य वक्तुमशक्यत्वात्। रुद्रेपि नाम ईदृशी दशेति हि सामान्यरूपत्वेन मन्मथमाहात्म्यं प्रतिपादितं न तु विशेषरूपतया। अतो वक्तुमिष्टानां स्मरमाहात्म्यावस्थाविशेषाणामयमानन्त्येनाभिधाननिषेध इव न तु निषेध एव विवक्षितार्थविरोधेनावान्तरवाक्यार्थत्वात्। तथाह्यत्र समुद्राम्भसः कुम्भैर्मातुमशक्यत्वं यदस्मदर्थकर्तृकमभिहितं तत्सादृश्येनानन्त्यविशिष्टत्वेनोत्कर्षयितुमिष्टानां मन्मथ-
 
-
-
 माहात्म्यावस्थाविशेषाणां पूर्वं प्रतिपिपादयिषितत्वेन लब्धप्रतिष्ठानां वाक्यार्थत्वम्। अतश्चतदभिधाननिषेधस्य तद्विरोधादत्रावान्तरवाक्यार्थता। न चावान्तरवाक्यार्थो वाक्यविश्रान्तिस्थानतया वक्तुं शक्यः। न खलुरक्तः पटो भवतीत्यत्ररक्तत्वावच्छिन्नपटभवनपरत्वाद्वाक्यस्य पटभवनपर्यवसानमात्रत्वं सुभणम्। अतोत्रापिनिषेधस्यादान्तरवाक्यार्थत्वेनवाक्यविश्रान्तिस्थानत्वाभावान्निषेधरूपत्वमिव न तु निषेधरूपता। सच निषेधोत्रावान्तरवाक्यार्थत्वात्प्रधानवाक्यार्थानुगुण्येन प्रवर्तमानः स्वकण्ठेनाभिधानं मन्मथमाहात्म्यावस्थाविशेषाणां निषेधति न पुनरर्थसामर्थ्यावसेयमपि। अतश्च समुद्राम्भसः कुम्भैर्मातुमशक्यत्वमस्मदर्थकर्तृकं स्वकण्ठेनाभिहितं यत्तत्सादृश्येनावसिते संविज्ञानपदशून्ये स्मरमाहात्म्यावस्थाविशेषाणामानन्त्यलक्षणे विशेषे वाक्यस्य पर्यवसानम्। तेनायमिष्टमथ प्रतिषेधव्याजेन विशेषेवस्थापयति तस्मादाक्षेपः। अत्र च—अहो स्मरस्य माहात्म्यं यद्रुद्रेपि दशे दृशी— इत्येतच्छब्दव्यापारसहायेनइयदास्ताम्—इतिनिषेधेनैव स्वकण्ठेनानुपात्तानामपि मन्मथमाहात्म्यवस्थाविशेषाणां वक्ष्यमाणतया सूचनम्। तेषां च तथासूचितानां निषेधव्याजेन संविज्ञानपदशून्यानन्त्यभेदप्रतिपादनम्। अतो वक्ष्यमाणविषयता आक्षेपस्य।
 
   उक्तविषयस्य तु तस्योदाहरणम्।
@@ -1338,8 +1166,6 @@ to five different views on the interpretation of this definitionof the figure �
  वस्तु प्रसिद्धमिति यद्विरुद्धमिति वास्य वचनमाक्षिप्य।
 
  अन्यत्तथात्वसिद्ध्यैयत्र ब्रूयात्स आक्षेपः॥ इति। (रुद्रट का. ८-९९)प्रसिद्धत्वं चात्र समर्थयितुं कालसादृश्यमुक्तम्। यथा कालस्यान्ते
-
-
 
 नेक्ष्यते तद्वत्कामविकल्पानाम्। अतो नैवात्र चित्रत्वमन्यत्राप्यस्य रूपस्यपरिदृष्टत्वादिति। कालतुल्यतया चात्र कामविकल्पानामानन्त्यात्मकोविशेषः संविज्ञानपदशून्योभिभित्सितः। तस्य च चित्रतया सामान्येनपूर्वमुपक्रान्तस्याधुना निषेधवशेन संविज्ञानपदशून्येन विवक्षितेन रूपेण वाक्यार्थीभूतत्वान्निषेधस्य पूर्ववदवान्तरवाक्यार्थता। तेन क्व वेत्ययंनिषेध इव न तु निषेध एव। तेनात्रोक्तविषयता आक्षेपस्य। तदाहुः—
 
@@ -1361,8 +1187,6 @@ to five different views on the interpretation of this definitionof the figure �
 
 तन्नास्ति यन्न कुरुते लोको ह्यत्यन्तकार्यिकः।  
 एष शर्वोपि भगवान्बटूभूय स्म वर्तते॥\*३॥
-
-
 
  बटूभूय अचिरकृतोपनयनत्वमापद्य। अत्र शर्वस्य सर्वलोकातिशायिनोबटूभावेन
 वृत्तिमनुपपद्यमानतयाशङ्क्यतत्समर्थनाय समर्थकं पूर्वमेवोपन्यस्तम्— तन्नास्ति यन्न कुरुते — इति। अत्यन्तकार्यिकत्वादनुचितमपिरूपमनुभूतवान् शर्वस्तदन्यैवंविधपुरुषवदिति। अत्र च हिशब्देनाभिव्यक्तः समर्थ्यसमर्थकभावः।
@@ -1386,8 +1210,6 @@ to five different views on the interpretation of this definitionof the figure �
 विसंवदेद्धि प्रत्यक्षं निर्ध्यातं ध्यानतो न तु॥\*५॥
 
  अत्र हरस्य व्यवहिताद्यर्थविषयत्वेनाप्रतिहतबाह्येन्द्रियवृत्तित्वात्सति बाह्येन्द्रियजन्यप्रत्यक्षसंभवे ध्यानाश्रयणमयुक्तत्वेन संभाव्य तत्समर्थ-
-
-
 
 नायोक्तं–विसंवदेद्धिप्रत्यक्षामित्यादि। अत्यन्ताविसंवादकोपलब्ध्युपायार्थित्वाद्ध्यानमास्थितवान् हर इति।
 
@@ -1414,8 +1236,6 @@ to five different views on the interpretation of this definitionof the figure �
 
 इत्यत्र यथा चन्द्रगुणपक्षपातित्वेन कुमुदिन्याश्चन्द्रालोके कुमुदं विकसति
 
-
-
 तद्वत्त्वद्गुणपक्षपातित्वात्तस्यास्त्वद्दर्शने मनो मन्मथाग्निप्रज्वलितमुशाम्यतीति समर्थ्यसमर्थकभावोवगम्यते। तेन दृष्टान्तेप्यर्थान्तरन्यासताप्रसङ्गइत्याशङ्क्याह—
 
 **प्रकृतार्थसमर्थनात्।**
@@ -1437,8 +1257,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  उपमानोपमेययोः परस्परं यत्र विशेषःख्याप्यते स व्यतिरेकः। तत्र ह्युपमानादुपमेयस्योपमेयादुपमानस्य वा केनचिद्विशेषेणातिरेक आ-
 
-
-
 धिक्यं तस्माद्व्यतिरेकः। स च द्विविधः। तत्र विशेषख्यापननिमित्तस्यार्थसामर्थ्यादाक्षेपादेकः प्रकारः। अपरस्तु तस्य स्वशब्देन प्रतिपादनात्। तदुक्तं—**निमित्तादृष्टिदृष्टिभ्यां द्विधा**—इति। एतावपि च भेदौ प्रत्येकंद्विविधौ। क्वचिद्धिअर्थसामर्थ्यात्प्रतीयमाने उपमानोपमेयभावे पूर्वोक्तेनप्रकारद्वयेन व्यतिरेकः ख्याप्यते क्वचित्तु इवादिभिरुपात्तैः।
 
  तत्रार्थसामर्थ्येन यत्रोपमानोपमेयभावोवगम्यते तत्र पूर्वस्मिन्प्रकारद्वयेपूर्वभेदस्योदाहरणम्।
@@ -1456,8 +1274,6 @@ to five different views on the interpretation of this definitionof the figure �
 स्फुरच्छायेन सततं मुखेनाधःप्रकुर्वतीम्॥\*८॥
 
  मुखमुपमेयम्। पद्ममिन्दुश्चोपमानम्। तच्चात्र द्वयं स्वकण्ठस्पृष्टम्तयोस्तु साधारणो धर्मः कान्तिमत्तादिरुपमानोपमेयभावश्चेत्येतदुभयं सामर्थ्यादवगम्यते। न खल्वत्र वक्ष्यमाणव्यतिरेकवदुपमानोपमेयभावस्य
-
-
 
 द्योतका इवादय उपात्ताः। अधःप्रकुर्वतीमिति चोपमानादुपमेयस्य विशेषःख्यापितः। तत्र च निमित्तमुपात्तमुपमानोपमेयोभयाधारत्वेन। उपमानयोस्तावत्पद्मचन्द्रयोर्निशि दिवा च यथाक्रमं निःश्रीकत्वनिष्प्रभत्वे। उपमेयेतु रात्रिन्दिवं स्फुरच्छायता। अतो विशेषे निमित्तदर्शनेनायं व्यतिरेकः।
 
@@ -1479,8 +1295,6 @@ to five different views on the interpretation of this definitionof the figure �
  शीर्णपर्णाम्बुवतानामाशो भक्षणम्। अत्रान्यतपस्विन उपमानम्। भगवत्युपमेया। साधारणश्च धर्मः कष्टे तपस्यवस्थित्वाच्चेतसः सोल्लासता। वतिश्चात्र गर्वोद्वहननिबंधनं यत्तच्चेतसः सोल्लासत्वं तन्निबन्धनमुपमानोपमेयभावमवगमयति। गर्वं न समुद्वहन्तीमित्युपमानादुपमेयस्य विशेषः प्रतिपादितः। अन्ये किल तपस्विनः सातिशयतपोवशात्समुल्लसितचित्ताः सन्तो गर्वं समुद्वहन्ति। भगवती त्वत्यन्तमुपशान्तचित्तत्वान्नतथा। एवं चात्र गर्वापक्रमावस्थापेक्षमुपमानोपमेययोः सादृश्यं तदनिर्वाहात्तूपमानादुपमेयस्य व्यतिरेकः। अनिर्वाहे च निमित्तमत्र स्वकण्ठेनानुपात्तमप्यर्थसामर्थ्यादवगम्यते अत्यन्तोपशान्तचित्तत्वं नाम।
 
  एवमयं निमित्तादर्शने वत्युपात्तोपमानोपमेयभावो व्यतिरेक उदाहृतः। निमित्तोपादाने तु तस्योदाहरणमुन्नेयम्।
-
-
 
  एवमेते चत्वारो व्यतिरेकाः प्रतिपादिताः। निमित्तदर्शनादर्शनाभ्यांयौ व्यतिरेकौ तयोः प्रत्येकमुपमानोपमेयभावस्य इवाद्युपादानानुपादानाभ्यां द्विभेदत्वात्।
 
@@ -1507,8 +1321,6 @@ to five different views on the interpretation of this definitionof the figure �
 क्रियायाः प्रतिषेधे या तत्फलस्य विभावना।  
 ज्ञेया विभावनैवासौ समाधौ सुलभे सति॥९॥ (३२)
 
-
-
  इह यत्किंचिज्जायते तत्सर्वं क्रियाफलं क्रियामुखेन कारणेभ्यः कार्योत्पत्तेः प्रातीतिकेन रूपेण परिदृश्यमानत्वात्। सर्वेषां फलभूतानांक्रियैवाव्यवहितं कारणम्। यत्र च क्रिया प्रतिषिध्यते अथ च क्रियाफलस्योत्पत्तिरुपदिश्यते तत्र विभावनाख्योलंकारः। कारणविगमे किलकार्यस्य तत्रोत्पत्तिरुपवर्ण्यते अतो विरुद्धाभासा भावना उत्पादना तेनविभावना। नन्वेवं सति व्यर्थदोषत्वप्रसङ्गः— विरुद्धार्थं मतं व्यर्थम्—इति। अत आह—**समाधौ सुलभे सति**—इति। समाधिः परिहारः। यत्र विरोधस्य सुलभः परिहार इत्यर्थः।
 
   तस्या उदाहरणम्।
@@ -1524,8 +1336,6 @@ to five different views on the interpretation of this definitionof the figure �
 अप्रस्तुतार्थकथनं समासोक्तिरुदाहृता॥१०॥ (३३)
 
  यत्र प्रस्तुतार्थनिष्ठं वाक्यं तत्समानैर्विशेषणैस्तेनापकृतेनार्थेन तुल्यानि यानि विशेषणानि तद्द्वारेण सादृश्यवशादप्रस्तुतमर्थमुपमानभूतं कथयति सा संक्षेपेणोपमानोपमेयलक्षणार्थद्वितयाभिधानात्समासोक्तिः।
-
-
 
   तस्या उदाहरणम्।
 
@@ -1552,8 +1362,6 @@ to five different views on the interpretation of this definitionof the figure �
 तपस्तेजःस्फुरितया निजलावण्यसंपदा।  
 कृशामप्यकृशामेव दृश्यमानामसंशयम्॥\*१३॥
 
-
-
  अत्र यासावकार्श्यावस्था भगवत्याः पूर्वमभूत्ततो भिन्नमपि तपोजनितं कार्श्यंतदभेदेनोपनिबद्धमकृशामेवेति। तत्र च निमित्तं तपस्तेजसा सविशेषत्वमापादितः सौन्दर्यसंभारः। अतो निमित्तवशेन लोकातिक्रान्तो गोचरोस्य वाक्यस्य। तेनेयमतिशयोक्तिः।
 
  द्वितीयस्य तु भेदस्योदाहरणम्।
@@ -1570,8 +1378,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  शशिद्योतच्छटा चन्द्रप्रकाशप्रकारः। अस्याः करे मुक्ताफलाक्षमालायास्तदा उपमा स्यादिति संबन्धः। अत्र रजनिकरकरसंपर्के सतिकमलस्य संकोचावलोकनाद्विकाशित्वं बहिरसंभवदपि कविप्रजापतिनाप्रतिभोपजनितेन स्वव्यापारेण संभवद्रूपतया प्रदर्शितम्। अतोत्र संभाव्यमानार्थनिबन्धः। तस्य च लोकातिक्रान्तगोचरस्यार्थस्य संभावनायानिमित्तं भगवती कराधारतया मुक्ताफलाक्षमालावलोकनम्। तथाह्ययंतावल्लोकातिक्रान्तोपरिदृष्टपूर्वोस्माभिर्गौरीकरमुक्ताफलाक्षमालयोराधाराधेयभावोवलो-कितः। तत्सजातीयस्य पद्मस्य विकाशिनश्चन्द्रकराणां चयद्याधाराधेयभावः स्यात्तदात्रोपमानोपमेयभावो भवेदिति संभावना प्रवृत्ता। अतोत्र सजातीयपदार्थदर्शनाद्बहिरसंभवदपि वस्तु संभवद्रूपतयोपवर्ण्यते। एकस्मिन् खलुपदार्थे परिदृष्टे अन्यस्मिन्ननवलोकिसेपि तत्सजातीय संभावना प्रवर्तते। तथादाक्षिणात्यस्यैकस्मिन्नुष्ट्रेपरिदृष्टे सत्यपरिदृष्टष्ट्रान्तरसंभावना। अतोत्र संभावना सनिमित्ता। अनेन च प्रकारेणात्रोपमानाभावः प्रकृतस्य वस्तुनः प्रदर्श्यते नास्त्यन्यत्किंचिदस्थोप-
 
-
-
 मानमिति। अत एव संभाव्यमानतयार्थस्योपनिबद्धस्य निराचिकीर्षया यदिशब्दः प्रयुक्तः। यदिशब्देन ह्यत्राशङ्का द्योत्यते। आशङ्का चानिश्चितसद्भावे वस्तुनि भवति। यच्चानिश्चितसद्भावं कविवेधसासंभवद्रूपतयोपदर्शितं वस्तु तस्य पुराणप्रजापतिनिर्मितपदार्थविषयया तद्विरुद्धया लोकप्रतीत्या यावन्निराक्रियमाणत्वं तावन्निरुपमत्वं प्रतीयते। एवमयं तृतीयो भेदः॥
 
   चतुर्थस्तु।
@@ -1585,8 +1391,6 @@ to five different views on the interpretation of this definitionof the figure �
 सारसंग्रहलघुवृत्तौ द्वितीयो वर्गः॥**  
 
 ***          ***
-
-
 
 **तृतीयो वर्गः।**
 
@@ -1617,8 +1421,6 @@ to five different views on the interpretation of this definitionof the figure �
 
 —इति। यत्रापि हि साधर्म्याभावादुपमानोपमेयभावाभावेन व्यतिरेकादेरुपनिबन्धाभावस्तत्राप्ययं शोभातिशयमावहतीत्यर्थः।
 
-
-
 कज्जलहिमकनकरुचः सुपर्णवृषहंसवाहनाः शं वः।  
 जलनिधिगिरिपद्मस्था हरिहरचतुरानना ददतु॥ इति।  
                          (रुद्रटः–का.७.३६)
@@ -1646,8 +1448,6 @@ to five different views on the interpretation of this definitionof the figure �
  यत्रेवादिपदनिबन्धः साम्यस्य च रूपं न विवक्ष्यते तत्रोत्प्रेक्षाख्योलंकारः। नन्वेवं सत्यसंभवो नाम लक्षणदोषः प्राप्तः द्योत्यस्योपमानोपमेयभावस्याभावे सति
 इवादीनामप्रयोगप्रसंगादित्याशङ्क्योक्तमतद्गुणक्रियायोगादिति। द्रव्यधर्मः सिद्धो गुणः साध्यस्वभावस्तु क्रिया। इदं
 
-
-
 खलु विश्वं स्वतन्त्रपरतन्त्रपदार्थात्मकत्वाद्दविविधम्। यश्चस्वतन्त्रः पदार्थः स धर्मीत्यभिधीयते। तच्च इदं तदिति सर्वनामप्रत्यवमर्शयोग्यत्वाद्द्रव्यम्।परतन्त्रस्य पदार्थस्य धर्मरूपता। तस्य च द्वैविध्यं सिद्धसाध्यताभेदात्। तंत्र यः सिद्धो धर्मः स गुणो यस्तु साध्यः सा क्रिया। एतावन्तश्च लौकिकाः पदार्थाः। सामान्यादीनामत्रैव प्रातीतिकेन रूपेणान्तर्भूतत्वात्। अत्र असोप्रकृतो योर्थस्तस्य ये क्रियागुणा अनन्तरोक्तलक्षणास्तद्योगात्साम्यरूपाविवक्षायामपि इवादिशब्दप्रवृत्तिरविरुद्धा। यत्र किलोपमानोपमेयभावेन साम्यं
 तत्रोपमानसादृश्यादुपमानवर्तिनां क्रियागुणानामुपमेये प्रतीतिर्भवति। उत्प्रेक्षायामपि च योसावसःअप्रकृतस्तस्य ये क्रियागुणास्ते तस्मिन्नप्रकृते वस्तुन्युपमानतयानुलिङ्गितेपि प्रकृते वस्तुन्यासज्यन्ते। तेनाद्गुणक्रियायोगादस्य इवादिवाच्यत्वम्। अत एवान्यधर्माणां स्वधर्मिभूताद्वस्तुन उत्कलितानां रसभावाद्यभिव्यक्त्यनुगुणतया वस्त्वन्तराध्यस्तत्वेन लब्धप्रकर्षाणामीक्षणादियमुत्प्रेक्षा। नन्वेवमपि सुतरामसंभवः। न हि वस्त्वन्तरधर्मा वस्त्वन्तरे समासङ्क्तुं शक्या इत्याशङ्कयोक्तम् —
 
@@ -1671,8 +1471,6 @@ to five different views on the interpretation of this definitionof the figure �
 
 इत्येवमादाविवादेरप्रयोगादुत्प्रेक्षात्वाभावप्रसङ्ग इत्याशङ्क्याह—
 
-
-
 **वाच्येवादिभिरुच्यते॥४॥(४०)**
 
  द्विविधा खलूत्प्रेक्षा। काचिदिवादिप्रयोगे सति भवति काचित्त्वप्रयुज्यमानेष्वपीवादिष्वार्थ सामर्थ्यादवगम्यमानेषु। तत्र या वाच्या स्वकण्ठेनेवादिभिर्वक्तव्या सा इवादिभिरुच्यते। यात्वर्थ सामर्थ्याक्षिप्तैरिवादिभिरवगम्यते तत्रेवादीनामप्रयोगः। चन्दनासक्तभुजगेत्यादौ च मलयमारुतस्य यदेतन्मन्मथाविर्भावनिबन्धनत्वात्पथिकमूर्छाहेतुत्वं तत्र भुजगनिश्वासमूर्च्छितत्वे कारणत्वेनोत्प्रेक्ष्यमाणे इवाद्यर्थोर्थसामर्थ्यादवगम्यतेतेनैवादीनामप्रयोगः।इवादिशब्दसामर्थ्यावसेयायामेवोत्प्रेक्षायामिवादीनां प्रयोगात्।
@@ -1683,8 +1481,6 @@ to five different views on the interpretation of this definitionof the figure �
 श्यामिकाङ्केन पतितं मुखे चन्द्रभ्रमादिव॥\*२॥
 
  अस्या मुखे जपैर्हेतुभूतैः श्यामिकाङ्केन पतितमिति संबंधः। अत्र जपासक्ता भगवती अर्कमवलोकयतीति तस्याः शशाङ्कसदृशेमुखे श्यामिका संजाता। तच्चात्र तस्याः श्यामिकाया जन्म अतिशयोक्त्या पातरूपतया प्रतिपादितं पतितमिति। सा चात्र श्यामिका शाशिलाञ्छनेन शशेन तुल्या। अतस्तस्याः शशिलाञ्छनशशतुल्यत्वादुपसर्जनोपमेयं रूपकं श्यामिकैवाङ्ग इत्युपनिबद्धम्। तस्य चाङ्कस्यश्यामिकोपरक्तस्य भगवतीवदननिपाते कारणत्वेनेन्दुभ्रांतिरुत्प्रेक्षितायदेतच्छशिनो लाञ्छनं श्यामिकारूपं तद्भगवतीवदने इन्दुभ्रान्त्येव निपतितमिति। इन्दुभ्रान्तिश्च गुणः सिद्धरूपत्वे सति द्रव्यधर्मत्वात्। एवंचात्र शशसदृशी श्यामिका चैतन्यशून्यत्वेन भगवतीवदनमिन्दुभ्रान्त्यान गोचरीकरोति। अथ च तस्याः शशभावमापादिताया इन्दुभ्रमलक्षणेन चेतनधर्मेण संबन्धो निबद्धः। तेनात्र तस्य वस्त्वन्तरस्य चेतन-
-
-
 
 स्य योसौ गुणो भ्रमलक्षणस्तद्योगादिवादेः प्रवृत्तिः। इन्दुभ्रमश्चभावरूपो गुणः शशीकृतश्यामिकाकर्तृकतया कविनिबद्धेन वक्त्रा भगवताभिमानेनाध्यवसितः। तेनेयमतद्गुणयोगेन भावाभिमानेन उत्प्रेक्षा।
 
@@ -1716,8 +1512,6 @@ to five different views on the interpretation of this definitionof the figure �
 
 **संग्रहलघुवृत्तौ तृतीयोवर्गः॥**
 
-
-
 **चतुर्थो वर्गः।**  
 
 **![](../books_images/U-IMG-1730318124विद्याश्रीएम्९.png)**
@@ -1734,8 +1528,6 @@ to five different views on the interpretation of this definitionof the figure �
 तत्सहोक्त्युपमाहेतुनिर्देशात्त्रिविधं यथा।
 
 इतिश्लिष्टस्य त्रैविध्यमाह। अतो विप्रतिपत्तिनिरासाय तथेत्युक्तम्। उदात्ते तु द्विधेत्ययमनुवादो दृष्टान्तत्वार्थः। यथा उदात्तस्य द्वैविध्यंप्रमाणोपपन्नत्वादङ्गीकृतं तथा श्लिष्टस्यापि तदङ्गीकर्तव्यमित्यर्थः।
-
-
 
 ** प्रेयस्व**त्तावत्।
 
@@ -1762,16 +1554,12 @@ to five different views on the interpretation of this definitionof the figure �
 स्तम्भः स्वेदोथ रोमाञ्चः स्वरभेदोथ वेपथुः।  
 वैवर्ण्यमश्रु प्रलय इत्यष्टौ सात्विकाः स्मृताः॥
 
-
-
  एतेषां पञ्चाशत्संख्यानां भावानां सूचकाश्चत्वारोनुभावादयः। तेचानुभावो विभावो व्यभिचारी स्वशब्दश्च। तत्रानुभावश्चतुर्विधः आङ्गिकोवाचिकः सात्विक आहार्यश्च। आङ्गिको हस्ताभिनयादिः। वाचिकः काक्वादिप्रयोगः। सात्विकः स्तम्भादिः। आहार्यस्तु प्रतिशीर्षकञ्चुकादिः। एवमयमनुभावश्चतुःसंख्यः कार्यत्वात्कारणभूतान्भावान्गमंयति।विभावस्तु द्विविधः आलम्बनोद्दीपनरूपत्वात्। तत्रालम्बनविभावोयदाश्रयेण रत्यादीनामुदयः यथा रामादेः सीतादिः। उद्दीपनविभावस्तु यद्वशेन रत्यादीनां भावानामतिशयेन दीप्तता भवति यथा ऋतुमाल्यानुलेपनादिः। एवमेष द्विविधो विभावो रत्यादीनां कारणभूतः।स च कारणत्वात्कार्यभूतान् रत्यादीन्गमयतीति। यथातिबहलनीलजलदोदयो वृष्टिम्। यथा हि कार्यस्य सुविवेचितस्य कारणं प्रत्यव्यभिचारिता एवं कारणस्यापि सुविवेचितस्य कार्यं प्रत्यव्यभिचारिताव्यवहारे बाहुल्येन दृश्यते। अतो विभावः कारणत्वाद्रत्यादीन् कार्यभूतान् गमयति। व्यभिचारी तु रत्यादिकानां स्थायिनां भावानामवस्थाविशेषरूपो निर्वेदादिः। स च सहचारित्वात्स्थायिनो भावान्प्रतिपादयति रथस्यैकमिव चक्रं चक्रान्तरम्। स्वशब्दस्तु रत्यादिः। स च वाचकत्वाद्भावान् गमयति। रत्यादीनां च शब्दानां यद्यप्यनुभावैक गोचरस्वलक्षणस्वभावरत्याद्यवगतिनिबन्धनत्वं नोपलभ्यते तथाप्यंशेन
 रत्याद्यवगतिनिबन्धनत्वमनुभावादिवद्विद्यत एव। यथा खल्वनुभावादयोन स्वलक्षणतया भावानवगमयन्ति अपि तु सामान्यरूपतया तद्वत्स्वशब्दा अपीत्यास्ताम्।
 
  एवमेते भावानामवगतिहेतवश्चत्वारः। यदुक्तं **भट्टोद्भटेन–चतूरूपा भावाः**–इति।
 
  तदेषां रत्यादिकानां भावानां पञ्चाशत्संख्यानां यान्यनुभावादिभिश्चतुःसंख्यैः समस्तत्वेन व्यस्तत्वेन च यथायोगं सूचनानि स्वलक्षणस्वरूपाणां सामान्यावस्थोदितानां प्रतिपादनानि तैः काव्यमुपनिबध्यमानं प्रेयस्वत्। प्रेयःशब्दवाच्येन प्रियतरेण रत्यालम्बनेन विभावनेन
-
-
 
 रतिरुपलक्ष्यते। तया च साहचर्याद्रत्यादयो भावाः पञ्चाशदवगम्यन्ते। एवं च भावकाव्यस्य प्रेयस्वदिति लक्षणया व्यपदेशः। अत्र च भावानामलंकारता काव्यमलंकार्यम्।
 
@@ -1794,8 +1582,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  एते च शृङ्गारादयो नव यथायोगं चतुर्वर्गप्राप्त्युपायतया तदितरपरिहारनिबन्धनतया च रत्यादीनां स्थायिनां नवानां भावानां यः परिपोषस्तदात्मकाः अतस्तथाविधेन रूपेणास्वाद्यत्वादास्वादभेदनिबन्धनेन तान्त्रिकेण रसशब्देनाभिधीयन्ते। निर्वेदादौ तु तथाविधस्यास्वाद्यस्याभावात्प्रवृत्तिनिमित्तभेदनिबन्धनस्य तान्त्रिकस्य रसशब्दस्याप्रवृत्तिः आस्वाद्यत्वमात्रविवक्षया तु तत्रापि मधुराम्लादिवद्रसशब्दप्रवृत्तिरविरुद्धा यदुक्तं शृङ्गारादीत्रसाननुक्रम्य–
 
-
-
 रसनाद्रसत्वमेषां मधुरादीनामिवोक्तमाचार्यैः।  
 निर्वेदादिष्वपि तत्प्रकाममस्तीति तेपि रसाः॥ इति।
 
@@ -1807,8 +1593,6 @@ to five different views on the interpretation of this definitionof the figure �
 स इति चैतन्यभेद इत्यर्थः। तादृश इत्यनेनास्वादविशेषनिबन्धनत्वंशृङ्गारादिषु तान्त्रिकस्य रसशब्दस्योक्तम्। एषां च शृङ्गारादीनां नवानांरसानां स्वशब्दादिभिः पञ्चभिरवगतिर्भवति। यदुक्तं
 
 भट्टोद्भटेन— पञ्चरूपा रसाः
-
-
 
 —इति। तत्र स्वशब्दाः शृङ्गारादेर्वाचकाः शृङ्गारादयः शब्दाः स्थायिनो रसानामुपादानकारणप्रख्या रत्यादयो नव भावाः। संचारिणस्तु निर्वेदादयोरसानामवस्थाविशेषरूपाः। विभावास्तु तेषांनिमित्तकारणभूता योषिदादयः ऋतुमाल्यानुलेपनादयश्च। आङ्गिकादयस्तुचत्वारो रसानां कार्यभूता अभिनयाः। एतेषां च स्वशब्दादीनां पञ्चानांसमस्तव्यस्ततया आस्पदत्वाद्येन काव्येन स्फुटरूपतया शृङ्गारादिरसा विर्भावो दर्श्यते तत्काव्यं रसवत्। रसाः खलु तस्यालंकारः।
 
@@ -1824,8 +1608,6 @@ to five different views on the interpretation of this definitionof the figure �
 क्षणं प्रमोदालसया दृशास्यास्यमभूष्यत॥\*४॥**
 
  कदम्बकलिकाकोशः कदम्बकलिकाभ्यन्तरम्। अत्र भगवत आभिलाषिकविप्रलम्भशृङ्गारो निबद्धः। तस्य स्वशब्दः कन्दर्पः प्रबल इति। स्थायी तत्रैव स्वशब्देनोन्मीलितः कन्दर्प इति रतिपरिपोषात्मको हिशृङ्गारो रसः। रतिश्च यूनोर्मन्मथात्मिका। अतो रतिविशेषस्य वाचक-
-
-
 
 त्वात्कन्दर्प शब्दः स्थायिनोत्र स्वशब्दः। संचारिणश्चौत्सुक्यचिन्ताहर्षाः स्वशब्देनोन्मीलिताः। स्वेदरोमाञ्चौच सात्विकौ स्वशब्दोपातौ। तयोरपिच संचारित्वम्। सात्विकानां स्थायिभावावस्थाविशेषत्वेन निर्वेदादिवत्संचारित्वात्। विभावस्तु इति भावयतस्तस्येति निर्दिष्टः। भगवतीहि तत्तद्गुणोपेतत्वेन विभाव्यमाना विभावः। अभिनयस्त्वत्रापाङ्गाभिनयोनिर्दिष्टो **दृशा—**इति। अतोत्राभिलाषिकः शृङ्गाररसः स्वशब्दादिभिः पञ्चभिरभिव्यज्यते।
 
@@ -1844,8 +1626,6 @@ to five different views on the interpretation of this definitionof the figure �
 
 **तथा कामोस्य ववृधे यथा हिमगिरेः सुताम्।  
 संग्रहीतुं प्रववृते हठेनापास्य सत्पथम्॥\*५॥**
-
-
 
  अत्र सकललोकातिशायिनोभगवतोकृतविवाहकुमारीविषयतया हठसंग्रहःशास्त्रसंविद्विरुद्धः प्रवृद्धरागकारणक उपनिबद्धस्तेन ऊर्जस्विता। तत्र कामो ववृधे इत्ययं शृङ्गाररसस्य स्वशब्दः तस्य रतिपरिपोषकात्मकत्वेन कामवृद्धिस्वभावत्वात्। कामशब्दस्त्वेतदन्तर्गतः शृङ्गारस्य यासौस्थायिभूता रतिस्तस्याःस्वशब्दः। हिमगिरेः सुतामित्यालम्बनविभावः। हठेनेत्यनेनावेगलक्षणो व्यभिचारी भावः प्रतिपादितः। अपास्य सत्पथ मिति तु मोहः। संग्रहीतुं प्रववृत इत्याङ्गिकोनुभावः। एवमयमत्र पञ्चभिः स्वशब्दादिभिरूर्जस्विलक्षणः शृङ्गारः सूचितः।
 
@@ -1868,8 +1648,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  अत्र लम्बालकत्वादयः कार्यरूपत्वात्कारणभूतं गजासुरवधं वाच्यवाचकव्यापारास्पृष्टमपि गमयन्ति। तेन च तथाविधया विच्छित्याव-
 
-
-
 गम्यमानेनार्थेन ते लम्बालकत्वादयोर्था अलंक्रियन्ते। तस्मात्पर्यायोक्तमलंकारः॥
 
 **समाहितम्।**
@@ -1888,8 +1666,6 @@ to five different views on the interpretation of this definitionof the figure �
 उपासर्पद्गिरिसुतां गिरिशः स्वस्तिपूर्वकम्॥९॥**
 
  समादधन्निजे रूपेवस्थापयन्। समादधदित्यभ्यस्तत्वान्नुमोप्रवृत्तिः। अत्र भगवता शृङ्गारस्य येनुभावाः कान्तदृष्ट्यादयस्तेषामवहित्थेनआकारप्रच्छादनात्मकेन भावेन तिरोधानं विहितम्। यदुक्तं स्वस्तिपूर्वकमिति। अनेन ह्याकारतिरोधानमपदर्शितम्॥
-
-
 
 **उदात्तम्।**
 
@@ -1919,8 +1695,6 @@ to five different views on the interpretation of this definitionof the figure �
  न केवलमृद्धिमद्वस्तुदात्तं यावदर्थप्राप्तावनर्थपरिहारे चोद्यतानांविपुलाशयानां चेष्टितमपि। तदुक्तम् **चरितं च महात्मनाम्**—इति। न च विपुलाशयचेष्टिते उपनिबध्यमाने तस्य
 शृङ्गारादिरसप्रतिपत्तिहेतुत्वाद्रसवदलंकारानुप्रवेशोत्र सुभणः विपुलाशयचेष्टितस्यात्र वस्त्वन्तरोपलक्षणत्वेनावान्तरवाक्यार्थीभूतत्वात्। न खल्वत्र महापुरुषचेष्टितं
 
-
-
 वाक्यतात्पर्यगोचरतामनुभवति अर्थान्तरोपलक्षणपरत्वात्। यत्र चरसास्तात्पर्येणावगम्यन्ते तत्र तेषां वाक्यविश्रान्तिस्थानत्वेन चतुर्वर्गतदितरप्राप्तिपरिहारोपायभूतस्थायिभावपरिपोषात्मनास्वाद्यमानत्वाद्रसवदलंकारो भवति। तेन कुतोत्ररसवदलंकारगन्धोपि। तदुक्तम्— **उपलक्षणतां प्राप्तं नेतिवृत्तत्वमागतम्**—इति।
 
   तस्योदाहरणम्।
@@ -1944,8 +1718,6 @@ to five different views on the interpretation of this definitionof the figure �
 
 त्रमिति। एवं चावस्थिते ये तत्त्न्त्रेणोच्चारयितुं शक्यन्तेएकप्रयत्नोच्चार्याः। तद्बन्धे सत्यर्थश्लेषो भवति। तदुक्तम्— **एकप्रयत्नो-**
 
-
-
 **च्चार्याणामिति।**तथा ये तेषामेवैकप्रयत्नोच्चार्याणां शब्दानां छायांसादृश्यं बिभ्रतितदुपनिबन्धे च शब्दश्लिष्टम् शब्दान्तरे उच्चार्यमाणेसादृश्यवशेनानुच्चारितस्यापि शब्दान्तरस्य श्लिष्टत्वात्। तदुक्तम्— **तच्छायां चैव बिभ्रताम्। स्वरितदिगुणैर्भिन्नैर्बन्धः श्लिष्टमिति** तथा— **शब्दोक्तिविशिष्टं तत्प्रतीयतामिति।**
 
  एतच्च श्लिष्टं द्विविधमप्युपमाद्यलंकारप्रतिभोत्पादनद्वारेणालंकारतांप्रतिपद्यते।अतोनेनानवकाशत्वात्स्वविषये अलंकारान्तराण्यपोद्यन्तेतेषां विषयान्तरे सावकाशत्वात्।तदुक्तम्—**अलंकारान्तरगतां प्रतिभां जयनत्पदैः। द्विविधैरिति।** अलंकारान्तराणामत्रप्रतिभामात्रं न तु पदबन्ध इत्यर्थः।
@@ -1967,8 +1739,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  अस्वापफललुब्धेहितप्रदेत्यत्र तु भगवतीपक्षे अस्वापं सुखेनाप्तुंयन्न शक्यते फलं तत्र ये लुब्धास्तेभ्य ईहितमीप्सितं प्रददातीत्यर्थः। प्रभातसंध्यापक्षे तु स्वापस्य निद्रानुभवस्य यत्फलं श्रमनिवृत्तिलक्षणं तत्र यो
 
-
-
 न लुब्धः संध्योपासनप्रवृत्तत्वात्तद्विषयं हितमदृष्टं समर्पयतीत्येवंविधोर्थः।
 
  अत्र च पूर्वस्मिन्पक्षे ऐकपद्यात् थाथादिस्वरेणान्तोदात्तत्वम् (पा.सू. ६-२-१४४)। उत्तरत्र पुनरस्वापफललुब्धे इति हितप्रदेति चअनयोर्भिन्नपदत्वान्नास्वरत्वम् अस्वापफललुब्ध इत्यस्य-तत्पुरुषे तुल्यार्थेति(पा.सू. ६-२-२) पूर्वपदप्रकृतिस्वरेणाद्युदात्तत्वात् हितप्रदेस्यस्य तुथाथादिस्वरेणान्तोदात्तत्वात्। तेनात्र स्वरभेदः। अस्वापेति च अकारस्यफललुब्ध इति च एकारस्योभयोः पक्षयोर्यथायोगं लाघवालाघवाभ्यांप्रयत्नभेदोपि। अतस्तन्त्रेणोच्चारयितुमशक्यता। एकस्मिंस्त्वत्र शब्देसमुच्चारिते शब्दान्तरस्य तत्सादृश्यात्प्रतिपत्तिः। अतोयं शब्दश्लेषः।
@@ -1979,8 +1749,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  अत्र च मुक्ताश्रीरित्यत्र स्वरभेदो विद्यते बहुव्रीहिपक्षे बहुव्रीहौप्रकृत्येति(पा.सू.६-२-१) पूर्वपदप्रकृतिस्वरत्वात् तत्पुरुषे तु समासान्तोदात्तत्वात् (पा.सू.६-१-१२३—पा.सू.६-१-२२३)। शिष्टानां तु शब्दानां स्वरभेदो नास्ति। प्रयत्नगुरुत्वागुरुत्वे तु त्रिजगद्रत्नशब्दव्यतिरिक्तेषुतत्तद्वर्ण विषयतया विद्येते। तेन तत्र शब्दश्लेषता। त्रिजगद्रत्नशब्दस्यतूभयत्रापि कस्यचिद्विशेषस्याविद्यमानत्वादर्थ श्लेषत्वम्।
 
-
-
  अपारिजातवार्तापीत्यत्र भगवत्यजातशत्रुत्वादपगतशत्रुसमूहवार्ता।तदीया च शोभा सर्वस्यचित्तमावर्जयतीत्यतो नन्दना श्रीर्यस्यास्तथाविधा। उदकमध्यवर्तितया च योसौ अप्सु उदके प्रतिबिम्बित इन्दुस्तद्वत्सुन्दरी। नित्यं च गलल्लावण्य प्रवाहा। यदात्वसौ भगवती नन्दनश्रीशब्दस्य देवोद्यानशोभालक्षणार्थान्तराभिधायित्वाद्रूपकप्रतिभोत्पत्तिनिबन्धनेन श्लेषेणैतद्भावमापद्यते तदा तत्समाश्रयत्वेन अपारिजातवार्तापीत्यादिपदपर्यालोचनया विरोधप्रतिभाहेतोरपरस्यापि श्लेषस्याविर्भावो भवति। न खलु देवोद्यानशोभाअविद्यमानपारिजाताख्यवृक्षविशेषवृत्तान्ता भवति। न चासौ भूमौ तिष्ठति। अबिन्दुसुन्दरीत्यत्र तु बिन्दुभिर्यस्याः सौन्दर्यं नास्ति तस्याः कथं लावण्यबिन्दवः प्रसरेयुरिति विरोधप्रतिभोत्पत्तिहेतुः श्लेषः।
 
  अपारिजातवातपीत्यत्राप्यपगतारिजातवार्तेति—बहुव्रीहौ प्रकृत्येति(पा.सू. ६-२-१) पूर्वपदप्रकृतिस्वरत्वम्। तत्पुरुषपक्षे त्वन्तोदात्तत्वम्(पा.सू.६-१-१२३—पा.सू.६-१-२२३)। अबिन्दुसुन्दरीत्यत्र अबिन्दुवत्सुन्दरीत्युपमानत्वात्तत्पुरुषे तुल्यार्थेति (पा.सू.६-२-२)— अबिन्दुशब्दस्यं प्रकृतिस्वरः। तस्य च सप्तम्यन्तपूर्वपदत्वादनेनैव सूत्रेण (पा.सू.६-२-२) प्रकृतिस्वरेणाद्युदात्तत्वम्। अबिन्दुसुन्दरीत्यत्रत्वव्ययत्वान्नञः पूर्वपदप्रकृतिस्वरत्वेन (पा.सू.६-२-२) तदेव। तेनात्रस्वरभेदस्याभावः। प्रयत्नभेदकृतात्तु चाकारवैचित्र्याच्छब्दश्लेषता॥
@@ -1988,8 +1756,6 @@ to five different views on the interpretation of this definitionof the figure �
 इति महाश्रीप्रतीहारेन्दुराजविरचितायामुद्भटालंकारसार–  
 संग्रहलघुवृत्तौ चतुर्थो वर्गः॥४॥  
 *        *
-
-
 
 **पञ्चमो वर्गः।**
 
@@ -2020,8 +1786,6 @@ to five different views on the interpretation of this definitionof the figure �
 **यत्सामग्र्येपि शक्तीनां फलानुत्पत्तिबन्धनम्।  
 विशेषस्याभिधित्सातस्तद्विशेषोक्तिरुच्यते॥४॥ (५५)**
 
-
-
  शक्तीनां कारकाणां सामग्र्येपि अविकलत्वे यः क्रियाफलस्य किञ्चिद्विशेषमवगमयितुमनुत्पत्तेरुपनिबन्धः सा विशेषोक्तिः।
 
  तस्याश्चद्वौ भेदौ। क्वचित्खलु कारणसामग्र्येपि यत्कार्यं नोत्पद्यतेतस्यानुत्पत्तौ स्वकण्ठेन निमित्तमुपादीयते क्वचित्त्वर्थसामर्थ्यादवगम्यते।तदाह—
@@ -2051,8 +1815,6 @@ to five different views on the interpretation of this definitionof the figure �
 **गुणस्य वा क्रियाया वा विरुद्धान्यक्रियावचः।  
 यद्विशेषाभिधानाय विरोधं तं प्रचक्षते॥६॥(५७)**
 
-
-
  यत्र कविना गुणस्य वा क्रियाया वा अथवा द्विर्वाशब्दंस्योपात्तत्वात्द्रव्यस्य विरुद्धोन्यः पदार्थः सजातीयो विजातीयो वा वचसा स्वप्रतिभाप्रसूतेन वर्णनिकात्मना क्रियते कंचिद्विशेषमवगमयितुं स विरोधाख्योलंकारः। गुणक्रियाद्रव्याणामुत्प्रेक्षालंकारलक्षणव्याख्यानसमयेस्वरूपमुक्तम्। क्रियाकारणमुत्पादनं तत्प्रधानं वचः क्रियावचः। कविप्रतिभया खलु
 पुराणप्रजापतिनिर्मितशुष्कपरुषपदार्थविलक्षणाः सरसाः पदार्था अभिनवा एव निर्मीयन्ते। अतः क्रियावच इत्युक्तम्।
 
@@ -2074,8 +1836,6 @@ to five different views on the interpretation of this definitionof the figure �
 
 त्वदङ्गमार्दवं द्रष्टुः कस्य चित्ते न भासते।  
 मालतीशशभृल्लेखाकदलीनां कठोरता॥\*५॥
-
-
 
  त्वच्छरीरसौकुमार्यदर्शिनःकस्येव चेतसि मालत्यादीनां काठिन्यंन भासत इत्यर्थः। अत्र मालत्यादीनामप्राकरणिकानामेवार्थानां कठोरत्वलक्षणं साम्यमुपनिबद्धम्। द्रष्टुरिति तृन् (पा. सू.३-२-१३५)। तद्योगे च त्वदङ्गमार्दवमिति—
 
@@ -2101,8 +1861,6 @@ to five different views on the interpretation of this definitionof the figure �
 फलपुष्पर्द्धिभाजोपि दुर्गदेशवनश्रियः॥७॥
 
  अत्र कृच्छ्रेण गन्तुं शक्यते यस्मिन्देशे तद्गतकाननानां शोभाः अप्राकरणिक्य एव स्वदेहजर्जरतयोपवर्णिताः। ताभिश्च सादृश्यस्वाजन्येनभगवतीचेष्टितमुपमेयभूतंएवंविधरूपतयावगम्यते। दुर्गेति-सुदुरोरधिकरण-(पा.सू.३-२-४८ स्थं वार्तिकम्) इति डप्रत्ययः॥
-
-
 
 **व्याजस्तुतिः।**
 
@@ -2131,8 +1889,6 @@ to five different views on the interpretation of this definitionof the figure �
 विनोचितेन पत्या च रूपवत्यपि कामिनी।  
 विधुवन्ध्यविभावर्याः प्रबिभर्ति विशोभताम्॥\*९॥
 
-
-
  विधुश्चन्द्रः। विभावरी रात्रिः। अत्र रजनिकररहितविभावरीविशोभत्वस्य यदेतत्कर्मत्वं तत्कामिनीकर्तृकायां भरणक्रियायां न समन्वयं गच्छति। न ह्यन्यस्य सम्बन्धिनीं विशोभामन्यो बिभर्ति। अतः पदार्थसमन्वयस्यात्रानुपपत्तिः। उपमानोपमेयभावस्त्वत्र वाक्यार्थविश्रान्तिस्थानं कृष्णरात्रिवद्विशोभतां बिभर्तीति।
 
  एवमेतद्भवति वस्त्वसंबन्धे उपमानोपमेयभावकल्पनायामुदाहरणम्।
@@ -2148,8 +1904,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  स च चतुर्विधः संदेहशब्दार्थवर्त्यलंकारैकशब्दाभिधानानुग्राह्यानुग्राहकभेदेन।
 
-
-
   तत्र **संदेहसंकर**स्तावत्।
 
 अनेकालंक्रियोल्लेखे समं तद्वृत्यसंभवे।  
@@ -2161,8 +1915,6 @@ to five different views on the interpretation of this definitionof the figure �
 तवापि मूर्ध्नि गङ्गेव चक्रधारा पतिष्यति॥**
 
  अत्र ह्युपमानोपमेयभावस्तत्प्रतिभाहेतुश्च श्लेषोनेकोलंकार उल्लिख्यते। उपमानोपमेयभावे तावत् गङ्गोपमानं चक्रधारा उपमेया मुरारिनिर्गतत्वंसाधारणो धर्मः। श्लेषस्तत्र नरकप्रतिपन्थिशब्दादात्मानं लभते। एकत्रहि नरको दानवः अपरत्र त्ववीच्यादिः। एतौ च द्वावलंकारावेकस्मिन्निव शब्देनुप्रविशतः। न ह्युपमानोपमेयभावस्तत्प्रतिभाहेतुर्वा श्लेषः समा साद्यभावे इवशब्दादिमन्तरेण स्वरूपं प्रतिलभते। तेनात्र द्वावलंकारावेकस्मिन्वाचके इव शब्देनुप्रविष्टौ। यदि च अनेलंकारोल्लेखे सति सन्देहसंकरस्तत एवमादावप्यनेकालंकारोल्लेखस्य संभवात्संदेहसंकरप्रसङ्ग इत्याशङ्कयोक्तम्—**समं तद्वृत्यसंभव** इति। तस्यानेकस्यालंकारस्यसमं युगपद्यदि वृत्तिर्व्यापारोलंकार्यालंकरणात्मको न संभवतीत्यर्थः।पूर्वोक्ते तूदाहरणे मुरारिनिर्गतेति साधारणधर्मोपादानान्नरकप्रतिपन्थिनीति च श्लेषपदोपदर्शनान्नानेकस्यालंकारस्य युगपद्वृत्तेरसंभवः। तेनतत्र न संदेहसंकरता। ननु यद्यनेकालंकारोल्लेखे युगपद्वृत्त्यसंभवे चसंदेहसंकरत्वमेवं सति यत्र प्रतिभामात्रेणानेकस्मिन्नलंकारे उल्लिख्यमानेयस्य साधकं प्रमाणमस्ति स उपादीयते यस्य तु बाधकं प्रमाणं विद्यते“स त्यज्यते। तत्राप्यनेकालंकारोल्लेखस्य समं तद्वृत्त्यसंभवस्य च संभवात्संदेहसंकरत्वं प्रसज्जतीत्याशङ्कयोक्तम्— **एकस्य च ग्रहे न्यायदोषाभावे** **चे**ति। न्यायः साधकं प्रमाणं दोषो बाधकं प्रमाणम्। यत्रानेकालंकारोल्लेखे युगपद्वृत्यसंभवे च एकतरस्य ग्रहणे साधकबाधके प्रमाणे
-
-
 
 समस्तव्यस्ततया न विद्येते तत्र संदेहसंकरः। तेन नानिष्टप्रसङ्गः। तथाहि यत्र साधकबाधके प्रमाणे सामस्त्येन विद्येते तत्र यस्य साधकंप्रमाणमस्ति तस्योपादानाद्बाधकस्य प्रमाणोपेतस्य च त्यागादेकस्यग्रहणं भवति। यत्रापि साधकबाधकप्रमाणयोर्वैयस्त्येनान्यतरस्य विद्यमानता तत्रापि प्रतिभोल्लिख्यमानानेकालंकारमध्यात्साधकप्रमाणोपेतस्योपादानात्प्रमाणशून्यस्य चोपेक्ष्यत्वात्तथा बाधकप्रमाणोपेतस्य परित्यागात्तदितरस्य च पूर्वोल्लिखितस्य पारिशेष्येपादानादेकस्य ग्रहोभवति। यत्र तु साधकबाधकप्रमाणाभावस्तत्र संदेह एव। एवमयं संदेहसंकरो लक्षितः।
 
@@ -2179,8 +1931,6 @@ to five different views on the interpretation of this definitionof the figure �
 संकरो वा**
 
  यत्रैकस्मिन्वाक्ये शब्दवर्तिनोर्थवर्तिनश्चालंकाराः संसर्गमुपयान्ति सशब्दार्थालंकारः।
-
-
 
   तस्योदाहरणम्।
 
@@ -2203,8 +1953,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  अत्रोपमालंकार उपमाप्रतिभोत्पत्तिहेतुभूतश्च श्लेष इत्येतौ द्वावलंकारावेकस्मिन्वाक्यांशे इव शब्देनुप्रविष्टौ। तथाहि। अम्भोजिनी उपमानंगौरी उपमेया दृष्टिमात्रसुखप्रदत्वं साधारणो धर्मः इत्युपमा। सच्छायवर्णिकाचारूर्णिकेति श्लेषः। अम्भोजिन्यां हि वर्णा राजवर्तादयः गौर्यां त गौरत्वम्। अम्भोजिन्यां कर्णिका कमलमध्यवर्ती बीजकोशः तु गौर्यां तु चारू कर्णौ। कप्चात्र समासान्तः। तेनायं श्लेषः। एतौ चद्वालंकारावेकस्मिन्वाक्यांशे इव शब्देनुप्रविष्टौ तेनायमेकशब्दाभिधानसंकरः।
 
-
-
 अनुग्राह्यानुग्राहकसंकरस्तु।
 
 **परस्परोपकारेण यत्रालंकृतयः स्थिताः।  
@@ -2226,8 +1974,6 @@ to five different views on the interpretation of this definitionof the figure �
 **अन्योन्यमेव यत्र स्यादुपमानोपमेयता।  
 उपमेयोपमामाहुस्तां पक्षान्तरहानिगाम्॥१४॥(६५)**
 
-
-
  यत्रोभयोरुपमानोपमेययोः परस्परमुपमानोपमेयभावस्तत्रोपमेयोपमा उपमेयेनोपमानस्योपमानात्। ननु च प्राकरणिकं साम्याभिधानसंबन्धिउपमेयम् अप्राकरणिकमुपमानम्। यदि चात्रोपमेयस्योपमानत्वमभिधीयते एवं सति तस्य प्राकरणिकत्वं व्याहन्यते इत्याशङ्क्योक्तम्—**पक्षान्तरहानिगा**मिति। नात्रोपमानोपमेयभावे तात्पर्यं किंतु एतदेवद्वयमेवंविधं विद्यते न त्वन्यदेतयोः सदृशं वस्त्वन्तरं विद्यत इति। अतश्चएतत्पक्षद्वितयव्यतिरिक्तस्य पक्षान्तरस्यात्र हानेर्विवक्षितत्वात्परस्परमुपमानोपमेयभावो न दुष्यतीति। तस्य पक्षान्तरहानौ प्रतिपाद्यायामवान्तरवाक्यार्थत्वेनावस्थानात्–वरं विषं भक्षय मा चास्य गृहे भुक्त्वा—इतिवत्। अत्र हि विषभक्षणं न विधीयते दुर्जनगृहे भोजनपरिवर्जनतात्पर्यात्। एवमिहाप्युपमानोपमेयभावस्याविवक्षा पक्षान्तरहानौ तात्पर्यात्।
 
 शिरांसि पङ्कजानीव वेगोत्पातयतो द्विषाम्।  
@@ -2242,8 +1988,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  यत्र वस्तुद्वयसमवेते द्वे क्रिये पदेनैकेन तत्रवृत्या कथ्येते तत्र सहोक्तिर्नामालंकारो भवति। ननु—**संजहार शरत्कालः—**इत्यादावपि दीपकेपदेनैकेन वस्तुद्वयसमवेते द्वे क्रिये कथ्येते अतश्च तत्रापि सहोक्तित्वंप्राप्नोतीत्याशङ्कयोक्तम्—**तुल्यकाले**— इति। यत्र सहादिना पदेन तुल्य
 
-
-
 कालतामवगम्य वस्तु द्वितयसमाश्रिते द्वे क्रिये कथ्येते तत्र सहोक्तित्वम्। न चैवं दीपक इति नातिव्याप्तिः। सहादिना च शब्देन युगपत्कालतायामवद्योत्यमानायां द्वयी गतिः। कदाचित्खलु ययोः क्रिययोस्तुल्यकालता ते क्रिये तुल्यकक्षतया स्वाश्रयविश्रान्तत्वेनाभिधीयते यथादेवदत्तयज्ञदत्तौ सह भुञ्जाते इति। कदाचित्वेकाश्रयविश्रान्तायां क्रियायामभिहितायां सहाद्यार्थपर्यालोचनासामर्थ्यादपरस्याश्रयस्य क्रियासंबन्धोवगम्यते यथा देवदत्तो यज्ञदत्तेन सह भुङ्क्तइति। तत्रेह द्वितीयागतिराश्रीयते शाब्देन रूपेणैकत्र क्रियासंबन्धस्य प्रतीतस्यापरत्रार्थेन रूपेणोन्नीयमानत्वेन वक्रभणितेः सद्भावात्। एवंविधस्य यत्रैव शोभातिशयविधायित्वं तत्रैव सहोक्तेरलंकारता न सर्वत्रेतिद्रष्टव्यम्।
 
   तस्या उदाहरणम्।
@@ -2257,8 +2001,6 @@ to five different views on the interpretation of this definitionof the figure �
 
 **समन्यूनविशिष्टैस्तु कस्यचित्परिवर्तनम्।  
 अर्थानर्थस्वभावं यत्परिवृत्तिरभाणि सा॥१६॥(६७)**
-
-
 
  कस्यचिद्वस्तुनो वस्त्वन्तरेण परिवर्तनं परिवृत्तिः। सा च त्रिविधापरिवर्तनकारकाणां परिवर्तनीयेन सह समत्वान्न्यूनत्वादधिकत्वाच्च। तदिदमुक्तम् **समन्युनविशिष्टै**रिति। तत्र यस्याः समोर्थः परिवर्त्यतेतस्या अनर्थस्वभावता। अर्थशब्देन हि उपादेयोर्थोभिधीयते अर्थ्यतेसावितिकृत्वा। यत्र च साम्यं तत्रार्थनीयत्वं नास्ति। तेनार्थ्यत्वाभावानुगमात्तत्रानर्थत्वमभिधीयते। अतस्तत्रानर्थस्वभावं परिवर्तनम्। यत्रापिच निकृष्टपरिग्रहेणोत्कृष्टपरित्यागः क्रियते तत्राप्यनर्थस्वभावता उपादेयविपरीतस्योपादानात्। अर्थप्रतिपक्षो ह्यत्रानर्थः। अधर्मानृतवत्। यथाह्यधर्मानृतशब्दाभ्यां
 नोत्तरपदार्थाभावमात्रमभिधीयते नाप्युत्तरपदार्थतुल्योर्थः किन्तर्ह्येत्प्रतिपक्षस्यैवाभिधानम्। एवमिहाप्यनर्थशब्देन अर्थप्रतिपक्षस्यैवाभिधानम्। यथा अनर्थो वैरिणामापतित इत्येवमादौ। तेन यत्रोत्कृष्टेन निकृष्टः परिगृह्यते तत्र दुःखहेतुत्वादर्थप्रतिपक्षत्वेनानर्थस्वभावता। यत्र तु निकृष्टेनोत्कृष्टः परिगृह्यते तत्रोत्कृष्टस्य सुखहेतुत्वेनोपादेयत्वादर्थस्वभावता। तदिदमुक्तम् **अर्थानर्थस्वभाव**मिति।
@@ -2277,8 +2019,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  नेत्रभूत उरगो वासुकिः। अत्र कौस्तुभस्योत्कृष्टस्य निकृष्टरत्नपरित्यागेन ग्रहणान्निकृष्टेनोत्कृष्टस्य परिवर्तनम्।
 
-
-
   विशिष्टपरिवृत्तेस्तूदाहरणम्।
 
 **यो बलौ व्याप्तभूसीम्नीमखेन द्यां जिगीषति।  
@@ -2290,8 +2030,6 @@ to five different views on the interpretation of this definitionof the figure �
 सारसंग्रहलघुवृत्तौ पञ्चमो वर्गः॥
 
 *         *
-
-
 
 **षष्ठो वर्गः।**  
 
@@ -2320,8 +2058,6 @@ to five different views on the interpretation of this definitionof the figure �
 
 मशङ्किष्टार्जवो जनः॥\*२॥
 
-
-
  आर्जवो मूर्खः ऋजुत्वयोगात्। अत्र शङ्ख उपमेयः यशःसंचयो हंसश्चोपमानम्। तयोश्च पूर्वमभेदः संदेहव्याजेनाभिहितः किमेष यशः—संचयः स्यादिति तथा किं हंस इति। पुनश्चात्रोपमानादुपमेयस्य भेदो। वर्णितः। यशः संचयात्तावद्भेदोपवर्णनं पिण्डीभावास्य किं कृत इति। यशः संचयः खलु प्रसरणशीलः। अस्य तु तद्विरुद्धः पिण्डीभावो दृश्यते। तेन नायं यशःसंचय इति। हंसात्तु भेदाभिधानं— नैष चञ्चल इति। हंसस्य हि चञ्चलत्वं नाम धर्मः। इह च तन्नोपलभ्यते। तस्मान्नैष हंसइति। एवंविधस्य चात्राभिधानस्य फलं स्तुतिः यशःसंचयो भगवतास्वहस्तवर्ती कृत इति। तथासंभाव्यमानहंसागमनं त्रिभुवनोत्पत्तिनिबन्धनं यत्तन्नाभिनलिनं तद्वान् भगवानिति॥
 
 **ससंदेहस्य भेदान्तरमाह।**
@@ -2337,8 +2073,6 @@ to five different views on the interpretation of this definitionof the figure �
 इति यः शङ्कयते श्यामः पक्षीन्द्रेर्कत्विषि स्थितः॥\*३॥
 
  अत्र मेरोरुपरिवर्ती नीलो बलाहकः कल्पान्तवह्नयाश्रयश्च धूम इत्येतदुभयमुपमानम्। गरुडारूढस्तुभगवान् कृष्णवपुरुपमेयः। तेन चउपमानद्वयेन संदेहव्याजेन भगवानापादिताभेद उपनिबद्धः किमयमेवंविधः अथैवंविध इति। ताभ्यां चोपमानाभ्यामुपमेयस्य पूर्ववद्भेदनिबन्धनं नात्र किंचिदभिहितम्। फलं चैवमभिधानस्योपमालंकारध्वननं। एवंविधोपमानद्वितयसदृशो भगवान्वैनतेयारूढ इति॥
-
-
 
 **अनन्वयः।**
 
@@ -2369,8 +2103,6 @@ to five different views on the interpretation of this definitionof the figure �
 **त्वत्कृते सोपि वैकुण्ठः शशीवोषसि चन्द्रिकाम्।  
 अप्यधारां सुधावृष्टिं मन्ये त्यजति तां श्रियम्॥\*५॥**
 
-
-
 **तदुत्तिष्ठतिधन्येन केनापि कमलेक्षणे।  
 वरेण सह तारुण्यं निर्विशन्तो गृहे वस॥\*६॥**
 
@@ -2388,8 +2120,6 @@ to five different views on the interpretation of this definitionof the figure �
 हेतुर्वाचामनाकुलतार्थानां चात्यद्भुतत्वम्। तदुक्तम्— **वाचामनाकुल्येनेति अत्यद्भुता** इति च। तत्र वाचामनाकुलता व्यस्तसंबन्धरहितलोकप्रसिद्धशब्दोपनिबन्धात् झगित्यर्थप्रतीतिकारिता। तस्यां हि सत्यांकवेः संबन्धी यो भाव आशयः शृङ्गारादिरससंवलित चतुर्वर्गोपायभूतविशिष्टाल्लेखी सकविनेव सहृदयैः श्रोतृभिः स्वाभिप्रायामेदेन तत्तत्काव्यप्रतिबिम्बितरूपतया साक्षात्क्रियते। श्रोतॄणामपि हि तथाविधस्वच्छशब्दानु
 
 भवद्रावितान्तरात्मना सहृदयानां स्वाभिप्रायप्रतिमुद्रा तत्र संक्रामति। अतः
-
-
 
 कवेर्योसवभिप्रायस्तद्गोचरीकृता भूता भाविनोपि पदार्थांस्तत्र सहृदयैः श्रोतृभिः स्वाभिप्रायामेदेन प्रत्यक्षा इव दृश्यन्ते। यथा चात्र शब्दगतमनाकुलत्वमनन्तरोक्तेन प्रकारेण हेतुस्तथार्थगतमपि चित्रोदात्तार्थोपनिबन्धहेतुकमत्यद्भुतत्वं द्रष्टव्यम्। तदुक्तं भाविकमुपक्रम्य **भामहेन—**
 
@@ -2413,8 +2143,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  अत्राभरणोचितमूर्तित्वेपि निरञ्जनविलोचनत्वोपलक्षितादाभरणत्यागात्पीडा। सहजसौन्दर्यनिर्भरत्वेन तु आभरणसंपाद्यायाः शोभायाः परिदृश्यमानत्वात्प्रीतिः। तेनात्र साम्प्रतिकप्रध्वंसाभावोपलक्षितत्वाद्भूषणसंबन्धो व्यतीतोप्यत्यद्भुतो योसौ वपुःप्रकर्षस्तद्वशेन प्रत्यक्ष इवकविनोपनिबद्धः। तथैव चासौ सहृदयानां चमत्कारमावहति। संततमुत्कृष्टतया वैचित्र्येण ईक्षणीयाभरणशोभा यस्यामिति बहुव्रीहिः॥
 
-
-
 **काव्यहेतुः।**
 
 **श्रुतमेकं यदन्यत्र स्मृतेरनुभवस्य वा।  
@@ -2425,8 +2153,6 @@ to five different views on the interpretation of this definitionof the figure �
  ननु काव्यग्रहणेन कथं काव्यस्य सरसपदार्थनिष्ठतोपदर्श्यते। काव्यस्य सरसत्वात्। काव्यं खलु गुणसंस्कृतशब्दार्थशरीरत्वात्सरसमेवभवति न तु नीरसम्। तथा हि। गुणाः काव्यस्य माधुर्यौजःप्रसादलक्षणाः। तत्र माधुर्यमाह्लादकत्वम् ओजो गाढता प्रसादस्त्वव्यवधानेनरसाभिव्यक्त्यनुगुणता। तदेतेषां त्रयाणां गुणानां मध्यात्प्रसादस्य प्राधान्यम्। माधुर्यौजसोस्तु तत्तद्रसाभिव्यक्त्यानुगुण्येन तारतम्येनावस्थितयोः प्रसाद एव सोपयोगता। एवं च तत्र तद्रसानुगुण्येन माधुर्यौजोभ्यांतारतम्येनावस्थिताभ्यां उपकृतो योसौ प्रसादात्मा रसानामव्यवधानेनप्रतीतिहेतुर्गुणस्तदुपेतशब्दार्थशरीरत्वेन काव्यस्यावस्थानात्सरसतैव भवति न तु नीरसता।
 
  यद्येवमिदानीं गुणैरेव कृतकृत्यत्वात्काव्यस्यालंकाराणां तत्र निरुपयोगता प्राप्नोति। नैवम्। गुणाहितशोभे काव्ये अलंकाराणां शोभातिशयविधायित्वाल्लौकिकालंकारवत्। यथा हि लौकिकानामलंकाराणांगुणसंस्कृते युवति वपुषि निबध्यमानानामलंकारता एवं काव्यालंकाराणामपि द्रष्टव्यम्। ननु निर्गुणेपि काव्ये अलंकाराणां गुणवच्छोभाविधायित्वं कस्मान्नेष्यते। अपरिदृष्टत्वात्। न खलु निर्गुणे काव्ये निबध्य-
-
-
 
 मानानामलंकाराणां जरद्योषिदलंकारवच्छोभाविधायित्वं दृश्यते। तथा हि। जरद्योषित्यलंकारा निबध्यमाना न तस्याः शोभां कुर्वन्तिप्रत्युत तस्यां निबध्यमानानां तेषामात्मीयमेव सौभाग्यं हीयते। तथाकाव्यालंकाराणामपि निर्गुणे काव्ये निवध्यमानानां काव्यशोभाहेतुत्वाभावः स्वशोभाहानिश्चभवति। यदवोच**द्भट्टवामनः—**
 
@@ -2448,8 +2174,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  न खल्वत्रार्थालंकारः कश्चित्परिदृश्यते। अथ माधुर्यौजोभ्यां परिबृंहितस्य प्रसादस्य विद्यमानत्वात्काव्यरूपता। ननु चात्रापि ईर्ष्याविप्रलम्भविरहविप्रलम्भशृङ्गाराभ्यांस्वतिरोधानेनोपकृतः संभोगशृङ्गारो नायिकानिष्टोनिबद्धस्तद्योगाच्च रसवत्वमलं भविष्यति। तथाहि। कथमपिकृतप्रत्यापत्तौ प्रिये-इत्यत्रभागे विरहविप्रलम्भपूर्वकः प्रियतमचित्तसाम्मु-
 
-
-
 ख्यात्मा संभोगशृङ्गारः सूचितः। स्खलितोत्तर—इति तु संजातगोत्रस्खलितत्वात्प्रेयसो नायिकाया ईर्ष्याविप्रलम्भशृङ्गारो निबद्धः। पुनश्च विरहकृशयेत्यादिभिस्त्रिभिः पादैरवहित्थेन भावेन नायिकाधारमीर्ष्याविप्रलम्भशङ्गारं प्रच्छाद्यसंभोगशृङ्गारेण चित्तोल्लाससूचितेन वाक्यार्थसमाप्तिः कृता। तथाहि। विरहकृशयेत्यादिना पादेन नायिकागतो मन्युरवच्छाद्योपदर्शितः। असहनसखीत्यादिना तु गोत्रस्खलितस्य सखीश्रोत्रप्राप्तिं विरहविप्रलम्भकारणत्वेनाशङ्क्यदृष्टिपरावृत्या सखीजनशून्ये गृहे परिदृष्टे यत्तन्नायिकया समुच्छ्वसितं तदुपनिबन्धात्संम्भोगशृङ्गारेण वाक्यार्थोनिर्वाहितः। तदेवमत्रसंभोगस्य विप्रलम्भबाधेन लब्धपदबन्धस्योपनिबन्धाद्रसवत्वमलंकारः। तत्कथमत्र निरलंकारतोक्ता। उच्यते। न खलु काव्यस्य रसानां चालंकार्यालंकारभावः किं त्वात्मशरीरभावः। रसा हि
 काव्यस्यात्मत्वेनावस्थिताः शब्दार्थौ च शरीररूपतया। यथा ह्यात्माधिष्ठितं शरीरं जीवतीति व्यपदिश्यते तथा रसाधिष्ठितस्य काव्यस्य जीवद्रूपतया व्यपदेशः क्रियते तस्माद्रसानां काव्यशरीरभूतशब्दार्थविषयतयात्मत्वेनावस्थानं नत्वलंकारतया। रसाभिव्यक्तिश्चयथायोगं माधुर्यौजोभ्यां तारतम्येनावस्थिताभ्यामुपबृंहितो योसौ प्रसादात्मा गुणस्तेन क्रियते। अतोत्र विप्रलम्भशृङ्गारोपकृतस्य संभोगशृङ्गारस्य सगुणकाव्यात्मत्वेनावस्थानं न तु काव्यं प्रति अलंकारतयेति युक्तमिदमुक्तं— **निरलंकारमपि काव्यं सगुणं दृश्यत** इति। एवं रसान्तरेषु भावेषु रसभावाभासेषु तत्प्रशमेषु च वाच्यम्। तदाहुः—
 
@@ -2463,8 +2187,6 @@ to five different views on the interpretation of this definitionof the figure �
 वृत्तदेवादिचरितशंसि चोत्पाद्य वस्तु च।  
 कलाशास्त्राश्रयं चेति चतुर्धा भिद्यते पुनः॥
 
-
-
 इति **भामहोदितं** विरुध्यते। अत्र हि कलाश्रयशब्देन **भारता**द्यभिहितंशास्त्राश्रयशब्देन च व्याकरणादि। अतो वक्तव्यमेतत्कथं तत्र काव्यव्यपदेश इति। उच्यते। मुख्यया तावद्वृत्या गुणसंस्कृतशब्दार्थशरीरमेवकाव्यम्। गुणरहितशब्दार्थशरीरे तु काव्यमात्रे काव्यशब्दस्य काव्यसादृश्यादुपचारात्प्रयोगो भविष्यति। उक्तं च— **काव्यशब्दोयं गुणालंकारसंस्कृतयोः शब्दार्थयोर्वर्तते भक्त्या तु शब्दार्थमात्रवचनोत्रगृह्यते**—इति। भक्त्येत्युपचारेणेत्यर्थः। तदेवंगुणसंस्कृतशब्दार्थशरीरत्वाकाव्यस्य सरसत्वमिति। तद्विशिष्टं काव्यलिङ्गं सरसपदार्थनिष्ठमेव भवतिन तु नीरसवस्तुमात्रनिष्ठं शास्त्रलिङ्गवदित्युपपन्नम्।
 
  तार्किकाणां च हेतुव्यापारे द्वैविध्यम्। केचित्खलु तार्किका व्याप्तिग्रहणकाले यदनुभूतं व्यापकं वह्न्यादि वस्तु धूमादेर्व्याप्यस्य तत्स्मरणमात्रे धूमादिहेतुदर्शनप्रबुद्धसंस्काराणां पुरुषाणां हेतुव्यापारं मन्यन्ते। अपरे तु वह्न्यादीनां पर्वतादिधर्मविशेषसंबन्धस्य पूर्वमगृहीतस्य धूमादिहेतुव्यापारसामर्थ्येन इदानीमेव अवसेयत्वाल्लिङ्गसामर्थ्याल्लिङ्ग्यनुभवस्यैवोत्पत्तिमाहुः। तदिदमुक्तम्—**स्मृतेरनुभवस्यवे**ति।
@@ -2476,14 +2198,10 @@ to five different views on the interpretation of this definitionof the figure �
 
  अत्र विभूषणविन्यासास्पदभूता ये कण्ठादयस्तदत्र शिष्टानामङ्गानांयासौ कान्तिः दीप्तिः तस्या अनुज्ज्वला मलिना यासौ छाया शोभा सालिङ्गम्।तत्सामर्थ्याच्च भूषाविन्यासप्रदेशानां भूषणसंबन्धोतीतोनुमीयते। तेन तत्काव्यलिङ्गम्।
 
- 
-
 काव्यदृष्टान्तः।
 
 **इष्टस्यार्थस्य विस्पष्टप्रतिबिम्बनिदर्शनम्।  
 यथेवादिपदैः शून्यं बुधैर्दृष्टान्त उच्यते॥८॥(७५)**
-
-
 
  इष्टस्य प्राकरणिकतया प्रतिपादयितुमभिमतस्यार्थस्य यत्र विस्पष्टतया प्रतिबिम्बं सदृशं वस्तु निदर्श्यते तत्र काव्यदृष्टान्तो नामालंकारः। ननु
 
@@ -2503,8 +2221,6 @@ to five different views on the interpretation of this definitionof the figure �
 
  ननु यत्र काव्ये सहृदयहृदयाहृदिनःप्रधानभूतस्य स्वशब्दव्यापारास्पृष्टत्वेनप्रतीयमानैकरूपस्यार्थस्य सद्भावस्तत्र तथाविधार्थाभिव्यक्तिहेतुःकाव्यजीवितभूतः कैश्चित्सहृदयैर्ध्वनिर्नाम व्यञ्जकत्वभेदात्मा काव्यधर्मोभिहितः स कस्मादिह नोपदिष्टः। उच्यते। एष्वेवालंकारेष्वन्तर्भावात्। तथाहि। प्रतीयमानैकरूपस्य वस्तुनस्त्रैविध्यं तैरुक्तं वस्तुमात्रा लंकाररसादिभेदेन। तत्र वस्तुमात्रं तावत्प्रतीयते। यथा–
 
-
-
 चक्राभिघातप्रसभाज्ञयैव चकार यो राहुवधूजनस्य।  
 आलिङ्गनोद्दामविलासवन्ध्यं रतोत्सवं चुम्बनमात्रशेषम्॥ इति।
 
@@ -2522,8 +2238,6 @@ to five different views on the interpretation of this definitionof the figure �
 वैदेही तु कथं भविष्यति ह हा हा देवि धीरा भव॥
 
  इत्येवमादावपि रामादीनां शब्दानां असाधारणरूपतया राज्यभ्रंशवन वाससीताहरणपितृमरणादयो दुःखैकहेतवः स्वार्थसहचारिणो वस्तुमात्ररूपा व्यङ्ग्यधर्मास्तत्परिणतरूपतया स्वार्थस्य प्रतीतिस्तद्धेतुभूतत्वात्प-
-
-
 
 र्यायोक्तालंकारसंस्पर्शितैव। न खलु पदे पर्यायोक्तेन न भवितव्यमितीयंराज्ञामाज्ञा सूत्रकारवचनं वा। लक्षणयोगाद्विभक्तरूपतावस्थाप्यते। अत्रच पर्यायोक्तलक्षणं विद्यते
 वाच्यवाचकव्यापारशून्यस्यावगमनात्मनःप्रकारस्य सद्भावात्। तेन कथं पर्यायोक्तता न स्यात्।
@@ -2544,8 +2258,6 @@ to five different views on the interpretation of this definitionof the figure �
 शूरश्चकृतविद्यश्च यश्चजानाति सेवितुम्॥
 
 इत्यादौ तु शूरादिभिः सह सुवर्णपुष्पपृथिवीकर्मकस्य चयनस्यानुपपद्यमानान्वयत्वात्सादृश्यस्वाजन्येनोपमेयभूतस्य बहुलाभत्वस्य तत्सदृश-
-
-
 
 स्य या लक्षणा तद्द्वारेण गर्भीकृतोपमानोपमेयभावा असंभवद्वाच्यार्थाविदर्शना द्रष्टव्या। यदुक्तम्—**अभवन्वस्तुंसबन्ध** इत्यादि। **भट्टवामनेन** चात्र वक्रोक्तिव्यवहारः प्रवर्तितः यदवोचत्— सादृश्याल्लक्षणा वक्रोक्तिरिति।
 
@@ -2568,8 +2280,6 @@ to five different views on the interpretation of this definitionof the figure �
 संभोगशृङ्गारस्येर्ष्याविप्रलम्भशृङ्गारतिरोधानहेतोः प्रतीयमानता। तत्र चपूर्वं रसवत्वलक्षणोलंकारः प्रतिपादितो—**रसवद्दर्शिते**त्यादिना। एवं
 रसान्तरेष्वपि वाच्यम्॥
 
-
-
  यत्रापि भावास्तथा रसभावाभासा रसभावतदाभासप्रशमाश्च प्रतीयमानास्तत्रापि यथाक्रमं प्रेयस्वदूर्जस्वित्समाहितलक्षणालंकारयोगो वाच्यः। एवमेतत्प्रधानभूतेषु रसादिषूक्तम्।
 
  गुणभूतेष्वपि च रसेषूदात्तालंकारः प्रतिपादितः **चरितं च महात्मनामि**त्यादिना। अतश्च रसादिष्वभिव्यञ्जकत्वस्य नार्थान्तरता।
@@ -2585,15 +2295,11 @@ to five different views on the interpretation of this definitionof the figure �
 
  वस्तुमात्रालंकारविषयस्य तु वाच्यशक्त्याश्रयस्य व्यञ्जकत्वस्यप्रत्येकं वाच्यस्य विवक्षितत्वाविवक्षितत्वाभ्यां द्वैविध्यम्। तथा हि।
 
-
-
 **चक्राभिघातप्रसभाज्ञये**त्यादौ वस्तुविषये व्यञ्जकत्वे वाच्यस्य विवक्षितत्वं कार्यविवक्षापूर्वकत्वेन कारणप्रतीतिप्रसवात्। **स्निग्धश्यामलकान्ती**त्यादौ तुरामादिशब्दानामर्थान्तरसंक्रमितवाच्यानां वाच्यमविवक्षितं व्यङ्ग्यधर्मान्तरपरिणतत्वात्। एवं वस्तुमात्रविषये व्यञ्जकत्वे वाच्यस्य विविक्षाविवक्षे।
 
  अलंकारविषयेपि वाच्यशक्त्याश्रये व्यञ्जकत्वे—**लावण्यकान्ती**त्यादौ एकस्मिन् **मन्ये-**इत्येतस्मिञ्शब्दे यो विशेषाक्तयुत्प्रेक्षयोरनुप्रवेशस्तद्वशेन समासादितस्वभावोयोसावेकशब्दाभिधानसंकरस्तत्प्रतिभोत्पत्तिहेतुश्लेषप्रौढीकृतं वाच्यं विवक्षितं तन्मूलकत्वेन रूपकप्रतीतेरुत्पादात्। **सुवर्णपुष्पां पृथिवी**मित्यादौ तु वाच्यस्याविवक्षा उपमेयस्य बहुलाभत्वस्य तत्सदृशस्य या लक्षणा तस्या अत्यन्ततिरस्कृतवाच्यमूलत्वात्। यदि त्वत्र—**न तिङन्तेनोपमानमस्ती**ति दृष्ट्या तद्भावाध्यवसानात्सुवर्णपुष्पपृथिवीचयनलक्षणोपमानावच्छादितरूपत्वेन शूरादिविषयस्य बहुलाभत्वस्योपमेयस्य प्रौढोक्त्याप्रतिपत्तिः। ततोत्र प्रौढोक्तिमात्रनिष्पन्नशरीरस्य वाच्यस्यार्थस्य प्राधान्यात्—**भेदेनन्यत्वमि**त्येवमात्मकतयोपवर्णितमतिशयोक्तिभेदत्वं वाच्यम्। व्यङ्ग्या ह्युपमा तदानीमत्रगुणीभवति। एवमलंकारनिष्ठस्यापि व्यञ्जकत्वस्य वाच्यविवक्षितत्वाविवक्षितत्वाभ्यां द्वैविध्यम्।
 
  यत्र चाविवक्षा वाच्यस्य वस्तुनिष्ठे अलंकारनिष्ठे वा व्यञ्जकत्वे तत्रव्यङ्ग्यरसादेर्ज्ञगित्यवगम्यमानत्वादसँल्लक्ष्यक्रमता द्रष्टव्या। यदुक्तं **भट्टवामनेन–लक्षणायां हि झगित्यर्थप्रतिपत्तिक्षमत्वं रहस्यमाचक्षते–**इति। अत एव च सहृदयैर्यत्र वाच्यस्य विवक्षितत्वं तत्रैववस्त्वलंकारयोः प्रतीयमानयोर्वाच्येन सह क्रमव्यवहारः प्रवर्तितोर्थशक्तिमूलानुरणनरूपव्यङ्गयो ध्वनिरित्युक्तं न तु वाच्याविवक्षायामपि। यत्र च वाच्यस्याविवक्षा पूर्वमुक्ता **रामोस्मीति—सुवर्णपुष्पामि**ति च तत्र वयं अधिकारोपेतप्रस्तुतार्थानुबन्धिवस्तूपनिबन्धादप्रस्तुतप्रशंसाभेदत्वमेव न्याय्यं मन्यामहे। यदुक्तम्—**अधिकारादपेतस्य**त्योदि।
-
-
 
  यत्तुपूर्वं पर्यायोक्तभेदत्वं **स्निग्धश्यामलकान्ती**त्यादौ रामादीनां शब्दानामभिहितं तदुपक्रममात्ररूपतया द्रष्टव्यं विवक्षितवाच्यस्य पर्यायोक्तभेदत्वात्।
 
@@ -2601,15 +2307,11 @@ to five different views on the interpretation of this definitionof the figure �
 तद्व्यतिरिक्तविषयावगाहित्वात्। यत्र त्वविवक्षिते वाच्येर्थान्तरस्य प्रतीतिस्तत्राप्रस्तुतप्रशंसा। अतश्च पर्यायोक्ताप्रस्तुतप्रशंसयोरेव यथाक्रमं विवक्षिताविवक्षितवाच्ययोः
 सर्वध्वनिभेदसामान्यभूतयोर्ध्वनिभेदयोरन्तर्गतिर्वाच्या।
 
-
-
 सुवर्णपुष्पां पृथिवीमि
 
 त्यादौ तु विदर्शनाभेदत्वं यत्पूर्वमुक्तं तदधिकारोपेत-प्रस्तुतार्थानुबन्धिवस्तूपनिबन्धात्मत्वेनासंभवद्वाच्याया विदर्शनाया अप्रस्तुतप्रशंसाभेदत्वादुपपद्यत एव। एतच्च विद्वद्भिर्विचार्यग्रहीतव्यं न त्वविमृश्यैवासूयितव्यमित्यलमतिवाचालतया।
 
  तदेवं वाचकशक्तिमूलेलंकारैकनियते वाच्यशक्तिमूले च रसादिविषयेव्यञ्जकत्वे वाच्यस्य विवक्षितत्वैकरूपत्वम्। वस्त्वलंकारविषये तु वाच्यशक्तिमूले व्यञ्जकत्वे प्रत्येकं वाच्यस्य विवक्षितत्वाविवक्षितत्वाभ्यां द्विभेदता। अतस्तत्समाश्रयणेन त्रिविधप्रतीयमानार्थनिष्ठस्यापि व्यञ्जकत्वस्यषट्प्रकारता भवति। एतेषां च षण्णां भेदानां मध्याद्द्वयोर्भेदयोर्वाच्यस्याविवक्षोक्ता चतुर्षु विवक्षितत्वम्। यत्र च विवक्षितत्वं तत्र वाच्यस्यस्वतः संभवित्वात्प्रौढोक्तिमात्र निष्पादितशरीरत्वाच्च द्वैविध्यम्। अतस्तत्र तस्याष्टौ भेदा भवन्ति। एते चाष्टौभेदा वाच्यस्य यत्राविवक्षातद्विषयाभ्यां पूर्वोदिताभ्यां द्वाभ्यां भेदाभ्यां संकलिताः सन्तो दश संपद्यन्ते। एत एव तु पदवाक्यप्रकाश्यतया द्वैगुण्यं भजमाना विंशतिर्भवन्तिवर्णसंघटनाप्रबन्धावारस्य व्यञ्जकत्वस्य कृत्तद्धितादिगतस्य च पदवाक्यानुप्रवेशेनैवाविर्भावात्। पदप्रकाश्यत्वं यथा **रामोस्मी**ति। **चक्राभिघाते**त्यादौ तु वाक्यप्रकाश्यता। यथा च प्राधान्यभूते व्यङ्ग्येएषा
-
-
 
 व्यञ्जकता विंशतिविधा भवति तथा गुणीभूतेपि यथासंभवं योज्येति।**तदाहुः**—
 
@@ -2637,8 +2339,6 @@ to five different views on the interpretation of this definitionof the figure �
 सारसङ्ग्रहलघुवृत्तौ षष्ठो वर्गः॥६॥  
 *          ***
 
-
-
 **NOTES.**  
 ¯¯¯¯¯¯  
 
@@ -2660,8 +2360,6 @@ I.
  **P.1, L.1**—पुनरूक्तवदाभासं etc. The whole work is dividedinto six वर्गऽor chapters. The first chapter begins with theenumeration of four शब्दालंकारऽ beginning with पुनरुक्तवदाभासand four of the अर्थालंकारऽ
 beginning with रूपक.M. readsपुनरुक्तवदाभासः.
 
-
-
  The author of the विवृति, whoever he may be, gives aourious reason why the alaṅkāras are treated and presented here by Udbhaṭa in so many groups. He says, it is toshow the limited vision (knowledge) of the oldĀlankarikas:वर्गैर्वर्गैरलङ्कारोपादानं चिरन्तनालङ्कारकृतामल्पदर्शितां प्रकटयितुं। Perhaps thisremark of the commentator may have some reference to the undeveloped state of the science of alankāras alludedto in the first verse given above from the southern manuscript.
 
  **P.1, L.4**— इत्येतएव...उदाहृताः। These are the only alaṅkārasof speech mentioned by some. Here the author appears torefer to some of the ancient ālaṅkārikas (like Bharata)who have mentioned some four, six or eight alankārasonly. Udbhaṭa thus seems to be aware of the historicaldevelopment in alaṅkāraśāstra. Bharata mentions onlyfour alaṅkāras, viz:—
@@ -2679,15 +2377,11 @@ beginning with रूपक.M. readsपुनरुक्तवदाभास�
 
 ** P.I, L.4**—वाचाम्। The विवृतिकार explains वाचाम् thus:—वक्तीति उच्यत इति च वाक् शब्दार्थश्च which means ‘of word of sense and ofboth.’तत्राद्यः उभयस्य शब्दस्यार्थस्यच। ततस्त्रयः शब्दस्य। शेषास्त्वर्थस्यालङ्काराः।
 
-
-
  **P.1, L.14—** अत्रानुप्रासे रूपके...चतुरितिचोक्तम्।The words त्रिधाattached to अनुप्रास and चतुः to रूपक in the very threshold areintended to removedifference of opinion about theirsubdivisions, for Bhāmaha has only two kinds of अनुप्रासand two kinds of रूपक. Thus Indurāja, the विवृतिकार saysthat the mention of the number of subdivisions of अनुप्रासandरूपक is made in order to suggest that these subdivisionsshould be prominently understood as they are seen in many, alaṅkāra works. He remarks—अनुप्रासस्त्रिधेति रूपकं चतुरिति च पश्चाकर्तव्यमपि विभागप्रतिपादनं यद् उद्देश एव कृतं तद् बह्वलंकार-\[ग्रन्थ-\]दृष्टसप्रभेदालंकाराष्टकमत्र दर्शितमिति मुख्यत एवास्योपादेयता ध्वननाय। अत एव कैश्चिदिति ‘बहुवचनम्। भामहो हि द्विविधं रूपकं चानुप्रासं चावादीत्।पर इत्यादिवक्ष्यमाणबहुवचनस्यायमेवाशयो ज्ञेयः।
 
 ** P.2, L.1—**रूपकं चतुरित्यत्र...भवतीत्यर्थः। The word चतुः is formed by \[संख्यायाःक्रियाभ्यावृत्तिगणने\] द्वित्रिचतुर्भ्यः सुच्। पा. ५।४।१७ and५।४।१८, and means “four times,”not “of four sorts.”Thetermination is सुच् (स्) where there is क्रियाभ्यावृत्ति i.e. repetitionof action. The nature of रूपक(Metaphor) appears permeatingthe four divisions of it, and thus the existence ofरूपक is repeated four times in them. So रूपकं चतुः means रूपक (Metaphor) severally exists four times (in its four divisions) i.e. hasfour sorts. In त्रिधा the termination is धा which means प्रकार (पा. ५।३।४२); but in चतुः the termination is सुच् which means times or repetition. Hence arises the apparent difficulty which Indurāja has thus explained very ably. विवृतिकार says— रूपकजात्युपलक्षितव्यक्तिगतं प्रतीयमानं भवति। क्रियाभ्यावृत्तिगणने कृत्वसुजित्यत्र द्वित्रिचतुर्भ्यःसुजिति सुच्। तेन चतुर्भेदं रूपकमिति तात्पर्यार्थः।
 
  **P.2, L.7—** पुनरुक्ताभासं। In the enumeration at the beginning Udbhaṭa names the figure as पुनरुक्तवदाभासम्, while inthe definition he calls it पुनरुक्ताभासम् for the exigencies ofmetre, it seems. The author puts it in neuter genderin both places as he takes it with reference to poetry (काव्य) which it embellishes. The real name accepted byall the ālaṅkārikas (except Ruyyaka) is पुनरुक्तवदाभासः,पुनरुक्ताभासम् is the लक्ष्यनिर्देश andअभिन्नवस्त्वि...रूपपदम् is the लक्षणor definition, which is a very long and awkward compound. Indurāja explains it as aबहुव्रीहि of five padas including twoबहुव्रीहिऽof two padas each. When dissolved in the
-
-
 
 way of the commentator the whole compound means: \[aकाव्य\] where two padas (words) having different verbalforms, appear to be one thing i.e. having one meaning. The word वस्तुin this compound means ‘sense’or‘अर्थ’and‘रूप’means‘the literal form’of the word. Where theliteral form of two words is different but their sense isapparently the same this alaṅkāra occurs. The विवृतिकारhas a rather lengthy and technical discussion on thedefinition of पुनरुक्तवदाभास. अभिन्नं वस्तु वाच्यं ययोस्ते अभिन्नवस्तुनी ते इवभासेते भिन्नरूपे पदे यत्रेति केचिद्व्याचचक्षिरे।
 
@@ -2701,8 +2395,6 @@ way of the commentator the whole compound means: \[aकाव्य\] where two 
 
 ** P.2, LL.16-20—** काचित्खलु... तस्यालंकारः। Sometimes a termis used having some suggested meaning attached to it; andat other times it is used only with the expressed meaning. In the enumeration, the name of the figure gives out themeaning of similarity by the taddhita termination वत्;while here in the definition the notion of similarity is
 
-
-
 brought out by force of suggestion. Thus the line पुनरुक्ताभासमभिन्न etc. gives the definition of poetry that containsपुनरुक्ताभास having with it by suggestion the sense of the termination वत्.
 
  On this the विवृतिकार has this remark: काचिन्निर्दिश्यमानार्थान्वयिनी काचिदर्थसामर्थ्याक्षिप्तार्थान्वयिन्यभिवा भवतीति दर्शनायोद्देशे वतिं कृत्वानेनप्रायुङ्क्त। एतद्दर्शनं चानन्वयोपमादिगम्यमानस्यापह्नुतिरूपकादिर्वाच्यस्य भेदेन भिद्यत इतिदर्शनार्थम्।
@@ -2715,8 +2407,6 @@ brought out by force of suggestion. Thus the line पुनरुक्ताभ
 
  **P.3, LL.6-7—** कालवशेन निवर्तमाना... पीडा यस्य सः। The Nirnaya Sāgara edition makes here a needless and quite faultyemendation of the text. It has कालवशेन निवर्तमाना (या) सती (तस्याः) वियोगेन जनितो यः शोकवह्निस्तदुद्भवा पीडा यस्य। This emendation really
 
-
-
 makes no relevant sense. If the सती is निवर्तमाना (returning) how can there be वियोग(separation) from her? Andbesides how can सतीreturn by the influence of time? Butall this argument is not even wanted. From the context of the story and the construction of the sentence we canobviously see that the शोकपीडाis described as returning(निवर्तमाना)through influence of time. The N.S. edition hasneedlessly separated सती from वियोगेन and added या and तस्याःbefore and after it. The विवृत्तिकारisherequite explicit. Hewrites कालेन गलन्तीसतीशोकानलव्यथा यस्य सः।
 
  **P.3, LL.8-14—** अत्र नागकुञ्जर... पुनरुक्ताभासत्वम्। The words नागकुञ्जरand शितिकण्ठ, कालगल appear to be repeated having apparently the same meaning at first sight. But on furtherconsideration of the sense of the whole verse that apparentrepetition vanishes and the real difference in the meaningis manifest. Thus नागis an elephant andकुञ्जर is the best ofits kind.’Similarly the possibility of repetition of the wordशितिकण्ठ and कालगल as giving at first sight the meaning of ‘theblack-necked’is set aside by properly construing theline and taking the first word of the compound to be meaning ‘disappearing by time,’ as कालगलन्ती सतीशोकानलस्यव्यथा यस्य.
@@ -2724,8 +2414,6 @@ makes no relevant sense. If the सती is निवर्तमाना (ret
  पुनरुक्तवदाभास is an उभयालङ्कार i.e of word and sense both; of sense in as much as the alaṅkāra is not violated evenwhen the words नाग andशितिकण्ठ are substituted by theirsynonyms, and of word as it vanishes when the wordsकुञ्जर and कालगलत्are substituted by their synonyms.
 
 ** P.3, LL.15-19—** ननु छेकानु... बलीयस्त्वात्। Here there is a discrepancy. The example ofपुनरुक्तवदाभास is placed (by theauthor) after the definitionछेकानुप्रास.How is it then thatthe example is given here just after the definition ofपुनरुक्तवदाभास is discussed? The answer is:— It is cited herebecause the meaning of the definition is not properlygrasped unless an example is given to illucidate its application. Thus there is no discrepancy in mentioning theexample just after the definition of पुनरुक्तवदाभास. In the sameway hereafter no fault should be found in commentingupon the text in accordance with the sequence of the
-
-
 
 subject matter and reversing the order of the work itselfwhere necessary. For the sequence of the subject matter isalways more powerful than the order of the reading ofthe text.
 
@@ -2737,8 +2425,6 @@ subject matter and reversing the order of the work itselfwhere necessary. For th
 
  **P.3, L.21—**छेकानुप्रासस्तु द्वयोः etc.। छेकानुप्रास consists in acharming expression of groups of similar vowels andconsonants, two at a time. One group of letters is to becharmingly similar to the next following and only two such groups similar to each other are to occur at a time. But in all there are to be many such couples of similar
 
-
-
 groups. The विवृतिकार has—द्वयोर्द्वयोर्वर्णयोः सुष्ठु अदूरे सदृशोच्चारणे क्रियमाणेछेकानुप्रासो भवति। द्वयोर्द्वयोर्वर्णयोश्चात्र सादृश्योक्तेरलंकारता।
 
 ** P. 3-4, L.25—**द्वयोर्द्वयोरिति–स्वार्थे...द्रष्टव्यम्। The repetitionद्वयोर्द्वयोः is made by the rule स्वार्थे अवधार्यमाणे अनेकस्मिन् aवार्तिकon 'प्रकारे गुणवचनस्य'। पा. ८।१।१२. It means when the (parts of the) thing itself are determined out of many, the indicative word for the part is to be repeated. Here by the mention of the part, the desire of pervasion (वीप्सा) of all theparts is excluded and so all possible combinations ofletters are not to be mentioned but some only. For pervasion is meant where there is entirety, but it is excludedhere by the word स्वार्थ. The word अवधार्यमाण in the Vārtikashows that only two such groups of letters at a time areto be made similar and not three at a time. The wordअनेकस्मिनू indicates that the repetition of such combinationsmade several times and not only once gives rise to छेकानुप्रास.Thus a series of groups of similar letters mentionedtogether twice constitutes the figure छेकानुप्रास. See Pataṅjali's महाभाष्य with कैयट VIII. 1,1, for the explanation of the वार्तिक.
@@ -2746,8 +2432,6 @@ groups. The विवृतिकार has—द्वयोर्द्वय�
  Theविवृत्तिकारsummarises the whole argument and putsit thus:— स्वार्थेऽवधार्यमाणेऽनेकस्मिन्निति द्वयोर्द्वयोरित्यत्र द्विर्वचनम्। स्वार्थशब्देनवीप्साया निरस्तत्वान्न यावन्तोऽत्र द्विकास्तेषां सर्वेषामेव सदृशत्वं कार्यम्। साकल्ये हि वीप्सा भवति। अवधार्यमाणग्रहणाद्द्वयोरेवानेकस्मिन्निति वचनाच्चासकृत्। तेनानेकस्याक्षरस्य द्विरुच्चारणं छेकानुप्रासः।
 
  **P.4, LL.6-16**—छेकाः। This is explained in two ways:—(1) Birds that are addicted to their homes and do not go outat all are called छेकाः.Such birds by their lonely andundisturbed mode of living develop a charming voiceand from its similarity the अनुप्रास is called छेकानुप्रास. ‘गृहासक्ताः पक्षिमृगाश्छेकास्ते गृह्यकाश्चते’इत्यमरः। (2) छेकाः means विदग्धाःlearned or clever men. Thisअनुप्रासmight have been calledछेकानुप्रास because it was especially liked by छेकाः, acoomplished men. The word अनुप्रास is also (अन्वर्थ) used in its literal sense, since it consists in (प्रास) & convenient arrangement, in a काव्यof similar letters or groups of letterscongenial (अनु) with the sentiment, so as to embellish it रसाद्यनुगुणत्वेन प्रकृष्टो न्यास इत्यनुप्रासः।
-
-
 
  The whole of विवृतिकार's comment on छेकानुप्रास follows Indurāja.
 
@@ -2762,8 +2446,6 @@ groups. The विवृतिकार has—द्वयोर्द्वय�
 ** P.5, LL.1-2—** अतस्तास्तावद्वृत्तयो... ग्राम्यत्वभेदात्। Thereforethe styles of composition capable of manifesting differentsentiments and emotions are described first. अनुप्रासwill thenbe easily understood from them. Those are three: परूषा उपनागरिका and ग्राम्या.
 
  **P.5, LL.3-4—**परुषा। शषाभ्यां रेफसंयोग...।“Thestyle iscalled rough (परूषा) when it bristles with letters श षand टवर्ग andconjuncts with र्(such as क्र र्क, etc.) and ह्ल ह्व,and ह्य”The alliteration in this kind of style is called परूषानुप्रास.
-
-
 
  The विवृत्तिकारhas something more to say than Indurājaon this Kārikā—णकारवर्जमिह टवर्गस्तस्यपरुषत्वाभावात्। परुषवर्णारब्धत्वाच्चपरुषावृत्तिर्वर्तनं रसविषयो व्यापारः अत्र परुषानुप्रासः। सरूपव्यञ्जनन्यासरूपानुप्रासपर्यालोचनया च शेनैव षेणैव वेत्याद्यवधारणं वदन्ति। शषयोरैक्यं नास्ति सरूपत्वं त्वस्त्यैवेति शषाभ्यामेवेत्यवधारणमित्यन्ये मिश्राः। कवीन्द्रै रचना अल्पदीर्घाः कार्या इत्यन्यत्रोक्तेरिह चकेलिलोलेत्यादौ तथा दर्शनात्। बहुभिः शषादिभिः सर्वैरपि च कार्येति युक्ततरम्। एवमन्यत उदाहरणम्।
 
@@ -2780,8 +2462,6 @@ groups. The विवृतिकार has—द्वयोर्द्वय�
 
 ** P.6, LL.3-8.—** अत्र दकाराख्यः... वृत्तिपदार्थभूतम्। Here the conjuncts of नand द are beautifully repeated. The epithetसान्द्र is to be taken with बिन्दवः and not with अरविन्दवृन्द The expression सुन्दरस्यन्दं स्यन्दिभिः is to be understood in the senseof a particular action of beautiful dropping among thecommon actions of dropping, according to Paṇini's rule,'स्व पुषः'। पा.३।४।४० illustrated in expressions such as रैपोषंपुष्णाति. The compound becomes adverbial: सुन्दरस्यन्दो यस्मिन्कर्मणि
 
-
-
 यथा स्यात्तथा \[स्यन्दिभिः\]. Here in the explanation of the compound सुन्दरः स्यन्दो यस्मिन्, 'the general dropping' is the अन्य पदार्थ(the third thing to be meant) and 'the particular dropping i.e. beautiful dropping’is the component part ofthe compound. इन्दिन्दिराः= भ्रमराःbees. The विवृतिकार here only states the gist of Indurāja's explanation in his comment.He simply writes— रैपोषं पुष्णातीतिवत् सामान्यस्यन्दो विशेषितः।
 
 ** P.6, LL.9-10—** ग्राम्या।शेषैर्वर्णैर्यथायोगं...। Scholars wellversed in poetics describe the homely style to consist ofthe rest of the letters (such ल and others). The style is(also)called कोमलाtender or agreeable. The अनुप्रासin it iscalled ग्राम्यानुप्रासsmooth or simple alliteration.
@@ -2793,8 +2473,6 @@ groups. The विवृतिकार has—द्वयोर्द्वय�
  **P.6, L.20—** एवमेतास्तिस्रो...व्याख्याताः। Thus the threestyles are explained. The अनुप्रासis separately composed inthese with a view to help the expression of sentiments. Thesame is said in the Kārikā सरूपव्यञ्जनन्यसं…..(see p.4, 1.24.).
 
  The वृत्तिऽ or styles of Udbhaṭa described here shouldnot at all be confounded with theरीतीऽ or modes of expression such as वैदर्भी, पाञ्चाली, गौडी etc. given by authors likeDaṇḍin, Vāmana and others. Theवृत्ति of Udbhața cannotreally be called style in the strictest sense. It is only theoutward form of letters and has nothing to do with thesense. The रीतीof Daṇḍin and others is properly to becalled style in the real sense of the word. The रीतीऽ wereoriginally the provincial peculiarities apparent in thelanguage of the people which afterwards were consolidatedinto a settled form.
-
-
 
  The अनुप्रासand वृत्तिऽ of Udbhaṭa are a new feature ofhis work. The वृत्तिऽ do not exist in Bhāmaha. His definition of अनुप्रास is सरूपवर्णविन्यास which, it will benoticed, ishappily improved upon by Udbhaṭa by putting the wordव्यञ्जन instead of वर्ण, अनुप्रास always occurs with consonants ;other वर्णऽ i. e. स्वरऽ are not to be reckoned in अनुप्रास. Mammata's treatment ofअनुप्रास is very similar to that of Udbhaṭa.
 
@@ -2812,8 +2490,6 @@ groups. The विवृतिकार has—द्वयोर्द्वय�
 
  5th variety:—पादाभ्यासक्रमेण च। Repetition of पादऽ (quarters of verses) in all its orders. All repetitions-once, twice, thrice and in all possible orders—are to be included.पदसमुदायात्मके च पादे भावात्— Indurāja. Example—स्त्रियो महति भर्तृभ्यआगस्यपि न चुक्रुधुः। भर्तारोपि सति स्त्रीभ्य आगस्यपि न चक्रधुः॥ Here the
 
-
-
 fourth पादis the repetition of the second. The firstआगस्यपि न चुकुधुः refers to the women and the second to thehusbands. Hence the purpose of both is different.
 
  Thus we have here described the five varieties ofलाटानुप्रास. Indurāja treats them not in the order in whichthey are stated in the Kärikās but in the order in whichtheir examples occur. Accordingly he has treated thelast two varieties first.
@@ -2825,8 +2501,6 @@ fourth पादis the repetition of the second. The firstआगस्यपि 
 ![](../books_images/U-IMG-1732646037Screenshot2024-11-27000203.png)
 
  Nos. I and II are the 4th and 5th varieties according to Udbhaṭa's enumeration. No. III is the 2nd variety of
-
-
 
 Udbhaṭa. Nos.
 
@@ -2847,8 +2521,6 @@ V are respectively his second and third.
 
 ** P.7, L.20—**काशाः काशा इव..।“Kasa (white grass) appearing beautiful just like Kāśa grass, lakes and rivers appearing only as lakes and rivers, ravished the hearts of theyoung.”Here काशऽare again compared to काशऽ. This produces a shade of अनन्वयालंकार (q.v.). Here the wordsrepeated areस्वतन्त्रas they are complete grammaticalforms उपलभ्यमानसुप्तिङ्-रूपाः.
 
-
-
  **P.8. L.9—**स्त्रियो महति...।Here अगस्यपि न चक्रधुः has differentpurposes in both places. The first tells the क्रोधाभाव(absence. of anger) of the lovers, while the second shows the क्रोधाभाव of theladies.
 
 ** P.8, L.24—** कचिदुत्फुल्लकमला...।Here कमल, षट्पद and मुखरare repeated having different purports in their differentplaces. The description ofशरत् which was commencedfrom तत्र तोयाशयाetc. (P.5.) is also continued trough thisverse. All the four epithets are adjectives ofशरत् How the तात्पर्यor purport of the repeated words is different isexplained in the commentry.
@@ -2864,8 +2536,6 @@ V are respectively his second and third.
  The विवृतिकार has something more to add here:—तस्येत्युपचारात् तत्संबधिनाविहोच्येते। उपमानोपमेययोः सामानाधिकरण्यसंबन्धात्मना रूपकस्य
 श्रीतत्वाभावात्तेन तत्संबधिनोर्यतः शाब्दो बन्धः तत्समस्तमारोप्यारोपविषयात्मकमुभयं
 
-
-
 वस्तु विषयः शाब्दमस्येति समस्तवस्तुविषयं, श्रुत्या सामर्थ्येन च यदा बन्धस्तेन कारणे नैकदेशे विशेषेण शाब्देन क्रमेण वर्तत इत्येकदेशविवर्ति।
 
 ** P.10, L.11—** समस्तवस्तुविषयं...! “A रूपक containing astring (a series)\[of superimpositions\] is \[also\] calledसमस्तवस्तुविषय and it is called also एकदेशवृत्ति when the प्रकृतthing is described in the form of अप्रकृत (पर).”
@@ -2875,15 +2545,11 @@ V are respectively his second and third.
  This is the comment of Indurāja on Kārikā 11 and itis quite simple and lucid. The विवृत्तिकारhas rather apedantic dissertation bearing on this Kārikā. He observes— यत्पदेन पदान्तरं संबध्यते तद्रूपकम्। नन्वेवं वृक्षो भातीत्यत्रातिप्रसङ्ग इत्याह गुणेषु धर्मेषुवर्तमानम्। एवमपि नीलोत्पलमित्यत्र प्राप्तिरित्याह श्रुत्येत्यादि। श्रुतिर्निरन्तरार्थनिष्ठस्यव्यापारः तत्प्रतिपादितोऽर्थ इहोपचाराच्छुतिः। क्रियया योऽभिसंबन्धः स श्रुतिप्रापितः। तयोराश्रयाश्रयिणोर्वाक्यानियमस्त्वतिष्ठत इति न्यायादरुणयैकहायन्या पिङ्गाक्ष्या सोमंक्रीणातीत्यादौ अरुणादिक्रयाद्योरेव तृतीयया प्रतिपादने संबन्धस्य श्रौतत्वात्। तदभावे रुणैकहायन्यादीनां वाक्यीयसमन्वय सद्भावान्न श्रौतसंबन्धाभावमात्रान्न भवति गुणवृत्तित्वमिति हि मुख्यार्थबाधः। तेन श्रोतेनार्थेनार्थान्तरस्यार्थाय वाक्यीयसमन्वयः तदभावेयदा
 स्वगतगुणसमगुणवृत्तिर्भवति। उपमानोपमेययोः गुणैरिव गुणानामपि धर्मान्तरेणसाम्यकल्पनायान्त्वनवस्थापदस्य श्रीतेनार्थेन श्रुत्या संबन्धो भवत्येवेति तदभावो न व्याख्येयः। तदेवं श्रौतेनार्थेनानुपपद्यमानार्थान्तरसंबन्धगत एवं साधारणान् गुणान् लक्षयित्वापदार्थादुपसर्जनमप्राकरणिकार्थाभिधायि प्राकरणिकार्थाभिधायिना पदेन गौणेन व्यापारेण संबन्धं भजते यत्तद्रूपकम्। आरोप्यमाणरूपेणारोप्यमाणविषयस्य रूपवतः क्रियमाणत्वात्।
 
-
-
  **P.10, LL.19-20**.—ज्योत्स्नाम्बुने......मसिच्यत। Example ofसमस्तवस्तुविषयरूपक. “The garden in the form of the skyvariegated with flowers in the form of the stars wassprinkled over by yourg maidens one by one in the form ofsuccessive nights with water in the form of moonlight bymeans of a jar in the form of the moon.”
 
 ** P.10, L.21.**—अत्राम्बुशब्दो......रूपकताप्रसङ्गः। Here the रूपकis clear. ज्योत्स्ना is the प्रकृत and it is called अम्बु. It is impossible forअम्बु (water) to mean ज्योत्स्ना(moonlight) by thedirect process. Therefore it resorts toगुणवृत्ति and meansअम्बुगुणसदृशगुणवती. When we say that ज्योत्स्ना is अम्बु we meanthat ज्योत्स्ना has qualities very similar to those of अम्बु. Withthis meaning, then, the termअम्बु. can validly be appliedto. ज्योत्स्नाThe same is the case with all the other parts of the रूपक, viz. इन्दुकुम्भ, ताराकुसुम etc. Now in नीलमुत्पलम् it is truethat नील qualifies उत्पल; but it does not resort to गुणवृत्ति forqualifying उत्पल.It can qualifyउत्पलor any other blueobject by its own direct power. Therefore there is no possibility ofरूपकin that case.
 
  **P.11, LL.3-13.**— ननु विरुद्धार्थाभिधायिनोः.... ...गुणवृत्तित्वप्रसङ्गः। Ifit be said that out of two words giving opposite meaningsand being in the same case, which cannot be mutuallyconnected by the direct or अभिधाprocess, if one of them issaid to beगुणवृत्ति (subordinate) then alternately each ofthem would become subordinate. As the word अम्बुis saidto be गुणवृत्ति, evidently ज्योत्स्ना can also be said to be गुणवृत्ति andbe connected withअम्बुas the principal word. But the word प्रधानेन in the Kārikā precludes such a possibility. Itis always quite consistent that the subordinate epithetshould possess गुणवृत्तित्व by लक्षणा as it is the epithet whichqualifies the principal. Now the प्राकरणिक i.e. the thingbelonging to the subject in hand, is always the principal\[in poetry\]; and the other thing is regarded as of a subordinate nature and so it ought to be considered the qualifyingterm. Therefore the word अम्बुwhich is अप्राकरणिकi.e. notbelonging to the subject of description should properly beaccepted as गुणवृत्ति with reference to the word ज्योत्स्नाwhichbelongs to the प्रकरण or the subject. Thus there is no
-
-
 
 chance of ज्योत्स्ना and अम्बु both being taken as गुणवृत्तिऽ promiscuously or alternately.
 
@@ -2892,8 +2558,6 @@ chance of ज्योत्स्ना and अम्बु both being taken as
 ** P. II, LL, 14-21.—**ननु च ज्योत्स्नाम्बुने......मन्यत्समासोक्तम्–इति। Again it may be said that in the expression ज्योत्स्नाम्बुना, अम्बु is प्रधान and ज्योत्स्ना is गौण. For in this श्लोक the action described is sprinkling which has totally enveloped the real action of pervading (व्याप्ति). Pervading is the real action concerning the subject. But it is here described as sprinkling (in a hyperbolic fashion). Now the thing required for sprinkling is water which is here present in the form of ज्योत्स्नाor moonlight. Thus, taken in this light, the word ज्योत्स्ना assumes a qualifying nature and water becomes the principal material. This interpretation gives the sensethat the water which is required as a material for sprinkling is nothing but moonlight. This view is also supported by Rudraṭa. He says: उपसर्जनोपमेयं etc. (Rudraṭa's काव्यालंकार,८,४०.) When the उपमेय which is प्राकारणिक enters into acompound with उपमान that is अप्राकारणिक as a subordinate member of it, there is रूपक; and in other place thereis समासोक्त.
 
 ** P. II, L. 22.—**तत्कथमिदमुक्त.......रूपकत्वमुक्तम्।Then how is it said that the word is अम्बुis गौण here for the reason that ज्योत्स्ना is प्रधान? We answer this objection in the followingway. There are two states of things existing here. One is the superimposition ofअम्बुuponज्योत्स्नाand the other the connection of ज्योत्स्ना that has assumed the form of अम्बु with the action of sprinkling. In the former case when अम्बु is superimposed upon ज्योत्स्ना, अम्बु assumes the गुणवृत्ति by means of the qualities ofअम्बुwhich are to be shown as exactly similar to the qualities of ज्योत्स्ना. Thus in this case अम्बु is taken to be गौण and ज्योत्स्ना to be प्रधान because it is प्राकरणिक \[as said before\].
-
-
 
  **P. 12, L. 3–6.—**यदात्वसौ.....गुणेषु वर्तमानत्वात्। But when once the word अम्बुexpresses ‘ज्योत्स्ना(moonlight) as having the nature of water’and thus becomes connected with the action of watering the wordअम्बुitself in that case becomes qualified byज्योत्स्ना meaning that the water which is used here as a material for sprinkling is of the nature of ज्योत्स्ना. This is the second state of things referred to above. But in this case there is no रूपक. It was in the former case that अम्बु had resorted to गौणवृत्ति. Hence it assumes the shade of अतिशयोक्ति in this state. For the sense ज्योत्स्ना or moonlight is completely enveloped in this case by the sense ‘water’in order that it may have the योग्यता of the action of sprinkling. In the former caseअम्बु was understood to be गौण, for ज्योत्स्ना being the प्राकरणिक was प्रधान.
 
@@ -2907,8 +2571,6 @@ chance of ज्योत्स्ना and अम्बु both being taken as
 —इति। एतयोरित्युपमानोपमेययोः। तच्छाब्दप्रक्रमानुसारेण। शाब्दे हि क्रमे सिंहो माणवक इत्यादौ सिंहादिरूपावच्छादितो माणवकादिरप्रधानभूतः प्रतीयते। वास्तवनयानुसारे तु उक्तरीत्यास्य (सिंहस्य) गुणवृत्तित्वम्। अत एव शाब्दनयानुसारेणासिच्यतेतिक्रिया समुचिता। एतत्क्रियोपादानसामर्थ्याच्चाम्ब्वादीनामप्राधान्यमिति रूपकपरिग्रहे न्यायोऽस्तीत्यनेकालंक्रियोल्लेख इत्यादिसंकरलक्षणं भव...तदा...। एवं सति द्वे तत्रावस्थे। तत्र ज्योत्स्नाप्राधान्ये रूपकमम्बुप्राधान्येऽतिशयोक्तिच्छायेतिव्याख्यानमसत्। एतस्मिन् वाक्येऽवस्थाद्वयप्रतिपत्तेः। अत्र च सर्वेषामारोप्यमाणानां......वस्तुविषयता। Unfortunately the MS. contains omissions at the end. Still we can ascertain the general tenor of the argument.
 
 ** P. 12, LL. 8-10.—**रूपकत्वं चात्र... दन्वर्थंद्रष्टव्यम्। रूपक is the superimposer of one thing over another. In रूपक the object on which superimposition is effected (आरोपविषय) is made to assume the nature (रूप) of the thing which is superimposed, आरोपविषयं वस्तु रूपवत् करोतीति रूपकम्.
-
-
 
 ** P. 12, LL.11–15.**—अत्र चोपमानवर्तिनो.... युक्त इव दृश्यते। Here as the properties similar to those which exist in उपमान are seen in the उपमेय, the superimposition of the nature and word of the उपमान is made on the उपमेय. Here there are three views: Some say that there is शब्दारोप first and अर्थारोप afterwards. First the things are verbally said to be the same and afterwards the sameness of their qualities etc. is understood. Others say thatअर्थारोप is made first and then शब्दारोप. But still others say that शब्दारोप and अर्थारोप are made simultaneously. The last view seems to be proper. For the same view is accepted in the Kārikās that follow.
 
@@ -2930,8 +2592,6 @@ chance of ज्योत्स्ना and अम्बु both being taken as
 
  Indurāja dissolves and explains the terms समस्तवस्तुविषय and एकदेशविवर्ति thus:–अतः समस्तवस्तुविषयत्वम्। समग्राणि ह्यत्र रूप्यत्वेनाभिमतानि वस्तूनि स्वकण्ठेनोपात्तस्य रूपकस्य विषयः। ...एकदेशविशेषेण स्वकण्ठोक्त्यावर्तनात् एकदेशविवर्तित्वम्। **p. 13**. The विवृत्तिकार explains much in the same manner—तस्मात्समस्तमारोप्यारोपविषयात्मकमुभयं वस्तु विषयः शाब्दमस्येति समस्त-
 
-
-
 वस्तुविषयम्। श्रुत्या सामर्थ्येन च यदा बन्धस्तेन कारणेनैकदेशे विशेषेण शाब्देन क्रमेण वर्तते इत्येकदेशविवर्ति।
 
 ** P. 13, L. 12.**—उत्पतद्भिः....। अवीज्यन्त। Though the root वीज् is not enumerated in the धातुपाठ of Paṇini still it is to be accepted as a valid root, like मिल्, खच्, क्लव्, क्षप् which are accepted and used by the learned. In the verse only two रूपणऽ are expressly mentioned viz, पिच्छ is mentioned as वाल and सरः as नृप. But there is no metaphor supplied for राजहंसऽ and शरद्. We have to understand चामर as the उपमान for राजहंस and नायिका for शरत्. The meaning of the verse is: The kings in the form of lakes are fanned by (the maiden in the form of) autumn by means of (chowries in the form of) swans having clusters of hair in the form of rows of feathers. The unexpressed रूपकऽ are also made clear in this.
@@ -2949,8 +2609,6 @@ and adds the remark इत्यादावेकदेशाद्विवर
 
 ** P. 14, LL. 1–2.**—वनान्तदेवता...।“The rows of bees shone as braids of hair of sylvan deities, as (iron—) chains of death to the ladies whose husbands were away and again as swords of the warriors of cupid”The three different रूपणऽ
 
-
-
 upon the same subject of description viz. भृङ्गमालाः are very clear.
 
 ** P. 14, L. 8.**—एकदेशविवर्ति तु....। एकदेशवृत्तिरूपक is where the प्रकृत object is made to assume the nature of the पर or अप्रकृत one. Here the reading ought to be एकदेशवृत्ति and not एकदेविवर्ति as will be clear from the sequel.
@@ -2966,13 +2624,9 @@ upon the same subject of description viz. भृङ्गमालाः are ver
 
 ** P. 14. LL. 15–19.**—यदुपार्जनं तद... तेनात्रैकदेशवृत्तित्वम्। The commentary here is rather obscure. The obscurity will be
 
-
-
 removed if we displace the words येन तद्रूपवत् क्रियते from their present position and connect नृपविशिखराज्यभूम्यात्मकं with कारककदम्बकं which it qualifies. येन तद्रूपवत् क्रियते or better, तेन (परेण) यद्रूपवत्क्रियते (तद्रूपम्) is only & paranthetical clause explaining the word रूप. The meaning of the passage is:—The action of ‘acquiring’is here what is अप्रकृत and hence पर or अन्यत् The complete form (रूप) of this sense of ‘acquiring’, which is the पर and अप्रकृत sense, is the group of कारकऽ (i. e. substantives having some relation with the verb viz. कर्ता, कर्म, करण, संप्रदान, अपादान, and अधिकरण) which consists of नृप, विशिख, राज्य, and सङ्ग्रामभूमि. नृप or king is the subject (कर्ता) of the action of acquiring, विशाखाः(arrows) are the means (करण), राज्य is the object (कर्म) and संग्रामभूमि is the अधिकरण of the action of acquiring. Thus all this paraphernalia ofकारकऽ forms the of रूप of the पर sense i.e. becomesपररूप.And by this पररूप. i.e.theकारकऽofthe verb प्रसाध्यते(in the sense of acquiring) the superimposition uponबलाहक, आसारधारा, दिक्and नभोभाग—all these being the objects intended to be superimposed upon—is effected in order. Thus नृप, विशिख, राज्य and संग्रामभूमि are respectively superimposed upon बलाहक, आसारधारा, दिक् and नभोभाग. In this way there is एकदेशवृत्तित्वhere. The whole play is on the word पररूप.
 
 ** P. 14. LL. 19–21.**—एकदेशवृत्तीत्यत्र...स्याभिमतम्।The interpretation of the term एकदेशवृत्ति is rather curious: एकदा ईशः (वाक्यार्थः) तद्वृत्तित्वम्। “To be in accordance with a sense which is at one time the principal sense of the sentence”. From this interpretation the nature ofएकदेशवृत्ति रूपक becomes somewhat clear. When two distinct senses are expressed in one sentence in the manner of a metaphor one of them is प्राकरणिक and the other is अप्राकरणिक. In the instances such as ज्योत्स्नाम्बुना etc. cited before, both the senses are expressed by two distinct sets of words and the verb असिच्यत applies to one of the senses only. Thus the whole purport of the sentence is single and concordant. But in a sentence where a metaphor is expressed by means of a श्लिष्ट verb the situation is different. There only one sense can be prominent at one time, for there is a rule of the मीमांसकऽ that one word can mean only one thing at a time, सकृदुच्चरितः शब्दः सकृदर्थंगमयति. In the example ज्योत्स्नाम्बुना etc. the verb असिच्यत
-
-
 
 has only one meaning and the meaning of the whole sentence is made convergent to the meaning of असिच्यत by resorting to गुणवृत्ति. But in the example आसारधाराविशिखैः (st. 14,) the verb प्रसाध्यते has two distinct alternate meanings. When the प्राकारणिक sense ofप्रसाध्यते viz. ‘decorating’is brought out then the sense ‘that the quarters are embellished by the white clouds’is prominent and the metaphor is thrown into the back-ground. But when the sense ‘acquiring’of the verbप्रसाध्यते is brought into prominence then the metaphorical sense viz. विशिख, नृप, राज्यand संग्रामभूमि is brought to the forefront, अन्यत्र अन्यदा च प्रभविष्णूपार्जनं अप्रकृतं हि तत् श्लेषवशेनात्र नीतम् (P. 15, l. 1.). Thus it will be seen that here रूपक exists along with the sense (viz. acquiring) that is *at one time* (not always) prominent in the sentence. एकदा ईशः यो वाक्यार्थः तद्वृत्तित्वं रूपकस्याभिमतम्. This peculiar sense of एकदेश is given by Indurāja on the authority of Udbhaṭa who, he says, explains the word एकदेश in this manner as एकदा ईशः in his भामहविवरण.
 
@@ -2983,8 +2637,6 @@ has only one meaning and the meaning of the whole sentence is made convergent to
 kārīka has accepted this variety.
 
  In this way Uabhaṭa’s रूपक is of four kinds:–1.समस्तवस्तुविषय, 2.एकदेशविवर्ति, 3 समस्तवस्तुविषय (मालारूपक), and 4. एकदेशवृत्ति.
-
-
 
  On the whole Udbhaṭa’s treatment of रूपक has not much to recommend in its favour. Of course he has made an advance in respect of the definition beyond Bhāmaha. But his treatment of this important ālaṅkāra and the commentary of Indurāja upon it have not been very happy. He has brought in an obscure variety such as एकदेशवृत्ति which is not accepted by any author eitherof the old or of the new school of ālaṅkārikas. His nomenclature of the मालारूपक as समस्तवस्तुविषयरूपक has not also proved acceptable for no one has followed him in calling the मालारूपक by the title समस्तवस्तुविषय after him. His definitions of the ālaṅkāra and the varieties must have been, however, of his own invention for he is not indebted to Bhāmaha in that respect. Bhāmaha’sरूपकis—
 
@@ -3010,15 +2662,11 @@ is quite clear. It can also be seen here how the neatness and system of Mammaṭ
 
  The divisions of रूपक adopted by Udbhaṭa do not seem to be exhaustive. He appears to have left out what is
 
-
-
 called परम्परितरूपक which is recognised by रुद्रट, रुय्यक, मम्मट and later writers.परम्परितरूपक gives a peculiar charm and deserves a special mention. Bhāmaha gives only the first two divisions and Udbhaṭa seems to have somewhat improved upon them. He gives four varieties of whichएकदेशवृत्ति is one which bears a sort of resemblance to श्लिष्टपरंपरितरूपक. Perhaps this एकदेशवृत्तिरूपक of his might be the precursor of theपरंपरितरूपकof the Moderns, as it consists of a principal word having a tinge of श्लेष. Theविवृतिकार hashinted at this in his comment. He says रुद्रटोक्तपरंपरितरूपकाभमेतत्. Mammaṭa also in his वृत्ति on the first kind of परंपरितरूपक remarks that the श्लिष्टपरंपरितरूपक is called एकदेशविवर्ति by other Ālaṅkārikas—एकदेशविवर्ति हीदमन्यैरभिधीयते. Here the आनंदाश्रमedition of the Kāvyaprakāśa gives two other readings in the foot-note on P. 471, viz. ०शवर्तीदमन्यैरप्यभि०and०शवृत्ति हीद०. The second reading is in point and seems to be the correct reading of the author, as it exactly tallies with Udbhaṭa’s nomenclature. By अन्यैःhe seems evidently to refer toउद्भट among others. His definition of परंपरितरूपक viz. \[नियतारोपणोपायः\] स्यादारोपः परस्य यः is as it were a paraphrase of the definition पररूपेण रूपणात् of the एकदेशवृत्ति रूपक given by उद्भट. Thus उद्भट may be said to recognise the परंपरितरूपक in this way, and in fact he should be called the originator of this important variety.
 
 ** P. 15. LL. 4–12.**—दीपकम्।आदिमध्यान्त...। That is दीपक where properties belonging to the प्रकृत as well as the अप्रकृत, having an implied sense of similarity in them, are mentioned in the beginning, middle or end of a Kāvya. यत्रान्तर्गतोर्थसामर्थ्या...सामानाधिकरण्यम्।Here a काव्य is called दीपक by means of अभेदोपचार, apposition or identification, as both the terms are put in the same case. अत्र च धर्माणां...हेतुत्वाद्दीपकता। The properties should be mentioned only once; for when they are repeated they give rise to प्रतिवस्तूपमा as the author himself says further on. Thus two or more वाक्यार्थऽ standing in relation to one another as उपमान and उपमेय and havingcommon properties mentioned once, and both of them being thus illumined by the धर्मऽ stated only once (तदुद्दीपनहेतुत्वात्) constitute what is called दीपक.
 
 ** P. 15, LL. 12–15.**—यावच्चतेषां...प्राप्तार्थत्वात्। Here as the properties are mentioned with reference to two वाक्यार्थऽ stand-
-
-
 
 ing in relation to each other as उपमान and उपमेय, and as उपमेय being प्राकरणिक is प्रधान and उपमान is गौण with reference to it they are *àfortiori* the properties of प्रधान and इतर that is गौण. Hence the expression प्राधान्येतरयोगिनः in the text is amere repetition as its sense is already brought out by the औपम्य.
 
@@ -3043,8 +2691,6 @@ ing in relation to each other as उपमान and उपमेय, and as उ
 
 (–भामहालंकार, २. २५.)
 
-
-
 ** P. 15, L. 20.**—संजहार...।Here the property of संहरण destrution is mentioned with reference to the two वाक्यार्थऽ, (1) floral beauty of कदम्बand (2) the happiness of ladies whose husbands were absent, bringing out similarity between them, the former being प्राकरणिक and the latter अप्राकरणिक as the time of autumn is the subject of description.
 
  The word काल attached to शरद्, by means of a tinge of श्लेष means time as well as अन्तक destroyer, or यम. Here the property of संहार is mentioned in the first sentence and is to be understood consequently in the second: therefore it is आदिदीपक.
@@ -3054,8 +2700,6 @@ ing in relation to each other as उपमान and उपमेय, and as उ
 ** P. 16, LL. 13–15.**—अन्तदीपकम्। तदानीं स्फीत.......। Here the property सर्वसुखहेतुत्व mentioned in the last वाक्यार्थ as कस्य नानन्दकोभवत् gives rise to अन्तदीपक.
 
  **P. 16, L. 20.**—ननु उपमायाः......। Here there is a question. In the Kārikā 2. of the text, उपमा was mentioned before दीपक and as such it ought to have been defined first and then दीपक, following the rule यथोद्देशं लक्षणम् the definition should follow the order adopted in the enumeration. The answer is: The author has given part of his own कुमारसंभव as examples and there the instances of दीपकoccur before (those ofउपमा). To keep up the sequence of narration, the order of enumeration is abandoned. The order of enumeration itself is not made to follow the sequence of examples for fear of violation of the metre. If we change उपमादीपकं चैवinto दीपकमुपमा चैव, the अनुष्टुभ् metre is spoiled. Similarly the same explanation is to be given in the following treatment where the order of enumeration is violated in definitions. The विवृतिकारhas similar remarks to offer.
-
-
 
 ** P. 17, LL. 1–15.**—उपमा। यच्चेतोहारि......। Thatcharming similarity, existing betweenउपमानand उपमेयwhich are expressed by words and whose प्रवृत्तिनिमित्तऽ viz. देश, काल, ज्ञाति, गुण, क्रिया &c. are mutually different from each other, is उपमा.
 
@@ -3070,11 +2714,7 @@ ing in relation to each other as उपमान and उपमेय, and as उ
 
  The idea of similarity involved in the definition of उपमाis expressed differently, it will be seen, by various writers on Alaṅkāra, if we compare their several definitions. It will swell the bulk of the volume if we quote all the definitions here. More important of them are given by R. B. K. P. Trivedi in his edition of Ekāvali in the Bombay Sanskrit series at P. 530; and by Dr. Belvalkar in his edition of Daṇḍin’s काव्यादर्श Part second, Second Half PP. 75—76.Here we find भामusing the word–साम्य, भरत—सादृश्य, दण्डि—सादृश्य, उद्भट—साधर्म्य, वामन—साम्य, रुद्रट—समान-
 
-
-
 गुणादि, रुय्यक—साधर्म्य, मम्मट—साधर्म्य, भोज—सामान्ययोग, विश्वनाथ—साम्य, विद्यानाथ—साम्य, विद्याधर—साधर्म्य, अप्पयदीक्षित—सादृश्य, जगन्नाथ—सादृश्य, हेमचंद्र—साधर्म्य, वाग्भट—साम्य, वाग्भटालंकार—सादृश्य, अलंकारशेखर—साधर्म्य. चित्रमीमांसा—साधर्म्य, साहित्यकौमुदी—साधर्म्य and अलङ्कारकौस्तुभ—सादृश्य, The word सादृश्य is used by 6 authors, साम्य by 7, and साधर्म्य. by 8. The words साम्य, सादृश्य and साधर्म्य are grammatically formed in the same way by adding the भाव termination ष्यञ् to the bases सम, सदृश and सधर्म all in dual number, in the sense of प्रकार which means धर्म (property) or सम्बन्ध (relation or connection): प्रकृतिजन्यबोधे प्रकारो भावः. On the authority of this interpretation or derivation, some understand the words in the sense of धर्म i. e. साधर्म्य meaning समानधर्म, and others in the sense of संबन्ध i. e. a relation between the अनुयोग and प्रतियोगि of that संबन्ध, these latter being in the present case उपमेय and उपमान, the संबन्ध between which being brought about by a समानधर्म found in both: समानः धर्मः ययोः तौ सधर्माणौ। तयोः सधर्मणोः भावः (^(१)धर्मः) साधर्म्यम् or तयोः सधर्मणोः भावः (संबन्धः^(२)) साधर्म्यम्। But the rule of the grammarians समासकृत्तद्धितेषु सम्बन्धाभिधानमन्यत्ररूढ्याभिन्नरूपाव्यभिचरितसम्बन्धेभ्यः (See कैयट’s gloss on the Mahābhāshya on “तस्यभावस्ततलौ” पा. ५.१.११९.) governs the present case. Most of the Ālaṅkārikas follow grammarians and take उपमा to be a kind of संबन्ध, whose अनुयोगि is उपमेय and प्रतियोगि–उपमान, the संबन्ध being brought out by the existence of the common property (समानधर्म) found in both. The words समानेन धर्मेण संबन्धः or धर्मतः साम्यम् occurring in the definitions and the वृत्तिऽ clearly show that it is a संबन्ध or relation brought out *by means* *of* or *through* the common property and not theसंबन्ध (connection of the common property i. e. साधारणधर्म as प्रतियोगि on the one hand with the उपमेय and उपमान both as अनुयोगि on the other. The latter interpretation was first started by the late Mr. T. D. Chandorkar in his edition of the Kāvyaprakāśa, Ullāsa X. and was followed by the late Paṇḍit Vāmanācārya in his Bālabodhini on the Kāvyaprakāśa, third edition. They considered उपमान and उपमेय both as the अनुयोगि and साधारणधर्म as the प्रतियोगि of this संबन्ध which, in this way, is merely reduced to the position of a primaryसंबन्ध between धर्म. and धर्मि which is technically known as समवाय in the phraseology of the Naiyāyikas. Now all this is against the
-
-
 
 acceptance of almost all the Ālaṅkārikas and their commentators.
 
@@ -3087,15 +2727,11 @@ acceptance of almost all the Ālaṅkārikas and their commentators.
 
  As usual the whole of विवृतिकार’s comment on the उपमा is elaborate though learned and characterised by the independent views of the author. His two chief characteristics viz. his antagonism to Indurāja and his indebtedness to Mammaṭa are also conspicuously apparent. On a perusal of his commentary on this portion we find that he refutes and criticises the following points from the Laghuvṛtti of Indurāja.
 
-
-
 1. चेतोहारीत्यनुवादः। प्राप्तार्थत्वात्। ( P. 18. L. 7 of the text)
 
  2. The interpretation of मिथो विभिन्नकालादिशब्दयोः asमिथः परस्परं विभिन्नाः कालादयः प्रवृत्तिनिमित्तभूता ययोः शब्दयोस्तथाविधौ etc. (see P. 18, LL. 7–18). The विवृतिकार separates the words as मिथः अविभिन्न^(०) instead of मिथःविभिन्न^(०) and has altogether a different explanation to offer.
 
  3. तदेवमेषा सप्तदशविधा ग्रन्थकृता उपमा प्रतिपादिता। (P. 29. L. 4.) Indurāja divides उपमा into 17 varieties. But विवृतिकार on
-
-
 
 the authority of the same Kārikās of Udbhaṭa extends the number of varieties to 21.
 
@@ -3113,8 +2749,6 @@ the authority of the same Kārikās of Udbhaṭa extends the number of varieties
 
 ** P. 18, L. 3.**—काव्यशोभाहेतवो धर्माः गुणाः। These are only three माधुर्य, ओजस्, and प्रसाद according to Bhāmaha, Uabhaṭa and
 
-
-
 Indurāja. This view is adopted and maintained with great force and argument subsequently by Mammaṭa. Daṇḍin and Vāmana accept 10 guṇas. (See Introduction P. 7.)
 
 ** P. 18, L. 4**—शोभातिशयहेतुत्वम्।Indurāja seems to distinguish guṇas from alaṅkāras in this way—काव्यशोभाहेतुत्वम् गुणत्वम्। काव्यशोभातिशयहेतुत्वम् अलंकारत्वम्, and brings in Vāmana's authority in support of his view in his words काव्यशोभायाः कर्तारो धर्मा गुणाः, तदतिशयहेतवस्त्वलंकाराः। (See काव्यालंकारसूत्र–३, १, १-२-३.) Mammaṭa distinguishes guṇas from alaṅkāras in this way: गुणा रसं विना नावतिष्ठन्ते अवतिष्ठमानाश्चावश्यं रसमुपकुर्वन्ति; अलंकारा रसं विनावष्ठन्ते अवश्यं रसं नोपकुर्वन्ति रसे अङ्गद्वारेण तिष्ठन्ति। रसस्योत्कर्षहेतवः अचलस्थितयो गुणाः; सन्तं रसं येऽङ्गद्वारेण जातुचित् उपकुर्वन्ति तेऽलंकाराः। (See का. प्र. ८, pp. 464–470.)
@@ -3124,8 +2758,6 @@ Indurāja. This view is adopted and maintained with great force and argument sub
  The विवृतिकार has a very elaborate note on the word चेतोहारि in Kārikā 11, He rebuts the contention of Indurāja that चेतोहारि is simply अनुवाद and assigns an important significance to that word. He says thatचेतोहारि is put in the definition in order to keep off the उपमादोषऽ viz. जातिप्रमाणगतन्यूनत्व, अधिकता वा तादृशी, अनुचितार्थत्व etc. His statements are based on Mammaṭa's treatment of उपमादोषऽ (Vide K. P., X. pp. 772-778). He observes—‘चण्डालैरिव युष्माभिः साहसं परमं कृतम्।’—इति जातिन्यूनत्वे, ‘वह्निस्फुलिङ्ग इव भानुरयं चकास्ति।’—इति प्रमाणन्यूनत्वे, ‘स मुनिर्लाञ्छितो मौञ्जया कृष्णाजिनपटं वहन्। व्यराजन्नीलजीमूतभागाश्लिष्ट इवांशुमान्॥’—इति तडिद्रूपधर्मन्यूनत्वे, ‘विशन्तु विष्टयः शीघ्रं रुद्रा इव महौजसः।’—इत्याधिक्ये, ‘पातालमिव नाभिस्ते स्तनौ क्षितिधरोपमौ। वेणीदण्डः पुनरयं कालिन्दीगात्रसंनिभः॥’—इति प्रमाणाधिक्ये ‘सलाञ्छनेन्दुबिम्बाभं मुखं भाति मृगीदृशः।’—इति धर्माधिक्ये, ‘सरश्मिचञ्चलं चक्रं दधद्देवो व्यराजत। सबान्धवाग्निः सावर्तः स्रोतसामिव नायकः॥’—इति धर्मन्यूनाधिकत्वे, ‘भयेनेव स्मरेणेयमहो स्विद्यति वेपते।’—इति प्रसिद्धिविरोधे च उपमा न विधेयेति प्रतिपादनाय चेतोहारिग्रहणम्। न त्वलंकारप्रस्तावात् सत्त्वप्रमेयत्वादिसाधर्म्यनिराकरणार्थत्वेनोपयुज्यते इति विस्पष्टार्थम्।
 
  Theविवृतिकार has again a long noteon the faultiness or otherwise of the समानधर्मwhen it undergoes a change as it
-
-
 
 is connected with the उपमेय and उपमान under different circumstances of काल, पुरुष, विधि, लिङ्ग, वचन, प्रमाण etc.He closelyfollows the argument of Mammaṭa. He says—
 
@@ -3147,8 +2779,6 @@ is connected with the उपमेय and उपमान under different circum
 
 ** P.18, LL.9–19**—प्रवृत्तिनिमित्तभूताः। Here the words काल, देश &c. are jntended to convey the idea of the motives for
 
-
-
 the currency or use of words (प्रवृत्तिनिमित्त) showing time, place, action &c. Some words such as वसन्त and others show time, प्राची and the like show direction, गो &c. genus, शुक्ल &c. quality, गच्छति &c. action, राजपुरुष &c. the relation of a servant to his master. Our प्रवृत्तिनिमित्तऽ i.e. motives for use of words may thus be multiplied. मिथो...........शब्दयोः। The whole expression is a Bahuvrīhi upon Bahuvrīhi, thus—मिथः विभिन्नाः कालादयः ययोस्तौ। एतादृशौ शब्दौ वाचकौ ययोस्तयोः (उपमानोपमेययोः)। न प्रवृत्तिनिमित्तभेदः।—In the instance गौरिवायं गौःthere is no difference in the प्रवृत्तिनिमित्त (गोत्व) of both the गोशब्दऽ asगोत्व cowness is the sameप्रवृत्तिनिमित्त of both of them. There can, therefore, be no उपमानोपमेयभाव in this instance.
 
  The विवृतिकारstrongly criticises Indurāja's interpretation of the second half of Kārikā 11. He separates the words as मिथः अविभिन्न०and rebuts Indurāja's theory of प्रवृत्तिनिमित्त. He says—‘राम इव भाति राजे’ति कालभेदे, ‘हरिरिव भासि राजन्’इति पुरुषभेदे, ‘प्रतपतु भवान्प्रभाकर इवे’ति विध्यादिभेदे, ‘चन्द्रकलेव सुगौर’इति लिङ्गभेदे, ‘पिबत्याननमेतस्याः पुष्पं मधुलिहो यथा’इति वचनभेदे यदा साधारणो भेदशब्दः तदापि न कार्येयमिति दर्शनाय मिथ इत्याद्युक्तम्। मिथोऽन्योन्यगतत्वेन वर्तमानोऽर्थात् साधारणः अविभिन्नकालादिः शब्दो ययोरित्यकारप्रश्लेषः। न तु भिन्नप्रवृत्तिनिमित्तयोरिति व्याख्येयम्। जात्यादीनां प्रवृत्तिनिमित्तत्वे कालत्वतथात्वाप्रसिद्धेः, मुख्यशब्दत्यागेनोपलक्षकशब्दग्रहणस्य निरर्थकत्वापत्तेः, मिथ इत्यस्यानुपादेयत्वप्राप्तेः, सोऽश्वः सुवा\[सा\]श्वेन समः ससत्त्व इत्येकत्वाभावेऽनन्वयत्वानुपपत्तौ उपमारूपत्वाप्रसङ्गाच्च।
@@ -3161,8 +2791,6 @@ the currency or use of words (प्रवृत्तिनिमित्त) 
 
 ** P. 18, LL. 24–27.**—अव्ययं हि......अवद्योतयति। अव्यय, being without a case termination, is not decidedly connected
 
-
-
 either with उपमानwith उपमेयand therefore shows the relation (संबन्ध) in the form of कर्म, करण or भाव (object, instrument or state of being) as the case may be, the latter being the subject of the action of comparing the उपमेय with उपमान; thus उपमा is श्रौती there, as is said by the author यथेवशब्दयोगेन सा श्रुत्यान्वयमर्हति।
 
 ** P. 19, L.1.**—वाशब्दादेः........।The particles वा and others also bring out उपमानोपमेयभाव just as यथा and इव do.**L. 6.**—पद्मिनीं वान्यरूपाम्। Here वा is used in the sense of इव as अन्यरूपां पद्मिनीमिव.**L. 8.**—क्षणं=अनवस्थितम्—unsteady. **L. 13.**—श्रौतेन रूपेण merely by word or hearing. उभयाधारम्—the relation उपमानोपमेयभाव existing in both. **LL. 16–17**—नेत्रैरिवोत्पलैः......। सरःश्रियः with उत्पलैः, पद्मः and चक्रवाकैः are the उपमेयऽ, तरुण्यः with नेत्रैः, मुखैः and स्तनैः are the उपमानऽ, भान्ति is the साधारणधर्म, and इव is वाचक; therefore it is श्रौती संपूर्णा वाक्यगा उपमा.
@@ -3173,8 +2801,6 @@ either with उपमानwith उपमेयand therefore shows the relation 
 
 ** P. 20, LL. 11–12**—अपरमिति साधर्म्यम्। Here by the force of the property किञ्जल्कालीनषट्पदत्व found only in the उपमेय—कानन, another common property viz, कृष्णोदरत्व is suggested though not expressed. As पूर्णेन्दुबिम्ब is spotted with black owing to the apparent image of a hare in the middle of the disk, so
 
-
-
 कुमुदकानन is also marked with black spots owing to the bees lying in the filaments. Therefore owing to the property असितोदरत्वnot being expressed in respect of the disk of the full Moon, the instance may also be taken as of धर्मलुप्तोपमा.
 
 ** P. 20. LL, 16–17**—तेषामनुप्रवेशात्। In the example नेत्रैरिव &c., though the common properties दीर्घत्व, नीलत्व &c. of the members नेत्र, उत्पल &c, of the subordinate उपमाऽ are not expressed, still they enter into the common property भान्ति which is expressed, therefore the उपमा is पूर्णा, as all the four requisites are present. साधारणो धर्मः।—भान्ति is here the साधारण धर्म which even extends to (includes) the qualities of दीर्घत्व, नीलत्व &c.; therefore this उपमा is only संपूर्णा. But the उपमा in प्रबोधाद्धवलं &c. is पूर्णा and also लुप्ता owing to the absence of the common property असितोदरत्व. Also इन्दुबिम्बप्रतिमम् is a compound; therefore this is समासगा उपमा. If it is to be made वाक्योपमा, then simply change the expression as अखण्डेनेन्दुना तुल्यम् &c.
@@ -3182,8 +2808,6 @@ either with उपमानwith उपमेयand therefore shows the relation 
 ** P. 21, L. 1**—तद्धितावसेया संपूर्णा श्रौती is when the तद्धित termination वत् is made under the rule तत्र तस्येव (Pāṇini 5. 1. 116.) as in मथुरायामिव मथुरावत् स्रुघ्ने प्रासादः and चैत्रस्येव चैत्रवत् मैत्रस्य गावः. It is आर्थीwhen the same termination is made under the sūtra तेन तुल्यं क्रिया चेद्वतिः(Pāṇini 5. 1. 115) as in ब्राह्मणेन तुल्यं ब्राह्मणवदधीते क्षत्रियः. In the first case, वत् shows the उपमानोपमेयभाव of both in the same breath merely by hearing as in the case of इव; but in the latter case वत् in the sense of तुल्य is grammatically connected in the first place with the action of the उपमेय, and then by cognisance of the meaning, it is connected with that of the उपमान, and thus brings out the उपमानोपमेयभाव of both; therefore it is आर्थ.
 
 **P. 21, L. 8**—तदुक्तम्।The author brings out the sense by the words वतिना च....... .......तदभिधेया in the Kārikā. कर्मसामान्यवचनो वतिः= the termination वत् is enjoined when the क्रिया is तेन तुल्यम् by Pāṇini 5.1.115. वाच्येति।—(सा उपमा) वाच्या means श्रौती. **L. 14**—पूर्वस्या उदाहरणम्। that is of संपूर्णा आर्थी तद्धितावसेया. **L. 19**—वतिश्च.... । Here the termination वत् is affixed by the rule तेन तुल्यं क्रिया चेद्वतिः। पतितानभ्रवृष्ट्या तुल्या पतितानभ्रवृष्टिवत्(तिष्ठेत्)।
-
-
 
 ** P. 21,L. 16**—उत्कलिकाः=उत्कण्ठाः=longings. मद्वत्=मम इव=like mine. अकाण्डोड्डामरः=suddenly provoked or furious. प्रचण्ड is another reading which means violent, enraged.
 
@@ -3199,8 +2823,6 @@ either with उपमानwith उपमेयand therefore shows the relation 
 
  **P. 23. L. 5**—कादम्बः=कलहंसः=a kind of goose with dark gray wings. सरोजकर्णिकागौरीम्।beautiful like the pericarp of a lotus. **L. 8**—यः समासस्तत्सामर्थ्यात्। Here the compound कर्णिकागौरी is to be taken as कर्णिका इव गौरी like शस्त्रीश्यामा by the rule उपमानानि सामान्यवचनैः (Pāṇini 2. 1. 55.); therefore it is बाचकलुप्ता. **L. 10**— एवमेकलोपे सति द्विविधा।1 धर्मलुप्ता and 2 वाचकलुप्ता
 
-
-
 समासोपमा. **L. 12**—साम्यतद्वाचिविच्यवात्। When only the उपमान and उपमेय are mentioned, and साधारणधर्म and वाचक are dropped simultaneously, it is समासावसेया द्विलोपा. **L. 13**—लक्ष्यते। Here by the word साम्य, साम्यवाचकशब्द is to be understood by लक्षणा, as the idea of similarity (साम्य) is impossible to be dropped in उपमा.
 
 ** P. 23, L. 15**—The two instances of द्विलोपा समासावसेया are. त्रिदशाधीशशार्दूल and नीलोत्पलदलेक्षणा. In the first instance तेजस्वित्व or some such धर्म is to be understood as साधारणधर्म by implication and in the other, दीर्घत्व, नीलत्व as साधारणधर्म. त्रिदशाधीशशार्दूल is aतत्पुरुष compound to be dissolved as त्रिदशाधीशः शार्दूल इव (शूरः) by the rule उपमितं व्याघ्रादिभिः सामान्याप्रयोगे (Pāṇini 2. 1. 56); while नीलोत्पलदले इव ईक्षणे यस्याः सा नीलोत्पलदलेक्षणा is a Bahuvrī
@@ -3211,8 +2833,6 @@ hi compound.
 
 ** P. 24, L. 15**—सुब्धातुप्रत्ययावसेया। This उपमा is of three kinds and is brought out by terminations such as क्यच्, क्यङ् and क्विप् which are applied to प्रातिपदिकऽ or nouns. That which is formed byक्यच्is also of two kinds:—one formed by applying the termination’ क्यच्to a noun-root which is the object (कर्म) of the action and which serves as उपमान in a certain subject when ‘behaving ourselves towards the objectis the intended sense, by the Sūtra उपमानादाचारे (Pāṇini 3, 1. 10), and the other formed similarly under the same circumstances, when the noun shows location (अधिकरण) by the Vārtika अधिकरणाच्चेति वक्तव्यम् on the same Sūtra. (See Pāṇini 3. 1. 10, and the Vārtika on it).
 
-
-
 ** P. 24. LL. 18–22**—यथा समासे......निबध्यते।Just as a लुप्तोपमा in a समास is formed and understood by the force of the compound, in the same way, the उपमाinvolved in an expression which is formed on the authority of क्यच् termination enjoined in sūtra (सौत्रः)—उपमानादाचारे (Pāṇini's 3.1.10.) and in the वार्तिक on it (औपसंख्यानिकः),—अधिकरणाच्चेति वक्तव्यम्applied to उपमानin a certain subject, which is the object or location of an action respectively when 'behaviour towards' is the intended sense,—thisसुब्धातूपमा is formed similarly and is understood by the power of its formation.
 
 ** P. 24. L. 26 to P. 25, L. 4**—अत्र दुःस्थमिव.....उपात्त। Hereदुःस्थः (meaning–one overpowered by extreme poverty) is the उपमान, भगवतः शिवस्य आत्मा is the उपमेय, आचार (behaviour towards) is the साधारणधर्म given by the क्यच्प्रत्यय. दुःस्थमिवात्मानं आचरन् behaving towards oneself (showing onself) as a poverty–stricken beggar. अत्र च...। Here उपमान and साधारणधर्म are expressed in words, andउपमेय and वाचक are to be understood by implication; therefore it is द्विलोपा सुब्धातूपमा. This is the instance of a सुब्धातूपमा when the object is the उपमान. नरकीयति काननेis the instance of सुब्धातूपमा when location is the उपमान. **L.6**—अत्र नरकः &c. Here नरक is उपमान, कानन is उपमेय, आचार (behaviour towards it, brought in by क्यच् termination) is the साधारणधर्म, उपमावाचक इवादि is not used as the relation of उपमान and उपमेय is known by the power of क्यच् termination; therefore it is एकलुप्ता, that is वाचकलुप्ता. सुब्धातूपमा.
@@ -3220,8 +2840,6 @@ hi compound.
 ** P. 25, L. 11**—Theलुप्तोपमाbrought out by the force of the termination क्यङ्is when the doer of the action serves as उपमान, as the author says कर्तुराचारे क्यङा सा. **L. 11**—तथेति &c.। The expressions तथा, उपमानादाचारे and क्वचित् mentioned before are to be understood here. So the whole sense of the sentence is that aलुप्तोपमा is sometimes formed by the termination क्यङ् (by the rule कर्तुः क्यङ् सलोपश्च—Pāṇini 3.1.2.) in the sense of 'behaviour towards'—applied after that which is the doer of the action and serves as उपमानat the same time.
 
 ** P. 25, L. 17**—खद्योतः=ज्योतिर्मालिका=aline of light. It also means a fire-fly or the sun. तत्त्वज्ञान=distinct knowledge
-
-
 
 of the real nature of things. **L. 19** क्यङ्प्रत्ययोपात्तः—Thecommon property is आचार(behaviour)set forth by the termination क्यङ्. Here इवादिis not used as its sense isimplied by the force ofक्यङ् termination, therefore it is एकलुप्ता, that is, वाचकलुप्ता सुब्धातूपमा. **LL. 21-25**—कर्त्रुपमानिका क्किपा—This लुप्तोपमा is formed by the termination क्विप् which is similar to क्यङ्in having the कर्ता as उपमान. ‘सर्वप्रातिपदिकेभ्य इत्येके’—This is the wording of the वार्तिक found in काशिकावृत्ति. Theवार्तिक of Kātyāyana discussed in the Mahābhāshya is ‘सर्वप्रतिपादिकभ्यः क्विब्वा वक्तव्यः’on the Sūtra ‘कर्तुः क्यङ् सलोपश्च’(Pāṇini, 3.1.11) which means उपमानवाचकेभ्यः कर्तृवाचिभ्यः सर्वेभ्यः प्रतिपदिकेभ्यः आचारेऽर्थेक्विप्प्रत्ययो विकल्पेन वक्तव्यः।
 
@@ -3231,15 +2849,11 @@ of the real nature of things. **L. 19** क्यङ्प्रत्ययो�
 
 ** P. 2G, L. 11**—कृत्प्रत्ययसामर्थ्यावसेया। The लुप्तोपमा occurring in the gerundial formation by णमुल्which is a कृत् termination (i. e. a participial termination) is of two kinds—when the termination is applied to the object or subject of an action serving as उपमान by the rule ‘उपमाने कर्मणिच’–(चात् कर्तरि)–(Pāṇini, 3. 4. 45) as is said by the author himself उपमाने कर्मणि वा कर्तरि वा यो णमुल् कषादिगतः। तद्वाच्या सा। कषादिगतः—The verbal form of the same root of which the gerundial formation (णमुलन्त) is enjoined, is to be used immediately after it, in the case of the roots कष् and others, by the Sūtra ‘कषादिषु यथाविध्यनुप्रयोगः’(Pāṇini, 3. 4. 46.).
 
-
-
 ** P. 26, L. 15.**—इतरमनोदाहम्।This is an instance of लुप्तोपमा formed by the gerundial terinination णमुल् applied to the root दह् the object of which is the उपमान. Here इतरमनः=प्राकृतमनः'ordinary man's mind' is the उपमान, भगवन्मनः is the उपमेय, दह्यमानत्व the property or condition of being burnt is the साधारणधर्म. All these three are expressed by words, सादृश्य being implied by the force of theणमुल् termination, in the absence of the particle इवor the like; therefore this is the instance of a लुप्तोपमा (where only one requisite viz. वाचक is dropped) formed by णमुल् in which कर्म is उपमान. **L. 23.**—सामान्यप्राणिचिन्तम्। सामान्यप्राणी= an ordinary (being) man void of excellent qualities. सः=भगवान्चिन्तयितृत्वम्=‘contemplating’is the common property. प्राणिचिन्तम् is the णमुलन्त gerund.
 
 ** P. 27, L. 3**—कल्पबादेस्तद्धितस्य प्रयोगात्—By the application of the तद्धित् termination कल्पप् and others of like nature in the sense of ईषदसमाप्तौ i. e. सादृश्य (See Pāṇini, 5. 3 67). **L. 5**—प्रभृतिशब्देन—The word प्रभृति includes the terminations कन् and others of similar nature which are enjoined by the rule‘इवेप्रतिकृनौ’(Pāṇini, 5.3.96) in the sense of 'when ths image is like the orizinal', as अश्व इव अश्वकः, अश्वस्य प्रतिकृतिरित्यर्थः **L. 10**—कल्पप्प्रत्ययेन—The idea of similarity is set forth by the termination कल्पप् **L. 11**—प्रकृत्यर्थसदृशे.....विधानात्—The terminationsकल्पप् and others of like nature are prescribed in the opinion of the revered Kātyāyana in the sense of 'an object similar to the original’ (Cf. Kātyāyana's Vārtikas on Pāṇini, 5. 3.67). **L. 14**—अश्वकः इत्यत्र। Here the termination कन् is enjoined by the rule ‘इवे प्रतिकृतौ’and ‘संज्ञायां च’(Pāṇini, 5.3.96-97) in the sense of 'the image or being like the original' to which the termination is applied as अश्व इव प्रतिकृतिः अश्वकः= a being or image like a horse.
 
 ** P. 27, L. 16**—आयःशूलिकः is a तद्धितावसेया त्रितयलोपे लुप्तोपमा. अयःशूलेनान्विच्छति is the explanation of the तद्धित termination ठक् which is applied by the Sūtra ‘अपःशूल दण्डाजिनताभ्यां ठक्ठञौ’(Pāṇini, 5.2.76). अन्विच्छति=व्यवहरति babaves, aims at तीक्ष्णः उपायः अयःशूलं (अयःशूलेनाध्यवसितः), तेन अन्विच्छति व्यवहरति इति आयःशूलिकः, साहसिकः क्रूरः इत्यर्थः। Compare महाभाष्य and कैयटः—अयः शूलमिवायः शूलं। यो मृदुनोपायेनान्वेष्टव्यानर्थान्रभसेनान्विच्छति स उच्यते आयःशूलिकः। महाभाष्यम्.
-
-
 
 (5.2.9.)॥ यथायःशूलं तीक्ष्णमेवान्योपि तीक्ष्ण उपायोऽयःशूलमुपचारादुच्यते। कैयटः॥ **L. 18**—अत्र......। Here अयःशूलं is उपमान, कश्चिदर्थान्वेषणोपायः is उपमेय, तीक्ष्णत्वादिः साधारणधर्म and उपमानोपमेयभाव—all these four requisites are found. Out of these only the उपमान अयःशूल is expressed in words; the other three are understood by implication.
 
@@ -3257,8 +2871,6 @@ of the real nature of things. **L. 19** क्यङ्प्रत्ययो�
 
 ** P. 28, L. 1**—एवं श्वा मुमूर्षति, कूलं पिपतिषति.....। And in the same way, if, in the instances श्वा मुमूर्षति and कूलं पिपतिषति, there be something which would bring out the idea of difference
 
-
-
 between the wish, expressed by the termination सन्, which is the उपमानand the tendency of dying or falling which is the उपमेय, the latter being swallowed up by, and thus completely identified with, the wish, then these may be given as instances of लुप्तोपमा. Otherwise they may be regarded as instances of अतिशयोक्ति. For a complete discussion of all these cases see Patañjali's Mahābhāṣya on ‘धातोः कर्मणः समानकर्तृकादिच्छायां वा’(Pāṇini, 4.1.7.) together with the gloss of Kaiyaṭa on it:—
 
 ** महाभाष्यम्**—**आशङ्कायामचेतनेषूपसंख्यानम्**। आशङ्कायामचेतनेषूपसंख्यानं कर्तव्यम्।अश्मा लुलुठिषते, कूलं पिपतिषति। किं पुनः कारणं न सिद्ध्यति। एवं मन्यतेचेतनावत्एतद्भवतीच्छेति। कूलं चाचेतनम्। अचेतनग्रहणेन नार्थः। आशङ्कायामित्येव। इदमपि सिद्धं भवति श्वा मुमूर्षतीति। **न वा तुल्यकारणत्वादिच्छाया हि प्रवृत्तित उपलब्धिः**। न वा वक्तव्यम्। किं कारणम्। तुल्यकारणत्वात्। तुल्यं हि कारणं चेतनावति देवदत्ते कूले चाचेतने। किं कारणम्। इच्छाया हि प्रवृत्तित उपलब्धिर्भवति। योप्यसौ कटं चिकीर्षुर्भवति नासावाघोषयति कटं करिष्यामीति। किं तर्हि संनद्धं रज्जुकीलपूलपाणिं दृष्ट्वा तत इच्छा गम्यते। कूलस्यापि पिपतिषतो लोष्टाः शीर्यन्ते भिदा उपजायते देशान्तरमुपसंक्रामति। श्वानः खल्वपि मुमूर्षवः एकान्तशीलाः शूनाक्षाश्च भवन्ति। **उपमानाद्वा सिद्धम्**। उपमानाद्वा सिद्धमेतत्। लुलुठिषत इव लुलुठिषते। पिपतिषति इव पिपतिषति। न वै तिङन्तेनोपमानमस्ति। एवं तर्हि इच्छेवेच्छा सर्वस्य वा चेतनावत्वात्। अथवा सर्वं चेतनावत्।
@@ -3266,8 +2878,6 @@ between the wish, expressed by the termination सन्, which is the उपम
  **कैयटः**। **आशङ्कायामिति**। आशङ्का संभावना। ........। लुलुठिषत इति। ........। वर्तमानसामीप्य इति लट् प्रत्ययः। श्वा मुमूर्षतीति। शुनश्चैतन्येपि जीवितस्य प्रियत्वाद्व्याध्याद्यभिभवेपि तिर्यक्त्वान्मर्तुमिच्छा नास्ति। न चेति। कार्येणेच्छानुमीयते.......कार्यानुमेयेच्छाश्रयेण सन् प्रयुज्यते इत्यर्थः। **उपमानाद्वेति**। यदिच्छानिमित्तं कार्यं तदचेतनेषु नास्ति। यच्चास्ति न तदिच्छायाः कार्यमिति मत्वापरिहारान्तरोपन्यासः। न वै तिङन्तेनेति। तिङन्तार्थेनेत्यर्थः। क्रियायाः साध्यैकस्वभावत्वादनिष्पन्नरूपत्वादिदं तदितिपरामर्शविषयवस्तुगोचरत्वादुपमानोपमेयभावस्येदं तदितिपरामर्शाभावादितिभावः। इवशब्दप्रयोगे तु अध्यारोपस्तु विद्यते। रोदितीव गायति नृत्यतीव गच्छति देवदत्त इति। परिपूर्णेन च न्यूनस्योपमानं भवति। क्रिया च सर्वा स्वाश्रये समाप्तेति न्यूनत्वासंभवस्तस्याम्। .......।सर्वस्य वेति। आत्माद्वैतदर्शनेनेति भावः। .......। वेदः सर्वभावानां चैतन्यं प्रतिपादयतीत्यर्थः।
 
 ** P. 28, L. 6**—आशङ्कायाम्.......। These three are the Vārtikas of the Venerable Kātyāyana on the Sūtra ‘धातोः कर्मणः समानकर्तृकादिच्छायां वा’(Pāṇini, 3.1.7) which enjoins the termination सन् to be applied to a root, in the sense of इच्छा 'desire.'
-
-
 
  आशङ्कायामचेतनेषृपसंख्यानम्—As इच्छा is a चेतनधर्म, the termination सन् showingइच्छा cannot be applied in the case of अचेतन or inanimate objects. A कूल is such an inanimate object. To include the cases of inanimate objects, आशङ्कायाम् &c. should be inserted in the sūtra, आशङ्का=संभावना=possibility.
 
@@ -3278,8 +2888,6 @@ between the wish, expressed by the termination सन्, which is the उपम
 ** P. 28, L. 8**—अत्र हि न वा.......। Here by the expression तुल्यकारणत्वात्etc. in the Vārtika, determination of identification between the two objects is suggested; but by the वार्तिक—‘उपमानाद्वा सिद्धम्’, the उपमानोपमेयभाव of them is expressed. **L. 10**—इयं च.....। In the example कूलं पिपतिषति and the like, as the termination सन् is applied to a धातु, and as the सन्नन्तधातु becomes a धातु again, the उपमा involved in it may be said to be a धातुधातूपमा like a सुब्धातूपमा (i. c. & नामधातूपमा.).
 
 ** P. 28, L. 12**—वर्तमानसामीप्यादौ। The instances like अयमागच्छामि in the present tense for the immediate past or future which are enjoined by the rule ‘वर्तमानसामीप्ये वर्तमानवद्वा’(Pāṇini, 3.3. 131) may be taken to be examples of a kind of उपमा or अतिशयोक्ति according to one's own clear apprehension.
-
-
 
 ** P. 28, L. 14.**—चूर्णिकारस्य तु.......अस्तीति। चूर्णिकारः=व्याकरणमहाभाष्यकारः चूर्णिकृद्भाष्यकारः स्यादिति त्रिकाण्डशेषः। But in instances like these, the Mahābhāṣyakāra prefers to have a kind ofअतिशयोक्ति by adverting to the determination of identification, as, he says, ‘न तिङन्तेनोपमानमस्ति’–उपमान can never exist coordinately with a क्रिया, i. e. in उपमाor comparison a क्रिया can never be the उपमान. In an उपमा, a sense (an object) which is सिद्ध is alone cited as an उपमान. As क्रिया is always साध्य (in the process of being accomplished) and never सिद्धit cannot be introduced as उपमान.Compare the Kārikā―
 
@@ -3294,8 +2902,6 @@ Though तिङन्त can never be aa उपमान, it can be an उप�
 
 ** P. 28, L. 22** to **P. 29, L. 3**—एवमेषा........द्विविधत्वम्। The whole passage summarises the various divisions of
 
-
-
  They are given in the subjoined table:—
 
 ![](../books_images/U-IMG-1731569573symbol15.png)
@@ -3304,15 +2910,11 @@ Though तिङन्त can never be aa उपमान, it can be an उप�
 
  It is sometimes interesting to see how two commentators differ in their interpretations of the same text. We have pointed out many instances where the विवृतिकारcriticises the views of Indurāja; but the occasions where the विवृतिकार vitally differs from the actual interpretation of the text given by Indurāja have been comparatively few. We have already alluded to one such instance, viz. the different interpretations of मिथोविभिन्नकालादि etc. (Kārikā15) given by Indurāja and theविवृतिकार. The present case is another instance in point. Indurāja sees in the Kārikās of Udbhaṭa only 17 varieties of Upamā described, while the विवृतिकार can bring out as many as 21 varieties from the same Kārikās. Such divergence is perhaps rendered possible by the
 
-
-
 laconic and incomplete expression of Udbhaṭa. It would seem that all minutiæ of division were not settled in Udbhaṭa's time and that he did not even intend to state or imply any definite number of the divisions of Upamā. But the commentators, coming later, according to the developed ideas of their times, try to fix upon a definiṭe number of divisions and ascribe those to the original author. Thus the discrepancy between the interpretations of Indurāja and the विवृतिकार would only indicate that the divisions of उपमा had increased in number and in scientific precision in the age that passed between Indurāja and the modern commentator.
 
  The विवृतिकार thus states his 21 divisions—एषा (उपमा) च द्विभेदा संक्षेपाभिहिताप्येषेत्युक्तेः। पूर्णा लुप्ता च। आद्या त्रिधा वाक्य-समास-तद्धित-गम्यत्वात्। प्रत्येकं श्रौतत्वार्थत्वभेदाद्वैविध्यम्। एवं षट् पूर्णाभेदाः। ६।लुप्तायास्तु वाक्य-समास-सुब्धातु-कृत्तद्धितावसेयत्वात् पाञ्चविध्यम्। वाक्यगम्यायाः श्रौतत्वार्थत्वभेदाद्द्वैविध्यम्। २। समासगम्यायाश्चैक-द्वि-त्रि-लोपभेदात्साधारणधर्मलोपे श्रौतत्वार्थत्वभेदाद्द्वौ भेदौ द्योतकलोपे त्वेक इत्येकलोपस्य भेदत्रयसद्भावात् पाञ्चविध्यम्। ५। सुब्धातुगम्यायास्तु क्यच्–क्यङ्–क्विप्–प्रत्ययगम्यत्वात्, क्यच्प्रत्ययगम्यायाश्च कर्माधिकरणोपमानत्वात्, कर्मोपमानिकायाश्चैकद्विलोपत्वभेदद्वयवत्त्वात्पाञ्चविध्यम्। ५। कर्मकर्त्रुपमानत्वेन कृदवसेया द्विधा।२। तद्धितगम्यात्वेकैव। १। एवं पञ्च\[दश\] लुप्ताभेदाः (२+५+५+२+१=१५) पूर्णाभिः सह एकविंशतिः। (१५+६=२१).
 
  It will be seen that the विवृतिकार recognises two divisions (viz. श्रौती and आर्थी) of पूर्णा वाक्यगम्या and लुप्ता वाक्यगम्या, while Indurāja recognises only one variety viz.आर्थी of these two वाक्यगम्या उपमाऽ. Thus the विवृतिकार's number of varieties is increased by two. Again theविवृतिकार put down two divisions श्रौती and आर्थी for एकलोपे साधारणधर्मलुप्ता समासावसेया, while Indurāja here also recognises only the आर्थी division. The विवृतिकार is thus enabled in all to increase his varieties by three on the strength of the example नेत्रैरिवोत्पलैः पद्मैर्मुखैरिव सरःश्रियः। etc. Following the dictum of the grammarians viz. इवेन समासो विभक्त्यलोपश्च the विवृतिकार optionally regards नेत्रैरिव as a compound; accordingly this becomes, in his opinion, समासगा उपमा which, as it is accompanied by इव, is to be regarded as a श्रौती variety. When we regard the समानधर्म as उपात्त in the form of the verb भान्ति this becomes an example of पूर्णा समासगा आर्थी. When we take असितोदरत्व etc, as the समानधर्म which is
-
-
 
 here अनुपात्त, this verse becomes an example of एकलोपे धर्मलुप्ता समासगा or वाक्यगा according as we consider नेत्रैरिव as forming or not forming a समास.
 
@@ -3326,8 +2928,6 @@ here अनुपात्त, this verse becomes an example of एकलोप�
 
  The विवृतिकार explains the कारिका in a few words thus:—यत्रोपमानोपमेययोर्द्वयोरपि समीपंसाधारणधर्मोपादानं सा प्रतिवस्तूपमा। अत एव वस्तु
 
-
-
 वाक्यार्थः उपमानं वस्तुनो वाक्यार्थान्तरस्यात्र चानेकवाक्यत्वे इवादेरप्रयोगे किमुपमेयं किंवोपमानमिति प्रकरणाद्धि व्यवस्थेत्याह प्राकरणिकेतरेति।
 
 ** P. 29, LL. 17–20**—ननु.....। Now there is a doubt. If the word expressing similarity is used more than once, then there must be more sentences than one. The words इवand the like are not used in different sentences, as their power of expressing the meaning is known to exist when they are used in one sentence. Then how can the idea of similarity be understood there in the absence of इव and other words of similar nature? To remove this doubt the author says:—प्राकरणिकेतरत्व.....शून्यत्वम्। (Kārikā 23). **L. 23.** नानावाक्यत्वात्। Here though the words like इव are not used as there are different sentences, the relation of उपमान and उपमेय is determined by the force of the meaning when the nature of the प्राकरणिक as well as of the अप्राकरणिक is clear to the mind.
@@ -3335,8 +2935,6 @@ here अनुपात्त, this verse becomes an example of एकलोप�
  The विवृतिकार reads उपमावाचिशून्येयम् instead of उपमावाचिशून्यत्वम् and adds in the comment यत्प्राकरणिकम् तदुपमेयम् इतरत्तूपमानमिति। शब्दशून्येयमित्यतोऽनन्तरं द्रष्टव्यः।
 
 ** P. 29, L. 25**—इवादेरप्रतीतापि.....निबन्धना। इह प्रकारत्रयेण.....। उपमा (comparison) is known in three ways in poetry:In some places उपमा is apparent, being distinctly expressed by the sorce of the words इव and the like, as in the instances चन्द्र इव मुखं अस्याः&c. In other places, it is cognised as indicated through the door of the expressed meaning of the words assisted by the peculiar power which they assume when they are in a particular position, i. e. in a compound, as in the instance शस्त्रीश्यामा. See the Mahābhāṣya on \`उपमानानि सामान्यवचनैः (Pāṇini 2.1.55). **P. 30, L. 5.**—अत्र हि........। Here the wordsशस्त्री andश्यामा form one expression by compound, which possesses a peculiar power of expressing a specific meaning; and through the medium of this direct meaning, an indirectly indicated उपमा is apprehended. **L. 6.**—क्वचित्तूपमानोपमेय......। While in other places, its cognisance is apprehended merely by the force of the meaning, in the absence of a word or a particular operation (संस्कार) capable of bringing out the relation of उपमान and उपमेय, as in रूपक, दीपक, प्रतिवस्तूपमा etc. **L. 8**—अतश्चास्यां....। Therefore in this प्रतिवस्तूपमा, the relation of उपमान
-
-
 
 and उपमेय is apprehended by the force of the meaning alone; so there is no fault or discrepancy (in the definition).
 
@@ -3368,8 +2966,6 @@ VARGA II.
 
  This order is quite unscientific and is not followed by modern authors. The figures हेतु, सूक्ष्म and लव of Daṇḍin are not accepted by Bhāmaha and Udbhaṭa, and generally by
 
-
-
 Kāśmirian writers, although some of them recognise सूक्ष्म See our Introduction pp. xi-xii.
 
 ** P. 31, L. 3.**—समासातिशयोक्ती च। Here the word उक्तिःis tc be connected with both समास and अतिशय so that the alaṅkāras are समासोक्तिः and अतिशयोक्तिः.
@@ -3400,8 +2996,6 @@ Kāśmirian writers, although some of them recognise सूक्ष्म See o
 
 ** P. 31, LL. 11-14**—अवान्तरं......धाद्भवति। The subordinate position of निषेध in the sentence arises from its conflict with the meaning desired to be prominently established. तत्र हि ......र्थीकरोति।—तत्र=वाक्ये. The meaning desired (विधित्सितार्थ) being introduced first in the sentence stands as firm and predominent, and deprives (प्राचाव्य etc.) the negation of its negatory purport as it is contradictory to itself ( i. e. विधित्सितार्थ) Therefore the निषेध assumes a subordinate position before it and loses its reality; and instead of opposing the byविधित्सितार्थ its subordinate position, it even
 
-
-
 implies some special excellence (विशेष) residing in the principal meaning (विधित्सितार्थ). निषेध इव न तु निषेध एव—negation as it were, but not actual negation.
 
 ** P. 31, L. 10**—इष्टार्थनिराकरणस्य लेशेन।With only a bit of the negation of desired meaning i. e. with practically no negation. संभवदाक्षेपसंज्ञकः—Construe as follows: \[इष्टार्थनिराकरणस्य लेशेन\] संभवन्ती आक्षेपसंज्ञा यस्य।
@@ -3411,8 +3005,6 @@ implies some special excellence (विशेष) residing in the principal mean
  **P. 31, L. 20**—वक्ष्यमाण......धानात्। The negation refers to the desired thing (इष्ट) which is to be said, or is already said.
 
 ** P. 31, L. 21 to P. 32, L. 2**—इष्टत्वं चेच्छाकर्मता...... कर्मत्वं भवति। Now इष्टmeans the object of one's wish; and it is not necessarily always the object of expression. A thing which isइष्ट (desired) may or may not be actually expressed. The division वक्ष्यमाणविषय and उक्तविषय would not therefore be proper, for both these terms would require the desired thing (इष्ट) to be the object of actual speech. To remove this difficulty
-
-
 
 the author says निषेधेनेव etc. The विवृतिकार introduces the Kārikā निषेधेनेव^(०)thus:–ननु चेष्टमिच्छाकर्म तत्कदाचिन्नैवोच्येत। तद्वक्ष्यमाणोक्तविषयतया द्वैविध्यमित्याह—निषेधेनेव^(०)
 
@@ -3425,8 +3017,6 @@ the author says निषेधेनेव etc. The विवृतिकार
  विवृतिकारः—विवक्षितत्वरूपं विधेयत्वमत्रेष्टत्वम्। तेन विधेयस्यावश्यमुक्तिक्रियासंभवादर्थत्वे शाब्दत्वे च सति द्वैविध्यम्।
 
 ** P. 32, LL. 15-16**—अहो स्मरस्य माहात्म्यम्।—“Oh, the greatness of the God of love that even Rudra should be reduced to such a plight! (Or) let us forbear, what are we to measure off the water of the occan by pitchers?" This is वक्ष्यमाणविषय आक्षेप. Here the विधित्सितार्थ or वक्तुमिष्ट अर्थ is मन्मथमाहात्म्यम् तदवस्थाविशेषयुक्तम्. Here निषेध is expressed by words इयदास्ताम् 'let us forbear.' The निषेध is made because the मन्मथमाहात्म्य and its विशेषऽ are impossible of description on
-
-
 
 account of their infinity. Therefore मन्मथमाहात्म्य is not elaborately described, but only in a meagre way such as रुद्रेपि नाम ईदृशी दशा etc.
 
@@ -3442,8 +3032,6 @@ account of their infinity. Therefore मन्मथमाहात्म्य 
 
  **P. 33, L. 19**—इति चिन्तयतस्तस्य.......। "While musingin this way, it is strange that his thoughts While musing had no end;
 
-
-
 or (there is no strangeness in this) where is the end seen of thoughts inspired by Cupid as well as of time?" अत्र........आक्षिप्यते। The assertion of चित्रत्व which is expressed is objected to by क्व वा etc. on account of the celebrity (of the आनन्त्य of कामविकल्पऽ). As the infiniteness of musings inspired by love is well-known, there could be no strangeness (चित्रत्व) in Śiva's endless musings.
 
  The विवृतिकार follows रुद्रट and apparently इन्दुराज. He says—अत्र चित्रत्वस्योक्तिः क्ववेति निषिध्यते। प्रसिद्धत्वं चात्रहेतुः। पूर्वत्र विरुद्धत्वम्। न हि तद्वर्णनसंभवः। आभ्यामेव निमित्ताभ्यामाक्षेपो भवति।
@@ -3454,8 +3042,6 @@ or (there is no strangeness in this) where is the end seen of thoughts inspired 
 
 ** P. 34, LL. 2–6**—कालतुल्यतया.......उक्तविषयता आक्षेपस्य।In the example इति चिन्तयतस्तस्य, the विधित्सितार्थ is the endlessness of कामविकल्पऽ. The संविज्ञानपदशून्य (incomprehensible) आनन्त्या-
 
-
-
 त्मक विशेष is the principal वाक्यार्थ and hence the निषेध is the अवान्तरवाक्यार्थ. Thus the निषेध is only apparent, therefore this is आक्षेप; and the चित्रत्व of which निषेध is made is expressly stated, therefore it is उक्तविषय आक्षेप.
 
  It should be noted here that the meaning of which विशेषis established is the endlessness of कामविकल्पऽ. But the निषेध is not made of it but of चित्रत्व. And by the निषेध of चित्रत्व the विशेष of the endlessness of कामविकल्पऽ is understood. It will be seen from this that it is not quite necessary that the निषेध should always directly apply to वक्तुमिष्ट. The विशषे understood must, however, always pertain to the वक्तुमिष्ट. Indurāja does not seem to have noticed the fact that the निषेध here is not of वक्तुमिष्ट but of चित्रत्व which can only be identified with वक्तुमिष्ट by a far-fetched relation कामविकल्पानामानन्त्य is really the वक्तुमिष्ट.
@@ -3463,8 +3049,6 @@ or (there is no strangeness in this) where is the end seen of thoughts inspired 
 ** P. 34, LL 7–8**—शब्दस्पृष्टेथवाप्यर्थे.......। Construe—(वक्तुमिष्टस्य) निषिद्धता यत्र तद्विरोधेन तदङ्गं भवति असौ आक्षेपो भवेत्। निषिद्धता=(apparent) प्रतिषेध. तद्विरोधेन=वक्तुमिष्टस्य विरोधेन. तदङ्गम्=वक्तुमिष्टस्य अङ्गम्.
 
  The विवृतिकार, at the end of his comment on आक्षेप, brings in the views of other critics who regard both the examples of Ākṣepa given by Udbhaṭa as improper. He plunges into a prolonged discussion stating the *pros* and *cons* on each side, though at the end he seems to have thrown his weight on the side of those who demur to Udbhaṭa's examples as improper. He says—अत्र केचिदाचक्षते। एतदुदाहरणद्वयमपि न युक्तम् तदा(-द्यम-)प्युदाहरणमुक्तविषयमेव। अहो स्मरस्य माहात्म्यमिति सामान्येन यद्रुद्रेऽपि दशेदृशीति च विशेषेण स्मरमाहात्म्यस्योक्तत्वात्। यच्च सामान्यविशेषाभ्यामुक्तं तद्यद्यनुक्तमुच्यते, सर्वमिदानीमनुक्तं स्यादेवमपि वा चित्रत्वमप्यनुक्तमिति कथमुक्तविषयता। प्रत्युतात्र सामान्येनैवोक्तिः। अथोच्यते नात्र स्मरमाहात्म्यमाक्षिप्यते अपि तु रुद्रदशेदृशीति, तदयुक्तम्। तस्या इष्टत्वेनाप्रतीतेः। ‘यद्रुद्रेऽपि दशेदृशी’ति स्मरमाहात्म्योपोद्वलनार्थं न तु विपर्ययः। प्राकरणिकत्वादार्थमस्याः प्राधान्यमिति चेत् एवमपीदृशीत्येतत्पदं प्रत्यक्षनिर्देश्यविषयत्वात् निराकाङ्क्षमतोनात्र किंचिद्वक्ष्यमाणम् न हि तादृशीति पदवदस्य साकाङ्क्षत्वमिति पुनरप्युक्तविषयता। कथं चात्राक्षेपव्यपदेशः। न हि तन्निमित्तात्र चारुत्वप्रतीतिरपित्वतिशयोक्तिः स्वहिताक्षेपहेतुका। तेन संकरोऽयम्। द्वितीयस्मिन्नपि श्लोके क्ववेत्यनेन न चित्रत्वमाक्षिप्यते। अपि त्वन्तेक्षितत्वम्। तच्चाक्षेपपर्यवसानमिति चेदनन्वयेऽप्याक्षेपप्रसक्तिरपह्नुतिरूपकदीपकादावपि उपमाप्रसङ्गश्च। अथ तत्र भङ्ग्यन्तरेण आक्षेपादीनां स्थितिरिति नाक्षेपादित्वमिहापि विच्छित्त्यन्तरेणाक्षेपस्थितिरिति कथनान्यत्वम्। अथ गम्यमानोत्प्रेक्षावत् गम्यमानत्वेऽप्याक्षेपस्यालंकारान्तरत्वानभिधानादा-
-
-
 
 क्षेपत्वमेवेष्यते। तर्ह्युत्प्रेक्षालक्षणवदिह विशेषो वक्तव्यः। तदेवमन्यत्रापि संभवी विचारः प्रकृतक्षतिमादधाति नास्माभिर्दर्शित इत्यनया दिशा सर्वं विचार्यम्। एते तूदाहरणे वक्ष्यमाणविषये—
 
@@ -3505,8 +3089,6 @@ by way of further explanation. Having stated the द्विविधत्वo
 
  Mammaṭa substitutes निषेधो वक्तुमिष्टस्य for Udbhaṭa's प्रतिषेध
 
-
-
 इवेष्टस्य. But he brings in the sense of इव by his वृत्ति—‘निषेधो निषेध इव etc.’He also omits आक्षेप इति तं० ( Kārikā 25 b) which serves no useful purpose in the definition. Thus we see that the figure Ākṣepa of these Kāśmīri
 
 an writers is essentially of the same type and that their definitions closely resemble each other.
@@ -3516,8 +3098,6 @@ an writers is essentially of the same type and that their definitions closely re
 ** P. 34, LL. 14–17**—अर्थान्तरन्यासः। समर्थकस्य पूर्वंयत्...... (Kārikās 27, 28 a¹) The four varieties of Arthāntāranyāsa are:—
 
  (1) यत् समर्थकस्य पूर्वं वचः (उक्तिः) अन्यस्य (समर्थ्यस्य) च पृष्ठतः \[उक्तिः\]।
-
-
 
    (2) यद् वा \[प्रथमभेदस्य\] विपर्ययेण स्यात्।
 
@@ -3537,13 +3117,9 @@ an writers is essentially of the same type and that their definitions closely re
 
  The students will not fully understand the process of inference from the above scanty explanation. Some more lines are therefore added with a view to bring to their mind a clear idea of the process as treated in our Indian logic.
 
-
-
 व्याप्ति is of three kinds—केवलान्वयि, केवलव्यतिरेकिand अन्वयव्यतिरेकि. अन्वयव्याप्ति is the positive concomitance, e. g. यत्र यत्र धूमोस्ति तत्र तत्र वह्निरस्ति व्यतिरेकव्याप्ति is the negative concomitance, e. g. यत्र वह्निर्नास्ति तत्र धूमपि नास्ति. The व्याप्ति which holds good both positively and negatively is called अन्वयव्यतिरेकव्याप्ति. Where it holds good only in the positive way it is केवलान्वयव्याप्ति and where it holds good only in the negative way it is केवलव्यतिरेकव्याप्ति. लिङ्ग is the cause or indicatory mark of anything that is inferred लिङ्गपरामर्श or simply परामर्श is the whole process of infernce as वह्निव्याप्यधूमवानयं पर्वतः. These are the important terms concerning the अनुमान. Now the nature of the whole process of अनुमिति is shortly this. We must have first three things for a valid inference—(1) पक्ष i. e. the thing about which something is to be proved, e. g. पर्वत; (2) साध्य i. e. the thing which is to be proved in connection with पक्ष, e. g. अग्नि; and (3) साधन or the cause, e. g. धूम. This last is also called लिङ्ग or व्याप्य. Two things are necessary for the fulfilment of the inference, viz. व्याप्ति and पक्षधर्मता. यत्र यत्र धूमः तत्र तत्र वह्निः is व्याप्ति, तथा वह्निव्याप्यधूमवान् अयं पर्वतः is पक्षधर्मता, तस्मात् वह्निमानयं पर्वतः is the inference. It either the व्याप्ति or the पक्षधर्मता does not exist the साध्य cannot be proved. For instance, पर्वतो वह्निमान् पाषाणमयत्वात् or अश्मवत्त्वात्; here the व्याप्ति i. e. यत्र यत्र अश्मवत्त्वम् तत्र तत्र वह्निमत्वम् does not exist. Therefore the अनुमान is false. Also, पर्वतो वह्निमान् महानसीयधूमवत्त्वात्; here the पक्षधर्मता i. e. merely धूमवानयं पर्वतः does not exist. Therefore theअनुमान is invalid.
 
  Now take any example of अर्थान्तरन्यास. It will be seen that the logicalअनुमान cannot be said to be existing there. Take the verse तन्नास्ति यन्न कुरुते etc. There the meaning stated in a logical form will be: शर्वो बटूभूय वर्तते, अत्यन्तकार्थिकस्य अगतिकगतित्वात्. The पक्ष here will be शर्व, the साधन or व्याप्य (cause) will be अगतिकगतित्वम् and the साध्य will be बटूभूयवर्तनम्. Here the पक्षधर्मता viz. शर्वः अगतिकगतित्वान् holds good. But the व्यप्ति viz. यत्र यत्र अगतिकगतित्वम् तत्र तत्र बटूभवनम् cannot hold good, All people who have pressing needs do not becomeबटुऽor celibates. Thus the real process of causation or inference does not exist in अर्थान्तरन्यास. What exists is the समर्थ्यसमर्थकभाव and not कार्यकारणभाव or व्याप्यवापकभाव.
-
-
 
 ** P. 34, L. 21—**स च चतुर्विधः etc.। The four varieties are:—
 
@@ -3566,8 +3142,6 @@ The examples of these are given in order.
 ** P. 35, L. 24**—अत्र हरस्य....हर इति।Indurāja shows here the propriety and the necessity of the समर्थकवाक्य. Hara has his own power of senses unimpeded; therefore he can have प्रत्यक्षज्ञान of anything he chooses. Thus his resorting to meditation would be improper; for the knowledge gained by meditation would only be secondary and inferior to theप्रत्यक्ष knowledge. Now to remove this impropriety and to support हर's ध्यानश्रयणthe author says that the knowledge gained by meditation is not at all liable to be mistaken.
 
 ** P. 36, L. 5**—तप्यमानां तपांस्युमाम्। Here the form तप्यमानां is passive but its significance is active. When the verb तपति has तपस् for its object, then the subject of तपति acts like the object. Compare ‘तपस्तपः कर्मकस्यैव’—पा. ३.१.८८. When asubject acts like an object the form of the verb is made passive and it is made to agree with the real object viz. तपस् (कर्मणि). The प्रथमा विभक्ति of the subject is retained but the verb is conjugated in the passive form, e.g, तपस्तप्यते तापसः. In Sanskrit the relations of the subject, object and the verb with one another are peculiar and intricate; and a special
-
-
 
 study of Grammar, especially the Kārakas, only will reveal the real nature of the subject.
 
@@ -3597,8 +3171,6 @@ study of Grammar, especially the Kārakas, only will reveal the real nature of t
 
 see his काव्यालंकार, ८. ७९–८४,
 
-
-
  Thus although Udbhaṭa's definition seems to be crude before the precise statement of Mammaṭa, viz.—
 
 सामान्यं वा विशेषो वा तदन्येन समर्थ्यते।  
@@ -3624,8 +3196,6 @@ on the whole he seems to be more advanced than Daṇḍin and even Bhāmaha. For
 
  The विवृतिकार, however, being thoroughly imbued with the modern notions on the nature of alaṅkāras, chiefly brought into vogue by the genius of Mammaṭa, brings in the सामान्यविशेषभाव which is the chief characteristic of अर्थान्तरन्यास. He also notices the varieties caused by साधर्म्येण समर्थन and वैधर्म्येण समर्थन which are not noticed by Udbhaṭa and by Indurāja too. He says by way of commenting on Kārikā, प्रकृतार्थसमर्थनात् etc. (28 a. b)—इदमत्र तात्पर्यम्। विशेषे सामान्येन सामान्ये वा विशेषेण सामर्थ्ये सामान्यस्य तथाभूतं निमित्तमुच्यते। विशेषसामर्थ्यात्प्रतिपन्नं सामर्थ्यस्यानुपपद्यमानतां निरस्यति। विषयापेक्षया स्वसामान्यमर्थान्तरमिवाप्रस्तुतप्रशंसायामेकस्यानुपादानमेव दृष्टान्ते बिम्बप्रतिबिम्बन्यायेनैव न्यसनहेतुकथनं तेन नैतल्लक्षणम्। What the commentator drives at in this passage is that a cause or निमित्त of the general proposition i. e, सामान्य is Stated in अर्थान्तरन्यास. This cause is obtained on the strength of the facts of the विशेष statement; and this cause, therefore,
 
-
-
 being connected both with सामान्य and विशेष removes the incapability of one of them supporting the other. While such is the case in अर्थान्तरन्यास, in अप्रस्तुतप्रशंसा there is only the statement of the अर्थान्तर and in दृष्टान्त the motive of mentioning the two parts is बिम्बप्रतिबिम्बभाव and not सामान्यविशेषभाव. Therefore this definition of अर्थान्तरन्यास does not apply to them (नैतल्लक्षणम्).
 
  Again at the end of his whole comment on अर्थान्तरन्यास the विवृतिकार observes:—
@@ -3649,8 +3219,6 @@ being connected both with सामान्य and विशेष removes the 
 
  P. 36, L. 21—पुरुषकारान्वयव्यतिरेकाननुविधायित्वात्। Not originating or vanishing according to the association or dissociation of manly effort. The फल of trees is produced whenपुरुषकारis not present and does not appear even when
 
-
-
 पुरुषकार
 
 is present. Thus the cause and effect have no invariable concomitance (व्याप्ति) between them. In the same manner there is no relation of cause and effect between पुरुषकार and all happenings in the world. पुरुषकार or the effort of man cannot do or undo anything. Everything is controlled by destiny. Here the alaṅkāra is अप्रस्तुतप्रशंसा, for theअप्रस्तुतwhich is समर्थक is only expressed.
@@ -3663,8 +3231,6 @@ is present. Thus the cause and effect have no invariable concomitance (व्य
 
  Really speaking the main difference between अप्रस्तुतप्रशंसा and अर्थान्तरन्यास is that in अप्रस्तुतप्रशंसा the प्रकृत is not stated (उपात्त) but is understood (आक्षिप्त) by the force of the अप्रकृत, while in अर्थान्तरन्यास both are stated (स्वकण्ठेनोपात्त). Indurāja has brought out this point very ably. To remove the inaccuracy of the text he suggests that प्रकृतार्थ in the text should mean
 
-
-
 स्वकण्ठोपात्त प्रकृतार्थ. Thus अप्रस्तुतप्रशंसा will be excluded as the प्रकृतार्थ is not स्वकण्ठोपात्त in it.
 
  About दृष्टान्तeven the Commentator fails to hit the mark. In दृष्टान्त, समर्थ्यand समर्थक are both of them either सामान्य or विशेष; in अर्थान्तरन्यास one is सामान्य and the other is विशेष. Indurāja does not touch this point at all. His point is different and it is also important. In अर्थान्तरन्यास, समर्थ्यसमर्थकभाव is prominent, in दृष्टान्त it is not so. In दृष्टान्त the बिम्बप्रतिबिम्बभाव between the two statements is chiefly sought to be conveyed; समर्थ्यसमर्थकभाव is known in a secondary manner. Having thus pointed out the difference between दृष्टान्तandअर्थान्तरन्यास to bring out his meaning from the Kārikā, Indurāja suggests that the word समर्थनin the text is to be taken to mean समर्थन in उपक्रमावस्था i. e. the leading position. Thus when theसमर्थ्यसमर्थकभाव is in the leading position the alaṅkāra will be अर्थान्तरन्यास. But when बिम्बप्रतिबिम्बभाव will be in the leading position it will be दृष्टान्त.
@@ -3674,8 +3240,6 @@ is present. Thus the cause and effect have no invariable concomitance (व्य
 ** P. 37, LL. 10–14**—तत्र हि.......न्यासत्वम्। For there, in that instance, the i. e. प्रकृत‘the predominence of destiny pervading the whole world’is implied by showing the अप्रकृत i. e. ‘the fruit of sylvan trees controlled by destiny,’but not actually stated in so many words, just as in अर्थान्तरन्यास. Therefore, though there is समर्थ्यसमर्थकभाव, it does not rest on the प्रकृतार्थ expressed in words.
 
  **P. 37, LL. 14–19**—दृष्टान्तेऽपि......वोपक्रमः।Even in दृष्टान्त, though the समर्थ्यसमर्थकभाव rests on the प्रकृतार्थ actually expressed, as both the समर्थ and समर्थक are stated in so many words, there is no possibility of अर्थान्तरन्यास, as दृष्टान्त does not become manifest by the pre-eminence of समर्थ्यसमर्थकभाव. Indeed, it does not proceed mainly from समर्थ्यसमर्थकभाव, as
-
-
 
 only the बिम्बप्रतिबिम्बभाव is there expressed in words, and the समर्थ्यसमर्थकभाव is understood by implication. But in अर्थान्तरन्यास it is theसमर्थ्यसमर्थकभाव which takes the lead or makes the it is the beginning.
 
@@ -3692,8 +3256,6 @@ only the बिम्बप्रतिबिम्बभाव is there express
 
  Udbhaṭa in this Kārikā dividesव्यतिरेक into twodivisions according as the निमित्त for the आधिक्यis stated or not. Indurāja in his comment furtherdivides these twointo four on the principle that उपमानोपमेयभावis either ex-
 
-
-
 pressed by इवादिवाचकऽ or is आर्थ (i. e. implied). The विवृतिकार also mentions four varieties but his principle of division is very different. The निमित्त according to him is of two kinds: उपमेयोत्कर्षनिमित्त and उपमाननिकर्षनिमित्त. Thus the उपात्तनिमित्त and अनुपात्तनिमित्त varieties of Udbhaṭa are doubled according as the निमित्त is either उत्कर्षनिमित्त or निकर्षनिमित्त. He says:—स (व्यतिरेकः) चोपमेयोत्कर्षोपमाननिकर्षरूपव्यतिरेकनिमित्तस्योपादाने उत्कर्षनिकर्षोभयनिमित्तानां पर्यायेणानुपादाने च भवतीति चतुर्भेदः। His comment on the example सा गौरीशिखरं etc. will illustrate his mode of treating these varieties. He says:—तत्र उत्कर्षनिमित्तानुपादाने उदाहरणम्—‘सा गौरीशिखरं गत्वा etc.’। गौरीशिखरं हिमवदेकदेशः। अत्रेन्दुतनुरुपमानम्। उमोपमेयम् जयन्तीमिति व्यतिरेकाभिधानम्। राहुपीतप्रभत्वं निकर्षनिमित्तं शाब्दमुत्कर्षनिमित्तमक्षतलावण्यत्वं त्वार्थम्। निकर्षनिमित्ते आर्थे उदाहरणम्—‘सदा कान्तिमतीमिन्दोरि’ति पाठे। उभयानुपादाने यथा—‘पीयूषदीधितेस्तस्ये’ति पाठे। उभयोपादाने उदाहरणम्—‘पद्मं च निशि निःश्रीकं etc’.Thus he brings out three varieties by proposing changes in the wording of the first example, and by the second example he illustrates his remaining fourth variety.
 
  It will be seen that this sort of division is after the manner of Mammaṭa. Mammaṭa has 24 divisions in all and our विवृतिकारalso states as many in the course of his commentary on व्यतिरेक. Mammaṭa describes his 24 varieties thus:—व्यतिरेकस्य हेतुः उपमेयगतमुत्कर्षनिमित्तम्, उपमानगतमपकर्षकारणम्, तयोर्द्वयोरुक्तिः, एकतरस्य द्वयोर्वा अनुक्तिरित्यनुक्तित्रयम्, एतद्भेदचतुष्टयमुपमानोपमेयभावे शब्देन प्रतिपादिते, आर्थेन च क्रमेणोक्ताश्चत्वार एव भेदाः, आक्षिप्ते चौपम्ये तावन्त एव, एवं द्वादश। एते श्लेषेऽपि भवन्तीति चतुर्विंशतिर्भेदाः। काव्यप्रकाश—X, p.647.
@@ -3702,8 +3264,6 @@ pressed by इवादिवाचकऽ or is आर्थ (i. e. implied). Th
 
  This example illustrates अनुपात्तनिमित्तव्यतिरेक. इन्दोस्तनुः is the उपमान and उमा is the उपमेय. The superiority of उपमेय is shown over the उपमान. Here the cause of the superiority is not stated. राहुतोऽपि तपसः सातिशयत्वम् or some such thing is to be understood. Even राहु has not made the disc of the moon so thin as तपस् has made पार्वती's body thin. For the विवृतिकार's comment on this stanza see above.
 
-
-
 ** P. 38, LL. 22–23**—पद्मं च निशि निःश्रीकं etc.। Here the superiority of मुख over पद्म and चन्द्र is described. The reason for the superiority of मुख is stated, viz. सततं स्फुरच्छायेन. The reason for the inferiority of चन्द्र and पद्म are also stated, viz. दिवा निष्प्रभत्व and निशि निःश्रीकत्वम् respectively. The moon loses her light by day and the lotus loses its beauty by night. But the beauty of PârvatÎ's face is constant. Whether the statement of both these reasons is necessary for व्यतिरेकto be उपात्तनिमित्त or only one of them is sfficient is not made clear either by Indurāja or Udbhaṭa; most probably the latter supposition is correct. Udbhaṭa now goes on to describe one more variety of व्यतिरेक by यो वैधर्म्येण दृष्टान्तो etc.
 
 ** P. 39, L. 7**—इवाद्युपात्ते....तमाह।Indurāja has described before his divisions of व्यतिरेक based on इवादिवाचकऽ. He now says that Udbhaṭa describes those divisions in the Kārikāयो वैधर्म्येण etc. But really Udbhaṭa is describing here an altogether different variety of व्यतिरेक, as will be explained presently.
@@ -3711,8 +3271,6 @@ pressed by इवादिवाचकऽ or is आर्थ (i. e. implied). Th
 ** P. 39, LL. 8, 9**—यो वैधर्म्येण दृष्टान्तो etc.। वैधर्म्येण दृष्टान्तः=An illustration by contrast. The illustration is opposite or antagonistic to the thing illustrated. The Kārikā means—"An illustration by contrast furnished with \[the वाचकऽ\] यथा, इव etc. is also व्यतिरेक, for the establishment of superiority (विशेषख्यापन) exists there".
 
 ** P. 39, LL. 10–12**—यो वैधर्म्येण......पमेयभावस्याह।Indurāja has not brought out Udbhaṭa's meaning clearly in the commentary. He says—यो वैधर्म्येणदृष्टान्त इति विशेषापादनान्वयादिति च.......व्यतिरेकलक्षणे योजितम्। Of this, Indurāja's remark about विशेषापादनान्वय is correct; for it is the व्यतिरेकलक्षण. विशेषापादन is the most important term in Udbhaṭa's definition of व्यतिरेक(Kārikā 29). But वैधर्म्येणदृष्टान्त is not an item of व्यतिरेकलक्षण at all. It is the description of the new variety of Ubbhaṭa introduces in this Kārikā. By saying इतिव्यतिरेकलक्षणं योजनम् Indurāja wants to impress the idea that Udbhaṭa is treating the same व्यतिरेक that he defined in the last Kārikā, only that he is putting forth the new divisions of it based on इवादिशब्दऽ. But that is not the real purport of the Kārikā. Udbhaṭa's point is that wherever a वैधर्म्यदृष्टान्त i. e. a comparison by contrast occurs, the alaṅkāra should be व्यतिरेक and
-
-
 
 not उपमा etc.; for there the constrast shows the विशेष of the उपमेय over the उपमान. When the उपमान is placed as antagonistic to the उपमेय it means that the उपमान is deficient in those qualities which the उपमेयpossesses. Thus व्यतिरेक is the proper figure there. But Indurāja seems to ignore this point. He has all his eyes on यथेवादिवाचकऽ which he wants to make the basis for the division of व्यतिरेक. He misses the real purport of the words वैधर्म्येण दृष्टान्तः which are really the nucleus of the Kārikā.
 
@@ -3723,8 +3281,6 @@ not उपमा etc.; for there the constrast shows the विशेष of the 
 ** P. 39, LL. 25, 26**—एवमयं......मुन्नेयम्। This is written owing to the misunderstanding or rather on the supposition that Udbhaṭa is describing इवादिवाचकयुक्त व्यतिरेक.
 
  Indurāja by his explanations on Kārikās 29 and 30 seems to imply that the two varieties viz. उपात्तनिमित्त and अनुपात्तनिमित्त occurring when इवादिशब्दऽ are *not* उपात्त are stated in Kārikā 29 and those varieties occurring when इवादिशब्दऽ are उपात्तare stated in Kārikā 30. But this position is untenable sinceइवादिशब्दऽ are not mentioned or even alluded to in Karikā 29. Besides Kārikā30 mentions a distinot kind of व्यतिरेक which has nothing to do with उपात्तनिमित्त and
-
-
 
 अनुपात्तनिमित्त varieties of व्यतिरेक detailed in Kārikā 29. The fact that Udbhaṭa has given only one stanza as the example of Kārikā 30 also points to the fact that a distinct type of व्यतिरेक
 
@@ -3742,8 +3298,6 @@ From Indurāja's standpoint it will be—
 
  I. The general type of व्यतिरेक viz. उपमानोपमेययोः विशेषापादन.**{**उपात्तनिमित्त{1. इवादिवाचकस्य उपादाने.2 इवादेः अनुपादाने. **{**अनुपात्तनिमित्त {3. इवादेः उपादाने. 4. इवादेः अनुपादाने.
 
-
-
 ** P. 40, L. 1**—चत्वारो व्यतिरेकाः.......।Really speaking only three व्यतिरेक are mentioned by Udbhaṭa. He does not say that वैधर्म्यदृष्टान्तव्यतिरेक is to be divided further, and no such division is really possible.
 
  Of course such varieties ofव्यतिरेक as are made by Indurāja viz. (1) इवादिवाचकोपादाने, and (2) इवादिवाचकानुपादाने are quite possible inव्यतिरेक and Mammaṭa and other authors have actually made divisions on these principles. The only thing is that Udbhaṭa does not speak anything about such varieties. All these varieties containing or not containingइवादिशब्दऽ are to be included according to him under the broad divisions उपात्तनिमित्त and अनुपात्तनिमित्त stated in the 29th Kārikā.
@@ -3754,11 +3308,7 @@ From Indurāja's standpoint it will be—
 
 ** P. 40, L. 9**—तन्त्रेण...... न क्रियते। Repetition of the word having two meanings is necessary. Either the statement of the word only once or the use of a different word having the same meaning will not do.
 
- 
-
 **P. 40, LL. 13, 14**—या शैशिरी श्री.......। The example of the variety described above. Here तपस्has two different meanings in its two different positions: (1) the month माघ
-
-
 
 and (2) austerities. Here उमा is उपमेय, शैशिरी श्री is उपमान and the आधिक्य of उमा over शैशिरी श्री is shown by the twice stated word तपस्. The निमित्त of the superiority of उपमेय and the निमित्त of the inferiority of उपमान are shown by सुदीर्घतपस्त्व and एकतपस्त्व respectively. शैशिरी श्री is known to exist only for the single month of तपस् while पार्वती has a very long तपस्.
 
@@ -3782,8 +3332,6 @@ and (2) austerities. Here उमा is उपमेय, शैशिरी श�
 इति वामनेन यद्व्यतिरेकोदाहरणमुक्तं तत्प्रभृतीनां संकरता न व्यतिरेकत्वम्। अथ सत्यपदेनोपमा न प्ररोहतीत्युच्यते तदस्तु व्यतिरेकत्वम्।
 
  It will be seen that superiority of उपमान over उपमेय might also constitute व्यतिरेक in the opinion of Udbhaṭa; for his definition उपमानोपमेययोः विशेषापादनं व्यतिरेकः is general and can be applied both ways; but he gives no example to illustrate that sort of व्यतिरेक. And that is very easy to explain; for in all cases of उपमानthere is already a latent (गर्भित) superiority of उपमान over उपमेय. उपमान is always a thing that contains to the utmost the qualities that are desired to be established in उपमेय. But उपमान in all poetry is always अप्रकृत and any special eulogy of उपमान at the expense of उपमेय which is the प्रकृत will have a marring effect on poetry. The प्रकृत is always to be extolled and not the अप्रकृत. This is the reason why examples of the
-
-
 
 superiority of उपमानare not found and are generally not given by alaṅkāra-writers though it is included in the definition of the figure by many. The discussion about ‘क्षीणः क्षीणोपि शशी’in काव्यप्रकाश (Ullāsa 10, fig. व्यतिरेक) shows the same thing. The verse क्षीणः क्षीणोपि शशी is the only one that is given by some few authors to illustrate the superiority of उपमान over उपमेय. And even that is wrongly done, says Mammaṭa, the real aim of the verse not having been properly grasped. Thus it is shown that describing व्यतिरेकas उपमेयादुपमानस्योत्कर्षः is wrong and useless.
 
@@ -3825,8 +3373,6 @@ Nothing definite can be ascertained from this loose statement as to what was rea
 
 काव्यालंकार ७.९०,
 
-
-
  Ruyyaka has:—
 
  भेदप्राधान्ये उपमानादुपमेयस्याधिक्ये विपर्यये वा व्यतिरेकः। अंलकारसर्वस्व, P. 9. As the example of the second variety he gives the vers of Rudraṭa—क्षीणः क्षीणोपि शशी etc., and explains चन्द्रापेक्षया च यौवनस्य न्यूनगुणत्वम्। शशिवैलक्षण्येन तस्यापुनरागमात्।
@@ -3848,8 +3394,6 @@ Nothing definite can be ascertained from this loose statement as to what was rea
 
 ** P. 40, LL. 25, 26**—क्रियायाः प्रतिषेधे या ...। "The displaying of the result \[of any action\] while the action (i. e. the cause) itself is denied, is to be regarded as विभावनाwhensatisfaction (as to how the result took place) is easily obtained."
 
-
-
 ** P. 41, LL. 1-3.**—इह यत्किंचित्.......कारणम्। Whatever is produced in this world is the result of action. Action is the immediate cause of all things. All other causes can only produce a कार्यthrough action alone. It is a matter of every day exprience, प्रातीतिकेन रूपेण परिदृश्यमानत्वात्.
 
  The विवृतिकार has कारणभूतक्रियाप्रतिषेधे तत्कार्यस्य यत्प्रकटमं सा विभावना। न दैवसंगतेत्याह समाधाविति। परिहारे सतीत्यर्थः।
@@ -3863,8 +3407,6 @@ Nothing definite can be ascertained from this loose statement as to what was rea
  In the definition Udbhaṭa has used the word क्रियाin the sense of हेतु. According to grammariansक्रियाalone is the cause of a thing. The wordक्रिया has been used in the definition of विभावनाby four authors viz. Bhāmaha, Vāmana, Udbhaṭa and Mammaṭa. Of these Udbhaṭa and Bhāmaha have the same definition. Mammaṭa has क्रियायाः प्रतिषेधेपि फलव्यक्तिर्विभावना।Vāmana has क्रियायाः प्रतिषेधे प्रसिद्धतत्फलव्यक्तिर्विभावना। काव्यालंकारसूत्र ३. २. Other authors use the word कारण.
 
 ** P. 41, LL. 23-24.**—समासोक्तिः। प्रकृतार्थेन वाक्येन........ (Kārikā 33.)— "In a sentence which deals with the principal theme of discription, when some other sense not belonging to the theme is conveyed by common adjectives, the figure becomes समासोक्ति." The विवृतिकार's comment on this is: प्रस्तुतार्थेन वाक्येनाप्रस्तुतोऽप्यर्थो यदभिधीयते सा समासोक्तिः। नन्वेवं श्लेषतां प्राप्तेत्याह तत्समानविशेषणैः। विशेष्यपदं तु प्रस्तुतार्थाभिधाय्येव।
-
-
 
 ** P. 42, LL. 2–3**—दन्तप्रभासुमनसं पाणिपल्लव........। Here the प्रकृत (principal theme) is भगवती and the अप्रकृत which is conveyed by implication (आक्षिप्त) is लता. All the adjectives दन्तप्रभासुमनसं etc. are applicable to both लता and भगवती. All these adjectives contain रूपकऽ, one set of the रूपकऽ (viz.दन्तप्रभा, पाणि and जटा) belonging to भगवती and the other (viz. सुमनस्, पल्लव and षट्चरण) to लता दन्तप्रभा, पाणि and जटा become the उपमेयऽ and सुमनस्, पल्लव and षट्चरण become उपमानऽ when the adjectives are applied to भगवती, and *vice versa* when they are applied to लता. तनुत्व is a common property applicable to both भगवती and लता as well.
 
@@ -3880,8 +3422,6 @@ Nothing definite can be ascertained from this loose statement as to what was rea
 भामहालंकार, २.७९.
 
 But later writers beginning with our author have stipulated that the expressed sense must be belonging to the subject of description (i. e. प्रकृत) and the sense implied by the force
-
-
 
 of the श्लिष्ट adjectives is to be the अप्रकृत. If the अप्रकृत or अप्रस्तुत thing is expressed and the is conveyed by implication the alaṅkāra would be अप्रस्तुतप्रशंसा.
 
@@ -3901,8 +3441,6 @@ of the श्लिष्ट adjectives is to be the अप्रकृत. If t
 
  Of these the first two varieties will probably fall under the second variety (प्रस्तुतस्य यदन्यत्वम्) of Mammaṭa's अतिशयोक्ति; because in both the varieties one thing (प्रस्तुत) is described as another thing. The first variety of Mammaṭa viz, निगीर्याध्यवसान (complete submerging of the उपेमय by the उपमान) does not find place in Ubdhaṭa's classification. The third and fourth divisions of Udbhaṭa correspond to the same divisions of Mammaṭa. The second variety of Mammaṭa is प्रस्तुतस्य यदन्यत्वं and it is equal to the first two varieties of Udbhaṭa यद्यर्थोक्तौ च कल्पनम् of Mammaṭa is Uabhaṭa's संभाव्यमानार्थनिबन्ध. The full description of अतिशयोक्ति given by Mammaṭa in his Kārikās is:—(१) निगीर्याध्यवसानं तु प्रकृतस्य परेण यत्। (२) प्रस्तुतस्य यदन्यत्वं (३) यद्यर्थोक्तौ च कल्पनम्। (४) कार्यकारणयोर्यश्च पौर्वापर्यविपयर्यः। विज्ञेयातिशयोक्तिः सा।—काव्यप्रकाश X. p.628.
 
-
-
 ** P. 42, LL. 24–25.**तपस्तेजः स्फुरितया। Example of the first variety. Here पार्वती was first अकृशा, then by तपस् she became कृशा. Now by reason of the lustre of her austerities she is again described as appearing अकृशा. Thus here भिन्ना (from her original condition) *i. e.* कृशा पार्वती is described as अभिन्ना *i. e.* अकृशा. The विवृतिकार has भगवत्याः कार्श्यमकार्श्यंचाभिन्नीकृतम्। हेतुश्चात्र तपस्तेजोजनिता सौन्दर्यसमृद्धिः।
 
 ** P. 43, LL. 6–7.**—अचिन्तयच्च भगवान्...........। Here पार्वती though she is कुमारी is imagined to be भिन्ना *i. e.* यौवनवती. Thus अभेदेपि नानात्वम् is illustrated. विवृतिकारः—एकैवात्र कुमारी भगवती तरुणी चेत्यन्यत्वं गमिता। हेतुश्च तपोजनितं रामणीयकम्।
@@ -3913,17 +3451,11 @@ of the श्लिष्ट adjectives is to be the अप्रकृत. If t
 
 ** P. 43, L, 13.**—मुक्ताफलाक्षमाला......। मुक्ताफलान्येव अक्षाः तेषां माला। Here the कर and माला are respectively compared to ‘a blooming sun-lotus’(विकाशि पद्म) and 'a pencil of moon's rays' (शशिद्योतच्छटा). When भगवान्began to look at Pārvatīhe saw the कर and माला. The combined beauty of them was so exquisite that he could not find a fit comparison for it in all the existing things of the world. Hence he had to fancy a combination of विकाशिपद्म and शशिद्योतच्छटा, not found in the existing world, to be the fit उपमान for कर and माला. \[पद्म is a sun-lotus and is closed during the night. Thus the rays of the moon falling on a sun-lotus is an utter impossibility in the world.\] This संभाव्यमानार्थनिबन्धन is the
 
-
-
 same as of Mammaṭa. Mammaṭa gives the example—राकायामकलङ्कं चेदमृताशोर्भवेद्वपुः। तस्या मुखं तदा साम्यपराभवमवाप्नुयात्॥ का. प्र. १०. p. 632.
 
  As regards Udbhaṭa has improved a great deal upon Bhāmaha. No doubt he has taken the definition of अतिशयोक्तिalmost verbatim from him as he does many a time when he thinks that Bhāmaha's definition is correct and fit to be adopted. Yet Bhāmaha and Daṇḍin have made no attempt to divide the figure into classes and their ideas about the figure seem to be somewhat general and inexact. Udbhaṭa has not only attempted classification but has succeeded a great deal in making distinct divisions of the figure, which have become the bases of the treatment of later authors like Mammaṭa; who have treated the figure very much in the same manner as Udbhaṭa. It will be noticed, however, that Mammaṭa does not give any definition as such of अतिशयोक्ति. He only describes the four varieties of अतिशयोक्ति one after another, beginning with निगीर्याध्यवसान. (See his Kārikās on अतिशयोक्तिquoted above on p. 79.). The निगीर्याध्यवसान is the only feature of अतिशयोक्ति mentioned by modern Rhetoricians which is not noticed by Udbhaṭa. निगीर्याध्यवसान is 'establishing the उपमान by submerging the उपमेय altogether'. Take the example आयुरेवेदम् and आयुर्घृतम्. ‘This is life itself’becomes the निगीर्याध्यवसान, for the उपमेय which is घृतis totally enveloped by or submerged in the उपमान. But in 'ghee is life' there is only a charge made of 'life' upon 'घृत'. This first निगीर्याध्यवसान constitutes a variety of अतिशयोक्ति according to Mammaṭa and others. The variety भेदे अनन्यत्वम् of Udbhaṭa is not the same as this निगीर्याध्यवसान. The भेद need not be between the उपमान and उपमेय; it may be between two attributes even, such as आकृशा and कृशा as set forth in the example तपस्तेजःस्फुरितया etc. Thus although the निगीर्याध्यवसान variety of Mammaṭa is not to be found among the varieties put forth by Udbhaṭa, all other varieties of अतिशयोक्ति given by Mammaṭa are the same as those propounded by Udbhaṭa. The wording of Mammaṭa is naturally more neat and concise but that does not conceal his indebtedness to Udbhaṭa which is so largely apparent in his work.
 
-
-
  It is very interesting to see through the works of all alaṅkāra writers the development going on in the ideas about अतिशयोक्ति. The first writer Bhāmaha has only the vague definition— निमित्ततो यत्तु वचो लोकातिक्रान्तगोचरम्. Uabhaṭa, coming after him, first classifies the figure into the four divisions which are accepted, in one form or another, by all Alaṅkārikas coming after him. But Udbhaṭa's classification still lacked the definite mention of निगीर्याध्यवसान. This important variety which is based on औपम्य(similitude) is first included by Mammaṭa among the divisions of अतिशयोक्ति. But later on the idea of अध्यवसाय (identification) was generalised. It was not regarded as being restricted to उपमानोपमेयभाव, but any particular thing established in the place of another thing for some reason or other came to be called अध्यवसाय. Thus the establishment of भेद in the place of अभेद, of अभेद in the place of भेद, the assertion of aसंबन्ध as subsisting between two things where no really exists, the पौर्वापर्यविपर्यय of कार्य and कारण, were all regarded as different species of the genus अध्यवसाय. The sphere of अध्यवसाय being thus widened and made to include all the varieties of अतिशयोक्ति, the figure अतिशयोक्ति itself was defined in terms of अध्यवसाय. सिद्ध or complete अध्यवसाय was regarded as constituting अतिशयोक्ति and साध्य अध्यवसाय or 'अध्यवसाय in the process of making' was called उत्प्रेक्षा. This stage of development we see reached in अलंकारसर्वस्यof Ruyyaka who came a little after Mammaṭa. Ruyyaka's definition is—अध्यवसाये अध्यवसितप्राधान्ये त्वतिशयोक्तिः. Viśvanātha, (14th. cent.) author of साहित्यदर्पण, follows upon the footsteps of Ruyyaka. A stillfurther stage in the development of ideas about अतिशयोक्ति is depicted in the रसगङ्गाधर of जगन्नाथ (middle of 17th century). He defines अतिशयोक्ति as—विषयिणा विषयस्य निगरणमतिशयः, तस्योक्तिः. He does away with the term अध्यवसाय and substitutes the word अतिशय in its place. By doing so he does not bring in any new idea into the definition. He describes अतिशय as विषयिणा विषयस्य निगरणम् which is practically the same as the अध्यवसाय of अलंकारसर्वस्व and others. He also includes all the varieties–भेदे अनन्यत्वम्, अभेदे नानात्वम्, संबन्धेऽप्यसंबन्धः etc. under his अतिशय. This his अतिशय isthe same as the all-comprehendingअध्यवसायof Ruyyaka and others. But by adopting
-
-
 
 the term अतिशयhe is able to show the propriety of the name अतिशयोक्ति by giving, by the way, its निर्वचन which no other author before him had thought of doing.
 
@@ -3937,13 +3469,9 @@ the term अतिशयhe is able to show the propriety of the name अति�
 
  This chapter consists of three figures viz. यथासंख्य, उत्प्रेक्षा and स्वभावोक्ति. This instalment and the order of alaṅkāras, in it follow Bhāmaha as usual, who has also the third instalment of alaṅkāras consisting of these three alaṅkāras mentioned in the same order at the end of his second Parichchheda.
 
-
-
 ** P. 45, LL. 4–5.**—यथासंख्यम्। भूयसामुपदिष्टानामर्थानाम्.......।—उपदिष्ट= stated, enumerated. "When many dissimilar things once stated are subsequently referred to in the same order then that figure is termed यथासंख्य." **LL. 7–9**—तत्र हि..........यथासंख्यता।For, here the syntactical connection of objects (पदार्थनामन्वयः), though not expressed in words (शब्देनानुपात्तोऽपि) \[such as 'respectively' &c.\], is grasped by suggestion (ध्वननात्), which produces the charm that constitutes the अलंकार; and as the अन्वय of the objects subsequently stated follows exactly the order indicated by the number (संख्योपलक्षितक्रमानतिक्रमेण) of the objects mentioned before, the अलंकार is called यथासंख्य (संख्यामनतिक्रम्य वर्तते इति). Thus, Indurāja suggests, the title is अन्वर्थ. **LL. 9–13.**—स चालंकारो...... प्रयासेन रम्यं भवति।Indurāja here tries to account for the word भूयसाम्. भूयसाम् means 'of many' i. e. of at least three. He says:—The alaṅkāra becomes charming when the objects mentioned are many even though they are referred to only a few times, When only two objects are first stated then the figure will not be charming unless they are referred to a great many times i. e. at least three or four times. If only two things are enumerated and if they are again spoken of only once, then it will have no charm at all. But when a great number of things is enumerated then only one subsequent reference will convey sufficient charm; and if such enumeration of many things is referred to twice or thrice, then the charm will be very great indeed. Rudraṭa says just the same thing: तद्द्विगुणं त्रिगुणं वा etc.। रुद्रटः—काव्यालंकार, ७.३५.
 
 ** P. 45, LL. 18–24.**—ननु मृणालहंसेत्यादौ......शोभातिशयमावहतीत्यर्थः। The word असधर्मणाम् should denote, we think, the dissimilarity of the things that are enumerated. Thus in the given example–मृणालहंसपद्मानि बाहुचङ्क्रमणाननैः, मृणाल, हंस and पद्म must not be similar or similarly spoken to one another. Such seems to us to be the meaning of the author. But Indurāja takes it in a different way. He says that the things first enumerated should not be similar to things subsequently enumerated and attributes this meaning to असधर्मणाम्. Thus according to him मृणाल, हंस and पद्म *should* have no similarity i. e. उपमानोपमेयभाव with बाहु, चङ्क्रमण and
-
-
 
 आनन. But the actual thing is that मृणाल, हंस and पद्म are very olearly the उपमानऽ and बाहु, चङ्क्रमण and आनन are the उपमेयऽ, and the whole verse becomes a good example of व्यतिरेक as will be shown later. Indurāja admits all this, but still adheres to his own meaning of असधर्मणाम् and gives an example from Rudraṭa's काव्यालंकार to illustrate his own meaning. His plea is that if there be similarity between the two groups of things stated, then the alaṅkāra will always be उपमा, रूपक or व्यतिरेक, which will always be prominent in that example and the element of यथासंख्य (enumeration in order) will always be thrown into the background.
 
@@ -3962,25 +3490,17 @@ Here the first group of objects पद्मे, इन्दु etc. are उप
 
  There is a line of argument in support of the explanation of the expressionअसधर्मणाम् offered by Indurāja. It
 
-
-
 may be said that by the expressionअसधर्मणाम्Udbhaṭa wants to suggest that the alaṅkāra occurs where there is उपदेश or अनुनिर्देश of सधर्म अर्थऽ also. For this reason, if we understand the word अपि after असधर्मणाम्, the meaning of the author will be clear, अपिना सधर्मणामनुक्तानां समुच्चयः, This sort of construction is not unusual with old authors, and subtle commentators often resort to this kind of artifice to bring out their intended meaning from the very words of the author which they are commenting upon. By the words अनलंकृती पुनः क्वापि in his definition of a Kāvya, Mammaṭa wants to suggest सर्वत्र सालंकारौ \[ शब्दार्थौकाव्यम् \], क्वचित् स्फुटालंकारविरहेऽपि न काव्यत्वहानिःUdbhaṭa himself in his definition of उत्प्रेक्षा (see p. 48) only uses the words वाच्येवादिभिरुच्यते, and suggests, as Indurāja says, that there is another kind of उत्प्रेक्षा which is called अवाच्या i. e. अर्थसामर्थ्याक्षिप्ता or प्रतीयमाना. In the same way the wordअसधर्मणाम् in the definition of यथासंख्य should be understood to mean सधर्मणाम् असधर्मणामपि. Thus he interprets the important wordअसधर्मणाम् in the definition in such a way as to include examples both ways which are given by several writers on alaṅkāra. By this line of argument Indurāja tries to account for the expressionअसधर्मणाम् in the definition of the alaṅkāra, and for that reason introduces the discussion ननु मृणालहंसेत्यादि etc. He asks—In the following exampleमृणालहंस etc. the charm lies not in the order of objects, i. e. यथासंख्य,but inव्यतिरेकालंकार, inasmuch as मृणाल, हंस and पद्म which are उपमानऽ here, are described as having been conquered by the उपमेयसऽबाहु, चङ्क्रमण and आनन, how then is यथासंख्य to be considered there as an alaṅkāra at all? The author, he says, tries to answer this question by introducing the wordअसधर्मणाम् in the definition, and thereby he intends to suggest that this alaṅkāra produces a great charm also in places where there is neither साधर्म्य nor उपमानोपमेयभाव and conseqently no व्यतिरेक, उपमा orरूपक and gives a clear example devoid of उपमानोपमेयभाव, as कज्जलहिमकनक etc. from Rudraṭa's काव्यालंकार, 7. 36. Here in this example हरि, हर and चतुरानन are the three gods first enumerated and then their complexions, vehicles, and their places of abode are subsequently stated in order. There is no similarity of any kind in any of these, yet
-
-
 
 there is a great deal of charm in the appropriate syntactical connection of them all in their just order. Here, of course, the alaṅkāra is quite distinct, apart from similarity, identification or contrast. Now if we accept the existence of the alaṅkāгa यथासंख्यwhere there is no tinge of similarity, there is no reason why it should be discarded as an alaṅkāra in places where similarity or contrast does exist. Therefore in the example मृणालहंस etc. यथासंख्य does exist there, though as subordinate to व्यतिरेक; thus there isअङ्गाङ्गिभावसंकरof both in the example. The author himself says further on that where two or more alaṅkāras mutually assisting each other do not appear as distinct and independent, they give rise to अङ्गाङ्गिभावसंकर. Therefore यथासंख्य must be recognised as a separate alaṅkāra.
 
  The whole of the foregoing discussion may be put in a nut-shell and stated as follows:— Udbhaṭa's definition of यथासंख्य is उपदिष्टानां भूयसामसधर्मणामर्थानां यः क्रमशः अनुनिर्देशः तत् यथासंख्यम्. The subsequent reference in order of many dissimilar objects previously stated gives rise to the alaṅkāra यथासंख्य. The objects must be many, at least more than two, and they must be dissimilar, i. e. disconnected with one another, having no common standpoint between them. Bhāmaha gives the same definition. Both of them are original and accurate thinkers on matters of alaṅkāras. By framing their definition in this way, both of them give examples of the alaṅkāra which when considered aggregately frmo the modern point of view contain an alaṅkāra based on similarity. They havecomposed their own examples. They have not borrowed them from other writers. Their examples must be exactly fitting in with their definitions. Therefore the objects stated in the examples must be dissimilar (असधर्म) according to the meaning in which they must have used the expressiom असधर्मणााम्. And that meaning is the one which we have given above, viz. the objects in themselves must be dissimilar to each other. They as a group may or may not be dissimilar with the other group of objects susequently referred to. With this meaning of the expressionअसधर्मणााम् of the author, his example मृणालहंसपद्मानि becomes quite consistent. Here the objects
-
-
 
 मृणाल, हंस and पद्म stated first have no similarity of any kind between them, they are quite disconnected with each other. Similarly the objects in the subsequent statement also, viz. बाहु, चङ्क्रमण, and आनन are all discounected with each other. Thus the conditions of the definition are all fulfilled in the example. But Indurāja having notions of the अलंकारशास्त्र as developed in his time brings in his own views about the alaṅkāra यथासंख्य and tries to explain the definition of उद्भट in his own way. He understands that the *groups* of objects should be असधर्म, and thus expatiates upon the propriety of the expression असधर्मणाम् in the definition. All his discussion is quite unnecessary if we understand the expression in the way in which we have interpreted it.
 
  The definitions and examples of यथासंख्य given by रुद्रट, मम्मट, रुय्यक and जगन्नाथ are clear examples of the alaṅkāra, quite unmixed with any other alaṅkāra and still they have a charm. But most of the examples of given by Ālaṅkārikas are mixed up with other alaṅkāras such as उपमा, रूपक, उत्प्रेक्षा and व्यतिरेक. This led to the discussion started by जयरथ and followed by जगन्नाथ and other modern writers as to the claims of यथासंख्य being considered as a separate and distinct alaṅkāra. Compare जयरथ's commentary on अलंकारसर्वस्व of रुय्यक (pp. 149–150.)—न चास्यालंकारत्वं युक्तम्। दोषमात्राभावरूपत्वात्। उद्दिष्टानां क्रमेणानुनिर्देशे ह्यक्रियमाणेऽपक्रमाख्यो दोषः प्रसज्यते। यदुक्तम्—‘क्रमहीनार्थमपक्रमम्’इति। तच्च यथा—‘कीर्तिप्रतापौ भवतः सूर्याचन्द्रमसाविव’इति। दोषाभावमात्रं च नालंकारत्वम्। तस्य कविप्रतिभात्मकविच्छित्तिविशेषत्वेनोक्तत्वात्। तत्त्वे चास्य ‘यथासंख्यमनुदेशः समानाम्’इत्यादिसूत्रोदाहरणानां ‘आयनेयीनीयियः फढखछघां प्रत्ययादीनाम्’इत्यादीनामप्यलंकारत्वप्रसङ्गः। See also रसगङ्गाधर (p. 478)—इदं तु बोध्यम्। यथासंख्यान्वयबोधो यथातथास्तु नाम। नात्रागृह्णीमः। यथासंख्यमलंकारपदवीमेव तावत्कथमारोढुं प्रभवतीति विचारणीयम्। नह्यस्मिँल्लोकसिद्धे कविप्रतिभानिर्मितत्वस्यालंकारजीवातोर्लेशतोऽप्युपलब्धिरस्ति येनालंकारव्यपदेशो मनागपि स्थाने स्यात्। अतोऽपक्रमत्वरूपदोषाभाव एव यथासंख्यम्। एवं चोद्भटमतानुयायिनामुक्तयः कूटकार्षापणवदरमणीया एव। एतेन यथासंख्यमेव क्रमालंकारसंज्ञया व्यवहरतो वामनस्यापि गिरो व्याख्याता इति तु नव्याः।
 
  That is the view of the modern Ālaṅkārikas. But the old Ālaṅkārikas such as भामह, दण्डि, उद्भट, रुद्रट, रुय्यक and मम्मट did recognise a kind of charm even in the orderly succes-
-
-
 
 sion of things, and so accorded to यथासंख्य the position of an independent alaṅkāra, in the same way as they have done to the second दीपक, कारणमाला, सार and एकावली.
 
@@ -3995,8 +3515,6 @@ sion of things, and so accorded to यथासंख्य the position of an i
 
  The modern writers from whose stand-point Indurāja is criticizing Udbhaṭa have of course no such ambiguity of ideas. Their examples contain no other alaṅkāras,
 
-
-
 Rudraṭa's example viz. कज्जलहिमकनकरुचः etc. is clearly of this type. For other examples of this sort see यथासंख्य in काव्यप्रकाश, अलंकारसर्वस्व, रसगङ्गाधर and other writers.
 
  **P. 4G, L. 20**—**उत्प्रेक्षा। साम्यरूपाविवक्षायाम्।** अतद्गुणक्रियायोगात्। न तत् अतत्। अतस्य गुणक्रियाणां योगः अतद्गुणक्रियायोगः। तत्=प्रकृत, उपमेय; therefore अतत्=अप्रकृत, उपमान. "When the form of similarity \[between प्रकृत and अप्रकृत\] is not desired to be spoken, but the qualities and actions of theअप्रकृत are placed in प्रकृत in a hyperbolic manner, it is called उत्प्रेक्षा, and is denoted by words like इव."
@@ -4008,8 +3526,6 @@ Rudraṭa's example viz. कज्जलहिमकनकरुचः etc. is c
 ** P. 4G, L. 26**—द्रव्यधर्मः सिद्धो गुणः...... रूपेणान्तर्भावात्। The property (धर्म) of matter (द्रव्य) that is accomplished or perfected (सिद्ध) is गुणand that which is in the process of being perfected (साध्य) is क्रिया. The whole universe is twofold, as it consists of independent and dependent things. That which is independent is called धर्मि and it is द्रव्य as it is capable of being indicated by pronouns 'this' or 'that.' The dependent thing is the property. It is of two kinds सिद्ध or साध्य. Now that property which is सिद्ध is गुण and that which is साध्य is क्रिया. These are all the objects in this world. सामान्य, विशेष etc. can be included among these as they are cognised as one or other of them. On this whole passage see Kāvyaprakāśa (Third edition) “उपाधिश्च द्विविधः.........द्यालम्बनभेदात्"।Ullāsa 2. pp. 33–37.
 
  This description of पदार्थऽ is made from the grammarians' point of view. They reconize जाति, गुण, क्रिया and संज्ञा.
-
-
 
 Compare चतुष्टयी शब्दानां प्रवृत्तिरिति महाभाष्यकाराः। Here संज्ञा and जाति are included under द्रव्य. सामान्य and other पदार्थऽ that the Naiyāyikas and Vaiśeshikas have sanctioned fall under one or other of these categories, for they have a form of their own that is cognisable to our mind.
 
@@ -4023,22 +3539,17 @@ Compare चतुष्टयी शब्दानां प्रवृत्�
 
 ** P. 48, L. 5.**—चन्दनासक्तभुजगेत्यादौ........इवादीनामप्रयोगः। In the verse चन्दनासक्त etc. the मलयमारुत (wind from the मलय mountain) is said to be mixed up with the breaths of the serpents; and this is shown as a cause of its stupefying effect on travellers. Now this is a mere fancy; for, though the मारुत may be निःश्वासमूर्च्छित, it does not make the travellers faint on that account at all. Here the cause of the
 
-
-
 fainting of travellers is *imagined* to be residing in निःश्वासमूर्च्छितत्व of मलयमारुत. इवादिशब्दऽ do not exist.
 
 ** P. 48, L. 12.**—अस्याः सदार्कबिम्ब......। This example is of योगाध्यासेन भावोत्प्रेक्षा. The meaning is: "On account of her austerities (mutterings) during which her eyes which were ever steadily fixed on the orb of the sun had drunk his rays. The black spot had, as it were, fallen on her face having mistaken it for the moon." Indurāja's explanation here is as follows:—In the first place अङ्कis to be taken to mean शश (on the moon). Then the compound is to be रूपकसमास, viz. श्यामिका एव अङ्कः (शशः). शश (hare) is अप्रकृत and it is चेतन; श्यामिका is प्रकृत, but it is अचेतन. Now श्यामिका is described as falling on the face on account of चन्द्रभ्रम. But चन्द्रभ्रम is a quality belonging to a living being i. e. शश; for अचेतन वस्तु cannot have any भ्रम(confusion or mistake). Hence the quality चन्द्रभ्रम which belongs to शश is implanted on श्यामिका by the poet. Therefore this is गुणयोगाध्यासेन उत्प्रेक्षा. What ultimately falls is the प्रकृत, i. e. श्यामिका, blackness.
 
  This explanation is ingenious but unnatural; and the real beauty of the verse is left out unnoticed by such explanation. More naturally, चन्द्र should be the अप्रकृत, मुख should be the प्रकृत and श्यामिकाङ्कत्व having the black spot should be the गुण, implanted upon मुख, it being the natural गुण of चन्द्र. The real idea of the verse is: there had grown a sort of blackness on Pārvatī's face by constant austerities and constant looking at the sun. On this the poet exercises his fancy. As Pārvatīwas constantly looking at the sun, and the moon (in the form of the face) also comes face to face with the sun and drinks his light, on this account and on account of its beauty, the face of Pārvatīwas so very alike the moon that the black spot alighted on her face mistaking it for the moon. Thus the quality of having the black spot which naturally belongs to चन्द्र is implanted upon मुख. Here we need not stretch the meanings of words at all such as अङ्क=शश etc. अङ्क means onlya spot and nothing else. Here also we can catch the real beauty of the epithet अर्कबिम्बस्थदृष्टिपीतातपैः. Pārvatīis drinking the light of the sun by her eyes, and चन्द्र is also well known
 
-
-
 for drinking the light of the sun. In this way पीतातपत्व can also be the आरोपितधर्म. For Pārvatīdoes not actually drink the light but the moon drinks, and thusपीतातपत्वcan be transferred from the moon to PārvatĪ.
 
 ** P. 49, L, G.**—कपोलफलकावस्याः......।The example of अभावविषयक्रियाध्यासोत्प्रेक्षा. Here the अभावरूपक्रिया viz, परस्परादर्शन (not seeing each other) is attributed to the कपोलफलकऽ. The action of seeing or not seeing belongs to a living being having eyes. But the कपोलफलकऽ are no beings and have no eyes. Therefore the action of not seeing is imposed upon the कपोलफलकऽ.
 
  The विवृतिकार's comment is short and to the point. It runs thus:—उपमानोपमेयभावस्याविवक्षणे नत्वभावे इवमन्येध्रुवमित्यादिभिः पदैः प्रतिपाद्योत्प्रेक्षा किंरूपेत्याह संभावनेयमिति। कुतः संभावनेत्याह तद्गुणेति। \[अ\]तस्याप्रकृतस्य संभाव्यस्य संबन्धी यो गुणः क्रिया वा तद्योगादर्थात्प्रकृतस्य किं फलेत्याह अतिशयेति। उत्कर्ष पर्यवसायिनीत्यर्थः। एषा च बहिरसंभवदर्थनिष्ठा कार्येत्याह लोकेति। भावस्याभावस्य च संभावनया सा प्रथमं द्विधा। उदाहरणम्। ‘अस्याः सदार्कबिम्बस्थे’त्यादि। अत्राङ्कस्य मुखविषयपातक्रियायोगादिन्दुभ्रमो भारूपो हेतुत्वेनोत्प्रेक्षितः। द्वितीयस्योदाहरणम्। ‘कपोलफलके'त्यादि। अत्र क्षामतागमनक्रियायोगाददर्शनहेतुत्वेनाभावरूपं संभावितम्। लक्षणहेत्वोः क्रियाया इति ह्यत्र शतृप्रत्ययः।
-
 
 ‘बालेन्दुवक्राणी’त्यादीन्यतद्गुणक्रियायोगादुत्प्रेक्षोदाहरणान्युन्नेयानि। अतगुणक्रियायाः संभावनभिति तु व्याख्यानमयुक्तम्। अशब्दार्थत्वात्। ‘कपालेनोन्मुक्तस्फटिकधवलेनाङ्कुर इवे’त्यादेर्लक्ष्यस्यासंग्रहप्रसंगाच्च।
 
@@ -4051,8 +3562,6 @@ for drinking the light of the sun. In this way पीतातपत्व can a
  The विवृतिकार's comment is—व्यापारप्रवृत्तस्य बालमृगादेः समुचितहेवाकनिबन्धनस्वभावोक्तिर्न तु स्वभावमात्रकथनम्। उदाहरणम्। ‘क्षणं नंष्ट्वा’ति। नंष्ट्वारुदित्वा, नुदन् पीडयन्।
 
 ——————————
-
-
 
 **VARGA IV.**
 
@@ -4073,8 +3582,6 @@ for drinking the light of the sun. In this way पीतातपत्व can a
 
  The name प्रेयस्वत् is with some authors only प्रेयस्. Daṇḍin, Bhāmaha and Ruyyaka use the word प्रेयस्. Mammaṭa also refers to the figure as प्रेयस्. More modern authors have a tendency to use प्रेयस्वत्. It is quite possible, and even probable that Udbhaṭa's word is alsoप्रेयस्वत् and not प्रेयस्वत्; for in प्रेयो रसवदूर्जस्वि we can have the wordप्रेयस् not compounded withरसवत् at all. In the following Kārikā also काव्यं प्रेयस्वदुदाहृतम्can more conveniently mean: 'A poem is described as *containing*प्रेयस्’, the word
 
-
-
 प्रेयस्वत् meaning ‘containing प्रेयस्’.But Indurāja seems to have a partiality for प्रेयस्वत्. He therefore insists upon making Udbhaṭa accept it.
 
 ** P. 50, L. 10**—प्रेयस्वत्तावत्।The definition of प्रेयस्वत् is रत्यादिकानां भावानाम् etc. "Poetry which is composed so as to contain the indications of the Bhāvas like love (रति) etc. by means of Anubhāvas etc. is said to contain प्रेयस् (or is termed प्रेयस्वत्.).” The विवृतिकार adds रतिरिह देवगुरुनृपादिविषया गृह्यते। कान्ताविषयायाः स्तुतेः सूचने रसवदलंकारो वक्ष्यते।
@@ -4089,11 +3596,7 @@ for drinking the light of the sun. In this way पीतातपत्व can a
 
  रस and its accessories.—These four figures are very closely connected with the technicalities of रस (sentiment) and its accessories which are detailed in works on dramaturgy, such as भरतनाट्यशास्त्र and दशरूपक, or in independent treatises such as रसतरङ्गिणी and रसमञ्जरी. The curious are referred to भरतनाट्यशास्त्र (अध्याय ६, ७), to दशरूपक (चतुर्थ प्रकाश) and toरसतरङ्गिणी where the old and the new treatment of the subject will be found in detail. काव्यप्रकाशalso treats this subject under असंलक्ष्यक्रमध्वनि in the fourth Ullāsa. Jagannātha discusses this subject very critically and exhaustively in the first Ānana of his Rasagaṅgādhara. Here Indurāja has summarised the subject in an easy manner sufficiently for our purpose.
 
-
-
  The two principal terms are रस and भाव (स्थायि). रस is a sentiment in a fully developed form and स्थायिभाव is a feeling which is latent in the mind of a person. Aस्थायिभाव when it is roused to a great pitch with the help of its accessories assumes the form of रस. If it is not heightened sufficiently so as to be termed रस, it remains all the while as a भाव. The accessories which tend to develop aस्थायिभाव are विभावऽ, अनुभावऽ and व्यभिचारिभावऽ. A विभाव is any causative or exciting property by the help of which the latent स्थायिभावdevelops. The things चन्द्रिका, गन्ध, माल्य, अनुलेपन etc. excite the feeling of रति in a person's mind, therefore these are (उद्दीपन-) विभावऽ. The कान्ता or beloved woman is the root cause on which the feeling of रति in a person's mind rests and so it is termed the (आलम्बन-) विभाव of रति or शृङ्गार. अनुभावऽ are the gestures or actions denoting the effects of स्थायिभाव or रस upon a person. Thus the gestures and actions which a man exhibits under the influence of रति or शृङ्गार would be called the अनुभावऽ of शृङ्गार. व्यभिचारिभावऽ are minor feelings which cannot have any great importance by themselves, but can heighten the principal feeling i. e. स्थायिभाव. These व्यभिचारिभावऽ are thirty-three or thirty-four in number viz. निर्वेद, ग्लानि, शङ्का etc. The सात्त्विकभावऽ i, e. pure emotions which hold a middle position between the स्थायिभावऽ and व्यभिचारिभावऽ and which are indicated by particular conditions of body and mind are eight, viz. स्तम्भ, स्वेद, रोमाञ्चetc. (The appropriate English equivalents of these and other kinds of भावऽ may be studied from Monier Williams' Sanskrit-English Dictionary.) स्थायिभावऽare nine (or eight according to writers on dramaturgy) viz. रति, हास, शोक, क्रोध, उत्साह, भय, जुगुप्सा, विस्मय and सम. These correspond respectively to the nines रसऽ which are शृङ्गार, हास्य, करुण, रौद्र, वीर, भयानक, बीभत्स, अद्भुत and शान्त. शृङ्गार is the developed expresion of love between a man and a woman. Any other kind of love or affection e. g. वात्सल्य, भक्ति etc. cannot rise to the pitch of रस and so it remains only in the state of a स्थायिभाव, although it is heightened by अनुभावऽ ete; so also with the other स्थायिभावऽ and रसऽ.
-
-
 
  Now प्रेयस्वत् is a figure where a स्थायिभाव is only suggested by the help of अनुभावऽ etc.
 
@@ -4108,8 +3611,6 @@ for drinking the light of the sun. In this way पीतातपत्व can a
  तथा कामोस्य ववृधे etc.। The desire of Hara was heightened to such a degree that he abandoned the righteous path and began to act improperly. This constitutes रसाभास.
 
  The शान्ति of रस, भाव and others is the quiescence or abating condition of the same रस, भाव etc. When such रसशान्ति or भावशान्ति is illustrated and no other रस or भाव is sought to be introduced with the abatement of the previous one then the figure is समाहित.
-
-
 
  अथ कान्तां दृशं दृष्ट्वा etc.।Here the abatement of Hara's desire is described. He allayed all the marks of previous passion on his body and then approached Pārvatī. The appeasing of passion indicated by the allaying of the marks on his body constitutes समाहित.
 
@@ -4126,8 +3627,6 @@ Here \[विधिं प्रति\] असूया is the व्यभि�
 
  The विवृतिकार takes objection to the interpretation पञ्चाशद्भावानां सूचनम् of Indurāja and especially to the number fifty of these Bhāvas. He says—पञ्चाशद्भावसूचनमितिव्याख्यानमयुक्तम्। हासादीनां भावानां हास्यादीनां च रसानां भेदस्यासिद्धत्वात्। By the expres-
 
-
-
 sion रत्यादि he does not understand रति as a स्थायिभाव and other स्थायिभावऽ, but takes रति as a mere भाव by the dictum, it seems, of the Ālaṅkārikas viz.—रतिर्देवादिविषया व्यभिचारी तथाञ्जितः। भावः प्रोक्तः, and not as one of the 9 स्थायिभावऽ as Indurāja takes it; and makes his list of 42 भावऽ by adding only रति to 33 व्यभिचारिभावऽ plus 8 सत्त्विकभावऽ thus making 42 भावऽ only. He insists that out of the 9 स्थायिभावऽ and रसऽ, रति can only be accepted as a mere भावseparately with reference to गुरु, नृप etc. and not हास, शोक and the रसऽ हास्य, करुण etc., as these latter cannot be distinctly apprehended with reference to देव, गुरु, नृप or any other being as रति is. Thus he says रतिरिह देवगुरुनृपादिविषया गृह्यते। कान्ताविषयायाः स्तुतेः सूचने रसवदलंकारो वक्ष्यते।
 
  He reads ^(०)सूचने instead of ^(०)सूचनैः. The word सूचन may mean अवगमन or अनुमान i. e. indication or inference. As शीतनिवृत्ति is indicated or shown by वह्नि, as the latter is the productive cause of it, and as the taste of a mango can be inferred from its colour, which may be said to be a ज्ञापक cause of taste, so the विभावऽ and अनुभावऽ may be said to be सूचक of रति and other भावऽ. But a भाव thus indicated by or inferred from विभावऽ and अनुभावऽ is not the soul of poetry. The soul of poetry रस is which is the subject of enjoyment or pleasure in general, and as such, it is neither indicated nor inferred but only enjoyed, and therefore रस, भाव and other emotions are said to be व्यङ्ग्य (capable of being suggested), and not अनुमेय (capable of being inferred) by those who understand the real nature of poetry. The विभावऽ, अनुभावऽ and व्यभिचारिभावऽ are not the productive causes of रस. If they were so, भरत and others would have said रसनिष्पत्तिःand not रसाभिव्यक्तिः.
@@ -4135,13 +3634,9 @@ sion रत्यादि he does not understand रति as a स्थाय
  The whole passage of the विवृतिकार bearing on this discussion is worth extraction:—आदिग्रहणान्निर्वेदग्लानीत्यादयो व्यभिचारिभावाः तथा स्तम्भः स्वेद इत्यादयः सात्त्विकभावाः गृह्यन्ते। तेषां च \[द्वा\] चत्वारिंशतो रत्यादिभावानामनुभावैः सात्त्विकवाचिकाहार्याङ्गिकरूपैरभिनयैरादिग्रहणादुद्दीपनालम्बनरूपैर्विभावैः
  स्थायिभावत्वाद्रतेस्तु व्यभिचारिभिरपि सूचने व्यक्तौ यत्काव्यबन्धनं प्रेयस्विद्रत्याः प्रियतरया उपलक्षितं भाववृन्दमत्रास्तीति। वह्नेः शीत\[\[नि\]वृत्तिरनुमीयत इति कारणस्यापि क्वचिद्गमकत्वाद्विभावैर्भर्वत्येव सूचनम्। रूपाद्रसानुमानं भवतीति व्यभिचारिणां सहकारिरूपाणामप्यस्ति गमकत्वम्। काव्यस्य तु सिद्धे गमकत्वे निर्विवादैवानुभावानां सूचकता।
 
-
-
 न चानुमितमात्रतया स्थितो भावः काव्यजीवितमपि तु साधारण्येन प्रतिपन्नो रसनाव्यापारगोचरः। एवं रसेऽपि गन्तव्यमत एव व्यङ्ग्यारसभावतदाभासतत्प्रशमाः काव्यतत्त्वविद्भिरभिधीयन्ते। एतच्चाभ्युपगम्योक्तम्। वस्तुवृत्तपरीक्षायां रसभावादयोऽनुमेया एव न भवन्ति। न हि विभावानुभावव्यभिचारिणः कारणकार्यसहकारिरूपाः। तद्रूपत्वे कारणकार्य सहकारिसंयोगाद्रसनिष्पत्तिरिति ब्रूयात्। यथा चैतत्तथा परीक्ष्यमाणं ग्रन्थगौरवमानयतीति न प्रतन्यते।
 
  **P. 51, L. 2**—तत्रानुभावश्चतुर्विधः। Of these अनुभाव i. e. gesture or condition of mind or body is fourfold: (1) आङ्गिक of body, such as gestures of hands, eyes &c., (2) वाचिक of speech, such as the use of a particular tone or voice, (3) सात्त्विक natural or pure state of mind such as stupor, perspiration &c., (4) and आहार्य adventitious or borrowed, such as head-dress or bodice. **L. 5.**—एवमयमनुभावः...।Thus this fourfold अनुभाव being the कार्य (effect), conveys or indicates the feelings which are the cause. **L. 10**—यथा हि कार्यस्य….। As a well investigated effect (कार्य) necessarily leads to its cause (कारण), so also a well ascertained cause invariably leads to its effect, as it is usually seen in worldly transactions. **L. 17**—रत्यादीनां च शब्दानां.....।Though the words रति and others are not found to indicate the sentiments, love and others, in the way in which they are indicated by their peculiar and natural characteristic by अनुभावऽ, yet they possess partially this characteristic of the अनुभावऽ. As indeed the अनुभावऽ convey the idea of feelings generally and not particularly so the indicatory words रति and others also do the same. **L. 22**—चतूरूपा भावा इति। Where Udbhaṭa has said this and पञ्चरूपा रसाः occurring a little further on we can not at present determine. Perhaps it may be in his भामहविवरण. **L. 27**—प्रेयः शब्दवाच्येन..........लक्षणया व्यपदेशः। This is certainly originial and very ingenious. Indurāja explains the propriety of the word प्रेयस्वत्. प्रेयस् originally means adear person. Now a dear or beloved person is the आलम्बनविभाव of the स्थायिभाव रति. Therefore by लक्षणा the word प्रेयस् comes to mean रति. Again रति is one of the nine (or fifty) भावऽ mentioned before. Therefore when we use the word प्रेयस् chiefly intended for रति, all the other भावऽ also come in with it and are meant by the word प्रेयस् (by लक्षणा).
-
-
 
 Thus means ultimately ‘all the भावऽ that are indicated.' And प्रेयस्वत् is that which contains such भावऽ.
 
@@ -4153,8 +3648,6 @@ Thus means ultimately ‘all the भावऽ that are indicated.' And प्र
 
  The विवृतिकार thus comments on the whole passage:—एते च धर्माभिप्रापकतया तदितरपरिहारतया च। इति प्रसिद्धरत्यादिव्यक्तिरूपास्तान्त्रिकरसशब्दवाच्याः। निर्वेदादीनां तु रमणीयत्वेऽपि न तान्त्रिकरसशब्दवाच्यतेति भावत्वमेव। एषां च स्वशब्दादिभिः पञ्चभिरवगतिर्भवति। यत्र स्वशब्दस्तद्वाचकस्तद्वाचकः सामान्येन न तु तदभिव्यक्तौ शक्तः। एवं हि शृङ्गारहास्येत्यादिश्लोकान्नाट्यादिव सकलरसप्रतिपत्तिः स्यात्। यं कान्तादिमर्थमवलम्ब्य रत्याश्चित्तवृत्तिविशेष उत्पद्यते स आलम्बनकारणम्। येन वसन्तेन्दूदयादिना बध्यते तदुद्दीपनकारणम्। यदुत्पद्यते स स्थायीभावः। तस्मिन्त्रसूत्रकल्पे यत्सहकारितयोदेति स व्यभिचारिभावः। सति च स्थायिनि येऽङ्गविकारास्तेऽनुभावाः अभिनयशब्दप्रतिपाद्यास्तेषामास्पदं यत्काव्यं
 
-
-
 बध्यते तत्काव्यबन्धनम्। रसवद्रसोऽस्तीति तत्रविभावादिकाव्ये वाच्यतया व्यभिचारिणां तु क्वचित्प्रतीयमानतयापि स्थितिः। स्थायिनस्तु प्रतीयमानतयैव। प्रतीयमानो हि स्थायी रसः। स्थायिनस्तु वाच्यत्वेऽभिनयादिरूपं लिङ्गमकिञ्चित्करमेवेति हासादिसमत्वाच्च काव्यस्य प्राप्नोति। यतश्च विभावाद्यास्पदं अतश्च दर्शितमतश्च शृङ्गारादिरसम्। When the words expressive of these भावऽ &c. are used, they are capable of indicating them generelly, but are not powerful enough to manifest them in a developed form. If such were the case, by the verse शृङ्गारहास्य etc., which enumorates the रसऽ in their own names, cognisance of all the Rasas will be an accomplished fact. In a sentimental poem (विभावादिकाव्ये), the व्यभिचारि भावऽ are expressed by their own names, they are rarely suggested, but the स्थायिभाव is always suggested; for a स्थायी is always suggestive; but if a स्थायी is expressed, then its indicatory marks such as अभिनय and others will be all nugatory.
 
  The विवृतिकार reads रसवद्दर्शितस्पृष्टशृङ्गारादिरसोदयम् instead of ^(०)दर्शितस्पष्टशृङ्गारा^(०), and mentions the स्थायिभावऽ just after the Kārikā 45, शृङ्गारहास्य etc. and not along with व्यभिचारिभावऽ as Indurāja does. He thus makes the number of these भावऽ 42 and not 51 as Indurāja takes (See *supra* p. 98.).
@@ -4165,8 +3658,6 @@ Thus means ultimately ‘all the भावऽ that are indicated.' And प्र
 
  Udbhaṭa recognises five forms of रसऽ, namely (1) 9 स्थायिभावऽ i. e. permanent feelings such as love &c., (2) 33 संचारिणःi. e. desultory mental conditions, such as निर्वेद, ग्लानि &c., (3 and 4) विभावऽ and अनुभावऽ i. e. causes and effects of sentiments, such as कामिनी, उद्यान &c, and कटाक्ष, भुजक्षेप &c., and (5) sentiments themselves in their own names; just as he montions four kinds of भावऽ, namely स्थायिभाव, विभाव, अनुभाव and संचारिभाव.
 
-
-
 ** P. 54. L. 8**—एवमन्येपि रसा उदाहार्याः। The विवृतिकार also has the same remark at the end of the explanation of this example. Indurāja's remark is consistent as he includes all the रसऽ in his enumeration of 51 भावऽ; but the विवृतिकार's remark seems to be inconsistent with his contention that only रति is capable of being the subject of रसवदलंकार and not हास, शोक etc., as he mentions only 42 भावऽ capable of leading to the alaṅkāras etc. (See *supra* p. 98.).
 
  **P. 54, L. 9**—रसानां भावानां च........वक्तव्यत्वाच्च।Indurāja here passingly alludes to the important question which was probably very hotly contested in his own times and which was very ably put forth by आनन्दवर्धन in his ध्वन्यालोक, viz. whethers and रसऽ, and भावऽ and in fact all kinds of ध्वनि, are merely the ornaments of poetry or the soul of it, but declines to discuss it here on the plea of swelling the volume of the work. He says the nature of रस and भाव is not discriminated here as it is foreign to our subject and as it requires a fuller exposition.
@@ -4174,8 +3665,6 @@ Thus means ultimately ‘all the भावऽ that are indicated.' And प्र
 ** P. 54. L. 21**—ज्योत्स्नातमिस्रेत्यत्र.....। The word ऊर्जस्विन् is a मत्वर्थे निपातन of Pāṇini, The termimation विन्is irregularly applied to ऊर्जस् for मत्. Therefore विन्conveys the sense of मत्. ज्योत्स्नातमिस्रा etc.—पा. ५. २. ११४.
 
  These four alaṅkāras are generally accepted by old writers. But treatises like those of Vāmana and others contain no mention of them. Writers of the modern school starting from Dhvanikāra and Ānandavardhana onwards generally do not accept these as arthālaṅkāras. They regard रसऽ the soul (आत्मा) of poetry and the arthālaṅkāras are in their opinion only outer ornaments. Therefore the different varieties of रस, भाव etc. that are mentioned by old authors as alaṅkāras are not regarded by them as alaṅkāras at all. Evidently Udbhaṭa's view about these alaṅkāras seems to be the old one and he has no idea of the great importance attached to ध्वनि in poety by the writers of the New School, who include, रस, भाव etc. under divisions of ध्वनि. Now ध्वनि or व्यङ्ग्यार्थ is a sense of words. Hence, रस, भाव etc. which are included under it are also understood as a sense of words in poetry. And a sense of
-
-
 
 words obviously cannot be included in alaṅkāras. Also रस being the chief element to be enjoyed in poetry, it is styled by them as the soul of poetry. But sometimes रस assumes the nature of अलंकार even in the opinion of the writers of the New School. In mediocre (गुणीभूतव्यङ्ग्य) poetry ध्वनि or व्यङ्ग्यार्थ is subordinate to the वाच्यार्थ. Hence रस, भाव etc., which always belong to ध्वनि, assume a subordinate position in such poetry and they can be included under the category of alaṅkāras in that case.
 
@@ -4187,15 +3676,11 @@ words obviously cannot be included in alaṅkāras. Also रस being the chief 
 
  Indurāja explains वाचकवृत्ति and वाच्यवृत्ति by वाचकस्या.....संसर्गगमनम्. वाचकवृत्ति is the function of an expressive word i. e. the function of denoting the direct sense (वाच्यार्थ) of a word. वाच्यवृत्ति is the process of the वाच्यार्थ (direct sense) combining itself with other वाच्यsenses (of words) for the purpose of forming a consistent meaning. आकाङ्क्षा—पदस्य पदान्तरव्यतिरेकप्रयुक्तान्वयाननुबोधकत्वम् आकाङ्क्षा.The syntactical expectation of a word for others (in a
 
-
-
 sentence) is आकाङ्क्षा. When a word in प्रथमाविभक्ति is uttered it invariably requires a verb to produce some cogent meaning and if the verb is not expressed we have to take it as understood. Thus if a verb is uttered it has the natural expectations of its kārakas and so on. This expectation is आकाङ्क्षा. In गौश्चलति the words have आकाङ्क्षा of each other; but in गौरश्वः पुरुषो हस्ती they have no आकाङ्क्षा at all. योग्यता is defined as बाधविरहो योग्यता or अर्थाबाधो योग्यता, absence of contradiction between the senses of words. In वारिणा सिञ्चति, वारि and सिञ्चनare mutnally योग्य for each other. But in अग्निना सिञ्चति, there is no योग्यता (though there is आकाङ्क्षा), for अग्नि is not a thing with which सिञ्चन is made. संनिधिः—पदानामविलम्बेनोच्चारणं संनिधिः गां आनय—these two words (which have both आकाङ्क्षा and योग्यता) uttered with an interval of many hours between them will convey no meaning, for there is no संनिधि. When all the words in a sentence are uttered at one time they are said to have संनिधि between them. आकाङ्क्षा, योग्यता and संनिधि are things which make a word cambine its meaning with the meanings of other words in a sentence and form a consistent meaning of the whole.
 
  In पर्यायोक्त the sense which is मुख्य is not spoken directly but conveyed by some round about way. Here a peculiar sort of व्यञ्जना (अवगमन) occurs. In real व्यञ्जना the sense which is implied is quite different from the वाच्य sense. But in the case ofपर्यायोक्त the meaning conveyed byव्यञ्जना is in substance the same as the वाच्यार्थ(the sense directly expresssed), सान्तरेण शब्दव्यापारेणावगम्यमानत्वात्—as the sense is suggested by mediate or indirect process of words.
 
  The विवृतिकार's comment on पर्यायोक्त is similar to that of Indurāja. It runs thus—वाचकवृत्तिरभिधा। वाच्यवृत्तिराकाङ्क्षासन्निधियोग्यतावशात् संसर्गगमनं ताभ्यां विनार्थसामर्थ्यात्मनावगमस्वभावेन यत्प्रतिपाद्यते तत्पर्यायेणान्येन रूपेणाभिधानमिति पर्यायोक्तम्।अवगमव्यापारेण कथमभिधानमिति चेत् पर्यायोक्ततत्त्वमप्रस्तुतप्रशंसाव्याख्याने वक्ष्यामः। He has not explained the nature of पर्यायोक्त i. e. the principle of round about saying in which the conveyance of the expressed meaning by means of the process of suggestion is involved. He promises to do so when he has to comment upon the nature of अप्रस्तुतप्रशंसा.
-
-
 
 ** P. 55, L. 20**—येन लम्बालकः साश्रः। Only the first verse constitutes the example. Here गजासुरः हतः(Gajāsura was destroyed) is the व्यङ्ग्य sense. The वाच्य sense viz. गजासुरवधूजनः लम्बालकः etc.......कृतः is really the same in substance as the व्यङ्ग्य sense, only the प्रकार is different.
 
@@ -4206,8 +3691,6 @@ sentence) is आकाङ्क्षा. When a word in प्रथमाव�
  **P. 56, L. 6**—इह रसभावानां.....। The twofold character of रसऽ and भावऽ when they are consistent or not with the convention of scriptures has been already explained. Out of them those that are consistent are spoken of as रसऽ and भावऽ, and those that are inconsistent are termed रसाभासऽ and भावाभासऽ. And when the abatement of the operation of these sentiments and feelings and their semblances with reference to the objects of their origin is described in poetry, it gives rise to the alaṅkāra समाहित; for there their abatement or complete resignation takes place. The word समाहित is derived by the termination तin the sense of the action of समाधान, as समाधीयते इति समाहितम्.
 
 ** P. 56, L. 11**—ननु यदि.....। Now if the operation of the sentiments and feelings is withheld in that poem, then in that case by the cessation of the old sentiments new sentiments etc. being introduced, they will give rise to such alaṅkāras as रसवत्and others. The author removes this doubt by the expression अन्यानुभाव etc. It mens the cessation should be completely void of the अनुभावऽetc. of another sentiment. Thus where notwithstanding the deep impression of the former sentiments and feelings, they are completely set at rest, and new sentiments do not rise at
-
-
 
 all, or when they do rise they are somehow subdued, there the alaṅkāra समाहित makes its appearance.
 
@@ -4227,8 +3710,6 @@ all, or when they do rise they are somehow subdued, there the alaṅkāra सम
 
 ** P. 58, LL. 13–17**—श्लिष्टम्। एकप्रयत्नोच्चार्याणाम्.........। "The composition (1) of words (of different meanings). which are pronounced in the same manner and (2) of words which *appear* to have the same pronunciation but
 
-
-
 which really differ in some attributes such as स्वरित् etc. is called श्लिष्ट."
 
 ** P. 58, L. 16.**—अलङ्कारान्तरगतां प्रतिभाम्......। “Thus composed of two kinds of words (पदऽ) \[the figureश्लिष्ट\] which produces an image of other alaṅkāras should be regarded as \[two fold\] distinguished by an expression of अर्थand शब्द."
@@ -4242,8 +3723,6 @@ is noticed.
 
  According to grammar there is a rule येन नाप्राप्ते येा विधिरारभ्यते स तस्य बाधको भवति. There is another axiom of a similar import viz, निरवकाशत्वमपवादत्वम्. When a greater category completely overlaps a smaller one and extends further, there remains no province for the smaller category. Therefore it becomes an exception and wrests its own
 
-
-
 province from the larger category. The larger category thus exists in the province outside the reach of the smaller one. Now, as श्लिष्ट in all cases produces some other alaṅkāra, wherever श्लिष्ट exists some other alaṅkāra invariably exists. These other alaṅkāras have their own independent examples also. Thus if the claims of श्लेष are ignored, श्लेष is entirely lost, but if the claims of other alaṅkāras are ignored they are not entirely lost. Therefore whereverश्लिष्ट occurs other alaṅkāras recede and give place to.
 
 ** P. 59, L. 12**—तस्योदाहरणम्। Udbhaṭa gives three verses to illustrate श्लिष्ट. The examples अर्थश्लिष्ट of शब्दश्लिष्ट are interspersed in them and it requires a great grammatical labour to determime whether a particular word containsअर्थश्लिष्ट orशब्दश्लिष्ट according to the views of Udbhaṭa. It will always require an extensive knowledge of Paṇini's Grammar to determine whether two forms of a word differ by उदात्त, अनुदात्त or स्वरित or by स्थान, प्रयत्न etc.
@@ -4251,8 +3730,6 @@ province from the larger category. The larger category thus exists in the provin
 ** P. 59. L. 13**—Verse 1 स्वयं च पल्लवाताम्र.....। Here the alaṅkāra is उपमाप्रतिभोत्पत्तिहेतु श्लिष्ट, i. e. श्लिष्ट is the principal figure and there is only a tinge of उपमा. प्रभातसंध्या is compared to Pārvatīby paronomastic adjectives. भास्वत्कर and अस्वाप are paronomastic (स्लिष्ट). भास्वत्कर=(1) arms that are resplendent, (2) rays of the sun; अस्वाप=(1) अ सु आप=दुर्लभ, difficult to be obtained; (2) remaining awake, not sleeping. The पदच्छेद in the case of the first meaning of अस्वाप in अस्वापफललुब्धेहितप्रदा is अस्वापं यत्फलं तत्र ये लुब्धाः तेभ्यः ईहितं प्रददातीत्यसौ; and in the case of the second meaning is अस्वापफललुब्धेहितप्रदा, स्वापस्य यत्फलं तत्र यो न लुब्धः तस्मिञ्जने हितं प्रददातीत्यसौ. Thus the compound is quite different in both the meanings. Hence a change of स्वरऽ and प्रयत्नऽ takes place when the meaning is changed. But on account of similarity of both the forms, the one is expressed and the other is आक्षिप्त, hence this is शब्दश्लिष्ट.
 
  In the case of भास्वत्कर,the compound in the first meaning (भास्वन्तौ करौ) is कर्मधारय (i. e. a variety of तत्पुरुष) and in the second meaning (भास्वतः कराः) it is षष्ठीतत्पुरुष. Therefore there is no change in स्वरऽ etc. and the figure is अर्थश्लेष; for the form is the same and the meaning is only श्लिष्ट (adhering to the principal meaning).
-
-
 
 ** P. 59, L. 15–16**—Verse 2. इन्दुकान्तमुखी....।Here the alaṅkāra according to Udbhaṭa is रूपकप्रतिभोत्पत्तिहेतु श्लिष्ट. There is रूप्यरूपकभाव between Pāravatī(understood) and त्रिजगद्रत्न. Pārvatīis termed त्रिजगद्रत्न i. e. अलौकिकरत्न. All the attributes इन्दुकान्तमुखी etc. qualifiy Pārvatīand त्रिजगद्रत्न as wellत्रिजगद्रत्नalso has a double use; it qualifies Pārvatīonce and at another time it becomes an independent word and produces an image of रूपकas said above.
 
@@ -4263,8 +3740,6 @@ province from the larger category. The larger category thus exists in the provin
  The first meaning ofनन्दनश्रीqualifies Pārvatīand the second being an independent one becomes उपमान and produces प्रतिभा of रूपक. The first meaning of अपारिजातवार्ता qualifies Pārvatīand thesecond meaning qualifies the second meaning of नन्दनश्री. Thus the रूपक becomes: "Pārvatīisनन्दनश्री (splendor of the garden नन्दन) itself having no पारिजात tree in it”. Now here विरोध or विरोधाभास is produced which is based on the रूपक that is created by the word नन्दनश्री. पारिजात tree is said to be not existing in Nandana which is absurd, forपारिजात is invariably associated with Nandana. The परिहारof this विरोध is to be made by accepting the first meanings of both the words which qualify Pārvatī.
 
  Here there is a change in the स्वरऽ of both the words when the meaning changes. For the compounds become different when the meaning is changed. Hence both are शब्दश्लिष्टऽ and not अर्थश्लिष्टऽ,
-
-
 
  Verse 3 (latter half). अबिन्दुसुन्दरी.......।Here the alaṅkāra is विरोधप्रतिभोत्पत्तिहेतु श्लिष्ट.
 
@@ -4279,8 +3754,6 @@ province from the larger category. The larger category thus exists in the provin
  But to understand the text and especially the commentary on this portion, it is necessary and sufficient to explain here the modifications of स्वरऽ in three cases viz. थाथादि, बहुव्रीहि and तत्पुरुष स्वरऽ.
 
  **P. 60, L. 2**—थाथादिस्वरेणान्तोदात्तत्वम्।The sūtra which enjoins the थाथादिस्वर is ‘थाथाघञ्क्ताजबित्रकाणाम्’(पा. ६.२.१४४.) which is explained in काशिका as—थ, अथ, घञ्, क्त, अच्, अप्, इत्र, क इत्येवमन्तानामुत्तरपदानां गतिकारकोपपदात्परेषामन्त उदात्तो भवति, and means 'the last syllable of words ending in suffixes थ, अथ etc. becomes उदात्तwhen they are the latter members of com-
-
-
 
 pounds with prepositions or substantives ending in cases forming the first members. The words ending in—
 
@@ -4308,8 +3781,6 @@ pounds with prepositions or substantives ending in cases forming the first membe
 
  The nature of the प्रयत्नकृतभेद in two forms of a word is as follows. When the compounds in a composite word change, following the change in the meaning, then there is प्रयत्नकृतभेद between the two forms of the word. Thus we have in इन्दुकान्तमुखी two different compounds in its two different meanings, (1) इन्दुरिव कान्तं मुखं यस्याः सा इन्दुकान्तमुखी पार्वती and (2) इन्दुकान्तः
 
-
-
 मुखं or मुखे यस्य तद् इन्दुकान्तमुखं त्रिजगद्रत्नम्। Thus here though the compound is बहुव्रीहि in both still the nature of them is quite different. Therefore a प्रयत्नकृतभेद exists here though there is no भेद in the accents (स्वरऽ). But in त्रिजगद्रत्नम् we have the same compound त्रिजगत्यां रत्नम् in both the meanings. When we apply the word to Pārvatī, रत्न means उत्कृष्टवस्तु, and when it becomes an independent word रत्न means a jewel.
 
  Thus by means of difference in स्वर (accent) and प्रयत्न (stress or effort) the same expression consisting of the same letters is pronounced differently in different situations and in this way becomes instrumental in bringing out the kind of शब्दश्लेष or the figure श्लिष्ट recognised by Udbhaṭa and supported by Indurāja.
@@ -4319,8 +3790,6 @@ pounds with prepositions or substantives ending in cases forming the first membe
  The विवृतिकारexplains the Kārikās 50 and 51 in the same strain and almost in the same words as Indurāja; but he takes the three examples together and simultaneously remarks on them thus:—
 
  न केवलं हिमाद्रेरेवंविधस्य त्वं सुता यावत्स्वयमेवंविधेति चशब्दः। तत्र गौरीपक्षे किसलयवद्रक्ताभ्यां दीप्यमानाभ्यां शोभते, सुखेनाप्तुं यन्न शक्यं फलं तत्र लुब्धानामीहितं प्रददाति, इन्दुवत्कान्तं मुखं यस्याः, स्निग्धा अत्यन्तकृष्णाश्च केशा यस्याः त्यक्ता अलक्ष्मीर्यया, त्रैलोक्ये चोत्कृष्टः (ष्टा), पद्मवद्रागो ययोस्तादृशौ पादपल्लवौ यस्याः अपगता शत्रुप्रकारचर्चा यस्याः, आह्लादिनी शोभा यस्याः, अप्सु प्रतिबिम्बितो य इन्दुः तद्वत्सुन्दरी, नित्यं च गलन्तो लावण्यबिन्दवो यस्या इति व्याख्या। संध्यादिपक्षेऽत्र ज्वलत्सूर्यमरीचिभिःशोभिता, स्वापफले विश्रान्तौ यो न लुब्धः तद्विषयेऽहितं ददाति, चन्द्रकान्तमहानीलमुक्तापद्मरागा मणिविशेषाः, अविद्यमानपारिजाताख्यवृक्षविशेषवार्ता, देवोद्यानलक्ष्मीः, अविद्यमानैर्बिन्दुभिः सुन्दरीति। श्लोकत्रये यथाक्रममुपमारूपकविरोधप्रतिभोत्पत्तिहेतवः श्लेषाः। अत्र प्रथमश्लोकाद्यावेदितत्रिजगद्रत्नमित्यत्र भुवि स्थितेत्यत्र च स्वरादिसाम्यादर्थश्लेषत्वम्, अन्यत्र तु शब्दश्लेषता। तथा ह्यस्वापेत्यदावैकपद्ये थाथादिस्वरेणान्तोदात्तत्वम् लघुप्रयत्नत्वं च। पदद्वये तु सत्याद्ये पदे ‘तत्पुरुषे तुल्यार्थे’ति पूर्वपदप्रकृतिस्वरेणाद्युदात्तत्वम् आकारैकारयोश्च गुरुप्रयत्नत्वमन्त्यपदे तु थाथादिस्वरेणाद्युदात्तत्वम्। द्वितीयस्मिन् श्लोके उक्तैकपदवर्जं सर्वत्रापि भिन्नपदपाठात्प्रयत्नभेदः। मुक्ताश्रीरित्यत्र स्वरभेदेऽपि बहुव्रीहिपक्षे हि ‘बहुव्रीहौ प्रकृत्ये’ति पूर्वपदप्रकृतिस्वरत्वम्। तृतीयस्मिन् श्लोके प्रयत्नभेदः क्वचित्स्वरभेदश्च। अपगतारिजातवार्तत्वे हि ‘बहुव्रीहौ प्रकृत्ये’ति पूर्वपदप्रकृतिस्वरत्वम्। अविद्यमानपारिजातवार्तत्वे ‘नञ्सुभ्यामि’त्यन्तोदात्तत्वम्। नन्दनश्रीरित्यत्र
-
-
 
 बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं तत्पुरुषे तु समासान्तोदात्तत्वम्। अबिन्दुसुन्दरीत्यत्रोपमानत्वा‘त्तत्पुरुषे तुल्यार्थे’ति पूर्वपदप्रकृतिस्वरः तस्य सप्तम्यन्तपूर्वपदत्वात् अनेनैव सूत्रेण प्रकृतिस्वरेणाद्युदात्तत्वम्। अबिन्दुसुन्दरीत्यत्र तु अव्ययत्वान्नञ्पूर्वपदप्रकृतिस्वरेण तदेव, तेनात्र स्वरभेदः।
 
@@ -4346,8 +3815,6 @@ pounds with prepositions or substantives ending in cases forming the first membe
 
 इत्याद्युदाहरणं देयम्। एवं चाबिन्दुसुन्दरीत्यादौ शब्दालंकारो विरोधः। अत्र हि श्लेषस्य तु प्रतिभामात्रं न तु प्ररोहः। न च विरोधाभास इव विरोधः श्लेषाभास इव श्लेषः। एव मन्येऽपि शब्दालंकारा ज्ञेयाः। तथा हि रुद्रटेनोक्तम् (रुद्रटः–काव्यालंकारः, ४.३२.)—
 
-
-
 स्फुटमर्थालंकारावेतावुपमासमुच्चयौ किन्तु।  
 आश्रित्य शब्दमात्रं सामान्यमिहापि संभवतः॥ इति।
 
@@ -4366,27 +3833,17 @@ pounds with prepositions or substantives ending in cases forming the first membe
 
 [TABLE]
 
-
-
  On the whole the ideas of the older writers seem to be more general and inexact. Bhāmaha, in particular, has treated the figure very scantily.
 
  The difference between Udbhaṭa and the modern writers of the Mammaṭa school is as under:
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
 
  Mammaṭa has two sub-varieties of शब्दश्लेष viz. सभङ्गश्लेषand अभङ्गश्लेष. These generally correspond with the शब्दश्लेष and अर्थश्लेष of Udbhaṭa. If the component parts of an epithet become different when the meaning is changed the श्लेष is सभङ्ग, e. g. अस्वापफललुब्धेहितप्रदा. Here the component words in one case (1) अ + सु + आप + फल + लुब्ध + ईहित + प्रदा and in the other (2) अ + स्वाप + फल + लुब्धे, हित + प्रदा are different, therefore it is सभङ्गश्लेष. In such a case generally the स्वर, प्रयत्न etc. become different when the component words are changed; and thus it becomes Udbhaṭa's Similarly अभङ्गश्लेष of Mammaṭa becomes generally the अर्थश्लेष of Udbhaṭa.
 
  But this is a general statement. Sometimes शब्दश्लेष of Udbhaṭa may not have a change in its component parts.
-
-
 
 Hence Ruyyaka remarks **प्रयत्नभेदाच्च शब्दान्यत्वे शब्दश्लेषः यत्र प्रायेणपदभङ्गो भवति.***Generally* **पदभङ्ग** occurs where there is **प्रयत्नभेद** etc.
 
@@ -4407,8 +3864,6 @@ Hence Ruyyaka remarks **प्रयत्नभेदाच्च शब्द�
 **              काव्यालंकार—३. २—३.**
 
 Udbhaṭa has no **उपमारूपक** and Bhāmaha fails to recognise **संकर**;otherwise the alaṅkāras and their order of enumera-
-
-
 
 tion are the same in both. But if we consult Daṇḍin's Kāvyādarśa we shall find that his order differs materially from the order of these two Kashmirians. We give below the lists of alaṅkāras in order from the works of these three authors.
 
@@ -4437,8 +3892,6 @@ tion are the same in both. But if we consult Daṇḍin's Kāvyādarśa we shall
 
  It is also curious to see that no other writer in alaṅkāra literature substantially follows this order. Vāmana has his own distinct order. Rudraṭa arranges alaṅkāras
 
-
-
 according to an intrinsically different principle of classification; his treatment has very little in common with other writers. Mammaṭa arranges his 61 alaṅkāras on a somewhat scientific basis and most writers after him more or less follow his grouping.
 
  As between Bhāmaha, Udbhaṭa and Daṇḍin, we have pointed out that Daṇḍin's order of enumeration differs in a few important points from that of the other two. Daṇḍin places **स्वभावोक्ति**at the very beginning of his list. His list has in order **स्वभावोक्ति, उपमा, रूपक, दीपक**, and **आवृत्ति**; while the Kashmirians have **रूपक, दीपक** and **उपमा** at the beginning of their treatment. They have no **आवृत्ति**, and **स्वभावोक्ति** stands thirteenth in their order. Daṇḍin puts in **हेतु, सूक्ष्म**and **लव** after **उत्प्रेक्षा**; while the Kashmirians do not recognise these three alaṅkāras at all. Some further difference in the order occurs after **उदात्त**which we have specially referred to in the beginning of this discussion. (Vide the lists quoted above).
@@ -4453,8 +3906,6 @@ He does not seem to hold that **उपमानोपमेयभाव** is nec
               **काव्यादर्श —२. ३०४.**
 
 The real **अपह्नुति** as recognised by all other writers is e. g. **तत्वापह्नवरूपक** by him.
-
-
 
 **नैतन्मुखमिदं पद्मं न नेत्रे भ्रमराविमौ।  
 एतानि केसराण्येव नैता दन्तर्चिषस्तव॥  
@@ -4481,15 +3932,11 @@ a, which has (1) **उपमानोपमेयभाव** and (2) the suppres
 
  **P. 63, LL. 10, 11—महर्द्धिनि गृहे जन्म ...... । रूप = सुरूप, लावण्य**here. Here**जन्म, रूपं**and **वयः**are the causes which are generallyseen to produce **सुखप्राप्ति**. But the **फल-सुखप्राप्ति** is here said to be not forthcoming. The **विशेष** that is sought to be conveyed
 
-
-
 here is the wonder that springs from the **सुखहेतु**s having failed to produce **सुख**. Here the reason (**निमित्त**) why **सुख** was not produced is not given, therefore this is **अदृष्टनिमित्ता विशेषोक्ति.**
 
  **P. 63, LI. 19. 23— इत्थं विसंष्ठुलं दृष्ट्वा** ......।A hasty man always does his work very hastily. But here even a hasty man is described as not doing the action of asking in a hasty manner. **सत्वरत्व** is the cause; **मे वचः नोदेति** is the denial of effect. **विचेष्टितं विसंष्ठुलं दृष्ट्वा** is the reason why his speech does not come out. Though the cause viz. **सत्वरत्व** exists, yet the effect does not take place; hence a sort of wonder is produced which is the **विशेष**sought to be conveyed. Or better, the **विशेष**may be taken to be the extremeness of **विसंष्ठुलत्व**. Pārvatī's action was so strange (**विसंष्ठुल**) that even the impatient Saṅkara was stunned to silence. **विसंष्ठुल**=cross, perverse, whimsical, strange.
 
  Much need not be said about Udbhaṭa's **विशेषोक्ति**. His definition of the figure appears to be the undeveloped form of the definition of Mammaṭa which runs thus: **विशेषोक्तिरखण्डेषुकारणेषु फलावचः। काव्यप्रकाश—१०, पृ. ६५८**. Here **अखण्डेषु कारणेषु** is a paraphrase of Udbhaṭa's **सामग्र्येऽपि शक्तीनाम्** and **फलावचः** is the same as **फलानुत्पत्तिबन्धनम्**. We have always pointed out with emphasis the fact that although Mammaṭa's wording does not always agree with that of Udbhaṭa, his ideas and his treatment of alaṅkāras in most cases bear a close resemblance with the contents of Udbhaṭa's work. His definitions of alaṅkāras always borrow their ideas from Udbhaṭa. Udbhaṭa on his own part is indebted to Bhāmaha in much the same way as Mammaṭa is indebted to the former. But while admitting the general indebtedness of Udbhaṭa to Bhāmaha we must not omit to notice the great stride of advance effected by Udbhaṭa over the comparatively primitive structure of Bhāmaha. Bhāmaha's ideas are, in many places, crude, vague and unsuited to the advanced notions that were in vogue in the time of Udbhaṭa; therefore Udbhaṭa polishes or improves upon them. Sometimes he puts his own wording in the place of that of Bhāmaha. The figure **विशेषोक्ति** is an instance in point. Bhāmaha's definition and example are—
-
-
 
 **एकदेशस्य विगमे या गुणान्तरसंस्तुतिः (or संस्थितिः)।  
 विशेषप्रथनायासौ विशेषोक्तिर्मता यथा॥  
@@ -4502,8 +3949,6 @@ here is the wonder that springs from the **सुखहेतु**s having faile
  **P. 63, LL. 25, 26—विरोधः** । **गुणस्य वा**......(Kārikā 57)। "The expression of a thing different and contradictory to the quality or action \[of the **वर्ण्यवस्तु**\] for the purpose of establishing the excellence \[of it\] is called **विरोध**."
 
  Here '**गुणस्य वा क्रियाया वा**' seems incomplete. Hence Indurāja supplies **द्रव्य**, by the reptition of the word **वा-द्विर्वाशब्दस्योपात्तत्वात् द्रव्यस्य**. The **विवृतिकार** supplies **जाति** and **द्रव्य—वाशब्दोऽनवक्लप्तिं द्योतयति तेन जातिद्रव्ये अपि गृह्येते** . But the word **विरुद्धान्यक्रियावचः** seems to have proved a hard nut for the commentators to crack. Indurāja's explanation amounts to this—**विरुद्धा या अन्या क्रिया (i. e. उत्पादनं, पदार्थः, कविप्रतिभया निर्मितः अभिनवः पदार्थः) तत्प्रधानं वचः,** i. e. 'imaginary creation by the poet of a thing contradictory (to the **वर्ण्यवस्तु**) etc.' The **विवृतिकार** has **अन्यस्य विरुद्धस्येव क्रिया स्वप्रतिभय(ट)करणम्,** which is rather
-
-
 
 unintelligible. It amounts to what Indurāja has given as his explanation. It seems better to take **क्रिया**in the ordinary sense viz. 'action'. This word **क्रिया**should include under it **गुण** and **द्रव्य** by **लक्षणा**. The expanded definition will then become—**गुणस्य वा क्रियाया वा (द्रव्यस्य वा) विरुद्ध-अन्य-(गुण-द्रव्य)-क्रिया-वचः तं विरोधं विदुः** etc, which is quite correct, intelligible and suitable to the example given.
 
@@ -4527,8 +3972,6 @@ unintelligible. It amounts to what Indurāja has given as his explanation. It se
 
  Vāmana in his **काव्यालंकारसूत्र** gives the definition of **विरोध** according to Mammaṭa's standpoint. He has **विरुद्धाभासत्वं**
 
-
-
 **विरोधः**. But the examples given by Vāmana fall under the **असंगति अलंकार** of Mammaṭ
 
 a and later writers.
@@ -4551,8 +3994,6 @@ a, like Mammaṭ
 
 a, does not say in his definition that **साधारण धर्म** is necessary for the formation of **तुल्ययोगिता**, yet he states it in his examples; for really there is no other way of conveying similarity between things which are all either **प्रस्तुत**or **अप्रस्तुत.**
 
-
-
  **P. 65, LL 6-8**—**द्वितीयभेदः योगपट्टो जटाजालं** ....।Here similarity between **योगपट्ठ, तारवीत्वक्** and **मृगाजिन** is shown by the **साधारणधर्म शरीरानौचित्य** (unfittedness for the delicate frame of Pārvati).
 
  In **तुल्ययोगिता**Udbhaṭa has approached very near towards Mammaṭa and has left Bhāmaha and Daṇḍin far in the distance. Mammaṭa has **नियतानां सकृद्धर्मः सा पुनस्तुल्ययोगिता(का. प्र. १० p. 642)** as his definition of **तुल्ययोगिता.** Udbhaṭa does not expressly say that one and only one **साधारणधर्म**of the things that are similar must be stated, for **साम्य** in **साम्याभिधायि**cannot be taken to mean **साधारणधर्म**. It can only mean similarity or commonness and not 'common quality.' Yet it will be seen that in **तुल्ययोगिता**there is no other way of expressing similarity except by the statement of **साधारणधर्म**. There is no **उपमानोपमेयभाव,** no **वाचकशब्द**, nothing of the kind. The statement of **साधारणधर्म,**therefore, comes as a matter of course though not included in Udbhaṭa's definition. Butthe rule, established by Mammaṭa, that only one **साधारणाधर्म**should be stated is absent in Udbhaṭa.
@@ -4570,8 +4011,6 @@ Daṇḍin has :—
                    काव्यादर्श—२.३३०.**
 
   Both the definitions are very similar though differently worded. There is no restriction that both the parts must be either **प्रकृत** or **अप्रकृत**. On the other hand it seems clear that one part of the comparison is to be **प्रस्तुत**and the other to be **अप्रस्तुत**. The **तुल्ययोगिता** of these writers, therefore, does not very much differ from **दीपक**. Modern authors like Mammaṭa would certainly include it under **दीपक**. In **दीपक**one of the parties between which similarity is sought to be expressed is **प्रस्तुत** and the other is **अप्रस्तुत.** The **प्रस्तुत** thing is the **उपमेय** and the **अप्रस्तुत** is the **उपमान**. In **तुल्ययोगिता** both or all the parties are either **प्रस्तुत** or **अप्रस्तुत** and there
-
-
 
 is no **उपमानोपमेयभाव** existing between them. This is the point of difference between **दीपक** and **तुल्ययोगिता**, otherwise they are all similar. Udbhaṭ
 
@@ -4604,8 +4043,6 @@ a also clearly brings out this difference. His **दीपक** is **सकृ�
 अप्रस्तुतप्रशंसेति सा चैवं कथ्यते यथा॥  
                  भामहालंकार—२. २८.**
 
-
-
 Udbhaṭa has improved this happily by putting **प्रस्तुतार्थानुबन्धिनी.** Bhāmaha has not that word in his definition but he means it; otherwise his definition would only apply to the ravings of a madman as Indurāja says above. Neither Bhāmaha nor Udbhaṭa try to distinguish the different varieties of **अप्रस्तुतप्रशंसा.**Ruyyaka in his **अलंकारसर्वस्व** writes down distinct varieties: (**१**) **सामान्यविशेषभावे**, (**२**) **कार्यकारणभावे,**and (**३**) **सारूप्ये** i. e. **उपमानोपमेयभावे**. Mammaṭa has a similar but still more elaborate and minute treatment of **अप्रस्तुतप्रशंसा.** (Vide **काव्यप्रकाश १०**. pp. 618-627).
 
  The modern commentator **विवृतिकार**brings in his commentary these divisions of **अप्रस्तुतप्रशंसा**recognised by modern authors. He says :-  
@@ -4615,7 +4052,6 @@ Udbhaṭa has improved this happily by putting **प्रस्तुतार�
 
 **'सुहृद्वधूबाष्पजलप्रमार्जनं करोति वैरप्रतियातनेन यः।  
 स एव पूज्यः स पुमान् स नीतिमान् सुजीवितं तस्य स भाजनं श्रियः॥’**  
-
 
  **(३) यः कश्चिद्राजा स त्वामापतन्तमेव पश्यतीति क्वचित्सामान्ये प्रकृते विशेषस्याभिधा, यथा—**
 
@@ -4635,8 +4071,6 @@ Udbhaṭa has improved this happily by putting **प्रस्तुतार�
 
  Daṇḍin has a very different sort of **अप्रस्तुतप्रशंसा**, viz. the praise of any **अप्रस्तुत**thing with a view to condemn the **प्रस्तुत.** Bhojarāja who belongs to the same school of Ālaṅkārikas as Daṇḍin has also the same sort of **अप्रस्तुतप्रशंसा**.
 
-
-
 But the generality of alaṅkāra writers does not seem to have accepted Daṇḍin's **अप्रस्तुतप्रशंसा**; and Daṇḍin with his follower Bhoja seems to be all alone with his rather queer ideas about this alaṅkāra.
 
  **P. 66, LL.1-3—व्याजस्तुतिः। शब्दशक्तिस्वभावेन**...।—"Where censure is meant by the \[direct\] potentiality of words, but where praise is really desired to be principally understood, the figure is **व्याजस्तुति."शक्तिः =अर्थप्रत्यायनौन्मुख्यम्** = the tendency to express the meaning **स्वभावः = नियतार्थनिष्ठत्वम्**=the natural disposition (of the **शक्ति**) to indicate a settled meaning. **शब्दशक्तिस्वभाव**is the natural tendency of a word to express a settled meaning i. e. the **अभिधा**process of a word.
@@ -4653,8 +4087,6 @@ But the generality of alaṅkāra writers does not seem to have accepted Daṇ�
 
 It means:— "censure or praise at first sight, the final apprehension (**रूढिः**) being the reverse of it, is called **व्याजस्तुति**." Thus it will be seen that Mammaṭa, and fol-
 
-
-
 lowing him other modern authors, recognise **व्यजस्तुति**as twofold: (1) where **निन्दा**is apparent and **स्तिति**is real, and (2) where **स्तुति**is apparent and **निन्दा**is real. Udbhaṭa recognises only the first variety of these two and frames his definition and example accordingly. Mammaṭa gives a twofold derivation of the word **व्यजस्तुति**to suit his two varieties **व्याजरूपा व्याजेन वा स्तुतिः** Udbhaṭa seems to admit only **व्याजेन स्तुतिः व्याजस्तुति.**
 
 ** P. 66, LL. 20-21—विदर्शना। अभवन्वस्तुसंबन्धः**...। (Kārikā 61). "When an impossible relation between two things or a possible one causes comparison(**उपमानोपमेयभाव**) between the two things to be understood, then the figure is called **विदर्शना**."
@@ -4662,8 +4094,6 @@ lowing him other modern authors, recognise **व्यजस्तुति**as 
  **P. 66, LL. 22-24—यत्र पदार्थानां... तत्र विदर्शना।**(1) When the expressed relation between two things being impossible suggests **उपमानोपमेयभाव**between these two things then the figure is **विदर्शना**. (2) Also when the possible connection between two things brings in **उपमानोपमेयभाव**as a support to itself the figure is **विदर्शना**.
 
  **P. 66, L. 24—विशिष्टस्यार्थस्यो... पदर्शनात्**। Indurāja explains the word **विदर्शना**according to its etymology. Now the word **विदर्शना**as the name of this alaṅkārais very peculiar and uncommon. All writers on alaṅkāraexcept Udbhaṭa have uniformly used the word **निदर्शना**and nobody even hints there is a variant **विदर्शना**in use somewhere. Our original MS. invariably writes **विदर्शना**, and Indurāja also derives the word with the **उपसर्ग वि**and not with **नि**by the expression **विशिष्टस्यार्थस्य**etc. This circumstance precludes any possibility of a mistake at the hands of the scribe and we can feel certain that Udbhaṭa's text as received by Indurāja contained the title **विदर्शना** and not **निदर्शना**. But the Madras MS. containing the commentary **विवृति**has the name**निदर्शना** everywhere. This certainly raises some difficulty, but it cannot deter us from adopting**निदर्शना** as the true title originally intended by Udbhaṭa. Indurāja is a very old commentator and he must have had a reliable text in his possession to comment upon. His declared authority is on the side of the name **विदर्शना.**While the
-
-
 
 Madras MS. is not always trustworthy and the commentator is silent on the point.
 
@@ -4695,21 +4125,15 @@ a\. He gives this single verse as the example of **निदर्शना**.
 
  Indurāja enters into a rather stiff discussion on this verse. As usual he has brought in the science of grammar to dilate upon. His discussion has two parts : (1) **तत्र प्रथमोदय... वासयतीति यथा** ; here the discussion is grammatical and (2) **तेन च प्रयोज्य... विदर्शनाया भेदः;** this explains how the
 
-
-
 alaṅkāra**विदर्शना** is formed in the example **अयं मन्दद्युतिः** etc. We take the second first.
 
  **P. 67, LL. 19-23** —**तेन च प्रयोज्य... द्वितीयो विदर्शनाया भेदः** । Here Indnrāja makes the **लक्षणसमन्वय**i. e. shows how the example fits in with the definition of the alaṅkāra. In this example the connection between **श्रीमन्तः** and **भास्वान्** is possible and real, not impossible as in the first variety. For the rich people are really made to understand by the sun that prosperity is followed by adversity. This relation between **श्रीमन्तः** and **भास्वान्** is called **प्रयोज्यप्रयोजकभाव. श्रीमन्तः** is the **प्रयोज्य**(that which is directed or caused) and **भास्वान्**is the **प्रयोजक**(subject of the causal action). Now to establish the cogency of this **प्रयोज्यप्रयोजकभावसंबन्ध** comparison comes in. The sun (**भास्वान्**) causes the rich people to understand that rise terminates in a fall *just* as his own rise terminates in setting. Thus the sun teaches the thing which is similar to, and is easily deduced from, his own conduct, viz. rising and setting. Similarity between the sun's movement and the instruction derived by the rich is quite essential here; otherwise no instruction can be derived from the sun who cannot directly impart any instruction by speaking etc. If the sun were to instruct some thing which is not similar to his own conduct, then his instruction would have proved useless and the **प्रयोज्यप्रयोजकभावसंबन्ध** between the sun and the rich would have failed. But the similarity between the sun's conduct, and the instruction imparted give support to the **प्रयोज्यप्रयोजकभाव**. Then the **उपमा**(which is not expressed but implied) helps the(possible) **वस्तुसंबन्ध**here. Hence this is the second variety of **विदर्शना**.
 
  **P. 67, LL. 12-19** —**तत्र प्रथमोदय... वासयतीति यथा** । Here Indurāja explains how the**प्रयोज्यप्रयोजकभाव** really exists (**भवन्**) between **श्रीमन्तः** and **भास्वान्**. **भास्वान्** cannot impart any instruction as he cannot speak or make signs which will be understood by men. Thus it would appear at first sight that the connection of **श्रीमन्तः** and **भास्वान्** expressed through **बोधनक्रिया**is impossible. But it will now be proved that the**प्रयोज्यप्रयोजकसंबन्ध** between **श्रीमन्तः** and **भास्वान्** is real and consistent.
 
-
-
  In a causal form there are always two subjects and two actions. One is the primary (**प्रयोज्य**) action which in this case is "understanding". The other is the causal (**प्रयोजक**) action which is "causing to understand" in this case. One subject is the **प्रयोज्यकर्ता.** He is the object of the causal action but subject of the primary action. The other is the **हेतुकर्ता** or **प्रयोजककर्ता** who causes another to do something. Here **भास्वान्** who makes to understand (**बोधयन्**) is the **हेतुकर्ता** and **श्रीमन्तः** who understand (**बुध्यन्ति**) is the **प्रयोज्यकर्ता**. Now **हेतुकर्तृत्व** is of two kinds one is direct and the other is in the form of **समर्थाचरण**; eg (1) **देवदत्तो वासयति** and (2) **भिक्षा वासयति**. (1) **देवदत्त** causes some one to live.Here **देवदत्त** directly says **"उष्यतामत्र"** and makes the person stay. Thus **देवदत्त** becomes directly the **हेतु** (producer) of **वसतिक्रिया.** (2) Alms cause some man to stay (in a place). Here alms do not directly say to the man **"उष्यताम्”** etc. He gets plenty of alms in the place and therefore he is induced to stay there. Thus alms *behaves in such a way as*to make the man stay. This is called **तत्—(प्रयोजन)—समर्थाचरण.**In our present case also there is no direct causation and **भास्वान्** is **तत्समर्थाचरणवान् हेतुकर्ता**. The sun does not directly instruct the rich people just as a teacher instructs his pupils. The sun only sets and the rich people derive their instruction from the sun's setting. Hence **समर्थाचरण**.
 
  **P. 67, L. 18—प्रेषणाध्येषणयोरभावात्**। **प्रेषण** is ordering and **अध्येषण** is requesting. These actions are present in directly causal subjects; they are absent in **समर्थाचरण**. For, the **समर्थाचरणवान् हेतुकर्ता** is not capable of giving direct order by speech or otherwise. The Mahābhāshya of Patañjali contains a very clear exposition on this point of **समर्थाचरण**which is the basis of Indurāja's discussion. It has : **—** **यावद्ब्रूयान्निमित्तं कारणंतावद्धेतुरिति। किं प्रयोजनम्। भिक्षादिषु दर्शनात्। भिक्षादिषु हि णिज् दृश्यते भिक्षा वासयति कारीषोग्निरध्यापयति इति। किं पुनः कारणम्। पारिभाषिके हेतौ न सिध्यति। एवं मन्यते चेतनावत एतद्भवति प्रेषणमध्येषणं चेति। भिक्षाश्चाचेतनाः। नैष दोषः। नावश्यं स एव वासं प्रयोजयति य आहोष्यतामिति ब्रवीति। किं तर्हि। तूष्णीमप्यासीनो यस्तत्समर्थाम्याचरति सोपि वासं प्रयोजयति। यथा कारीषोग्निर्विवाते एकान्ते संप्रज्वलितो अध्ययनं प्रयोजयति। —महाभाष्य। अ. ३। पाद १।आह्निक २। सू. २६।**
-
-
 
  Thus although the sun is not the direct **हेतुकर्ता**it is still the **समर्थाचरणवान् हेतुकर्ता** and the **प्रयोज्यप्रयोजकसंबन्ध** is existent and hence possible.
 
@@ -4723,21 +4147,15 @@ alaṅkāra**विदर्शना** is formed in the example **अयं म
 
  **P.68, LL. 4-20—अनेकस्यालंकारस्योल्लेखे...इत्याशङ्क्योक्तम्..... तत्र नसंदेहसंकरता**।Indurāja according to his usual habit takes**अनेकालंक्रियोल्लेखे**as the primary epithet, and accounts for all other epithets one by one. If possibility of many alaṅkāras(**अनेकालंक्रियोल्लेख**) is laid down as the sole condition then in **एकशब्दाभिधानसंकर** also there exist many alaṅkāra; e. g. **मुरारिनिर्गता** etc. Here **गङ्गेव चक्रधारा** is **उपमा** and **नरकप्रतिपन्थिनी**contains **श्लेष**. **नरकप्रतिपन्थिनी**=(1) The destroyer of **नरकासुर**; (2) enemy (antidote) of hell. Thus the verse contains two alaṅkāras and hence would claim to be **संदेहसंकर**. To avoid the possibility of such examples becoming **संदेहसंकर,**the words **समं तद्वृत्यसंभवे**are put. The alaṅkāras must be such as cannot exist at one time. If one is accepted the other must vanish. In **मुरारिनिर्गता** etc. **श्लेष** and **उपमा** can exist side by side.
 
-
-
 Therefore it is not **संदेहसंकर**. **ननु यद्यनेकालंकरो**...... **प्रमाणाभावस्तत्र संदेह एव**। Even these two conditions do not sufficiently describe **संदेहसंकर**. Two alaṅkāras exist and both of them cannot exist at one time—these two conditions are fulfilled. But there is some **बाधकप्रमाण** for one and **साधकप्रमाण** for the other. Therefore the former is abandoned and the latter is accepted. Such an example will also fall under**संदेहसंकर**. To exclude such examples, the condition viz. **एकस्य च** etc. is put. 'When no reasons either for or against any alaṅkāra exist and both alaṅkāras are equally possible,' then only it becomes **संदेहसंकर.** The **साधक** and **बाधक प्रमाणऽ** must all be absent. If **साधक** and **बाधक** are both existent then that alaṅkāra having the **साधकप्रमाण** will be accepted and that having **बाधकप्रमाण** will be rejected. If only **साधक** is present the alaṅkāra having the **साधकप्रमाण** will be accepted. If only **बाधक** is present the alaṅkāra having that**बाधक** will be rejected and the other will be accepted. In all these cases there will be no **संकर**at all, one alaṅkārabeing totally rejected and the other accepted. Thus when all **साधक**s and all **बाधकं**s are absent there is a possibility of **संदेहसंकर**. Illustrations of all these cases having **साधक** or **बाधक प्रमाण**s are given in **काव्यप्रकाश - १०,** pp. 761-764 which may be consulted with advantage.
 
  Our modern commentator **विवृतिकार** also cites examples in which the alaṅkārais determined by the existence of **साधक**or **बाधक प्रमाण**s. It will be to our purpose to take down the passage here. '**अरिगिरिषु हरिस्त्वम्' इत्यादौ तु रूपके, 'कुलिशभृदिव देव त्वं संपन्नाचलानाम्' इत्यादौ चोपमायामस्ति साधकं प्रमाणम्। 'स्मरन्ति ज्योत्स्नायाः शशिमुखि चकोरास्तव दृशि' इति रूपके बाधकम्। तद्भावे हि 'पिबन्ति ज्योत्स्नाम्'- इति स्यात्। 'राजनारायणं लक्ष्मीस्त्वामालिङ्गति निर्भरम्' इत्युपमायां बाधकम्। न हि सदृशः प्रियाभिरालिङ्ग्यते**। The last example is drawn from **काव्यप्रकाश**. Further on he continues the discussion after the manner of **काव्यप्रकाश** and tries to assign & reason why Udbhaṭa used the word **अनेक** instead of **उभय** in the Kārikā **अनेकालं-क्रियोल्लेखे** etc.. Thus he says—'**नयनानन्ददायीन्दोर्बिम्बमेतत्प्रसीदति**' **इति मुख्यस्याध्यवसानात्किमतिशयोक्तिः, किमेतदिति मुखं निर्दिश्य इन्दुसमारोपणाद्रूपकम्, किं मुखनैर्मल्यप्रस्तावेऽप्रस्तुतप्रशंसा, किं दीपकं, किं तुल्ययोगिता, किं प्रदोषवर्णने विशेषणसाम्यात्समासोक्तिः, किं मदनोद्दीपकः कालो वर्तते इति पर्यायोक्तम्, इति बह्वलंकारसंदेहो भवति। इत्युभयशब्दमपास्यानेकग्रहणम्।**
-
-
 
 ** P. 69, LL.11-12—यद्यप्यत्यन्तमुचितो**......। This is an example of **संदेहसंकर**according to Udbhaṭa; for in **वरेन्दु**there is a possibility in his opinion of two alaṅkāras **उपमा** and **रूपक**. The compound may be solved either as **वर एव इन्दुः** or **वर इन्दुरिव**. This is according to Udbhaṭa (and Indurāja also). According to later canons of criticism this would not at all be an example of **संदेहसंकर**. **उपमा** and not **रूपक** will be the alaṅkāra here. The verse is addressed to Pārvatī and we ought to have **वर**as the word principally meant. If we accept **रूपक** (**वर एव इन्दुः**) the **अन्वय** culminates on **इन्दु** and not on **वर**. By **उपमा** (**वरः इन्दुरिव**) we can have the word **वर** the prominent member in the compound. Therefore **उपमा**is to be accepted and not **रूपक**. The verb **लभ्यते**and all other words in the sentence are consistent with **वर**and not with **इन्दु**. Thus there is no possibility here of **संकर**at all. Udbhaṭa seems to have no idea of this line of thinking which is displayed in the works of Ruyyaka, Mammaṭa and other later writers.
 
  **P. 69, L. 22—शब्दार्थवर्त्यलंकारा वाक्ये....**(Kārikā 63 a)। "When alaṅkāras pertaining to words and those pertaining to sense appear (separately) in one sentence (or verse as the case may be) it becomes \[a sort of\] **संकर**." This is the **संसृष्टि** of later writers. Ruyyaka says: **तेषां (अलंकाराणां) तिलतण्डुलन्यायेन संसृष्टिः। नीरक्षीरन्यायेन संकरः। —अलंकारसर्वस्व,** pp. 192 and 197. **संसृष्टि** is of three kinds: (1) of two **शब्दालंकार**s (of course occurring separately); (2) of two **अर्थालंकार**s and (3) of one **शब्दालंकार** and the other **अर्थालंकार**. This third kind is the **शब्दार्थवर्त्यलंकारसंकर**of Udbhaṭa. The other two kinds only are **संसृष्टि**(q. v. p. 78 of the text.) in his opinion.
 
  **P. 70, LL. 2-3—** **इत्थं स्थितिर्वरार्थाचेत्** ...। Here **अनुप्रास** is the **शब्दालंकार** and **अर्थान्तरन्यास** is the **अर्थालंकार**. **अर्थान्तरन्यास** (q. v. p. 34 of the text.) of Udbhaṭa only require **समर्थ्यसमर्थकभाव;**statement of **सामान्य** and **विशेष** is not required by him. Here **रूपेण ते** etc. is the **समर्थक** of **मा कृथा व्यर्थमर्थिताम्**. But according to the definition of Mammaṭa and other modern writers this figure will not be **अर्थान्तरन्यास**. For both the statements are **विशेष**. **रूपेण ते युवा** etc is a **विशेष**(particular) statement; for it is addressed to Pārvatī and pertains to Pārvatī's case only.
-
-
 
 Had it been **रूपवत्या युवा सर्वः पादबद्धो हि किंकरः**it would have been a good example of **अर्थान्तरन्यास**, for it would have referred to beautiful ladies in general and not to a particular lady.
 
@@ -4748,8 +4166,6 @@ Had it been **रूपवत्या युवा सर्वः पादब
  The **विवृतिकार**has a very serious difference of opinion as regards the nature of the **एकशब्दाभिधानसंकर** of Udbhaṭa. While Indurāja says that **एकशब्दाभिधानसंकर** is a mixture of two **अर्थालंकार**s, the **विवृतिकार** insists that this **संकर** occurs when a**शब्दालंकार**and an **अर्थालंकार** combine in one **वाक्यांश**. He severely criticizes Indurāja and explains the stanza **मैवमेवास्स्व** etc. very differently. The whole of his comment on the stanza is worth quoting:**—चारुकर्णौ चारुकर्णिका च यस्याः। सच्छायेत्यादौ पादद्वये श्लेषानुप्रासयोः स्थितिः। यत्त्वेकवाक्यांशेत्यादिना अर्थालंकारसंकरो व्याख्यातस्तदसत्। चतुर्थे संकरे संसृष्टौ वास्यान्तर्भावात्। उदाहरणे च श्लेषोपमयोर्यत्सांकर्यंव्याख्यातं तदप्युपेक्ष्यम्। श्लेषस्य निर्विषयतापत्तेः। ‘येन ध्वस्तमनोभवेन’इति अस्योदाहरणमितिचेदनुद्भटमिति चेत्।** The **विवृतिकार** is here acute and piercing. On the whole it seems to us that the**विवृतिकार**is in the right if we look to the wording of Udbhaṭa.
 
  **P. 71, LL. 2-3—अनुग्राह्यानुग्राहक** or **अङ्गाङ्गिभावसंकर।परस्परोपकारेण.**.. (Kārikā 64)। "When the alaṅkāras are not independent of each other but exist by helping each other to develop, then that also is called **संकर**."
-
-
 
  **P. 71, LL. 5-8—उपकार्योप्युपकारक......परस्परोपकारेणेति।** The alaṅkārawhich helps another to develop clearly does some **उपकार**. And the alaṅkārawhich is thus helped indirectly does **उपकार** by being the receptacle of the help of the other. Thus both are **परस्परोपकारक,**helping each other.
 
@@ -4765,8 +4181,6 @@ Pārvatī has abandoned (**अनङ्गीकृत**) cupid; and **हर**h
 **वरा विभूषा संसृष्टिर्बह्वलंकारयोगतः।  
 रचिता रत्नमालेव सा चैवमुदिता यथा॥**  
 **             —भामहालंकार, ३, ४८,**
-
-
 
 From the expression **रत्नमालेव**it seems that he does not want to include the **संकर** of modern writers in his **संसृष्टि**, Daṇḍinhas :-
 
@@ -4793,8 +4207,6 @@ It will be clear from this that Udbhaṭais greatly advanced in ideas about **�
 
 **उपमानान्तरसद्भावरूप पक्षान्तराभावमवगमयितुं यदुपमयोपमेवोपमानीक्रियते सा उपमेयेनोपमा इत्युपमेयोपमा। अन्योन्यशब्दोपादानाच्चात्र वाक्यार्थद्वयवर्त्ययमलंकारः। अनन्वयस्त्वेकवाक्यार्थवर्ती।**
 
-
-
 Bhāmaha's definition is—
 
 **उपमानोपमेयत्वं यत्र पर्यायतो भवेत्।  
@@ -4812,15 +4224,11 @@ He probably uses the word **पर्याय** in the sense of **परिव�
  **P. 72, L. 24-P. 73, L. 2—ननु संजहार शरत्कालः**etc.......**न चैवं दीपक इति नातिव्याप्तिः**। Indurāja says: In the example of **दीपक** viz. **संजहार शरत्कालः** etc. (q. v. p. 15) also two actions concerning two different things are spoken of by  
 one word **सजहार**. **कुसुमश्रियः** and **सुखसंपदः** are both objects of the verb. That is, the two different actions belonging to **कुसुमश्रियः** and to **सुखसंपदः** are indicated by the one word
 
-
-
 **संजहार**. Thus this example of **दीपक** also would come under **सहोक्ति**. But such a possibilily is averted by the word **तुल्यकाले.**The two actions must be taking place simultaneously, and from the construction of the alaṅkārathe simultaneous nature of the actions must be impressed on the reader's mind. This is absent in **दीपक.** In **संजहारशरत्कालः**etc. the destruction of **कुसुमश्रियः** and **सुखसंपदः** is not done at the same moment or occasion; first the**कुसुमश्रियः**were destroyed and consequently **सुखसंपदः**were done away with. On this point **विवृतिकार** remarks—**न चात्र दीपकतेत्याह तुल्येति। तत्र हि एकविश्रान्तक्रिया अनुषङ्गेणोपकारकसंबन्धमेति। इह तु युगपदुभयगतत्वेन प्रतिपद्यते।**
 
 ** P. 73, LL. 2-9—सहादिना चशब्देन... वक्रभणितेः सद्भावात्।** Now this is **तुल्यकालता**expressed in two ways. (1) **देवदत्तयज्ञदत्तौ सह भुञ्जाते।**Here both the actions (of dining) are equally predominant and both have their respective subjects directly connected with the verb (2) **देवदत्तो यज्ञदत्तेन सह भुङ्क्ते।** Here **देवदत्त** is directly connected with the action of dining (**भोजनक्रिया**) as **देवदत्त** is in the nominative case. But the connection of **यज्ञदत्त** with **भोजनक्रिया** is through the word **सह**. This second sort of way of expressing **तुल्यकालता** is resorted to in **सहोक्ति;**for this is included in **वक्रभणिति**(indirect way of speaking). And **वक्रभणिति** must always be a necessary element in alaṅkāras. The **विवृतिकार** similarly ramarks—**अलंकारप्रस्तावाच्चात्र चैत्रेण सह मैत्रो भुङ्क इत्यत्र सहोक्तिर्न तु चैत्रमैत्रौ सह भुञ्जाते इत्यत्र।**
 
 ** P. 73, LL. 12-13—द्युजनो मृत्युना सार्धम्....।**Here the two actions are **मृत्योः** **मनोरथावाप्तिकरण** and **द्युजनस्य मनोरथावाप्तिकरण**. They are expressed by the same words **आप्तमनोरथःचक्रे**. Now these are two words and the definition says **पदेनैकेन कथ्येते**. But the purportof the definition is to exclude two verbs separately expressing the actions concerning two things. And we have no such two verbs here. Only the verb **चक्रे**expresses the action concerning **मृत्यु**and **द्युजन**. On the other hand the answer is that the action **चक्रे**is a general one and without any particularizing attribute, it is quite incapable of conveying the sense. Therefore the particular **मनोरथावाप्ति** is embraced by the general verb **चक्रे**and the whole then appears as one word and not two. The **विवृतिकार**also remarks here—**आप्तमनोरथश्चक्र इति पदद्वयेनाप्यभिधाने साधारणत्वेनोक्तिः स्थितैव। साधारणार्थो ह्येक-**
-
-
 
 **शब्दो व्याख्यात इति केचित्। एकेन पदेनैकक्रियाकारकगतैकक्रियाभिधायिना सहार्थपर्यालोचनयार्थपरक्रियाक्षेपिणा द्वे क्रिये कथ्येते सा सहोक्तिरिति तु युक्तम्।**
 
@@ -4835,8 +4243,6 @@ one word **सजहार**. **कुसुमश्रियः** and **सु
  **P. 74, LL. 16-17—उरो दत्वामरारीणां...।** Example of **समपरिवृत्ति.**Here **उरो दत्वा** conveys **उत्साह** by **लक्षणा**. **उरोदान** is the means to display valour ; and it implies **उत्साह.** Here **उरस्** and **यशस्** are regarded as equal to each other and hence **समपरिवृत्ति.**The word **येन**is connectsed with **सोपि वैकुण्ठः**in verse 5, Varga VI.
 
  **P. 74, LL. 23-24—नेत्रोरगबलभ्राम्यन्...**। Here some minor jewels are offered to the milky sea and the great jewel **कौस्तुभ**is taken in return. A paltry thing is given and a valuable thing is taken, Hence it is **न्यूनपरिवृत्ति;** for the **परिवृत्ति**s
-
-
 
 are named occording to the thing that is given. Of course this **परिवृत्ति**is of an acceptable nature.
 
@@ -4856,8 +4262,6 @@ are named occording to the thing that is given. Of course this **परिवृ
 प्रदाय वित्तमर्थिभ्यः स यशोधनमादित।  
 सतां विश्वजनीनानामिदमस्खलितव्रतम्॥  
             भामहालंकार— ३, ४०-४१.**
-
-
 
 We do not know what has made him link **अर्थान्तरन्यास** with **परिवृत्ति.** Probably his **परिवृत्ति** does not include in it **अर्थान्तरन्यास**; he is only giving in this place an example of **परिवृत्ति** + **अर्थान्तरन्यास** and not only of **परिवृत्ति**. To agree with this we have also **अर्थान्तरन्यासवती परिवृत्तिः यथा. अर्थान्तरन्यासवती** should not be included in the definition. It should refer to the example.
 
@@ -4884,15 +4288,11 @@ We do not know what has made him link **अर्थान्तरन्या�
 
 of these **उत्प्रेक्षावयव** like **उपमारूपक** is altogether dismissed by Udbhaṭa; and **काव्यहेतु** and **काव्यदृष्टान्त** hehas added of his own. These two important alaṅkāras are not mentioned by Daṇḍin, Bhāmaha and Vāmans; and as far as our know-
 
-
-
 ledge of the history of alaṅkāras goes Udbhaṭais the first to introduce and treat these among the established alaṅkāras. Probably because of their newness Udbhaṭahas mentioned them at the end of the whole list.
 
  **P. 76, LL. 3-6—अत्र इतिशब्दस्य...... द्वितीया।** These lines display what an astute commentator and accurate grammarian Indurāja is. The word **इति**presents a difficulty. **इति**has a conjunctive force and the substantives that are connected with **इति**are always in the first case. Thus we can have **रामः कृष्णः देवदत्तः इत्येतान्भोजय** or simply **रामं कृष्णं देवदत्तं च भोजय,** but *not* **रामं कृष्णं देवदत्तम् इत्येतान्भोजय**. But such an objectionable use of **इति**is made by Udbhaṭain the Kārikā. **अनन्वयं ससंदेहं** etc. are governed by **इति** and still they are all in the accusative case. The word **अलंकारान्** stands for **अनन्वय**, **ससंदेह**etc. and it is in the accusative case in addition to**अनन्वयं ससंदेहं**etc. Indurāja finds a way out of the difficulty. He says that by the word **इति**, **अनन्वयं**, **ससंदेहं** etc. are not referred to at all. Therefore disregarding **इति**we can have **अनन्वयं**, **ससंदेहं** and others in apposition to **अलंकारान्**, and the second case thus becomes quite lawful. **इति**is to be taken to mean ' in the manner described afterwards’ The **विवृतिकार**also has a similar remark on this point. He says—**इतीति वक्ष्यमाणलक्षणयुक्तां।** **न त्वितिः शब्दस्वरूपसंस्थापनार्थोऽनन्वयमिति द्वितीयानुपपत्तेः।**
 
 ** P. 76, LL. 7-9—अभ्यर्हितत्वात्......**। **अभ्यर्हित**=honoured, fit, venerable. **दृष्टान्तहेतू** is a **द्वन्द्व** compound. The general rule is that a word having fewer and shorter vowels should come first. (**अल्पाच्तरम्। पा २/२/३४)**. But the exception to this rule is that a word signifying a more honoured or weighty object should precede the other members of the compound even if it is not composed of fewer and shorter vowels. Now in **दृष्टान्तहेतू**, **दृष्टान्त** having more vowels is placed first, therefore it must be regarded as the more honoured and the more important figure of the two. This importance given to **दृष्टान्त** isthus accounted for by Indurāja. There is **व्याप्ति**(q. v. under **अर्थान्तरन्यास**) between the two parts of**दृष्टान्त** andtherefore**दृष्टान्त**suggests the alaṅkāra **हेतु**(for **हेतु**also contains **व्याप्ति**).
-
-
 
  **P. 76, LL. 11-12—ससंदेहः।** **उपमानेन तत्वं च**...... (Kārikā 69)।"A statement containing a doubt \[of the poet\] who first expresses the sameness and then the difference \[of the **उपमेय**\] from the **उपमान** in order to convey excellence \[of the **उपमेय**\] is called **ससंदेह** by the wise."
 
@@ -4905,8 +4305,6 @@ ledge of the history of alaṅkāras goes Udbhaṭais the first to introduce and
 ** **The **विवृतिकार**has a rather interesting note on these two stanzas. He says:-**अत्र शङ्ख उपमेयो यशस्संचयो हंसश्च उपमाने। आध्मानं च शङ्खः। समग्रदैत्यहृद्दलनसंभवो यशस्संचयः स्वहस्तिनश्चेति (?) त्वतिरिक्तव्यभिचारिता। एवंविधकार्यकारित्वरूपस्तुतिवस्तुप्रतिपादनायायमेव यशस्संचय इति पूर्वमभेद उपनिबद्धः। तस्य च यशस्संचयस्य समग्रत्रैलोक्यव्यापित्वं न त्वेवंविधं परिमितदेशत्वमिति स्तुतिप्रतिपादनाय पुनर्भेदेनाभिधानम्। दैत्यविदारणकारिध्वानोऽप्यसौ स्वभावतो मन्द्रध्वनित इति हंसेनाभेद उक्तः। हंसस्य चलत्वमस्य स्थिरप्रकृतित्वमिति प्रतिपादनार्थंभेद उक्तः।** Thus he interprets the**अभेद** and the **भेद** of the **उपमान**s in a rather different way from that of Indurāja.
 
  **P. 77, LL. 12-13—अलंकारान्तरच्छायां**...... (Kārikā 70)। Another variety of **ससंदेह**. "Any composition containing an apparent doubt when really there is no doubt, \[set forth\] with a view to produce a charm of other alaṅkāras, is termed **संदेह**." It is to be noted that the name here is **संदेह** and not **ससंदेह**. The **विवृतिकार** remarks : **ससंदेहसंदेहशब्दाभ्यां द्वाभ्यामप्यभिधानमित्युपदेशलक्षणयोर्न विरोधः.**
-
-
 
  **P. 77, LL. 19-20—नीलब्दः किमयं मेरौ....।** “Who seated on the lord of birds, bright as the sun, is thus mistaken (by others): 'Is this a dark cloud seated on the mountain Meru?' or 'Is this the smoke gathering on the fire of destruction?’" Here there is really no doubt in the mind of the speaker, whereas in the former variety the speaker himself was speaking in doubt. Here the poet says—‘**इति यः शङ्क्यते**, 'who is thus mistaken.' The poet himself is not at all mistaken; he only puts forth the possibility of a mistake on the part of others. Doubt is merely brought in here to express imaginary comparisons. The **अलंकारान्तरच्छच्या**here produced is that of **उत्प्रेक्षा.**
 
@@ -4921,8 +4319,6 @@ ledge of the history of alaṅkāras goes Udbhaṭais the first to introduce and
 Vāmana's definition of**ससंदेह** and his example are very similar to this.
 
  Devotees of **काव्यप्रकाश**will remember the wellknown line, **किं तु निश्चयगर्भ इव नात्र** (i. e. **निश्चयान्ते ससंदेहे**) **निश्चयः प्रतीयमान इति उपेक्षितो भट्टोद्भटेन,** of Mammaṭāchārya under **ससंदेह** (**का. प्र. १०, पृ. ५९१.**). It means : **निश्चयान्तसन्देह** is neglected by Bhaṭṭodbhaṭa, for there the is not conveyed by suggestion, but is actually expressed. For the charm exists in implication and not in bare expression. Udbhaṭa has given three verses in all as examples of **ससंदेह**. Therefore he could have easily inserted an example of **निश्चयान्तससंदेह**if he had meant to include it. This fact indeed shows that he disregarded the**निश्चयान्तससंदेह** asMammaṭa remarks. But in
-
-
 
 this work Udbhaṭa does not any where say in so many words that he wants to exclude **निश्चयान्तससन्देह**for such and such reason. All other old writers viz. Bhāmaha, Daṇḍin, and Vāmana do not give any example of **निश्चयान्तससन्देह**. Therefore they can also be said to have neglected that variety. Whether Udbhața had expressly written somewhere else condemning**निश्चयान्तससन्देह** for the reason given by Mammaṭa we do not at present know**निश्चयान्तससन्देह** is that where the end is made by a final decision after the doubts and fancies are expressed. The example given by Mammaṭa is:
 
@@ -4942,8 +4338,6 @@ this work Udbhaṭa does not any where say in so many words that he wants to exc
 
 ** **The respective provinces of**संसृष्टि** and**संकर**as defined by Udbhaṭa are different from those of more modern writers such as Mammaṭa and others. Two alaṅkārascan come
 
-
-
 together in two ways. (1) They can be intermingled into one another so that one cannot be separated from the other. (2) They can be quite independent of one another the only connection between them being their coming together in one sentence or one verse. The first kind of combination is termed **संकर**by Mammaṭa and others and the second is called **संसृष्टि**by them. Thus they have these two categories having a natural and fundamentaldifference between them. But Udbhaṭa’s division is peculiar.He calls the first kind of combination **(सापेक्ष उपनिबन्ध) संकर**. But he extends the province of **संकर**to the second kind of combination also. In it he makes a division. (1) The alaṅkāras that **निरपेक्षतया**come together belong some of them to letters and some of them to sense promiscuously, the only tie being that they exist in one sentence or verse. Udbhaṭa brands this as a variety of **संकर**. (2) The alaṅkāras that come together either belong all of them to letters such as **यमक, अनुप्रास**etc., or belong all to sense such as **उपमा,** **रूपक**etc. This is. **संसृष्टि**according to Udbhaṭa (and Indurāja also). It**श**will be thus seen that: **एतेषां (अलंकाराणाम्) अन्योन्यनिरपेक्षतया यत् एकत्र (१) शब्दभागे एव (२) अर्थभागे एव, (३) उभयत्रापि वा अवस्थानम् सा....संसृष्टिः। (काव्यप्रकाश; १०,पृ.७५२).**Out of these three categories (of **संसृष्टि**) set down by Mammaṭa the first two categories are the **संसृष्टि**of Udbhaṭa; the third category is **शब्दार्थवर्त्यलंकारसंकर.**The example given below illustrates the combination of two **अर्थालंकारऽ ( उपमा** and **रूपक).**
 
  **P. 78, LL, 26-27—त्वत्कृते सोपि वैकुण्ठः....। वैकु=विष्णुः ; निर्विशन्ति =**entering in, attaining, enjoying. Here two alaṅkāras occur having no connection between them. **शशीवोषसि चन्द्रिकाम्**is **उपमा**and **अधारा सुधावृष्टिं** is **रूपक**(or **दृढारोपक**according to **नागोजीभट्ट**.)
@@ -4951,8 +4345,6 @@ together in two ways. (1) They can be intermingled into one another so that one 
  This is the culminating verse of the long sentence describing **विष्णु**. The sentence begins with **शिरांसिपङ्कजानीव**etc, (Varga 5; st. 14.)
 
  **P. 79, L. 8—तयोः केवलाभिधेयाश्रयत्वात्। अभिधेय**is the directly expressed theme of description, The **अभिधेय**is **वैकुण्ठः श्रियं त्यजति**in this verse,
-
-
 
  **P. 79, LL. 1-2—तदुत्तिष्ठातिधन्येन.....।**This is not an example of **संसृष्टि**. It is a verse in the poem inserted to keep the chain of the story unbroken. But to free it from the charge of uselessness Indurāja says that this verse should be appended to the former and the whole should be considered as an example of**संसृष्टि** of many (not two) alaṅkāras in consideration of the **उपमा**contained in **कमलेक्षणे**.
 
@@ -4976,8 +4368,6 @@ together in two ways. (1) They can be intermingled into one another so that one 
 
  **P. 79, L.22,—P. 80, L. 4—तस्यां हि सत्यां... द्रष्टव्यम्।** It is to be noted that Udbhaṭa has used the word **दृश्यन्ते**in his
 
-
-
 definition. His aim is: It is not at all sufficient that the poet should only describe absent things as perceptible to the eye. The reader must also see and feel the things as such. And for this purpose there must be enough of force (**अनाकुलता**) in the style of the poet and enough of wonderfulness in the things themselves. Indurāja lays stress on this point in the passage. When there is (**अनाकुलता**) force and vividness in the style, the **भाव** or the feelings of the poet are experienced by the appreciative readers as the reflection produced by that poetry, and are felt by them as forcibly as by the poet himself. Their own feelings converge on the thought as their minds are melted by the forcible words. Therefore they also see those things, described in the poem as presented to the eye, for the things become as intimate to their feelings as they were to those of the poet. As a forcible and vivid description is a cause of this process so also wonderfulness of the theme is a cause of it too.
 
  **P. 80, LL. 5-6—चित्रोदात्ता.....प्रचक्षते।**Occurs in Bhāmaha (3; 53). Bhāmaha has:—
@@ -4991,8 +4381,6 @@ definition. His aim is: It is not at all sufficient that the poet should only de
 ** P. 80, LL. 12-15—रसोल्लासी कवेरात्मा......। संवीतस्वच्छशब्दार्थ.......।** Whence these stanzas are taken cannot be determined **प्रतिविन्द्य** = getting himself reflected \[in **शब्दार्थदर्पण**\]. The subject is **कवेरात्मा**.
 
  **P. 8O, LL. 20 - 21—करोषि पीडां प्रीतिं ...।**Pārvatīgenerates pain (**पीडा**) because she is without any ornament (**भूषण**) or **अञ्जन** etc. She evokes pleasure (**प्रीति**) because she is so beautiful that the charm of ornaments is seen in her without the ornaments themselves. Thus the **भूषणसंबन्ध**(the wearing of ornaments) which existed
-
-
 
 before is here expressed as seen by the eye. The reader as well as the poet feels as if the ornaments are present on the body of Pārvatī. This constitutes **भाविक**. This expression is not verbal as in **भाविभूषणसंभारां साक्षात्कुर्वे तवाकृतिम्**. It is implied by the words **करोषि प्रीतिं** and **समुद्वीक्ष्य नानाभरणशोभया**. In **भाविभूषणसंभारां** the poet himself says: **तवाकृतिं साक्षात्कुर्वे,**‘*I see before myself* your figure with the future ornaments.'
 
@@ -5011,21 +4399,15 @@ The meaning is clear.
 
  **P. 82, L. 17—अनिबद्ध=**Either (1) not artificial, natural; or (2) not impeded, rushing head long. The first meaning is more desirable; the second meaning does not agree with the epithet **स्यन्दी**which means oozing, dribbling.
 
-
-
  **P. 82, LL. 18-21—कथमपि कृतप्रत्यापत्तौ .....।अमरुशतक, ७५**This example is brought in to show that the best form of poetry can exist without alaṅkāras but not without guṇas. **प्रत्यापत्ति**=reunion, re-agreement **उत्तरस्खलन** or **गोत्रस्खलन** = an unconscious slip of a secret thing, e. g. the unconscious utterance of the name of the **नायक** or **नायिका**, **उपनायक** or **उपनायिका.** The translation: When the dear one who had some how effected a reunion, unconsciously dropped some hints (of his secret intercourse), the lady emaciated by separation feigned non-hearing; and having found the apartment empty with a glance that was hasty on account of the fear lest the unpardoning **सखी**might have heard it (the **गोत्रस्खलन**), breathed a sigh of relief.
 
  The lady was in separation and the lover was attached to another woman. The lover afterwards came and by **पादपतन**etc. effected an agreement. But in talking he dropped some hints of his secret connection. The lady had of course some spark of jealousy of this, but she being **विरहकृश**was eager for union. But if the **सखी**(these **सखी**sare always very obdurate people) had been there she would not have allowed union so meekly. Therefore when the lady saw that **सखी**was not present she sighed in relief. Here by **कथमपि कृतप्रत्यापत्तौ** it is suggested that there was **विरहविप्रलम्भ** before and there is an agreement (**सांमुख्य**) now. By **स्खलितोत्तरे**the **ईर्ष्याविप्रलम्भ**or the jealousy (of the **नायिका**) is suggested.By **विरहकृशया**it is suggested that the jealousy aroused in the mind of **नायिका**is subdued, for she was too emaciated to suffer separation any longer. By **असहनसखी**etc. it is suggested that if the**सखी**had heard the **गोत्रस्खलन**she would again have caused **विरह**(separation), with thisfear the **नायिका** looked around and when **सखी**was not seen **संभोग** was again established (**समुच्छ्वसितं** etc.) Thus here **ईर्ष्याविप्रलम्भ** and **विरहविप्रलम्भ** vanish giving place to **संभोग**.
 
  **विप्रलम्भशृङ्गार** is of five kinds: ’**अभिलाषविरहेर्ष्याप्रवासशापहेतुक इति पञ्चविधः।**'**—काव्यप्रकाश ४**, p. 102. The terms explain themselves. More detailed treatment of these and **रस**s in general should be seen in **दशरूपक**, **४** ; or in **रसतरङ्गिणी**,
 
-
-
  **P. 81, L. 11, to P. 84, L. 9— ननु काव्यग्रहणेन**etc.............**शास्त्रलिङ्गवदित्युपपन्नम्**। In this passage Indurāja enters into a short but very valuable dissertation on the nature of poetry. He discusses the relative importance of alaṅkāras, guṇas and rasas in poetry. And his views on these topics form a blend of the dogmas of the old and new as well as the Kashmirian and non-Kashmirian schools of thought. All this should be read in the original. Only a summary of it is attempted here.
 
  First, how does the use of the word **काव्य** in **काव्यलिङ्ग** for instance, implies **सरसत्व**i. e. richness in flavour? The answer is: Because a **काव्य**is **सरस**as its form consisting of words and sense is polished by guṇas (merits). The guṇas are **माधुर्य**sweetness, **ओजस्**floridity, and **प्रसाद**a lucidity. Of these**प्रसाद**is the chief, as it is always essential for an easy expression of (**रस**) the sentiment. Thus the outer body of poetry being furnished with these merits, especially **प्रसाद**, which are helpful to the manifestation of the sentiment, poetry itself becomes in its essence rich in sentiment. The alaṅkāras are additional ornaments to poetry which is primarily and principally embellished by guṇas. As a woman having natural excellences (guṇas) receives additional charm from ornaments so also the charm of poetry, primarily endowed by guṇas, is heightened by alaṅkāras. Guṇas can be charming without alaṅkāras, but alaṅkāras are useless in a place where there are no guṇas. Vāmana says—**युवते**—**विरूपमङ्ग** etc.,—**यदि भवति वचः** etc.,—**काव्यालंकारसूत्र** **३, १, १०**. Poetry is no poetry without merits or guṇas. But without alaṅkāras poetry can exist. Similarly he says—"Producers of charm in poetry are guṇas, and the elevators of that charm are alaṅkāras; the former (i. e. the guṇas) are essential”,—**काव्यालंकारसूत्र ३, १, १ - २-३**. Even examples of poetry, having no alaṅkāras but having guṇas, are seen; e.g. the verse of Amaruśataka containing a flow of intense erotic sentiment, viz. **कथमपि कृतप्रत्यापत्तौ**etc.—**अमरुशतक ७५**.In this verse no alaṅkāra is seen. It attains a poetical form by the presence of the guṇa **प्रसाद** helped by **माधुर्य** and **ओजस्**. One may say that **रसवत् अलंकार**exists here; for here the sentiments **ईर्ष्याविप्रलम्भ** and **विरहविप्रलम्भ** vanish and the **संभोगशृङ्गार**
-
-
 
 develops in their stead. But that is not true, For sentiments (**रस**s) are not of the nature of alaṅkāras. The **रस**s are the soul of poetry and words and sense are the body. Alaṅkāras are the ornaments of words and sense. Therefore rasas (i. e. the soul) cannot be said to be the ornaments of the outer body. Hence in the above verse, **संभोग** helped by the vanishing **विप्रलम्भ** is the soul and not an outer embellishment of the poetry. The same is the case with other **रस**s, **भाव**s, **आभास**s of **रस** and **भाव** and their **प्रशम**s etc. As to what is said before (in this work) that rasas constitute alaṅkāras, such as **रसवत्**etc., it is said in a condition when this discrimination about the real nature of **रस**s was not meant (by the author). **तदेवं गुणसंस्कृत** etc.......**शास्त्रलिङ्गवदित्युपपन्नम्**. Now if a **काव्य** is **सगुण** and **सरस**, **व्याकरण** and **भरत**(**नाट्यशास्त्र**) cannot be a **काव्य** ; for it has neither **गुण**s nor **रस**s. But then this will go against the verse of Bhāmaha, viz.— **वृत्तदेवादिचरित** etc. (—**भामहालंकार १, १७**), in which he says that works dealing with arts and sciences are one of the four varieties of a **काव्य.** This conflict is removed by applying the word **काव्य**to sciences and arts in a secondary sense (**उपचार**). The principal sense of **काव्य**is always **गुणसंस्कृतशब्दार्थशरीरं** etc. It is applied to **गुणरहितशब्दार्थ**by its secondary sense which it gets on account of the similarity of **गुणरहितशब्दार्थ** with **गुणसहितशब्दार्थ** (poetry) as both of them are literary compositions. Thus this much is clearly established that **काव्यलिङ्ग**does not belong to insipid compositions just like **शास्तलिङ्ग**; but it always belongs to compositions rich in flavour on account of the **गुण**s that exist in it.
 
@@ -5033,13 +4415,9 @@ develops in their stead. But that is not true, For sentiments (**रस**s) are 
 
  The first point that presses itself upon our consideration is: Whether the views of Indurāja on **काव्य**belong to the Kashmirian or to the non-Kashmirian school of ālaṅkārikas. The obvious answer to the question may be that Indurāja belongs essentially to the Kashmirian and the **ध्वनि**school; and generally it is correct. Indurāja
 
-
-
 speaks of **रस**as the soul of a **काव्य**and speaks of **गुण**s and alaṅkāras as the ornaments of the body of poetry. He has only three guṇas and not ten as propounded by Daṇḍin and Vāmana. So far his views are at one with the Kashmirian school of ālaṅkārikas. But there are also some very marked differences between the views of that school and his own views. In the first place he gives the utmost importance to guṇas and says after Vāmana that poetry having no guṇas is no poetry at all—**गुणरहितंहिकाव्यमकाव्यमेव भवति**(p.82). This view, we have already said (vide, Introduction pp. xviii-xx), is the view of the non-Kashmirian writers. Further, in Indurāja's opinion guṇas are the embellishments of the body ( i. e. the style and language) of poetry and they help the manifestation of **रस—गुणसंस्कृतशब्दार्थशरीरमेव काव्यम्** (p. 84,1.3.). This view is refuted by Mammaṭa who says : —'**आत्मन एव हि यथा शौर्यादयो नाकारस्य तथा रसस्यैव माधुर्यादयो गुणा न वर्णानाम्' – काव्यप्रकाश ८**, p. 463. In respect of these guṇas the ideas of Indurājà follow Daṇḍin and Vāmana to a great extent. Yet he tries to harmonise the theory of **रस**with the dogmas of Vāmana which are to some extent irreconcilable with the **रस** theory. Thus he says **गुणसंस्कृतशब्दार्थशरीरत्वात्सरसमेव काव्यम्**, 'Poetry is rich in sentiment because its form consisting of words and sense is embellished by guṇas,' which is almost meaningless from both points of view. For Vāmana does not at all recognise **रस**, and **सरस**in his opinion is a useless word. The modern writers would never say that a **काव्य**is rich in sentiment *because* the outer form of it is embellished by guṇas. They do not accept that guṇasare the cause of the manifestation of **रस**. But Indurāja says **रसाभिव्यक्तिश्च माधुर्यौजोभ्यां उपबृंहितो प्रसादात्मा गुणस्तेन क्रियते**. Indurāja has too much followed Vāmana to be able to reconcile himself with the **रस**and **ध्वनि**theory which he wants to establish.
 
  The guṇas are the attributes of sentiments (**रस**) and not of the body (i. e. **शब्द** and **अर्थ**, words and sense) of a **काव्य**according to Mammaṭa and others. But the non-Kashmirians such as Daṇḍinand Vāmana make guṇas the attributes of **रीती**(style), which is the principal element of a **काव्य**in their opinion. Rīti is determined according as
-
-
 
 it contains or excludes the various guṇas and thus guṇas have come to be of primary importance in their treatment. The pioneers of the **ध्वनि**theory hold that **रस**is the main element of poetry and guṇas are quite unimportant. Now Indurāja admits that **रस**is the soul of poetry, but he also wants to give so much importance to guṇas that his discussion ceases to harmonise with the**ध्वनि**theory.
 
@@ -5047,19 +4425,13 @@ it contains or excludes the various guṇas and thus guṇas have come to be of 
 
  Approaching the question from another point of view, an altogether different state of things presents itself to us. Udbhaṭa, as we have seen, is the follower of the system of Bhāmaha and not of Daṇḍin and Vāmana. Bhāmaha according to the published version of his book gives very little importance to guņas which are as it were held up to the sky by Daṇḍinand especially by Vāmana. Bhāmaha only mentions **नाधुर्य, ओजस्** and **प्रसाद** and takes a cursory notice of them in three verses. (**भामहालंकार-२, १-२-३.**). And Udbhaṭaif he shared Bhāmaha's views—which is probable—
 
-
-
 would never have given so much importance to guṇas as is given by Indurāja in the above discussion.
 
  We have at present no first hand means to ascertain what the actual views of Udbhaṭa were about the exact nature and importance of guṇas. The few references that are made to Udbhaṭa's opinions in other alaṅkāraworks point to some different direction. In the first place, there are the lines of Ruyyaka in his **अलंकारसर्वस्व** (p.7) —'**उद्भटादिभिस्तु गुणालंकाराणां प्रायशः साम्यमेव सूचितम्। विषयमात्रेण भेदप्रतिपादनात्। संघटनाधर्मत्वेन चेष्टेः।'** The commentary **रत्नापण** on Vidyānātha's **प्रतापरुद्रयशोभूषण**(p. 337) also says: —'**अलंकारविभागं करिष्यमाणस्तदुपयोगितया उद्भटादिमतेनोक्तमेव गुणालंकारभेदमनुवदति। चारुत्वहेतुत्वेपि गुणानामलंकाराणां चाश्रयभेदाद्भेदव्यपदेशः। संघटनाश्रयाः गुणाः शब्दार्थाश्रयास्त्वलंकाराः।’** These references and a few similar ones found in other places indicate that Udbhaṭa made very little distinction between alaṅkāras and guṇas. The only difference according to him between guṇas and alaṅkāras was that their provinces were different. Guṇas belong both to **शब्द**(words) and **अर्थ**(sense) at once; and alaṅkāras either belong to words or to sense. This is the only reason for any distinction made between them. There is also a quotation taken by Mammaṭa in the 9th Ullāsa (p. 470) with the purpose of refuting it. It is this: '**समवायवृत्त्या शौर्यादयः संयोगवृत्त्या तु हारादयः इत्यस्तु गुणालंकाराणां भेदः।ओजः प्रभृतीनामनुप्रासोपमादीनां चोभयेषामपि समवायवृत्त्या स्थितिरिति गड्डरिकाप्रवाहेनैवेषां भेदः।** ' Some commentators of **काव्यप्रकाश** say that this is a quotation from Udbhaṭa's **भामहविवरण**. This quotation, if it really were taken from a work of Udbhaṭa, makes our position more confused. These lines mean that there is absolutely no difference between alaṅkāras and guṇas. Both are inherent qualities (**समवायवृत्त्या स्थितिः**) of poetry. This view is slightly different from the view that is noticed by Ruyyaka and the author of **रत्नापण**which professes to belong to Udbhaṭa. Still both these views agree in the main point that there is no essential difference between alaṅkāras and guṇas. And it is possible that both may be expressed by the same person in different contexts. But none of these views can agree with the view of Vāmana which is set forth and accepted by Indurāja in the passage in question.
 
-
-
  Another crucial question which Indurāja raises is about the position and importance of **रस**in poetry. Indurāja himself is of opinion that **रस**is the soul of poetry, while guṇas and alaṅkāras are the embellishments of the body of poetry. Of these, guṇas are of primary importance while alaṅkāras are merely **शोभातिशयविधायिनः**. Here again it seems difficult to determine whether these opinions about **रस**s etc. were held by Udbhaṭa or not. But there is some indication from which we can say that the views set forth by Indurāja must not be acceptable to Udbhaṭa. Udbhaṭa mentions the alaṅkāra, which occurs in his opinion when a **रस**is prominently expressed in a poetical passage. This obviously contradicts the position of Indurāja, who says that **रस**is the **आत्म**and alaṅkāras are outer embellishments of subsidiary importance in poetry. If **रस**was the **आत्म**in Udbhaṭa's opinion, he would never have relegated it to the position of an alaṅkāra. Indurāja himself feels this difficulty and says—**यत्तु रसादीनां पूर्वमलंकारत्वमुक्तं तदेवंविधभेदाविवक्षया** (p. 83, 1. 23). But this, after all, is a meagre satisfaction and it shows the more clearly that Udbhaṭa did not know or at least did not accept the theory that rasa was the soul of poetry.
 
  **P. 84, LL. 10-15—तार्किकाणां च... स्मृतेरनुभवस्य वेति**। Logicians are divided in their thoughts about the process of causation. Some say that the process of causation consists only in calling to mind the effect of those things whose impression is revived by seeing the cause. Others aver that the connection between the fire and the hill which was unknown before is understood after the process of inference is completed. Thus they say that an experience of the effect is created by the cause. In short, the first set of people affirm that the knowledge that such and such effect is produced by such and such cause was already existent, only it was recalled to the mind newly. The second party says that the knowledge of the cause and effect was non-existent and it was newly produced by the **अनुमान**i. e. by the process of inference. To include both these views Udbhaṭa has said **स्मृतेरनुभवस्य वा.**
-
-
 
  **P. 84, LL. 17-18—छायेयं तव**...। The example of**काव्यालिङ्ग.**The lustre of the whole body of Pārvatī, excepting the places where ornaments were worn, was a little diminished and therefore showed the places of ornaments more clearly.
 
@@ -5071,8 +4443,6 @@ would never have given so much importance to guṇas as is given by Indurāja in
 
  As we have pointed out again and again,**दृष्टान्त** is one of those alaṅkāras which first find mention in the work of Udbhaṭa. Bhāmaha, Daṇḍin and Vāmana, not to speak of more ancient authors such as Bharata and Bhaṭṭi, do not mention this important alaṅkārain their works. But all writers after Udbhaṭa include this alaṅkārain their lists. All of them also borrow the important word **प्रतिबिम्ब**in
 
-
-
 their definitions from Udbhaṭa. Mammaṭa's definition is:— **दृष्टान्तः पुनरेतेषां (उपमानोपमेयसाधारणधर्माणां) सर्वेषां प्रतिबिम्बनम्। —काव्यप्रकाश, १०**, p. 636.
 
  We have here reached the end of Udbhaṭa's text. The commentary, however, does not end here. Indurāja enters into a rather lengthy discussion of an independent nature in order to show his own views on the subject of **ध्वनि**.
@@ -5083,8 +4453,6 @@ their definitions from Udbhaṭa. Mammaṭa's definition is:— **दृष्�
 
  As Ānanadvardhana was a comparatively recent author in Indurājas' time, Indurāja never mentions him by name, but alludes to the propounders of the **ध्वनि**theory by the title **सहृदयाः**(connoisseurs of poetry). These**सहृदय**s were a group of critics who first originated and then promulgated the**ध्वनि** theory in the science of poetics. These critics probably styled themselves**सहृदय**s as they deemed themselves possessed of a truly appreciative heart which readily perceived where the charm of poetry lay, This appears to be the true significance of the word **सहृदय,**from the manner in which Ānandavardhana repeats it *ad nauseum* and makes much of it in his work **ध्वन्यालोक.**
 
-
-
 Prof. Sovani conjectures and Mr. P. V. Kane (vide his Introduction to Sā
 
 hityadarpaṇa, Second Ed. 1923; pp. LX-LXIV) definitely holds that**सहृदय**was the name or title of the author of the **ध्वनिकारिका**s. Now, on a review of all the numerous references to the word**सहृदय**in the alaǹkāra works of the 9th and 10th centuries, it seems to us that it is never intended as the name of a single individual. It is always used in its ordinary sense, viz.connoisseurs of poetry, and is applied to a group of individuals who had taken part in the promulgation of the **ध्वनि**theory. Mr. Kane is at great pains to show that**सहृदय**must be the name of the author of the **ध्वनिकारिका**s. But his contention, it seems to us, is inadmissible for the following reasons: (1) The word **सहृदय**, wherever it occurs in connection with the **ध्वनि**theory, is always found used in the plural number. It is never used in the singular by any writer. The word **सहृदय** occurs scores of times in **ध्वन्यालोक** and also in **लोचन**, the commentary on **ध्वन्यालोक**; it occurs three times in Indurā
@@ -5093,15 +4461,11 @@ ja's **लघुवृत्ति**and about as many times in Mukula's **अभ
 
 nandavardhana in his **ध्वन्यालोक** uses the word **सहृदय** (plural) many times, in its ordinary sense, viz. 'real appreciators of poetry.' Now it cannot, with any plausibility, be said that in one or two places only he uses the word with a *double entendre*, wishing thereby to hint at the name of the author of **ध्वनिकारिका**s. (4) Of all those writers who use the word **सहृदय**in connec-
 
-
-
 tion with the **ध्वनि**theory, not a single one does ever distinctly mention that **सहृदय** was the author of **ध्वनिकारिका**s. If **सहृदय**was the real author, why should these writers not even once mention it directly so as to render it beyond doubt? In the whole range of alaṅkāraliterature no writer says or unmistakably indicates that**सहृदय**was the author of **ध्वनिकारिका**s. (5) Besides **ध्वन्यालोक** the word **सहृदय**is found used, with a sort of specialised application in connection with the**ध्वनि** theory, in **लोचन**of Abhinavagupta,**लघुवृत्ति** of Indurāja and **अभिधावृत्तिमातृका** of Mukula. All these works belong to the 10th century. As far as our knowledge goes, the word **सहृदय**is not used with such special sense in later works; and our conclusion is that**सहृदयाः**as a special title of a school who promulgated and spread**ध्वनि**theory was quitefresh and recent in the 10th century, but later on the coterie of **सहृदय**s, having done its work, probably ceased to exist and its name consequently died out of memory and vanished.
 
  Thus **सहृदयाः**, it appears to us, is a somewhat specialised title of a group of critics who were the promulgators of the **ध्वनि**theory in Indurāja's time. Who then was the actual author of the **ध्वनिकारिका**s? The question is perhaps to remain insoluble. We have all along mentioned the author of the **ध्वनिकारिका**s as distinct from Ānandavardhana, the author of **ध्वन्यालोक.**But even this fact cannot be said to be settled beyond doubt; overwhelming evidence, however, in which the testimony of Abhinavagupta is most important, is on the side of regarding the authors of the **कारिका**s and the **वृत्ति** on them (i. e. **ध्वन्यालोक** itself) as distinct. We have stuck to this evidence in regarding **ध्वनिकारिकाकार**as distinct from Ānandavardhana the **ध्वन्यालोककार.**
 
 ** **As regards the word **सहृदय**it is to be noted that Indurāja uses it many times in another connection, where its significance cannot be mistaken. In his commentary on **भाविक** he says :—**स कविनेव सहृदयैः श्रोतृभिः स्वाभिप्रायाभेदेन तत्तत्काव्यप्रतिबिम्बितरूपतया साक्षात्क्रियते। श्रोतॄणामपि हि... सहृदयानां स्वाभिप्रायमुद्रा तत्र संक्रामति। अतः कवेर्योऽसावभिप्रायस्तद्गोचरीकृता भूता भाविनोऽपि पदार्थास्तत्र**
-
-
 
 **सहृदयैः श्रोतृभिः** ……**प्रत्यक्षा इव दृश्यन्ते।**(P. 79, L. 24—P. 80, L. 2). Obviously **सहृदयाः** means here ’persons having a truly appreciative heart.' Naturally, of course,**सहृदयाः**must have the same significance when it occurs in the discussion on Dhvani or elsewhere in Indurāja's commentary.
 
@@ -5113,8 +4477,6 @@ tion with the **ध्वनि**theory, not a single one does ever distinctly m
 
  **P. 86, LL. 1-2—चक्राभिघातप्रसभाज्ञयैव.....।**Indurāja first wants to illustrate**वस्तुध्वनि**and to point out how it is included under an alaṅkāra (namely, **पर्यायोक्त**). This verse is a description of**विष्णु**. The meaning is— 'Who (**विष्णु**) made the love enjoyments of the consorts of Rāhu consist only in kisses and not in embracing and other more solid sports, as if by the forcible order in the form of the stroke of his disk'.
 
-
-
  **P.86,LL. 3-9—अत्र हि... वस्तुमात्ररूपं कल्पयति**। Here the cause by which the love sports were made futile is not expressed. The **राहुशिरश्छेद**which is the cause of **चुम्बनमात्रशेषकरण** is understood by suggestion. **राहुशिश्छेद**is neither a **रस**or the like, nor an alaṅkāra; it is simply a **वस्तुमात्रध्वनि. अतोत्र... पर्यायोक्तालंकारस्पर्शित्वम्—**Now such sort of implication comes under **पर्यायोक्तालंकार**, for**पर्यायोक्त**is the alaṅkāra where the thing wanted to be said is conveyed by implication.
 
  **P.86, LL. 11-17—ननु पर्यायोक्तशब्देन ... न विरुद्धयते।**Now an objection is raised. By the word**पर्यायोक्ता** is meant, 'the thing that is implied'. In the present case the thing that is implied is principal. Therefore in the fitness of things it should be the thing to be adorned (**अलंकार्य**) and not an adornment (**अलंकार**) itself. How can it be an alaṅkāra then? The answer is: Even the principal thing becomes the means of adorning, (i.e., adornment) when it becomes the beautifier of guṇas. Thus here although the **प्रतीयमान**(implied sense) is predominant, still it becomes an alaṅkāra, for it elevates the beauty of the subordinate verbal sense (i. e., **गुण**s).
@@ -5125,8 +4487,6 @@ tion with the **ध्वनि**theory, not a single one does ever distinctly m
 
 ** P. 86, LL. 20-23—स्निग्धश्यामलकान्ति......।**This verse also illustrates **वस्तुमात्रव्यङ्ग्य**which is **पर्यायोक्त**alaṅkāra according to Indurāja. The clouds which have covered the sky with darkness and which were interspersed by**बलाका**s, the sprayful winds and the cries of the friends of clouds (i. e., peacocks) are all **उद्दीपनविभाव**s (exciting causes)of **विप्रलम्भशृङ्गार**.
 
-
-
  **P. 86, L. 24** to **P. 87, L. 4—इत्येवमादावपि...पर्यायोक्तता न स्यात्।** Here the word **राम** implies **राज्यभ्रंश—वनवास—सीताहरण—पितृमरणादयो—दुःखैकहेतवः.** The word **राम** is understood not only as the name of a particular individual but it also implies with it all these qualities. The alaṅkārais**पार्यायोक्त**here as before. Here implication rests only on one word. But that does not debar it from being**पर्यायोक्त**if it satisfies the definition of that alaṅkāra.
 
  The verse**स्निग्धश्यामलकान्ति**&c. is brought here as an example of **वस्तुध्वनि**. It would seem to be a useless repetition, as one example of **वस्तुध्वनि**, viz. **चक्राभिघात** etc., is already given. But it is not so. The **व्यङ्ग्य**in **चक्राभिघात** and in **रामोस्मि** **सर्वं सहे** is not of the same type. The former is **विवक्षितवाच्य** and the latter is **अविवक्षितवाच्य.**These examples will be made use of in explaining those divisions of **ध्वनि.**The verse **स्निग्धश्यामल** etc. is given by Ānandavardhana in his **ध्वन्यालोक**as an example of **अर्थान्तरसंक्रमितवाच्यध्वनि** (Vide **ध्वन्यालोक**, **६१**); Indurāja also does almost the same afterwards. Mammaṭa has cited the verse in his treatment of **ध्वनि**as an example of **संसृष्टि, अनुग्राह्यानुग्राहक** and **एकपदवाच्य संकर,** of **ध्वनि.** (Vide **का. प्र. ४,**p. 188.)
@@ -5134,8 +4494,6 @@ tion with the **ध्वनि**theory, not a single one does ever distinctly m
  **P. 87, LL. 5-6—एवमन्यत्रापि ...... ध्वनिर्नामार्थान्तरम्।** Thus it is now established that in all cases of**वस्तुमात्रध्वनि**there is no necessity of regarding **ध्वनि**as a separate category.
 
  **P. 87, L. 8—लावण्यकान्ति...।**Here the sea is described as not having become agitated even in the presence of the face (**मुख**). And the reason given for this unusual phenomenon is that the sea is **जडराशिः (डलयोरभेदः )**, a heap of dullness. Therefore it has not the quick sense to become inflated by the vision of **मुख**. Here the **आरोप** of **चन्द्र** upon **मुख** is implied. For the sea is heaved in the presence of the moon. Thus here the implied alaṅkārais **रूपक**, and Indurāja even allows that. But by our usual method the alaṅkārashould be **पर्यायोक्त** here, for there is **वाच्यवाचकशून्य अवगमनव्यापार.** In this way Indurāja is not at all particular which alaṅkārais to be accepted as covering the **ध्वनिव्यापार**. Take whichever alaṅkāra
-
-
 
 you please, you must accept some alaṅkārato cover the province of **ध्वनि**. This seems to be his main standpoint.
 
@@ -5146,8 +4504,6 @@ you please, you must accept some alaṅkārato cover the province of **ध्व
 ** **The verse is given by Ānandavardhana as an example of **अविवक्षितवाच्यध्वनि** (Vide **ध्वन्यालोक**, p. 49 ). Here the **वाच्य**, viz. **सुवर्णपुष्पचयन**, is not at all wanted for the theme. Therefore it yields place by **लक्षणा** to **बहुलाभप्रापण** and from it the is then understood. The**व्यङ्ग्यार्थ** may be here taken to be ‘the predominance of the prowess of **शूर**and others.’
 
  **P. 88, LL. 5-6—सर्वैकशरणमक्षय .....।**. In this verse the words **शरण, क्षय, अधीश, हरि, कृष्ण, चतुरात्मन्** and **अरिमथन** have double meanings. The couplets of epithets: (1)**सर्वैकशरण**(the one home of all) and**अक्षय**(having no home); (2)**अधीश**and **धियामीश**; (3) **हरि** (tawny) and **कृष्ण** (black); (4) **चतुरात्मन्**(having a clever soul) and **निष्क्रिय** (dull); (5) **अरिमथन** (destroyer of wheels) and**चक्रधर**(upholder of wheels )—all appear to contain contradictory meanings. But the**विरोध**(conflict) disappears when the other meanings of the
-
-
 
 words are accepted. Thus if we take **शरण = रक्षितृ** and **क्षय = नाश**, the **विरोध** between **सर्वैकशरण** and **अक्षय** goes away. The comment of Abhinavagupta on this verse is given here as it clearly explains the **विरोध—"शरणं गृहमक्षयरूपमगृहं कथम्। यो न धीशः स कथं धियामीशः। यो हरिः कपिलः स कथं कृष्णः। चतुरः पराक्रमयुक्तो यस्यात्मा स कथं निष्क्रियः। अरीणामरयुक्तानां यो नाशयिता स कथं चक्रं बहुमानेन धारयति।” – लोचन** on **ध्वन्यालोक**, p. 101.
 
@@ -5161,8 +4517,6 @@ words are accepted. Thus if we take **शरण = रक्षितृ** and **
 
  **P. 88, LL. 11-12—एवमलंकारान्तरेष्वपि**...।Injurāja has given three examples to prove that**अलंकाररूपध्वनि**is included
 
-
-
 in the alaṅkāras thatare mentioned in Udbhaṭa's work. Similarly any other**अलंकाररूपध्वनि**should be included in the alaṅkāra which is most akin to it.Ānandavardhana and **ध्वनिकार,**of course, do not approve of these views of Indurāja; they reckon**अलंकारध्वनि**as a separate type of **ध्वनि**and do not include it under alaṅkāras which belong to the**वाच्य**sense.
 
  **P. 88, LL. 14-17—याते गोत्रविपर्यये....।**This example is brought in to illustrate the**रसदिध्वनि,**and to show how it is included in alaṅkāras like**प्रेयस्वत्**and others.
@@ -5174,9 +4528,6 @@ in the alaṅkāras thatare mentioned in Udbhaṭa's work. Similarly any other**
  **P. 89, LL. 4-5—गुणभूतेषु**...। The whole of the above discussion applies to the cases where the **रस, भाव**etc. are prominent. Where they are subordinate to others **रस**setc. or to the **वाच्यार्थ**, then the figure will be **उदात्त**, described as **चरितं च महात्मनाम्.** Thus in **रसादिप्रतीयमानार्थ**, whether it is the principal one in poetry or not, there is no need of supposing any separate **ध्वनि**.
 
  In all this discussion it has evidently been the effort of Indurāja to save Udbhaṭafrom the charge of incompleteness on the score of his not having treated the subject of **ध्वनि**at all. But standard writers on the **ध्वनि**theory such  
-
-
-
 
 as**ध्वनिकार**, Ānandavardhana, Mammaṭa and others have altogether a different view of the subject and Indurāja can have no support from them in his pleadings for Udbhaṭa. The main differences between the views of Indurāja and those of Mammaṭa and others in this respect are:**—**
 
@@ -5192,8 +4543,6 @@ as**ध्वनिकार**, Ānandavardhana, Mammaṭa and others have altog
 
  **P. 89, LL. 8-9—षट्प्रकारता ...... क्षितत्वाभ्यामुक्ता**। The **त्रिविध प्रतीयमानार्थ** here alluded to is the **रसादि, वस्तुमात्र** and **अलंकाररूप**. Indurāja here says that these three are each twofold. For each of them has two varieties—**विवक्षितवाच्य** and **अविवक्षितवाच्य.**Thus 6 types of **ध्वनि**are obtained. But this description is rather inaccurate in the light of what Indurāja himself says later on. The six types of **ध्वनि**are obtained in another way as explained further on. Thus the meaning of Indurāja's passage given above does not seem to fit in with the facts he himself puts forth later.
 
-
-
  **P. 89, LL 9-15—द्विविधं व्यञ्जकत्वं.....हेतुत्वात् त्रिविधम् ।**The **व्यञ्जकत्व** is first of two kinds **वाचक—(शब्द—)शक्त्याश्रय** (proceeding from words) and **वाच्य—**(**अर्थ—**)**शक्त्याश्रय** (proceeding from the sense). Of these **वाचकशक्त्याश्रय** is only of one kind, because it is of the nature of alaṅkāras only The suggestive sense proceeding from words only suggests**अलंकार**s and not **वस्तु** or **रसादि**. **आक्षिप्त एवालंकारः**.....।—This Kārikā is one of the celebrated **ध्वन्यालोक**commented upon by Ānadavardhana in his **ध्वन्यालोक** (See **ध्वन्यालोक ९५; उ. २ कारिका २५**). The **ध्वनि**proceeding from sense (**वाच्यशक्त्याश्रय**) is of three kinds, viz. **रसादि, अलंकाररूप,** and **वस्तुमात्र**. Thus we have got so far four types of **ध्वनि**.
 
  **P. 89, LL. 10-19—तत्र यत्तावद्वाचकशक्त्याश्रयं...... वाच्यस्य विवक्षैव।**Now the **वाचकशक्त्याश्रयध्वनि** which is only of the nature of alaṅkāras is always **विवक्षितवाच्य**. For there the direct (**वाच्य**) meaning is accepted along with the suggested meaning. Thus in the verse**सर्वैकशरण**etc, the **ध्वनि**is obviously depondent upon the words **शरण, क्षय** etc., and the **ध्वनि** is of the nature of **विरोधालंकार**. Therefore this is **वाचकशक्त्याश्रय अलंकाररूपध्वनि**. Now the direct sense is not here abandoned, the suggested sense only produces**विरोध**; and the directsense is necessary to make the **विरोधपरिहार**. Therefore this is **विवक्षितवाच्य**; and all **ध्वनि**s of this kind are **विवक्षितवाच्य**.
@@ -5201,8 +4550,6 @@ as**ध्वनिकार**, Ānandavardhana, Mammaṭa and others have altog
  **P. 89, LL. 19-22—यत्तु वाच्यशक्त्याश्रयं...उत्पादात्।** Now the **वाच्यशक्त्याश्रय रसादिरूपध्वनि**, as illustrated in **याते गोत्रविपर्यये** etc., is all **विवक्षितवाच्य** only. In **याते गोत्रविपर्यये०**and in such other verses where the **व्यङ्ग्य**is **रसादि**, the **रस**is produced by **विभाव**s, **अनुभाव**s etc., which are always directly expressed (**वाच्य**) by words. Therefore the**वाच्य**sense sense cannot at all be disregarded. Thus all **रसादिध्वनि** is **विवक्षितवाच्य** only and *not***अविवक्षितवाच्य**.
 
  **P. 89, L. 25—P. 90, L. 5—वस्तुमात्रालंकारविषयस्य...विवक्षाविवक्षे।**Now two kinds of **ध्वनि**s, viz. **वाच्यशक्त्याश्रय—**(1) **वस्तुमात्र** and (2) **अलंकाररूप**, remain to be accounted for. Each of these is twofold, viz. **विवक्षितवाच्य** and **अविवक्षितवाच्य.**In the example **चक्राभिघात** etc. the **वाच्य** is **विवक्षित**. The **वाच्य** is **चुम्बनमात्रशेषता** and the **व्यङ्ग्य**is **राहुशिर छेद**. The former is the **कार्य** and the latter is the **कारण**. The **कार्य** is necessary to produce any implica-
-
-
 
 tion of **कारण.**But in **स्निग्धश्यामलकान्ति** etc. the **वाच्य** sense of **राम**, viz. the name of an individunal, is not **विवक्षित**. Therefore the word**राम**is transferred from its**वाच्य**sense to something like **दुःखाभिभूतपुरुष**. Therefore the **वाच्य** is here **अविवक्षित**.
 
@@ -5212,8 +4559,6 @@ tion of **कारण.**But in **स्निग्धश्यामलका�
 expressed. From it the**उपमेयबहुलाभत्व** will be understood by **प्रौढोक्ति.** Thus the **उपमान** and**उपमेय**are sought to be conveyed by the same words though they are really different. The alaṅkāra will, therefore, be **अतिशयोक्ति**according to the definition **भेदेऽनन्यत्वम्**. The suggested **उपमा**will then be subordinate. Thus in the verse the **व्यङ्ग्य** (viz. the **उपमा**) being **गुणीभूत** the **काव्य** will be of a mediocre type and the question whether the **ध्वनि** is **विवक्षितवाच्य** will not arise very prominently.
 
  **P. 90, LL. 19 - 24—अत्र चाविवक्षा...विवक्षायामपि**। Here Indurāja explains the **संलक्ष्यक्रमध्वनि** and the **असंलक्ष्यक्रमध्वनि**, **संलक्ष्यक्रमध्वनि** occurs in that place where the process of implication, i. e. how the implied sense is produced from the primary sense, is clearly noticed, and**असंलक्ष्यक्रमध्वनि**is that
-
-
 
 in which that process is so quick and instantaneous that it cannot be noticed (**असंलक्ष्य**).
 
@@ -5225,25 +4570,9 @@ in which that process is so quick and instantaneous that it cannot be noticed (*
 
  **P. 91, LL. 10-13—सुवर्णपुष्पां पृथिवीं ... उपपद्यतएव।** In **सुवर्णपुष्पां**etc. the alaṅkāra was said to be **निदर्शना** before (see p. 88). But the **असंभवद्वाच्यार्था निदर्शना** is only a kind of **अप्रस्तुतप्रशंसा**, for it contains **अप्रस्तुतार्थोपनिबन्ध**.
 
-
-
  **P. 91, LL. 14-18—** **तदेवं ... षट्प्रकारता भवति।**Indurāja now once more enumerates the six divisions of **ध्वनि** hitherto explained. We also give them here:**—**
 
 ![](../books_images/U-IMG-1730993016Untitled44.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 It will be clearly seen that this division is quite different from that put forth in **षट्प्रकारता...विवक्षितत्वाभ्यामुक्ता** (See p. 89, 11. 8-9). There all the three **ध्वनि**s, viz. **वस्तुरूप, अलंकाररूप** and **रसरूप** are each said to be twofold, viz. **विवक्षितवाच्य** and **अविवक्षितवाच्य**.
 
@@ -5254,8 +4583,6 @@ It will be clearly seen that this division is quite different from that put fort
  **P. 91, L. 26-P. 92, L. 1—यथा च प्राधान्यभूते... योज्येति।**Thus the power of suggestion (**व्यञ्जकता**) becomes twenty fold in **प्रधानभूतव्यङ्ग्य काव्य**. These twenty types are also to be seen in **गुणीभूतव्यङ्ग्यकाव्य** according to possibility.
 
  **P. 92, LL. 3-8—विवक्ष्यमविवक्ष्यं च.....**। This Kārikā and the three following enumerate the varieties of**व्यङ्ग्य**or
-
-
 
 **ध्वनि**. The order of the first Kārikā is:**अर्थशक्त्याश्रये वस्त्वलंकारगोचरे ध्वनौ वाच्यं विवक्ष्यमविवक्ष्यं च**। (1) **शब्दशक्ति** - (2) **रसास्पदे तु विवक्ष्यम्।शब्दशक्तिरसास्पदे**
 i.e.**शब्दशक्त्यास्पद—अलंकाररूपे** and **अर्थशक्त्याश्रय—रसास्पदे**। The other two Kārikās are very clear and they only embody what has gone before.
@@ -5290,8 +4617,6 @@ a\. We explain the divisions of Mammaṭ
 
 a first, as he is the more exact and more minute of them both. The treatment of both
 
-
-
 these critics is essentially the same, Mammaṭa being naturally more minute and systematic, as he comes at a fairly later age than Ā
 
 nandavardhana.
@@ -5312,8 +4637,6 @@ a has it. Also Ā
 
 nandavardhana has not so minutely stated the
 
-
-
 twelve divisons of**अर्थोद्भव,**though he points out the direction which was probably the basis of Mammaṭ
 
 a's minute divisions.
@@ -5324,22 +4647,11 @@ a's minute divisions.
 
  **P. 92, LL. 17 - 20**—**मीमांसासारमेघात्.....।**This verse is a very beautiful example of **मालापरंपरितरूपक**.  
 
-
-
-
  Indurāja gives here a fitting tribute of gratitude and praise to his Preceptor, the eminent Brahman, **मुकुल**, in describing him as a cloud pouring incessant showers of **मीमांसा**, a moon heaving the ocean of **व्याकरण**, a treasure of the jewels of **तर्कशास्त्र**, the **विष्णु** of the **श्री** (goddess of wealth) of the science of poetics, the honey of the flowers of the learned, a bee in the lotuses of the feet of **श्रीकृष्ण,**a sea of goodness and generosity, and the bed of the creeper of fame, and says that he wrote a short commentary (**लघुविवृति**) on the**काव्यालंकारसार**after receiving oral instruction from him.
-
-
-
-
 
 THE END.
 
-
-
 *             *
-
-
 
 **APPENDIX I.**
 
@@ -5363,8 +4675,6 @@ VARGA I.
  D. begins thus: **॥ नमो वीतरागाय ॥ यल्लक्ष्म्या हसितैः०**. After the three stanzas which constitute the commentator's **मङ्गल**, it gives the Kārikās of the original author as **पुनरुक्ताभास०**etc.
 
  M. begins directly with the stanza **सर्वत्र विकस्वरता०**(quoted in our Notes, p. 1); after that it proceeds with the Kārikās.
-
-
 
 D. **पुनरुक्तवदाभासं छे०**; M. **पुनरुक्तवदाभासश्छे०.**  
 D. ^(०)**प्रासस्त्रिधा**; M. ^(०)**प्रासस्तथा.**  
@@ -5400,8 +4710,6 @@ D. **°दन्यथेत्युदिता;** M. **०दन्याव�
 D. **विच्युतैः**; M. **विच्युतेः.**  
 D. **०दाचारक्यच्प्रत्यय**; M. **०दाचारक्यच्प्रत्यय**. Our text has **^(०)दाचारे वयच्प्रत्यय** on the authority of the Commentary, q. v.; See P. 24, L. 17.
 
-
-
 D. **दूरे भूते**; N. S. Ed. **दूरीभूते**.  
 D. **पूर्णेन्दुबिम्बप्रतिममासीत्कुमुदकाननम्**।; M. **शशाङ्कबिम्बेन समं बभौकुमुदकाननम्**।.  
 D, **उपमेयस्यमवगम्यते**.  
@@ -5431,8 +4739,6 @@ D. **निषेधे एव**; Our text **निषेध एव**.
 D. **ह्यत्यन्तकार्यिकः**; M **अत्यन्तकार्यिकः**N. S. Ed. has **ह्युत्पन्नकार्यकः**, the result of confounding the letter **प**for **य**.  
 D.**लोको ह्यत्यन्तकार्यिकः**; M. **लोकेऽप्यत्यन्तकार्यिकः**•  
 D. **परिणंतवद्भा.** This being a meaningless aberration of the scribe we have corrected it in accordance with the available text of Bhāmaha from whose work the stanza is taken. M. which contains this stanza has also **परिणतं बहु** as we have N. S. Ed. has **परिणतं** (**च यत्**).
-
-
 
 D. **समर्थकभावो विद्यते**; Our text: **समर्थ्यसमर्थकभावो विद्यते**.  
 D. **विशेषोपादानं**; M. **विशेषापादनं.**  
@@ -5468,8 +4774,6 @@ D. **मोहःस्मृति०**; M. **मोहो मृति०**
 D. **चपलता हर्ष**; M. **चपलतामर्ष**.  
 D. **सुप्तं विबोधोऽमर्षश्चा०**; M. **सुप्तिर्विबोधो हर्षश्चा०**
 
-
-
 After **त्रयस्त्रिंशदमीभावाः**M. has the pāda **समाख्यातास्तु नामतः**।  
 D. **स्वरभेदो**; M. **स्वरसादो**.  
 D. **स्पष्ट**; M. **स्पृष्ट**.  
@@ -5503,8 +4807,6 @@ D. **स्तुतिश्रेष्ठो**; M. **स्तुतिश्
 D. **विदर्शना**; M. **निदर्शना**.  
 D. **आदरो वरे**; M. **आदरोऽपरे**.
 
-
-
 D. **०वर्त्यलंकारा**; M. **०वत्यलंकारा**.  
 D. **०वास्थ**; M. **०वास्व**.  
 D.**०कारेण**; M. **०कार्येण**.
@@ -5526,8 +4828,6 @@ D. **वस्त्वलंकारगोचरे**; N. S. Ed. **०का�
 D. **तद्धि शब्दशक्तिं**; N. S. Ed. **तद्विशिष्टशक्तिं** !
 
 *          *
-
-
 
 APPENDIX II.
 
@@ -5577,9 +4877,6 @@ APPENDIX II.
 
 समस्तवस्तुविषयं मालारूपकमुच्यते।  
 यद्वैकदेशवृत्ति स्यात्पररूपेण रूपणात्॥**१३**॥  
-
-
-
 
 आदिमध्यान्तविषयाः प्राधान्येतरयोगिनः।  
 अन्तर्गतोपमा धर्मा यत्र तद्दीपकं विदुः॥**१४**॥
@@ -5633,8 +4930,6 @@ APPENDIX II.
 विशेषापादनं यत्स्यादुपमानोपमेययोः।  
 निमित्तादृष्टिदृष्टिभ्यां **व्यतिरेको** द्विधा तु सः॥**२९**॥
 
-
-
 यो वैधर्म्येण दृष्टान्तो यथेवादिसमन्वितः।  
 व्यतिरेकोत्र सोपीष्टो विशेषापादनान्वयात्॥**३०**॥
 
@@ -5684,8 +4979,6 @@ APPENDIX II.
 
 रत्यादिकानां भावानामनुभावादिसूचनैः।  
 यत्काव्यं बध्यते सद्भिस्त**त्प्रेयस्वदु**दाहृतम्॥**४३**॥
-
-
 
 **रस**वद्दर्शितस्पष्टशृङ्गारादिरसादयम्।  
 स्वशब्दस्थायिसंचारिविभावाभिनयास्पदम्॥**४४**॥
@@ -5738,8 +5031,6 @@ APPENDIX II.
 
 अधिकारादपेतस्य वस्तुनोन्यस्य या स्तुतिः।  
 **अप्रस्तुतप्रशंसेयं प्रस्तुतार्थानुबन्धिनी**॥**५९**॥
-
-
 
 शब्दशक्तिस्वभावेन यत्र निन्देव गम्यते।  
 वस्तुतस्तु स्तुतिः श्रेष्ठा **व्याजस्तुति**रसौ मता॥**६०**॥
@@ -5795,9 +5086,6 @@ APPENDIX II.
 
 *         *  
 
-
-
-
 APPENDIX III.  
 ![](../books_images/U-IMG-1730531099७७.png)  
 उद्भटालंकारसारसंग्रहे लक्षितानामलंकाराणामुदाहरणसंग्रहः।
@@ -5843,8 +5131,6 @@ order in which they occur in the text.**
 भर्तारोपि सति स्त्रीभ्य आगस्यपि न चुक्रुधुः॥**७**॥  
         (स्वतन्त्रपदाश्रयः पादाभ्यासे पदसमुदायात्मकः।)
 
-
-
 क्वचिदुत्फुल्लकमला कमलभ्रान्तषट्पदा।  
 षट्पदक्वाणमुखरा मुखरस्फारसारसा॥**८**॥  
            (पदद्वितयपरतन्त्रशब्दद्वयाश्रयः।)  
@@ -5855,7 +5141,6 @@ order in which they occur in the text.**
 पद्मिनीं पद्मिनीगाढस्पृहयागत्य मानसात्।  
 अन्तर्दन्तुरयामासुर्हंसा हंसकुलालयात्॥**१०**॥  
                (स्वतन्त्रपरतन्त्रपदाश्रयः।)      
-        
 
 **रूपकम्।**
 
@@ -5894,8 +5179,6 @@ order in which they occur in the text.**
 क्षणं कामज्वरोत्थित्यै भूयः संतापवृद्धये।  
 वियोगिनामभूच्चान्द्री चन्द्रिका चन्दनं यथा॥**१८**॥  
      (यथाशब्दयोगे श्रौती संपूर्णा वाक्यावसेया)
-
-
 
 नेत्रैरिवोत्पलैः पद्मैर्मुखैरिव सरःश्रियः।  
 तरुण्य इव भान्ति स्म चक्रवाकैः स्तनैरिव॥**१९**॥  
@@ -5939,8 +5222,6 @@ order in which they occur in the text.**
 स दग्धविग्रहेणापि वीर्यमात्रस्थितात्मना।  
 स्पृष्टः कामेन सामान्यप्राणिचिन्तमचिन्तयत्॥**२९**॥  
                 (कर्त्रुपमानिका कृदवसेया संक्षेपोपमा।)
-
-
 
 चण्डालकल्पेकन्दर्पं प्लुष्ट्वा मयि तिरोहिते।  
 संजातातुलनैराश्या किं सा शोकान्मृता भवेत्॥**३०**॥  
@@ -5990,8 +5271,6 @@ order in which they occur in the text.**
 राहुपीतप्रभस्येन्दोर्जयन्तीं दूरतस्तनुम्॥**३८**॥  
         (अनुपात्तनिमित्तो गम्योपमानोपमेयभावः अश्लिष्टः।)
 
-
-
 पद्मं च निशि निःश्रीकं दिवा चन्द्रं च निष्प्रभम्।  
 स्फुरच्छायेन सततं मुखेनाधः प्रकुर्वतीम्॥**३९**॥  
         (उपात्तनिमित्तो गम्योपमानोपमेयभावः अश्लिष्टः।)
@@ -6040,8 +5319,6 @@ order in which they occur in the text.**
 
 मृणालहंसपद्मानि बाहुचङ्क्रमणाननैः।  
 निर्जयन्त्यानया व्यक्तं नलिन्यः सकला जिताः॥**४८**॥
-
-
 
 **उत्प्रेक्षा।**
 
@@ -6096,9 +5373,6 @@ order in which they occur in the text.**
 अथ कान्तां दृशं दृष्ट्वा विभ्रमाच्च भ्रमं भ्रुवोः।  
 प्रसन्नं मुखरागं च रोमाञ्चस्वेदसंकुलम्॥**५९**॥  
 
-
-
-
 स्मरज्वरप्रदीप्तानि सर्वाङ्गानि समादधत्।       
 उपासर्पद्गिरिसुतां गिरिशः स्वस्तिपूर्वकम्॥**६०**॥
 
@@ -6151,8 +5425,6 @@ order in which they occur in the text.**
 नोदेति किमपि प्रष्टुं सत्वरस्यापि मे वचः॥**७१**॥  
                            (उपालनिमित्ता।)
 
-
-
 **विरोधः।**
 
 यद्वा मां किं करोम्येष वाचालयति विस्मयः।  
@@ -6200,8 +5472,6 @@ order in which they occur in the text.**
 हरेणेव स्मरव्याधस्त्वयानङ्गीकृतोपि सन्।  
 त्वद्वपुः क्षणमप्येष धार्ष्ट्यादिव न मुञ्चति॥**८१**॥  
 (अनुग्राह्यानुग्राहकसंकरः।)
-
-
 
 **उपमेयोपमा।**
 
@@ -6254,8 +5524,6 @@ order in which they occur in the text.**
 त्वत्कृते सोपि वैकुण्ठः शशीवोषसि चन्द्रिकाम्।  
 अप्यधारां सुधावृष्टिं मन्ये त्यजति तां श्रियम्॥**९१**॥
 
-
-
 तदुत्तिष्ठातिधन्येन केनापि कमलेक्षणे।  
 वरेण सह तारुण्यं निर्विशन्ती गृहे वस॥**९२**॥
 
@@ -6275,8 +5543,6 @@ order in which they occur in the text.**
 उदन्वन्तमनासाद्य महानद्यः किमासते॥**९५**॥
 
 *             *
-
-
 
 APPENDIX IV.
 
@@ -6305,8 +5571,6 @@ Quotations occurring in the Laghuvṛitti alphabetically arranged and traced to 
 **17** कज्जलहिमकनकरुचः सुपर्णवृष... etc.।—रुद्रट; काव्यालंकार, ७.३६.  
 **18** कथमपि कृतप्रत्यापत्तौ प्रिये...etc.।—अमरुक's अमरुशतक, ७५,
 
-
-
 **19** काव्यशब्दोऽयं गुणालंकारसंस्कृतयोः शब्दार्थयोर्वर्तते। भक्त्या तु शब्दार्थमात्रवचनोऽत्र गृह्यते।—वामन, वृत्ति on the सूत्र 'काव्यं ग्राह्यमलंकारात्’। काव्यालंकारसूत्र; १.१.१.  
 **20** काव्यशोभायाः कर्तारो धर्मा गुणाः।—वामन, काव्यालंकारसूत्र; ३.१.१.  
 **21** कृतद्धितसमासेभ्यः...etc.। कैयट on महाभाष्य on 'तस्य भावस्त्वतलौ'—पा. सू. ५.१.११९.  
@@ -6329,8 +5593,6 @@ Quotations occurring in the Laghuvṛitti alphabetically arranged and traced to 
 **38** तां जानीयाः परिमितकथां...etc.।—कालिदास, मेघदूत, उत्तरमेघ, २०.  
 **39** तेन तुल्यं क्रिया चेद्वतिः।—पा. ५.१.११५.  
 **40** त्रासश्चैव वितर्कश्च विज्ञेया...etc.।—भरतनाट्यशास्त्र, अ. ६, श्लो. २१.
-
-
 
 **41** त्वयि दृष्ट एव तस्या निर्वाति... etc.।—रुद्रट, काव्यालंकार; ८.८५.  
 **42** दशभेदा ध्वनेरेते...etc.।  
@@ -6357,8 +5619,6 @@ Quotations occurring in the Laghuvṛitti alphabetically arranged and traced to 
 **63** लक्षणायां हि झगित्यर्थ०।—वामन, काव्यालंकारसूत्र; वृत्ति on सूत्र, ४.३.८.  
 **64** लावण्यकान्तिपरिपूरित०...etc.।—आनन्दवर्धन cites this as his own verse in ध्वन्यालोक;
 
-
-
 **65**लिम्पतीव तमोऽङ्गानि...etc.।—शूद्रक, मृच्छकटिक, १.३४.—दण्डी, काव्यादर्श; २.२२६ (only the first half) and २.३६२.  
 **66** वस्तुप्रसिद्धमिति यद्... etc.।—रुद्रट, काव्यालंकार; ८.८९  
 **67** विवक्ष्यमविवक्ष्यं च... etc.।  
@@ -6384,8 +5644,6 @@ Quotations occurring in the Laghuvṛitti alphabetically arranged and traced to 
 
 *       *
 
-
-
 APPENDIX V.
 
 ![](../books_images/U-IMG-1730791309५५.png)
@@ -6405,11 +5663,6 @@ B
 Alphabetical list of authors and works from whom Indurāja draws quotations in hisLaghuvṛtti.
 
 [TABLE]
-
-
-
-
-
 
 APPENDIX VI.  
 
@@ -6447,8 +5700,6 @@ Again he says clearly :—
   तस्यास्य स्मितमात्रकेण जनयन्प्राणापहारक्रियां  
   भ्रातः प्रत्युपकारिणां धुरि परं वेताललीलायसे॥"  
                         —ध्वन्यालोकलोचन, पृ.४३.**
-
-
 
 5.**“अपह्नुतिध्वनिर्यथास्मदुपाध्यायभठ्ठेन्दुराजस्य—  
     यः कालागुरुपत्रभङ्गरचनावासैकसारायते  
@@ -6488,8 +5739,6 @@ Again he says clearly :—
     अव्याद्वोबालवर्षस्य विष्णोर्गोपतनोर्वपुः॥  
                         —सुभाषितावलि, ३३.**
 
-
-
  Some other verses ascribed to Indurāja occur in Ś
 
 ārṅ
@@ -6523,8 +5772,6 @@ a\.
  अभिनवमदलेखालालसं सुन्दरीणां  
  स्तनमरपरिखिन्नं यौवनं वा वनं वा॥  
                     - सुभाषितावलि, ३४५३.
-
-
 
 **A list of Books Consulted in preparing this Edition.**
 
@@ -6561,8 +5808,6 @@ Ekāvali of Vidhyādhara, edited by R. B., K. P. Trivedi; 1903. Bombay Sanskrit 
 History of Alaṁkāra Literature, by Mr. P. V. Kane, prefixed to his Second Edition of Sāhityadarpaṇa, Bombay, 1923.
 
 Kāvyādarśa of Daṇḍin, Calcutta Ed. of Premchandra Tarkavāgīśa, Bibliotheca Indica Series; 1863. References are to Parichchhedas and Ślokas.
-
-
 
 Kāvyālaṁkāra of Rudraṭa. N. S. Ed., Kāvyamālā, 2; 1886.  
  References are to Adhyāyas and verses.
@@ -6620,8 +5865,6 @@ Vārtikas of Kātyāyana on Pāṇini's Sūtras. References are to Panini's Sūt
 
 *              *
 
-
-
 ADDITIONS AND CORRECTIONS.
 
 ![](../books_images/U-IMG-1730877949५५.png)
@@ -6642,8 +5885,6 @@ Remove the asterisk printed before **११**and insert one before the number **
 
 [TABLE]
 
-
-
 [TABLE]
 
 After **जान्तनशां विभाषा** add (**पा. सू. ६-४-३२** ).
@@ -6656,25 +5897,17 @@ Delete '**पा. सू. ६-१-१२३**' from both the places.
 
 Before the stanza **शिरांसि पङ्कजानीव** etc. insert the words **तस्या उदाहरणम्**।
 
-
-
-
-
 [TABLE]
 
 **Notes.**
 
 [TABLE]
 
-
-
 [TABLE]
 
 **Appendices.**
 
 [TABLE]
-
-
 
 INDEX I.
 
@@ -6688,28 +5921,13 @@ Items printed in black type refer to Kārikās of Udbhata.
 
 [TABLE]
 
-
-
-
-
-
-
 [TABLE]
 
-
-
-
-
-
 [TABLE]
-
-
 
 [TABLE]
 
 *         *
-
-
 
 INDEX II.
 
@@ -6717,57 +5935,29 @@ To Introduction and Notes.
 
 ![](../books_images/U-IMG-1731054039५५.png)
 
- 
-
 Roman figures indicate pages of the Introduction, while Arabic numerals refer to pages of the Notes. The abbreviated form *fig*. stands for 'figure of speech' or 'alaṁkāra'. Numerals printed in black type show that the main treatment of the alaṁkāra will be found in those pages. E. g. 'Atiśayokti, *fig*., xxii, 79-83'; here '*fig*.' indicates that it is an alaṁkāra, and it is principally treated in pp. 79-83.
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 ![](../books_images/U-IMG-1730453800६६.png)
 
@@ -6779,28 +5969,4 @@ Institute, Poona.
 
 ![](../books_images/U-IMG-1730453800६६.png)
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^9]: "Alankarasarvasva, p. 3"
