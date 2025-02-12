@@ -18,13 +18,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 
 [TABLE]
 
-![](../books_images/U-IMG-1703085836Screenshot2023-12-20205309.png)
+<MISSING_FIG href="../books_images/U-IMG-1703085836Screenshot2023-12-20205309.png"/>
 
 [TABLE]
 
 [TABLE]
 
-![](../books_images/U-IMG-1705731971sss.png)
+<MISSING_FIG href="../books_images/U-IMG-1705731971sss.png"/>
 
 **स्वर्गीय शास्त्र विशारद जैनाचार्य  
 श्री विजयधर्म सुरीश्वरजी महाराज**
@@ -392,7 +392,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 
 **परिशिष्टम्।**
 
-![](../books_images/U-IMG-1703095041Screenshot2023-12-20232706.png)  
+          
+<MISSING_FIG href="../books_images/U-IMG-1703095041Screenshot2023-12-20232706.png"/>  
 प्रथमे खलु योगांगे, मार्गानुसारितः किल।  
 सर्वदेशव्रतानां च, सम्यग्दर्शनवस्तुनः॥१॥
 
@@ -478,7 +479,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 
 \_\_\_\_\_\_\_
 
-![](../books_images/U-IMG-1696910349Screenshot2023-10-10092804.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1696910349Screenshot2023-10-10092804.jpg"/>
 
 **॥ॐ अर्हं॥**
 
@@ -719,7 +720,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 |                                                         वीरधर्मपट्टावलिः                                                         |
 |                                                           शुद्धिपत्रकं                                                           |
 
-![](../books_images/U-IMG-1696427729Screenshot2023-10-04191925.png)
+<MISSING_FIG href="../books_images/U-IMG-1696427729Screenshot2023-10-04191925.png"/>
 
 **\* नमो नमः श्रीप्रभुधर्म्मसूरये \***
 
@@ -727,7 +728,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 
 ** ( योग प्रदीपः )**
 
-**![](../books_images/U-IMG-1703414136Screenshot2023-12-24160527.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1703414136Screenshot2023-12-24160527.png"/>**
 
 **   प्रथम प्रकाशः**
 
@@ -871,8 +872,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 जीवा जडाश्च सकले जगति प्रसिद्धाः ।  
 जीवस्वरूपमिति वै उपयोगवत्वं,  
 ज्ञानादिगौण[^14]सरूपं [][^14] प्रविभावनीयम् ॥१॥
-
-[^14]: "गुण"
 
 जीवाद्विधा निगदिताः खलु शुद्धबद्धाः,  
 मुक्तस्य मोचन भवाद्वयी[^17] तत्ववत्ता,  
@@ -2446,7 +2445,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 धौतवस्त्रञ्च प्रच्छाद्य[^168], निर्विघ्ने स्थानके शुभे ।  
 आसनं मुखपत्तिश्च, हस्तेलघु रजोहरम् ॥३४॥
 
-[^168]: "परिधाय"
+[^168]: # "परिधाय"
 
 प्रतिलेख्यानि सर्वाणि, ततः क्रियां समाचरेत् ।  
 वस्त्रबन्धनमास्ये न, कार्य्यंते चरणेच्छुभिः ॥ ३५॥
@@ -4560,8 +4559,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 
 हिंसाऽसत्यादत्तदानो ब्रह्मचण्डालकादीनाम्[^56]।  
 अभक्ष्य सुरामिषाणां, पापर्धित्वद्युतादीनाम्॥५५॥
-
-[^56]: "तृष्णादीनाम्"
 
 पापसाधक वस्तूनां, त्यागः कार्य्यो विपश्चिता।  
 सर्वदा सुखशीलेन, भाव्यञ्च पाप भीरुणा॥५६॥
@@ -7115,7 +7112,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 नामा एकादशम  
 प्रकाशः समाप्तः ॥**
 
-![](../books_images/U-IMG-1705656249Screenshot2024-01-19145336.png)
+<MISSING_FIG href="../books_images/U-IMG-1705656249Screenshot2024-01-19145336.png"/>
 
 **॥ अथद्वादशम प्रकाशः ॥**
 
@@ -12669,7 +12666,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 
 **षोडशतमः प्रकाशः समाप्तः ॥**  
 
-**![](../books_images/U-IMG-1702108634Screenshot2023-12-09132702.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702108634Screenshot2023-12-09132702.png"/>**
 
 **॥ प्रत्याहारस्वरूपवर्णनम् ॥**
 
@@ -16658,7 +16655,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 
 **समाधिनिरूपणम्।**
 
-![](../books_images/U-IMG-1702276249Screenshot2023-12-11120041.png)
+<MISSING_FIG href="../books_images/U-IMG-1702276249Screenshot2023-12-11120041.png"/>
 
 समाधिरूपता यैश्च, प्राप्ता न जगदीश्वरैः।  
 तेभ्यः समाधिरूपेभ्यः, श्रीपार्श्वेभ्यो नमोनमः॥१॥
@@ -16835,7 +16832,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 
 **योगदर्शनविचारणा।**
 
-![](../books_images/U-IMG-1702276608Screenshot2023-12-11120041.png)  
+<MISSING_FIG href="../books_images/U-IMG-1702276608Screenshot2023-12-11120041.png"/>  
 **॥नमो नमः श्रीप्रभुधर्मसूरये॥**
 
 परं ज्योतिर्नमस्कृत्य, धर्मसूरिं गुरु तथा।  
@@ -18356,7 +18353,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 
     **वीरधर्मपट्टावलिः।**
 
-**![](../books_images/U-IMG-1702914533Screenshot2023-12-18211842.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702914533Screenshot2023-12-18211842.png"/>**
 
    **योगप्रदीपस्य प्रशस्तिः।**
 
@@ -20468,4 +20465,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxNDg3ODE4MzE
 [TABLE]
 
 \]
-

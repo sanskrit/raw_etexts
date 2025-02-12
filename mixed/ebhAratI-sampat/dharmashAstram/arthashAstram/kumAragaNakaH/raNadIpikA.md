@@ -17,6 +17,20 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY3OTcwMTIzNzk
 
 \
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **review करणीयम्**
 
 TRIVANDRUM SANSKRIT SERIES.
@@ -24,10 +38,12 @@ TRIVANDRUM SANSKRIT SERIES.
 **Śri Setu Laksmi Prasadamala.**  
 No. VII.
 
+
 **THE  
 RANADIPIKA  
 OF  
 KUMARAGANAKA**  
+
 
 **EDITED BY  
 K. SAMBA SIVA SASTRI.**  
@@ -35,28 +51,44 @@ Curator of the Department for the Publication of
 
 Sanskrit Manuscripts, Tricamiram.
 
+
+
 **PUBLISHED UNDER THE AUTHORITY OF THE GOVERNMENT OF**
 
 **HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.**  
+
+
+
 
 **TRIVANDRUM:  
 PRINTED BY THE SUPERINTENDENT, GOVERNMENT PRESS.  
 1928.**
 
+
+
 ***अनन्तशयनसंस्कृतग्रन्थावलिः ।*  
 ग्रन्थाङ्कः ९५.**  
+
 
 **श्रीसेतुलक्ष्मीप्रसादमाला ।  
 ग्रन्थाङ्कः ७.**  
 
+
+
+
 **रणदीपिका**  
 **कुमारगणककृता**  
+
+
+
 
 **संस्कृतग्रन्थप्रकाशनकार्याध्यक्षेण**
 
 **के. साम्बशिवशास्त्रिणा**
 
 **संशोधिता ।**
+
+
 
 **सा च**  
 **अनन्तशयने  
@@ -66,7 +98,14 @@ PRINTED BY THE SUPERINTENDENT, GOVERNMENT PRESS.
 
 **मुद्रयित्वा प्रकाशिता ।**  
 
+
+
+
 **कोलम्बाब्दाः ११०३, क्रैस्ताब्दाः १९२८.**
+
+
+
+
 
 **श्रीपद्मनाभसेवि-**
 
@@ -83,6 +122,12 @@ PRINTED BY THE SUPERINTENDENT, GOVERNMENT PRESS.
 **श्रीसहित सेतुलक्ष्मी-**
 
 **प्रसादमाला सुवर्णमणिचित्रा ॥**
+
+
+
+
+
+
 
 **PREFACE.**
 
@@ -105,6 +150,7 @@ The work is cited as an authority in the Prasuamarga thus:-
 
 Which is known to have been written in 825 of the Malabar Era corresponding to 1650 A. D. It is therefore certain that the author flourished earlier than 1650 A. D. From the word in the above quotation it seems that Ranadipika was a well-known work at the time of the author of the Prasnamärga; and as it is natural to suppose that the work should at least have taken a century before it could become so popular, I think we may not be far from right if we assign the date of the author a century earlier than 1650 A. D. If however, we take the word Rajaraja mentioned in the verse राजत्केरलराजराजमकुटी to mean the same as the king of Mahodayapura described in the Sukasandeśa  
 
+
 **"उत्तीर्णस्तामुदधिदयितामुत्तरेण क्रमेथा**
 
 **राजत्पत्तिद्विपरथहयानीकिनीं राजधानीम् ।**
@@ -120,9 +166,11 @@ The work has epitomized in eight chapters the following eight topics respectivel
 **"ग्रामे निवासिनां यद्वच्छूद्रादीनामनन्तरम् ।  
 भागिनेयान् परित्यज्य पुत्रो भोक्ता भविष्यति ॥”** 
 
+                                   
          (Cha. 3, Slo. 30 ).
 
 the supersession, in course of time, of what is known as the marumakkathayom system of inheritance by inheritance from father to children among the marunakkathayees of Malabar; and that centuries afterwards, it has been the Royal pleasure of Her most gracious Highness the Maharani Regent to give the sanctity of law to the latter system in our own days so far as the Marmukkathayees in Travancore are concerned.
+
 
 The following solecisms are found in the work:-
 
@@ -138,10 +186,15 @@ The following solecisms are found in the work:-
 The work quotes as authorities such ancient teachers as 1. Bruhaspati, 2. Gargva. 3. Kapila, 4. Vedavyasa, 5. Atri, 6. Janardana, 7. Madhava, S. Varahamihira and 9. Yavana.  
 The edition of the work is based on four manuscripts marked, and, which excepting the second are complete copie belonging to the Palace Library, Trivandrum; while the second, an incomplete copy containing the first, the third, and the fifth adhyayas and a portion of the last adhyaya was obtained from Mr. Govinda Pillai of Munchira Amma Veedu.
 
+
 Trivendrum,
 
 5-11-1103.                              
                           K. SAMBASIVA SASTRI.
+
+
+
+
 
 **उपोद्घातः ।**
 
@@ -155,8 +208,10 @@ Trivendrum,
 
 **ब्रध्नीयत्यधुना कुमारगणकः सन्तः प्रसीदन्त्वतः ॥"**
 
+                                   
                                 
 (अध्या० ८. श्रो० ३९)
+
 
 इति। यद्येष श्रीगोविन्दमहीसुरेन्द्रः कोऽपि राजा स्यात् तर्हि चेम्पकश्शेरिराजवंश्यः इटप्पल्लिराजवंश्यो वा सम्भाव्यते । यतः खलु केरलेषु तयोरेव उत्तमब्राह्मण्यसमानाधिकरणं राजत्वं सुप्रसिद्धम् । अथवा केरलराजराजबन्द्यमहिमा तदाचार्यो वा कोऽपि ब्राह्मणश्रेष्ठः श्रीगोविन्दाभिधो भवेत् ।
 
@@ -176,6 +231,7 @@ Trivendrum,
 
 **राजा राजेत्यवनिवलये गीयते यन्निकेतः ॥**
 
+                                   
                               "(श्लो०. ६८)
 
 इति शुकसन्देशोक्तदिशा कोऽपि महोदयपुराधीश्वरो राजा यदि गृह्येत, तदा तेषु महोदयाधिपतिषु सर्वान्तिमस्यापि राजेन्द्रचोलापहृतस्वराज्यस्य ए. डि. १०५२ - १०६४. समयजीविनः समसमयजीव्यस्माकं कुमारगणकः क्रिस्त्वब्दीयैकादशशतकात् सर्वथा नार्वाचीन इत्यपि सम्भावयितुं शक्यम् ।
@@ -188,6 +244,7 @@ Trivendrum,
 
 **भागिनेयान् परित्यज्य पुत्रो भोक्ता भविष्यति ॥ "**
 
+                                   
                               (अध्या० ३. श्लो० ३०)
 
 इति भविष्यन् पुत्रदायक्रमः सिद्धवत्कृत्य दृष्टान्तितः, फलितश्च सम्प्रत्यस्माकं प्रत्यक्षतः महोन्नतमहामहिमशालिन्याः प्रत्यक्षवञ्चिलक्ष्म्याः श्रीसेतुलक्ष्म्या महाराज्ञ्या राज्यभरणे कोऽपि राजकीयो नियमः ।
@@ -204,16 +261,19 @@ Trivendrum,
 
 **तद्भागे तस्य शब्दं च सुस्वरं च तदुत्तमम् ॥”**
 
+                                   
          (अध्या० २. श्लो० ३२)
 
 **“द्वादशशूले मरणं भयं बाह्यचतुष्कमे** **।**
 
 **त्रिचतुष्के च सङ्ग्रामे विजयं भवति ध्रुवम् ॥”**  
 
+
                                    
                       (अध्या० 5. श्लो० 25)
 
 एतद्ग्रन्थकर्त्रा स्मृताः प्राचीना आचार्याः –
+
 
     **१. बृहस्पतिः **
 
@@ -238,6 +298,14 @@ Trivendrum,
 **अनन्तशयनम्,**  
 ५-११-११०३.                              
                        **के.साम्बशिवशास्त्री.**
+
+
+
+
+
+
+
+
 
 **॥ श्रीः ॥**  
 **रणदीपिका**
@@ -421,6 +489,8 @@ Trivendrum,
 [^22]: " यां प्र  क. पाठः"
 
 **प्रथमोऽध्यायः ॥**
+
+
 
 **रणदीपिकायां**
 
@@ -608,6 +678,7 @@ Trivendrum,
 
 **तस्यागमं शुभं विद्यात् तथा कन्यागमं गवाम् ॥ ३७ ॥**
 
+
 **शङ्खनादं शुभं विद्याच्छुभं वेदरवं तथा ।**
 
 **शब्दं मङ्गलवाद्यानां शुभशब्दं नृणामपि ॥ ३८ ॥**
@@ -667,6 +738,8 @@ Trivendrum,
 [^44]: " लक्षणाध्यायो द्वितीयः ॥ ग घ पाठः"
 
 **द्वितीयोऽध्यायः ॥**
+
+
 
 **रणदीपिकायां**
 
@@ -880,6 +953,7 @@ Trivendrum,
 [^73]: "कामधिवे ग.  पाठः"
 
 **तृतीयोऽध्यायः ॥**
+
 
 **अथ चतुर्थोऽध्यायः ।**
 
@@ -1460,6 +1534,7 @@ Trivendrum,
 
 **सप्तमोऽध्यायः ॥**
 
+
 **अथ अष्टमोऽध्यायः ।**
 
 **अथाहं भूबलं वक्ष्ये नृपाणां प्रीतयेऽधुना ।**
@@ -1684,5 +1759,182 @@ Trivendrum,
 
 शुभं भूयात् ।**
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 \]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^150]: " बोधाय क. ख.,  भाभाय  ग. पाठः"
+
+
+[^115]: " भा  ग. घ. पाठः"
+
+
+[^68]: "ह ख.पाठः"
+
+
+[^32]: " मणि "

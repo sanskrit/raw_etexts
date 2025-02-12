@@ -19,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU4NjUwNjA3Mzk
 
 # **योगयाज्ञवल्क्यम् \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-![](../books_images/U-IMG-1693928503JB.png)
+<MISSING_FIG href="../books_images/U-IMG-1693928503JB.png"/>
 
 [TABLE]
 
@@ -55,6 +55,7 @@ frequently used bear ample testimony to the truth of the above statement. To a s
 | **'सर्वज्ञे !सर्वशास्त्रविशारदे’** | **(पृ० २. श्लो० १४.)**  |
 | **'पण्डिते !'**                    | **(पृ० ३८. श्लो० १६.)** |
 
+  
 bear out the high standard of instruction imparted to women in times of yore. Again when Gārgi, as an attentive discipleprays as follows:
 
 **"तदेतद्विस्मृतं सर्वं सर्वज्ञ ! तव सन्निधौ ।  
@@ -1537,6 +1538,7 @@ Trivandrum,
 
 ***इति योगयाज्ञवल्क्ये दशमोऽध्यायः ॥***
 
+  
 **    ** **  अथ एकादशोऽध्यायः ।**  
 **इत्येवमुक्ता विधिना याज्ञवल्क्येन धीमता ।  
 ऋषीनालोक्य नेत्राभ्यां वाक्यमेतदुवाच ह ॥१॥**
@@ -2443,4 +2445,3 @@ Apply to:-
                 Trivandrum.  
 
 \]
-

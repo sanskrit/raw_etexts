@@ -13,6 +13,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI
 
 \[
 
+
+
 **॥ योगकुण्डल्युपनिषत् ॥**
 
 योगकुण्डल्युपनिषद्योगसिद्धिहृदासनम्।  
@@ -60,6 +62,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI
 ऊर्ध्वमाकर्षयेत्किंचित्सुषुम्नां कुण्डलीगताम्॥१३॥
 
 तेन कुण्डलिनी तस्याः सुषुम्नाया मुखं व्रजेत्।
+
+
 
 जहाति तस्मात्प्राणोऽयं सुषुम्नां व्रजति स्वतः॥१४॥
 
@@ -116,6 +120,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI
 
 ततः पद्मासनं बद्ध्वा समग्रीवोदरः सुधीः।
 
+
+
 मुखं संयम्य यत्नेन प्राणं घ्राणेन रेचयेत्॥३२॥
 
 यथा लगति कण्ठात्तु कपाले सस्वनं ततः।  
@@ -170,6 +176,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI
 पश्चिमं ताणमुदरे धारयेद्हृदये गले॥४९॥
 
 शनैः शनैर्यदा प्राणस्तुन्दसन्धिं निर्गच्छति।
+
+
 
 तुन्ददोषं विनिर्धूय कर्तव्यं सततं शनैः॥५०॥
 
@@ -226,6 +234,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI
 
 विष्णुग्रन्थिं प्रयात्युच्चैः सत्वरं हृदि संस्थिता।
 
+
+
 ऊर्ध्वं गच्छति यच्चास्ते रुद्रग्रन्थिं तदुद्भवम्॥६८॥
 
 भ्रुवोर्मध्ये तु संभिद्य याति शीतांशुमण्डलम्।  
@@ -280,6 +290,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI
 ब्रह्मग्रन्थिं ततो भित्त्वा विष्णुग्रन्थिं भिनत्त्यतः॥८५॥
 
 रुद्रग्रन्थिं च भित्त्वैव कमलानि भिनत्ति षट्।
+
+
 
 सहस्रकमले शक्तिः शिवेन सह मोदते॥८६॥
 
@@ -336,6 +348,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI
 
 खेचराधिपतिर्भूत्वा खेचरेषु सदा वसेत्।
 
+
+
 खेचरावसथं वह्निमम्बुमण्डलभूषितम्॥१७॥
 
 आख्यातं खेचरीबीजं तेन योगः प्रसिध्यति।  
@@ -391,6 +405,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI
 
 केशान्तमूर्ध्वं क्रमति तिर्यक् शाखावधिर्मुने।
 
+
+
 अधस्तात्कण्ठकूपान्तं पुनर्वर्षत्रयेण तु॥३५॥
 
 ब्रह्मरन्ध्रं समावृत्य तिष्ठेदेव न संशयः।  
@@ -444,6 +460,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI
 पौर्णमास्यां स्थिरीकुर्यात्स च पन्था हि नान्यथा॥२॥
 
 कामेन विषयाकाङ्क्षी विषयात्काममोहितः।
+
+
 
 द्वावेव संत्यजेन्नित्यं निरञ्जनमुपाश्रयेत्॥३॥
 
@@ -500,6 +518,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI
 
 शब्दैरुच्चावचैर्नीचैर्भाषितोऽपि न लिप्यते।
 
+
+
 विश्वश्चतैजसश्चैव प्राज्ञश्चेति च ते त्रयः॥२१॥
 
 विराड्ढिरण्यगर्भश्च ईश्वरश्चेति ते त्रयः।  
@@ -553,6 +573,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzOTkyNjI4MTI
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
+
 # Please dont Edit this page (Blank Page)
+
+
+
 
 \]

@@ -14,6 +14,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3ODMyMDI5MTI
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
  THE
 
      PRINCESS OF WALES
@@ -22,13 +34,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk3ODMyMDI5MTI
 
  No. 13
 
+
 **\_\_\_\_\_\_**
 
+ 
 **THE**
 
 **                           SIDDHA SIDDHĀNTA  
 
 SANGRAHA**
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_  
  **GOVERNMENT SANSKRIT LIBRARY,  
@@ -37,7 +52,11 @@ BENARES
                             
 \_\_\_\_\_\_\_\_\_\_\_\_\_**
 
+
 **1925**
+
+
+
 
 **THE  
  PRINCESS OF WALES  
@@ -70,6 +89,7 @@ BENARES
 **
 1925**  
 
+
 ** बलभदविरचितः**
 
 **  सिद्धसिद्धान्तसंग्रहः  
@@ -90,6 +110,8 @@ BENARES.
 \_\_\_\_\_
 
 ** 1925**
+
+
 
  ** INTRODUCTION**
 
@@ -125,6 +147,7 @@ The fourth section treats of the support (आधार) of the body which is S'a
 
 **॥ श्रीः ॥  
 सिद्धसिद्धान्तसंग्रहः।**
+
 
 **श्रीगणपतिचरणारविन्दाभ्यां नमः।**
 
@@ -480,6 +503,8 @@ The fourth section treats of the support (आधार) of the body which is S'a
 
  **इति सिद्धासद्धान्तसङ्ग्रहे षड्विधपिण्डोत्पत्तिः प्रथमोपदेशः ॥**
 
+
+
 ** द्वितीयोपदेशः।**
 
 नवचक्राणि देहेस्मिन् भवन्तीति विनिश्चितम् ।
@@ -692,9 +717,12 @@ The fourth section treats of the support (आधार) of the body which is S'a
 
 समानं यो न जानाति स योगी नामधारकः ॥४८॥
 
+
 ** इति प्राचीनोक्तिः॥**
 
 **   \_\_\_\_\_\_\_\_\_**
+
+
 
 योगाङ्गानि भवन्त्यष्टौ यमौ नियम आसनम् ।
 
@@ -739,6 +767,7 @@ The fourth section treats of the support (आधार) of the body which is S'a
  **इति सिदसिद्धान्तसङ्ग्रहे पिण्डविचारे द्वितीयोपदेशः।**
 
                \_\_\_\_\_\_\_\_\_\_\_\_\_
+
 
 ** अथ तृतीयोपदेशः।**
 
@@ -926,9 +955,12 @@ The fourth section treats of the support (आधार) of the body which is S'a
 
  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
+
 ** अथ चतुर्थोपदेशः।**
 
  \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 
 पिण्डाधारमथो वक्ष्ये यज्ज्ञानादात्मतत्त्ववित् ।
 
@@ -1101,6 +1133,7 @@ The fourth section treats of the support (आधार) of the body which is S'a
  इति सिद्धसिद्धान्तसंग्रहे चतुर्थोपदेशः ।
 
  \_\_\_\_\_\_\_\_\_\_\_
+
 
 ** अथ पञ्चमोपदेशः ।**
 
@@ -1465,6 +1498,8 @@ The fourth section treats of the support (आधार) of the body which is S'a
 
  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
+
  **अथ सप्तमोपदेशः।**
 
 चार्वाकाश्चतुराः स्वतर्कनिपुणा देहात्मवादे रताः
@@ -1583,8 +1618,11 @@ The fourth section treats of the support (आधार) of the body which is S'a
 
 ** \_\_\_\_\_\_\_\_\_\_\_\_**
 
+
+
 ** शुद्धिपत्रम् ।**
 
+  
  पृष्ठ पंक्ति अशुद्धम्
 शुद्धम् 
 
@@ -1668,5 +1706,16 @@ No. 17- The Nyaya Kalika, by Bhatta Jayanta. Ed. with Introduction by Mm. Gangan
 No. 18 (Part I)- The Gorakṣa siddhanta Sangraha. Ed. with Prefatory Note by Gopinath Kaviraj, M.A
 
  -----------------------
+
+
+
+
+
+
+
+
+
+
+
 
 \]

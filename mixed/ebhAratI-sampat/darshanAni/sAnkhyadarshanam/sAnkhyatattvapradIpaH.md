@@ -12,7 +12,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ2MDM5NzMzNzc
 
 \[
 
+
+
+
+
+
+
+
+
 **अथ सांख्यतत्त्वप्रदीपः**
+
 
   
 श्रीगणेशाय नमः ।
@@ -85,6 +94,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ2MDM5NzMzNzc
 
 ** सांख्यतत्त्वप्रदीपः समाप्तः ॥**
 
+
+
 **--------------------------------------------------------**
+
+
+
+
+
 
 \]

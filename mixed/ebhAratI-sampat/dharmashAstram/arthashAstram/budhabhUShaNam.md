@@ -58,7 +58,7 @@ CLASS C, No. II**
 **RESEARCH INSTITUTE,  
 POONA.**
 
-![](https://www.ebharatisampat.in/ebharati_admin/pages/books_images/1677150881.png)
+<MISSING_FIG href="https://www.ebharatisampat.in/ebharati_admin/pages/books_images/1677150881.png"/>
 
 POONA  
 **Bhandarkar Oriental Research Institute**  
@@ -102,6 +102,7 @@ Bhandarkar Oriental Research Institute, POONA.
 ------------------------------------------------------------------------------------------------------------------
 
 श्रीमच्छंभुनृपविरचितम्  
+  
 
 **॥ बुधभूषणम् ॥**
 
@@ -132,6 +133,8 @@ Bhandarkar Oriental Research Institute, POONA.
 | Chapter II       |
 | Chapter III      |
 | Notes            |
+
+                      
 
 -------------------------------------------------------------------------------------------------
 
@@ -3118,6 +3121,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 क्षुत्पिपासाश्रमायासः शीतवातोष्णपीडनम् ॥ ३४९ ॥
 
 अभियानस्य संगत्या यानं व्यसनमुच्यते ।                 
+  
 
 दुःखं प्रतप्तसिकता कुशकण्टकभूमयः ॥३५०॥
 
@@ -3192,10 +3196,12 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 परं दुरन्तव्यसनेनपनं(नोपपन्नं) यायान्नरेन्द्रो विजयाभिकाङ्क्षी ॥ ३६५
 
 प्रायेण सन्तो व्यसने रिपूणां यातव्यमित्येव समादिशन्ति ।        
+            
 
 य(दा) क्षमस्तु प्रसभं निहन्तुं पराक्रमादूर्जितमप्यमित्रम् ॥ ३६६ ॥
 
 तदैव यायादहितान्हि कुर्वन्नप्यन्तराकर्षणपीडनानि ।           
+              
 
 संपन्नसस्यं विषयं परस्य यायात्प्रमृद्गन्विजयाय राजा ॥ ३६७ ॥
 
@@ -3204,6 +3210,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 सुवीवृधासारविशुद्धमार्गा विशेद्धरित्रीं द्विषतोप्रमत्तः ॥ ३६८ ॥
 
 समे प्रदेशे विषमे च भूमेर्मिश्रेस्थले वा सुमुखेन यायात् ।      
+    
 
 अनातुरः सन्नभयो हि विद्वान्संन्नद्धगल्फो (सैन्यो)
 
@@ -3214,6 +3221,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 ऋतेम्भसाोद्ग्रीष्मकृतात्प्रतापाद्भवन्ति क्रुष्टानि मतङ्गजानाम् ॥ ३७० ॥
 
 स्वस्थक्रियाणाममपिकुञ्जराणामुष्मा शरीरमभिजाज्वलति ।         
+     
 
 आयासयोगेन हि संप्रवृद्धः प्रसह्य हन्ति द्विरदान्प्रतापः ॥ ३७१ ॥
 
@@ -3222,6 +3230,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 सुगन्धिदानस्रुतिसीकरेषु दन्ताभिघातस्फुटितोपलेषु ॥ ३७२ ॥
 
 गजेषु नीलाभ्रसमप्रभेषु राज्यं निरुद्धं पृथिवीपतीनाम् ।        
+        
 
 संकल्पितः संयुगदृष्टमार्गो स्वधिष्ठितो धीरतरेण पुंसाम् \।\। ३७३ \।\।
 
@@ -3238,6 +3247,7 @@ a It was popularly believed that this Kanuja Brahman had been purposely sent by 
 पश्चात्प्रकोपःपुरतः फलं हि पश्वात्प्रकोपश्वततो गरीयान् ॥ ३७६ ॥
 
 पुरश्व पश्वाच्च यदा समर्थस्तदाभियायान्महते फलाय ॥ ३७७ ॥        
+                  
 
 अवश्ययातव्ये रिपौपश्वात्प्रकोपशङ्काया कि कुर्यादित्याह—
 

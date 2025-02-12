@@ -19,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0ODAxODA2NjA
 # Please dont Edit this page (Blank Page)
 
 ** 
-![](../books_images/U-IMG-1690199814Screenshot2023-07-24172507.png)**
+<MISSING_FIG href="../books_images/U-IMG-1690199814Screenshot2023-07-24172507.png"/>**
 
 **    SIVA SAMHITA.  
      CHAPTER I.  
@@ -1302,6 +1302,7 @@ The second and third stages.
 
 41\. In the second stage, there takes place the trembling of the body; in the third, the jumping about like a frog; and when the practice becomes greater, the adept walks in the air
 
+                              
 *Vâyusiddhi*.
 
 **योगी पद्मासनस्थोऽपि भुवमुत्सृज्य वर्तते ।**  
@@ -1972,25 +1973,35 @@ I have told you now the Mahábandha, which shows the way to emancipation. By thi
 अपवित्रः पवित्रो वा सर्वावस्थां गतोऽपिवा।  
 खेचरी यस्य शुद्धा तु स शुद्धो नात्र संशयः॥३३॥
 
+ 
+
 33\. Whether pure or impure, in whatever condition one may be, if success be obtained in Khechari, he becomes pure. There is no doubt of it.
 
 **क्षणार्धं कुरुते यस्तु तीर्त्वा पापमहार्णवम्।  
 दिव्यभोगान्प्रभुक्ता च सत्कुले स प्रजायते॥३४॥**
+
+ 
 
 34\. He who practises it even for a moment crosses the great ocean of sins, and having enjoyed the pleasures of Deva-world is born into a noble family.
 
 **मुद्रैषा खेचरी यस्तु स्वस्थचित्तो ह्यतन्द्रितः।  
 शतब्रह्मगतेनापि क्षणार्धं मन्यते हि सः॥३५॥**
 
+ 
+
 35\. He who practises this Khechari-Mudrā calmly and without laziness counts as seconds the period of hundred Brahmâs.
 
 **गुरूपदेशतोमुद्रां यो वेत्ति खेचरीमिमाम्।  
 नानापापरताे धीमान् स याति परमां गतिम्॥३६॥**
 
+ 
+
 36\. He knows this Khechari-Mudra according to the instructions of his Guru, obtains the highest end, though immersed in great sins.
 
 सा प्राणसदृशी मुद्रा यस्मिन्कस्मिन्न दीयते।  
 प्रच्छाद्यते प्रयत्नेन मुद्रेयं सुरपूजिते॥३७॥
+
+ 
 
 37\. O, ye adored of gods ! this Mudrá, dear as life, should not be given to everybody; it should be kept concealed with great care.
 
@@ -2005,6 +2016,8 @@ I have told you now the Mahábandha, which shows the way to emancipation. By thi
 नाभिस्थवह्निर्जन्तूनां सहस्रकमलच्युतम्।  
 पिबेत्पीयूषविस्तारं तदर्थं बन्धयेदिमम्॥३८॥**
 
+ 
+
 38\. Having contracted the muscles of the throat press the chin on the breast. This is said to be the Jalandhara-Mudrà. Even gods reckon it as inestimable. The fire in the region of the navel (*i.e*., the gastric juice) drinks the nectar which exudes out of the thousand-petalled lotus. \[In order to prevent the nectar to be thus consumed\], he should practise this Bandha.
 
 **बन्धेनानेन पीयूषं स्वयं पिबति बुद्धिमान्।  
@@ -2017,6 +2030,8 @@ I have told you now the Mahábandha, which shows the way to emancipation. By thi
 **जालन्धरोबन्ध एष सिद्धानां सिद्धिदायकः।  
 अभ्यासः क्रियते नित्यं योगिना सिद्धिमिच्छता॥४०॥**
 
+ 
+
 40\. This Jálandhara-Bandha is the giver of success to the practitioner; the Yogi desirous of success should practise it daily.
 
 (6.)—*Mula-Bandha*.
@@ -2027,10 +2042,14 @@ I have told you now the Mahábandha, which shows the way to emancipation. By thi
 बलादपानमाकृष्य क्रमादूर्ध्वं सुचारयेत्।  
 कल्पितोऽयं मूलबन्धो जरामरणनाशनः॥४१॥
 
+ 
+
 41\. Pressing well the anus with the heel, forcibly draw upwards the *apána vâyu* slowly by practice. This is described as the MulaBandha — the destroyer of decay and death.
 
 अपानप्राणयोरैक्यंप्रकरोत्यधिकल्पितम्।  
 बन्धेनानेन सुतरां योनिमुद्रा प्रसिद्धयति॥४२॥
+
+ 
 
 42\. If, in the course of the practice of this Mudra, the Yogi can unite the *apâna* with the *prána* *vayu,* then it becomes of course the Yoni-Mudrâ.
 
@@ -2038,10 +2057,14 @@ I have told you now the Mahábandha, which shows the way to emancipation. By thi
 बन्धस्यास्य प्रसादेन गगने विजितालसः॥  
 पद्मासने स्थितौयोगी भुवमुत्सृज्य वर्तते॥४३॥**
 
+ 
+
 43\. He who has accomplished Yoni-Mudrá, what can he not accomplish in this world. Sitting in the *padmasana* posture, free from idleness, the Yogi, leaving the ground, moves through the air, by virtue of this Mudrâ.
 
 **सुगुप्ते निर्जने देशे बन्धमेनं समभ्यसेत्।  
 संसारसागरं तर्तुंयदीच्छेद्योगि पुंगवः॥४४॥**
+
+ 
 
 44\. If the wise Yogi is desirous of crossing the ocean of the world, let him practise this Bandha in secret, in a retired place.
 
@@ -2051,6 +2074,8 @@ I have told you now the Mahábandha, which shows the way to emancipation. By thi
 
 **भूतले स्वशिरोदत्त्वा खे नयेच्चरणद्वयम्।  
 विपरीतकृतिश्चषा सर्वतन्त्रेषु गापिता ॥ ४५ ॥**
+
+ 
 
 45\. Putting the head on the ground, let him stretch out his legs upwards, moving them round and round. This is *Viparit-karaṇa*, kept secret in all the Tantras.
 
@@ -2437,10 +2462,14 @@ A Secret.
 **या यथास्यानिलाभ्यासात्तद्भवेत्तस्य विग्रहः।  
 तिष्ठेदात्मनि मेधावी संयुतः क्रीडते भृशम्॥४१॥**
 
+ 
+
 41\. According to the strength of one's practice in commanding the *váyu*, he gets command over his body; the wise, remaining in the spirit, enjoys the world in the present body.
 
 एतद्योगं परं गोप्यं न देयं यस्य कस्यचित् ।  
 यः प्रमाणैः समायुक्तस्तमेव कथ्यते ध्रुवम् ॥४२॥
+
+ 
 
 42\. This Yoga is a great secret, and not to be given to every body; it might be revealed to him only, in whom all the qualifications of a Yogi are perceived.
 
@@ -2449,10 +2478,14 @@ Various kinds of Dhâranâ.
 योगी पद्मासने तिष्ठेत्कण्ठकृपे यदा स्मरन् ।  
 जिह्वां कृत्वा तालुमूले क्षुत्पिपासा निवर्तते ॥४३॥
 
+ 
+
 43\. Let the Yogi seat himself in the Padmásana, and fix his attention on the cavity of the throat, let him place his tongue at the base of the palate; by this he will extinguish hunger and thirst.
 
 **कण्ठकूपादधः स्थाने कूर्मनाड्यस्ति शोभना।  
 तस्मिन् योगी मनो दत्त्वा चित्तस्थैर्यं लभेद्भृशम्॥४४॥**
+
+ 
 
 44\. Below the cavity of the throat, there is a beautiful *n*
 
@@ -2465,15 +2498,21 @@ Various kinds of Dhâranâ.
 एतच्चिन्तनमात्रेण पापानां संक्षयो भवेत्।  
 दुराचारोऽपि पुरुषो लभते परमं पदम्॥४५॥**
 
+ 
+
 45\. When the Yogi constantly thinks that he has got a third ye—the eye of Shiva—in the middle of his forehead, he then perceives a fire brilliant like lightning. By contemplating on this light, all sins are destroyed, and even the most wicked person obtains the highest end.
 
 **अहर्निशं यदा चिन्तां तत्करोति विचक्षणः।  
 सिद्धानां दर्शनं तस्य भाषणञ्च भवेदध्रुवम्॥४६॥**
 
+ 
+
 46\. If the experienced Yogi thinks of this light day and night, he sees the Siddhas ( adepts ),and can certainly converse with them.
 
 तिष्ठन् गच्छन् स्वपन् भुञ्जन् ध्यायेच्छून्यमहर्निशम्।  
 तदाकाशमयोयोगी चिदाकाशे विलीयते ॥४७॥
+
+ 
 
 47\. He who conteinplates on sunya (void or vacuun or space), while walking or standing, dreaming or waking, becomes altogether etherial, and is absorbed in the chid âkâsa.
 
@@ -2481,16 +2520,22 @@ Various kinds of Dhâranâ.
 निरन्तरकृताभ्यासान्मम तुल्यो भवेद्ध्रुवम्॥  
 पतज्ज्ञानबलाद्योगी सर्वेषां वल्लभोभवेत्॥४८॥**
 
+ 
+
 48\. The Yogi, desirous of success, should always obtain this knowledge; by habitual exercise he becomes equal to me; through the force of this knowledge, he becomes the beloved of all.
 
 **सर्वान् भूतान् जयं कृत्वा निराशीरपरिग्रहः।  
 नासाग्रे दृश्यते येन पद्मासनगतेन वै॥  
 मनसो मरणं तस्य खेचरत्वं प्रसिद्ध्यति॥४९॥**
 
+ 
+
 49\. Having conquered all the elements, and being void of all hopes and worldly connections, when the Yogi sitting in the Padmâsana, fixes his gaze on the tip of the nose, his mind becomes dead and he obtains the spiritual power called *Khechari.*
 
 **ज्योतिः पश्यति योगीन्द्रः शुद्धं शुद्धाचलोपमम्।  
 तत्राभ्यासबलेनैव स्वयं तद्रक्षको भवेत्॥५०॥**
+
+ 
 
 50\. The great Yogi beholds light, pure as holy mountain (Kailás), and through the force of his exercise in it, he becomes the lord and guardianof the light.
 
@@ -2498,6 +2543,8 @@ Various kinds of Dhâranâ.
 सद्यः श्रमविनाशाय स्वयं योगी विचक्षणः।  
 शिरः पश्चात्तु भागस्य ध्याने मृत्युञ्जयो भवेत्॥  
 भ्रूमध्ये दृष्टिमात्रेण ह्यपरः परिकीर्तितः॥५१॥**
+
+ 
 
 51\. Stretching himself on the ground, let him contemplate on this light; by so doing all his weariness and fatigue are destroyed. By contemplating on the back part of his head, he becomes the conqueror of death. (We have described before the effect of fixing one's attention on the space between the two eyebrows, so it need not be enumerated here).
 
@@ -2513,15 +2560,21 @@ Various kinds of Dhâranâ.
 आद्यभागद्वयं नाड्यःप्रोक्तास्ताः सकला अपि।  
 पोषयन्ति वपुर्वायुमापादतलमस्तकम्॥२३॥**
 
+ 
+
 53\. The third or the most inferior part goes out of the body in the shape of exerement and urine. The first two essences of food are found in the *naḍis*, and being carried by them, they nourish the body from head to foot.
 
 **नाडीभिराभिः सर्वाभिर्वायुः सञ्चरते यदा।  
 तदैवान्नरसोदेहे साम्येनेह प्रवर्तते॥५४॥**
 
+ 
+
 54\. When the váyu moves through all the *nâḍis*, then, owing to this vâyu (oxygen?), the fluids of the body get extraordinary force and energy.
 
 **चतुर्दशानां तत्रेह व्यापारे मुख्यभागतः।  
 ता अनुग्रत्वहीनाश्च प्राणसञ्चारनाडिकाः॥५५॥**
+
+ 
 
 55\. The most important of these *náḍis* are fourteen, distributed in different parts of the body and performing various functions. They are either weak or strong, and the *prána* (vitality) lows through them.
 
@@ -2531,6 +2584,8 @@ Mulâdhâr Chakra.
 **गुदाद्वयंगुलतश्चोर्ध्वं मेढैकांगुलतस्त्वधः।  
 एवञ्चास्ति समंकन्दं समताञ्चतुरंगुलम्॥५६॥**
 
+ 
+
 56\. Two fingers above the rectun and two fingers below the *linga*, four fingers in width, is a space like a bulbous root.
 
 पश्चिमाभिमुखीः योनिर्गुदमेढ्रन्तरालगा।  
@@ -2538,20 +2593,28 @@ Mulâdhâr Chakra.
 संवेष्ट्य सकला नाडीः सार्द्धत्रिकुटलाकृतीः।  
 मुखे निवेश्य सा पुच्छं सुषुम्णाविवरे स्थिता॥५७।
 
+ 
+
 57\. Between this space is the yoni having its face towards the back; that space is called the root ; there dwells the goddess *Kuṇḍalini*. It surrounds all the *nadis*, and has three coils and a half; and catching its tail in its own mouth, it rests in the hole of the *Sushumnâ*.
 
 सुप्ता नागोपमा ह्येषा स्फुरन्ती प्रभया स्वया।  
 अहिवत्सन्धिसंस्थाना वाग्देवी बीजसंज्ञिका ॥५८॥
+
+ 
 
 58\. It sleeps there like a serpent, and is luminous by its own light. Like a serpent it lives between the joints; it is the goddess of speech, and is called the seed (*vija*).
 
 **ज्ञेयाशक्तिरियं विष्णोर्निर्भरा स्वर्णभास्वरा।  
 सत्त्वं रजस्तमश्चेति गुणत्रयप्रसूतिका॥५९॥**
 
+ 
+
 59\. Full of energy, and like burning gold, know this Kuṇḍalini to be the power (shakti) of Vishnu; it is the mother of the three qualities —sattwa ( rhythm ), rajas (energy) and tamas ( inertia).
 
 **तत्र बन्धूकपुष्पाभं कामबीजं प्रकीर्तितम्।  
 कलहेमस्रमंयोगे प्रयुक्ताक्षररूपिणम् ॥६०॥**
+
+ 
 
 60\. There, beautiful like the *Bandhuk*flower, is placed the seed of love (**क्लीँ**) ; it is brilliant like burnished gold, and is described in Yoga as eternal.
 
@@ -2561,16 +2624,22 @@ Mulâdhâr Chakra.
 एतत्त्रयं मिलित्वैव देवी त्रिपुरभैरवी॥  
 बीजसंज्ञंपरंतेजस्तदेव परिकीर्तितम्॥६१॥
 
+ 
+
 61\. The *Sushumná*also embraces it, and the beautiful seed isthere; there it rests shining brilliantly like the autumnal moon, with the luminosity of millions of suns, and the coolness of millions of moons. The goddess Tripúra Bhairavi has these three ( fire, sun, and moon) taken together, and collectively she is called the *vija*. It is also called the great energy.
 
 **क्रिया विज्ञानशक्तिभ्यां युतं यत्परितो भ्रमत्।  
 उत्तिष्ठद्विशतस्त्वम्भः सूक्ष्मंशोणशिखायुतम्॥  
 योनिस्थं तत्परं तेजः स्वयंभूलिंगसंज्ञितम्॥६२॥**
 
+ 
+
 62\. It (*vija*) is endowed with the powers of action (motion) and sensation, and circulates throughout the body. It is subtle, and has a flame of fire; sometimes it rises up, and at other times it falls down into the water. This is the great energy which rests in the perinaeum, and is called the *swayambhu-linga* (the self-born).
 
 **आधारपद्ममेतद्धियोनिर्यस्यास्ति कन्दतः ।  
 परिस्फुरद्वादिसान्तचतुर्वर्णं चतुर्दलम् ॥ ६३ ॥**
+
+ 
 
 63\. All this is called the â*dh*â*r-padma* (the support lotus), and the four petals of it are designated by the letters व (v) श (Ś), ष(ṣ), स (s),
 
@@ -2581,26 +2650,36 @@ Mulâdhâr Chakra.
 यः करोति सदा ध्यानं मूलाधारे विचक्षणः।  
 तस्य स्याद्दर्दुरी सिद्धिभूमित्यागक्रमेणवै॥६४॥**
 
+ 
+
 64\. Near this *Swayambhu-linga* is a golden region called *Kula* (family); its presiding adept is called *Dviraṇda*, and its presiding goddess called *Dâkini*. In the centre of that lotus is the *Yoni* where resides the *Kuṇḍalini*; the circulating bright energy above that, is called *káma-vija* (the seed of love ). The wise man who always contemplates on this *Mulâdhâr* obtains *Dârduri-siddhi* (the frog-jump power); and by degrees he can altogether leave the ground (i.e., rise in the air).
 
 **वपुषः कान्तिरुत्कृष्टा जठराग्निविवर्धनम्।  
 आरोग्यञ्च पटुत्वञ्च सर्वज्ञत्वञ्च जायते॥६५॥**
+
+ 
 
 65\. The brilliancy of the body is increased, the gastric fire becomes powerful, and freedom from discase, cleverness, and omniscience ensue.
 
 भूतं भव्यं भविष्यञ्च वेत्ति सर्वं सकारणम्।  
 अश्रुतान्यपि शास्त्राणि सरहस्यं भवेद्ध्रुवम्॥६६॥
 
+ 
+
 66\. He knows what has been, what is happening, and what is to be, together with their causes; he masters the unheard of sciences together with their mysteries.
 
 **वक्त्रे सरस्वती देवी सदा नृत्यति निर्भरम्।  
 मन्त्रसिद्धिर्भवेत्तस्य जपादेव न संशयः॥६७॥**
+
+ 
 
 67\. On his tongue always dances the goddess of learning, he obtains *mantra-siddhi* (success in mantras), through constant repetition only.
 
 **जरामरणदुःखौघान्नाशयति गुरोर्वचः।  
 इदं ध्यानं सदा कार्यं पवनाभ्यासिना परम्।  
 ध्यानमात्रेण योगीन्द्रो मुच्यते सर्वकिल्विषात्॥६८॥**
+
+ 
 
 68\. This is the dictum of the Guru :- “It destroys old age, death, and troubles innumerable." The practitioner of prâṇâyâma ought always to meditate upon it; by its very contemplation, the great Yogi is freed from all sins.
 
@@ -2616,25 +2695,35 @@ Mulâdhâr Chakra.
 बहिरभ्यन्तरे श्रेष्ठं पूजनीयं प्रयत्नतः।  
 ततः श्रेष्ठतमं ह्येतन्नान्यदस्ति मतं मम॥७०॥
 
+ 
+
 70\. Whatever the mind desires, he gets ; by habitual exercise he sees him, who gives salvation, who is the best both in and out, and who is to be worshipped with great care. Better than Him, I know none.
 
 आत्मसंस्थं शिवं त्यक्त्वा बहिःस्थं यः समर्चयेत्।  
 हस्तस्थं पिण्डमुत्सृज्य भ्रमते जीविताशया॥७१॥
+
+ 
 
 71\. He who, leaving the śiva (God) who is inside, worships that which is outside (*viz*., worships external forms), is like one who throws away the sweetmeat in his hand, and wanders away in search of food.
 
 **आत्मलिंगार्चनं कुर्यादनालस्यं दिने दिने।  
 तस्य स्यात्सकला सिद्धिर्नात्र कार्या विचारणा॥७२॥**
 
+ 
+
 72\. Let one thus meditate daily, without negligence, on his own Swayambhu-linga; and have no doubts that from this will come all powers.
 
 निरन्तरकृताभ्यासात्षण्मासैः सिद्धिमाप्नुयात्।  
 तस्य वायुप्रवेशोपि सुषुम्णायाम्भवेद्ध्रुवम्॥७३॥
 
+ 
+
 73\. By habitual exercise, he gets success in six months; and undoubtedly his *vayu* enters the middle channel (the *Sushumnâ*).
 
 मनोजयञ्च लभते वायुविन्दुविधारणात्।  
 ऐहिकामुष्मिकी सिद्धिर्भवेन्नैवात्र संशयः॥७४॥
+
+ 
 
 74\. He conquers the mind, and can restrain his breath and his semen; then he gets success in this as well as the other world, without doubt.
 
@@ -2647,6 +2736,8 @@ Mulâdhâr Chakra.
 स्वाधिष्ठानाभिधं तत्तु पंकजं शोणरूपकम्।  
 बालाख्यो यत्र सिद्धोऽस्ति देवी यत्रास्ति राकिती ॥७५॥**
 
+ 
+
 75\. The second Chakra is situated at the base of the organ. It has six petals designated by the letters b, bh, m, y, r, l. Its stalk is
 
 called Swâdhisthân, the colour of the lotus is blood-red, its presiding adept is called Bâlâ, and its goddess, Râkini.
@@ -2654,10 +2745,14 @@ called Swâdhisthân, the colour of the lotus is blood-red, its presiding adept 
 वो ध्यायति सदा दिव्यं स्वाधिष्ठानारविन्दकम्।  
 तस्य कामाङ्गनाः सर्वा भजन्ते काममोहिताः॥७६॥
 
+ 
+
 76\. He who daily contemplates on this *Sw*â*dhisth*â*n lotus*, becomes an object of love and adoration to all beautiful goddesses.
 
 **विविधञ्चाश्रुतं शास्त्रंनिःशङ्को वै भवेद्ध्रुवम्।  
 सर्वरोगविनिर्मुक्तो लोके चरति निर्भयः॥७७॥**
+
+ 
 
 77\. He fearlessly recites the various śâstras and sciences unknown to him before; becomes free from all diseases, and moves throughout the universe fearlessly.
 
@@ -2668,6 +2763,8 @@ called Swâdhisthân, the colour of the lotus is blood-red, its presiding adept 
 
 यूषमपि वर्द्धते॥७८॥
 
+ 
+
 78\. Death is eaten by him, he is eaten by none ; he obtains the highest psychic powers like *animâ, laghimâ,* etc. The *vâyu* moves equably throughout his body; the humours of his body also are increased; the ambrosia exuding from the etherial lotus also increases in him.
 
 3.*Maṇipur Chakra.*
@@ -2677,10 +2774,14 @@ called Swâdhisthân, the colour of the lotus is blood-red, its presiding adept 
 **तृतीयं पङ्कजं नाभौ मणिपूरकसंज्ञकम्।  
 दशारंडादिफान्तार्णं शोभितं हेमवर्णकम्॥७९॥**
 
+ 
+
 79\. The third Chakra, called Manipur, is situated near the navel ; it is of golden color, having ten petals designated by the letters d, ḍh,ṇ, t, th, d, dh, n, p, ph.
 
 रुद्राख्योयत्र सिद्धोऽस्ति सर्वमङ्गलदायकः।  
 तत्रस्था लाकिनी नाम्नी देवी परमधार्मिका॥८०॥
+
+ 
 
 80\. Its presiding adept is called Rudra—the giver of all auspicious things, and the presiding goddess of this place is called the most sacred Lakini.
 
@@ -2695,6 +2796,8 @@ called Swâdhisthân, the colour of the lotus is blood-red, its presiding adept 
 
 **जाम्बूनदादिकरणं सिद्धानां दर्शनं भवेत्।  
 ओषधीदर्शनञ्चापि निधीनां दर्शनं भवेत्॥८२॥**
+
+ 
 
 82\. He can make gold, etc., see the adepts (clairvoyantly), discover medicines for diseases, and see hidden treasures.
 
@@ -2721,20 +2824,28 @@ called Swâdhisthân, the colour of the lotus is blood-red, its presiding adept 
 **ज्ञानञ्चाप्रतिमं तस्य त्रिकालविषयम्भवेत् ।  
 दूरश्रुतिर्दूरदृष्टिः स्वेच्छया खगतां व्रजेत् ॥ ८६ ॥**
 
+ 
+
 86\. He gets immeasurable knowledge, knows the past, present and future time; has clairaudience, clairvoyance and can walk in the air, whenever he likes.
 
 **सिद्धानां दर्शनञ्चापि योगिनी दर्शनं तथा।  
 भवेत्खेचरसिद्धिश्च खेचराणं जयन्तथा॥८७॥**
+
+ 
 
 87\. He sees the adepts, and the goddesses known as Yoginis ; obtains the power known as *Khechari*, and conquers all who move in the air.
 
 योध्यायति परं नित्यं बाणलिंग द्वितीयकम्।  
 खेचरी भूचरी सिद्धिर्भवेत्तस्य न संशयः॥८८॥
 
+ 
+
 88\. He who contemplates daily the hidden *Bânalinga*, undoubtedly obtains the psychic powers called Khechari (moving in the air) and Bhuchari (going at will all over the world).
 
 एतद्ध्यनस्य माहात्म्यं कथितुं नैव शक्यते।  
 ब्रह्माद्याः सकला देवा गोपयन्तिपरन्त्विदम्॥८९॥
+
+ 
 
 89\. I cannot fully describe the importance of the meditation of this lotus; even the gods Brahmâ etc, keep the method of its contemplation secret.
 
@@ -2746,31 +2857,43 @@ called Swâdhisthân, the colour of the lotus is blood-red, its presiding adept 
 सुहेमाभं स्वरोपेतं षोडशस्वरसंयुतम्॥  
 छगलाण्डोऽस्ति सिद्धोत्र शाकिनी चाधिदेवता॥९०॥**
 
+ 
+
 90\. This Chakra situated in the throat, is the fifth, and is called the Vishuddha lotus. Its color is like brilliant gold, and it is adorned with sixteen petals and is the seat of the vowel sounds (*i.e*., its sixteen petals are designated by the sixteen vowels-*a, â, i, î,u,û, ri, rî, lri, lrî, e, ai, o, au, am, ah*. Its presiding adept is called *Chhagalânda*, and its presiding goddess is called *śâkini.*
 
 **ध्यानं करोति यो नित्यं स योगीश्वरपण्डितः।  
 किन्त्वस्य योगिनोऽन्यत्र विशुद्धाख्ये सरोरुहे॥  
 चतुर्वेदा विभासन्ते सरहस्या निधेरिव ॥९१॥**
 
+ 
+
 91\. He who always contemplates it, is truly the lord of the Yogis, and deserves to be called wise; by the meditation of this Vishuddha lotus, the Yogi at once understands the four *Vedas* with their mysteries.
 
 **रहःस्थाने स्थिता योगी यदा क्रोधवशोभवेत्।  
 तदा समस्तं त्रैलोक्यं कम्पते नात्र संशयः॥१२॥**
+
+ 
 
 92\. When the Yogi, fixing his mind on this secret spot, feels angry, then undoubtedly all three worlds begin to tremble.
 
 इह स्थाने मनो यस्य दैबाद्यातिलयं यदा।  
 तदा बाह्यं परित्यज्य स्वान्तरे रमते ध्रुवम्॥९३॥
 
+ 
+
 93\. Even, if by chance, the mind of the Yogi is absorbed in this place, then he becomes unconscious of the external world, and enjoys certainly the inner world.
 
 तस्य न क्षतिमायाति स्वशरीरस्य शक्तितः।  
 संवत्सरसहस्रेऽपि वज्रातिकठिनस्य वै॥१४॥
 
+ 
+
 94\. His body never grows weak, and he retains his full strength for a thousand years, it becomes harder than adamant.
 
 यदा त्यजति तद्ध्यानं योगींद्रोऽवनिमण्डले।  
 तदा वर्षसहस्राणि मन्यते तत्क्षणं कृती ॥१५॥
+
+ 
 
 95\. When the Yogi leaves off this contemplation, then to him in this world, thousands of years, appear as so many moments.
 
@@ -2781,30 +2904,42 @@ called Swâdhisthân, the colour of the lotus is blood-red, its presiding adept 
 **आज्ञापद्मं भ्रुवोर्मध्ये हक्षोपेतं द्विपत्रकम्।  
 शुक्लाभं तन्महाकालः सिद्धो देव्यत्र हाकिनी॥९६॥**
 
+ 
+
 96\. The two-petalled Chakra, called the Âjña, is situated between the two eye-brows, and has the letters *h*, and *ksh*; its presiding adept is called *ShuklâMahâkala* (the White Great Time); its presiding goddess is called *Hâkinî*.
 
 शरच्चंद्रनिभं तत्राक्षरबीजं विजृंभितम्।  
 पुमान् परमहंसोऽयं यज्ज्ञात्वा नावसीदति॥९७॥
+
+ 
 
 97\. Within that petal, there is the eternal bija (the syllable **ठँ** ṭham), brilliant as the autumnal moon. The wise anchorite, by knowing this, is never pulled down.
 
 **एतदेव परन्तेजः सर्वतन्त्रेषु मन्त्रिणः।  
 चिन्तयित्वा परां सिद्धिं लभते नात्र संशयः॥१८॥**
 
+ 
+
 98\. This is the great light held secret in all the *Tantras*; by contemplating on this, one obtains the highest success, there is no doubt of it.
 
 **तुरीयंत्रितयं लिंग तदाहं मुक्तिदायकः।  
 ध्यानमात्रेण योगीन्द्रो मत्समो भवति ध्रुवम्॥९९॥**
+
+ 
 
 99.I am the giver of salvation, am the third *linga* in the *turiya* (the state of ecstacy, also the name of the thousand-petalled lotus ). By contemplating on this, the Yogi becomes certainly like me.
 
 इडा हि पिंगला ख्याता वरणासीति होच्यते।  
 वाराणसी तयोर्मध्ये विश्वनाथोत्र भाषितः॥१००॥
 
+ 
+
 100.The two vessels called the *Iḍà* and the *Pingalá* are the real *Varana* and *Asi*. The space between them is called *Vḍrḍnasi* ( Benares, the holy city of śiva). There it is said that the Vishwanâtha (the Lord of the universe) dwells.
 
 **एतत्क्षेत्रस्य माहात्म्यमृषिभिस्ततत्त्वदर्शिभिः।  
 शास्त्रेषु बहुधा प्रोक्तं परं तत्त्वं सुभाषितम् ॥१०१॥**
+
+ 
 
 101\. The greatness of this holy place has been declared in manifold scriptures by the truth-perceiving sages. Its great secret has been very eloquently dwelt upon by them.
 
@@ -2816,6 +2951,8 @@ called Swâdhisthân, the colour of the lotus is blood-red, its presiding adept 
 ततश्चैषा परावृत्य तदाज्ञापद्मदक्षिणे॥  
 वामनासापुटं याति गंगेति परिगीयते ॥१०२॥
 
+ 
+
 102.The *Sushumnâ*goes along the spinal cord up to where the *Brahmarandhra* (the hole of Brahma) is situated. Thence by a certain flexure, it goes to the right side of the Âjña lotus, whence it proceeds to the left nostril, and is called the Ganges.
 
 **ब्रह्मरन्ध्र हि यत्पद्मं सहस्रारं व्यवस्थितम्।  
@@ -2825,10 +2962,14 @@ called Swâdhisthân, the colour of the lotus is blood-red, its presiding adept 
 अमृतं वहति धारा धारारूपं निरन्तरम् ॥  
 वामनासापुटं याति गंगेत्युक्ता हि योगिभिः॥१०३॥**
 
+ 
+
 103\. The lotus which is situated in the *Brahmarandhra* is called *Sahasrâra* (the thousand-petalled). In the space in its centre, dwells the moon. From that triangular place, elixir is continually exuding. This moon-fluid of immortality unceasingly flows through the *Iḍâ*. The elixir flows in a stream, —a continuous stream. Going to the left nostril, it receives from the Yogis the name of the “ Ganges.”
 
 आज्ञापङ्कजदक्षांसाद्वामनासापुटंगता।  
 उदग्वहेति तत्रेडा वरणा समुदाहृता ॥१०४॥
+
+ 
 
 103\. From the right-side portion of the Â
 
@@ -2838,10 +2979,14 @@ jña lotus and going to the left nostril flows the *Iḍà.* It is here called V
 तदाकारा पिंगलापि तदाज्ञाकमलान्तरे॥  
 दक्षनासापुटेयाति प्रोक्तास्माभिरसीति वै ॥१०५॥
 
+ 
+
 105\. Let the Yogi contemplate on the space between the two (*Iḍâ and Pingalá*) as *Varanasi* ( Benares). The *Pingala*also comes in the same way from the left side portion of the Âjña lotus, and goes to the right nostril, and has been called by us the *Asi.*
 
 **मूलाधारे हि यत्पद्मं चतुष्पत्रं व्यवस्थितम्।  
 तत्र मध्येहि या यानिस्तस्यां सूर्यो व्यवस्थितः॥१०६॥**
+
+ 
 
 106\. The lotus which is situated in the Muládhar has four petals. In the space between thern, dwells the sun.
 
@@ -3453,4 +3598,3 @@ the universe, wherever he likes; he sees the pores of the earth, i.e., he sees t
   पंचमः पटलः समाप्तः॥५॥ शुभम्॥**
 
 \]
-

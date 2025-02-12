@@ -17,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MjIyNDY3Njg
 
 |                                            |
 |:------------------------------------------:|
-| ![](../books_images/U-IMG-1724773509न.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1724773509न.png"/> |
 
 [TABLE]
 
@@ -41,9 +41,9 @@ it has been shown elsewhere[^1]that the Tantras are of a very recent origin and 
 
  The Pārānanda Sūtra mentions[^2]
 
-for instance, Agniṣoma and thus refers to the famous Pañcarātra doctrine of Akşara Brahma, which has been inculcated in all Pāñcarātra Samhitās, particularly in the Ahirbudhnya and Jayākhya Samhitās. The Pañcarātras hold that Para Brahman being restless with superfluous energy transforms himself in the form of Agni and Soma representing the long and short vowels of the alphabet[^3]
-
 [^2]: "p. 29. Sūtra, 20, तदुदरतोऽन्यतः सर्वतः अचिन्त्यैश्वर्यावग्नीषोमो।"
+
+for instance, Agniṣoma and thus refers to the famous Pañcarātra doctrine of Akşara Brahma, which has been inculcated in all Pāñcarātra Samhitās, particularly in the Ahirbudhnya and Jayākhya Samhitās. The Pañcarātras hold that Para Brahman being restless with superfluous energy transforms himself in the form of Agni and Soma representing the long and short vowels of the alphabet[^3]
 
 [^3]: "See Jāyakhyasamhitā, introduction, pp. 24, 25; and text— प्रकाशस्तु भवेत्सूर्य आह्लादः सोम उच्यते पुमान् स एव चिन्मूर्त्तिरग्नीषोममयो द्विज॥p.58 षोडशाक्षर आद्यस्तु अकाराद्यो द्विजोत्तम विसर्गान्तः स्थितस्तस्मिन्ननीषोमात्मकः प्रभुः॥ p.42"
 
@@ -51,9 +51,9 @@ for instance, Agniṣoma and thus refers to the famous Pañcarātra doctrine of 
 
 as Pumān. From Pumān are originated the Vyañjanas or the consonants of the alphabet and the creative Tattvas beginning with Mahat and ending in the Earth. This Pumān while presiding over the Pradhāna or Primordial matter becomes conscious of his possession, wants many more things to create, and thus obtains the name of Puruşeśvara[^4]
 
-.
-
 [^4]: "See ibid, intro. pp.24, 25"
+
+.
 
  Now the doctrine of Akşara Brahman as has been shown in the Foreword to the Jayākhyasaṁhitā is, in a full fledged form, a product of the 5th century A. D[^5]., and as the Pārānanda Sūtra
 
@@ -91,15 +91,15 @@ Hinduism[^11]. Furthermore, the deity Bhūtaḍāmara who is described in the Bu
 
  Among the authors above mentioned Muktaka must have belonged to a period not later than 1100 A.D.,as the Sadhana composed by him appears in the Cambridge manuscript of the Sadhanamālā which bears a date in the Newari Era corresponding to 1165 A.D[^15]
 
-.
-
 [^15]: "Sadhanamālā Vol.II; intro.p.cv."
+
+.
 
 Karuṇācala, the second, twice mentions Līlās'ani or Līlāvajra as his preceptor, and we know from other sources that Līlāvajra flourished about A.D.741. Being his disciple Karuņācala may be placed approximately at A.D.753 taking twelve years' average for one succession between a Guru and his disciple[^16]
 
-. Indrabhūti who has also composed a Sādhana for Kurukulla is a famous personality in the history of Tantric literature as the king of Uḍḍiyāna and as the father of Guru
-
 [^16]: "op.cit.Vol.II.intro.p.xcix."
+
+. Indrabhūti who has also composed a Sādhana for Kurukulla is a famous personality in the history of Tantric literature as the king of Uḍḍiyāna and as the father of Guru
 
 Padmasambhava who went to Tibet to reform the State religion there and built the first regular monastery at Samye along with his brother-in-law and collaborator, the famous S'āntārakṣita. Indrabhūti owing to these reasons has been placed in cir. A.D.717[^17]. He wrote several works among which the Jñanasiddhi has already been published in the *Gaekwad's Oriental Series.* Besides Indrabhūti there was another Siddhācāryya who is credited with the authorship of a Sadhana for Kurukulla. He is Kṛṣṇācāryya popularly known as Kanhupā. This Kṛṣṇa was born of a Brahmin family of Orissa and was initiated into the mystic cult by Jalandharīpā. Kṛṣṇa's disciple was a weaver. He was a great composer of verses in vernacular and several of them have been published in the *Bauddha Gān O Dohā*by Mahamahopadhyaya Haraprasad Shastri. Kṛṣṇācāryya was a disciple of Jalandharīpā and must have flourished in about 717 A. D.[^18]
 
@@ -156,7 +156,7 @@ the learned and much-respected scholar who lived at Benares during the reign of 
 
 [^25]: "p.92 Sūtras 31-33."
 
-![](../books_images/U-IMG-1725002896Screenshot2024-08-30125744.png)
+<MISSING_FIG href="../books_images/U-IMG-1725002896Screenshot2024-08-30125744.png"/>
 
  Though the names Khadgapras'niddha and Yamaparakrama sound as of later origin, we cannot say so with any certainty, looking to the fact that in our ancient literature, the patronymic names, nick-names and even epithets are found to be freely used for real names of persons. It is quite possible that the above names, which appear to us to be of recent origin, may belong to any of the above classes. Moreover, we have no more proofs for asserting their late or recent origin, unless it is that they sound so to our ears. Pārānanda Sutra occupies a unique position among the Tantrik works printed up to the present day, as it represents the Kalpasūtra of a new S'ākhā; and it is likely to become a subject of keen interest and study owing to this very reason in the eyes of such among the learned scholars who wish to make a comparative study of Tantrik works. The work is also valuable because it supplies about fifty important names of Tāntrik Ācāryas and works. If the names are examined, we shall find that they are mainly divided into two classes: one referring to Acaryas who were famous and whose names are familiar to us; and the other to the less familiar or less famous persons who lived very probably in the time of our author. Those, who are referred to, by name, may be classed under four groups. The first group consists of names ending in Bhairava; the second consists of names ending in Agni; the third group consists of names ending in the names of the deity worshipped by the Tantrika; while the fourth consists of names ending in Ananda. Those with Bhairava endings probably belonged to the Bhairava sect of the Tantriks. This school must have once occupied a highly prominent position, as can be inferred from the S'antisukta of the Tantrikas in which the words: "Bhairavo'ham S'ivo'ham" are
 
@@ -216,9 +216,9 @@ colours as are harmonious to the deity whose Mantra he wishes to take. He should
 
  When, in spite of his observing the above rules, the neophyte fails to get the desired result according to the principles of Dakṣa-mārga or the right path, he is allowed to take the Vāmadīkṣā or the initiation into the left path from the proper Guru. The latter should be selected on a very careful and mature consideration, after he is convinced of his wonderful abilities and supernatural attainments. And even after being initiated into the Vāmadīkṣā, the neophyte should in the initial stages manage to proceed with his practices strictly with the help of the substitutes (suggested in the place of flesh, liquor, etc.) He should take special care not to cause even the slightest injury to his powers of self-control and mental concentration. The Upāsaka is similarly cautioned[^30]
 
-even when he happens to be the follower of the Uttara-marga. It is also stated[^31]
-
 [^30]: "Vide pp.13 sūtra4;15-46,48,50;19-31,32."
+
+even when he happens to be the follower of the Uttara-marga. It is also stated[^31]
 
 [^31]: "p.39,sūtras 33 & 34."
 
@@ -543,7 +543,7 @@ Baroda,
 | उपदीक्षोत्तरदीक्षे     |   २३   |                              |        |
 
 अथ श्रीपारानन्दसूत्रम्।  
-![](../books_images/U-IMG-1726636460image_2024-09-18_104418773.png)
+<MISSING_FIG href="../books_images/U-IMG-1726636460image_2024-09-18_104418773.png"/>
 
 श्री॥ॐ॥ अथ परमात्मने नमः॥
 
@@ -747,9 +747,9 @@ Baroda,
 
 ललाटे० ति०॥९२॥[^35]
 
-कौशिकीभक्तो रक्तवासा रक्तमाल्यानुलेपनो रक्तसुवर्णाभरणो ललाटे खड्गः शिरसि कौशिकीपदं वामबाहुमूले घण्टा दक्षबाहुमूले त्रिशूलं हृद्यरविन्दमेवं चिह्नचिह्नितो भवेत्॥९३॥
-
 [^35]: "सूत्रे ९४ तमे पूर्णः पाठः।"
+
+कौशिकीभक्तो रक्तवासा रक्तमाल्यानुलेपनो रक्तसुवर्णाभरणो ललाटे खड्गः शिरसि कौशिकीपदं वामबाहुमूले घण्टा दक्षबाहुमूले त्रिशूलं हृद्यरविन्दमेवं चिह्नचिह्नितो भवेत्॥९३॥
 
 **ललाट एकमेव चिह्नमन्यत्र चतुर्षु बिन्दूनेक इच्छन्ति**॥९४॥
 
@@ -1092,15 +1092,11 @@ Baroda,
 
 अनाद्यनन्त०[^36] ति॥५५॥
 
-[^36]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
-
 **शिवस्य** पार्वती शक्तिर्डमरुत्रिशूलाद्यायुधानि मुण्डमालाद्याभरणानि वृषो वाहनमित्येतच्छिवमय**मेके**॥५६॥
 
 **नैके**॥५७॥
 
 अनाद्यनन्त०[^36] ति॥५८॥
-
-[^36]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
 
 **सूर्यस्य** संज्ञाशक्तिः शङ्खश्चक्रमायुधं कुण्डलाद्याभरणानि हययुग्रथो वाहनमित्येतसूर्यमय**मेके**॥५९॥
 
@@ -1108,15 +1104,11 @@ Baroda,
 
 अनाद्यनन्त०[^36] ति॥६१॥
 
-[^36]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
-
 **कौशिक्या**श्चण्डिका शक्तिः खड्गाद्यायुधानि पङ्कजस्त्रक्कुण्डलाद्याभरणानि सिंहो वाहनमित्येतत्कौशिकीमय**मेके**॥६२॥
 
 वाहन**न्नैके**॥६३॥
 
 अनाद्यनन्त०[^36] ति॥६४॥
-
-[^36]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
 
 **काल्याः** कुरुकुल्लाशक्तिः खड्गमायुधं मुण्डमालाद्याभरणं स एव वाहनम्। महा-
 
@@ -2360,13 +2352,19 @@ Baroda,
 
  सौहार्देन त्वां समनज्मीत्युच्चैरुद्धुष्यालिङ्गयेत्समम्॥५५॥
 
+ 
+
 **तूष्णीमिति केचित्**॥५६॥
 
  स्त्री ज्येष्ठाभिवाद्या कनिष्ठा**शिषा** योज्या यदि समा स्यात्पुंसा तर्ह्यशिषैव योज्या पुंसा॥५७॥
 
  पुमानुत्तुङ्गाङ्गाधिकः स्त्रीभ्यस्तस्मात्पुमान् ज्यायान्स्त्रीभ्यः पुरुषो भोक्ता स्त्रियो भोग्या भोग्याद्भोक्तुर्महत्त्वादाशिषा योज्याः स्त्रियः समाः॥५८॥
 
+ 
+
 **स्त्रीणां यौनज्येष्ठत्वमेवाभिवाद्यत्वे हेतुभूतं** नान्ये गुणा अभिवाद्यत्वे हेतवः॥५९॥
+
+ 
 
 **अथाढ्यताभिवादकस्य** यथा स्यात्तथाऽभिवाद्यस्तस्मिन्वर्तेत॥६०॥
 
@@ -2442,11 +2440,15 @@ Baroda,
 
  सजलजलदश्यामां दशवार्षिकीं खड्गमुण्डाभयवरकरां चतुर्भुजां नागभूषणां वा सिन्दूरलिप्तां रक्तचन्दनलिप्तां वा व्याघ्रचर्माम्बरां हस्तिचर्माम्बरां दिगम्बरां वा शवकरकृतमेखलां वा सिंहस्थां शवासनां वा कुरलचिकुरशोभितशिरसं आसवामोदानन्दितां मुद्राभक्षणलालसां तृप्तां तर्पयन्तीं भक्तजनविहारदर्शनकृतकौतुकाह्लादां सकलविद्यावाग्विहारां समरप्रियां रणमण्डलरुधिरास्वादपरां कुरुकुल्लाशक्तियुतां मनुष्यविग्रहां कालिकां ध्यायेद्भक्त इति **ध्यानं कालिकायाः**॥९३॥
 
+ 
+
 **ताराद्या** महाविद्याः सिंहस्थाश्च॥९४॥
 
  महाविद्यानां पृथक्पृथगाकाराणि **वाहनानीच्छन्ति**॥९५॥
 
  पादाङ्गुष्ठसदृशस्थूलस्त्रिवितस्तिर्दण्डस्तदधः षडङ्गुलः त्सरुर्दण्डोर्ध्वतश्चतुरङ्गुल आकाशाकारस्तत्परितोऽर्धचन्द्राकार एतदाकारः **परशुः**॥९६॥
+
+ 
 
 **त्सरु**रायुधमुष्टिः॥९७॥
 
@@ -2456,9 +2458,13 @@ Baroda,
 
  **नागः पाशः**॥१००॥९००॥
 
+ 
+
 **कमलदण्डो** द्विवितस्तिः॥१॥
 
  तदीयेन मानेनोत्थितो **मूषकः** सप्तवितस्तिरुच्छ्रित आयतस्तदनु वितस्तिः॥२॥
+
+ 
 
 **विघ्नेशः** स्ववितस्त्योत्थितः सप्तवितस्तिरुच्छ्रितस्तदनुकूलो यथायथमायतः॥३॥
 
@@ -2486,6 +2492,8 @@ Baroda,
 
  अञ्जलिमितायतो वितस्तिमात्रो दीर्घः **शङ्को विष्णोः**॥१५॥
 
+ 
+
 **कुरुकुल्ला**शक्तिः खड्गाभयकरा **चण्डिकाश**क्तिश्च॥१६॥
 
  त्रिवितस्तिदीर्घो द्विवितस्तिदीर्घो वोपकनिष्ठिकामध्यातर्जनीभिरूर्ध्वग्राभिरायतोऽच्छिन्नाग्रबिल्वमध्यदलो द्विधारो मध्यत एकरेषो रेषात उभयतो नीचप्रवण उभयतस्तीक्ष्णधारः॥१७॥
@@ -2493,6 +2501,8 @@ Baroda,
  षडङ्गुलत्सरुक एतदाकारः **खङ्गः**॥१८॥
 
  एकवितस्तिदीर्घी अञ्जलिमितायता नीचैर्वर्तुला उच्चैरेकदण्डा अन्तस्थलोलदण्डा करव्यापारेण नादकरी एतदाकारा **घण्टा**॥१९
+
+ 
 
 **काद्या महाविद्याः सर्वा** दशवार्षिक्यः॥२०॥
 
@@ -2518,9 +2528,15 @@ Baroda,
 
  पल्लवरागताम्रं द्विभुजं चतुर्मुखं दक्षिणेऽक्षमालां वामे कमण्डलुं दधानं सप्तवार्षिकं पल्लवरागताम्रवस्त्रं हंसविमानस्थं पल्लवरागताम्रगन्धचर्चितं सरस्वतीयुतं मनुजाकृतिं ध्यायेद्भक्त **इति ध्यानं ब्रह्मणः**॥३१॥
 
+ 
+
 **सरस्वती**शक्तिः सप्तवार्षिकी श्वेताम्बरा श्वेतस्रगनुलेपना हंसविमानवाहना॥३२॥
 
+ 
+
 **दक्षाचारसेव्यत्वं ब्रह्मणः**॥३३॥
+
+ 
 
 **विघ्नेशादिवदिति नारायणः**॥३४॥
 
@@ -2545,6 +2561,8 @@ Baroda,
  तस्मिन्मनः स्थिरीकरणं **ध्यानम्**॥४४॥
 
  संस्कारशास्त्रोक्तं नित्याद्यनुष्ठानमधिकारिणा हिंसामुत्सृज्य तदनुकृतं **कर्मयोगः**॥४५॥
+
+ 
 
 **श्रुतितन्त्रस्मृतिपुराणानां** तदनुसम्पादितं ज्ञानमधिकारिणा **ज्ञानयोगः**॥४६॥
 
@@ -2636,6 +2654,8 @@ Baroda,
 
  चतुर्भिश्चतुर्ष्वन्यतमेन वा हिंसा सेवनपूर्वकेण सेवितेनैकाङ्गेन परा भक्तिरुदेति तया साद्यनन्तवपुःप्राप्ति**रित्येके**॥८३॥
 
+ 
+
 **अर्चको द्विधा**॥८४॥
 
  उत्तमो मध्यमः॥८५॥
@@ -2654,6 +2674,8 @@ Baroda,
  पारानन्दानामित्यनुशासनान्न स्वहृत्पद्मे न गुरौ नार्हे प्राणिनीशमर्चयेन्न सूर्यमण्डलेऽभ्यमीशमर्चये**त्पारानन्दः**॥९०॥
 
  प्रवहज्जलमेव शुद्धो**दकमित्येके**॥९१॥
+
+ 
 
 **अर्चनं त्रिविधम्**॥९२॥
 
@@ -2691,9 +2713,13 @@ Baroda,
 
  गृही विप्रः कार्पासातिरिक्तं न धारयेत्॥
 
+ 
+
 धृत्वा स्नात्वा प्राणायामत्रयं कृत्वा घृतं प्राश्य विशुध्यतीति **बृहस्पतिः**॥२३॥
 
  शाक्तसौरवाक्रतुण्डाश्चेद्गृहस्था रक्तं शैवस्तथैव चेच्छ्वेतं वैष्णवस्तथैव चेत्पीतमिति **कश्चित्**॥२४
+
+ 
 
 **अथाचमनं वक्ष्यामः**॥२५॥
 
@@ -2713,13 +2739,19 @@ Baroda,
 
  एतदाचमनमौत्तर एव कुर्यान्नो इतर **इत्यानन्दः**॥३३॥
 
+ 
+
 **यदाचामति तेनात्मानं मेध्यं कुरुते सर्वकर्मस्वर्ह कुरुते**॥३४॥
 
  यद्द्विराचामति तेनात्मान स्नातं कुरुते **स्नानस्यैषोऽनुकल्पः**॥३५॥
 
  ऐश्वरेषु दैवेषु च बद्धशिखो यज्ञोपवीती धृतवस्त्रोऽङ्कितोऽर्हो भवति तस्मादैश्वरेषु देवेषु च कर्मसु सर्वेषु बद्धशिखो यज्ञोपवीती धृतवस्त्रस्या**दौ निषेधात्**॥३६॥
 
+ 
+
 **अङ्कनं** व्याख्यातम्॥३७॥
+
+ 
 
 **अथ तस्य द्रव्याणि वक्ष्यामः**॥३८॥
 
@@ -2743,9 +2775,13 @@ Baroda,
 
  सन्ध्यामुपास्य स्वेष्टां देवता परिचरेत्॥४८॥
 
+ 
+
 **यदङ्कितो भवति तत्पाप्मानं निरसति**॥४९॥
 
  वामी चेत्तान्त्रिकी सन्ध्या निर्वर्त्य स्वेष्टा परिचरेत्॥५०॥
+
+ 
 
 **यत्सन्ध्यामुपास्ते तेनार्चने स्वात्मानमधिकृतं कुरुते**॥५१॥
 
@@ -2769,6 +2805,8 @@ Baroda,
 
  याः पृथक् पृथक् शिला भवन्ति तस्मात्ताः प्राणभृतां न वपूंषि पाषाणाः प्राणभृतां न वपूंषि तस्मात्तेष्वर्चये**त्पारानन्दः**॥६१॥
 
+ 
+
 **शालिग्रामः सर्वेषामेवैश्वराणां प्रतीकं** तस्माच्छालिग्रामे सर्वानेवार्च्चयेत्॥६२॥
 
  शालय ईश्वरास्तेषां शालीनां ग्रामभूतोऽयं प्रस्तरस्ततस्तस्मात्तेष्वर्चयेत्सर्वान्॥६३॥
@@ -2781,7 +2819,11 @@ Baroda,
 
  यदि **स्थण्डिले** पूजयति तयोर्देवतापादयोः स्थिरभक्तिमान्संपद्यते॥६७॥
 
+ 
+
 **यद्युदके** पूजयति देवताभक्तिरसिक एव संपद्यते॥६८॥
+
+ 
 
 **यद्यग्नौ** पूजयति स उज्ज्वलः संपद्यते वपुषाऽऽरोग्येणाऽऽयुषा यशसा दीप्त्या भक्तया॥६९॥
 
@@ -3854,9 +3896,13 @@ Baroda,
 
  तीर्थाभिगमनं वा एकविंशतिरुपवासानामाचरणं सर्वप्रायश्चित्तं उपवासश्चानशनं जलमात्राशनं वा एतस्य कृतस्य एतेन कृतेन फलं नोद्भविष्यति इति ज्ञानं मुण्डनं प्रति वृद्धानां लोम्नां भ्रूयुगपक्ष्मरोमाणि विना शिखावर्जं केशानां श्मश्रूणां च मुण्डनं बृद्धानां स्नानाचमनाङ्कनानि **प्रायश्चित्तमात्रस्य पुरस्तात्पश्चाच्चैतान्यन्वितानि भवन्ति**॥१७॥
 
+ 
+
 यस्मिन्नहनि प्रायश्चित्ताचरणं तस्मात्षष्ठेऽहनि मुण्डनाद्याचरणमिति पश्चाद्भवति
 
 ॥१८॥
+
+ 
 
 इति प्रायश्चित्तक्रमो व्याख्यातः
 
@@ -4090,4 +4136,3 @@ Baroda,
 —————
 
 \]
-

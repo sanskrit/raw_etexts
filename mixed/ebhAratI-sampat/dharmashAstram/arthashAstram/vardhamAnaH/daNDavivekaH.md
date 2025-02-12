@@ -87,9 +87,9 @@ Corporeal punishment is of three kinds, viz., infliction of pain, mutilation of 
 
   Mutilation is of fourteen kinds, inasmuch as there are fourteen parts of the body which can be mutilated. The fourteen parts are hand, leg, organ of generation, eye, tongue, ear, nose, half-tongue, half-leg, thumb and the second finger taken together (सदंश), forehead, upper lip, rectum, and waist.¹[^2]
 
-   We have next a note to explain "Death Proper ".
-
 [^2]: "1 हस्ताङ्घ्रि-लिङ्ग-नयनं जिङ्का-कर्णौ च नासिका। जिङ्का - पादार्थ-संदंश-ललाटौठगुदं कटिः॥"
+
+   We have next a note to explain "Death Proper ".
 
    Death Proper is of two kinds, viz., pure and mixed. Pure Death is also of two kinds, viz., simple and complicated. SimplePure Death" can be effected by the stroke of a sword. while the complicated variety occurs as the result of the use of various means, e.g., riding on a stake. Mixed Death is caused by the combination of mutilation with other punishments.
 
@@ -147,9 +147,9 @@ In the case of thefts of all objects of small value, the punishment shall be fiv
 
 In the case of paddy-stealing, the punishment should exceed ten *Kumbhas.¹*[^4]
 
-**Application**
-
 [^4]: "1 A messi of grain, equal to sixty-four seers."
+
+**Application**
 
 Punishment varies in accordance with five causes, viz., absolute immunity from, mitigation, equability, and aggravation of punishment, and special treatment. The following classes of persons enjoy absolute immunity from punishment, viz., preceptor, officiating priest, brahmacãrin, king, child, old person, and a person suffering from fell diseases: Persons  
 who commit a crime on a sudden provocation or under theinfluence of intoxicants, or who are confirmed lunatics also enjoy absolute immunity. Brahmins as a caste enjoy the following privileges, viz., they must be allowed passage while going, they can enter other persons' dwelling houses for asking alms, they can take fuel, flower, and Kusa grass from others' premises, and they can speak to others' wives. Moreover, of the three kinds of corporeal punishments, the Brahmins are honourably exempted from the last two, viz., mutilation and death. The only corporeal punishment which can be meted out to them is infliction of pain in the shape of imprisonment or imprinting their person. In severe cases like killing of an embryo, defiling the preceptor's wife (lit. bed), stealing gold, and drinking alcohol, the neck, the rectum, the foot of a dog, and the penis should be respectively imprinted onthe forehead and the offending Brahmîn should be transported from the territory, with his wearing apparel and valuables, but should never be put to death.
@@ -398,13 +398,13 @@ Imprisonment, again, is of three kinds, viz., simple, rigorous, and solitary. Th
 
 The following table illustrates the punishments laid down in the Dandaviveka. Those marked with an asterisk are also prescribed in the Indian Penal Code. The rest are obsolete in modern times :--
 
-![](../../../books_images/U-IMG-1690549421Capture.PNG)
+<MISSING_FIG href="../../../books_images/U-IMG-1690549421Capture.PNG"/>
 
 ***The Author***
 
 The Author, Vardhamana Upadhyaya, was the son of the poet Bhavesa, and belonged to the Bilvapañcaka family of Mithilā. His patron was the King Bhairava of Tirabhukti (modern Tirhoot Division of Bihar), who was the husband of Jaya, the celebrated patroness of Vacaspati Miśra, who wrote the work Dvaitanirnaya at the instance of that noble lady. In the sixth verse of the introduction Vardhamana has spoken of Gandaka Miśra as his elder brother and of Sankara and Vācaspati as his teachers१[^371]. There were many persons of the name of Vācaspati and three persons of the name of Vacaspati Miśra. Here, Vardhamana undoubtedly refers to the famous निबन्धकारofVâcaspati Miśra of Mithila, the author of Dvaitanirnaya. Because both Vardhamana and this Vacaspati Miśra are writers on Smrti, residents of Mithila, and contemporaries, as appears from the fact that their respective patrons are Bhairava and Jaya, husband and wife.
 
-[^371]: " ज्यायान् मण्ङकमित्रः शङ्करवाचस्पती च गुरवः।  निखिलनिबन्धसमासप्रयासमेनं ममाऽनुजानन्तु॥"
+[^371]: # " ज्यायान् मण्ङकमित्रः शङ्करवाचस्पती च गुरवः।  निखिलनिबन्धसमासप्रयासमेनं ममाऽनुजानन्तु॥"
 
 Vācaspati Miśra flourished in the first half of the sixteenth century, and so Vardhamana must belong to that period. Moreover, Vardhamana is quoted by Raghunandana whose time is the second half of the sixteenth century.
 
@@ -588,7 +588,7 @@ KANALAKRSNA SMRTITĪRTHA
 
 **दण्डविवेकः।**
 
-![](../../../books_images/U-IMG-1689228040Untitled.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1689228040Untitled.png"/>
 
 **श्रीगणेशाय नमः।**
 
@@ -2191,7 +2191,7 @@ KANALAKRSNA SMRTITĪRTHA
 **इति श्रीवर्द्धमानकृतौ दण्डविवेके दण्डपरिकरपरिच्छेदः  
 प्रथमः॥ १ ॥**
 
-**![](../books_images/U-IMG-1699279006Untitled-imp-1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699279006Untitled-imp-1.png"/>**
 
 **अथ मनुष्यमारणदण्डः।**
 
@@ -2396,7 +2396,7 @@ KANALAKRSNA SMRTITĪRTHA
 
 **द्वितीयः॥**
 
-**![](../books_images/U-IMG-1699279006Untitled-imp-1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699279006Untitled-imp-1.png"/>**
 
 **अथ स्तेयदण्डः।**
 
@@ -3955,6 +3955,7 @@ KANALAKRSNA SMRTITĪRTHA
 **सुवर्णरजतादीनामुत्तमानाञ्च वाससाम् ।  
 रत्नानाञ्चैव सर्व्वेषां शतादभ्यधिके वधः॥**
 
+                                
 **इतिनारदसम्वादात् ।**
 
   कामधेनौ तु मनुवचने दम इत्यत्र वध इत्येव पठितं मिताक्षरापि तथैव । स चायं वधो ब्राह्मणद्रव्यत्वे मारणं अन्यत्र तु अङ्गच्छेदादिरिति नारायणः।  
@@ -4138,7 +4139,7 @@ KANALAKRSNA SMRTITĪRTHA
 
 **इति महामहोपाध्याय-धर्म्माधिकरणिकश्रीवर्द्धमानकृतौ दण्डविवेकेस्तेयपरिच्छेदस्तृतीयः**॥
 
-![](../books_images/U-IMG-1699279911Untitled-imp-1.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699279911Untitled-imp-1.png"/>  
 **चतुर्थः परिच्छेदः।**
 
 **अथ परदाराभिमर्षणदण्डः।**
@@ -5615,7 +5616,7 @@ KANALAKRSNA SMRTITĪRTHA
 **इति महामहोपाध्याय-धर्माधिकरणिक-श्रीवर्द्धमानकृतौ दण्डविवेके  
 वाक्पारुव्यदण्डपरिच्छेदः पञ्चमः॥**
 
-**![](../books_images/U-IMG-1699280431Untitled-imp-1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699280431Untitled-imp-1.png"/>**
 
 **अथ दण्डपारुष्यदण्डः।**
 
@@ -5793,6 +5794,7 @@ KANALAKRSNA SMRTITĪRTHA
 
 [^255]: "ख भग्नयुगे ।"
 
+ 
 छिन्ननस्स्येछिन्ननासासमुद्धरज्जौभिन्नयुगेयुगकाष्ठभेदेप्रतिमुखागते प्रत्यावृत्यागत इति नारायणः।
 
 तिर्य्यक् प्रतिमुखागते इतितिर्य्यक्प्रतिमुखञ्च यत् तत्प्रतिबोधादगतगमनं तेनतिर्य्यक् प्रतिमुखविरोधिगमनस्ययानान्तरबलेन यदपरस्य यानस्यागमनादितरदपि नदण्डहेतु इत्यर्थ इति रत्नाकरः।
@@ -6204,7 +6206,7 @@ KANALAKRSNA SMRTITĪRTHA
 
 [^277]: "तत्रा"
 
-[^372]: "ङ पुस्तके अश्व —"
+[^372]: # "ङ पुस्तके अश्व —"
 
 अत्रहि पूर्व्वप्रतीके ब्राह्मणाततायिना युद्धमात्रमनुज्ञातं तच्च तन्निवारणमात्राभिप्रायमुत्तरप्रतीके युद्धप्रमञ्जितां हिंसामाशङ्क्यतस्याः प्रतिषेधात् ।
 
@@ -6436,7 +6438,7 @@ KANALAKRSNA SMRTITĪRTHA
 **इति महामहोपाध्याय धर्म्माधिकरणिक - श्रीवर्द्धमानकृतौ दण्डविवेके  
 दण्डपारुष्यदण्डपरिच्छेदः षष्ठः**।
 
-![](../books_images/U-IMG-1699280890Untitled-imp-1.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699280890Untitled-imp-1.png"/>  
 
 **अथ प्रकीर्णदण्डः ।**
 
@@ -7929,9 +7931,9 @@ KANALAKRSNA SMRTITĪRTHA
 **दीर्घौ नवशता कार्य्या त्रिशता विस्तृता स्मृता ॥**  
 **सहस्रेण तडागः स्यादयुतेन तु सागरः।**[^337]
 
-अथ विषाग्न्यादिप्रयोगे याज्ञवल्क्यः,-
-
 [^337]: "१ क पुस्तके अधिकः पाठः-  द्रोणैश्व दशभिर्वापी आहारो विंशकैः स्मृतः।  आहारपञ्चकैस्तद्वत् सागरः प्ररिकीर्त्तितः॥"
+
+अथ विषाग्न्यादिप्रयोगे याज्ञवल्क्यः,-
 
 **विषाग्निनांस्त्रियञ्चैव पुरुषघ्नीमगर्भिणीम्**  
 **सेतुभेदकरीञ्चैव शिलां बद्ध्वाप्रवेशयेत्॥**  
@@ -7973,7 +7975,9 @@ KANALAKRSNA SMRTITĪRTHA
 **राज्ञः कोषापहन्तॄश्च प्रतिकूलेष्ववस्थितान् ।**  
 **घातयेद्विविधैर्दण्डैररीणाञ्चोपजायकान् ॥**
 
- कोषो राज्ञोऽर्थसञ्चयः। राज्ञः प्रतिकूलेष्ववस्थितान् तदाज्ञाव्याघातकारिण इति मनुटीका । उपजापकान्राष्ट्रभेदकानिति रत्नाकरः। शत्रूणां राज्ञा सह [वैर](#)बुद्धिकारिण इति कुल्लूकभट्टः। अरीणां सम्बन्धिन उपजापकान् विप्रकृतिभेदकानिति नारायणः।
+ कोषो राज्ञोऽर्थसञ्चयः। राज्ञः प्रतिकूलेष्ववस्थितान् तदाज्ञाव्याघातकारिण इति मनुटीका । उपजापकान्राष्ट्रभेदकानिति रत्नाकरः। शत्रूणां राज्ञा सह वैर[^373]बुद्धिकारिण इति कुल्लूकभट्टः। अरीणां सम्बन्धिन उपजापकान् विप्रकृतिभेदकानिति नारायणः।
+
+[^373]: #
 
 एतद्वचनं मिताक्षराकृता कोषापहरणादौ वध एवेति कृत्वावतारितं व्याख्यातञ्च विविधैः सर्व्वस्वापहाराङ्गच्छेदवधरूपैरित्यर्थ इति ।
 
@@ -8052,6 +8056,7 @@ KANALAKRSNA SMRTITĪRTHA
 
  यत्तु प्रव्रज्यावसितानां प्रवासनाङ्कन - दासीकरणादि पूर्वमुक्तं तत् कामचारविषयमिदन्वशक्तिविषयमिति न विरोधः।
 
+                         
 **अथ पुत्रादिहीनाया धनं गृह्णतः परस्य दण्डः। **
 
 तद्भर्त्तृदायमित्युपक्रम्य कात्यायनः, -
@@ -8864,7 +8869,7 @@ KANALAKRSNA SMRTITĪRTHA
 
 **इति महामहोपाध्याय वर्द्धमानकृतौ दण्डविवेके प्रकीर्णकदण्डपरिच्छेदः सप्तमः।**
 
-**![](../books_images/U-IMG-1699281789Untitled-imp-1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699281789Untitled-imp-1.png"/>**
 
 **श्रीबिल्वपञ्चान्वयसम्भवेन श्रीमद्भवेशस्य तनूद्भवेन।  
 श्रीवर्धमानेन विदेहभर्तुःकृते कृतो दण्डविधौ विवेकः॥**  
@@ -8887,7 +8892,9 @@ KANALAKRSNA SMRTITĪRTHA
 
 **श्रीगुरवे नमः।**
 
-**![](../books_images/U-IMG-1699281917Untitled-imp-1.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1699281917Untitled-imp-1.png"/>**  
+
+    
 
 **दण्डविवेकधृतानां विधिनिषेधात्मकप्रमाणानामादि-**
 
@@ -8922,4 +8929,3 @@ KANALAKRSNA SMRTITĪRTHA
 [TABLE]
 
 \]
-

@@ -22,7 +22,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NzQwNDU0MjQ
 
 **PREFACE.**
 
-**![](../books_images/U-IMG-17352984591.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17352984591.jpg"/>**
 
  THE Sarvadarsanasangraha is a work by Mádhaváchárya, the well-known scholiast of the Vedas. It contains short notices ofall the systems of Indian Philosophy, and as such is very valuable.It is natural to suppose that every Indian Sanskrit scholar wouldhave possessed a copy of a treatise of so much importance.But it is somewhat singular that manuscripts of the work arevery rare, and that the great majority of the learned of thiscountry are probably not even aware of its existence. If notprinted now, the Sarvadarsanasangraha would, in all probability,share the common fate of many other valuable relics of Sanskrit learning. To preserve the work from destruction I proposed to the Asiatic Society of Bengal to edit the work for them ifthey would undertake to print it. My offer was kindly accepted,and the work, under their auspices, is printed and published.
 

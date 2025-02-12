@@ -12,6 +12,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI2Njk1MDgxNDQ
 
 \[
 
+
+
+
+
   
 
 **॥**
@@ -19,6 +23,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI2Njk1MDgxNDQ
 श्रीः॥
 
  संवित्सिद्धिः
+
+
 
 \*{
 
@@ -4224,6 +4230,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI2Njk1MDgxNDQ
 
 }\*
 
+
+
 अविद्याया भिन्नाभिन्नत्वाभ्यामनिर्वचनीयत्वं निरस्य तस्याः स्वरूपानुपपत्तिमप्याह\*
 
 {
@@ -7947,6 +7955,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI2Njk1MDgxNDQ
 
 }\*
 
+
+
 \*{
 
 इति श्रीनगपुरी (तिरुनाङ्गूर) दिव्यदेशाभिजनेन प्रतिवादिभयङ्कराचार्यान्वय
@@ -8019,6 +8029,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI2Njk1MDgxNDQ
 
 }\*
 
+
+
 -------- -------------- ------
+
 
 \]

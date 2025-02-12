@@ -26,10 +26,10 @@ Pages - 203
 Publication Year - 1954  
 Barcode EAN.UCC-13
 
-![](../books_images/U-IMG-1693634160Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1693634160Capture.PNG"/>
 
                   
-![](../books_images/U-IMG-1690606407Screenshot2023-07-27145234.png)
+<MISSING_FIG href="../books_images/U-IMG-1690606407Screenshot2023-07-27145234.png"/>
 
 **श्री**
 

@@ -13,6 +13,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg0ODAyNTA5NTA
 
 \[
 
+
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
  .. Yogachudamani Upanishad ..  
  ॥ योगचूडामण्युपनिषत् ॥  
@@ -594,5 +596,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg0ODAyNTA5NTA
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Please send corrections to sanskrit@cheerful.com
 
 Last updated April 25, 2000
+
+
+
+
+
 
 \]

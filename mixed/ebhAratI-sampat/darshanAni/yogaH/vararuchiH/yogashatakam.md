@@ -115,6 +115,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MDU0Nzc3OTY
 |        ६९ डाकिनीदेवीपिशाचविषवाधाविषमज्वरका उपचार        |
 |               ७० सबप्रकारकेविषका उपचार                 |
 
+    
+
 |                                                        |
 |:------------------------------------------------------:|
 |                      **विषय **                      |
@@ -160,7 +162,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MDU0Nzc3OTY
 
 इत्यनुक्रमणिका समाप्ता  
 
-![](../books_images/U-IMG-1698381984Screenshot2023-10-27at10.15.13AM.png)
+<MISSING_FIG href="../books_images/U-IMG-1698381984Screenshot2023-10-27at10.15.13AM.png"/>
 
 **॥ श्रीः ॥**
 
@@ -880,7 +882,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MDU0Nzc3OTY
 **वसत रामगंगा निकट, नगर सुरादाबाद।  
 तहाँ भजन हरिको करत, नित 'ज्वालाप्रसाद'॥२॥**
 
-![](../books_images/U-IMG-1699884901Screenshot2023-11-13at7.39.28%E2%80%AFPM.png)
+         
+<MISSING_FIG href="../books_images/U-IMG-1699884901Screenshot2023-11-13at7.39.28%E2%80%AFPM.png"/>
 
 **विक्रय्य पुस्तकें**
 

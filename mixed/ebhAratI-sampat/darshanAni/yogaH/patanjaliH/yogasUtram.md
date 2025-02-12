@@ -5954,9 +5954,9 @@ as the force empowering the mento-emotional energy.**
 This ends the description of higher yoga practice, given to us by Śrī Patañjali Muni, that authority for all times. Undoubtedly, Śrī Patañjali Mahamuni covered everything in the mystic practice of yoga. Allglories unto him.
 
 ***END*  
-![](../books_images/U-IMG-1691672254Screenshot2023-08-10182609.png)**
+<MISSING_FIG href="../books_images/U-IMG-1691672254Screenshot2023-08-10182609.png"/>**
 
-![](../books_images/U-IMG-1692616885Screenshot2023-08-21164641.png)
+<MISSING_FIG href="../books_images/U-IMG-1692616885Screenshot2023-08-21164641.png"/>
 
 **Glossary with *Word-for-Word* Meanings**
 
@@ -7849,6 +7849,7 @@ ya    ra    la     va
          **Aspirate**:     ह            
 śa    ṣa   sa                        
              ha                     
+                              
 
 Vowels:
 

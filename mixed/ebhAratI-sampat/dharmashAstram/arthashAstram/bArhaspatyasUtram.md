@@ -266,9 +266,9 @@ V. THE SMRITI OF BRIHASPATI.
 
 S. B. E. Vol. XXXIIIBut these fragments are also incomplete. An exhaustive collection of all the sayings of Brihaspati will not be a fruitless task for some future scholar.[^4]
 
-VI KAUTILYAAND BRIHASPATI.
-
 [^4]: "After the above lines were written I read in the Vedic Magazine that Pandit Jaideva Vidyalankar of the Gurukul Kangri is busy with this work and will shortly bring out this useful collection."
+
+VI KAUTILYAAND BRIHASPATI.
 
  Just as the views attributed to the school of Manu by Kautilya and his follower Kâmandaka are not to be met with in the present law-book of Manu, so also the views ascribed to the school of Brihaspati by Kautilya are not found in the collected fragments of Brihaspati. Brihaspati is referred to on six different occasions by Kautilya. See pages. 6, 29, 63, 177, 192,and 375. *(Text, second edition)*
 
@@ -343,9 +343,9 @@ December, 1920.
  The text here edited with a translation was brought to notice in the course of a search for a celebrated treatise, also ascribed to a Brihaspati, namely the exponent of the Lokâyata or Cârvâka doctrine,the crude corporealism of India. The discovery of this work, to judge from the quotations in the Sarra-darshana-samgraha and elsewhere, would contribute notably to the entertainment of students of Sanskrit literature.  
  The present treatise is not devoid of interest, but the interest is of a different character. The work is in one respect unique, being an exposition of the Science of Royal Policy in Sûtra style. This Indian science may claim no ordinary place in the history of culture,since two of its suceedanea, the policy in fable and the game of chess, still styled the Royal Game, bave made the conquest of the world. In its pure form as a science of monarchical government it does not seem to have passed beyond the Indian sphere, that is the sphere dominated by Indian culture, including Further India, the Malay countries, Central Asia, and Tibet : for,though the Muhammadans have a science of government, which may go back to pre-Islamic Persia, it does not seem to betray an Indian inspiration. And Macchiavelli's Prince, if influenced at all, as is à priori quite conceivable,by oriental models,would derive rather from the Muhammadan than the Indian. The propagation of the policy in fable (the Fables of Pilpay) was first adumbrated by Sir William Jones, in a sentence\*[^5]
 
-which has been expanded by Benfey, with remarkable learning, into an important treatise; just as another sentence from the same eminent scholar developed in the hands of Bopp into the science of Comparative Philology.
-
 [^5]: "From the Third Annual Discourse prefixed to his translaton of the Hitopadesha"
+
+which has been expanded by Benfey, with remarkable learning, into an important treatise; just as another sentence from the same eminent scholar developed in the hands of Bopp into the science of Comparative Philology.
 
   In its technical form the Indian science of polity first became known by the publication of the Kâmand- a'ci-Nitisâra with selections from the commentary (e lited by Râjendralâl Mitra and others in Bibliotheca Indica, 1861-1884). The next stage is represented by two valuable publications of Professor Formichi, a translation of the work of Kâmandaki and a treatise entitled Gli Indiani e la loro Scienza politica (Bologna,1890). In 1908 a notable paper by Professor Hillebrandt drew attention to a number of quotations from a prose work ascribed to Cânakya, also known as Vishnugupta and Kautilya, which was plainly the original authority upon which the later scholastic expositions by Kâmandaki and others were based. Prof. Hillebrandt was unaware at the time that this original treatise had already been discovered in South India, and that the discoverer, Pandit Shania Shastri of Mysore, had published an article dealing with it in the Indian Antiquary (1905, pp. 5 sqq.) and had commenced to issue a translation in the Mysore Review (1906-9, completed in the Indian Antiquary for 1909-10), of which publications notice was taken in Mr Vincent Smith's Early History of India (Oxford, 1907, pp. 134 sqq.)
 
@@ -359,7 +359,7 @@ been favoured with a perusal of proof-sheets I was able to draw attention (J. R.
 
 **एतत्ते[^233] राजधर्माणां नवनीतं युधिष्ठिर \।**
 
-[^233]: "I have introduced here the original shloks for the benefit of the reader. B. Datta."
+[^233]: # "I have introduced here the original shloks for the benefit of the reader. B. Datta."
 
 **बृहस्पतिर्हि भगवान्नायं धर्मंप्रशंसति ॥ १ ॥**
 
@@ -501,13 +501,13 @@ or not, I am unable to demonstrate. That it was in the Grantha character is prov
 |      शकुन्त ३|८३॥       |     हिमवत् ३|७०॥      |
 |   शालग्राम ३|८०,१२०॥    |      हूण ३|१०३॥       |
 
-![](../books_images/U-IMG-1690208436swat.PNG)  
+<MISSING_FIG href="../books_images/U-IMG-1690208436swat.PNG"/>  
 
-![](../books_images/U-IMG-1690221545Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1690221545Capture.PNG"/>
 
 **शतपथ ब्राह्मणम्**
 
-**![](../books_images/U-IMG-1690221608Capture1.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1690221608Capture1.PNG"/>**
 
 ## (शुक्ल यजुर्वेदीय काणव शाखीय )
 
@@ -764,9 +764,9 @@ DEVANAGARI CHARACTERS
 
 ईक्षणस्मितेन स्वागतेन शूद्रान्न[^46]
 
-॥७३॥
-
 [^46]: " M नम् ।"
+
+॥७३॥
 
 अभीष्टद्रव्यदानेन बालवृद्धादीन्[^47] ॥ ७४ ॥
 
@@ -774,9 +774,9 @@ DEVANAGARI CHARACTERS
 
 अन्त्यपाषण्डादीन्वाङ्मात्रेणापि न[^48]
 
-॥७५॥
-
 [^48]: "Mincludes in the next sútra."
+
+॥७५॥
 
 कार्यगुरु[^49]\[४क\] तयाऽनुगच्छेत्[^50] ॥७६॥
 
@@ -802,9 +802,9 @@ DEVANAGARI CHARACTERS
 
 अन्त्यजं[^55]
 
-त्वनन्त्य[^56]जातिनम्
-
 [^55]: "W अत्य० l"
+
+त्वनन्त्य[^56]जातिनम्
 
 [^56]: " अना० ।"
 
@@ -818,7 +818,9 @@ DEVANAGARI CHARACTERS
 
 सर्वं ज्ञात्वा न कुर्यात् ॥ ८५॥
 
-धर्मगुप्तिः [गृहयात्रागुप्तिः](॑# " W•यात्रा० । ") कार्यगुप्तिः वैरगुप्तिः यशोभङ्गे सत्यमपि नेति वदेत् ॥८६॥
+धर्मगुप्तिः गृहयात्रागुप्तिः[^234] कार्यगुप्तिः वैरगुप्तिः यशोभङ्गे सत्यमपि नेति वदेत् ॥८६॥
+
+[^234]: ॑# " W•यात्रा० । "
 
 चिकित्सकज्योति[^57]\[४ख\]षमन्त्रवादिनः संग्रहेत्
 वृत्तशीलसम्पन्नान्[^58] ") \।\।८७॥
@@ -945,9 +947,9 @@ DEVANAGARI CHARACTERS
 
 लौकायतिकाभिधानपाषण्[^78]
 
-डी॥१२॥
-
 [^78]: "W आभिधन० ।"
+
+डी॥१२॥
 
 यदा चण्डाल उदारसुरामांसादिकामेच्छुस्तदा कापालिकाभिधानपाषण्डी ॥१३॥
 
@@ -1144,7 +1146,7 @@ DEVANAGARI CHARACTERS
 
   इति बार्हस्पत्यसूत्रे द्विती \[१०क\] योऽध्यायः ॥
 
-![](../books_images/U-IMG-1689933246Screenshot2023-07-21152350.png)
+<MISSING_FIG href="../books_images/U-IMG-1689933246Screenshot2023-07-21152350.png"/>
 
 **\[ तृतीयोऽध्यायः । \]**
 
@@ -1590,11 +1592,11 @@ DEVANAGARI CHARACTERS
 
 इति बार्हस्पत्यसूत्रे तृतीयोऽध्यायः ॥
 
-![](../books_images/U-IMG-1689935122Screenshot2023-07-21155507.png)
+<MISSING_FIG href="../books_images/U-IMG-1689935122Screenshot2023-07-21155507.png"/>
 
  \[ चतुर्थोऽध्यायः । \]
 
-![](../books_images/U-IMG-1689935259Screenshot2023-07-21155729.png)
+<MISSING_FIG href="../books_images/U-IMG-1689935259Screenshot2023-07-21155729.png"/>
 
 ब्राह्मे मुहूर्त उत्थानम् ॥१॥
 
@@ -1718,8 +1720,6 @@ DEVANAGARI CHARACTERS
 
 पुनः कार्याण्युपायानि[^198] M W. ") निरूप्य स्वामिनं प्रसाद्य कार्यंकल्पयितव्यम् ॥४३॥
 
-[^198]: " Sic (neut.
-
 प्रमत्तेष्वभियुक्तेषु दैवोपहतेषु च न सिध्यन्ति विक्रमाः ॥४४॥
 
 अप्रमत्तं धर्मज्ञं[^204] जितेन्द्रियं विजिगीषु वलिषु जातकोपंदुराधर्षं प्रति विक्रमो न कार्यः[^205] ॥४५॥
@@ -1746,7 +1746,7 @@ DEVANAGARI CHARACTERS
 
 इति बार्हस्पत्यसूत्रे चतुर्थोऽध्यायः ।
 
-![](../books_images/U-IMG-1689935646Screenshot2023-07-21160345.png)
+<MISSING_FIG href="../books_images/U-IMG-1689935646Screenshot2023-07-21160345.png"/>
 
 **\[ पञ्चमोऽध्यायः । \]**
 
@@ -1771,8 +1771,6 @@ DEVANAGARI CHARACTERS
 साम पूर्वंप्रयोक्तव्यम् ॥८॥
 
 \[१९क\] मनसोऽभिप्रायं[^208]") वाचः प्रीतिकर्म च ॥९॥
-
-[^208]: "Sic (neut.
 
 ज्ञातीनां ज्ञातयो व्यसने हृष्यन्ति ॥१०॥
 
@@ -1852,7 +1850,7 @@ DEVANAGARI CHARACTERS
 
 इति बार्हस्पत्यसूत्रे पञ्चमोऽध्यायः ।
 
-![](../books_images/U-IMG-1690646132Screenshot2023-07-29212517.png)
+<MISSING_FIG href="../books_images/U-IMG-1690646132Screenshot2023-07-29212517.png"/>
 
 **\[ पष्ठोऽध्यायः । \]**
 
@@ -1894,7 +1892,7 @@ DEVANAGARI CHARACTERS
 
 इति बार्हस्पत्यसूत्रे षष्ठोऽध्यायः ।
 
-![](../books_images/U-IMG-1690646476Screenshot2023-07-29213055.png)
+<MISSING_FIG href="../books_images/U-IMG-1690646476Screenshot2023-07-29213055.png"/>
 
 **BRIHASPATI SÛTRA**
 
@@ -2410,6 +2408,8 @@ might even dry the ocean.
                      **\_\_\_\_\_\_\_\_\_\_\_\_**
 
 III (VIDYÁ).
+
+     
 
 1Manliness is the quality of one superior to weakness.
 
@@ -3056,4 +3056,3 @@ So in the *Brihaspati Sûtra* the Sixth Chapter.
                        F. W. THOMAS.
 
 \]
-
