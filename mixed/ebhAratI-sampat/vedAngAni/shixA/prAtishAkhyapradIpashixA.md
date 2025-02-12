@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU4MzYyMTMxNzU
 
 \[
 
+
+
+
+
 **प्रातिशाख्यप्रदीपशिक्षा ।**
+
+
 
 अथ प्रातिशाख्यप्रदीपशिक्षाऽऽरभ्यते  
 हेरम्बं विघ्नहर्तारं प्रणमामि सरस्वतीम्  
@@ -177,5 +183,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU4MzYyMTMxNzU
 **इति प्रातिशाख्यप्रदीप शिक्षा समाप्ता \।**
 
 **---------------------------------------------------**
+
+
+
+
+
 
 \]

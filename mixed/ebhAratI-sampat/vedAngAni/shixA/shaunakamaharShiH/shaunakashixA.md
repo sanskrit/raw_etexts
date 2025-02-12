@@ -13,7 +13,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5MjcxNjgwOTA
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **शौनकशिक्षा ॥**
+
 
 सर्वज्ञं सर्वकर्तारं सर्वात्मानं शिवं गुरुम्  
 प्रणम्यर्क्षु प्रवक्ष्यामि वर्णोच्चारणलक्षणम् १  
@@ -154,5 +170,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5MjcxNjgwOTA
 ** इति शौनक शिक्षा समाप्ता**
 
 **-------------------------------------**
+
+
+
+
+
+
+
+
+
+
+
 
 \]

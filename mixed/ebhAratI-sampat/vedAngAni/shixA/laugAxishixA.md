@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNTkyNDM2ODU
 
 \[
 
+
+
 laugakshi_shiksha  
 लौगाक्षि शिक्षा  
 महेन्द्रो मलय सह्यः शुक्तिमान्वृक्षपर्वतः  
@@ -406,5 +408,6 @@ laugakshi_shiksha
 उदाहरणं पंचमी  
 समाप्तमिति  
                  इति लौगाक्षि शिक्षा समाप्ता
+
 
 \]

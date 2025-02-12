@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzExODY2NDk
 
 \[
 
+
+
 kaundinya_mysore_shiksha  
 कौण्डिन्य शिक्षा  
 एकश्रुतिं क्वचिद्विंद्यात्क्वचिच्च विहितं स्वरम्  
@@ -186,5 +188,6 @@ kaundinya_mysore_shiksha
 नित्यस्वाध्याय शीलत्वं दया सत्यं च संयमः ८५  
 तेन शुद्धिमवाप्नोति देवत्वं चाधिगच्छति ८६  
        इति कौंडिन्य शीक्षा षडशीति समाप्तं
+
 
 \]

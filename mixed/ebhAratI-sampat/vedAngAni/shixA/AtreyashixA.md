@@ -12,7 +12,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgwOTc3MjYyNzk
 
 \[
 
+
+
+
+
+
 **आत्रेयशिक्षा**
+
+
 
 आत्रेयोक्तेषु सूत्रेषु स्थितोऽनिङ्ग्यपदान्यहम्  
 श्लोकरूपेण वक्ष्यामि सौकर्याय सुपाठिणाम् १  
@@ -72,5 +79,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgwOTc3MjYyNzk
 **आत्रेय शिक्षा संपूर्णम् ।**
 
 **------------------------------------**
+
+
+
+
+
 
 \]

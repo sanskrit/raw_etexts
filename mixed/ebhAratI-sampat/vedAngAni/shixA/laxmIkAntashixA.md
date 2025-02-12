@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzNTIzOTQ2NDc
 
 \[
 
+
+
 lakshmikanta_shiksha  
 लक्ष्मीकान्त शिक्षा  
 रक्षा वैदिकवर्णानां शिक्षा दुर्मतिरक्षसाम्  
@@ -35,5 +37,6 @@ lakshmikanta_shiksha
 वर्णक्रमचतुश्लोकीं वर्णक्रमविचक्षणाः  
 पाठतश्चार्थतो ज्ञात्वा विजयध्वं दिशो दश  
                       इति लक्ष्मीकान्तशिक्षा
+
 
 \]

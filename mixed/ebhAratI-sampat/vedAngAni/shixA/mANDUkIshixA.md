@@ -13,9 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIzMjIwMzI2NjQ
 
 \[
 
+
+
 **अथर्ववेदीया माण्डूकी शिक्षा**
 
    MĀNDŪKĪ SHIKSHĀ
+
+
 
 तिस्रो वृत्तयोऽनुक्रान्ता द्रुतमध्यमविलम्बिताः  
 यथानुपूर्वं प्रथमा द्रुता वृत्तिः प्रशस्यते॥१॥
@@ -566,6 +570,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIzMjIwMzI2NjQ
 मण्डूकेन कृतां शिक्षां विदुषां बुद्धिदीपिनीम्  
 यो हि तत्त्वेन जानाति ब्रह्मलोकं स गच्छति १८१  
 
+
 इत्यथर्वणवेदीया माण्डूकीशिक्षा समाप्ता  
+
+
 
 \]

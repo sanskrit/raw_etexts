@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NTg3ODkyNjU
 
 \[
 
+
+
         अथ लध्वमोघानन्दिनी शिक्षाऽऽ-
+
+             
 
 रभ्यते ॥
 
@@ -58,7 +62,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NTg3ODkyNjU
 
 यदेव लक्षणं यस्य वकारस्यामि तङ्गवेत्।
 
+
+
                          शिक्षासंङ्ग्रहे
+
+            
 
              यत्र यत्र विशेषः स्यात्तदिदानीं तु कथ्यते। ॥१०॥
 
@@ -91,5 +99,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2NTg3ODkyNjU
       ज्ञीयते॥१७॥ इति श्री लघ्वमोघानन्दिनी शिक्षा
 
 समाप्ता ॥
+
 
 \]

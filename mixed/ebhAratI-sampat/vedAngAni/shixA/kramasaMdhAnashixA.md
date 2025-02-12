@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MjgwMzU2ODc
 
 \[
 
+
+
 kramasandhana_shiksha  
 क्रमसंधान शिक्षा  
 यथा समाम्नातङ्क्रमावसानं सङ्क्रमेषु । क्रमशास्त्रानुसारेण सन्धानं प्रोच्यतेऽधुना १  
@@ -81,5 +83,6 @@ kramasandhana_shiksha
 एभ्योऽन्यत्र संहितानुसारेण निर्णयः
 
        इति क्रमसन्धानशिक्षा समाप्ता
+
 
 \]

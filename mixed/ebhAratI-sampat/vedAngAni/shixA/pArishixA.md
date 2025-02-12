@@ -13,9 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjE0MDc1MDk
 
 \[
 
+
+
 **पारिशिक्षा**
 
 **PĀRI SHIKSHĀ**
+
+
 
 प्रणिपत्य जगन्नाथं वासुदेवं सनातनम्  
 गणाधिपं गिरां देवीं शिक्षां वक्ष्ये यथामति
@@ -583,6 +587,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjE0MDc1MDk
 यदुक्तं केवले वर्णे शास्त्रादि द्वित्वागमादिकम्  
 तत् सर्वमङ्गवर्णोक्तौ प्रयुञ्जीयाद्यथाविधि
 
+
+
 **                                 पारि शिक्षा समाप्ता**
+
 
 \]

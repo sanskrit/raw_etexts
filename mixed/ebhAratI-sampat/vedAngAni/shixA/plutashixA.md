@@ -12,7 +12,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEwOTc3ODMxNTY
 
 \[
 
+
+
+
+
+
+
 **प्लुतशिक्षा\।**
+
 
 बृहस्पतिसुतस्याग्निहोत्रं जुहोति संश्रवा द्वे द्वे  
 मित्रोऽसि सप्त प्रथमत्वष्टा ब्रह्मवादिनोऽद्भिर्मनुरेकमेकम् येदेकेन यजुषा वाग्वै  
@@ -48,5 +55,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEwOTc3ODMxNTY
  इति प्लुत शिक्षा समाप्ता \।**
 
 **----------------------------------**
+
 
 \]

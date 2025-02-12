@@ -12,7 +12,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk2ODQ3MzIxOTQ
 
 \[
 
+
+
+
+
 **रावणबैण्परिभाषा**
+
 
 पदादि निहता कारः पदान्तो नः पदान्ततः  
 प्रगृहश्च पदाद्यात्स्यादिंग्यं श्लिष्टावसानकम् १  
@@ -79,6 +84,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk2ODQ3MzIxOTQ
 
 देवासुराः । इत्येवं क्रमेण वर्णान्प्रस्तारे प्रयोजयेत् । \]
 
+
+
 **------------------------------------------**
+
 
 \]

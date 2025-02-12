@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQwMTk5NTk5MjE
 
 \[
 
+
+
+
+
+
 **व्यालिशिक्षा**
+
 
  प्रथमः व्यालिशिक्षाप्रारंभः  
 व्यालिशिक्षां प्रवक्ष्यामि ब्रह्मणानुमतः पुरा  
@@ -32,8 +38,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQwMTk5NTk5MjE
 पुनश्च मध्यमपदमारब्धव्यमनन्तरम्  
 पूर्ववत्सन्धितः कुर्याद्घन एवं विधीयते ८
 
+
+
 **इति व्यालिशिक्षा समाप्ता ।**
 
 **-----------------------------------**
+
+
+
 
 \]

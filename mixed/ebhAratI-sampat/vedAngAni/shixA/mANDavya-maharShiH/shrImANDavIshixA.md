@@ -13,7 +13,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5OTY4MzgxMzE
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **माण्डव्य शिक्षा**
+
 
 माण्डव्यमहर्षिप्रणीता शिक्षा  
 अथातः संप्रवक्ष्यामि शिष्याणां हितकाम्यया  
@@ -92,5 +108,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5OTY4MzgxMzE
 ** इति श्रीमाण्डवी शिक्षा समाप्ता ।**
 
 **----------------------------------------------------**
+
+
+
+
+
+
+
+
+
+
+
 
 \]

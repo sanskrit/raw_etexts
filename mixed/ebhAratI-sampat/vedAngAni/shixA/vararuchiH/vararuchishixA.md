@@ -13,7 +13,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4NjY1MzMwMzU
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **वररुचिशिक्षा ।**
+
 
 वररुचिशिक्षा मूलप्रारंभः  
 गजाननं च वरदं प्रणम्य गिरिजासुतम्  
@@ -276,6 +292,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4NjY1MzMwMzU
 पयः पूर्णमिवामृत्वं हरन् धीरो यथा मति १२९  
  **इति वररुचिशिक्षा समाप्ता ॥**
 
+
+
 **--------------------------------------------------**
+
+
+
+
+
+
+
+
+
+
+
 
 \]

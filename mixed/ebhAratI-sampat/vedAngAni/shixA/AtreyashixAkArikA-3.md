@@ -13,6 +13,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5MDc4NTk3MDM
 
 \[
 
+
+
 atreya3_shiksha  
 आत्रेय शिक्षा  
 अथ आत्रेय शिक्षा तृतीयो भागः  
@@ -27,5 +29,6 @@ atreya3_shiksha
 धूद्वक्ष्णौ द्वन्द्वक्ष्णषमित्यत्र अनुस्वारो विधर्मतः
 
                    इत्यात्रेयशिक्षा
+
 
 \]

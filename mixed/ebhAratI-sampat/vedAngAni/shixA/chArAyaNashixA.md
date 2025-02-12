@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk1MDQ4MDg3NDE
 
 \[
 
+
+
 carayaniya_shiksha  
 चारायणीय शिक्षा  
 प्राक् प्रपद्ये विभुं भक्त्या सर्वलोकपितामहम्  
@@ -762,5 +764,6 @@ carayaniya_shiksha
 य इदं पठते नित्यं यश्चाध्यापयेद्द्विजम्  
 अस्यार्थं बुद्ध्यते यो वै ब्रह्मलोकं स गच्छति ४४  
        इति चारायणीयशिक्षायां दशमोऽध्यायः
+
 
 \]

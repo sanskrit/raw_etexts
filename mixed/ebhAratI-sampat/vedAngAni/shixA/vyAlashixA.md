@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2ODQ3OTk5NjE
 
 \[
 
+
+
+
+
+
 **व्यालशिक्षा**
+
 
 अथ शिक्षां प्रवक्ष्यामि व्यालमौनिमतानुगाम्  
 पदसन्धिसमायुक्तां स्वरसन्धियुतां तथा १  
@@ -47,8 +53,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2ODQ3OTk5NjE
 जटे वान्तं वेष्टनीय्यं व्यालेन घन उच्यते १२  
 इति पाठान्तरम्  
 
+
 ** इति व्यालशिक्षा समाप्ता ।**
 
 **----------------------------------------**
+
+
+
 
 \]

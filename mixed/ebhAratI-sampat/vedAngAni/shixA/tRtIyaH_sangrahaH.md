@@ -12,7 +12,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY1OTM4NDQwNTY
 
 \[
 
+
+
+
+
 **तृतीयसंग्रहः।**
+
 
 वर्गोत्तमैराद्यतृतीययोश्च संयुक्तयोर्भेदमथ प्रवक्ष्ये  
 रुग्णेति सर्वत्र पदे गकारः परुक्णशब्दं त्विहवर्जयित्वा १  
@@ -28,5 +33,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY1OTM4NDQwNTY
 **इति प्रथमतृतीयवर्णविभागलक्षणम् ।**
 
 **---------------------------------------**
+
 
 \]

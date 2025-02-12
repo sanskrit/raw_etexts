@@ -11,6 +11,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1MDQ4NjU2Mjg
 
 \[
 
+
+
 kramakarika_shiksha  
 क्रमकारिका शिक्षा
 
@@ -202,5 +204,6 @@ kramakarika_shiksha
 आयामाय युगैकत्वं यमायेत्यन्तवेष्टनः ९३  
 ईशावास्यमिदं सर्व्वं द्विवेष्ट्यं सर्वसम्मतम् ९४  
        इति क्रमकारिका शिक्षा समाप्ता
+
 
 \]

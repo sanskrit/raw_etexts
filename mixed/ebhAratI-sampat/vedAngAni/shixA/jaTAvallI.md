@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQxODg2NzEyOTQ
 
 \[
 
+
+
+
+
 **जटावल्ली**
+
+
 
 वागीशप्रभृतिस्तुत्यं प्रणम्याहं गणाधिपम्  
 वागीशं च तथा श्रीशं वरदं जगतां पतिः १  
@@ -126,8 +132,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQxODg2NzEyOTQ
 त्रिपदप्रभृतिष्वेव बलीयस्य नियोगता ५५  
 अलोप एव कण्ठोक्तेरन्ययोगेऽपि सर्वदा ५६
 
+
+
 **इति जटावल्ली समाप्ता ।**
 
 **-----------------------------------**
+
+
+
 
 \]
