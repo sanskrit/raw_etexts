@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NzQ0MTQ5NjE
 
 \[
 
+
+
+
 गौर्यष्टोत्तरशत नामावलिः
+
 
 ॐ महामनोन्मणीशक्त्यै नमः ..  
 ॐ शिवशक्त्यै नमः ..  
@@ -122,5 +126,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ5NzQ0MTQ5NjE
 ॐ अहंकारकलातीतायै नमः ..  
 ॐ पराशक्त्यै नमः ..  
 ॐ परात्परायै नमः ..
+
+
+
 
 \]

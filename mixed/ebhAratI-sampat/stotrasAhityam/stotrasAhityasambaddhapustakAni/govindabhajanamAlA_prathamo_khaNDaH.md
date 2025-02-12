@@ -870,7 +870,7 @@ STRIKING REMARKS
 
 LODD GOVINDAS.
 
-![](../books_images/U-IMG-17238856147827.png)
+<MISSING_FIG href="../books_images/U-IMG-17238856147827.png"/>
 
 ——————————————————————————————————  
 
@@ -1242,6 +1242,7 @@ Oh Ignorant and foolish-minded man
 
 माकुरु धनजनयौवनगर्वं हरति निमेषात् कालः सर्वम्।  
 मायामयमिदमखिलं हित्वा ब्रह्मपदं त्वं प्रविश विदित्वा॥  
+                              
 
 Sri Sankaracharya
 
@@ -1461,6 +1462,8 @@ Oh Ignorant and foolish minded man
 
 **¹मुख दग्ध परान्नेन हस्तौ दग्धौ प्रतिग्रहात्।  
 मनो दग्ध परस्त्रीभि ब्रह्मशाप कुत कलौ॥**
+
+ 
 
 The mouth is polluted by eating the food of others, the hands are polluted by receiving unworthy and unholy gifts, and the mind is polluted by the thought of other's wives Where is the efficacy of a Brahmin's curse in this Age of Kali?
 
@@ -2111,7 +2114,7 @@ take their Ashrama in the temple of Dattatreya at Melkote and other places.
 
  It would appear that even now the tradition holds that men seeking initiation but unable to come across a proper Guru betake themselves to the temple of Dakshinamoorthy and choose Him as their Guru by uttering the mantras in His presence in the Rock Fort Temple at Trichinopoly.
 
- The Tamil Saint Perialvar confirms this view by saying _(![](../books_images/U-IMG-17247569057827.png))viz. the Lord Vishnu Himself comes there to initiate the deserving disciple in the form of earthly Guru.
+ The Tamil Saint Perialvar confirms this view by saying _(<MISSING_FIG href="../books_images/U-IMG-17247569057827.png"/>)viz. the Lord Vishnu Himself comes there to initiate the deserving disciple in the form of earthly Guru.
 
  Under these circumstances, the best thing is to think and meditate upon that Guru of Gurus,
 
@@ -2648,7 +2651,7 @@ a Brahmin found fond of eating **Kari,** and taking to the taste of spiced **Cur
 
 —————————————————————————————————————————
 
-\* Vari= ![](../books_images/U-IMG-1724759567782716.png) = taxes, Nari=![](../books_images/U-IMG-1724759636782717.png) = fox, Kari = _(![](../books_images/U-IMG-1724759749782718.png)) = or meat, spiced Curry =_(![](../books_images/U-IMG-1724759813782719.png))= hot vegetables, Kachori =**कचोरी** = cake made of wheat and black gram, Khushki & Tari = **खुष्की** & **तरी**dry and wet lands, Verri =_(![](../books_images/U-IMG-1724759895782720.png))= Madness, Garry =**गाडी**= Carriage, Pari = Nymph or Fairy, Sundari, = **सुन्दरी**Beautiful Lady, Darı = **दरी** = Cave
+\* Vari= <MISSING_FIG href="../books_images/U-IMG-1724759567782716.png"/> = taxes, Nari=<MISSING_FIG href="../books_images/U-IMG-1724759636782717.png"/> = fox, Kari = _(<MISSING_FIG href="../books_images/U-IMG-1724759749782718.png"/>) = or meat, spiced Curry =_(<MISSING_FIG href="../books_images/U-IMG-1724759813782719.png"/>)= hot vegetables, Kachori =**कचोरी** = cake made of wheat and black gram, Khushki & Tari = **खुष्की** & **तरी**dry and wet lands, Verri =_(<MISSING_FIG href="../books_images/U-IMG-1724759895782720.png"/>)= Madness, Garry =**गाडी**= Carriage, Pari = Nymph or Fairy, Sundari, = **सुन्दरी**Beautiful Lady, Darı = **दरी** = Cave
 
 Oh Lord Hari: Thou art——
 
@@ -3277,6 +3280,7 @@ With His powerful disc and terrible mace,
 Try to personally see His moonlike face,  
 And keep on seeking after His merciful grace**  
 
+                                
 *(LG)*
 
 **कृष्णवर्णं त्विषाऽकृष्ण साङ्गोपाङ्गास्त्र पार्षदम्।  
@@ -3850,6 +3854,8 @@ photographed and exhibiting their false heroism. Many animals such as elephants,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+ 
+
 In regard to the matter of the loss of knowledge referied to by me in page 145 I find that several tables for the calculations of the places of the planets are missing from the time of Vikramarha and it would appear that errors are being committed by astrologers for the last thousand (1000) years. It is therefore necessary that the position of astrology and astronomy should be reconciled and calculations arrived at Unfortunately there had been neither nautical almanacs nor Hindu Observatories for a long time 1 comparative study, however, of the Hindu and Western systems will greatly benefit the students of astronomy
 
  Dealing with the subject of Rama's birth there are some discrepancies just as Tulasidas Ramayana & Jyotisha Kalpadruma fixing Monday, and the other Ramayanas Wednesday as his birth-day The following Telugu poem is one found in Sahasranama Ramayana denoting Wednesday, besides other Telugu poems from other books fixing  
@@ -3944,6 +3950,8 @@ So calm and so happy was the time
 
                        (ऋ० अष्ट० १ अ० ४ व० ४ म० ४ )
 
+ 
+
 It is observed that Asvin played a great part in the constructions of these conveyances contributing towards what is called Jerfery and Turfery, meaning negative and positive
 
  The power of Vayu was so generated, and handled with the particular systems and mechanisms, according to the knowledge, that existed among the ancient people They had their own ideas of the Thermometer, Barometer the chemical and condensing Hygrometers, which were discovered by Sanctorio, Toricelli Mon-de-Saucer, the western scientists in the years 1590 AD 1643 AD and so on. The ancient scientists that were able to drive Vimanas with their own fashion of simplified methods, by controlling the power of Vayu, understood the physical properties of air, and gaseous atoms thereof the elasticity and the temperature
@@ -3984,6 +3992,7 @@ As also those of Latyayana, (लाट्यायन)
 
 Without forgetting the Sutras of Satyayana,  
 
+                              
 (शाठ्यायन)
 
 And works of Apasthamba and Maitrayana,  
@@ -4073,7 +4082,7 @@ the national heroic play during Dasara Festival in Northern India and the intere
 
 in the false hope of rejuvenation Eat Ramathadu (**रामताडु**Tel) fruit for cooling the system Daily walk atleast 3 Ramaiyas (**रामैया** Guj) i.е4½ to 6 miles Play with a strong round ball, like Ramagotilo (**रामगोटिलो** Guj)
 
- Keep a faithful Ramosi (**रामोसि** Guj. Sepoy) to attend on you and a clever Rami **(रामी**Guj) gardener Decorate the garden with bowers w th Ramaseethala (**रामशीतला** Beng) creepers and even grow some Rama Senaka (**रामसेनक भूनिम्ब** _(![](../books_images/U-IMG-172475703978271.png))Tamil) plant, as also Ramuluka (రాములుక) root for occasional use and the Rama plant, a Lind of cactus for heart tonic Use a Ramaiya **(रामयो** Guj), the trunkless bucket for piccota and have Ramamu (**राममु** Tel) deers in the gardens as also a large number of Ramasalika **(रामशालिक**Beng) buds Enjoy the sight of Ramaka (**रामका** Guj the beautiful ) Ramadhanush (**रामधनुष** Urdu, rainbow)
+ Keep a faithful Ramosi (**रामोसि** Guj. Sepoy) to attend on you and a clever Rami **(रामी**Guj) gardener Decorate the garden with bowers w th Ramaseethala (**रामशीतला** Beng) creepers and even grow some Rama Senaka (**रामसेनक भूनिम्ब** _(<MISSING_FIG href="../books_images/U-IMG-172475703978271.png"/>)Tamil) plant, as also Ramuluka (రాములుక) root for occasional use and the Rama plant, a Lind of cactus for heart tonic Use a Ramaiya **(रामयो** Guj), the trunkless bucket for piccota and have Ramamu (**राममु** Tel) deers in the gardens as also a large number of Ramasalika **(रामशालिक**Beng) buds Enjoy the sight of Ramaka (**रामका** Guj the beautiful ) Ramadhanush (**रामधनुष** Urdu, rainbow)
 
  Give Bhoori or Bhooyasi (**भूरि** or **भूयसि**) at least at one Ram (**राम** Guj an anna) to each Brahmin beggar and half a Ram to each Ramakı (**रामकि** Guj) bairagi women (a wife of an anchorite) Take care of the reckless uncared for Ramagovalia (**रामगोवालिया** Guj ) boys  
 
@@ -4081,7 +4090,7 @@ in the false hope of rejuvenation Eat Ramathadu (**रामताडु**Tel) f
 
 ) and Ramunni (രാമുണി
 
-) two Malayali servants and also a Ramaka (**रामक** Sans) messenger, say a delivery peon in addition to Ramandi (_(![](../books_images/U-IMG-172475752778272.png))) Tamilian servant Lead a sacred Ramajivan life and maintain Ramarajya administration, the Kingdom of the greatest happiness and security enabling the people to enjoy full freedom and protection.
+) two Malayali servants and also a Ramaka (**रामक** Sans) messenger, say a delivery peon in addition to Ramandi (_(<MISSING_FIG href="../books_images/U-IMG-172475752778272.png"/>)) Tamilian servant Lead a sacred Ramajivan life and maintain Ramarajya administration, the Kingdom of the greatest happiness and security enabling the people to enjoy full freedom and protection.
 
  Make Ramabhajana (**रामभजन**) Take Ramayana Rasa and take Rama Rasayana medicine (**रामरसायन**) Prostrate before Rama Charana (**रामचरण**) and submit to Rama Sarana (**रामशरण**) and avoid Janana Marana (**जनन, मरण**)
 
@@ -4138,8 +4147,8 @@ nion as Ramala **(रामल)** or a fortune teller regarding the subject of t
 
 Ramic Ablutions.
 
- Live in Rama Vilas Clean your teeth with Rama Babul (**रामबबूल** Hin) or Rama Kanta (**राम काण्टा** Hin) or Karuvelam (_(![](../books_images/U-IMG-172475770478273.png))) or Baval (**बावल** in Gujarati) plant's stick vegetable brush. Take bath in Rama Teertha **(रामतीर्थ)** and in Rama Kunda **(राम कुण्ड)** an enclosed spot in the bank of Godaveri river in Nassik and in Ramadhara (**रामधारा**Tam) waterfalls and also in Ramasaras (**रामसरस** Tam) lahke Wear Ramakathi (**रामकाठी** Mar) dhoti having white silk border and a cloth dyed in Rampat bark(**रामपत्** Hin) Apply Rama Raksha (**रामरक्षा** Mar) ashes which have been charmed by the recital over them of the hymns of Rama Raksha Stotra and also make Tilak with Ramaraj_(![](../books_images/U-IMG-172475781378274.png))
-_(![](../books_images/U-IMG-172475788478275.png))(**रामरज** Hin the yellow clay used by Vaishnavas available on the bank of Mandakını **(मन्दाकिनी)** near Chitrakuta Take seat on the plank of Ramsar (**रामसर** Urdu) wood Put on the Ram(**रामा** Guj) upper cloth or Dupta imprinted with Rama names all over and wear the necklet containing the Ramanami (**रामनामी**Guj) pendant as also a ring containing the name of Rama besides putting
+ Live in Rama Vilas Clean your teeth with Rama Babul (**रामबबूल** Hin) or Rama Kanta (**राम काण्टा** Hin) or Karuvelam (_(<MISSING_FIG href="../books_images/U-IMG-172475770478273.png"/>)) or Baval (**बावल** in Gujarati) plant's stick vegetable brush. Take bath in Rama Teertha **(रामतीर्थ)** and in Rama Kunda **(राम कुण्ड)** an enclosed spot in the bank of Godaveri river in Nassik and in Ramadhara (**रामधारा**Tam) waterfalls and also in Ramasaras (**रामसरस** Tam) lahke Wear Ramakathi (**रामकाठी** Mar) dhoti having white silk border and a cloth dyed in Rampat bark(**रामपत्** Hin) Apply Rama Raksha (**रामरक्षा** Mar) ashes which have been charmed by the recital over them of the hymns of Rama Raksha Stotra and also make Tilak with Ramaraj_(<MISSING_FIG href="../books_images/U-IMG-172475781378274.png"/>)
+_(<MISSING_FIG href="../books_images/U-IMG-172475788478275.png"/>)(**रामरज** Hin the yellow clay used by Vaishnavas available on the bank of Mandakını **(मन्दाकिनी)** near Chitrakuta Take seat on the plank of Ramsar (**रामसर** Urdu) wood Put on the Ram(**रामा** Guj) upper cloth or Dupta imprinted with Rama names all over and wear the necklet containing the Ramanami (**रामनामी**Guj) pendant as also a ring containing the name of Rama besides putting
 
 on enamelled Rama Pagala (**रामपगला** Guj) the emblem of Rama's feet as the insignia of Rama as also the silk Rama Pavitri (**रामपवित्री** Guj) as Yajnopavita
 
@@ -4192,7 +4201,7 @@ though he commands **(शंख चक्र)** etc, weapons Because He is the h
 
  Adore Sri Rama with Ramaniyaka beautiful flower garlands made of Ramabana jasmins, and Rama Taruni (**राम तरुणी** Sans) Sevathi flowers
 
- Perform Archana with Rama Ashtottara Satanama with Ramadooti flowers (**रामदूतो**— Sans नागपुष्पीin Hindi and_(![](../books_images/U-IMG-172475798078276.png))in Tamil Tiaridium Indicum) and Rama Sahasranama with Rama Mandara (**राममन्दार** Mar) flowers, a variety of calatropis gigantia or procera and in addition worship Him with Ra-kara Ramasahasranama and Ma-kara Ramasahasranama, just like the Ka-kara Kalika Sahasranama, Ga-kara Ganapati Sahasranama and the Da-kara Durga Sahasranama with the yellow tufted Ramatha (**रामाठा** Mar) flowers (abound in
+ Perform Archana with Rama Ashtottara Satanama with Ramadooti flowers (**रामदूतो**— Sans नागपुष्पीin Hindi and_(<MISSING_FIG href="../books_images/U-IMG-172475798078276.png"/>)in Tamil Tiaridium Indicum) and Rama Sahasranama with Rama Mandara (**राममन्दार** Mar) flowers, a variety of calatropis gigantia or procera and in addition worship Him with Ra-kara Ramasahasranama and Ma-kara Ramasahasranama, just like the Ka-kara Kalika Sahasranama, Ga-kara Ganapati Sahasranama and the Da-kara Durga Sahasranama with the yellow tufted Ramatha (**रामाठा** Mar) flowers (abound in
 
 Mahabaleshvar hills and called Guidin Cicerophala) and Rama Babhal (**राम बाभल** Ben) flowers, a variety of Acacia along with Rama Tulasi (**राममतुलसी** Sans Ocymum Gratissimum) respectively You may also use Rama Tulasi (**रामतुलसी** Hin) the holy basil having white stalk and put on Rama the Thulisi garland which is so dear to Him and concentrate your thought on Sri Rama stating the following Sloka :—
 
@@ -4207,11 +4216,11 @@ Ramic Naivedyam.
 
  Offer Rama Phal (**रामफल** Guj) red custard apple also called bullocks—heart—fruit, sweet sop- (Annona— reticuleta) Sita Phal (**सीताफल** Guj —
 
-custard apple), and Maruthi Phal (**मारुतो फल** Mar. Mola Anona Cheri) Rama Rambha (**रामरम्भा** Ben.) plantains, (a large variety) the Rama Bhog (**राम भोग**Hin) mangoes and also the Rama Kela (**राम केला**Hin) the best mangoes of Bengal and Mithila and which name also applies to certain kind of plantain Offer Rama Jamoon (**राम जामून** Hin ), a splendid kind of Jambul fruits(_(![](../books_images/U-IMG-172475809478277.png))) and the Ramasara (**राम सार** Hin Sachharum—sara) sugarcane together with the variety of Ramarasa dalı (**रामरसडाली** Mar), in addition to Rama Anjir (**रामअजीर** Hin) a kind of figs and also the Raman fruits the pomegranates to SriRama
+custard apple), and Maruthi Phal (**मारुतो फल** Mar. Mola Anona Cheri) Rama Rambha (**रामरम्भा** Ben.) plantains, (a large variety) the Rama Bhog (**राम भोग**Hin) mangoes and also the Rama Kela (**राम केला**Hin) the best mangoes of Bengal and Mithila and which name also applies to certain kind of plantain Offer Rama Jamoon (**राम जामून** Hin ), a splendid kind of Jambul fruits(_(<MISSING_FIG href="../books_images/U-IMG-172475809478277.png"/>)) and the Ramasara (**राम सार** Hin Sachharum—sara) sugarcane together with the variety of Ramarasa dalı (**रामरसडाली** Mar), in addition to Rama Anjir (**रामअजीर** Hin) a kind of figs and also the Raman fruits the pomegranates to SriRama
 
- Offer Rama Sagar rice (**रामसागर**Tel) boiled, at least of the quantity of one Ramalingam (லிங்கம்)viz one Marakal of 6 measures and Shakkar Pongal made of Raman Samba (**रामन्शम्बा**Tam) rice and Ramaroti (**रामरोटी** Guj. **मालपुआ**) made of Sita Sal rice Offer also Ramachakra **(रामचक्रा)** made of black gram flour, called Bara or Vada and Vadis containing Ramathil (**रामतिल** Hin white sessamum) and wheat Angakhari containing Ramajamani (**राम जमानी** Hin) Ajvayan (अज्वायिन्_(![](../books_images/U-IMG-172475819278278.png)))Offer cakes made of Rama Jav (**राम जव** Hin) and the preparations of the Ramabilas (**राम बिलास** Hin) food grain Ramaka
+ Offer Rama Sagar rice (**रामसागर**Tel) boiled, at least of the quantity of one Ramalingam (லிங்கம்)viz one Marakal of 6 measures and Shakkar Pongal made of Raman Samba (**रामन्शम्बा**Tam) rice and Ramaroti (**रामरोटी** Guj. **मालपुआ**) made of Sita Sal rice Offer also Ramachakra **(रामचक्रा)** made of black gram flour, called Bara or Vada and Vadis containing Ramathil (**रामतिल** Hin white sessamum) and wheat Angakhari containing Ramajamani (**राम जमानी** Hin) Ajvayan (अज्वायिन्_(<MISSING_FIG href="../books_images/U-IMG-172475819278278.png"/>))Offer cakes made of Rama Jav (**राम जव** Hin) and the preparations of the Ramabilas (**राम बिलास** Hin) food grain Ramaka
 
-jara **(रामकजरा** Hin) rice also may be used in offering Kesari Bhath Also offer Ramagola, (**रामगोला** Mar) a flour ball of parched rice made up in butter milk See that you also get fine vegetables prepared of Rama Turai (**रामतुरै**urdu ![](../books_images/U-IMG-172475829078279.png)), Rama Thorai(**रामतोरै** Beng ![](../books_images/U-IMG-1724758355782710.png)), Ramuluka (**रामुलुका** Tel) called Brihati (**बृहती**) or brinjals and Rama Nanuva (**रामननुआ** Hin ![](../books_images/U-IMG-1724758487782711.png)कद्दु)together with Rama Bathhua **(राम वथुवा)** greens and Ramam (Sans), the Potherb (Chenopodium album) and place them all before Rama in the Naivedyam
+jara **(रामकजरा** Hin) rice also may be used in offering Kesari Bhath Also offer Ramagola, (**रामगोला** Mar) a flour ball of parched rice made up in butter milk See that you also get fine vegetables prepared of Rama Turai (**रामतुरै**urdu <MISSING_FIG href="../books_images/U-IMG-172475829078279.png"/>), Rama Thorai(**रामतोरै** Beng <MISSING_FIG href="../books_images/U-IMG-1724758355782710.png"/>), Ramuluka (**रामुलुका** Tel) called Brihati (**बृहती**) or brinjals and Rama Nanuva (**रामननुआ** Hin <MISSING_FIG href="../books_images/U-IMG-1724758487782711.png"/>कद्दु)together with Rama Bathhua **(राम वथुवा)** greens and Ramam (Sans), the Potherb (Chenopodium album) and place them all before Rama in the Naivedyam
 
  Don't fail to offer Ramana **(रामण** Sans) pickles (a kind of lemon called **गिरि निब**in Gujarati) containing Ramalavana (**रामलवण** Sans) salt and Ramathi (**रामठी** Mar) asafoetida
 
@@ -4278,7 +4287,7 @@ which are so dear to Lord Lakshmipati that loves them Lotuses are also called Ta
 
  Decorate a nice Mantapam— Arbour, with Rampion (राम्पियां Rfe) flowers, viz, Raiponce  
 
-bell flowers, and perform the Pooja of Ramatanka **(रामटङ्क)** which is called Ramating Mohar (_(![](../books_images/U-IMG-1724758647782712.png))) in Tamil, containing Rama Pattabhishekam en-graved on it, on Dhanatrayodası **(धनत्रयोदशि)** day, the 13th day of the waning fortnight of the Asvin month and as the result of the Pooja, you will get plenty of Ramaprataps **(रामप्रताप)** రామప్రతాపము
+bell flowers, and perform the Pooja of Ramatanka **(रामटङ्क)** which is called Ramating Mohar (_(<MISSING_FIG href="../books_images/U-IMG-1724758647782712.png"/>)) in Tamil, containing Rama Pattabhishekam en-graved on it, on Dhanatrayodası **(धनत्रयोदशि)** day, the 13th day of the waning fortnight of the Asvin month and as the result of the Pooja, you will get plenty of Ramaprataps **(रामप्रताप)** రామప్రతాపము
 
 , or Ramamadas (రామమాడ
 
@@ -4366,7 +4375,7 @@ The Vanar regions filled the plain
 
  Carry out Ramahoti Vratam **(रामकोटिव्रतम्)** of writing one Crore of names of Rama in a book form to be presented in Ramakshetra in Bhadrachalam or elsewhere and dedicate the same to Rama as Ramarpanam (**रामार्पणम्** Tel) and obtain the virtue thereof
 
- The pleasant past time is still fresh in my memory of writing Rama names in hundreds of chits and rolled up with wheat flour and made into pills and given to the large number of fishes including the Ramalu (రామలు Tel) variety, in the large tank known as Rayasagar in Kankroli in Mewar, the seat of Dvarakanathjee and enjoying the sight of the fishes swallowing the Rama tickets by following the example of certain devotees of Rama I do not know how Ramamulian (_(![](../books_images/U-IMG-1724758823782713.png)) Tam) the silvery sea-fishes can be supplied with these Rama-name-chits in the sea
+ The pleasant past time is still fresh in my memory of writing Rama names in hundreds of chits and rolled up with wheat flour and made into pills and given to the large number of fishes including the Ramalu (రామలు Tel) variety, in the large tank known as Rayasagar in Kankroli in Mewar, the seat of Dvarakanathjee and enjoying the sight of the fishes swallowing the Rama tickets by following the example of certain devotees of Rama I do not know how Ramamulian (_(<MISSING_FIG href="../books_images/U-IMG-1724758823782713.png"/>) Tam) the silvery sea-fishes can be supplied with these Rama-name-chits in the sea
 
  It is desirable to secure the pictures of Rama containing thousands of names of Rama written therein and preserve them as curios
 
@@ -4438,9 +4447,9 @@ of the House of Commons soak all evening until they become stupid"
 
  What a pity that the ideas of **काव्य शास्त्र विनोदेन कालो गच्छति धीमताम्**, have been altogether abandoned and has become out of fashion
 
- Don't have recourse to Ramaduhai (**रामदुहाई**Hin & **रामनी आण** Guj) i.e, taking oath on Rama's name Strictly stick to true speech like Ramavachana (**राम वचन**Guj) and as per Ramavachakam (![](../books_images/U-IMG-1724759119782714.png)) but if you are given to speak untruth, perhaps you may have to become a. Ramajana (**रामजन** Hin) or a Varnasankara or take the life of a Ramcat (Eng) in the next birth Who knows you may not become a dog and drag the Ramase (**रामास** Fre) cart used by Esquimos on the ice-bergs near the north pole?
+ Don't have recourse to Ramaduhai (**रामदुहाई**Hin & **रामनी आण** Guj) i.e, taking oath on Rama's name Strictly stick to true speech like Ramavachana (**राम वचन**Guj) and as per Ramavachakam (<MISSING_FIG href="../books_images/U-IMG-1724759119782714.png"/>) but if you are given to speak untruth, perhaps you may have to become a. Ramajana (**रामजन** Hin) or a Varnasankara or take the life of a Ramcat (Eng) in the next birth Who knows you may not become a dog and drag the Ramase (**रामास** Fre) cart used by Esquimos on the ice-bergs near the north pole?
 
- Neither speak untruth nor submit yourself to the arrows of Ramila **(रामिल**) the Cupid as you have to control the senses for getting Vyragya and developing Ramabhakti **(रामभक्ति)** Do not commit any sin which may subject you to be attacked by Ramakka (![](../books_images/U-IMG-1724759222782715.png) Tam) a kind of pox Avoid the trade of Rama, meaning indigo in Sanskrit which is against Shastras.
+ Neither speak untruth nor submit yourself to the arrows of Ramila **(रामिल**) the Cupid as you have to control the senses for getting Vyragya and developing Ramabhakti **(रामभक्ति)** Do not commit any sin which may subject you to be attacked by Ramakka (<MISSING_FIG href="../books_images/U-IMG-1724759222782715.png"/> Tam) a kind of pox Avoid the trade of Rama, meaning indigo in Sanskrit which is against Shastras.
 
  If you wish to become Ramnable (**राम्नाबल** Fr.) viz, reclaimable, you will have to perform Prayaschittams and make Ramabhakti**(रामभक्ति)** and only by uttering his names and seeking his favour your sins will be washed and your situation becomes Ramandable (**रामान्दाबल्**Fre) i.e repairable In fact the Rama-nama is a substitute for a number of (krichhras) **कृच्छ्र**and when one does not find the requisite, quantity of gold or silver to be given in connection with Prayaschittam ceremony he can utter the names of God in its stead, and derive the requisite virtue.
 
@@ -5239,4 +5248,3 @@ and cultured mind with its sub divisions known as Manas, Buddhi, Chitta, Ahankar
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \]
-

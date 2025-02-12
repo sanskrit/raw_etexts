@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczNjYyNzQzOTQ
 
 \[
 
+
+
 आनन्दरामायणम्
+
+
 
 श्री शतकोटि रामचरितांतर्गत श्रीमदानंदरामायणे  
 पंचमः सर्गः प्रारंभः ।
@@ -267,5 +271,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczNjYyNzQzOTQ
 ॥  
 इति श्री शतकोटि रामचरितांतर्गत श्रीमदानन्दरामायणे  
 वाल्मीकीये जन्मकाण्डे रामरक्षाकथनं नाम पञ्चमः सर्गः ॥  
+
+
+
+
+
 
 \]

@@ -12,7 +12,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg1ODM1MDk0NjM
 
 \[
 
+
+
 हनुमद्वाडवानलस्तोत्रम्
+
 
 श्रीगणेशाय नमः ।  
 ॐ अस्य श्रीहनुमद्वाडवानलस्तोत्रमन्त्रस्य  
@@ -50,5 +53,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg1ODM1MDk0NjM
 सर्वारिष्टान्नाशय नाशय सर्वशत्रून्नाशय नाशय  
 असाध्यं साधय साधय हुं फट् स्वाहा ॥  
 ॥ इति श्रीविभीषणकृतं हनुमद्वाडवानलस्तोत्रं सम्पूर्णम् ॥
+
+
+
+
 
 \]

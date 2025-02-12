@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0OTY1Nzk0OTA
 
 \[
 
+
+
+
+
 अगस्त्याष्टकम्
+
+
 
 अद्य मे सफलं जन्म चाद्य मे सफलं तपः ।
 
@@ -50,5 +56,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0OTY1Nzk0OTA
 
 शिवलोकमवाप्नोति शिवेन सह मोदते ॥ ९॥  
 ॥ इत्यगस्त्याष्टकम् ॥
+
+
+
 
 \]

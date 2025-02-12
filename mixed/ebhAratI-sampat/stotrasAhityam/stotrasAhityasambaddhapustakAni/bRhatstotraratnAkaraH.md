@@ -33,7 +33,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxNDg5MzY0NTI
 
 **स्तोत्राणामनुक्रमणिका।**
 
-![](../books_images/U-IMG-1724428897Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1724428897Capture.JPG"/>
 
 **स्तोत्रनामानि**
 
@@ -129,31 +129,31 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxNDg5MzY0NTI
 
 इत्यनुक्रमणिका समाप्ता।
 
-![](../books_images/U-IMG-1726208075vbnmv.png)
+<MISSING_FIG href="../books_images/U-IMG-1726208075vbnmv.png"/>
 
-![](../books_images/U-IMG-1726208225hhhhhj.png)
+<MISSING_FIG href="../books_images/U-IMG-1726208225hhhhhj.png"/>
 
-![](../books_images/U-IMG-1726208297jjjjjjh.png)
+<MISSING_FIG href="../books_images/U-IMG-1726208297jjjjjjh.png"/>
 
-![](../books_images/U-IMG-1726208443kkkkkkl.png)
+<MISSING_FIG href="../books_images/U-IMG-1726208443kkkkkkl.png"/>
 
-![](../books_images/U-IMG-1726208552oooooop.png)
+<MISSING_FIG href="../books_images/U-IMG-1726208552oooooop.png"/>
 
-![](../books_images/U-IMG-1726208712pppo.png)
+<MISSING_FIG href="../books_images/U-IMG-1726208712pppo.png"/>
 
-![](../books_images/U-IMG-1726208804kkkkkj.png)
+<MISSING_FIG href="../books_images/U-IMG-1726208804kkkkkj.png"/>
 
-![](../books_images/U-IMG-1726208969mmmmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1726208969mmmmm.png"/>
 
-![](../books_images/U-IMG-1726209039bbbbbbbbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1726209039bbbbbbbbbb.png"/>
 
-![](../books_images/U-IMG-1726209200vvvvvvvvv.png)
+<MISSING_FIG href="../books_images/U-IMG-1726209200vvvvvvvvv.png"/>
 
-![](../books_images/U-IMG-1726210631nnnnn.png)
+<MISSING_FIG href="../books_images/U-IMG-1726210631nnnnn.png"/>
 
 श्रीः।  
 वृहत्स्तोत्ररत्नाकरः।  
-![](../books_images/U-IMG-1724554358Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1724554358Capture.JPG"/>
 
 अथ मङ्गलम्।
 

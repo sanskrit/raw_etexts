@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc3MjA5NDE0MTI
 
 \[
 
+
+
 अक्कलकोटस्वामीसमर्थअष्टोत्तरशतनामावली
 
 एका अनोलखी स्वामीभक्ताला जागृतावस्थेत श्रीस्वामी  
@@ -131,5 +133,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc3MjA5NDE0MTI
 ॐ मत्प्रियपितामहसद्गुरुभ्यां नमः ।  
 ॐ पवित्रतमतात्यासाहेबचरणारविंदाभ्यां नमः ।  
 ॐ अक्कलकोटस्वामिसमर्थाय नमः ।
+
+
+
+
 
 \]

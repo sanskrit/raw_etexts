@@ -13,7 +13,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyMDY2MDcxMTY
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 चतुर्विंशतिनामप्रतिपादकचूर्णिका
+
 
 ॥ श्री भद्राचल रामदास कृत  
 चतुर्विंशतिनाम प्रतिपादक चूर्णिका ॥  
@@ -99,5 +113,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyMDY2MDcxMTY
 भद्राचल रामभद्रं रामदास प्रपन्नं भजेऽहं भजेऽहम् ॥  
 ॥ इति श्री भद्राचल रामदास कृत केशवादि  
 चतुर्विंशति प्रतिपादक चूर्णिका संपूर्णम् ॥
+
+
+
+
+
+
+
+
+
+
+
 
 \]

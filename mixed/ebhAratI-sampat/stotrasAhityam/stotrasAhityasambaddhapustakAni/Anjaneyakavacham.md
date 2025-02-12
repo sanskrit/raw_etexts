@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk3NDgwMzU3MTg
 
 \[
 
+
+
+
 आञ्जनेयकवचम्
+
 
 श्री आञ्जनेय कवचम्
 
@@ -110,5 +114,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk3NDgwMzU3MTg
 सो अयं वानरपुंगवो अवतु सदा त्वस्मिन समीरात्मजः ॥  
 ॥  
 इति श्रीआञ्जनेयकवचं संपूर्णम् ॥
+
+
+
+
+
 
 \]

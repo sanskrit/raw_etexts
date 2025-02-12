@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NDExODQxNzM
 
 \[
 
+
+
 दत्तात्रेय सहस्र नामावली
 
 १ ॐ श्री दत्तात्रेयाय नमः ॥  
@@ -1015,5 +1017,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NDExODQxNzM
 ९९९ ॐ त्रिकालज्ञाय नमः ॥  
 १००० ॐ तत्त्वात्मज्ञानसागराय नमः ॥  
 इति श्रीमद् दत्तात्रेय सहस्र नामावली संपूर्णम् ॥
+
 
 \]

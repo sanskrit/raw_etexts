@@ -12,6 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk4ODY1NTA1MjU
 
 \[
 
+
+
+
 गोपालविंशतिस्तोत्रम्
 
 .. गोपालविंशतिस्तोत्रम् ..  
@@ -100,5 +103,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk4ODY1NTA1MjU
 दिव्यवेणुरसिकं समीक्षते  
 दैवतं किमपि यौवतप्रियम् ॥ २२॥  
 ॥ इति गोपालविंशतिस्तोत्रं सम्पूर्णम् ॥
+
+
+
 
 \]

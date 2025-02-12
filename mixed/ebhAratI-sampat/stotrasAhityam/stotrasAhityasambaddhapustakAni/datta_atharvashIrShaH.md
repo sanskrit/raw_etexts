@@ -12,7 +12,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MDI3MDAyMzk
 
 \[
 
+
+
 दत्त अथर्वशीर्ष
+
 
 ॥ हरिः ॐ ॥  
 ॐ नमो भगवते दत्तात्रेयाय अवधूताय  
@@ -42,5 +45,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MDI3MDAyMzk
 मामुद्धर।, मामुद्धर।, मामुद्धर इति प्रार्थयामि ।  
 ॐ द्रां दत्तात्रेयाय नमः ॥ ७॥  
 ॥ ॐ दिगंबराय विद्महे अवधूताय धीमहि तन्नो दत्तः प्रचोदयात् ॥
+
+
+
+
 
 \]

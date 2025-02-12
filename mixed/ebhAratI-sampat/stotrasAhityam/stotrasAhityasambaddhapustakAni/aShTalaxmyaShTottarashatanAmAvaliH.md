@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE4NDExMjcyOTY
 
 \[
 
+
+
+
+
+
 श्रीअष्टलक्ष्म्यष्टोत्तरशतनामावलिः  
+
 
 जय जय शङ्कर .
 
@@ -38,6 +44,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE4NDExMjcyOTY
 
 ८ श्री ऐश्वर्यलक्ष्मीनामावलिः .. ॐ श्रीं श्रीं  
 श्रीं ॐ
+
 
 १  
 .. श्री आदिलक्ष्मीनामावलिः ..
@@ -2026,5 +2033,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE4NDExMjcyOTY
 समेताय श्री चन्द्रमौलीश्वर परब्रह्मणे नमः ..
 
 जय जय शङ्कर हर हर शङ्कर ..
+
+
+
+
+
 
 \]

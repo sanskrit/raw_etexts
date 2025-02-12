@@ -19,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5MjY4MzA0MTY
 
 |                                                                     |
 |---------------------------------------------------------------------|
-| ![](../books_images/U-IMG-1724764072Screenshot2024-08-27183711.jpg) |
+| <MISSING_FIG href="../books_images/U-IMG-1724764072Screenshot2024-08-27183711.jpg"/> |
 
 **मुद्रक तथा प्रकाशक--**  
 **घनश्यामदास जालान**  
@@ -38,7 +38,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5MjY4MzA0MTY
 **श्रीबिल्वमङ्गलाचार्यविरचितं**
 
 **गोविन्ददामोदरस्तोत्रम्**  
-![](../books_images/U-IMG-1724768431Screenshot2024-08-27125057.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724768431Screenshot2024-08-27125057.jpg"/>
 
 **( १)**
 
@@ -71,7 +71,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5MjY4MzA0MTY
 **ॐश्रीहरिःॐ**  
 **श्रीबिल्वमङ्गलाचार्यविरचित**  
 **गोविन्द-दामोदर-स्तोत्र**  
-![](../books_images/U-IMG-1724744841Screenshot2024-08-27125057.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724744841Screenshot2024-08-27125057.jpg"/>
 
 **( १ )**
 
@@ -569,9 +569,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5MjY4MzA0MTY
 कस्तुरिकाकल्पितनीलवर्णाो  
 गोविन्दे दामोदर माधवेति ॥**\*[^2]
 
-**(४५)**
-
 [^2]: "अत्र ‘ हे राम रघुनन्दन राघवेति’ इति पाठान्तरम्‌ ।"
+
+**(४५)**
 
  जब रावणके साथ सीताजी समुद्रके मध्यमेंपहुँचीं तब यह कहकर जोर-जोरसे रुदन करने   लगीं— विष्णो ! हे रघुकुलकुते ! हे देवताओंको सुख ओर असुरोंकों दुःख देनेवाले ! हे गोविन्द ! हे दामोदर ! हे माधव ! \[ हे राम ! हे रघुनन्दन ! हे राघव !\] प्रसन्न होये; प्रसन्न हो इये। ”
 
@@ -845,7 +845,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5MjY4MzA0MTY
 **इस प्रकार यह श्रीबिल्वमङ्गलाचार्यका बनाया हुआ गोविन्द-दामोदर-  
 स्तोत्र समाप्त हुआ ।**
 
-![](../books_images/U-IMG-1724855241Screenshot2024-08-28195540.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1724855241Screenshot2024-08-28195540.jpg"/>  
 **श्रीहनुमानप्रसाद पोद्दारकी पुस्तकें**
 
 **बिनय-पत्रिका**-(सचित्र) तुलसीदासजीके ग्रन्थकी टीका
@@ -965,4 +965,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE5MjY4MzA0MTY
 **पता-गीताप्रेस, गोरखपुर**
 
 \]
-

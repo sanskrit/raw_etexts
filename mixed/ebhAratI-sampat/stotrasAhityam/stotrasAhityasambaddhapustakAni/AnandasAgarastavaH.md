@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5OTk1MDY3OTg
 
 \[
 
+
+
+
 आनन्दसागरस्तवः
+
 
 ॥ आनन्दसागरस्तवः ॥
 
@@ -866,5 +870,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5OTk1MDY3OTg
 अपरब्रह्ममयं वपुरन्तः शशिखण्डमण्डनमुपासे ॥ १०८ ॥
 
 ॥ इति श्री नीलकण्ठदीक्षितविरचितः श्रीआनन्दसागरस्तवः सम्पूर्णः ॥
+
+
+
+
+
 
 \]

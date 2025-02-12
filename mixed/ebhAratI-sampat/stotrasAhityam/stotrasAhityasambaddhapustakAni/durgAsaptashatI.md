@@ -120,7 +120,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NTYxMDM0OTg
 
 **इति प्रयोगविधिः समाप्तः।**
 
-**![](../books_images/U-IMG-173078600340.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-173078600340.jpg"/>**
 
 श्रीः।
 
@@ -174,7 +174,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NTYxMDM0OTg
 
 इतिसंकल्पः।
 
-![](../books_images/U-IMG-173080521841.jpg)
+<MISSING_FIG href="../books_images/U-IMG-173080521841.jpg"/>
 
 श्रीः।
 
@@ -182,7 +182,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NTYxMDM0OTg
 
 **भाषाटीकासमन्वितम्।**
 
-![](../books_images/U-IMG-173080534242.jpg)
+<MISSING_FIG href="../books_images/U-IMG-173080534242.jpg"/>
 
 ॐ नमश्चण्डिकायै॥ मार्कण्डेयउवाच॥ ॐयद्गुह्यं परमं लोसर्वरक्षाकरं नृणाम्॥ यन्नकस्य चिदाख्यातं तन्मे ब्रूहि पितामह॥१॥ ब्रह्मोवाच॥ अस्तिगुह्यतमंविप्रसर्व-भूतोपकारकम्॥ देव्यास्तु कवचं पुण्यं तच्छृणुष्वमहामुने॥२॥ प्रथमं शैलपुत्रीतिद्वितीयं ब्रह्मचारिणी॥तृतीयं चन्द्रघण्टेतिकूश्माण्डेति चतुर्थकम्॥३॥ पंचमं स्कंदमातेति षष्ठं कात्यायनीति च॥ सप्तमं कालरात्रीति महागौरीति चाष्टमम्॥४॥ नवमं सिद्धिदात्री च नवदुर्गाः प्रकीर्तिताः॥ उक्तान्येतानिनामानि ब्रह्मणैवमहात्मना॥५॥
 
@@ -248,7 +248,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NTYxMDM0OTg
 
 इति देव्याः कवचं समाप्तम्।
 
-![](../books_images/U-IMG-173089005143.jpg)
+<MISSING_FIG href="../books_images/U-IMG-173089005143.jpg"/>
 
 श्रीः।
 
@@ -280,7 +280,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NTYxMDM0OTg
 
 **इति अर्गलास्तोत्रम्।**
 
-![](../books_images/U-IMG-173089165340.jpg)
+<MISSING_FIG href="../books_images/U-IMG-173089165340.jpg"/>
 
 **श्रीः।**
 
@@ -306,7 +306,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NTYxMDM0OTg
 
 **इति कीलकस्तोत्रं समाप्तम्।**
 
-**![](../books_images/U-IMG-173095743340.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-173095743340.jpg"/>**
 
 **पुस्तक मिलनेका ठिकाना-**  
 
@@ -320,7 +320,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NTYxMDM0OTg
 
 भाषाटीकासमेता।
 
-![](../books_images/U-IMG-173095768144.jpg)
+<MISSING_FIG href="../books_images/U-IMG-173095768144.jpg"/>
 
 मार्कण्डेय उवाच।
 
@@ -1031,7 +1031,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5NTYxMDM0OTg
 "**श्रीवेङ्कटेश्वर**" मुद्रणालये मुद्रयित्वा प्रकाशितम्।  
 शके १८१५ संवत् १९५०
 
-![](../books_images/U-IMG-173108255040.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-173108255040.jpg"/>  
 
 पुस्तक मिलनेका ठिकाना—
 

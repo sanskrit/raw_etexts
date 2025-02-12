@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMzMzYyMzYyMjM
 
 \[
 
+
+
+
+
 **चैतन्यचन्द्राम्रृतम्**
+
+
 
 स्तुमस्तं चैतन्याकृतिमतिविमर्यादपरमा  
 द्भुतौदार्यं वर्यं व्रजपतिकुमारं रसयितुम् ।  
@@ -700,5 +706,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMzMzYyMzYyMjM
 भजेत्सर्वतो मृत्युरुपास्यममरोत्तमैः ॥??॥ (९५)
 
 **----------------------------------**
+
+
+
 
 \]

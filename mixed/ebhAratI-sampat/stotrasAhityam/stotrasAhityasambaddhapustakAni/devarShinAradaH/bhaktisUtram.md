@@ -23,7 +23,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5ODY0MjMzNTg
 
    ॥ॐ॥ श्रीहरिः शरणम्॥ॐ॥
 
-![](../books_images/U-IMG-1724858546Screenshot2024-08-28205203.png)
+<MISSING_FIG href="../books_images/U-IMG-1724858546Screenshot2024-08-28205203.png"/>
 
   प्यारे भाई भारतवासियों । यदि इस लोक में शान्ति के साथ जीवनयात्राका निर्वाह करने और सरल तथा मधुरमार्गसेबैकुण्ठधाम में पहुँचनेकी कामना हो तो भक्ति मार्गके बटोही वनो । निश्चय रक्खो, कि– इस त्रितापमय संसार में शान्ति और अंत में अच्युतधामको पानेका पथ केवल प्रेम है। विना निःस्वार्थ प्रेम वा विशुद्ध भक्ति के न यह लोक है, न परलोक है । भगवान् नेतुमको जिस जगत् में जन्म दिया है, जिस देश, जिस जाति वा जिसकुटुम्बमें तुमको भेजा है, उस देश, जाति और कुटुम्बसेप्रेम करो और अपने परमपूज्य प्रियतम परमात्माको भक्तभावसे ढूँढो, बस इसीमें तुम्हारा परममङ्गल है, परंतु देश, जाति और परिवार के साथ सच्चाप्रेम करने में तुमको स्वार्थका बलिदान करना पड़ेगा, तुम
 
@@ -39,9 +39,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5ODY0MjMzNTg
 
 **स० ध० प्रेस, मुरादाबाद-**
 
-**![](../books_images/U-IMG-17248544122024-08-28.png)**
+**<MISSING_FIG href="../books_images/U-IMG-17248544122024-08-28.png"/>**
 
-**![](../books_images/U-IMG-1724858660Screenshot2024-08-28194740.png)समर्पण![](../books_images/U-IMG-1724858660Screenshot2024-08-28194740.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724858660Screenshot2024-08-28194740.png"/>समर्पण<MISSING_FIG href="../books_images/U-IMG-1724858660Screenshot2024-08-28194740.png"/>**
 
 **———————**
 
@@ -54,15 +54,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5ODY0MjMzNTg
 आपका वही वशम्वद —  
 **( ऋ०कु० ) रामस्वरूपशर्मा**
 
-**![](../books_images/U-IMG-1724854902Screenshot2024-08-28194816.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724854902Screenshot2024-08-28194816.png"/>**
 
-![](../books_images/U-IMG-1724859058Screenshot2024-08-28194856.png)
+<MISSING_FIG href="../books_images/U-IMG-1724859058Screenshot2024-08-28194856.png"/>
 
   ॥ ॐ ॥ श्रीकृष्णः शरणं मम ॥ ॐ ॥
 
 **नारदकृत—**
 
-**![](../books_images/U-IMG-1724859277Screenshot2024-08-28210419.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724859277Screenshot2024-08-28210419.png"/>**
 
 प्रथम अनुवाक
 
@@ -155,7 +155,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5ODY0MjMzNTg
 
 उन्मत्त उससे अन्य विषयोंमें चेष्टारहित और उसमें ही तृप्त रहकर आत्माराम शब्दको सार्थक करता है॥६॥
 
-![](../books_images/U-IMG-1724916867Screenshot2024-08-28210139.png)
+<MISSING_FIG href="../books_images/U-IMG-1724916867Screenshot2024-08-28210139.png"/>
 
 द्वितीय अनुवाक
 
@@ -610,7 +610,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5ODY0MjMzNTg
 
 लोगोंको भी पार लगाता है, भगवान् आप ही कहतेहैं, कि–"मद्भक्तियुक्तो भुवनं पुनाति, वा, पुनाति भुवनत्रयम्॥" अर्थात्मेरा भक्त त्रिलोकीको पवित्र करता है ॥ ५० ॥
 
-![](../books_images/U-IMG-1726919630kkkkkhhjk.png)
+<MISSING_FIG href="../books_images/U-IMG-1726919630kkkkkhhjk.png"/>
 
 **सप्तम अनुवाक**
 
@@ -685,7 +685,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5ODY0MjMzNTg
 
 जिज्ञासु पहिले मोक्षसुखकी अभिलाषा दीखने पर भी साधनके पकजाने पर वह भी नहीं रहती, इस दशामें ही वह ज्ञानी होता है, ज्ञानीको श्रीभगवान् के सिवाय और कोई अभिलाषा ही नहीं होती, इसकारण निर्गुण भक्त ज्ञानी ही सबसे श्रेष्ठ है ॥ ५७ ॥
 
-![](../books_images/U-IMG-1726921277kkkkkhhjk.png)
+<MISSING_FIG href="../books_images/U-IMG-1726921277kkkkkhhjk.png"/>
 
 **अष्टम अनुवाक**
 
@@ -840,7 +840,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5ODY0MjMzNTg
 
 ** भाषार्थ** — जब तुम उनके हो और वह भी उनके हैं तथा जव तुम्हांरी और उनकी एकावस्था विना हुए दोनोको वह अपना करते ही नहीं और जब वह दोनों के हृदयमें समानभावसे विराजमान हैं, तब दोनो में भेद कैसा ?
 
-![](../books_images/U-IMG-1726922779aq.png)
+<MISSING_FIG href="../books_images/U-IMG-1726922779aq.png"/>
 
 **दशम अनुवाक**
 
@@ -967,8 +967,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5ODY0MjMzNTg
 ऋषिकुमारोपनाम - सनातन धर्म पताका संपादक रामस्वरूपशर्माकृत  
 पदार्थ भाषार्थसहित नारदभक्तिसूत्र समाप्त
 
-![](../books_images/U-IMG-1725606418Screenshot__88_-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-1725606418Screenshot__88_-removebg-preview(1"/>.png)
 
-![](image)
+<MISSING_FIG href="image"/>
 
 \]

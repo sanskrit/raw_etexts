@@ -12,7 +12,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEzMjc4MTUxMTQ
 
 \[
 
+
+
 दत्तात्रेय अपराधक्षमापणस्तोत्रम् २
+
 
 रसज्ञावशातारकं स्वादुलभ्यम्  
   गृहीतं कदाचिन्न ते नाम दत्त ।  
@@ -56,5 +59,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEzMjc4MTUxMTQ
   रिति प्रार्थितं दत्तशिष्येण सारम् ॥ १०॥  
 ॥ इति परमपूज्य श्रीमद् वासुदेवानन्दसरस्वती  
 स्वामीमहाराजकृत अपराधक्षमापन स्तोत्रं संपूर्णम् ॥
+
+
+
+
 
 \]

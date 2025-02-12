@@ -17,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MTQ3MzQzNzk
 आर्याशतक
 
 म्॥  
-![](../books_images/U-IMG-17241553017094.png)
+<MISSING_FIG href="../books_images/U-IMG-17241553017094.png"/>
 
 कारण परचिद्रूपा  
  काञ्चीपुरसीम्नि कामपीठगता।  
@@ -539,13 +539,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MTQ3MzQzNzk
 
 इति आर्याशतकं संपूर्णम् ॥  
 
-![](../books_images/U-IMG-1724163868IMG_20240820_195331.png)
+<MISSING_FIG href="../books_images/U-IMG-1724163868IMG_20240820_195331.png"/>
 
 ॥श्रीः॥  
 
 ॥पादारविन्दशतकम्॥
 
-![](../books_images/U-IMG-1724164134IMG_20240820_195801.png)
+<MISSING_FIG href="../books_images/U-IMG-1724164134IMG_20240820_195801.png"/>
 
 महिम्नः पन्थानं मदनपरिपन्थिप्रणयिनि  
  प्रभुर्निर्णेतुं ते भवति यतमानोऽपि कतमः।  
@@ -1078,13 +1078,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MTQ3MzQzNzk
 
 **पादारविन्दशतकं संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1724206227IMG_20240820_195331.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724206227IMG_20240820_195331.png"/>**
 
 ॥ श्रीः ॥  
 
 स्तुतिशतकम्॥  
 
-![](../books_images/U-IMG-1724206288IMG_20240820_195801.png)
+<MISSING_FIG href="../books_images/U-IMG-1724206288IMG_20240820_195801.png"/>
 
 पाण्डित्यं परमेश्वरि स्तुतिविधौ नैवाश्रयन्ते गिरां  
   वैरिञ्चान्यपि गुम्फनानि विगलद्गर्वाणि शर्वाणि ते।  
@@ -1604,13 +1604,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MTQ3MzQzNzk
 
 **इति स्तुतिशतकं संपूर्णम् ॥**
 
-**![](../books_images/U-IMG-1724240121IMG_20240821_170423.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724240121IMG_20240821_170423.png"/>**
 
 ॥श्रीः॥  
 
 ॥कटाक्षशतकम्॥
 
-![](../books_images/U-IMG-1724240374IMG_20240821_170847.png)  
+<MISSING_FIG href="../books_images/U-IMG-1724240374IMG_20240821_170847.png"/>  
 मोहान्धकारनिवहं विनिहन्तुमीडे  
   मूकात्मनामपि महाकवितावदान्यान्।  
 श्रीकाञ्चिदेशशिशिरीकृतिजागरूका–  
@@ -2129,11 +2129,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MTQ3MzQzNzk
 
 **इति कटाक्षशतकं संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1724329263IMG_20240822_175019.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724329263IMG_20240822_175019.png"/>**
 
 **॥मन्दस्मितशतकम्॥**
 
-**![](../books_images/U-IMG-1724329818IMG_20240822_175904.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1724329818IMG_20240822_175904.png"/>**  
 
 **अघ्नीमो वयमञ्जलिं प्रतिदिनं बन्धच्छिदे देहिनां  
   कन्दर्पागमतन्त्रमूलगुरवे कल्याणकेलीभुवे।  
@@ -2652,6 +2652,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MTQ3MzQzNzk
 
 **मन्दस्मितशतकं संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1724416810IMG_20240823_180925.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724416810IMG_20240823_180925.png"/>**
 
 \]

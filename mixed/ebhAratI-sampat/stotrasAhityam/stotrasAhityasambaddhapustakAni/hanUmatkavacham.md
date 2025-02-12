@@ -12,7 +12,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1OTI2NTM1NDg
 
 \[
 
+
+
 श्री हनुमत् कवचम्
+
 
 ॥ श्रीमदानन्दरामायणान्तर्गत श्री हनुमत् कवचं ॥
 
@@ -130,5 +133,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1OTI2NTM1NDg
 इति श्री शतकोटिरामचरितांतर्गत  
 श्रीमदानन्दरामायणे वाल्मिकीये मनोहरकाण्डे  
 श्री हनुमत्कवचं संपूर्णं ॥
+
+
+
+
 
 \]

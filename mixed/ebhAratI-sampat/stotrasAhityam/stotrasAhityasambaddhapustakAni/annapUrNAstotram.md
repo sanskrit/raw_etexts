@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA5MDI3NDIzNTI
 
 \[
 
+
+
+
+
 अन्नपूर्णास्तोत्रम्
+
+
 
 नित्यानन्दकरी वराभयकरी सौन्दर्यरत्नाकरी  
 निर्धूताखिलघोरपावनकरी प्रत्यक्षमाहेश्वरी ।
@@ -101,5 +107,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA5MDI3NDIzNTI
 बान्धवाः शिवभक्ताश्च स्वेदेशो भुवनत्रयम् ॥१५॥
 
 अन्नपूर्णादेवी
+
+
+
 
 \]

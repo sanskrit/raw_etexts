@@ -12,6 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5NDQxNTE5ODg
 
 \[
 
+
+
+
 गायत्रीरामायणम्
 
 तपस्स्वाध्याय निरतं तपस्वी वाग्विदां वरं ।  
@@ -123,5 +126,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5NDQxNTE5ODg
 तामेव रात्रिं सीतापि प्रसूता दारक द्वयं ॥ २४ ७-६६-०१ यात  
 
 ॥ इति श्री गायत्रीरामायणं सम्पूर्णम् ॥
+
+
+
 
 \]

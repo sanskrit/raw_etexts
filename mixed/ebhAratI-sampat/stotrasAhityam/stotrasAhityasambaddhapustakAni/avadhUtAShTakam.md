@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkwODQ0OTgxMTg
 
 \[
 
+
+
+
+
 अवधूताष्टकम्
+
+
 
 श्री परमात्मने नमः ॥
 
@@ -79,5 +85,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkwODQ0OTgxMTg
 अनन्तं जगदाधारं ह्यवधूतं नमाम्यहम् ॥ १५॥  
 ॥  
 इति अवधूताष्टकं समाप्तम् ॥
+
+
+
+
+
 
 \]

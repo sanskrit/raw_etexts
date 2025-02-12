@@ -12,7 +12,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5MDU3NzY5NDQ
 
 \[
 
+
+
 एकादशमुखहनूमत्कवचम्
+
 
 श्रीगणेशाय नमः ।  
 लोपामुद्रा उवाच ।  
@@ -71,5 +74,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk5MDU3NzY5NDQ
 इत्येवमुक्त्वा वचनं महर्षिस्तूष्णीं बभूवेन्दुमुखीं निरीक्ष्य ।  
 संहृष्टचित्तापि तदा तदीयपादा ननामातिमुदा स्वभर्तुः ॥ २७॥  
 ॥ इत्यगस्त्यसारसंहितायामेकादशमुखहनुमत्कवचं सम्पूर्णम् ॥
+
 
 \]

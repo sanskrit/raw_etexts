@@ -16,11 +16,63 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ2MDQwMDU1ODU
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [TABLE]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **PRINTED BY N. RAMARATNAM, M.A., B.L.,  
 AT THEMADRAS LAW JOURNAL PRESS,  
 MYLAPORE, MADRAS.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **CONTENTS**
 
@@ -35,7 +87,9 @@ MYLAPORE, MADRAS.**
 |     6\.     | Realization ( Final Fruit)     |
 |     7\.     | Index-glossary                 |
 
+
 **॥विषयाः॥**  
+
 
 |     |               |
 |-----|:-------------:|
@@ -44,6 +98,12 @@ MYLAPORE, MADRAS.**
 | २.  | अविरोधाध्यायः |
 | ३.  |  साधनाध्यायः  |
 | ४.  |   फलाध्यायः   |
+
+
+
+
+
+
 
 **PREFACE**
 
@@ -71,6 +131,8 @@ MYLAPORE, MADRAS.**
 16." S. K. Ramanatha Sastri,  
 17.Dr. M. Abdul Haq, M.A., D.PHIL. (oxon),
 
+
+
  18. Afzul-ul-Ulama Hakim Khader Ahamed,  
  19. Sri P. D. Joshi,  
  20. " S. Gopalan, B.A., B.L.,  
@@ -89,6 +151,7 @@ MYLAPORE, MADRAS.**
 
   The following manuscripts were taken up for publication during 1949-50.
 
+
 "A" FROM THE GOVERNMENT ORIENTAL  
 MANUSCRIPTS LIBRARY, MADRAS.
 
@@ -101,6 +164,8 @@ MANUSCRIPTS LIBRARY, MADRAS.
  5. Cōḷaṇ Pūrva Paṭṭayam  
  6. Koṅga Dēśa Rājākkaḷ  
  7. Sivajñāṇa Dīpam
+
+
 
 **TELUGU**
 
@@ -146,6 +211,10 @@ MANUSCRIPTS LIBRARY, MADRAS.
 
 **——————**
 
+
+
+
+
 **"B" FROM THE TANJORE MAHARAJA SERFOJI'S  
 SARASVATHI MAHAL LIBRARY, TANJORE**
 
@@ -188,6 +257,8 @@ SARASVATHI MAHAL LIBRARY, TANJORE**
 4.Dēvēndra Kuṛavañji  
 5.Bhakta Vilāsa  
 6. Slōka Baddha Rāmāyaṇa**
+
+
 
 **SANSKRIT**
 
@@ -232,6 +303,8 @@ SARASVATHI MAHAL LIBRARY, TANJORE**
 ** 1. Aśvacikitsā  
  2. Phalasārasamuccaya**
 
+
+
 **"B" FROM THE TANJORE MAHARAJA SERFOJI'S  
 SARASVATHI MAHAL LIBRARY, TANJORE**
 
@@ -273,6 +346,8 @@ SARASVATHI MAHAL LIBRARY, TANJORE**
  4.Dêvendra Kuṛavañji  
  5.Bhakta Vilāsa  
  6.Slōka Baddha Rāmāyaṇa**
+
+
 
 **SANSKRIT**
 
@@ -317,6 +392,8 @@ SARASVATHI MAHAL LIBRARY, TANJORE**
 ** 1. Aśvacikitsā  
  2. Phalasārasamuccaya**
 
+
+
 **KANNADA**
 
  1. Vaidya Sāra Saṅgraha.
@@ -333,10 +410,15 @@ SARASVATHI MAHAL LIBRARY, TANJORE**
 
  Reference is to be made to the good work done by SriV. R. Kalyanasundaram, Siromani, Pandit of this library in seeing the work through the press.
 
+
+
+
 **Government Oriental }                   T. CHANDRASEKHARAN,**  
 **Manuscripts         }                   
    *General Editor,*  
 Library, Madras.     }                Madras Govt. Oriental Series.**
+
+
 
 **INTRODUCTION**
 
@@ -352,6 +434,8 @@ Library, Madras.     }                Madras Govt. Oriental Series.**
 
  It is noteworthy that only foreign students of Indianthought and only those Indians who have been strongly in-
 
+
+
 fluenced by their works and teachings are found to haveignored the school of *Madhva.*
 
  On the contrary, amongst the traditionally trained panditsof pure and pristine Sanskrit scholarship, the three systems, Advaita, Viśiṣṭādvaita and Dvaita are considered as live and dynamic, each dealing in its own way with the permanent and persistent problems of philosophy.
@@ -365,6 +449,8 @@ I
 II
 
  Though chronology is not the main concern of this "Introduction", it may yet be briefly pointed out that there has been some controversy regarding the exact date of Madhva. Some believe the birth of the Ācārya to have occurred in 1199 A,D.and that he lived for about 80 years. Others take the period of the Ācārya to be 1238—1318-A.D. There is yet a third
+
+
 
 version. Madhva was born in 1040-*Śaka*.In his 8th yearhis *Upanayanam* (investiture with the sacred thread) wasperformed. In his 16th, he was crowned on his pontificalthrone. After assuming control of the pontificate, the Ācāryaexercised philosophical sovereignty for 63-years, 2-months and19-days and then suddenly disappeared from mortal eyes.
 
@@ -380,6 +466,8 @@ version. Madhva was born in 1040-*Śaka*.In his 8th yearhis *Upanayanam* (invest
 
  That is perhaps the reason why at different epochs or periods of philosophical evolution different systems had found sponsors and champions. The game of philosophy, is thus eternally on.
 
+
+
  There was the Buddha-Śaṅkara epoch. Next came the Rāmānuja epoch. It was followed by the VidyāraṇyaAkṣobhya-Vedānta Deśika epoch. The Vyāsarāja-Madhusūdana period followed next.
 
  The 16th century witnessed the brilliant period of incandescent metaphysical activity sustained by Appayya-Dīkṣita, Vijayīndra, and Tātācārya as must be evident from the inscriptions of the time of the Tanjore Nāyaks.
@@ -394,6 +482,8 @@ III
 
  There is general agreement amongst all that the firstchapter of the Vedānta-Sūtras is known as *Samanvaya-adhyāya**i.e*., a chapter devoted to elucidation of the doctrine of*Samanvaya*, of demonstrating that all terms scriptural andnon-scriptural centripetally *converge on* the Supreme Reality-The Lord, Whose Glory and Majesty they sing and proclaim.
 
+
+
  In the opening apothegm, the metaphysical and philosophical need that there is for commencement of organized and disciplined inquiry into the nature of Brahman has beenemphasized. (*Atha-ataḥ-Brahma-jijñāsā*). In the second,definition of Brahman has been formulated. Without a logicaland philosophical definition, no approach to Brahman would bepossible. (J*anmādyasya-yataḥ*). In the third, it has beenmade clear that Brahman can be revealed *only* by scripture.(*Śāstroyonitvāt*). How is this truth known? The answer isrendered in the fourth apothegm. (*Tattu-samanvayāt*). Thatall scriptural terms converge on Brahman (*samanvaya*) is doubtless the best and most convincing proof of the existence of Brahman being revealed only through the agency of scripture.
 
  When philosophical argumentation has advanced so far, the next question that would most naturally suggest itself in the fitness of things must relate to Brahman being at all capable of description by means of scriptural terms. In the absence of such describability of Brahman by means of scriptural terms and units the entire doctrine of *Samanvaya,* focussing of scriptural terms on Brahman would collapse like a house of cards. The question, thus, that would spring up at this stage of inquiry is—Is Brahman at all describable?
@@ -402,11 +492,15 @@ III
 
  In establishing the *describability* of Brahman the monisticor the absolutistic doctrine that Brahman is attributeless andindescribable is refuted by Bādarāyaṇa or whosoever theauthor of the Vedānta-Sūtras. *Two* philosophical purposeshad to be achieved. Firstly, the doctrine of *samanvaya,* focussing of scriptural terms on Brahman had to be maintained and vindicated. *Secondly,* the monistic or the absolutistic doctrinethat Brahman could not be at all described as every act or evenattempt at description constitutes metaphysical degradation ofthe absolute had to be likewise repudiated. Two birds wereeasily killed by the author of the Vedānta-Sūtras in theapothegm *Ikṣaterna-aśabdam.*
 
+
+
  The apothegm means that as Brahman is described as*seen,* as object of personal realization, (*Īkṣateh*), it *cannot* beindescribable or *inaccessible* to language. (*Na-Aśabdam*).
 
   When such is the natural interpretation of the apothegmin question, there does not seem any point or relevancy ininterpreting it as Śāṅkara and Rāmānuja have done, ascontaining a critique of the Sāṅkhya system.
 
  Madhva emphatically declares in *Ānu-vyākhyāna* that theauthor of the Vedānta-sūtras did *not* intend the *seven*apothegms constituting this specific section (*Ādhikaraṇa*) infact could not have intended, as directed to a refutation of theŚānkhya system. (*Na ca śaṅkhya-nirākṛtyai sūtrāṇyetānyacīklṛpat*) In the said context, there is absolutely no need toembark on a refutation of the metaphysics of Sānkhya. *Samanvaya,* harmonization of scriptural terms on the Supremest Reality-The Lord-is the topic on hand. If Brahman werereally indescribable and inaccessible to language and linguisticunits, and terms, the doctrine of *Samanvaya* would simplycollapse. The doctrine, on the contrary, has to be demonstrated to be well founded and grounded on reason. Thedoctrine can be saved *only* if and when Brahman is demonstrated to be capable of descriptive philosophical portraiture.This task should be immediately taken on hand. The momentthe doctrine of *samanvaya* is rooted and presented, the nextsteps is to show how Brahman is describable in scriptural terms. That is precisely and exactly what the author of the Vedānta-Sūtras has done. Vyāsa, the author of the Sūtras is believed to have been an incarnation of the Lord Supreme. He can dono wrong, and no false step can or could have been taken bysuch eminent authority. From these and other concomitantconsiderations the conclusion will irresistibly follow that the section commencing with the apothegm "*Īkṣterna-aśabdam*"could have nothing to do with the refutation of the Śāṅkhyasystem. It would be time enough for the refutation to beundertaken in the course of the second chapter of the Sūtras specially devoted to a critique and refutation of all systemsopposed to the Vedānta. This would afford a fairly convinciing sample of the original interpretation of the apothegmsattempted by Madhva in opposition to the elucidation actually given by his predecessors. There is no need to refer to other the contexts here.
+
+
 
  Kṛṣṇa-Avadhūta-Paṇḍita owes allegiance to the school of Madhva. *“Sūtra-arthamṛta-laharī"* here published is a work of his, devoted to an explanation of the meaning and significance of the Vedānta Sūtras in the light of the DvaitaVedānta of Madhva.
 
@@ -425,6 +519,8 @@ Prayojanam-saṅgatiśca-Prāñco-adhikaraṇam-viduḥ".
 
  They are (1) a specific subject-matter (*Viṣaya*) (2) methodological doubt, (*Viśaya*) (3) position or doctrine of the opponent or opponents, (*Pūrvapakṣa*), (4) likewise, the
 
+
+
 position or the doctrine that is one's own, (*Uttarapakṣa*) or(*S'iddhānta*), (5) a definite end in view sought to be secured,(*Prayojana*) and (6) logical and philosophical connection inrespect of the central universe of discourse, structural arrangement of the apothegms into chapter (*adhyāya*) quarter, (*pāda*)and so forth.
 
  Sometimes a single *adhikaraṇa* and at other times morehappen to be dovetailed into a *Kakṣyā* (section). The details of this sectional patterning or arrangement, its *rationale*, the main or the central import of *adhikaraṇas*, and the significanceof the individual *sūtras* have been described in a striking manner by the author who, following in the footsteps of Madhva, has been throughout guided by the maxim that "brevity is thesoul of wit".
@@ -437,11 +533,15 @@ V
 
  Another speciality of Kṛṣṇa-avadhūta is the liberty he has taken in renaming the different *adhikaraṇas*. The renaming
 
+
+
 however, is not arbitrary, The usual practice followed hasbeen to christen the *adhikaraṇas* by reference either to the*apening* or some other *prominent* term incorporated into thestructure of the apothegm as in *Jijnāsā-adhikaraṇa*, *Janmādy*-adikaraṇa, and so forth. Kṛṣṇa-avadhūta has struck a novelpoint of departure. He has named the *adhikaraṇas* by reference to the subject-matter or central conclusion concerned.Instances of such renaming are too numerous to be listed here.As against the novel units of nomenclature and terminology adopted by the author, the usual and traditional names are given in *foot-notes* to facilitate ready reference. It is difficultto say how far such a renaming has traditional or historicalsanction, but, there is no doubt that it has contributed substantially to push into prominence and immediate focus of attentionthe central and cardinal *conclusion* or subject-matter of the*adhikaraṇas* in question. Even a single clinching illustrationwould suffice. In explaining what is ordinarily known as "*Ata-eva-adhikaraṇa*”, or “*Sūryakādivadadkikaraṇa*” based on the apothegm, "*Ata-eva-ca-upamā-suryakādivat*”, (P-45) the author has renamed the section as ''*Jīva-Īśa-bheda-adhikaraṇa*"which immediately conveys the central conclusion aimed at in the context. As one would easily see, in all the different contexts in which such a rechristening has been attempted, it hasbeen illuminatingly suggestive of the basic conclusion of thesection or its subject-matter. Adherents to and upholders of the strict orthodox tradition may look askance at such innovations in and liberties taken with the traditionally transmittednames, but, there is nothing logically or philosophically unsound in the new way of naming the *adhikaraṇas* adoptedby *Kṛṣṇa-avadhūta*.
 
 VI
 
  There is another point to note. According to the count adopted by Vijayīndratīrtha in his "Brahmasūtra-nyāya-saṅgraha," the *number* of adhikaraṇas in the first chapter of theVedānta-sūtras would be seen to stand at 39. But, accordingto the count taken by Kṛṣṇa-avadhūta, the total strength ofthe *adhikaraṇas* of the first chapter has been given as 40.Naturally, this method of reckoning does interfere with the grand total for all the *four* chapters. The grand total has been taken to be 223 *adhikaraṇas* by *Kṛṣṇa-avadhūta* and others. On the contrary, Vijayīndra has taken it to be 222.
+
+
 
 In the final summing up, Vijayīndra has pointed out that thereare 222-*adhikaraṇas* and 564-*sūtras*.
 
@@ -452,6 +552,8 @@ In the final summing up, Vijayīndra has pointed out that thereare 222-*adhikara
  'A similar numerological or pseudo-numerological interpretation has also been attempted of the grand total of the apothegms. According to Śaṅkara, the total strength of the apothegms is 555. According to Rāmānuja the total is 545. According to Madhva, however, the total is 564. Vijayīndra sums up the final count thus**—***Śrī Rudrāḥ-Brahma-mīmāmśānyāyāḥ-Sūtrāṇi-bhūṣaṇam”*. It means that the number of the *adhikaraṇas* is 222, and that of the *Sūtras* is 564.
 
  The first 5 indicates or stands for the five fundamental differences on which the Dvaita of Madhva is based. (Pañcabheda—quintuple-pronged difference—Difference betweenSupreme and finite self, Difference between Supreme and finite
+
+
 
 inanimate, Difference between animate and inanimate, Difference between one animate and another animate, and Differencebetween one inanimate and another inanimate**—***Jīveśa*-*bheda*,*Jaḍeśa-bheda*, *Jīva-jaḍa-bheda*, *Jīva-paraspara-bheda*, and*Jaḍa-paraspara-bheda*).
 
@@ -466,6 +568,8 @@ inanimate, Difference between animate and inanimate, Difference between one anim
  All truth-seekers will have to undertake comparative study of the *three* leading systems of *Vedānta*, Advaita, Viśiṣṭ-ādvaita, and Dvaita, for the purpose of determination of the relative philosophical strength and weakness of the doctrines. There are other systems as well like *Śaiva-siddhānta*, *Vīra-śaiva*, *et hoc* that deserve critical examination.
 
  One thing is certain. Compromise, give-and-take, surrender of fraction of rights for the purpose of retaininganother fraction and so forth may be perfectly in order andmay be the only means in certain exigencies of life. In philosophy, in metaphysics, in studying and determining the relationbetween God and Man (that is philosophy and nothing else)
+
+
 
 there is absolutely *no* room for any compromise whatsoever. For, compromise is suicidal to truth-determination.
 
@@ -483,6 +587,8 @@ there is absolutely *no* room for any compromise whatsoever. For, compromise is 
 
  I learn that there exists a commentary on Kṛṣṇa-avadhūta's work here published. I hope in due course it may also see the light of day. Here and there I have *reconstructed*
 
+
+
 sentences where such reconstruction seemed to me necessary. Ihad no access to the commentary. Nor had I any other copy of "Sūtra-artha-amṛta-lahari" for the purpose of comparison.The work was edited with the help of classics of Madhva andof Jayatīrtha already in print.
 
  The reconstructions attempted by me are definitely *tentative*. If, in the light of the commentary it should ever transpire thatthe reconstructions are untenable such a verdict would be final.
@@ -492,6 +598,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  My sincerest thanks are due to Mr. T. Chandrasekharan,Curator of the Madras Government Oriental ManuscriptsLibrary and General-Editor of the publications for the opportunity given me to edit Kṛṣṇa-avadhūta Paṇḍita's work "Sūtra-artha-amṛta-laharī" and place it before the public.
 
 **R. NAGARAJA SARMA.**
+
+
 
 **॥श्रीगुरुभ्यो नमः॥**
 
@@ -532,6 +640,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 **पूर्वा पूर्वकृतीर्वीक्ष्य सम्प्रदायानुरोधिनी।  
 गुरुवाक्यमुपादाय कृतिर्मेस्यात्सतां मुदे॥**
 
+
+
 **मात्सर्यचण्डालसखान्तरङ्गा-  
 दाभासितब्राह्मणभावभाजाम्।  
 पाणिग्रहक्लेशभयात् कृतिं मे  
@@ -560,6 +670,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  लोकप्रसिद्धया अन्यत्र रूढानां नामात्मकशब्दानां श्रुतिलिङ्गादिबलाद्विष्णौ समन्वयप्रतिपादनात् **अन्यत्रप्रसिद्धनामपाद** **इति** **प्रथमस्य**, लोकतोऽन्यत्र प्रसिद्धानां लिङ्गात्मकानां शब्दानां विष्णौ समन्वयप्रतिपादनात् **अन्यत्रप्रसिद्धलिङ्गपाद** **इति** **द्वितीयस्य**, उभयत्र प्रसिद्धानां नामलिङ्गात्मकानां शब्दानां श्रुत्यादिप्रबलहेतुभिर्विष्णौ समन्वयप्रतिपादनात् **नामलिङ्गपाद इति तृतीयस्य**,श्रुतिलिङ्गादिभिरन्यत्रैव प्रसिद्धानामपि शब्दानां सामस्त्येन विशेषहेतुभिः विष्णौ समन्वयप्रतिपादनात् **श्रुतिलिङ्गपाद इति चतुर्थस्य** च व्यपदेशः॥
 
+
+
  अत्र प्रथमे नामपादे सूत्राण्येकत्रिंशत्। द्वादशाऽधिकरणानि। द्वे कक्ष्ये। प्रथमपञ्चाधिकरणी त्वध्यायपादाकाङ्क्षोक्षोत्थापकतया अध्यायपादपीठत्वादेका कक्ष्या प्रथमा॥
 
  ओं '**अथातो ब्रह्मजिज्ञासा**' इत्यादिमजिज्ञासाधिकरणे ब्रह्मजिज्ञासायाः सप्रयोजनककर्तव्यत्वसमर्थनम्॥
@@ -584,7 +696,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  **'गतिसामान्यात्'** इति षष्ठसूत्रे विष्णोः सर्ववेदप्रतिपाद्यत्वरूप **"सं"–**शब्दार्थसमर्थनम्॥
 
+
+
  **'श्रुतत्वाच्च'** इति सप्तमसूत्रे परब्रह्मणो वाच्यत्वे संबिधाननिरपेक्षश्रुतत्वरूपहेतुकथनम्॥५॥ इति प्रथमा कक्ष्या॥१॥
+
 
 षष्ठाधिकरणमारभ्य[^5] आपादसमाप्ति सप्ताधिकरणीविष्णावन्यत्र
 प्रसिद्धनामात्मकशब्दसमन्वयप्रतिपादिका इति द्वितीया कक्ष्या।
@@ -611,6 +726,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  **'प्राणस्तथानुगमात्'** इति प्रथमसूत्रे ब्रह्मशब्दात् देवोपास्यत्वादिरूपस्वपक्षसाधकोक्तिः॥
 
+
+
  **'न वक्तुरात्मोपदेशादिति चेदध्यात्मसम्बन्धभूमा ह्यस्मिन्'** इति द्वितीयसूत्रे लिङ्गापेक्षया वाक्यस्य दुर्बलत्वेऽपि अस्मच्छन्दोत्तमपुरुषवत्तथा प्राणोवाहमस्मीतीन्द्रप्रयुक्तवाक्यस्य निरवकाशतया प्राबल्येन तन्न्यायेनेन्द्रादिप्रापकश्रुतिलिङ्गानामपि सावकाशत्वाऽसिद्धेर्वाक्यरूपं बाधकमाशङ्क्य तस्यान्तर्यामिपरतया सावकाशत्वोक्त्या तन्निरासः॥
 
  **'शास्त्रदृष्ट्या तूपदेशो वामदेववत्'** इति तृतीयसूत्रे अन्तर्यामिविवक्षयाअहमादिशब्दप्रयोगस्य सदृष्टान्तं समर्थनम्॥
@@ -627,8 +744,11 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 [^7]: "अनुव्याख्यान–(Kumbakonam
 
+
 **एतद्भावाभिधं लिङ्गं क्रियालिङ्गे ततः परम्।  
 अन्तर्याम्यन्तरश्चेति क्रियाभावाख्यमुच्यते॥१-२-४॥**
+
+
 
 सङ्क्षेपे[^8] Edition P-159.") च**—**
 
@@ -654,6 +774,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  **'स्मृतेश्च'** इति षष्ठसूत्रे 'अहमात्मा गुडाकेश सर्वभूतान्तरस्थितः’ इत्यादि बहिरङ्गसमाख्यारूपस्मृत्युक्तिः॥
 
  **'अर्भकौकस्त्वात्तद्व्यपदेशान्नेति चेन्न निचाय्यत्वादेवं व्योमवच्च'** इतिसप्तमसूत्रे सर्वेष्विति सर्वभूताशयस्थित इति विषयवाक्यसमाख्यास्मृत्योरुक्तस्याल्पौकत्स्वस्यापरिच्छिन्नपरमात्मस्वरूपविरोधित्वेनादित्यश्रुत्याद्यपेक्षयाप्राबल्यात्प्रथमंतदाशङ्क्यविषयवाक्यगतादित्यादिश्रुतिं चक्षुर्मयत्वादिलिङ्गमनन्तरमाशङ्क्यतेषां सावकाशत्वोक्तिः॥
+
+
 
  **‘सम्भोगप्राप्तिरिति चेन्न वैशेष्यात्'** इत्यष्टमसूत्रे बीहरङ्गसम्भोगरूपबाधकमाशङ्क्यतत्परिहारः॥ प्रथमा कक्ष्या॥१॥
 
@@ -681,6 +803,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  **'श्रुतोपनिषत्कगत्यभिधानाच्च'** इति चतुर्थसूत्रे अक्षिस्थविद्याया अग्निविद्यात्वात्कथं विष्णुपक्रमेण प्रकरणस्य वैष्णवत्वमिति शङ्कानिरासाय अक्षिस्थविद्याया अग्निविषयकत्वाभावे विष्णुविषयकत्वे च श्रुतोपनिषदां पुंसां वायुनाविष्णुगमनरूपहेतुक्तिः॥
 
+
+
  **‘अनवस्थितेरसम्भवाच्च नेतरः'** इति पञ्चमसूत्रे अग्निपक्षेऽनवस्थित्यसम्भवरूपबाधकोक्तिः॥४॥
 
  सूत्रत्रयात्मकेपञ्चमेऽन्तर्याम्यधिकरणे अन्तःस्थितिरूपभावयुक्तनियमनरूपलिङ्गसमन्वयः॥
@@ -703,6 +827,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  **'वैश्वानरः साधारणशब्दविशेषात्'** इति प्रथमसूत्रे 'यस्त्वेतमेवम्' इति श्रुत्युक्तवैश्वानरस्य विष्णुत्वे आत्मशब्दस्य तद्विशेषणत्वोक्तिः॥
 
+
+
  **'स्मर्यमाणमनुमानं स्यात्'** इति द्वितीयसूत्रे 'अहं वैश्वानरः' इतिसमाख्यास्मृत्युक्तिः॥
 
  **'शब्दादिभ्योऽन्तःप्रतिष्ठानान्नेति चेन्न तथादृष्ट्युपदेशादसम्भवात्पुरुषविधमपि चैनमधीयते'** इति तृतीयसूत्रे 'अयमग्निर्वैश्वानरः' इत्याद्यग्निश्रुतौ वैश्वानरशब्दस्य अग्निशब्दसामानाधिकरण्यादेः विष्णोर्वैश्वानरत्वे बाधकशङ्कायामग्निश्रुत्यादीनां 'दृष्टयुपदेशात्' इत्यादिना सावकाशत्वं तत्कल्पकात्मशब्दस्यासंभवादिति निरवकाशत्वमुक्त्वा तस्याप्यमुख्यत्वशङ्कानिरासाय 'पुरुषविधम्' इति सावकाशत्वानर्हपुरुषसूक्तसमाख्योक्तिः॥
@@ -723,6 +849,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 कक्ष्याविभागे प्रथमाध्यायस्य द्वितीयः  
 लिङ्गपादः समाप्तः॥
 
+
+
 **॥अथ नामलिङ्गपादस्तृतीयः॥**
 
  अस्यैवोभयत्रप्रसिद्धपाद इति प्रसिद्धिः। अत्र सूत्राणि त्रिचत्वारिंशत्॥४३॥ चतुर्दशाधिकरणानि॥१४॥ सप्त कक्ष्याः॥७॥ तत्र सप्तसूत्रीद्युभ्वाद्यधिकरणमेकं द्युम्वाद्यायतनत्वलिङ्गसमन्वयप्रतिपादकमिति प्रथमा कक्ष्या॥
@@ -742,6 +870,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  **'स्थित्यदनाभ्यांच'** इति सप्तमसूत्रे जीवेश्वरभेदे लिङ्गरूपसाधकान्तरोक्तिः॥ इति प्रथमा कक्ष्या॥१॥
 
  द्वितीयं तृतीयं चतुर्थमित्यधिकरणत्रयी शब्दसमन्वयप्रतिपादनीतिद्वितीया कक्ष्या॥
+
+
 
  सूत्रद्वयात्मके द्वितीये भूमाधिकरणे भूमशब्दसमन्वयप्रतिपादनम्॥
 
@@ -767,6 +897,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  **'गतिशब्दांभ्यां तथा हि दृष्टं लिङ्गं च'** इति द्वितीयसूत्रे तदुत्तरवाक्यगतसुप्तप्राप्यत्वादिलिङ्गब्रह्मशब्दरूपसाधकान्तरोक्तिः। 'अरश्च ह वै ण्यश्च' इति वाक्यस्य 'धृतेश्च' इति उत्तरसूत्रोपात्तात्' 'अथ य आत्मा स सेतुर्विधृतिः' इति वाक्यादुत्तरत्वेऽपि ‘एतं ब्रह्मलोकम्' इति पूर्ववाक्योक्तहेतुप्रतिपादकत्वादेव (दवसरप्राप्त) तदुक्तलिङ्गोक्तिः॥
 
+
+
  **‘धृतेश्चमहिम्नोऽस्यास्मिन्नुपलब्धेः'** इति तृतीयसूत्रे तदुत्तरवाक्यगतसर्वाधारत्वलिङ्गस्य वाजसनेयसमाख्यायाश्चोक्तिः। 'महिम्नोऽस्यास्मिन्नुपलब्धेः' इति समाख्याप्रतिपादकसूत्रांशेन सर्वोंशेन सर्वाधारत्वलिङ्गस्य हृत्पद्मस्थत्वस्याप्युपपादनात् तल्लिङ्गसाहित्येन तत्समाख्योक्तिः॥
 
  **'प्रसिद्धेश्च'** इति चतुर्थसूत्रे तैत्तिरीयसमाख्यया परमात्मनो हृत्पद्मगतदहराकाशस्थत्वेन हृत्पद्मस्थत्वप्रतिपादनात् तदुक्तौ सुषिरश्रुतिविरोधशङ्कायां तत्रापि'दहरम्' इत्यनेन तदुद्धारस्योपलक्षणतयान्वयाभावलक्षणबाधकोद्धारस्य चाकाशपक्षेअन्वयाभावरूपपरपक्षबाधकस्य च सूचनात् सर्वसाधकोक्त्यनन्तरं तदुक्तिः॥
@@ -784,6 +916,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  **‘अनुकृतेस्तस्य च'** इति प्रथमसूत्रे जगत्प्रकाशकसूर्यादिनियामकत्वसकलजगत्प्रकाशकत्वरूपलिङ्गोक्तिः॥
 
  **'अपि स्मर्यते'** इति द्वितीयसूत्रे तल्लिङ्गद्वयस्य 'न तत्र' इत्युक्तसूर्याद्यप्रकाश्यत्वरूपलिङ्गान्तरस्य च विष्णुमात्रनिष्ठत्वे श्रुतिस्मृतिप्रमाणोक्तिः॥६॥ इति तृतीया कक्ष्या॥३॥
+
+
 
  सूत्रद्वयात्मकं सप्तमं वामनाधिकरणमेकं ईशानशब्दसमन्वयप्रतिपादकमिति चतुर्थी कक्ष्या॥
 
@@ -803,6 +937,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  **‘समाननामरूपत्वाच्चावृत्तावप्यविरोधो दर्शनात्स्मृतेश्च'** इति पञ्चमसूत्रे श्रुत्यादिबलेन देवताप्रवाहस्य अनादिनित्यत्वे सिद्धेऽपि तेषां देवानांप्रतिकल्पं भिन्नभिन्ननामरूपवत्त्वे एकप्रकारेण तत्प्रतिपादकवेदाप्रामाण्यं तदवस्थमित्याशङ्कापरिहाराय श्रुत्याद्यवष्टम्भेन देवानां सर्वकल्पेषु समानरूपवत्वोक्तिः॥
 
+
+
  **'मध्वादिष्वसम्भवादनधिकारं जैमिनिः'** इति षष्ठसूत्रे सामान्यतोदेवानां वेदविद्याधिकारे साधित एव विद्याविशेषविषयापेक्षावसर इति मोक्षेतरफलकब्रह्मकर्मविद्यासु देवानामधिकाराक्षेपः॥
 
  **'ज्योतिषि भावाच्च'** इति सप्तमसूत्रे मोक्षेतरवस्वादिपदादेः प्राप्तत्वेन वस्वादिदेवानां तत्फलकविद्यास्वधिकारासम्भवेऽप्यसिद्धमोक्षफलकविद्यास्वधिकारः सम्भवतीतिसिद्धान्त्यभिसन्धिनिरासाय देवानामपरोक्षज्ञानित्वेन मोक्षस्यापिप्राप्तप्रायत्वेन तद्विद्यास्वष्यधिकाराक्षेपः॥
@@ -820,6 +956,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  **'तदभावनिर्धारणे च प्रवृत्तेः'** इति चतुर्थसूत्रे पूर्वसूत्रोक्तस्य शूद्रस्योपनयनादिसंस्काराभावाभिलापस्य शूद्रे तन्निषेधनिबन्धनत्वसिद्ध्यर्थमुपनयनादिसंस्कारकरणे शूद्रत्वाभावनिश्चयेन प्रवृत्तिरूपलिङ्गोक्तिः॥
 
  **'श्रवणाध्ययनार्थप्रतिषेधात्स्मृतेश्च'** इति पश्चमसूत्रे विशिष्टबुद्ध्यादिमत्त्वरूपयुक्तेर्न केवलमुपोद्बलकाभावेन दौर्बल्यम्, किं त्वनिषिद्धत्वसहितविशिष्टबुद्ध्यादिमत्त्वरूपोपाधिप्रस्तत्वेनापीत्याशयेन उपाधेः पश्चाव्द्यावृत्तत्वसिद्धयेशूद्रस्य वेदश्रवणाध्ययनादेर्निषेधकप्रमाणोक्तिः॥९॥ इति पञ्चमी कक्ष्या॥५॥
+
+
 
  दशमैकादशद्वादशैतदधिकरणत्रयं शब्दसमन्वयरूपैकार्थप्रतिपादकमितिषष्ठी कक्ष्या॥
 
@@ -857,6 +995,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 [^12]: "अनुव्याख्यान-P—174- opening line. सर्वमूल KumbakonmEdition."
 
+
+
 इत्यनुव्याख्यानोक्तेश्च॥
 
  तत्र सूत्रनवकात्मके [अनुमानाधिकरणे](http://आनुमानिकाविकरण%20seems%20better. "आनुमानिकाविकरण seems better.") प्रथमे ऐश्वर्यविरोध्यवरत्वदुःखित्वाद्यर्थकशब्दसमन्वयः॥ इति प्रथमा कक्ष्या॥
@@ -881,6 +1021,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  सूत्रद्वयात्मकं द्वितीयं कर्मज्योतिरधिकरणमेकं शब्दानां वर्णपदादिरूपेण समन्वयं प्रतिपादयतीति द्वितीया कक्ष्या॥
 
+
+
  **'ज्योतिरूपक्रमात्तु तथा ह्यधीयत एके'** इति प्रथमसूत्रे स्वपक्षसाधकैतरेयोक्तत्वोक्तिः॥
 
  **'कल्पनोपदेशाच्च मध्वादिवदविरोधः'** इति द्वितीयसूत्रे स्वपक्षे लोकक्लृप्तकर्मक्रमव्यवहारादिविरोधरूपबाधकपरिहारः॥२॥ इति द्वितीया कक्ष्या॥२॥
@@ -901,6 +1043,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  **'जगद्वाचित्वात्'** इति द्वितीयसूत्रे शब्दानां परमात्मनि मुख्यार्थत्वे जगत्यमुख्यार्थत्वे शब्दप्रसिद्धिः परमात्मन्येव स्यात् न जगतीति शङ्कानिरासाय जगति शब्दप्रसिद्धेरन्यथासिद्ध्युक्तिः॥
 
+
+
  **‘जीवमुख्यप्राणलिङ्गादिति चेत्तद्ख्यातम्'** इति तृतीयसूत्रेपरमात्मनः शब्दमुख्यार्थत्वे निमित्तत्वेनाभिप्रेतस्य तत्तच्छन्दवाच्यार्थनियामकत्वस्यअन्यनिष्ठत्वमाशङ्क्यपरिहारः॥
 
  **‘अन्यार्थं तु जैमिनिः प्रश्नव्याख्यानाभ्यामपि चैवमेके'** इतिचतुर्थसूत्रे एवं ब्रह्मजगतोः शब्दमुख्याऽमुख्यार्थत्वव्यवस्थितौ अमुख्यार्थत्वविवक्षया वैदिकशब्दानां कर्माद्यन्यपरत्वस्य ब्रह्मज्ञानरूपप्रयोजनोक्तिः॥
@@ -918,6 +1062,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  **'प्रकृतिश्च प्रतिज्ञादृष्टान्तानुपरोधात्'** इति प्रथमसूत्रे 'हन्तैतम्' इतिश्रुतेः 'यथा नद्यः' इति दृष्टान्तेनोपपादनात् 'नामानि सर्वाणि' इत्यतो विशेषश्रुतिसुत्त्वाद्विष्णोःस्त्रीलिङ्गशब्दवाच्यत्वे तद्रूपविशेषप्रमाणोक्तिः॥
 
  **'अभिध्योपदेशाच्च'** इति द्वितीयसूत्रे इच्छाद्वारा प्रकृतिशब्दवाच्यत्व विष्णेरित्यत्र 'मायांतु प्रकृतिं विद्यात्' इति प्रमाणोक्तिः॥
+
+
 
  **'साक्षाच्चोभयाम्नानात्'** इति तृतीयसूत्रे विष्णोः प्रकृत्यादिशब्दवाच्यत्वे साक्षादद्वैतमितिवत्[^13] साधारण्यं विना... यात्वितिवदिच्छाद्वारकत्वं विना एष स्त्र्येष पुरुष इति स्पष्टप्रमाणोक्तिः॥
 
@@ -942,6 +1088,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 सूत्राणि[^14] वसुपञ्चक्ष्माः॥१५८॥ पञ्चपञ्चनया अपि॥५५॥
 
 [^14]: "Here is apparently an error in count. The number of sutras as detailed in each quarter would total to 159. But the total as found in the manuscript is 158. There seems to be a way of reconciliation. If वसुwhich is generally taken to indicate8 is taken as symbolical of 9 in the light of नवरत्न,the count is allright."
+
+
 
  अविरोधे द्वितीयेऽत्राध्याये कक्ष्यास्तु विंशतिः॥२०॥
 
@@ -968,6 +1116,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  सूत्रद्वयात्मकेऽभिमान्यधिकरणे तृतीये दृढयुक्तिविरोधनिरासः॥
 
  **'अभिमानिव्यपदेशस्तु विशेषानुगतिभ्याम्'** इति प्रथमसूत्रे 'मृदब्रवीदापोऽब्रुवन्' इत्यादिश्रुतावभिमानिदेवताव्यपदेशे शक्तिव्याप्तिरूपहेतूक्तिः॥
+
+
 
  **'दृश्यते च'** इति द्वितीयसूत्रेऽभिमानिदेवतानां तत्सामर्थ्यस्य चमहद्भिर्दृश्यमानत्वरूपहेतुकथनम्॥ इति द्वितीया कक्ष्या॥२॥
 
@@ -997,6 +1147,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  **'तदनन्यत्वमारम्भणशब्दादिभ्यः'** इति प्रथमसूत्रे स्वतन्त्रकारणस्य ब्रह्मानन्यत्वं प्रतिज्ञाय तत्र श्रुतियुक्तिरूपप्रमाणोक्तिः॥
 
+
+
  **'भावे चोपलब्धेः'** इति द्वितीयसूत्रे स्वतन्त्रसाधनसद्भावाङ्गीकारेबाधकोक्तिः॥
 
  **'सत्त्वाच्चावरस्य'** इति तृतीयसूत्रे द्वितीयसूत्रोक्ततर्कस्येष्टापादनरूपत्वपरिहाराय 'अद्भ्यःसम्भूतः' इत्यादिश्रुतेः परतन्त्रसाधनपरत्वासम्भव इत्याशङ्कापरिहाराय 'नासदासीत्' इति विरोधमाशङ्क्यतस्याः सावकाशत्वोक्तिः॥
@@ -1021,6 +1173,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  **'अश्मादिवच्चतदनुपपत्तिः'** इति तृतीयसूत्रे चेतनत्वाविशेषाज्जीवस्थापीश्वरवदेव स्वतन्त्रकर्तृत्वं स्यादित्याशङ्कापरिहाराय जीवस्य स्वातन्त्र्यानुपपत्त्युक्तिः॥
 
  **'उपसंहारदर्शनान्नेति चेत् क्षीरवद्धि'** इति चतुर्थसूत्रे जीवे स्वातन्त्र्येण कर्तृत्वस्योत्रानुभवात् कथं तदनुपपत्तिरित्याशङ्क्यकर्तृत्वस्येश्वराधीनत्वेन स्वातन्त्र्यांशेऽनुभवस्य भ्रमत्वोक्तिः॥
+
+
 
  **'देवादिवदपिलोक'** इति पञ्चमसूत्रे ईश्वरस्यैवानुपलम्भेनाभावात् कथंजीवकर्तृत्वस्य तदधीनत्वमित्याशङ्कापरिहाराय ईश्वरानुपलम्भस्य सदृष्टान्तमन्यथासिद्धत्वोक्तिः॥
 
@@ -1048,6 +1202,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  सूत्रत्रयात्मके (दशमे) वैषम्यनैर्घृण्पाधिकरणे वैषम्यादियुक्तिविरोधपरिहारः॥
 
+
+
+
+
  **'वैषम्यनैर्घृण्ये न सापेक्षत्वात्तथा हि दर्शयति'** इति प्रथमसूत्रेकर्मादिसापेक्षं कर्तृत्वमङ्गीकृत्य वैषम्यनैर्घृण्ययोः परिहारः॥
 
  **'न कर्माविभागादिति चेन्नानादित्वात्'** इति द्वितीयसूत्रेऽपेक्षणीयकर्मण ईशानधीनत्वे ईशस्य सर्वकारणत्वहानिः। ईशाधीनत्वे तु निर्निमित्तंविषमाणां कर्मणां कारयितुर्वैषम्यनैर्घृण्ये स्यातामित्याक्षेपे कर्मादीनामनादित्वाभ्युपगमेन समाधानम्॥
@@ -1067,6 +1225,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  प्रथमपञ्चाधिकरणेईश्वरनिरपेक्षाचेतनप्रकृतिवादमतनिरासकत्वेनप्रथमा कक्ष्या॥
 
  तत्र सूत्रचतुष्टयात्मके प्रथमे रचनाधिकरणेऽचेतनप्रकृतिनिरीश्वरसाङ्ख्यमतनिरासः॥
+
+
+
+
 
  **'रचनानुपपत्तेश्च नानुमानम्'** इति प्रथमसूत्रे प्रधानस्य जगत्कर्तृत्वेऽचेतनत्वेन स्वतःप्रवृत्त्यनुपपत्तिरूपबाधकोक्तिः॥
 
@@ -1092,6 +1254,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  **'अन्यथानुमितौ च ज्ञशक्तिवियोगात्'** इति प्रथमसूत्रे परोत्प्रेक्षितमनुभानमाशङ्क्यतस्याभासत्वाय दृष्टान्ते साध्यवैकल्योपपादनम्॥
 
+
+
  **'विप्रतिषेधाच्चासमञ्जसम्'** इति द्वितीयसूत्रे सामान्यदोषेणापि[प्राक्तनसर्वमतसहितैतन्मते](http://प्राक्तनसर्वमतसहशैतन्मते%C2%A0seems%20better. "प्राक्तनसर्वमतसहशैतन्मतेseems better.")श्रुत्यादिविरोधेनाप्ययुक्तत्वकथनम्॥अ॥५॥क॥१॥
 
  सप्तसूत्रात्मकं षष्ठं वैशेषिकाधिकरणमेकं हेतुककणादमतनिरासकमिति द्वितीया कक्ष्या॥
@@ -1116,9 +1280,14 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  **'समुदाय उभयहेतुकेऽपि तदप्राप्तिः'** इति प्रथमसूत्रे घटादिव्यवहारालम्बनत्वेन परपरिकल्पितपरमाणुसमुदायानुपपत्त्युक्तिः॥
 
+
+
+
+
  ‘इतरेतरप्रत्ययत्वादिति चेन्नोत्पत्तिमात्रनिमित्तत्वात्' इति द्वितीयसूत्रे समुदायाद्यनुपपत्त्यभावमाशङ्क्यकारणस्य विसदृशकार्यजनकत्वमभ्युपेत्वापितत्परिहारः॥
 
  **'उत्तरोत्पादे च पूर्वनिरोधात्'** इति तृतीयसूत्रे विसदृशकार्यजनकत्वस्याप्यसम्भवोक्तिः॥
+
 
 **'प्रतिसङ्ख्याऽप्रतिसङ्ख्यानिरोधाप्राप्तिरविच्छेदात्[^20]'** इति पञ्चमसूत्रे पराभिमतनाशनिरासोक्तिः॥
 
@@ -1139,6 +1308,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  **‘नाभाव उपलब्धेः’**इति तृतीयसूत्रे मृद्घटादिवच्छून्यप्रपञ्चयोः कार्यकारणभावाङ्गीकारे स्याद्दृष्टिविरोधः। शून्यमेव जगदाकारेण भाति न परमार्थतो जगदस्तीत्यङ्गीकारे तु नोक्तदोष इत्याशङ्कापरिहाराय जगतोऽसत्त्वाङ्गीकारे सदिति प्रत्यक्षविरोधोक्तिः॥
 
  **'वैधर्म्याच्च न स्वप्नादिवत्'** इति चतुर्थसूत्रे प्रपञ्चसत्वग्नाहिप्रत्यक्षस्य स्वप्नादिप्रतीतिवद्भ्रान्तित्वशङ्कानिरासाय तयोर्बाधकसदसद्भावरूपवैलक्षण्योक्तिः॥अ॥८॥
+
+
 
  सूत्रत्रयात्मके नवमे योगाचाराधिकरणे[^21] विज्ञानमतनिरासः॥
 
@@ -1173,6 +1344,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  **'पत्युरसामञ्जस्यात्'** इत्याद्यसूत्रे पशुपतेर्जगत्कर्तृत्वाभावे पारतन्त्र्यादिदोषवत्त्वहेतूक्तिः॥
 
+
+
+
+
  **'सम्बन्धानुपपत्तेश्च'** इति द्वितीयसूत्रे तत्रैवाशरीरस्य कार्यकारणसम्बन्धानुपपत्तिरूपान्तरङ्गहेतूक्तिः॥
 
  **‘अधिष्ठानानुपपत्तेश्च'** इति तृतीयसूत्रे ततोऽपि बहिरङ्गाधिष्ठानानुपपत्तिरूपहेत्वन्तरोक्तिः॥
@@ -1202,6 +1377,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  'विप्रतिषेधात्' इत्युक्तदोषो वैदिकमतेऽपि स्यादित्याशङ्काव्युदासाय अत्र पादे श्रुतिविरोधो निरस्यत इति दृष्टान्तसङ्गतिः। उद्देशक्रमानुसारेणसमयविरोधनिरासानन्तरं श्रुतिविरोधनिरासादवसरसङ्गतिरित्यनयोः संसृष्टिः॥
 
+
+
+
+
 **"सजातीयविजातीयसङ्गतीनां समागमे।  
 पृथक्तिलाक्षतन्यायात् संसृष्टिरिति कथ्यते॥"**
 
@@ -1226,6 +1405,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  **'एतेन मातरिश्वा व्याख्यातः'** इति द्वितीये मातरिश्वाधिकरणे वायोरुत्पत्यनुत्पत्तिश्रुत्योरविरोधोक्तिपूर्वकमुत्पत्तिसिद्धान्तः। वृत्तिज्ञानस्य\[?\] स्वरूपातिरिक्तस्य प्रवाहतोऽनादित्वोक्तिश्च[^26] is defined by Vyāsarāja in his commentary on Madhva's उपाधिखण्डन known as मन्दारमञ्जरी. The definition is a logical masterpiece. It runs thus:—    एक प्रवाहमध्यपतिताऽनेकप्रवाहिप्रतियोगिकप्रागभावाऽवच्छिन्नकालाऽवृत्तिस्वाऽनधिकरणध्वंसप्रतियोगिप्रवाहित्वम्।")॥अ॥२॥
 
 [^26]: "This type or pattern of प्रवाहतोऽनादित्व (beginning-lessness
+
+
 
  **'असम्भवस्तु सतोऽनुपपतेः'** इति तृतीयेऽसम्भवाधिकरणे ब्रह्मोत्पत्तिश्रुत्यविरोधपूर्वकं ब्रह्मणोऽनुत्पत्तिसिद्धान्तः॥अ॥३॥क॥१॥
 
@@ -1252,6 +1433,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** 'अन्तरा विज्ञानमसी क्रमेण तल्लिङ्गादिति चेन्नाविशेषात्'** इति प्रथमसूत्रे लिङ्गमात्रेण पूर्वपक्षिते श्रुत्यादिरूपविशेषप्रमाणाभावोक्त्या सिद्धान्तः॥
 
 ** 'चराचरव्यपाश्रयस्तु स्यात्तद्व्यपदेशो भाक्तः, तद्भावभावित्वात्'** इति द्वितीयसूत्रे तल्लिङ्गस्य सावकाशत्वोक्तिः॥अ॥९॥
+
+
+
+
 
  **'नात्माश्रुतेर्नित्यत्वाच्च ताभ्यः'** इति ब्रह्मलयाधिकरणे[^29]दशमेपरब्रह्मणो लयतदभावश्रुत्योरविरोधोक्तिः॥अ॥१०॥क॥४॥
 
@@ -1281,6 +1466,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'गुणाद्वा लोकवत्'** इति सप्तमसूत्रे मानुषादिसर्वजीवापेक्षया चिद्गुणव्याप्त्या प्रागुक्तयुक्तेरन्यथासिद्ध्युक्तिः॥अ॥१२॥
 
+
+
  **'व्यतिरेको गन्धवत्तथा च दर्शयति'** इति व्यतिरेकाधिकरणे त्रयोदशेजीवस्यानेकदेहास्थितत्वविषयकश्रुतिविरोधनिरासः॥अ॥१३॥
 
  सूत्रद्वयात्मके चतुर्दशे पृथगुपदेशाधिकरणे जीवस्येश्वराभिन्नत्वविषयश्रुत्यविरोधः॥
@@ -1307,6 +1494,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** ‘व्यपदेशाच्च क्रियायां न चेन्निर्देशविपर्ययः'** इति चतुर्थसूत्रे जीवकर्तृत्वे श्रुतिप्रमाणोक्तिः॥
 
+
+
  **'उपलब्धिवदनियमः'** इति पञ्चमसूत्रे यद्येवं जीवस्यापि कर्तृत्वेकथमीश्वरस्यैव कर्तृत्वं पूर्वं समर्थितमित्याशङ्कायां करिष्यामीति निरूपिते
 
 कर्मणि \[जीवस्य\]नियमाभावादीश्वरस्य तु तद्भावात् स एव कर्ता न जीव इतिप्रागुक्तम्। न तु सर्वथा जीवस्य कर्तृत्वाभाव इति सदृष्टान्तं समर्थनम्॥
@@ -1321,6 +1510,7 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'कृतप्रयत्नापेक्षस्तु विहितप्रतिषेधावैयर्थ्यादिभ्यः'** इति दशमसूत्रे तर्हीशस्यैव स्यात् कर्तृत्वं न जीवस्येति पुनः शास्त्रवैयर्थ्यमित्याशङ्कायाम्, अनादिकर्मप्रयत्नयोग्यताङ्गीकारेण तत्परिहारः॥अ॥१७॥
 
+
 सूत्राष्टकात्मकेऽष्टादशेंऽशाधिकरणेजीवस्येश्वरांशत्वविषयश्रुतिविरोधनिरासः॥
 
 ** 'अंशो नानाव्यपदेशादन्यथा चापि दाशकितवादित्वमधीयत एके'** इति प्रथमसूत्रे जीवानामीशांशत्वं प्रतिज्ञाय 'नानाव्यपदेशात्' इत्यनेन अनेकविधभगवत्सम्बन्धित्वरूपांशत्वव्यपदेशरूपप्रमाणस्यावशिष्टसूत्रांशेन श्रुत्युपोद्बलकभेदाभेदव्यपदेशान्यथानुपपत्तिरूपप्रमाणस्य च कथनम्॥
@@ -1328,6 +1518,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** 'मन्त्रवर्णात्'** इति द्वितीयसूत्रे तद्युक्त्युपोद्बलिकायाः सामान्येनांऽशत्वप्रतिपादिकायाः श्रुतेरुक्तिः॥
 
 ** 'अपि स्मर्यते'** इति तृतीयसूत्रे श्रुतिमूलकस्मृत्युक्तिः॥
+
+
 
  **'प्रकाशादिवन्नैवं परः'** इति चतुर्थसूत्रेंऽशत्वेऽपिसदृष्टान्तंजीवाद्यसाम्यप्रतिज्ञा॥
 
@@ -1350,6 +1542,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 इति श्रीकृष्णावधूतपण्डितकृतौ सूत्रार्थामृतलहर्यां सङ्क्षेपेण तात्पर्यानुवादरूप–
 
     कक्ष्याविभागे द्वितीयाध्यायस्य तृतीयः श्रुतिपादः समाप्तः॥
+
+
+
+
 
 **॥अथ न्यायोपेतश्रुतिपादश्चतुर्थः॥**
 
@@ -1374,6 +1570,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** 'हस्तादयस्तु स्थितेऽतो नैवम्'** इति द्वितीयसूत्रे 'सप्त प्राणाः' इति श्रुतौ प्राणानामसहपाठेनाभावशङ्काव्यावृत्त्यर्थं सहापाठे निमित्तोक्तिः॥अ॥४॥
 
 ** 'अणवश्च'** इति पञ्चमेऽण्वधिकरणे प्राणपरिणामविषयश्रुतिविरेधापरिहारः॥अ॥५॥क॥१॥
+
+
 
  षष्ठसप्तमाष्टमनवमैतदधिकरणचतुष्टयं मुख्यप्राणरूपैकार्थप्रतिप्रादकत्वेनद्वितीया कक्ष्या॥
 
@@ -1403,6 +1601,9 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'तस्य च नित्यत्वात्'** इति तृतीयसूत्रे "जीवस्य करणान्याहुः" इति श्रौतव्यवहारस्यौपचारिकत्वमभिप्रेत्य प्राणवत्पदप्रकृतजीवप्राणतत्सम्बन्धानां नित्यत्वोक्तिरूपोपचारबीजोक्तिः॥अ॥१०॥क॥३॥
 
+
+
+
 सूत्रत्रयात्मकमेकादशमिन्द्रियाधिकरणमेकं[^31] मुख्यप्राणस्येन्द्रियानिन्द्रियत्वविषयश्रुतिविरोधनिरासकत्वेन चतुर्थी कक्ष्या॥
 
 [^31]: "Known as त इन्द्रियाधिकरण"
@@ -1426,6 +1627,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 इति श्रीकृष्णावधूतपण्डितकृतौ सूत्रार्थामृतलहर्यां सङ्क्षेपेण तात्पर्यानुवादरूप–  
    कक्ष्याविभागे द्वितीयाध्यायस्य चतुर्थः न्यायोपेतश्रुतिपादः समाप्तः  
              समाप्तश्च द्वितीयोऽध्यायः॥
+
+
+
+
 
 **॥अथ तृतीयोऽध्यायः॥**
 
@@ -1454,6 +1659,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'प्राणगतेश्च'** इति तृतीये प्राणगत्यधिकरणे आर्थिककल्पनायां तन्मूलभूतप्राणगतिरूपहेतोरनुमानरूपविशेषप्रमाणोक्तिः॥३॥
 
+
+
 ** 'अग्न्यादिगतिश्रुतेरिति चेन्न भाक्तत्वात्'** इति चतुर्थे [अग्न्यादिगत्यधिकरणे](http://Also%20Known%20as%20अग्न्यधिकरण%20or%20अग्न्याद्यधिकरण. "Also Known as अग्न्यधिकरण or अग्न्याद्यधिकरण.") तस्यानुमानत्य स्वरूपासिद्धिशङ्कापरिहारः॥४॥
 
 ** 'प्रथमेऽश्रवणादिति चेन्न ता एव ह्युपपत्तेः'** इति [पञ्चमे श्रवणाधिकरणे](http://Another%20name—प्रथमे%20श्रवणाधिकरण "Another name—प्रथमे श्रवणाधिकरण") भूतसाहित्यस्यार्थिकत्वकल्पनायां कल्पकाभावमाशङ्क्यतत्परिहारः॥५॥
@@ -1480,6 +1687,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'आनर्थक्यमिति चेन्न तदपेक्षत्वात्'** इति द्वितीयसूत्रे चरणशब्दस्य लक्षणायां बाधकपरिहारः॥
 
+
+
  **‘सुकृतदुष्कृतेएवेतितु बादरिः'** इति तृतीयसूत्रे श्रुत्युक्तचरणशब्दस्य स्वमतेन [बादरिमतेन](http://बादरि%C2%A0is%20different%20from%20बादरायण "बादरिis different from बादरायण") च कर्मणि मुख्यवृत्तित्वप्रतिपादनम्॥१०॥
 
  त्रिसूत्र्यामेकादशेऽनिष्टाधिकरणे अनिष्ठादिकारिणामपि पुनरावृत्तिसमर्थनम्॥
@@ -1490,6 +1699,7 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'स्मरन्ति च'** इति तृतीयसूत्रे पूर्वोक्ताखिलार्थप्रतिपादकतदुपात्तश्रुतिव्याख्यानरूपायाः, 'गच्छन्ति पापिनः सर्वे [निरयं](http://नरकं%20is%20the%20reading%20in%20Madhva%20Vilas%20Book%20Depot%20(Kummbakonam)%20Edition "नरकं is the reading in Madhva Vilas Book Depot (Kummbakonam) Edition") नात्र संशयः' इत्यादिस्मृतेःप्रदर्शनम्॥११॥क॥३॥
 
+ 
 [द्वादशत्रयो](http://13th%20Adhikarana%20is%20Missing "13th Adhikarana is Missing")
 दशैतदधिकरणद्वयी नरकविषयत्वाच्चतुर्थी कक्ष्या॥
 
@@ -1499,12 +1709,17 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 [^34]: "A different name विद्याधिकरण"
 
+
 पञ्चसूत्रीपञ्चदशमन्धंतमोऽधिकरणमेकम्[^35]
 अन्धे तमसि दुःखमात्रसमर्थनात्षष्ठी कक्ष्या॥
 
 [^35]: "Another name—न तृतीयाधिकरण"
 
 ** 'न तृतीये तथोपलब्धेः'** इति प्रथमसूत्रे तमसि सुखाभावे श्रुतिप्रमाणोक्तिः॥
+
+
+
+
 
  **'स्मर्यतेऽपि च लोके'** इति द्वितीयसूत्रे स्मृत्यनुमानरूपप्रमाणद्वयोक्तिः॥
 
@@ -1532,6 +1747,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'रेतःसिग्योगोऽथ'** इत्येकोनविंशे रेतोऽधिकरणे कर्मिणः पितृप्रवेशसमर्थनम्॥१९॥
 
+
+
+
+
  **'योनेः शरीरम्'** इति विंशे योन्यधिकरणे कर्मिणो मातृयोनिप्रवेशानन्तरं प्रागसिद्धशरीरसमर्थनम्॥२०॥७॥
 
 इति श्रीकृष्णावधूतपण्डितकृतौ सूत्रार्थामृतलहर्यां सङ्क्षेपेण तात्पर्यानुवादरूप–  
@@ -1540,6 +1759,7 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 **॥अथ भक्तिपादो द्वितीयः॥**
 
  प्रथमपादे भक्तिदार्ढ्यार्थं वैराग्यस्य निरूपितत्वेन तृतीयपादे वक्ष्यमाणोपासनां प्रति भक्तेरङ्गत्वेन च भक्तेरवसरप्राप्तत्वेनास्य पादस्य पूर्वपादेनावसरसङ्गतिः॥
+
 
 भक्तेर्माहात्म्यज्ञानपूर्वकस्नेहरूपत्वेनकृत्यविषयत्वान्माहात्म्यज्ञानस्य स्नेहहेतुत्वेन च भगवन्महिमोच्यते। यद्यपि प्रथमे समन्वयाध्याय एव सर्वशब्दसमन्वयाङ्गतया सर्वमहिमोक्तः। तथाप्यत्र तमेव क्वचिद्विवेचयति क्वचित्समर्थयतीति न पुनरुक्तिः। तथा हि तत्र तत्र वक्ष्यामः। अत्र पादे सूत्राणिद्विचत्वारिंशत्॥४२॥ अधिकरणानि विंशतिः॥२०॥ दश कक्ष्याः॥१०॥
 
@@ -1552,6 +1772,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** 'निर्मातारं चैके पुत्रादयश्च'** इति द्वितीयसूत्रे स्वाप्नपदार्थसृष्टिनिरोधकर्तृत्वप्रतिपादनम्॥
 
 ** 'मायामात्रं तु कार्त्स्नेनानभिव्यक्तस्वरूपत्वात्'** इति तृतीयसूत्रे सृष्टिहेतुभूतोपादानाद्युक्तिः॥
+
+
+
+
 
  **'सूचकश्च हि श्रुतेराचक्षते च तद्विदः'** इति चतुर्थसूत्रेस्वाप्नोऽर्थः सत्य उत्पत्तिविनाशवत्वाद्धटादिवदिति प्रथमसूत्रोक्तानुमानस्य स्वाप्नार्थोऽसत्योबाह्यार्थाजन्यत्वादिति सत्प्रतिपक्षानुमाने बाधाप्रयोजकत्वयोरुक्तिः॥१॥
 
@@ -1570,6 +1794,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  त्रिसूत्र्यामष्टमे ईशरूपा[भेदाधिकरणे](http://Described%20as%20न%20स्थानतोऽधिकरण—also%20as%20उभयलिङ्गाधिकरण "Described as न स्थानतोऽधिकरण—also as उभयलिङ्गाधिकरण") सर्वेषामीशरूपाणामभेदसमर्थनमिति तदेकं द्वितीया कक्ष्या। अत्रानन्दमयाधिकरणोक्तेशरूपाभेदसमर्थनम्॥
 
 ** 'न स्थानतोऽपि परस्योभयलिङ्गं सर्वत्र हि'** इति प्रथमसूत्रे परमेश्वररूपाणामभेदोक्तिः॥
+
+
+
+
 
  **'न भेदादिति चेन्न प्रत्येकमतद्वचनात्’** इति द्वितीयसूत्रे ईशरूपाणामभेदे बाधकपरिहारः॥
 
@@ -1595,6 +1823,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 [^38]: "Described as बृद्धिह्रासाधिकरण"
 
+
+
  **‘वृद्धिह्रासभाक्त्वमन्तर्भावादुभयसामञ्जस्यादेवम्'** इति प्रथमसूत्रे ब्रह्मादीनां मुक्तिरूपफलं तारतम्यवत्तत्साधनभक्तितारतम्यादिति प्रतिज्ञाहेतुव्याप्तीनांकथनम्॥
 
 ** 'दर्शनाच्च'** इति द्वितीयसूत्रे पक्षधर्मतोक्तिः॥१२॥क॥५॥
@@ -1614,6 +1844,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** 'अतोऽनन्तेन तथा हि लिङ्गम्'** इति पञ्चमसूत्रे त्वव्यक्तत्वदृश्यत्वयोर्विरोधाशङ्कापरिहारायानन्तशक्तित्वाद्युक्तिः॥१४॥क॥७॥
 
  पञ्चदशषोडशसप्तदशैतदधिकरणत्रयम् आनन्दादिरूपैकविषयत्वेनाष्टमी कक्ष्या॥
+
+
+
+
 
  चतुस्सूत्र्यां पञ्चदशे उभयव्यपदेशाधिकरणे गुणस्वरूपस्येशस्य[^39] गुणित्वसमर्थनम्॥
 
@@ -1643,6 +1877,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'उपपत्तेश्च'** इति द्वितीयसूत्रे प्रतिबिम्बभूतब्रह्मानन्दादिवैचित्र्येबिम्बसामर्थ्योक्तिः। तन्त्रदीपिकायां तु ब्रह्मानन्दादीनामीशानन्दादिप्रतिबिम्बत्वमुच्यत इत्युक्तम्॥१७ क॥८॥
 
+
+
+
+
  **'तथान्यत् प्रतिषेधात्'** इति तथान्यदधिकरणमष्टादशमेकमीशस्य प्रकारान्तरेण पूर्वोक्ताव्यक्तत्वसमर्थनमिति नवमी कक्ष्या॥१८॥क॥९॥
 
  एकोनविंशं विंशं चेत्यधिकरणद्वयं विष्णोः सर्वजन्माद्यष्टकर्तृत्वप्रतिपादकमिति दशमी कक्ष्या॥
@@ -1661,6 +1899,14 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 इति श्रीकृष्णादधूतपण्डितकृतौ सूत्रार्थमृतलहर्यां सङ्क्षेपेण तात्पर्यानुवादरूप–  
    कक्ष्याविभागे तृतीयाध्यायस्य द्वितीयः भक्तिपादः समाप्तः॥
+
+
+
+
+
+
+
+
 
 **॥अथोपासनापादस्तृतीयः॥**
 
@@ -1686,6 +1932,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'उपसंहारोऽर्थाभेदाद्विधिशेषवत् समाने च'** इति प्रथमसूत्रे उपसंहारस्य कर्तव्यत्वेविहितत्वरूपहेतुक्तिः॥
 
+
+
+
+
  **'अन्यथात्वं च शब्दादिति चेन्नाविशेषात्'** इति द्वितीयसूत्रे 'आत्मेत्येवोपासीत' इति श्रुत्या प्रकरणसाम्येन सर्वगुणोपसंहारस्य कर्तव्यत्वाभावमाशङ्क्य तत्र विशेषप्रमाणाभावोक्त्या निरासः॥
 
 ** 'न वा प्रकरणभेदात् परोवरीयस्त्वादिवत्'** इति तृतीयसूत्रे सर्वगुणोपसंहारस्य सर्वैरशक्यत्वादकर्तव्यत्वमित्याशङ्कापरिहारार्थं सप्रमाणकं प्रकरणभेदादनुपसंहाराभ्युपगमः॥
@@ -1707,6 +1957,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  सूत्रद्वयात्मकमष्टममाध्यानाधिकरणमेकं प्रागुक्तगुणोपसंहारानुपसंहारयोःप्रमाणोपपादकमिति षष्ठी कक्ष्या॥
 
 ** 'आध्यानाय प्रयोजनाभावात्'** इति प्रथमसूत्रे सर्वगुणोपसंहारस्यचतुर्मुखाधिकारिकत्वेनादावुक्तिः॥
+
+
+
+
 
  **‘आत्मशब्दाच्च'** इति द्वितीयसूत्रे चतुर्मुखेतराधिकारिकसर्वगुणानुपसंहारे प्रमाणोक्तिः॥८॥क॥६॥
 
@@ -1730,6 +1984,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** ‘सम्भृतिद्युव्याप्त्यपि चातः'** इति चतुर्दशं सम्भृत्यधिकरणमेकंसम्भृत्यादिगुणानां सर्वोपास्यत्वनिवारकमिति द्वादशी कक्ष्या॥१४॥क॥१२॥
 
+
+
+
+
  **'पुरुषविद्यायामपि चेतरेषामनाम्नानात्'** इति पञ्चदशं पुरुषविद्याधिकरणमेकं सर्वविद्यातो गुणोपसंहारस्य कर्तव्यत्वं समर्थयतीति त्रयोदशीकक्ष्या॥१५॥क॥१३॥
 
 ** 'वेधाद्यर्थभेदात्'** इति षोडशं वेधाद्यधिकरणमेकं भेदनादीशगुणोपासनस्य यत्याद्यनधिकारिकत्वं समर्थयतीति चतुर्दशी कक्ष्या॥१६॥१४॥
@@ -1752,11 +2010,16 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  सूत्रद्वयात्मकं विंशंयावदधिकाराधिकरणमेकमुपासनायामधिकारनियमसाधकमिति सप्तदशी कक्ष्या॥
 
+
+
+
+
  **'यावदधिकारमवस्थितिराधिकारिकाणाम्'** इत्यादिमसूत्रेऽधिकारनियमे तारतम्योक्तिः॥
 
 ** 'अक्षरधियां त्वविरोधः सामान्यतद्भावाभ्यामौपसदवत्तदुक्तम्'** इति द्वितीयसूत्रे तारतम्यरूपहेतोरसिद्धिशङ्कायां बाधकोद्धारेण तत्परिहारः॥२०॥१७॥
 
  एकविंशं, द्वाविंशं त्रयोविंशं चेत्यधिकरणत्रयं मुख्यप्राणविषयकत्वादष्टादशी कक्ष्या॥
+
 
 सूत्रत्रयात्मकैकविंशेऽधिकारितारतम्याधिकरणेउपासकानां[^42] प्राणावधित्वसमर्थनम्॥
 
@@ -1773,6 +2036,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** 'सैव हि सत्यादयः'** इति त्रयोविंशे हरिसर्वोत्त[मत्वाधिकरणे](http://Noted%20as%20सत्याधिकरण "Noted as सत्याधिकरण") प्राणादीशस्येवान्येषामप्युत्तमत्वं स्यादित्याशङ्कायां नान्येषामिति समर्थितम्॥२३॥क॥१८॥
 
  सूत्रत्रयात्मकं चतुर्विंशं [श्रीतत्वाधिकरण](http://Noted%20as%20कामादधिकरण "Noted as कामादधिकरण")मेकं लक्ष्म्या ईशोपासनायामनधिकारं समर्थयतीत्येकोनविंशतिः कक्ष्या॥
+
+
+
+
 
  **'कामादितरत्र तत्र चायतनादिभ्यः'** इति प्रथमसूत्रे श्रिय उपासनाधिकारित्वे हेतुभूतसंसारित्वसाधकस्य जन्मादेरसत्त्वोक्तिः॥
 
@@ -1798,6 +2065,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  एकोनत्रिंशत्रिंशाधिकरणे उपासनाजन्यापरोक्षसाधनत्वप्रतिपादके इति द्वाविंशतितमा कक्ष्या॥
 
+
+
+
+
  सूत्रद्वयात्मके एकोनत्रिंशे विद्याधिकरणे ज्ञानस्यैव मुक्तिहेतुत्वसमर्थनम्॥
 
 ** 'विद्यैव तु निर्धारणात्'** इति प्रथमसूत्रे ज्ञानस्य मुक्तिहेतुत्वे 'नान्यःपन्थाः' इत्यादिश्रुतौ निर्धारणरूपहेतूक्तिः॥
@@ -1819,6 +2090,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  **'परेण च शब्दस्य ताद्विध्यं भूयस्त्वात्त्वनुबन्धः'** इति चतुस्त्रिंशं भक्तिस्वातन्त्र्य[निषेधाधिकरण](http://Also%20known%20as%C2%A0परेणाधिकरण "Also known asपरेणाधिकरण")मेकं भक्तेः स्वातन्त्र्येण ब्रह्मदर्शनादिहेतुत्वनिरासकमिति पञ्चविंशतिः कक्ष्या॥३४॥क॥२५॥
 
  सूत्रद्वयात्मकं पञ्चत्रिंशमंशाधिकरणमेकं ब्रह्मदर्शनसाधनोपासनस्यानादियोग्यतासापेक्षत्वेन योग्यतानादित्वायांशांशिनोरैक्यं समर्थयतीति षड्विंशतिः कक्ष्या॥
+
+
 
  **'एक आत्मनः शरीरे भावात्'** इति प्रथमसूत्रे अंशांशिनोरेकत्वेंऽशस्यांशिकर्मनिर्मितशरीरस्थितिरूपहेतूक्तिः॥
 
@@ -1846,6 +2119,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  **'काम्यास्तु यथाकामं समुच्चीयेरन् न वा पूर्वहेत्वभावात्'** इति चत्वारिंशे काम्योपासनाधिकरणे बिम्बान्यभगवदुपासनस्यानावश्यकस्य विकल्पेन कर्तव्यत्वसमर्थनम्॥४०॥क॥२९॥
 
+
+
+
+
  एकचत्वारिंशदधिकरणं द्विचत्वारिंशदधिकरणमिति अधिकरणद्वयमङ्गदेवतोपासनविषयत्वेन त्रिंशत्कक्ष्या॥
 
  चतुस्सूत्र्यामेकचत्वारिंशेऽङ्गोपासनाधिकरणे ब्रह्मादीनामीशाङ्गाश्रितत्वेनोपासनस्य देवतामात्रकर्तव्यत्वं समर्थ्यते॥
@@ -1868,6 +2145,14 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 इति श्रीकृष्णावधूतपण्डितकृतौ सूत्रार्थामृतलहर्यां सङ्क्षेपेण तात्पर्यानुवादरूप–  
     कक्ष्याविभागे तृतीयाध्यायस्य तृतीयः उपासनापादः समाप्तः॥
+
+
+
+
+
+
+
+
 
 **॥अथ ज्ञानपादश्चतुर्थः॥**
 
@@ -1893,6 +2178,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** ‘अधिकोपदेशात्तु बादरायणस्यैवं तद्दर्शनात्'** इत्यष्टमसूत्रे ज्ञानस्याशेषपुरुषार्थहेतुत्वे बाधकत्वेनोक्तानामाचारविधिनियमानां गतिप्रदर्शनाय स्वमतेन कर्मणो ज्ञानसाध्ये स्वर्गादावाधिक्यापादकत्वरूपज्ञानशेषत्वसमर्थनम्॥
 
+
+
  **'तुल्यं तु दर्शनम्'** इति नवमसूत्रे कर्मणो ज्ञानस्वरूपातिशयाधायकत्वरूपज्ञानशेषत्वनिराकरणम्॥१॥क॥१॥
 
  द्वितीयं तृतीयं चेत्यधिकरणद्वयं ब्रह्मज्ञानाधिकाररूपैकार्थप्रतिपादकमिति द्वितीया कक्ष्या॥
@@ -1917,6 +2204,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'कामकारेण चैके'** इति द्वितीयसूत्रे तु अस्त्प्रवृत्त्याकुण्ठितशक्तेर्ज्ञानस्य मोक्षसाधनत्वाभावाक्षेपो नेत्यत्र 'कामचाराः' इत्यादिश्रुतिप्रमाणोक्तिः॥
 
+
+
+
+
  **'उपमर्दं च'** इति तृतीयसूत्रे 'ओमित्युच्चार्यान्तरिममात्मानमभिपश्योपमृद्यपुण्यं च पापं च' इति श्रुत्याऽपरोक्षज्ञाने प्रारब्धकर्मणोऽपि फलह्रासरूपोपमर्दसम्भवे किमु ज्ञानोत्तरकालिककर्मणो मुक्तिसाधनं (वाभावो?) नेति वक्तव्यमिति कैमुत्यन्यायकथनम्॥
 
 ** 'ऊर्ध्वरेतःसु च शब्दे हि'** इति चतुर्थसूत्रे कामचारिणां ज्ञानिनां मोक्षयोग्यत्वे तद्विजिज्ञासूनां कामचारिणामविज्ञानयोग्यत्वं स्यादिति प्रतिबन्धाक्षेपस्य ‘य इमं परमं गुह्यमूर्ध्वरेतःसु भाषयेत्' इत्यादिश्रुत्या सदाचारवत्येव ज्ञानोपदेशविध्युक्त्या निरासः॥
@@ -1934,6 +2225,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** 'पारिप्लवार्थी इति चेन्न विशेषितत्वात्'** इति दशमसूत्रे 'केनस्यात्' इति श्रुतेर्नियमेन सर्वाचरणं तन्मध्य एव कामचारो यथेष्टाचारविधिश्चेति परस्परविरुद्धार्थप्रतिपादकत्वेनाव्यवस्थामाशङ्क्य'त्रेधा हि ज्ञानिनः' इत्यादिश्रुत्या ज्ञानिनां त्रिविधत्वात्तद्विवक्षया 'केन स्यात्' इति श्रुतेस्तादृशार्थकत्वमितितत्परिहारः॥
 
 ** 'तथा चैकवाक्योपबन्धात्'** इत्येकादशसूत्रे ज्ञानिनाम् अनेकप्रकारत्वोक्तिः श्रुतिविहितसदाचारेष्वेवाविधिबन्धेन नियमेन वर्तनमिति जैमिनिमतं,
+
+
 
 ज्ञानिमानुषविषयम्। अनुष्ठेयकर्ममध्य एव केषाञ्चिन्निवृत्तिरन्येषां कामचारानुमतिरिति व्यासमतम्। तदेव स्तुतिविषयं विधिर्वेति विरिञ्चविषयमिति प्रकृतोपयोगोक्तिः॥
 
@@ -1953,6 +2246,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
  अल्पफलत्वरूपबाधकोक्त्या सत्प्रवृत्त्यकरणे बाघकाभावाद्वेति तृतीयकल्पनिरासः। यद्यपि 'सर्वान्नानुमतिः' इत्यादिसूत्रचतुष्टयस्यासत्प्रवृत्तावपि
 
+
+
 विशेषसमर्थनपरस्य विन्यासः 'कामकारः' इत्यादिसूत्रत्रयविन्यासोक्त एवकार्यः, तथाप्यसत्प्रवृत्तौ ज्ञानस्य विशेषाङ्गीकारे मोक्षानुपपत्तिशङ्कासमाधानंपूर्वसूत्रत्रयेण क्रियते। अत्र सूत्रचतुष्टये
 त्वानन्दह्रासहेतुत्वादिना असत्प्रवृत्तेरकार्यत्वं समर्थ्यत इति वैलक्षण्यप्रदर्शनाय व्यवधानं बोध्यम्॥
 
@@ -1971,6 +2266,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** ‘अन्तरा चापि तु तद्दृष्टेः'** इति तृतीयसूत्रे दृढासुरस्वभावाभिभवासम्भवेऽप्यतथाभूतमध्यममनुष्यस्वभावाभिभवसम्भवादनधिकारिप्राप्यत्वमेव ज्ञानस्येत्याशङ्कयां तत्स्वभावस्याप्यनभिभवप्रयोजकदार्ढ्योक्तिः॥
 
 ** 'अपि स्मर्यते'** इति चतुर्थसूत्रे स्वभावानभिभवे स्मृत्युक्तिः॥
+
+
 
  **'अतस्त्वितरज्ज्यायो लिङ्गाच्च'** इति पञ्चमसूत्रेऽसुरस्वभावानभिभवेप्रामाणिकासुरभागाधिक्यरूपहेतूक्तिः॥
 
@@ -1993,6 +2290,11 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** 'आर्त्विज्यमित्यौडुलोमिस्तस्मै हि परिक्रियते'** इति द्वितीयसूत्रे प्रजानामपि ज्ञानफलमस्तीति सिद्धान्तोक्तौ औडुलोभिमतम्॥
 
 ** 'सहकार्यन्तरविधिः पक्षेण तृतीयं तद्वतो विध्यादिवत्'** इति तृतीयसूत्रे देवानां प्रजानां च ज्ञानदाने मुख्यामुख्यकारणत्वोक्त्या फलतारतम्यरूपस्वपक्षेक्तिः॥७॥क॥५॥
+
+
+
+
+
 
 सूत्रद्वयात्मकमष्टमंयत्यधिकरणमेकमपरोक्षज्ञानाधिकारिषुयतीनांगृहस्थादिभ्योऽतिशयप्रतिपादकमिति षष्ठी कक्ष्या॥
 
@@ -2020,6 +2322,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'अथातो ब्रह्मजिज्ञासा'** इति शास्त्रपीठसूत्रे प्रथमद्वितीयाध्यायाभ्यां ब्रह्मपदार्थस्य तृतीयाऽध्याये 'अथ' 'जिज्ञासा' पदार्थयोश्च विचारितत्वेन 'अतः' शब्दार्थफलस्यैवावशिष्टतया तस्यात्र निरूपणं क्रियत इति पूर्वाध्यायविचारितविरक्त्यादिसाधनसाधितब्रह्मदर्शनस्य फलजिज्ञासायां तदत्र कथ्यत इति च पूर्वाध्यायेनास्यावसरसङ्गतिः, कार्यकारणभावसङ्गतिश्च॥
 
+
+
 **प्रायशः फलनिरूपणादस्य फलाध्याय इति व्यपदेशः॥  
 अशीतिरत्र सूत्राणि॥८०॥ पञ्चत्रिंशत्तथा नयाः॥३५॥  
 कक्ष्यास्तु द्वादश प्रोक्ताः॥१२॥ फलाध्याये चतुर्थके॥**
@@ -2027,6 +2331,7 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  मोक्षलक्षणज्ञानफलस्य कर्मक्षयोत्क्रान्तिमार्गभोगभेदेन चातुर्विध्यात् पूर्वपूर्वानन्तरमुत्तरोत्तरस्य भावित्वात् 'कर्मक्षयपादः' इति प्रथमस्य, 'उत्क्रान्तिपादः' इति द्वितीयस्य 'मार्गपादः' इति तृतीयस्य 'भोगपादः' इति चतुर्थस्य च व्यपदेशः॥
 
  तत्र प्रथमपादे एकोनविंशतिसूत्राणि॥१९॥ अष्टावधिकरणानि॥८॥ द्वे कक्ष्ये॥२॥ प्रथमनयमारभ्य नयसप्तकं मोक्षरूपफलस्यान्तरङ्गतया अवश्यम्भाविसाधनविचारपरत्वेन प्रथमा कक्ष्या॥
+
 
 [योगद्वयात्मके](http://The%20author%20uses%20the%20term%20योग%C2%A0instead%20of%20the%C2%A0familiar%20सूत्र "The author uses the term योगinstead of thefamiliar सूत्र") प्रथमे आवर्तननये श्रवणाद्यावृत्तेर्नित्यं कर्तव्यत्वसमर्थनम्॥
 
@@ -2043,6 +2348,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** 'ब्रह्मदृष्टिरुत्कर्षात्'** इति चतुर्थे ब्रह्मदृष्टिनये ब्रह्मत्वोपासनस्यावश्यकर्तव्यत्वसाधनम्॥४॥
 
 ** 'आदित्यादिमतयश्चाङ्ग उपपत्तेः'** इति पञ्चमे स्वोत्पत्यङ्गोपासननयेस्वेषां स्वोत्पत्यङ्गाश्रितत्वेन परब्रह्मोपासनस्य देवैः कर्तव्यत्वसमर्थनम्॥
+
+
+
+
 
  उपासनापादे **'अङ्गेषु यथाश्रयभावः'** इत्याद्यधिकरणद्वयोक्तस्यार्थेस्यावश्यकत्वद्योतनाय पुनरुक्तिः॥५॥
 
@@ -2068,6 +2377,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'अनारब्धकार्ये एव तु पूर्वे तदवधेः'** इति तृतीययोगे यद्येवं ब्रह्मज्ञानिद्वेषिणोर्ज्ञानद्वेषाभ्यामेव पापपुण्यक्षयः, तर्हि ज्ञानद्वेषयोरुत्पत्त्यामेव मोक्ष-
 
+
+
 तमसोः प्राप्तिप्रसङ्ग इत्याशङ्कानिरासाय निरुक्तविनाशाश्लेषावप्रारब्धपुण्यपापयोरेव, न तु प्रारब्धयोरित्युक्तम्॥
 
 ** 'अग्निहोत्रादि तु तत्कार्यायैव तद्दर्शनात्'** इति चतुर्थयोगेज्ञानिकृतपापस्य ज्ञानेन नाशाश्लेषसत्त्वेऽपि ज्ञानिकृतपूर्वोत्तरपुण्यरूपप्रतिबन्धकसत्त्वेन कथं मोक्ष इत्याशङ्कायां तत्पुण्यं किं काम्यमकाम्यं वेति विकल्प्य अकाम्यस्य मोक्षेऽनुप्रवेशोक्तिः॥
@@ -2090,6 +2401,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
  तत्र प्रथमद्वितीयतृतीयनयत्रयं देवानां देहलयप्रतिपादकत्वेन प्रथमा कक्ष्या॥
 
  योगद्वयात्मके प्रथमे वाग्लयाधिकरणे वाचो मनसि लयसमर्थना॥
+
+
 
 ** 'वाङ्मनसि दर्शनाच्छब्दाच्च'** इति प्रथमयोगे प्रत्यक्षागमरूपविशेषप्रमाणोक्तिः॥
 
@@ -2117,6 +2430,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'अस्यैव चोपपत्तेरूष्मा'** इति पञ्चमयोगे किञ्चित्साम्य एव 'द्विधाहीदम्' इत्यूष्मश्रुतिप्रमाणोक्तिः॥
 
+
+
 ** 'प्रतिषेधादिति चेन्न शारीरात्'** इति षष्ठे योगे लक्ष्म्या ईशेनकिञ्चित्साम्यस्य 'असमैव' इति श्रुतिविरोधमाशङ्क्यतस्या जीवविषयकत्वोक्त्यातत्परिहारः॥
 
 ** ‘स्पष्टो ह्येकेषाम्'** इति सप्तमयोग सामान्यश्रुतेर्जीवविषयकत्वसिद्धये ईश्वरेण प्रकृतेः किञ्चित्साम्ये जीवानामत्यन्तासाम्ये 'अथ समाश्चासमाश्च' इति श्रुतिप्रमाणोक्तिः॥
@@ -2138,6 +2453,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** 'निशि नेति चैन्न सम्बन्धात्'** इति तृतीययोगे रात्रावपि पर्यवसितकर्मणां ज्ञानिनां मोक्षार्थोत्क्रमणसिद्ध्यर्थं रात्रौ रश्म्यभावमाशङ्क्यसर्वदारश्मिसद्भावोक्तिः॥
 
  **'यावद्देहमावित्वाद्दर्शयति च'** इति चतुर्थयोगे उक्तार्थे सप्रमाणकं यावद्देहभावित्वरूपहेतूक्तिः॥
+
+
 
  **'अतश्चायनेऽपि हि दक्षिणे'** इति पञ्चमयोगे 'दक्षिणे मरणाद्यातिस्वर्गम्' इत्यादिस्मृत्या ज्ञानिनां दक्षिणायनमरणाभावसिद्धौ तद्वद्रात्रावप्युत्क्रमणाभावात्तथा रश्मिसद्भावप्रतिपादनं व्यर्थमित्याशङ्कापरिहाराय 'उत्तरं दक्षिणमिति त एव निगद्यते' इत्याद्यनुसारेण पूर्वोक्तस्मृते रश्म्यर्थत्वेन तद्दृष्टान्तेन रात्रावुत्क्रमणाभावकथनं युक्तमित्यभिप्रेत्य लोकप्रसिद्धदक्षिणायनेऽपि ज्ञानिनामुत्क्रमणोक्तिः॥९॥
 
@@ -2162,6 +2479,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'आतिवाहिकः तल्लिङ्गात्'** इति प्रथमयोगे कस्यचिन्मुख्यप्राणपुत्रस्य वायोरातिवाहिकत्वेपूर्वप्राप्यत्वरूपलिङ्गोक्तिः॥
 
+
+
  **'उभयव्यामोहात्तत्सिद्धेः'** इति द्वितीययोगे अन्ते प्राप्यस्य वायोर्द्वितीयवायुभिन्नत्वे दिवस्पतित्वरूपहेतुक्तिः॥
 
 ** 'वैद्युतेनैव (ततः) तच्छ्रुतेः'** इति पञ्चमे वैद्युतनये अन्तप्राप्यवायोर्मुख्यत्वोक्तिः॥५॥क॥२॥
@@ -2183,6 +2502,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** ‘दर्शनाच्च'** इति सप्तमे योगे मुख्यत्वे 'ब्रह्मणा सह' इत्यादिप्रमाणानुपपत्त्याऽऽशङ्कायां श्रवणादिसाधनैरपरोक्षतया परस्यैव ब्रह्मणो दर्शनादिति हेतुक्त्यापरिहारः॥
 
 ** 'न च कार्ये प्रतिपत्त्यभिसन्धिः'** इत्यष्टमसूत्रे त्वमुख्यार्थस्वीकारे उपासनसहितेच्छाविषयत्वरूपबाधकोक्तिः॥
+
+
 
  **'अप्रतीकालम्बनान्नयतीति बादरायण उभयथा च दोषात्तत्क्रतुश्च'**इति नवमे योगे मुख्यामुख्ययोरपि प्राप्यत्वरूपसिद्धान्तोक्तिः॥
 
@@ -2207,6 +2528,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 
 ** 'ब्राह्मेण जैमिनिरुपन्यासादिभ्यः'** इति प्रथमसूत्रे सायुज्यभाजां देहाभावेऽपि 'ब्रह्मणा पश्यति' इत्यादिश्रुत्या 'आदत्ते हरिहस्ताभ्याम्' इत्यादिस्मृत्या च भोगोपपत्तिकथनम्॥
 
+
+
 ** 'चितिमात्रेण तदात्मकत्वादित्यौडुलोभिः'** इति द्वितीययोगे तेषां कादाचित्कबहिर्भोगसाधनतया चिन्मात्रदेहसमर्थनम्॥
 
 ** 'एवमप्युपन्यासात् पूर्वभावादविरोधं बादरायणः'** इति तृतीययोगे जैमिन्यौडुलोभिमतयोरविरोधकथनम्॥५॥
@@ -2228,6 +2551,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 ** 'भावे जाग्रद्वत्'** इति पञ्चमयोगे देहसद्भावपक्षे भोगोपपत्त्युक्तिः॥
 
 ** 'प्रदीपवदावेशः, तथा हि दर्शयति'** इति षष्ठयोगे देहे सति दुःखंस्यादिति बाधकतर्कस्य व्याप्त्यभावोपपादनाय कर्मारब्धदेहस्यैव दुःखजनकत्वं न देहमात्रस्येति स्वेच्छानुगृहीतदेहस्य कर्मानारब्धत्वादेव दुःखाभाव इत्यन्यथोपपत्त्युक्तिः। सुखमात्रभोक्तृत्वे 'तीर्णो हि' इत्यादिश्रुतिप्रमाणोक्तिश्च॥
+
+
 
  **'स्वाप्ययसम्पत्त्योरन्यतरापेक्षमाविष्कृतं हि’** इति सप्तमयोगे 'तीर्णोहि' इत्यादिश्रुतेर्मुक्तपरत्वसमर्थनम्॥८॥
 
@@ -2252,6 +2577,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 **भस्मावशेषिताघाय भस्माभिख्यमदच्छिदे।  
 अस्माकमिष्टगुरवेऽप्यस्मारव्याधये (?) नमः॥**
 
+
+
 **कृष्णावधूतसम्भूता तृष्णाच्छेदकरी कृतिः।  
 कृष्णात्मेशार्पणास्वाद्या पुष्णातु सुधियां मुदम्॥**
 
@@ -2260,6 +2587,10 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
       फलाध्यायश्चतुर्थः ब्रह्ममीमांसासूत्रसन्दर्भश्चः[^50]समाप्तः॥
 
 [^50]: "अस्य फलश्रुतिर्ब्रह्माण्डपुराणे श्रवणफलतारतम्यविचारे नारदाम्बरीषसंवादे नारदः—  व्यासोक्तब्रह्मसूत्राणां सकृदावर्तनान्नृप। गायत्र्याः सर्ववेदानां सहस्रावृत्तिपुण्यभाक्॥ अर्थतात्पर्यसहितं सूत्रपाठं पठन् द्विजः। दशसाहस्रगायत्रीजपपुण्यफलं लभेत्॥ सम्भवेत् सिद्धसंकल्पः परत्राप्यत्र किं पुनः। इति॥  श्रीभविष्योत्तरपुराणेः—  पूर्णप्रज्ञकृतं भाष्यं सूत्राणां प्रपठन् कलौ। कृतादिषु तपोयज्ञदानाद्यैर्यत्फलं लभेत्॥ सर्वान् कामानिहावाप्य मुक्तोऽभीष्टं समश्नुते। इति॥"
+
+
+
+
 
 **INDEX—GLOSSARY**
 
@@ -2283,6 +2614,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 |  **आनन्दतीर्थ**   |                                 Founder of Dvaita Philosophy                                 |
 |   **आश्मरथ्य**    |                                 A philosophic system-builder                                 |
 |      **आसन**      |                                        Yogic posture                                         |
+
+
 
 **SŪTRĀRTHĀMṚTA LAHARI**
 
@@ -2313,6 +2646,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 |      **च**       |                                                                                     |
 |   **चतुर्मुख**   |       Four-faced Brahmā through-whom alone the supreme Lord has to be reached       |
 
+
+
 **INDEX—GLOSSARY**
 
 |                    |                                                                                                |
@@ -2341,6 +2676,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 |       **पृ**       |                                                                                                |
 | **"पृथगुपदेशात्"** |            This apothegm proves difference between the finite and the Supreme Lord.            |
 
+
+
 **SŪTṚĀRTHĀMṚTA LAHARĪ**
 
 |                    |                                                                                          |
@@ -2368,6 +2705,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 |   **मुक्तोपासन**   |                        Worship engaged in even byreleased Souls.                        |
 |       **मु**       |                                                                                          |
 |   **मुख्यप्राण**   |                         Main or chief Life-breath(Son of God).                          |
+
+
 
 **INDEX-GLOSSARY**
 
@@ -2399,6 +2738,8 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 |     **श्रु**      |                                                                            |
 |    **श्रुति**     |                                 Scripture.                                 |
 
+
+
 **RŪTRARTHĀMṚTA LAHARĪ**
 
 |                       |                                                                                                      |
@@ -2424,5 +2765,74 @@ sentences where such reconstruction seemed to me necessary. Ihad no access to th
 |       **ज्ञा**        |                                                                                                      |
 |     **ज्ञानपाद**      | 4th quarter of the 3rd chapterof Vedānta-Sūtras devotedto exposition of the Natureof Realization. |
 
+
+
+
+
+
+
+
+
+
+
+
 \]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^18]: "Reconstructed."
+
+
+[^15]: "Reconstructed."

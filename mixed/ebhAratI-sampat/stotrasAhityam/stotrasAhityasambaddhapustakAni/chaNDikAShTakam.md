@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3NzE0NDcxNTY
 
 \[
 
+
+
+
 चण्डिकाष्टकम्
+
 
 ..  
 चण्डिकाष्टकम् ..  
@@ -95,5 +99,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg3NzE0NDcxNTY
 ॥  
 इति कविपत्युपनामक- श्री उमापतिद्विवेदि- विरचितं चण्डिकाष्टकं  
 सम्पूर्णम् ॥
+
+
+
+
+
 
 \]

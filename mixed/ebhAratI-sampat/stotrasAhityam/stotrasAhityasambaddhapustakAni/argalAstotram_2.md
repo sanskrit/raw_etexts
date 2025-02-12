@@ -12,7 +12,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0NTcxMjAzMTA
 
 \[
 
+
+
+
 अर्गलास्तोत्रम्
+
+
 
 ॐ बन्धूककुसुमाभासां पञ्चमुण्डाधिवासिनीम् ।  
 स्फुरच्चन्द्रकलारत्नमुकुटां मुण्डमालिनीम् ॥  
@@ -108,5 +113,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0NTcxMjAzMTA
 
 ..  
 इति श्रीमार्कण्डेयपुराणे अर्गलास्तोत्रं समाप्तम् ॥
+
+
+
+
+
 
 \]

@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzNjkyMjQ3NDA
 
 \[
 
+
+
+
+
 ॠणमोचनमहागणपतिस्तोत्रम्
+
+
 
 श्रीगणेशायनमः\।\।
 
@@ -49,5 +55,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzNjkyMjQ3NDA
 षण्मासाभ्यंतरे चैव ॠणच्छेदो भविष्यति \।\।१०\।\।
 
 इति श्रीब्रह्मांडपुराणे ॠणमोचनमहागणपतिस्तोत्रं संपूर्णम् \।
+
+
+
 
 \]

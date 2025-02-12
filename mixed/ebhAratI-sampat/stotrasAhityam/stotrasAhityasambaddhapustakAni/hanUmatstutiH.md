@@ -12,7 +12,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzNDExODI1Njc
 
 \[
 
+
+
 हनूमत्स्तुतिः
+
 
 हनुमानञ्जनासूनुर्वायुपुत्रो महाबलः ।  
 रामेष्टः फाल्गुनसखः पिङ्गाक्षोऽमितविक्रमः ॥ १॥
@@ -26,5 +29,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzNDExODI1Njc
 तस्य सर्वभयं नास्ति रणे च विजयी भवेत् ।  
 राजद्वारे गह्वरे च भयं नास्ति कदाचन ॥ ४॥  
      ॥ ॐ तत्सत् ॥
+
 
 \]

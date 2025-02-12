@@ -12,7 +12,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NTAyMzkxNTg
 
 \[
 
+
+
+
 अट्टालसुन्दराष्टकम्
+
+
 
 विक्रमपाण्ड्य उवाच-
 
@@ -53,5 +58,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NTAyMzkxNTg
 पठतां शृण्वतां सद्यस्तनोतु परमां श्रियम् ॥ ९॥  
 ॥  
 इति श्रीहालास्यमाहात्म्ये विक्रमपाण्ड्यकृतम् अट्टालसुन्दराष्टकम् ॥
+
+
+
+
+
 
 \]

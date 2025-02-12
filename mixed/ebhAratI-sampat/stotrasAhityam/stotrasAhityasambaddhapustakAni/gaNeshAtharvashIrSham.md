@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE4OTI2MTMwMzE
 
 \[
 
+
+
+
 गणेशाथर्वशीर्षम्
+
 
 ॥ श्री गणपत्यथर्वशीर्ष ॥  
 ॥ शान्ति पाठ ॥  
@@ -152,5 +156,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE4OTI2MTMwMzE
 स्वस्ति नो बृहस्पतिर्दधातु ॥  
 ॐ शांतिः शांतिः शांतिः ॥  
 ॥ इति श्रीगणपत्यथर्वशीर्षं समाप्तम् ॥
+
+
+
 
 \]

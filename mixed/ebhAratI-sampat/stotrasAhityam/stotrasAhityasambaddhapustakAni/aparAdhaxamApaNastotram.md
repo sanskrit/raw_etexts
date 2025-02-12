@@ -12,8 +12,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIzMzY5MDIzMTI
 
 \[
 
+
+
+
 अपराधक्षमापणस्तोत्रम्
 
+  
 अपराधक्षमापणस्तोत्रम् ..
 
 ॐ अपराधशतं कृत्वा जगदम्बेति चोच्चरेत्  
@@ -33,6 +37,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIzMzY5MDIzMTI
 गृहाणार्चामिमां प्रीत्या प्रसीद परमेश्वरि ॥ ४ ॥  
 सर्वरूपमयी देवी सर्वं देवीमयं जगत् ।
 
+
 अतोऽहं विश्वरूपां त्वां नमामि परमेश्वरीम् ॥ ५ ॥  
 यदक्षरं परिभ्रष्टं मात्राहीनञ्च यद्भवेत् ।
 
@@ -45,5 +50,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIzMzY5MDIzMTI
 मोहादज्ञानतो वा पठितमपठितं साम्प्रतं ते स्तवेऽस्मिन्
 
 तत् सर्वं साङ्गमास्तां भगवति वरदे त्वत्प्रसादात् प्रसीद ॥ ८ ॥
+
+
+
 
 \]

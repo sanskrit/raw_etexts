@@ -12,6 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU1MjA5MjQwNTI
 
 \[
 
+
+
+
 गणेशपञ्चरत्नम्
 
 श्रीमच्छङ्करभगवत्पादैः विरचितम्  
@@ -40,5 +43,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU1MjA5MjQwNTI
 प्रजल्पति प्रभातके हृदि स्मरन् गणेश्वरम्।  
 अरोगतां अदोषतां सुसाहितीं सुपुत्रतां  
 समीहितायुरष्टभूतिमभ्युपैति सोऽचिरात्॥६॥
+
+
+
 
 \]

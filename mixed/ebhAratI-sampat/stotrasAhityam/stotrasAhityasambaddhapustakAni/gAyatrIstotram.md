@@ -12,6 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3MjM5MzM5ODA
 
 \[
 
+
+
+
 गायत्रीस्तोत्रम्
 
 सुकल्याणीं वाणीं सुरमुनिवरैः पूजितपदाम् ।  
@@ -48,5 +51,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3MjM5MzM5ODA
 भजे अम्बां गायत्रीं परम सुभगा नंदजननीम  
 शुद्ध चितः पठेद्यस्तु गायत्र्या अष्टकं शुभम्  
 अहो भाग्यो भवेल्लोके तस्मिन् माता प्रसीदति
+
+
+
 
 \]

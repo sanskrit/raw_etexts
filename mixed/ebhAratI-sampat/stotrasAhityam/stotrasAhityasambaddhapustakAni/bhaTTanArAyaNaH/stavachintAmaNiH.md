@@ -28,7 +28,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjIyMjEyNzU
 
 **स्तवचिन्तामणिग्रन्थेमूलपत्रसूची**
 
-![](../books_images/U-IMG-173026541807-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-173026541807-removebg-preview.png"/>
 
 |               |                      |               |                   |
 |:-------------:|----------------------|:-------------:|-------------------|
@@ -104,11 +104,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjIyMjEyNzU
 
 इति स्तवचिन्तामणेः श्लोकपरिपाटी समाप्ता॥  
 
-![](../books_images/U-IMG-1730271590Capture-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-1730271590Capture-removebg-preview(1"/>.png)
 
 ओं नमः स्वात्मामृतवपुषे परमशिवाय॥
 
-![](../books_images/U-IMG-1730040410Capture_4-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-1730040410Capture_4-removebg-preview.png"/>  
 अथ
 
 **स्तवचिन्तामणिः।**
@@ -596,9 +596,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjIyMjEyNzU
 
 उपलक्षयति, तेन तत्तत्सृष्टिस्थित्यादिमितकार्यकारिणो ये ब्रह्मादयः, यश्च महेन्द्रः सुराधिपत्ये स्थितः, यौ च जगतः प्रकाशाप्यायनादिव्यापारकारित्वेन स्थितौ सूर्याचन्द्रमसौ, इति– एवंप्रकारम् अन्यदपि यत्किंचित् महाविभूति–युक्तं, तत्सर्वं यस्य शक्तिः– सामर्थ्यरूपा लता इव, पुष्पिता– संजातपुष्पमात्रतया स्फुरिता न तु फलिता, सर्वस्य पुष्पकल्पस्य परमेश्वराभेदप्राप्तिरेव लोकोत्तरचमत्कारमयी फलम्। यथोक्तं श्री पूर्वशास्त्रे समावेशचर्चायाम्[^13]
 
-**'संवित्तिफलभेदोऽत्र न प्रकल्प्यो मनीषिभिः।'**
-
 [^13]: "क० पु० समावेशचर्यायाम् इति पाठः।"
+
+**'संवित्तिफलभेदोऽत्र न प्रकल्प्यो मनीषिभिः।'**
 
 इति। यस्य च एवं शक्तिलता पुष्पिता, स पूर्वव्याख्यातसतत्त्वो भवः पातु,– अस्मात् मितब्रह्माद्युपासासंकल्पसंपर्कात् रक्षतु। स्तुतं च मया
 
@@ -1474,12 +1474,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjIyMjEyNzU
 
  आस्तां वा स्वत्प्रकाशानुसरणं, त्वनक्तौउत्साहोऽपि मे वरफलप्रसूरित्याह[^28]
 
+[^28]: "वरफलप्रसूतिरिति पाठः।"
+
 **मन्ये न्यस्तपदः सोऽपि  
  क्षेम्ये मोक्षस्य वर्त्मनि।  
 मनोरथः स्थितो यस्य  
  सेविष्ये शिवमित्ययम्॥१०५॥**
-
-[^28]: "वरफलप्रसूतिरिति पाठः।"
 
  शिवं श्रेयोमयं सेविष्ये - तन्मयीभावेन आश्रयिष्ये, इति ईदृगलौकिकोत्साहमयो यस्य मे संकल्पः, सोऽहं मोक्षस्य - शिवाभेदप्राप्त्यात्मनः अपवर्गस्य, मार्गे - शाक्ते धाम्नि,क्षेम्ये - क्षेमाय परश्रेयसे हिते, न्यस्तपदोनिवेशितनिजज्ञानक्रियाशक्तिचरणः - इति भक्तिविषय उत्साह एवास्य अभीष्टप्रदः संपद्यते।
 
@@ -1712,12 +1712,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjIyMjEyNzU
 इति श्रीमहामाहेश्वराचार्यवर्यश्रीभट्टनारायणविरचितः  
 स्तवचिन्तामणिःसमाप्तः।
 
-![](../books_images/U-IMG-1730136729Capture_2-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1730136729Capture_2-removebg-preview.png"/>
 
 विकृतिश्चात्र तत्रभवत्स्तुतिमूक्तिकारमशिष्यमहामाहेश्वराचार्य-  
 वर्यश्रीमदभिनवगुप्तपादपद्ममधुपराजस्य राजानकक्षेमराजस्य
 
-![](../books_images/U-IMG-1730136771Capture-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1730136771Capture-removebg-preview.png"/>
 
 **सद्विद्यानां संश्रये ग्रन्थविद्वद्-  
  व्यूहे हासं कालदृश्योपयाते।  
@@ -1733,11 +1733,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjIyMjEyNzU
  रामाध्यक्षत्वाश्रितैः सद्भिरेषः।  
 पूर्त्या शुद्ध्या व्याख्यया संस्कृतः स्तात्  
  पूर्णो ग्रन्थः श्रेयसे सज्जनानाम्॥३॥ तिलकम्॥  
-![](../books_images/U-IMG-1730080830Capture_1-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1730080830Capture_1-removebg-preview.png"/>**
 
 श्रीशिवार्पणं समावेशनिर्वाणावहं च श्रोतृ-पाठकजनानां भूयात्॥
 
-![](../books_images/U-IMG-1730080926Capture_5-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1730080926Capture_5-removebg-preview.png"/>
 
 [TABLE]
 
@@ -1745,10 +1745,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjIyMjEyNzU
 
 **स्ववचिन्तामणौश्लोकानामकारादिक्रमानुक्रमणिका**
 
-![](../books_images/U-IMG-1730080553Capture_1-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1730080553Capture_1-removebg-preview.png"/>
 
 **प्रथमपरिशिष्टम्।  
-![](../books_images/U-IMG-1730080587Capture_4-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1730080587Capture_4-removebg-preview.png"/>**
 
 |                      |                |
 |:--------------------:|:--------------:|
@@ -1899,10 +1899,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjIyMjEyNzU
 **स्तवचिन्तामणौ**
 
 **द्वितीयपरिशिष्टम्।**  
-**![](../books_images/U-IMG-1730080087Capture_1-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730080087Capture_1-removebg-preview.png"/>**
 
 **मूलश्लोकानां संक्षेपेण विषयार्थसंग्रहः।  
-![](../books_images/U-IMG-1730080129Capture-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1730080129Capture-removebg-preview.png"/>**
 
 १. विकल्पमयवैखरीमध्यमाप्रशमनपूर्वकं पश्यन्तीदशामुन्मज्जयतस्तद्व्याप्तिकामनाश्रितदशामपि वेद्यत्वेनाभासयतः परमानन्दात्मकपराद्वयप्रमातृतामुन्मीलयतः स्वात्मपरमार्थपरमेश्वरस्य स्वरूप-समावेशविमर्शनम्।
 
@@ -2120,14 +2120,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjIyMjEyNzU
 
 वतया चिन्तामण्यभिख्यापनेनात्यन्तोपादेयतानिर्देशनम्।
 
-![](../books_images/U-IMG-1730040775Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1730040775Capture.PNG"/>
 
 इति स्तवचिन्तामणौग्रन्थप्रकाशक- पं० मुकुन्दराम शास्त्रिणाविरचितः  
 प्रतिश्लोकं प्रतिपादितार्थसंक्षेपः समाप्तः॥
 
-![](../books_images/U-IMG-1730040801Capture_2-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1730040801Capture_2-removebg-preview.png"/>
 
 द्वितीयपरिशिष्टभागश्च समाप्तः॥
 
 \]
-

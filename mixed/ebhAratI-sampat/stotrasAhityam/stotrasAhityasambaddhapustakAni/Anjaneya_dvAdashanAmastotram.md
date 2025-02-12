@@ -12,6 +12,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUwNjMyMjMzMzM
 
 \[
 
+
+
+
+
+
+
 श्रीआञ्जनेयद्वादशनामस्तोत्रम् ॥
 
 हनुमानंजनासूनुः वायुपुत्रो महाबलः ।
@@ -27,5 +33,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUwNjMyMjMzMzM
 स्वापकाले पठेन्नित्यं यात्राकाले विशेषतः ।
 
 तस्यमृत्यु भयंनास्ति सर्वत्र विजयी भवेत् ॥
+
+
+
+
+
 
 \]

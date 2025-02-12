@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTcxODcxOTY
 
 \[
 
+
+
 १.१ः
 
 अज्ञानतिमिरान्धस्य  
@@ -542,6 +544,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTcxODcxOTY
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 १.५४ः
+
 
 अन्योन्यग्रथिताङ्गुलीकिसलयामुन्नीय बाहुद्वयीं  
 जृम्भारम्भपुरःसरं विदधती गात्रस्य संमो अनम्  
@@ -1472,6 +1475,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTcxODcxOTY
 चित्रार्पिताङ्गाविव तावभूताम्  
 (गोविन्दलीलामृतम् १.९०)
 
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 १.१४८ः
@@ -1886,6 +1890,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTcxODcxOTY
 प्रास्य स्वकाममनुवृत्तिरतास्तयोर्याः  
 श्रीरूपमञ्जरिसमानगुणाभिधानाः  
 (कृष्णभावनामृतम् ३.१)
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3779,6 +3784,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTcxODcxOTY
 लीलारविन्दमरविन्दविलोचनायाः  
 (गोविन्दलीलामृतम् २.१०३)
 
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 २.२०१ः
@@ -3811,6 +3817,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTcxODcxOTY
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 २.२०४ः
+
 
 प्रत्येकमेव सखिभिः सवयोभिरेतैर्  
 मल्लक्रियामथ भुजाभुजि वीतभीतैः  
@@ -4077,6 +4084,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTcxODcxOTY
 ताम्बूलमाद मधुराननचन्द्रबिम्बः  
 (कृष्णाह्निककौमुदी २.४६)
 
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 २.२३१ः
@@ -4210,6 +4218,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTcxODcxOTY
 प्रतिदिनमवलोकनं विना ते  
 शशिमुखि! खिद्यति सा यथा स्वसूनोः  
 (कृष्णभावनामृतम् ५.११)
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -6211,6 +6220,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTcxODcxOTY
 
 २.४५५ः
 
+
 रसालकरसंस्कृतोपहृतनागवल्लीस्फुरत्  
 सुपक्वदलवीटिकाः सुखमदन्त एवोत्सुकाः  
 ततः शतपदान्तरालयविशालपल्यङ्किका  
@@ -6319,5 +6329,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYzNTcxODcxOTY
 
 इति श्रीभावनासारसङ्ग्रहे प्रातर्लीलासङ्ग्रहो नाम द्वितीयसङ्ग्रहः  
 \\\\Z  
+
+
 
 \]

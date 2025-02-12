@@ -12,7 +12,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc0NzgzOTUxOTQ
 
 \[
 
+
+
 दत्तमाला मन्त्र
+
 
 श्री। प। प। वासुदेवानंदसरस्वती टेंबे स्वामिमहाराज क्ऱृत
 
@@ -35,5 +38,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc0NzgzOTUxOTQ
 सर्वमन्त्रस्वरूपाय, सर्वयन्त्रस्वरूपाय,  
 सर्वतन्त्रस्वरूपाय, सर्वपल्लवस्वरूपाय,  
 ॐ नमो महासिद्धाय स्वाहा ।
+
 
 \]

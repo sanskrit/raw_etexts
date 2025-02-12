@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5NDQxOTMwMTI
 
 \[
 
+
+
+
 गणेशाष्टकम्
+
 
 श्रीगणेशाय नमः ।  
 ॐ अस्य श्रीसङ्कष्टहरणस्तोत्रमन्त्रस्य श्रीमहागणपतिर्देवता,  
@@ -50,5 +54,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5NDQxOTMwMTI
 पुत्राः पुत्र्यः पवित्रा रणभुवि विजयी द्यूतवादेऽपि वीरो  
 यस्येशो विघ्नराजो निवसति हृदये भक्‍तिभाग्यस्य रूद्रः ॥ ८॥  
 ॥ इति सङ्कष्टहरणं गणेशाष्टकं सम्पूर्णम् ॥
+
+
+
 
 \]

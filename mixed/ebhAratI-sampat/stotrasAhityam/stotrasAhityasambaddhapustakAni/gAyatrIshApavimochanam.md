@@ -12,6 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEyNTcxMDM5NDA
 
 \[
 
+
+
+
 गायत्रीशापविमोचनम्
 
 ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्।  
@@ -41,5 +44,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEyNTcxMDM5NDA
 सन्ध्ये सरस्वती।  
 अजरे अमरे चैव ब्रह्मयोने नमोऽस्तुते। ब्रह्म शापत् विमुक्ता भव। वसिष्ट शापत् विमुक्ता भव।  
 विश्वामित्र शापत् विमुक्ता भव॥
+
+
+
 
 \]

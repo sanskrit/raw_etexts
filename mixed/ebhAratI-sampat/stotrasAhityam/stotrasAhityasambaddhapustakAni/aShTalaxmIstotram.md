@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjc4NTcyMzc
 
 \[
 
+
+
+
+
 अष्टलक्ष्मीस्तोत्रम्
+
+
 
 सुमनसवन्दित सुन्दरि माधवि
 
@@ -75,5 +81,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjc4NTcyMzc
 वेदपुराणेतिहास सुपूजित  
   
 जय जय हे मधुसूदनकामिनि
+
+
+
+
+
 
 \]

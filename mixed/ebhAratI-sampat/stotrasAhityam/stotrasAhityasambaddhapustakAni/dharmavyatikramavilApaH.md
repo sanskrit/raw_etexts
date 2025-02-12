@@ -17,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0NTAxNDI1OTg
 
 [TABLE]
 
-![](../books_images/U-IMG-17238835742.png)
+<MISSING_FIG href="../books_images/U-IMG-17238835742.png"/>
 
 श्रीकाञ्च्यां
 
@@ -34,7 +34,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0NTAxNDI1OTg
 द शा व ता र द ण्ड क स म ल ङ्कृ तः
 
 धर्म व्यतिक्रम विलापः  
-![](../books_images/U-IMG-17238839242A.png)
+<MISSING_FIG href="../books_images/U-IMG-17238839242A.png"/>
 
 ** अ**
 
@@ -70,7 +70,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0NTAxNDI1OTg
 
 **(श्रीदशावतारदण्डकम्)**
 
-![](../books_images/U-IMG-172398755110.png)
+<MISSING_FIG href="../books_images/U-IMG-172398755110.png"/>
 
 ज
 
@@ -188,7 +188,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0NTAxNDI1OTg
 पाहि!!! चास्मान् प्रभो!! देव तुभ्यं नमः!  
 देव तुभ्यं नमः!! देव तुभ्यं नमः!!!**
 
-** ![](../books_images/U-IMG-172407663614.png)**
+** <MISSING_FIG href="../books_images/U-IMG-172407663614.png"/>**
 
 [TABLE]
 
