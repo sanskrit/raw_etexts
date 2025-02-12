@@ -18,17 +18,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE5MDkyMDk2OTU
 
 \[
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
 
 TABLE OF CONTENTS
 
@@ -42,8 +34,6 @@ TABLE OF CONTENTS
 | TRANSLATION        |
 | NOTES              |
 
-
-
 *                                  
                  *
 
@@ -56,8 +46,6 @@ TABLE OF CONTENTS
 *                                   
                    *
 
-
-
   PREFACE
 
  The Cārudatta attributed to Bhāsa is of perennial interest to the student of Sanskrit literature, as it has given rise to the tantalising problem as to whether it is the original of the Mṛcchakaṭika, or an abridgment thereof. It is probable that there is a third alternative to the problem viz: the possibility that the Cārudatta is an abridgment of the play 'Daridra-Cārudatta' which is referred to as a Rūpaka by many rhetoricians, and the relation between these three plays will be a matter for further research. We have proceeded on the assumption that 'Daridra-Cārudatta' is but an alternative title of the Mṛcchakaṭika for reasons given in the introduction. In any case there could be no reasonable doubt that if such a play as the 'Daridra-Cārudatta' has an independent existence, yet there must be a very close, and in fact, a genetic relation between all the three plays.
@@ -66,20 +54,12 @@ TABLE OF CONTENTS
 
   I take this opportunity of expressing my gratitude to Dr. N. G. Sardesai, who has undertaken to bring out this publication and lastly my thanks are due to Mr. S. R. Sardesai, B.A., LL.B., the manager of the Samartha Bharat Press, for the very nice printing and get-up of the work.
 
-
-
 Prabhākara Niketana,
 
 Deccan Gymkhana, Poona 4.                     
 C.R. DEVADHAR
 
 29 June 1939.
-
-
-
-
-
-
 
 |                                                                             |                |                                                 |
 |:---------------------------------------------------------------------------:|:--------------:|:-----------------------------------------------:|
@@ -102,10 +82,6 @@ C.R. DEVADHAR
 |                                     6\.                                     |    Caturikā    |          Maids in Vasantasenā's house.          |
 | Besides these, there are the usual stage-manager and his wife, the actress. |                |                                                 |
 
-
-
-
-
 ITRODUCTION
 
   The Cārudatta presents a very interesting problem to the student of literature. As I have remarked elsewhere\* it stands apart from the group and has peculiarities which are not shared by the rest of the plays-such as the absence of the introductory verse, of the Bharatavākya and the comparative prolixity of the prologue, in which again, contrary to usual practice the Sūtradhāra speaks Prākṛta. There is, moreover, no agreement in regard either to imagery, vocabulary, incidents and devices or dramatic irony, which is to be seen in the remaining plays. Recurrences such as the use of the words **सोपस्नेहता,** ( **प्रतिमा, अभिषेक ), परिस्पन्द ( पञ्चरात्र** ), or of the sentences **को कालो ( प्रतिज्ञा, स्वप्न० ) or अलमिदानीं भवान् अतिमात्रं संतप्य ।** ( **स्वप्न**o and **अविमारक ), सब्बं आणेदु वज्जिअ भोअंणं ( स्वप्न** IV. 32 ) are neither numerous, nor peculiar so as to support the idea of common authorship. The stanza **लिम्पतीव तमोऽङ्गानि**etc. which is common to Cārudatta and Bālacarita is to be met with in the Mṛcchakaṭika also.
@@ -119,8 +95,6 @@ ITRODUCTION
 
 *                                   
                              *
-
-
 
 Daridra-Cārudatta cannot be the present play for the simple reason that in none of the Mss. is it called so, nor in the body of the play is the hero ever described as **दरिद्रचारुदत्तः**, but always as **दरिद्रसार्थवाहपुत्रः चारुदत्तः.** In the Mṛcchakaṭika, however, the expression दरिद्रचारुदत्त occurs as many as eight times, and when we remember that our rhetoricians are in the habit of using alternative titles like **वत्सराजचरितम्** and **रत्नावली** for **रत्नावली**, we need make no the **दरिद्रचारुदत्त** referred to as a **रूपक** is no other than the **मृच्छकटिक.**
 
@@ -150,8 +124,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
  अथ कदाचिद्वसन्तसेनाचेट्या मदनिकायाः कामुकः सज्जलको नाम तामभुजिप्यांकर्तुं प्रवृत्तस्तस्या निष्क्रयार्थं रात्रौ चारुदत्तगृहे सन्धिं कृत्वा वसन्तसेनया निक्षिप्तं सुवर्णभाण्डमपजहार । तच्च गृहीत्वा वसन्तसेनागृहं प्राप्तो मदनिकायै साहसं स्वीयं निवेदयामास। भियन्तरितया वसन्तसेनयापि श्रुतं तद्रहस्यम् । अत्रान्तरे चारुदत्तसकाशात्प्राप्तो विदूषकः "सुवर्णभाण्डं तद् द्यूते हारितं " इत्यपदिश्य तन्मूल्यत्वेन चारुदत्तपत्न्या समर्पितां रत्नावलीं तस्यै
 
 प्रादात्। सज्जलकोऽपि मदनिकावचनानुरोधेन 'आर्यचारुदत्तप्रेषितमिदं इति वदंस्तस्यैऽर्पयत्। तया तु साहसं कृत्वानीतमिदं सुवर्णभाण्डमिति प्रत्याख्यातः । अन्ते तु प्रेम्णो विजृम्भितमेतदिति प्रीता मदनिकां स्वीयैराभरणैरलंकृत्य सज्जलकाय प्रदाय प्रवहणे तावारोप्य व्यसर्जयत् । स्वयं च चारुदत्तमभिसर्तुमुद्यताभवत् ।
-
-
 
 **पात्राणि ।**
 
@@ -194,9 +166,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 |    ०तमार्य    |   ०तमार्य    |
 | ०दृश्ययवस्था० | ०दृश्यवस्था० |
 |     देदुं     |     देदु     |
-
-
-
 
 श्रीगणेशाय नमः।
 
@@ -313,8 +282,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 चक्खिदो हिअएण अणुबन्धीअमाणो गच्छीअदि। अहो अच्चा-
 
-
-
 हिदं। अहं वि णाम परस्स आमन्तआणि त्ति तक्केमि । जो अहं तत्तहोदो चारुदत्तस्स गेहे अहोरत्तपय्यत्तसिद्धेहि णाणाविधेहि
 
 हिङ्गुविद्वेहि ओग्गारणसुगन्धेहि भूक्खेवमत्तपडिच्छिदेहि अन्तरन्तरपाणीएहि असणप्पआरेहि चित्तअरो विअ बहुमल्लएहि परिवुदो आअण्ठमत्तं अहणिअ चच्चरवुसहो विअ मोदअख
@@ -332,11 +299,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 ल्लाल्य भणसि। भणामि व्यापृत इति। किं भणसि– दक्षिणामाषका भविष्यन्तीति। एष वाचा प्रत्याख्यातो हृदयेनानुबध्यमानो गम्यते। अहो अत्याहितम् । अहमपि नाम परस्यामन्त्रणानीति तर्कयामि । योऽहं तत्र
 
 भवतश्चारुदत्तस्य गेहेऽहोरात्र पर्याप्तसिद्धैर्नानाविधैर्हिगुविद्धैरुगारणसुगन्धिभिः भ्रूक्षेपमात्रप्रतीष्टैरन्तरान्तरपानीयैरशनप्रकारैश्चित्रकर इव बहु-  
-
-
-
-
-
 
  मल्लकैः परिवृत आकण्ठमात्रमशित्वा चत्वरवृषभ इव मोदकखाद्यै रोमन्था
 
@@ -360,10 +322,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 विपण्णविभवस्स बहुलपक्खचन्दस्य जोहूणापरिक्खओ विअ भवदो एव्व रमणीओ अअ दरिद्दभावो । \[ अलमिदानीं भवानतिमात्रं सन्तप्तुम् । पुरुषयौवनानीव गृहयौवनानि खलु दशाविशेष
 
 मनुवभवन्ति । आसमुद्रदानविपन्नविभवस्य बहुलपक्षचन्द्रस्य ज्योत्स्नापरिक्षय इव भवत एव रमणीयोऽयं दरिद्रभावः । \]
-
-
-
-
 
 **नायकः**–न खल्वहं नष्टां श्रियमनुशोचामि । गुणरसज्ञस्य तु पुरु
 
@@ -398,10 +356,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 एतत्तु मां दहति नष्टधनश्रियो मे  
 यत् सौहृदानि सुजने शिथिलीभवन्ति ॥ ५ ॥
 
-
-
-
-
 अपिच,
 
 दारिद्र्यात् पुरुषस्य बान्धवजनो वाक्ये न सन्तिष्ठते  
@@ -432,10 +386,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 \[ तिष्ठ तिष्ठवसन्तसेने तिष्ठ,
 
-
-
-
-
 **किं यासि धावसि प्रधावास प्रस्खलन्ती  
 साधु प्रसीद न मार्यसे तिष्ठ तावत्।  
 कामेन सम्प्रति हि दह्यते मे शरीर-  
@@ -456,8 +406,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 उद्विग्नचञ्चलकटाक्षनिविष्टदृष्टि-  
 र्व्याघ्रानुसारचकिता हरिणीव यासि ॥ ९ ॥
 
-
-
 **शकारः** -भावे ! एशा गच्छइ वशञ्चशेणिआ, दुवेहि अम्हेहि अणुबन्धअन्ती जहा शिगाली विअ कुक्कुलेहि । शणूपुला मेहलणादहाशा शवेट्टणं मे हलअं हलन्ती ॥ १०॥  
 \[ भाव ! एषा गच्छति वसन्तसेना,
 
@@ -476,10 +424,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 परहुदिए ! महुअरअ ! महुअरअ ! सारिए ! सारिए ! हद्धि,
 
 णट्ठोमे परिजणो । एत्थ स एव अप्पा रक्खिदव्वो । \[ पल्लवक !
-
-
-
-
 
 पल्लवक ! परभृतिके ! परभृतिके! मधुकरक! मधुकरक ! शारिके ! शारिके ! । हा धिक्, नष्टो मे परिजनः । अत्र स्वयमेवात्मा रक्षितव्यः।
 
@@ -508,8 +452,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **विटः** - भवति ! क्रियतामस्माकमनुनयप्रग्रहः । पश्य,
 
-
-
 जनयति खलु रोषं प्रश्रयो भिद्यमानः  
 किमिव च रुषितानां दुष्करं मद्विधानाम्।  
 अनुनयति समर्थः खड्डदीर्घः करोऽयं  
@@ -523,8 +465,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 खिवेमि शीशं सव मालए हवा।  
 अलं तु अम्हालिशकाणि लोशिअ  
 मडे खु जो होइ ण णाम जीवइ ॥ १५ ॥
-
-
 
 \[ वसन्तसेने ! सुष्ठुभावो भणति। बहुमान्यते खलु तावद् बलवज्जनदुर्लभोऽनुनयः । पश्य वासु !
 
@@ -542,9 +482,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 अलङ्कारो वा \। \[ आर्य ! अस्माज्जनात् किमिप्यते शरीरं वाथवालङ्कारो वा । \]
 
 **विटः**-न पुष्पमोक्षणमर्हति लता । कृतमलङ्कारेण ।
-
-
-
 
 **गणिका** - अहं खु दाणि अत्ताणं ण सन्द्रावेंअं
 
@@ -573,9 +510,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 **गणिका** - एसो मे अभिणिवेसो अभिजणेण तुलीअदि। \[ एष मेऽभिनिवेशोभिजनेन तोल्यते । \]
 
 **शकारः** - भावे ! एशा अन्धआलपूलिशगम्भीला लच्छा दीशइ। मा खु णाए एत्थ भंशइदव्वा । आ कामदेवाणुआणण्पहु दिण अण-
-
-
-
 
 मत्तशत्थुलं दर्रिद्दशत्थवाहवुत्तं चालुदत्तवडुअं कामेदि एशा । इदं
 
@@ -622,14 +556,10 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 ॥
 
-
-
 तथाहि-
 
 आलोकविशाला मे सहसा तिमिरप्रवेशसञ्छन्ना ।  
 उन्मीलितापि दृष्टिर्निमीलितेवान्धकारेण॥ २१॥
-
-
 
 **गणिका** - अम्महे भित्तिपरिणामसूइदं पक्खदुवालं। असम्भोअमलिणदाए इह अहिअं अन्धआरो । ता इह एव्व चिट्ठिस्सं।
 
@@ -658,8 +588,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 **विदूषकः** - ( दीपं गृहीत्वा ) भो रदणिए ! अवावुद पक्खदुवालं । \[ भो रदनिके ! अपावृणु पक्षद्वारम् । \]
 
 **रदनिका -** तह । ( नाट्येन द्वारमपावृणोति ) \[ तथा । \]
-
-
 
 ( गणिका वस्त्रान्तेन दीपं निर्वापयति । )
 
@@ -696,8 +624,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 श्रवणाभ्याम् । अन्धकारपूरिताभ्यां नासापुटाभ्यां सुष्टु न पश्यामि । \]
 
 **विटः-** तिष्ठ तिष्ठ ।क्वयास्यसि । ( चेटीं गृह्णाति )
-
-
 
 ( चेटी सभयं भूमौ पतिता । )
 
@@ -743,8 +669,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 वादेण पदे पदे विक्खोहिअमाणजणिअतरङ्गतेल्लपुण्णभाअणं दीवं
 
-
-
 कहं वि रक्खिअ गह्णिअ आअदो म्हि। \[राजमार्गसङ्कीर्णेन शीतसुकुमारेण वातेन पदे पदे विक्षोभ्यमाणजनिततरङ्गतैलपूर्णभाजनं दीपं
 
 कथमपि रक्षित्वा गृहीत्वागतोऽस्मि। \]
@@ -775,8 +699,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 वात्रापराद्धः । \]
 
-
-
 **शकारः** - भावे ! दिढं खु भाआशि तं दलिद्दशत्थवाहपुत्तं चालुदत्तवडुअं। \[ भाव ! दृढं खलु बिभेषि तं दरिद्रसार्थवाहपुत्रं
 
 चारुदत्तबटुकम् । \]
@@ -806,8 +728,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 विअ मूलकन्दं शीशकवालं मडमडाइश्शं । मा खु कवाडशम्पुडप्पविट्ठं विअ पक्ककवित्थं शीशं दे चुण्णचुण्णं मडमडाइश्शं ति । \[ मारिष ! बटुक ! मारिष ! भण तं दरिद्रसार्थवाहपुत्रं चारुदत्तबटुकं
 
 मम वचनेन - राजस्यालः संस्थानकः सपट्टेन शीर्षणानुवन्द्य भणतिनाटकस्त्री वसन्तसेना नाम गणिकादारिका सुवर्णवर्णा द्वाभ्यामावाभ्यां बलात्कारेण नीयमाना महता सुवर्णालङ्कारेण तव गेहं प्रविष्टा । सा
-
-
 
 श्वो निर्यातयितव्या । मा तावत् तव च मम च दारुणः क्षोभो भवतीति। बटुक ! मारिष ! इदं च भण- मा दास्याः पुत्र ! पारावतगलप्रविष्टमिव मूलकन्दं शीर्षकपालं मडमडायिष्यामि। मा खलु
 
@@ -847,8 +767,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 \[अभागिन्यहमभ्यन्तरप्रवेशस्य ।\]
 
-
-
 **नायकः-**किमिदानीं न प्रविशसि ।
 
 **गणिका**- इदाणिं अहं किं भणिस्सं । \[ इदानीमहं किं भणिष्यामि ।\]
@@ -880,8 +798,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **विदूषकः**-अविहा वसन्तसेणा। ( अपवार्य ) भो चारुदत्त ! वसन्तसेणा खु इअं, जा भवदा कामदेवाणुआणप्पहुदि णअण-
 
-
-
 मत्तसंत्थुदा सण्णिहिदमणोभवेण हिअएण उव्वहीअदि। ता पेक्खदु इआं। \[ अविहा वसन्तसेना ।
 
 भोः चारुदत्त ! वसन्तसेना खल्वियं, या भवता कामदेवानुयानप्रभृति नयनमात्रसंस्तुता
@@ -901,8 +817,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 अण्णोण्णं सङ्किलेसन्ति। अहं दाणि कं पसादेमि \। भोदु, दाणि रदणिअं पसादेमि ।
 
-
-
 रदणिए ! पसीददु पसीददु होदी । \[ भोः ! विवहन्ताविव शकटिकां दुर्विनीतबलीवर्दावन्योन्यं क्लेशयतः । अह
 
 मिदानीं कं प्रसादयामि । भवतु, इदानीं रदनिकां प्रसादयामि । रदनिके ! प्रसीदतु प्रसीदतु भवती । \]
@@ -914,8 +828,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 अलङ्कारणिमित्तं पावा मं अणुसरन्ति। अहं पि अय्येण रक्खिदा गेहं गन्तुमिच्छामि। \[ मधुरं खल्वेष्टव्यम्। अदक्षिणं खलु प्रथमदर्शने यहच्छागतयेह वस्तुम्। तदेवं करिष्यामि । यदि मे आर्यः
 
 प्रसन्नः, अयं मेऽलङ्कार इहैव तिष्ठतु । अलङ्कारनिमित्तं पापा मामनुसरन्ति। अहमप्यार्येण रक्षिता गेहं गन्तुमिच्छामि। \]
-
-
 
 **नायकः-**अन्वर्थमुपदिशति । मैत्रेय ! गृह्यताम् ।
 
@@ -941,7 +853,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **नायकः** – कृतं दीपिकया । ( विलोक्य ) उदितो भगवान् सर्वजनसामान्यप्रदीपश्चन्द्रः। अतः खलु,  
 
-
 उदयति हि शशाङ्कः क्लिन्नखर्जूरपाण्डु-  
 र्युवतिजनसहायो राजमार्गप्रदीपः ।  
 तिमिरनिचयमध्ये रश्मयो यस्य गौरा  
@@ -953,8 +864,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **प्रथमोऽङ्कः ।**  
 *         *
-
-
 
 अथ द्वितीयोऽङ्कः ।
 
@@ -990,9 +899,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 राजकुमारः । \]  
 
-
-
-
 **गणिका** - रमिदुं इच्छामि, ण सेविदुं। \[रन्तुमिच्छामि, न सेवितुम् ।\]
 
 **चेटी** - किण्णुखु विज्जाविसेसरमणीओ कोच्चि बम्हणदारओ ।
@@ -1027,8 +933,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 **गणिका** - अदो खु कामीअदि । अदिदरिद्दपुरुससत्ता गणिआ
 
 अवअणीआ होइ ।\[ अतः खलु काम्यते । अतिदरिद्रपुरुषसक्ता गणिका अवचनीया भवति । \]
-
-
 
 **चेटी-** अज्जुए ! उद्धुदपुप्फं सहआरं महुअराओ उवासन्ति ।
 
@@ -1070,9 +974,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 गुणवान् रक्षितव्यो भवति । \]  
 
-
-
-
 **संवाहकः**-अय्ये ! णं भएण उवआरो विस्सरिदो, ण परिभवेण । पेक्खदु अय्या, भीदाहवा पधरिसिदाहवा आवण्णाहवा सुलभचा
 
 रित्तवञ्चणाहवा अवराहेदुं समत्था होन्ति। \[आर्ये ! ननु भयेनोपचारो विस्मृतः, न परिभवेन \। पश्यत्वार्या, भीता अथवा प्रधर्षिता अथवा आपन्ना अथवा सुलभचारित्रवञ्चना वा अपराधयितुं समर्था भवन्ति ।\]
@@ -1109,8 +1010,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **संवाहकः**-पाडलिपुत्तं मे जम्मभूमी ।पकिदीए वणिजओ अहं ।
 
-
-
 तदो भाअधेअपरिवृत्तदाए दसाए संवाहअवुत्तिं उवजीवामि ।
 
 \[पाटलिपुत्रं मे जन्मभूमिः । प्रकृत्यावणिगहम् । ततो भागधेयपरिवृत्ततया दशया संवाहकवृत्तिमुपजीवामि। \]
@@ -1140,8 +1039,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 आइदो तुट्टो होदि । दय्य ण विकत्थेदि । अप्पं वि सुमरदि, बहुअं पि अवइदं विसुमरदि। अज्जुए ! किं बहुणा, तस्स कुलवुत्तस्स गुणाणं चउब्भाअं पि सुदिग्घेण वि गिम्हदिअहेण
 
 वण्णिदुं ण सक्कं। किं बहुणा, दक्खिञ्ञदाए परकेरअं विअ अत्तणो सरीरं धारेदि । \[ आकृतिमान् अविभ्रमन् अनुत्सिक्तो ललितो ललिततयाविस्मयश्चतुरो मधुरो दक्षः सदाक्षिण्योऽभिमत आचितस्तुष्टो
-
-
 
 भवति। दत्त्वान विकत्थते। अल्पमपि स्मरति, बहुकमप्यपकृतं विस्मरति। अज्जुके ! किं बहुना, तस्य कुलपुत्रस्य गुणानां चतुर्भागमपि सुदीर्घेणापि ग्रीष्मदिवसेन वर्णयितुं न शक्यम्। किं बहुना,
 
@@ -1179,9 +1076,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 अहं पि तेण अय्येण अब्भणुञ्ञादो- अण्णं उवचिट्ठदुत्ति । कहं  
 
-
-
-
 अण्णं एरिसं मणुस्सरअणं लभेअन्ति, कहं च तस्स कोमलललिदमहुरसरीरप्परिसकिदत्थं मे हत्थं साहारणसरीरसम्मद्देण सो
 
 अणीअं करिस्सं ति जादणिव्वेदो दद्धसरीररक्खणत्थं जूदोवजीवी संवुत्तो। \[ ततः स विभवमन्दतयास्वाधीनपरिजनो विसर्जितकुटुम्बभरणश्चारित्रमात्रावशेषः सार्थवाहकुले प्रतिवसति। अहमपि तेनार्येणा
@@ -1209,8 +1103,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 इति । एवं गत आत्मीय आर्यः । हला ! एहि तं जनं विसर्जय । \]
 
 **चेटी -** तह । ( निष्क्रान्ता । ) \[ तथा । \]
-
-
 
 **गणिका** - ण खु अय्येण अत्थणिमित्ता चिन्ता कादव्वा । अय्यचारु
 
@@ -1246,8 +1138,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **चेटः**-विच्छित्तिए ! विच्छित्तिए ! कहिं कहिं अज्जुआ। \[विच्छित्तिके ! विच्छित्तिके ! कुन कुत्राज्जुका।\]
 
-
-
 **गणिका**-हञ्जे ! किं एदं । \[ हञ्जे ! किमेतत् ।\]
 
 **चेट**:- हं, विप्पलद्धो म्हि, वादाअणणिक्खामिदपुव्वकाआए ओण
@@ -1274,10 +1164,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **चेटः** - तदो सव्वो जणो भणादि- अहो चेडस्स कम्म त्ति । ण उण कोच्चि किं पि इच्छइ दाउं। तदो अज्जुए ! केण वि कुलवुत्तेण
 
-
-
-
-
 उदाणि आभरणट्ठाणाणि विलोइअ अङ्गुट्ठेणाणिअ वि उण अलद्धं पेक्खिअ दव्वं उवालभिअ दिग्धं णिस्ससिअ एत्तओ मे विभवो त्ति करिअ परिजणहत्थे अअं पावरओ पेसिदो । \[ ततः सर्वो जनो भणति - अहो चेटस्य कर्मेति । न पुनः कश्चित् किमपीच्छति दातुम्। ततोऽज्जुके! केनापि कुलपुत्रेणोचितान्याभरणस्थानानि विलोक्याङ्गुष्ठेनानीयापि पुनरलब्धं प्रेक्ष्य दैवमुपालभ्य दीर्घं निःश्वस्यै तावान् मे विभव इति कृत्वा परिजनहस्तेऽयं प्रावारकः प्रेषितः। \]
 
 **गणिका** - कोणुखु अय्यचारुदत्तस्स गुणाणं अणुकरेदि। \[ कोनुखल्वार्यचारुदत्तस्य गुणाननुकरोति । \]
@@ -1298,13 +1184,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 **चेटी-** जइ एवं, इह तुए [कोत्ति](http://किं%20ति. "किं ति.")मन्तिदं ।\[ यद्येवम्, इह त्वया कइति मन्त्रितम् । \]
 
 **चेटः** - अहं एत्तअं तु जाणामि-भद्दओ अविम्हओ त्ति । \[ अहमेतावत् तु जानामि – भद्रकोऽविस्मय इति । \]
-
-
-
-
-
-
-
 
 **गणिक**- एहि दाव तं पेक्खामो । \[ एहि तावत् तं पश्यामः । \]
 
@@ -1333,11 +1212,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **विदूषकः** - भो वयस्स ! को कालो किदपरिघोसणदाए णिस्सम्पादा राअमग्गा ।कुक्कुरा वि ओसुत्ता । वअं णिद्दं ण लभामो । अण्णं च दाणि अच्छरीअं । इमं हृदवीणं ण रमामि । अहिअदिढत्थाणे विच्छिण्णतन्तिआ होदु। \[ भो वयस्य ! कः कालः कृतपरिघोषणतया निःसम्पाता राजमार्गाः । कुक्कुरा अप्यवसुप्ताः । वयं निद्रां न लभामहे । अन्यच्चेदानीमाश्चर्यम् । इमां हतवीणां न रमे। अधिकदृढस्थाने विच्छिन्नतन्त्रीका भवतु। \]  
 
-
-
-
-
-
 **नायकः**– वयस्य ! भावशाबलेन बहुशः खल्वद्य मधुरंगीतम् । न च भवान् रमते ।
 
 **विदूषकः** - अदो एव्व एदं अहं ण रमामि । महुरं पि बहु खादिअं अजिण्णं होइ। \[ अत एवैतामहं न रमे । मधुरमपि बहु खादितमजीर्णं भवति । \]
@@ -1356,14 +1230,7 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 असौ हि दत्त्वा तिमिरावकाशमस्तं गतो ह्यष्टमपक्षचन्द्रः ।  
 तोयावगाढस्य वनद्विपस्य विषाणकोटीव निमज्जमाना ॥३ ॥
 
-
-
 **विदूषकः**–सुट्ठुभवं भणादि। अन्तद्धिअमाणचन्दलद्धावआसो ओदरदी विअ पासादादो अन्धआरो। \[ सुष्ठुभवान् भवति ।अन्तर्दधानचन्द्रलब्धावकाशोऽवतरतीव प्रासादादन्धकारः। \]  
-
-
-
-
-
 
 **नायकः**-(परिक्रम्य) इदमस्मदीयं गृहम् । वर्धमानवक ! वर्धमानवक !
 
@@ -1396,9 +1263,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 ( निष्क्रान्तश्चेटः । )  
 
-
-
-
 ( प्रविश्याभरणसमुद्गहस्ता )
 
 **चेटी**–अय्यमेत्तेअ ! उट्ठेहि उट्ठेहि । \[ आर्यमैत्रेय ! उत्तिष्ठोतिष्ठ । \] विदूषकः–भोदि ! किं एदं । \[ भवति ! किंमेतत् । \]
@@ -1429,12 +1293,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 **नायकः** - वयस्य ! मा मैवम् ।
 
 **विदूषकः-**अहं भरिगद्दभो विअ भूमीए पलोट्ठामि ।\[ अहं भरितगर्दभ इव भूम्यां प्रलुठामि । \]
-
-
-
-
-
-
 
 **नायकः**- निद्रा मां बाधते । तूष्णीं भव ।
 
@@ -1470,11 +1328,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 क्षारक्षीणतया चलेष्टककृशं हर्म्यं क जीर्णं भवेत्  
 कुत्र स्त्रीजनदर्शनं च न भवेत् स्वन्तश्च यत्नो भवेत् ॥ ८ ॥**  
 
-
-
-
-
-
 ( परिक्रम्य ) इयं वास्तुविभागक्रिया । सोपस्नेहतथा गृहविशिष्ट इवायं भवनविन्यासः । इह तावत् प्रवेशावकाशं करिष्ये । भोः !
 
 कीदृश इदानीं सन्धिच्छेदः कर्तव्यः स्यात् ।
@@ -1507,11 +1360,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 नमः खरपटाय \। नमो रात्रिगोचरेभ्यो देवेभ्यः । ( तथा करोति । )  
 
-
-
-
-
-
 हन्त अवसितं कर्म। प्रविशामस्तावत् । ( प्रविश्य ) अये ! ज्वलति दीपः । अपसरामि तावत् । धिक्, सज्जलकः खल्वहम् ।
 
 मार्जारः प्लवने वृकोऽपसरणे श्येनो गृहालोकने  
@@ -1536,11 +1384,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 गात्रं सन्धिषु दीर्घतामुपगतं शय्याप्रमाणाधिकम् ।  
 दृष्टिर्गाढनिमीलिता न चपलं पक्ष्मान्तरं जायते  
 दीपं चैव न मर्षयेदभिमुखः स्याल्लक्षसुप्तो यदि ॥ १३॥**  
-
-
-
-
-
 
 क्वनुखलु तत्। अये जर्जरप्रावरणैकदेशे दीपप्रभाव्यक्तीकृतरूपं दृश्यते। सुपरिगृहीतमनेन। अयमत्र प्राप्तकालः। इमे मया गृहीताः
 
@@ -1572,10 +1415,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 ( प्रविश्य )
 
 **चेटी -** (साक्रन्दम्) अय्यमेत्तेअ ! अम्हाणं रुक्खवाडिआपक्खदुवाले सन्धिं छिन्दिअ चारो पविट्ठो ।\[ आर्यमैत्रेय ! अस्माकं
-
-
-
-
 
 वृक्षवाटिकापक्षद्वारे सन्धि छित्वा चोरः प्रविष्टः ।\]
 
@@ -1617,8 +1456,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **विदूषकः -** भो वअस्स ! स्वहा तुवं भणासि, मुकूखो मेत्तेओं अपण्डिदो मेत्तेओ तति । णं मए सोभणं किदं तं सुवण्णमण्ड्ं तव हत्थं समप्पअन्तेण । \[ मो वयस्य ! सर्वथा त्वं भणसि, मूर्खो।
 
-
-
 मैत्रेयोऽपण्डितो मैत्रेय इति । ननु मया शोभनं कृतं तत् सुवर्णभाण्डकं \[ तव हस्ते समर्पयता । \]
 
 **नायकः** - किं भवता दत्तम् ।
@@ -1656,11 +1493,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **ब्राह्मणी**-ण परिक्खदो ण वावादिदो अय्यउत्तो अय्यमेत्तेओ वा । \[न परिक्षतो न व्यापादित आर्यपुत्र आर्यमैत्रेयो वा । \]  
 
-
-
-
-
-
 **चेटी**-कुसली भट्टिदारओ अय्यमेत्तेओ अ। जो तस्स जणस्स अलङ्कारो चोरेण गहीदो। \[ कुशली भर्तृदारक आर्यमैत्रेयश्च।
 
 यस्तस्य जनस्यालङ्कारश्चोरेण गृहीतः । \]
@@ -1687,10 +1519,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 किं पुनः स कलाजीवी वञ्चनापण्डितो जनः ॥ १६ ॥
 
 **विदूषकः** - मण्णे मए मन्दभाग्गेण कुम्भीलस्स हत्थे दिण्णं। (विषण्णस्तिष्ठति। ) \[ मन्ये मया मन्दभाग्येन कुम्भीलस्य हस्ते दत्तम्। \]
-
-
-
-
 
 **ब्राह्मणी**–रदणिए ! अय्यमेत्तेअं सद्दावेहि । \[ रदनिके ! आर्यमैत्रेयं शब्दापय । \]
 
@@ -1727,10 +1555,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 **चेटी**-( अपवार्य ) किंणुखु तस्स जणस्स दादव्वं भविस्सदि त्ति एदण्णिमित्तं भट्टिदारओ सन्तप्पदि त्ति भट्टिदारिआ तव हत्थे
 
 दइअ अय्यउत्तं अणिरिणं करिस्सामि त्ति एवं करेदि । ता गह्ण
-
-
-
-
 
 एदं । \[ किन्नुखलु तस्मै जनाय दातव्यं भविष्यतीत्येतन्निमित्तं भर्तृदारकः संतप्यत इति भर्तृदारिका तव हस्ते दत्त्वार्यपुत्रमनृणं करिष्यामीत्येवं
 
@@ -1771,10 +1595,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 गृहाणैतत् । \]
 
-
-
-
-
 **नायकः** - तथा । (गृहीत्वा) वयस्य ! इमां मुक्तावलीं गृहीत्वा वसन्तसेनायाः सकाशं गच्छ ।
 
 अर्थेषु काममुपलभ्य मनोरथो मे  
@@ -1790,8 +1610,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 यं समालक्ष्य विश्वासं न्यासोऽस्मासु कृतस्तया।  
 तस्यैतन्महतो मूल्यं प्रत्ययस्य प्रदीयताम् ॥ १९ ॥
-
-
 
 ( निष्क्रान्ताः सर्वे । )
 
@@ -1809,11 +1627,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 **चेटी**- अज्जुए ! तस्सि सारसा तस्स जजणरस \। \[ हञ्जे ! पश्यसि हत्थिविमद्दकोलाहले बहुमाणपय्यत्थाए
 
 दिट्ठीए दूरदो दिट्ठो सो भट्टिदारओ ईदिसो एव्व \[ अज्जुके ! तस्मिन् हस्तिविमर्दकोलाहले बहुमानपर्यस्तया दृष्ट्या दूरतो दृष्टः स भर्तृदारक ईदृश एव । \]  
-
-
-
-
-
 
 **गणिका** - तुम दाव दक्खो वेसवासजणो त्ति जणवादं पूरअन्ती अलिअं भणासि ।
 
@@ -1842,8 +1655,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 त्वज्जुका । \]
 
 **गणिका** - किं अय्यचारुदत्तो मण्डइस्सिदि। \[किमार्यचारुदत्तो मण्डयिष्यति । \]
-
-
 
 **चेटी** - णहि, जेण अलङ्कारो पेसिदो सो राअसालो सण्ठाणो । \[ नहि, येनालङ्कारः प्रेषितः स राजस्यालः संस्थानः । \]
 
@@ -1879,10 +1690,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 **चेटी**- (आकर्ण्य ) सज्जलअस्स विअ सरो । वावुदा अज्जुआ। ता उवस प्पिस्सं । (उपगम्य) इअम्हि ।\[ सज्जलकस्येव स्वरः । व्यापृता
 
 ज्जुका ।तदुपसर्पिष्यामि। इयमस्मि । \]
-
-
-
-
 
 **सज्जलकः** - इतस्तावत्।
 
@@ -1920,15 +1727,8 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **सज्जलकः** - तेन हीममस्यै प्रयच्छ, एवं वक्तव्या च-  
 
-
-
-
-
-
 अयं तव शरीरस्य प्रमाणादिव निर्मितः ।  
 अप्रकाश्यो ह्यलङ्कारो मत्स्नेहाद् धार्यतामिति ॥ २ ॥
-
-
 
 **चेटी–**पेक्खामि दाव ।\[ पश्यामि तावत् । \]
 
@@ -1961,11 +1761,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 **उभे**- हुम् ।
 
 **सज्जलकः** - अयि,  
-
-
-
-
-
 
 विषादस्रस्तसर्वाङ्गी सम्भ्रमोत्फुल्ललोचना
 
@@ -2005,10 +1800,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 अज्ञानाद् या मया पूर्वं शाखा पत्रैर्वियोजिता।  
 छायार्थी ग्रीष्मसन्तप्तस्तामेव पुनराश्रितः ॥ ५ ॥
 
-
-
-
-
 **गणिका** - सन्तप्पदि त्ति तक्केमि एदेण अकय्यं किदं त्ति । \[ संतप्यत इति तर्कयामि एतेनाकार्यं कृतमिति । \]
 
 **सज्जलकः**-मदनिके ! एवं गते किं कर्तव्यम् ।
@@ -2040,10 +1831,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 अ अणिव्विण्णो भविस्सदि। अहं च पीडिदा ण भविस्सं ।आदु अज्जुअं च पुणो वञ्चिअ पुणो एव्व दासभावो भवे \। \[ तेन हीमं तावदलङ्कारं तस्य सार्थवाहपुत्रस्य वचनादज्जुकायै निर्यातय ।एवं च
 
 कृते त्वं रक्षितः, स आर्यश्चानिर्विष्णो भविष्यति । अहं च पीडिता न भविष्यामि । अथवा अज्जुकां च पुनर्वञ्चयित्वा पुनरेव दासभावो भवेत् ।\]
-
-
-
-
 
 **सज्जलकः** - मदनिके ! प्रीतोऽस्मि
 
@@ -2077,8 +1864,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 विदूषकः-(उपगम्य) सोत्थि होदीए ।\[ स्वस्ति भवत्यै । \]
 
-
-
 **गणिका**—साअदं अय्यस्स। हञ्जे! आसणं अय्यस्स पादोदअं च। \[ स्वागतमार्थस्य। हञ्जे ! आसनमार्यस्य पादोदकं च। \]
 
 **विदूषकः**—(आत्मगतम्) सव्वं आणेदु वज्जिअ भोअणं।\[ सर्वमानयतु वर्जयित्वा भोजनम्। \]
@@ -2098,8 +1883,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
  **गणिका**—जूदे। जुज्जइ। तदो तदो। \[ द्यूते। युज्यते। ततस्ततः। \] विदूषकः—तदो तस्स अलङ्कारस्स मुलभूदं इमं मुत्तावलिं पडिच्छदु भोदी। \[ ततस्तस्यालङ्कारस्य मूल्यभूतामिमां मुक्तावलीं प्रतीच्छतु भवती। \]
 
 **गणिका**—(आत्मगतम्) धिक् खु गणिआभावं लुद्धत्ति मं तुलअदि। जइ ण पडिच्छे, सो एव्व दोसो भविस्सदि। (प्रकाशम्)
-
-
 
 आणेदु अय्यो। \[ धिक् खलु गणिकाभावम्। लुब्धेति मां तुलयति। यदि न प्रतीच्छामि, स एव दोषो भविष्यति। आनयत्वार्यः। \]
 
@@ -2126,8 +1909,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 ** सज्जलकः**—कष्टा खल्वात्मशङ्का नाम,
 
 यः कश्चिच्चकितगतिर्निरीक्षते मां सम्भ्रान्तो द्रुतमुपसर्पति स्थितो वा। सर्वांस्तांस्तुलयति दोषतो मनो मे स्वैर्दोषैर्भवति हि शङ्कितो मनुष्यः ॥६॥
-
-
 
 ** मदनिका**—एसा अज्जुआ। उक्सप्पदु अय्यो। \[ एषाज्जुका। उपसर्पव्वार्यः। \]
 
@@ -2156,8 +1937,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 ** गणिका**—(स्वैराभरणैर्मदनिकामलङ्कृत्य) आरुहदु अय्यो अय्याए सह पवहणं। \[ आरोहत्वार्य आर्यया सह प्रवहणम्। \]
 
 ** मदनिका** — अज्जुए ! किं एदं। \[ अज्जुके ! किमेतत्। \]
-
-
 
 ** गणिका** — माखु माखु एवं मन्तिअ। अय्या खु सि दाणिं संवत्ता।गह्णदु अय्यो। (मदनिकां गृहीत्वा सज्जलकाय प्रयच्छति।) \[ माखलु माखल्वेवं मन्त्रयित्वा। आर्या खल्वसीदानीं संवृत्ता। गृह्णात्वार्यः। \]
 
@@ -2193,13 +1972,9 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **![](../books_images/U-IMG-1708864232Screenshot2024-02-19135503.png)**
 
-
-
 **श्लोकानुक्रमणिका।**
 
 [TABLE]
-
-
 
 **CĀRUDATTA**
 
@@ -2228,8 +2003,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 ** STAGE-MANAGER**—Well, dear, is there what I want?
 
 ** ACTRESS**—Yes, sir.
-
-
 
 ** STAGE-MANAGER**—So may the gods bless you! Now what have you got, my dear?
 
@@ -2266,8 +2039,6 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 ** STAGE-MANAGER**—Where can I find a poor Brāhmaṇa? (Looking) Ah, here comes the noble Maitreya, the Brāhmaṇa who Cārudatta's friend. So I will invite him. (*Moving round*) Sir, I invite you. In this matter of invitation, do not despise me on the ground of
 
-
-
 my poverty. There will be rich food to eat. There is ghee, raw sugar curds, rice, everything; besides, you will have a gift of gold pieces, too.
 
 ***(Behind the scenes)***
@@ -2286,10 +2057,6 @@ my poverty. There will be rich food to eat. There is ghee, raw sugar curds, rice
 
 Ah, he appears to be repudiated in words (only) but my heart follows him. Oh, misery! That even I should be looking for the invitations of others! I used to pass my days in Cārudatta's house ruminating savoury sweetmeats like a bull at the cross-roads, stuffed up to my very throat, surrounded by a variety of dishes like a painter by numerous pans of paint-dishes that were kept ready throughout the twenty-four hours, seasoned with asafcetida, emitting a sweet fragrance at each breath, commanded by a mere lift of the brow, with numerous drinks thrown in; but the same I, now that the noble Cārudatta is poor, must live the life of common people, like the pigeons, moving about else- where for my food and then returning to his house.
 
-
-
-
-
 And there is another wonderful thing: my belly understands the changed condition. It is satisfied with quite a little; and it will bear a good weight of rice when it is offered. It does not demand what is not offered, nor reject (what is offered). Not that I am not satisfied with such a state of affairs.
 
 Here I have got for the noble Cārudatta, who has performed the religious duties (pertaining) to the sixth day these flowers and this upper garment; so I will be by his side. (*Stepping around and looking*) Here is the noble Cārudatta, lovely and yet pitiful like the moon at dawn, stepping this way after worshipping the household deities according to his means, So I will approach him.                  
@@ -2307,8 +2074,6 @@ On this threshold of my house, where swans and flocks of cranes separated the fl
 ** HERO**—Nay, I do not bewail my lost fortune. But the ruin of a man who knows the joys of virtue appears to me to be more frightful; for
 
 Happiness after the experience of misery is glorious
-
-
 
 like the sight of a lamp in the midst of darkness; but he who comes to poverty after prosperity lives dead with a body alive. (3)
 
@@ -2331,8 +2096,6 @@ Moreover, if a man be poor his kinsmen will not abide by his words, his magnanim
 ** HERO**—Friend, why should I be grieving? Moreover, am I poor
 
 Whose wife will follow my fortunes, and who have a friend in you that will share my joys and woes?
-
-
 
 And what is not found with the poor, I have not lost my magnanimity. (7)
 
@@ -2360,8 +2123,6 @@ Covering a hundred steps in one step why dost thou glide away like a female snak
 
 Will it be Vāsudeva, the lord of the city of the dead,
 
-
-
 or Janamejaya, the son of Kuntī? Seizing thee by the tresses of thy hair, I shall carry thee off as Duśśāsana did Sīta. (12)
 
 ** VIṬA**—Vasantasenā, think of me as a man whose heart is entirely innocent of fear. See,
@@ -2383,8 +2144,6 @@ Sharp is the sword, black like a peacock's neck. I will cut off your head or sla
 ** VIṬA**—Sure, that is why we are after you.
 
 ** COURTESAN**—Good sir, what do you seek from me, my person or my ornaments?
-
-
 
  **VIṬA** — A creeper should not be stripped of her flowers. Have done with your ornaments.
 
@@ -2411,8 +2170,6 @@ He speaks, gesticulating with all his limbs; and what he says is utterly devoid 
 ** COURTESAN** (Delighted, to herself) — This is his house. Fortunately the harassment of my enemies brings me close to my beloved. Well, I will do it. (Slips away.)
 
 **ŚAKĀRA** — Eh, old man, the wench is lost, she has slipped away.
-
-
 
 ** VIṬA**—How could she be lost? Search her out, do search her out.
 
@@ -2442,8 +2199,6 @@ My sight, which could take a wide view in light, being all of a sudden sealed by
 ** VIDŪṢAKA**—I have no faith. Let someone else go.
 
 ** HERO**—What do you mean?
-
-
 
 ** VIDŪṢAKA**—My intellect is like a reflection in a mirror, where right appears left and left, right.
 
@@ -2485,9 +2240,6 @@ My sight, which could take a wide view in light, being all of a sudden sealed by
 
 ** ŚAKĀRA**—Ay, old man, I can hear the smell with my ears, but I can't see it properly with my nostrils, they are so full of darkness.  
 
-
-
-
 ** VIṬA**—Stop, stop, where are you going? (*Seizes the maid*.)
 
 **(*The maid falls to the ground in fright.*)**
@@ -2524,8 +2276,6 @@ Being on the stage, and trained in the arts, surely she is clever at speaking wi
 
 ** MAID**—(*Kicking S'akāra and crying*) O sir, O Maitreya, is this insult or insolence ?
 
-
-
 ** VIDŪṢAKA**—None of that, now, none of that. (*Stands in suspense at sight of Viṭa and S'akāra with swords in hand.)*
 
 ** VIṬA**—Why, this is Maitreya, friend to the noble Cărudatta. This, too, is not Vasantasenā. Great Brahmin, we acted thus owing to mistaken identity and not through insolence. Look you, sir,
@@ -2553,8 +2303,6 @@ He is rendered poor by the suits of men like me ; nor is there any one who is no
 Great Brāhmaṇa, please do not tell the merchant's son about this matter.
 
 **(*Exit Viṭa*.)**
-
-
 
 ** ŚAKĀRA**—Māriṣa, my lad, sir, speak to the poor merchant's son, the fellow Cārudatta, in my name-the King's brother-in-law, Saṁsthāna salutes you with his turbaned head and says:— the dancing-girl Vasantasenā, fair as gold, the daughter of a courtesan, when pursued per force by two of us, has entered your house with a lot of golden ornaments. She must be handed over tomorrow. Otherwise there will be serious trouble between us. My lad, sir, you can also add—“Let me not, you son of a slave, break your skull like some bulbous root in the throat of a turtle-dove; let me not crack your head like a ripe wood-apple caught between two doors”.
 
@@ -2584,8 +2332,6 @@ Great Brāhmaṇa, please do not tell the merchant's son about this matter.
 
 ** HERO**—Well, why don't you enter?
 
-
-
 ** COURTESAN**—What am I to say now?
 
 ** HERO**—Why do you tarry, Radanikā?
@@ -2614,8 +2360,6 @@ On whom my love is fixed, when the hoard of my wealth is gone; like the wrath of
 
 ** COURTESAN**—I have done wrong by entering the place without invitation; and so with my bent head I beg your pardon.
 
-
-
 ** HERO**—If that be so, I, too, must beg to be excused for having unwittingly treated you as a servant.
 
 ** VIDŪṢAKA**—Like a pair of ill-trained bulls pulling a cart in opposite directions, these two are worrying one another. Now whom may I propitiate? Well, now I will beseech Radanikā. Radanikā, I beg of you to pardon me.
@@ -2641,8 +2385,6 @@ On whom my love is fixed, when the hoard of my wealth is gone; like the wrath of
 ** HERO**—Ho, who is there? Bring a lamp.
 
 ** VIDŪṢAKA**—Sir, there is no oil in the lamp, as there is no love in a courtesan.
-
-
 
 ** HERO**—Well, there is no need of a lamp. (*Observing*) Here rises the divine moon, the common lamp of the world. So,
 
@@ -2677,9 +2419,6 @@ Lady, now you can go on the royal highway. Friend, follow the lady.
 ** MAID**—I think my mistress is adorned, though she is without her jewellery. The God of Love is an unexceptional festival of the young.
 
 ** COURTESAN**—Silly girl, how can you love an object that causes anxious longing ?  
-
-
-
 
 ** MAID**—Mistress dear, I want to ask, if he is some prince as lovely as he is respectable.
 
@@ -2723,9 +2462,6 @@ Lady, now you can go on the royal highway. Friend, follow the lady.
 
 ** MAID**—If you have such high regard for him, why don't you go after him ?  
 
-
-
-
 ** COURTESAN**—Not that I would not go. But if I go to him all of a sudden, and he finds himself unable to return my obligation, I will not be able to see him again; that is why I am tarrying.
 
 ** MAID**—Ah, so that was why you left your ornaments at his place.
@@ -2768,9 +2504,6 @@ Lady, now you can go on the royal highway. Friend, follow the lady.
 
 ** COURTESAN**—My dear, just this.  
 
-
-
-
 ** MAID**—Very well, my lady. Sir, my mistress desires to make your movements on the royal road free of any embarrassments. What is to be done, and to whom?
 
 ** SHAMPOOER**—Listen, lady.
@@ -2796,8 +2529,6 @@ Lady, now you can go on the royal highway. Friend, follow the lady.
 ** SHAMPOOER**—A fine figure of a man, self-possessed, free from conceit, of a gracious presence, but not vain of his graces; clever and sweet, able and (yet) polite, esteemed, not flaunting his virtues, and contented. He gives, but boasts not of it; remembers even the smallestof good turns, and forgets even the greatest of wrongs. My lady, what need to say more? Even a long full day of summer will scarcely suffice to recount a quarter of the virtues of this noble youth. What more, he regards his own person as if it were for the use of others.
 
 ** COURTESAN**—(*Aside*) my good girl, who could this be that emulates the virtues of the noble Cārudatta?
-
-
 
 ** MAID**—I too am curious to know. Who could this be that adorns our city of Ujjayinī with his virtues ?
 
@@ -2828,8 +2559,6 @@ Lady, now you can go on the royal highway. Friend, follow the lady.
 ** COURTESAN**—Well then?
 
 ** SHAMPOOER**—So to-day as I happened by chance to come to this courtesan's quarter, I was found; and through fear of him I entered this house. So now your ladyship knows everything.
-
-
 
 ** COURTESAN**—(*Aside*) Oh pity! So I think do the birds wander about on the destruction of the sheltering tree.)(*Aloud*) Under these circumstances, you are one of us. My girl, come, send away that person.
 
@@ -2867,9 +2596,6 @@ Lady, now you can go on the royal highway. Friend, follow the lady.
 
 ** COURTESAN**—Small men are easily elated. What makes you feel so conceited ?  
 
-
-
-
 ** ATTENDANT**—Mistress, listen :
 
 As the auspicious elephant, Bhadrakapotaka, was returning at great speed from a bath, making the royal road fragrant with dripping ichor, he caught hold of an ascetic who was conspicuous by the red colour of his upper garment among a crowd of innumerable men in the street.
@@ -2895,8 +2621,6 @@ As the auspicious elephant, Bhadrakapotaka, was returning at great speed from a 
 ** MAID**—Good man, do you know his name?
 
 ** ATTENDANT**—No, I don't know.
-
-
 
 ** COURTESAN**—That was very thoughtless ofyou.
 
@@ -2927,8 +2651,6 @@ Like a friend, it follows the lover's heart; it is a discourse of flawless melod
 ** HERO—**Friend, the singing to-day was mostly sweet owing to a variety of emotional effects; and yet you did not enjoy it!
 
 ** VIDŪṢAKA**—That is exactly why I did not enjoy it. Even a sweet dish eaten in large quantities causes indigestion.
-
-
 
 ** HERO**—The singing was in every way clear. For,
 
@@ -2961,9 +2683,6 @@ Having made room for darkness, the moon of the eighth day sets as, when a wild e
 ** VIDŪṢAKA**—Vardhamānaka, wash mine feet, too.
 
 ** SERVANT**—When the feet are well washed, you will be rolling on the ground. Waste water? Or rather bring (your  
-
-
-
 
 feet) I will wash (them). *(Gesticulates the washing of Vidūṣaka's feet.)*
 
@@ -3009,9 +2728,6 @@ Maitreya, let us sleep.
 
 **VIDŪṢAKA**—I have to roll on the ground like an ass of burden.  
 
-
-
-
 ** HERO**—I am troubled by sleep. Keep quiet.
 
 ** VIDŪṢAKA**—Sleep well to rise a happy man. I, too, will sleep.
@@ -3033,8 +2749,6 @@ I feel no compunction in my mind if I come across the house of a merchant who is
 
 Let whatever happen! What will not the Love-God drive us to! Let me set to work. Oh! Which is the spot that has become loose by running water and can be broken through without a sound? Where can a gaping hole be cut into the wall which with ease can give a view of the interior? Where has the house become dilapidated, worn out with saltpetre and thinned by falling bricks? Where is it that I may not encounter women and (yet) gain my purpose? (8)
 
-
-
 (*Stepping round*) Here is (revealed) the lay-out of the site. The presence of moisture shows this portion of the mansion to be the best (suited for my purpose) in the house. So here will I make a breach for entrance. Ha, but what kind of breach should I make now?
 
 Lion-stride or full moon? Mouth of fish or crescent-moon? Tiger-jaw or triangle? Shall the breach look like a seat or like an elephant's mouth? How can the votaries of my art be taken by surprise? (9)
@@ -3055,8 +2769,6 @@ When to-night I shall have breached the walls of this (house), leaving them even
 
 Bow to Kharapata. Bow to the Gods that go by night. (*Does as decided on*.) Well, well, I have finished my work. Let me now enter. (*Entering*) Ah, there is a lamp burning. I must move away. Tut! I am Sajjalaka; A cat to leap, a wolf to sneak away, a hawk to descry a house, sleep to gauge the strength of the slumbering, a snake to glide. Illusion itself in changing either form
 
-
-
 or hue, goddess of speech to understand the dialects of the land, a light by night, darkness in dangers, the wind on land and a boat on water. (11)
 
 (*Looking around*) Being a stranger, I have no knowledge of the extent of (this man's) affluence; but I have entered relying on the appearance of the house. But I find no special piece of furniture. Is he a poor man after all? Or does he keep what is worth seeing concealed and hence out of use? But, the mansion is nobly built. He must be a man who has dissipated his fortune on pleasure.
@@ -3072,8 +2784,6 @@ Well, let me see. Or rather I should not trouble a gentleman who is in the same 
 His breathing is free from fear, even, and comes at equal intervals; the body lies stretched out at the joints, extended beyond the measure of the bed. His eyes are firmly closed, the space between the eyelashes not quivering. Had he been feigning sleep, he would not have borne the lamp in his face. (13)
 
 Now, where is it? Ah, it is revealed in the light of the lamp in a portion of the tattered mantle. He holds it firmly. This is a proper moment. Here I have some moths. I will release one to extinguish the lamp. (*Releases one from a bee-box)* Ha, he falls down after extinguishing the lamp.
-
-
 
 ** VIDŪṢAKA**—Alas! the lamp is out! I am robbed. Ho, Cārudatta, take this golden casket. I cannot sleep for fright any more than a trader who has lost the right road. I conjure thee, by my Brahminhood, if thou dost not take it.
 
@@ -3114,8 +2824,6 @@ A curse on poverty and on youth that knowsno remorse, for I blame this wicked ac
  Ho, Cārudatta, I have got some glad news for you.
 
 ** HERO**—(*Waking*) What, glad news for me? Is Vasantasenā come?
-
-
 
 ** VIDŪṢAKA**—Not Vasantasenā, but Vasantasena is come.
 
@@ -3161,9 +2869,6 @@ Who will believe the truth? Everyone will suspect me. For in all crimes impotent
 
 ** MAID**—Yes.  
 
-
-
-
 ** LADY**—How is that person to be recompensed ?Well Iwill give this. (*Touching her ears*) Alas! This is only a palm leaf. How habit deceives me ! What may I do now? (*Reflecting*) Well, I have it. I have received from my family a necklace worth a lakh. But would my lord accept it, out of pride? Well, this is what I will do. (*exit*)
 
 ** VIDŪṢAKA**—With bent head I beg your pardon for this fault which was caused by darkness. Now you may put it into my hands.
@@ -3192,9 +2897,6 @@ You have all these days known my character, and yet you do not believe me? How m
 ** VIDŪṢAKA**—But to-day is the eighth day.
 
 ** LADY**—It was through mistake that it was not performed. So to-day I offer worship.  
-
-
-
 
 ** VIDŪṢAKA**—The present is so out of proportion (to the occasion) that it seems to be made out of compassion. (*Aside*) What should I do, Radanikā ?
 
@@ -3230,9 +2932,6 @@ So powerless I am through loss of wealth, that a woman pities me with her wealth
 
 My desire having indulged fully in my wealth now unworthily seeks woman's wealth, hanging between  
 
-
-
-
 my pride and my duty. O fie, what good is a (noble) family if a man is poor? (18)
 
 ** VIDŪṢAKA**—Oh that a necklace worth a lakh is to be given to recompense a golden casket worth but a trifle !
@@ -3266,9 +2965,6 @@ End of the Third Act.**
 
 ** COURTESAN**—Well, my good girl, you are welcome.  
 
-
-
-
 ** MAID**—Mistress, mother bids :— “Here stands the lotus carriage brought into the gateway and turned round; so be quick with your ornaments and come along.” Here are the ornaments—please to put them on, mistress.
 
 ** COURTESAN**—What, does the noble Cārudatta honour me with those ornaments ?
@@ -3293,8 +2989,6 @@ End of the Third Act.**
 Fortunately the day dawned after I had finished my work. Now I have done this just to redeem Madanikā—Vasantasenā's servant-maid. (*Stepping round*) This isVasantasenā's house.So I will enter. (*Entering*)Is Madanikā in the inner part of the house? But, courtesans are in the inner part during the early part of the day. So she must be just there. So I will call her. Madanikā! Madanikā!
 
 ** MAID—**(Listening) That sounds like Sajjalaka's voice. Mistress is engaged. So I will advance (to him). (*Advancing*) Here I am.
-
-
 
 ** SAJJALAKA**—Come here, please.
 
@@ -3334,9 +3028,6 @@ Fortunately the day dawned after I had finished my work. Now I have done this ju
 
 ** BOTH**—Oh, this rash fellow !  
 
-
-
-
 ** MAID**—(*To herself*) His form has become detestable to my mistress on account of this violent deed. (*Aloud*) Alas, for my sake you I have compromised both your person and character.
 
 ** SAJJALAKA**—Idiot, fortune dwells with daring.
@@ -3366,9 +3057,6 @@ Fortunately the day dawned after I had finished my work. Now I have done this ju
 My heart being bound for love of you, I commit this crime— though sprung in a family of ancestors who lived content. How I preserve my passion-smitten frame—and you call me a friend and yet go to another ! (4)
 
 ** MAID**—Sajjalaka, listen. These ornaments belong to my mistress. (*Whispers in his ear*). It is thus.  
-
-
-
 
 ** SAJJALAKA**—So, tortured by summer-heat and seeking shade, I have sought the self-same branch whose leaves erstwhile I stripped in ignorance. (5)
 
@@ -3403,9 +3091,6 @@ My heart being bound for love of you, I commit this crime— though sprung in a 
 ** MAID**—Come, Sajjalaka, wait for me in the Love-God's temple. I shall speak to my mistress at the proper moment.
 
 ** SAJJALAKA**—Very well. (*Exit*.)  
-
-
-
 
 ***(Then enter another maid.)***
 
@@ -3445,9 +3130,6 @@ My heart being bound for love of you, I commit this crime— though sprung in a 
 
 **  VIDŪṢAKA**—Here it is, take it, lady.  
 
-
-
-
 ** COURTESAN** (*Taking it*)—Tell him, sir, that I have accepted it.
 
 ** VIDŪṢAKA**. (*To himself*)—Well, she did not trouble to say a few formal words. (*Aloud*) Very well. (*Gives and exit*.)
@@ -3470,8 +3152,6 @@ Very well. (*Exit*)
 
 ** COURTESAN**—Oh, what a lovely day!
 
-
-
 ***(Then enter Madanikā with Sajjalaka.)***
 
 ** SAJJALAKA**—How painful is an uneasy conscienc!
@@ -3493,9 +3173,6 @@ If some one, walking briskly by, marks me,or if he quickly advances to me in con
 ** COURTESAN**—Well, sir, give it to Cārudatta.
 
 ** SAJJALAKA**—Lady, surely I shall not go (*to him*).  
-
-
-
 
 ** COURTESAN**—I believe, you have brought this jewellery by committing theft at his house. You should have some consideration for his virtues, sir.
 
@@ -3537,14 +3214,9 @@ A man seeking to requite another, gains his wish (*only*) through (*the latter's
 
 (Exeunt)
 
-
-
 ***End of Act IV.***
 
 ***![](../books_images/U-IMG-1709083336रेखासमान.png)***  
-
-
-
 
 **CĀRUDATTAM**  
 
@@ -3558,8 +3230,6 @@ A man seeking to requite another, gains his wish (*only*) through (*the latter's
 
  I⁵. **संविधा**—preparation of food—rather an unusual sense—**भोज्यसंविधानम्.**  
  I⁶. **लोही= लौही** stands for the simple **लोहकटाह** of the**मृच्छ०. णेउब्भामण० = स्नेहोद्भावन०**. As a matter of fact the proper equivalent is **स्नेहोद्भ्रामण (स्नेह + उद्भ्रामण)**; the expression is obscure; possibly it means “The smell of grease when stirred and shaken.”**वडिवस्सअजणो-वरिवस्यकजनः—व्रतानुष्ठापको धार्मिकजनः** **Cf. वरिवस्या तु शुश्रूषा परिचर्याप्युपासना । अमर०** II. 1422. Woolner takes the word in the sense of ‘Attendants’. It is, however, suggested that the reading should be **पडिवेस्सअजणो—प्रतिवेश्यजनः** i.e. neighbours: the characters **प** and**व**areso alike in Malayalam, that they are likely to be interchanged.
-
-
 
  P. 2. I²². एवं सोभणाणि... दत्तिआ होहि.—Observe the construction : we expect शोभनानां भोजनानां दात्री—genitive instead of the accusative ; दत्तिआ again—paraphrased as दात्री—is obscure.
 
@@ -3579,8 +3249,6 @@ A man seeking to requite another, gains his wish (*only*) through (*the latter's
 
 को णु दाणि अय्याए उववासस्स उवदेसिओ—the next sentence by नटीin answer to this question runs thus :—इमिणा वडिवस्सएण चुण्णगोट्ठेण।—This is rather queer, for we expect अअं वडिवस्सओ चुण्णगोठ्ठी. There is thus an anacoluthon. Further वडिवस्सएण according to the ms. marked ख is पडिवेस्सएण which would give प्रतिवेश्येन—by a neighbour.
 
-
-
  I⁶⁹. आमन्तणस्स मा दरिद्दं त्ति मं अवमण्णेहि । The construction is obscure. आमन्त्रणस्य is explained as सम्बन्धे षष्ठी—आमन्त्रणविषये मां दरिद्र इति मावमन्यस्व । The sentence is not to be found in मृच्छ०.
 
  P. 4. I. 1. धिदगुलदहि etc. The verse is not to be found in मृच्छकटिक. धूविअसूवोवदंससम्भिण्णं—mixed with hot (धूपित) curry (सूप) and spice (उपदंश ) or धूपित may be taken to mean हिङ्ग्वादिवासितेन—mixed with scented curry and spice. सक्कारदत्तमिठ्ठं—This is wrongly paraphrased as सत्कारदत्तमृष्टम् in Gaṇapati Śāstri's text. मिठ्ठं is मिष्टं, मधुरम्।
@@ -3592,8 +3260,6 @@ A man seeking to requite another, gains his wish (*only*) through (*the latter's
  I. 1¹⁴. चच्चरवुसहो...रोमन्थाअमाणो — a common enough image of a glutton. Cf. मालविकाग्निमित्र—विपणिगतः इव वृषभःआर्यगौतमः । IV. 15⁴⁰.
 
  I. 1¹⁸. अण्णं च अच्छरिअं ।...ण खु... सन्तुट्ठो। This portion is not found in the मृच्छकटिक.
-
-
 
  I. 1²¹**.**
 
@@ -3613,8 +3279,6 @@ A man seeking to requite another, gains his wish (*only*) through (*the latter's
 
 Is it likely that व्यसनं सोच्छ्वासं मरणम् was to be found in the version of the मृच्छकटिक extant in the days of वामन ?
 
-
-
 I. 2. यासां बलिः—The stanza is cited by वामन**.**
 
 Thequestion is “Didवामन know चारुदत्त and cite from it?” Morgenstierne is at great pains to prove that the stanza in question is a quotation from theचारुदत्तand not from the मृच्छकटिक; but it is not likely that वामन who cites the sentence द्यूतं हि नाम etc**.**
@@ -3630,8 +3294,6 @@ Of all the variants for the stanza this is certainly the most important and poin
  I. 4. The verse is not found in the मृच्छº. As for verse 6 दारिद्र्यात्... बान्धवजनो वाक्ये न सन्तिष्ठते — the मृच्छकटिक gives the verse later on and with quite an appropriate context; for when मैत्रेय is requested to go and offer worship to the mothers ( गच्छ, मातृभ्यो बलिमुपहर) he declines the request, and hence Cārudatta makes the remark – बान्धवजनो वाक्ये न संतिष्ठते।**.**
 
  I. 5. यत्सौहृदानि सुजने शिथिलीभवन्ति—Woolner translates : “My friends become indifferent to a man that is merely good.” In मृच्छकटिक we have यत् सौहृदाद् अपि जनाः शिथिलीभवन्ति। and this is obviously the meaning intended :. “That the ties of friendship with the good relax.”
-
-
 
   P. 8**.**
 
@@ -3655,8 +3317,6 @@ from one step to the next she covers a distance of hundred steps. Woolner's tran
 
  I. 12. किं वाशुजेवे etc. this is to be connected with परित्रायतेof the previous sentence. Woolner wrongly translates “Like Vishnu am I, the lord of the corpse bazaar, or Janamejaya, Kunti's son.” शीदमिवाहुलामि—सीतामिव आहरामि; but आहुलामि appears to be irregular — it should be आहलामि।
 
-
-
  I. 12¹. भयानभिज्ञहृदयं मां कुरु—the text is corrupt. Gaṇapati Śastri reads भयानभि (ज्ञ ? ज्ञं) हृद ( यं ? ये ) मां कुरु—and suggests that the proper reading is भयानभिज्ञं हृदये मां कुरु । However the reading given in the text is nearer the one found in the Mss. and gives a clear sense.
 
  I. 13. and 14. Both these verses are not to be met with in the मृच्छकटिक. बहुलतिमिरकालाः विघट्टाः—Side-alleys, side-streets (विघट्टाः = विमार्गाः) dark (कालाः) with the darkness of the dark-nights (बहुल = कृष्णपक्ष) or with intense gloom.
@@ -3673,8 +3333,6 @@ from one step to the next she covers a distance of hundred steps. Woolner's tran
 
  I.17¹.एसो मे अभिणिवेसो etc.—This is rendered by Woolner as “The nobility appreciate my devotion”—that, however, is not the correct interpretation. तुलीअदि = तोल्यते should be taken to mean “is made light of ” as in हा अवस्थे तुलयसि—( मृच्छकटिक I.) or as in मेघदूत — अन्तःसारं घन तुलयितुं नानिलः शक्ष्यति त्वाम् ( उ. मे ) I where there is pun on तुलयति ।. What Vasantasenā means is this “He is making light of my resolve viz. कुलपुत्रशीलपरितोषोपजीविनी — ‘to live by the virtuous entertainment of the scions of nobility’ on account of my birth and family (अभिजन ). He thinks that as I am a courtezan by birth I am incapable of leading a life of virtue.” It may also be interpreted to mean “to test, examine” ,as we have done in the translation.
 
-
-
  P. 13. I. 17⁵. णअणमत्तशत्थुलं– नयनमात्रसंस्थुलम् — Woolner : “Firm only in her eyes.” But the meaning seems to be “ नयनमात्ररम्यं ” as Gaṇapatiśāstri has it; a fling at Cārudatta's poverty.
 
  णाए णठ्ठा—णाए नार्या = न आर्या अनार्या इत्यर्थः । Here it is usedas nom. singular.
@@ -3685,8 +3343,6 @@ from one step to the next she covers a distance of hundred steps. Woolner's tran
 सुलभशरणंetc., is not at all to be met with. Mark रक्षते in the second line of this stanza, where the *Atm*. form comes in place of the regular *Parsm*. form रक्षति।
 
  P. 14. I. 21¹. भित्तिपरिणामºin the मृच्छ० we have भित्तिपरामरिस० which is simpler. ºपरिणाम० is explained as भित्त्यन्यथाभाव—the change in the wall i.e., the break in the continuity of the wall. Woolner's translation runs thus : “Oh, the side-door seems to be by the end of the wall; the gloom of disappointment makes the darkness thicker.” What reading is adopted in this? असम्भोगमलिनतया is explained thus :—असम्भोगेन अनुपभोगेन या मलिनता सुधालेपादिसंभ्कारविरहप्रयुक्ता तया।—गणपतिशास्त्री।
-
-
 
  I. 21³. मैत्रेय गच्छ etc. This occurs earlier in the मृच्छ० before the episode of Vasantasenā's pursuit by Śakāra; we have already remarked on the abrupt and unnatural shifting of scenes in the Cārudatta.
 
@@ -3708,8 +3364,6 @@ from one step to the next she covers a distance of hundred steps. Woolner's tran
 
  P. 19¹ I. 26³⁷.प्रवेश्यतां अभ्यन्तरचतुःशालम् – Here is a significant passage. In the मृच्छ० we learn that the child रोहसेन had come out to enjoy the evening breeze and was sleeping
 
-
-
 in the open. So Cārudatta asks the maid to take the mantle and wrapping up रोहसेन with it, take him inside the house ( प्रवेश्यतां अभ्यंतरं अयं i.e. रोहसेनः ). But the Cārudatta does not refer toरोहसेन at all; and hence we have the awkward मारुताभिलाषी प्रदोषसमयः—in place of मारुतातिलापी प्रदोषसमयशीतार्तः रोहसेनः। — while the causal form प्रवेश्यतां is inadvertently retained. Gaṇapati Śāstri supplies अयं प्रावारकः as object of प्रवेश्यताम्. णअणमत्तसंत्थुदा = नयनमात्रसंस्तुताः—Woolner: “ Whom your eyes have extolled ever since etc.” संस्तुता however means “*acquainted*,” as in “धावति पश्चादसंस्तुतं चेतः” शाकुन्तल I. सट्ठीए सत्तमीए अ धारेहि—अहं अट्ठमीए etc. this तिथि scheme is not to be met with in the मृच्छ०.
 
  P. 21. I. 28¹¹. किं अनुतिष्ठति स्नेहः – Woolner :–“What place is there for affection ? " It, however, means “What does love (command me to ) do?”
@@ -3728,8 +3382,6 @@ in the open. So Cārudatta asks the maid to take the mantle and wrapping up र�
 
 अणलंकिदं पि etc. Woolner : – “I see my mistress has made her toilet without her jewellery.” He has altogether missed the point. What she means is “I see my mistress to be adorned, though she is without her jewellery”; for it is love that makes her look so lovely. अणवगीदो ऊसुवो— according to Woolner “The Lord of Love is the unsung festival of the young.” “अणवगाद – अनवगीत however means
 
-
-
 “Unexceptional or blameless”. उक्कण्ठिव्वे का etc. Woolner :— “Silly girl, what can you feel for my beloved ?” But as गणपतिशास्त्री explains “उत्कण्ठितव्ये प्राप्तव्ये इष्टवस्तुनि अप्राप्ते ते का रतिः – सन्तोषः— प्राप्ते हि तस्मिन् स युक्तः इत्यभिप्रायः।
 
 II²². बहुमाणो विअ – बहुमानः is to be regarded as a बहुव्रीहि compound—बहुः मानः यस्य यः—“as lovely as he is respectable.” अत्थि अदिबहुमदो etc. What she means is “Love requires and cherishes perfect confidence (विस्रम्भः). This is not possible in a learned Brahmin who would always make one conscious of a sense of distance owing to his learning. Hence one can only reverence him but not love him.” Woolner, however, renders it thus—“Do the highly respected ever relax their self-control?"
@@ -3739,8 +3391,6 @@ II²². बहुमाणो विअ – बहुमानः is to be regar
  P. 25. II⁵². दे महुअरा त्ति पुच्छीअन्ति । – पुच्छीअन्ति = पृच्छन्ते—पर्यनुयुज्यन्ते उपालभ्यन्त इति यावत् । Woolner renders“ That is why they are called bees.” मृच्छ० reads वुच्चन्ति– उच्यन्ते ।which makes a clear meaning. Moreover the point here seems to be lost by the author of the Cārudatta. The bees are called or blamed as मधुकर pleasure-seekers because they leave a mango past its blossoming. Put the author understands that they are so called because they cling to it even when it is past its blossoming.
 
  II⁶⁷. अपटाक्षेपेण— This should really be अपटीक्षेपेण which is the usual and proper word. अपटाक्षेपis obvicusly a misprint in the original. संवाहक does not speak मागधी as in the मृच्छकटिक . Moreover we do not get the gamblers’ scene—the lively intermezzo of संवाहक, माथुर, दर्दुरक and द्यूतकर which makes the मृच्छº such a pleasing and boisterous comedy.
-
-
 
  II⁷⁰. चेटी—हं को दाणि एसो । etc. The मृच्छकटिक does not at all contain this conversation between वसन्तसेना and चेटी. It is not clear what वसन्तसेना means by गुणवन्तो रक्खिदव्वो होदि । What is meant by गुणवन्तो ? “A man of virtue?” or “A man possessed of some specific quality—say the art of the shampoor?” In either case, how does Vasantasenā know that this stranger was गुणवान् ?
 
@@ -3755,8 +3405,6 @@ II²². बहुमाणो विअ – बहुमानः is to be regar
  II. 1⁴². एअस्सिं दुल्लहो गुणविभव त्ति-Woolner renders :— “It is difficult to find wealth and merit together.” He takes गुणविभवः as गुणाः च विभवः च—a द्वंद्व compound ; but that is hardly possible grammatically speaking. The मृच्छº दुल्लहा गुणाविहवा अ।which makes the meaning quite clear. But as it is गुणविभव can only mean “wealth of merit”, “all But as it is merits”.
 
  P. 30. II¹⁸². गच्छदु...सुहिज्जगदंसणेण पीदिं णिव्वत्तेदुं।Wrongly translated by Woolner as :—“May you go, and give us the pleasure of seeing you again.”
-
-
 
 **ActIII**
 
@@ -3774,8 +3422,6 @@ II²². बहुमाणो विअ – बहुमानः is to be regar
 
  In this act the moon is spoken of as setting sometime after mid-night on the eighth day—showing, thereby, that it is the eighth day of the bright half of the month; so that we have to allow the lapse of a fortnight or so between the
 
-
-
 first and third act. But from the arrangement between the चेटी and the विदूषक regarding the days on which each was to keep the ornaments, it would appear that only three days must have elapsed between the first and third act. For the चेटी says इअं सुवण्णभण्डं सट्ठीए सत्तमीए परिवट्टामि । अट्ठमी खु अज्ज ।. By introducing the तिथिscheme, therefore, the author of the Cārudatta has involved himself into an inconsistency regarding time-sequence.
 
  P. 35. III. 3²¹. मुह वि धादे—धादेshould be changed into धोदं । परिवेट्ठामि—परिवर्तयामि, निवर्तयामि। Hand over.
@@ -3791,8 +3437,6 @@ first and third act. But from the arrangement between the चेटी and the �
  P. 38. III. 8¹. सोपस्नेहतया etc., the passage is somewhat obscure, We understand अयं भवनविन्यासः as “this portion of the house” and गृहविशिष्टः = गृहे विशिष्टः—“ peculiar i.e. best suited for my purpose, owing to moisture (सोपस्नेहतया )” The expressionसोपस्नेहतया occurs also in प्रतिमा III 2¹ and अभिषेक I. 6¹.
 
  P. 38. III. 9². भो जगत्ति खु भवं—etc. This conversation between the विदूषक and नायक shows that they are both awake. In the मृच्छº, however, the विदूषक is represented as talking in his sleep (उत्स्वप्नायते) at this stage and it is not चारुदत्त who is his interlocutor but शर्विलक who cleverly poses for चारुदत्त.
-
-
 
 कत्तव्वकरत्थीकिदसङ्केदो विअ सक्किअसमणओ— This is not to be met with in मृच्छ०.
 
@@ -3811,8 +3455,6 @@ first and third act. But from the arrangement between the चेटी and the �
  P. 41. III. 14³³. ण खु वसन्तसेणा, वसन्तसेणो पत्तो—This play on the word is to be met with in the V act of the मृच्छ० where the wit arising from it is put in a very elaborate charade. वसन्तसेणो is capable of being interpreted as वसन्तश्येनः— the thief being compared to a swooping hawk.
 
  P. 43. III. 15²⁰. तं पि... सोढीरदाए पडिच्छदि। — This is to be understood as an interrogative sentence. “And would myhusband accept it in his pride ?” सोढीरदाए = शाटीरतया अभिमानेन. मृच्छकटिक gives अदिसोण्डीरदाए.
-
-
 
  III. 15²⁷. पडिच्छदु – This is paraphrased as प्रयच्छतु which can hardly be, since पडिच्छदु — would be प्रतीच्छतु. It seems necessary, therefore, to amend पडिच्छदु into पअच्छदु – प्रयच्छतु
 
@@ -3836,8 +3478,6 @@ first and third act. But from the arrangement between the चेटी and the �
 
  IV.²⁵ पोक्खरं—पौष्करं— shaped like a lotus.
 
-
-
 ** अथवा पूर्वाह्णे**etc. This observation on the life and habits of courtesans is original with our author. It is not to be met with in the **मृच्छ०**.
 
  P. 48. IV. I⁴. **तक्केमि... क्वएण मं याचेदि।—**This is rather ambiguous. I have translated it thus :—“This is some one who demands her of me by purchase.” But in this I have taken **मां** as indirect object, and ‘her’ as direct object although it is not there. Is it likely that she is thinking of some one who is negotiating with her maid for the purchase of her own person ? What a plain and vulgar idea that would be, although our author seems to be capable of such impropriety ! In the **मृच्छ०** we have :—एसो सो जणो एदं इच्छदि अभुजिस्सं कादुं । **( एषस जनः एनां इच्छति अभुजिष्यां कर्तुम् ।).**
@@ -3851,8 +3491,6 @@ P. 54. IV. 5⁵³**. सव्वं आणेदु वज्जिअ भो�
 
  IV. 55.**तत्तहोदो चारुदत्तस्य**—It should be remembered that in the previous act where the **विदूषक** is asked by **चारुदत्त** 
 
-
-
 to go to **वसन्तसेना** with the pearl-necklace no such message is given to him. In the मृच्छº, however, he is charged with the message in the III act and he delivers it when he sees her in act IV.
 
  **P. 57. IV. 6²⁶. मा खु, मा खु... अय्या खु सि दाणिं** etc. Woolner curiously enough translates this thus—“Restraining him with warning words you have now become his lawful wife”. It appears that he adopts some such reading as **मा खु मा खु । एणं यन्तिअ अय्या खु सि** etc. I. But he has not indicated this emendation anywhere, nor does there appear any warrant for such a change.
@@ -3862,9 +3500,6 @@ to go to **वसन्तसेना** with the pearl-necklace no such message
  **IV. 7⁷. अमुदंकणाडअं–अमृताङ्कनाटकम्** – We have in **पद्मप्राभृतकं**, a **भाण** attributed to **शूद्रक**, a similar remark **साधु भोः अमृतङ्को ( अमृताङ्क ? ) नाटकाङ्कः संवृत्तः** ।; to my mind the whole conversation here seems to give finality to the play and that the remark in the colophon **अवसितं चारुदत्तम्** is well justified. The author did intend to abridge the first four acts only, and make out of them a pleasing comedy—the meeting of the hero and heroine being the **कार्य** of the play which is here suggested. There is no **भरतवाक्य** at the end.
 
 ![](../books_images/U-IMG-1709036322रेखाडिजा.png)
-
-
-
 
 \]
 

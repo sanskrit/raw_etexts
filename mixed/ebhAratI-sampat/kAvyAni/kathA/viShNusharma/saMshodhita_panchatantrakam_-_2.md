@@ -15,23 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
-
-
 
 **प्रस्तावना**
 
@@ -52,8 +36,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjY
 **    प्रकाशकः**
 
 **——————————**
-
-
 
 **द्वितीयभागस्य**
 
@@ -83,8 +65,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjY
 | ३   | कुम्भकारो राजपुत्राश्च           |
 | ४   | सिंहशाबकौ शृगालशावश्च            |
 
-
-
 |     |                                 |
 |-----|---------------------------------|
 | ५   | रजकः शुद्धपटः                   |
@@ -108,8 +88,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjY
 |    | काकोलूकीयम्                     |
 |    | लब्धप्रणाशम्                    |
 |    | अपरीक्षितकारकम्                 |
-
-
 
 |              |              |
 |--------------|--------------|
@@ -137,8 +115,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjY
 | समुतविश्य    | समुपबिश्य    |
 | तद्गहाद्बारं | तदगुहाद्बारं |
 
-
-
 |              |                |
 |--------------|----------------|
 | तद्गहाद्वारं | तद्गु हाद्वारं |
@@ -155,8 +131,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjY
 | कामी         | कासी           |
 | निष्ठरतां    | निष्ठुरतां     |
 | बटप्ररौह     | वटप्ररोह       |
-
-
 
 ** ** **पञ्चतन्त्रकम्**
 
@@ -1696,7 +1670,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjY
 
  ब्राह्मण आह—'कथमतेत्।' सा प्राह—  
 
-
 **कथा २**
 
  कस्मिंश्चिदधिष्ठाने चत्वारो ब्राह्मणपुत्राः परस्परं मित्रतां गता वसन्ति स्म। ते चापि दारिद्र्योपहताः परस्परं मन्त्रं चक्रुः—'अहो धिगियं दरिद्रता। उक्तं च—
@@ -2085,14 +2058,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjY
 
  एवमुक्त्वासौ ब्राह्मणो यथाभिप्रेतं गतः। अतोऽहं ब्रवीमि—'अपि कापुरुषो मार्गे' इति। एवं श्रुत्वा सुवर्णसिद्धिस्तमनुज्ञाप्य स्वगृहंप्रतिनिवृत्तः॥
 
-
 **इति श्रीविष्णुशर्मविरचते पञ्चतंत्रकेऽपरीक्षितकारकं नाम पञ्चमं तन्त्रं समाप्तम्।  
 समाप्तमिदं पञ्चतन्त्रकम्।  
 शुभं भूयात्।**
 
 **![](../books_images/U-IMG-1721443514Screenshot2024-07-20081201.png)**
-
-
 
 **टिप्पणी**
 
@@ -2191,16 +2161,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjY
 २३. बीभत्सं जुगुप्साकरम्। अनायतिक्षमं आयतौ उत्तरकाले क्षमः स मर्थो न भवति सः। शक्ति हीन इति यावत्। परिवादः निन्दा।
 
 २४. सौम्यानिलः सुखप्रदो वायुः। अग्निहोत्रपरिग्रहो विहितो यागादिविधि। पर्जन्योमेघः। गगनम्
-
-
-
-
-
-
-
-
-
-
-
 
 \]

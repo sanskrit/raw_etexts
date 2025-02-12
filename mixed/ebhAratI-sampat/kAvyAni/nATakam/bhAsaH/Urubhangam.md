@@ -16,24 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwNTgyNDk4MTI
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
-
 
 *Just Out.* **Diṅnāga's Kundamālā** *Just Out.*
 
@@ -49,8 +32,6 @@ ORIENTAL BOOKSELLERS,
 Said Mitha, LAHORE.
 
 **—————**
-
-
 
 **Preface**
 
@@ -68,8 +49,6 @@ Lahore. January, 37           Kailash Nath Bhatnager
 
 **——————**
 
-
-
 **Introduction**
 
  Bhāsa is a play-wright of the front rank. His name,till two decades or so back, was known to us through Kalidasa's prologue in the Malavikāgnimitra and a few stanzas quoted in various anthologies. It was in the year 1909-10 that M. M. Pt. Gaṇapati Śāstri discovered13 plays[^1]which were published in the Trivandrum Series.The learned editor of these 13 plays attributed them all to Bhasa. The appearance of these plays took the Sanskrit scholars by storm. Different theories were put forward by various scholars. Some objected to attribute these plays to the same author. Some did not believe them to be the works of Bhasa at all. Now, the position has cleared much. "Priority to Kālidāsa seems established, says Prof. Keith, "by evidence of use by that poet, and a greater antiquity in technique, style, diction.... Unity of authorship is proved by style. *(Hist. of Skt. Lit. Intro. pp. xii, xiii.)* Out of these 13 plays the first 7 deal with the stories from Mahābhārata, 8th and 9th from the Rāmāyaṇa, and the last four probably from Bṛhat-Kathā.
@@ -84,8 +63,6 @@ Lahore. January, 37           Kailash Nath Bhatnager
  Barnett's second point that Rājasiṃha mentioned in some of the epilogues of Bhāsa's plays is the name of a 7th century king is open to doubt. Three of the plays do not mention any name at all. Three others substitute Rāja and Narapati which simply mean a king. There is no positive proof to show that it means a particular king and does not simply mean a 'lion-king'.  
  Prof. Lesney thinks that the plays are older than Kālidāsa and younger than Aśvaghoṣa, because the *Prakrit* of the plays occupies an intermediate place between the *Prakrit* of Aśvaghoṣa and that of Kālidāsa. The chief peculiarities of the Trivandrum plays as far as their *Prakrit* is concerned are the following:-
 
-
-
  (1). Usual dropping of *k, g c, j, t d, p. b, v,* and *y* between vowels and their occasional retention.  
  (2). Occasional change of *y* into j but usual retention of it.  
  (3). Shortening of the vowel and doubling of the consonant in evam etc. Change of *ry* into *yy* in contrast with Kālidāsa's changing it into and so on.  
@@ -93,9 +70,6 @@ Lahore. January, 37           Kailash Nath Bhatnager
  Gaṇapati Śāstrī assigns these plays to the 4th century B. C. on the ground that the Arthaśāstra of Kautilya, a work of the 3rd century B. C., quotes a stanza from a play of Bhāsa which is therefore earlier than the Arthaśāstra. Moreover, in the Abhiṣeka Nātaka (Act V) Bhāsa makes Rāvaṇa speak of an Arthaśāstra by Bṛhaspati. Therefore, according to Gaṇapati Sāstrī, Bhasa does not seem to be aware of the existence of Cāṇakya's Arthaśāstra which he would have certainly referred to, had he  
 lived after Cāṇakya.The Mahābhārata tell us that Bṛhaspati was a writer on Arthaśāstra. Kautilya too acknowledges Bṛhaspati as his predecessor as a writer on Arthaśāstra. It follows, therefore, that Cāṇakya's Arthaśāstra was not in existence in Bhāsa's time. So it may be concluded that Bhāsa could not have been later than 370 B. C.  
  But these arguments are not conclusive unless otherwise supported. It may equally be said on the other hand that both Bhāsa and Kautilya may have borrowed the verse from a common source.. The mere fact that Rāvaṇa mentions the Arthaśāstra does not prove that Bhāsa is older than Kautilya but makes the speaker (*i. e.* Rāvaṇa) belong to a hoary antiquity when he lived. Rāvaṇa's reference to Kautilya's Arthaśāsra would have
-
-
-
 
 been an unwelcome anachronism. The date of Bhāsa is a much vexed question. We can, however, arrange the available date date in the 
 following manner :-  
@@ -117,8 +91,6 @@ following manner :-
 उद्घाट्य सा प्रविष्टा हृदयगृहं मे नृपतनूजा ॥**
 
  as quoted on p. 152 in the 3rd Uddyota of Dhvanya-loka-locana as being taken from Svapnavāsavadatta is not found in the present Svapnavāsavadatta. It is surmised, therefore, by tie antagonists of the Bhāsa Theory that Abhinavagupta refers to some other play of the
-
-
 
 name Svapnavāsavadatta, which has Vāsavadattā's marriage for its plot.  
  Rājaśekhara, a play-wright and poet of the 9th century A. D. speaks of the Svapnavāsavadatta in the verse which runs—
@@ -145,12 +117,8 @@ Bhāsa's date is therefore earlier than the 7th century A. D.
  Bhāmaha, the author of Kavyālaňkāra, criticises the plot of the Pratijñā-Yaugandharāyaṇa. According to Prof. Kane Bhāmaha lived in the 6th century A. D. Bhāsa is, therefore, earlier than the 6th century A.D.  
  Kalidāsa pays a compliment to Bhāsa in the Prologue of his Mālavikāgnimitra. The date of Kālidāsa is a much disputed question. One group connects Kālidāsa with Vikramādtya who expelled the Śakas from Ujjayinī in the 1st century B. C. Others put him in the 5th or 6th century A. D. Of late scholars seem to have put much reliance upon the existence of a Vikramādtya in the 1st
 
-
-
 century B. C. This is borne out by the Jain tradition which places Vikramādtya in the 470th year of the Vira era. The Saptaśatīof Hāla makes mention of a Vikramādtya (V. 87). V. A. Smith supposes Hala to have ascended the throne in 69 A. D. Thus we have a strong proof for believing that a Vikramādtya flourished about 57 B. C. C. V. Vaidya has proved that the date in the Takhata Bahai inscription refers to the Vikrama era. Moreover, if we identify, the Mālava era with the Vikrama era there is no difficulty in supposing that Vikramādtya really lived about 57 B. C. All the authorities agree on one thing, that Kālidāsa and Vikramādtya are connected. Up till now, scholars had disbelieved the existence of any Vikramādtya in the 57 B. C. So, a hunt has been made for some rulers who assumed the title of Vikramādtya. Now, "While it is possible, nay even probable, that there may have been a Vikramādtya who expelled the Sakas from Ujjayinīin the 1st century B. C.," (*Cambridge History of India Vol. I*) there should be no hesitation in assigning Kālidāsa also to the 1st century B. C. Thus, if Kālidāsa flourished in the beginning of the Christian era, Bhāsa, who is mentioned by him, must have lived some time before him. If we allow a century as the time for establishing his fame, Bhāsa may be said to have flourished in the 2nd century B. C. This forms the lower limit of his age.  
  Bhāsa has dramatised the story of Udayana who is said to have lived about 450 B. C.. This forms the upper limit of the age.
-
-
 
 **Original Source**
 
@@ -166,12 +134,8 @@ century B. C. This is borne out by the Jain tradition which places Vikramādtya 
  On this Duryodhana tells the Pāṇḍavas that he is prepared to fight with his mace as his weapon.  
  He says, "Let any one amongst you who thinks that he will be my match come forward and fight with me on foot, armed with mace. (Cp. 32. 29.) Hearing the boon granted by Yudhiṣṭhira to Duryodhana, Kṛṣṇa, takes the former to task for acting so recklessly. He says, "From compassion, O best of kings, thou hast acted with great rashness. " (Cp. 33. 5). But Bhīma volunteeres
 
-
-
 himself for the duel. He is optimistic. He says, "Without doubt, I shall slay Suyodhana in battle. It appears, O Kṛṣṇa, that the victory of Yudhiṣṭhira the just is certain." (Cp. 33. 17). He challenges Duryodhana, who comes armed with mace resembling the crested mount Kailāsa. Both the warriors indulge in hot words, before they fall upon each other. Balarāma, the elder brother of Krsna, appears on the scene. He was out for seeing the places of pilgrimage. Having come to know through. Nārada about this duel he hastened to Kuru-Kṣetra to witness the fight of his two disciples. ( Ch. 34 to 54 relate the story of pilgrimage of Balarāma.)  
  The fight is not actually begun as yet. Balarāma emphasises the sanctity of Samanta-Pañcaka, known "as the Northern (sacrificial) altar of Brahman, the Lord of all creatures." (Cp. 55. 8). At his suggestion all move to Samanta-Pañcaka. After empty brag, the duel begins. It is a well-contested duel. There is a good exchange of blows. At last, Duryodhana is able to break Bhima's coat of mail. Bhīma lies prostrate on the earth. After a moment, he stands up again to fight. Looking at this sort of duel, Kṛṣṇa says that if he were to fight fairly, Bhima will never succeed in winning victory. Let him, with deception, slay the Kuru King who is full of deception. (Cp.59. 48). Hearing these words of the high-souled Kaurava,Arjuna strikes his own left thigh when Bhīma sees towards him. It is a hint to remind him his vow to strike with mace the thigh of Duryodhana. Bhīma understands it. After several exchange of blows, Bhīma rushes at him, with a loud leonic roar and hurls his mace at the thighs of Duryodhana as he jumps up for baffling the first aim. That blow fractures the two thighs, and Duryodhana falls down on the earth. Bhima, now approaches him and says, "O, wretch, formerly laughing at Draupadī, wearing one cloth, in the midst of the assembly, thou hadst, O fool, addressed us "Cow, Cow.". .Bear now the fruit of that
-
-
 
 **Introduction**
 
@@ -185,8 +149,6 @@ himself for the duel. He is optimistic. He says, "Without doubt, I shall slay Su
 
  Kṛṣṇa now tells the Pandavas to disperse. He says, "There was no use in spending bitter breath upon one who was now equal to a piece of wood (to be burnt )." Duryodhana is breathing fire and fury. He holds Krsna responsible for this trickery. He says, "It was you who unfairly
 
-
-
 caused this act by reminding Bhīma with a hint about the breaking of my thighs. Do you think I did not mark it; when Arjuna (acting under your advice) hinted it to Bhīma." (Cp. 61. 27-28). Duryodhana addresses Kṛṣṇa) in this strain and Kṛṣṇa too rebukes him for his misdeeds.
 
  Duryodhana now congratulates himself for having enjoyed everything worthy to be enjoyed by the good and; he nicely remarks, "With all my well-wishers and my younger brothers, I am going to heaven. As regards yourselves, you with your purposes unachieved and torn by grief, live in this unhappy world."
@@ -197,23 +159,17 @@ caused this act by reminding Bhīma with a hint about the breaking of my thighs.
 
  The scene is laid in the Samanta-Pañcaka, where corpses of elephants, horses, kings and warrior are scattered in abundance. Three soldiers appear on the stage. They describe the wretched condition of the corpses that are dragged and eaten up by jackals and other animals. Hearing the fierce roarings. their attention is diverted to the scene of duel-fight of Duryodhana. and Bhīma.
 
-
-
 Vyāsa, Balarāma, Kṛṣṇa, Vidura and others were the spectators of this fight in which maces were used. Duryodhana strikes the broad chest of Bhīma with his terrible mace. Bhīma' smacks the shoulders of Duryodhana with his mace Citrangada. Bhīma has his body besmeared with: blood. Vyāsa stands astounded in a thoughtful mood. Yudhiṣṭhira feels disappointment. Vidura's eyes are dimmed with tears. Arjuna has taken up the Gāndīva bow. Kṛṣṇa is looking up at the sky. Balarāma, out of love for his pupil Duryodhana, is brandishing the plough. Bhīma struck hard by the mace lies prostrate on the ground. Duryodhana is saying by way of derision, "Oh Bhīma, no hero attacks him, prostrate in battle, therefore set aside all fears." Bhīma rises and the duel begins again. He smashes the thighs of Duryodhana on Kṛṣṇa's making the sign. Vyāsa rises to the sky. Balarāma is, in high blood. The Pāṇḍavas flurried with fear, escort Bhīma supported by Kṛṣṇa's hands. Balarāma follows Bhīma. Balarāma looks black as thunder. The soldiers go to see the king lying on the ground.
 
  In the next scene we see Baladeva entering the stage. He pours out the vials of his wrath. He thinks of cutting furrows, as it were, by flinging his plough on Bhīma's broad chest. Duryodhana crawls in and requests Balarāma to be pleased. He puts his head at his feet and says, "First of all set aside your anger today and let the Pāṇḍavas live as they will serve like clouds in offering libations of water to the manęs of the Kuru race. Our animosity and talk about war are over and we ourselves have perished." (St. 31).
 
  Balarāma tells him to wait a moment till he scarifies the Pāṇḍavas with his plough. But Duryodhana says that there will by no good from war now. Balarāma says that he is enraged an account of this trickery. On hearing this, Duryodhana feels himself amply paid by this trickery for his death. He takes it as a glorious death. ioces
 
-
-
 Here enter Dhṛtarāṣṭra, Gāndhārī, being led by Durjaya and followed by the inmates of the harem. They are, on pins and needles. All are bewailing for the wretched fate of Duryodhana. Duryodhana feels more depressed. seeing his queens weeping. Gāndhārī addresses Duryo-dhana to respond. Gandhari's bandage put on her eyesis wet with ceaselessly flowing tears. ( St. 40). Duryodhana tries to rise to approach his parents who were searching him but falls. He feels the loss of his thighs very much when he thinks that he will be unable to do obeisance to his elders. They search for Duryodhana. Durjaya feels tired. He is asked to sit on the lap of his father. But he does not find him. On seeing Durjaya coming and thinking how he will sit on his lap, Duryodhana feels much aggrieved. At last Durjaya finds him out. He wishes to sit on his lap but he evades it. Durjaya asks him the reasons. Duryodhana tells him that he is going to see his hundred brothers. Durjaya asks him to take him there. Duryodhana tells him to ask Bhīma for this. Durjaya calls his mothers and grand-pa etc. All feel afflicted on the pitiable plight of Duryodhana. Dhṛtarāṣṭra, broken-hearted, falls to the ground.
 
  Seeing this sad plight, Baladeva does not think it proper to inform them about his presence. Duryodhana begs one request. He tells her mother that he should have his mother like her in future birth. He consoles his queens Mālavīand Pauravī. He advises his son Durjaya to serve the Pāṇḍavas as he served him, to obey the orders of the revered mother Kunti, and to honour Abhimanyu's mother and Draupadīboth as her own mother.
 
  Balarāma praises this animosity changed into repentance. At this time a tumult is heard. Flocks of crows fly in a state of flury. Aśvatthāmā appears on the scene. He is enraged on hearing the miserable plight of Duryodhana. He brags and approaches the dying king. He assures him that he will get him back the fountain-head
-
-
 
 of honour. Duryodhana tells him to abandon his war-like resolve, but in vain. Aśvatthāmā says that he is firmly resolved. Balarāma says that it will happen as said by the preceptor's son.This makes all know the presence theBalarama. Dhṛtarāṣṭra feels consoled on the thought he trickery is witnessed. Aśvatthāmā enthrones Durjaya as the king by his priestly words alone.
 
@@ -234,23 +190,17 @@ of honour. Duryodhana tells him to abandon his war-like resolve, but in vain. A�
 
 **अम्बरग्रहणादीनि प्रत्यक्षाणि न निर्दिशेत्।**
 
-
-
 in the play, Bhāsa gives the whole responsibility of this act to Kṛṣṇa alone. Probably the reason seems to be that as he is supposed to be a high personage, his deed cannot be questioned.
 
  In the play we find mention of Dvaipāyaṇa (Vyāsa) and Vidura as spectators of the mace-duel. Bhāsa is trying to get the foul play of Bhīma approved of by Vyāsa and Vidura" as they do not say any thing to Bhīmafor his foul play. Vyāsa leaves the scene as soon as Duryodhana is fatally wounded. We do not hear anything about Vidura except that his eyes were his eyes were dimmed with tears's when he sees Bhīma drenched with blood on account of blood flowing from deep cuts on his head. (p. 50) In the Mbh. we know nothing about them. After the mace-duel we find in the play Dhṛtarāṣṭra and Gāndharībeing led by Durjaya and followed by the inmates of the harem. The Mbh. story shows Dhṛtarāṣṭra etc. in Hastināpur, not in the Samanta-Pañcaka field. Thus the story from the portion of the appearance of Dhṛtarāṣṭra (St. 37 to St. 53) shows the fruit of the fertile imagination of the dramatist. In this piece Bhāsa has found opportunity to depict love, fidelity of a lady, ignorance of death in the minds of young chaps like Durjaya, love of a son towards his parents etc. When Duryodhana is unable to seat Durjaya on his lap he eels afflicted. The scene makes the reader feel pity for Duryodhana. A touch of pathos is given there.
 
  In the epic story Duryodhana pours his vials of wrath on Kṛṣṇa for having resorted to trickery in the fight. Bhāsa here makes him quite changed in character. He makes him repent for his past misdeeds done to the Pandavas. When Balarāma is enraged on seeing Bhīma having played foul, he pacifies him. In the epic story it is Kṛṣṇa who pacifies Balarāma. Duryodhana places his head on the feet of Balarama and requests him to let the Pāṇḍavas live as they are the source of oblations to the Kuru manes. St. 31). Further he says, "And moreover,
 
-
-
 when all the hundred brothers are dead, what is the good of fight." (V. 33). When Balarāma tells him that his blood is boiling on account of the treachery of Bhīma, he rather feels happy thinking that he is not defeated in a righteous fight by Bhīma. This shows his great prowess.  
  The dramatist has introduced the parents and wives etc. of Duryodhana on the place of the mace-duel. When he is unable to rise for doing obeisance to his father and mother he falls down. He feels the loss of his thighs all the more. This raises his character in our eyes. His love and high esteem for his mother is evident from his desire to have Gāndhārī as his mother in future birth. (St. 50 ). He tells his wives not to bewail as he has met a heroic death befitting a Kṣatriya. He advises his son Durjaya to serve the Pāṇḍavas as he did him, to carry out the orders of the revered mother Kunti, and to honour Abhimanyu's mother and Draupadīas his mother. (p. 112). All this has ennobled the character of Duryodhana.  
  In the epic story we find Duryodhana highly pleased when Aśvatthāmāswears that he will destroy the Pāṇḍavas while sleeping. He asks for water and makes him his general. In this play Duryodhana dissuades him but of no avail. The character, however, of Duryodhana is elevated.  
  In the epic, Duryodhana dies after the night raid of Aśvatthāmā which resulted in the death of the five sons of Draupadi. Between his wounding and his death Duryodhana shows a fiercer spirit. In the play, however, Duryodhana expires before Aśvatthāmā went for the night raid. His fierce spirit also is changed. He ends his enmity with the Pāṇḍavas (V. 31). He advises his son to take shelter with the Pāṇḍavas.  
   In the original story Dhṛtarāṣṭra etc. are at Hastināpur and Kṛṣṇa was deputed by Yudhiṣṭhira to console Gāndharī. He feared that hearing of the slaughter of her sons and grandsons, she will without doubt, consume
-
-
 
 to the Pāndāvas' ashes." (Cp. 64. 12). As Dhṛtarāṣtra étc. appear here, there does not arise the question of deputing Krṣṇa to Hastināpur. Thus, it is evident that the innovations made by the play-wright have been happily conceived and bring him great credit for his fertile brain.
 
@@ -282,8 +232,6 @@ to the Pāndāvas' ashes." (Cp. 64. 12). As Dhṛtarāṣtra étc. appear here, 
 
  These great writers bear ample testimony to the halo of glory that surrounded Bhāsa: There must have been strong reasons that elicited such high remarks from the reputed writers. Our insight into the works of Bhāsa make
 
-
-
 us agree with the high opinions noted above. We find several good features in his works, e. g. naturalness of style, realism in description, simplicity in construction of the plot, vivid characterisation, etc.
 
 **Natural Style**
@@ -309,8 +257,6 @@ us agree with the high opinions noted above. We find several good features in hi
 
 **आगर्जद्गिरिकुञ्जरघनघटानिस्तीर्णकर्णज्वरं  
 ज्यानिर्घोषममन्ददुन्दुभिरवैराध्मातमुज्जृम्भयन्।**
-
-
 
 **वेल्लद्भैरवरुण्‍डमुण्डनिकरैवीरो विधत्ते भुवं  
 तृष्यत्कालकरालवक्त्रविघसव्याकीर्यमाणामिव॥**Uttara. V.10.
@@ -349,8 +295,6 @@ or
 
  Examples need not be multiplied. It seems that Bhasa has intentionally made the language here stiff.
 
-
-
 Elsewhere, his felicity of expression and lightness of words is noticeable, e. g.
 
 **हृदयप्रीतिजननो यो मे नेत्रोत्सवः स्वयम् ।  
@@ -376,8 +320,6 @@ Elsewhere, his felicity of expression and lightness of words is noticeable, e. g
  In the first stanza Bhāsa has described the sea and in thesecond the sunset. It will be interesting to compare the description of the sea with that given by Kālidāsa in his Raghuvanśa XIII. 1-36.  
  It will be incorrect, however, to say that Bhāsa utterly lacks in the touch of the sublime. He can be as sublime as any. Cp, Ūru.-1, 51, 52; Bala. V. II; Avi. IV. 11, 12 etc.
 
-
-
  In conclusion, it may be said that his "sense of fact is much stronger than his imagination." (Bhide).
 
 **Simplicity in construction of the Plot**
@@ -399,8 +341,6 @@ Here, in the Ūrubhanga, Bhāsa has changed the character into Dhirodātta which
  This has elevated the character of Duryodhana in the eyes of the reader. To achieve his object the play-wright has depicted several virtues as being possessed by the hero. In the epic story nothing is heard about most of the virtues. Rather, he is boastful, conceited, deceiving, quarrelsome, sensitive, and ill-mannered.  
  The dramatist has changed the character of the hero completely and at the end when Duryodhana dies we feel pity for him. His obedience and reverence to his parents, his calmness at the treacherous attack of Bhima, and his high ideals of a warrior throw us in the melting mood.
 
-
-
 **DRAMATIS PERSONAE**
 
 सूत्रधार          The stage-Manager.  
@@ -415,7 +355,6 @@ Here, in the Ūrubhanga, Bhāsa has changed the character into Dhirodātta which
 दुर्जय           Son of Duryodhana.  
 अश्वत्थामा        Droṇāachārya's son and ally of Duryodhana
 
-
 **OTHER PERSONS MENTIONED**
 
 युधिष्ठिर         Yudhiṣṭhira.  
@@ -424,14 +363,8 @@ Here, in the Ūrubhanga, Bhāsa has changed the character into Dhirodātta which
 द्वैपायन         Vyāsa.  
 बिदुर          Vidura.
 
-
-
    **SCENE**  
 Samanta-Pañcaka
-
-
-
-
 
 |                                                                       |      |                           |                    |
 |-----------------------------------------------------------------------|------|---------------------------|--------------------|
@@ -452,12 +385,6 @@ Samanta-Pañcaka
 | 91                                                                    | 32   | जंघाएँ                    | भुजाएँ             |
 | 99                                                                    | 10   | moving round              | movin ground       |
 | 125                                                                   | 34   | busy                      | bury               |
-
-
-
-
-
-
 
 **ऊरुभङ्गम्**
 
@@ -481,8 +408,6 @@ Samanta-Pañcaka
 
  *i.e.,* "The Vyāyoga must have a well-known story for its plot, its *dramatis personae* consisting mostly of males and but few females. It should be in one Act, and devoid of the Garbha and Vimarśa (See below). It should represent a contest the the occasion of which is not a woman, and should be without the Action Kaiśiki. The hero must be a celebrated personage, being a royal saint or god, of the class styled 'frm and haughty' ( धीरोद्धत seebelow). The principal Flavours *of this variety* are to be other than the Comic, the Erotic, and the Quietistic.”  
 गर्भ and विमर्श amongst others constitute two Sandhis—secondary plots or changes in the successful progress of
-
-
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
@@ -514,8 +439,6 @@ Hero of the play is Bhima who is a well-known champion and **धीरोद्�
 **मायापरः प्रचण्डश्चपलोऽहंकारदर्पभूयिष्ठः ।  
 आत्मश्लाघानिरतो धीरैधीरोद्धतः कथितः ।** ( S. D. 8. 33 ),
 
-
-
 **सूत्रधारः-**
 
 **भीष्मद्रोणतटां जयद्रथजलां गान्धारराजहृदां  
@@ -529,8 +452,6 @@ Hero of the play is Bhima who is a well-known champion and **धीरोद्�
 ** Trans.** (After the Benediction enter the Stage-Manager).  
  **सूत्रधार**— सूत्रं धारयति इति सूत्रधारः - a Stage-Manager. He recites the invocatory stanza **"भीष्‍मद्रोणतटाम्—"**. For definition see App. C.
 
-
-
 **तीर्णः शत्रुनदीं शराससिकतां येन प्लवेनार्जुनः  
 शत्रूणां तरणेषु वः स भगवानस्तु प्लवःकेशवः ॥१॥**
 
@@ -539,8 +460,6 @@ Hero of the play is Bhima who is a well-known champion and **धीरोद्�
 ** हिन्दी -** भगवान् कृष्ण शत्रुओं पर विजय पाने के लिए तुम्हें उस नौका का काम दें, जिस नौका की सहायता से अर्जुन ने शत्रुरूपी उस नदी को पार किया जिसके भीष्म और द्रोण दोनों किनारे हैं. जयद्रथ जिसका पानी है, गान्धार देश का राजा (शकुनि) पानी का भँवर है, कर्ण लहरें,अश्वत्थामा नक, कृपाचार्य मकर, शरास रेत और दुर्योधन जल का प्रवाह हैं।  
  **Glossary – ह्रद** - गम्भीरो जलाशयः = usually it means alarge and deep pool of water, but here it may denote a deep cavity or whirlpool. **नक्र**and **मकर** are synonyms to each other. They are large carnivorous amphibious reptiles and may be taken as alligators or crocodiles. **द्रौणि**= son of Drona, i. e., अश्वत्थामा. **गान्धारराज**=king of Gāndhāra, i. e., शकुनि. **शरास**=one of the hundred sons of धृतराष्ट्र. **प्लव**=नौका=a small boat. **स्रोतस्**=जलप्रवाहः=flow of water.  
  **Notes- भीष्मद्रोणतटाम्** - भीष्मद्रोणौ एव तटौ यस्यास्ताम् (बहु०), भीष्मश्च द्रोणश्चेति भीष्मद्रोणौ (द्वन्द्व). **जयद्रथजलाम्** जयद्रथः एव जलं यस्यास्ताम् (बहु०). **गान्धारराजह्रदाम्**- गान्धारराज एव ह्रदो यस्यास्ताम् (बहु०); गान्धाराणां राजेति गान्धारराजः (तत्पु०) here टच् (अ) has been added to राजन् by राजाहः सखिभ्यष्टच् (Pāp. 5. 4. 91) and consequently अन् of राजन् is dropped; declension of the compound गान्धारराज will be similar to that of देव. **कर्णद्रौणिकृपोर्मिनक्रमकराम्**— कर्णद्रौणिकृपा एव यथाक्रमम् ऊर्मिनक्रमकरा यस्यां ताम् (बहु०), कर्णश्च द्रौणिश्च कृपश्चेति कर्णद्रोणिकृपाः (द्वन्द्व); ऊर्मयश्च नक्रश्च मकरश्चेति ऊर्मिनक्रमकराः (द्वन्द्व); द्रौणिः -द्रोणस्यापत्यं पुमान्, इञ् a patronimic affix has been added to द्रोण by अत इञ्(Pan. 4.1.95). **दुर्योधनस्रोतसम्-**दुर्योधन एव स्रोतो यस्यास्ताम् (बहु०); दुर्योधनः- दुःखेन युध्यते; दुः+/युध्+युच् (अन) (भाषायां शासियुधिदृशिधृषिमृषिभ्यो युच्वाच्यः Var. 3.3.128), **शराससिकताम्** - शरासः एव सिकता यस्यां ताम् (बहु०) ;- some derive शरास as शरा अस्यन्ते येन सः; शर+ / अस् to throw'+घञ्
-
-
 
 **एवमार्यमिश्रान् विज्ञापयामि । अये किन्नु खलु मयि विज्ञापनव्यग्रे शब्द इव श्रूयते । अङ्ग ! पश्यामि ।**
 
@@ -566,8 +485,6 @@ Hero of the play is Bhima who is a well-known champion and **धीरोद्�
  **विज्ञापनव्यग्रे** – विज्ञापने व्यग्रः(तत्पु०) तस्मिन् विज्ञापन-वि+/ज्ञाप् (Causitive of /ज्ञा)+ल्युट् (अन)=request, announcement or information. व्यप्र=occupied in.  
  **Trans.**—With these words, my noble sirs, I beg to inform you—Ah ! What's this? Just as I have begun to make my announcement, I hear as if some noise. Well, I'll see.  
  **नेपथ्य—**the postscenium or the tiring room. It is always behind the principal curtain.The actors attire themselves in it and when ready to enter the stage, they wait there
-
-
 
 **एते स्मो भोः ! एते स्मः।**
 
@@ -602,15 +519,11 @@ until the proper moment. The word नेपथ्‍यis used to denote other m
  **कुतो नु खल्वेते** – These words should be taken with the following verse.  
  **अन्वयः - (कुतो नु खल्वेते) स्वर्गार्थम् आहवमुखोद्यतगात्रहोमाः, नाराचतोमरशतैः विषमीकृताङ्गाः, मत्तद्विपेन्द्रदशनोल्लिखितैः शरीरैः (उपलक्ष्यमाणाः) अन्योऽन्यवीर्यनिकषाः पुरुषाः भ्रमन्ति!**
 
-
-
 **————————————————————————————————————————————————————————**
 
 **हिन्दी—**ये पुरुष जो स्वर्ग पाने के लिए युद्ध में अपने शरीरों की आहुति देने को तैयार हैं, जिनके अंग सैंकड़ों बाणों और भालों से बेढब हो गए हैं, जिनके शरीर बड़े बड़े मस्त हाथियों के दान्तों से खरोचे गए हैं और जो एक दूसरे के बल की परीक्षा करने में तत्पर हैं -(किस लिए) इधर उधर घूम रहे हैं?  
  **Glossary** - **आहवमुख** = van of battle. **उद्यत**= ready to offer, well prepared. **होम**=आहुतिः=oblations in consecrated fire. **नाराच** = लोहमयः शरः = arrows made of iron. तोमर = a javelin. **विषमीकृत** = rendered uneven; **विषम** = isantonym of सम. **मत्त**=मदस्राविन्=when rut begins to flow from the temples of an elephant it becomes infuriated or furious. **दशन**=दन्त=a tooth, but here **दशन** signifies the tusk of an elephant. **उल्लिखित** = scratched. **निकष**- सुवर्णपरीक्षणार्थः पाषाणः=a touch-stone.  
  **Notes—आहवमुखोद्यतगात्रहोमाः–**आहवस्य मुखे उद्यतः गात्राणां होमो यैः ते. Combined use of multifarious compounds is noteworthy in this composition. This compound is a combination of Determinative and Attributive compounds. Such compounds can be expounded in the following manners as well—आहवस्य मुखम् इति आहवमुखम् गात्राणां होम इति गात्रहोमः (तत्पु०) आहवमुखे उद्यतः गात्रहोमो यैस्ते आहवमुखोद्यतगात्रहोमाः (बहु०)। आहवः - आहूयन्तेऽस्मिन् इति, where enemies are challenged— आ+ /ह्वेञ्+अप्; व in हृ is changed into उ by आङियुद्धे (Pan. 3.3.73). **नाराचतोमरशतैः** - नाराचानां तोमराणाञ्च शतैः - This is an instance of द्वन्द्वगर्भिततत्पुरुष compound. As explained above, it can be expounded as नाराचाश्च तोमराश्चेति नाराचतोमराः (द्वन्द्व), नाराचतोमराणां शतैः (तत्पु०). **विषमीकृताङ्गाः—**विषमीकृतानि अङ्गानि येषां ते (बहु०); विषमीकृतानिis further expounded as – अविषमाणि विषमाणि कृतानि इति विषमीकृतानि. This is an instance of Prepositional Determinative comp. च्वि (इ) has been added to the base **विषम** to denote that limbs which were not jagged (or **विषम)** before, have now turned as such. The rule is formulated in कृभ्वस्तियोगे सम्पद्य कर्तरि च्विः (Pan. 5.4.50 ) which is further supplemented by अभूततद्भाव इति वक्तव्यम् (Var. 5.4.50) , at the end of म in विषम is changed into ई by अस्य च्वौ ( Panņ. 7. 4. 32 ) and
-
-
 
 **————————————————————————————————————————————————————————**
 
@@ -621,8 +534,6 @@ thus विषमी becomes an indeclinable (अव्यय).
 ** अन्योऽन्यवीर्यनिकषाः -** अन्योऽन्यस्य वीर्यमेव निकषः येषां ते (तत्पुरुषपूर्वको बहु०) touch-stones of each other's valour, i. e., trying each other's valour.निकष (touch-stone) is used to test the purity of gold and figuratively denotes anything serving as a touch-stone or subjecting to severe trial as— तत्त्वनिकषग्रावा तु तेषां विपत् (Hit. 1.210;2.80); नन्वेष दर्पनिकषस्तव चंद्रकेतुः ॥ Uttara. 5.10. अन्योऽन्यस्य—This is not taken as a compound word. By कर्म-व्यतिहारे सर्वनाम्नो द्वे वाच्ये समासवच्च बहुलम् (Var. 8. 1. 12), i.e., a pronoun is reduplicated when reciprocity or interchange of action is implied and the word so formed is optionally a compound. A compound is not allowed in the case of परand अन्य as remarked by Bhattoji Diksita (बहुलग्रहणादन्यपरयोर्न समासवत् इतरशब्दस्य तु नित्यम्). Then by the Vartika असमासवद्भावे पूर्वपदस्थस्य सुपः सुर्वक्तव्यः (i.e., when compounding is precluded whatever be the case-ending of the first word it is replaced by स्) we have here at first अन्यस्य अन्यस्य and then अन्योऽन्यस्य. Cf. ' अन्योऽन्येषां पुष्करैरामृशन्तः' Magha.  
  Metre is वसन्ततिलका.  
  **Assistant-Master,** why do these men, who are ready
-
-
 
 ** सूत्रधारः— मारिष! किन्नावगच्छसि? तनयशतनयशून्ये दुर्योधनावशिष्टे धृतराष्ट्रपक्षे, पाण्डवजनार्दनावशिष्टे युधिष्ठिरपक्षे, राज्ञां शरीरसमाकीर्णे समन्तपञ्चके,**
 
@@ -638,8 +549,6 @@ to sacrifice their bodies in the van of battle to attain heaven, whose limbs are
 
 **पक्षो मासार्धके गेहे पार्श्वसाध्यविशेषयोः ।  
 केशादेः परतो वृन्दे बले सखिसहाययोः ॥** Amara
-
-
 
 **————————————————————————————————————————————————————————**
 
@@ -660,8 +569,6 @@ Padma Purāṇa भूमिखण्ड Ch. 124.
 
  **Stage-Manager**. Dear sir, don't you know? Duryodhana is the only survivor on the side of Dhṛtarastra, which is bereft of the political wisdom of his hundred sons, while on the side of Yudhiṣthira, Pāṇḍavas and Kṛṣṇa have out-
 
-
-
 **एतद् रणाहतगजाश्वनरेन्द्रयौधं  
 सङ्कीर्णलेख्यमिव चित्रपटं प्रविद्धम्।  
 युद्धे वृकोदरसुयोधनयोः प्रवृत्ते  
@@ -678,8 +585,6 @@ lived and Samantapañcaka is strewn with corpses of kings.
 ** Glossary. वृकोदर**—Bhīma. **यौध**=सैनिकः— a warrior. **सङ्कीर्ण-**confused, jumbled together. **लेख्य**-drawing. **चित्रपट** - a picture, or a chequered cloth on which pictures are painted. **प्रविद्ध**-well pierced, torn. **निधन** (n.)=मृत्यु (m) –death.  
  Notes. **वृकोदरसुयोधनयोः** वृकोदरश्‍च सुयोधनश्चेति वृकोदरसुयोधनौ (द्वन्द्व ) तयोः, Gen. duel. वृकोदरः-त्रृकस्य उदरमिव उदरं यस्य सः (उत्तरपदलोपी बहु ०). The second उदर has vanished as enjoined by सप्तम्युपमानपूर्वपदस्योत्तरपदलोपश्च वक्तव्यः (Var.), one whose belly resembles that of a wolf, or उदरे वृकः यस्य सः (बहु० ). उदर is placed after वृक by गड्वादेः परा सप्तमी (Var 2.2.35). वृक is the name of a fire in the stomach which adds to the appetite. सुयोधन — सु + √युध्+युच् **प्रवृत्ते** - प्र + √ वृत्+क्त, Loc. sing.  
  **यौधाः** — √युध्+अच् योध; then it is augmented by **अण्** (प्रज्ञादिभ्यश्च 5.4.38) Nom. pl. योध and यौध are synonyms. In such cases the addition of अण् does not change the meaning. Other examples of this type are प्रज्ञ and प्राज्ञ. **राहतगजाश्वनरेन्द्रयौधम्**- रणे आहता इति रणाहताः (तत्पु० ), नराणामिन्द्रा इति नरेन्द्राः (तत्पु० ), गजाश्व अश्वाश्च नरेन्द्राश्व यौधाश्चेति गजाश्वनेरन्द्र
-
-
 
 **               (ततः प्रविशन्ति भटास्त्रयः)**  
 **  सर्वे —  एते स्मो भोः! एते स्मः।**
@@ -710,8 +615,6 @@ lived and Samantapañcaka is strewn with corpses of kings.
 All— Oh, bère we are, here we are.  
 **'अन्वयः — (वयं) वैरस्य आक्वथनं, बलस्य निकषं, मानप्रतिष्ठागृहं युद्धेषु**
 
-
-
 **————————————————————————————————————————————————————————**
 
 **अप्सरसां स्वयंवरसभां, नृणां शौर्यप्रतिष्ठां, राज्ञां पश्चिमकालवीरशयनं, प्राणाग्निहोमक्रतुं राज्ञां नभःसङ्क्रमं रणसंज्ञम् आश्रमपदं सम्प्राप्ताः (स्मः)।**  
@@ -723,8 +626,6 @@ All— Oh, bère we are, here we are.
 उत्पेतुर्मनुजश्रेष्ठ! तस्मादप्सरसोऽभवन्॥**
 
 ** **अप्सरस् or nymphs pertain to a class of celestial damsels who reside in the sky and are regarded as the wives of Gandharvas. They are very fond of bathing possess aptitude for changing their shapes and are gifted withsuper-human power. They are called स्वर्वेश्‍याःand are usually described as the female attendants Indra, the so-calledof king of heaven.
-
-
 
 **————————————————————————————————————————————————————————**
 
@@ -740,8 +641,6 @@ All— Oh, bère we are, here we are.
 
 or  **हतोवा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम्\।
 Gītā1.37.**
-
-
 
 ** द्वितीयः - सम्यग् भवानाह।**
 
@@ -761,8 +660,6 @@ Gītā1.37.**
 ** हिन्दी** —पृथ्वी पर बड़े बड़े हाथियों के शरीर पड़े हैं जिनसे वह चट्टानों के समान अगम्य प्रतीत होती है (जिससे ऐसा जान पड़ता है कि वह मानों बड़े बड़े पत्थरों के कारण ऊँची नीची हो गई हो) चारों तरफ गीधों के घोंसले बने हुए हैं। रथों के अतिरथ (महारथी) मर चुके हैं और ये राजा लोग रण-क्षेत्र में, जहां वीरोचित कर्म द्वारा मृत्यु होती है, चिरकाल तक आमने-सामने अपने विविध युद्ध कौशल दिखाते हुए मर कर स्वर्ग पहुँच चुके हैं।  
  **Glossary**. **नागेन्द्र**- lord of elephants, i.e., a big elephant. **धरा**= पृथिवी- the earth. **उपल**= पाषाणः- a huge stone or शिला a boulder rock. **विषम**=निम्नोन्नत - uneven or rugged and there-
 
-
-
 **————————————————————————————————————————————————————————**
 
 fore impassable.**आवास** - a house, place of refuge, i.e, a nest. **अतिरथ**- an unrivalled warrior. **प्रतिमुखम्** - face to face **निहताहत**= मृत - dead.  
@@ -773,8 +670,6 @@ fore impassable.**आवास** - a house, place of refuge, i.e, a nest. **अ�
  **अवनिपतयः** — अवनेः पतयः (तत्पु० ). Note the difference in declension of the word पति and compounds ending in पति. **क्रियामरणे**-क्रियया मरणं यस्मिन्. It qualifies रणे; क्रियते इति क्रिया (/ कृ+ इयङ्+आ) means action, activity or क्रियन्ते कार्याणि अनयेति, thus क्रिया may signify an implement or here a weapon. **प्रतिमुखम्** मुखं मुखं प्रति, वीप्सायामव्ययीभावः - this is an example of अव्ययीभाव compound denoting repetition. तत्तत्— तच्च तच्चेति It implies that which is well-known and refers to the king's kill in wielding weapons. **निहताहताः—**निहताश्च ते आहताश्चेति (कर्म० ) means completely extinct or dead. This compound may equally well be expounded as निहताश्च ते अहताश्‍चेति (क्तेेननञ्' विशिष्टेनानञ् Pāņ. 2. 1. 60). In this case, last two lines of the verse can be translated as follows:—  
  Kings have gone to heaven and have done such glorious deeds face to face in the battle, where death is caused by weapons, that, they are alive, though slain long since.  
 **Trans.** On account of the dead bodies of big, elephants
-
-
 
 ** तृतीयः—एवमेतत्।**
 
@@ -792,16 +687,12 @@ lying on the earth it looks as if asperated by huge stones. Vultures have built 
  **Glossary.** **कर=शुण्डा** - trunk of an elephant. **यूप=बलिपशुबन्धनार्थः स्तम्भः**- a sacrificial post to which the victim is fastened at the time of immolation. **विन्यस्त= संस्थापित -** well-kept, well-arranged. **दर्भ = कुशः -** Kusa grass. **चयनम् = समिधां समाहारः**-pile of wood, wood-stack. **वह्निः** (Masc.)=**अग्निः** – fire, **प्रदीप्त = प्रचण्डः** - excited, inflamed or**उज्ज्वलः**—lit. illu-minated. **ध्वज=पताका**—a banner, **वितत= विस्तृत** — wide, ample. **विमान= व्योमयानः-** an aeroplane, a celestial ear, **सिंहनाद=योधानां ध्वनिः** – the roar of warriors, a war-cry. **मन्त्र-** a sacred hymn. **संस्थित**-stopped, finished, come to an end.  
  **Notes**. **करिवरकरयूपः-** करिषु वराणां करा इति करिवरकराः (तत्पु०)
 
-
-
 **————————————————————————————————————————————————————————**
 
 ते एव यूपाः यस्मिन् सः (बहु०). **बाणविन्यस्तदर्भः**—विन्यस्ताः दर्भा इति विन्यस्तदर्भाः (तत्पु०) बाणाः एत्र विन्यस्तदर्भा यत्र सः (बहु०). **हतगजचयनोच्चः** - हताः गजाः एव चयनानि इति हतगजचयनानि ( कर्म०) तैः उच्चः (तत्पु०); चयनम् – चीयते इति (/चि+ ल्युट्), that which is heaped up, ie, fuel, a pile of wood, a structure of bricks. **वैरवह्निप्रदीप्तः**— वैरमेव वह्निरिति वैरवह्निः (कर्म०) तेन प्रदप्तिः (तत्पु०). **ध्वजविततविमानः**—वितताश्च ते विमाना इति विततविमानाः (कर्म०) ध्वजाः एव विततविमानाः यस्मिन् सः (बहु०); वितत - वि + /तन्+क्ल, amplified, huge. विमानः - विभिः पक्षिभिः मीयते उपमीयते इति, that which is compared in respect of its flight with a bird, i. e., an aeroplane or सप्तशालकः प्रासादः ' a seven-storied palace'. It is said that the gods were invited or invoked in a sacrifice and they reached there on their celestial cars. **सिंहनादोच्चमन्त्रः**—उच्चैरुच्चार्यमाणः मन्त्र इति उच्चमन्त्रः ( मध्यमपदलोपी कर्म०), सिंहनादाः एव उच्चमन्त्राः यस्मिन् सः (बहु ०); सिंहनादः - सिंहस्य नाद इव नादः (तत्पु०) a sound resembling that of a lion, i. e., a war-cry, a loud call for vengeance made by the soldiers. **पतितपशुमनुष्यः**—पतिताश्च ते पशव इति पतितपशवः (कर्म०) ते एव मनुष्याः यस्मिन् सः (बहु०) or पशवः एव मनुष्या इति पशुमनुष्याः (कर्म०) पतिताः पशुमनुष्याः यस्मिन् सः (बहु०). All the above_compounds qualifiy युद्धयज्ञः. **युद्धयज्ञः**– युद्धमेव यज्ञः ( कर्म ०). **संस्थित**—सम् + √स्था + क्त, completed.Main fight between Kauravas and Pandavas being over, soldiers are describing the battle-field. Therefore संस्‍थि‍तdoes not imply here "begun."  
  In this verse, the battle has been identified with a sacrifice and consequently the properties of the former have been attributed to the latter.  
  Metre is मालिनी.  
 ** Trans.** The battle rite is over. Here sacrificial posts are seen in the trunks of tuskers, litter of Kuśa grass in arrows and huge heap of wood (wood-stack) in dead elephants. It is inflamed with the fire of hostility. Here, again, heavenly cars (aeroplanes) are seen
-
-
 
 ** प्रथमः—इदमपरं पश्येतां भवन्तौ।**
 
@@ -821,8 +712,6 @@ in banners, loud recital of sacred hymns is heard in warcries of soldiers and vi
  **Notes. पिशितार्द्रमुखाः** - पिशितेन आर्द्राणि इति पिशितार्द्राणि (तत्पु०) पिशितार्द्राण्येव मुखानि येषां ते (बहु०). It qualifies विहङ्गाः. विहङ्ग - विहायसा (आकाशमार्गेण) गच्छतीति, that which moves in the sky, i.e., a bird. The word विहायस् is changed into विह by **विहायसो विह इति वाच्यम्** (Var. 3. 2. 38). गम् has खच् added to it (गमश्च Pāņ. 3. 2. 47) and खच् is ordained डित् **(**खच्च डिद्वा वाच्यः Vār. 3. 2. 38) and as such म् of गम् vanishes optionally. By inserting मुम् (म्) by अरुर्द्विषदजन्तस्य मुम् (Pāņ. 6. 3. 67) we have विहङ्ग and the other form will be विहङ्गम.  
 ** परस्परशरैः**-परस्पराणां शरैः (तत्पु०); परस्पराणाम्-पराणां पराणां, formations of परस्पर is similar to अन्योऽन्य for which see
 
-
-
 ** द्वितीयः-**
 
 **प्रसक्तनाराचनिपातपातितः  
@@ -840,16 +729,12 @@ P. 8. **हृतजीवितानाम्–**हृतानि जीव
 ** हिन्दी–**यह हाथी, जिसे युद्ध में लड़ने के लिये पूरी तरह तैय्यार कर हौदा वगैरह से) सजाया गया था, एवं जो तीरों और बाणों से लदा हुआ होने के कारण राजा का शस्त्रागार प्रतीत होता था, अब चलाए हुए बाणों की चोट से धड़ाम से पृथ्वी पर गिर पड़ा हैः इसका कवच बिल्कुल छिन्न-भिन्न हो गया है और यह अन्तिम सांस ले रहा है।  
  **Glossary**. **समग्रं** (Adv.) = **साकल्येन** - completely. **उद्यत** — prepared or preparations, active or activity (See Notes). **कल्पित= पल्याणाद्यारोपणेन** **सज्जीकृतः** — furnished with a litter etc., arrayed, equipped. **कार्मुक** = **शरासः** - a bow. **आयु-**
 
-
-
 **————————————————————————————————————————————————————————**
 
 **धागार** — an arsenal, armoury, i.e,a place intended for storage of arms. **प्रसक्त**— shot at, attached to bow. **नाराच =बाणः-** a shaft. **निपात** – a shower, forceful strike, blow. **पातित**—overthrown. **विशीर्ण= विद्ध** — shattered. **वर्मन्** — (Neu.) =**कवचम्**—an armour. **अवसीदति-** sinks down.  
  **Notes.** **समग्रयुद्धोद्यतकल्पितः** – समग्रश्च तद् युद्धमिति समग्रयुद्धम् (कर्म०), उद्यतश्चासौ कल्पितः इति उद्यतकल्पितः (कर्म०), समग्रयुद्धाय उद्यतकल्पितः (तत्पु०), prepared and armed for thorough fight or समप्रयुद्धस्य उद्यतेभ्यः कल्पितः (तत्पु०); well-armed for warlike activities, as such an addition of क्तin उद्यत् (उत् + / यम+क्त) may account for the formation of abstract noun. This उद्यत may be equivalent to उद्यम, i. e, activity; कल्पित - √क्लप्+क्त or कल्प+इतच् (तदस्य सञ्जातं तारकादिभ्य इतच् Pāṇ. 15. 2. 36) सञ्जातः कल्पोऽस्येति. It can be construed in different ways, as an adjective of elephant it means 'furnished with a litter or arms,' ‘caprisoned for war and arrayed etc.'  
  **सशरः–**शरेण सह इति (तत्पु०), सह is changed into स and prefixed by सहस्य संज्ञायां सः (Var.). Similarly **सकार्मुकः-** कार्मुकेण सहेति. **नृपायुधागारम्–**नृपस्य आयुधानाम् आगारम् (तत्पु०); आयुधम् आयुध्यतेऽनेनेति; आ + / युध् +क (घञर्थे क विधानम् Var., स्थास्नापाहनियुध्यर्थम् —Com.). Weapons are generally subdivided into three classes (1) प्रहरण, e. g., a sword; (2) हस्तमुक्त, e. g, a disc; (3) यन्त्रमुक्त, e. g., an arrow. नृपायुधागारम् is further compounded with इव by इवेन समासो विभक्त्यलोपश्च (Var. 1. 4. 71). **प्रसक्तनाराचनिपातपातितः** —प्रसक्तानां नाराचानां निपातेन पातितः प्रसक्त - प्र + √ सज्+क्तmeans 'cast off,' 'shot at' or संगत attached to bow; निपातः - नि + √पत् +घञ्, means 'descent, shower, discharge, blow. पातित- √ पत् (Caus.) + क्त. **विशीर्णवर्मा** - विशीर्णं वर्म यस्य सः (बहु०); विशीर्ण-वि+√शृ+क्त.  
  **Second.** An elephant, which was well-arrayed for. warlike activities and being burdened with bows and arrows looked like a royal arsenal, is overthrown by the forceful strokes of shafts shot at him and sinks downwith his armour shattered to pieces.
-
-
 
  **तृतीयः -इदमपरं पश्येतां भवन्तौ।**
 
@@ -866,8 +751,6 @@ P. 8. **हृतजीवितानाम्–**हृतानि जीव
 -- from the front of a chariot **अवतारयान्ति‍**–अव+ तृृ(Caus.) Present tense III. Pl.. 'to drag down, dismount."  
 ** Notes,** **हृष्टाः** and other adjectives qualify both शिवाः (female jackals) and बन्धुनार्यः (female relations). As will be clear from the English translation and the following Notes, Paronomasia or double entendre (श्‍लेष) has been used here in a masterly way. **हृष्ट-हृष् '**to be delighted’+क्त; the other form of it is हृषित or हर्षित which denotes the same meanings and may be formed by affixing इतच् at the end of हर्ष (तदस्य
 
-
-
 **————————————————————————————————————————————————————————**
 
 सञ्जातं तारकादिभ्य इतच् 15. 2. 36); हृष्ट denotes several meanings—  
@@ -879,8 +762,6 @@ P. 8. **हृतजीवितानाम्–**हृतानि जीव
 
 ** माल्यैः**— from माल्य — मल्यते . धार्यते इति माल्यम् (/मल् ‘to hold' + ण्यत् by ॠहलोर्ण्‍यत्Pāṇ. 3. 1. 124) or माला एत्र माल्यम् (माला + ष्यञ् - a suffix effecting no change whatsoever in the meaning of the original word. See चतुर्वर्णादीनां स्वार्थे उपसंख्यानम् (Var. on 7. 3. 31). **कृतमुण्डमालम्–**मुण्डस्य मालेति मुण्डमाला, (तत्पु०), कृता (विरचिता) मुण्डमाला यस्यतम् (बहु०) रथिनम् or in case of a son-in-law कृतः signifies धृत ‘worn’... **रत्नैकसायकधरम्–**एकः (अद्वितीयः) चासौ सायकः इति एकसायकः (कर्म०) रत्नैर्जटितश्चासौ एकसायक इति रत्नैकसायकः (मध्यमपदलोपी कर्म०) or रत्नान्येव एकसायकाः इति रत्नैसायकाः (here matchless arrows have been identified with gems), तस्य तेषां वा धरम् (तत्पु०). When taken as an adjective to जामातरम् the com - pound can be expounded in both the ways as shown above but in the former case सायक would indicate a sword ("शरे खन्ने च सायकः” Amara.), and when taken as an adjective to 'रथिनम् ' the compound may be dissolved as एके (अद्वितीयाः) च ते सायकाः इति एकसायकाः, रत्नजटिताः एकसायका इति रत्नैकसायकाः तेषां धरम्; here सायक would mean 'an arrow'. The other way of expounding it would be the same as above, i.e., रत्नान्येव एकसायका इति रत्नैकसायका, तेषां धरम्. The first mode of expounding it is, however, better. The idea contained herein is that the dead warrior's body, being pierced with arrows, appears to be similar to a son-in-law who carries a sword with him ritualistically. **रथिनम्**-रथोऽस्यास्तीति रथी तम्; (रथ+इन्= रथिन्—अत इनि ठनौ Pan. 5. 2. 115 **विपन्न** - वि + / पद्+क्त. **जामाता–**जायां भिनोति मानयति वा (जाय + √ मा + तृच् — पृषोदरादित्वात्साधुः). **बन्धुनार्यः**— बन्धवश्च ताःनार्य इति (कर्म •) or बन्धूनां नार्यः (तत्पु०).
 
-
-
 ** सर्वे — अहो नु खलु निहत-पतित- गज-तुरग-नर–रुधिर-कलिल-भूमि- प्रदेशस्य
 विक्षिप्त–वर्म–चर्मातपत्र–चामर–तोमर-शर-कुन्त-कवच-कबन्धादिपर्याकुलस्य शक्ति-प्रास-हाटकभिण्डिपाल शूल मुसल मुद्गर-वराह-कर्ण-कणप-कर्षण शङ्कु-त्रासिगदादिभिरायुधैरकीर्णस्य समन्त-पञ्चकस्य प्रतिभवता।**  
 **————————————————————————————————————————————————————————**  
@@ -890,15 +771,11 @@ Relations ( blood-relations) are generally of three kinds— आत्मबन�
 ** अहो नु खल्विति**। **अहो नु खलु समन्तपञ्चकस्य प्रतिभयता। कीदृशस्य समन्तपञ्चकस्येति निहतपतित.....प्रदेशस्येत्यादिभिर्विशिनष्टि।**  
  Glossary. **प्रतिभयता =** भयङ्करता - fearfulness. **तुरग=**अश्वः—a horse. **कलिल=** गहनम्**, दुष्प्रवेशः**-impassable. **विक्षिप्त =** प्रक्षिप्त—hurled. **वर्मन्** (Neu.) = **कवचम्** – an armour. **चर्म** ( Neu.)= an **फलकः**-a shield. **आतपत्र =** छत्रम्  - an umbrella. **चामर=** बालव्यजनम् —a chowrie or **दण्डः** - a scepter ; this is an insignia of royalty. कुन्त=प्रासः — a lance, spear. **कबन्ध=**अपमूर्ध कलेवरम्, रुण्डः -a headless trunk **पर्याकुल- अव्यवस्थित** – dishevelled. **शक्ति**—a barbed dart. **प्रास** – a pike. **हाटक-भिण्डिपाल-सुवर्णमयं पाषाणप्रक्षेपसाधनम्** -a sling made of gold. **शूल**- a dart.**मुसल=** अयोग्रः-a long wooden shaft with a fiat-pointed steel lead.**मुद्गर**—a hammer.**वराहकर्ण**-a sharp-edged arrow.**कणप=**लोहस्तम्भः**-**-an_iron-bar. कर्पण- a barbed arrow.**शङ्कु=**शल्यम्—a small spear.
 
-
-
 **————————————————————————————————————————————————————————**
 
 **त्रासिगदा**—a frightening mace. **आयुधप्रहरणम्** —a weapon. **आकीर्णव्याप्त**— spread over.  
  **Notes.** अहो, नु and खलु are indeclinables. अहो signifies here the sense of wonder, नु indicates certainty and खलुhas been used as an expletive. **निहतपतितगजतुरगनररुधिरकलिलभूमिप्रदेशस्य–**निहतपतितगजतुरगनररुधिरेण कलिलभूमिप्रदेशस्य (तत्पु०), निहतञ्च तत् पतितमिति निहतपतितम् (कर्म०), गजाश्च तुरगाश्च नराश्चेति गजतुरगनरम् (द्वन्द्वश्च प्राणितूर्यसेनाङ्गानाम् Pan. 2. 4. 2), निहतपतितस्य गजतुरगनरस्य रुधिरेण इति निहतपति‍तगजतुरगनररुधिरेण (तत्पु०), भूमेः प्रदेशाः इति भूमिप्रदेशाः (तत्पु०), कलिला भूमिप्रदेशा यस्य तस्य कलिलभूमि-प्रदेशस्य (बहु०). The other way in which this compound can be dissolved is: निहतम् अतएव पतितं यत् (गजाश्च तुरगाश्च नराश्च) गजतुरगनरं तस्यरुधिरेण कलिला भूमिप्रदेशा यस्य तस्य तुरगः—तुरेण गच्छतीति, तुर+/गम्+ड (अ) ; other forms are तुरङ्ग and तुरङ्गम ‘a horse'. कलिल – / कल्+इलच् (इल) ; other words of this type, where इल is affixed, are: सलिल (water), अनिल (wind), महिला (a lady) and शण्डिल (a sage) etc. रुधिरः-/रुध्+किरच् (इर); familiar words of this type, where (इर)is added at the end of a root, are: मदिरा (wine), मुदिर (a cloud or a lover), मन्दिर (a temple), तिमिर (darkness), रुचिर (pleasant) and बधिर (deaf) etc.  
 ** विक्षिप्तवर्म.......पर्याकुलस्य** - विक्षिप्तवर्म... कबन्धादिभिः पर्याकुलस्य (तत्पु०), वर्माणि च चर्माणि च आतपत्राणि च चामराणि च तोमराश्च शराश्च कुन्ताश्च कवचकबन्धाश्च ते वर्मचर्म.....कबन्धाः (द्वन्द्व), विक्षिप्ताश्च ते वर्मचर्म……कबन्धाः इति विक्षिप्तवर्मचर्म....... कबन्धाः (कर्म०), ते आदौ येषां तैः (बहु०). In this compound if चर्म means‘a coat of mail' or 'an armour' it would be better to take कवचकबन्धाः as a sub-compound which may further be expounded as कवचेनावृताः कबन्धाः (मध्यमपदलोपी कर्म०), i.e., head- less trunks clad in coat of mail or mail-clad. If चर्मbe taken to signify 'skin' then कवचकबन्धाः indicates copulative compound (कवचाश्च कबन्धाश्चेति). Thus the repetition of the words चर्म and कवच which are synonyms to each other
-
-
 
 ** प्रथम :— इह हि,**
 
@@ -914,8 +791,6 @@ will justificably be avoided. पर्याकुल—परि+श्रा+
 ** First.** Here, indeed,  
 ** अन्वयः— (अवशिष्टैः योधैः) हतद्विपसङ्क्रमाः रुधिरसरितः निस्तीर्यन्ते। हयाः नृपतिरहितैः स्रस्तैः सूतैः (सह वर्तमानान्) रथान् वहन्ति। पतितशिरसः कबन्धकाः पूर्वाभ्यासाद् द्रवन्ति। पुरुषरहिताः मत्ताः नागाः यतस्ततः भ्रमन्ति।**  
 ** हिन्दी -** (शेष योधाओं द्वारा) रुधिर की नदियेंपार की जा रही हैं, मरे हुए हाथी ही ऊँची सड़क का काम दे रहे हैं। घोड़े, राजाओं से 'पृथक् हुए और सारथियों से (मरने के कारण) रहित हुए, रथों को खींचे चले जाते हैं। दया
-
-
 
 **————————————————————————————————————————————————————————**
 
@@ -942,8 +817,6 @@ will justificably be avoided. पर्याकुल—परि+श्रा+
 
 ** पतितशिरसः** - पतितानि शिरांसि येभ्यो येषां वा ते (बहु०) ' decapitated', it qualifies **कबन्धकाः.** Here the adjective **'पतितशिरसः'**, which qualifies **कबन्धकाः**:, is seemingly superfluous, for it can be interpreted as पतितशिरसः सन्तः, denoting thereby the fall of the heads in near past. Thus the expression becomes forceful and excites a sense of wonder in the readers. Besides,
 
-
-
 **द्वितीयः—इदमपरं पश्येतां भवन्तौ। एते**
 
 **गृधा मधूकमुकुलोन्नतपिङ्गलाक्षा  
@@ -958,8 +831,6 @@ will justificably be avoided. पर्याकुल—परि+श्रा+
 ** Second.** Please look at this other sight. These  
 ** अन्वयः— मधूकमुकुलोन्नतपिङ्गलाक्षाःदैत्येन्द्रकुञ्जरनताङ्कुशतीक्ष्‍णतुण्डाः,**
 
-
-
 **भान्त्यम्बरे विततलम्बविकीर्णपक्षा  
 मांसैः प्रवालरचिता इव तालवृन्ताः॥११॥**
 
@@ -969,8 +840,6 @@ will justificably be avoided. पर्याकुल—परि+श्रा+
  **Glossary.** **मधूक =** गुडपुष्पः- liquorice plant, **महुआ** in Hindi. **मुकुल =**कुड्मलः—a bud. **उन्नत =** उद्गतः **-** prominent, protuberant. **पिङ्गल =**कपिलः**, पिशङ्गः**-tawny, yellow-red. **दैत्येन्द्र** — king of demons, namely Bali. **कुञ्जर =** हस्ती **-** an elephant. **नत**-curved, having a curve at the tip. **अङ्कुश** – a goad. **तुण्ड=**मुखम्**-** mouth, i.e., beak. **वितत=**सविस्तरः**,** **विशालः**- huge, enormous.**लम्ब=**दीर्घः—long. **विकीर्ण= विक्षिप्तः**-unfolded, scattered. **पक्ष-**wing. **मांस=**मांसखण्डः-a bit of flesh. **प्रवालरचित =** विद्रमजटितः- inlaid with corals **(मूंगा). तालवृन्त** — leaves of the palmyra treeor a fan made of those leaves.**अम्बर =** आकाशः —sky.  
  **Notes**. **मधूकमुकुलोन्नतपिङ्गलाक्षाः** - मधूकस्य मुकुलमिति मधूकमुकुलम् (तत्पु०), तद्वदुन्नतानि च पिङ्गलानि चाक्षीणि येषां ते (बहु०). At the end of अक्षिन् in this compound षच् has been added by बहुब्रीहौ सक्थ्यक्ष्णोः स्वाङ्गात् षच् (Paņ. 5. 4.113). **दैत्येन्द्रकुञ्जरनताङ्कुशतीक्ष्णतुण्डाः** – दैत्यानामिन्द्रस्य कुञ्जर इति दैत्येन्द्रकुञ्जरः (तत्पु०), नतश्चासावङ्कश इति नताङ्कुशः (कर्म०) तीक्ष्णाश्च ते तुण्डा इति तीक्ष्णतुण्डाः (कर्म०), दैत्येन्द्रकुञ्जरस्य यो नताङ्कुशस्तद्वत्तीक्ष्णतुण्डाः येषां ते (बहु०). दैत्य—दितेरपत्यं पुमान्; दिति+ण्य (दित्यदित्यादित्यपत्युत्तरपदाराण्यः Pāṇ. 4. 1. 85). Diti was the mother of demons whoare so called after her name. She was the daughter of Dakşa and the wife of Kasyapa. **विततलम्बविकीर्णपक्षाः-** वितताश्च लम्बाश्च विकीर्णाश्च पक्षा येषां ते (बहु०) ; पक्ष - see p.9.  
 ** प्रवालरचिताः**—प्रवालेन रचिताः (तत्पु०); रचित=खचित-adorned or set. प्रवाल signifies a coral usually of red eolour. तालवृन्तः a leaf-stalk of the Palmyra tree, taking identification into
-
-
 
 ** तृतीया—**
 
@@ -991,8 +860,6 @@ account it may imply a fan made of the leaves of that tree. When a synonym of �
  **Glossary**. **निरस्त**=पतिताः-fallen or **मृता**: - dead. **दिनकर** = सूर्यः—the sun. **उग्र**=तीक्ष्णः-scorching. **कर** = रश्मिः — a ray- **समन्तात्=**सर्वतः — all around. **व्यक्तीकृता =** स्पष्टीकृता-made clearly visible. **उद्वहति=**धारयति – bears, supports.  
  **Notes**. **निरस्तहयनागनरेन्द्रयौधा–**हयाश्च नागाश्च नरेन्द्राश्च यौधाश्चेति हयनागनरेन्द्रयौधम् (द्वन्द्वश्च प्राणितूर्यसेनाङ्गानाम् Pāṇ, 2. 4. 2),
 
-
-
  **प्रथम:— ईदृश्यामप्यवस्थायामविमुक्तशोभा विराजन्ते क्षत्रियाः। इह हि,**
 
 **सत्त्वोद्वर्तितनेत्रषट्पदगणा ताम्रोष्ठपत्रोत्करा  
@@ -1004,8 +871,6 @@ account it may imply a fan made of the leaves of that tree. When a synonym of �
 ** Third**. This ground with corpses of steeds, elephants, king and warriors is made all around visible by the scorching rays of the Sun. Overspread with iron-shafts, spears, arrows, javelins and swords, it seems to bear a number of stars fallen (from the sky). \[12\]  
 ** ईदृश्यामिति। अवस्था –** plight. **क्षत्रिय** - a warrior—क्षतात् त्रायते इति क्षत्रियः. This is an example of irregular formation like पृषोदर or it may be derived from क्षत्र —- क्षत्रस्यापत्यं पुमान् क्षत्रियः; क्षत्र+घ (इय) (क्षत्राद्धः Pāṇ. 4. 1. 138), i. e., son of a warrior or one born of pure war-like race. **विराजन्ते** - वि+ √राज्, ‘look magnificient.'**अविमुक्तशोभा** - अविमुक्ता शोभा येषां ते (बहु०) who have not lost their splendour of grace, i. e., graceful, splendid or bright.  
 ** First.** Even in such a plight warriors, without losing their splendour, look magnificient... For here,
-
-
 
 **वीर्यादित्यविबोधिता रणमुखे नाराचनालोन्नता  
 निष्कम्पा स्थलपद्मिनीव रचिता राज्ञामभीतैर्मुखैः॥१३॥**
@@ -1021,8 +886,6 @@ account it may imply a fan made of the leaves of that tree. When a synonym of �
 
  Thus सत्त्वोद्वर्तित (वर्तित — / वृत् 'to shine'+क्ल) which as an adjective of eyes may signify 'bright by nature' or सत्त्वेन धनुश्वालनादिव्यवसायहेतुना उद्वर्तितानि (उत् + वृत् Caus. ‘to exist' +क्ल); उद्गत्य स्थितानि,i.e., come out on account of exertion experienced at the time of bending bows and wielding other weapons or सत्त्वैः वन्यजन्तुभिः उद्वर्तितानि उद्गमितानि उत्कृत्य बहिरानीतानि, i. e., snatched out by wild beasts and birds like jackals and vultures mentioned in the foregoing stanzas. Other reading for सत्वis
 
-
-
 **———————————————————————————————————————————————————————**
 
 सत्र where **सत्रोद्वर्तित** would signify सत्राद् उद्वर्तितानि, i.e bulged out of eyelids (सत्र-cover, i e., eyelid).
@@ -1032,8 +895,6 @@ account it may imply a fan made of the leaves of that tree. When a synonym of �
 ** ताम्रोष्ठपत्रोत्करा** - ताम्राश्च ते ओष्ठा इति ताम्रोष्टाः (कर्म०).When the ending अ ofa word is followed by ओतु and ओष्ठin a compound, Vrddhi becomes optional (ओत्वोष्ठयोः समासे वा Vār. 1.1.64) and assumes the appearance of the following vowel, i.e 6ओ; hence ताम्रोष्ठ; पत्राणामुत्करः इति पत्रोत्करः (तत्पु०) ताम्रोष्ठा एव पत्रोत्करो यस्यां सा (बहु०). **भ्रूभेदाञ्चितकेसरा** - अञ्चितानि केसराणि इति अञ्चितकेसराणि (कर्म०), भ्रवोः भ्रवां वा भेदः इति भ्रभेदः (तत्पु०), contraction or knitting of the eye-brows; स एवाञ्चितकेसराणि यस्यां सा (बहु०). अञ्चित means 'adorned, graceful and not ‘scattered' as अञ्चेःपूजायाम् (Pāṇ. 7.2.53) enjoins that अञ्च्in the sense of worship does not drop its nasal before weak termination. **स्वमुकुटव्याविद्धसंवर्तिका** - स्वाश्च ते मुकुटा इति स्वमुकुटाः (कर्म०), व्याविद्धाश्च ताः संवर्तिका इति व्याविद्धसंवर्तिकाः (कर्म०), स्वमुकुटा एव व्याविद्धसंवर्तिका यस्यां सा (बहु०). Here स्व refers to the kings slain in battle; व्याविद्ध-वि+आ+/व्यध् 'to pierce' +क्ल‘budded’; संवर्तिका - संवर्तते इति; सम् + /वृत्'to exist' +इन् (=संवर्ति) +कन् (a suffix effecting no change in the meanings of base) + टाप् (feminine affix).  
 ** वीर्यादित्यविबोधिता** - वीर्यमेव आदित्य इति वीर्यादित्यः (कर्म०) तेन विबोधिता (तत्पु०); विबोधित - वि + √बुध् (Caus.)+क्ल. **नाराचनालोन्नता—**नाराचा एव नालाः इति नाराचनालाः (कर्म०) तैः उन्नता (तत्पु०), heightened by the arrow-like stalks; उन्नत - उत् + √ नम्+क्ल. श्रभीतैः —न भीतैः (नञ्), fearless or अभितः इतैः- इतस्ततः पतितैः, scattered all round. **निष्कम्पा** -- कम्पान्निर्गता (devoid of tremour, i. e. motionless or steady). It implies 'the earth'.**रचिता-**it is used in Pass. voice. Its Active form would be— राज्ञामभीतानि मुखानि निःकम्पां सत्त्वाेद्वर्तितनेत्रषट्पदगणां......स्थलपद्मिनीमिव रचितवन्तः।  
  **Trans**. On battlefield, the earth, on account of the fearless faces of kings, appears to have been changed into
-
-
 
 ** द्वितीयः— ईदृशानामपि क्षत्रियाणां मृत्युः प्रभवति। न शक्यं खलु विषमस्थैः पुरुषै राजबलाधानं कर्त्तुम्।—————————————————————————————————————————————**
 
@@ -1055,8 +916,6 @@ a lotus of the land— where swarms of black bees are represented by the natural
 **“बलं गन्धरसे रूपे स्थामनि स्थौल्यसैन्ययोः" इत्यादि मेदिनी**
 
 *  i*.e., myrrh, appearance, power, valour, authority, dignity, bulkiness, army, forces or troops etc., आधानम्–आ+/धा+ ल्युट् (अन); √धा=धारणपोषणयोः दाने च, means 'support, assumption, claim, control, application, implantation etc'. Thus the sentence can be translated as follows:—
-
-
 
 ** तृतीय —किं रे प्रभवति क्षत्रियाणामि  
  प्रथमः — कः संशयः?  
@@ -1090,8 +949,6 @@ a lotus of the land— where swarms of black bees are represented by the natural
 
 ** अन्वयः—अद्य रणमुखे पार्थेन खाण्डवधूमरञ्जितगुणं, संशप्तकोत्सादनं, स्वर्गाक्रन्दहरं, निवातकवचप्राणो- पहारं धनुः स्पृष्ट्वा महेश्वररुणावशिष्टैः शरैः दर्पोत्सिक्तवशाः नृपाः बलात् मृत्योः प्रतिग्राहिताः।**
 
-
-
 **————————————————————————————————————————————— **
 
 ** हिन्दी —**आज ही समरभूमि में अर्जुन ने खाण्डव वन के धुँए से धूसरित हुई ज्यावाले, संशप्तकों (अथवा त्रैगर्तो) का नाश करने वाले और देवताओं का आर्तनाद हग्ने वाले तथा निवातकवच नामक यक्षों के प्राणों की बलि लेने वाले धनुष को ग्रहण कर शिवजी के साथ हुए युद्ध से बचे तीरों के द्वारा गर्वोद्धत राजाओं को बलात् मौत के घाट उतारा है।
@@ -1105,8 +962,6 @@ a lotus of the land— where swarms of black bees are represented by the natural
  Sanśaptakas are said to be the then-rulers of Trigarta countries (modern district of Jullunder) in North-West of India. Arjuna successfully raged a fight against them. The event relating to the slaughter of Sanśaptakas is narrated in Drona Parva of Mahabharata.
 
 ** उत्सादन—**उत्सादयति उत्साद्यतेऽनेन वेति, उत् +सद् 'to go'+ ल्युट् ; Here the change in meanings of the root with उत्is remarkable. **स्वर्गाक्रन्दहरम्—**स्वर्गे यः (देवानाम्) आक्रन्दः तस्य हरम् (तत्पु०) or स्वर्गा-
-
-
 
 **—————————————————————————————————————————————**
 
@@ -1125,8 +980,6 @@ and हर would indicate "destroyer (of demons)"
 ** दर्पोत्सिक्तवशाः—**दर्पश्चोत्सिक्तश्चेति दर्पोत्सिक्ते (द्वन्द्व०) or दर्पस्योत्सिक्तमिति दर्पोत्सिक्तम् (तत्पु०) तयोः तस्य वा वशाः (तत्पु०). ‘In the former case उत्सिक्त means उद्दण्डता 'arrogance' or धृष्टता 'insolence' while in. the latter it signifies 'abundance or excess'. **प्रतिग्राहिताः=**समर्पिताः; प्रति+ग्रह् (Caus.)+कृ. The idea is that Arjuna and not Death has a full control over these warriors.
 
  Metre is शार्दूलविक्रीडित.
-
-
 
 ** सर्वे – अये ! शब्दः।**
 
@@ -1149,8 +1002,6 @@ and हर would indicate "destroyer (of demons)"
 
 ** Glossary.निनन्दन्ति =** उच्चैः शब्दं कुर्वन्ति **—** thunder, roar. **वज्रपतन=** विद्युत्पातः **—** the fall or strike of a thunder-bolt. **चूर्णीकृत =** पिष्टः **—** powdered, crushed. **तुमुलस्वन=**कोलाहलः**—**tumult, war-cry. **प्रतिभय=** भयङ्करः **—**fierce. **निर्घात =** परस्पराघातेन समुत्पन्नो घोरनिर्घोषो वायुः**—**a hurricane or **भूकम्पः—** earth-quake. **दार्यते—**is being rent or torn assunder. **कन्दर—** valley. **उदरम् =** मध्यभागः **—** interior. **दरी=** गुहा **—**a cave. **संहत्य —** having struck, dashed against. **अनिल =** वायुः **–** wind. **अवधूत=**कम्पितः**—**shaken, agitated. **चपल—**tremulous. **क्षुब्ध=**क्षोभं गतः
 
-
-
 **—————————————————————————————————————————————**
 
 lashed into fury. **ऊर्मि=**तरङ्गः**—**a wave, surge,billow. **आकुल—**confused, tumultuous. **मुञ्चति —** produces.
@@ -1161,8 +1012,6 @@ lashed into fury. **ऊर्मि=**तरङ्गः**—**a wave, surge,bil
 प्रचण्डयोरनिर्घोषो निर्घात इति कथ्यते॥**
 
 ** दार्यते—**from √दृ to 'tear' (passive). In Active voice the reading would be -- किं वा तुमुलस्वनप्रतिभया निर्घाता महीं दारयन्ति. **सागरः—**सागरस्यायम् ; सगर+अण् (तस्येदम् Pan. 4. 3. 120);**मन्दर-कन्दरोदरदरीः—**मन्दरस्य (तदाख्यस्य पर्वतस्य) कन्दराणामुदरे याः दर्यः ताः (Acc. pl.), the words कन्दर and दरी though synonyms to each other may denote here 'a valley' and 'cave' respectively to avoid superfluous repetition. Mandara is mountain and according to mythology it was used by the gods and demons as a churning stick when they churned the ocean for_nector. **संहत्य —**सम् + हन् + क्त्वा ; क्त्वा enjoined in this case by समानकर्तृकयोः पूर्वकाले (Pāṇ 3. 4. 21) is substituted by ल्यप् vide समासेऽनञ्पूर्वे क्त्वो ल्यप् (Pāṇ 7. 1. 37). तुक् is inserted by ह्रस्वस्य पिति कृति तुक् (Pāṇ 6. 1. 71) and न् of हन् is dropped vide. अनुदात्तोपदेशवनतितनोत्यादीनाम- नुनासिकलोपो झलि क्ङिति (Pāṇ. 6. 4. 37) ; thus we have सम्+ह+त्(तुक्)+य (ल्यप्), and it is Indec.Past Participle**अनिलावधूतचपलक्षुब्धोर्मिमालाकुलम्—**अनिलेनावधूता अत एव चपलाश्च क्षुब्धाश्चया जर्मयस्तासांमालाभिरा-
-
-
 
 ** भवतु, पश्यामस्तावत्।**
 
@@ -1187,8 +1036,6 @@ lashed into fury. **ऊर्मि=**तरङ्गः**—**a wave, surge,bil
 
 ** अय एतदिति। द्रौपदीकेशघर्षणावमर्षितस्य —** द्रौपद्याः केशानां घर्षणेन अवमर्षितस्य (तत्पु०) qualifies भीमसेनस्य, केश—'hair', it may be taken here in the sense of वेणी (braided hair). संघर्षणम् =(सम्+घृष्+ल्युट्)=आकर्षः–forceful pulling. अवमर्षितः —अवमर्ष+इतच्
 
-
-
 **—————————————————————————————————————————————**
 
 (तदस्य सञ्जातं तारकादिभ्य इतच् Pāṇ. 5. 2. 36) or अव+√मृष्+क्त=जातावमर्षः, क्रुद्धः ‘enraged'. **पाण्डवमध्यमस्य—**पाण्डवेषु मध्यमस्य (तत्पु०), middle-born Pandava; this compound should not be expounded as पाण्डवानां मध्यमस्य as such the composition of constituents will be rendered implausible by न निर्धारणे Pāṇ. 2. 2. 10. It qualifies भीमसेनस्य. **भ्रातृशतवधक्रुद्धस्य—**भ्रातॄणां शतस्य वधेन क्रुद्धस्य (तत्पु०) **महाराजदुर्योधनस्य—**महाराजश्चासौ दुर्योधनस्तस्य (कर्म०), महाराजः-महाँश्चासौ राजा, महत्+राजन्+टच्. 'a sovereign, powerful monarch, an emperor.'
@@ -1202,8 +1049,6 @@ lashed into fury. **ऊर्मि=**तरङ्गः**—**a wave, surge,bil
 ** हलायुधः—**हलमेव आयुधं यस्य सः (बहु०), 'one having plough for his weapon.' This is an epithet of Balarama, the elder brother of Krsna. प्रमुख :—a chief, guardian. **कुरुयदुकुलदैवतानाम्—**कुरुवश्च यदवश्चेति कुरुयदवः (द्वन्द्व०) तेषां कुलस्य दैवतानाम्. **प्रत्यक्षम्—**अक्ष्णोः आभिमुख्ये (अव्ययी०), प्रति+अक्षि+अ (टच्), (प्रतिपरसमनुभ्योऽक्ष्णः Gaṇa. 5. 4. 107), 'before one's eyes or in the presence of’. **गदायुद्धम्** **—**गदया युद्धम् (तत्पु०), 'fight with a mace or club. '
 
 ** First.** Ah! here in the presence of respectable guardians of Kuru and Yadu races, like Vedavyāsa, Balarāma, Kṛṣṇa, Vidura and others, the fight with maces has begun between Bhīmasena—the middle-born Pāṇḍava, breathing fire and fury at the forceful pulling of Draupadi's braided hair-and the powerful monarch Duryodhana, enraged at the death of his hundred brothers.
-
-
 
 **द्वितीयः—**
 
@@ -1221,8 +1066,6 @@ lashed into fury. **ऊर्मि=**तरङ्गः**—**a wave, surge,bil
 ** Glossary. काञ्चनशिला —** a slab of gold. **पीन=** वृद्धिङ्गतः- fully grown, well-developed. **कठिन=** कठोरः—hard,firm.**उरस्=**वक्षस्—chest. **प्रतिस्फालित=**प्रत्याहतः—counterbuffed. **वासवहस्तिन्=** ऐरावतः - Indra's elephant called Airāvata. **हस्त=**शुण्डादण्डः—the trunk of an elephant.**अंसस्थल=** स्कन्धप्रदेशः–shoulder. **भिन्न=** भग्नः – disjointed, broken. **अन्तरतट=**पार्श्ववर्ती भागः-part surrounded by or by the side of **आसज्यमान=**being stuck. **आयुध=** शस्त्रम्–a weapon. **चण्ड=**प्रचण्डः- hard, violent. **अभिघात=**प्रहारः-a blow, clash. **समुत्तिष्ठति=**समुत्पद्यते- springs up, gains intensity.
 
 ** Notes.** **तप्तकाञ्चनशिलापीने—**काञ्चनस्य शिला इति काञ्चनशिला (तत्पु०), तप्ता या काश्चनशिला तद्वत् पीने (कर्म०). **वासवहस्तिहस्तकठिने—**वासवस्य हस्तिनः हस्तः इति वासवहस्तिहस्तः (तत्पु०) तद्वत् कठिने (कर्म०); हस्तिन्-हस्तः अस्ति अस्य इति; हस्त+इन् (हस्ताज्जातौ Pāṇ. 5. 2. 133). **दुर्योधनांसस्थले—**अंसौ स्थलमिवेति अंसस्थलम् (कर्म०) or अंसयोः स्थलम् (तत्पु०) दुर्योधनस्य अंसस्थले (तत्पु०). The addition of words like स्थल and तट after स्कन्ध, अंस, and उरस् generally gives an idea of broadness of those limbs. **अन्योऽन्यस्य—**see p.8**भुजद्वयान्तरतटेषु–**भुजानां द्वयस्य अन्तरतटेषु (तत्पु०), the word अन्तरतट signifies ‘chest, flanks, ribs etc.' **आसज्यमानायुधे–**आसज्यमानम्
-
-
 
 **तृतीयः— एष महाराजः,**
 
@@ -1243,8 +1086,6 @@ lashed into fury. **ऊर्मि=**तरङ्गः**—**a wave, surge,bil
 
 ** Glossary. उत्कम्पन=**उद्धूननम् — tremour. **वल्गमान=**प्रस्खलत्—wavering. **अधिकाक्ष=**उद्गतनेत्रः-with swollen or dilated eyes.
 
-
-
 **————**—**————**—**————**—**————**—**————**—**————**—**————**—**————**—**————**—**————**—**————**—
 
 **स्थानाक्रामण–**assault from one's own place or पदावस्थितेः परिवर्तनम्—change of position, a shift in place. **वामनीकृत=**सङ्कोचित :- drawn in, contracted. **प्रत्यग्र=**नवीनः recent. प्रतिपलम्—every moment, frequently. **उच्छ्रयः=**उन्नमनम्—lifting, raising. **अग्रहस्त =** प्रधानः ( दक्षिणः ) करः – right hand. **रिपु=**शत्रुः—enemy, opponent. **शोणित=**रुधिरम्-blood. **आर्द्र=**क्लिन्न=wet, besmeared. **कलिल=** आवृत—covered. **अग्रशिखर=**उन्नतं शृङ्गम् -- lofty peak, topmost summit. **उद्धूता=**उत्थिता-thrown up. **अशनि=**विद्यत् — lightening, thunderbolt. **भाति=**प्रतीयते looks.
@@ -1258,8 +1099,6 @@ lashed into fury. **ऊर्मि=**तरङ्गः**—**a wave, surge,bil
 Thus प्रत्यग्रम् means 'every moment, 'at intervals'. **अग्रहस्ते—**अग्रश्चासौ हस्तश्चेति तस्मिन् ( कर्म० ), अग्र preferably signifies प्रधान (i. e. chief) or right. Some commentators unmindful of the reference generally expound the compound in a routine way as हस्तस्याग्रम् इति हस्ताग्रम् or अग्रहस्तः. If it be षष्ठीतत्पुरुष, the form would be हस्ताग्रम्. Vamana explains such formations by his Sūtra 'हस्ताग्राग्रहस्तादयो गुणगुणिनोर्भेदाभेदात्'.
 
  But अग्रहस्त · preferably denotes here 'right hand' rather than ‘fore-part of the hand'. **रिपुशोणितार्द्रकलिला**
-
-
 
 **प्रथमः—एष सम्प्रहार-रुधिर-सिक्ताङ्गस्तावद् दृश्यतां पाण्डवः।**
 
@@ -1286,8 +1125,6 @@ Thus प्रत्यग्रम् means 'every moment, 'at intervals'. **�
 
 ** हिन्दी—** भीमसेन के फटे हुए उन्नत मस्तक से रक्त बह रहा है, नगर द्वार
 
-
-
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 के समान विशाल (अथवा हथौड़े के समान दृढ) दोनों कन्धे टूट गए हैं, इस की छाती बहते हुए प्रहार-जनित गाढ़े रुधिर से सनी हुई है, इसके गहरे घाव गदा की चोटों से उत्पन्न रुधिर से लथपथ हो रहे हैं । इस अवस्था में भीमसेन उस मेरु पर्वत के समान दिखाई देता है जिस पर पत्थर धातु-मिश्रित जल की धारा से लिपे हों ।
@@ -1302,8 +1139,6 @@ Thus प्रत्यग्रम् means 'every moment, 'at intervals'. **�
 निश्चलेऽयोघने राशौ^(.............................) । हैमः**
 
 and signifies here (i) पूर्द्वार—city-gate, to show ampleness of shoulder or (2)अयोघन–a mallet, hammer (to indicate strength). Some commentators have taken this word here in the sense of अद्रिशृङ्ग 'summit of a mountain' which is symbolical for height, thus height of shoulders gives an idea of Bhima's huge size. **प्रहाररुधिरैः—**प्रहारैः ( प्रहाराणां वा ) जनितं यद् रुधिरं तैः ( मध्यमपदलोपी तत्पु०); plaral number of रुधिर shows division of blood caused by its flow in different streams. **आर्द्रीकृतोरःस्थलः—**आर्द्रीकृतम् उरःस्थलं यस्य सः(बहु०).**गदाभिघातरुधिरक्लिन्नावगाढवणः—**गदायाः अभिघातैः जनितेन रुधिरेण क्लिन्नाश्च ते अवगाढाश्चेति गदाभिघातरुधिरक्लिन्नावगाढाः
-
-
 
 ** द्वितीयः—**
 
@@ -1325,9 +1160,6 @@ and signifies here (i) पूर्द्वार—city-gate, to show amplenes
 ** अन्वयः—नरपतिःसंशिक्षितः (अस्ति यतः असौ) भीमां गदां क्षिपति, वल्गमानः गर्जति, भुजं शीघ्रं हरति, तस्य कृतं भिनत्ति, चारों गतिं प्रचरति, अभीक्ष्णं प्रहरति ; भीमः तु बलवान् (अस्ति )\।**
 
 ** हिन्दी—**महाराज दुर्योधन ( गदायुद्ध में) बहुत निपुण हैं, क्योंकि वे भयङ्कर  
-
-
-
 
 ** तृतीयः—एष वृकोदरः,**
 
@@ -1352,8 +1184,6 @@ and signifies here (i) पूर्द्वार—city-gate, to show amplenes
 
 ** हिन्दी—**यह भीमसेन जो पर्वत के समान विशाल और युद्ध करने में अद्वितीय था अब सिर के गहरे घावों से बहते हुए रुधिर से भीगे हुए शरीरवाला होकर पृथिवी पर गिरने लगा है, मानो विद्यत् से दग्ध (नष्ट-भ्रष्ट ) पर्वतराज मेरु खनिजों के फटने और बिखर जाने पर जमीन में घसने लगा हो ।
 
-
-
 ——————————————————————————————————————————————————————————————————
 
 ** Glossary.** **धरणिधर =** पर्वतः — a mountain. **निकाश =** तुल्यः, सदृशः, resembling. **संयुग=** सङ्ग्रामः, युद्धम् - fight, battle. **अप्रमेय=अ**द्वितीयः—matchless, peerless. **गुरु=**गम्भीर – deep. **निखात=**गाढो व्रणः-a deep wound, cut, lit. dug in.**स्रस्त=**निर्गत — poured out, ż. e., flowing. **गात्र=**शरीरम् - the body or अङ्गम्-alimb. **वज्र=**(m.n.) अशनि (m.f.) - a thunderbolt, lightning. **दग्ध=**burnt, i.e., smashed, completely destroyed. **शिथिल=**त्रुटितसन्धिः-void of compacture. **विसृत=**पृथग्भूत—diffused, disseminated. धातु-minerel. **हेमकूट —** having golden peaks, i. e., **अद्रि-** a mountain. **मेदिनी =** भूमिः - the earth.
@@ -1361,8 +1191,6 @@ and signifies here (i) पूर्द्वार—city-gate, to show amplenes
 ** Notes.** **धरणिधरनिकाशः-** धरणिधरेण निकाशः ( तत्पु० ), this adjective reflects on Bhima's firmness in fight or capability of enduring his enemy's blows. धरणिधरः—धरणेः धरः (√धृ ‘to hold’+अच्), **धराणी—**धरति धारयति वा विविधानि मनुष्य पशुवृक्षादिवस्तूनीति (√धृ‘to hold, support' +अनि) ‘the earth'; धरणी is also correct. निकाशः - नितरां काशते; नि+√काश् ' to shine+घञ् ‘similar’. **अप्रमेय=**न प्रमेयः (नञ्), प्रमेयः-प्रमातुं योग्यः; प्र+√मा ‘to compare with ' +यत्, insertion of ई before यत् is also admissible ( ईद्यति Pap. 6.4.65 ). Other formations of the type are हेय, देय, पेय and गेय etc. **एष वृकेादरः -** this, as shown in the prose-order, has been taken with this verse.
 
 ** गुरुनिखातस्रस्तरक्लार्द्रगात्रः-** गुरुभ्यो निखातेभ्यः स्रस्तमिति गुरुनिखात-सस्तम् (तत्पु० ) तादृशं रक्तमिति गुरुनिखातस्रस्तरक्तम् ( कर्म० ; तेन श्रर्द्राणि गात्राणि (शरीराङ्गानि ‘limbs' ) आर्द्रं गात्रं ( शरीरम् ‘the body' ) वा यस्य सः ( बहु० ); the word शिरसि foregoing to this compound would have been found a component part of it, but separate usages are permissible where connection of such parts can be followed easily. **निखात -** नि + √खन् to dig ' +क्त. The addition of P. P. Prtc. here has the sense of an abstract noun and thus it indicates a deep wound.'**वज्रदग्धः-** बज्रेण दग्धः ( तत्पु० ); दग्ध ( √ दह् ' to burn'' +क्त). Literally दग्ध means ' burnt ' but secondarily it signifies ध्वस्त 'completly destroyed' : or भस्मसात्कृत 'reduced to ashes'. **शिथिलविसृतधातुः=**शिथिलाः अत एव विसृताः धतिवः (गैरिकादयः
-
-
 
 **एष गाढप्रहारशिथिलीकृताङ्गं निपतन्तं भीमसेनं दृष्ट्व—**  
 **एकाग्राङ्गुलिधारितोन्नतमुखो व्यासः स्थितो विस्मितः**
@@ -1387,8 +1215,6 @@ and signifies here (i) पूर्द्वार—city-gate, to show amplenes
 
 ** अन्वयः—व्यासः एकाग्राङ्गुलिधारितोन्नतमुखः विस्मितः स्थितः, युधिष्ठिरः अत्र दैन्यं याति, विदुरः बाष्पाकुलाक्षः स्थितः, अर्जुनेन गाण्डिवं स्पृष्टम्, कृष्णः गगनं समुद्वीक्षते, रणप्रेक्षकः रामः शिष्यप्रीतितया हलं भ्रमयते ।**
 
-
-
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ** हिन्दी—**विचारमग्न व्यास जी अंगुलि से मुँह को थामे और मुँह को ऊँचा किए विस्मित खड़े हैं । युधिष्ठिर निराश हो रहे हैं। विदुर जी की आँखें आँसुओं से डबडबा रही हैं। अर्जुन ने ( मारे क्रोध के ) गाण्डीव को उठा लिया है। श्रीकृष्ण आकाश की ओर ऊपर देख रहे हैं और युद्ध को देखकर बलराम जी शिष्य ( = दुर्योधन) पर प्रसन्न होकर हल को घुमा रहे हैं।
@@ -1403,8 +1229,6 @@ Its meaning would be as follows—
 ** विस्मित-** Bhīma, being stouter than Duryodhana, was expected to get the better of his opponent, but the result being contrary, Vyāsa's hopes were frustrated. Failure on the part of Bhīma excited a sense of wonder in him. **दैन्यम्=**दीनस्य भावः ( दीन+ध्यञ् ). **बाष्पाकुलाक्षः=**बाष्पैः आकुले इति बाष्पाकुले ( तत्पु० ) तादृशी अक्षिणी यस्य सः. It shows how much was Vidura moved to see Bhīma's miserable condition. **स्पृष्ट-**√स्पृश् ' to touch ' +क्त. Arjuna's taking bow in his hands exhibits excitement of wrath.
 
 ** रणप्रेक्षकः=**रणस्य प्रेक्षकः ( तत्पु० ). प्रेक्षकः - प्रेक्षते इति; प्र + √ ईक्ष्
-
-
 
 **प्रथमः—एष महराजः**
 
@@ -1430,8 +1254,6 @@ out of love for his pupil ( i. e. Duryodhana ) is brandishing the plough. \[**21
 
 ** Notes. वीर्यालयः-**वीर्यस्य आलयः ( तत्पु० ). वीर्यम्-वीरे साधुः; वीर
 
-
-
 ** द्वितीयः—एष इदानीमुपहस्यमानं भीमसेनं दृष्ट्वा स्वमूरुमभिहत्य कामपि सञ्ज्ञां प्रयच्छति जनार्दनः।**
 
 ** तृतीयः—एष सञ्ज्ञया समाश्वासितो मारुतिः।**
@@ -1456,8 +1278,6 @@ Metre is **वसन्ततिलका.**
 "भीमसेनः" इति जटाधरः ।**
 
  In Mbh. I *123* Kunti invokes Vayu (= Māruta) who begot
-
-
 
 **संहृत्य भ्रुकुटी ललाटविवरे स्वेदं करेणाक्षिपन्  
 बाहुभ्यां प्रतिगृह्य भीमवदनश्चित्राङ्गदां स्वां गदाम्।  
@@ -1485,8 +1305,6 @@ Bhimasena on her. Cf.
 
 ** Glossary.** **भीम=**भयङ्करः - formidable **वदन=** मुखमण्डलम् -face. **सिंहवृष=**सिंहश्रेष्ठः-a lion best of its kind. **ईक्षणम्**-चक्षुः—an eye. **भ्रुकुटि=**knitting of the eye-brows, afrown. **संहृत्य** -having gathered. **ललाटविवर =** मस्तकगर्ते-a cavity of the forehead. **स्वेद=**निदाघः-sweat, perspiration. **आक्षिपन्** अपनयन्,प्रोञ्छन्—throwing off ( i. e. wiping away ). **प्रतिगृह्य =** गृहीत्वा-holding, catching. **दीन-** निस्सहायः - helpless, or आपन्नः- distressed, prostrate. **उदीक्ष्य**-दृष्ट्वा - having seen. **सर्वगति=**वायुः- the god Wind. **भूयः=**पुनः पुनः over and anon. **समुत्तिष्ठति =**
 
-
-
 **प्रथमः— हन्त पुनः प्रवृत्तं गदायुद्धम्। अनेन हि—**
 
 **—————————————————————————————————————————————————————————**
@@ -1510,9 +1328,6 @@ Metre is शार्दूलविक्रीडित**.**
 
 ** First.** Oh, the duel with maces has begun again.  
 
-
-
-
 **भूमौ पाणितले निघृष्य तरसा बाहू प्रमृज्याधिक  
 सन्दष्टोष्ठपुटेन विक्रमवलात् क्रोधाधिकं गर्जता।  
 त्यक्त्वा धर्मघृणां विहाय समयं कृष्णस्य सञ्ज्ञासमं  
@@ -1529,8 +1344,6 @@ Metre is शार्दूलविक्रीडित**.**
 ** Notes. विक्रमबलात् -** विक्रमस्य बलात् ( तत्पु० ) when taken with सन्दष्टोष्ठपुटेन, विक्रम may indicate 'striding', but when taken with गर्जताit will denote 'heroism'; thus in the latter case विक्रमवलात्will signify on the strength of his heroism.' This expression may, however, be interpreted as—विक्रमस्य विना पक्षिणा (गरुडेण) क्रमते गच्छति ( Viṣṇu having Garuḍa for his conveyance or Krsna.' इति तस्य. **सन्दष्टोष्ठपुटेन=**ओष्ठौ पुटमिव or ओष्ठौ एव पुटम् इति ओष्ठपुटम् (कर्म०) सन्दष्टम् ओष्ठपुटं येन तेन (बहु0). सन्दष्ट-सम् + √दंश् ' to bite '+क्त; पुट-'a cavity'.
 
 ** क्रोधाधिकम्=**क्रोधेन अधिकं यथा स्यात्तथा ( तत्पु० ). पाण्डुतनयेन**=**
-
-
 
 ** सर्वे—हा! धिक्! पतितो महाराजः।**
 
@@ -1552,8 +1365,6 @@ Bhima's conduct is considered to be reproachful by some. **सञ्ज्ञा
  **Trans.** The son of Pāṇḍu, due to the force exerted in striding, bites his lips and loudly roars with rage, rubs his both palms energetically on the ground and effectually strokes his arms, disregarding indulgence dictated by righteousness and violating the well-established canons (of war ) he hurls his mace on Duryodhana's thighs forth-with on Kṛṣṇa's making the sign.**\[24\]**
 
 ** हेति। पतित–**√पत् to fall' + क्तmeans 'fallen, i.ekilled'.
-
-
 
 **हेला संवृत लोचनेन हलिना नेत्रोपरोधः कृतो  
 दृष्ट्वा क्रोध निमीलितं हलधरं दुर्योधनापेक्षया।  
@@ -1578,8 +1389,6 @@ Bhima's conduct is considered to be reproachful by some. **सञ्ज्ञा
 
  **Notes. हेलासंर्वृतलोचनेन -** हेलया (अवज्ञया) संवृते इति हेला संवृते (तत्पु० )
 
-
-
 ** प्रथमः— अयमप्यमर्षोन्मीलितलोचनो भीमसेनापक्रमणमुद्वीक्षमाण इत एवाभिवर्त्तते भगवान् हलायुधः। य एषः—**
 
 —————————————————————————————————————————————————————————
@@ -1589,8 +1398,6 @@ Bhima's conduct is considered to be reproachful by some. **सञ्ज्ञा
  Metre is शार्दूलविक्रीडित.
 
 ** Trans.** Balarāma's eyes, being full of (i.e. indicative of) insult, have stopped winking. Seeing that Balarāma has closed his eyes in anger on Duryodhana's behalf, the Pāṇḍavas are flurried with fear. As instructed by Vyāsa, they carry away Bhīma in their cage-like. hands enlaced and supported by Kṛṣṇa's hands while stepping. **\[25\]**
-
-
 
 **प्रचल-ललित-मौलिः क्रोध-ताम्रायताक्षी  
 भ्रमर-मुख विदष्टां किञ्चिदुत्कृष्य मालाम्।  
@@ -1609,8 +1416,6 @@ Bhima's conduct is considered to be reproachful by some. **सञ्ज्ञा
 
 ** Glossary.** **प्रचल=**चञ्चलः-wavering. **ललित=**सुन्दरः-graceful, lovely. **मौलिः=**संयताः केशाः-lock of hair or मुकुटम् - crest. **ताम्र=**रक्लवर्णम्-(adj.)red. **आयत =** दीर्घम् - swollen, dilated. **विदष्ट=**पीतरसा ( lit. bitten )—that which is sucked of its juice, or विध्वस्ता-destroyed. **उत्कृष्य =** उच्चैः कर्षयित्वा - having raised or drawn up. **असित=**कृष्णवर्णम्- black colour. **तनुः=**शरीरम् —the body, or **तनु=**विरलम्-loose or अल्पम् a little: **विलम्बिन् =** लम्बमानम्- hanging or spread over. **स्त्रस्त=**पतितम् - falling, slipping.**अनुकर्षिन्=**आकुश्चन्-dragging along. **अवतीर्ण-**अवतीर्ण-come down,
 
-
-
 ——————————————————————————————————————————————————————————————————
 
 descended. पारिवेषिन् = मेघानृतः - wrapped in clouds or मण्डलाङ्कृतः
@@ -1621,8 +1426,6 @@ descended. पारिवेषिन् = मेघानृतः - wrapped i
 Metre is मालिनी.
 
 **Trans.** His crest is wavering and therefore looks lovely. He raises a little His eyes are red and dilated with anger. his garland sucked of its juice by blackebees with their
-
-
 
 ** द्वितीयः —तदागम्यतां वयमपि तावन्महाराजस्य प्रत्यनन्तरीभवामः।**
 
@@ -1649,8 +1452,6 @@ End of Interlude.
 
 **—————**
 
-
-
 (ततः प्रविशति वलदेवः)
 
 ** बलदेवः— भो भोः पार्थिवाः! न युक्तमिदम्—**
@@ -1674,8 +1475,6 @@ End of Interlude.
 ** Glossary.** **रिपु =**शत्रुः-an enemy. **बल =** सामर्थ्यम् — strength or सेना-army, force. **काल =** मृत्युः-death or कृतान्तः- the god of death. **लाङ्गल=**हलम्—plough. **लङ्घयित्वा=**अतिक्रम्य — having transgressed, i. e., अनादृत्य - having disregarded. **अतिसन्धि=**निष्पक्षपातः—impartial. **दर्प=**गर्वः—arrogance. **अवेक्ष्य=**दृष्ट्वा taking notice of **विनय=**समयोचितः श्राचारः, शिष्टाचारः-discipline. **समृद्धि=**सम्पत् — affluence, i. e., supremaoy.
 
 ** Notes. रिपुबलकालम् —** रिपूणां बलमिति रिपुबलम् ( तत्पु० ) तस्य कालः or काल इवेति तम्. It qualifies **'लाङ्गलम्'. रणगतम्-**रणं गतः इति तम् ( तत्पु० ). **अतिसन्धिम् —** सन्धिमतीत्य वर्तते इति तम् ( प्रादि० ) or अधिकः सन्धिः यस्य तम् ( तत्पु० ). सम् + धा 'to bear' + कि ( उपसग घोः किः Pan. 3. 3. 92 ). In the first case the compound shows Balarama's being above prepossession or his being neutral as a spectator of the contest. Here, af has been taken in the sense of ‘undue attachment to any party'. In the second case
-
-
 
 ** भो दुर्योधन! मुहूर्त्त तावदात्मा धार्यताम्।**
 
@@ -1701,8 +1500,6 @@ End of Interlude.
 
 ** हिन्दी—**अहा! आज जब तक कि मैं सौभ के द्वार को तोड़ने वाले, शाल्वपुरी की चार-दीवारी को अचल अङ्कुश के समान फोड़ने वाले, यमुना के जल-
 
-
-
 ——————————————————————————————————————————————————————————————————
 
 प्रवाह को मोड़ने वाले तथा शत्रु सेना के प्राणों की भेंट से सत्कृत हल को भीम के रुधिर तथा पसीने रूपी काढे से भरपूर विशाल वक्षःस्थल पर फेंक कर उस पर क्यारियाँ तैयार करता हूँ (अर्थात् उसे चीर देता हूँ)।
@@ -1718,8 +1515,6 @@ End of Interlude.
 ** महासुरपुरप्राकारकूटाङ्कुशम्–**कूटः ('निश्चलेऽयोघने' See p. 46)चासौ अङ्कुशः इति कूटाङ्कुशः (कर्म०) ;महासुरस्य यत्पुरं तस्य प्राकारस्य कूटाङ्कुश इवेति तम् ( तत्पु० ). **महासुर —** It refers to the king of Śalvas and reminds us of the mythological allusions occurring in Bhāgavata Purāpa. It is said that once there raged a war between the Salvas and the Vṛṣṇis. Balarāma killed Śalva and brought about a complete destruction of his capital by means of his plough.
 
 ** कालिन्दीजलदेशिकम् —–** कालिन्द्याः जलस्य देशिकम् कालिन्दी — कलिन्दादागता प्रसूता वा (come or sprung from the so called mountain Kalinda ); कलिन्द+अण् ( तत आगतः Pān. 4. 3.74 or प्रभवति
-
-
 
 (नेपथ्ये)
 
@@ -1749,8 +1544,6 @@ Paņ. 4. 3. 83 )+ङीप् **देशिक –** देशे उपदे�
 
 ** अन्वयः—श्रीमान् संयुगचन्दनेन रुधिरेण आर्द्रानुलिप्तच्छविः भूसंसर्पण-**
 
-
-
 ——————————————————————————————————————————————————————————————————
 
 **रेणुपाटलभुजः बालव्रतं ग्राहितः ( एषः ) अमृतमन्थने निर्वृत्ते सासुरैः सुरैः क्षितिधरात् मुक्तः श्रान्तोज्झितः अर्णवजले भोगम् आकर्षन् वासुकिः इव ( दृश्यते ) ।**
@@ -1760,8 +1553,6 @@ Paņ. 4. 3. 83 )+ङीप् **देशिक –** देशे उपदे�
  **Glossary. श्रीमत् =**शोभायुक्त-glorious, majestic. **संयुग=**युद्धम्—battle, battlefield. **चन्दन=**sandal paste. **अनुलिप्त=**उपदिग्धः-covered.**समसर्पण=**रिङ्खणम्- creeping,crawling**.रेणु=**धूलिः- dust. **पाटल=** धूमरित :- red-pale. **बालव्रत =** बालचेष्टा- role of an infant. **ग्राहित=**प्रापितः - made to assume. **निर्वृत्त=** समाप्त-completed. **क्षितिधर=**पर्वतः - a mountain. **श्रान्तोज्झित=** श्रमाय समर्पितः—given to fatigue or weary. **अर्णव=**समुद्रः - ocean. **भोग=**सर्पशरीरम् - the body of a serpant or फणः- the hood of a serpant. **आकर्षन्=** शनैः शनैः आददानः - slothfully dragging. **वासुकि=**सर्पराजः—the celebrated king of serpants.
 
  **Notes.** **श्रीमान्-**श्रीरस्यास्तीति, श्री+मतुप्. The word is often used as a respectful affix to celebrated or revered names of persons or things. **संयुगचन्दनेन –** संयुगस्य संयुगे वा चन्दनम् इवेति तेन (तत्पु ). It stands in apposition to रुधिरेण, consequently— रुधिर' has been taken identical with चन्दन. **आर्द्रानुलिप्तच्छविः -**आर्द्रा च अनुलिप्ता च छविः यस्य सः ( बहु० ), छवि here stands for 'lustrous complexion.' **भूसंसर्पणरेणुपाटलभुजः -** रेणुवत्पाद इति रेणुपाटला ( कर्म • ) भुवि संसर्पणेन रेणुपाटलाविति भूसंसर्पणरेणुपाटली (तत्पु० ) तादृशौ भुजौ यस्य सः ( बहु० ). **अमृतमन्थने -** अमृतस्य मन्थने ( तत्पु०) It is said that once the gods and demons contrived a plan to take out nectar (अमृत), the so called food of the gods, from the ocean. In doing so they made Mandara mountain the churning pole and Vasuki (the celebrated king of serpants) the churning rope. Thus अमृत is supposed to be churned out of the ocean. As a diet it is believed to have
-
-
 
 ——————————————————————————————————————————————————————————————————
 
@@ -1775,8 +1566,6 @@ made the gods immortal. अमृत - अविद्यमानं मृत�
  Metre is शार्दूलविक्रीडित.
 
 ** Trans.** His highness the king's lustrous complexion is wet and covered with blood, the sandle-paste of battle. His arms are rendered red-pale with dust on account of constant creeping on the ground and thus he has been made to assume, as it were, the role of an infant. He looks like Vasuki set free from the (Mandara) mountain by gods and demons when the ambrosial churning was complete; dog-tired it slothfully drags its body in the ocean waters. **\[29\]**
-
-
 
 (ततः प्रविशति भमोरुयुगलो दुर्योधनः)
 
@@ -1809,8 +1598,6 @@ made the gods immortal. अमृत - अविद्यमानं मृत�
 
 ** गदानिपातक्षतजर्जरोरुः —**गदायाः निपातेन चतौ जर्जरौ चेति गदानिपातक्षतजर्जरौ ( तत्पु० ), तादृशौ ऊरू यस्य सः ( बहु० ). It qualifies अहम्. **परिकृष्यमाणम् -** परि + √ कृष् 'to drag' + यक् ( a passive affix ) + मुक् + शानच् ( आन ), acc. sing. **अर्धोपरतम् -** अर्धमुपरतं यस्य तम् ( बहु० ) ; **उपरत —** उप् + √रम् 'to play' +क्त., The change in the meaning of the root रम् with prefixes उपand वि
 
-
-
 **प्रसीदतु प्रसीदतु भगवान् हलायुधः।**
 
 **त्वत्पादयोर्निपतितं पतितस्य भूमा-  
@@ -1838,8 +1625,6 @@ is remarkable. The expression अर्थोपरतrefers to the lower half o
 
 ** निवापमेघाः—**निवापस्य मेघाः इव ( तत्पु० ), निवाप–नि + वप् 'to
 
-
-
 ———————————————————————————————————————————————————————————————
 
 sow'+घञ्. It denotes the act of showering water with the right hand (as at the time of ablutions) as an offering to the deceased ancestors called Pitaras or manes. The whole compound, however, expresses the idea that the Pāṇḍavas will prove generous like clouds in offering plentiful of watery oblations to their manes and thereby they will prevent them from being sent into hell. Besides this, they will save Duryodhana, the primitive cause of the destruction of the Kuru race, from the throes of infernal regions. This reminds us of Arjuna's similar ideas in Gītā:—
@@ -1860,8 +1645,6 @@ sow'+घञ्. It denotes the act of showering water with the right hand (as at
  Metre is वसन्ततिलका.
 
 ** Trans.** I have fallen on the earth and this head of mine lies prostrate at your feet. First of all, set aside your anger today and let the Pāṇḍavas live and they will serve like clouds in offering libations of water to (the manes of the Kuru race. Our animosity, and talk about, war are over and we ourselves have perished. **\[31\]**
-
-
 
 **बलदेवः—भो दुर्योधन! मुहूर्त्त तावदात्मा धार्यताम्।**
 
@@ -1890,8 +1673,6 @@ sow'+घञ्. It denotes the act of showering water with the right hand (as at
 
 **Notes. आक्षिप्तलाङ्गलमुखोल्लिखितैः** – आक्षिप्तस्य लाङ्गलस्य मुखेन उल्लिखितैः (तत्पु० ). It qualifies शरीरैः- the use of the Instrumental indicates characterisation (उपलक्षण) (इत्थम्भूतलक्षणे Pāp 2.3.21). **मुसलप्रहारैः –** मुसत्त्रस्य प्रहारैः ( तत्पु० ). **निर्दारितांसहृदयान्-** अंसाश्च हृदयानि चेति अंसहृदयानि ( द्वन्द्व ०) निर्दारितानि अंसहृदयानि येषां तान् (बहु०) ; निर्दारितानि—निश्शेषेण ( completely ) दारितानि ( torn ), निः + √दृ + णि ( causal affx ) + क्त. हृदय—It denotes उरस् (chest) or बुक्का (heart) ( उरस्यपि च वुक्कायां हृदयं मानसेऽपि च- Trikāṇdseṣa) and may be taken in either sense. **स्वार्गनुयात्रपुरुषान् —**स्वर्गेनुयात्रा (अनुगमन ' following' ) अस्ति येषां स्वर्गानुयात्रा ( बहु० ) तादृशः पुरुषा येषां तान् (बहु० ). पुरुष denotes here
 
-
-
 ————————————————————————————————————————————————————————————————
 
 'one's own men, relatives or allies'. **सरथाश्वनागान्–**रथाश्च अश्वाश्च नागाश्चेति तत् रथाश्वनागम् (द्वन्द्वश्च प्राणि० see p. 25. ) तेन सहितान् (बहु०).**\*** **संयुगहतान् –**संयुगे हतान् (तत्पु० ). P. prtc. क्तin हत has been used in the sense of future pass. prtc. Thus, संयुगहतान् signifies संयुगे हनिष्यमाणान् संयुग refers to the fight proposed to be raged by Balarama. **तव–**The use of the Gen. appears to be ungrammatical as the root दा or the roots synonymous to it ought to govern the Dat. of the indirect object as enjoined by चतुर्थी सम्प्रदाने (Pāṇ. 2. 3. 13). It may, however, be pointed out that the roots signifying 'to give' have occasionally been used by various authors with the Gen. or the Loc., eg., (i) दर्पोत्सिक्तवशा नृपारणमुखे **मृत्योः** प्रतिग्राहिताः (ii) राज्यं शिवीनां वृद्धं वै ददामि **तव** खेचर (iii) यस्त्वं **रामे** पृथिवीं दातुमिच्छसि.
@@ -1909,8 +1690,6 @@ sow'+घञ्. It denotes the act of showering water with the right hand (as at
 ** आक्षिप्तलाङ्गलमुखोल्लिखितैः शरीरैः (उपलक्षितान् ) मुसलप्रहारैः निर्दारितांसहृदयान् पाण्डुपुत्रान् तव संयुगहतान् संरथाश्वनागान् स्वर्गानुयात्रपुरुषान् दास्यामि ।**
 
  "To thy warriors slain in battle with chariots, elephants and horses and faring to heaven, I will give the sons of Pandu, their bodies furrowed by my ploughshare hurled upon them, their hearts and shoulders torn by pestle blows."
-
-
 
 **दुर्योधनः – मा मा भवानेवम् ।**
 
@@ -1932,8 +1711,6 @@ sow'+घञ्. It denotes the act of showering water with the right hand (as at
 Metre is **अनुष्टुप्.**
 
 **Trans.** Bhima has fulfilled his promise, my hundred brothers have gone to heaven and I am reduced to this plight. O Balarama! What can war bring about? **\[33\]**
-
-
 
 **बलदेवः—प्रत्यक्षं वश्चितो भवानित्युत्पन्नो मे रोषः।**
 
@@ -1966,8 +1743,6 @@ Metre is **अनुष्टुप्.**
 
 ** हिन्दी –** भीम उस लाक्षा-गृह से, जो धधकती हुई आग के कारण भयानक प्रतीत होता था, चतुरतापूर्वक बच निकला, उसने (गन्धर्वो के साथ) युद्ध में कुबेर के स्थान (गन्धमादन नामक पर्वत) पर पहाड़ी पत्थरों की जोर से बौछार की और राक्षसराज हिडिम्ब के प्राणों को हर लिया; यदि तुम यह समझते हो कि
 
-
-
 ————————————————————————————————————————————————————————————————
 
 आज उसी भीम ने मुझे इस प्रकार छल के द्वारा जीत लिया है तो मैं परास्त ही नहीं हुआ ।
@@ -1980,8 +1755,6 @@ Metre is **अनुष्टुप्.**
 
 ** युद्धे –** It refers to Bhima's fight with Gandharvas when
 
-
-
 ——————————————————————————————————————————————————————————————————
 
 the former compelled by Draupadi went to Gandhamādana to fetch saugandhika, probably white water-lily or a fragrant grass. **अचलशिलावेगप्रतीसारिणा—**अचलस्य शिलाः इति अचल शिलाः (तत्पु०), वेगेन प्रतीसारिणेति वेगप्रतीसारिणा, (तत्पु० ) अचलशिलानां वेगप्रतीसारिणा (तत्पु०). **प्रतीसारिन् —**प्रतीसारः (throw in opposite direction ) अस्ति अस्येति; प्रतीसार +इन् (अत इनिठनौ Pan. 5. 2. 115 ). प्रतीसार - प्रति + √सृ 'to move' + घञ्; as the इ of प्रति is elongated ( उपसर्गस्य घञ्यमनुष्ये बहुलम् Pan. 6. 3. 122 ). The word प्रतीसारिन् may not be derived as प्रतिसारयति or प्रतिसारयितुं शीलमस्येति सः because in that case the elongation of इ, which is admissible when घञ् follows the root, will be impossible. **हिडिम्बराक्षसपतिः पतिप्राणप्रतिग्राहिणा—**राक्षसानां पतिः (तत्पु०), हिडिम्बश्वासौ राक्षसपतिश्चेति हिडिम्बराक्षसपतिः (कर्म० ) तस्य प्राणानां प्रतिग्राहिणा (तत्पु०); हिडिम्ब—the name of a monstrous demon who was slain by Bhima. Former's sister is said to have married the latter **प्रतिग्राहिन्—**प्रतिग्रहीतुं शीलमस्येति ( प्रति +√ग्रह् ‘to take' + णिनि ). All the foregoing adjectives qualifying Bhima have been purposely inserted and are descriptive of his heroic feats. **छलजितम्
@@ -1992,8 +1765,6 @@ the former compelled by Draupadi went to Gandhamādana to fetch saugandhika, pro
  Metre is शार्दूलविक्रीडित.
 
 ** Trans.** Balarama, I have not at all been discomfited to-day, if you think that I have in this way been trickishly conquered by Bhima who took away the life of (i. e. killed) Hidimba, the lord of demons, wisely compassed his own
-
-
 
 **बलदेवः —भीमसेन इदानीं तव युद्धवञ्चनामुत्पाद्य स्थास्यति?**
 
@@ -2032,8 +1803,6 @@ rescue from a house which was built of lac and was rendered formidable on accoun
 
 ** Glossary. पारिजातकतरु-**celestial tree. **मान=**प्रतिष्ठा–
 
-
-
 —————————————————————————————————————————————————————————————————
 
 glory or चित्तसमुन्नतिः self-pride. **तुल्यम् =**सह—with. **हृत=**बलाद् ,गृहीतः-despoiled, or चोरितः-stolen. **लीलया =** विलासपूर्वकम् - playfully, joyfully. **हरि=**केशवः - Lord Krsna. **तीव्र=**तीक्ष्णः-sharp. **निर्व्याज =** निश्छलम् - free from tricks, i. e., fair. **प्रतिग्राहित=**समर्पितः - given over.
@@ -2046,9 +1815,6 @@ glory or चित्तसमुन्नतिः self-pride. **तुल्�
  It is said to have been produced at the churning of the ocean and come into the possession of Indra from whom it was wrested by Kṛṣṇa and planted in the pleasure garden of his beloved Satyabhāmā. **तुल्यम् =** तुलया परिमितम्, measured in the balance, i. e., equal ( तुला + यत् ). Generally this word forms an adjective to denote 'equal, like or resembling' and is used with the Gen. or Inst. ( तुल्यार्थैरतुलोपमाभ्यां तृतीयाऽन्यतरस्याम् Paņ. 2. 3. 72 ); but here it is used as an Indc. and expresses the sense of समम् or सह i. e., together with. In this sense it is rarely used. We would, therefore, prefer the reading ‘येनेन्द्रस्य स पारिजातकतरुर्मानेन तुल्यो हृतः '. **हृतः -** हृ 'to steal or deprive of'+क्त; when taken with तरुit would express 'deprived of, despoiled' but with मानwould imply 'humiliation'. **सः-**Though a pronoun it is used here as an adj. qualifying पारिजातकतरुः (a celestial tree) and signifies popularity of the same, hence सः=प्रसिद्धः. **दिव्यम् —**दिवि भवम्, दिव्+यत् ( द्युप्रागपागुदक्प्रतीचो यत् Pan. 4. 2. 101 ). **वर्षसहस्रम्—**वर्षाणां सहस्रम् (तत्पु०).
 
 ** अर्णवजले—**अर्णवस्य जले (तत्पु० ). **सुप्तः –** It does not express actual sleep but implies the state of inactivity enjoyed by the Supreme Soul after universal destruction. **सहसा —** Indc. means 'suddenly or precipitately'; सहसेत्या-  
-
-
-
 
 ( नेपथ्ये )
 
@@ -2069,8 +1835,6 @@ Metre is **शार्दूलविक्रीडित.**
 (Behind the curtain )
 
 ** अय इति । अत्रभवान् —** his honour etc.' (तत्रभवान्पूज्यस्तथैवात्रभवानपि Yādava). **गान्धार्या —**" सह" may be supplied after it to make the sense clear. **गान्धारी —** (f.) गान्धारदेशस्य राज्ञोऽपत्यं पुमान् गान्धारिः, गान्धार + इञ् (अत इञ्Pan. 4. 1. 95 ) स्त्री चेद् गान्धारी गान्धारि+ङीष् (इतो मनुष्यजातेः Paņ. 4. 1. 65). Gāndhārī was the daughter of Subala, king of the Gandharas. **दूर्जय-** It is the name of Duryodhana's son. **आदेशितमागः -** आदेशितः मार्गों यस्य सः (बहु०). It qualifies 'धृतराष्ट्रः'. आदेशित आ + √दिश् 'to grant'+णिच्+क्त; 'The causal affix (णिच्) is not used in the causal sense. It is occasionally employed to denote the meaning of the root (स्वार्थे णिच् ) itself. Thus **आदेशित =** आदिष्ट.**अन्तःपुरानुबन्धः–**अन्तःपुरमनुबन्धो यस्य सः (बहु० ); **अन्तःपुरम् =** अवरोधनम् -
-
-
 
 **वीर्याकरः सुत शत-प्रविभक्त चक्षु -  
 र्दर्पोद्धतः कनक यूप विलम्ब बाहुः।  
@@ -2099,8 +1863,6 @@ harem; **अनुबन्धः–**अनुबध्यते इति ; �
  **Glossary. वीर्याकर -**mine of valour, valorous. **प्रविभक्त-** divided. **उद्धत**-haughty, puffed up with. **कनक =** स्वर्णम् - gold. **यूप=**यज्ञस्तम्भः-sacrificial post. **विलम्ब -** दीर्घः - long. **त्रिदिवः =**स्वर्गः- heaven. **शङ्का =**सन्देहः-doubt or भयम्-fear **अराति=**शत्रुः i.e. शत्रुवदुःखदायकः - malicious: **तिमिर=**तमः-darkness. **अञ्जलि —**handful. **ध्रुवम्=**as it were. **सृष्ट=** रचितः-created.  
 .
 
-
-
 ———————————————————————————————————————————————————————————————————
 
 **Notes—वीर्याकरः—** वीर्यस्य श्राकरः ( तत्पु० ). **सुतशतप्रविभक्तचक्षुः
@@ -2114,8 +1876,6 @@ harem; **अनुबन्धः–**अनुबध्यते इति ; �
  Metre is वसन्ततिलका.
 
 ** Trans.** He is a mine of valour. His vision is divided as it were, amongst his hundred sons. He is puffed up
-
-
 
 ( ततः प्रविशति धृतराष्ट्रो गान्धारी देव्यौ दुर्जयश्च )
 
@@ -2154,8 +1914,6 @@ with self-pride. His arms are long like sacrificial posts made of gold. The gods
 
 ** Notes.** **वञ्चनानिहतम्–**वञ्चनया निहृतम् (तत्पु० ). **मुखम् -** second- arily it signifies 'eyes' as the whole occasionally indicates a part. **अन्तर्गतास्राक्षम् —** अन्तर्गतानि अस्त्राणि ययोस्ते अन्तर्गतास्रे ( बहु• ) तादृशी अक्षिणी यस्य तत् ( बहु० ). It qualifies मुखम्. The affix टच् 'has' been added to अक्षिन् the last member of
 
-
-
 ** गनधारि! किं धर से?**
 
 ** गान्धारी—** जीवाविद ह्मिमन्दभाआ। **\[जीवितास्मि मन्दभागा।\] .**
@@ -2193,8 +1951,6 @@ this Bahu. compound. अस्त्र also means 'corners', i.e, an eyecorner.
 
 ** हिन्दी –** पहले तो मुझे गदा प्रहार से उत्पन्न पीड़ा न जान पड़ी थी परन्तु अब म उस अनुभव करने लगा हूँ, क्योंकि रनिवास में रहने वाली मेरी स्त्रियाँ
 
-
-
 ** धृतराष्ट्रः— गान्धारि! किं दृश्यते दुर्योधननामधेयः कुलमानी?**
 
 ** गान्धारी—** महाराअ! ण दिस्सदि। **\[महाराज! न दृश्यते।\]**
@@ -2219,8 +1975,6 @@ this Bahu. compound. अस्त्र also means 'corners', i.e, an eyecorner.
 
 ** Gāndhāri.** His Majesty, he is not seen,
 
-
-
 **रिपु- समर-विमर्देमान-वीर्य-प्रदीप्तं  
 सुत शतमतिधीरं वीरमुत्पाद्य मानी।  
 धरणि-तल विकीर्णे किं स योग्यो न भोक्तुं  
@@ -2240,8 +1994,6 @@ this Bahu. compound. अस्त्र also means 'corners', i.e, an eyecorner.
 
 ** Glossary. समर=**सङ्ग्रामः - battle. **विमर्द-**संहारकः-one who crushes. **प्रदीप्त=**देदीप्यमानः - shining or resplendent. **वीर्य=**प्रभावः-influence or power. **धरणितल-**surface of the earth, i. e., battle ground. **विकीर्ण=**विक्षिप्त-lying here and there in disorder **पुत्रदत्त =** एकेन पुत्रेण समर्पितः-offered by only son.**निवाप=**पितृदानम् -watery oblation intended for manes. **सकृत् =**
 
-
-
 ———————————————————————————————————————————————————————————————————
 
 एकवारम् - once. **भोक्तुम्=** अत्तुम् (i. e. पातुम्, –to eat, to enjoy or to drink).
@@ -2257,8 +2009,6 @@ this Bahu. compound. अस्त्र also means 'corners', i.e, an eyecorner.
  Metre is मालिनी.
 
 ** Trans.** Dhṛtarastra is proud of procreating a hundred sons, who though capable of crushing their opponents in battles, resplendent with self respect and influence, very wise as well as brave, are now lying scattered on the surface of the earth. Does he not, therefore, deserve to enjoy once for ever the watery oblations to be offered to him by his only son (Duryodhana)?**\[39\]**
-
-
 
 ** गान्धारी—**जाद् सुयोधण! देहि मे पडिवअणं,पुत्तसदविणासदुःक्खिदं महाराअं च मन्दभाअं सम्भावेति। **\[जात! सुयोधन! देहि मे प्रतिवचनं, पुत्रशतविनाशदुःखितं महाराजञ्च मन्दभागं सम्भावय।\]**
 
@@ -2285,8 +2035,6 @@ this Bahu. compound. अस्त्र also means 'corners', i.e, an eyecorner.
 
 **Glossary.वदन=**मुखम्-face.**कुतूहल=**कौतुकम्,**औत्सुक्यम्=**keenness, eager desire. **अस्तमित=**अपचयः — decay or अधःपातः- downfall, defeat. **निपीत=**consumed i.e. विनष्टः- lost. **अजस्रम्**=अजस्रं नवद्भिः—ceaselessly flowing.**आद्रीकृत=**क्लिन्नः-rendered
 
-
-
 ——————————————————————————————————————————————————————————————————
 
 wet. **नयनबन्ध–**veil or bandage for eyes. **दधाति =**धारयति— wears or puts on.
@@ -2296,8 +2044,6 @@ wet. **नयनबन्ध–**veil or bandage for eyes. **दधाति =**
 Metre is वसन्ततिलका.
 
 **Trans.** She, whose eyes were destitute of eager desire to see the faces of her sons and grandsons, has now lost patience due to grief on Duryodhana's downfall and as such the bondage put on her eyes as an indication of her
-
-
 
 ** धृतराष्ट्रः—पुत्र! दुर्योधन! अष्टादशाक्षौहिणीमहाराज! क्वासि?**
 
@@ -2320,8 +2066,6 @@ faithful devotion to her husband has become wet with ceaselessly flowing tears.*
  **Duryodhana—**Even today I am a sovereign!
 
 ** पुत्रेति। पुत्रशतज्येष्ठ –**Voc. sing. पुत्राणां शतेषु ज्येष्ठ (तत्पु० ). ज्येष्ठ is derived from प्रशस्य ( which is changed into ज्य in the comparative as well as the superlative degree and तमप् a suffix indicating the latter degree is changed into इष्ठन् ( अजादी गुणवचनादेव Pāņ. 5. 3. 58 ), ज्येष्ठ–‘the eldest’.
-
-
 
 ** धृतराष्ट्रः—एहि पुत्र ! अभिवादयस्व माम्।**
 
@@ -2351,8 +2095,6 @@ faithful devotion to her husband has become wet with ceaselessly flowing tears.*
 ** अन्वयः - गदापातकचग्रहे ( सति ) भीमसेनेन अद्य ऊरुद्वयेन समं मे गुरोः पादाभिवन्दनं हृतम्।**
 
 ** हिन्दी –** भीमसेन ने गदा फेंक और केशों से पकड़ न केवल आज मेरी दोनों भुजाएँ ही तोड़ डाली हैं प्रत्युत मुझे पिता के चरणों में प्रणाम करने से भी वश्चित कर दिया है ।
-
-
 
 ** गान्धारी—** एत्थ जादा! **\[अत्र जाते!\]**
 
@@ -2388,8 +2130,6 @@ faithful devotion to her husband has become wet with ceaselessly flowing tears.*
 
 ** वस्त्रान्तम् -** Acc. sing. ; वस्त्रस्यान्तम्; **अन्तम् -** border or edge of garment. **आकर्षन् -** pulling ; **आदेशयति-**आ+ √ दिश्
 
-
-
 ** दुर्जयः —**नाद! अहं दुज्जयो।** \[ तात! अहं दुर्जयः।\]**
 
 ** धृतराष्ट्रः—पौत्र ! दुर्जय ! पितरमन्विच्छ ।**
@@ -2422,8 +2162,6 @@ faithful devotion to her husband has become wet with ceaselessly flowing tears.*
 
 ** अय इति । सर्वावस्थायाम् -** सर्वस्याम् अवस्थायाम्=in all conditions or state or ages, i.e., whether of pleasure or sorrow, young or old. सर्वावस्थासु would give a better reading.**हृदयसन्निहितः-**हृदये सन्निहितः; सन्निहितः सम्+नि+ √धा ‘to bear’+क्त, kept close or enshrined. **पुत्रस्नेहः -** पुत्रेण सह स्नइः or पुत्रस्य स्नेहः, filial love. **दहति -** burns i. e. व्यथयति-pains me. **कुतः—**
 
-
-
 **दुर्जयः—**ताद! अहं गच्छामि। ( उपसृत्य ) ताद! कहिं सि।**\[ तात अहं गच्छामि। तात!कुत्रासि।\]**
 
 **दुर्योधनः—अये अयमप्यागतः। सर्वावस्थायां हृदयसन्निहितः पुत्रस्नेहो मां दहति। कुतः,**
@@ -2446,8 +2184,6 @@ usually denoting 'why' expresses here ‘यतः or because'.
 ** Glossary. अनभिज्ञेय =** अपरिचेयः - unacquaintable.**अङ्क=**उत्सङ्गः— lap. **शयन =** निद्रा - sleep. i.e. rest or शय्या-couch. **उचित=**अभ्यस्त—used or accustomed to. **निर्जित=**परास्तः-completely vanquished. **अभिधास्यति -** will say.
 
 ** Notes. अनभिज्ञेयः -** अभिज्ञातुं योग्यः अभिज्ञेयः, अभि + /ज्ञा 'to know'+यत् ( अचो यत् Pan. 3. 197 ), न अभिज्ञेयः (नब् तत्पु० ). **दुःखानाम् —**दुःख being the agent of action denoted by अभिज्ञेय is used in the G3n. ( कृत्यानां कर्तरि वा Pān. 2. 3. 71. ) दुःखानामनभिज्ञेयः—one whom sorrows or calamities could not know. This expression gives a pathetic idea of Durjaya's tender age. **अङ्कशयनोचितः —**अङ्के शयनमिति अङ्कशयनम् 'reposal in lap' ( तत्पु० ) or अङ्क एव शयनमिति अङ्कशयनम्, अङ्कः शयनमिव वा, (कर्म०) 'lap indentical with couch or couch-like lap' तस्य तत्र वा उचितः ( तत्पु० ). उचित — It may be taken here equivalent to योग्य ( deserving ) or अभ्यस्त ( used or accustomed to ).
-
-
 
 ** दुर्जयः—**अअंमहाराओ भूमीए उवविट्ठो। **\[अयं महाराजो भूम्यामुपविष्टः।\]**
 
@@ -2478,8 +2214,6 @@ usually denoting 'why' expresses here ‘यतः or because'.
 
 ** त्वमिति। चिरायसि—**चिरं करोषि, चिर+णिच् (तत्करोति तदाचष्टे)you delay. It is an example of nominal verb or नामधातु. The exact significance can well be conveyed by the expression चिरायितवानसि (you have delayed). **इति-**It denotes here cause and is equivalent to чa: 'because'. **आस्यामस्थायाम्—**It refers to Duryodhana's state of helplessness,
 
-
-
 ** दुर्जयः—**अहं पि खु दे अङ्के उवविसामि।**\[अहमपि खुदे। खलु ते अङ्के उपविशामि।\] (अङ्कमारोहति)**
 
 ** दुर्योधनः—**(निवार्य) **दुर्जय! दुर्जय! भोः! कष्टम्।**
@@ -2506,8 +2240,6 @@ when he is unable to take his son on his lap. **हृदयं दहति** c
  **Notes. हृदयप्रीतिजननः—**हृदयस्य प्रीतिरिति हृदयप्रीतिः (तत्पु०) तां जनयतीति (उप०). जननः-√जन् 'to be born+णि+ल्यु (अन)**.नेत्रोत्सवः—**नेत्रयोः उत्सवः (तत्पु०), उत्सवः—उत्सुनोति दुःखशोका · दिक्म्, that which expells misery, grief and the like ; hencedelight or delightful. **चन्द्रः—**चन्द्र इव आह्लादकः सुन्दरो वा, lightful or lovely like the moon. **कालविपर्यासात्-**कालस्य विपर्यासात् (तत्पु०), the Abl. is used to denote निमित्त or cause. विपर्यासात्-वि+परि+ √अस् ‘to throw’+घञ्.
 
  This stanza is a poetic dilation on the sentence अस्याम-
-
-
 
 ** दुर्जयः—**अङ्के उपवेशं किंणिमित्तं तुवं वोरसि? **\[अङ्के उपवेशं किं निमित्तं त्वं वारयसि?\]**
 
@@ -2537,8 +2269,6 @@ when he is unable to take his son on his lap. **हृदयं दहति** c
  Metre is अनुष्टुप्•
 
  **King.** My boy, you may sit anywhere but the wonted
-
-
 
  **दुर्जयः—**कहि णु खु महाराश्रो गमिस्सदि? **\[कुत्र न खलु महाराजो गमिष्यति?**
 
@@ -2590,8 +2320,6 @@ seat which you have hither-to-fore been enjoying. From today it is rendered unse
 
 ** आर्याः—**आर्यश्च आर्याश्चेति (एकशेष द्वन्द्व०) (पुमान् स्त्रिया Pan.1.2.67). This word refers to Dhṛtarāṣṭra, Gāndhārī and
 
-
-
 ** देव्यौ—**हा! हा! महाराश्रो। **\[हा! हा! महाराजः।\]**
 
  **धृतराष्ट्रः— क्वासौ महाराजः?**
@@ -2630,8 +2358,6 @@ Duryodhana's queens namely Paurvīand Mālavī.
 
  **Notes. काञ्चनस्तम्भसमप्रमाणः—** काञ्चनस्य स्तम्भः इति काञ्चनस्तम्भः (षष्ठी तत्पु०) तेन समं प्रमाणं यस्य सः (बहु). This adj. reflects on Duryodhana's lustrous appearance, corpulence and big size becoming of a hero. **किल**–Ind., 'वार्तासम्भाव्ययोः **किल'** Amara. **एकः—**Though a numeral adj. it is frequently used as an adj. of quality denoting as here (i) unique, single of its kind, chief, supreme and (ii) only or sole. Cp.
 
-
-
 ** गान्धारी—**जाद! सुयोधण! परिस्सन्तोऽसि? **\[जात! सुयोधन! परिश्रान्तोऽसि?\]**
 
 ** राजा— भवत्याः खल्वहं पुत्रः।**
@@ -2657,8 +2383,6 @@ Duryodhana's queens namely Paurvīand Mālavī.
  **Gāndhāri.** O my child, Suyodhana, are you tired?
 
  **भवत्या इति।** Itsuggests that sons of a mother like Gandhārī
-
-
 
 ** राजा—अद्योत्पन्नमिवात्मानमवगच्छामि। भोस्तात! किमिदानीं वैक्लव्येन?**
 
@@ -2691,8 +2415,6 @@ were expected to possess inexhaustible energy.
 
  **हिन्दी—**तुम्हारे शूरवीर युद्धरूप यज्ञ में दीक्षित सौ भाई पहले ही नष्ट हो चुके हैं, अब तुम्हारे स्वर्ग सिधारने पर मेरा सर्वस्व ही नष्ट हो जायगा।
 
-
-
 ** राजा—हा धिक्! पतितोऽत्रभवान्। तात! समाश्वासयाऽत्रभवतीम्।**
 
 **—————————————————————————————————————————————————————————**
@@ -2708,8 +2430,6 @@ were expected to possess inexhaustible energy.
 *\[Falls\]*
 
  ** हेति। अत्रभवान्** and **अत्रभवती** refer here to Dhxtarāstra and Gāndhārī respectively. **समाश्वासय–**'please console' सम्+आ+√श्वस् 'to breathe'+णिच्; Imp. implying request. किमिति=कुतः, why or कथम्-how. **अपराङ्मुखः—**पराक् मुखमस्येति पराङ्मुखः (बहु०) तादृङ् न भवतीति (नञ् तत्पु), face to face, i.e., presenting a bold front in the fight unlike a fugitive. Death of a warrior in the battle-field is believed to secure him heaven whereas a runaway is destined to labour under the torments of hell. Cf. हृतो वा प्राप्स्यसि स्वर्गम् (Gītā).
-
-
 
 ** धृतराष्ट्रः—पुत्र! किमिति समाश्वासयामि?**
 
@@ -2738,8 +2458,6 @@ were expected to possess inexhaustible energy.
 
  Notes. **त्वत्पादमात्रप्रणताग्रमौलिः–**तव पादौ एवं त्वत्पादमात्रम् तत्पु०) तत्र प्रणतः श्रप्रमौलिः यस्य सः (बहु०). श्रप्रमौलि-श्रप्रश्वासौ मौलिश्च (कर्म०) (विशेषणं विशेष्येण बहुलम् Pan.2.1.57). अप्र has been taken in this compound indentical with fe. The construction may, however, be construed like that of अग्रहस्त (seeP.44.) मौलि usually signifies. 'संयताः केशाः', a tuft of hair, i.e., head and hence अप्रमौलि indicates 'forehead' **ज्वलन्तम्**-ज्वल् 'to burn' +शतृ**,** figuratively it implies 'dreadful like burning fire'.
 
-
-
 ** धृतराष्ट्रः—**
 
 **वृद्धस्य मे जीवित-निस्स्पृहस्य निसर्ग-सम्मीलित लोचनस्य।  
@@ -2759,8 +2477,6 @@ were expected to possess inexhaustible energy.
  **Glossary. निस्स्पृह=**निरीहः—destitute of desire. **निसर्ग**=स्त्रभावः—natural condition. **सम्मीलितलोचन-**अन्धः—blind. **धृति**=धैर्यम्, fortitude, self-composure. **निगृह्य=**विनाशय-having curbed or suppressed.**आत्मनि=**हृदये–in heart. **सम्प्रवृत्त=**समुत्पन्नः-sprung up.. **तीव्र**=प्रखरः—bitter or overwhelming. **पुत्रशोक=**filial grief. **समाक्रामति=**समन्तात् प्रहरति (i.e.दुनोति)-prevails on, embarasses.
 
  **Notes. जीवितनिस्स्पृहस्य–**जीविते निस्स्पृहस्य (तत्पु०), निर्गता स्पृहा यस्मात्सः निस्स्पृहः निर्गतस्पृहो वा (Var. प्रादिभ्यो धातुजस्य वाच्यो वा चोत्तरपदलोपश्च). जीवित—Loc. is used here for referentialindication and sufflx forms abstract noun, thus जीवितेmeans जीवनविषये (with regard to life). **निसर्गसम्मीलितलोचनस्य**—निसर्गेण सम्मीलिते इति निसर्गसम्मौलिते (तत्पु०). तादृशी लोचने यस्य तस्य (बहु०) of one whose eyes are closed by
-
-
 
 ** बलदेवः–भोः! कष्टम्।**
 
@@ -2784,8 +2500,6 @@ were expected to possess inexhaustible energy.
  **Glossary. निराश—**आशारहितः—despondent or one who has_abandoned hope. **नित्यास्तमितचक्षुष्=**जन्मान्धः-blind by **आत्मनिवेदन=**आत्मोपस्थितिविषयकं **संसूचनम्-**informationbirth. regarding one's own presence.
 
  **Notes. दुर्योधननिराशस्य—**दुर्योधने (दुर्योधनविषये तस्य जीवितविषये बा) निराशस्य (तत्पु०); निराशस्य—निर्गता (नष्टा) आशा यस्य तस्य (बहु०). **नित्यास्तमितचक्षुषः—**नित्यम् अस्तमिते चक्षुषी यस्य तस्येति (बहु०), this compound gives an idea of Dhxtarastra's life-long blindness. अस्तमिते—अस्तम् (√अस् ‘to throw’+क्त+Acc.) +इते (√इ 'to go'+क्त Nom. Dual ), as such it means those which have vanished or disappeared. Cp. अस्तकरुणः Malatī. 5.24) धृतिरस्तमिता (Raghu.8.66). अस्तमितचक्षु, therefore,
-
-
 
 ** राजा–विज्ञापयाम्यत्रभवतीम्।**
 
@@ -2814,8 +2528,6 @@ signifies 'one whose eyes have vanished. अस्तमिते can equally we
 
 ** Notes. त्वाम्—**Acc. Sing. The Dative ordained by नमः-स्वस्तिस्वाहास्वधाऽलंवषड्योगाच्च (Pan.2.3.16) is over-ruled, as the Acc. is governed here by the principle verb √कृ occurring in नमस्कृत्य (उपपदविभक्तेः कारकविभक्तिर्बलीयसी). **नमस्कृत्य=**नमः कृत्वा (उप०)•It is one of the rare examples of उपपदcompound where components (viz. the particle: and √कृ) are optionally compounded (साक्षात्प्रभृतीनि च Pan.1.4.74). In case of the compound only the Visarga of नमः changes into स् (नमस्पुरस्रोर्ग-
 
-
-
 ** गान्धारी— **मम मणोरहो खु तुए भणिदो।** \[मम मनोरथः खलु त्वया भणितः।\]**
 
 ** राजा—मालवि! त्वमपि शृणु।**
@@ -2843,10 +2555,6 @@ signifies 'one whose eyes have vanished. अस्तमिते can equally we
 
  **अन्वयः—मे भ्रकुटी व्यायुद्धकालोत्थितैः गदानिपतितैः भिन्ना, वक्षसि उत्पतितैः प्रहाररुधिरैः हारावकाशः हृतः। व्रणकाञ्चनाङ्गदधरैरौ पर्याप्तशोभौ**
 
-
-
-
-
 **———————————————————————————————————————————————————————————**  
 **इमौ भुजौ पश्य। भर्ता ते युधि पराङ्मुखः न हतः; ह क्षात्रये! किं रोदिषि?**
 
@@ -2857,8 +2565,6 @@ signifies 'one whose eyes have vanished. अस्तमिते can equally we
  **Notes. भ्रुकुटी-**भ्रुवोः कुटी; भ्रकुटि+ङीप् (बह्वादिभ्यश्च Pan.4.1.45, कृदिकारादक्लिनः), curve of eye-brows,i.e., eye-brows. **व्यायुद्धकालोत्थितैः—**व्यायुद्धस्य काले उत्थितैः (तत्पु०); **उत्थित-उत्+√स्था** ‘to sit’**+क्ल**, sprung up,i.e.,inflicted or offered. **व्यायुद्धम्विशेषेण**, आ (समन्तात्) वर्तमान युद्धम्, a fight furiously going in all quarters. **गदानिपतितैः-**गदायाः निपतितैः (तत्पु०). निपतितम्=निपातः-a blow; नि+√ पत् ' to fall'+क्त; (नपुंसके भावे क्तः Paņ.3.3.114). प्रहार रुधिरैः-प्रहारैः जनितं रुधिरमिति तैः (मध्यम० तत्पु०). रुधिरैः implies रुधिरवाराभिः, हारस्य अवकाशः (तत्पु०). वक्षसि...हारावकाशः वक्षसि हृतः—It shows that the incessant stream of blood gushing out of Duryodhana's chest has abundantly spread over it replacing, as it were, the necklace implied to be interwoven with pearls of red colour comparable to drops of blood. **व्रणकाञ्चनाङ्गदधरौ—**काञ्चनेन निर्मितम् अङ्गदमिति काञ्चनाङ्गदम् (मध्यम० तत्पु०) व्रणा एव काञ्चनाङ्गदमिति व्रणकाञ्चनाङ्गदम् (कर्म०) तस्य धरौ (उप०). धरः धरतीति;√धृ 'to hold’+अच् .**पर्याप्तशोभौ—**पर्याप्ता(=अत्यन्ता) शोभा ययोस्तौ or पर्याप्ता समन्ताद् अधिगता शोभा याभ्यां**–**तौ (बहु०). पर्याप्ता- परितः आप्ता ; परि+√आप् 'to obtain'+कृ+टाप्, complete, extreme, sufficient, that which has been obtained.
 
  This stanza has a sentiment of heroism blended with
-
-
 
 ** देवी—**बाला एसा सहधम्मचारिणी रोदामि।** \[वाला एषा सहधर्मचारिणी रोदिमि।\]**
 
@@ -2877,8 +2583,6 @@ compassion. Duryodhana, in the first instance, depicts himself as a warrior with
 
  **King.** Pāuravī, you too listen to.
 
-
-
 **वेदोक्लैर्विविधैर्मखैरभिमतैरिष्टं धृता बान्धवाः  
 शत्रूणामुपरि स्थितं प्रियशतान्न[^10] व्यंसिताः संश्रिताः।  
 युद्धेऽष्टादश वाहिनी नृपतयः सन्तापिता निग्रहे  
@@ -2894,8 +2598,6 @@ compassion. Duryodhana, in the first instance, depicts himself as a warrior with
  **Glossary. वेदोक्त=**वेदप्रतिपादित—ordained by sacred hymns. **अभिमत=**वाञ्छित-desired or **शास्त्रसम्मत,** enjoined by scriptures, or sanctioned by Holy writs. **मख=**यज्ञः-a sacrifice. **इष्टम्=**देवः पूजितः-gods were worshipped. **धृताः=**पालिताः-weresupported. **व्यंसित=**वञ्चित-deprived of or swindled. **वाहिनी=**सेना-a troop. **निग्रह-**imprisonment. **सन्तापिताः=**पीडिताः-were tormented.
 
  **Notes.** **वेदोक्तैः—** वेदेनोक्तैः(तत्पु०),उक्त-√वच् ‘to speak’+क्ल, spoken,i.e.,ordained. इष्ट-√यज्' toworship gods'+क्त, Imp. Pass.**बान्धव—**बन्धु+अण् (प्रज्ञादिभ्योऽण्Paņ.5.4.38). The addition of अणाat the end of aPrimary Nominal Base of Prajñādi group does notbring about any change in its meaning. **प्रियशतात्-** प्रियाणां शतात् (तत्पु०) such प्रियाणां signifies अभीप्सितानां पदार्थानाम्, of desired objects and शत is indicative of बहुत्व but taking the other reading terminating in Nom. sing. (i.e.प्रियशतम्), प्रियाणां would mean वल्लभानां भ्रातॄणाम्, of dear brothers. In view of this
-
-
 
 **———————————————————————————————————————————————————————————**  
  reading, the prose order of the second line is—
@@ -2913,8 +2615,6 @@ compassion. Duryodhana, in the first instance, depicts himself as a warrior with
  Metre is शार्दूलविक्रीडित.
 
  **Trans.** Gods were worshipped by means of sacrifices of various kinds as ordained by sacred hymns and enjoined by Holy-writs, relations (or friends) were supported, enemies subdued, dependents were not deprived of numerous pleasures, and kings, who commanded over eighteen troops in the battle-field, were tormented after imprisonment. Having thought of the glory of such like persons, O self-respected lady, my wives do not weep.**\[52\].**
-
-
 
 ** पौरवी—**एक्ककिदप्पवेसाणच्चआ ण रोदामि।** \[एककृतप्रवेशनिश्चया न रोदिमि।\]**
 
@@ -2947,8 +2647,6 @@ compassion. Duryodhana, in the first instance, depicts himself as a warrior with
 
 ** अहमिवेति। शुश्रूषयितव्याः=**शुश्रूषितव्याः, सेवितव्याः-√श्रू ‘to hear'+सन्+णिच् तव्यत्, should be served. The addition of णिच् to the desiderative base of श्रुseems to be superfluous (स्वार्थे णिनिः). **अम्बायाः**—Gen. sing.
 
-
-
 **श्लाघ्य-श्रीरभिमान-दीप्त-हृदयो दुर्योधनो मे पिता  
 तुल्येनाभिमुखं रणे हत इति त्वं शोकमेवं त्यज।  
 स्पृष्ट्वा चैव युधिष्ठिरस्य विपुलं क्षौमापसव्यं भुजं  
@@ -2965,8 +2663,6 @@ of अम्बा ‘mother'. **निदेशः—** आज्ञा-order o
 
  **Glossary.** **श्लाध्यश्री=**परमैश्वर्यवान्—fortunate, prosperous. **अभिमुख=**सन्मुखम्**-**face to face... **विपुल=**विशालम्-long and
 
-
-
 ** बलदेवः— अहो वैरं पश्चात्तापः संवृत्तः। अये शब्द इव।**
 
 **———————————————————————————————————————————————————————————**  
@@ -2981,8 +2677,6 @@ muscular. **क्षौमम्=**दुकूलम्-a silk-garment or a li
  **Trans.** Thinking that my father Duryodhana of commendable fortune and with his heart enlightened with selfrespect has been struck down by his equal foe fighting face to face you should set aside sorrow. Touching Yudhisthira's long and muscular right arm, clad in silk, youshould join the sons of Paṇḍu in offering me watery oblationswhen I am dead**.\[53\]**
 
  **अहो इति।** Having heard Duryodhana's speech Balarāma aptly remarks : “अहो...संवृत्तः”.**संवृत्तः-**सम्+√वृत् 'to exist'
-
-
 
 **सन्नाह-दुन्दुभि-निनाद-वियोग-मूके  
 विक्षिप्त-बाण-कवच-व्यजनातपत्रे।  
@@ -3002,8 +2696,6 @@ muscular. **क्षौमम्=**दुकूलम्-a silk-garment or a li
 
  **Notes. सन्नाहदुन्दुभिनिनादवियोगमूके—** सन्नाहाश्च दुन्दुभयश्चेति सन्नाहदुन्दुभयः (द्वन्द्व०) or सन्नाहाय दुन्दुभयः (तत्पु०) तेषां निनादस्य वियोगेन मूके (तत्पु०). सन्नाहः-सम्+√नड् 'to tie’+घञ्, an armour,
 
-
-
 **———————————————————————————————————————————————————————————**
 
 (cf.जगरः कङ्कटो योगः **सन्नाहः** स्यादुरश्च्छदःBopālita; अस्मिन् कलौ खलोत्सृष्टदुष्टवाग्वाणदारुणे। कथं जीवेज्जगन्न स्युः **सन्नाहाः** सज्जना यदि॥ KīrtīKaumudī 1.36,Kir.16.12) or war-like preparation. (cf. सन्नाहोऽयं साहसमवगमयति Daśa Ku. Carita) ; hence सन्नाह secondarily signifies war or battle.
@@ -3011,8 +2703,6 @@ muscular. **क्षौमम्=**दुकूलम्-a silk-garment or a li
 ** **सन्नाहदुन्दुभयः would therefore 'signifyarmours and drums or drums intended to fore warn war-like preparations, i. e. battle-drum. निनादः–नि+ /नद् 'to produce confused sound'. The other form ending in अप् would be निनदः. (नौगदनदपठखनः Pān.3.3.64) .वियोगेन-वियोग usually denoting separation has been taken here in the sense of absense as the use of the Instr. is indicative of reason, hence वियोगेन means ‘because of absence'. मूके-मूक इव प्रतथिमानः तस्मिन् 'looking like dumb'. It implies शब्दशून्यः 'noiseless or silent. **'विक्षिप्तबाणकवचव्यजनातपत्रे–** बाणश्च कवचानि च व्यजनानि चातपत्राणि चेति बाणकवचव्यजनातपत्राणि (द्वन्द्व०) विक्षिप्तानि बाणकवचव्यजनातपत्राणि यत्र तस्मिन् (बहु०). श्रातपत्रम्-आतपात् त्रायते इति, that which protects against the sun; hence an umbrella. आतप+√त्रै 'to protect'=त्रा (आदेच उपदेशे ऽशिति Pan.6.1.45 ) +क(सुपि स्थः Pan.3.2.4).
 
  **हतसूतयोधे—** सूताश्च योधाश्चेति सूतयोधम् (द्वन्द्वश्च प्राणितूर्यसेनाङ्गानाम् Pān.2.4.2), हतं सूतयोधं यस्मिंस्तस्मिन् (बहु०). All three foregoing adjectives qualify and indicate cessation of warlike actions. सूतः–√सू' to bring forth'+ल. The etymological meaning of this word is 'one born' but according to Manu सूतis the son of a Ksatriya by a woman of the Brāhmaṇa caste generally engaged in driving a chariot as well as managing the horses. (क्षत्रियाद्विप्रकन्यायां सूतो भवति जातितः। Manu 10.11; सूतानामश्वसारथ्यम्। 10.11; Manu10.47). So, in common language the word is used to denote 'a charioteer'. (ep.नियन्ता प्राजिता यन्ता सूतः क्षत्ता च सारथिः ' Amara). **एषः-**It refers to the twang of a bow heard close by. **कार्मुकरवः-** कार्मुकस्य रवः (तत्पु०). कार्मुकम्—कर्मणे प्रभवति, कर्मन्+उकञ् (कर्मण उकञ् Pan.5.1.103 ), capable of doing a work. The word signifies धनुः 'a bow'. **विभ्रान्तवायसगणम्—** वायसानां गण इति वायसगणः
-
-
 
 (नेपथ्ये)
 
@@ -3041,8 +2731,6 @@ muscular. **क्षौमम्=**दुकूलम्-a silk-garment or a li
 
  \*First two lines of the stanza canhave another interpretation as well :–आततकार्मुकेण सहितः युद्धयज्ञः प्रविष्टः and as such दुर्योधनwill be the action expressedby प्र+विश्. **सहितः-**Iftaken as an adj. to युद्धयज्ञः it will denote 'attended by
 
-
-
 **———————————————————————————————————————————————————————————**
 
 युद्ध and यज्ञrefer to the respective places of their performances. It is in view of thick attendance that युद्ध has been identified with यज्ञ. Thus युद्धयज्ञ secondarily signifies 'battle-field identified with (or resembling) a sacrificialhall'. Act. voice will be आततकार्मुकेण दुर्योधनेन सहितं यं युद्धयज्ञम् (अहं) प्रविष्टवान् **प्रविष्टः** प्र+विश्+क्त, was entered by me.**वृत्त-**√वृत्तto happen'**+ क्त. अशून्यम्-** न शून्यम्(Neg.Tat.); शून्यम्=शुने हितम्; श्वन्+यत्to (उगवादिभ्यो यत् Pan.5.1.2; शुनः of the सम्प्रसारणं वा च दीर्घत्वम् Gaṇ96), a desolate place so called as it affords shelter to a dog and enables him to devour his prey without the least fear. Or शुनायै (शुना 'a slaughter house') हितम्; शुना+यत्, well-suited slaughter house. Each a words वृत्तम् and अशून्यम् qualify both युद्धयज्ञम् and अश्वमेधम् . Suppletives namely स्तोकावशेषैः राजाभिः (occurring in the following passage in the Nom.) and राजभिः have been added to अशून्यम् to give it a definite sense. **अध्वर्युणा**-Inst. sing., अध्वरं पातीति श्रध्वर्युः ; अध्वर+या 'to go'+डुः (मितद्रवादिभ्य उपसंख्यानम् Var. on 3.2.180). अध्वर्यु may be taken as an officiating priest technically distinguished from होतृ, उद्गातृ and ब्रह्मन्. He is entrusted with building the sacrificial altar, keeping the vessels in their respective places, lighting the fire and repeating the Yajurveda. Cp. होता प्रथमं शंसति तमध्वर्युः प्रोत्साहयति. So to say he was one of the important institutors of sacrifice. **अश्वमेध—**a horse-sacrifice.
@@ -3052,8 +2740,6 @@ muscular. **क्षौमम्=**दुकूलम्-a silk-garment or a li
 **——————————————————————————————————————————————————**
 
 one's friendly advisers or well-wishers. construction of the word in this case will be as सह हितैः (बहु०) (वोपसर्जनस्य Pan6.3.82), हितः—हितमस्यास्तीति ; √धा 'to bear?+क्ल+अच्(अर्श आदिभ्योऽचPáṇ.5.2.127), a friend, benefactor, friendly adviser. (Cf. हितान्न यः संशृणुते स किंप्रभुः Kir.1.5).**प्रविष्टः**=was entered,i.e., was begun or opened.
-
-
 
 ** बलदेवः— अये! अयं गुरुपुत्रोऽश्वत्थामेत एवाभिवर्त्तते। य एषः,**
 
@@ -3080,17 +2766,12 @@ monarch was admitted by the rank and file. The horse attended by a guardian was 
 
  **हिन्दी—**इसकी आँखें कमल की पत्तियों के समान खुली और चौड़ी हैं तथा
 
-
-
 **———————————————————————————————————————————————————————————**  
 भुजाएँ चमकते हुए स्वर्ण-स्तम्भ के समान दृढ़ और लम्बी हैं। कठोर बाण पर जोर से चिल्ला चढ़ाए यह उस भभकते हुए मेरु की भाँति प्रतीत होता है जिसके शिखर पर इन्द्रधनुष विराजमान हो।
 
  **Glossary. स्फुटित=**विकसित-fully blown. **दृष्टि**=चतुः-an eye. **रुचिर**=दीप्तिमत्-radient. **कनक=**स्वर्णम्—gold. **व्यायत**=विशाल–extended or **बलवत्**—strong, muscular. **उग्र**=उत्कट-terrible. **सरभसम्=**सवेगम् —violently. **कर्षमाण**-pulling out,i.e. **ज्यायामांरोपयन्-**stringing**. सदहनः=**अग्निसहितः—all ablaze. **शृङ्ग=पर्वतशिखरम्**—the summit of a mountain. **इन्द्रचाप**-a rain-bow. **लग्न=स्पृष्टः-** touching or **संसक्त-**resting, clinging.
 
  **Notes. स्फुटितकमलपत्रस्पष्टविस्तीर्णदृष्टिः—** कमलस्य पत्राणीति कमलपत्राणि (तत्पु०) स्फुटितानि कमलपत्राणीति स्फुटितकमलपत्राणि (कर्म०) तानीव स्पष्टे च विस्तीर्णे च दृष्टी यस्य सः (बहु०). This compound describes angry appearance of Aśvatthāmā. Analogy between a fully blown lotus (of red colour) and his eyes purports swelling and infusion of blood in the eyes which are natural at the time of wrath **स्पष्ट-**√स्पश् 'to perceive clearly'+णिच्+क्त (वादान्तशान्तपूर्ण दस्त स्पष्टच्छन्नज्ञप्ता : Pān.7.2.27). This word usually signifies 'clear or clearly perceptible' and here gives an idea of optic protuberance. **विस्तीर्ण-** वि+√स्तृ ‘to spread’+क्त. **रुचिरकनकयूपव्यायतालम्बबाहुः—** रुचिरं च तत्कनकमिति रुचिरकनकम् (कर्म०) तेन निर्मितो यूप इति रुचिरकनकयूपः (तत्पु०) तद्वद् व्यायतौ आलम्बौ च बाहू यस्य सः (बहु०).रुचिरम्-रोचते दीप्यते इति, रुच् 'to shine '+किरच, 'that which shines' or रुचि राति दत्ते इति; रुचि+√रा 'to give'+क (अतोऽनुपसर्गे कः Pan. 3.2.3 ), ‘that which emits lustre'. व्यायत -वि+आ+√यम् 'to check '+क्त. आलम्बः—आलम्बते अवस्रंसते इति, आ+√लम्बू 'to hang down' +अच्, that which hangs down, hence long. Long arms are usually believed to be the marks of bravery. **सरभसम्-**सह रभसेन वर्तते इति (बहु०) तद्यथा स्यात् तथा, used as an Adv. **शृङ्गलग्नेन्द्रचापः—** शृङ्गे लग्नः इन्द्रचापो यस्य सः (बहु०), with rain-bow resting on its top. लग्न√लग्‘to touch '+क्त, इन्द्रचापः—the rainbow. **सदहनः—** दहनेन सह (बहु०), having fire with it.  
-
-
-
 
 (ततः प्रविशत्यश्वत्थामा)
 
@@ -3108,8 +2789,6 @@ monarch was admitted by the rank and file. The horse attended by a guardian was 
 \[*Enter Aśvatthāmā.*\]
 
  **भोः सनरेति। समरसंरम्भोभयबल जलार्ध सङ्गमसमय समुत्थितशस्त्रनक्रकृत्तविग्रहाः—** समरे संरम्भः ययोः ते समरसंरम्भे (बहु०) तादृशी उभयबले (उभयपक्षसम्बद्धे बले) एव जलधी Or उभयबले जलधी इवेति समरसंरम्भोभयबलजलधी (कर्म०) तयोः सङ्गमस्य समये समुत्थितानीति समरसंरम्भ....समुत्थितानि (तत्पु०) तादृशि शस्त्राण्येव नक्राः or शस्त्राणि नत्रा इवेति समरसंरम्भ…………..नक्राः (कर्म•) तैः कृत्ताः विग्रहाः येषां ते (बहु०), like the following three adjs.it qualifies राजानः संरम्भः=प्रचण्डा गतिः-जलधिः=समुद्रः—the ocean. उभयबलजलधी—shows huge number of warriors taking part in the war. सङ्गमः=सम्मेलनम्—सम्+√गम् ‘to go'+अप्, coming into contact or furious march. conflict. कृत्ताः=छिन्नाः—कृत् ‘to cut’+क्त, cut or mutiliated.
-
-
 
  **श्वासानुबद्ध-मन्द-प्राणाः समरः श्लाघिनो राजानः शृण्वन्तु शृण्वन्तु भवन्तः।**
 
@@ -3132,8 +2811,6 @@ monarch was admitted by the rank and file. The horse attended by a guardian was 
 
  **Glossary. छलबलेन**=कपटाश्रयेण-by means of trick or on छलबलेन=कपटाश्रयेण-by the strength of wicked schemes. **दलित**=भग्न-broken.
 
-
-
 **———————————————————————————————————————————————————————————**
 
 **शिथिल=**कुण्ठितः-blunt **विफल=**निष्फलम्-ineffectual. **सूतपुत्र=**सारथिसुतः-the son of a charioteer, i.e. Karpa. **उद्यतास्त्र-**equipped with weapons, well-armed. **सरभस=**सोद्वेगः—fermented with fury. **विजयभूमि=**रणक्षेत्रम्-a battle-field.
@@ -3147,8 +2824,6 @@ monarch was admitted by the rank and file. The horse attended by a guardian was 
  Karna with a desire to acquire proficiency in the science of war once went to Parashurama in the guise of a Brahmana and learnt that art from him. On other occasions when Parshurama fell asleep with his head on Karna's lap. a worm (said to be Indra who with a view to defeating Karna's object hastened to the spot and assumed this form) began to eat into his lap and made a deep rent in it; but Karna did not show the least sign of pain. As such, his fortitude, characteristic of a true warrior, was discovered by his preceptor who cursed him that the art he had trickishly managed to pick up would not avail him in time of need and that his weapons would prove ineffectual.
 
  **उद्यतास्त्रः—** उद्यतानि—उत्थापितानि युद्धाय सन्नद्धानि वा अस्त्राणि येन यस्य वा (बहु०), one with weapons uplifted or equipped with arms.
-
-
 
  **किमनया ममाप्यप्रतिलाभ-विजय-श्लाघया समरश्रिया।** (परिक्रम्य) **मा तावत्। मयि गुरु-निवपन-व्यग्रे वञ्चितः कुरु-तिलक-भूतः कुरुराजः। क एतच्छ्रद्धास्यति। कुतः,**
 
@@ -3164,15 +2839,11 @@ This expression is indicative of Aśvatthāmā's readiness to fight.**तु—*
 
  **किमनयेति।**Aśvatthāmā, thinking of the Pāṇḍavas' victory in the presence of Bhisma, Drona and others who acquitted themselves most valiantly in the war, feels humiliated and abdicates all claims of his superiority. **किमनया ममापि =** मम अपि अनया किं (प्रयोजनमिति शेषः)-what have I too to do with it; as such अनया(from H f.Ins.sing.) is used as Demonstrative adj. and qualifies समरश्रिया. **अप्रतिलाभविजयश्लाघया—** अविद्यमानः प्रतिलाभो यस्यां सा अप्रतिलाभा (बहु०; नमोऽस्त्यर्थानां वाच्यो
 
-
-
 **———————————————————————————————————————————————————————————**
 
 वा चोत्तरपदलोपश्च Var.2.2.24 ) तादृशी विजयश्लाघा यस्याः तया (बहु०). In this case विजयश्लाघा may be dissolved as विजयेन सम्बद्धा उपलब्धा वा श्लाघा (तत्पु०), good name resulting from triumph. In the case of the द्वन्द्व compound विजयश्च श्लाघा चेति विजयश्लाघे the entire expression would be expounded as 'अप्रतिलाभे विजयश्लाघे यस्यां सा, that which would not gain (me) victory and good name. **समरश्रिया—** समरस्य श्रिया (तत्पु०), युद्धकीर्त्या 'with glory of battle' or युद्धनैपुण्येन 'with dexterity in fight, martial skill'. Further in a wavering state of mind Aśvatthāmā revives his decision contained in the next sentence by saying-**मा तावत्** (Nay, it cannot be) and determines to take up the battle on the pretext that his absence was taken advantage of by the opponents. **गुरुनिवपनव्यग्रे—** गुरोः निवपने व्यग्रः इति तस्मिन् (तत्पु०), गुरोः=पितुः-of father (cp.'गुरुः गीर्पतिपित्राद्यौ' Amara ); निवपने=निवापे, पितृदाने, in obsequial offering to the manes or in funeral oblations. व्यग्रः=तत्परः-busy. **कुरुतिलकभूतः—** कुरूणां (कुरुवंशीयानां राज्ञां) तिलकभूतः (तत्पु०). तिलक usually signifies a mark made with sandlepaste on the forehead where it occupies a conspicuous position and hence at the end of a compound this word is used in the sense of 'best, chief or distinguished'. Thus **कुरुतिलकभूतः=**कुरुश्रेष्ठः, best amongst the kings of Kuru race. **कुरुराजः—**कुरूणां राजा कुरु+राजन्+टच्, an epithet of Duryodhana **श्रद्धास्यति-**श्रत्+√धा, will believe. **क एतत्** **श्रद्धाश्रत्स्यति—**एतत् refers to the statement “गुरुनिवपनव्यग्रे मयि वञ्चितः..."कुरुराजः” and the interrogatory expression implies disbelief on the part of the public in excepting the view that Aśvattthāmā's presence in the battle-field could save Duryodhana from the calamitious downfall which could not be averted by celebrated heroes like Bhisma and others.
 
  **Trans.** What have I to do with martial skill which would not gain me triumph and gcod name? \[*moves round*\]. Nay, not so. Duryodhana, the best among the Kuru kings was tricked, when I was bury in offering oblations to my
-
-
 
 **उद्यत्प्राञ्जलयो रथ-द्विप-गताश्चाप-द्वितीयैः करै-  
 र्यस्यैकादश-वाहिनी-नृपतयस्तिष्ठन्ति वाक्योन्मुखाः।  
@@ -3190,8 +2861,6 @@ father. Who will believe it? For,
 
  **Notes. रथद्विपगताः—**रथाश्च द्विपाश्चेति रथद्विपाः (द्वन्द्व०) तेषु गताः (तत्पु०), mounted on chariots and elephants. **चापद्वितीयैः—**चापः द्वितीयो येषां तैः (बहु०) करैः उपलक्षिताः, holding bows in their hands. **करैः—**The use of the Inst. is here indicative of उपलक्षण and therefore the word करैः has been supplemented by उपलक्षिताः. **एकादशवाहिनीनृपतयः—** एकादशानां वाहिनीनां (नेतारः) नृपतयः (तत्पु०), kings commanding eleven troops. **उद्यत्प्राञ्जलयः—** उद्यन्तः प्राञ्जलयो येषां ते (बहु०), hands folded together and raised to the head as a mark of supplication or of respect.**प्राञ्जलिः—** प्रसृतः अञ्जलिः **वाक्योन्मुखाः—** उद्गतानि मुखानि येषां ते
 
-
-
  **तत् क्व नु खलु गतो गान्धारीपुत्रः।** (परिक्रम्यावलोक्य) **अये! अभिहत-गज-तुरग-नर-रथ-प्राकार-मध्य-गतः समर-पयोधि-पारगः कुरुराजः। य एषः,**
 
 **———————————————————————————————————————————————————————————**  
@@ -3204,8 +2873,6 @@ father. Who will believe it? For,
  **Trans.** Monarchs of eleven troops, mounted on chariots and elephants held the bows in their hands and stoodearnestly awaiting the orders of Duryodhana with their folded hands raised up. It is all due to adverse circumstances that such an excellent warrior as Duryodhana has been evidently vanquished in the battle-field in spite of the fact that my Sire, the well-known combatant and Bhisma whose armour was licked up by the arrows of Paraśurāmawere on his side**.\[58\]**
 
  **अभिहतगजतुरगनररथप्राकारमध्यगतः**—गजाश्च तुरगाश्च नराश्चरथाश्चेति गजतुरगनररथम् (द्वन्द्वश्व प्राणितूर्यसेनाङ्गानाम् Pāṇ.2.4.2). अभिहतं गजतुरगनररथमेव प्राकार इति अभिहतगजतुरगनररथप्राकारः (कर्म०) तस्य मध्यगतः (तत्पु०). **अभिहत—**अभि+**√**हन् 'to kill'+क्त.It usually
-
-
 
 **मौली-निपात-चल-केश-मयूख-जालै-**  
 **र्गात्रैर्गदा-निपतन-क्षत-शोणितार्द्रैः।  
@@ -3223,8 +2890,6 @@ means 'killed or slain' but taken with sense of 'broken'. प्राकार�
 
  **Glossary. मयूख=**शोभा-beauty or **किरण—**a ray. **जाल समूहः**–group or **आनायः**-a net. **क्षत=**व्रणः–a wound. **शोणितार्द्र**=रुधिरक्लिन्नः—wet with blood. **अस्तक**=अस्ताचलः—western mountain. **सन्निविष्ट-**encamped or entered into.—**अवगाढः**
 
-
-
  (उपसृत्य) **भोः! कुरुराज! किमिदम्?**
 
 **——————————————————————————————————————————————————**
@@ -3240,8 +2905,6 @@ means 'killed or slain' but taken with sense of 'broken'. प्राकार�
  Metre is **वसन्ततिलका**
 
  **Trans**. Crest having fallen, his ray-like locks are dishevelled. His limbs are wet with the blood of wounds inflicted by the mace-blows. As such he sinks away like setting sun plunged deep into twilight and encamped on the rock of western mountain.**\[59\]**
-
-
 
  **राजा —गुरुपुत्र! फलमपरितोषस्य।**
 
@@ -3276,8 +2939,6 @@ means 'killed or slain' but taken with sense of 'broken'. प्राकार�
 
 ** हिन्दी—**भयङ्कर चार भुजाओं वाले श्रीकृष्ण यदि गरुड की पीठ पर सवार होकर धमुष और चक्र को उठाए लड़ाई के लिए तैयार होकर पाण्डवों को साथ लिए युद्ध भूमि में आवें तो भी मैं शस्त्रों द्वारा उन्हें ऐसे फेंक दूँगा (नष्ट कर दूँगा) जैसे लोग अस्पष्ट चित्रंवाले चित्रपट को फेंक देते हैं।
 
-
-
 **———————————————————————————————————————————————————————————**  
 **Glossary. निविष्ट=**स्थितः**-**seated. **अष्टार्धाः=**चत्वारः**—**four. **भीम=**भयङ्करः—fierce. **शार्ङ्ग**-80 called Krsna's bow. **जाल=**समूहः**-**collection.
 
@@ -3288,8 +2949,6 @@ means 'killed or slain' but taken with sense of 'broken'. प्राकार�
  Metre is **वसन्ततिलका.**
 
  **Trans.** Kṛṣṇa is well-prepared for the fight, mountedon Garuda's back, with his four terrible arms holding a bow and a dise aloft-him, I will throw down in the
-
-
 
 ** राजा— मा भवानेवम्।**
 
@@ -3316,8 +2975,6 @@ battle-field along with the sons of Pandu by means of a net-work of weapons a dr
  **धात्र्युत्सङ्गे गतः**=स्वर्गं गतः, **हृतः-**dead. **अभिमुखम्—** अभिगतं मुखं यस्य; तत् (बहु०)**,** in presence of, before.
 
  **शन्तनुसुतः—** शन्तनोः सुतः (तत्पु०), patronymic of Bhisma, the yongest son of Santanu by Ganga. He was the first general on the side of Duryodhana. He was finally wounded by Arjuna with the assistantce of Sikhandi. He was lying on a bed of arrows. Gifted with a supernatural boon of choosing the time of his death he waited till the sun had cross-
-
-
 
  अश्वत्थामा— भोः कुरुराज!
 
@@ -3349,8 +3006,6 @@ ed vernal equinox and then breathed his last. निपतित-
 
  **Trans.** Having hurled his mace an taken you by the. hair, he has mashed today in the battle your both the thighs along with your pride.\[62\]
 
-
-
 **यत्कृष्टा कर-निग्रहाञ्चित-कचा द्यते तदा द्रौपदी  
 यद्वालोऽपि हतस्तदा रणमुखे पुत्रोऽभिमन्युः पुनः।  
 अक्ष व्याज-जिता वनं वनमृगैर्यत् पाण्डवाः संश्रिता  
@@ -3370,8 +3025,6 @@ ed vernal equinox and then breathed his last. निपतित-
 
  **Notes. करनिग्रहाञ्चितकचा—**करेण निग्रहः (निरोधः 'strong hold') येषां ते करनिग्रहाः, करनिग्रहाश्च अञ्चितांश्चेति करनिप्रहाञ्चिताः (द्वन्द्व०) तादृशः कचाः यस्याः सा (बहु०) or करस्य निग्रहेण (हस्तस्य निष्पीडनेन) अञ्चिताः (बलाद् गृहीताः 'pulled') कचाः यस्याः सा, it qualifies द्रौपदी. **पुत्रः-**भ्रातुरर्जुनस्य पुत्रोऽपि तद्वदुपचारादिदानीं पुत्रबुद्धया स्वीक्रियमाणः, it is due to the change in mental composi-
 
-
-
 **———————————————————————————————————————————————————————————**
 
 tion that Duryodhana feels the same filial love for his nephew as for his son. **अभिमन्युः—**son of Arjuna by his wife Subhadrā, the sister of Kṛṣṇa and Balaṛāma.
@@ -3385,8 +3038,6 @@ tion that Duryodhana feels the same filial love for his nephew as for his son. *
  Metre is **शार्दूलविक्रीडित**
 
  **Trans.** Draupadi, with her curly braids held fast in my hands, was dragged in the gambling-hall, Abhimanyu, whom I take like my own son, was put to death when a mere youngster in the battle-van and the Pāṇḍavas trickishly
-
-
 
  अश्वत्थामा— सर्वथा कृतप्रतिज्ञोऽस्मि।
 
@@ -3413,8 +3064,6 @@ oat-witted in dicing were forced to find shelter in the forest with the wild bea
  Metre is **अनुष्टुप्.**
 
  **Trans.** By your highness, by myself and by the heaven, I swear to rage noctuinal war and destroy the Pāṇḍavas in warfare,**\[64\]**
-
-
 
 ** बलदेवः— एतद् भविष्यत्युदाहृतं गुरुपुत्रेण।**
 
@@ -3446,8 +3095,6 @@ oat-witted in dicing were forced to find shelter in the forest with the wild bea
 
  **Notes. पितृविक्रमदायाद्ये—विक्रमेण दायाद्यं यत्र तत् विक्रमदायाद्यम् (बहु०)** **पितुः विक्रमदायाद्यमिति** **तस्मिन् (तत्पु०),** inherited by the father through valour, or **पितुः विक्रमः इति पितृविक्रमः (तत्पु०) तेन दायाद्यं यत्र** **तस्मिन् (बहु०),** inherited through the heroism of your father. **दायाद्यम्— दायम् अदन्ति** **आददते वा इति दायादाः (उप०) ज्ञातयः** ‘kinsmen or heirs' **तेषां भावः दायाद्यम् (दायाद+ष्यञ्),** inheritance. **भुजबलार्जिते— भुजयोः बलेन अर्जिते (तत्पु०); पितुः इति**
 
-
-
  **राजा— हन्त! कृतं मे हृदयानुज्ञातम्। परित्यजन्ति मे प्राणाः। इमेऽत्रभवन्तः शन्तनुप्रभृतयो मे पितामहाः। एतत्कर्णमग्रतः कृत्वा समुत्थितं भ्रातृशतम्। श्रयमप्यैरावतशिरोविषक्तः काकपक्षधरो महेन्द्रकरतलमवलम्ब्य क्रुद्धोऽभिभाषते मामभिमन्युः।(इमाः)**
 
 **———————————————————————————————————————————————————————————**  
@@ -3459,8 +3106,6 @@ oat-witted in dicing were forced to find shelter in the forest with the wild bea
 
  **हन्तेति। कृतम्=सम्पन्नम्**–fulfilled. **हृदयानुज्ञातम्—हृदयस्य अनुज्ञातम् (तत्पु०),** the heart's desire refers to the enthronement of his son Durjaya. Further this passage contains a description of heaven, where Duryodhana's brothers and others had gone and to which he is awaiting his own access too. **शन्तनुप्रभृतयः-शन्तनोः प्रभृतिः प्रारम्भः येषां ते (बहु०)** beginning from Śantanu, i. e. Śantanu and the rest. **पितामहाः-पितुः पितरः; पितृ+डामहच् (मातृपितृभ्यां डामहच्** Var.4.2.36) paternal grand-fathers, implies ancestors and fore-fathers. **अग्रतः=अग्रे–अग्र+तस्**(**आद्यादिभ्य** **उपसंख्यानम्** V.5.4.44), at their head. **ऐरावतशिरोविषक्तः—**ऐरावतस्य शिरसि विषक्तः (तत्पु०). ऐरावतः- इरावति समुद्रे भवः ; इरावत्+अण् (तत्रभवः Pān.4.3.53.) so called elephant of Indra. **विषक्त—वि+** **√सञ्ज्**' to cling'**+क्त,** means **उपविष्टः** ‘seated' or **आरूढः** 'mounted'. This expression reflects on Indra's appreciation for heroic deeds of Abhimanyu who was offered an exalted position in heaven in their recognition. **काकपक्षधरः—** काकपक्षान् धरतीति सः (उप०)**,** having side-locks of hair. काकपक्षाः— काकस्य पक्षा इव**,** side-locks of hair, so called on account of their resemblance with the feathers of a crow. In ancient times their possession indi-
 
-
-
 **उर्वश्यादयाऽप्सरसो मामभिगताः। इमे मूर्तिमन्तो महार्णवाः। एता गङ्गाप्रभृतयो महानद्यः। एष सहस्रहंसप्रयुक्तो मां नेतुं वीरवाही विमानः कालेन प्रेषितः। अयमहमागच्छामि। (स्वर्गङ्गतः)**
 
 **(यवनिकास्तरणं करोति)**
@@ -3469,8 +3114,6 @@ oat-witted in dicing were forced to find shelter in the forest with the wild bea
 cated minority of the bearer. **'बालानां तु शिखा प्रोक्रा काकपक्षः शिखण्डकः।**' Halāyudha. **महेन्द्रकरतलम्— महेन्द्रस्य करतलः इतिं तम् (तत्पु०),** the palm of Indra's hand. **अवलम्ब्य–अव+√लम्ब्**‘to hang down’ **+क्त्वा (=ल्यप्),** holding. **क्रुद्धोऽभिभाषते माम्**-talks to me in an angry mood. This expression indicates how sinful Duryodhana and his allies had proved in making a cowardly attack on Abhimanyu, who was in his teens and armless at the time. Having met the death of a hero Duryodhana finds himself indulged in celestial enjoyments in heavenly surroundings. **मूर्तिमन्तः—**possessing visible shape. **महार्णवाः— महान्तश्च ते अर्णवाः समुद्राः (कर्म०),** vast oceans. **सहस्रहं सप्रयुक्तः— सहस्रैः हंसैः प्रयुक्तः (तत्पु०),** drawn by a thousand swans. **प्रयुक्तः=नीयमानः-प्र+√युज्** 'to combine'**+क्ल**,, drawn. drawn **वीरवाही— वीरान् वोढुं शीलमस्येति** or **वीरान् वहतीति उप०),** disposed to carry the brave or serving as a vehicle to the her **कालेन—**by the god of death or death personified.
 
  **King.** Well, my heart's desire is fulfilled. My life is departing. Here are my venerable forefathers, Śantanu and the rest. There are standing my hundred brothers with Karna at their head. Here is again Abhimanyu mounted on Indra's elephant. He has side-locks of hair and holding Indra's hand-palm he is talking to me in an angry mood. These celestial nymphs Urvasi and have come to me. Here are the vast oceans in visible shape. There are great rivers Ganges and the like. The god of death has sent a heavenly car, the carriage of the heroes, drawn by a thousand swans to fetch me. Here I come.(
-
-
 
 ** धृतराष्ट्रः—**
 
@@ -3508,8 +3151,6 @@ cated minority of the bearer. **'बालानां तु शिखा प�
 
  **सौप्तिकवधोद्यतबाणपाणिः—सौप्तिकबधाय उद्यतः बाणः पाणौ यस्य सः (बहु०), सौप्तिकवधाय-सौप्तिकानां वधाय (तत्पु०); सुप्तानां वधाय,** to kill
 
-
-
 **——————————————————————————————————————————————————**  
 the sleeping princes, **सौप्तिकः वधः इति तस्मै (कर्म०); सुप्तिकाले-रात्रौ कृतः वधः इति सौप्तिकः वधः,** slaughter done at night. **सौप्तिकः सुप्त एव सौप्तिकः, सुप्त+ठक् (विनयादिभ्यष्ठक्** Pan.5.4.34) or **सुप्तौसुप्तिकाले भवः सुप्ति ठञ् (कालाट्ठञ्** Pān.4.3.11). **यात**:—The past tense is used here to indicate nearness of action denoted by ar, I am about too. **शमितारिपक्षः- अरीणां पक्षः इति अरिपक्षः (तत्पु०)** **शमितः अरिपक्षः येन सः (बहु०). शमित-शम्** 'to put an and to or to grow calm' **+णि+क्ल;** other form is **शान्त** (**वादान्तशान्तपूर्ण**●Pan7.2.27).
 
@@ -3529,8 +3170,6 @@ Bharata-Vākya.
 THE END
 
 **——————**
-
-
 
 **Appendix A**  
 Metre **(छन्दः)**
@@ -3552,8 +3191,6 @@ Metre **(छन्दः)**
 भजला गौरवं यान्ति मनौ तु गुरुलाघवम्॥**
 
  **य (गण) \~ - - ;र (गण) - \~ - ; त (गण) - - ;**
-
-
 
  **भ ( गण ) - \~\~ ; ज ( गण )\~-\~; स (गण) \~\~-;म (गण)- - - ; न (गण)\~\~\~.**
 
@@ -3590,8 +3227,6 @@ Metre **(छन्दः)**
 
  It contains a **जगण, नगख, जगस,** and **रमण** each (12 syllables).Ex.7.
 
-
-
  **वसन्ततिलका**— Def. **उक्ता वसन्ततिलका तभजा जगौ गः**। It contains 1 **तगण,** 1 **भगण,** 2 **जगण** s and 2 **गुरु** s (14 syllables). It is also called **वसन्ततिलकम्.** Ex. 2, 3, 8, 9, 11, 12, 19, 22, 31, 32, 36, 40, 54, 56, 59, 60, 66.
 
 ** शार्दूलविक्रीडित—**Def.
@@ -3609,8 +3244,6 @@ Metre **(छन्दः)**
  It contains a **नगण, सगणं, मगण, रगण, लघु** and गुरु each. (17 syllables). **यति** occurs after the 6th and the 10th syllables.Ex.5,10.
 
 ––––––––––
-
-
 
 **Appendix B**
 
@@ -3650,8 +3283,6 @@ Dramaturgical Terms
 चित्रैर्वाक्यैः स्वकार्योत्थैः प्रस्तुताक्षेपिभिर्मिथः।  
 आमुखं तत्तु विज्ञेयं नाम्ना प्रस्तावनाऽपि सा॥(VI.31-32)**
 
-
-
  j. e. When the Actress, or the Vidūṣaka or the Pāripārśvika ( Associate ), discourses with the Manager in interesting speeches issuing out of their own business and hinting or bringing in the subject—it is designated Āmukha (Prelude) or Prastāvanā ( Introduction ).**दशरूपक** defines it thus:—
 
 **सूत्रधारो नटीं ब्रूते मार्षंवाऽथ विदूषकम्।  
@@ -3671,8 +3302,6 @@ Dramaturgical Terms
  **भरतवाक्य-‘भरतवाक्यं नटवाक्यम्। नाटकाभिनयसमाप्तौ सामाजिकेभ्यो नटेन श्राशीदियत इत्यर्थः।'** Raghava, i. e. It is a blessing uttered by the Actor to the audience at the end of a play.
 
 –––––––––
-
-
 
 **Appendix C (Questions)**
 
@@ -3706,33 +3335,11 @@ Dramaturgical Terms
 
 ** **अन्योऽन्य, उल्लिखित, सङ्कीर्ण, एकगृह, प्रतिमुख, विहङ्ग, माल्य, प्रवहण,
 
-
-
 द्विप, नाग, संक्रम, दिनकर, व्याविद्ध, संवर्तिका, निष्कम्पा, उत्सादन, प्रतिग्राहित, अधिकाक्ष, वामनीकृत, प्रत्यग्र, उच्छ्रय, अग्रहस्त, शैल, धरणिधर, हेमकूट, दैन्यम्, विविध, विचित्र, उपहसन्, समाश्वसित, भ्रकुटी, प्रवृत्तम्, विक्रमबल, निपतन्तम्, निर्वाहयते, अमर्ष, अपक्रमणम्, असित, उच्छिष्ट, उत्क्षिप्य तपस्वी, परिकृष्यमाण, उपरत, अनुयात्रा, अवसित, अनल, अचल, निर्वाहिन्, प्रतीसारिन्, प्रतिग्राहिन् एवंविध, निर्व्याज, युद्धप्रिय, दुर्जयः, अनुबन्ध, वञ्चना, प्रकाशीकृत, मूर्धज, अवरोधन, कुलमानिन्, अन्वेष्टव्य, कृतान्त, विमर्द, विकीर्ण, प्रतिवचन, आस्यताम्, पूर्वभुक्त, वसुधा, अधिपेन्द्र, दीक्षित, अपराङ्मुख, अनुग्रह, ज्वलन्त, अचिन्तयित्वा धृति, निवेदन, व्यायुद्ध, उत्पतित, अङ्गदधर, सहधर्मचारिणी, मख, व्यांसित, निग्रह, बान्धव, सन्तापित, शुश्रूषयितव्य, अपसव्य, अवसान, पश्चात्ताप, निनाद, आतपत्र, जलधि, कृत्त, विग्रह, निवपन, प्राञ्जलि, अवलीढ, उन्मुख, अतिरथ, निर्जित, निपात, कुतूहलाती, अस्तमित, निपात, आर्द्रीकृत, अक्षौहिणी, अभिवादयस्व, प्रहार, अभिवादन, सन्निहित, अभिधास्यति, चिरायसि, उत्सव, विपर्यास, पारग, अवगाढ, आवर्जयिष्यामि शार्ङ्ग, उत्सङ्ग अभिषिक, धक्ष्यामि, साक्षीमती, मूर्तिमन्तः, विमान, वीरवाही, सौप्तिक।
 
 13. Comment on the following :—
 
  आर्यमिश्र, दुर्योधन, जनार्दन, धृतराष्ट्र, युधिष्ठिर, पाण्डव, समन्तपञ्चक,चित्रपट, वृकोदर, सुयोधन, प्राक्कथन, अपसरस, स्वयंवरसभा, पश्चिमकाल,अतिरथ, यूप, विहङ्ग, मुण्डमाल, रथिन्, सूत, कबन्धक, पिङ्गलाच, तालवृन्त, क्षत्रिय, षट्पद, भ्रूभेद, केसर, खाण्डवधूम, संशप्तक, निवातकवच, पार्थ, वज्र, अनिल, मन्दर, सागर, द्वैपायन, हलायुध, कूट, मेदिनी, अतिहेमकूट, मारुति, समय, हलिन्, हलधर, हलायुध, पारिवेषिन्, कल्प, सन्धि, सौभ, कालिन्दी, केदारमार्ग, महासुर, तपस्त्री, अमृतमन्थन, असुर, सुर, वासुकि, निवापमेघ, विग्रह, वैश्रवणालय, हिडिम्बा, त्रिदिव, कृतान्त, निवाप, अक्षौहिणी, उत्सव, वसुधा, आतपत्र, सन्नाह, अध्वर्यु, अश्वमेध, इन्द्रचाप, अष्टाधभीमभुजा, काकपक्षधर, उर्वशी, विमान।
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
 

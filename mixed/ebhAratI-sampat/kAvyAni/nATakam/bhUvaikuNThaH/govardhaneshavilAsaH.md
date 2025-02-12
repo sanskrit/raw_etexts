@@ -14,26 +14,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2MDM4MDQwODc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
-
 [TABLE]
-
-
 
 **INTRODUCTION.**  
 \_\_\_\_\_\_
@@ -114,10 +97,6 @@ COIMBATORE,
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
 **॥भूवैकुण्ठः॥**
 
 **॥गोवर्धनेशविलासः॥**  
@@ -177,8 +156,6 @@ OR
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **प्रथमोऽङ्कः।**
 
 ![](../books_images/U-IMG-1723948970Screenshot2024-08-18081224.png)
@@ -227,8 +204,6 @@ Brihaspatyacharya. May the nobles of Heaven consisting of divine hosts, leaders 
 
 **Brihaspati.—**You are glorious with pre-eminent splendour surrounded by heavenly nymphs.
 
-
-
 **सस्याभिवर्धितधनाः फलितात्मकांक्षा  
 स्सानन्दमित्यमरनाथ सदास्तुवन्ति॥६॥**
 
@@ -246,8 +221,6 @@ You are the protector of a world rendered happy by the blessings of rainfall. Pe
 
 **Indra.—** Preceptor, my mind is sad for want of spirit. There is no cheerfulness of mind, elated as I am by the enlogy of bards. There is uneasiness of mind, though I am stout of heart under the nourishing strength of a perpetual shower of nectar furnished by the benedictions of you, honoured
 
-
-
 भवतो भवतस्सन्तताशीरमृतधारापुष्टतुष्टचित्तस्याप्यस्ति काचिच्चिन्ता॥न जाने को वा स्यादौत्सुक्य हेतुः॥
 
 ** गुरुः**—न युक्ता तेऽप्येवमाशङ्का। अश्विनी प्रोष्ठपदाग्रहायिणी प्रमुखाः दाक्षायण्यः भौमबुधसौरिप्रमुखाः ग्रहाः क्रियतावूरुमुखाराशयः ज्योतिश्शास्त्रपारङ्गतैश्चित्रशिखण्डिभिस्साकमस्मत्पुरत आलोचिताः। ते जन्मपत्रिका सम्यक्पर्यालोचिता। न पश्यामः किञ्चिदपि चिन्ताकारणम्॥
@@ -262,8 +235,6 @@ Brihaspati of towering intellect. I know not what may be the cause of this sadne
 **Brihaspati.—**It is not proper that even you should apprehend ill luck. The constellations Aswini, Radha, Pushya, Dhanistha, Proshtapada, and planets Mars, Mercury, Saturn, and the ascending nodes have been consulted in our presence with the aid of the seven Rishis who are astrologers highly versed in astrology. Your horoscope has been carefully examined. We see no ground for alarm.
 
  Oh great king Indra, that are the prop of success which is hanging about you like creepers, ill luck is impossible for you, enjoyingas you do, fame, fortune, merit
-
-
 
 **तथापि स्यात्तापो विजयजनकस्यापि भवतः  
 किलास्ते कैलासे श्रितजनशरण्यः पशुपतिः॥८॥**
@@ -296,14 +267,11 @@ Then enter messengers, Agni and the rest.
 
 ** Agni.—**May the king of the Heavens be victorious.
 
-
-
  अलघुसन्देशवाहकोऽस्मि भूप्रदेशात्। तत्रत्या महाजना भवतां प्रभूणां चिरन्तनोच्छ्रयप्रार्थनापूर्वकमभिवादनपत्रं प्रेषितवन्तः। प्रभोराज्ञया पटितुमुत्सहे॥
 
 ** इन्द्रः—**शृणुमः पठ्यतां लेखनं॥
 
 **॥अग्रिः पठति॥**  
-
 
  १.“कर्मभूमौ तावद्भूलोके भरतखण्डे जम्बूद्वीपे दण्डकारण्योत्तरभागे विन्ध्यहिमालयान्तरितपुण्यक्षेत्रे गोकुलवृन्दावनस्थास्तद्देशप्रतिदेशिनो महाजनाः अधस्तात् स्वहस्ताक्षराणि लिखितवन्तो ज्योतिष्टोम-
 
@@ -317,8 +285,6 @@ Agni reads.
 
  “Yagnacharya and others, the undersigned Deekshitas performing Soma Paundraka and Jyotishtoma sacrifices and inhabiting Gokula and Brindavan and adjacent countries lying in the Holy land between the Himalayas and Vindhya mountains north of Dandaka forests in Jamboo Dweepa of Bharata continent on
 
-
-
 पौण्डरीकादि यज्ञदीक्षितायज्ञाचार्यादयस्सात्यन्तविनयं प्रभोरनामयप्रश्नपूर्वकं प्रणम्य साञ्जलिबन्धं विज्ञप्तिं कुर्मः॥
 
  “२.अनूचानसन्ततिजाताः अनवरताग्निहोत्रकर्मणासफलीकृतजीवितास्सुरपतिप्रसादैकपराः पुत्रमित्रकलत्रादिसम्पदा ऋद्धाः प्रसाधितदेवताकोटयः ऐहिकधनवनितादिलाभायाथवा पारत्रिकमहास्वर्गेच्छया वा सन्ततकर्मधर्मनिष्ठाः प्रभूणां दासानुदासाः सकुशलावसामः॥
@@ -329,8 +295,6 @@ the Earth the region of karmas, submit as follows after saluting humbly with han
 
  “2. Born of very learned Brahmin lineage, leading a life in which we keep up a perpetual sacrificial fire, looking forward to Indra’s grace as the only goal, prosperous in the possession of every blessing in the shape of children, wives, and so on, having propitiated the divine hosts (by worship), ever devoted to deeds and duty with a view to the present attainment of riches, women and so on, or with a desire for the great swarga in the future, we the slaves of slaves of your majesty are doing well.
 
-
-
  “३.साम्प्रतं कालदौर्भाग्यात् सन्निहितकलिप्रवेशछायामूढधि यः केचन कदध्वानो विधिविहिताचारविपर्यया भवतामप्युत्तमः प्रभुरास्ते क्वचिदिति मन्यमानास्तादृशो भूमावस्मदन्तिके गोपवेषपरिधानस्समिन्धइत्युन्मत्तवाचं प्रलपन्ति॥
 
  “४. किञ्चाहो तेषां दौर्मत्यं। स्वतनुभवनाद्युच्छ्रयं न गणयन्ति सर्वथा ते। एतन्नूतनप्रभुसेवायां न किमपि प्रार्थनीयं काम्यमिति च मन्यन्ते। अयं प्रभुरभीष्टप्रदानासमर्थो नाम; स्वानुचरान्का- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -338,8 +302,6 @@ the Earth the region of karmas, submit as follows after saluting humbly with han
  Now with reference to present purpose; owing to the wickedness of the times and because of good sense being warped by the shadow of Kali’s advent, some unrighteous people, having abandoned the observances enjoined by law and being of opinion that there is a Lord superior even to you, indulge in mad sayings that that Lord is shining radiant in our midst on the Earth in the guise of a cowherd.
 
  “4. Moreover, strange is their perversity; they do not in the least care for the well-being of themselves or their homes, &c. They consider that in the service of this new master no boon should be prayed for, This master is incapable of grant-
-
-
 
 म्यपूजानैव कर्तव्येत्युपदिश्य स्वाशक्त्याच्छादिकवचनेन वञ्चयतीव भाति॥
 
@@ -353,8 +315,6 @@ ing boons forsooth, and looks as if he is cheating his followers by instilling a
 
  “6. They say that sage Vyasa is the greatest Teacher, and that the Interpreter of His School is Vayu. If everybody should come to think thus, it is clear that your sovereignty sir, is at an end. (Something that is given away with water in the hand).
 
-
-
  “७. अन्यमप्येषां वर्णयामो विपर्यासं। नित्यनैमित्तिकाचरणे यत्कुर्वन्ति यद्ददति यज्जुह्वति तन्न भवत्प्रीत्यै किन्तु वाय्वन्तर्गतस्य कस्यचिन्मनोवागगोचरस्य प्रीत्यै समर्पयन्ति। किमेवं किल कृतवन्त अस्मत्पूर्वपूर्वकाः। सर्वथा नैवमिति वदन्ति वृद्धाः॥
 
  “८. किं बहुना गृहकृत्यानाचारपरिगणनेन। प्रतिदिवसं सान्नाय्यमस्मत्स्नुषाभिर्दुहितृभिस्स्वसृभिर्वा रहसि देवतानिवेदनात्पूर्वन्नीयते पूर्वोक्तगोपालभुक्त्यै। जगन्मोहनरूपसौन्दर्यमोहिता नामास्मत्स्त्रियः॥\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -362,8 +322,6 @@ ing boons forsooth, and looks as if he is cheating his followers by instilling a
  “7. Another of their misdeeds too we will mention. In the performance of daily and occasional rites, whatever they do, or offer, or sacrifice, is dedicated, not for propitiating you but for securing the favour of some one who dwells in Vayu’s heart and who is beyond the reach of thought and speech. Did our ancestors of old behave like this? Elders say that it was not so at all.
 
  “8. Why dilate by recounting the irregularities in the fulfilment of household duties. Every day, the divine offering, before it is offered to the deity, is being carried away in secret by our daughters-inlaw, daughters or sisters for being eaten by that same cowherd; our women have forsooth been spell-bound by a world-enchanting beauty of appearance.
-
-
 
  “९.नायं विषयउपेक्षामर्हति। यद्युपेक्षा कृता तर्हि न स्यादितः परं हविर्भागो देवानां। सुरास्तावत्स्वाधिकारवर्जितास्स्वर्लोककपाटं पिधाय लोकान्तरं प्राप्नुवन्त्वित्यनन्तनतिततिसहिता विज्ञप्तिः। इति॥”
 
@@ -373,8 +331,6 @@ ing boons forsooth, and looks as if he is cheating his followers by instilling a
 
  **Indra.—**Oh Brihaspatyacharya, the calculation of the astrologers seems based on misconceptions, or perhaps the astrologers consulted by you are of doubtful proficiency in the science, or perhaps the teachings of astrology do not produce the promised results. This earthly news is not a source of cheerfulness to us.
 
-
-
  **गुरुः—**प्रभो नैषा युक्ता तवाशङ्का शास्त्रप्रामाण्ये। धुनीनाथ गम्भीरा ज्यौतिषकविद्या। अनन्तोत्सर्गापवादात्मिका। अतीव चिन्ता श्रमसाध्यं मेषादिराशिपरिगणनं। अपि च दैवज्ञास्साम्प्रदायिका भविप्यदनिष्टं निश्चयेनावगतमपि न वदेयुः। परन्तु भवद्विषये चिन्तयन्तोऽपि न जानीमहे कमपि भीकरं भाव्यनर्थम्॥
 
  **इन्द्रः—**आस्तां शास्त्रप्रामाण्यविचारः। पटितपत्रिकाविषययाथार्थ्यमन्यथात्वं वा को जानाति साक्षी॥\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -382,8 +338,6 @@ ing boons forsooth, and looks as if he is cheating his followers by instilling a
 **Brihaspati.—** Sir, your scepticism as to the truth of the science is not warranted. The astrological science is majestic like the sea. It consists of countless rules and exceptions. The calculations of Aries, &c. of the Zodiac is the result of great thought and labour. Moreover, astrologers following traditional methods, will not disclose the ills of futurity though observed without doubt. But in your case, we see no misfortune in the future to be afraid of.
 
 **Indra.—**Let the discussion about the truthfulness of the science cease: which witness knows about the truth or otherwise of the allegations in the petition read out.
-
-
 
 ** अग्निः—**आगतस्सप्तसप्तिः कर्मसाक्षी स्वदृष्टविषयं भगवते विज्ञापयितुम्॥
 
@@ -405,8 +359,6 @@ Then enters the Sun.
 
 ** Indra.—**Let alone what should be heard from Chandra’s mouth. We are ready to hear what you have seen.
 
-
-
 ** सूर्यः—**
 
 **पश्ये भूमितलेऽन्धकारनिविडे मृद्ग्रावपूर्णेस्वतो  
@@ -424,8 +376,6 @@ Then enters the Sun.
 ** Sun.—**On the surface of the Earth ordinarily enveloped in dense gloom and filled with mud and stones, I now observe a disc of matchess brilliancy whose rays radiate everywhere and bless the whole world. Indeed I quail under the purity and supreme grandeur of the immeasurable dazzle which no eyes can bear to see. Being far away I am unable to notice any group of objects except that.  
  I can certainly tell you, O, king of Suras, what they say in that other world as to the truth of the matter. They say that He is the upholder of the egg of universe, one who is an embodiment of Intellect and Bliss and absolutely Independent.
 
-
-
 **भक्तौ तस्य विचित्नवैभवयुतानन्तस्य मग्नास्तु ये  
 तेषामस्ति नभीर्भयावहसुरादाखण्डलाद्वांछितम्।  
 चक्रिण्येव मनोनियोगचतुरान्दासान्सदा निष्टितान्  
@@ -437,12 +387,9 @@ Then enters the Sun.
 
 ** Indra**.**—** All this that is mentioned by you is no answer to the question. Should there happen to be One greater than ourselves anywhere‚ we shall hear of him at some other place and time from the mouth of ourPreceptor:you don’t seem to know about the misbehaviour in the matter of rites referred to in the petition.
 
-
-
 कोऽत्र भोः। नीयतां तारानाथः परीक्षार्थम्॥
 
 **॥ ततः प्रविशति सुन्दरवदनश्शशाङ्कः॥**  
-
 
 ** चन्द्रः—**जयतु जयतु त्रिदिवसिंहासनाधिरूढो महाराजः॥
 
@@ -461,8 +408,6 @@ Then enters the pleasant-faced Moon.
 
 ** Moon.—** Questioned by venerable elders, I am incapable of stating anything but the truth. If
 
-
-
 स्ति कुत्रास्ति तत्रास्तीति चिरन्तनकालीयविचारो विरम्यतइतः परम्। विश्वंभरायामेकदेशप्रदेशो वैकुण्ठः॥ (इत्यर्धोक्ते।)
 
  **गुरुः—**नायमर्हत्याश्वासं सुपर्वराजः। अयं खलु कलुषलमकव्यापारोऽनङ्गपक्षपाती गोपगोपिकाह्लादवर्धनइति श्रूयते। यमुनाकूले तावदस्य कुमुदबान्धवस्योत्साहकाले हि यज्ञपत्नीजनमनसामाकर्षणं संभवतीति वार्ता॥\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -470,8 +415,6 @@ Then enters the pleasant-faced Moon.
 my evidence be unpleasant, I beg to be forgiven on the ground that Ispeak the truth. A question agitated for ages as to Vaikunta, that “it is here: where is it ? it is there,” is set at rest hereafter. Vaikunta is only a portion of the earth.
 
 ** Brihaspati—**This witness the Moon does not deserve credence. It is he that, being addicted to low gallantry as a partisan of Cupid, is said to inflame the passionate enjoyments of cowherd boys and maidens. The rumour is that on the banks of the Jumna when this Moon is at his height of pride, hypnotism of the damsels’ minds takes place.
-
-
 
  **काव्यः—**किञ्चकुचेष्टाविमौ कर्णेजपौ दिवाकरक्षपाकरौ। तयो स्साक्ष्यं नार्हति प्रामाण्यम्। अमृतपरिवेषणसमये ह्यनपकारिणौ सहभोक्तारौ राहुकेतू पञ्चत्वं प्रापयामासतुः॥
 
@@ -486,8 +429,6 @@ my evidence be unpleasant, I beg to be forgiven on the ground that Ispeak the tr
 
  The Sun is always proud at heart fancying that being a destroyer of darkness, he is of unequalled greatness. But the owl moving about in the gloom of night laughs at him with glee to see him void of light. The Moon highly boastful of moon-light, and proud of possessing soothing rays, derides the galaxy of stars. But the fevered maiden afflicted by the power of Cupid laughs with indignation at the incapacity of the Moon (to sooth her).
 
-
-
  **नारदः—**कोविदचूडामणिरिति जगत्रये ख्यातमहेन्द्रप्रभो, औत्सुक्यं तेऽतीव विस्मयं मे जनयति। क्व ते दिगन्तविख्यातपौरुषम्। क्व तअतुलाधिपत्यम्। क्व वज्रायुधम्। हन्त किं महीध्रपक्षच्छेदवेदनाश्रान्तं शेते। क्व तऐरावतदिग्गजदिक्पालकाः भवदाज्ञामवजानन्ति किम्। स्वशाशनानुरोधनसंपादनेऽसमर्थोऽसीव भाति वार्धकादन्यकारणाद्वा ॥
 
  **इन्द्रः**—यतीश्वर,  
@@ -495,8 +436,6 @@ my evidence be unpleasant, I beg to be forgiven on the ground that Ispeak the tr
 ** Narada.—**Oh Mahendra, known to fame as the foremost genius in all the 3 worlds, I am greatly surprised to see your anxiety. Where has your prowess vanished, renowned up to the extreme limits of space. Where, your matchless supremacy? Where has your thunderbolt gone? Alas, does it lie exhausted by the fatigue of chopping off the wings of mountains: where have they gone, the Airavata and the elephants and guardians of the 8 quarters? Do they disregard your commands? You seem powerless to enforce obedience to your orders because of old age or some other cause.
 
 ** Indra.—**Prince of ascetics,
-
-
 
 **विभेमि नैवेषदपि स्म मर्त्यात्  
 सुरारिसङ्घान्जितवान्रणेऽहं।  
@@ -520,8 +459,6 @@ my evidence be unpleasant, I beg to be forgiven on the ground that Ispeak the tr
 
 ** Narada—**In days of yore, Indra of unequalled glory attained an appropriate designation of heroism as the king of gods, by vanquishing
 
-
-
 **मन्येऽयं तु चिरन्तनामृतजुषा सौभाग्यसंसेवया  
 मत्ताभिश्च विलासिनीभिरसकृत्क्रीडन्विनष्टश्चिरम्॥१५॥**
 
@@ -539,12 +476,9 @@ the leaders of Daityas in war. But now, I think, he is lost altogether, by reaso
 
 ** Indra.—**O prince of sages your remark is excused by us because of your very long acquaintance
 
-
-
 भूवासिनोऽपचारदुष्टाश्चेत्तर्हि घोरतमं निग्रहमनुभविष्यन्त्यचिरादिति नस्सत्यं वचः। आमूलाग्रविवेचनकृते मातलिमस्मत्सुतं जयन्तं च प्रेषयिष्यामः। पश्यत जीमूतस्तनितं किं करिष्यति—–अशनिताडितामर्त्याः कथं व्यथिष्यन्तीति॥
 
 ( इति निष्क्रान्तास्सर्वे। विना नारदम्।)  
-
 
 ** नारदः—**यथाह कालिदासः॥
 
@@ -559,14 +493,11 @@ and because we take your word as prompted by friendship. If, in truth, the deniz
 
 Exeunt all but Narada.  
 
-
 ** Narada.—** As Kalidasa observes,
 
  Fire blazes up when the fuel is stirred; the snake when irritated expands its hood; verily, a man generally regains his own high-spiritedness through being roused to action.
 
 (Exit).
-
-
 
 **॥ उपांङ्गः २॥**
 
@@ -585,8 +516,6 @@ also Leela, Rama, Kamala, Mohini,
 and Mrugakshi.
 
 ** Yasoda.—** Dearest boy dear as life, what is this complaint these Gopi girls make about you. In their houses what did you do disagreeable (to them). Oh lovely faced (boy) don’t be afraid that I shall chastise you. Dearest, allow me a delicious kiss on both your cheeks and let me smell the crown of your head. Then tell me what you did.
-
-
 
  **कृष्णः—**(यथोक्तं कृत्वा।) अंब न मया किमप्यनुष्ठितो दुराचारः। पृच्छताः तासामिष्टान्यं किमप्यकरवमिति॥
 
@@ -612,8 +541,6 @@ and Mrugakshi.
 
 ** Krishna—**Say it, I am not afraid. Is it proper to inform mamma of what was merely done in sport. Be it so, wait. (so saying smiles).
 
-
-
 ** यशोदा—(स्वगतम्।)**
 
 **दयिततममुदात्मन्मङ्गलाङ्गप्रभो ते  
@@ -633,8 +560,6 @@ and Mrugakshi.
  Dearest, blissful, Princely, son, Oh Mukunda of the flute, I long to hear of your pranks that are sweet and splendid— that deserve study and meditation by sages —that flows into the ears sweet as nectar, and that reduces accumulated sins to powder.
 
  Having been childless in hundreds of thousands of births, this woman (myself) got you (at last) by reason of penances performed by me for your sake. By gazing on one (you) possessing a faultless, smiling, face and feet made of lotus-tendrils, I am steeped in ecstasy, my heart being filled with supreme affection.
-
-
 
 बाले कथय मे गोविन्दस्य चेष्टाम्॥
 
@@ -658,8 +583,6 @@ and Mrugakshi.
 
 ** Krishna.—**Verily, the wonderful attachment felt by this dear friend bears no fruit, unless, it extends to all creatures, my adherents and friends. Why should she with great disgust spurn from her door-sill the cat that follows me.
 
-
-
 ** रामा—**
 
 **अनुदिवसविभाते धैनुकं पद्यमान  
@@ -682,8 +605,6 @@ and Mrugakshi.
 
 ** Krishna.—**I was brought up fondled with affection by you and father. Fond of moving about, I am always an unfettered wanderer.
 
-
-
 **सकृदनुभवखिन्नोलूखलाबद्धमध्य  
 स्तदनुचरपशूनां बन्धमोक्षं करोमि॥२३॥**
 
@@ -699,8 +620,6 @@ Once I suffered the bitterness of experience tied by waist to a mortar. Hence I 
  Moreover, mamma, when the calves were suckling the udders, I went up to the mothers and whispered in their ears “whenever you are asked to furnish milk for Krishna, it must be supplied by you without fail.” The cow nodded her head and gave me assent.
 
  If the Gopee takes the milk-pail even though it be an unseasonable hour, the cow of pot-like udder supplies milk, pricking
-
-
 
 **मदभिलषितनाम्ना प्रार्थिता गोवधूस्सा  
 तनुरुहचलिताङ्गा कर्णकम्पा घटोध्नी॥२४॥**
@@ -725,8 +644,6 @@ up her ears, with the body shaken by thehair on end, provided that she is applie
 
 ** Krishna—** First of all, this damsel led me into the dark room bandaging both my eyes and asking me to seek her out. I at once caught
 
-
-
 **धृत्वा मुक्तोऽभवमपि तया प्रार्थितस्सन् बबन्ध  
 किङ्किण्या मे सखिवचनतस्तत्र मां किन्न जंज्ञौ॥२६॥**
 
@@ -742,8 +659,6 @@ up her ears, with the body shaken by thehair on end, provided that she is applie
 hold of her hiding herself there and became released. In my turn I bandaged (her), being requested by her. Why did she not make me out by my ringing anklets and the words of friends?
 
 ** Mohini—**At dawn, when I was sound asleep (engulfed in sleep) in bed on a cot in my room along with dear brothers and sisters, Krishna caught hold of my hair and knotted it with their tufts. Waking up after sleep, finding myself restrained by the tufts, and being utterly unable to untie the knot, I repaired to the forest with the relations and, alas, did not find that Krishna.
-
-
 
 ** यशोदा—**नूनं दुश्चरितमिदं दृश्यते॥
 
@@ -767,8 +682,6 @@ hold of her hiding herself there and became released. In my turn I bandaged (her
 
 ** Mrugakshee.—** Yesterday, in the exultation of the company cf crowds of boys, he went with Balarama into a room and, closing the door, the cunning fellow mimicked idolworship by means of pieces of mud and
 
-
-
 **आर्यानुष्ठामनूद्य प्रियसदयशिशून्वोधयामास पूजां  
 मां मत्वा देववर्यं कुरुत सविनयं त्वित्युदीर्य प्रियस्ते॥**
 
@@ -791,8 +704,6 @@ stones. Quoting the example of elders, your dear boy taught the method of worshi
  Hearing his words, I looked through the key-hole out of curiosity and saw him a magnificent God seated on a throne consisting of a Lordly Serpent’s body with the face of Balarama. (His) friends belauded Him as follows:
 
 ** First.—**Oh Vasudeva, Oh upholder of the world, I adore (thee) the Supreme Hari, the Delight of Devakee’s eyes, and the lotus sprung of
-
-
 
 **नन्दवेश्मसरसीरुहं परं  
 भावयामि भवतापशान्तये॥३१॥**
@@ -819,8 +730,6 @@ the pond consisting of Nanda’s house, for the extinguishment of the fire of mo
 
 ** Third**—I adore thee the Kesava whose curling locks are radiant, whose lotus-face beams with smile, and who saved herds of cattle distressed by conflagration, for the extinguishment of the fire of mortal incarnations.
 
-
-
 ** चतुर्थः—**
 
 **कृष्ण कृष्ण भगवन्जगत्पते  
@@ -841,8 +750,6 @@ the pond consisting of Nanda’s house, for the extinguishment of the fire of mo
 
 ** Fifth.—**I adore thee, Achuta, the Supernatural adored by hosts of sages, the subject of all scriptural teachings, the possessor of incalculable attributes, and the destroyer of the sins of all worshippers, for the extinguishment of the fire of mortal incarnations.
 
-
-
 ** सर्वे—**
 
 **सुजनकुमुदवन्धो नेत्रराजीवबन्धो  
@@ -856,7 +763,6 @@ the pond consisting of Nanda’s house, for the extinguishment of the fire of mo
 
 **इति॥**  
 
-
 तदेवं श्रुत्वा दृष्ट्वा महाविस्मययुता द्वारं ताडयामास।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -864,8 +770,6 @@ the pond consisting of Nanda’s house, for the extinguishment of the fire of mo
 ** All.—**O moon to the lilies consisting of good people, Oh Vivifying sun of eye-lotuses, Ocean of milk to favourites, Fire to consume the heart of Daityas, Ocean of gems comprised by hosts of attributes, Delight of all your relations, Saviour from the terrors of births vast as the main, convertor of oceans into ponds, Destroyer of wretched kings blinded by a pride of power, reign Thou in my heart after liberating me from the bondage of births and the sea of sins.”
 
  Seeing all this, I knocked at the door ingreat wonderment. When it was opened,
-
-
 
 अपावरणेत्वहो नास किमपि चित्रं द्रष्टुम्। केयं लीला मायेशस्य तव तनयस्य॥
 
@@ -888,14 +792,11 @@ alas, I saw nothing noteworthy: what is this performance of this master of illus
 
 \[Exeunt.  
 
-
 **Scene III.  
 In the pleasure-garden Nandana of Swarga.**  
 Enter Sachi and Jayanta
 
 ** Sachi.—**I heard that you have been ordered to proceed to the terrestrial region. Darling, when do you start? Is your mission easy or difficult? How shall I spend time
-
-
 
 कथं क्षपयिष्यामि कालम्। वत्स किमनिवार्यं भवत्कार्यम्। ननु साक्षादेव कर्तव्यं भवता। विश्वसनीयभटजनैरथवा सुहृद्भिः कारयितुमशक्यं किम्॥
 
@@ -911,8 +812,6 @@ without you the pupil of my eye. Dear boy, is your business unavoidable? Should 
 
 ** Sachi—**Prostrate before Lakshmee’s Lord the Deity adored by the Highest gods, and start. May your routes be auspicious!
 
-
-
 **स्वर्गे भूयिष्टसौख्ये सुरभटसहितो नन्दने रम्यदेशे  
 क्रीडन्सन्कान्तवाक्यैः कुसुमसदृशभाः कोमलो वर्धितोऽसि।  
 लब्ध्वा वाञ्छां सदा त्वं सुरतरुविभवात्कामधेनोस्सकाशात्  
@@ -923,8 +822,6 @@ without you the pupil of my eye. Dear boy, is your business unavoidable? Should 
 You have been brought up with tenderness under the influence of kindly words, with a lustre resembling that of flowers, in Swarga, amidst great comforts, surrounded by divine footmen, in garden Nandana and (other) lovely spots. Accustomed to have (your) desires fulfilled at any time through the capability of the Kalpa tree and by means of Kama-Dhenu (all-giving Cow), where can you, oh dearest, obtain such. comforts as (you) want, in the distant region of the Earth ?
 
 ** Jayanta.—**Do not prevent my going at all ; otherwise I shall be unable to bear the public scandal to this effect : Viz :
-
-
 
 **“इन्द्रस्य सूनुर्दनुजौघहन्ता  
 सदा स्वमातुर्वसनान्तबद्धः।  
@@ -946,8 +843,6 @@ You have been brought up with tenderness under the influence of kindly words, wi
 
  Begetting a son, the mother has to be separated from him and feel uneasy about his fame. Begetting a daughter only to bestow on a husband, she has to wear away with heavy sobs at being parted from her.
 
-
-
 **मन्ये भूमितलं न योग्यवसनं साधुस्वभावस्य ते  
 तस्मिन्सन्ति विलोभनास्सुवहुधाचित्तापकर्षास्पदाः।  
 जाने तत्र हि नारदो मुनिवरः स्त्रीत्वं सुदुःखं वहन्  
@@ -961,8 +856,6 @@ You have been brought up with tenderness under the influence of kindly words, wi
 
 ** Jayanta.—**What, this prince of ascetics, the Reverend Devarshi, wandered about, did he? in the bondage of mortal life for sixty thousand years, abandoning his Veena Brihati, the ascetic’s sceptre, and the waterjar and other paraphernalia, giving up Pranava and penances,—clad in feminine garments, wearing a bodice and earthen
 
-
-
 कूर्परं कूर्पासं मृण्मयकङ्कणं च धृत्वा रुदतश्शिशूनान्दोल्यामुपलालयन्शिशुमलाश्लिष्टदेहष्षष्ठिसहस्रवर्षंसंसारबन्धे सञ्चचार किल। आश्चर्यमाश्चर्यम्। पृच्छामि सभास्थं मुनिं कथंकारमेवं शिक्षितवानभवदिति। अस्त्वियं पुरातनकथा। भूलोकवासिनइदानीं भिन्नखभावा दृश्यन्ते॥
 
  **शची—**न वत्स तथा। श्रुतवत्यहं कुबेरमुखात्तस्य सुतौ नलकूबरमणिग्रीवौ महाप्रभावौ कैलासं गत्वा ततो भूमिं प्राप्य वन्यवृक्षत्वेनाचलतां गतौ सन्तौ पुष्पफलानि प्रसूय प्रसूय सहस्राधिकवत्सरेषु
@@ -974,8 +867,6 @@ bangles, both right up to the elbow, and lulling crying children (to sleep) in a
   However, this is an old story. The denizens of the Earth are now said to be of a different character.
 
 ** Sachi.—**Dear boy, not so. I have heard from the mouth of Kubera that his two sons Nala-Koobara and Manigreeva of great prowess went to Kailasa and then to the Earth. There, becoming metamorphosed into two trees of the forest, bearing flowers and fruits in an interminable succession, not obtaining release though over thousands of years
-
-
 
 गतेष्वपि निर्मोक्षमलब्ध्वा गगनचुम्बितया मेघमण्डलविवरेण स्वर्लोकं दिदृक्षूवर्धमानौ भग्नमानसौ चिरन्तनमूकीभावतपस्तप्त्वा यदृच्छयाद्यैव मोचने सति प्रतिनिवृत्ताविति। अद्यापि चित्तस्स्वास्थ्ये तयोस्सन्देहइति वदन्ति॥
 
@@ -990,8 +881,6 @@ passed away, they grew very high as if to peep in disguise at their native world
 
  Though they are trees no longer, they observe reticence from a recollection of the past. With eyes ever turned upwards, they appear as if steeped in a sea of abstraction. When the society of relations is holding conversation they do not mingle in the talk. They treat all the treasures of Kubera with contempt and look mad for all appearance.
 
-
-
 **स्वेच्छातश्चरतः कलत्रमपि वा भोज्यं च वा माधुरं  
 कांक्षन्तौ न कदापि तौ नु सततं मन्त्रं जपन्तौ सदा।  
 देहं तैजसशोभितं मणिगणालङ्कारयोग्यश्रियं  
@@ -1002,8 +891,6 @@ passed away, they grew very high as if to peep in disguise at their native world
  They roam about at will and are at no time mindful of family (wife) or food or anything delicious. Indeed, they are always mumbling some mantra with delight. They are always in meditation in order to renounce all objects of pleasure, and, by disregarding ablutions, to cast away the body itself, which, fashioned out of light, deserves to be ornamented with clusters of gems.
 
 ** Jayanta.—**Not thus mother; now the Earth does not seem unworthy of being journeyed through by the righteous people. Almost everyday in the bright fortnight, Kinnaras, Vidhyadharas and Gandharvas of both sexes attend a concert-audience on earth. On return they look filled with ecstasy. There
-
-
 
 व्योम्निविमानसञ्चारबाहुल्यान्न कोऽप्यस्ति भीहेतुः। अस्मदीया यत्र वसेयुस्तत्रैव तदन्तिके भवितास्मि॥
 
@@ -1017,8 +904,6 @@ passed away, they grew very high as if to peep in disguise at their native world
 is no occasion for fear, because of the abundance of balloons passing and repassing in the sky. I shall lodge where our people reside and in their company.
 
  Grandfather Brahma goes there everyday as a rule, mounted on his peafowl (swan); Siva too, extolled and reputed for dancing, going and hearing the music, dances away delirious with joy. More-over, the twin Gandharvas Ha Ha and Hoo Hoo presented to me a few fruits and flowers as brought from the Earth. Here they are.
-
-
 
 **अयि वत सुमराजं पश्य भूलोकयातं  
 न खलु विगतवर्णं म्लानिहीनं चिराय।  
@@ -1048,9 +933,6 @@ Exeunt.\]
 End of Act I.  
 \_\_\_\_\_\_  
 
-
-
-
 **॥ द्वितीयोऽङ्कः ॥**  
 ![](../books_images/U-IMG-1723995079Screenshot2024-08-18081224.png)![](#)![](#)
 
@@ -1078,8 +960,6 @@ Enter Jayanta disguised as an old ascetic.
 
 ** Ascetic.–**The shining moon, ornament of the Heavens, is drowned in the sea, deprived of all radiance, a prey to envy at the sight of the sun (His friend) driving a Vehicle of 7 horses and of Aruna’s (his charioteer’s) roseate hue. (On the other hand), this
 
-
-
 **सिन्धोर्बन्धौ मृतेऽपि स्वयमयमुदितो मोहसंवृद्धवर्चाः  
 पद्मिन्या जालमार्गे प्रकटितसुभगः क्रीडते बालहंसः॥१॥**
 
@@ -1093,8 +973,6 @@ Enter Jayanta disguised as an old ascetic.
 young sun is himself coming forward with radiance swollen by pride, and is gambolling with a full display of glow in the window-crevices of lotus-damsels, although a kinsman (like himself) of the ocean, Viz., the moon, has just died.
 
  What! are a thousand eyes sufficient to gaze on this dense charming pleasure-garden that forms a collection of floral beauties, that is filled with scented damsels, that forms a spot refreshed by the gentle breeze, that is the sporting ground of the Goddess of Fortune (Lakshmi), and that is filled with soft and soothing sounds and the melodious hum of bees ?
-
-
 
  (नेपथ्ये।) इतइतस्सखि।
 
@@ -1119,8 +997,6 @@ branches of a tree.
 
 ** Leela. —** Friend, see now ; but yesterday this was a fearful jungle, was unworthy of human visit, was full of abundant thorn-trees,
 
-
-
 दावदहनभीजनकतया दारुणा अह्न्यपि विना किरातान् जनसञ्चारविधुरा सेयमद्य दिव्यारामतया विराजते॥
 
  पश्यावकेशिन्यो विटपलेखारोमाञ्चहृष्टाः प्रसवमहोत्सवाः फलिन्यः प्रकाशन्ते॥
@@ -1137,8 +1013,6 @@ branches of a tree.
 was a place in which herds of cattle were caught surrounded by bamboos on fire, was dreaded even by the lion because of the fear of jungle-fire, was unfrequented by any human being even during the daytime except the hunters,—this very jungle now shines as a divine garden. See, the barren branches of the tree are radiant with fruits, enjoying a festivity of fruitbearing with the thrill of hair standing on end.
 
 ** Champaka.—**This dark Jamboo (rose-apple) fruit of yours, of a cloudy hue resembling the complexion of the Lord, and coloured like the stones of the gandika river (sali gram), pours its affectionate drops of honey for
-
-
 
  **रामा—**पश्यायं पादपः स्वस्कन्धग्रन्थिष्वपि फलाढ्योऽकालपल्लवोऽन्तरङ्गामोदसम्भ्रमकम्पितः श्रीकृष्णसान्निध्य माहात्म्यं विवरीवरीति॥
 
@@ -1159,8 +1033,6 @@ the repast of Gopas, well-fattened (as they are) by the grace-filled glances of 
 
  One—the shower-sprinkle of the glances of whose rosy eyes renovates even the inanimate kingdom in the forests.
 
-
-
  **रामा—**पश्य पश्यायं तरुः स्मरतापाभिघातेनेव स्वत्वचं विमुञ्चन्सम्मूढचित्त इव पलाशनिबिडशिखरकम्पनेन स्वोन्मादं सूचयन्नूर्दते॥
 
 ** यतिः— (स्वगतम् ।)**
@@ -1175,8 +1047,6 @@ the repast of Gopas, well-fattened (as they are) by the grace-filled glances of 
 ** Rama**—See, see how this tree casting away its bark because of the onslaught of Cupid’s heat, as it were, keeps playing, indicating its madness by the oscillation of its leafy head.
 
 ** Ascetic.—**( To himself) who knows?, in this line (of trees), there may be dwelling gandharvas, referred to by my mother, that have gotinto the vegetable creation with hearts subdued by the onslaught of Cupid. There too, without having an end of the troubles of love byreason of seeing damsels like these, they surely proclaim well by means of whirling tufts the reeling of madness.
-
-
 
  कमला–**स्मरसि सखीमामतिमुक्तलतां कदाप्येवंरीत्याम्रस्कन्धदृढालिङ्गनगात्रां स्वसौभाग्यातिशयदर्शनकृते भवादृशीर्लतान्तप्रलोभ्यबाहुभिरामन्त्रयन्तीं पूर्णकामतया विहरन्तीम्॥
 
@@ -1193,8 +1063,6 @@ the repast of Gopas, well-fattened (as they are) by the grace-filled glances of 
 
 ** Rama.—**Friend, it is your father’s fault that he has not understood (your) bent of mind, his daughter’s (your) youth being fairly advanced. I know not what is the reason that delays the marriage although bridegrooms are available in plenty, and you are of such supreme loveliness.
 
-
-
 **  कमला–**इदानीं मम परिणयप्रसङ्गस्य कोवावसरः न गणयामि ते वचनम्॥
 
 ** रामा**–मा कुरु मन्युम्। तवोत्प्रेक्षास्मारितमेवावदं पश्य—एषु वृक्षेषु किमिदमौद्धत्यं वंशस्य कण्टकाङ्गस्य हुताशनप्रियाहार-स्यातिकठिनध्वनेः सख्यसम्पद्विहीनस्य कृषीवलनिष्कासिततराः। पश्यास्य दर्पं भगवदधरचुम्बिवेणुस- पिण्ड्यमात्रेणारोहं मेघमण्डले
@@ -1206,8 +1074,6 @@ the repast of Gopas, well-fattened (as they are) by the grace-filled glances of 
 ** Rama—**Do not take offence. I simply stated what your figure of speech put me in mind of ; see, of all these trees, what is this haughtiness of the bamboo, a tree of thorny limbs-a favourite food of fire, ever making a jarring rattle, a tree rejected by the agriculturist as barren of harvest. Observe its pride and upward-growth into the region of the clouds just because of consanguinity with the flute kissing the nether lip of the Lord.
 
 ** Mohini.—** Let the trees of the bamboo-genus be egotistic by reason of kinship with the Lord's flute. Why should this cocoanut. tree be so elated? Why this areca I know
-
-
 
  **लीला—**अप्यस्ति वैकुण्ठे ईदृशी मृद्वीका ननु सन्ति तत्र एवमुच्छ्रिताः वञ्जुल कदम्ब तमाल रसाल रम्भा चम्पक शिरषि धत्तूर केतक जपा जम्बीराः। अस्तीह हि वैकुण्ठः। आगच्छत सह भक्त्या श्रीशानुचर्यः सर्वे मुरारिसेवां विधातुम्॥
 
@@ -1229,8 +1095,6 @@ Enters.
 Taken aback, all manifest surprise and stand  
 with bent heads of modesty.
 
-
-
 ( प्रकाशम् ।)
 
 **श्रान्तोऽहं पादचारी यतिविहितकृतौ जीवितायुर्जरान्तं  
@@ -1247,8 +1111,6 @@ with bent heads of modesty.
 **Leela.—**Friend, this is an aupicious day when an opportunity has presented itself to serve such a guest as this. Let us take him to the hermitage of Chitrangee where a hearty welcome is always given to guests. in need (mendicants).
 
 Exeunt.\]
-
-
 
 **॥ उपाङ्कः २॥**
 
@@ -1270,14 +1132,11 @@ Exeunt.\]
 **Forest; in a Studio of Art.**  
 Enters Chitrangee.  
 
-
 **Chitrangee.—** (Sings)
 
  1. O Protector of Yadoos, my heart prompted by love longs as a bee for the lotus of Thy face. That—(my mind) is buried in Thee that art a purifier of the fallen, art indeed auspicious, and possesseth Love's (beautiful) face.
 
  2. Oh Lord, my eyes long to see Thee, the delight of all eyes, the grantor of every
-
-
 
 **जलदसुन्दरं रत्नमण्डितं  
 रुचिरभासुरं गोत्रमण्डनम्॥९॥**
@@ -1300,13 +1159,10 @@ wish, the cloud-hued beauty bedecked in gems, of sweet radiance, Thee—that art
 
  4. The Jumna conveying lotus-blossoins wends its way slowly with obstructed speed to the ocean-terminus, making whirls of pools and occasionally becoming stagnant to catch a single glance of (Thy) face.
 
-
-
 **विविधपादपाः पुष्पवाहवो  
 विनतकन्धरा दैन्यवेपिताः।  
 डयनकाङ्क्षिणोनद्धभूतला  
 ह्यचलतां स्वकां गर्हयन्ति ते॥१२॥**  
-
 
 (नेपथ्ये॥) इतइत आर्याः॥!
 
@@ -1328,13 +1184,9 @@ wish, the cloud-hued beauty bedecked in gems, of sweet radiance, Thee—that art
 
 **Leela—**Honoured sir, Chitrangee dwelling here will supply the requirements of hospitality
 
-
-
 स्वीकारेण। चित्राङ्गिः, श्रान्तानामपूज्यचरणास्तेषामातिथ्यपरिचर्यया धन्या भव। पुष्पसेचनकर्मसमाप्यायास्यामि॥  
 
-
 (निष्क्रान्ता लीला।)  
-
 
 ** चित्रांगी—** प्रभो वन्दे ॥ (इति नमस्करोति ।)
 
@@ -1346,14 +1198,11 @@ as you may desire, for the propitiation of the deity of her worship. Eonour (us)
 
 (Exit Leela.)  
 
-
 **Chitrangee.—**Sir, I salute (So, prostrates).
 
 **Ascetic.—**May good befall yon. Let there be an early fulfilment of your wishes by the acquisition of an excellent husband.
 
 **Chitrangee.—** That is possible only through the grace of Yogees ( yourselves).
-
-
 
 **“ये स्तेयानृतदंभेर्ष्या  
 हिंसा मान विवर्जिताः।  
@@ -1377,8 +1226,6 @@ as you may desire, for the propitiation of the deity of her worship. Eonour (us)
 
 **Ascetic.**—I am indeed a constant wanderer on earth, a sky-clad ascetic that has renonnced all
 
-
-
 **भवादृशीर्भक्तिविरक्तिमानसा  
 विलोक्य चित्तं लभते सुखं प्रिये॥१४॥**
 
@@ -1393,8 +1240,6 @@ desires. My heart derives pleasure, darling, at seeing persons like whose though
 **Chitrangee.—**Welcome to your Holiness. Ideem myself blessed by having my soul purified by the hoard of spiritual merit resulting from a contact with the dust of your Holiness' fcot.
 
 **Ascetic.—**Darling, by reason of the spiritual force that gives me ability to journey through all the three worlds, I have within the range of attainment; every desirable object that may be found within the confines of the space guarded by the lords of the eight:quarters : ask any bocn of me, I shall grant it.
-
-
 
 ** चित्रांगी—** मदभिलषितं भवद्भिरशक्यसंपादमं चिन्तयामि॥
 
@@ -1419,8 +1264,6 @@ desires. My heart derives pleasure, darling, at seeing persons like whose though
 
 **Ascetic.—**There is in the jungle, an abundant treasure of Kubera, and I know the cave. I shall bestow on with dazzling gems, worthy, ()! lady, of the gem of a woman. O spotless and lovely damsel, verily, do not reject a treasure that is covetable by all.
 
-
-
 ** चित्रांगी—**
 
 **स्वामिन्गाढतमं वनं तदवला वालाहमेकाकिनी  
@@ -1438,8 +1281,6 @@ desires. My heart derives pleasure, darling, at seeing persons like whose though
  Eating roots and fruits, and drinking the water of the Jumna bright and clean, I worship the Lord of Yogees without fear, by contemplating the foot-lotus of Hari.
 
  There shines in Brindavan a great gem that remained buried in the ocean of milk, undefinable and inconceivable by the words and thoughts of all appraizers,— that was picked up through the bene ficence of the great diver Brahma for the
-
-
 
 **रत्नं कृष्णसुनाम सत्सुविदितं ज्ञानात्कृतार्थं नरं  
 कुर्वच्चोरभयाद्यतीतमहितं वृन्दावने राजते॥१७॥**
@@ -1460,8 +1301,6 @@ extinguishment of the world's poverty, that is known among the learned by the ho
 
 **Chitrangee.—** Who is this lover who wishes to be happy by wedding me, a penance girl of unsteady mind ?
 
-
-
 ** यतिः—**
 
 **इन्दीवरं नयनयुग्ममिदं मृगाक्षि  
@@ -1476,8 +1315,6 @@ extinguishment of the world's poverty, that is known among the learned by the ho
 **Ascetic.—**O Fawn-eyed girl, which man is there, who, after gazing on this pair of eyes consisting of blue lilies, rejects it? This shining form, O creeper of gold, destroys penance. The mental equanimity of mankind throbs with the thrill of hair standing on end.
 
 **Chitrangee.—**Cease, O grandsire, a description of my beauty: your words, rolling eyes, and excitement notwithstanding old age, seems to indicate a returning youth. Let it alone: What sort of a person is he whom you referred to as endowed with Mahendra's greatness?
-
-
 
  **यतिः—** नान्यस्त्रिदिवपतेराखण्डलस्य सूनोर्जयन्तात्। विचित्ररूपसौन्दर्ययुक्तः। विधिना युवां परस्परकृतएव सृष्टे इति मन्ये। दृश्यतां तस्यालेख्यम्॥
 
@@ -1496,8 +1333,6 @@ extinguishment of the world's poverty, that is known among the learned by the ho
 other by the creator. Let his picture be seen. (*So shows it*).
 
 **Chitrangee—** (*Seeing and heaving a sigh. Pushing aside a veil.*) Look on this beautiful picture of the great Madhava, and then on (that) picture the deformity of a wretched figure deserving only to be spat at. After having looked on the swan sporting among the lotuses of the heavenly pond Manasa, which maiden swoons away at the radiance and gait of the crow and the exquisite melodies thereof?
-
-
 
  पश्येदं चित्रं भगवद्वेणुगानसभाप्रवेशसूचकं गोपिकापरिवृतसुन्दराङ्गम्॥(इत्यूर्ध्वमेव दृष्ट्वा ध्यानमग्नाबभूव।)
 
@@ -1522,8 +1357,6 @@ ths ascetic's guise.*
 
 **Jayanta.—** Alas, the distracting poison consisting of the dazzle of your body is permeating the head, O Chitrangee. I am utterly unable to suffer, O damsel, what is actuated by your features. The heat of Cupid's dart
 
-
-
 **तापश्चित्तजबाणगो दहति मे लीनं त्वदङ्गे मनः  
 कान्ते मत्तइव भ्रमामि सदयं पाहीति याचेऽनघे॥**
 
@@ -1544,8 +1377,6 @@ fear-stricken and stunned, stands
 mute for a while).*
 
  (Aloud) One who concealed his youth in the limbs of old age by assuming the disguise of a deceitful ascetic, who concealed his hair-tuft within a red garment, has now attained fresh youthfulness and is approaching, (is it not,) with a view to entice. Chitrangee and secure her! Wretched man, approach me not if you care for life.
-
-
 
 जीवितेच्छुना। हन्त कलिस्वरूपोऽसि। वृन्दावनतलस्पर्शं नार्हसि। अहह ईदृशशटदुश्चर्यपथवर्तिन्यस्मि।
 
@@ -1570,8 +1401,6 @@ mute for a while).*
 
  (To herself) Lord Krishna, Ocean of grace, save me a forlorn adherent of yours from this calamity-this unexpected danger caused by a lustful human criminal. Taking up abode in a forest as your devotee, with no other protection than yours, I have become a maiden who, being caught and imprisoned in a net, like a fish, cries out for help.
 
-
-
 ** जयन्तः—**विधुवदने,
 
 ** चित्रांगी—**दुष्ट, आस्तां दूरतरे॥
@@ -1591,8 +1420,6 @@ mute for a while).*
 
  (To herself). Lord, I curse this wretch. Pardon me. If my mother is a chaste lady, and my father, a great man of faultless mind, if I am a chaste woman of piety, engaged in the contemplation of Krishna and never thoughtful of any other person my husband, then may this fellow become a eunuch, so that he may no longer cause pain to women, and may no redemption take place to him except by a contemplation of Thy feet.
 
-
-
 ** जयन्तः—** आः कष्टममङ्गलं प्राप्तम्। चित्राङ्गि नार्हाम्येतामवस्थां तपोधने॥
 
 (नेपथ्ये।)
@@ -1605,8 +1432,6 @@ mute for a while).*
 *Behind scenes.*
 
  Alas, Alas! From the woods, a herd of elephants with she-elephants and little ones following behind with a destructive roar, along a road rendered miry from a constant shower of liquids flowing from their delirious forehead, temples and trunks, is rushing forward without belly-ropes, or bondage, or the tail rope, unrestrained by the chain or the spear, frightened by the excitement of an uproar caused by the great ringing of hunters' bows, by the whistle of powerful darts, and by the Jhana Jana noise
-
-
 
 कासन्नादसम्भ्रमकातरं यूथपपुरोगममायास्यति चित्रशालाभिमुख्येन। अपसरत मंदगजतामार्गतस्सर्वे॥
 
@@ -1630,8 +1455,6 @@ of trumpets and bells, and led by the lord of the herd, towards the hermitage of
 \[*Exeunt*\].
 
 ————
-
-
 
 **तृतीयोऽङ्कः॥**
 
@@ -1660,8 +1483,6 @@ Engaged in sacrificial rite*.
 
  Reverend Sirs, if this sacrifice for getting issue-be performed, my wish will be achieved: Is it not?
 
-
-
 ** पुरोहितः—**वरुणाय स्वाहा वरुणायेदं न मम॥
 
  न तत्र ईषदपि सन्देहः। अत्र सामाजिका महामहिमोपेता वर्तन्ते। स्थपतिः सोमपाः सर्ववेदाः इत्यादि महायज्ञकर्तारः। देवयज्ञमनुष्ययज्ञ पितृयज्ञ-भूतयज्ञचतुराः अध्वर्यूद्गातृहोतृप्रमुखाः सर्वे सन्निहिताः॥
@@ -1680,8 +1501,6 @@ Engaged in sacrificial rite*.
 * Addressing the Acharyas.*
 
  “He is styled a Brahmin who performs these 6 acts (1) sacrifice, (2) study, (3) gift, (4) officiating as a sacrificial priest, (5) teaching, and (6) acceptance of gift” From this saying, it is only in you that Brahminism exists in full perfection.
-
-
 
 ** आचार्याः—** तथैव। एतादृशदिव्ययज्ञभूमावलभ्यः कोऽपि पुरुषार्थो नास्तीति सर्वेषामेकामतिः॥
 
@@ -1708,8 +1527,6 @@ Engaged in sacrificial rite*.
 **Purohit.—** Not at all.
 
 **Adhwaryu.—**Among the Vedas, elders deem the recitation of Yazur Veda as particularly meritorious.
-
-
 
 ** उद्गाता—** सामवेदः किल कर्णरमणीयः। प्रसिद्धन्नु स्मृत्यां साम वेदस्योत्तमत्वम्। “वेदानां सामवेदोऽस्मीति”॥
 
@@ -1745,8 +1562,6 @@ Engaged in sacrificial rite*.
 
 **All.—**The cultivation of Vedic barren soil becomes only those who are incompetent to perform the other sacrifices.
 
-
-
 (नेपथ्ये।)
 
  हा धिक् हा धिक् मन्त्रपूताः पशवो गोपालकैरपकृष्टाः॥
@@ -1770,8 +1585,6 @@ a Victim sheep.*
 
 **Yagnacharya.—**You heretic wretch! How dared you touch the sanctified victim? What is the cause of an audacity like this on your part?
 
-
-
 ** गोपः—**जीवत्पशुहिंसा सर्वथा न कर्तव्या किं तु पिष्टपशुं कृत्वा यागस्समापनीय इति कृष्णो वदति॥
 
 ** यज्ञाचार्यः—**किमरे जानास्यस्मिन्विषये वृद्धान्बोधयितुम्॥
@@ -1789,8 +1602,6 @@ a Victim sheep.*
 **Gopa.—** Old sir, Krishna says that you do not perform the rite out of pious thoughts, that some of you are indeed hypocrites mindful of ostentation and bent on fame, grow long beards, and adhere to Karma from mere selfishness, aiming only at the goals of conventional duty, wealth, and desire, and no more.
 
 **Yagnacharya.—** Sirrah, impious wretch, release thevictim.
-
-
 
 ** गोपः—**
 
@@ -1814,8 +1625,6 @@ a Victim sheep.*
 
 **Yagnacharya.—**Sensible persons say that the words of a boy and his impertinent questions are not entitled to regard. Animal torture
 
-
-
 **यागीयहिंसा भुवि शास्त्रसिद्धा  
 घातः पशोः श्रोत्रियधर्मएव॥२॥**
 
@@ -1831,8 +1640,6 @@ a Victim sheep.*
 is enjoined by the scriptures all over the Earth. It is quite lawful for a Srotriya (a sacrificial Brahmin) to kill the Pasu.
 
 **Gopa.—** Great skill in disputations over the shastras, and cleverness in creating a delusion in the minds of ignorant people,— this has been acquired by you by loud recitations and by a laborious cram of logical platitudes. Sound knowledge has not been obtained at all. How is it that the minds of you Deekshitas (sacrificial Acharyas) have here turned to wicked ways, in which sheep is slaughtered, and to animal food however agreeable to appetite?
-
-
 
 **आश्चर्यं लज्जिता नो परमपदयुगध्यानाहीना अपिज्ञाः  
 वर्षीयस्त्वाज्जराया गलितदशनतः पूज्यता वो न बोधात्।  
@@ -1852,8 +1659,6 @@ It is a wonder that you are not ashamed, that you are (deemed) learned people th
 
 **Yagnacharya.—**Fie on the utterance of this fellow, taught by some ignorant person. It will not be acceptable to elders. Peons, seize the victims with a view to slaughter and kill them with (your) armed (sword-wielding) hands for the completion of the sacrificial rite.
 
-
-
 ** गोपः—**(स्वगतम्।)
 
 **दयालो जन्तूनां सदयपरिरक्षापर हरे  
@@ -1871,8 +1676,6 @@ It is a wonder that you are not ashamed, that you are (deemed) learned people th
 ** Gopa.—** (*To himself*)
 
  O Hari (ever) engaged in kindly providence, and merciful to all creatures, they are killing Thy creatures mercilessly, perverted (rendered wicked ) by haughtiness. Incapable as they are to make a single dead thing alive by the force of even a hundred sacrifices, how bold are they in causing death, for the sake of themselves, (their) homes, women and children? O tender hearted Hari, kinsman of all creation, who busied Thyself in feeding cats, in liberating inanimate trees, in carefully tending cows, and in promoting the joys of Vraja's inhabitants, Oh Murari, God supreme, the flock of victims (sheep) beseeches Thy mercy.
-
-
 
 ** भटः—** (असिना पशुं संहर्तुं निर्गत्य। हा हा। इति भीतिंप्रदर्श्य।)
 
@@ -1898,8 +1701,6 @@ It is a wonder that you are not ashamed, that you are (deemed) learned people th
 
 **Yagnacharya.—** Having wedded a wife for the sakeof issue, I have long been broken-hearted by the grief of barrenness. Alas (now), the obstacle to the realization of (my) wish by seeking the divine favour of the Lord of the Heavens!
 
-
-
 **संप्रेष्य पत्रं च सुराधिपाय  
 नावाप किंचित्पुरुषार्थलाभम्।  
 व्यर्थो बभूवाखिलयत्नपूगो  
@@ -1917,8 +1718,6 @@ It is a wonder that you are not ashamed, that you are (deemed) learned people th
  By sending a petition to the monarch of the gods, I derived no benefit whatever: all united efforts have become vain; indeed the prowess (lustre) of Mahendra seems bedimmed.
 
  (*Behind scenes*) Listen, Listen to the proclamation in the heavens to the accompaniment of the divine trumpet. The divine herald says in an invisible form, “Verily, adore the king of Devas with thoughts bereft of arrogance. Seek him for shelter(go to him), Ohuman fools, and
-
-
 
 **सववरसुरकार्ये यद्युपेक्षा कृता स्यात्  
 कुपितसुरगणाः कुं घोरदण्डैः पिपूर्युः॥११॥**
@@ -1938,8 +1737,6 @@ It is a wonder that you are not ashamed, that you are (deemed) learned people th
  We will release these Pasoos polluted as they are by sacriligeous contact: we will carry out our object at some other time auspicious enough to ensure an unimpeded fulfilment of the rite.
 
 \[*Exeunt all, with surprise*\].
-
-
 
 **उपाङ्क॥२॥**
 
@@ -1964,8 +1761,6 @@ articles of worship.*)
 
 **Champaka.—**Everything is special flowing from Hari’s greatness. I heard that yesterday a great danger befell you and was averted by our Lord Gopeenath casting a glance of grace. Is this true?
 
-
-
 ** चित्रांगी—**तथ्यमेव। कश्चन शटो दुर्बुद्धिमकरोत्। भगवत्कृपया नाभवदनर्थः। सखि तादृशीविपदपि महालाभसम्पादिका बभूव॥
 
 ** चम्पका—**कथमेतत्॥
@@ -1986,8 +1781,6 @@ articles of worship.*)
 
 (*They both sit down on a marble stone*).
 
-
-
 ** चित्रांगी—**ग्रीष्मकदिनान्तेऽनातपप्रच्छायमन्वेषयन्त्यो गोपालगोपिकास्सन्निहितकालिन्दीशीतलप्रतीक्षाकुतूहला यमुनाकूलमगच्छन्॥
 
  महान्बभूव गोपकिशोरतरुणानां कलकलः नवयौवनरमणीययुवतीनामुत्क्रोशः, तासां विचित्राभरणमणिगणानां नूपुराणां क्वणितकलकलः शिरोमण्डननवकुसुमान्तरितमधुकराणामुन्मत्तझङ्कारः अप्रतिबद्धोल्लासजातजयघोषः। श्रीमुकुन्दप्रभुवीक्षणप्रत्याशामूलकनिनादो महान्गगनचुम्बी वनाद्वनं प्रतिध्वानितस्सात्त्विकानामशेषाणां मुमुक्षूणां
@@ -1998,15 +1791,11 @@ articles of worship.*)
 
  Great was the outburst of joy caused by the gopa-boys and adults,—great, the shout of damsels charming in the freshness of youth, the ringing clang of their anklets and of the gems of their variegated ornaments,—the maddened hum of bees swarming inside the fresh blossoms adorning their heads, the triumphal shout of unimpeded ecstasy; the tremendous outburst arising from an eager prospect of meeting the Lord Mukunda kissed the
 
-
-
 स्थावरजङ्गमानां निरतिशयसम्मोदाविर्भावकसन्देशं प्रापयत्। उद्बभूव रजनीराजष्षोडशकलापूर्णो निर्मलताराभिवन्दितामृततरङ्गिणीप्रसन्नो विभावरीं भूरुहान्तरेषु कारानिबद्धां कुर्वन्कुमुदकलिकां निरोधविमुक्तां कृत्वा तन्नयनं वासुदेवदर्शनसमर्थं तन्वन्जाटरजातवेदसा जातं सागरसन्तापमपानुदन् तमामोदवर्धितं कृत्वा जलधराङ्गमालिङ्गितुमिव प्रो-
 
 ————————————————————————————————————————————————————
 
 heavens, and, being echoed from forest to forest, conveyed a message of unmeasured delight to all good people, to all aspirants of Heaven and all immoveable and moveable objects. Then arose the monarch of the night (moon) in the perfection of 16 crescents, shining with a moonlight honored by the crystal (clear) stars, imprisoning the shades of the night underneath the branches of trees,—releasing the Kumuda bud from incarceration and thereby enabling its eyes to look upon Vasudeva,—quenching the great heat of the ocean born of its embowelled fire, and exciting him, as it were, to embrace the cloud-hued Lord by making him grow up with joy, and kindling even cupid into life, destroyed as he was by the fury of Siva, with the aid of a majestic
-
-
 
 त्साहयन्मलयगम्भीरमन्दमारुतेन चन्दनागुरुसुवासितगन्धेन देवपारिजातरजोवाहिनोपकृतस्सन्हरकोपहतमपि स्मरमुत्तेजयन्रराज विधुमण्डलः॥
 
@@ -2022,8 +1811,6 @@ and gentle Malaya breeze wafting the fragrance of sandalwood and Agaru, and bear
 
  Then appeared Hari, a veritable Cupid of Cupids; came forth the Lord of the Universe, the sanctifier of all that is holy on earth— the solitary goal of Vedas, in
 
-
-
 वसुदेवतनयो यशोदाक्षीरवर्धितोऽस्य सपिण्डस्तस्य बन्धुः अस्य सखा तस्यारिः। उदगात्सुन्दराङ्गो भ्राजमानमणिकुण्डलो द्योतमानकौस्तुभः प्रकाशमानमेखलस्तेजस्विनूपुरो जाज्वल्यमानशङ्खचक्रलाञ्छनोऽसितकुन्तलावृतमुखपद्मत्समस्तभुवनचित्तवृत्यपकर्षकमन्दहासभ्रूविलासो वनमाली पीताम्बरो जलभरितघनस्यामायमानदिव्यमङ्गलगात्रः॥
 
  महांस्तदा बभूव स्वागतकोलाहलतलध्वनिविशेषकलकलः॥
@@ -2034,8 +1821,6 @@ common parlance the younger brother of Balarama, the son of Vasudeva, the nursli
 
  Then was indeed tremendous, the special outburst of cheers offered in the ectasies of welcome.
 
-
-
  आरब्धं बभूव निशीथे खलु सप्तस्वरवेणुगीतं भगवता। प्रावहदमृतधारा वेणुविवरेभ्यः। निर्जग्मुस्स्वरजात्यो विरिञ्चवैरिञ्चादि सर्वानुद्बोधयितुम्। गोप्यस्तु विस्मृतकलेबराम्बरास्समाध्यवस्था बभूवुः रमादयश्च स्वस्वास्थानादवतीर्य निकटवर्त्युद्यानलतासु तुलस्यादिषु चाभिमन्यमानास्तेभ्यो विचित्रपरिमलमाहात्म्यमारचय्य गीतिकाकृतमूकीभावास्तदर्थध्यानार्थं जडेष्वतिष्ठन्॥
 
 ———————————————————————————————————————————————————————
@@ -2043,8 +1828,6 @@ common parlance the younger brother of Balarama, the son of Vasudeva, the nursli
  At midnight was commenced by the Lord the music of the flute in all the variety of the seven musical pitches. From the holes of the bamboo flowed forth a stream of nectar; varieties of tunes started away to awake Brahma, Siva, and all.
 
  The gopees rendered unconcious of the body and clothes, fell into a meditative trance. Goddesses from Lakshmi donwards descending from their abodes became presiding deities in the creepers of adjoining gardens, in Tulasi, and other plants, imparting superiority to them by means of unusual fragrance, and stayed away in (those) inanimate objects, stricken mute by the music, with a view to ponder over its import.
-
-
 
 भक्ताग्रेसरस्समीरः ईषदपि गानस्य क्षोभमसहमानो मन्दवेगेनाल्परवेणोपगीतं कुर्वन्गेयसभास्थान्चन्दनादिना सभाजयन्सर्वव्याप्ततया सर्वसौकर्यनिर्वाहको भगवत्सेवां चकार॥
 
@@ -2064,8 +1847,6 @@ common parlance the younger brother of Balarama, the son of Vasudeva, the nursli
 
 **Chitrangee.—** Friend, what about these articles of worship: I did not notice your being fully adorned: where are you going?
 
-
-
 ** चम्पका—**अतिविस्तरा खलु ममागमनकथा।
 
 ** चित्रांगी—**भगवत्संबन्धित्वाच्छ्रोतुमिच्छामि। कथय सर्वम्॥
@@ -2080,8 +1861,6 @@ common parlance the younger brother of Balarama, the son of Vasudeva, the nursli
 
 **Champaka.—**I woke up at dawn; called to mind the Lord Gopeenath, the deity worthy of universal adoration; and reflected as follows: O Lord, save Thy adherent, slave of slaves; enter the abode of my heart,sanctify the floor of my heart with the particles of Thy foot-lotus; may Thy two feet sport therein for ever. May it dislodge the dense beginningless ignorance therefrom. May Thy judgment consume the hoard of sins therein, the growth of a time devoid of beginning, a hoard that is not removable by anybody except Thee.
 
-
-
 वरान्तर्गतश्रीलक्ष्मीनारायणाय दास्यामीति। ऐक्षे स्थिरदृष्ट्या मम भर्तारं पर्यङ्कशायिनं गाढनिद्रालुमस्मिन्नु मे पतिशिखामणिर्विराजतइति॥
 
  हन्त तद्धृदयगुहान्तरे तदाऽपश्यं भासुरं श्रीलक्ष्मीनाथम्। पत्यन्तर्यामिदर्शनसम्भ्रमोन्मादातिशयेनाभवम्मूर्च्छिता। अनन्तकोटिजन्मसुपरिणितासंख्येयपतिभिस्संसारे कान्तारे यामवर्णनीयामार्तिमन्व-
@@ -2091,8 +1870,6 @@ common parlance the younger brother of Balarama, the son of Vasudeva, the nursli
  Moreover I called to mind the words of my father uttered at the instance of the Priest at my wedding (viz) “I give this girl unto the bridegroom,—unto Lakshmi-Narayana dwelling in the bridegroom.”I stared fixedly at my husband who lay in bed and slept profoundly, thinking to myself “within him, is it not, shines the crowning jewel of a husband to me.”
 
  O joy, in the internal cave of his heart I then visioned Sri Lakshmee’s Lord. I swooned away at the ecstasy and delirium caused by seeing (face to face) the Dweller within my husband. I recollected what indescribable sufferings I underwent in the jungle-journey of carnal lives with innumerable husbands wedded to me in count-
-
-
 
 भवं तामखिलां स्मृत्वा अहो अद्य हि जन्मसाफल्यं जातमद्य हि प्रभोः कृपाकटाक्षपातो जातः इत्यानन्दभरिता उदयरागं गीत्वा ईडांचक्रे॥
 
@@ -2108,15 +1885,11 @@ less crores of births, (and pondered), “Oh joy, it is *now* that the fruit of 
 
  Enjoined by the mother-in-law in various duties of the household, I did them, though absent-minded, for fear of transgressing elder’s orders. At that time I heard the
 
-
-
 नूपुरकिङ्किणीगीतं नवनीतचौर्यानन्तरं पलायमानसमये गोप्याशिक्षार्थमनुगम्यमानस्य भगवतः किङ्किणीशब्दम्। तेन विक्षिप्तचित्ता नियुक्तकार्यविस्मरणात्तिलचणकमसूरसर्षपादीन्धान्यत्वचा मिश्रितवत्यधावं निकटगृहस्थं मायिनं द्रष्टुम्। अनवलोक्य तत्र तं प्रतिनिवृत्य स्ववेश्म चिन्तायां बभूव मग्ना। अनन्तरमानन्दाम्बुभिरचिन्तयं न मन्ये कां सेवां जन्मान्तरेऽकरवङ्कुलीनाध्यापकाय। कां च पत्यन्तर्गतश्रीलक्ष्मीनारायणाय कथं वा शिश्राय भगवन्तं श्रीहरिदिवसोपवाससहस्रशतकैरन-
 
 —————————————————————————————————————————————————————
 
 music of the anklet-bell in the neighbouring house—the anklet-noise caused when he was running away after stealing butter and was pursued by the gopee to be punished. Distracted thereby and forgetting the business assigned to me, I mixed up gingelly, Bengal gram, pulses, and mustards, with husks of grain, and ran to meet the enchanter in the house hardby. Not findinghim there and returning home, I became immersed in thought. Then Ireflected with joyful tears: “I know not what service I rendered in other births to elders of learned ancestry and preceptors of shastric lore; what worship I did to Sri Lakshmi Narayana dwelling in the husband’s form; I know not how I served the Lord by hundreds of thousands of fasts on Ekadasi
-
-
 
 वरतभागवतादिप्रबन्धकथाश्रवणमननलब्धया प्रभुपादारविन्दभक्तया। अहो आश्चर्यंमया स्वाम्यपरोक्षितस्तेजोमय इति॥
 
@@ -2126,15 +1899,11 @@ music of the anklet-bell in the neighbouring house—the anklet-noise caused whe
 
 days with a devotional faith in the Lord’s Lotus-feet, acquired by an incessant study and contemplation of His deeds as narrated in works such as Bhagavata. Oh joy, that I have met the Resplendent Lord in visual communion. Making up my mind that this body is a commodity of the universal King, I adorned it with jewels to render it a suitable dowry of the great God. I stood before a mirror as high as a man. I dressed the hair, wore the plaited braid, decorated the ears and nose, wore a medalled neck-lace, wore earrings made of diamonds and gold, shining bangles on the wrists, armlets over the arms, resplendent rings on fingers, surrounded the waist with belt, put
 
-
-
 रसनासंवीतनितम्बा क्वणन्नञ्जीरभूषितगुटिकाङ्गुली निवीतकौशेयराङ्कववसनकूर्पातकप्रावरणमण्डिता चन्दनचर्चा। प्रस्थिता प्रभुचरणयोस्समर्पयितुमिमं जनम्। प्रस्थिता विविधपूजापरिकरैस्तह कम्रमानसा त्यक्त्वालज्जां प्रत्याख्यानाभिभवकातरी दान्ता शान्ता मनसा नमत्सितगुरुचरणारविन्दा उपासितकुलदेवता ध्वस्तसांसारिकाशा गवेषितसन्मार्गा अवगणिताऽसद्बन्धुदुराशा। एवमनार्गयं भगवन्तं यादवरत्नाकरकौस्तुभं यशोदापुण्यपुञ्जकल्पद्रुममहाफलं व्रजजननयनचकोरचन्द्रमसं
 
 —————————————————————————————————————————————————————
 
 on garments, bodice, and borders of silk and wool, smeared the body with sandal, and started to offer away this person at the feet of the Lord—started off with various offerings of worship, with a mellowed mind, renouncing timidity, slightly afraid of being rejected or disregarded, subdued in spirit, steadied in thoughts, having offered mental salutation at the feet of my spiritual preceptor—having rendered worship to the family deity—having renounced all worldly longings,—in search of the true path, after disregarding the improper commands of impious relations. Thus did I seek Him, the Kaustuba gem of the ocean consisting of the Yadu race, the august fruit of the Kalpa tree consisting of Yasoda's accumulated merits,—the Moon of the chakora birds consisting of the delighted eyes of Vraja’s inhabitants,―the
-
-
 
 कदध्वमत्तगजकण्टीरवं अविद्यान्धकारपूषणं गोवृन्दचातकजीमूतम्। सर्वान्तर्यामिणम्। प्रस्थिता द्रष्टुं श्रीकृष्णं राजाधिराजम्॥
 
@@ -2166,8 +1935,6 @@ destructive Lion of the maddened elephants consisting of wicked people, —the S
 
 **Narada.—**Boy Jayanta, what is this ugly form? Alas, what a condition has been reached? Whence did you get this?
 
-
-
 ** जयन्तः—**प्रतिशिखामणे अभिवादये। क्वनुखलु प्रयास्यामि लज्जया। जातश्शक्रभवने। वर्धितोऽहममरावत्याम्। व्यहरमैरावताधिरूढो नन्दनवने। जज्ञौ रम्भाप्रमुखाभिरनवरतसुरतभोगायैव निर्मितं मे जन्म। आः कष्टं मुने सर्वथा न शक्नोमि सोढुम्॥
 
 **हा हा दैवं मदेदंसुकठिनहृदयं निर्दयं जातमद्धा  
@@ -2178,8 +1945,6 @@ destructive Lion of the maddened elephants consisting of wicked people, —the S
 **Jayanta:—**O eminent ascetic, I salute you with humility: where shall I go away for shame? I was born in the mansion of Indra and brought up in Amaravati. I roamed about in the pleasure-garden Nandana riding the elephant Airâvata. I considered my existence created only for an incessant enjoyment of sensual pleasures with damsels, Rambhá and others. Alas the woe! Osage, I am utterly unable to bear it.
 
  Alas, Alas, this my god has verily turned hard-hearted and merciless. Alas, by His ordainment, even the splendour of Indra has lost its lustre. It may be that I have
-
-
 
 **वित्तं वीर्यं च मे स्यात्परतमपदवी मेघवृन्दाधिपत्यं  
 हा कष्टं ध्वस्तभाग्योऽपतमिह गहनेऽगाधघोरे तमिश्रे॥**
@@ -2195,8 +1960,6 @@ wealth and prowess, a supreme position, and that sovereignty of the world of clo
  O sage, O master possessing a (spiritual) might renowned up to the ends of space, protect a forlorn person.
 
 **Narada.—**Boy, the misery born out of the fruition of wicked Karma makes no exception of anybody human or divine, except the Supreme God. Just as the shining sun and moon are frequently afflicted with eclipses, so now, there is an eclipse for you.
-
-
 
 **चन्द्रं चन्द्रकलाधरं तमथवा नाकेन्द्रभोगं गुरुं  
 भानुं भासुरमण्डलं च वरुणं कालान्तकं धार्मिकम्।  
@@ -2216,8 +1979,6 @@ wealth and prowess, a supreme position, and that sovereignty of the world of clo
 
 **Jayanta.—**Eminent sage, I derive no consolation by hearing of the distress suffered by kings. like Mandhata, or similarly by Siva and others. This fire of love, of dormant animation, is smouldering in my heart, and, being prevented from bursting into flame by a eunuch’s condition, chokes my breath.
 
-
-
 **जात्यन्धस्सहते रुजं ह्यनुभवाभावात्पुरावीक्षणे  
 चापं ह्यैन्द्रमहो विचित्ररुचिरं द्रष्टुं न वै काङ्क्षते।  
 तद्दृष्ट्वा कमनीयरूपमखिलं त्रैलोक्यनिष्ठंपरं  
@@ -2236,8 +1997,6 @@ wealth and prowess, a supreme position, and that sovereignty of the world of clo
 
 **Narada.—**Dear boy, I know the terrible sufferings caused by the curse of a chaste woman, having myself suffered womanhood and begotten sixty sons with trouble. At last, Ibecame released only through the kindness of the lady herself; the gods Brahma, Siva, and all the rest, were unable (to rescue me) though besought.
 
-
-
 ** जयन्तः—**अस्ति दूरतरमन्तरं भवन्ममावस्थयोः। जगन्मण्डलं किल चराचरात्मकं स्त्रीपुंसभेदयुतम्। प्रभवति जन्तुः स्त्रीजन्मन्यपि सर्वानन्दभुक्त्यै॥
 
  न मम दुःखं स्याद्रम्भादियोषात्वेन जनने। का हानिश्चित्राङ्गीवच्छापानुग्रहशक्तिमत्या आभीर्या जन्मभरणे। क्लीबत्वाद्विश्वस्तात्वमपि मन्ये वरम्। प्रार्थनीयं खलु देवपितृमनुष्योत्तमभार्यात्वम्। अस्ति खलु भुवि वरारोहा सुन्दराङ्गी वरवर्णिनी भर्तृसुखावहा द्वितीया
@@ -2247,8 +2006,6 @@ wealth and prowess, a supreme position, and that sovereignty of the world of clo
 **Jayanta.—**There is vast difference between your condition and mine. The whole universe consisting of all moving and motionless objects is subject to the classification of being masculine or feminine. A creature is capable of enjoying every kind of pleasure even in a feminine birth.
 
  There will be no grief to mein being born a woman like Rambha. What is the sacrifice in undergoing birth as a gopee like Chitrangee possessing the power to bless and to curse? I consider even widowhood better than the condition of a eunuch. To be the wife of a Deva, of a Pitri, or of a great man, is indeed to be prayed for. Indeed, in the world, there is the wife who is elegant, beautiful, virtuous, and who is a source of joy to (her) husband, enjoying
-
-
 
 नानावस्थासुखानुभववती क्वचित्कामुका प्रमदा प्रणयकुपिता भामिनी क्वचिदापन्नसत्वा बन्धुनिवहपरिकल्पितज्योत्स्नाभोजनाद्युत्सवशोभिता क्वचिद्वीरसूः कुटुम्बिनी कुलपालिका स्नुषादिपूजितवार्धका एवं विहितकर्मानुष्ठानवती विराजते। ईषदप्यौत्सुक्यं नास्ति तादृशावस्थास्वीकारे॥
 
@@ -2265,8 +2022,6 @@ the pleasures of various conditions of life—at one time, sensuous and passiona
 
 **Narada.—**You are a lad using a jumble of words, misled into a belief of wisdom. Know you the saying of great sages of learning and the pronouncement of the scriptures determining the Vedic import. “Fie on this
 
-
-
 **निस्सारं सरसत्वविभ्रमपदं शारीरकं जन्म धिक्  
 सन्तस्तं मृगतृष्णिकां मधुलवाभावां सदा जानते॥**
 
@@ -2280,8 +2035,6 @@ the pleasures of various conditions of life—at one time, sensuous and passiona
 incarnation of mortal coil, which is sapless, though the subject of a delusion that it is sweet. The wise always regard it as a mirage devoid of the smallest particle of honey.
 
  The poor man desires wealth from a delusion that he would attain the highest goal from riches. One who is full of riches courts a position that carries dignity, and authority to punish (his fellows). Upon attaining that, he (then) fancies that a woman’s faultless beauty is the goal of human existence. But the monarch possessing a house filled:with every covetable object, still sighs, distracted by care.
-
-
 
 ** जयन्तः—**अस्तु संसारे सुखं वा दुःखं वा। मम स्वाभाविकावस्थालाभाय किं कर्तव्यमुपदिश्यताम्॥
 
@@ -2304,8 +2057,6 @@ incarnation of mortal coil, which is sapless, though the subject of a delusion t
 
  (*In the sky*) “Verily, adore the king of Devas with thoughts bereft of arrogance:
 
-
-
 **सववरसुरकार्ये यद्युपेक्षा कृता स्या  
 त्कुपितसुरगणाः कुं घोरदण्डैः पिपूर्युः॥१९॥**
 
@@ -2320,8 +2071,6 @@ incarnation of mortal coil, which is sapless, though the subject of a delusion t
 oh, human fools, seek him for shelter and serve him with faith. If indifference be shown to the sacrificial business of Devas, the offended divine hosts will fill the earth with dreadful penalties.” (Listening), joy! I recognise the voice of Matali. The renowned trumpet proclaiming the supremacy of my father is sounding full. Sage, I go there. I will seek interview again. (later on).
 
 \[*Exeunt.*
-
-
 
 **उपाङ्कः॥४॥**
 
@@ -2353,8 +2102,6 @@ oh, human fools, seek him for shelter and serve him with faith. If indifference 
 
 **Rama.—**It is so rumoured.
 
-
-
 ** कृष्णः—**कुत्र श्रूयते तथा॥
 
 ** रामः—**वैदिकग्रन्थेषु॥
@@ -2376,8 +2123,6 @@ oh, human fools, seek him for shelter and serve him with faith. If indifference 
 **Rama.**—There are here venerable persons like Yagnacharya and others, performers of sacrifices.
 
 **Krishna.**—The Acharyas referred to by you, are they, is it not, who began to slaughter a Pasu (sheep victim ) in a certain sacrifice, only the other day not long ago, mistook the Pasu to be a serpent, abandoned the half-performed sacrifice, and have now commenced and are engaged in another sacrifice (yaga). Question a Vedantin among them if Indra is the prime hero of the Vedas.
-
-
 
 ** रामः—**किमिदमस्माकं इन्द्रो वा स्यादन्योवा प्रतिपाद्यः॥
 
@@ -2401,8 +2146,6 @@ oh, human fools, seek him for shelter and serve him with faith. If indifference 
 
 **Gopas.—**Undoubtedly, yours.
 
-
-
 ** कृष्णः—**दारुणो हि विबुधेन्द्रो वृष्टिनियामकस्तटित्स्तनितविभवेन गगनमण्डलकम्पनशीलः। न वयमिव किन्तु सहस्रनेत्रः। आलोचयत सम्यक्॥
 
 ** गोपाः—**जीवन्तो वा मृता वा भवत्पादरजोनुयायिन एव वयम्॥
@@ -2424,8 +2167,6 @@ oh, human fools, seek him for shelter and serve him with faith. If indifference 
 **Krishna.—**With the aid of these, I will conquer indra.
 
 **Ramna.—**Leave fun alone. Krishna, by meddling
-
-
 
 विना तन्निवेदनं भुक्त्वातेषां मनः कालुण्यंजनयसि। इतःपरं विरमैतादृशकार्यात्॥
 
@@ -2452,8 +2193,6 @@ in other’s affairs, and eating away their offerings without their consent, you
 **Krishna.—**Rama, let us go there.
 
 *Proceed.*
-
-
 
  (पटारोहे।)
 
@@ -2485,8 +2224,6 @@ in their hands.*
 
 **Leela.—**To cleanse one who is the father of Ganga, and is an embodiment of (eternal) knowledge and bliss, with a potful of water, is wonderful; can pleasure be caused to Madhava who rests on the bed of a sea of milk by that (insignificantly small) pot (of water)?
 
-
-
 **क्षीराब्धिशय्यागतमाधवस्य  
 तोषो भवेत्किन्नुघटेन तेन॥२१॥**
 
@@ -2509,8 +2246,6 @@ in their hands.*
 **Champaka.—**A charming garment of yellow was woven with care by skilful weavers of Benares. It is shivering in the wind, flying up and dropping down, not being able to embrace Krishna’s limbs.
 
 **Leela.—**He, Krishna, is (himself) a wonderful weaver, whose clothing is space itself, who is always clad in fresh yellow robes, and who, without the aid of a loom is going to create innumerable heaps of clothes to eave Droupadi.
-
-
 
 ** चम्पका—**
 
@@ -2539,8 +2274,6 @@ in their hands.*
 
 **Champaka.—**Bringing the Tulasi leaves of the forest with difficulty and weaving a garland
 
-
-
 **भक्त्यार्पणाय प्रभवे धरामि  
 धिक्कृत्य मायी क्वहरिप्रियां च॥२६॥**
 
@@ -2565,8 +2298,6 @@ of fine small leaves out of them, here I hold to offer it to the Lord in devotio
 **Leela.—**(Hari), the kinsman of the faithful, reigns by His presence in the midst of every forest where the Tulasi plants abound. Does one, who is blissful with the nectar of an ocean of milk, beg for a little butter-milk, Oh friend.
 
 **Champaka.—**I gathered for the Lord a basketful of Kunda flowers lovely in whiteness. Verily, the Kunda has lost its colour and bloom from the heat of (its) sad and forlorn condition brought about by his absence.
-
-
 
 ** लीला—**
 
@@ -2595,8 +2326,6 @@ of fine small leaves out of them, here I hold to offer it to the Lord in devotio
 
 **Leela.**—Krishna is no bee to save the lotus; on the other hand, I consider that he is an enemy
 
-
-
 **स्वस्त्रीसुशय्यापदशायिभृङ्ग  
 स्तत्रत्यमाधुर्यसुधां प्रपाति॥३१॥**
 
@@ -2619,8 +2348,6 @@ thereof. For, the bee rests in the bed of His wife (lotus) and sips the honeyed 
 **Champaka.—**Alas, the idea that my dear king of Supreme radiance comes and eats the pomegranate of numerous seeds, with graceful looks, has turned out an absolute delusion!
 
 **Leela.—**Foolish girl, He, the Lakshmee’s Lord is perfect; He is intellect itself embodied and has no craving for a petty fruit. He is always
-
-
 
 **देवैरशेषैर्मनुजाधिपैश्च  
 यद्दत्तमेतत्सततं हि भुङ्क्ते॥३३॥**
@@ -2646,8 +2373,6 @@ consuming what is offered to Him by all the gods and the best of men.
 **Champaka.—**Verily, this mind of mine has been drawn away by the powerful attractiveness of His beanty. My mind has gone away and has not reverted at all. It has suffered annihilation, carried away by the emotional magnetism of the Lord.
 
 **Leela.—**Friend, by shutting up your eyes and looking within with a steadied mind and with devotion, you see inside there, the Supreme God Hari, the thief who stole the mind, as well as your mind, itself.
-
-
 
 ** कृष्णः—**(जनान्तिकम्।) अस्यास्सत्कारस्वीकारे को नामातङ्कः॥
 
@@ -2679,8 +2404,6 @@ consuming what is offered to Him by all the gods and the best of men.
 
 **Champaka.**—(*Opening eyes, surprised*) Ah! what is it, who is here?
 
-
-
 ** सेवकः—**सेवकोहं कृष्णसन्देशयायी॥
 
 ** चम्पका**—भण भण किमेतदुक्तं त्वया कृष्णं प्रति॥
@@ -2702,8 +2425,6 @@ consuming what is offered to Him by all the gods and the best of men.
 **Champaka.—**Leela, make haste, make haste: the time of salvation has arrived for us.
 
 (*Exeunt.*)
-
-
 
 **चतुर्थोऽङ्कः॥**
 
@@ -2734,8 +2455,6 @@ the sacrificial shed without my permission; woe me! and with the sacred twist (s
 
 **Nanda.—**Madam, whither did you go?
 
-
-
 ** चम्पका—**जानात्येवार्यपुत्रः॥
 
 ** यज्ञाचार्यः—**जानामि। अपि लब्धा मदनुज्ञा॥
@@ -2765,8 +2484,6 @@ the sacrificial shed without my permission; woe me! and with the sacred twist (s
 
 **Yagnacharya.—**Fool that I am; by marrying at the completion of my sixtieth year, this woman of divinely symmetrical beauty resembling a heavenly nymph, I have become a dotard whose heart is subdued by infatuation. She has been the Queen in (my)
 
-
-
 **आगारे सैव राज्ञी ह्यनुचरपदवीतृप्तएवाहमासं  
 त्यक्त्वा मां यज्ञपत्नी विहितविधिगतिक्रान्तभावाद्गता सा॥**
 
@@ -2782,8 +2499,6 @@ the sacrificial shed without my permission; woe me! and with the sacred twist (s
 house and I have been content with the position of a mere servant: but she, the “mistress of sacrifice”, departed, deserting me and transgressing the course of ordained law.
 
 **Champaka.—**I implore forgiveness of your reverence, if my action unfortunately was (happens to be) improper. After rendering obeisance to (my) husband, I only went to One who is the protector of all husbands, because He is the universal Protector; (I went) to Lakshmee’s Lord, the Delight of all, the Deva of Devas, to One who is adored by the countless hosts of gods. I carried dishes of food, and offered (their) savoury essence at the feet of the Lord.
-
-
 
 ** यज्ञाचार्यः—**
 
@@ -2803,8 +2518,6 @@ house and I have been content with the position of a mere servant: but she, the 
 
 **Champaka.—**May sin be averted! Let not this be said at all. He is the universal Father that became a son; thereby, the lying-in chamber became a temple; the Jumna river of a majestic flow, became a shallow pond; the whole race of Daityas became
 
-
-
 **घासामास हि दैत्यगोत्रमखिलं गन्धर्वयुग्मं तरू  
 वैकुण्ठश्च बभूव गोकुलमथो यन्मानुषामास सः॥४॥**
 
@@ -2821,8 +2534,6 @@ with fury.*
 
 **Jayanta.—**Alas, my god! my how Ihas turned out a cry in the wilderness. What is this curse of a wretched girl, that bids fair to plunge me into a poignant misery unrelieved by a particle of joy: the head whirls with dishevelled hair; Death takes me not to his abode: Fire does not convey the news to Heaven. The gods, Brahma, Siva, and the rest are indifferent towards me. There is none in the three worlds paying heed to the cries of my afflicted throat. There is no Kalpa tree to grant my wish. All beings are going about, bent on their own business, delirious with joy. The cuckoo,
 
-
-
 कञ्जभवादयो मद्विषये। मे कलुषकम्बुध्वनिं समाकर्णयन्तो न सन्ति त्रिलोक्याम्। नास्ति कल्पो मद्वाञ्छाप्रदानशीलः। सर्वतो जन्तवो मोदमोहिताः स्वकार्यधुरन्धरा विहरन्ति। किङ्किरकीरक कुलिङ्गकाः कोचन्ति कूर्दन्ते। एता दुराचाराः कमटगल्लयुवत्यस्सर्वदा हसनवदना गीतलोलास्सञ्चरन्ति॥
 
 (**परिक्रम्यावलोक्य नन्दम्।**)
@@ -2836,8 +2547,6 @@ the parrot, and the sparrow, make a loud noise and sport away. These wretched da
 (*Going forward and seeing Nanda.*)
 
  Sir, hear my asseveration; god will not tolerate an improper causeless cruelty like this. There is indeed a world beyond this (a life after death), and there are also penal laws of king Yama. An incessant flow of my tears will not turn out vain.
-
-
 
 **सम्बोधयामि नृवरं व्रजनाथनन्दं  
 त्वामेव गोकुलसखं ह्यकुतोभयं च।  
@@ -2863,8 +2572,6 @@ the parrot, and the sparrow, make a loud noise and sport away. These wretched da
 **Nanda.—**Say, what is the cause?
 
 **Jayanta.—**Has it not been heard by you that. Chitrangee, a follower of your son, cursed me so as to annihilate (transform) my condition.
-
-
 
 ** नन्दः—**किमपराद्धं भवता॥
 
@@ -2896,8 +2603,6 @@ the parrot, and the sparrow, make a loud noise and sport away. These wretched da
 
 (*Exit Jayanta*)
 
-
-
 ** नन्दः—**कोऽयमुन्मत्तवच्छोकतप्तश्च दृश्यते॥
 
 ** यज्ञाचार्यः—**आर्य साक्षाद्देवेन्द्रसुत इति वार्ता। बिभीमोऽरिष्ठं वृन्दावनस्य। भवादृशानामाश्वासो न सुलभस्तथापि प्रत्यासन्नभीति गोकुलं समाकलयामि। वारं वारं दुन्दुभिघोषश्च समाकर्ण्यते न विद्मस्तस्यार्थम्॥
@@ -2915,8 +2620,6 @@ the parrot, and the sparrow, make a loud noise and sport away. These wretched da
 
  We tremble to see the line of clouds moving fast along the horizon, filled with the roar of elephants, and engaged as the spies of Indra, as it were, (We tremble) also at the rumbling of earthquakes.
 
-
-
 ** नन्दः—**आचार्य सर्वममङ्गलं श्रीविष्णुपादध्यानात्प्रविलीयते॥
 
 ** यज्ञाचार्यः—** न तथा। निष्किञ्चनप्रियो हि हरिः। न भवत्युच्छ्रयस्तत्प्रीतिसम्पादनेन। नित्यनैमित्तिका- चारविपर्ययेण महान्भवत्यनर्थः। तस्मादिमं देशं जहामि सकुटुम्बम्॥
@@ -2930,8 +2633,6 @@ the parrot, and the sparrow, make a loud noise and sport away. These wretched da
 **Yagnacharya.—**Verily, Hari likes only the poor; no prosperity results from the attainment of His grace; great is the disaster flowing from a breach of the daily and special ceremonial observances. Therefore I leave this country with (my) family.
 
 **Champaka.—**My lord, I wish to say something. In the three worlds, or (for the matter of that) in all the fourteen worlds, where is the spot equal to Gokulam sanctified as it is by the dust of Sri Krishna's feet. Alas, surprising is it that there should be a departure *from* here, in order to avert misfortune.
-
-
 
 **भैक्षाजीवो नरोसावुपलकृततले गाढनिद्राभिभूतो  
 राजा पर्यङ्कभोगः क्षपयति रजनीं नष्टनिद्रो गदार्तः।  
@@ -2949,8 +2650,6 @@ The mendicant living upon alms is enveloped in profound sleep though (lying) on 
 
  Blackness may possibly get dissociated by effort from gloom. Sweetness may by great exertion be distilled away from honey. The great tree may stand in the sun, bereft of its (own) shadow. But misfortune ordained by destiny will never part from the man and stand aloof.
 
-
-
  आराद्विद्यमानमुल्लसच्छीतलकुन्दिनीनिबिडपद्माकरं ग्रावरयपथप्रवहत्कीलालमृदुगीतगम्भीरश्रोतोवह- कूलं दिनकरसन्तापमविद्यमानतया
 निष्कासयत्प्रच्छायशिशिरसुन्दरसुमनोविटपघनापवनममृतमप्यप- हसन्माधुरीभरितफलाढ्यवाटिकापूर्णप्रदेशं तिरस्कृत्य ननु प्रयाति जिघत्सुः पिपासुर्दुर्भिक्षपीडितं सस्यशून्यमनावृष्टिदग्धं वालुकारण्यम्। विद्यमाने श्रुतिपथान्तरे ह्याह्वानगोचरतया श्रीलक्ष्मीनाथे सर्वसम्पद्वदान्ये को वा दरिद्रो ज्योत्स्नामातपत्रेणेव धिक्कृत्य गमिष्यति कृपणतैकतानपूर्णं देशान्तरम्॥
 
@@ -2958,13 +2657,9 @@ The mendicant living upon alms is enveloped in profound sleep though (lying) on 
 
 Abandoning a pond that is close at hand, cool and crystalline with abundance of lotus blossoms, (abandoning) the basin of a river majestic with the soft melody of the current flowing on a bed of rocks—a pleasure-garden dense with beautiful flower-trees so cool and shady as to dispel sun's heat as absolutely non-existent—a region of orchards bearing fruits of such sweetness as to put nectar itself to shame, (abandoning all these), does a starving, thirsty, man resort to a country stricken with famine, possessing no harvest, and parched up by want of rain. When there is, within ear-shot and within the range of call, Lakshmee's Lord, the giver of every boon, which pauper is it that rushes away to a foreign country, despising Him like one (avoiding) moonlight with an umbrella?
 
-
-
  प्रभो चिन्त्यतां सम्यक्। इह ह्यस्ति सर्वोत्पातनिवारकः उज्झिताशेषदोषपूगः पापपानशीलः पपीः कल्याणगुणाकरो मुरमर्दनः। ईदृशं प्रभुसान्निध्ययुतं देशविशेषं विहाय गन्तुं न कुरुत सर्वथा न कुरुत मनः। इह ह्यागमनाभिमुखास्सर्वे अतलवितलसत्यान्तधन्याः अहमहमिकया विधातुं पूर्वसेवां प्रभवे। केवलमबलाहम्। शास्त्रपारङ्गतानां भवतां विशेषतो न वक्तव्यमस्ति। इतःपरं यथा रोचते भवद्भ्यस्तथा क्रियताम्॥
 
 ——————————————————————————————————————————————  My lord, let the matter be well considered. Here is present the dispeller of all evils, One from whom the totality of sins or faults. remains banished,— the Sun able to suck up every sin—Murari, the ocean of auspicious attributes. Never make up your mind, Oh do not, to get away from a place like this so estimable, from the Presence of the Lord. All blessed people from Atala, Vitala, and so on, up to Satya, are journeying *hither*, vieing with one another to be the foremost in rendering homage to the Lord. I am only a woman. To you profoundly versed in the scriptures, there is nothing special to be elaborately explained. Here-after, you may do as you please.
-
-
 
 ** यज्ञाचार्यः—**मुग्धे न वेद्मि गोकुलमुचितस्थलं स्थातुम्। सर्वथाः यातव्यमेवेतः। यदि नेच्छसि मत्सहवासं गमिष्याम्यहमेकाकी॥
 
@@ -2984,8 +2679,6 @@ Abandoning a pond that is close at hand, cool and crystalline with abundance of 
   Be a husband ever so vicious, unlucky, old, wicked, diseased, or poor, he is not to be forsaken by his wife, provided he is not depraved and guilty of a felonious crime.
 
 \[*Exeunt.*
-
-
 
 **उपाङ्कः ॥ २ ॥**
 
@@ -3019,8 +2712,6 @@ Sirrah, peon, has Matali returned?
 
 **Servant.—** Sir, he has come back.
 
-
-
 ** इन्द्रः—**आयात्विह त्वरया॥
 
 ** सेवकः—**यद्देव आज्ञापयति॥(निष्क्रान्तस्सेवकः**।**)
@@ -3051,8 +2742,6 @@ Sirrah, peon, has Matali returned?
 
 **Indra.—**He is safe, is it not?
 
-
-
 ** शची—**भवता एकाकितया सन्निवृत्तौ किं कारणम्॥
 
 **अपचितवदनं ते मातले कारणं किं  
@@ -3072,8 +2761,6 @@ Sirrah, peon, has Matali returned?
 **Sachee.—**What is the cause of your returning alone? Yours is a faded face, oh Matali; what is the reason; why are your soft lovely features bereft of light? From your faltering words, it is clear that you feel a choking throat; say, say the truth, is my son safe?
 
 **Indra.—** Iam pained by your shrivelled form, and cannot endure your reticence. Your lips are dry and pale. Say how you became transformed thus.
-
-
 
 ** मातलिः—**जयतु जयतु देवः जयत्विन्द्राणी महिषी॥
 
@@ -3097,8 +2784,6 @@ Sirrah, peon, has Matali returned?
 **Matali.—**Not a fault was committed by me at all even in thought. I deserve not your anger, O my master, and sovereign of the gods. (Your) son was very much advised by (his) mother that residence by righteous minded persons on the Earth, was improper.
 
 **Indra.—** What, has injury been sustained by Jayanta lodging on the Earthly globe? Tell me without delay.
-
-
 
 ** शची—**कथ्यतां मेजयन्तो जीवति वा नवेति प्रथमम्॥
 
@@ -3130,8 +2815,6 @@ Sirrah, peon, has Matali returned?
 
 (*Shows the picture.*)
 
-
-
 ** इन्द्रः—**(**सम्यगवलोक्य।**) सर्वमधिगतं वृत्तं चित्रलेखया॥
 
 **आरामे प्रविलोभनाढ्यसुतले हत्वा जयन्तस्यहृ  
@@ -3154,8 +2837,6 @@ Sirrah, peon, has Matali returned?
 
  My eyes throb and deserve to be (plucked out and ) cast into the (burning) hearth. My excellent boy, of Cupid's
 
-
-
 **अलकवलयवक्रश्चन्द्रविंवातिकान्तो  
 मनुजजनितयाऽहो कुच्छितः कारितोस्ति॥१४॥**
 
@@ -3176,8 +2857,6 @@ beauty, an embodiment of goodness, possessing ring-like curls of hair over his f
 
 **Indra.—** What is it? Say it again. What, has the oblation due to me been snatched away by somebody else. Matali, tell me all at one
 
-
-
 ** मातलिः—** संभाविततयोद्दिष्टमप्यखिलं समभवत्। यज्ञाचार्य यागः कलुषीकृतो बालकेभ्यो- निवेदनसमर्पणेन यज्ञपत्न्या। भवदीयोद्घोषस्सर्वथाऽवगणितः॥
 
 ** इन्द्रः—** इतः परं नदोलायते मे मनः। मुखाभिमुखं भोजनं समाछिन्नम्। मम कल्याणगुणाकरस्तनयचूडामणिर्विरूपीकृतो मृतप्रायः। अमर्त्यो मर्त्यो वा स्यादयं कृष्णः। इतः परं नास्ति दाक्षिण्यस्यावसरः। विद्यमानमविद्यमानं वाऽऽखण्डलस्यपैौरुषमित्येव विमतम्। तस्मान्मुच्य-
@@ -3188,8 +2867,6 @@ breath. I will inflict a severe chatisement on Yadupati and others, together, fo
 **Matali**.**—** All that was expected as probable did come to pass. The yaga of Yagnacharya was spoiled by the sacrificial mistress distributing the offerings among boys. Your proclamation was completely despised.
 
 **Indra.—** Hereafter, my mind wavers not. The food approaching the mouth has been cut off. My jewel of a son, who is an embodiment of good qualities, has been deformed, and is almost a corpse. Be this Krishna an immortal or a mortal; hereafter there is no occasion for politeness (courtesy). The question is whether the prowess of Indra is a fact or a fiction. Therefore, let the reins of restraint (hitherto) obstructing the
-
-
 
 न्तां देवेन्द्रवीर्यक्रोधविरोधिधर्मबुद्धिजाअभशिवः। गतायां जीविकायां ततोप्यधिके गते जीवितसमे स्वात्मजे धिग्गृध्रवज्जन्म सहस्राधिकवत्सरं कल्पान्तं। न ममास्ति सुखलव एतादृशादाधिपत्यात्॥
 
@@ -3212,8 +2889,6 @@ might and fury of Devendra, from considerations of propriety, be let loose. The 
 
 *(Exit Matali).*
 
-
-
 **॥ततः प्रविशति मातलिः सेनापतिश्च॥**
 
  सेनापते सन्नत्धाभवत्वविलम्बमक्षौहिणी सेना यथाऽभवद्वृत्रसमरे। रथकट्यापताकाशोभिता रथिकोत्तमसञ्चारिता। सन्नद्धा भवन्तु धनुर्धरकाण्डीरप्रासिकवैजयन्तिकाः पदिकाः अनुप्लवपुरो गमाश्शूराः सांयुगीना अरिहृदयमार्गणशीलैर्मार्गणैर्नाराचैरथवाचन्द्रहासैरथवापरिघकुटारप्रासादिभिस्स- ज्जीभूता अभ्यमित्रीणास्तथारथ्यैस्सैन्धव श्रैष्टैस्सादिनः स्तथाप्यैरावतसममत्तमातङ्गयूथैर्निषादि- नस्तथा परिधिस्था वाहिनीपतयः। सन्नद्धाभवन्त्वाहोपुरुषिकाऽहंपूर्विकास्सर्वे युद्धाय। न
@@ -3223,8 +2898,6 @@ might and fury of Devendra, from considerations of propriety, be let loose. The 
 *(Then enter Matali and Commander-in-Chief).*
 
  General, let the complete army (Akshouhini, consisting of 109, 350 foot, 65,610 horse, 21,870 chariots and 21,870, elephants) get ready, without delay, as it did, in the war with Vrithra: a multitude of chariots decorated with flags and driven by eminent charioteers—; Let these too get ready, bow-men, archers, lancers, standard-bearers, infantry soldiers with followers and pioneers, able captains, valiant soldiers armed with arrows seeking the hearts of enemies, with swords or iron-tipped bludgeons, battle-axes, bearded-darts and so on, so also cavaliers with chariot-horses, and fine steeds, so, mahouts with spirited elephants resembling Airavata, so, body guards, aid-de-camps and generals. Let military heralds and soldiers of emulative onset, and all, get ready for war.
-
-
 
 विस्मर वैतालिकाञ्जयप्रसिद्धिकरान्स्तुतिपाटकान्। न विस्मर कतिपयकर्णेरथान् रम्भाद्युपयोगाय। किंच भवेदारब्धं स्तनितगर्जनं। ज्वलतु सौदामिनी इरंमदश्च। भवतु निरन्तरोपलसंपातयुतश्चासारः। पुत्रशोकतप्तोयं जनः पश्यत्वनारतवर्षधारयारिध्वंसनं॥
 
@@ -3242,8 +2915,6 @@ might and fury of Devendra, from considerations of propriety, be let loose. The 
 *(Exit General).*
 
 **Sachee.**— Why this elaborate preparation for war? Is reconciliation impossible? It is not yet established that the person aimed at is
-
-
 
 सन्धानं। नात्रभवान्विवक्षितश्शत्रुरिति सिद्धः। न वास्माभिर्विज्ञातं तस्य बलाबलं। उत्तापेनाविमृश्य कृतमवसानेऽनर्थहेतुर्भविष्यति॥
 
@@ -3265,8 +2936,6 @@ really a foe. His strength and weakness have not yet been ascertained by us. Wha
 
 **Matali.—** He is travelling on the Earth and has not returned.
 
-
-
  **इन्द्रः—**
 
 **कैलासाद्रिनिवासिनस्सुरपतेर्नेत्रत्रयस्येशितुः**  
@@ -3287,8 +2956,6 @@ really a foe. His strength and weakness have not yet been ascertained by us. Wha
 
  There, in the vast surface of the Earth, men tread the paths of devotion and are immortal by the grace of Devakee's son. Hence Siva in great fear abandoned the
 
-
-
 **त्यक्त्वा भूतिं विभूषां भुजगपरिवृतां चारुरूपं वहन्सो  
 नाट्ये कृष्णस्यगाने नटवरवपुषा मग्नभूतस्सदास्ते॥१९॥**
 
@@ -3308,8 +2975,6 @@ funeral grounds, gave up ashes and the ornaments made of serpent-garlands, and r
 
 **Matali.—**If Krishna born in Gokula, be Hari himself, then, assistance from your grand-father is not at all to be expected.
 
-
-
 **साक्षाज्जातोविकुंटात्परतमपदवीं प्रापितो वै विधाता  
 सङ्ख्यातीतेषु जीवेष्वमितगुणगणैः पूज्यतां प्रापयस्मात्।  
 तं विष्णुं भक्तराजो भजति हि सततं चित्तवृत्या समाधौ  
@@ -3324,8 +2989,6 @@ funeral grounds, gave up ashes and the ornaments made of serpent-garlands, and r
  Brahma, being born directly from the Perfect God, and installed in a most exalted position (by Him ), attained, by reason of His grace, distinction as the head of all the countless jeevas, by possessing innumerable attributes. Indeed, Brahma, connoted in an important sense by (all) the numberless words of all the Vedas, worships that Vishnu incessantly, as the foremost devotee of all, with a mind absorbed in perfect contemplation.
 
  This Vayu, the leader of the Rijoos, honoured by the righteous, and of perfect knowledge,—whom, passions that produce vibrations of the mind by creating changes therein, do not approach, and who is not affected by delusion or doubt in the slightest degree, at any time, or in any particular, with regard to Hari, whose spiritual
-
-
 
 **सेवां दाशरथेर्विधाय विपुलां युक्तस्तदंघ्र्योरजो  
 भूत्वा राममुखारविन्दगसुधारोमन्थमभ्यस्यति।  
@@ -3352,8 +3015,6 @@ bliss remains always unfolded by the eternal enjoyment of His Presence, does not
 
 *\[Exeunt.*
 
-
-
 **पञ्चमोऽङ्कः॥**
 
 **![](../books_images/U-IMG-1723042889Screenshot(65).png)**
@@ -3374,8 +3035,6 @@ bliss remains always unfolded by the eternal enjoyment of His Presence, does not
 
 **Champaka.—**My lord, where are we going for ever, in this forest of densely studded trees, upon a wretched track. No path is traceable here in the dreadful jungle covered with darkness. As the paths are blocked up by a full-deluge of floods caused by an incessant downpour of rain, how can we get on here?
 
-
-
 ** यज्ञाचार्यः—**प्रिये सन्निहितमेवस्यादुटजमिति तर्कयामि दूरतरं दीपप्रकाशमणुभूतं तावद्यमवदस्तं मन्ये तापसाश्रमं यत्रातिथ्यस्वागतं लभावहे॥
 
 ** चम्पका—**नेयं प्रभो दीपिका। न तत्र वर्तते किञ्चिदप्याश्रमपदम्। मुहुर्मुहुरीषद्भासमानं खद्योतमुटजस्थदीपकं भ्रान्त्वा गच्छावः॥
@@ -3393,8 +3052,6 @@ bliss remains always unfolded by the eternal enjoyment of His Presence, does not
 **Yagnacharya.—**The strength of my eye (vision) being shattered, I have no power to distinguish.
 
  Moreover, conceiving a false idea that my life alone was sweet, amongst a multitude of relations, when I abandoned (all) the joys
-
-
 
 **यदा गन्तुं देशं दुरितरहितं मृत्युविधुरं  
 मनश्चक्रे नेत्रं पिहितदृशिमन्मोहपटलात्॥१॥**
@@ -3418,8 +3075,6 @@ of Vraja in order to save this person of mine and resolved to go away to some ot
 
 **Champaka.—**By your blessing and the force of Sree Gopeenatha's grace, the Dweller within
 
-
-
 च्च दृढाङ्गाहम्। परिणतवयस्कत्वादपेक्षितं स्याद्भवद्भिरिति मत्वा शेषं तथैवारक्षम्। नमेऽस्त्यद्य बुभुक्षा। उपादीयताम्॥
 
 ** यज्ञाचार्यः—**
@@ -3439,8 +3094,6 @@ of Vraja in order to save this person of mine and resolved to go away to some ot
 
  In the dense forest of thick gloom, full of tigers, lions, and wolves, please guide me, O friend, one who is blind and pitiable. I am
 
-
-
 **प्रकृत्या भीतोहं पुनरहितमत्या किमधुना  
 प्रलम्बे त्वामेव प्रियतमकलत्रं सुवदने॥**
 
@@ -3459,8 +3112,6 @@ a coward by nature, and what need to say, all the more now, by a consciousness o
 **Champaka.—** The evil be averted! There is the Universal Protector, the refuge of all Protectors. If you repent, let us return to Gokulam.
 
 **Yagnacharya—**Your advice about returning to Gokulam may be sound. I, too, am power-less to carry out my resolve, owing to the infirmity (of age.) Dear, a false shame that is always inimical to good actions, stands obstructive, and prevents my journey on the Gokulam-road with a crest-fallen face.
-
-
 
  आः कष्टं नन्वस्ति कोप्यध्वदर्शी वन्यपुरुषः॥
 
@@ -3491,8 +3142,6 @@ Shouts Ho! Ho!
 
 **Forester.—** I am a constant itenerant of the woods and the king of jungles. I know every object of note from theCape Comorin to the Himalayas. I am sorry to see the idstress of yourself, old sir, and of this lady,
 
-
-
 श्रान्तिमालोक्य हिमवातवर्षजाम्। परन्तु जात्या चण्डालोहम्। मद्राज्य प्रवेशिनो मां धिक्कृत्य मदन्नभोजनमकृत्वा न समर्थाह्येतद्देशाब्दहिर्गमने। नयामि मम सदनमद्भुतातिशयनवरत्नमणिस्तोम- रचितप्रासादचूडामणिम्। आगच्छतं सुखेनाथवा यदि न रोचते गच्छतं यमसादनम्॥
 
 ** यज्ञाचार्यः—** क्वास्ति तव मन्दिरम्॥
@@ -3510,8 +3159,6 @@ caused by cold wind, and rain. But I am a chandala (Panchama) by caste. Those wh
 
 **Yagnacharya.—**(Thinking) Forester, to enter the house of a chandala is absolutely forbidden to Brahmins and especially to Deekshitas: (men who have performed vedic sacrifices.)
 
-
-
 **आरण्यकः—**भवद्भिः कालसन्ध्यानुष्टानं कदा वा कृतमन्ततः। कतिवासरानिर्गता गोवर्धनपर्वतारो- हणमारभ्य। दिनत्रयङ्गतमिति मन्ये। कालेकाल अग्निहोत्रं कुत्र वाऽनुष्टितमेतद्दिवसत्रये॥
 
 **यज्ञाचार्यः—**अनिवार्यस्य न दोषः॥
@@ -3527,8 +3174,6 @@ caused by cold wind, and rain. But I am a chandala (Panchama) by caste. Those wh
 **Forester.—**Similarly, for both of you coming to my house and accepting my hospitality. Bâda rayana's theory is "any kind of food is permitted when life is in peril: such is the law."
 
 **Champaka.—**My lord, this man does not seem trust-worthy, nor does our condition approach that of a crisis in life. Let us proceed forward.
-
-
 
 ** यज्ञाचार्यः—**ममावस्थाऽशक्यसहनेति चिन्तयामि॥
 
@@ -3547,8 +3192,6 @@ caused by cold wind, and rain. But I am a chandala (Panchama) by caste. Those wh
 
 **Forester—**Boulders of rock are falling, struck by rain and storm. Even my body shakes, with the battery of ice. This region is one that is filled with lions, is not habitable even by owls, and is very densely dark. In the garden attached to my palace, there is the means of gratifying any want. That country has an even temperate climate the heat and cold being balanced equally). In the pleasure garden amidst the royal jake
 
-
-
 साधनानि। समशीतोष्णोऽसौ देशः। प्रमदवने पनसजम्बुकराजवृक्षाणामन्तरे तत्र तत्र प्रफुल्लमल्लिका- मालतीजातिवीरुधां सङघातनिकुञ्जेषु क्रीडन्मयूरपारावतमधुव्रतराजहंसेषूल्लासधन्या नाम मम प्रजाः॥
 
 ** यज्ञाचार्यः—**प्रजाइत्यनेनावगम्यते नगरमप्यस्ति तत्रेति॥
@@ -3566,8 +3209,6 @@ and Jambu trees, amidst clusters of crowding flower-trees— the Jasmine, Malati
 **Yagnacharya.—**By the word subjects, it is gathered that there is also a city.
 
 **Forester.—**There is; my subjects are ever happy with the drink of grape-juice. They wander about among the mountains, tending herds of buffaloes without care and without the troubles of matrimony. Here, atheism is rife; the sense of virtue arising from a fear of sins does not exist (reside) ; the rites enjoined by Vedas and Smrities are of unknown regard in this mountain-town.
-
-
 
  **यज्ञाचार्यः—(स्तनितगर्जितमाकर्ण्य।)** हा दैवम्। न करुणा देवस्यमय्यन्धे॥
 
@@ -3597,8 +3238,6 @@ and Jambu trees, amidst clusters of crowding flower-trees— the Jasmine, Malati
 
 **Champaka.—** All men are blind if the solar disc be veiled by a collection of clouds: all men are blind if the gloom of delusion crowds
 
-
-
 **कामं ह्यास्तां स वैद्यः कुशलतमबुधो वाह्यनेत्रामयघ्नः  
 कास्तेऽसौवैद्यराजो मनसि तततमोमोहजालं प्रहर्तुम्॥**
 
@@ -3616,8 +3255,6 @@ into the mind. Assuming that the doctor exists there, who is supealatively skilf
 **Forester.—**(In fury). I obstruct your going away from here: (so saying goes near Champaka: Then Govardhana shook suddenly and the Forester fell in a swoon).
 
 **Champaka.—**(Listening). O joy! Nâradâ's Veena is heard. His holiness is near at hand and is instructing a pupil in Brahma Meemamsa (study of Vedanta).
-
-
 
 **॥ततः प्रविशति यथोक्तव्यापारो नारदः जयन्तश्च॥**
 
@@ -3642,8 +3279,6 @@ into the mind. Assuming that the doctor exists there, who is supealatively skilf
 
 **Narada.—**May He purify you, He by whom all the worlds are created,—from whom are derived (their) sustenance, destruction, government, knowledge, bondage and emancipation—, He who is eternally unbound (unconditioned), and is absolutely devoid of any touch of material change,—who is the sole Hero (goal) of all holy scriptures— who is eternally hymuned in praise by all words and sounds—who is a self-existent entity different even from muktas (emancipated
 
-
-
  **जयन्तः—**प्रभो कुत्रास्ति हरिः यत्प्रसादादेव लभ्यं मोचनम्॥
 
 ** नारदः—**सर्वव्यापी खल्वसौ तेन विना न तृणमपि चलति॥
@@ -3667,16 +3302,12 @@ souls)— who is faultless and possessed of innumerable attributes.
 
 **Champaka.—**Recently, one day, the son of Yasoda having eaten mud while playing about like a mortal's infant, was taxed hard by (his) mother, and be opened his mouth as if unable to bear her chastisement to convince her that he had not swallowed mud. Then did
 
-
-
 त्सा चतुर्दशभुवनतलं ब्रह्माण्डमण्डलमतीतानागतकृस्नचिच्चेत्यजातं व्रजं व्रजान्तस्थांस्वामपावृतमुखंकृष्णं च। विज्ञातस्वसुतप्रभावा वेपमाना सगद्गदं जगदुदरं प्रभुमस्तवीत्। सकृद्भयातुरा आकुला ध्यानमग्ना स्वसुतप्रभुताजनिताश्चर्यसागरे निमज्जन्ती स्तुतिसाराभिवर्षिणी सकृन्मूकी भावस्तब्धा नृत्यती गायती चिन्तयत्यासीत्। तस्मान्नसज्जनानां संशयः श्रीकृष्णस्य जगदीशत्वे॥
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 she perceive within His abdomen, all the fourteen worlds, the orb of Brahmanda (Brahma's egg), the collective totality of all the animate and inanimate creation, past and future, as well as Gokulam, with herself therein and Krishna of open mouth. Finding out the greatness of her son, she trembled and praised Him with a choking voice, the Lord who had the universe in His abdomen.
 
  She remained for some time seized with fear, (then) was she perplexed, immersed in meditation, or steeped in an ocean of wonder, upon realizing the greatness of her son; poured out a rain of praise; was again dumbfounded, stunned; then, danced, and sang, and meditated......Therefore, pious people entertain no doubt about the god-head of Krishna.
-
-
 
  **नारदः—**जयन्त श्रुतो नु संवादः॥
 
@@ -3703,8 +3334,6 @@ she perceive within His abdomen, all the fourteen worlds, the orb of Brahmanda (
 
 **Yagnacharya.—** Yes.
 
-
-
  **नारदः—**अपि ज्ञातं तत्कारणम्॥
 
 ** यज्ञाचार्यः—**नैव॥
@@ -3729,8 +3358,6 @@ she perceive within His abdomen, all the fourteen worlds, the orb of Brahmanda (
 **Narada.—**Moreover, the dejection of your face states as a tale-teller that a short while ago you both were greatly troubled and felt an aching heart.
 
 **Champaka.—** A certain forester tried to deceive my husband with futile words that were at first sight alluring; that rascal fell when the Hill quailed.
-
-
 
  **नारदः—**कोन्वयमिति जानासि भद्रे॥
 
@@ -3758,8 +3385,6 @@ she perceive within His abdomen, all the fourteen worlds, the orb of Brahmanda (
 
 **Narada.—**He is Kali, the poison Kala-koota of giddy prowess, the eldest born of beings when Devas and Daityas churned for nectar. He chokes the throat of Siva and distresses everyone of mortal frame. At the merest. fall of his glance, virtue at once becomes (non-existent) like a burnt-up cloth. He wanders about in guile as a veritable embodiment of sin, who leads (every one) to tho darkest hell.
 
-
-
 **जपासूने शल्यं सगरभुजगश्चन्दनतरौ  
 तटाके शैवालं लवणजलधौ तीक्ष्णकटुता।  
 अधर्मो भूपेन्द्रे कुटिलहृदयं पेलवदृशां  
@@ -3772,8 +3397,6 @@ she perceive within His abdomen, all the fourteen worlds, the orb of Brahmanda (
  He (Kali), who is an enemy of everything good, is the thorn on the rose, is the poisonous serpent on the sandalwood tree, is the moss on ponds, and is the great bitterness of the briny sea. He represents injustice in the monarch, the wicked heart of the soft-eyed woman, and the illusion warping the Truth of the scriptures.
 
  He is an ocean of wicked attributes, a personification of all that is opposed to good, and a renegade from Haree's foot. He is to be offered up as a victim to the Vaishnava Fire, called Bheema, kindled by the windy fuel of king Drupada's daughter.
-
-
 
 **धर्मादेराजियज्ञे मधुमथनमुदे साधुतुष्टयै वधार्थे  
 गान्धारीगर्भवासं स सहजशतकः प्रापितोसौ खलेन्द्रः॥**
@@ -3789,8 +3412,6 @@ This leader of the wicked has with a hundred younger brothers been despatched in
 
 **Yagnacharya.—**Faith is born in me. I salute you Narada in humility as my preceptor. Let the Vedanta verse taught to Jayanta be repeated. I have become blessed by your words. Enough, enough, with the worship of inferior (subordinate) deities in the performance of selfish (desire-fed) rites.
 
-
-
 **(सर्वे गायन्ति।)**
 
 **कलशजलधिवासं शेषडोलाविलासं  
@@ -3805,8 +3426,6 @@ This leader of the wicked has with a hundred younger brothers been despatched in
 (all sing ). By means of abundant and manifold prayers and devotional entreatment, the lotus-born Brahma brought down here, One who dwelt in the ocean of milk, who sported in the cradle of Sesha (serpent), and who slept well to the lullaby music of vedic chants. Let us all hie to see Him.
 
  By means of merit born of intense devotion, Nanda drew down, One who is devoid of the imperfection of being born, into the merriments of boyish pranks. On the
-
-
 
 **मनुजतनयवेषो दीप्यते नाट्यरङ्गे  
 नटनसुभगरूपं द्रष्टुमेनं व्रजाम॥**
@@ -3824,8 +3443,6 @@ arena of dance, does He shine, disguised as a son of man. Let us hie to see Him�
  He— the ocean of love— observing with moistened eyes, how pious people devoted to His study and contemplation longed to vision Him and were forlorn from the sufferings caused by the ailment of birth (and death), has now assumed an excellent Form; and Him we shall go to see.
 
 *(Exeunt).*
-
-
 
 **षष्टोऽङ्कः॥**
 
@@ -3850,8 +3467,6 @@ arena of dance, does He shine, disguised as a son of man. Let us hie to see Him�
 
 **Indra.—**The Jumna, of swollen waters, flows with a velocity destructive of life, flooded by the downpour of rain, and tossed about by the waves derived from pitch-dark clouds. Mad like a roaring elephant, and rushing fast soiled with blood-red mire, she exhibits the divine punishment to the wicked by submerging fields of plantation.
 
-
-
  **मातलिः—**
 
 **केदारास्सरसीकृता जलधिवद्भूत्वा तरङ्गाकुला  
@@ -3864,8 +3479,6 @@ arena of dance, does He shine, disguised as a son of man. Let us hie to see Him�
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 **Matali.—**Meadows transformed into lakes are convulsed by waves, like a sea. They implore your mercy, along with the trees, by the latter falling prostrate at your feet. The pregnant cocoanut tree, laden with the full weight of fruits, is bent down; the tufts of her hair being torn by the force of the storm, she cries out piteously, up in the sky. The sun remains concealed behind the network of darkness caused by the clouds. All classes of animals are stricken sick and disheartened by longing for him.
-
-
 
 **स्त्रीपुंसास्स्वैर्हरिमृगखगाश्छिन्नसङ्गारुदन्ति  
 प्रेष्टानान्ते तमसि सुतरां मार्गणार्ताजलौघे॥३॥**
@@ -3889,8 +3502,6 @@ Lions, deer, and birds, both male and female, bemoan, being cut off from kith an
 
 **Matali.—**No doubt they have been punished. But I feel a doubt about the justice of the punishment.
 
-
-
  **इन्द्रः—** कथमेतत्॥
 
 ** मातलिः—**
@@ -3908,8 +3519,6 @@ Lions, deer, and birds, both male and female, bemoan, being cut off from kith an
 
 **Indra.—** This is unavoidable. How can a shower of rain fall on the heads of wicked people alone.
 
-
-
  **मातलिः—**तस्मादेवहिभवतां त्रिलोकाधीशानामप्यस्वातन्त्र्यं। न तथा शास्ति जनार्दनः॥
 
 **दमयति सहरिस्तुद्वेषिणस्संविभर्ति  
@@ -3926,8 +3535,6 @@ Lions, deer, and birds, both male and female, bemoan, being cut off from kith an
 
 **Indra.—** Anyhow my enemies have been made to suffer.
 
-
-
  **मातलिः—**नैतावतासन्तोष्टव्यमिति मन्ये। पश्यत निर्मक्षकमिव गोकुलं दृश्यते **(परिक्रम्यावलोक्य।)** भृशार्ताः किल व्रजप्राणिनोजलप्रलयप्रवाहेण॥
 
 **कपोतपालिकां हित्वा पारावतकपोतिकाः।  
@@ -3938,8 +3545,6 @@ Lions, deer, and birds, both male and female, bemoan, being cut off from kith an
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 **Matali.—** I consider that that, by itself, is not a cause for chuckle. See how Gokulam seems so deserted as not to have even a fly (Proceed and see). The people of Vraja appear sorely distressed by the deluging flood of waters. Doves and young pigeons are bewailing aloud, having left their nests, because of sufferings caused by the expulsion from their home (of nests) and of the influence of passion. Alas! excellent cows are wandering about in herds in the woods with ears erect and bellowing for calves gone out of sight.
-
-
 
 **पुराणरोगिपङ्गवस्स्खलद्गताश्चयष्टिभिः।  
 विमुक्तसर्ववान्धवा व्रजन्ति वर्षपीडिताः॥८॥**
@@ -3955,8 +3560,6 @@ Lions, deer, and birds, both male and female, bemoan, being cut off from kith an
 **Indra.—**Thinking well over it, I (come to) doubt that my action might be wrong. My commiseration is roused at the sight of the people's distress. The Jumna is full to the brim of the banks. It carries some as corpses, and others who, though alive, are done up. (exhausted).
 
  Wicked people have been shattered by the force of the stream, are exhausted by swimming against the current, and are (will
-
-
 
 **प्लवासमर्थास्तरणीवलं विना  
 निमज्जिता नाम खलास्तु सङ्घतः॥९॥**
@@ -3977,8 +3580,6 @@ be) drowned to a certainty in great number, being unable to swim, and not having
  See the man stuck up to the branch of a tree in the midst of the flood, feeling a consternation, on looking beneath, that he would fall into the abyss. At this critical juncture, he licks with fondness. with (his) tongue stretched ont with difficulty, a sweet drop of honey lying on a leaf that is partially bitter.
 
 **Indra—** He is addressing his relations on the bank. Let us hear what his wish may be.
-
-
 
 वाव॥(**मर्त्यवचनमाकर्ण्यते।**)
 
@@ -4002,8 +3603,6 @@ be) drowned to a certainty in great number, being unable to swim, and not having
 
 **Indra.—**It is a delusion that at this crisis relations will come to save him.
 
-
-
 **नैकस्मिन्दिवसे त्वया नु भणितं रण्डेतिशब्दं विना  
 नासाकर्णगलैः कदान्वधिगतं गुञ्जामितं काञ्चनम्।  
 शत्रुर्मे तु पिता विलोकनमृते कीरायितां मां ददौ  
@@ -4019,8 +3618,6 @@ be) drowned to a certainty in great number, being unable to swim, and not having
 
 **Matali.—** Look at another person being carried down by the current, striking his bosom and water, sometimes sinkingand some-times floating, with alternate pleasure and pain, resembling nityasamsaries (souls of perpetual bondage as mortals).  
  He speaks. *(Heard to say)*. Having
-
-
 
 **(वचनं श्रूयते।)**
 
@@ -4040,8 +3637,6 @@ worshipped all the divine hosts with impartiality, and performed acts of piety f
 
 **Matali—**(Listening). My lord, see.
 
-
-
 **आयान्ति गोपमहिलास्सहबन्धुवर्गै  
 र्भरावहाश्शिरसिबालकमध्यवाहाः।  
 जातुप्रदेशगहने सलिलान्तरे ता  
@@ -4060,8 +3655,6 @@ worshipped all the divine hosts with impartiality, and performed acts of piety f
 *(Enter. Engaged as stated).*
 
 *(Leela, Rama; Chitrange:eand others).*
-
-
 
 **लीला—**सखि स्मरसि कदाप्येतादृशीं वृष्टिं तवायुषि॥
 
@@ -4088,9 +3681,6 @@ worshipped all the divine hosts with impartiality, and performed acts of piety f
 
 **Matali—** (Aside) we shall hear.  
 
-
-
-
 **रामा—**चम्पका हि कारणं सुरेशमन्योः। पाखलुयज्ञाचार्यक्रतुमध्ये समर्पयामास देवहविर्भागं गोपीनाथ- प्रभवे॥
 
 **लीला—**तदपिकारणमेव। कारणान्तरन्तावत्सख्याः जगन्मोहन सौन्दर्यम्॥
@@ -4112,8 +3702,6 @@ worshipped all the divine hosts with impartiality, and performed acts of piety f
 
 **Chitrangee—** Leela, don't listen to her untrue words.
 
-
-
 ** लीला—**
 
 **अग्निवाणसमा शोभा नाकिलोकगता तव।  
@@ -4131,8 +3719,6 @@ worshipped all the divine hosts with impartiality, and performed acts of piety f
 **Rama—**Now I remember the story of Jayanta that I have heard of. Chitrangee, how was it that the son of Heaven's monarch, an embodied Cupid of lovely eyes, majestic with eminence, was despised by you.
 
 **Chitrangee—**Where is room for Cupid in Gokulam, while the Cupid of Cupids is personally residing here?
-
-
 
 **इन्द्रः—(अपवार्य।)** मातले इयमेव जयन्तशापदात्रीतिदृश्यते। दृष्ट्वास्यास्सौन्दर्यतेजो न मेस्तिविस्मयो जयन्तमोहविषये। तथापि क्रोधोऽभिवर्धते॥
 
@@ -4154,8 +3740,6 @@ worshipped all the divine hosts with impartiality, and performed acts of piety f
 *(Behind scenes). Trumpet blown aloud.*
 
  “Listen all, observe the wealth of kindness shown by our Lord to the afflicted. He is indeed holding up a lofty hill, with ease, to render protection. With a face
-
-
 
 **स्मितहसनमुखोसौ वेणुगीतं करोति  
 स्वपदगतिकृतेसौ गम्यतां भक्तवृन्दैः॥१८॥**
@@ -4182,8 +3766,6 @@ beaming with smile he is doing the music-of-the-flute to apprise people of the p
 
 (Exeunt)
 
-
-
 **उपाङ्क॥२॥  
 यमुनायास्तरणघट्टे।**  
 **॥प्रविशति समातलिरिन्द्रो नाविकश्च॥**
@@ -4209,8 +3791,6 @@ beaming with smile he is doing the music-of-the-flute to apprise people of the p
 
 **Boatswain—**I am a servant obeying the orders of Govardhana's Lord (Krishna). I have my own doubts whether both of you deserve to go there or not. Let a certificate recommending you be brought. Then I will permit your journey.
 
-
-
 **इन्द्रः—** **(क्रोधं निरूप्य।)** मूर्ख देवेन्द्रपथनिरोधने नास्ति ते शक्तिः॥
 
 **नाविकः—**न गणयामिदेवेन्द्रं तत्तातं वा। केवलं भगवदाज्ञापालक तया कुलिशं ते मयि तृणोपमं। किंच नाद्यापि भवान्शतमन्युरत्यक्त मन्युतयार्हसि तत्र पादन्यासाय॥
@@ -4231,8 +3811,6 @@ beaming with smile he is doing the music-of-the-flute to apprise people of the p
 **Boatswain—**Of Brahma, or of Vayu the Bharatee's Lord, and of nobody else.
 
 **Indra—**What should be the contents of that writing?
-
-
 
 **नाविकः—**यद्येवं लिखितं तदास्वीक्रियते॥
 
@@ -4257,8 +3835,6 @@ beaming with smile he is doing the music-of-the-flute to apprise people of the p
 **Matali—** Narada is travelling in the terrestrial regions. Let us consult him.
 
 (Exeunt).
-
-
 
 **सप्तमोऽङ्कः॥**
 
@@ -4286,8 +3862,6 @@ SCENE I.**
 **Narada—** What is the cause, O Devendra, of this anxiety?
 
 **Indra—**My wife is bitter (harsh) at home owing to grief caused by her son's absence: my army, the guardian of the gods, has not returned yet, O eminent sage : Indra's fame
-
-
 
 **पवित्रं कौलीनं विगतविभवं हीन्द्रसुयशो  
 जलत्रो गोत्रोयं यदभवदहो भूतलभिदा॥२१॥**
@@ -4319,8 +3893,6 @@ and the prestige of his ancestry, have lost their greatness: all this, because t
 
 **Soldiers—** May your majesty triumph!
 
-
-
 **ऐरावतो गजवरो विबुधेन्द्रशूरो  
 धावन्गतः किल परे दयितात्मभावात्।  
 धिक्कृत्य चोदनमथापि निरङ्कुशस्तं  
@@ -4340,9 +3912,6 @@ and the prestige of his ancestry, have lost their greatness: all this, because t
 
 **Narada—**What became of the heavenly guardians, the great warriors?  
 
-
-
-
 **भटाः—**
 
 **योधास्ते विबुधेन्द्र निर्मलधियः खड्गं यदास्वीकृता  
@@ -4359,8 +3928,6 @@ and the prestige of his ancestry, have lost their greatness: all this, because t
 **Soldiers—**O Indra, as soon as your soldiers wielded the sword, with intent to hurl it at the head of the foe, they fainted away then and there. Discovering Krishna to be Hari capable of abstracting their senses, all your soldiers turned out indeed into followers of Vittala (Hari).
 
  The whole army has been destroyed and Gokulam has been saved by the kindness of Muraree. The renown of Indra has been ruined in the vast expanse of the 3 worlds by the announcement of his vanquished prowess. The arrows and missiles of soldiers fell bereft of strength, soft as flowers. The assemblage of gopa damsels and boys laughed at your misconduct with palmy shouts of applause.
-
-
 
 ** नारदः—**अवगतन्नुभगवन्माहात्म्यम्॥
 
@@ -4387,8 +3954,6 @@ and the prestige of his ancestry, have lost their greatness: all this, because t
 
 **Indra—** Sir, I now remember how Vishnu, entreated by the four-faced Brahma and others to save the Earth that had taken a cow's form, incarnated (below) as a cowherd. Let us go to see Madhava. Let all the requirements of worship be got ready.
 
-
-
 **क्षीरं हाटकभाजनेषु शतशः पूजार्थमानीयतां  
 मृद्वीकाः कदलीमुखाः फलगणामाणिक्यभाण्डे नवे।  
 पट्टं पुष्पफलाढ्यमेव महिला रंभादयो यान्तु तं  
@@ -4407,16 +3972,12 @@ and the prestige of his ancestry, have lost their greatness: all this, because t
 
  Let this be written over the cover (address). "To Vasudeva, who is holding up the Govardhana Hill, who is surrounded by the righteous,—who is blessing the assembled cows and cowherds,—who is worshipped by all from Lakshmee downwards, and who is embodied bliss and Intellect,
 
-
-
 श्रीभारतीशप्रभोस्समालोकनानन्तरम्॥
 
  **(अन्तः।)** प्रभो, अभिवादयतितवदासानुदासो विध्वस्तमदगर्वो महेन्द्रः। याचते ते करुणामुद्धारिकां श्रितजनपावनीं विप्रतिसारतप्तस्मुरेशः कालन्दीतरणघट्टे प्रत्यादेशज्ञापितस्वावरताधीः। नमतिसभगवन्तं निखिलभुवनाधीशं गोवर्धनभूधरवारकम्। याचतेऽयञ्जनस्सकृद्विस्मृतभवद्विभूतिरप्यद्यप्रणयप्रहृष्टहृदय- स्तेप्रपौत्रस्सेवां। प्रदिश तस्मै संन्तारणं
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 this letter is to be delivered after being perused by Bharatee's Lord." (Within), O Iord, Mahendra Thy slave of slaves, offers salutation, with all his pride knocked away. The king of Devas is consumed by repentance and implores (Thy) redeeming grace which sanctifies the worshippers. Being reminded of his inferiority at the crossing Ford of the Jumna, he bows to the Lord, the Supreme monarch of the Universe now holding up the Govardhana hill. Though he forgot Thy greatness for a while, he Thy great-grandson, begs, with a heart cheered by devotion, to offer worship. Bestow salvation on him by allowing a visual interview of your Divine Form. Gone,
-
-
 
  भवद्दिव्यरूपसन्दर्शनेन। गता प्रभो विगतैव मेऽहंमतिर्ययाकृता मयाऽपचारसाहस्रं जगद्वन्द्ये। अनुगृण्हीष्वयथा मे न भूयात्कदापि तादृशी दुर्बुद्धिर्हेमनोवाङिनयामकसर्वान्तर्यामिन्॥
 
@@ -4429,8 +3990,6 @@ O Lord, gone for ever is my egotism by reason of which a thousand acts of misdem
 
  I grieved in endless Kalpas (cycles) of time, firmly fixed in the so-called (false ) position of a Mahendra, and subdued by the attack of Kali's forces, namely wealth, women and the rest. Enough, enough, with the creations and enjoyment of mansions, com pounds, and pleasure groves, fresh ones after fresh. Enough with the zest of admiration at the physical features of courtesans like Menaka, Rambha and others, and (enough) with the festivity of beholding the dance infamous with the gesticulated action of their arms and feet: enough, O quite
 
-
-
 वैशिष्ट्येन। शिक्षितोहं सम्यग्जयन्तानुभवेन। नारीतनुवदननाशिक गण्डकर्णनयनललाटभ्रूलताला- वण्यहतान्तःकरणास्तेषां उपमानतयेन्दीव रारविन्दकुन्दांबुदविधुमण्डलादिमननेन क्षपितसकलायुषो नाम जयन्त वद्भूचारिणः खलु विद्यन्ते सहस्रशः। इयंचित्रांगीकृतिर्लोकशिक्षका भवदनुज्ञाविशिष्टा स्वीक्रियते शिरसि॥  
  न हि गणयामियदनुभूतमीषदुःखं सुतविरहकृते। अनुभूतो हि दशरथेन वियोगो यदा तेन प्रेषितो नाम काननं रविकुलललामसार्वभौमो
 
@@ -4438,8 +3997,6 @@ O Lord, gone for ever is my egotism by reason of which a thousand acts of misdem
 enough with the preeminence of sovereignty in the position of Devendra. I have been well taught a lesson by the experience of Jayanta. There are indeed thousands of men wandering on the Earth like Jayanta, who have their hearts over powered by the beauty of feminine form, face, nose, cheeks, ears, forehead, and eyebrows, and whose entire life-time is taken up with imagining the blue-lotus, red lotus, the Kunda flowers, the cloud, the moon-disc and so on, as fit objects of comparison to them. This act of Chitrangee is a lesson to the world, and possessing Thy approval is submitted to impacitly.
 
   I don't mind the little pang suffered by me on account of my son. The agony of separation was undergone by Dasaratha
-
-
 
 रघुनाथो जगन्मोहनसुन्दरस्यामावदातमङ्गलः कल्याणरत्नाकरस्सीतापतिः। न मे सुतो रामचन्द्रो न वा चिदानन्दघनः॥
 
@@ -4450,21 +4007,15 @@ when Raghunatha, the preeminent jewel of the solar race, was sent by him to the 
 
  Blessed indeed are the inhabitants of Brindavan who enjoy the utmost beatitude of Thy direct presence (proximity). This is Thy sport. Thou sported as a Fish in guise, grown so big, swimming in the watersof deluge as to swallow the world. Thou upheld the world along with the Mandara mountain in the Tortoise-form when the sons of Aditi and Diti churned the mountain Mandara. Thou killed Hiranyaksha and
 
-
-
 निगमततिं निगमवेद्यनिस्सीममहिमा सूकरः। ननर्द सभायां नृमृगेन्द्र तया। तितेजानन्यशरणं कायाधंवं। विविथेस्तोकवपुर्वामनो भुवनत्रयं मत्कृते।जग्राह श्री रामरूपं सत्यसङ्कल्पम् यत्कथाश्रवणमात्रेण कथयन्ति कुशलतमं कवयः॥ यदिस्यान्मे योग्यता प्रदिश दर्शनं तव मन्दहसनं माकृष्टवृन्दारकवृन्दस्य अनुषक्तजल- विन्दुधारात्तमौक्तिकमालिकाविभ्रांजमानान्तवर्तुलछत्रायितगिरिवरधरस्य अधरार्पितवेदवाणीनिस्सरणवि- वर वेणुविलोलस्य भवतः॥
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 secured the collection of Vedas as a Boar of limitless prowess, deified by the vedas. Thou roared in the ( royal) hall as a manlion and saved Prahlada, the son of Kâyadhu. Thou begged as a liliputian Vamana for the three worlds (as alms) on my account. Thou assumed incarnation as Sri-Rama of inviolable pledges, by listening to whose life read out, the highest good resalts (to us), as poets say. If at all I deserve, grant (unto me) an interview of Thyself-of Thee holding high a lofty hill serving as an umbrella whose external circumference is radiant with pearly garlands consisting of lines of waterdrops suspended therefrom—of "Thee playing upon a flute set on the lower lip, from whose holes emerge the tunes of Vedas".
 
-
-
  प्रभो कदा मे मोचनं श्रान्तोहमनारतपरिभ्रमणेन कालचक्रान्तरे। नमामि त्वां चक्रपाणिं निर्वाणाय। परिवर्तते ब्रह्माण्डनेमिरमितपरिणाह वर्तुला सर्वाधारकगर्भीभूतश्रीनारायणरूपाक्षाग्रयुता तस्मिन्प्रतिष्टि- तासंख्ये यचेतनाचेतनादिप्रपञ्चव्यक्तिविशेषभूतानन्तकोटिसक्थिसंबद्धा अन्तरान्तरपरिवर्तमानसूर्यचन्द्र- तारागणादिभासुरमण्डलसन्दाहयुता निरन्तरकर्मसेव नाभिबृद्धजन्मान्तरबजिप्रचोदिततया पुनःपुनर्मुहुर्मु- हुर्जननमरणरूपावृत्तिऽ
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
  Lord, when is my liberation to be? I amexhausted by a ceaseless circumlocution on the wheel of time. I bow, and implore emancipation of Thee, the wielder of the wheel. That wheel of the Universe is rotating with an immeasurable (vast) circumference, possessing an axle-box called Narayana that constitutes the womb of Universal Providence, to which are riveted endless millions of radias-spokes consisting of countless individualities in the universe, animate, inanimate, and so on, —a wheel that possesses heaps of luminous orbs such as the sun, moon, and the starry hosts, revolving within inner and inner orbits, that abounds with inner revolutions caused by the exits and entrances (of mortals) in the form of births and deaths again and again, as brought on by the seed
-
-
 
 निवृत्यादिपरिकल्पितान्तरालवलयत्रातसङ्कीर्णा अक्षाग्रगह्वरस्थवैकुंटनित्य मुक्तपरिचरसेवितकोटिसूर्य- भासुरश्रीनारायणप्राप्ततेजोवीर्ययुता विराजते भवदेकशासना नेमिः। एतादृशपरिवर्तनश्रान्तिमतीत्य वांछामि भवदन्तिके विश्रान्तिम्॥
 
@@ -4475,14 +4026,11 @@ of older (other) incarnations wherein it grew robust (large) by indulging in cea
 
  What need to dilate? I bow to Thee, Vasudeva. I long to see One who shines as a sun with regard to the Lotus-countenances of Vraja's damsels, whose soft figure shines as a combination of the sun, moon, and the night, residing together—whose facial lotus
 
-
-
 करशाखं ध्वस्तवासवप्रागल्भ्यं कनीनिकाधृतभूधरं द्रष्टुमिच्छामि। प्रार्थयेऽनुग्रहम्॥”
 
 ** नारदः—**संप्रेष्यतां लेखनम्॥
 
 **(निष्क्रान्ताः।)**
-
 
 **उपाङ्कः॥२॥**
 
@@ -4501,7 +4049,6 @@ is covered with dishevelled curls of hair— whose fingers are set on the holes 
 
 *(Exeunt).*
 
-
 **Scene II.  
 Road.**  
 *(Enter Yagnacharya and Champaka).*
@@ -4509,8 +4056,6 @@ Road.**
 **Champaka—**This way, this way, my lord, this is the way to Govardhana:
 
 **Yagnacharya—**How was it ascertained by you?
-
-
 
  **चम्पका—**उद्धुष्टं नु सर्वत्र॥
 
@@ -4528,8 +4073,6 @@ Road.**
 *(In another spot, Enter Indra with Matali.)*
 
 **Indra—** It is gathered that this is the path. Matali, go inadvance and bring news, after ascertaining the Lord's leisure.
-
-
 
  **मातलिः—**यद्देव आज्ञापयति॥
 
@@ -4562,8 +4105,6 @@ Sir, whither are you journeying?
 
 **Indra—** (To himself). I don't know if Jayanta is a pious man or not according to his view: (*aloud*) sir, among those that went there, did you see a youth who is a habitual resident of Swarga ?
 
-
-
 **यज्ञाचार्यः—**शान्तं पापं न यातु श्रुतिपथं मे मुरलोकवार्ता। सुरेन्द्रसर्वोत्तमत्वभ्रान्त्याऽनुभूता मयाऽवर्णनीयार्तिः॥
 
 ** इन्द्रः—** कथमेतत्॥
@@ -4581,12 +4122,9 @@ Sir, whither are you journeying?
 
 **Indra—** (*Smiling*) Let alone the disgrace of Indra. Madam, did you meet any youth clad as a eunuch.
 
-
-
 ** चम्पका—**जानामि तं। नातिचिरात्प्राक् मया दृष्टोयमस्मिन्पथि॥
 
 **(परिक्रामतः पुरतो चम्पका यज्ञाचार्यौ।)**  
-
 
 ** इन्द्रः—(स्वगतम्।)**
 
@@ -4607,8 +4145,6 @@ Sir, whither are you journeying?
 *(Enter Matali)*.
 
 **Matali—** Your arrival was communicated to Yasoda. The Lord is near, ready to forgive worshippers. Moreover, I met Jayanta. He is coming to pay respects to his father.
-
-
 
 **(ततः प्रविशति जयन्तः)**
 
@@ -4639,8 +4175,6 @@ Sir, whither are you journeying?
 
 *(Exeunt.)*
 
-
-
 **उपांक॥३॥**  
 **धृतगोवर्धनस्याधस्तात्।**  
 **॥प्रविशति यशोदा कृष्णश्च सह बलादिभिर्गोभिश्च॥**
@@ -4663,8 +4197,6 @@ Underneath Govardhana hill held aloft.**
 
 **Yasoda—**Did you do so, you boys? If the hill should fall, where would your lives be?
 
-
-
 ** बालाः—**
 
 **विहरति गिरिपादैः कन्दुकक्रीडयासौ  
@@ -4683,8 +4215,6 @@ Underneath Govardhana hill held aloft.**
 **Boys.—** He plays with boulders as if sporting with balls, tossing about the flying hills from hand to hand. If the boys run away lest the hill should fall, he threatens by aiming to hurl the great hill at them.
 
 **Krishna.—** Fond friends as they are, being engaged in eating fresh and sweet grapes and cakes. they remained far away and gifted not a bit of it into my hands. Eating them half and half, they made ridiculing signs at me with bent-fingers, and laughed at one (me) who, bearing the weight of the Earth, is unable to chase them.
-
-
 
 ** बालाः—**
 
@@ -4708,8 +4238,6 @@ Underneath Govardhana hill held aloft.**
 
 *Enter a servant, approaches Yasoda, and whispers something.*
 
-
-
 **यशोदा—**वत्स ते मङ्गलाभिषेकायागमिष्यन्तीन्द्रप्रमुखाइत्याया ता वार्ता।भव वत्स सिंहासनाधिरूढः।
 
 (**एवं करोति भगवान्गोवर्धनगिरौ निरालंबोथ्थिते आकाशे।**)
@@ -4731,8 +4259,6 @@ Underneath Govardhana hill held aloft.**
 **Indra.—** *(Falling prostrate.)*  
  Grant unto me a faith calculated to bear fruit in the shape of absolute emancipation, and grant me the possession of a soul cleansed of (all) its sin. Pardon my faults; O! Thou infallible, Thy pair of feet alone
 
-
-
 **सान्निध्यं भवतु प्रभो मनसि मे पूर्णैकचिन्मोद ते  
 लीलासुन्दरविग्रहस्य करुणापीयूषवारां निधेः॥३३॥**
 
@@ -4748,8 +4274,6 @@ is my refuge for ever. O Lord of perfect undiluted intelligence and bliss, may t
  My chariots became mere ornamental litters; my horses serviceable for marriage (processions) ; all brave men, elephants and divine warriors similarly left, deserting their posts. O Krishna, save me, O Lord, by making me tide over the limits of desire, make me firm in the footsteps of Poorna Bodha and liberated from all sins.
 
 **Krishna.—**Are you well, with all your family?
-
-
 
 ** इन्द्रः—**प्रभोरनुग्रहः। यद्याज्ञा गोविन्दप्रवृत्तिनिमित्तस्य गुणपूर्णस्य ते अभिषेचनमिच्छामि॥
 
@@ -4775,8 +4299,6 @@ is my refuge for ever. O Lord of perfect undiluted intelligence and bliss, may t
 **Indra.—**Gowh: ( गौः= the word) is the veda treating of Thee, and as only Thou hast known the same, Thou art styled 'Govinda' O god, by sages.  
  I am an Indra (king) only of Devas, but Thou art an Indra of "Gows" (words, cows, worlds, &c.) Hence all men praise Thee as Govinda that is perpetual.
 
-
-
 **गोभिरेव यतो वेद्यो गोविन्दस्समुदाहृतः।  
 गोरसाभ्यञ्जनेनापि भवेद्गोविन्दविश्रुतिः॥ह.व.**
 
@@ -4798,8 +4320,6 @@ is my refuge for ever. O Lord of perfect undiluted intelligence and bliss, may t
 
 **Rama.—** (Sings). To promote good fortune, I worship Hari Sreenivasa who is Lakshmee's Lord, who is adored by all that are blessed, who keeps Lakshmee in his bosom—who is the true home of Lakshmee, and who is a transcendental spirit-form beloved of Lakshmee.
 
-
-
 **चम्पका—**
 
 **वेदवेद्यते वासुदेव नो  
@@ -4819,8 +4339,6 @@ is my refuge for ever. O Lord of perfect undiluted intelligence and bliss, may t
 
 **Leela—**I bow always to Nanda's son of dark eyes of lotus face, of perpetual bliss, of changeless qualities—now guised as a dancer and worshipped by the gods.
 
-
-
 ** रामा—**
 
 **शकटभञ्जकं पापिदूरगं  
@@ -4839,8 +4357,6 @@ is my refuge for ever. O Lord of perfect undiluted intelligence and bliss, may t
 **Rama.—** May Thy lovely Foot-Lotus that killed Sakata, that eludes sinners, that purifies the pious with its sacred particles of dust, that saves all worshippers, and that is adored by Vayu, protect us!
 
 **Chitrangee.—**I, of poor luck, prostrate before the Deity, Lord Madhava, who is good itself personified, whose favourite is Maruti— who is a friend of women, who bestows unlimited fortune, and who is the abode of all virtuous people.
-
-
 
 ** सर्वे—**
 
@@ -4862,8 +4378,6 @@ is my refuge for ever. O Lord of perfect undiluted intelligence and bliss, may t
 *(Exeunt).*
 
 **FINIS.**
-
-
 
 [TABLE]
 
@@ -4897,16 +4411,5 @@ is my refuge for ever. O Lord of perfect undiluted intelligence and bliss, may t
 |   5    |                  हेववध्वो                   |                देववध्वो                 |
 |   5    |              सौधमध्वजनेस्सि यं              |            सौधमध्वजनेस्सीयं             |
 |   6    |        वीक्षापात्री सौजन्य सद्धियां         |       वीक्षापात्री सौजन्यसद्धियां       |
-
-
-
-
-
-
-
-
-
-
-
 
 \]

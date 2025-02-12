@@ -13,18 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1MDQ3Mzg0NTE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **Some Sanskrit Inscriptions of Arakan**   
 By †E. H. JOHNSTON  
 (PLATES III-V)  
@@ -48,8 +36,6 @@ of Symbolical and Historical Coins of Arakan'? Temple says it is in the India Of
 
                                  J. A. S.
 
-
-
 PART I. THE INSCRIPTIONS
 
  The early history of Arakan is still a complete blank in the histories, all that is known of it being dynastic lists in late Chronicles, which, as will appear below, cannot be relied on for either names or dating, and the coins of a few kings which have yet to be arranged in chronological order. If scholars have neglected this province hitherto, that is largely due to its geographical position on the confines of India and Burma. Not unnaturally the historians of the latter country have hitherto directed their efforts to elucidating such facts as can be ascertained about Burma proper, and the scanty resources available to the Burmese Archæological Service have not been adequate to undertaking serious excavations in Arakan. Indologists on the other hand have felt little interest for an area in which, even at the period dealt with here, Indian civilization was not a natural product, but was imposed on the country from without. The existence of one long inscription in Sanskrit, however, has been known for some time, though it has not yet been edited, and it is proposed to bring together here such epigraphic and numismatic material as is available for the period previous to A.D. 1000.
@@ -60,11 +46,7 @@ PART I. THE INSCRIPTIONS
 
 ![](../../../books_images/U-IMG-1696070851Screenshot2023-09-30161721.png)
 
-
-
 ![](../../../books_images/U-IMG-1695630940Screenshot2023-09-25140407.png)
-
-
 
 ![](../../../books_images/U-IMG-1696070924Screenshot2023-09-30161833.png)
 
@@ -114,9 +96,9 @@ I have made use of two excellent rubbings belonging to the University of Rangoon
 
 [^4]: "In v. 49a the poet may possibly have meant to write mayā naikāḥ, and in v. 51a rājatān naikān. But in v. 46b, even if we correct to naika, we cannot save him from the reproach of barbarism."
 
- For convenience of reference I have numbered the verses and assumed that the double daṇḍa after the eighth character in line 3 marks the end of the second verse; if there were only one verse it is difficult to find a long metre ending —o—o—, and we should have to presume an introductory sentence in prose, followed by one invocatory verse. From the remains it seems that if I am right in counting two verses, the inscription started with two invocatory stanzas, one perhaps to the Buddha, and one to Hindu deities, as *trilocana* should refer to Śiva. The indications in the first line are consistent with reading *Bodhisatva* near the beginning of the first line, but only the letter sa is certain. The next forty-three verses give a list of the kings of Arakan, divided into three periods, early (partly at least mythical) in sixteen verses, the thirteen kings of the Candra dynasty in fourteen verses, and the later kings in thirteen verses. The length of the early period is given as 1,060 years, taking *ṣaḍdaśādhikam* to mean plus 60"; if "plus 16" had been meant the reading would have been *ṣoḍaśādhikam*, and we are authorized to take *daśa* in the sense of " decade" by *Manu*, vii, 116. In either case, however, it is impossible from what can be read to say how this total was arrived at. Much of the earlier part is illegible, including verse 3 dealing with the first reign. Then followfive reigns of 120 years each; the only certain names of kings are the fourth and fifth, Bahubalin and Raghupati. The next king appears also to have reigned 120 years. We then probably leave the region of myth with Candrodaya, who is said to have reigned twenty-seven years, and it is tempting to equate him with Candrasurya of the Arakan Chronicles, which give his accession date as A.D. 146; if the length of reigns in the inscription is to be trusted—and it should be in my view, at least from the Candra dynasty onwards— the date of his accession ought on the chronology accepted here to fall in the last quarter of the second century. The Chronicles may have preserved some recollection of fact at this point, but the names of Candrasūrya's successors, all beginning with Sūrya and reigning till 788, are clearly mythical. After Candrodaya the Aṇṇaveta kings reigned for five years; the name suggests indigenous rulers. The name of the next king is lost, and he is said to have reigned for the improbable period of seventy-seven years. Of the following names some are doubtful readings, and several are un-Indian, the list running :—
-
 [^5]: "See notes in loco and translation."
+
+ For convenience of reference I have numbered the verses and assumed that the double daṇḍa after the eighth character in line 3 marks the end of the second verse; if there were only one verse it is difficult to find a long metre ending —o—o—, and we should have to presume an introductory sentence in prose, followed by one invocatory verse. From the remains it seems that if I am right in counting two verses, the inscription started with two invocatory stanzas, one perhaps to the Buddha, and one to Hindu deities, as *trilocana* should refer to Śiva. The indications in the first line are consistent with reading *Bodhisatva* near the beginning of the first line, but only the letter sa is certain. The next forty-three verses give a list of the kings of Arakan, divided into three periods, early (partly at least mythical) in sixteen verses, the thirteen kings of the Candra dynasty in fourteen verses, and the later kings in thirteen verses. The length of the early period is given as 1,060 years, taking *ṣaḍdaśādhikam* to mean plus 60"; if "plus 16" had been meant the reading would have been *ṣoḍaśādhikam*, and we are authorized to take *daśa* in the sense of " decade" by *Manu*, vii, 116. In either case, however, it is impossible from what can be read to say how this total was arrived at. Much of the earlier part is illegible, including verse 3 dealing with the first reign. Then followfive reigns of 120 years each; the only certain names of kings are the fourth and fifth, Bahubalin and Raghupati. The next king appears also to have reigned 120 years. We then probably leave the region of myth with Candrodaya, who is said to have reigned twenty-seven years, and it is tempting to equate him with Candrasurya of the Arakan Chronicles, which give his accession date as A.D. 146; if the length of reigns in the inscription is to be trusted—and it should be in my view, at least from the Candra dynasty onwards— the date of his accession ought on the chronology accepted here to fall in the last quarter of the second century. The Chronicles may have preserved some recollection of fact at this point, but the names of Candrasūrya's successors, all beginning with Sūrya and reigning till 788, are clearly mythical. After Candrodaya the Aṇṇaveta kings reigned for five years; the name suggests indigenous rulers. The name of the next king is lost, and he is said to have reigned for the improbable period of seventy-seven years. Of the following names some are doubtful readings, and several are un-Indian, the list running :—
 
 Riṁbhyappa (?), 23 years.  
 Kūverāmi or Kūverā, a queen, 7 years.  
@@ -367,7 +349,6 @@ Candrabhiramayasasām[^46]iha Candranāmnām \।
 
 42. Īśānvayaḥ samabhavad vijitārivargaḥ
 
-  
 Śaktitrayapra\<ṇa[^59]\>-(40)yalabdhamahāpratāpaḥ\।  
    Yo Vajraśaktisutavīranarendracandraḥ  
   
@@ -418,11 +399,11 @@ Tena mahārājādhirājena parahitotsukadhiyā svarā-(45)jyaprathamasaṁvatsar
 
 [^69]: "The rubbing shows mṛtpahã with the hā marked for omission; the following character is only faintly indicated on the rubbings. Perhaps Mṛtpakvā. [The reading of the rubbing seems to be mṛtsamhā°.]"
 
+[^70]: " [The rubbing seems to give suvisuddha° by error.]"
+
 Saddharmapūjām prati taṇḍakān[^71] occurs in the sense of a holding or portion of land forming part of an estate in the Yadava Ramacandra s Thana grant of Saka 1194 (E.I. xiii, p. 199).]") bahūn\।  
 Dine dine sarvajanā-(54)numoditān  
 Narādhipo dharmakathānurāgataḥ \।\।
-
-[^70]: " [The rubbing seems to give suvisuddha° by error.]"
 
 [^71]: "None of the recorded meanings of tandaka fits here; possibly for tandavän. The actual reading of the rubbing seems rather to be vantakan, though the letter below is not clear. Vantaka, share (found in Sanskrit and Kanarese lexx.; from yeast, whence Hindi bän
 
@@ -495,8 +476,6 @@ Bhikṣvāryasaṁghasya hi nā\[y\]itāni[^84]
 Deśe Sila-(64)meghanarādhipasya\।\।
 
 [^84]: " I do not know if hastinikāis to be taken literally. In b read netrojjvala. Näyitäni in c is odd, and däpitäni would be better."
-
-
 
 67.Read tīrthikāḥ in b. \[Tīrthikāḥ can only mean "heretics". Probably the poet meant to write tīrthakāḥ, in the sense of tirthāḥ.\]
 
@@ -595,11 +574,7 @@ dharmma hetuprabhava hetu
 
 ![](../../../books_images/U-IMG-1695631393Screenshot2023-09-25141213.png)
 
-
-
 ![](../../../books_images/U-IMG-1695631452Screenshot2023-09-25141304.png)
-
-
 
 with the appearance of a similar symbol on the Kulūta coin of Vīrayaśas, reproduced on Pl. XVI, 4, of Allan, British Museum Catalogue, *Coins of Ancient India;* but if the latter is rightly assigned to the first century A.D. there is a gap of some three centuries between them. The recumbent bull, presumably a Śaivite emblem, is also rare on Indian coins; of early ones I can only quote the Mālava coins, particularly V. A. Smith, *Catalogue of Coins in the Indian Museum, Calcutta*, i, Pl. XX, 18, while those of *Saśanka* (ibid., Pl. XVI, 12, and Allan, B.M. Cat., *Coins of the Gupta Dynasty,* Pl. XXIII, 14, 15, 16, and Pl. XXIV, 1) are much too late.
 
@@ -627,111 +602,5 @@ No. 5. Deva. Earliest coin with the bull on obverse.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

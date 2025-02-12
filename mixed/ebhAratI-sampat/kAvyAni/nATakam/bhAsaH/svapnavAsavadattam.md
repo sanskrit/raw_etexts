@@ -16,11 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU2NzEwMTE4MjI
 
 \[
 
-
-
 [TABLE]
-
-
 
 INTRODUCTION
 
@@ -38,8 +34,6 @@ About a quarter of a century back the late Mahāmahopādhyāya T. Gaṇapati Ś�
 
  The theory of Bhāsa's authorship of these plays was at the outset received with a chorus of applause both in the east and the west, and it seemed as though it had been conclusively established. Latterly heated controversy began to rage,
 
-
-
 a vigorous opposition being led by Mr. K. Rama Pisharoti who is clearly of opinion that the Trivandrum Plays are but the products of the latter-day Cākyārs or the professional actors of the Kerala stage. This gave rise to a third school of thought that the Trivandrum Sanskrit Series plays are abridged versions of the older dramas of Bhāsa adapted by the Cākyārs to suit the exigencies of their stage.
 
  The chief grounds on which Mahāmahopādhyāya rests his theory of Bhāsa's authorship are these:—
@@ -52,8 +46,6 @@ a vigorous opposition being led by Mr. K. Rama Pisharoti who is clearly of opini
 2\. The Prologue in all these dramas is given the nomenclature of *Sthāpanā* instead of Prastāvanā as in the classical dramas.
 
 3\. No mention is made of the author or of the work in the Trivandrum Sanskrit Series Plays.
-
-
 
 4\. In the Bharatavākya of every one of these plays there is the prayer राजसिंहः प्रशास्तु नः.
 
@@ -75,8 +67,6 @@ e\) The following verse appears in the First Act of both Cārudatta and Bālacar
 \(f\) The passage किं वक्ष्यतीति हृदयं परिशङ्कितं मे occurs in the Sixth Act of Svapna as also in the Fourth Act of Abhiṣekanāṭaka and so on.
 
 6\. The drama Svapnavāsavadatta is clearly associated with the poet Bhāsa by Rājaśekhara in his Sūktimuktāvalī as follows:—
-
-
 
 **भासनाटकचक्रेऽपि च्छेकैः क्षिप्ते परीक्षितुम्।  
 स्वप्नवासवदत्तस्य दाहकोऽभून्न पावकः॥**
@@ -104,8 +94,6 @@ ix\. तुल्यधर्मः (P. 107) The correct form will be तुल�
 
 x\. छिद्यते रुह्यते च (Page 107) Vide Notes.
 
-
-
 8\. The Prākṛt of these plays is peculiar and therefore traceable to a very remote age. Example:— अय्य for अज्ज.
 
 9\. Before dealing with the real point in favour of the Bhāsa theory we may notice one other argument based on dramaturgy adduced by Dr. Max Lindenau. As evidence of the high antiquity of these plays he says:— 'Against the teaching of the text-books on dramaturgy which the classical dramas follow, the author of these plays does not hesitate to describe death, and even frightful death on the stage.'
@@ -130,8 +118,6 @@ iii**.**
 
 **तास्वेव पूर्वबलिरूढयवाङ्कुरासु  
 बीजाञ्जलिः पतित कीटमुखावलीढः॥**Cārudatta I—2.
-
-
 
 \(b\) Daṇḍin of the 6th century A. D. in the Second Pariccheda of *Kāvyādarśa* cites the first. half of the following śloka:—
 
@@ -166,8 +152,6 @@ iii**.**
 सचेतसो वनेभस्य चर्मणा निर्मितस्य च।  
 विशेषं वेद बालोऽपि कष्टं किंनु कथं नु तत्॥
 
-
-
 \(d\) Śāradātanaya of the 12th century A.D. in the Eighth Adhikāra of his *Bhāvaprakāśa*refers to the Praśānta type of play and cites Svapnavāsavadatta as an example for the same in the following extract:—
 
 **प्रशान्तरसभूयिष्ठं प्रशान्तं नाम नाटकम्।  
@@ -201,8 +185,6 @@ iii**.**
 
 The plot referred to in this extract and the plot of Svapnanāṭaka are almost wholly in agreement. Vāsavadattā is separated from the
 
-
-
 king and placed in the custody of the Magadha princess; the king continues to cherish his love for Vāsavadattā, his lute Ghoṣavatī rouses his memories of Vāsavadattā and so on. The verse चिरप्रसुप्तः कामो मे is found in the Sixth Act of this play. Further the usual remark किं ते भूयः प्रियमुपकरोमि which is found in later classical dramas is absent here, and its absence is also noted in the extract.
 
 \(e\) Bhojadeva of the 11th century A.D. in his Ś*ṛṅgāraprakāśa* mentions Svapnavāsavadatta by name and deals with its plot which tallies in full with the plot developed in the Fifth Act of the present drama.
@@ -213,15 +195,11 @@ king and placed in the custody of the Magadha princess; the king continues to ch
 
  Now we shall examine how far the points adduced by Mahāmahopādhyāya in support of Bhāsa's authorship are tenable. In the first place it has to be borne in mind that neither at the
 
-
-
 beginning nor at the colophon of these dramas is there any mention made of Bhāsa. In the face of this serious omission any argument either way cannot be accepted as conclusive unless it can stand the test of searching scrutiny.
 
  1. Convincing proof is not yet forthcoming that the stage-direction नान्द्यन्ते ततः प्रविशति सूत्रधारः preceding the Mangala śloka is a peculiar characteristic of Bhāsa's dramas. The word सूत्रधारकृतारम्भैः in the famous stanza of Harṣacarita holds good whether the Maṅgala precedes or follows the entry of the Sūtradhāra. In the one case it is the Nāndī Sūtradhāra, in the other the Sthāpanā Sūtradhāra. In either event it is the Sūtradhāra that begins, and Bāṇa's reference is applicable to both. Further the word सूत्रधारकृतारम्भैः has been introduced by Bāṇa merely for the purpose of substantiating an equivogue between temples and Bhāsa's plays. No theory can be definitely founded on it.
 
  A careful scrutiny will disclose that the entry of the stage-director prior to the pronouncement of the Nāndī śloka is more a peculiarity of the manuscript than of the author. The Kerala manuscripts of even later classical dramas begin with the entry of the Sūtradhāra. According to the South Indian recension, Bhavabhūti's *Uttararāmacarita* has the entry of the Sūtradhāra prior to the
-
-
 
 Nāndī śloka. Vide the recent edition of Bhavabhūti's Uttararāmacarita in the Śrī Bālamanoramā Series, the reading adopted wherein is supported by the high authority of the commentator Nārāyaṇa. The author of *Sāhityadarpaṇa* states that in *Vikramorvaśīya* several manuscripts place the entry of the Sūtradhāra before the Nāndī śloka and that the reading there adopted is the more appropriate of the two. Vide the following extract from Sāhityadarpāna.
 
@@ -230,8 +208,6 @@ Nāndī śloka. Vide the recent edition of Bhavabhūti's Uttararāmacarita in th
  Śaktibhadra's *Āścaryacūḍāmaṇi* whose date is assigned to the earlier half of the 8th century A. D. begins with नान्द्यन्ते ततः प्रविशति सूत्रधारः, and the Maṅgala śloka comes thereafter.
 
  The following is a further list of the plays in which the entry of the Sūtradhāra precedes the benedictory stanza:— *Mattavilāsa* of Mahendravikramavarman, *Kalyāṇasaugandhika* of Nilakaṇṭha, *Subhadrādhanañjaya* and *Tapatīsaṁvaraṇa* by Kulaśekharavarman, *Padmaprābhṛtakam* by Śūdraka, *Dhūrtaviṭasaṁvāda* by Iśvaradatta, *Ubhayābhisārikā* by Vararuci. *Pādatāḍitakam* by Śyāmalā etc.
-
-
 
  2. That the word *Sthāpanā* is used in the place of *Prastāvanā* proves nothing. In Āścarya *cūḍāmani* of Śaktibhadra and *Kundamālā* of Diṅnāga the word *Sthāpanā* is used. This is also perhaps a peculiarity of the South Indian manuscripts.
 
@@ -245,8 +221,6 @@ Nāndī śloka. Vide the recent edition of Bhavabhūti's Uttararāmacarita in th
 
  7, 8 & 9. The Unpāṇinīyan forms on which much reliance has been placed by Mahāmahopādhyāya as evidence of their Pre-pāṇiniyan origin can be explained away as the solecistic lapses of the latter-day professional Cākyārs of Malabar with inadequate literary equipment. The Prākṛtic archaisms are more a peculiarity of the South Indian manuscripts, particularly those of Malabar, than of
 
-
-
 any particular author. Śaktibhadra's *Āścarya Cūḍamaṇi* exhibits exactly similar features in Prākṛt as the T. S. S. plays. The violations of the rules of dramaturgy as propounded by Bharata are perhaps due to the fact that the professional actors of Kerala have occasionally indulged in such lapses. In fact the Fourth Act of *Āścarya Cūḍāmaṇi* which is admittedly not Bhāsa's presents on the stage the battle between Jaṭāyus and Rāvaṇa, contrary to the rule of Bharata.
 
  10. But the numerous quotations in works of rhetoric cannot be so easily brushed aside. Vāmana, Daṇḍin or Bhāmaha cannot be expected to quote except from poets of accredited excellence. Least of all can we expect them to cite from any original productions of the latter-day Cākyārs of Malabar.
@@ -257,8 +231,6 @@ any particular author. Śaktibhadra's *Āścarya Cūḍamaṇi* exhibits exactly
 
 **संचितपक्ष्मकवाटं नयनद्वारं स्वरूपताडेन।  
 उद्धाट्य सा प्रविष्टा हृदयगृहं मे नृपतनूजा॥**
-
-
 
  This verse is cited byAbhinavagupta in *Dhvanyāloka*. *Locana* with the preamble यथा स्वप्नवासवदत्ताख्ये नाटके to illustrate the fact that poets sometimes are carried away by their love for figures of speech to the detriment of emotion. The attempt of Mahāmahopādhyāya to impugn the genuineness of this quotation is hardly convincing. It is inconceivable that the great author of Locana would commit a sad mistake about the source of his quotation, especially when he subjects it to adverse criticism. The passage in Dhvanyāloka on commenting which the above quotation is given runs as follows:— दृश्यन्ते च कवयोऽलङ्कारनिबन्धनैकरसा अनपेक्षितरसाः प्रबन्धेषु. Vide N. S. P. edition of Dhvanyāloka Pages 151 and 152.
 
@@ -277,8 +249,6 @@ any particular author. Śaktibhadra's *Āścarya Cūḍamaṇi* exhibits exactly
 जीवत्यावन्तिकेत्येतद् ज्ञातं भुमिभुजा यथा॥**
 
  This is an extract from Śāradātanaya's, *Bhāvaprakāśa*, chapter 8.
-
-
 
  With regard to these two quotations (2 & 3) "पादाक्रान्तानि etc. & पद्मावत्या etc., Mm. Ganapati Sastri attempts an explanation by arguing that they will perhaps be found in the manuscripts yet to come to light, and he bases his argument on the analogy of the two following ślokas found in certain manuscripts of Śākuntala and not found in others.
 
@@ -304,8 +274,6 @@ any particular author. Śaktibhadra's *Āścarya Cūḍamaṇi* exhibits exactly
  This verse is cited as from Bhāsa by Abhinavagupta in his *Abhinavabhārati*. He adds the following preamble to this quotation.
 
  अधुना रौद्रं लक्षयति— अथ रौद्रो नामेति। आत्म (नाम) ग्रहणस्यायमाशयः— अन्यायकारिता प्राधान्येन क्रोधस्य विषयः। तादृशि च जने सर्वोऽपि मनोरथैरपि रुधिरपानमपि नाम कुर्यात्। तथा चाह लोकः—यदि लभ्येत तत्तदीयं रुधिरमापे पीत्वा न तृप्यते। महाकविना भासेनापि स्वप्रबन्धे उक्तः— त्रेतायुगं etc. Vide Gaekwad's Oriental Series No. 36, Page 320.
-
-
 
  5. In the *Nāṭakaratnalakṣaṇakośa* of Sāgaranandin we have the following remark.
 
@@ -337,8 +305,6 @@ any particular author. Śaktibhadra's *Āścarya Cūḍamaṇi* exhibits exactly
  This is also cited in Jalhaṇa's *Sūktimuktāvalī* under the heading चन्द्रोदयवर्णनम् .
 
  This is cited in *Śārṅgadhara paddhati* also as Bhāsa's (No. 3640 ) with slight variations in the
-
-
 
 Pūrvārdha as follows:— कपोले मार्जारी पय इति कराँल्लेढिशशिनस्तरुच्छिद्रप्रोतान्बिसमिति करी संकलयति।
 
@@ -379,8 +345,6 @@ cited in *Saduktikarṇāmṛta.*
 कामी दरिद्र इव शोषमुपैति पङ्कः॥** भासस्य.
 
 cited in *Subhāṣitāvalī*(No. 1821 ) under अर्थाशरित्;
-
-
 
  also cited in *Śärṅgadhara paddhati* (No. 3907) as Bhāsa's with slight variation— चिराद्यः for चिराढ्यः and धर्मचिन्ता for चित्तमन्तः ;
 
@@ -423,8 +387,6 @@ cited in *Subhāsitāvalī* (No. 1619) under अथोक्तिप्रत�
 कृतककृतकैर्मायासख्यैस्त्वयास्म्यतिवश्चिता  
 निभृतनिभृतैः कार्यालापैर्मयाप्युपलक्षितम्।
 
-
-
 **भवतु विदितं नेष्टाहं ते वृथा परिखिद्यसे  
 ह्यहमसहना त्वं निःस्नेहः समेन समं गतम्॥** भासस्य.
 
@@ -457,8 +419,6 @@ cited in *Subhāṣitāvalī* (No. 1353)under विरहिणां प्र
 
 * *One other argument against Bhāsa's authorship of the T.S.S. Plays is vehemently put forthby Professor Mahāmahopadhyāya S. KuppuswamiSastri as follows:—
 
-
-
  “Again, while commenting upon the verse
 
 **क्वचिद्धर्मः क्वचित्क्रीडा क्वचिदर्थः क्वचिच्छमः।  
@@ -476,8 +436,6 @@ Vide Āścaryacūḍāmaṇi, 2nd edition, Introduction, page 22.
 
  To sum up the arguments on both sides, we notice that out of the large number of quotations from Bhāsa cited in works of rhetoric and anthologies by eminent authors some are found in the T.S.S. plays and some are not. Therefore, we have to conclude that the thirteen plays ascribed to Bhāsa published in the Trivandrum Sanskrit Series represent the abridged versions of the original plays of Bhāsa prepared by the Cākyārs of Malabar to suit the exigencies of their stage.
 
-
-
 Svapnavāsavadatta as a Nāṭaka.
 
  Literature has been divided by Sanskrit. rhetoricians into two classes— दृश्य that which can be seen, and श्रव्य that which can only be heard. The दृश्यकाव्य can be represented on the stage. It is also called a Rūpakam, so called because the Rūpa or character of the heroes is ascribed to the actors. Rūpakas are tenfold viz.,—Nāṭaka, Prakaraṇa, Bhāṇa, Prahaṣana, Ḍima, Vyāyoga, Sāmavākāra,. Vīthi, Aṅka and Ihāmṛga. The difference between these categories lies in the difference in the plot, the hero and the emotion. The following ślokas may be perused with advantage in this connection.
@@ -494,8 +452,6 @@ Svapnavāsavadatta as a Nāṭaka.
 
  *Vastu* or plot is of three kinds— प्रख्यात orrenowned by tradition उत्पाद्य orconceived by the poet and मिश्रor partly traditional and partly
 
-
-
 conceived by the poet. Vide Daśarūpaka:— प्रख्यातोत्पाद्यमिश्रत्वभेदात्तत्त्रिविधं मतम्।
 
  *Rasas* or emotions that are considered to be the soul of poetry are nine in number— शृङ्गार the erotic, हास्य the humorous, करुण the pathetic, रौद्र the furious, वीर the heroic, भयानक the frightful, बीभत्स the loathsome, अद्भूत the marvellous, and शान्त the quietistic. Vide the following extract:—
@@ -509,8 +465,6 @@ According to Bharata, the founder of the Sanskrit dramaturgy, only the first eig
 
 विभावैरनुभावैश्च सात्त्विकैर्व्यभिचारिभिः।  
 आनीयमानः स्वादुत्वं स्थायी भावो रसः स्मृतः॥
-
-
 
 Rasa consists of a स्थायिभाव or sentiment which is rendered delectable by the cumulative influence of विभावऽ, अनुभावऽ and व्यभिचारिभावऽ. The nine स्थायिभावऽ or sentiments which make up the said nine Rasas are enumerated in order as follows:—
 
@@ -529,8 +483,6 @@ By way of illustration Daśarūpaka cites the following two ślokas from Uttarar
 
  विप्रलम्भशृङ्गार is sub-divided into four classes— अयोग, मान, प्रवास and करुण. अयोग represents the separated stage of loving couples before union, and the other three kinds of विप्रलम्भtake place after their union. मान represents a separation due to love-quarrels. प्रवास is separation due to exile, of which the whole of Meghasandeśa is a monumental example. करुणविप्रलम्भrefers to the separation of lovers one of whom departs from life provided they join later on. The story of Puṇḍarīka and Mahāśvetā in Kādambarī is
 
-
-
 an example of this kind off विप्रलम्भ. It has been defined as follows:—
 
 **यूनोरेकतरस्मिन् गतवति लोकान्तरं पुनर्लभ्ये।  
@@ -544,8 +496,6 @@ an example of this kind off विप्रलम्भ. It has been defined as 
 वीररस or the heroic emotion has been treated under three heads— धर्मवीर as in the case of Yudhiṣṭhira, युद्धवीर as of Rāma in Mahāvīracarita, and दयावीर as of Jīmūtavāhana in Nāgānanda.
 
  Heroes in general are considered to belong to four different types— धीरोदात्त, धीरोद्धत, धीरललित and धीरशान्त. Valour, magnanimity, strength of character, resoluteness and all other rare virtues are the characteristics of a Dhirodātta. Rāma, Jīmūtavāhana and the like are examples of this type. Haughtiness due to strength and valour, love of power, self-glorification, emulation, greed and the like are characteristic of the Dhīroddhata. Paraśurāma, Bhīmasena, Rāvaṇa and others fall under this category. Free from care, addicted to fine arts and love and easy-going is the Dhīralalita, of whom Vatsarāja, the hero of Ratnāvalī, is a typical
-
-
 
 example. Dhīraśānta is an average hero possessed of humility, sweetness, liberality and other good qualities, ordinarily a Brahmin, like Mādhava in Mālatīmādhava. Vide Daśarūpaka—
 
@@ -570,8 +520,6 @@ As to what are सामान्यगुणऽ which every hero should possess
 
 **एकायत्तोऽनुकूलः स्यात् तुल्योऽनेकत्र दक्षिणः।  
 व्यक्तागा गतभीर्धृष्टः गूढविप्रियकृच्छठः॥**
-
-
 
 Rāma is an example of Anukūla Nāyaka. The following śloka of Uttararāmacarita is generally cited to illustrate an Anukūlanāyaka.
 
@@ -607,13 +555,9 @@ And, for a Śaṭha, the following illustration is given from Amaruśataka—
 
  Now we propose to consider what are the requirements of a Nāṭaka as laid down by
 
-
-
 rhetoricians. नाटके प्रख्यातमितिवृत्तं धीरोदात्तो नायकः, शृङ्गारवीररसयोरन्यतरस्य प्राधान्यम्॥
 
  In a Nāṭaka the plot must be one already chronicled in the Epics or handed down by tradition. Udayana, the hero of this play, is a popular figure in the legendary lore of ancient India. Somadeva's Kathāsaritsāgara which belongs to the 11th century deals with the history of Udayana, and it is in its turn traceable to a much older work belonging to the 1st century A.D.— Bṛhatkathā written in the Paiśācī language by Guṇādhya though the work is not now available to us. From the various references in the Meghadūta of Kālidāsa and Mṛcchakaṭika of Śūdraka and other poets of eminence and in the numerous Buddhistic legends it is fairly certain that the story of Udayana was reputed by tradition. If we take Kathāsaritsāgara to represent the true story of Udayana as embedded in Bṛhatkathā, no doubt certain deviations from the source arrest our attention in the plot of the story. In Kathāsaritsāgara, Pradyota is the name of the Magadha king, father of Padmāvatī, whereas in our play he is the father of Vāsavadattā. Again the motive for the marriage of Udayana with Padmāvatī as described there is the conquest of fresh kingdoms by Udayana whereas in the present play it is the retrieval of
-
-
 
 the lost kingdom of Vatsas from the hands of his enemy Āruṇi. Whatever be the divergences in the plot between Kathāsaritsāgara and the present play, it is clear that the story of the present play has a historical background and as such it satisfies the first requirement of a Nāṭaka.
 
@@ -625,8 +569,6 @@ the lost kingdom of Vatsas from the hands of his enemy Āruṇi. Whatever be the
  Our hero has a good many qualities which make for a Dhīrodātta although in fact we notice very little of the heoric in him.
 
  The next essential laid down for a Nāṭaka is that the dominant emotion of the play should be either Śṛṅgāra or Vīra. Throughout the play the king is depicted as engrossed in the grief of separation from Vāsavadattā, and as such Vipralambha śṛṅgāra or love in separation dominates the entire play. Vide notes at pages 164, 182, 191 and 213.
-
-
 
 Sthāpanā or the Prologue.
 
@@ -644,8 +586,6 @@ Sthāpanā or the Prologue.
 
  Similarly Śāradātanaya says in his Bhāvaprakāśa: —
 
-
-
 वाञ्छाकलापस्तु कवेरभीष्टार्थप्रकाशनम्।  
 स्वाभिधेयगतत्वेन सा द्विधा परिपठ्यते॥
 
@@ -660,8 +600,6 @@ Viṣkambha and Praveśaka.
 
  इतिवृत्तं सूच्यमसूच्यं चेति द्विविधम्। असूच्यमपि द्विविधं— दृश्यं श्राव्यं च। तत्र सूच्यस्य सूचनाक्रमः पञ्चविधः। तथोक्तं दशरूपके— 'विष्कम्भचूलिकाङ्कास्यप्रवेशाङ्कावतारणैः' इति.
 
-
-
  Viṣkambha is that preliminary scene in any act of a drama in which one or more middle characters take part and which briefly indicates past or future incidents.
 
 **वृत्तवर्तिष्यमाणानां कथांशानां निदर्शकः।  
@@ -672,8 +610,6 @@ Viṣkambha and Praveśaka.
  स द्विविधः— शुद्धः संकीर्णश्चेत। केवलसंस्कृतप्रायः शुद्धः, संस्कृतप्राकृतमिश्रितः संकीर्णः॥
 
 A Praveśaka is also similar to a Viṣkambha in that it is intended for brevity and indicates past and future incidents. But there are certain salient points of difference between the two. In a Viṣkambha, one or more Madhyapātras or middle characters take part, and Nīcapātras or low characters also can be introduced; whereas a Praveśaka consists exclusively of low characters. And consequently, a Viṣkambha, if Śuddha, can be carried on entirely in Sanskrit, and, if Miśra, in a mixed dialogue of Sanskrit and Prākṛt, whereas a Praveśaka is carṛied on only in Prākṛt. A Viṣkambha can be inserted at the beginning of any act, but a Praveśaka can never be placed at the beginning of
-
-
 
 the First Act, perhaps because the exclusive introduction of low characters at the beginning is likely to detract from the dignity of the play and to impress the audience unfavourably.
 
@@ -690,8 +626,6 @@ Another method of suggesting the link between a prior and a later Act is by maki
 
  In Svapnavāsavadatta we have three Praveśakas in Acts II, IV and V, and one Viṣkambha in the VI Act. The Praveśaka at the beginning
 
-
-
 of the Second Act takes the form of a monologue entirely in Prākṛt by a Nīcapātra or an inferior character— a servant-maid of princess Padmāvatī coming in search of the princess. Strictly speaking, there is no reference to past or future events except that Padmāvatī's entry is announced. The Interlude at the beginning of the Fourth Act takes the form of a dialogue entirely in Prākṛt between Vidūṣaka—a Madhyapātra or middle character and a Ceṭī. In it a past incident is referred to, viz., the wedlock of Udayana and Padmāvatī. In the Praveśaka at the beginning of the Fifth Act, two Ceṭīs— Padininikā and Madhukarikā, and Vidūṣaka take part, and the conversation is entirely in Prākṛt.
 
  The Viṣkambha at the beginning of the Sixth Act is Miśra or mixed, because the conversation is carried on both in Sanskrit and Prākṛt. The characters that take part in it are— the chamberlain of Pradyota and the door-keeper of Udayana. For further details, see notes at the beginning of the respective Acts.
@@ -701,8 +635,6 @@ NĀNDī.
 ** **
 
 Nāndī is another technical term that we meet with in dramas. It means the introductory benediction at the beginning of every play. Nāndī consists in homage paid to the Deity, Brahmins, kings
-
-
 
 or the like, coupled with an invocation for blessing. Sāhityadarpaṇa defines it as follows:—
 
@@ -720,8 +652,6 @@ In popular parlance, the word Nāndī is used to denote a preliminary ceremony f
 तद्रङ्गमुद्दिश्य कृतां तु पूजां नान्दीति तां नाट्यविदो वदन्ति॥**
 
 Nāndī therefore means the Pūrvaraṅga ceremony i.e., the initial worship offered with a view to a
-
-
 
 successful staging of the play. And it is in this sense that it is used at the beginning of all the plays of Bhāsa. But latterly it has come to denote the benedictory verses composed by the poet himself, and in this significance it is used in the majority of plays beginning with Śākuntala.
 
@@ -748,8 +678,6 @@ Sūtradhāra.
 
  The qualities required of a Sūtradhāra in the above definition are too many that it leads us to suppose that it refers to an ideal Sūtradhāra and not to all Sūtradhāras.
 
-
-
  Sūtradhāra is of two kinds— Nāndī Sūtradhāra and Sthāpanā Sūtradhāra. The duty of the former is to perform the Pūrvaraṅga and that of the latter to introduce the play to the audience. He is also called Sthāpaka, because he establishes the foundation of the drama by introducing it to the audience.
 
 **स च काव्यार्थस्थापनात् सूचनात्स्थापकः।**
@@ -765,37 +693,23 @@ As to the two types of Sūtradhāra, see the following:—
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **ARGUMENT OF THE PLAY**
 
  Act I. King Udayana's minister Yaugandharāyaṇa disguised as an ascetic leads queen Vāsavadattā disguised as a citizen girl of Avantī through a penance-forest of the Magadha kingdom with the object of entrusting her to the care of some sage dwelling in a hermitage. Two soldiers in the body-guard of the Magadha princess—Padmāvatī command the people to clear out, announcing the arrival of the princess. The chamberlain of Padmāvatī forbids the guards to clear out the crowd as such an order is ill-suited to a holy resort of hermits. Besides, he announces that Padmāvatī, sister of King Darśaka, after visiting the king's mother, is on her way back to Rājagṛha, that she takes a temporary halt in that penancegrove and that the sages dwelling in the hermitages are free to follow their avocations as usual. Yaugandharāyaṇa recognizes that she is the self- same princess whose marriage with Udayana has been predicted by seers. Vāsavadattā also enterains a sisterly affection for her. A female hermit accords reception to the princess's party. At the bidding of Padmāvatī, the chamberlain
 
-
-
 invites the occupants of the forest to come forward with requests as best they like. In response to the announcement Yaugandharāyaṇa requests that Padmāvatī might take charge of his sister Āvantikā whose husband is in exile and keep her under her protection for a few days till he comes to take her back. The princess, true to her word, undertakes the responsibility, and Yaugandharāyaṇa heaves a sigh of relief that the queen has been entrusted to proper custody. It is mid-day. A bachelor comes to the hermitage and meets with a cordial reception from Padmāvatī's party. The bachelor says that while he was in the village of Lāvāṇaka in the land of Vatsas undergoing education in the advanced study of Vedas, King Udayana happened to stay there with his queen Vāsavadattā, but that while he was out ahunting, Queen Vāsavadattā was burnt in a conflagration, and in an attempt to rescue her from fire the minister Yaugandharāyaṇa too was burnt to death. Yaugandharāyaṇa pretends surprise and asks for news about the king. The king on coming back attempted to commit suicide but was prevented with difficulty by his ministers. He underwent unbearable separation and was being attended to by his minister Rumaṇvān. The bachelor recounts the hundred ways in which Udayana was bemoaning the loss of his queen. Padmāvatī is deeply impressed
-
-
 
 with the virtues of the king. The bachelor takes. leave, and so does Yaugandharāyaṇa. The Sun is then seen to set in the west.
 
  Act II. Padmāvatī enters playing with a ball, accompanied by her retinue with Vāsavadattā disguised as Āvantikā. Vāsavadattā admires the beauty of Padmāvatī and hints that she is the cyno sure of the eyes of suitors, particularly of Mahāsena's Padmāvatī's maid makes it clear that the princess does not relish an alliance with Pradyota's son, but that she is impressed very much with the virtues of Udayana. The doubt expressed by the maid about the handsomeness of Udayana is cleared by Vāsavadattā's assurance which, she says, is based on the general talk at Ujjain. At this stage Padmāvatī's nurse comes and announces that she has been betrothed to Udayana. Vāsavadattā enquires whether the hand of Padmāvatī was sought for by Udayana. The nurse dispels the suspicion of any initiative of Udayana in the matter by stating that the proposal was made by Padmāvatī's brother Darśaka and agreed to by Udayana at the request of his ministers and in deference to the commandments of scriptures. Another servant- maid comes in a hurry and takes Pādmavatī as the marriage has been fixed to take place on that very day.
 
-
-
  Act III. When high glee prevails in the palace on the eve of Padmāvatī's marriage, Vāsavadattā remains care-worn in a corner, brooding over her fate. The servant-maid at the bidding of King Darśaka's wife comes in search of Vāsavadattā and delivers flowers to her, requesting her to prepare the wedding garland for Padmāvatī. In the heap of flowers there is a bunch of herbs known as 'Ward-off-Widowhood,' and it has the approval of Vāsavadattā. The next bunch known as 'Crush- the-co-wife' is objected to as uncalled for when the co-wife is no more. Another servant-maid enters and urges the preparation of the wreath as the bridegroom is being taken to the quadran- gle where the wedding is to be celebrated. Vāsavadattā prepares the wreath at once and delivers it. Both the servant-maids walk out in a hurry, leaving Vāsavadattā in the midst of her cares.
 
  Act IV. The marriage has been celebrated. The glutton Vidūsaka feels uneasy by an overdose of dishes. A servant-maid comes in search of Vidūṣaka to ascertain if the bridegroom has had his bath. Vidūṣaka replies in the affirmative and permits her to bring unguents for the king and all other things as she likes save and except food whose thought is very distressing to Vidūṣaka. Here ends the Interlude.
 
-
-
  Padmāvatī and Āvantikā have a stroll in the garden and admire the beauty of the flowers appearing in plenty. A servant-maid plucks some flowers whose beauty attracts both Padmāvatī and Vāsavadattā. Padmāvatī forbids the further plucking of flowers as she would like her lord to have a sight of the full bloom in the garden as and when he comes there. Interrogated by Vāsavadattā, Padmāvatī admits her inordinate love for Udayana and doubts if he had entertained the same love towards Vāsavadattā. Vāsavadattā unwittingly remarks that his love for her was even greater but justifies that her presumption is correct, because otherwise Vāsavadattā would not have left off her parents and fled away with him. The servant-maid suggests that Padmāvatī might also like Vāsavadattā offer to learn lute-play under Udayana. But Padmāvatī discloses that the offer has been made only to elicit deep sighs of grief from her lover in recollection of his departed queen. At this stage Udayana and Vidūṣaka are seen entering the park observing the beauty of the bower, the pleasure-mound and the white row of cranes. To guard Āvantika from the sight of the king, the ladies enter the bower. The king and Vidūṣaka sit on the slab outside. Vidūṣaka feels the slab hot in the sun and suggests an entry into the bower. But Vidūṣaka's attempt to do so
 
-
-
 is thwarted by the servant-maid inside by dragging down the branch of a plant and sending a troop of swarming bees to the annoyance of Vidūṣaka. Worried by the nuisance of bees, Vidūṣaka and the king decide to remain outside. The garden is quite lonely, and Vidūṣaka presses the king to answer whom he loved more– the deceased Vāsavadattā or the living Padmāvatī. The king he- sitates to give a reply. Vidūṣaka threatens to use force which is of no avail with the king. But in the name of friendship Vidūṣaka implores him to give a reply, and the king discloses that in spite of the beauty, character and suavity of Padmāvatī, his heart is already dominated by Vāsavadattā. Then the king puts the same question to Vidūṣaka who, after an unsuccessful attempt to evade, gives his reply in dubious terms. The king says that he would report the matter to Queen Vāsavadattā, but is reminded by Vidūṣaka that Vāsavadattā is no more. The king is carried away by grief where- as Vāsavadattā is pleased by the confession of the king's superior love for her which she heard incognito. The king weeps in recollection of his previous love. Vāsavadattā advises Padmāvatī to go near the king and console him and accordingly walks away leaving her behind. Walking towards the king, Padmāvatī meets Vidūṣaka on the way carrying water in a lotus-leaf to wash off the tears
-
-
 
 in Udayana's face. Questioned by Padmāvatī, Vidūṣaka says that the Kāśa pollen wafted by the breeze caused tears in the eyes of his friend and the water is intended for wiping out those tears. Padmāvatī appreciates the solicitude of Vidūṣaka not to wound her feelings and receives the water herself to present it to the king. Put on the alert by Vidūṣaka, the king ascribes the same reason for his tears. To the great relief of Udayana, Vidūṣaka advises his friend to meet King Darśaka at once in accordance with his practice in afternoons. Pursuant to his advice, Udayana starts out.
 
@@ -803,37 +717,23 @@ in Udayana's face. Questioned by Padmāvatī, Vidūṣaka says that the Kāśa p
 
  In the Act proper the king enters brooding over the death of his beloved in the conflagration at Lāvāṇaka. Vidūsaka meets him and informs him of Padmāvatī's headache. Both start for the
 
-
-
 marina-house where Padmāvatī's bedding is arranged. At the threshold Vidūṣaka is terrified by a festoon dropped down rolling like a snake but is disillusioned by the king who has closer powers of observation. Vidūṣaka surmises that Padmāvatī would have come and gone. There too the king sets him right by referring to the undisturbed condition of the bed and the improbability of a patient having left off the bed in such a short space of time. They decide to remain at the bed and wait for the arrival of Padmāvatī. The king is troubled by sleep but wants tales to be told him to facilitate his sleep. Vidūṣaka starts his narration with the city of Ujjain which calls forth the king's unpleasant reminiscences of Vāsavadattā. For the diversion of the king, Vidūṣaka begins another story. At the outset he bungles between the city and the king,—Brahmadatta and Kāmpilya. The king points out the confusion and teaches him the correct names of the city and the king. Vidūṣaka repeats the correct names several times, but before he finishes the process he finds the king already asleep. The day being very cold, he walks out to fetch a blanket for himself. Vāsavadattā comes into the Marina-house in search of Padmāvatī. Mistaking the king for Padmāvatī, she feels sorry that Padmāvatī is left alone in the bed-room. To show her affection to Padmāvatī she
-
-
 
 decides to sit by her side and is pleased to observe her regular flow of breath. The king mutters in a dream. He calls out for Vāsavadattā, asks what is the cause of her displeasure and extends his arms to implore her pardon. At first Vāsavadattā suspects she has been detected. Then she is relieved to find it was only a dream. However, though she is anxious to avoid detection, she restores the hands of her lord hanging down to the bed, and then walks out in a hurry. Before the king rises calling out for her, she is gone out of his sight. He strikes at a plank of the threshold and can proceed no more. Vidūṣaka is back with his blanket. He is told by the king that Vāsavadattā is alive; she actually roused him from sleep. But Vidūṣaka attributes it to an apparition or dream, but it is a reality to the king who continues to feel the pleasure of touch with the hair still standing on their ends. Vidūṣaka advises the king not to indulge in illusion any longer. The chamberlain enters and announcess that Minister Rumaṇvān has started on a march against his enemy Āruṇi and urges him to lead on the troops in battle. The king casts away all his previous thoughts and gets ready for the expedition with true war-like fervour.
 
  Act VI. Raibhya, the chamberlain of Mahāsena, calls at the gate of King Udayana who has
 
-
-
 regained his lost kingdom of Vatsas and asks the doorkeeper to report him to the king. Earlier in the day the king has heard the lute Ghoṣavatī played by somebody who in view of the kindly enquiries. of the king has parted with it in his favour. This. has roused the king's unpleasant memories of his bereavement. Accordingly, the doorkeeper suggests that this is not the proper hour for seeking. an interview. However the chamberlain presses his request since the errand with which he is charged relates also to the same matter. And the portress agrees to it.
 
  In the Act proper the king laments the lute Ghoṣavatī in its sad separation from its mistress— Queen Vāsavadattā. The doorkeeper announces. the arrival of Raibhya and of Vāsavadattā's nurse Vasundharā sent by Aṅgāravati, wife of Mahāsena. The king sends for Padmāvatī so that she might also hear the message of Vāsavadattā's parents. Though Padmāvatī doubts at first the propriety of her presence at the interview, she yields to the persuasion of the king. The king bids the doorkeeper admit the chamberlain and Vāsavadattā's nurse. They are taken to the king. He enquires of them the welfare of Mahāsena. After the usual enquiry of welfare the chamberlain offers to Udayana the felicitations of Mahāsena on the recovery of his lost kingdom. Vāsavadattā's
 
-
-
 nurse communicates the message of Queen Aṅgāravatī. Aṅgāravatī has fondled Udayana along with her own sons. She and her husband had intended in fact to give their daughter Vāsavadattā to Udayana. But while teaching the lute, Udayana eloped with his pupil Vāsavadattā in impatience. Since the formal marriage was left undone, the parents of Vāsavadattā got the pictures of Vāsavadattā and Udayana drawn on a board and celebrated their marriage on the picture-board. That picture-board has now been sent by Aṅgāravatī and is delivered to King Udayana by Vāsavadattā's nurse. Padmāvatī looks at the picture of Vāsavadattā and is struck with its similarity of features with Āvantikā. She discloses that the original of that picture was a friend of hers moving in the harem along with herself, who was entrusted to her care by her Brahmin brother. At this stage Yaugandharāyaṇa appears and demands a return of his deposit. He is apprehensive as to what the king will say though his efforts were crowned with success. Āvantikā is brought. King Udayana suggests the re-delivery of the deposit in the presence of Raibhya and Vasundharā as attestors. The nurse recognizes Vāsavadattā, and when the king bids the entry of Vāsavadattā into the harem, Yaugandharāyaṇa makes a show of opposition. The mystery has to
-
-
 
 be cleared. The curtain is thrown off at the bidding of the king. Yaugandharāyaṇa and Vāsavadattā greet the king in their usual manner. The king fears lest this should also turn out to be a dream. Yaugandharāyaṇa makes a clean breast of his schemes and applies to the king for pardon. The king is justly proud of his statesman-like minister who had saved him from many a reverse by his own statesmanship. Padmāvatī feels sorry for having treated Vāsavadattā as an ordinary friend, falls at her feet for pardon and is assured by Vāsavadattā's kind words. Yaugandharāyaṇa then unravels his plans to the king. The king is greatly astonished at the clever dissimulation practised by Rumaṇvān. Yaugandharāyaṇa points out that the well-being of Queen Vāsavadattā should be immediately communicated to her parents. King Udayana implements his suggestion more fully by deciding that all of them together with Padmavatī should go in person to convey their respects to Vāsavadattā's parents.
 
 \_\_\_\_\_\_\_\_\_\_\_
 
-
-
 [TABLE]
-
-
 
 ॥श्रीः॥
 
@@ -863,8 +763,6 @@ ACT THE FIRST
 *Stage-director.*
 
 * *May the two arms of Balarāma protect you,—the arms which are akin in colour to the fresh Moonat her rise, which offer wine to his spouse, bear infull the impress of the glorious advent of GoddessLakṣmī and are charming in the Spring.(1)
-
-
 
  एवमार्यमिश्रान् विज्ञापयामि। अये, किं नु खलु मयि विज्ञापनव्यग्रे शब्द इव श्रूयते।अङ्ग, पश्यामि।
 
@@ -903,8 +801,6 @@ PROLOGUE.
 
 \_\_\_\_\_\_
 
-
-
 (प्रविश्य)
 
 **भटौ—**उस्सरह उस्सरह अय्या, उस्सरह।
@@ -932,8 +828,6 @@ PROLOGUE.
 **Yaugandharāyanṇa.** (Lending his ear) How is it? Even here, men are cleared out.
 
  Why is terror caused to the brave venerable persons occupying the hermitages, living in contentment on the fruits of the forest and cladin tree-bark? Who is this haughty person at the head of ruffians and puffed up with the smiles of fickle Fortune, who by the exercise of authority treats this peaceful penance-grove as an abode of rustics? **(3)**
-
-
 
 **वासवदत्ता—**अय्य, को एसो उस्सारेदि।
 
@@ -967,8 +861,6 @@ PROLOGUE.
 
 **Yaug.**Madam, this is a matter tasted andrejected at will by you. You need care little forit. For—           
 
-
-
 **पूर्वं त्वयोप्यभिमतं गतमेवमासी-**  
 
 **च्छ्लाध्यं गमिष्यसि पुनर्विजयेन भर्तुः।**  
@@ -991,7 +883,6 @@ PROLOGUE.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
  Formerly you too had a coveted status like this; and once more will you rise to it with praise through the triumph of your lord. Like the array of spokes in a wheel does the array of worldly fortune move round and round by the gradual operation of time.
 
 **Two guards.** Move off, gentlemen, move off.
@@ -1001,8 +892,6 @@ PROLOGUE.
 **Chamberlain.** Sambhaṣaka, you must not indeed turn out the people. See—
 
  Bring not blame upon the king. No harsh word should be used to those that dwell in a hermitage. These noble persons have come to the
-
-
 
 **उभौ—**अय्य, तह। आर्य, तथा। (निष्क्रान्तौ।)
 
@@ -1036,8 +925,6 @@ forest and live therein to escape the insults prevalent in the city. **(5)**
 
 **Chamberlain.** Eh! Be it heard, Here is Padmāvatī, the sister of our great king who is called
 
-
-
 सैषा नो महाराजमातरं महादेवीमाश्रमस्थामभिगम्यानुज्ञाता तत्रभवत्या राजगृहमेव यास्यति। तदद्यास्मिन्नाश्रमपदे वासोऽभिप्रेतोऽस्याः। तद्भवन्तः,
 
 **तीर्थोदकानि समिधः कुसुमानि दर्भान्**  
@@ -1057,8 +944,6 @@ Darśaka by elders. After meeting the Queen-Empress, the mother of our great kin
  You may freely take from the forest the articles of penance— holy waters, fuel, flowers and reeds, Fond of Dharma that she is, our princess will not like an injury done to the Dharma of penance-doers. This is her hereditary pledge. **(6)**
 
 **Yaug.** (Within) Is it so? This is the princess of Magadha, Padmāvatī by name, of whom it has been predicted by Puṣpakabhadra and other fore-
-
-
 
 **प्रद्वेषो बहुमानो वा संकल्पादुपजायते।  
 भर्तृदाराभिलाषित्वादस्यां मेमहती स्वता॥७॥**
@@ -1095,8 +980,6 @@ tellers that she will become the queen of our lord. Consequently—
 
 **Hermitess.** Welcome to the princess.
 
-
-
  (स्वगतं) इयं सा राजदारिका। अभिजनानुरूपं खल्वस्या रूपम्।
 
 **पद्मावती—**अय्ये, वन्दामि। आर्ये, वन्दे।
@@ -1131,8 +1014,6 @@ tellers that she will become the queen of our lord. Consequently—
 
 **Hermitess.** Good girl, has no king solicited the hand of this sister of our noble king?
 
-
-
 **चेटी—**अत्थि राआ पज्जोदोणाम उज्जइणीए। सो दारअस्स कारणादो दूदसंपादं करेदि।
 
  अस्ति राजा प्रद्योतो नामोज्जयिन्याः। स दारकस्य कारणाद् दूतसंपातं करोति।
@@ -1157,8 +1038,6 @@ tellers that she will become the queen of our lord. Consequently—
 
 **Padm.** Sir, did you meet the sages to invite their blessings on me? Let the sages be consulted
 
-
-
 **काञ्चुकीयः—**यदभिप्रेतं भवत्या। भो भो आश्रमवासिनस्तपस्विनः शृण्वन्तु शृण्वन्तु भवन्तः। इहात्रभवती मगधराजपुत्री अनेन विस्रम्भेणोत्पादितविस्रम्भा धर्मार्थमर्थेनोपनिमन्त्रयते।
 
 **कस्यार्थः कलशेन को मृगयते वासो यथानिश्चितं**  
@@ -1181,8 +1060,6 @@ and pressed to receive gifts after their own liking, each one what he wishes.
 
 **Yaug.** Ho! I have hit upon a plan. (Aloud) Eh! I am an applicant.
 
-
-
 **पद्मावती—**दिट्ठिआ सहलं मे तवोवणाभिगमणं।
 
  दिष्ट्या सफलं मे तपोवनाभिगमनम्।
@@ -1196,10 +1073,8 @@ and pressed to receive gifts after their own liking, each one what he wishes.
 **यौगन्धरायणः—**इयं मे स्वसा। प्रोषितभर्तृकामिमामिच्छाम्यत्रभवत्या कंचित्कालं परिपाल्यमानाम्। कुतः,
 
 कार्यं नैवार्थैर्नापि भोगैर्न वस्त्रै–                
-             
 
 र्नाहकाषायं वृत्तिहेतोः प्रपन्नः।                  
-        
 
   
 
@@ -1218,8 +1093,6 @@ and pressed to receive gifts after their own liking, each one what he wishes.
 **Yaug.** This is my sister. Her husband being in exile, I should like to have her kept under the protection of her ladyship for some time. Why?
 
  Riches are of no use to me, nor pleasures, nor clothes. I have not taken up my red ascetic robes for the sake of a living. Sturdy in character and with leanings for Dharma so manifest, this
-
-
 
 **वासवदत्ता—**(आत्मगतं) हं। इहमंणिक्खिविदुकामो अय्ययोगन्धरायणो। होदु‚अविआरिअ कमं ण करिस्सदि।
 
@@ -1246,8 +1119,6 @@ maiden is competent to safeguard the virtue of my sister. **(9)**
  Easy will it be to give away wealth, easy to give away life, easy to make a present of penance. Easy will be everything else, but difficult will be the safeguarding of a trust. **(10)**
 
 **Padm.** Sir, having first proclaimed 'Who
-
-
 
 **काञ्चुकीयः—**अनुरूपमेतद् भवत्याभिहितम्।
 
@@ -1283,8 +1154,6 @@ wants and which,' it is not meet for us to discuss it now. So sir, do what he sa
 
 **Vas.** (Within) What to do? Unfortunate that I am, I shall go.
 
-
-
  भवतु भवतु। आत्मीयेदानीं संवृत्ता।
 
 **तापसी—**जा ईदिसी से आइदी, इयं वि राअदारिअत्ति तक्केमि।
@@ -1310,8 +1179,6 @@ wants and which,' it is not meet for us to discuss it now. So sir, do what he sa
 
 **Yaug.** (To himself) Humph! Half the burden is over. It has happened exactly as was decided upon in the company of ministers. Later when \[bring back the lady to the king as soon as he is reestablished, the esteemed princess of Magadha will serve to inspire confidence. Because—
 
-
-
 तत्प्रत्ययात् कृतमिदं न हि सिद्धवाक्या  
 न्युत्क्रम्य गच्छति विधिः सुपरीक्षितानि॥१२॥
 
@@ -1335,8 +1202,6 @@ wants and which,' it is not meet for us to discuss it now. So sir, do what he sa
 
  The deer roam about in confidence, fearless and feeling sure of their ground. The trees are all tended with compassion, abounding as they do in branches laden with flowers and fruits. Riches in the form of tawny kine are found in plenty.
 
-
-
 यावत्प्रविशामि**।** (प्रविश्य) अये आश्रमविरुद्धः खल्वेष जनः। (अन्यतो विलेाक्य) अथवा तपस्विजनोऽप्यत्र। निर्दोषमुपसर्पणम्। अये स्त्रीजनः।
 
 **काञ्चुकीयः—**स्वैरं स्वैरं प्रविशतु भवान्। सर्वजनसाधारणमाश्रमपदं नाम।
@@ -1358,8 +1223,6 @@ The sites are lacking in cultivated fields. Doubtless this is a sacred grove whe
 **Vās.** Humph.
 
 **Padm.** Oh! The lady shuns the sight of male strangers. Be it so. My ward is to be looked after with care.
-
-
 
 **काञ्चुकीयः—**भोः, पूर्वं प्रविष्टाः स्मः। प्रतिगृह्य तामतिथिसत्कारः।
 
@@ -1384,8 +1247,6 @@ The sites are lacking in cultivated fields. Doubtless this is a sacred grove whe
 **Bachelor.** Eh! Listen. I am coming from Rājagṛha. There is the village Lāvāṇaka in the Vatsa Land. I had dwelt there for improving my Vedic education.
 
 **Vās.** (To herself) Ha Lāvāṇaka! By the mention of Lavāṇaka, my torment is renewed, as it were.
-
-
 
 **यौगन्धरायणः—**अथ परिसमाप्ता विद्या?
 
@@ -1425,8 +1286,6 @@ The sites are lacking in cultivated fields. Doubtless this is a sacred grove whe
 
 **Yaug.** Must be so. And then?
 
-
-
 **ब्रह्मचारी—**ततस्तस्मिन् मृगयानिष्क्रान्ते राजनि ग्रामदाहेन सह दग्धा।
 
 **वासवदत्ता—**(आत्मगतं) अलिअं अलिअं खु एदं। जीवामि मन्दभाआ।
@@ -1456,8 +1315,6 @@ The sites are lacking in cultivated fields. Doubtless this is a sacred grove whe
 **Yaug.** Truly fallen? And then?
 
 **Bachelor.** Then on hearing the news on return, the king afflicted by their separation
-
-
 
 **वासवदत्ता—**(आत्मगतं) जाणामि जाणामि अय्यउत्तस्समइ साणुक्कोसत्तणं।
 
@@ -1495,8 +1352,6 @@ desired to give up his life in that very fire, but was prevented by his minister
 
 **Maid.** Princess, here the lady weeps.
 
-
-
 **पद्मावती—** साणुक्कोसाए होदव्वं। सानुक्रोशया भवितव्यम्।
 
 **यौगन्धरायणः—** अथकिमथकिम्।प्रकृत्या सानुक्रोशा मे भगिनी। ततस्ततः।
@@ -1525,8 +1380,6 @@ desired to give up his life in that very fire, but was prevented by his minister
 
 **Bachelor.** Then the king with his body gray with dust by rolling on the ground rose up all of a sudden and bewailed aloud in a hundred ways, crying out— 'Ah Vāsavadattā! Ah daughter of the king of Avanti! Ah beloved! Ah my dear pupil! Why say more?
 
-
-
 नैवेदानीं तादृशाश्चक्रवाका  
 नैवाप्यन्ये स्त्रीविशेषैर्वियुक्ताः।  
 
@@ -1549,8 +1402,6 @@ desired to give up his life in that very fire, but was prevented by his minister
 **Bachelor.** There is the minister named Rumaṇvān who tries hard to cheer him up.
 
  Alike in denying himself meals, with face emaciated by profuse weeping and bearing an embellishment of body that betokens a misery equal to that of the king, he attends day and
-
-
 
 दिवा वा रात्रौ वा परिचरति यत्नैर्नरपतिं  
 नृपः प्राणान् सद्यस्त्यजति यदि तस्याप्युपरमः॥१४॥
@@ -1582,8 +1433,6 @@ night on the king with ceaseless efforts. If all of a sudden the king gives up h
 
 **Bachelor.** I don't know it now. He was wailingthus—‘Here I laughed with her. Here I
 
-
-
 तया सह कथितम्, इह तया सह पर्युषितम्, इह तया सह कुपितम्, इह तया सह शयितम्, इत्येवं तं विलपन्तं राजानममात्यैर्महता यत्नेन तस्माद् ग्रामाद् गृहीत्वापक्रान्तम। ततो निष्क्रान्ते राजनि प्रोषितनक्षत्रचन्द्रमिव नभोऽरमणीयः संवृत्तः स ग्रामः। ततोऽहमपि निर्गतोऽस्मि।
 
 **तापसी—** सो खु गुणवन्तोणाम राआ, जो आअन्तुएण वि इमिणा एव्वं पसंसीअदि।
@@ -1605,8 +1454,6 @@ chatted with her. Here I spent the day with her. Here I grew wild with her. Here
 **Maid.** Princess, will any other lady win his love (lit. get into his hands)?
 
 **Padm.** (*Within*) The idea has struck her as well as my mind.
-
-
 
 ब्रह्मचारी—
 
@@ -1658,8 +1505,6 @@ chatted with her. Here I spent the day with her. Here I grew wild with her. Here
 
 **Yaug.** Having come into good hands, she will not feel the anxiety. (*Looking at the Chamberlain*) We shall go.
 
-
-
 **काञ्चुकीयः—**गच्छतु भवान् पुनर्दर्शनाय।
 
 **यौगन्धरायणः—** तथास्तु।
@@ -1704,8 +1549,6 @@ chatted with her. Here I spent the day with her. Here I grew wild with her. Here
 
 **Vās.** I am blest.
 
-
-
 काञ्चुकीयः—
 
 तदागम्यताम्। इत इतो भवति। संप्रति हि,
@@ -1734,8 +1577,6 @@ chatted with her. Here I spent the day with her. Here I grew wild with her. Here
 
 **\_\_\_\_\_\_\_**
 
-
-
 **॥द्वितीयोऽङ्कः॥**
 
 (ततः प्रविशति चेटी।)
@@ -1751,8 +1592,6 @@ ACT THE SECOND
 (Enter a Servant-maid)
 
 **Maid.** Kuñjarikā, Kuñjarikā, where, where is Princess Padmāvatī? What do you say? 'Here the Princess plays with a ball by the side of the jasmine-bower?' Then I shall approach the princess. (*Walking about and seeing)* Oh! Here comes the princess playing with a ball, with
-
-
 
  परिश्रान्तरमणीयदर्शनेन मुखेन कन्दुकेन क्रीडन्तीत एवागच्छति। यावदुपसप्स्यामि।
 
@@ -1790,8 +1629,6 @@ INTERLUDE.
 
 **Vās.** Friend, you have played so long at the ball and your hands have reddened so excessively that they seem to belong to another.
 
-
-
 **चेटी—**कीलदु कीलदु दाव भट्टिदारिआ। णिव्वत्तीअदु दाव अअं कण्णाभावरमणीओ कालो।
 
  क्रीडतु क्रीडतु तावद् भर्तृदारिका। निर्वर्त्यतां तावदयं कन्याभावरमणीयः कालः।
@@ -1823,8 +1660,6 @@ INTERLUDE.
 **Padm.** Get away. Don't mock at me.
 
 **Vās.** You, would-be daughter-in-law of Mahāsena, I keep quiet.
-
-
 
 पद्मावती—
 
@@ -1871,8 +1706,6 @@ INTERLUDE.
 **Vās.** Then with whom does she?
 
 **Maid.** There is the king of Vatsas, Udayana. by name. The princess is enamoured of his virtues.
-
-
 
  (आत्मगतं) आर्यपुत्रं भर्तारमभिलषति। (प्रकाशं) केन कारणेन?
 
@@ -1923,8 +1756,6 @@ INTERLUDE.
 **Padm.** Madam, how do you know?
 
 **Vas.** (Within) I have exceeded my bounds out of predilection for my lord. What shall I do now?
-
-
 
 पद्मावती—
 
@@ -1990,8 +1821,6 @@ Let it be. have hit upon an idea. (Aloud) Friend, so say the people of Ujjain.
 
 **Vās.**Iniquity!
 
-
-
 धात्री—
 
 किं एत्थ अ;च्चाहिदं?
@@ -2042,8 +1871,6 @@ Let it be. have hit upon an idea. (Aloud) Friend, so say the people of Ujjain.
 
 **Nurse.**Nay, nay. When he had been here on some other purpose, she was given by the great king of his own accord on seeing his parentage, culture and age.
 
-
-
 (प्रविश्यापरा)
 
 चेटी—
@@ -2084,8 +1911,6 @@ Let it be. have hit upon an idea. (Aloud) Friend, so say the people of Ujjain.
 
 End of the Second Act.
 
-
-
 **॥तृतीयोऽङ्कः॥**
 
 (ततः प्रविशति विचिन्तयन्ती वासवदत्ता।)
@@ -2102,8 +1927,6 @@ ACT THE THIRD
 
 **Vāsavadattā.** I have come away here to the park, having left Padmāvatīin the quadrangle of the harem, full of glee on the occasion of wedlock. I shall just relieve myself of the misery fallen to my lot. (Walking about) What a calamity! Even my lord has come to belong to another. I shall sit
 
-
-
  चक्रवाकवधूः, यान्योन्यविरहिता न जीवति। न खल्वहं प्राणान् परित्यजामि। आर्यपुत्रं पश्यामीत्येतेन मनोरथेन जीवामि मन्दभागा।
 
 (ततः प्रविशति पुष्पाणि गृहीत्वा चेटी।)
@@ -2119,8 +1942,6 @@ down. (Sitting) Happy is the she-Cakravāka; separated from her mate, she ceases
 (Enter a Maid, taking flowers)
 
 **Maid.** Where has the venerable Āvantikā gone? (*Walking about and seeing)* With a careworn and vacant heart and with an undecked but lovely form, like the digit of the Moon obscured by fog, she is seated on the slab at the foot of the Priyaṅgu tree. I shall just approach her. (*Going near)* Madam, Āvantikā, how long am I searching for you?
-
-
 
 **वासवदत्ता—**किंणिमित्तं? किंनिमित्तम्?
 
@@ -2168,8 +1989,6 @@ down. (Sitting) Happy is the she-Cakravāka; separated from her mate, she ceases
 
 **Maid.** Madam, don't be thinking of anything
 
-
-
 **वासवदत्ता—**(आत्मगतं) ण सक्कुणोमि अण्णं चिन्तेदुं। (प्रकाशं) हला, किं दिठ्ठो जामादुओ?
 
  (आत्मगतं) न शक्नोम्यन्यच्चिन्तयितुम्। (प्रकाशं) हला, किं दृष्टो जामाता?
@@ -2203,8 +2022,6 @@ down. (Sitting) Happy is the she-Cakravāka; separated from her mate, she ceases
 **Maid.** Madam, I do say, the like of him was never seen before.
 
 **Vās.** Friend, do tell, is he handsome?
-
-
 
  शक्यं भणितुं शरचापहीनः कामदेव इति।
 
@@ -2250,8 +2067,6 @@ down. (Sitting) Happy is the she-Cakravāka; separated from her mate, she ceases
 
 **Maid.** This is one that prevents widowhood.
 
-
-
 **वासवदत्ता—**(आत्मगतं) इदं बहुसो गुह्मिदव्वं मम अ पदुमावदीए अ। (प्रकाशं) इमं दाव ओसहं किं णाम?
 
  (आत्मगतं) इदं बहुशो गुम्फितव्यं मम च पद्मावत्याश्च। (प्रकाशं) इदं तावदौषधं किं नाम?
@@ -2287,8 +2102,6 @@ down. (Sitting) Happy is the she-Cakravāka; separated from her mate, she ceases
 (Entering)
 
 **Another maid.** Make haste, makehaste, madam. Here the son-in-law is taken into the inner quadrangle by femmes covertes.
-
-
 
 **वासवदत्ता—**अइ, वदामि, गह्णएदं।
 
@@ -2326,8 +2139,6 @@ End of the Third Act.
 
 ————
 
-
-
 **॥चतुर्थोऽङ्कः॥**
 
 (ततः प्रविशति विदूषकः।)
@@ -2345,8 +2156,6 @@ End of the Third Act.
 
 **Vidūṣaka.** (Joyfully) Eh! Fortunately have I seen the happy occasion of the pleasant auspicious wedlock of the esteemed Vatsarāja. Oh!
 
-
-
 सलिलावर्ते प्रक्षिप्ताः पुनरुन्मङ्क्ष्याम इति। इदानीं प्रासादेषूष्यते, अन्तःपुरदीर्घिकासु स्नायते, प्रकृतिमधुरसुकुमाराणि मोदकखाद्यानि खाद्यन्त इत्यनप्सरस्संवास उत्तरकुरुवासो मयानुभूयते। एकः खलु महान् दोषः, ममाहारः सुष्ठु न परिणमति, सुप्रच्छदनायां शय्यायां निद्रां न लभे, यथा वातशोणितमभित इव वर्तत इति पश्यामि। भोः! सुखं नामययपरिभूतमकल्यवर्तं च।
 
 (ततः प्रविशति चेटी।)
@@ -2362,8 +2171,6 @@ Whoever knew that having fallen in a whirlpool of misery of that sort, we would 
 (Enter a Maid-servant)
 
 **Maid.** Where has the venerable Vasantaka gone? (*Walking about and seeing*) Halloh! Here is the revered Vasantaka.
-
-
 
 **विदूषकः—**(दृष्ट्वा) किंणिमित्तं भद्दे, मं अण्णेससि।
 
@@ -2404,8 +2211,6 @@ Whoever knew that having fallen in a whirlpool of misery of that sort, we would 
 **Vid.** His Highness has had his bath. Let the lady bring everything except food.
 
 **Maid.** Why do you prohibit food?
-
-
 
  अधन्यस्य मम कोकिलानामक्षिपरिवर्त इव कुक्षिपरिवर्तः संवृत्तः।
 
@@ -2455,8 +2260,6 @@ INTERLUDE.
 
 **Maid.** What has brought the princess to the garden?
 
-
-
  हला, ते तावत् शेफालिकागुल्मकाः पश्यामि कुसुमिता वा न वेति।
 
 **चेटी—**भट्टिदारिए, ताणि कुसुमिदाणि णाम, पवालन्तरिदेहिं विअ मोत्तिआलम्बएहिं आइदाणि कुसुमेहिं।
@@ -2479,8 +2282,6 @@ INTERLUDE.
 
 (उभे उपविशतः।)
 
-
-
 —————————————————————————————————————————
 
 **Padmāvatī.**Girl, I wish to see if those bushes of lily plants have put forth flowers or not.
@@ -2496,8 +2297,6 @@ INTERLUDE.
 **Vās.** Be it so.
 
 (Both sit down)
-
-
 
 **चेटी—**(तथा कृत्वा) पेक्खदु पेक्खदु भट्टिदारिआ अद्धमणसिलावट्टएहिं विअ सेहालिआकुसुमेहि पूरिअं मे अञ्जलिं।
 
@@ -2536,8 +2335,6 @@ INTERLUDE.
 **Padm.** No, friend, don't pluck flowers anymore.
 
 **Vas.** Friend, why do you prevent it?
-
-
 
 पद्मावती—
 
@@ -2589,8 +2386,6 @@ INTERLUDE.
 
 **Padm.** But I have one doubt.
 
-
-
 **वासवदत्ता—**किं किं? किं किम्?
 
 **पद्मावती—**जह मम अय्यउत्तो, तह एव्व अय्याए वासवदत्ताए त्ति।
@@ -2621,8 +2416,6 @@ INTERLUDE.
 **Vās.** (Within) Humph! I have transgressed my bounds in my partiality for my lord. I shall say like this. (Aloud) If the affection was poor, she would not have left her kinsmen.
 
 **Padm.** Must be so.
-
-
 
  भर्तृदारिके, साधु भर्तारं भण— अहमपि वीणां शिक्षिष्य इति।
 
@@ -2674,8 +2467,6 @@ INTERLUDE.
 
 **Vās.** (To herself) Fortunate I am, if this betrue.
 
-
-
  (ततः प्रविशति राजा विदूषकश्च।)
 
 **विदूषकः—**
@@ -2707,8 +2498,6 @@ INTERLUDE.
 
  Then when I got to Ujjain and came by a peculiar plight on meeting the daughter of the king of Avantīin confidence, Cupid shot at meall his five arrows. And my heart is still smarting with the pangs inflicted by them. And again I am shot at. If Cupid has only five arrows, how came the sixth arrow to be discharged? **(1)**
 
-
-
 विअ पव्वदतिलअं णाम सिलापट्टअं गदा भवे, आदु अधिअकडुअगन्धसत्तच्छदवणं पविट्ठा भवे, अहव आलिहिदमिअपक्खिसंकुलं दारुपव्वदअं गदा भवे। (ऊर्ध्वमवलोक्य) ही ही सरअकालणिम्मले अन्तरिक्खे पसादिअबलदेवबाहुदंसणीअं सारसपन्ति जाव समाहिदं गच्छन्ति पेक्खदु दाव भवं।
 
  कुत्र नु खलु गता तत्रभवती पद्मावती, लतामण्डपं गता भवेत्, उताहो असनकुसुमसंचितं व्याघ्रचर्मावगुण्ठितमिव पर्वततिलकं नाम शिलापट्टकं गता भवेत्, अथवा अधिककटुकगन्धसप्तच्छदवनं प्रविष्टा भवेत्, अथवालिखितमृगपक्षिसंकुलं दारुपर्वतकं गता भवेत्। (ऊर्ध्वमवलोक्य) ही ही शरत्कालनिर्मलेऽन्तरिक्षे प्रसादितबलदेवबाहुदर्शनीयां सारसपङ्क्तिं यावत् समाहितं गच्छन्तीं पश्यतु तावद्भवान्।
@@ -2718,8 +2507,6 @@ INTERLUDE.
 ——————————————————————————————————————
 
 **Vid.** Where is Lady Padmāvatī gone? Gone to the bower? Or gone to the slab known as the Mountain-spot (Parvatatilaka) which, covered as it is with Asana flowers, appears as though wrapped up in a tiger's skin? Or else, has she walked into the highly fragrant grove of Saptacchada trees? Or, has she gone to the wooden hillock abounding in designs of animals and birds carved thereon? (Looking above) Ha! Ha! Just look at the row of cranes, beautiful to look at like the whitetinged arm of Baladeva, marching steadily in the white sky of the autumn.
-
-
 
 ऋज्वायतां च विरलां च नतोन्नतां च  
 सप्तर्षिवंशकुटिलां च निवर्तनेषु।  
@@ -2745,8 +2532,6 @@ INTERLUDE.
 **Maid.** Princess, look at this line of cranes, white and charming like a wreath of white lotusesmarching on steadily. Ay!Master!
 
 **Padm.** Hum! My lord! Madam, for your sake, I shall avoid the sight of my lord. We shall therefore enter this Jasmine bower.
-
-
 
 **वासवदत्ता—**
 
@@ -2802,8 +2587,6 @@ Vasantaka.
 
 **Vās.** (To herself) By the mention of Vasantaka, I feel as if I were in Ujjain.
 
-
-
 **विदूषकः—**
 
 भो, तह। (उपविश्योत्थाय) ही ही सरअकालतिक्खो दुस्सहो आदवो। ता इमं दाव माहवीमण्डवं पविसामो।
@@ -2845,8 +2628,6 @@ go into this Jasmine bower.
 **Padm.** The revered Vasantaka wishes to disturb everything. What shall we do now?
 
 **Maid.** Princess, shall prevent the master's entry by moving this main supporting plant swarming with bees.
-
-
 
 पद्मावती—
 
@@ -2897,8 +2678,6 @@ go into this Jasmine bower.
 
  So let us be here only.
 
-
-
 **विदूषकः**— एव्वं होदु। एवं भवतु।
 
 (उभावुपविशतः।)
@@ -2942,8 +2721,6 @@ go into this Jasmine bower.
 
 **Maid.** Princess, Her Honour's eyes are filled with tears.
 
-
-
 **वासवदत्ता**— एसा खु महुअराणं अविणआदो कासकुसुमरेणुणा पडिदेण सोदआ मे दिट्ठी।
 
  एषा खलु मधुकराणामविनयात् काशकुसुमरेणुना पतितेन सोदका मेदृष्टिः।
@@ -2977,8 +2754,6 @@ go into this Jasmine bower.
 **Vid.** Who is dearer to you — Lady Vāsavadattāof the past or Padmāvatīof the present?
 
 **King.** Why do you now place me in a grave predicament by asking about my esteem of both?
-
-
 
 **पद्मावती**—
 
@@ -3028,8 +2803,6 @@ go into this Jasmine bower.
 
 **Vid.** Eh! Upon my word, I won't tell it to anybody. Here my tongue is locked up.
 
-
-
 **राजा**—नोत्सहे सखे, वक्तुम्।
 
 **पद्मावती**—अहो इमस्स पुरोभा (अ?) इदा \। एत्तिएण हिअअं ण जाणादि।
@@ -3066,8 +2839,6 @@ go into this Jasmine bower.
 
 **Vid.** Be pleased, be pleased. I forswear
 
-
-
 **राजा**—का गतिः। श्रूयताम्।
 
 पद्मावती बहुमता मम यद्यपि रूपशीलमाधुर्यैः।  
@@ -3098,8 +2869,6 @@ your friendship if you don't tell the truth.
 **Maid.** Princess, the master is lacking in courtesy.
 
 **Padm.** Friend, no, not so. My lord is really
-
-
 
 **वासवदत्ता**—
 
@@ -3149,8 +2918,6 @@ full of courtesy inasmuch as he remembers even now the qualities of the revered 
 
 **Vid.** Even me by force?
 
-
-
 **राजा**—
 
 अथकिं, बलात्कारेण।
@@ -3183,9 +2950,6 @@ full of courtesy inasmuch as he remembers even now the qualities of the revered 
 
 **Vid.** Now hear please. Lady Vāsavadattāis esteemed of me. Lady Padmāvatī is young, beautiful, free from anger and pride, sweet-speakingand courteous. But there is one great virtue— With the words 'Where is the venerable Vasantaka gone?' would Vāsavadattāgreet me and treat me with a delightful dish.  
 
-
-
-
  भवतु भवतु, वसन्तक, स्मरेदानीमेताम्।
 
 **राजा**— भवतु भवतु वसन्तक, सर्वमेतत् कथयिष्ये देव्यै वासवदत्तायै।
@@ -3217,8 +2981,6 @@ full of courtesy inasmuch as he remembers even now the qualities of the revered 
 
 **Padm.** A pleasant talk has been spoiled by the wretch.
 
-
-
 **वासवदत्ता**—(आत्मगतं) भोदु भोदु, विस्सत्थति।अहो पिअं णाम, ईदिसं वअणं अष्पच्चक्खं सुणीअदि।
 
  (आत्मगतं) भवतु भवतु, विश्वस्तास्मि। अहो प्रियं नाम, ईदृशंवचनमप्रत्यक्षं श्रूयते।
@@ -3234,7 +2996,6 @@ full of courtesy inasmuch as he remembers even now the qualities of the revered 
 यात्रा वेषा यद्विमुच्येह बाष्पं  
 प्राप्तानृण्या याति बुद्धिः प्रसादम्॥७॥  
 
-
 —————————————————————————————————————————
 
 **Vās.**(To herself) Well, well. I am consoled. It is indeed a pleasure that such an utterance should be heard incognito.
@@ -3244,8 +3005,6 @@ full of courtesy inasmuch as he remembers even now the qualities of the revered 
 **King.** Friend, you know not my state. For,
 
  Love has been made to take (new) root for dispelling my gloom. But by recalling her to mind, time and again, the grief attains freshness. The practice is that by releasing tears the mind clears off its debt and gets tranquil. **(7)**
-
-
 
 **विदूषकः**—
 
@@ -3293,8 +3052,6 @@ go near.
 
 **Padm.**Shall I really go?
 
-
-
 **वासवदत्ता**— हला, पविस।हला,
 
 प्रविश।
@@ -3325,8 +3082,6 @@ go near.
 
 **Vās.** Friend, do.\[So saying, Exit
 
- 
-
 (Entering)
 
 **Vidūṣaka.** (Taking water in a lotus-leaf) Lo! Here is Her Honour Padmāvatī.
@@ -3338,8 +3093,6 @@ go near.
 **Padm.**Tell, sir, tell please.
 
 **Vid.** Madam, His Honour's face is full of tears by reason of the Kāśa pollen wafted by the
-
-
 
 **पद्मावती**— (आत्मगतं) अहो सदक्खिञ्ञस्स जणस्स परिजणो वि सदक्खिञ्ञोएव्व होदि। (उपेत्य) जेदु अय्यउत्तो। इदं महोदअं।
 
@@ -3375,8 +3128,6 @@ for your face.
 
 **King.** Padmāvatī,
 
-
-
 शरच्छशाङ्कगौरेण वाताविद्धेन भामिनि।  
 काशपुष्पलवेनेदं साश्रुपातं मुखं मम॥८॥
 
@@ -3403,8 +3154,6 @@ for your face.
 
 generates affection. Hence start at once.
 
-
-
 **राजा**— बाढम्। प्रथमः कल्पः। (उत्थाय)
 
 गुणानां वा विशालानां सत्काराणां च नित्यशः।  
@@ -3427,8 +3176,6 @@ generates affection. Hence start at once.
 End of the Fourth Act.
 
 ————
-
-
 
 **॥पञ्चमोऽङ्कः॥**
 
@@ -3474,8 +3221,6 @@ End of the Fourth Act.
 
 **Madhukarikā.** Alas!
 
-
-
 **पद्मिनिका**— हला, गच्छ सिग्घं, अय्यं आवन्तिअं सद्दावेहि। केवलं भट्टिदारिआए सीसवेदणं एव्व णिवेदेहि। तदो सअं एव्व आगमिस्सदि।
 
  हला, गच्छ शीघ्रम्, आर्यामावन्तिकां शब्दापय। केवलं भर्तृदारिकायाः शीर्षवेदनामेव निवेदय। ततः स्वयमेवागमिष्यति।
@@ -3502,8 +3247,6 @@ End of the Fourth Act.
 
 **Madhukarikā.** Well said. Where is the bedding arranged for the princess?
 
-
-
  समुद्रगृहके किल शय्यास्तीर्णा। गच्छेदानीं त्वम्। अहमपि भर्त्रे निवेदनार्थमार्यवसन्तकमन्विष्यामि।
 
 **मधुकरिका**—एव्वं होदु। एवं भवतु। (निष्क्रान्ता।)
@@ -3529,8 +3272,6 @@ End of the Fourth Act.
  (Enter Vidūṣaka)
 
 **Vidūṣaka.** On this most happy and auspicious occasion the fire of love is all the more ablaze to-day than ever in the heart of the esteemed Vatsarāja gloomy due to the separation of the queen, fanned, as it were, by taking the hand of
-
-
 
 **पद्मिनिका**—
 
@@ -3580,15 +3321,11 @@ End of the Fourth Act.
 
 **Padminikā.** Her bedding is spread out in the Marina-house.
 
-
-
 गच्छतु भवती। यावदहमपि तत्रभवते निवेदयिष्यामि।
 
  (निष्क्रान्तौ।)
 
 ** प्रवेशकः।**
-
-
 
 ** **(ततः प्रविशति राजा।)
 
@@ -3619,8 +3356,6 @@ End of the Fourth Act.
 (Entering)
 
 **Vidūsaka.** Make haste, make haste.
-
-
 
 **राजा**— किमर्थम्?
 
@@ -3656,8 +3391,6 @@ End of the Fourth Act.
  Notwithstanding the injury causedby the previous crash, my grief is somewhat mitigated at present by the acquisition of a beloved who combines in her a wealth of beauty and noble qualities. Having suffered misery once, I fear lest Padmāvatītoo should become like wise.**(2)**
 
  Then, at what place is Padmāvatī?
-
-
 
 **विदूषकः**— समुद्दगिहके किल सेज्जात्थिण्णा।
 
@@ -3703,8 +3436,6 @@ End of the Fourth Act.
 
 **Vid.**Here is a snake rolling on the earth, with its shape disclosed by the light of the lamp.
 
-
-
 **राजा**— (प्रविश्यावलोक्य सस्मितं) अहो सर्पव्यक्तिर्वैधेयस्य!
 
 ऋज्वायतां हि मुखतोरणलोलमालां  
@@ -3731,8 +3462,6 @@ End of the Fourth Act.
 **King.** Friend, she would not have come.
 
 **Vid.** How do you know?
-
-
 
 **राजा**—
 
@@ -3766,8 +3495,6 @@ End of the Fourth Act.
 **Vid.** Then, sitting a while on this cushion, await the lady's arrival.
 
 **King.** Yes. (Sitting) Friend, sleep worries me. Relate to me some story.
-
-
 
  अहं कथयिष्यामि। हीँ इति करोत्वत्रभवान्।
 
@@ -3814,8 +3541,6 @@ End of the Fourth Act.
 
 **King.** Friend, not that I don't like it. But I recall to my mind the daughter of the king of Avantīwho, remembering her kinsmen at
 
-
-
 अपिच,
 
 बहुशोऽप्युपदेशेषु यया मामीक्षमाणया।  
@@ -3858,8 +3583,6 @@ her fingers while her hand had slipped from the stops. **(6)**
 
 **King.** Fool, say King Brahmadatta and city Kāmpilya.
 
-
-
 **विदूषकः**—किं राआ बह्मदत्तो, णअरं कंपिल्लं?
 
  किं राजा ब्रह्मदत्तः, नगरं काम्पिल्यम्?
@@ -3885,8 +3608,6 @@ her fingers while her hand had slipped from the stops. **(6)**
 **Vid.** Then wait a bit. I shall attune it to my lips. King Brahmadatta and city Kāmpilya. (*Repeating it several* *times*) Now just listen. Eh! Are you asleep? It is very chill now. I shall take my carpet and come back. **\[Exit**
 
 ** **(Enter Vāsavadattā in the garb of Āvantikāand a Maid-servant)
-
-
 
  एत्वेत्वार्या।दृढं खलु भर्तृदारिका शीर्षवेदनया दुःखिता।
 
@@ -3936,8 +3657,6 @@ her fingers while her hand had slipped from the stops. **(6)**
 
 Here is the Marina-house. Madam, go in. Meanwhile, I too shall get ready with the paste for the head. **\[Exit**
 
-
-
 अस्सत्था जादा \। जाव पविसामि। (प्रविश्यावलोक्य) अहो परिजणस्स पमादो। अस्सत्थं पदुमावदिं केवलं दीवसहाअं करिअ परित्तजदि। इअं पदुमावदी ओसुत्ता। जाव उवविसामि। अहवा अ़ञ्ञासणपरिग्गहेण अप्पो विअ सिणेहो पडिभादि। ता इमस्सि सय्याए उवविसामि। (उपविश्य) किंणुहु एदाए सह उवविसन्तीए अज्ज पहलादिदं विअ मे हिअअं। दिट्ठआ अविच्छिण्णसुहणिस्सासा। णिव्वुत्तरोआए होदव्वं। अहवएअदेससंविभाअदाए सअणीअस्स सूएदि मं आलिङ्गेहि त्ति। जाव सइस्सं। (शयनं नाटयति।)
 
  अहो अकरुणाः खल्वीश्वरा मे। विरहपर्युत्सुकस्यार्यपुत्रस्य विश्रमस्थानभूतेयमपि नाम पद्मावत्यस्वस्था जाता। यावत्प्रविशामि। (प्रविश्यावलोक्य) अहो परिजनस्य प्रमादः। अस्वस्थां पद्मावतीं केवलं दीपसहायां कृत्वा परित्यजति। इयं पद्मावत्यवसुप्ता। यावदुपविशामि। अथवान्यासनपरिग्रहेणाल्प इव स्नेहः प्रतिभाति तदस्यां शय्यायामुपविशामि। (उपविश्य) किं नु खल्वेतया सहोप-
@@ -3947,8 +3666,6 @@ Here is the Marina-house. Madam, go in. Meanwhile, I too shall get ready with th
 **Vās.** Eh! Merciless are gods unto me. Even
 
 Padmāvatīwho is the source of consolation to my lord in his bereavement has fallen ill. Let me enter. *(Entering and seeing)* What a negligence on the part of servants! They have left Padmāvatīin her illness in the sole company of a lamp. Lo! Padmāvatīis asleep. I shall sit down. Or, by taking another seat, my love for her will appear little.So I shall sit on this cushion. (Sitting) What? Even as I am sitting by her side, my
-
-
 
 विशन्त्या अद्य प्रह्लादितमिव मे हृदयम्। दिष्ट्याविच्छिन्नसुखनिःश्वासा।निवृत्तरोगया भवितव्यम्। अथवैकदेशसंविभागतया शयनीयस्य सूचयति मामालिङ्गेति। यावच्छयिष्ये। (शयनं नाटयति।)
 
@@ -3973,8 +3690,6 @@ and easy. She must have been cured of her ailment. Or, by leaving some space in 
 **Vās.** (Rising suddenly) Ha! My lord! Not Padmāvatī? Have I been seen? The great duty undertaken by the venerable Yaugandharāyaṇa has been frustrated by my sight.
 
 **King.** Ah, princess of Avantī.
-
-
 
  दिष्टंया स्वप्नायते खल्वार्यपुत्रः। नात्र कश्चिज्जनः। यावन्मुहूर्तकं स्थित्वा दृष्टिं हृदयं च तोषयामि।
 
@@ -4016,8 +3731,6 @@ and easy. She must have been cured of her ailment. Or, by leaving some space in 
 
 **Vās.** (*Indignantly*) Ah! Get away. Viracikā even here?
 
-
-
 **राजा**—तेन हि विरचिकार्थं भवतीं प्रसादयामि \।
 
 (हस्तौ प्रसारयति।)
@@ -4051,8 +3764,6 @@ and easy. She must have been cured of her ailment. Or, by leaving some space in 
 
 **Vidūşaka.** Eh! You have woken up?
 
-
-
 **राजा**—वयस्य, प्रियमावेदये, धरते खलु वासवदत्ता।
 
 **विदूषकः**—अविहा वासवदत्ता। कहिं वासवदत्ता? चिराखु उवरदा वासवदत्ता।
@@ -4079,8 +3790,6 @@ and easy. She must have been cured of her ailment. Or, by leaving some space in 
  Friend, having roused me up from bed while asleep, she has gone away. I was deceived by Rumaṇvān who told me before that she had been burnt.**(8)**
 
 **Vid.**Inconceivable, is it not? Ha! You must have seen her in a dream. Ever since I mentioned the water-baths, you have been thinking of the lady.
-
-
 
 **राजा**— एवं, मया स्वप्नो दृष्टः?
 
@@ -4112,8 +3821,6 @@ and easy. She must have been cured of her ailment. Or, by leaving some space in 
 
 ** **Further, friend, see, see.
 
-
-
 योऽयं संत्रस्तया देव्या तया बाहुर्निपीडितः।  
 स्वझेऽप्युत्पन्नसंस्पर्शो रोमहर्षं न मुञ्चति॥११॥
 
@@ -4134,8 +3841,6 @@ and easy. She must have been cured of her ailment. Or, by leaving some space in 
 (*Entering*)
 
 **Chamberlain.** Victory to my lord. Our emperor Darśaka sends word to you thus—'Here your minister Rumaṇvān has arrived with a large host of armies for attacking Āruņi. Accordingly here are ready my forces to bring victory consisting of elephants, horses, chariots and foot-soldiers. Hence please start. Moreover—
-
-
 
 भिनास्ते रिपवो भवद्गुणरताः पौराः समाश्वासिताः  
 पार्ष्णीयापि भवत्प्रयाणसमये तस्या विधानं कृतम्।  
@@ -4165,8 +3870,6 @@ and easy. She must have been cured of her ailment. Or, by leaving some space in 
 **End of the Fifth Act.**
 
 ————
-
-
 
 ॥षष्ठोऽङ्कः॥
 
@@ -4202,8 +3905,6 @@ ACT THE SIXTH
 
 ***Chamberlain.*** Madam, please do intimate to Udayana whose prosperity has increased by the acquisition of the Vatsa kingdom— Here the Chamberlain named Raibhya sent by Mahasena and Vāsvadattā's nurse, the revered Vasundharā sent by Lady Aṅgāravatīhave arrived and wait at the gate.
 
-
-
 **प्रतीहारी**—
 
 अय्य, अदेसकालो पडिहारस्स।
@@ -4237,8 +3938,6 @@ ACT THE SIXTH
 ***Portress*.** Listen, sir. To-day a lute was played to the hearing of our master by some one remaining in front of the mansion of the newly wedded princess; and on hearing it the master said, 'It seems to be the sound of Ghoṣavatīthat is heard.'  
 ***Chamberlain*.** And then?
 
-
-
 घोसवदि, सा हु ण दिस्सदित्ति। अय्य, ईदिसो अणवसरो \। कहं णिवेदेमि?
 
  ततस्तत्र गत्वा पृष्टः—कुतोऽस्या वीणाया आगम इति। तेन भणितम्—अस्माभिर्नर्मदातीरे कूर्चगुल्मलग्ना दृष्टा। यदि प्रयोजनमनया, उपनीयतां भर्त्रे इति। तां चोपनीतामङ्के कृत्वा मोहं गतो भर्ता। ततो मोहप्रत्यागतेन बाष्पपर्याकुलेन मुखेन भर्त्रा भणितं— दृष्टासि घोषवति! सा खलु न दृश्यत इति। आर्य, ईदृशोऽनवसरः। कथं निवेदयामि?
@@ -4260,8 +3959,6 @@ ACT THE SIXTH
 ***Chamberlain.*** Madam, let him be informed. This also relates to the same matter.
 
 ***Portress.*** Sir, I shall inform him. Here the
-
-
 
 **काञ्चुकीयः**—
 
@@ -4298,8 +3995,6 @@ Mixed Interlude.
 
 ***King*.** O lute emitting notes pleasant to the ear, having reposed on the breasts and hips of the queen, how did you submit to a dreary residence in the woods, with your stem dirtied with dust by batches of birds? **(1)**
 
-
-
  अपि च। अस्निग्धासि घोषवति, या तपस्विन्या न स्मरसि—
 
 श्रोणीसमुद्वहनपार्श्वनिपीडितानि  
@@ -4331,8 +4026,6 @@ Mixed Interlude.
 ***King*.** Friend, no, no.
 
  Long asleep, my love has been roused again by the lute. But I do not see that lady to whom Ghoṣavatī was dear. **(3)**
-
-
 
 **विदूषकः**—
 
@@ -4378,8 +4071,6 @@ Mixed Interlude.
 
 **King.** Is this incident so soon known to Mahāsena?
 
-
-
 (ततः प्रविशति पद्मावती प्रतीहारी च।)
 
 **प्रतीहारी**—एदु एदु भट्टिदारिआ। एत्वेतुभर्तृदारिका।
@@ -4407,8 +4098,6 @@ Mixed Interlude.
 ***Padm.*** My lord, I shall be happy to hear the news of welfare of my kith and kin.
 
 ***King.*** Quite appropriate is what you say—that Vāsavadattā's kinsmen are your own kith and kin. Padmāvatā, take your seat. Why don't you sit now?
-
-
 
 **पद्मावती**—
 
@@ -4448,8 +4137,6 @@ Mixed Interlude.
 
 ***Padm.*** As my lord commands. (Sitting) My lord, I am growing apprehensive as to what father and mother are going to say.
 
-
-
 **राजा—**पद्मावति एवमेतत्।
 
 किं वक्ष्यतीति हृदयं परिशङ्कितं मे  
@@ -4484,8 +4171,6 @@ but not protected by me. Highly guilty as I havebeen thus rendered by the freaks
 **King.** Admit them soon.
 
 **Portress.**As Your Highness commands. \[Exit
-
-
 
 (ततः प्रविशति काम्चुकीयो धात्री प्रतीहारी च।)
 
@@ -4522,8 +4207,6 @@ but not protected by me. Highly guilty as I havebeen thus rendered by the freaks
 
 **King.** (With affectionate regard) Sir,
 
-
-
 पृथिव्यां राजवंश्यानामुदयास्तमयप्रभुः।  
 अपि राजा स कुशली मया काङ्क्षितबान्धवः॥६॥
 
@@ -4551,8 +4234,6 @@ Is the king keeping well—he who controls athis will the rise and downfall of p
 
 **Chamberlain.** It is a source of congratulationthat the kingdom captured by enemies has been
 
-
-
 कातरा येऽप्यशक्ता वा नोत्साहस्तेषु जायते।  
 प्रायेण हि नरेन्द्रश्रीः सोत्साहैरेव भुज्यते॥७॥
 
@@ -4576,8 +4257,6 @@ In those whoare either cowardly orinefficient, ambition never springs up. And, t
  At first I was subjugated by him, but fondlycaressed along with his sons. Later I sneakedaway with his daughter, but failed to protect her.Even on hearing of her demise, the same is hisaffinity towards me. Surely His Highness is thecause of my getting back the ancient kingdomof Vatsa. (8)
 
 **Chamberlain.** This is the message of Mahāsena. The message of the queen, the revered lady here' will deliver.
-
-
 
 **राजा**—हा अम्ब,
 
@@ -4608,8 +4287,6 @@ In those whoare either cowardly orinefficient, ambition never springs up. And, t
 
 **Chamberlain.** Be brave, my lord. Thoughdead, the daughter of Mahāsena is still alive whois thus cherished by my lord. Or.
 
-
-
 **कः कं शक्तो रक्षितुं मृत्युकाले  
 रज्जुच्छेदे के घटं धारयन्ति।  
 एवं लोकस्तुल्यधर्मो वनानां  
@@ -4630,8 +4307,6 @@ In those whoare either cowardly orinefficient, ambition never springs up. And, t
 
  Mahasena's daughter, my beloved pupil andqueen—how can she be forgotten even in otherbirths?(11)
 
-
-
  आह भट्टिनी—
 
 उपरता वासवदत्ता। मम वा महासेनस्य वा यदृशौगोपालपालकौ, तादृश एव त्वं प्रथममेवाभिप्रेतो जामातेति। एतन्निमितमुज्जयिनीमानीतः। अनग्निसाक्षिकं वीणाव्यपदेशेनदत्ता। आत्मनश्चपलतयानिर्वृत्तविवाहमङ्गल एव गतः। अथ चावाभ्यांतव च वासवदत्तायाश्च प्रतिकृतिं चित्रफलकाया मालिख्य विवाहोनिर्वृत्तः। एषा चित्रफलका तव सकाशं प्रेषिता। एतां दृष्ट्वानिर्वृतो भव।
@@ -4648,8 +4323,6 @@ In those whoare either cowardly orinefficient, ambition never springs up. And, t
 **King.** Oh! Her Highness has sent wordmost affectionately and fittingly.
 
  This message is dearer than the acquisitionof a hundred kingdoms, inasmuch as, guilty as weare, the love for us has not been forgotten. (12)
-
-
 
 **पद्मावती**—अय्यउत्त, चित्तगदं गुरुअणं पेक्खिअ अभिवादेदुंइच्छामि।
 
@@ -4684,8 +4357,6 @@ Princess, see, see.
 
  How did this lovely form meet with a cruelcatastrophe, and how was this sweet face ravagedby fire ?(13)
 
-
-
 **पद्मावती**—अय्यउत्तरस पडिकिदिं पेक्खिअ जाणामि इअं अय्याए सदिसी ण वेत्ति।
 
  आर्यपुत्रस्य प्रतिकृतिं दृष्ट्वा जानामीयमार्यया सडशी न वेति।
@@ -4714,8 +4385,6 @@ Princess, see, see.
 
 **Padm.** My lord, a lady that bears the likenessof this picture dwells here.
 
-
-
 **राजा**—किं वासवदत्तायाः?
 
 **पद्मावती**—आम।
@@ -4742,8 +4411,6 @@ Princess, see, see.
 **Padm.** My lord, when I was a maiden, she was placed under my charge by some Brahmin sayingShe is my sister.' Her husband being inexile, she avoids the sight of stranger-males. Hence my lord may find it out when the ladycomes with me.
 
 **King.** If she were a Brahmin's sister, surelyshe must be somebody else. Mutual resemblanceof form is seen in the world. (14)
-
-
 
 (प्रविश्य)
 
@@ -4781,8 +4448,6 @@ Princess, see, see.
 
 **King.** Padmāvati, you shall also bring her.
 
-
-
 **पद्मावती**—जं अय्यउत्तो आणवेदि। यदार्यपुत्र आज्ञापयति।
 
 (निष्क्रान्ता।)
@@ -4815,8 +4480,6 @@ Princess, see, see.
 **Portress.** Here is His Highness. Go nearhim, sir.
 
 **Yaug.** ( Approaching) Glory, sir, may you be glorious.
-
-
 
 **राजा**—श्रुतपूर्व इव स्वरः। भो ब्राह्मण, किं भवतः स्वसा पद्मावत्या हस्ते न्यास इति निक्षिप्ता?
 
@@ -4857,8 +4520,6 @@ Princess, see, see.
 
 **Padm.** Your brother has come.
 
-
-
 **पद्मावती**—(उपसृत्य)
 
  जेदु अय्यउत्तो। एसो णासो।
@@ -4891,8 +4552,6 @@ Princess, see, see.
 **Nurse.** (Looking at Avantikā) Hallo! Princess Vāsavadattā !
 
 **King.** What, is it Mahāsena's daughter?Queen, go in along with Padmavati.
-
-
 
 **यौगन्धरायणः**—न खलु न खलु प्रवेष्टव्यम्।मम भगिनीखल्वेषा।
 
@@ -4927,8 +4586,6 @@ Princess, see, see.
 
 **Vāsavadattā.** Victory to my lord.
 
-
-
 **राजा**—अये असौ यौगन्धरायणः, इयं महासेनपुत्री।
 
 किं नु सत्यमिदं स्वप्नःसा भूयो दृश्यते मया।  
@@ -4955,8 +4612,6 @@ Princess, see, see.
 **King.** (Raising him) Aren't you Yaugandharāyana?
 
  Through pretended madness and strifes (fomented) and by devices chalked out by the law of statecraft and through your endeavours infact have we been redeemed when we weresinking.(18)
-
-
 
 **यौगन्धरायणः**—स्वामिभाग्यानामनुगन्तारो वयम्।
 
@@ -4987,8 +4642,6 @@ Princess, see, see.
 **Padm.** This is a high favour done to me.
 
 **King.** Friend, Yaugandharāyana, what was
-
-
 
 **यौगन्धरायणः**—कौशाम्बीमात्रं परिपालयामीति।
 
@@ -5026,8 +4679,6 @@ your idea in keeping out the queen?
 
 **King.** No, no. We shall all go there alongwith Queen Padmavati.
 
-
-
 **यौगन्धरायणः**—यदाज्ञापयति स्वामी।
 
 (भरतवाक्यम्।)
@@ -5057,8 +4708,6 @@ End of the Sixth Act.
 
 ![](../books_images/U-IMG-17243449772208-removebg-preview.png)
 
-
-
 NOTES ON
 
 **SVAPNAVASAVADATTA**
@@ -5069,8 +4718,6 @@ ACT THE FIRST
 
  From the material point of view also, Mangalacan be divided into three classes—**आशीस, नमस्त्रिया** and
 
-
-
 **वस्तुनिर्देश. आशीस्** is the invocation of a deity to confer blessings on the reader, poet or spectator, andthis is ordinarily resorted to at the beginning ofSanskrit dramas. The Nandi sloka of Svapnavāsavadatta is an example of this kind of Mangala; for,it invokes the arms of Balarama to offer protectionto the spectators. The second kind of Mangala,lies in paying homage to the Deity nearestat heart to the poet. A typical example of Namaskāra-mangala is the opening verse of Kālidāsa'sRaghuvamśa:—**वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तये। जगतः पितरौवन्दे पार्वतीपरमेश्वरौ॥. वस्तुनिर्देश,** the third kind ofMangala, consists in a mere reference to somesublime object or a mention of some auspiciousword or words. A typical example of this kind ofMangala is found in the opening stanza ofKalidasa's Kumārasambhava :—
 
 अस्त्युत्तरस्यां दिशि देवतात्मा हिमालयो नाम नगाधिराजः।  
@@ -5079,8 +4726,6 @@ ACT THE FIRST
  There the sublime Himavan who is almost ona par with gods is referred to.
 
  **Page 1. नान्द्यन्ते** **नान्दी** means the Pūrvarangaceremony i.e., the initial worship offered with aview to a successful staging of the play. For adetailed explanation of the terms **नान्दी** and **सूत्रधार,**see Introduction **नान्द्याअन्तः नान्द्यन्तः,** an instance of**षष्ठीतत्पुरुष** compound.**तस्मिन् नान्द्यन्ते** at the end of
-
-
 
 Nāndi. The word aa: indicates that there is nointerval between Nandi and the entry of theSūtradhāra. The word aa: is formed by adding**तस्** to the pronoun **तद्**. The suffix **तस्** is added onto nouns and pronouns in the Ablative significance. Note the following examples for a similarformation :—**यद् यतः, इदं इतः, एतद् अतः, किं कुतः, सर्व सर्वतः**and so on. **प्रवशति**Present tense, 3rd personsingular of **विश्**with **प्र**to enter, 6th conjugationParasmaipada. **सूत्रं(प्रयोगानुष्ठानं)** **धारयतीति सूत्रधारः** onewho holds the conduct of the play—the Stagemanager.
 
@@ -5092,8 +4737,6 @@ Nāndi. The word aa: indicates that there is nointerval between Nandi and the en
 
 **नवेन्दुः** or **उदयस्य (उदयसंबन्धी) नवेन्दुः उदयनवेन्दुः समानः वर्णःययोस्तौ सवर्णौ,** **उदयनवेन्दुना सवर्णौ उदयनवेन्दुसवर्णौ**. Balarāma'sarms are akin in colour to the rising Moon.They are ruddy. The next adjective is **आसवदत्ताबलौ.दत्तं आसवं यस्यै सा आसवदत्ता.** Instead of **दत्तासवा** as it.
 
-
-
 should be, the poet has used **आसवदत्ता.** Generallywhen a word ending in the past passive participle**त** a combines with a noun qualified by it in aBahuvrihi compound, the former becomes the firstmember of the compound, and the noun takes itsplace subsequently. This is the principle of **पूर्वापात**laid down by Pāṇini in the Sūtra—**निष्ठा** Inexceptional cases the order of the component partsis optionally reversed, and they are classed as**आहिताग्न्यादि** group. Vide Pānini :**—वाऽऽहिताग्न्यादिषु**. It isunder this rule that the transposition of words hasto be justified in the present case. **आसवदत्ता अबलायाभ्यां तौ आसवदत्ताबलौ.** By which hands the spouse isoffered wine. Perhaps a better dissolution of thecompound will be **आसवेन दत्तं अबलं याभ्यां तौ,**which arerendered powerless by the power of wine.That Balarama is a confirmed drunkard is notedby Kālidāsa in Meghasandeśa:—
 
 हित्वा हालामभितमरसां रेवतीलोचनाङ्कां  
@@ -5102,8 +4745,6 @@ should be, the poet has used **आसवदत्ता.** Generallywhen a word 
 मन्तः शुद्धस्त्वमसि भविता वर्णमात्रेण कृष्णः॥
 
  The next adjective is **पद्मावतीर्णपूण पद्मायाः अवतीर्णं,तेन पूर्णौ** The arms of Balarāma abound in marksindicative of the sway of Goddess Lakṣmī.
-
-
 
 **ACT 1—NOTES**
 
@@ -5115,13 +4756,9 @@ taking the suffix **त. क कीर्ण, गृृ गीर्णजृृ
 
  **वसन्ते कम्रौ वसन्तकम्रौ**. In the spring, Balarāma'sarms are peculiarly charming. **कम्र=कम् + र.** VidePāṇini—**नमिकम्पिस्म्यजसकमहिंसदीपो रः**. Other examples:**—नम्र कम्प्र स्मेर अजस्र हिंस्र** and **दीप्र.** **त्वां** is addressedto the members of the assembly individually.Hence the singular is used. In consonance withthe rule that the substance of the plot is to be
 
-
-
 briefly indicated in the Nāndisloka—**अर्थतः शब्दतोवापि मनाक्काव्यार्थसूचनम्—**, this stanza mentions thenames of the principal characters of the play—Udayana, Vāsavadattā, Padmāvatī and Vasantaka.
 
  **Page 2. एवं** etc. After repeating the Nāndīśloka the Sūtradhāra begins to inform the audienceof the nature and substance of the play proposed tobe staged by him, and as a preface to the same hesays **एवमार्यमिश्रान्विज्ञापयामि. एवं** Indeclinable meaningthus i.e., in the manner contemplated by theSūtradhāra in his mind. at the end of a word is a term of respect—**पूज्यार्थवाचक. आर्यमिश्राः** is a term ofaddress generally used towards a cultured audience. **विज्ञापयामि**Causal present tense of **ज्ञा** with **वि.जानामि** I know. **ज्ञापयामि** I make known. **अये.** As soon asthe Sūtradhāra promised to announce his intention,his assistants actually give a start to the playby making an utterance behind the scenes.**अये** is aterm of Interjection denoting sorrow or anger atthe interruption caused to the Sūtradhāra in makinghis announcement. Of course his sorrow or anger is only pretended as the sound behind the scenes isstarted in pursuance of a previous plan. **किं न खलु**What is the reason? **मयिविज्ञापनव्यग्रे (सति)** An instanceof Locative Absolute. When I am about to disclosemy intention. **शब्द इव**. The word **इव** denotes theindistinctness of the sound heard. **श्रयते** Passive
-
-
 
 present of श्रु to hear.In the Active voice it willbe **शृणोति. शब्द इव श्रूयते, मया** understood. Renderedin the Active voice, it will read **शब्दमिव शृणोमि. अङ्ग**denotes excitement or a flutter. The Sūtradhārais now in a flutter to know what the sound iswhich thus interrupts him **पस्यामि**
 
@@ -5132,16 +4769,11 @@ present of श्रु to hear.In the Active voice it willbe **शृणोत�
 कुशीलवकुटुम्बस्य स्थानं यदतिशोभनम्।  
 वर्णिकाग्रहणस्थानंनेपथ्यमिति तद्विदुः॥
 
-  
 **उत्सरत**etc. This statement is made in Prākṛt.Prākṛt is generally used in Sanskrit dramas bythe female and inferior characters. It will be knownshortly that the statement is made by two soldiersof the body-guard of the princess.**उत्सरत** Imperative mood,. 2nd person plural of सृ with **उद्. उत्सरत**means ‘be off.’The direction to move off is given,because the princess is coming. The repetition ofthe word **उत्सरत**denotes the hurry with which thepeople are asked to clear out. **आर्याः** Vocative plural.**भवतु.** The Imperative mood is here used to signifythe propriety of time. **प्राप्तकाले लोट्.**Vide Pāṇini :—
-
-
 
 **प्रैषातिसर्गप्राप्तकालेषु कृत्याश्च.** The voice heard from behindthe scenes is made at a proper hour. It is in keeping with the intention which the Sūtradhāra himself was about to announce **विज्ञातं** It is known.
 
  **भृत्यैः** etc. **भृत्यैः जनः उत्सार्यते.** People are clearedout by the servants. **मगधराजस्य** The servants of theking of Magadha. **मगधानां राजा मगधराजः. राजन्** at theend of a Tatpuruṣa compound drops its final **न्.**Vide Pānini:—**राजाहः सखिभ्यष्टच्. तस्य मगधराजस्य.** Thecountry of Magadha is generally identified withSouth Bihar. **स्निग्धैः** adjectival to **भृत्यैः स्निग्ध=स्निह +त.**An alternative form will be **स्त्रीढ.** Vide Pānini :—**वा द्रुहमुहष्णुहष्णिहाम्.** Examples:**—द्रुह् दुग्ध द्रुढ, मुह मुग्ध मूढ,स्नुह् स्नुग्ध स्नूढ. कन्यां अनुगन्तुं शीलं एषामिति कन्यानुगामिनः तैःकन्यानुगामिभिः**, adjectival to **भृत्यैः.** Those who areused to follow a maiden or who frequently keepguard of the person of a maiden **सर्वः**and **तपोवनगतः**are both adjectives to **जनः**. All the people inoccupation of the penace-grove, be they males orfemales, old or young and so on. **धृष्टं**authoritatively,adverbialadjunct to **उत्सार्यते. उत्सार्यते** Passivecausal of **सृ** with **उद्. भृत्यैः जनः उत्सार्यते**. In the Active voice this can be rendered as follows:—**भृत्याःजनमुत्सारयन्ति**. This verse indicates the coming ofPadmavati to the penance-grove. **स्निग्धैः**shows thatthe servants are themselves very much attached tothe king and as such they enjoy his confidence.
-
-
 
 And this furnishes the reason why they are engaged as body-guard for the princess. **धृष्टं** indicatesthe fearlessness with which they ask the inhabitants of the forest to go away. **भृत्यैः**There isalso the suggestion, as will be evident from theensuing passage, that being mere servants theyare not in a position to distinguish between goodand bad persons, and hence they give peremptoryorders to all including the respectable sagesresiding in the forest.
 
@@ -5153,38 +4785,26 @@ And this furnishes the reason why they are engaged as body-guard for the princes
 
  **ततः प्रविशति** etc. परिव्राजकस्य वेषो यस्य सः **परिव्राजकवेषः**putting on the robes of an ascetic. युगं धारयतीतियुगंधरः, युगंधरस्य गोत्रापत्यं पुमान् **यौगन्धरायणः**.He is theminister of Udayana, the hero of thisplay; andVāsavadattāis Udayana's queen. **अवन्तिषु भवा** **आवन्ती,**अज्ञाता आवन्ती आवन्तिका, तस्या वेषं धरतीति **आवन्तिकावेषधारिणी** In**आवन्तिका** the suffix **कन्** is used in the sense of'unknown.' Note the different meanings in which
 
-
-
 the suffix **क** can be used after nouns:—**स्वार्थे अज्ञातेकुत्सिते संज्ञायां अनुकम्पायां अल्पे ह्रस्वे** etc. Examples in order**—बालकः अश्वकः शरीरकं शूद्रकः पुत्रकः तैलकं वृक्षकः** etc. Yaugandharāyaṇa is disguised as an ascetic, and Vāsavadattāas a citizen-girl of AvantīYaugandharāyaṇawas at pains to retrieve the lost kingdom of hismaster Udayana. He had heard of a prophecy thatUdayana will get back his kingdom after his marriage with the Magadha princess Padmāvati. Conse.quently he wanted in the first instance to bringabout the marriage between Udayana and Padmāvati. But it would be impossible so long as Vāsavadattā, his previously wedded wife to whom he wasvery much attached, was near at hand. He therefore took Queen Vāsavadattāinto his confidenceand persuaded her to participate in a plan withthat end in view. With her consent he got spreadthe rumour that Queen Vāsavadattāand ministerYaugandharāyaṇa had been burnt in a fireat Lāvāṇaka. Then he took Vāsavadattāto theMagadha country, intending to keep her in depositwith some sage in the penance-grove. This accountsfor the advent of both in disguise in the sacredgrove adjoining the capital of Magadha. At this stage of the plot the drama begins.
 
  **कर्णं दत्त्वा.**Yaugandharāyaṇa, on hearing thevoice of the two soldiers of the princess's bodyguard, applies his ear to hear distinctly the words
-
-
 
 pronounced. **दत्वा**Indeclinable past participle of **दा** to give. Indeclinable past participles are formed.by adding **त्वा (तत्वा)** to simple roots and **य (ल्यप्)** toroots prefixed with Upasargas. **कथमिहाप्युत्सार्यते.**The Indeclinable **अपि**suggests the impropriety ofordering the people to quit the vicinity in a sacred
 grove where sages are doing penance. **उत्सर्यते, जनः**understood. **कुतः**is to be taken along with**त्रासः समुत्पाद्यते** at the end of the second foot in thesucceeding stanza.
 
 ** धीरस्य** etc. **मानार्हस्य धीरस्य जनस्य त्रासः कुतः समुत्पाद्यते.समुत्पाद्यते** Passive causal Present tense of **पद्** with **सम्**and **उद्** meaning, 'is caused or produced.' Why isterror caused to such people? **जनस्य**. The word **जन** isa collective noun, and hence it has to be renderedas 'persons or people.' How are they?**धीरस्य.** Theyare brave. Their minds are not prone to corruptionnotwithstanding inducements. Kālidāsa defines **धीर**as follows:—**विकारहेतौ सति विक्रियन्ते येषां न चेतांसि त एव धीराः.मानार्हस्य**. Further they are deserving of respect fromall. **आश्रमसंश्रितस्य वसतः**. They are residing in cottages,not in palaces or mansions. This shows theirindifference to the comforts of residence. **वन्यैः** **फल्यैः.तुष्टस्य.** They are contented with the fruits availablein the forest for satisfying their hunger. **वने भवानिवन्यानि तैः वन्यैः**. This shows their indifference to thedelicacies of food. **वल्कलम् अस्यास्तीति वल्कलवान् तस्यवल्कलवतः**. They are clad in tree-barks. Nice
 
-
-
 clothes have no attraction for them. The secondhalf of the verse contains another sentence.**उत्सिक्तः** Proud or haughty **विनयात्, अपेताः पुरुषाः यस्यसः अपेतपुरुषः** A master whose servants haveswerved from modesty. **चलैः भाग्यैः विस्मितः** puffedup with fickle fortunes. **कः अयं निभृतं इदं तपोवनं(तपसः वनं) आज्ञया ग्रामीकरोति (अग्रामं ग्रामं संपद्यमानं करोति).**Who makes this tranquil grove of penance avillage by issuing orders? An order for clearanceis out of place in this sacred grove. Such an orderwill be appropriate only in the country-parts whererustics reside. Hence by issuing such orders,a person treats this peaceful atmosphere no betterthan the backward atmosphere of villages or cities.भो is an interjection, here used to denote sorrow.
 
  **Page 4.** Feeling mortified at theorder ofclearance, Vāsavadattāsays—**आर्य क एष** **उत्सारयति.**Yaugandharāyana replies—**यो धर्मादात्मानमुत्सारयति.** Bythe use of the word **यः, स उत्सारयति** has to beimplied. Yaugandharāyaṇa does not exactlyknow who the person is, but can only statethat the conduct of the person concerned, whoeverbe he, is reprehensible. **न ह्येवं वक्तुकामा**. Vāsavadattāsays that her question was not put with a desire toreproach anybody's conduct. **वक्तुं कामः यस्याः सा वक्तुकामा**. The Infinitive of purpose **तुम्** drops its final **म्**when followed by **काम**or **मनस्** in a Bahuvrīhi
-
-
 
 compound. Vide Vārtika:—**तुं कामोमनोसोरपि.** If shehas no idea of blaming anybody, the questionremains to be answered, why she put thequestion. **अहमपि नाम उत्सारयितव्या** **भवामीति.** It is more a deprecation of the loss of her own statusthan an accusation of anybody else. **अहमपि नाम.**Even I whose arrival used to be foreshadowed bysimilar cries to clear out. **उत्सारयितव्या भवामीति** tobe taken along with **वक्तुकामा** imported from theprevious sentence. **अनिर्ज्ञातानि दैवतानि** gods unknown or persons exalted as gods who are notknown as such. **अवधुयन्ते** areinsulted. **तथा परिश्रमः**The suffering involved in forsaking the luxuriesof the palace and taking to a humble life in disguise as Vāsavadattā has done. **परिखेदं नोत्पादयति**, doesnot contribute to grief. **यथा अयं परिभवः,** as does thisinsult of being called to clear out.
 
  **भुक्तोज्झितः** etc. Yaugandharaāyaṇa tries toinfuse cheer in the mind of Vāsavadattāby recalling that the suffering now undergone by herwas courted by her voluntarily and not inflictedon her by anybody else**. एष विषयः**Thismatter. The proud status of being preceded byrunners crying out 'clear off.' **अत्रभवत्या** Byyour esteemed self. **(पूर्वं) भुक्तः (पश्चात्) उज्झितःभुक्तोज्झितः** enjoyed and then given up.VidePāmini:—**पूर्वकालैकजरत्पुराणनवकेवलाः समानाधिकरणेन.**TheSamāsa is said to be of the **स्नातानुलिप्त** type.
 
-
-
 **एषः + विषयः=एष विषयः**. In Sandhi **सः** and **एषः** droptheir final Visarga when followed by a consonant.Vide Pānini:—**एतत्तदोः सुलोपोऽकोरनञ्समासे इलि.**
 
  **Page 5. पूर्वं** etc. **त्वयाऽपि** Even by you whonow occupy a low status. The Instrumental is usedin the Active significance and is to be takenalong with **गतं. गतं** means **गमनं.** **नपुंसके भावे क्तः त्वया गतं**means **तव गमनं.** **अभिमतं** wished for (by all).**एवं** thus.This also modifies the root in **गतं. पूर्वं आसीत्.** Just asthe princess in her walk is now accompanied byretinue and servants running in front bidding thecrowd to clear out, you too enjoyed a similarprivilege in former days. **आसीत्** Imperfect, 3rdperson singular of **अस्** to be, 2nd conjugation. Conjugate:—**आसीत् आस्तां आसन्, आसीः आस्तं आस्त, आसं आख आस्म.भर्तुः विजयेन श्लाघ्यं पुनर्गमिष्यसि.** In future also you willwalk likewise in a praiseworthy manner whenyour husband will come back to glory through therecovery of his lost kingdom. The first foot of theverse refers to the past status, and the second foot to the future status of Vāsavadattā. That she willregain her past status with greater glory is substantiated by a general statement in the second half ofthe verse. **कालक्रमेण** By the operation of time. **जगतः भाग्यपङ्क्तिः**the fortunes of the world or of persons.**परिवर्तमाना गच्छति** goes about in rotation.**चक्रस्य अराः,तेषां पङ्क्तिः चकारपङ्क्तिः इव** Like the array of spokes in a
-
-
 
 wheel. Vide parallel:—**कस्यात्यन्तं सुखमुपनतं दुःखमेकान्ततोवा नीचैर्गच्छत्युपरि च दशा चक्रनेमिक्रमेण** (Meghasandeśa).The figure of speech is **विकस्वर.**
 
@@ -5193,17 +4813,11 @@ wheel. Vide parallel:—**कस्यात्यन्तं सुखमु�
 
  **परिहरतु** etc. **भवान् नृपापवादं परिहरतु.** Let not theking be made an object of scandal by reason ofyour indiscreet order. Don't give room for suchscandal. It may be asked, 'Where is the questionof any scandal ? We have been accustomed toenforce the clearance of people in cities wheneverwe take the princess on her way.' The answer is**परुषं आश्रमवासिषु न प्रयोज्यं. आश्रमे वस्तुं शीलं एषामिति आश्रमवासिनःतेषु आश्रमवासिषु**. In the case of people who habituallylive in hermitages; towards sages. **परुषं** harshutterance. **न, प्रयोक्तुं योग्यं प्रयोज्यं**, does not deserve tobe employed. Why should the occupants ofhermitages be treated on a different footing fromcitizens? **एते** these dwellers in hermitages. **नगरस्यपरिभवान् नगरपरिभवान् विमोक्तुं** to avoid the ignominies
 
-
-
 prevalent in the city. **विमोक्तुं** Infinitive of purposeof **मुच्** with **वि. वनं अभिगम्य** having resorted to theforest. **प्रशस्तं मनः एषामिति मनस्विनः** A noun ending in**अस्** takes the suffix **विन्** in the sense of 'possessedof.' Examples:—**तेजस्वीओजस्वी वर्चस्वी.** Vide Pāṇini:—**अस्मायामेधात्रजो विनिः. वसन्ति** They live in forests,caring little for the luxuries of the city andunmindful of bodily comforts simply to be savedfrom the insults to which the citizens areordinarily subjected.
 
  **Page 6. हन्त**The Interjection denotes the. joyof Yaugandharāyaṇa at the sagacious pronouncement of the chamberlain. **अस्य दर्शनं** The intellectof the man who checks the soldiers**. विज्ञानेन सहवर्तत इति सविज्ञानं**, is characterised by a sounddiscrimination of good and bad. **वत्से** Deargirl; child. This term of address is consistentwith the role of guardian played byYaugandharāyaṇa, notwithstanding her statusas queen. There is nothing wrong in elderlyministers using such terms of address towardsqueens who are virtually their wards. Or, the termof address can be justified on the ground thatYaugandharāyaṇa treats the queen as his youngersister and is going to deal with her as suchshortly**.उपसर्पाव** We approach, used in the senseof 'Let us approach.' **तावत्** is a mere rhetorical
 
-
-
 flourish. **एनं** refers to the chamberlain. Whena person or object mentioned with reference to aparticular act is again referred to for predicatingsome other action by the employment of the word**एतद्**, it is said to be used in **अन्वादेश**. And in such cases the letter **त्**in **एतद्** changes to **न्** in theAccusative singular, dual and plural, Instrumentalsingular and the Genitive and Locative duals.**एनं एनौ एनान्, एनेन एनयोः.** When **अन्वादेश** is not intended, no such change takes place. **एतं एतौ एतान्**etc. In the context the chamberlain has firstbeen referred to by the word **अस्य**, and again he isreferred to by the word **एनं. केन (निमित्तेन) कृता किंकृता**What for? **तपस्विन् इति.** The term of address **तपस्विन्.गुणः अस्यास्तीति गुणवान्** is a term of dignity. **खलु** Indeed.**तु** on the other hand. **अपरिचयात्** Owing to mynot being practised to hear such address. **मे** **मनसि**tomy mind.**न श्लिष्यते** appears out of tune.The useof **श्लिष्** in the Ātmanepada is contrary to grammar. Archaic expressions like this are met within Bhāsa as in Vālmiki and Vyāsa though lessoften. **श्रृयतां** Passive Imperative of **श्रु** 'Let it beheard. **एषा**the lady who will shortly come withinthe range of your eyes. **गुरुभिः** qualifies **अभिहित** in**अभिहितनामधेयस्य.** Our emperor is called Darśaka byelders. Elders are referred to, because it will beimproper for a servant to make mention of a king'sname direct. **अभिहितं नामधेयं यस्य तस्य अभिहितनामधेयस्य,**
-
-
 
 Whose name is pronounced, adjectival to **दर्शकस्य.अभिहित** Past passive participle of **धा** with **अभि** tospeak. Vide Pānini:—**दधातेर्हिः. नामैव नामधेयं.** Theparticle **धेय** is added to the nouns **नामन् रूप** and **भाग**in **स्वार्थ**. Vide Pānini:—**भागरूपनामभ्यो धेयः. अस्माकं**Genitive Plural of **अस्मद्** 'Of us.' **महांश्चासौ राजा चमहाराजः. महत्** when followed by a Noun qualifiedby it in a compound becomes **महा. राजन्** at the endof a Tatpuruṣa compound drops its final **न् .** VidePāṇini:—**आन्महतः समानाधिकरणजातीययोः** and **राजाहः सखिभ्यष्टच्. महाराजश्चासौ दर्शकश्च तस्य महाराजदर्शकस्य** The name ofthe Magadha king is Darśaka.**भगीनी**sister. **पद्मावती**is the name of Darśaka's younger sister.
 
@@ -5211,37 +4825,25 @@ Whose name is pronounced, adjectival to **दर्शकस्य.अभिह�
 
  **तीर्थोदकानि** etc. **भवन्तः उपनयन्तु.** This is addressed to the sages doing penance in the forestby way of countermanding the indiscreet order ofthe soldiers in guard. **तपसे धनानि तपोधनानि** Thingsuseful for penance.What are they? **तीर्थानाम्**
 
-
-
 **उदकानि तीर्थोदकानि** Waters from sacred rivers andthe like. **समिधः** Decline:—**समित् समिधौ समिधः कुसुमानिदर्भान् वनात् स्वैरं उपनयन्तु. स्वैरं** freely, adverbial to**उपनयन्तु. धर्मः प्रियः यस्याः सा धर्मप्रिया, नृपसुता तपस्विषुधर्मपीडां नहि इच्छेत्.** She will not like any harmdone to the penance-doers. **एतत्** the protection oftheir penance.**अस्याः कुलव्रतं** It is her vow handeddown by heredity.
 
  **एवं** by Kāku or intonation is to be treatedas a question **एषा सा** The two words indicate recollection on the part of Yaugandharāyaṇa.
 
  **Page 8. प्रद्वेषः** etc. **अस्यां** with reference to thisPadmāvati. **मे** for me. **भर्तुः दाराः भर्तृदाराः, भर्तृदाराणाम्अभिलाषः, सोऽस्यास्तीति भर्तृदाराभिलाषी, तस्य भावः भर्तृदाराभिलाषित्वं तस्मात् भर्तृदाराभिलाषित्वात्** Owing to my desireto make her my master's wife. The word **भर्तृदार** ishere used in the abstract significance—**भर्तृदारत्व,** onthe principle **भावप्रधानो निर्देशः.** The word **दार** is alwaysused in the Masculine plural. Vide Amara:—**दाराःपुंसि च भूम्न्येव अभिलाषिणो भावः अभिलाषित्वं**. A noun takesthe suffix **त्व** or **ता (तल्)** to denote its abstractquality. The abstract noun thus formed will takethe neuter gender if it ends in **त्व,**and the feminineif it ends in **ता.** Vide Pānini:—**त्वतलोर्गुणवचने, त्वान्तंक्लीबं तलन्तं स्त्रियाम्. महती स्वता** the feeling that it is one'sown. **स्व** is here used in the sense of **स्वीय. स्व** meaning'one's own' may be used in any of the three genders
 
-
-
 according to the noun it qualifies. **स्व** meaning 'self'is always neuter, whatever be the gender of theperson or object intended. **स्व** meaning 'kinsman'is masculine. in the sense of wealth or propertycan be used either in the masculine or in theneuter. The above four meanings and the rulesas to gender are set out in the following extractfrom Amarakosa:—**स्वो ज्ञातावात्मनि स्वं त्रिष्वात्मीये स्वोऽस्त्रियांधने. स्व**is a pronoun in all meanings except kinsman and wealth. Vide Ganasūtra:—**स्वमज्ञातिधनाख्यायाम्.** After **स्वता, अस्ति** is understood on the principlethat in all sentences where no predicate is used**अस्ति**or **भवति** is understood. Vide MahāBhāṣya:—**अस्तिर्भवन्तीपरोऽप्रयुज्यमानोऽप्यस्ति**. The great affinity whichYaugandharāyaṇa feels for Padmāvati is substantiated by a general statement set out in the firsthalf of the verse:—**प्रद्वेषो बहुमानो वा संकल्पादुपजायते.** Theroot **जन्**4th conjugation, Atmanepada, takes thesubstitute **जा** in all conjugational tenses. VidePānini:—**ज्ञाजनोर्जा.**
 
  **राज्ञो दारिका राजदारिका,** a princess. **भगिनिकायाः स्नेहःभगिनिकास्नेहः** a sister's affection. **परिवारेण सह वर्ततइति सपरिवारा**. The Indeclinable **सह** combines with anoun in the Instrumental case governed by it in aBahuvrihi compound, and **सह**precedes the noun andoptionally undergoes the change to **स**. Vide Pāņini—**वोपसर्जनस्य. एतु एतु भर्तृदारिका. एतु** Imperative mood,3rd person singular of **इ**to go, 2nd conjugation,
-
-
 
 Parasmaipada. The repetition of the word **एतु**shows that the servant-maid leads the way forPadmāvatī. **इदमाश्रमपदं प्रविशतु.** The subject **भर्तृदारिका**is to be imported from the previous sentence.**उपविष्टा तापसी. उपविष्ट** formed from **विश्** with **उप.** Rootsending in **श्**substitute **ष्**for **श्**when followed bythe suffix **त**. Vide Pánini:—**व्रश्चभ्रस्जसृजमृजयजराजभ्राजच्छशां षः शोभनं आगतं स्वागतं** is to be treated as aquestion through Kāku or intonation.Is yourcoming attended by happiness?
 
  **Page 9. जाते** means **वत्से. स्वगेहं** suggests theextreme cordiality of reception offered by thefemale sage to the Princess. **भवतु** Let it be asyou said. The Tāpasi has stated that the sacredgrove is one's own home for guests. **भवतु**showsthe acceptance of the reception. The repetitionof the word**भवतु** shows that the invitation isat once accepted and there is no further needfor using words in that behalf. **विश्वास्ता** confident.Padmāvati says she feels as confident in the sacredcottage as in her own home. **भद्रे**From what followsit is to be inferred that this is addressed to theservant-maid and not to Padmavati.**भद्रमुख** is aterm by which elderly people generally refer to their kings. Here it refers to Darśaka, the king ofMagadha. **भगिनिकां** refers to Padmāvati. **कश्चिद्राजवरयति**is to be treated as a question by Kāku.
 
-
-
 ** Page 10. प्रद्योत**is the king of Ujjain and fatherof Vāsavadattā**. दारकस्य कारणात्**for the sake of his son.**दूतसंपातं करोति** sends messengers. Pradyota's son solicitsthe hand of Padmāvatī.**आत्मनः इयं आत्मीया** one's ownrelation. This is so stated, because Pradyota's sonis Vāsavadattā's brother. **इयं आकृतिः**This personality of Padmāvatī. **अर्हा** is deserving, **अस्य बहुमानस्य**of this honour viz., the solicitation of her handon behalf of Pradyota's son. **उभे राजकुले** Both theroyal families of Magadha and Ujjain. **महत्तरे+इति=महत्तरे इति.** Words of the dual number ending in **ई, ऊ**or एdo not coalesce with a following vowel inSandhi. They do not undergo any change. VidePānini:— **ईदूदेद्द्विवचनं प्रगृह्यम्**. **आर्य** This is addressed to thechamberlain. **किं दृष्टो मुनिजनः**Did you meet the sages?For what purpose? Not for obliging them. But forobliging ourselves. **आत्मानं अनुग्रहीतुं** To invite theirblessings. Hence the root **ग्रह** with**अनु**is used notin the ordinary sense of 'bless,' but in the sense of‘cause to bless.’In effect **अनुग्रहीतुं** means **अनुग्राहयितुं.**This is an instance of what is known as **अन्तर्भावित- णिच्कप्रयोग** of roots. **ग्रहीतुं** Infinitive of purpose ofthe root **ग्रह्**. The initial augment **इ (इडागम)**of suffixes like **त्वा, त** and **तुम्**becomes long whenadded to the root **ग्रह्.** Vide Pānini:—**ग्रहोऽलिटि दीर्घःउपनिमन्त्रयतां** Passive Imperative.Let the sages bepressed to accept our invitation.
-
-
 
 ** Page 11.श्रुण्वन्तु** The root **श्रु** of the 5th conjugationchanges to **श्रृ**in all conjugational tenses. **विस्रम्भेण**through acquaintance. **उत्पादितः विस्रम्भः यस्याः सा उत्पादितविस्रम्भा**. Here **विस्रम्भ** means affection. **धर्मार्थं**means **धर्माय**. In the Dative significance the word**अर्थं** may be added on to a noun instead of theDative suffix, and the word thus formed is anIndeclinable. **अर्थेन** with riches to be offered.**उपनिमन्त्रयते** implores to accept.The object **युष्मान्**is understood.
 
  **कस्य** etc. An announcement is made on behalfof the princess that she is ready to give the sageswhatever they want. **कस्य कलशेन अर्थः**Who wants apitcher? **अर्थः**means **प्रयोजनं. कः वासः मृगयते** Who wantsclothes? **निश्चितं अनतिक्रम्य यथानिश्चितं,** an instance of Avyayibhāva compound. In conformity with śāstraic injunctions. **दीक्षां** The vow of studying Vedas andVedāngas under a guru. **परितवान्** Onewho hasfinished. **किं पुनः इच्छति** What does he wish for? **तत्**has to be implied as an object of **इच्छति**by reason of**यत्** in the adjectival clause. **गुरोः देयं यत् भवेत्** that whichmay have to be given as **गुरुदक्षिणा. दातुं योग्यं देयं**. Theoffer of these things to sages is stated in the thirdfoot of the verse to be made with a view to obligingthe donor rather than the donees. **धर्मे अभिरामःयेषां ते धर्माभिरामाः, तेषां प्रिया धर्माभिरामप्रिया** One who lovespeople bent on doing Dharma**. नृपात् जायत इति नृपजा**
-
-
 
 king's daughter. **इह** In this sacred grove. **आत्मनःअनुग्रहः तं आत्मानुग्रहं इच्छति. यत् (वस्तु) यस्य समीप्सितं अस्ति. आप्तुं इष्टं ईप्सितं** desiderative of **आप्. तत् (सः) वदतु.** Leteach one speak out what he wants. **किं कस्य अद्यदीयतां**. What is to be given and to whom? **दीयतां**Passive Imperative of **दा.**
 
@@ -5251,15 +4853,11 @@ king's daughter. **इह** In this sacred grove. **आत्मनःअनु�
 
  **कार्यं**etc. **अर्थैः** by riches. **कार्यं** use. **नैव** There isnone. **मम** to me, is suggested by implication.**भुज्यन्त इति भोगाः तैः भोगैः** by objects of enjoyment.**अपिकार्य न**. Similarly **वस्त्रैः कार्यं न.कषायेण रक्तं वस्त्रं काषायं=कषाय+अण्.** Vide Pānini:—**तेन रक्तंरागात्.** The red robes ofan ascetic. **वृत्तिहेतो**: for the sake of a living. **अहंन प्रपन्नः** I have not taken to asceticism out of love for
 
-
-
 an easy living.**प्रपन्न=प्र.पद्+त.**The suffix **त (क्त)**added to roots ending in **द्** becomes **न,** and the final**द्** of the root also becomes **न्.** Vide Panini:—**रदाभ्यांनिष्ठातो नः पूर्वस्य तु दः.** Examples:— **अद् अन्न, खिद्खिन्न, छिद् छिन्न, तुद् तुन्न, नुद् नुन्न, भिद् भिन्न, विद् विन्न,सद् सन्न, स्विद् स्विन्न. वृत्तिहेतोः प्रपन्नः.** The word **हेतु**takes the Genitive case when the relationof causality is intended with reference to an actionconveyed by a predicate governing the same.Vide Pānini:—**षष्ठी हेतुप्रयोगे. धीरा** Possessed of. аsturdy character or proficient in learning.**दृष्टः धर्मप्रचारः यया यस्यां वा दृष्टधर्मप्रचारा** Who realises the courseof Dharma or in whom Dharma holds its sway.**इयं कन्या** refers to Padmāvati. **मे भगिन्याः चारित्रं रक्षितुंशक्ता.** This maiden is competent to protect thecharacter of my sister. Otherwise, I would nothave even made this request.
 
  **Page 13.** **हं** indicates slight resentment.**इह**in the hands of this maiden. **मां, निक्षेप्तुं कामः यस्य सःनिक्षेप्तुकामः. भवतु**. Let Yaugandharāyaṇa have hisown way. **क्रमं अविचार्य,** without deciding upon itspropriety. **न करिष्यति**. He will not do it. **करिष्यति**.Though **कृ**is an **अनिट्** root, the augment **इ** is laiddown in the 2nd Future. Vide Pānini:—**ॠद्धनोःस्ये. व्यपाश्रयणा** application, request.
 
  **सुखं** etc. **अर्थः सुखं दातुं (शक्यः) भवेत्** Wealth iseasy to give. **प्राणाः सुखं दातुं (शक्याः) भवेयुः** It is easy
-
-
 
 to give up one's life. The word **प्राण** and itssynonyms are always used in the Masculineplural. Vide Amara:—**पुंसि भूम्न्यसवः प्राणाः.तपः सुखं(दातुं शक्यं भवेत्)** Likewise it will be easy to assignone's penance to another. **अन्यत्सर्वं सुखं (दातुं शक्यंभवेत्)** Similarly everything else. **किंतु** understood.**न्यासस्य रक्षणं** The protection of a charge committed toour trust. **दुःखं**is difficult of accomplishment. **कथंप्रतिजानीमः** How can we undertake this responsibility?
 
@@ -5267,13 +4865,9 @@ to give up one's life. The word **प्राण** and itssynonyms are always u
 
  **Page 15.** **भवतु भवतु** This is said in acceptanceof Vāsavadattās approach. **आत्मनः** **इयं आत्मीया. ईदृशी**Feminine form of **ईदृश. अयमिव पश्यति (ज्ञानविषयो भवति)ईदृक् ईदृशः ईदृक्षः**Other examples:—For **तद्—तादृक् तादृशतादृक्ष;** for **यद्—यादृक् यादृश यादृक्ष**; for **एतद्—एतादृक् एतादृशएतादृक्ष;** for **समान—सदृक् सदृश सदृक्ष;** for **किं—कीदृक् कीदृशकीदृक्ष;** for **अस्मद्** in the singular—**मादृक्मादृश मादृक्ष;**for **अस्मद्** in the plural—**अस्मादृक् अस्मादृशअस्मादृक्ष;** for**युष्मद्** in the singular—**त्वादृक् त्वादृश त्वादृक्ष;**for **युष्मद्** in
 
-
-
 the plural—**युष्मादृक् युष्मादृश युष्मादृक्ष;** for **भवत्—भवादृक्भवादृश भवादृक्ष**, for **अन्यद्—अन्यादृक् अन्यादृश अन्यादृक्ष.** Thesuffixes added are respectively **क्विन्, कञ्** and **क्स**.Vide Pánini:—**त्यदादिषु दृशोऽनालोचने कश्च** and Vārtika—**क्सोऽपि वाच्यः. अनुभूतं सुखं यया सा अनुभूतसुखा.** Onethat has enjoyed happy days. **हन्त भोः** indicatesthe joy of relief. **भारस्य अर्ध** one half of theresponsibility. **अर्ध**in the masculine denotes aportion, and in the neuter it denotes a moiety.Vide Amara:—**भित्तं शकलखण्डे वा पुंस्यर्धोऽर्थं सर्वेऽशके, अवसितं** finished=**अव–सो+त.** The roots **दो, सो, मा** and **स्था**change their final vowel to **इ** before the suffixes **त,त्वा** etc. Vide Panini:—**द्यतिस्यतिमास्थामित्ति किति.** Examples:—**दो दित, मा मित, स्था स्थित.** One half of theduty of Yaugandharāyaṇa is over. He hasentrusted Vāsavadattāto proper custody. Theremaining half consists of the steps to be takento bring about the matrimony of Udayana andPadmāvatī. **तत्रभवतीं उपनयतः, स्वामिने** understood. **विश्वासस्थानं** guarantor. Padmāvatīwill give conclusiveassurance about Vāsavadattā's character.
 
  **पद्मावती** etc. **नरपतेः**=**नराणां पत्युः पति** at the end of acompound is to be declined like **हरि.** Vide Pāṇini:—**पतिः समास एव. महिषी** crowned queen, not a **भोगिनी.भवित्री,** is bound to become. Hence her testimonywill have the highest value. The infallibility ofthis prediction of seers is established by a referenceto a previous prediction of theirs which has come
-
-
 
 to pass. **यैःप्रथमं प्रदिष्टा विपत्तिः अथ (अस्माभिः) दृष्टा. यैः**refersto the astrologers. **प्रथमं**formerly, i.e., long beforeanybody had even a scent of the present calamity.**प्रदिष्टा** prophesied. **अथ**afterwards, long after the prophecy, **दृष्टा** has been actually witnessed by us.**तेषु प्रत्ययः तस्मात् तत्प्रत्ययात्** Out of reliance in them (theirpredictions). **इदं कृतं.** **इदं**refers to the entrustmentof Vāsavadattā into Padmāvatī's hands. **हि**because. **विधिः**Fate. **सुपरीक्षितानि** put to test **सिद्धानांवाक्यानि सिद्धवाक्यानि** The statements of those whoknow the past, present and future. **उत्क्रम्य न गच्छति**does never tansgress.
 
@@ -5281,17 +4875,11 @@ to pass. **यैःप्रथमं प्रदिष्टा विपत�
 
  **विस्रब्धं** etc. The characteristics of a penancegrove are referred to in this verse. **देशे आगतः प्रत्ययः येषांते देशागतप्रत्ययाः** with confidence due to the familiarity
 
-
-
 of sites. **(अत एव) अचकिताः** free from fear **हरिणाः विस्रन्धंचरन्ति** The deer roam about confidently. **दयया रक्षिताःदयारक्षिताः**tended with compassion **सर्वे वृक्षाः** all thetrees. **पुष्पाणि च फलानि च फष्पफलानि,** an instance of Dvandva compound. **तैःपुष्पफलैः समृद्धाः विटपाः येषां ते समृद्धविटपाः**contain branches abounding in flowers and fruits.The compassionate protection of trees consists intheir being grown with water poured at the basinand the like measures or in the non-plucking offruits and flowers. Compare the idea in **नादत्ते प्रियमण्डनापि भवतां स्नेहेन या पल्लवम्. कपिलानि, गवां कुलानि धनानीवगोकुलधनानि** Like precious treasures, herds of cattle,especially the ruddy cows, are found in plenty. Thered-coloured cow is said to be purificatory byits mere presence. Vide Smrti:—**अग्निचित्कपिला सत्री राजाभिक्षुर्महोदधिः। दृष्टमात्राः पुनन्त्येते. भूयिष्ठं** adverbial to **सन्ति**understood. **अतिशयेन बहु भूयिष्ठं बहु** Positive, **भूयस्** or**बंहीयस्** Comparative, **भूयिष्ठ** or **बंहिष्ठ** Superlative. **क्षेत्राणिआसु सन्तीति क्षेत्रवत्त्यः, ता न भवन्तीति अक्षेत्रवत्यः**The regionsall round do not consist of lands brought undercultivation. No paddy fields and the like which arethe general resort of villagers. **निःसंदिग्धं** Undoubtedly. **इदं तपोवनं** This is a penance-forest. The mostconclusive proof for the same comes last. **अयं धूमः,बहवः आश्रयाः यस्य सः बह्वाश्रयः.**Yonder issues forthsmoke from a hundred places. This indicatesthe due performance of Agnihotra by the sagesdwelling in the forest.
-
-
 
  **Page 17. प्रविश्य.** **अये** shows his astonishment atseeing the chamberlain, a citizen, not a penancedoer or other folks of the hermitage. **अन्यतो विलोक्य**The bachelor turns his eyes in another direction inorder to avoid the sight of citizens. **अथवा तपस्विजनोऽप्यत्र.** When he casts his glance in the otherdirection, the bachelor finds there are also thevenerable penance-doers**.निर्दोषमुपसर्पणं.** Accordingly,he goes further inside the cottage. **अये स्त्रीजनः**But again he is confronted with another evil viz.,the sight of Padmāvatī and the other ladies.**हं**indicates resentment at the sight of a stranger.
 
  **Page 18. आचम्य. आचमन** consists in thricesipping water with mantras and touching thesense-organs with water for purification. **कुतःआगम्यते** Impersonal form of **गम्** with **आ, भवता** understood. In Sanskrit there are three forms inwhich a predicate can be used—**कर्तरिप्रयोग** or theActive voice, **कर्मणिप्रयोग** or the passive voice, and**भावेप्रयोग** or the Impersonal form. **सकर्मकधातु**s orTransitive verbs can be used either in the Activeor in the Passive voice. **अकर्मकधातु**or Intransitiveverbs can be used either in the Active voice orin the Impersonal form. The Impersonal formresembles the Passive voice in form, and it denotesmere action. **भवानागच्छति** in the Active voice can berendered into**भवाता आगम्यते**in the Impersonal form.Note that the predicates in the Impersonal form
-
-
 
 can be employed only in the 3rd person singularin the respective tenses. For example, **त्वं गच्छसि, युवांगच्छथः** and **यूयं गच्छथ** when rendered in the **भावेप्रयोग**will be changed to **त्वया गम्यते, युवाभ्यां गम्यते** and **युष्माभिःगम्यते. अधिष्ठानं** residence. **राजगृहतः, अस्मि** Indeclinablereading like a predicate—**तिङन्तप्रतिरूपकमव्ययं** in thesense of **अहं (आगच्छामि). श्रुतिविशेषणार्थं** for improvingthe previously acquired Vedic knowledge by learning its meaning and import scientifically. **वत्सभूमौलावाणकं नाम (यः) ग्रामः तत्र उषितवान्** Past active participle of **वस्,अस्मि.**
 
@@ -5301,23 +4889,17 @@ can be employed only in the 3rd person singularin the respective tenses. For exa
 
  **Page 21.** **अनुक्रोशेन सह वर्तत इति सानुक्रोशः, तस्य भावःसानुक्रोशत्वं. शरीरेण उपभुक्तानि शरीरोपभुक्तानि** used on herperson. **दग्धानि च तानि शेषाणि च दग्धशेषाणि** partly burntand partly otherwise. **सकाम इदानीमार्ययौगन्धरायणो भवतु**.Because this calamity is due to the schemes ofYaugandharāyana. **रोदिति.** The rcots **रुद् स्वप् श्वस्अन्** and **जक्ष्** take the augment **इ** before theterminations beginning with any consonant except
 
-
-
 य in all conjugational tenses. Vide Pāṇini:— रुदादिभ्यः सार्वधातुके. Conjugate:—रोदिति रुदितः रुदन्ति, रोदिषि रुदिथः रुदिथ, रोदिमि रुदिवः रुदिमः.
 
  **Page 22.**अथ किं is a pair of Indeclinables meaning ‘yes.' प्रतिलब्धा संज्ञा येन सः **प्रतिलब्धसंज्ञः**regained his consciousness. ध्रियते Present tense of धृ. (धृङ्अवस्थाने). Roots ending in ऋ substitute रिय् for ऋ before the sign अof the 6th conjugation. Vide Pāṇini:—रिङ् शयग्लिङ्क्षु. हा प्रियशिष्ये Udayana refers to Vāsavadattā as śiṣyā, because he taught her to play the lute.
 
  **Page 23. नैवेदानीं** etc. इदानीं At present, when of the misery of Udayana is thought of. चक्रवाकाः a species of birds which abnormally feel the pangs of separation. तादृशाः नैव, do not belong to the stamp of Udayana. Udayana's misery in separation has far exceeded that of Cakravāka birds. स्त्रीविशेषैः वियुक्ताः separated from ladies ofsuperior merit like Indumatī, Sītā etc. अन्येऽपि Other husbands— Aja, Rāma and the like. नैव तादृशाः,cannot be ranked along with Udayana. Udayana's grief of separation has surpassed that of all other lovers in separation. सा स्त्री धन्या Fortunate is that lady. यां भर्ता तथा वेत्ति, whom her lord esteems thus. वेत्ति Present tense. Conjugate:—वेत्ति वित्तः विदन्ति, वेत्सि वित्थः वित्थ, वेद्मि विद्वःविद्मः. Note the following alternative forms throughout
 
-
-
 —वेद विदतुः विदुः,वेत्थ विदथुः विद, वेद विद्व विद्म. Vide Pāṇini:— विदो लटो वा. दग्धापि सा भर्तृस्नेहाददग्धा.
 
  **दृढं**qualifies प्रयत्नवान्.दृढ= दृह् + त. Vide Pāṇini:— दृढः स्थूलबलयोः. अतिशयितः प्रयत्नः अस्यास्तीति **प्रयत्नवान्**= प्रयत्न + मतुप्. As to the several meanings of the suffix मतुप्, vide the following Vārtika:— भूमनिन्दाप्रशंसासु नित्ययोगेऽतिशायने। संसर्गेऽस्तिविवक्षायां भवन्ति मतुबादयः॥. Vide Bālamanoramāthereon:— भूमा-बहुत्वं-यथा गोमान् यवमान्। निन्दायां—ककुदावर्तिनी कन्या।प्रशंसायां— रूपवान्। नित्ययोगे— क्षीरिणो वृक्षाः। अतिशायने— उदरिणी कन्या। संसर्गे— दण्डी छत्री। All this is discussed under Pāṇini:— तदस्यास्त्यस्मिन्निति मतुप्.
 
 ** अनाहारे** etc. The words स हि are to be taken along with परिचरति in the verse. स हि Rumaṇvān. दिवा वा रात्रौ वा. वा is here used in the sense of समुच्चय or co-ordination. Day and night. यत्नैः नरपतिं परिचरति, strenuously attends on the king. The method of attendance is amplified in the rest of the verse. आहारस्य अभावः अनाहारः तस्मिन् अनाहारे तुल्यः. If the king fasts, Rumanvān also fasts प्रततेन रुदितेन क्षामं वदनं यस्य सः **प्रततरुदितक्षामवदनः.** Rumaṇvān's face is languid through incessant weeping. शरीरे संस्कारं The beautification of the person— bath, dressing, decking etc. नृपतेः समं दुःखं यस्मिन् कर्मणि तद्यथा भवति तथा **नृपतिसमदुःखं** adverbial adjunct to परिवहन्. Rumaṇvān's body exhibits a misery equal to that of the king. The climax is described in the fourth foot. नृपः
-
-
 
 प्राणान् सद्यस्त्यजति यदि If the king ends his life all of a sudden. तस्यापि उपरमःRumaṇvān's end is inevitable.
 
@@ -5329,21 +4911,15 @@ can be employed only in the 3rd person singularin the respective tenses. For exa
 
  **Page 25.** अमात्यैः प्रामात् अपक्रान्तं The ministers emerged out of the village. निष्क्रान्ते राजनि When the
 
-
-
 king has gone out.प्रोषितानि नक्षत्राणि चन्द्रश्च यस्मात्तत् प्रोषितनक्षत्रचन्द्रं नभ इव. Like the sky from which the stars and the moon have disappeared. प्रशस्यतेPassive present of शंस् with to प्र praise. अपरा स्त्री तस्य हस्तं किं नु खलु गमिष्यति. Will any other woman be able to come into his hands? This question put by the servant to the maiden Padmāvatīat a time when Udayana had lost his wife sowsthe seed for the love of Padmāvatītowards Udayana. मम हृदयेनैव सह मन्त्रितं. My mind was thinking of the same matter. The Ceṭī's utterance falls in line with my thought.
 
  **Page 26.**आपृच्छामि I take leave of you.Theroot प्रच्छ्takes the Ātamanepada terminations when prefixed with आ. Vide Vārtika:— आङि नुप्रच्छयोः. The use of Parasmaipada in the context is archaic. भवन्तौ Accusative dual. The dual number is used, having in view the chamberlain and Yaugandharāyaṇa. गच्छामः. The plural is used in the sense of Royal we. In the place ofगच्छामः, there is another reading साधयामः which has the same meaning तावत् is used in the sense of 'now' or as a mere rhetorical flourish. गम्यतांImperative of गम्in the Impersonal form. त्वया or भवता is understood. अर्थस्य सिद्धिः तस्यै अर्थ**सिद्धये** for realising our purpose viz, that of promoting your Vedic education. तथास्तु. This phrase is generally used when a person receives the
-
-
 
 blessings of elders. निष्क्रान्तःThe bachelor makes an exit, the twofold purpose for which he was introduced on the scene having been accomplished आर्येण विना. The Indeclinable विना meaning 'without' governs a noun in the Accusative, Instrumental or Ablative case. Vide Pāṇini:— पृथग्विनानानाभितस्तृतीयान्यतरस्याम्. **उत्कण्ठिष्यति**. The root कण्ठ् (कठि) belongs to the Ātmanepada. Its use here in the Parasmaipada is archaic. Perhaps a justification can be spelled out on the ground अनुदात्तेत्त्वप्रयुक्तमात्मनेपदमनित्यम् .
 
  **Page 27.** गच्छतु. The chamberlain permits Yaugandharāyaṇa disguised as an ascetic to go his own way on the assurance that Padmāvatī will look after his sister. पुनर्दर्शनाय, to meet again. This suggests a request that the ascetic should come again to take back his sister, प्रवेष्टुंInfinitive of purpose of विश्with प्रto enter. आर्येबन्दे. In taking leave of the female hermit, Padmāvatīsalutes her. वन्दे तावदहं. Likewise Vāsavadattāalso bows to the female sage. अचिरेण भर्तारं समासादय. May you get back your husband ere long. अनुगृहीताऽस्मि I have been blessed. Note that Padmāvatī made no such remark, of course owing to a maiden's shyness.
 
 ** Page 28.** संप्रति हि is to be taken along with the succeeding stanza.
-
-
 
 ** खगाः** etc. This verse describes the sunset. खेगच्छन्तीति खगाः birds, for they fly in the sky. वासं वासेन बा उपेताः Birds have come back to their nests. मुनिजनःसलिलं **अवगाढः**= अव-गाह्+ त. The sages are taking their evening-bath. प्रदीप्तोऽग्निर्भाति. The fire is ablaze, the fire of the evening Agnihotra. धूमः मुनिवनं प्रविचरति. This also refers to the evening homa. अपिच moreover. दूरात्परिभ्रष्टः having sunk far low in the sky. असौ रविः, संक्षिप्तानि किरणानि यस्य सः **संक्षिप्तकिरणः** contracting his rays. रथं व्यावर्त holding back his chariot, restraining its speed. शनैःIndeclinable meaning slowly. The slovenliness of the Sun's gait at the sunset is well known. अस्तशिखरं प्रविशति alights at the top of the sunset mountain.
 
@@ -5355,13 +4931,9 @@ THE SECOND ACT
 
  Towards the end of the First Act the seed has been sown for the love of Padmāvatītowards Udayana. The Second Act deals with the gradual development of that love, the betrothal of Padmāvatīto Udayana by her brother Darśaka, king of Magadha, and the busy preparations for the celebration of the wedlock. The growth of Padmāvati's love towards Udayana ever since
 
-
-
 she heard of him is brought out in this Act by means of a conversation in which Vāsavadattā, Padmāvatīand her two maid-servants and nurse participate. The Act proper begins with the entry of Padmāvatī playing at the ball. As a prelude to that, the poet has prefixed the Act with a Praveśaka which consists of a Ceṭi's monologue which indicates the entry of Padmāvatī. A special feature of this Act is the total absence of Sanskrit. The whole conversation is carried on in Prākṛt. And a further special feature is the total lack of verse, the whole Act running in prose.
 
 ** Page 29. ततः प्रविशति चेटी.** The Ceṭīcomes in search of Padmāvatī. **कुञ्जरिके** Vocative. Kuñjarikā is the name of another maid-servant of Padmāvatī. Kuñjarikā does not enter the stage. She is presumed to be behind the scenes. The reason why Kuñjarikā is not actually introduced on the stage is that the only purpose that could be served thereby is adequately fulfilled by the device of आकाशभाषित. The repetition of the vocative Kuñjarikā indicates the hurry of the Ceṭi that has entered the stage or her anxiety to attract the other's attention. कुत्र कुत्र भर्तृदारिका पद्मावती. This is the question put to Kuñjarikā by the Ceṭīon the stage. किं भणसि.Expressions like this are generally employed when introducing an Ākāśabhāṣita. Ākāśabhāṣita has been defined in
-
-
 
 Daśarūpaka as follows:—
 
@@ -5372,27 +4944,19 @@ This device is resorted to in dramas whenever a character calls out for somebody
 
  **Page 30.** परिश्रान्तेन रमणीयं दर्शनं यस्य तेन **परिश्रान्तरमणीयदर्शनेन**. Her very fatigue has imparted fresh beauty to her face. मुखेन, उपलक्षिता understood, characterised by such a face. **क्रीडन्ति** Feminine present participle
 
-
-
 of क्रीड् to play. इत एव here only. इतः=इदम्+तस् (सप्तम्यर्थे तसिः). **आगच्छति**. Vide Pāṇini:— इषगमियमां **छः**. यावदुपसप्स्यमि. यावत् is a mere rhetorical flourish. **उपसर्प्स्यामि**2nd future, 1st person singular of सृप् with उप to approach. निष्क्रान्ता. Here ends the Praveśaka.
 
  **हला** is a term of address towards a female friend in dramas. Vide Amara:—हण्डे हज्जे हलाह्वाने नीचां चेटीं सखीं प्रति. Vāsavadattā, being a senior, addresses Padmāvatīby the term हला, whereas the latter addresses the former as आर्ये. एष ते कन्दुकः. Vāsavadattā picks up the ball slipped out through negligence and offers it to Padmāvāatīto continue the play. आर्ये This is addressed to Vāsavadattā. इदानीं, एतत् परिमाणं अस्येति एतावत् So far, adverbial adjunct to भवतु. No more play. The subject कन्दुकक्रीडनं is understood. अधिकं संजातः रागः ययोस्तौ **अधिकसंजातरागौ** Padmāvatī's hands have become intensely red, due to the ball-play. परस्य इमौ परकीयौ इव, like another's. Padmāvatī's hands have become so much tired that she cannot control them at her I will as if they were the hands of somebody else. The word in the context faintly suggests her love for Udayana. The word परकीयौ somewhat strengthens the suggestion. The hand of Padmāvatīis no longer her own, but belongs to Udayana through love.
 
  **Page 31 क्रीडन्तु.** The repetition conveys frequency or intensity. Vide Pāṇini:—नित्यवीप्सयोः .
 
-
-
 कन्याभावेन रमणीयः **कन्याभावरमणीयः** अयं कालःThis youthful age of yours happily characterised by maidenhood. निर्वर्त्यतां, क्रीडनेन understood. This statement of the Ceṭīsuggests that Padmāvatī's wedlock is fast approaching. मां अपहमितुमिव, as if to mock at me. किं निध्यायसि. Why do you observe me? नहि नहि,no, not for the sake of making fun. अधिकं अद्य शोभते, भवती understood. This is the reason for my eyeing you closely. But Vāsavadattā presently indulges in fun. ते अभितःAll around you, on all sides वरमुखं The face of the person that is fit to be your bridegroom. पश्यामीव I visualise, as it were. Owing to your peculiar beauty to-day all your limbs will attract the eyes of the person whom you love. An alternative meaning is also suggested by Mahāmahopādhyāya Gaṇapati Sastri. ते अभितः, वराणां मुखं वरमुखं पश्यामीव I imagine the faces of suitors all round you. अपेहि Be off. Padmāvatīsays this in indignation at the fun made by Vāsavadattā. **मा अपहस**. The verb governed by माtakes the Aorist termination according to Pāṇini:—माङि लुङ् The use of the Imperative here is to be justified by presuming that the particle r used here is different from माङ्though the form and the meaning are the same. The fun employed by Vāsavadattāand Padmāvatī's indignant remark are distinct stages in the growth of love depicted in this Act. एषास्मि तूष्णीका Lo, I shall keep quiet.
-
-
 
 भविष्यन्ती महासेनवधूः **भविष्यन्महासेनवधूः** Nominative of address meaning the future daughter-in-law of Mahāsena. This vocative is employed for examining the heart of Padmāvatīmore closely.
 
  **Page 32**. This leads Padmāvatīto question who is Mahāsena. उज्जयिन्यां भवः **उज्जयिनीयः**Pradyota is the name of the king of Ujjain. The name Mahāsena was got by him as a result of the vast magnitude of his armies. This information given by Vāsavadattāelicits the remark of the Ceṭīthat the princess does not wish to form such an alliance. अथ If so. केन खलु With whom? अभिलषति does she wish for. संबन्धं, alliance, is the object understood.
 
  **Page 33.** आर्यपुत्रं भर्तारमभिलषति is stated as a mere statement of fact and shows the magnanimity of Vāsavadattā in ruling out all feelings of ill-will towards a co-wife. सानुक्रोश इति (हेतोःunder-stood). अयं जनः refers to अहं एवं through the same reason, i.e., because he is possessed of compassion. उन्मादितः, was maddened. यदि स राजा विरूपो भवेत् If that king is ugly. किं क्रियतां What is to be done, understood. no, not at all, he is not ugly. Vāsavadattāunwittingly makes the remark दर्शनीय एव. On the other hand he is only handsome. This leads to Padmāvatī's query how she knew him. समुदाचारः The limits imposed by herself. अतिक्रान्तः has been transgressed. Vāsavadattā
-
-
 
 traces her account of Udayana's handsomeness to the general talk in Ujjain.
 
@@ -5402,17 +4966,11 @@ traces her account of Udayana's handsomeness to the general talk in Ujjain.
 
  ततः प्रविशति धात्री. Up to the entry of the nurse on the stage the love of Padmāvatīfor Udayana has been developed through her conversation with Vāsavadattāand Ceti step by step and may now be said to have reached its height. What now remains to be done is the celebration of the wedlock for which the initiative will have to be taken by Darśaka. So Darśaka's appreciation of Padmāvatī's love for Udayana, his actual offer of Padmāvatī's hand to Udayana and Udayana's acceptance of the same are the three incidents brought out in the rest of the Act. दत्ता असि You have been given. दर्शकेन, by Darśaka, understood. उदयनाय to Udayana. The gift referred to is not the actual gift, but only or betrothal. Hence जयतु भर्तृदारिका in the context is not a mere observance of etiquette but is laden with special significance. The cryptic utterance of suggests that Darśaka—the giver, Udayana—the acceptor and Padmāvatī—the object of gift, are all of one mind.No doubt the growth of Padmāvati's love towards Udayana has been traced from stage to stage by the poet, but the reciprocal process of Udayana's love
 
-
-
 for Padmāvatī, it may be noticed, has not been similarly traced. The answer is not far to seek. Udayana is now immersed in the grief of bereavement of Vāsavadattā. A description of love on his part towards Padmāvatīwill be out of place at this stage. So the poet chooses to describe the acceptance by Udayana of the hand of Padmāvatī more in pursuance of counsel given by well-wishers and his responsibilities of kingship than of his own desire to take a second wife. In this respect the development of love treated of in this play differs materially from that in Mālavikāgnimitra Ratnāvalīwhere the plot leads to the same end. Mālavikā's love for Agnimitra and vice versa are depicted from stage to stage by Kālidāsa. Similarly Harṣa deals with the gradual development of love of Sāgarikā and Vatsarāja towards each other. But here the love of Udayana for Padmāvatīstarts from matrimony and is later on fully developed in the Fourth and Fifth Acts of this play. कस्मै, दत्ता understood. On hearing the news of betrothal, Vāsavadattāwho is the party hit hard enquires about the welfare of Udayana, astonished as she was that in his sad bereavement Udayana should think of taking a new wife. अत्याहितं means महाभीतिः grave iniquity, in the context.
 
 ** Page 35.** The iniquity is explained by Vāsavadattāon being questioned. तथा नाम संतप्य
 
-
-
 etc.तथा नाम In the way related by the bachelor. संतप्य having undergone suffering उदासीनो भवति इति That Udayana should all at once become indifferent towards his previous love. The nurse justifies Udayana's acceptance of the new love by the statement— आगमप्रधानानि etc. महापुरुषहृदयानि the hearts of great men. आगमः प्रधानं येषां तानि आगमप्रधानानि Great men are guided by scriptures. Scriptures ordain that no man should remain without being a member of an Aśrama (अनाश्रमी न तिष्ठेत क्षणमेकमपि द्विजः) and that a king's primary duty is to attend to his kingly duties and not to his personal comforts or predilections. That great men's minds are easily adaptable to such a course is brought out by the next adjective सुलभपर्यवस्थानानि. The hearts of great men easily recover stability. Vāsavadattā could not believe that a move for the re-marriage would have come from Udayana and accordingly puts the question:—स्वयमेव तेन वरिता. This is a question by kāku. वरिता is the Past passive participle of the root वर् (वर) of the 10th conjugation. The suspicion of Udayana's initiative in the matter is negatived by the nurse in the statement अन्यप्रयोजनेन etc. On hearing the nurse's reply Vāsavadattārealises that no blame attaches to Udayana– अनपराद्ध आर्यपुत्रः इदानीं Now i.e., when the offer was made by Darśaka and Udayana merely accepted it. अत्र, in the matter of taking the hand of Padmāvatī.
-
-
 
  **Page 36.** प्रविश्यापरा. The wedlock has been decided upon according to the wishes of all concerned, and now for announcing the preparations for the celebration of the marriage the poet ushers another servant-maid on the stage. त्वरतां The word is repeated owing to the urgency of the occasion. आर्या is addressed to the nurse. अद्यैव किल शोभनं नक्षत्रं. किल suggests that the astrologers opine so. अद्यैव कौतुकमङ्गलं कर्तव्यं कौतुक means the thread to be tied round the hand of the bride on the eve of the marriage. Vide Medinī:— कौतुकं त्वभिलाषे स्यादुत्सवे नर्महर्षयोः। तथा परम्परायाते मङ्गले च कुतूहले॥विवाहसूत्रगीतादिभोगयोरपि न द्वयोः। कौतुकमेव मङ्गलं कौतुकमङ्गलं कर्तव्यं इति, अस्माकं भट्टिनी Darśaka's wifе, भणति. Vāsavadattāis naturally dejected and says:—यथा यथा त्वरते. साis the subject understood of both त्वरतेand अन्धीकरोति एतु. According to strict grammar, in sandhi will combine as ऐतु.
 
@@ -5424,21 +4982,15 @@ THE THIRD ACT
 
  In this Act also as in the previous one there is neither verse nor Sanskrit, and the whole conversation is carried on in Prākṛtic prose. The third Act begins with the soliloquy of Vāsavadattā. Owing to the advent of a co-wife she feels highly depressed and accordingly gives vent to her feelings.
 
-
-
  **Page 37.** विचिन्तयन्ती in a care worn state विवाहस्य आमोदः, तेन संकुलं तस्मिन् **विवाहामोदसंकुले** crowded as a result of the glee prevailing on the occasion of wedlock. अन्तःपुरस्य चतुःशालं तस्मिन् **अन्तःपुरचतुःशाले** In the quadrangle of the harem. स्थितां understood. पद्मावती परित्यज्य having left off Padmāvatī. इह in this place. प्रमदवनंthe garden frequented by ladies. आगतास्मि I have come. यावत् has no special meaning. भागधेयेन निर्वृत्तं भागधेयनिर्वृत्तं दुःखं The misery brought about by my evil fortune. I shall relieve myself. परिक्रम्य The walking about is due to her restlessness. अहो Pity. अत्याहितं A dire calamity. What is the calamity? आर्यपुत्रोऽपि नाम Even my lord. परस्याः अयं परकीयः संवृत्तः, another lady. यावदुपविशामि The present tense is used to denote the proximate future.उपविश्य. The sitting also is due to her restlessness.
 
  **Page 38.** अन्योन्यविरहिता. The literal meaning 'mutually separated' is incompatible. It simply means ‘separated from her beloved.' मन्दः भागः (भाग्यं) यस्याः सा **मन्दभागा** possessed of poor fortune.
 
  **ततः प्रविशति.** When Vāsavadattāwas soliloquizing thus, the Ceṭīenters with flowers at the bidding of Darśaka's wife for directing Vāsavadattā to make the wedding garland for Padmāvatī. कुत्र नु खलु गता. It is apparent that the Ceṭīhas been searching for Vāsavadattāfor some time past. परिक्रम्यावलोक्य The Ceṭīwalks about and finds out
 
-
-
 Vāsavadattā. चिन्तया शून्यं हृदयं यस्याः सा **चिन्ताशून्यहृदया** Being careworn, Vāsavadattā's mind was vacant. नीहारेण प्रतिहता चन्द्रलेखा **नीहारप्रतिहतचन्द्रलेखा** इव Vāsavadattāis compared to the Moon's digit intercepted by fog. अमण्डितं (तथापि) भद्रकं अमण्डितभद्रकं unadorned, yet beautiful. वेषं person. धारयन्ती bearing.
 
  **Page 39.** किं निमित्तं, अन्विष्यसि is to be imported from the previous sentence. The word निमित्त can be used in all the cases along with a predicate which it governs. किं निमित्तं, केन निमित्तेन, कस्मै निमित्ताय, कस्मात् निमित्तात्, कस्य निमित्तस्य, कस्मिन् निमित्ते Vide Vārtika— निमित्तपर्यायप्रयोगे सर्वासां प्रायदर्शनम्. अस्माकं भट्टिनी. Our mistress i.e., Darśaka's wife. महाकुलप्रसूता. This suggests that the making of the garland with Vāsavadattā's hand will prove to be auspicious. स्निग्धा Āvantikā is affectionate towards Padmāvatī. निपुणा Further she is clever in making garlands. The noun आवन्तिका is understood. इति The reasons for selecting Āvantikā for the purpose of making garland are given by the Ceṭīin the language of Darśaka's queen, and the direction to Vāsavadattā is given as a request made by her and not as a command by the queen. This is in conformity with the respectful treatment accorded to Vāsavadattā by all in the harem. कौतुकार्था मालिका कौतुकमालिका. एतदपि The making of the festive garland for my own co-wife. मा चिन्तयित्वाis an ungrammatical use for मा चिन्तय. मणिखचिता भूमिः मणिभूमिः .
-
-
 
  **Page 40.** भणामि तावत् I do say. This assertion suggests the truthfulness and exactitude of what she says. ईदृशः, न पूर्वं दृष्टः **अदृष्टपूर्वः** भूतपूर्वे चरद् इति निपातनात् पूर्वशब्दस्य परनिपातः. शरचापहीनः कामदेवः. The figure of speech is रूपक combined with व्यतिरेक.
 
@@ -5450,25 +5002,17 @@ Vāsavadattā. चिन्तया शून्यं हृदयं यस�
 
  **Page 43.** गृहाणैतत् Take this wreath. उभे निष्क्रान्ते. Vāsavadattāavoids attending the function Her absence may be traced either to her despondency or her anxiety to avoid the sight of strangers and
 
-
-
 chiefly to keep out of the sight of the bridegroom lest her identity should be discovered. अविधा An interjection denoting sorrow. शय्यायां Because sleep is the only curative for this grief. यदि निद्रां लभे suggests that even sleep is not possible
 
 End of the Third Act.
-
-
 
 THE FOURTH ACT
 
  The principal topics dealt with in the Fourth Act are the growth of Udayana's love for Padmāvatī after their marriage, Vāsavadattā's presence of mind notwithstanding the advent of her rival, Udayana's continuing to cherish love for Vāsavadattā, absence of jealousy on the part of Padmāvatīknowing as she did Udayana's inordinate love for Vāsavadattāand Vāsavadattā's consolation consequent on the attitude of Udayana. To bring out these incidents the entry of Udayana and Padmāvatīwith their respective retinue is essential on the stage, and as a prelude to their entry, the entry of Vidūṣaka and Ceṭī, the usual companions of Udayana and Padmāvatīrespectively and their dialogue form the subject of the Praveśaka to the Fourth Act. At the outset enters the king's comrade Vidūṣaka.
 
-
-
  **Page 44.** सहर्षं The joy is due to the fact, that his friend Udayana has remarried. दिष्ट्या The re-marriage of Udayana can only be traced to good luck. Such was his love for Vāsavadattāthat nobody anticipated this happy occurrence. That it was brought about by Providence and not by human agency is confirmed by the following statement. को नाम एतज्जानाति. तादृशे adjectival to **अनर्थसलिलावर्ते** अनर्थएव सलिलावर्तः तस्मिन्. The grave crisis in which Vatsarāja was placed by the sad bereavement is compared to a whirlpool into which not only Vatsarāja but also his companions (वयं) found themselves immersed.
 
  **Page 45. उन्मङ्क्ष्यामः**The intermediate augment मुम्for the root मस्ज is laid down in the Second future tense by Pāṇini Sūtra:—मस्जिनशोर्झलि. Here लृट् is used not in the usual future significance, but to denote the happening of an unexpected contingency. Vide Pāṇini:—अनवक्लृप्त्यमर्षयोरकिंवृत्तेऽपि Vide Vṛtti thereon:— अनवक्लृप्तिरसंभावना. इति को नाम जानाति Whoever anticipated? Now i.e., after Vatsarāja has taken a new wife प्रासादेषु उष्यते I live again in mansions. Formerly I was squatting on in deserted spots along with Udayana in his bereavement. The very reverse is the case now. I roll about in comforts and luxuries. उष्यते is an Impersonal use of the predicate. वसामि or वसामः will be its Active voice. अन्तःपुरस्य दीर्घिकाः तासु **अन्तःपुरदीर्घिकासु स्नायते** An impersonal use of the root (ष्णै शौचे). Its active
-
-
 
 voice will be स्नायामि or स्नायामः. प्रकृत्या मधुराणि च तानि **सुकुमा**राणि च **प्रकृतिमधुरसुकुमा**राणि an instance of Karmadhāraya compound where both the members are adjectives.— विशेषणोभयपदकर्मधारय. Sweet and delicate by nature, qualifying मोदकखाद्यानि. खादितुं योग्यानि खाद्यानि, मोदकान्येव खाद्यानि **मोदकखाद्यानि** edibles. **खाद्यन्ते** Passive, मया or **अस्माभिः** understood. इति suggests a combination of the actions denoted in the previous clauses:—residence, bath and dining. न विद्यते अप्सरोभिः संवासः यस्मिन् सः **अनप्सरःसंवासः.**Celestial maidens are called Apsaras, because they emerged from the water of the milky ocean churned by gods and demons. **अद्भ्यः** सरन्तीति **अप्सरसः.** The only difference between my present life and life in heaven lies in the lack of Apsaras ladies in this world. उत्तरकुरुषु वासः**उत्तरकुरुवासः.** उत्तरकुरु is the land of Devas in the context. Mention is made of the land of Uttarakurus in the Aitareya Brāhmaṇa—
 
@@ -5478,19 +5022,13 @@ voice will be स्नायामि or स्नायामः. प्रक
 
  It is also referred to in Rāmāyaṇa (Kiṣkindhākāṇḍa, Ch. 43), in Mahābhārata (Vanaparva, Ch. 145 & Bhīṣmaparva, Ch. 7) and in Brahmāṇḍa-
 
-
-
 purāṇa (Ch. 48). It is identified with the northern portion of Garwal and Hūṇadeśa where the river Mandākinīand the Caitrakānana are situate. It is the Ottorakorra of Ptolemy. The Brahmāṇḍapurāṇa places it far to the north of India and states that it was bounded on the north by the ocean. It originally included the countries beyond the Himalayas.It was also known as Harivarṣa. In the words of the Aitareya Brāhmaṇa, this country is a place of gods, and no mortal could conquer it. According to the Mahābhārata, the women of this country enjoy sexual liberty. The head of Mahiṣa is supposed to bar the entrance to this country where the Siddhas reside. The trees are always covered with flowers and fruits, and all the seasons are very agreeable. The sands of this land are of gold, and a part of it is full of ruby. The men that are born here have fallen from Devaloka and are of high birth and handsome. The ladies are like Apsaras, and being free from illness, they live for 11,000 years. They have sprung from fire, water and mountain, and they rejoice with the gods. There is no jealousy amongst men and women. This region is only for those that are free from all desires and are quite indifferent to gains and losses, blames and praises alike. Some of the dead warriors proceed to this land.
-
-
 
  मया **अनुभूयते.** Celestial happiness is enjoyed by me. एकः खलु महान् दोषःBut there is one serious defect. मम आहारः my diet. **सुष्ठु** is an Indeclinable meaning well, opposite of दुष्टु or अपत्रु. न परिणमति does not get digested. Though sweet edibles are available in plenty, I cannot relish them owing to poor digestion. The consequential loss of sleep is dealt with in the next sentence. शोभनं प्रच्छदनं यस्यां तस्यां सुप्रच्छदनायां Covered with carpet. शय्यायां निद्रां न लभे. यथा meaning यतःgoverns the loss of sleep denoted by the verb. यथाin the sense of 'I infer' is sanctioned by Viśva:—यथाशब्दस्तु निर्दिष्टस्तुल्ययोगानुमानयोः. By the word the यथाcorresponding word तथा is also suggested. वातशोणितं, the disease known as वातरक्तं, a diseased state of Vāta, one of the three humours in the body, and of the blood giving rise to gout or rheumatism. अभित इव pervading the whole of my body. वर्तत इति पश्यामि . The word इवis a mere rhetorical flourish Next Vidūṣaka deplores the unhealthy state of his body. आभयपरिभूतं attacked by disease. कल्यस्य (नीरोगक्ष्य) वर्तः कल्यवर्तः Food which a person in a normal state of health would take. न विद्यते कल्यवर्तः यस्मिंस्तत् **अकल्यवर्तं च सुखं न.** There is no happiness of diet where there is no digestion.
 
  ततः प्रविशति चेटि. Now enters Padmāvatī's maidservant who had been in search of Vidūṣaka.
 
  **Page 46.** किंनिमित्तं For what purpose. अपि स्नातः.अपि at the beginning of a sentence marks inter-
-
-
 
 rogation. सुमनसः वर्णकानि च तेषां समाहारः **सुमनोवर्णकं** Flowers and unguents. They areintended for the use of the married couple andoffered usually by the bride's mother. वर्जयित्वा भोजनं The prohibition of food by the gluttonous Vidūṣaka has a peculiar vein of humour.
 
@@ -5500,16 +5038,12 @@ rogation. सुमनसः वर्णकानि च तेषां सम
 
  **Page 48.** ते शेफालिकागुल्मकाः Those bushes of Śephālikā creepers. The word 'those' suggests the extreme care with which they are tended. **कुसुमं एषां** संजातं इति **कुसुमिताः** न वा इति **पश्यामि .** The present
 
-
-
 tense is used in the sense of proximate future. Vide Pāṇini:—वर्तमानसामीप्ये वर्तमानवद्वा. तावत् is a mere verbal embellishment प्रवालान्तरितैः मौक्तिकलम्बकैः. The flowers appear like wreaths of pearls interspersed with coral, because they have a double colour, the white and the red. कि विलम्बसे Why do you make delay in plucking flowers? मुहूर्तमेव **मुहूर्तकं** Accusative of time modifying उपविशतु. Vide Pāṇini:—कालाध्वनोरत्यन्तसंयोगे. आर्येकिमत्र उपविशावः Padmāvatīasks the leave of Vāsavadattāto sit on the slab. एवं भवतु
 Accordingly Vāsavadattāgives leave. Of course it relates to the sitting of both.
 
  **Page 49.** तथा कृत्वा means कुसुमावचयं कृत्वा, having plucked the flowers. अर्धमनःशिलायाः पट्टः येषां तैः **अर्धमनःशिलापट्टैः** The Śephālikā flowers appear as though half strung with pieces of red arsenic ore. विचित्रताrefers to multi-colour, the red and white. मा भूयोऽवचित्य. The use of the Indeclinable past participle in the sense of a direction is un-Pāṇiniyan
 
 ** Page 50.** आर्यपुत्र इह आगत्य इमां कुसुमसमृद्धि दृष्ट्वासंमानिता भवेयम् It will read better if the word आर्यपुत्रः here is replaced by the Instrumental आर्यपुत्रेण. Padmāvatī feels it an honour done to herself if her lord comes and sees the plentiful output of flowers in the garden. प्रियस्ते भर्त्ता. Your lord is so much the object of your affection. That is why you say thus. दुःखेन कर्तुं शक्यं दुष्करं.Vide Pāṇini:—ईषद्दुःसुषु कृच्छ्राकृच्छ्रार्थेषुखल्. इयमपि Even Padmāvatī. अपि suggests the
-
-
 
 short duration of Padmāvatī's acquaintance with her lord. When a new acquaintance like Padmāvatīfeels so much depressed by the absence of her lover, how much more should I feel? अभिजातं, adverbial adjunct to मन्त्रितं. एकः खलु मे संदेहःPadmāvatīdoubts if Udayana would have entertained the same love for Vāsavadattā.
 
@@ -5519,13 +5053,9 @@ short duration of Padmāvatī's acquaintance with her lord. When a new acquainta
 
  **Page 53.** प्रचितानि पतितानि च बन्धुजीवकुसुमानि, तेषां विरलःपातः, तेन रमणीयं**प्रचितपतितबन्धुजीवकुसुमविरलपातरमणीयं**. The
 
-
-
 Bandhujīva flowers (a red kind of flowers) have grown in plenty and some of them have fallen on the floor, which is thereby thinly covered and fascinating.
 
  **कामेन** etc. The king describes his mental plight in this verse. कामेन by Cupid. Whenever a man is love-stricken, it is the practice of poets to describe him as hit by the arrows of love. तदा Then;when I was enticed by the allurement of the false elephant made by Pradyota's minister and eventually captured by him and confined and provided with opportunities for making acquaintance with Vāsavadattā. उज्जयिनीं गतेWhen I was in Ujjain, the city of Vāsavadattā's parents. अवन्तिराजतनयां refers to Vāsavadattā. स्वैरं दृष्ट्वाOn seeing her in private. कामप्यवस्थां गते When I reached an indescribableplight naturally due to love. मयि पञ्च इषवः पातिताः His five arrows were thrown at me by Cupid. Vide Amara:—अरविन्दमशोकं च चूतं च नवमल्लिका। नीलोत्पलं च पञ्चैते पञ्चवाणस्य सायकाः॥ A different nomenclature of the five arrows of Kāma is given thus:—उन्मादनस्तापनश्च शोषणः स्तम्भनस्तथा। संमोहनश्च कामस्य पञ्चबाणाः प्रकीर्तिताः॥ (मम) हृदयं अद्यापि तैः सशल्यं My heart is still smarting under the wound inflicted by them. वयंRoyal we. भूयश्च again. विद्धाःare hit with reference to Padmāvatī. मदनः, पञ्च इषवः यस्य सः पञ्चेषुः. यदा means यदि, अयं. षण्णां पूरणः षष्ठः. Vide Pāṇini:—तस्य पूरणे डट् and षट्कतिकतिपयचतुरां थुक्.शरः कथं पातितः. How is this sixth arrow
-
-
 
 thrown at me if Kāma is possessed of only five arrows?
 
@@ -5535,8 +5065,6 @@ Vidūṣaka speculates about the place where Padmāvatīis to be found. अस�
 
  **Page 55. ऋज्वायतां** etc. These words bring out the steady gait with which the swans travel in the sky. The whole of the verse qualifies at which refers to सारसपङ्क्ति, the object of पश्यामि. ऋज्वी च सा आयता च तांऋज्वायतांThe line of swans is straight and long. विरलां The swans march in order with intervals between one another. नता च सा उन्नता च तां नतोन्नतां Some swans fly high up and some low. Or, the whole line of swans sometimes sores high and at times marches low. निवर्तनेषु at all turnings i.e., when they change their direction. सप्तर्षिवंशवत्कुटिलां They march in a curve so as to make them appear
 
-
-
 like the constellation known as the Great Bear. The seven sages constituting that constellation are Marīci, Atri, Aṅgiras, Pulastya, Pulaha, Kratu and Vasiṣṭha. निर्मुच्यमानस्य भुजगस्य उदरवत् निर्मलं तस्य **निर्मुच्यमानभुजगोदरनिर्मलस्य** adjectival to अम्बरतलस्य. The region of the sky is as white as the body of a serpent which has just cast off its slough. विभज्यमानासीमां इव (स्थितां) The line of swans appears like a line of demarcation in the sky.
 
  कोकनद here refers to white lotus in view of its comparison with swans.
@@ -5545,25 +5073,17 @@ like the constellation known as the Great Bear. The seven sages constituting tha
 
 ** Page 57.** उपविश्य Vidūṣaka sits on the slab adjoining the Mādhavībower. ही ही An exclamation of grief. शरत्कालतीव्र आतपः. In autumn the sun's heat will be mild. The severity of the autumnal sun is a contradiction in terms. दुःखेन सोढुं शक्यः दुःसहः The heat on the slab is to be accounted for
 
-
-
 differently as will be apparent later on. बाढं is anexpression used by one who agrees to the sug-gestion of another. उभौ परिक्रामतः The king and Vidūṣaka advance a few steps towards the Mādhavībower. सर्वं आकुलं कर्तुकामःVasantaka is not actuated by the motive of upsetting the programme of Padmāvatīor anybody else, but in effect his attempt has that result. That is why he is said to be desirous of creating chaos. This refers to the disturbance of Padmāvatī's arrangement for protecting Vāsavadattāfrom the sight of strangers. मधुकराः परिनिलीनाः यस्यां तां **मधुकरपरिनिलीनां.** The usual grammatical form will be परिनिलीनमधुकरां. The change in the order of the component parts in the com-pound is to be justified on the analogy of आहिताग्नि—अग्न्याहित. अवलम्बलतां A plant which supports another plant. अवधूयBy shaking the main plant, the dependent plants also will move, and thus the entrance to the bower can be blocked.
 
 ** Page 58. आविह**An exclamation of sorrow. दास्याःपुत्रैः adjectival to मधुकरैः, by the wicked bees. The Aluksamāsa in दास्याःपुत्र is laid down by Pāṇini:—षष्ठ्याआक्रोशे. When the word is employed to denote a female slave's son, the compound दासीपुत्र is justified. मा मा भवानेवं. वादीत् understood. मधुकराणां संत्रासः मधुकरसंत्रासः परिहर्तुं योग्यः परिहार्यःOne ought not to scare away the bees. The reason for this suggestion is. furnished in the next verse.
-
-
 
  मधुनो मदः, तेन कलाः मधुमदकलाःMaking sweet and indistinct humming due to the intoxication of wine, adjectival to मधुकराः. कल means अव्यक्तमधुर. प्रियाभिः उपगूढाःembraced by their dear ones. The two adjec.tival phrases suggest the blissful state of bees. पादन्यासविषण्णाः(सन्तः) They will be worried if we place our footsteps in our march towards the bower. वयमिवEven as we are. This shows that the feeling of separation from Vāsavadattā reigns supreme in the heart of Udayana, throwing into the shade the bliss of his new love. According to Mahāmahopādhyāya Gaṇapati Sastri this substantially indicates that Karuṇa Rasa or pathos is brought out as the dominant emotion of the play. Since Udayana is under the belief that Vāsavadattā is lost to him for ever the feeling is one of शोक or grief on his part which is the foundation for Karuṇa rasa. To Vāsavadattā, on the other hand, the feeling is one of separation which serves as the foundation for विप्रलम्भशृङ्गार. As compared with these two Rasas which loom large in the development of the plot, the mutual love of Udayana and Padmāvatīplays a minor part. तस्मात् Since it will be a sin to separate the happy couples of bees. इहैव, on the slab outside the bower. आसिष्यावहे We will both sit. Let. us not try to walk into the bower.
 
 ** Page 59.** राजा, अवलोक्य and the verse पादाक्रान्तानि do not find a place in the manuscripts of
 
-
-
 Svapnavāsavadatta. But there is the following remark in the Nāṭyadarpaṇa of Rāmacandra. यथा भासकृते स्वप्नवासवदत्ते शेफालिकामण्डपशिलातलमवलोक्य वत्सराजः—पादाक्रान्तानि ...गता॥ पूर्वार्धं लिङ्गं उत्तरार्धमनुमानम्. Rāmacandra has thus cited this verse to illustrate the figure of speech known as Anumāna, and this verse according to him is taken from Bhāsa's Svapnavāsavadatta. On the strength of this authority Mahāmahopādhyāya Ganapati Sastri has introduced this passage in a suitable context at this place. पुष्पाणि पादाक्रान्तानि The Śephālikāflowers are seen trampled upon इदं शिलातलं सोष्म च. And this slab is hot. On these two grounds an inference is drawn and set out in the second half of the verse. नूनं marks the beginning of an inferential statement. काचित् इह आसीना मां दृष्ट्वा सहसा गता. The inference relating to the lady's sitting is drawn from the heat of the slab, and her sudden walk-out from the state of flowers on the floor.
 
  रुद्धाः खलु स्मो वयं Since both the king and Vidūṣaka are sitting on the slab outside the bower, Padmāvatīand her group are practically confined within. दिष्ट्याउपविष्टःFortunately my lord has sat down and not come into the bower. दिष्ट्याप्रकृतिस्थशरीरःVāsavadattāis glad that her lord is in a sound state of health and has recovered from his supposed bereavement. साश्रुपाता Vāsavadattā's eyes are filled with tears at the sight of her lord.
-
-
 
  **Page 60.** When this phenomenon was observed by the Ceṭī, Vāsavadattāaccounts for her tears by a fictitious reason—काशकुसुमरेणुना. शून्यं खल्विदं प्रमदवनं. The garden is quite lonely. There is nobody to overhear our conversation. So I should like to ask you a question which has been long troubling my mind. छन्दतः. पृच्छ understood. छन्द means desire. छन्दतःmeans according to one's free will. तदानीं (स्थिता) वासवदत्ता इदानीं (वर्तमाना) पद्मावती वा Who is the dearer one to you? Vāsavadattāof the past or Padmāvatī of the present? बहुमानविषयः संकटः बहुमानसंकटःतस्मिन् बहुमानसंकटे. In the sore strait of expressing a difference of estimation.
 
@@ -5571,13 +5091,9 @@ Svapnavāsavadatta. But there is the following remark in the Nāṭyadarpaṇa o
 
 ** Page 62.** पुरोभागिता usually means jealousy. It must be construed in the context to mean stupidity. एष रुद्धोऽत्र भवान् Here you are confined. I won't
 
-
-
 allow you to stir an inch unless you answer this question. तेन हि पश्यामस्तावत् Let us see. We will measure our strength against each other. You shall not extract the information from me by force.प्रसीदतुVidūṣaka withdraws his threat of force and appeals to the king in the name of friendship.
 
  **Page 63.**श्रूयतां The king discloses his true heart. पद्मावती रूपशीलमाधुर्यैः By reason of beauty, character and sweetness of speech. The three words refer to the physical, mental and vocal qualities. यद्यपि मम बहुमताAlthough Padmāvatīcommands my esteem. तु but still. वासवदत्तया बद्धं **वासवदत्ताबद्धं** मे मनः न हरति, does not attract my mind which has been already captured by Vāsavadattā. तावत्is either a rhetorical flourish or may be construed to mean 'to the same extent as Vāsavadattā.' भवतुBe it so. I do not mind any amount of misery suffered by me. अस्य परिखेदस्य वेतनं दत्तं All my woes have been amply compensated. अत्र अज्ञातवासोऽपि Even my living incognito by the side of Padmāvatī. बहुगुणः संपद्यते, has yielded a number of fruits, the most prominent being my knowledge of my lord's superior attachment towards me. न विद्यते दाक्षिण्यं यस्य सः अदाक्षिण्यः दक्षिण is a type of love-hero who accords equal treatment to all his wives. तुल्योऽनेकत्र दक्षिणः.If he is partial to one to the prejudice of another, he is lacking in दाक्षिण्य. Contrary to what is suggested by the Ceṭī, Padmāvatīsays that far from
-
-
 
 lacking in दाक्षिण्यher lord is fully दक्षिण inasmuch as he continues to cherish a superior love towards his deceased wife.
 
@@ -5587,8 +5103,6 @@ lacking in दाक्षिण्यher lord is fully दक्षिण inasm
 
  **Page 66.** स्मरेदानीमेतां. एतां means मां. सर्वमेतत्कथयिष्येI will report to Vāsavadattāthat you extolled Padmāvatī.
 
-
-
  **अनेन** etc. Your joke has led my mind to go into dejection इयं वाणी refers to the statement into सर्वमेतत्कथयिष्ये देव्यै वासवदत्तायै. निःसृता It has emerged from my lips and is not uttered by mewith consciousness.
 
  रमणीयः कथायोगःThe pleasant narration of Udayana about his love. नृशंसेन Vidūṣaka is merciless inasmuch as he spoiled the thread of a pleasant. narration. विसंवादितः checked.
@@ -5597,13 +5111,9 @@ lacking in दाक्षिण्यher lord is fully दक्षिण inasm
 
  **दुःखं** etc. दुःखं त्यक्तुं, to wipe out the grief due to the loss of Vāsavadattā. अनुरागः Love for Padmāvatī. (मया) बद्धं मूलं यस्य सः **बद्धमूलः**, was made to take its root. स्मृत्वा स्मृत्वा But by recalling Vāsavadattā ever and anon. दुःखं नवत्वं याति My grief grows afresh. In these circumstances the only antidote for grief is to give an outlet for it by tears. Vide the parallel from Bhavabhūti:—पूरोत्पीडे तटाकस्य परवाहः प्रतिक्रिया। **शोकक्षोभे** च हृदयं प्रलापैरेव धार्यते॥ This idea is brought out
 
-
-
 in the second half of the verse. एषा यात्रा This is the immemorial practice. The feminine in एषाis due to juxtaposition with यात्रा which is the विधेय inthe sentence. Which is the practice? यत् बाष्पं विमुच्य प्राप्तानृण्या सती बुद्धिःइह प्रसादं याति The mind is freed from debt by discharging tears, and then it attains tranquillity. इह means in such cases of misery. The diction of this verse has a peculiar archaic strain about it. In the first foot रागः the subject does not give up grief, but it is the person. In the second foot the subject दुःखंis not the author of the action denoted in स्मृत्वा. Similarly in the second half बाष्पविमोक is an act of the person whereas प्रसादगमन is an act of बुद्धि. In all these three sentences the subjects of the subsidiary clause or phrase differ from those of the principal clause. Such usages are rarely met with in later classical literature.
 
 ** Page 68** अश्रुपातक्लिन्नं The tears on the face of Udayana are due to his thought of Vāsavadattā. मुखार्थं उदकं **मुखोदकं** बाष्पाकुलं (अत एव) पटान्तरितं The face being flooded with tears, seems to be covered with a veil of cloth. अथवा तिष्ठ त्वं This negatives the former suggestion that all should go. अहमेवगमिष्यामि I shall go. The idea of Vāsavadattāis to leave Padmāvatībehind to console her griefstricken lord. किं नु खलु **प्रविशामि** Since Padmāvatīis within the bower, प्रविशामि cannot be construed in
-
-
 
 its strict sense of entry. Perhaps it is loosely used for उपसर्पामि .
 
@@ -5613,21 +5123,15 @@ its strict sense of entry. Perhaps it is loosely used for उपसर्पा�
 
 सदाक्षिण्यस्य जनस्य परिजनोऽपि सदाक्षिण्य एव.The first सदाक्षिण्य refers to Udayana, and the second one to Vidūṣaka. Far from getting wild with Vidūṣaka for suppressing the truth, Padmāvatī
 
-
-
 was charitable enough to appreciate the anxiety of Vidūṣaka not to wound her feelings by referring to her lord's reminiscences of her co-wife. इदं मुखोदक This presumes a previous stagedirection for the handing over of water by Vidūṣaka to Padmāvatī. अपवार्य This stage-direction is given when a conversation is made aside to somebody to the exclusion of the hearing of another. कर्णे The whisper in the ear evidently relates to the mode in which Vidūṣaka explained away the tears on Udayana's face. This is done to avoid a conflict of version about the cause of Udayana's tears. साधु वसन्तकThe king applauds the resourceful expla-nation given by Vidūṣaka. आचम्य The sipping of water here indicates the washing of eyes as well.
 
  **Page 71.शरच्छशाङ्क** etc. भामितुं शीलं अस्या इति भामिनी=√भाम्+इनि(णिनि)+ई(ङीप्) Or भामः(क्रोधः)+इन्(इनि)+इ(ङीप्). The word is derived from the root भाम् to get angry. भामिनी literally means a lady possessed of anger or irascible temper, a sensitive lady. Loosely it means a lady of superfine taste. It is often used as a term of endearment to denote any noble-born lady. भामिन्याः संबुद्धिः भामिनि Nominative of address referring to Padmāvatī. इदं मम मुखं This my face. अश्रुणः पातः अश्रुपातः, अश्रुपातेन सह बर्तत इति साश्रुपातं is filled with tears. काशपुष्पाणां लवः तेन **काशपुष्पलवे**नby the dust of the reed flowers. This is qualified by two adjectives. शशः **अङ्कः** यस्य सः शशा**ङ्कः**
-
-
 
 lit., the hare-marked. It means the moon. शरदः शशाङ्कः शरच्छशाङ्कःThe autumnal moon is particularly white. **शरच्छशाङ्क** इव गौरः तेन **शरच्छशाङ्कगौरेण**. The Kāśa pollen is white like the autumnal moon. वातेन आविद्धः तेन वाताविद्धेन wafted by the breeze. This verse is cited by Vāmana in his Kāvyālaṅkāra to illustrate the figure of speech known as व्याजोक्ति.
 
  आत्मगतं. Repenting the untruth told, the king justifies it within his own mind. इयं refers to Padmāvatī. बाला young. नवोद्वाहा newly married. These are the two factors which necessitate the avoidance of unpleasant speech towards her. सत्यं श्रुत्वा If she hears the real truth viz., that the tears have appeared due to his recollection of Vāsavadattā. व्यथां व्रजेत् She will be pained. इयं धीरस्वभावा **कामं** No doubt she is brave. तु nevertheless. स्त्रीस्वभावः The general nature of womankind. कातरः (अस्ति) is timid.
 
  Padmāvatī, knowing as she did the truth, remains silent, and the king too, ashamed as he was of having told a lie, became mute. Vidūṣaka intervenes at this stage and throws out a suggestion for their separation for a short duration to relieve them both of their perplexity. अपरं च तत् अहश्च अपराह्नः, तस्य कालः तस्मिन् अपरा**ह्नकाले** भवन्तं **अग्रतः** **कृत्वा** At the meeting of friends in the afternoon, the first interview of Darśaka is with yourself. It has been the practice.
-
-
 
  **Page 72.** बाढं The king readily agrees to the suggestion of Vidūṣaka as it extricates him from an extremely embarrassing situation. प्रथमः कल्पः The first duty.
 
@@ -5639,17 +5143,11 @@ End of the Fourth Act.
 
 \_\_\_\_\_\_\_
 
-
-
  This Act deals with the chief incident of the drama which has contributed to its title. In the last Act the sufferings of Udayana in his wakeful moments have been related, and this Act describes how the memory of Vāsavadattā haunts him in his dreams, and strangely enough, how when he was muttering in a dream he happened to have a vision of Vāsavadattā in flesh and blood. It may be remembered that this appearance of the real Vāsavadattāas though in apparition is responsible for the title of the drama— Svapnavāsavadattāor the Vision of Vāsavadattā. This incident of dream takes place while Udayana was reposing on a cushion prepared for Padmāvatīin the marinahouse. To lead up the plot to that stage, a Praveśaka is introduced at the beginning of this Act. In the earlier portion the Interlude consists of a dialogue between two servant-maids of Padmavatī viz., Padminikā and Madhukarikā, and in the later portion between Padminikā and Vidūṣaka. In a Praveśaka, according to the rules of dramaturgy, inferior characters take part exclusively and the conversation is carried on entirely in Prākṛt. In the conversation between Padminikāand Madhukarikā the news is disclosed of Padmāvatī's headache and the consequential arrangements of the
-
-
 
 cushion and the like for her in the marina-house. The latter portion of the Interlude deals with the grave concern of Vidūṣaka about the sufferings. of Udayana due to separation from Vāsavadattā, and the news of Padmāvatī's headache is communicated by Padminikā to Vidūṣaka which increases his alarm and goads him on to the side of the king for the disclosure of the news. Vidūṣaka ascertains from Padminikāthat the sick-bed of Padmāvatīis stretched out at the marina-house where the king will have to hasten to meet Padmāvatī.
 
  **Page 73.** दुक्खाविदेत्ति in Prākṛt may be rendered in Sanskrit as दुःखितेति or दुःखापितेति दुःखिता is the Past passive participle of the causal of the root दुःखof the 10th conjugation. If the rendering is दुःखापिता it will have to be dissolved thus. दुःखं आप्नोतीति दुःखापा, दुःखापा कृता दुःखापिता Or, it may be taken to be an unpāṇiniyan form of the Past passive participle of the causal of the rootदुःख of the 10th conjugation. means 'call.' Later on Padminikā rectifies the statement, because a direction calling Āvantikāwill not be in keeping with the esteem in which she is held in the harem. She therefore modifies it by saying that Avantikā is simply to be informed of Padmāvatī's headache, and that on hearing this Āvantikāwill hasten to the side of Padmāvatīof her own accord.
-
-
 
  **Page 74.** कुत्र शयनीयं रचितं भर्तृदारिकायाः Madhukari'kā makes enquiry about the place where the bedding is arranged for Padmāvatī, because she in her turn will have to communicate it to Āvantikā.
 
@@ -5661,8 +5159,6 @@ cushion and the like for her in the marina-house. The latter portion of the Inte
 
 ** श्लाघ्यां** etc. In this verse Udayana painfully bemoans the fate that overtook Vāsavadattā. श्लाघितुं योग्यां**श्लाघ्यां**praiseworthy, adjectival to तां. In the absence of qualification the praiseworthiness of Vāsavadattā stands good in every respect—beauty, character, sweetness and all other traits that make for a noble lady. अवन्तेः नृपतिः **तस्य** अवन्तिनृपतेः Feminine nouns ending in इare sometimes used as ending in and vice versa. The use of अवन्ति for
 
-
-
 **अवन्ती** in the context is an illustration of the latter principle. सदृशीं Vāsavadattā is a worthy daughter of the king of Avantī, being equal to him in very many respects. तन्वाः जायत इति तनूजा तां **तनूजां**. Feminine nouns ending in उor ऊ are sometimes used as ending in **ऊ**or उ. To the former category belongs the word तनू used in the context. तांis here used without the mention of the word वासवदत्ता, because the hero is perpetually remembering her in his mind and as such the word 'her' is sufficient to indicate Vāsavadattā. चिन्तयामि I recall her to my mind. What became of her? लावाणके, हुतं वहतीति हुतवहः तेन हुतवहेन The fire is called हुतवह, because he carries the oblations offered in the fire to gods. हुतवहेन, हृता अङ्गयष्टिः यस्यास्तां **हृताङ्गयष्टिं.** अङ्गं यष्टिरिव अङ्गयष्टिः अङ्गयष्टि means a praiseworthy body. Her delicate body was consumed by the fire at Lāvāṇaka. A comparison is set out for the consumption of her body in the fire by the phrase— हिमहतां पद्मिनीमिव. The word पद्मिनी refers. either to a lotus flower or a lotus-pond. It may be taken in either sense in the context. Vide the following parallel from Vālmīki Rāmāyaṇa:—
 
 हिमहतमलिनीव नष्टशोभा व्यसनपरम्परया निपीड्यमाना।  
@@ -5670,15 +5166,11 @@ cushion and the like for her in the marina-house. The latter portion of the Inte
 
 That the memory of Vāsavadattā persists in spite of circumstances to the contrary is brought out by the adjectival phrase— **कालक्र**मेण पुनरागतदारभारः कालक्रमेण is expressive of the long lapse of time since the
 
-
-
 death of Vāsavadattā. आगत suggests that the second matrimony came to him voluntarily and without any e**ff**ort on his part, perhaps in spite **of h**imself. दारभारःsuggests that the taking of a second wife after Vāsavadattāis merely felt as a drudgery by the hero.
 
  **Page 78. रूपश्रिया** etc. पूर्वश्वासौ अभिघातश्च पूर्वाभिघातः, रुजा सह वर्तत इति सरुक्, पूर्वाभिघातेन सरुक् तस्य पूर्वाभिघातसरुजः adjectival to मम. पूर्वाभिघात 'the previous blow' refers to the tragic end of Vāsavadattā. The wound inflicted by that blow has not yet healed. Nevertheless अद्य शोकः मन्द इव My grief is somewhat diminished. How? प्रियां लब्ध्वा Through the acquisition of Padmāvatī. How is she? रूपस्य श्रीः तया **रूपश्रिया** समुदितां Abounding in beauty or loveliness. गुणतःThe suffix तस्is here used in the Instrumental significance— सार्वविभक्तिकस्तसिः च युक्ताम् possessed of good qualities. The superior charm of Padmāvatīhas a little alleviated the sufferings of Udayana due to the separation of Vāsavadattā. अनुभूतं दुःखं येन सः अनुभूतदुःखः (सन्) having once suffered misery. This furnishes the reason for Udayana's entertaining fears about Padmāvatī as well. पद्मावतीमपि तथा एव In the same way as Vāsavadatā. समर्थयामि I apprehend that a similar fate will overtake Padmāvatī.
 
  **Page 79.**दीपप्रभावसूचिरूपःThe dim light glimmering near the cushion spread for Padmāvatīcauses the illusion of snake in the mind of Vidūṣaka
-
-
 
 on seeing a wreath fallen on the ground. काकोदर means a serpent. काकस्येव उदरं यस्य काकोदरः or काकोलं (विषं) उदरे अस्य.
 
@@ -5688,11 +5180,7 @@ on seeing a wreath fallen on the ground. काकोदर means a serpent. क
 
  पद्मावती आगत्य निर्गता भवेत्. Relying on the maidservant's statement and not finding Padmāvatīon the bed, Vidūṣaka concludes that she must have come and gone. अनागतया भवितव्यम्, पद्मावत्या understood. The reason for the inference is set out by the king himself in the next verse.
 
-
-
  **Page 81. शय्या नावनता** etc. शय्या आस्तृतसमा. The bed is as even as when originally spread. The evenness suggests the absence of contact with any person. न अवनता It bears no depression which would have been the case if anybody had lain on it. Further, न व्याकुलप्रच्छदा व्याकुलः प्रच्छदः यस्याः सा Its carpet-cover is not disturbed. Further शिरोपधानं अमलं the pillow is spotless clean. शिरस्य (शिरसः) उपधानं शिरोपधानं The pillow for the head. The word शिर ending in अ is sometimes used instead of शिरस्. Vide the following extract from the commentary of Amarakośa:—शिरोवाची शिरोऽहन्तो रजोवाची रजस्तथा। विचकर्त शिरान्द्रौणिः, इति कण्ठभूषणालंकारे उक्तम्। शीर्षस्य अभिघातः तस्य औषधानि तैः शीर्षाभिघातौषधैः न **क्लि**ष्टम्. The pillow is not sullied by the curative pastes generally applied to counteract headache. So far the characteristics of the bed have been referred to, which support the inference that Padmāvatīhad not come. the third foot of the verse a characteristic of the bed-room pointing to the same conclusion is set out. रोगे In sickness दृष्टिविलोभनं जनयितुं काचित् शोभा न कृता. If she had come there, certain pictures would have been drawn on the walls of the house to offer relief to the eyes. No such painting is to be seen. पुनःFurther, प्राणी any human being. **रुजा** Instrumental शयनं प्राप्य, having come to bed in sickness. शीघ्रं स्वयं न मुञ्चति, will not himself or herself leave the bed so soon. This rules out the
-
-
 
 possibility of the bed and the room having been re-arranged after Padmāvatī's departure.
 
@@ -5700,19 +5188,13 @@ possibility of the bed and the room having been re-arranged after Padmāvatī's 
 
  **स्मरामि** etc. I remember. The talk of Ujjain recalls to my mind Vāsavadattā. **अवन्त्या** Instrumental singular, अधिपत्तेः of one who is lord through Avantīi.e., the king ofAvantī.सुतायाः is to betaken along with स्मरामि. I remember the daughterof the king of Avantī. The nouns governed by स्मृ and its synonyms sometimes take the Genitive instead of the Accusative case. Vide Pāṇini:—अधीगर्थदयेशां कर्मणि. Hence the use of the Genitive in सुतायाः. The whole of the second foot is an adjectival
 
-
-
 phrase qualifying सुतायाः. प्रस्थानकाले At the time of departure from Avantī. It can be gathered from Pratijñāyaugandharāyaṇa that Vatsarāja effected an escape along with Vāsavadattāfrom Avantīwhere he had been confined and went back to his own city Kāuśāmbī in pursuance of a plan contrived by his clever minister Yaugandharāyaṇa. स्वजनं स्मरन्त्याः She remembered her parents and other kinsmen. प्रवृत्तं नयनान्तलग्नं बाष्पं. Tears streamed forth from her eyes when she thought of her parents. स्नेहात् may be taken either along with प्रवृत्तं or पातयन्त्याःShe wept as she tenderly thought of her parents or she spilt her tears on my own breast out of love. ममैव उरसि पातयन्त्याः adjectival to सुतायाः.
 
  **Page 83.** Verse 6 is a continuation of Verse 5. बहुशः उपदेशेष्वपि At the very numerous occasions when instruction in lute was imparted by me to Vāsavadattā. माम् ईक्षमाणया She was absorbed in looking at me यया, स्रस्तः कोणः यस्मिन् सः तेन **स्त्रस्तकोणेन.** कोण meansthe bow of the lute. Vide Amara:—कोणो वीणादिवादनं.A bow was used in ancient lute-play. The translation:— 'While her hand had slipped from the stops' is given in conformity with the modern practice. हस्तेन By means of the hand from which the lute-bow had slipped. आकाशे वादितं आकाशवादितं She plied her fingers in the air. As a result of the use of the word यया, तस्याः has to be understood, adjectival to सुतायाःin the previous stanza.
 
-
-
  अन्यां कथयिष्यामि The noun qualified by अन्यां is कथां understood. Since a story of Ujjain rouses unpleasant memories of the king, Vidūṣaka now proposes to narrate a tale relating to some other city. अस्ति नगरं etc. Here again the blunder of Vidūṣaka is calculated to rouse the mirth of the audience, founded as it is on a confusion of the names between a city and the king. काम्पिल्य is the name of the city and ब्रह्मदत्त that of the king, whereas Vidūṣaka in his pretended stupidity makes a mutation of names between the two. किमिति किमिति Seeing that the mistake was so glaring, the king puts this question in order to ascertain whether Vidūṣaka meant what he said. Inreply to the question Vidūşaka repeats the same statement. मूर्ख The king addresses Vidūṣaka as a fool for labouring under a serious confusion. राजा ब्रह्मदत्तः The king teaches Vidūṣaka the proper method of stating. अभिधीयतां Imperative 3rd person singular of धा with अभि. त्वया understood. Its rendering in the Active voice will be अभिधत्स्व.
 
 ** Page 84.**किं राजा ब्रह्मदत्तः By reproducing the statement taught by the king as it ought to be and asking him if it is alright, Vidūṣaka tries to impress it deep in his mind. एवमेतत्The king endorses the correctness of the statement now made by Vidūṣaka. Then Vidūṣaka repeats the statement a number of times to make it his own.
-
-
 
 On seeing the king asleep Vidūṣaka also desires to go to sleep. But owing to the chill of the weather he goes out to take his blanket.The exit of Vidūṣaka, it may be seen, facilitates the episode of Vāsavadattāwhich is just to begin.
 
@@ -5722,25 +5204,17 @@ On seeing the king asleep Vidūṣaka also desires to go to sleep. But owing to 
 
 ** Page 86.**In her soliloquy after the exit of the Ceṭī, Vāsavadattā condemns the cruelty of fate
 
-
-
 in bringing about the illness of Padmāvatīwho is the only solace of her lord in his separation from herself.The passage beginning fromअहो परिजनस्य प्रमादः and ending withयावच्छयिष्ये is spoken by Vāsavadattā in the belief that the person lying on bed in the Marina-house was Padmāvatī. The circumstances that contribute to the mistake of Vāsavadattāare (**1**) that the apartment in question was that of Padmāvatī, (**2**) it has been intimated by Madhukarikā that Padmāvatī's bed was laid out in the Marina-house, (**3**) the room itself was lit insufficiently by means of a dim light place low in the room in order to avoid glare to the sick patient. Further,it being a chill hour of the night as has been stated by Vidūṣaka, the king has most probably covered his body and gone to sleep. Such being the case, no wonder Vāsavadattā mistakes the hero for Padmāvatī.
 
 ** Page 87.**अविच्छिन्नः सुखः निःश्वासः यस्याः सा अविच्छिन्नसुखनिःश्वासा The uninterrupted and easy breathing of the hero makes Vāsavadattāthink that Padmāvatī has been relieved of her illness. निवृत्तरोगया भवितव्यं, पद्मावत्याunderstood. Thinking that a mere sitting by her side will not be quite in keeping with her tenderness and love for Padmāvatī, Vāsavadattā thinks of embracing her. यावच्छयिष्ये. To give effect to her intention of embracing Padmāvatī, Vāsavadattā lies down on the couch. अस्वप्नः स्वप्नः(स्वप्नवान्) भवति
-
-
 
 स्वप्नायते= स्वप्न + क्यङ् mutters in a dream. अत्र स्वप्नशब्दः वृत्तिविषये तद्वति वर्तते. Vide Pāṇini:— भृशादिभ्यो भुव्यच्वेर्लोपश्च हलःउत्स्वप्नायते will read better. हा वासवदत्ते This utterance in dream is quite consistent with the fact that the king has gone to sleep remembering Vāsavadattā. हं आर्यपुत्रःVāsavadattā is taken aback when she finds out her mistake. किं नु खलु दृष्टाऽस्मि Have I been seen? आर्यपुत्रेणby my lord, understood. प्रतिज्ञाभारः The very heavy responsibility undertaken by Yaugandharāyaṇa with a view to re-instating the king in his original full glory. निष्फलः संवृत्तः Since the fruition of Yaugandharāyaṇa's plans depends on the concealment of Vāsavadattā, she fears lest the minister's plans should be frustrated.
 
  **Page 88.**दिष्ट्या स्वप्नायते. The further utterance of the king हा अवन्तिराजपुत्रि convinces Vāsavadattā that the king was only dreaming, and relieves her of an embarrassing situation. हा प्रिये etc. The dream continues. आलपामि I speak. This is in response to the king's wish— देहि मे प्रतिवचनम्.The response is given promptly as Vāsavadattā is sure that the king was only dreaming. किं कुपितासि Perhaps the words of Vāsavadattā आलपामि भर्तः आलपामि have faintly reached the hearing of the king even in his dream. Vāsavadattāreplies नहि नहि, दुःखितास्मि. नहि नहि is separate from दुःखिता अस्मि. This also has perhaps penetrated into his ears, and accordingly he puts the question यद्यकुपिता किमर्थं नालंकृतासि इतः परं किं. इतः
 
-
-
 refers to the fact of separation. This has not reached the ears of the king, and he therefore asks किं विरचिकां स्मरसि. Viracikā is the name of a Bhoginī or kept mistress of the king. सरोषंThe mention of a concubine will naturally rouse the indignation of a wife. आःAn interjection denoting rage. अपेहि addressed to Viracikā present in the mind's eye. इहापि विरचिकाEven in Padmāvatī's house, has she a place? Not only in Kauśāmbī?
 
 ** Page 89.**This excited pronouncement of Vāsavadattā, loud as it is bound to be, can be conceived of to have reached the ears of Udayana in his dream, and hence follows an apology from him— तेन हिetc. विरचिकार्थं On account of Viracikā; on account of my guilt in mentioning the name of Viracikā. भवतीं प्रसादयामिItender my apologies to you. हस्तौ प्रसारयति It is usual for a man to extend his arms in front when he begs of another to excuse him. It may be remembered that it is not uncommon in the world for a person in dream and a person in wakefulness to speak to each other in the strain in which the poet has conceived in this portion of the play. Having remained long, Vāsavadattāthinks that it is high time to be off if she wants to avoid being noticed by anybody.But before going out of the room she feels it her duty to lift her lord's hand hanging down the cot and restore it to its place on the cot. तथा कृत्वा निष्कान्ता.
-
-
 
 She does accordingly and walks out of the room. सहसोत्थाय The delightful touch of Vāsavadattā makes the king rise from bed all of a sudden, and he calls out for Vāsavadattāand tries to pursue her though she has already disappeared.
 
@@ -5749,8 +5223,6 @@ She does accordingly and walks out of the room. सहसोत्थाय The 
 ** Page 90.** धरते is a mistake for ध्रियते. मा मा एवं. वादीःunderstood. Don't say so.
 
  **शय्यायां** etc.हे सखे शय्यायाम् अवसुप्तं मां बोधयित्वा (सा) गता. दग्धा इति पूर्व ब्रुवता रुमण्वता वश्चितोऽस्मि. After this verse Mahāmahopādhyāya Gaṇapati Sastri adds the following verse on the strength of a citation in the eighth chapter of Bhāvaprakāśa by reason of its appropriateness in the context. किं च, पद्मावत्या मुखं वीक्ष्य विशेषकविभूषितम्। जीवत्यावन्तिकेत्येवं पूर्व विज्ञातमेव मे॥ This is cited there as an example of वीजसमुद्भेद and described as an extract from Svapnavāsavadatta. But the actual citation there has the words ज्ञातं भूमिभुजा यथा instead of पूर्वं विज्ञातमेव मे. The last foot with this latter reading is purely the suggestion of Mahāmahopādhyāya Ganapati Sastri. He also suggests the following alternative readings. ज्ञातमेव पुरा मया
-
-
 
 and पुरैव विदितं मया. The last foot as cited in Bhāvaprakāśa has been altered by Mahāmahopādhyāya so as to fit in with the context. This śloka is not to be found in any of the manuscripts so far available.
 
@@ -5762,8 +5234,6 @@ and पुरैव विदितं मया. The last foot as cited in Bhā
 
  **स्वप्नस्यान्ते**etc. Here the king re-iterates that it was Vāsavadattāthat appeared before him and not any Yakṣa lady. स्वप्नस्य अन्ते After the dream ended, not while it continued.विवुद्धेन When I woke up, not slept. मया understood. दृष्टंseen, not
 
-
-
 imagined. What was seen? मुखं Her face. तस्याः understood. Not merely was she alive. चरित्रमपि रक्षन्त्याः adjectival to तस्याः. She has even kept her character beyond reproach. Her person itself be tokens the high character preserved by her. नेत्राभ्यां विप्रोषितं अञ्जनंयस्मिंस्तत् नेत्रविप्रोषिताञ्जनं adjectival to मुखं. Her eyes have long since discontinued the use of collyrium. The uncombed hair which is another characteristic of women keeping their character during separation is referred to in the next adjective दीर्घालकं दीर्घाः अलकाः यस्मिन् तत्.
 
  **Page 92. योऽयं**etc. This whole verse can be treated as an object of the preceding पश्य.योऽय बाहुः निपीडितः (सन्) रोमहर्षं न मुञ्चति, तं (understood) पश्य or योऽयं बाहुः निपीडितः, सः (understood) रोमहर्ष न मुञ्चति, पश्य. संत्रस्तया While pressing my hand, Vāsavadattā feared lest she should be detected. स्वप्नेऽपि Even when I was asleep. उत्पन्नः संस्पर्शः यस्य सः उत्पन्नसंस्पर्शः My hand experienced the pleasure of touch. रोमहर्षःmeans the bristling of hair which is one of the eight Sāttvikabhāvas characteristic of love.
@@ -5772,22 +5242,16 @@ imagined. What was seen? मुखं Her face. तस्याः understood. N
 
  प्रविश्य काञ्चुकीयः The chamberlain enters and approaches Udayana to deliver the message of King Darśaka. The passage beginning with एष खलु and ending with वत्साश्च हस्ते तव represents the message of Darśaka, the brother of Padmāvatī.
 
-
-
 आरुणि is the name of Udayana's foe who had captured a large portion of his kingdom. जयत्वार्यपुत्रः. आर्यपुत्र which is a term of address by a wife to her husband, is used here by the chamberlain because of his constant intimate touch with Padmāvatīwho had been used to address Udayana by that term. This shows the high affection of the chamberlain for the princess. अभिघातयितुं Infinitive of purpose of the causal of हन् with अभि. हस्तिनश्च अश्वाश्च रथाश्चहस्त्यश्वरथं, तेन (अनुगताः) पदातयः येषु तानि हस्त्यश्वरथपदातीनि. मम इमानि मामकानि. मामक= मम (ममक) +अण्. Other forms are मामकीन and मदीय by adding खञ् and छ respectively.Other
 examples:— for तव— तावक तावकीन and त्वदीय, for युष्मद् plural— यौष्माक यौष्माकीण and युष्मदीप, for अस्मद् plural— आस्माक आस्माकीन and अस्मदीय. Vide Pāṇini:— युष्मदस्मदोरन्यतरस्यां खञ्च, तस्मिन्नणि च युष्माकास्माकौ and तवकममकावेकवचने. विजयस्य अङ्गानि विजयाङ्गानि Armies conducive to victory. संनद्धानि= सं–नह् + त Past participle.
 
  **Page 93.भिन्नास्ते**etc. ते रिपवः भिन्नाः. Your enemies are divided among themselves by the superior भेदोपाय practised by your ministers. Since disunion has been created in the enemies' camp, success can be easily had. भवद्गुणरताःपौराः Notwithstanding the annexation of territory by foes, your subjects remain loyal to you on account of your superior virtues. समाश्वासिताः They have been consoled by ministers assuring the retrieval of the lost
-
-
 
 kingdom. भवत्प्रयाणसमये यापि पाष्णीं What ought to be your rear-guard when you march for your conquest. तस्याः विधानं कृतं Safeguard has been well provided for it. The word meaning rear-guard belongs to the feminine gender. Vide Medinī:— पार्ष्णिः स्यादुन्मदः स्त्रियाम्। स्त्रियां द्वयोः सैन्यपृष्ठे पादग्रन्थेऽधरेऽपि च॥ पार्ष्णिः+ई (ङीष्) = पार्ष्णी. Vide Gaṇasūtra:— कृदिकारादक्तिनः. अरिप्रमाथजननं यद्यत्साध्यं तत्तत् मया अनुष्टितं, बलैः त्रिपथगा तीर्णा. त्रयः पन्थानः त्रिपथाः, तैः गच्छतीति त्रिपथगा The river Gaṇgā has three courses— in the upper, middle and nether worlds where it is known respectively by the names of Māndakinī, Bhāgirathīand Bhogavatī. तीर्णा Past passive participle of तॄ to cross. वत्साश्च तव हस्तेThe Vatsa kingdom lies in your hands. The certainty of future accounts for treating the Vatsa kingdom as having already come into the handsof Udayana.
 
 ** बाढं** an Interjection of approval. अयमिदानीं is to be taken along with the succeeding śloka. अहं is adjectival to अहं suggested by the predicate नाशयामि.
 
 ** उपेत्य** etc. उपेत्य marching towards the foe along with my hosts. युधि तमारुणिं नाशयामि.Ido slay that Āruṇi in battle.How is Āruṇi?दारुणे कर्मणि दक्षः तं दारुणकर्मदक्षं He is clever in doing havoc. How is the battle? नागेन्द्राश्च तुरंगाश्च तीर्णाः यस्मिन् तस्मिन् नागेन्द्रतुरंगतीर्णे The elephants and horses float as it were, being so numerous. The compound is anything but happy. बाणाःउग्रतरङ्गाणां भङ्गा इव बाणोग्रतरङ्गभङ्गाः, विकीर्णाः बाणोग्रतरङ्गभङ्गा
-
-
 
 यस्मिन् तस्मिन् विकीर्णबाणोग्रतरङ्गभङ्गे महार्णवस्येव आभा यस्य तस्मिन् महार्णवाभे. युधि locative of युध् usually feminine. Its employment in the masculine gender in the śloka is open to objection. Vide Amara:—स्त्रियः संयत्समित्याजिस्रमिद्युधः
 
@@ -5799,23 +5263,15 @@ THE SIXTH ACT
 
  The end of the Fifth Act indicated the hero's preparation for war with Āruṇi. The Sixth Act begins with a Miśra Viṣkambha or a mixed Interlude in which the chamberlain of Mahāsena, father of Vāsavadattā, who was sent by him to convey his congratulations to king Udayana on his success in the war and the recovery of his lost kingdom, converses with the portress who is in attendance at the gate of Udayana's palace. The conversation is carried on both in Sanskrit and Prākṛt— in Sanskrit by Mahāsena's chamberlain named Raibhya, and in Prākṛt by the portress, Vijayāby name. Of the two characters that participate in the dialogue, the one is a Madhyapātra, and the other a Nīca pātra. Judging from the close of the Fifth Act, what ought to follow as
 
-
-
 a necessary consequence is the actual waging of the war and its progress leading up to the victory of Udayana. Of course a battle cannot be acted on the stage, being one of the incidents that are prohibited on the stage by the rules of dramaturgy. But there is no objection to a description of its details by persons who do not actually take part in the fight. Even this is advisedly omitted by the poet. The reason is not far to seek. We have noticed the hero immersed in the pangs of separation from Vāsavadattā, and the Vipralambhaśṛṅgāra or the emotion of love in separation is seemed to dominate. The uninterrupted flow of this stream of Rasa will get checked by a narration of war and its details. Love in separation borders on the tragic and cannot be consistently wedded to Vīrarasa where heroism or Utsāha will have to be delineated at its height. The poet therefore slurs over the period of warfare and comes directly to the result. The two chief incidents that are divulged in this Interlude are the recovery of the lost kingdom of Vatsa by Udayana and that of the lute Ghoṣavatā, the favourite of Vāsavadattā.
 
 ** Page 94.** ततः प्रविशति काञ्चुकीयः From what follows it may be gathered that this chamberlain belongs to Mahāsena, father of Vāsavadattā, and is different from the Magadha chamberlain that
 
-
-
 made his appearance in the First Act of this play. भोः An interjection for arresting the attention of an addressee. इह here, in the palace of King Udayana. काञ्चनयुक्तं तोरणद्वारं काञ्चनतोरणद्वारं The door at the gateway is carved with gilt designs. अशून्यं कः कुरुते. शून्य is vacant, and its opposite अशून्य means occupied. Who is in duty at the gate?प्रविश्य प्रतिहारी. In response to the call of the chamberlain the female porter who is in guard at the gate of the Vatsa palace comes forward. अहं विजया My name is Vijayā**.** निवेद्यतां The repetition of this word indicates the emergency of the errand to be conveyed to King Udayana. वत्सानां राज्यं, तस्य लाभः, तेन प्रवृद्धः उदयः यस्य तस्मै वत्सराज्यलाभप्रवृद्धोदयाय The re–acquisition of the Vatsa kingdom by Udayana is now made known to the audience. उदयनाय. The dative here is irregular. उदयनः निवेद्यतां—The Nominative case will be in conformity with the rules of grammar. गोत्रेण सह वर्तत इति सगोत्रःगोत्र here means 'name'.रैभ्येण (रैभ्यपदेन) सगोत्रः रैभ्यसगोत्रः. The name of the chamberlain is Raibhya. Or, सगोत्र means an agnatic kinsman, and the chamberlain is the kinsman of one Raibhya, a well-known person of the times, or at any rate, one well-known to Udayana. He and Vasundharā प्रतिहारमुपस्थितौ‚ have arrived at the gate. उपस्थिता च उपस्थितश्च उपस्थितौ an instance of Ekaśeṣa. Vide Pāṇini:— पुमान् स्त्रिया. अङ्गारवती is the wife of Mahāsena**.** वसुन्धरा is the nurse of Vāsavadattā.
-
-
 
 ** Page 95.**आर्य addressed to the chamberlain by the portress. प्रतिहारस्य. The final vowel of an Upasarga becomes optionally long when followed by a noun ending in the abstract suffix अ(घञ्)‚ provided the object denoted by the full word thus formed does not denote a human being. Vide Pāṇini:— उपसर्गस्य घञ्यमनुष्ये बहुलम्. Example:— परिपाकः परीपाकः. अमनुष्ये किं? निषादः प्रतीहारः therefore means a gate. देशकालः means proper time, and its opposite is अदेशकालः. Literally the meaning is— It is not a proper hour for the gate. The gate is figuratively used to denote a gate-keeper. This is not an opportune moment for porters to approach the king. On being asked why it was inopportune, the female porter proceeds to give the reason. अद्य भर्तुः This refers to King Udayana. सूर्यायाः मुखप्रासादः, तं गतेन सूर्यामुखप्रासादगतेन. सूर्या means a newly wedded spouse. Vide Śridhara's commentary on देवक्या सूर्यया सार्धंं (ŚrīmadBhāgavata, Skandha X, Adhyāya I) where सूर्या is interpreted likewise. सूर्या in the context refers to Padmāvati. केनापि वीणा वादिता. Somebody played on the lute in front of Padmãvati's chambers. घोषवती is the name of the lute used by Vāsavadattāand referred to in Pratijñāyaugandharāyaṇa.
 
  **Page 96.** ततः तत्र गत्वा पृष्टःOn going there he was asked. 'He' refers to the player on the lute. Some attendants of Udayana went and asked himकुतोऽस्या वीणाया आगमःWherefrom did you get this lute?
-
-
 
 कूर्चानां गुल्मः, तस्मिन् लग्ना कूर्चगुल्मलग्ना stuck to a thicket of reeds. As to the different meanings of कूर्च, note the following extract from Keśava:— कूर्चोऽस्त्री श्मश्रुपीठयोः। भ्रूमध्ये कत्थने दर्भे तन्तुवायपरिच्छदे॥ सा खलु न दृश्यते सा Vāsavadattā who cherished you. ईदृशःअनवसरःThe hour is inopportune as the king is in painful recollection of his departed beloved. इदमपि तदाश्रयमेव The errand which I am about to convey relates also to Vāsavadattāand as such will be welcome to Udayana at this stage.
 
@@ -5823,13 +5279,9 @@ made his appearance in the First Act of this play. भोः An interjection for
 
  **श्रुतिसुखनिनदे** etc. In this verse the king offers his lamentations to the lute Ghoṣavatī. श्रुतेः सुखं यस्मात् तथाभूतः निनदः यस्याः तत्र संबुद्धिः श्रुतिसुखनिनदे Vocative, addressed to the lute. देव्याः refers to Vāsavadattā. स्तनयुगले जघनस्थले च सुप्ता. Having enjoyed repose on the breasts and hips of the queen. त्वं understood. विहगानां गणः, तस्य रजः, तेन विकीर्णः दण्डःयस्याः सा विहगगणरजोविकीर्णदण्डा (सती) With your stem scattered over with the dust raised by birds in batches. प्रतिभयं means भयंकरं, adjectival to अरण्यवासं. अध्युषिता असि कथं.How did you undergo life in the forest? The Accusative in अरण्यवासं is due to the preposition अधि with which the root वस् is prefixed. Vide Pãṇini:—उपान्वध्याङ्कसः. उषित= वस् + (इ) त. As to the root वस्taking the suffix त (क्त) in the Past Active significance, vide Pāṇini:**—** गत्यर्थाकर्मकश्लिषशीङ्स्थासवसजनरुहजीर्यतिभ्यश्च.
 
-
-
 ** Page 98.**हे घोषवति अस्निग्धा असि. You are immune from tender feelings or emotion. स्निग्ध = स्निह् + त, the alternative form being स्नीढ. Vide Pāṇini:— वा द्रुहमुहष्णुहष्णिहाम्.या न स्मरसि. You who do not remember. The objects of the predicate स्मरसि are निपीडितानि, उपगूहितानि, परिदेवितानि and कथितानि which are respectively set out in the four feet of the succeeding verse. The Genitive in तपस्विन्याः in the prose passage is to be taken along with the said four objects.
 
 ** श्रोणीसमुद्वहन**etc. श्रोण्या समुद्वहनानि. The queen oft bore you on her hips. Or, श्रोणी means the table or the pot-like bulging portion of the lute. तस्याः समुद्वहनानि. पार्श्वाभ्या निपीडितानि. The queen oft hugged you to her sides. Or, पार्श्वयोः निपीडितानि. The queen oft pressed you on your sides. श्रोणीसमुद्वहनानि च पार्श्वनिपीडितानि च श्रोणी समुद्रहनपार्श्वनिपीडितानि, an instance of Dvandva compound. खेदे स्तनान्तरे सुखानि स्वेदस्तनान्तरसुखानि Adjectival to उपगूहितानि. खेद refers to the moments of fatigue caused to the lute by a vigorous play. At those times the queen oft embraced you between her breasts, giving you the pleasure of touch. उपगूहित There is no warrant for the augment इ (इट्) according to grammar. Vide Pānini:— यस्य विभाषा. Perhaps it can be justified by taking the root ग्रह् in its causal form. विरहे मामुद्दिश्य परिदेवितानि च. In her moments of separation from me she used to sing laments attuned to your notes. स्मितेन सह वर्तन्त इति सस्मितानि.वाद्यस्य अन्तरेषु वाद्यान्तरेषु कथितानि. She used to
-
-
 
 speak words of applause with a smile whenever you were at your best in your sweet notes.
 
@@ -5843,15 +5295,11 @@ speak words of applause with a smile whenever you were at your best in your swee
 
 ** Page 100.**मे ज्ञातिकुलस्य. Padmāvatī treats Vāsavadattā's kinsmen as her own kinsmen आस्यतां Impersonal use of the root आस्to be seated. त्वया or भवत्या understood.
 
-
-
 ** Page 101.**एतं जनं. जन is a collective noun denoting in the context both the chamberlain and the nurse. उदासीनमिव. This is an inelegant expression for अनिष्टमिव. कलत्रदर्शनार्हं जनं. If a person can be permitted to see Vāsavadattāhe is equally entitled to see Padmāvatīतातः अम्बा वा. Padmāvatīrefers to Vāsavadattā's parents as her own parents. अविग्रा is formed by adding the Past Active suffix क्त to विस्ज् with आ.I am worried as to what Vāsavadatta's parents will say.
 
 ** Page 102.**एवमेतत् The king says that he is equally apprehensive as to what they will say.
 
  **किं वक्ष्यतीति** etc. मे हृदयं (तातः अम्बा वा) किं वक्ष्यति इति परिशङ्कितं (परिशङ्का अस्य संजाता) My heart trembles as to what the father or mother (of Vāsavadattā) will say? A guilty conscience pricks. What is his guilt? कन्या मया अपहृतापि. I stealthily took away his daughter. न च सा रक्षिता. And I failed to safeguard her. The story of Udayana's elopement with Vāsavadattāis the subject of the drama known as Pratijñāyaugandharāyaṇa by the same author. The failure to protect refers to the incident of Vāsavadattā being burnt to death at Lāvāṇaka. चलैः भाग्यैः dúe to the freaks of fickle fortune and not to my own fault. महत्Adverbial adjunct governing अवाप्त. अवाप्तः गुणानाम् उपघातः येन सः अवाप्तगुणोपघातः Myvirtues have all been stultified by evil fate. अहंunderstood. पितुः जनितरोषः पुत्र इव भीतोऽस्मि. I am afraid
-
-
 
 even as a son who has enraged his father. जनितःरोषः येन सः जनितरोषः पितुः is to be taken along with रोष which is the latter part of a compound. जनितरोषः is therefore an instance of the maxim often referred to by commentators thus:— सापेक्षत्वेऽपि गमकत्वात्समासः. By comparing himself to a son and Vāsavadattā's father, to his own father, the unflinching devotion of Udayana towards Vāsavadattā's connection is brought out.
 
@@ -5861,21 +5309,15 @@ even as a son who has enraged his father. जनितःरोषः येन 
 
  जयत्वार्यपुत्रः. The chamberlain having been in loco parentis towards Vāsavadattā, he himself addresses Udayana as आर्यपुत्रin the same manner as Vāsavadattā.
 
-
-
 ** Page 104. पृथिव्यां**etc. Udayana first enquires about the welfare of Mahāsena. राज्ञां वंशः, तत्र भवानां राजवंश्यानां. To persons born in the race of kings. उदयश्च अस्तमयश्च उदयास्तमयौ, तयोः प्रभुः उदयास्तमयप्रभुः Mahāsena controls the destinies of all kings on earth. He can cause their rise or downfall at will. मया, बन्धोः भावः बान्धवं, काङ्क्षितं बान्धवं यस्य सः काङ्क्षितबान्धवःHis kinship is ever cherished by me. स राजा That king Mahāsena. अपि कुशली Is he well?
 
  अथ किं is a pair of Indeclinables meaning 'yes' cumulatively. आसनादुत्थाय. Udayana's rising from his seat shows the respect in which he holds Mahāsena. किमाज्ञापयति महासेनः. Note the predicate is आज्ञापयति 'commands' and not विज्ञापयति 'intimates.' This again shows Udayana's great respect for Mahāsena, सदृशमेतद्वैदेहीपुत्रस्य. The mother of Udayana must have therefore been a princess born of the race of the Videha kings. In the same tone of respect is couched the further statement of Udayana— यदाज्ञापयति महासेनः. दिष्टया an Indeclinable meaning 'luckily, fortunately.'
 
  **Page 105. कातराः**etc. The recovery of the lost kingdombyUdayana is substantiated by a general statement contained in this verse. ये कातराः अपि वा अशक्ताः तेषु उत्साहः न जायते. उत्साहः means enterprise or ambition. To be possessed of enterprise, one must be both brave and efficient. As a
 
-
-
 result of enterprise, the royal glory is achieved. This idea is set out in the second half of the verse.
 
  **अहमवजितः** etc. In this śloka Udayana traces his success to the kindness of Mahāsena. पुर्वं तावत् In days of yore, when I was hunting elephants. अवजितः I was captured by Mahāsena. अहं सुतैः सह दृढं लालितः But I was fondled by him along with his sons. Notwithstanding his kindness to me, मया कन्या his daughter Vāsavadattā. अपहृता I took her away like a thief. भूयः later on; when I ought to have exercised the utmost diligence in safeguarding her. न रक्षिता च. I failed to save her; I was unwary enough to allow her to be burnt to death at the village of Lāvāṇaka. Thus I have been guilty of two wrongs towards him. But yet what is the attitude of Mahāsena? तस्याश्च निधनं श्रुत्वापि. Even after hearing of her death which had been caused by my negligence. मयि स्वता तथैव. Mahāsena entertains the same feeling of kinship towards me. He pardoned all my wrongs. And hence it is I am spared to regain my kingdom of Vatsa. उचितान् वत्सान् The familiar kingdom of Vatsas. प्राप्तुं to get back. यत्, understood,— whatever is calculated to achieve that end. अत्र in all those equipments, viz., bravery, efficiency and enterprise which have been detailed before. नृपः कारणं ननु It is King Mahāsena that is the real source of my strength. Is he not? In the place of यदुचितान्
-
-
 
 Mahāmahopādhyāya Ganapati Sastri suggests an alternative reading यदुचितं which will render the passage more readable.
 
@@ -5883,17 +5325,11 @@ Mahāmahopādhyāya Ganapati Sastri suggests an alternative reading यदुच
 
  **षोडशान्तःपुर** etc. Udayana first makes enquiry about her health. माता कुशलिनी ननु. Is my mother keeping well? She is described as माता, because Vāsavadattā's mother is his own mother.The rest of the śloka is adjectival to माता. षोडशानां अन्तःपुराणां ज्येष्ठा. Aṅgāravatīis the seniormost of all the sixteen ladies of Mahāsena's harem. षट् च दश च षोडश. ज्येष्ठ Superlative of वृद्ध. पुण्या नगरदेवता. She is the sacred presiding divinity of the city. मम प्रवासदुःखार्ता. She used to feel miserable in my absence. This perhaps refers to the period when Udayana absconded along with Vāsavadattā. Mahāmahopādhyāya Ganapati Sastri interprets it differently. Aṅgāravatīfeels miserable on account of my pitiable condition in separation from Vāsavadattā, even more than the loss of her own daughter. In this case प्रवासदुःख will have to be loosely construed as meaning misery during separation,
 
-
-
 since the word प्रवास ordinarily means exile. ननुis a particle of interrogation.
 
  The nurse replies अरोगा. First is given news of her welfare, and then follows her enquiry about Udayana's well-being. भर्तारं कुशलं पृच्छति. The root प्रच्छ् (पृच्छ्) to ask, governs two objects. सर्वगतं adjectival to कुशलं. The enquiry relates to the welfare of Udayana in all respects— to his health, to his happiness, kinsfolk and everything relating to Udayana. सर्वगतं कुशलमिति This sentence is a question by intonation. Such is her question. What shall be my reply? अम्ब ईदृशं कुशलं The sort of happiness that I can have in the absence of Vāsavadattācan be easily conceived. Where is the question of happiness without her? मेदानीं भर्ता अतिमात्रं संतप्तुं. The juxtaposition of मा with the Infinitive of purpose is a grammatical enormity which has almost become a rule with the author. धारयत्वार्यपुत्रः. The object शोकं is understood. Check your grief. उपरतापि Though actually dead. अनुपरता महासेनपुत्री Vāsavadattāis alive. The reason for deeming her alive is furnished by the adjectival phrase आर्यपुत्रेण एवमनुकम्प्यमाना Because she is so fondly and sympathetically remembered by Udayana. अथवा is begun to remove the lurking suspicions in Udayana's mind that his negligence had been responsible for the death of Vāsavadattā.
 
-
-
  **Page 107.** कः कं etc. मृत्युकाले कः कं रक्षितुं शक्तः. An analogy for this follows in the next pāda. रज्जुच्छेदे के घटं धारयन्ति. If the cord breaks, the bucket falls into the well. Where is the question of the drawer's watchfulness or negligence? एवं वनानां तुल्यधर्मः लोकः. Men who share their characteristic with trees viz., that of growing and perishing in turns. काले काले छिद्यते रुह्यते च. Persons disappear or appear, each in his turn. तुल्यधर्मः is a mistake for तुल्यधर्मा. Vide Pāṇini:— धर्मादनिच्केवलात्. लोकः छिद्यते. The Active use of छिद् is छिनत्ति. छिद्यते here is an instance of कर्मकर्तरिप्रयोग. A transitive root can be used in this form to denote the ease with which an action is achieved. For example:— असिना छिनत्ति means 'he cuts with a sword' whereas असिः छिनत्तिmeans 'the sword cuts.' Here the Instrumental is displaced by the Nominative. This is used to display the facility with which the action of cutting is brought about. Similarly ओदनः पच्यते— The food cooks of its own accord. So also लोकः छिद्यते—The decay of persons takes place with such remarkable facility. Can the same explanation hold good to लोकः रुह्यते? रुह् is Intransitive, and as such there can be no कर्मकर्तरिप्रयोग for it. रोहति will be the proper form. To justify रुह्यते in the context, one has to stretch his grammatical ingenuity. रुह् perhaps means not to grow as it would ordinarily mean, but to cause to grow. The use of simple roots in their causative significance
-
-
 
 is generally referred to as अन्तर्भावितणिच्कप्रयोग. In that case रुह् can be deemed to have acquired the significance of a transitive root. Thereupon कर्मकर्तरिप्रयोग is quite conceivable. But the simpler course will be to treat this also as one of the enormities of which there is no lack in this author.
 
@@ -5901,23 +5337,17 @@ is generally referred to as अन्तर्भावितणिच्कप�
 
  **महासेनस्य दुहिता** etc. Vāsavadattāis the daughter of no less a person than Mahāsena. महासेनस्य is suggestive of the high qualities of Mahāsena and the great regard in which Udayana holds him. मे प्रिया शिष्या देवी च Further she was my beloved pupil in the play of the lute and my crowned queen as well. Cf. गृहिणी सचिवः सखी मिथः प्रियशिष्या ललिते कलाविधौ।Raghuvaṁśa Canto VIII—67. अन्ये देहाः देहान्तराणि तेषु देहान्तरेषु अपि Even if I take other births. सा मया स्मर्तुं कथं न शक्या. How will it be possible not to remember her? A happier version will be कथं मया सा विस्मर्तुं शक्या देहान्तरेष्वपि. Compare the two statements. How will it not be possible to remember her? And, how will it be possible to forget her? The three characteristics of Vāsavadattā, referred to in the first half of the verse rule out the possibility of Udayana's forgetting her not only in this life but also in the births yet to come.
 
-
-
  **Page 108**. Gopālaka and Pālaka are the sons of Mahāsena. यादृशौ and तादृशःbring out that Mahāsena and his wife treat Udayana on a par with their own sons notwithstanding the death of their daughter. प्रथममेवाभिप्रेतो जामाता. Even before you were brought to Ujjain, we had willed it that you shall be our son-in-law. एतन्निमित्तंfor the purpose of giving our daughter in marriage to you. उज्जयिनीमानीतः (त्वं). The root नी is द्विकर्मक i.e., governs two objects. अनग्निसाक्षिकं, without making Agni a witness to your matrimony. It is to be remembered that Fire is the greatest attesting authority in the Hindu conception of marriage. वीणाव्यपदेशेन दत्ता Under the pretext of training in the lute she was given over to you. आत्मनः चपलतया, due to your own impatienceअनिर्वृत्तं विवाहमङ्गलं यस्य सः अनिर्वृत्तविवाहमङ्गलः एव गतः. Without a formal celebration of the marriage you went away. अथ च After you ran away with Vāsavadattā. चित्रफलकायामालिख्य विवाहो निर्वृत्तः. We celebrated your wedlock with the images of Vāsavadattāand yourself on the picture-board. एषा चित्रफलका. The use of फलक in the feminine is rare. एतांदृष्ट्वा निर्वृतो भव. A sight of this will alleviate your grief of separation from Vāsavadattā.
 
  Construe: वाक्यमेतत् राज्यलाभशतादपि प्रियतरं यत् अपराद्धेष्वपि अस्मासु स्नेहो न विस्मृतः.
 
  **Page 109.** Padmāvatīdesires to pay her respects to the departed sweetheart of her lord.
 
-
-
 गुरुजनं Vāsavadattā being senior is referred to as Guru by Padmāvatī. इयं This picture of Vāsavadattā. आर्याया आवन्तिकाया अतिसदृशी. The Interjection हं denotes the suspicion of Padmāvatīroused for the first time about the identity of Āvantikā. To see if her suspicions are well-founded, Padmāvatīasks her lover if the picture really represents Vāsavadattā. न सदृशी.The picture is not merely like Vāsavadattā. It is Vāsavadattā herself.
 
  **अस्य स्निग्धस्य** वर्णस्य for this lovely form. The use of वर्णin the meaning of 'form or personality' is somewhat peculiar. दारुणा विपत्तिः कथं. How did a cruel fate overtake her? A personality of this nature deserves a happier end. इदं च मुखमाधुर्यं अग्निना कथं दूषितम् .
 
  **Page 110.** To see if the picture of Vāsavadattāwas a faithful representation, notwithstanding the assurance of Udayana, Padmāvatī desires to judge the matter for herself by a scrutiny of the picture of the king. Since she finds Udayana's picture is a faithful one, she concludes that Vāsvadattā's picture must equally be true. चित्रदर्शनात् प्रभृति. The noun governed by प्रभृति and its synonyms takes the Ablative case. प्रहृष्टा च सा उद्विग्ना च प्रहृष्टोद्विग्ना The joy of Padmāvatīis due to the fact that Vāsavadattāis alive, and her excitement is due to her impatience to divulge the news.
-
-
 
 ** Page 111.**तेन हि शीघ्रमानीयताम् The king does not even enquire as to how Vāsavadattā came to be associated with Padmāvatiī but asks her to be brought at once, but Padmāvatiī explains that, having been entrusted to her charge by a Brahmin as his sister, she will avoid the sight of other males. प्रोषितः भर्ता यस्याः सा प्रोषितभर्तृका. A woman whose husband is in exile. Therefore she says she will herself go and fetch her.
 
@@ -5926,8 +5356,6 @@ is generally referred to as अन्तर्भावितणिच्कप�
  **Page 112.** Then enters the portress to announce the arrival of the Brahmin who had committed his sister to the charge of Padmāvatī. अभ्यन्तरसमुदाचाारेण By a cordial reception which according to the practice in the palace is accorded to guests. Yaugandharāyaṇa, as he enters, has his own doubts as to how the king will approve of his schemes notwithstanding that they had been crowned with success.
 
  **Page 113.** **प्रच्छाद्य** etc. नृपतेः हितार्थं राजमहिषीं प्रच्छाद्य. My sole aim had been to advance the glory of the king. He could recover his lost kingdom if he could get a powerful ally. In Darśaka he could have a powerful ally if his sister could be married to the king. The idea of marrying Darśaka's sister to Udayana has been ordained by an infallible prophecy, but it was impeded by two
-
-
 
 causes viz., Udayana's extreme devotion to Vāsavadattāand the inability or reluctance of Darśaka to such an alliance while Vāsavadattāwas alive. The only course therefore left open was to remove Vāsavadattāfrom the scene, and this he did with her own connivance by spreading the report that she had been burnt in the conflagration at Lāvāṇaka. Hence प्रच्छाद्य राजमहिषीं represents the first stage in the scheme of Yaugandharāyaṇā conceived for the success of his master. मया इदं हितमित्यवेक्ष्य कामं कृतं. I have done this of my own accord, having come to the conclusion that it will be for his benefit. मम कर्मणि सिद्धेऽपि Though my endeavour has borne fruit. नाम Indeed. असौ पार्थिवः किं वक्ष्यति इति What the king will say. मे हृदयं, परिशङ्का संजाता अस्येति परिशङ्कितं. My heart grows apprehensive. For a parallel of this verse, see the following śloka of Ratnāvalī:—
 
@@ -5938,8 +5366,6 @@ causes viz., Udayana's extreme devotion to Vāsavadattāand the inability or rel
 
  **Page 115.**निर्यातय hand back the trust-property. साक्षिमत् Adverbial adjunct to निर्यातयितव्यः. अधिकरणंCourt, tribunal, judge, umpire. आवन्तिकां निर्वर्ण्य The nurse finds out Vāsavadattāfirst.Then the king also recognises her.
 
-
-
  **Page 116. भारतानां** etc. (त्वं) भरतस्य गोत्रापत्यानि पुमांसः भारताः तेषां भारतानां कुले जातःIt is known from the Viṣṇupurāṇa that Udayana was the 25th in the line of descent from Arjuna's son Abhimanyu. विनीतः ज्ञानवान् शुचिः (असि). तत् Therefore. राजधर्मस्य देशिकः (सन्) बलात् (तां ) हर्तुं नार्हसि.
 
 ** जयतु स्वामी.**The need for concealing himself having disappeared, Yaugandharāyaṇa discloses his indentity by greeting the king with the words usual of a minister. जयत्वार्यपुत्रःThe disclosure of identity by Yaugandharāyaṇa gives the hint to Vāsavadattāthat she too has his permission to reveal herself.
@@ -5948,27 +5374,19 @@ causes viz., Udayana's extreme devotion to Vāsavadattāand the inability or rel
 
  देव्याः अपनयः तेन **देव्यपनयेन**, with the wrong done by the queen. Really it is not her wrong but mine. Or देव्याः अपनयःmeans the act of concealing the queen and taking her out. यौगन्धरायणः This word here is employed with a good deal of suggestive force.
 
-
-
  **मिथ्योन्मादैश्च** etc. This śloka brings out Yaugandharāyaṇa's devotion to his master and supreme statesmanship. मिथ्योन्माद refers to the feigned madness assumed by Yaugandharāyaṇa at Ujjain with a view to releasing Udayana from the hold of Mahāsena. युद्धैश्च This also refers to the period of Udayana's captivity at Ujjain when internal strifes in the ranks of Mahāsena were fomented by Yaugandharāyaṇa. शास्त्रदृष्टैश्चमन्त्रितैः Through devices chalked out by the law of statecraft. भवद्यत्नैःखलु. It is well-known that your efforts were chiefly responsible for our release. मज्जमाना वयं We who were sinking. The royal we is used. समृद्धृता We were lifted from the depth to which we sank.
 
  **Page 118.** स्वामिभाग्यानामनुगन्तारो वयं. More than our diplomacy, the good fortunes of the king are responsible for the success of our endeavours. अहो आर्या खल्वियं Padmāvati offers her apology to Vāsavadattāfor having treated her as an ordinary friend. पद्मावतीमुत्थाप्य. This suggests that Padmāvatī prostrated before Vāsavadattā. अविधवा One whose husband is alive. अर्थिस्वं Vāsavadattā had played the supplicant, and Padmāvatī had dedicated her own body to the service of the supplicant. नाम अपाराध्यतिCan it ever be said that such a body is guilty of offence? अनुगृहीतास्मि It is a high favour shown to me, not only to excuse my faults but to praise me for my past behaviour. Then the king
 
-
-
 asks Yaugandharāyaṇa his reason for hiding the queen.
 
  **Page 119.** कौशाम्बीमात्रं परिपालयामीति This is very tersely put. मात्र here means entirety. Vide Amara:— मात्रं कार्त्स्न्येऽवधारणे. Kauśāmbī stands for the Vatsa kingdom of which Kauśāmbī is the capital. परिपालयामि must be taken to mean परिपालयेयं. The object of Yaugandharāyaṇa in suppressing the queen and her whereabouts is the redemption of the entire kingdom of Vatsa for his lord. But the question still remains why he chose Padmāvatīof all persons as the care-taker of Vāsavadattā. On being asked about this, Yaugandharāyaṇa replies that he had heard it from infallible soothsayers that Padmāvatīwould become the wife of Udayana. इदमपि रुमण्वता ज्ञातं. This is a question by intonation. सर्वैरेव ज्ञातं. सर्व refers to the ministers that participated in the scheme of Yaugandharāyaṇa. अहो expresses the king's astonishment at the ability of Rumaṇvān in suppressing the scheme from the knowledge of the king. शठः खलु रुमण्वान्. This vituperation sounds really in the praise of Rumanvān. Yaugandharāyana suggests that Vāsavadattā's parents must at once be appraised of the fact of Vāsavadattā's existence. न न. It will not be meet merely to send the chamberlain and the nurse to inform Vāsavadattā's parents of her welfare. He suggests that they should all go to
-
-
 
 meet Vāsavadattā's parents along with Padmāvatī.
 
  **Page 120. भरतवाक्यं**Bharatavākya is a benedictory statement with which a play closes, and it is so called in honour of Bharata, the founder of Sanskrit dramaturgy. A play closes with Bharatavākya as it begins with Nāndī. Bharata also means Naṭa, and Bharatavākya is the statement of an actor as an actor, not as playing the role of a character in the play.
 
  **इमां सागरपर्यन्तां.** नः, राजा सिंह इव राजसिंहः Our king who is marked by valour, courage and other qualities like a lion. महीं प्रशस्तु May he rule over the earth. 'The king' here refers to a contemporary of the author, or to every king in whose regime the play is enacted. How is the earth? सागराः पर्यन्तः यस्यास्तां सागरपर्यन्तां. The earth extending as far as the Ocean on all sides. It is therefore apparent that it is prayed that the patron-king may enjoy suzerainty over the whole of the earth. हिमवांश्च विन्धश्चहिमवद्विन्ध्यौ, तौ कुण्डले यस्यास्तां हिमवद्विन्ध्यकुण्डलां.If the earth is conceived of as a lady, the two mountains Himalayas and Vindhyas can well be treated as her ear-rings. एकः आतपत्राङ्क यस्तास्तां एकातपत्राङ्कां bearing the mark of a single umbrella. The white umbrella is one of the royal insignia. If there is a single umbrella it means that the king in question is the ultimate sovereign of the entire earth.
-
-
 
 **इमां महीं प्रशास्तु.** This verse occurs also in the Epilogue of Dūtavākya and Bālacarita and with some slight modifications in Pratijñāyaugandharāyaṇa, Avimāraka, Pratimā, Abhiṣeka, Pañcarātra and Karṇabhāra presumably by the same author.
 
@@ -5984,8 +5402,6 @@ PROSODY
 भजसा गौरवं यान्ति मनौ तु गुरुलाघवे॥**
 
 ** **The यगण, रगण and तगण are short in their first, second and third syllables respectively, the other two syllables in each being long. The भगण, जगण and सगण are long in their first, second and third syllables respectively, the other two syllables in each being short. In the मगणand नगणall the three syllables are long and short respectively.गुरु is the Sanskrit word for a long syllable, and लघुfor a short syllable. The essence of a syllable is a vowel. All ह्रस्व or short vowels go to make up लघु or short.
-
-
 
 syllables, and all दीर्घ or long vowels go to make up गुरुor long syllables. All short vowels followed by a conjunct consonant, Anusvāra or Visarga or at the end of a pāda are deemed to be long.
 
@@ -6007,8 +5423,6 @@ syllables, and all दीर्घ or long vowels go to make up गुरुor l
 
  Act IV. Ślokas 3 & 5.
 
-
-
  We now pass on to Vṛttas or metres regulated by gaṇas or the number and position of syllables. Vṛttas may be either समवृत्त or अर्धसमवृत्त Or विषमवृत्त. In Samavṛtta metres, all the four feet contain the same number of syllables. In the Ardhasamavṛtta metres the first and third quarters contain the same number of syllables, and similarly the third and fourth quarters; the first and second feet as also the third and fourth feet are not equal in the number of syllables. In the Viṣamavṛtta metres, all the four feet are dissimilar in size. following extract from Vṛttaratnākara:—
 
 सममर्धसमं वृत्तं विषमं च तथापरम्॥
@@ -6027,8 +5441,6 @@ syllables, and all दीर्घ or long vowels go to make up गुरुor l
  परिहरतु भवान् नृपापवादं न परुषमाश्रमवासिषु प्रयोज्यम्। Act I— 5.
 
  Other example:— Act VI— Verse 1.
-
-
 
  The rest of the metres that occur in the play are all Samavṛttas.
 
@@ -6055,8 +5467,6 @@ Act I. Verse 2.
 
  5. **उपजाति** is a metre in which both Indravajrāand Upendravajrā metres combine. Upendravajrāhas been defined above. Indravajrā is a
 
-
-
 metre with 11 syllables in a quarter and resembles Upendravajrā in all respects except that the first syllable in every quarter is a Guru instead of a Laghu, and its definition is स्यादिन्द्रवज्रा ततजास्ततो गौ.In Upajāti, one or more quarters conforming to the definition of Indravajrā co-exist with one or more quarters which conform to the definition of Upendravajrā. The following is its definition. अनन्तरोदीरितलक्ष्मभाजौ पादौ यदीयावुपजातयस्ताः. Example:—
 
 **स्मराम्यवन्त्याधिपतेः सुतायाः  
@@ -6077,8 +5487,6 @@ metre with 11 syllables in a quarter and resembles Upendravajrā in all respects
  8. **वसन्ततिलका**is a metre with 14 syllables in a quarter and has been defined thus:— उक्ता वसन्ततिलका तभजा जगौ गः. It consists of तगण, भगण, 2 जगणऽ and 2 gurus. Example:—
 
  पूर्वं त्वयाप्यभिमतं गतमेवमासीत् Act I. Verse 4.
-
-
 
 Other examples:—Act I. Verses 6 & 11.  
                Act IV.   "   2.  
@@ -6103,8 +5511,6 @@ Other examples:—Act I. Verses 6 & 11.
              Act I. Verses 8 & 12.  
              Act IV.   "   1.  
              Act V.   "   4 & 12.
-
-
 
 |                         |                           |
 |-------------------------|---------------------------|
@@ -6131,8 +5537,6 @@ Other examples:—Act I. Verses 6 & 11.
 | तीर्थोदकानि समिधः       | योऽयं संत्रस्तया देव्या   |
 | दुःखं त्यक्तुं बद्धमूलो | रूपश्रिया समुदितां        |
 
-
-
 |                     |                          |
 |---------------------|--------------------------|
 | वाक्यमेतत्प्रियतरं  | श्लाघ्यामवन्तिनृपते      |
@@ -6142,8 +5546,5 @@ Other examples:—Act I. Verses 6 & 11.
 | शरच्छशाङ्कगौरेण     | सुखमर्थो भवेद्दातुं      |
 | श्रुतिसुखनिनदे      | स्मराम्यवन्त्याधिपतेः    |
 | श्रोणीसमुद्वहन      | स्वप्रस्यान्ते विबुद्धेन |
-
-
-
 
 \]

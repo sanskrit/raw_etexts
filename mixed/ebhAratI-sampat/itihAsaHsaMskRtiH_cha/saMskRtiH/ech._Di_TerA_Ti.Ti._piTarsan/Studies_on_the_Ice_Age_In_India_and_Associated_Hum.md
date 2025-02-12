@@ -15,18 +15,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4MTk4MjYwNzY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **STUDIES ON THE ICE AGE  
 IN INDIA AND  
 ASSOCIATED HUMAN CULTURES**
@@ -95,8 +83,6 @@ WASHINGTON, D.C.
 |                                            Upper Siwalik period.                                           |
 |                                             Post-Siwalik stages.                                           |
 
-
-
 |                                                                                                       |
 |-------------------------------------------------------------------------------------------------------|
 | B. Geologic sections through culture-bearing Pleistocene deposits of the Potwar.                      |
@@ -159,8 +145,6 @@ WASHINGTON, D.C.
 | XVI.  | Faulted anticline in Lower Karewa clay overlain by second glacial outwash below Shupiyan                                                                                                                                                                                             |
 | XVII. | 1, Basam Gali Pass, a second glacial trough in watershed range; 2, Glacial slope profiles on border of Tosh Maidan; 3, Relations of three glaciations at Chinamarg; 4, Watershed of Tosh Maidan toward Kashmir Basin, with third glacial overflow trough                             |
 
-
-
 |         |                                                                                                                                                                                                                                                                                                                                                                        |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | XVIII.  | 1, Structure soil at 10,800 feet on third moraine of Tosh Maidan; 2, Third moraine between Hatbar and Drang, at 6,850 feet; 3, Outlet of Sokhnagh Valley at Zugu, with dissected and terraced Karewa Hills; 4, Tilted Lower Karewa beds overlain by third glacial gravel, above Zugu                                                                                   |
@@ -181,8 +165,6 @@ WASHINGTON, D.C.
 | XXXIII. | Large flake from the Boulder conglomerate at Kallar                                                                                                                                                                                                                                                                                                                    |
 | XXXIV.  | Early Soan pebble tools, flat-based types                                                                                                                                                                                                                                                                                                                              |
 | XXXV.   | Early Soan pebble tools, rounded-pebble types                                                                                                                                                                                                                                                                                                                          |
-
-
 
 |          |                                                                  |
 |----------|------------------------------------------------------------------|
@@ -333,7 +315,6 @@ ASSOCIATED HUMAN CULTURES**
 "The whole geological record is only the skimmings of the pot of life."
 
 —Thomas Huxley, in a letter of 1862 to Charles Darwin.  
-
 
 **INTRODUCTION**
 
@@ -1008,7 +989,6 @@ been continuous since second interglacial time, thus accounting for the depth of
 
 FIGURE 42.-Map of Liddar Valley  
 
-
 ![](../../../books_images/U-IMG-1700907567Screenshot2023-11-25154659.png)  
 FIGURE 43.—Transverse sections at Islamabad (4) and Krungus (6).
 
@@ -1188,7 +1168,6 @@ of gradient in the inner Himalaya, an increase which was further reduced by late
 
  About 12 miles southeast of Srinagar the Jhelum swings conspicuously around a limestone promontory which projects toward the center of the valley from the
 
-
 ![](../../../books_images/U-IMG-1698042015Screenshot2023-10-23114954.png)
 
 FIGURE 59.—Section through Sombur quarry at locality 1. U.K., Upper Karewa beds.
@@ -1309,7 +1288,6 @@ with marl-bearing beds at the base. These beds in turn are underlain by clay and
 [^38]: " See Wadia, 1934, geologic map."
 
 ![](../../../books_images/U-IMG-1700729420Screenshot2023-11-23141859.png)
- 
 
 FIGURE 66.-Cross section through Karewa beds at Hangah.
 
@@ -1465,7 +1443,6 @@ appears under the lignite-bearing clay beds, and at Nichahom, near Handawor, sha
 | Carbonaceous clay              |    | 10  |
 | Lignite                        | 1   | 10  |
 | Blue clay                      | 6   | 10  |
-
 
  Here, as well as at Laradura, brown sand overlies the coal beds. The coal beds, then, are really embedded in a clay-bearing sand, whose cross-bedding leaves little doubt as to the fluvial origin. The close association of river sand with lignite characterizes this series as belonging to a period of heavy delta deposition on the slope of the Pir Panjal. The Karewa Lake, no doubt, was still in existence, as the lignite is found in a bedded clay matrix filled with fresh-water mollusks. The thickness of the lower sand is about 140 feet, that of the lignite-bearing clays is at least 180 feet, and the upper shaly sandstone ranges from 110 to 350 feet. The greatest thickness in this shaly sandstone was found above Nilnag, where the fan character is made evident by forest bedding and gravel content. The total thickness of this zone is therefore at its maximum 670 feet.  
  Stratigraphically this lignite of the upper series (3) appears in lacustrine clays between two fan formations. Structurally it occurs both in synclines and in monoclines, and for this reason, there can be no doubt as to the secondary nature of the coal basins. These are synclines in which lignite-bearing beds have escaped the denudation that preceded the second glaciation. Although small fragments oflignitized wood débris were occasionally found in the sand, it is surprising that the lignite beds proper should invariably occur in lake clays. The shaly texture of the lignite, its local silt content, and the absence of any well-preserved stems or leaves point to allochthonous origin. The lacustrine association with clay can best be explained by driftwood accumulated in certain subaqueous channels not far from the mountain front. This would account for the specific occurrence of lignite in front of larger valley tracts (Shaliganga, Rimbiara, Vishav) where intercalation of lake beds with fluvial sand could be expected. The origin of the wood débris is to be looked for in the forested hills of the Pir Panjal, because the pollen content,
@@ -1648,7 +1625,6 @@ Selaginella?
 | Gramineae gen. indet. | Chenopodiaceae gen. indet. |
 | Carpinus? sp.         | Artemisia sp.              |
 
-
  In addition, Middlemiss (1910, p. 122) listed Cinnamomum? tamala and possibly Jasminum*.*
 
 * *Diatomaceous beds in the Karewas.—The lignite-bearing beds at Handawor and in the Shaliganga Valley yielded some interesting data on microscopic life in the Karewa Lake. Paul S. Conger, of the Carnegie Institution of Washington, listed the following forms. In this list F stands for frequent, C for common, S for scarce, VS for very scarce, and VC for very common. The asterisk (\*) indicates species not listed by Lundquist in this region.
@@ -1687,8 +1663,6 @@ Selaginella?
 | Cymatopleura solea (Breb.) W. Sm.....          | VC   |
 | Cymbella cesatii (Rabh.) Grun.....             | \*S  |
 | Cymbella cistula (Hemp.) Kirchn...             | C    |
-
-
 
 |                                                               |      |
 |---------------------------------------------------------------|------|
@@ -1830,7 +1804,6 @@ Teilhard and I (1936) showed that at least three infra-Pleistocene movements wer
 
  The section shown in figure 77 is 17 miles long and leads from the border of the valley near Nagum across Nilnag and Yus Maidan to the high plateau surface of the Pir Panjal. The first anticline is exposed three-quarters of a mile northeast of Nagum, where the shallowness of the folding once more becomes apparent. The syncline northeast of Buragu contains lignite beds which possibly belong to the deeper horizon. Above Nilnag the brown sandstones and silt beds of zones 3 and 4 build the forested slopes, in which exposures become increasingly sparse. Southwest of Yus Maidan only two outcrops were located within a distance of 3 miles. This explains why in figure 77 only five anticlines are represented.
 
-
 ![](../../../books_images/U-IMG-1697779178148we.jpg)  
 FIGURE 78.—Anticline in Lower Karewa lake beds overlain by second glacial outwash (G2) near Shupiyan. (See pl. XVI.) U.K., Upper Karewa beds; L.K., Lower Karewa beds; 3, 4, zones in the Lower Karewas.
 
@@ -1839,7 +1812,6 @@ FIGURE 78.—Anticline in Lower Karewa lake beds overlain by second glacial outw
  In the adjoining Vishav Valley (fig. 86) Lower Karewa beds and fan deposits are folded and faulted against the Paleozoic rock floor. The steepness of dip (60°)at the border fault and the appearance of pre-Karewa gravels clearly indicate a major displacement suggestive of a general down-faulting and sagging tendency in the Pleistocene basin filling. Here also the boulder gravel lies unconformably on the eroded fold structure.
 
  This border fault was also observed at the outlet of the Ningle Valley near Nagbal (fig. 79). Paleozoic slate rock (P) forms a precipitous mountain slope, and against it lie gray clay beds with lignite, but the contact is not clearly visible. and therefore has been left blank in the section. About 1,500 feet downstream a synclinal fold is exposed just before the Lower Karewa beds disappear beneath morainic outwash gravels of later glaciation. Faulting has doubtless removed the lower zones and caused the clay beds of zone 2 to rest against the bedrock slope. The total displacement here may therefore amount to almost a thousand feet. How much of this faulting is due to the first interglacial diastrophism or to later movements is difficult to tell, as we must remember that border faulting may have
-
 
 ![](../../../books_images/U-IMG-1697779855fffffgg.jpg)  
 FIGURE 79-Folded Lower Karewa beds at outlet of Ningle Valley. P, Paleozoic slate; L.K., Lower Karewa beds; Ga, second glacial gravel; U.K., Upper Karewa beds;M3, third moraine.
@@ -1970,7 +1942,6 @@ of the fourth glaciation.
 * Second Harseni Glacier—*The planed level is surmounted by the watershed range, in which lie several névé fields and glacierets (pl. XV, 3). Below it appear two remarkable features-namely, hanging valleys and a nick of the slope profile. The nick has previously been analyzed as a slope of the first interglacial valley. As to hanging valleys (pl. XIX, 1, HV), it may be seen that their level (13,000 feet) approximates that of the upper limit of the trough remnant (G2) found above the fan-covered slopes. Apparently both features are related to each other. The "trough shoulder" reaches up to the points where the wide hanging valleys enter the main valley. These valleys take their origin from wide cirques whose level is commonly found at 13,300 to 13,600 feet, as a study of topographic sheet 43 K/10 will prove. Inasmuch as this cirque level is so uniform, its origin may date back. to a time when the headwaters of the tributaries were cutting back toward the at an approximately even level. This doubtless was the same period which saw the dissection of the preglacial relief, for otherwise it would be difficult to explain the sharply dissected slopes between the top level and the hanging valley. It is to the drainage of the first interglacial period that we ascribe this headward erosion. Consequently cirques, hanging valleys, and highest trough remnant all belong to one and the same glaciation, which was the second from the top, or the first true valley glaciation of the Pir Panjal.
 
  Although little was preserved of the major trough of the second Harseni Glacier but faceted spurs and striated bedrock, there is still sufficient indication left for the recognition of a very wide trough. Such a trough may be seen in a side valley opposite Shahkut (pl. XIX, 2, G2) where its U shape contrasts remarkablywith the planed level of the preglacial relief above (PG). The width of these valleys is in itself proof for the preceding dissection of the mature relief, and, on the other hand, it permits us to visualize the intensity of the second glaciation.
-
 
 ![](../../../books_images/U-IMG-1697795985R.jpg)
 
@@ -2179,8 +2150,6 @@ FIGURE 96.—Schematized history of Ferozepur Valley from second glaciation to p
 
 **1** From the same zone is derived sample M32, for which Wodehouse (Wodehouse and De Terra, 1935, p. 5) made a pollen analysis. See also Krynine's report on Karewa lithology.
 
-
-
  From the association of the younger loam with the lower terraces it is evident that this deposit is younger than the Upper Karewa loessic silt. Although it is possible that the loam on T3 is derived in part from a redeposition of Upper Karewa material, its formation seems to have been connected with a stage during which the stream was able to carry only fine sediments in suspension. Hence the terrace loam marks a low-water stage at which dry climatic conditions had reached their optimum and at which the river was meandering freely across the valley floor.As in other glaciated and periglacial regions, it must remain an open question.whether such terrace loams are generally derived from rewashed loess. In view of the frequency of dust storms in this area it is probable that loess was deposited in varying degrees throughout Pleistocene time and that the geologic record of this process reflects only optimum conditions of wind transportation and of fluvial deposition.
 
  *Gulmarg region.*—Beyond a low divide northwest of the tract described above. and 1,600 feet above the Ferozepur Valley lies the headwater portion of a tributary. of the Ningle River, which is the last of the prominent slope drainage lines before one reaches the Jhelum Gorge. Dainelli (1922, p. 567) has pointed to its peculiar physiography, to which the alpine summer resort of Gulmarg owes its reputation. Perched high above the Kashmir Basin and situated at the foot of Apharwat Peak.(13,592 feet), its undulating slopes provide ideal conditions for winter sport, and in the summer grassy flats and pine forest afford a diversity of recreation not easily matched by any other place in India. But the meadow character of Gulmarg (meaning "meadow of flowers") conceals many features interesting to thebpgeologist, and good exposures are rarely found. It is therefore essential first to study the glacial history of this region on the higher slopes of the range.
@@ -2256,17 +2225,13 @@ hundred yards upstream the moraine appears on both valley slopes, and it can be 
 
  To test this conclusion it was necessary to study the position of glacial formations and terraces in the adjoining Jhelum tract.  
 
-
 **E. GLACIATION OF THE SOUTHWESTERN SLOPE AND ITS CORRESPONDING  
 FEATURES IN THE FOOTHILLS OF JAMMU AND POONCH**  
 
-
 **GLACIATION OF THE JHELUM TRACT**  
-
 
 **GLACIAL DEPOSITS AND TERRACES IN THE UPPER JHELUM  
 VALLEY BETWEEN NAUSHERA AND RAMPUR**  
-
 
  The Jhelum River 10 miles below Baramula is just close enough to the upper Ningle drainage basin to permit geologic correlations. One of the left tributaries. actually drains the watershed between the Gulmarg region and the Jhelum, and it is in this side valley, called Gratnal Nullah, that consecutive observations were made for the sake of establishing contact with the upper Jhelum tract (fig. 103). Situated so near to the feeding ground of Pleistocene glaciers, this area appears to be most favorably suited for an investigation of glacial history in one of the major Himalayan transverse valleys.
 
@@ -2318,9 +2283,7 @@ terrace sequence, but because of the presence of two moraines in its vicinity (f
 
  Comparison of the sedimentary composition of these Jhelum terraces discloses the following arrangement:  
 
-
 [TABLE]
-
 
  This composition reflects the glacial and orogenic events characteristic for the Pleistocene in Kashmir. The early Quaternary and preglacial history in the Jhelum tract, up to the second ice advance, left no sedimentary records except for the lower Karewa fans near Baramula. But previously attention was drawn to the presence of at least two levels developed on higher spurs (fig. 105). The lower one lies some 3,300 feet and the other 5,400 feet above the stream bed. The former corresponds to a ledge developed on interstream divides, some 1,100 feet above the trough shoulder of the second glacier in the Hapatkai Valley (fig. 103). This, we believe, is part of the elevated mature relief of the Pir Panjal, which became dissected before the second glaciation set in. Its origin may be of early Pleistocene or somewhat older date. The largest glaciation, recorded by fans and moraines, was followed by another dissection due to uplift. To judge from the erosional effect it had on the fans, this uplift was weaker than the first interglacial movement. A third uplift caused dissection of the third glacial fill, and after the Jhelum had graded its course, another rejuvenation set in, which formed the slope above the fourth terrace. This development is in harmony with our interpretation of the Kashmir terraces. Its regional applicability, therefore, is established so far as southwestern Kashmir is concerned.
 
@@ -2745,7 +2708,6 @@ Trinkler's observation that the lake beds are overlain by moraines. A reexaminat
 
 [TABLE]
 
-
 **G. SUMMARY OF THE PLEISTOCENE IN KASHMIR**
 
  In the two previous sections it was shown how the various stages of the Kashmir Quaternary were simultaneously recorded in the drainage areas of the Indus, Jhelum, and Chenab rivers. Frequent reference was made to certaingeologic events which characterized particular periods, such as the formation of boulder fans or the deposition of lake beds. Notwithstanding the facts that sedimentation varied according to local conditions and that the records of glacial advances differ somewhat in various regions, it is nevertheless obvious that the Pleistocene history of the area is marked by definite cycles. Detailed descriptions have shown that these cycles were determined primarily by structural and climatic factors, and this dualistic character gives us a choice as to how to arrange the various stages in the most plausible chronologic manner. Either we can divide the Pleistocene of Kashmir into glacial and interglacial stages, or we can follow a more general scheme by recognizing lower-, middle-, and upper-Pleistocene
@@ -3038,7 +3000,6 @@ and colloidal material.
 
  A petrographic analysis shows the following composition for the fine-sand fraction (0.25 mm):  
 
-
 |                                              |            |
 |----------------------------------------------|------------|
 | Quartz                                       | 48 percent |
@@ -3047,7 +3008,6 @@ and colloidal material.
 | Feldspar                                     | 3          |
 
  The relative angularity of the quartz and phyllite-schist suites is as follows:  
-
 
 |              |              |                |
 |--------------|--------------|----------------|
@@ -3471,7 +3431,6 @@ HISTORY OF THE POTWAR REGION**
 
  In trying to analyze the geologic composition and ancient relief which this country had at the beginning of the Ice Age, it is necessary to give our definition of the Pliocene-Pleistocene boundary. In a previous paper (De Terra and Teilhard,1936) we have already presented evidence which shows that there is a marked dividing line between the Pliocene Middle Siwalik and the Pleistocene Upper Siwalik beds which underlie most of our territory. This is a disconformity, or at many places, as Pilgrim (1910, p. 192) has already stated, an angular unconformity which separates the thick masses of sandstones, clays, and conglomeratesof both groups. Though it is often not easy, at first sight, to distinguish the Upper from the Middle Siwaliks, it is nevertheless true that the latter are more cemented and more varied in color than the younger beds. In the Soan Valley the upper Dhok Pathan beds are composed of hard, coarse conglomerates and gray to reddish sandstones, and where these are missing tough reddish clays and siltstones usually underlie the basal Upper Siwalik conglomeratic sandstones. These are usually of looser consistency than those found in the Dhok Pathan zone, and the overlying pink clays are also less consolidated. A complete section, such as is found in the
 
-
 ![](../../../books_images/U-IMG-1698933307Screenshot2023-11-02192451.png)  
 FIGURE 153.—Geologic sketch map of the Potwar area. Letters stand for localities shown on figures 152 and 154.
 
@@ -3490,7 +3449,6 @@ Soan Valley near Chauntra, or on the northern slope of the Salt Range at Bhaun (
 ![](../../../books_images/U-IMG-1701314877Screenshot2023-11-30085632.png)
 
 shallower and the ridges lower, with the rivers meandering leisurely across the land, planing whatever relief the folding had formed. These rivers, however, could not have been the same as those which flow now in the Potwar region, for their size is wholly insufficient for so extensive an erosion as the peneplanation demands. We rather think that it was a major slope stream, such as the Jhelum, which now erodes a wide floor northwest of the Pabbi Hills anticline (fig. 153). This river probably once discharged part of its turbulent mountain waters through a water gap near Panjar, northeast of Kahuta. (See p. 280.) Indeed, the behavior of this stream at the mountain border provides, possibly, a sort of "leitmotif" for the Pleistocene history of the Potwar region. Figure 157 shows how the Jhelum approaches its outlet at Owen, in a valley which is deeply incised between two major faults. About 4 miles above Owen it receives a small stream from the region of
-
 
 ![](../../../books_images/U-IMG-1698934476Screenshot2023-11-02194423.png)  
 FIGURE 157.— Sketch map of Jhelum River outlet and upper Soan drainage in relation to structure. U.S., Upper Siwalik; M.S., Middle Siwalik; L.S., Lower Siwalik; F, fault.
@@ -3694,7 +3652,6 @@ FIGURE 162.—Crosssection through Soan syncline southeast of Rawalpindi (sectio
  A general geologic profile through the Soan syncline has been described by De Terra and Teilhard (1936) and needs no further explanation. Section 4 (fig. 162) gives a generalized version of our interpretation. Noteworthy is the thick Upper Siwalik filling of the trough with the great unconformity at the base, which in nature is more irregular and better adjusted, on its southeast end, to the dip of early Pleistocene beds. The Soan, as will shortly be described, has here denuded the terraces, some of which reappear a few miles downstream. Of special interest in this section are the exposures on which implements were found. These are distributed on the left bank between the Grand Trunk Road at milestone 163and the gravel-strewn ridge to the south and north of the road.
 
  At 400 yards west and about 200 yards north from milestone 163, another section (fig. 163) was taken. The top layer is loess of yellow color with a slight pinkish tint at the base. This is underlain by a thin gravel made up mainly of limestone pebbles, which are not as well rolled as in the underlying conglomerate. This is 90 feet thick in places and alternates with pink silt and sand. Its components
-
 
 ![](../../../books_images/U-IMG-1701137166Screenshot2023-11-28073255.png)
 
@@ -4132,8 +4089,6 @@ FIGURE 183.—Map of Narbada sites near Hoshangabad and Narsinghpur. Numbers in 
 | Planorbis coromandelicus Fab. Very rare.    |
 | Planorbis convexiusculus B. Rare.           |
 | Helix asperella Pfr.                        |
-
-
 
 |                                  |
 |----------------------------------|
@@ -4588,8 +4543,6 @@ Wadia, D. N., Geology of India, London, 1926.
 
 ![](../../../books_images/U-IMG-1700308977aaaaaa.png)
 
-
-
 **1.** Tawi Valley outlet on border of foothills at Jammu, incised in Upper Siwalik conglomerate.
 
 **2.** High Pir Panjal as seen from Chinamarg, Tosh Maidan.
@@ -4604,21 +4557,15 @@ Wadia, D. N., Geology of India, London, 1926.
 **2.** Fault-line scarp on Himalayan slope of Kashmir Basin near Gandarbal.  
 **3.** Great Karewa terrace and Jhelum plain near Bijbiara.
 
-
-
 ![](../../../books_images/U-IMG-1700309714aaaaaa.png)
 
 **1.** Sind Valley from Mohand Marg. Main terrace at right covering Mangom moraine.  
 **2.** Sind Valley from point above Gandarbal.
 
-
-
 ![](../../../books_images/U-IMG-1700309899aaaaaa.png)
 
 **1.** Contact of Woyil conglomerate and Mangom moraine.  
 **2.** Erratics in second glacial clay below Woyil.
-
-
 
 ![](../../../books_images/U-IMG-1700310259aaaaaa.png)
 
@@ -4627,35 +4574,25 @@ Wadia, D. N., Geology of India, London, 1926.
 
 ![](../../../books_images/U-IMG-1700311187aaaaaa.png)
 
-
 **1.** Glaciated floor of first glacial age 500 feet above valley floor opposite Sura Pharao. (See fig. 29.)  
 **2.** The Sonamarg Basin from the east.
-
-
 
 ![](../../../books_images/U-IMG-1700311418aaaaaa.png)
 
 **1.** Tilted second interglacial cemented fan breccia of the Sonamarg.  
 **2.** Almost horizontal cemented third interglacial conglomerate at west end of Sonamarg Basin
 
-
-
 ![](../../../books_images/U-IMG-1700311612aaaaaa.png)
 
 **1.** View upstream from Sonamarg. See text for explanation.  
 **2.** View from Islamabad Hill toward Bawan. Note extensive T1 and T2 visible in distance but missing closer to Islamabad.
-
-
 
 ![](../../../books_images/U-IMG-1700311892aaaaaa.png)
 
 **1.** Kanjdori Hill from the west.  
 **2.** Nekabatun Gorge, showing composite slope profile of first and second glaciations. Third moraine banked against second interglacial gorge.
 
-
-
 ![](../../../books_images/U-IMG-1700312070aaaaaa.png)
-
 
 **1.** Striated boulder in second glacial conglomerate, Piush Gorge.  
 **2.** Sombur quarry with elephant bones uncovered in first interglacial clay.  
@@ -4669,11 +4606,7 @@ Wadia, D. N., Geology of India, London, 1926.
 
 **3.** Takht-i-Suleiman as seen from Gagribal. B, lower bench.
 
-
-
 ![](../../../books_images/U-IMG-1700298254ssssssss.png)
-
-
 
 **1.** Upper portion of Bren spur with raised beaches above fields cut into bedrock. In background, Dal Lake and outlet of Sind Valley.
 
@@ -4695,21 +4628,15 @@ Panorama view of high Pir Panjal from Chimarg (13,300 feet) Preglacial nature re
 
 ![](../../../books_images/U-IMG-1700301439ttttttt.png)
 
-
 **1.** Lower Karewa beds (zone 4) exposed on 300-foot cliff in Shaliganga Valley.  
 **2.** Cliff below Dangarpur at 6,350 feet. Lower Karewa conglomerate (15 feet) underlain by gray shell bearing clay and overlain by lignite bearing sand.  
 **3.** Glacier remnants on watershed range, Gorapathri, upper Harseni Valley.
-
-
 
 ![](../../../books_images/U-IMG-1700302118aaaaaaa.png)
 
 Faulted anticline in Lower Karewa clay overlain by second glacial outwash below Shupiyan.
 
-
-
 ![](../../../books_images/U-IMG-1700302843aaaaaa.png)
-
 
 **1.** Basam Gali Pass (G₂), a second glacial trough in watershed range. GM₂, second ground moraine; T1, second terrace; G₃, third moraine.
 
@@ -4720,7 +4647,6 @@ Faulted anticline in Lower Karewa clay overlain by second glacial outwash below 
 **4.** Watershed of Tosh Maidan toward Kashmir Basin, with third glacial overflow trough (G₃). G₄, fourth glacial deposits.
 
 ![](../../../books_images/U-IMG-1700303245aaaaaa.png)
-
 
 **1.** Structure soil at 10,800 feet on third moraine of Tosh Maidan. GM2, ground moraine of second glacier.
 
@@ -4747,7 +4673,6 @@ Faulted anticline in Lower Karewa clay overlain by second glacial outwash below 
 **3.**Tilted Lower Karewa beds (LK) overlain by third glacial gravel (Gm) on left bank of Vishav River below Sedauthur. T₂, T₃, T₄ terraces
 
 ![](../../../books_images/U-IMG-1700307326aaaaaa.png)
-
 
 **1.** Ferozepur Valley at Drang, with snowy Pir Panjal in background, M₃, terminal moraine of third glacier; Gz, second glacial trough; T₃, T₄, terraces.
 
@@ -4786,8 +4711,6 @@ Faulted anticline in Lower Karewa clay overlain by second glacial outwash below 
 **4.** Various types of potsherds from Burzahom. C, mat design and incised ceramics on hard gray hand-made pottery; B, from layer B.
 
 ![](../../../books_images/U-IMG-1700629471aaaaaa.png)
-
-
 
 **1.** Potwar peneplain over Middle Siwalik beds west of Chauntra, with Khair-i- Murat ridge in background.  
 **2.** Soan Valley near Chakri, with Khair-i-Murat in background.
@@ -4908,8 +4831,6 @@ Nos. **1, 2, 3, 5**—type (i). No.**4**—type (ii). No.**6.**—type (iii).
 ![](../../../books_images/U-IMG-1700647595aaaaaa.png)  
 LATE SOAN A CORES
 
-
-
 No. 1—type (v).  
 No. 2, 4, 5, 6—type (iv),  
 No. 7—type (vi).  
@@ -4949,7 +4870,6 @@ SUKKUR, GROUPS B AND C: HAND-AX TYPE OF CORE
 Nos. **1** and **2** are probably true cores; no. **3** shows some signs of retouch, and no. **4** is trimmed to form what is undoubtedly a true implement, closely resembling an Acheulian hand ax.
 
 ![](../../../books_images/U-IMG-1700653229aaaaaa.png)
-
 
 ROHRI I: CORES AND WASTE FLAKE
 
@@ -4998,80 +4918,11 @@ FOSSIL PLANTS FROM INTERGLACIAL KAREWA CLAYS, KASHMIR
 
 ![](../../../books_images/U-IMG-1700654102aaaaaa.png)
 
-
-
 ![](../../../books_images/U-IMG-1700654871aaaaaa.png)
-
-
 
 ![](../../../books_images/U-IMG-1700655167aaaaaa.png)
 
 (For explanation see opposite page.)
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

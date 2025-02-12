@@ -15,8 +15,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
 \[
 
-
-
 [TABLE]
 
  **अथेदमारभ्यते लब्धप्रणाशं नाम चतुर्थं तन्त्रं यस्यायमादिमः श्लोकः।**
@@ -105,8 +103,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 न गङ्गदत्तः पुनरेति कूपम्॥१५॥**
 
  मकर आह। कथमेतत्। स आह।
-
-
 
 **कथा १.**
 
@@ -721,17 +717,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 **अकृत्वा पौरुषं या श्रीः किं तयापि सुभोग्यया।  
 जरद्गवोऽपि चाश्नाति दैवादुपगतं तृणम्॥११८॥**
 
-
-
 ॥इति समाप्तं लब्धप्रणाशं नाम चतुर्थं तन्त्रम्॥
 
 –––––––––––––––––––––––––––
 
-
-
 अत्र श्लोकसंख्या 1 तः 11 पर्यन्तम् लुप्ताः
-
-
 
  अन्यच्च।
 
@@ -1268,8 +1258,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 ॥एवं पञ्चतन्त्रकं नाम नीतिशास्त्रं समाप्तम्॥
 
 ![](../books_images/U-IMG-1722965680Annotation2024-08-06205418.png)
-
-
 
 **NOTES TO PANCHATANTRA IV. AND V.**
 
@@ -1817,8 +1805,6 @@ Metre of sloka 68, Śârdûlavikrîḍita. The Vṛishṇis, a subdivi-sion of t
 
  **P*.*56,1.12.—
 
-
-
 **आशापिशाचिका**
 
 'a cruel and delusive hope.'
@@ -1895,8 +1881,6 @@ Uśanas or Sukra was, according to Hindu mythology, the teacher of the Daityas, 
 
  P.63,1.25.—
 
-
-
 **कर्मन्** 'fate,' because the acts of man produce merit or demerit, *i.e.,* the apúrva guṇa, and this determines his good or bad fortune in his next life. **संमुख** 'favourable.' *i.e.*, Mathura, the modern Muttra.
 
  P.64,1.2.—
@@ -1946,9 +1930,5 @@ The fabulous birds, called **भारण्ड** or **भारुण्ड** l
 ——————————————————————————————————————————
 
 THE END  
-
-
-
-
 
 \]

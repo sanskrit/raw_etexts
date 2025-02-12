@@ -16,17 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1ODE2MzgxMDM
 
 \[
 
-
-
 [TABLE]
-
-
-
-
-
-
-
-
 
 INTRODUCTION
 
@@ -34,9 +24,9 @@ INTRODUCTION
 
 [^1]: "cf (a
 
- Sanskrit literature is not rich in prose romance. about a dozen prose romances, only four, viz. Subandhu's Vasavadatta, Bana's Kadambari and Harsha Charita and Dandin's Dasakumaracharita are famous.These prose works are considered to be of two[^3] kinds 1. Katha and 2. Akhyayika[^4]. Bana's Kadambari is a good example of the former, while his Harshacharita is of the latter.
-
 [^2]: "गद्य पद्य च मिश्र च तत् त्रिधैव व्यवस्थितम्—Dandin"
+
+ Sanskrit literature is not rich in prose romance. about a dozen prose romances, only four, viz. Subandhu's Vasavadatta, Bana's Kadambari and Harsha Charita and Dandin's Dasakumaracharita are famous.These prose works are considered to be of two[^3] kinds 1. Katha and 2. Akhyayika[^4]. Bana's Kadambari is a good example of the former, while his Harshacharita is of the latter.
 
 [^3]: " The Agnipurana gives five classifications.–? आख्यायिका २. कथा ३. खण्डकथा ४. परिकथा and ५. कथानिका. But Dandin does not recognise these distinctions. See Kavyadarsa I 23-30."
 
@@ -131,10 +121,6 @@ For more particulars see JIof Sam. Sah. Par. XIII 36-8. good luck, as it clung t
 आ सर्वत्र गभीरधीरकविताविन्ध्याटवी चातुरी-  
 सञ्चारी कविकुम्भिकुम्भभिदुरो बाणस्तु पञ्चाननः॥**
 
-
-
-
-
 **॥श्रीः॥**
 
 **कादम्बरी**  
@@ -174,8 +160,6 @@ For more particulars see JIof Sam. Sah. Par. XIII 36-8. good luck, as it clung t
 हरन्ति कं नोज्ज्वलदीपकोपमैर्नवैः पदार्थैरुपपादिताः कथाः।  
 निरन्तरश्लेषघनाः सुजातयो महास्त्रजश्चम्पककुड्मलैरिव॥९॥
 
-
-
 —कविवंशवर्णनम्—
 
 **बभूव वात्स्यायनवंशसंभवो द्विजो जगद्गीतगुणोग्रणीः सताम्।  
@@ -211,8 +195,6 @@ For more particulars see JIof Sam. Sah. Par. XIII 36-8. good luck, as it clung t
 **द्विजेन तेनाक्षतकण्ठकौण्ठ्यया महामनोमोहमलीमसान्धया।  
 अलब्धवैदग्ध्यविलासमुग्धया धिया निबद्धेयमतिद्वयी कथा॥२०॥**
 
-
-
   १ आसीदशेषनरपतिशिरः समभ्यर्चितशासनः पाकशासन इवापरः, चतुरुदधिमालामेखलाया भुवो भर्ता, प्रतापानुरा- गावनतसमस्तसामन्तचक्रः,, चक्रवर्तिलक्षणोपेतः, चक्रधर इव करकमलोपलक्ष्यमाणशङ्खचक्रलाञ्छनः, हर इव जितमन्मथः, गुह इवाप्रतिहतशक्तिः, कमलयोनिरिव विमानीकृतराजहंसमण्डलः, जलधिरिव लक्ष्मीप्रसूतिः, गङ्गाप्रवाह इव भगीरथपथप्रवृत्तः, रविरिव प्रतिदिवसोपजायमानोदयः, मेरुरिव सकलभुवनोपजीव्यमानपादच्छायः, दिग्गज इवानवरतप्रवृत्तदानार्द्रीकृतकरः, कर्ता महाश्चर्याणाम्, आहर्ता क्रतूनाम्, आदर्शः सर्वशास्त्राणाम्, उत्पत्तिःकलानाम्, कुलभवनं गुणानाम्, आगमः काव्यामृतरसानाम्, उदयशैलो मित्रमण्डलस्य, उत्पातकेतुरहितजनस्य, प्रवर्तयितागोष्ठीबन्धानाम्, आश्रयो रसिकानाम्, प्रत्यादेशो धनुष्मताम्, धौरेयः साहसिकानाम्, अग्रणीर्विदग्धानाम्, वैनतेय इव विनतानन्दजननः, वैन्य इव चापकोटिसमुत्सारितसकलारातिकुलाचलो राजा शूद्रको नाम।
 
  २ नाम्नैव यो निर्भिन्नारातिहृदयो विरचितनारसिंहरूपाडम्बरमेकविक्रमाक्रान्तसकलभुवनतलो बिक्रमत्रयायासितं च जहासेव वासुदेवम्। अतिचिरकाललग्नमतिक्रान्तकुनृपतिसहस्रसंपर्ककलङ्कमिव क्षालयन्ती यस्य विमले कृपाणधाराजले चिरमुवास राजलक्ष्मीः। यश्च मनसि धर्मेण कोपे यमेन, प्रसादे धनदेन प्रतापे वह्निना, भुजे भुवा, दृशि श्रिया वाचि सरस्वत्या मुखे शशिना, बले मरुता, प्रज्ञायां सुरगुरुणा, रूपे मनसिजेन, तेजभि सवित्रा च वसता सर्वदेवमयस्य प्रकटितविश्वरूपाकृतेरनुकरोतिभगवतो नारायणस्य। यस्य च मदकलकरिकुम्भपीठपाटनमाचरतो लग्नस्थूलमुक्ताफलेनदृढमुष्टिनिपीडनान्निष्ठ्यूतधाराजलबिन्दुदन्तुरेणेव कृपाणेनाकृष्यमाणा सुभटोरःकपाटविघटित- कवचसहस्रान्धकारमध्यवर्तिनीकरिकरटतटगलितमदजलासारदुर्दिनास्वभिसारिकेवसमरनिशासु समीपमसकृदाजगाम राजलक्ष्मीः। यस्य च हृदयस्थितानपि पतीन्दिधक्षुरिव प्रतापानलो वियोगिनीनामपि रिपुसुन्दरीणामन्तर्जनितदाहो दिवानिशं जज्वाल। यस्मिंश्च राजनि जितजगति, परिपालयति महींचित्रकर्मसु वर्णसंकराः, रतेषु केशग्रहाः, काव्येषु दृढबन्धाः, शास्त्रेषु चिन्ता, स्वप्नेषु विप्रलम्भाः, छत्त्रेषु कनकदण्डाः, ध्वजेषु प्रकम्पाः, गीतेषु रागविलसितानि, करिषु मदविकाराः, चापेषु गुणच्छेदाः, गवाक्षेषु जालमार्गाः, शशिकृपाणकवचेषु कलङ्काः, रतिकलहेषु दूतसंप्रेषणानि, शार्यक्षेषु शून्यगृहाः प्रजानामासन्। यस्य च परलोकाद्भयम्, अन्तःपुरिकालकेषु भङ्गः, नूपुरेषु मुखरता, विवाहेषु करग्रहणम्, अनवरतमखाग्निधूमेनाश्रुपातः, तुरंगेषु कशाभिघातः, मकरध्वजे चापध्वनिरभूत्।
@@ -247,29 +229,19 @@ For more particulars see JIof Sam. Sah. Par. XIII 36-8. good luck, as it clung t
 
  १३ अथ विसर्जितराजलोको विश्रम्यतामिति स्वयमेवाभिधाय तां चाण्डालकन्यकां, वैशम्पायनः प्रवेश्यतामभ्यन्तरमिति ताम्बूलकरङ्कवाहिनीमादिश्य कतिपयाप्तराजपुत्रपरिवृतो नरपति-
 
-
-
 रभ्यन्तरं प्राविशत्। अपनीताशेषभूषणश्च दिवसकर इव विगलितकिरणजालश्चन्द्रतारकासमूहशून्य इव गगनाभोगः समुपाहृतसमुचितव्यायामोपकरणां व्यायामभूमिमयासीत्। स तस्यां च समानवयोभिः सह राजपुत्रैः कृतमधुरख्यायामः, श्रमवशादुन्मिषन्तीभिः कपोलयोरीषदवदलितसिन्धुवारकुसुममञ्जरीविभ्रमाभिरुरसि निर्दयश्रमच्छिन्नहारविगलितमुक्ता- फलप्रकरानुकारिणीभिर्ललाटपट्टकेऽष्टमीचन्द्रशकलतलोल्लसदमृतबिन्दुविडम्बिनीभिः स्वेदजलकणिकासंततिभिरलं- क्रियमाणमूर्तिः, इतस्ततः स्नानोपकरणसंपादनसत्वरेण पुरः प्रधावता परिजनेन तत्कालं विरलजनेपि राजकुले समुत्सारणाधिकारमुचितमाचरद्भिर्दण्डिभिरुपदिश्यमानमार्गः, विततसितवितानामनेकचारणगणावबध्यमानमण्डलां गन्धोदकपूर्णकनकमयजलद्रोणीसनाथमध्यामुपस्थापितस्फाटिकस्नानपीठामेकान्तनिहितैरतिसुरभिगन्धसलिलपूर्णैः परि- मलावकृष्टमधुकरकुलान्धकारितमुखैरातपभयान्नीलकर्पटावगुण्ठितमुखैरिव स्नानकलशैरुपशोभितां स्नानभूमिमगच्छत्। अवतीर्णस्य जलद्रोणीं वारविलासिनीकरमृदितसुगन्धमलकोपलिप्तशिरसो राज्ञः समन्तात्समुपतस्थुरंशुकनिबिडनिबद्वस्तनपरिकरा दूरसमुत्सारितवलयबाहुलताः समुत्क्षिप्तकर्णाभरणाः कर्णोत्सङ्गोत्सारितालका गृहीतजलकलशाः स्नानार्थमभिषेकदेवता इव वारयोषितः। ताभिश्च समुन्नतकुचकुम्भमण्डलाभिर्वारिमध्यप्रविष्टः करिणीभिरिव वनकरी परिवृतस्तत्क्षणं राजा रराज। जलद्रोणीसलिलादुत्थाय च स्नानपीठममलस्फटिकधवलं वरुण इव राजहंसमारुरोह। ततस्ताः काश्चिन्मर-
-
-
 
 कतकलशप्रभाश्यामायमाना नलिन्य इव मूर्तिमत्यः पत्रपुटैः, काश्चिद्रजतकलशहस्ता रजन्य इव पूर्णचन्द्रमण्डलविनिर्गतेन ज्योत्स्नाप्रवाहेण, काश्चित्कलशोत्क्षेपश्रमस्वेदार्द्रशरीरा जलदेवताइव स्फाटिकैः कलशैस्तीर्थजलेन, काश्चिन्मलयसरित इव चन्दनरसमिश्रेण सलिलेन, काश्चिदुत्क्षिप्तकलशपार्श्वविन्यस्तहस्तपल्लवाः प्रकीर्यमाणनखमयूखजालकाः प्रत्यङ्गुलिविवरविनिर्गतजलधाराः सलिलयन्त्रदेवता इव, काश्चिज्जाड्यमपनेतुमाक्षिप्तबालातपेनेव दिवसश्रिय इव कनककलशहस्ताः कुङ्कुमजलेन, वाराङ्गनाः क्रमेण राजानमभिषिषिचुः। अनन्तरमुदपादि च स्फोटयन्निव श्रुतिपथमनेकप्रहतपटुपटहझल्लरीमृदङ्गवेणुवीणागीतनिनादानुगम्यमानो बन्दिवृन्दकोलाहलाकुलो भुवनविवरव्यापी स्नानशङ्खानामापूर्यमाणानामतिमुखरो ध्वनिः।
 
  १४ एवं च क्रमेण निर्वर्तिताभिषेको विषधरनिर्मोंकपरिलघुनी धवले परिधाय धौतवाससी शरदम्बरैकदेश इव जलक्षाल- नाविमलतनुरतिधवलजलधरच्छेदशुचिना दुकूलपटपल्लवेन तुहिनगिरिरिव गगनसरित्स्रोतसा कृतशिरोवेष्टनः संपादितपितृजलक्रियो मन्त्रपूतेन तोयाञ्जलिना दिवसकरमभिप्रणम्य देवगृहमगमत्। उपरचितपशुपतिपूजनश्च निष्क्रम्य देवगृहान्निर्वर्तिताग्निकार्यो विलेपनभूमौ झंकारिभिरलिकदम्बकैरनुबध्यमानपरिमलेन मृगमदकर्पूरकुङ्कुमवाससुरभिणा चन्दनेनानुलिप्तसर्वाङ्गोविरचितामोदिमालतीकुसुमशेखरः कृताम्बरपरिवर्तो रत्नकर्णपूरमात्राभरणः समु-
 
-
-
 चितभोजनैः सह भूपतिभिराहारमभिमतरसास्वादजातप्रीतिरवनिपो निर्वर्तयामास।
 
  १५. परिपीतधूपवर्तिरुपस्पृश्य च गृहीतताम्बूलस्तस्नात्प्रमृष्टमणिकुट्टिमात्प्रदेशादुत्थाय नातिदूरवर्तिन्या ससंभ्रमप्रधावितया प्रतीहार्या प्रसारितबाहुमवलम्ब्या नवरतवेत्रलताग्रहणप्रसङ्गातिजरठकिसलयानुकारिकरतलकरेणा- भ्यन्तरसंचारसमुचितेन परिजनेनानुगम्यमानो धवलांशुकजवनिकापरिगतपर्यन्ततया स्फटिकमणिमयभित्तिबद्धमिवोप- लक्ष्यमाणमतिसुरभिमृगनाभिपरिगतेनामोदिना चन्दनवारिणा सिक्तशिशिरमणिभूमिमविरलविप्रकीर्णेन विमलमणिकुट्टिमगगनतलतारागणेनेव कुसुमोपहारेण निरन्तरनिचितमुत्कीर्णशालभञ्जिकानिवहेनसंनिहितगृहदेवतेनेव गन्धसलिलक्षालितेन कलधौतमयेन स्तम्भसंचयेन विराजमानमतिबहलागुरुधूपपरिमलमखिलविगलितजलनिवह- धवलजलधरकलानुकारिणाकुसुमामोदवासितप्रच्छदपटेनपट्टोपधानाध्यासितशिरौधाम्नामणिमयप्रतिपादुकाप्रतिष्ठित- पादेन पार्श्वस्थरत्नपादपीठेन तुहिनगिरिशिलातलसदृशशयनेन सनाथीकृतवेदिके (भुक्त्वा) आस्थानमण्डपमयासीत्। तत्र च शयनतलनिषण्णः क्षितितलोपविष्टया शनैः शनैरुत्सङ्गनिहितासिलतया खड्गवाहिन्या नवनलिनदलकोमलेन करसंपुटेन संवाह्यमानचरणस्तत्कालोचितदर्शनैरवनिपतिभिरमात्यैर्मित्रैश्च सह तास्ताः कथाः कुर्वन्मुहूर्तमिवासांचक्रे। ततो नातिदूरवर्तिनीमन्तः पुराद्वैशम्पायनमादायागच्छेति समुपजाततद्वृत्तान्तप्रश्नकुतूहलो राजा प्रतीहारीमादिदेश। सा क्षितितलनिहितजानु-
 
-
-
 करतला"यथाज्ञापयति देवः" इति शिरसि कृत्वाज्ञांयथादिष्टमकरोत्।
 
  १६ अथ मुहूर्तादिव वैशम्पायनः प्रतीहार्यागृहीतपञ्जरःकनकवेत्रलतावलम्बिना किंचिदवनतपूर्वकायेन सितकञ्चुकावच्छन्नवपुषा जराघवलितमौलिना गद्गदस्वरेण मन्दमन्दसंचारिणाविहंगजातिप्रीत्या जरत्कलहंसेनेव कञ्चुकिनानुगम्यमानो राजान्तिकमाजगाम। क्षितितलनिहितकरतलस्तु कञ्चुकी राजानंव्यज्ञापयत्। "देव, देव्यो विज्ञापयन्ति। देवादेशादेष वैशम्पायनः स्नातः कृताहारश्च देवपादमूलं प्रतीहार्यानीतः"—इत्यभिधाय गते च तस्मिन् राजा वैशम्पायनमपृच्छत्। “कच्चिदभिमतमास्वादितमभ्यन्तरेभवता किंचिदशनजातम् ?” इति। सप्रत्युवाच। “देव किं वा नास्वादितम् ? आमत्तकोकिललोचनच्छविर्नीलपाटल; कषायमधुरः प्रकाममापीतो जम्बूफलरसः। हरिनखरभिन्नमत्तमातङ्गकुम्भमुकरत्कार्दमुक्ताफलत्विंषि खण्डितानि दाडिमबीजानि। नलिनीदलहरिन्ति द्राक्षाफलस्वादूनि च दलितानिस्वेच्छया प्राचीनामलकीफलानि। किं वा प्रलपितेन बहुना ?सर्वमेव देवीभिः स्वयं करतलोपनीयमानममृतायते।”— इत्येवंवादिनो वचनमाक्षिप्य नरपतिरब्रवीत्।—"आस्तां तावत्सर्वमेवेदम्।अपनयतु नः कुतूहलम्। आवेदयतु भवानादितःप्रभृति कार्त्स्न्येनात्मनो जन्म। कस्मिन्देशे भवान्कथं जातः ?केन वा नाम कृतम् ? का माता ? कस्ते पिता ? कथं वेदानामागमः ? कथं शास्त्राणां परिचयः ? कुतः कलाः समासादिताः ?
-
-
 
 किं जन्मान्तरानुस्मरणम्, उत वरप्रदानम् ? अथवा विहंगवेषधारीकश्चिच्छन्नं निवससि ? क्व वा पूर्वमुषितम् ? कियद्वा वयः। कथंपञ्जरबन्धः ? कथं चाण्डालहस्तगमनम् ? इह वा कथमागमनम्”इति। वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनिपतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत्।—"देव, महतीयं कथायदि कौतुकमाकर्ण्यताम्।
 
@@ -277,11 +249,7 @@ For more particulars see JIof Sam. Sah. Par. XIII 36-8. good luck, as it clung t
 
  १७ अस्ति पूर्वापरजलनिधिवेलावलग्ना, मध्यदेशालंकारभूता मेखलेव भुवः, वनकरिकुलमदजलसेकसंवर्धितैरति- विकचधवल कुसुमनिकरमत्युच्चतया तारागणमिव शिखरदेशलग्नमुद्वहद्भिः पादपैरुपशोभिता, मदकलकुररकुलदश्यमानमरिचपल्लवा, करिकलभकरमृदिततमालकिसलयामादिनी,मधुमदोषरक्तकेरलीकपोल- कोमलच्छविना संचरद्वनदेवताचरणालक्तकरसरञ्जितेनेव पल्लवप्रचयेन संछादिता, शुककुलदलितदाडिमी- फलद्रवार्द्रीकृततलैरतिचपलकपिकम्पितकक्कोलच्युतपल्लवफलशबलैरनवरतनिपतितकसुमरेणुपांसुलैःपथिकजन- रचितलवङ्गपल्लवसंस्तरैरतिकठोरनालिकेरकेतकीकरीरकेसरपरिगतप्रान्तैस्ताम्बूलीलतावनद्व पूगखण्डमण्डितैर्वन- लक्ष्मीवासंभवनैारेव विराजिता लतामण्डपैः, उन्मदमातङ्गकपोलस्थलगलितमदसलिलसिक्तेनेव निरन्तरमेलालतावनेन मदगन्धिनान्धकारिता, नखमुखलग्नेभकुम्भमुक्ताफललुब्धैः शबरसेनापतिभिरभिहन्यमानकेसरिशता, प्रेताधिपनगरीव सदासंनिहितमृत्युभीषणा महिषाधिष्ठिता च, समरोद्यतपताकिनीव बाणासना-
 
-
-
 रोपितशिलीमुखा विमुक्तसिंहनादा च, कात्यायनीव प्रचलितखड्गभीपणा रक्तचन्दनालंकृता च, कर्णीसुतकथेव संनिहितविपुलाचला शशोपगता च,कल्पान्तप्रदोषसन्ध्येव प्रनृत्तनीलकण्ठापल्लवारुणा च, अमृतमथनवेलेव श्रीद्रुमोपशोभिता वारुणीपरिगताच, प्रावृडिव घनश्यामलानेकशतह्रदालंकृता च, चन्द्रमूर्तिरिवसंततमृक्षसार्थानुगता हरिणाध्यासिता च, राज्यस्थितिरिव चमरमृगवालव्यजनोपशोभिता समदगजघटापरिपालिता च, गिरितनयेव स्थाणुसंगता मृगपतिसेविता च, जानकीव प्रसूतकुशलवानिशाचरपरिगृहीता च, कामिनीव चन्दनमृगमदपरिमलवाहिनीरुचिरागुरुतिलकभूषिता च, सोत्कण्ठेव विविधपल्लवानिलवीजिता समदना च, बालग्रीवेव व्याघ्रनखपङ्क्तिमण्डिता गण्डकाभरणा च, पानभूमिरिव प्रकटितमधुकोशकशता प्रकीर्णविविधकुसुमा च, कवचित्प्रलयवेलेव महावराहदंष्ट्रासमुत्खातधरणिमण्डला, क्वचिद्दशमुखनगरीव चटुलवानरवृन्दभज्यमानतुङ्गशालाकुला, क्वचिदचिरनिवृत्तविवाहभूमिरिव हरितकुशसमित्कुसुमशमीपलाशशोभिताः, क्वचिदुदुवत्तमृगपतिनादभीतेव कण्टकिता,क्वचिन्मत्तेव कोकिलकुलप्रलापिनी, क्वचिदुन्मत्तेव वायुवेगकृततालशब्दा, क्वचिद्विधवेवोन्मुक्ततालपत्रा, क्वचित्समरभूमिरिवशरशतनिचिता, क्वचिदमरपतितनुरिव नेत्रसहस्रसंकुला, क्वचिन्नारायणमूर्तिरिव तमालनीला, क्वचित्पार्थरथपताकेव वानराक्रान्ता,क्वचिदवनिपतिद्वारभूमिरिव वेत्रलताशतदुष्प्रवेशा, क्वचिद्विराटनगरीव कीचकशतावृता, क्वचिदम्बरश्रीरिव व्याधानुगम्यमान-
-
-
 
 तरलतारकमृगा; क्वचिद् गृहीतव्रतेव दर्भचीरजटावल्कलधारिणी,अपरिमितबहुलपत्रसंचयापि सप्तपर्णभूषिता, क्रूरसत्वापि मुनिजनसेविता, पुष्पवत्यपि पवित्रा विन्ध्याटवी नाम।
 
@@ -289,29 +257,19 @@ For more particulars see JIof Sam. Sah. Par. XIII 36-8. good luck, as it clung t
 
  १९ यत्र च दशरथवचनमनुपालयन्नुत्सृष्टराज्यो दशवदनलक्ष्मीविभ्रमविरामो रामो महामुनिमगस्त्यमनुचरन्सह सीतयालक्ष्मणोपरचितरुचिरपर्णशालः पञ्चवट्यां कंचित्कालं सुखमुवास !
 
-
-
 चिरशून्येद्यापि यत्र शाखानिलीननिभृतपाण्डुकपोतपङक्तयो लग्नतापसाग्निहोत्रधूमराज‍य इव लक्ष्यन्ते तरवः। बलिकर्मकुसुमान्युद्धरन्त्याः सीतायाः करतलादिव संक्रान्तो यत्र रागः स्फुरतिलताकिसलयेषु। यत्र च पीतोद्गीर्णं जलनिधिजलमिव मुनिनानिखिलमाश्रपोपान्तवर्तिषु विभक्तं महाह्रदेषु। यत्र दशरथसुतनिशितशरनिकर-निपात-निहत रजनिचरबल-बहुलरुधिरसिक्तमूलम्अद्यापि तद्रागाविद्धनिर्गतपलाशमिवाभाति नवकिसलयमरण्यम्।अधुनापि यत्र जलधरसमये गम्भीरमभिनवजलधरनिवहनिनादमाकर्ण्य भगवतो रामस्य त्रिभुवनविवरव्यापिनश्चापघोषस्य स्मरन्तोन गृह्णन्ति शष्पकवलमजस्रमश्रुजललुलितदीनदृष्टयो वीक्ष्य शून्यादश दिशो जराजर्जरितविषाणकोटयो जानकीसंवर्धिता जीर्णमृगाः। यस्मिन्ननवरतमृगयानिहतशेषवनहरिणप्रोत्साहित इवकृतसीताविप्रलम्भः कनकमृगो राघवमतिदूरं जहार। यत्र चमैथिलीबियोगदुःखदुःखितौ दशवदनविनाशपिशुनौ चन्द्रसूर्याविवकबन्धग्रस्तौ समं रामलक्ष्मणौ त्रिभुवनभयं महच्चक्रतुः। अत्यायतश्च यस्मिन्दशरशसुतशरनिपातितो योजनबाहोर्बाहुरगस्त्यप्रसादनागतनहुषाजगरकायशङ्कामकरोदृषिजनस्य। जनकतनया च भर्त्रा विरहविनोदनार्थमुटजाभ्यन्तरलिखिता यत्र रामनिवासदर्शनोत्सुकापुनरिव धरणितलादुल्लसन्ती वनचरैरद्याप्यालोक्यते।
 
  २० तस्य चैवंविधस्य संप्रत्यपि प्रकटोपलक्ष्यमाणपूर्ववृत्तान्तस्यागस्त्याश्रमस्य नातिदूरे जलनिधिपानप्रकुपितवरुणो- त्साहितेनागस्त्यमत्सरात्तदाश्रनसमीपवर्त्यपर इव वेधसा महाजलनिधि-
 
-
-
 रुत्पादितः, प्रलयकालविघटिताष्टदिग्भागसन्धिबन्धं गगनतलमिव भुवि निपतितम्, आदिवराहसमुद्धृतघरा- मण्डलस्थानमिवसलिलपूरितम्, अनवरतमज्जदुन्मदशबरकामिनीकुचकलशलुलितजलम्, उत्फुल्लकुमुदकुवलय- कल्हारम्, उन्निद्रारविन्दमधुबिन्दुनिस्यन्दबद्धचन्द्रकम्, अलिकुलपटलांघकारितसौगन्धिकम्,आरसितसमदसारसम्, अम्बुरुहमधुपानमत्तकलहंसकामिनीकृतकोलाहलम्, अनेकजलचरपतंगशतसंचलनचञ्चलितवाचालवीचिमालम्, अनिलोल्लासितकल्लोलशिखरसीकरारब्धदुर्दिनम्, अशङ्कितावतीर्णाभिरम्भःक्रीडारागिणीभिः स्नानसमये वनदेवताभिः केशपाशुकुसुमैः सुरभीकृतम्, एकदेशावतीर्णमुनिजनापूर्यमाणकमण्डलुकलकलध्वनिमनोहरम्, उन्मिषदुत्पलवनमध्यचारिभिः सवर्णतया रसितानुमेयैः कादम्बकदम्बकैरासेवितम्, अभिषेकावतीर्णपुलिन्दराज- सुन्दरीकुचचन्दनधूलिधवलिततरंगम्,उपान्तजातकेतकीरजःपटलबद्वकूलपुलिनम्, आसन्नाश्रमागततापसक्षालित- र्द्रवल्कलकषायपाटलतटजलम्, उपतटविटपिपल्लवानिलवीजितम्,अविरलतमालवीथिकान्धकारिताभिर्वालिनिर्वासितेन संचरता प्रतिदिनमृष्यमूकवासिना सुग्रीवेणावलुप्तफलपरिलघुलताभिरुदवासितापसानां देवतार्चनोपयुक्तकुसुमाभिरु- त्पतज्जलचरपतंगपक्षपुटविगलितजलबिन्दुसेकसुकुमारकिसलयाभिर्लतामण्डपतलस्थितशिखण्डिमण्डलारब्धताण्डवभिःअनेककुसुमपरिमलवाहिनीभिर्वनदेवताभिःश्वासवासिताभिरिव वनराजिभिरुपरुद्वतीरम्, अपरसागराशङ्किभिः सलिलमादातुमवतीर्णैजलधरैरिव बहलपङ्कमलिनैर्वनकरिभिरनवरत-
-
-
 
 मापीयमानसलिलम्, अगाधम्, अनन्तम्, अप्रतिमम्, अपां निधानं,पम्पाभिधानं पद्मसरः। यत्र च विकचकुवलय- प्रभाश्यामायमानपक्षपुटान्यद्यापि मूर्तिमद्रामशापग्रस्तानीव मध्यचारिणामालोक्यन्ते चक्रनाम्नां मिथुनानि।
 
  २१ तस्यैवंविधस्य पद्मसरसः पश्चिमे तीरे राघवशरप्रहारजर्जरितजीर्णतालतरुखण्डस्य च समीपे दिग्गजकर- दण्डानुकारिणा जरदजगरेण सततमावेष्टितमूलतया बद्धमहालवाल इव तुङ्गस्कन्धावलम्बिभिरनिलवेल्लितैर- हिनिर्मोकैर्धृतोत्तरीय इव,दिक्चक्रवालपरिमाणमिव गृह्णता, भुवनान्तरालविप्रकीर्णेन शाखासंचयेनप्रलयकालताण्डव प्रसारितभुजसहस्रमुङ्गपतिशकलशेखरमिव विडम्बयितुमुद्यतः, पुराणतया पतनभयादिव गगनस्कन्धलग्नः, निखिलशरीरव्यापिनीभिरतिदूरोन्नताभिजर्णितया शिराभिरिव परिगतो व्रततिभिः, जरा तिलकबिन्दुभिरिव कण्टकैराचिततनुः, इतस्ततः परिपीतसागरसलिलैर्गगनागतैः पत्ररथैरिव शाखान्तरेषुनिलीयमानैः क्षणमम्बुभारालसैरार्द्रीकृतपल्लवैर्जलधरपटलैरप्यदृष्टशिखरदेशः, तुङ्गतया नन्दनवनश्रियमिवावलोकयितुमभ्युद्यतः, समीपवर्तिनामुपरि संचरतांगगनतलगमनखेदायासितानां रविरथतुरंगमाणां सृक्कपरिस्रुतैः फेनपटलैः संदेहिततूलराशिभिर्धवलीकृतशिखरशाखः, वनगजकपोलकण्ड्यूनलग्नमदनिलीनमत्तमधुकरमालेन लोहशृङ्खलाबन्धनिश्चलेनेव कल्पस्थायिना मूलेन समुपेतः, कोटराभ्यन्तरनिविष्टैः स्फुरद्भिः सजीव इव मधुकरपटलैः,दुर्योधन इवोपलक्षितशकुनिपक्षपातः, नलिननाभ इव वनमालोप-
 
-
-
 गूढः,नवजलधरव्यूह इव नभसि दर्शितोन्नतिः, आखेलभुवनतलावलोकनप्रासाद इव वनदेवतानाम्, अधिपतिरिव दण्डकारण्यस्य, नायक इव सर्ववनस्पतीनाम्, सखेव विन्ध्यस्य, शाखाबाहुभिरुपगूह्येव विन्ध्याटवीमवस्थितो महाञ्जीर्णः शाल्मलीवृक्षः।
 
  २२ तत्र च शाखाग्रेषु कोटरोदरेषु पल्लवान्तरेषु स्कन्धसंधिषु जीर्णवल्कलविवरेषु महावकाशतया विश्रब्धविरचितकुलायसहस्राणि दुरारोहतया विगलितविनाशभयानि नानादेशसमागतानि शुकशकुनिकुलानि प्रतिवसन्ति स्म। यैः परिणामविरलदलसंहतिरपि स वनस्पतिरविरलदलनिचयश्यामल इवोपलक्ष्यते दिवानिश निलीनैः। ते च तस्मिन्वनस्पतावतिवाह्यातिवाह्य रजनीमालनीडेषु प्रतिदिनमुत्थायोत्थायाहारान्वेषणाय नमसिविरचितपङ्क्तयो मदकलहलधरहलमुखोत्क्षेपविकीर्णबहुस्रोतसमम्बरतले कलिन्दकन्यामिव दर्शयन्तः सुरगजोन्मूलितविगलदाकाशगङ्गाकमलिनीशङ्कामुपजनयन्तो दिवसकररथतुरगप्रभानुलिप्तमिवगगनतलमुपपादयन्तः संचारिणीमिव मरकतस्थलीं विडम्बयन्तःशैवलपल्लवावलीमिवाम्बरसरसि प्रसारयन्तो गगनविततैः पक्षपुटैःकदलीदलैरिव दिनकरखरकरनिकरपरिखेदिताशामुखानि वीजयन्तो वियति विसारिणीं शष्पवीथीमिवारचयन्तः सेन्द्रायुधमिवान्तरिक्षमादधाना विचरन्ति स्म शुकशकुनयः। कृताहाराश्च पुनःप्रतिनिवृत्यात्मकुलायावस्थितेभ्यः शावकेभ्यो विविधान्फलरसान्कलममञ्जरीविकारांश्च प्रहतहरिणरुधिरानुरक्तशार्दूलनखकोटिपाटलेन चञ्चुपुटेन दत्त्वा दत्त्वाधरीकृतसर्वस्नेहेनासाधारणेन
-
-
 
 गुरुणापत्यप्रेम्णा तस्मिन्नेव क्रोडान्तर्निहिततनयाः क्षपाः क्षपयन्ति स्म।
 
@@ -319,47 +277,31 @@ For more particulars see JIof Sam. Sah. Par. XIII 36-8. good luck, as it clung t
 
  २४ एकदा तु प्रभातसंध्यारागलोहिते गगनतलकमलिनीमधुरक्तपक्षसंपुटे वृद्धहंस इव मन्दाकिनीपुलिनादपरजलनिधितटमवतरति चन्द्रमसि, परिणत-रङकु-रोमपाण्डुनि व्रजति विशालतामाशाचक्रवाले, गजरुधिररक्तहरिसटालोमलोहिनी भिरातप्तलाक्षिकतन्तुपाटलाभिरायानिनीभिरशिशिरकिरणदीधितिभिः पद्मरागरत्नशलाकासंमार्जनीभिरिव समुत्सार्यमाणे गगनकुट्टिमकुसुमप्रकरे
 
-
-
 तारागणे, सन्ध्यामुपासितुमुत्तराशावलम्बिनि मानससरस्तीरमिवावतरति सप्तर्षिमण्डले, तटगतविघटितशुक्तिसंपुट- विप्रकीर्णमरुणकरप्रेरणाधोगलितमुडुगणमिव मुक्ताफलनिकरमुद्वहति धवलितपुलिनतटमुदन्वति पूर्वेतरे, तुषारविन्दुवर्षिणि विबुद्वशिखकुले विजृम्भमाणकेसरिणि करिणीकदम्बकप्रबोध्यमानसमदकरिणि क्षपाजलजडकेसरं कुसुमनिकरमुदयगिरिशिखरस्थितं सवितारमिवोद्दिश्य पल्लवाञ्जलिभिः समुत्सृजति कानने, रासभरोमधूसरासु वनदेवताप्रासादानां तरूणां शिखरेषु पारावतमालायमानासु धर्मपताकास्विव समुन्मिषन्तीषु तपोवनाग्निहोत्रधूमलेखासु, अवश्यायसीकरिणि लुलितकमलवने रतिखिन्नशबरसीमन्तिनीस्वेदजलकणिकापहारिणि वनमहिषरोमन्धफेन- बिन्दुवाहिनि चलितपल्ल्वलतालास्योपदेशव्यसनिनि विघटमानकमलखण्डमधुसीकरासारवर्षिणि कुसुमामोदतर्पितालिजाले निशावसानजातजडिम्निमन्दमन्दसंचारिणिप्रवाति प्राभातिके मातरिश्वनि, कमलवनप्रबोधमङ्गलपाठकानाम्इभगण्डडिण्डिमानां मधुलिहां कुमुदोदरेषु घनघटमानदलपुटनिबद्ध- पक्षसंहतीनामुच्चरत्सु हुंकारेषु, प्रभातशिशिरमारुनाहतमुत्तप्तजतुरसाश्लिष्टपक्ष्ममालमिव सशेषनिद्राजिह्मतारं चक्षुरुन्मीलयत्सु शनैःशनैरूषरशय्याधूसरक्रोडरोमराजिषु वनमृगेषु, इतस्ततः संचरत्सुवनचरेषु, विजृम्भमाणे श्रोत्रहारिणि पम्पासरःकलहंसकोलाहले,समुल्लसति नर्तितशिखण्डिमण्डले, मनोहरे वनगजकर्णतालशब्दे,क्रमेण च गगनतलमार्गमवतरतो दिवसकरवारणस्यावचूलचामरकलाप इवोपलक्ष्यमाणे मञ्जिष्ठारागलोहिते किरणजाले, शनैः
-
-
 
 शनैरुदिते भगवति सवितरि, पम्पासरःपर्यन्ततरुशिखरसंचारिण्यध्यासितगिरिशिखरे दिवसकरजन्मनि हृततारे पुनरिव कपीश्वरेवनमभिपतति बालातपे, स्पष्टे जाते प्रत्यूषसि, नचिरादिव दिवसाष्टमभागभाजि स्पष्टभासि भास्वति भूते, प्रयातेषु यथाभिमतानिदिगन्तराणि शुककुलेषु, कुलायनिलीननिभृतशावकसनाथेपि निःशब्दतया शून्य इव तस्मिन्वनस्पतौ, स्वनीडावस्थित एव ताते,मयि च शैशवादसंजातबलसमुद्भिद्यमानपक्षपुटे तातस्य समीपवर्तिनि कोटरगते, सहसैव तस्मिन्महावने संत्रासितसकलवनचरःसरभसमुत्पतत्पतत्रिपश्चपुटशब्दसंततो भीतकरिपोतचीत्कारपीवरः प्रचलितलताकुलितमत्तालिकुलक्वणितमांसलः परिभ्रमदुद्धोणवनवराहरवघर्घरो गिरिगुहासुप्तप्रबुद्धसिंहनादोपबृंहितः कम्पयन्निवतरून्भगीरथावतार्यमाणगङ्गाप्रवाहकलकलबहलो भीतवनदेवताकर्णितोमृगयाकोलाहलध्वनिरुदचरत्। आकर्ण्य च तमहमश्रुतपूर्वमुपजातवेपथुरर्भकतयाजर्जरितकर्णविवरो भयविह्वलः समीपवर्तिनः पितुः प्रतीकारबुद्ध्या, जराशिथिलपक्षपुटान्तरम विशम्।
 
  २५ अनन्तरं च सरभसमितो गजयूथपतिलुलितकमलिनीपरिमलः, इतः क्रोडकुलदश्यमानभद्रमुस्तारसामोदः, इतः करिकलभभज्यमानसल्लकीकषायगन्धः, इतो निपतितशुष्कपत्रमर्मरध्वनिः, इतो वनमहिषविषाणकोटिकुलिशभिद्यमान- वल्मीकधूलिः,इतो मृगकदम्बकम्, इतो वनगजकुलम्, इतो वनवराहयूथम्,इतो वनमहिषवृन्दम्, इतः शिखण्डिमण्डलविरुतम्, इतःकपिञ्जलकुलकलकूजितम्, इतः कुररकुलक्वणितम्, इतो मृग-
 
-
-
 पतिनखभिद्यमानकुम्भकुञ्जररसितम्,इयमार्द्रपङ्कमलिना वराहपद्धतिः, इयमभिनवशष्पकवलरसश्यामला हरिणरोमन्थफेनसंहतिः,इयमुन्मदगन्धगजगण्डकण्डूयनपरिमलनिलीनमुखरमधुकरविरुतिः,एषानिपतितरुधिरबिन्दुसिक्तशुष्कपत्रपाटला रुरुपदवी, एतद्द्विरदचरणमृदितविटपपल्लवपटलम्, एतत्खङ्गिकुलक्रीडितम्, एषनखकोटिविलिखितचिकटपत्रलेखो रुधिरपाटलः करिमौक्तिकदलदन्तुरो मृगपतिमार्गः, एषा प्रत्यग्रपसूतवनमृगीगर्भरुधिरलोहिनीभूमिः, इयमटवीवेणिकानुकारिणी पक्षचरस्य यूथपतेर्मदजलमलिना संचारवीथी, चमरीपङ्क्तिरियमनुगम्यताम्, उच्छुष्कमृगकरीषपांसुला त्वरिततरमध्यास्यतामियं वनस्थली, तरुशिखरमारुह्यताम्, आलोक्यतां दिगियम्, आकर्ण्यतामयं शब्दः, गृह्यतांधनुः, अवहितैः स्थीयताम्, विमुच्यन्तां श्वानः, इत्यन्योन्यमभि वदतो मृगयासक्तस्य महतो जनसमूहस्य तरुगहनान्तरितविग्रहस्यक्षोभितकाननं कोलाहलमशृणवम्।
 
  २६ अथ नातिचिरादिवानुलेपनार्द्धमृदङ्गध्वनिधीरेण गिरिविवरविजृम्भितप्रतिनादगम्भीरेण शबरशरताडितानां केसरिणां निनादेन, संत्रस्तयूथमुक्तानामेकाकिनां च संचरतामनवरतकरास्फोटमिश्रेण जलधररसितानुकारिणा गजयूथपतीनां कण्ठगर्जितेन,सरभससारमेयविलुप्यमानावयवानामालोलकातरतरलतारकाणामेणकानां करुणकुजितेन, निहतयूथपतीनां वियोगिनीनामनुगतकलभानां च स्थित्वा स्थित्वा समाकर्ण्य कलकलमुत्कर्णपल्लवानाप्तितस्ततः परिभ्रमन्तीनां प्रत्यग्रपतिविनाशशोकदीर्घेण करिणीनां
-
-
 
 चीत्कृतेन, कतिपयदिवसप्रसूतानां च खड्गिधेनुकानां त्रासपरिभ्रष्टपोतान्वेषिणीनामुन्मुक्तकण्ठमतिकरुण- मारसन्तीनामाक्रन्दितेन,तरुशिखरसमुत्पतितानामाकुलाकुलचारिणां च पत्ररथानां कोलाहलेन, रूपानुसारप्रधावितानां च मृगयूणां युगपदतिरभसपादपाताभिहताया भुवः कम्पमिव जनयता चरणशब्देन, कर्णान्ताकृष्टज्यानां च मदकलकुररकामिनीकण्ठकूजितकलेन शरनिकरवर्षिणांधनुषां निनादेन, पवनाहतिक्वणितधाराणामसीनां च कठिनमहिषस्कन्धपीठपातिनां रणितेन, शुनां च सरभसविमुक्तघर्घरध्वनीनां वनान्तरव्यापिना ध्वानेन सर्वतः प्रचलितमिवतदरण्यमभवत्। अचिराच्च प्रशान्ते तस्मिन्मृगयाकलकले निर्वृष्टमूकजलधरवृन्दानुकारिणि मथनावसानोपशान्तवारिणि सागर इवस्तिमिततामुपागते कानने मन्दीभूतभयोहमुपजातकुतूहलःपितुरुत्सङ्गादीषदिव निष्क्रम्य कोटरस्थ एव शिरोधरां प्रसार्य संत्रासतरलतारकः शैशवात्किमिदमिति समुपजातदिदृक्षस्तामेव दिशंचक्षुः प्राहिणवम्।
 
  २७ अभिमुखमापतच्च तस्माद्वनान्तरादर्जुनभुजदण्डसहस्रविप्रकीर्णमिव नर्मदाप्रवाहम्, अनिलवशाच्चलितमिव तमालकाननम्, एकीभूतमिव कालरात्रीणां यामसंघातम्, अञ्जनशिलास्तम्भसंभारमिव क्षितिकम्पविघूर्णितम्, अन्धकारपुञ्जमिवरविकिरणाकुलितम्, अन्तकपरिवारमिव परिभ्रमन्तम्, अवदारितरसातलोद्भूतमिव दानवलोकम्, अशुभकर्मसमूहमिवैकत्रसमागतम्, अशेषदण्डकारण्यवासिमुनिजनशापसार्थमिव संच-
 
-
-
 रन्तम्, अनवरतशरनिकरवर्षि-रामनिहतखरदूषणबलनिवहमिव तद पध्यानात्पिशाचतामुपगतं, कलिकालबन्धु- वर्गमिवैकत्र संगतम्,अवगाहप्रस्थितमिव वनमहिषयूथम्, अचलशिखरस्थितकेसरिकराकृष्टिपतनविशीर्णमिव कालमेघपटलम्, अखिलरूपविनाशायधूमकेतुजालमिव समुद्गतम्, अन्धकारितकाननम्, अनेकसहस्रसंख्यम्, अतिभयजननमुत्पातवेतालव्रातमिव शबरसैन्यमद्राक्षम्।
 
  २८ मध्ये च तस्यातिमहतः शबरसैन्यस्य प्रथमे वयसि वर्तमानम्, अतिकर्कशत्वादायसमिव निर्मितम्, एकलव्यमिवजन्मान्तरागतम्, उद्भिद्यमानश्मश्रुराजितया प्रथममदलेखामण्ड्यमानगण्डभित्तिमिव गजयूथपतिकुमारकम्, असितकुवलयश्यामेनदेहप्रभाप्रवाहेण कालिन्दीजलेनेव पूरितारण्यम्, आकुटिलाग्रेणस्कन्धावलम्बिना कुन्तलभारेण केसरिणमिव गजमदमलिनीकृतेनकेसरकलापेनोपेतम्, आयतललाटम्, अतितुङ्गघोरघोणम्, एककर्णाभरणतामुपनीतस्य भुजंगफणामणेरापाटलैरंशुभिरालोहितीकृतेन पर्णशयनाभ्यासाल्लग्नपल्लवरागेणेव वामपार्श्वेन विराजमानम्, अचिरप्रहत्गज कपोलगृहीतेन सप्तच्छदपरिमलवाहिनाकृष्णागुरुपङ्केणेव सुरभिणा मदेन कृताङ्गरागम्, उपरि तत्परिमलान्धेन भ्रमता मायूरातपत्रानुकारिणा मधुकरकुलेन तमालपल्लवेनेव निवारितातपम्, आलोलकर्णपल्लवव्याजेन भुजबलनिर्जितयाभयप्रयुक्तसेवया विन्ध्याटव्येव करतलेनापमृज्यमानगण्डस्थलस्वेदलेखम्, आपाटलया हरिणकुलक्षयरात्रिसंध्यायमानया शोणितार्द्रयेव दृष्ट्या रञ्जयन्तमाशाविभागान्, आजानुलम्बेन कुञ्जरकर-
 
-
-
 प्रमाणमिव गृहीत्वा निर्मितेन चण्डिकारुधिरबलिप्रदानार्थमसकृन्निशितशस्त्रोल्लेखविषमितशिखरेण भुजयुगलेनोपशोभितम्, अन्तरान्तरालग्नाश्यानहरिणरुधिरबिन्दुना स्वेदजलकणिकाचितेन गुञ्जाफलविमिश्रैः करिकुम्भमुक्ताफलैरिव रचिताभरणेन विन्ध्यशिलातलविशालेन वक्षःस्थलेनोद्भासमानम्, अविरतश्रमाभ्यासाद- ल्लिखितोदरम्, इभमदमलिनमालानस्तम्भयुगलमुपहसन्तमिवोरुदण्डद्वयेन,लाक्षालोहितकौशेयपरिधानम्, अकारणेपि क्रूरतया बद्धत्रिपताकोग्रभ्रुकुटिकराले ललाटफलके प्रबलभक्त्याराधितया मत्परिग्रहोयमिति कात्यायन्या त्रिशूलेनेवाङ्कितम्, उपजातपरिचयैरनुगच्छद्भिःश्रमवशाद्दूरविनिर्गताभिः स्वभावपाटलतया शुष्काभिरपि हरिणशोणितमिव क्षरन्तीभिर्जिह्वाभिरावेद्यमानखेदैर्विवृतमुखतया स्पष्टदृष्टदन्तांशून्दंष्ट्रान्तराललग्नकेसरिसटानिव सृक्कभागानुद्वहद्भिःस्थूलवरराटकमालिकापरिगतकण्ठैर्महावराहदंष्ट्राप्रहारजर्जरैरल्पकायैरपि महाशक्तित्वादनुप- जातकेसरैरिव केसरिकिशोरकैर्मृगवधूवैधव्यदीक्षादानदक्षैरनेकवर्णैः श्वभिरतिप्रमाणाभिश्व केसरिणामभयप्रदान- याचनार्थमागताभिः सिंहीभिरिव कौलेयककुटुम्बिनीभिरनुगम्यमानम्, कैश्चिद्गृहीतचमरवालगजदन्तभारैः कैश्चिदच्छिद्रपर्णबद्धमधुपुटैः कैश्चिन्मृगेपतिभिरिव गजकुम्भमुक्ताफलनिकरसनाथपाणिभिः कैश्चिद्यातुधानैरिव गृहीतपिशितभारैः कैश्चित्प्रमथैरिवकेसरिकृत्तिधारिभिः कैश्चित्क्षपणकैरिव मयूरपिच्छवाहिभिः कैश्चिच्छिशुभिरिव काकपक्षधरैः कैश्चित्कृष्णचरितमिव दर्शयद्भिः समुत्खातविधृतगजदन्तैः कैश्चिज्जलदागमदिवसैरिव जलधरच्छाय-
-
-
 
 मलिनाम्बरैरनेकवृत्तान्तैः शबरवृन्दैः परिवृतम्, अरण्यमिव सखड्गधेनुकम्, अभिनवजलधरमिव मयूरपिच्छचित्रचापधारिणं, बकराक्षसमिव गृहीतैकचक्रम्, अरुणानुजमिवोद्धृतानेकमहानागदर्शनम्, भीष्ममिव शिखण्डिशत्रुं, निदाघदिवसमिव सतताविर्भूतमृगतृष्णं, विद्याधरमिव मानसवेगं, पराशरमिवयोजनगन्धानुसारिणं, घटोत्कचमिव भीमरूपधारिणम्, अचलराजकन्यकाकेशपाशमिव नीलकण्ठचन्द्रकाभरणं, हिरण्याक्षदानवमिव महावराहद्रंष्ट्राविभिन्नवक्षःस्थलम्, अतिरागिणमिव कृतबहुबन्दीपरिग्रहं, पिशिताशनमिव रक्तलुब्धकं, गीतकलाविन्यासमिव निषादानुगतम्, अम्बिकात्रिशूलमिव महिषरुधिरार्द्रकायम्, अभिनवयौवनमपि क्षपितबहुवयसं कृतसारमेयसंग्रहमपि फलमूलाशनं, कृष्णमप्यसुदर्शनं, स्वच्छन्दप्रचारमपि दुर्गैकशरणं, क्षितिभृत्पादानुवर्तिनमपि राजसेवानभिज्ञम्, अपत्यमिव विन्ध्यस्य, अंशावतारमिव कृतान्तस्य, सहोदरमिव पापस्य,सारमिव कलिकालस्य, भीषणमपि महासत्त्वतया गम्भीरमिवोपलक्ष्यमाणम्, अनभिभवनीयाकृतिं मातङ्गकनामानं शबरसेनापतिमपश्यम्। अभिधानं तु पश्चात्तस्याहमश्रौषम्।
 
 (सावशेषम्)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **KADAMBARI**
 
@@ -384,8 +326,6 @@ avana), which repose on the tuft-ends(of hair) of the over-lords of gods and dem
 —The Wicked Censured and the Virtuous Praised—
 
  In which man does not arise the fear of wicked fellowsterrible on account of their manifesting enmity without cause,and in whose mouths foul words, which are extremely,unbearble, are ever present like poison in the mouth of ahuge serpent?\[5\]
-
-
 
  Like the harsh-sounding prison chains which cause scars,the wicked annoy others enough, muttering abusive wordsand spreading slanders. But the good people, with theirpleasing voice while uttering any and every word, captivate the mind, just as the jewel-anklets do with their sweetjingling (sounds) at every step.\[6\]
 
@@ -413,8 +353,6 @@ ATI figures; and henceare like long garlands wreathed out of champak buds, which
 
  In the family of Vatsyayana, there was born a Brahminwhose good qualities were sung all over the world, who wasthe foremost among the virtuous, whose lotsu-feet wereadored by many Gupta (kings) and who was like a portion(incarnate) of the Self-born (Brahma);\[10\]
 
-
-
  — In whose mouth Sarasvati dwelt always; —the mouthfrom which evils were removed by (the study of) the Vedas;whose lip was sanctified by the PURODASHA offerings; whoseinside was astringed by the Soma potions; and which waspretty with all Sastra and Smriti quotations.\[11\]
 
  — At whose residence, students recited the
@@ -441,8 +379,6 @@ AHAVIRA fires and which were with sacrificial posts resembling arms; just as (on
 
  The good qualities of which magnanimous person, withtheir stainless splendour resembling that of the lunar digit
 
-
-
 freed from its spots, spreading far and having made a wayin, penetrated into the hearts of even his foes; like thesharp nails having long growth and the stainless splendour ofthe cresent moon free from spots, of that magnanimous Man-Lion (
 
 N
@@ -465,27 +401,17 @@ ATHA (novel) has been composed bythat Brahmin (Bana) with an imagination, the du
 
  1. There was once a king named Sudraka who was like asecond Indra, his commands being respected by all rulers by(bending) their heads; he was the lord of the earth girdledby the string of the four oceans; he had a host of numeroustributary princes bowed down in devotion to his valour; hewas endowed with the features of an emperor; like the discbearer (Vishnu), he had the marks of the conch and the discnoticeable on his lotus-like hands; like Siva, he had conquered
 
-
-
 Manmatha (the God of love); like Guha (Skanda) with theinvincible Shakti weapon, he was of an unrepelled ability;like the lotus-born Brahma with a host of royal swans forming his vehicle, he had curbed the pride of hosts of swanlike kings; like the ocean, the birth-place of Lakshmi, hewas the source of wealth; like the stream of the Ganges,he followed the path of Bhagiratha; like the sun, he hadhis rise occuring daily; like the Meru, he had the shadowof his feet by which all the worlds were being supported; likea quarter-elephant whose trunk is wetted by the ceaselesslyflowing ichor, he had his hands wetted with water for thegifts offered continuously; he was a worker of great wonders,a performer of sacrifices, a pattern of all sacred precepts, anorigin of the (64 or 72?) arts and sciences, the heriditorydwelling place of virtues, and a spring of the nectar-like sweetness of poetic compositions; he was a mountain of prosperityto the circle of his friends, just as the sun-rise mountain is tothe circular orb of the sun; he was an evil-bringing comet tohostile people; he was the founder of literary unions, and apatron of men with excellent tastes; he was a rebuff toeminent archers, the leader of the adventurous, and thefore-most among the cultured; like Garuda who broughtdelight to his mother Vinata, he caused delight to those whowere submissive to him; and like Vena's son (Prithu), hehad all his foes who were as formidable as the principalmountains, completely removed with the ends of his bow.
 
  2. Having torn the hearts of his foes by his mere nameand having vanquished the entire surface of the world by asingle expedition, he laughed as it were at Vasudeva (Vishnu)who had put on the cumbrous form of Man-lion (for tearingHiranyakasipu's heart) and took the trouble of striding
 
-
-
 thrice (to measure the earth, sky and Patala). The Goddessof Royalty dwelt long in the pure water-like blade of hissword, washing off as it were the stain adhering to her forvery long time by the contact of thousands of past badrulers. And by the dwelling of Dharma in his mind, Yamain his indignation, Kubera in his kindness, Agni in hisvalour, Earth on his shoulder, Lakshmi in his look, Sarasvati in his speech, the Moon in his face, the Wind in hisstrength, the preceptor of the gods (Brihaspati) in his wisdom, the Mind-born (Manmatha) in his beauty and the Sunin his majestic lustre, \[12\] he resembled God Narayana, whois the embodiment of all the deities and who, in his form,has manifested his omni-presence. (And near him repeatedlycame Royal Glory, like a damsel proceeding to meet herlover, during the nights in the form of his battles coveredall over with the clouds of sprays of ichor-water issuing fromthe broad temples of elephants, (herself) remaining in themidst of darkness in the form of thousands of armours tornasunder from the broad chests (resembling the wide panelsof a door) of excellent warriors, and (she) being drawn by(the king's) sword which, with the large pearls stuck up to itwhile he cleft open the broad frontal globes of ruttishelephants, seemed to be uneven with watery drops squeezedout of its blade held fast in his firm grip. And the fire of hisvalour burned ablaze day and night, having scorched inwardlythe (bereaved) wives of his foes, although widowed (already),as if desirous of consuming even (the memory of) theirhusbands existing (i. e. cherished) within their hearts. Andwhile that king who had conquered the whole world, wasruling over the earth, in the case of his people, admixtureof colours (castes) existed only in paintings; seizing by the
-
-
 
 hair was (only) in amorous sports; rigid shackling was (only)in poems; in (the study of) Sastraic subjects (only), there was reflection (and no brooding); separations (of lovers but nodeceptions) were in dreams; golden staves (not fines) were inumbrellas; fluttering (but not the trembling of offenders,nor the shivering of patients) was in the case of banners; thefreaks of melodies (not of passion) were in songs; the effectsof rut (arrogance) were in elephants; breaking ofstrings (virtues) was in the bows; latticed openings (notdeceptive ways) were in the windows; stains were (only) onthe moon, swords and armours; despatch of messengerswere only in love-quarrels; and vacant square-sites (notdwelling houses) were (only) on the chess and dice boards.To him, fear was only of the next world; dividing was onlyin the curly hair of the ladies of his harem; loquacity, onlyin anklets; holding by the hand (not receiving taxes), onlyduring marriages; shedding of tears, (only) on account ofthe smoke of the fires of his continuous sacrifices; lashstrokes, (only) on horses; and the twang-sound of the bow,(only) in the case of Cupid.
 
  3. And the capital of that king was the city called Vidisa,resembling the Krita Age compressed into a mass out of fearof the Kali Age; extensive like the birth place of the threeworlds; and surrounded by the river Vetravati with its singing waves shattered while dashing against the expansivebreasts of the sportful Malva women bathing therein, withits water turned red by the Sindura paint on the frontalglobes of the victorious elephants come to have a dip inwater, and with its banks resonant with the loud cackles ofmultitudes of impassioned swans.
 
-
-
 \[13\] 4. In that city, he was happy, free from the burden ofthe cares of the kingdom as he had conquered the entireglobular earth; his two feet were caressed by rows of crownsof the numerous kings come from different continents; hewas bearing the burden of the universe on his shoulder quiteeasily as if it were a bracelet; he was surrounded by ministerswho scorned with their wisdom even Brihaspati, who haddescended from their different but noble lineages, whoseminds were clear on account of the works on political sciencestudied by them repeatedly, and who were greedless, devoted and highly enlightened; (being) in his early youth, helived happily for a long time diverting himself in the company of princes,—who were of his own age, attainments anddress; who had sprung from the families of different coronated kings; whose wisdom had been fully developed by athorough study of all the various KALAS (arts and sciences);who were highly enlightened and knew the right occasionfor doing anything; whose hearts were devoted to valour;who were skilled in refined jokes and understood (others')feelings and gestures; who were proficient in composingpoems, plays, tales and romances, in painting, in the exposition (of texts) and such other acts; who were endowedwith hard and stout shoulders, thighs and arms; by whomarrays of the extensive foreheads of the infuriated elephantsof (their) enemies were broken open more than once; whowere of a modest behaviour although they were whollyvaliant like the cubs of the lions; and who were (hence)like his own reflected images. Because of his excessive desirefor conquests and his great valour, as he considered womankind a trivial thing like straw, he had a hatred as it werefor the delights of armorous sports, although he was in early,
-
-
 
 youth, possessed beauty and was desired by his minlsters (thathe should delight himself thus) as they longed for his gettingan issue. He had no inclination for the pleasures of enjoyments with women although he had a harem of ladies whowere beautiful, modest, of noble birth, captivating and whoby their charms put to shame even the graces of Rati; and he spent his day in the company of friends, sometimes witha musical performance himself having begun to play on theMRIDANGA (drum) with his jewelled bracelets jerking aboutconstantly and his car-rings laid with precious stones producing a
 
@@ -499,11 +425,7 @@ HAN sound due to the shaking while he struckupon the ghargharika instrument; som
 
  5. Once when the thousand-rayed sun, who opens theclosed petals of the fresh lotuses, had not long arisen and wasslightly cleared of his reddish colour, a portress,—whose formwas lovely yet formidable like a sandal plant having a poisonous serpent by its side, (as she was) with a scimitar incong-
 
-
-
 ruous with women hanging by her left side; who appearedlike the heavenly Ganges with the frontal globes of Airavatajust emerging (out of the stream), as the sloping sides of herbreasts were whitened with a thick paint of sandal paste; whoseemed to be the king's command in coporeal form, beingborne by the princes (present there) on their heads, under theguise of her reflected image on their own crest-jewels; who,with her white garment imprinted with figures of kala-swans,appeared like autumn with the sky white with (flying)swans; who, having captivated the minds of all the kingsthere, looked like the fine edge of Parasurama's axe thatsubjugated the entire hosts of kings; who, being with acane staff, was like a spot of the Vindhya forest aboundingin cane plants; and who was like the guardian diety of thekingdom in lady's form; —such a portress having approachedthe king, placing her knees and lotus-like hands on theground, respectfully said to the king— "My lord, at thedoor there stands a chandala maiden come from the south,like the royal glory of Trisanku who climbed up the sky butfell down at the *hum* roar of the angry Indra; and (she)bearing a parrot in a cage, begs to say to Your Majesty— 'Sire,like the ocean, you are alone the worthy recipient of all thegems (precious and excellent things) on the surface of thewhole carth; and considering that this wonderful bird issuch an excellent treasure on the face of the entire earth, Ihave come to your feet and desire to enjoy the pleasure ofbeholding Your Majesty.' (Now) that you have heard this,your Majesty is the authority (to decide and pass an order)."—So saying, she paused. The king, his curiosity being however roused, looked at the faces of the princes around him, andordered— "What harm (is there)? Let her be ushered in."
-
-
 
  \[15\] 6. Then, after the king had said this, the portress,rising up (from the ground), ushered the chandala maiden inAnd she, on entering, beheld the king who was seated in themidst of thousands of princes, and hence resembled the gold-peaked Meru mountain surrounded by the principal (KULA)mountains huddling together out of fear of (Indra's) thunderbolt; who, with his limbs covered with a net-work of therays of his many jewelled ornaments, looked like a day of thecloudy season when the regions in all the eight quartersare fully covered with thousands of rain-bows; who wasseated on a pretty couch of moon-stones beneath a silkencanopy which was not very big, which was festooned withchains, and which was white like the mass of foam of theheavenly river (Ganges) who was being fanned over by anumber of chamaras furnished with gold handles who haddeposited his left foot on a crystal foot-stool that seemed tobe the moon humbled down by the humiliation due to thevictory over him of the (king's) facial splendour projectingits lustrous rays who was resplendant with the beams ofrays of his toe-nails, which (rays), looking dark owing to theircontact with the shining of the pavement of the sapphire(
 
@@ -515,11 +437,7 @@ P
 
 ADMARAGAgems sparkling from his seat, was like Vishnu with his pairof thighs turned red with the blood of (the demons) Madhuand Kaitabha slain just recently who was wearing a pairof silk garments which were white like foam of nectar,which had pairs of hamsas painted with GOROCHANA pigmenton their borders, and the ends of which were set to flutterprettily by the wind of the chamaras who, with his chest
 
-
-
 whitened by the smearing of the highly fragrant sandalpaste and furnished with ornamental marks madethere-upon with saffron, appeared like the (white)Kailasa mountain bearing patches of the (reddish) morningsunlight fallen here and there at intervals; who bore aroundhis face a halo made by a neck-lace (of pearls), as if by a rowof stars mistaking (his face) for another moon; the upperparts of whose arms were clasped by a pair of armlets studded with sapphires creating an impression that they were thefettering rings to bind down the very unsteady Goddess ofRoyalty, as if with a pair of serpents covetous of the fragranceof the sandal paste (on his chest); who had his lotus earornaments hanging down a little; who had a prominent noseand eyes resembling full-blown lotuses; who was endowedwith a broad forehead, large like a sheet of pure gold, shapedlike the half-moon on the eighth day (of every month),sanctified by the water of consecration while installing himas king of the whole earth, and furnished with a thin lineof hair between the eye-brows; who, wearing on his head achaplet of fragrant jasmine flowers, \[16\] appeared like thewestern mountain with its peak encompassed by a clusterof stars at early dawn; who, on account of his limbs turnedtawny with the lustre of his ornaments, looked like Cupidwith the fire (of the third eye) of Siva adhering (to him)who was surrounded by courtesans standing close to him,and appearing as if they were the damsels of the quarterscome from all the directions to serve him who, because ofthe reflected image of his entire body on the glossy jewelledpavement, was as if being borne on her heart by the Earthout of love for her husband whose body was closelyembraced by Royalty who exclusively belonged to him,
-
-
 
 although she was brought to a state of being enjoyed by allpeople (while they beheld him) who, although surroundedby an in-numerable retinue, was without a second (i. e. wasunsurpassed); whose sole help was his sword, though hehad the assistance of an army of countless elephants andhorses; by whom the whole world was pervaded, althoughhe himself stayed in one place who, though seated on histhrone, relied on his bow; who, although the fuel in theform of his enemies had been exhausted, still had the fire ofhis valour ablaze; who was with long eyes and yet sharpsighted; who had long arms (great defects) and yet was theabode of all virtues; who, although the lord of the Earth(a bad husband), still was loved by his wives; who was freefrom conceit (intoxication), although his gifts (rut) pouredout ceaselessly; whose deeds were (as praise-worthy asthose) of (dark) Krishna, although he was of a very pureconduct; and who, although levying no taxes (hand-less),had the whole world lying on his hand.
 
@@ -527,29 +445,19 @@ although she was brought to a state of being enjoyed by allpeople (while they be
 
  8. The king, on his part, having ordered—‘Present herfrom a distance,' gazed with un-winking eyes at her, whowas being introduced by the portress; who had before her
 
-
-
 a man whose head was grey as a result of age, whose eye-corners were like red-lotuses, whose bodily joints had notbecome weak despite the lapse of youth, as he constantlydid physical exercises, whose features were not malicious inspite of his being a chandala, who was endowed with anappearance of nobility and had put on a white attire; \[17\]who (the chandala girl) was being followed by a chandalaboy bearing locks of hair that were very much dishevelledand carrying a cage which seemed as if made of emeraldsalthough prepared from gold-bars, as it was turned dark bythe effulgence of the parrot inside; who, by her dark complexion, seemed to imitate god Vishnu who had cunninglyput on the guise of a lovely damsel to carry off the nectarseized by the demons; who looked like a moving doll ofsapphire; who, with her body covered with a blue cloakreaching her anklets and wearing a veil of red silk there-on,appeared like a pretty grove of blue lotuses with the evening twilight fallen upon it who, with her round cheek,whitened by the shining of the
 
 D
 
 ANTAPATRA ornament suspended from one of her ears, looked like the night whose face(beginning) is illumined by the beams of the rising moon;who, with the TILAKA mark, resembling a third eye, made ofthe slightly tawny GOROCHANA dye, looked like BHAVANI whohad put on the guise of a KIRATI following Siva dressed as aKirata (the king gazed at the chandala maiden) as if shewere goddess Lakshmi darkened by Narayana's bodily effulgence permeating her by her residing on his broad chest';as if she were Rati, rendered dark by the smoke issuingfrom Cupid while he was being burnt by the fire (of thethird eye) of the enraged Siva; as if she were the riverYamuna that fled away through fear of being dragged away
 
-
-
 by the plough of the intoxicated Balarama; as if she wereParvati with her feet reddened by the blood of the demonMAHISHA slain recently, because she (the chandala girl); hadher lotus-like feet furnished with leaf-edge paintings of avery thick dye of solidified ALAKTAKA juice; who, with therays of her nails reddened by the lustre of her crimson toes,seemed to walk on the earth after (first spreading over itbits of tender leaves, (herself) being unable to bear the touchof that very hard jewelled-pavement; who, with her bodyreddened by the crimson mass of effulgence shooting upwards from the gems of her anklets, seemed as if her bodywas embraced by Fire-god (the purifier), in order to purifyher birth, (he,) caring mainly for beauty and annulling theauthority of the Creator who had the region of her hips girtby a girdlestring resembling the 'STARRY CHAPLET' ornamenton the fore-head of Cupid's elephant and serving as a roundbasin for the creeper in the form of the thin line of hair(rising vertically from her navel); who wore round herneck (lit. who was seized by her neck; or, who was embraced at her neck by) a white neck-lace wreathed out ofvery large pearls, as if it were the (white) Ganges streammistaking her for (the dark) Yamuna river; who, endowedwith eyes resembling full-blown lotuses, was like theautumn having full-blown lotuses for its eyes; \[18\] who,with her dense tresses of hair, was like the rainy seasonhaving tresses of hair in the form of clouds; who having atender sandal shoot for her earornament, looked like theMalayan mountain range decked with sandal foliage; who,adorned with a strange ear-ornament, appeared like theconstellation of stars shining with CHITRA and SRAVANAserving as ornaments; who, with the beauty of lotuses
-
-
 
 present in her hands, resembled Lakshmi with the splendourof the lotus held in her hand; who was captivating(another's)mind, like a swoon that deprives one's conscious-ness; whowas endowed with an un-impaired physical beauty, like theforest-land rich all round in AKSHA trees; who being lowborn, was like a celestial nymph who is not confined to theearth; who, captivating the eyes (attention of all), was likesleep that holds fast the eyes; who was sullied by (her birthin) the chandala family, like a wild lotus-grove misused bya troop of elephants; who was prohibited from beingtouched, like a formless being surpassing touch; who servedthe only purpose of being seen, like a lady painted in apicture; who, of a low caste, was like the abundance offlowers in the Chaitra month which is devoid of the JATIflower; who, with her (slender) waist that could be graspedby the fist, resembled Cupid's thin flowery bow the middle ofwhich is to be gripped within the fist; who, shining with hercurly hair, looked like the royal splendour of Kubera (thelord of the Yakshas) shining in ALAKA city; who had justattained her youthful-ness and possessed an exceedinglybeautiful form.
 
  9. And in the mind of the king who was amazed, thethought arose— "Oh, how ill-placed is the labour of theCreator in producing (such a) beauty! For; —if she has beencreated with a beauty of her own by which the wealth ofloveliness of every thing else is put to shame, why was shegiven her birth in a race prevented from the pleasures of touch(i.e. embrace) or enjoyment (by us)? I think she has beenproduced by the Creator not touching her through fear of thepenalties of the contact of the chandala caste. Otherwise,how (to account for) this unimpaired loveliness! Surely, such
 
-
-
 splendour cannot belong to limbs that are ruffled by thetouch of the palms of hands. By all means, fie upon theCreator who brings about incompatible unions! for, thismaiden, although of an exceedingly attractive form, by reasonof her savage caste being one with whom (a sexual) union iscondemned for all times, pains (me) like the (Royal) Gloryof the demons by which godliness is ever censured." —Whilethe king was absorbed in these and similar thoughts, thatmaiden bowed down to him, like a grown-up woman, thesprout adorning her ear being displaced a little. And aftersaluting, when she was seated on the jewelled pavement,that man taking the bird even as it stayed within the cage,and approaching a little, presented it to the king and said;—"My lord, here is this parrot named Vaisampayana; heknows the significance of all Sastras and is skilled in employing political diplomacy; he is an expert in relatingmythological stories, historical accounts and romantic tales,and an adept in the (22 different) scientific modes of singing;\[19\] he has studied and has himself even composednumerous excellent literary works, such as poems, dramas,modern romances, love stories and the like; he is proficientin witty or humorous conversation; he is an unrivalledconnoisseur of all the special musical instruments as thelute, the flute and the tabor; he is well-versed in thedemonstration and appreciation of the dancing art, anexpert in the painting art, and an adept in the art of playingwith stakes; he is clever in the devices of propitiatingwomen fallen out in love-quarrels; he knows quite well thecharacteristics of elephants, horses, men andhe is a singular gem on the face of this whole earth. Andconsidering that your Majesty is, like the ocean, the reposi-
-
-
 
 tary of all jewels, my master's daughter has come to yourfeet, bringing with her this (parrot). Therefore, let him beaccepted as yours." —Thus having said, he placed the cagebefore the king and moved back.
 
@@ -559,8 +467,6 @@ tary of all jewels, my master's daughter has come to yourfeet, bringing with her
 
  11. Having heard that (verse), the king was astonishedand said with great delight to his minister, named Kumarapalita, who was near-by and seated on a very costly goldenseat; who, like Brihaspati, had thoroughly mastered thescience of polity in its entirety; who was much advanced inage, a Brahmin (by caste), and the chief among the wholegroup of counsellors.—"Did you hear the clearness in thisbird's pronunciation of letters and the sweetness of hisaccent? In the very first place, this itself is a great wonderthat he speaks a language in which the different consonantsare unmixed with each other, in which the clearly pronounced vowels, nasal sounds and grammatical refinement are(harmoniously) blended together and which is full of rhetoric and is with very distinct syllables. Then again, just as inthe case of a cultured human being, the conduct of eventhis low creature towards the matter in which it is interested,has been deliberate. For, this bird, \[20\] with his rightfoot raised up, after uttering the hail of victory, has sung
 
-
-
 with reference to me this verse with the most perfectdistinctness of syllables. Generally, birds and beasts arecapable of knowing only fear, eating, copulation, sleep andgesture. This, of course, is a great marvel". When theking had said so, Kumarapalita, with a gentle smile on hisface said to him— "Sire, what is the wonder here? For,it is well known to your majesty that these extra-ordinarybirds such as the parrot and maina, repeat words just as theyhave heard them. (Hence) it is no great wonder that evenin such cases, excellences of refinement are produced as aresult of the continuance of the refinement gained in aformer birth, or by personal effort. Another point is thatformerly the voice of these birds was with a very distinctarticulation, like that of men. But by the curse of Agni, theutterance of the parrots became indistinct and the tonguesof the elephants were turned back-wards." —While he wasjust saying this, there arose the blow of the mid-day conchesfollowing the clear loud roar of the drum beaten exactly atthe completion of the
 
 N
@@ -569,17 +475,11 @@ ADIKA (i. e. fourth watch of the day),and announcing that the hot-rayed Sun had 
 
  12. Then, as the king moved, there was a tremendousbustle among the princes, as they also rose up with theirpearl-necklaces oscillating about their chests, each one ofthem eagerly longing to go ahead of others, being desirousof paying his obeisance (to the king) at (the time of) departure; (thus) their silk garments were torn by the crocodileedges of the leaf-work of their armlets shaken in their jostling with great hurry against one another; the garlands round
 
-
-
 their necks were swinging, being tossed up; the directionswere turned pink with the dust of the perfumed powder andsaffron issuing (being rubbed off) from their shoulders;swarms of bees rose up from their chaplets of MALATI flowers shaken (now); (and) their cheeks were kissed by the bluelotuses used as ear-ornaments (now) dangling half-way down-wards. And that assembly hall was astir, as it were, on allsides, with the tinkling sound of the jewelled anklets, thejewels of which tinkled at every step of the chowrie-bearingdamsels bearing the chowries on their shoulders and pouring out here, there and in every direction, which sound wasrendered boisterous by the cackling of the old swans intoxicated by drinking the honey of lotuses; \[21\] with the melodious jingling sound of the girdles of courtesans movingabout, the jewel strings of which (girdles) were resonantby striking against their broad hips; with the loud cacklingsof the sweet-voiced swans in the oblong ponds of the palace,which (swans,) being attracted by the tinkling of the anklets,had whitened the slabs of the flight of steps of the assemblyhall; with the in-distinct cries, prolonged like the shrillsound given out by the bell-metal when grated, of domesticcranes that were excited at the jingling of girdles and werecrying loudly at a high pitch; with the sound, deep asthunder-bolt and shaking the earth as it were, of the assembly hall trodden by the feet of hundreds of the feudatory princes that started hurriedly; with the very shrill and longpanegyrical cries of the portresses warding off the peoplebefore them and of staff-bearers, who (all) were utteringloudly and with a show of grace-fulness the words 'Behold!Behold !', —which (panegyric) had become yet more prolonged by the echoes reverberated within the vaults of that
-
-
 
 residential palace; with the sound of the jewelled pavementbeing scratched by the sharp edges that bristled with long(stick-like) pure gems of the crowns of kings who weresaluting (Sudraka), and whose crest-jewels dangled about astheir heads were bent down hastily; with the tinkling of theear-ornaments (of the princes) tossed about while bowingdown, and making a ringing sound as they fell on the veryhard jewelled pavement; with the din that filled the ends ofthe quarters, following the sweet shouts— "Victory! Longlife (to the king)!" of the panegyric bards going in front;with the buzzing of the bees flying up after abandoning thebunches of flowers out of fear of the commotion caused bythe tread of hundreds of the moving men; and with theclashing sound of the jewelled pillars which had theirfestoons of jewels resonant with a jingling, as they werestruck by the pointed ends of their armlets by the princeswalking along with very quick strides in that confusion.
 
  13. Then, the king dismissed all those chiefs; and afterpersonally saying to the chandala girl— ‘Take rest', andinstructing the betel-box-bearer with the words— ‘Let Vaisampayana be taken into the inner apartment,' he went inside accompanied by a few favourite princes. \[22\] And removing all his adornments, like the sun divested of his abundantrays, or like the expanse of the sky bereft of the moon and stars,he entered the gymnastics-hall where the requisite apparatusfor physical exercise was duly set up. Having takenpleasant exercise there in the company of princes of his ownage, he had his body adorned with lines of fine drops ofperspiration arising through exertion, which (lines) on hischeeks were as charming as bunches of slightly openedSindhuvara flowers, which on his chest resembled clusters
-
-
 
 of pearls dropped down from the neck-lace broken off during(his) hard exercise, and, which on his broad fore-headimitated the drops of nectar springing forth from the surfaceof the half-moon on the eighth day of the month. He hadhis path shown by staff-bearers who were performing theirregular duty of warding off (people from the king's path) inthe palace although it was at that time sparsely peopled withattendants hastily running before him this way and that intheir hurry for arranging the bathing materials. (Thus) heentered the bathing place which was spread over with awhite canopy, about which bands of CHARANAS had formeda circle, the central region of which contained a water-vesselof gold full of scented water, where a bathing seat of crystalwas placed, and which was adorned with bathing vessels,placed in one end, filled with very fragrant scented water,and with (their) mouths rendered dark by swarms of beesdrawn there-to by the odour as if the faces (of the vessels)were veiled with a blue cloth for fear of the sun's heat. Asthe king, who had his head besmeared with the perfumed
 
@@ -587,13 +487,9 @@ A
 
 MALAKA oil rubbed with their hands by courtesans, steppedinto the water-tub, the courtesans stood round him, holdingwater-pots for his bath, like so many goddesses come theirfor consecrating him. They had their breasts and waisttightly girt with their silk-garments; they had pushed theirbracelets high up their creeper-like arms; their ear-ringswere up-raised; and their curly locks of hair were pushedaside from flowing over their ears. Surrounded by thosewomen with elevated pot-like round breasts, when the kingentered into the midst of water, he at once shone like awild tusker who had entered into the midst of water beingsurrounded by famale elephants gifted with frontal globes
 
-
-
 resembling the elevated breasts (of damsels). And rising upfrom the water of the water-tub, he got upon the bathingseat which was white being made of a transparent crystal slab,just as Varuna gets upon the kingly swan which is as whiteas a transparent crystal. Then those courtesans bathed theking in due order;—some (of them) \[23\] darkened by thelustre of their emerald jars, like embodied lotus-plants(bathing him) with their leafy vessels; and some with silverjars in their hands, like nights (bathing him) with a flood ofmoon-light issuing from the orb of the full moon. Some, withtheir bodies drenched in perspiration produced by the fatigueof lifting up the jars, bathed him like water-goddesses(bathing him) with the water of holy rivers (contained) incrystal jars; some, like Malayan streams, (bathed him) withwater mixed with sandal juice; some, placing their leaf-likehands on the sides of the up-raised jars and with a net-workof rays being spread out from their finger-nails, bathed himlike the female figures of the water-fountains, with jets ofwater pouring forth through the interstices between theirfingers; and others, holding gold pots in their hands, bathedhim with saffron-water, like (so many) deities presidingover the day (bathing him) with morning sun-shine in orderto remove his frigidity. And then there arose, penetratingthe hollows of the universe and piercing as it were the pathof hearing, a most tumultuous blare of the conches blownat the (king's) bathing, which (blare) was being followed bythe din of many loud-sounding drums then beaten, ofcymbals, tabors, flutes, lutes and songs, and mingled withthe utterances of a multitude of bards.
 
  14. And having gone through his bath in this manner, he,having his body rendered clean being cleansed with water,
-
-
 
 like a portion of the autumnal sky, put on a pair of cleangarments white and light as the sloughs of poisonous snakes;he wrapped his head with a fine silken cloth bright like apatch of a very white cloud, thus looking like the snowymountain (Himalaya) surrounded at its top by the stream ofthe celestial river Ganges; (then) he offered libations ofwater to the manes; and having saluted the Sun with a handful of water sanctified by a Vedic mantra, he proceeded tothe temple. Having come out of the temple after he had performed the worship of Siva, he made the customary offering to Agni; (then) in the toilet-room he had all his limbsanointed with sandal (juice), fragrant with the perfumes ofmusk, camphor and saffron, and whose odour was being closely followed by swarms of buzzing bees; (then) he put on achaplet of sweet-smelling MALATI flowers, changed the garments, and was with the single adornment, namely, hisjewelled ear-ring; (then,) \[24\] the king took his food in thecompany of princes accustomed to dine with him, enjoyingthe pleasure arising out of the tasting of the viands of arelishable savour.
 
@@ -603,8 +499,6 @@ A
 
 CHAMANA, chewed betel leaves; (then) risingfrom that place of bright jewelled pavement, leaning on thearm stretched out to him by the portress who stood not faroff, yet ran to him hurriedly, and being followed by theattendants whose hands were with palms resembling the veryripe leaves on account of their constant duty of holding thelong cane-staves, and who were privileged to move about inthe innner apartments, he came to the audience-hall whichlooked as if it had been built with walls of crystal stones because of the white silk-curtains that draped its ends; (the
 
-
-
 hall) had its jewelled pavement sprinkled to coolness with the sweet smelling sandal-water mixed with the intense perfumeof musk; it was closely bestrewn with offerings of flowers scattered densely as if they were clusters of stars in the sky (in the form) of the stainless jewelled pavement; it was illustrious with a number of pillars made of gold, washed with scented water and with the numerous doll-figures engraved there-on that appeared like the house-hold deities close at hand; it had an excessive incense of the burning of the aloe wood; and the hall had an alcove which held a couch that resembled a flat snowy rock and looked like a piece of cloud turned white being completely shed of all its water; the couch had a counter-pane scented with floralfragrance, was furnished with a silk pillow at its head, had its legs resting on jewelledpedestals and was supplied with a gem-laid foot-stool. And there he sat on the bed and his feet were being shampooedgently by the sword-bearing attendant seated on the ground, with her cup-like hands tender as the petals of a fresh lotus,after placing her thin sword gently on her lap; (thus) he sat for about a MUHURTA (48 minutes) talking of various things with his ministers and friends and such kings as could begranted an audience at such an hour. There-after, the king ordered the portress who was not far from him thus;–“Come here bringing with you
 
 V
@@ -613,15 +507,11 @@ AISAMPAYANA from the harem”,curiosity having arisen in him to question him (th
 
  16. Then, in a moment as it were, Vaisampayana, hiscagebeing carried by the portress, came into the king’s presence
 
-
-
 being followed by the Chamberlain who supported himself on a thin golden staff, the upper part of whose body was slightly stooping, whose body wasclad in a white robe, whose head had been turned white by oldage, whose voice was faltering, who walked very slowly and thus appeared to be an aged KALA-HAMSA (following Vaisampayana) out of affection for bird-kind. Then the Chamberlain, placing his hand on the ground, addressed the king (thus)—“Sire, the queens say— ‘In accordance with your Majesty’s order, this Vaisampayana has been bathed and fed and now brought to your feet (i.e. presence) by the portress”. Having said thus, when he had gone, the king asked Vaisampayana—“Was any food, that you relish, tasted by you in the inner apartment?” (To this) he replied—“Sire, what things have I not tasted ? I have drunk in plenty the bluish red Jambu fruitjuice of a sweet astringent taste and of the lustre of the eyes of the slightly intoxicated cuckoo. I have crushed the pomegranate seeds of the colour of the pearls wet with the blood of the frontal globes of the elephants in rut, torn out by the claws of a lion. I have freely cracked the old myrobalans, green as the lotus-leaves and sweet as grapes. Or, why talk at length ? Every-thing offered by the queens with their own hands becomes nectar, as it were. Rebutting the speech of him who was talking thus, the king said—“Well, let all this cease. Please remove our curiosity. Kindly relate fully from the beginning, the history of your birth. In what country were you born and how ? By whom were you given your name ? Who is your mother and who yourfather ? How came your Vedic attainments ? How came your acquaintance with the Sastras? From whom were the Arts (
 
 K
 
 ALAS) learnt (by you)? \[26\] Is it remembering (them
-
-
 
 from) a former birth, or (the effect of) the grant of a boon ? Or, are you some-one living (thus) disguised assuming the form of a bird? Where were you living hither-to? And whatis (your) age? How came (this) confinement in a cage? How did you go into the hands of
 
@@ -634,15 +524,11 @@ questioned (thus) by the king himself in whom curiosity was roused, Vaisampayana
 
  17.“There is the Vindhya forest which extends up to the shores of the eastern and western oceans and is like the girdle adorning the middle regions, of the earth; it is adorned by trees, nourished by watering them with theichor of herds of wild elephants and bearing bunches of fully opened white flowers looking like clusters of stars clinging to their crests on account of their great height ; the foliage of its pepper plants is bitten by flights of passionate ospreys chirping sweetly; it is fragrant with the odour ofTamala-leaves crushed by the trunks of young elephants; it is covered with dense foliage delicately tinted like Kerala (Malabari) women’s cheeks reddened by the intoxication ofwine, as if it (the foliage) was dyed by the red lac of the feet of the moving sylvan goddesses; it is beautiful with creeper-bowers whose (grouud) surfaces are moistened with the juice of pomegranates crushed by flights of parrots, which are variegated with the leaves and fruits dropped down from the KAKKOLA (berry) trees shaken by restless monkeys, which are dusty with the pollen of flowers dropping down incessantly, which contain beds of clove-foliage spread by the
 
-
-
 travelling folk, whose borders are surrounded by the fullgrown cocoanut, KETAKI, KARIRA and Kesara trees, which are adorned with clumps of arica (-nut) trees twained round by betel-leaf creepers, and which appear like the dwelling mansions of Sylvane Beauty; the forest is darkened throughout (lit. leaving no space) with groves of ichor-smelling cardamom creepers that seem to have been sprinkled over with the liquid ichor flowing down from the templeregions of rut-elephants; in this forest, hundreds of lions ar being killed by the chiefs of the
 
 S
 
 ABARA hunters covetous of the pearls of the fore-heads of elephants, clinging to the tips of their (lions’) claws ; like the city of the lord of the dead (Yama), it is terrible being always haunted by Death and is infested with (wild) buffaloes ; like an army prepared for a battle having arrows fixed to the bows \[27\] and full of the roar of warcries, it has bees made to rest on BANA and ASANA trees and is full of the roars of lions; like Katyayani, fierce with her flashing sword and anointed with red sandal, the forest is dreadful with wandering rhinoceroses and is adorned with red sandal trees; like the biography of KARNISUTA (the founder of the art of thieving) in whichare present the names of (his two friends) VIPULA and ACHALA and (his chief minister) SASA, the forest has in its vicinity huge mountains and is full of hares; like the evening twilight on the day of World-destruction, which (twilight) is as purple as tender leaves, and has Siva dancing (with joy), the forest is red with foliage and is with dancing peacocks; like the occasion of the ocean-churning for nectar, delightful with goddess Lakshmi and the Parijata tree and affected by wine, the forest is charming with Sri (Bilva, Asvattha) trees and is over-grown with DURVA grass; like the
-
-
 
 rainy season dark with clouds and beautified with numerouslightnings, it is dark as clouds (or, it is densely dark) and decked with many hundreds of waterpools; like the moon’s orb always followed by clusters of stars and inhabited by adeer, it is continually frequented by troops of bears and is inhabited by deer; like Royal Dignity charming with thefans of the tails of the CHAMARI deer and well protected by troops of rut-elephants, the forest is beautiful with the fanlike tails of the Chamari deer and is guarded by herds of elephants in rut; like the daughter of the Mountain, unitedwith Siva and attended upon by her lion(-vehicle), it is with branchless trunks of trees and is infested with lions; like Janaki, who gave birth to Kusa and LAVA, and who wascarried off by the demon (Ravana), the forest has produced bits of Kusa grass and is stalked by night—wandering beasts; like a coquette wafting the perfumes of sandal and musk and decked with a lovely TILAKA mark of Agaru (on her forehead), the forest wafts the perfumes of sandal and musk and is adorned with the lovely AGARU and TILAKA trees; like a love-lorn woman fanned by the breeze produced by different kinds of tender leaves (used as fans), it is fanned by the winds wafted by different varieties of leaves and has (a number of) MADANA trees; like the neck of a child adorned with a row of tiger’s nails and the
 
@@ -650,11 +536,7 @@ G
 
 ANDAKA ornament, it is decked with lines of (the imprints of) the claws of tigers and is adorned with rhinoceroses; like a drinking room with hundreds of wine pails exhibited and strewn with a variety of flowers, it exhibits hundreds of beehives and is bestrewn with many kinds of flowers; having in some places, round patches of ground dug out by huge boars with their tusks, it is like the time of universal Annihilation when the round
 
-
-
 earth is raised up by the Great Boar(-incarnation of Vishnu) on his tusks; in some places being full of tall SALA trees whose branches are being broken by troops of restless monkeys, it is like the capital city of the ten-faced Ravana, which was agitated due to its lofty buildings being destroyed by troops of restless monkeys; in some places being adorned with green KUSA grass, the fuel sticks, flowers and the SAMI and PALASA trees, it is like a place where a marriage has just taken place, which is furnished with Kusa, holy fuel, flowers and SAMI leaves; in some places, set with thorns, it is like a lady experiencing an horripilation being frightened at the roar of furious lions; in some other places, noisy with the cooings of swarms of cuckoos, it is like an intoxicated woman prattling like cuckoos; like a mad woman making the sound of clapping hands under the influence of delirium, in some places the forest is with a rustling sound of the TALA trees due to the force of the wind; shedding down the leaves of the TALA trees in some places, it is like a widow who has removed her TALA-PATRA ornament; over-grown with hundreds of reeds in certain places, it is like a battlefield covered with hundreds of arrows; dense with thousands of NETRA trees in some places, it is like the body of Indra (the lord of gods) full of a thousand eyes; dark with TAMALA trees in some places, it is like the body of Narayana which is as dark as TAMALA; infested with monkeys in certain places, it is like the flag on Arjuna’s chariot, occupied by the monkey (Hanuman); impenetrable with hundreds of cane-plants in some places, it is like the doorway to a king’s court to enter which it is impossible owing to hundreds of (door-keepers weilding) cane-staves; overgrown with hundreds of bamboos in certain places, it is like King Virata’s
-
-
 
 Capital guarded by the hundred Kichaka brothers; in some places, with deer having eye-balls restless (out of fear) being chased by hunters, it is like the beauty of the sky, wherein the constellation Mrigasirsha, with its shining stars, is being followed by the‘ VYADHA’star; \[28\] in some places, possessing KUSA grass, CHIRA grass, fibrous roots and barks, it is like a woman under ascetic vow putting on KUSA grass, a ragged cloth, matted hair and a bark garment; although with heaps of unlimited mass of leaves, it is adorned with the
 
@@ -668,8 +550,6 @@ EAVES (a kind of plantain tree) only; although of a cruel nature, (infested with
 
  18. In it, as also lying within (the boundary of) the Dandaka forest, there was a hermitage famed throughout the surface of the whole world, being as it were the birthplace of Dharma. The hermitage was adorned with trees, round which watering-basins were made personally by Lopamudra, which were reared up by the pouring of water with her own cup-like hands, and which were not different from her own children to her (i. e. Lopamudra,) wife of the Revered great sage Agastya, by whom all the water of the ocean was drunk at the request of the lord of the gods (Indra), whose orders were not over stepped even by the Vindhyamountain when he, envious of Meru, had stretched forth into the sky thousands of his formidable peaks and was (there by) trying to divert the course of the sun’s chariot, having disregarded the words of the entire host of gods; by the fire in whose (Agastya’s) stomach the demon VATAPI was digested; the dust of whose feet was pressed against by the sharkshaped edges of the crowns of both gods and demons; who
 
-
-
 was like the ornamental mark on the face of the Southern Quarter; and whose prowess was manifested by causing Nahusha to fall down from heaven, merely by uttering the sound ‘hum’. The hermitage was sanctified by their (i.e. of Agastya and Lopamudra) son named
 
 D
@@ -678,11 +558,7 @@ RIDHA-DASYU, observing a vow, carrying an ASHADHA staff, having the adornment of
 
  19 And there it was that Rama, who had given up his kingdom thus fulfilling Dasaratha’s promise, and who (later on) put an end to the graceful sport of the Royalty of (the Ten-faced) Ravana, dwelt together with Sita happily for some time, attending on the great sage Agastya, and havinga beautiful hut of leaves built by Lakshmana at Panchavati. \[29\] Although vacant since a long time, the trees here, with rows of motionless grey pigeons lurking in their branches, appear as if they are with the clouds of smoke that issued forth (formerly) from the sacrifices of ascetics, clinging to them even now. There, on the tender leaves of creepers, a red colour shines forth as if it had been transferred (to them) from the palm of Sita while she was (formerly) plucking flowers for the
 
-
-
 purpose of worship. There, all the ocean-water drunk and subsequently let out by the sage appears to have been distributed among the great pools lying around the hermitage. There, the forest with the roots (of its trees) once watered with plenty of the blood of the forces of the demons slain by the volleys of sharp arrows of Dasaratha’s son Rama, appears even now with fresh foliage which seem to be sprouts come forth saturated with that (blood) colour. In that forest, the aged deer, that were (formerly) reared up by Janaki and are with the tips of their horns wrinkled by oldage, on hearing in the rainy season the deep rumbling sound of a gathering of fresh clouds, are reminded even now of the twang-sound of Rama’s bow which would pervade the cavities of all the three worlds; and with their piteous eyes be-dimmed by an incessant shedding of tears looking in all the ten vacant directions, they do not take (to the nibbling of) the mouth-fulls of fresh grass. In that forest it was, that the gold-deer lured Rama away to a great distance separating him from Sita, as if he (the gold deer) were incited (for that act) by all the deer in that forest that were left out unslain (by Rama) in his continuous chase. There again, Rama and Lakshmana, miserable with the grief of their separation from Sita, and portending the destruction of Ravana, being seized by Kabandha just as the moon and the sun are (by Rahu), caused great fear through-out the three worlds. There it was that the very long arm of Yojanabahu which was felled by the arrows of Dasaratha’s son caused the sages to mistake it for the serpent-form of Nahusha come to propitiate Agastya. There again it is that Sita, painted by her husband inside the hut for diverting (himself) from the (grief of) separation (from her), is seen even to this day by the foresters, as if she has
-
-
 
 come up from the inside of the earth once again longing to behold the (former) dwelling place of Rama.
 
@@ -700,8 +576,6 @@ S
 
 ARASA birds screaming inebriately. It is noisy with the cackles of the female swans intoxicated by drinking the honey of the lotuses. It has a series of roaring waves agitated by the movement of hundreds of acquatic birds of different kinds. It has (always) a drizzle (there) caused by the spray from the tops of the huge waves tossed up by wind. It is made fragrant, with the flowers on their massive hairs while bathing, by the Forest Goddesses who enter it (the lake) without any apprehension, being fond of sporting in water. It is charming with the bubbling produced by the gourds as they are being filled
 
-
-
 with water by the sages who have descended (into water) on one side. It is full of groups of (
 
 K
@@ -716,8 +590,6 @@ C
 
 HAKRAVAKAS, floating in the middle,
 
-
-
 with wings turning black with the lustre of the full-blown blue-lotuses, appear as if they are even now over-ridden by Rama’s curse that has put on a (corporeal) form.
 
  21. On the western bank of that lotus-lake of the above description, and near the clump of the (seven) old TALA trees pierced by the attack of an Rama of arrow, there is a large, old
@@ -729,8 +601,6 @@ ALMALI (silk-cotton) tree. It looks as though it has a large watering-basin buil
 D
 
 IGGAJA (elephant of the quarters). With sloughs of snakes hanging from (its) lofty branches and being tossed up by the wind, it appears to have put on an upper garment. With its numerous branches spread out into the spaces of the world thus measuring as it were the dimension of the horizon, it seems to be attempting to imitate the crescent-moon-crested god Siva, with his thousand arms spread out during his wild dance at the time of World-annihilation. It is resting on the shoulders of the sky, as if out of fear of falling down on account of its being old. It is covered surrounded on all sides by creepers that have grown round its entire body and risen up to great heights as if they were its veins going through the whole of its body and showing themselves out prominently due to its advanced age. Its trunk is covered with thorns that look like the mole-spots (appearing over the skin) in oldage. Its top regions are not seen even by multitudes of water-bearing clouds which, like birds, come through the sky from every direction after having fully drunk the water of the oecan and being fatigued by the load of the water, rest for a while in the spaces between the branches and (thus) moisten its foliage. By its tallness, it looks as though it is attempting
-
-
 
 to behold the beauty of (Indra’s)
 
@@ -752,8 +622,6 @@ RAVANA, it eixhibits its loftiness in the sky. It is like a palace (-tower) for 
 
  22. Flocks of parrot-birds that had come there from various lands lived on it, having built confidently thousands of nests, as there was ample scope, on the ends of the boughs, in the inside of crevices, between the twigs, at the joints of the trunks and in the gaps of its worn out bark; and being rid of the fear of destruction on account of the difficulty in climbing up the tree. With those birds resting
 
-
-
 upon it day and night, that tree, although its thick leaves had become sparse by age, looked as if it were really dark with dense foliage. And on that tree those parrot-birds used to spend the nights in their own nests and daily used to get up (in the morning). Having arranged themselves in lines in the sky, they moved about in search of food, exhibiting as it were in the sky that Kalindi (Yamuna) river which was cleaved into several streams being raised up by the end of his plough by Balarama when under the influence of wine ; creating an impression that they must be a lotusgrove of the heavenly Ganges, flowing away up-rooted by celestial elephants; making the sky look as if it were streaked with the lustre of the horses of the chariot of the sun; imitating as it were a moving emerald floor; spreading as it were, a mass of leaves of the acquatic plant (
 
 S
@@ -764,8 +632,6 @@ K
 
 ALAMA rice, by means of their cup-like beaks that were as red as the ends of tigers’claws reddened with the gore of the deer slain (by them), and spend the nights on that very tree, \[33\] keeping their young ones under their wings out of deep, and unparalleled affection for their children, which (affection) put down all their other likings.
 
-
-
  23. And by the decree of fate, I was some-how born an only son to my father who was in the decline of age and lived with his wife in a certain old hollow (of that tree). My mother, over-powered by very severe pains of child-birth while I was born, passed away to the other world. Although bereaved with the sorrow of the death of his be-loved wife, my father, out of love for (me) his child, having suppressed the poignant on-rush of grief, wholly devoted himself all alone to the up-bringing of me. Being very much advanced in age, he bore wide wings, which resembled a tattered garment of Kusa grass, which were ragged owing to the very few worn out feathers remaining there-on, which hung loose from his drooping shoulders, and which had lost their power of flight; on account of his being over-taken by a (constant) quivering, shaking off as itwere the pains-giving oldage that had clung to his frame, he, unable to move about, used to pick up the grains of rice from the rice-stalks fallen down from the nests of other birds, by means of his beak which was gold-coloured like the stalk of the young
 
 S
@@ -773,8 +639,6 @@ S
 EPHALIKA flower, whose outer edge had become worn out and glossy by having cut (for a long time) the KALAMA clusters, and the tip of which was shattered; and gathering bits of fruits that fell down at the foot of the tree, being nibbed by the numerous parrots, he gave them to me. And daily he made his own meal on what was left over, after I had dined.
 
  24. But one day, at a time, when the moon, reddened by the glow of early dawn, was descending to the shore of the Western Ocean from the sandy bank of the Heavenly Ganges, as if it were an old swan with wings reddened by the honey of the lotus plant in the form of the sky;—when
-
-
 
  the circle of the quarters, white as the hair of an aged Ranku deer, was getting wider and wider;—when the throng of stars, like flowers strewn on the pavement of heaven,were being swept away by the long rays of the hot-rayed (Sun), as by brooms made of sticks of rubies, (the rays) being red like a lion's mane red with elephant's blood, or pink like threads of heated lac; \[34\]—when the group of the Seven Sages occupying the northern quarter (i. e. the constellation
 
@@ -794,19 +658,13 @@ U
 
 DAYA (Sun-rise) mountain;—when there gleamed clouds of smokes due to the fire-offerings in the penance-groves, which (clouds) being grey as the hair of an ass, appeared as if they were the banners of Righteousness, (flying high) like rows of doves, on the tops of trees that formed the terraced palaces of theSylvan Goddesses;—when there blew the morning breeze, which was laden with dew-drops, which ruffled lotus groves, which removed the drops of perspiration of the Sabara women fatigued after amorous sports, which bore away. drops of foam from the ruminations of wild buffaloes,
 
-
-
 which was eagerly intent on teaching dancing to the creepers whose twigs were *fluttering*, which rained a shower of honeydew from the beds of lotuses which were (just) opening, which gladdened swarms of bees with the sweet perfume of the flowers, and which, with a heaviness produced in it at the end of the night, moved very softly;—when the ‘*HUM*’ sound of bees, which recited the auspicious songs of awakening to the day-lotus-beds and which functioned as drums on the frontal bones of elephants, were uttered from within the interiors of the night-lotuses, as their wings were clogged within the cup-like petals (there-of) just closing up firmly; when the wood-land deer, the lines of hair on whose bellies had turned grey on account of their sleeping on saline (barren) soil, were very slowly opening their eyes which were affected by the chill morning breeze, which seemed to be with the lines of their eye-lashes held fast with melted lac juice as it were, and whose pupils were still squinting with the remains of sleep;—when the foresters were moving about here and there;—when the din of the KALAHAMSAS of the Pampa lake, gratifying to the ear, was rising up;—when the flocks of peacocks set to dance were feeling extremely delighted;—when the flapping sound of the ears of wild elephants was captivating the mind;—when, gradually, the cluster of the rays (of the sun) red as the
 
 M
 
 ANJISHTHA dye seemed to be the spread out CHAMARAS pendent as an ornament from the head of the elephant in the form of the sun stepping into his course across the sky;—\[35\] when the divine sun rose up slowly and slowly;—when the early sunshine, arising from the sun, fell all round on the forest, spreading over the tops of trees on the borders of the Pampa lake, occupying the peaks of hills and causing the stars to
 
-
-
 disappear, as if it (the sunshine) were the lord of the monkeys (Sugriva)— who was born of the sun, who moved about on the tree-tops on the borders of the Pampa lake, who inhabited the peaks of the hill (viz. Rishyamuka) and whose (wife) Tara was taken away (by his brother Valin),—once again taking to the forest;—when the early dawn cleared up;—when the sun shone bright, having passed through the first eighth part of the day in no time as it were;—when the flocks of parrots had departed into the different quarters of their choice;—when that tree, although with young birds quietly lying within the nests, appeared empty as it were, on account of the silence there;—when my father was within our own rest;—and when I, with wings just fledging out and having no strength on account of my infant state, was lying inside a hollow and near my father;—(at such a time,) there arose all on a sudden in that vast forest, the tumultuous noise of the chase. It frightened all forest creatures; it was prolonged by the flutter of the wings of birds flying hastily; it became louder with the cries of the frightened young elephants; it got swollen by the hum of swarms of intoxicated bees disturbed by the shaken creepers; it jarred fiercely with the grunts of the wild boars roaming about with up-raised snouts; it was deepened by the roars of the lions awakened from their sleep in the mountain caves; it was shaking the trees, as it were; it was harsh like the indistinct roar of the streams of the Ganges while they were being brought down by Bhagiratha; and it was listened to by the terror-stricken goddesses of the forest. And having heard that noice, of a kind not heard before, I, on account of my infant state, was seized by a tremor and had (the cavities of) my ears shattered; and confused in my fright, I
-
-
 
 crept into the space underneath the wings loosened by age, of my father who was closeby, with the idea of securing protection (against that danger).
 
@@ -816,8 +674,6 @@ R
 
 URU deer, red on account of the dry (leaves stained with the drops of blood that has shed (from the wounded deer)! Here is a heap of leaves and branches of trees) trampled over by the feet of elephants! Here is a
 
-
-
 pot where a troop of rhinoceroses had been sporting! This is the lion's track jagged with pieces of the elephants' pearls red with blood and having lines of leaves all scratched ferociously with their claws! Here is the ground red with the blood from the womb of some doe that has recently delivered! Here is the path by which the leader elephant straying from his herd has wandered and which, being darkened by his streaming ichor, is resembling the braid of hair of theforest (in lady's form)! Follow this line of the
 
 C
@@ -825,8 +681,6 @@ C
 HAMARIS (yaks)! Occupy very quickly this forest-region which is dusty with the dried dung of deer; climb up the tops of trees! Look out in this direction! Listen to this sound! Take up the bow! Be steady (attentive)! Let loose the hounds.”
 
  26. Then, not long after that, the forest was shaken from all sides as it were,—by the roar of lions hit by the arrows of Sabaras, which (roar) was deep like the sound of the tabor wet with the paste smeared there-on, and was intensified by the echoes rebounding from mountain-caves;—by the trumpetting (roar) from the throats of the elephants leading herds but now moving about all alone being separated from the frightened herds, (the roar) which resembled the rolling sound of thunder, and was mixed up with the ceaseless lashing of their trunks;—by the piteous cries of antelopes,the pupils of whose eyes were tremulous and terrified as their limbs were being violently torn away by the hounds;—by the yell of she-elephants-prolonged on account of their grief at the recent loss of their lords— whose leader elephants were slain, who were thus in bereavement, who were followed by their young ones, and who, listening to the din with their ears raised by stopping repeatedly, wandered
-
-
 
 this way and that;— \[37\] by the bellowing of the sherhinoceroses who had given birth (to their young ones) just a few days before and were searching for them as they were lost in the panic, and who were crying very piteously wailing loudly;— by the out-cry of birds that flew up from the tree-tops and moved round in confusion;— by the sound of the feet of hunters who ran after the animals to be hunted, (the sound) that caused as it were the quaking of the earth, as it was struck by their feet simultaneously and in great haste-by the tawng of bows, the strings of which were drawn as far as the ears (of the bowmen) and which rained a volley of arrows, (the tawng-sound) rendered indistinct by the pleasing cries issuing from the throats of the female ospreys under the influence of intoxication;— by the clash of swords with their blades whizzing while cutting through the air, as they fell on the hard, broad shoulders of buffa-loes; — and by the baying that penetrated the different parts of the forest, of hounds violently giving out a hoarse growl..And in a short time, when that din of the chase subsided, and when that forest became quiet, resembling a mass of clouds silent after pouring down waters, or like an ocean whose water is stilled after the churning is over, I, whose fear had become less and in whom curiosity had arisen, moving off a little from the lap of my father but still remaining within the hollow itself, stretched forth my neck and with the pupils of my eyes trembling with fright, directed my glance in that very direction, since a desire to see what it was, arose in me out of my childishness.
 
@@ -843,8 +697,6 @@ armada river tossed by (
 K
 
 ARTAVIRYA-) Arjuna's thousand long arms; a wood of TAMALA trees set in motion by the force of the
-
-
 
 wind; like the collection of all the
 
@@ -882,8 +734,6 @@ Y
 
 AMUNA river; with a mass of hair curled at the ends and hanging on the shoulders, he looked like a lion with its thick mane sullied with the ichor of elephants; he had a broad forehead; he had a very high
 
-
-
 and stern nose; he shone with his left side slightly reddened by the reddish rays of the gem of a serpent's hood which (gem) was made the ornament for one of his ears, as if with the red colour of the leaves that had clung to him on account of his constantly reposing on beds of leaves; he had his body perfumed with fragrant ichor, which was collected from the temples of freshly slain elephants, which bore the odour of the
 
 S
@@ -910,8 +760,6 @@ K
 
 ALI); he appeared majestic with his expansive chest, which was broad like the surface of any rock of the Vindhya mountain, which bore here and there drops of blood of the deer clinging to it and now clotted, which was marked with thin drops of perspiration and which hence seemed to be with the adornment of pearls got from the
 
-
-
 frontal globes of elephants inter-strewn with the (red)
 
 G
@@ -929,8 +777,6 @@ ATYAYANI propitiated by his great devotion, to denote that he was her protege. H
 C
 
 HAURIES; which were scarred by blows from the tusks of big boars; which, although small in bodily form, were like cubs of lions with their manes yet not grown on account of their enormous strength; and which were experts in initiating the does into widowhood;—and (he was followed also) by bitches of big size which (hence) looked like lionesses come there to beg an amnesty for the lions. He was surrounded by troops of Sabaras of many an occupation; of whom,— some carried loads of yak-tails and elephant tusks; some had bee-hives bound up in leaves having no holes in them; some, had their hands filled with pearls torn from the frontal globes of elephants as if
-
-
 
 they were lions; some, like demons, carried loads of raw flesh; some, like the goblins attending on Siva, bore lions’ skin; some, like the
 
@@ -994,8 +840,6 @@ A
 
 RDHA-
 
-
-
 NARISVARA), he wore as ornaments the eyes on the feathers of peacocks. Like the demon Hiranyaksha whose chest was torn by the tusk of the Great Boar incarnation of Vishnu, he had his broad chest attacked by the tusks of big boars. Like a very, lewd person who has a large number of slaves (or bards) in his service, he had taken many captive women as his wives. Like a flesh-eating demon eagerly fond of blood, he had about him hunters who were attached to him. Like the display of (notes in) the art of music at the end of which comes the
 
 N
@@ -1022,25 +866,4 @@ UDARSANA weapon). Although he wandered as he pleased, still his sole refuge was 
 
 ——————
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^9]: "The following anecdote goes with the composition of this poem. Mayura. another poet in the court of Harsha and a relative of Bana, was suffering from leprosy. In order to be freed from the disease, he praised the Sun in a hundred verses called Suiyasataka and was cured. This roused the jealousy of Bana who maimed himself and invoked Chandi by his Chandi Sataka and got back the lost limb by her favour. cf. आदित्यादेर्मयूगदीनामिवानर्थनिवारणम् – काव्यप्रकाशे."

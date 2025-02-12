@@ -14,18 +14,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5Mjg5OTc0MTE
 
 \
 
-
-
-
-
-
-
-
-
-
-
-
-
 ARTICLE IV.
 
 \_\_\_\_\_\_\_\_\_\_\_\_
@@ -442,8 +430,6 @@ defend you.
 
   Sunday, the 11th day of the light fortnight of Márga, in the year 907.
 
-
-
 INSCRIPTION No. II.
 
 **ज्ञानानन्दं परं ब्रह्म ब्रह्मादिसुरसेवितम्।**
@@ -475,7 +461,6 @@ INSCRIPTION No. II.
  In the year 928; Sunday, the 6th day of the light fortnight of śrávana; *the moon being in the asterism Hasta.*
 
  Family name ⁵² of Keśava, the collector⁵³-Kátyáyana; *his* residence—the village of Síkhá, in Málavaka.⁵⁴  
-
 
 **PROSODIAL INDEX TO THE FORMER OF THE FOREGOING     
 INSCRIPTIONS.**
@@ -583,8 +568,6 @@ E. g.   1 1 1 1        5 3 2 1     12 6 3 2
 
   Write 1, 2, 4, and 8 beneath the four literal symbols, respectively; and increase by one the sum of the figures attached to the I's.
 
-
-
 E. g.  U U U U     U U I U      I I U I  
   I I I I  
        1 2 4 8      1 2 4 8      1 2 4 8
@@ -672,7 +655,6 @@ E. g.  U U U U     U U I U      I I U I
 वैरिसिंहस्ततश्चक्रे निजंनामाऽर्थवद् भुवि॥ २७ ॥  
 व्यूढोरस्कस्तनुर्मध्ये क्ष्वेडाकम्पितभूचरः।  
 विजयोपपदः सिंहस्ततो ऽरिकरिणो ऽवधीत्॥ २८॥
-
 
  'Vairaṭa, a lord of earth, who destroyed the abode of his antagonists with his two staff-like arms, caused, by his might, the heads of those inimical to him to toss long on their pillows.
 
@@ -1023,7 +1005,6 @@ For my former decipherment of the third stanza I substitute, with confidence :
 
   After incising वेम्बुजाम्बु—which makes sense, but militates against the metre—the engraver half deleted the first म्ब. It could scarcely have been part of his original.
 
- 
 Limbáryá,❋[^14] not Liswáyá, is the name of the lady spoken of in the prose.
 
 [^14]: "Or Lítswáryá, as it also admits of being read; the characters of this inscription are cut in such fashion that, where no aid is to be derived from the sense, some readings must remain uncertain.-COMM. OF PUBL."
@@ -1035,33 +1016,10 @@ Limbáryá,❋[^14] not Liswáyá, is the name of the lady spoken of in the pros
  तदा, in the eighth stanza, is my own, I find; and yet right, I suspect, as against the word exhibited,सदा. It will be seen that, to avoid something worse than a vain repetition, my conjecture was not ill advised.
 
  The last verse of the inscription has प्रशस्तैयं. By deducting a stroke, so as to bring out प्रशस्तेयं, the text is healed; but only provided that प्रशस्ता is permissible in lieu प्रशस्ति; and this is exceedingly doubtful.To repeat what I have remarked elsewhere, the Sanskrit of this inscription is of very questionable purity.     
- 
 
 Troy, N. Y., April 3rd, 1860.                    
                                    
                               F. E. H.
 
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
 

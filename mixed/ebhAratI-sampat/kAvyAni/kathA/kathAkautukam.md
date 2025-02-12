@@ -14,22 +14,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4OTIyNjE5NDM
 
 \[
 
-
-
 [TABLE]
-
-
-
-
-
-
 
 **आक्षिप्तश्चापमुक्तैर्विषमविशिखबाणैः सुदिब्द्याप्रसादा–  
 द्यस्या दैवेन संत्रस्तहरिणनयनायाः शुभाशामृतेन।  
 चिन्तादावाग्निना पूर्वमहह मृतकल्पोहि संजीवितोऽहं  
 प्राणेश्वर्याास्तवास्तु स्मृतिकृदखिलमायुः कथाकौतुकं तत्॥**
-
-
 
 Vorwort.  
 
@@ -39,8 +29,6 @@ Vorwort.
 
 **क्वकाव्यं मद्गुरोस्तस्य क्वच मन्दमतेर्मम।  
 वर्णमात्रेण मक्कोलं घनसारायते कथम्॥**
-
-
 
 राजवृत्तानुरोधेन न काव्यगुणवाञ्छ्या।  
 सन्तः शृण्वन्तु मद्वाचः स्वधिया योजयन्तु च॥
@@ -65,13 +53,9 @@ und ähnlich III, 5-6:
 
  Nur eine Stelle im ganzen Kathākāutukam hat mir grosse Schwierigkeiten bereitet, worüber noch eingehend zu reden ist, nämlich im ersten kāutukam Śloka 16–39, besonders aber 16–17. Grammatisch nicht unmöglich ist die Lesart, wie ich sie habe drucken lassen, ehe ich selbst über den Sinn dieser vier Zeilen ganz klar war. Danach wäre etwa zu übersetzen: „Dieser da,
 
-
-
 Mahāmada mit Namen, das Stirnjuwel der [Pāigambharās](http://Diese%20erscheinen%20später%20im%20Kathãº%20IV,%2051%20und%20Rājataraṅgiṇi%20III,%20155%20als%20Pāigambarās. "Diese erscheinen später im Kathãº IV, 51 und Rājataraṅgiṇi III, 155 als Pāigambarās.")\*), pflegte sich mit dem Khediven (Dschāmī) zu unterhalten (mit Liebesgeschichten), wiewohl er reinen Herzens war. Auf seinen Befehl hat der mächtige (Khedive Dschāmī) die Brücke der Frömmigkeit geschlagen, auf Grund seiner Kenntniss der tiefsten Wahrheiten und ohne Verletzung des (Dharma-)Śāstra“ (tattvabhāvān abhijñatvāt tathā-'śāstraviparyayāt). Bei dieser Uebersetzung ergeben sich aber verschiedene Unzuträglichkeiten, vor allem die, dass es nicht recht denkbar ist, der P e r s e r Dschāmī habe auf Befehl des Fürsten von K a ś m ī r, eben jenes Mahāmada, sein Gedicht verfasst! Des persischen Dichters Patrone waren vielmehr Abu Said und dann dessen Nachfolger Hussein Mirza Beikara, von denen uns hier nur der letztere angeht; denn unter dessen Regierung hat Dschāmī als Siebzigjähriger sein Gedicht von Joseph geschrieben. Trotz aller noch so zahlreichen und nahen Beziehungen zwischen Persien und Indien ist es denn doch wohl undenkbar, dass der Fürst von Kaśmīr dem so hoch gefeierten Dschāmī befohlen hätte, die Geschichte von Joseph zu einem Epos zu verarbeiten, zumal dieser Stoff dem Inder herzlich ungeläufig sein musste.
 
  Hier bliebe nun freilich zunächst noch der Nothbehelf, anzunehmen, dass der Text an jener Stelle verderbt sei; das wäre doch aber mindestens recht auffällig, da das von mir benutzte Manuskript vollauf das Prädicat „im ganzen vorzüglich“ verdient. Nein! Die Lösung aller Schwierigkeiten erfolgt, wie mir scheint, ungezwungen, wenn nur die Person des „Mahāmada“ in Ślōka 16 richtig bestimmt wird. Eine genaue Vergleichung des Sanskritgedichtes mit dem persischen Originalwerke lehrt nun, dass Śrīvara, wenn auch nicht Wort für Wort, so doch Abschnitt für Abschnitt der Einleitung, und zwar mit Beibehaltung der von Dschāmī gewählten Reihenfolge, übersetzt hat; und an der Stelle, wo er von ihr abweicht, nämlich bei der Lobpreisung Gottes, entschuldigt er sich damit, dass es althergebrachte Sitte der Dichter sei, den „Erhabenen" zuletzt zu feiern, nachdem sie das eigentliche Gedicht beendet hätten; I, 14–15:
-
-
 
 किं तु पूर्वमपूर्वं यत्परं योगनिरूपणम्।  
 कृतं मनीषया तेन तदन्ते कथ्यते मया॥
@@ -83,13 +67,9 @@ Mahāmada mit Namen, das Stirnjuwel der [Pāigambharās](http://Diese%20erschein
 
  Da überdies die Lobpreisung des Propheten mystisch dunkel gehalten und voller Schwierigkeiten für das Verständniss ist, so können wir es Śrīvara nachfühlen, wenn er darauf verzichten will, ein māhātmyam des Propheten zu geben, da er den wahren Sachverhalt nicht kennt“—tattvabhāvā-'nabhijňatvāt — und ausserdem hat er als Inder noch einen sehr stichhaltigen Grund für diesen Verzicht:weil ja auch sein Buch ein anderes ist (tathā [śāstraviparyayāt)](http://Oder:%20weil%20(die%20Verherrlichung%20des%20Propheten)%20dem%20(indischen)%20Lehrbuche%20(der%20Frömmigkeit)%20widerspricht. "Oder: weil (die Verherrlichung des Propheten) dem (indischen) Lehrbuche (der Frömmigkeit) widerspricht.")\*)! Dagegen feiert er nun den Fürsten, der jenes, nämlich Muhammed's, Namen trägt (tan-nāmnō mahīpatēh), also den Kaśmīrfürsten Mahāmada, der in Śrīvara's Rājataraṅgiṇī bald als Mahmada, bald als Mahammada erscheint. Es ist das der dritte Herrscher nach Zain ul Ābidin, oder wie ihn die indischen Historiographen
 
-
-
 nennen, Jāinōllābhadīna: auf diesen folgt sein Sohn Hājyakhāna, auch Hājyahāidaraśāha genannt, auf diesen sein Sohn Hassanaśāha, dem dann sein Sohn Mahammada als Siebenjähriger folgt. Alle diese Herrscher hat Śrīvara wohl persönlich gekannt: er berichtet, dass er Jāinōllābhadīna habe sterben sehen— Rājataraṅgiṇī I, 745—er tritt am Hofe des Hassanaśāha als Disputant auf— Rājataraṅgiṇī III, 258—265— und bespricht auch noch die Regierung des Mahāmada (sowie von dessen Rivalen Phatāha oder Phatiha). Nehmen wir dazu noch die Aussage Śrīvara's, dass er ein Schüler des Jōnarāja, des Verfassers der Fortsetzung von Kalhaṇa's Rājatarangiṇī ist, der im Kathākāutukam als Jōnaka erscheint, so sind das wohl alle Angaben über des Dichters Persönlichkeit, die sich zur Zeit machen lassen. Zu berichtigen sind wohl die Bemerkungen B ü h l e r 's in seinem Kaśmīr Report, 61, wonach Śrīvara seine Uebersetzung „by order of his patron, Zain-ul-Âbidîn“ angefertigt habe. Da nämlich dieser Fürst nach Lassen, Ind. A. III, 482, von 1416—66, nach den H e r a u s g e b e r n d e r K ā v y a m ā l ā (Śrīkaṇṭhacaritam 1, Anm. 2) von 1417—67 regiert hat, so ist er bei dem Erscheinen von Dschāmī's Gedicht etwa siebzehn Jahre todt gewesen! Auch Bühler's Bezeichnung des Kathākāutukam als einer „collection of stories translated from the Persian“ passt nicht recht.—
 
  Nicht mit Stillschweigen übergehen will ich die Frage, ob denn der Verfasser der Jāinarājataraṅgiṇī und des Kathākāutukam ein und dieselbe Persönlichkeit sei. Bezeugt ist die Identität beider meines Wissens nicht, doch hege ich persönlich keinen Zweifel daran, dass der Dichter des Kathākāutukam auch zugleich der Verfasser des historischen Werkes gewesen ist. Vielleicht ist jenes in jüngeren Jahren geschrieben worden, wofür mir die ungelenke Ausdrucksweise, die oben erwähnten fehlerhaften Formen und endlich auch die etwas prahlerische Ankündigung, dass er das Buch aus dem Persischen übersetzt habe, zu sprechen scheint. Gerade aus letzterem Umstande könnte man freilich schliessen, dass das Yavanabhāṣāpāraṅgama gewählt sei, um den Gegensatz zu kennzeichnen nnd den Śrīvara des Kathākāutukam von dem der Rājataraṅgiṇī zu unterscheiden. Ich glaube aber nicht daran, sondern sehe vielmehr in der Aehnlichkeit der Schreibweise beider Werke
-
-
 
 den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
@@ -102,8 +82,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 **Richard Schmidt.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 सानन्दा हृदये विलोक्य विशदं यच्छुष्कशष्पोपमं  
 मन्यन्ते भुवनाधिपत्यमखिलं योगेन योगीश्वराः।  
@@ -134,8 +112,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 \_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1a विषदं. 2aभारन्तो.
-
-
 
 तुलयन्वाक्यरत्नानि हृत्कोशान्मम भारती।  
 भवद्भक्तितुलारोहे सुवर्णार्थान्विता भवेत्॥९॥
@@ -170,8 +146,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 तस्मात्संशयितं किंचिद्दोषायैवोपकल्पते।  
 माहात्म्यं किं तु तन्नाम्नो वक्ष्यतेऽद्यमहीपतेः॥१९॥
 
-
-
 जीयान्महामदः शाहिर्धर्माप्तवरगर्वितः।  
 श्रीमान्कश्मीरभूपालः फुल्लराजीवलोचनः॥२०॥
 
@@ -204,8 +178,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 प्रीत्यै तु गोसहस्रस्य येन धर्मपरेण च।  
 ज्ञात्वा पूर्वपदार्थैक्यं वधाद्गावो विमोचिताः॥३०॥
-
-
 
 योऽयमिन्द्राधिकस्सर्वगुणैर्नाम्ना शचीपतिः।  
 शतमन्युरिव ख्यातः शान्तक्रोधो महेश्वरः॥३१॥
@@ -242,8 +214,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 39 a येसोफ.
 
-
-
 भूपालतुब्द्यैसुरलोकवाण्यारम्भोऽधुनाकारि मनोहरोऽयम्॥४०॥चक्कलकम्॥
 
 विद्वन्मानससच्छास्त्रकुमुदानन्दकारकः।  
@@ -279,8 +249,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 46 a ॰विषदाशयाः.
 
-
-
 नास्ति लोके परं किंचिच्चित्तरागं विनापरम्।  
 तत एव हि वैराग्यं जायते सुखदं पुनः॥५०॥
 
@@ -313,8 +281,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 तेनेच्छ्या जगत्सर्वं रचितं यच्चराचरम्।  
 रागेणापि न तज्जातु विरागं जायते क्वचित्॥६०॥
-
-
 
 रागेणैव तदा देवीत्रयं सृष्ट्वात्ममायया।  
 त्रीनेव पुरुषांल्लोके हेतुभूतान्स्वदेहतः॥६१॥
@@ -349,8 +315,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 तस्य दासत्वमाश्रित्य विमुक्तो भवबन्धनात्।  
 तद्भीतिं हृदये धृत्वा सुखं प्राप्नोति शाश्वतम्॥७१॥
 
-
-
 रागासवं निपीयैव मदमानो नरस्तथा।  
 लोकावृत्तेक्षणस्सर्वं वेत्तीदं तृणवद्यथा॥७२॥
 
@@ -383,8 +347,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 एकदा पथि गच्छन्तं स्वेच्छया केवलं शनैः।  
 प्रादुर्भूता नभोवाणी मामवोचन्मुहुर्मुहुः॥८५॥
-
-
 
 एकं रसमयं शीघ्रं प्रबन्धं कुरु साम्प्रतम्।  
 यं श्रुत्वा मुनिवर्गोऽपि भवेत्कामविमोहितः॥८३॥
@@ -421,8 +383,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
 90 a वचोविधिः. 92c सूनूतं.
-
-
 
 नित्यं सत्यं प्रवक्तव्यं सर्वसिद्धिमभीच्छता॥९३॥
 
@@ -461,8 +421,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 93 d सर्वसिद्धिप्रपेच्छता. 2d परा.
 
-
-
 तेनेयं रसनान्वर्थनामधेयाभिजायते॥७॥
 
 श्यामा कुरङ्गनयना तनुमध्यभागा  
@@ -498,8 +456,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 11 aनीरज सुवृत्तौ.
 
-
-
 तादृशा जीवलोकेऽस्मिञ्श्रुतपूर्वा न वीक्षिता।  
 रूपलावण्यसंयुक्ता दुर्लभा रसनायिका॥१७॥
 
@@ -534,8 +490,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 17aतादृशे.
 
-
-
 अभूत्सा तादृशोरात्रिः सुखयुक्ता शरीरिणाम्।  
 यस्यां तु निद्रिता लोका न प्राज्ञायन्त किंचन॥२७॥
 
@@ -567,8 +521,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 सुलोचनं शुद्धकपोलभागं सुनासिकं हास्यमनोहरास्यम्॥ ३६॥
 
 सुचारुवदनं रम्यग्रीवं सिंहांसमद्भुतम्।
-
-
 
 पीनोरस्कं महाबाहुं सुकुमारं सुवाससम्॥३७॥
 
@@ -606,8 +558,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 43 b हृत्वा st. कृत्वा.
 
-
-
 प्रबुद्धा सा रवौव्योमनीलनीरङ्गिकान्तरात्।  
 सौवर्णाण्डोपमे कालकुहकेन निदर्शिते॥४८॥
 
@@ -640,8 +590,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 सखीभिस्सहिता क्रीडोद्यानमेवाविशत्ततः।  
 विचिन्वन्तीव तं तत्र हृदि मग्नंसुरोपमम्॥५८॥
-
-
 
 तदुद्यानं हिमाम्भोभिर्लतापत्त्रावलम्बितैः।  
 सहितं शुशुभे तावन्मौक्तिकैरिव सर्वतः॥५९॥
@@ -676,8 +624,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 अज्ञातवसतिं कान्तं स्वप्ने कस्माद्विलोकितम्।  
 अनुक्तनामधेयं तं कथमन्वेषयाम्यहम्॥६९॥
 
-
-
 एवं चिन्तातुरा बाला चित्रसंस्थेव तत्र सा।  
 ध्यायन्ती तं पतिं तावद्दिवसोऽस्तमुपाययौ॥७०॥
 
@@ -710,8 +656,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 अद्यापि मन्मनो नाथ त्वद्ध्यानोपरि संस्थितम्।  
 न निद्रायां रुचिर्नैव जायते जातु भोजने॥८०॥
-
-
 
 चिन्तादावाग्निशान्त्यर्थं कृपाम्भो यदि मुञ्चसि।  
 सुधामयाभ्रतुल्यस्य का क्षतिस्तव जायते॥८१॥
@@ -746,8 +690,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 तदा दृढतरस्यापि न कार्यं बुद्धिचर्मणः॥१॥
 
 प्रसिद्धिर्बाह्यतो लग्नः कुर्यादन्तर्व्यथां शरः।
-
-
 
 स हि चाभ्यन्तरालीनो बहिर्व्रणविधायकः॥२॥
 
@@ -785,8 +727,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 3 d.०रागेण०.
 
-
-
 स्वं स्वं बुद्धिबलंसम्यक्समाश्रित्य भयातुराः।  
 नानार्थं कुशलाः प्रोचुर्हार्दभावसमन्विताः॥१३॥
 
@@ -819,8 +759,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 एवं तास्सहितास्सर्वाभयाकुलितमानसाः।  
 कर्मणोऽन्तं नाधिजग्मुस्तत्त्वतो विस्मयान्विताः॥२३॥
-
-
 
 तस्मिन्सखीजनेऽलब्धपरमार्थे मृगीदृशः।  
 तावत्समागता धात्री कर्तुं तत्कर्मनिर्णयम्॥२४॥
@@ -855,8 +793,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 अनन्तरं मया सुभ्रु त्वदर्थं स्तनमर्पितम्।  
 यत्पीत्वा नयनानन्दकारिणीन्दुकलोपमा॥३४॥
 
-
-
 सर्वलक्षणसम्पूर्ण रूपातिशयशालिनी।  
 सुकुमारानवद्याङ्गो वर्धमाना दिने दिने॥३५॥
 
@@ -889,8 +825,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 मुखाम्भोजं कथं चारु म्लानवर्णंदिने दिने।  
 मुहुर्विनिर्गताश्श्वासा दावाग्निसदृशाः कथम्॥४५॥
-
-
 
 चिन्तानिशागमे भानुरूपास्तं त्वं कथं गता।  
 यौवनोषसि किं चन्द्रकलेव तनुतां गता॥४६॥
@@ -930,8 +864,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 .
 
-
-
 मनःकोशमिदं मोक्तुं दुर्लभा बुद्धिकुञ्चिका॥५६॥
 
 तथापि शृणु वक्ष्येऽहं कौतुकं यदि ते हृदि।  
@@ -967,8 +899,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
 63c चित्तस्थेवा०.
-
-
 
 दर्शयित्वाद्भुतं रूपं मायाविरचितं जने।  
 अपयातीव मायावी बलादाहृतमानसम्॥६७॥
@@ -1006,8 +936,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 67b मया०.
 
-
-
 तथा दृढतरं मातश्शिलारेखेव साम्प्रतम्॥७७॥
 
 न वायुर्वेगवन्नाम्भो यथा खण्डयितुं क्षमः।  
@@ -1041,8 +969,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 स्थिता मध्ये बभौ बाला कलेव शशलक्ष्मणः॥८७॥
 
 एवमेवावदत्तत्र विधिना सह केवला।
-
-
 
 अहो भाग्यरविर्नीता पाण्डुत्वं भवता कथम्॥८८॥
 
@@ -1078,8 +1004,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 त्वमेव गुणिमुक्तौघनायको येन कल्पितः।
 
-
-
 लावण्याम्बुधिसम्भूतस्सुधांशुरिव दर्शितः॥९९॥
 
 त्वच्छिखा साधु रचिता श्लक्ष्णवक्रत्वशालिनी।  
@@ -1113,8 +1037,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 पञ्चतत्त्वात्मकं सुभ्रुविद्धि मां विधिवंशजम्॥१०९॥
 
 करोषि यदि मत्प्रेमपरमद्यैव मानसम्।
-
-
 
 यदि वा तद्भवेत्सत्यं वचनं चारुलोचने॥११०॥
 
@@ -1152,8 +1074,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 116 b कथास्तताः.
 
-
-
 क्षणमाक्रन्दनपरा क्षणं प्रहसितानना।  
 क्षणं बुद्धिबलोपेता क्षणामुन्मत्तगामिनी॥१२१॥
 
@@ -1186,8 +1106,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 नोपागच्छति चैतन्यं त्वयोपायो विधीयताम्॥२॥
 
 श्रुत्वाद्भुतं तुतद्वाक्यमनन्यतनयो हि सन्।
-
-
 
 पुलकाङ्कितसर्वाङ्गः क्षणमासीद्विशां पतिः॥३॥
 
@@ -1225,8 +1143,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 9d नायसेनेति.
 
-
-
 महतानेन पाशेन बन्धनं किं विधीयते।  
 काठिन्यकरवालेन किं चित्तोच्छेदनं तथा॥१४॥
 
@@ -1259,8 +1175,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 एवं भूपालतनया स्नेहपूरितमानसा।  
 तद्ध्यानोपरता नित्यं पीडां नैवान्वमन्यत॥२४॥
-
-
 
 कदाचिद्विप्रयोगोत्थकरुणाक्रन्दनातुरा।  
 क्वचित्तच्चिन्तनोद्भूतपरमानन्दनिर्भरा॥२५॥
@@ -1295,8 +1209,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 दासीकर्म करोम्येव तव मां पश्य चक्षुषा।  
 युक्ता यदि न ते गेहे भवित्री गृहिणी त्वहम्॥३५॥
 
-
-
 मा भून्मत्सदृशी काचिद्दुः खिता लोकमण्डले।  
 तथैव निन्द्यासर्वत्र भ्रातृबन्धुषु सर्वदा॥३६॥
 
@@ -1329,8 +1241,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 अजेजमेस्रनामाहं तथैव वरवर्णिनि॥४५॥
 
 इत्युक्त्वान्तर्हितस्तत्र तावत्सापि नृपात्माजा।
-
-
 
 प्रबुद्धाहर्षसंयुक्ता प्राप्तजीवं यथा मृतः॥४६॥
 
@@ -1368,8 +1278,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 56 b om. क्वचित्.
 
-
-
 वाकोभकाभिधानस्य गृहेऽयं संभविष्यति।  
 जनयन्नयनानन्दं लोकानां लोकसम्पदा॥५७॥
 
@@ -1402,8 +1310,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 इति श्रुत्वाद्भुतंवाक्यं बद्ध्वाञ्जलिपुटं ततः।  
 उवाच हर्षसंयुक्तः प्रश्रयानतमस्तकः॥६७॥
-
-
 
 यद्रूपं जीवलोकेऽस्मिन्मया दत्तं तदन्तरात्।  
 तद्भागद्वयमेतस्मै लोकायैकं तवाग्रतः॥६८॥
@@ -1438,8 +1344,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 समायातो यदैवासी मायाम्बुधितरङ्गताम्।  
 खलेलोलाहकाख्योऽभूद्धर्मात्मा भूपतिस्तदा॥७८॥
 
-
-
 समारूढे दिवं तस्मिन्धर्मात्मनि महीपतौ।  
 एसहाकाभिधानोऽभूद्भूपस्तद्वंशजः पुनः॥७९॥
 
@@ -1472,8 +1376,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 अहोऽपण्डितमन्येन दुर्विदग्धेन वेधसा।  
 अपराधं विना तस्य कृता ह्युपकृतिः कथम्॥८९॥
-
-
 
 तज्जन्म तत्सुखं तद्वत्सा प्रीतिर्जनकेन च।  
 ऊनद्विवार्षिकस्यास्य जननी संस्थिता तदा॥९०॥
@@ -1508,8 +1410,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 एकदागत्य भूपालो भगिनीं बहु मानयन्।  
 अङ्केकृत्वा सुतं सान्त्वपूर्वमूचे वचस्ततः॥१००॥
 
-
-
 योसोभविप्रयोगार्तिविधुरं मां सुखान्वितम्।  
 कर्तुं क्षमा त्वमेवैका नोपायो दृश्यतेऽपरः॥१०१॥
 
@@ -1543,8 +1443,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 श्रुत्वा प्रत्यागतस्सोऽपि तनयेन सहापरे।  
 एकत्र मिलिता भीत्या शङ्कमानाः परम्परम्॥१११॥
 
-
-
 पृथक्पृथग्विधायैवं शपथं व्याकुलाशयाः।  
 स्वयं तथाकरोत्पश्चात्तद्वस्त्रान्वेषणं तदा॥११२॥
 
@@ -1576,8 +1474,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 पुनर्जातमिवात्मानं मन्यमानोऽन्वमोदत॥१२१॥
 
 यद्दुर्लभतरं लोके वस्तु प्रीतिकरं सदा।
-
-
 
 तत्तेन सहसा प्राप्तं सर्वंतद्दर्शनाद्भुवि।  
 यत्किंचित्सुखदं कर्म लोकेऽस्मिन्प्रथितं भवेत्॥१२२॥
@@ -1613,8 +1509,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 \_\_\_\_\_\_\_\_\_\_\_  
 
 122 cततेन. 123 b रूपेणनाप्रति०.
-
-
 
 सुप्तोन्मत्तेव सा बाला यदि तेन हृताशया।  
 तदाभाषणमाश्चर्यं श्रुत्वास्मृतियुतोत्थिता॥३॥
@@ -1652,8 +1546,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 12c भूपाल.
 
-
-
 दत्त्वा पादतले पादपीठं सौवर्णमुत्तमम्॥१३॥
 
 यदैश्वर्यमभूत्पूर्वं पुनस्तत्सर्वमर्पितम्।  
@@ -1689,8 +1581,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 \_\_\_\_\_\_\_\_\_\_\_\_\_  
 
 22 c येतन्नाम. 23 c नैवान्यकु०.
-
-
 
 तद्ध्यानं मानसे वाचि कीर्तनं श्रवणं श्रुतौ।  
 तदीक्षणं च सर्वत्र तन्मयीवाभवत्तदा॥२४॥
@@ -1728,8 +1618,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 33c समनुप्राप्ने. 33d भूपैश्वर्ये.
 
-
-
 यद्दृष्ट्वा स हि तां मह्यं मह्यमेव प्रदास्यति॥३४॥
 
 यत्र कुत्रापि सा बाला वदनं वर्तयिष्यति।  
@@ -1763,8 +1651,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 मन्ये मृगमदं नूनं मुञ्चन्नेव प्रयात्ययम्॥४४॥
 
 एवं चिन्ताकुल्ला यावद्भूपालतनया भवेत्।
-
-
 
 जनकेन समाहूता तावत्सा चारुलोचना॥४५॥
 
@@ -1800,8 +1686,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 बाष्पमुक्तावलिं पक्ष्मवज्ररत्नेन सा पुनः।
 
-
-
 भिन्दन्स्वमेवभात्मानमनिन्दन्नृपकन्यका॥५६॥
 
 परं मे मरणं श्रेष्ठं तथा धिग्जन्म साम्प्रतम्।  
@@ -1836,8 +1720,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 एवमाक्रन्दनेनैव सकलं दिवसं तदा।
 
-
-
 कृतेन कलिकैवाभूद्रक्तपूर्णा तनुस्तथा॥६७॥
 
 असिञ्चद्धरणीं बाष्पधाराभिस्तत्र भामिनी।  
@@ -1870,8 +1752,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 कोऽप्यस्ति तादृशो लोके गत्वामेस्रमितस्तु यः।  
 भवेत्प्रीतिकरो बुद्ध्या जोलेखाजेजमेस्रयोः॥४॥
-
-
 
 गृहीत्वा मम सन्देशं याति प्रत्यानयिष्यति।  
 तथैवाजेजमेस्रेण मैत्रीं संजनयिष्यति॥५॥
@@ -1909,8 +1789,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 8aभूमिस्ता°. 14b °न्विता.
 
-
-
 न करोत्यपरं कर्म विना पाञ्चालिदेवनम्॥१५॥
 
 यस्यास्सौगन्ध्यसाम्यार्थं सुमनांसि जितान्यपि।  
@@ -1947,8 +1825,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 18b. वेश°. 23b राजासुता नृपः.
 
-
-
 सत्यं तदम्भसा किं वा तद्भुवा रचिताबला।  
 धात्रा जीवनमस्यैवं लिखित्वात्र समर्पितम्॥२६॥
 
@@ -1982,8 +1858,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 पराधीनोऽस्मि सेवायां रुद्धोऽहं स्वामिना तथा।  
 यथा न क्षणमेवैकं गन्तुं कुत्रापि शक्तिमान्॥३६॥
 
-
-
 क्षणमेकं यदि मया स्थीयते स्वेच्छया क्वचित्।  
 न जाने कियदेवायं मन्यतेऽपकृतिं मम॥३७॥
 
@@ -2016,8 +1890,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 यद्यायाति सभामध्ये रत्नान्युन्मालिकापरः।  
 ददात्यगणितान्येवमर्थिभ्यस्तिकता यथा॥४७॥
-
-
 
 सेवकेभ्यस्तथा भूपो वस्त्राण्याभरणानि च।  
 असंख्यानि यथा वृक्षः पत्त्राणि प्रददात्ययम्॥४८॥
@@ -2053,8 +1925,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 57b °युक्तो.
-
-
 
 सहस्रमेकं क्रीडार्थं पाञ्चालीनां महीपतिः॥५८॥
 
@@ -2092,8 +1962,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 65 bविमानोपरम°. 65 d संवादयत.
 
-
-
 निधाय तत्र तां बालां पाञ्चालीभिस्सहोत्तमाम्।  
 सदा तत्केलिनिरतां नवयौवनशालिनीम्॥६९॥
 
@@ -2129,8 +1997,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
 72cविनिर्गता तारा°. 73 a काचिद्दाशेरका°.
-
-
 
 न ददर्श सुहृत्प्राप्तिव्युष्टं यस्यां सुलोचना॥७९॥
 
@@ -2168,8 +2034,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 86 b जेजमेश्रकेः.
 
-
-
 सर्वालङ्कारसंयुक्ता अप्सरस्सदृशा भुवि।  
 तदैव निर्गतास्सर्वा नर्तक्यो नृत्ततत्पराः॥९०॥
 
@@ -2202,8 +2066,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 गृहीत्वा प्रणतिं तेभ्यो दत्त्वा तद्वत्सदाशिषः।  
 कुन्ददन्तद्युतिर्भूपस्तत्राभूद्धसिताननः॥१००॥
-
-
 
 पप्रच्छानामयंस्तेषां हर्षेणोत्फुल्ललोचनः।  
 कच्चिन्मार्गोद्भवं कष्टं नाप्तं दूरागतैःपरम्॥१०१॥
@@ -2238,8 +2100,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
  101 a प्रप्रच्छानामयं. 101 d नाप्तैर्द्व^(०).103 b तद्वद्दस्त्रानीतं. 104 a जेजमिस्र^(०). 105 b ^(०)मुदिताशयः. 105 c प्रातः मनः,
-
-
 
 गन्तुं स्वनगरं सर्वान्समादायैव सत्वरम्॥४॥
 
@@ -2277,8 +2137,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  5 cधात्री. 12 aसे. 14 c स्मृतिः.
 
-
-
 हा कष्टं धिगिंद भाग्यं सदा सुखविवर्जितम्।  
 तथैव मामकं जन्म निन्दितं चिन्तयान्वितम्॥१५॥
 
@@ -2315,8 +2173,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  16 a om. हि. 19c तदाप्तां.
 
-
-
 स्मारं स्मारं तदेवाद्यकालोरगनिभं मुहः॥२५॥
 
 सत्यं चिन्तान्विता लोके नास्त्यन्या कापि मां विना।  
@@ -2350,8 +2206,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 कान्तमस्मात्स ते भर्ताप्रसिद्धिमुपास्यति॥३५॥
 
 मा भूदजेजसङ्गोत्थभयं ते चारुलोचने।
-
-
 
 अतोऽप्यक्षतशीलैव भविष्यसि वराङ्गने॥३६॥
 
@@ -2389,8 +2243,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 3 b ^(०)श्येनायते. 3 c तमो हभूप^(०). 5 a विहाया^(०).
 
-
-
 तैरेव सहितोऽजेजमेस्रोऽसौ प्राविशत्सभाम्॥५॥
 
 शुशुभे स सभामध्ये वज्रपाणिरिवापरः।  
@@ -2427,8 +2279,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  7c ^(०)धिगम्यैवं^(०). 8b सेवकैः.
 
-
-
 न जाने विहितं किं ते कार्यं प्रत्यपकारतः।  
 येन शोकाम्बुधो मग्नांनिमज्जयसि मां मुहुः॥१६॥
 
@@ -2461,8 +2311,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 संप्राप्य दर्शनं तस्या हर्षितोऽभून्नरोत्तमः।  
 चकारारात्रिकं रत्नैः संख्याविरहितैस्तदा॥२६॥
-
-
 
 विधाय स्वर्णपात्रेषु मणिमुक्तादिकं परम्।  
 तथैव सेवकास्तस्याश्चक्रुर्नीराजनं ततः॥२७॥
@@ -2500,8 +2348,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  30 d सकताभि^(०).
 
-
-
 शिरांसि यत्र शूराणां पतितानि सहस्रशः॥३७॥
 
 यदि चक्षुर्भवेत्पूर्णं बाष्पेणाहतदर्शनम्।  
@@ -2536,8 +2382,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 सखीभिस्सह सा तत्र मिथ्यैवालापतत्परा।
 
-
-
 किं तु कान्तगुणाख्यानरसासक्तमनोरथा॥४८॥
 
 तन्मध्येऽपि हसन्त्येवं मुधा परमया मुदा।  
@@ -2571,8 +2415,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 साधितं मे विधायैव देशनामनिरूपणम्॥५८॥
 
 श्रुत्वैतज्जाविताशा मे जीवितेशाभवत्तदा।
-
-
 
 प्राप्यते नियतं कान्तः कृतोऽपि हृदि निश्चयः॥५९॥
 
@@ -2610,8 +2452,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  63 d ^(०)गति.  65 b धार्यर्यते.
 
-
-
 बहुशोऽथ ददौ तस्मै सन्देशं पार्थिवात्मजा।  
 अन्वेषणार्थमेवास्य दयितस्य मुदान्विता॥७०॥
 
@@ -2644,8 +2484,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 गृहे नैवाभवत्स्थातुं तच्चित्तं चिन्तयान्वितम्।  
 सहसा सह सा ताभिर्निर्गता स्वगृहाद्बहिः॥८०॥
-
-
 
 क्षणमाक्रन्दनपरा क्षणमानन्दनिर्भरा।  
 क्षणमुन्मत्तवद्बाला क्षणं चैतन्यसंयुता॥८१॥
@@ -2682,8 +2520,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  1 a om. तु.
 
-
-
 दिने दिने वर्धमानो रूपेणाप्रतिमो भुवि।  
 सत्यवाग्विजितक्रोधो दयावाञ्जनवल्लभः॥२॥
 
@@ -2716,8 +2552,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 तद्योग्यं नाभवत्तस्य प्रशस्तमपि तत्तदा।  
 जातेऽप्यस्मिन्नवा वल्ली प्रादुर्भूतास्य शाखिनः॥१२॥
-
-
 
 समागत्यैकदा रात्रौ योसोभाख्योऽतिसुन्दरः।  
 जनकस्यान्तिके वाक्यं प्रोवाच मधुरं शनैः॥१३॥
@@ -2755,8 +2589,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  21 d om. सद्मनः.
 
-
-
 तदैव वैरिणां पृष्ठं निष्पिपेष महाबलः॥२३॥
 
 तद्दृष्ट्वा दुर्लभं सर्वे भ्रातरो बद्धमत्सराः।  
@@ -2790,8 +2622,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 बद्धाञ्जलिपुटास्तात दृष्टा मत्प्रणतौ मया॥३३॥
 
 श्रुत्वावोचत्पिता तूष्णीं भव बालक मा पुनः।
-
-
 
 कथय स्वान्तिकं स्वप्नं कस्यापि वचनान्मम॥३४॥
 
@@ -2827,8 +2657,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 तत्स्नेहेन जराजीर्णशरीरो वपुषोव्ययम्।
 
-
-
 कथमस्मद्भुजस्तस्तम्भस्तम्भितोऽपि न वेत्त्ययम्॥४५॥
 
 अथवा जीवलोकेऽस्मिन्वासना पूर्वकर्मजा।  
@@ -2863,8 +2691,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 तेषामेकोऽवदद्वाक्यंकठिनं पापसंयुतम्।
 
-
-
 जाने श्रेयस्करं नैतद्वधकार्यं विनापरम्॥५६॥
 
 गुप्तं भूमौ निधायामुमितो नीवा वनान्तरम्।  
@@ -2898,8 +2724,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 भवतां मलिनं मा भूच्छस्त्रं परमनिर्मलम्॥६६॥
 
 समाकर्ण्याथतद्वाक्यं परं बुद्धिबलोर्जितः।
-
-
 
 अपरोऽप्यवदत्तेषां प्राप्तकालमिदं वचः॥६७॥
 
@@ -2937,8 +2761,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  69 d ^(०)मन्ये.
 
-
-
 दुर्ल॒भा मनुजास्सर्वं स्वप्नमायोपमं जगत्।  
 मन्यमानास्सदा योगनिपुणाः शेरते सुखम्॥७८॥
 
@@ -2975,8 +2797,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  81 c उपाजग्म^(०).
 
-
-
 शीघ्रमेवागमिष्यामः कुरुष्वाज्ञां नरोत्तम॥८८॥
 
 इति तेषां वचः श्रुत्वा प्रत्युवाच नराधिपः।  
@@ -3010,8 +2830,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 धिग्देवं कृपणं कर्तुं द्वयं यो नैव शक्तिमान्।  
 दुःखितं सुखसंयुक्तं सुखितं च सदा सुखम्॥१॥
 
-
-
 वैदग्ध्यं किं विधेः कूपे प्रक्षिप्यैवातिसुन्दरम्।  
 योसोभाख्यं सुखेनास्य भ्रातरो येन योजिताः॥२॥
 
@@ -3044,8 +2862,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 मत्तस्नेहार्द्रहृदयः परं ते कठिनाशयाः।  
 प्रश्रयावनतो बालस्ते हि वैरपरायणाः॥१२॥
-
-
 
 क्वाद्य ते स पिता येन त्वत्स्नेहान्धधिया परम्।  
 त्वामेवैकं समाश्रित्य वयं विस्मारितास्सदा॥१३॥
@@ -3083,8 +2899,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  20 b om. दाता.
 
-
-
 सदा गुल्मलताकीर्णं प्रसर्पत्सर्पसंकुलम्॥२३॥
 
 ततो दृढतरं बद्ध्वाबन्धनैस्तं नृपात्मजम्।  
@@ -3119,8 +2933,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 यथेदं सुमहद्दुःखं त्वयाप्तं दुष्टयोगतः।
 
-
-
 तथाल्पैरेव दिवसैःसुखं प्राप्स्यसि शाश्वतम्॥३४॥
 
 धीरो भव महाबुद्धेदैन्यं मा नय मानसम्।  
@@ -3154,8 +2966,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 वनं चर्मपुटंक्षिप्त्वा समुद्धरति कूपतः॥४४॥
 
 तदन्तरे त्वया स्थेयं तूर्णं त्वद्भारसंयुतम्।
-
-
 
 ततोऽसौ ते समुद्धर्ताज्ञात्वा पूर्णं जलेन तत्॥४५॥
 
@@ -3193,8 +3003,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  47 cसार्थनासौ.
 
-
-
 दृष्ट्वातिविपुलं सार्थं तं च कूपात्समुद्धृतम्।  
 स्तुवन्तो विधिवैचित्र्यं तत्रासंस्ते सुविस्मिताः॥५६॥
 
@@ -3227,8 +3035,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 ततः कतिपयाहोभिः प्राप्तस्तु नगरान्तिकम्।  
 श्रिया परमया युक्तः प्रथितस्सार्थनायकः॥६६॥
-
-
 
 तदुदन्तं समाकर्ण्य मन्त्री मेस्रमहीभुजा।  
 सभाजनाय प्रहितस्तत्समीपमुपागतः॥६७॥
@@ -3266,8 +3072,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  69 a पप्रच्छानामयं.
 
-
-
 अचला सकता मूल्यं स्वल्पं भूपाल मन्यते॥७७॥
 
 इति श्रुत्वाद्भुतंसम्यक्तस्य रूपनिरूपणम्।  
@@ -3302,8 +3106,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 सोऽपि तं तेन हर्षेण तस्मै नीत्वान्तिकं पुनः।
 
-
-
 तस्मादाकृष्य तस्यैवं तस्मिंल्लोके शुभं वपुः॥८८॥
 
 दर्शयामास मेधावी स्वार्थसाधनतत्परः।  
@@ -3336,8 +3138,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 तद्वियोगेन सा बाला त्यक्तवस्त्रामनोरमा।  
 नित्यमुन्मत्तरूपासीद्भ्रमतीव वनाद्वनम्॥३॥
-
-
 
 एकदागत्य भूपालतनया नगरान्तिकम्।  
 यावत्प्रविष्टा शुश्राव महत्कोलाहलं नृणाम्॥४॥
@@ -3372,8 +3172,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 क्षणमेकं विमृश्यैवमत्यजच्छ्वाससन्ततिम्।  
 नवोद्भूतवियोगेव निस्संज्ञा सापतद्भुवि॥१४॥
 
-
-
 तावत्सार्थपतिर्भृत्यं निनाय निजमन्दिरम्।  
 दर्शयित्वैव तद्रूपाहृतचित्तं पुरौकसाम्॥१५॥
 
@@ -3407,8 +3205,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 अवैहि परमं लाभं वाञ्छितं सर्वथाधुना।  
 यदि सर्वगुणोपेतः प्राप्यतेऽयंसुरूपवान्॥२५॥
 
-
-
 नैतज्जाने कथं कार्यं मम सिद्धिमुपेष्यति।  
 लभ्यते वा कथं नाथो यातोऽसौ दृष्टिगोचरम्॥२६॥
 
@@ -3441,8 +3237,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 अनयैवाखिलं कार्यं सत्वरं साधयिष्यति॥३५॥
 
 इति तद्वचनं श्रुत्वा राजपुत्री मुदान्विता।
-
-
 
 मन्यमानाविशद्गेहं दयितं हस्तसंश्रयम्॥३६॥
 
@@ -3478,8 +3272,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 न ह्येतत्सदृशः कश्चित्सकले लोकमण्डले।
 
-
-
 समभूद्भविता रूपसम्पदा सुमनोहरः॥४७॥
 
 श्रुत्वा दुन्दुभिनादं तं सदा मानधनोर्जिताः।  
@@ -3513,8 +3305,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 हर्षेणाजिजमेस्रं तं समाहूयाब्रवीद्वचः॥५७॥
 
 गत्वा शीघ्रं महीभर्तुस्समीपं विनयान्वितः।
-
-
 
 दत्त्वाजानुद्वयं भूमौ विज्ञप्तिं कुरु सत्वरम्॥५८॥
 
@@ -3552,8 +3342,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  59 a निष्प्रजे.  63 aदोयता.
 
-
-
 आशा मन्मानसेनैवमासीद्विरहयामिनी।  
 प्राप्नोति दीर्घतां याता प्रियमित्रोदयं क्वचित्॥६९॥
 
@@ -3586,8 +3374,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 धिक्तांल्लोभान्धधिषनान्निन्द्याञ्जगति मानवान्।  
 धनमेव प्रियं येषां न सुहृत्प्रीतिभाजनम्॥७९॥
-
-
 
 एवं विस्मयमापन्ना हर्षोत्फुल्लविलोचना।  
 अमन्यत परं सौख्यं तदा सा नृपकन्यका॥८०॥
@@ -3624,8 +3410,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  82 b परा.  84 d ^(०)विधये.
 
-
-
 तन्वी पूर्णेन्दुनयना नवयौवनशालिनी।  
 मुक्तानुकारदशना पक्वबिम्बाधरा तथा॥५॥
 
@@ -3658,8 +3442,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 नराणामथ नारीणां तदागमनकारणात्।  
 सर्वत्र नगरे जातः पुनः कोलाहलो महान्॥१५॥
-
-
 
 पप्रच्छागत्य तद्वार्त्तांलोकौघं वरवर्णिनी।  
 क्रीयते स वणिग्दासः कुतोऽयमिति कथ्यताम्॥१६॥
@@ -3697,8 +3479,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  25 b विधाता
 
-
-
 अये कस्यापि सद्वंशसमुत्पन्नः श्रियान्वितः।  
 सुवृत्तस्सुगुणानन्दो मुक्तामणिरिवोत्तमः॥२७॥
 
@@ -3734,8 +3514,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
  29 aनास्मिन्देवो. 31 d विश्वरूपिणा.
-
-
 
 तत्क्षणात्तत्पदाम्भोजं प्रणनाम मुहुर्मुहुः॥३७॥
 
@@ -3773,8 +3551,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  40 a ^(०)पाराक^(०). 43 aमानसाद्य.
 
-
-
 अधिगम्यैव तं कान्तं परप्रेमनिधिं तदा।  
 रमणी साथ संसारचिन्ताविरहिताभवत्॥४८॥
 
@@ -3808,8 +3584,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 एकदानीय तं बुद्ध्या निशान्तं लोकसुन्दरम्।  
 अपृच्छज्जन्मवृत्तान्तं सा तदाभाषणोत्सुका॥५८॥
 
-
-
 स तु तां प्रत्युवाचेदं वचः प्रहसिताननः।  
 जन्मवृत्तिं न तां नूनं पितरौ नैव वेद्म्यहम्॥५९॥
 
@@ -3842,8 +3616,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 तत्कथं वक्ष्यते मातर्मयाप्तं दुःखमुत्तमम्।  
 धन्या धारयितुं भूमिर्मामेकाहमथापि तत्॥६९॥
-
-
 
 धूलिवत्पतिता भूमौ चिरमासमसंशयम्।  
 अकस्मात्साम्प्रतं चिन्ताचक्रवातेन घूर्णिता॥७०॥
@@ -3881,8 +3653,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
   76 b यथातुरः.
 
-
-
 चिन्तां तद्वचनाद्बाला जातहर्षाभवत्तदा॥८०॥
 
 तद्रागेणाभवद्भूपसुतानन्दयुता क्वचित्।  
@@ -3915,8 +3685,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 **पश्याम्येनं यथा नित्यं ममैव निकटस्थितः।  
 यथायमधुना वृद्धिस्तादृशी का विधीयताम्॥८॥**
-
-
 
 बहुशोऽथ विमृश्यैवं भूपालतनया शुभम्।  
 ज्ञात्वा तदेव बुद्ध्या तं पशुपालं व्यधात्तदा॥९॥
@@ -3954,8 +3722,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  16 b बलो.
 
-
-
 यावत्तावन्महाबुद्धिः सोऽपि मौनं समाश्रितः॥१९॥
 
 यावदुक्तो नितम्बिन्या त्वयाग्रेस्थीयतामिति।  
@@ -3990,8 +3756,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
  24 b जहा. 27 a तुवाद्य,
-
-
 
 दुर्लभो हि नृलोकेऽस्मिन्नरो नरशिरोमणिः।  
 गूढदुःखातुरं सम्यग्वेत्ति यः परमानसम्॥३०॥
@@ -4029,8 +3793,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  31 d यत्र जातं भग्नोद्य मंमनः. 37 c चाहं. 38 c वामाक्षि^(०).
 
-
-
 स हि रामो गुणारामः सरामोधर्मतत्परः॥४०॥
 
 क्वाहं वराका कृर्पणा निन्द्याजगति नित्यशः।  
@@ -4065,8 +3827,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  
  42 cपूर्वमाहूयते. 48 c ^(०)श्यिच्छदु^(०). 49 d लक्ष्यते.
-
-
 
 दर्शं दर्शं यथा नित्यं साभवत्प्रेमविह्वला।  
 क्षणमेकं विलोक्यैनं तथैवैतास्सुलोचनाः॥५१॥
@@ -4104,8 +3864,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  55 a यथैकं.
 
-
-
 प्रविष्टं मन्दिरे तस्मिंस्तमेवानुविवेश सा॥६१॥
 
 चित्रं दृष्ट्वाद्भुतं तेन स यावद्व्रीडितोऽभवत्।  
@@ -4141,8 +3899,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
  64 b ^(०)तत्परः. 66 a त्वयि तद्विरहा^(०).
-
-
 
 सोऽपि तद्धृदयं ज्ञात्वा निकामं कामपीडितम्।  
 तामनादृत्य वेगेन विनिर्यातो बहिस्ततः॥७२॥
@@ -4180,8 +3936,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  74 aबालेना^(०). 75 b om. सा; नराधिनम्.
 
-
-
 क्रोधरक्तेक्षणा मुञ्चत्कदुष्णोच्छ्वाससन्ततिम्॥८२॥
 
 त्वदीयेनव्यलीकेन न दूये पार्थिवोत्तम।  
@@ -4216,8 +3970,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 आस्तामासवशालीयस्तत्रैव च पुरोगवः।
 
-
-
 उभौ बन्दीकृतौ राज्ञा पूर्वं क्रोधान्धचेतसा॥९३॥
 
 एकोऽपश्यत्तयोस्स्वप्ने स्वमात्मानं नृपान्तिके।  
@@ -4251,8 +4003,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 किमेतदिति पप्रच्छ तमूचुस्ते न किंचन॥१०३॥
 
 अब्रवीत्सोऽथ भगवच्छालोयस्तत्र भूपतिम्।
-
-
 
 दत्त्वा जानुदयं भूमौ प्राञ्जलिर्नतकन्धरः॥१०४॥
 
@@ -4290,8 +4040,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  107 b समानीयाशुभं .
 
-
-
 अधिगम्याथ सद्भाग्यैराज्यं राजपराक्रमः।  
 विधिवत्पालयामास प्रजा धर्मेण धर्मवित्॥११५॥
 
@@ -4326,8 +4074,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
  117 a^(०)भात्येव.
-
-
 
 अथ वृत्तं पुरा वृत्तं श्रुत्वा सर्वं महीपतिः।  
 वस्त्रमेकं स्वकं दत्त्वा जनकार्थंमहामनाः॥६॥
@@ -4365,8 +4111,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  11 c^(०)त्मानमन्यत.
 
-
-
 स्तुवन्तो विधिवैचित्र्यं बभूवुर्हृष्टमानसाः॥१६॥
 
 अथ याकोभनामासौ स्मयाविद्धःसहात्मजैः।  
@@ -4400,8 +4144,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 एकाहं दुःखिता चेत्स्यामयशः कस्य साम्प्रतम्॥२६॥
 
 तद्यशोरक्ष भूपाल लोकद्वयहितावहम्।
-
-
 
 दीनानाथपरित्राणं धर्म एव महीक्षिताम्॥२७॥
 
@@ -4437,8 +4179,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 बालोऽहं भवती वृद्धा न चेदेवं वराङ्गने।
 
-
-
 अधुनैव गृहीतुं त्वां परमोत्कण्ठितं मनः॥३८॥
 
 यद्येवं यौवनं याचे शम्भुं भूपाल तेऽग्रतः।  
@@ -4472,8 +4212,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 यौवनं प्रार्थयामास विषयासक्तधीः पुनः॥४८॥
 
 दत्तं ते यौवनं सुभ्रु शम्भुनानाथबन्धुना।
-
-
 
 रमणेनामुना सार्धं यथेष्टं सुखिता भव॥४९॥
 
@@ -4511,8 +4249,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
  52 a सुखं^(०).
 
-
-
 नित्यनूतनप्रेमार्द्रहृदयौ दम्पती भृशम्।  
 चक्रतुर्विविधाः क्रीडा नानोपवनभूमिषु॥६०॥
 
@@ -4545,8 +4281,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 ननु तत्स्मरणे जन्म सफलं साधुषु स्मृतम्॥६॥
 
 यन्नामस्मरणादेव क्षीयते कर्मवासना।
-
-
 
 वित्तमेवंविधं हित्वा कस्ते शरणदोऽपरः॥७॥
 
@@ -4582,8 +4316,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 मानुषं दुर्लभं प्राप्य सर्वाशापूरकोद्धुरम्।
 
-
-
 धन्या भजन्ति दुःखौघहरं शराणदं हरम्॥१८॥
 
 समले मानसेऽस्माकं वाणी चन्द्रकरोज्ज्वला।  
@@ -4618,8 +4350,6 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 पदं नात्र करोषीश हृदि पापरतस्य मे।
 
-
-
 वद पूर्णकृपाम्भोधेः कतमा स्याद्गतिः पुनः॥२९॥
 
 त्वत्परः को जगन्नाथ कर्णधारो भवाम्बुधौ।  
@@ -4652,15 +4382,11 @@ den ausschlaggebenden Beweis für die Identität der Verfasser derselben.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 I.
 
  Ich preise jenen von dem erhabenen Götterfürsten selbst gepriesenen hohen Glanz des Śambhu, den lauteren, bei dessen Anblick die obersten Yōgins in ihrer Verzückung alle Herrschermacht der Welt voller Wonne im Herzen trockenem Grase gleich achten, und dessen Segnung stets erlangt wird, wenn man auch nur einen einzigen Augenblick daran gedenkt. Nachdem ich mich vor Gaṇēśa, dem Beseitiger der Fluth der Hindernisse und vor jener Bhāratī, deren Gestalt in allen drei Welten erglänzt, verneigt habe, wird von mir die Erzählung hier, die sich in dem Buche des Persers findet, in frischer Sprache bearbeitet. In derselben Reihenfolge nämlich, in der MallāJyāma den Stoff seiner Geschichte geschildert hat, wird er jetzt von mir in Śloken beschrieben.
 
  Erwecke, Herr, die Knospe Hoffnung durch den Frühling Gnade; Du wollest mir die daraus entstehende, ersehnte köstliche Frucht geben! Lass damit heute den Garten meines Geistes geschmückt sein; mit ihrem lauteren Wohlgeruche erfülle meinen Leib! Herrscher der Götter, zeige mir, der ich in der Blindheit der Unwissenheit befangen bin, das Licht in der werthlosen, von hundert Kümmernissen erfüllten Welt! Mein Herz gehe stets ganz darin auf, dir, Śambhu, eifrig zu dienen; diese meine Zunge sei beständig damit beschäftigt, die Fülle deiner Vorzüge zu nennen. Beschenke mich mit der wunderbaren Gabè der Wohlredenheit des Briefes Geistesschärfe, wodurch mir heilbringendes Gelingen meiner Unternehmungen zu theil werden wird. Meine Redeweise, die aus dem Schatzhause des Herzens Wortperlen auf der Waage deiner Anbetung abwägt, sei begleitet von goldenem Sinne. Es giebt ja keinen Halt in der Welt ausser dem Worte, wenn es, gepriesen von den Trefflichen, erglänzt in der Vereinigung mit der Hingabe an Śambhu. (10) Gegangen sind ja jene Dichterfürsten, die den heiligen Nektar der Lehrbücher getrunken und in den drei Welten wohlgefestigten, grossen Ruhm hinterlassen haben. Keiner von diesen Dichtern ist übrig geblieben, der im Stande wäre, die heute lebenden, selbst an Dichtergeist sehr
-
-
 
 schwachen, zu unterrichten. Darum komm du heute, der du der Welt Heil und Unheil kennst und gewähre mir die Gabe der Dichtkunst, so wahr du die Kraft dazu hast. Jedoch die höchste Schilderung der Andacht, die unvergleichliche, die von [jenem](http://Von%20dem%20Dichter%20des%20Originales. "Von dem Dichter des Originales.")) am Anfange im Gebete gegeben wird, die wird von mir am Ende gegeben. Ueberall gilt ja diese Reihenfolge: nachdem die alten Dichter eine von dem Affecte der Liebe getragene Geschichte erzählt haben, wird am Schlusse der Verklärte gefeiert.—
 
@@ -4668,13 +4394,9 @@ schwachen, zu unterrichten. Darum komm du heute, der du der Welt Heil und Unheil
 
  Heil dem Schah Mahāmada, der stolz darauf ist, seine Vorrechte auf gesetzlichem Wege erlangt zu haben; dem erlauchten Herrscher von Kaśmīr mit den Augen wie aufgeblühte Lotusse. (20) Das von dem Schöpfer erschaffene All hier, Festes und Bewegliches, das mannigfach Gestaltete, Welt Genannte, wie ein Menschenleib Wunderbare, ist jetzt durch jenen Fürsten Mahāmada, die Krone aller Erdherrscher, wahrhaft geschmückt, so wie der Leib durch das Auge. Welcher Fürst unter den Dichtern wäre denn fähig, die Majestät dieses Männerfürsten zu nennen, dessen leuchtender Ruhm die Erde hier erfüllt, mit Gewalt das Dach des Himmels durchbrochen und den göttlichen Aether erklommen hat, der dadurch überall durchlöchert worden ist, wodurch die irrige Meinung entstand, es seien Sterne? Während er die Erde beherrscht, nehmen die Unterthanen zumeist ihre Zuflucht bei dem Rechte, begegnen durch treffliche Thaten ihrer Schädigung und sind den Göttern ähnlich (25). Selbst der Herr des Tages verliert seinen Glanz, wenn er nach dem Süden kommt: jenes Ruhm aber schwand nicht, sondern wuchs noch, nachdem er diesen be—
 
-
-
 siegt hatte. Im Kampfe mit den Schaaren der Feinde erscheint er wie Bhīma und Arjuna, er, der in seiner Freigebigkeit durch die Menge der Bedürftigen an Tugend stets über Karṇa steht. Ebenso wird er von den Frauen in der Liebe für Kandarpa gehalten, von den Ministern bei der Berathung immerfort für vorzüglicher als der Lehrer [Kāvya](http://=%20Uçanas. "= Uçanas.") 2). Die Sonne selbst gab ihm aus Liebe die Hälfte ihres Glanzes und ist nun, die Vollleuchtende, durch ihn Tag und Nacht verdunkelt. Durch ihn, den Tugendeifrigen, der die Identität der früheren Dinge erkannt hat, sind, um der Liebe zu Indra willen, die Kühe vor der Tödtung bewahrt worden. Dieser an allen möglichen Tugenden Indra überlegene Oberherr, der seinen Zorn zügelt, wird mit Namen Śacīpati, gleichsam Śatamanyu, genannt. Er, der die Feinde im Kampfe besiegte und die Fehden beendigte, der Wächter seiner Stadt, der den Zorn fesselte, der ward durch die Verwüstung der Länder zum Purandara. Der den Wald Feindesschaar, den weitausgebreiteten, verbrannt und durch die Berührung mit dessen Rauch selbst zu starkem Wachsthum gelangt, während die Bedeutung des Wortes Himmel verloren geht und die Sonne, selbst wenn sie in seiner Mitte steht, jetzt nur noch wie ein Funke erscheint— welcher Dichterfürst wäre wohl im Stande, das Feuer seiner Glut zu besingen? Gleichsam eine Bienenkette für den Handlotus, an den Nägellotussen von gelblicher Farbe; wie ein strömender Guss Brunstsaft, der aus den Schläfen eines brünstigen Elephanten kommt; eine Ranke von junger Blyxa octandra, gewachsen in dem Teiche Kraft; ähnlich der Rauchwolke von dem Feuer brennender Glutmacht: so glänzt in seiner Hand die Schwertklinge, an Gestalt gleich dem Haarschopfe der Frauen der Feinde, an Pracht ähnlich einer fliegenden wasserreichen Wolke.
 
  Als die Regierung dieses Erdherrschers auf Erden blühte, in dem Jahre der Sonne Vikrama, das man zählt nach Muni, zwei, Veda, Mond (= 1427); als es ein Gemeinjahr war und acht Monde vollgeworden waren; im Monat Mādhava, am Vollmondstage, als die Sonne in das Zeichen des Widders getreten war: hat Malla Jyāma einst das wundersame, aus dem Munde der Götter stammende Buch geschrieben, welches unter dem Namen
-
-
 
 „Yōsōbha und Jōlēkhā" berühmt ist. Hier habe ich, der Pandit Srīvara, zur Ergötzung des Fürsten in der Sprache der Götterwelt jetzt folgenden herzerfreuenden Anfang gedichtet, nachdem ich meinem Lehrer Namens Pandit Jōnaka Ehrerbietung dargebracht habe. (40) Ein Wonnebringer für die Gelehrten, wie es die Lotusse trefflicher Lehrbücher für den Mānasa-See Geist sind; ein Lichtspender für die von der dichten Finsterniss Schein und Nichtwissen verhüllten Köpfe, seinem Worte getreu, seinen Zorn besiegend, der Führer des Kreises der Brahmanen, dem Heiligen zugethan, von trefflichem Wandel, stets von dem Herrscher verehrt; gesetzt, voll unzähliger Tugenden, ein Ergründer des Sinnes aller heiligen und profanen Ueberlieferung, Gefallen findend an der abendlichen Waschung, geehrt von den Schaaren der SchülerCakōra's; in der Versammlung wie der Lehrer (der Götter) erscheinend, mit einer Menge von Vorzügen begabt— so lebte mein Lehrer mit Namen Jyōtsnākara, stets eine Fundgrube für den Nektar der Rede, auf Erden, dem Bhava ergeben, vermögend und mit Ruhm geziert. (45)
 
@@ -4682,17 +4404,11 @@ siegt hatte. Im Kampfe mit den Schaaren der Feinde erscheint er wie Bhīma und A
 
  Es giebt in der Welt nichts Höheres mehr ausser der Liebe: denn daraus entsteht wiederum die heilbringende Entsagung. (50) Vermöge der Liebe schuf selbst der hochheilige Śiva dies alles, durch die Kraft des innigen Contactes. In jener blossen All-Einheit, die der Zweiheit entbehrte, der untadligen, die den Namen Welt noch nicht trug, lebte allein der höchste Herr. Als der Fürst der Götter das aus mannigfachen Formen bestehende, göttliche, von aller Schönheit begleitete, mit ungezählten Wundern gefüllte, untadlige, unvergängliche Selbst in der Spiegelscheibe seiner Wohnstätte selbst erblickte, in diesem Augenblicke empfander hohe Wonne; und während Śiva der Gedanke kam, dies
 
-
-
 jemandem zu zeigen, trat dieser sein aufsteigender bethörender Wunsch in die Erscheinung. (55) Nicht leicht ist ein Schöner im Stande, seine Schönheit zu verbergen: wenn das Fenster geschlossen sein sollte, wird er sie doch an der Thüre zeigen. Siehe diesen in der Erde verborgenen Hibiscus, wie er im Frühlinge sein Haupt durch die Kraft der Schönheit erhebt! Von der Kraft des Wunsches nach einem Contacte und von Liebe im Herzen erfüllt schuf der Gott, der höchste Gott, die Welt, sodass sie davon erfüllt ist. Nachdem aber der Allmächtige die mannigfach gestaltete Schöpfung geschaffen hatte, die von ihm selbst ein Erbtheil besitzt, erstrahlte er selbst, indem er in ihr aus Liebe bestehendes Scherzspiel einsetzte. Weil nun durch ihn das All, Bewegliches und Unbewegliches, aus dem Wunsche heraus und aus Liebe erschaffen ist, darum bleibt nirgends etwas ohne Liebe. (60) Nachdem er dann aus Liebe eine Dreizahl von Göttinnen durch seine Zaubermacht und ebenso aus seinem eignen Leibe drei Männer als Grundanfänge für die Welt geschaffen hatte, minnte er viele Jahre mit diesen nach Lust zusammen, worauf diese wiederum mit seiner Erlaubniss die Schöpfung schufen. Darum erglänzt die ganze beseelte und unbeseelte Welt in der Fülle der Liebe; und was ihrer ermangelt, zählt nicht mit. Wenn man so sieht, dass der fühllose Taglotus von Liebe zu dem Heissstrahler und der Nachtlotus von Liebe zu dem Nektarstrahler erfüllt sind, warum sollten dann die Menschen davon nicht getroffen werden? Die hohe Wonne der Liebe vermag ja kein Mensch zu nennen, der mit einer einzigen Zunge begabt ist und auch nicht, wenn er deren tausend hat. (65) Denn das gerade ist das Herrliche daran, dass sie die Genüsse erkennen lässt; alles andere nennen daher die Weisen reizlos. Wenn ein Herz die Qual der Liebe nicht kennt, dann ist das kein Herz; ein Leib, der von ihrer Pein verlassen ist, ist kein Leib, sondern nur ein Lehmklumpen. Wende das Gesicht ab von der Welt und richte das Antlitz freudig auf Jene: höher als die fleischliche Vereinigung gilt die Liebe, die den Liebenden Wonne bringt. Niemals sei der Gedanke an sie im Herzen aller schwach, niemals auch entbehre der Sinn der Verständigen ihrer. Einem Rade gleich dreht sich kraft derselben das Himmelszelt; von ihrem Getöse ist diese Welt erfüllt. (70) Wer ihr Sklave geworden ist, ist befreit von den Fesseln der Existenz; wer ihre Furcht im Herzen trägt, erlangt beständiges Glück. Der
-
-
 
 Mann, welcher trunken von dem Genusse des Weines der Liebe so den Blick von der Welt abwendet, erachtet alles dies dem Grase gleich. Wenn die Leute nicht liebend aus dem Becher der Liebe trinken, soll niemand irgendwo ihren Becher nehmen. Hundertfach und tausendfach gesegnet und schön und hochalterig sind am Ende die, welche in dem Meere des Lebens versunken sind; aber wahrlich, ihr Name besteht durchaus nicht fort in der Welt, während die Kunde von den Liebenden ewig lebt und hier wie dort Wonne bereitet. (75) Es wird erzählt, dass einst ein Schüler immer wieder seinen Lehrer bat, der Ehrwürdige möge ihm die Weihe geben; und dieser, also von ihm gebeten, antwortete: „Wenn dein Herz erst einmal von Liebe erfüllt sein wird, dann will ich dir die Weihe geben!"— So lange ein Mann das Alphabet nicht lesen kann, so lange bleibt er ein Thor, wenn er auch den Inhalt der Veden und der Lehrbücher kennt. Lass die Furcht der Welt und übe Tag und Nacht den Hang nach Liebe; ein Mann, der sie erkannt hat, erlangt zweifellos die Erlösung. Dem Himmel sei Dank, dass ich, durch Schicksalsfügung frei von der Furcht, die aus der Welt entsteht, alle anderen Unternehmungen gelassen und diesen Weg betreten habe. (80) Wenn auch mein Haar der Farbe nach der Milch gleich geworden ist, so grünt doch täglich in meinem Herzen noch die Liebe. Einst, als ich allein nach Gefallen langsam meines Weges ging, erscholl eine Stimme vom Himmel, die mich wiederholt anredete: „Verfertige jetzt schnell ein affectereiches Buch, bei dessen Anhören selbst die Schaar der Heiligen von der Liebe verblendet wird! In der werthlosen Welt hat nichts Bestand; daher bleibt dir auf Erden nur die Kunde deines Buches hunderte von Weltzeitaltern leben."— Nachdem ich das göttliche Wort vernommen und es immer wieder erwogen habe, habe ich jetzt die wunderbare, reizende Erzählung geschrieben, nachdem ich es für gut erkannt habe. Hier lodert das Feuer der Liebe, voll sengender Glut; es fallen die Sterne vom Himmel, als Tropfen der Thränen aus den Augen der Götter.
 
  Man sieht wiederum, dass das ganze All unterthan ist der Bhāratī: wem sie im Munde wohnt, wie soll der Schweigen beobachten, wenn er nur Verstand besitzt? Das Wort nämlich gilt als Maass aller Dinge; und wenn es lieblich ist, giebt es keinen anderen Gegenstand des Gewinnes. Was man hier alles
-
-
 
 sieht, Altes oder Neues, das, wisse, ist aus dem Worte hervorgegangen; daran ist nicht zu zweifeln. „Gehe den Weg wie es bisher war": nachdem ich also das Wesen des Wortes vernommen hatte, habe ich alles nach der Weisung des Götterfürsten aufmerksam gethan. (90) Veda, Tradition und Purāṇa's, Philosophie und Grammatik sind aus Worten zusammengesetzt, deshalb besteht die Welt aus dem Worte. Zweifach wird von den Weisen das Wort geschieden, je nachdem es wahr oder unwahr ist: hienieden schwer zu finden ist das wahrhaftige Wort, überall ist das andere zu finden. Ausser Jenem giebt es keine höchste Tugend, die lieb und schön wäre; beständig ist die Wahrheit zu sagen, wenn man jegliche Vollendung ersehnt. Zweierlei bildet seinen Schmuck: Wahrhaftigkeit und Kürze, wie bei einem verständigen Manne hienieden Geduld und Charakter. Dies mein Buch hier nun, welches mit jenen beiden Dingen versehen und voller Affecte ist, möge der Liebling der Liebenden sein und den Trefflichen Freude bereiten! (95)
 
@@ -4701,27 +4417,17 @@ II.
 
  Es war im Westen ein Erdherrscher namens Tāimōsa, erhaben wie Vikrama, dessen Gebot von vielen Juwelen unter den Herrschern geachtet ward. Unter seines Armes Kraft war die meerumgürtete Erde stets froh und im höchsten Maasse versehen mit allen möglichen Glücksgütern. Zur Zeit der Ehrfurchtsbezeugung erstrahlte sein Leib hoch über den niederfallenden Königen durch den Glanz ihrer Diademe wie aus Edelsteinen gefertigt. Nichts Glückbringendes kannte dieser Tugendsinnende ausser der Tugend, der vor dem Schicksale nicht bangte; wie viel weniger vor seinen Feinden! Bei dem Hören seines Namens ging den Frauen der Feinde die Leibesfrucht ab; während er die Erde beherrschte, war in der Welt keine Furcht vor Sorge und Krankheit. (5) Er hatte eine gar herzerfreuende Tochter namens Jōlēkhā: welcher Dichter sollte wohl im Stande sein, deren Schönheit zu besingen? Wenn ihre Reize nach Kräften geschildert werden müssen, wird dadurch diese meine Zunge des rechten Namens erst recht werth. Diese Königstochter hatte dunkle Hautfarbe, Gazellenaugen und schlanken Wuchs, ein Gesicht wie der Vollmond, eine Stimme, lieblich wie die der Nachtigall, Bimbalippen und den Gang des Elephanten; gebeugt war
 
-
-
 sie durch die Last der Brüste, und ihre Zähne glichen einer Perlenkette. Herrlich erstrahlte ihr Gesicht durch die Lockenringel, gleichsam ein gefülltes Schatzhaus, beschützt von einer Schaar von giftlosen Schlangen. Zweierlei sah man an ihr ganz Ausserordentliches, welches das Herz bethörte: den Tag, der aus der Schönheit ihres Gesichtes entsprang und die Nacht, die aus ihren Locken kam. (10) Ihre Brüste waren wie zwei Wasserrosen, schön gerundet, von zarter Schönheit, dem Meere der Anmuth entsprossen, gleichsam zwei Blasen voll Kampfer. Nicht flüssiges Silber, nicht der Schnee liess sich vergleichen mit den Armen der Gazellenäugigen, nicht der Lotusstengel: Mängel zeigt er ja! An ihrem Halse, der drei Falten im Nacken zeigte, glänzte eine Reihe von Schnüren reinster Perlen: eine Schaar Sternbilder, gekommen, um den Antlitzmond zu verehren! Wie soll die Fleckenlosigkeit dieser Gazellenäugigen beschrieben werden, bei deren Anblick der Spiegel einen Fleck, angeblich Hauch, zeigte! Die Flamingos und die Schlangen zogen sich in den Wald zurück, diese an Schlankheit, jene an Anmuth des Ganges besiegt von der Gazellenlammäugigen. (15) Als die Apsarasen sie erblickt hatten, schlossen sie die Augen nicht mehr; ihren eignen Leib sahen sie nicht wieder an, krank vor Abscheu. Eine solche reizvolle Schöne, die mit Liebreiz und Anmuth ausgestattet und in dieser Welt nur schwer zu erlangen ist — von der hörte man wohl früher, sah sie aber nicht. Als die Nāga-Mädchen, ihre Altersgenossinnen, hörten, dass sie so ausserordentlich schön sei, hielten sie sich die Ohren zu, schlossen die Augen, gingen alle in die Unterwelt und kamen nicht wieder hervor. Wie gelangte die stets im Lotus wohnende Padmāin einen (anderen) Lotus? —Indem sie in der Gestalt des Fussringes an deren Fusslotus ging! Der wunderthätige Schöpfer, der dies alles schuf, ist allein im Stande, ihre Schönheit zu schildern, kein Anderer. (20) So war die Königstochter beschaffen, die, im Palaste wohnend und von der Schaar ihrer Gespielinnen umgeben, beständig mit Eifer dem Spiele mit Puppen oblag. Ein angenehm kühler Wind wehte, sie zu bedienen, während sie im Palaste weilte; aber Sonne und Mond trafen sie nicht mit ihren Strahlen. Wie die berühmte Viṣṇumāyā durch ihren Anblick alles bethört, so that auch die Königstochter. Höre, was die heimlich waltende, ungesehene Māyā Schicksal an diesem also dahinlebenden Mädchen thun
-
-
 
 wird. Verneigung ihm, dem hehren, mächtigsten, höchsten Wesen, durch dessen Blendwerk alle Götter, Indra an der Spitze, bethört worden sind. (25)
 
  Einstmals war Jōlēkhā, vom Spiele ermüdet, bei Anbruch der Nacht eingeschlafen, nachdem sie das Paar ihrer Fusslotusse auf den Schooss eines Kammermädchens gelegt hatte. Solche Wonne brachte die Nacht den lebenden Wesen, dass die entschlummerten Menschen gar nichts wahrnahmen. Fröhlich tranken die cakōrās mit schnappendem Schnabel den lieblichen Mondschein, wobei sie süssen Sang ertönen liessen. Keiner wachte, ausser dem Geliebten der Nacht, die in gewohntem Gange dahinschritt, sonst aber niemand. Alle Wächter waren im Herzen von Träumen befangen, und die Thürhüter stützten ihre Häupter auf ibre goldenen Stäbe. (30) In den Teichen schliefen die Fische; die Reihe riefen nicht mehr; es bangte alleine noch der arm cakravāka. Sanft entschlummert erwartete die fromme, sonnenfrohe Lotusblume den Mond, nachdem sie in ihrem Kelche einen Bienenjüngling eingeschlossen hatte. — So ruhte also die mit Schönheit und Tügend geschmückte Königstochter auf einem schönen, mit Juwelen verzierten und mit Blumen bestreuten Ruhebette. Da schlief das an wunderbaren Vorzügen reiche Mädchen mit dem leiblichen Auge, mit dem Herzen aber war sie wach. Als die Mitternacht gekommen war, wo die Leute schliefen, sah die holdlächelnde Königstochter im Traume durch die Hausthür einen Mann eintreten (35) mit schönem Haupte, schöner Stirn, schönem Brauenspiel, herrlichen Wimpern, schönen Augen, frischen Wangen, schöner Nase und berückend lächelndem Munde; mit sehr schönem Antlitz, lieblichem Halse und gewaltigen Löwenschultern, mächtiger Brust und grossen Armen; sehr jugendzart war er, in schöner Gewandung, Schläfenlocken trug er, der Dunkle, glänzend durch die Härchenreihe; einen schönen Nabel hatte er, gleichgebaute Knöchel und sehr schöne Lotusfuisse. Sein Körper war mit Sandel gesalbt; den besten Betel trug er; mit allen Malen war er wohl versehen, sein Leib erstrahlte gar herrlich. Durch seine Anmuth besiegte er den Mond, durch seinen Glanz machte er die Sonne untergehen; dem Bṛhaspati glich er in der Versammlung, wunderbar hoheitsvoll war sein Anblick. (40) Die Welt zu bethören war er gekommen, nachdem er den Leib des Liebesgottes angenommen hatte und zwar leibhaftig, um den Makel der
 
-
-
 Körperlosigkeit auszutilgen. Niemals hatte man ihn früher gesehen, noch hatte die Kunde von ihm den Weg zum Ohre gefunden; selbst im Geiste hatte man ihn sich nicht vorgestellt, ihn, der im höchsten Grade einem Göttersohne glich. — Als er seine Schönheit gezeigt hatte, verliess er ihr Haus wieder, nachdem er ihr alle Besinnung geraubt und ihr das Herz sorgenkrank gemacht hatte.
 
  Als sie in dem einen guten Ausgang verheissenden Traume ein so ausserordentliches Wesen erblickt hatte, sträubten sich an ihrem ganzen Leibe die Härchen, indem sie an jenen dachte, der in ihrem Herzen wohnte. Da die Tochter des Königs, die mit ihren Augen selbst die Gazellen bezauberte, furchtsam erwachte, ging die Nacht zu Ende. (45) Die Gespielinnen, welche sahen, dass die Nacht dem Sonnenaufgange nahe war, kamen voller Freude mit bunten Schmucksachen und Kleidern herbei, begleitet von einer Schaar von Sklavinnen, um die Königstochter zu bedienen, indem sie sich nach dem Wohlbefinden erkundigen wollten, lachend und nach der fünften Weise wunderschön singend. Sie erwachte, als die Sonne, einem goldenen Ei ähnlich, von dem Zauberer Schicksal hinter dem dunklen Himmelsvorhange hervor gezeigt worden war. Als die Sonne für die Flamingos Sternenschaaren am Mānasa-See Himmel zum Falken geworden war, hörte die Königstochter, die das Wunder geschaut hatte, auf zu schlafen. Als der Lichtspender, einem auf dem Haupte der Frau des Ostens ruhenden Goldkruge ähnlich, aufgegangen war, da erwachte sie, die Königstochter. (50) Nachdem sie sich von dem Lager erhoben hatte, verneigten sich alle Gespielinnen und begannen eifrig, sie zu bedienen. Eine bereitete schnell die Augensalbe für die Gazellenäugige, brachte sie herbei und schminkte die Augen damit; eine Andere nahm Schminke aus Moschus hergestellt und zierte damit ihren schönen Leib; eine Andere legte der Schönäugigen Kleider und Schmucksachen an; wieder eine Andere that ihr eine Perlenkette um den Hals, eine Andere den herzberückenden Brustschmuck. Die Eine brachte Armringe und Spangen, eine Andere den besten Betel herbei und schmückte sie so in herzerfreuender Weise. (55) Als sie nun ganz ausserordentlich mit den schönsten Schmucksachen geschmückt worden war, kam eine von den Gespielinnen mit einem Spiegel herbei. Die Jungfrau erblickte ihr wohlgeschmücktes Ich in dem Spiegel,
 
-
-
 aber leider nicht ihren geliebten Gebieter, den sie im Herzen trug, nachdem sie ihn im Traume gesehen hatte. Mit ihren Gespielinnen betrat sie darauf den Lusthain, gleichsam in sorgendem Nachdenken über jenen Gottgleichen, der in ihr Herz versenkt war. Jener Hain erglänzte allüberall von kühlen Wassern voll überhangender Lianen und Blätter, gleichsam wie von Perlen. Er war erfüllt von verschiedenen Bäumen, stets mit Blumen geschmückt, voll der Vorzüge aller Jahreszeiten, erschallend von Vogel- und Bienenschaaren. (60) Hier liessen die Reiher ihren zarten Ruf vernehmen; dort sangen die Nachtigallen, dort erschallte das gar herzberückende Summen der Bienen. Aus den am Morgen aufblühenden Lotusblumen flogen eiligst die Bienen heraus und setzten die Mädchen in Furcht wie Pfeile des Liebesgottes. Sie spielten unter Lachen in mannigfacher Weise untereinander, sammelten Blumen und kamen damit immer zu ihr. Sie aber, die Tochter des Fürsten der Könige, die mit ihnen munter sich unterhielt, war darauf bedacht, mit dem im Traum erblickten Gebieter Zwiesprache halten zu können. Mit dem leiblichen Auge betrachtete sie die Kränze, welche jene wanden, in Wahrheit aber den Schönen, der im Lotus ihres Herzens wohnte. (65) Vergebens war ihr Herz fröhlich auf das Spiel mit ihnen bedacht: es war ja nur höchst beglückt, so lange es in Nachdenken über ihn versunken war. Auf ihn den Sinn richtend dachte nun das schlanke Mädchen: „Was für ein wunderbares Stück Schöpfung habe ich gesehen? Von wem ist mein Herz geraubt worden? Wo werde ich seinen geliebten Gesichtslotus wieder zu sehen bekommen, an dem meine beiden Augen zu Bienen geworden sind? Warum musste ich im Traume den Geliebten sehen, dessen Wohnung unbekannt ist? Wie soll ich ihn suchen, da er seinen Namen nicht genannt hat?" —So von Sorgen gequält dachte dort das Mädchen über den Geliebten nach, (starr dasitzend) wie gemalt. Da ging der Tag zur Rüste. (70) Beständig glückbringend den Glücklichen mit Lachen, Spiel und ähnlichen Dingen, und den Unglücklichen durch den Schlaf Vergessen des Kummers spendend, erschien darauf, von den Strahlen des Mondes erhellt, die Nacht, welche der Gazellenlammäugigen doppelten Kummer bereitete. In dieser Nacht erhob das betrübte Mädchen, die Tochter des Königs, wegen der Trennung wiederum höchst klägliches Weinen. Wahrlich, von den Seufzern, die sie, von ihm
-
-
 
 ferne, ausstiess, ward der Himmel allenthalben durchbrochen und gilt als von den Sternen durchlöchert. Sie handhabte ihren Leib wie eine Laute, die mit Ader–Saiten bezogen war und sang darauf ein trauriges Lied, welches die Skala der Ohnmacht durchlief: (75) „Wenn du ein Erdherrscher bist, dann nenne mir aus Mitleid deinen Namen; wenn du der Herr der Sterne bist, wie solltest du dann auf die Erde kommen können? Mit Gewalt hast du mein Herz geraubt, ohne dich (lange) gezeigt zu haben; denke daran, dass du mich mit Kummer erfüllt hast: wie solltest du diesen nicht beseitigen? Ich kenne deinen Namen nicht: wonach soll ich in meiner Trennungspein fragen? Wie soll ich deine Wohnstätte auf Erden sehen, die schwer zu finden ist, da ich sie nicht kenne? Möge niemand in dieser Welt solche Sorge im Herzen tragen wie ich! Mein Sinn ist nicht gesund, und ich sehe meinen schönen Geliebten nicht. Auch heute noch, Herr, ist mein Geist in Nachdenken über dich versunken; nicht am Schlafe finde ich Gefallen, noch am Essen. (80) Was hast du Nektarwolkengleicher für Schaden, wenn du das Wasser Mitleid regnen lässt, um den Waldfeuerbrand Sorge zu löschen? Es ist nicht Brauch der Verständigen, einen Tiefbetrübten in (neue) Betrübniss zu versetzen: wie kann man einen vom Feuer Verbrannten in das Feuer legen?! Allein im Garten des Glückes, bin ich, frei von den Dornen des Unglücks, zu einer mit Wonneblüthen in Menge behangenen Liebesliane geworden. Dein Traumbild habe ich nicht durchschaut, nachdem ich es irgendwie ergründet hätte, durch dessen einmaliges Zeigen du mir mein Herz geraubt hast. Mein blüthenzarter Leib hier ist abgemagert und findet nun keinen Schlaf auf dem Sorgendornenlager.“ (85) So klagte die Königstochter die ganze Nacht, über die Trennung betrübt und voll hundert Sorgen. Als aber diese Nacht vergangen und es Morgen geworden war, wischte die Schönäugige ihr holdes Antlitz mit dem Gewande ab, wiewohl dieses von dem Wasser der Thränen feucht geworden war, damit kein Anderer merken sollte, was sie gethan hätte; dann that das Mädchen mit den Gespielinnen ausgelassen heiter.
 
@@ -4730,23 +4436,15 @@ III.
 
  Wenn von dem Bogen Leidenschaft der Pfeil Verlangen abgeschossen ist, dann ist selbst ein ganz willensstarker Mann,
 
-
-
 der den Schild des Wissens trägt, machtlos. Es ist bekannt: der Pfeil, der aussen haftet, verursacht innere Qualen: und der wiederum, der im Innern festsitzt, verursacht aussen Schmerzen. So sagen die Weisen: „Wie kann wohl jemand den starken Wohlgeruch von Herzensneigung und Moschus verheimlichen?"Wenn Moschus auch in einem Kleide verborgen ist, man bemerkt ihn am Wohlgeruche; und ebenso wird die im Herzen wohnende Neigung Verliebter durch äussere Zeichen erkannt.
 
  Wiewohl jene ihre Liebe im Innern verbarg und wohl bewachte, floss sie doch eilig aus dem Kruge des Herzens heraus, indem sie denselben mit den Strahlenhänden der Sonne Verlangen sprengte. (5) Jōlēkhā, die Tochter des Königs, die Schlankleibige, ward mit jedem Tage magerer, da ihr Herz über die Trennung betrübt war. Weder drinnen noch draussen fand die Jungfrau irgendwie Befriedigung; sie sprach mit niemandem und lehrte auch ihren Papagei nicht sprechen. Die Schlanke spielte kein Spiel mehr; sie nahm keine Speise zu sich und lebte nur noch durch die Hoffnung, ihn zu finden. Bald vergoss die Schönbrauige eine Thränenfluth und stiess Seufzer aus, bald lief das Mädchen wie irrsinnig ohne Scham umher. Als die Haremswächter sahen, wie sie bleich wurde und stark abmagerte, waren sie alle im Herzen von Furcht ergriffen. (10) Die Schaar der Sklavinnen sammt den Gespielinnen wurde da vor Furcht ganz krank, als sie diese Veränderung ihres Aussehens wahrnahmen. Da kamen nun die Freundinnen aufgeregt zusammen und sprachen unter einander: „Was ist da plötzlich geschehen? Oder was ist daran schuld?“—Krank vor Schrecken nahmen sie sofort jede ihren Verstand zu Hilfe und sprachen erfahren mancherlei, voll herzlicher Liebe. Unter ihnen sprach da eine:„Irgend ein von uns ungesehener Mann geht bei ihr aus und ein; der Schöpfer allein ist im Stande, das zu ergründen.“—Eine Andere sprach: „Ich glaube, die Göttermädchen sind von der Gazellenlammäugigen besiegt; sollte sie nun etwa von diesen mit bösem Auge angeschaut worden sein? (15) Dadurch ist die selbst mit ihrer bleichen Gesichtsfarbe Herzberückende abgemagert. Keine andere Ursache nehme ich an; eine Gottheit ist hier Veranlassung.“ — Eine Andere wieder sprach bedächtig, von Sorge erfüllt: „In der Meinung, dass sie auf Erden an Schönheit unerreicht sei,
-
-
 
 oder weil die Schöne ihr Bild im Spiegel erblickt hat, ist die Königstochter im Nachdenken darüber abgemagert.“—Eine Andere wieder sprach da ein entsprechendes Wort: „Das ist der Grund; ich weiss es, Freundinnen; hört einmal! Ein Zauberer hat die Jungfrau mager werden lassen, indem er ihre Figur auf ein Amulet zeichnete, oder durch Beschwörungen, die sie aus dem Wege räumen sollen und ähnliche.“(20) Darauf sprach da eine Andere unter ihnen, reich an Verstandesschärfe: „Ich kenne die Ursache, Freundinnen; gewiss, das wird es sein! Sie hat im Traume irgend etwas gesehen und hält es nun für Wahrheit; und unter dieser Sorgenbürde ist ihr Leib erschlafft.“ — So kamen sie, allzumal im Herzen voller Besorgniss und Staunen, der Sache nicht recht eigentlich auf den grund.
 
   Als nun diese Freundinnen den wahren Sachverhalt nicht erkannt hatten, kam die Amme der Gazellenäugigen herbei, um den Fall zu entscheiden. Sie war in allen Dingen bewandert, kundig der Lust des Tanzes; eine geschickte Betrügerin der Dreiwelt, gleichsam eine zweite Mōhinī. (25) Sie brachte Männer und Frauen, die (von einander) fern waren, innig zusammen; sie war im Stande, den mit Liebe zu erfüllen, der im Herzen keine hegte. Im Kindesalter schon auf Liebesgeschichten versessen, war sie im Stande, jedes Herz zu rauben und liess sich das ihrige von jedem rauben. — Sie also kam einst in der Nacht, verneigte sich vor Jōlēkhā und erzählte, was sie ihr früher für Dienste gethan hätte: „Ich halte dich für einen Blumenstrauss im Garten der Anmuth; alle Lotusäugigen sind durch dich von den Dornen der Sorge getroffen. Immer sei dein Herz voller Freude, du Schöne; sei stets frei von Kümmerniss und zeige ein lächelndes Antlitz. (30) Durch deinen Glücksstern, du Schönbrauige, hast du die höchste Stellung erreicht: jetzt magst du ein Wort von mir Schutzlosen hören. Als du Schöne glücklich geboren wurdest, war ich allein im Schlafgemache und wischte alle Feuchtigkeit u. s. w. bei der Entbindung auf. Mit Wassergüssen, die mit wohlriechenden Sachen parfümirt waren, bereitete ich dann das Bad, worauf dir der Name Uttamagandhā gegeben ward. Dann reichte ich dir, du Schönbrauige, die Brust, durch deren Genuss du von Tage zu Tage zunahmst, den Augen Wonne bereitend, der Mondsichel ähnlich, mit allen Malen versehen, von ausser—
 
-
-
 ordentlicher Schönheit und von sehr zartem, untadeligem Körper. (35) So oft du Schönbrauige in der Nacht oder am Tage, je nach Belieben, auf einen Augenblick die Augen im Schlafe schlossest, wachte ich und dachte besorgt im Herzen:,Wann wird diese tugendgeschmückte Schöne wieder aufstehen?‘Als du, mit beweglichen Augenwinkeln Versehene, den Wunsch hegtest zu gehen, wobei du mit deinen sehr zarten Knöcheln bald hinfielst, bald wieder aufstandest, da empfand ich grosse Freude, indem ich mein Glück aufgehen sah, und neigte mein Haupt ehrerbietig vor deinem Fusslotus. Was du Schönbrauige auch immer an auf Erden schwer zu erlangenden Sachen wünschtest, das habe ich, um dein Herz zu befriedigen, beschafft und dir gegeben. (40) So habe ich dir damals gedient, du Schlanke; und auch jetzt noch ist mein Herz wahrlich treu gehorsam. Ich weiss, Lotusäugige, dein Herz ist von Sorgen erfüllt: warum verbirgst du sie vor mir, du Schöne? Sage jetzt die Wahrheit: wer hat dir so arg Böses gethan? Ach, was bist du, die du die Sorge nicht kanntest, in dem Meere des Kummers untergegangen? Sage, Holde, was bist du wie irrsinnig geworden? Oder wie kommt der Kummer in dein Herz, Schönäugige? Warum bekommt dein Gesichtslotus von Tage zu Tage bleichere Farbe, du Schöne? Was entringen sich dir zahlreich deine Seufzer, an Glut ähnlich dem Feuer eines Waldbrandes? (45) Warum bist du Sonnenschöne bei dem Eintritt der Sorgennacht untergegangen? Warum bist du in der Jugendmorgenröthe wie eine Mondsichel geschwunden? Doch ich weiss es ja: irgend ein wie der Mond Schöner hat dir deine Seele geraubt; sage mir die Wahrheit, ich will ihn ausfindig machen! Wenn du Schönbrauige einen Mann gesehen hast, der im Himmel wohnt; der bei seiner Erschaffung die Gestalt von den Göttern erhielt und an dessen Erlangung man nicht denken soll, so will ich jetzt auf dein Geheiss einen Zauberspruch anwenden, der sogleich Erfolg haben soll; ihn herbeiholen und dir sofort zeigen, kraft meines Wissens. Oder wenn du Schöne einen erblickt hast aus dem Geschlechte der Gandharven oder einen Waldbewohner, der auf Erden an Schönheit unerreicht ist, (50) will ich auf deinen blossen Wink hin ihn mühelos fesseln und vor dich hinstellen, die du Augen hast wie aufgeblühte Lotusblumen. Was für ein Wunder ist es wohl,
-
-
 
 durch Klugheit cinen Mann aus dieser Welt willfährig zu machen! Auf deinen Befehl mache ich selbst das Schicksal botmässig! So weit reicht meine ausserordentliche Macht, Schönäugige; lass die Sorge und gieb mir deinen Befehl, ich vollziehe deinen Auftrag."\_ Als die Königstochter das Wort der Amme vernommen hatte, welches gleichsam Nektar für ihre Ohren war, hörte sie sogleich auf zu seufzen und sprach: „Ich weiss nichts weiter zu sagen als die Wahrheit, die den Antlitzmond mit einer Thränensternenschaar umgeben hat. (55) Ach, Mutter, ich darf es nicht sagen! Das Haus meines Herzens ist mit dem Riegel Schamgefühl verschlossen, den zu öffnen nur der schwer zu findende Schlüssel Klugheit geeignet ist. Doch höre; ich will es erzählen, wenn du Neugier im Herzen hast. Es ist die Wahrheit: zu niemandem sonst habe ich Zutrauen ausser dir. —Nicht in hunderten von Jahren sogar könnte ich die Schönheit des ausserordentlich liebreizenden unbekannten Irdischen schildern, den ich heute im Traume gesehen habe. Wenn es Manmatha ist, dann ist sicherlich dieser Käma ohne W
 
@@ -4760,23 +4458,15 @@ Wi
 
 sollte der hamsa sich mit ihm vergleichen können, der tief unter ihm steht und gleichsam farblos erscheint! Und doch wohnt dieser Nicht–hamsa im Mānasa meines Herzens! (60) Der süsse Geschmack des Mundes muss wohl recht beissend werden, wenn er seinen Namen nicht ausspricht; aber der bittere Geschmack dürfte honigsüss werden, wenn er dessen Nennung vornimmt. Was soll ich thun? Schwer ruht jetzt die Sorge in meinem Herzen, Mutter. Gieb einen guten Rath und schütze mich Hilflose wie früher mit deiner Klugheit.“—Als die Amme diese Rede der Königstochter vernommen hatte, ward sie bestürzt und stand starr da wie auf einem Bilde, indem sie immer wieder daran dachte: „Erst hast du gesagt, alle deine Aufträge will ich ausführen!“—Als sie nun darauf ihre Wundergeschichte gehört hatte, gab sie ihr viele gute Ratschläge: „Höre aufmerksam zu, Schönbrauige, und lass deinen Leib nicht hinwelken: wie soll ich jemand ausfindig machen, der seinen Namen nicht genannt hat?“(65) So sprach sie dann weiter zunächst zu ihr: „Es erscheint als das Werk irgend eines Zauberers, welches durch Blendwerk stets so wundersam wirkt. Nachdem der Zan—
 
-
-
 berer die ausserordentliche, durch Blendwerk an einem Manne dargestellte Schönheit dir gezeigt hat, verschwindet er wieder, wobei er dein Herz gleichsam mit Gewalt raubt.“—Als die Königstochter das gehört hatte, sprach sie bedächtig: „Kein Zauberer kann je solche Schönheit zur Schau stellen!“—Nach diesen ihren Worten entgegnete die Amme freundlich folgendes Wort: „Ich denke, Schöne, es ist ein Traum! Ein solcher Traum in Gestalt eines Trugbildes ist vielfach bekannt: im Geiste vorgestellt, in den Augen entstanden, von dem Ohre geschaffen, an bestimmten Orten erschienen; (70) alle aber sind eitel, Schönbrauige, selbst einer, der künftighin irgendwo in Erfüllung gehen mag. Darum sorge dich nicht im Herzen über einen solchen, der Lügen vorbringt.“—Ihr antwortete darauf die Jungfrau, die Tochter des Weltherrschers: „Wenn der Traum eitel ist, weshalb halten dann die Verständigen so viel davon? Die Weisen sagen, zweierlei sei verbunden mit dem Entsprechenden: Wahrheit sei verknüpft mit Wahrheit, das Gegentheil mit dem Gegentheile.“—Ihr antwortete darauf die treffliche Alte, das Herz von Sorgen voll: „Du allein bist reich an Klugheit; darum lass dies Uebermaass von Kummer.“ —„Mutter, so sage mir doch einmal, wie sollte ich mein eigenes Ich unglücklich machen, wenn das in meiner Hand läge? (75) Sicherlich ist ja jetzt die That der Klugheit, die in meiner Hand lag, daraus entschlüpft; mein Geist, von der Sorge um jenen beständig erfüllt, gehorcht mir nun nicht mehr. In dem Hause meines Herzens ist jetzt ein buntes Gemälde, wie eine Linie in den Felsen, so gewaltig fest eingeprägt, Mutter, dass dein Wort die Sorge meines Herzens nicht zu erschüttern vermag, so wenig wie Windesschnelle oder Wasser eine in den Felsen eingegrabene Linie.“—Als die Amme merkte, dass ihr Herz infolge der Liebe sorgenkrank sei, da schwieg sie, höchlichst erstaunt, da sie keinen Rath mehr zu geben wusste. Sie begab sich aber ungehemmten Laufes zu dem im Harem befindlichen Könige, verneigte sich vor ihm und erzählte ihm bedächtig die Geschichte mit seiner Tochter. (80) Als der Erdherrscher diese Begebenheit vernommen hatte, war er voller Erstaunen und gedachte, wie gewaltig die unabänderliche Nothwendigkeit in der Welt sei.—
 
  Heldisch ist das Herz derjenigen Menschen, die der Leiden-
-
-
 
 schaft der Liebe wehren; denn sie allein kann die Sorge bannen, die aus dem Dasein erwächst. Mitten in die Natur tretend, erstrahlt sie nach allen Seiten feuerbrandgleich und verbrennt Mässigung und Besinnung wie einen Holzstoss. Niemals empfindet ein Verliebter Furcht vor übler Nachrede; dem Grase gleich gilt ihm stets der gewaltige Berg des Tadels. Je mehr ein Verliebter stets strenge getadelt wird, desto fester hängt sein Herz nur daran, immerdar. (85)
 
  So schwand auch sie nun ein Jahr lang Tag und Nacht dahin wie die Mondsichel; dann aber nahm ihr Glücksmond wieder zu. Einstmals erstrahlte die Jungfrau, inmitten ihrer Thränenfluth, die roth erglänzte von der Dämmerung Leidenschaft, wie die Mondsichel. Da redete sie folgendermassen allein mit dem Schicksale: „Ach, warum hast du meine Glückssonne erbleichen lassen? Warum hast du meinen Leib gekrümmt wie einen Bogen? Warum hast du mein Herz zum Ziele für den Pfeil des Tadels genommen? Du hast mein Herz jenem Erbarmungslosen ausgeliefert, von dem ich nichts erfahren habe als den höchsten Kummer. (30) Du hast in mein Herz das herrliche Licht der Liebe zu ihm gesteckt: doch warum zeigt sich der ausserordentlich Schöne nur im Traume? Warum verkürzt sich der Schlaf, wenn ich ihn im Traume erscheinen sehe und warum bleibt er nicht lange in meiner Nähe? Aber ich bin gewiss, dass derselbe Schlaf mit dem Aufgange des Glückes gesegnet ist, indem ich dann den zarten, schönäugigen Geliebten erblicke. Wenn durch Schicksalsfügung mein Glück erblüht, will ich selbst diesen meinen Geliebten im Schlafe mir vereinigen, indem jenes erwacht." —Als die Jungfrau, über die Trennung von ihm höchst betrübt, so gesprochen hatte, fand sie nach der dritten Nachtwache Schlaf. (95) Als sie etwas eingeschlafen war und die Augen geschlossen hatte, aber im Geiste gleichsam wachte, kam jener herbei. Sobald die Jungfrau den Geliebten, geschmückt mit dem ausserordentlich schönen, den Mond übertreffenden Leibe, erblickt hatte, so wie sie ihn früher gesehen, da war sie voller Wonne. Sie erhob sich von dem Lager, fiel ihm zu Füssen, verneigte sich und sprach darauf gewinnend das Wort: „Wer dich geschaffen hat als Ersten unter der Perlenschaar der Ausgezeichneten; wer dich zum Vorschein gebracht hat, gleichsam den Mond, entstanden aus dem Meere der
 
-
-
 Anmuth; wer dein Haar, das an Weichheit und Locken reiche, so herrlich geschaffen und es zu einer Schlinge gestaltet hat, die Gazelle meines Herzens zu fesseln; (100) wer dich gleichsam zum Kronjuwele unter allen Edelsteinen gesetzt und dich den Allerschönsten unter den Schönen genannt hat; wer deinen schlanken Leib gerade wie ein Rohr gebaut und dein schönes Antlitz, das lotusgleiche, reich mit dem Glanze des Lächelns versehen hat; wer deinen Leib auf Erden mit ausserordentlicher Anmuth geschmückt hat — bei eben diesem Herrn der Welt beschwöre ich dich: lass, o Herr, lass nun die Härte deines Herzens mir gegenüber fahren; gönne mir heute aus deinem Munde ein Wort, das von Nektar trieft. Sage mir jetzt aufrichtig, durch welche Kasteiung du diese herrliche Schönheit gewonnen hast und von wem du stammst; heftig begehrt mein Herz, es zu erfahren. (105) Wie hast du, dessen Schönheit ich doch nur im Traume gesehen habe, mir mein Herz mit Gewalt rauben können? Erbarme dich jetzt meiner und sprich: Seit ich im Traume deinen Antlitzlotus gesehen habe, seitdem, Herr, ist mein Herz von hundert Sorgen voll.“—Lächelnd sprach der in allen Dingen Erfahrene, sie gleichsam von Neuem bestrickend, bedächtig, indem in ihm ein leiser Wunsch aufstieg: „Ich bin kein Götterspross, noch stamme ich von den Gandharven; wisse, Schönbrauige, dass ich aus dem irdischen Geschlechte stamme und aus den fünf Elementen bestehe. Wenn du dein Herz heute wirklich in inniger Liebe mir zuwendest oder wenn dies dein Wort Wahrheit ist, Schönäugige, (110) so bewahre mir diese Liebe auch ferner wie bisher und harre einige Zeit, Schönbrauige, auf die endliche Vereinigung mit mir. Wie in deinem Herzen, du Schöne, die Liebe zu mir wohnt, so wisse, ist auch das meinige stets ergriffen von der Liebe zu dir.“— Nachdem er so gesprochen hatte, verschwand er, ohne seinen Namen genannt oder seine Heimath angegeben zu haben; sie aber erwachte. Voller Freude sprang sie vom Lager auf, die Tochter des Erdherrschers; aber als sie den Geliebten wieder nicht sah, empfand sie doppelten Kummer. Früher war ihre Sorge nur gering gewesen, da sie ihn im Traume nur sah; nun aber ward jene ausserordentlich gross, nachdem sie mit ihm zusammen gesprochen hatte. (115) Immer gedachte sie ihrer starken Liebe; immer sang sie sein Lob; immer trug sie ihn im
-
-
 
 Herzen; immer war sie voll höchsten Staunens. Wie irrsinnig war sie da, die Augen von Ḍākinī beherrscht; der Schmetterling Verstand flog wieder in das Feuer Sorge. Als bei Tagesanbruch die Schlanke aufgewacht und vom Lager aufgestanden war, da hatte sie, das Herz voll Sehnsucht nach jenem, keine Erinnerung mehr. Das Gemüth dieser Gazellenäugigen war erfüllt von vielem Kummer; das hätte niemand beschreiben können, selbst nicht in hunderten von Jahren. Da stürzte die Schlanke wie ohnmächtig zu Boden, gleichsam wie die oberste Knospe am Lotus, versengt von den Strahlen der Sonne der Sehnsucht nach jenem. (120) Bald liess sie ihren Thränen freien Lauf, bald zeigte sie ein lächelndes Antlitz; bald war sie ganz bei Verstande, bald geberdete sie sich als Irrsinnige. Bald legte sie einen Kranz auf das Haupt, bald ihre Hand; bald lief sie nackend hinaus, bald mit herrlichen Gewändern bekleidet. Bald ruhte sie auf dem Erdboden, bald auf einem kostbaren Lager: giebt es in der Welt etwas Ungewöhnliches, was sie nicht vollbrachte?— Als ihre Gespielinnen sahen, dass die Jungfrau im Herzen infolge der Trennung Sehnsucht empfand, umgaben sie sie wie die Sterne die Mondsichel. So oft aber der Kreis der Freundinnen unterbrochen war, entwich sie auf diese Weise eiligst, pfeilgeschwind. (125) Wohl könnte man ja den Wind in der Hand festhalten oder Feuer in einem Baumwollenballen; aber niemand hätte ihren Sinn zügeln können. Da gingen sie alle zusammen zu Tāimōsa, die Herzen voller Furcht und schilderten ihm diese Begebenheit.
 
@@ -4787,11 +4477,7 @@ IV.
 
 [^1]: "Vor Schreck."
 
-
-
 da er kein anderes Mittel sah als Gefangenschaft, sprach er darum zu seinen Dienern allen: „Es werde schnell ein aus Gold und Silber bestehender Gürtel, eine entrollte Schlange gleichsam, gefertigt. (5) Mit dieser schlangenartigen Fessel gebunden, wird die Schöne ihren irren Zustand verlieren.“—Also thaten die Dienstbeflissenen. Nun glänzte ihr Füssepaar, von den Dienern mit diesen Banden gefesselt, wie ein Schatzhaus, bewacht von einer Schlange. Ja, die an ungewöhnlichen Tugendperlen in Menge ausserordentlich reiche Königstochter kam da noch über das Schatzhaus. Gefesselt mit diesem Bande, welches aus Gold und Silber bestand, hätte sie für Nāgasēnā gehalten werden können. Als ihr Füssepaar nun mit dieser Fessel gebunden war, sprach sie, das Auge zwar von Thränen gefüllt, aber doch voll Milde also: (10),, Mein Leib ist ja schon gefesselt mit der Liebesfessel, der schwer zu entrinnen ist; was soll mir nun diese noch? Wahrlich, mein Körper ist kraftlos und abgemagert; belastet ihn jetzt nicht nutzlos damit! Ich habe jetzt nicht mehr die Kraft, die immer wieder aufsteigenden Seufzer auszustossen; ebenso wenig, irgend wohin zu gehen oder zu stehen. Wozu werde ich mit der gewaltigen Fessel gebunden? Warum ferner wird mein Herz von dem Schwerte Härte zerfleischt? Keinen Verstand hat der Gärtner, wahrlich, der den von selbst im Boden wurzelnden Baum mit der Fessel eines Strickes festband, aus Furcht, er könnte weggehen! (15) Die Qual der Fesselung u. s. w. gebührt dem Räuber, der mir Gazellenlammäugigen gewaltsam das Herz geraubt hat; der sich im Traume zeigt, um ein Blendwerk vorzuspiegeln und nur einen Augenblick bleibt, während er sich leibhaftig sehen lässt. Doch darin habe ich Glück gehabt, dass ich in diese Fessel gelegt worden bin: damit werde ich heute den Geliebten binden, wenn er im Traume erscheint. Nachdem ich ihn recht fest gebunden habe, werde ich den Geliebten vor mich hinstellen, damit ich sein so schönes Angesicht lange schauen kann. — Doch was habe ich Thörin gesagt? Ich will den Geliebten gefesselt vor mich hinstellen? Weiss ich nicht, dass eine Zartheit wie die seine nur sehr schwer zu fesseln ist? (20) Der Staub, der, auf sein Gewand gefallen, hier und da bemerkt wird, kommt mir sicherlich vor wie eine Bergeslast für ihn. Gewiss ist die Pein, welche die
-
-
 
 Fesselung verursacht, besser für mich, ihn möge sie nicht treffen: verzeihe, Herr, das böse Wort!“—
 
@@ -4799,33 +4485,21 @@ Fesselung verursacht, besser für mich, ihn möge sie nicht treffen: verzeihe, H
 
  Da war nun die Jungfrau nachts, des Verstandes beraubt, im Hause voll Schmerzen über die Trennung von ihm und von Liebe verwirrt. (30) Mit den Wassertropfen, die aus ihren udērā= knospenähnlichen Augen fielen, bedeckte sie allenthalben die Erde, wie mit Perlen. Aus der Schale des Kummers trank sie den Wein ihres eigenen Blutes und klagte über sich selbst, nachdem sie vor das Gesicht einen Schleier gethan hatte: „Wenn ich seinen Namen weiss, will ich ihn immer flüstern; wenn mir seine Heimath bekannt ist, will ich dahin bezaubert gehen. Lange habe ich wie eine Knospe das Blut des eigenen Leibes getrunken; von dieser Sorge gar sehr erfüllt ist Tag und Nacht mein Herz. Siehe mich an mit deinem Auge: wenn ich nicht würdig bin, in deinem Hause deine Frau zu sein, will ich Sklavinnenarbeit verrichten. (35) Möge es auf dem Erdenrunde keine Unglückliche geben, die mir ähnlich sei und keine, die stets und allerwegen Brüdern und Verwandten so tadelnswerth erschiene wie ich. Bei meinem Anblicke wird heute mein Vater schamerfüllt; alle meine Sklaven- und Sklavinnenschaar hat mich verlassen und ist weggegangen. Ich allein bin, von Sorgen gequält, in dem Meere des Kummers tief versunken: pfui über dies mein Dasein, das von zahlreichem Unglück kranke! Warum habe ich
 
-
-
 es auf dieser Welt der Sterblichen erlangt? Besser wäre für mich der Tod!“— Während sie so sorgenkrank war, schlief sie ein, und in demselben Augenblicke erschien Jener, den sie früher schon erblickt hatte. Sobald sie den so schönheitbegabten, vor Allen ausserordentlich liebreizenden Geliebten erschaut hatte, erhob sich die Schöne von dem Lager dort und umschlang seine Füsse. (40) Nachdem das geschehen war, sprach sie voll Milde das freundliche Wort, indem sie ihn mit fürchtsamen Augen anblickte und immer wieder seufzte: „Warum, Herr, willst du mein Unglück nicht kennen, das aus der Trennung von dir entstanden ist? Nicht Glück noch Schlaf finde ich: warum fühlst du kein Mitleiden? Sage heute die Wahrheit, Herr: wo steht dein Haus und ferner, wie nennst du dich? Schütze mich Zuflucht Suchende!“—Als er das gehört hatte, antwortete er lächelnd, die Brauen in seinem Antlitze verziehend: „Höre aufmerksam zu, Schönbrauige; ich will dir die Wahrheit sagen: meine Heimath nämlich ist das in dieser irdischen Welt berühmte, Mēsra genannte Land, und ich ferner heisse Ajējamēsra, du Schöne.“(45) Nach diesen Worten verschwand er, die Tochter des Männerfürstendort aber erwachte sogleich, von Freude erfüllt wie ein Verstorbener, wenn er das Leben wiedererlangt.—
 
  Die Weisen, die bei dem Durchforschen des Meeres der Bücher eine Menge verschiedener Dinge finden, erzählen folgendes höchst wunderbare Geschehniss: Einst war allein der grosse Herrscher vorhanden, der wiederum durch die Māyā den höchsten Menschen namens Ādama schuf, damit dieser die Schöpfung vollbrächte. Er, der immer freien Zutritt (bei Gott) hatte, vollbrachte höchst beschwerliche Askese, worauf ihm der Erhabene erfreut wiederum seinen Anblick gewährte. Als er diesen hinter dem Schleier der Māyāstehend geschaut hatte, sah er nun die in dessen Nähe befindlichen Wesen: (50) Die Pāigambhara's mit der Bezeichnung der Sādhya's sah er da stehen auf der einen Seite, mit einer Menge Flaggen und Sonnenschirmen, wie sie den Höchsten anbeteten; auf der anderen Seite die Siddha's genannten Āulēya's aufgestellt; anderswo wieder zu tausend Millionen von Millionen die erschaffenen Wesen. Während er mit vor Staunen weitgeöffneten Augen die hehre Versammlung betrachtete, erblickte er einen lebenden trefflichsten Mann
 
-
-
 mit Namen Yōsōbha. Bei dem Anblick dieses liebreizenden Mannes versank er in tiefes Nachdenken: „Wer ist dieser Lotusblattäugige und wessen Sohn wird er werden?“—Als Ādama dort so in seinem Herzen eifrig überlegte, erhob sich plötzlich eine Stimme, die auch er nun vernahm: (55) „Mache dir keine Sorge; dieser Knabe wird einst in deinem Geschlechte geboren; und durch seine Geburt wird dein Name berühmt werden. Er wird in dem Hause eines Mannes namens Yākōbha geboren werden, Wonne bereitend den Augen der Welt durch seine irdische Schönheit. In dem Garten des Geschlechtes Jenes wird dieser mit mehr denn Löwenstärke Begabte vermöge seiner grossen Macht die bösen Wesen zur Ruhe bringen. Er ist für das Herz des Khalēlōlāhaka das, was für das Meer das Götterjuwel ist; nicht gleicht ihm die Sonne an Majestät, noch der Mondschein an Liebreiz. So oft er von der Schultergegend seinen Mantel wegnimmt, wird er immer wieder im Stande sein, den Menschen ihr Herz zu rauben. (60) Denn niemand dürfte wohl seine herzberückende Schönheit zu schildern vermögen; dadurch gerade wird er sicherlich in der Welt berühmt sein. Immer mit herrlichen Gewändern bedeckt und stets mit einem Diadem geschmückt wird die Sonne seiner Stirn der Nacht der Sünde ermangeln. Der hochragende, an das Himmelsrund reichende Mondschein seines Palastes wird, mit allen möglichen Edelsteinen geschmückt, in der Welt berühmt sein. In dem Lande namens Mēsra wird er König sein, das Stirnjuwel der Könige, wegen seiner Beliebtheit auch mit dem Namen Ajējamēsra benannt. Aber seine Brüder, die zwar seine wundersame Schönheit und den Aufgang seines Glückes sehen, werden doch eifrig nach anderen Perlen streben. (65) So ist es von mir bestimmt; du jedoch, der du zum Herrn der Welt gesetzt bist, gieb ihm, was du verleihen willst, falls dein Herz sich daran erfreut.“—Als er nun dies wunderbare Wort gehört hatte, faltete er die Hände und sprach voller Freude, das Haupt in Demuth geneigt: „Von der Schönheit auf dieser Welt seien vor deinem Angesichte zwei Theile diesem von mir geschenkt, den übrigen Wesen ein Theil. Niemand möge dessen Schönheit ähnlich sein; dadurch mögen die Uebrigen keinen Vergleich mit ihm aushalten können, wohl aber er mit den Anderen.“—Nachdem er diese Unterredung beendet hatte, trat er freudigen Gemüthes vor,
-
-
 
 umarmte und küsste ihn sacht auf den Mund (70) und begab sich dann, nachdem er ihn gesegnet hatte, auf die Erdscheibe; denn um die Schöpfung zu vollbringen war er abgesandt; und so schuf er die glänzende. In dieser Welt nun schlagen alle Menschen die Trommel ihres Namens, sobald sie die schönheitgeschmückte Zeitlichkeit erreicht haben. Diese aber nennen die Weisen ganz aus der Māyābestehend: durch die mannichfachen Gestalten bekommt sie Ansehen, wobei sie diese immer wieder offenbart. Bald wird diese Māyā infolge ihrer Unbeständigkeit die Zeitlichkeit als erbärmlich erscheinen lassen; bald ist diese gesegnet infolge des Gegensatzes der Geburten u. s. w.
 
  Nachdem jener, Ādama mit Namen, die Schöpfung vollbracht und aus der Welt der Menschen gegangen war, wurde sein Nachkomme, Śētha mit Namen, der Herrscher in dieser Welt. (75) Als dieser wieder in den Himmel eingegangen war, nachdem er wundersam mächtig geherrscht hatte, beschirmte dann sein Sohn, Edrēsa mit Namen, die Schöpfung. Nachdem dieser dahin gegangen war, wo nur noch der Name übrig ist, ward auf der Erdscheibe Nāuha mit Namen König, der die Unterthanen gerecht beherrschte. Als dieser zur Welle im Meere der Māyā geworden war, wurde nun der Tugendhafte, Khalēlōlāhaka mit Namen, Herrscher. Als dieser tugendhafte Fürst in den Himmel gestiegen war, wurde wiederum sein Nachkomme, mit Namen Esahāka, Herrscher. Nachdem auch dieses hohe Wesen dahin gekommen war, wo nur noch der Name übrig ist, ward auf der irdischen Welt ein Hochgemuther namens Yākōbha König. (80) In dem Lande Kanānaghōṣa sitzend, beherrschte da der Fürst von überaus mächtiger Gewalt die Länder Mēsra, Śyāma u. s. w. Umgeben von den Mengen seiner Tausende von Elephanten und Rossen erglänzte das Stirnjuwel der Fürsten, indem dieser Männerfürst solch unvergängliches Königsspiel trieb. Zwei Frauen hatte der Herrscher, versehen mit den trefflichsten Vorzügen von Schönheit und Charakter, aus edlem Geschlechte stammend, geduldig in den Thaten der Frömmigkeit und strahlend schön. Die eine von ihnen bekam elf gewaltig starke Söhne, die andere gebar nur eine einzige Perle von Kind, jenen Yōsōbha mit Namen. Nachdem so die Söhne geboren waren, fand der Erdherrscher namens Yākōbha das wahre Glück nur bei dem Sohne, der Yōsōbha hiess. (85)
 
-
-
 Diesen gerade nahm der Herr der Erde auf die Schulter und ging drinnen und draussen unaufhörlich umher, wobei er die höchste Befriedigung fand. So sehr wuchs die Liebe zu diesem Knaben, dass der Erdherrscher die anderen gleichsam als nichtgeboren betrachtete. Wie wird der Hindernisse bereitende Schöpfer diese Beiden später trennen, nachdem er sie erst durch die Māyā zu ihrer Beider Freude in Liebe so vereinigt hatte! Ach, wie ist von einem anderen, übel berathenen Schöpfer ohne Verschulden Jenes hierbei so thöricht Beistand geleistet worden!
 
  So war die Geburt, so das Glück und so die Liebe mit dem Vater, als dem zwei Jahre weniger eins alten Kinde die Mutter starb. (90) Als das Schicksal diese Unthat vollbracht hatte, ward der Oberherr namens Yākōbha dort sammt jenem Knaben bekümmert. Die andere Mutter gab ihm, trotz der Bitten des Fürsten, ihre Brust nicht, da sie in ihm das Kind der Nebenbuhlerin erblickte und im Herzen kein Mitleiden verspürte. Nachdem darauf der König vielfach überlegt hatte, gab er ihn seiner Schwester, und diese Ehrwürdige pflegte ihn in Liebe, da sie selbst keine Kinder hatte. Von Tag zu Tag zunehmend, fand er, der des glücklichen Besitzes der Mutter entbehrte, doch Befriedigung, da er diese Tante zur Mutter bekommen hatte. Durch sein lallendes Plappern und ebenso durch seinen strauchelnden Gang, wobei er hinpurzelte u. s. w. erweckte der Knabe bei ihr Liebe. (95) Die Schönäugige ward gefesselt von der Schlinge seiner Liebe und war unfähig, auch nur einen Augenblick ohne ihn zu sein. In der Nacht hätschelte sie das Kind, während sie ohne Schlaf war, und am Tage that sie keine Arbeit weiter als ihn ansehen. Auch sein Vater, der Tag und Nacht immer voller Sehnsucht nach ihm war, glaubte nicht, dass ihm irgend ein Glück durch die anderen herzerfreuenden Söhne kommen könne. Von der Sorge um ihn war er gequält, sodass die Thränen ihm den Blick trübten; er kannte selbst den eignen Leib nicht mehr und stiess immerfort Seufzer aus. Einstmals kam der Erdherrscher unter vielen Ehrenbezeugungen zu seiner Schwester, nahm seinen Sohn auf den Schooss und sprach darauf freundlich folgendes Wort: (100) „Du nur allein bist im Stande, mich mit Wonne zu erfüllen, der ich betrübt bin durch die Qual der Trennung von Yōsōbha; kein anderes Mittel giebt es. Wie du
 
-
-
 diesen Knaben unter vielen Mühen wirklich erzogen hast, so hilf auch mir, der ich von Sorgen um ihn krank bin, du Schöne. Gieb mir jetzt den wunderbar anzuschauenden Sohn zurück; ich bin nicht mehr fähig, die Qual der Trennung von ihm zu ertragen.“—Als sie dies Wort des Bruders vernommen hatte, war sie wie auf der Schaukel befindlich und sprach, nach aussen voller Liebe, drinnen aber voller Hass: „Bruder, nimm heute den gar herzerfreuenden Sohn mit; du allein bist mir immer ehrwürdig, denn in deiner Hand liegt mein Leben.“ (105) Nachdem sie so gesprochen hatte, gebrauchte sie eine schlaue List, dass der Fürst seinen Sohn nicht bekommen, aber auch den Betrug nicht merken sollte: von einem Vorfahren war ihr ein gewisses, Gewand überreicht worden, mit dem bekleidet man im Herzen von Gier befreit und auf Busse bedacht war. Dieses Gewand versteckte sie nun unter dem Kleide des Knaben, führte ihn herbei und gab Jenem seinen Sohn zurück. Als er mit vor Freude weit geöffneten Augen seinen Sohn in Empfang genommen hatte und aus ihrem Hause herausgetreten war, hörte der Fürst folgenden Ruf: „Ach, wehe! Was ist da geschehen? Jemand hat mir jenes schöne, kostbare Gewand gestohlen, mit dem bekleidet man von keiner Sünde besudelt wird!“—(110) Als er das gehört hatte, kehrte er mit dem Sohne um; die Uebrigen traten an einer Stelle zusammen, von Furcht erschreckt, und thaten einzeln, einer nach dem andern, verstörten Herzens einen Eid; er selbst that desgleichen und begann dann jenes Gewand zu suchen. Nachdem er alle Kleider hatte ablegen lassen, ohne irgendwo etwas zu finden, liess er endlich den Knaben kommen und untersuchte ihn ebenfalls. Da fand er unter seinen Kleidern versteckt das kostbare Gewand, worauf er sprach: „Das Kind hat es in seinem kindlichen Sinne gestohlen! Ich habe das treffliche Gewand wiedergefunden; der Dieb da werde gebunden, damit er nicht nochmals, von seiner Klugheit bethört, eine solche That vollbringt.“ (115) In jenem Land galt das Gesetz: wer jemanden bestiehlt, wird darauf dessen Sklave, wenn er bei dem Diebstahle gefasst wird. So machte sie durch ihre List den Knaben, der gegen seinen Willen einen Diebstahl verübt hatte, zum Scheine zum Sklaven; der Fürst aber kehrte darauf heim. Nachdem die Zarte diese höchst wunderbare That vollbracht
-
-
 
 hatte, lebte sie zusammen mit jenem Knaben, beständig froh. Endlich aber befiel durch Schicksalsfügung die über seine Erlangung Erfreute ein hitziges Fieber, und sie ging dahin, wo nur noch der Name übrig bleibt. Als der Bruder dieser Gazellenlammäugigen von diesem Geschehniss gehört hatte, kam er herbei und holte seinen herzerfreuenden Sohn wieder. (120) Nachdem er diesen geliebten, mit allen Malen versehenen Knaben zurückerhalten hatte, hielt er sich gleichsam für neugeboren und war erfreut. Was es immer für recht schwer zu erlangende, freudenbereitende Dinge auf Erden giebt und was immer in dieser Welt als wonnebringende That gerühmt wird —das alles hatte er sogleich durch seinen blossen Anblick erreicht. Wegen seiner Beliebtheit bei allen Leuten und wegen seiner unvergleichlichen Schönheit bekam er auf Erden mit Recht den Namen Ajējamēsra. Noch einen Anderen gab es dort mit demselben Namen, aber nicht denselben Vorzügen, das war der durch seinen Ruhm weltberühmte Minister eines gewissen Erdherrschers. So hatte sie das im Traume Vernommene nicht dem wahren Sachverhalte nach verstanden und hielt den Minister Ajējamēsra und jenen für eine Person. (125) Darum sagen Einige, der Traum sei von der Māyā geschaffen, wie denn jene Jungfrau, die Tochter des Männerfürsten, von ihm verblendet wurde. Bei diesem Sachverhalte trifft sie keine Schuld: ein vor Liebe Blinder hält in seiner Leidenschaft selbst Unwahrheit für Wahrheit!
 
@@ -4836,27 +4510,17 @@ V.
 
  Am andern Morgen erhob sich die Jungfrau, die alle ihre Wünsche erfüllt sah, und bekam nun ihre Besinnung wieder, nachdem sie jenen Zustand des Irrsinnes aufgegeben hatte. Durch die Unterhaltung mit ihm hatte sie alles wieder erlangt, was er ihr gewaltsam geraubt hatte: am Körper Stärke, im Leben Glück und in der Seele Besinnung. Wie eine Irrsinnige eingeschlafen, da ihr jener die Hoffuung genommen hatte, erhob sich die Jungfrau mit klarem Verstande, nachdem sie seine wundersame Anrede gehört hatte. Sobald er im Traume so wunderbar seine
 
-
-
 Heimath und seinen Namen angegeben hatte, seitdem hatte die Gazellenäugige Besinnung u. s. w. wiedererlangt. Nun rief die Schlanke die Schaar der Sklavinnen herbei und sprach: „Seid jetzt nicht mehr so in Sorge wegen meiner Irrsinnigkeit. (5) Geht heute noch eilig zu meinem Vater und berichtet ihm; macht sein von Unglück erfülltes Herz voll von Wonne! Der Herbst Besinnung ist mir da wie früher zurückgekehrt, und die Schaar der Flamingos Verstand ist wahrlich dementsprechend nach dem Mānasa Seele gezogen. Der Erdherrscher selbst möge die Fessel meiner Füsse lösen; durch die Berührung mit seiner Hand erlangt mein Herz sicherlich Wonne. Löst hurtig die aus Silber gefertigte Fessel; jetzt ist wahrlich keine Befürchtung wegen meiner Irrsinnigkeit mehr vorhanden.“—Als der Erdherrscher dieses Wort aus dem Munde der Sklavinnen vernommen hatte, kam er mit vor grosser Freude weit geöffneten Augen in ihr Gemach; (10) und als er die Jungfrau im Besitze ihrer Besinnung und frei von Tobsucht sah, zog er sie erfreut herbei und liess sie vor sich niedersitzen. Darauf entfernte der Fürst der Erde eigenhändig durch den Zauberspruch Liebe von dem Schatzhause ihrer Füsse jene Fessel, die einer zusammengeringelten Schlange glich. Da pries die gesammte Sklavinnenschaar ihr Füssepaar, nachdem sie unter die Fusssohlen eine herrliche Fussbank aus Gold gestellt hatten. Alles, was ihr früher an Fürstenherrlichkeit zugekommen war, wurde ihr wieder dargebracht, und die Freundinnen setzten ihr ein wunderbares Diadem auf das Haupt. All die Schlanken kamen dort freudeerfüllt zusammen und wurden zu Schmetterlingen in der Lampe ihres Glückes und ihrer Schönheit. (15) Unter diesen Altersgenossinnen erhob nun die Tochter des Beherrschers der Erde ihre reizende Stimme, die den Gesang der Nachtigall überbot: „Höret, Freundinnen! Ich weiss nicht, warum mein Herz voller Begierde ist, alles andere zu lassen und eine Aufzählung der Länder vorzunehmen!“—Voller Eifer zählte sie die Länder Rōma, Śyāma n. s. w. auf, die ihr von den Göttern in ihrem Zustande der Irrsinnigkeit vermittelst der Māyāgezeigt worden waren. Als sie deren Aufzählung vorgenommen hatte und zu Mesra gekommen war, benetzte sie die Erde mit den Wassern ihrer Augen wie eine Wolkenreihe. Sobald sie den Namen Mēsra genannt hatte, fiel sie wie ohnmächtig zu Bo—
-
-
 
 den, krank von der Stärke des Giftes des Namens des dort wohnenden Ajējamesra, die Treffliche. (20) Ueberwältigt von derm Liebe zu diesem zählte die Jungfrau die Länder auf; sie fand das höchste Glück, wenn sie Mēsra, Mēsra sagte. Das war Tag und Nacht die Beschäftigung der Gazellenäugigen, dass sie eifrigst seinen Namen und seine Heimath bersagte: „Diese Rede bringt stets Wonne; sein Ruhm wird von mir gesungen, nichts anderes!" — So blieb sie wie stumm, wenn etwas anderes gesprochen wurde, als wären es schlechte Erzählungen. Der Gedanke an ihn lebte in ihrem Herzen, ihn nannte ihr Mund, ihn hörte ihr Ohr, ihn sah sie überall; aus ihm bestand sie damals gleichsam.—
 
  Während die Jungfrau infolge ihrer Leidenschaft das Aussehen einer Irrsinnigen zeigte, war doch von dem Ruhme ihrer Schönheit das Erdenrund erfüllt. (25) Wo immer die rühmliche Kunde von ihrer Schönheit laut wurde, waren selbst Leute, diem ihre Sinne bezähmt hatten, wie auf der Schaukel sitzend, sobald sie dieselbe vernommen hatten. Könige und Königssöhne hängten da ihr Herz an sie; in ihren Versammlungssälen gab es ein wundersames Erzählen von ihrer Schönheit und Anmuth. Da richteten denn alle, mit allen möglichen Vorzügen versehen und reich an Ehren und Geld, ihre Gedanken auf jene Schlanke und wünschten sie zu gewinnen; und als die mit den Vorzügen der Schönheit Gezierte und in der besten Jugendfrische Stehende jenen Zustand des Irrsinnes aufgegeben hatte und wieder zu klarem Verstande gekommen war, da kamen Gesandte der Fürsten aus den verschiedenen Himmelsgegenden herbei, als Bevollmächtigte der Herrscher von Rōma, Śyāma u. s. w. und köstlich geschmückt. (30) Von zehn Beherrschern der Erde kamen die Diener in eben dieser Zahl nach der Stadt jenes hochgemuthen Tāimōsa. Unter ihnen kam einer mit einem höchst wundervollen Geschenke, bestehend aus den Dingen, die es in Ekadvīpa giebt; ein anderer wieder erlangte den Anblick der Majestät jenes Herrschers, indem er das Siegel des einen Sīlāimāna brachte; noch andere kamen, ein jeder mit einem kostbaren Gegenstande, und dachten: „Bei dessen Anblick wird jener sie gerade mir geben! Wohin auch immer die Jungfrau ihr Antlitz wenden mag, stets ist diese Gegend hienieden gefeiert als Stirnjuwel der Länder. (35) Nach
 
-
-
 welchem Fürsten das Herz der Gazellenäugigen wirkliches Verlangen hegt, der wird Oberherr der Welt genannt, wenn er auch nur Herrscher über ein elendes Dorf ist. In welcher Gegend zu wohnen die Gazellenäugige in ihrem Herzen Verlangen trägt, die wird Fürstin der Gegenden genannt, selbst wenn sie nur einem elenden Dorfe gleicht. Wenn sie in der Stadt namens Śyāma ihr Glück als Herrscherin zu suchen gewillt ist, bringen die dortigen Einwohner ihr ununterbrochen ihre guten Wünsche dar; wenn sie als bestes mit ihrer Entscheidung jenes Rōma wählt, sind die Bewohner dieser Gegend bis zur Stadt, die Jaṅghā heisst, ihre Sklaven.“—So schilderten die Gesandten der Erdherrscher, die dort zusammengekommen waren, deren Majestät ganz besonders, denn dazu waren sie abgesandt. (40) Als dies Ereigniss also eingetreten war und Jene die Kunde davon vernommen hatte, ward ihr Herz erfüllt von der Sorge, ob Jener wohl gekommen wäre. Sogleich fragte da die Jungfrau die Schaar ihrer Sklaven und Sklavinnen: „Ist auch ein Bote von Ajējamēsra da oder nicht? Das sage man mir! Die Sorge um ihn lebt beständig mir im Herzen; von der Leidenschaft zu ihm bin ich erfüllt; mein Herz schlägt ihm entgegen: was gäbe es wohl für einen Lohn ohne ihn? Wenn der Wind von Mēsra kommt und immer wieder Staub aufwirbelnd weht, meine ich, dass er wahrlich Moschus streuend herbeikommt.“—Während die Tochter des Beherrschers der Erde so von Sorgen gequält war, wurde sie, die Schönäugige, von ihrem Vater herbeigerufen: (45) „Höre, Schöne, mein Wort, welches frei von aller Bekümmerniss ist, du mit allen Malen reich Versehene, die du dem Auge Wonne bereitest. Die mit Ruhm gekrönten Fürsten, die auf dieser Welt wie Säulen dastehen; die vom Unglück nichts wissen und beständig Diademe tragen, die sind heute voll von dem Gedanken an dich und haben ihren Sinn auf dich gerichtet, indem sie den Samen der Liebe zu dir fest in dem Ackerschoosse (des Herzens) bewahren. Um deinetwillen sind von den gar hochgemuthen Erdherrschern Gesandte abgeschickt worden und mit Geschenken zu mir gekommen. Höre zu; ich will dir die Persönlichkeit der Fürsten beschreiben, wie ihre Diener sie geschildert haben; und wenn dir einer unter ihnen gefällt, Schönbrauige, dann nenne ihn mir. (50) Nach welchem Lande du wegen seines Herrschers im Herzen Verlangen
-
-
 
 trägst— im Augenblick werde ich dir denselben unterthänig machen, du Schönäugige.“—Als der Herrscher der Erde so sprach, war die Tochter des Männerfürsten still, während ihr Ohr im höchsten Grade gespannt war, von dem früher gesehenen Geliebten zu hören. Dasjenige Ohr ist das beste, welches, beständig voller Aufmerksamkeit, Kunde von dem Freunde zu vernehmen, gerade dieses besondere Wort hört.
 
  Als er nun alle jene Schilderungen seitens der Gesandten von der Majestät der Erdherrscher wiedergegeben, aber den Namen des Ajējamēsra gar nicht genannt hatte, auch keine Kunde von Mēsra zu hören und niemand von dort angekommen war, erhob sich die Jungfrau ohne Hoffnung und verliess das Auge des Vaters. (55) Die Perlenschnur der Thränen wiederum mit den Diamanten der Wimpern schneidend, klagte die Tochter des Männerfürsten sich selbst an: „Am besten wäre jetzt für mich der Tod; ja, pfui über meine Geburt! Ich weiss nicht, in was für einer Zeit ich höchst Verworfene geboren bin. Wenn eine Wolke aus dem Meere aufsteigt, die aus Nektar bestehendes Wasser regnen lässt, spendet sie wahrlich nichts als Feuer, nachdem sie zu mir Dürstenden gekommen ist. Ich weiss nicht, ob der Schöpfer nicht eine Unthat vollbracht hat: denn warum versenkt er mich Jungfrau immer wieder in das Meer des Kummers? Wenn du mir den Weg in die Nähe des Geliebten versperrst, warum hältst du mich Unglückliche immer wieder von dort fern? (60) Wenn du den Willen hast, mich zu tödten, so wisse, ich bin heute ja schon gestorben und gebe dir ohne Bedenken das Leben zurück. Falls du im Herzen Lust hast, mich wieder zu peinigen, so denke daran, dass mein wie Gras schwacher Leib am Fusse des Leidensberges liegt. Du hast mir mit dem Pfeile der Sorge den Sinn verstört: mit Recht bewirkst du nun Heilung durch die Arznei Māyā. Ob ich erfreut bin oder in Sorgen aufgehe, was hast du für Genuss davon? Was bringt es dir ein, sage, ob ich lebe oder einem Todten ähnlich sehe? Was bin ich Elende und was soll mein Leib, den du erhältst? Wenn er gar stirbt, wird dich dann Lob oder aber Tadel treffen? (65) Hunderttausendfach hast du ja sehr junge und schöne Menschenkinder in das Feuer des Todes gebracht und zu einem Aschenreste gemacht!"— Nachdem sie so den ganzen Tag gejammert hatte, war ihr
-
-
 
 Leib gleichsam zu einer blutgefüllten Knospe geworden. Die Schöne benetzte die Erde mit Thränenflüssen; mit dem Steine des Zornes spaltete sie ihr Haupt mit Ungestüm.
 
@@ -4867,17 +4531,11 @@ VI.
 
  Jene Jungfrau war damals im Herzen mit dem Male der Leidenschaft für den Geliebten gezeichnet gewesen: nachdem sie aber seinen Namen erfahren hatte, ward es verdoppelt. Für einen Tag, der keine Leuchte hat, giebt es noch irgendwo ein Licht; wo Hoffnungslosigkeit herrscht, der Tag ist ohne Lichtblick— Als der König gesehen hatte, dass ihr Herz auf Mēsra gerichtet war, sann der Erdherrscher über ein Mittel nach, um das zu erreichen: „Giebt es einen solchen Mann in der Welt, der von hier nach Mēsra ginge und durch seine Klugheit Liebe zwischen Jōlēkhā und Ajējamēsra erweckte? Der mit einer Botschaft von mir hinginge und eine solche zurückbrächte und so mit Ajējamēsra Freundschaft auswirkte?" (5) Einen ausserordentlich erfahrenen Mann fand da der König unter den Leuten seiner Umgebung, dessen Klugheit selbst die mit gewaltiger Klugheit reich Ausgestatteten immerfort priesen. Nachdem der Männerfürst diesem hundertfache Perlen von Geschenken und einen Brief eingehändigt hatte, der einen Bericht über jene Sache enthielt, entliess er ihn. Zuvor ertheilte ihm der Herrscher der Erde selbst in seiner Gegenwart folgenden Auftrag: „Sage zu Ajējamēsra diese Worte: „Deine unvergleichliche Majestät wird täglich auf Erden gepriesen; dein Name ist in der Welt berühmt wegen deiner Beliebtheit, die ganz ausserordentlich sein dürfte. Aber unser Erdenfürst besitzt eine mondantlitzige, dunkelfarbigeTochter; der Ga-—
 
-
-
 zellenträger bekommt Flecken, wenn er sich mit ihrer Schönheit misst. (10) Der Schöpfer, der sie, sein eignes Werk, zu schauen Sehnsucht bekommen hat, zeigt hunderte von Augen in Gestalt von Sternen. Ihr Antlitz hat ausser dem Spiegel niemand gesehen; mit ihrer Makellosigkeit kann der Schnee und ähnliche Dinge keinen Vergleich aushalten. Mit einem Schleier das Gesicht verhüllend blickt sie den Nektarreichen an, damit seine Strahlenbündel sie nicht versengen. Ihr Antlitz, das von Locken umgebene, zu berühren ist nicht einmal der Wind im Stande, wie sie auch nur nach dem eigenen Schatten sieht, nicht nach einem anderen. Diese vollmondgesichtige Jungfrau befindet sich stets in dem Palaste und treibt keine andere Beschäftigung als das Spiel mit Puppen. (15) Unterlegen im Wettstreite mit ihrem Wohlgeruche haben sich die Blumen an die Lianen geheftet und üben höchste Askese. Bisweilen tanzt sie drinnen mit klingenden Fussspangen aus Gold, während draussen vielfaches Lärmen seitens der Männer erschallt. Dort hat nur Zutritt die in den Toilettekünsten erfahrene Kammerzofe und bisweilen auch ihr Vater, sonst niemand. So beschaffen erscheint die erhabene, mit den Vorzügen der Schönheit und Sittsamkeit gezierte Tochter des Fürsten unter den Königen wie ein Göttermädchen, du Beherrscher der Erde. Alle Herren der Erde haben die Gedanken ihres Herzens auf sie gerichtet und gehen ganz auf in der Sorge um sie, indem sie alle anderen Beschäftigungen aufgegeben haben. (20) Um ihretwillen, Fürst, ist ein Bote des Oberherrn von Rōma und ebenso einer des in Cyāma regierenden Erdherrschers mit einem grossen. Geschenke gekommen. Aber mit keinem der vortrefflichsten unter den Männerfürsten war die obzwar von den besten Männern begehrte Tochter des Männerfürsten sogleich einverstanden. Nicht nach Rōma verlangt ihr Herz; und die Stadt, die den Namen Çyāma führt, Männerfürst, hat die Königstochter als erbärmlich erachtet. Vielmehr ist ihr Augenpaar nach Mēsra wie nach einer Wolke gerichtet; wenn sie diesen Namen vernimmt, wird sie einem Todten gleich. Ich weiss nicht, warum die Schlanke nach Mēsra voller Verlangen ist, dass sie jedes andere Glück aufgegeben hat: wieso ist derartiges wohl geschehen? (25) Wahrlich, die Jungfrau ist von dem Schöpfer aus Mēsra's Wasser oder aus dessen Erde erschaffen worden, und dessen Leben ist ihr einge-—
-
-
 
 schrieben und gegeben worden. Wenn die Zartwüchsige deinem Herzen lieb ist, König, werde ich hingehen und sie im Augenblick in deine Nähe führen; wenn die Schöne deine Geliebte nicht sein darf, dann mag diese Königstochter Sklavinnenarbeit in deinem Hause verrichten'.“—
 
  Als nun Ajējamēsra diese höchst wundersame Botschaft vernommen hatte, ward er voll grosser Freude und trug sein Haupt hoch; und nachdem er sich verneigt hatte, sprach er: „Wer bin ich und wer ist jener Herr der Erde? Wie soll ich die Sorge im Herzen tragen, die seine Botschaft mir bereitet? (30) Trotzdem erhebt mich dein König von der Erde, der noch leuchtet, wenn ich ihn mit dem Schöpfer vergleiche. Das ist nicht verwunderlich, wohl aber, dass er mich, verbranntem Stroh gleich, mit dem Regen Mitleid aus der Wolke Gnadenblick wieder beleben will. Und wenn in meinem Munde tausend kraftvolle Zungen wären, würde ich dann doch nicht fähig sein, das Lob deines Erdenfürsten zu singen. Mein Glück hat Früchte getragen und meine frommen Thaten sind von Erfolg gekrönt, weil ich heute von dem Männerfürsten mit diesem Antrage beehrt worden bin. Ich möchte dorthin gehen und immer wieder mein Haupt vor ihm neigen— aber höre, Freund, jetzt meinen Grund, der mich daran hindert. (35) Ich bin in dienstlicher Stellung abhängig und so durch meinen Herrn in Anspruch genommen, dass ich keinen Augenblick abkommen kann. Wenn ich nur einen Augenblick nach eigenem Gutdünken irgendwo weile, weiss ich nicht, für eine wie grosse Beleidigung jener mir das anrechnen würde. Aus Liebe zu mir möge mir von dem verständigen Fürsten dies Versehen verziehen werden, und durchaus kein Zweifel möge ihm aufsteigen. Wenn jetzt der Beherrscher der Erde wegen der Hochzeit verhandelt, so sollen heute von mir zweihundert Sänften aus Gold abgesandt werden; mit Miedern und Turbanen geschmückte Schaaren von Sklaven und Sklavinnen, Barden und Lobsänger, von Alt und Jung begleitet, (40) alle tugendeifrigen Grossen, die in meiner Stadt wohnen, sollen auf meinen Befehl herauskommen und jene Geliebte einholen. Aber lege dort für mich ein Wort ein, Freund und sage: ‚Der Herrscher der Erde lässt ihn nicht weg; verzeihe ihm, trefflichster der Männerfürsten!“— Als der hochgemuthe Gesandte ihn so sorgenkrank sah, sprach
-
-
 
 er folgendes besänftigende Wort, nachdem er sich vorher verneigt hatte: „Ja, Fürst der Könige, deine Herrschaft ist auf dem Erdenrunde bekannt; möge sie wahrlich wachsen, einzig gesegnet mit Frömmigkeit und Erwerb. Ebenso ist auch jener mein Beherrscher der Erde berühmt in den drei Welten: wer unter den Erhabenen wäre fähig, vor ihm seine Majestät zu nennen? (45) Oder aber wer wäre wiederum im Stande, die wie Sterne am Himmelszelte zahlreichen Schaaren von Sklaven und Sklavinnen in dem Hause dieses Aeltesten der Männerfürsten zu zählen? Wenn er, gern mit einem Kranze geschmückt, in den Saal tritt, giebt er ungezählte Perlen wie Sandkörner den Bedürftigen. Den Dienern schenkt ferner der Erdherrscher dort Kleidungsstücke und Schmucksachen ohne Zahl, wie ein Baum Blätter. Aber das ist sein Verlangen, dass er mit dir Freundschaft schliesse; nicht aber ist es sein Wunsch, deine Majestät (persönlich) zu schauen. Wiewohl nun der Beherrscher der Erde als solcher hienieden rühmlichst bekannt ist, verlangt er nur nach deinem Befehle: so befiehl denn schnell!“
 
@@ -4885,27 +4543,17 @@ er folgendes besänftigende Wort, nachdem er sich vorher verneigt hatte: „Ja, 
 
  Als das Stirnjuwel der Könige merkte, dass seine Tochter von Freude erfüllt war, da traf er für sie die Vorbereitungen zur Hochzeit. Zuerst aber liess der Herr der Erde eintausend aus Gold und Perlen bestehende Puppen zum Spielen anfertigen. Ebenso gab der Hochgemuthe tausend Slavinnen von himmlischer Schönheit; ferner eintausend Ohrgehänge aus Perlen, der treff—
 
-
-
 lichste unter den Männern; Armbänder, Spangen u. s. w. sonder Zahl und tausend mit sehr werthvollen Edelsteinen gezierte Diademe. (60) Je eintausend kostbarer Sachen liess der Gebieter der Erde vor sich ausbreiten und besichtigte die Sammlung dann selbst. Ebenso besorgte der Erdherrscher von kostbaren Pferden, Kameelen, Maulthieren und Elefanten je tausend; ferner liess der vorzüglichste unter den Königen für sie alle möglichen gar schwer zu erlangenden mit Wohlgeruch ausgestatteten Sachen herbeischaffen. Nachdem diese Angelegenheit besorgt war, befahl der beste der Herrscher erfreut darauf den zusammengerufenen Ministern persönlich: „Zimmert schnell eine göttliche Sänfte, die einem Himmelswagen ähnlich sieht; eine wunderbare, ausserordentliche, nie gesehene!" (65) Als sie dies Wort des Erdherrschers gehört hatten, verneigten sie sich wiederholt und verfertigten also eine für die Erde ganz wunderbare Sänfte: mit perlengeschmückten Pfosten versehen, reizend, mit aus Gold gefertigten Haltern, ferner sehr fest und mit hundert kleinen runden Fenstern versehen. Nachdem sie die mit hundert Wundern ausgestattete vor ihn hingestellt und ihm gezeigt hatten, war er über den Anblick selbst erstaunt. Dort hinein setzte der trefflichste der Erdherrscher jene Jungfrau mit den Puppen, die trefflichste, die immer auf das Spiel damit versessen war, da sie noch in frischer Jugend erstrahlte; von einer Schaar von Sklaven und Sklavinnen umgeben, die Schlanke, die ihren Wunsch erfüllt sah, und entsandte seine Tochter nach Mēsra. (70) So reiste Jōlēkhā, mit höchster Pracht umgeben, ab, nachdem sie sich von den Eltern verabschiedet hatte, Thränen vergiessend, die vor Freude strömten. Ebenso zogen alle Kammermädchen aus, der Jungfrau nach, nachdem sie sie angekleidet hatten, wie die Sternenhalbgötter um die Mondsichel berum; die eine reiste, auf dem Kameele sitzend, die andere zu Rosse; wieder eine andere ferner sass auf dem Elefanten, wiewohl sie selbst wie ein Elefant ging. Ebenso zogen ihre Diener dahin, auf Kameelen, Pferden und Elefanten sitzend, indem sie den Wagen des Mädchens mit den Waffen in der Hand bewachten. Von dem Klange der Lauten und Flöten, dem Schalle der Trommeln und dem schönen Tone ihrer Stimmen hallte der Himmel wider. (75) Singend und lachend und unter einander scherzend zogen sie nun freuderfüllt auf jene Stadt zu. Auch
-
-
 
 den, krank von der Stärke des Giftes des Namens des dort wohnenden Ajējamēsra, die Treffliche. (20) Ueberwältigt von der Liebe zu diesem zählte die Jungfrau die Länder auf; sie fand das höchste Glück, wenn sie Mēsra, Mēsra sagte. Das war Tag und Nacht die Beschäftigung der Gazellenäugigen, dass sie eifrigst seinen Namen und seine Heimath hersagte: „Diese Rede bringt stets Wonne; sein Ruhm wird von mir gesungen, nichts anderes!“— So blieb sie wie stumm, wenn etwas anderes gesprochen wurde, als wären es schlechte Erzählungen. Der Gedanke an ihn lebte in ihrem Herzen, ihn nannte ihr Mund, ihn hörte ihr Ohr, ihn sah sie überall; aus ihm bestand sie damals gleichsam.—
 
  Während die Jungfrau infolge ihrer Leidenschaft das Aussehen einer Irrsinnigen zeigte, war doch von dem Ruhme ihrer Schönheit das Erdenrund erfüllt. (25) Wo immer die rühmliche Kunde von ihrer Schönheit laut wurde, waren selbst Leute, die ihre Sinne bezähmt hatten, wie auf der Schaukel sitzend, sobald sie dieselbe vernommen hatten. Könige und Königssöhne hängten da ihr Herz an sie; in ihren Versammlungssälen gab es ein wundersames Erzählen von ihrer Schönheit und Anmuth. Da richteten denn alle, mit allen möglichen Vorzügen versehen und reich an Ehren und Geld, ihre Gedanken auf jene Schlanke und wünschten sie zu gewinnen; und als die mit den Vorzügen der Schönheit Gezierte und in der besten Jugendfrische Stehende jenen Zustand des Irrsinnes aufgegeben hatte und wieder zu klarem Verstande gekommen war, da kamen Gesandte der Fürsten aus den verschiedenen Himmelsgegenden herbei, als Bevollmächtigte der Herrscher von Rōma, Śyāma u. s. w. und köstlich geschmückt. (30) Von zehn Beherrschern der Erde kamen die Diener in eben dieser Zahl nach der Stadt jenes hochgemuthen Taimōsa. Unter ihnen kam einer mit einem höchst wundervollen Geschenke, bestehend aus den Dingen, die es in Ekadvīpa giebt; ein anderer wieder erlangte den Anblick der Majestät jenes Herrschers, indem er das Siegel des e i n e n Sīlāimāna brachte; noch andere kamen, ein jeder mit einem kostbaren Gegenstande, und dachten: „Bei dessen Anblick wird jener sie gerade mir geben! Wohin auch immer die Jungfrau ihr Antlitz wenden mag, stets ist diese Gegend hienieden gefeiert als Stirnjuwel der Länder. (35) Nach
 
-
-
 welchem Fürsten das Herz der Gazellenäugigen wirkliches Verlangen hegt, der wird Oberherr der Welt genannt, wenn er auch nur Herrscher über ein elendes Dorf ist. In welcher Gegend zu wohnen die Gazellenäugige in ihrem Herzen Verlangen trägt, die wird Fürstin der Gegenden genannt, selbst wenn sie nur einem elenden Dorfe gleicht. Wenn sie in der Stadt namens Śyāma ihr Glück als Herrscherin zu suchen gewillt ist, bringen die dortigen Einwohner ihr ununterbrochen ihre guten Wünsche dar; wenn sie als bestes mit ihrer Entscheidung jenes Rōma wählt, sind die Bewohner dieser Gegend bis zur Stadt, die Jaṅghā heisst, ihre Sklaven.“—So schilderten die Gesandten der Erdherrscher, die dort zusammengekommen waren, deren Majestät ganz besonders, denn dazu waren sie abgesandt. (40) Als dies Ereigniss also eingetreten war und Jene die Kunde davon vernommen hatte, ward ihr Herz erfüllt von der Sorge, ob Jener wohl gekommen wäre. Sogleich fragte da die Jungfrau die Schaar ihrer Sklaven und Sklavinnen: „ Ist auch ein Bote von Ajējamēsra da oder nicht? Das sage man mir! Die Sorge um ihn lebt beständig mir im Herzen; von der Leidenschaft zu ihm bin ich erfüllt; mein Herz schlägt ihm entgegen: was gäbe es wohl für einen Lohn ohne ihn? Wenn der Wind von Mēsra kommt und immer wieder Staub aufwirbelnd weht, meine ich, dass er wahrlich Moschus streuend herbeikommt.“—Während die Tochter des Beherrschers der Erde so von Sorgen gequält war, wurde sie, die Schönäugige, von ihrem Vater herbeigerufen: (45) „Höre, Schöne, mein Wort, welches frei von aller Bekümmerniss ist, du mit allen Malen reich Versehene, die du dem Auge Wonne bereitest. Die mit Ruhm gekrönten Fürsten, die auf dieser Welt wie Säulen dastehen; die vom Unglück nichts wissen und beständig Diademe tragen, die sind heute voll von dem Gedanken an dich und haben ihren Sinn auf dich gerichtet, indem sie den Samen der Liebe zu dir fest in dem Ackerschoosse (des Herzens) bewahren. Um deinetwillen sind von den gar hochgemuthen Erdherrschern Gesandte abgeschickt worden und mit Geschenken zu mir gekommen. Höre zu; ich will dir die Persönlichkeit der Fürsten beschreiben, wie ihre Diener sie geschildert baben; und wenn dir einer unter ihnen gefällt, Schönbrauige, dann nenne ihn mir. (50) Nach welchem Lande du wegen seines Herrschers im Herzen Verlangen
-
-
 
 trägst—im Augenblick werde ich dir denselben unterthänig machen, du Schönäugige.“—Als der Herrscher der Erde so sprach, war die Tochter des Männerfürsten still, während ihr Ohr im höchsten Grade gespannt war, von dem früher gesehenen Geliebten zu hören. Dasjenige Ohr ist das beste, welches, beständig voller Aufmerksamkeit, Kunde von dem Freunde zu vernehmen, gerade dieses besondere Wort hört.
 
  Als er nun alle jene Schilderungen seitens der Gesandten von der Majestät der Erdherrscher wiedergegeben, aber den Namen des Ajējamēsra gar nicht genannt hatte, auch keine Kunde von Mēsra zu hören und niemand von dort angekommen war, erhob sich die Jungfrau ohne Hoffnung und verliess das Auge des Vaters. (55) Die Perlenschnur der Thränen wiederum mit den Diamanten der Wimpern schneidend, klagte die Tochter des Männerfürsten sich selbst an: „Am besten wäre jetzt für mich der Tod; ja, p fui über meine Geburt! Ich weiss nicht, in was für einer Zeit ich höchst Verworfene geboren bin. Wenn eine Wolke aus dem Meere aufsteigt, die aus Nektar bestehendes Wasser regnen lässt, spendet sie wahrlich nichts als Feuer, nachdem sie zu mir Dürstenden gekommen ist. Ich weiss nicht, ob der Schöpfer nicht eine Unthat vollbracht hat: denn warum versenkt er mich Jungfrau immer wieder in das Meer des Kummers? Wenn du mir den Weg in die Nähe des Geliebten versperrst, warum hältst du mich Unglückliche immer wieder von dort fern? (60) Wenn du den Willen hast, mich zu tödten, so wisse, ich bin heute ja schon gestorben und gebe dir ohne Bedenken das Leben zurück. Falls du im Herzen Lust hast, mich wieder zu peinigen, so denke daran, dass mein wie Gras schwacher Leib am Fusse des Leidensberges liegt. Du hast mir mit dem Pfeile der Sorge den Sinn verstört: mit Recht bewirkst du nun Heilung durch die Arznei Māyā. Ob ich erfreut bin oder in Sorgen aufgehe, was hast du für Genuss davon? Was bringt es dir ein, sage, ob ich lebe oder einem Todten ähnlich sehe? Was bin ich Elende und was soll mein Leib, den du erhältst? Wenn er gar stirbt, wird dich dann Lob oder aber Tadel treffen? (65) Hunderttausendfach hast du ja sehr junge und schöne Menschenkinder in das Feuer des Todes gebracht und zu einem Aschenreste gemacht!“—Nachdem sie so den ganzen Tag gejammert hatte, war ihr
-
-
 
 Leib gleichsam zu einer blutgefüllten Knospe geworden. Die Schöne benetzte die Erde mit Thränenflüssen; mit dem Steine des Zornes spaltete sie ihr Haupt mit Ungestüm.
 
@@ -4916,31 +4564,19 @@ VI.
 
  Jene Jungfrau war damals im Herzen mit dem Male der Leidenschaft für den Geliebten gezeichnet gewesen: nachdem sie aber seinen Namen erfahren hatte, ward es verdoppelt. Für einen Tag, der keine Leuchte hat, giebt es noch irgendwo ein Licht; wo Hoffnungslosigkeit herrscht, der Tag ist ohne Lichtblick.— Als der König gesehen hatte, dass ihr Herz auf Mēsra gerichtet war, sann der Erdherrscher über ein Mittel nach, um das zu erreichen: „Giebt es einen solchen Mann in der Welt, der von hier nach Mēsra ginge und durch seine Klugheit Liebe zwischen Jōlēkhā und Ajējamēsra erweckte? Der mit einer Botschaft von mir hinginge und eine solche zurückbrächte und so mit Ajējamēsra Freundschaft auswirkte?“(5) Einen ausserordentlich erfahrenen Mann fand da der König unter den Leuten seiner Umgebung, dessen Klugheit selbst die mit gewaltiger Klugheit reich Ausgestatteten immerfort priesen. Nachdem der Männerfürst diesem hundertfache Perlen von Geschenken und einen Brief eingehändigt hatte, der einen Bericht über jene Sache enthielt, entliess er ihn. Zuvor ertheilte ihm der Herrscher der Erde selbst in seiner Gegenwart folgenden Auftrag: „Sage zu Ajējamēsra diese Worte: „Deine unvergleichliche Majestät wird täglich auf Erden gepriesen; dein Name ist in der Welt berühmt wegen deiner Beliebtheit, die ganz ausserordentlich sein dürfte. Aber unser Erdenfürst besitzt eine mondantlitzige, dunkelfarbige Tochter; der Ga—
 
-
-
 zellenträger bekommt Flecken, wenn er sich mit ihrer Schönheit misst. (10) Der Schöpfer, der sie, sein eignes Werk, zu schauen Sehnsucht bekommen hat, zeigt hunderte von Augen in Gestalt von Sternen. Ihr Antlitz hat ausser dem Spiegel niemand gesehen; mit ihrer Makellosigkeit kann der Schnee und ähnliche Dinge keinen Vergleich aushalten. Mit einem Schleier das Gesicht verhüllend blickt sie den Nektarreichen an, damit seine Strahlenbündel sie nicht versengen. Ihr Antlitz, das von Locken umgebene, zu berühren ist nicht einmal der Wind im Stande, wie sie auch nur nach dem eigenen Schatten sieht, nicht nach einem anderen. Diese vollmondgesichtige Jungfrau befindet sich stets in dem Palaste und treibt keine andere Beschäftigung als das Spiel mit Puppen. (15) Unterlegen im Wettstreite mit ihrem Wohlgeruche haben sich die Blumen an die Lianen geheftet und üben höchste Askese. Bisweilen tanzt sie drinnen mit klingenden Fussspangen aus Gold, während draussen vielfaches Lärmen seitens der Männer erschallt. Dort hat nur Zutritt die in den Toilettekünsten erfahrene Kammerzofe und bisweilen auch ihr Vater, sonst niemand. So beschaffen erscheint die erhabene, mit den Vorzügen der Schönheit und Sittsamkeit gezierte Tochter des Fürsten unter den Königen wie ein Göttermädchen, du Beherrscher der Erde. Alle Herren der Erde haben die Gedanken ihres Herzens auf sie gerichtet und gehen ganz auf in der Sorge um sie, indem sie alle anderen Beschäftigungen aufgegeben haben. (20) Um ihretwillen, Fürst, ist ein Bote des Oberherrn von Rōma und ebenso einer des in Çyāma regierenden Erdherrschers mit einem grossen Geschenke gekommen. Aber mit keinem der vortrefflichsten unter den Männerfürsten war die obzwar von den besten Männern begehrte Tochter des Männerfürsten sogleich einverstanden. Nicht nach Rōma verlangt ihr Herz; und die Stadt, die den Namen Çyāma führt, Männerfürst, hat die Königstochter als erbärmlich erachtet. Vielmehr ist ihr Augenpaar nach Mēsra’s wie nach einer Wolke gerichtet; wenn sie diesen Namen vernimmt, wird sie einem Todten gleich. Ich weiss nicht, warum die Schlanke nach Mēsra voller Verlangen ist, dass sie jedes andere Glück aufgegeben hat: wieso ist derartiges wohl geschehen? (25) Wahrlich, die Jungfrau ist von dem Schöpfer aus Mēsra's Wasser oder aus dessen Erde erschaffen worden, und dessen Leben ist ihr einge—
-
-
 
 schrieben und gegeben worden. Wenn die Zartwüchsige deinem Herzen lieb ist, König, werde ich hingehen und sie im Augenblick in deine Nähe führen; wenn die Schöne deine Geliebte nicht sein darf, dann mag diese Königstochter Sklavinnenarbeit in deinem Hause verrichten'.“—
 
  Als nun Ajējamēsra diese höchst wundersame Botschaft vernommen hatte, ward er voll grosser Freude und trug sein Haupt hoch; und nachdem er sich verneigt hatte, sprach er: Wer bin ich und wer ist jener Herr der Erde? Wie soll ich die Sorge im Herzen tragen, die seine Botschaft mir bereitet? (30) Trotzdem erhebt mich dein König von der Erde, der noch leuchtet, wenn ich ihn mit dem Schöpfer vergleiche. Das ist nicht verwunderlich, wohl aber, dass er mich, verbranntem Stroh gleich, mit dem Regen Mitleid aus der Wolke Gnadenblick wieder be- leben will. Und wenn in meinem Munde tausend kraftvolle Zungen wären, würde ich dann doch nicht fähig sein, das Lob deines Erdenfürsten zu singen. Mein Glück hat Früchte getragen und meine frommen Thaten sind von Erfolg gekrönt, weil ich heute von dem Männerfürsten mit diesem Antrage beehrt worden bin. Ich möchte dorthin gehen und immer wieder mein Haupt vor ihm neigen— aber höre, Freund, jetzt meinen Grund, der mich daran hindert. (35) Ich bin in dienstlicher Stellung abhängig und so durch meinen Herrn in Anspruch genommen, dass ich keinen Augenblick abkommen kann. Wenn ich nur einen Augenblick nach eigenem Gutdünken irgendwo weile, weiss ich nicht, für eine wie grosse Beleidigung jener mir das anrechnen würde. Aus Liebe zu mir möge mir von dem verständigen Fürsten dies Versehen verziehen werden, und durchaus kein Zweifel möge ihm aufsteigen. Wenn jetzt der Beherrscher der Erde wegen der Hochzeit verhandelt, so sollen heute von mir zweihundert Sänften aus Gold abgesandt werden; mit Miedern und Turbanen geschmückte Schaaren von Sklaven und Sklavinnen, Barden und Lobsänger, von Alt und Jung begleitet, (40) alle tugendeifrigen Grossen, die in meiner Stadt wohnen, sollen auf meinen Befehl herauskommen und jene Geliebte einholen. Aber lege dort für mich ein Wort ein, Freund und sage:,Der Herrscher der Erde lässt ihn nicht weg; verzeihe ihm, trefflichster der Männerfürsten!“—Als der hochgemuthe Gesandte ihn so sorgenkrank sah, sprach
 
-
-
 er folgendes besänftigende Wort, nachdem er sich vorher verneigt hatte: „Ja, Fürst der Könige, deine Herrschaft ist auf dem Erdenrunde bekannt; möge sie wahrlich wachsen, einzig gesegnet mit Frömmigkeit und Erwerb. Ebenso ist auch jener mein Beherrscher der Erde berühmt in den drei Welten: wer unter den Erhabenen wäre fähig, vor ihm seine Majestät zu nennen? (45) Oder aber wer wäre wiederum im Stande, die wie Sterne am Himmelszelte zahlreichen Schaaren von Sklaven und Sklavinnen in dem Hause dieses Aeltesten der Männerfürsten zu zählen? Wenn er, gern mit einem Kranze geschmückt, in den Saal tritt, giebt er ungezählte Perlen wie Sandkörner den Bedürftigen. Den Dienern schenkt ferner der Erdherrscher dort Kleidungsstücke und Schmucksachen ohne Zahl, wie ein Baum Blätter. Aber das ist sein Verlangen, dass er mit dir Freundschaft schliesse; nicht aber ist es sein Wunsch, deine Majestät (persönlich) zu schauen. Wiewohl nun der Beherrscher der Erde als solcher hienieden rühmlichst bekannt ist, verlangt er nur nach deinem Befehle: so befiehl denn schnell!" (50) Nachdem Ajējamēsra seine Einwilligung gegeben hatte, kehrte jener voller Freude mit einem bedeutenden Geschenke in seine Stadt zurück. Der Herr der Erde aber empfand Wonne, als er den Bericht aus dem Munde des Gesandten vernommen hatte und kam sich wie aus dem Gefängnisse befreit vor. Beseelt von dem Wunsche, jene Seligkeitsblüthe der Gazellenäugigen zum Aufblühen zu bringen, war da der Frühlings- monat Liebe freundlich erschienen. Im Traume war die Jungfrau ihrer Fesseln ledig geworden; durch ihren Glücksstern ward sie wunderbarer Weise in Wirklichkeit befreit. Der ist ja reich in dieser Welt, wer beständig in Meditation versunken dies All in seiner grossen Klugheit für Schein hält. (55) Wie sollte ein Verständiger einen von der Māyāgeschaffenen Traum für Wahrheit halten? Wenn man ihn gesehen hat, ohne von ihm einen gün- stigen Erfolg zu erhoffen, wird man glücklich sein.
 
  Als das Stirnjuwel der Könige merkte, dass seine Tochter von Freude erfüllt war, da traf er für sie die Vorbereitungen zur Hochzeit. Zuerst aber liess der Herr der Erde eintausend aus Gold und Perlen bestehende Puppen zum Spielen anfertigen. Ebenso gab der Hochgemuthe tausend Slavinnen von himmlischer Schönheit; ferner eintausend Ohrgehänge aus Perlen, der treff-
 
-
-
 lichste unter den Männern; Armbänder, Spangen u. s. w. sonder Zahl und tausend mit sehr werthvollen Edelsteinen gezierte Diademe. (60) Je eintausend kostbarer Sachen liess der Gebieter der Erde vor sich ausbreiten und besichtigte die Sammlung dann selbst. Ebenso besorgte der Erdherrscher von kostbaren Pferden, Kameelen, Maulthieren und Elefanten je tausend; ferner liess der vorzüglichste unter den Königen für sie alle möglichen gar schwer zu erlangenden mit Wohlgeruch ausgestatteten Sachen herbeischaffen. Nachdem diese Angelegenheit besorgt war, befahl der beste der Herrscher erfreut darauf den zusammengerufenen Ministern persönlich: „Zimmert schnell eine göttliche Sänfte, die einem Himmelswagen ähnlich sieht; eine wunderbare, ausserordentliche, nie gesehene!" (65) Als sie dies Wort des Erdherrschers gehört hatten, verneigten sie sich wiederholt und verfertigten also eine für die Erde ganz wunderbare Sänfte: mit perlengeschmückten Pfosten versehen, reizend, mit aus Gold gefertigten Haltern, ferner sehr fest und mit hundert kleinen runden Fenstern versehen. Nachdem sie die mit hundert Wundern ausgestattete vor ihn hin- gestellt und ihm gezeigt hatten, war er über den Anblick selbst erstaunt. Dort hinein setzte der trefflichste der Erdherrscher jene Jungfrau mit den Puppen, die trefflichste, die immer auf das Spiel damit versessen war, da sie noch in frischer Jugend erstrahlte; von einer Schaar von Sklaven und Sklavinnen umgeben, die Schlanke, die ihren Wunsch erfüllt sah, und entsandte seine Tochter nach Mesra. (70) So reiste Jōlēkhā, mit höchster Pracht umgeben, ab, nachdem sie sich von den Eltern verabschiedet hatte, Thränen vergiessend, die vor Freude strömten. Ebenso zogen alle Kammermädchen aus, der Jungfrau nach, nachdem sie sie angekleidet hatten, wie die Sternenhalbgötter um die Mondsichel herum; die eine reiste, auf dem Kameele sitzend, die andere zu Rosse; wieder eine andere ferner sass auf dem Elefanten, wiewohl sie selbst wie ein Elefant ging. Ebenso zogen ihre Diener dahin, auf Kameelen, Pferden und Elefanten sitzend, indem sie den Wagen des Mädchens mit den Waffen in der Hand bewachten. Von dem Klange der Lauten und Flöten, dem Schalle der Trommeln und dem schönen Tone ihrer Stimmen hallte der Himmel wider. (75) Singend und lachend und unter einander scherzend zogen sie nun freuderfüllt auf jene Stadt zu. Auch
 
-
-
 die schlanke Tochter des Beherrschers der Erde war so beglückt, dass sie das im Verborgenen ihr erwachsende Unglück nicht merkte. Nach der Sorgennacht kommt ja sicherlich den Menschen der Sonnenaufgang Freude, und die Furchtlosigkeit der Vereinigung nach der Angst der Trennung: für die Tochter des Männerfürsten aber währte sie noch ununterbrochen, sodass die Schönäugige den Tagesanbruch der Erreichung des Geliebten noch nicht sah.— Als die Tochter des Männerfürsten in die Nähe jener Stadt gekommen war, liess sie dort den Zug haltmachen, sie, die an Kraft der Klugheit Ueberlegene. (80) Während nun der Zug einen Augenblick rastete, um die Reisemüdigkeit zu beseitigen, ging der Tag zur Rüste. Am andern Morgen sandte die Tochter des Erdherrschers, nachdem sie diese eine Nacht dort verbracht hatten, einen Diener in die Nähe des Ajējamēsra: "Gehe schnell hin und überbringe jetzt eine Botschaft und sprich zu diesem Gebieter der Welt folgendes Wort:,Die Tochter des hochgemuthen Tāimōsa, namens Jōlēkhā, ist auf deinen Befehl bier eingetroffen, die magst du begrüssen“—Als der Herr der Welt dies Wort aus dem Munde des Boten vernommen hatte, hielt er sich, die Augen vor grosser Freude weitgeöffnet, für den einzigen in dieser Welt. (85) Nun liess Ajējamesra in der Stadt unter Trommelschall bekannt machen: „Alle Leute sollen, so be- fehle ich, von hier ausziehen!" — Er selbst ging mit Elefanten und Pferden in vielen tausend Mengen, nachdem er von überallher alle möglichen, auf Erden schwer zu erlangenden Sachen mitgenommen hatte, von seinen Dienern umgebeu hinaus, um jene reizende, mit allen Malen versehene Tochter des Beherrschers der Erde einzuholen. Da gingen auf seinen Befehl alle Bewohner der Stadt hinaus, reich versehen mit verschiedenen Sachen von heiligen Orten; mit mannichfachen Geschenken in der Hand; ebenso gingen hinaus alle dem Tanze huldigenden Tänzerinnen, mit allen Schmucksachen behangen und gleichsam irdische Apsarasen; (90) auf seinen Befehl zogen singend hinaus die im Gesange den Gandharven ähnlichen Sängerinnen, erfahren im Lehrbuche über das Singen; ebenso gingen aus dieser Stadt hinaus die seinem Befehle botmässigen, in mannichfachen Dingen erfahrenen Sänger, Barden und Herolde; Gaukler und Wahrsager und was es sonst noch für Zauberer gab, die zogen aus, ihm unterthan und zeigten
-
-
 
 ihre Künste. Von dem Klange der Flöten, Lauten und Trommeln ertönend erschien da dieser Zug ähnlich einem Götterheere auf Erden. Wie die Königstochter umgeben von hundert Merkwürdigkeiten gekommen war, so kam auch Ajējamēsra herausgezogen, von Freude erfüllt. (95) So kamen nun alle, die Herzen von Freude angefüllt, singend und lachend langsam in ihre Nähe. Als er nun in die Nähe gekommen war, erblickte er vor sich ein Zelt, umgeben von kleinen Hütten, ähnlich dem Oberherrn der Sterne, der von Sternen umgeben ist. Da stieg er vom Pferde, und indem er sich wiederholt in der Richtung dorthin verneigte, ging er einher, während die Härchen an seinem Leibe sich sträubten. Als die Sklaven jener Gazellenäugigen den Erdherrscher kommen sahen, gingen sie hin zur Ehrerweisung und verneigten sich frohen Herzens. Der Fürst der Erde nahm ihre Ehrerbietung an und antwortete lächelnden Antlitzes mit guten Wünschen, wobei die Zähne wie Jasmin glänzten. (100) Dann fragte er unter einer Verbeugung, die Augen vor Freude weitgeöffnet: Ihr habt doch, von weither kommend, auf der Reise keinen Unfall erlitten?“—Dann legte er vor ihnen als Geschenke die in allen drei Welten schwer zu erlangenden Sachen nieder, die er nach Gefallen mitgebracht hatte. Ebenso ehrte dann der Fürst alle ihre Diener nach ihrem Range mit Freundlichkeiten, Ehrerweisungen, Geldspenden u. s. w. Nachdem Ajējamesra diese so einzeln geehrt hatte, blieb er dort eine Nacht, während die Erfüllung seines Wunsches nahe war; und als sie diese Nacht fröhlichen Herzens mit Erzählungen hingebracht hatten, richteten sie am anderen Morgen ihre Gedanken darauf, nun in die Stadt des Erdherrschers einzuziehen.
 
@@ -4952,15 +4588,9 @@ VII.
 
  Als nun am Morgen Ajējamēsra da sich erhob, um mit allen zusammen eilig in seine Stadt zurückzukehren, da sagte die im
 
-
-
 Innern des Zeltes befindliche Jungfrau mit den Gazellenaugen, das Herz von Sehnsucht nach Jenem erfüllt, folgendes Wort zu ihrer Amme: (5) „Mutter, ersinne ein Mittel, damit ich den Geliebten sehe! Ohne ihn erblickt zu haben, besitze ich jetzt keine Kraft mehr. Wie ein Durstgeplagter, der Wasser gefunden hat, nicht leben kann, wenn er nicht davon trinkt, so wisse Mutter, geht es auch mir, wenn ich ihn nicht sehe."— Als diese sah, dass die Jungfrau Sehnsucht empfand, wandte sie eine List an, indem sie in ihrer Schlauheit in das Zelt ein Loch nur so gross wie ein Auge machte. Auf diese Weise blickte die Tochter des Erdherrschers hin; aber nachdem sie diesen Ajējamēsra gesehen hatte, stiess sie eine Fluth von Seufzern aus: „Ach, Mutter, was hat mir wenig Glücklichen der wunderlich wirkende Schöpfer Verkehrtes bescheert, was für schweren Kummer bereitet! (10) Ach wehe! Etwas Absonderliches hat das Schicksal über mich verhängt: warum stürzt die Mauer ein, ehe noch das Haus fertig ist? Das ist ja nicht jener vor aller Welt Schöne, den ich im Traume erblickt habe, und um dessentwillen, Mutter, diese Aufsuchung u. s. w. in's Werk gesetzt worden ist. Das ist ja nicht jener, der mir gewaltsam den klaren Verstand raubte und mir durch überaus wundersames Blendwerk Irrsinn erzeugte. Das ist ja nicht jener, der durch seinen blossen Anblick mich wieder zur Besinnung brachte, als ich einer Irrsinnigen glich, nachdem er seinen Namen und seine Heimath angegeben hatte. Ach wehe! Pfui über dieses mein Schicksal, welches immer des Glückes entbehrt, ebenso über meine verworfene Existenz, die von Sorge begleitet ist. (15) Nach einer Frucht verlangend bin ich auf den Kharjura-Baum gestiegen, aber ich habe keine gefunden, wohl aber habe ich eine Menge Dornen entdeckt. Nach Gefallen habe ich in die Flur meines Herzens den Samen des Glückes gesät— ach, Mutter, wie habe ich da nun die Frucht des Unglückes geerntet! Tag für Tag habe ich Elende mich um meines Schatzes willen abgemttht; nun ich ihn erreicht habe, wie bin ich da mit den Schlangen zusammengerathen! Um Blumen zu sammeln, bin ich in den Garten gegangen; ich habe keine gefunden, wohl aber ist mein Leib von Dornen verletzt worden. Ach, als ich von Sorgen krank und durstig in der Wüste mit trockenem Halse, Lippen, Gaumen und Zunge so einherging, (20) erblickte ich
 
-
-
 durch Schicksalsfügung klares Wasser; aber während ich stürzend und wiederaufstehend hinzulief, um zu trinken, da war das Wasser schlammig geworden. Wenn ich mir zum Spielen ein Häschen erwähle, wird es wiederum zu einem kraftstrotzenden Löwen. In dem von hundert Sorgenwellen erfüllten Kummermeere versunken bin ich bald emporgetaucht, bald wieder untergesunken. Wenn durch Schicksalsfügung in dem Sorgenmeere irgendwo das Floss der Hoffnung sichtbar wird, dann bin ich von Freude erfüllt und am Ziele meiner Wünsche. Einst war die im Traume genossene Nähe des Geliebten für mich von Wonne begleitet; aber sie erscheint mir heute dagegen wie eine schwarze Schlange, so oft ich daran denke. (25) Wahrlich, es giebt in der Welt keine Sorgenvolle weiter ausser mir; ebenso bin ich am meisten unter den Unglücklichen von Unglück heimgesucht. Mein Sinn ist mir heute nicht mehr botmässig; und der mir diesen Sinn geraubt hat, ist nicht zu fassen; darum schlage ich selbst die Brust mit meinen Händen. Lass jetzt deine Grausamkeit, Schöpfer, und erweiche dein Herz in Liebe: was für Ansehen solltest du wohl gewinnen durch das Zerfleischen eines Mädchens? Wenn mir das glänzende Gewand des Geliebten nicht in die Hand gegeben wird, so lass heute mein Herz nicht von einem Anderen erstrebt werden! Lass mein Gewand nicht von der Nagelspitze der Sorge darum zerrissen werden; oder gar die Besudelung durch die Berührung unserer Hände, die führe nicht herbei! (30) Ja, hebe nun heute den Fluch auf, den irgend einer früher gegen mich geschleudert hat; diese verkehrte Lage hier ist nutzlos. Versenge mir jetzt nicht mit dem Feuerbrande Liebe meinen Leib, dessen Glieder von Sorgen umgeben sind wie ein Schatz von Schlangen!“—So von Sorgen krank stürzte die Jungfrau, die Augen von Thränen gefüllt und bitterlich weinend, wie ohnmächtig zu Boden. Da hörte die Tochter des Männerfürsten folgende Stimme erschallen: „Erhebe dich, du Hocherhabene und lass deine gar trüben Gedanken! Ajējamēsra ist nicht dein Theuerer, aber ohne ihn findest du deinen Geliebten nicht: durch ihn wird dein Gatte berühmt werden. (35) Habe keine Furcht, du Schönäugige, vor der Vereinigung mit Ajējamēsra: selbst dabei wird deine Jungfräulichkeit unverletzt bleiben, du Schöne; denn er heisst zwar Mann, entbehrt aber der Eigen-
-
-
 
 schaften eines solchen; und darum, Schönbrauige, mache dir keine Sorgen über die Vereinigung mit ihm!“—Nachdem die Tochter des Gebieters der Erde dieses Wort vom Himmel vernommen hatte, erlangte sie die Besinnung wieder und war im Herzen von Staunen erfüllt. Da liess die schlanke Jungfrau das Weinen und empfand hervorquellende Freude, das Auge noch geröthet von den vergossenen Thränen. Die Tochter des Erdherrschers, die die ganze Nacht geweint hatte, erlangte nun festen Muth, indem sie gleichsam auf die Erfüllung jenes Wortes wartete. (40)
 
@@ -4971,11 +4601,7 @@ VIII.
 
 sra überaus wunderbaren Schmuck angelegt hatte, wie er der Hochzeitsfeier entsprach, begab er sich mit ihnen zur Versammlung. (5) Inmitten des Audienzsaales erglänzte er wie ein zweiter Donnerkeilträger, wundersam anzuschauen mit den Fahnen, Schirmen und Flaggen. Wunderbar war sein mit göttlicher Majestät ausgestatteter Sonnenschirm, unter dessen Schatten ein Mann zum Könige auf Erden werden dürfte. Da hielten nun seine Mannen eine Läuterungsceremonie mit Edelsteinen ab; die dabei zu Boden fielen, machten die Schätzeträgerin erst bedeutungsvoll. In diesem Augenblicke empfanden die Bewohner der Stadt grosse Wonne, und die Tänzerinnen tanzten da, kundig der mannigfaltigen Schrittarten. Ein sehr lauter Schall von Lauten, Flöten und Trommeln erhob sich, und ebenso von den Menschen, die bei jenem grossen Feste versammelt waren. (10) Hell erglänzte dort die ganz aus Wonne bestehende Stätte, bedeckt mit Elefanten und Rossen und voll von Schaaren von Fusssoldaten. Erfreut dachten dort die Diener der Jōlēkhā daran, wie die
 
-
-
 Jungfrau höchst wunderbar aus dem Zustande des Irrsinnes befreit worden sei. Auch Ajējamēsra war da von grosser Freude erfüllt, der Feindebezähmer, indem er glaubte, dass durch deren Erlangung sein eigenes Dasein gesegnet wäre. Nur die Tochter des Beherrschers der Erde allein war, in der Sänfte sitzend, unglücklich und klagte den Schöpfer an: „Ach, was ist geschehen, Schöpfer? Wenn ich doch deine Wahrheit beachtet habe, warum stürzst du mich Unglückliche noch in's Unglück? (15) Ich weiss nicht, was ich dir gethan habe, dass du mich zur Vergeltung in dem Meere des Kummers, in dem ich versunken bin, immer wieder untertauchst? Zuerst hast du mir durch einen blossen Traum das Herz geraubt; bald hast du auch vielfache Sorge über mich gebracht. Durch dich bin ich irrsinnig geworden und in Bande geschlagen worden; durch deine Gnade bin ich wieder be- freit worden, nachdem du mir die Besinnung wiedergegeben hattest. Nicht durch die eigene Klugheit, sondern auf dich gestützt, habe ich das gefunden, was ich mit der Fahrt zu dem Geliebten u. s. w. unternommen habe; aber gerade das ist mir zum Schaden ausgeschlagen. Das eine Unglück ist jetzt für mich die Aussichtslosigkeit, ihn zu erlangen; das zweite aber kommt daher, dass ich den Unterschied in der Schönheit merke. (20) Du Erbarmungsloser hast mir beständig viel Böses angethan; jetzt leiste mir Beistand und thue nicht so bald Gutes, bald Böses. Indem du mir im Traume irgend etwas Wunderbares zeigtest, hattest du mich bethört; jetzt bethörst du mich wieder, indem du sagst, ich würde meine Liebe belohnt sehen." —So war die Tochter des Beherrschers der Erde von hundert Sorgen gequält, als draussen aus dem Munde der Sklavinnen der Ruf erschallte: „Da ist um deinetwillen heute der Erdherrscher angelangt, du Schönfarbige, der seine Krieger an dem Ufergelände des Flusses Nila aufgestellt hat!“—Als die Tochter des Erdherrschers das gehört hatte, erblickte die Schönäugige nun verstörten Herzens den Männerfürsten. (25) Der trefflichste der Männer war erfreut, da er sie erblickte und vollzog darauf mit zahllosen Perlen das ārātrikam, nachdem er in goldene Schaalen eifrig Edelsteine, Perlen u. s. w. gethan hatte; und ebenso vollzogen da ihre Diener die Ceremonie der Läuterung. Von den zu Boden fallenden Edelsteinen ward da die Schätzeträgerin be-
-
-
 
 deckt, sodass die Menschenmenge nicht gehen konnte, sondern strauchelte. Ebenso erschienen dort tausendfach Feuerstrahlen, die aus der Reibung der von den Hufen der umherschreitenden Rosse getretenen Edelsteinen entstanden. Auch der eiligströmende, berühmte NIla-Strom dort war gefüllt mit Perlen und Edelsteinen, wie ein anderer mir Sand. (30) So ward die auf Erden an Schönheit unvergleichliche Tochter des Beherrschers der Erde von Ajējamĕsra unter Entfaltung der grössten Pracht eingeholt.
 
@@ -4983,15 +4609,9 @@ deckt, sodass die Menschenmenge nicht gehen konnte, sondern strauchelte. Ebenso 
 
  Wessen Herz von Sorge um den Geliebten erfüllt ist, findet niemals, sogar in allen drei Himmeln, ein Glück. Mancher vermag wohl, ein Stirnjuwel unter den Helden, im Kampfe standzuhalten, wo die Köpfe der Helden tausendfach fallen; wenn das Auge sich mit Thränen füllt und sein Blick getrübt ist, was hat es dann für Genuss von einem mit Schönheit versehenen Sterne? Wenn das Herz durch Schicksalsfügung mit dem Herzensräuber vereint ist, wird es gewiss kein Verlangen nach der Nähe eines Anderen haben. Siehe, die Motte, deren Sinn auf die Flamme der Lampe gerichtet und von Liebe dazu erfüllt ist, ist es nicht gegen das Licht der Sonne. (40) Es giebt (viele) mit Wohlgeruch ausgestattete Blumen; aber an sie verschwendet die Biene ihre Liebe nicht wie an die Blüthen der målat. So blickt der Taglotus, dessen Herz an den Strahlen der Sonne hängt, den Nektarstrahler, der den Augen Wonne bereitet, niemals an! —So fand die Königstochter damals in dem Hause des Ajējamēsra kein Glück, da sie nach dem in Schlafe erblickten Geliebten ver- langte. In diesem von einer Schaar von Sklaven und Sklavinnen erfüllten, immer frohen Hause war sie da allein wie auf einem Gemälde starr. Von Besorgniss geschreckt bewachten sie nun
 
-
-
 eifrig die mit mannichfachen Waffen versehenen, ihrer Pflicht ganz ergebenen Haremswächter. (45) So empfand die Jungfrau keinen Unterschied zwischen sich und den gleichalterigen Frauen des Harems und den Sklavinnen. Immerfort bereitete man für sie ein glänzendes Lager; die Jungfrau selbst hielt es einer Dornenstreu gleich. Vergebens war sie dort eifrig im Gespräche mit ihren Freundinnen: vielmehr verlangte ihr Wunsch nach dem Ge- nusse einer Erzählung von den Vorzügen ihres Geliebten. In deren Mitte lachte sie vorgeblich aus grosser Freude; im Herzen war sie schwer von Sorge gequält und stiess ein Jammergeschrei aus. Inmitten der Schaar der Freundinnen weilte sie mit ihrem Körper; mit dem Geiste jedoch war sie in den Gedanken an den Geliebten versunken. (50) So brachte die Tochter des Fürsten der Könige ihre Tage zu, ohne dass diese Gespielinnen von ihren Gedanken irgend etwas merkten. Indem sie reich an Donner des Jammergeschreis und mit dem Blitze der Seufzer ver- sehen war und eine Fluth Thränenregen strömen liess, kam sie einer Wolke gleich. Indem sie da mit lieblicher Stimme den Geliebten freundlich anredete, sprach sie, krank von der Trennung von ihm, das schöne Wort: „Du selbst, Herr, hast mit dem Namen Mesra deine Heimath angegeben und auch deinen Namen genannt, der dir früher wegen deiner Beliebtheit gegeben worden ist. Ich habe alles erreicht; und doch: warum ist das nun verkehrt? Warum wird mir nun dein Anblick nicht wirklich zu meiner Wonne zu theil? (55) Ich weiss heute nicht, wie lange Zeit mein Leib noch Tag und Nacht durch das sengende Feuer der Trennung von dir, Geliebter, verbrannt werden wird. Dem Frühlinge gleich bringe nun den Garten meines Herzens zum Blüthen; mit der Arzenei Liebe rette meinen Leib, der von der Krankheit Sorge befallen ist. Da ich dich nicht erreichen konnte, war früher mein Handeln gelähmt, bis es dann durch dich wieder neubelebt wurde, nachdem du deine Heimath und deinen Namen genannt hattest. Als ich das vernommen hatte, Lebensherr, da bekam ich wieder Lebensfreudigkeit; im Herzen ward ich gewiss, dass ich den Geliebten sicher erlangen würde. Wenn das Auge von Thränen gefüllt und sein Blick überall getrübt war, war das für mich das höchste Glück, dass es dich Einzigen, Besten sehen sollte. (60) Wenn ich nur einen Blick von dir be-
 
-
-
 kommen hätte, Herr, nach dem ich im Herzen verlange, würde ich ihn als unvergleichlich in dieser Welt ansehen und als den Inbegriff mannichfacher Kostbarkeiten. Deine Erlangung ist mir immerfort ein Gegenstand der Sorge; wenn ich dich Herrn gefunden habe, verlange ich nicht mehr nach einem Anderen.“— Nachdem sie so die ganze Nacht in Bestürzung zugebracht hatte, wandte sie sich am Morgen an den Wind, der, wie sie wusste, stets ungehemmten Lauf hat: „Du allein bist in dieser Lebewelt durch deine Lebenskraft für die lebenden Wesen der Gott, der ohne Anfang und ohne Untergang ist und das Rad der Wesen umdreht. Durch dich wird dies All erschaffen, durch dich wird es ja getragen; ebenso wird das Ganze beschirmt und am Ende durch die eigene Māyā verlassen. (65) Du allein bist der Beste unter den Wesen; du bist der Gewaltige, der alles durchdringt; alle Götter gehen in dir auf; du bist von allen geehrt und bringst allen Vollendung. Du betrittst ja zuerst die glänzen- den Throne der Erdherrscher; ebenso setzst du ja den Lotus deines Fusses auf deren Edelsteindiademe!“—Nachdem die Tochter des Männerfürsten zunächst den Wind, den Läuterer der Welt, also gefeiert hatte, sprach sie dort, ehrerbietig gebeugt: „Ich weiss, ausser dir wird niemand meinen Auftrag ausrichten; selten sind ja die Leute, die wie du Anderen Hilfe bringen!“— Vielfache Botschaft gab ihm nun die Tochter des Erdherrschers voll froher Zuversicht, betreffs des Aufsuchens jenes Geliebten: (70) „In allen Städten, Dörfern, Weilern u. s. w. musst du, der du nach allen Richtungen umherirrst, jenen meinen Geliebten eifrig suchen. Gehe von hier in das Land, das den Namen Khutana führt, und sieh nach meinem Theueren; in dem Schatzhause trefflicher Schönheiten namens Çyēna schaue nach ihm. Ueberall nämlich zeigt er sich, da er immer rastlosen Fusses ist; bringe ihn für mich her, indem du dieses meines Zustandes gedenkst. Vielleicht erblickst du meinen Theueren in einer Karawane, den niemandem in der Welt Gleichen, mit allen Malen Gezeichneten. Aus ihrer Mitte hole ihn allein heraus und zeige ihn mir leibhaftig, Freund; oder vielmehr— das wird er allein sein! (75) Wenn infolge des Anblickes jenes Wunderbaren mein Herz zufrieden gestellt ist, dann will ich glauben, dass die Blume der Hoffnung durch Götterfügung aufgeblüht ist.“—Nachdem sie
-
-
 
 vergeblicher Hoffnung voll und die Augen mit Thränen gefüllt den Windgott sich langsam erheben gesehen hatte, begab sich die Jungfrau in den von den Sklavinnen geschmückten Audienzsaal, der nicht geringer war als der Himmelspalast, und weilte in eitler Freude unter den Gespielinnen.
 
@@ -5004,11 +4624,7 @@ vergeblicher Hoffnung voll und die Augen mit Thränen gefüllt den Windgott sich
 
  Die Kenner der Vorzeit, die in mannichfaltigen Erzählungen bewandert sind und das Meer der Bücher durchfahren haben, be- richten aber von folgender weiteren Geschichte: Von Tage zu Tage nahm jener auf Erden an Schönheit Unvergleichliche, Wahrheitsagende, Zornbesieger, Mitleidsvolle, Liebling der Menschen mit Namen Yōsōbha zu, der ausserordentlich Verständige, und erweckte nun vor den andern Söhnen bei dem Vater jene tiefe Liebe. Sein Erzeuger meinte, durch diesen Sohn allein beglückt
 
-
-
 zu sein, indem er dagegen die anderen elf herzerfreuenden Söhne vernachlässigte. In Gesellschaft mit jenem einzigen, einem Götterknaben ähnlichen Sohne verbrachte er, Yākōbha mit Namen, beglückt seine Tage. (5) In dem Hofe jenes Yükōbha, der also hinlebte, stand ein sehr grosser Baum, der göttliche Kraft besass. Er gewährte immer alle Wünsche; stets zeigte er Blüthen und Früchte; beständig ward er von den Göttern geehrt, einem irdi- schen Wunschbaume vergleichbar. An ihm erglänzte fortwährend eine lautere Menge von Schösslingen, gleichsam eine treffliche Reihe von Zungen, die Schaar der Vorzüge des Sambhu zu nennen. Das war die Schönheit des Baumes: so oft dem Yākōbha ein Sohn geboren wurde, wuchs in demselben Augenblicke je ein Zweig; und wenn jener sah, dass sein Sohn den Fuss etwas in die Jugend gesetzt hatte, händigte er ihm einen schönen Speer, aus dessen Zweige gefertigt, ein. (10) So gab der Erdherrscher jedem einzelnen seiner Söhne je einen schönen Speer, der daher stammte; ausser dem Sohne, der Yōsōbha hiess. Ein solcher war da für diesen nicht angemessen, wenn er auch noch so gepriesen war, und wiewohl bei dessen Geburt an jenem Baum ein neuer Zweig gewachsen war. Einstmals kam der ausserordentlich schöne Yōsōbha in der Nacht zu seinem Vater und sprach bedächtig das freundliche Wort: „Vater, vollbringe um meinetwillen die gewaltigste Bussübung und hole dadurch schnell aus ' dem Himmel einen glänzenden Speer herab, um ihn mir als Glücksbringer zu übergeben. Von der Kindheit bis zum Alter wird dieser trefflichste in meiner Hand befindlich mir immer das Un- glück fernhalten, Herr. (15) Durch seine Hilfe werde ich im Kampfe allein das Stirnjuwel aller Helden sein und von den Brüdern hienieden geehrt werden."— Als jener, Yakōbka mit Namen, dies Wort seines Sohnes vernommen hatte, fasste er aus Liebe zu dem Knaben seinen Entschluss und stimmte um dessentwillen den höchsten Gott günstig. Da kam der Götterbote namens Jṛbhrayēla herbei mit einem göttlichen Speere, den Viśvakarman verfertigt hatte. In jenes Gegenwart erzählte der Hochgemuthe, Allsehende, der Bezwinger seiner Sinne, die ganze Kraft jener trefflichen Waffe: „Bei ihrem Anblicke giebt es nirgends Furcht vor feindlichen Wesen u. s. w.; es fliehen die Räuber und Feinde. (20) Nicht quält ihren Träger Hunger, Krankheit, Sorge -
-
-
 
 oder auch Alter; wisse, dass sie die festeste Säule des Königspalastes bildet.“ —Als der hochgemuthe Götterbote nach diesen Worten verschwunden war, nahm der Herr der Erde diesen Speer und gab ihn Jenem; und nachdem der Starke den göttlichen, alles mögliche Gelingen verleibenden bekommen hatte, zerschmetterte er den Rücken seiner Feinde. Seine Brüder alle waren voller Neid, da sie jenen kostbaren Speer sahen, und wenn sie auch voll Furcht auf ihn blickten, hegten sie doch böse Gedanken. Er aber, der die Liebe seines Vaters besass und aller Feindschaft ledig war, nahm keinen Unterschied zwischen sich selbst und seinen Brüdern wahr. (25)
 
@@ -5016,23 +4632,15 @@ oder auch Alter; wisse, dass sie die festeste Säule des Königspalastes bildet.
 
  Einstmals, als der überaus Kluge nachts in der Nähe des Vaters weilte, ward sein Geist vom Schlafe übermannt; sein Vater aber, von der Fessel der Liebe zu ihm gebunden, blieb ganz wach und blickte dessen geliebtes Antlitz an. Im Schlafe nun brach der ausserordentlich Schöne mit Namen Yōsōbha zweimal in liebliches Lachen aus, womit er den Vater bezauberte. Im Augenblick darauf erwachte er, nachdem er den Schlaf genossen hatte und war über das wundersame Gesicht im Traume von Staunen in seinem Herzen voll. (30) Da fragte der Vater den Knaben erstaunt: „Warum hast du im Traume gelacht? Was hast du Merkwürdiges gesehen?" —Jener erwiderte darauf: „Vater, ich habe im Traume etwas Merkwürdiges gesehen und weiss nicht, welche Bedeutung das haben mag. Ich sah alle Planeten, die Sonne u. s. w., sammt den Sternen und Zodiakalbildern mit knospenförmig zusammengelegten Händen sich vor mir verneigen, Vater.“— Als der Vater das gehört hatte, sprach er: „Kind, sei still und erzähle deinen Traum auf mein Wort hiu niemandem weiter! Vielleicht erzählen sonst deine Feinde den wunderbaren Traum, den du gesehen und der dir die Königs-würde verspricht, sodass dann der Erfolg anders werden könnte. (35) Deine Brüder, die dir Tag und Nacht feindlich gesinnt sind und im Herzen böse Gedanken hegen, würden den Traum mit seiner Bedeutung nicht mehr ertragen.“—Wie der für sein Wohl besorgte Vater sein Wort gesprochen hatte, so beachtete
 
-
-
 der Knabe es klug einige Zeit. Einige Tage darauf drang es aber in die Oeffentlichkeit: ein Wort, welches in vier Ohren ge- drungen ist, wird gelegentlich des Schlafes verrathen. So sagen die Dichter: „Wenn man lange leben will, lege man das Wort des Herzens nicht etwa in die Hand und gebe es fort. Den lauteren Flamingo des trefflichen Wortes, der aus dem Käfige des Mundes entronnen ist, verletzt alsbald die Katze Bösewicht mit dem Hiebe der Kralle Schlechtigkeit." (40) Als die Brüder alle den Inhalt jenes Traumes von den Leuten heimlich hier und da erzählen hörten, glaubten sie den Grund seiner Beliebtheit bei dem Vater entdeckt zu haben: „Warum hat der Edle irgend eine unedle That ausfindig gemacht, um uns, verblendet von der Liebe zu dem Einen, jetzt alle so zu vernachlässigen? Wir wissen nicht, was jetzt dieser Vater in seinem Kopfe hat, dass er, blind vor Liebe, unseren Kummer nicht sieht, der aus dieser Nichtbeachtung erwächst. Oder hat etwa der Yōsōbha eine schwere Bussübung vollbracht, kraft deren der Vater ihn auch nicht einen Augenblick verlässt? Warum fühlt er, dessen Leib durch das Alter gebrechlich geworden ist, das Schwinden seines Körpers nicht in der Liebe zu jenem und nicht auch, wenn die Stützen unserer Arme ihn stützen? (45) Doch nein! Die aus den früheren Thaten stammende, unabwendbare Vorstellung, die mit Glück und Unglück verbunden ist, geht in dieser Welt vor uns her. Oder ist er vielleicht von dem Schöpfer verblendet worden, der ihm den dichten Schleier der Maya über die Augen geworfen hat, so dass er gut und böse nicht mehr unterscheidet? Oder ist der Verstand des Alten geschwunden, dass er den Knaben für sich erwählt und nun in seiner Verblendung uns, die Burgvogte des Reiches, vernachlässigt? Nicht jener allein soll die Königswürde geniessen: auch wir haben Antheil daran! Was hält der Vater ihn gerade für einen guten Sohn und nicht auch uns Andere?" So sprachen sie alle, krank vor Sorgen, untereinander und richteten ihre Gedanken darauf, ein Mittel zu finden, um jene Liebe zu ertödten. (50) Diese Bösewichte aber fragten alle gleichgesinnte Andere, wie die Liebe jener Beiden schnell gauz ertödtet werden könnte. Wenn ein selbst für einen erfahrenen Mann schwieriges Werk zu thun ist, dann muss man die Kraft fremder Klugheit zu Hilfe nehmen, um das
 
-
-
 Werk glücklich auszuführen; wenn durch eine einzige Lampe im Hause keine Helligkeit erzielt wird, müssen noch mehr be- sorgt werden, um die Dunkelheit zu beseitigen. Sie beriefen also nun ihre Freunde, Bekannten und Verwandten, die immer auf Unrecht ausgingen und Mordlust, Zorn und andere Eigenschaften besassen, hielten einst eine Versammlung ab und sprachen, nachdem sie sich dort niedergelassen hatten, die überaus Mäch- tigen, alle voller Feindschaft, einzeln ihren Spruch. (55) Unter ihnen sprach einer das grausame, sündhafte Wort: „Ich sehe nichts Erspriessliches weiter ausser seine Ermordung. Nachdem wir ihn von hier in den Wald geführt und heimlich in der Erde vergraben haben, sind wir von der Besorgniss vor dem Feinde befreit und unserer Qual ledig."— Ein Anderer sprach, als er die Worte dieses Hartherzigen vernommen hatte: „Wenn die Beseitigung des Knaben ohne Verbrechen geschicht, bringt sie keinem lebenden Wesen Unheil. Wir wollen vielmehr das Kind durch List ein Pferd besteigen lassen; wenn es dann dahineilt, wird es auch jenen abwerfen und tödten. Wir brauchen dann der Furcht keinen Raum mehr zu geben und haben auch keinen Antheil an einem Verbrechen." —Ein anderer Verschlagener sprach, als er das gehört hatte: (60) „Wenn wir so an dem Knaben dieses Mittel der Tödtung anwenden, dann ist das hinwiederum eine sehr grosse Sünde und Grund zum Vorwurfe: was ist der Nutzen davon? Ein anderes Mittel ist jetzt anzuwenden, dass jene Beiden, Vater und Sohn, die so ausserordentliche Liebe hegen, getrennt werden. Wir wollen den sehr zarten Knaben weit weg in einen furchtbaren Wald führen, voller Geier und Schakale, erfüllt von Dämonen und Schlangen, und reich an Wasser, Bäumen, Lianen, Gras und Sträuchern, dort wird das Kind zurückgelassen; wozu brauchen wir da wohl einen Mord? Dann geht dieser schwache Knabe, von Hunger und Durst gequält und in jener Einöde alleingelassen, von selbst in den Tod ein. (65) Lasst euer überaus reines Schwert nicht besudelt werden von dem rothen Blute, welches wie ein voller Fluss aus seinem Körper strömt."— Ein Anderer, an Klugheit ganz besonders Mächtiger, sprach unter ihnen folgendes Wort zur rechten Zcit, nachdem er Jenes Rede vernommen hatte: „Aber seine Tödtung mit dem Schwerte ist nur einen Augenblick sehr schmerzbaft, der Tod durch Hunger
-
-
 
 und Durst jedoch treffe niemanden!" —Als dieser trefflichste unter den Verständigen nach diesen Worten schwieg, sprach ein Anderer, von Mitleid erfüllt, bedächtig das Wort: „Suchet weit von hier oder auch in der Nähe einen Brunnen: nachdem wir das Kind dort hineingestossen haben, wird uns das höchste Glück zu theil werden. (70) Wenn er sich dort befindet, wird ihn durch Schicksalsfügung eine dürstende, nach Wasser suchende Karawane finden und ihn aus dem Brunnen ziehen. Dann wird der Herr der Karawane den Knaben aus Mitleid an sich nehmen und zu seinem Sklaven oder Sohne machen; davon bin ich fest überzeugt. Und wenn dann jener von dem Herrn der Karawane zum Sklaven gemacht worden ist, dann haben wir alles vom Vater, Königswürde u. s. w. in unseren Händen.“—Als sie das gehört hatten, hielten alle, die Augen vor grosser Freude weitgeöffnet, dies Wort für treffend und beschlossen, es auszuführen. Nachdem nun alle Brüder diesen festen Entschluss gefasst hatten, gingen sie ein jeder in seine Behausung, sobald sie ihre Freunde verabschiedet hatten (75).
 
  Glücklich sind diejenigen Menschen, in deren Herzen zweierlei nicht lebt: Egoismus und der gar schwer zu ertragende Stolz, der aus der Jugend entspringt. Selten sind in dieser Welt der Lebenden die Männer, die auf alles mit gleichen Augen schauen, von Gier und Zorn frei sind und im Gedanken an Śiva aufgehen. Schwer zu finden sind die Menschen, die die ganze Welt dem Blendwerke eines Traumes gleich erachten und immer in Andacht versunken sind: sie leben beseligt! Allgemein verbreitet auf Erden sind diejenigen, die der Gier nach irgend etwas ergeben sind und über Recht und Unrecht immerfort wie über ein und dieselbe Sache denken. Die elenden Männer, die immer vom ärgsten Egoismus erfüllt und in ihrem Denken von Feindseligkeit geblendet sind, das sind auf Erden die wahren Weiber. (80)
 
  Am anderen Tage gingen die Brüder alle zusammen zu ihrem Vater, entschlossen, den begonnenen Anschlag auszuführen. Nachdem sie sich verneigt, ehrerbietig vor ihm das Haupt gebeugt und mit dem Knie den Erdboden berührt hatten, begannen sie heuchlerisch die glatten Worte: „Höre jetzt eine Mittheilung, Vater! Da wir immer zu Hause sitzen, hat unser Herz Lust zur Jagd bekommen, Fürst der Könige. Mit jenem Knaben, unserem
-
-
 
 Bruder namens Yōsōbha, den wir wie unser Leben schätzen, wollen wir heute aufbrechen und bitten um deine Erlaubniss. Wir wollen ihm den ganzen Wald zeigen, bedeckt mit Gras und Lianen, erfüllt von Gazellenund Vogelschaaren, geziert mit mannigfachen Bäumen. (85) Wir werden das Innere des Waldes durchstreifen, indem wir jenen sehr zarten Knaben bald auf die Schulter nehmen, bald auf das Pferd oder den Elefanten setzen. Dort werden wir viele Gazellen und ferner Hasen erlegen, sodass die Bogen- kunde, die wir erlernt haben, mit Erfolg gekrönt sein wird, Herrscher der Menschen. Nachdem wir recht wundersamen Scherz getrieben und ihm jenen Wald gezeigt haben, werden wir schnell zurückkehren; so gieb uns deine Einwilligung, Bester der Männer!" —Als der Oberherr der Menschen diese ihre Rede vernommen hatte, antwortete er, da er die Trennung von ihm nicht ertragen konnte und im Herzen durch die Sorge um ihn beunruhigt ward: "Ihr Kraftvollen alle mögt hingehen, um eine Jagd abzuhalten; dieser Knabe jedoch mit seinem zarten Körper versteht sich nicht darauf. (90) Im Walde giebt es vielfach Gefahren durch die wilden Thiere; das Knäbchen ist nicht im Stande, die Furcht bei deren Anblick zu ertragen. Dann aber besitze ich auch nicht die Kraft, einen Augenblick ohne diesen schönen Sohn von sehr zartem Körper zu bleiben, der mein Alles in dieser Welt ist." —Als sie dies Wort nun gehört hatten, überlegten sie eifrig in ihrem Sinne und sprachen dann bedächtig, alle mit knospenartig zusammengelegten Händen: „So lange wir am Leben sind, wird er nirgends irgendwie Furcht vor Löwen oder Tigern haben; da brauchst du keine Angst zu haben!"— So gab der Männerfürst, dessen Liebling jener Sohn war, ohne Argwohn die Erlaubniss, mit jenem Yōsōbha zusammen cine Jagd abzuhalten. (95) Als aber die Bösewichte diese Erlaubniss bekommen hatten, waren sie im Herzen höchst erfreut und hielten den früher beschlossenen Anschlag gleichsam für schon ausgeführt.
 
@@ -5041,23 +4649,15 @@ Bruder namens Yōsōbha, den wir wie unser Leben schätzen, wollen wir heute auf
 
  Pfui über den erbärmlichen Gott, welcher zweierlei nicht vermag einen Unglücklichen mit Glück zu überschütten und einen Glücklichen immerfort glücklich zu machen. Was ist das für eine Klugheit des Schöpfers, dass die Brüder jenes ausserordentlich
 
-
-
 Schönen namens Yōsōbha diesen erst in einen Brunnen werfen mussten, um selbst glücklich zu werden!—
 
  Darauf nahmen jene mit seiner Erlaubniss den jüngsten Bruder mit und verliessen alle die Stadt, um die Jagd abzuhalten, indem die Besten unter den Mächtigen den Knaben vor den Augen des Erdherrschers liebkosten, damit der König thörichten Sinnes von ihrer Gewalthat nichts bemerkte. Bald nahm einer von ihnen jenen lieblich Anzuschauenden, der seine Absicht nicht merkte, auf die Schulter und wollte mit ihm sich entfernen; (5) ein An- derer umarmte ihn und küsste ihn sanft auf den Mund, sodass es der Vater sah, dem er dadurch eine eitle Freude bereitete. Nach aussen voller Liebe, innen aber nur ihrem Zorne gehorchend, riefen sie vielfach Segenswünsche über ihn, wie „Heil! Lebe!" Nachdem sie so durch verstellte Freundlichkeit den Oberherrn der Menschen getäuscht hatten, führten die Bösewichte ihn auf einem weiten Wege in eine grosse Einöde. Da setzten sie ihn von der Schulter herab und liessen ihn zu Fuss gehen; sie gaben ihr liebevolles Herz auf und verwundeten ihn mit harten Worten. Auf dem bösen Wege voll spitzer Dornen führten ihn da mit seinen lotusähnlichen Füssen seine neiderfüllten Feinde einher. (10) Mit Faustschlägen und Fusstritten schlugen sie immer wieder lachend und freudeerfüllt den Weinenden, traurig Blickenden. Er mit einem Herzen, weich von trunkener Liebe, sie von grausamer Sinnesart; der Knabe ehrerbietig geneigt, sie von Feindschaft beherrscht. „Wo ist heute dein Vater, der, durch die Liebe zu dir in seinem Verstande gänzlich geblendet, sich um dich allein kümmerte und uns immer vergass? Heute noch werden wir dich tödten; wir haben keine Furcht vor dem Vater! Oder wir werden dir aus Zorn Hände und Beine u. s. w. abschneiden!“—Unter solchen Drohungen gegen jenen Zarten, Sündlos en waren alle voller Freude, da sie durch die Maya des Viṣṇu verblendet waren. (15) Da nun jener, Yōsōbha mit Namen, bekümmert deren erstaunliche Grausamkeit des Herzens sah, überlegte er tief unglücklich: „Warum hat der Schöpfer, der schlechte Schöpfer, mir dieses Böse angethan? Oder warum hat er die Liebe bei den Freunden ganz unterdrückt, nachdem er sie, erst geschaffen hatte? In der Ferne weilt der weise Vater, der mich sorgsam beschützte: bei wem soll ich in meinem tiefen Leide heute Zuflucht nehmen?
-
-
 
 Wie soll dort mein Vater, da er so weit entfernt ist, von meinem Missgeschicke erfahren? Kein Freund ist da, der hinginge und mit ihm spräche; der ihm das Wort in's Ohr sagte, wie er es gehört: einen solchen Freund habe ich nicht. Das aber ist ganz verzweifelt, dass meine Brüder mich tödten wollen!" (20) —Nun kamen Jene mit dem also betrübten, jämmerlich weinenden, schuldlosen Knaben in die Nähe des Brunnens. Man berichtet von diesem Brunnen, dass es gleichsam ein zweiter Andhakupa[^2] ¹) war, sehr tief, unergründlich und bis in die Tiefe der Hölle reichend; grausig, den Donner übertönend durch den aus der Mitte aufsteigenden Windzug; immer mit Sträucher und Schlinggewächsen bedeckt und voller umherkriechender Schlangen. Nun banden sie den Sohn des Männerfürsten recht fest mit Stricken, nahmen ihm die Kleider weg und warfen ihn froh da hinab. Der Brunnen aber erstrahlte allenthalben von seinem Glanze; und trotz der Dunkelheit ward da ein leuchtender Anblick gewährt. (25) Der Glanz Glänzender wird ja nirgends ausgelöscht: schädigt etwa die Finsterniss der Nacht die aufgehende Sonne? In diesem Augenblicke gedachte der Hochbetrübte mit Namen Yōsōbha der starken Rettung der Rettungsbedürftigen, des höchsten Gottes: „Wenn Vater und Mutter, Freund und Bruder und andere Ver- wandte nicht fähig sind, uns zu schützen, dann bist du, Herr, der Schutz der Schutzlosen!" Da schuf der Allherrscher Sambhu, der gnädige Liebling der Menschen, der Mächtige, durch die Maya inmitten jenes Brunnens eine Steinbank und rettete durch einen Blick sogleich den haltlos Stürzenden: was vermöchte er nicht, dessen Macht unergründlich ist? (30) Dann kam, von ihm abgesandt, mit einem schönen Gewande der oben genannte Götterbote und sprach das Wort: „Erhebe dich! Erhebe dich! Segen über dich ! Wenn du dieses göttliche Gewand anziehst, quält dich nirgends Todesfurcht, Hunger oder Durst. Lass, lass jetzt die Sorge fahren, denn der höchste Herr ist dir guädig gesinnt; durch ihn selbst, den Retter der Betrübten, bist du beschützt worden. Wie du durch böse Fügung dieses gar schlimme Unglück erlitten hast, so wirst du nach wenigen Tagen beständiges Glück erlangen. Sei stark, du Verständiger, und lass dein Herz nicht furchtsam
 
 [^2]: " Eine Art Hölle."
 
-
-
 werden! Nachdem du deine Feinde durch deine Tugend überwunden hast, wirst du sicherlich König werden.“ (35)—Als jener Götterbote nach diesen Worten verschwunden war, weilte der verständige Sohn des Männerfürsten dort, indem er im Herzen an den Herrn der Götter dachte. Drei Tage lang war der Mondschein der Welt in jenem Brunnen, wie der durch Klug- heit geschaffene in der reizenden Stadt namens Nāṣabha; am vierten Tage ward dann der Knabe, der den Augen des Erdherrschers Wonne bereitet hatte, durch den wunderthätigen Herrn herausgezogen. Auf Befehl des Schicksales und auch von dem guten Sterne jenes geleitet, kam eine nach Wasser verlangende Weltkarawane auf ihrer Suche an jenen Brunnen. Von Hunger und Durst gequält irrte diese Karawane, die den Weg verloren hatte, in jenem Walde umher, indem sie hier und dort ihn suchte. (40) Da traf mit ihnen ein Mann namens Khejra, bekannt unter dem Namen Varuṇa, zusammen und führte sie in dessen Nähe. Während nun die Karawane mit ihm zusammen sich nach dem Brunnen begab, kam auch der Götterbote zu dem Sohne des Erdherrschers und sprach bedächtig: „Erhebe dich, erhebe dich, Bhārata! Dein Glück ist erblüht, du Guter; nun lass die Sorge, die aus deinem schweren Unglück erwächst. Heute noch kommt eine durstige Karawane zu dem Wasser und holt Wasser aus dem Brunnen, indem sie einen Lederschlauch hinablässt. Dahinein musst du schnell treten; dann wird man ihn, mit deiner Last beschwert, herausziehen in der Meinung, er sei mit Wasser gefüllt.“ (45) Als er nach diesen Worten sich entfernt hatte, wartete der Sohn des Männerfürsten auf seinem Platze voller Sehnsucht auf die günstige Gelegenheit. Endlich liess irgend jemand aus der Karawane in der Absicht, Wasser zu schöpfen, einen Lederschlauch hinab, und eiligst trat jener dahinein. Als der Fourier der Karawane merkte, dass es sehr schwer sei, sprach er bedächtig, das Herz von Staunen erfüllt: „Der Eimer ist jetzt ordentlich schwer; gewiss ist irgend ein kostbarer Gegenstand darin." So zog er ihn erfreut langsam aus dem Brunnen und erblickte nun einen mit ausserordentlicher Schönheit ausgestatteten Knaben. (50) Durch den Schöpfer langsam aus der Finsterniss des Brunnens herausgezogen erstrahlte der in dem Eimer sitzende Knabe wie der junge Mond. Erfreut nahm der Diener schnell den
-
-
 
 wundersamen Knaben und zeigte ihn darauf vor den Augen des Herrn der Karawane. Auch dieser ward höchst erstaunt, als er diesen Knaben nun erblickte; und die ganze Menschenmenge der Karawane überlegte eifrig also: „Wer ist das und wessen Sohn? Oder von wem ist er in den Brunnen geworfen worden?“—So erschallte die Karawane allenthalben von lautem Getöse.
 
@@ -5065,11 +4665,7 @@ wundersamen Knaben und zeigte ihn darauf vor den Augen des Herrn der Karawane. A
 
  Der Herr der Karawane, der einen so wundersamen, mit glück verheissenden Malen versehenen Sklaven gewonnen hatte, begab sich nun nach Mesra, der an Frömmigkeit reiche. (65) Einige Tage darauf aber kam der berühmte, mit höchster Pracht ausgestattete Führer der Karawane in die Nähe der Stadt. Sobald der Beherrscher des Landes Mesra die Kunde hiervon ver-
 
-
-
 nommen hatte, sandte er seinen Minister zur Begrüssung ab, der nun in seine Nähe kam; und sobald Ajējamēsra den Herrn der Karawane und seine Begleiter begrüsst hatte, zog er mit ihm zusammen in die Stadt ein. Er verneigte sich vor dem Oberen der Karawane und fragte ihn, wie ein Freund den Befreundeten: „Gott sei Dank, dass du heute wohlbehalten angelangt bist, du Liebeshort. Erzähle, Lieber, ob du heute eine kostbare Waare mitgebracht hast; ich nehme dir das alles ab, mag es gut sein oder auch nicht." (70) Darauf antwortete der Herr der Karawane, als er diese seine Worte vernommen hatte: „König, ich habe mannigfaltige himmlische Kleinodien mitgebracht; so auch einen an Schönheit auf Erden unvergleichlichen Sklaven, den ich für eine ausserordentlich hohe Summe gekauft habe und den nur der Herr der Welten so hat schaffen können. Durch dessen Schönheit besiegt hat Kāma gewiss die Körperlosigkeit angenommen! Ja, diesen halte ich für die einzige Perle unter den Menschen, du Männeroberherr. Die Menschen empfinden nicht solches Wohlgefallen an der Auffindung eines Schatzes, dem schönen Gesange der Nachtigall, dem Nektarstrahler im Herbste, dem Lallen eines Kindes, dem Moschus, ja, auch nicht an der Oberherrschaft über den Himmel, wie an seinem Anblick. (75) Wie von einem Zauberer vermittelst seines Blendwerkes ist von ihm dies All hier bethört worden vermittelst seiner holden Rede, seines reizenden Lächelns, seiner Seitenblicke u. s. w. Einem einzigen Blicke aus seinen beweglichen Augen gegenüber erscheint die ganze Erde als ein sehr geringer Preis, Erdherrscher!“—Als Ajējamēsra diese wundersame, zutreffende Schilderung seiner Schönheit vernommen hatte, entliess er ihn in seine Wohnung, in Gedanken ganz bei Jenem. Sobald der hochgemuthe Herr der Karawane nach Hause gekommen war, sagte er darauf zu dem Sklaven, den er für sein Geld gekauft hatte: „Auf, du Glücklicher! Bringe jetzt schnell deinen von Staub verunreinigten Körper durch Vornahme des Badens u. s. w. zu gefälligem Aussehen!" (80) Da ging der Knabe auf dessen Befehl nach jenem Flusse mit Namen Nila und säuberte seinen Leib, indem er dahineintauchte. Ja, wiewohl der Lotusse entbehrend, erglänzte da der schnellfliessende Strom doch von solchen infolge des Glanzes des Gesichtslotusses jenes. Durch den Königssohn mit seinem weissen Leibe, der in
-
-
 
 ihn untertauchte und im Wasser umherschwamm, einem Königs- flamingo vergleichbar, erstrahlte er. Nachdem der Knabe das Bad beendet hatte und aus dem Wasser an das Ufer gestiegen war, erglänzte er, mit himmlischen Gewändern angethan, in ausser- ordentlicher Schönheit. Als er aber seinen Leib schnell mit den schönsten Schmucksachen geschmückt hatte, begab er sich darauf zu dem Herrn der Karawane und verneigte sich vor ihm; (85) und dieser, der ihn in so grosser Schönheit erblickte, fasste den Entschluss, den um einen ganz geringen Preis Erstandenen für viel Geld zu verkaufen. So setzte ihn denn der Herr der Karawane, der sich trefflich auf sein Geschäft verstand, in eine Sänfte und brachte ihn zu dem Beherrscher von Mēsra. Als er ihn mit solcher Freude ihm zugeführt und dessen in dieser Welt so schönen Leib daraus wieder hervorgeholt hatte, stellte der Schlaue, der ganz auf die Wahrung seines Vortheils bedacht war, den auf der Welt an Schönheit Unvergleichlichen, ehrerbietig geneigt, jenem vor. Da der Schutzherr der Erde den in Glanz gehüllten schönen Knaben aus der Sänfte steigen sah, hielt er ihn für einen zweiten Sonnengott; (90) und alle, die den also gestalteten, wundersam anzuschauenden Liebling erblickten, waren hocherfreut und im Herzen von Staunen ergriffen. Inzwischen verbreitete sich allenthalben, von den Leuten jenes (Karawanenführers) erzählt, die ganze Geschichte dieses Schönen, Edelgeborenen. Die Bewohner jener Stadt richteten ihre Gedanken auf seinen Namen, den Bericht von seinen Vorzügen und die Erzählung von ihm und gingen ganz in ihm auf; manche auch betrachteten den Trefflichsten, nachdem sie ihn auf einem Gemälde dargestellt hatten; Andere, deren Sinne ganz auf ihn gerichtet war, indem sie im'Herzen seiner gedachten.
 
@@ -5080,29 +4676,17 @@ XI.
 
  Während diese gewaltige Wendung im Leben jenes Knaben geschah, wusste sie, die Tochter des Fürsten der Erde, nichts von dieser Thatsache. Ueber die Trennung von ihm wie irrsinnig geworden, irrte die herzberückende Jungfrau nur leicht bekleidet
 
-
-
 beständig von Ort zu Ort. Einst kam die Tochter des Beherr- schers der Erde in die Nähe der Stadt, und als sie eingetreten war, hörte sie ein gewaltiges Lärmen der Menschen. Von Erstaunen ergriffen fragte sie, die mit ihren Augen selbst die Gazellen bezauberte, immer wieder den Schwarm ihrer Gespielinnen, was das wäre. (5) Auf ihren Befehl ging eine Kammerzofe schnell hin, um sich zu erkundigen; und nachdem sie die ganze Geschichte erfahren hatte, kam sie wieder. Darauf erzählte die Dienerin, als sie zurückgekehrt war, jenes Geschehniss mit dem Sklaven, welches das Herz in Freude versetzte, vollständig, von Anfang an, wie es sich damit verhielt. Nachdem das Mädchen, worum es sich handelte, gehört hatte, empfand sie ein unerklärliches Wonnegefühl und sandte wiederum zwei Begleiter ab, um den Knaben herbeizuholen. Als sie nun diesen einzigen, lieblich blickenden Knaben gebracht hatten, erblickte sie selbst, in ihrer Sänfte sitzend, den Geliebten. Bei dem Anblicke dieses mit unerhörter Schönheit und Anmuth Geschmückten ward da die Tochter des Erdherrschers im Augenblicke höchst entzückt. (10) Da die Hochgeehrte ihn sah, vergass sie den Kummer, der aus der Trennung entstanden war, und hielt da erst ihren Geburtstag für einzig gesegnet. Sie merkte, dass ihr Geist bei klarer Be- sinnung war, aber doch war sie voller Sorge: denn das Herz der Menschen ist Zeuge der Erlangung von günstigem und ungünstigem Erfolge. „Ist denn das wohl jener vor aller Welt Schöne, den ich im Traume gesehen habe? Wie soll ohne diesen Geliebten mein Herz wieder gesund werden können?“ Nachdem sie einen Augenblick also überlegt hatte, stiess sie eine Fluth von Seufzern aus und stürzte bewusstlos zu Boden, als hätte sie eine neue Trennung erlebt. Inzwischen führte der Herr der Karawane den Sklaven, bei dessen Anblick den Bewohnern der Stadt das Herz wegen seiner Schönheit geraubt worden war, in sein Haus zurück. (15) Da blickte die Amme die langängige Königstochter bedächtig an, und da sie diesen vorher nie gesehenen Zustand bemerkte, ward sie bestürzt und sagte zu ihr: „Nun, nachdem du heute durch den Anblick dieses Knaben für einen Augenblick ein wenig glücklich geworden warst, bist du dann in Ohnmacht gefallen: sage schnell an, Schöne, warum du in dem Meere des Kummers versunken bist.“—Als die Verständige deren Wort
 
-
-
 gehört hatte, antwortete sie: „Ich weiss, Mutter, dass meine Tage bisher so voll Kümmerniss dahingegangen sind, jetzt aber erscheinen sie mir von Wonne begleitet. Jener Sklave des Herrn der Karawane, den du hier in Mesra gesehen hast, ist der Gebieter meines Lebens, den ich einst im Traume erblickt habe. (20) Durch die Feuerflamme der Trennung von ihm bin ich beständig verbrannt worden; wisse, Mutter, dass er mein gar schwer zu erreichendes Alles auf der Welt ist. Nachdem er mir seine weltbezaubernde Schönheit gezeigt hat, ist mir nun mit einem Schlage meine ganze Besinnung genommen. Ich weiss nicht, wie er mich durch irgend ein Blendwerk zu einer Irrsinnigen gemacht hat, sodass ich allen Verwandten entfremdet worden bin. Was immer du beständig an mir Denkwürdiges erlebt hast, Mutter, das alles habe ich um seinetwillen, von der Liebe hingerissen, auf mich genommen. Sei überzeugt, dass es jetzt für mich in jeder Beziehung der höchste ersehnte Gewinn ist, wenn ich den ausserordentlich Schönen, mit allen Vorzügen Begabten, erlange. (25) Das weiss ich freilich nicht, wie mein Werk gelingen soll oder wie ich den Gebieter erreichen soll, der vor meine Augen getreten ist. Wer ist die beglückte Schlanke auf dieser Welt der Lebenden, die diesen gar herzerfreuenden Geliebten erlangen und beständig geniessen wird? Oder welche Schönäugige, deren fromme Thaten damit ihren Lohn finden, wird jetzt mitten an seiner lieblichen Brust ruhen? Das weiss ich nicht, Mutter. Wer ist die Beglückte, die beständig seinen Mund, die wie im Rausche trägen Augen und die Bimbalippen ansehen und dadurch ihr Dasein zur vollen Befriedigung führen wird? Wer ist die beglückte Liebende, die jetzt auf dem von den Strahlen des Kaltstrahlers gekühlten Hausdache mit ihm zusammen weilend das höchste Glück geniessen wird?" (30) Als die Jungfrau mit infolge der Trennung sehnsüchtigem Herzen so sprach, antwortete ihr die Amme bedächtig, indem sie die Stolze nun ehrte: „Habe heute noch Geduld, Tochter, für einige Zeit, wie bisher; mühelos ge- lingen die Anschläge des Geduldigen. Durch Geduld erlangt man alles, was immer man im Herzen wünscht; stets fröhlich und er- hobenen Herzens sind die Menschen, welche Geduld besitzen. Es giebt für die auf Erden Weilenden keinen anderen Schmuck als geduldiges Ertragen: durch Geduld werden sie in der Welt ge-
-
-
 
 ehrt; durch Geduld kommt die Sonne zum Aufgang. Schönhüf- tige, sie wird von den Dichteru gefeiert als Himmelsleiter: darum magst auch du dich geduldigen! Schönbrauige, auf mein Wort: das Schicksal wird daraufhin das ganze Vorhaben schnell zum Ziele bringen." (35) Als die Königstochter dies ihr Wort vernommen hatte, war sie erfreut und kehrte heim, in der Ueberzeugung, dass der Geliebte in ihre Hand gegeben sei. Der Augenblick allein ist zu preisen und diejenigen Tage sind die besten, wo der Freund stets voller Wonne ist über die Nähe des Freundes! Wenn die Fackel der Liebe des Geliebten angezündet worden ist, dann schädigt die Finsterniss der Trennung nie und nirgends mehr das Auge.
 
  Am anderen Tage nun brachte der Gebieter der Karawane den Sklaven zum Verkaufe auf den Markt und setzte einen hohen Preis für ihn fest. Als die Bewohner der Stadt von diesem Beginnen hörten, kamen sie alle eilig mit Geld versehen herbei, um jenen Sklaven zu erstehen. (40) Da erzählt man von einer merkwürdigen Begebenheit: unter dem Schwarme der Bewohner der Stadt kam auch eine alte Frau, die nur aus Haut und Knochen bestand und von so buckliger Gestalt, wie man sie selten findet, mit einem Knäuel von Stricken in der Hand herbei, um dort den Sklaven zu kaufen, durch dessen Vorzüge ihr Sinn bethört worden war. Als diese zu den Leuten sagte, dass sie den Sklaven er- stehen würde, und diese lachten, antwortete ihnen die Alte stammelnd: „Ich bin nicht im Stande, den so sehr werthvollen, in der Welt berühmten Sklaven zu kaufen: das allein ist ja mein Gewinn, dass ich gekommen bin, ihn mitzunehmen!“—Inzwischen liess der Herr der Karawane unter Trommelschall in der Stadt, den Dörfern und Flecken bekannt machen, dass der Edelgeborene verkauft werden sollte: (45) „Wer reich ist und jenen ausserordentlich schönen Sklaven zu kaufen Lust hat, möge schnell herbeikommen und ihn erstehen. Es gab ja noch niemanden auf dem ganzen Erdenrunde, der ihm ähnlich wäre; noch wird es jemand geben, der so ganz das Herz entzückt durch die Fülle der Schönheit.“—Als man den Ton der Trommel gehört hatte, kam eine Menge von an Ansehen und Geld stets überreicher Menschen zusammen, um jenen wundersamen Sklaven zu kaufen. Unter ihnen sprach einer: „Ich gebe ihm als Kaufsumme ein bhadram; dann bekomme
 
-
-
 ich den vor aller Welt schönen Sklaven.“— Ein bhadram aber heisst das, wo die des Zählens Kundige eintausend Goldmünzen rechnen. (50) Um diesen Preis gab der Kaufmann, der sich darauf verstand, den höchst werthvollen, mit einem Uebermasse von Schönheit versehenen Sklaven nicht hin. Darauf bot ein Anderer das Doppelte davon, aber auch das nahım der Kaufmann nicht der ganz gehörig darauf bedacht war, seinen Vortheil im Auge zu behalten. So bot ein Anderer das Dreifache davon, ein anderer das Vierfache; und so stieg dadurch der Preis da auf das Hundertfache. Bis zu einem Wachsthume in das Zehntausendmillionenfache kam der Preis, aber auch dafür gab der Gebieter der Kaufleute den Sklaven nicht hin. Nun liessen alle Bewohner der Stadt sammt dem Beherrscher von Mesra jene Hoffnung auf ibn fahren und gingen ein jeder in seine Behausung. (55) Als die Geliebte des Ministers des Beherrschers von Mesra diesen Hergang hörte, hatte sie allein, die Schönfarbige, ihre Sache gewonnen. Sie liess ihre alte Sorge fahren, holte freudig Ajējamēsra herbei, der immer ihren Befehlen botmässig war, und sprach das Wort: Gehe schnell in die Nähe des Herrn des Landes, beuge ehrerbietig die beiden Kniee zur Erde und melde ihm hurtig: „Da ich kinderlos bin, soll dieser dein Diener mein Sohn werden. Wenn du diese Erlaubniss ertheilst, erstehe ich deinen Sklaven von dem Kaufmanne." Sobald du die Zustimmung des Gebieters der Erde erlangt hast, dann sage zu dem Herrn der Karawane: „Ich will heute den höchst werthvollen Sklaven von dir erstehen!" (60) Einen wie hohen Preis der auf seinen Vortheil sehr bedachte Kaufmann auch fordern wird, zahle ihm den- selben sofort, ja auch das Doppelte. Um das Geld mache dir keine Sorge: in diesem meinem Schatzhause sind Kleinodien sonder Zahl wie die Sterne am Himmelszelte. Wenn du mich lieb hast und auf das Wohl deiner Liebsten bedacht bist, dann bringe mir schnell jenen Sklaven, um mein Herz zu ergötzen. Wenn ich diesen Sklaven, der das Herz erfreut, erlangt habe, dann will ich mein Dasein für gesegnet und sorgenfrei halten.“—Nachdem er zu dem Auftrage der Gazellenäugigen ja gesagt batte, führte er, erfreut über ihre Ansprache, alles sorgfältig aus; (65) und sobald er für eine hohe Summe den Sklaven des Herrn der Karawane bekommen hatte, brachte er den Schönen
 
-
-
 und stellte ihn vor die Schönbrauige. Da überlegte die Verstän- dige, als sie durch den Anblick jenes Liebesgottgleichen ihren Wunsch erfüllt sah, das Auge gefüllt mit einer Fluth von Freudenthränen: „Ach, ist dies das Blendwerk eines Traumes oder sollte es die Wahrheit sein, dass ich heute den auf Erden schwer zu erlangenden lieblich Anzuschauenden sehe? Das hoffte ich nicht mehr in meinem Herzen, dass die lang währende Trennungsnacht noch einmal den Aufgang der Sonne des Geliebten sehen werde. Nun bin ich unerwartet durch die Erreichung des Geliebten beglückt worden, der da noch erstrahlt, selbst wenn mein Herz ihn mit dem Schöpfer vergleichen will. (70) Früher gab es ausser mir in der Schöpfung keine Unglückliche weiter; jetzt keine Liebende, die so beglückt wäre wie ich, selbst wenn sie ihre Wünsche erfüllt sieht. Nachdem ich verschmachtend in der von der Sonne der Sorge versengten Wüste Trennung des Verstandes heraubt umhergeirrt war, ist heute durch den stets wunderthätigen Schöpfer, den barmherzigen, vermittelst des Nektarregens Erlandemgung des Geliebten—dem Himmel sei Dank!— mein Durst gelöscht worden. Nachdem ich auf einem menschenöden und lichtlosen Pfade gewandelt war, habe ich jetzt durch Schicksalsfügung, infolge des Aufganges meines Glückssternes, das höchste himmlische Licht gefunden. Auf dem Todtenbette ausgestreckt und in tiefen Schlaf verfallen bin ich, ich weiss nicht, um welches Verdienstes willen— vom Schicksale wieder auferweckt worden. (75) Heil dem Herrn der Karawane! Möge ihm immer Gewinn beschieden sein, er, der diesen schönen Sklaven zum Verkaufe her- gebracht hat! Was ist es wohl für ein Verlust, wenn ich den Sklaven um eine hohe Summe gekauft habe? Das Geld der Reichen heisst erst Geld, was um des eigenen Ichs willen ausgegeben wird. Von Liebe Freie behalten immer eifrig ihr Vermögen u. s. w.; Verliebte geben Leib, Geld und alles auf Erden für den Geliebten hin. Pfui über die auf Erden tadelnswerthen Menschen, deren Verstand von Habgier geblendet ist und deren Geliebter eben das Geld, aber kein Freund Gegenstand der Liebe ist.“—So von Erstaunen erfüllt und die Augen vor Freude weitgeöffnet glaubte damals die Tochter des Männerfürsten, sie habe das höchste Glück gefunden. (90) Indem sie in Liebe seinen Gesichtslotus immer wieder anblickte, sank sie in Ohnmacht;
-
-
 
 dann wieder bekam sie ihre Besinnung wieder durch die erquickende Vereinigung mit ihm. Wie die durch die Trennung von ihm schwer kranke Jungfrau beständig von Sorgen erfüllt einen einzigen Augenblick einem Weltalter vergleichbar gefunden hatte, so hielt nun die Tochter des Beherrschers der Erde in ihrer Freude ein Jahr für einen Augenblick, nachdem sie ihren lotusäugigen theuren Geliebten gefunden hatte. Verneigung dem Schicksale, dem Horte allerneuster Wunder, dem ungeborenen, welches mächtig waltet, indem es das All durch die von der Māyāgeschaffenen Zustände bethört!
 
@@ -5115,23 +4699,13 @@ XII.
 
 ya's, von sehr zartem, untadligem Körper und hochberühmt in jenem Lande. Schlank, die Augen wie der Vollmond, in frischer Jugend blühend; mit Zähnen, die Perlen nacheiferten und mit Lippen wie reife Bimbafrüchte; (5) in der Taille fein, durch die Brüste gebeugt, mit Augen wie die einer erschreckten Gazelle; von trägem Gange infolge der Last der Hüften; mit tiefliegendem Nabel und herzberückend; mit Sittsamkeit, Tugend und edlem Anstande war die ganz besonders Schöne ausgestattet; wahrlich eine Herrin, die auf Erden gleichsam eine Fahne des Liebesgottes werden sollte. Beständig weilte die Jungfrau, begleitet von ihren Gespielinnen, in dem Palaste, aber sie fand niemand, der ihr an den Vorzügen der Schönheit u. s. w. gleich gewesen wäre. Als sie nun die allenthalben von den Leuten besprochene Geschichte Jenes hörte, empfand auch sie, das Herz von Sehnsucht erfüllt, das Verlangen ihn zu sehen. Wenn das Herz an einem Orte etwas Merkwürdiges hört, von dem die Trefflichen immer wieder viel Rühmens machen, dann empfindet es sogleich Sehn-
 
-
-
 sucht, es auch zu sehen. (10) Nachdem sich die beste unter den Frauen also mit Schmucksachen geschmückt hatte, begab sie sich unter dem höchsten Pompe nach Mēsra, um jenen zu sehen. Da wollten alle Einwohner von Mēsara sie gewinnen, indem ihre Herzen beständig von ihrer Schönheit und Anmuth bezaubert waren. Mit eintausend Kamelen und ebenso vielen Maulthieren und Elefanten, beladen mit Korallen, Edelsteinen, Perlen und auch Gold, kam sie dort an und empfand ebenfalls Lust, jenen auf Erden an Schönheit Unvergleichlichen mit Namen Yōsōbha zu kaufen. Von Männern und Frauen entstand da überall in der Stadt infolge ihrer Ankunft wiederum ein gewaltiges Getöse. (15) Die Schön- farbige fragte die Volksmenge, sobald sie angekommen war, nach Nachrichten über ihn: „Erzählt mir, um wie viel jener Sklave des Kaufmannes feil ist! Ich bin heute hier angelangt, mit dem grössten Reichthume ausgerüstet und voller Sehnsucht nach seiner Schönheit, nachdem ich alles, Verwandte u. s. w. verlassen habe.“—Während die Jungfrau noch den Wunsch hegte, ihn zu sehen und auf dem Wege dahinschritt, zeigte ihr das Volk jenen mit den Worten: „Das ist er!“—Als sie nun den lotus- äugigen, auf Erden keinem Anderen ähnlichen Geliebten zum ersten Male sah, war sie über seine Schönheit hocherstaunt; wie ohnmächtig stürzte sie zu Boden, nachdem sie den Beispiellosen erblickt hatte; und als sie das Bewusstsein langsam wiedererlangt hatte, sprach sie mit lieblicher Stimme: (20) „Ich weiss es: nachdem der Schöpfer tausende von Geburten hindurch in der gehörigen Weise Bussübungen vollbracht hat, hat er sicherlich diesen unter dem Namen des Siegers Berühmten, mit Aufbietung aller Kraft geschaffen: wie könnte dessen Sohn zum Sklaven werden? Wenn du ein Göttersohn, von einem anderen Gotte entstammend, bist, warum weilst du dann auf der Erde, nachdem du den mit aller möglichen Wonne gefüllten Himmel aufgegeben hast? Wenn du der Sohn eines Gandharven bist, so ist ein solcher stets sangesfroh: aber man hört aus deinem Munde auch nicht ein Wort infolge deines Stolzes! Ich glaube, dein Leib ist von dem Schöpfer in seiner Weisheit unter Verschmähung der fünf Elemente nur aus seiner eignen Vorzüglichkeit geschaffen worden. (25) Oder vielmehr, durch welche Bussübung hast du den höchsten Herrscher gnädig gestimmt, dass du diese herrliche
-
-
 
 Gestalt bekommen hast, wodurch diese Welt hier verblendet ist? Ach, aus dem edlen Geschlechte irgend jemandes entsprossen bist du Gesegneter, Ebenmässiger, der du die Wonne der Tugendhaften bist, gleichsam die trefflichste Perle!“—Als der Hochgemuthe diese ihre Worte vernommen hatte, antwortete er, sie gleichsam belehrend, nachdem er wie ein Yōgin durch den Blick der Entrückung ihren Sinn erkannt hatte: „Ich bin kein Gott, kein Gandharve, kein Dämon und auch kein Schlangenhalbgott; wisse, Glänzende, dass mein Leib aus den fünf Elementen besteht. Das ist nichts Sonderbares vom Schöpfer, dass es in der Welt überall vielfach ausserordentlich wunderbare Kostbarkeiten giebt: darunter habe ich nichts zu suchen! (30) Das ist ja die Klug- heit der Klugen, die den höchsten Segen bringt, dass sie beständig an Śambhu denken, den Unendlichen, Allgestaltigen. Dieses All, was man hier sieht, erfüllt von mannigfachen Wundern, das, wisse, ist gleichsam ein Spiegelbild in dem Spiegel des Bhava. Wie der Geist, der irgend etwas im Spiegel abgespiegelt sieht, darauf- loseilt, um immer wieder darüber Klarheit zu gewinnen, so denken die Verständigen allein an Śambhu, nachdem sie, Schönbrauige, gesehen haben, dass alles, Bewegliches und Unbewegliches in der Welt, nur aus der Māyā besteht. Wenn dein Sinn, Schönhüftige, nach dem Anblicke von Schönheit verlangt, dann betrachte als einzige Zuflucht in deinem Herzen den sinnberückenden trunkenen Gott. (35) Was hast du für eine Wonne dabei, wenn du meine vergängliche Schönheit ansiehst? Darum blicke die beständige, allgegenwärtige des Sambhu an, du Schönbrauige!“— Als sie dessen Worte vernommen hatte, war sie von ihrer Verblendung frei und verneigte sich sogleich immer wieder vor seinem Fusslotus. Dann liess sie jene kostbaren Elefanten und jenen Reichthum, die Schlanke, that ein braunes Gewand an und ging, am ganzen Körper mit Asche bestreut und der Liebe zu ihren Angehörigen ledig, als Bettelnonne in den Urwald, um Busse zu thun. Durch das Baden an heiligen Wallfahrtsplätzen ward ihr Leib nun geläutert, und ihr Herz ward fleckenlos, gereinigt durch die Gelübde kṛechra, atikṛechra und parāka. (40) Die Schönfarbige ward so stark in der Selbstbeherrschung, dass alle grossen Asketen vom höchsten Erstaunen erfüllt wurden. Als die Angeschensten unter den Büssern, die sich selbst belehrten, von deren
 
-
-
 trefflichem Opfer hörten, da priesen sie die Schönhüftige; und nachdem sie durch den Unterricht dieser Gazellenäugigen die höchste Festigkeit erlangt hatten, waren die Starken doch nie im Stande, ein solches Werk zu vollbringen. Sie that solche Busse, dass sie die gewaltige Macht des Indra gewann; selbst nicht in hunderten von Jahren wäre man fähig, das irgendwie zu beschreiben. So schlägt ja bisweilen die Leidenschaft der Verliebten zum Guten aus; ebendieselbe bringt aber bei Leuten von thörichtem Sinne bisweilen Unglück. (45) Nun ward das weitausgebreitete, langfädige, durch Schicksalsfügung mit dem glücklichen Fange jenes Flamingo gezierte Netz des Glückes der Tochter des Tāimōsa, nach allen Seiten hin wahrhaft glänzend, mit dem Siegel seines Namens versehen, zu der wahren Weltediktsurkunde. Als die Liebliche jenen Geliebten, den Hort höchster Liebe, da erreicht hatte, war sie nun von der Sorge des Daseins befreit. Sie zählte in ihrer Freude nun die Tage des Jahres zusammen, liess sich, die Verständige, schnell ebenso viele Gewänder anfertigen und brachte dann die Tage zu in höchster Liebe zu ihm, indem sie ihn immer ein ganz neues Kleid anlegen und ausziehen liess. (50) So ganz in die Huldigung durch Essen-und Trankdarreichung versunken, hielt damals die Jungfrau ein Jabr für einen Augenblick. Einen Augenblick im Palaste befindlich, einen Augenblick mit dem Geliebten zusammen, einen Augenblick draussen oder drinnen hielt sie da für das böchste Glück. Von der Liebe zu ihm in ihrer Ueberlegung blind drückte sie entzückt das von ihm getragene und dann abgelegte Gewand an ihren Busen und sprach: „Ach du Gewand, warum erlange ich den reizenden Leib nicht, den du bedeckst? Warum habe ich es nicht so gut wie du, dass ich auch seinen ganzen Leib umarmen kann?“—Die trefflichste Frau war so allerwege versunken in die Liebe zu ihm, dass sie nirgends auch nur einen Augenblick ohne diesen ihren Geliebten bleiben wollte. (55) Der Schatten verlässt diesen Leib in der finsternissgefüllten Nacht: aber Tag und Nacht hing sie an ihm und folgte ihm auf dem Fusse. Das sehr feste Band der Liebe zu ihm, welches die Gazellenlammäugige knüpfte—das zu beschreiben dürfte kein Mensch in der Welt im Stande sein. Einst brachte sie durch List den vor allen Menschen Schönen in das Haus und fragte ihn, nach einer Unterredung mit ihm
 
-
-
 verlangend, nach der Geschichte seiner Geburt. Er aber antwortete ibr lächelnden Antlitzes mit folgenden Worten: „Wahrlich, ich kenne die Geschichte meiner Geburt und meine Eltern nicht, aber ich weiss eine höchst wundersame Geschichte mit einem Brunnen; in dessen Finsterniss weilte ich drei Tage ohne Nahrung. (60) Am vierten Tage wurde ich von einem frommen Kaufmanne aus demselben herausgezogen und bin durch diese seine Gnade zu einer hohen Stelle gelangt." Als sie aus seinem Munde nun dieses sie überaus rauh berührende Wort vernommen hatte, fühlte die Trefflichste unter den Frauen am ganzen Körper ihre Härchen sich sträuben. Bebend stürzte die Schönfarbige in demselben Augenblicke zu Boden; und als die Jungfrau allmählich die Besinnung wiedergewonnen hatte, empfand sie heftigen Schmerz. Die Amme, die sie in diesem Zustande und wiederum von Sorgen erfüllt erblickte, sprach darauf, das Herz blind vor Liebe, mitleidig das Wort: „Ach, Schönbrauige, warum ist dein Gemüth betrübt wie durch eine Trennung? Was für eine Sorge entstand heute in deinem Sinne? Deine Liebe ist doch jetzt gesegnet? (65) Früher, du Schöne, war dein Leib einem trocknen Blatte vergleichbar und wurde von dem Winde Trennung nach allen Richtungen umhergewirbelt. Bald mit dem Gesicht nach vorn, bald mit dem Gesicht nach unten fallend ward er mit Mühe und Noth vom Schicksale gefestigt; und nun ist er wieder zum Auslöschen gekommen! Was hat das zu bedeuten?“—Als die Verständige diese ihre Worte vernommen hatte, entgegnete die Jungfrau bedächtig, indem sie wiederholt seufzte: „Wie soll ich denn die schwere Kümmerniss schildern, Mutter, die ich erlebt habe? Die Erde ist beglückt, mich zu tragen; ich allein bin beglückt, dieses zu tragen. Wie Staub bin ich für lange Zeit wahrlich auf die Erde gefallen; jetzt plötzlich bin ich von dem Wirbelwinde der Sorge hin und hergeweht worden. (70) Dieser mein Liebling hat jetzt die Geschichte von dem Brunnen erzählt; und da ich sie gehört babe, bleibt mir gar keine Kraft mebr übrig. Niemand weiter kennt das Herz des Herzensfreundes, wie es damit steht, als der Freund: wenn er beglückt ist, fühle ich Wonne, dagegen Kummer, wenn er bekümmert ist. Bei welchem Verliebten das Herz durch die Trennung von dem Freunde durchlöchert ist, durch dieses Fenster wahrlich sieht er ibn immer
-
-
 
 wieder. Gewiss, die Liebe des Majñōna und Lāilāgilt als die höchste; und sie kann man nicht anders bezeichnen als die zwischen Leib und Seele. Als sie nun an ihren Arm ein Schröpfmesser anlegte, um sich zur Ader zu lassen, floss aus der Hand Majñōna's reichlich Blut. (75) Wenn der Leib gequält wird, dann ist auch die Seele krank; und wenn sie von Sorgen aufgewühlt wird, beginnt auch der Körper gehörig abzumagern. Zu wem ein Mann in seinem Herzen in Leidenschaft entbrannt ist, bei dem kann er nicht einmal den vom Winde getriebenen Staub ertragen, der auf dessen Kleider fällt. Nachdem ich die von ihm früher erlebte Geschichte mit dem Brunnen in der Erzählung habe berichten hören, Mutter, bin ich jetzt darüber voller Kümmerniss.“— Als die Amme ihre Worte vernommen hatte, entgegnete sie ehrerbietig: Wahrlich, Schöne, lass dein Gemüth nicht beständig von Sorgen beladen sein!“—Nachdem auf deren Geheiss die Jungfrau in ihrem mitleidigen Herzen Festigkeit gewonnen und jene Sorge wieder hatte fahren lassen, ward sie froh. (80) Infolge der Leidenschaft für ihn war die Tochter des Erdherrschers bald voller Wonne, bald voller Kümmerniss; aber der Treffliche merkte das durchaus nicht.—
 
@@ -5142,27 +4716,15 @@ XIII**
 
  Als nun das Mädchen darauf merkte, dass sein Herz liebeleer, ihr eigenes aber so liebereich war, gerieth sie in Erstaunen: „Er redet kein Wort mit mir, indem er sich wie ein Büsser in Schweigen hüllt, und ist ohne Verlangen: was soll ich da thun?“—So überlegte die Tochter des Männerfürsten: „Durch welches listige Mittel werde ich ihn da zur Botmässigkeit bringen, dass er mir beständig huldigt? Wenn ich jetzt den geliebten Sklaven zum Aufseher des Schatzhauses mache, dann werden ihm alle gram werden; was wäre das für ein Glück für mich? (5) Oder setze ich ihn irgendwo in ein anderes Amt, dann, glaube ich, werde ich ihn schwer zu sehen bekommen, da er dann damit voll beschäftigt sein wird. Was ist wohl jenes ganz unbedeutende Amt, das ich ihn setzen kann, damit er immer am Morgen
 
-
-
 geht und am Abend zurückkommt? Dass ich ihn beständig sehe, und er immer in meiner Nähe weilt? Was giebt es für derartige Aemter, dazu ich ihn befördern könnte?“—Nachdem nun die Tochter des Beherrschers der Erde darüber vielfach nachgedacht hatte, fand sie in ihrer Klugheit das Richtige und machte Jenen darauf zum Hirten. Wiewohl nun das aus ganz ausserordentlicher Liebe geschah, hielten doch alle Bewohner der Stadt seine Einsetzung in dieses Amt für eine Herabsetzung. (10) Dieses Amt war ihm angemessen, denn dabei gewährte der aus Göttertheilen Geschaffene den Thieren einen starken Schutz, wie er seiner Liebe zu ihnen entsprach. Der Schöpfer hatte ihn erschaffen, nachdem er von den Leibern aller Götter einzeln ein Theil genommen hatte; und so ward er nun Hirt. Auf ihren Befehl ging er mit dem Vieh, Ziegen, Schafen u. s. w. in einen Wald, der frei von der Gluth des Brandes war und weidete es da. Am Morgen ging er mit ihnen, am Abend brachte er sie zurück und zeigte ihr zu ihrer Freude dreimal am Tage seinen reizenden Leib. Eifrig diesem Geschäfte hingegeben brachte er in der Ge- sellschaft seiner Altersgenossen seine Tage hin mit diesen und jenen Belustigungen, wie sie im Walde gebräuchlich sind. (15) In den Reihen der Schafe stehend erstrahlte der Knabe, der Mächtigen Bester, schwer anzublicken infolge des Aufganges seiner Herrlichkeit, gleichsam wie der Hort des Lichtes, wenn er in dem Bilde des Widders weilt. Wie nun ihr Herz beständig danach Sehnsucht verspürte, ihn zu sehen und zu sprechen, so war sein Herz durchaus leidenschaftslos. Je mehr sie in Liebe dessen Gesichtslotus anblickte, desto tiefer neigte er in Scham sein Gesicht. Wenn die Liebende nur aus Neugier nach irgend etwas fragen wollte, auch dann hüllte sich der Verständige in Schweigen. Wenn die Starkhüftige ihm zurief, er solle vor ihr stehenblei- ben, dann wich der sonst Muthige aus Furcht langsam zurück. (20) Wie sie, die Schönäugige, beständig in der Liebe zu ihm aufging, so war nämlich der Verständige, Schöngestal- tige ohne Leidenschaft. Als nun die Schlankgewachsene merkte, dass sein Herz der Liebe entbehrte, schrie sie, von Sorgen geschüttelt, Tag und Nacht wie ein Seeadlerweibchen. Keine Kümmerniss infolge der Trennung von ihm blieb der Gazellen- lammäugigen irgend erspart, das sie nicht durchgekostet hätte.
-
-
 
 Da unterliess sie wie eine Irrsinnige die Körperpflege, machte ihr Haar nicht mehr zurecht und gebrauchte keine Schminke mehr für die Augen. Sie zeigte auch gar nicht mehr im Spiele mit ihren Freundinnen ihre Geschicklichkeit; beständig sass die Schöngewachsene in schwere Gedanken versunken. (25) Als die Amme die Gazellenäugige wiederum so sorgenkrank sab, redete sie sie mit sanfter Stimme und liebevollen Herzens an: „Warum, du Langäugige, ist heute dein Gemüth wieder mit Sorgen beschwert? Nun du den Theueren erreicht hast, musst du der Liebe pflegen, aber keinen Kummer hegen.“—Als die Tochter des Beherrschers der Erde diese ihre Worte gehört hatte, antwortete sie: „Mutter, das Glück, das ich im Herzen ersebne, babe ich noch nicht ge- funden! Sicherlich weiss jener Mann, dass ich mich freue, den Gegenstand meiner Liebe erlangt zu haben; aber seinen Sinn zu erkennen— ja, wer ist überbaupt im Stande, das Herz eines Anderen zu durchschauen? Schwer zu finden ist ja in dieser Welt der Lebenden der Mann, das Stirnjuwel unter den Männern, der das von heimlichem Kummer kranke Herz eines Anderen richtig herausfindet. (30) Ich weiss nicht, um welcher verkehrten That willen das Schicksal mir dort beständig so feindlich ist, wo jetzt mein Herz gebrochen ist. Besser stand es, als ich den Gegenstand meiner Liebe noch nicht erreicht hatte; da war meine Sorge nur einfach; jetzt aber, da ich ihn besitze, ist sie hundertfach in meinem Herzen geworden: denn ich bin nicht im Stande, die Qual zu schildern, die aus der Trennung von dem Geliebten entsteht. Mit solchen Fragen quäle ich mich immer wieder, Mutter!“ —So ward nun dies ihr Wort, was sie doch im Geheimen und anderswo geäussert hatte, ruchbar und drang in die Oeffentlich- keit unter die grosse Menge. Als die dortigen Frauen des Harems, die im Herzen auf eine Blösse von ihr warteten, diese Geschichte vernahmen, verspotteten sie die Tochter des Erdherrschers: (35) „Ach, pfui über diese ihre verkehrte Klugheit, dass sie ihren Geliebten, einen Fürsten der Erde, aufgiebt und nun mit ihren Wünschen an einem Sklaven hängt! Hier diese aus edlem Geschlechte stammende, anmuthvolle Tochter des Erd- herrschers und hier dieser elende Sklave von unbekannter Herkunft, der stets Anderen botmässig ist! Diese Thörin hat ohne Ueberlegung eine unehrenhafte Handlung vollbracht, infolge deren
 
-
-
 jetzt niemand mehr zu der Schönäugigen Vertrauen hat!“—Als sie diese üble Nachrede hörte, die ihre Mitfrauen, unbekannt mit der Schönheit des Sklaven, gebrauchten, gerieth sie in Sorge, der sie nur schwer entrinnen konnte: „Früher war ja auch jener Rama, der nur an der Tugend sich freute und sammt seinem Weibe ganz in der Frömmigkeit aufging, von übler Nachrede der Menschen, der man nur schwer begegnen konnte, geschmäht worden: (40) aber was bin ich Elende, Unglückliche dagegen, die ich beständig in der Welt tadelnswerth bin? Jedoch ich bin im Stande, den Tadel heute noch durch einen klugen Anschlag zu beseitigen. Ein derartiges Mittel will ich Arme in meinem Hause anwenden; ich lade alle jene trefflichen Frauen des Hauses ein; dabei werden ihnen zu ihrer Bewirthung irgendwelche Früchte vorgelegt oder auch ein ganz vorzügliches Essen von vielen Ge- nüssen. Dann lasse ich zu ihrer Bedienung jenen elenden Sklaven kommen; wenn sie den gesehen haben, werden alle diese Frauen so bethört; und durch die Anwendung dieses Mittels wird ja alle meine Schande, die wegen des Sklaven über mich gekommen ist, ausgelöscht.“(45) Nachdem sie diesen Entschluss gefasst hatte, handelte sie danach und legte ihnen zunächst selbst schnell Kürbisfrüchte vor. Während nun die Gazellenäugigen diese mit Messern in Stücke theilten, da sandte sie ihn zur Bedienung. Sobald die Frauen diesen, gleichsam einen verkörperten Liebesgott, vor sich hatten hintreten sehen, schnitten sie sich in ihrer Verblendung mit den Messern in die Hände; und die Narben von diesen Wunden, die sie sich einst in ihrer Bethörung beibrachten, die sieht man heute noch deutlich in Gestalt der an den Händen befindlichen Linien. So liessen nun diese Frauen, von Erstaunen erfüllt und die Herzen von der Schönheit Jenes gefesselt, ab, sie wegen ihrer Liebe zu schmähen. (50) Wie sie infolge beständigen Anschauens von der Liebe hart mitgenommen war, so ging es diesen Schönäugigen, nachdem sie ihn nur einen Augenblick gesehen hatten. —Als nun die Tochter des Erdberrschers die Schande durch ihre Klugheit wieder ausgelöscht hatte, hing die Jungfrau wie zuvor mit ihrem Herzen an ihm. Aber wenn sie ihn kommen liess, bald nach dem Hause, bald nach dem Palaste, bald nach dem Audienzsaale, bald nach der Einsamkeit, dann kam er nicht in ihre Nähe. Da nun die
-
-
 
 Schlankleibige merkte, dass sein Herz der Liebe entbehrte, über- legte sie wiederum bin und her, wie sie ihn für sich gewinnen könnte. Sie liess also ein geheimes, wundersames Gemach, ein sehr schönes Werk, von Handwerkern anlegen, die mit Viśvakarman wetteifern konnten. (55) Auf ihren Befehl liessen die Maler alle andere herzerfreuende Malerei weg und schufen dort nur zwei höchst wundervolle Bilder: er, der ausserordentlich Schöne mit Namen Yōsōbha, wie er gegen sie ohne Leidenschaft ist und sie, die Tochter des Erdherrschers, voller Artigkeit und krank wegen der Trennung von ihm. Nachdem sie das mit diesen Gemälden versehene Schlafgemach schnell hatte herstellen lassen, liess die Tochter des Männerfürsten jenen auf listige Weise dorthin kommen: „Denn, sobald er dieses Gemälde erblickt, wird sein Herz gegen mich Elende, die ich infolge der Trennung in einen solchen Zustand gekommen bin, vielleicht sich erweichen lassen.“—In dieser Hoffnung liess die Schlanke ihn zuerst dorthin gehen und kam dann selbst leise hinzu, die Beste der Frauen. (60) Als er in jenes Gemach getreten war, unbekannt mit ihren Absichten und der Pflicht der Wahrheit geweiht, folgte sie ihm nach; und während er über den Anblick des wunderbaren Ge- mäldes beschämt ward und sein Angesicht abwendete, sagte die Tochter des Erdherrschers das Wort: „Ach, Gebieter über mein Leben, ich habe in der Welt der Lebenden durchaus keine Lebens- hoffnung weiter, ausser bei dir lotusäugigem Geliebten. Ach, Leute von deinesgleichen, die beständig darauf bedacht sind, anderen Wesen beizustehen, sind nicht dazu angethan, einen Wunsch unerfüllt zu lassen. Zweierlei ziemt sich für einen Schönen: Anmuth und Milde; da du doch damit versehen bist, warum zeigst du so den Mangel des einen im Herzen? (65) Ach, da du mich Schwache getödtet hast, die ich durch die Trennung von dir ge- peinigt bin und mich an die Hoffnung, dich zu erlangen, fest- klammere, trifft dich Schande hienieden. Durch die Sorge um dich ist mein Herz ganz erkaltet; ich weiss nicht, wie die Seufzer und Thränentropfen noch heiss sein können! Ach, durch die Trennung von dir ist mein Herz hundertfach durchbohrt worden: sprich, soll ich es dir zeigen, nachdem ich heute meinen Leib zerrissen habe? Ach, Herr, was ich an Kümmerniss infolge der Trennung von dir durchgekostet habe, das kann ich heute und
 
-
-
 selbst in hunderten von Jahren nicht sagen. Jedoch du magst dieses reizende Gemach ordentlich betrachten, das ich dir zu Liebe habe herstellen und mit solchen Gemälden habe versehen lassen.“(70) Nachdem sie dies Wort gesprochen hatte, trat sie, das Herz übervoll von der Liebe zu ihm, herzu, um ihn, den Starken, mit Gewalt festzuhalten. Aber er, der da merkte, dass ihr Herz heftig von der Liebe gequält war, hielt ihr nicht Stand, sondern eilte schnell nach aussen. Voller Furcht lief die Herrin dem Enteilenden nach und ergriff ihn hinten mit der Hand schnell an einem Zipfel seines seidenen Gewandes; und da sie sein schönes Kleid mit Gewalt festbielt, zerriss es die Tochter des Männerfürsten am Vordertheile des Halses. Als er nun so in Eile sich entfernte, rief die Tochter des Beherrschers der Erde dem Oberherrn der Männer erzürnt unter vielfachen Drohungen nach: (75) „Immer gehe, du Thor! Wie wird es dir gehen, wenn ich deine That vor dem Männerfürsten erzählt habe? Dich, der du so lieblos bist, werde ich um's Leben bringen!“—Unter solchen Drohungen begab sie sich zu Ajējamesra, indem sie Thränentropfen vergoss und im Zorne die Fülle ihrer Locken wild flattern liess. Als jener die Geliebte in diesem Aufzuge erscheinen sab, sprach er beruhigend, das Herz von Staunen erfüllt, also: „Ach, Schöne, woher bist du, das Herz überwältigt von unendlicher Wuth, zu diesem bösen Zustande gekommen, der eher für deine Feinde passt? Wenn dein Herz von irgend einem Vergehen meinerseits gekränkt ist, sage es, Schönhüftige; ich will es wieder gut machen. (80) Oder bist du aus Zorn über jemand anders ausser dir? Den kann ich dir jetzt tödten!“—Als die Tochter des Männerfürsten diese seine Worte vernommen hatte, antwortete sie ihm, die Augen vor Zorn geröthet, indem sie cine Fluth lauer Seufzer ausstiess: „Ich bin nicht empört über ein Vergehen deinerseits: welcher gewöhnliche Mensch wäre im Stande, mein Herz in Zorn zu versetzen? Nein, ich bin über meine eigene Dummheit empört, dass ich eine That vollbracht babe, die zu erzählen unpassend ist; wenn du nun aber davon hörst, dann verzeihe mir, Beherrscher der Erde! Jener Sklave, Fürst der Männer, den ich um vieles Geld gekauft habe, der ist also zum lüsternen Liebhaber mir gegenüber geworden, Erdenfürst. (85) Während ich in Gedanken wie eine Figur auf einem Ge-
-
-
 
 mälde dasass, Beschützer der Erde, kam jener herbei, um mir Gewalt anzuthun. Als ich ihn kommen sah, wie er heftig verliebt einherschritt, erzitterte mein Herz vor Furcht, Männerfürst; und da ich keinen anderen Ausweg sah als einen Kampf mit den Nägeln, so that ich danach und bewahrte dadurch mit Mübe und Noth meine Keuschheit.“—Als der Beherrscher der Erde das Wort der Königin vernommen hatte, ward er voll Wuth, liess den Sklaven schnell herbeiholen und warf ihn im Zorne in das Gefängniss. Dort lebte er zusammen mit vielen Gefangenen; aber der Tugendhafte hielt das keineswegs für ein Unglüick; (90) vielmehr sie, die Tochter des Beherrschers der Erde, die mit der Schlinge der Liebe zu ihm gefesselt war, befand sich, von Sorgen geschüttelt, im Gefängnisse.
 
@@ -5170,11 +4732,7 @@ mälde dasass, Beschützer der Erde, kam jener herbei, um mir Gewalt anzuthun. A
 
  Einst sah der Beherrscher von Mesra im Traume selbst einen Traum, der Gewaltige, wie eine wohlgenährte Rinderheerde
 
-
-
 eine andere, magere, verzehrte. Als der Herr der Erde nun er- wacht war, holte er die Minister herbei und fragte sie, was das zu bedeuten hätte; aber sie wussten ihm nichts zu antworten. Nun sagte da der Oberkämmerer zu dem Gebieter der Erde, indem er seine beiden Kniee auf den Fussboden setzte, mit zusammengelegten Händen und den Hals geneigt: „Jener kluge Sklave der Jōlēkhā und des Ajējamēsra, der im Gefängniss liegt, o König, der versteht sich trefflich auf den Sinn von Träumen. (105) Auch ich, Beherrscher der Erde, habe einst im Gefängniss einen Traum gesehen; und was jener als seine Bedeutung angegeben hat, das habe ich in wunderbarer Weise erlebt.“—Als der Beherrscher der Erde das gehört hatte, liess er ihn schnell holen und befragte ihn gespannt nach der Bedeutung seines Traumes. „Höre aufmerksam zu, König; ich will dir mit kurzen Worten auf deinen Befehl den Sinn des Traumes, der dir Glück in der Welt bringen wird, nach meiner Auffassung nennen. Von heute an, Weltenfürst, wird die Erde sieben Jahre und sieben Monate lang reich an aller Feldfrucht sein; danach wird die Qual einer Hungersnoth die ganze Welt schädigen. Darum, Herr, muss zum Besten der Menschheit alles Getreide aufgespeichert werden.“(110) Als der Oberherr der Erde das gehört hatte und merkte, dass jener höchst wahrhaftig war, betraute er ihn selbst darauf mit der Aufspeicherung alles Getreides. Da liess nun jener, im Handel erfahren, auf Befehl des Fürsten allenthalben bergehohe Getreidehaufen aufschichten; und als diese Angelegenheit von ihm besorgt war und der Beherrscher der Erde und der Minister, beide durch Schicksalsfügung dahingegangen waren, so dass nur noch der Name von ihnen übrig war, da machten die betrübten, herr- scherlosen Unterthanen alle jenen, Yōsōbha mit Namen, zum Herrn der Erde. Nachdem er nun durch sein gutes Geschick die Königswürde erlangt hatte, regierte er in königlicher Majestät und nach Vorschrift die Unterthanen gerecht, der mit seinen Pflichten Vertraute. (115) Beständig waren sie frob, als dieser Oberherr auf Erden war; ausgenommen jene Tochter des Männerfürsten, deren Leib durch die Trennung von ihm beherrscht war. Ach, sie ward da infolge des Fernseins von ihm blind, sie, vor der die jungen Gazellen in den Wald geflohen waren, weil sie erkannten, dass jener Augen den ihrigen gleichkamen. Wer be-
-
-
 
 sässe die Macht, etwas zu ändern, was unbedingt kommen muss? Jener Erdherrscher aber, der doch so geliebt ward, wusste nichts von ihrem Unglück.
 
@@ -5185,21 +4743,13 @@ XIV.
 
 Als der Schirmherr der Erde das gehört hatte, fragte er sie dort weiter: Welchen Namen führt euer Vater und Euer Heimathsland?“—„Kanānaghōṣa, und unser Vater ist bekannt unter dem Namen Yakōbha; aus Kummer über einen seiner Söhne namens Yōsōbha ist er erblindet.“ (5) Als nun der Herr der Erde die früher geschehenen Geschichten alle gehört hatte, gab ihnen der Hochgemuthe für den Vater ein Gewand von sich mit, jedem einzelnen eine Last Getreide und einen aus Gold kunstvoll gearbeiteten Becher, den er darin versteckte und entliess sie nach Hause. Je näher sie nun, geehrt von dem Männerfürsten, herankamen, desto mehr freute sich ihr Vater in unerklärlicher Weise. Nachdem sie vor ihm nun alles jenes, das Gewand u. s. w., niedergelegt hatten, priesen sie den hochgemuthen, ganz in der Tugend aufgehenden Männerfürsten; und als der Vater nun selbst das wundersame Gewand anlegte, da bekam er durch die Berührung mit demsel- ben sein Augenlicht wieder. (10) Als er, Yākōbha mit Namen, der ausserordentlich Glänzende, wieder sehen konnte, hielt sich der Hochgesinnte gleichsam für neugeboren. Das Herz von Staunen erfüllt über die Wiedererlangung der Sehkraft, rief er alle Söhne und Verwandte im Augenblick herbei und sprach zu ihnen: „Ach, ist das ein Blendwerk des Schicksals, welches plötzlich mannigfache Dinge zeigt, oder geht heute mein Glücksstern auf, dass ich jetzt wieder sehe? Mein Augenpaar war einst erblindet wegen der Trennung von meinem Sohne namens Yōsōbha; aber sollte dies etwa ein Gewand von ihm sein? Trotz aller Mühe kehrte die Ungetrübtheit des Blickes durchaus nicht zurück;aber
 
-
-
 durch die blosse Berührung mit dem Gewande ist sie mir heute nun erschienen!" (15) Als die Verwandten und Söhne dazu seine Worte vernommen hatten, priesen sie die wundersamen Wege des Schicksals und wurden im Herzen froh. Nun begab sich jener Hochgesinnte mit Namen Yākōbha, von Verwunderung erfüllt, mit seinen Söhnen hin, um selbst den Oberherrn von Mēsra zu sehen; und als er nach Mēsara gekommen war und den Herrn der Erde da sitzen sah, war er erfreut im Herzen und stand einen Augenblick da, die Hände knospenförmig zusammengelegt. Da erhob sich der Erdherrscher, als er seinen alten Vater erblickte, von seinem Throne und verneigte sich immer wieder; der Vater aber umarmte seinen Sohn, den Hort seines Glückes, der lang auf dem Erdboden hingestreckt lag, schnell mit beiden Armen und küsste ihn dann auf den Mund. (20) So glaubte nun der Greis, dessen Noth durch die Wonne des Wiedersehens mit jenem vollständig gewichen war, dass sein Selbst hienieden den Aufgang seines guten Glückes erlebt habe. Nun regierte der Erdherrscher, unter der Botmässigkeit des Vaters und umgeben von seinen Brüdern, nach Vorschrift die Unterthanen und gerecht.
 
  Da war nun sie, die Königstochter, berühmt unter dem Namen Jōlēkhā, über der Trennung von ihm erblindet und alt geworden, die Zarte. An die Thüre des Audienzsaales herantretend sprach sie kurz und bündig, mit vor Kummer zitternder Stimme und die Augen vom Nass der Thränen gefüllt: „Ach, ich allein bin jetzt auf Erden glückverlassen, da mich der Männerfürst nicht beschützt, nachdem ich in diesen Zustand gerathen bin. (25) Wenn ich unter dir pflichtgetreuem, den Unterthanen im höchsten Grade Wonne bereitendem Könige allein betrübt bin, wen trifft dann jetzt die Schande? Darum sei auf deinen Ruhm bedacht, Beschützer der Welt, der in zwei Welten Heil bringt: Unglückliche und Schutzlose zu beschützen ist ja gerade die Pflicht der Fürsten!“—Als die in der Versammlung Anwesenden diese ihre Worte vernommen hatten, sprachen alle mit ehrerbietig zusammengelegten Händen zu dem Herrn der Erde: „König, freie diese Schlankleibige!“— Der König, der dies Wort der Minister hörte, sagte lachenden Mundes: ,Wie passen wir zu einander, diese blinde Alte und ich junger Mann mit gesunden Augen? Freundschaft ist ja nur zwischen Aehnlichen zulässig, nir-
 
-
-
 gends zwischen einem Geringen und einem Hohen; wer aber das Gegentheil thut, der wird verspottet.“ (30) Als der Schirmherr der Erde so sprach, antwortete die Schlankleibige: „Infølge der Trennung von dir bin ich in diesen Zustand gerathen! Wenn du kein Zutrauen zu den wankelmüthigen Frauen hast, König, wahrlich, dann prüfe jetzt meine Sinnesart, ob unter tausenden von Reitern, die an mir vorbeireiten, mein liebeerfülltes Herz den Hufschlag deines Reitthieres herausfindet!“—Als der Schirmherr der Erde das gehört hatte, that er alles voll Aufmerksamkeit; und richtig fand die Tochter des Männerfürsten den Schritt seines Reitthieres heraus. Da fragte der Männerfürst die Frau: „Wie hast du das gefunden?" „König, in meinem Herzen ruht sicher die Gang- art deines Reitthieres!“ (35) Als der König nun sah, dass ihr Herz voller Liebe, diese aber wie Geld verschwendet worden war, ehrte er die Ehrwürdige und sprach lächelnden Antlitzes: „Thue einen Wunsch, Schönschenklige! Mein Sinn ist wohlgelaunt!“—Da wünschte sie nur so viel: „Schütze mich Zufluchtsuchende!" ,Wenn ich nicht jung wäre und du so alt, Beste der Frauen, dann hätte mein Herz jetzt grosse Lust, dich zu freien.“—,Wenn es das ist, Schirmherr der Erdẹ, dann will ich in deiner Gegenwart zu Sambhu um meine Jugend beten; er wird sie mir sicherlich geben, der Herr, der die Zuflucht der Schutzlosen ist!“— ”Amen,“sagte er; und als die Tochter des Männerfürsten dies sein Wort gehört hatte, pries sie erfreut vor den Augen der im Audienzsaale Anwesenden den böchsten Gott: (40) „Ōm! Verneigung dem lauteren Śiva, der die unbesorgt sein lässt, die sich ihm nahen; dessen Macht unermesslich ist; dem höchsten, erhabensten Wesen! Verneigung ihm, der den Schutzlosen Zuflucht und Schutz gewährt, den Guten ihre Furcht benimmt und einen Halbmond als Diadem trägt; dem Gotte der Götter, der eine Schlange als Perlenkette trägt; der sich mit dem Himmel kleidet und in dem Feuer, welches aus seinem Auge kommt, den Glanz der Sonne und des Mondes besitzt; dem Quell der Wohlfahrt, der seinen Anhängern Furcht und Kummer nimmt. Verneigung dem Unendlichgestaltigen, dem alleinigen Zeugen von Recht und Unrecht! Herr, sei mir gnädig, wenn ich mich, die ein solches Schicksal erlebt hat, dir nahe!“—Nachdem die Tochter des Schirmherrn der Erde den Gebieter über die Thiere, den Herrn
 
-
-
 also gefeiert hatte, war sie einen Augenblick im Herzen voll der Wonne des Gedenkens an ihn. (45) Da erscholl vom Himmel eine glückverheissende Stimme: „Erhebe dich, Schönbrauige, erhebe dich und sprich den Wunsch aus, den du hegst! Der Ehrwürdige, Śambhu, der Gott der Götter, der Gebieter über die Welt, ist gnädig gesinnt; was du heute erbittest, das verleiht der mächtige Herrscher sofort.“—Als die Tochter des Erdherrschers dieses göttliche Wort vernommen hatte, bat sie, am Irdischen hängend, erfreut wieder um ihre Jugend. „Verliehen ist dir deine Jugend, Schönbrauige, von Śambhu, dem Freunde der Schutzlosen; sei mit jenem Geliebten zusammen nach Herzenslust vergnügt! Aber wenn das Weltalter vollendet ist, setzt sich der hohe Herrscher nieder, um über die Thaten der Menschen zu richten. (50) Da kommen von allen Seiten alle Wesen verjüngt wieder; du allein wirst unter ihnen alt bleiben, du Schlanke. Nachdem man die genaueste Entscheidung nach gut und böse getroffen hat, muss man das Passende thun: so musst auch du selbst handeln!“—„Mag es immer so sein; gieb mir jetzt Jugend! Ich bin nicht im Stande, noch einmal das unerträgliche Leid der Trennung zu ertragen.“ —Da ward sie, die Tochter des Erdherrschers, wiewohl sie vom Alter gebrechlich war, in demselben Augenblicke wieder mit der früheren Jugendfrische versehen, die trefflichste der Frauen. Alle Leute, die dieses Wunder des Schöpfers und den frommen Sinn der Schönbrauigen sahen, priesen sie und waren hocherfreut, die Hochgemuthen. (55) Als nun der Gebieter des Landes Vertrauen gefasst hatte, ergriff er frohen Gemüthes die Hand der Gazellenlammäugigen mit seiner Hand und betrat den Königspalast, der der Wohnung der Götter glich, den hochherrlichen, mit Wundern geschmückten und von Gesang und Instrumentalmusik erklingenden. Nachdem der Gebieter des Landes jene Schönhüftige, in frischer Jugend Prangende erlangt hatte, hielt er sich selbst erst für voll befriedigt; und sie, die Tochter des Beherrschers der Erde, hielt sich, nachdem sie diesen so vorzüglichen Gatten bekommen hatte, für das glücklichste Ge. schöpf unter den lebenden Wesen auf Erden. Die Herzen gar weich von beständig neuer Liebe, trieben die Ehegatten mannigfache verliebte Scherze in den verschiedenen Lusthainen; (60) und wie niemand in der Welt im Stande war, den Kummer in-
-
-
 
 folge der Trennung zu beschreiben, so auch nicht das Glück der Beiden, das aus ihrer Vereinigung entsprang.
 
@@ -5210,11 +4760,7 @@ XV.
 
  Nachdem ich diese mit den Affecten der Liebe u. s. w. gezeichnete Geschichte erzählt habe, wird jetzt der Erhabene, der in zwei Welten Heil bringt, besungen.— In dieser Welt der Lebenden, die keinen Werth besitzt, trägst du Schwachgeistiger das Verlangen, wie ein Kind zu spielen; und doch ist dies alles am Ende eitel! Ach, du wünschest dir gutes Gelingen, indem du den hamsa Verstand loslässt: aber wie willst du ihn klug vor der Eulenschaar der Bösewichte bewahren? Wenn du haltlos voller Sorgen überlegst, ob du einem Fürsten dienen oder einen Reichen anbetteln sollst, bringst du Thor deine Zeit eben nutzlos hin. Darum auf, nimm deine Zuflucht zu dem höchsten Herrn, aus dessen Anbetung das Glück erblüht; was sollen die anderen, wunderlichen Bemühungen? (5) Wer in der Welt hat, ausser durch seinen Dienst, die Vollendung erreicht? Gilt nicht bei den Guten das Dasein für gesegnet, da man seiner gedenkt? Infolge der Erinnerung an seinen Namen schwindet der Eindruck der früheren Thaten; wenn du einen solchen Besitz aufgiebst, wen hast du dann noch, der dir Zuflucht gewähren könnte? Suche also Zuflucht bei ihm, der einzigen Rettung für Unglückiche und Verlassene; dem Erstrebenswerthen, der Vollendung verleiht; dem Gotte der Götter; dem Herrn der Welt. Nachdem er vermöge seiner eigenen Kraft diese ganze Welt erschaffen hatte, erstrahlt nun der Ungeborene, indem er darin weilend seine Herrlichkeit zeigt. Verneigung ihm, dem Ehrwürdigen, dem Höchsten, dem höchsten Wesen; dessen Wege uuergründlich sind; der Ursache von Schöpfung, Erhaltung und Vernichtung. (10) Selbst die Yōgin's, die an ihn denken in lauterer Andacht und die Furcht, die aus dem Dasein ersteht, auf- gegeben haben, sehen ihn niemals. Das ist ein Herz bei den Verständigen, wenn es in der Andacht für den höchsten Herrscher aufgeht; das ist eine Rede der Redegewandten, wenn sie nur
 
-
-
 den Namen Śiva ausspricht; das Auge ist ungetrübt, wenn es allerwärts nach dem Herrn des Alls anschaut; ebenso ist das ein Ohr, wenn es eifrig verlangt,' den Ruhm des Śambhu zu vernehmen. Trefflich ist auch das Haupt, das Ehrerbietung darbringt durch die Verneigungen vor Śarva; und trefflich der Leib, dessen Glück be steht in dem Dienste bei dem Herrn der Götter. Geboren und ebenso wieder untergegangen in dem Meere des Daseins sind Viele; gesegnet auf Erden sind die trefflichsten unter den Men- schen, deren einziger Genuss der Name des Śiva ist. (15) Nicht Wallfahrtsorte, nicht Kasteiung noch Opferhandlungen vermögen den Leib so zu läutern wie der Name Śiva, wenn er von einem reinen Herzen ausgesprochen wird. Verneigung dem unberuhig ten Beruhigten; dem eigenschaftslosen Eigenschaftsreichen, dem Bhava, Śarva, Śrīkaṇṭha und Mṛda. Gesegnet sind die, welche den schwer zu erlangenden Mann erreicht haben, der alle Hoffnungen ganz ungewöhnlich erfüllt, und nun den Beschwichtiger der Menge des Unglücks, den Zufluchtgewährer Hara anbeten. Wenn in unserem befleckten Herzen das wie die Mondstrahlen leuchtende Wort von dem Gatten der Tochter des Berges kreist, meine ich, das ist das Glück. Wenn ich die Majestät deines Namens, Sambhu, in Lobpreisungen erfasst habe, dann erachte ich die Erlangung von Indra's Thron trockenem Grase gleich. (20) Am Leibe sträuben sich die Härchen, die Augen sind von Thränen gefüllt, die Zunge sagt stammelnd: „Śiva! Śiva!“ ist es bei den Leuten, die in Liebe an Bhava hängen. Vor Liebe stammelnd sage: „Bhava, Rudra, Ugra, Sarva, Isa, Śiva, Iśāna!" voller Freude und gehe nicht nutzlos über das Erdenrund. Wer ausser deinem hum! wäre wohl im Stande, Herr, mich vor Furcht Kranken zu befreien, da ich mit den Fesseln gebunden bin, die dein Sklave Schicksal in den Händen trägt? Ganz besonders angemessen ist für die Menschen die Anbetung deiner Füsse; Trug ist das Glück und beweglich wie die Wassertropfen auf einem Lotus. Wenn ich bei dir mächtigem Herrn, dem Horte des Erbarmens, Zuflucht gesucht habe, aber doch haltlos bleibe, so ist das meine Schuld, die aus meinen früheren Thaten stammt. (25) Den Thoren, der die Last des Unglücks trägt, den Blinden rette du Blindheitsvernichter; den im Meere des Daseins Versunkenen setze über, du Retter, der du die Finsterniss der Nacht
-
-
 
 beseitigst. Das Glück, welches derjenige findet, welcher ganz Śiva geweiht auf Schritt und Tritt handelt, der weilt nicht auf dem Throne des Indra. Warum blickst du mich Sündlosen, Verlassenen nicht an, Herr? Wer ausser dir ist in der Welt noch im Stande, die zu retten, die keinen Ausweg mehr haben? Du lenkst deinen Schritt nicht hier in dieses mein Herz, der ich der Sünde diene, Herr? Sprich, wo soll ich noch einen Weg finden nach dem vollen Meere des Erbarmens? Welcher andere Steuerann ausser dir, Herr der Welt, kann den Kahn im Meere des Daseins glücklich lenken, der du das ganze Weltall mit dem Kopfe trägst? (30) Wenn früher eine böse That vollbracht worden ist, wie ist dann der Geist ganz auf Śiva gerichtet? Wenn eine lautere, warum dann aber dieser Kummer, diese Verblendung u. s. w., Herr? Wenn ich, der ich das Schiff Mensch erreicht habe und dich Herrn als Steuermann besitze, mein Leben führe, sprich, Gott, wer sollte dann meiner spotten? An dich Wunschgewährer richte ich nur die eine Bitte, mächtiger Herr: möge mir die Liebe zu dir bescheert sein, die in beiden Welten Heil bringt! Du Vater und Verwandter, Freund und Herr, du Zufluchtsstätte aller Wesen, schütze mich, Herr, der ich keine andere Zuflucht habe, du höchster Herrscher!
 
@@ -5228,13 +4774,7 @@ I, 17d 1.**॰त्रयाशास्त्र॰,**I, 92cl.**सुनृ�
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 Universitäts-Buchdruckerei von Carl Georgi in Bonn.
 
-
-
-
 \]
-
 

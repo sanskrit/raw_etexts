@@ -15,31 +15,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEyMDMyNjM1NTk
 
 \[
 
-
-
 [TABLE]
-
-
-
-
-
-
-
-
-
-
-
-
 
 **LONDON:**  
 
 **![](../books_images/U-IMG-17239064531.jpg)**
 
 **WILLIAM WATTS, CROWN COURT, TEMPLE BAR.**
-
-
-
-
 
 то
 
@@ -51,9 +33,6 @@ OF THE LEARNING, WISDOM, AND UNWEARIED KINDNESS
 WITH WHICH FOR MANY YEARS HE HAS  
 DIRECTED MY STUDIES.  
 
-
-
-
 **ADVERTISEMENT.**
 
 ![](../books_images/U-IMG-17239068351.jpg)
@@ -62,8 +41,6 @@ T
 
 HIS, the first edition of the Víra Charita— a Play commonly ascribed to Bhavabhúti— is grounded upon two Devanágarí Manuscripts in the Library of the East-India House.One of them, dated Samvat 1665, is written with more thanusual care and accuracy; but it is unfortunately imperfect,and does not extend beyond the fifth act. The other, bearing the year of Vikramáditya 1857, though complete, is the hastywork of an indifferent scribe, teeming with errors of allkinds; and it was found necessary in more than one instance,in the course of the last two acts, to receive in the Text thereading of Professor Wilson's copy, now deposited in theBodleian Library at Oxford. I have carefully comparedthese Manuscripts with each other, and collated many passages of this Play with their re-productions, both in other Dramas (as in the Uttara Ráma Charita, or in the Mahánátaka), and in rhetorical works where they are frequently quoted and commented upon. But unless the sense seemed absolutely to require the adoption of any one of the various readings thus collected, I have generally abstained from admitting them in the Text now offered to the Public,as it was my plan to adhere to the London copies, whichdiffer but little from each other, and from either of whichthe Oxford Manuscript varies but in a slight degree.
 
-
-
  In the Prákrit the orthography of many words will befound at variance with the rules laid down by Vararúchi; butas the Manuscripts are generally unanimous in their spelling,I did not consider myself justified in altering it; for this wouldbe to correct the language of one period by the rules of agrammarian belonging to a different age— a proceeding, theabsurdity of which is apparent when applied to any modernlanguage. Nor will the reader find the letter व, which hasbeen introduced into all the Continental editions of SanskritPlays, as the Prákrit letter corresponding with the Sanskrit प.The Manuscripts make no difference whatever between the वcorresponding to the Sanskrit व, and the व corresponding tothe Sanskrit प; and to judge from the languages of India ofthe present day, or from the Spanish, it would be rather thePrákrit व= to the Sanskrit वthat would be pronounced like
 
 b(ब), and not
@@ -71,8 +48,6 @@ b(ब), and not
 vice versâ. There are, moreover, rules inVararúchi which prove that there was no distinction whatever between these two letters. With regard to the लू, खand other aspirated letters, they should, when in the middleof a word, always appear conjointly with the unaspiratedletter of the same class preceding them. In the Manuscripts this rule is often disregarded; and whenever theyall agree in doing so— and moreover, as it is in some measure only a matter of representing an additional letter, whichit is impossible not to pronounce in givingutterance tothe sound which follows— I have allowed some of thesesingle medial aspirates to stand in the Text. I have subsequently, however, pointed them out in the Errata.
 
  For the Sanskrit I have followed the usual system adoptedby the European scholars, with this only exception, that
-
-
 
 wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by not combining two vowels which otherwise would melt into one, the usual practice has been to puta stop 1, a rule which I have followed only in the first twosheets; when I was induced to adopt the punctuation ofthe Manuscripts, because they invariably follow it, and it isin perfect accordance with the rest of the singularly logicalgrammar of the Hindús.
 
@@ -88,10 +63,7 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 ***September 1848.***
 
-
-
 **॥ श्रीगणेशाय नमः॥**
-
 
 **अथ स्वस्थाय देवाय नित्याय हतपाप्मने।  
 त्यक्तक्रमविभागाय चैतन्यज्योतिषे नमः॥१॥**
@@ -111,8 +83,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 लब्धश्च वाक्यनिष्पन्दनिष्पेषनिकषो जनः॥३॥**
 
  सोऽहमेतद्विज्ञापयामि। अस्ति दक्षिणापथे पद्मपुरं नामनगरं। तत्र केचित्तैत्तिरीयिणः काश्यपाश्चरणगुरवः पङ्क्तिपावनाः पञ्चाग्नयो धृतव्रताः सोमपीथिन उदुम्बरा ब्रह्म-
-
-
 
 वादिनः प्रतिवसन्ति। तदामुष्यायणस्य तत्रभवतो वाजपेययाजिनो महाकवेः पञ्चमः सुगृहीतनाम्नोभट्टगोपालस्यपौत्रः पवित्रकीर्त्तेर्नीलकण्ठस्यात्मसंभवः श्रीकण्ठपदलाञ्छनोभवभूतिर्नाम जातूकर्णीपुत्रः कविर्मित्रधेयमस्माकमित्यत्रभवन्तो विदांकुर्व्वन्तु।
 
@@ -136,8 +106,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  नटः॥ कृतप्रसादाः पारिषदाः। किंतु। अपूर्व्वत्वात्प्रबन्धस्य कथाप्रदेशं समारम्भे ज्ञातुमिच्छन्ति॥
 
  सूत्र०॥ स तु भगवान्दीक्षिष्यमाणः कौशिको विश्वामित्रऐक्ष्वाकस्य राजर्षेर्वसिष्ठपुरोधसो दशरथस्य गृहानुपेत्य स्वमेवतपोवनं प्रत्यागतः। स च
-
-
 
 **॥ कौमारो नाम प्रथमोऽङ्कः॥**
 
@@ -169,8 +137,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 अथवा जङ्गमं तीर्थं धर्म्मोवा मूर्त्तिसंचरः॥१॥**
 
  सूतः॥ साङ्काश्यनाथ एवमेतत्। न खलु विश्वामित्रादृषेर्महत्वेन कश्चिदपरः प्रकृष्यते। यस्य भगवतस्त्रैशङ्कवंशौनःशेषं रम्भास्तम्भनं चेत्यपरिमेयमाश्चर्य्यजातमाख्यानविद आचक्षते।
-
-
 
 **तदस्मिन्ब्रह्माद्यैस्त्रिदशमुनिभिर्नाथितशमे  
 तपस्तेजोधाम्नि स्वयमुपनतब्रह्मणि गुरौ।  
@@ -204,8 +170,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 रक्षोघ्नानि च मङ्गलानि सुदिने कल्प्यानि दारक्रिया  
 वैदेह्याश्च रघूद्वहस्य कुशलैर्दीक्षाप्रवेशश्च नः।
-
-
 
 **आस्थाप्यानि च तानि तानि जगतां क्षेमाय रामात्मनो  
 दैत्यारेश्चरिताद्भुतान्यथ खलु व्यग्राःप्रमोदामहे॥४॥**
@@ -246,8 +210,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **प्रकृत्या पुण्यलक्ष्मीकौ कावेतौ ज्ञायते त्विदं।  
 राजन्यदारकौ नूनं कृतोपनयनाविति॥**
-
-
 
 **द्वितीयस्य च वर्णस्य प्रथमस्याश्रमस्य च।  
 अहो रम्यानयोर्मूर्त्तिर्वयसो नूतनस्य च॥८॥**
@@ -298,8 +260,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **उत्पत्तिर्देवयजनाद्ब्रह्मवादी नृपः पिता।  
 सुप्रसन्नोज्ज्वला मूर्त्तिरस्याः स्नेहं करोति मे॥१२॥**
 
-
-
  राजा॥ भगवन्।
 
 **कौ त्वामनुगतावेतौ क्षत्रियब्रह्मचारिणौ।  
@@ -341,8 +301,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **अश्रान्तपुण्यकर्म्माणः पावनप्रायकीर्त्तयः।  
 माहाभाग्यविदस्तेषां यूयमेव स्तवक्षमाः॥१७॥**
 
-
-
 सखे विश्रम्य लौकिकाः संस्त्यायाननुप्रविशन्ति तदस्मिन्विकङ्कतप्रच्छाये मुहूर्त्तमास्महे॥
 
 इति सर्व्वेपरिक्रम्योपविशन्ति॥
@@ -371,8 +329,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 दत्तैव दाशरथिचन्द्रमसे भविष्यत्।  
 आरोपणेन पणमप्रतिकार्य्यमार्य्य  
 स्त्रैयम्बकस्य धनुषो यदि नाकरिष्यत्॥१७॥**
-
-
 
 **॥ प्रविश्य तापसः॥**
 
@@ -421,8 +377,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  तौ॥ स्वागतं। इहास्यतां॥
 
-
-
 **अपि प्रभोर्वः कुशलं तस्य यस्यार्च्चयत्यसौ।  
 मूर्द्ध्नास्खलत्किरीटेन शासनं पाकशासनः॥२०॥**
 
@@ -461,8 +415,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  रामः॥ कामं शत्रुरिति वध्यः स्यान्नपुनरप्रमेयतपसमतिवीरमप्राकृतं प्राकृतवदर्हसि व्यपदेष्टुं॥
 
-
-
  लक्ष्म०॥ निरस्तवीरपुरुषाचारस्य का तत्र वीरता॥
 
  रामः॥ वत्स मा मैवं।
@@ -496,8 +448,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **सेयं सुकेतोर्दुहिता भार्य्या सुन्दासुरस्यच।  
 मरीचजननी घोरा ताटका नाम राक्षसी॥२७॥**
-
-
 
  कन्ये॥ ताद ताद भीसणा हदासा॥
 
@@ -553,8 +503,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 पश्यन्तु भवन्तस्ताटकां।
 
-
-
 **हृन्मर्म्मभेदिपतदुत्कटकङ्कपत्र  
 संवेगतत्क्षणकृतस्फुरदङ्गभङ्गा।  
 नासाकुटीरकुहरद्वयतुल्यनिर्य  
@@ -588,13 +536,9 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 अस्यायमवसरो दिव्यास्त्रमङ्गलानांदानस्य। वर्त्ततेच मङ्गल्यो मुहूर्त्तः॥
 
- 
-
 प्रकाशं॥
 
 सखे कुशध्वज। मया हि भगवतः कृशाश्वाद्गुरुचर्य्याव्रतैरधिगतस्य सरहस्यजम्भकप्रयोगसंहरणस्य दिव्यास्त्र-
-
-
 
 मन्त्रपारायणस्य विद्यातत्ववीजानि तत्प्रसादादर्थतश्च शब्दतश्चरामभद्रस्य संप्रति प्रकाशन्तां॥
 
@@ -624,8 +568,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  कन्ये॥ समन्तादो पज्जलिदविज्जुप्पुञ्जपिञ्जरेण उक्कमन्तिविअ लोअणाइंपहावणिप्फंदेण॥
 
  राक्ष०॥ अहो दुरासदं दिव्यास्त्रतेजः। स्त्यायता येन रावणपुरन्दरद्वन्द्वसंरम्भं स्मारितोऽस्मि॥
-
-
 
 **सर्व्वप्राणप्रवणमघवन्मुक्तमाहत्य वक्ष  
 स्तत्संघट्टाद्विघटितवृहत्खण्डमुच्चण्डरोचिः।  
@@ -662,8 +604,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **॥ नेपथ्ये॥**
 
  भगवन्तो दिव्यास्त्रनिकायाः॥
-
-
 
 **विश्वामित्रात्प्राप्य विश्वस्य मित्रा  
 त्पुण्यैर्युष्मानद्य रामः कृतार्थः।  
@@ -705,8 +645,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 भोःकुशध्वज। कियच्चिरं विचार्य्यते॥
 
  राजा॥ उक्तमेतत्। आर्य्यो जानातीति॥
-
-
 
  राक्ष०॥ प्रत्युक्तमेतत्। सोऽप्याह कुशध्वजोजानातीति॥
 
@@ -767,8 +705,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **एह्येहि वत्स रघुनन्दन रामचन्द्र  
 चुम्बामि मूर्द्धनि चिराय परिष्वजे त्वां।**
 
-
-
 **आरोप्य वा हृदि दिवानिशमुद्वहामि  
 वन्देऽथवा चरणपुष्करकद्वयं ते॥४६॥**
 
@@ -821,8 +757,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  राजा॥ आर्य्यसीरध्वजेन गौतमेन शतानन्देनच॥
 
-
-
  विश्वा०॥
 
 अपहसन्॥
@@ -857,8 +791,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 संबन्धे सति यत्त्रिलोकपतिना सौख्यं न तत्र स्पृहा।  
 गन्तव्या पुनरन्यथैव नियतं लङ्कापि नः सीतया  
 तन्माभूदिह वः पुरन्दरपुरीवन्दिप्रसक्तो विधिः॥५०॥**
-
-
 
 **॥ नेपथ्ये कलकलः॥**
 
@@ -905,8 +837,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **![](../books_images/U-IMG-17240102811.jpg)**
 
-
-
 **॥ परशुरामसंवादो द्वितीयोऽङ्कः॥**
 
 ॥ ततः प्रविशत्युपविष्टः सचिन्तो माल्यवान्॥
@@ -936,8 +866,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 सर्व्वं प्रायो भजति विकृतिं भिद्यमाने प्रतापे॥४॥**
 
  कथं वत्सा शूर्प्पणखा प्राप्ता॥
-
-
 
 **॥ प्रविश्य शूर्पणखा॥**
 
@@ -969,8 +897,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 अर्थ्यो विरोधः शक्तेन जातो नः प्रतियोगिना॥७॥**
 
  शूर्प्प०॥ को संदेहो। जह दसमुहो डेसिमउलिएहिं विंसदिट्ठीहिं ओहीरमाणलोललोअणो णमन्तवदणो वट्ठदि।
-
-
 
 तह जाणामि दारुणो से हिअअवेअणावेओण एव्वं विरमिस्सद्दित्ति॥
 
@@ -1008,8 +934,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 माल्य०॥ अत्रैव परममाहेश्वरं लङ्केश्वरमभिनन्द्य ब्रवीति।विदितमेतद्वोयदस्माभिर्दण्डकारण्यतीर्थोपासकेभ्य-स्तपोधनेभ्यः प्रतिज्ञातमभयं। तत्र विराधदनुकबन्धप्रभृतयः केऽप्यभि-
 
-
-
 चरन्तीति श्रुतं। तत्तान्प्रतिषिध्यसद्वृत्तिमस्मद्धितां च माहेश्वरप्रीतिमनुरुद्ध्यन्तां भवन्तः।
 
 **ब्राह्मणातिक्रमत्यागो भवतामेव भूतये।  
@@ -1039,8 +963,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  अन्यतरविजयेऽपि तु क्षत्रियान्तकरश्चेद्राजपुत्रं विजयतेनैनमनभिहत्य रोषणो विरमेत्। एवं च सिद्धं नः समीहितंरामनिधनं। ऐक्ष्वाकस्तु विजयमानो ब्राह्मण्यो न ब्रह्मऋषिम-
 
-
-
 भिहन्यात्। निःश्रेयसापन्नेअपसृतमपि शस्त्रं प्रणिदध्यात्।एवं च दुष्टतरं स्यात्॥
 
  शूर्प्प०॥ को विसेसो॥
@@ -1064,8 +986,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 ततः परशुरामस्य न प्रतीमः पराभवं॥ १४॥**
 
  तदुत्तिष्ठ मिथिलाप्रस्थानाय जामदग्न्यमुत्तेजयितुं महेन्द्रद्वीपमेव गच्छावः। द्रष्टव्यश्च तत्र भगवान्भार्ग्गवः।
-
-
 
 **गभीरो माहात्म्यात्प्रथमशुचिरत्यन्तसुजनः  
 प्रसन्नः पुण्यानां प्रचय इव सर्व्वस्य सुखदः।  
@@ -1096,8 +1016,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **माहाभाग्यमहानिधिर्भगवतो देवस्य दग्धुः पुरा  
 माम्नायेन विशुद्धसर्व्वचारतः शिष्यो भृगूणां पतिः।**
-
-
 
 **द्रष्टव्यः स च मां दिदृक्षुरपिच त्यक्त्वाह्रियं मुग्धया  
 संत्रासान्निजयाभिजात्यनिभृतस्नेहो मयि द्योत्यते॥१८॥**
@@ -1130,8 +1048,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  सख्यः॥ अम्मो समन्तदो हा हा देव चंदमुह रामचन्दहा जामाउअ त्तिपरिदेवणामुहरकादरुव्विग्गसमत्थपरिअण-
 
-
-
 पलविदं अन्तेउरं वट्टइ। ता भट्टिदारिए सअंएव्व विणवेहिभट्टिदारअं॥
 
  सीता॥ तेण तुवरन्तीओसंभावेम्ह वेअपसरिअं अज्जउत्तं॥
@@ -1162,8 +1078,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  भो भोः परिस्कन्ताःक्व रामो दाशरथिः॥
 
  स्त्रियः॥ हद्धीहद्धी। एणं एव्व एसो वाहरदि॥
-
-
 
  रामः॥ तस्यायमनरालसाहसप्रचण्डकर्म्मणः प्रतिभिन्नपुष्करावर्त्तकस्तनितमांसलो वाङ्गिर्घोषः कर्णविवरमाप्याययति॥
 
@@ -1202,8 +1116,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  सख्यः॥ एस दिप्पन्तदिणअरालोअपेछिज्जन्तपहापरिक्खेवभासुरं जलन्तं सुणिसिदं परसुं धारअन्तो विसंखलुद्धुव्वेल्लहुदवहसिहासहस्ससंहिदजडाभरो सुदूरविक्खेवाविद्धविअडोरुदण्डणिब्भराभिघादविहलाविवसुंधरो परागदो जेव्वसो साअलक्खत्तिमहारक्खसो॥
 
-
-
  रामः॥
 
 **अयं स भृगुनन्दनस्त्रिभुवनैकवीरो मुनि  
@@ -1241,8 +1153,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **मुनिरयमथ वीरस्तादृशस्तत्प्रियं मे  
 विरमतु परिकम्पः कातरे क्षत्रियासि।**
 
-
-
 **जगति विततकीर्त्तेर्दर्प्पकण्डूलदोष्णः  
 परिसरणसमर्थो राघवः क्षत्रियोऽहं॥२७॥**
 
@@ -1277,8 +1187,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  जाम०॥ साधु राजपुत्र साधु। सत्यमैक्ष्वाकः खल्वसि।
 
-
-
 **अन्विष्यतः प्रमथनाय ममापि दर्प्पा  
 दात्मानमर्प्पयसि जातिविशुद्धसत्त्वः।  
 गन्धद्विपेन्द्रकलभः करिकुम्भकूट  
@@ -1309,8 +1217,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 अयं सः। यः किल पुरा सपरिवारकार्त्तिकेयविजयावर्ज्जितेन भगवता नीललोहितेनसहस्रपरिवत्सरान्तेवासिने तुभ्यं प्रसादीकृतः परशुः॥
 
 सख्यः॥ भट्टिदारिए पेक्ख हिअअभरिअउव्वमन्तवहुमाणो णिक्कम्पधीरगरुअत्तणेण ओहसइ भअवओभग्गवस्सआउहलम्भं भट्टिदारओ॥
-
-
 
 **॥ सीता सविस्मयासं पश्यति॥**
 
@@ -1356,8 +1262,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 त्यागः सप्तसमुद्रमुद्रितमहीनिर्व्याजदानावधिः  
 सत्यब्रह्मतपोनिधेर्भगवतः किं वा न लोकोत्तरं॥ ३६॥**
 
-
-
  सख्यः॥ जाणादि महाभाओगरुअरमणिज्जं मन्तिदुं॥
 
  जाम०॥
@@ -1392,8 +1296,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 रत्यद्भुतैर्मम हृतस्य तथाप्यनास्था।  
 कोऽप्येष वीरशिशुकाकृतिरप्रमेय  
 माहात्म्यसारसमुदायमयः पदार्थः॥३९॥**
-
-
 
  आश्चर्य्यं।
 
@@ -1435,8 +1337,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 आदित्यशिष्यः किल याज्ञवल्क्यो  
 यस्मै मुनिर्ब्रह्म परं विवव्रे॥४३॥**
 
-
-
 सव्वृत्त एषस्तथापि तु क्षत्रिय इति शिरः शूलमुत्कोपयति॥
 
 **॥ ततः प्रविशतः संभ्रान्तौ जनकशतानन्दौ॥**
@@ -1472,8 +1372,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  जाम०॥ आः। मय्येव भृकुटिधरः संवृत्तः॥अरे क्षत्रियडिम्भ त्वं किल शिशुर्नववधूटिकापरिग्रह इत्यपूर्व्वमुपतप्यतेऽस्माभिः॥
 
-
-
 **सुप्रसिद्धः प्रवादोऽयमिति हेति च गीयते।  
 जामदग्न्यः स्वयं रामो मातुर्मुर्द्धानमाच्छिनत्॥४७॥**
 
@@ -1506,8 +1404,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  शता०॥ कन्यान्तःपुरमक्रमात्प्रविशता संदूषिता नः स्थितिः॥
 
  जाम०॥ अरण्यवासी ब्राह्मणोऽहमनभिज्ञः परमेश्वरगृहाचारस्य॥
-
-
 
  रामः॥
 
@@ -1551,10 +1447,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **![](../books_images/U-IMG-17240102811.jpg)**
 
-
-
-
-
 **॥ संसृष्टो नाम तृतीयोऽङ्कः॥**
 
 **॥ ततः प्रविशतो वसिष्ठविश्वामित्रौ जामदग्न्यशतानन्दौच॥**
@@ -1585,8 +1477,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 कृतविततिरकस्मात्प्राकृतैरुत्तमानां  
 विरमति न कथंचित्कश्मला किंवदन्ती॥४॥**
 
-
-
  वसि०॥ अयि वत्स किमनया यावज्जीवमायुधपिशाचिकया। श्रोत्रियोऽसि जामदग्न्य पूतंभजस्व पन्थानमारण्यकश्चासि तत्प्रचिनु प्रसादनीश्चतस्रो मैत्र्यादिभावनाः प्रसीदतुहि ते विशोका ज्योतिष्मती नाम चिन्तवृत्तिः। समापयतु परशुश्च। तत्प्रसादजमृतंभराभिधानमवहिःसाधनोपाधेयसर्व्वार्थसामर्थ्यमपविद्धविप्लवोपरागमूर्ज्जस्वलमन्त-र्ज्योतिषो दर्शनंप्रज्ञानमभिसंभवति। तद्ध्याचरितव्यं ब्रह्मणेन तरति येन मृत्युंपाप्मानं। अन्यत्रचाभिनिविष्टोऽसि। पश्य॥
 
 **परिषदियमृषीणामेष वृद्धो युधाजि  
@@ -1610,8 +1500,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **प्रायश्चित्तं चरिष्यामि पूज्यानां वो व्यतिक्रमात्।  
 न त्वेवं दूषयिष्यामि शस्त्रग्रहमहाव्रतं॥८॥**
-
-
 
  तथा हि।
 
@@ -1650,8 +1538,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  जाम०॥ व्यरंसिषमेव पितृवधप्रयुक्तात्क्षत्रवधमहाधिकारात्। किमत्र निहूवः।
 
-
-
 **परशुरशनिखण्डः क्षत्रघातं विहाय  
 प्रियमपि समिदिध्मव्रश्चनः किं न जातः।  
 निभृतविशिखदंष्ट्रश्चापदण्डोऽपि धत्ते  
@@ -1681,8 +1567,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **न तस्य राज्यं व्यथते न भ्रश्यति न जीर्य्यति।  
 त्वं विद्वान्ब्राह्मणो यस्य राष्ट्रगोपः पुरोहितः॥१८॥**
 
-
-
  जाम०॥ गौतम त्वयेव बहुभिः क्षत्रियपुरोहितैर्ब्रह्मतेजसा स्फुरितमासीत् किंतु प्राकृतानि तेजांस्यप्राकृते ज्योतिषिप्रशाम्यन्ति॥
 
  शता०॥ सक्रोधं॥ अरे अनड्वन्। निरपराधराजकुलकदनमहापातकिन्॥ अशिष्टविकृतचेष्ट वीभत्सकर्म्मन्। अपूर्व्वपाषण्ड काण्डीरकाण्डपृष्ठ। कथमस्यामपि दिशि प्रगल्भसे ननुच रे त्वमसि किंब्राह्मण एव। अहो महाब्राह्मणस्याचारः।
@@ -1709,8 +1593,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **सक्रोधः प्रसभमहं पराभिघाता  
 दुहूय द्रुततरमाततायिनं वः।**
-
-
 
 **उत्पातक्षुभितमरुद्विघट्यमानो  
 वज्राग्निर्द्रुममिव भस्मसात्करोमि॥२१॥**
@@ -1743,8 +1625,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 स दर्प्पादुद्दामद्विषमसहमानः स्खलयतु।  
 अरामां निःसीरध्वजदशरथीकृत्य जगती  
 मतृप्तस्तत्कुल्यानपि परशुरामः शमयति॥२४॥**
-
-
 
 **॥ नेपथ्ये॥**
 
@@ -1786,8 +1666,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **क्षत्रालोकक्षुभितहुतभुक्प्रस्फुलिङ्गाट्टहासं  
 हास्यः पश्यन्नपि रिपुशिरःस्थानशातं कुठारं।**
 
-
-
 **दत्तोत्सेकः प्रलपति मया याज्ञवल्क्यानुरोधा  
 न्मिथ्याध्मातः किमपि रजसा जर्ज्जरः क्षत्रबन्धुः॥२८॥**
 
@@ -1818,8 +1696,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **उत्तिष्ठोत्तिष्ठ यावद्विशकलितयकृत्क्लोमवक्षोदुकान्स्र  
 स्नायुग्रन्थ्यस्थिशुक्रष्यतिकरितजरत्कन्धरादत्तकण्ठः।**
-
-
 
 **मूर्द्धच्छेदादुदञ्वद्गलधमनिसिरारक्तडिण्डीरपिण्ड  
 प्रायः प्राग्भारघोरं पशुमिव परशुः पर्व्वशस्त्वां शृणातु॥३२॥**
@@ -1854,8 +1730,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  दश०॥ अरे किमत्रकाचिद्भ्रान्तिः।
 
-
-
 **अज्ञो वा यदि वा विपर्य्ययगतो ज्ञानेऽथ संदेहभृ  
 दृष्टादृष्टविरोधि कर्म्म कुरुते यस्तस्य गोप्ता गुरुः।  
 निःसंदेहविपर्य्यये सति पुनर्ज्ञाने विरुद्धक्रियं  
@@ -1887,8 +1761,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  जाम०॥ एवमवधूतोऽस्मि।
 
-
-
 **अन्तर्धैर्य्यभरेण वृद्धवचनात्संपीड्य पिण्डीकृतो  
 हृन्मर्म्माश्रितशल्यवत्परिदहन्मन्युश्चिरं यः स्थितः।  
 स्फूर्ज्जत्येव स एष संप्रति मम न्यक्कारभिन्नस्थितेः  
@@ -1917,8 +1789,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 प्राक्संस्कारवशेन चापमितरः पाणिर्ममान्विष्यते॥४३॥**
 
  जाम०॥ ननु भोः कौशिक।
-
-
 
 **त्वं ब्रह्मवर्च्चसधरोयदि वर्तमानो  
 यद्वास्वजातिसमयेन धनुर्धरः स्याः।  
@@ -1952,8 +1822,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 न हि विजेष्यसे।दुर्दमो हि रेणुकापुत्रस्त्वदन्तकः। तथाहि। संप्रति॥
 
-
-
 **कृत्तक्षत्रियकण्ठकन्दरसरत्कीलालनिर्वापित  
 प्रत्युद्भूतशिखांकरालहुतभुग्झांकारिभिर्मार्ग्गणैः।  
 एतद्भस्मरकालरुद्रकवलव्यापारमभ्यस्यतु  
@@ -1984,8 +1852,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  माल्य०॥ यासौ राज्ञा दशरथेन प्राक्प्रतिश्रुतवरद्वयाराज्ञी भरतमाता कैकेयी तस्या मन्थरा नाम परिचारिका
 
-
-
 दशरथस्य वार्त्ताहारिणी मिथिलामायोध्यायाः संप्रेषिता मिथिलोपकण्ठे वर्त्तत इति संप्रत्येव मे निवेदितं चारकैः।तस्यास्त्वया शरीरमाविश्य एवमेवं च कर्त्तव्यं॥
 
 इति कर्णे कथयति
@@ -2010,8 +1876,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  शूर्प्प०॥ मम दुदिअं एव्व एदं ण जुत्तं पडिभादि। जं चदूरट्ठिदस्स दासरहिणो सणिधाणकरणं। जं च अणावद्धवेरस्स अप्पडिसमाधेअंइत्यिआवेरं ति॥
 
  माल्य०॥स तावद्भूम्यानन्तर्य्यतः प्रत्यासन्न एव सानुचरसुन्दोपसुन्दपुत्रोपप्लवात्ताटकारिः कथमनाबद्धवैरः। अप्रतिविधेयं च रामरावणयोरितरथापि वैरं। पश्य॥
-
-
 
 **पाल्यं तस्य जगद्वयंतु जगतो नित्यं हठादेशिनः  
 सामैवं सति कीदृगप्रियकृता शश्वद्विरुद्धात्मना।  
@@ -2042,8 +1906,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **क्षितेरानन्तर्यादपकृदपकृत्यश्च सततं  
 द्विधा रामः शत्रुः प्रकृतिनियतः क्षत्रिय इति।**
 
-
-
 **तृतीयो मे नप्ता रजनिचरनाथस्य सहजो  
 रिपुप्रत्यासत्तेरहिरिव भयं नो जनयति॥७॥**
 
@@ -2057,8 +1919,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  तत्र रामस्योपयोग इति॥
 
  शूर्प्प०॥ अहो अणुजीवित्तणस्स अगरुअदा। जं रावणस्सखरप्पमुहाणं च तुल्ले वि कुलसंबन्धे एव्वंमादामहोचिन्तेदि॥
-
-
 
  माल्य०॥ ईदृशः कुलपुत्रकाचारः।
 
@@ -2089,8 +1949,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 ॥ एव्वंवि दाव होदु॥
 
  माल्य०॥ गम्यतामिदानीं वत्से यत्रप्रेषितासि। सुकरं
-
-
 
 चैतत्प्रयोजनं। यदा जनकदशरथान्तिके वसिष्ठविश्वामित्रौ नस्यतां। अहमपि लङ्कामेव गच्छामि॥
 
@@ -2127,8 +1985,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **अस्माभिरप्यनाशास्यो रामस्य महिमान्वयः।  
 यत्कृतास्तेन कृतिनो वयं च भुवनानि च॥१३॥**
 
-
-
  विश्वा०॥ प्रकृष्टपुण्यपरिपाकोपादान एष महिमा। केवयमेतावतः प्रहर्षस्य॥
 
  दश०॥ भगवन्कुशिकनन्दन मा मैवं॥
@@ -2159,8 +2015,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  अपिच।
 
-
-
 **अरिष्टस्त्वाष्ट्रस्य प्रशमनविधौ जम्भदमनः  
 स विश्वेषामीशः पतिरपि निकायस्य मरुतां।  
 विजेतारं सेनाः सततमपहन्तारमसुरा  
@@ -2190,8 +2044,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 विद्यातपोव्रतनिधौतपतां वरिष्ठे।  
 दैवात्कृतस्त्वयि मया विनयापराध  
 स्तत्त्वं प्रसीद भगवन्रयमञ्जलिस्ते॥२१॥**
-
-
 
  जाम०॥ अपराद्धंवत्स त्वया जामदग्न्यस्य नोपकृतं॥
 
@@ -2232,8 +2084,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 ॥
 
-
-
  जाम०॥ भगवन्मैत्रावरुण एष जमदग्निपुत्रः प्रणम्यकौशिकेन सार्द्धमत्रभगवतो विज्ञापयामि।
 
 **वृद्धातिक्रमसंभृतस्य महतो निर्णिक्तये पाप्मनः  
@@ -2260,8 +2110,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  जाम०॥ भगवति वसुन्धरे प्रसीद रन्ध्रदानेन॥
 
  जन०॥ भगवन् यदि प्रसन्नोऽसि तद्विस्रब्धोपवेशनात्परिपुनीहि गृहान् एतत्पूतमासनं भगवतः॥
-
-
 
  जाम०॥यदभिरुचितं सूर्य्यशिष्यान्तेवासिने राजन्यश्रोत्रियाय॥
 
@@ -2295,8 +2143,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 शश्वत्कीर्त्तिनिबन्धनं भगवती भागीरथी सागरः  
 प्रख्यातानि च तानि तानि भवतां भूमानमाचक्षते॥३१॥**
 
-
-
  ॥वसिष्ठविश्वामित्रौ॥ अपवार्य्यं। एतदपि शिक्षितं वत्सेन॥
 
  जाम०॥ रामभद्र मामनुमोदस्वारण्यगमनाय॥
@@ -2326,8 +2172,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **अन्योन्यमहात्म्यविदोरन्यैरविदितात्मनोः।  
 विराजते विरोधोऽपि नाम स्नेहे तु का कथा॥३४॥**
-
-
 
 **॥ नेपथ्ये॥**
 
@@ -2384,8 +2228,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  इध्मादिप्रयोजनमस्तु परशुः।
 
-
-
 **पुण्यानामृषयस्तटेषु सरितां ये दण्डकायां वने  
 भूयांसो निवसन्ति तेषु सततं लङ्कासदो राक्षसाः।  
 विध्वंसाय चरन्ति तत्प्रमथने स्वस्योपयोगो भवे  
@@ -2431,8 +2273,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 | अहो समग्गसोहग्गलच्छीपरिग्गहेण लोअणरसाअणसोम्मं से सरीरणिम्माणं|
 
-
-
 भो दाणिं चिरआलवेहव्वदुक्खपम्हसिदसंसारसोक्खस्स वि जणस्स
 चारित्तधीरसुपूरिदं पुणोवि हिअअं परिप्फुरावेदि॥
 
@@ -2469,8 +2309,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **तस्यां चीरधरश्चतुर्दश समास्तिष्ठत्वसौ तं पुनः।  
 सीतालक्ष्मणमात्रकात्परिजनादन्यो न चानुव्रजेत्॥ ४१॥**
 
- 
-
 स्वगतं
 
 ॥ हा पापरण्डे मातृबन्धु॥
@@ -2486,8 +2324,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  लक्ष्म०॥ दिष्ट्यानुमोदितोऽहमार्य्येण॥
 
  रामः॥आर्य्येमन्थरे एष प्रस्थितोऽस्मि॥
-
-
 
  शूर्प्प०॥ णमो दाणिं भअवदो संसारस्स। जत्यईरिसावि कप्पदुमा परोहन्ति॥
 
@@ -2522,8 +2358,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  दश०॥ यद्येवं। तदयमेव जामदग्न्यविजयमहोत्सवः प्रसज्यतामभिषेकमहोत्सवेन॥
 
  रामः॥ इदमिदानीं कथं॥
-
-
 
  दश०॥ सुमन्त्र संनिधाप्यन्तामाभिषेचनिकाः संभाराः।यश्च येनार्थी स तेन पर्याप्तकामः कर्त्तव्यः॥
 
@@ -2573,8 +2407,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  दश०॥ एवमस्तु । का गतिः॥
 
-
-
  जन०॥ हा वत्स रामभद्र हा वत्स लक्ष्मण।
 
 **पुत्रसंक्रान्तलक्ष्मीकैर्यद्वृद्धैक्ष्वाकुभिर्धृतं।  
@@ -2606,8 +2438,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **॥ ततः प्रविशति लक्ष्मणः सीता च॥**
 
  लक्ष्म०॥ आर्य्य इयमार्य्या॥
-
-
 
  रामः॥ इत इतः॥
 
@@ -2672,8 +2502,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 ॥ आर्य्य॥
 
-
-
  रामः॥
 
 परिष्वज्य
@@ -2724,8 +2552,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  युधा०॥ वत्स रामभद्र २॥
 
-
-
 **एकीभूय शनैरनेकसमयव्युत्पन्नमेकक्रियं  
 मुक्ताक्रन्दमितस्ततः किमिदमित्युद्भ्रान्तनारीनरं।  
 एतत्त्वत्पुरमन्यथैव सहसा संजातमावेद्यते  
@@ -2753,8 +2579,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **त्वां लक्ष्मण महावाहो त्वां च वैदेहनन्दिनि।  
 आमन्त्रये निवृत्तोऽस्मि पापः कल्याणमस्तु वां॥५९॥**
 
-
-
 **॥ रुदन्प्रतिनिवृत्य॥**
 
  अहो नु खलु भोः।
@@ -2775,8 +2599,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **॥ चारित्रं नाम चतुर्थोऽङ्कः॥४॥**
 
 **![](../books_images/U-IMG-17247677481.jpg)**
-
-
 
 **॥ आरण्यकं नाम पञ्चमोऽङ्कः॥**
 
@@ -2807,8 +2629,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 जाता ममाप्युत्पतनश्रमार्त्तिः।  
 शक्तिर्हि कालस्य विभोर्जराख्या  
 शक्त्यन्तराणां प्रतिबन्धहेतुः॥४॥**
-
-
 
 तदयमार्य्यो मन्वन्तरपुराणगृध्रराजः संपातिः।अहो भ्रातृस्नेहः।
 
@@ -2845,8 +2665,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  जटा०॥ वाढमधुनागस्त्यवचनाद्रामः पञ्चवट्यांप्रतिवसति॥
 
-
-
  संपा०॥
 
 चिरात्स्मृत्वा
@@ -2881,8 +2699,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **स्वसुः सोदर्य्यायाः कथमिव निकारं दशमुख  
 स्तथा भूयोभूयः स्वजनविनिपातं च सहते।**
-
-
 
 **मदान्धो मायावी प्रभुरमितवीर्य्योऽन्तिकचरः  
 सपत्नः कष्टं नो निपुणमनुपाल्या हि शिशवः॥१४॥**
@@ -2920,8 +2736,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 पौलस्त्य पौलस्त्य।
 
-
-
 **धर्त्तारः प्रलयेषु ये भगवतो वेदस्य विद्येश्वरा  
 स्तेषामन्वयसंभवस्य भवतः स्रातस्य वेदव्रतैः।  
 जेतुर्नैतलसद्मनोऽपि तपसा दृप्तस्य राज्ञः सतो  
@@ -2951,8 +2765,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 द्वैर्यस्तम्भितदुर्व्यवस्थविततप्रोञ्चण्डकोपानलः।  
 उद्धूमावलिरम्भसामिव निधिर्मध्यज्वलद्वाडवो  
 विद्युद्व्यञ्जितवज्रगर्भजलदच्छायां समालम्बते॥२१॥**
-
-
 
 **॥ ततः प्रविशति रामः॥**
 
@@ -2985,8 +2797,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  लक्ष्म॰॥ अतश्चतस्मिन्दुरात्मनि सर्वप्रकारेण वैरानृण्यमुपगच्छावः॥
 
-
-
  रामः॥ अथ किं। किं हि नामैतत्करिष्यते। यदेतावतःपरिभवातिप्रसङ्गस्य तुल्यं स्यात्।
 
 **प्रागेव राक्षसवधाय मतिः स्थिता मे  
@@ -3008,8 +2818,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  लक्ष्म०॥ ननु तदैव तातमारुणिं गृध्रराजमग्निसात्कृत्यनिर्गतयोः पञ्चवट्याश्रमादावयोः कोऽपि कालो वर्त्तते।यदा दूरविच्छिन्नाः संप्रति जनस्थानसीमानः। यथा चैतान्ययतः प्रतिभयजननान्यरण्यानि तथा नूनमसौ जनस्थानपश्चिमः कुञ्जवान्नाम दनुकबन्धाधिष्ठितो दण्डकारण्यविभागः॥
 
  रामः॥द्रष्टव्य एव स दुरात्मा कान्तारमण्डूकः॥
-
-
 
 **॥ नेपथ्ये॥**
 
@@ -3052,8 +2860,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  श्रम०॥ स च दैवाद्यदैव खरदुषणप्रभृतयो निहतास्तदैव
 
-
-
 बन्धुभ्यः कस्यापि हेतोः परिक्रम्य सुग्रीवसख्यादृष्यमूके वर्त्ततेतस्यायमात्मसमर्प्पितो लेखः॥
 
 इति लेखमर्प्पयति॥
@@ -3089,8 +2895,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  श्रम०॥ ऋष्यमूके रामगुणपक्षपातात्सुग्रीवविभीषणहनूमत्प्रभृतिभिः॥
 
-
-
  रामः॥ द्रष्टव्या हि निष्कारणप्रियकारिणो भुवनमहनीयमहिमानस्ते महात्मानः तच्च सीतावासश्च्युतमभिज्ञानं।तदृष्यमूकमभिसंधाय तावद्गच्छावः॥
 
  श्रम०॥ इत इतस्तर्हि देवः॥
@@ -3116,8 +2920,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  श्रम०॥ लक्ष्मणकुमारेण तस्य योजनबाहोश्चितेयमभिसृष्टा॥
 
  रामः॥ साधु साधु कृतं॥
-
-
 
  लक्ष्म०॥ आर्य्यपश्य पश्य।
 
@@ -3148,8 +2950,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  इतरे॥ क्वान्यत्ररामदेवादमून्यक्षराणि नाम॥
 
  रामः॥ भद्रं कृतं सौजन्यं। अधुना नन्द महाभाग स्वेषुलोकेषु॥
-
-
 
 **॥ इति दनुर्निष्क्रान्तः॥**
 
@@ -3190,8 +2990,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  लक्ष्म०॥ प्रशान्तगम्भीरनीलविपुलश्रीररण्यगिरिभूमिःप्रसज्यते॥
 
-
-
 श्रम०॥ ऋष्यमूकपम्पापर्यन्तभूमयः खल्वेताः॥ तथा चाग्रतो मतङ्गाश्रमपदं। यत्र शून्येऽपि संनिहितसोमचषकविशेषपात्रपरिकरास्तीर्णबर्हिरिध्मवानाज्यगन्धिरद्यापिभगवान्वैश्वानरः समिध्यते॥
 
  रामः॥ अचिन्त्यसमृद्धयस्तपसां विशेषाः॥
@@ -3218,8 +3016,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 कृतमतिकलकण्ठैस्ताण्डवं नीलकण्ठैः।  
 उपरिविघटमानप्रौढतापिच्छनीलः  
 श्रयति शिखरमद्रेर्नूतनस्तोयवाहः॥४२॥**
-
-
 
  लक्ष्म०॥
 
@@ -3262,8 +3058,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 एवं नामायुक्तमनुरुद्यमानाः पुमांसो महत्ययुक्तगह्वरे पा-
 
-
-
 त्यन्ते॥ यदनेन माल्यवता पौलस्त्यमैत्रीदिवसमनुस्मार्य्यतत्रभवतो रघुध्वजस्य निधने नियुक्तोऽस्मि॥ अहो ग्रहः॥प्रातरारभ्य मामनुबध्नन्‌ किष्किन्धायाः प्रस्थाप्य संप्रतिनिवृत्तः॥ कष्टं भोः कष्टं।
 
 **दौरात्म्यादरिभिर्निजार्ज्जवशुचौमायाविभिर्वञ्चिते  
@@ -3293,8 +3087,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  वाली॥ अपि त्वं पुनरसौ लक्ष्मणः॥
 
  लक्ष्म०॥ अथकिं॥
-
-
 
 **॥ उपसर्प्पतः॥**
 
@@ -3340,8 +3132,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  लक्ष्म०॥आर्य्ययथाह महाभागः स्वजातिसमयव्यवस्थिता युद्धधर्म्माइति॥
 
-
-
  वालीरामौ॥
 
 अन्योन्यमुद्दिश्य
@@ -3375,8 +3165,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  लक्ष्म०॥ तेन हि संप्रति मयाप्यारोपितव्यं धनुः॥
 
-
-
  श्रम०॥ एष वालिकायदुन्दुभिकरङ्कसप्ततालगिरिमहीतलान्यवदार्य्य रामतूणीरमधिशयितः शरः॥
 
 **॥ नेपथ्ये॥**
@@ -3398,8 +3186,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 सर्व्वंकषः कषति हा विषमः कृतान्तः॥५६॥**
 
  वाली॥ वत्स विभीषण पश्य पश्य सुष्ठु शोभते वत्ससुग्रीवस्य वक्षसि सहस्रपुष्करमालागुणः।
-
-
 
  सुग्रीवविभीषणौ॥
 
@@ -3451,8 +3237,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  वाली॥ वत्स कथय कस्तवास्मि॥
 
-
-
  सुग्री०॥गुरुः स्वामी च॥
 
  वाली॥त्वं तु मम कः॥
@@ -3485,8 +3269,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  रामः॥ आर्य्यअथकिं॥
 
  वाली॥ तदनेन मैत्रीधर्म्मेण भवद्भामन्योन्यस्य वर्त्तितव्यं।मदनुरोधात्क्रियतामुपनिबन्धः अग्निसाक्षिकाच्च समयो नातिवर्त्तते॥ संनिहित एवायं मतङ्गयज्ञाग्निः॥
-
-
 
  रामसुग्रीवौ॥
 
@@ -3531,8 +3313,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  वाली॥ वत्स विभीषण तवाप्यलमिदानीं स्वार्थशालीनतया। एवंपरिणाममेवैतद्वस्तु। रावणो हि नास्त्येवेतिमद्वृत्तान्तेनैव व्याख्यातं। अपत्यस्नेहसाम्येऽपि पिण्डोपजीविनो विशेषतो रावणहितोपस्थानं धर्म्मः। स्वयं कथयितुंसम्यग्विभीषणस्य प्रेयसा योग इति मातामहस्य युक्तं।महान्त एव हि तादृशामगाधसत्त्वानामविनय-परिस्पन्दितं
 
-
-
 जानन्ति। प्रचलन्ति हि मे प्राणाः॥ तदवसानप्रपातस्थलमुपनयन्तु मां भवन्तः॥
 
  नीलप्रभृतयः॥
@@ -3565,8 +3345,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **॥महावीरचरित आरण्यकं नाम पञ्चमोऽङ्कः॥५॥**
 
 ![](../books_images/U-IMG-17249180661.jpg)
-
-
 
 **॥षष्ठोऽङ्कः॥**
 
@@ -3604,8 +3382,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 स्मरणं नाटयित्वा
 
 ॥ उक्तं च किष्किन्धातः प्रतिनिवृत्तेनचारकेण यत्सीतामन्वेष्टुमनुदिशमभिदुद्रुवुः कपिपुङ्गवाइति॥
-
-
 
 **॥**
 
@@ -3647,8 +3423,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  त्रिज०॥ कणिट्ठमादामह पुरदो जेव्वको वि मक्कण्डपर-
 
-
-
 माणू तीए समं मन्तअन्तो दिट्ठो तीए वि उम्मोचिअकेसाहरणं अहिणाणं ति तस्स हत्ये समप्पिदं एत्तिअंजाणामि॥
 
  माल्य०॥ किं न पर्याप्तं॥
@@ -3688,8 +3462,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 रक्षोनाथस्य॥
 
-
-
 **॥वामाक्षिस्पन्दनं सूचयन्। सव्यथं॥**
 
 **किं नो विधिरिह वचनेऽप्यक्षमो दुर्विपाकः॥७॥**
@@ -3723,8 +3495,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 तदत्रप्रतीकारेषु केवलं मतिसंधानजृम्भितमवशिष्यते। कृतमनेन वत्से अवैषि किमुपक्रमस्तावद्देवदशकन्धरः॥
 
-
-
  त्रिज०॥ कणिट्ठमादामह सामी क्खु संपदं सव्वत्तोभद्दंणाम अट्टालअंआरुहिअतीए रक्खसकुलकालरत्तीए अधिटिदं असोअवणिअं जेव्व पुलोअन्तो चिट्ठदि। अणं अइहिमुहं पउत्ता एसा पउत्ती सुदा। एदं णअरवुत्तन्तं अणुहविअकिं वि दुम्मणाअन्ती सामिणी पडिवोहेउं तहिं जेव्वपत्थिदेति॥
 
  माल्य०॥ वत्से स्त्रीत्वेऽपि वरं सा खलु देवी मन्दोदरीयन्मतिः प्रतिबोधनायोत्ताम्यति। न पुनर्देवो यः प्रतिबोधितोऽद्यापि न बुध्यते तदेहि तावदभ्यन्तरं प्रविश्य प्रणिधिकृत्यं विचारयामः॥
@@ -3755,8 +3525,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 सगर्व्वं।
 
 अथवा क एष विधिरपि।
-
-
 
 **पिष्ट्वा ब्रह्माण्डमस्मादथभुवनविभागाद्धुदस्यापि किंचि  
 द्ब्रह्माणं चाधिकृत्याप्रतिमरुचितरं स्वं प्रतापं यशश्च।  
@@ -3794,8 +3562,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **योऽहं द्वाभ्यां भुजाभ्यां मृधभुवि युगपन्मत्तदिग्दन्तिदन्तान्  
 रुड्वा दोर्भिश्चतुर्भिः सरभसमजितान्दिक्पतीनप्यरौत्सं।**
 
-
-
 **दीप्यद्वज्रादिचण्डप्रहरणपतनक्षुणवक्षस्त्वचो मे  
 तस्यापि प्रातिभट्याद्रिपुरिति कलितः कोऽप्यपूर्व्वःप्रमादः॥११॥**
 
@@ -3832,8 +3598,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  मन्दो०॥ महाराअवलीमुहसहस्साणीदेहिं महीहरेहिंसेटू णिम्मोअदि॥
 
-
-
  राव०॥ देवि विप्रलब्धासि केनचित्। अकलितगाम्भीर्य्यमहिमा किलायं पाथोनाथः।
 
 **जम्बूद्वीपेऽथवान्येषु द्वीपेष्वपि महीधराः।  
@@ -3864,8 +3628,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  मन्दो०॥ महाराअ परित्ताहि २॥ इति सत्रासमुदीक्षते॥
 
  राव०॥ देवि अलं शङ्कया।
-
-
 
 **॥पुनर्नेपथ्ये॥**
 
@@ -3908,8 +3670,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 प्रकाशं
 
 ॥
-
-
 
 **पुरं निःशेषघटितं कपाटद्वारमावृतं।  
 रक्षा चाप्तैर्भक्तिमद्भिःकौणपैः परितः कृता॥१८॥**
@@ -3964,8 +3724,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 सीतां मुञ्च भजावरोधनसुहृद्दायादपुत्रान्वितः  
 सौमित्रेश्चरणौ न चेत्तदिषुभिः शासिष्यसे दुर्मदः॥२०॥**
 
-
-
  राव०॥
 
 सहासं
@@ -4015,8 +3773,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 मथ्नन्तां रिपुघस्मरप्रहरणं विक्षोभ्य भङ्ग्या भुजाः  
 खण्ड्यन्तां च मुहुर्विवल्गनवृथोत्थानोत्कटा मर्क्कटाः॥२३॥**
 
-
-
  प्रह०॥ यदाज्ञापयति महाराजः॥
 
 इति निष्क्रान्तः
@@ -4055,8 +3811,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 व्यावल्गत्प्रबलगतागतास्त्रपाणां॥२६॥**
 
 तथा तर्क्कये युयुत्सया निर्यियासति नक्तंचरचक्रवर्तीति॥
-
-
 
  वास०॥ सूत पश्य पश्य।
 
@@ -4098,8 +3852,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 तदवगन्तुमहं प्रहितः॥
 
-
-
  वास०॥ सकुल्यानामप्येष मनोरथः॥
 
  चित्र०॥ किं चित्रं सहजाः किल ते मिथः शत्रवः।कृत्रिमतापि निधिपुष्पकादिहरणवृत्तेर्दुर्वृत्तस्य सुप्रथिता।अथवा।
@@ -4134,8 +3886,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 ॥
 
-
-
  चित्र०॥ देवराज कथमतिसंधेयं तुमुलं। तथा हि।
 
 **रक्षोभिर्विपनौकसां परिवृढैश्चारादपास्तक्रमं  
@@ -4165,8 +3915,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 प्रकाण्डास्थिस्नायुस्फुटतरविलक्ष्यान्त्रनिवहाः॥३४॥**
 
  चित्र०॥ देवराज अपूर्व्वोऽयं रक्षःपतेः संग्रामावतरणसर्ग्गः। तथाहि।
-
-
 
 **प्रेष्याः संग्रामसीमन्यनुजशतवृतो मेघनादोऽपि पार्श्वे  
 वामेऽन्यत्र प्रवीरेष्वतिविषममदोद्बोधितः कुम्भकर्णः ।  
@@ -4201,8 +3949,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 अहो कथमेते वनौकसो महति सपत्नसङ्गरे
 
-
-
 स्वाभिधानयोगमेव ख्यापयन्तः पञ्चषाः केवलं रामभद्रपादमूलमासेवन्ते।तथाहि।
 
 **सुग्रीवः स्यन्दनस्याये सोऽङ्गदः पृष्ठतः पुनः।  
@@ -4234,8 +3980,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 संत्यज्यानिष्टशङ्की निपतति तरसा मेघनादोपकण्ठं॥४२॥**
 
 तदेतदत्याहितमाशङ्के॥
-
-
 
  वास०॥ गन्धर्व्वराज किमत्रनामात्याहितं। अपरिच्छेद्यमहिमानः किलैते ककुत्स्थकुलप्ररोहाः। तथाहि।
 
@@ -4280,8 +4024,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  वास०॥ गन्धर्व्वराज इत इतः।
 
-
-
 **लघुरघुपतिरेष राक्षसाना  
 मधिभुवि किं च कुमारमेघनादे  
 किमपि चरितमद्भुतं व्यतानी  
@@ -4308,8 +4050,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 परितो निरूप्य। सहर्षं॥
 
 दिष्ट्या स्वस्ति रघुकुलकुमाराभ्यामेताभ्यामुत्प-
-
-
 
 श्यामि। यतस्तावदेतयोरन्यस्मिन्व्यसनमहार्णवे यातुधानाधीशेनापि सपरिवारेण कुम्भकर्णवधात्संभ्रान्तं॥
 
@@ -4348,8 +4088,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 संप्रति तु धर्म्मयुद्धसंभावनाप्रतिहतबहुतरप्रधानव्यक्तिरावणमेघनाद-शेषमेतद्राक्षसबलमेताभ्यामवगणितमि-
 
-
-
 त्येतावप्युभौ न गणयन्ते परःसहस्रमप्यस्रपकीटाः।
 
 पुनर्लक्ष्मणंनिर्वर्त्य
@@ -4386,8 +4124,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  चित्र०॥ देवराज दुरवबोधोऽयमनयोर्महावीरयोर्मिथोविमर्द्दः।
 
-
-
 तथाहि।
 
 **क्ष्वेडाभिः ककुभः पृषत्कनिकरैर्व्योम द्विधाखण्डितै  
@@ -4422,8 +4158,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 स्वेकस्यैकोऽप्यनन्तः किमु सरसगुणौ वर्णनीयौ परस्य।  
 एतत्संपश्यतोरप्यतिचिरमनयोः कोऽप्यचिन्त्यःप्रभावो  
 यत्रोत्साहो न धैर्य्यं विरमति न शिरश्छेदतः पत्रिणोऽपि॥६१॥**
-
-
 
 **॥नेपथ्ये॥**
 
@@ -4467,8 +4201,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 **![](../books_images/U-IMG-17251931761.jpg)**
 
-
-
 **॥सप्तमोऽङ्कः॥**
 
 **॥ततः प्रविशति शोकाकुला लङ्का॥**
@@ -4498,8 +4230,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 विभाव्य
 
 ॥ कहं वहिणिआमे अलआ॥
-
-
 
  अल०॥ भगिनि समाश्वसिहि २। एवं किलेयं लोकयात्रा॥
 
@@ -4532,8 +4262,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  अल०॥ अवधत्स्व अहं किल वैमात्रकेण पौलस्त्येन
 
-
-
 गन्धर्व्वराजाच्चित्ररथादमुं वृतान्तमुपलभ्य शिष्टबन्धुप्रतिबोधनाय विभीषणस्य च लङ्काभिषेकसाक्षात्करणाय रावणापहृतविमानराजस्य पुष्पकस्य च रामभद्रोपस्थानोपदेशदानायसंदिष्टा॥
 
  लङ्का॥ अम्मो कहं भअवदो पसुवइणोवि मित्तं णिधाणाहिवई साअंएव्वंउवचरदि रामभद्रं।
@@ -4559,8 +4287,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 द्वृद्धश्रवाः समभिनन्दति साधु साध्वीं।  
 अग्निप्रवेशपरिनिर्गमशुद्धभावां  
 सीतां रघूत्तम भवत्स्थितिमाद्रियस्व॥३॥**
-
-
 
  अल०॥ कथमेते दिवौकसोऽपि दशकन्धरगृहनिवासव्यसनकौलीनशङ्कापनुत्यै कृतपावकप्रवेशनिर्गमनां सीतादेवीमभिनन्दन्ति। अहह।
 
@@ -4589,8 +4315,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 स्खलत्कनककङ्कणं नियमितैकवेणीभृतः।  
 क्षमातलविवर्त्तनातिमलिनाम्बरा मोचिताः  
 प्रयान्ति किल संमिता स्म सुरलोकवन्दिस्त्रियः॥५॥**
-
-
 
 उपश्रित्य
 
@@ -4635,8 +4359,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  सीता॥ अवि समत्तो सो वणवासस्स अवही॥
 
-
-
  लक्ष्म०॥ देवि अद्यतनमेव दिनं तत्॥
 
 सर्व्वे विमानगतिं निरूपयन्ति
@@ -4676,8 +4398,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  लक्ष्म०॥ आर्य्यता एवैताः। नातिदूर एव तावदासांस जीर्णकन्दरः।
 
-
-
 **गर्ज्जाजर्ज्जरितासु दिक्षु वधिरे तत्स्फूर्ज्जथुस्फूर्ज्जितै  
 र्व्योम्नि भ्राम्यति दुष्प्रभञ्जनजवादभ्रेऽप्यदभ्रेमुहुः।  
 आक्षिप्यान्धयति द्रुमान्धतमसे चक्षुः प्रविश्य क्षपा  
@@ -4706,8 +4426,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 सर्व्वे तथा कुर्व्वन्ति
 
 ॥
-
-
 
 **॥आकाशे॥**
 
@@ -4746,8 +4464,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 स्वान्तेऽपि सान्द्रामृतकुम्भसेक  
 स्तदा यदासीत्किल दृष्टमात्रं॥१७॥**
 
-
-
 **॥सीता शृङ्गारलज्जांनाटयति॥**
 
  लक्ष्म०॥ अयं
@@ -4782,8 +4498,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  विभी०॥ देवात्युच्चैः किलायं सह्यः सानुमान्। एनमतिक्रम्य गम्यते किलार्य्यावर्त्तः। तदतिक्रमणायेदमपि मध्यम-लोकसांनिध्यं किंचिदुज्झति॥
 
  लक्ष्म०॥ द्रष्टव्यः किलोत्तमपुरुषपदलाञ्छितो मध्यमलोकः॥
-
-
 
 **॥सर्व्व उच्चैर्गतिवेगं निरूपयन्ति॥**
 
@@ -4830,8 +4544,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
 अवधत्तामितो देवः।
 
-
-
 **कैलासाञ्जनशैलावेतौ तुल्योन्नतत्वपरिणाहौ।  
 चन्दनमृगमदलेपं गमितौ क्षोण्या न वक्षोजौ॥२४॥**
 
@@ -4860,8 +4572,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 जन्मादिकर्म्मविधुरैः सुमनश्चकोरै  
 राचम्यतां तव यशः शरदांसहस्रं॥२५॥**
 
-
-
 **॥तत्रैव किन्नरी॥**
 
 **यावत्फणीन्द्रशिरसि क्षितिचक्रमेत  
@@ -4889,8 +4599,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 निरूप्य। सस्मरणावेगं
 
 ॥ वत्स ता एवैता गुरूणां कौशिकपादानां संचरणेन पवित्रितपर्यन्तास्तपोवनभूमयः।यत्र तु तत्रभवता याज्ञवल्क्यान्तेवासिना द्वितीयेन विदेहाधिपतिना सह तत्संलापामृतप्रमोदमनुभवतां गुरूणां लालनीयाभ्यामावाभ्यां बालोचितमुल्ललितं॥
-
-
 
  सीता॥स्वगतं॥ कहं कणिट्ठतादी त्तिसुणीअदि॥
 
@@ -4923,8 +4631,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 शास्त्रास्त्रज्ञानमुख्यस्तु संस्कारोऽस्मान्महात्मनः॥**
 
  विभी०॥ विलोक्य॥ किमिदमकाण्ड एव नीहारजालैरिवक्षमारजोभिराच्छाद्यन्ते ककुभः॥ सर्व्वेसविस्मयं पश्यन्ति॥
-
-
 
  रामः॥
 
@@ -4982,8 +4688,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **अनुभावयति ब्रह्मानन्दसाक्षात्क्रियामिव।  
 स्पर्शन्तेऽद्य वराम्भोजप्रस्फुरत्नालकर्कशः॥३०॥**
 
-
-
 **॥इति निर्भरमालिङ्ग्यविसृजति। लक्ष्मणः सपादपतनं भरतमालिङ्गति। शत्रुघ्नःरामलक्ष्मणावभिवादयति॥**
 
  उभौ॥ कुलस्थितिमनुवर्णस्व॥
@@ -5032,8 +4736,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 कृपारामो रामो वहिरिह दृशो यास्यत इति  
 प्रमोदाद्वैतस्याप्युपरि परिवर्त्तामह इमे॥३२॥**
 
-
-
 भवतु तथापि लोकयात्रानुवर्त्तनीया॥
 
 प्रकाशं
@@ -5069,8 +4771,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 वसिष्ठंविलोक्य। सोल्लासं
 
 ॥ स एष भगवान्मैत्रावरुणिः।
-
-
 
 **यद्दर्शनात्किमप्येतद्द्रवीभवति मे मनः।  
 राकासुधाकरालोकादिन्दुकान्तोपलो यथा॥३३॥**
@@ -5121,8 +4821,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  सर्व्वाः॥ जादे कुलपडिट्ठावअदारअप्पसविणी होहि॥
 
-
-
 **॥नेपथ्ये॥**
 
 **प्रवर्त्तन्तां पौराः प्रतिसदनमद्योत्सवविधौ  
@@ -5159,8 +4857,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
  विश्वा०॥ भगवन्मैत्रावरुणे किमद्यापि प्रतीक्ष्यते॥
 
  वसि०॥ यथोचितमाद्रियतां॥
-
-
 
  विश्वा०॥ दिव्यर्षिगुणमुद्दिश्य॥ निर्वर्त्त्यतां रामभद्रस्याभिषेकः॥
 
@@ -5202,8 +4898,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 
  रामः॥ इतोऽधिकमपि श्रेयोऽस्ति। तथापीदमस्तु भगवत्पादप्रसादाद्भरतवाक्यं॥
 
-
-
 **क्ष्मापालाः क्षीणतन्द्राः क्षितिवलयमिदं पान्तु ते कामवर्षा  
 वार्वाहाः सन्तु राष्ट्रं पुनरखिलमपास्तेऽतिसंपन्नसस्यं।  
 लोके नित्यं प्रमोदं निदधतु कवयः श्लोकमाप्तप्रसादं  
@@ -5220,8 +4914,6 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **![](../books_images/U-IMG-17252081521.jpg)**
 
 **॥समाप्तमिदं वीरचरितं नाम नाटकं॥**
-
-
 
 **ERRATA.**
 
@@ -5263,8 +4955,5 @@ wherever, in this book, the Sandhi is broken, either by meansof a Viráma, or by
 **![](../books_images/U-IMG-17252081521.jpg)**
 
 **WILLIAM WATTS, CROWN COURT, TEMPLE BAR**
-
-
-
 
 \]

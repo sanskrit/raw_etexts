@@ -15,17 +15,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MDYyMTcxMjc
 
 \[
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
 
 **॥ श्रीः ॥  
 ॥ कुम्भाभिषेकचम्पूः ॥**
@@ -783,8 +775,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MDYyMTcxMjc
 ओं तत्सत्॥
 
 ![](../../../books_images/U-IMG-1720340670Screenshot2024-07-07135405.png)
-
-
-
 
 \]

@@ -17,25 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUwNjc3ODcxMDg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
-
-
-
-
 
 **॥ अवतरणिका ॥**  
 ————
@@ -148,7 +130,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUwNjc3ODcxMDg
 **श्रीमत्कृष्णमहीमहेन्द्रकरुणा वर्वर्द्धु चास्मिन् सदा  
 श्रीकृष्णे परदेवभावधिषणा भोभूयतां निश्चला॥ इति॥**
 
- 
  एवमावेदयति,  
 मै सू रु
 **पण्डितरत्नं रायपाल्य राघवेन्द्राचार्यः**,  
@@ -157,8 +138,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUwNjc3ODcxMDg
 
 अनुभूतपूर्वराजकीयप्राच्यकोशाहार–  
 प्रधानपण्डिताधिकारश्च।
-
-
 
 **श्रीकृष्णाय नमः  
 — - —**
@@ -473,8 +452,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUwNjc3ODcxMDg
 
 **सामैवं स तयोश्चक्रेवसुदेवपुरोहितः।  
 सङ्कर्षणो रौहिणेयः कृष्णोऽयं नन्दनन्दनः॥५५॥**
-
-
 
 **• इति हरिवंशचम्पौ प्रथमो विलासः समाप्त।**
 
@@ -2059,14 +2036,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUwNjc3ODcxMDg
 अनेन भारतीरमणमुख्यप्राणान्तर्गत कृष्णवेदव्यासात्मकश्री श्रीनिवासः प्रियताम्.
 
 **---_(\*)श्री कृ ष्णा र्प ण म स्तु_(\*)---**
-
-
-
-
-
-
-
-
-
 
 \]

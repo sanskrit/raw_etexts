@@ -15,35 +15,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyMzY1NzU5ODc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
-
-
-
-
-
-
-
-
-
-
 **॥वै दे ही वि वा स न म्॥**
-
-
 
 **नाटकपात्राणि**
 
@@ -87,32 +61,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyMzY1NzU5ODc
 
 6. पृथ्वी— सीताया जननी विश्वम्भरा
 
-
-
 ![](../books_images/U-IMG-1727539501vaidehi2.JPG)
 
-
 **प्रघट्टकः— वाल्मीकेराश्रमः**
-
-
 
 **INTRODUCTION.**
 
 **T**^(HE) piece herewith presented to the public does not lay claim to much originality;as it is no new production; its interest does not lie in conceiving any situation or expressing any thought that has not been formerly conceived and expressed by any other poet. But it is an attempt to supply what appears to be a want, to perfect what forces itself on the mind as an imperfection, which even because it is with regard to what in other respects is a master-piece, is all the more striking. We have, in other words long regarded that Act VII of Uttara. Ramacharita is not worked out in keeping with the rest of the play; that either the poet throughly broke down when he approched the end of the play, and found it too hard to describe the tears of union, or as is more probable, he did not live to complete the drama, and that perhaps he left only a slight sketch of the last Act which was given shape to by a lesser poet. The circumstanses that lead us to this conclusion detailed. (1) The situations conceived in the Act are not fully workedout. This isthe case especially as wenear the end.
 
-
-
 Rama, as we now have the play, coolly receives Sita and he does not even make aformal bow to Valmiki, his benefactor and Guru. It is again hard to find out where Janaka enters and, though addressed to, he does not talk, nor, as may be expected, does Rama offer any apology for his cruel treatment of Janaka's unfortunate daughter. (2) This becomes the more noticeable when we look at the other plays of the poet, or any other standard plays, representing union after long separation such as in Sakuntala. (3) The language of the last Act also has a e of the touches of Bhavabhuti; only the first and last stanzas of the Act could have been written by that great poet. For example Bhavabhuti, in our opinion, is at his best in his Anushtubhs; in his hands they are always exceedingly spirited and dignified. In Act VII however, this metre is quite mediocre and often inelegant. (4) Further there is a tradition among the pandits that Bhavabhuti died before completing this play, which was his last effort in the literary field.
 
  We have thus no doubt that Act VII, as we now have it, only represents the rough
 
-
-
 sketch made by the great poet. The result is that the Act, as it is, rather jars on the reader's feelings. It is to remove this defect that the present piece has been written.
 
  A word however has to be said as to the manner in which the piece has been composed. The writer has had no desire to supply the whole himself. He has not scrupled to insert from the best writers the sentiments appropriate to each situation; he has to a great extent drawn on Valmiki; and since the *antar-nâtika* is said to be by Valmiki, nothing can be more appropriate than to draw from him. A number of stanzas, in fact the best of them, have been transplaced from Act III. In this connection it may be noticed that when the play is enacted Act III is, to the ordinary spectator. quite inexplicable. How Sita could come to meet Rama on the Godavari few can understand; the situation is in fact the poet's creation. In enacting the play therefore Act III has to be omitted; but Act III poetically is the best; and therefore its best stanzas have been carried over to a more appropriate conext, and inserted in Act VII as now compiled.
-
-
 
 A few stanzas have also been taken or adapted from other authors; but mention need only be made of those from Sakuntala; and they have been inserted because the sentiments they contain cannot possibly be better expressed. The aim of the compiler has thus been more or less to give an imaginary outline of what the Act would have been, if the poet had fully worked it out. To rewrite it, without drawing on other masterpieces, and make it of a piece with the rest of the play we really need another as great as Bhavabhuti or perhaps one greater.
 
@@ -124,21 +87,15 @@ MALABAR DT.
 
 M. KRISHNAMACHARYA, B.A., L.T
 
-
-
 **PREFACE**
 
  The play now offered to the public was first brought out in 1902, as fifth of a series of works published under the auspices of the Vidvan Mano-Ranjani, a partly Dramatic and partly Literary Institution, which was established among other things for the purpose of encouraging literary compositions reflecting Indian thought and culture. Since then seven other works have been published under the same Series and they have been heartily welcomed and widely read by the public.
 
  This piece which is a compilation in one act chiefly adapted from Acts III and VII of Bhavabhuti's famous drama—Uttararamacharita, Wasstaged along with other acts of that masterpiece by the members of the Vidvan Mano-Ranjani on the occasion of the Coronation of Their Gracious Majesties King Edward VII and Queen Alexandra together with a prologue composed by me specially for the occasion. The subject of the play is accordingly, the same as that of the Uttararamacharita and relates to that well-known and most pathetic story of the Exile of Sita and her long and sorrowful separation from Rama subsequent to the war with Ravana, as narrated in the Uttarakanda of Valmiki's Ramayana. Though the end of the original story is tragic, the meek and patient heroine *Sita* having been
 
-
-
 carried away by the Mother Earth and the devoted and dutiful Rama disappearing in the waters of the Sarayu, the play as is roughly sketched by Bhavabhuti, and worked out in this compilation ends with the happy meeting of the hero, the heroine, and their heroic sons, in conformity with the rules of Sanskrit dramaturgy which prohibits tragic ends. Though the story thus ends happily, the play itself has been named from the *Antarnatika*, which is a splendid theatrical representation arranged by the Sage Valmiki with the help of his desciples and under the patronage and immediate presence of Rama himself and the plan is entirely Bhavabhuti's, though ascribed by him to Valmiki, who chooses this method of convincing Rama and his subjects of the spotless purity and whole-hearted devotion of Sita to Rama, and of bringing about a most touching re-union between them.
 
  Compared to the effect thus produced by the Antarnatika, the contrivance of an Inner-drama in Shakespeare's Hamlet dwindless into nothing. I have no doubt that this play will be welcomed by all lovers of Indian stage, since it presents in a nutshell as it were what a good Sanskrit play is, and what noble purposes it serves. It is in fact, par excellence a Drama of criticism of real life, educating the public in their daily life and conduct with its highest moral and social lessons, by exhibiting efore our eyes some of the highest ideal characters
-
-
 
 which any nation will be proud to follow for all place and time to come. So much so the copise of the first edition of this play became exhausted in the course of a very few years and the book had been long out of print, although there were frequent demands for the same; and as a matter of fact the present edition had to be reprinted from a single copy of the book—that too, an imperfect one—fortunately preserved by the compiler.
 
@@ -150,8 +107,6 @@ SUNDARI SADANAM,
 
 T. S. NARAYANASASTRI,   
 *Compiler.*
-
-
 
 **॥अथ पञ्चकृत्याष्टक प्रारम्भः॥**
 
@@ -175,8 +130,6 @@ T. S. NARAYANASASTRI,
 त्वं साक्षाद्धि सदाशिवो गणपतिः  
 विघ्नेभपञ्चाननः,**
 
-
-
 **त्वं सर्वस्य निदानमम्ब! जगतः,  
 त्वं पञ्चकृत्योज्वला॥२॥**
 
@@ -197,8 +150,6 @@ T. S. NARAYANASASTRI,
 प्रद्युम्नरूपोऽवसि,  
 त्वं सङ्कर्षणरूपतो हरसि भो  
 त्वं वासुदेवः परः।**
-
-
 
 **त्वं नारायणनामतो जगदिदं  
 पश्य स्युमेऽनुग्रहात्,  
@@ -221,8 +172,6 @@ T. S. NARAYANASASTRI,
 **इच्छाशक्तिरसि त्वमेव जननि!  
 त्वं वै क्रियाशक्तिभाक्,**
 
-
-
 **चिच्छक्त्या सकलं प्रशासि भुवनं,  
 ह्यानन्दशक्त्येशिषे।  
 सर्वानुग्रहकारिणी भगवती  
@@ -240,8 +189,6 @@ T. S. NARAYANASASTRI,
 श्रीराजराजेश्वरी,  
 त्वं सर्वस्य निदानमम्ब! जगतः,  
 त्वं पञ्चकृत्योज्वला॥७॥**
-
-
 
 **त्वं गायत्र्यसि सर्ववेदजननी,  
 त्वं वै सरस्वत्यसि,  
@@ -263,8 +210,6 @@ T. S. NARAYANASASTRI,
 
 **\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 ![](../books_images/U-IMG-1727283859Screenshot2024-09-25223024.png)
 
 **श्रीमदुत्तररामचरितनाटके**
@@ -284,8 +229,6 @@ T. S. NARAYANASASTRI,
 विजयतां सदायमखिल-सुजनवर्गरक्षिता।  
 विभव-भरित-चिदचि-दखिल-भुवनगणपिता॥**
 
-
-
 **अवतु नः परात्परः। अवतु नः परेश्वरः॥  
 अवतु नः सदा हरीश-विधिमुखामरेश्वरः।  
 अखिल-भुवन-भरण-हरण-करणविधिपरः॥**
@@ -302,8 +245,6 @@ T. S. NARAYANASASTRI,
 
 ** लक्ष्मणः**— भो! भो!! अद्य खलु भगवता वाल्मीकिना सब्रह्मक्षत्रपौरजानपदाः प्रजाः सहास्माभिराहूय, कृत्स्न एव सदेवासुरतिर्यगुरगनायकनिकायो जङ्गमः स्थावरश्च भूतग्रामः स्वप्रभावेण सन्निधापितः। आदिष्टश्चाह मार्येण, "वत्स!
 
-
-
 लक्ष्मण, भगवता वाल्मीकिना स्वकृतिमन्तेवासिभिः प्रयुज्यमानां द्रष्टुमुपनिमन्त्रिताः स्मः। तद्भागीरथीतीरमनोज्ञस्थानमुपगम्य क्रियतां समाजसन्निवेश" इति। कृतं च मर्त्यामर्त्यस्य भूतग्रामस्य समुचितस्थानेषु समुपवेशनं मया। अयंतु
 
 **राज्याश्रमनिवासेऽपि प्राप्तकष्टमुनिव्रतः।  
@@ -319,8 +260,6 @@ T. S. NARAYANASASTRI,
 
 ** लक्ष्मणः**— वत्सचन्द्रकेतुना सह पूर्वमेवागत्य तिष्टतः।
 
-
-
 ** चन्द्रकेतुः**—\[राममुपगम्य\] तात! अभिवादये, चन्द्रकेतुरहमस्मि। \[इति प्रणमति\]
 
 ** रामः**— \[सहर्षं\]
@@ -335,8 +274,6 @@ T. S. NARAYANASASTRI,
 ** चन्द्रकेतुः**— कुशलमत्यद्भुतक्रिययोः प्रियदर्शनयोः कुशलवयोर्लभाभ्युदयेन। तद्विज्ञापयामि मामिव, विशेषेणवा मत्तः, स्निग्धेन चक्षुषा पश्यत्विमौ महावीरप्रकाण्डौ तातः।
 
 ** कुशः**— \[सविनयमुपसृत्य\] आर्य! अभिवादये, कुशोऽहमस्मि
-
-
 
 ** रामः**— \[दृष्ट्वा, सानन्दं\] एह्येहि कुमार! स्वस्ति! आयुष्मान् भव!
 
@@ -359,8 +296,6 @@ T. S. NARAYANASASTRI,
 **अहो प्रश्रययोगेऽपि गतिस्थित्यासनादयः।  
 साम्राज्यशंसिनो भावाः कुशस्य च लवस्य च॥**
 
-
-
 भूयिष्ठां च रघुकुलकुमारच्छायामनयोः पश्यामि!
 
 **कठोरपारावतकण्ठमेचकं  
@@ -376,8 +311,6 @@ T. S. NARAYANASASTRI,
 अभिनवशतपत्रश्रीमदास्यं प्रियायाः॥**
 
 \[विचिन्त्य\]तदेतत् प्राचेतसाध्युषितमरण्यं, यत्र किल देवी परित्यक्ता। इयं च अनयोराकृतिर्वयोनुभावश्च। अयं च संप्लवमानमात्मानं सुखदुःखातिशयो हृदयस्य मे विस्रंभयते। यमा
-
-
 
 विति च भूयिष्ठमात्मसंवादः। भूयिष्ठं च मया द्विधा प्रतिपन्नो देव्या गर्भिणीभाव आसीत्। \[सास्रं\]
 
@@ -400,8 +333,6 @@ T. S. NARAYANASASTRI,
 स च स्नेहस्तावान्, अयमपि वियोगो निरवधिः**  
 **किमेवं त्वं पृच्छस्यनधिगतरामायण इव॥**
 
-
-
 ** रामः**—\[स्वगतं\] अये! तटस्थित आलापः! कृतं प्रश्नेन।मुग्धहृदय! कोऽयमाकस्मिकस्ते स्नेहपरिप्लवो विकारः। एवं च निर्भिन्नहृदयावेगः शिशुजनेनाप्यनुकम्पितोऽस्मि। भवतु तावदन्तरायामि। \[प्रकाशं\] वत्स! लक्ष्मण, इमौ पुनः कुमारौ चन्द्रकेतुसदृशीं स्थानप्रतिपत्तिं लम्भयितव्यौ।
 
 ** लक्ष्मणः**— प्रभुस्नेहप्रत्ययात् तथैव करिष्ये। इदं त्वास्तीर्णं राजासनमुपविशत्वार्यः।
@@ -417,8 +348,6 @@ T. S. NARAYANASASTRI,
 **कल्याणानां निदानं, कलिमलमथनं,  
 जीवनं सज्जनानां,**
 
-
-
 **पाथेयं यन्मुमुक्षोः सपदि परपद-  
 प्राप्तये प्रस्थितस्य।  
 विश्रामस्थानमेकं कविवरवचसां,  
@@ -429,8 +358,6 @@ T. S. NARAYANASASTRI,
 \[पुष्पाञ्जलिं विकीर्य\] भो भो! भगवान् भूतार्थवादी प्राचेतसः सजङ्गमस्थावरं जगदाज्ञापयति, "यदिदमस्माभिरार्षेण चक्षुषा समुद्वीक्ष्य पावनकरुणाद्भुतरसं वैदेहीविवासनाख्यं किञ्चिदुपनिबद्धं, तत्र कार्यगौरवादवधातव्य"मिति।
 
 ** रामः**—एतदुक्तं भवति—साक्षात्कृतधर्माणोमहर्षयः, तेषाममृतसाराणि भगवतां परोरजांसि प्रज्ञानानि न क्कचिद् व्याहन्यन्त इत्यनभिशङ्कनीयानीति।
-
-
 
 **सूत्रधारः**—
 
@@ -452,8 +379,6 @@ T. S. NARAYANASASTRI,
 
 ** लक्ष्मणः**—हा कष्टं! उन्मत्तीभूतमिव मे हृदयम्। अहो दुर्जनवचनात् किं किमनुष्ठितमार्येण!
 
-
-
 **अयि कठोर, यशः किल ते प्रियं!  
 किमयशो ननु घोरमतः परम्?।  
 किमभव द्विपिने हरिणीदृशः  
@@ -474,8 +399,6 @@ T. S. NARAYANASASTRI,
 अहह! कदापि न जाने।  
 क्वचिदिह जगति न खलु भवदप्रियं  
 अहमकरवमिति जाने॥**
-
-
 
 **एकश इह मम तपनकुलोज्वल!  
 निकटीभव गुणसिन्धो।  
@@ -499,8 +422,6 @@ T. S. NARAYANASASTRI,
 **इदं तत् स्त्रीमयं ते जो जातं क्षेत्रोदराद्धलात्।  
 जनकस्य नृपेन्द्रस्य तपसः सन्निदर्शनम्॥**
 
-
-
 ** कुशः**—सम्यगुपलक्षितमायुष्मता।
 
 **परिपाण्डुदुर्बलकपोलसुन्दरं,  
@@ -515,8 +436,6 @@ T. S. NARAYANASASTRI,
 ** लक्ष्मणः**— आर्य, नाटकमिदम्।
 
 ** सीता**— हा आर्यपुत्र! हा अरविन्दाक्ष! हा अप्रतिमप्रभाव! हा अखिललोकशरण्य! मुषिताऽस्मि! परिभूताऽस्मि दैवेन!!
-
-
 
 **हा राम सत्यव्रत दीर्घबाहो,  
 हा पूर्णचन्द्रप्रतिमानवक्त्र।  
@@ -538,8 +457,6 @@ T. S. NARAYANASASTRI,
 एषा विपद्याम्यहमल्पभाग्या  
 महार्णवे नौरिव मूढवाता॥**
 
-
-
 सेदानीं मन्दभागिनी भागीरथ्यामात्मानं निक्षेप्स्यामि। \[इति गङ्गायां निपतति\]
 
 ** रामः**—हा देवि दण्डकारण्यवासप्रियसखि! एष ते रामाद्दैवदुर्विपाकः। हा कष्टम्!
@@ -558,16 +475,12 @@ T. S. NARAYANASASTRI,
 
 ** लक्ष्मणः**— आर्य, समाश्वस्य दृश्यतां प्रबन्धार्थः।
 
-
-
 ** रामः**— एष सज्जोऽस्मि वज्रमयः। मया खलु
 
 **यथा तिरश्चीनमलातशल्यं  
 प्रत्युप्तमन्तः सविषश्च दंशः।  
 तथैव तीव्रो हृदि शोकशङ्कुः  
 मर्माणि कृन्तन्नपि किं न सोढः॥**
-
-
 
 **द्वितीयः प्रघट्टकः**
 
@@ -581,8 +494,6 @@ T. S. NARAYANASASTRI,
 प्रहरति विधिर्मर्मच्छेदी, न कृन्तति जीवितम्॥**
 
 वत्स लक्ष्मण, असंविज्ञातमनिबन्धनमन्धतमसमिव प्रविशामि, धारय माम्।
-
-
 
 ** भागीरथीपृथिव्यौ**—
 
@@ -606,8 +517,6 @@ T. S. NARAYANASASTRI,
 **अनिर्भिन्नगभीरत्वात्, अन्तर्गूढघनव्यधः।  
 पुटपाकप्रतीकाशो रामस्य करुणो रसः॥**
 
-
-
 ** लक्ष्मणः**— \[पादयोर्निपत्य\] आर्य, दिष्ट्यावर्धामहे। कल्याणप्ररोहो रघुवंशः। \[विलोक्य\] हा हा! कथं क्षुभितबाष्पोत्पीडनिर्भरः प्रमुग्ध एवार्यः।
 
 \[इति वीजयति\]
@@ -630,8 +539,6 @@ T. S. NARAYANASASTRI,
 
 \[इति रोदिति\]
 
-
-
 ** पृथ्वी**— एहि पुत्रि! \[इत्युभे आलिङ्ग्य मूर्च्छतः\]
 
 ** लक्ष्मणः**— \[सहर्षम्\] कथमार्या गङ्गापृथिवीभ्यामभ्युपपन्ना।
@@ -646,8 +553,6 @@ T. S. NARAYANASASTRI,
 
 **एकश्चिरं राक्षसमध्यवासः,  
 त्यागो द्वितीयश्च सुदुःसहोऽस्याः।**
-
-
 
 ** भागीरथी**—
 
@@ -665,8 +570,6 @@ T. S. NARAYANASASTRI,
 यो यो यत्नः कथमपि मया धीयते, तं तमन्तः।  
 भित्वा भित्वा प्रसरति बलात् कोऽपि चेतोविकारः  
 तोयस्येवाऽप्रतिहतरयः सैकतं सेतु मोघः॥**
-
-
 
 ** सीता**— आर्यपुत्रं स्मारितास्मि।
 
@@ -689,8 +592,6 @@ T. S. NARAYANASASTRI,
 **अहं हि ते मात रवैमि नित्यं  
 स्नेहं च भक्तिं च महत्व मेव।**
 
-
-
 **मम त्वभिप्राय मसन्निरीक्ष्य  
 भर्त्रे भृशं कुप्यसि शुद्धधाम्ने॥**
 
@@ -710,8 +611,6 @@ T. S. NARAYANASASTRI,
 
 ** लक्ष्मणः**— अव्याहतान्तःप्रकाशा हि देवताः
 
-
-
 सत्त्वेषु, विशेषतो गङ्गा। त दय मञ्जलि स्ते।
 
 ** रामः**— अम्ब! अनुवृत्त स्त्वया भगीरथकुले प्रसादः।
@@ -729,8 +628,6 @@ T. S. NARAYANASASTRI,
 मुहूर्त मपि रक्षामि जीवितं पापजीविता॥**
 
 अथवा,
-
-
 
 **मांमिकेयं तनु र्नूनं सृष्टा दुःखाय मातरौ।  
 धात्रा, यस्यास्तथा मेऽद्य दुःखमूर्तिः प्रदृश्यते॥**
@@ -750,8 +647,6 @@ T. S. NARAYANASASTRI,
 ** रामः**—कि मन्य द्ब्रीवीतु।
 
 ** भागी.**— आः शान्तम्! किं ब्रवीषि!! अविलीना संवत्सरसहस्रं भूयाः।
-
-
 
 ** पृथ्वी**— वत्से! अपि रक्षणीयौ ते पुत्रकौ?
 
@@ -773,8 +668,6 @@ T. S. NARAYANASASTRI,
 
 **प्राणाः प्रयान्ति, परित स्तमसा वृतोऽस्मि,  
 मर्मच्छिदो मम रुजः प्रसर न्त्यपूर्वाः।**
-
-
 
 **अक्ष्णो र्मुखेन्दु मुपधेहि, गिरं च देहि,  
 हा देवि मय्यकरुणा सहसैव मा भूः॥**
@@ -799,8 +692,6 @@ T. S. NARAYANASASTRI,
 **कृशाश्वः कौशिको रामः, इति येषां गुरुक्रमः।  
 आविर्भवन्ति तान्येव शस्त्राणि सह जृंभकैः॥**
 
-
-
 \[नेपथ्ये\]
 
 **देवि सीते नम स्ते स्तु! गति र्नः पुत्रकौ हि ते।  
@@ -822,8 +713,6 @@ T. S. NARAYANASASTRI,
 
 ** देव्यौ**— मोदस्व वत्से! मोदस्व। रामभद्रतुल्या विदानीं ते पुत्रकौ संवृत्तौ।
 
-
-
 ** सीता**— भगवत्यौ! क एतयोः क्षत्रियोचितं कर्म करिष्यति?
 
 ** रामः**—
@@ -839,8 +728,6 @@ T. S. NARAYANASASTRI,
 ** रामः**— सुविचिन्तितं भगवतीभ्याम्।
 
 ** लक्ष्मणः**— आर्य! सत्यं विज्ञापयामि तै स्तैरुपायै र्वत्सौ कुशलवा वुत्प्रेक्षे।
-
-
 
 **एतौ हि जन्मसिद्धास्त्रौ जातौ प्राचेतसा न्मुनेः।  
 वीरौ, संप्राप्तसंस्कारौ, वयसा द्वादशाब्दिकौ॥**
@@ -858,8 +745,6 @@ T. S. NARAYANASASTRI,
 
 ** सीता**— नयतु मा मात्मनोऽङ्गेषु विलय मम्बा। न शक्ताऽस्मि ईदृशं जीवलोकपरिवर्त मनुभवितुम्।
 
-
-
 ** रामः**— \[सबाष्पम्\] हा मन्दभाग्यस्य मे किं नाम न संभवति।
 
 **हा हा किं नु करोमि, कं नु शरणं  
@@ -874,8 +759,6 @@ T. S. NARAYANASASTRI,
 ** गङ्गा**— एवं नाम।
 
 ** सीता**— हा आर्यपुत्र! हा कुमार लक्ष्मण! हा तात जनक! हा मातः कौसल्ये! हा अम्ब अरुन्धति। एष मे मन्दमाग्यायाः पापायाः सीताया श्चरमः प्रणामाञ्जलिः। \[अञ्जलिं बध्वा\]
-
-
 
 **हा देव! हा दयित! हा जगदेकबन्धो!  
 हा नाथ! हा चपल! हा करुणैकसिन्धो।  
@@ -905,8 +788,6 @@ T. S. NARAYANASASTRI,
 \[इति मूर्च्छति\]
 
 ** लक्ष्मणः**— आर्य, समाश्वसिहि समाश्वसिहि।
-
-
 
 ** रामः**— \[समाश्वस्य सस्मृतिविभ्रमम्\]
 
@@ -938,13 +819,9 @@ T. S. NARAYANASASTRI,
 
 \[इति पुनर्मूर्च्छति\]
 
-
-
 ** लक्ष्मणः**— आर्य, प्रसीद प्रसीद। स्वेनैव लोकोत्तरेण धैर्येण संस्तम्भयातिभूमिंगतविप्र लम्भ मात्मानम्।
 
 ** रामः**— \[पुनः समाश्वस्य\] हा कथं विलय एव वैदेह्याः संपन्नः। \[सोन्मादमुत्थाय परिभ्रमन्\] हा प्रिये जानकि! क्कासि? मन्दभाग्य ममुं जनं विहाय क्क गतासि? हा देवि देहि मे दर्शनम्! ब्रूहि मे प्रति वचनम्। हन्त शून्यः संसारः! शून्या दिशः! शून्य ञ्च निखिलं महीमण्डलम्। अहो अस्तमुपगतं चे दानीं रामस्य जीवितप्रयोजनम्। \[सर्वतोऽवलोक्य\] हा कथं लोकान्तरं पर्यवसितैव जानकी! भो भो दुरात्मन् रामहतक! कथ मद्यापि न म्रियसे? किमात्मघातिनो लोका दात्मानं परित्रातु मिच्छसि? धिङ् मूर्ख!
-
-
 
 **वर मद्यैव निर्मज्ज न्नन्धे तमसि दारुणे।  
 सीताननेन्दुरहिता न पुन र्वीक्षिता दिशः॥**
@@ -963,8 +840,6 @@ T. S. NARAYANASASTRI,
 \[इति विलपन् मूर्च्छितो भूमौ निपतति\]
 
  **सर्वे**— \[ससंभ्रम मुत्थाय\] भगवन् वाल्मीके परित्रायस्व परित्रायस्व! कि मेष ते काव्यार्थः?
-
-
 
 ** लक्ष्मणः**— हा भ्रातृवत्सल! परहितैकनिष्ठ!!
 
@@ -986,8 +861,6 @@ T. S. NARAYANASASTRI,
 **मन्थादिव क्षुभ्यति गाङ्ग मम्भः,  
 प्राप्तं च देवर्षिभि रन्तरिक्षम्।**
 
-
-
 **आश्चर्य मार्या सह देवताभ्यां  
 गङ्गामहीभ्यां सलिला दुदेति॥**
 
@@ -1007,8 +880,6 @@ T. S. NARAYANASASTRI,
 **कुवलयदलस्निग्धै रङ्गै र्ददौ नयनोत्सवं  
 सतत मपि ते स्वेच्छा दृश्यो नवो नव एव यः।**
 
-
-
 **विकलकरणः पाण्ङुच्छायः शुचा परिदुर्बलः,  
 कथमपि स इत्युन्नेतव्यः, तथापि दृशां प्रियः॥**
 
@@ -1018,8 +889,6 @@ T. S. NARAYANASASTRI,
 
 **त्व मेव ननु कल्याणि! सञ्जीवय जगत्पतिम्।  
 प्रियस्पर्शो हि पाणि स्ते, तत्रैव नियतो भवः॥**
-
-
 
 ** सीता**— भगवत्यरुन्धति, तथा निष्कारणपरित्यागिनोऽपि एतस्य एवंविधेन दर्शनेन कीदृश इव मे हृदयानुबन्ध इति न जानामि।
 
@@ -1039,8 +908,6 @@ T. S. NARAYANASASTRI,
 
 ** शान्ता**— अयि वत्से! एहि, संभावय आत्मनो जीवितेश्वरम्।
 
-
-
 ** सीता**— यथाज्ञापयति गुरुजनः। \[इति ससंभ्रम मुपसृत्य हृदि ललाट च स्पृशति\]
 
 ** लक्ष्मणः**— \[किञ्चित् सहर्षंस्वगतम्\] जाने पुनरपि प्रत्यागतमिव जीवितं त्रिलोकनाथस्य।
@@ -1059,8 +926,6 @@ T. S. NARAYANASASTRI,
 आतप्तजीविततरोः परितर्पणो मे  
 सञ्जीवनौषधिरसो नु हृदि प्रसिक्तः॥**
 
-
-
 **स्पर्शः पुरा परिचितो नियतं स एषः,  
 संजीवनश्च मनसः परिमोहणश्च।  
 सन्तापजां सपदि यः प्रतिहत्य मूर्च्छां  
@@ -1074,11 +939,8 @@ T. S. NARAYANASASTRI,
 
 ** अरुन्धती**— \[सस्नेहास्रं परिष्वज्य\]  
 
-
 **विलुलित मतिपूरै र्बाष्प मानन्दशोक-  
 प्रभव मवसृजन्ती तृष्णयोत्तानदीर्घा।**
-
-
 
 **स्नपयति हृदयेशं स्नेहनिष्यन्दिनी ते  
 धवलबहलमुग्धा दुग्धकुल्येव दृष्टिः॥**
@@ -1090,12 +952,9 @@ T. S. NARAYANASASTRI,
 अतिनिष्करुणस्य शुद्धशीला  
 मम दीर्घं विरहव्रतं बिभर्ति॥**  
 
-
 \[सर्वतोऽवलोक्य, सलज्जम्\] भोः किमेतत्! अम्बा! अरुन्धती! भगवान् मैत्रावरुणिः! सर्वेच प्रहृष्यन्तः ऋष्यशृङ्गशान्तासमेता गुरवः! \[उपेत्य\] एषोऽहं निर्लज्जः प्रणमामि वः।
 
 ** गुरुवर्गः**— वत्स! रामभद्र!! विगतशोक श्चिरं महीं पालयः!!! \[गायति\]
-
-
 
 \[पल्लवी\]
 
@@ -1119,8 +978,6 @@ T. S. NARAYANASASTRI,
 **जय! हृद्गुहावास। जय! चन्द्रदरहास।  
 जय! सुगुणविलास। जय! चारुनास॥ जय॥**
 
-
-
 ** अरुन्धता**— वत्स! एषा भगीरथगृहदेवता सुप्रसन्ना गङ्गा।
 
 ** भागीरथी**— जगत्पते! रामचन्द्र! स्मर्यता मालेख्यदर्शने मां प्रत्यात्मनो वचनं, यथा "सात्व मम्ब! स्नुषाया मरुन्धतीव सीतायां शिवा नुध्यानपराभव" इति। तत्र अनृणाऽस्मि जाता।
@@ -1132,8 +989,6 @@ T. S. NARAYANASASTRI,
 ** रामः**— कथं! कृतमहापराधो भगवतीभ्या मनुकम्पितोऽस्मि! देव्यौ, प्रणमामि वाम्।
 
 ** भागीरथीपृथिव्यौ**— समवधत्त भो स्त्रिजगच्चराणि भूतानि!
-
-
 
 **वस्वर्करुद्रसहितः स्वय मेष साक्षाद्  
 वृद्धश्रवाः समभिनन्दति साधु साध्वीम्।  
@@ -1149,8 +1004,6 @@ T. S. NARAYANASASTRI,
 
 ** ऋष्यशृङ्गः**— एव मेतत्। अग्निरिति वत्सां प्रति परिलघून्यक्षराणि। सीतेत्येव पर्याप्तम्। हा! वत्से जानकि!
 
-
-
 **शिशुर्वा शिष्या वा यदसि मम, तत्तिष्ठतु तथा,  
 विशुद्धे रुत्कर्ष स्त्वयि तु मम भक्तिं द्रढयति।  
 शिशुत्वं स्त्रैणं वा भवतु, ननु वन्द्याऽसिजगतां,  
@@ -1161,8 +1014,6 @@ T. S. NARAYANASASTRI,
 ** अरुन्धती**— भो भोः! पौरजानपदाः! इय मधुना भगवतीभ्यां जाह्नवीवसुन्धराभ्या मेवं प्रशस्यमाना, मम अरुन्धत्याः समर्पिता, पूर्वं च भगवता वैश्वानरेण निर्णीतपुण्यचारित्रा, सब्रह्मकैश्च देवैः संस्तुता सावित्रकुलवधूः देवयजन सम्भवा सीतादेवी परिगृह्यता मिति कथं भवन्तो मन्यन्ते?
 
 ** सर्वे**— \[अञ्जलिं बध्वा\] देवि! चारित्रदेवते। प्रसीद! प्रसीद!! क्षम्यता मयं महापराधः पौर जानपदानाम्। \[इति सीतां प्रणमन्ति\]
-
-
 
 ** सीता**— \[नम्रमुखी तिष्ठति\]
 
@@ -1185,8 +1036,6 @@ T. S. NARAYANASASTRI,
 **नियोजय यथाधर्मं प्रियां त्वं धर्मचारिणीम्।  
 हिरण्मय्याः प्रतिकृतेः पुण्यप्रकृति मध्वरे॥**
 
-
-
 ** सीता**— \[स्वगतं\] जानात्यार्यपुत्रः सीतादुःखं प्रमार्ष्टुम्।
 
 ** रामः**— यथा भगवत्यादिशति।
@@ -1199,8 +1048,6 @@ T. S. NARAYANASASTRI,
 
 **त्वदालापाः कर्णे मम नवसुधाशीकरमयाः,  
 तव स्पर्शोऽप्यङ्गे शिशिरशिशिरश्चन्दनरसः।**
-
-
 
 **शरज्ज्योत्स्नापूरः तव वपु रिदं मे नयनयोः,  
 कथं ते कल्याणि! क्षणमपि सहे हन्त विरहम्॥**
@@ -1218,8 +1065,6 @@ T. S. NARAYANASASTRI,
 किमपि मनसः संमोहो मे तदा बलवा नभूत्।  
 प्रबलतमसा मेवंप्रायाः शुभेषु हि वृत्तयः,  
 स्रजमपि शिर स्यन्धः क्षिप्तां धुनोत्यहिशङ्कया॥**
-
-
 
 ** सीता**— आर्यपुत्र! स एवेदानी मसि त्वम्।
 
@@ -1243,8 +1088,6 @@ T. S. NARAYANASASTRI,
 
 ** सीता**— प्रत्युज्जीविताऽस्मि। \[इति रामं सस्नेह मालिङ्गति\]
 
-
-
 ** लक्ष्मणः**— कृतार्थोऽस्मि।
 
 ** कौसल्या**— \[सस्नेहकौतुकस्मितं निर्वर्ण्य\]
@@ -1265,8 +1108,6 @@ T. S. NARAYANASASTRI,
 
 ** सीता**— वत्स! ईदृशोऽपि चिरं जीव।
 
-
-
 ** अरुन्धती**— भगवन् वाल्मीके! उपनीयेता मिमौ सीतागर्भसम्भवौ रामभद्रस्य कुशलवौ।
 
 ** रामलक्ष्मणौ**— दिष्ट्या! तथैव तत्। \[इति परस्पर मवलोकयतः\]
@@ -1284,8 +1125,6 @@ T. S. NARAYANASASTRI,
 
 **वत्सौ कुशलवौ, इत इत आगच्छतम्। एष,  
 रघुपतिः पिता युवयोः, लक्ष्मणः कनिष्ठतातः।**
-
-
 
 सीतादेवी जननी; अयं च राजर्षि र्जनको मातामहः।
 
@@ -1305,8 +1144,6 @@ T. S. NARAYANASASTRI,
 **आविर्भूतज्योतिषां ब्राह्मणानां  
 ये व्याहारा स्तेषु मा संशयो भूत्।**
 
-
-
 **भद्रा ह्येषां वाचि लक्ष्मी र्निषक्ता,  
 नैते वाचं विप्लुतां व्याहरन्ति॥**
 
@@ -1322,8 +1159,6 @@ T. S. NARAYANASASTRI,
 श्लोकः प्रशस्तचरितै रुपगीयतां ते॥**
 
 ** कुशलवौ**— \[रामलक्ष्मणा वुपसृत्य\] तातौ! कुश-
-
-
 
 लवा वभिवादयेते। आवयो दुर्योगं चपलतां च क्षन्तु मर्हथः।
 
@@ -1342,8 +1177,6 @@ T. S. NARAYANASASTRI,
 
 ** कुशलवौ**— \[तथा कृत्वा\] धन्यौ स्वः।
 
-
-
 ** वाल्मीकिः**— राजर्षे! सीरध्वज! क्षम्यतामिदानीं अपराधो रामभद्रस्य।
 
 ** सीता**— \[सहर्षकरुणाद्भुतं विलोक्य, स्वगतं\] अम्महे! कथं तातः? कथ मन्यादृश एव दृश्यते।
@@ -1356,8 +1189,6 @@ T. S. NARAYANASASTRI,
 प्रमोदा द्वै तस्या प्युपरि परिवर्तामह इमे॥**
 
 ** सीता**— हन्त! ईदृशे महोत्सवदिवसे तातोऽप्यत्रै वायात इति निमग्नाऽस्म्यानन्दसागरे। \[उपसृत्य\] तात! दारकाभ्यां सहिता तव पादवन्दनं करोमि \[इति पादयोः प्रणिपतति\]
-
-
 
 ** जनकः**— \[सहर्षमुत्थाप्य\] वत्से! सततं भर्तु र्बहुमता भव!
 
@@ -1376,8 +1207,6 @@ T. S. NARAYANASASTRI,
 **यद्दर्शनात् किम प्येवं द्रवीभवति मे मनः।  
 राधासुधाकरालोका दिन्दुकान्तोपलो यथा॥**
 
-
-
 अहो! महात्मनो वात्सल्यपरतन्त्रता, यन् महापराधिनमपि मा मनुकम्पते। कथं नु खल्वयं द्रष्टव्यः? \[कथञ्चिदुपसृत्य, प्रकाशं\] हा तात! एषोऽहमति निर्घृणो रामः प्रणमति।
 
 ** जनकः**— \[सरभसं पादपतितं राममुत्थाप्य\] एह्येहि। वत्स!
@@ -1391,8 +1220,6 @@ T. S. NARAYANASASTRI,
 विद्वन्मरालकमलाकर, रामचन्द्र।  
 जन्मादिकर्मविधुरैः सुमनश्चकोरै  
 राचम्यतां तव यशः शरदां सहस्रम्॥**
-
-
 
 लक्ष्मणः तात वन्दे। !
 
@@ -1415,8 +1242,6 @@ T. S. NARAYANASASTRI,
 स च मुनि रनुयातारुन्धतीको वसिष्ठः,  
 त्वयि वितरतु भद्रं भूयसे मङ्गलाय॥**
 
-
-
 ** रामः**— अतः परमपि प्रियमस्ति? तथापीदमस्तु!
 
 **पाप्मभ्यश्च पुनातु, वर्धयतु च श्रेयांसि सेयं कथा,  
@@ -1436,8 +1261,6 @@ T. S. NARAYANASASTRI,
 जीवतात्! कलत्र पुत्र-मित्रसंवृतः।  
 जीवलोकदुःखहरण-कल्पितव्रतः॥ विजयतां॥**
 
-
-
 **स्वस्ति! ते प्रभो। स्वस्ति! ते प्रभो॥  
 स्वस्ति! ते भृतानयाधि-राज्यमाविभो।  
 स्वस्वधर्मतोऽव न श्च-सार्वभौम भो॥ विजयतां॥**
@@ -1449,16 +1272,5 @@ T. S. NARAYANASASTRI,
 \[इति निष्क्रान्ताः सर्वे\]
 
 ![](../books_images/U-IMG-1727666821वैदेहि76.JPG)
-
-
-
-
-
-
-
-
-
-
-
 
 \]

@@ -16,11 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkwODU1MTA0MjY
 
 \[
 
-
-
 [TABLE]
-
-
 
 **——————**
 
@@ -85,8 +81,6 @@ and 2. That writer was the great Bhasa owned by Bana and Kalidasa, as their wort
 [^6]: " See Panca, Pratijna, Svapna & Pratima."
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
-
 
 6\. Karnabhara is an exception, where it is called Prasthavana; the Pratijna has a variant Amukham for Sthapana and there is no such expression at all in the case of Balacharitam; See Critical study P, lo; and Paranjpe's note on Sthapana in his edition of Madhyamavyayoga,
 
@@ -248,8 +242,6 @@ Bhasa often feels that Fate sometimes baffles all human efforts. 'जाग्�
 
 [^20]: " One of these verses occurs in the Matta-Vilasa and four are attributed to other authors by other anthologists. This proves the notoriously unreliable charcater of the anthological attibuton. See F, W, Thomas J. R. A. S. 1927, P. 883 f."
 
-
-
 **1. PLOT**
 
 ACT I
@@ -409,8 +401,6 @@ ACT V (शोकाङ्कः)
  **विजया—** Portress in Ravana's palace.
 
 –––––––––––––––––
-
-
 
 **श्रीः**
 
@@ -791,8 +781,6 @@ ACT V (शोकाङ्कः)
 
 ––––––––––––––
 
-
-
 अथ द्वितीयोऽङ्कः
 
 (ततः प्रविशति ककुभः)
@@ -1083,13 +1071,9 @@ ACT V (शोकाङ्कः)
 करचरणविमदैः काननं चूर्णयित्वा  
 विगतविषयदर्पं राक्षसेशं करोमि॥२६॥**(निष्क्रान्तौ)
 
-
-
 **द्वितीयोऽङ्कः**
 
 –––––––––––––––––
-
-
 
 **अथ तृतीयोऽङ्कः**
 
@@ -1227,7 +1211,6 @@ ACT V (शोकाङ्कः)
 
 ** राक्षसः—**यदज्ञापयति महाराजः।
 
-                                   
         (निष्क्रान्तः)
 
 ** रावणः—**त्वमपि तावद् वानरमानय।
@@ -1435,7 +1418,6 @@ ACT V (शोकाङ्कः)
 
 [^106]: "० भाषसे."
 
-
  कोऽत्र?
 
 ममानवेक्ष्य सौभ्रात्रं शत्रुपक्षमुपाश्रितम्।  
@@ -1466,8 +1448,6 @@ ACT V (शोकाङ्कः)
 **तृतीयोऽङ्कः**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **अथ चतुर्थोऽङ्कः**
 
@@ -1795,8 +1775,6 @@ ACT V (शोकाङ्कः)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **अथ पञ्चमोऽङ्कः**
 
 (ततः प्रविशति राक्षसकाञ्चुकीयः)
@@ -2024,8 +2002,6 @@ ACT V (शोकाङ्कः)
 **पञ्चमोऽङ्कः**
 
 –––––––––––––––
-
-
 
 अथ षष्ठोऽङ्कः
 
@@ -2313,8 +2289,6 @@ ACT V (शोकाङ्कः)
 
 ** लक्ष्मणः**— अहो, आश्चर्यम् !
 
-
-
 (प्रविश्य) **सुग्रीवः**
 
 — जयतु देवः !
@@ -2437,8 +2411,6 @@ ACT V (शोकाङ्कः)
 
 ––––––––––––
 
-
-
 **Metrical Analysis**
 
 **अनुष्ठुप् (श्लोक)—**68.  
@@ -2481,8 +2453,6 @@ ACT V (शोकाङ्कः)
 **भुजङ्गप्रयातम्**—1. भुजङ्गप्रयातं चतुर्भिर्यकारैः। **VI** 15.
 
 **द्रुतविलम्बितम्**— 1. द्रुतविलम्बितमाह नभो भरौ। **III** 4.
-
-
 
 ॥श्रीः॥
 
@@ -2689,8 +2659,6 @@ END OF THE FIRST ACT
 
 ––––––––––––––––
 
-
-
 ACT II
 
 INTERLUDE
@@ -2851,8 +2819,6 @@ HANUMAN— Thank you. (*Moving about*) Now, how shall I communicate my arrival t
 END OF THE SECOND ACT
 
 –––––––––––––––––––
-
-
 
 ACT III
 
@@ -3055,7 +3021,6 @@ HANUMAN— Here Iam.
 RAVANA— Relate to that mortal this message of mine. —  
  "Rama, you have been abused by me, by the abduction of your wife. If there is in you the pride of an archer, you may give me a great fight."
 
-
 HANUMAN— Before long, you will see,—  
  Being vanquished by the mere twang of Rama's bow (you will see) your Lanka with its excellent but demolished gates, towers, and palaces and encompassed with its pleasure gardens devastated by troops of monkeys all round.
 
@@ -3113,8 +3078,6 @@ RAVANA—Alas! Vibhishana is gone. I too shall arrange for guarding the town.   
 END OF THE THIRD ACT
 
 ––––––––––––––
-
-
 
 ACT IV
 
@@ -3504,8 +3467,6 @@ END OF THE FIFTH ACT
 
 ––––––––––––––––––
 
-
-
 ACT VI
 
 (Then enter three Vidyadharas)
@@ -3756,8 +3717,6 @@ Here ends the Abhishekanataka
 
 –––––––––––––––––
 
-
-
 N O T E S  
 ————
 
@@ -3767,8 +3726,6 @@ ACT I
 
 अभिषेकनाटकम्—
 
-
-
 The play is so named as it deals with the three *Abhishekas* of Sugriva, of Vibhishana and of Rama. नान्द्यन्तेततः & c—Note the repetition of the idea in अन्ते and ततः in this stage direction which occurs at the very outset in all Bhasa plays. The Sutradhara comes on the stage after the Nandiis over as a private function. नान्दी is derived from नन्द् to rejoice. of. नन्दन्ति काव्यानि कवीन्द्रवर्गः कुशीलवाः पारिषदाश्च सन्तः। यस्मादलं सज्जनसिन्धुहंसी तस्मादियं सा कथितेह नान्दी॥— नाट्यप्रदीपे। सूत्रधारः, Stage-manager; of. नाट्यस्य यदनुष्ठानं तत्सूत्रं स्यात्सबीजकम् रङ्गदैवतपूजाकृत् सूत्रधार इति स्मृतः॥ **Sl**. 9. गाधिपुत्रः = विश्वामित्रः Gadhi's son.
 
  \[This sloka is a benediction It refers to the several heroic deeds of Rama. Even before his marriage, Rama went to guard the sacrific of Visvamitra and killed the demoness Tataka and scared Maricha, who came to disturb the sacrifice.(Balakanda). During his exile in the forest, on the way to Panchavati, he killed a powerful Rakshasa named Viradha. While in Panchavati he slayed Khara, the half brother and one of the generals of Ravana, and Dushana, and another general, in a battle which came up after *Surpanakha* was defaced by Lakshmana. After Sita's abduction by Ravana, during their wanderings in the forest both Rama and Lakhmana were attacked by a headless demon called Kabandha whom they killed. This Kabandha was at first a heavenly being; but cursed by a sage, he became a demon and was very troublesome to many. So, Indra gave a blow on his head with his *Vajrayudha*, as a result of which, his head sank into his trunk. When he was killed by Rama, his curse ended and he advised Rama to form friendship with Sugriva who would help him in finding out Sita *(Aranya Kanda)*. The next heroic act of Rama *(Kishkindha Kanda)* is his slaying Valin for obliging Sugriva a *Sharanagata*, and not because of any personal offence by him. Valin was a mighty ape and by virtue of a boon, could not be slain by any one in a face to face fight. Knowing this, Rama slayed him by shooting an arrow at him, unseen. Even such a *Pracchanna- Vadha*, he did not hesitate to do, to do a good turn to his शरणागत. of. तरणिसुत-शरणागतिपरतन्त्रीकृतस्वातन्त्र्य in the रघुवीरगद्य; the note by Vedanta Desika in his अभयप्रदानसार ch III on “सूक्ष्मः परमदुर्ज्ञेयः सतां धर्मः प्लवङ्गम"; also the episode of सुमालिनिग्रह which is a पराङ्मुखवध in the Ramayana, Uttara, ch 8.Rama would never let down any one, even an enemy, if he was a शरणागत. That is how eyen Vibhishana was taken in by Rama, in spite of protests from Sugriva and others. Finally *(in the Yuddhakanda)* Rama kills the great demon-king Ravana in a terrific fight with him. The benedictory sloka recounts all the deeds of Rama. This play begins with the episode of the *Valivadha* and concludes with that of the *Ravanavadha*.\]
@@ -3776,8 +3733,6 @@ The play is so named as it deals with the three *Abhishekas* of Sugriva, of Vibh
  एवमार्यमिश्रान्....these lines occur in the prologues of mcst of Bhasa's plays. पारिपार्श्वक—an assistant actor- **sl**.2. With line 1, of. Pratijna IV 23; Pancha II 21. The cry was of Sugriva and was heard rolling on like the roaring soundof a thunder. एष खलु—the three विशेषणाऽ of रामस्य have their parallels in the three of सुग्रीव . दाराभि... कृतस्य = "expelled from his country for having had carnal contact with the wife (of his elder brother Valin)". But a parallel to this we do not see in Rama. Hence the meaning "expelled from the company of his wife" is to be adopted. .... परस्परोपकार.......... suggests a प्रतीकारसन्धि. of. कामन्दक. **sl.** 3. Formerly Indra had lost his position for a year, when Nahusha officiated. But, by his misbehaviour, Nahusha got cursed by a sage and fell down to the earth. Then Indra was to be reinstated. It is probably to this occasion that Bhasa refers here.
 
  Mention is made here of the characters coming upon the stage at the commencement of the actual play. This device is called प्रयोगातिशय. स्थापना is the name used by Bhasa for the prologues of his plays. These are marked for beingvery brief and for the absence of any mention of the names of either the poet or his patron.
-
- 
 
 Page 2
 
@@ -3789,8 +3744,6 @@ III 18. It was customary to inscribe the name of the warrior on the arrows he us
 . / 4 शरवरपरित्रीतं —see note on P 5 / 4. / 11 कुलप्रवालं-अङ्गदम् . Note Valin's fondness for his son Angada who is the only hair to succeed even Sugriva who has no issues. / 15. हेममाला — the gold neck-lace which is the family heir-loom of Valin. // 17 & 18 – In Bhasa's plays water is frequently brought on the stage; and rapid action is usual as evidenced by the stage direction निष्क्रभ्य, प्रविश्य which allows no time for the actor. // 19 ff. Death is actually staged by Bhasa. *of*. Pratima II & Urubhanga. The first act concludes with the अभिषेक of सुग्रीव.
 
 ————————
-
-
 
 ACT II
 
@@ -3836,197 +3789,5 @@ ACT VI
 
  **Sl**. 1 is a split verse. Bhasa is fond of using suchverses; *of*. प्रतिमाiii 1; पञ्चi 57. **sl** 2. Warfield compared to an ocean. **sl**. 3 d. वज्र—इन्द्रा's (thunder-bolt) weapon made of the bones of दधीच, by which he chopped the wings of the mountains. **sl**. 4 demons attack the monkey forces. **sl**. 5 is like vii, a split verse and graphically describes the fight. **sl**.16 रावण in fighting mood. उदयशिखरि— the mountain supposed to be at the eastern horizon, behind which the sun and moon appear to rise. **sl.**7 राम in his fighting pose. क्रौञ्च यथा &c. see note on i 24. **sl**. 8 the fight begins. **sl.**9-11 the fight between रामon foot and रावणin his chariot. **sl**. 12 राम in इन्द्र's chariot driven by मातलि. त्रिपुरवधाय—मय had built three cities of gold, silver and iron in the sky, air and earth for demons. At the request of the gods, शिवburnt down these cities with their inhabitants. **sl.**13-17 the fight. Note the metre suggestive of the manner of the fight. **sl.**18 Rejoicing in the heavens at रावण's death. **P. 39**प्रतिज्ञार्णव— the vow of promise to free the sages of their troubles from demons by slaying Ravana. *of*. आश्चर्यचूडामणिvii 11. **sl**. 20 क्षय— house. राम is reluctant to see सीता for two reasons– 1. long separation between himself and सीता; and 2. her stay in the house of his enemy. /10 note the implicit obedience of . **sl**. 22 gives राम's definition of a true friend. While विभीषण is trying to advocate the cause of सीता before राम, लक्ष्मण has informed सीता of राम's attitude and she has decided to throw herself into fire with राम's permission. / 22 प्रतिव्रतायाः.... This is ample to show that राम has no doubt of her purity; only the points mentioned in sl 20 prevent him from accepting her. **sl**. 23 धर्मस्नेहान्तरे.... *of*. p. 13 / 20 & प्रतिज्ञा ii 7. / 8 आश्चर्यमाश्वर्यम् *of.* आ. चूडामणि vii **sl**. 24 सीता enters into the pyre gladly. **sl**. 25 सीता's appearance after the अग्निप्रवेश. I 25 Rama salutes the Fire god who recognises राम as the great नारायणin P 41/1; but it is significant that he immediately addresses him राजेन्द्र and पुरुषोत्तम in **sl**. 27 just as वरुण did in p. 27 // 2-3 (iv). **sl**. 28 अग्नि reveals that सीता is goddess लक्ष्मी. of राघवत्वेऽभवत्सीता रुक्मिणी कृष्णजन्मनि। अन्येषु चायतारेषु विष्णोरेषानपायिनी॥**sl**. 29 रामा's explanation as to why he allowed सीता's अग्निप्रवेश. **sl.** 30-31. राम is clearly identified with नारायण. The गान is similar to that in the आश्चर्यचूडामणि **sl**. 32 प्रतिज्ञार्णव of. vi 19. **sl.** 33 of. आ.चूडामणिv13. **sl.** 34 The circumstances in which रामis consecrated on the seashore alone is very significant. Even Bharata arrives there to participate in the rejoicing occasion.
 
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^134]: "दाव (तावत्
-
-
-[^85]: "संवुत्तो। जहि [यदि]........"
-
-
-[^84]: "इति !अदिधीर।......; पीडिदा."
-
-
-[^74]: "जाणासि (जानासि
-
-
-[^73]: "खु सि रा० (खल्वसि रा०
-
-
-[^62]: "कमअ०; कमुअ०"

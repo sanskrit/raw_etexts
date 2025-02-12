@@ -14,11 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4NjY4NTc5MzY
 
 \[
 
-
-
 [TABLE]
-
-
 
 **भोजप्रबन्धसार का सूचीपत्र॥**
 
@@ -52,10 +48,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4NjY4NTc5MzY
 |                  पुत्रीशाला में दासी मदनमालिनी का जाना परीक्षा और प्रबन्ध करना                  |
 |                 पुत्रीशाला में रानी का जाना और परम शिक्षा करनी और परीक्षा लेनी                  |
 
-
-
 **इति ॥**  
-
 
 **भूमिका ॥  
 ————**
@@ -1066,7 +1059,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4NjY4NTc5MzY
 इति
 
 \_\_\_\_\_\_\_\_\_₀\_\_\_\_\_\_\_\_\_\_\_
-
 
 \]
 
