@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MTIwNTU3MTI
 
 \[
 
+
+
+
+
+
+
 **शरणगमनदेशना**
+
+
 
 नमो रत्नत्रयाय
 
@@ -84,5 +92,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MTIwNTU3MTI
 **---------------------------------------------**
 
 \\Z
+
+
+
 
 \]

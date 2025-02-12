@@ -13,6 +13,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2MTc4NTMwMjU
 
 \[
 
+
+
   ॥ श्रीः ॥  
  ॥ श्रीमदानन्दतीर्थभगवत्पादप्रणीतसर्वमूलग्रन्था ॥
 
@@ -51,7 +53,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2MTc4NTMwMjU
 
  ॥ श्रीकृष्णार्पणमस्तु ॥
 
+
+
 F.N.
+
 
 1. यथा शुक्तिरजतम् (पा.)
 
@@ -89,5 +94,12 @@ F.N.
    -इति अधिकश्लोकः क्वचित् मूलकोशे ।
 
 14. मित्थ्यात्वानुमानदूषणम् (पा.)
+
+
+
+
+
+
+
 
 \]

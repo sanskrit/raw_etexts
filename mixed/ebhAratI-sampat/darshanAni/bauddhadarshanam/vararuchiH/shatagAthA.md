@@ -13,7 +13,24 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwNjQ0NzE3MTg
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **शतगाथा**
+
+
 
 कौमार्ये पठ्यतां विद्या शैत्ये संपाल्यतां च गौः ।  
 क्षेत्त्रं च कर्ष्यतां पीतं त्रयः सुफलहेतवः ॥ १ ॥  
@@ -234,5 +251,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwNjQ0NzE3MTg
 
 **--------------------------------------------------------  
 \\Z**
+
+
+
+
+
+
+
+
+
+
+
 
 \]

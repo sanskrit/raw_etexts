@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0Nzk1NDQ1Nzk
 
 \[
 
+
+
+
+
+
+
 **यशोधरचरितम्**
+
+
 
 श्री सिद्धार्थः कपिलनगरे बोधिसत्त्वः सपुत्रां  
 देवीं त्यक्त्वा सकलविभवं चक्रवर्तिश्रियं च ।  
@@ -237,5 +245,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0Nzk1NDQ1Nzk
 \\Z
 
 ----------------------------------------------------
+
 
 \]

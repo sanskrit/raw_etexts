@@ -17,14 +17,31 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3MDc1NTA2NTU
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ***Dvaita Vedanta Foundation Book Series***  
+
 
 **श्री जयतीर्थविरचिता**  
 **॥ प्रमाणपद्धतिः ॥**
 
+
 **With a Detailed Essay on Dvaita Epistemology  
 by  
 Prof. K. T. PANDURANGI**
+
+
 
 Published by
 
@@ -35,7 +52,12 @@ BANGALORE-4**
 
 1991
 
+
+
+
+
 ***Dvaita Vedanta Foundation Book Series***  
+
 
 **श्री जयतीर्थविरचिता**
 
@@ -45,6 +67,7 @@ BANGALORE-4**
 by  
 Prof. K. T. PANDURANGI**
 
+
 Published by  
 **DVAITA VEDANTA STUDIES AND**
 
@@ -53,17 +76,30 @@ BANGALORE - 4**
 
 1991  
 
+
 PRAMANAPADDHATI with a detailed essay on Dvaita Epistemology,
 
 Published by Dvaita Vedanta Studies and Research Foundation,
 
 R. R. Choultry, 88, K. R. Road, Bangalore-4  
 
+
+
 All Rights Reserved
+
+
 
 Price: Rs. 20
 
+
+
+
+
 Printed at Prabha Printing House, 22-A, Dr. D. V. Gundappa Road, Bangalore - 4
+
+
+
+
 
 **ABOUT THIS BOOK**
 
@@ -71,12 +107,18 @@ Printed at Prabha Printing House, 22-A, Dr. D. V. Gundappa Road, Bangalore - 4
         An essay in English is also added giving a gist of Dvaita Epistemology.  
    We have printed a thousand copies of Pramanapaddhati with eight commentaries to which this Text and English introduction are added. However, that is priced at Rs. 120/- on the basis of the cost of its printing. This will be quite heavy for students. Therefore, we thought of reprinting 500 extra copies of the Text and the introduction only for the benefit of students. We are glad to make this smaller edition available now.
 
+
 **Prof. K. T. PANDURANGI**
 
 **Chairman, Academic Committee  
 Dvaita Vedanta Foundation**
 
+
+
+
+
 DVAITA EPISTEMOLOGY
+
 
 **Definition of a Definition**
 
@@ -130,6 +172,7 @@ Here it is made clear that the characteristic that is given as definition is not
   According to Bhāskara in the error the **रजत** arises only during that time.If the **रजत** does not arise at that time there could be no experience of error, if it has arisen earlier, then, it is no error at all. Therefore, one has to say that the content of the error arises then and there only. If it is totally absent, then also there cannot be any error. It is also not correct to say that **रजत**present elsewhere appears here. Therefore, the right course to take is to say that the **रजत**arises then and there only during the experience of error.  
   असत्त्वे प्रतीत्यनुपपत्तेः उक्तं सदिति । अत्र प्रतीतस्य देशान्तरे सत्त्वे प्रमाणाभावादाह तत्रैवेति।
 
+
 अनुत्पन्नत्वे पूर्वमेवोत्पन्नत्वे वा भ्रान्त्यनुपपत्तिरित्यतः उक्तं तात्कालिकमुत्पन्नमिति । नश्यतीत्यपि ग्राह्यम् । तेन बाधोऽपि उपपद्यते । (वेदेशतीर्थ)  
   This view is also not tenable. In this case after the realisation of error the statement would have been as **'रजतं विनष्टम्'**. But the actual statement is **'असदेव रजतं प्रत्यभात्'**.  
   (5) न सन्नासन्न सदसत् किन्तु अनिर्वचनीयमेवेति मायावादिनः । (प्र.प.)
@@ -180,6 +223,7 @@ Here it is made clear that the characteristic that is given as definition is not
   As already stated **प्रमाण** is categarised into two as **केवलप्रमाण** and **अनुप्रमाण**. **यथार्थज्ञान** is **केवलप्रमाण**. **प्रत्यक्ष**, **अनुमान** and **आगम** are **अनुप्रमाणऽ**.  
   The **केवलप्रमाण** i.e., **यथार्थज्ञान** is again of two types viz **स्वरूपज्ञान** and **मनोवृत्तिरूपज्ञान.** The Supreme God i.e., **ईश्वर** and Goddess Lakshmi have **स्वरूपज्ञान**only. The Jivas are classified as योगिव्ऽ and अयोगिन्ऽ. These are further classified into various groups. All these have both स्वरूपज्ञान and मनोवृत्तिरूपज्ञान. The scope and the nature of the knowledge of these and the clarity of the objects comprehended are worked out in detail. These details are not theological. These are based on the inner nature and the spiritual capacity of the respective groups. The Supreme God has the supreme knowledge. He knows everything all the time truly. His concert Goddess Lakshmi is not able to know him fully. But she knows all others truly at all times. The Jivas know as per their capacity. In this explanation the important point to be noted is, knowledge is not merely a result of the mechanical process of the instruments of knowledge such as senses and manas. The knower's capacity considerably influences the nature and the process of the knowledge. This capacity is not only the capacity at the empirical level but the capacity of the very innate nature of each. This is a dimension of epsitemology that has not been taken into account in other systems of Indian Philosophy. This is not theological dimension but spiritual and psychological dimension.
 
+
 **Definition of Anupramanana**  
   **अनप्रमाण** is defined as **यथार्थज्ञानसाधनमनुप्रमाणम्**। This **अनुप्रमाण** is of three types, viz. **प्रत्यक्ष**, **अनुमान** and **आगम**। **प्रत्यक्ष** is defined as **निर्दोषार्थेन्द्रियसन्निकर्षः प्रत्यक्षम्** । The word **अर्थ** here refers to the objects that are comprehended by the senses. **अर्थशब्देन इन्द्रियविषयाः गृह्यन्ते।** The adjective **निर्दोष** has to be both as applicable to **अर्थ** and **इन्द्रिय**. **निर्दोषाणामर्थानां निर्दोषाणामिन्द्रियाणां च सन्निकर्षः.** The **दोषऽ** are listed as **अतिदूरत्वमतिसामीप्यं सौक्ष्म्यंव्यवधानं समानद्रव्याभिघातः अनभिव्यक्तत्वं सादृश्यमित्यादयः** ।  
   The expression **इन्द्रिय** here refers to **ज्ञानेन्द्रिय**. This is of two types, viz. **स्वरूपेन्द्रिय** and **प्राकृतेन्द्रिय**, The **स्वरूपेन्द्रिय** is called **साक्षिन्**. As it makes **स्वरूपज्ञान** manifest, it is also included under **अनुप्रमाण** i.e., **प्रत्यक्ष**.  
@@ -200,14 +244,18 @@ Here it is made clear that the characteristic that is given as definition is not
 **The nature of external senses and the knowledge produced by them**  
   The **प्राकृतेन्द्रियऽ** i.e., external senses eye, ear etc., produce **मनोवृत्तिज्ञान**. **मनोवृत्ति** means **मनसः परिणाम** modification of the **मनस्**. These senses are called **प्राकृत** because, these arise from **अहंकारतत्व** and **पञ्चभूतऽ** that are the evolutes of **प्रकृतिः 'प्रकृतिपरिणामाहंकारपञ्चमहाभूतरुपचितं प्राकृतमित्युच्यते' (राघवेन्द्रतीर्थ)**
 
+
 सूक्ष्मेन्द्रियाणि सन्त्येव स्युः स्थूलान्यप्यहंकृतेः ।  
 तेषां भूतैरुपचयः सृष्टिकाले विधीयते ॥ इत्युक्तेः (वेदेशतीर्थ)
+
+
 
   The expression **प्रतक्ष**is used to indicate the senses and also their contact with the objects. It should be understood accordingly in the respective places.  
   प्रत्यक्षं करणविशेषः इन्द्रियं करणं तस्य अर्थसन्निकर्षः अवान्तरव्यापारः । तत्र अवान्तरव्यापारप्राधान्यविवक्षया अर्थेन्द्रियसन्निकर्षः प्रत्यक्षमित्युच्यते । क्वचित्तु धर्मिप्राधान्यविवक्षया स्वस्व विषयसन्निकृष्टमिन्द्रियं प्रत्यक्षमित्युच्यते । (प्र.प.)  
   These external senses are of three types **देव**, **आसुर** and **मध्यम**. The first will give predominantly true knowledge, the second predominantly distorted knowledge and the third will give the two equally. **तत्र यथार्थज्ञानापुरं दैवम्। अयथार्थज्ञानप्रचुरमासुरम्। समज्ञानसाधनं त मध्यमम्**\। In case of **स्वरूपेन्द्रिय**also the higher souls will have true knowledge both in respect of the objects and their characteristics, in case of others there arises true knowledge respect of objects but in respect of their characteristics it is distorted an mixed.  
   स्वरूपेन्द्रियमपि उत्तमानां विषयस्वरूपे प्रकारे च यथार्थमेव । अधममध्यमानां तु स्वरूपमात्रेयथार्थमेव । प्रकारे तु अयथार्थ मिश्रं च ।  
   This is again not a theological tenet. Dvaita believes on good authority that the epistemological process greatly depends upon innate nature of knower. In our day to day experience also it can be empirically assertained.
+
 
 **The nature of contact between the senses and the objects**  
   In Nyaya system the contact between the senses and the objects is worked out in six ways. This is not acceptable to Dvaita for the following reasons :  
@@ -369,6 +417,7 @@ These explanations of **आकांक्षा**, **सन्निधि** an
   **आगम** is of two types viz. **पौरुषेय** and **अपौरुषेय**. **वेद** is **अपौरुषेय**. According to Dvaita, **वर्णऽ** are **कृटस्थनित्य** and **सर्वगत**. The **पदऽ** are also **नियत** i.e.. **एकजातीयानुपूर्विक**. **पदपदार्थसम्बन्ध** is **स्वाभाविक**. This much is common to both **पौरुषेय वाक्य** and **अपौरुषेय वाक्य**, The only difference between the two is in the case of **पौरुषेयवाक्य** the **आनुपूर्वी** or the order of words is **स्वतन्त्रपुरुषपूर्वक** while in **अपीरुषेय वाक्य** it is not so. **वाक्ये पदानामानुपूर्वीविशेषस्य
 स्वतन्त्रपुरुषपूर्वकत्वभावाभावाभ्यामयं भेदः** । Hereby **स्वतन्त्रपुरुष** a person who is not merely repeating what is already there is meant. **स्वजातीयोच्चारणमनपेक्ष्योच्चारयिता स्वतन्त्रःइत्युच्यते**। For instance when **व्यास** dictated the Mahabharata he was notmerely repeating what was already there but he himself compwsed the Mahabharata. In the case of the Vedas nobody composed them. Teacher after teacher recited the Vedas. **अप्रमितकर्तृवाक्यत्वं वेदत्वम्.**  
 
+
 **अर्थापत्ति etc., are included in other प्रमाणऽ**
 
    The Vaisesika view that **शब्द** is not a separate **प्रमाण** and the Prabhakara view that **पौरुषेयशब्द** is not a separate **प्रमाण** are not acceptable to Dvaita.
@@ -391,6 +440,7 @@ These explanations of **आकांक्षा**, **सन्निधि** an
   (iii) सुखाद्यभावप्रमितिः साक्षिप्रत्यक्षेणैव ।
 
   (iv) पुरोवृत्ति घटाद्यभावप्रमितिस्तु झटिति जायमाना प्रत्यक्षफलमेव ।
+
 
   The usual objection for considering **अभाव** as **प्रत्यक्षवेद्य** viz. **अभावस्य इन्द्रियसन्निकर्षानुपपत्ति** is ruled out by holding that **भाववदभावस्यापि इन्द्रियसन्निकर्षे बाधकाभावात् ।**  
   **सम्भव** and **ऐतिह्य** are also not separate **प्रमाणऽ**.  
@@ -432,11 +482,17 @@ These explanations of **आकांक्षा**, **सन्निधि** an
                                    
        K. T. PANDURANGI
 
+                                   
   Chaiman, Academic Committee
 
+                                   
     Dvaita Vedenta Study and  
                                    
       Research Foundation
+
+
+
+
 
 **॥ प्रमाणपद्धतिः॥**
 
@@ -537,11 +593,17 @@ These explanations of **आकांक्षा**, **सन्निधि** an
 **प्रत्यक्षस्य फलम्**  
   (३०) हानोपादानोपेक्षाबुद्धयः प्रत्यक्षस्य फलमिति केचित् आहुः । तदप्यसत् । तासाम् अनुमानफलत्वात् । तथा हि । कण्टकादिस्वरूपमात्रं प्रदर्श्यप्रत्यक्षं निवर्तते । अथ इदानीं पूर्वानुभूतस्य कण्टकादेः अनिष्टसाधनत्वम् अनुभूतं स्मृत्वा अस्य च कण्टकादित्वेन तदनुमिमानस्य हानबुद्धिः उपजायते । एवं कदलीफलादौ इष्टसाधनत्वानुमानानन्तरं उपादानबुद्धिः उत्पद्यते । तृणादौ च औदासीन्यं अनुमाय उपेक्षाबुद्धिः प्रतिपद्यते । अतः विशिष्टविषयसाक्षात्कारः एव प्रत्यक्षस्य फलमिति॥
 
+
 **इति श्रीमजयतीर्थपूज्यचरणविरचित प्रमाणपद्धतौ**
 
 **प्रत्यक्षपरिच्छेदः समाप्तः ॥ १॥**
 
+
+
+
 **॥ अनुमानपरिच्छेदः॥**
+
+
 
 **अनुमानलक्षणम्**
 
@@ -724,6 +786,9 @@ These explanations of **आकांक्षा**, **सन्निधि** an
 
 **अनुमानपरिच्छेदः समाप्तः ॥ २॥**
 
+
+
+
 **॥ आगमपरिच्छेदः ॥**
 
 **आगमलक्षणम्**
@@ -762,6 +827,7 @@ These explanations of **आकांक्षा**, **सन्निधि** an
 
    बहुलज्ञानेऽल्पज्ञानं सम्भवः । यथा शतमस्तीति ज्ञाने पञ्चाशज्ज्ञानम् । तदप्यनुमानमेव । देवदत्तः पञ्चाशद्वान् । शतवत्त्वात् । यथाऽहमिति प्रयोगसम्भवात् । प्रसक्तप्रतिषेधे परिशिष्यमाणे बुद्धिः परिशेषः । यथा देवदत्तयज्ञदत्तावेताविति ज्ञाने सत्येकस्मिन्नायं यज्ञदत्त इति प्रतिषेधे देवदत्तबुद्धिः । इयमनुमानजन्या । अयं देवदत्तः । देवदत्तयज्ञदत्तयोरन्यतरत्वे सत्ययज्ञदत्तत्वात् । व्यतिरेकेण यज्ञदत्तवदिति प्रयोगोपपत्तेः । उपक्रमादीन्यप्यनुमानान्येव। अनिर्दिष्टप्रवक्तृकं प्रवादपारम्पर्यमैतिह्यम् । यथाऽत्र वटे वैश्रवणोऽस्तोति वाक्यं तदागम एव । एवमन्यान्यपि प्रमाणान्युक्तेष्वेवान्तर्भाव्यानि ।  
 
+
 **प्रामाण्यविचारः**
 
 **  **(१२) नन्वेतेषां प्रमाणानां प्रामाण्यमप्रमाणानामप्रामाण्यं च केनोत्पद्यते केन वा ज्ञायत इति चेत् । उच्यते । तत्र ज्ञानानामुभयं स्वत एवेति साङ्ख्या मन्यन्ते । ज्ञानजनकातिरिक्तजनकानपेक्षत्वमुत्पत्तौ स्वतस्त्वम् । ज्ञानज्ञापकातिरिक्तज्ञापकानपेक्षत्वं ज्ञप्तौ स्वतस्त्वम् । उभयं परत एवेति नैयायिकादयः । ज्ञानजनकातिरिक्तकारणजन्यत्वमुत्पत्तौ परतस्त्वम् । ज्ञानज्ञापकातिरिक्तप्रमाणापेक्षत्वं ज्ञप्तौपरतस्त्वम् । तत्र ज्ञानमिन्द्रियादिजन्यं प्रामाण्यं पुनरिन्द्रियादिगुणजन्यम् । तथाऽप्रामाण्यं तद्दोषजन्यम् । एवं ज्ञानं मानसप्रत्यक्षवेद्यम् । तत्र प्रामाण्यमप्रामाण्यं च संवादविसंवादलिङ्गगम्यमिति । प्रामाण्यं परतोऽप्रामाण्यं स्वत इति बौद्धाः । प्रामाण्यं स्वतोऽप्रामाण्यं परत इति पक्षमङ्गीकुर्वाणा अपि भाट्टाः प्रामाण्यविशिष्टं ज्ञानं ज्ञातताविशेषेणानुमीयत इति ज्ञप्तौ स्वतस्त्वम् । अप्रामाण्यं तु विसंवादाद्यनुमानान्तरवेद्यमिति परतस्त्वं मन्यन्ते। स्वप्रकाशज्ञानेनैव प्रामाण्यविशिष्टज्ञानं सिद्ध्यति । अप्रामाण्यं तु नास्त्येवेति प्राभाकराः । इन्द्रियादिमात्रेणैव प्रामाण्यविशिष्टं ज्ञानमुत्पद्यते । गुणास्त्वकिञ्चित्कराः । अप्रामाण्यं दोषसहकृतेन्द्रियादिभिरुत्पद्यते । तथा ज्ञानं तत्प्रामाण्यं च साक्षिणैव ज्ञायते । अप्रमाणज्ञानस्वरूपमात्रं साक्षिवेद्यम् । तद्प्रामाण्यं त्वनुमेयमित्याचार्याः ।
@@ -771,11 +837,17 @@ These explanations of **आकांक्षा**, **सन्निधि** an
         **       जयतीर्थमुनीन्द्रेण बालबोधाय निर्मिता।
                  प्रमाणपद्धतिर्भूयात्प्रीत्यै माधवमध्वयोः॥१॥**
 
+
+
 **इति श्रीमज्जयतीर्थपूज्यचरणविरचितप्रमाणपद्धतौ**
 
 **आगमपरिच्छेदः समाप्तः॥३॥ **
 
 **॥ ग्रन्थश्चायंसम्पूर्णः ॥**
+
+
+
+
 
 **Publications of Dvaita Vedanta Foundation**
 
@@ -805,6 +877,7 @@ with English translation by Prof. K. T. Pandurangi
         **Rs. 20  
 by Dr. B. N. K. Sharma
 
+
 **KANNADA**
 
 **1, ದೈತ ವೇದಾಂತ ವಾಯ ಮತ್ತು ಇತಿಹಾಸ ಸಂಪುಟ ೧**              
@@ -823,6 +896,8 @@ by Dr. B. N. K. Sharma
            **Rs. 20  
 ಟಿ. ಪಿ. ರಾಮಚಂದ್ರ, ಅನುವಾದಕರು : ಬಾದರಾಯಣಮೂರ್ತಿ  
 
+
+
 **ದತ್ತಿ ಉಪನ್ಯಾಸಗಳು ಮತ್ತು ಚಿಕ್ಕ ಪುಸ್ತಕಗಳು**
 
 **1. ದೇವರು, ಜಗತ್ತು, ಜೀವ ಮತ್ತು ಮೋಕ್ಷ                  
@@ -840,5 +915,16 @@ by Dr. B. N. K. Sharma
 **4. ಸರ್ವಮೂಲಸಾರ ಸಂಗ್ರಹ                        
           **Rs. 10  
 ವಿವಿಧ ವಿದ್ವಾಂಸರುಗಳಿಂದ, ಸಂಪಾದಕರು : ಎನ್. ನಾರಾಯಣರಾಯರು
+
+
+
+
+
+
+
+
+
+
+
 
 \]

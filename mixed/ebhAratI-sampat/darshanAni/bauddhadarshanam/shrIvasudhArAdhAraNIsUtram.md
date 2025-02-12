@@ -12,7 +12,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0MDA5MDc1NTI
 
 \[
 
+
+
+
+
 **वसुधाराधारणीसूत्रम्**
+
 
 (१३१)  
 आर्यवसुधाराधारणीसूत्र
@@ -55,6 +60,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0MDA5MDc1NTI
 ये धर्मा हेतुप्रभवा हेतुं तेषां तथागतो ह्यवदत् ।  
 तेषां च यो निरोध एवंवादी महाश्रमणः **॥\\Z**
 
+
+
 **------------------------------------------------------------------**
+
+
+
+
+
 
 \]

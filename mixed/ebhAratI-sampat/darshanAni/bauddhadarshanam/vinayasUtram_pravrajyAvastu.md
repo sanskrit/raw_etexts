@@ -12,9 +12,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM5NDUzNDI0OTY
 
 \[
 
+
+
+
+
+
+
 **विनयसूत्रम्**
 
 **१ प्रव्रज्यावस्तु**
+
+
 
 (इ) श्रामणेरत्वोपनयम्
 
@@ -341,6 +349,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM5NDUzNDI0OTY
 
 **विनयवृत्तौ \[स्वव्याख्यानतः\] प्रव्रज्यावस्तु समाप्तम् । ।**
 
+
+
 **-------------------------------------------------------**
+
+
+
 
 \]

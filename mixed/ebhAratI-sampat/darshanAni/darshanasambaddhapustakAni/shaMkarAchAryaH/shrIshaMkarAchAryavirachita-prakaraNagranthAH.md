@@ -37,13 +37,13 @@ H. R. BHAGAVAT.
 | ब्रह्मानुचिंतनम्      | सनत्सुजातीयभाष्यम्             |
 | मोहमुद्गरः            | विष्णुसहस्रनामभाष्यम्          |
 
-![](../books_images/U-IMG-1725527032Screenshot2024-09-05143236.png)
+<MISSING_FIG href="../books_images/U-IMG-1725527032Screenshot2024-09-05143236.png"/>
 
 **Oriental Book Agency**  
 15, Shukrawar, POONA 2 (India).  
 and Ed. 1952 \]    \[ Price Rs. 12-8
 
-![](../books_images/U-IMG-1725946504Screenshot2024-09-10110350.png)
+<MISSING_FIG href="../books_images/U-IMG-1725946504Screenshot2024-09-10110350.png"/>
 
 **821**
 
@@ -59,7 +59,7 @@ and Ed. 1952 \]    \[ Price Rs. 12-8
 
 **PREFACE.**
 
-**![](../books_images/U-IMG-1725505683Screenshot2024-09-05083646.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725505683Screenshot2024-09-05083646.png"/>**
 
  This volume comprises the Minor Works of Shri Shankaracharya. Many of these minor works are from the pen of the great teacher, but no one can say definitely that all are. The excellent edition published by the Vanivilas Press of Shrirangam contains a few works more *e. g.*नृसिंहतापनीभाष्य, प्रपंचसार, ललितात्रिशती &c. These Ihave omitted thinking them to be not genuine. That edition contains numerous devotional Stotras also and many of these I thought it proper to omit, because, in my humble opinion, the language used and the purport conveyed do not show them to be Shri Shankara's[^1]
 composition. This does not mean that the devotional stotras included by me in this volume are certainly all composed by Shri Shankara. I am unable to say any thing definite about the devotional stotras. As regards the Vedanta Stotras, I for one, have no doubt and consider all of them to be Shri Shankara's sublime utterances.
@@ -98,7 +98,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **अनुक्रमणिका।**
 
-**![](../books_images/U-IMG-1725527623Screenshot2024-09-05144230.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725527623Screenshot2024-09-05144230.png"/>**
 
 |                               |
 |:-----------------------------:|
@@ -153,17 +153,18 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 | सनत्सुजातीयभाष्यम्        |
 | विष्णुसहस्रनामभाष्यम्     |
 
-![](../books_images/U-IMG-1725546880Screenshot2024-09-05200251.png)
+                               
+<MISSING_FIG href="../books_images/U-IMG-1725546880Screenshot2024-09-05200251.png"/>
 
-**![](../books_images/U-IMG-1725507932Screenshot2024-09-05091417.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725507932Screenshot2024-09-05091417.png"/>**
 
 **श्रीशंकराचार्यविरचितप्रकरणग्रंथसंग्रहः।**
 
-**![](../books_images/U-IMG-1725507983Screenshot2024-09-05091505.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725507983Screenshot2024-09-05091505.png"/>**
 
 **॥ अपरोक्षानुभूतिः ॥**
 
-![](../books_images/U-IMG-1725508317Screenshot2024-09-05092042.png)
+<MISSING_FIG href="../books_images/U-IMG-1725508317Screenshot2024-09-05092042.png"/>
 
 **श्रीहरिं परमानंदमुपदेष्टारमीश्वरम्।**  
 **व्यापकं सर्वलोकानां कारणं तं नमाम्यहम्॥१॥**
@@ -609,7 +610,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **॥आत्मबोधः॥**
 
-![](../books_images/U-IMG-1725541910Screenshot2024-09-05184031.png)
+<MISSING_FIG href="../books_images/U-IMG-1725541910Screenshot2024-09-05184031.png"/>
 
 **तपोभिः क्षीणपापानां शान्तानां वीतरागिणाम्।**  
 **मुमुक्षूणामपेक्ष्योऽयमात्मबोधो विधीयते॥१॥**
@@ -825,11 +826,11 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 **पादशिष्यस्य श्रीशंकरभगवतः कृतौ**  
 **आत्मबोधः समाप्तः ॥**
 
-**![](../books_images/U-IMG-1725528374Screenshot2024-09-05145446.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725528374Screenshot2024-09-05145446.png"/>**
 
 **॥तत्त्वोपदेशः॥**
 
-**![](../books_images/U-IMG-1725543229Screenshot2024-09-05190229.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725543229Screenshot2024-09-05190229.png"/>**
 
 **तत्त्वंपदार्थशुद्ध्यर्थं गुरुः शिष्यं वचोऽब्रवीत्।**  
 **वाक्ये तत्त्वमसीत्यत्र त्वंपदार्थंविवेचय॥१॥**
@@ -1099,11 +1100,11 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 **वत्पूज्यपादशिष्यस्य श्रीशंकरभगवतः कृतौ**  
 **तत्त्वोपदेशः संपूर्णः॥**
 
-**![](../books_images/U-IMG-1725586778Screenshot2024-09-06070820.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725586778Screenshot2024-09-06070820.png"/>**
 
 **॥प्रौढानुभूतिः॥**
 
-**![](../books_images/U-IMG-1725545365Screenshot2024-09-05193807.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725545365Screenshot2024-09-05193807.png"/>**
 
 **प्रौढप्रौढनिजानुभूतिगलितद्वैतेंद्रजालो गुरो-**  
 **र्गूढं गूढमघौघदुष्टकुधियां स्पष्टं सुधीशालिनाम्।**  
@@ -1193,11 +1194,11 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **इति प्रौढानुभूतिः समाप्ता॥**
 
-**![](../books_images/U-IMG-1725585866Screenshot2024-09-06065304.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725585866Screenshot2024-09-06065304.png"/>**
 
 **॥ब्रह्मज्ञानावलीमाला॥**
 
-**![](../books_images/U-IMG-1725544867Screenshot2024-09-05192950.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725544867Screenshot2024-09-05192950.png"/>**
 
 **सकृच्छ्रवणमात्रेण ब्रह्मज्ञानं यतो भवेत्।**  
 **ब्रह्मज्ञानावलीमाला सर्वेषां मोक्षसिद्धये॥१॥**
@@ -1262,11 +1263,11 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **॥इति ब्रह्मज्ञानावलीमाला समाप्ता॥**
 
-**![](../books_images/U-IMG-1725544471Screenshot2024-09-05192314.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725544471Screenshot2024-09-05192314.png"/>**
 
 **॥लघुवाक्यवृत्तिः॥**
 
-**![](../books_images/U-IMG-1725522762Screenshot2024-09-05132126.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725522762Screenshot2024-09-05132126.png"/>**
 
 **स्थूलो मांसमयो देहो सूक्ष्मः स्याद्वासनामयः।**  
 **ज्ञानकर्मेंद्रियैः सार्धं धीप्राणौ तच्छरीरगौ॥१॥**
@@ -1329,7 +1330,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **॥वाक्यवृत्तिः॥**
 
-**![](../books_images/U-IMG-1725523622Screenshot2024-09-05133550.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725523622Screenshot2024-09-05133550.png"/>**
 
 **सर्गस्थितिप्रलयहेतुमचिंत्यशक्तिं**  
 **विश्वेश्वरं विदितविश्वमनंतमूर्तिम्॥**  
@@ -1502,7 +1503,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **॥ सदाचारानुसंधानम् ॥**
 
-**![](../books_images/U-IMG-1725525691Screenshot2024-09-05141017.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725525691Screenshot2024-09-05141017.png"/>**
 
 **सच्चिदानंदकंदाय जगदंकुरहेतवे।**  
 **सदोदिताय पूर्णाय नमोऽनंताय विष्णवे॥१॥**
@@ -1677,7 +1678,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **॥स्वात्मनिरूपणम्॥**
 
-![](../books_images/U-IMG-1725773832Screenshot2024-09-08110547.png)
+<MISSING_FIG href="../books_images/U-IMG-1725773832Screenshot2024-09-08110547.png"/>
 
 **श्रीगुरुचरणद्वंद्वं वंदेऽहं मथितदुःसहद्वंद्वम्।  
 भ्रांतिग्रहोपशांतिं पांसुमयं यस्य भसितमातनुते॥१॥**
@@ -2153,7 +2154,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **॥अद्वैतानुभूतिः॥**
 
-**![](../books_images/U-IMG-1725786495da.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1725786495da.PNG"/>**
 
 **अहमानंदसत्यादिलक्षणः केवलः शिवः।  
 सदानंदादिरूपं यत्तेनाहमचलोऽद्वयः॥१॥**
@@ -2413,7 +2414,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **॥दशश्लोकी॥**
 
-**![](../books_images/U-IMG-1725779598Screenshot2024-09-08124248.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725779598Screenshot2024-09-08124248.png"/>**
 
 **न भूमिर्न तोयं न तेजो न वायु-  
 र्न खं नेंद्रियं वा न तेषां समूहः।  
@@ -2472,7 +2473,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **॥प्रबोधसुधाकरः॥**
 
-**![](../books_images/U-IMG-1725778370Screenshot2024-09-08122155.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725778370Screenshot2024-09-08122155.png"/>**
 
 **॥देहनिंदाप्रकरणम्॥**
 
@@ -3334,7 +3335,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **॥प्रश्नोत्तररत्नमालिका॥**
 
-**![](../books_images/U-IMG-1725795828Screenshot2024-09-08171254.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725795828Screenshot2024-09-08171254.png"/>**
 
 **कः खलु नालंक्रियते दृष्टादृष्टार्थसाधनपटीयान्।  
 अमुया कंठस्थितया प्रश्नोत्तररत्नमालिकया॥१॥**
@@ -3545,7 +3546,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 **——————**
 
 **॥ ब्रह्मानुचिंतनम् ॥  
-![](../books_images/U-IMG-1726686590tttt.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726686590tttt.png"/>**
 
 **अहमेव परं ब्रह्म वासुदेवाख्यमव्ययम्।  
 इति स्यान्निश्चितो मुक्तो बद्ध एवान्यथा भवेत् ॥ १ ॥**
@@ -3640,7 +3641,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 **॥ इति ब्रह्मानुचितनं समाप्तम् ॥**
 
 **॥ मोहमुद्गरः ॥  
-![](../books_images/U-IMG-1726686702rrrr.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726686702rrrr.png"/>**
 
 **भज गोविंदं भज गोविंदं भज गोविंदं मूढमते।  
 प्राप्ते सन्निहिते मरणे न हि न हि रक्षति डुकृञ् करणे ॥ १ ॥**
@@ -3739,7 +3740,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 **॥ इति मोहमुद्गरः समाप्तः ॥**
 
 **॥ योगतारावली ॥**  
-![](../books_images/U-IMG-1726576084dd.png)
+<MISSING_FIG href="../books_images/U-IMG-1726576084dd.png"/>
 
 **वंदे गुरूणां चरणारविंदे  
 संदर्शितस्वात्मसुखावबोधे।  
@@ -3892,7 +3893,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 **॥ इति योगतारावली संपूर्णा ॥**
 
 **॥ शतश्लोकी ॥  
-![](../books_images/U-IMG-1726576460dd.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726576460dd.png"/>**
 
 **दृष्टान्तो नैव दृष्टस्त्रिभुवनजठरे सद्गुरोर्ज्ञानदातुः  
 स्पर्शश्चेत्तत्र कल्प्यः स नयति यदहो स्वणतामश्मसारम्।  
@@ -4417,7 +4418,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 **—————**
 
 **॥ स्वात्मप्रकाशिका ॥**  
-![](../books_images/U-IMG-1726678152ooooo.png)
+<MISSING_FIG href="../books_images/U-IMG-1726678152ooooo.png"/>
 
 **जगत्कारणमज्ञानमेकमेव चिदन्वितम्।  
 एक एव मनः साक्षी जानात्येवं जगत्त्रयम् ॥ १ ॥**
@@ -4641,10 +4642,10 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 परमाद्वैतविज्ञानमपरोक्षं न संशयः ॥ ६८ ॥**
 
 **॥ इति स्वात्मप्रकाशिका समाप्ता॥  
-![](../books_images/U-IMG-1726578113fggd.png)**  
+<MISSING_FIG href="../books_images/U-IMG-1726578113fggd.png"/>**  
 
 **॥ सर्ववेदान्तसिद्धान्तसारसंग्रहः ॥  
-![](../books_images/U-IMG-1726578177dd.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726578177dd.png"/>**
 
 **अखंडानंदसंबोधो वंदनाद्यस्य जायते।  
 गोविंदं तमहं वंदे चिदानंदतनुं गुरुम् ॥ १ ॥**
@@ -10178,7 +10179,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **॥अथ परिसंख्यानप्रकरणं तृतीयम्॥**
 
-**![](../books_images/U-IMG-1726142717Screenshot(78).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726142717Screenshot(78"/>.png)**
 
  मुमुक्षूणां उपात्तपुण्यापुण्यक्षपणपराणां अपूर्वानुपचयार्थिनां परिसंख्यानमिदमुच्यते, अविद्याहेतवो दोषाः वाङ्मनःकायप्रवृत्तिहेतवः, प्रवृत्तेश्च इष्टानिष्टमिश्रफलानि कर्माणि उपचीयंते इति तन्मोक्षार्थम्॥११२॥
 
@@ -12324,7 +12325,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **वेदान्तस्तोत्राणि।**
 
-**![](../books_images/U-IMG-1725609891Screenshot2024-09-06133419.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1725609891Screenshot2024-09-06133419.png"/>  
 प्रातःस्मरणम्**
 
 **प्रातः स्मरामि हृदि संस्फुरदात्मतत्त्वं  
@@ -13096,7 +13097,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **भक्तिस्तोत्राणि**
 
-**![](../books_images/U-IMG-1725701105Screenshot2024-09-07145419.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725701105Screenshot2024-09-07145419.png"/>**
 
 **शिवभुजंगप्रयातस्तोत्रम्।**
 
@@ -13292,7 +13293,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **अनात्मश्रीविर्गहणम्।**
 
-**![](../books_images/U-IMG-1725685319Screenshot2024-09-07103040.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725685319Screenshot2024-09-07103040.png"/>**
 
 **लब्धा विद्या राजमान्या ततः किं प्राप्ता संपत्प्राभवाढवा ततः किम्।**  
 **भुक्ता नारी सुंदरांगी ततः किं येन स्वात्मा नैव साक्षात्कृतोऽभून्॥१॥**
@@ -13514,7 +13515,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **जीवन्मुक्तानंदलहरी।**
 
-**![](../books_images/U-IMG-1725630367Screenshot2024-09-06191448.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725630367Screenshot2024-09-06191448.png"/>**
 
 **पुरे पोरान्पश्यन्नरयुवतिनामाकृतिमयान्**  
 **सुवेपान्स्वर्णालंकरणकलितांश्चित्रसदृशान्।**  
@@ -13611,7 +13612,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 
 **वाक्य-सुधा।**
 
-**![](../books_images/U-IMG-1725631374Screenshot2024-09-06193137.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725631374Screenshot2024-09-06193137.png"/>**
 
 **रूपं दृश्यं लोचनं दृक्तद्दृश्यं दृक् तु मानसम्।**  
 **दृश्या धीवृत्तयः साक्षी दृगेव तु न दृश्यते॥१॥**
@@ -13762,7 +13763,7 @@ Poona city.        }                  ** H. R. BHAGAVAT.**
 **आपस्तंबीयधर्मप्रथमप्रश्नाष्टमपटलं  
 श्रीमच्छंकरभगवत्पादप्रणीतविवरणोपेतम्।**
 
-**![](../books_images/U-IMG-1725697176Screenshot2024-09-07134817.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725697176Screenshot2024-09-07134817.png"/>**
 
 **आध्यात्मिकान् योगाननुतिष्ठेन्न्यायसंहिताननैश्चारिकान्॥१॥**
 
