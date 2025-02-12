@@ -1877,6 +1877,8 @@ Cf. KS. VII, 13, 14; MS. I, 6, 1,2.
 
 [^21]: "KS. •मेवैनं."
 
+[^23]: "KS. प्रक्रमेषु."
+
 षु[^23] राजन्येनाधेयः। एकादशाक्षरा त्रिष्टुप्। त्रिष्टुप्छन्दा राजन्यः। स्वस्यैवैनं छन्दसः प्रात्येनस्य
 
 [^23]: "KS. प्रक्रमेषु."
@@ -5427,38 +5429,3 @@ Cf. KS. XXXV, 13. 14.
 
 \]
 
-[^82]: "The ms°रभ्य°"
-
-[^62]: "KS. पुञ्जिग०"
-
-[^39]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
-
-[^38]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
-
-[^37]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
-
-[^36]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
-
-[^35]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
-
-[^34]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
-
-[^33]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
-
-[^32]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
-
-[^31]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
-
-[^30]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
-
-[^29]: "Schroeder does not consider ततः and यतः as compounded with the follow- ing words बन्धुः and आयनः He is apparently mistaken."
-
-[^26]: "The ms. •मवरुणधायेति."
-
-[^24]: "KS. प्रक्रमेषु."
-
-[^22]: "KS. •मेवैनं."
-
-[^19]: "KS, ऊषाः."
-
-[^16]: "The ms. एतद्धेः वर्द्धन्यः. KS. omits"

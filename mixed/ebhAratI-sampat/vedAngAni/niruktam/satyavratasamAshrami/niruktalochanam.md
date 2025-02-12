@@ -2439,5 +2439,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1MTc3NDE2MDI
 ![](../books_images/U-IMG-1736440610symbol1.jpg)
 
 \]
-
-[^5]: "INDIAN ANTIQUARY, VOL. I, P.21-23."
