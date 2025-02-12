@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MzIzMzc2MzA
 
 \[
 
+
+
+
+
 त्रिशिखिब्राह्मणोपनिषत् ।
+
+
 
 योगज्ञानैकसंसिद्धशिवतत्त्वतयोज्ज्वलम् ।
 
@@ -783,5 +789,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MzIzMzc2MzA
 इति त्रिशिखिब्राह्मणोपनिषत्समाप्ता ॥
 
 ------------------------------
+
+
+
 
 \]

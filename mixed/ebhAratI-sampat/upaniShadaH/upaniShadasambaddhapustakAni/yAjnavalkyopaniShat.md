@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY5MjYyMzQ2MTc
 
 \[
 
+
+
+
+
+
+
 याज्ञवल्क्योपनिषत् ।
+
+
 
 संन्यासज्ञानसंपन्ना यान्ति यद्वैष्णवं पदम् ।
 
@@ -219,5 +227,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY5MjYyMzQ2MTc
 इति याज्ञवल्क्योपनिषत्समाप्ता ॥
 
 --------------------------------
+
+
+
 
 \]

@@ -36,10 +36,11 @@ No.2 Ramanatha Majumdara's Street, Calcutta
 [TABLE]
 
                                    
+                  
 
 **चक्रदत्तः**
 
-![](../books_images/1686816898.jpg)
+<MISSING_FIG href="../books_images/1686816898.jpg"/>
 
 **गुणत्रयविभेदेन मूर्तित्रयमुपेयुषे।**  
 **त्रयीभुवे त्रिनेत्राय त्रिलोकीपतये नमः॥१॥**

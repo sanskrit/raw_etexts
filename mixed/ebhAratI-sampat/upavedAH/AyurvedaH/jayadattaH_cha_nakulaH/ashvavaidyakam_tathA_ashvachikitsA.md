@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 
 **TREATISE ON THE VETERINARY SCIENCE**
 
-![](../../../../../books_images/1674550112.jpg)
+<MISSING_FIG href="../../../../../books_images/1674550112.jpg"/>
 
 **महासामन्त श्रीजयदत्तकृतम्**  
 तथा
@@ -33,7 +33,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 
 **श्रीजीवानन्दविद्यासागरभट्टाचार्येण**  
 संस्कृतं प्रकाशितञ्च।  
-![](../../../../../books_images/1674449490.jpg)  
+<MISSING_FIG href="../../../../../books_images/1674449490.jpg"/>  
 द्वितीयसंस्करणम्।
 
 **कलिकातानगर्य्याम्**  
@@ -166,18 +166,22 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 **आयुर्वयोज्ञानाध्यायः चतुर्थः** **           **
 
 दौर्घायुर्लक्षणकथनम्                         
+           
 
 स्वल्पायुर्लक्षणकथनम्     
 
 दन्तैर्वयोज्ञानकथनम्                         
+             
 
 कालिकादिरेखया वयोज्ञानम् 
 
 पतितापतितीत्यदन्तलक्षणम् ...                     
+          
 
 **दशाक्षेत्राध्यायः पञ्चमः ** ** **
 
 दशविधदशाकथनम्                             
+      
 
 दशापरिमाणकथनम्               
 
@@ -187,8 +191,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
            **
 
 उत्तमाश्वसंख्या                            
+        
 
 मध्यमाश्वसख्यादि                           
+        
 
 अधमाश्वसंख्या                       
 
@@ -259,8 +265,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 आनूपादिपशुमासगुणकथनम्   ..           
 
 **निघण्ट्वध्यायो** **द्वादश**:                    
+    
 
 द्रव्याणां पर्य्यायकथनम्                       
+      
 
 **ऋतुविभागाध्यायः त्रयोदशः                     
 **
@@ -280,8 +288,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 वसन्तपोषणविधिः                           
 
 ग्रीष्मपोषणविधिः                           
+ 
 
 सर्वर्त्तुपोषणविधिः                          
+  
 
 **क्षाराग्निशस्त्र विधानाध्यायः चतुर्दशः             **
 
@@ -320,6 +330,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 **स्वेदविधानाध्यायःअष्टादशः                    **
 
 पुटस्वेदकथनम्                             
+ 
 
 शङ्करस्वेदकथनम्                            
 
@@ -352,14 +363,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 प्रसारणीतैलम्  
 
 **घृतविधानाध्यायः एकविंशः **                     
+ 
 
 पञ्चतिक्तघृतम्                            
 
 करञ्जाद्यंघृतम्         
 
 द्वितीयं पञ्चतिक्त घृतम्                       
+   
 
 **श्रान्तोपचाराध्यायः द्वाविंशः**                   
+         
 
 श्रान्तोपचारकथनम्   
 
@@ -375,6 +389,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 श्रवर्णन्द्रियारिष्टकथनम्
 
 रसनेन्द्रियारिष्टकथनम्                        
+     
 
 **वेधारिष्टाध्यायः चतुर्विशः                     
       **
@@ -391,6 +406,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 कीटनिदानलक्षणे    
 
 तच्चिकित्सा                              
+             
 
 **मृगरोगाध्यायः षडविंशः **
 
@@ -751,10 +767,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 **द्वादशोऽध्यायः**
 
 नस्यकथनम्                               
+      
 
 **त्रयोदशोऽध्यायः**
 
 पिण्डकथनम्                              
+   
 
 **चतुर्दशोऽध्यायः**
 
@@ -763,6 +781,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 **पञ्चदशोऽध्यायः**
 
 क्वाथवर्णनम्                             
+         
 
 **षोडशोऽध्यायः**
 
@@ -774,7 +793,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 
 **अश्ववैद्यकम्।**
 
-![](../../../../../books_images/1674550826.jpg)  
+<MISSING_FIG href="../../../../../books_images/1674550826.jpg"/>  
 **प्रथमोऽध्यायः ।**  
 
 उद्देशः।
@@ -2114,6 +2133,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 शक्तिश्च द्विविधा प्रोक्ता बलदौर्बल्यसम्भवा॥
 
           बलिष्ठो दुर्बलत्वेन दुर्बलोऽपि बलेन वा ॥ १० ॥  
+         
 
 रङ्गभूमिविवरणम्।
 
@@ -8290,7 +8310,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 **———♦———**
 
 **अश्वचिकित्सितम्।**  
-![](../../../../../books_images/1675502611.jpg)
+<MISSING_FIG href="../../../../../books_images/1675502611.jpg"/>
 
 **प्रथमोऽध्यायः।**
 
@@ -10278,7 +10298,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ4NzM1MDUyNTE
 
 **¯¯¯¯¯¯¯¯**
 
-![](../../../../../books_images/1675665466.jpg)  
+<MISSING_FIG href="../../../../../books_images/1675665466.jpg"/>  
 पण्डितकुलपतिः
 
 **श्रीजीवानन्दविद्यासागर वि, ए,**

@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwNjY1OTY2OTk
 
 \[
 
+
+
+
+
 तुरीयातीतोपनिषत् ।
+
+
 
 ॐ तुरीयातीतोपनिषद्वेद्यं यत्परमाक्शरम् ।
 
@@ -111,5 +117,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwNjY1OTY2OTk
 इति तुरीयातीतोपनिषत्समाप्ता ॥
 
 ------------------------------
+
+
+
 
 \]

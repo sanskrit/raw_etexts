@@ -355,7 +355,7 @@ CALCUTTA.**
 |      दङ्गल      |     दंगुलो     |
 
 **रसजलनिधिः।**  
-**![](../../../books_images/U-IMG-1708003972123456.png)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1708003972123456.png"/>**  
 **मङ्गलाचरणम्।**
 
 **यस्यानन्दस्फुरितनयनोत्क्षेपमात्रेण विश्वं  
@@ -1462,7 +1462,7 @@ Saindhaba, trikatu, all the ksharas (alkalis), and mercury are to be rubbed toge
 **तत् पिण्डं तलभाण्डस्थमूर्द्धभाण्डे जलं क्षिपेत्।  
 विद्याधराख्ययन्त्रेण[^116] रसं समुद्धरेद्बुधः॥**
 
-[^116]: "अग्रेयन्त्रनिरूपणाख्यः अध्यायो द्रष्टव्यः।"
+[^116]: # "अग्रेयन्त्रनिरूपणाख्यः अध्यायो द्रष्टव्यः।"
 
   (5) Patanam or sublimation of mercury (*i.e.,* the fifth mercurial operation).
 
@@ -1470,9 +1470,9 @@ Saindhaba, trikatu, all the ksharas (alkalis), and mercury are to be rubbed toge
 
 **First process.**
 
-  Three parts of mercury and one part of copper are to be rubbed with lime juice till the whole thing turns into a lump. This lump is to be kept inside an earthen vessel on which is to be placed another earthen vessel containing water, forming what is called a Vidyadhara Jantram[^116], by means of which the mercury is to be sublimated,
+  Three parts of mercury and one part of copper are to be rubbed with lime juice till the whole thing turns into a lump. This lump is to be kept inside an earthen vessel on which is to be placed another earthen vessel containing water, forming what is called a Vidyadhara Jantram[^29], by means of which the mercury is to be sublimated,
 
-[^116]: "अग्रेयन्त्रनिरूपणाख्यः अध्यायो द्रष्टव्यः।"
+[^29]: "अग्रेयन्त्रनिरूपणाख्यः अध्यायो द्रष्टव्यः।"
 
 —मतान्तरम्—
 
@@ -1541,7 +1541,7 @@ Branaghni and jakshalochanam.
 
   Mercury is to be rubbed with triphala, sigru, chitraka, saindhava, and rajika, and made into a lump which will have to be attached to the internal surface of the upper vessel of a Bhudhara Jantram[^117],placed upside down upon another vessel containing water, a glowing fire made of dried cowdung balls being placed upon the external surface of the upper vessel. The downward sublimation of mercury will have to be effected in this way.
 
-[^117]: "For details see chapter on apparata."
+[^117]: # "For details see chapter on apparata."
 
 —मतान्तरम्—
 
@@ -1550,7 +1550,7 @@ Branaghni and jakshalochanam.
 **नवनीताह्वयं[^118]सूंतं घृष्ट्वाजम्भाम्भसा दिनम्।  
 वानरी शिग्रुशिखिभिः सैन्धवासुरिसंयुतैः॥**
 
-[^118]: "नवनीतार्द्रकमितिरसेन्द्रचिन्तामणिघृतपाठः।"
+[^118]: # "नवनीतार्द्रकमितिरसेन्द्रचिन्तामणिघृतपाठः।"
 
 **नष्टपिष्टं रसं कृत्वा लेपयेदूर्द्ध भाण्डके।  
 ऊर्द्ध भाण्डोदरं लिप्त्वाऽधोभाण्डंजलसंयुतम्॥**
@@ -1585,7 +1585,7 @@ Branaghni and jakshalochanam.
 पुनः पिष्टी प्रकर्त्तव्या दत्त्वाम्लं ताम्रसंयुतम्।  
 ऊर्द्ध्वपातनमेतस्य यन्त्रे डमरुके[^119]भवेत्॥**
 
-[^119]: "विद्याधरयन्त्रम् प्रशस्ततरम्।"
+[^119]: # "विद्याधरयन्त्रम् प्रशस्ततरम्।"
 
 A reverse process of sublimation.  
 First, downward sublimation.
@@ -1596,7 +1596,7 @@ Then, upward sublimation.
 
   Now, mercury and copper are to be carefully separated from each other, and again rubbed together, with lime juice and made into a lump which will besubjected to a process of upward sublimation by means of a Damaru Jantram[^120].
 
-[^120]: "Vidyadhara Jantram is more convenient."
+[^120]: # "Vidyadhara Jantram is more convenient."
 
 **(ग) तिर्य्यकपातनम्।**
 
@@ -1610,7 +1610,7 @@ Then, upward sublimation.
 
   Mica, purified and finely powdered, is to be rubbed, with mercury and kanji in a motar, and made into a lump which is to be placed in a Tirjak Patana Jantram. Heat is to be increased gradually till the whole of the mercury is sublimated through the inclined passage.
 
-  **(६) अथ पारदस्य रोधनम् (निरोधः)[^30](एतदस्य षष्ठः संस्कारः)।**
+  **(६) अथ पारदस्य रोधनम् (निरोधः)[^30] (एतदस्य षष्ठः संस्कारः)।**
 
 [^30]: "कश्चिद् भ्रान्तिवशादेत् बोधनम् कथ्यते।"
 
@@ -2749,7 +2749,7 @@ Parpati-Rasa.
 
   Mercury is to be rubbed with the following drugs and subjected to heat by means of a Baluka Jantram:— bisnucranta, karpura, lata-kasturi, kumbhi, kanaka dhutura, kulika, bisálá, nágadanti, shurana, byaghra-padi, dronapushpi, brischikali, hastishundi, sahà (mudgaparni ), asura, and the urine of a cow which has not yet conceived. After the completion of the heating, \*[^121] the mercury is again to be rubbed with some incinerated metal and again to be heated (by means of a Baluka Jantram).
 
-[^121]: "For test of a perfect heating, see instructions under Baluka Jantram."
+[^121]: # "For test of a perfect heating, see instructions under Baluka Jantram."
 
 **चतुर्द्दशो विधिः ।**
 
@@ -3205,7 +3205,7 @@ cxhaustion of mercury.*
 
 *Another version.*
 
-  Mercury is first of all to swallow the following five morsels of essence of mica :— _(![](../../../books_images/U-IMG-1709234479Screenshot2024-03-01005103.png))and_(![](../../../books_images/U-IMG-1709234545Screenshot2024-03-01005210.png))
+  Mercury is first of all to swallow the following five morsels of essence of mica :— _(<MISSING_FIG href="../../../books_images/U-IMG-1709234479Screenshot2024-03-01005103.png"/>)and_(<MISSING_FIG href="../../../books_images/U-IMG-1709234545Screenshot2024-03-01005210.png"/>)
 of the mercury, which is then to swallow one fourth its weight of gold or silver, as the case may be[^57].
 
 [^57]: "If the mercury is meant to be used for medicinal purposes only, both gold and silver or any one of them may be used at this stage. But if the mercury is meant to be used in the transformation of base metals into gold or silver,. the use of these two metals at this stage, will depend upon whether it is meant to manufacture gold or silver."
@@ -5060,7 +5060,7 @@ lead slightly smelted.
 
 *Saranam (or dyeing by means of an oil) of the mercury referred to above.*
 
-  The mercury, dyed as above, is to be boiled with soot, brick powder, curd, nirgundi, and kanji, and then to be subjected to sublimation. It is then to be made to swallow two morsels (silver or gold), each _(![](../../../books_images/U-IMG-1709305798Screenshot2024-03-01203947.png))_(^((1/64 th)))in weight of the mercury. Four more morsels, each one fortieth in weight of the mercury; six more morsels, each one thirtieth in weight; and eight more morsels, one twentieth in weight each, arealso to be made to be swallowed, by means of heating in the prescribed manner. If the mercury is then capable of passing through a piece of cloth, four folded, the morsels are to be considered swallowed, otherwise, the mercury is not to be made use of for the purpose in view. If it is then again to be subjected to sublimation, and again made to swallow gold or silver, ten morsels are then to be given by means of a Jala-kachchapa Jantram, each one sixteenth in weight of the mercury, combined with bida, one eighth in weight of the same. Twelve morsels, each one twelfth in weight of the mercury, are then to be made to be swallowed by means of a Sthala kachchapa Jantram. Fourteen morsels, each one eighth in weight, are next to be given to the mercury by means of being confined within the tuber of a suitable plant (such as shuranam, bidari, karkoti etc.). The tuber, which in this case, is to confine within itself the mercury, surrounded on all sides with bida, is to be closed carefully, and coated all over with a plaster made of rag, soaked with mud, and dried. It is then to be subjected to heat by means of a Bhudhara Jantram, for three days, leading to the exhaustion of the mercury. Sixteen morsels are next to be given, each one fourth in quantity, by means of a bajra musha (hard crucible), containing bida, and subjected to heat by putam with fire made of cowdung cakes. The mercury is thus to be exhausted with eight times its weight of gold or silver, by means of a Jala Kachchapa Jantram, Sthala Kachchapa Jantram, tuber, and hard crucible, for three days each. The mercury thus prepared, isto be solidified with divya (divine) drugs, and becomes the giver of wished for objects.
+  The mercury, dyed as above, is to be boiled with soot, brick powder, curd, nirgundi, and kanji, and then to be subjected to sublimation. It is then to be made to swallow two morsels (silver or gold), each _(<MISSING_FIG href="../../../books_images/U-IMG-1709305798Screenshot2024-03-01203947.png"/>)_(^((1/64 th)))in weight of the mercury. Four more morsels, each one fortieth in weight of the mercury; six more morsels, each one thirtieth in weight; and eight more morsels, one twentieth in weight each, arealso to be made to be swallowed, by means of heating in the prescribed manner. If the mercury is then capable of passing through a piece of cloth, four folded, the morsels are to be considered swallowed, otherwise, the mercury is not to be made use of for the purpose in view. If it is then again to be subjected to sublimation, and again made to swallow gold or silver, ten morsels are then to be given by means of a Jala-kachchapa Jantram, each one sixteenth in weight of the mercury, combined with bida, one eighth in weight of the same. Twelve morsels, each one twelfth in weight of the mercury, are then to be made to be swallowed by means of a Sthala kachchapa Jantram. Fourteen morsels, each one eighth in weight, are next to be given to the mercury by means of being confined within the tuber of a suitable plant (such as shuranam, bidari, karkoti etc.). The tuber, which in this case, is to confine within itself the mercury, surrounded on all sides with bida, is to be closed carefully, and coated all over with a plaster made of rag, soaked with mud, and dried. It is then to be subjected to heat by means of a Bhudhara Jantram, for three days, leading to the exhaustion of the mercury. Sixteen morsels are next to be given, each one fourth in quantity, by means of a bajra musha (hard crucible), containing bida, and subjected to heat by putam with fire made of cowdung cakes. The mercury is thus to be exhausted with eight times its weight of gold or silver, by means of a Jala Kachchapa Jantram, Sthala Kachchapa Jantram, tuber, and hard crucible, for three days each. The mercury thus prepared, isto be solidified with divya (divine) drugs, and becomes the giver of wished for objects.
 
   If exhausted with only an equal quantity of bijam (gold or silver), it becomes shata-bedhi, (.e. capable of transforming into gold or silver, as the case may be, a hundred times its weight of base metals). If exhausted with double its quantity of bijam, it becomes Sahasrabedhi (capable of transforming into gold a thousand times its weight of base metals). If exhausted with four times its weight of bijam, it becomes Laksha bedhi (i.e., capable of transforming into gold or silver one hundred thousand times its weight of base metals). If exhausted with eight times its weight of gold or silver, it becomes koti bedhi (or capable of transforming ten millions its weight of base metals). If exhausted with sixteen or thirty two-times its weight of metals, the mercury becomes Sparsamani (Philosopher's stone, or something capable of transforming into gold or silver, any metal by mere touch). This process was taught by Shiva himself.
 
@@ -5110,9 +5110,9 @@ The mercury is thus to be dyed twice or thrice by means of the red oil.
 **निवींजं समजीर्णे पादोनं षोड़शांशे तु।  
 अर्द्धेनपादकनकं पादनैकेन तुल्यकनककञ्च॥**[^79]
 
-*Importance of metals in Bedhanam or Alchemy.*
-
 [^79]: "चिह्नितलोकस्य व्याख्या— निर्वीजं स्वर्णरौप्यादिव्यतीतं समजीर्णे समपरिमाणेन पूर्वोक्तेन धातुसमष्टिना सह जीर्णे रसराजे इति शेषः षोड़शांशे लोहे पादोनंत्रिपादंकनकं जायते। तथा अर्द्धेन धातुसमष्टिना सह जीर्णे पादमात्रं कणकं जायते। तथा पादेन पादमात्रेन धातुसमष्टिना जीर्णे रसे तुल्यकनकं कनकतुल्यां मिश्र धातुविशेषः न तु प्रकृतकनकं जायते।"
+
+*Importance of metals in Bedhanam or Alchemy.*
 
   The essence of mica possesses strength, steel possesses the power of exhaustion and colour. Mercury, therefore, if bound with steel, causes the alchemical transformation of lead and tin. Mercury transforms base metals into gold by the help of steel. It is steel which makes mercury swallow other metals. Steel produces gold. Colour is imparted by steel. But steel, like mica, is to be exhausted and incinerated, by being killed with hingula or with swarna makshika, combined with copper. All these metals, previously rubbed with makshika, and thrown upon mercury, causes its internal liquefaction. This mercury, if now rubbed with *btda*, becomes exhausted, and allows itself to be bound (i.e., solidified).
 
@@ -6275,9 +6275,9 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 
 *Putams.*[^106]
 
-** ** The excellence of the preparation of mercury andother things depend upon the prescribed number ofputam. A medicine must not be subjected to agreater or a less number of putam than are actuallynecessary for its efficaciousness.
-
 [^106]: "A putam or samputam is an act of burning a material beingkept inside two basins, joined with each other by means of mud,rag, mixed with mud etc. The apparatus, so constructed, is alsocalled a putam or samputam."
+
+** ** The excellence of the preparation of mercury andother things depend upon the prescribed number ofputam. A medicine must not be subjected to agreater or a less number of putam than are actuallynecessary for its efficaciousness.
 
   By means of putam it is possible to reduce ametal to a state of incineration, from which it cannotbe restored to its former condition. It is putamwhich causes the excellence in the quality of metals,the ability of metals to float in water, the ability ofmetals to enter into the lines in the palms, lightnessof metals, rocks, and other hard substances, thepower of metals etc., to spread through the system ina short time, and the ability of the metals to increase the power of digestion. It is putam which investsmetals with even a greater amount of efficaciousnessthan what is possessed by exhausted mercury.
 
@@ -6372,7 +6372,7 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 
   It is an act of heating a very mild substance, bymeans of a fire made at the top of a samputam orcrucible containing the substance, by husks, orpowdered cowdung, sixteen times in weight of thesubstance cooked.
 
-![](../../../books_images/U-IMG-1708856310399.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1708856310399.jpg"/>
 
 **सप्तमोऽध्यायः।**
 
@@ -6473,9 +6473,9 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 
   The following are called the upabishas :– (semi-poisons) :– langali, bishamushti, karabira, jaya(bhanga), nila, dhatura, and arka.[^108]
 
-**दुग्धवर्गः।**
-
 [^108]: "For some other kinds of poisons and semi-poisons, seepage 91."
+
+**दुग्धवर्गः।**
 
 **हस्त्यश्ववनिता धेनुर्गर्द्दभी छागिकाविका।  
 उष्ट्रिकोदुम्बराश्वत्थभानुन्यग्रोधतिल्वकम्॥**
@@ -7167,7 +7167,7 @@ silver.
 
 ***Augmenting the colour of gold.***
 
-  Essence of mica and an equal quantity of copper are to be smelted together and compounded. An essence is to be extracted in the usual way out ofthis compound. This essence is wonderfully yellow. Twenty five parts of gold, ten sixteenth parts fine, and one part of this essence are to be smelted together, with the result that the whole compound will turn to begold_(![](../../../books_images/U-IMG-1709378954Screenshot2024-03-02165857.png))parts fine. Further addition of every one part of the aforesaid essence will result in the enhancement of the colour of the gold by_(![](../../../books_images/U-IMG-1709378954Screenshot2024-03-02165857.png)) part.
+  Essence of mica and an equal quantity of copper are to be smelted together and compounded. An essence is to be extracted in the usual way out ofthis compound. This essence is wonderfully yellow. Twenty five parts of gold, ten sixteenth parts fine, and one part of this essence are to be smelted together, with the result that the whole compound will turn to begold_(<MISSING_FIG href="../../../books_images/U-IMG-1709378954Screenshot2024-03-02165857.png"/>)parts fine. Further addition of every one part of the aforesaid essence will result in the enhancement of the colour of the gold by_(<MISSING_FIG href="../../../books_images/U-IMG-1709378954Screenshot2024-03-02165857.png"/>) part.
 
 **स्वर्णकरणम्।**
 
@@ -7514,7 +7514,7 @@ Jasada—Zinc.
 
 **K.**
 
-Kanji—A liquid obtained by fermentation of _(![](../../../books_images/U-IMG-1709380770Screenshot2024-03-02172917.png))
+Kanji—A liquid obtained by fermentation of _(<MISSING_FIG href="../../../books_images/U-IMG-1709380770Screenshot2024-03-02172917.png"/>)
 of boiled rice and 16 seers of water (oneseer being equal to 64 tolas or 64 x 126 grains(troy) in weight. The liquid is called aranala, if wheat is used in place of rice[^115].  
 Kanta iron—A variety of iron, see vol. II (in the Press),  
 Karpura moni—White marble. Some people take it for touch stone,  

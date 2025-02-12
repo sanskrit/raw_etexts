@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1MDIwNzQ2NTc
 
 \[
 
+
+
+
+
 वासुदेवोपनिषत् ।
+
+
 
 यत्सर्वहृदयागारं यत्र सर्वं प्रतिष्ठितम् ।
 
@@ -171,5 +177,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1MDIwNzQ2NTc
 इति वासुदेवोपनिषत्समाप्ता ॥
 
 ---------------------------
+
+
+
+
+
+
+
 
 \]

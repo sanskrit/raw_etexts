@@ -12,6 +12,14 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDUzNjMyODI4
 
 \[
 
+
+
+
+
+
+
+
+
 Shankaracharya’s Bhashya on Taittiriya Upanishad
 
 तैत्तिरीयोपनिषद्  
@@ -217,6 +225,19 @@ Shankaracharya’s Bhashya on Taittiriya Upanishad
 अतीतविद्याप्राप्त्युपसर्गशमनार्थं शाÏन्त पठति -  
 शं नो मित्रः शं वरुणः। शं नो भवत्यर्यमा इत्यादि व्याख्यातमेतत्पूर्वम्॥1॥  
 इति शीक्षावल्ल्यां द्वादशोऽनुवाकः॥12॥
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ब्राहृानन्दवल्ली  
 प्रथम अनुवाक  
@@ -613,5 +634,13 @@ Shankaracharya’s Bhashya on Taittiriya Upanishad
 इति भृगुवल्ल्यां दशमोऽनुवाकः ॥10॥  
 Taittiriya Upanishad Ends  
 Shankaracharya’s Commentary on TU ends.
+
+
+
+
+
+
+
+
 
 \]

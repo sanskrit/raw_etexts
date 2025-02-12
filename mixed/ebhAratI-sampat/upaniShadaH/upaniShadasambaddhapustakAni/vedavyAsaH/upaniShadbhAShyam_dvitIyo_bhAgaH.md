@@ -19,15 +19,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 |                                                     |
 |:---------------------------------------------------:|
-| ![](../books_images/U-IMG-17318371821234567890.png) |
+| <MISSING_FIG href="../books_images/U-IMG-17318371821234567890.png"/> |
 
 |                                                |
 |:----------------------------------------------:|
-| ![](../books_images/U-IMG-173183752398520.png) |
+| <MISSING_FIG href="../books_images/U-IMG-173183752398520.png"/> |
 
 |                                                 |
 |:-----------------------------------------------:|
-| ![](../books_images/U-IMG-1730626644859110.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1730626644859110.png"/> |
 |             MUNDAKOPANISHAD BHASHY             |
 |                   MUNDAKA 1                    |
 |                    MUNDAKA 2                    |
@@ -38,17 +38,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 |                    Chapter 2                    |
 |                    Chapter 3                    |
 
-![](../books_images/U-IMG-1731838819321444.png)
+<MISSING_FIG href="../books_images/U-IMG-1731838819321444.png"/>
 
 [TABLE]
 
 |                                                   |
 |:-------------------------------------------------:|
-| ![](../books_images/U-IMG-173183926432144433.png) |
+| <MISSING_FIG href="../books_images/U-IMG-173183926432144433.png"/> |
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../books_images/U-IMG-1731839390321444333.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1731839390321444333.png"/> |
 
 [TABLE]
 
@@ -141,15 +141,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 | तृतीयोऽध्यायः                                                           |   २८५-२९४   |
 | ब्रह्मात्मविद फलप्रदर्शनम्                                              |     २०३     |
 
-![](../books_images/U-IMG-1732795406Untitled.png)
+<MISSING_FIG href="../books_images/U-IMG-1732795406Untitled.png"/>
 
 |                                                |
 |:----------------------------------------------:|
-| ![](../books_images/U-IMG-173184439755555.png) |
+| <MISSING_FIG href="../books_images/U-IMG-173184439755555.png"/> |
 
 [TABLE]
 
-![](../books_images/U-IMG-1731843289654789.png)
+<MISSING_FIG href="../books_images/U-IMG-1731843289654789.png"/>
 
 *Gourishunker Ganeriwula.*
 
@@ -164,7 +164,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 ^(——————)
 
-![](../books_images/U-IMG-1731843472321456321456321463.png)
+<MISSING_FIG href="../books_images/U-IMG-1731843472321456321456321463.png"/>
 
 **ह्मा** देवानाम्' इत्याद्याथर्वणोपनिषत्। अस्याश्च विद्यासप्रदायकर्तृपारम्पर्यलक्षण सबन्धमादावेवाह स्वयमेव स्तुत्यर्थम्—एव हि महद्भिपरमपुरुषार्थसाधनत्वेन गुरुणायासेन लब्धाविद्येति। श्रोतृबुद्धिप्ररोचनाय विद्यामहीकरोति, स्तुत्या प्ररोचिताया हि विद्याया सादरा
 
@@ -245,7 +245,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 इति प्रथममुण्डके प्रथमखण्डभाष्यम्॥
 
-![](../books_images/U-IMG-1731982034Screenshot(91).png)
+<MISSING_FIG href="../books_images/U-IMG-1731982034Screenshot(91"/>.png)
 
 द्वितीय खण्डः॥
 
@@ -361,7 +361,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 भगवत्पूज्यपादशिष्यस्य श्रीमच्छकरभगवत कृतौ  
 **मुण्डकोपनिषद्भाष्ये प्रथम मुण्डक समाप्तम्॥**
 
-![](../books_images/U-IMG-17318403418547854.png)
+<MISSING_FIG href="../books_images/U-IMG-17318403418547854.png"/>
 
 द्वितीय मुण्डकम्॥  
 
@@ -371,7 +371,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 ^(————)
 
-पर![](../books_images/U-IMG-17318404994560123.png)
+पर<MISSING_FIG href="../books_images/U-IMG-17318404994560123.png"/>
 
 **विद्याया सर्वंकार्यमु**क्तम्। स च ससारो यत्सारो यस्मान्मूलादक्षरात्संभवति यस्मिंश्च प्रलीयते, तदक्षरं पुरुषाख्य सत्यम्। यस्मिन्विज्ञाते सर्वमिद विज्ञात भवति, तत्परस्या ब्रह्मविद्याया विषय। स वक्तव्य इत्युत्तरो ग्रन्थ आरभ्यते—
 
@@ -578,12 +578,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 भगवत्पूज्यपादशिष्यस्य श्रीमच्छकरभगवत कृतौ  
 मुण्डकोपनिषद्भाष्ये द्वितीय मुण्डक समाप्तम्॥
 
-![](../books_images/U-IMG-173184110085478548547.png)
+<MISSING_FIG href="../books_images/U-IMG-173184110085478548547.png"/>
 
 तृतीयं मुण्डकम्॥  
 *             *
 
-![](../books_images/U-IMG-173184301532147896.png)
+<MISSING_FIG href="../books_images/U-IMG-173184301532147896.png"/>
 
 **रा विद्योक्ता यया तदक्षर पुरु**षाख्य सत्यमधिगम्यते। यदधिगमे हृदयग्रन्थ्यादिसंसारकारणस्यात्यन्तिको विनाश स्यात्, तद्दर्शनोपायश्च योगो धनुराद्युपादानकल्पनयोक्त। अथेदानीं तत्सहकारीणि सत्यादिसाधनानि वक्तव्यानीति तदर्थ उत्तर ग्रन्थारम्भ। प्राधान्येन तत्त्वनिर्धारण च प्रकारान्तरेण क्रियते। अत्यन्तदुरवगाहत्वात्कृतमपि तत्र सूत्रभूतो मन्त्र परमार्थवस्त्ववधारणार्थमुपन्यस्यते—
 
@@ -672,7 +672,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 **इति तृतीयमुण्डके प्रथमखण्डभाष्यम्॥**
 
-![](../books_images/U-IMG-173184466566666.png)
+<MISSING_FIG href="../books_images/U-IMG-173184466566666.png"/>
 
 द्वितीय खण्ड॥  
 *          *
@@ -773,15 +773,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 भगवत्पूज्यपादशिष्यस्य श्रीमच्छकरभगवत कृतौ  
 **मुण्डकोपनिषद्भाष्य संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1732379692Screenshot(92).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1732379692Screenshot(92"/>.png)**
 
 |                                              |
 |:--------------------------------------------:|
-| ![](../books_images/U-IMG-1732379898102.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1732379898102.png"/> |
 
 [TABLE]
 
-![](../books_images/U-IMG-1732675207Screenshot(97).png)
+<MISSING_FIG href="../books_images/U-IMG-1732675207Screenshot(97"/>.png)
 
 सगौडपादीयकारिका
 
@@ -790,7 +790,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 **श्रीमच्छकरभगवत्पादविरचितेन  
 भाष्येण सहिता॥**
 
-**![](../books_images/U-IMG-1732675235Screenshot(96).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1732675235Screenshot(96"/>.png)**
 
 प्रज्ञानांशुप्रतानै स्थिरचरनिकरव्यापिभिर्व्याप्य लोका  
  भुक्त्वा भोगान्स्थविष्ठान्पुनरपि धिषणोद्भासितान्कामजयान्  
@@ -804,7 +804,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 **आगमप्रकरणम्॥**
 
-**![](../books_images/U-IMG-1732674930Screenshot(95).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1732674930Screenshot(95"/>.png)**
 
 **मित्येतदक्षरमिदं सर्वं त**स्योपव्याख्यानम्। वेदान्तार्थसारसंग्रहभूतमिदं प्रकरणचतुष्टयम् ओमित्येतदक्षरमित्यादि आरभ्यते। अत एव न पृथक् संबन्धाभिधेयप्रयोजनानि वक्तव्यानि। यान्येव तु वेदान्ते संबन्धाभिधेयप्रयोजनानि, तान्येवेहापि भवितुमर्हन्ति, तथापि प्रकरणव्याचिरयासुना संक्षेपतो वक्तव्यानीति मन्यन्ते व्याख्यातार। तत्र प्रयोजनवत्साधनाभिव्यञ्जकत्वेनाभिधेयसंबद्ध शास्त्र पारम्पर्येण विशिष्टसबन्धाभिधेयप्रयोजनवद्भवति। किं पुनस्तत्प्रयोजनमिति, उच्यते—रोगार्तस्येव रोगनिवृत्तौ स्वस्थता, तथा दुःखात्मकस्यात्मनो द्वैतप्रपञ्चोपशमे स्वस्थता, अद्वैतभाव प्रयोजनम्। द्वैतप्रपञ्चस्य चाविद्याकृतत्वाद्विद्यया तदुपशम स्यादिति ब्रह्मविद्याप्रकाशनाय अस्यारम्भ क्रियते। 'यत्र हि द्वैतमिव भवति' 'यत्र वान्यदिव स्यात्तत्रान्योऽन्य-
 
@@ -1049,7 +1049,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 इति प्रथममागमप्रकरण संपूर्णम्॥
 
-![](../books_images/U-IMG-1732547540Screenshot(94).png)
+<MISSING_FIG href="../books_images/U-IMG-1732547540Screenshot(94"/>.png)
 
 **वैतथ्यप्रकरणम्॥**
 
@@ -1259,7 +1259,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 इति द्वितीय वैतथ्यप्रकरण सपूणम्॥
 
-![](../books_images/U-IMG-1732543402162.png)
+<MISSING_FIG href="../books_images/U-IMG-1732543402162.png"/>
 
 **अद्वैतप्रकरणम्॥**  
 
@@ -1551,7 +1551,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 इति तृतीयमद्वैतप्रकरण सपूर्णम्॥
 
-![](../books_images/U-IMG-1732645293196.png)
+<MISSING_FIG href="../books_images/U-IMG-1732645293196.png"/>
 
 अलातशान्तिप्रकरणम्॥  
 *            *
@@ -2121,17 +2121,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 माण्डूक्योपनिषत्कारिकाभाष्य सर्पूणम्॥
 
-![](../books_images/U-IMG-1732768722247.png)
+<MISSING_FIG href="../books_images/U-IMG-1732768722247.png"/>
 
 [TABLE]
 
-![](../books_images/U-IMG-1732627316Screenshot2024-11-26185018.png)
+<MISSING_FIG href="../books_images/U-IMG-1732627316Screenshot2024-11-26185018.png"/>
 
 [TABLE]
 
-![](../books_images/U-IMG-1732627594Screenshot2024-11-26185527.png)
+<MISSING_FIG href="../books_images/U-IMG-1732627594Screenshot2024-11-26185527.png"/>
 
-![](../books_images/U-IMG-1731843289654789.png)
+<MISSING_FIG href="../books_images/U-IMG-1731843289654789.png"/>
 
 **॥ ऐतरेयोपनिषत् ॥**
 
@@ -2139,7 +2139,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 भाष्येण सहिता।
 
-![](../books_images/U-IMG-173184301532147896.png)
+<MISSING_FIG href="../books_images/U-IMG-173184301532147896.png"/>
 
 रिसमाप्त कर्म सहापरब्रह्मविषयविज्ञानेन। सैषा कर्मणो ज्ञानसहितस्य परा गतिरुक्थविज्ञानद्वारेणोपसहता। एतत्सत्य ब्रह्म प्राणाख्यम्। एष एको देव। एतस्यैव प्राणस्य सर्वे देवा विभूतय। एतस्य प्राणस्यात्मभाव गच्छन् दवता अप्येति इत्युक्तम्। सोऽयं देवताप्ययलक्षण पर पुरुषार्थ। एष मोक्ष। स चाय यथो
 
@@ -2285,7 +2285,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 भगवत्पूज्यपादशिष्यस्य श्रीमच्छकरभगवतकृतौ  
 **ऐतरेयोपनिषद्भाष्ये प्रथमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1732720340Screenshot2024-11-27204126.png)
+<MISSING_FIG href="../books_images/U-IMG-1732720340Screenshot2024-11-27204126.png"/>
 
 द्वितीयोऽध्यायः॥
 
@@ -2351,7 +2351,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 **--------------------------**
 
-![](../books_images/U-IMG-1732557669Screenshot2024-11-25233036.png)
+<MISSING_FIG href="../books_images/U-IMG-1732557669Screenshot2024-11-25233036.png"/>
 
 तृतीयोऽध्यायः॥
 
@@ -2547,7 +2547,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIyNjI1Mjg3MTc
 
 |                                                                     |
 |---------------------------------------------------------------------|
-| ![](../books_images/U-IMG-1732554420Screenshot2024-11-25223159.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1732554420Screenshot2024-11-25223159.png"/> |
 
 ॥ श्रीः ॥
 

@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1NDE0ODE3MTU
 
 \[
 
+
+
+
+
 स्कन्दोपनिषत् ।
+
+
 
 यत्रासंभवतां याति स्वातिरिक्तभिदाततिः । ।
 
@@ -101,5 +107,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1NDE0ODE3MTU
 ॥ इति कृष्णयजुर्वेदीय स्कन्दोपनिषत्समाप्ता ॥
 
 ---------------------------
+
+
+
+
+
+
+
 
 \]

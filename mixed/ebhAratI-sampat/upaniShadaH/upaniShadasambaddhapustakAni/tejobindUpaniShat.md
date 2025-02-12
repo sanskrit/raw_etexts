@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA5MzUzODg2
 
 \[
 
+
+
 तेजोबिन्दूपनिषत् ।
+
+
 
 यत्र चिन्मात्रकलना यात्यपह्नवमञ्जसा ।
 
@@ -228,7 +232,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA5MzUzODg2
 
 ------------------------------
 
+
+
 द्वितीयोऽध्यायः।
+
+
 
 अथ ह कुमारः शिवं पप्रच्च्हाऽखण्डैकरस
 
@@ -408,7 +416,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA5MzUzODg2
 
 ---------------------------------
 
+
+
+
+
+
+
 तृतीयोध्यायः ।
+
+
 
 कुमारः पितरमात्मानुभवमनुब्रूहीति पप्रच्च्ह ।
 
@@ -716,7 +732,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA5MzUzODg2
 
 इति तृतीयोध्यायः ॥ ३॥
 
+
+
 चतुर्थोऽध्यायः ।
+
+
 
 कुमारः परमेश्वरं पप्रच्च्ह जीवन्मुक्तविदेहमुक्तयोः
 
@@ -1050,7 +1070,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA5MzUzODg2
 
 -------------------------------
 
+
+
 पञ्चमोऽध्यायः।
+
+
 
 निदाघो नाम वै मुनिः पप्रच्च्ह ऋभुं
 
@@ -1502,7 +1526,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjA5MzUzODg2
 
 इति पञ्चमोऽध्यायः ॥ ५॥
 
+
+
+
+
 ऋभुः ॥
+
+
 
 सर्वं सच्चिन्मयं विद्धि सर्वं सच्चिन्मयं ततम् ।
 
@@ -1973,5 +2003,7 @@ c
 इति तेजोबिन्दूपनिषत्समाप्ता ॥
 
 ---------------------------
+
+
 
 \]

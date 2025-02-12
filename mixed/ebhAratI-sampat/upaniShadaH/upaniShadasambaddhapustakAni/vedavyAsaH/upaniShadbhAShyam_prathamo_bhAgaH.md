@@ -15,9 +15,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgzMTQwMDk3OTc
 
 \[
 
-![](../books_images/U-IMG-173554854100003-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-173554854100003-removebg-preview.png"/>
 
-![](../books_images/U-IMG-173554813800001-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-173554813800001-removebg-preview.png"/>
 
 **THE WORK OF**  
 **SRI SANKARACHARYA**
@@ -37,13 +37,13 @@ SRIRANGAM
 
 [TABLE]
 
-![](../books_images/U-IMG-1734012255Screenshot2024-12-12193330.png)
+<MISSING_FIG href="../books_images/U-IMG-1734012255Screenshot2024-12-12193330.png"/>
 
 **॥विषया॥**
 
 [TABLE]
 
-![](../books_images/U-IMG-1734012460Screenshot2024-12-12193722.png)
+<MISSING_FIG href="../books_images/U-IMG-1734012460Screenshot2024-12-12193722.png"/>
 
 [TABLE]
 
@@ -53,7 +53,7 @@ SRIRANGAM
 
 **॥विषयानुक्रमणिका॥**
 
-**![](../books_images/U-IMG-1734012573Screenshot2024-12-12193921.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734012573Screenshot2024-12-12193921.png"/>**
 
 |                                                                                       |
 |:-------------------------------------------------------------------------------------:|
@@ -193,13 +193,13 @@ SRIRANGAM
 
 |                                                                          |
 |:------------------------------------------------------------------------:|
-| ![](../books_images/U-IMG-1734416960Raja_Ravi_Varma_-_Sankaracharya.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1734416960Raja_Ravi_Varma_-_Sankaracharya.png"/> |
 
 ॥ श्रीमच्छकरभगवत्पूज्यपादाः ॥
 
  श्रीवाणीविलासमुद्रायन्त्रालय मुद्रितमिदम्।
 
-![](../books_images/U-IMG-1734064532Screenshot2024-12-13100517.png)
+<MISSING_FIG href="../books_images/U-IMG-1734064532Screenshot2024-12-13100517.png"/>
 
 **॥ईशावास्योपनिषत्॥**
 
@@ -207,7 +207,7 @@ SRIRANGAM
 
 **भाष्येण सहिता।**
 
-![](../books_images/U-IMG-1734064566Screenshot2024-12-13100506.png)
+<MISSING_FIG href="../books_images/U-IMG-1734064566Screenshot2024-12-13100506.png"/>
 
  **'ईशा वास्यम्'** इत्यादयो मन्त्रा कर्मस्वविनियुक्ता, तेषामकर्मशेषस्यात्मनो याथात्म्यप्रकाशकत्वात्। याथात्म्य चात्मन शुद्धत्वापापविद्धत्वैकत्वनित्यत्वाशरीरत्वसर्वगतत्वादि वक्ष्यमाणम्। तच्च कर्मणा विरुध्यत इति युक्त एवैषा कर्मस्वविनियोग। न ह्येवलक्षणमात्मनो याथात्म्यम् उत्पाद्य विकार्यम् आप्य सस्कार्यंवा कर्तृभोक्तृरूप वा, येन कर्मशेषता स्यात्, सर्वासामुपनिषदामात्मयाथात्म्यनिरूपणेनैवोपक्षयात्, गीताना मोक्षधर्माणा चैव-
 
@@ -403,7 +403,7 @@ SRIRANGAM
 ईशावास्योपनिषद्भाष्यम्  
 **सपूर्णम्॥**
 
-![](../books_images/U-IMG-1735094991Screenshot2024-12-25081806.png)
+<MISSING_FIG href="../books_images/U-IMG-1735094991Screenshot2024-12-25081806.png"/>
 
 [TABLE]
 
@@ -411,13 +411,13 @@ SRIRANGAM
 
 [TABLE]
 
-![](../books_images/U-IMG-1734962874Screenshot2024-12-11185502.png)
+<MISSING_FIG href="../books_images/U-IMG-1734962874Screenshot2024-12-11185502.png"/>
 
 ॥केनोपनिषत्॥
 
 **श्रीमच्छंकरभगवत्पादविरचितेन  
 पदभाष्येण सहिता।  
-![](../books_images/U-IMG-1734962801Screenshot2024-12-23193614.png)**
+<MISSING_FIG href="../books_images/U-IMG-1734962801Screenshot2024-12-23193614.png"/>**
 
  ‘केनेषितम्’ इत्याद्योपनिषत्परब्रह्मविषया वक्तव्येति नवमस्याध्यायस्यारम्भः। प्रागेतस्मात्कर्माण्यशेषतः परिसमापितानि, समस्तकर्माश्रयभूतस्य च प्राणस्योपासनान्युक्तानि, कर्माङ्गसामविषयाणि च। अनन्तरं च गायत्रसामविषयं दर्शनं वंशान्तमुक्तं कार्यम्। सर्वमेतद्यथोक्तं कर्म च ज्ञानं च सम्य-
 
@@ -520,10 +520,10 @@ SRIRANGAM
 
 इति प्रथम खण्डः॥  
 
-![](../books_images/U-IMG-1734972467Screenshot2024-12-13212127.png)
+<MISSING_FIG href="../books_images/U-IMG-1734972467Screenshot2024-12-13212127.png"/>
 
 द्वितीयः खण्डः॥  
-![](../books_images/U-IMG-1734972578Screenshot2024-12-13203751.png)
+<MISSING_FIG href="../books_images/U-IMG-1734972578Screenshot2024-12-13203751.png"/>
 
  **यदि मन्यसे सुवेदेति दभ्रमेवापि नूनं त्वं वेत्थ ब्रह्मणो रूपं यदस्य त्वं यदस्यदेवेष्वथ नु मीमांस्यमेव ते मन्ये विदितम्॥१॥**
 
@@ -580,7 +580,7 @@ SRIRANGAM
 
 इति द्वितीयः खण्डः॥
 
-![](../books_images/U-IMG-1735276871Screenshot2024-12-27105024.png)
+<MISSING_FIG href="../books_images/U-IMG-1735276871Screenshot2024-12-27105024.png"/>
 
 **तृतीयः खण्ड॥**  
 
@@ -638,11 +638,11 @@ SRIRANGAM
 
 इति तृतीय खण्ड॥
 
-![](../books_images/U-IMG-1735291666Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735291666Capture.PNG"/>
 
 चतुर्थः खण्डः॥
 
-![](../books_images/U-IMG-1735279577Screenshot2024-12-13203751.png)
+<MISSING_FIG href="../books_images/U-IMG-1735279577Screenshot2024-12-13203751.png"/>
 
  ब्रह्मेति होवाच ब्रह्मणो वा एतद्विजये महीयध्वमिति ततो हैव विदांचकार ब्रह्मेति॥१॥
 
@@ -703,7 +703,7 @@ SRIRANGAM
 केनोपनिषत्पद्भाष्यम्  
 संपूर्णम्॥
 
-![](../books_images/U-IMG-1735280597Screenshot2024-12-27115258.png)
+<MISSING_FIG href="../books_images/U-IMG-1735280597Screenshot2024-12-27115258.png"/>
 
 [TABLE]
 
@@ -711,14 +711,14 @@ SRIRANGAM
 
 [TABLE]
 
-![](../books_images/U-IMG-1733923591Screenshot2024-12-11185508.png)
+<MISSING_FIG href="../books_images/U-IMG-1733923591Screenshot2024-12-11185508.png"/>
 
 ॥केनोपनिषत्॥
 
 **श्रीमच्छकरभगवत्पादविरचितेन  
 वाक्यभाष्येण सहिता।**
 
-**![](../books_images/U-IMG-1733923672Screenshot2024-12-11185732.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1733923672Screenshot2024-12-11185732.png"/>**
 
  समाप्तंकर्मात्मभूतप्राणविषयं विज्ञानं कर्म चानेकप्रकारम्, ययोर्विकल्पसमुच्चयानुष्ठानाद्दक्षिणोत्तराभ्यां सृतिभ्यामावृत्त्यनावृत्ती भवतः। अत ऊर्ध्वं फलनिरपेक्षज्ञानकर्मसमुच्चयानुष्ठानात्कृतात्मसंस्कारस्य उच्छिन्नात्मज्ञानप्रतिबन्धकस्य द्वैतविषयदोषदर्शिन निर्ज्ञाताशेषबाह्यविषयत्वात् संसारबीजमज्ञानमुच्चिच्छित्सतः प्रत्यगात्मविषयजिज्ञासोः ‘केनेषितम्’ इत्यात्मस्वरूपत
 
@@ -808,11 +808,11 @@ SRIRANGAM
 
 **इति प्रथम खण्ड॥**
 
-![](../books_images/U-IMG-1733925303Screenshot2024-12-11192436.png)
+<MISSING_FIG href="../books_images/U-IMG-1733925303Screenshot2024-12-11192436.png"/>
 
 द्वितीय खण्ड॥
 
-![](../books_images/U-IMG-1734102489Screenshot2024-12-13203751.png)
+<MISSING_FIG href="../books_images/U-IMG-1734102489Screenshot2024-12-13203751.png"/>
 
  **यदि मन्यसे सुवेदेति दभ्रमेवापि नूनत्वं वेत्थ ब्रह्मणो रूपं यदख्यत्वं यदस्य देवेष्वथ नु मीमांस्यमेव ते मन्ये विदिनम्॥१॥**
 
@@ -861,7 +861,7 @@ SRIRANGAM
 
 **इति द्वितीय खण्ड॥**
 
-**![](../books_images/U-IMG-1734105110Screenshot2024-12-13212130.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734105110Screenshot2024-12-13212130.png"/>**
 
 **तृतीय खण्डः॥**  
 
@@ -918,7 +918,7 @@ SRIRANGAM
 **इति तृतीय खण्ड॥**
 
 चतुर्थःखण्डः॥  
-![](../books_images/U-IMG-1734185934Screenshot2024-12-13203751.png)
+<MISSING_FIG href="../books_images/U-IMG-1734185934Screenshot2024-12-13203751.png"/>
 
  ब्रह्मेति होवाच ब्रह्मणो वा एतद्विजये महीयध्वमिति ततो हैव विदांचकार ब्रह्मेति॥१॥
 
@@ -978,7 +978,7 @@ SRIRANGAM
 **श्रीमच्छंकरभगवत्पादविरचितेन  
 भाष्येण सहिता।**
 
-![](../books_images/U-IMG-1734701022Screenshot2024-12-20185317.png)
+<MISSING_FIG href="../books_images/U-IMG-1734701022Screenshot2024-12-20185317.png"/>
 
 ॐ नमो भगवते वैवस्वताय मृत्यवे ब्रह्मविद्याचार्याय, नचिकेतसे च।
 
@@ -1420,7 +1420,7 @@ SRIRANGAM
 
 इति द्वितीयवल्लीभाष्यम्॥
 
-![](../books_images/U-IMG-1734794176Screenshot2024-12-21204550.png)
+<MISSING_FIG href="../books_images/U-IMG-1734794176Screenshot2024-12-21204550.png"/>
 
 **तृतीया वल्ली॥**  
 
@@ -1585,7 +1585,7 @@ SRIRANGAM
 काठकोपनिषद्भाष्ये  
 प्रथमोऽध्याय॥
 
-![](../books_images/U-IMG-1733984037Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1733984037Capture.PNG"/>
 
 [TABLE]
 
@@ -1722,7 +1722,7 @@ SRIRANGAM
 
 इति चतुर्थवल्लीभाष्यम्॥
 
-![](../books_images/U-IMG-1733988457Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1733988457Capture.PNG"/>
 
 पञ्चमी वल्ली।
 
@@ -1850,7 +1850,7 @@ SRIRANGAM
 
 इति पञ्चमवल्लीभाष्यम्॥
 
-![](../books_images/U-IMG-1734058896Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734058896Capture.PNG"/>
 
 षष्ठी वल्ली।
 
@@ -2022,7 +2022,7 @@ SRIRANGAM
 काठकोपनिषद्भाष्यम्  
 सपूर्णम्॥
 
-![](../books_images/U-IMG-1734069216Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734069216Capture.PNG"/>
 
 [TABLE]
 
@@ -2030,7 +2030,7 @@ SRIRANGAM
 
 [TABLE]
 
-![](../books_images/U-IMG-1734414416image-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1734414416image-removebg-preview.png"/>
 
 **॥ प्रश्नोपनिषत् ॥**
 
@@ -2040,7 +2040,7 @@ SRIRANGAM
 **———¤———**
 
 **
-![](../books_images/U-IMG-1734414551image-removebg-preview.png)मन्त्रोक्तस्यार्थस्य** विस्तरानुवादीदब्राह्मणमारभ्यते। ऋषिप्रश्नप्रतिवचनारनायिका तु विद्यास्तुतये। एव सवत्सरब्रह्मचर्यसवासादितपोयुक्तैर्ग्राह्या,पिप्पलादवत्सवज्ञक्ल्पैराचार्यैवक्तव्या च, न येन कनचिदिति विद्या स्तौति। ब्रह्मचर्यादिसाधनसूचनाच्चतत्कर्तव्यता स्यात्**—**
+<MISSING_FIG href="../books_images/U-IMG-1734414551image-removebg-preview.png"/>मन्त्रोक्तस्यार्थस्य** विस्तरानुवादीदब्राह्मणमारभ्यते। ऋषिप्रश्नप्रतिवचनारनायिका तु विद्यास्तुतये। एव सवत्सरब्रह्मचर्यसवासादितपोयुक्तैर्ग्राह्या,पिप्पलादवत्सवज्ञक्ल्पैराचार्यैवक्तव्या च, न येन कनचिदिति विद्या स्तौति। ब्रह्मचर्यादिसाधनसूचनाच्चतत्कर्तव्यता स्यात्**—**
 
  **सुकेशा च भारद्वाजः शैब्यश्च सत्यकामः सौर्यायणी च गार्ग्यःकौसल्यश्चाश्वलायनो भार्गवो वैदर्भिः कबन्धी कात्यायनस्ते हैते ब्रह्मपरा ब्रह्मनिष्ठा. पर ब्रह्मान्वेषमाणा एष ह वै तत्सर्व वक्ष्यतीति ते ह समित्पाणयो भगवन्त पिप्पलादमुपसन्ना॥१॥**
 
@@ -2131,7 +2131,7 @@ SRIRANGAM
 
 इति प्रथमप्रश्नभाष्यम्॥
 
-![](../books_images/U-IMG-1734414627image-removebg-preview-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1734414627image-removebg-preview-removebg-preview.png"/>
 
 द्वितीय प्रश्न॥  
 ————
@@ -2508,7 +2508,7 @@ SRIRANGAM
 त्पूज्यपादशिष्यस्य श्रीमच्छकरभगवत कृतौ  
 प्रश्नोपनिषद्भाष्य सपूर्णम्॥
 
-![](../books_images/U-IMG-1734432901000005-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1734432901000005-removebg-preview.png"/>
 
 [TABLE]
 
@@ -2804,6 +2804,6 @@ SRIRANGAM
 | हिरण्मयेन पात्रेण       |
 | हृदि ह्येष आत्मा        |
 
-![](../books_images/U-IMG-1734521202000007-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1734521202000007-removebg-preview.png"/>
 
 \]

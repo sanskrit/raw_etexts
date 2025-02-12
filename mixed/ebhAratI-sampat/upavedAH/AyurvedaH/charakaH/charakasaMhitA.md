@@ -25,52 +25,52 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 **अर्धांगी शिवकी मूर्ति**
 
-![](../../../../../../../books_images/U-IMG-1708415370Screenshot_20240220_011600.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1708415370Screenshot_20240220_011600.png"/>
 
 **धन्वंतरी वैद्यराजकी मूर्ति**  
-![](../../../../../../../books_images/U-IMG-1708419144Screenshot_20240220_022154.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1708419144Screenshot_20240220_022154.png"/>
 
-![](../../../../../../../books_images/U-IMG-1708419261Screenshot_20240220_022356.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1708419261Screenshot_20240220_022356.png"/>
 
-![](../../../../../../../books_images/U-IMG-1708419815Screenshot_20240220_023317.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1708419815Screenshot_20240220_023317.png"/>
 
-![](../../../../../../../books_images/U-IMG-1708419903Screenshot_20240220_023438.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1708419903Screenshot_20240220_023438.png"/>
 
-![](../../../../../../../books_images/U-IMG-1708419988Screenshot_20240220_023612.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1708419988Screenshot_20240220_023612.png"/>
 
-![](../../../../../../../books_images/U-IMG-1698487483ayu3.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1698487483ayu3.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1708420078Screenshot_20240220_023741.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1708420078Screenshot_20240220_023741.png"/>
 
-![](../../../../../../../books_images/U-IMG-1700220122Screenshot2023-11-17165029.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1700220122Screenshot2023-11-17165029.png"/>
 
-![](../../../../../../../books_images/U-IMG-1708420158Screenshot_20240220_023901.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1708420158Screenshot_20240220_023901.png"/>
 
-![](../../../../../../../books_images/U-IMG-1700220492Screenshot2023-11-17165638.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1700220492Screenshot2023-11-17165638.png"/>
 
-![](../../../../../../../books_images/U-IMG-1701167502Screenshot2023-11-28155346.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1701167502Screenshot2023-11-28155346.png"/>
 
-![](../../../../../../../books_images/U-IMG-1701167650Screenshot2023-11-28155428.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1701167650Screenshot2023-11-28155428.png"/>
 
-![](../../../../../../../books_images/U-IMG-1701167774Screenshot2023-11-28155450.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1701167774Screenshot2023-11-28155450.png"/>
 
-![](../../../../../../../books_images/U-IMG-1701167915Screenshot2023-11-28155537.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1701167915Screenshot2023-11-28155537.png"/>
 
-![](../../../../../../../books_images/U-IMG-1701168288Screenshot2023-11-28155600.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1701168288Screenshot2023-11-28155600.png"/>
 
-![](../../../../../../../books_images/U-IMG-1708420576Screenshot_20240220_024558.png)
-
-[TABLE]
-
-![](../../../../../../../books_images/U-IMG-1701170108Screenshot2023-11-28155751.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1708420576Screenshot_20240220_024558.png"/>
 
 [TABLE]
 
-![](../../../../../../../books_images/U-IMG-1701170346Screenshot2023-11-28155830.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1701170108Screenshot2023-11-28155751.png"/>
 
-![](../../../../../../../books_images/U-IMG-1701170854Screenshot2023-11-28155843.png)
+[TABLE]
 
-![](../../../../../../../books_images/U-IMG-1701171055Screenshot2023-11-28155901.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1701170346Screenshot2023-11-28155830.png"/>
+
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1701170854Screenshot2023-11-28155843.png"/>
+
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1701171055Screenshot2023-11-28155901.png"/>
 
 [TABLE]
 
@@ -78,7 +78,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 **भुमिका।**
 
-![](../../../../../../../books_images/U-IMG-1698318283Screenshot2023-10-26163400.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1698318283Screenshot2023-10-26163400.png"/>
 
 **आयुर्वेदोपदेशेषु विधेयः परमादरः।**
 
@@ -209,6 +209,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 | दीपनीयगणके दश द्रव्य                           | शूलनाशकदश द्रव्य                       |
 | वलकारक दश द्रव्य                              | रक्तस्‍थापक दश द्रव्य                    |
 | वर्णशोधकदश द्रव्य                             | पीढानाशक दश द्रव्य                     |
+
+ 
 
 |                                       |                                                     |
 |---------------------------------------|-----------------------------------------------------|
@@ -1026,7 +1028,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 **अथ चरकसंहिता।**
 
 **भाषाटीकासहिता।**  
-![](../../../../../../../books_images/U-IMG-1699430683Screenshot2023-11-08133336.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1699430683Screenshot2023-11-08133336.png"/>
 
 **प्रथम अध्याय१**  
 मंगलाचरण।
@@ -1457,11 +1459,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 **इति श्रीमहर्षिचरकप्रणीतायुर्वेदीयसहिताया पटियालाराज्यांतर्गतटकसालनिवासिवैद्यपंचानन प० रामप्रसादवैद्योपाध्यायविरचितप्रसादन्याख्यभाषाटीकाया  
 दीर्घजीवितीयो नाम प्रथमोध्यायः॥१॥**
 
-![](../../../../../../../books_images/U-IMG-1698478522Screenshot2023-10-28130404.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1698478522Screenshot2023-10-28130404.png"/>
 
 **द्वितीयोऽध्यायः।**
 
-![](../../../../../../../books_images/U-IMG-1698478804Screenshot2023-10-28130923.png)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1698478804Screenshot2023-10-28130923.png"/>  
 **प्रतिज्ञावर्णन।**
 
 **  अथातोऽपामार्गतण्डुलीयमध्यायं व्याख्यास्याम इतिह स्माहभगवानात्रेयः।**
@@ -1600,7 +1602,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 **इति श्रीमहर्षिचरकप्रणीतायुर्वेदसहिताया पटियालाराज्यान्तर्गतटकसालनिवासिधैद्यपञ्चानन प०रामप्रसादवैद्योपाध्यायकृतप्रसादन्याख्यटीकायामपामार्गतण्डुलीयो  
 नाम द्वितीयोभ्यायः॥२॥**
 
-![](../../../../../../../books_images/U-IMG-1698562727Screenshot2023-10-29122748.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1698562727Screenshot2023-10-29122748.png"/>
 
 **तृतीयोऽध्यायः।**
 
@@ -1731,11 +1733,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 पं० रामप्रसादवैद्योपाध्यायकृतप्रसादन्याख्यभाषाटीकायामारग्वधीयो  
 नाम तृतीयोध्यायः॥ ३॥**
 
-**![](../../../../../../../books_images/U-IMG-1698668467Screenshot2023-10-29122748.png)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1698668467Screenshot2023-10-29122748.png"/>**
 
 **चतुर्थोऽध्यायः।**
 
-**![](../../../../../../../books_images/U-IMG-1698669708Screenshot2023-10-30181106.png)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1698669708Screenshot2023-10-30181106.png"/>**
 
 **अथातःषड्विरेचनशताश्रितीयमध्यायं व्याख्यास्याम इति हस्माह भगवानात्रेयः।**  
   अब हम षड्विरेचनशताश्रितीय अध्यायका कथन करेगे ऐसा भगवान् आत्रेय कहनेलगे।
@@ -2223,10 +2225,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 **इति श्रीचरकप्रणीतायुर्वेदीयसंहिताया पटियालाराज्यातर्गतटकसालनिवासिवैद्यपञ्चानन प० रामप्रसादवैद्योपाध्यायविरचितप्रसादन्याख्यभाषाटीकायां  
 षड्विरेचनशताश्रितीयो नाम चतुर्थोऽध्यायः॥ ४ ॥**
 
-![](../../../../../../../books_images/U-IMG-1698912870Screenshot2023-10-29122748.png)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1698912870Screenshot2023-10-29122748.png"/>  
 **अथ पञ्चमोऽध्यायः।**
 
-**![](../../../../../../../books_images/U-IMG-1698912937Screenshot2023-10-28130923.png)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1698912937Screenshot2023-10-28130923.png"/>**
 
 ** अथातोमात्राश्रितीयमध्यायंव्याख्यास्यामः। इतिहस्माहभगवानात्रेयः।**
 
@@ -2554,9 +2556,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 **इति श्रीमहर्षिचरकप्रणीतायुर्वेदीयसंहिताया पटियालाराज्यातर्वर्तिटकसालनिवासिवैद्यपञ्चानन प०रामप्रसादवैद्योपाध्यायविरचितप्रसादन्याख्यभाषाटीकाया मात्राश्रितीयो नाम पचमोऽध्यायः॥ ५ ॥**
 
-**![](../../../../../../../books_images/U-IMG-1705575438241801-removebg-preview.png)**  
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705575438241801-removebg-preview.png"/>**  
 **षष्ठोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-1705575463241802-removebg-preview.png)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705575463241802-removebg-preview.png"/>**
 
 ** अथातःतस्याशितीयमध्यायंव्याख्यास्यामः। इतिहस्माह भगवानात्रेयः॥**
 
@@ -2694,10 +2696,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 **इति श्रीमहर्षिचरकप्रणीतायुर्वेदसहिताया पटियालाराज्यान्तर्गतटकसालनिवासिवैद्यपञ्चानन प०रामप्रसादकृतप्रसादन्याख्यभाषाटीकाया तस्याशितीयो नाम षष्ठोध्यायः॥ ६ ॥**
 
-![](../../../../../../../books_images/U-IMG-1705596754241803-removebg-preview.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705596754241803-removebg-preview.png"/>
 
 **सप्तमोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-1705596863241804-removebg-preview.png)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705596863241804-removebg-preview.png"/>**
 
 ** अथातो न वेगान्धारणीयमध्यायंव्याख्यास्यामः। इति हस्माहभगवानात्रेयः।**
 
@@ -2951,10 +2953,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 **इति श्रीमहर्षिचरकप्रणीतायुर्वेदीयसहितायां पटियालाराज्यांतर्गतटकसालग्रामनिवासिवैद्यपंचानन पं०रामप्रसादवैद्योपाध्यायविरचितप्रसादन्याख्यभाषाटीकायां नवेगान्धारणीयों नाम सप्तमोध्यायः॥ ७ ॥**
 
-![](../../../../../../../books_images/U-IMG-1705643859241803-removebg-preview.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705643859241803-removebg-preview.png"/>
 
 **अष्टमोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-1705650782011901-removebg-preview.png)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705650782011901-removebg-preview.png"/>**
 
 ** अथातइन्द्रियोपक्रमणीयमध्यायं व्याख्यास्याम इतिहस्माह भगवानात्रेयः।**
 
@@ -3100,10 +3102,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 **इति श्रीमहर्षिचरकप्रणीतायुर्वेदीयसहिताया पटियालाराज्यान्तर्गतटकसालनिवासिवैद्यपञ्चानन  
 प० रामप्रसादवैद्योपाध्यायविरचितप्रसादन्याख्यभाषाटीकायामिंद्रियोपक्रमणीयो नामाष्टमोऽध्याय॥ ८ ॥**  
-![](../../../../../../../books_images/U-IMG-1705657033241803-removebg-preview.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705657033241803-removebg-preview.png"/>
 
 **नवमोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-1705657059241804-removebg-preview.png)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705657059241804-removebg-preview.png"/>**
 
 ** अथातःखुड्डाकचतुष्पादमध्यायंव्याख्यास्यामः। इतिहस्माहभगवानात्रेयः॥**
 
@@ -3270,10 +3272,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 प० रामप्रसादवैद्योपाध्यायविरचितप्रसादन्याख्यभाषाटीकायां  
 मात्राश्रितीयो नाम नवमोऽध्यायः॥ ९ ॥
 
-![](../../../../../../../books_images/U-IMG-1705663956241803-removebg-preview.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705663956241803-removebg-preview.png"/>
 
 **दशमोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-1705664044241802-removebg-preview.png)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705664044241802-removebg-preview.png"/>**
 
 ** अथातोमहाचतुष्पादमध्यायंव्याख्यास्यामः। इतिहस्माह भगवानात्रेयः॥**
 
@@ -3378,7 +3380,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 **पं० रामप्रसादवैद्योपाध्यायविरचितप्रसादन्याख्यभाषाटीकाया  
 महाचतुष्पादो नाम दशमोऽध्यायः॥ १० ॥**
 
-**![](../../../../../../../books_images/U-IMG-1705673701241803-removebg-preview.png)  
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705673701241803-removebg-preview.png"/>  
 एकादशोऽध्यायः।**
 
 ** अथातस्तिस्त्रैषणीयमध्यायंव्याख्यास्याम इतिहस्माहभगवानात्रेयः।**
@@ -3742,10 +3744,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 **इति श्रीमहर्षिचरकप्रणीतायुर्वेदीयतहितायां पटियालाराज्यांतर्गतटकसालनिवासिवैद्यपचानन  
 प० रामप्रसादवैद्योपाध्यायविरचितप्रसादन्याख्यभाणटीकायां  
 तिनैपणीयो नामैकादशोऽध्याय॥ ११ ॥**  
-![](../../../../../../../books_images/U-IMG-1705686442241803-removebg-preview.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705686442241803-removebg-preview.png"/>
 
 **द्वादशोऽध्यायः।  
-![](../../../../../../../books_images/U-IMG-1705734232241802-removebg-preview.png)**
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705734232241802-removebg-preview.png"/>**
 
 ** अथातोवातकलाकलीयमध्यायंव्याख्यास्याम इतिहस्माहभगवानात्रेयः।**
 
@@ -3878,7 +3880,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **त्रयोदशोऽध्यायः।  
-![](../../../../../../../books_images/U-IMG-1705494783image16.jpg)**
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705494783image16.jpg"/>**
 
 **अयातःस्नेहाध्यायं व्याख्यास्याम इतिहस्माह भगवानात्रेयः॥**
 
@@ -4189,7 +4191,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 **\_\_\_\_\_\_\_\_\_\_**
 
 **चतुर्दशोऽध्यायः।  
-![](../../../../../../../books_images/U-IMG-1705500473image10.jpg)**
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705500473image10.jpg"/>**
 
 **अथातःस्वेदाध्यायं व्याख्यास्यामः।**
 
@@ -4605,7 +4607,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 **————————  
 षोडशोऽध्यायः।  
-![](../../../../../../../books_images/U-IMG-1698758222Screenshot(99).png)**
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1698758222Screenshot(99"/>.png)**
 
 **अथातश्चिकित्साप्राभृतीयमध्यायंव्याख्यास्याम इति हस्माहभगवानात्रेयः।**
 
@@ -4729,7 +4731,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 **———————————**
 
 **सप्तदशोऽध्यायः।  
-![](../../../../../../../books_images/U-IMG-1705681452image4.jpg)**
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705681452image4.jpg"/>**
 
 **अथातःकियन्तःशिरसीयमध्यायंव्याख्यास्याम इतिहस्माहभगवानात्रेयः।**
 
@@ -5127,7 +5129,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 **————————**
 
 **अष्टादशोऽध्यायः।  
-![](../../../../../../../books_images/U-IMG-1699069672Screenshot(101).png)**
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1699069672Screenshot(101"/>.png)**
 
 **अथातस्त्रिशोफीयमध्यायंव्याख्यास्यामइतिहस्माहभगवानात्रेयः।**
 
@@ -5376,7 +5378,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **एकोनविंशोऽध्यायः।  
-![](../../../../../../../books_images/U-IMG-1705747365image10.jpg)**
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705747365image10.jpg"/>**
 
 **अथातोऽष्टोदरीयमध्यायंव्याख्यास्यामइतिहस्माहभगवानात्रेयः।**
 
@@ -5435,7 +5437,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **विंशोऽध्यायः।  
-![](../../../../../../../books_images/U-IMG-1705749075image16.jpg)**
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705749075image16.jpg"/>**
 
 **अथातो महारोगाध्यायंव्याख्यास्याम इति हस्माहभगवानात्रेयः।**
 
@@ -5571,7 +5573,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **एकविंशोऽध्यायः।  
-![](../../../../../../../books_images/U-IMG-1705726928image4.jpg)**
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705726928image4.jpg"/>**
 
 **अथातोऽष्टौनिन्दितीयमध्यायंव्याख्यास्यामइतिहस्माहभगवानात्रेयः।**
 
@@ -8702,7 +8704,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 इति श्रीमहर्षि चरक० प० रामप्रसादवैद्य०भाषाटीकायामन्नपान विधिर्नाम सप्तविंशोऽध्यायः॥२७॥
 
-**![](../../../../../../../books_images/U-IMG-1705978140Screenshot2024-01-23081818.png)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705978140Screenshot2024-01-23081818.png"/>**
 
 **अष्टाविंशोऽध्यायः।**
 
@@ -8901,11 +8903,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
   यहांपर अध्यायकी पूर्ति श्लोक है। आहारसे उत्पन्न होनेवाला रोग और आहारसे उत्पन्न होनेवाला शरीर, शरीरका हित और अहित तथा हित और अहित विशेषसे सुख दुःख विशेष और दुःखके सहन योग्य तथा असहन योग्य शरीर, धातुओंमें होनेवाले विविध प्रकारके रोग समूह, उनके शान्तिके उपाय, दोषोंका कोष्ठाश्रित और शाखाश्रित होना, बुद्धिमान् तथा अज्ञानीका कृत्य, स्वस्थ और आतुरकेलिये हितकारक उपदेश, यह सब इस विविध अशितपीतीय अध्याय में वर्णन किया गया है ॥४९॥५०॥५१॥५२॥
 
 इति श्रीमहर्षि चरक० पं० रामप्रसाद० भाषाटीकाया विविधाशितपीतीयो नामाष्टाविंशोऽयायः॥२८॥  
-![](../../../../../../../books_images/U-IMG-1705980580Screenshot2024-01-23081818.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705980580Screenshot2024-01-23081818.png"/>
 
 **एकोनत्रिंशोऽध्यायः।**
 
-![](../../../../../../../books_images/U-IMG-1705980761Screenshot2023-12-02230343.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705980761Screenshot2023-12-02230343.png"/>
 
 **  अथातोदशप्राणायतनीयमध्यायंव्याख्यास्यामइतिहस्माहभगवानात्रेयः।**
 
@@ -9378,11 +9380,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 **इह विधि सूत्रस्थान यह, सूत्रित तंत्र महान।  
 सो प्रसादनीयुत भयो, लघुमति जैहैं जान॥१॥**
 
-![](../../../../../../../books_images/U-IMG-1706033346Screenshot2024-01-23233843.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1706033346Screenshot2024-01-23233843.png"/>
 
 **अथ निदानस्थानम्।**
 
-**![](../../../../../../../books_images/U-IMG-1706033695Screenshot2024-01-23234136.png)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1706033695Screenshot2024-01-23234136.png"/>**
 
 **प्रथमोऽध्यायः।**
 
@@ -9669,10 +9671,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 प्रथमोऽध्यायः॥१॥
 
-![](../../../../../../../books_images/U-IMG-1699424936Screenshot2023-11-08115216.png)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1699424936Screenshot2023-11-08115216.png"/>  
 **द्वितीयोऽध्यायः।**
 
-![](../../../../../../../books_images/U-IMG-1699425279Screenshot2023-11-08120317.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1699425279Screenshot2023-11-08120317.png"/>
 
 **रक्तपित्तनिदानम्।**
 
@@ -9947,7 +9949,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
   इति श्रीमहर्षि चरक० नि० स्था० प० रामप्रसादवैद्य० भाषाटीकायां गुल्मनिदान  
 नाम तृतीयोऽध्यायः॥३॥
 
-![](../../../../../../../books_images/U-IMG-1699427918Screenshot2023-11-08115323.png)
+     
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1699427918Screenshot2023-11-08115323.png"/>
+    
 
 **चतुर्थोऽध्यायः।**
 
@@ -10256,7 +10260,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 इति श्रीमहर्षिचरक० निदान०प० रामप्रसादवैद्य० भाषाटीकाया प्रमेहनिदान  
 नाम चतुर्थोऽध्यायः॥४॥
 
-![](../../../../../../../books_images/U-IMG-1699428861Screenshot2023-11-08115216.png)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1699428861Screenshot2023-11-08115216.png"/>  
 **पंचमोऽध्यायः ।**
 
 **अथातःकुष्ठनिदानं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**  
@@ -10420,10 +10424,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 'इति श्रीमहर्षिचरकप्र० निदान० प० रामप्रसाद वैद्य० भाषाटीकायां  
 कुष्टनिदान नाम पञ्चमोऽध्यायः''॥५॥
 
-![](../../../../../../../books_images/U-IMG-1699429506Screenshot2023-11-08115216.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1699429506Screenshot2023-11-08115216.png"/>
 
 **षष्ठोऽध्यायः**  
-**![](../../../../../../../books_images/U-IMG-1699429661Screenshot2023-11-08131723.png)  
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1699429661Screenshot2023-11-08131723.png"/>  
 शोषनिदानम्।**
 
 **अथातः शोषनिदानं व्याख्यास्याम इति ह स्माहभगवानात्रेयः।**
@@ -10611,7 +10615,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 इति श्रीमहर्षिचरक० निदान० प० रामप्रसादवैद्य० भाषाटीकायां शोषरोगनिदान  
 नाम षष्टोऽध्याय॥ ६ ॥
 
-![](../../../../../../../books_images/U-IMG-17056541171a.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17056541171a.jpg"/>
 
 **सप्तमोऽध्यायः।**
 
@@ -10781,11 +10785,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 वैद्यपञ्चानन पं० रामप्रसादवैद्योपाध्यायविरचितप्रसादन्याख्यभाषाटीकाया-  
 मुन्मादरोगनिदान नाम सप्तमोऽध्यायः ॥ ७ ॥
 
-![](../../../../../../../books_images/U-IMG-17055124241...jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17055124241...jpg"/>
 
 **अष्टमोऽध्यायः।**
 
-![](../../../../../../../books_images/U-IMG-17055124472.....jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17055124472.....jpg"/>
 
 **अथापस्मारनिदानं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -10973,7 +10977,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 **समाप्तमिदं निदानस्थानम्।**
 
-**![](../../../../../../../books_images/U-IMG-1699266922116.png)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1699266922116.png"/>**
 
 **अथविमानस्थानम्।**
 
@@ -11203,7 +11207,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 **द्वितीयोऽध्यायः।**
 
-![](../../../../../../../books_images/U-IMG-1699349716117.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1699349716117.png"/>
 
 **अथातस्त्रिविधं कुक्षीयं विमानं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -11349,10 +11353,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 इति श्रीमहर्षिचरक० पं०रामप्रसादवैद्य० भाषाटीकायां त्रिविधकुक्षीयो नाम  
 द्वितीयोऽध्यायः॥ २ ॥
 
-![](../../../../../../../books_images/U-IMG-17060785251a.jpg)
+          
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17060785251a.jpg"/>
 
 **तृतीयोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-17060785717.jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17060785717.jpg"/>**
 
 **अथ जनपदोद्धंसनीयमध्यायं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -11703,11 +11708,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 इति श्रीमहर्षिचरक ० विमानस्थाने प० रामप्रसादवैद्य ० भाषाटीकाया जनोपदोद्ध्वसनीय विमान तृतीयोध्यायः॥३॥
 
-![](../../../../../../../books_images/U-IMG-1705559151Capture.JPG)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705559151Capture.JPG"/>
 
 **चतुर्थोऽध्यायः।**
 
-![](../../../../../../../books_images/U-IMG-1705559239Capture1.JPG)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705559239Capture1.JPG"/>
 
 **अथातस्त्रिविधरोगविशेषविज्ञानीयविमानंव्याख्यास्यामइति हस्माहभगवानात्रेयः॥**
 
@@ -11801,11 +11806,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 इति श्रीमहर्पिचर० वि० स्था० भा० टी० त्रिविधरोग विशेषविज्ञानीयविमान  
 नाम चतुर्थोऽध्यायः॥४॥
 
-![](../../../../../../../books_images/U-IMG-1705568116Capture.JPG)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705568116Capture.JPG"/>
 
 **पंचमोऽध्यायः।**
 
-**![](../../../../../../../books_images/U-IMG-1705568134Capture1.JPG)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705568134Capture1.JPG"/>**
 
 **अथातः स्रोतोविमानंनामाध्यायं व्याख्यास्याम इति हस्माह भगवानात्रेयः।**
 
@@ -12031,7 +12036,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 इति श्रीमहर्षिचरक० विमानस्थाने भाषाटीकाया स्रोतोविमान नाम पञ्चमोऽध्यायः॥५॥
 
-![](../../../../../../../books_images/U-IMG-1705727156Capture.JPG)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1705727156Capture.JPG"/>
 
 **षष्टोऽध्यायः।**
 
@@ -12194,7 +12199,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
   इति श्रीमहर्षिचरक० वि० स्था० भाषाटीकाया रोगानीक नाम षष्ठोऽध्यायः॥६॥
 
-![](../../../../../../../books_images/U-IMG-1706024719Capture.JPG)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1706024719Capture.JPG"/>
 
 **सप्तमोऽध्यायः।**
 
@@ -12408,11 +12413,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 इति श्रीमहर्षिचरक० विमानस्थाने मात्रा ० व्याधीतरूपीयविमान नाम सप्तमोऽन्यायः॥७॥
 
-![](../../../../../../../books_images/U-IMG-1706436367Capture.JPG)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1706436367Capture.JPG"/>
 
 **अष्टमोऽध्यायः।**
 
-![](../../../../../../../books_images/U-IMG-1706436346Capture1.JPG)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1706436346Capture1.JPG"/>
 
 **अथातो रोगभिषग्जितीयमध्यायंव्याख्यास्याम इतिहस्माह भगवानात्रेयः।**
 
@@ -13479,7 +13484,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 इति विमानस्थानम्।**
 
 **शारीरस्थानम्।  
-![](../../../../../../../books_images/U-IMG-1706602661image10.jpg)**
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1706602661image10.jpg"/>**
 
 **प्रथमोऽध्यायः।**
 
@@ -14776,10 +14781,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 इति श्रीचरकप्र० आ० वे०स० शरीरस्थाने भाषाटीकाया महतीगर्भाऽवक्राति शारीर नाम  
 चतुर्थोऽध्याय॥४॥  
-**![](../../../../../../../books_images/U-IMG-17065428061...jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17065428061...jpg"/>**
 
 **पञ्चमोऽध्यायः ।  
-![](../../../../../../../books_images/U-IMG-1706542827aaaa.jpg)**
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1706542827aaaa.jpg"/>**
 
 **अथातः पुरुषविचयं शारीरं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -14962,10 +14967,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 इति श्रीमहपिंचरक० शारीरस्थाने भाषाठीकाया पुरुषविचयशारीरनाम पञ्चमोऽध्यायः॥५॥
 
-![](../../../../../../../books_images/U-IMG-17065507191..b.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17065507191..b.jpg"/>
 
 **षष्ठोऽध्यायः ।**  
-**![](../../../../../../../books_images/U-IMG-17065507977.jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17065507977.jpg"/>**
 
 **अथातः शरीरविचयशारीरं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -15160,10 +15165,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 इति श्रीमहार्पचरकप्रणीतायुर्वेदीयसंहिताया शारीरस्थाने पं० रामप्रसाद वैद्यविरचितप्रसा-  
 दन्याख्यभाषाटीकायामपस्मारनिदानं नामपष्टोऽध्यायः॥६॥
 
-![](../../../../../../../books_images/U-IMG-17067168561a.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17067168561a.jpg"/>
 
 **सप्तमोऽध्यायः**  
-**![](../../../../../../../books_images/U-IMG-170671697012.jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-170671697012.jpg"/>**
 
 **अथातः शारीरसंख्यानाम शारीराध्यायं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -15294,10 +15299,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 इति श्रीमहर्षिचरक० शारीरस्थाने भाषाटीकाया शरीरसंख्याशारीरं नाम सप्तमोऽध्यायः॥७॥
 
-**![](../../../../../../../books_images/U-IMG-17067281491...jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17067281491...jpg"/>**
 
 **अष्टमोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-1706728180aaaa.jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1706728180aaaa.jpg"/>**
 
 **अथातो जातिसूत्रीयं शारीरं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -15991,10 +15996,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 **॥समाप्तमिदं शारीरस्थानम्॥**
 
-**![](../../../../../../../books_images/U-IMG-17066969491a.jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17066969491a.jpg"/>**
 
 **इन्द्रियस्थानम्।**  
-**![](../../../../../../../books_images/U-IMG-170669791711.jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-170669791711.jpg"/>**
 
 **प्रथमोऽध्यायः।**
 
@@ -16158,7 +16163,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 इति श्रीमहर्षिचरकप्रणीतायुर्वेदसंहितायामिन्द्रियस्थाने टकसालनिवासिपण्डितरामप्रसादवैद्योपाध्यायविरचितप्रसादन्याख्यभाषाटीकायां वर्णस्वरीयमिन्द्रियं नाम प्रथमोऽध्यायः॥१॥
 
-![](../../../../../../../books_images/U-IMG-17067034081a.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17067034081a.jpg"/>
 
 **द्वितीयोऽध्यायः।**
 
@@ -16255,7 +16260,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 ** **इति श्रीमहर्षिचरक० इन्द्रियस्थाने भाषाटीकायां पुष्पितमिन्द्रियनाम द्वितीयोऽध्यायः॥२॥
 
-![](../../../../../../../books_images/U-IMG-17067090631...jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17067090631...jpg"/>
 
 **तृतीयोऽध्यायः।**
 
@@ -16331,11 +16336,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 
 इति श्रीमहपिंचर० शारी० स्था० भाषाटी० अतुल्यगोत्रीयशारीर नाम तृतीयोऽध्यायः॥३॥
 
-**![](../../../../../../../books_images/U-IMG-17067114441...jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17067114441...jpg"/>**
 
 **चतुर्थोऽध्यायः।**
 
-**![](../../../../../../../books_images/U-IMG-17067114767.jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17067114767.jpg"/>**
 
 **अथात इन्द्रियानी कमिद्रियं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -16541,10 +16546,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
   यहां अध्यायके उपसंहारमें एक श्लोक है— कि जो वैद्य इस इन्द्रियविज्ञानको यथोचित रीतिपर ठीक परीक्षा करना जानता है वही वैद्य मनुष्य के जीवन और मरणको जान सकता है॥२५॥
 
 इति श्रीमहर्षिचरके० इन्द्रिस्थाने भाषाटीकायामिन्द्रियानीकमिन्द्रियनाम चतुर्थोऽध्यायः॥४॥  
-![](../../../../../../../books_images/U-IMG-17074006951a.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17074006951a.jpg"/>
 
 **पञ्चमोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-170740101022.jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-170740101022.jpg"/>**
 
 **अथातः पूर्वरूपीयमिंद्रियं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -16729,10 +16734,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
   जो वैद्य इन संपूर्ण पूर्वरूपांको तथा इन दारुण स्वप्नोको भलेप्रकार जानता है वह असाध्यरोगोमें मोहके वश चिकित्सा करनेके लिये नहीं फँसता॥४५॥
 
 इति श्रीमहर्षिचरक०इन्द्रियस्थाने भाषाटीकाया पूर्वरूपीयमिन्द्रिय नाम पञ्चमोऽध्यायः॥५॥  
-![](../../../../../../../books_images/U-IMG-17078070981.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17078070981.png"/>
 
 **षष्ठोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-170780712222.jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-170780712222.jpg"/>**
 
 **अथातः कतमानिशरीरीयमिन्द्रियं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -16853,7 +16858,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
   अब अध्यायके उपसंहार में एक श्लोक है इसप्रकार ऊपर कहे लक्षणोंवाले रोगियोंको त्यागदेना चाहिये क्योंकि इसप्रकारके रोगियोंकी किसीप्रकार चिकित्सा करनेमें बुद्धिमान् सिद्धिको नहीं देखते॥२३॥
 
 इति श्रीमहर्षिचरक० इन्द्रियस्थाने भाषा०कर्तमानिशरीरीयमिन्द्रिय नाम षष्ठोऽध्यायः॥६॥  
-![](../../../../../../../books_images/U-IMG-170780875511111.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-170780875511111.jpg"/>
 
 **सप्तमोऽध्यायः।**
 
@@ -17012,10 +17017,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
   अब अध्यायके उपसंहारमें एक श्लोक है कि, जो वैद्य इन अरिष्टनामक अनेक प्रकारके लक्षणोंको भलेप्रकार जानताहै उसी कुशल पुरुषको आयुर्वेदका जाननेवाला कहना चाहिये॥३०॥
 
 इति श्रीमहर्षिचरक०इन्द्रियस्थाने भाषाटीकायां पूर्वरूपीयमिन्द्रिय नाम सप्तमोऽध्यायः॥७॥  
-![](../../../../../../../books_images/U-IMG-17079123111a.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17079123111a.jpg"/>
 
 **अष्टमोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-17079123481..........jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17079123481..........jpg"/>**
 
 **अथातोऽवाक्शिरसीयमिन्द्रियं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -17151,10 +17156,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
   अब अध्यायके उपसंहारमें एक श्लोक है बुद्धिमान् वैद्य मनुष्योंमें इन लक्षणों को देखकर वारवार अपने अनुभवको सावधानीसे पुष्ट करता जाय क्योंकि बहुतसे ऐसे भी लक्षण होतेहैं जो थोडेसे काल रहकर फिर नष्ट होजाते हैं। और कोई लक्षण ऐसे होते हैं जो निष्फल नहीं जाते अर्थात् अवश्य मृत्युके करनेवाले होतेहैं इसलिये सावधानी से परीक्षा करते हुए अपने अनुभवको पुष्ट कर लेना चाहिये॥२५॥
 
 इति श्रीमहर्षिचरक० इन्द्रियस्थाने भाषाटीकायामवाक्शिरशीयमिन्द्रियं नामाष्टमोध्यायः॥८॥  
-**![](../../../../../../../books_images/U-IMG-17079147931...jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17079147931...jpg"/>**
 
 **नवमोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-17079148481..........jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17079148481..........jpg"/>**
 
 **अथातो यस्य श्यावनिमित्तीयमिंद्रियं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -17252,10 +17257,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
   यहां अध्यायके उपसंहारमें दो श्लोक है जब मनुष्योंका मरणसमय आजाता है उस समय ऐसे २ लक्षण उत्पन्न होते है तथा इसी प्रकारके और भी लक्षण उत्पन्न होते है सो वैद्यको चाहिये कि इन मरणख्यापक सब प्रकारके लक्षणोको विज्ञानपूर्वक सावधानीसे देखा करे। सब लक्षण एक ही मनुष्यमें नहीं होसकते इसलिये अनेक मरणासन्न मनुष्योमें सबप्रकारके लक्षणोको सावधानीसे देखना चाहिये॥२१॥२२॥
 
 इति श्रीमहर्षिचर० इन्द्रि० स्था० भाषाटी० यस्यश्यावनिमित्तीय नाम नवमोऽध्यायः॥९॥  
-**![](../../../../../../../books_images/U-IMG-17079197231...jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17079197231...jpg"/>**
 
 **दशमोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-17079201232222.jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17079201232222.jpg"/>**
 
 ** अथातः सद्योमरणीयमिन्द्रियं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -17356,10 +17361,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
   यहां अध्याय के उपसंहारमें एक श्लोक है। जो वैद्य इन संपूर्ण लक्षणोंको भले प्रकार जानताहै वह मनुष्योंके जीवन और मरणको भी अच्छीतरह जानलेताहै॥१८॥
 
 इति श्रीमहर्षि चरक० इन्द्रियस्थाने भा०टी० सद्योमरणीयमिन्द्रिय नाम दशमोऽध्यायः॥१०॥  
-![](../../../../../../../books_images/U-IMG-17074114541..b.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17074114541..b.jpg"/>
 
 **एकादशोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-17074115921..........jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-17074115921..........jpg"/>**
 
 **अथातोऽणुज्योतीयमिन्द्रियं व्याख्यास्याम इति ह स्माह भगवानात्रेयः।**
 
@@ -17499,10 +17504,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
   यहां अध्यायके उपसंहारये श्लोक है— कि बातादि दोष क्रियामार्गसे अतिक्रान्त हो अर्थात् चिकित्सा द्वारा सिद्ध होनेवाले न रहकर केवल शरीरमें प्राप्त होकर जिन लक्षणोंको करते हैं उनको अरिष्ट कहते हैं। अर्थात् अवश्य मृत्यु करनेवाले लक्षणोको अरिष्ट कहते हैं॥२७॥
 
 इति श्रीमहर्षि चरक० इन्द्रियस्थाने भा० टी० अणुज्योतीयमिन्द्रिय नामैकादशोऽध्यायः॥११॥  
-![](../../../../../../../books_images/U-IMG-170798009511111.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-170798009511111.jpg"/>
 
 **द्वादशोऽध्यायः।**  
-**![](../../../../../../../books_images/U-IMG-170798012822.jpg)**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-170798012822.jpg"/>**
 
 **अथातो गोमयचूर्णीयमिन्द्रियं व्याख्यास्यामः इति ह स्माह भगवानात्रेयः।**
 
@@ -17791,7 +17796,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2ODYxNDk4NTQ
 ऋषिप्रणीत इस तंत्रमें, पूरण पंचमस्थान॥३॥**
 
 ॥**इतीन्द्रियस्थानं पञ्चमम्॥  
-![](../../../../../../../books_images/U-IMG-17074005331a.jpg)**
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-17074005331a.jpg"/>**
 
 \]
-

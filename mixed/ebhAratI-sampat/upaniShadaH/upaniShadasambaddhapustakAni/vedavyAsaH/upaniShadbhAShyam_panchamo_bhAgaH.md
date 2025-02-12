@@ -15,11 +15,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 
 \[
 
-![](#)![](../books_images/U-IMG-1731313377ps-1.jpg)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1731313377ps-1.jpg"/>
 
 [TABLE]
 
-![](../books_images/U-IMG-1731313647ps-2.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731313647ps-2.jpg"/>
 
 |                                |
 |--------------------------------|
@@ -27,9 +27,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 | CHAPTER I.                     |
 | CHAPTER II.                    |
 
-![](../books_images/U-IMG-1731313674ps-3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731313674ps-3.jpg"/>
 
-![](../books_images/U-IMG-1731313787ps-4.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731313787ps-4.jpg"/>
 
 |                              |
 |------------------------------|
@@ -37,15 +37,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 | प्रथमोऽध्यायः                |
 | द्वितीयोऽध्यायः              |
 
-![](../books_images/U-IMG-1731313811ps-5.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731313811ps-5.jpg"/>
 
-![](../books_images/U-IMG-1731313919ps-6.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731313919ps-6.jpg"/>
 
-![](../books_images/U-IMG-1731314034ps-7.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731314034ps-7.jpg"/>
 
-![](../books_images/U-IMG-1731314115ps-8.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731314115ps-8.jpg"/>
 
-![](../books_images/U-IMG-1731314188ps-9.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731314188ps-9.jpg"/>
 
 ॥ श्रीः ॥
 
@@ -225,22 +225,22 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 | षष्ठं ब्राह्मणम्                                                                                                                                                                                                         |
 | ब्रह्मविद्यायाः स्तुत्यर्थं ब्रह्मविद्यार्थस्य मधुकाण्डस्य आचार्यपरम्पराक्रमरूपवंशकथनम्                                                                                                                                  |
 
-![](../books_images/U-IMG-1732364375दददर.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732364375दददर.jpg"/>
 
-![](../books_images/U-IMG-1731035410तततततततततत.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731035410तततततततततत.jpg"/>
 
-![](../books_images/U-IMG-1731316969ps-11.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731316969ps-11.jpg"/>
 
 **॥ बृहदारण्यकोपनिषत् ॥**
 
 श्रीमच्छंकरभगवत्पादविरचितेन  
 भाष्येण सहिता।  
 
-![](../books_images/U-IMG-1731317111ps-12.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731317111ps-12.jpg"/>
 
 **ॐ नमो ब्रह्मादिभ्यो ब्रह्मविद्यासंप्रदायकर्तृभ्यां वंशऋषिभ्यो नमो गुरुभ्यः।**
 
-![](../books_images/U-IMG-1731317181ps-13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731317181ps-13.jpg"/>
 
 षा
 
@@ -298,7 +298,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 
 द्वितीयं ब्राह्मणम्॥
 
-![](../books_images/U-IMG-1730813841ददददददददददददद.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1730813841ददददददददददददद.jpg"/>
 
  नैवेह किंचनाग्र आसीन्मृत्युनैवेदमावृतमासीदशनाययाशनाया हि मृत्युस्तन्मनोऽकुरुतात्मन्वी स्यामिति। सोऽर्चन्नचरत्तस्यार्चत आपोऽजायन्तार्चते वै मे कमभूदिति तदेवार्कस्यार्कत्वं क
 
@@ -426,7 +426,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 
 इति प्रथमाध्यायस्य द्वितीयं ब्राह्मणम्॥
 
-![](../books_images/U-IMG-1730820690ददददददददददददद.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1730820690ददददददददददददद.jpg"/>
 
 **तृतीयं ब्राह्मणम्॥  
 ———**
@@ -754,7 +754,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 
 इति प्रथमाध्यायस्य तृतीयं ब्राह्मणम्॥
 
-![](../books_images/U-IMG-1730897873सससससससददददददद.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1730897873सससससससददददददद.jpg"/>
 
 **चतुर्थं ब्राह्मणम्॥**
 
@@ -1242,7 +1242,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 
 इति प्रथमाध्यायस्य चतुर्थं ब्राह्मणम्॥
 
-![](../books_images/U-IMG-1730992192जजजजजजजजजजजजजजजजजजजजजजजजजजजज.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1730992192जजजजजजजजजजजजजजजजजजजजजजजजजजजज.jpg"/>
 
 पञ्चमं ब्राह्मणम्॥
 
@@ -1565,7 +1565,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 
 इति प्रथमाध्यायस्य पञ्चमं ब्राह्मणम्॥
 
-![](../books_images/U-IMG-1731144893www.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731144893www.jpg"/>
 
 षष्ठं ब्राह्मणम्॥
 
@@ -1616,15 +1616,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 बृहदारण्यकोपनिषद्भाष्ये  
 प्रथमोऽध्यायः॥
 
-![](../books_images/U-IMG-1731145459pp.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731145459pp.jpg"/>
 
-![](../books_images/U-IMG-1731145791llll.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731145791llll.jpg"/>
 
 ॥द्वितीयोऽध्यायः॥  
 
 ———
 
-![](../books_images/U-IMG-1731145927ggg.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731145927ggg.jpg"/>
 
 **त्मेत्येवोपासीत ;**
 
@@ -1980,7 +1980,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 
 इति द्वितीयाध्यायस्य द्वितीयम् ब्राह्मणम्॥
 
-![](../books_images/U-IMG-1731170810दददददद.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731170810दददददद.jpg"/>
 
 तृतीयं ब्राह्मणम्॥  
 
@@ -2067,7 +2067,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 
 **इति द्वितीयाध्यायस्य तृतीयं ब्राह्मणम्॥**
 
-**![](../books_images/U-IMG-1731210264दददददसससससससााा.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1731210264दददददसससससससााा.jpg"/>**
 
 चतुर्थं ब्राह्मणम्॥  
 
@@ -2309,7 +2309,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 
 इति द्वितीयाध्यायस्य चतुर्थं ब्राह्मणम्॥
 
-![](../books_images/U-IMG-1731242166जजजजजजजजजजजजजजजजजजजजजजजजजजजजज.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731242166जजजजजजजजजजजजजजजजजजजजजजजजजजजजज.jpg"/>
 
 पञ्चमं ब्राह्मणम्॥  
 
@@ -2564,7 +2564,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 
 इति द्वितीयाध्यायस्य पञ्चमं ब्राह्मणम्॥
 
-![](../books_images/U-IMG-1731250137pppp.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731250137pppp.jpg"/>
 
 **षष्ठं ब्राह्मणम्॥**  
 ———
@@ -2618,6 +2618,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxMDI5OTI3NTE
 बृहदारण्यकोपनिषद्भाष्ये  
 द्वितीयोऽध्यायः॥
 
-![](../books_images/U-IMG-1731172974ैैैैैैै.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731172974ैैैैैैै.jpg"/>
 
 \]

@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI3MjMyMjU3Nzg
 
 \[
 
+
+
+
+
 शरभोपनिषत् ।
+
+
 
 सर्वं सन्त्यज्य मुनयो यद्भजन्त्यात्मरूपतः ।
 
@@ -281,5 +287,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI3MjMyMjU3Nzg
 इति शरभोपनिषत्समाप्ता ॥
 
 -------------------------------
+
+
+
+
+
+
+
 
 \]

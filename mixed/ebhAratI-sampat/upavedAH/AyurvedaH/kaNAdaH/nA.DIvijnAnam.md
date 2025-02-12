@@ -88,7 +88,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyODc2MTA2NDQ
 
 **नाड़ीसंस्थानचित्रम् ।**
 
-![](../books_images/U-IMG-1724827274AB.png)  
+<MISSING_FIG href="../books_images/U-IMG-1724827274AB.png"/>  
 
  ख ग—धमनीमूलम् । ऊर्द्धमुखं, पश्चाद्गामि, निम्नमुखश्चेति तत् त्रिविधम्।  
  द क—कपालस्था धमनी।  
