@@ -101,7 +101,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg1NTM0MzMyMjU
 
 **मुक्तावलीव्याख्योपेतः।**
 
-**![](../books_images/U-IMG-1737654675190101-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1737654675190101-removebg-preview.png"/>**
 
 **नूतनजलधररुचये गोपवधूटीदुकूलचोराय।  
 तस्मै कृष्णाय नमः संसारमहीरुहस्य बीजाय॥१॥**

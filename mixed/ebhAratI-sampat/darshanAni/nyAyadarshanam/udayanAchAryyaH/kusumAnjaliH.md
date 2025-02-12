@@ -29,7 +29,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMDU5MDI2OTk
 
 **प्रथमः स्तवकः।**
 
-![](../books_images/U-IMG-1735400208Screenshot2024-12-28210624.png)
+<MISSING_FIG href="../books_images/U-IMG-1735400208Screenshot2024-12-28210624.png"/>
 
 ईषदीषदनधीतविद्यया तातमातृमुदमाविवर्द्धयन्।  
 क्षेपणाय भवकर्मजन्मनां कोऽपि गोपतनयो नमस्यते॥

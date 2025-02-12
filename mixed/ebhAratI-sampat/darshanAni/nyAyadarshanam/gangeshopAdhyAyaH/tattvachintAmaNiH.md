@@ -56,7 +56,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAwMzYxMDc0NDA
 
 **तत्त्वचिन्तामणौ।**
 
-**![](../books_images/U-IMG-1735306431Screenshot2024-12-26191338.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735306431Screenshot2024-12-26191338.png"/>**
 
 **उपमान खण्डः।**
 

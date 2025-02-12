@@ -13,6 +13,22 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2NzY1NzkzNjA
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 हरिभद्रसूरिकृता न्यायप्रवेशप्रवृत्तिः ।
 
 श्रीसर्वज्ञाय नमः ॥
@@ -178,5 +194,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2NzY1NzkzNjA
 
 समाप्ता चेयं शिष्यहिता नाम न्यायप्रवेशकटीका ॥  
 कृतिरियं हरिभद्रसूरेः ॥\\Z
+
+
+
+
+
+
+
+
+
+
+
 
 \]

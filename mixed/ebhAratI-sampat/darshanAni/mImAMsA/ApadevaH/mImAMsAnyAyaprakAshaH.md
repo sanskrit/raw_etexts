@@ -12,6 +12,14 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc2ODE0MjY2
 
 \[
 
+
+
+
+
+
+
+
+
 1.book name : mimamsanyayaprakash  
 2.author : sri.apadeva, with an original sanskrit commentary by maham  
    ahopadhyaya. sastraratnakara, former principal, college  
@@ -23,6 +31,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc2ODE0MjY2
 5.year of purlish : 1949  
 6.published by : jaya krishna das haridas gupta  
 7.description : 120 text and vyakhya
+
+
+
+
 
   श्रीशिवाभ्यां नमः ॥  
  मीमांसान्यायप्रकाशटीका सारविवेचिन्याख्या ।  
@@ -369,6 +381,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc2ODE0MjY2
  उद्देश्येन निमित्तेन विधियस्य न सङ्गतिः ॥" इति ।  
  दाहादावित्यादिपदेन "एतामेव निर्वपेद्यस्य हिरण्यं नश्येत्" इति विहिता हिरण्यनाशेष्टिः परिगृह्यते । कर्मजन्येति । कर्मजन्यं यत्पापक्षयरूपं फलं तत्स्वाम्यमित्यर्थः । नन्वेवं बृहस्पतिसवे क्षत्रियवैश्ययोः, राजसूये ब्राह्मणवैश्ययोः, वैश्यस्तोमे च ब्राह्मणक्षत्रिययोरधिकारापत्तिः । तेषामपि कर्मजन्यफलभोक्तृत्वसम्भवात् । अत आहतच्चेति । नन्वेवमपि स्वर्गकामत्वादेरप्यधिकारिविशेषणत्वसम्भवात्तद्दोषतादवस्थ्यम्, अत आह---अधिकारीति । स्वर्गकामादिपदानां स्वर्गादिमात्रबोधकत्वेन पुरुषविशेषणत्वं न सम्भवतीति भावः । अत एव पुरुषविशेषणत्वेन श्रुतस्य अधिकारिविशेषणत्वादेव । राज्ञः सत इति । अत्र राजपदं क्षत्रियजातिमात्रवाचकम् । एवञ्च नेतरयोरत्र प्राप्तिः । एवं वैश्यस्तोमादावपि द्रष्टव्यमित्याशयः ।  
  नन्वेवं शूद्रस्याप्यधिकारः स्यात् । तस्यापि स्वर्गकामत्वाविशेषात् । अत आह---किञ्चित्त्विति । विद्या निष्कृष्टवेदवाक्यार्थज्ञानम् । ब्राह्मणवाक्यार्थज्ञानं विना कर्मस्वरूपस्यैव ज्ञातुमशक्तेः, मन्त्रार्थज्ञानं विनि प्रयोगसमवेतार्थस्मरणासम्भवाच्च । उत्तरक्रतुविधीनाम् । आधानानन्तरमनुष्ठीयमानदर्शपूर्णमासज्योतिष्टोमादिक्रतुविधीनाम् । ज्ञानाक्षेपशक्तेरभावेनेति । उत्तरक्रतुविधयः स्वविषयानुष्ठानार्थं तद्विषयकं ज्ञानमपेक्षमाणाः प्रमाणान्तरसिद्धार्थज्ञानवन्तं पुरुषमादाय तेनैव कृतार्था इति न तेषु स्वातन्त्र्येण ज्ञानाक्षेपकत्वशक्तिः कल्प्यते, गौरवादिति भावः । अत एव उत्तरक्रतुविधीनामग्निमद्विद्यावद्विषयकत्वादेव । उपनीताधिकारत्वादिति । \`अष्टवर्षं ब्राह्मणमुपनयोत' तमध्यापयीत' इति तच्छब्देन उपनीतस्यैव परामर्शात्, उपनयनस्य च \`अष्टवर्षं ब्राह्मणमुपनयीत एकादशवष राजन्यं, द्वादशवर्षं वैश्यम्' इति त्रैवणिकमात्रं प्रति विरितत्वादित्त्यर्थः । उपनयीतेत्यादिना एकादशवर्षं राजन्यमुपनयीत्, \`द्वादशवर्षं वैश्य' मित्यनयोः परिग्रहः । एवमुत्तरत्राप्यादिपदेन \`ग्रीष्मे राजन्यः, शरदि वैश्य' इत्यनयोः परिग्रहः ।
+
+
+
+
 
   श्रीगणेशाय नमः ।  
   आपदेवकृतः  
@@ -1002,6 +1018,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc2ODE0MjY2
 इति (महामोपाध्यायेन\*)(\* ()एतच्चिह्नान्तर्गतमधिकमुपलभ्यते कस्मिंश्चित् लिखितपुस्तके ।) श्रीमदनन्तदेवसूनुना आपदेवेन कृतं मीमांसान्यायप्रकाशसंज्ञकं पूर्वमीमांसाप्रकरणं समाप्तम् ॥  
 -------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*-----------------
 
+
+
+
+
 2003.03.04 12:03 B C:\\\\WINDOWS\\\\DESKTOP\\\\full_data_proflkvrk\\\\mimamsanyayaprakasa\\\\mimamsanyayaprakasa_details \<-- 192.168.0.1 /home/damodar/pdr_january03/mimamsanyayaprakasa mimamsanyayaprakasa_details  
 2003.03.04 12:03 B C:\\\\WINDOWS\\\\DESKTOP\\\\full_data_proflkvrk\\\\mimamsanyayaprakasa\\\\mimamsanyayaprakasa_text \<-- 192.168.0.1 /home/damodar/pdr_january03/mimamsanyayaprakasa mimamsanyayaprakasa_text  
 2003.03.04 12:03 B C:\\\\WINDOWS\\\\DESKTOP\\\\full_data_proflkvrk\\\\mimamsanyayaprakasa\\\\mimamsanyayaprakasa_vyakhya \<-- 192.168.0.1 /home/damodar/pdr_january03/mimamsanyayaprakasa mimamsanyayaprakasa_vyakhya  
@@ -1011,5 +1031,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc2ODE0MjY2
 --\> 192.168.0.1 /home/user1/full_data_proflkvrk/Mimamsa/mimamsanyayaprakasa mimamsanyayaprakasa_text  
 2003.07.16 15:49 B d:\\\\important\\\\full_data_proflkvrk\\\\Mimamsa\\\\mimamsanyayaprakasa\\\\mimamsanyayaprakasa_vyakhya
 --\> 192.168.0.1 /home/user1/full_data_proflkvrk/Mimamsa/mimamsanyayaprakasa mimamsanyayaprakasa_vyakhya
+
+
+
+
+
+
+
+
+
+
 
 \]

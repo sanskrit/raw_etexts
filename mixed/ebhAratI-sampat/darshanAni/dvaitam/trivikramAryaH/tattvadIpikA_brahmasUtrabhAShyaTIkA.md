@@ -11,9 +11,31 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDI5OTg2Mzkx
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Top of Form
 
+
+
+
+
 Bottom of Form
+
+
 
 Tatvadeepa  
 तत्त्वदीपः  
@@ -4021,6 +4043,8 @@ Fourth Pada
 चतुर्थः पादः ॥  
 ॥ द्वितीयाध्यायः समाप्तः ॥
 
+
+
 Third Chapter  
 First Pada ॥ श्रीः ॥  
 ॥ अथ तृतीयाध्यायः ॥  
@@ -7476,5 +7500,13 @@ Fourth Pada ॥ श्रीः ॥
 ----------
 
 © 2020 E-BHARATISAMPAT - ALL RIGHTS RESERVED
+
+
+
+
+
+
+
+
 
 \]
