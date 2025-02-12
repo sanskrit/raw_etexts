@@ -13,14 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA5MjQxNzY1MTI
 
 \[
 
-
-
-
-
-
 **विग्रहव्यावर्तनी**
-
-
 
 सर्वेषां भावानां सर्वत्र न विद्यते स्वभावश्चेत् ।  
 त्वद्वचनमस्वभावं न निवर्तयितुं स्वभावमलम् ॥ १ ॥  
@@ -168,8 +161,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA5MjQxNzY1MTI
 \\\\Z
 
 **------------------------------------------------------------**
-
-
-
 
 \]

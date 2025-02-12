@@ -13,26 +13,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 **भिक्षुणा अवलोकितसिंहेन समुद्भावितः**
 
 **धर्मसमुच्चयः**
 
 **प्रथममुदानम्**
-
-
 
 (जितधर्मकायवर्गाः परिवर्तो ह्यनित्यता ।  
 अप्रमादः कामतृष्णे स्त्री च मद्येन ते दश ॥ ) ॥
@@ -144,7 +129,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति जितवर्गः प्रथमः ॥
 
-
 (२) धर्मोपदेशवर्गः
 
 गुरुः कीदृग्भवेत्?
@@ -239,7 +223,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति धर्मोपदेशवर्गः द्वितीयः ॥
 
-
 (३) कायजुगुत्सावर्गः
 
 कायस्य स्वरूपनिरूपणम्
@@ -309,7 +292,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 तेषां स्वलक्षणं ज्ञात्वा मोक्षो भवति देहिनाम् ॥ ३.२० ॥
 
 ॥ इति कायजुगुप्सावर्गस्तृतीयः ॥
-
 
 (४) परिवर्तवर्गः
 
@@ -493,7 +475,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 यन्मृत्योः स्मरणं नित्यमशुभानां च वर्जनम् ॥ ४.६४ ॥
 
 ॥ इति परिवर्तवर्गश्चतुर्थः ॥
-
 
 (५) अनित्यतावर्गः
 
@@ -1116,7 +1097,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 अलिप्तः पापकैर्धर्मैर्न स गच्छति दुर्गतिम् ॥ ५.२२२ ॥
 
 इति अनित्यतावर्गः पञ्चमः
-
 
 (६) अप्रमादवर्गः
 
@@ -1743,7 +1723,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति अप्रमादवर्गः षष्ठः ॥
 
-
 (७) कामजुगुप्सावर्गः
 
 कामस्य नरकहेतुत्वम्
@@ -2365,7 +2344,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 इति कामजुगुप्सावर्गः सप्तमः ।
 
-
 (८) तृष्णावर्गः
 
 तृष्णाग्निरेव नरकभूतः
@@ -2769,7 +2747,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति तृष्णावर्गोऽष्टमः ॥
 
-
 (९) स्त्रीजुगुप्सावर्गः
 
 स्त्रिय एवानर्थमूलम्
@@ -2989,7 +2966,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति स्त्रीजुगुप्सावर्गो नवमः ॥
 
-
 (१०) मद्यजुगुप्सावर्गः
 
 मद्यपानवर्णनसाधनप्रदर्शनम्
@@ -3173,26 +3149,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 समाहिता धर्मशीलाः पुरुषा मद्यवर्जकाः ।  
 ते यान्ति परमं स्थानं यत्र मृत्युर्न विद्यते ॥ १०.५० ॥
 
-
-
 **॥ इति मद्यजुगुप्सावर्गो दशमः ॥**
-
-
 
 **-----------------------------------------------**
 
-
-
-
-
 **अथ द्वितीयमुदानम्**
-
-
 
 चित्तञ्च वाक्तथा कर्म संयोजनन्तु पापकम् ।
 
 नरकप्रेततिर्यक्क्षुत्कौसीद्यानि विदुर्दश ॥
-
 
 (११) चित्तवर्गः
 
@@ -3615,7 +3580,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति चित्तवर्ग एकादशः ॥
 
-
 (१२) वाग्वर्गः
 
 निर्वाणाभिलाषुकः पारुष्यं वर्जयेत्
@@ -3797,7 +3761,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति वाग्वर्गो द्वादशः ॥
 
-
 (१३) कर्मवर्गः
 
 शुभाशुभकर्मणां फलभोगः
@@ -3922,7 +3885,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 बद्धा बाला न गच्छन्ति निर्वाणपुरमुत्तमम् ॥ १३.३६ ॥
 
 ॥ इति कर्मवर्गस्त्रयोदशः ॥
-
 
 (१४) संयोजनवर्गः
 
@@ -4095,7 +4057,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 क्लेशपर्वतदग्धस्य सुखं पदमवस्थितम् ॥ १४.५० ॥
 
 ॥ इति संयोजनवर्गश्चतुर्दशः ॥
-
 
 (१५) पापवर्गः
 
@@ -4322,7 +4283,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 मैत्री सदाभिभूतेषु प्रस्थानं त्रिदिवस्य (हि) ॥ १५.७४ ॥
 
 ॥ इति पापवर्गः पञ्चदशः ॥
-
 
 (१६) नरकवर्गः
 
@@ -4678,7 +4638,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति नरकवर्गः षोडशः ॥
 
-
 (१७) प्रेतवर्गः
 
 अदानस्य कुतः सुखम्?
@@ -4790,7 +4749,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति प्रेतवर्गः सप्तदशः ॥
 
-
 (१८) तिर्यग्वर्गः
 
 परद्रोहं कदापि न कुर्यात्
@@ -4827,7 +4785,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 करोति यस्तस्य च शुद्धसत्त्वोऽवमाननां ज्ञानरथावरूढः ॥ १८.९ ॥
 
 ॥ इति तिर्यग्वर्गोऽष्टादशः ॥
-
 
 (१९) क्षधावर्गः
 
@@ -4882,7 +4839,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 सुकृतेषु मनः कार्य दानशीलविभूषितम् ॥ १९.१९ ॥
 
 ॥ इति क्षुधावर्ग एकोनविंशः ॥
-
 
 (२०) कौसीद्यवर्गः
 
@@ -4999,16 +4955,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 **------------------------------------------**
 
-
-
-
 **अथ तृतीयमुदानम्**
-
-
 
 (करुणादानशीलानि क्षान्तिर्वीर्यमथापि च ।  
 ध्यानं प्रज्ञाथ निर्वाणो मनो भिक्षुश्च ते दश ॥ )
-
 
 (२१) करुणावर्गः
 
@@ -5125,7 +5075,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 दानशीलक्षमामैत्रीज्ञानाभ्यासश्च निर्मलः ॥ २१.२९ ॥
 
 ॥ इति करुणावर्ग एकविंशः ॥
-
 
 (२२) दानवर्गः
 
@@ -5301,7 +5250,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 दानशीलरता नित्यं मुच्यन्ते भवसङ्कटात् ॥ २२.४८ ॥
 
 ॥ इति दानवर्गो द्वाविंशः ॥
-
 
 (२३) शीलवर्गः
 
@@ -5569,7 +5517,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति शीलवर्गस्त्रयोविंशः ॥
 
-
 (२४) क्षान्तिवर्गः
 
 क्षमाभूषणेनैव भूषितो भवति पुमान्
@@ -5629,7 +5576,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति क्षान्तिवर्गश्चतुर्विंशः ॥
 
-
 (२५) वीर्यवर्गः
 
 देशक्रियायुक्तानि कार्याणि सिद्धयन्ति
@@ -5668,7 +5614,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 प्रयात्यनुत्तमं स्थानं जरामरणवर्जितम् ॥ २५.१० ॥
 
 ॥ इति वीर्यवर्गः पञ्चविंशः ॥
-
 
 (२६) ध्यानवर्गः
 
@@ -5730,7 +5675,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति ध्यानवर्गः षड्विंशः ॥
 
-
 (२७) प्रज्ञावर्गः
 
 प्रज्ञा मातेव हितकारिणी
@@ -5782,7 +5726,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति प्रज्ञावर्गः सप्तविंशः ॥
 
-
 (२८) निर्वाणवर्गः
 
 क्लेशक्षय एव निर्वाणमार्गः
@@ -5823,7 +5766,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 शुभकारी शुभान्वेषी निर्वाणमधिगच्छति ॥ २८.९ ॥
 
 ॥ इति निर्वाणवर्गोऽष्टाविंशः ॥
-
 
 (२९) मार्गवर्गः
 
@@ -5914,7 +5856,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 तदा क्षेमं शिवं स्थानं प्राप्नोति पुरुषोत्तमः ॥ २९.२३ ॥
 
 ॥ इति मार्गवर्ग एकोनत्रिंशः ॥
-
 
 (३०) भिक्षुवर्गः
 
@@ -6398,15 +6339,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 **----------------------------------------**
 
-
-
 **अथ चतुर्थमुदानम्**
-
-
 
 (पुण्यदेवसुखैर्मित्रराजस्तुतिभिरन्विताः ।  
 सद्धर्मस्मृतिवैपुल्यै गृहीतोऽयं समुच्चयः ॥ ) ॥
-
 
 (३१) पुण्यवर्गः
 
@@ -6654,7 +6590,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 प्राप्य जन्मान्तर चापि निर्वृतिं चाशु गच्छति ॥ ३१.६५ ॥
 
 ॥ इति पुण्यवर्ग एकत्रिंशः ॥
-
 
 (३२) देववर्गः
 
@@ -7010,7 +6945,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति देववर्गो द्वात्रिंशः ॥
 
-
 (३३) सुखवर्गः
 
 सुखस्वरूपनिरूपणम्
@@ -7228,7 +7162,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति सुखवर्गो त्रयस्त्रिंशः ॥
 
-
 (३४) मित्रवर्गः
 
 कः पापान्निवारयति?
@@ -7295,7 +7228,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 तस्मात्कुलं ज्ञानमयं ज्ञानहीनं न तत्कुलम् ॥ ३४.२१ ॥
 
 ॥ इति मित्रवर्गश्चतुस्त्रिंशः ॥
-
 
 (३५) राजाववादवर्गः
 
@@ -7419,7 +7351,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति राजाववादवर्गः पञ्चत्रिंशः ॥
 
-
 (३६) स्तुतिवर्गः
 
 बुद्धस्तुतिः
@@ -7459,12 +7390,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 ॥ इति स्तुतिवर्गः षट्त्रिंशः ॥
 
-
 पुण्यदेवसुखैर्मित्रराजस्तुतिभिरन्विताः ।  
 सद्धर्मस्मृतिवैपुल्यै गृहीतोऽयं समुच्चयः ॥
 
 **॥ इति चतुर्थमुदानम् ॥**
-
 
 ये च धर्मा हेतुभवा तेषां तथागतोऽवदत् ।  
 तेषां च यो निरोधश्चैवंवादीमहाश्रमणः ॥
@@ -7480,15 +7409,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgwMTM5MTgw
 
 **-------------------------------------------------**  
 \\Z
-
-
-
-
-
-
-
-
-
-
 
 \]

@@ -13,13 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEyOTQ3MTk5Mzc
 
 \[
 
-
-
-
-
 **क्रियासंग्रहकारिका**
-
-
 
 परीक्षा गुरुशिष्याणां गुरोरध्येषणा ततः ।  
 मन्त्रसेवां गुरुः कुर्यात्ततो भूमेः परीक्षणम् ॥ १ ॥
@@ -57,8 +51,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEyOTQ3MTk5Mzc
 **-----------------------------------------------**
 
 **\\Z**
-
-
-
 
 \]

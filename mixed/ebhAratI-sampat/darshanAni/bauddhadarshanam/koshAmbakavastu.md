@@ -12,15 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk3NjA1NTk5Nzc
 
 \[
 
-
-
-
-
 (१७१)  
 
 **कोशाम्बकवस्तु**
-
-
 
 (१७३) (२८० १ = ६.८७३)  
 \<कोशाम्बकवस्तुनि\> उद्दानम्\* ॥
@@ -138,8 +132,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk3NjA1NTk5Nzc
 **कोशाम्बकवस्तु समाप्तम्\* ॥\\Z**
 
 **-------------------------------------------------**
-
-
-
 
 \]

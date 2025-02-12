@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1MTY5NDQzMDU
 
 \[
 
-
-
-
-
 **अहोरात्रव्रतचैत्यसेवानुशंसावदनम्**
-
-
 
 ओं नमो रत्नत्रयाय ।
 
@@ -860,8 +854,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1MTY5NDQzMDU
 संवत्३२ आश्विने मासे ?कृष्णपक्षे लिख एतत्पम्. मुदा ए}  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 \\Z
-
-
-
 
 \]

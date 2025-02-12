@@ -12,15 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNDMyNjUzMjY
 
 \[
 
-
-
-
-
-
-
 **अचिन्त्यस्तव**
-
-
 
 प्रतीत्यजानां भावानां नैःस्वाभाव्यं जगाद यः ।  
 तं नमाम्यसमज्ञानमचिन्त्यमनिदर्शनम् ॥ ०१
@@ -202,8 +194,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNDMyNjUzMjY
 **॥ इत्यचिन्त्यस्तवः समाप्तः ॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
-
 
 \]

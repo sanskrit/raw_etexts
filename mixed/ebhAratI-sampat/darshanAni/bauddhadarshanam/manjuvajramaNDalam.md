@@ -12,17 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI5NDIzNTA5MTg
 
 \[
 
-
-
-
-
-
-
 (२२३)  
 
 **ओं नमः श्रीवज्रसत्त्वाय ॥**
-
-
 
 ज्योतिभिर्विजितं यदस्य जगतीं जिष्ण्वन्तरत्वतमो (?)  
 यच्चाद्वैतदशार्णसत्यपि परीणामो गुणौघः श्रियाम् ।  
@@ -78,8 +70,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI5NDIzNTA5MTg
 **-----------------------------------------**
 
 \\Z
-
-
-
 
 \]

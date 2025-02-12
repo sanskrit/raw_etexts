@@ -16,18 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyNzIwNzA4NjY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 APPENDIX TO J. B. O. R. S., VOLS. XXI & XXII  
@@ -2190,16 +2178,5 @@ APPENDIX. J.
 1XXX
 
 ----------
-
-
-
-
-
-
-
-
-
-
-
 
 \]

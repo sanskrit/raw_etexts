@@ -13,22 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQwODI2NTUwMjQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **दीपंकरभद्र गुह्यसमाजमण्डलविधिः**
-
 
 नमो वज्रसत्त्वाय ॥
 
@@ -1374,14 +1359,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQwODI2NTUwMjQ
 \\Z
 
 ---------------------------------------------------------
-
-
-
-
-
-
-
-
-
 
 \]

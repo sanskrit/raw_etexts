@@ -13,24 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgyMzcxNjA3OTY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **शिष्यलेखः**
-
 
 ओं नमो रत्नत्रयाय ॥
 
@@ -269,16 +252,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgyMzcxNjA3OTY
 **। कृतिराचार्यचन्द्रगोमिपादस्य ॥\\Z**
 
 **-------------------------------------------------**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

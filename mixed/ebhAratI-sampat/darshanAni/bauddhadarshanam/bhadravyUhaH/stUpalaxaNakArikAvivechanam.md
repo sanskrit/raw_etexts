@@ -13,25 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNTgzNzg2OTQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **स्तूपलक्षणकारिकाविवेचनम् ।**
-
-
 
 इन्च्लुदिन्ग्  
 प्रकीर्णकचैत्यलक्षणम् ।
@@ -198,19 +180,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNTgzNzg2OTQ
 स्तुपलक्षणकारिकायां विवेचनं वुद्ज (?)  
 २ संवत्\\\\Z
 
-
-
 **----------------------------------------------------**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

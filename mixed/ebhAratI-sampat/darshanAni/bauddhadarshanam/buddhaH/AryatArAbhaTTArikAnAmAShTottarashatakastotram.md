@@ -13,16 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY1NzY1MzcyNDc
 
 \[
 
-
-
-
-
-
-
 **आर्यताराभट्टारिकानामाष्टोत्तरशतकस्तोत्रम्**
-
-
-
 
 ओं नमः श्रीमदार्यतारायै
 
@@ -147,8 +138,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY1NzY1MzcyNDc
 
 **---------------------------------------------**  
 \\Z
-
-
-
 
 \]

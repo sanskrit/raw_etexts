@@ -15,15 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMxNDMyODAxODk
 
 \[
 
-
-
-
-
-
-
 **चित्तोत्पादसंवरविधिक्रमः**
-
-
 
 नमो मञ्जुश्रिये कुमारभूताय
 
@@ -89,8 +81,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMxNDMyODAxODk
 --------------------------------------------------
 
 \\\\\\\\Z
-
-
-
 
 \]

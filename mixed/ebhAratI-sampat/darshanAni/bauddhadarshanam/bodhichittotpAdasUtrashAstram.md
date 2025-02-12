@@ -12,15 +12,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 \[
 
-
-
-
-
 **बोधिचित्तोत्पादसूत्रशास्त्र**
 
 **प्रथमो वर्गः**
-
-
 
 अध्येषणोत्पादः  
 नमाम्यपर्यन्ततथाअतान् गतान्  
@@ -50,15 +44,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 **-------------------------------------------------------**  
 
-
-
-
-
-
-
 **द्वितीयो वर्गः**
-
-
 
 बोधिचित्तोत्पादः
 
@@ -90,13 +76,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 ---------------------------------------------------------
 
-
-
-
-
 **तृतियो वर्गः**
-
-
 
 प्रतिधानम्
 
@@ -126,17 +106,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 **---------------------------------------------**
 
-
-
-
-
-
-
-
-
 **चतुर्थो वर्गः**
-
-
 
 दानपारमिता
 
@@ -159,14 +129,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 **------------------------------------------------------------**
 
-
-
-
-
-
 **पंचमो वर्गः**
-
-
 
 शीलपारमिता
 
@@ -194,14 +157,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 **-------------------------------------------------**
 
-
-
-
-
-
 **षष्ठो वर्गः**
-
-
 
 क्षान्तिपारमिता
 
@@ -232,13 +188,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 **---------------------------------------------**
 
-
-
-
-
 **सप्तमो वर्गः**
-
-
 
 वीर्यपारमिता  
 १ । बोधिसत्त्वः कथमाचरति वीर्यम् । वीर्यमात्मपरोभयलाभायचेदेवंविधं वीर्यं निष्पादयति बोधिमार्गम् । बोधिसत्त्वः कामयते विनेतुं सत्त्वानापर्हतुं दुःखान्याचरति तस्माद्वीर्यम् । वीर्यमाचरन्सर्वाध्वसु सर्वदोत्साहचर्यया संगृह्णाति परिशूद्धं ब्रह्मचर्यं परिहरति कौसीद्यं न च चित्तेन प्रमाद्यति । कृच्छ्रेष्वहितापक्षवस्तुषु सर्वदास्य वीर्यवत्तया चित्तं नान्ततः प्रत्यावर्तत इति बोधिसत्त्वस्यादि वीर्यचित्तम् ॥
@@ -263,15 +213,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 **------------------------------------------------------**
 
-
-
-
-
-
-
 **अष्टमो वर्गः**
-
-
 
 ध्यामपारमिअता
 
@@ -303,15 +245,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 **-------------------------------------------------------------**
 
-
-
-
-
-
-
 **नवमो वर्गः**
-
-
 
 प्रज्ञापारमिता
 
@@ -336,15 +270,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 **-----------------------------------------------------**
 
-
-
-
-
-
-
 **दशमो वर्गः**
-
-
 
 तथाताधर्ममुखं
 
@@ -360,15 +286,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 **-----------------------------------------------------------**
 
-
-
-
-
-
-
 **एकदशो वर्गः**
-
-
 
 शून्यालक्षणं
 
@@ -390,12 +308,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 **----------------------------------------------------**
 
-
-
-
-
-
-
 **द्वादशो वर्गः**
 
 पुण्यपरिग्रहः
@@ -413,7 +325,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njk4MzAyNzEy
 
 **-----------------------------------------------------------  
 \\Z**
-
-
 
 \]

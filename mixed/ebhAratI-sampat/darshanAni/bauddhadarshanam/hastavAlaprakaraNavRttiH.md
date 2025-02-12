@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM3Nzk1MDQwNjI
 
 \[
 
-
-
-
-
 **हस्तवालप्रकरणवृत्तिः**
-
-
 
 मञ्जुश्रीये ज्ञानसत्त्वाय
 
@@ -43,8 +37,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM3Nzk1MDQwNjI
 क्लेशन् सर्वसं त्यक्तुमन यतेत परमार्थतः ॥ ६ ॥
 
 \\Z--------------------------------------------------
-
-
-
 
 \]

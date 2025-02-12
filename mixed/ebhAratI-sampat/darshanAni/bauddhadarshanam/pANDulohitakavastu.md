@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwNzM1Njg4MTY
 
 \[
 
-
-
-
-
 **पाण्डुलोहितकवस्तु**
-
-
 
 ०.१ (२८८ १ = ग्ब्म् ८८९) ॥ वस्तूद्दानम्\* ॥  
 पाण्डुलोहितकानां वस्तू पुद्गलानां तथैव च श्  
@@ -257,8 +251,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwNzM1Njg4MTY
 **॥ पाण्डुलोहितकवस्तु समाप्तः ॥\\Z**
 
 **----------------------------------------------**
-
-
-
 
 \]

@@ -15,13 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MDc4OTkyMjA
 
 \[
 
-
-
-
-
 **आर्यचतुर्धर्मनिर्देशसूत्रम्**
-
-
 
 (पापशोधनोपायभूतं चतुःप्रतिपक्षबलनिर्देशसूत्रम्)
 
@@ -41,6 +35,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MDc4OTkyMjA
 ॥ भवतु सर्वमङ्गलम् ॥ \\Z
 
 -----------------------------------------------------------
-
 
 \]
