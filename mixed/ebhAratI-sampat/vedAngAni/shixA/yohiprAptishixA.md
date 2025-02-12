@@ -12,7 +12,22 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUxMzAyNzc5Mjk
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 **योहिप्राप्तिशिक्षा ।**
+
+
 
 श्रीमद्गणेशं प्रणिपत्य देवान्श्रीसूर्यनारायणसुप्रसादात्  
 वक्ष्ये क्रियाया स्वरलक्षणं तद्यद्धोमकन्यापुरसूरिभट्टः १  
@@ -63,5 +78,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUxMzAyNzc5Mjk
 **इति योहिप्राप्तिमूलं समाप्तम् \।**
 
 **----------------------------------------**
+
+
+
+
+
+
+
+
+
+
+
 
 \]

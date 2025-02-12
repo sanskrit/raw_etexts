@@ -13,7 +13,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 ***भर्तृहरि वाक्यपदीयम्‌***
+
+
+
+
 
 १ काण्ड
 
@@ -750,6 +766,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 उभयेषां अविच्छेदादन्यशब्दविवक्षया ।
 
 योऽन्यः प्रयुज्यते शब्दो न सोऽर्थस्याभिधायकः । । १.१८३ । ।
+
+
+
+
 
 आख्यातं शब्दसंघातो जातिः संघातवर्तिनी ।
 
@@ -2713,6 +2733,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 
 अनुपासितवृद्धानां विद्या नातिप्रसीदति । । २.४९० । ।
 
+
+
+
+
 ३,१ः जातिसमुद्देश
 
 द्विधा कैश्चित्पदं भिन्नं चतुर्धा पञ्चधापि वा ।
@@ -3155,6 +3179,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 
 अर्थरूपविविक्तं च स्वरूपं नावधार्यते । । ३,१.११० । ।
 
+
+
+
+
 ३,२ः ढ्रव्यसमुद्देशः
 
 आत्मा वस्तु स्वभावश्च शरीरं तत्त्वं इत्यपि ।
@@ -3228,6 +3256,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 अजन्मनि तथा नित्ये पौर्वापर्यविवर्जिते ।
 
 तत्त्वे जन्मादिरूपत्वं विरुद्धं उपलभ्यते । । ३,२.१८ । ।
+
+
 
 ३.३ः Sअंबन्धसमुद्देश
 
@@ -3583,6 +3613,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 
 शास्त्रे पदार्थः कार्यार्थं लौकिकः प्रविभज्यते । । ३,३.८८ । ।
 
+
+
 ३,४ः भूयोद्रव्यसमुद्देशः
 
 संसर्गरूपात्संभूताः संविद्रूपादपोद्धृताः ।
@@ -3596,6 +3628,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 वस्तूपलक्षणं यत्र सर्वनाम प्रयुज्यते ।
 
 द्रव्यं इत्युच्यते सोऽर्तो भेद्यत्वेन विवक्शितः । । ३,४.३ । ।
+
+
 
 ३,५ः ङुणसमुदेश
 
@@ -3634,6 +3668,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 अरूपं पररूपेण द्रव्यं आख्यायते यथा ।
 
 अप्रकर्षं प्रकर्षेण गुणस्याविश्यते तथा । । ३,५.९ । ।
+
+
 
 ३,६ः ढिक्समुद्देश
 
@@ -3748,6 +3784,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 नैकत्वं व्यवतिष्ठेत नानात्वं चेन्न कल्पयेत् ।
 
 नानात्वं चावहीयेत यद्येकत्वं न कल्पयेत् । । ३,६.२८ । ।
+
+
 
 ३,७ः Sआधनसमुद्देश
 
@@ -4159,6 +4197,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 
 \[इति करणाधिकारः\]
 
+
+
 \[अथ कर्त्रधिकारः\]
 
 प्रागन्यतः शक्तिलाभान्न्यग्भावापादनादपि ।
@@ -4309,6 +4349,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 
 \[इति संप्रदानाधिकारः\]
 
+
+
 \[अथापादानाधिकारः\]
 
 निर्दिष्टविषयं किं चिदुपात्तविषयं तथा ।
@@ -4448,6 +4490,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 तस्माद्यत्करणं द्रव्यं तत्कर्म न पुनर्भवेत् ।
 
 सर्वस्य वान्यथाभावस्तस्य द्रव्यात्मनो भवेत् । । ३,७.१६७ । ।
+
+
 
 ३,८ः क्रियासमुद्देश
 
@@ -4706,6 +4750,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 आचार्यो मातुलश्चेति यथैको व्यपदिश्यते ।
 
 सम्बन्धिभेदादर्थात्मा स विधिः पक्तिभावयोः । । ३,८.६४ । ।
+
+
 
 ३,९ः कालसमुद्देशः
 
@@ -5161,6 +5207,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 
 स्वस्मिन्नात्मनि तत्रान्यद्भूतं भावि च कथ्यते । । ३,९.११४ । ।
 
+
+
 ३,१०ः पुरुषसमुद्देश
 
 प्रत्यक्ता परभावश्चाप्युपाधी कर्तृकर्मनोः ।
@@ -5198,6 +5246,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 योऽश्वे यः पीठ इत्यत्र भूतयोरश्वपीठयोः ।
 
 यथोपलक्षणार्थत्वं तथार्थेष्वनुशासनम् । । ३,१०.९ । ।
+
+
 
 ३,११ः Sअंख्यासमुद्देश
 
@@ -5329,6 +5379,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 
 एकादीनां प्रसिद्ध्या तु संख्येयार्थत्वं उच्यते । । ३,११.३२ । ।
 
+
+
 ३,१२ः ऊपग्रहसमुद्देश
 
 य आत्मनेपदाद्भेदः क्व चिदर्थस्य गम्यते ।
@@ -5438,6 +5490,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 अत्र तूपपदेनायं अर्थभेदः प्रतीयते ।
 
 प्राप्ते विभाषा क्रियते तस्मान्नात्रात्मनेपदम् । । ३,१२.२७ । ।
+
+
 
 ३,१३ः लिङ्गसमुद्देश
 
@@ -5564,6 +5618,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 नावश्यं विषयत्वेन निमित्तं व्यवतिष्ठते ।
 
 इन्द्रियादि यथादृष्टं भेदहेतुस्तदिष्यते । । ३,१३.३१ । ।
+
+
 
 ३,१४ः वृत्तिसमुद्देश
 
@@ -8067,6 +8123,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3NDYyOTE2MjQ
 
 शुक्लादौ सति निष्पन्ने वाहीको न द्विरुच्यते । । ३,१४.६२५ । ।
 
+
+
 इति भर्तृहरिकृतं वाक्यपदीयं समाप्तं
+
+
+
+
+
+
+
+
+
+
+
 
 \]

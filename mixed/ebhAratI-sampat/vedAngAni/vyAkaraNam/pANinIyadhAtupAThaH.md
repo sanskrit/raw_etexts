@@ -12,27 +12,43 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 \[
 
+
+
 पाणिनीयः धातुपाठः
+
+
+
+
 
 0
 
 भूवादयः
 
+
+
 0
 
 उदात्ताः
+
+
 
 0
 
 परस्मैभाषः
 
+
+
 1
 
 भू सत्तायाम्
 
+
+
 02
 
 तवर्गीय अन्ताः अनुदात्त इतः
+
+
 
 2
 
@@ -44,6 +60,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 बाधृ विलोडने
 
+
+
 6
 
 नाधृ 7
@@ -51,6 +69,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 नाथृ याच्ञा उपताप ऐश्वर्य आशीःषु 8
 
 दध धारणे
+
+
 
 9
 
@@ -60,6 +80,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वदि अभिवादन स्तुत्योः
 
+
+
 12
 
 भदि कल्याणे सुखे च 13
@@ -67,6 +89,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 मदि स्तुति मोद मद स्वप्न कान्ति गतिषु 14
 
 स्पदि किञ्चित्चलने
+
+
 
 15
 
@@ -80,6 +104,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्वर्द आस्वादने
 
+
+
 20
 
 उर्द माने क्रीडायाम् च 21
@@ -90,6 +116,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गुर्द गुद क्रीडायाम् एव
 
+
+
 24
 
 गुद क्रीडायाम् एव 25
@@ -98,6 +126,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ह्यद अव्यक्ते शब्दे
 
+
+
 27
 
 ह्लादी सुखे अव्यक्तेशब्दे 28
@@ -105,6 +135,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 स्वाद आस्वादने 29
 
 पर्द कुत्सिते शब्दे
+
+
 
 30
 
@@ -120,15 +152,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 श्रथि शैथिल्ये
 
+
+
 36
 
 ग्रथि कौटिल्ये 37
 
 कत्थ श्लाघायाम्
 
+
+
 03
 
 तवर्गीयउअन्ताः उदात्तउइतः
+
+
 
 38
 
@@ -139,6 +177,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 च्युतिर् आसेचने 41
 
 श्च्युतिर् क्षरणे
+
+
 
 42
 
@@ -152,6 +192,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 लुथि
 
+
+
 47
 
 मथि हिंसा संक्लेशयोः 48
@@ -159,6 +201,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 षिध गत्याम् 49
 
 षिधू शास्त्रे माङ्गल्ये च
+
+
 
 50
 
@@ -170,6 +214,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गद व्यक्तायाम् वाचि
 
+
+
 54
 
 रद विलेखने 55
@@ -180,6 +226,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 नर्द
 
+
+
 58
 
 गर्द शब्दे 59
@@ -189,6 +237,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 कर्द कुत्सिते शब्दे 61
 
 खर्द दन्दशूके
+
+
 
 62
 
@@ -202,6 +252,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गडि वदनएकदेशे
 
+
+
 67
 
 णिदि कुत्सायाम् 68 (
@@ -209,6 +261,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 टु)नदि समृद्धौ 69
 
 चदि आह्लादे दीप्तौ च
+
+
 
 70
 
@@ -222,13 +276,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्लिदि परिदेवने
 
+
+
 75
 
 शुन्ध शुद्धौ
 
+
+
 04
 
 कवर्गीयउअन्ताः अनुदात्तउइतः
+
+
 
 76
 
@@ -242,6 +302,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ध्रेकृ शब्द उत्साहयोः
 
+
+
 81
 
 रेकृ शङ्कायाम् 82
@@ -254,6 +316,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 श्रकि
 
+
+
 86
 
 श्लकि गत्यर्थाः 87
@@ -263,6 +327,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 अकि लक्षणे 89
 
 वकि कौटिल्ये
+
+
 
 90
 
@@ -275,6 +341,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 वृक आदाने 94
 
 चक तृप्तौ प्रतिघाते च
+
+
 
 95
 
@@ -292,6 +360,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ष्वष्क
 
+
+
 102
 
 वस्क 103
@@ -308,6 +378,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 रघि
 
+
+
 109
 
 लघि गत्यर्थाः 109
@@ -317,6 +389,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 अघि 111
 
 वघि
+
+
 
 112
 
@@ -330,6 +404,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 द्राघृ
 
+
+
 116
 
 ध्राघृ सामथ्र्ये 115
@@ -340,9 +416,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 श्लाघृ कत्थने
 
+
+
 05
 
 कवर्गीयउअन्ताः उदात्तउइतः
+
+
 
 118
 
@@ -353,6 +433,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 तकि कृच्छ्रजीवने 121
 
 बुक्क भषणे
+
+
 
 122
 
@@ -368,6 +450,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 द्राखृ
 
+
+
 128
 
 ध्राखृ शोषण अलमर्थयोः 129
@@ -379,6 +463,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 उख 132
 
 उखि
+
+
 
 133
 
@@ -396,6 +482,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 रख गत्यर्थाः
 
+
+
 140
 
 रखि 141
@@ -411,6 +499,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 ईख 146
 
 मुखि/थकि
+
+
 
 147
 
@@ -428,6 +518,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 लगि
 
+
+
 154
 
 अगि 155
@@ -441,6 +533,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 त्वगि/त्रगि 160
 
 श्रगि
+
+
 
 161
 
@@ -456,6 +550,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 त्वगि कम्पने
 
+
+
 166
 
 युगि 167
@@ -468,6 +564,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 दघि पालने (त्यागे/वर्जने)
 
+
+
 171
 
 लघि शोषणे 172
@@ -476,9 +574,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शिघि आघ्राणे
 
+
+
 06
 
 चवर्गीयअन्ताः अनुदात्तइतः
+
+
 
 174
 
@@ -489,6 +591,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 लोचृ दर्शने 177
 
 शच व्यक्तायाम्अवाचि
+
+
 
 178
 
@@ -502,6 +606,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 काचि दीप्ति बन्धनयोः
 
+
+
 183
 
 मच 184
@@ -512,6 +618,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 पचि व्यक्तीकरणे
 
+
+
 187
 
 ष्टुच प्रसादे 188
@@ -519,6 +627,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 ऋज गति स्थान अर्जन उपार्जनेषु 189
 
 ऋजि
+
+
 
 190
 
@@ -532,15 +642,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 रेजृ दीप्तौ
 
+
+
 195
 
 ईज गति कुत्सनयोः 196
 
 वीज गतौ
 
+
+
 07
 
 चवर्गीयउअन्ताः उदात्तउइतः
+
+
 
 197
 
@@ -551,6 +667,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 कुञ्च 200
 
 क्रुञ्च कौटिल्य अल्पीभावयोः
+
+
 
 201
 
@@ -564,6 +682,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 तञ्चु
 
+
+
 206
 
 त्वञ्चु 207
@@ -575,6 +695,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 म्रुचु 210
 
 म्लुचु गत्यर्थाः
+
+
 
 211
 
@@ -588,6 +710,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ग्लुञ्च
 
+
+
 216
 
 षस्ज गतौ 217
@@ -595,6 +719,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 गुजि अव्यक्ते शब्दे 218
 
 अर्च पूजायाम्
+
+
 
 219
 
@@ -606,6 +732,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वाछि इच्छायाम्
 
+
+
 223
 
 आछि आयामे 224
@@ -613,6 +741,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 ह्यीछ लज्जायाम् 225
 
 हुर्छा कौटिल्ये
+
+
 
 226
 
@@ -623,6 +753,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 युछ प्रमादे 229
 
 उछि उञ्छे
+
+
 
 230
 
@@ -640,6 +772,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 धृजि
 
+
+
 237
 
 ध्वज 238
@@ -652,6 +786,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अर्ज
 
+
+
 242
 
 षर्ज अर्जने 243
@@ -661,6 +797,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 तर्ज भत्र्सने 245
 
 कर्ज व्यथने
+
+
 
 246
 
@@ -672,6 +810,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 खज मन्थे
 
+
+
 250
 
 कज मदे 251
@@ -681,6 +821,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 एजृ कम्पने 253 (
 
 टुओ)स्फूर्जा वज्र निर्घोषे
+
+
 
 264
 
@@ -696,6 +838,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मुजि शब्दअअर्थः
 
+
+
 254
 
 क्षि क्षये 255
@@ -708,6 +852,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 लाज
 
+
+
 259
 
 लाजि भर्जने भत्र्सने च 260
@@ -717,6 +863,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 जजि युद्धे 262
 
 तुज हिंसायाम्
+
+
 
 263
 
@@ -732,6 +880,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गृजि
 
+
+
 268
 
 मुज 269
@@ -742,9 +892,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 व्रज गतौ
 
+
+
 08
 
 टवर्गीयअन्ताः अनुदात्तइतः
+
+
 
 272
 
@@ -753,6 +907,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 वेष्ट वेष्टने 274
 
 चेष्ट चेष्टायाम्
+
+
 
 275
 
@@ -763,6 +919,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 घट्ट चलने 278
 
 स्फुट विकसने
+
+
 
 279
 
@@ -776,6 +934,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मुठि पालने
 
+
+
 284
 
 हेठ 285
@@ -785,6 +945,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 हिडि गति अनादरयोः 287
 
 हुडि सङ्घाते
+
+
 
 288
 
@@ -798,6 +960,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 पिडि संघाते
 
+
+
 293
 
 मुडि मार्जने 294
@@ -808,6 +972,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्फुडि विकसने
 
+
+
 297
 
 चडि कोपे 298
@@ -817,6 +983,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 तडि ताडने 300
 
 पडि गतौ
+
+
 
 301
 
@@ -830,6 +998,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 बाडृ आप्लाव्ये
 
+
+
 306
 
 द्राडृ 307
@@ -838,11 +1008,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शाडृ श्लाघायाम्
 
+
+
 0
 
 ॠ9
 
 टवर्गीयउअन्ताः उदात्तउइतः
+
+
 
 309
 
@@ -856,6 +1030,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मेटृ उन्मादे
 
+
+
 314
 
 चटे 315
@@ -868,6 +1044,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 रट परिभाषणे
 
+
+
 319
 
 लट बाल्ये 320
@@ -877,6 +1055,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 वट वेष्टने 322
 
 किट
+
+
 
 323
 
@@ -890,6 +1070,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 झट संघाते
 
+
+
 328
 
 भट भृतौ 329
@@ -900,6 +1082,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 नट नृतौ
 
+
+
 332
 
 पिट शब्द संघातयोः 333
@@ -909,6 +1093,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 षट अवयवे 335
 
 लुट विलोडने
+
+
 
 336
 
@@ -922,6 +1108,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 किट
 
+
+
 341
 
 कटी गतौ 342
@@ -931,6 +1119,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 मडि भूषायाम् 344
 
 कुडि वैकल्ये
+
+
 
 345
 
@@ -944,6 +1134,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 लुटि स्तेये
 
+
+
 350
 
 वटि विभाजने 351
@@ -954,6 +1146,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वठ स्थौल्ये
 
+
+
 354
 
 मठ मद निवासयोः 355
@@ -961,6 +1155,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 कठ कृच्छ्रअजीवने 356
 
 रठ परिभाषणे
+
+
 
 357
 
@@ -972,6 +1168,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 उठ उपघाते
 
+
+
 361
 
 पिठ हिंसा संक्लेशनयोः 362
@@ -980,11 +1178,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शुठ
 
+
+
 364
 
 कुठि गतिअप्रतिघाते 365
 
 लुठि आलस्ये प्रतिघाते च
+
+
 
 366
 
@@ -998,6 +1200,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अड्ड अभियोगे
 
+
+
 371
 
 कड्ड कार्कश्ये 372
@@ -1007,6 +1211,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 तुडृ तोडने 374
 
 हुडृ/हूडृ
+
+
 
 375
 
@@ -1020,6 +1226,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अड उद्यमे
 
+
+
 380
 
 लड विलासे 381
@@ -1030,11 +1238,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गडि वदनअएकदेशे
 
+
+
 0
 
 ॠ10
 
 पवर्गीयउअन्ताः अनुदात्तउइतः
+
+
 
 384
 
@@ -1048,6 +1260,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 तेपृ कम्पने
 
+
+
 388
 
 ग्लेपृ दैन्ये 389 (
@@ -1059,6 +1273,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 गेपृ 392
 
 ग्लेपृ कम्पने
+
+
 
 393
 
@@ -1072,6 +1288,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 त्रपूष् लज्जायाम्
 
+
+
 398
 
 कपि चलने 399
@@ -1083,6 +1301,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 अबि शब्दे 402
 
 लबि अवरुांसने च
+
+
 
 403
 
@@ -1098,6 +1318,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 चीभृ कत्थने
 
+
+
 408
 
 रेभृ 409
@@ -1110,6 +1332,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्कभि प्रतिबन्धे
 
+
+
 413
 
 जभि 414
@@ -1119,6 +1343,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 शल्भ कत्थने 416
 
 वल्भ भोजने
+
+
 
 417
 
@@ -1130,11 +1356,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ष्टुभु स्तम्भे
 
+
+
 0
 
 ॠ11
 
 पवर्गीयउअन्ताः उदात्तउइतः
+
+
 
 420
 
@@ -1143,6 +1373,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 धूप सन्तापे 422
 
 जप व्यक्तायाम्अवाचि मानसे च
+
+
 
 423
 
@@ -1156,6 +1388,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 रप
 
+
+
 427
 
 लप व्यक्तायाम्अवाचि 428
@@ -1163,6 +1397,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 चुप मन्दायाम्अगतौ 429
 
 तुप
+
+
 
 430
 
@@ -1178,6 +1414,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 त्रुफ
 
+
+
 436
 
 त्रुम्फ हिंसाअअर्थाः 437
@@ -1191,6 +1429,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 अर्ब 441
 
 पर्ब
+
+
 
 442
 
@@ -1208,6 +1448,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शर्ब
 
+
+
 449
 
 षर्ब 450
@@ -1219,6 +1461,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 लुबि 453
 
 तुबि अर्दने
+
+
 
 454
 
@@ -1232,11 +1476,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शुम्भ भासने
 
+
+
 0
 
 ॠ12
 
 अनुनासिकउअन्ताः अनुदात्तउइतः
+
+
 
 459
 
@@ -1250,6 +1498,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 घूर्ण भ्रमणे
 
+
+
 464
 
 पण व्यवहारे स्तुतौ च 465
@@ -1260,15 +1510,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्षमूष् सहने
 
+
+
 468
 
 कमु कान्तौ
+
+
 
 0
 
 ॠ13
 
 अनुनासिकउअन्ताः उदात्तउइतः
+
+
 
 469
 
@@ -1288,6 +1544,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 व्रण
 
+
+
 477
 
 भ्रण 478
@@ -1300,6 +1558,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शोणृ वर्ण गत्योः
 
+
+
 482
 
 श्रोणृ 483
@@ -1309,6 +1569,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 पैणृ गति प्रेरण श्लेषणेषु 485
 
 ध्रण शब्दे
+
+
 
 486
 
@@ -1322,6 +1584,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 षण संभक्तौ
 
+
+
 491
 
 अम गतौ शब्दे संभक्तौ 492
@@ -1333,6 +1597,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 मीमृ गतौ 495
 
 चमु
+
+
 
 496
 
@@ -1346,11 +1612,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्रमु पाद विक्षेपे
 
+
+
 0
 
 ॠ14
 
 यरलवउअन्ताः अनुदात्तउइतः
+
+
 
 501
 
@@ -1368,6 +1638,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 णय गतौ
 
+
+
 508
 
 दय दान गति रक्षण हिंस आदानेषु 509
@@ -1375,6 +1647,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 रय गतौ 510
 
 ऊयी तन्तुअसन्ताने
+
+
 
 511
 
@@ -1386,6 +1660,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्फायी
 
+
+
 515 (
 
 ओ)प्यायी वृद्धौ 516
@@ -1393,6 +1669,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 तायृ सन्तान पालनयोः 517
 
 शल चलन संवरणयोः
+
+
 
 518
 
@@ -1406,6 +1684,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 भल
 
+
+
 523
 
 भल्ल परिभाषण हिंस आदानेषु 524
@@ -1413,6 +1693,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 कल शब्द संख्यानयोः 525
 
 कल्ल अव्यक्ते शब्दे
+
+
 
 526
 
@@ -1430,6 +1712,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मेवृ सेवने
 
+
+
 533
 
 म्लेवृ 534
@@ -1444,11 +1728,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 रेवृ प्लव गतौ
 
+
+
 0
 
 ॠ15
 
 यरलवउअन्ताः उदात्तउइतः
+
+
 
 539
 
@@ -1460,6 +1748,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ईष्र्य ईष्र्याअअर्थाः
 
+
+
 543
 
 हय गतौ 544
@@ -1467,6 +1757,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 शुच्य अभिषवे 545
 
 हर्य गति कान्त्योः
+
+
 
 546
 
@@ -1477,6 +1769,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 मील 549
 
 श्मील
+
+
 
 550
 
@@ -1490,6 +1784,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शील समाधौ
 
+
+
 555
 
 कील बन्धने 556
@@ -1499,6 +1795,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 शूल रुजायाम् संघाते च 558
 
 तूल निष्कर्षे
+
+
 
 559
 
@@ -1510,6 +1808,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 चुल्ल भावअकरणे
 
+
+
 563
 
 फुल्ल विकसने 564
@@ -1519,6 +1819,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 तिल गतौ 566
 
 वेलृ
+
+
 
 567
 
@@ -1536,6 +1838,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 फेलृ
 
+
+
 574
 
 शेलृ गतौ 575
@@ -1548,6 +1852,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 षल गतौ
 
+
+
 580
 
 दल विशरणे 581
@@ -1558,6 +1864,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 खोलृ/खोरृ गतिअप्रतिघाते
 
+
+
 584
 
 धोरृ गतिअचातुर्ये 585
@@ -1567,6 +1875,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 क्मर हूर्छने 587
 
 अभ्र
+
+
 
 588
 
@@ -1579,6 +1889,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 भक्षणे 592
 
 ष्ठिवु निरसने
+
+
 
 593
 
@@ -1594,6 +1906,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 णीव स्थौल्ये
 
+
+
 599
 
 उर्वी 600
@@ -1605,6 +1919,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 दुर्वी 603
 
 धुर्वी हिंसाअअर्थः
+
+
 
 604
 
@@ -1618,6 +1934,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मर्व पूरणे
 
+
+
 609
 
 चर्व अदने 610
@@ -1629,6 +1947,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 खर्व 613
 
 गर्व दर्पे
+
+
 
 614
 
@@ -1644,6 +1964,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मिवि
 
+
+
 620
 
 णिवि सेचने 621
@@ -1655,6 +1977,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 धिवि 624
 
 जिवि प्रीणनअअर्थः
+
+
 
 625
 
@@ -1668,23 +1992,33 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मव बन्धने
 
+
+
 630
 
 अव रक्षण गति कान्ति प्रीति तृप्ति अवगम प्रवेश श्रवण स्वाम्यर्थ ट्ठ
+
+
 
 630
 
 याचन क्रिया इच्छा दीप्ति अवाप्ति आलिङ्गन हिंसा दान भाग वृद्धिषु
 
+
+
 631
 
 धावु गति शुद्ध्योः
+
+
 
 0
 
 ॠ16
 
 ऊष्मउअन्ताः अनुदात्तउइतः
+
+
 
 632
 
@@ -1696,17 +2030,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शिक्ष विद्योपादाने
 
+
+
 636
 
 भिक्ष भिक्षायाम् अलाभे लाभे च 637
 
 क्लेश अव्यक्तायाम्अवाचि
 
+
+
 638
 
 दक्ष वृद्धौ शीघ्रअअर्थे च 639
 
 दीक्ष मौण्ड इज्या उपनयन नियम व्रत आदेशेषु
+
+
 
 640
 
@@ -1715,6 +2055,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 ईष गति हिंसा दर्शनेषु 642
 
 भाष व्यक्तायाम्अवाचि
+
+
 
 643
 
@@ -1725,6 +2067,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 येषृ प्रयत्ने 646
 
 जेषृ
+
+
 
 647
 
@@ -1740,6 +2084,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ह्येषृ अव्यक्ते शब्दे
 
+
+
 653
 
 कासृ शब्दअ
@@ -1752,6 +2098,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 रासृ शब्दे
 
+
+
 657
 
 णस कौटिल्ये 658
@@ -1761,6 +2109,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 आङः)शसि इच्छायाम् 660
 
 ग्रसु
+
+
 
 661
 
@@ -1774,6 +2124,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अहि गतौ
 
+
+
 666
 
 गर्ह 667
@@ -1784,6 +2136,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 बल्ह प्राधान्ये
 
+
+
 670
 
 वर्ह 671
@@ -1793,6 +2147,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 प्लिह गतौ 673
 
 वेह्म
+
+
 
 674
 
@@ -1806,6 +2162,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ऊह वितर्के
 
+
+
 679
 
 गाहू विलोडने 680
@@ -1814,11 +2172,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 घुषि कान्तिअकरणे
 
+
+
 0
 
 ॠ17
 
 ऊष्मउअन्ताः उदात्तउइतः
+
+
 
 682
 
@@ -1829,6 +2191,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 तक्षू 685
 
 त्वक्षू तनूअकरणे
+
+
 
 686
 
@@ -1842,6 +2206,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्तृक्ष
 
+
+
 691
 
 णक्ष गतौ 692
@@ -1851,6 +2217,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 मृक्ष संघाते 694
 
 तक्ष त्वचने
+
+
 
 695
 
@@ -1864,6 +2232,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 माक्षि काङ्क्षायाम्
 
+
+
 700
 
 द्राक्षि 701
@@ -1871,6 +2241,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 ध्राक्षि 702
 
 ध्वाक्षि काङ्क्षायाम् घोरवासिते च
+
+
 
 703
 
@@ -1884,6 +2256,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 लूष
 
+
+
 708
 
 रूष भूषायाम् 709
@@ -1895,6 +2269,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 भूष 713
 
 तसि अलंकारे
+
+
 
 714
 
@@ -1912,6 +2288,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 झष
 
+
+
 721
 
 शष 722
@@ -1925,6 +2303,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 रिष हिंसाअअर्थाः 726
 
 भष भत्र्सने
+
+
 
 727
 
@@ -1940,6 +2320,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 पुष पुष्टौ
 
+
+
 733
 
 श्रिषु 734
@@ -1952,6 +2334,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 पृषु
 
+
+
 738
 
 वृषु सेचने हिंसा संक्लेशनयोश्च 739
@@ -1959,6 +2343,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 मृषु सेचने सहने च 740
 
 घृषु संघर्षे
+
+
 
 741
 
@@ -1972,6 +2358,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 रस शब्दे
 
+
+
 746
 
 लस श्लेषण क्रीडनयोः 747
@@ -1981,6 +2369,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 जर्ज 749
 
 चर्च
+
+
 
 750
 
@@ -1996,6 +2386,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 विस
 
+
+
 756
 
 बेस गतौ 757
@@ -2008,6 +2400,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मश शब्दे
 
+
+
 761
 
 शव गतौ 762
@@ -2017,6 +2411,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 शसु हिंसायाम् 764
 
 शंसु स्तुतौ
+
+
 
 765
 
@@ -2029,6 +2425,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 रहि गतौ 769
 
 दृह
+
+
 
 770
 
@@ -2044,11 +2442,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 दुहिर् अर्दने
 
+
+
 775
 
 उहिर् अर्दने 776
 
 अर्ह पूजायाम्
+
+
 
 0
 
@@ -2057,6 +2459,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 द्युतउआदयः(1.3.91; 3.1.55)
 
 अनुदात्तउइतः
+
+
 
 777
 
@@ -2068,6 +2472,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ञि)ष्विदा गात्रप्ररुावणे
 
+
+
 781
 
 रुच दीप्तौ अभिप्रीतौ च 782
@@ -2075,6 +2481,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 घुट परिवर्तने 783
 
 रुट
+
+
 
 784
 
@@ -2088,6 +2496,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 णभ
 
+
+
 789
 
 तुभ हिंसायाम् 790
@@ -2100,6 +2510,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ध्वंसु गतौ च
 
+
+
 793
 
 रुांभु विश्वासे 794
@@ -2110,11 +2522,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शृधु शब्दअकुत्सायाम्
 
+
+
 797
 
 स्यन्दू प्ररुावणे 798
 
 कृपू सामथ्र्ये
+
+
 
 0
 
@@ -2122,11 +2538,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 घटउआदयः म्उइतः(6.4.92)
 
+
+
 0
 
 ॠ19
 
 ठ्ठ अनुदात्तउइतः
+
+
 
 799
 
@@ -2138,6 +2558,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 प्रस विस्तारे
 
+
+
 803
 
 म्रद मर्दने 804
@@ -2147,6 +2569,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 क्षजि गति दानयोः 806
 
 दक्ष गति शासनयोः
+
+
 
 807
 
@@ -2158,15 +2582,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्लदि वैक्लव्ये
 
+
+
 811 (
 
 ञि)त्वरा संभ्रमे प्घटादयः षितःफ्
+
+
 
 0
 
 ॠ19
 
 ड उदात्तउइतः
+
+
 
 812
 
@@ -2180,6 +2610,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 भट परिभाषणे
 
+
+
 817
 
 नट नृत्तौ 818
@@ -2189,6 +2621,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 चक तृप्तौ 820
 
 कखे हसने
+
+
 
 821
 
@@ -2204,6 +2638,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ष्ठगे संवरणे
 
+
+
 827
 
 कगे नोच्यते 828
@@ -2215,6 +2651,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 कण 831
 
 रण गतौ
+
+
 
 832
 
@@ -2232,6 +2670,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्लथ
 
+
+
 839
 
 चन हिंसाअअर्थाः 840
@@ -2241,6 +2681,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 ज्वल दीप्तौ 842
 
 ह्वल
+
+
 
 843
 
@@ -2254,6 +2696,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 श्रा पाके
 
+
+
 848
 
 ज्ञा मारण तोषण निशामनेषु 849
@@ -2262,6 +2706,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 छदिः ऊर्जने
 
+
+
 851
 
 लडिः जिह्वाअउन्मथने 852
@@ -2269,6 +2715,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 मदी हर्ष ग्लेपनयोः 853
 
 ध्वन शब्दे प्घटादयः मितःफ्
+
+
 
 854
 
@@ -2284,13 +2732,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्षपिः शब्दे
 
+
+
 860
 
 स्वन अवतंसने
 
+
+
 प्जनी-जॄष्-क्नसु-रञ्जः अम्उअन्ताश्च;
 
 ज्वल-ह्वल-हृल-नमाम् अनुपसर्गात् वाफ्
+
+
 
 प्ग्ला-स्ना-वनु-वमां च;
 
@@ -2302,6 +2756,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 फ्
 
+
+
 प्स्खदिः अव-परिभ्यां च;
 
 फण गतौ;
@@ -2310,11 +2766,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 फ्
 
+
+
 0
 
 ॠ20
 
 फणउआदयः(6.4.125)
+
+
 
 0
 
@@ -2322,9 +2782,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ठ्ठ उदात्तः उदात्तउइत्
 
+
+
 855
 
 फण गतौ
+
+
 
 0
 
@@ -2332,15 +2796,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ड़ उदात्तः स्वरितउइत्
 
+
+
 856
 
 राजृ दीप्तौ
+
+
 
 0
 
 ॠ20
 
 ड्ड उदात्ताः अनुदात्तउइतः
+
+
 
 857 (
 
@@ -2350,11 +2820,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 टु)भ्लाशृ दीप्तौ
 
+
+
 0
 
 ॠ20
 
 ड्ढ उदात्ताः उदात्तउइतः
+
+
 
 860
 
@@ -2370,17 +2844,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ष्टम वैकल्ये
 
+
+
 0
 
 ॠ21
 
 ज्वलउआदयः(3.1.140)
 
+
+
 0
 
 ॠ21
 
 ठ्ठ उदात्ताः उदात्तउइतः
+
+
 
 866
 
@@ -2394,6 +2874,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ट्वल वैक्लव्ये
 
+
+
 871
 
 ष्ठल स्थाने 872
@@ -2403,6 +2885,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 णल गन्धे 874
 
 पल गतौ
+
+
 
 875
 
@@ -2414,6 +2898,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शल
 
+
+
 881
 
 पति 882
@@ -2423,6 +2909,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 हुल हिंसा संवरणयोः च 883
 
 क्वथे निष्पाके
+
+
 
 884
 
@@ -2434,9 +2922,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 भ्रमु चलने
 
+
+
 888
 
 क्षर सञ्चलने
+
+
 
 0
 
@@ -2444,9 +2936,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ड उदात्तः अनुदात्तउइत्
 
+
+
 889
 
 षह मर्षणे
+
+
 
 0
 
@@ -2454,15 +2950,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ड़ अनुदात्तः अनुदात्तउइत्
 
+
+
 890
 
 रम क्रीडायाम्
+
+
 
 0
 
 ॠ21
 
 ड्ड अनुदात्ताः उदात्तउइतः
+
+
 
 891
 
@@ -2472,11 +2974,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्रुश आह्वाने रोदने च
 
+
+
 0
 
 ॠ21
 
 ड्ढ उदात्तौ उदात्तउइतौ
+
+
 
 894
 
@@ -2484,15 +2990,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 बुध अवगमने
 
+
+
 0
 
 ॠ21
 
 ढ अनुदात्तः उदात्तउइत्
 
+
+
 896
 
 रुह बीजअजन्मनि प्रादुर्भावे च
+
+
 
 0
 
@@ -2500,15 +3012,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ढ़ उदात्तः उदात्तउइत्
 
+
+
 897
 
 कस गतौ प्वृत्फ्
+
+
 
 0
 
 ॠ22
 
 स्वरितउइतः
+
+
 
 898
 
@@ -2517,6 +3035,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 अञ्चु गतौ याचने च 900 (
 
 टु)याचृ याच्ञायाम्
+
+
 
 901
 
@@ -2528,6 +3048,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मिदृ/मेदृ मेधा हिंसनयोः
 
+
+
 905
 
 णिदृ/णेदृ कुत्सा संनिकष्र्योः 906
@@ -2538,11 +3060,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 बुधिर् बोधने
 
+
+
 906 (
 
 उ)बुन्दिर् निशामने 910
 
 वेणृ गति ज्ञान चिन्ता निशामन वादित्र ग्रहणेषु
+
+
 
 911
 
@@ -2551,6 +3077,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 चीवृ आदान संवरणयोः 913
 
 चायृ पूजा निशामनयोः
+
+
 
 914
 
@@ -2562,6 +3090,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 भ्रेषृ/भ्लेषृ गतौ
 
+
+
 918
 
 अस गति दीप्ति आदानेषु 919
@@ -2569,6 +3099,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 अय गतौ 920
 
 स्पश बाधन स्पर्शनयोः
+
+
 
 921
 
@@ -2580,6 +3112,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 झष आदान संवरणयोः
 
+
+
 925
 
 भक्ष अदने 926
@@ -2590,13 +3124,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गुहू संवरणे
 
+
+
 929
 
 श्रिञ् सेवायाम्
 
+
+
 0
 
 ए अनुदात्तउइताः
+
+
 
 0
 
@@ -2604,11 +3144,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अच्उअन्ताः
 
+
+
 0
 
 ए1
 
 ठ्ठ स्वरितउइतः
+
+
 
 930
 
@@ -2622,11 +3166,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 णीञ् प्रापणे
 
+
+
 0
 
 ए1
 
 ड परस्मैपदिनः
+
+
 
 935
 
@@ -2637,6 +3185,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 म्लै हर्षअक्षये 938
 
 द्यै न्यक्करणे
+
+
 
 939
 
@@ -2649,6 +3199,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 रै शब्दे 943
 
 स्त्यै शब्द संघातयोः
+
+
 
 944
 
@@ -2666,6 +3218,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शै पाके
 
+
+
 951
 
 शै 952
@@ -2680,6 +3234,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 दैप् शोधने
 
+
+
 957
 
 पा पाने 958
@@ -2690,6 +3246,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ष्ठा गतिअनिवृत्तौ
 
+
+
 961
 
 म्ना अभ्यासे 962
@@ -2699,6 +3257,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 ह्वृ कौटिल्ये 964
 
 स्वृ शब्द उपतापयोः
+
+
 
 965
 
@@ -2712,6 +3272,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गृ
 
+
+
 970
 
 घृ सेचने 971
@@ -2723,6 +3285,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 षु प्रसव ऐश्वर्ययोः 974
 
 श्रु श्रवणे
+
+
 
 975
 
@@ -2738,11 +3302,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 जु गतौ
 
+
+
 0
 
 ए1
 
 ड़ आत्मनेपदिनः
+
+
 
 981
 
@@ -2753,6 +3321,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 गाङ् गतौ 984
 
 कुङ्
+
+
 
 985
 
@@ -2768,6 +3338,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ज्युङ्
 
+
+
 991
 
 प्रुङ् 992
@@ -2777,6 +3349,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 रुङ् गति रोषणयोः 994
 
 धृङ् अवध्वंसने
+
+
 
 995
 
@@ -2788,15 +3362,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 प्यैङ् वृद्धौ
 
+
+
 999
 
 त्रैङ् पालने
+
+
 
 0
 
 ए1
 
 ड्ड उदात्त आत्मनेपदिनः
+
+
 
 1000
 
@@ -2806,15 +3386,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 डीङ् विहायसाअगतौ
 
+
+
 0
 
 ए1
 
 ड्ढ उदात्त परस्मैपदी
 
+
+
 1003
 
 तॄ प्लवन तरणयोः
+
+
 
 0
 
@@ -2822,11 +3408,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 हल्उअन्ताः
 
+
+
 0
 
 ए2
 
 ठ्ठ अनुदात्तउइतः
+
+
 
 1004
 
@@ -2838,6 +3428,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 बध बन्धने
 
+
+
 1008
 
 रभ राभस्ये 1009 (
@@ -2846,15 +3438,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ष्वञ्ज परिष्वङ्गे
 
+
+
 1011
 
 हद पुरीषअउत्सर्गे
+
+
 
 0
 
 ए2
 
 ड उदात्तउइतः
+
+
 
 1011
 
@@ -2864,6 +3462,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्कन्दिर् गति शोषणयोः
 
+
+
 1014
 
 यभ विपरीतमैथुने 1015
@@ -2871,6 +3471,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 णम प्रह्वत्वे शब्दे च 1016
 
 गमि
+
+
 
 1017
 
@@ -2882,6 +3484,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 त्यज हानौ
 
+
+
 1021
 
 षञ्ज सङ्गे 1022
@@ -2892,6 +3496,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 कृष विलेखने
 
+
+
 1025
 
 दह भस्मीकरणे 1026
@@ -2900,11 +3506,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 कित निवासे रोगापनयने च
 
+
+
 0
 
 ए2
 
 ड़ स्वरितउइतः
+
+
 
 1028
 
@@ -2916,6 +3526,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 षच समवाये
 
+
+
 1032
 
 भज सेवायाम् 1033
@@ -2926,11 +3538,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 त्विष दीप्तौ
 
+
+
 0
 
 ए2
 
 ड्ड यजउआदयः
+
+
 
 0
 
@@ -2940,11 +3556,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्वरित उइतः
 
+
+
 1036
 
 यज देवपूजा संगतिकरण दानेषु 1037 (
 
 डु)वप बीज संताने छेदनेपि
+
+
 
 1038
 
@@ -2956,9 +3576,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 व्येञ् संवरणे
 
+
+
 1042
 
 ह्वेञ् स्पर्धायाम् शब्दे च
+
+
 
 0
 
@@ -2968,6 +3592,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्वरितउइतः
 
+
+
 1043
 
 वद व्यक्तायाम्अवाचि 1039
@@ -2976,13 +3602,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 टु)ओश्वि गति वृद्ध्योः
 
+
+
 1
 
 अद्उआदयः
 
+
+
 1
 
 ॠ अनुदात्तः
+
+
 
 1
 
@@ -2990,17 +3622,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 उदात्तउइतौ
 
+
+
 1
 
 अद भक्षणे 2
 
 हन हिंसा गत्योः
 
+
+
 1
 
 ॠ2
 
 स्वरितउइतः
+
+
 
 3
 
@@ -3012,21 +3650,29 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 लिह आस्वादने
 
+
+
 1
 
 ॠ3
 
 अनुदात्तउइत्
 
+
+
 7
 
 चक्षिङ् व्यक्तायाम्अवाचि
+
+
 
 1
 
 ए1
 
 अनुदात्तउइतः
+
+
 
 8
 
@@ -3040,6 +3686,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शासु इच्छायाम्
 
+
+
 13
 
 वस आच्छादने 14
@@ -3049,6 +3697,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 णिसि चुम्बने 16
 
 णिजि शुद्धौ
+
+
 
 17
 
@@ -3060,17 +3710,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 पृजी संपर्के
 
+
+
 21
 
 षूङ् प्राणिगर्भअविमोचने 22
 
 शीङ् स्वप्ने
 
+
+
 1
 
 ए2
 
 परस्मैपदिनः
+
+
 
 23
 
@@ -3086,9 +3742,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्ष्णु तेजने
 
+
+
 29
 
 ष्णु प्ररुावणे
+
+
 
 1
 
@@ -3096,13 +3756,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 उभयपदी
 
+
+
 30
 
 ऊर्णुञ् आच्छादने
 
+
+
 1
 
 क् अनुदात्तः परस्मैपदिनः
+
+
 
 31
 
@@ -3114,6 +3780,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ष्टुञ् स्तुतौ
 
+
+
 35
 
 ब्राूञ् व्यक्तायाम्अवाचि 36
@@ -3124,6 +3792,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 इक् स्मरणे
 
+
+
 39
 
 वी गति प्रजन कान्ति असन खादनेषु 40
@@ -3131,6 +3801,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 या प्रापणे 41
 
 वा गति गन्धनयोः
+
+
 
 42
 
@@ -3144,6 +3816,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 प्सा भक्षणे
 
+
+
 47
 
 पा रक्षणे 48
@@ -3155,6 +3829,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 दाप् लवने 51
 
 ख्या प्रकथने
+
+
 
 52
 
@@ -3168,15 +3844,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अस भुवि
 
+
+
 57
 
 मृजू शुद्धौ
+
+
 
 1
 
 क्1
 
 रुदृउआदयः(7.2.76, 3.98,99)
+
+
 
 55
 
@@ -3188,15 +3870,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अन प्राणने
 
+
+
 59
 
 जक्ष भक्ष हसनयोः
+
+
 
 1
 
 क्2
 
 जक्षितिउआदयः(6.1.6)
+
+
 
 59
 
@@ -3206,6 +3894,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 दरिद्रा दुर्गतौ
 
+
+
 62
 
 चकासृ दीप्तौ 63
@@ -3214,17 +3904,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 दीधीङ् दीप्ति देवनयोः
 
+
+
 65
 
 वेवीङ् वेतिना तुल्ये (59-65
 
 उदात्तः)
 
+
+
 1
 
 क्3
 
 छान्दसौ
+
+
 
 66
 
@@ -3234,13 +3930,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ह्नुङ् अपनयने
 
+
+
 2
 
 जुहोतिउआदयः
 
+
+
 2
 
 ॠ अनुदात्तउइतः
+
+
 
 1
 
@@ -3252,6 +3954,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 पॄ पालन पूरणयोः
 
+
+
 5 (
 
 डु)भृञ् धारण पोषणयोः 6
@@ -3262,6 +3966,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ओ)हाक् त्यागे
 
+
+
 9
 
 डुदाञ् दाने 10
@@ -3270,15 +3976,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 णिजिर् शौच पोषणयोः
 
+
+
 12
 
 विजिर् पृथग्भावे 13
 
 विषि व्याप्तौ
 
+
+
 2
 
 ए छान्दसाः परस्मैपदिनः
+
+
 
 14
 
@@ -3289,6 +4001,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 सृ गतौ 17
 
 भस भत्र्सन दीप्त्योः
+
+
 
 18
 
@@ -3302,23 +4016,33 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 धन धान्ये
 
+
+
 23
 
 जन जनने 24
 
 गा स्तुतौ
 
+
+
 3
 
 दिव्उआदयः
+
+
 
 3
 
 ॠ उदात्ताः उदात्तउइतः
 
+
+
 1
 
 दिवु क्रीडा विजिगीषा व्यवहार द्युति स्तुति मोद स्वप्न कान्ति गतिषु
+
+
 
 2
 
@@ -3327,6 +4051,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 रिुावु गति शोषणयोः 4
 
 ष्ठिवु/ष्तिवु निरसने
+
+
 
 5
 
@@ -3338,6 +4064,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 प्लुष दाहे
 
+
+
 9
 
 नृती गात्रअविक्षेपे 10
@@ -3347,6 +4075,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 कुथ पूतीभावे 12
 
 पुथ हिंसायाम्
+
+
 
 13
 
@@ -3358,6 +4088,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 तिम
 
+
+
 17
 
 ष्टिम/ष्टीम आद्र्रीभावे 18
@@ -3365,6 +4097,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 व्रीड चोदने लज्जायाम् च 19
 
 ईष गतौ
+
+
 
 20
 
@@ -3376,9 +4110,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 जॄष् वयोहानौ
 
+
+
 3
 
 ए सु आदयः (ओत्उइतः) आत्मनेपदिनः
+
+
 
 3
 
@@ -3386,17 +4124,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 उदात्तौ
 
+
+
 24
 
 षूङ् प्राणिअप्रसवे 25
 
 दूङ् परितापे
 
+
+
 3
 
 ए2
 
 अनुदात्तः
+
+
 
 26
 
@@ -3408,6 +4152,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मीङ् हिंसायाम्
 
+
+
 30
 
 रीङ् श्रवणे 31
@@ -3415,6 +4161,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 लीङ् श्लेषणे 32
 
 व्रीङ् वृणोत्यर्थे प्सुउआदयः ओत्उइतःफ्
+
+
 
 33
 
@@ -3426,9 +4174,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 प्रीङ् प्रीतौ
 
+
+
 3
 
 क् अनुदात्त परस्मैपदिनः
+
+
 
 37
 
@@ -3440,15 +4192,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 डो अवखादने
 
+
+
 3
 
 क़् उदात्ताः
+
+
 
 3
 
 क़्1
 
 अनुदात्ताउइतः
+
+
 
 41
 
@@ -3457,6 +4215,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 दीपी दीप्तौ 43
 
 पूरी आप्यायने
+
+
 
 44
 
@@ -3470,6 +4230,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 घूरी
 
+
+
 48
 
 जूरी हिंसा वयोहान्योः 49
@@ -3479,6 +4241,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 चूरी दाहे 51
 
 तप ऐश्वर्ये वा
+
+
 
 52
 
@@ -3490,11 +4254,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वाशृ शब्दे
 
+
+
 3
 
 क़्2
 
 स्वरितउइतौ
+
+
 
 55
 
@@ -3502,15 +4270,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ईशुचिर् पूतीभावे
 
+
+
 3
 
 क अनुदात्ताः
+
+
 
 3
 
 क1
 
 स्वरितउइतः
+
+
 
 57
 
@@ -3520,11 +4294,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शप आक्रोशे
 
+
+
 3
 
 क2
 
 अनुदात्तउइतः
+
+
 
 60
 
@@ -3538,6 +4316,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 युध संप्रहारे
 
+
+
 65
 
 रुध कामे 66
@@ -3550,9 +4330,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 सृज विसर्गे
 
+
+
 70
 
 लिश अल्पीभावे
+
+
 
 3
 
@@ -3560,11 +4344,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 उदात्ताउइतौ
 
+
+
 71
 
 राध वृद्धावेव प्अकर्मकात्फ् 72
 
 व्यध ताडने
+
+
 
 3
 
@@ -3572,11 +4360,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 उदात्तउइतः
 
+
+
 3
 
 क़1
 
 अनुदात्ताः
+
+
 
 73
 
@@ -3590,6 +4382,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 श्लिष आलिङ्गने
 
+
+
 78
 
 शक विभाषितो मर्षणे 79
@@ -3600,17 +4394,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्षुध बुभुक्षायाम्
 
+
+
 82
 
 शुध शौचे 83
 
 षिधु संराद्धौ
 
+
+
 3
 
 क़2
 
 रधउआदयः (7.2.45)
+
+
 
 84
 
@@ -3622,6 +4422,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 दृप हर्ष मोहनयोः
 
+
+
 88
 
 द्रुह जिघांसायाम् 89
@@ -3631,6 +4433,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 ष्णुह उद्गिरणे 91
 
 ष्णिह प्रीतौ
+
+
 
 3
 
@@ -3642,6 +4446,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ठ्ठ शम्उआदयः (3.2.141,7.3.74)
 
+
+
 92
 
 शमु उपशमे 93
@@ -3652,6 +4458,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 श्रमु तपसि खेदे च
 
+
+
 96
 
 भ्रमु अनवस्थाने 97
@@ -3661,6 +4469,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 क्लमु ग्लानौ 99
 
 मदी हर्षे
+
+
 
 100
 
@@ -3674,6 +4484,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 दसु उपक्षये
 
+
+
 105
 
 वसु स्तम्भे 106
@@ -3683,6 +4495,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 प्लुष दाहे 108
 
 बिस प्रेरणे
+
+
 
 109
 
@@ -3694,6 +4508,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मसी परिमाणे
 
+
+
 113
 
 लुट विलोडने 114
@@ -3704,6 +4520,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वृश वरणे
 
+
+
 117
 
 कृश तनू करणे 118 (
@@ -3713,6 +4531,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 ह्मष तुष्टौ 120
 
 रुष रोषे
+
+
 
 121
 
@@ -3726,6 +4546,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 रुप
 
+
+
 126
 
 लुप विमोहने 127
@@ -3735,6 +4557,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 लुभ गाध्र्ये 129
 
 क्षुभ संचलने
+
+
 
 130
 
@@ -3746,6 +4570,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ञि)मिदा स्नेहने
 
+
+
 134 (
 
 ञि)क्ष्विदा स्नेहन मोचनयोः 135
@@ -3754,19 +4580,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गृधु अभिकांक्षायाम् प्वृत्फ्
 
+
+
 4
 
 सुउआदयः
 
+
+
 4
 
 ॠ अनुदात्ताः
+
+
 
 4
 
 ॠ1
 
 उभयपदिनः
+
+
 
 1
 
@@ -3777,6 +4611,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 शिञ् निशाने 4 (
 
 डु)मिञ् प्रक्षेपणे
+
+
 
 5
 
@@ -3790,11 +4626,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 धुञ् कम्पने
 
+
+
 4
 
 ॠ2
 
 परस्मैपदिनः
+
+
 
 10 (
 
@@ -3806,6 +4646,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्पृ प्रीति पालनयोः
 
+
+
 14
 
 आपि व्याप्तौ 15
@@ -3816,9 +4658,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 साध संसिद्धौ
 
+
+
 4
 
 ए उदात्ताः
+
+
 
 4
 
@@ -3826,17 +4672,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अनुदात्तउइतौ
 
+
+
 18
 
 अशू व्याप्तौ संघाते च 19
 
 ष्टिघ आस्कन्दने
 
+
+
 4
 
 ए2
 
 उदात्तउइतः
+
+
 
 20
 
@@ -3848,17 +4700,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 दम्भु दम्भने
 
+
+
 24
 
 ऋधु वृद्धौ 25
 
 तृप प्रीणने
 
+
+
 4
 
 ए3
 
 छन्दसि
+
+
 
 26
 
@@ -3872,6 +4730,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्षि
 
+
+
 31
 
 चिरि 32
@@ -3882,13 +4742,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 दृ हिंसायाम् प्वृत्फ्
 
+
+
 5
 
 तुदउआदयः
 
+
+
 5
 
 ॠ अनुदात्ताः स्वरितउइतः
+
+
 
 1
 
@@ -3902,13 +4768,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्षिप प्रेरणे
 
+
+
 6
 
 कृष विलेखने
 
+
+
 5
 
 ए उदात्ताः
+
+
 
 5
 
@@ -3916,15 +4788,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 उदात्तउइत्
 
+
+
 7
 
 ऋषी गतौ
+
+
 
 5
 
 ए2
 
 अनुदात्तउइतः
+
+
 
 8
 
@@ -3934,11 +4812,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ओ)लजी/(ओ)लस्जी व्रीडे
 
+
+
 5
 
 ए3
 
 उदात्तउइतः
+
+
 
 11 (
 
@@ -3950,11 +4832,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 उछी विवासे
 
+
+
 15
 
 ऋछ गति इन्द्रियअप्रलय मूर्तिभावेषु 16
 
 मिछ उत्क्लेशे
+
+
 
 17
 
@@ -3964,6 +4850,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ऋच स्तुतौ
 
+
+
 20
 
 उब्ज आर्जवे 21
@@ -3971,6 +4859,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 उद्झ उत्सर्गे 22
 
 लुभ विमोहने
+
+
 
 23
 
@@ -3981,6 +4871,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 तृम्फ तृप्तौ 26
 
 तुप
+
+
 
 27
 
@@ -3994,6 +4886,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गुफ ग्रन्थे
 
+
+
 32
 
 उभ पूरणे 33
@@ -4003,6 +4897,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 दृभी ग्रन्थे 35
 
 चृती हिंसा ग्रन्थनयोः
+
+
 
 36
 
@@ -4018,6 +4914,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मृण हिंसायाम्
 
+
+
 42
 
 तुण कौटिल्ये 43
@@ -4028,6 +4926,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 कुण शब्द उपतापयोः
 
+
+
 46
 
 शुन गतौ 47
@@ -4037,6 +4937,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 घुण 49
 
 घूर्ण भ्रमणे
+
+
 
 50
 
@@ -4050,6 +4952,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्षुर विलेखने
 
+
+
 55
 
 घुर भीमअअर्थ शब्दयोः 56
@@ -4062,6 +4966,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्तृहू
 
+
+
 60
 
 तृंहू हिंसाअअर्थाः 61
@@ -4072,6 +4978,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 किल श्वैत्य क्रीडनयोः
 
+
+
 64
 
 तिल स्नेहने 65
@@ -4081,6 +4989,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 चल विलसने 67
 
 इल स्वप्न क्षेपणयोः
+
+
 
 68
 
@@ -4094,6 +5004,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शिल
 
+
+
 73
 
 षिल उञ्छे 74
@@ -4102,6 +5014,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 लिख अक्षरअविन्यासे
 
+
+
 5
 
 क् कुटउआदयः(1.2.1) 5
@@ -4109,6 +5023,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 क्1
 
 उदात्ताः उदात्तउइतः
+
+
 
 76
 
@@ -4120,6 +5036,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गुज शब्दे
 
+
+
 80
 
 गुड रक्षायाम् 81
@@ -4130,6 +5048,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्फुट विकसने
 
+
+
 84
 
 मुट आक्षेप प्रमर्दनयोः 85
@@ -4139,6 +5059,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 तुट कलहअकर्मणि 87
 
 चुट/छुट छेदने
+
+
 
 88
 
@@ -4151,6 +5073,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 कृड घनत्वे 92
 
 कुड बाल्ये
+
+
 
 93
 
@@ -4166,6 +5090,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्फुर
 
+
+
 99
 
 स्फुल संचलने 100
@@ -4177,6 +5103,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 व्रुड संवरणे 103
 
 क्रुड
+
+
 
 104
 
@@ -4190,11 +5118,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 धू विधूनने
 
+
+
 109
 
 गु पुरीषोत्सर्गे 110
 
 ध्रु गति स्थैर्ययोः
+
+
 
 5
 
@@ -4202,9 +5134,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 आत्मनेपदी
 
+
+
 111
 
 कुङ् शब्दे
+
+
 
 5
 
@@ -4214,17 +5150,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 आत्मनेपदिनौ
 
+
+
 112
 
 पृङ् व्यायामे 113
 
 मृङ् प्राणअत्यागे
 
+
+
 5
 
 क़्2
 
 परस्मैपदिनः
+
+
 
 114
 
@@ -4238,11 +5180,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 षू प्रेरणे
 
+
+
 5
 
 क़्3
 
 किरादयः
+
+
 
 115
 
@@ -4256,11 +5202,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 प्रछ ज्ञीप्सायाम्
 
+
+
 5
 
 क़्4
 
 उदात्तउइतः
+
+
 
 120
 
@@ -4272,6 +5222,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 भुजो कोटिल्ये
 
+
+
 124
 
 छुप स्पर्शे 125
@@ -4281,6 +5233,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 लिश गतौ 127
 
 स्पृश संस्पर्शने
+
+
 
 128
 
@@ -4292,11 +5246,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 णुद प्रेरणे
 
+
+
 132
 
 षदि विशरण गति अवसादनेषु 133
 
 शदि शातने
+
+
 
 5
 
@@ -4304,9 +5262,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्वरितउइत् उदात्तः
 
+
+
 134
 
 मिल संगमने
+
+
 
 5
 
@@ -4318,6 +5280,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ठ्ठ स्वरितउइतः
 
+
+
 135
 
 मुचि मोक्षणे 136
@@ -4328,15 +5292,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 लिप उपदेहे
 
+
+
 139
 
 षिच क्षरणे
+
+
 
 5
 
 क़्6
 
 ड उदात्तउइतः
+
+
 
 140
 
@@ -4346,11 +5316,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 पिश अवयवे प्वृत्फ्
 
+
+
 6
 
 रुध्उआदयः 6
 
 ॠ अनुदात्ताः स्वरितउइतः
+
+
 
 1
 
@@ -4362,6 +5336,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 रिचिर् विरेचने
 
+
+
 5
 
 विचिर् पृथग्भावे 6
@@ -4369,6 +5345,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 क्षुदिर् संप्रेषणे 7
 
 युजिर् योगे
+
+
 
 6
 
@@ -4378,11 +5356,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्वरितउइतः
 
+
+
 8 (
 
 उ)छृदिर् दीप्ति देवनयोः 9 (
 
 उ)तृदिर् हिंसा अनादरयोः
+
+
 
 6
 
@@ -4390,9 +5372,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 उदात्तउइत्
 
+
+
 10
 
 कृती वेष्टने
+
+
 
 6
 
@@ -4400,13 +5386,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अनुदात्तउइत्
 
+
+
 11 (
 
 ञि)इन्धी दीप्तौ
 
+
+
 6
 
 क् अनुदात्ताः
+
+
 
 6
 
@@ -4414,17 +5406,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अनुदात्तउइतौ
 
+
+
 12
 
 खिद दैन्ये 13
 
 विद विचारणे
 
+
+
 6
 
 क्2
 
 उदात्तउइतः
+
+
 
 14
 
@@ -4436,9 +5434,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 भुज पालन अभ्यवहारयोः
 
+
+
 6
 
 क़् उदात्ताः उदात्तउइतः
+
+
 
 18
 
@@ -4450,6 +5452,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अञ्जू व्यकिं्त म्रक्षण कान्ति गतिषु
 
+
+
 22
 
 तञ्चू संकोचने 23 (
@@ -4460,6 +5464,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 पृची संपर्के प्वृत्फ्
 
+
+
 7
 
 ॠ तन्उआदयः 7
@@ -4469,6 +5475,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 ॠ1
 
 स्वरितउइतः
+
+
 
 1
 
@@ -4484,9 +5492,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 तृणु अदने
 
+
+
 7
 
 घृणु दीप्तौ
+
+
 
 7
 
@@ -4494,27 +5506,39 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अनुदात्तउइतौ
 
+
+
 8
 
 वनु याचने 9
 
 मनु अवबोधने
 
+
+
 7
 
 ए अनुदात्तः उभयतोभाषः
+
+
 
 10 (
 
 डु)कृञ् करणे
 
+
+
 8
 
 क्रीउआदयः
 
+
+
 8
 
 ॠ अनुदात्ताः स्वरितउइतः
+
+
 
 1 (
 
@@ -4523,6 +5547,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 प्रीञ् तर्पणे कान्तौ च 3
 
 श्रीञ् पाके
+
+
 
 4
 
@@ -4536,13 +5562,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्कम्भु रोधने
 
+
+
 9
 
 युञ् बन्धने
 
+
+
 8
 
 ए उदात्ताः
+
+
 
 8
 
@@ -4550,11 +5582,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्वरितउइतौ
 
+
+
 10
 
 क्नूञ् शब्दे 11
 
 द्रूञ् हिंसायाम्
+
+
 
 8
 
@@ -4566,15 +5602,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ठ्ठ स्वरितउइतः
 
+
+
 12
 
 पूञ् पवने
+
+
 
 8
 
 ए2
 
 ड लूउआदयः(8.2.44)
+
+
 
 13
 
@@ -4586,9 +5628,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वॄञ् वरणे
 
+
+
 17
 
 धूञ् कम्पने
+
+
 
 8
 
@@ -4596,11 +5642,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 उदात्तउइतः
 
+
+
 18
 
 शॄ हिंसायाम19
 
 पॄ पालन पूरणयोः पॄ पालन पूरणयोः
+
+
 
 20
 
@@ -4611,6 +5661,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 मॄ हिंसायाम् 23
 
 दॄ विदारणे
+
+
 
 24
 
@@ -4624,9 +5676,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गॄ शब्दे
 
+
+
 8
 
 क् अनुदात्ताः उदात्तउइतः
+
+
 
 29
 
@@ -4637,6 +5693,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 ली श्लेषणे 32
 
 व्ली वरणे
+
+
 
 33
 
@@ -4650,13 +5708,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ज्ञा अवबोधने
 
+
+
 38
 
 बन्ध बन्धने
 
+
+
 8
 
 क़् उदात्ताः
+
+
 
 8
 
@@ -4664,15 +5728,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 आत्मनेपदी
 
+
+
 39
 
 वृङ् संभक्तौ
+
+
 
 8
 
 क़्2
 
 उदात्तउइतः
+
+
 
 40
 
@@ -4683,6 +5753,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 ग्रन्थ सन्दर्भे 43
 
 कुथ संश्लेषणे
+
+
 
 44
 
@@ -4698,6 +5770,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 णभ
 
+
+
 50
 
 तुभ हिंसायाम् 51
@@ -4707,6 +5781,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 अश भोजने 53
 
 उध्रस उञ्छे
+
+
 
 54
 
@@ -4718,6 +5794,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 प्लुष स्नेहन सेवन पूरणेषु
 
+
+
 58
 
 पुष पुष्टौ 59
@@ -4728,23 +5806,33 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 हेढ भूतअप्रादुर्भावे
 
+
+
 8
 
 क़्3
 
 स्वरितउइत्
 
+
+
 62
 
 ग्रह उपादाने
+
+
 
 9
 
 चुरादयः
 
+
+
 9
 
 ॠ परस्मैपदिनः
+
+
 
 1
 
@@ -4758,6 +5846,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 लक्ष दर्शन अङ्कनयोः
 
+
+
 6
 
 कुद्रि अनृतभाषणे 7
@@ -4768,6 +5858,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ओ)लडि उत्क्षेपणे
 
+
+
 10
 
 जल अपवारणे 11
@@ -4777,6 +5869,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 नट अवस्यन्दने 13
 
 श्रथ प्रयत्ने
+
+
 
 14
 
@@ -4790,6 +5884,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वर्ण/चूर्ण प्रेरणे
 
+
+
 19
 
 प्रथ प्रख्याने 20
@@ -4799,6 +5895,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 षम्ब संबन्धने 22
 
 भक्ष अदने
+
+
 
 23
 
@@ -4812,6 +5910,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 सुट्ट अनादरे
 
+
+
 28
 
 लुण्ठ स्तेये 29
@@ -4822,11 +5922,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 तुजि
 
+
+
 32
 
 पिजि हिंसा बल आदान निकेतनेषु 33
 
 पिस गतौ
+
+
 
 34
 
@@ -4838,6 +5942,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ष्णिह स्नेहने
 
+
+
 38
 
 स्मिट अनादरे 39
@@ -4847,6 +5953,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 पथि गतौ 41
 
 पिछ कुट्टने
+
+
 
 42
 
@@ -4862,6 +5970,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 कडि खादने
 
+
+
 48
 
 कुडि रक्षणे 49
@@ -4874,6 +5984,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मडि भूषायाम्
 
+
+
 53
 
 भडि कल्याणे 54
@@ -4883,6 +5995,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 पुस्त 56
 
 बुस्त आदर अनादरयोः
+
+
 
 57
 
@@ -4896,6 +6010,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्षल शौच कर्मणि
 
+
+
 62
 
 तल प्रतिष्ठायाम् 63
@@ -4905,6 +6021,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 दुल उत्क्षेपे 65
 
 पुल महत्त्वे
+
+
 
 66
 
@@ -4918,6 +6036,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 बिल भेदने
 
+
+
 71
 
 तिल स्नेहने 72
@@ -4930,6 +6050,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शुल्ब
 
+
+
 76
 
 चुट छेदने 77
@@ -4939,6 +6061,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 पडि नाशने 79
 
 व्रज मार्गअसंस्कार गत्योः
+
+
 
 80
 
@@ -4950,11 +6074,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 क्षजि कृच्छ्रअजीवने
 
+
+
 84
 
 श्वर्त गत्याम् 85
 
 ज्ञप ज्ञान ज्ञापन मारण तोषण निशान निशामनेषु
+
+
 
 86
 
@@ -4966,6 +6094,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 बल प्राणने
 
+
+
 90
 
 चिञ् चयने प्नान्ये म्उइतःफ् 91
@@ -4975,6 +6105,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 मुस्त संघाते 93
 
 खट्ट संवरणे
+
+
 
 94
 
@@ -4988,6 +6120,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 पुंस अभिवर्धने
 
+
+
 99
 
 टकि बन्धने 100
@@ -4997,6 +6131,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 कीट वर्णे 102
 
 चूर्ण संकोचने
+
+
 
 103
 
@@ -5008,6 +6144,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शुठि शोषणे
 
+
+
 107
 
 जुड प्रेरणे 108
@@ -5017,6 +6155,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 मार्ज शब्दअअर्थौ 110
 
 घृ प्ररुावणे
+
+
 
 111
 
@@ -5028,6 +6168,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वर्ध छेदन पूरणयोः
 
+
+
 115
 
 कुबि छादने 116
@@ -5038,6 +6180,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ह्लप व्यक्तायाम्अवाचि
 
+
+
 119
 
 चुटि छेदने 120
@@ -5047,6 +6191,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 म्रक्ष म्लेच्छने 122
 
 म्लेछ अव्यक्तायाम्अवाचि
+
+
 
 123
 
@@ -5060,6 +6206,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गर्ध अभिकांक्षायाम्
 
+
+
 128
 
 गुर्द 129
@@ -5072,6 +6220,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 जसु हिंसायाम्
 
+
+
 133
 
 पिडि संघाते 134
@@ -5082,11 +6232,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ष्टुप समुच्छ्राये
 
+
+
 9
 
 ए आत्मनेपदिनः
 
+
+
 प्आ कुसुमात् आत्मनेपदिनःफ्
+
+
 
 137
 
@@ -5098,6 +6254,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 डप/डिप संघाते
 
+
+
 141
 
 तत्रि कुटुम्बअधारणे 142
@@ -5107,6 +6265,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 स्पश ग्रहणअ
 
 संश्लेषणयो
+
+
 
 144
 
@@ -5120,6 +6280,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 विष्क हिंसायाम्
 
+
+
 149
 
 निष्क परिमाणे 150
@@ -5129,6 +6291,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 कूण संकोचने 152
 
 तूण पूरणे
+
+
 
 153
 
@@ -5140,6 +6304,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्यम वितर्के
 
+
+
 157
 
 गूर उद्यमने 158
@@ -5149,6 +6315,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 लक्ष आलोचने 160
 
 कुत्स अवक्षेपणे
+
+
 
 161
 
@@ -5162,6 +6330,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वञ्चु प्रलंभने
 
+
+
 166
 
 वृष शक्तिअबन्धने 167
@@ -5172,6 +6342,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 गृ विज्ञाने
 
+
+
 170
 
 विद चेतन आख्यान निवासेषु 171
@@ -5180,15 +6352,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 यु जुगुप्सायाम्
 
+
+
 173
 
 कुस्म नाम्नो वा
 
+
+
 प्कुत्सित स्मयनेफ्
+
+
 
 9
 
 क् परस्मैपदिनः
+
+
 
 174
 
@@ -5196,9 +6376,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 बुक्क भषणे
 
+
+
 176
 
 शब्द शब्दअक्रियायाम् उपसर्गात्अआविष्कारे च
+
+
 
 177
 
@@ -5210,6 +6394,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 जसु ताडने
 
+
+
 181
 
 पश बन्धने 182
@@ -5219,6 +6405,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 चट 184
 
 स्फुट भेदने
+
+
 
 185
 
@@ -5230,6 +6418,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 घुषिर् विशब्दने
 
+
+
 189
 
 क्रन्द सातत्ये 190
@@ -5239,6 +6429,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 तसि/भूष अलंकरणयोः 192
 
 मोक्ष असने
+
+
 
 193
 
@@ -5250,6 +6442,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शृधु प्रसहने
 
+
+
 197
 
 यत निकार उपस्कारयोः 198
@@ -5259,6 +6453,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 लग आस्वादने 200
 
 अञ्चु विशेषणे
+
+
 
 201
 
@@ -5270,6 +6466,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 उध्रस उञ्छे
 
+
+
 205
 
 मुच प्रमोचने मोदने च 206
@@ -5277,6 +6475,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 वस स्नेह छेद अपहरणेषु 207
 
 चर संशये
+
+
 
 208
 
@@ -5286,11 +6486,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 कृपः अवकल्कने
 
+
+
 9
 
 क्1
 
 आस्वदः सकर्मकात्
+
+
 
 211
 
@@ -5306,6 +6510,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 लुट
 
+
+
 217
 
 तुजि 218
@@ -5319,6 +6525,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 भजि भाषाअअर्थः 222
 
 लघि
+
+
 
 223
 
@@ -5336,6 +6544,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 घटि भाषाअअर्थः
 
+
+
 230
 
 बृहि 231
@@ -5351,6 +6561,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 विच्छ 236
 
 चीव
+
+
 
 237
 
@@ -5368,6 +6580,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वृतु
 
+
+
 244
 
 वृधु 245
@@ -5383,6 +6597,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 भृशि 250
 
 रुशि
+
+
 
 251
 
@@ -5400,6 +6616,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अहि
 
+
+
 258
 
 रहि 259
@@ -5414,6 +6632,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 पूरी आप्यायने
 
+
+
 264
 
 रुज हिंसायाम् 265
@@ -5423,6 +6643,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 युज 267
 
 पृच संयमने
+
+
 
 268
 
@@ -5436,6 +6658,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वृजी वर्जने
 
+
+
 273
 
 वृञ् आवरणे 274
@@ -5446,6 +6670,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 रिच वियोजन संपर्चनयोः
 
+
+
 277
 
 शिष असर्वअउपयोगे 278
@@ -5455,6 +6681,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 तृप तृप्तौ 280
 
 छृदी संदीपने
+
+
 
 281
 
@@ -5468,6 +6696,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ग्रन्थ बन्धने
 
+
+
 286
 
 शीक 287
@@ -5480,6 +6710,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 अर्ह पूजायाम्
 
+
+
 291
 
 षद पद्यर्थे 292
@@ -5489,6 +6721,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 छद अपवारणे 294
 
 जुष परितर्कणे
+
+
 
 295
 
@@ -5500,11 +6734,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 आपि लंभने
 
+
+
 299
 
 तनु श्रद्धा उपकरणयोः उपसर्गात् च दैघ्र्ये 300
 
 वद सन्देशअवचने
+
+
 
 301
 
@@ -5513,6 +6751,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 मान पूजायाम् 303
 
 भू प्राप्तौ आत्मनेपदी वा
+
+
 
 304
 
@@ -5524,21 +6764,29 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मृजू शौच अलंकारयोः
 
+
+
 308
 
 मृष तितिक्षायाम् 309
 
 धृष प्रसहने
 
+
+
 9
 
 क़् अत्उअन्ताः
+
+
 
 9
 
 क़्1
 
 परस्मैपदिनः
+
+
 
 310
 
@@ -5549,6 +6797,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 गण संख्याने 313
 
 शठ सम्यगवभाषणे
+
+
 
 314
 
@@ -5562,6 +6812,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 पत गतौ वा
 
+
+
 319
 
 पष अनुपसर्गात् 320
@@ -5571,6 +6823,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 रच प्रतियत्ने 322
 
 कल गतौ संख्याने च
+
+
 
 323
 
@@ -5584,6 +6838,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 श्रथ दौर्बल्ये
 
+
+
 328
 
 स्पृह ईप्सायाम् 329
@@ -5593,6 +6849,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 सूच पैशुन्ये 331
 
 खेट भक्षणे
+
+
 
 332
 
@@ -5604,6 +6862,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शील उपधारणे
 
+
+
 336
 
 साम सान्त्वअप्रयोगे 337
@@ -5611,6 +6871,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 वेल कालअउपदेशे 338
 
 पल्पूल लवन पवनयोः
+
+
 
 339
 
@@ -5620,6 +6882,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वास उपसेवायाम्
 
+
+
 342
 
 निवास आच्छादने 343
@@ -5627,6 +6891,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 भाज पृथक्कर्मणि 344
 
 सभाज प्रीति दर्शनयोः
+
+
 
 345
 
@@ -5640,6 +6906,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 ग्राम
 
+
+
 350
 
 कुण/गुण आमन्त्रणे 351
@@ -5648,17 +6916,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 स्तेन चौर्ये
 
+
+
 9
 
 क़्2
 
 आत्मनेपदिनः
 
+
+
 9
 
 क़्2
 
 ठ्ठ आ गर्वात् आत्मनेपदिनः
+
+
 
 363
 
@@ -5672,6 +6946,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 शूर
 
+
+
 368
 
 वीर विक्रान्तौ 369
@@ -5679,6 +6955,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 स्थूल परिबृंहणे 370
 
 अर्थ उपयाच्ञायाम्
+
+
 
 371
 
@@ -5690,6 +6968,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मूत्र प्ररुावणे
 
+
+
 375
 
 रूक्ष पारुष्ये 376
@@ -5700,19 +6980,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 पुट संसर्गे
 
+
+
 379
 
 कत्र शैथिल्ये
 
+
+
 प्प्रातिपदिकात् धात्वर्थे बहुलं इष्टवच्च;
 
 तत्करोति तदाचष्टे;
+
+
 
 तेन अतिक्रामति;
 
 धातुरूपं च;
 
 कर्तृ करणात् धात्वर्थेफ्
+
+
 
 380
 
@@ -5721,6 +7009,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 चित्र चित्रीकरणे/कदाचित्अदर्शने 382
 
 अंस समाघाते
+
+
 
 383
 
@@ -5732,6 +7022,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 मिश्र संपर्के
 
+
+
 387
 
 संग्राम युद्धे 388
@@ -5741,6 +7033,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 छिद्र कर्ण
 
 अभेदने
+
+
 
 390
 
@@ -5752,6 +7046,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 दण्ड दण्डअनिपाते
 
+
+
 393
 
 अङ्क पदे लक्षणे च 394
@@ -5759,6 +7055,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 सुख 395
 
 दुःख तत्क्रियायाम्
+
+
 
 396
 
@@ -5768,6 +7066,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 रूप रूपअक्रियायाम्
 
+
+
 399
 
 छेद द्वैधीकरणे 400
@@ -5776,11 +7076,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 व्रण गात्रअविचूर्णने
 
+
+
 402
 
 वर्ण वर्णक्रिया विस्तार गुणअवचनेषु
 
+
+
 प्बहुलं एतत् निदर्शनम्फ्
+
+
 
 403
 
@@ -5792,14 +7098,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMjk5MTM3MjY
 
 वस निवासे
 
+
+
 407
 
 तुत्थ आवरणे 408
 
 णिङ् अङ्गात्अनिरसने
 
+
+
 प्श्वेताश्व अश्वतर गालोडित आह्वरकाणां अश्व तर इत क लोपश्च;
 
+
+
 पुच्छादिषु धात्वर्थ इत्येव सिद्धम्फ्
+
+
+
+
+
 
 \]

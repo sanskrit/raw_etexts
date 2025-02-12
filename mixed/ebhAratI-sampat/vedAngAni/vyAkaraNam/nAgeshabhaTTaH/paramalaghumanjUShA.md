@@ -13,7 +13,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 \[
 
+
+
+
+
    
+
+
 
 महावैयाकरण
 
@@ -21,11 +27,23 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 श्रीमन्नागेशभट्टप्रणीता
 
+
+
+
+
 परमलघुमञ्जूषा
+
+
+
+
 
 आचार्यलोकमणिदाहालप्रणीत
 
 \-
+
+
+
+
 
 \`
 
@@ -39,11 +57,21 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 हिन्दीव्याख्योपेता
 
+
+
+
+
  (1)
 
 अथ
 
 शक्तिनिरूपणम्
+
+
+
+
+
+
 
 मङ्गलाचरणम्
 
@@ -63,6 +91,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 ।
 
+
+
 वैयाकरणसिद्धान्तमञ्जूषैषा
 
 विरच्यते
@@ -72,6 +102,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 1
 
 ॥
+
+
 
 (2)
 
@@ -248,6 +280,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 तत
 
 एवार्थबोधात्।
+
+
 
 \`
 
@@ -691,6 +725,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 --
 
+
+
 उपकारः
 
 स
@@ -698,6 +734,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 यत्रास्ति
 
 धर्मस्तत्रानुगम्यते।
+
+
 
 शक्तीनामप्यसौ
 
@@ -811,6 +849,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 --
 
+
+
 \`
 
 सङ्केतस्तु
@@ -834,6 +874,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 '
 
 इति।
+
+
 
 \`
 
@@ -898,6 +940,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 उक्तम्
 
 --
+
+
 
 \`
 
@@ -1119,6 +1163,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 --
 
+
+
 एष
 
 वन्ध्यासुतो
@@ -1126,6 +1172,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 याति
 
 खपुष्पकृतशेखरः।
+
+
 
 कूर्मक्षीरचये
 
@@ -1573,6 +1621,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 --
 
+
+
 संयोगो
 
 विप्रयोगश्च
@@ -1580,6 +1630,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 साहचर्यं
 
 विरोधिता।
+
+
 
 अर्थः
 
@@ -1591,6 +1643,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 सन्निधिः॥
 
+
+
 सामर्थ्यमौचिती
 
 देशः
@@ -1600,6 +1654,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 व्यक्तिः
 
 स्वरादयः।
+
+
 
 शब्दस्यार्थानवच्छेदे
 
@@ -1757,6 +1813,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 प्रतीयते।
 
+
+
 यश्च
 
 निम्बं
@@ -1766,6 +1824,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 यश्चैनं
 
 मधुसर्पिषा।
+
+
 
 यश्चैनं
 
@@ -1849,15 +1909,35 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 तत्पुरुषबहुव्रीह्यर्तनिर्णयः।
 
+
+
 इति
 
 शक्तिनिरूपणम्।
 
+
+
+
+
+
+
+
+
 .
+
+
+
+
+
+
 
 अथ
 
 लक्षणानिरूपणम्।
+
+
+
+
 
 \(28\)
 
@@ -1900,6 +1980,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 च
 
 ।
+
+
 
 स्वनिरूपतिसादृश्याधिकरणत्वसम्बन्धेन
 
@@ -2019,6 +2101,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 --
 
+
+
 तात्स्थ्यात्
 
 तथैव
@@ -2032,6 +2116,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 च
 
 ।
+
+
 
 तत्साहचर्यात्
 
@@ -2371,6 +2457,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 ---
 
+
+
 \`
 
 प्रयोजनवती
@@ -2621,13 +2709,31 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 सुस्थम्।
 
+
+
 इति
 
 लक्षणानिरूपणम्।
 
+
+
+
+
+
+
+
+
 .
 
+
+
+
+
  ***अथ व्यञ्जनानिरूपणम्।***
+
+
+
+
 
 \(38\) ननु व्यञ्जना कः पदार्थः ? उच्यते। मुख्यार्थबाधनिरपेक्षबोधजनको मुख्यार्थसम्बद्धासम्बद्धसाधारणः प्रसिद्धाप्रसिद्धार्थविषयको वक्त्रादिवैशिष्ट्यज्ञानप्रतिभाद्युद्बुद्धः संस्कारविशेषो व्यञ्जना।
 
@@ -2635,13 +2741,33 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
  इति व्यञ्जनाविचारः।
 
+
+
+
+
+
+
+
+
 .
+
+
+
+
+
+
+
+
 
  **
 
 अथ
 
 स्फोटनिरूपणम्।
+
+
+
+
 
 \(40\)
 
@@ -3019,6 +3145,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 --
 
+
+
 परा
 
 वाङ्मूलचक्रस्था
@@ -3026,6 +3154,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 पश्यन्ती
 
 नाभिसंस्थिता।
+
+
 
 हृदिस्था
 
@@ -3039,6 +3169,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 इति।
 
+
+
 वैखर्या
 
 हि
@@ -3048,6 +3180,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 नादः
 
 परश्रवणगोचरः।
+
+
 
 मध्यमया
 
@@ -3117,6 +3251,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 ---
 
+
+
 अनादिनिधनं
 
 ब्रह्म
@@ -3124,6 +3260,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 शब्दतत्वं
 
 यदक्षरम्।
+
+
 
 विवर्ततेऽर्थभावेन
 
@@ -3181,6 +3319,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 --
 
+ 
+
 पदे
 
 न
@@ -3194,6 +3334,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 न
 
 च।
+
+
 
 वाक्यात्
 
@@ -3345,6 +3487,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 ----
 
+
+
 शब्दस्य
 
 ग्रहणे
@@ -3355,11 +3499,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 ध्वनिरिष्यते।
 
+
+
 शब्दस्योर्ध्वमभिव्यक्तेर्वृत्तिभेदे
 
 तु
 
 वैकृताः।
+
+
 
 ध्वनयः
 
@@ -3391,6 +3539,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 --
 
+
+
 अभ्यासार्थे
 
 द्रुता
@@ -3402,6 +3552,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 चिन्तने
 
 तथा।
+
+
 
 शिष्याणामुपदेशार्थं
 
@@ -3573,6 +3725,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 ---
 
+
+
 \`
 
 अनेकव्यक्त्यभिव्यङ्ग्या
@@ -3617,13 +3771,31 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 सुस्थम्।
 
+
+
 इति
 
 स्फोटनिरूपणम्।
 
+
+
+
+
+
+
+
+
 .
 
+
+
+
+
  ***अथाकाङ्क्षाविचारः***
+
+
+
+
 
 \(50\) अथ शाब्दबोधसहकारिकारणानि आकाङ्षायोग्यताऽऽसत्तितात्पर्याणि। वाक्यसमयग्राहिका आकाङ्क्षा। सा चैकपदार्थज्ञाने तदर्थान्वययोग्यार्थस्य यज्ज्ञानं तद्विषयेच्छा \`अस्यान्वय्यर्थः कः' इत्येवंरूपा पुरुषनिष्ठैव। तथापि तस्याः स्वविषयेऽर्थे आरोपः। अयमर्थो।ञर्थान्तरमाकाङ्क्षतीति व्यवहारात्। इदमेवाभिधाना पर्यवसानमित्युच्यते। पदे तु नारोपः अर्थबोधोत्तरमेवाकाङ्क्षोदयात्। पदं साकाङ्क्षमिति तु साकाङ्क्षार्थबोधकमित्यर्थकम्। तदुक्तं समर्थसूत्रे भाष्ये--- \`परस्परव्यपेक्षां सामर्थ्यमेके। का पुनश्शब्दयोर्व्यपेक्षा ? न ब्रूमः शब्दयोरिति किं तर्हि अर्थयोरि'ति। ईदृशजिज्ञासोत्थापकं चैकपदार्थेऽपरपदार्थव्यतिरेकप्रयुक्तस्यान्वयबोधाजनकत्वस्य ज्ञानमिति तद्विषये तादृशान्वयबोधाजनकत्वेऽप्याकाङ्क्षेति व्यवहारः।
 
@@ -3631,9 +3803,27 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
  इति आकाङ्क्षाविचारः।
 
+
+
+
+
+
+
+
+
+
+
 .
 
+
+
+
+
  ***अथ योग्यताविचारः।***
+
+
+
+
 
 \(52\) योग्यता परस्परान्वयप्रयोजकधर्मवत्त्वम्। तेन \`पयसा सिञ्चति' इति वाक्यं योग्यम्। अस्ति च सेकान्वयप्रयोजकद्रवद्रव्यत्वं योग्यता जले। करणत्वेन जलान्वयप्रयोजकार्द्रीकरणत्वं योग्यता सेकक्रियायाम्। अत एव \`वह्निना सिञ्चति' इति वाक्यमयोग्यम्, वह्नेः सेकान्वयप्रयोजकद्रवद्रव्यत्वाभावात्।
 
@@ -3645,11 +3835,29 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
  इति योग्यताविचारः।
 
+
+
+
+
+
+
+
+
 .
+
+
+
+
+
+
 
 अथ
 
 तात्पर्यविचारः।
+
+
+
+
 
 \(55\)
 
@@ -3735,6 +3943,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 चैश्वरतात्पर्यादर्थबोधः।
 
+
+
 ननु
 
 प्रकरणादीनां
@@ -3807,8 +4017,12 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njg0ODI2OTk3
 
 सङ्गच्छते।
 
+
+
 इति
 
 तात्पर्यविचारः।
+
+
 
 \]

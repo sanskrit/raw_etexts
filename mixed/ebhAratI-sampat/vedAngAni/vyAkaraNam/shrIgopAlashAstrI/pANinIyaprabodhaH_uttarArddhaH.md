@@ -23,7 +23,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MDQwNDc2MDk
 **पाणिनीयप्रबोधः**  
 **(उत्तरार्द्धः)**
 
-![](../books_images/U-IMG-1725222282Screenshot2024-09-02015358.png)  
+<MISSING_FIG href="../books_images/U-IMG-1725222282Screenshot2024-09-02015358.png"/>  
 **प्रकाशकः**
 
 **शास्त्रिमण्डल ग्रन्थागारम्**
@@ -39,7 +39,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MDQwNDc2MDk
 
 **शुभाशंसा**
 
-**![](../books_images/U-IMG-1725222782प.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725222782प.png"/>**
 
 **प्रसादतो भारति! भारतं तव स्वतन्त्रताम्प्राप्य समेधते निजाम्।  
 पुना रसज्ञासु निषिच्यतां सुधा यया बुधाः स्युर्विविधायुधा अपि॥**
@@ -101,7 +101,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MDQwNDc2MDk
 **असत्पथात् सत्पथमानयेद्विभुस्तमस्ततेर्ज्योतिरुपानयेच्च नः।  
 वरेण्यभगैःसवितुस्स नो धियः प्रचोदयात्कर्मणि भूर्भुवः स्वरोम्॥**
 
-![](../books_images/U-IMG-1727069894Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1727069894Screenshot2024-07-17202331.png"/>
 
 **ॐ श्रीकृष्णः शरणम्मम**
 
@@ -605,4 +605,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MDQwNDc2MDk
 **सारभ्यं मेसमीहन्ते संस्कृत्याऽध्यापनेऽधुना॥**
 
 \]
-

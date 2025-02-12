@@ -14,13 +14,33 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjgwODc4MzI4NjQ
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 **Bharatiya Darshanesu**
 
 **Pratyaksha Pramana Vimarshah**
 
+
+
+
+
 **Pandit R. ThangaswamiSharma**
 
 Hon. Professor.
+
+
+
+
 
 **The Adyar Library and Research Centre**
 
@@ -28,11 +48,15 @@ Madras.
 
 1995
 
+
+
 **FOREWORD**
 
 I have great pleasuse in writing a foreword to this Sanskrit work on Perception in Indian Darśanas (Bhāratīya-darśanesu Pratyaksa Pramāna Vimarśah) by Professor R. Thangaswami Sarma being published in the Adyar Library and Research Centre which has already published some important works on Indian epistemology like the Vedānta Paribhāśā by Dharmarājādhvarin, the Mānameyodaya by Nārāyaṇa Bhatta and Nārāyaṇa, the Vedānta Kārikāvali by Bucci Veňkațacārya and the Epistemology of Dvait a Vedānta by Dr. P. Nāgarāja Rao. The Present work by Thangaswami written in simple and lucid Sanskrit, is confined to perception (Pratyaksa), but is comprehensive and comparative. Professor Thangaswami is a traditional scholar specialized in Nyāya, Vedänta, Mimāṁsā and Vyākaraḥa with several years of postgraduate teaching experience and research work. He is the recipient of the Certificate of honour for Sanskrit by the President of India. He is at present Hon. Professor, Adyar Library and Research Centre. Indian philosophical Darśanas are generally divided into two classes: Nāstika and Āstika. Pāṇini, who derives these terms refers to them as positive and negative respectively, but does not specify what is accepted or rejected; asti nāsti diştam matiḥ. Hence the term āstika is interpreted differently; those who believe in the existence of soul, those who believe in another world, those who believe in god, and those who accept the Vedas as Pramāņa. In the Kathopanişad Yama's reply to the third question of Naciketas' astītyevopalabdhavyaḥ is also vague as to what is accepted. Manu smrti's definition of nāstika as Vedanindaka or one who does not accept the Veda as pramāna makes the Buddhists and Jains as Nāstikas, but both of them consider themselves as Āstikas. The Hindu view of Mānādhīnā meyasiddhiḥ is reversed into meyādhīnā mānasiddhiḥ by the Buddhists mānam hi dvividham meyadvaividhyāt (Pramāņavārttika, Pratyakşa Section-1). Buddhist logicians like Dignāga accept only nirvikalpaka experience as perception; Savikalpaka is included under Inference. Bhartrhari had stressed the importance of language for knowledge. न सोऽस्ति प्रत्ययो लोके यः शब्दानुगमादृते । अनुविद्धमिव ज्ञानं सर्वं शब्देन भासते ॥ Even nirvikalpaka can be organized by the all-comprehending language. वाग्रूपता चेदुत्क्रामेदवबोधस्य शाश्वती । न प्रकाशः प्रकाशेत सा हि प्रत्यवमर्शिनी ॥ Perception normally requires the working of the sense organs together with the mind; it may be defective with the defects in the sense organs, or due to the lack of effort on the part of the mind comprehanding the objects. Internal concentration of the mind may help in being aware of its working, and even conceptional images might be roused. Hence those who meditate have to be careful about self-deception or self-hypnotism being taken for real flash of insight. Dignāga's view is that indeterminate cognition may be experienced, but cannot be communicated, since communication is possible only through words or concepts. Prof. Thangaswami has discussed all the problems connected with perception from the different standpoints of the various schools. I am sure that this book will be not only of interest and help to the students of Indian epistemology, but also a source of inspiration for further studies
 
 **K. KUNJUNNI RAJA**
+
+
 
 **किञ्चिद् वक्तव्यम्**
 
@@ -200,6 +224,8 @@ Tamil Nadu
 
 10-5-1995
 
+
+
 श्रीः
 
 श्री गणेशाय नमः
@@ -208,6 +234,8 @@ Tamil Nadu
 
 **॥ भारतीयदर्शनेषु प्रत्यक्षप्रमाणविमर्शः ॥**
 
+
+
 **छन्दःपादयुगा निरुक्तिसुनखा शिक्षासुजङ्धायुगा**
 
 **ऋग्वेदोरुयुगा यजुस्सुजधना या सामवेदोदरा ।**
@@ -215,6 +243,8 @@ Tamil Nadu
 **तर्कोद्वृत्तकुचा श्रुतिस्सृतिगला काव्यारविन्दानना**
 
 **वेदान्तामललोचना विलसती तां नौमि वागीश्वरीम् ॥**
+
+
 
 दार्शनिकी भूमिका -
 
@@ -945,5 +975,14 @@ Tamil Nadu
 **श्रीभगवत्पादसेवायां समर्पितश्च ।**
 
 **॥ शुभं भूयात् ॥**
+
+
+
+
+
+
+
+
+
 
 \]

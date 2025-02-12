@@ -12,13 +12,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 \[
 
+
+
 पाणिनीयः गणपाठः
+
+
+
+
 
 अंशु आदयः 6.2.193
 
 अंशु आदि 11
 
 अंशु -
+
+
 
 1
 
@@ -40,11 +48,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पुर
 
+
+
 अक्षद्यूत आदयः 4.4.19
 
 अक्षद्यूत आदि 10
 
 अक्षद्यूत -
+
+
 
 1
 
@@ -64,11 +76,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अनुगत
 
+
+
 अङ्गुलि आदयः 5.3.108
 
 अङ्गुलि आदि 17
 
 अङ्गुलि -
+
+
 
 1
 
@@ -92,6 +108,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खल
 
+
+
 11
 
 उदश्वित् 12
@@ -104,11 +122,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शिखा
 
+
+
 अज आदयः 4.1.4
 
 अज आदि 35
 
 अजा -
+
+
 
 1
 
@@ -130,6 +152,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मन्दा
 
+
+
 10
 
 विलाता 11
@@ -144,6 +168,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शणफला
 
+
+
 16
 
 पिण्डफला (संभस्त्राजिनशणपिण्डेभ्यः फलात्) 17
@@ -153,6 +179,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 प्राक्पुष्पा 19
 
 काण्डपुष्पा
+
+
 
 20
 
@@ -168,6 +196,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 देवविशा
 
+
+
 26
 
 कनिष्ठा 27
@@ -178,11 +208,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दंष्ट्रा
 
+
+
 अजिर आदयः 6.3.119
 
 अजिर आदि 6
 
 अजिर -
+
+
 
 1
 
@@ -196,17 +230,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चक्रवाक
 
+
+
 अद आदयः 2.4.72
 
 अदि-प्रभृति 72
 
 अद(भक्षणे) धातुगणः
 
+
+
 अनुप्रवचन आदयः 5.1.111
 
 अनुप्रवचन आदि 13
 
 अनुप्रवचन -
+
+
 
 1
 
@@ -224,6 +264,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अनुवाचन
 
+
+
 8
 
 अन्वारोहण 9
@@ -234,11 +276,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आरोहण
 
+
+
 अनुशतिक आदयः 7.3.20
 
 अनुशतिक आदि 22
 
 अनुशतिक आकृतिगणः
+
+
 
 1
 
@@ -251,6 +297,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अङ्गारवेणु 5
 
 अस्यहेति
+
+
 
 6
 
@@ -266,6 +314,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 इहलोक
 
+
+
 12
 
 परलोक 13
@@ -280,15 +330,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 राजपुरुषात्ष्यञि
 
+
+
 18
 
 सूत्रनड
+
+
 
 अपूप आदयः 5.1.4
 
 अपूप आदि 23
 
 अपूप -
+
+
 
 1
 
@@ -305,6 +361,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 पृथुक 7
 
 ओदन
+
+
 
 8
 
@@ -324,6 +382,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अर्गल
 
+
+
 16
 
 यूप 17
@@ -336,21 +396,29 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पत्र
 
+
+
 अयस्मय आदयः 1.4.20
 
 अयस्मय आदि 0
 
 अयस्मय आकृतिगणः
 
+
+
 1
 
 ऋक्वत्
+
+
 
 अरीहण आदयः 4.2.80
 
 अरीहण 45
 
 अरीहण -
+
+
 
 1
 
@@ -370,6 +438,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 त्रैगर्तायन
 
+
+
 9
 
 मैत्रायण 10
@@ -383,6 +453,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 सौसायन 14
 
 धौमतायन
+
+
 
 15
 
@@ -398,6 +470,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विपथ
 
+
+
 21
 
 विपाश 22
@@ -411,6 +485,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 काशकृत्स्न 26
 
 जाम्बवत
+
+
 
 27
 
@@ -428,6 +504,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खदिर
 
+
+
 34
 
 सुशर्मन् 35
@@ -440,11 +518,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 यज्ञदत्त
 
+
+
 अर्धर्च आदयः 2.4.31
 
 अर्धर्च 231
 
 अर्धर्च -
+
+
 
 1
 
@@ -463,6 +545,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 शङ्ख 8
 
 गूथ
+
+
 
 9
 
@@ -484,6 +568,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अन्धकार
 
+
+
 18
 
 कमण्डलु 19
@@ -501,6 +587,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 धर्म 25
 
 कर्मन्
+
+
 
 26
 
@@ -522,6 +610,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 रजत
 
+
+
 35
 
 पिधान 36
@@ -542,6 +632,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 द्रोण
 
+
+
 44
 
 पात्रीव 45
@@ -559,6 +651,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 शाल 51
 
 शील
+
+
 
 52
 
@@ -580,6 +674,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वर्ण
 
+
+
 61
 
 चमस 62
@@ -597,6 +693,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 निधान 68
 
 निर्यास
+
+
 
 69
 
@@ -616,6 +714,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मधु
 
+
+
 77
 
 मूलक 78
@@ -633,6 +733,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 मुख 84
 
 प्रग्रीव
+
+
 
 85
 
@@ -652,6 +754,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मस्तक
 
+
+
 93
 
 कुसुम 94
@@ -670,6 +774,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अङ्कुश
 
+
+
 101
 
 आश्रय 102
@@ -683,6 +789,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 वसन्त 106
 
 तटाक(तडाग)
+
+
 
 107
 
@@ -702,6 +810,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दैवत
 
+
+
 115
 
 समर 116
@@ -719,6 +829,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 विशाल 122
 
 चषाल
+
+
 
 123
 
@@ -742,6 +854,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सूत्र
 
+
+
 133
 
 गाण्डीव 134
@@ -762,6 +876,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 छल
 
+
+
 142
 
 राष्ट्र 143
@@ -777,6 +893,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कुडप 148
 
 ककुद
+
+
 
 149
 
@@ -798,6 +916,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वल्मीक
 
+
+
 158
 
 वसु 159
@@ -816,6 +936,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 स्वर
 
+
+
 166
 
 निष्क 167
@@ -831,6 +953,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 यौवन 172
 
 कलह
+
+
 
 173
 
@@ -849,6 +973,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 विषाण 180
 
 भावन
+
+
 
 181
 
@@ -870,6 +996,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 लोह
 
+
+
 190
 
 शपथ 191
@@ -887,6 +1015,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कूर्च 197
 
 तण्डक
+
+
 
 198
 
@@ -906,11 +1036,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तण्डुल
 
+
+
 अर्शस् आदयः 5.2.127
 
 अर्शस् आदि 15
 
 अर्शस् आकृतिगणः
+
+
 
 1
 
@@ -934,6 +1068,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अम्ल
 
+
+
 11
 
 लवण 12
@@ -942,11 +1078,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वर्णात्
 
+
+
 अश्मन् आदयः 4.2.80
 
 अश्मन् 21
 
 अश्मन् -
+
+
 
 1
 
@@ -970,6 +1110,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शिखा
 
+
+
 11
 
 पाम 12
@@ -990,11 +1132,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गुह
 
+
+
 अश्व आदयः 4.1.110
 
 अश्व आदि 70
 
 अश्व -
+
+
 
 1
 
@@ -1011,6 +1157,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 रोहिण 7
 
 खर्जूर(खजूर)
+
+
 
 8
 
@@ -1030,6 +1178,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 रामोद
 
+
+
 16
 
 काश 17
@@ -1048,6 +1198,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 श्रविष्ठ
 
+
+
 24
 
 पवित्र 25
@@ -1063,6 +1215,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 वाग्मिन् 30
 
 विश्वानर
+
+
 
 31
 
@@ -1082,6 +1236,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विशंप
 
+
+
 39
 
 गिरि 40
@@ -1098,6 +1254,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 धम्र्य
 
+
+
 46
 
 पुंसि जाते 47
@@ -1111,6 +1269,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 दुर्मनस् 51
 
 मनस्
+
+
 
 52
 
@@ -1126,6 +1286,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कितव
 
+
+
 58
 
 धन्य 59
@@ -1136,11 +1298,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खदिर
 
+
+
 अश्व आदयः 5.1.39
 
 अश्व आदि 9
 
 अश्व -
+
+
 
 1
 
@@ -1158,11 +1324,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वर्षा
 
+
+
 अश्वपति आदयः 4.1.84
 
 अश्वपति आदि 18
 
 अश्वपति -
+
+
 
 1
 
@@ -1179,6 +1349,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 यज्ञपति 7
 
 कुलपति
+
+
 
 8
 
@@ -1198,11 +1370,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 क्षेत्रपति
 
+
+
 आकर्ष आदयः 5.2.64
 
 आकर्ष आदि 18
 
 आकर्ष(आकष) -
+
+
 
 1
 
@@ -1224,6 +1400,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 जय
 
+
+
 10
 
 नय 11
@@ -1240,11 +1418,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शकुनि
 
+
+
 आचित आदयः 6.2.146
 
 अन्-आचित आदि 11
 
 आचित -
+
+
 
 1
 
@@ -1262,11 +1444,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उपहित
 
+
+
 8
 
 उपस्थित 9
 
 संहितागवि
+
+
 
 आय आदयः 3.1.31
 
@@ -1274,17 +1460,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आय प्रत्ययाः
 
+
+
 1
 
 ईयङ् 2
 
 णिङ्
 
+
+
 आहिताग्नि आदयः 2.2.37
 
 आहिताग्नि आदि 9
 
 आहिताग्नि आकृतिगणः
+
+
 
 1
 
@@ -1302,17 +1494,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गतार्थ
 
+
+
 इन्द्रजनन आदयः 4.3.88
 
 इन्द्रजनन आदि 0
 
 इन्द्रजनन आकृतिगणः
 
+
+
 इष्ट आदयः 5.2.88
 
 इष्ट आदि 32
 
 इष्ट -
+
+
 
 1
 
@@ -1328,6 +1526,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 निकथित
 
+
+
 7
 
 निपठित 8
@@ -1341,6 +1541,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 परिरक्षित 12
 
 अर्चित
+
+
 
 13
 
@@ -1358,6 +1560,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अवधान
 
+
+
 20
 
 अवधारित 21
@@ -1372,17 +1576,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अनुयुक्त
 
+
+
 26
 
 अनुपठित 27
 
 व्याकुलित
 
+
+
 उक्थ आदयः 4.2.60
 
 उक्थ आदि 25
 
 उक्थ -
+
+
 
 1
 
@@ -1402,6 +1612,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अनुपद
 
+
+
 9
 
 अनुकल्प 10
@@ -1418,6 +1630,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पदक्रम
 
+
+
 16
 
 सङ्घट(सङ्घट्ट) 17
@@ -1432,11 +1646,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आयुर्वेद
 
+
+
 उञ्छ आदयः 6.1.160
 
 उञ्छ आदि 15
 
 उञ्छ -
+
+
 
 1
 
@@ -1452,6 +1670,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 युग कालविशेषे रथाद्युपकरणे च
 
+
+
 7
 
 वेदवेगवेष्टबन्धाः करणे 8
@@ -1462,15 +1682,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 साम्बतापौ भावगर्हायाम्
 
+
+
 11
 
 उत्तमशश्वत्तमौ सर्वत्र
+
+
 
 उण् आदयः 3.3.1
 
 उण्-आदि 288
 
 उण् -
+
+
 
 1
 
@@ -1491,6 +1717,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 इलच् 9
 
 एरक्
+
+
 
 10
 
@@ -1513,6 +1741,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 आतृकन् 19
 
 ऊ
+
+
 
 20
 
@@ -1538,6 +1768,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वालच्
 
+
+
 31
 
 कालन् 32
@@ -1557,6 +1789,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अटि 39
 
 अजि
+
+
 
 40
 
@@ -1578,6 +1812,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 एणु
 
+
+
 49
 
 थन् 50
@@ -1597,6 +1833,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 णुकन् 57
 
 क्रुकन्
+
+
 
 58
 
@@ -1620,6 +1858,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 डो
 
+
+
 68
 
 डोसि 69
@@ -1637,6 +1877,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 असानच् 75
 
 आवच्
+
+
 
 76
 
@@ -1658,6 +1900,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 इष्णुच्
 
+
+
 85
 
 युक् 86
@@ -1677,6 +1921,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कक् 93
 
 कन्
+
+
 
 94
 
@@ -1698,6 +1944,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 क्सरन्
 
+
+
 103
 
 अन्युच् 104
@@ -1716,6 +1964,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 क्त
 
+
+
 111
 
 आय्य 112
@@ -1733,6 +1983,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 क्त्र 118
 
 अतच्
+
+
 
 119
 
@@ -1754,6 +2006,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तशन्
 
+
+
 128
 
 तनन् 129
@@ -1773,6 +2027,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 यतुच् 136
 
 अलिच्
+
+
 
 137
 
@@ -1794,6 +2050,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 करन्
 
+
+
 146
 
 आक 147
@@ -1813,6 +2071,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 धुक् 154
 
 लक्
+
+
 
 155
 
@@ -1834,6 +2094,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ऋतिन्
 
+
+
 164
 
 क्रि 165
@@ -1851,6 +2113,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 ऊषन् 171
 
 कुषन्
+
+
 
 172
 
@@ -1872,6 +2136,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चट्
 
+
+
 181
 
 अबक 182
@@ -1891,6 +2157,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 त्वन् 189
 
 त्नण्
+
+
 
 190
 
@@ -1916,6 +2184,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 यक्
 
+
+
 201
 
 क्वनिप् 202
@@ -1936,6 +2206,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मनि
 
+
+
 210
 
 सिकन् 211
@@ -1953,6 +2225,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 त्र 217
 
 त्रन्
+
+
 
 218
 
@@ -1974,6 +2248,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कीटन्
 
+
+
 227
 
 क्मलन् 228
@@ -1993,6 +2269,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 ऊम 235
 
 क्न
+
+
 
 236
 
@@ -2016,6 +2294,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 डुन्
 
+
+
 246
 
 वुन् 247
@@ -2038,6 +2318,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 र
 
+
+
 256
 
 ड्रि 257
@@ -2048,11 +2330,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अलच्
 
+
+
 उत्कर आदयः 4.2.90
 
 उत्कर आदि 57
 
 उत्कर -
+
+
 
 1
 
@@ -2070,6 +2356,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खलाजिन
 
+
+
 8
 
 कितव 9
@@ -2086,6 +2374,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 क्षुद्र
 
+
+
 15
 
 शाल 16
@@ -2101,6 +2391,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 खदिर 21
 
 शूर्पणाय
+
+
 
 22
 
@@ -2122,6 +2414,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 फल
 
+
+
 31
 
 अर्क 32
@@ -2140,6 +2434,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पर्ण
 
+
+
 39
 
 शङ्कर 40
@@ -2156,6 +2452,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खण्ड
 
+
+
 46
 
 मन्त्रणार्ह 47
@@ -2166,11 +2464,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आद्र्रवृक्ष
 
+
+
 उत्स आदयः 4.1.86
 
 उत्स आदि 37
 
 उत्स -
+
+
 
 1
 
@@ -2190,6 +2492,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तलुन
 
+
+
 9
 
 पृथिवी 10
@@ -2206,6 +2510,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 जनपद
 
+
+
 16
 
 उशीनर 17
@@ -2219,6 +2525,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 पृषदंश 21
 
 भल्लकीय
+
+
 
 22
 
@@ -2234,6 +2542,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पञ्चाल
 
+
+
 28
 
 उष्णिह् 29
@@ -2246,11 +2556,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ग्रीष्मात् अच्छन्दसि
 
+
+
 उत्सङ्ग आदयः 4.4.15
 
 उत्सङ्ग आदि 7
 
 उत्सङ्ग -
+
+
 
 1
 
@@ -2266,11 +2580,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पिटाक
 
+
+
 उद्गातृ आदयः 5.1.129
 
 उद्गातृ आदि 14
 
 उद्गातृ -
+
+
 
 1
 
@@ -2292,6 +2610,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दुष्ठु
 
+
+
 10
 
 अध्वर्यु 11
@@ -2300,11 +2620,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सुभग मन्त्रे
 
+
+
 उपक आदयः 2.4.69
 
 उपक आदि 50
 
 उपक -
+
+
 
 1
 
@@ -2320,6 +2644,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चूडारक
 
+
+
 7
 
 गडुक 8
@@ -2333,6 +2659,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 पिङ्गलक 12
 
 पिष्टक
+
+
 
 13
 
@@ -2348,6 +2676,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कठेरणि
 
+
+
 19
 
 काशकृत्स्न 20
@@ -2361,6 +2691,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कृष्णपिङ्गल 24
 
 कर्णक
+
+
 
 25
 
@@ -2378,6 +2710,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अपजघ
 
+
+
 32
 
 अनभिहित 33
@@ -2394,6 +2728,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वर्णक
 
+
+
 39
 
 मदाघ 40
@@ -2406,11 +2742,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दामकण्ठ
 
+
+
 उर(स्) आदयः 5.4.151
 
 उरस्-प्रभृति 12
 
 उरस् -
+
+
 
 1
 
@@ -2432,15 +2772,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शालि
 
+
+
 10
 
 अर्थात् नञः
+
+
 
 ऊरी आदयः 1.4.61
 
 ऊरी आदि 38
 
 ऊरी -
+
+
 
 1
 
@@ -2460,6 +2806,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शकला
 
+
+
 9
 
 ध्वंसकला 10
@@ -2476,6 +2824,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विक्ली
 
+
+
 16
 
 आलोष्ठी 17
@@ -2489,6 +2839,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 पर्याली 21
 
 शेवाली
+
+
 
 22
 
@@ -2506,6 +2858,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वषट्
 
+
+
 29
 
 स्वधा 30
@@ -2518,11 +2872,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आविस्
 
+
+
 ऋगयन आदयः 4.3.73
 
 ऋगयन आदि 23
 
 ऋगयन -
+
+
 
 1
 
@@ -2540,6 +2898,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 व्याकरण
 
+
+
 8
 
 निगम 9
@@ -2556,6 +2916,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उद्याव
 
+
+
 15
 
 संवत्सर 16
@@ -2568,11 +2930,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 भिक्षा
 
+
+
 ऋश्य आदयः 4.2.80
 
 ऋश्य 31
 
 ऋश्य -
+
+
 
 1
 
@@ -2594,6 +2960,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उपगूढ
 
+
+
 10
 
 असनी 11
@@ -2611,6 +2979,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 बहु 17
 
 खदिर
+
+
 
 18
 
@@ -2630,17 +3000,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 परिवृत्त
 
+
+
 26
 
 कर्दम 27
 
 अंशु
 
+
+
 ऐषुकारि आदयः 4.2.54
 
 ऐषुकारि आदि 26
 
 ऐषुकारि -
+
+
 
 1
 
@@ -2656,6 +3032,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खाडायन
 
+
+
 7
 
 दासमित्रि 8
@@ -2670,6 +3048,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शौभ्रायण
 
+
+
 13
 
 सौवीर 14
@@ -2682,6 +3062,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वैश्वमानव
 
+
+
 18
 
 वैश्वधेनव 19
@@ -2692,11 +3074,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सापिण्डि
 
+
+
 कच्छ आदयः 4.2.133
 
 कच्छ आदि 16
 
 कच्छ -
+
+
 
 1
 
@@ -2718,6 +3104,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 द्वीप
 
+
+
 10
 
 अनूप 11
@@ -2730,11 +3118,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 रङ्कु
 
+
+
 कडार आदयः 2.2.38
 
 कडार 19
 
 कडार -
+
+
 
 1
 
@@ -2756,6 +3148,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 भिक्षुक
 
+
+
 10
 
 पिङ्गल(पिङ्गुल) 11
@@ -2774,11 +3168,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बर्बर
 
+
+
 कण्डू आदयः 3.1.27
 
 कण्डू 57
 
 कण्डूञ् आकृतिगणः
+
+
 
 1
 
@@ -2802,6 +3200,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 इरङ्
 
+
+
 11
 
 दुवस् 12
@@ -2819,6 +3219,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 मगध 18
 
 पम्पस्(पपस्)
+
+
 
 19
 
@@ -2838,6 +3240,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 भिषज्
 
+
+
 27
 
 भिष्णुज्(भिष्णज्) 28
@@ -2853,6 +3257,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 चुरण 33
 
 भुरण
+
+
 
 34
 
@@ -2874,6 +3280,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 लेख
 
+
+
 43
 
 रेखा 44
@@ -2892,11 +3300,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 संबर
 
+
+
 कण्व आदयः 4.2.111
 
 कण्व आदि 47
 
 कण्व गर्गादिउअवान्तरगणः
+
+
 
 1
 
@@ -2916,6 +3328,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वृषगण
 
+
+
 9
 
 रहूगण 10
@@ -2932,6 +3346,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पराशर
 
+
+
 16
 
 जतुकर्ण(जातुकर्ण) 17
@@ -2945,6 +3361,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 पूतिमाष 21
 
 स्थूर
+
+
 
 22
 
@@ -2960,6 +3378,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तितिक्ष
 
+
+
 28
 
 भिषज्(भिषज) 29
@@ -2973,6 +3393,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 दल्भ 33
 
 चेकित
+
+
 
 34
 
@@ -2992,11 +3414,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुटीगु
 
+
+
 कत्त्रि आदयः 4.2.95
 
 कत्त्रि आदि 13
 
 कत्त्रि -
+
+
 
 1
 
@@ -3018,6 +3444,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उख्या
 
+
+
 10
 
 ग्राम 11
@@ -3026,11 +3454,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ायाः यलोपश्च
 
+
+
 कथा आदयः 4.4.102
 
 कथा आदि 14
 
 कथा -
+
+
 
 1
 
@@ -3046,6 +3478,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 जनेवाद
 
+
+
 7
 
 जनोवाद 8
@@ -3060,11 +3494,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आयुर्वेद
 
+
+
 कर्की आदयः 6.2.87
 
 कर्की आदि 9
 
 कर्की -
+
+
 
 1
 
@@ -3082,11 +3520,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बदरी
 
+
+
 कर्ण आदयः 4.2.80
 
 कर्ण 17
 
 कर्ण -
+
+
 
 1
 
@@ -3106,6 +3548,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुण्टी
 
+
+
 9
 
 जित्वन् 10
@@ -3120,11 +3564,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आनक(आकन)
 
+
+
 कर्ण आदयः 5.2.24
 
 कर्ण आदि 12
 
 कर्ण -
+
+
 
 1
 
@@ -3148,11 +3596,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पृष्ठ
 
+
+
 कल्याणी आदयः 4.1.126
 
 कल्याणी आदि 12
 
 कल्याणी -
+
+
 
 1
 
@@ -3172,17 +3624,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कनिष्ठा
 
+
+
 9
 
 मध्यमा 10
 
 परस्त्री
 
+
+
 कस्क आदयः 8.3.48
 
 कस्क आदि 18
 
 कस्कः -
+
+
 
 1
 
@@ -3198,6 +3656,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सर्पिष्कुण्डिका
 
+
+
 7
 
 धनुष्कपालम् 8
@@ -3210,17 +3670,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अयस्काण्डः
 
+
+
 12
 
 भास्करः 13
 
 अहस्करः
 
+
+
 कार्तकौजप आदयः 6.2.37
 
 कार्तकौजप आदि 26
 
 कार्तकौजपौ -
+
+
 
 1
 
@@ -3236,6 +3702,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शाकलशुनकाः
 
+
+
 7
 
 आर्चाभिमौद्गलाः 8
@@ -3246,6 +3714,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अनिमत्तकामविद्धाः
 
+
+
 11
 
 बाभ्रवशालङ्कायनाः 12
@@ -3255,6 +3725,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कठकौथुमाः 14
 
 कौथुमलौकाक्षाः
+
+
 
 15
 
@@ -3268,11 +3740,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 याज्यानुवाक्ये
 
+
+
 काश आदयः 4.2.80
 
 काश 22
 
 काश -
+
+
 
 1
 
@@ -3296,6 +3772,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कङ्कट
 
+
+
 11
 
 गुहा 12
@@ -3316,11 +3794,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शीपाल
 
+
+
 कष् आदयः 3.4.46
 
 कष्-आदि 12
 
 कष् -
+
+
 
 1
 
@@ -3344,11 +3826,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पूर्
 
+
+
 काण्ड आदयः 6.2.135
 
 काण्ड आदि 6
 
 काण्ड -
+
+
 
 1
 
@@ -3362,11 +3848,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कूल
 
+
+
 काशी आदयः 4.2.116
 
 काशी आदि 29
 
 काशी -
+
+
 
 1
 
@@ -3384,6 +3874,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुनामन्
 
+
+
 8
 
 हिरण्य 9
@@ -3400,6 +3892,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दशग्राम
 
+
+
 15
 
 शौचावतान 16
@@ -3414,6 +3908,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दाशमित्र
 
+
+
 21
 
 सुधामित्र 22
@@ -3424,11 +3920,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 साधमित्र(सधमित्र)
 
+
+
 काष्ठ आदयः 8.1.67
 
 काष्ठ आदि 16
 
 काष्ठ -
+
+
 
 1
 
@@ -3448,6 +3948,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अनुक्त
 
+
+
 9
 
 भृश 10
@@ -3462,11 +3964,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अति
 
+
+
 किंशुलुक आदयः 6.3.117
 
 किंशुलुक आदि 7
 
 किंशुलुक(किंशुलक) -
+
+
 
 1
 
@@ -3482,17 +3988,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुक्कुट
 
+
+
 कॄ आदयः 7.2.75
 
 कॄ 5
 
 कॄ(विक्षेपे) धात्ववान्तरगणः(तुदादौ)
 
+
+
 किसर आदयः 4.4.53
 
 किसर आदि 10
 
 किसर(किशर) -
+
+
 
 1
 
@@ -3512,11 +4024,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 हरिद्रु
 
+
+
 कुञ्ज आदयः 4.1.98
 
 कुञ्ज आदि 13
 
 कुञ्ज -
+
+
 
 1
 
@@ -3538,17 +4054,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शुभ
 
+
+
 10
 
 स्कन्द 11
 
 स्कम्भ
 
+
+
 कुट आदयः 1.2.1
 
 कुट आदि 25
 
 कुट(कौटिल्ये) धात्ववान्तरगणः(तुदादौ)
+
+
 
 कुमुदउ
 
@@ -3557,6 +4079,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कुमुद 21
 
 कुमुद -
+
+
 
 1
 
@@ -3576,6 +4100,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 निर्यास
 
+
+
 9
 
 शकट 10
@@ -3594,17 +4120,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कूप
 
+
+
 17
 
 विकङ्कट 18
 
 दशग्राम
 
+
+
 कुमुद आदयः 4.2.80
 
 कुमुद आदि 13
 
 कुमुद -
+
+
 
 1
 
@@ -3624,6 +4156,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कूट
 
+
+
 9
 
 मधुकर्ण 10
@@ -3632,11 +4166,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शुचिकर्ण
 
+
+
 कुम्भपदी आदयः 5.4.139
 
 कुम्भपदी 32
 
 कुम्भपदी -
+
+
 
 1
 
@@ -3654,6 +4192,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सूत्रपदी
 
+
+
 8
 
 कलशीपदी 9
@@ -3670,6 +4210,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शितिपदी
 
+
+
 15
 
 विष्णुपदी 16
@@ -3683,6 +4225,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कृष्णपदी 20
 
 द्रोणीपदी(द्रोणपदी)
+
+
 
 21
 
@@ -3698,11 +4242,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सूचीपदी
 
+
+
 कुरु आदयः 4.1.151
 
 कुरु आदि 48
 
 कुरु -
+
+
 
 1
 
@@ -3720,6 +4268,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विमति
 
+
+
 8
 
 कापिञ्जलादि 9
@@ -3735,6 +4285,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 वातकि 14
 
 दामोष्णीषि
+
+
 
 15
 
@@ -3754,6 +4306,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अभ्र
 
+
+
 23
 
 दर्भ 24
@@ -3767,6 +4321,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 श्यावरथ 28
 
 श्यावपुत्र
+
+
 
 29
 
@@ -3784,6 +4340,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शालिन्
 
+
+
 36
 
 शालीन 37
@@ -3798,11 +4356,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वामरथस्य कण्वादिवत् स्वरवर्जम्
 
+
+
 कुलाल आदयः 4.3.118
 
 कुलाल आदि 18
 
 कुलाल -
+
+
 
 1
 
@@ -3820,6 +4382,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 देवराज
 
+
+
 8
 
 पर्षद्(परिषद्) 9
@@ -3836,15 +4400,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुम्भकार
 
+
+
 15
 
 श्वपाक
+
+
 
 कृत आदयः 2.1.59
 
 कृत आदि 22
 
 कृत आकृतिगणः
+
+
 
 1
 
@@ -3864,6 +4434,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 समाख्यात
 
+
+
 9
 
 संसेवित 10
@@ -3878,6 +4450,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उपाकृत
 
+
+
 15
 
 कलित 16
@@ -3890,11 +4464,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उदित
 
+
+
 कृशाश्व आदयः 4.2.80
 
 कृशाश्व 29
 
 कृशाश्व -
+
+
 
 1
 
@@ -3914,6 +4492,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 लोमक
 
+
+
 9
 
 कूट 10
@@ -3929,6 +4509,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 प्रतर(प्रातर) 15
 
 सदृश
+
+
 
 16
 
@@ -3948,17 +4530,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पराशर
 
+
+
 23
 
 अयस् 24
 
 मौद्गल्याकार
 
+
+
 कोटर आदयः 6.3.117
 
 कोटर 5
 
 कोटर -
+
+
 
 1
 
@@ -3970,11 +4558,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शरिक(सारिक)
 
+
+
 क्रतु आदयः 6.2.118
 
 क्रतु आदि 7
 
 क्रतु -
+
+
 
 1
 
@@ -3990,11 +4582,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 भग
 
+
+
 क्रम आदयः 4.2.61
 
 क्रम आदि 5
 
 क्रम -
+
+
 
 1
 
@@ -4006,17 +4602,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सामन्
 
+
+
 क्री आदयः 3.1.81
 
 क्री आदि 61
 
 डुक्रीञ्(द्रव्यविनिमये) धातुगणः
 
+
+
 क्रोड आदयः 4.1.56
 
 क्रोड आदि 9
 
 क्रोड आकृतिगणः
+
+
 
 1
 
@@ -4036,11 +4638,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गुद
 
+
+
 क्रौडि आदयः 4.1.80
 
 क्रौडि आदि 20
 
 क्रौडि -
+
+
 
 1
 
@@ -4058,6 +4664,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बैल्वयत
 
+
+
 8
 
 सौधातकि 9
@@ -4072,6 +4680,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 भौलिकि
 
+
+
 14
 
 शाल्मलि 15
@@ -4082,11 +4692,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गौकक्ष्य
 
+
+
 क्षुभ्न आदयः 8.4.39
 
 क्षुभ्न आदि 24
 
 क्षुभ्न आकृतिगणः
+
+
 
 1
 
@@ -4102,6 +4716,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गिरिनगरम्
 
+
+
 7
 
 नृतिर्यङि प्रयोजयन्ति 8
@@ -4116,6 +4732,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अग्नि
 
+
+
 13
 
 परिनर्तनम् 14
@@ -4128,17 +4746,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शरनिवासः
 
+
+
 18
 
 दर्भानूपः 19
 
 आचार्यात् अणत्वम् च
 
+
+
 खण्डिक आदयः 4.2.45
 
 खण्डिक आदि 10
 
 खण्डिक(खण्डिका) -
+
+
 
 1
 
@@ -4154,17 +4778,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अहन्
 
+
+
 7
 
 युगवरत्रा(युगवरत्र) 8
 
 हलबन्ध(हलबन्धा)
 
+
+
 गमि(न्) आदयः 3.3.3
 
 गमिन्-आदि 8
 
 गमी -
+
+
 
 1
 
@@ -4180,11 +4810,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 प्रतियायी
 
+
+
 गर्ग आदयः 4.1.105
 
 गर्ग आदि 101
 
 गर्ग -
+
+
 
 1
 
@@ -4204,6 +4838,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पुलस्ति
 
+
+
 9
 
 चमस 10
@@ -4222,6 +4858,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अवट
 
+
+
 17
 
 मनस् 18
@@ -4237,6 +4875,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 लोहित 23
 
 बभ्रु
+
+
 
 24
 
@@ -4256,6 +4896,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अलिगु
 
+
+
 32
 
 जिगीषु 33
@@ -4274,6 +4916,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तृक्ष
 
+
+
 40
 
 तनु 41
@@ -4289,6 +4933,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कपि 46
 
 कत(कपिकत)
+
+
 
 47
 
@@ -4306,6 +4952,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 यज्ञवल्क
 
+
+
 54
 
 अभयजात 55
@@ -4322,6 +4970,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चुलुक
 
+
+
 61
 
 मुसल 62
@@ -4335,6 +4985,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 महित 66
 
 मन्त्रित
+
+
 
 67
 
@@ -4352,6 +5004,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गोलन्द
 
+
+
 74
 
 उलूक 75
@@ -4367,6 +5021,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 भण्डित 80
 
 चेकित
+
+
 
 81
 
@@ -4384,17 +5040,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सुलाभिन्
 
+
+
 88
 
 उक्थ 89
 
 कुटीगु
 
+
+
 गो आदयः 5.1.2
 
 गो आदि 23
 
 गो -
+
+
 
 1
 
@@ -4414,6 +5076,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 रुाुच्
 
+
+
 9
 
 नाभिनभम् च 10
@@ -4428,6 +5092,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खर
 
+
+
 15
 
 असुर 16
@@ -4440,11 +5106,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दीप्त(दीस)
 
+
+
 गवाश्व आदयः 2.4.11
 
 गवाश्व-प्रभृति 28
 
 गवाश्वम् -
+
+
 
 1
 
@@ -4460,6 +5130,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पुत्रपौत्रम्
 
+
+
 7
 
 श्वचण्डालम् 8
@@ -4471,6 +5143,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 शाटीप्रच्छदम् 11
 
 शाटीपट्टिकम्
+
+
 
 12
 
@@ -4484,6 +5158,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मांसशोणितम्
 
+
+
 17
 
 दर्भशरम् 18
@@ -4496,15 +5172,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दासीदासम्
 
+
+
 22
 
 भागवतीभागवतम्
+
+
 
 गह आदयः 4.2.138
 
 गह आदि 56
 
 गह आकृतिगणः
+
+
 
 1
 
@@ -4520,6 +5202,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अङ्ग
 
+
+
 7
 
 मगध 8
@@ -4533,6 +5217,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 उत्तमशाख 12
 
 एकशाख
+
+
 
 13
 
@@ -4548,6 +5234,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 इष्वनीक
 
+
+
 19
 
 कामप्रस्थ 20
@@ -4559,6 +5247,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 लावेरणि 23
 
 सौमित्रि
+
+
 
 24
 
@@ -4576,6 +5266,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बैजि
 
+
+
 31
 
 आनृशंसि 32
@@ -4591,6 +5283,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 वाल्मीकि 37
 
 आश्वत्थि
+
+
 
 38
 
@@ -4610,17 +5304,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मुख
 
+
+
 पाश्र्वतसोः लोपः 46
 
 जनपरयोः कुक् च 47
 
 वेणुकादिभ्यः छण्
 
+
+
 गुड आदयः 4.4.103
 
 गुड आदि 14
 
 गुड -
+
+
 
 1
 
@@ -4642,6 +5342,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 संवाह
 
+
+
 10
 
 प्रवास 11
@@ -4650,11 +5352,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उपवास
 
+
+
 गुण आदयः 6.2.176
 
 गुण आदि 5
 
 गुण आकृतिगणः
+
+
 
 1
 
@@ -4666,11 +5372,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 छन्दोमान
 
+
+
 गृष्टि आदयः 4.1.136
 
 गृष्टि आदि 6
 
 गृष्टि -
+
+
 
 1
 
@@ -4684,11 +5394,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मित्रयु
 
+
+
 गोत्र आदयः 8.1.27
 
 गोत्र आदि 15
 
 गोत्र -
+
+
 
 1
 
@@ -4710,6 +5424,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विचक्षण
 
+
+
 10
 
 अवचक्षण 11
@@ -4720,11 +5436,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वा नाम
 
+
+
 गोपवन आदयः 2.4.67
 
 गोपवन आदि 8
 
 गोपवन -
+
+
 
 1
 
@@ -4740,11 +5460,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 श्यामक
 
+
+
 गोषद् आदयः 5.2.62
 
 गोषद्-आदि 13
 
 गोषद् -
+
+
 
 1
 
@@ -4760,6 +5484,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 रक्षोहण
 
+
+
 7
 
 युञ्जान 8
@@ -4770,11 +5496,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कृशानु
 
+
+
 गौर आदयः 4.1.41
 
 गौर आदि 149
 
 गौर -
+
+
 
 1
 
@@ -4796,6 +5526,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तूण
 
+
+
 10
 
 द्रुण 11
@@ -4811,6 +5543,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 उणक 16
 
 कुवल
+
+
 
 17
 
@@ -4828,6 +5562,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सलद
 
+
+
 24
 
 शष्कण्ड 25
@@ -4844,6 +5580,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 षाण्डश
 
+
+
 31
 
 आनन्द 32
@@ -4857,6 +5595,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 शष्कुल 36
 
 सूर्य(सूर्म)
+
+
 
 37
 
@@ -4876,6 +5616,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सल्लक
 
+
+
 45
 
 मालत 46
@@ -4894,6 +5636,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मह
 
+
+
 53
 
 छेद 54
@@ -4909,6 +5653,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अनड्वाही 59
 
 एषणः करणे
+
+
 
 60
 
@@ -4926,6 +5672,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 औद्गाहमानि
 
+
+
 67
 
 पारक 68
@@ -4941,6 +5689,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 यान(पान) 73
 
 मेध
+
+
 
 74
 
@@ -4960,6 +5710,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 नोट
 
+
+
 82
 
 शातन 83
@@ -4976,6 +5728,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अधिकार
 
+
+
 89
 
 प्रत्यवरोहिणी 90
@@ -4987,6 +5741,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अण्डर 93
 
 सुन्दर
+
+
 
 94
 
@@ -5008,6 +5764,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सूद
 
+
+
 103
 
 ह्मद(ह्मद्) 104
@@ -5021,6 +5779,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कदर 108
 
 कन्दर
+
+
 
 109
 
@@ -5038,6 +5798,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सौधर्म
 
+
+
 116
 
 रेवती नक्षत्रे 117
@@ -5049,6 +5811,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 पुष्कल 120
 
 कटात् श्रोणिवचने
+
+
 
 121
 
@@ -5066,15 +5830,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 क्रोष्टु
 
+
+
 128
 
 पितामह
+
+
 
 गौर आदयः 6.2.194
 
 गौर आदि 11
 
 गौर -
+
+
 
 1
 
@@ -5096,11 +5866,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कल्प
 
+
+
 ग्रह आदयः 3.1.134
 
 ग्रहि 30
 
 ग्राही -
+
+
 
 1
 
@@ -5120,6 +5894,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 निवापी
 
+
+
 9
 
 निशायी 10
@@ -5134,6 +5910,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अवासी
 
+
+
 15
 
 अहारी 16
@@ -5145,6 +5923,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अविषयी 19
 
 विशयी (विशयी विषयी देशे)
+
+
 
 20
 
@@ -5158,11 +5938,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 परिभावी
 
+
+
 घोष आदयः 6.2.85
 
 घोष आदि 16
 
 घोष -
+
+
 
 1
 
@@ -5184,6 +5968,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कूट
 
+
+
 10
 
 शाल्मली 11
@@ -5196,11 +5982,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मुनि
 
+
+
 च आदयः 1.4.57
 
 च आदि 149
 
 च आकृतिगणः
+
+
 
 1
 
@@ -5224,6 +6014,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कूपत्
 
+
+
 11
 
 कुवित् 12
@@ -5244,6 +6036,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 माकिम्
 
+
+
 20
 
 माकीम् 21
@@ -5261,6 +6055,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 नञ् 27
 
 तावत्
+
+
 
 28
 
@@ -5284,6 +6080,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 स्वाहा
 
+
+
 38
 
 स्वधा 39
@@ -5303,6 +6101,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 स्म 46
 
 अ
+
+
 
 47
 
@@ -5326,6 +6126,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उकञ्
 
+
+
 57
 
 वेलायाम् 58
@@ -5344,6 +6146,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 धिक्
 
+
+
 65
 
 हाहा 66
@@ -5361,6 +6165,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अहो 72
 
 नो(नौ)
+
+
 
 73
 
@@ -5382,6 +6188,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 इति
 
+
+
 82
 
 वत् 83
@@ -5400,6 +6208,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सनुकम्
 
+
+
 90
 
 छम्बट्(छंवट्.
@@ -5415,6 +6225,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 सनात् 95
 
 नहिकम्
+
+
 
 96
 
@@ -5433,6 +6245,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 नहि 103
 
 कथम्
+
+
 
 104
 
@@ -5453,6 +6267,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 आहोस्वित् 112
 
 शम्
+
+
 
 113
 
@@ -5476,6 +6292,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 फट्
 
+
+
 122
 
 अये 123
@@ -5496,6 +6314,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सीम्
 
+
+
 131
 
 सि 132
@@ -5504,11 +6324,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उपसर्गविभक्तिस्वरप्रतिरूपकाः च निपाताः
 
+
+
 च आदयः 8.1.58
 
 च आदि 5
 
 च -
+
+
 
 1
 
@@ -5520,11 +6344,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 एव
 
+
+
 चारु आदयः 6.2.160
 
 चारु आदि 11
 
 चारु -
+
+
 
 1
 
@@ -5540,17 +6368,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विकारसदृशे व्यस्ते
 
+
+
 समस्ते 7
 
 गृहपति 8
 
 गृहपतिक
 
+
+
 चिहण आदयः 6.2.125
 
 चिहण आदि 10
 
 चिहण -
+
+
 
 1
 
@@ -5566,11 +6400,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुक्कुट
 
+
+
 7
 
 चिक्कण 8
 
 चित्कण
+
+
 
 चुर आदयः 3.1.25
 
@@ -5578,11 +6416,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चुर(स्तेये) धातुगणः
 
+
+
 चूर्ण आदयः 6.2.134
 
 चूर्ण आदि 12
 
 चूर्ण -
+
+
 
 1
 
@@ -5604,15 +6446,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चक्कन
 
+
+
 10
 
 चौल
+
+
 
 छत्र आदयः 4.4.62
 
 छत्र आदि 22
 
 छत्र -
+
+
 
 1
 
@@ -5634,6 +6482,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विश्वधा
 
+
+
 10
 
 तपस् 11
@@ -5652,15 +6502,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चुक्षा
 
+
+
 18
 
 मन्द्र
+
+
 
 छात्रि आदयः 6.2.86
 
 छात्रि आदि 7
 
 छात्रि -
+
+
 
 1
 
@@ -5676,11 +6532,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गोमि
 
+
+
 छेद आदयः 5.1.64
 
 छेद आदि 17
 
 छेद -
+
+
 
 1
 
@@ -5702,6 +6562,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विप्रकर्ष
 
+
+
 10
 
 प्रेषण 11
@@ -5714,11 +6576,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विराग विरङ्गम् च
 
+
+
 जक्षिति आदयः 6.1.6
 
 जक्षिति आदि 7
 
 जक्ष(भक्षहसनयोः) धात्ववान्तरगणः(अदादौ)
+
+
 
 जुहोति आदयः 2.4.75
 
@@ -5726,17 +6592,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 हु(दानादनयोः) धातुगणः
 
+
+
 ज्वल आदयः 3.1.140
 
 ज्वलिति 30
 
 ज्वल(दीप्तौ) धात्ववान्तरगणः(भ्वादौ)
 
+
+
 ञ्य आदयः 5.3.119
 
 ञ्य आदि 7
 
 ञ्य प्रत्ययाः
+
+
 
 1
 
@@ -5752,11 +6624,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 यञ्
 
+
+
 डतर आदयः 7.1.25
 
 डतर आदि 5
 
 डतर सर्वादिउअवान्तरगणः
+
+
 
 1
 
@@ -5768,11 +6644,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अन्यतर
 
+
+
 तक्षशिल आदयः 4.3.93
 
 तक्षशिल आदि 14
 
 तक्षशिल -
+
+
 
 1
 
@@ -5790,6 +6670,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 किन्नर
 
+
+
 8
 
 काण्डधार 9
@@ -5802,17 +6684,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कंस
 
+
+
 त(न्) आदयः 3.1.79
 
 तन्-आदि 10
 
 तनु(विस्तारे) धातुगणः
 
+
+
 तनोति आदयः 6.4.37
 
 तनोति आदि 8
 
 तनु(विस्तारे) धात्ववान्तरगणः(तनादौ)
+
+
 
 1
 
@@ -5826,15 +6714,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वनु(याचने)
 
+
+
 6
 
 मनु(अवबोधने)
+
+
 
 तसि(ल्) आदयः 6.3.35
 
 तसिल्-आदि 65
 
 तसिल् तद्धितसंज्ञकेष्वेकदेशप्रत्ययाः
+
+
 
 1
 
@@ -5858,6 +6752,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 एनप्
 
+
+
 11
 
 आच् 12
@@ -5875,6 +6771,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 ध्यमुञ् 18
 
 पाशप्
+
+
 
 19
 
@@ -5894,6 +6792,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 इष्ठन्
 
+
+
 27
 
 ईयसुन् 28
@@ -5911,6 +6811,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 क 34
 
 अकच्
+
+
 
 35
 
@@ -5932,6 +6834,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 डतमच्
 
+
+
 44
 
 ढ 45
@@ -5952,6 +6856,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 टेण्यण्
 
+
+
 53
 
 अञ् 54
@@ -5966,11 +6872,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कृत्वसुच्
 
+
+
 तारका आदयः 5.2.36
 
 तारका आदि 88
 
 तारका आकृतिगणः
+
+
 
 1
 
@@ -5992,6 +6902,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उच्चार
 
+
+
 10
 
 प्रचार 11
@@ -6007,6 +6919,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कुसुम 16
 
 कुतूहल
+
+
 
 17
 
@@ -6026,6 +6940,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 धेनुष्या
 
+
+
 25
 
 पिपासा 26
@@ -6043,6 +6959,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 दोह 32
 
 सुख
+
+
 
 33
 
@@ -6062,6 +6980,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तरङ्ग
 
+
+
 41
 
 तिलक 42
@@ -6079,6 +6999,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 रण 48
 
 कुवलय
+
+
 
 49
 
@@ -6098,6 +7020,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कज्जल
 
+
+
 57
 
 तृष् 58
@@ -6113,6 +7037,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 शृङ्गार 63
 
 अङ्कुर
+
+
 
 64
 
@@ -6132,6 +7058,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अङ्गार
 
+
+
 72
 
 हस्तक 73
@@ -6146,11 +7074,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गर्भात् अप्राणिनि
 
+
+
 ताल आदयः 4.3.152
 
 ताल आदि 8
 
 ताल -
+
+
 
 1
 
@@ -6166,11 +7098,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 श्यामाक
 
+
+
 तिक आदयः 4.1.154
 
 तिक आदि 38
 
 तिक -
+
+
 
 1
 
@@ -6192,6 +7128,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ग्राम्य
 
+
+
 10
 
 नील 11
@@ -6210,6 +7148,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 भौरिकि
 
+
+
 18
 
 भौलिकि 19
@@ -6223,6 +7163,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 वाजवत 23
 
 चन्द्रमस्
+
+
 
 24
 
@@ -6240,6 +7182,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वृष
 
+
+
 31
 
 लोमक 32
@@ -6248,11 +7192,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 यज्ञ
 
+
+
 तिककितव आदयः 2.4.68
 
 तिककितव आदि 11
 
 तिककितवाः -
+
+
 
 1
 
@@ -6264,6 +7212,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बकनखगुदपरिणद्धाः
 
+
+
 5
 
 लङ्कशान्तमुखाः 6
@@ -6274,11 +7224,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अग्निवेशदेशेरुकाः
 
+
+
 तिष्ठद्गु आदयः 2.1.17
 
 तिष्ठद्गु-प्रभृति 32
 
 तिष्ठद्गु -
+
+
 
 1
 
@@ -6294,6 +7248,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 लूयमानयवम्
 
+
+
 7
 
 पूयमानयवम् 8
@@ -6305,6 +7261,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 संह्मतबुसम् 11
 
 समभूमि
+
+
 
 12
 
@@ -6320,6 +7278,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आयतीसमम्
 
+
+
 18
 
 प्रोढम् 19
@@ -6334,17 +7294,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 प्रदक्षिणम् 24
 
+
+
 अपरदक्षिणम् 25
 
 संप्रति 26
 
 असंप्रति
 
+
+
 तुज आदयः 6.1.7
 
 तुज आदि 0
 
 तुज(हिंसायाम्) आकृतिगणः
+
+
 
 तुद आदयः 3.1.77
 
@@ -6354,11 +7320,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तुद(व्यथने) धातुगणः
 
+
+
 तुन्द आदयः 5.2.117
 
 तुन्द आदि 6
 
 तुन्द -
+
+
 
 1
 
@@ -6372,11 +7342,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 स्वाङ्गात् विवृद्धौ
 
+
+
 तृण आदयः 4.2.80
 
 तृण 16
 
 तृण -
+
+
 
 1
 
@@ -6400,6 +7374,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अर्जुन
 
+
+
 11
 
 सुवर्ण 12
@@ -6410,11 +7386,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बुस
 
+
+
 तौल्वलि आदयः 2.4.61
 
 तौल्वलि 32
 
 तौल्वलि -
+
+
 
 1
 
@@ -6432,6 +7412,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दैवमित्रि(दैवमति)
 
+
+
 8
 
 दैवयज्ञि 9
@@ -6443,6 +7425,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 आनुहारति(आनुराहति) 12
 
 पौष्करसादि
+
+
 
 13
 
@@ -6458,6 +7442,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वैशीति
 
+
+
 19
 
 आसिनासि 20
@@ -6472,6 +7458,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कारेणुपालि
 
+
+
 25
 
 वैकर्णि 26
@@ -6480,11 +7468,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वैहति
 
+
+
 त्यद् आदयः 1.1.74
 
 त्यद्-आदि 7
 
 त्यद् सर्वादिउअवान्तरगणः
+
+
 
 1
 
@@ -6500,11 +7492,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 एक
 
+
+
 दण्ड आदयः 5.1.66
 
 दण्ड आदि 15
 
 दण्ड -
+
+
 
 1
 
@@ -6526,6 +7522,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वध
 
+
+
 10
 
 गुहा 11
@@ -6536,11 +7534,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 भङ्ग
 
+
+
 दधिपय(स्) आदयः 2.4.14
 
 दधिपयस्-आदि 19
 
 दधिपयसी -
+
+
 
 1
 
@@ -6554,6 +7556,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 परिव्राजककौशिकौ
 
+
+
 (
 
 परिव्राट्कौशिकौ) 6
@@ -6565,6 +7569,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 दीक्षातपसी 9
 
 श्रद्धातपसी 10
+
+
 
 मेधातपसी 11
 
@@ -6578,11 +7584,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वाङ्मनसे
 
+
+
 दामनि आदयः 5.3.116
 
 दामनि आदि 19
 
 दामनि -
+
+
 
 1
 
@@ -6598,6 +7608,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शाकुन्तकि
 
+
+
 7
 
 आकिदन्ति(आक्तिदन्ति) 8
@@ -6612,6 +7624,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बैन्दवि
 
+
+
 13
 
 तुलभ 14
@@ -6620,11 +7634,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 काकन्दि
 
+
+
 दासीभार आदयः 6.2.42
 
 दासीभार 7
 
 दासीभारः -
+
+
 
 1
 
@@ -6640,11 +7658,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चन्द्रमाः
 
+
+
 दि(श्) आदयः 4.3.54
 
 दिश्-आदि 27
 
 दिश् -
+
+
 
 1
 
@@ -6668,6 +7690,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अलीक
 
+
+
 11
 
 उखा 12
@@ -6686,6 +7710,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मेघ
 
+
+
 19
 
 उदकात् संज्ञायाम् 20
@@ -6700,17 +7726,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आकाश
 
+
+
 दिव् आदयः 3.1.69
 
 दिव्-आदि 137
 
 दिवु(क्रीडाविजिहीषा...) धातुगणः
 
+
+
 दृढ आदयः 5.1.123
 
 दृढ आदि 23
 
 दृढ -
+
+
 
 1
 
@@ -6734,6 +7766,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ताम्र
 
+
+
 11
 
 शीत 12
@@ -6752,17 +7786,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मूक
 
+
+
 19
 
 समः मतिमनसोः 20
 
 जवन
 
+
+
 देवपथ आदयः 5.3.100
 
 देवपथ आदि 19
 
 देवपथ आकृतिगणः
+
+
 
 1
 
@@ -6782,6 +7822,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शतपथ
 
+
+
 9
 
 सिन्धुपथ 10
@@ -6796,11 +7838,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 इन्द्र
 
+
+
 15
 
 पुष्प 16
 
 मत्स्य
+
+
 
 द्युत आदयः 1.3.91
 
@@ -6808,11 +7854,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 द्युत(दीप्तौ) धात्ववान्तरगणः(भ्वादौ)
 
+
+
 द्वार आदयः 7.3.4
 
 द्वार आदि 10
 
 द्वार -
+
+
 
 1
 
@@ -6832,11 +7882,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 श्व
 
+
+
 द्विदण्डि आदयः 5.4.128
 
 द्विदण्डि आदि 21
 
 द्विदण्डि -
+
+
 
 1
 
@@ -6852,6 +7906,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उभयहस्ति
 
+
+
 7
 
 उभकर्णि 8
@@ -6865,6 +7921,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 उभबाहु 12
 
 एकपदि
+
+
 
 13
 
@@ -6880,11 +7938,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अन्तेवासि
 
+
+
 द्वि आदयः 5.3.2
 
 द्वि आदि 5
 
 द्वि सर्वादिउअवान्तरगणः
+
+
 
 1
 
@@ -6896,11 +7958,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 किम्
 
+
+
 धूम आदयः 4.2.127
 
 धूम आदि 46
 
 धूम -
+
+
 
 1
 
@@ -6916,6 +7982,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 माहिषस्थली
 
+
+
 7
 
 अट्टस्थली 8
@@ -6930,6 +7998,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 राजगृह
 
+
+
 13
 
 सात्रासाह 14
@@ -6943,6 +8013,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 आजीकूल 18
 
 द्व्याहाव
+
+
 
 19
 
@@ -6962,6 +8034,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 घोष
 
+
+
 27
 
 पल्ली 28
@@ -6973,6 +8047,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 तीर्थ 31
 
 कुलात् सौवीरेषु
+
+
 
 32
 
@@ -6990,11 +8066,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 साकेत
 
+
+
 नड आदयः 4.1.99
 
 नड आदि 73
 
 नड -
+
+
 
 1
 
@@ -7016,6 +8096,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सप्तल
 
+
+
 10
 
 वाजप्य 11
@@ -7032,6 +8114,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मित्र
 
+
+
 17
 
 द्वीप 18
@@ -7047,6 +8131,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कातर 23
 
 काश्यप
+
+
 
 24
 
@@ -7066,6 +8152,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुमार
 
+
+
 32
 
 क्रोष्टुक्रोष्टम् च 33
@@ -7081,6 +8169,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 तृण 38
 
 शकट
+
+
 
 39
 
@@ -7098,6 +8188,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 हंसक
 
+
+
 46
 
 दण्डिन् 47
@@ -7113,6 +8205,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 स्थिरक 52
 
 ब्रााहृण
+
+
 
 53
 
@@ -7132,6 +8226,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ब्राहृदत्त
 
+
+
 61
 
 उदुम्बर 62
@@ -7140,11 +8236,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अलोह
 
+
+
 नड आदयः 4.2.91
 
 नड आदि 12
 
 नड -
+
+
 
 1
 
@@ -7164,17 +8264,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कपोत
 
+
+
 9
 
 क्रुञ्चा ह्यस्वत्वम् च 10
 
 तक्षन् नलोपश्च
 
+
+
 नदी आदयः 4.2.97
 
 नदी आदि 16
 
 नदी -
+
+
 
 1
 
@@ -7192,6 +8298,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पूर्वनगरी
 
+
+
 8
 
 पाठा 9
@@ -7204,11 +8312,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सेतकी
 
+
+
 नन्दि आदयः 3.1.134
 
 नन्दि 25
 
 नन्दनः -
+
+
 
 1
 
@@ -7230,6 +8342,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दमनः
 
+
+
 (
 
 सहितपिदमः संज्ञायाम्) 10
@@ -7243,6 +8357,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 सङ्कर्षणः 14
 
 संहर्षणः
+
+
 
 15
 
@@ -7260,17 +8376,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शत्रुदमनः
 
+
+
 निज् आदयः 7.4.75
 
 निज् 3
 
 णिजिर्(शौचपोषणयोः) धात्ववान्तरगणः(जुहोत्यादौ)
 
+
+
 निरुदक आदयः 6.2.184
 
 निरुदक आदि 14
 
 निरुदक आकृतिगणः
+
+
 
 1
 
@@ -7286,6 +8408,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दुस्तरीप
 
+
+
 7
 
 निस्तरीप 8
@@ -7296,11 +8420,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उपाजिन
 
+
+
 निष्क आदयः 5.1.20
 
 निष्क आदि 7
 
 निष्क -
+
+
 
 1
 
@@ -7316,11 +8444,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 षष्टि
 
+
+
 न्यङ्कु आदयः 7.3.53
 
 न्यङ्कु आदि 23
 
 न्यङ्कु -
+
+
 
 1
 
@@ -7340,6 +8472,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 फलेपाकु
 
+
+
 9
 
 तक्र 10
@@ -7356,6 +8490,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सांसपाक
 
+
+
 16
 
 मूलपाक 17
@@ -7366,11 +8502,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 न्यग्रोध
 
+
+
 पक्ष आदयः 4.2.80
 
 पक्ष 37
 
 पक्ष -
+
+
 
 1
 
@@ -7392,6 +8532,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुम्भ
 
+
+
 10
 
 सीरक 11
@@ -7408,6 +8550,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 रोमन्
 
+
+
 17
 
 हस्तिन् 18
@@ -7423,6 +8567,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 पाक 23
 
 सिंहक(सहक)
+
+
 
 24
 
@@ -7444,11 +8590,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कला
 
+
+
 पच आदयः 3.1.134
 
 पच आदि 32
 
 पच आकृतिगणः
+
+
 
 1
 
@@ -7472,6 +8622,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गरट्
 
+
+
 11
 
 चोरट् 12
@@ -7487,6 +8639,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 रज(जर) 17
 
 मर
+
+
 
 18
 
@@ -7506,6 +8660,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सर्प
 
+
+
 26
 
 दर्प 27
@@ -7514,11 +8670,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 श्वपच
 
+
+
 पद् आदयः 6.1.171
 
 पद्-आदि 6
 
 पद् -
+
+
 
 1
 
@@ -7532,11 +8692,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 निश्
 
+
+
 पर्प आदयः 4.4.10
 
 पर्प आदि 8
 
 पर्प -
+
+
 
 1
 
@@ -7554,11 +8718,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पाद
 
+
+
 पर्शु आदयः 5.3.117
 
 पर्शु आदि 12
 
 पर्शु -
+
+
 
 1
 
@@ -7580,15 +8748,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अशनि
 
+
+
 10
 
 कार्षापण
+
+
 
 पलदी आदयः 4.2.110
 
 पलदी आदि 18
 
 पलदी -
+
+
 
 1
 
@@ -7606,6 +8780,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कमलकीट
 
+
+
 8
 
 कमलभिदा 9
@@ -7622,15 +8798,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पटच्चर
 
+
+
 15
 
 यकृल्लोम
+
+
 
 पलाश आदयः 4.1.141
 
 पलाश आदि 9
 
 पलाश -
+
+
 
 1
 
@@ -7648,11 +8830,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 यवास
 
+
+
 पात्रेसमित आदयः 2.1.48
 
 पात्रेसमित आदि 33
 
 पात्रेसमिताः आकृतिगणः
+
+
 
 1
 
@@ -7663,6 +8849,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 उदुम्बरकृमिः 4
 
 अवटकच्छपः
+
+
 
 5
 
@@ -7676,6 +8864,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मातरिपुरुषः
 
+
+
 10
 
 पिण्डीशुरः(पिजीशुरः) 11
@@ -7687,6 +8877,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 गेहेक्ष्वेडी 14
 
 गेहेविजिती
+
+
 
 15
 
@@ -7702,6 +8894,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आखनिकबकः
 
+
+
 21
 
 गोष्ठेशूरः 22
@@ -7716,11 +8910,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कर्णेचुरुचुरा
 
+
+
 पाम(न्) आदयः 5.2.100
 
 पामन्-आदि 14
 
 पामन् -
+
+
 
 1
 
@@ -7742,17 +8940,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अङ्गात्
 
+
+
 कल्याणे 10
 
 शाकीपलालीदद्रूणां ह्यस्वत्वं च 11
 
 लक्ष्म्याः अट् च
 
+
+
 पारस्कर आदयः 6.1.157
 
 पारस्कर-प्रभृति 7
 
 पारस्करः -
+
+
 
 1
 
@@ -7762,15 +8966,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 किष्कुः प्रमाणम्
 
+
+
 4
 
 तद्बृहतोः करपत्योः चोरदेवतयोः सुट् तलोपश्च
+
+
 
 पाश आदयः 4.2.49
 
 पाश आदि 13
 
 पाश -
+
+
 
 1
 
@@ -7794,15 +9004,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 हल
 
+
+
 11
 
 वन
+
+
 
 पिच्छ आदयः 5.2.100
 
 पिच्छ आदि 9
 
 पिच्छ(पिच्छा) -
+
+
 
 1
 
@@ -7820,11 +9036,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पङ्क
 
+
+
 पीलु आदयः 5.2.24
 
 पीलु आदि 8
 
 पीलु -
+
+
 
 1
 
@@ -7842,11 +9062,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खदिर
 
+
+
 पुरोहित आदयः 5.1.128
 
 पुरोहित आदि 36
 
 पुरोहित -
+
+
 
 1
 
@@ -7861,6 +9085,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 बाल 6
 
 मन्द(बालमन्द)
+
+
 
 7
 
@@ -7878,6 +9104,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अञ्जलिक
 
+
+
 14
 
 अन्तलिक(अञ्जनिक) 15
@@ -7889,6 +9117,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अविक 18
 
 पर्षिक
+
+
 
 19
 
@@ -7904,6 +9134,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सूचिक
 
+
+
 25
 
 सूचक(संरक्षसूचक) 26
@@ -7918,17 +9150,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चूडिक
 
+
+
 पुष आदयः 3.1.55
 
 पुष आदि 65
 
 पुष(पुष्टौ) धात्ववान्तरगणः(दिवादौ)
 
+
+
 पुष्कर आदयः 5.2.135
 
 पुष्कर आदि 32
 
 पुष्कर -
+
+
 
 1
 
@@ -7948,6 +9186,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मृणाल
 
+
+
 9
 
 शालूक 10
@@ -7963,6 +9203,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 प्रवास(प्रवाह) 15
 
 हिरण्य
+
+
 
 16
 
@@ -7982,6 +9224,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सरोरुह
 
+
+
 24
 
 अरविन्द 25
@@ -7994,11 +9238,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पयस्
 
+
+
 पृथु आदयः 5.1.122
 
 पृथु आदि 30
 
 पृथु -
+
+
 
 1
 
@@ -8024,6 +9272,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खण्ड
 
+
+
 12
 
 दण्ड 13
@@ -8044,6 +9294,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ह्यस्व
 
+
+
 21
 
 दीर्घ 22
@@ -8060,11 +9312,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अणु
 
+
+
 पृषोदर आदयः 6.3.109
 
 पृषोदर आदि 9
 
 पृषोदर आकृतिगणः
+
+
 
 1
 
@@ -8082,11 +9338,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बृसी
 
+
+
 पैल आदयः 2.4.59
 
 पैल आदि 21
 
 पैल आकृतिगणः
+
+
 
 1
 
@@ -8102,6 +9362,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 औदव्रजि
 
+
+
 7
 
 औदमेघि 8
@@ -8116,6 +9378,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 क्षति)
 
+
+
 12
 
 भौलिङ्गि 13
@@ -8128,15 +9392,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 औदशुद्धि(औदबुद्धि)
 
+
+
 17
 
 तद्राजात् च अणः
+
+
 
 प्रगदि(न्)उअदयः 4.2.80
 
 प्रगदिन् 10
 
 प्रगदिन् -
+
+
 
 1
 
@@ -8156,11 +9426,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कोविदार
 
+
+
 प्रज्ञा आदयः 5.4.38
 
 प्रज्ञा आदि 33
 
 प्रज्ञा -
+
+
 
 1
 
@@ -8180,6 +9454,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मनस्
 
+
+
 9
 
 श्रोत्रं शरारे 10
@@ -8195,6 +9471,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 योध 15
 
 चक्षुस्
+
+
 
 16
 
@@ -8214,6 +9492,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 असुर
 
+
+
 24
 
 रक्षस् 25
@@ -8226,11 +9506,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 देवता
 
+
+
 प्रतिजन आदयः 4.4.99
 
 प्रतिजन आदि 12
 
 प्रतिजन -
+
+
 
 1
 
@@ -8248,6 +9532,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अमुष्यकुल
 
+
+
 8
 
 विश्वजन 9
@@ -8256,11 +9542,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पञ्चजन
 
+
+
 प्रवृद्ध आदयः 6.2.147
 
 प्रवृद्ध आदि 7
 
 प्रवृद्धम्(यानम्) -
+
+
 
 1
 
@@ -8272,15 +9562,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खट्वारूढाः
 
+
+
 5
 
 कविशस्ताः
+
+
 
 प्र आदयः 1.4.58
 
 प्र आदि 22
 
 प्र -
+
+
 
 1
 
@@ -8304,6 +9600,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वि
 
+
+
 11
 
 नि 12
@@ -8326,11 +9624,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उप
 
+
+
 प्रिया आदयः 6.3.34
 
 प्रिया आदि 15
 
 प्रिया -
+
+
 
 1
 
@@ -8352,6 +9654,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 समा
 
+
+
 10
 
 चपला 11
@@ -8362,11 +9666,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तनया
 
+
+
 प्रेक्षा आदयः 4.2.80
 
 प्रेक्षा 21
 
 प्रेक्षा -
+
+
 
 1
 
@@ -8381,6 +9689,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 न्यग्रोध 6
 
 इक्कट
+
+
 
 7
 
@@ -8402,6 +9712,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 यवाष(यवास)
 
+
+
 16
 
 गर्त 17
@@ -8410,11 +9722,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 हिरण्य
 
+
+
 प्लक्ष आदयः 4.3.164
 
 प्लक्ष आदि 8
 
 प्लक्ष -
+
+
 
 1
 
@@ -8432,17 +9748,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बृहती
 
+
+
 पू आदयः 7.3.80
 
 पू आदि 21
 
 पूञ्(पवने) धात्ववान्तरगणः(क्र्यादौ)
 
+
+
 पूर्व आदयः 7.1.16
 
 पूर्व आदि 9
 
 पूर्व -
+
+
 
 1
 
@@ -8462,17 +9784,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अन्तर
 
+
+
 फण आदयः 6.4.125
 
 फण आदि 7
 
 फण(गतौ) धात्ववान्तरगणः(भ्वादौ)
 
+
+
 बल आदयः 4.2.80
 
 बल 13
 
 बल -
+
+
 
 1
 
@@ -8498,11 +9826,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुल
 
+
+
 बल आदयः 5.2.136
 
 बल आदि 17
 
 बल -
+
+
 
 1
 
@@ -8519,6 +9851,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कुल 7
 
 चूडा
+
+
 
 8
 
@@ -8538,11 +9872,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 युद्ध
 
+
+
 बहु आदयः 4.1.45
 
 बहु आदि 40
 
 बहु आकृतिगणः
+
+
 
 1
 
@@ -8562,6 +9900,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 राति
 
+
+
 9
 
 राधि 10
@@ -8578,6 +9918,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कृदिकारात् अक्तिनः
 
+
+
 16
 
 सर्वतः अक्तिन् अर्थात् इत्येके 17
@@ -8589,6 +9931,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कमल 20
 
 विकट
+
+
 
 21
 
@@ -8606,6 +9950,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अहन्
 
+
+
 28
 
 क्रोड 29
@@ -8622,11 +9968,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गुद
 
+
+
 बाहु आदयः 4.1.96
 
 बाहु आदि 53
 
 बाहु आकृतिगणः
+
+
 
 1
 
@@ -8641,6 +9991,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 वटाकु 6
 
 उपनिन्दु(उपविन्दु)
+
+
 
 7
 
@@ -8660,6 +10012,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 धुवका
 
+
+
 15
 
 दुर्मित्रा 16
@@ -8673,6 +10027,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अग्निशर्मन् 20
 
 सुशर्मन्
+
+
 
 21
 
@@ -8690,6 +10046,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उदञ्चु
 
+
+
 28
 
 शिरस् 29
@@ -8705,6 +10063,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 खरनादिन् 34
 
 नगरमर्दिन्
+
+
 
 35
 
@@ -8722,6 +10082,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गद
 
+
+
 42
 
 प्रद्युम्न 43
@@ -8732,11 +10094,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सम्भूयोम्भसोः सलोपः च
 
+
+
 बिद आदयः 4.1.104
 
 बिद आदि 52
 
 बिद -
+
+
 
 1
 
@@ -8754,6 +10120,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ऋष्टिसेण(ऋषिसेण)
 
+
+
 8
 
 ऋतभाग 9
@@ -8769,6 +10137,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 शुनक 14
 
 धेनु
+
+
 
 15
 
@@ -8786,6 +10156,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 श्यामाक
 
+
+
 22
 
 श्यामक 23
@@ -8799,6 +10171,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 बह्रस्क 27
 
 अर्कजूष(अर्कजुष/अर्कलूष) 28
+
+
 
 वध्योग 29
 
@@ -8815,6 +10189,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 निषाद 35
 
 शबर
+
+
 
 36
 
@@ -8834,11 +10210,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ननान्दृ
 
+
+
 बिल्वक आदयः 6.4.153
 
 बिल्वक आदि 10
 
 बिल्वक नडादिउअवान्तरगणः।कुक्
+
+
 
 1
 
@@ -8858,11 +10238,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तक्षक
 
+
+
 बिल्व आदयः 4.3.136
 
 बिल्व आदि 13
 
 बिल्व -
+
+
 
 1
 
@@ -8884,17 +10268,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पाटली
 
+
+
 10
 
 कर्कन्धू 11
 
 कुटीर
 
+
+
 ब्रााहृण आदयः 5.1.124
 
 ब्रााहृण आदि 49
 
 ब्रााहृण आकृतिगणः
+
+
 
 1
 
@@ -8914,6 +10304,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उपराधय
 
+
+
 9
 
 एकभाव 10
@@ -8930,6 +10322,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सम्भाषिन्
 
+
+
 16
 
 बहुभाषिन् 17
@@ -8943,6 +10337,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 परमस्थ 21
 
 मध्यमस्थ
+
+
 
 22
 
@@ -8962,6 +10358,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बालिश
 
+
+
 30
 
 अलस 31
@@ -8978,6 +10376,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दायाद
 
+
+
 37
 
 विशस्ति 38
@@ -8988,17 +10388,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सर्ववेदादिभ्यः स्वार्थे
 
+
+
 41
 
 चतुर्वेदस्य उभयपदवृद्धिः च 42
 
 शौटीर
 
+
+
 भर्ग आदयः 4.1.178
 
 भर्ग आदि 8
 
 भर्ग -
+
+
 
 1
 
@@ -9016,11 +10422,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कौरव्य
 
+
+
 भस्त्रा आदयः 4.4.16
 
 भस्त्रा आदि 7
 
 भस्त्रा -
+
+
 
 1
 
@@ -9036,11 +10446,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अंसेभार
 
+
+
 भिक्षा आदयः 4.2.38
 
 भिक्षा आदि 15
 
 भिक्षा -
+
+
 
 1
 
@@ -9060,6 +10474,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पद्धति
 
+
+
 9
 
 अथर्वन् 10
@@ -9072,11 +10488,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 श्रोत्र
 
+
+
 भिदा आदयः 3.3.104
 
 भिदा आदि 21
 
 भिदा(विदारणे) -
+
+
 
 1
 
@@ -9094,6 +10514,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आरा शस्त्र्याम्
 
+
+
 8
 
 हारा 9
@@ -9110,6 +10532,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पीडा
 
+
+
 15
 
 वपा 16
@@ -9118,11 +10542,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वज्जा
 
+
+
 भीम आदयः 3.4.74
 
 भीम आदि 16
 
 भीम आकृतिगणः
+
+
 
 1
 
@@ -9137,6 +10565,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 प्रस्कन्दन 6
 
 प्रपतन(प्रतपन)
+
+
 
 7
 
@@ -9154,11 +10584,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खलति
 
+
+
 भू आदयः 1.3.1
 
 भूव्-आदि 2039
 
 भू(सत्तायाम्) धातुपाठः
+
+
 
 भृञ् आदयः 7.4.76
 
@@ -9166,11 +10600,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 डुभृञ्(धारणपोषणयोः) धात्ववान्तरगणः(जुहोत्यादौ)
 
+
+
 भृश आदयः 3.1.12
 
 भृश आदि 25
 
 भृश -
+
+
 
 1
 
@@ -9192,6 +10630,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 रहस्
 
+
+
 10
 
 रोहत् 11
@@ -9210,6 +10650,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शुचिवर्चस्
 
+
+
 18
 
 अण्डर 19
@@ -9220,11 +10662,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अरजस्
 
+
+
 भौरिकि आदयः 4.2.54
 
 भौरिकि आदि 9
 
 भौरिकि -
+
+
 
 1
 
@@ -9242,11 +10688,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वैकयत
 
+
+
 मधु आदयः 4.2.86
 
 मधु आदि 28
 
 मधु -
+
+
 
 1
 
@@ -9266,6 +10716,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 किशरा
 
+
+
 9
 
 मरुत् 10
@@ -9283,6 +10735,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 आसन्दी 16
 
 शकल
+
+
 
 17
 
@@ -9302,11 +10756,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वट
 
+
+
 मनोज्ञ आदयः 5.1.133
 
 मनोज्ञ आदि 26
 
 मनोज्ञ -
+
+
 
 1
 
@@ -9326,6 +10784,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 श्रोत्रिय
 
+
+
 9
 
 चोर 10
@@ -9342,6 +10802,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ग्रमषण्ड 16
 
+
+
 ग्रामकुमार 17
 
 सुकुमार 18
@@ -9356,11 +10818,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शतपुत्र
 
+
+
 मयूरव्यंसक आदयः 2.1.72
 
 मयूरव्यंसक आदि 71
 
 मयूरव्यंसक आकृतिगणः
+
+
 
 1
 
@@ -9374,6 +10840,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 लाङ्गुलगृह्र(लाङ्गुलेगृह्र)
 
+
+
 6
 
 पुनर्दाय 7
@@ -9385,6 +10853,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 एहिवाणिजा क्रिया 10
 
 प्रेहिवाणिजा
+
+
 
 11
 
@@ -9398,6 +10868,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 एहिकटा
 
+
+
 16
 
 अपेहिकटा 17
@@ -9410,6 +10882,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विधामचूडा
 
+
+
 21
 
 उद्धामचूडा(उद्धारचूडा) 22
@@ -9419,6 +10893,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 आहरसेना 24
 
 आहरवनिता(आहरविनता)
+
+
 
 25
 
@@ -9432,6 +10908,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उत्पतनिपता
 
+
+
 30
 
 उच्चावचम् 31
@@ -9443,6 +10921,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 नखप्रचम् 34
 
 निश्चप्रचम्
+
+
 
 35
 
@@ -9456,6 +10936,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उत्पत्यपाकला
 
+
+
 40
 
 निपत्यरोहिणी 41
@@ -9468,6 +10950,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 इहद्वितीया
 
+
+
 45
 
 जहिजोडः(जहिजोडम्) 46
@@ -9475,6 +10959,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 जहिस्तम्बम्(जहिस्तम्बः) 47
 
 उज्जहिस्तम्बम्
+
+
 
 48
 
@@ -9486,6 +10972,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खादतवमता(खादतचमता)
 
+
+
 52
 
 आवपनिष्किरा (आहरनिष्किरा) 53
@@ -9496,15 +10984,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पचप्रकूटा
 
+
+
 56
 
 अकुतोभयः
+
+
 
 महिषी आदयः 4.4.48
 
 महिषी आदि 11
 
 महिषी -
+
+
 
 1
 
@@ -9520,6 +11014,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मणिपाला
 
+
+
 7
 
 अनुचारक(अनुवारक) 8
@@ -9528,11 +11024,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 यजमान
 
+
+
 माला आदयः 6.2.88
 
 माला आदि 9
 
 माला -
+
+
 
 1
 
@@ -9552,11 +11052,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 काम
 
+
+
 मुच आदयः 7.1.59
 
 मुच आदि 8
 
 मुचि(मोक्षणे) धात्ववान्तरगणः(तुदादौ)
+
+
 
 यज आदयः 6.1.15
 
@@ -9564,11 +11068,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 यज(देवपूजायाम्) धात्ववान्तरगणः(भ्वादौ)
 
+
+
 यव आदयः 8.2.9
 
 यव आदि 21
 
 यव आकृतिगणः
+
+
 
 1
 
@@ -9592,6 +11100,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 निजि
 
+
+
 11
 
 सिजि 12
@@ -9610,11 +11120,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मधु
 
+
+
 यस्क आदयः 2.4.63
 
 यस्क आदि 36
 
 यस्क -
+
+
 
 1
 
@@ -9630,6 +11144,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बहिर्योग
 
+
+
 7
 
 कर्णाढक(कर्णाटक) 8
@@ -9644,6 +11160,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 जङ्घारात
 
+
+
 13
 
 उत्कस 14
@@ -9657,6 +11175,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 उपरिमेखल 18
 
 क्रोष्टुमान
+
+
 
 19
 
@@ -9674,6 +11194,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 भडिल
 
+
+
 26
 
 भण्डिल 27
@@ -9682,11 +11204,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 भण्डित
 
+
+
 याजक आदयः 2.2.9
 
 याजक आदि 12
 
 याजक -
+
+
 
 1
 
@@ -9702,6 +11228,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उत्साहक
 
+
+
 7
 
 होतृ 8
@@ -9712,11 +11240,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पत्तिगणक
 
+
+
 याव आदयः 5.4.29
 
 याव आदि 20
 
 याव -
+
+
 
 1
 
@@ -9736,6 +11268,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पशौ लुनविपाते
 
+
+
 9
 
 अणु निपुणे 10
@@ -9748,17 +11282,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तनु सूत्रे
 
+
+
 14
 
 ईयसः च 15
 
 ज्ञात
 
+
+
 युक्तारोहि(न्) आदयः 6.2.81
 
 युक्तारोहिन्-आदि 16
 
 युक्तारोही -
+
+
 
 1
 
@@ -9771,6 +11311,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 आगतनन्दी(आगतनर्दी) 5
 
 आगतप्रहारी
+
+
 
 6
 
@@ -9786,17 +11328,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गणपादः
 
+
+
 12
 
 एकशितिपाद् 13
 
 पात्रेसमितादयः च
 
+
+
 युव(न्) आदयः 5.1.130
 
 युवन्-आदि 31
 
 युवन् -
+
+
 
 1
 
@@ -9816,6 +11364,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कमण्डलु
 
+
+
 9
 
 कुस्त्री 10
@@ -9834,6 +11384,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दुभ्र्रातृ
 
+
+
 17
 
 वृषल 18
@@ -9850,6 +11402,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 निपुण
 
+
+
 24
 
 पिशुन 25
@@ -9858,11 +11412,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 क्षेत्रियस्य यलोपः च
 
+
+
 यौधेय आदयः 4.1.178
 
 यौधेय आदि 8
 
 यौधेय -
+
+
 
 1
 
@@ -9878,11 +11436,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उशीनर
 
+
+
 यौधेय आदयः 5.3.117
 
 यौधेय आदि 10
 
 यौधेय -
+
+
 
 1
 
@@ -9902,11 +11464,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उशीनर
 
+
+
 रजत आदयः 4.3.154
 
 रजत आदि 12
 
 रजत -
+
+
 
 1
 
@@ -9926,11 +11492,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पीतदारु
 
+
+
 9
 
 त्रिकण्टक 10
 
 कण्टकार
+
+
 
 रध आदयः 7.2.45
 
@@ -9938,11 +11508,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 रध(हिंसीसंराद्ध्योः) धात्ववान्तरगणः
 
+
+
 रस आदयः 5.2.95
 
 रस आदि 10
 
 रस -
+
+
 
 1
 
@@ -9962,11 +11536,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गुणात्
 
+
+
 राजदन्त आदयः 2.2.31
 
 राजदन्त आदि 49
 
 राजदन्तः -
+
+
 
 1
 
@@ -9980,6 +11558,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अवक्लिन्नपक्वम्
 
+
+
 6
 
 अर्पितोप्तम् 7
@@ -9992,6 +11572,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आरग्वायनबन्धकी
 
+
+
 11
 
 चित्ररथबाह्लीकम् 12
@@ -10001,6 +11583,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 स्नातकराजानौ 14
 
 विष्वक्सेनार्जुनौ
+
+
 
 15
 
@@ -10016,6 +11600,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वैकारिमतम्
 
+
+
 21
 
 गजवाजम् 22
@@ -10023,6 +11609,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 पूलासकसुरण्डम्(पूलासकारण्डम्) 23
 
 स्थूलपूलासम्(स्थूलासम्)
+
+
 
 24
 
@@ -10038,6 +11626,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 जायापती
 
+
+
 30
 
 पुत्रपती 31
@@ -10052,6 +11642,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मधुसर्पिषी
 
+
+
 36
 
 आद्यन्तौ 37
@@ -10060,11 +11652,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वृद्धिगुणौ
 
+
+
 राजन्य आदयः 4.2.53
 
 राजन्य आदि 22
 
 राजन्य -
+
+
 
 1
 
@@ -10079,6 +11675,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अव्रीड 6
 
 जालन्धरायण
+
+
 
 7
 
@@ -10096,6 +11694,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उदुम्बर
 
+
+
 14
 
 तीव्र 15
@@ -10108,11 +11708,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ऊर्णनाभ
 
+
+
 रुद आदयः 7.2.76
 
 रुद आदि 5
 
 रुदिर्(अश्रुविमोचने) धात्ववान्तरगणः(अदादौ)
+
+
 
 रुध आदयः 3.1.78
 
@@ -10120,11 +11724,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 रुधिर्(आवरणे) धातुगणः
 
+
+
 रेवती आदयः 4.1.146
 
 रेवती आदि 11
 
 रेवती -
+
+
 
 1
 
@@ -10142,17 +11750,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दण्डग्राह
 
+
+
 8
 
 कुक्कुटाक्ष 9
 
 चामरग्राह
 
+
+
 रैवतिक आदयः 4.3.131
 
 रैवतिक आदि 7
 
 रैवतिक -
+
+
 
 1
 
@@ -10166,11 +11780,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 औदवापि
 
+
+
 लोम(न्) आदयः 5.2.100
 
 लोमन्-आदि 9
 
 लोमन् -
+
+
 
 1
 
@@ -10190,11 +11808,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तरु
 
+
+
 लोहित आदयः 3.1.13
 
 लोहित आदि 8
 
 लोहित -
+
+
 
 1
 
@@ -10212,11 +11834,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मन्द
 
+
+
 लोहित आदयः 4.1.18
 
 लोहित आदि 28
 
 लोहित गर्गादिउअवान्तरगणः
+
+
 
 1
 
@@ -10240,6 +11866,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अलिगु
 
+
+
 11
 
 जिगीषु 12
@@ -10260,6 +11888,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तनु
 
+
+
 20
 
 तरुक्ष 21
@@ -10272,17 +11902,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कपि
 
+
+
 लू आदयः 8.2.44
 
 लू आदि 20
 
 लूञ्(छेदने) धात्ववान्तरगणः(क्र्यादौ)
 
+
+
 वंश आदयः 5.1.50
 
 वंश आदि 11
 
 वंश -
+
+
 
 1
 
@@ -10304,11 +11940,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 खट्वा
 
+
+
 वनस्पति आदयः 6.2.140
 
 वनस्पति आदि 10
 
 वनस्पति -
+
+
 
 1
 
@@ -10324,17 +11964,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तृष्णावरूत्री
 
+
+
 7
 
 लम्बाविश्ववयसौ 8
 
 मर्मृत्युः
 
+
+
 वरणा आदयः 4.2.82
 
 वरणा आदि 22
 
 वरणा -
+
+
 
 1
 
@@ -10354,6 +12000,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 जानपदी(जालपदी)
 
+
+
 9
 
 जम्बू 10
@@ -10370,6 +12018,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तक्षशिला
 
+
+
 16
 
 उरसा 17
@@ -10378,11 +12028,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वलभी
 
+
+
 वराह आदयः 4.2.80
 
 वराह 14
 
 वराह -
+
+
 
 1
 
@@ -10404,6 +12058,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विमग्न
 
+
+
 10
 
 बाहु 11
@@ -10412,11 +12068,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शर्करा
 
+
+
 वग्र्य आदयः 6.2.131
 
 वग्र्य आदि 26
 
 वग्र्य दिगादिउअवान्तरगणः।यत्
+
+
 
 1
 
@@ -10438,6 +12098,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अलीक्य
 
+
+
 10
 
 उख्य 11
@@ -10456,6 +12118,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 यूथ्य
 
+
+
 18
 
 उदक्य 19
@@ -10468,11 +12132,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आकाश्य
 
+
+
 वसन्त आदयः 4.2.63
 
 वसन्त आदि 12
 
 वसन्त -
+
+
 
 1
 
@@ -10494,15 +12162,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अथर्वन्
 
+
+
 10
 
 आथर्वण
+
+
 
 वाकिन आदयः 4.1.158
 
 वाकिन आदि 6
 
 वाकिन -
+
+
 
 1
 
@@ -10516,11 +12190,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चर्मिवर्मिणोः नलोपः च
 
+
+
 विनय आदयः 5.4.34
 
 विनय आदि 16
 
 विनय -
+
+
 
 1
 
@@ -10538,6 +12216,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उपचार
 
+
+
 8
 
 समयाचार 9
@@ -10552,11 +12232,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अत्यय
 
+
+
 विमुक्त आदयः 5.2.61
 
 विमुक्त आदि 26
 
 विमुक्त -
+
+
 
 1
 
@@ -10576,6 +12260,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पत्नीवत्
 
+
+
 9
 
 वसुमत् 10
@@ -10591,6 +12277,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 वयस् 15
 
 हविर्धान
+
+
 
 16
 
@@ -10608,11 +12296,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 वृत्रहन्
 
+
+
 विस्पष्ट आदयः 6.2.24
 
 विस्पष्ट आदि 10
 
 विस्पष्ट -
+
+
 
 1
 
@@ -10632,11 +12324,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 निपुण
 
+
+
 वृत् आदयः 1.3.92
 
 वृत् 5
 
 वृतु(वर्तने) धात्ववान्तरगणः(भ्वादौ)
+
+
 
 वृषउ
 
@@ -10645,6 +12341,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 वृष आदि 26
 
 वृषः आकृतिगणः
+
+
 
 1
 
@@ -10668,6 +12366,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सूदः
 
+
+
 11
 
 अंशः 12
@@ -10679,6 +12379,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 शान्तिः 15
 
 कामः
+
+
 
 16
 
@@ -10694,11 +12396,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कल्पः
 
+
+
 वेतन आदयः 4.4.12
 
 वेतन आदि 19
 
 वेतन -
+
+
 
 1
 
@@ -10720,6 +12426,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शय्या
 
+
+
 10
 
 शक्ति 11
@@ -10734,11 +12442,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 उपहस्त
 
+
+
 व्याघ्र आदयः 2.1.56
 
 व्याघ्र आदि 16
 
 व्याघ्र आकृतिगणः
+
+
 
 1
 
@@ -10762,6 +12474,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 रुरु
 
+
+
 11
 
 पृषत् 12
@@ -10772,11 +12486,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कितव
 
+
+
 व्युष्ट आदयः 5.1.97
 
 व्युष्ट आदि 9
 
 व्युष्ट -
+
+
 
 1
 
@@ -10794,11 +12512,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सङ्घात
 
+
+
 व्रीहि आदयः 5.2.116
 
 व्रीहि आदि 21
 
 व्रीहि -
+
+
 
 1
 
@@ -10820,6 +12542,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कर्मन्
 
+
+
 10
 
 वर्मन् 11
@@ -10836,17 +12560,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बलाका
 
+
+
 17
 
 यवखद(यवखदनौ) 18
 
 शीर्षात् नञः
 
+
+
 शण्डिक आदयः 4.3.92
 
 शण्डिक आदि 8
 
 शण्डिक -
+
+
 
 1
 
@@ -10864,17 +12594,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बोध
 
+
+
 शम्-आदयः 3.2.141
 
 शम् 8
 
 शमु(उपशमे) धात्ववान्तरगणः(दिवादौ)
 
+
+
 शरद् आदयः 5.4.107
 
 शरद्-प्रभृति 22
 
 शरद् -
+
+
 
 1
 
@@ -10896,6 +12632,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सद्
 
+
+
 10
 
 दिश् 11
@@ -10914,17 +12652,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 जरायाः जरस् च
 
+
+
 18
 
 प्रतिपरसमनुभ्यः अक्ष्णः 19
 
 पथिन्
 
+
+
 शर आदयः 4.3.144
 
 शर आदि 7
 
 शर -
+
+
 
 1
 
@@ -10940,11 +12684,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 बल्वज(बल्बज)
 
+
+
 शर आदयः 6.3.120
 
 शर आदि 9
 
 शर -
+
+
 
 1
 
@@ -10964,11 +12712,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 तनु
 
+
+
 शर्करा आदयः 5.3.107
 
 शर्करा आदि 12
 
 शर्करा -
+
+
 
 1
 
@@ -10984,6 +12736,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 लोमन्
 
+
+
 7
 
 गोपुच्छ 8
@@ -10994,11 +12748,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सिकता
 
+
+
 शाखा आदयः 5.3.103
 
 शाखा आदि 13
 
 शाखा -
+
+
 
 1
 
@@ -11018,6 +12776,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 स्कन्द(स्कद)
 
+
+
 9
 
 शिरस् 10
@@ -11026,11 +12786,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शरण(शाण)
 
+
+
 शाङ्र्गरव आदयः 4.1.73
 
 शाङ्र्गरव आदि 25
 
 शाङ्र्गरव -
+
+
 
 1
 
@@ -11050,6 +12814,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आनिधेय
 
+
+
 9
 
 आशोकेय 10
@@ -11066,6 +12832,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पर्येहि
 
+
+
 16
 
 आश्मरथ्य 17
@@ -11078,11 +12846,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 भोगवद्गौरिमतोः संज्ञायां घादिषु नित्यं ह्यस्वार्थम्
 
+
+
 शिव आदयः 4.1.112
 
 शिव आदि 83
 
 शिव -
+
+
 
 1
 
@@ -11102,6 +12874,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अनभिम्लान
 
+
+
 9
 
 कोहित 10
@@ -11118,6 +12892,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कहूय(कहूष)
 
+
+
 16
 
 कहय 17
@@ -11129,6 +12905,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 खञ्जन 20
 
 तृणकर्ण(तूमकर्ण)
+
+
 
 21
 
@@ -11146,6 +12924,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गोपिका
 
+
+
 28
 
 कपिलिका 29
@@ -11159,6 +12939,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 वृष्णिक 33
 
 खञ्जार
+
+
 
 34
 
@@ -11178,6 +12960,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ग्रिवाक्ष
 
+
+
 42
 
 विटप 43
@@ -11194,6 +12978,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पृथा
 
+
+
 49
 
 उत्क्षेप 50
@@ -11205,6 +12991,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 आर्यश्वेत 53
 
 सुपिष्ट
+
+
 
 54
 
@@ -11220,6 +13008,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गङ्गा
 
+
+
 60
 
 विपाश्(विपाश) 61
@@ -11233,6 +13023,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 तृण 65
 
 कर्ण(तृणकर्ण)
+
+
 
 66
 
@@ -11248,15 +13040,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 द्व्यचः नद्यः
 
+
+
 72
 
 त्रिवेणीत्रिवणम् च
+
+
 
 शुण्डिक आदयः 4.3.76
 
 शुण्डिक आदि 8
 
 शुण्डिक -
+
+
 
 1
 
@@ -11274,11 +13072,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पर्ण
 
+
+
 शुभ्र आदयः 4.1.123
 
 शुभ्र आदि 76
 
 शुभ्र आकृतिगणः
+
+
 
 1
 
@@ -11293,6 +13095,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 शलाकाभ्रू 6
 
 विकस(विकसा)
+
+
 
 7
 
@@ -11310,6 +13114,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विमातृ
 
+
+
 14
 
 विधवा 15
@@ -11325,6 +13131,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 शुक्र 20
 
 ज्ञातल(शातल)
+
+
 
 21
 
@@ -11342,6 +13150,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शाताहर
 
+
+
 28
 
 पवष्टुरिक 29
@@ -11356,6 +13166,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 प्रवाहण
 
+
+
 34
 
 भारत(भरत) 35
@@ -11369,6 +13181,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अन्यतर 39
 
 आलीढ
+
+
 
 40
 
@@ -11386,6 +13200,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुमारिका
 
+
+
 47
 
 कुठारिका 48
@@ -11400,6 +13216,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शकल
 
+
+
 53
 
 शलाका 54
@@ -11411,6 +13229,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 गन्धपिङ्गला 57
 
 खडोन्मत्ता
+
+
 
 58
 
@@ -11428,15 +13248,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अश्मन्
 
+
+
 65
 
 अजिर
+
+
 
 शौण्ड आदयः 2.1.40
 
 शौण्ड 13
 
 शौण्ड -
+
+
 
 1
 
@@ -11458,17 +13284,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुशल
 
+
+
 10
 
 चपल 11
 
 निपुण
 
+
+
 शौनक आदयः 4.3.106
 
 शौनक आदि 17
 
 शौनक -
+
+
 
 1
 
@@ -11486,6 +13318,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 देवदर्शन
 
+
+
 8
 
 रज्जुभार 9
@@ -11502,11 +13336,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अश्वपेज(अश्वपेय)
 
+
+
 श्रमणा आदयः 2.1.70
 
 श्रमणा आदि 15
 
 श्रमणा -
+
+
 
 1
 
@@ -11528,6 +13366,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मृदु
 
+
+
 10
 
 पण्डित 11
@@ -11538,11 +13378,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 निपुण
 
+
+
 श्रेणि आदयः 2.1.59
 
 श्रेणि आदि 25
 
 श्रेणि -
+
+
 
 1
 
@@ -11562,6 +13406,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 इन्द्र
 
+
+
 9
 
 देव 10
@@ -11580,6 +13426,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 क्षत्रिय
 
+
+
 17
 
 विशिष्ट(विशिख) 18
@@ -11592,11 +13440,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 निपुण
 
+
+
 सखि आदयः 4.2.80
 
 सखि 27
 
 सखि -
+
+
 
 1
 
@@ -11611,6 +13463,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 भल्लपाल 6
 
 चक्रवाक
+
+
 
 7
 
@@ -11630,6 +13484,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सीहर
 
+
+
 15
 
 सरक(सकर) 16
@@ -11648,11 +13504,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कदल
 
+
+
 सङ्कल आदयः 4.2.75
 
 सङ्कल आदि 38
 
 सङ्कल -
+
+
 
 1
 
@@ -11672,6 +13532,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सुदत्त
 
+
+
 9
 
 सुभूत 10
@@ -11686,6 +13548,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सिकत(सिकता)
 
+
+
 15
 
 पूतिक(पूतिका/पूतिकी) 16
@@ -11699,6 +13563,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 गवेष 20
 
 गम्भीर
+
+
 
 21
 
@@ -11716,6 +13582,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सद्योज
 
+
+
 28
 
 अभिषिक्त 29
@@ -11730,11 +13598,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 माल
 
+
+
 सङ्काश आदयः 4.2.80
 
 सङ्काश 37
 
 सङ्काश -
+
+
 
 1
 
@@ -11754,6 +13626,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अंश
 
+
+
 9
 
 अङ्ग 10
@@ -11772,6 +13646,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुम्भ
 
+
+
 17
 
 शीर्ष 18
@@ -11787,6 +13663,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 मन्थ 23
 
 रोमन्
+
+
 
 24
 
@@ -11806,15 +13684,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विकर
 
+
+
 32
 
 नासिका
+
+
 
 स(न्) आदयः 3.1.32
 
 सन्-आदि 11
 
 सन् प्रत्ययाः
+
+
 
 1
 
@@ -11836,11 +13720,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 आय
 
+
+
 सन्ताप आदयः 5.1.101
 
 सन्ताप आदि 20
 
 सन्ताप -
+
+
 
 1
 
@@ -11860,6 +13748,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 निसर्ग
 
+
+
 9
 
 विसर्ग 10
@@ -11876,17 +13766,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सम्मोदन
 
+
+
 16
 
 सक्तु 17
 
 मांसौदनात् विगृहीतात् अपि
 
+
+
 सन्धिवेला आदयः 4.3.16
 
 सन्धिवेला आदि 9
 
 सन्धिवेला -
+
+
 
 1
 
@@ -11902,15 +13798,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 प्रतिपद्
 
+
+
 7
 
 संवत्सरात् फलपर्वणोः
+
+
 
 सपत्नी आदयः 4.1.35
 
 सपत्नी आदि 9
 
 समान -
+
+
 
 1
 
@@ -11928,11 +13830,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पुत्र
 
+
+
 सर्व आदयः 1.1.27
 
 सर्व आदि 29
 
 सर्व -
+
+
 
 1
 
@@ -11954,6 +13860,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 त्वच
 
+
+
 10
 
 नेम 11
@@ -11965,6 +13873,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 स्वम् अज्ञातिधनाख्यायाम् 14
 
 अन्तरम् बहिर्योगोपसंव्यानयोः
+
+
 
 15
 
@@ -11986,15 +13896,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अस्मद्
 
+
+
 24
 
 किम्
+
+
 
 सवन आदयः 8.3.110
 
 सवन आदि 13
 
 सवनेसवने -
+
+
 
 1
 
@@ -12003,6 +13919,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अनुसवनम् अनुसवनम् (अनुसवने अनुसवने) 3
 
 शकुनिसवनम्
+
+
 
 4
 
@@ -12014,17 +13932,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 किसम् किसम्
 
+
+
 8
 
 मुसलम् मुसलम् 9
 
 गोसनिम्
 
+
+
 साक्षात्-आदयः 1.4.74
 
 साक्षात्-प्रभृति 27
 
 साक्षात् आकृतिगणः
+
+
 
 1
 
@@ -12044,6 +13968,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 प्राजरूहा
 
+
+
 9
 
 बीजर्या 10
@@ -12059,6 +13985,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 शीतम् 15
 
 उदकम्
+
+
 
 16
 
@@ -12076,11 +14004,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 नमस्
 
+
+
 सिध्म आदयः 5.2.97
 
 सिध्म आदि 47
 
 सिध्म -
+
+
 
 1
 
@@ -12102,6 +14034,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 पर्शु(परशु)
 
+
+
 10
 
 हनु 11
@@ -12111,6 +14045,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 मांस(मास) 13
 
 वातदन्तबलललाटानां ऊङ्
+
+
 
 14
 
@@ -12127,6 +14063,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 स्नेह 20
 
 शीत
+
+
 
 21
 
@@ -12148,6 +14086,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चटु
 
+
+
 30
 
 कपि 31
@@ -12166,6 +14106,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 श्लेष्मन्
 
+
+
 38
 
 पेश 39
@@ -12174,11 +14116,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 क्षुद्रजन्तूपतापयोः च
 
+
+
 सिन्धु आदयः 4.3.93
 
 सिन्धु 11
 
 सिन्धु -
+
+
 
 1
 
@@ -12198,15 +14144,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 दरद(दरद्)
 
+
+
 9
 
 गन्दिक(गब्दिक)
+
+
 
 सिव् आदयः 8.3.71
 
 सिव्-आदि 5
 
 सिव् -
+
+
 
 1
 
@@ -12218,11 +14170,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 स्वञ्ज्
 
+
+
 सुख आदयः 3.1.18
 
 सुख आदि 11
 
 सुख -
+
+
 
 1
 
@@ -12244,11 +14200,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सोढ
 
+
+
 सुख आदयः 5.2.131
 
 सुख आदि 17
 
 सुख -
+
+
 
 1
 
@@ -12270,6 +14230,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शील
 
+
+
 10
 
 हल 11
@@ -12282,11 +14244,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कक्ष
 
+
+
 सुतङ्गम आदयः 4.2.80
 
 सुतङ्गम 18
 
 सुतङ्गम -
+
+
 
 1
 
@@ -12306,6 +14272,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विग्र
 
+
+
 9
 
 बीजवापिन् 10
@@ -12322,11 +14290,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 विग्रह
 
+
+
 सुवास्तु आदयः 4.2.77
 
 सुवास्तु आदि 15
 
 सुवास्तु -
+
+
 
 1
 
@@ -12346,6 +14318,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शकटीकर्ण
 
+
+
 9
 
 कृष्णकर्ण 10
@@ -12356,11 +14330,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 अहिसक्थ
 
+
+
 सुषाम(न्) आदयः 8.3.98
 
 सुषामन्-आदि 18
 
 सुषामा आकृतिगणः
+
+
 
 1
 
@@ -12376,6 +14354,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 निष्षन्धिः(निषन्धिः)
 
+
+
 7
 
 दुष्षन्धिः 8
@@ -12388,17 +14368,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 जलाषाहम्
 
+
+
 12
 
 दुन्दुभिषेवणम्(दुन्दुभिषेचनम्) 13
 
 एति संज्ञायां अगात्
 
+
+
 स्था आदयः 8.3.64
 
 स्था आदि 11
 
 स्था -
+
+
 
 1
 
@@ -12420,11 +14406,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सेव
 
+
+
 स्थूल आदयः 5.4.3
 
 स्थूल आदि 13
 
 स्थूल -
+
+
 
 1
 
@@ -12442,6 +14432,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सुरा अहौ
 
+
+
 8
 
 जीर्ण शालिषु 9
@@ -12450,15 +14442,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कुमारीश्वशुर
 
+
+
 स्नात्वी आदयः 7.1.49
 
 स्नात्वी आदि 2
 
 स्नात्वी आकृतिगणः
 
+
+
 1
 
 पीत्वी
+
+
 
 स्वप आदयः 6.1.188
 
@@ -12466,11 +14464,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ञिष्वप(शये) धात्ववान्तरगणः(अदादौ)
 
+
+
 स्वर्उअदयः 1.1.37
 
 स्वर्-आदि 150
 
 स्वर् आकृतिगणः
+
+
 
 1
 
@@ -12490,6 +14492,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ऋते
 
+
+
 9
 
 युगपत् 10
@@ -12508,6 +14512,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सायम्
 
+
+
 17
 
 चिरम् 18
@@ -12523,6 +14529,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 बहिस् 23
 
 अधस्(अवस्)
+
+
 
 24
 
@@ -12544,6 +14552,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 इद्धा
 
+
+
 33
 
 अद्धा 34
@@ -12559,6 +14569,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 तिरस्(आद्युदात्ताः) 39
 
 अन्तरेण
+
+
 
 40
 
@@ -12578,6 +14590,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सहसा
 
+
+
 48
 
 अलम् 49
@@ -12595,6 +14609,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अन्यद् 55
 
 अस्ति
+
+
 
 56
 
@@ -12614,6 +14630,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मिथ्या
 
+
+
 63
 
 कृन्मकारसन्ध्यक्षरान्तः अव्ययीभावः च 64
@@ -12625,6 +14643,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 मिथस् 67
 
 मुहुस्
+
+
 
 68
 
@@ -12642,6 +14662,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 समम्
 
+
+
 75
 
 नमस् 76
@@ -12653,6 +14675,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अथ 79
 
 अम्
+
+
 
 80
 
@@ -12672,6 +14696,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 भूयस्
 
+
+
 88
 
 साक्षात् 89
@@ -12687,6 +14713,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अवश्यम् 94
 
 सपदि
+
+
 
 95
 
@@ -12704,6 +14732,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सन्ततम्
 
+
+
 102
 
 ओम् 103
@@ -12719,6 +14749,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 सुष्ठु 108
 
 कु
+
+
 
 109
 
@@ -12736,6 +14768,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चिरम्
 
+
+
 116
 
 चिररात्राय 117
@@ -12749,6 +14783,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 आनुषक् 121
 
 अनुषक्
+
+
 
 122
 
@@ -12766,6 +14802,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 सु
 
+
+
 129
 
 अर्वाक् 130
@@ -12776,17 +14814,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शस्प्रभृतयः प्राक् समासान्तेभ्यः
 
+
+
 133
 
 मान्तः कृत्वोर्थः 134
 
 तसिवती
 
+
+
 स्वसृ आदयः 4.1.10
 
 स्वसृ आदि 7
 
 स्वसृ -
+
+
 
 1
 
@@ -12802,11 +14846,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 चतसृ
 
+
+
 स्वागत आदयः 7.3.7
 
 स्वागत आदि 7
 
 स्वागत -
+
+
 
 1
 
@@ -12822,11 +14870,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 स्वपति
 
+
+
 सु आदयः 1.4.17
 
 सु आदि 235
 
 सु प्रत्ययाः
+
+
 
 1
 
@@ -12850,6 +14902,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 भ्यस्
 
+
+
 11
 
 ङस् 12
@@ -12871,6 +14925,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 ष्फ 20
 
 ङीष्
+
+
 
 21
 
@@ -12894,6 +14950,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 इञ्
 
+
+
 31
 
 फक् 32
@@ -12915,6 +14973,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 यत् 40
 
 घ
+
+
 
 41
 
@@ -12940,6 +15000,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 त्
 
+
+
 51
 
 घन् 52
@@ -12961,6 +15023,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 इनि 59
 
 त्र
+
+
 
 60
 
@@ -12986,6 +15050,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कक्
 
+
+
 71
 
 ड्मतुप् 72
@@ -13003,6 +15069,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 छस् 78
 
 ञिठ्
+
+
 
 79
 
@@ -13028,6 +15096,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 रूप्य
 
+
+
 88
 
 यक् 89
@@ -13047,6 +15117,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 ष्ठच् 96
 
 ईकक्
+
+
 
 97
 
@@ -13070,6 +15142,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 डण्
 
+
+
 106
 
 घस् 107
@@ -13087,6 +15161,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 कुणप् 113
 
 जाहच्
+
+
 
 114
 
@@ -13106,6 +15182,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 टीटच्
 
+
+
 122
 
 भ्रटच् 123
@@ -13121,6 +15199,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अठच् 128
 
 इतच्
+
+
 
 129
 
@@ -13139,6 +15219,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 डट् 136
 
 थट्
+
+
 
 137
 
@@ -13159,6 +15241,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 उरच् 145
 
 ईरन्
+
+
 
 146
 
@@ -13182,6 +15266,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 यस्
 
+
+
 156
 
 त्रल् 157
@@ -13201,6 +15287,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 थमु 164
 
 था
+
+
 
 165
 
@@ -13222,6 +15310,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 धमुञ्
 
+
+
 174
 
 पाशप् 175
@@ -13240,6 +15330,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ईयसुन्
 
+
+
 182
 
 कल्पप् 183
@@ -13255,6 +15347,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 अकच् 188
 
 अडच्
+
+
 
 189
 
@@ -13273,6 +15367,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 आमु 196
 
 अमु
+
+
 
 197
 
@@ -13294,6 +15390,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 डाच्
 
+
+
 206
 
 टच् 207
@@ -13308,17 +15406,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कप्
 
+
+
 सु आदयः 3.1.73
 
 सु आदि 34
 
 षुञ्(अभिषवे) धातुगणः
 
+
+
 स्तोक आदयः 6.3.2
 
 स्तोक आदि 4
 
 स्तोक -
+
+
 
 1
 
@@ -13328,11 +15432,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 कृच्छ्र
 
+
+
 हरित आदयः 4.1.100
 
 हरित आदि 26
 
 हरित -
+
+
 
 1
 
@@ -13345,6 +15453,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 वध्योग 5
 
 विष्णु
+
+
 
 6
 
@@ -13364,6 +15474,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 मठर
 
+
+
 14
 
 सृपाकु 15
@@ -13378,11 +15490,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 ननान्दृ
 
+
+
 हरीतकी आदयः 4.3.167
 
 हरीतकी आदि 16
 
 हरीतकी -
+
+
 
 1
 
@@ -13402,6 +15518,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 काला
 
+
+
 9
 
 ध्वाक्षा(ध्वाङ्क्षा) 10
@@ -13414,11 +15532,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 शेफालिका
 
+
+
 हस्ति(न्) आदयः 5.4.138
 
 हस्तिन्-आदि 19
 
 हस्तिन् -
+
+
 
 1
 
@@ -13436,6 +15558,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 गण्डोल
 
+
+
 8
 
 कण्डोल 9
@@ -13452,10 +15576,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA1NDMyODI3ODU
 
 महेला(महिला)
 
+
+
 15
 
 गणिका 16
 
 कुसूल
+
+
+
+
+
+
+
 
 \]

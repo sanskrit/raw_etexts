@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzMjAyMzE2OTM
 
 \[
 
+
+
+
+
 **छान्दोग्यारण्यकम् ।**
+
+
 
 आप्यायन्तु
 
@@ -2427,6 +2433,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzMjAyMzE2OTM
 
 इति
 
+
+
 ४
 
 इति
@@ -3298,5 +3306,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzMjAyMzE2OTM
 १
 
  ----------------- -----------------
+
+
+
 
 \]
