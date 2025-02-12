@@ -13,11 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMDQ4MDYxNDU
 
 \[
 
-
-
  अनुव्यवसायमीमांसा
-
-
 
  डाo
 
@@ -26,14 +22,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMDQ4MDYxNDU
 एस्o
 
 रामानुजताताचार्यः
-
-
-
-
-
-
-
-
 
  आत्मविशेषगुणाः ज्ञानसुखादयः मनोजन्यज्ञानविषयाः। तत्र ज्ञानविषयकम् \`
 
@@ -258,10 +246,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyMDQ4MDYxNDU
 1976.)
 
  ---------------\*\*\*\*\*\*\*\*\*\*\*\*\*-------------------
-
-
-
-
-
 
 \]

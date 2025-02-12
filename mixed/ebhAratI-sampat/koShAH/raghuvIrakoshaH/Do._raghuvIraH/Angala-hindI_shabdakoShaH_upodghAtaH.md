@@ -16,31 +16,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyODk0MTE2MTU
 
 \
 
-
-
-
-
-
-
-
-
-
-
-
-
 **A  
 COMPREHENSIVE  
 ENGLISH-HINDI DICTIONARY  
 OF  
 GOVERNMENTAL & EDUCATIONAL  
 WORDS & PHRASES**  
-
-
-
-
-
-
-
 
 **PERTAINING TO**  
 *the various branches of administration, such as, Accounts, Audit, Banking & Insurance, Budget and Finance, Commerce and Industries, Labour, Planning and Development, Mining, Electricity, Irrigation, Forests. Food and Agriculture, Survey, Revenue and Land Records, Local Self Government, Police, Jails, Defence, Posts and Telegraphs, Roads, Railways and Air Transport,  
@@ -51,43 +32,10 @@ AND
 *Anatomy, Astronomy, Bacteriology, Biochemistry, Botany, Chemistry, Engineering, Geology, Mathematics, Medicine, Meteorology, Mineralogy, Optics, Pharmacy, Physics, Physiology, Radar and Radio, Statistics, Zoology,*  
 *etc., etc.*  
 
-
-
-
-
-
-
-
-
-
 **BY**  
 **Prof. Dr. RAGHU VIRA**  
 M.A., PH.D., D.LITT. ET PHIL., M.P.  
 *with the collaboration of numerous scientists and scholars*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Printed by Jayyed Press, Delhi 6.  
 Published by the Intemational Academy of Indian Culture,  
@@ -95,8 +43,6 @@ Published by the Intemational Academy of Indian Culture,
 Copyright: Dr. Lokesh Chandra.  
 Price: 50  
 June, 1976.
-
-
 
 **A COMPREHENSIVE  
 ENGLISH-HINDI DICTIONARY  
@@ -196,17 +142,13 @@ of the texture of the universe.
 
   "He has got together a band of enthusiasts to cooperate withhim in the work and has succeeded in presenting a monumental work.  
 
-
   "Educationists all over India have agreed that the majorobstacle for the spread of the knowledge of modern sciences in the country is the absence of appropriate terminology.
 
   "The Great English Indian Dictionary is an instrument ofeducation which will be of immense assistance in the spread of scientific knowledge in the country.  
 
-
   "Students and teachers of present and future generations willhave cause to feel profoundly grateful to the editor of this prodigious compilation."  
 
-
 **S. S. Bhatnagar**  
-
 
 *(Foreword to the Great English-Indian Dictionary, Vol. I, 1944, which is now vastly expanded and incorporated into the present volume).*
 
@@ -236,7 +178,6 @@ supply all the scores of derivatives,
 compounds and phrases needed by  
 administration, education, and every other phase of national life.  
 
-
  Sanskrit terms are serviceable, not only in Hindi, but also in Assamese, Bengali, Gujarati, Kannada, Malayalam, Marathi, Nepali, Oriya, Panjabi, Tamil and Telugu. To these we may also add Sinhalese, the major language of Ceylon.
 
   While they will be found useful for Pan-Indian, specific technical or higher purposes,
@@ -245,14 +186,12 @@ administration, education, and every other phase of national life.
 
  *"The difficulties of language are not negligible. One's native speech is a closely futting garment, and one never feels quite at ease when it is not immediately available and has to be replaced by another."*
 
-
 **Erwin Schrödinger**
 
 *Nobel Prize W̅inner for Physics in 1933*
 
  *"Modern Eastern students have to be reminded of the creative nature of their languages and to revitalice their terminology.  
  "They, too, have consciously to revive their abstract and stagnant use of terms by retracing the meanings from the original productive and concrete roots."*
-
 
 **Betty Heimann**
 
@@ -296,8 +235,6 @@ task is proving capable of achievement.
  There is still another group of dictionaries whose guidance we have occasionally sought. These are bilingual dictionaries of major civilised languages which have technical literature and technical vocabularies. For example, German, French, Dutch, Spanish, Portuguese, Italian and Russian in the West and Arabic, Persian, Chinese and Japanese in the East. We have not ignored smaller languages like Finnish in Europe and Annamese in Asia. Their varying capacities to express new ideas help us on our path.  
  To the dictionaries we must add yet another category of books without which our formations would have lacked organic life i.e. the capacity to integrate with the context. These are standard books in cach domain; and in the case of administration the codes and manuals of each department of the government. In law there are the Codes and numerous Acts which we waded through. Each word, compound and phrase has been provided for in Hindi with due consideration to its associations and surroundings.  
  Our special lexicons, text-books, codes and manuals still needed experienced men to interpret them, to discuss and to help in the decision of the one or more equivalents that would serve in Hindi and other Indian languages. We havehad the cooperation, long or short, of over 200 specialists.
-
-
 
  From 1943 up to 1946 we issued four volumes of the Great English-Indian Dictionary. The first concerned Inorganic Chemistry. The second dealt with Organic Chemistry, and extended up to the letter D. The third was a special volume on Scientific Apparatus. The fourth dealt with Chemical Dyes and Colours, with an Appendix on Intermediate Products. In these volumes each Indian word appeared in four scripts, two of the North and two of the
 
@@ -538,19 +475,11 @@ Chinese or perhaps even greater, but certainly in no case less.
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 |                                    |                                                         |
 |------------------------------------|---------------------------------------------------------|
@@ -627,15 +556,9 @@ Chinese or perhaps even greater, but certainly in no case less.
 | ३५९ लग् to adhere                  | लग्न adhered, attached (Hindi लगना)                     |
 | ३६० लंघ्to cross                  | लङ्घन crossing, a fast                                  |
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 |                                        |                                                                             |
 |----------------------------------------|-----------------------------------------------------------------------------|
@@ -692,8 +615,6 @@ Intensives are rare. Here also the root is reduplicated. दंश् to bite' h
 | अतिचिर long time | अतिचिरयति lingers (Divya vadāna)           |
 | अदस् that        | अदस्यति becomes that                       |
 | अधर् inferior   | अधरयति makes inferior, excels-             |
-
-
 
 |                                         |                                                                                                    |
 |-----------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -759,8 +680,6 @@ Intensives are rare. Here also the root is reduplicated. दंश् to bite' h
 | प्रासाद palace                          | प्रासादीयति imagines oneself to be in a palace (Panini 3.1.10 Comm.)                               |
 | प्रोत woven, inlaid                     | प्रोतयति inserts, inlays (Katyayana-Śrauta Comm.)                                                  |
 
-
-
 |                                |                                                                                                                    |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | बधिर deaf                      | बधिरयति deafens                                                                                                    |
@@ -823,7 +742,6 @@ Declinable participles are often used as adjectives.
 **1. *Present Tense*  
 (a) *Parasmaipada***
 
-
 **(1) अत् ( अन्त्)**
 
 **भू— भवत्** being.  
@@ -833,7 +751,6 @@ Feminine forms end in अन्ती —भवन्ती, धारयन्�
 
 **(b) *Atmanepada***  
 
-
 **(2) आन**
 
 **शी — शयान** lying down.  
@@ -842,7 +759,6 @@ Feminine forms end in अन्ती —भवन्ती, धारयन्�
 Feminine forms end in **आ – शयाना, कुर्वाणा.**
 
 (3) In the case of roots of the first, fourth, sixth and tenth classes, as well as of passives, causatives. desideratives and intensives, **आन** changes to **मान**.  
-
 
 **वृध्- वर्धमान  
 कृ – क्रियमाण** (passive).
@@ -891,7 +807,6 @@ Hindi.
 **3. *Future***
 
 **(a) *Parasmaipada***
-
 
 **(8) स्यत् (ष्यत्, इष्यत्)**
 
@@ -999,7 +914,6 @@ In Hindi the form used is the masculine nominative singular **शायी, द�
 
 **भिद्— भिदुर** brittle.
 
-
 **(25) ति**  
 It forms a large class of feminine action nouns.
 
@@ -1017,7 +931,6 @@ It forms specialised nouns denoting an instrument or means, e.g. दात्र
 नियम्यास्मिन् नयति यत् तद् यन्त्रमिति कीर्तितम्॥ ३॥  
 स्वरसेन प्रवृत्तानि भूतानि स्वमनीषया ।  
 कृतं यस्माद् यमयति तद्वा यन्त्रमिति स्मृतम् ॥ ४ ॥**
-
 
  "An instrument or machine is so called because itcontrols, in the manner one desires, the elements which have been moving in an accidental or self-ordained way“ (chapter 31 on machines, verses 3, 4).  
    This suffix has been widely used to formulate names of instruments and machines:
@@ -2460,8 +2373,6 @@ of the Alphabet**
 |   *ψ*    |       psi        |  स  |
 | *ω*,*Ω* | omega 'the last' |  ह  |
 
-
-
 |     |     |     |     |
 |:---:|:---:|:---:|:---:|
 |  A  |  क  |  G  |  छ  |
@@ -2470,8 +2381,6 @@ of the Alphabet**
 |  D  |  घ  |  J  |  ञ  |
 |  E  |  ङ  |  K  |  ट  |
 |  F  |  च  |  L  |  ठ  |
-
-
 
 |      |     |     |      |
 |------|-----|-----|------|
@@ -2515,7 +2424,6 @@ Serial Groups of Constants**
 Corresponding Greek letters *** ** *** *        **
 
 [TABLE]
-
 
 (1) In the case of sides and angles of a triangle in plane and spherical trigonometry angles shall be denoted by अकारान्त consonants and the opposite or corresponding sides by the corresponding आकारान्त letters.
 
@@ -2603,7 +2511,6 @@ Slowly divergent series मन्द अपसारी श्रेढी.
 *Δ*• =नी •read as नी शून्य.
 
 *Δ*’=नी’read asनी प्रास.
-
 
 (36) Discriminant *Δ*= वे (विवेचक).  
 (37) *Q* (quotient) = भा (भागफल).
@@ -2701,7 +2608,6 @@ triple integral of a function of x, y, z with respect to *x*, *y* and *z* betwee
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
 Symbols used in Physics\*
-
 
 The symbols used in physics are usually abbreviations of words for which they stand, e. g. a for Acceleration and Amplitude, c for Candle power, Capacity, Centigrade and Current, d for Density and Distance, e for Electronic charge, g for Gram, etc. The. English language has no more than 26 letters, and 26 is too small a number. Hence some of the Greek letters are brought into service, e. g. having employed e for Electronic charge, epsilon is employed for Electrode.Another, equally arbitrary usage is that of small and capital letters, e. g. small m stands for Magnification, while the capital M is for Magnetic movement or Magnifying power. The usage may differ from book to book, e.g. for mass one may use either the small or the capi-  
 ---------------------------------------------------------------------------------------------------------  
@@ -3045,7 +2951,6 @@ A word about the abbreviations. The first syllable usually serves the purpose, b
 **mile** (m, mi.) **क्रोशक** (क्रो.)  
 **league** (1., 3 miles) **प्रकोश** (प्रक्.; ३ क्रोशक)
 
-
 **5. Square Measure वर्ग-माप**
 
 **quare** (sq.) **वर्ग** (व.)  
@@ -3166,7 +3071,6 @@ Prof. Lancelot Hogben
 
 **\*  \*  \***
 
-
 **उत्पादकं यत्प्रवदन्ति बुद्वेरधिष्ठितं सत्पुरुषेण सांख्याः ।  
 व्यक्तस्य कृत्स्नस्य तदेकबीजमव्यक्तमीशं गणितं च वन्दे ॥**
 
@@ -3271,7 +3175,6 @@ $x\~\\left( {1 + \\frac{3}{2}} \\right)\~ + \~\\left\\{ {2\~x\~\\left( {1 + \\fr
 १ & १ \\\\     
 & २ \\\\     
 \\end{matrix}$   ।
-
 
 **means$\\frac{160}{40} \\times 13\\frac{1}{2}$**
 
@@ -3518,7 +3421,6 @@ writing *x* for या, *y* for का and *z* for नी
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
 **TOPOGRAPHICAL MAPS**
 
-
  Topographical maps are useful for tourists, touring officers, archaeologists and hunters. In the army the survey maps are of inestimable value. Even the ordinary soldier uses them for finding out distance,direction and altitude.  
  Agricultural and industrial planners also make use of them.  
  Topographical maps mention a large number of items such as cultural features, water features, mining terms (e. g., mineshaft), military terms (e. g., riflerange, air bombing target), communication terms (e. g.,aerodromes, railways, ropeways), forest terms, mountain features, heights, trigonometrical symbols, coastal symbols.  
@@ -3656,8 +3558,6 @@ moss grey (yellow, sat low, bril medium) अव-पीत.
 murrey (red, sat high, bril. low) न्युद्-रक्त.  
 pyrethrum yellow (yellow, sat, medium, bril, high) प्र-पीत.
 
-
-
 [TABLE]
 
 Yellow ocher and chamois are both रक्तातिपीत, but buff is redder पीतरक्तक. In saturation buff is medium, yellow ocher is a bit higher उदा, and chamois a little lower अवा. In brilliance, buff and chamois are high, but yellow ocher is slightly lower आप्र. Thus yellow ocher is आप्रोदारक्तातिपोत, buff is प्रपीतरक्तक and chamois प्रावारक्तातिपीत.
@@ -3672,43 +3572,23 @@ all their shades, i. e. five grades of saturation and five grades of brilliance.
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 [TABLE]
 
@@ -3750,7 +3630,6 @@ all their shades, i. e. five grades of saturation and five grades of brilliance.
 
 **नीलातिहरि greenish green-blue**  
 
-
 [TABLE]
 
 **हर्यतिनील bluish green-blue**
@@ -3768,7 +3647,6 @@ all their shades, i. e. five grades of saturation and five grades of brilliance.
 **Colours In Our Ancient Literature**
 
 **For non-scientific colour names, the following list has been culled from ancient literature. Similar lists can bedrawn up from every language of India,**
-
 
 **COLOUR**
 
@@ -4443,8 +4321,6 @@ all their shades, i. e. five grades of saturation and five grades of brilliance.
 **पिङ्गलित**become tawny.  
 **पिङ्गलिमन्, पिङ्गिमन्** tawny colour.  
 **पिशङ्ग** tawny, *m.* tawny colour.
-
-
 
 **पिशङ्गत्व, पिशङ्गता, पैङ्गल्य** tawny colour.  
 **ब्रभ्रु, रुम्र** tawny.  
@@ -5238,8 +5114,6 @@ See radon, p. 124a.
 
 [TABLE]
 
-
-
 लघ्वातु \[लघु light+धातु\] -lithium \[from Greek *lithos* stone, from its having been discovered in a mineral\].  
  It is the lightest metal known (specific gravity 0.53). Cf. गुर्वातु \[गुरुheavy + धातु\] for osmium.  
  लघु is an all-India word: Gypsy लोको; Shina लोकु; Kashmiri लह् 'lightly', लूकु 'small'; Westeru Pahari लौक्का ‘small’; Hindi लघु, हरुआ, हल्का; Panjabi हौला; Sindhi हरिड़ो; Marathi लघु ,हल् ; Bengali, Oriya, Gujarati, Kannada, Malayalam लघु; Tamil इलगु 'minuteness, fineness'; Telugu लघुवु; Singhalese लुहु.  
@@ -5397,7 +5271,6 @@ di- द्वि-, di-oxide द्वि-जारेय.
 tri- त्रि-, tri-oxide त्रि-जारेय.  
 tetra- चतुः-, चतुर्-, चतुस्-, चतुष्-, चतुश्(according to the Sandhi rules), tetrabromide चतुर्दुरेय, tetraborate चतुष्टांकीय.  
 penta- चञ्च-, penta-chloride पञ्च-नीरेय.  
-
 
 \*  \*  \*
 
@@ -5558,7 +5431,6 @@ which are still commonly so spelt in non-scientific use. Cf. "Basic substances s
  नभोनीलिज (from नभोनील "sky blue") and lazurite are isonyms.Lazulite is व्योमनीलिज.  
 ![](../../../../../../../books_images/U-IMG-1693040833Untitled3.jpg)(Webster)
 
-
 ![](../../../../../../../books_images/U-IMG-1693041265Untitled4.jpg)  
  इन्द्रगोप is an ancient word, signifying the insect cochineal, red in colour. The Indian readers who know the इन्द्रगोप have only to look to the coloured plate in Webster illustrating the carnelian, and be convinced that इन्द्रगोप is carnelian.
 
@@ -5679,8 +5551,6 @@ Here are a few examples from Japanese—
 have any interest in the subject in spite of the fact that plants and flowers surround him and he would love to know as much about them as possible.  
  Botany is a descriptive science and there will be no
 
-
-
 difficulty in spreading its knowledge far and wide to the lowest intelligence if the Latin terms are replaced by proper Indian words. The study of botany is closely connected with agriculture. We shall be able to impart botanical knowledge to our farmers and achieve good results. But the same would be unthinkable if we stick to English terms.
 
  It is only the research worker who has to establish contacts with the whole world, who will have to learn English and not only English but German, French, Russian, Japanese, that is, any language in which notable contributions have been made in the particular branch in which he is engaged. The research worker's labourof learning foreign languages cannot be avoided, but he too, will find it far more pleasant to get his initiation through his mother-tongue.
@@ -5796,8 +5666,6 @@ Lat.—*Acrocephalus concinens stevensi*.
 Eng.—*The Plains Paddy-field Warbler*.
 
  This Reed-Warbler was discovered breeding by Mr. and Mrs. H. Stevens in Lakhimpur, but while translating in English it was not considered necessary to retain the discoverer's name.
-
-
 
 portion of muscle, and the conservation of heat is secured by the nonconducting plumage.
 
@@ -6329,8 +6197,6 @@ follow circle instrument(magnetic - resonance - accelerate -implement) circuit
 
 ![](../../../../../../../books_images/U-IMG-1693374813Untitled2.jpg)
 
-
-
 ![](../../../../../../../books_images/U-IMG-1693375418Untitled3.jpg)
 
  The Chinese Government has recently issued glossaries of several natural sciences. We shall take examples from them.
@@ -6424,37 +6290,21 @@ ch'iang is a combination of the characters for oxygen and hydrogen.
 
 ![](../../../../../../../books_images/U-IMG-1693376113Untitled.jpg)
 
-
-
 ![](../../../../../../../books_images/U-IMG-1693375801Untitled.jpg)
-
-
 
 ![](../../../../../../../books_images/U-IMG-1693375614Untitled.jpg)
 
-
-
 ![](../../../../../../../books_images/U-IMG-1693373829Untitled.jpg)
 
-
-
 ![](../../../../../../../books_images/U-IMG-1693373438Untitled.jpg)
-
-
 
 ![](#)
 
 ![](../../../../../../../books_images/U-IMG-1693372914Untitled.jpg)
 
-
-
 ![](../../../../../../../books_images/U-IMG-1693372442Untitled.jpg)
 
-
-
 ![](../../../../../../../books_images/U-IMG-1693305520Untitled.jpg)
-
-
 
 |                                                   |                                                                |
 |:-------------------------------------------------:|:--------------------------------------------------------------:|
@@ -6498,8 +6348,6 @@ ch'iang is a combination of the characters for oxygen and hydrogen.
 |                                                   |                       Table of Contents                        |
 |     General Principles of Indian Terminology      |                         Abbreviations                          |
 |                                                   |                       Dictionary (A - Z)                       |
-
-
 
 AAM.—The Arms Act Manual of the C. P. and Berar, Nagpur, 1950.  
 *Acous—*Acoustics.  
@@ -7046,32 +6894,9 @@ Zimmer—A Popular Dictionary of Botanical Names and Terms, by G. F. Zimmer,**
 *Zoogeog.—***Zoogeography.**  
 *Zool.—***Zoology.**
 
-
-
-
-
-
-
-
-
-
-
 **DICTIONARY**
-
-
 
 **A-Z**
 
-
-
-
-
-
-
-
-
-
 \]
-
-
 

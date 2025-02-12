@@ -16,29 +16,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyNTY1OTI0ODc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 **॥ श्रीः ॥**  
 
@@ -361,8 +343,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyNTY1OTI0ODc
 केचिद्विलुप्ताः कतिचिद्विरुक्ताः क्रमे स्वरा ये विकृतेर्वशात्तु॥  
 मूलक्रमोच्चारममीषु वक्ति श्रीविट्ठलः श्रीकरणैकधीरः॥५८॥**
 
-
-
 **अथ मेलप्रकरणम्**
 
 **मेलेषु सर्वेष्विह वर्णितेषु ज्ञानाय रागोद्भवनैकहेतून्॥  
@@ -377,8 +357,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyNTY1OTI0ODc
 सारंगमेलस्तदनंतरं स्यात्कल्याणमेलस्तु ततः पुरः स्यात्॥५॥  
 हिंदोलरागस्य भवेत्तु मेलः स्यान्नादरामक्र्यभिधस्य मेलः॥  
 इतीरितास्ते नवचंद्रसंख्या एवं परांस्तान् कलयंतु तज्ज्ञाः॥६॥**
-
-
 
 **जन्यजनकरागस्वर निरूपणम्**
 
@@ -942,14 +920,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyNTY1OTI0ODc
 **समाप्तोऽयं रागचंद्रोदयो ग्रंथः॥**
 
 **![](../books_images/U-IMG-1694242727mama.png)**
-
-
-
-
-
-
-
-
-
 
 \]

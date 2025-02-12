@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcwNzQ3NTkzMjQ
 
 \[
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 संगीतरत्नाकर  
@@ -9074,6 +9072,5 @@ D\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 २५
 
 ----------
-
 
 \]

@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY0NTMyMDQzNjc
 
 \[
 
-
-
 ठ्ठदथ्र्(ड्ड)अनेकार्थनाममाला ( ज्ञानसागरकृता)
 
 1
@@ -301,7 +299,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY0NTMyMDQzNjc
 This is prepared an d compiled by
 
 Dr.P .Srinivas , Lecturer in Vyakarana , S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011  
-
-
 
 \]

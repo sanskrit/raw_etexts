@@ -16,18 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MDExMjU0MjA
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
 .
@@ -43,7 +31,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MDExMjU0MjA
 |                 |
 |:---------------:|
 | **प्रस्तावना.** |
-
 
 ![](../books_images/U-IMG-16975241644523-removebg-preview.png)
 
@@ -595,10 +582,6 @@ X        X        X        X
 
 **॥ शुभं भवतु ॥**
 
-
-
-
-
 ![](../books_images/U-IMG-1697607198654-removebg-preview.png)
 
 |                               |
@@ -656,15 +639,6 @@ X        X        X        X
 |     १० पूर्वा      |                                                                                                                     ( १) पूर्वा.                                                                                                                      |
 |     ११ मुखारी      |                                                                                                                     ( १) मुखारी.                                                                                                                      |
 |      १२ दीपकः      |                                                                                                                      ( १) दीपकः.                                                                                                                      |
-
-
-
-
-
-
-
-
-
 
 \]
 

@@ -17,38 +17,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMzI2NTk5MzU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
-
-
-
-
 
 **To  
 THE REVERED MEMORY OF  
 MISS E. J. BECK,  
 SECRETARY, INDIAN NATIONAL ASSOCIATION, LONDON.**
-
-
 
 **PREFACE**
 
@@ -63,8 +39,6 @@ SECRETARY, INDIAN NATIONAL ASSOCIATION, LONDON.**
 Calcutta University **}**  
 December, 1941.                            
  J. B. C.
-
-
 
 |                                                                            |
 |:--------------------------------------------------------------------------:|
@@ -88,8 +62,6 @@ December, 1941.
 |                The beginning of the poem is rather abrupt.                 |
 |                   Verse 1 Yaksa Dakṣa's exile for a year                   |
 | '' 2 The swan is requested to carry themessage to his wife Kandarpalekhā |
-
-
 
 |                                                                              |
 |------------------------------------------------------------------------------|
@@ -118,8 +90,6 @@ December, 1941.
 | Verses 38 Godāvarī                                                           |
 |                                                                             |
 
-
-
 |                                                                                                                                      |
 |--------------------------------------------------------------------------------------------------------------------------------------|
 | Verses 39-40 Vindhya mountains                                                                                                       |
@@ -143,8 +113,6 @@ December, 1941.
 | Verses 80-87 The house of Yakṣa Dakṣahimself; pleasure-hill, peacock, garden,young mango-tree, Aśoka-tree and alarge tank in it... |
 | Verse 88 The house cannot be so attractive as before                                                                                 |
 
-
-
 |                                                                   |
 |-------------------------------------------------------------------|
 | Verse 89 The wind will act as an allyof the messenger            |
@@ -156,8 +124,6 @@ December, 1941.
 | Verse-index                                                       |
 | Bibliography                                                      |
 | General Index                                                     |
-
-
 
 **Description of the manuscripts  
 of the Hamsa-dūta.**  
@@ -182,8 +148,6 @@ Post-colophon:—
 र \* \* णाश्चकोर-परिषत्-सौहित्य-नाडिन्धमः  
 सोऽयं वः सुखमातनोतु जगतामानन्दनश्चन्द्रमाः॥**
 
-
-
 |                                         |                    |                                    |
 |:---------------------------------------:|:------------------:|:----------------------------------:|
 | Some of the Variant readings of the two |                    |                                    |
@@ -207,15 +171,7 @@ Post-colophon:—
 |             मोहमानं भवन्तं              |   मोदमानां भवतीं   |           मोदमानं भवन्तं           |
 |           वाग्मिभिः सेव्यसाना           | वारिभिः सीव्यमाना |         वारिभिः सेव्यमाना         |
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 **THE POET**  
 His life and date
@@ -243,8 +199,6 @@ His life and date
 
  See Hultzsch's Reports of Sans. MSS. in South India, X. 68. 84-85; Sesagiri Sāstrin's Reports, vol. II, pp. 193-94.
 
-
-
 **LIFE AND DATE OF VĀMANA**
 
 dīpikā[^1], the Saptaśatī-sāra[^2][][^2]and the Sāhitya-cintā-mani[^4]a rhetorical work. Vema succeeded Komāragiri of Kondabidu about 1403 A.D. He presented several villages to Brāhmaṇas on different occasions.⁵
@@ -256,7 +210,6 @@ dīpikā[^1], the Saptaśatī-sāra[^2][][^2]and the Sāhitya-cintā-mani[^4]a r
 [^4]: "Travancore, 80."
 
 ₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋
-
 
 5 He presented the village Mallavara, named after his wife Mallāmbikā, to one Nṛsiṃha in 1411 A.D. See Epigraphia Indica, vol. IV, No. 46, second plate, second side, v. 26:
 
@@ -278,8 +231,6 @@ dīpikā[^1], the Saptaśatī-sāra[^2][][^2]and the Sāhitya-cintā-mani[^4]a r
 
 **तस्यान्नवेमचन्द्रस्य लक्ष्मीरिव सहोदरी।  
 श्रीनल्लनूङ्कभूपस्य महिषो विष्णुतेजसः॥**
-
-
 
  In his Sabda-candrikā, Vemabhūpāla pays homage to Vidyāraṇya and great poets like Sārvabhauma.⁶ Vidyaranya or Madhava Acārya, founder of the Vijayanagara empire, flourished[^5]towards the end of the fourteenth century and the beginning of the fifteenth century A.D. From the above evidence we may safely come to the conclusion that Vāmana Bhaṭṭa Bāṇa, court-poet of Vemabhūpāla and disciple of Madhava Ācārya, flourished in the first half of the fifteenth century, as the poet must have been a junior contemporary of his preceptor.
 
@@ -305,10 +256,6 @@ dīpikā[^1], the Saptaśatī-sāra[^2][][^2]and the Sāhitya-cintā-mani[^4]a r
 स्वर्गे सारस्वतपुरी भोग-भूमिस्तु सैरिकः।  
 गीर्वाणनगरी वीरसाधारण-पुरीति च॥**
 
-
-
-
-
 shows that he had a first-hand acquaintance with Society-life. He wanted to eclipse the fame of Bāṇabhaṭṭa who also flourished in his own Gotra. Vāmana Bhaṭṭa probably got the inspiration of composing his Vemabhūpāla-carita, the biography of his patron, from the Harṣa-carita of Bāṇabhaṭṭa whom he considered his outstanding rival in the literary field. Vamana expressly states that his ambition was to prove himself a worthy rival of Bāṇa and thus to prove that all others except Bānabhaṭṭa arenot unworthy prose-writers.⁹ He used the titles Sadbhāṣāvallabha, Kavisārvabhauma AbhinavaBhaṭṭa-Bāṇa.
 
 **Other works of Vāmana Bhaṭṭa Bāṇa,  
@@ -327,8 +274,6 @@ edition of the work that has been published in the Trivandrum Sanskrit Series, W
 **बाणादन्ये कवयः काणाः खलु सरस-गद्य-सरणीषु।  
 इति जगति रूढमयशो वामनबाणोऽपमार्ष्टि वत्सकुलः॥**
 
-
-
 MSS. Library (Vol. VI, MS. No. 3721) and the other in Adyar Library (II. 27).
 
  3. BAṆĀSURA-VIJAYA. MS. No. R. 5223. This MS. is complete and written in Grantha character.
@@ -346,10 +291,6 @@ In this work, the author speaks of himself:-
  This work is a slavish immitation of an ideal Bhāṇa and closely follows the characteristic features as propounded by rhetoricians. Thus Vilāsaśekhara, the hero, is a typically cunning fellow and the work, too, is complete in one act. He addresses and replies to a person whom he only hears and sees, but none of the audience. There is no second dramatical person.
 
 [^7]: "or MSS., see Triennial Catalogue, Madras, VI. 7100 (कनकरेखाकल्याण
-
-
-
-
 
 The sentiments Sṛngāra and Vira have been aptly indicated and the story, too, is an imaginary one and So on.¹¹
 
@@ -373,8 +314,6 @@ The sentiments Sṛngāra and Vira have been aptly indicated and the story, too,
 तत्रेतिवृत्तमुत्पाद्यं वृत्तिः प्रायेण भारती।  
 मुख-निर्वहणे सन्धी लास्याङ्गानि दशापि च॥"**
 
-
-
 Entering an excellent garden in course of his pursuit, he heard a damsel sing while swinging on a hammock. They fell in love. Prolla subsequently came to know that she was the daughter of Tukkhāra Ghatta, king of Vikramasiṃha, a city of the South and married her. He had five sons by her, viz. Māca Narendra,Vema Bhūpa, Doḍḍa Narapati, Anna Bhūpa and Malla Mahipala. Māca became the king when Vema Bhūpāla conquered the neighbouring regions. Māca had three sons, viz. Reddy Prota Bhūpa, Pedda Komatindra and Nāgarendra. Pedda Komaṭīndra succeeded his father to the throne. Vema Bhūpa was his son by Anantāmbā. Their second son was Māca. Vema succeeded his old father to the throne. He too extended his already large kingdom.
 
  The family-tree, as given here therefore, is as follows:-
@@ -382,8 +321,6 @@ Entering an excellent garden in course of his pursuit, he heard a damsel sing wh
 Kama of Trilinga, a Sūdra King
 
 ![](../books_images/U-IMG-1722921733Screenshot2024-08-06104709.png)
-
-
 
 **Lexicography**
 
@@ -404,11 +341,7 @@ Kama of Trilinga, a Sūdra King
 
  As usual, first the route is described and then the message to be given is stated. As the messenger is to pass from the Mount Malaya to Alakā in the Himalayas, the route covers a very long distance. The swan starts from Malaya and passes through the
 
-
-
 Tāmraparṇī. The oysters drinking the water of this river at certain periods are said to become mothers of pearls. Then it reaches Madhurā or Madura; in order to build a bridge on the river by its side, Mahādeva himself is reported to have carried earth on his head. This is the Headquarters of one Pāṇḍya king. Then come in succession the Cauvery, the countries Raṅga and Cola. The country of the Colas is full of banana, cocoanut and betelnut trees. Then the messenger is to pass through Puṇḍarīkapura where it should worship Śiva. Then it should go to Conjeeveram via Aruṇācala where Siva resides in the form of a Fire-pillar. Ādideva is said to have assumed the form of Brahmā here during a horse-sacrifice on a peak of the Kari-parvata whose highest peak is the Punyakoṭi. Some four miles away from it flows the river Kampā on whose bank there is an image of Parvati. Underneath a mango-tree on its bank, there is an image of Siva too. The messenger is requested to pass one night somewhere at Conjeeveram. Next morning it will pass through the Añjanādri, the mount Kālahasti and the river Kanakamukhari by its side. While passing the country of the Andhras, it will be pleased to have a sight of the rivers Krsnaveni and Tungabhadra. The Godāvarī is rather a long way from the Tungabhadrā; it will take the swan three or four days to traverse this whole distance. The messenger is reminded here about the association of Sītā with the Godāvarī. Then come the Vindhya mountains which, as the tradition goes, challenged the Sun and the beautiful Revā. Here the Sabara damsels clad in
-
-
 
 leaves are sure to cause much delight to the messenger. Then come in succession the Yamunā associated with Kṛṣṇa, the Ganges on which Benares is situated, Ayodhyā, Sarayū, Gandakī, Kurukṣetra, the Himalayas, the Krauñca mountain, the Kailāsa and finally Alakā.
 
@@ -422,8 +355,6 @@ leaves are sure to cause much delight to the messenger. Then come in succession 
 
  1. Malaya mountains—Southern parts of Western Ghats to the south of the river Kāverī. Popularly known as the Travancore hills, they extend from Coimbatore to Cape Comorin and include the Anai-
 
-
-
 malai and Cardamum hills. In the southern-most peak of the Anaimalai hills called the Agastya-kūṭa Agastya is said to have lived; this peak is also the source of the river Tāmraparṇī or Tāmbaravarī as it is known to day.
 
  2. Tāmraparnī-The river Tambaravari. The united stream of the river Tambaravarī and the Chittar in Tinnevelly is also at times called Tāmraparṇī.
@@ -435,8 +366,6 @@ malai and Cardamum hills. In the southern-most peak of the Anaimalai hills calle
  5. Rangadeśa-Seringam, two miles to the north of Trichinopoly, so called on account of Srirangam, an image of Visnu, that exists here.
 
  6. Cola-deśa-The Coromandel coast from Nellore on the river Penner to Pudukottai. It was also known as Dravida (Padma-purāṇa, Adi-khaṇḍa, 6), which
-
-
 
 **GEOGRAPHICAL NOTES**
 
@@ -450,8 +379,6 @@ subsequently became known after the celebrated king Cola of Kāñcīpura (Padma-
 
  10. Kālahasti-In the North Arcot district. In a temple here the Vāyu or wind image of Mahadeva exists. This is a well-known place of pilgrimage. It is very striking that the lamp on the head of the
 
-
-
 image constantly oscillates whereas all other lamps in the temple are steady.
 
  11. Kanakamukhari Nadī—River Suvarṇamukharī. Nayadupet and Kota are situated on it.
@@ -463,8 +390,6 @@ image constantly oscillates whereas all other lamps in the temple are steady.
  14. Godāvarī—This river rises in Brahmagiri and passes through a village called Tryambaka in which a tank called Kuśāvarta is said to be fed by the waters of this river by means of an undercurrent. Tryambaka is only twenty miles from Nasik. The Godāvarī passes then through Hyderabad in its easterly course and falls into the Bay of Bengal. Rajahmundry is situated on it. Ramacandra on his way to Laṇkā is said to have crossed this river at Bhadrãcalam in the Godāvarīdistrict.
 
  15. Pañcavati-Nasik, so called as according to the Purānas, Satī's nose fell here or as according to the Rāmāyaṇa Lakṣmaṇa cut here Surpanakha's nose into two pieces.
-
-
 
  16. Vindhyācala-The Vindhya range in which the famous temple of Binduvăsini is situated.  
  17. Sarayū—The Ghagra or Gogra in Oudh. It rises in Kumaun.  
@@ -480,8 +405,6 @@ image constantly oscillates whereas all other lamps in the temple are steady.
 ₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋₋
 
 12 Kāvya-saṃgraha of Jivānanda Vidyāsāgara, Part A, third ed., Calcutta, 1888, pp. 441-507; ed. in Oriya character by Kapileśvara Vidyābhūṣaṇa with Oriyā rendering in verses, Cuttack, 1906 and 1917; Kāvya-saṃgraha of Dr. John Haeberlin, pp. 374-400, Samvat 1918; Kāvya-kalāpa, part I, 1864, pp. 35-53; Kāvya-saṃgraha of Dinanātha Nyāyaratna, \[1869\], pp. 122-148; Basumati ed., Calcutta, 1911; ed. with commentary by Rādhācarana Gosvāmin, Brindaban, 1913; ed. by Candrakumāra Bhatṭācārya with a Sanskrit Commentary called Subodhini, Calcutta, 1871.
-
-
 
 givers of the sect. The two brothers Rūpa and Sanatana together with their nephew Jīva are the most active literary figures in the whole History of Bengal Vaiṣṇavism.  
  There are the following works to his credit:—  
@@ -509,8 +432,6 @@ The colophon to the work is as follows:—
 
  श्रीमधुमिश्र-विरचिता रूपसनातन-कृतस्य हंस-दूतस्य टीका समाप्ता।
 
-
-
 10. Padyāvalī.  
 11. Hamsa-dūta.  
 12. Uddhava-sandeśa.
@@ -537,8 +458,6 @@ is somewhat akin to that given by Kālidāsa himself
 **इत्यौत्सुक्यादपरिगणयन् गुह्यकस्तं ययाचे  
 कामार्ता हि प्रकृति-कृपणाश्चेतनाचेतनेषु॥**
 
-
-
  Akrūra is said to have accompanied Kṛṣṇa on his way to Muttra and therefore, the Swan is entreated to follow mark the track of them both; it is presumed that the marks of the wheels of the chariot of Kṛṣṇa would still be visible on the same path; moreover the Gopis would still be found weeping":—
 
 **गलद्वाष्पासार-प्लुत-धवल-गण्डा मृगदृशो  
@@ -563,8 +482,6 @@ wherein the swan is entreated to serve as a messenger also is nothing but an imi
 
 **याच्ञामोघा वरमधिगुणे नाधमे लब्धकामा।**
 
-
-
  Then come on its way the Tamāla-tree and the pleasure-bower of Kṛṣṇa at its one end. On the border of Vṛndāvana lies the head of the demon called Arista. The messenger will find on its way how the damsels of Vṛndāvana try hard to reach the bank of the Yamuna to have a glimpse of Kṛṣṇa but fail to do so as the path becomes slippery on account of their constant weeping (v. 24). Then it will pass through the Kāliya Lake on the bank of which will be found Vṛndādevī transformed into a Tulasī-leaf. comes Mathurā, the destination of the messenger:—
 
 **निकेतैराकीर्णा गिरिश गिरि-डिम्भ-प्रतिभटे-  
@@ -580,8 +497,6 @@ wherein the swan is entreated to serve as a messenger also is nothing but an imi
 दलिन्दाग्रे वृन्दावन-कुसुमधन्वा विजयते॥ ३६ ॥**
 
  They are vying with one another for having a glimpse of Kṛṣṇa. Then the Swan is requested to enter the inner apartments of Kṛṣṇa which have been described in details. He will be found on his couch, hearing songs of Vikadru or the legendary tales narrated by Akrūra. Sātyaki, Kṛtavarman, Garuḍa,
-
-
 
 etc. are all engaged in rendering him some service or other. Even Brahmā is not capable of describing him in the least and therefore, it is simply beyond the power of a woman to describe him: -
 
@@ -605,8 +520,6 @@ etc. are all engaged in rendering him some service or other. Even Brahmā is not
 स्तदैवास्माकीनां गिरमुपहरेथा मुरभिदि॥ ६४ ॥**
 
 Then the actual message is imparted. It contains references to various pet things of Kṛṣṇa and the
-
-
 
 pitiable condition of the whole of Vṛndāvana. All the damsels of Vṛndāvana are on the verge of death:-
 
@@ -635,8 +548,6 @@ and not to forget Rādhā in particular (v 73), who is weeping constantly :—
 ययौ मन्दा वृन्दावन-कुमुदबन्धो विधुरताम्।  
 यदर्थं दुःखाग्निर्दहति हि तमद्यापि हृदया-  
 न्न यस्माद्दुर्मेधा लवमपि भवन्तं दवयति॥ ७८ ॥**
-
-
 
  She is beyond consolation. She draws the picture of Kṛṣṇa on the ground with the juice of the Tamāla and embraces him just the same as though he were in her company :—
 
@@ -672,8 +583,6 @@ Meghadūta, II, 44.
 
 Canto vi, v. 4, p. 90
 
-
-
 the flames of Love for Kṛṣṇaand moreover, Love-god is still persuing the same for final extirpation :—
 
 **समन्तादुत्तप्तस्तव विरह-दावाग्नि-शिखया  
@@ -699,8 +608,6 @@ the flames of Love for Kṛṣṇaand moreover, Love-god is still persuing the s
  In some editions such as the Vasumati ed. there are only 101 verses whereas in others there are 142.  
  The work at times betrays some influence of the Megha-dūta upon it. It, however, is an excellent devotional poem. The subject-matter is, of course, the well-known theme of Love between Rādhā and
 
-
-
 Kṛṣṇa; but as is usually the case with Vaiṣṇava Literature, the dry bones of Religion and Philosophy have, no doubt, been nicely remodelled into a thriving body, with a glorious Kāvya-soul full of inspirations and sentiments.  
  The Vṛtti followed is Kaiśikīand the metre employed Sikhariṇī.
 
@@ -713,8 +620,6 @@ The author Veṅkaṭanātha who flourished in the 14th century belonged to the 
 ——————————————————————————————————
 
  16 Ed. in Grantha character in Deśika-saṃpradāyavivardhini Sabhā, Work No. 30(a), pp. 1-16, Kumbakonam, 1915; ed. in Telugu character from Deśabandhu Press, Mysore, 1927; ed. with the Prakāśa of Raṅgarāja Acārya by P. Ananda Charlu, Madras, 1903; ed. in Telugu character from the Vāvilla Press, Madras, 1927, with the commentary of Srinivāsa Acarya; ed. in Grantha and Tamil char. as Work No. 30 (b) of the Desika-sampradāya-vivardhini Sabhā, Kumbakonam, 1915-1916; ed. with the commentary of Svetāraṇya Nārāyaṇa Sāstrin, Madras, 1902; ed. with the commentary Rasāsvādini of Srikṛṣṇa Brahmatantra Paratantrasvāmin, Kumbakonam, 1915-1916; ed. with his own sub-commentary Rasāsvādini Pādukā by Kasturi Rangācārya, Mysore, 1913.
-
-
 
 3. Adhikaraṇa-sārāvalī.  
 4. Dehalīsa-stuti in 28 verses. A hymn of Viṣṇu as worshipped at Tirukkoyilur in South Arcot District.  
@@ -736,8 +641,6 @@ The author Veṅkaṭanātha who flourished in the 14th century belonged to the 
 
  This Haṃsa-sandeśa deals with the sending of a Swan to Sītā in Ceylon by Rāmacandra, the subjectmatter being the same as in the first volume of this series except that the messenger there is a bee. The route described in both is Mount Mālyavat to Ceylon via the East coast of the Madras Presidency. The
 
-
-
 poet points out that the West coast of the said Presidency suffers from a great disadvantage, viz., rain; therefore, the Swan should follow the eastern route though the western one is decidedly shorter. On its way to Ceylon, it should pass through Karṇāța and the Āndhra country. Then it is destined to reach Añjanādri[^8].")," also called also called Veṅkaṭācala[^9] in North Arcot. Here Rāmānuja replaced the worship of Siva by that of Visnu called Venkatasvamin.").The river Kanakamukharī (also known as Suvarṇamukharī) flows just by the side of the Añjanādri. Then come Tuṇḍīra[^10][][^10]and Satyavati-kṣetra. Then it will reach the Hastiśaila at Conjeeveram which is situated on the northern bank of the river Vegavatī[^12].It will then pass through the Cola country that is full of betelnut tree, the Svetaśaila, the Candrapuskariṇī on the bank of which is situated the Rangadhāma, the Vrkṣācala, the Paṇḍya-deśa, the Tamraparṇī, the mount Subela on the sea and finally Ceylon where it will see Sītā under a Siṃśapā tree.
 
 [^8]: "This range is to be distinguished from Suleiman range of the Punjab which also is known as Añjanādri (Varāhapurāṇa, chap. 80
@@ -751,10 +654,6 @@ poet points out that the West coast of the said Presidency suffers from a great 
  Many places mentioned here coincide with those dealt with in the Haṃsa-sandeśa of Vamana Bhaṭṭa Bāṇa.
 
  The message sent is nothing new-an outburst of pathos only in a new garb.
-
-
-
-
 
  The commentators find in the work Vedantic doctrines as is natural in the work of a great Vedantist. But these are really casual and may be passed over by those who care only for the excellence of this messenger-poem as a Kāvya.
 
@@ -777,8 +676,6 @@ later than that date. The account of the Haṃsasandeśa given below is based up
         देखा देह वारेक आसिया॥
 
 Bengali tr., op. cit., p. 853.
-
-
 
 or an account of their constant sufferings throughout the twelve months of the year beginning with the month of Agrahāyaṇa is intimated to the Swan for reporting to, or reproducing before, Kṛṣṇa. The route of the Swan is described at the end of the work.²⁴
 
@@ -804,8 +701,6 @@ or an account of their constant sufferings throughout the twelve months of the y
 
 24 Op. cit., pp. 859-860.
 
-
-
 logue of Sans. MSS. of the said Library and on my enquiry, Mr. Gopalan, Secretary of the Library, kindly informed me that it could not be traced in the Library. It is reported to consist of only 40 verses.
 
 **5. HAṂSA-SANDEŚA BY PŪRṆASARASVATI**
@@ -828,8 +723,6 @@ logue of Sans. MSS. of the said Library and on my enquiry, Mr. Gopalan, Secretar
 मेघेनोच्चैर्निज-रस-भरं वर्षतामर्षितोऽपि॥**
 
 26 For bibliographical informations, see Bibliography under Hamsa-sandeśa: °tikā.
-
-
 
 krāntā is rather novel, dealing as it does, with Vedāntar²⁷ and Yaga,²⁸ and partly with Saivāgama²⁹ as well. It is divided into two parts, Pūrva-sandeśa (50 verses) and Uttara-sandeśa (51 verses). A Saiva devotee sends his soul in the form of a swan to his beloved Rudrabhakti i.e. Devotion to Siva. The cause of separation between the devotee and his beloved Devotion is worldly attachment and therefore, the devotee wants to cut this gordian knot and to be reunited with his beloved by means of detachment to Karma.
 
@@ -858,8 +751,6 @@ See also verse 14:-
 शोक-क्लान्ता जनकतनया प्राग्यथाशोक-मूले  
 तस्यै हर्षं वितरतु भवान् यद्वदार्या हनूमान्॥**
 
-
-
 in the Triennial Catalogue of Sans. MSS. of the said Library, Vol. VI, Part I (Sanskrit), pp. 7302-7303, R. No. 5291. It consists of 12 folios and there are 20 lines in a page. It is written in the Devanägara script and its size is 10^(_(1/2)) x 9^(_(1/2)) inches.  
  Here, too, a swan is sent as a messenger by a separated lover to his lady-love:—
 
@@ -874,8 +765,6 @@ This Dūta-kāvya is also, as usual, divided into two parts. The colophon
 
 leaves no doubt as to this.  
 Further details about this work will be recorded in Vol. VI of this series.
-
-
 
 **हंस-सन्देशः**
 
@@ -900,8 +789,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 \[वृन्ताग्रं' यत् ( ? )वृन्ताग्रीयं\] कुसुममिव तन्नातिकालं क्षमेत्।  
 त्रातुं चैनां प्रभवति भवान् नूनमल्पैरहोभि-  
 र्मध्येमार्गं सह दयितया मा च भूत्ते विलम्बः॥४॥**
-
-
 
 **कौबेरीं तामुपसर पुरींसम्पदां पात्रमेकं  
 योग्यां शालां कुसुमधनुषो बाहु-दर्पो दयस्य।  
@@ -928,8 +815,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 छायालानां वन-विटपिनां सीम्नि विश्राम्य पश्चा-  
 दभ्यै दद्याः सरतिज-मधु स्वेन चञ्चू-पुटेन॥९॥**
 
-
-
 **नद्यां शैले नगर-सविधोद्यान-देशे नलिन्यां  
 कुञ्जे खञ्जन्मिहिरकिरणे पत्रलानां तरूणाम्।  
 पाकोन्मील \[त्\] प्रसव-सुरभीतत्र तत्र प्रदेशे  
@@ -954,8 +839,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 सा तिष्ठेत स्तिमित-गमना तुभ्यमभ्यागताय।  
 आतिथ्याय भ्रमर-विरुतैः किं च याचिष्यते त्वां  
 त्वं चाऽऽस्वादात्कमल-मधुनस्तत्र तां प्रीणयेथाः॥ १४॥**
-
-
 
 **त्वदृश्या सा भवति मधुरा श्रीमती राजधानी  
 संपद्भेदैर्धनद-नगरी-विभ्रमं दर्शयन्ती।  
@@ -982,8 +865,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 पाथः पूरैः परिणत-शरच्चन्द्र-निष्यन्दकल्पै-  
 श्चक्षुःप्रीतिं तव विदधती सह्यजा वीक्षणीया॥ १८॥**
 
-
-
 **या निःश्रेणी भवति सुकृतां स्वर्ग-सौधाधिरोहे  
 यां च प्राहुः प्रथित-विभवां दक्षिणां जह्नु कन्याम्।  
 मध्ये यस्या मघवदुपल-श्यामल-श्री-सनाथा  
@@ -1008,8 +889,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 काचित्तस्मिन्महित-विभवा काञ्चनो संसदस्ति।  
 तस्यामाद्यं कमपि विचलं चन्द्रकान्तं दिनान्ते  
 नृत्त-क्रीडाभिनय-चतुरं नीलकण्ठं भजेथाः॥२४॥**
-
-
 
 **दोषामन्यं दिनमुपवनच्छायया कल्पयन्तीं  
 रत्नालोकैरपि च दिवस-श्री-सनाथां त्रियामाम्।  
@@ -1036,8 +915,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 आहूतः सन्नमर-मुनिभिमूर्तिमम्भोजयोने-  
 राविश्चक्रेहय-मख-विधौ हव्यमादातुकामः॥ २८॥**
 
-
-
 **शृङ्गंसौमेरवमिति सुरैर्दूरमु ऽ I ऽ ऽ  
 ऽ ऽ लक्ष्या तव सुचरितैः पावनी पुण्यकोटी।  
 भासां चक्रैःफणिपति-सरोवर्तिनां चातकानां  
@@ -1062,8 +939,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 प्रातर्यान्तंनिज-सुषमया सा पुरी त्वां निरुन्धे।  
 मा कुर्वीथाः क्षणमपि मनस्तत्र वस्तुं शकुन्ते  
 मित्रस्यार्थे विहित-मनसां काल-हानिः कथं स्यात्॥ ३४॥**
-
-
 
 **शृङ्गाघाटै स्तपन-तुरगालीढ-दूर्वा-प्रवालै  
 रंहश्छेदी तदनु भवता दृश्यतामञ्जनाद्रिः।  
@@ -1090,8 +965,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 पश्यन् वन्यां कनक- शिखरि-स्पर्धया रुद्ध-मार्गं  
 भानोः सानोरुपरि विहरत्किन्नरं विन्ध्यमेयाः॥३९॥**
 
-
-
 **तुङ्गैः शृङ्गैर्गगन-सरणीदूरमुल्लङ्घितायां  
 सञ्चारार्थंतदनु सरणं कर्तु मभ्यागतानाम्।  
 पादोपान्ते परिणतिजुषामम्बु, दानामिवोच्चै-  
@@ -1116,8 +989,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 मादाय द्रागनुतट-तल-स्थापितान्यंशकानि।  
 अध्यारोहन्मधुर-हसित-स्यन्दि-वक्तारविन्द-  
 श्छन्दः शाखा-निहित- चरणो यत्र कुन्दं मुकुन्दः॥४४॥**
-
-
 
 **कन्यां जह्नोरुपसर ततो येयमा ब्रह्मलोका-  
 दाक्रामन्ती भुवनमखिलं पुण्य कीर्तिः पुनीते।  
@@ -1144,8 +1015,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 सीता-हेतोः पवन-तनयं प्रेषितं तत्र शृण्वन्  
 नात्मान्ते कृति नयमयतिं (?) नेष्यसि त्वं त्रियामाम्॥४९॥**
 
-
-
 **काकुत्स्थानां मुहुरवभृथ स्नान पुण्योदवाहा  
 द्रष्टव्या ते तदनु सरयू स्तां पुरोमुत्तरेण।  
 यूपास्तेषां तट-भुवि महोपघ्नतां यान्ति यस्या-  
@@ -1170,8 +1039,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 प्रालेयानां प्रभवमचलं प्रांशु-शृङ्गंप्रयायाः।  
 विश्वं विश्वम्भर इव सदा विभ्रदभ्रं लिहात्मा  
 पादाग्रेण त्रिदिव-तटिनीं पावनींयः प्रसूते॥ ५४॥**
-
-
 
 **तत्सानूनि स्फुट-मृगदामोदितोत्सङ्ग-मीमा-  
 न्यध्यासीनः परिसर-पतन्निर्भराम्भःकणानि।  
@@ -1198,8 +1065,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 काल-व्यालाकलितमभितो बिभ्रतो योग-पट्टं  
 शोभां धत्ते विशद-भसितालेपिनः शूलपाणेः॥ ५९॥**
 
-
-
 **गीर्वाणानां विदधदनिशं गण्ड-पाषाण शङ्कां  
 यस्योपान्ते विहरति जुषः शङ्करस्यौपवाहम्।  
 उद्यद्दानपु (?)… मलालग्न-शृङ्गैश्चशृङ्गै-  
@@ -1211,8 +1076,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 यक्षेशानां नियत-वसतिं याहि वस्वोकसाराम्॥ ६१॥**
 
 **इति श्रीभट्ट-वामनस्य कृतिः पूर्व-हंससन्देशः समाप्तः॥**
-
-
 
 **यत्र स्त्रीणां वपुषि तनुता वक्रता भ्रू-लतायां  
 लील्यं दृष्ट्योः कुच-कलशयोरेव काठिन्य-वार्ता।  
@@ -1233,8 +1096,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 रोमालीषु प्रकृति-सुभगां शिञ्चिनींभृङ्ग-मालाम्।  
 सभ्रूभङ्गे नयन-वलने किञ्च संमोह ऽऽ  
 ऽ ऽ ऽ ऽ… ऽ यत्र विन्यस्त-भारा॥ ६५॥**
-
-
 
 **यस्यां मुग्धाः कर-किसलयैर्गाढमालिङ्ग्यमानाः  
 स्पृष्ट्वा नीवीं प्रियतम-करे किञ्चिदारब्धु कामे।  
@@ -1261,8 +1122,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 दातारो न क्वचिदपि जना याचितारं लभन्ते  
 चित्रं यत्तत्सकलभगवानादिमो भिक्षुरास्ते॥७०॥**
 
-
-
 **अम्भः क्रीडास्वनिशमजहन्मज्जनोन्मज्जनानां  
 यक्ष-स्त्रीणां सुरभित-जलं क्षालितैरङ्ग-रागैः।  
 सौवर्णाम्भोरुह-परिमलायस्त-भृङ्गावरोधो  
@@ -1287,8 +1146,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 तत्रत्येषु प्रिय-सहचरीं तामिमां संनिवेश्य।  
 लब्ध्वा तेभ्यः प्रणय-बहुलामातिथेयीसपर्यां  
 शीघ्रं याया मम मृगदृशो जीवितालम्बनाय॥ ७५॥**
-
-
 
 **गच्छन् मध्येनरपति-पथं वीजनैर्वीत-खेदो  
 गङ्गा-स्रोतः सकल-सरुचां केतनाली-पटानाम्।  
@@ -1315,8 +1172,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 सीदद्वन्धुस्तिमित \[मुखं (?) मुरजं\] मदुष्टहं तत् प्रतीया  
 यत्राऽऽस्ते सा दिवस-गणन-व्याकुला वल्लभा मे॥८०॥**
 
-
-
 **अग्रे दिव्य-द्विप-कर-धृतैरष्टभिः शातकुम्भै-  
 रारात् कुम्भैरमृत-लहरी-वारिभिः सेव्यमाना।  
 ऐश्वर्याणामहमहमिकामावहन्ती कटाक्षै-  
@@ -1341,8 +1196,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 राशीभूय स्थित इव पुरो राग-बन्धो मदीयः।  
 आशिञ्जान-स्फुट-मणि-तुलाकोटि-वाचालितानां  
 पात्र SS IIII सुतनोः पाद-संताडनानाम्॥ ८५॥**
-
-
 
 **रोधोवल्ली-विगलित-मधु-स्यन्द-सुश्व (?) पूरा  
 तारा-शुभ्रैर्घटित-चतुरारोहणा चन्द्रकान्तैः।  
@@ -1369,8 +1222,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 आसित्वा त्वं क्षणमथ पुनः सम्यगेव प्रतीयाः  
 कुत्रास्ते सा कुसुमविशिख-व्याकुला मत्प्रियेति॥ ०॥**
 
-
-
 **तापं नेतुंतरुण-कदली-मण्डपं संश्रयेद्वा  
 धारागारे किमुत नलिनी-तल्प-रम्ये \[\[ रमेत \]।  
 \[ सेवेताऽऽहो \] हिम-जल-लवस्यन्दिनींचन्द्रशालां  
@@ -1395,8 +1246,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 सा मे कान्ता प्रसव-धनुषः कल्पना-चापवल्ली।  
 निन्दन्तीयन्नियतिमियति प्राप्य काले विषादं  
 दूयेतालं मयि विधि-वशाद् दूर-देशान्तरस्थे॥ ५॥**
-
-
 
 **वैलक्षण्यं वपुषि दधती खेदिनी वेपमाना  
 विस्रस्ताङ्गी विकल-करणा बिभ्रतो रोमहर्षम्।  
@@ -1423,8 +1272,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 अन्तश्चिन्ता-स्तिमित-नयना सा मुहुर्जुम्भितेन  
 श्वासोष्णेन स्मर-हुतभुजो वेदनां वेदयेद्वा॥१००॥**
 
-
-
 **लेखामिन्दोरिव दिन-मुखे दीनतामश्नुवानां  
 भग्नोपघ्नामिव नव-लतां छायया मुच्यमानाम्।  
 मेघापाये सरितमिव तां बिभ्रतीमेक वेणीं  
@@ -1449,8 +1296,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 दासाद्यै तत् क्षण-विरहजं जग्मतुर्यौन खेदम्।  
 तावन्योन्यं श्रवण-विषयाद्दूरमावामतीता  
 किं वा तन्मे विधि-विलसितं केन वा लङ्घनीयम्॥ १०५॥**
-
-
 
 **या पद्मिन्याः पयसि बिसिनी-पत्र-रुद्वेसलीलं  
 छत्रे पत्यौ क्षण-विरहिणींचक्रवाकींजहास।  
@@ -1477,8 +1322,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 पूर्वं कण्ठे पुरविजयिनो भूषणत्वंप्रपेदे  
 क्रामतुच्चै स्तदपरमहोपश्य तस्योत्तमाङ्गम्॥ ११०॥**
 
-
-
 **जात्वन्योन्य-प्रणय-कलहे जात-रोषापि जिह्मै-  
 रावि \[र्धर्मां (?) ध्यैनं \] किल यदकरोरश्रु-दिग्धैरपाङ्गैः।  
 तन्मे चेतस्यनुगिरि-नदं स्मारयन्ति प्रकामं  
@@ -1504,8 +1347,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 अप्यासन्नाचलदृषदो (?) निर्भर-व्याजती S  
 क्रन्दन्तीव भ्रमर विरुतैराकुलाः पङ्कजिन्यः॥ ११५॥**
 
-
-
 **संकल्पौघैर्मनसि बहुधा भिद्यमाने निशायां  
 नैरन्तर्यादपि नयनयोर्मुञ्चतोरश्रु-वर्षम्।  
 मग्ना किं स्यामिति किल धिया तत्र तत्सन्निकर्षा-  
@@ -1530,8 +1371,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 शापस्यान्तः सपदि भविता वासरैःकैश्चिदेव।  
 मासावेतौ गमय तदनु प्राप्य भोक्ष्यावहे तान्  
 भोगानिष्टान् रजनिषु परं प्रौढ-चन्द्रातपासु॥१२०॥**
-
-
 
 **कृत्वा कार्यं मम पुनरिदं कीर्तिमेनां च लब्ध्वा।  
 प्रत्यावृत्तः पुनरपि तथा संगतः संगतः सन्।  
@@ -1559,10 +1398,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 | आ कैलासादविदित०         | कर्तुं कान्तैः कमल०      |
 | आन्ध्रोद्देशानति०       | काकुत्स्थानां मुहुरवभृथ० |
 | आपाण्डिम्ना महिम०       | कार्ष्ण्येनावामहरिव      |
-
-
-
-
 
 **Verse-Index**
 
@@ -1593,8 +1428,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 | ज्ञातव्या सा मम          | नीहारार्द्राःकुच०     |
 | तत्सानूनि स्फुट०         | नेदीयः स्यात्तव        |
 
-
-
 **Haṃsa-Dūta**
 
 |                               |                         |
@@ -1624,8 +1457,6 @@ Further details about this work will be recorded in Vol. VI of this series.
 | वक्षे मन्दानिल०               | स्वप्ने लब्बां कथमपि    |
 | वामाक्षीणां वपुषि             |                        |
 
-
-
 |                 |                |
 |:---------------:|:--------------:|
 | **CORRECTIONS** |                |
@@ -1638,36 +1469,5 @@ Further details about this work will be recorded in Vol. VI of this series.
 |  श्यामा तुङ्ग   |  श्यामा-तुङ्ग  |
 |     शेमुषी      |     शेमुषी     |
 
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^11]: " i.e. Toṇḍamaṇḍala"
-
-
-[^3]: "Descriptive Catalogue of Sanskrit MSS., Madras, XXII, 8708"

@@ -17,8 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2MDMyMDgyODg
 
 \[
 
-
-
 **G** (galvanometor constant) **दै** (द्युवाहमान-स्थिरांक)  
 **G** (galvanometer resistance) **द्र**(द्युवाहमान-रोध)  
 **G** (ganja) **ग** (गांजा)  
@@ -388,8 +386,6 @@ gametic table** *Biol.* **जन्यु-सारणी**
 RATIO IN F₂**
 
 [TABLE]
-
-
 
 **गो** (गोल) **round, पी** (पीत)
 
@@ -5508,8 +5504,6 @@ Gynandropsis gynandra सामान्य-अर्कपुष्पिका
 gynandrosporous** *adj. Bot.* **स्त्रीपुंसव  
 gynandrous** *adj. Bot.* **1.पुंजायांग**
 
-
-
 2\.
 
 स्त्रीपुंस्क  
@@ -5602,6 +5596,5 @@ gyro-meter** (a rotary speed indicator) **भ्रामि-वेगमान*
 **gyrostat** (gyroscope in a case) **संवलयेक्ष** *m.*  
 **gyrostatic top संवलयेक्षीय लट्टू  
 gyrus** *Anat.* (convoluted ridge between grooves) **संवेल्लक** *n.*
-
 
 \]

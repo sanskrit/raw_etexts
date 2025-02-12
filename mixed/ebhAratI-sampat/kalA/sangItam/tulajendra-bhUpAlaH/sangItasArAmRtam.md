@@ -16,25 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MTAyNTQ3NDE
 
 \
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **review करणीयम्**
-
-
-
-
 
 **लाल बहादुर शास्त्री प्रशासन अकादमी**
 
@@ -56,20 +38,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MTAyNTQ3NDE
 
 **Book No san**
 
-
-
-
-
-
-
-
-
-
-
 ***सङ्गीतविद्वत्सभाग्रन्थमाला-५***
-
-
-
 
 **सङ्गीतसारामृतम्  
 तञ्जापुरीश्री **
@@ -78,50 +47,24 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MTAyNTQ3NDE
 
 **भूपालप्रणीतम्**
 
-
-
-
 **यशःशेषैः श्री पण्डित एस्. सुब्रह्मण्यशास्त्रिभिः  
 संपादितम्**
-
-
-
 
 **श्री टाक्टेर वे. राघवेण**
 
 **उपोद्धातादिभिरुपबृंहितम्**
 
-
 **मद्रपुरी सङ्गीतविद्वत्सभया  
 प्रकाशितम् १९४२**
-
-
-
-
-
-
 
 **अधिकारसर्वस्वम्**
 
 **स्वयत्तीकृतम् ।**
 
-
 **
 { मूल्यम् रू. 6/-**
 
-
-
-
-
-
-
-
-
-
-
 **CONTENTS**
-
-
 
 **PREFACE**
 
@@ -143,7 +86,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MTAyNTQ3NDE
 | **XII**  | **Index of Works and Authors cited**   | **Ixxxi**  |
 | **XIII** | **Errata**                             | **lxxxii** |
 
-
 **TEXT OF THE SÄRÄMṛTA**
 
 |          |          |                                     |             |
@@ -163,47 +105,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4MTAyNTQ3NDE
 | **"**    | **XIII** | **Tāla ,,**                         | **160 **    |
 | **"**    | **XIV**  | **Prakirṇaka ,,**                   | **172-187** |
 
-
-
-
-
-
-
-
 **PREFACE**
-
 
 ** With the issue of this work in print, the Music Academy, Madras, is completing the publication of the triad of Tanjore texts, the Sudhā, the Caturdaṇdi and the Sārāmṛta. If the value of the Caturdaṇdi is greater than that of the Sudhā, the value of the Sārāmṛta, which relates itself in a large measure to the practice of the age, is greater than that of the Caturdaṇdi. After this Sangītasārāmṛta of King Tulaja of the Mahratta dynasty of Tanjore, the current of the literary history of Carnatic Music as represented by well-written Sanskrit works gets dried up, and there begins the age of the Sārasaṅgrahamus and the Saṅgrahacûḍāmaṇîs.**
 
-
 ** As in the case of the Sudhāand the Caturdaṇdi, the late Pandit S. Subrahmanya Sastri was responsible for the preparation of the press-copy of this work also, the Sangītasārāmrta, and for secing it through press. Though printed off some time before his demise, the book could not be published before completing the work of examining the manuscripts of this and other works in the Sarasvati Mahal Library at Tanjore, and of preparing the Introduction, Summary of contents and Indexes. As printed, the Rāga and Prabandha chapters of this work appear incomplete, and the examination of the manuscripts in the Tanjore Library showed that in all the manuscripts there, these chapters are incomplete. But as a result of the manuscript-examination I could find out a line in the enumeration of the Melas which is missing in the printed here, a verse in the gencological account of the author at the opening which again is missing in the text printed here, and a few variant readings here and there; more than all these, I was able to find out portions of the Dance chapter of the Sārāmṛta as also a different and enlarged recension of the Svara chapter which includes**
-
-
-
-
-
-
-
-
 
 **the description of a Vīṇācalled after the author, the Tulajendramelavīṇā; both of these chapters I have included in the Introduction. Thanks to the assistance of the authorities of the Tanjore Library, I have been able to add also the portrait of the author as found in the collection of royal portraits in that Library.**
 
-
 **
 V. RAGHAVAN.**
-
-
-
-
-
-
 
 **INTRODUCTION**
 
 **1  
 THE AUTHOR**
-
-
 
 ** The Sangitasārāmṛta purports to be a work written by Tulaja I alias Tukkoji of the Mahratta dynasty of rulers of Tanjore, the third son of Ekoji, and the youngest brother of Sahaji and Sarabhoji, who ruled between the years 1729-1735 A.D. During the period when his elder brothers were ruling, Tulaja seems to have been staying, somewhat like a viceroy, at Mahādevapaṭṭana, a fort-town near Mannargudi, on the southwest. [It was when residing at Mahādevapaṭṭana that Tulaja wrote the medical work Dhanvantarisāranidhi[^1]and the Telugu Nātaka Śivakāmasundaripariṇaya[^2]In three of his works[^3], Tulaja refers to his son Ekoji (Il), in one of which, the Vākyāmṛta, he refers to Ekoji (Il) as Yuvarāja[^4], son of our author Tulaja, figures as the composer of the following musical plays found in Mss. in the Tanjore Library :  No. 695. Marathi .. Kamalāmbā-Tyagesa pariņaya.   606.     "). It is thus clear that Tulaja's literary activity extended over his whole life.**
 
@@ -215,22 +131,9 @@ THE AUTHOR**
 
 [^4]: "4. This Ekoji (ll
 
-
-
-
-
-
 ** The introductory geneological account in the beginning of the Sārāmṛta refers to this son of Tulajā, Ekoji, and describes him in three verses 16-18; in 18, he is described as having put down Mohammedans in Tanjore and Madura regions.**  
 
-
-
-
-
-
-
-
 ** From the works of Ghanaśyāma, preserved in Mss. in the Tanjore Library, we learn that this Ghanaśyāma was one of Tulaja's ministers. In Tulaja's Inakularājatejonidhi (No. 11323), one Śivarāyādhvarin is mentined as the king's minister**
-
 
 ** That the Sangitasārāmṛta is it work of Tulaja is known from all the colophons in it. It is, however, strange that in the introductory verses at the beginning in which Tulaja describes his family, the mention of Tulaja it verse 15 (p. 3) comes abruptly after verse 1+ without the necessary introduction of Tulaja as the younger brother of Sarabhoji. The Mss of the work examined do not have any verse 10 till the gap between verses 1+ and 15; but in one Telugu ms. of the work, in which there is some additional matter as pointed out by me in the Preface, I found a verse here, between 14 and 15, introducing Tulaja and even here, the verse is written and scored over and bracketted.**
 
@@ -242,21 +145,15 @@ THE AUTHOR**
 
 **Without such a verse, there is a gap in the description of the geneology of the author. Further, it is clear from the gencological accounts in this and the other works produced under the patronage of the Mahratta rulers at tanjore, as also from other sources of infurination, that Tukkoji alias Tulaja was the third son of Ekoji; and the colophons in the Säramrta invariably mention this Tulaja as the author. But in one place alone, in the body of the text of thesārāmṛta (p. 128), the author refers to himself as son of Sahaji!**
 
-
 **द्वादशेति गुणाः प्रोक्ताः सुषिरे शाहसूनुना **
 
 **And my examination of the mss. also does not show that there is any mistake or possible variant reading here.  
  The Telugu manuscript. of which inention has been made above. reads introductory verses 19 and 20 mentioning the compilation of the sārāmṛta by Tulaja inimediately after the description of Tulaja in verse 15 (printed text, p. 3). Verses 16-18 are read after this, as a group describing Ekoji II, the**
 
-
-
-
-
 **son of Tulajā, who is introduced in verse 16. This makes it clear that the victory over the Muhammedan focs and the saving of the Cola and Pāṇḍya countries from those enemies are the exploits of Tulaja's son Ekoji II (1736-37). Taking this as an exploit of Tulaja himself, Mr. K. R. Subrahmanyam (p. 41 of his Maratha Rajahs of Tanjore) remarks that this statement of the Sirasta luas to be taken with the proverbial grain of salt. But it seems more natural to take it as an exploit oi Ekoji II, the son of Tulaja, who, Mr. Subrahmanyam Says, (p. 43, ibid) fought hard against Chanda Sahib who attacked Tanjore on his way to Trichinopoly and made him retreat (1736)".**
 
 **
 11**
-
 
 **                          THE WORKS OF TULAJA, **
 
@@ -272,14 +169,8 @@ THE AUTHOR**
 The Tanjore New Descriptive Catalogue confuses Nos. 7 and 8 and clubs them into one work.  
 9. Mantraśāstrasaṅgraha. Ms. No. 17661. It contains 2 chapters; there are two colophons mentioning King Tulaja as**
 
-
-
-
-
-
 **its author; the page-arrangement is confused and the codex is mixed up with a collection of stotras. The work contains Maṅtrās for several deities, curative Maṅtraprayogas with several medical formulae, the last having lists of herb-names in Sanskrit with Tamil equivalents.  
 10. Rāmadhyānapaddhati. Ms. No. 21358 (Old Burnell Catalogue No. 8726). A hymn on Rāma in 28 verses in a musical metre.**
-
 
 ** From the New Tanjore Catalogue No. 10671, it would appear that Tulaja wrote a work on Nāṭya called Nāṭyavedāgama; but it will be shown below that it is really the Nāṭya chapter of Tulaja's Sangītasārāmṛta  
 11. Bahulākathācürṇikā. Marathi. Ms. No. 2125. Vahi 120. See Tanjore Marathi Catalogue, Vol. III.  
@@ -291,14 +182,7 @@ No. 17. A Telugu pada is Bhairavi with Tulaja's Mudra.
  Besides these, the Ms. contains two Padas on Tulaja, No. 5 in Kalyāṇi, Telugu and No. 8 in Pantuvarāli.  
 13. Śivakāmasundarīpariṇaya, an Yakṣagāna in Telugu. Ms. Nos. 633-5, Tanjore Telugu Descriptive Catalogue, pp. 267-8. In the introductory portion, Tulaja is twice mentioned as author: भासुरतुलजशिक्षितीशकृत...............शिवकामसुन्दरी परिणयरूपनाटकमु This play was composed by Tulaja when he was residing at Mahādevapaṭṭaṇa and the festival of Ādi**
 
-
-
-
-
-
-
 **Varāhasvāmin at that place formed the occasion for the play. The following is an index of the Rāgas and Tälas used in the songs in this play:**  
-
 
 |                        |                             |
 |------------------------|-----------------------------|
@@ -314,25 +198,15 @@ No. 17. A Telugu pada is Bhairavi with Tulaja's Mudra.
 | **Asāveri--Ādi**       | **Madhyamādi--Jhampa**      |
 | **Kāpi-Ādi**           | **Ušenī -Cāpu**             |
 
-
 **III **
 
 **Mss OF THE SANGĪTASĀRĀMṚTA**
-
-
 
 ** Mss. of the Sangītasārāmṛta are available only in the Sarasvati Mahal Library, Tanjore, and even the mss. available here are all incomplete. From the nature of the corrections, emendations and additions in these mss., some of which are mss. each containing only one chapter, it may be supposed that these were contemporary copies made as the work was being composed stage by stage. It may be that Tulaja did not complete his Räga and Prabandha chapters.  
  According to the New Descriptive Catalogue of the Tanjore Library, there are 18 mss. of this work, Nos. 1078610803. But an examination of these 18 shows that:  
  Nos. 10790-81 represent not the Sārāmṛta but the Sangitaratnākara of Sārṅgadeva.  
  And that No. 10802, a Telugu ms. in palm-leaf (Burnell No. 11514b), contains not the Sārāmṛta, but a different music compilation, mostly in verses, made by some one at the instance of King Tulaja.  
  1. This Brndāvani Rāga is not found in the Saṅgrahacuḍāmaṇi or Sangītasāraṁsamgrahamu. It appears as a Janya under the 22nd Mela, Sri Rāga, in the socalled Supplement to the Caturdaṇdī prakāśikā. See p. 12 of the Supplement, Academy Edition of the Cat. Dand. Pra.**
-
-
-
-
-
-
-
 
  **Of the remaining 15, Nos. 10787, 10800 and 10801 represent only three parts of a single palın-leaf Telugu ms. of the** **Sārāmṛta. Thus there are really only 13 mss. of the work. This Telugu ms. is a valuable one since, besides containing in the end part of the dance chaper of the Sārāmṛta, it has, at the beginning, a revised and in some parts enlarged version of some parts of the work, notably of the Svara chapter. This revised material at the beginning is written in leaves which stand separate; the Svara chapter as it is found here agrees with the recension of the same chapter in Ms. No. 10789. We have thus two versions of the Svara chapter.  
  Part of the additional matter pertaining to this is reproduced in this Introduction, as found in this Telugu ms. and in the paper Devanāgari ms. No. 10789.  
@@ -361,35 +235,24 @@ the Telugu ms. noted previously. **
 **10803: A fragment at the beginning.  
  IV**
 
-
 **COMPARISON OF Mss. **
 
 **On p. 71 of the text, we find Tulaja speaking of his Melas as 21 in number, but the enumeration which precedes contains only 19 names. The comparison of mss at this place shows that one line was left out by Pandit Subrahmanya Sastri. The text here must read thus as reconstructed with Mss. Nos. 10786, 10788 and 10787, 10800 and 10801 :**
 
 ** (17) देशाक्षीरागमेलोऽश्च (18) छायानाटस्य मेलकः । (Missing line)**
 
-
-
-
-
-
-
-
 **(19) सारङ्गरागमेलश्च (20) तोडीमेलस्ततः परम्।**
 
 **(21) कल्याणीरागमेलश्चेत्येकविंशतिरीरिताः ॥**
-
 
 ** It can also be seen that p. 111 of the printed text where the treatment of Sāranga follows that of Chayānāṭa confirms this restored line.  
  This chapter on Rāgās, as can be seen from p. 111 of the printed text, is incomplete and stops after taking up the 19th Mela for description. Unfortunately none of the mss. goes beyond this portion.  
  Even as the Rāga-chapter, the Prabandha-chapter also seems to be incomplete. (See pp. 158-9 of the printed text.) Here again, the mss. do not go beyond this portion. Tulaja promises here (p. 158) to describe a few Prabandhas which are well-known, but the text suddenly comes to a stop after the treatment of a single Prabandha, the Śrivardhana.  
  As has already been noted, a Telugu ms. supplies a verse, required by the context, in the geneological account given at the beginning of the work.**
 
-
 **SoME READINGS AND CORRECTIONS**
 
 ** The examination of the mss. showed a number of small variations in the text, and in one or two places corrections of the printed text could be made. For example:**  
-
 
 **Page 1, sloka 1, Mangala, line 1 **
 
@@ -412,12 +275,6 @@ for **
 
 **मध्यस्थाने संभवः printed**
 
-
-
-
-
-
-
 Page 13, line 9:  
 **मध्यमगताः for मध्यगताः**
 
@@ -428,7 +285,6 @@ What either means is not known.
 Page 140, line 10:  
 **अवधानप्रवीणता **correct, for** अनुपायप्रवीणता **printed wrongly. In the Sangitaratnākara however, where from Tulajā reproduced here, the reading is** अनुयायप्रवीणता.**
 
-
 **THE ENLARGED SVARA CHAPTER**
 
 ** (in the Telugu Ms. Nos., 10787, 10800 and 10801, and the Devanāgari Ms. No. 10789).  
@@ -438,12 +294,6 @@ Page 140, line 10:
  This ms. reads after 15 of the printed text verses 19 and 20, taking verses 16-18 after 20, making it clear that the driving away of the Muhammedan foc out of Tanjore is an exploit of Tulaja's son Ekoji II, but again indicates that verse 19 would follow there. **
 
 ** The text then begins अथ निखिलमपि, etc. on Nāda. See p. 3 of the printed text; but the text presented in this ms, is very brief, omitting many passages found in the printed text. Where the printed text (P. 4) just quotes the beginning and**
-
-
-
-
-
-
 
 **end of the verses on the topic of Nāda from Sārṅgadeva's work, this ms. quotes those verses in extenso.  
  Then the Śruti-portion: here also some abridgement is made. The entire discussion of the several views on the number of Śrutis (pp. 5-7 found in the printed text) is omitted here. Then the assigninent of Śrutis to the strings (p. 7, para 2). This section is supported by a quotation from Sārṅgadeva (p. 8) after which the printed text has a long discussion; of this only the closing part is found in this ms. The Śrutiprakaraṇa closes here.  
@@ -477,16 +327,8 @@ Page 140, line 10:
 
 **गायतो ब्राह्मणौ वीणा गाथिनाविति च श्रुतौ ॥**
 
-
 **1. The following 6 lines are taken from Rāmāmātya's Svaramelakalanidhi.  
 2. These following 13 lines on Vinaprasamsa are from the Svaramelakalānidhi and Sangitaratnākarą.**
-
-
-
-
-
-
-
 
 **अश्वमेधप्रकरणे वीणोक्ता धर्मसाधनम् ।**
 
@@ -546,12 +388,6 @@ or**
 **द्वितीया मन्द्रषड्जेन तन्त्रिका चेत् समन्विता ॥**   
 **मन्द्रपञ्चमसंयुक्ता तृतीया यदि तन्त्रिका।**   
 **तुरीया (तृतीया) मध्यषड्जेन तन्त्रिका चेत् समन्विता ॥**  
-
-
-
-
-
-
 
 **तदा भवेत् सर्वरागमेला पार्श्वे त्रितन्त्रिका ।**
 
@@ -627,13 +463,6 @@ ses: 26-28,33; p.4. verses
 
 **षड्जर्षभौ च जायन्ते षट्सु पर्वसु षट् स्वराः ।**
 
-
-
-
-
-
-
-
 **यस्तुर्यतन्त्र्या संभूतवरालीमध्यमाग्रतः ॥ (?)**
 
 **सप्तमी सारिका स्थाप्या शुद्धपश्चमसिद्धये ।** [^6]
@@ -697,14 +526,6 @@ ses: 26-28,33; p.4. verses
 **मदन्ती रोहिणी रम्येत्येतास्तिस्रस्तु धैवते ।**
 
 **उग्रा च क्षोभिणी च द्वे निषादे वसतः श्रुती ॥**  
-
-
-
-
-
-
-
-
 
 **एवं शुद्धस्वरगतश्रुतिनामान्यमूनि ह।**
 
@@ -778,7 +599,6 @@ ses: 26-28,33; p.4. verses
 **written in the Telugu ms. in the**
 
 **midst of the section on Vimāprasamsa.**  
-
 
 **तथा भुवि स्थितां वीणां वामपार्श्वे निधाय च ॥**
 
@@ -886,7 +706,6 @@ ses: 26-28,33; p.4. verses
 
 **सरिगरि-सरि-सरिगम-रिगमग-रिग-रिगमप इत्यादि मठ्ठालङ्कारः । सरिसरिगम-रिगरिगमप इत्यादि रूपकालङ्कारः ।**
 
-
 **सरिगसरिसरिगमा-रिगमरिगरिगमपा इत्यादि झंपालङ्कारः। **
 
 **सरिगसरिगम-रिगमरिगमप इत्यादि त्रिपुटालङ्कारः । **
@@ -932,12 +751,9 @@ ses: 26-28,33; p.4. verses
 
 **रिरिसनिसस्स-पाप्पममरिगम रिर्रिसनिसस्स-मरिरिम रिर्रिसनिसस्स-मरिरिसस इत्यादि ठायप्रयोगोदाहरणम् ॥**  
 
-
 **गीतप्रबन्धठायानां वादनाभ्यासतत्परः ।**
 
 **रागारम्भं प्रकुर्वीत सम्यगास्थासमन्वितः ॥**
-
-
 
 **॥ रागोदाहरणम् \[आलापम् (:)\] ॥**
 
@@ -951,7 +767,6 @@ ses: 26-28,33; p.4. verses
 सासानिप सासानिप सासानिपममप ममप सनिपसनिपसासानिपममपनीपनीपममपा इत्यादि।[^17]**  
 
 [^17]: "1.This illustration is not found in the Telugu ms."
-
 
 **गुरूपदेशतः सम्यगन्यद्ज्ञेयं सविस्तरम् ।**
 
@@ -987,12 +802,6 @@ ses: 26-28,33; p.4. verses
 **श्रुतिवीणादयो यत्र लीनाः स्युः तत्फलाप्तितः ।**
 
 **सेयं०-॥**
-
-
-
-
-
-
 
 **यस्यां नादविशेषोऽस्ति रक्त्याधिक्यं प्रदृश्यते ।**
 
@@ -1037,9 +846,6 @@ ses: 26-28,33; p.4. verses
 
 **प्रवालस्योन्नता मध्यभागनिम्नाश्रियुग(ग्म)भाक्। त्रयोविंशतिसंख्याकश्लक्ष्णकांस्यशलाकिका ॥**
 
-
-
-
 **सप्तभिः कीलकैर्हृद्या यथोक्तैश्चान्यलक्षणैः ।**
 
 **यस्यां मेलक्रियायास०-।**
@@ -1074,30 +880,24 @@ ses: 26-28,33; p.4. verses
 
 **एषैव वैणिकैर्ग्राह्या सम्यग्वादनकाङ्क्षिभिः ॥**  
 
-
 **आयासेन विना यत्र भवेद्वादननैपुणी ।**
 
 **एषैव साधकैर्ग्राह्या सुखेनाभ्याकाङ्क्षिभिः ॥  
 ॥ इति तुलजेन्द्रवीणा॥**  
-
 
 **THE DANCE CHAPTER OF THE SĀRĀMṚTA.**
 
 **That the Sārāmṛta of Tulaja has a chapter on dance was not known previously. The text printed here closes the work without any such chapter and the description of the manuscripts in the Tanjore Library Catalogue also does not suppose the existence of such a chapter. It was considered that on Nāṭya, Tulaja wrote a separate work, and the cause of this impression is the insufficient analysis and hasty description in the New Descriptive Catalogue of the Tanjore Library. Of the mss. tabulated under Sārāmṛta in that catalogue, the contents of each have not been fully examined; besides, a little reflection on some of the preliminary lines of the ms.described as an independent Nāṭya work of Tulaja, Nāṭyavedāgama, under no. 10671,  
      इति नृत्तप्रकरणे, कुरुते तुलजाधीशः नृत्तप्रकरणं परम्**
 
-
 **would have shown that the ms. represents a fragment of the Nṛttaprakaraṇa, dance-chapter, of Tulaja's Sangita-work, the Sangītasārāmṛta. Nāṭyavedāgama' looked a very 'suspicious' title and I had long been waiting for an opportunity to examine the ms. 'Nāṭyavedāgama' or the traditional account of the descent of the art fromBharata, is the first topic in Nāṭya; it cannot form the title of a work on the subject; and when I examined the ms. I found my impression to be correct. The ms. turned out to be a fragment of a treatment of Nāṭya by Tulaja which could only form part of his Sārāmṛta.**
 
 **Further examination revealed that the Telugu codex of the Sārāmṛta, frequently mentioned above, had, as a matter of fact, a text having a dance-chapter. When I copied out the dance portion of this Telugu ms., as also the fragment called Nāṭyavedāgama which was also in palm-leaf and Telugu script, I found that originally there was only one ms. of the dance-chapter, viz. the big Telugu codex, but that, even as some portion of it representing the Svara-chapter in underwent a revision and enlargement, the dance-chapter also underwent a process of textual inflation, and that for this purpose, some leaves of it were taken out and lines added to. It is these latter 'inflated' leaves that were found lying separately and were mistaken to be a separate work. The text in the latter 'inflated' leaves open the subject and takes us to part of a line 'एवं परम्परा(प्राप्त-)' and the continuation of the line 'मेतल्लोके प्रतिष्ठितम्'is found as the beginning of the larger Telugu codex. Tlie text then continues in the larger Telugu codex up to the tapic Pātramaṇḍana', where the line stops with the fragment 'दन्तपङ्क्तिः प्रभा' and rest of it is found in the latter inflated leaves beginning abruptly 'जालप्रोज्ज्वलीकृतरङ्गभूः।'See Saṅgītaratnākara**,** ch. VII, p. 798, first line, where from Tulaja reproduce here. From here the text goes on in the 'inflated' leaves where there occurs the next break in the line 'एवं सुशिक्षिता कन्या नर्तने'which is completed in the larger codex where we have the abrupt beginning 'पात्रमीरिता'. Therefore the text of the available portion-unfortunately the chapter is not to be had fully in the ms.of this dance-chapter of theSārāmṛta is given by me below by putting the separated portions back into the larger codex at the relevant portions.**
-
 
 **   The separation of a few leaves, it has been observed above, was done for revising and enlarging the text. This process of text-inflation was done for the purpose of bringing the text in greater contact with current terms and practice. Towards this end, the very opening of the chapter, which contains aset of verses giving the table of contents, was given an additional set of verses setting forth a revised table of contents, in which the most noteworthy addition made is the gesticulation of Darus and Padas. After the description of the subject of dance in general and of the members of the troupe and dansuese and other miscellaneous topics, the text has the topic called . Practice',Sramavidhi. This portion was taken up for inflation and in theinflated leaves we have valuable contribution dealing with Practice' as it figures in the Nautch-tradition, giving the Sanskrit names with their Tamil and Telugu equivalents, notably of the varieties of foot-beats', Pādakuṭṭana or ādavu'. This makes the text unique since here one finds a systematic textual correlation of the Nautch which shows the fact that this tradition again does not stand aloof and that its vernacular terminology does not alienise it or make it a text-less novelty.  
 It is a pity the ms, materials are not ample enough for the presentation of the text of the full dance-chapter or for a better presentation of even the available portion. Here also as in the music-portion, Tulaja takes the plan of the Saṅgīta ratnākara, from the dance chapter (VII) of which work, large portions are reproduced here. All such lines reproduced here from the Ratnākara are left out by mein the text printed below, considering that a reference to the corresponding portion in the Anandāśrama edition of the Ratnākara is enough. Besides the Ratnākara, Tulaja uses to an equal extent the Saṅgītamuktavalī (of Devana or Devendra) and to a small extent the Nṛttaratnāvali (of Jayasena), mss. of both of which were collected in the Tanjore Library. For a description of these last two works, the reader may refer to my article on Later Sangita Literature in the Journal of the Music Academy, Vol. IV, Pp. 20 and 80.  
 A second revision and inflation of these leaves seem to have taken place; for at the end of the latter 'inflated leaves', there are three leaves beginning abruptly in the topic of Sabhā sanniveśa', describing this topic and then the "Sabhānayaka' and then inflating the topic of the entry of the dansuese and the 'Nāndi Puspāñjali'. This addition is given by me in a foot-note at the relevant place.  
 Now follows a presentation of the available portion of the text of the dance-chapter of the Sārāmṛta.**
-
-
 
 **॥ सङ्गीतसारामृते नृत्तप्रकरणम् ॥  
 ॥ वस्तुसंग्रहः॥**
@@ -1142,7 +942,6 @@ Now follows a presentation of the available portion of the text of the dance-cha
 
 **कर्माणि पाणिक्षे...करणानि द्विधा ततः ॥**
 
-
 **शुद्धान्युत्प्लुतिपूर्वाणि चाङ्गहाराः सरेचकाः ।**
 
 **चार्यश्शुद्धाश्च देशिस्थाः स्थानकान्यथ वृत्तयः ।**
@@ -1165,13 +964,14 @@ Now follows a presentation of the available portion of the text of the dance-cha
 
 **तदुक्तं सङ्गीतरत्नाकरे**  
 
-
 **नाट्यवेदं ददौ पूर्वं भरताय चतुर्मुखः।  
 ततश्च भरतः सार्धं गन्धर्वाप्सरसां गणैः ॥**
 
 **etc. up to**
 
-**[एवं परम्पराप्राप्तमेतल्लोके प्रतिष्ठितम् ॥](http://॑# "1. Here the text breaks in the inflated Ms. and is continued in the original ms.")**
+**एवं परम्पराप्राप्तमेतल्लोके प्रतिष्ठितम् ॥[^39]**
+
+[^39]: "1. Here the text breaks in the inflated Ms. and is continued in the original ms."
 
 **See Ratnakara, ch. VII,  
 Anadasrama edition, verses 3-8.**
@@ -1188,7 +988,6 @@ verses 9-10.**
 **रसस्यानुभवं साक्षाद् जनयंस्तत्सभासदाम् ।**
 
 **काव्याद्यर्थंविभावादि व्यञ्जयन्यो नटे स्थितः ॥**  
-
 
 **स एवाभिनयः प्रोक्तो भरतादिमुनीश्वरैः ।**
 
@@ -1291,7 +1090,6 @@ verses 9-10.**
 
 **तथा चोक्तं सङ्गीतरत्नाकरे**  
 
-
 ** स त्वत्राभिनयां भवेत् ॥**
 
 **काव्याद्यर्थं विभावादि व्यञ्जयन् यो नटे स्थितः ॥**
@@ -1305,7 +1103,6 @@ verses 9-10.**
 ch. VII,verses 21-27.**
 
 **सङ्गीतमुक्तावल्यां विस्तरेणोक्तः । यथा**  
-
 
 **का(रा?)मादिसंश्रितो योऽर्थो नाटकादिषु कीर्तितः ।**
 
@@ -1476,7 +1273,6 @@ ch. VII,verses 21-27.**
 
 **सूचीमुखभ्रमणतो दर्शयेत्तद्गतीस्तथा ।**
 
-
 **पूर्वपश्चिमयोगेन मध्याह्नेसूर्यमण्डलम् ॥**
 
 **ऊर्ध्वाकेकरदृष्टेस्तु तथा व्योमचरानपि ।**
@@ -1494,8 +1290,9 @@ ch. VII,verses 21-27.**
 **उन्मत्ते व्याधिते भीते मूर्छिते च जरार्दिते ।  
 न हस्ताभिनयस्तत्र कर्तव्यः सत्त्वसंग्रहः ॥**
 
-**[रत्नाकरे तु-(VII. verses 295-7)](http://॑# "1. The Ratnākara itself draws upon Bharata. See Kavyamālā Text, Nātya Sastra, ch. 9, sls. 157-159.")**  
+**रत्नाकरे तु-(VII. verses 295-7)[^40]**  
 
+[^40]: "1. The Ratnākara itself draws upon Bharata. See Kavyamālā Text, Nātya Sastra, ch. 9, sls. 157-159."
 
 **विषण्णे व्याकुले भीते मूर्छिते तन्द्रिकान्विते ।**
 
@@ -1535,8 +1332,6 @@ ch. VII,verses 21-27.**
 
 [^29]: "4. Ratnakara, VII. 980."
 
-
-
 पक्षप्रद्योतको नृत्ते हस्तः कटिमुपाश्रयेत् ॥**
 
 **एवं विलोक्य विविधाभिनयप्रयोगा  
@@ -1565,7 +1360,9 @@ ch. VII,verses 21-27.**
 
 **अन्यथा योजयेद्यन्तु (यत्तु ?) तन्नाट्यं स(वि?)रसं भवेत् ॥**
 
-**[वयोऽनुरूपो वेषः स्याद्गतिर्वेषानुगा भवेत्](http://॑# "1. See Bharata, N. S., XV. 68.") ॥**
+**वयोऽनुरूपो वेषः स्याद्गतिर्वेषानुगा भवेत्[^41] ॥**
+
+[^41]: "1. See Bharata, N. S., XV. 68."
 
 **पाठ्यं गीत्यनुरूपं स्यात्तत्समोऽभिनयो भवेत् !। इति  
 ॥ इत्यभिनयनिर्णयः ॥**
@@ -1753,7 +1550,6 @@ VII. 1247-8,**
 
 **॥ इति पात्रदोषाः ॥**  
 
-
 **अथोपाध्यायलक्षणम्**
 
 **भारतीये -  
@@ -1766,12 +1562,18 @@ to      रञ्जकः स्यादुपाध्यायो नृत�
 
 **इति रत्नाकरे  
 अथ श्रमविधिः  
-[सामूशलम्बमित्येवमान्ध्रद्रविडभाषया ।](http://॑# "1. These three lines, mentioning the Telugu and Tamil names of 'practice-exercise are bracketted in the ms. I have brought in here the section called Sikşarambha found in the inflated ms. which gives Tamil and Telugnt equivalents of the Sanskrit terms and deals with the foot work etc. as practiced in the Nautch. 'Samu' in Telugu means 'exercise with a stick'. Salambam' in Tamil is really an abbreviation of Salambamholding 'MVLDLIii 19. BP.'(असंपादितः भागः) and refers to the doing of the exercises by the dansuese by holding a piece of rod at chest height, placed in front; the rod is called Dandika' and 'Patituti poopar'(असंपादितः भागः)is 'Dandikāgrahana' in Sanskrit. See Sangitaratnākara, VII, 1218-1233.")**
+सामूशलम्बमित्येवमान्ध्रद्रविडभाषया ।[^42] and refers to the doing of the exercises by the dansuese by holding a piece of rod at chest height, placed in front; the rod is called Dandika' and 'Patituti poopar'(असंपादितः भागः)is 'Dandikāgrahana' in Sanskrit. See Sangitaratnākara, VII, 1218-1233.")**
 
-[**लोकप्रसिद्धमभ्यामक्रम इत्यभिधीयते॥** ](http://॑# "1. These three lines, mentioning the Telugu and Tamil names of 'practice-exercise are bracketted in the ms. I have brought in here the section called Sikşarambha found in the inflated ms. which gives Tamil and Telugnt equivalents of the Sanskrit terms and deals with the foot work etc. as practiced in the Nautch. 'Samu' in Telugu means 'exercise with a stick'. Salambam' in Tamil is really an abbreviation of Salambamholding 'MVLDLIii 19. BP.'(असंपादितः भागः) and refers to the doing of the exercises by the dansuese by holding a piece of rod at chest height, placed in front; the rod is called Dandika' and 'Patituti poopar'(असंपादितः भागः)is 'Dandikāgrahana' in Sanskrit. See Sangitaratnākara, VII, 1218-1233.")
+[^42]: "1. These three lines, mentioning the Telugu and Tamil names of 'practice-exercise are bracketted in the ms. I have brought in here the section called Sikşarambha found in the inflated ms. which gives Tamil and Telugnt equivalents of the Sanskrit terms and deals with the foot work etc. as practiced in the Nautch. 'Samu' in Telugu means 'exercise with a stick'. Salambam' in Tamil is really an abbreviation of Salambamholding 'MVLDLIii 19. BP.'(असंपादितः भागः
 
-**[अभ्यस्तस्य पुनःसम्यगभ्यासः श्रम इरितः ॥](http://॑# "1. These three lines, mentioning the Telugu and Tamil names of 'practice-exercise are bracketted in the ms. I have brought in here the section called Sikşarambha found in the inflated ms. which gives Tamil and Telugnt equivalents of the Sanskrit terms and deals with the foot work etc. as practiced in the Nautch. 'Samu' in Telugu means 'exercise with a stick'. Salambam' in Tamil is really an abbreviation of Salambamholding 'MVLDLIii 19. BP.'(असंपादितः भागः) and refers to the doing of the exercises by the dansuese by holding a piece of rod at chest height, placed in front; the rod is called Dandika' and 'Patituti poopar'(असंपादितः भागः)is 'Dandikāgrahana' in Sanskrit. See Sangitaratnākara, VII, 1218-1233.")  
+**लोकप्रसिद्धमभ्यामक्रम इत्यभिधीयते॥** [^42] and refers to the doing of the exercises by the dansuese by holding a piece of rod at chest height, placed in front; the rod is called Dandika' and 'Patituti poopar'(असंपादितः भागः)is 'Dandikāgrahana' in Sanskrit. See Sangitaratnākara, VII, 1218-1233.")
+
+[^42]: "1. These three lines, mentioning the Telugu and Tamil names of 'practice-exercise are bracketted in the ms. I have brought in here the section called Sikşarambha found in the inflated ms. which gives Tamil and Telugnt equivalents of the Sanskrit terms and deals with the foot work etc. as practiced in the Nautch. 'Samu' in Telugu means 'exercise with a stick'. Salambam' in Tamil is really an abbreviation of Salambamholding 'MVLDLIii 19. BP.'(असंपादितः भागः
+
+**अभ्यस्तस्य पुनःसम्यगभ्यासः श्रम इरितः ॥[^42] and refers to the doing of the exercises by the dansuese by holding a piece of rod at chest height, placed in front; the rod is called Dandika' and 'Patituti poopar'(असंपादितः भागः)is 'Dandikāgrahana' in Sanskrit. See Sangitaratnākara, VII, 1218-1233.")  
 ॥शिक्षारम्भः ॥**
+
+[^42]: "1. These three lines, mentioning the Telugu and Tamil names of 'practice-exercise are bracketted in the ms. I have brought in here the section called Sikşarambha found in the inflated ms. which gives Tamil and Telugnt equivalents of the Sanskrit terms and deals with the foot work etc. as practiced in the Nautch. 'Samu' in Telugu means 'exercise with a stick'. Salambam' in Tamil is really an abbreviation of Salambamholding 'MVLDLIii 19. BP.'(असंपादितः भागः
 
 **नत्वा कृत्वा डोलहस्तं स्थित्वा भुवि सरेखकम् ।**
 
@@ -1802,8 +1604,9 @@ to      रञ्जकः स्यादुपाध्यायो नृत�
 
 **स पताककरान्वीतं स्यात् खनत्पादकुट्टनम् ॥**  
 
+**(कुत्तडवु[^45] CFLa?)(असंपादितः भागः)**
 
-**([कुत्तडवु](http://॑# "1. Missing in the ms.") CFLa?)(असंपादितः भागः)**
+[^45]: "1. Missing in the ms."
 
 **निक्षिप्य पार्ष्णिपादाभ्यां त्रिपताककरान्वितम् ।**
 
@@ -1962,7 +1765,6 @@ of g of B \।(असंपादितः भागः)**
 
 **विलुन्दुवीशि ॥**
 
-
 **उद्वेष्टितकटिन्यस्तशिखराह्वयहस्तकम् ।**
 
 **उत्प्लुत्योद्भ्रमिराख्याता रेखनीभ्रमिकीर्तिता ॥ (?)**
@@ -2035,7 +1837,6 @@ Noir up. TLIM(असंपादितः भागः)**
 
 **तट्टिमेट्टडवुवले \। LGEELLOBLITON IT(असंपादितः भागः)**
 
-
 **॥ इति पुरोगतिमण्लम् ॥**
 
 **तदेव पश्चात् सरणात् पश्चाद्गत्युदितं बुधैः ॥  
@@ -2057,8 +1858,10 @@ Noir up. TLIM(असंपादितः भागः)**
 
 **॥ इति दशविधमण्डलानि ॥ शिरणि ॥  
 \।\।
-[अथाभिनयक्रमः](http://॑# "1. This section Abhinayakrama must have dealt with the method of gesturing for Darus and Padas as promised in the synopsis, found at the opening of the ms. पृथग्दरुपदादीनाम्")॥\]  
+अथाभिनयक्रमः[^46]॥\]  
 क्रमतश्चैव चारीणां मण्डलानां तथैव च ।**
+
+[^46]: "1. This section Abhinayakrama must have dealt with the method of gesturing for Darus and Padas as promised in the synopsis, found at the opening of the ms. पृथग्दरुपदादीनाम्"
 
 **गात्रादिवलनादीनां गतीनां च पुनः पुनः ॥**
 
@@ -2129,7 +1932,6 @@ Noir up. TLIM(असंपादितः भागः)**
 
 **etc. up to**  
 
-
 **तदर्धं मध्यमो न्यूनोऽस्मात् कनिष्ठो निगद्यते ॥**
 
 **6 1/2 verses, Ratnakara,  
@@ -2191,7 +1993,6 @@ VII. 1263-68.**
 अथ पात्रस्य नृत्तार्थंकथ्यते वाद्यपद्धतिः ।**
 
 **मतङ्गस्य मतेनोक्ता बृहद्देशीविधानतः ॥**  
-
 
 **नृत्तप्रकरणे शुद्धा विचित्रा चेति सा द्विधा ।**
 
@@ -2429,8 +2230,6 @@ VII, 1313-1327. **
 
 [^36]: "1. Beyond this, the topics to be dealt with are the angas, pratyangas and upangas, hastas, hastaprachara , karanas , utplutis, Angahāras, Caris, Sthanakas, nyāyas. Pravicāras, Mandalas, Lāsyängas and Rasas, as set forth in the synopsis given at the beginning. If Tulaja had completed the compilation of his Natya chapter, the ms. of the further portion is missing. The treatment of these must have followed that in the Ratnakara and the Muktāvali. At the end of ms. No. 10671 there are three leaves in which the Ratnākara, ch. VII, up to p. 718. verse 559 (Anandasrama edn.
 
-
-
 **THESĀRĀMṚTA.AND OTHER TEXTS  
 The Saṅgītaratnākara**
 
@@ -2460,7 +2259,6 @@ The Tāla-chapter, pp. 160-171, is a more regular reproduction of the Ratnākara
 
 [^37]: "1. On Gopālanāyaka and this and other references in the work of Venkatamakhin to him and to the expression Caturdandī, see the Journal of the Music Academy, Vol. IV. pp. 20-1, 64, my article on Later Sangita Literature. The lines in the Cat. Dand. Pra. कुतस्सिद्ध्येच्चतुर्दण्डी कुतो गोपालनायकः। प्रयुक्तं च चतुर्दण्डीति॥(amended
 
-
 **  In the chapter on Melā, Tulaja makes more than one reference to the Cat. Dand. Pra. On p. 66, Tulaja quotes the Cat. Dand. Pra., Svara ch., p. 27-8 sls. 68-72. on Grāma being only one viz., the Sadjagrāna. Again, many of the lines on p. 69 defining the ten essential and characterising factors of Rāgas are taken from the Cat. Dand. Pra, p. 56. The explanation of how melāis formed on pp. 66-7 of the Sārāmṛta is based on the same in the Cat. Dand. Pra., p. 36 ff. But it must be noted that Tulajadoes not adopt the Sanketas or Samjñās used by Venkatamakhin, viz., Ra, Ri, Ru; Ga, Gi, Gu and so on. Also, Tulaja says that what the author of the Svaramelakalānidhi calls Cyutapancamamadhyamaand the author of the Caturdaṇdīprakāsika Varālimadhyama, he himself would call Vikṛtapancamamadhyama.  
       Tulaja then says that on the question of the Rāgas born of such Mela or Melana, the Cat. Dand. Pra. speaks of 72 varieties, but of these 72, Venkatamakhin himself deals with only 19, leaving the 72 to be deduced by permutation. Tulaja adds that he would leave off all those Melas, they being unknown, Aprasiddha, and would deal only with the few Melas which are well-known specifically through their names which definitely means that, in Tulaja's time, other Melas were not known by their names.  
 अथ मेलोद्भवा रागा निरूप्यन्ते यथाक्रमम् ।**
@@ -2478,10 +2276,6 @@ The Tāla-chapter, pp. 160-171, is a more regular reproduction of the Ratnākara
 
 **तत्तद्देशप्रसिद्धेन रागनाम्ना विशेषतः ।  
 प्रसिद्धाः कतिचिन्मेला उद्दिश्यन्ते मया क्रमात्॥Pp. 70-1.**
-
-
-
-
 
 **Thus according to Tulaja, it is clear, that even in the time of Veṅkatamakhin, all the72 Melas were not known by their names. They were not so known even in Tulaja's days.Further Tulaja does notfeel it necessary to enumerate or describe his Melas in their number-order according to the scheme of Veṅkatamakhin; Tulaja does not start with Mukhārī, but with Sri Rāga, which he considers, following Someśvara's view, as the first of all Ragas, from the point of view again not of schematic classification, but of musical mythology. There are also other differences on the Melas between Veṅkatamakhin and Tulaja. Thus: Bhūpāla, a Mela for the former is a Janya for the latter under Bhinna Sadja. For the former's Gaula, the latter has Mālavagaula. The former's Āhiri, a Mela, becomes a Janyaunder Bhairavi mela for the latter. Samanta, a Mela in the former, is a Janya under Saṅkarā-bharaṇa in the latter. Pantuvarali is a Mela for the former and it is a Janya under Sindhurāmakriya for the latter[^38].  
 For a comparison of the two works, the Caturdaṇdīand the Sārāmṛta, on the Rāgas, see the table given below.  
@@ -2529,8 +2323,6 @@ Kataka' was perhaps a certain set of Sancāras or Prayogas for each Rāga handed
 
 **                           IX**
 
-
-
 **              DETAILED SUMMARY OF CONTENTS.**
 
 |                             |              |
@@ -2575,110 +2367,40 @@ Kataka' was perhaps a certain set of Sancāras or Prayogas for each Rāga handed
 |----------------------------------------------------------------|---------------------------------|
 | **Vrnda                         ** | **          185-189** |
 
-
-
-
-
 **â ñ ḍ ô ṣ ś š í Ś ṁ ṛ î ī ā ṭ ṇ ṅ û śṛ ĀÂ Ṭ Ṇ Ṅ Û Ś Ñ Ḍ Ô Ṣ Ś Š Í Ś Ṁ Ṛ Ī Î**  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **RĀGAS IN THE SĀRĀMRTA.**
 
 [TABLE]
 
-
-
-
 [TABLE]
 
-
-
-
 [TABLE]
-
-
 
 [TABLE]
 
 **Note: (30) In the enumeration of Janyas on p 79. Mangalakaisika is mentionedafter Saurastri, among the Sampürnas; its description is missing in that place.  
 In the enumeration, Bibhāsu the first of the Sadava janyas found in the description, is missing.**  
 
+[TABLE]
 
 [TABLE]
 
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
-
-
-
-
 [TABLE]
-
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-
-
-
-
-
-
-
 
 [TABLE]
 
 **Chapter incomplete; description of Saranga and its Janyas, of Todi and Kalyani Melas with their Janyas not available.**
 
-
-
 **INDEX OF RAGAS**
 
 [TABLE]
 
-
-
-
-
-
 [TABLE]
-
-         
 
 **XII**
 
@@ -2687,12 +2409,9 @@ CITED DY TULAJA**
 
 [TABLE]
 
-
-
 **ERRATA**
 
 [TABLE]
-
 
 **V. RAGHAVAN.**
 
@@ -2729,7 +2448,6 @@ CITED DY TULAJA**
 
 **धुताशेषक्लेशं मनसि कलये नादवपुषम् ॥५॥**  
 
-
 **॥ ग्रन्थकृत्प्रशस्तिः ॥**
 
 **भास्वद्वंशो भोसलाख्यो जगत्या-**
@@ -2740,7 +2458,6 @@ CITED DY TULAJA**
 न श्लाघन्ते नाकलोकाधिकारम् ॥६॥**
 
 **संगीतसारामृते**  
-
 
 **मालोजिक्षितिपालमौलिरभवत्तत्रेभदानोदकैः  
 सिक्ताभिः स्वचमूत्थरेणुभिरभिव्याप्ताभिरभ्रस्थले ।**
@@ -2789,11 +2506,7 @@ CITED DY TULAJA**
 
 **धीरः किरीटीव युधिष्ठिरस्य ।**
 
-
-
 **श्रुतिप्रकरणम्**
-
-
 
 **आसीद्दयालुः शरभर्जितारि  
 स्तस्यानुजन्मा शरभक्षितीशः ॥१४॥**
@@ -2830,7 +2543,6 @@ CITED DY TULAJA**
 
 **तनोति तुलजेन्द्रो ऽसौ लक्ष्यलक्षणकोविदः ॥२०॥**  
 
-
 **॥संगीतस्य मोक्षसाधनत्वम् ॥**
 
 **अथ निखिलमपि विष्टपमाध्यात्मिकादितापत्रयनिविष्टमानिनन्दयिषुः सर्वेषु तन्त्रेषु पशुशिशुभुजगादिसुखकरत्वेन प्रत्यक्षसिद्धं धर्मार्थकाममोक्षाख्यचतुर्विधपुरुषार्थहेतुभूतं शिवप्रसादेन सामवेदादुद्धृत्य पितामहसंगृहीतं संगीततन्त्रं प्राणिमात्रदयापरो भरतमुनिः प्राणैषीत् । ननु तस्य तन्त्रस्य प्रमाणान्तरेणार्थादिसाधनत्वसंभवे ऽपि चतुर्थपुरुषार्थसाधनत्वमसंभवि प्रमाणाभावादिति चेन्न, 'वीणावादनतत्त्वज्ञः' इत्यादियाज्ञवल्क्य**
@@ -2840,7 +2552,6 @@ CITED DY TULAJA**
 **                    संगीतसारामृते**
 
 **वचनस्य प्रमाणत्वात् । न च 'ज्ञानादेव तु कैवल्यम्' इत्यादिश्रुतिविरोधादुदाहृतं वचनं स्पर्शनश्रुतिविरुद्धसर्ववेष्टनस्मृतिवदप्रमाणमिति वाच्यम्, स्वोद्देश्यकगानपरितोषितदेवताप्रसादलब्धज्ञानद्वारा काशीवासस्येवास्यापि मुक्तिहेतुत्वसंभवात् ॥**  
-
 
 **॥ नादः॥**
 
@@ -2878,7 +2589,6 @@ CITED DY TULAJA**
 
 **तदुक्तम्**  
 
-
 **'श्रवणेन्द्रियग्राह्यत्वाद् ध्वनिरेव श्रुतिर्भवेत् ।**
 
 **सा चैका ऽपि द्विधा ज्ञेया स्वरान्तरविभागतः ॥**
@@ -2887,10 +2597,7 @@ CITED DY TULAJA**
 
 **तस्मात्स्वरगता ज्ञेयाः श्रुतयः श्रुतिवेदिभिः ॥"**
 
-
-
 **संङ्गीतसारामृते**  
-
 
 **शुद्धस्वररूपा इत्यर्थः।  
 'अन्तरश्रुतिवर्तिन्यो ह्यन्तरश्रुतयो मताः ।'**
@@ -2909,12 +2616,10 @@ CITED DY TULAJA**
 
 **तथा हि**  
 
-
 **'द्विश्रुतित्रिश्रुतिश्चैव चतुःश्रुतिक एव च ।  
 स्वरप्रयोगः कर्तव्यो वंशच्छिद्रगतो बुधैः ॥'**
 
 **इति । भरतेनाप्युक्तम्**  
-
 
 **'द्विकत्रिकचतुष्कास्तुज्ञेया वंशगताः स्वराः ।**
 
@@ -2945,7 +2650,6 @@ CITED DY TULAJA**
 
 **संगीतसारामृते**  
 
-
 **'वीणाद्वये स्वराः स्थाप्यास्तत्र षड्जश्चतुःश्रुतिः ।**
 
 **स्थाप्यस्तन्त्र्यां तुरीयायामृषभस्त्रिश्रुतिस्ततः ॥**
@@ -2963,10 +2667,7 @@ CITED DY TULAJA**
 
 **इति । ननु चतुःश्रुतिकः षड्जस्त्रिश्रुतिको रिषभ इत्यादि कथमवगन्तव्यम् ? स्वराणामुत्तरोत्तरमुच्चोच्चतरभावमात्रस्य श्रवणेन्द्रियगम्यत्वेऽपि तत्तत्स्वरश्रुतिगतेयत्तायाश्चतुष्ट्वंत्रित्वद्वित्वरूपाया अतिसूक्ष्माया दुरवधारत्वात् ; तस्मात्तत्परिज्ञानाय किंचिदुपायान्तरमभिधातव्यमिति चेत् , किमत्राभिधातव्यम् ? अभिहितमेतच्छार्ङ्गदेवेन 'व्यक्तये कुर्महे'- इत्यादिना । तथा हि- मिथः श्रुतिसाम्यसिद्ध्यर्थं दण्डप्रमाणतो द्वाविंशतितन्त्रीभिश्च समानाकारे द्वे वीणे कार्ये । तयोरेकां ध्रुवां कृत्वा चलामितरां कुर्यात् । तत्र चलत्वं सारणान्वितत्वं ध्रुवत्वं च तद्रहितत्वम् । सारणा च शिथिलीकरणम्। तदपि यादृशं तत्तत्स्वराधारभूतासु तन्त्रीषु तदुपान्त्यतन्त्रीगतध्वन्यन्यूनाधिकध्वन्युत्पादनपर्याप्तं तादृशमेव कर्तव्यम् । तस्मिंश्च कृते ध्रुववीणागतेभ्यः स्वरेभ्यश्चलवीणागताः स्वरा एकश्रुत्यपकृष्टा भवेयुः । तथा च सति चतुःश्रुतिकाः षड्जमध्यमपञ्चमास्त्रिश्रुतिका भवन्ति, त्रिश्रुतिकौ च रिषभधैवतौ द्विश्रतिको भवतः, तथा गांधारनिषादौ द्विश्रुतिकावेकश्रुतिकौ। तदनन्तरं स्वराधारभूततन्त्र्युपान्त्याधस्तनतन्त्रीगतध्वन्यन्यूनाधिकध्वन्युत्पादनपर्याप्तायां द्वितीयसारणायां क्रियमाणायां द्विश्रुतिकस्य गांधारस्य निषादस्य च तदधस्तने रिषभे धैवते च तत्समानाकारत्वप्राप्त्यपरपर्यायो लयो जायते, गांधारनिषादाधारभूततन्त्र्युपान्त्याधस्तनतन्त्र्योरेव रिषभधैवताधारत्वात् । तदानीं षड्जमध्यमपञ्चमा द्विश्रुतिकत्वं प्रतिपद्यन्ते, रिषभधैवतौचैकश्रुतिकत्वम् । तदनन्तरं च स्वराधारभूततन्त्र्युपान्त्याधस्तनाधस्तनतन्त्रीगतध्वन्यन्यूनाधिकध्वन्युत्पादनपर्याप्तायां तृतीयसारणायां क्रियमाणायां रिषभस्य धैवतस्य च त्रिश्रुतिकस्य षड्जपञ्चमयोर्लयो भवति, रिषभधैवताधारभूततन्त्र्युपान्त्याधस्तनाधस्तनतन्त्र्योरेव षड्जपञ्चमाधार-**
 
-
-
 **श्रुतिप्रकरणम्**  
-
 
 **त्वात् । तदानीं षड्जमध्यमपञ्चमाश्चैकश्रुतिकत्वं प्राप्नुवन्ति । तदनन्तरं स्वराधारभूततन्त्र्युपान्त्याधस्तनाधस्तनाधस्तनतन्त्रीगतध्वन्यन्यूनाधिकध्वन्युत्पादनपर्याप्तायां चतुर्थसारणायां क्रियमाणायां षड्जमध्यमपञ्चमानां निषादगांधारमध्यमेषु लयो भवति, षड्जमध्यमपञ्चमाधारभूततन्त्र्युपान्त्याधस्तनाधस्तनतन्त्रीणामेव निषादगांधारमध्यमाधारत्वात् । अत्र पर्यायत्रयेऽप्यपकृष्टानां स्वराणां स्वरान्तरत्वं नाशङ्कनीयम् , तेषामेव नीचत्वनीचतरत्वनीचतमत्वप्रतीतेः स्वरान्तरत्वाभ्युपगमे विशेषलाभाभावाच्च । एवं च चलवीणागतयोर्गांधारनिषादयोर्द्वितीयसारणायां रिषभधैवतलीनत्वेन पृथग्ग्रहणाभावेन ध्रुववीणागतयोस्तयोर्द्विश्रुतिकत्वं निश्चीयते, तृतीयसारणायां रिषभधैवतयोः षड्जपञ्चमलीनत्वेन पृथग्ग्रहणाभावाद् ध्रुववीणागतयोस्त्रिश्रुतिकत्वमवधार्यते, तथा चतुर्थसारणायां षड्जमध्यमपञ्चमानां निषादगांधारमध्यमलीनत्वेन पृथग्ग्रहणाभावाद् ध्रुववीणागतानां तेषां चतुःश्रुतिकत्वं निर्धार्यते । तस्मादुक्तोपायेन तत्तत्स्वरश्रुतिगतेयत्तायाश्चतुष्ट्वादिरूपायाः परिज्ञानं सुकरमिति सूक्ष्मया दृशा ऽवधातव्यम् । इदं तु चिन्त्यते-मन्द्रस्थाने मध्यमस्य पञ्चमस्य च गांधारमध्यमयोर्लयप्रतिपादनं युक्तम् , अधस्तनयोस्तयोः सद्भावात् । षड्जस्य तु निषादे लयप्रतिपादनमयुक्तम् , तदधस्तनस्य तस्याभावादिति । अत्र प्रतिभाति-मन्द्रस्थाने त्वदुक्तरीत्या षड्जलयस्य तदधस्तननिषादाभावेनासंभवे ऽपि मध्यस्थाने संभवोऽस्ति, मन्द्रस्थानस्थितस्य निषादस्य सत्त्वादिति सर्वमवदातम् ॥**
 
@@ -2976,17 +2677,14 @@ CITED DY TULAJA**
 
 **अथ शुद्धस्वरप्रकरणम् (२)**  
 
-
 **क्रमात्स्वराणां सप्तानां चतस्रस्तिस्र एव च ।**
 
 **द्वे चतस्रश्चतस्रश्च तिस्रो द्वे श्रुतयो मताः ॥**  
-
 
 **आभ्यो द्वाविंशतेःश्रुतिभ्यः सप्त स्वरा निष्पद्यन्ते । ते च षड्जरिषभगांधारमध्यमपञ्चमधैवतनिषादाख्या भवन्ति । तेषामाद्याक्षरैः सरिगमपधनीत्यपराः संज्ञाः । अत्र स्वरश्रुत्योर्जातिव्यक्त्योरिव तादात्म्यमिति कैश्चिदुक्तमयुक्तम् , भिन्नबुद्धिग्राह्यत्वात् , जातिव्यक्त्योः समानसंवित्संवेद्यत्वस्य सकलतन्त्रसिद्धत्वेन दृष्टान्तवैषम्यात् । दर्पणे मुखविवर्तवच्छ्रुतिषु स्वरविवर्त इत्यन्येषामुक्तिरयुक्ता, विवर्तत्वे स्वराणां भ्रान्तत्वप्रसङ्गात् । न च तदिष्टमिति शक्यं वक्तुम् , तेषामबाधितप्रयोगहेतुत्वदर्शनात् । किं तु क्षीरं दधिरूपेणेव श्रुतयः स्वररूपेणैव परिणमन्तीति वा प्रदीपादन्धकारस्थितघटाद्यभिव्यक्तिवच्छ्रुतिभ्यः स्वराणामभिव्यक्तिरिति वा मतङ्गादिसंमतं मतद्वयमेव ग्राह्यम् । षड्जादिनाम्नामन्वर्थता च मतङ्गादिभिरुक्ता । तद्यथा  
 'षण्णां स्वराणां जनकः षड्भिर्वा जन्यते स्वरैः।**
 
 **षड्भ्यो वा जायते ऽङ्गेभ्यः षड्ज इत्यभिधीयते ॥'**  
-
 
 **षडपि स्वराञ्जनयति प्रकाशयतीति जनेरन्तर्भावितण्यर्थात् 'अन्येष्वपि दृश्यते' (३-२-१०१) इति डप्रत्यये टिलोपे च सति षड्ज इति रूपम् । षड्भिः स्वरैरङ्गभावेन प्रविष्टैर्जन्यते प्रकाश्यत इति वा षड्जः । पूर्ववद्रूपसिद्धिः। षड्भ्यो नासाकण्ठोरस्तालुजिह्वादन्तस्थानेभ्यो जायत इति वा 'पञ्चम्यामजातौ' (३-१-९८) इति डप्रत्यये षड्ज इति ॥  
 **
@@ -2998,31 +2696,23 @@ CITED DY TULAJA**
 
 **स्वरग्रामे समुत्पन्नः स्वरोऽयमृषभस्तथा ।'्**
 
-
-
 **शुद्धस्वरप्रकरणम्**  
 
-
 **ऋषति गच्छति हृदयमन्यस्वरेभ्य इति 'ऋषी गतौ' इत्यस्माद्धातोरौणादिके ऽभच्प्रत्यये ऋषभ इति रूपम् । यथा गोसमूहे बलीवर्दस्तथा स्वरसमूहे राशौद्वितीयो बलवान् , ऋषभवन्नदतीति वा ऋषभः ॥**  
-
 
 **'वाचं गानात्मिकां धत्त इति गांधारसंज्ञकः ।'**
 
 **गां गानात्मिकां वाचं धत्त इति 'धृञधारणे' इत्यस्माद्धातोर्गोशब्दे कर्मण्युपपदे ऽण्प्रत्यये पृषोदरादित्वाद्बहुलग्रहणाद्वा लुकि गांधार इति रूपम् । गान्धर्वसुखहेतुत्वाद्वा गांधारः ॥**  
 
-
 **'स्वराणां मध्यमत्वाच्च मध्यमः स्वर इष्यते ।**
 
 **यद्वा मम धियो रोग इति मद्ध्यमशब्दनम् ॥'**  
 
-
 **सप्तानां स्वराणां चतुर्थस्वरस्य मध्यस्थत्वात् 'मध्यान्मः' (४-३-८) इति भवार्थे मप्रत्यये मध्यम इति रूपम् । अथ वा मद्धियो ऽमो रोग इति मद्ध्यमः । श्रूयमाणः स्वविरत्याशङ्क्या पीडयतीत्यर्थः ।**  
-
 
 **'स्वरान्तराणां विस्तारं यो मिमीते स पञ्चमः ।**
 
 **पाठक्रमेण गणने संख्यया पञ्चमोऽथ वा॥'**  
-
 
 **'पचि विस्तारे' इत्यस्माद्धातोर्भावे घञिपञ्चंविस्तारं मिमीत इति 'आतो ऽनुपसर्गे कः' (३-२-३) इति कप्रत्यये पञ्चम इति रूपम् । 'ह्वावामश्च' (३-१-१) इत्यण्युक्च संज्ञात्वादुपेक्ष्यते । यद्वा पृषोदरादित्वाद्युगभाव आल्लोपश्च । स्वराणां क्रमेण गणने पञ्चमत्वाद्वा पञ्चमस्थानसंभूतत्वाद्वा पञ्चमः॥  
 'धीर्यस्यास्ति स धीवांस्तत्संबन्धी धैवतः स्मृतः।'**
@@ -3030,13 +2720,11 @@ CITED DY TULAJA**
 **यद्वा,  
 'षष्ठस्थाने धृतो यस्मात्ततो ऽसौ धैवतो मतः ।'**  
 
-
 **धीरस्यास्तीति धीवान् , तत्संबन्धित्वेन 'तस्येदम्' (४-३-१२) इत्यणि धैवत इति रूपम् । संबन्धित्वं चानेकप्रकारं निरूप्यनिरूपकलक्षणमास्वाद्यास्वादकलक्षणं जन्यजनकलक्षणं चेति । तत्रोत्तरस्वरेण संसृष्टश्रुतित्वात्स्थूलमतीनां दुर्विवेकत्वाद्धीमतः सूक्ष्ममतेरेव निरूप्यत्वाद्धैवत इति ।**
 
 **संगीतसारामृते**
 
 **'संज्ञायाम्' (८-२-११) इति मतो वत्वम् । षष्ठस्थाने ललाटस्थाने धृतत्वाद्वा धैवतः॥**  
-
 
 **'निषीदन्ति स्वराः सर्वे निषादस्तेन कथ्यते ।'**
 
@@ -3051,50 +2739,33 @@ CITED DY TULAJA**
 तीव्रारौद्री वज्रिकोग्रेति ; आयता पञ्चविधा कुमुद्वती क्रोधा प्रसारिणी संदीपनी रोहिणीति; करुणा त्रिविधा दयावत्यालापिनी मदन्तिकेति; मृदुरपि चतुर्विधा मन्दा रतिका प्रीतिः क्षितिरिति ; मध्या षड्विधा च्छन्दोवती रञ्जनी मार्जनी रक्तिका रम्या क्षोभिणीति । तीव्राकुमुद्वतीमन्दाच्छन्दोवत्याख्या दीप्ताऽऽयतामृदुमध्याजातीनां प्रथमभेदाश्चत्वारः षड्जगताः । दयावतीरञ्जनीरतिकाऽऽख्याः करुणाजातेः प्रथमो मध्यामृदुजात्योर्द्वितीयौ  
 चेति त्रयो भेदारिषभगताः । रौद्रीक्रोधाख्यौ दीप्ताऽऽयताजात्योर्द्वितीयौ भेदौ गांधारगतौ । वज्रिकाप्रसारिणीप्रीतिमार्जन्याख्या दीप्ताऽऽयतामृदुमध्यानां तृतीया भेदाश्चत्वारो ऽपि मध्यगताः । क्षितिरक्तासंदीपन्यालापिन्याख्या मृदुमध्यायताजातीनां चतुर्थास्त्रयो भेदाः करुणाजातेर्द्वितीयो भेदश्चेति चत्वारः पञ्चमगताः । मदन्तीरोहिणीरम्याऽऽख्याः करुणायास्तृतीयो भेद आयतामध्याजात्योः पञ्चमौभेदौ चेति त्रयो ऽपि धैवतगताः । उग्राक्षोभिण्याख्यौ दीप्तामध्याजात्योश्चतुर्थषष्ठौभेदौनिषादगतौ । अतः षड्जादीनामुक्तजातिपञ्चकावान्तरभेदवत्त्वेन चतुःश्रुतिकत्वादिकमिति सिद्धम्। चतुःश्रुतिः षड्जः शुद्धः, त्रिश्रुती रिषभः शुद्धः, द्विश्रुतिर्गांधारः शुद्धः, चतुःश्रुतिर्मध्यमः शुद्धः, चतुःश्रुतिः पञ्चमः शुद्धः, त्रिश्रुतिर्धैवतः शुद्धः, द्विश्रुतिर्निषादः शुद्धः । एवंलक्षणाः सप्त स्वराः शुद्धस्वराः ॥**
 
-
-
 **इति श्रीराजाधिराजभोसलकुलतिलकतुलजामहाराजविरचिते संगीतसारामृते शुद्धस्वरप्रकरणं  
 द्वितीयम्**
 
-
-
 **अथ विकृतस्वरप्रकरणम्(३)**
-
-
 
 **अमी शुद्धस्वराः सप्तापि मन्द्रमध्यतारस्थानभेदात्प्रत्येकं त्रिविधाः, मन्द्रषड्जो मध्यषड्जस्तारषड्ज इत्यादिव्यवहारात् । एत एव स्वराः सप्तापि षड्जमध्यमग्रामापेक्षया विकृतावस्थाऽऽपन्ना द्वादश भवन्ति । तथा हि-च्युतो ऽच्युतश्चेति षड्जो द्विविधः । निषादर्षभाभ्यां स्वाद्यन्तश्रुत्याक्रमणेन द्विश्रुतिः सन्षड़जश्च्युतसंज्ञां लभते । निषादे षड्जस्य प्रथमद्वितीयश्रुत्याक्रमणेन काकलीत्वं प्राप्ते सति द्विश्रुतिः सन्नच्युतसंज्ञां भजते । त्रिश्रुती रिषभः षाड्जींश्रुतिं प्राप्य चतुःश्रुतिः सन्नेको विकृतो भवति । गांधारो मध्यमसाधारणे मध्यमस्याद्यां श्रुतिं प्राप्य त्रिश्रुतिः सन्साधारणत्वं च प्राप्यैको विकृतः, मध्यमस्याद्यद्वितीये द्वे श्रुती प्राप्य चतुःश्रुतिः सन्नन्तरत्वं च प्राप्यैको विकृत इति द्विधा । मध्यमः षड्जवच्च्युताच्युतत्वभेदेन द्विश्रुतिः सन्द्विविधः । पञ्चमो मध्यमग्रामे स्वोपान्त्यश्रुतिस्थस्त्रिश्रुतिः सन्नेको विकृतः, स्वोपान्त्यश्रुतिस्थ एव मध्यमान्तिमश्रुतिं प्राप्य चतुःश्रुतिः सन्नपरो विकृत इति सोऽपि द्विविधः । धैवतो मध्यमग्रामे पञ्चमाधारश्रुतिं प्राप्य चतुःश्रुतिः सन्नेको विकृतः । निषादः षड्जस्याद्यां श्रुतिं प्राप्य त्रिश्रुतिः सन्कैशिकत्वं च प्राप्यैको विकृतः, आद्यद्वितीये द्वे श्रुती प्राप्य चतुःश्रुतिः सन्काकलीत्वं च प्राप्यापरो विकृत इति द्वेधा । एते द्वादश विकृतस्वराः शुद्धैः सप्तभिः स्वरैः सह भवन्त्येकोनविंशतिः ॥**
 
-
 **ननूक्तमेकोनविंशतित्वमयुक्तम्, अच्युतषड्जचतुःश्रुतिकर्षभाच्युतमध्यमानां शुद्धषड्जशुद्धर्षभशुद्धमध्यमेभ्यः पृथग्ध्वनिभेदेनोपलम्भाभावात्: तथा मध्यमग्रामविभाजकत्रिश्रुतिपञ्चमस्य स्वचतुर्थश्रुतिस्थशुद्धपञ्चमाद्भेदेनोपलम्भे ऽपि मध्यमस्य श्रुतिं प्राप्य चतुःश्रुतिकात्स्वस्य भेदेनोपलम्भाभावात् । तथा मध्यमग्रामे पञ्चमस्य श्रुतिं प्राप्य चतुःश्रुतिकस्य धैवतस्य त्रिश्रुतिकाच्छुद्धधैवताद्भेदेनोपलम्भाभावात् । अतो ऽच्युतषड्जचतुःश्रुतिकर्षभाच्युतमध्यमचतुःश्रुतिपञ्चमचतुःश्रुतिधैवताः पञ्चापि विकृताः शुद्धेभ्यः षड्जर्षभमध्यमपञ्चमधैवतेभ्यो नातिरिच्यन्त इति सप्तैव विकृताः, ते च शुद्धैःसह चतुर्दश भवन्तीति वक्तुं युक्तमिति चेत् , सत्यम् ; उक्तानां पञ्चानां**
-
-
 
 **विकृतस्वरप्रकरणम्**  
 
-
-
 **विकृतानां शुद्धेभ्यः स्वरूपतो भेदाभावे ऽपि लक्षणतः श्रुतिन्यूनाधिकत्वप्रयुक्तभेदस्य सत्त्वेन द्वादशानां विकृतानां शुद्धैः सप्तभिः सहै कोनविंशतित्वोपपत्तेः । मयूरादिप्राणिविशेषध्वनिनिदर्शनेनाऽपि षड्जादिस्वरूपपरिज्ञानसिद्धिः । तदुक्तं शार्ङ्गदेवेन**  
-
 
 **'मयूरवृषभच्छागक्रौञ्चकोकिलदर्दुराः ।  
 गजश्च सप्त षड्जादीन्क्रमादुच्चारयन्त्यमी ॥'**
 
 **इति । इयता प्रबन्धेन स्वराणामन्योन्यं स्वरूपकृतो भेदो ऽभिहितः । प्रसङ्गात् प्रयोगार्थं तेषां प्रकारभेदेन चातुर्विध्यं निरूप्यते । तथा हि वादिसंवादिविवाद्यनुवादिभेदेन चतुर्विधाः स्वराः । वदनाद्वादी । वदनं नाम रागप्रतिपादकत्वम् । संवदनात्संवादी । संवदनं नाम वादिस्वरजनितरागगतरञ्जकत्वनिर्वाहकत्वम् । विवदनाद्विवादी । विवदनं नाम वाद्यादिस्वरोत्पादितरक्तिविनाशकत्वम् । अनुवदनादनुवादी । अनुवदनं नाम वादिसंवादिसंपादितरक्त्यनुकूलत्वम् । गानप्रयोगे ग्रहन्यासादिभेदेन पुनः पुनरावर्त्यमानत्वं वादिलक्षणम् । द्वादशाष्टान्यतरश्रुत्यन्तरितत्वं संवादिलक्षणम् । एकश्रुत्यन्तरितस्वरत्वं विवादिलक्षणम् । वादिसंवादिविवादिलक्षणरहितत्वमनुवादिलक्षणम् ॥**  
 
-
 ** अत्र संवादिलक्षणपरिज्ञानार्थमादौ मण्डलप्रस्तारो वा वीणाप्रस्तारो वा लेखनीयः । तत्र मण्डलप्रस्तारो यथा- षडूर्ध्वरेखा लिखित्वा तदूर्ध्वाधः किंचिदग्राण्यवशेष्य मध्ये पञ्चतिर्यग्रेखाः किंचिदग्रावशेषं लिखेत् । तदा परितो रेखाऽग्राणि द्वाविंशतिर्भवन्ति । वीणाप्रस्तारो यथा तिर्यग्रेखा एव द्वाविंशतिं लिखेत् । तत्र वामतो दक्षिणतो वा रेखाऽग्राणि द्वाविंशतिर्भवन्ति । तत्रैकस्मिञ्श्रुतिमण्डले रेखाऽग्रेषु शुद्धान्विकृतान्वा षड्जादीन्स्वस्वश्रुतिसंख्यया लिखेत् । तेषु ययोः स्वरयोरन्तरगोचराः स्वाधारश्रुतीर्विहाय मध्यवर्तिन्यः श्रुतयो द्वादशाष्टौ वा दृश्यन्ते तौमिथः संवादिनौ भवत इति ज्ञातव्यम् । तत्र षड्जग्रामे शुद्धौ षड्जपञ्चमौशुद्धावृषभधैवतौ शुद्धौ गांधारनिषादौ शुद्धौ षड्जमध्यमावपि संवादिनौभवतः । मध्यमग्रामे तु पञ्चमर्षभौ संवादिनौ भवतः । तदुक्तं भारतीये**  
-
 
 **'संवादो मध्यमग्रामे पञ्चमस्यर्षभस्य च ।**
 
 **षड्जग्रामे तु षड्जस्य संवादः पञ्चमस्य च॥**
 
-
-
 **संगीतसारामृते**
 
 **इति । विवादिनौ यथा-शुद्धर्षभगांधारौ शुद्धधैवतनिषादौ च परस्परविवादिनौ भवतः । अत्रोक्तचतुर्विधेषु प्रधानत्वाद्वादी राजा ; तत्कार्यनिर्वाहकत्वात्संवादी सचिवः । तद्विरोधित्वाद्विवादी शत्रुः ; नृपामात्यानुकूलत्वादनुवादी भृत्यः ॥**  
-
 
 **   षड्जादिस्वराणां कुलादिज्ञानपूर्वकप्रयोगे भवत्यदृष्टातिशय इति तदपि ज्ञेयम् । तदुक्तं रत्नाकरे  
 '**
@@ -3138,11 +2809,7 @@ CITED DY TULAJA**
 संगीतसारामृते विकृतस्वरप्रकरणं  
 तृतीयम्**
 
-
-
 **अथ ग्राममूर्च्छनाक्रमशुद्धतानकूटतानप्रकरणम् (४)**
-
-
 
 **इत्थं स्वरेषु निरूपितेषु व्यस्तानां तेषां दृष्टादृष्टफलयोगित्वाभावात्तत्सिद्धये नियतसमस्तस्वरसंनिवेशरूपा मूर्च्छनाऽऽदयो निरूप्यन्ते । तदाश्रयत्वाव्द्यवस्थापकत्वाच्चादौ ग्रामोनिरूप्यते । तत्र मूर्च्छनाऽऽदिसमाश्रयत्वे सति स्वरसमूहत्वं ग्रामसामान्यलक्षणम् । लौकिकवैदिकवाक्येष्वपि स्वरसमूहत्वसंभवात्तत्रातिव्याप्तिनिरासार्थं सत्यन्तम् । स त्रिविधः षड्जग्रामो मध्यमग्रामो गांधारग्रामश्चेति । तत्र षड्जग्राममध्यमग्रामौ द्वौ धरातले वर्तेते ; गांधारग्रामस्तु स्वर्गलोक एव । ननु समूहित्वाविशेषेण सप्तानामपि स्वराणां ग्रामव्यपदेशकत्वसंभवे कथं भूलोके द्वावित्यवधारणमिति चेत् । उच्यते-शुद्धविकृतरूपद्विविधस्वरप्रयोगवशात् ,  
 \_**
@@ -3151,13 +2818,10 @@ CITED DY TULAJA**
 
 **इति मुनिवचनाच्चावधारणमुपपद्यते । तत्र शुद्धस्वराश्रयत्वादाद्यः षड्जग्रामः, विकृतस्वराश्रयत्वाद् द्वितीयो मध्यमग्रामः । स्वचतुर्थश्रुतिसंस्थितपञ्चमकत्वं षड्जग्रामलक्षणम् , स्वोपान्त्यश्रुतिसंस्थितपञ्चमकत्वं मध्यमग्रामलक्षणम् । तत्राद्यलक्षणे स्वपदानुपादाने मध्यमग्रामे ऽतिव्याप्तिः, मध्यमसाधारणावस्थायां मध्यमान्तिमश्रुतिमादाय तृतीयश्रुतिस्थस्यैव चतुर्थश्रुतिसंस्थत्वात् ; स्वपदोपादाने तु स्वकीयचतुर्थश्रुतिसंस्थत्वाभावान्नातिव्याप्तिः । एवं द्वितीयलक्षणे स्वपदानुपादाने तस्यामवस्थायां द्वितीयश्रुतेरेवोपान्त्यत्वेनोपान्त्यश्रुतिसंस्थितपञ्चमकत्वं नास्तीति लक्षणस्यासंभवः स्यात् । तदुपादाने तृतीयश्रुतेरेव स्वोपान्त्यत्वेन तत्संस्थितपञ्चमकत्वं वर्तत इति नासंभवः । अत्र त्रिश्रुतिधैवतकत्वं चतुःश्रुतिधैवकत्वं च षड्जग्राममध्यमग्रामयोः साक्षान्न लक्षणम् ; किं तु पञ्चमस्य चतुःश्रुतिकत्वं त्रिश्रुतिकत्वं चावगमयद् ग्रामयोर्द्वयोरुपलक्षणं भवति । ननु द्विविधस्वरप्रयोगवशादिह द्वावेव ग्रामौ स्याताम् , स्वरान्तरेषु सत्सु किं तयो षड्जमध्यमविशेषणेनेति चेन्न ; आद्यत्वात् संवादिस्वरबाहुल्याच्च प्रथमग्रामे प्रधानः षड्ज इति षड्जग्रामव्यपदेशः ; द्वितीयग्रामे मध्यमः प्रधानो**
 
-
 **संगीतसारामृते**  
-
 
 **ऽविलोपित्वात् , अतस्तत्र मध्यमग्राम इति व्यपदेशः । अविलोपित्वं मध्यमस्याधस्तनानां सरिगाणामुपरितनानां च पधनीनां यथासंख्यं द्वयोर्द्वयोरेकत्र तन्त्र्यां संवाद इति मतानुसारेणैकाकिनो मध्यमस्यान्येन संवादाभावात् परिशेषादवधिभूतस्य लोपो नेष्यत इति केचित्; अन्ये तु शुद्धतानलक्षणावसरे षड्जर्षभनिषादपञ्चमहीनाश्चत्वारस्ताना इत्यादिना भरतादिभिर्मध्यमव्यतिरिक्तानामेव षाडवौडुवकारित्वेन लोपविधानान्मध्यमस्याविनाशित्वमित्याहुः । इति ग्रामलक्षणम् ॥  
   अथ ग्रामलक्षणे तदाधेयत्वेन प्रथमोपात्ता मूर्च्छना निरूप्यन्ते । तल्लक्षणमुक्तं संगीतरत्नाकरे**  
-
 
 **'क्रमात्स्वराणां सप्तानामारोहश्चावरोहणम् ।  
 मूर्छनेत्युच्यते ग्रामद्वये ताः सप्त सप्त च ॥'**
@@ -3176,15 +2840,10 @@ CITED DY TULAJA**
 
 **इति । मध्यस्थानस्थषड्जमारभ्य सप्तस्वरारोहणावरोहणरूपा मूर्च्छनोत्तरमन्द्रा, यथा सरिगमपधनि निधपमगरिस । मन्द्रस्थानस्थनिषादमारभ्य सप्तस्वरारोहणावरोहणरूपा मूर्च्छना रजनी, यथा निसरिगमपध धपमगरिसनि । निषादाधोऽधस्तनान् धपमगरीनारभ्य सप्तस्वरारोहणावरोहणरूपा मूर्च्छनाः क्रमेणोत्तरायताशुद्धषड्जामत्सरीकृदश्वक्रान्ताऽभिरुद्गताऽऽख्यास्तथैवोहनीयाः । यथा धनिसरिगमप पमगरिसनिध, उत्तरायता; पधनिसरिगम**
 
-
-
 **ग्राममूर्च्छनाक्रमशुद्धतानकूटतानप्रकरणम्**
-
-
 
 **मगरिसनिधप, शुद्धषड्जा ; मपधनिसरिग गरिसनिधपम, मत्सरीकृत् । गमपधनिसरि रिसनिधपमग, अश्वक्रान्ता; रिगमपधनिस सनिधपमगरि, अभिरुद्गता। एवं मध्यमग्रामे मध्यस्थानस्थमध्यममारभ्य सप्तस्वरारोहणावरोहणरूपा मूर्च्छना सौवीरी, यथा मपधनिसरिग गरिसनिधपम । मध्यस्थानस्थमध्यमाधोऽधस्तनान्गरिसनिधपानारभ्य सप्तस्वरारोहणावरोहणरूपा मूर्च्छनाः क्रमेण हारिणाश्वाकलोपनताशुद्धमध्यामार्गीपौरवीहृष्यकाऽऽख्याः षट् तथैवोहनीयाः ॥  
  एवं ग्रामद्वयगता मूर्च्छनाश्चतुर्दशापि प्रत्येकं चतुर्विधाः, यथा शुद्धाः काकलीसहिता अन्तरसहिताः काकल्यन्तरद्वयोपेताश्चेति । अत्र षड्जग्रामे सप्तानामपि स्वराणां विकारराहित्यं शुद्धत्वम्। मध्यमग्रामे तु पञ्चमधैवतव्यतिरिक्तानां विकारराहित्यं शुद्धत्वम् । पञ्चमस्य स्वोपान्त्यश्रुतिसंस्थस्यैव तद्ग्रामस्वरूपभेदनिर्वर्तकत्वात्, पञ्चमाधारश्रुतिं प्राप्य धैवतस्य चतुःश्रुतिकस्यैव तदुपलक्षकत्वात्तयोरपि तादवस्थ्यमेव शुद्धत्वम् । षड्जस्य श्रुतिद्वयं प्राप्य चतुःश्रुतिको निषादः काकल्याख्यः । मध्यमस्य श्रुतिद्वयं प्राप्य चतुःश्रुतिकः सन्गांधारो ऽन्तरसंज्ञः । अतो ग्रामद्वयगताश्चतुर्दश मूर्च्छनाः शुद्धादिभेदेन चातुर्विध्येप्रतिपन्नाः सत्यः षट्पञ्चाशन्मूर्च्छना भवन्ति । तदुक्तं संगीतरत्नाकरे**  
-
 
 **'चतुर्धा ताः पृथक्शुद्धाः काकलीकलितास्तथा ।**
 
@@ -3223,10 +2882,7 @@ CITED DY TULAJA**
 
 **रजनीति समाख्याता ऋषीणां सप्त मूर्च्छनाः ॥**
 
-
-
 **ग्राममूर्च्छनाक्रमशुद्धतानकूटतानप्रकरणम्**  
-
 
 **आप्यायनी विश्वभृता चन्द्रा हेमा कपर्दिनी ।**
 
@@ -3239,12 +2895,9 @@ CITED DY TULAJA**
 
 **इति ॥**  
 
-
 **अथ ताना निरूप्यन्ते । ते च द्विविधाः शुद्धतानाः कूटतानाश्चेति । शुद्धा मूर्च्छनाः षाडवौडुवितीकृताः सत्यः शुद्धताना इत्युच्यन्ते । षड्जरिषभपञ्चमनिषादैर्हीनाः षड्जग्रामे ऽष्टाविंशतिः षाडवतानाः षड्जहीनाः सप्त रिषभहीनाः सप्त पञ्चमहीनाः सप्त निषादहीनाः सप्तेति । षड्जहीना यथा-रिगमपधनि, निरिगमपध, धनिरिगमप, पधनिरिगम, मपधनिरिग, गमपधनिरि, रिगमपधनीति । एवमुत्तरमन्द्रारजन्यादयः सप्त मूर्च्छनाः । रिषभहीना यथा- सगमपधनि, निसगमपधेत्यादि । पञ्चमहीना यथा सरिगमधनीत्याद्या ऊहनीयाः । अत्र येषु भेदेष्वैकरूप्यं प्रतीयते तत्र स्थानभेदाद्भेदो द्रष्टव्यः । मध्यमग्रामे तु षड्जर्षभगांधारहीन एकविंशतिस्तानाः, षड्जहीनाः सप्त रिषभहीनाः सप्त गांधारहीनाः सप्त चेति । उभये षाडवा युता एकोनपञ्चाशत् । उभये षाड्जग्रामिका माध्यमग्रामिकाश्च मिलिताः सन्त एकोनपञ्चाशदित्यर्थः । षड्जग्रामे सपाभ्यां गनिभ्यां रिधाभ्यां च हीना एकविंशतिरौडुवतानाः, सपाभ्यां हीनाः सप्त द्विश्रुतिभ्यां हीनाः सप्तेति । सपाभ्यां हीना यथा-उत्तरमन्द्रायां रिगमधनि, रजन्यां निरिगमध, उत्तरायतायां धनिरिगम, शुद्धषड्जायामपि धनिरिगम, मत्सरीकृति मधनिरिग, अश्वक्रान्तायां गमधनिरि, अभिरुद्गतायां रिगमधनीति सप्त शुद्धतानाः । द्विश्रुतिभ्यां हीना यथा-आद्यायां सरिमपध, द्वितीयायामपि सरिमपध ; एवमन्ये ऽप्यूह्याः । मध्यमग्रामे रिधवर्जाः सप्त ताना निगवर्जाः सप्तेति चतुर्दश । रिधवर्जा यथा-सौवीर्यांमपनिसग, हारिणाश्वायां गमपनिस, कलोपनतायामपि गमपनिस ; एवमन्येऽप्यूह्याः । षाड्जग्रामिका माध्यमग्रामिकाश्च मिलित्वापञ्चत्रिंशदौडुवतानाः । ग्रामयोर्द्वयोश्च षाडवा औडुवाश्च मिलित्वा चतुरशीतिः शुद्धतानाः । तदुक्तं रत्नाकरे**
 
-
 **संगीतसारामृते**  
-
 
 **'तानाः स्युर्मूर्च्छनाःशुद्धाः षाडवौडुवितीकृताः ।**
 
@@ -3268,7 +2921,6 @@ CITED DY TULAJA**
 **' इति ॥  
 अथ कूटताना निरूप्यन्ते। संपूर्णाअसंपूर्णा वा शुद्धादिभेदेन चतुर्विधा अपि मूर्च्छना व्युत्क्रमेणोच्चारितस्वराश्चेत् कूटताना इत्युच्यन्ते । संपूर्णा नाम सप्तस्वरयुक्ताः । असंपूर्णास्त्वेकैकान्त्यान्त्यस्वरत्यागे सति षट्स्वरपञ्चस्वरचतुःस्वरत्रिस्वरैकस्वराः । व्युत्क्रमोच्चारितस्वरा इत्यत्र स्वराणामानुपूर्व्याऽऽरोह एव क्रमः ; तेष्वेकादिस्वरव्यत्यासो व्युत्क्रमः ; अवरोहे सत्यामपि विपरीतानुपूर्व्याक्रमत्वाभावेन । कूटत्वं नाम व्युत्क्रमोच्चारितस्वरत्वम् । अत्र षट्पञ्चाशन्मूर्च्छनास्वकैकस्याः संपूर्णादिसप्तभेदेषु प्रतिभेदं वक्ष्यमाणप्रस्तारवशादियत्तया कूटतानसंख्या ग्रन्थकारेण प्रदर्शिता।  
 तद्यथा**  
-
 
 **'असंपूर्णांश्च संपूर्णा व्युत्क्रमोच्चारितस्वराः ।**
 
@@ -3304,7 +2956,6 @@ CITED DY TULAJA**
 एकस्वरादितानानां चतुर्णामभिधा इमाः ॥' .**
 
 **इति । असंपूर्णकूटतानानां षाडवादीनां षण्णां सहेतुका मूलक्रमाः प्रस्तारवशप्राप्ताः संख्याभेदाश्च रत्नाकरे स्फुटतरं शार्ङ्गदेवेन निरूपिताः। तद्यथा**  
-
 
 **'उक्तशुद्धादिभेदेन निगयुक्ताश्चतुर्विधाः।**
 
@@ -3349,7 +3000,6 @@ CITED DY TULAJA**
 **षड्जादेः शुद्धमध्याया भेदकं पञ्चमं विना ।**
 
 **चतुःस्वरे क्रमाद् द्वंद्वे ऽष्टाचत्वारिंशदीरिताः ॥**  
-
 
 **संगीतसारामृते  
 तानास्त्रिस्वरयोस्त्वेते द्वादश द्विस्वरे द्वयम् ।**
@@ -3405,12 +3055,9 @@ CITED DY TULAJA**
 इति श्रीराजाधिराजभोसलकुलतिलकतुलजामहाराजविरचिते संगीतसारामृते ग्राममूर्च्छनाक्रमशुद्धतानकूटतानप्रकरणं  
 चतुर्थम्**
 
-
-
 **अथ साधारणप्रकरणम् (५)**
 
 **   अथ** **विकृतस्वरप्रयोगप्रयुक्तगीतवैचित्र्यगानसाम्यावधारणाय साधारणं विविच्य निरूप्यते । तच्च द्विविधं स्वरसाधारणं जातिसाधारणं चेति । तत्र स्वरसाधारणं चतुर्विधं काकलिसाधारणमन्तरसाधारणं षड्जसाधारणं मध्यमसाधारणं चेति । तत्राद्यं यथा-द्विश्रुतिको निषादश्चतुःश्रुतिकषड्जस्य श्रुतिद्वयं प्राप्य चतुःश्रुतिकः सन् काकलीत्युच्यते ; स एव शुद्धषड्जनिषादोभयसंबन्धित्वात्तदुभयसाधारणो भवति । तथा च काकलिनो यत् साधारण्यं तदत्र साधारणपदेनाभिधीयते, मधुरपदेन माधुर्यमिव । धर्मपरत्वेन च साधारणमिति नपुंसकनिर्देशः । काकलिनः साधारणं काकलिसाधारणम् । द्वितीयं यथा-द्विश्रुतिको गांधारश्चतुःश्रुतिकमध्यमस्य श्रुतिद्वयं प्राप्यान्तरपदेनोच्यते ; अयमपि शुद्धमध्यमगांधारोभयश्रुतिसंबन्धित्वेन तदुभयसाधारणो भवति । तथा च तस्य यत्साधारण्यं तत्साधारणमिति भण्यते । ततश्चान्तरस्य साधारणमन्तरसाधारणमिति पूर्ववदिहापि तत्पुरुषसमासो द्रष्टव्यः । काकल्यन्तरयोरनयोः प्रयोगः षड्जसाधारणमध्यमसाधारणजातिसाधारणनिर्वचनं च रत्नाकरे विस्पष्टं प्रतिपादितम् । तद्यथा**  
-
 
 **'प्रयोज्यौ षड्जमुच्चार्य काकलीधैवतौ क्रमात् ।**
 
@@ -3432,8 +3079,6 @@ CITED DY TULAJA**
 
 **साधारणं मध्यमस्य मध्यमग्रामगं ध्रुवम् ॥**
 
-
-
 **संगीतसारामृते**
 
 **साधारणे कैशिके ते केशाग्रवदणुत्वतः ।**
@@ -3450,12 +3095,9 @@ CITED DY TULAJA**
 संगीतसारामृते साधारणप्रकरणं  
 पञ्चमम्**
 
-
-
 **अथ वर्णालंकारप्रकरणम् (६)**
 
 **  अथ 'समानं गानमार्यास्तज्जातिसाधारणं विदुः' इति जातिसाधारणनिरूपणे गानसंबन्धित्वेन प्रसक्तो वर्णोनिरूप्यते । वर्णो नाम गानक्रिया । स्वरपदादेर्वर्णनाद्विस्तारकरणाद्गानक्रियाया वर्णत्वम् । स चतुर्विधः स्थायिवर्ण आरोहिवर्णो ऽवरोहिवर्णः संचारिवर्णश्चेति । एषां लक्षणानि त्वाकर उक्तानि । तद्यथा**  
-
 
 **'गानक्रियोच्यते वर्णः स चतुर्धा निरूपितः**
 
@@ -3468,19 +3110,15 @@ CITED DY TULAJA**
 
 **इति । एकस्यैवेत्येकैकस्येति वा। तत्रादौ 'सासासा रीरीरी' इत्येवमादिप्रयोगः, द्वितीये 'सारीगामा' इत्येवमादिप्रयोगः । परावन्वर्थनामकाविति, 'सरिगमपधनि' इत्यारोहादारोही 'निधपमगरिस' इत्यवरोहादवरोही । एतत्संमिश्रणात्, एतेषां स्थाय्यादीनां वर्णानाम् 'सारीसारीगा सानिधाधानिसा' इत्येवं यथायोगं मिश्रणात् संचारी वर्णः परिकीर्तितः । यत्र गानक्रियायां यस्य वर्णस्य बाहुल्यं दृश्यते तत्र तेन व्यपदेशः कर्तव्य इति मन्तव्यम् ॥**  
 
-
 **अथालंकारो निरूप्यते । अलंकारो नाम विशिष्टवर्णसंदर्भः । वैशिष्ट्यं च नियतकलाऽऽदियुक्तत्वम् । विशिष्टपदोपादानाच्च न संचारिण्यतिप्रसङ्गः। अलंक्रियते ऽनेनेति करणव्युत्पत्तिर्विवक्षिता । गीतिरेतैः प्रसन्नादिप्रभृतिभिरलंक्रियते नारीव हारादिभी रसादिरिव चानुप्रासादिभिः । तथा चाह भरतः प्रकारान्तरेण**  
-
 
 **'शशिना हितेव निशा विजलेव नदी लता विपुष्पेव ।**
 
 **अविभूषितेव च वधूर्गीतिरलंकारहीना स्यात् ॥'**  
 
-
 **संगीतसारामृते**
 
 **इति । ते चालंकारा अनेकप्रकाराः । तत्र स्थायिवर्णगताः सप्त, आरोहिवर्णगता द्वादश, अवरोहिवर्णगताश्च द्वादश, संचारिवर्णगताः पञ्चविंशतिः, अन्येऽपि प्रसिद्धालंकाराः सप्तेति त्रिषष्टिरलंकाराः । तत्र स्थायिवर्णगता अलंकारा निरूप्यन्ते-येषामलंकाराणां स्वरसंबन्धिकलोपक्रमोपसंहारयोः षड्जादीनामन्यतमो भिन्नस्थानगतो ऽप्येक एव स्वरो भवति ते स्थायिवर्णगता अलंकाराः, तेषु स्थायिवर्णानुवृत्तिदर्शनात् । अत्र प्रकरणे मूर्च्छनाप्रथमस्वरो मन्द्रः । स एव द्विगुणस्तारसंज्ञः । प्रसन्नो मृदुरिति च मन्द्रस्य संज्ञाद्वयम् । दीप्त इति तारस्य संज्ञान्तरम् । लिपौमन्द्रो बिन्दुशिराः, ऊर्ध्वरेखाशिरास्तारः, त्रित्वसंख्यारेखायुक्तः प्लुतः । एते त्रिषष्टिरप्यलंकारा भरतादिभिः सम्यङ्निरूपिताः । तद्यथा**  
-
 
 **'प्रसन्नादिः प्रसन्नान्तः प्रसन्नाद्यन्तसंज्ञकः ।**
 
@@ -3491,15 +3129,11 @@ CITED DY TULAJA**
 
 **सं सं स इति प्रसन्नादिः । (१)**  
 
-
 **तद्वैलोम्ये प्रसन्नान्तः** **स स सं इति प्रसन्नान्तः । (२)**  
-
 
 **प्रसन्नद्वयमध्यगे। दीप्ते प्रसन्नाद्यन्तः स्यात् सं स सं इति प्रसन्नाद्यन्तः । (३)**  
 
-
 **तारयोर्मध्यगे पुनः ॥ मन्द्रे प्रसन्नमध्याख्यमलंकारं विदो विदुः । से सं स इति प्रसन्नमध्यः । (४)**  
-
 
 **आद्यन्तो मूर्च्छनाऽऽदिश्चेत्स्वरो मध्यो द्वितीयकः ॥**
 
@@ -3511,15 +3145,12 @@ CITED DY TULAJA**
 **संरिसं संगमसं संपधनिसं इति क्रमरेचितः । (५)  
 दीप्तो ऽन्तश्चेत्प्रतिकलं प्रस्तारः सो ऽभिधीयते ॥्**
 
-
-
 **वर्णालंकारप्रकरणम्**
 
 **सं रि स सं ग म स सं प ध नि स इति प्रस्तारः । (६)  
 तारमन्द्रविपर्यासात्तं प्रसादं प्रचक्षते ॥**
 
 **स रि सं स गम सं सपधनिसं इति प्रसादः । (७) इति स्थायिवर्णगतालंकाराः।**  
-
 
 **स्यातां विस्तीर्णनिष्कर्षौबिन्दुरभ्युच्चयो ऽपरः । हसितप्रेङ्खिताक्षिप्तसंधिप्रच्छादितास्तथा ॥**
 
@@ -3542,7 +3173,6 @@ CITED DY TULAJA**
 **इति मतान्तरेण निष्कर्षभेदौ । (१)  
 प्लुतं ह्रस्वंप्लुतं ह्रस्वं प्लुतं ह्रस्वं प्लुतं स्वरम् ॥**  
 
-
 **कुर्वन्क्रमाद्यदाऽऽरोहेत्ततो बिन्दुरयं मतः ।**
 
 **स३रिग३मप३धनि३ इति बिन्दुः । (३)  
@@ -3557,18 +3187,14 @@ CITED DY TULAJA**
 
 **क्रमादारोहति यदा तदाऽऽक्षिप्तं प्रचक्षते ॥**
 
-
-
 **संगीतसारामृते**
 
 **सग गम पनि इत्याक्षिप्तः । (७)**  
-
 
 **त्रिस्वराद्या कलाऽन्ये च पूर्वपूर्वान्तिमादिमे ।  
 कले स्तस्त्रिस्वरे यत्र संधिप्रच्छादितस्तु सः ॥**
 
 **सरिग गमप पधनि इति संधिप्रच्छादितः । (८)**  
-
 
 **यद्याद्यस्त्रिस्त्रिरावृत्तःकलयोस्त्रिस्वरात्मनोः ।  
 तदोद्गीतः** **सससरिग मममपध इत्युद्गीतः । (९)  
@@ -3605,10 +3231,7 @@ CITED DY TULAJA**
 **गरिस मगरि पमग धपम निधप इति मन्द्रान्तः । (३)  
 त्यक्तान्तरं स्वरयुगं त्यक्तादारभ्यते पुनः ॥**
 
-
-
 **वर्णालंकारप्रकरणम्**  
-
 
 **युगं तादृक्समारोहेत्तदा प्रस्तार उच्यते ।**
 
@@ -3646,15 +3269,11 @@ CITED DY TULAJA**
 स ऊर्मिः स्यात् सम३सम रिप३रिप गध३गध मनि३मनि इत्यूर्मिः । (१२)  
 स तु समः कला यत्र चतुःस्वराः ॥**
 
-
-
 **संगीतसारामृते**  
-
 
 **तुल्यारोहावरोहैकैकहानादपरास्तथा ।**
 
 **सरिगममगरिस रिगमपपमगरि गमपधधपमग मपधनिनिधपम इति समः (१३)**  
-
 
 **कला गतागतवती द्विस्वरैकैकहानतः ।  
 यत्रान्यास्तादृशः स स्यात्प्रेङ्खः**
@@ -3692,8 +3311,6 @@ CITED DY TULAJA**
 **यत्राद्यपञ्चमौगीत्वा तुर्यात् त्रीनवरोहति ।**
 
 **क्रमात्कला सा यत्रान्यास्तद्वदेकैकहानतः ॥**
-
-
 
 **वर्णालंकारप्रकरणम्  
 सपमगरि रिधपमग गनिधपम इति संनिवृत्तप्रवृत्तकः । (२०)  
@@ -3738,8 +3355,6 @@ CITED DY TULAJA**
 **संसनिधपमगरिसं इति मन्द्रतारप्रसन्नः । (२)  
 आद्यं द्वितीयमाद्यं च द्विर्द्विर्गीत्वा द्वितीयकम् । सकृदाद्यं यत्कलायां गायेदावर्तकस्तु सः ॥**
 
-
-
 **संगीतसारामृते  
 ससरिरिससरिस रिरिगगरिरिगरि गगममगगमग ममपपममपम पपधधपपधप धधनिनिधधनिध इत्यावर्तकः । (३)  
 एतस्यैव कला ऽन्त्यौ द्वौ स्वरौ संत्यज्य गीयते ।  
@@ -3773,15 +3388,11 @@ CITED DY TULAJA**
 
 **अथ जातिप्रकरणम् (७)**  
 
-
 **अथ जातयो निरूप्यन्ते । शुद्धजातयः सप्त विकृतसंसर्गजन्या एकादश मिलित्वा ऽष्टादश । तत्र षड्जादिस्वराभिधाः शुद्धाः, तासां षाड्ज्यर्षभी गांधारी मध्यमा पञ्चमी धैवती नैषादीति संज्ञाः सप्तानां क्रमादिति । सरिगादिस्वरन्यासांशापन्यासग्रहत्वे सति सप्तस्वरयुक्तत्वं शुद्धत्वम् । इमा एव विकृतावस्थाऽऽपन्ना विकृता इत्युच्यन्ते । विकृतत्वं च क्रमेण साद्येकस्वरन्यासत्वे सत्यनियतसादीतरस्वरांशापन्यासग्रहकत्वे सति संपूर्णत्वम् । षाड्जीगांधारिकाभ्यां षड्जकैशिकी; षाड्जीमध्यमाभ्यां षड्जमध्यमा ; गांधारीपञ्चमाभ्यां मिलिताभ्यां गांधारपञ्चमी ; गांधार्यार्षभिकाभ्यामान्ध्री ; षाड्जीगांधारिकाधैवतीभ्यो मिलिताभ्यः षड्जोदीच्यवा; नैषादीपञ्चम्यार्षभिकाभ्यो युताभ्यः कार्मारवी ; गांधारीपञ्चम्यार्षभिकाभ्यो युताभ्यो नन्दयन्ती ; गांधारीधैवतीषाड्जीमध्यमाभ्यो युताभ्यो गांधारोदीच्यवा; गांधारीधैवतीपञ्चमीमध्यमाभ्यो मिलिताभ्यो मध्यमोदीच्यवा; गांधारीनैषादीपञ्चमीमध्यमाभ्यो युताभ्यो रक्तगांधारी ; आर्षभीं धैवतीं च त्यक्त्वा पञ्चभ्यः कैशिकी; एवमेकादशोत्पन्नाः । आस्वष्टादशसु मध्ये षाड्जी षड्जकैशिकी षड्जोदीच्यवा षड्जमध्यमा नैषादी धैवत्यार्षभी चैताः सप्त षड्जग्रामस्य जातयः । शेषा गांधारीमध्यमापञ्चम्यस्तिस्रो गांधारोदीच्यवारक्तगांधारीकैशिकीमध्यमोदीच्यवाकार्मारवीगांधारपञ्चम्यान्ध्रीनन्दयन्त्योऽष्ट मिलित्वैकादश मध्यमग्रामस्य जातयः । पुनरासां मध्ये कार्मारवीगांधारपञ्चमीषड्जकैशिकीमध्यमोदीच्यवाश्चतस्रो नित्यपूर्णाः । षाड्जीनन्दयन्त्यान्ध्रीगांधारोदीच्यवाश्चतस्रः संपूर्णषाडवाः । अवशिष्टा दश, आर्षभ्यादयः षट् षड्जोदीच्यवाषड्जमध्यमारक्तगांधारीकैशिक्यश्चतस्रो मिलित्वा दश संपूर्णषाडवौडुवा मताः । आसां मध्ये पञ्चमीमध्यमाषड्जमध्यमाऽऽख्यासु तिसृषु स्वरसाधारणं भरतादिभिः प्रोक्तम् । समपेष्वंशेष्वेतत्स्वरसाधारणं स्वरप्रकरणोक्तप्रयोगनियमाद्भवेत् । एतत्स्वरसाधारणं कम्बलाश्वतरादीनामल्पनिगासु जातिषु संमतम् । अल्पद्विश्रुतिकग्राम**
-
 
 **संगीतसारामृते**  
 
-
 **रागादिषु दशविधेष्वपि भरतादीनां संमतम् । निगयोरंशयोः सतोः षड्जमध्यमायां न तद्भवेदिति विशेषनिषेधः । विकृता एव जातयः स्वरसाधारणाश्रया इति विशेषनियमः । नन्दयन्तीमध्यमोदीच्यवागांधारपञ्चम्यस्तिस्र एकांशाः, धैवतीगांधारोदीच्यवापञ्चम्यस्तिस्रो व्द्यंशाः, नैषाद्यार्षभीषड्जभीषड्जकैशिक्यस्तिस्त्र्यंशिकाः, आन्ध्रीकार्मारवीषड्जोदीच्यवास्तिस्रश्चतुरंशिकाः, रक्तगांधारी गांधारी मध्यमा षाड्जीति चतस्रःपञ्चांशाः, एकैव कैशिकी षडंशा, षड्जमध्यमा तु सप्तांशा, इति सूरिभिः कथितम् । इत्यष्टादशसु जातिषु त्रिषष्टिरंशाः।**  
-
 
 **ग्रहांशतारमन्द्राश्च न्यासापन्यासकौतथा ।**
 
@@ -3819,10 +3430,7 @@ CITED DY TULAJA**
 
 **गीते समाप्तिकृन्न्यास एकविंशतिधा च सः॥**
 
-
-
 **जातिप्रकरणम्**  
-
 
 **षाड्ज्यादीनां तु सप्तानां न्यासः स्यान्नामकृत्स्वरः ।**
 
@@ -3884,11 +3492,7 @@ CITED DY TULAJA**
 
 **कृता सान्तरमार्गः स्यात्प्रायो विकृतजातिषु ॥**
 
-
-
 **संगीतसारामृते**
-
-
 
 **षडवन्ति प्रयोगं ये स्वरास्ते षाडवा मताः ।**
 
@@ -3937,7 +3541,6 @@ CITED DY TULAJA**
 
 **वराटी दृश्यते । अस्य प्रस्तारः**  
 
-
 **१.** **सा सा सा सापा निध पा धनि**
 
 **  तं      भ  व ल ला    ट**
@@ -3950,10 +3553,7 @@ CITED DY TULAJA**
 
 **  कं**
 
-
-
 **जातिप्रकरणम्**
-
 
 **४.धा धा निध निस निध पा सा सा  
 नगसूनुप्रणय**
@@ -3985,7 +3585,6 @@ CITED DY TULAJA**
 
 **लं**
 
-
 **॥ आर्षभी॥**
 
 **आर्षभ्यां तु त्रयोंशाः स्युर्निषादर्षभधैवताः ।**
@@ -4005,10 +3604,7 @@ CITED DY TULAJA**
 **२. री री निध निध गा रिम मा पनि  
 क मनन्तममर**
 
-
-
 **संगीतसारामृते**  
-
 
 **३. मा धा नी धा पा पा सा गा  
    म ज र म     क्ष य**
@@ -4061,11 +3657,7 @@ CITED DY TULAJA**
 ४. गा गम पा पा धप मा निध निस  
    नि शा म य व रो    रु**
 
-
-
 **जातिप्रकरणम्**  
-
-
 
 **५. निधपनि मा मपरि मा गा मा सा  
   त  व  मु  ख वि ला   स**
@@ -4105,7 +3697,6 @@ CITED DY TULAJA**
 **  शशि          नं                  
          ॥३॥**  
 
-
 **॥ मध्यमा ॥**
 
 **पञ्चांशा मध्यमायां स्युरगांधारनिषादकाः ।**
@@ -4118,15 +3709,9 @@ CITED DY TULAJA**
 
 **विनियोगो ध्रुवागाने द्वितीयप्रेक्षणे भवेत् ॥**
 
-
-
-
 **संगीतसारामृते**
 
-
-
 **अस्यां मध्यमायां मध्यमो न्यासः । अंशा एवापन्यासाः । चोक्षषाडवदेश्यन्धाल्यो दृश्यन्ते । प्रस्तारः -**  
-
 
 **१. मा मा मा मा पा धनि नी धप**
 
@@ -4156,8 +3741,6 @@ CITED DY TULAJA**
 **  सु किर      णं                     
           ॥४॥**
 
-
-
 **॥ पञ्चमी ॥**
 
 **रिपावंशौतु पञ्चम्यां सगमाः स्वल्पका मताः ।**
@@ -4177,10 +3760,7 @@ CITED DY TULAJA**
 **२. गा गा सा सा मां मां पां पां  
   नं म हे   श म म र**
 
-
-
 **जातिप्रकरणम्**  
-
 
 **३. पां पां धां नीं नीं नीं गा सा  
   प ति बा   हु स्तं   भ**
@@ -4201,7 +3781,6 @@ CITED DY TULAJA**
 
 **  ति म जे   यं                        
          ॥५॥**  
-
 
 **॥ धैवती ॥**
 
@@ -4229,8 +3808,6 @@ CITED DY TULAJA**
 **५. धां धां नी पां धां पां मां मां  
   कुं   ड ल वि ला   स**
 
-
-
 **संगीतसारामृते**
 
 **६. धां धां पां मंधं धां निंधं धंनिं धां**
@@ -4255,7 +3832,6 @@ CITED DY TULAJA**
 **१२. पा धा सा मा धा नी धा धा  
    प रि तु        ष्टं                 
        ॥६॥**   
-
 
 **॥ नैषादी॥**
 
@@ -4328,7 +3904,6 @@ CITED DY TULAJA**
 **   ज वि ला  सं                        
         ॥७॥**  
 
-
 **॥ षड्जकैशिकी ॥**
 
 **अंशाः स्युः षड्जकैशिक्यां षड्जगांधारपञ्चमाः ।**
@@ -4340,10 +3915,7 @@ CITED DY TULAJA**
 **प्रावेशिक्यां ध्रुवायां स्यात् प्रेक्षणं तु द्वितीयकम् ॥  
 अस्यां षड्जकैशिक्यां न्यासो गांधारः षड्जनिषादपञ्चमा अपन्यासाः । प्रागुक्तागांधारपञ्चमहिन्दोलकदेशीवेलावल्यो दृश्यन्ते । प्रस्तारः**
 
-
-
 **संगीतसारामृते**  
-
 
 **१. सा सा मां पां गरि मग मा मा**
 
@@ -4399,14 +3971,10 @@ CITED DY TULAJA**
 
 **   अ नु प म  मु ख क म**
 
-
-
 **जातिप्रकरणम्**  
-
 
 **१६. गा गा गा गा गा गा गा गा  
    लं                            ॥८ ॥**  
-
 
 **॥ षड्जोदीच्यवा ॥**
 
@@ -4422,7 +3990,6 @@ CITED DY TULAJA**
 द्वितीये प्रेक्षणे गाने ध्रुवायां विनियोजनम् ॥**
 
 **अस्यां मध्यमो न्यासः । षड्जधैवतावपन्यासौ। प्रस्तारः**  
-
 
 **१. सा सा सा सा मां मां गां गां**
 
@@ -4456,9 +4023,7 @@ CITED DY TULAJA**
 
 **   न य नं    न मा  मि**
 
-
 **संगीतसारामृते**  
-
 
 **११. गां सा सा सा सा सा सा गां  
    दे   वा   सु रे   श**
@@ -4511,7 +4076,6 @@ CITED DY TULAJA**
 
 **  का  मि  ज  न न य  न**
 
-
 **जातिप्रकरणम्**
 
 **८. धा पध परि रिग मग रिग सधस सा  
@@ -4530,7 +4094,6 @@ CITED DY TULAJA**
    नं                               
    ॥ १०॥**  
 
-
 **॥ गांधारोदीच्यवा ॥**
 
 **गांधारोदीच्यवायां तु द्वावंशौषड्जमध्यमौ ।**
@@ -4545,7 +4108,6 @@ CITED DY TULAJA**
 विनियोगो ध्रुवागाने चतुर्थप्रेक्षणे मतः ॥**
 
 **अस्यां मध्यमो न्यासः । षड्जधैवतावपन्यासौ । प्रस्तारः -**  
-
 
 **१. सा सा पा मा पा धप पा मा**
 
@@ -4568,7 +4130,6 @@ CITED DY TULAJA**
   त सुपा     दं**
 
 **संगीतसारामृते**  
-
 
 **७. गा मग पा पध मा धनि पापा  
   प्र वि क सि त हे    म**
@@ -4602,7 +4163,6 @@ CITED DY TULAJA**
    मं                               
    ॥ ११ ॥**  
 
-
 **॥ रक्तगांधारी॥**
 
 **अंशाः स्यू रक्तगांधार्यां पञ्च धर्षभवर्जिताः।**
@@ -4620,10 +4180,7 @@ CITED DY TULAJA**
 
 **अस्यां गांधारो न्यासः । मध्यमो ऽपन्यासः । प्रस्तारः-**
 
-
-
 **जातिप्रकरणम्**  
-
 
 **१.पा नी सा सा गा सा पा नी**
 
@@ -4656,7 +4213,6 @@ CITED DY TULAJA**
 **११. गा गा पा धमधानिध पा पा  
 १२. गा पा मा परिगगागागागा              ॥ १२॥**  
 
-
 **॥ कैशिकी ॥**
 
 **कैशिक्यामृषभान्येंशा निधावंशौयदा तदा ।**
@@ -4671,24 +4227,17 @@ CITED DY TULAJA**
 
 **षाडवौडुविते द्विष्टः क्रमात्पञ्चमधैवतौ ॥**
 
-
-
-
-
 **संगीतसारामृते**
 
 **षाड्जीवत्पञ्चपाण्यादि गांधारादिस्तु मूर्च्छना।**
 
 **पञ्चमप्रेक्षणगतध्रुवायां विनियोजनम् ॥**  
 
-
 **अस्यां गांधारपञ्चमनिषादा न्यासाः । रिवर्ज्याःषट्सप्त वा स्वरा अपन्यासाः । प्रस्तारः -**  
-
 
 **१. पा धनि पा धनि गा गा गा गा**
 
 **  के    ली    ह   त**  
-
 
 **२.पा पा मा निध निध पा पा पा  
  का  म त  नु**
@@ -4728,10 +4277,7 @@ CITED DY TULAJA**
    न वि शे      षं                    
      ॥१३॥**
 
-
-
 **जातिप्रकरणम्**  
-
 
 **॥ मध्यमोदीच्यवा॥**
 
@@ -4785,9 +4331,7 @@ CITED DY TULAJA**
 **१२. मा पा मा परिग गा गा गा गा  
    म ति हा     सं**
 
-
 **संगीतसारामृते**  
-
 
 **१३. गा गा गा गा मा निध नी नी  
    शि वं शां   त म  सु र**
@@ -4802,7 +4346,6 @@ CITED DY TULAJA**
 **१६. नी नी धा पा धापा मा मा**
 
 **   न त च र णं**  
-
 
 **॥ कार्मारवी॥**
 
@@ -4843,10 +4386,7 @@ CITED DY TULAJA**
 
 **   र नि के     तं**
 
-
-
 **जातिप्रकरणम्**  
-
 
 **८. री री गा सम मा मा पा पा  
   सि तपं    न गें   द्र**
@@ -4877,7 +4417,6 @@ CITED DY TULAJA**
    कं                               
     ॥१५॥**  
 
-
 **॥ गांधारपञ्चमी ॥**
 
 **अंशो गांधारपञ्चम्यां पञ्चमः संगतिः पुनः ।**
@@ -4898,10 +4437,7 @@ CITED DY TULAJA**
 ३. धा नी सा सा मा मा पा पा  
   वा   मै   क दे   श**
 
-
-
 **जातिप्रकरणम्**
-
 
 **॥ मध्यमोदीच्यवा॥**
 
@@ -4957,7 +4493,6 @@ CITED DY TULAJA**
 
 **संगीतसारामृते**
 
-
 **१३. गा गा गा गा मा निध नी नी  
 शि वंशांतमसुर**
 
@@ -4971,7 +4506,6 @@ CITED DY TULAJA**
 **१६. नी नी धा पा धापा मा मा**
 
 **नतचरणं॥१४॥**
-
 
 **॥ कार्मारवी॥**
 
@@ -5014,7 +4548,6 @@ CITED DY TULAJA**
 
 **जातिप्रकरणम्**
 
-
 **८. रीरी गा सम मा मा पा पा  
 सि तपंनगेंद्र**
 
@@ -5043,7 +4576,6 @@ CITED DY TULAJA**
 **१६. नी नी धा धा पा पा पा पा  
 कं॥१५॥**
 
-
 **॥ गांधारपञ्चमी ॥**
 
 **अंशो गांधारपञ्चम्यां पञ्चमः संगतिः पुनः ।**
@@ -5066,7 +4598,6 @@ CITED DY TULAJA**
 वामैकदेश**
 
 **संगीतसारामृते**  
-
 
 **४. नी नी नी नी नी नी नी नी  
   प्रें   खो  ल मा   न**
@@ -5113,17 +4644,13 @@ CITED DY TULAJA**
 **   न वि नो     दं                    
        ॥१६॥**  
 
-
 **॥ आन्ध्री ॥**
 
 **आन्ध्र्यामंशा निरिगपा रिगयोर्निधयोस्तथा ।**
 
 **संगतिर्न्यासपर्यन्तमंशानुक्रमतो व्रजेत् ॥**
 
-
-
 **जातिप्रकरणम्**  
-
 
 **षाडवं षड्जलोपेन मध्यमादिश्च मूर्च्छना।**
 
@@ -5175,7 +4702,6 @@ CITED DY TULAJA**
 
 **संगीतसारामृते**  
 
-
 **१४. री री गासम मा मा पा पा  
    श र णं    व्र जा  मि**
 
@@ -5186,9 +4712,6 @@ CITED DY TULAJA**
 
 **   यं                              
      ॥ १७ ॥**  
-
-
-
 
 **॥ नन्दयन्ती॥**
 
@@ -5206,7 +4729,6 @@ CITED DY TULAJA**
 **१.गा गा गा गा पा पा धप मा**
 
 ** सौ**  
- 
 
 **२.धा धा धा धा धा नी सनिनि धा  
 ३.पां पां पां पां पां पां पां पां**
@@ -5234,7 +4756,6 @@ CITED DY TULAJA**
 
 **जातिप्रकरणम्**  
 
-
 **९.धा नी मा पा गा गा गा गा**
 
 ** भ व हर क म ल गृ  
@@ -5260,7 +4781,6 @@ CITED DY TULAJA**
 **१६.धा धा नी धा पा पा पा पा**
 
 **   लं**  
-    
 
 **१७.रीगा मा पा पम पा पा नी**
 
@@ -5287,10 +4807,7 @@ CITED DY TULAJA**
 **२३. सा सा धनि धा पा पा पा पा  
    क्षी   रोद   सा     ग**
 
-
-
 **संगीतसारामृते**  
-
 
 **२४. मा पा मा परिग गा गा सा सा  
    र नि का    शं**
@@ -5322,8 +4839,6 @@ CITED DY TULAJA**
 **३२. मा परिग गा गा गा गा गा गा  
          निं                  ॥१८॥**
 
-
-
 **अनुक्ताविह तालः स्यात् त्रिधैवैककलाऽऽदिकः ।**
 
 **मार्गाः क्रमाच्चित्रवृत्तिदक्षिणा गीतयः पुनः ॥**
@@ -5345,18 +4860,11 @@ CITED DY TULAJA**
 
 **तथा सामसमुद्भूता जातयो वेदसंमताः ॥**
 
-
-
 **इति श्रीराजाधिराजभोसलकुलतिलकतुलजामहाराजविरचिते  
 संगीतसारामृते जातिप्रकरणं  
 सप्तमम्**
 
-
-
-
-
 **अथ गीतिप्रकरणम् (८)**  
-
 
 **शुद्धजातिसमुद्भूतकपालान्यधुना ब्रुवे ।**
 
@@ -5403,13 +4911,7 @@ CITED DY TULAJA**
 
 **स्वराणां बहवो भेदास्तस्य पूर्वैरुदीरिताः ॥**
 
-
-
-
-
 **संगीतसारामृते**
-
-
 
 **प्रीतः कम्बलदानेन कम्बलाय वरं ददौ ।**
 
@@ -5418,32 +4920,21 @@ CITED DY TULAJA**
 
 **कपालानां क्रमाद् ब्रूमो ब्रह्मप्रोक्तां पदावलीम्॥**  
 
-
 **झण्टुं झण्टुम् ॥ १ ॥ खट्वाङ्गधरम् ॥ २ ॥ दंष्ट्राकरालम् ॥ ३ ॥ तडित्सदृशजिह्वम्॥ ४ ॥ हौहौहौहौहौहौहौहौ।॥ ५॥ बहुरूपवदनं घनघोरनादम्॥६॥ हौहौहौहौहौहौहौहौ॥ ७ !: ॐ ॐ ह्रां रों हौं हौं हौं हौं।॥ ७ ॥ नृमुण्डमण्डितम् ॥ ९॥ हूं हूं क ह क ह हूं हूं ॥९० ॥ कृतविकटमु खम्॥११॥ नमामि देवं भैरवम् ॥ १२ ॥ इति षाड्जीकपालपदानि ॥**  
-
 
 **झण्टुं झण्टुम् ॥ १ ॥ दंष्ट्राकरालम् ॥ २॥ उं उं ह्रों त्रैंहौहौहौहौ॥ ३॥**
 
 **हौहौहौ ऐंहौहौहौहौ। ४ ॥ वरसुरभिकुसुम ॥ ५ ॥ चर्चितगात्रम् ॥ ६॥ कपालहस्तम् ॥ ७॥नमामि देवम्॥ ८॥ इत्यार्षभीकपालपदानि ॥**  
 
-
 **चलत्तरङ्ग ॥ १ ॥ भङ्गुरम्अ- ॥२॥ नेकरेणु ॥ ३ ॥ पिञ्जरं सु-॥४॥ रासुरैः सुसेवितं पु- ॥ ५ । नातुजाह्न- ॥६॥ वीजलं मां ॥ ७ ॥ बिन्दुभिः ॥ ८ ॥ इति गांधारीकपालपदानि ।**  
-
 
 **शूलकपाल- ॥ १॥ पाणित्रिपुरविनाशि॥२॥ शशाङ्कधारिणम् ॥ ३ ॥ त्रिनयनत्रिशूलम्॥४॥मततमुमयासहि-॥ ५॥ तं वरदं है है है है ॥ ६॥ है है है है है ॥ ७॥ है है है है है ॥ ८॥ नौमि महादेवम्॥ ९॥ इति मध्यमाकपालपदानि ॥  
 जय विषमनयन ॥ १॥ मदनतनुदहन ॥ २ ॥ वरवृषभगमन ॥ ३ ॥ पुरदहन ॥४॥ नतसकलभुवन ॥५॥ सितकमलवदन ॥ ६॥ भव मे भयहर ॥ ७ ॥ भव शरणम्॥ ८ ॥ इति पञ्चमीकपालपदानि ॥  
 अग्निज्वालशि- ॥१॥ खावलिः ॥ २॥ मांसशोणित- ॥३॥ भोजिनि ॥४॥ सर्वाहारि-॥ ५ ॥ णि निर्मांसे ॥६॥ चापर्णे ॥ ७ ॥ नमो ऽस्तु ते ॥ ८॥ इति धैवतीकपालपदानि ।  
 सरसगजचर्मपटम् ॥ १॥ भीमभुजंगमानद्धजटम् ॥ २ ॥ कह कह हुंकृतविकृतमुखम् ॥ ३॥ नम तं शिवं हरमजितम् ॥ ४॥ चन्द्रचूड**
 
-
-
-
-
-
-
 **गीतिप्रकरणम्  
 मजेयम् ॥ ५ ॥ कपालमण्डितमुकुटम् । ६॥ कामदर्पविध्वंसकरम्॥ ७ ॥ नम तं हरं परमशिवम् ॥ ८ ॥ इति नैषादीकपालपदानि ॥**  
-
 
 **वर्णाद्यलंकृता गानक्रिया पदलयान्विता ।**
 
@@ -5494,13 +4985,7 @@ CITED DY TULAJA**
    सु  र  न  त । ह   र   प  द । यु ग    लं 
  ।**
 
-
-
-
 **संगीतसारामृते**  
-
-
-
 
 **पा निधप मा मा ॥**
 
@@ -5528,13 +5013,9 @@ CITED DY TULAJA**
 
 **चतुष्कले भूरिलघुर्दक्षिणे पृथुला मता॥**
 
-
-
 **इति श्रीराजाधिराजभोसलकुलतिलकतुलजामहाराजविरचिते  
 संगीतसारामृते गीतिप्रकरणं  
 अष्टमम्**
-
-
 
 **अथ रागविवेकोचितस्वरमेलनप्रकरणम् (९)**
 
@@ -5590,11 +5071,7 @@ CITED DY TULAJA**
 **जायन्ते च ततो नाम क्रियाऽङ्गास्तेन हेतुना । अङ्गच्छायाऽनुकारित्वादुपाङ्गास्तान्प्रचक्षते ॥  
 इति रागाङ्गादिनिरुक्तिः ।**  
 
-
 **संगीतसारामृते**  
-
-
-
 
 **तत्र प्रसिद्धिविधुरांस्त्यक्त्वा रागांस्तु कांश्चन ॥**
 
@@ -5652,12 +5129,7 @@ CITED DY TULAJA**
 
 **तथैव मध्यमग्रामः सो ऽत्र रागे न दृश्यते ॥**
 
-
-
-
-
 **रागविवेकोचितस्वरमेलनप्रकरणम्**  
-
 
 **षड्जग्रामाश्रितान्रागान्सर्वे गायन्ति गायकाः ।  
 तस्मान्मुख्यतमः षड्जग्राम एव न मध्यमः ॥**
@@ -5715,11 +5187,7 @@ CITED DY TULAJA**
 
 **अपन्यासः स्मृतो न्यासस्त्वात्यन्तिकसमाप्तिकृत् ॥**
 
-
-
 **संगीतसारामृते**
-
-
 
 **इति भेदो भवेन्न्यासापन्यासस्वरयोर्द्वयोः ।**
 
@@ -5770,14 +5238,9 @@ CITED DY TULAJA**
 
 **नन्वेवं षड्जोपरि विद्यमानेषु चतुर्षुस्वरेषु प्रथम ऋषभ एव न गांधारः, चतुर्थस्तु गांधार एव नर्षभः, मध्यगतौ द्वावृषभौ गांधारावपि भवत इति यदुक्तं तन्न संगच्छते, प्रथमस्यर्षभत्वसंभवे ऽपि चतुर्थस्य गांधारत्वसंभवे ऽपि मध्यगतयोर्द्वयोः स्वरयोर्ऋषभत्वगांन्धारत्वे विरुद्धधर्मावेकैकस्य न संभवतो विरुद्धधर्मयोरेकत्र समावेशायोगादिति चेत्**
 
-
-
 **रागविवेकोचितस्वरमेलनप्रकरणम्**
 
-
-
 **सत्यम् ; यद्यपि निरपेक्षयोर्विरुद्धयोर्धर्मयोरेकत्र समावेशायोगः, तथा ऽपि विरुद्धयोरपि सापेक्षयोर्धर्मयोरेकत्र समावेशः संगच्छत एव, एकमातृप्रसूतानां भ्रातॄणां चतुर्णां मध्यगतयोर्द्वयोर्ज्येष्ठकनिष्ठापेक्षया ज्येष्ठत्वकनिष्ठत्वरूपविरुद्धधर्माविति न दोषः । अत एषु चतुर्षु स्वरेषु मुखारिश्रीरागनाटाख्यलक्ष्यानुरोधेन प्रथमद्वितीयौ वा शुद्धर्षभशुद्धगांधारौ, द्वितीयतृतीयौ वा पञ्चश्रुतिरिषभसाधारणगांधारौ, तृतीयचतुर्थौवा षट्श्रुतिरिषभान्तरगांधारावित्यृषभगांधारावन्यतरौ स्वरौनियमेन संग्राह्यौ ।तत्रर्षभः पूर्वभावी गांधारस्तदनन्तरभाव्येव । एवमुक्ताः शुद्धर्षभादयो ऽन्तरगांधारान्ता श्चत्वारः स्वरा वीणायां मेरोः पुरस्ताच्चतसृषुसारिकासु स्पष्टमुपलभ्यन्ते। तत ऊर्ध्वंपञ्चमे पर्वणि शुद्धमध्यमः, षष्ठेपर्वणि जायमानः स्वरश्च्युतपञ्चममध्यम इति स्वरमेलकलानिधिकारश्च्युत-षड्जच्युतमध्यमयो-र्निषादत्वगांधारत्वव्यवहारबलाच्च्युतषड्जनिषादच्युतमध्यमगांधारसंज्ञाकरणवदस्यापि च्युतपञ्चममध्यमसंज्ञां कृतवान् चतुर्दण्डीप्रकाशिकाकारस्त्वेनं लक्ष्यज्ञव्यवहारानुरोधेन वरालीमध्यमसंज्ञयैवव्यवहृतवान् । अस्माकं तु मध्यमग्रामविभाजकपञ्चमस्य स्वोपान्त्यश्रुतिस्थस्यैव षड्जग्रामे शास्त्रे विकृतत्वकथनाच्छास्त्रानुरोधेन विकृतपञ्चममध्यम इति व्यवहर्तुमुचितमिति प्रतिभाति । मध्यमग्रामजन्यरागेषुमध्यमादितोडिप्रभृतिषु तादृषपञ्चमप्रयोगादर्शनात्षड्जग्राम एव मध्यमादिप्रभृतिलक्ष्येषु स्वचतुर्थश्रुतिस्थितपञ्चमस्यैव प्रयोगदर्शनाद्विकृतपञ्चममध्यम इत्येव व्यवहर्तुमुचितम् । एवं विकृतपञ्चममध्यमे सिद्धे ऽनयोः शुद्धमध्यमविकृतपञ्चममध्यमयोरन्यतरो नियमेन संग्राह्यः । ततः सप्तमे पर्वणि शुद्धपञ्चमो निष्पद्यते । अयमेकः संग्राह्यः ।**  
-
 
 **षड्जस्वरस्य पुरतश्चत्वारः स्युः स्वरा यथा ।**
 
@@ -5795,10 +5258,7 @@ CITED DY TULAJA**
 
 **त्रिष्वेषु युगलेष्वन्यतरत्संग्राह्यमीरितम् ॥**
 
-
-
 **संगीतसारामृते**  
-
 
 **स्वरेषु द्वादशस्वेषु तत्तद्रागोपयोगतः ।**
 
@@ -5856,12 +5316,7 @@ CITED DY TULAJA**
 
 **ते प्रस्तारत उन्नेया द्विसप्ततिरुपायतः ॥**  
 
-
-
-
 **रागविवेकोचितस्वरमेलनप्रकरणम्**
-
-
 
 **इत्येवं विविधा मेलाः प्रस्तारपरिभाषया ।**
 
@@ -5909,19 +5364,12 @@ CITED DY TULAJA**
 
 **सल्लक्ष्यलक्ष्मोभयकोविदानां विनिर्मितो मेलमणीन्द्रहारः ॥**
 
-
-
 **इति श्रीराजाधिराजभोसलकुलतिलकतुलजामहाराजविरचिते**
 
 **संगीतसारामृते रागविवेकोचितस्वरमेलनप्रकरणं  
 नवमम्**
 
-
-
-
-
 **अथ रागविवेकप्रकरणम् (१०)**  
-
 
 **मेलोद्भवेषु रागेषु श्रीरागो ऽत्र चिरंतनैः ।**
 
@@ -5966,11 +5414,7 @@ CITED DY TULAJA**
 
 **गरिस ससगारिस सारसससनिप पपमारि ममपपनिनिप मपमपनिनिस**
 
-
-
 **रागविवेकप्रकरणम्**  
-
-
 
 **निसरिगरीगरिस सनिरिगरिसानिसगरिस गारिस सरिसससपनि मपमपनिनिगस नीनीस्सा रिगरिसासनिस रिगस सनिस एतत्षड्जस्थायिनि ठाये। रिगरिस सनिप पनिप पमरिममप मपनिनिस निसरिममपपनि मपपससा स्सनिप पनिपापम मपमरिरिगरिस इति ठायप्रयोगः ।**
 
@@ -5990,7 +5434,6 @@ CITED DY TULAJA**
 
 **ससनिधपधनिपममप्पा इत्युद्ग्रहे ऽपि प्रयोगो ऽस्ति । अस्मिन् रागे सरिगमेति नागच्छति, मगरिसेति नागच्छति, इत्याद्यनागच्छन्तो ऽनेकप्रयोगाः सन्ति ।**  
 
-
 **। इति श्रीरागलक्षणम्॥**
 
 **श्रीरागमेलसंजातो रागः कन्नडगौलकः ।**
@@ -6001,8 +5444,6 @@ CITED DY TULAJA**
 
 **गेयोऽह्नःपश्चिमे याम उत्कलानामतिप्रियः ॥  
 उपाङ्गमेनं शंसन्ति संगीतागमपारगाः ।**
-
-
 
 **अस्योदाहरणम्-सनिपधनिसनिनिस रिगमगमपनिपमा पनिनिसा निप**
 
@@ -6015,16 +5456,11 @@ CITED DY TULAJA**
 
 **्ससनिप इति गीतप्रयोगः । निसग्गगम ग्गमगगरिस इति गीतान्तरप्रयोगः । पधनिपनिधप मगम पनिधममागसनिप इति सूलादिः । इएएऐप्रयोगः । तुलजधरधिर्मजाअआरे-तअपुढंडरेगरुबद शिशुउठंडंते एएऐ...प्रयोगः।**  
 
-
 **॥ इति कन्नडगौलकः ॥**
-
-
 
 **श्रीरागमेलजः पूर्णो देवगांधारकाभिधः ॥**   
 
-
 **संगीतसारामृते**  
-
 
 **गातव्यः प्रातरेवैष षड्जन्यासग्रहांशकः ।  
 आरोहे रिधवर्जोऽवरोहे रिधसमन्वितः ॥**
@@ -6037,7 +5473,6 @@ CITED DY TULAJA**
 | **अ** | **अ** | **अ** | **अ** | **अ** | **अ**  | **अ** | **नि** | **अ** | **अ** | **अ**  | **आ** | **आ**  | **य**  | **र्य** | **उ** | **झु** | **ने** | **ए** | **ऐ** | **त्त** |      |      |       |       |
 
 **इति गीतप्रयोगः ।**  
-
 
 **॥ इति देवगांधारकः ॥**
 
@@ -6055,7 +5490,6 @@ CITED DY TULAJA**
 
 **सासनिधप मगरीरिग सानिसगरि सनिधपमगरीसा इति गीतान्तरप्रयोगः ।**  
 
-
 **॥ इति सालगभैरवी ॥**
 
 **श्रीरागमेलजातेयं माधवाद्यमनोहरी।  
@@ -6063,11 +5497,9 @@ CITED DY TULAJA**
 
 **पूर्णा गया । सा रमणीइ रमणीइय बा अ आ अं तलविलसितुरेए (?)। अत्रारोहणे धैवतलङ्घनम् । अवरोहणे पञ्चमलङ्घनम् । गरिनिधनि गरिगमनिधम पधनिनिस्सासा सानिधम निधम गमपधमगगरि सरिनिधनिसस्स इत्युद्ग्रहप्रयोगः । गरिनिधनि गरिगमगरि गरिनिधनि गरिगमपधमगरि**
 
-
 **रागविवेकप्रकरणम्**
 
 **गमगरि गरिनिधनि गरिगमगमनिधमा मधमगरि गरिनिधनि इति ठायप्रयोगः । गमपधमगरि गमगंगगम पनिधमपनिध निसासनिधम निधमगरिगम गरिनिधनिसरि निधमगरिस इति गीतप्रयोगः ।**  
-
 
 **॥ इति माधवमनोहरी ॥**
 
@@ -6076,14 +5508,12 @@ CITED DY TULAJA**
 
 **अत्राप्यारोहे गांधारलङ्घनमिति हेतोः धनिसरिगरिरि इति गांधारान्तक्रमे गांधार आगच्छति, तदुपरिगमने नागच्छति । अस्योदाहरणम्-पामप गरिस निगमपनिधपधनीसा निधपमनिपमगरिस निधपमस इत्युद्ग्रहे स्थायिनि च प्रयोगो ऽस्ति । निधसससधसस्सा धरिसरि निधसस्सा धसस्सा धरिसरि पमपमगरिस गरिरिनिधसस्सा धसस्सा इति ठायप्रयोगः ।**  
 
-
 **॥ इति शुद्धदेशी ॥**
 
 **मध्यमग्रामरागः श्रीरागमेलसमुद्भवः ।  
 संपूर्णः सग्रहन्यासांशस्त्वयं परिकीर्तितः ॥**
 
 **आरोहावरोहयोः स्वरगतेरुदाहरणम्-पाधपमगरिसरिसनिसनिसनि सरिसा रिगमपधनिस्सा सनिधप मगरिसनिरिसास्सा।**  
-
 
 **॥ इति मध्यमग्रामरागः ॥**
 
@@ -6094,7 +5524,6 @@ CITED DY TULAJA**
 
 **अस्य रागस्यारोहावरोहयोरुदाहरणम्-- सार्रीसा रिसनिनी धनिसरि सरिमाम्मपधपनिधप सानिधपमपमागरि ममगरिरीस्सा इत्येवंरीत्या ऽस्याः स्वरगतिः ।**  
 
-
 **॥ इति सैन्धवीरागः ॥**
 
 **काफिरागस्तुसंपूर्णः षड्जन्यासग्रहांशकः ।  
@@ -6102,20 +5531,14 @@ CITED DY TULAJA**
 
 **अस्यारोहावरोहयोः स्वरगतिर्निराघाटा । अस्योदाहरणम्-रीगगरिसा रिगमपधनिसा सनिधपमगरिसा रीगगरिसा निधप धानीस्सा इत्यालापः । पधनिसरिगमपमनिनि सनिपममपम पगरिसरिनिनि धपमपधनिस रिरिनिपमगरिस इति गीतप्रयोगः ।**  
 
-
 **॥ इति काफिरागः ॥**
 
-
-
 **संगीतसारामृते**
-
-
 
 **श्रीरागमेलजः पूर्णो हुसेनीराग ईरितः ।  
 षड्जग्रहांशकन्यासः सायंकाले प्रगीयते ॥**
 
 **अस्योदाहरणम्-रिगमागरिस रिगमपनिमनिधपम निधनिस्सा निधपम पधमागरिसा रिगरिरिस्सा एवंप्रकारेणास्य स्वरगतिः ।**  
-
 
 **॥ इति हुसेनीरागः ॥**
 
@@ -6126,7 +5549,6 @@ CITED DY TULAJA**
 
 **अस्यारोहावरोहयोः स्वरगतेरुदाहरणम्-मागरिसरि निधनिसनिस गरिगम धमनिधम निधनिसाधस्सा निनिधम निधम मधमम गरिगम रिरीसस निधनिसास्स इत्युद्ग्रहप्रयोगः ।**  
 
-
 **॥ इति श्रीरञ्जनीरागः ॥**
 
 **श्रीरागमेलसंजाता षड्जन्यासग्रहांशिका ।**
@@ -6135,7 +5557,6 @@ CITED DY TULAJA**
 रागाङ्गमेनां शंसन्ति सा गेया सर्वदा बुधैः ।**
 
 **आरोहणे मध्यमादिषाडवतानः समायाति, षड्जादिगांधारादितानौ न भवतः । अवरोहणे तु षड्जादिमूर्च्छना निषादादिषाडवतानाः समायान्ति । अस्योदाहरणम्-मपधनिसा सगसा इत्यारोहणी । सानिनीधनीधपममगस इत्यवरोहणीकटकप्रयोगः । निसनिधनिधप अस्मिन्ठाये । मपधनिस निनिसा निध निसनिधनिधपापानी निनिनिधममगस इति ठायप्रयोगः। निनिधप ममप निधपममप ममपपनिधम ममगस सानिधनिधप ममपनिनिस इति ठायप्रयोगः । निनिधममगस सनिनिधपममगस इति गीतप्रयोगः ।**  
-
 
 **॥ इति मालवश्रीः ॥**
 
@@ -6149,11 +5570,7 @@ CITED DY TULAJA**
 | **रि** | **म**  | **प** | **नि**   | **नि** | **प** | **म** | **प** | **नि** | **नि** | **सा** | **स**   | **नि** | **धा** | **नि** | **प**  | **मा** | **प**  | **म** | **म** | **रि** | **रि** | **रि** |
 | **स**  | **मु** | **उ** | **द्रु** | **रे** | **ए** | **ज** | **ल** | **ज**  | **स**  | **खा** | **त्म** | **ज**  | **सु** | **ख**  | **सं** | **अ**  | **धा** | **अ** | **य** | **कु** | **रे** | **ए**  |
 
-
-
 **रागविवेप्रकरणम्**
-
-
 
 |       |        |        |        |       |        |        |        |
 |-------|--------|--------|--------|-------|--------|--------|--------|
@@ -6168,7 +5585,6 @@ CITED DY TULAJA**
 
 **अस्यारोहावरोहस्वरगतेरुदाहरणम् -मागसनिधनिधपम पनिनिससा गगमधपमनिनिस्सा नीधपममगमगसा इत्युद्ग्रहप्रयोगः । सान्निधनिधपमगगमगसा इत्यवरोहणीषड्जतानाः । अस्मिन् रागे पददरवो बहवः सन्ति ।**  
 
-
 **॥ इति जयन्तसेनः ॥**
 
 **श्रीरागमेलसंजातो मणिरङ्गुः प्रकीर्तितः ।  
@@ -6180,8 +5596,6 @@ CITED DY TULAJA**
 |--------|-------|--------|---------|--------|-------|-------|--------|--------|----------|-------|-------|--------|--------|--------|
 | **रि** | **म** | **प**  | **प्प** | **नि** | **प** | **म** | **म**  | **पा** | **प**    | **प** | **म** | **ग**  | **रि** | **रि** |
 | **स**  | **व** | **रि** | **प्प** | **वि** | **स** | **उ** | **वि** | **वि** | **त्या** | **स** | **न** | **ते** | **थे** | **हं** |
-
-
 
 |        |        |        |         |         |          |        |        |       |        |        |          |
 |--------|--------|--------|---------|---------|----------|--------|--------|-------|--------|--------|----------|
@@ -6198,16 +5612,11 @@ CITED DY TULAJA**
 
 **अस्यारोहावरोहयोः स्वरगतिरवक्रा। अस्योदाहरणम् -पापामनिपनिपपमरिमाम्मा रिरिममपपनिनिस पनिपनिपपमरि मरिमरिरिसरिरिसरिरिसनि सनिपनिसरिर्रीमम्मप रिपपमरि मारि मरिरिसनिस सनिप निसरि ससनिपमरिसस्सा इत्युद्ग्रहप्रयोगः । रिपमरिमपसस्सा ससनिपम पमरिसरिमरिरिसनि इति गीतप्रयोगः।**  
 
-
 **॥ इति मध्यमादिरागः ॥**
 
 **धन्यासिरागो रागाङ्गो जातः श्रीरागमेलतः ॥**
 
 **रिधलोपादौडुवो ऽयं प्रातर्गेयः शुभप्रदः ।**
-
-
-
-
 
 **संगीतसारामृते**
 
@@ -6247,10 +5656,7 @@ CITED DY TULAJA**
 **अस्योदाहरणम्-सानिप्पसनि पमरिपम पसनिस रिरिपमप सनिनिस्सा निपपमरि मसरिनिसास्सइत्युद्ग्रहप्रयोगः । रिनिसस्सारिरिमरिसा रिनिसस्स अस्मिन् ठाये । रिमरिप मपससास्सनिप मपपनिमप रिमरि रिनीसस्सा इति ठायप्रयोगः । रिमपनी पाससनिप ससरिरिपा पमरिससनिपम इति गीतप्रयोगः।  
 ॥ इत्युदयरविचन्द्रिकारागः ॥**
 
-
-
 **रागविवेकप्रकरणम्**  
-
 
 **अथ मालवगौलरागः**
 
@@ -6301,10 +5707,7 @@ CITED DY TULAJA**
 
 **अस्य रागस्यारोहणी मध्यषड्जादितारषड्जान्ता । आरोहणे गांधारनिषादौ क्रमेण नागच्छतः । षड्जादि-रिषभादि-पञ्चमान्त-धैवतान्त-संदर्भयोर्गांधार**
 
-
-
 **संगीतसारामृते**  
-
 
 **आगच्छति । मध्यमस्वरादितारषड्जान्तसंदर्भेनिषाद आगच्छति । एतेषामुदाहरणम् –धससरि सरिमगरि ममपमपधधप मपधससा इति तारषड्जतानप्रयोगः । निसरिमगारिगमप पपमा इत्यवरोहीधैवततानप्रयोगः । मपध निस धपममपमरि इति पञ्चमस्थायिनी । धपधमपनिसरि रिसधप इत्याद्यठाये मुक्तायिप्रयोगः । सनिधप ममपमरिमगरिस धसरिममम पपधध पमगरिरि सा सा इतेि ठायान्तरप्रयोगः ।**
 
@@ -6319,7 +5722,6 @@ CITED DY TULAJA**
 **ते ए ए ए न वे ने ते न ते न ते न तेन**
 
 **इति प्रबन्धः ।**  
-
 
 **॥ इति सारंगनाटीरागः ॥**
 
@@ -6336,15 +5738,12 @@ CITED DY TULAJA**
 
 **इति सूलादिप्रयोगः ।**  
 
-
 **॥ इत्यार्द्रदेशीरागः ॥**
 
 **मेलान्मालवगौलस्य च्छायागौलः समुत्थितः ।  
 पूर्णो निषादग्रहो ऽयं सर्वकालेषु गीयते ॥**
 
 **अस्यारोहावरोहयोः स्वरगतिः समविषमतया ऽऽगच्छति । अस्योदाहरणम् -माम्मगस रिसनिसा धससरि सरिमग रिगमप धधप ममपध सानीसा**
-
-
 
 **रागविवेकप्रकरणम्**
 
@@ -6364,14 +5763,12 @@ CITED DY TULAJA**
 
 **समपनिगसम ।**  
 
-
 **॥ इति टक्करागः ॥**
 
 **मेलान्मालवगौलीयाज्जाता पूर्णा तु गुर्जरी।  
 प्रातःकाले तु सा गेया रिग्रहा परिकीर्तिता ॥**
 
 **अस्यारोहावरोहयोः स्वरगतिरवक्रसंदर्भा। अस्योदाहरणम्-पाधरिसस सरिधगधपम गमपधनिस्सा निधपामा गगगर्रिइत्युद्ग्रहप्रयोगः । रिसनिस धसरिसनिसा निसा रिसनिसा धसरिसध रिगपामगस इति ठायप्रयोगः । अस्मिन्नेव ठाये । धनिसा धपमा पमगगरि रिसनिससा इति प्रयोगः । निधधनिध धनिधप गधध पापमगगगरि गामापधन्निसरिसनिपधरिसनिसस्सा सरिगमपधनिसरिगा रिसनिधपमगरिसा इति गीतप्रयोगः । अस्य रागस्य सरिगमा इति मध्यमान्तमूर्च्छना नागच्छति ॥**  
-
 
 **॥ इति गुर्जरीरागः ॥**
 
@@ -6380,9 +5777,7 @@ CITED DY TULAJA**
 
 **अस्य रागस्यारोहावरोहयोः समविषमतया स्वरगतिरागच्छति । अस्योदाहरणम्-मपमगरिस गमपसनिमपम गमपगरिस रिसनिस्सस्सा इति षड्जस्थायिनि तारषड्जतानप्रयोगः । गमगसरिसनि सरिसरि गमगसरिसनि अस्मिन् ठाये । रिसनिसा गरिसनिपमम मागरिसरिसरिपमगसरि**
 
-
 **संङ्गीतसारामृते**  
-
 
 **सनिसस्सा इति मुक्ताय्याम् । धधधपामरिगमपा गमपनिसरि सनिमप मपमा पपनिसस्सा इति ठायप्रयोगः ॥  
 ॥ इति गुण्डक्रियारागः ॥**
@@ -6392,7 +5787,6 @@ CITED DY TULAJA**
 
 **अस्यारोहावरोहयोः संश्लिष्टतया स्वरगतिः । अस्योदाहरणम्-सरिनिध-निसरि गगम धपधपम गधध ससनिस्सा निधनिधधपमगाम्मरिस रिसनिधनिसरिसास्सा इत्युद्ग्रहप्रयोगः । गगमरिस मगमरिस मगमप मगमरिस अस्मिन्ठाये । मगमधधसनिसा निधपममगमरिसा इति ठायप्रयोगः ॥**  
 
-
 **॥ इति फलमञ्जरीरागः ॥**
 
 **मेले मालवगौलीये नादरामक्रियाऽभिधः ।  
@@ -6401,7 +5795,6 @@ CITED DY TULAJA**
 **अस्यारोहावरोहयोरवक्रगतिका मूर्च्छना । अस्योदाहरणम्
 -रिसास्सानिधनिधनिसरि निसरिमगमधधपपमग धधनिस्सा सनिधनिधधपपमगरिरिसनि धनिधधपपमग गमपधनिसरिगा इत्युद्ग्रहप्रयोगः। धधनिससा निसस्सा-रिरिरिस निसरिरिसनिध अस्मिन् ठाये । रिरिगरिगमम गगधपमग धधनि सानिध धनिधधपपमगा गमपमगरिगरिस इति ठायप्रयोगः । धनिधनिसानिधपामगमधपमधमपमग इति सूलादिप्रयोगः । सरिगमपधनिसानिध, गरिसनिधनिनिधमगमगरिसा इति गीतप्रयोगः ॥**  
 
-
 **॥ इति नादरामक्रियारागः ॥**
 
 **मेलो मालवगौलस्यः यः सौराष्ट्र्याःस एव हि ।  
@@ -6409,16 +5802,11 @@ CITED DY TULAJA**
 
 **अस्यारोहावरोहयोः स्वरगतिः समविषमतयाऽऽगच्छति । अस्योदाहरणम्-सस्सासरिसनिधाप पधपधनिधप पमगारिगमप्पाप्प गमधमपधनिध पपमपधनिसा धनिसरि सरिगमाम्मागरीसा सास्सानीइइध सनीइइइसास्सा इत्यायित्तप्रयोगः । धामपगरिसा गमपम पधधप पमपधनिस्सा इति तारषड्जतानप्रयोगः । सनिधपमगरि गगमपनिधप सनिधपपमगरि गगपमधनिधप सनिधपमगरि इति ठायप्रयोगः । सनिधनिसरिगमपधनी धपपमगरी गमपा इति गीतप्रयोगः ॥**
 
-
-
 **रागविवेकप्रकरणम्**  
-
-
 
 **धनिसरिसरि ग म प ध धसस सा स स स्स सा स नि ध प म प ग रि ग वृन्दअअअअ व नभा सु री यमु ना तीरे त्रि वि क्रम स्वा अअअअअ मि**
 
 **इति गीतान्तरप्रयोगः ॥**  
-
 
 **॥ इति सौराष्ट्रीरागः ॥**
 
@@ -6439,7 +5827,6 @@ CITED DY TULAJA**
 
 **रविएरुबुं डअवअअई**  
 
-
 **॥ इति मेचबौलिरागः ॥**
 
 **मेलो मालवगौलीयो मागध्याः पञ्चमस्य च ।  
@@ -6458,17 +5845,13 @@ CITED DY TULAJA**
 
 **पूर्णः षड्जग्रहादिश्च सायं गेयः प्रकीर्तितः ॥**  
 
-
 **संगीतसारामृते**
-
-
 
 **अस्य रागस्य स्वरगतेरुदाहरणम् -सानिधपमपगरिसा गमधपमपनीसा ग्गारिरिसनी धपनीसा ग्गामपगस्सिा गारिसनीसास्सा इत्यालापप्रयोगः । धधपमपससासागागाम र्रिरीगर्रीरीसनिसास धससगरिरि सनिधधपम जयजयताहानुधीमन्ता दुणमंहति सअंजत दशअअअ अअअ आनन पस्सनिधप धमपगमगरिसा इति गीतप्रयोगः । सस्सरिगम पधनिधप**
 
 **प्रध्वंसअअ भअअदकअरणो**
 
 **सानिसानिधापधधमापधसनो धधपम पपग रिरिसनिधधपा इति गीतान्तरताअनंतगोओओओविंदअनुउ अनुदअ आअ मुरअअरिआ प्रयोगश्च ।**  
-
 
 **॥ इति मारुवरागः ॥**
 
@@ -6481,14 +5864,12 @@ CITED DY TULAJA**
 
 **वारिधमअजि रिमपधपमगरिमपधपसनिधपमगरिस इति सुलादिप्रयोगः । सअअअअअअअधजिइइइइवनव अअद**  
 
-
 **॥ इति गौलिपन्तुरागः ॥**
 
 **जाता मालवगौलीयमेलात्सावेरिकाऽभिधा।  
 पूर्णा प्रातः प्रगातव्या षड्जन्यासग्रहांशिका ॥**
 
 **अस्य रागस्यारोहेगांधारनिषादलङ्घनम् । अवरोहे स्वरगतिर्-ऋजुतया ऽऽगच्छति । अस्योदाहरणम्-धसरिमगरि मपधधनिधपम पधसनिधसा निधपमा रिसरिगरि सनिधसास्सा इत्यालापः ।**  
-
 
 **॥ इति सावरीरागः ॥**
 
@@ -6497,19 +5878,14 @@ CITED DY TULAJA**
 
 **अस्यारोहावरोहयोः स्वरगतिर्ऋजुतायुक्ता। अस्योदाहरणम् -सागरिगमपधनीधधपसा सनिधपमगपमगगारिसा इत्यालापः ।**  
 
-
 **॥ इति पूर्विरागः ॥**
 
-
-
 **रागविवेकप्रकरणम्**  
-
 
 **मेलान्मालवगौलीयादुत्पन्नोऽयं बिभासुकः ।  
 महीनः षाडवः सांशग्रहः प्रातः प्रगीयते ॥**
 
 **अस्यारोहावरोहयोः स्वरगतेरुदाहरणम् -सारिरिगरिसधा सरिगपधनिनिसानिनिधापगरि पधपधपगपगरिरिस इत्यालापः ।**  
-
 
 **॥ इति बिभासुरागः ॥**
 
@@ -6522,7 +5898,6 @@ CITED DY TULAJA**
 
 **मरि गमा इति सुलादिप्रयोगः ।  
 दंतिइई**  
-
 
 **॥ इति गौलरागः ॥**
 
@@ -6537,7 +5912,6 @@ CITED DY TULAJA**
 
 **वुरु द्रुड य नअहेएशुरुरे**  
 
-
 **॥ इति कन्नडबङ्गालः ॥**
 
 **संगीतसारामृते**
@@ -6549,8 +5923,6 @@ CITED DY TULAJA**
 धसाधसरिरि गस  
              अअ अअअअअअअअ अअ**
 
-
-
 **पगरिसनिध पगा इति गीतप्रयोगः ।** **निधपगपगरिग सरि गपधसरिगप**
 
 **अनुपममिर                 पटुछटसिंगिणी   
@@ -6558,10 +5930,7 @@ CITED DY TULAJA**
 
 **गरिस इति तानीकरणप्रयोगः। रिगरिसनिधपगपगरिसरिग इति प्रबन्धप्रयोगः।**  
 
-
 **॥ इति बहुलीरागः ॥**
-
-
 
 **मेलान्मालवगौलीयात् पाडिरागः समुत्थितः ।  
 गलोपात्षाडवः सायं गेयः षड्जग्रहादिकः ॥**
@@ -6581,16 +5950,11 @@ CITED DY TULAJA**
 
 **अस्यारोहे गांधारवर्जनम् । अवरोहे स्वरगतिर्जटिलतया ऽऽगच्छति । अस्योदाहरणम्-धधधपमपधसाधप मपधधपमगरिसा धाप मपधधपा मगरिसा रिसधस्सा इति तारषड्जतानप्रयोगः । रिसधसस्सा धसस्सा अस्मिन्स्थायिनि । मरिरिसधप पधधपगरिस रिसधसस्स साधधसा धधसा**
 
-
-
 **रागविवेकप्रकरणम्**  
-
-
 
 **रिसधप पाधधपमगरि ममपपधधससरि रिमगरि सरिसधरिरिसधसस्सा इति ठायप्रयोगः । साधस सधधाधधपमप  धससधधधप  मगरिममगरि  
    तारुण तरणीयतेएजब वोजलुवअशिरि मकुटदअअअ इति पुरन्दरदाससुलादिप्रयोगः । धरिरिसधप धपमगरिस इति गीतप्रयोगः ।  
                    विरू पअक्ष करुणाअकर**  
-
 
 **॥ इति मलहरीरागः ॥**
 
@@ -6599,14 +5963,12 @@ CITED DY TULAJA**
 
 **अस्यारोहावरोहयोः स्वरगतिरवक्रा। अस्योदाहरणम् -निसरिमगरि रिसनि-सरिससनिध मधनिसरि रिममधमधनिस्सा निधनिधममगरिरिसा निसरि-सनिध निधनीसा इत्युद्ग्रहप्रयोगः । गमगरिसनि अस्मिन्स्थायिनि धनि सरिमगा रिगमधनिसनिधमगा गमधमगरिसा इति ठायप्रयोगः । मगरिसा-निधनिधममगरिस इति गीतप्रयोगः ॥**  
 
-
 **॥ इति ललितारागः॥**
 
 **पूर्णपञ्चमरागो ऽयं जातो मालवगौलतः ।  
 निवर्जनात्षाडवो ऽयं षड्जन्यासग्रहांशकः ॥**
 
 **अस्यारोहावरोहयोः स्वरधाटिर्निराघाटा । अस्योदाहरणम्-सरिसरिगमपधस्ससा धधधपमपमगरिसस्सा इत्युद्ग्रहप्रयोगः ॥**  
-
 
 **॥ इति पूर्णपञ्चमरागः ॥**
 
@@ -6619,12 +5981,9 @@ CITED DY TULAJA**
 **खण्डिकाप्रयोगः । धसरिमसरि ससरिसध धधपापमरिस  इति गीते  
              सअद्रविरिति निसअअद्र कुणसमुद्रअअ**
 
-
 **संगीतसारामृते**  
 
-
 **प्रथमखण्डिकाप्रयोगः ॥**  
-
 
 **॥ इति शुद्धसावेरीरागः ॥**
 
@@ -6632,7 +5991,6 @@ CITED DY TULAJA**
 औडुवः पर्जन्यकाले गेयः षड्जग्रहादिकः ॥**
 
 **अस्यारोहावरोहयोः स्वरगतेरुदाहरणम्-निसमागममनिमगमा निमगम निसानी निसनि मगम निसम निसनिमगमा ममममम गमरिसनिसा इत्युद्ग्रहप्रयोगः । सनिमगम निसरिससनि मगम अस्मिन्स्थायिनि ससमगम निसरि निसरिरिस मगमरिसा निसरिसनि मगम रिसरिस निसस्सा इति ठायप्रयोगः ॥**  
-
 
 **॥ इति मेघरञ्जिः ॥**
 
@@ -6646,7 +6004,6 @@ CITED DY TULAJA**
 
 **अअअअअ अअअअअअअ अअआ**  
 
-
 **॥ इति रेवगुप्तरागः ॥**
 
 **मेलान्मालवगौलीयाट्टक्कभाषा तु मालवी ।  
@@ -6654,16 +6011,11 @@ CITED DY TULAJA**
 
 **अस्यारोहावराहयोः स्वरगतिरवक्रा। अस्योदाहरणम् -रिरिसनिसास्सानिप निनिपन्निनीप्पपाम नीपमपमम रिम्ममारि रीमपनी पनिसरि रिम्मरिसा सरिसास्सनि पन्निपन्निनीइइस्सा इत्यायित्तप्रयोगः ॥**  
 
-
 **॥ इति मालवीरागः ॥**
 
 **शुद्धाः स्युः समपाः पञ्चश्रुती रिषभधैवतौ ।**
 
 **साधारणाख्यगांधारः काकस्याख्यनिषादकः ॥**
-
-
-
-
 
 **रागविवेकप्रकरणम्**
 
@@ -6675,10 +6027,7 @@ CITED DY TULAJA**
 
 **अस्यारोहावरोहयोः स्वरगतेरुदाहरणम् -पामारि सान्निध सरिसरि गगरि सनिध पधध र्रीसरी गगरी गग रिगमपधधपससा निधपसा निधपमगरिससनिध सरिसरि गगगरि पपमागरी गगगरी ससनिध पधधधसस्सा इत्युद्ग्रहप्रयोगः । सान्निध सरिसरि सान्निध अस्मिन्ठाये धससरिसनिधपमगरिसरिसस्सा इति ठायप्रयोगः । ससनिध धपध सनिध धपध अस्मिन् ठाये ससरि सरिगगरि गमप धधपससा ससनिधसनिधपमधरि ससनिध धाससारिगगरी इति ठायान्तरप्रयोगः। मगरिगमपपधपध धसाससससनिधपस निधपमगरिसनिध इति गीतप्रयोगः । अस्य रागस्यारोहे निषादो नागच्छति ॥**  
 
-
 **॥ इति वेलावलीरागः ॥**
-
-
 
 **शुद्धाः स्युः सरिगाः शुद्धपञ्चमः शुद्धधैवतः ॥**
 
@@ -6702,10 +6051,7 @@ CITED DY TULAJA**
 
 **इति सुलादिप्रयोगः ॥**  
 
-
 **॥ इति वरालीरागः ॥**  
-
-
 
 **संगीतसारामृते**
 
@@ -6732,7 +6078,6 @@ CITED DY TULAJA**
 
 **इति सुलादिप्रयोगः ॥**  
 
-
 **॥ इतिरामक्रियारागः ॥**
 
 **रामक्रियामेलजो ऽयं संपूर्णो दीपकः स्मृतः ।**
@@ -6742,7 +6087,6 @@ CITED DY TULAJA**
 **अस्यारोहावरोहयोः स्वरगतिरवक्रा। अस्योदाहरणम्-सान्निधपधधपमा-**
 
 **पाप्प गगापमापा धधससरिरिगग रिरिससनिधधपप धपधरिसनीसास्स रीरीरीरीगाधापा इति रागवधनी । सानिपानिधप इत्यपि रागवर्धन्याम् । धनिसरिसनीसास्सा इत्यन्तिमन्यासः । रिरिसनिससा गगा ममा रिरिसनिरिसमारि-रिसनी गरिसनिधधपधानसरिसनिसा (इति ठाये) सारिगापप्पा रिगमगरिसा सारिगमपाधनिसरिगपाप्पा धधनी धनिधपसानिधप मपा गमपधा पमगरिसा निसरिगारिसनिधपा धपधनिसा निधमगरिससस्सा इति ठायप्रयोगः ॥**  
-
 
 **॥ इति दीपकरागः ॥**
 
@@ -6754,10 +6098,7 @@ CITED DY TULAJA**
 
 **काकल्यन्तरसंज्ञौच तैः स्वरैः सहितो मतः ॥**
 
-
-
 **रागविवेकप्रकरणम्**  
-
 
 **अस्मिन्मेले तु ये जाता उद्दिशामीह तान्क्रमात् ।**
 
@@ -6784,7 +6125,6 @@ CITED DY TULAJA**
 
 **निधपमपममगरि इति गीतान्तरप्रयोगः । सनिधपमगरिस इत्येको गीतान्तरप्रयोगः । सस्साधपमगरिसा इति प्रबन्धप्रयोगः । गमपसनीनीनीपामगरी सानीधपधपनीसा इति सुलादिप्रयोगः । अअअअअअअअआअम्बव एएए चरअंलतअदित तक्ककुदकुकुदरी अमितअअआआअअर्थप्रदाअअअअयका (?) इति शंकराभरणरागः ॥**  
 
-
 **शंकराभरणीयो यो मेलः स्यात्तज्ज आरभीः ।**
 
 **पूर्णः सांशग्रहन्यासः सायं गेयः शुभप्रदः ।**
@@ -6792,11 +6132,7 @@ CITED DY TULAJA**
 **अस्यारोहावरोहयोः स्वरगतिः संदर्भविशेषतया ऽऽगच्छति । अस्योदाहरणम्-साधा रीस मागरिसानी धनिस धधप पमपधनिधनिसरिमागरि रिसन्निधनीसास्सा इत्यायित्तप्रयोगः । पपमगरिगमपधनिस्सा इति तारषड्जतानप्रयोगः । साधानिसधधपपमगरिरिसनि इत्यवरोहे षड्जतानप्रयोगः । मगरिरिसनिधनिसा अस्मिन्ठाये, सनिधधपपममगरिरिसस्सा पमापममगरि गमपधनीसरीस इति ठायप्रयोगः । स म प ध नि स रि ग म प ध स सा  
 अ रिअ अ अ अ अ अ अ अ अ अ आ**  
 
-
-
-
 **संगीतसारामृते**  
-
 
 **स स रि स नि ध प मम प म ग रि स इति गीतप्रयोगः । म प ध स**
 
@@ -6807,7 +6143,6 @@ CITED DY TULAJA**
 **य ग ल सं निधि इनि इ ने दि रे डु न र वारि ई**
 
 **गरिरिस इति सुलादिप्रयोगः ॥**  
-
 
 **॥ इत्यारभीरागः ॥**
 
@@ -6821,9 +6156,7 @@ CITED DY TULAJA**
 
 **इति गीतान्तरप्रयोगः ।**  
 
-
 **॥ इति वसन्तरागः ॥**  
-
 
 **शंकराभरणाख्यानरागमेलसमुद्भवा ।**
 
@@ -6834,7 +6167,6 @@ CITED DY TULAJA**
 **स रि ग म ध प म ध ध स   स नि ध प म ग म रि रि सा इति**
 
 **वि द ल न स अ य क रे ए   ज य र घु ना अ य कु रे ए गीतप्रयागः।**  
-
 
 **इति सरस्वतीमनोहरीरागः॥**
 
@@ -6852,7 +6184,6 @@ CITED DY TULAJA**
          तं दु तो तो कि ता अ अ अ अ अ अ अ अ अ**
 
 **प्रयोगः।**  
-
 
 **॥ इति पूर्वगौलरागः ॥**
 
@@ -6872,9 +6203,7 @@ CITED DY TULAJA**
 
 **अस्यारोहे स्वरगतिर्विशेषसंदर्भतया ऽऽगच्छति, अवरोहे तु क्रमेणागच्छति। अस्योदाहरणम् --पामपमा मगरिससनि धनिसरिगमपा धधपधनिसा सनिधपमपा माम्मगरिसा सनिधनिसा धनिसरिसनिधप मपममाग्गरिसा सनिधनिसास्सा इत्युद्ग्रहप्रयोगः । सनिधपमप अस्मिन्ठाये धनिसरिमगरि-**  
 
-
 **संगीतसारामृते**  
-
 
 **गमपमगरि सनिधपमपइति प्रयोगः । पुनश्चास्मिन्ठाये मगरिसनिधपप-मगरिरिसस्सा इति प्रयोगान्तरम् । अटतालध्रुवम् । मपधधसाससनिधधप  
                                   
@@ -6902,7 +6231,6 @@ CITED DY TULAJA**
 **रागविवेकप्रकरणम्  
 गमपनिनीसा इत्युद्ग्रहप्रयोगः । रिससनिनि अस्मिन्ठाये सासनि सरिममग गमम धमपनीनीसा सनिपनिधधपा पममगरिगरिसासनिनी इति ठायप्रयोगः।**
 
-
 **॥ इति कुरञ्जीरागः ॥**
 
 **शंकराभरणीयो ऽयं मेलो ऽस्मिन्पूर्णचन्द्रिका ॥**
@@ -6910,7 +6238,6 @@ CITED DY TULAJA**
 **पूर्णेयं सग्रहा सांशा सायं गेया प्रकीर्तिता ।**
 
 **अस्यारोहावरोहयोः स्वरगतेरुदाहरणम् --सासरिसनि सानि पपसनिपम पमगमरिर्री ममपपसनि परिसरिनिसधनिपपरिसनीसास्सा इत्यायित्तप्रयोगः ।**  
-
 
 **॥ इति पूर्णचन्द्रिकारागः ॥**
 
@@ -6976,12 +6303,7 @@ CITED DY TULAJA**
 
 **अस्यारोहणी मनिवर्ज्या। रक्तिविधयैव तु मध्यमः क्वचिदागच्छति । संपूर्णमूर्च्छनायां तु सर्वथा नागच्छति । अस्योदाहरणम्-गपधससानिप पधनिपधपमगरिसा इत्युद्ग्रहप्रयोगः । सरिगमरिस धनिपपध्धधासा इति रागवर्धनीप्रयोगः । रागवर्धन्या येडुपिति नाम । धससा रिरिरि सरिरिरि इति रिषभस्थायिनि ठाये ममगम गमपप्पा गपधससानिप निनिधधा धपमपपम-**
 
-
-
 **रागविवेकप्रकरणम्**  
-
-
-
 
 **गरिसनिपा इति प्रयोगः ॥**
 
@@ -7012,11 +6334,9 @@ CITED DY TULAJA**
 **अस्यारोहेनिषादगांधारलङ्घनम् , अवरोहे क्रमेणागच्छति । उदाहरणम्
 -सास्सनिधप निनिधपमगरि रिमपनिनीध निसनिधपम पनिनिस इत्यायित्तप्रयोगः । पाधनिसरिममपा मपनिधपम मगरिसनिसा निसनिनिनिधपमाम्मा इति मध्यमस्थायिनि प्रथमताने प्रयोगः । पमगरिममपमगरि अस्मिन्ठाये रिमपनिनिनिसनिधपममगरि इत्येष प्रयोगो ऽस्ति । अस्मिन्नेव ठाये निधपमपधनिसा रिरिरिसनिधपममम्मगरिसनिसस्स गमपनिधपधानिस रिममागरिस निधपमापधनिसा निनिसस्सा निधपमगरिसनिधपा मपनिनिस**  
 
-
 **          **
 
 **                     संगीतसारामृते**  
-
 
 **निनिरिरिरिसासा सससरिममपनिनीसा इति गीतप्रयोगः । निनिन्निससनिनि धपमगमधधनिनी इति ग्रहस्वरखण्डः ।  
                  ॥ इति केदारगौलरागः ॥**
@@ -7026,7 +6346,6 @@ CITED DY TULAJA**
 **संपूर्णः सायमेवैष गेयः संगीतकोविदैः ॥**
 
 **अस्यारोहे स्वरगतिर्ऋजुतया नागच्छति, अवरोहे तु समविषमतया ऽऽगच्छति । उदाहरणम्-पामरि गमपमरिमगरिस रिगरि सरिसनिधप धसरिमगरि मपधपससा निधपधपमग पमगा मगरिसारिसनिपधससरि इत्युद्ग्रहप्रयोगः । रिमगरिस रिर्री धसरिमगरि गरिसरिरी अस्मिन्ठाये धसरिमगपधपमगरि सरिगरिसरिरी सानिधपा धपमगरिसरिरि इति ठायप्रयोगः ।**  
-
 
 **॥ इति बलहंसरागः ॥**
 
@@ -7041,7 +6360,6 @@ CITED DY TULAJA**
 
 **रुतेरलुंकुमअअरु   किलकमठरुकोटल**  
 
-
 **॥ इति नागध्वनिरागः ॥**
 
 **छायातरङ्गिणीरागः काम्भोजीमेलसंभवः ॥  
@@ -7050,17 +6368,12 @@ CITED DY TULAJA**
 **अस्यारोहावरोहयोः स्वरगतिरवक्रतया ऽऽगच्छति । उदाहरणम्-मागरिससनिसरिममपपनिधपमपा मपममगरिसा निसनिनिधपम पधनिपम पधनिपम निनिस्सासरी रिपममगरिसाससनीसरिनीसरीमगरिस इति द्वितीयरागवर्धन्यां प्रयोगः । ममपप्पधनिसापाधनिसासा अस्मिन्गीत एव सासससस  
 श्रीइ इ इ इ**
 
-
-
 **रागविवेप्रकरणम्  
 **
-
-
 
 **स नि ध प म ग रि स इति प्रयोगः ।**
 
 **मु नि स ति य य अ अ**  
-
 
 **॥ इति च्छायातरङ्गिणीरागः ॥**
 
@@ -7074,14 +6387,12 @@ CITED DY TULAJA**
 
 **अस्यारोहे गांधारनिषादलङ्घनसहितविशेषसंदर्भतया स्वरगतिरागच्छति, अवरोहे ऋजुतया ऽऽगच्छति । उदाहरणम् -सरिमपधप निधप धधस्सा निधधपमगरिगरीरिसा । अस्मिन्रागे दरुपदानां प्रयोगाः सन्ति ॥**  
 
-
 **॥ इति येरुकलकाम्भोजिः ॥**
 
 **पूर्णो नाटुकुरञ्ज्याख्यकाम्भोजीमेलजो मतः ॥  
 सन्यासांशग्रहः सायं गेयः संगीतकोविदैः ।**
 
 **अस्यारोहावरोहयोः पञ्चमलङ्घनम् । रक्तिलाभाय कचित्पञ्चम आगच्छति । उदाहरणम् -सान्निवनिस निसरिगामरिसनिध निसनि पधा निधमगस मगमनिधनिस निसरिगामरिस निसनिपधा निधनिसास्सा एवमादिप्रयोगः ॥**  
-
 
 **॥ इति नाटुकुरञ्जीरागः ॥**
 
@@ -7091,7 +6402,6 @@ CITED DY TULAJA**
 
 **अस्यारोहावरोहयोः स्वरगतिः समविषमतया ऽऽगच्छति । उदाहरणम् - सास्सनिस रीससनिस धापममा गामगरिसा मगमपमा धानिसानिरीसनिसा धापमधानिसनीरीसा इत्यालापप्रयोगः । सरिगमपधनिसरिनिस इत्यादि गीतप्रयोगः।**  
 
-
 **\।\। इति कन्नडरागः ॥**
 
 **नटनारायणीरागः काम्भोजीमेलसंभवः ॥**
@@ -7100,17 +6410,13 @@ CITED DY TULAJA**
 
 **अस्यारोहे गांधारो नागच्छति । स्वरगतेरुदाहरणम् -पामपमगरि मगरिगारिरी पधधरिसरि मपधपम पधधास्सा धसधधपमप ममगरि गरिरी इत्युद्ग्रहप्रयोगः । सधधसस्सा धसस्सा अस्मिन्षड्जस्थायिनि ठाये पाधससरिरि**
 
-
-
 **संगीतसारामृते**  
-
 
 **मगरि गरिरि ममपपधधसास धसधधपम पममगरिगरिरि इति प्रयोगः । सरिसरिमपा
 मपधससरि मापगरिस्सरिगगरि धसध्धधपपममगगरिरिस अअअअअआ अअअअअअ 
 कोदंडखण्डनुरे  दशग्रीववधिइइइइइइरु**
 
 **इति गीतप्रयोगः ॥**  
-
 
 **॥ इति नटनारायणीरागः ॥**
 
@@ -7119,7 +6425,6 @@ CITED DY TULAJA**
 **षाडवा सग्रहन्यासा सायंकाले प्रगीयते ।**
 
 **अस्यारोहे षड्जादिमपर्यन्त एव गांधार आगच्छति, अन्यत्र नागच्छति । उदाहरणम् -निसरिगम रिममप मपनिनीस्स इत्युद्ग्रहप्रयोगः । सास्सनिप पनिप पममरि गमरिसा इत्यवरोहिषड्जतानः । पमरिगमम्म रिमप पनिपपमरिगमम्म रिममपनिनिस निपपनिपपमरिगमम्म इति ठायप्रयोगः । पनिसरिगमरिसनिससनिपपमरिगमरिस इति गीतप्रयोगः ।**  
-
 
 **इत्यान्धालीरागः ।**
 
@@ -7131,16 +6436,13 @@ CITED DY TULAJA**
 धसा स ध प म ग रि स  रि म मा । इति गीतप्रयोगः ।          
    सु जो न म ओ ओओ     ओ पं धा**  
 
-
 **॥ इति सामरागः ॥**
 
 **रागः काम्भोजिमेलोत्थो मोहनाख्यो निवर्जितः ।**
 
 **षाडवः सग्रहन्यासः सायं गेयो ऽतिरक्तिदः ॥**  
 
-
 **अस्याल्पो मध्यमः । आरोहावरोहयोः स्वरगतेरुदाहरणम्-साधप धसरिग रिगमगगरि गरिरीसधपधधसा एवंप्रकारेणालापप्रयोगः ।**  
-
 
 **॥ इति मोहनरागः ॥**
 
@@ -7148,16 +6450,9 @@ CITED DY TULAJA**
 
 **निगलोपादौडुवासग्रहांशा गीयते सदा ॥**
 
-
-
-
-
 **रागविवेकप्रकरणम्**  
 
-
-
 **अस्यारोहावरोहयोः स्वरगतिरवक्रसंदर्भा । उदाहरणम्---पममम्मरिस रिसधससमरिम ससपमप धधस्सा धसधधपमरिसा रिसधसा इति तारषड्जतानप्रयोगः । सधमपप्पा इति ठायप्रयोगः ।**  
-
 
 **॥ इति देवक्रियारागः ॥**
 
@@ -7165,9 +6460,7 @@ CITED DY TULAJA**
 
 **मनिवर्ज्यादौडुवा सग्रहा सायं प्रगीयते ॥**  
 
-
 **अस्यारोहावरोहयोः स्वरगतिर्वक्रा। अस्या उदाहरणम्-सार्रिसधपा धसरिग रिगपगपधस्साधपधसधप धपगरि गपगधपध गपगधपगा पगरिगरिरीसा एवंप्रकारेणास्य रागस्य स्वरगतिः ।**  
-
 
 **॥ इति मोहनकल्याणीरागः ॥**
 
@@ -7193,23 +6486,15 @@ CITED DY TULAJA**
 
 **संपूर्णस्वरसंयुक्तः सायंकाले प्रगीयते ॥**  
 
-
 **अस्य रागस्यारोहावरोहयोः स्वरगतेरुदाहरणम्-गारिसा सरिसस-निनिधपधनिधपम पमपधनि पधनिसा निसगम गमनिनिधनि पाधनिसनि निस्सा पधनिसनिनिध पधनि पधधपम गमगगरिसा इत्युद्ग्रहप्रयोगः । गगरि-सनिस गरिसनिस इति षड्जस्थायिनि ठाये गरिस सरिसनि निधनिपधपम पधनिपधनि धनिसगगमगरिस गगमगमपधपम मपमपग गगमगरिस इति प्रयोगः । सरिगमपधनिस पधनिधपमगरिसनिसा इति गीतप्रयोगः । सगगमगरिसनिध सनिन्निधधधापम इति प्रबन्धप्रयोगः । प ध नि स ग ग  
                                    
    कु ल ल ज न आ**  
 
-
-
-
 **संगीतसारामृते**  
-
-
-
 
 **म प म ग रि सा ग रि स रि स नि प ध नि      इति सुलादिप्रयोगः ।**
 
 **र अ घि स अ धि क म अ अ अ अ अ ल व**  
-
 
 **॥ इति भैरवीरागः ॥**
 
@@ -7217,13 +6502,10 @@ CITED DY TULAJA**
 
 **संपूर्णा सग्रहन्यासा सायं सेयं प्रगीयते ॥**  
 
-
 **अस्य रागस्यारोहावरोहयोः स्वरगतिरवक्रसंदर्भतया ऽऽगच्छति । उदाहरणम्-मागरिसनिसरिरिसागगरिगमपधधपपसास्सनिधधप मपधपपमगरिसनिसाइत्युद्ग्रहप्रयोगः । पपमगरिसनिस मपधपपमगरिसानिसा धधपगमप ससानिधपमपधपपमगरिसनिसा इतिठायप्रयोगः ।**
 
 **स सम ग रि सा स  
 पदु म अ य वि म**
-
-
 
 **म  म प प ग म प नि सरि सनि ध प म प ग रि स सा  
 इति**
@@ -7232,13 +6514,11 @@ CITED DY TULAJA**
 
 **गीतप्रयोगः । सापप्पामपधपपमगगरिगमग रिरिसनि सासा सानीध मापधपप मगरिसाइति प्रबन्धस्वरखण्डः ।**  
 
-
 **॥ इत्याहरीरागः ॥**
 
 **भैरवीमेलजो घण्टारवोरागाङ्गमीरितः ।**
 
 **धन्यासांशग्रहः पूर्णः सर्वदा ऽप्येष गीयते ॥**  
-
 
 **अस्य रागस्यारोहावरोहयोः स्वरगतिरवक्रसंदर्भवती । उदाहरणम्- पामपगरिसगरिनिस गरिगमप निधपनीसा निसनिधपामपनिधप पमपमगरिसगरिनिसास्साइत्युद्ग्रहप्रयोगः'। गरिनिसस्सा निसस्सा इति ठायप्रयोगः ।**
 
@@ -7250,26 +6530,17 @@ CITED DY TULAJA**
 
 **रुककपिजन  अए अए**  
 
-
 **॥ इति घण्टारवरागः ॥**
 
 **इन्दुघण्टारवो रागो भैरवीमेलसंभवः ।**
 
 **सन्यासांशग्रहः पूर्णः सर्वयामेषु गीयते ॥**  
 
-
 **अस्यारोहे धैवतलङ्घनम् , अवरोहे रिषभलङ्घनमिति कृत्वा पधनिसेत्यहारोहे मगरिसेत्यवरोहे नागच्छति । उदाहरणम्-सानिधपम पनिसा**
-
-
-
-
 
 **रागविवेकप्रकरणम्**  
 
-
-
 **निसरिरिगमगगसारिगमपधपमपनीसा निसनिधपमाम्मगरिमगस इत्युद्ग्रहप्रयोगः । सनिधपमप निसरिस सनिधपमप इति ठायप्रयोगः ।**  
-
 
 **॥ इतीन्दुघण्टारवरागः ॥**
 
@@ -7291,13 +6562,11 @@ CITED DY TULAJA**
 
 **अ ल्ल यदे**  
 
-
 **॥ इति रीतिगौलरागः ॥**
 
 **हिन्दोलाद्यवसन्तो ऽयं भैरवीमेलसंभवः ॥**
 
 **संपूर्णः सग्रहन्यासः सर्वदा ऽप्येषगीयते ।**  
-
 
 **अस्यारोहणी पञ्चमपर्यन्तमृजुतया नागच्छति तदुपरि ऋजुतया ssगच्छति, अवरोहिणी पञ्चमपर्यन्तमृजुतया ऽऽगच्छति ततोऽर्वाङ्नागच्छति । उदाहरणम्-सास्सनिध सनिध पधपधनिनिधम पाधमगस गमपाध पधससमागस मगरिगसस मगस सनिधपधसास्स इत्यायित्तप्रयोगः । पधानीसास गागामागामप्पधधनिधममगस इति तारषड्जताने प्रयोगः । ससनिधपधसस्सा ससगसमगस मगरिगसा इति ठाये प्रयोगः ।म
 ग रि ग स  
@@ -7308,25 +6577,17 @@ CITED DY TULAJA**
 
 **र्ग व सुद अ र स अ त ट र सु             क अ र व गं**  
 
-
-
-
 **संगीतसारामृते**  
-
-
-
 
 **नि ध ध नि ध म ग स इति सुलादिप्रयोगः ।**
 
 **ठ इ इ र स अ ल दे**  
-
 
 **। इति हिन्दोलवसन्तरागः ॥**
 
 **आनन्दभैरवीरागो भैरवीमेलसंभवः ॥**
 
 **पूर्णः षड्जग्रहन्यासः सायमेष प्रगीयते ।**  
-
 
 **अस्यारोहावरोहयोः स्वरा ऋजुतया न चरन्ति, जटिलतया संचरन्ति । उदाहरणम्
 -पधपमप ममगगरिसनिनिस गगसापापसास निनिध धपमप मगगरिस निनिसमगास्सा इति तारषड्जताने प्रयोगः । गगरिसनिनिस गरिसनिनिस गगमगमगसा इति ठाये प्रयोगः । म मग रि ग रि स  
@@ -7340,18 +6601,15 @@ CITED DY TULAJA**
 
 **स सा  र घु तट र अ आवअ ए**  
 
-
 **॥ इत्यानन्दभैरवीरागः ॥**
 
 **आभेरिरागः संपूर्णो भैरवीरागमेलजः ॥**
 
 **सांशः पञ्चमभाषायां सायंकालेप्रगीयते ।**  
 
-
 **अस्यारोहवरोहयोः स्वरगतिर्विशेषसंदर्भतया ऽऽगच्छति । उदाहरणम्-**
 
 **गमपसस रिसनिस निधपामगम पससाम मममम ममगगसनिसास्स इत्यायित्तप्रयोगः । पाममगगससा सामगमपासनिनि पपममगगससा निनिपपगमगमपससा इत्युद्ग्रहप्रयोगः । सानिधपम पममममगसस इत्यवरोहितानप्रयोगः । ससनिप सनिनिप पससनिसा निसानिनिपा इति ठाये प्रयोगः । सससममप ससानिधपममाममगरिसा इति गीतप्रयोगः । अयं घनमात्रयोग्यः ।**  
-
 
 **॥ इत्याभेरीरागः ॥**
 
@@ -7359,13 +6617,9 @@ CITED DY TULAJA**
 
 **संपूर्णा सग्रहन्यासा प्रातरेषा प्रगीयते ।**  
 
-
 **अस्यारोहावरोहयोः संदर्भविशेषतया चरन्ति स्वराः । उदाहरणम् - सानीधपमपनीधपनीपसा गारिगमगरिसरिनीस निधपमपन्निसा मापनि सरिगमपनिधपमगरिसनि रिसनिधपमपनीसा इति गीतप्रयोगः।**  
 
-
 **॥ इति नागगांधारीरागः ॥**
-
-
 
 **रागविवेकप्रकरणम्  
 **
@@ -7374,9 +6628,7 @@ CITED DY TULAJA**
 
 **सन्यासांशग्रहा प्रातर्गेया संगीतकोविदैः ।**  
 
-
 **अस्य रागस्यारोहावरोहयोः स्वरगतिरवक्रा । उदाहरणम् - सानिधपमगा पमगरिसा गमपनीधपनीस्सा इत्याद्यालापः । पदानि दरवश्च बहवः सन्ति ।**  
-
 
 **॥ इति धन्यासीरागः ॥**
 
@@ -7384,9 +6636,7 @@ CITED DY TULAJA**
 
 **औडुवः सर्वदा गेयः संगीतागमकोविदैः ।**  
 
-
 **अस्य रागस्यारोहावरोहयोः स्वरगतिरवक्रा। उदाहरणम् -गासनिधनिस गसगगम मधम गमधनिनिस्सा निधमा मधममगसा इत्युद्ग्रहे प्रयोगः । निनिधममगम निधममगम इति ठाये प्रयोगः । सगगमगगमा निनिस निन्निधममगसा इति गीतप्रयोगः ॥**  
-
 
 **॥ इति हिन्दोलरागः ॥**
 
@@ -7410,13 +6660,9 @@ CITED DY TULAJA**
 
 **शुद्धसाधारित इति तुलजेन्द्रेण निश्चितः ।**  
 
-
 **अस्मिन् रागे रिषभगांधारधैवतनिषादा अस्यां मध्यमेलाख्यवीणायां किंचिन्न्यूनध्वनिका दृश्यन्ते, किंचिदुच्चध्वनिका अपेक्षिताः । अस्यारोहावरोहयोः स्वरगतेरुदाहरणम्-गरिरीन्निधसास्सा निधमपधनि पानिधामागारि रिमापा निधामा पधनिपधनिपा रिरिमगरिसरिगरिनिधसास्स इति प्रथमरागवर्धन्यपरपर्याय आयित्तप्रयोगः । गरिरिनिध सस्सा अस्मिन्ठाये रिमप रिमपनिधम धधनिपधनिसा रिरिमगरिसा रिमपन्निधम सान्निधम पाधान्नी निनिधमगरिसा गरिरिनिधसा इति प्रयोगः ।**
 
-
-
 **संगीतसारामृते**  
-
 
 **रि स्स नि ध प म ध्ध निनि ध मप प म ग रि सा**
 
@@ -7436,7 +6682,6 @@ CITED DY TULAJA**
 
 **इति सुलादिप्रयोगः।**  
 
-
 **॥ इति मुखारीरागः ॥**
 
 **शुद्धाः स्युः षड्जरिमपा गांध रो ऽन्तरसंज्ञकः ॥**
@@ -7451,7 +6696,6 @@ CITED DY TULAJA**
 
 **स्वमेलजा दिनस्यान्ते गेया संगीतकोविदैः ।**  
 
-
 **अस्यारोहावरोहयोः स्वरगतिरवक्रा। अस्योदाहरणम् –सान्निधनिसनिधनिधपमगमाम्म गमनिधपमगमागरिस गमपधनिधपम गमनिधनिसरिस मगरिसनिध निधपमगमस्सा इत्यायित्तप्रयोगः । निधपमगमम्म निधनिस निधपमगमम्मा इति ठायप्रयोगः ।**
 
 **स रि ग म प ध नि ध पप मगमम्म  
@@ -7460,7 +6704,6 @@ CITED DY TULAJA**
 **स नि ध पम ग रि सा इति गीतप्रयोगः ।**
 
 **मं ट अरे ए रे ए रे**  
-
 
 **॥ इति वंगवाहिनीरागः ॥**
 
@@ -7476,24 +6719,17 @@ CITED DY TULAJA**
 
 **सायंकाले तु गातव्यः स्वमेलोत्थो ह्ययं बुधैः ॥**
 
-
-
 **रागविवेकप्रकरणम्**  
-
-
-
 
 **अस्यारोहावरोहयोः स्वरगतेरुदाहरणम्-आरोहे पञ्चमलङ्घनम् , अवरोहे रिषभलङ्घनम् । सरिगगम ममपध मध्धधानिनीसा इत्युद्ग्रहप्रयोगः।**
 
 **सास्सनिध धनिधध मधध पममप गसरि सनिधध माधाधानीसारी गगममधध निनिसाधधपममप गसरिनिसधध मध्धधानीनीस्स इत्यवरोहिषड्जतानप्रयोगः । पममप रिरिग ममध पममप रिरिग इति ठायप्रयोगः । गसरिगममधधमधधनिनिसा इति गीते स्वरखण्डः ।**  
-
 
 **॥ इति सिन्धुरामक्रिरागः ॥**
 
 **षड्जग्रहांशकन्यासा पूर्णा पन्तुवरालिका ।**
 
 **सर्वदेयं प्रगातव्या सिन्धुरामक्रिमेलजा ॥**  
-
 
 **अस्यारोहावरोहयोः स्वरगतिरवक्रा। उदाहरणम्-सरिगमपधनिधनीस्सनिधपमगरिसा रिगारिरिसा गरिनिधनिस्सा इत्यालापः । धपमपधनि गरिनिधपमगरिसा इति गीतप्रयोगः ॥  
 ॥ इति पन्तुवरालीरागः ॥**
@@ -7507,7 +6743,6 @@ CITED DY TULAJA**
 **हेजिज्जिरागः संपूर्णो यामेऽह्नोगीयते ऽन्तिमे ।**
 
 **षड्जग्रहांशकन्यासः स्वमेलोत्थो मतः सताम् ॥**  
-
 
 **अस्यारोहावरोहयोः स्वरगतेरुदाहरणम्-साध्धसरिस निधप धधपम गमाप्पा गमपमगगारिसा रिगम गमपध धनिधधपम गमपधधस्सा धसरिग रिरिगरिस रिरिस निधपधसस्सा इत्यायित्तप्रयोगः । धधपम गमपप्प अस्मिन्ठाये सारिगमपा धसनिधप इति प्रयोगो ऽस्ति । धरिसनिधपममगरिगरिस इति गीतप्रयोगः ।  
 ॥ इति हेजिज्जीरागः ॥**
@@ -7524,14 +6759,9 @@ CITED DY TULAJA**
 
 **षड्जग्रहांशकन्यासः सायमेष प्रगीयते ॥**  
 
-
-
-
 **संगीतसारामृते**  
 
-
 **अस्यारोहे गांधारलङ्घनम् , इतरे सरलतया ऽऽगच्छन्ति । उदाहरणम्-धससरि रिममप पधप निधधपपा धपमपमगरिरिगसगरिरिसनीसा इत्युद्ग्रहप्रयोगः । धनिघपममम्मघधसनिध निसा धनिधप ममम्म इति ठागप्रयोगः।**  
-
 
 **॥ इति सामवरालीरागः ॥**
 
@@ -7539,16 +6769,13 @@ CITED DY TULAJA**
 
 **संपूर्णः सग्रहन्यासः सायंकाले प्रगीयते ॥**  
 
-
 **अस्यारोहावरोहयोः स्वरगतिर्दूरसंगतिका । उदाहरणम्-पागागारीरीसा रिगधससा सनिसा गापपा ससधप गरिरिसास्स इति तारषड्जतानप्रयोगः।**  
-
 
 **॥ इति गांधारपञ्चमरागः ॥**
 
 **मेलात्सामवराल्यास्तुजातो ऽयं भिन्नपञ्चमः ।**
 
 **संपूर्णः सग्रहः सांशः सायमेष प्रगीयते ॥**  
-
 
 **अस्यारोहावरोहयोः स्वराणां दूरसंगतिः । उदाहरणम्-सानिरि सरिगागगगधपामपगसीरीरसधधनिस धामप गगप गगरिरिसारि धनिरिसास्स इति तारषड्जताने प्रयोगः । ससनिस धाधध धपपाधप निसानिसास्स इत्यवरोहिषड्जताने प्रयोगः।  
 ॥ इति भिन्नपञ्चमरागः ॥**
@@ -7563,14 +6790,9 @@ CITED DY TULAJA**
 
 **वसन्तभैरव्येतस्मिंस्तथा ललितपञ्चमः ।**  
 
-
 **अस्मिन् राग आरोहे सरिगमेति नागच्छति, अवरोहे पवर्ज्यम् । उदाहरणम्-रीरीसनिध निधम निनिससा सममम निधमसास्स निधनिसा निनिधम मपममगरिरिसा निनिधमगा मधमधनिसा गमपमागरीरिस रिरिसा धनिनिसास्सइति तारषड्जतानप्रयोगः । रिरिरिसनिधनि रिरिसनिधनि अस्मिन् ठोये मधनिस मगरिरिरिस मानिधम गमपमागा रिरिरिसा निसा इति प्रयोगो ऽस्ति ।**
 
-
-
 **रागविवेकप्रकरणम्**  
-
-
 
 **नि ध नि सा रि स रि ग मा  ग म प म ग मा धा नि सा सा नि नि**
 
@@ -7580,16 +6802,13 @@ CITED DY TULAJA**
 
 **थ न गिरिधी इ र**  
 
-
 **॥ इति वसन्तभैरवीरागः ॥**
 
 **वसन्तभैरवीमेलजातो ललितपञ्चमः ॥**
 
 **संपूर्णः सग्रहन्यासः प्रातर्गेयः शुभप्रदः ।**  
 
-
 **अस्यारोहावरोहयोः स्वरगतेरुदाहरणम्-सरिगमधपम धानीसा सनिधापमगमागरिसा इत्यालापप्रयोगः । अस्मिन् रागे दरवः श्लोकवर्णा बहवः सन्ति ।**  
-
 
 **॥ इति ललितपञ्चमरागः ॥**
 
@@ -7605,7 +6824,6 @@ CITED DY TULAJA**
 
 **रिन्यासः प्रथमे यामे गेयो ऽह्नोगीतवेदिभिः ।**  
 
-
 **अस्यारोहावरोहयोः स्वरगतेरुदाहरणम्-गगगरिसरि मपधधपाप्पम पमगरिस इति येडुपुप्रयोगः । साधसा रिगगगरि पामपधनिसा ससानिधप पधपधपमा गगगरि सरिसरिसध रिरिसनिस्सा इति तारषड्जतानप्रयोगः । गरिसरिसनि धपध अस्मिन् ठाये निसरिगरिगमागगगरि इत्येकः प्रयोगः । गरिसरिगम पमगगगरि इति द्वितीयः प्रयोगः । सनिधपप धधपमगगरिस गगरिगरिमपधप धनिसा इत्येकठायप्रयोगः ॥**
 
 **ध ध प ध नि स रि गरि स  ध प ध प म प ध प नि सा सा**
@@ -7614,21 +6832,15 @@ CITED DY TULAJA**
 
 **इत्येकगीतप्रयोगः । धगगागसनिधपमगरिस इत्यम्यगीतप्रयोगः ।**  
 
-
 **॥ इति भिन्नषड्जरागः ॥**
 
 **भूपालो भिन्नषड्जीयमेलोत्थो मनिवर्जितः ॥**
 
 **औडुवः सग्रहांशश्च प्रातर्गेयः शुभप्रदः ।**  
 
-
 **संगीतसारामृते**  
 
-
-
-
 **अस्यारोहावरोहयोः स्वरसंचारस्योदाहरणम्-ससरिगगरि गधधपाप धपगा पधधस्सा धपपधपगगारि इत्युद्ग्रहप्रयोगः । गरिसरिरिसध पधसरिग रिसरिरिसध इति ठायप्रयोगः । गपधसधध पगगरिरिस ? नरसिंह भवतेएभरदिहनुमनितहरगवदआअटि इति गीतप्रयोगः । गपधसससधप धधपग रिगरिस इति सुलादिप्रयोगः ।**  
-
 
 **॥ इति भूपालरागः ॥  
 शुद्धाः स्युः समपा यत्र रिषभः षट्श्रुतिस्तथा ॥**
@@ -7643,7 +6855,6 @@ CITED DY TULAJA**
 
 **सन्यासः प्रातःकाले तु गेयः संगीतकोविदैः ।**  
 
-
 **अस्यारोहावरोहयोः स्वरसंचारस्योदाहरणम् --गपाधसा मममरि सससनि पधरिपाधसनिपपममरिस इत्युद्ग्रहप्रयोगः । रिससनिध सस्सा धधपधसस्स इत्येकस्मिन् ठाये प्रयोगः । धसनिपममरि पधनिसरिसनि धसनिपमगरि इति ठायान्तरप्रयोगः ।**
 
 **ग प ध स्ससस स्स ध स सरि स नि ध सा स्स**
@@ -7656,7 +6867,6 @@ CITED DY TULAJA**
 
 **तो डि द यं दं दं दं त घि मि कि ट अं गिं जिं गि**  
 
-
 **॥ इति देशाक्षीरागः ॥  
 समपाः स्युस्त्रयः शुद्धाः षट्श्रुत्यृषभसंज्ञकः ॥**
 
@@ -7668,12 +6878,7 @@ CITED DY TULAJA**
 
 **उपाङ्गं सायमेवैष गेयः संगीतकोविदैः ।**  
 
-
-
-
 **रागविवेकप्रकरणम्**
-
-
 
 **अस्यारोहावरोहयोः स्वरगतेरुदाहरणम् –रिगमपधनिप धनीस्सा सनिधनिपा पमरिगमरिस सनिनिपनिनीस्सा इत्यालापप्रयोगः ।  
 इतिच्छायानाटरागः ॥**
@@ -7710,12 +6915,9 @@ CITED DY TULAJA**
 
 **संपूर्णो राग एवायं विट्ठलेनैवमीरणात् ।**  
 
-
 **इति श्रीराजाधिराजभोसलकुलतिलकतुलजामहाराजविरचिते  
 संगीतसारामृते रागविवेकप्रकरणं  
 दशमम्**
-
-
 
 **अथ वाद्यप्रकरणम् (११)  
 वीणापाणिं शिवं नत्वा तुलजानृपचन्द्रमाः ।**
@@ -7748,9 +6950,7 @@ CITED DY TULAJA**
 
 **अत्रापि श्रुतिबोधस्योपायः कश्चिन्मयोच्यते ।**  
 
-
 **अत्र सूक्ष्मबुद्धयः अस्यामपि स्वरवीणायां दण्डादिषु स्वरप्रदेशानां चतुःसंख्याकादिकान् भागाञ्श्रुतीनां न्यूनाधिकभावो यथा न भवति तथा चिह्नितान् कृत्वा तीव्रादिसंज्ञिकाः श्रुतीराविर्भावयितुं शक्नुवन्तीति । तदुक्तं रत्नाकरे**  
-
 
 **ततं वीणा द्विधा सा च श्रुतिस्वरविवेचनात् ।**
 
@@ -7762,10 +6962,7 @@ CITED DY TULAJA**
 **' इति ।  
 इयं पुनर्बहुविधा ह्येकतन्त्र्यादिभेदतः ।**
 
-
 **वाद्यप्रकरणम्**
-
-
 
 **यथोकं रत्नाकरे**  
 **तद्भेदास्त्वेकतन्त्री स्यान्नकुला च त्रितन्त्रिका ।**
@@ -7822,10 +7019,7 @@ CITED DY TULAJA**
 
 **उत्पाते संभ्रमे युद्धे नाटके वीररौद्रिणि ।**
 
-
-
 **संगीतसारामृते**  
-
 
 **सर्वातोद्यानि वाद्यन्ते कानिचित्तल्पमङ्गले ।**
 
@@ -7886,13 +7080,7 @@ CITED DY TULAJA**
 
 **अन्वितां पत्रिकां मिश्रलोहजां द्व्यङ्गुलायताम् ॥**
 
-
-
-
-
 **वाद्यप्रकरणम्**  
-
-
 
 **चतुरङ्गुलदैर्घ्यांच मध्ये कूर्मोन्नतां बहिः ।**
 
@@ -7954,11 +7142,7 @@ CITED DY TULAJA**
 
 **संदिग्धपत्रिका तन्त्रीश्लेषं क्षेप्या कला च सा ॥**
 
-
-
 **संगीतसारामृते**
-
-
 
 **या पकवेणुवल्कोत्था दोरिका त्रिवृता शुभा ।**
 
@@ -7984,9 +7168,7 @@ CITED DY TULAJA**
 
 **सर्वदेवमयी तस्माद्वीणेयं सर्वमङ्गला ॥**  
 
-
 **अथ वीणाया धारणप्रकारः**  
-
 
 **अधस्तुम्बमधोवक्त्रमूर्ध्वं तन्त्री यथा भवेत् ।**
 
@@ -8018,12 +7200,7 @@ CITED DY TULAJA**
 
 **स्वरस्थाने कम्पनेन कम्पिता कम्रिकोच्यते ॥**  
 
-
-
-
 **वाद्यप्रकरणम्**
-
-
 
 **घातः पातश्च संलेखस्ततोल्लेखावलेखकौ।**
 
@@ -8076,11 +7253,7 @@ CITED DY TULAJA**
 **हननाच्छिन्नमाचष्ट श्रीमत्सोढलनन्दनः ॥  
 ॥ इति च्छिन्नः॥**
 
-
-
 **संगीतसारामृते**
-
-
 
 **क्रमाद् द्रुतं नखैर्घातश्चतुर्भिर्नखकर्तरी ।  
 ॥ इति नखकर्तरी ॥  
@@ -8109,8 +7282,6 @@ CITED DY TULAJA**
 
 **अङ्गुलीभिश्च तिसृभिः क्रमेण करयोर्द्वयोः ।**
 
-
-
 **बहिस्तन्त्रीहतिस्तूर्णं कर्तरी कीर्तिता बुधैः ॥  
 ॥ इति कर्तरी ॥**
 
@@ -8129,11 +7300,7 @@ CITED DY TULAJA**
 **निहन्ति कर्तरी तु स्याद्दक्षिणः स्खलितस्तदा ॥  
 ॥ इति स्खलितः ॥**
 
-
-
 **वाद्यप्रकरणम्**  
-
-
 
 **तन्त्रीकर्षो ऽङ्गुष्ठतर्जन्यमाभ्यां शुकवक्त्रकः ।  
 ॥ इति शुक्रवक्त्रः ॥**
@@ -8184,10 +7351,7 @@ CITED DY TULAJA**
 **उल्लेखरेफौ यत्रास्तां धारां ब्रूते हरप्रियः ॥  
 ॥ इति धारा ॥**
 
-
-
 **संगीतसारामृते**  
-
 
 **शुकवक्त्रः स्फुरितको घोषः स्यादर्धकर्तरी ।**
 
@@ -8236,13 +7400,7 @@ CITED DY TULAJA**
 
 **आदोरिकं पत्रिकं चेत्तर्जनीस्पर्शवर्जितम्॥**
 
-
-
-
-
 **वाद्यप्रकरणम्**  
-
-
 
 **सार्यते कम्रिकावाद्यं तदाहुः सकलाभिधम् ।**
 
@@ -8295,8 +7453,6 @@ CITED DY TULAJA**
 **तृतीयायां तन्त्रिकायां मध्यषड्जं निवेशयेत् ।**
 
 **मध्यमध्यमनामानं तुरीयायां निवेशयेत् ॥**  
-
-
 
 **संगीतसारामृते**
 
@@ -8356,12 +7512,7 @@ CITED DY TULAJA**
 
 **तदने सप्त पर्वाणि यथायोगं निवेशयेत्॥**  
 
-
-
-
 **वाद्यप्रकरणम्**
-
-
 
 **तेषां प्रवाले दीर्घाणि त्रीणि पर्वाणि विन्यसेत् ।**
 
@@ -8417,12 +7568,7 @@ CITED DY TULAJA**
 
 **निरूपयामः स्थानानि स्वरांस्त्रेधा विभाव्य च ॥**
 
-
-
-
 **संगीतसारामृते**
-
-
 
 **तत्रोपरि स्थितानां तु वामे चतसृणामपि ।**
 
@@ -8480,12 +7626,7 @@ CITED DY TULAJA**
 
 **ग्राह्यास्ततोऽनुमन्द्राख्यस्थानगाः सप्त दर्शिताः ॥**  
 
-
-
-
 **वाद्यप्रकरणम्**
-
-
 
 **स्वरास्तन्त्र्यांतृतीयायां मन्द्रषड्जो निवेश्यते ।**
 
@@ -8541,11 +7682,7 @@ CITED DY TULAJA**
 
 **द्वितीया तन्त्रिका ज्ञेया मध्यपञ्चमसंमिता ॥्**
 
-
-
 **संगीतसारामृते**
-
-
 
 **तृतीया मध्यषड्जेन संमिता झिल्लिकाऽभिधा ।**
 
@@ -8603,12 +7740,7 @@ CITED DY TULAJA**
 
 **तदूर्ध्वंसप्त पर्वाणि विनिवेश्यानि तेष्वथ ॥**  
 
-
-
-
 **वाद्यप्रकरणम्**
-
-
 
 **आद्यं तु दीर्घपर्व स्यात्प्रवाले तारषड्जकम् ।**
 
@@ -8666,12 +7798,7 @@ CITED DY TULAJA**
 
 **मध्यमेलाख्यवीणायां तिस्रः स्थानविभाजने ॥**  
 
-
-
-
 **संगीतसारामृते**
-
-
 
 **वरास्तद्रक्तिलाभाय तां निबध्नन्ति वैणिकाः ।**
 
@@ -8729,12 +7856,7 @@ CITED DY TULAJA**
 
 **उच्चोच्चतरनादिन्यश्चतस्रःखलु तन्त्रिकाः ॥**
 
-
-
-
 **वाद्यप्रकरणम्**
-
-
 
 **द्वितीयतुर्ययोस्तासु द्वयोस्तन्त्रिकयोरपि।**
 
@@ -8792,10 +7914,7 @@ CITED DY TULAJA**
 
 **तत्पुनः संप्रदायज्ञैस्तानप्पाद्यैरनादृतम् ॥**
 
-
 **संगीतसारामृते**
-
-
 
 **यद्येवं मध्यताराख्यस्थानगैरेव तु स्वरैः ।**
 
@@ -8853,11 +7972,7 @@ CITED DY TULAJA**
 
 **इत्येवं शुद्धमेलायां पक्वसारणिवादने ।**
 
-
-
 **वाद्यप्रकरणम्**
-
-
 
 **ये गृह्यन्ते विकल्पेन स्वरास्ते संप्रदर्शिताः ।**
 
@@ -8915,13 +8030,7 @@ CITED DY TULAJA**
 
 **करणैश्चित्रयन्त्यस्तास्तस्याः स्युरुपरञ्जिकाः ॥**  
 
-
-
-
 **संगीतसारामृते**  
-
-
-
 
 **मुख्या ऽत्र प्रकृतिः प्रोक्ता प्रत्यङ्गंविकृता स्मृता।**
 
@@ -8978,8 +8087,6 @@ CITED DY TULAJA**
 **तस्य तुम्बं परीणाहे द्वादशाङ्गुलसंमितम् ।**
 
 **चतुरङ्गुलवक्त्रं च दन्तनाभिसमन्वितम् ॥**
-
-
 
 **वाद्यप्रकरणम्  
 
@@ -9042,12 +8149,7 @@ CITED DY TULAJA**
 
 **आलापिनीवदस्यां च स्थाप्यं तुम्बं तृतीयकम् ॥**
 
-
-
-
 **संगीतसारामृते**
-
-
 
 **अन्यल्लध्वीगतं लक्ष्म बृहतीं किंनरीं श्रयेत् ॥  
 ॥ इति द्विविधकिंनरीलक्षणम् ॥**
@@ -9108,10 +8210,6 @@ CITED DY TULAJA**
 **तज्ज्ञोदक्षिणहस्तस्थधनुषो वादयेज्ज्यया ॥  
 ॥ इति पिनाकीलक्षणम् ॥**
 
-
-
-
-
 **वाद्यप्रकरणम्  
 
 यथा यथा स्वरे व्यक्ती रक्तेः प्रचुरता भवेत् ।**
@@ -9171,11 +8269,7 @@ CITED DY TULAJA**
 
 **नादहेतोर्मारुतस्य निर्गमायाष्टमं मतम् ॥**
 
-
 **संगीतसारामृते**  
-
-
-
 
 **फूत्कारप्रभवो वायुः पूर्यते मुखरन्ध्रतः ।**
 
@@ -9237,14 +8331,7 @@ CITED DY TULAJA**
 
 **मुक्तेतु ताररन्ध्रे ऽन्यरन्ध्रेषु पिहितेषु च ।**
 
-
-
-
-
 **गद्यप्रकरणम्**  
-
-
-
 
 **अष्टमस्वरसंभूतिः पूर्वाचार्यैरुदीरिता ।**
 
@@ -9302,10 +8389,7 @@ CITED DY TULAJA**
 **भवेत् संचारिनिष्पत्तौ वलिता ऽङ्गुलिचालनम् ।  
 ॥ इति वलिता॥**  
 
-
 **संगीतसारामृते**
-
-
 
 **रन्ध्रेऽखिले ऽङ्गुलीमुक्तेमुक्ता स्यान्मुक्तशब्दकृत् ॥  
 ॥ इति मुक्ता ॥**
@@ -9364,11 +8448,7 @@ CITED DY TULAJA**
 
 **द्वादशेति गुणाः प्रोक्ताः सुषिरे शाहसूनुना ॥**
 
-
-
 **वाद्यप्रकरणम्**
-
-
 
 **तत्र शब्दगुणेष्वेवैकादश प्रोक्तलक्षणाः ।**
 
@@ -9425,11 +8505,7 @@ CITED DY TULAJA**
 **वांशिकानामिति प्रायस्तज्ज्ञैर्व्रृन्दंनिगद्यते।  
 ॥ इति वांशिकवृन्दम् ॥**
 
-
-
 **संगीतसारामृते**
-
-
 
 **केषांचिद्देशिरागाणां वादनं संप्रदर्श्यते ।**
 
@@ -9487,13 +8563,7 @@ CITED DY TULAJA**
 **वादनं विविधं नागयक्षावेशविधायकम् । .  
 ॥ इति पाविका ॥**
 
-
-
-
-
 **वाद्यप्रकरणम्**  
-
-
 
 **हस्तद्वयाधिका माने मुखरन्ध्रसमन्विता ॥**
 
@@ -9548,11 +8618,7 @@ CITED DY TULAJA**
 **तुण्डकिन्येव चुक्कास्यार्द्दैर्घ्येहस्तचतुष्टया । .  
 ॥ इति चुक्का॥**  
 
-
-
-
 **संगीतसारामृते**  
-
 
 **करेणुवदनाकारवदनं दोषवर्जितम् ॥**
 
@@ -9608,8 +8674,6 @@ CITED DY TULAJA**
 **निक्षिप्तैस्तेषु रन्ध्रेषु बध्नीयात्कलशाञ्श्लथम् ।**
 
 **ते हेमादिमयाः सप्त दैर्घ्येण चतुरङ्गुलाः ॥**
-
-
 
 **वाद्यप्रकरणम्  
 
@@ -9673,11 +8737,7 @@ CITED DY TULAJA**
 
 **पद्मासनोपविष्टेन गोष्ठ्यामूरुद्वयोपरि ॥**  
 
-
-
-
 **संगीतसारामृते**  
-
 
 **संस्थाप्य मार्गपटहो वाद्यो वर्णोद्भवे पटुः ।**
 
@@ -9736,12 +8796,7 @@ CITED DY TULAJA**
 
 **पञ्चत्रिंशद्धस्तपादास्तलपाटाश्चकीर्तिताः ॥**
 
-
-
-
-
 **वाद्यप्रकरणम्**
-
 
 **कोणाहतश्च संभ्रान्तो विषमार्धसमाविति ।**
 
@@ -9789,28 +8844,18 @@ CITED DY TULAJA**
 
 **तेषामुत्पादकान् पाणील्लोंकतो लक्षयेत्सुधीः ।**  
 
-
 **टनगिनगिननगि इति नागबन्धः । ननगिडगिडदगिइति पणवः । गिडगिडगिडदत्था इत्येकः । किटततकिटतत इत्येकसरः । नखुनखु इत्यड्डसरः। खिरतकिट इति संचारः। थोंगिथोंथिइति विक्षेपः । इति सद्योजातोद्भवाः सप्त हस्तपाटाः॥  
 ततकिटकि इति स्वस्तिकः । थोहंता इति वलिकोहलः । थोगिन थोंगिन इति फुल्लविक्षेपः । थोंथोंगोंगों इति कुण्डलीविक्षेपः । थोंगिणतत्ता**  
 
-
-
-
 **संगीतसारामृते**
-
-
 
 **इति संचारविखली । किटथों थोंगिनखेंखें इति खण्डनागबन्धः । तकुझेंझें इति पूरकः । इति वामदेवोद्भवाः सप्त हस्तपाटाः ॥**  
 
-
 **नगगिडगिडदगिदा इत्यलग्नः। दत्थरिकिदत्थरिकि इत्युत्सारः । तकिधिकितकिधि इति विश्रमः । टकुनगुटकुनगु इति विषमखली विषमखलितो वा । खिरितुखिरितु इति सरी। खिरिखिरि इति स्फुरतः । नरकित्थरिकि इति स्फुरणः । इत्यघोरोद्भवाः सप्त हस्तपाटाः॥**  
-
 
 ** दरिगिडगिडदगिदा इति शुद्धिः । टटकुटट इति स्वरस्फुरणः । ननगिनखरिखरि इत्युत्फुल्लः । दखेंदखेंदखेंखे इति वलितः । थोंगिनगिथोंगिनगि इत्यवघटः । तत्ता इति तकारः धिधि इति माणिक्यवल्ली । इति तत्पुरुषोद्भवाः सप्त हस्तपाटाः ॥**  
 
-
 ** तझें तझें इति समस्खलितः । गिरिग्ड गिरिग्ड इति विकटः । कणकणकि इति सदृशः । धिधिकिटकि इति बली । दिगिनगिदिगिनगि इति अडुखली अडुस्खलितो वा। धरकटधरकट इत्यनुच्छल्लः । दोनकटदोंनकट इति खुत्तः । इतीशानोद्भवाः सप्त हस्तपाटाः ॥**  
-
 
 **॥ इति सदाशिवपञ्चवक्त्रोद्भवाः  
 पञ्चत्रिंशत्पाटाः॥**
@@ -9841,11 +8886,7 @@ CITED DY TULAJA**
 
 **क्रियते वेष्ट्यते मध्ये त्रिभिर्बन्धैर्दृढंयथा ॥**
 
-
-
 **वाद्यप्रकरणम्**
-
-
 
 **कार्यो गोमूत्रिकाबन्धस्तत्र वध्रद्वयेन च ।**
 
@@ -9905,10 +8946,7 @@ CITED DY TULAJA**
 
 **यथा यथा क्वचित्ताले वर्णाल्लयमनोहरान् ॥**
 
-
 **संगीतसारामृते**
-
-
 
 **विधाय वादको वाद्यप्रबन्धान्बन्द्धुमर्हति ।**
 
@@ -9967,11 +9005,7 @@ CITED DY TULAJA**
 
 **वाद्यखण्डस्तालकलाप्रस्तारानुगतः कृतः॥**
 
-
-
 **वाद्यप्रकरणम्**  
-
-
 
 **अखण्डितष्टाकिनी सैकसरत्वं सकृत्कृतेः ।**
 
@@ -9979,9 +9013,7 @@ CITED DY TULAJA**
 
 **इह श्रमवहन्याख्यः प्रकारो वादने यथा ।**  
 
-
 **तद्धितोंटेंततधिधिथोंथोंठेंठें इति श्रमवहणींकृत्वा, एकसरटाकिनी यथा-तकधिकट तकधिकट धिकटतक तकधिकट तकतकधि धिकततक धिकटधिक ततधिकट इत्यष्टौ वाद्यखण्डस्य खण्डा अष्टासु कलासु सैव द्विवारं जोडा॥**  
-
 
 **टाकिनीवत्समस्तं प्राक्खण्डं कृत्वा ततः परम् ।**
 
@@ -9989,9 +9021,7 @@ CITED DY TULAJA**
 
 **तत्रैकसरजोडात्वं टाकिनीवदुदाहृतम् ।**  
 
-
 **यथा-दंदंटिरिटिट्टिकड्द कडदगझे कडदगझे थरिक्कथरि टगणगधरिगणगणधरि दथरिगडदगदथरिगडदग दथरिगडदग दथरिदथरि तर्गड्दक्थरिक्कटततक्इति षोडशकले ताले षोडशकलासु षोडशखण्डकं वाद्यं कृत्वा तान् षोडश खण्डान् द्विर्द्विःकुर्यात् ।**  
-
 
 **तकारेण च सर्वेषामेतेषां त्याग इष्यते ।**
 
@@ -10019,8 +9049,6 @@ CITED DY TULAJA**
 ॥ इति प्रतिसुखरी ॥**
 
 **शुद्धसालगगीतानां वर्णान्कठिनकोमलान् ॥**
-
-
 
 **संगीतसारामृते  
 समांश्च विषमान्नादं मन्द्रं मध्यं च तारकम् ।**
@@ -10057,8 +9085,6 @@ CITED DY TULAJA**
 **प्राधान्येन विधातव्यं तैर्मुखर्यनुवर्तनम् ।  
 ॥ इति मार्दङ्गिकवृन्दलक्षणम्॥**
 
-
-
 **या हस्तसंमिता दैर्घ्येऽष्टाविंशत्यङ्गुला पुनः ॥**
 
 **परिधावङ्गुलमिता पिण्डे सप्ताङ्गुले मुखे ।**
@@ -10081,11 +9107,7 @@ CITED DY TULAJA**
 
 **बद्ध्वातत्रोत्कक्षकौच विधाय स्कन्धपट्टिकाम् ॥**
 
-
-
 **वाद्यकरणम्**  
-
-
 
 **तयोर्द्विगुणिकां न्यस्येदङ्गुलार्धार्धसंमितम् ।**
 
@@ -10104,7 +9126,6 @@ CITED DY TULAJA**
 **अत्रान्यैरधिकावुक्तौ मझेंकारौमनीषिभिः ॥**
 
 **लक्ष्यज्ञास्त्वावजं प्राहुरिमां स्कन्धावजं तथा ।**  
-
 
 **॥ इति हुडुक्कालक्षणम् ॥**
 
@@ -10147,11 +9168,7 @@ CITED DY TULAJA**
 
 **वामेन धारयेच्छक्तिंशिवं दक्षिणपाणिना ॥**  
 
-
-
-
 **संगीतसारामृते**  
-
 
 **अश्वमेधफलं चैव प्राप्नुयाद्दोषमन्यथा ।**
 
@@ -10192,7 +9209,6 @@ CITED DY TULAJA**
 **सा सर्वदेवता तज्ज्ञैर्वाद्यते देवताऽर्चने ।  
 इति घण्टालक्षणम् ॥**  
 
-
 **॥ अथ प्रबन्धाध्यायः ॥**
 
 **श्रीविद्यारसिकः सम्यग्धातुमातुविचक्षणः ।**
@@ -10203,15 +9219,11 @@ CITED DY TULAJA**
 
 **प्रबन्धो रूपकं गेयं गीतं वस्त्विति पञ्चधा ॥**  
 
-
 **प्रसिद्धो योगादिना च गीतशब्द इतीरितः।**
 
 **तदुक्तं संगीतरत्नाकरे**  
 
-
 **रञ्जकः स्वरसंदर्भो गीतमित्यभिधीयते ॥**
-
-
 
 **वाद्यप्रकरणम्  
 
@@ -10251,11 +9263,9 @@ CITED DY TULAJA**
 
 **छायालगेति शब्दापभ्रंशः सालग इत्ययम् ।**  
 
-
 **एष सालगसूडाख्यः सप्तधा कथितो बुधैः ॥**
 
 **तथा चोक्तं भारतीये तत्रैव**  
-
 
 **शुद्धश्छायालगश्चेति द्विविधः सूड उच्यते ।**
 
@@ -10277,10 +9287,7 @@ CITED DY TULAJA**
 
 **आदावुद्गृह्यते येन सो ऽयमुद्ग्राहसंज्ञकः॥**  
 
-
 **संगीतसारामृते**
-
-
 
 **द्वितीयभागोमेलाप उद्ग्राहध्रुवमेलनात् ।**
 
@@ -10343,12 +9350,7 @@ CITED DY TULAJA**
 
 **प्रबन्धे लक्ष्यत इति पाटो वाद्याक्षरोत्करः ॥**
 
-
-
 **वाद्यप्रकरणम्**  
-
-
-
 
 **तयोर्द्विगुणिकां न्यस्येदङ्गुलार्धार्धसंमितम् ।**
 
@@ -10408,7 +9410,6 @@ CITED DY TULAJA**
 
 **वामेन धारयेच्छक्तिंशिवं दक्षिणपाणिना ॥**  
 
-
 **अश्वमेधफलं चैव प्राप्नुयाद्दोषमन्यथा ।**
 
 **देवता तुन्बुरुर्युग्मे शक्तिः शक्तौशिवे शिवः ॥**
@@ -10452,8 +9453,6 @@ CITED DY TULAJA**
 संगीतसारामृते वाद्यप्रकरणम्  
 एकादशम्**
 
-
-
 **अथ प्रबन्धप्रकरणम् (१२)**
 
 **श्रीविद्यारसिकः सम्यग्धातुमातुविचक्षणः ।**
@@ -10464,11 +9463,9 @@ CITED DY TULAJA**
 
 **प्रबन्धो रूपकं गेयं गीतं वस्त्विति पञ्चधा ॥**  
 
-
 **प्रसिद्धो योगादिना च गीतशब्द इतीरितः।**
 
 **तदुक्तं संगीतरत्नाकरे**  
-
 
 **रञ्जकः स्वरसंदर्भो गीतमित्यभिधीयते ॥**  
 
@@ -10508,16 +9505,11 @@ CITED DY TULAJA**
 
 **छायालगेति शब्दापभ्रंशः सालग इत्ययम् ।**  
 
-
 **एष सालगसूडाख्यः सप्तधा कथितो बुधैः ॥**
-
 
 **संगीतसारामृते**
 
-
-
 **तथा चोक्तं भारतीये तत्रैव**  
-
 
 **शुद्धश्छायालगश्चेति द्विविधः सूड उच्यते ।**
 
@@ -10539,10 +9531,7 @@ CITED DY TULAJA**
 
 **आदावुद्गृह्यते येन सो ऽयमुद्ग्राहसंज्ञकः॥**  
 
-
 **संगीतसारामृते**
-
-
 
 **द्वितीयभागोमेलाप उद्ग्राहध्रुवमेलनात् ।**
 
@@ -10586,10 +9575,7 @@ CITED DY TULAJA**
 
 **क्रियाकारकसंबन्धरूपतो यन्निबध्यते ॥**
 
-
-
 **प्रबन्धप्रकरणम्**  
-
 
 **वर्णनं धैर्यशौर्यादेस्तदेवात्र पदं स्मृतम् ।**
 
@@ -10645,7 +9631,6 @@ CITED DY TULAJA**
 **कुन्तलः कोमलश्चारोनन्दनश्चन्द्रशेखरः।**
 
 **कामोदो विजयाख्यश्चकंदर्पोजलमङ्गलः॥**  
-
 
 **संगीतसारामृते**
 
@@ -10708,10 +9693,7 @@ CITED DY TULAJA**
 
 **ध्रुवे न्यासस्ततः प्रोक्तः स मण्ठो मण्ठतालतः ।**
 
-
-
 **प्रबन्धप्रकरणम्**  
-
 
 **जयप्रियो मङ्गलश्च सुन्दरो वल्लभस्तथा ।**
 
@@ -10767,10 +9749,7 @@ CITED DY TULAJA**
 
 **वैकुन्दानन्दकान्ताराः समरो वाञ्छितस्तथा ॥्**
 
-
 **संगीतसारामृते**
-
-
 
 **विशालश्चेति स प्रोक्तः षड्विधः पूर्वसूरिभिः ।**
 
@@ -10819,13 +9798,7 @@ CITED DY TULAJA**
 **शङ्कःस्यात्प्रतितालतः' इतिविठ्ठलीये  
 ॥ इति शङ्कः।**
 
-
-
-
-
 **प्रबन्धप्रकरणम्**  
-
-
 
 **शान्ते शीलो विरामान्तद्रुतद्वंद्वाल्लघोर्भवेत् ।**
 
@@ -10874,13 +9847,7 @@ CITED DY TULAJA**
 **यस्यामसौ रमा सा च प्रथमो भेद इष्यते ॥  
 ॥ इति रमा॥**  
 
-
-
-
 **संगीतसारामृते**  
-
-
-
 
 **उद्ग्राहो द्विदलो यस्यामालापरचितो ऽन्तरः।**
 
@@ -10917,7 +9884,6 @@ CITED DY TULAJA**
 
 **अस्योदाहरणं पुरंदरदासानां सूलादिः। .**  
 
-
 **देवगांधाररागे रासताले-'लध्वादितालो लोके ऽसौ रासः' इति रासलक्षणम् । 'दौलौ द्वितीयके' इति द्वितीयतालस्य लक्षणम् ।  
 अत्र द्वयोर्व्यत्यासेन व्यवहारस्तु लोकतः ।**
 
@@ -10932,10 +9898,7 @@ CITED DY TULAJA**
 
 **अनेनैव धातुना द्वितीयखण्डं रवेयकं गेयम् ।**
 
-
-
 **प्रबन्धप्रकरणम्**  
-
 
 **पा पा पा   स स स नि नि प प म मा मा म्म ग म म ग ग स स नि**
 
@@ -10969,17 +9932,11 @@ CITED DY TULAJA**
 
 **हसु । इदं त्रिधातुकं जयन्तध्रुवाख्यमाद्यंगीतम् । इति ध्रुवखण्डेन सहितमित्युक्तत्वात् ॥**  
 
-
 **अथ मण्ठाख्यं द्वितीयं गीतम् । रगणमण्ठेन तालेन गेयम् । 'वल्लभो रेण करुणे' इति तल्लक्षणम् । षट्प्रकारे मण्ठतालेचतुर्थो भेदः । अस्योदाहरणमत्रैव लिख्यते-  
 पससासनिपनिपपम मम्मा मम्मागपममगसा रिसासनिपनीनिस्ससा गम्मपाप्पमगमा सास्सनिधनीधपाममापपममगस इति ध्रुवः । अत्र न्यासः । अधाभोगः । पससासनिपनिपमममासमममगपमममगस इत्याभोगः । ध्रुवो न्यासः।  
 एवं ध्रुवमण्ठादयः सूडक्रमस्था गीतविशेषास्तत्तल्लक्षणविशेषतो योजनीयाः। अतिप्रसिद्धत्वादत्र विशेषतो न प्रदर्शिताः । एषां नियुक्तत्वम् ॥**
 
-
-
-
 **संगीतसारामृते**
-
-
 
 **अथप्रतिमण्ठलक्षणं संगीतरत्नाकरे त्वेवमुक्तम्**
 
@@ -10991,14 +9948,12 @@ CITED DY TULAJA**
 
 **चतुर्धा सो ऽमरस्तारो विचारः कुन्द इत्यपि ।**  
 
-
 **अमरो दो विरामान्तः शृङ्गारे स विधीयते ॥ इति ।**
 
 **अत्र 'विरामान्तद्रुतो ऽमरः' प्रतिमण्ठ उक्तः ।**
 
 **'अमरो गुरुणैकेन' इति विट्ठलीये । अनयोर्द्वयोर्मध्येविरामान्तद्रुतस्य प्रसिद्धरूपकतालार्धकालत्वात्प्रसिद्धलक्षणानुगण्यं युज्यते । 'गुरुरेको ऽमरः' इति पक्षे प्रसिद्धरूपकानुगुण्याभावान्न युज्यते द्रुतो विरामान्तरूपक एव मार्गभेदेन । तथा च प्रयोगे ऽस्तीतितिती इत्यादिः । इदं सर्वं तालप्रकरणे स्फुटं निरूपयिष्यामः । प्रयोक्त्रिच्छातो ध्रुवादीनां पौर्वापर्यं तत्र दृश्यते । अथ वा जयन्तादिषु विहत्तततालभेदकृततत्तदाख्यो ध्रुव इति ज्ञेयः । तत्तद्देशस्थप्रयोगानुसारि लक्षणमपि विट्ठलेनोदाहृतम्
 -**  
-
 
 **रङ्गोद्द्योतेन तालेन तथा चच्चत्पुटेन च ।**
 
@@ -11010,7 +9965,6 @@ CITED DY TULAJA**
 
 **त्रिपुटश्चाड्डतालाख्यश्चैकतालीति च क्रमात्। इति**  
 
-
 **अयमेव क्रमः प्रसिद्धसालगसूडस्थेषु सप्तसु गीतेष्वाद्योध्रुवो ध्रुवतालेन बद्धः । ध्रुवताललक्षणं तु-  
 वीणा वाद्या ध्रुवे त्वादौलघू द्वौ चतुरक्षरौ ।**
 
@@ -11019,14 +9973,11 @@ CITED DY TULAJA**
 **चतुर्दशाक्षरमितावाहस्यैतावुभौ ध्रुवौ।  
 इत्युक्तम्। तश्चैव सुलादिषु प्रसिद्धः प्रयोगः । अथनिःसारगीतभेदाःषट् ।**  
 
-
 **बद्धोनिःसारुतालेन निःसारुरिति कीर्तितः।**
 
 **वैकुन्दानन्दकान्तारसमरा वाञ्छितस्तथा॥**
 
 **विशालश्चेति निःसारुगीतभेदाः षडीरिताः।**
-
-
 
 **प्रबन्धप्रकरणम्  
 
@@ -11038,7 +9989,6 @@ CITED DY TULAJA**
 **कुडुक्काभिधतालेन वैकुन्दो मङ्गले भवेत् ।**
 
 **इति विठ्ठलीये । अत्र विशेषः । कुडुक्के चतुर्लध्वक्षरोच्चारणमितोलघुर्दृश्यते । तस्योदाहरणमत्रैव पप्पा निनिपा निपपम मम्मा गमपम गरि सा इत्यादौचतुर्लध्वक्षरोच्चारमितो लघुः स्पष्टः । पञ्चलध्वक्षरोच्चारमितो लघुरड्डतालः स्पष्टतरः । अनयोर्लघुमानभेदेनार्थपुनरुक्त्याशङ्कापरिहारः । अत्रैव जात्याख्ये पश्चलघ्वक्षरोच्चारमितलघुमानद्रु(?)तालः प्रयुक्तः पनीसागरिरिसरिसा मगमापधपमगसासा इत्यादिः । एकताल्यां त्वेकलघ्वात्मक आदिताल एवैकद्रुतात्मैकतालत्वेन व्यवह्रियते । सरिगम रिगमप गमपध इत्यलंकारे ऽपि तथा प्रयोगः ।**  
-
 
 **एवं सालगसूडस्थसूलादिक्रम ईरितः ।**
 
@@ -11076,10 +10026,7 @@ CITED DY TULAJA**
 
 **प्रयुक्तं च चतुर्दण्डीत्यतो गीतप्रबन्धयोः ॥ ..**  
 
-
-
 **संगीतसारामृते**  
-
 
 **भेदः सिद्धस्ततः कार्यं प्रबन्धस्य निरूपणम् ।**
 
@@ -11141,10 +10088,7 @@ CITED DY TULAJA**
 
 **ओवी लोली डोल्लरीच दन्ती द्वाविंश इत्यमी॥**
 
-
-
 **प्रबन्धप्रकरणम्**  
-
 
 **तारावलीजातिमन्तः प्रबन्धाः परिकीर्तिताः**
 
@@ -11206,11 +10150,7 @@ CITED DY TULAJA**
 
 **प्रतिखण्डिकमेकैको रागस्तालश्च वाञ्छितः॥**
 
-
 **संगीतसारामृते**  
-
-
-
 
 **तेन्नकोऽन्ते प्रयोक्तव्यः प्रतिखण्डिकमत्र तु ।**
 
@@ -11334,7 +10274,6 @@ CITED DY TULAJA**
 
 **संगीतसारामृते**
 
-
 **तदेवं मेदिनीजातिप्रबन्धाः सप्त लक्षिताः ।**
 
 **अथोद्देशक्रमप्राप्ता आनन्दिन्यादिसंगताः ॥**
@@ -11361,13 +10300,9 @@ CITED DY TULAJA**
 
 **इति श्रीवर्धनाख्यस्य लक्षणं समुदाहृतम् ।**
 
-
 **अस्योदाहरणं लिख्यते । नाटरागः । मामापामा पाससनिनिपपनिपपनिपम गममापाप सससनिमा पासससपससरीससससा ससममममपामममम मरिससामसममरिसनिसा ममारिसारिसानिसा पमपससानिपनिपम गाममा पासा । अथ मध्यमाने सस्ससस्सससमगमपसससा सससपपपपममपपमरि ससससससाससपममपम००डलीइकअरअ ग००० डाआ त्तु२-द्गु५ तोंगिण अंगिण ध३ द्गु४द्गि३ तों२ तोओंगिणणंणंगिणमप । पुनर्विलम्बमाने पा पाससस सासा वुशी पनि पसससा सासा वुशि० मा मापामा प नीपपमपाप्पममामा रिसानि पामपससा इति बिरुदैः पाटैः, सरीसरिसममरिसनिसा मा मा मा पा पा सा सा सपा पमममारिसा रिसानीसासमापा । एतद्द्विगुणमाने ससरि ससससस निपपनिमम मगमपमपसनिपममरिस मगमपप्पमपनिप्पपससा मपपममरिससनिप रिविबे ससानिपाममारिसा पमापासनीसा रिसारीममरिससनिपमरिसरि यरेणे इति ध्रुवः । अथाभोगः ममपपनिपमममपममममरि समममरिसममरिसपममप सससरिगमपपनिपपमगम पपससप्पपसन्निप. ममरिसा । विलम्बे पनिपपममापाममापाममममा मामारिसारिसानीस पनिपमपसासासरिसा रिगामामारिसानिसा । मध्यमाने समसममपपसनि. पमममरिससरिस सनिपमरिसा ममपपा । धातुत्रयान्वितत्वात्त्रिधातुः।**
 
-
-
 **तालप्रकरणम्**
-
 
 **विसर्जिता बहिर्याता विक्षिप्ता कुञ्चनात्मिका ।**
 
@@ -11391,7 +10326,6 @@ CITED DY TULAJA**
 
 **प्रत्येकं तौ नामगतैर्गलैस्तत्र यथाऽक्षरम् ।**
 
-
 **अयमेककलश्चच्चत्पुटे त्वन्त्यं प्लुतंविदुः ॥**
 
 **ऽऽ।ऽइति यथाऽक्षरश्चच्चत्पुटः ; ऽःऽइति यथाऽक्षरश्चाचपुटः ।  
@@ -11403,7 +10337,6 @@ CITED DY TULAJA**
 **ऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽइतिचतुकलश्चच्चत्पुटः ;**
 
 **ऽऽऽऽऽऽऽऽऽऽऽऽइति चतुष्कलश्चाचपुटः ।**
-
 
 **द्विकले द्विकलो मतः ॥**
 
@@ -11427,7 +10360,6 @@ CITED DY TULAJA**
 
 **उद्धट्टोऽपि त्र्यश्रभेदः सप्रस्तारे यथाऽक्षरः ॥**
 
-
 **संगीतसारामृते**
 
 **संपक्वेष्टाऽपि भेदः षट्पितापुत्रकस्य सः ।**
@@ -11437,7 +10369,6 @@ CITED DY TULAJA**
 **एतौ स्वयोनिवत्स्यातां द्विकलौ च चतुष्कलौ ॥**
 
 **अन्यद्भेदत्रयं चाचपुटे त्वस्ति चतुष्कलात् ।**  
-
 
 **द्विगुणद्विगुणत्वेन षण्णवत्यवधि क्रमात् ॥**
 
@@ -11449,13 +10380,11 @@ CITED DY TULAJA**
 ऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽ इति द्वितीयो भेदः ।ऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽ
 ऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽऽ ऽऽऽऽऽऽऽऽऽऽऽऽऽऽ इति तृतीयो भेदः ।**  
 
-
 **तेषां पातकलायोगं श्रेयसे व्याहरामहे ।**
 
 **आद्यैर्वर्णैःपातकला निःशङ्कः पर्यभाषत ॥**
 
 **चच्चत्पुटे त्वेककले संशताशं यथाक्रमम्।**  
-
 
 **ऽ  ऽ । ऽ**
 
@@ -11467,32 +10396,19 @@ CITED DY TULAJA**
 
 **श ता श ता ता श ता श**  
 
-
 **॥ इत्येककलचच्चत्पुटकलाविधिः ॥**  
-
-
-
 
 **आसारितादौ शम्याऽऽदिस्तालादिः पाणिकादिषु ।**
 
 **अन्त्यं भेदद्वयं चाचपुटे ऽपीति मुनेर्मतम् ॥**  
 
-
 **ऽ  । ।  ।  । । । ।**
 
 **शता श ता ता श ता श**  
 
-
 **॥ इत्येककलचाचपुटकलाविधिः ॥**
 
-
-
-
-
 **तालप्रकरणम्**  
-
-
-
 
 **उत्तर संततस्तालः शतालौ द्विरनन्तरम् ।**
 
@@ -11500,36 +10416,28 @@ CITED DY TULAJA**
 
 **    सं ता  श ता श ता**  
 
-
 **॥ इत्येककलषट्पितापुत्रककलाविधिः ॥**  
-
 
 **निशौ निताशप्रनिसं द्विकलेयुग्मके मताः ॥**
 
 **ऽ ऽ ऽ ऽ ऽ ऽ ऽ ऽ**  
 **नि श नि ता श प्र निसं**  
 
-
 **॥ इति द्विकलचच्चत्पुटकलाविधिः ॥**  
-
 
 **निशौ ताशौनिसमिति ज्ञेयाश्चाचपुटे क्रमात् ।**
 
 **ऽ ऽ ऽ ऽ ऽ ऽ**  
 **नि श ता श नि सं**  
 
-
 **॥ इति द्विकलचाचपुटकलाविधिः ॥**  
-
 
 **निप्रताशनितानिशताप्रनिसं तथोत्तरे ॥**  
 **ऽ ऽ ऽ  ऽ  ऽ ऽ  ऽ ऽ  ऽ  ऽ ऽ ऽ**
 
 **नि प्रता  श  नि ता  निश ता  प्र नि सं**  
 
-
 **॥ इति द्विकलषट्पितापुत्रककलाविधिः ॥**  
-
 
 **आदावधिक आवापे क्षिप्ते विक्षिप्तके ऽन्तरा।**
 
@@ -11539,14 +10447,9 @@ CITED DY TULAJA**
 
 **आ नि वि श आ नि वि ता  आ श  वि प्र आ नि विसं**  
 
-
 **॥ इति चतुष्कलचच्चत्पुटकलाविधिः ॥**
 
-
 **संगीतसारामृते**  
-
-
-
 
 ** ऽ ऽ ऽ ऽ   ऽ ऽ  ऽ ऽ   ऽ ऽ ऽ ऽ**
 
@@ -11555,15 +10458,12 @@ CITED DY TULAJA**
 
 **             ॥ इति चतुष्कलचाचपुटकलाविधिः ॥**  
 
-
 **ऽ ऽ ऽ ऽ ऽ ऽऽऽ ऽऽ ऽ ऽ ऽ ऽ ऽ ऽ ऽ ऽ ऽऽ ऽ
 ऽ ऽ ऽ**
 
 **आ नि विप्र आ ता विश आनि वि ता आ नि वि श आ ता वि प्र आ नि वि सं**  
 
-
 **॥ इति चतुष्कलषट्पितापुत्रककलाविधिः ॥**  
-
 
 **प्रथमेपादभा्गेस्यात्कलाङ्गुल्या कनिष्ठया ।**
 
@@ -11587,9 +10487,7 @@ CITED DY TULAJA**
 
 **नि श श**  
 
-
 **॥ इत्येककलोद्धट्टकलाविधिः ॥ .**  
-
 
 **संपंक्वेष्टाकस्य कलाः षट्पितापुत्रकेरिताः ।**
 
@@ -11599,13 +10497,7 @@ CITED DY TULAJA**
 **ता श ता श ता  
 ॥ इत्येककलसंपक्वेष्टाकललाविधिः ॥**
 
-
-
-
-
 **तालप्रकरणम्**
-
-
 
 **भेदद्वयेऽस्योद्धट्टाख्यतालस्य तु कलाविधिः।**
 
@@ -11613,21 +10505,17 @@ CITED DY TULAJA**
 **नि श ता श नि सं  
 ॥ इति द्विकलोद्धट्टकलाविधिः ॥**  
 
-
 **ऽ ऽ ऽ ऽ   ऽ ऽ  ऽऽ   ऽ ऽ ऽ ऽ**
 
 **आनि वि श  आ ता वि श   आ नि वि श ॥**
 
 **इति चतुष्कलोद्धट्टकलाविधिः ॥**  
 
-
 **ऽ ऽ ऽ   ऽ ऽ  ऽ ऽ   ऽ ऽ   ऽ ऽ ऽ**
 
 **नि प्र ता   श नि  ता नि   श ता   प्र वि सं**  
 
-
 **॥ इति द्विकलसंपक्वेष्टाककलाविधिः ॥**  
-
 
 **ऽ ऽ ऽ ऽऽ ऽ ऽ ऽ ऽ ऽ   ऽ ऽ  ऽ ऽ ऽ ऽ ऽ ऽ**
 
@@ -11636,7 +10524,6 @@ CITED DY TULAJA**
 **ऽ ऽ ऽ ऽ ऽ ऽ**
 
 **वि प्र आ नि वि सं**  
-
 
 **॥ इति चतुष्कलसंपक्वेष्टाककलाविधिः ॥  
 ,  
@@ -11658,14 +10545,7 @@ CITED DY TULAJA**
 
 **देशीतालप्रपञ्चेन तानपि व्याहरामहे ॥**
 
-
-
-
-
 **संगीतसारामृते**  
-
-
-
 
 **आवृत्तिः पदभागादेः परिवर्तनमिष्यते ।**
 
@@ -11723,12 +10603,7 @@ CITED DY TULAJA**
 
 **आदितालो द्वितीयश्च तृतीयोऽथचतुर्थकः ॥**
 
-
-
-
-
 **तालप्रकरणम्**
-
 
 **पञ्चमो निःशङ्कलीलो दर्पणः सिंहविक्रमः ।**
 
@@ -11790,11 +10665,7 @@ CITED DY TULAJA**
 
 **देशीतालाः समादिष्टा विंशत्यभ्यधिकं शतम्॥**
 
-
-
 **संगीतसारामृते**
-
-
 
 **गुर्वाद्याश्चतुरश्रादेः खण्डयित्वा निवेशिताः ।**
 
@@ -11856,11 +10727,7 @@ CITED DY TULAJA**
 
 **मगणो लप्लुतौरङ्गोद्योतः, रङ्गप्रदीपकः ।**
 
-
-
 **तालप्रकरणम्**
-
-
 
 **तो गप्लुतौ राजलाले गपौदौच गलौ प्लुतः ॥**
 
@@ -11923,11 +10790,7 @@ CITED DY TULAJA**
 **समो लौदौविरामान्तौ, लघुर्दौपश्च नन्दनः ।  
 22**
 
-
-
 **संगीतसारामृते**
-
-
 
 **गुरुद्रुतप्लुताः प्रोक्ता मण्ठिका, अन्यैस्तु लद्वयम् ।**
 
@@ -11989,7 +10852,6 @@ CITED DY TULAJA**
 
 **विरामान्तं लप्लुतौ च, तालस्तु ललितप्रियः ।**
 
-
 **तालप्रकरणम्**
 
 **ऊर्ध्वंलघुभ्यां रगणः, स्यातां श्रीनन्दने भपौ॥**
@@ -12047,15 +10909,9 @@ CITED DY TULAJA**
 
 **प्रसिद्धिविधुरत्वेन शास्त्रे ऽस्मिन्न प्रदर्शिताः ॥**
 
-
-
 **इति श्रीराजाधिराजभोसलकुलतिलकतुलजामहाराजविरचिते  
 संगीतसारामृते तालप्रकरणम्  
 त्रयोदशम्**
-
-
-
-
 
 **अथ प्रकीर्णकप्रकरणम् (१४)**
 
@@ -12112,11 +10968,7 @@ CITED DY TULAJA**
 **भवन्ति भेदा बहवो नानातद्गुणमिश्रणात् ॥  
 ॥ इति शब्दभेदलक्षणम् ॥**
 
-
-
 **प्रकीर्णकप्रकरणम्**
-
-
 
 **गुणाश्च संगीतरत्नाकरे**
 
@@ -12163,8 +11015,6 @@ CITED DY TULAJA**
 **उज्ज्वलो ऽयमिति प्रोक्तश्छविमानिति स ध्वनिः ॥  
 ॥ इति शब्दगुणाः ॥**
 
-
-
 **नानाविषगाननिर्वतकनादे दोषाश्च भारतीय उक्ताः -**
 
 **रूक्षस्फुटितनिःसारकाकोलीकेटिकेणयः ।**
@@ -12175,10 +11025,7 @@ CITED DY TULAJA**
 
 **एरण्डकाण्डनिःसारो निःसार इतिकीर्तितः॥**
 
-
 **संगीतसारामृते**
-
-
 
 **काकोलिकाऽऽख्यः काकोलकुलनिर्घोषनिष्ठरः।**
 
@@ -12188,8 +11035,6 @@ CITED DY TULAJA**
 
 **अतिसूक्ष्मः कृशोभग्नः खरोष्ट्रध्वनिरीरितः ॥  
 ॥ इति नानाविधनादनिर्वर्तकनाददोषाः ॥**
-
-
 
 **शास्त्रोक्तगुणसंपन्नः सर्वदोषविवर्जितः ।**
 
@@ -12224,8 +11069,6 @@ CITED DY TULAJA**
 **महामाहेश्वरेणोक्तः सदोषो गायनो ऽधमः ॥  
 ॥इत्युत्तममध्यमाधमगायनविशेषाः ॥**
 
-
-
 **शिक्षाकारोऽनुकारश्च रसिको रञ्जकस्तथा ।**
 
 **भावकश्चेति गीतज्ञाः पञ्चधा गायनं जगुः॥**
@@ -12234,13 +11077,7 @@ CITED DY TULAJA**
 
 **अनुकार इति प्रोक्तःपरभङ्ग्यनुकारकः ॥**
 
-
-
-
-
 **प्रकीर्णकप्रकरणम्**
-
-
 
 **रसाविष्टस्तु रसिको रञ्जकः श्रोतृरञ्जकः।**
 
@@ -12297,11 +11134,7 @@ CITED DY TULAJA**
 
 **वक्रीवक्रीकृतगलो गायन्धीरैरुदीरितः॥**
 
-
-
 **संगीतसारामृते**
-
-
 
 **प्रसारी गीयते तज्ज्ञैर्गाने गात्रप्रसारणात् ।**
 
@@ -12323,8 +11156,6 @@ CITED DY TULAJA**
 
 **गेयं नासिकया गायन्गीयते सानुनासिकः ॥  
 ॥ इति नानाविधगाननिर्वर्तकगायनदोषाः ॥**
-
-
 
 **अथ प्रसङ्गाद्वाग्गेयकारलक्षणमुच्यते**
 
@@ -12364,11 +11195,7 @@ CITED DY TULAJA**
 
 **अनुच्छिष्टोक्तिनिर्बन्धो नूत्नधातुविनिर्मितेः॥**
 
-
-
 **प्रकीर्णकप्रकरणम्**
-
-
 
 **परचित्तपरिज्ञानं प्रबन्धेषु प्रगल्भता ।**
 
@@ -12389,17 +11216,11 @@ CITED DY TULAJA**
 **कुट्टिकारो ऽन्यधातौ तु मातुकारः प्रकीर्तितः ।  
 ॥ इति वाग्गेयकारलक्षणम् ॥**
 
-
-
 **मार्गं देशीं च यो वेत्ति स गान्धर्वो ऽभिधीयते ॥  
 ॥ इति गान्धर्वलक्षणम् ॥**
 
-
-
 **यो वेत्ति केवलं मार्गं स्वरादिः स निगद्यते ।  
 ॥ इति स्वरादिलक्षणम् ॥**
-
-
 
 **सर्वगानोपयोगित्वाच्छारीरं लक्ष्यते ऽधुना ॥**
 
@@ -12418,8 +11239,6 @@ CITED DY TULAJA**
 **निःसारता विस्वरता काकित्वं स्थानविच्युतिः ।**
 
 **कार्श्यं कार्कश्यमित्याद्यैः कुशारीरं तु दूषणैः॥**
-
-
 
 **संगीतसारामृते**
 
@@ -12509,8 +11328,6 @@ CITED DY TULAJA**
 **तेषां तु स्थायभागेषु विवृतिः संविधास्यते ।  
 ॥ इति गमकाः॥**
 
-
-
 **अथ स्थाया निरूप्यन्ते रागावयवरूपिणः ।**
 
 **सोऽप्येकदेशो न्यासादिस्वरेष्वन्यतमाश्रितः ॥**
@@ -12525,8 +11342,6 @@ CITED DY TULAJA**
 
 **मयोच्यन्ते प्रसिद्धाश्चासंकीर्णाः कतिचित्स्फुटम् ।**
 
-
-
 **शब्दस्थायो ढालस्थायो लवलीस्थायो वहनीस्थायो वाद्यशब्दस्थायो यन्त्रस्थायश्छायास्थायः स्वरलङ्घितनामकः प्रेरितसंज्ञस्तीक्ष्णसंज्ञश्चेत्यसंकीर्णाः प्रसिद्धा दश स्थायाः । तथा चोक्तंभारतीये**
 
 **ते च शब्दस्य ढालस्य लवन्या वहनेरपि ॥**
@@ -12535,15 +11350,7 @@ CITED DY TULAJA**
 
 **प्रेरितस्तीक्ष्ण इत्युक्ता व्यक्तासंकीर्णलक्षणाः ॥ इति ।**
 
-
-
-
-
 **• संगीतसारामृते**
-
-
-
-
 
 **एतेषां निरुक्तिस्तत्रैव  
 मुक्तशब्दप्रतिग्राह्याः स्थायाः शब्दस्य कीर्तिताः।**
@@ -12604,7 +11411,6 @@ CITED DY TULAJA**
 
 **मध्ये मध्ये स्वरान्भूरील्लङ्घ्यन्स्वरलङ्घितः।**
 
-
 **प्रकीर्णकप्रकरणम्**
 
 **तिर्यगूर्ध्वमधस्ताच्च प्रेरितः प्रेरितैःस्वरैः ॥**
@@ -12654,7 +11460,6 @@ CITED DY TULAJA**
 **सजातीयांशकः स स्यादंशः सदृशरागयोः ।**
 
 **सदृशांशो यथा नट्टावराट्योः शुद्धयोर्मिथः ॥**
-
 
 **संगीतसारामृते**
 
@@ -12716,13 +11521,7 @@ CITED DY TULAJA**
 
 **॥ इति त्रयस्त्रिंशत्संकीर्णाः स्थाया गुणभिन्नाः प्रसिद्धाश्च॥**
 
-
-
-
-
 **प्रकीर्णकप्रकरणम्**
-
-
 
 **अन्ये ऽप्युक्ताएवमाद्याः स्थाया ये भरतादिभिः**
 
@@ -12778,7 +11577,6 @@ CITED DY TULAJA**
 **द्व्यर्धादधस्तनानेकस्वरेषु चालनं बुधाः ।**
 
 **मुखचाल इति प्राहुर्यत्तत्स्वस्थानमादिमम् ॥**
-
 
 **संगीतसारामृते**
 
@@ -12842,14 +11640,7 @@ CITED DY TULAJA**
 
 **द्व्यर्धस्वरेचालयिस्वा न्यसनं तद्.द्वितीयकम् ॥**
 
-
-
-
-
 **प्रकीेर्णकप्रकरणम्**  
-
-
-
 
 **स्थायिस्वरादष्टमस्तु द्विगुणः परिकीर्तितः ।**
 
@@ -12906,11 +11697,7 @@ CITED DY TULAJA**
 **एकः स्यात्समगातारस्त्रयो गायनिकाः पुनः ॥  
 24**
 
-
-
 **संगीतसारामृते**
-
-
 
 **चतस्रो वांशिकद्वंद्वं तथा मार्दलिकद्वयम् ।**
 
@@ -12972,10 +11759,6 @@ CITED DY TULAJA**
 
 **महाराष्ट्रान्ध्रहम्मीरचौलैर्मलयमालवैः ॥**
 
-
-
-
-
 **प्रकीर्णकप्रकरणम्  
 
 अङ्गवङ्गकलिङ्गाद्यैर्नानाऽभिनयकोविदैः ।**
@@ -12996,10 +11779,6 @@ CITED DY TULAJA**
 
 **॥ ग्रन्थश्च समाप्तः ॥**
 
-
-
-
-
 **लाल बहादुर शास्त्री राष्ट्रीय प्रशासन अकादमी, पुस्तकालय**
 
 **Lal Bahadur Shastri National Academy of Administration, Library  
@@ -13014,8 +11793,6 @@ CITED DY TULAJA**
 [TABLE]
 
 **-**  
-
-
 
 **अवाप्तिसंख्या ।  
 Ac No.rt (असंपादितः भागः)**
@@ -13061,63 +11838,5 @@ way shall have to be replaced or its doubleprice shall be paid by the**
 
 **----------**
 
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^23]: "2.See Saramrta text, pp.123-4; where the Kinnari and the varieties, first two and then three Desi varieties, are elaborately described."
-
-
-[^20]: "3.These two lines are not found in the Devanagari ms."
-
-
-[^16]: "1.This Sahitya is given in the Devanagari ms.for the Gita and not for the Prabandha."

@@ -17,8 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcwMzc0NjcyNDg
 
 \[
 
-
-
 **H** (hard, in pencils) **क** (कठोर)  
 **H** *Statistics* (harmonic mean) **ह** (हरात्मक मध्यक)  
 **H** (heat) **ऊ** (ऊष्मा)  
@@ -4502,8 +4500,6 @@ Mineral.
 
 n\.
 
-
-
 (शृंग horn, अन्धन blende)  
 
 horn block = horn plate
@@ -6231,8 +6227,6 @@ hyoid sclerite** *Zool.* **द्वित-दृढक
 hyomandibula** *Zool.* **द्विताधरहनु** *f.*  
 **hyomandibular** *adj. Anat., Zool.* **1.**(pertaining to the hyoid arch and mandible) **द्विताधरहानव्य**
 
-
-
 **2.**(pertaining to the dorsal segment of the hyoid arch in fishes) **द्वितोत्तरखण्डीय**
 
 **hyomandibular** *n.***= hyomandibular cartilage** *Zool.* **द्विताधरहनु-कास्थि** *n.*(कास्थि cartilage)  
@@ -6664,8 +6658,6 @@ hypnotism संमोहन
 
 n\.
 
-
-
 (Tel., Ben.)  
 
 hypnotist संमोहक
@@ -6899,8 +6891,6 @@ religious hypocrite धर्मध्वज
 
 m..
 
-
-
 (from हलायुध)
 
 hypocycloid
@@ -6944,8 +6934,6 @@ adj.
 (pert. to the hypodermis)
 
 अधश्चर्म-
-
-
 
 2\.
 
@@ -7186,6 +7174,5 @@ Hystricomorpha** *Zool.* **शल्यकरूपाः***m.pl.*
 hystrix** *Bot. Tax.* **शल्यकी  
 hy-vac** *Phys.* (high vacuum) **अतिशून्यक** *n.*  
 **hyven** (*Hedera helix*) **मारवल्ली** *f.*
-
 
 \]

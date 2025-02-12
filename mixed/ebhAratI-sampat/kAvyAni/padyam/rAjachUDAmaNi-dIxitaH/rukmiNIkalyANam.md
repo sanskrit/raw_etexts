@@ -14,24 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxOTQ2NDk2NDc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
-
-
-
 
 **INTRODUCTION.**
 
@@ -39,15 +22,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxOTQ2NDk2NDc
 
  The first cause can be a stumbling block only to second and third rate authors. Authors of real merit will not be deterred by the rules of Rhetoricians and Grammarians as they could very well master these and excel them. The second cause is indeed beyond the control of individual poets whatever their calibre may be. And the third cause is really the most important one as the delicate flower of orginality cannot
 
-
-
 blossom if it is not watered and nurtured carefully and adequately.
 
  Historians of Sanskrit literature treat generally of the greatness of Sanskrit Literature up to the eleventh century A. D. and do not find enough material to carry on their narratives beyond this period. The dissensions of the Hindu Religions and the consquent want of Royal patronage and the frequency of the invasions by Mahammadans and other foreigners contributed to a very great extent for the decay and gradual disappearance of authors of the first magnitude.
 
  In places and localities which had been comparatively free from such foreign influences and when the Hindu principalities, however small they might be, continued to enjoy comparative peace and prosperity, we always find the necessary impetus for the growth of arts and culture which show themselves out by works of outstanding merit. The sixteenth and seventeenth centuries in South India are an instance to the point.
-
-
 
  The petty principality of Tanjore enjoyed peace and plenty under the sympathetic and generous hands of the great Nayak Rulers who ruled Tanjore and the surrounding country from 1535 A. D. to 1675 A. D. No less than seventy authors of undoubted greatness flourished in this kingdom under the patronage of the Nayak Rulers.
 
@@ -57,22 +36,14 @@ blossom if it is not watered and nurtured carefully and adequately.
 
  Rajachudamani Dikshita was born of Ratnakheta Srinivasa Dikshita, the father-in-law of the illustrious Appaya Dikshita, and Kamakshi. He was educated in all branches of Sanskrit learning firstly by Ardhanarisvara Dikshita and finally by Venkatesvara Makhi, Even from very early times Rajachudamani gave promise of his
 
-
-
 Krishna, the description of the summer-season, the description of the rainy season, the description of the Sarad-season and the descriptions of the Hemanta and Sisira seasons.
 
  In respect of descriptive detail, fullness of imagery and delineation of situations and characterisation of individuals, this poem compares quite favourably with those of Kalidasa and other Nature-poets.
 
  The Sri Vani Vilas Press has done a distinct service to the scholar-world in bringing out for the first time a complete edition of this fascinating and delightful Kavya of the seventeenth century.
 
-
-
 **SRIRANGAM.                             
        * P.P. Subrahmanya Sastri.***
-
-
-
-
 
 **॥ श्रीः ॥**
 
@@ -91,8 +62,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **जयाय भूयाज्जनकात्मजा सा  
 कुचेन कूलंकषगौरवेण।**
-
-
 
 **पतिव्रतौचित्यपरा पुरारि-  
 शरासगर्वं समकोचयद्या॥ ३ ॥**
@@ -117,8 +86,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 वैयासिकी भारतवासनाढ्या  
 सरस्वती दीव्यति लासिकेव॥ ७ ॥**
 
-
-
 **अनन्तशाखागमपक्षपात-  
 जुषः प्रकृत्या हरितत्त्वभानः।  
 शुकस्य वाणी सुकृतैकलभ्या  
@@ -141,8 +108,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **माघाय माघं भवतान्मुकुन्द-  
 केलीकथावर्णनपुण्यभाजे।**
-
-
 
 **स्वर्गावरोधा इव यस्य वाचः  
 स्वैरं भजन्ते सुरसार्थशय्याः॥ १२ ॥**
@@ -167,8 +132,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 कवित्वधारा करमाददाना  
 मन्दं विधत्ते मकरन्दुमद्धा॥ १६ ॥**
 
-
-
 **पदेन दिव्यध्वनिभासुरेण  
 रसोर्मिमग्नान्रचयन्कवीन्द्रान्।  
 दूरीकृतोन्मेषदुरीहकाव्यः  
@@ -191,8 +154,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **ध्वन्यध्वनीनो दशरूपकोचैः-  
 क्रियाकृतश्रीरमणानुकारः।**
-
-
 
 **विख्यातिमान्विश्वजिता मखेन  
 श्रीश्रीनिवासाध्वरिसार्वभौमः॥ २१ ॥**
@@ -217,10 +178,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 राज्ञः पुरो दर्शितमौनमुद्रः  
 प्रायेण जयेत जलानुषङ्गी॥ २५ ॥**
 
-
-
-
-
 **दोषोन्मुखा दूरत एव सूर्या-  
 लोके वहन्तो बहु वैमनस्यम्।  
 अह्नाय घूका इव दुष्टलोका  
@@ -243,8 +200,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **जल्पामि कौतूहलतो यदल्प-  
 धीरप्यहं तत्कवयः क्षमन्ताम्।**
-
-
 
 **वक्रेऽपि काव्ये धनुषीव शूराः  
 प्रायो गुणारोपपरा हि सन्तः॥ ३० ॥**
@@ -269,10 +224,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 तिम्मावनीनायकवय्यमाम्बा-  
 जन्मा सुधर्मा चिनचेव्वभूपः॥ ३४ ॥**
 
-
-
-
-
 **यस्य त्रिलोकीमणिहारयष्ट्या  
 मध्ये महानायकभावभाजः।  
 कदापि न वासकथेति युक्त-  
@@ -295,10 +246,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **सत्रावतीर्णेषु यदाश्रितानां  
 सुत्राममुख्येषु सुधाशनेषु।**
-
-
-
-
 
 **युद्धाहतैर्यः प्रतियोधियोधै-  
 श्चक्रेपुरीं शातमखीमशून्याम्॥ ३९ ॥**
@@ -323,10 +270,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 प्रामाननेकानपि गाढभक्तिः  
 श्रीरङ्गधाम्नेऽदित यो महिम्ने॥ ४३ ॥**
 
-
-
-
-
 **मायूरमध्यार्जुनकुम्भवोण-  
 श्रीदक्षिणावर्तमुखस्थलेषु।  
 वृद्धाचले पञ्चनदे च सेतौ  
@@ -349,9 +292,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **यदाश्रितानां यजने हर्वीषि  
 ग्रहीतुमन्तर्गृहमागतस्य।**  
-
-
-
 
 **द्वारोपकण्ठे द्विपडिम्भदम्भा-  
 द्वाहावलन्ते घनवाहनस्य॥ ४८ ॥**
@@ -376,8 +316,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 अन्ये च वाल्मीकिचरित्रमुख्या  
 विश्वप्रतीता विहिताः प्रबन्धाः॥ ५२ ॥**
 
-
-
 **अध्यास्य तञ्जानगरीममुष्मि-  
 न्सर्वसहां शासति सार्वभौमे।  
 श्रीराजचूडामणियायजूक-  
@@ -400,9 +338,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **मन्ये मरुत्वन्मणिनिर्मितानि  
 शिरोगृहाणां शिखराणि यस्याम्।**  
-
-
-
 
 **वियन्नदीवीचिभरानुषङ्गा-  
 दजस्रमश्चज्जलनीलिकानि॥ ५७ ॥**
@@ -427,10 +362,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 पुष्णन्ति यद्गोपुरशृङ्गभूमौ  
 पूषोपलेभ्यः स्फुरिताः स्फुलिङ्गाः॥ ६१ ॥**
 
-
-
-
-
 **शीतालुभिर्यत्र शिरोगृहेषु  
 गाढं कुमारैर्घटितार्गलेषु।  
 तारासु रुद्धासु चिरं तमिस्रा  
@@ -453,8 +384,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **वलद्विषद्वारणदानपङ्क-  
 नीलीविलिप्ता नियतं पताकाः।**
-
-
 
 **सौधेषु यस्यां सुरसिन्धुपूरे  
 विशोध्य वातो विशदीकरोति॥ ६६ ॥**
@@ -479,8 +408,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 चकार बेधा हरिचापवल्लीं  
 चञ्चन्मणीतोरणदाम सौधे॥ ७० ॥**
 
-
-
 **शोणाघरा यन्मणिसौधभूमौ  
 वीणागुणास्फालनलब्धवर्णा।  
 एणाङ्करेखाग्रहणाय यत्नं  
@@ -503,8 +430,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **अन्तः स्फुरद्भिः परिखासु हर्म्यै-  
 रत्युन्नतैरायतसप्तभूमैः।**
-
-
 
 **चतुर्दशानां जगतामपास्त-  
 सीमाविवादेव समेधते या ॥ ७५ ॥**
@@ -529,8 +454,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 निरीक्ष्यतेऽन्तर्वसुगोपनेन  
 निमज्जितेबाम्बुनि यत्समृद्ध्या॥ ७९ ॥**
 
-
-
 **अधोविसर्पन्मणिगोपुराग्र-  
 मणिप्रभालीमयशृङ्खलासु।  
 व्यालम्बिता या वरणाभिगुप्ता  
@@ -553,10 +476,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **प्रवालमुक्ताफलपद्मराग-  
 वैदूर्यगारुत्मतवज्रनीलैः।**
-
-
-
-
 
 **क्रीणन्ति गोमेधकपुष्यरागैः  
 फलानि यस्यां किल पौरबालाः॥ ८४ ॥**
@@ -581,8 +500,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 भृङ्गीभिरङ्गीकृतमारवीर-  
 संगीतभङ्गीसरसोपकण्ठम्॥ ८८ ॥**
 
-
-
 **प्रसूनलूपादनखेन्दुकन्ति-  
 संदोहसंपर्कचमत्क्रियाभिः।  
 निष्यन्दमानैर्निकटेन्दुकान्तै-  
@@ -605,8 +522,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **दूरादहोदोहददायिनीनां  
 पादाम्बुजानां परिचिन्त्य बाधाम्।**
-
-
 
 **संवाहनायेव शयानशोकाः  
 प्रसारयन्ते क़िसलानिः यत्र॥ ९३ ॥**
@@ -631,10 +546,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 उत्फुल्लपुष्पस्तबकापदेशा-  
 दुदीर्णमन्दस्मितवद्विभाति॥९७॥**
 
-
-
-
-
 **यदृच्छया यत्र विलासवत्यो  
 दृशा स्पृशन्त्यस्तिलकं जडंच।  
 आपादमाचूडमनङ्गबाणै-  
@@ -657,10 +568,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **आस्वाद्य यस्मिन्नमृतोपमानं  
 मुखासवं मुग्धविलोचनानाम्।**
-
-
-
-
 
 **वक्त्रेषु तासां वकुला मधूनि  
 भूयः स्वयं पुष्पमुखैर्दिशन्ति॥ १०२ ॥**
@@ -686,10 +593,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 तस्य कृतिषु रुक्मिणीकल्याणनाम्नि काव्ये   
 प्रथमः सर्गः॥**
 
-
-
-
-
 **द्वितीयः सर्गः ॥  
 ¯¯¯¯¯¯¯¯¯¯**
 
@@ -710,8 +613,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **घनाघनस्तत्कबरीभरच्छल-  
 श्चरीकरीति स्म पदं हृदन्तरे।**
-
-
 
 **विभोर्विचित्रं दृशि बाष्पवृष्टिभि -  
 र्विसृत्वरीभिः समभावि सत्वरम्॥ ४ ॥**
@@ -736,8 +637,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 स चक्षुषाध्यक्षयति स्म तत्क्षणे  
 स्मरस्य जैत्रंसशरं शरासनम्॥ ८ ॥**
 
-
-
 **अमुष्य पद्मं किल नाभिजातमि-  
 त्युपेक्ष्य तद्भीमसुतादृगुत्पलम्।  
 स्मरोऽभिजातं स्मृतमायुषं व्यधा-  
@@ -760,8 +659,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **निरन्तरध्यातनितम्बिनीमणी-  
 मनोज्ञहारावलि मानसं विभोः।**
-
-
 
 **अवाप मुक्तामयतामथ क्षणा-  
 द्दधार तादृक्तरलात्मतामपि॥ १३ ॥**
@@ -786,8 +683,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 कृपामपास्याशु कृपाणवल्लरीं  
 रयेण पाणौ रतिजानिरादधे॥१७ ॥**
 
-
-
 **नितम्बिनीतुङ्गकुचाचलाञ्चला-  
 न्निपात्य नाभीकपटावटे स्मरः।  
 गृहीतरोमावलिशृङ्खलो दृढं  
@@ -810,8 +705,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **नितम्बचक्रं निरवद्यमङ्गना-  
 मणेर्मुकुन्दो मनसास्पृशद्यदा।**
-
-
 
 **निरास्थदास्थां निजचक्रके तदा  
 ततो विधत्तेऽनुशयस्थितिं नु तत्॥ २२ ॥**
@@ -836,10 +729,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 न पुण्डरीकेऽपि स नर्म निर्ममे  
 प्रियेऽपि न प्रीतिमुशन्ति योगिनः॥ २६ ॥**
 
-
-
-
-
 **समीरपोतं समगर्हताङ्गदं  
 निरास्थदृक्षाधिपतिं निनिन्द यत्।  
 विदेहकन्याविरहादपि प्रभु-  
@@ -862,10 +751,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **अणोरणीयानिति यो हरिः पुरा  
 पुराणवाण्या निरणायि केवलम्।**
-
-
-
-
 
 **तथाविधोऽसौ ददृशे दृशा जनैः  
 कृशोदरीतादृगयोगकर्शितः॥ ३१ ॥**
@@ -890,11 +775,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 तनूभुवापि प्रतिकूलता दधे  
 क्व राज्ञि सौख्यं प्रतिकूलतां गते॥ ३५ ॥**
 
-
-
-
-
-
 **स एष जात्या कुटिलः सनामता-  
 दुराग्रहाद्द्रूह्यतु शौरये विधुः।  
 कथं तु सांसिद्धिकसौमनस्यम-  
@@ -917,10 +797,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **वृषाकपायीप्रणयागसि व्यथां  
 विचिन्त्य मन्दानिलतो वितर्कये।**
-
-
-
-
 
 **व्यधत्त वातंधयवल्लभं हरो  
 विभूषणं विभ्रमतल्पमच्युतः॥ ४० ॥**
@@ -945,8 +821,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 वियोगिपीडैकविधाविशृङ्खलं  
 ग्रसेत यद्वा क्षणदाधिपं कथम्॥ ४४ ॥**
 
-
-
 **जगत्प्रभोरेष जटाटवीधुने-  
 र्ललाटवह्नेश्च चमूरुलाञ्छनः।  
 अधीत्य शीतोष्णकृतौ कृती कुले  
@@ -969,8 +843,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **अहो भवानन्तरशान्तपावकं  
 हराक्षिदग्धस्मरंभस्ममण्डलम्।**
-
-
 
 **दहन्ति हा हन्त मरुद्धुता विधो  
 कराङ्कुराकारभृतः कणा यतः॥ ४९ ॥**
@@ -995,10 +867,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 भजानुकम्पां भवता विनापरः  
 समीक्ष्यते नो सहजापतिं द्विषन्॥ ५३ ॥**
 
-
-
-
-
 **विधो सुराहारतयासि विश्रुत-  
 स्तथा समुद्यद्गुरुदाररागभाक्।  
 निशासु हन्तास्ययुतद्विजावले-  
@@ -1021,8 +889,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **ध्रुवं विषश्रीकशिलीमुखो भवा-  
 न्बिभर्ति कन्तो विषमायुधाभिधाम्।**
-
-
 
 **न पञ्चवाणीभरणाद्यदेकदा  
 पतन्ति हा हन्त परः शतं शराः॥ ५८ ॥**
@@ -1047,9 +913,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 तथापि दग्धोऽसि दृशा हरेण य-  
 त्तदेतदध्वन्यवधोदितं फलम्॥ ६२ ॥**  
 
-
-
-
 **शिलीमुखैर्निर्भरसौरभोर्मिलै-  
 स्त्वमात्तगन्धामपि पान्थसंततिम्।  
 प्रसूनबाण प्रसभं नयस्यहो  
@@ -1072,9 +935,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **विदेहकन्याविरहार्तिविह्वली-  
 भवत्ककुत्स्थस्थपतिप्रमोदनः।**  
-
-
-
 
 **प्रभञ्जनायुग्जनताविभञ्जना-  
 त्त्वदाञ्जनेयो जनिमासदत्कथम्॥ ६७ ॥**
@@ -1099,8 +959,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 अनक्षिलक्ष्यत्वकथोपदेशने  
 स्मरो बताचार्यकमाचचार किम्॥ ७१ ॥**
 
-
-
 **स्मरानलादश्रुजलोदयान्नृणां  
 हुताशनादाप इति प्रथा यथा।  
 स्मरानलोत्पादनतः समीर ते  
@@ -1116,11 +974,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 सहजतालब्धविद्यावैशणस्य श्रीराजचूडामणिदीक्षि-  
 तस्य कृतिषु रुक्मिणीकल्याणनाम्नि काव्ये  
 द्वितीयः सर्गः ॥**
-
-
-
-
-
 
 **तृतीयः सर्गः॥  
 ¯¯¯¯¯¯¯¯¯**
@@ -1142,8 +995,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **प्लुष्टस्य कन्तोः पुनरुद्भवं किं  
 संभावयत्सात्वतसार्वभौमात्।**
-
-
 
 **अग्रेसमागादिदमौपवाह्य-  
 मित्यादिशन्तं धियमीक्षकाणाम्॥ ४ ॥**
@@ -1168,10 +1019,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 वर्धयामास विभोः शुकोऽयं  
 वचः सुधासेकविधाविधानात्॥ ८ ॥**
 
-
-
-
-
 **पद्मासनः सद्मगते मयि प्रा-  
 क्पदक्रमव्युत्क्रमशङ्किचेताः।  
 अद्धापदिश्याशु बभूव शिष्टा-  
@@ -1194,10 +1041,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **अफूत्क्रियाहार्यमनङ्गजेतुः  
 शशाङ्कलेशच्छलरत्नदीपम्।**
-
-
-
-
 
 **शश्वन्मयि च्छादयति च्छदाभ्यां  
 नगेन्द्रकन्या मुमुदे नवोढा॥ १३ ॥**
@@ -1222,8 +1065,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 न मोदसे पावनचर्ययापि  
 केयं विभो केवलचित्तता ते॥ १७ ॥**
 
-
-
 **समीरचारेऽपि सबैमनस्यो  
 निरन्तरध्याननिविष्टचेताः।  
 सदा(ऽऽ)श्रमस्थः समुपैषि किं त्वं  
@@ -1246,8 +1087,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **इतीरयन्तं शुकमिङ्गितज्ञं  
 पत्युर्यदूनां प्रतिवक्तुमिच्छोः।**
-
-
 
 **लास्यानि वाण्या लपने चिकीर्षो-  
 स्तिरस्करिण्या त्रपया बभूवे॥ २२ ॥**
@@ -1272,8 +1111,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 फलानुयोगेन भवत्प्रवृत्तेः  
 पर्युत्सुकत्वं भजते मनो मे॥ २६ ॥**
 
-
-
 **इतीरयन्तं हरिमेष कीरो  
 गिरं सुधासारकिरं बभाषे।  
 अज्ञातमप्यस्ति जगत्सु किं ते  
@@ -1296,8 +1133,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **चकोरनेत्रा चरणारविन्द-  
 स्वभावशोभासुलभावमानाः।**
-
-
 
 **लाक्षारसा गाढनिरूढलज्जाः  
 पदे पदे हन्त गलन्ति यस्याम्॥ ३१ ॥**
@@ -1322,8 +1157,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 आविश्य यस्यामरुणोऽतितापा-  
 द्वज्रप्रभावारिषु मज्जतीव॥ ३५ ॥**
 
-
-
 **सौधा यदीया वसुधासुधानां  
 सिताभृतानां सहिता रसेन।  
 सुधां सुधांशोर्जडिमापनुत्त्यै  
@@ -1346,8 +1179,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **नान्यत्रपाथोरुहनालदण्डा-  
 दाकर्ण्यते कण्टकसंकथापि।**
-
-
 
 **हा विस्मृतं कान्तदृढोपगूढां  
 तन्वीतनूमप्यपहाय यस्याम्॥४०॥**
@@ -1372,8 +1203,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 सेवासमायातसमस्तभूपो  
 भूवासवो भीष्मपदाभिधेयः॥४४॥**
 
-
-
 **विधाय धात्रीं सुरभिं प्रयत्ना-  
 द्वेनात्मभूरुत्सिषिचे विशेषात्।  
 इतीव लोकत्रितयीमयत्ना-  
@@ -1396,8 +1225,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **सहायमेकं समवाप्य चापं  
 निरङ्कुशं निर्जितशात्रवस्य।**
-
-
 
 **बलानि सर्वाणि भवन्ति यस्य  
 विभुत्वमुद्रैकविजृम्भणाय॥४९॥**
@@ -1422,8 +1249,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 मुक्त्वा मुहुः कार्श्यकरं खमिन्दु-  
 र्नखेन्दुनामेन्दत्ति नित्यपूर्णः॥५३॥**
 
-
-
 **न भोगरीतिः प्रथते दिवीति  
 विहाय शीतांशुकला विहायः।  
 नतभ्रुवः पादनखा बभूवु-  
@@ -1446,8 +1271,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **ऊरुस्तरुण्याः स्वयमुर्वशीतो  
 रम्भावमानं रचयेत युक्तम्।**
-
-
 
 **उदव्ययत्युज्ज्वलचित्रलेखो-  
 चितं सदा(ऽऽ)भोगमसौ कथं वा॥५८॥**
@@ -1472,8 +1295,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 आश्रित्य मध्यं वलिजुष्टमत्या-  
 स्तदावृत्तिं संप्रति तन्तनीति॥६२॥**
 
-
-
 **सरोजकुम्भानुपकण्ठलोल-  
 नक्षत्रमालाललितौ नताङ्ग्याः।  
 स्वर्णागयोर्मस्तकरीतिमस्याः  
@@ -1496,8 +1317,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **कुचाचलप्रान्तभवौकुमार्या  
 बाहारूयलावण्यरसप्रवाहौ।**
-
-
 
 **शृङ्गारराजोपचितोरुरम्भा-  
 समीपसारस्यकृतौ विभातः॥६७॥**
@@ -1522,8 +1341,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 मन्ये मुकुन्दातनुमन्त्रसिद्ध्या  
 भजेत योगं भवदाननेन॥७१॥**
 
-
-
 **नवांशुकालीमरुणां मुखे या  
 प्रपञ्चयत्यब्जदृशो रसज्ञा।  
 अस्तोकबन्धूकजपाभिरामा  
@@ -1546,8 +1363,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **अधः कृतं नासिकयाबलायाः  
 कान्तत्वमभ्येत्य पुनः कथंचित्।**
-
-
 
 **तिलं ततोऽपि स्थितिमाच्छेदुच्चै-  
 रलीकभाजो हि भवन्त्यजथ्याः॥७६॥**
@@ -1572,8 +1387,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 माराहितान्तःपुरमद्रिकन्या  
 माराधयत्याप्तुमना वरं त्वाम्॥८०॥**
 
-
-
 **तदीयतत्तादृशभक्तिमुद्रा-  
 तरङ्गितोद्दामदयापयोधेः।  
 आज्ञावशादागममम्बिकायाः  
@@ -1596,8 +1409,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **मधुद्विषे मामकवाचिकानि  
 निवेदयेदेष न वेत्यवैतुम्।**
-
-
 
 **तया निसृष्टेन तरस्वितायां  
 चिरं विचारो निजचेतसा मे॥८५॥**
@@ -1622,8 +1433,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 झषभियं बाष्पझरीपरीत-  
 मजस्रमाविष्कुरुते तदक्षि॥८९॥**
 
-
-
 **संभाव्य संकल्पसमागतत्व-  
 दाचुम्बनाडम्बरमम्बुजाक्षी  
 आकुश्च्चयत्यन्ञ्चलमीषदक्ष्णो-  
@@ -1646,8 +1455,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **उदूढनिःश्वासभरोपवन्यां  
 मृदूदयन्मारुतकंदलायाम्।**
-
-
 
 **धारावाष्पाम्बुतरङ्गिताक्षी  
 धारागृहे सा तरलेक्षणास्ते॥९४॥**
@@ -1672,8 +1479,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 सेवस्वयं गायति सांप्रतं तु  
 यशोऽनिशं ते यदुवंशकेतो॥९८॥**
 
-
-
 **हरिः समेतीत्यधिगत्य कीरं  
 विधुर्विभातीति विलोक्य चन्द्रम् \।  
 पद्मानुरागी स्फुरतीति भानुं  
@@ -1696,8 +1501,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **स्वेदाम्बुसिक्ते हृदये सुदत्या  
 रतीशिता संप्रति रागबीजम्।**
-
-
 
 **अङ्कूरयन्किंपुलकापदेशा-  
 त्पुनःपुनः सिञ्चति बाष्पपूरैः॥१०३॥**
@@ -1722,8 +1525,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 बाष्पाम्बुपूरैर्बहुधा गलद्भिः  
 प्रख्यापयत्यक्षि पयोरुहाक्ष्याः॥१०७॥**
 
-
-
 **किमत्र चित्रं वद कीरवाणी  
 विलासिनी साजनि विस्वरेति।  
 इदं तु चित्रं यदुनाथ धत्ते  
@@ -1746,8 +1547,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **महीयते माधवसंगतेयं  
 वल्ली भवत्या पुषिता वराङ्गि।**
-
-
 
 **आलोकयेत्यालिमुदीरयन्ती  
 मालोकते माधव कुञ्चितभ्रूः॥११२॥**
@@ -1772,8 +1571,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 कीर्त्तिं तदीयां सखि कीर्तय त्वं  
 गीर्भिः किमन्याभिरिति ब्रवीति॥११६॥**
 
-
-
 **आहूय लीलाशुकमादरेण  
 बाहूपरि न्यस्य बहूपलाल्य।  
 त्वदन्तिकं प्रेषयितुं कृतेच्छा  
@@ -1796,8 +1593,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **तातस्ततेभ्यस्तरुणीमतल्ली  
 श्रुत्वा तवात्मन्यनुरागशैलीम्।**
-
-
 
 **अन्यावनीनायककन्यकाभ्यो  
 धन्याहमेवेत्यभिमन्यते सा॥१२१॥**
@@ -1822,8 +1617,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 भुजान्तरे तस्य चिरं शयाना  
 रुजां विनेष्येऽहमितीहते सा॥१२५॥**
 
-
-
 **राधा न चाहं रतिवल्लभा ते  
 पथि स्खलन्किंपतितोऽसि यद्वा।  
 यावद्वृथा कुप्यति साशु याहि  
@@ -1846,8 +1639,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **वनप्रिये व्याहरसि प्रियं चे-  
 त्तवैव लाभो भविता तदानीम्।**
-
-
 
 **ताम्यन्ति तापेन न मे यतोऽमी  
 चूतप्रवालाइति वक्ति सुभ्रूः॥१३०॥**
@@ -1872,8 +1663,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 आरामभूमावनुलिप्तगात्री  
 चन्द्रातपं संप्रति सेवते सा॥१३४॥**
 
-
-
 **आशङ्क्यभृङ्गारवमङ्गजात-  
 मौर्वीलताटंकृतिमेव गुर्वीम्।  
 ध्यानागतत्वत्परिरम्भणाय  
@@ -1896,8 +1685,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **इति श्रीराजचूडामणिदीक्षितस्य कृतिषु रुक्मिणीकल्याणनाम्नि काव्ये तृतीयः सर्गः॥**
 
-
-
 **चतुर्थः सर्गः।**
 
 **अपरेद्युरथाभिवन्द्य गौरी-  
@@ -1917,8 +1704,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **मृदुतोपगतोपमेयभाव-  
 प्रभवागः प्रशमाय तूलपुञ्जः।**
-
-
 
 **सपदीकुरुते किमुत्पलाक्ष्याः  
 सरसालक्तकसंपदं पदस्य॥४॥**
@@ -1943,8 +1728,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 बत शृङ्खलिता बलाद्गृहीत्वा  
 महिपैर्युक्तमिदं मदान्धतायाः॥८॥**
 
-
-
 **गजराजवधूगभीरगत्या  
 गतिचातुर्यकृतस्पृहा मरालाः।  
 पदपद्मसहोदरैरमुष्याः  
@@ -1967,8 +1750,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **प्रपदं डुलिचातुरीधुरीणं  
 नखपङ्किर्नवशुक्तिभङ्गभङ्गिः।**
-
-
 
 **अपि गुल्फयुगी कुलीरकेलि-  
 चरणोऽस्या धृतरागसागरश्रीः॥१३॥**
@@ -1993,8 +1774,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 इति युक्तमधः स्थितेन दध्रे  
 सुदृशः श्रोणिभरेण वप्रशोभा॥१७॥**
 
-
-
 **विजिता ततिरद्रिमेखलानां  
 विपुलाक्षीमणिमेखलापदेन।  
 अभिधां दधती किलादसीया-  
@@ -2017,8 +1796,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **प्रमदामणिनामिगाधतत्त्व-  
 प्रतिलम्भाय नवेन यौवनेन।**
-
-
 
 **विधृता बलवैरिनीलयष्टी  
 रुचिरा राजति रोमराजिरूपा॥२२॥**
@@ -2043,8 +1820,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 त्रिवलीवलयाङ्कितः समिन्द्धे  
 रुचिरो रोमलतैकचूतनाथः॥२६॥**
 
-
-
 **कुसुमायुधभूपदुर्गसीम्नोः  
 कुटिलाक्ष्याः कुचभूभृतोरमुष्याः।  
 असितांशुकृताधिरोहणीयं  
@@ -2067,8 +1842,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **नवयौवननामसूत्रधारो  
 नलिनाक्ष्यामिह नाटयन्विलासान्।**
-
-
 
 **अधित स्तनतालयुग्ममारा  
 दजहल्लम्बनरोमराजिसूत्रम्॥३१॥**
@@ -2093,8 +1866,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 कुरुते मणिहारशीकरालिं  
 कुचकुम्भोपरि किं वयोगजेन्द्रः॥३५॥**
 
-
-
 **नलिकं नवरोमराजिदम्भा-  
 त्कलयन्मानखगं ममाभिहन्तुम्।  
 गुलिका व्यतनिष्ट हारवल्ली-  
@@ -2117,8 +1888,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **परपुष्टवधूशुकावरोधाः  
 प्रमदामौलिमणेर्वचोविधेयाः।**
-
-
 
 **किमदोधरबिम्वकान्तिचोरं  
 किसलं बिम्बफलं च खण्डयन्ति॥४०॥**
@@ -2143,8 +1912,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 अमला पुनरावलिर्द्विजानां  
 कुरुते कोमलकुट्मलालिशङ्काम्॥४४॥**
 
-
-
 **मयि कांचन-विक्रियां निनीषु-  
 र्मदनः किं नु मृदुस्मितांशुदुग्धे।  
 कुरुते गुलिकां रसेन बद्धां  
@@ -2167,8 +1934,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **मृदुगन्धवहादसीयनासा-  
 कुहनाकाञ्चनकुट्मलेऽक्षिलक्ष्ये।**
-
-
 
 **कथयन्ति सुदुर्लभं कथं वा  
 सुरभित्वं सुधियः सुवर्णपुष्पे॥४९॥**
@@ -2193,8 +1958,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 अवतंसनिभेन किंचिदुच्चै -  
 रजनिष्ठ स्फुटमावहल्लघुत्वम्॥५३॥**
 
-
-
 **ललनातिलकस्य चारुचिल्ली-  
 लतया विभ्रमसंपदेकधाम्ना।  
 सदृशी कथमस्तु शम्बरारे-  
@@ -2217,8 +1980,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **चिकुरप्रकरश्रियोऽनुकारा-  
 च्चमरी मुग्धचमूरुलोचनायाः।**
-
-
 
 **निजवालभरेऽपराङ्गकेभ्यो  
 नियतं प्रीतिमनुत्तमां विधत्ते॥५८॥**
@@ -2243,8 +2004,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 सपक्षात्सर्वस्मादपि मधुकराणां समुदया-  
 द्विपक्षाद्व्यावृत्तिं व्रजति शिखिपिञ्छादपि यतः॥**
 
-
-
 **सुदत्या लावण्यस्रुतिरनघकेशोच्चयघना-  
 द्गलन्तीयं मुक्तागणमयललन्तीकपटतः।  
 निलीना भ्रूवल्लीनिकटभुवि नासानिभमणि-  
@@ -2265,16 +2024,12 @@ Krishna, the description of the summer-season, the description of the rainy seas
 कुहूंकिं चातन्वन्सततमुपकण्ठस्थितिमती  
 मनूनं शीतांशोरपि कलयते मण्डलमहो॥६६॥**
 
-
-
 **निर्वर्णयन्निति नितम्बवतीं मुकुन्दो  
 मन्दाक्षमोदभरमेदुरितान्तरङ्गः।  
 अङ्कं नयन्नयमिमामथ कुञ्चिताङ्ग-  
 मारुह्य कीरवरेमात्मपुरीं प्रतस्थे॥६७॥**
 
 इति श्रौदन्तिद्योतिदिवाप्रदीपाङ्कसत्यमङ्गलरत्नखेटश्रीनिवासदीक्षिततनयस्य कामाक्षीगर्भसंभवस्य श्रीमदर्धनारीश्वरदीक्षितगुरुचरणसहजतालब्धविद्यावैशद्यस्य श्रीराजचूडामणिदीक्षितस्य कृतिषु रुक्मिणीकल्याणनाम्नि काव्ये चतुर्थः सर्गः॥
-
-
 
 **पञ्चमः सर्गः॥**
 
@@ -2295,8 +2050,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **पश्यामुष्मिन्प्राक्तने कूर्मराजे  
 क्रीडाभेदैः क्रीतचित्ते दुलीभिः।**
-
-
 
 **ईर्ष्यारोषादीषदारज्यमाना-  
 नीक्षाभेदानिन्दिरा तन्तनीति॥४॥**
@@ -2321,8 +2074,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **गायन्तः श्रीकामुकं वारिमर्त्या  
 ङोलालीलादोहदानारभन्ते॥८॥**
 
-
-
 **वारं वारं वारिनारीकुमार्यः  
 कालेयानां काषतः शेषमौलौ।  
 धूमोद्गारैर्धूसरा बाडबाग्रे  
@@ -2345,8 +2096,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **नित्यं नाभीनीरजातान्मुरारे-  
 र्माध्वीपूरे मांसले स्यन्दमाने।**
-
-
 
 **सेतुर्धूलीसैकतैर्वारिनारी-  
 बालैरेतैर्बध्यते बद्धलीलैः॥१३॥**
@@ -2371,8 +2120,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 शेषोपान्ते शेरते बारिनारी-  
 बाला नाभीपद्मलोलायताक्ष्याः॥१७॥**
 
-
-
 **गन्धर्वाणां गायतामिन्दिरेशं  
 वीणालाबुं व्याजतोऽमी गृहीत्वा।  
 अन्ये पाथोमानवीनां कुमाराः  
@@ -2395,8 +2142,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **वीचिवातैर्विष्णुनाभीसरोजा-  
 द्दूरोद्धूता धूलिकापालिकेयम्।**
-
-
 
 **अम्भोवाहेष्वापतन्ती समन्ता-  
 द्विद्युल्लक्ष्मीविभ्रमं तन्तनीति॥२२॥**
@@ -2421,8 +2166,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 पाथोभिश्चप्रायशो वारिराशौ  
 संपद्यन्ते सर्वतो वारिवाहाः॥२६॥**
 
-
-
 **उच्चैर्लीलोद्वर्तिमीनासिधेनू  
 प्रायो भूयः प्रस्फुरत्कूर्मखेटौ।  
 सभ्यं कृत्वा शार्ङ्गिणं युध्यतोऽमू  
@@ -2445,8 +2188,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **पाथोनाथः प्राप्य कूलंकषत्वं  
 सद्यो दूरं संकुचद्वारिपूरः।**
-
-
 
 **विश्वस्यैवं वृद्धिहानी भवेता-  
 मित्येवोच्चैरेषवक्तीव घोषैः॥३१॥**
@@ -2471,8 +2212,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 पारावारं पक्ष्मलाक्षि क्षमायाः  
 प्रान्तश्वेतं भावये नीलचेलम्॥३५॥**
 
-
-
 **वातोद्धूतो वारिधौ भाति वीची-  
 गुम्भच्छद्मा गूढपात्प्रौढएषः।  
 नो चेदेवं नूतनीं फेनपाली-  
@@ -2495,8 +2234,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **वीचीवातैर्विष्वगाधूयमानैः  
 शीर्णैर्भूयः शीकरैर्वञ्चिताशाः।**
-
-
 
 **मुग्धा नूनं मौक्तिकेष्वप्यनास्थां  
 कुर्वन्त्येते कूलभूदाशडिम्भाः॥४०॥**
@@ -2521,8 +2258,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 पाथःक्लिन्नं पक्षमुत्क्षिप्य दूरं  
 व्याधून्वाना वीक्ष्यते पर्वताली॥४४॥**
 
-
-
 **सिन्धावम्भःसिन्धुराणां मदाम्भो-  
 लोभादुच्चैर्लोलमूहेऽलिचक्रम्।  
 प्राप्तं दन्तिप्राज्यराज्याधिराज्या-  
@@ -2546,8 +2281,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **मन्येपायोमग्नभूभृन्निकुञ्जे  
 भोजं भोजं भोगिकन्या निगूढम्।**
 
-
-
 **पाथोमर्त्याः पश्य दम्भोलिपाणे-  
 र्भूयोऽप्यायुः पुष्कलं प्रार्थयन्ते॥४९॥**
 
@@ -2562,8 +2295,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 वैवाहिकं विधिमुपाक्रमताच्युतस्य॥५१॥**
 
 इति श्रीदन्तिद्योतिदिवाप्रदीपाङ्कसत्यमङ्गलरत्नखेटश्रीनिवासदीक्षिततनयस्य कामाक्षीगर्भसंभवस्य श्रीमदर्धनारीश्वरदीक्षितगुरुचरणसहजतालब्धविद्यावैशद्यस्य श्रीराजचूडामणिदीक्षितस्य कृतिषु रुक्मिणीकल्याणनाम्नि काव्ये पञ्चमः सर्गः॥
-
-
 
 **षष्ठः सर्गः।**
 
@@ -2586,8 +2317,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 र्विद्दिताभिषेचनविधिं विधाय ताम्।  
 विविधप्रसाधनविधानदक्षिणा  
 विपुलेक्षणा व्यधुरुदूढभूषणाम्॥४॥**
-
-
 
 **पदपद्ममम्बुजदृशः प्रसाधिका-  
 करयावकद्रवकरम्बितं बभौ।  
@@ -2612,8 +2341,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **चटुलेक्षणाचरणपद्मसंगतिः  
 सुकृतैरलम्भि सुलभेतरा परैः।**
 
-
-
 **इति हंसकः कलयति स्म संमदा-  
 त्क्वणितच्छलात्किलिकिलारवं किल॥९॥**
 
@@ -2636,8 +2363,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 सुतनोः सुवर्णमयपट्टभूषिता।  
 अवलग्नयष्टिरभिकस्य संनिधे-  
 र्दधती दरोच्छ्वसिततामिवाबभौ॥१३॥**
-
-
 
 **गजकर्णिकाकुसुमकल्पकङ्कण-  
 च्छलतश्चकोरनयनाकराम्बुजम्।  
@@ -2662,8 +2387,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **अकृत स्वचिह्नमखिलं जगज्जय-  
 न्मकरध्वजः सुरमहीभृतस्तटे।**
 
-
-
 **इति बुद्धिमीक्षकजनस्य तन्वती  
 महिलाकुचे मकरिकां परालिखत्॥१८॥**
 
@@ -2686,8 +2409,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 विततान यां विमलहार मालिकाम्।  
 विलास सा विषमबाणभूमिभृ-  
 द्गिरिदुर्गहीरवरणानुसारिणी॥२२॥**
-
-
 
 **उपनीय हारमुरुतत्कुचावदः-  
 प्रतिबिम्बदर्शनपराङ्मुखी परा।  
@@ -2712,8 +2433,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **अभृताननामृतमरीचिनिःसर-  
 त्सुषुमासुधौघजलनिर्गमश्रियम्।**
 
-
-
 **सुदतीमणेः श्रवणयोः सुमध्यया  
 परयाततः कनकपत्रमर्पितम्॥२७॥**
 
@@ -2736,8 +2455,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 रवलोक्य दैर्घ्यमधिकं मृगीदृशः।  
 नवमुत्पलं नतमुखं कपोलयो-  
 रविशत्किमन्तरनुबिम्बदम्भतः॥३१॥**
-
-
 
 **प्रियपीतमप्यधरबिम्बमञ्जसा  
 किरणामृताप्लुतमियं करोत्विति।  
@@ -2762,8 +2479,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **कुटिलः कुरङ्गमदपङ्ककल्पित-  
 स्तिलकस्तिलप्रसवनासिकामणेः।**
 
-
-
 **अलिकश्रिया बत वलाहृतं शुचा  
 मलिनं सुधांशुशकलं मनस्यधात्॥३६॥**
 
@@ -2786,8 +2501,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 विहितेऽङ्कुरार्पणविधौ पुरोधसा।  
 उपहारनीरजभिदाकृते करे  
 युवतीमणेः किमु बबन्ध कौतुकम्॥४०॥**
-
-
 
 **मधुसूदनस्तदनु भीष्मकार्पितं  
 मधुपर्कमेष यदसिस्वदन्मुदा।  
@@ -2812,8 +2525,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **ऋषभूमिभृत्कठिनचाजिते न्यधा-  
 त्पदमश्मनीयमिति मन्वते परे।**
 
-
-
 **अधिरोढुमुन्नतमुरःस्थलं हरे-  
 रिति मन्महे वयमियं रमा यतः॥ ४५ ॥**
 
@@ -2836,8 +2547,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 कुसुमाञ्जलिं किल वितन्वती वधूः।  
 करयोः प्रगृह्यनवमौक्तिकालिं  
 कलयांचकार कमनस्य मूर्धनि॥ ४९ ॥**
-
-
 
 **विगलन्त्यथो विभुकिरीटतो वधू-  
 करमुक्तमौक्तिकमरीचिकैतवात्।  
@@ -2862,8 +2571,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **करमुक्तमौक्तिकमरीचिवीचिका-  
 कलितावगुण्ठनकलां विलासिनीम्।**
 
-
-
 **कलशाम्बुराशिलहरीपरीवृतां  
 कमलाममन्यत सरोजलोचनः॥ ५४ ॥**
 
@@ -2886,8 +2593,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 समदीपयन्कविपये समन्ततः।  
 अपरेऽप्यनेकविधलोहयन्त्रकै-  
 र्हरितां मुखानि रटितैरपूरयन्॥५८॥**
-
-
 
 **जयशङ्खसंघकनकानकावली-  
 मुरवाद्यवाद्यनिनदे निरन्तरे।  
@@ -2912,8 +2617,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **मसृणैर्विलिप्य घुसृणैः पदद्वयं  
 सरसेन यावकरसेन च स्तनौ।**
 
-
-
 **अपहाय चारिमपहासकारिणीं  
 मदनाकुला सुरदनाप कापि तम्॥६३॥**
 
@@ -2936,8 +2639,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 स्तरलाञ्जवेन कुरलान्विवृण्वती।  
 नवनीरवाहमिवं नीलिमश्रिया  
 स्वदमानमेक्ष्य मुदमाप कापि तम्॥६७॥**
-
-
 
 **लिखितुं व्यवस्य (?) सखि तुङ्गनासिकं  
 किमु कंजनाभममुकं विनिर्गता।  
@@ -2962,8 +2663,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **साक्षिणि स्मरहविर्भुजि चिन्ता-  
 साधितं सरसमस्य विवाहम्।**
 
-
-
 **कन्यका च कथमाचरणाञ्च-  
 ल्लाजजाललसंमानकराब्जा॥७२॥**
 
@@ -2986,10 +2685,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 रादरेण विनमन्नविशेषम्।  
 मानयन्गुरुजनानपि सर्वा-  
 न्मन्दिरं निजमियाय स मन्दम्॥७६॥**
-
-
-
-
 
 **द्वारचारुमणितोरणरम्भा-  
 काञ्चनक्रमुकचित्रवितानम्।  
@@ -3014,8 +2709,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **कल्पवल्लिमिव क्लृप्तविभ्रमां  
 निश्चलद्युतिमिवाचिरद्युतिम्।**
 
-
-
 **रुक्मिणीं रुचिररूपशालिनी  
 रञ्जयन्रतिमुवाह तत्र सः॥ ८१ ॥  
 सा सखीजनवचोऽवजानती  
@@ -3037,8 +2730,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 बीडयाजनि वधूः पराङ्मुखी।  
 संमुखस्थितिरपीक्षितानि सा  
 साहसं परममन्यतावला॥८५॥**
-
-
 
 **निद्रयेव दृढमीलितेक्षणा  
 लज्जयाथ शयने तलोदरी।  
@@ -3062,9 +2753,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **इति श्रीराजचूडामणिदीक्षितस्य कृतिषु रुक्मिणीकल्याणनाम्नि काव्ये षष्ठः सर्गः ॥**  
 
-
-
-
 **सप्तमः सर्गः॥  
 —————**
 
@@ -3085,8 +2773,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **पुष्पिणीरपि पुरा नववल्ली-  
 रन्वभुङ्क यदसौ मधुमत्तः।**
-
-
 
 **पात्रकात्किमु ततः परिपक्वा-  
 त्क्षिप्रमेव पवनः क्षयमाप॥ ४ ॥**
@@ -3111,8 +2797,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 दाव एष दवसीम्नि विजह्वे  
 कृष्णवर्त्मनि किमस्ति सुहृत्त्वम्॥ ८ ॥**
 
-
-
 **पक्ववेणुपरुडुद्गतमुक्ता-  
 दावपावककणावलिदम्भात्।  
 कंजभूः करकवासवकोपा-  
@@ -3135,10 +2819,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **शाखिमूलगतमस्मदमित्रं  
 शश्वदेतदभिरक्षति शैत्यम्।**
-
-
-
-
 
 **इत्थमाहितरुषा किल देहे  
 काननं झटिति धर्मदिनेन॥ १३ ॥**
@@ -3163,8 +2843,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 उष्णभानुरुदरं सरसीनां  
 निर्बिभेद निजपादपटिन्ना॥ १७ ॥**
 
-
-
 **भाविनं घनभटैरुपरोधं  
 संविचिन्त्य नु सहस्रगभस्तिः।  
 आरसातलमभिन्त धरित्री  
@@ -3187,8 +2865,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **विस्तृतं मरुमरीचिवितानं  
 वीक्ष्य वीक्ष्य जलविभ्रमतोऽभ्रे।**
-
-
 
 **आकुलेषु बहुधायैमरध्ये-  
 ष्वाविरास दिवसेष्वथ दैर्घ्यम्॥ २२ ॥**
@@ -3213,11 +2889,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 वीतकाममुपनीततपश्री-  
 र्वासरः किमु वयोऽधिकमाप॥ २६ ॥**  
 
-
-
-
-
-
 **विश्वदिग्विजयविश्वथवाञ्छे  
 पञ्चबाणधरणीपनणीन्दौ।  
 शर्वरीपटकुटीं समयोऽसा-  
@@ -3240,8 +2911,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **पादद्यातमधिगत्य पतङ्गा-  
 त्पद्मिनीपरिवृढोषलसंघः।**
-
-
 
 **कोषतः किल वबाम कृशानुं  
 कः सहेत समहाःपरिभूर्तिम्॥ ३१ ॥**
@@ -3266,8 +2935,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 दावधूमततिधूसरिताभ्र-  
 स्तेज एव तनुते स्म स कालः॥ ३५ ॥**
 
-
-
 **माधवाधिगतमांसलभावा-  
 मोदशालिप्तुमनोदमनोऽसौ।  
 आतपोऽधित विरोचनजातः  
@@ -3290,8 +2957,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **कोष्णमेतदमृतं करकस्थं  
 दीयतामधरभाजनगुप्तम्।**
-
-
 
 **इत्युदीतहसितामिह पाथः-  
 पालिकां परिचुचुम्ब युवैकः॥ ४० ॥**
@@ -3316,8 +2981,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 पांसुचक्रकपटात्पवमानः  
 पांसुले पथि चरन्नहरत्किम्॥ ४४ ॥**
 
-
-
 **भानुधामपथिकश्रमपाथो-  
 दह्यमानदवधूममरुद्भिः।  
 अन्वमायिनचिरादभिवृद्धि-  
@@ -3333,8 +2996,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 सहजतालब्धविद्यावैशद्यस्य श्रीराजचूडामणिदीक्षि-  
 तस्य कृतिषुरुक्मिणीकल्याणनाम्नि काव्ये  
 सप्तमः सर्गः ॥**
-
-
 
 **अष्टमः सर्गः।  
 ————**
@@ -3356,8 +3017,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **कल्पये जलमुचां कदम्बकं  
 रोहितोरुमणिदण्डमण्डितम्।**
-
-
 
 **आतपैरधिकमङ्कुरद्रुजो  
 नीलमातपनिवारणं क्षितेः॥ ४ ॥**
@@ -3382,8 +3041,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 नीर वाहनिवहेन शिश्रिये  
 चन्दनाचलचमत्कृता दिशा॥ ८ ॥**
 
-
-
 **वंशवण्ड दहिवैरिधन्वना  
 पट्टगुच्छदचिरप्रभाजुषा।  
 इन्द्रनीलचतुरन्वयानवा-  
@@ -3406,8 +3063,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **प्रायशः पथिकपद्मलोचना-  
 प्राणवायुभरपारणावते।**
-
-
 
 **वारिवाहफणिभिर्विषोत्करे-  
 र्विद्युदालिरसना विसारिताः॥१३ ॥**
@@ -3432,8 +3087,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 आततान हरिकोपकैतवा-  
 दब्जरागनिकराभिषेचनम्॥ १७ ॥**
 
-
-
 **वाढबज्वलनसंगतां घन-  
 श्रेणिकासु चिरवासनावशात्।  
 विष्फुलिङ्गविततिं विसृत्वरीं  
@@ -3456,8 +3109,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **बारिशोषकमिनं बलाहकै -  
 र्वारयेति वचनं जलेशितुः**
-
-
 
 **द्रापयन्वलभिदं तदीरितैः  
 प्रावृणोत्पुनरिनं मरुद्धनैः॥ २२ ॥**
@@ -3482,8 +3133,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 चञ्चलाफणिमुखोऽचरीकर-  
 त्प्रायशोऽम्बरमणिप्रमोषणम्॥ २६ ॥**
 
-
-
 **शीर्णकङ्कणमपास्तहंसकं  
 किं च दूरमवधीरिताम्बरम्।  
 व्यञ्जितस्वरविशेषकंधरं  
@@ -3506,11 +3155,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **आपगावलिभिरानतैर्न चे-  
 दातनिष्यदभिवृद्धिमम्बुभिः।**  
-
-
-
-
-
 
 **वारिदेपिबति वारि निर्भरं  
 नाभविष्यदचिरान्नदीपतिः॥ ३१ ॥**
@@ -3535,8 +3179,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 वारिदान्कि विधाय शेषतः  
 षकजम्बुफलजालमादधे॥३५ ॥**
 
-
-
 **मारुतोद्भवममुं महीयसा  
 गर्जितेन कृतकर्णदुर्व्यथम्।  
 धार्तराष्ट्रधृतिहारिणं घनं  
@@ -3559,10 +3201,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **वारिदेन बहुवर्षशालिना  
 नीरदत्वमुचितं निषेदुषा।**
-
-
-
-
 
 **किं वकावलिपटी गलज्जल-  
 स्यन्दिनीविधुतये चिरं धृता॥४०॥**
@@ -3587,8 +3225,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 विलोक्य किं वियति विलिटिल्यरे रया-  
 त्तुरङ्गमास्तुमुकभयोदयाद्रवेः॥ ४४ ॥**
 
-
-
 **पाथोदस्वरमण्डलीफलकभूपर्यायलोलास्तटि-  
 तन्त्रीरार्द्रतयातिघर्घरतरोत्तालस्वरत्र्यञ्जिकाः  
 शश्वश्चालयतः पयोदसमयाद्गानं समभ्यस्यतां  
@@ -3609,8 +3245,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 जृम्भद्गर्जितभीषणाः प्रतिकलं जम्भारिचापोद्भटाः  
 प्रायो विष्णुपदस्पृशोऽब्धिमभजन्पाथोधरा यामिकाः॥**
 
-
-
 **उचालस्तनितार्भटीनिशमनव्यामुग्धमुग्धेक्षणा-  
 सद्यःस्वैरसमर्पितस्तनपरीरम्भप्रियंभावुकः।  
 वेलालङ्घनजातिके निरवधावानन्दपायोनिधौ  
@@ -3621,8 +3255,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 सहजतालब्धविद्यावैशद्यस्य श्रीराजचूडामणिदीक्षि-  
 तस्य कृतिषु रुक्मिणीकल्याणनाम्नि काव्ये  
 अष्टमः सर्गः**
-
-
 
 **नवमः सर्गः॥**  
 **————**
@@ -3644,8 +3276,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **विरहविहतजीवनानुबन्धा  
 ननु नलिनी पुरतो निरीक्ष्य नाथम्।**
-
-
 
 **अवनमितमुखीत्रपानुषङ्गा  
 दभवदधोमुखबिम्बिताब्जदम्भात्॥ ४ ॥**
@@ -3670,8 +3300,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 पतिमिव घनबन्धनात्प्रमुक्तं  
 प्रसभमुदीक्षितमुन्मुखी बभूव॥ ८ ॥**
 
-
-
 **शुकततिवपुषा सुराधिनेतु-  
 र्वियति धनुर्लतिका विपर्यणंसीत्।  
 बभुरभिनवबन्धुजीववेषा  
@@ -3694,10 +3322,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **जगति जलधरैर्गृहीतमुक्तं  
 चुलुकयितुं चतुरर्णवीजलौधम्।**
-
-
-
-
 
 **कलशसुकृतकन्दलं मुनीन्द्रं  
 शरदुदलासयदञ्जसेति शङ्के॥ १३ ॥**
@@ -3722,8 +3346,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 समजनि कलमावलिस्तदानीं  
 समजनि पाटलिमस्फुरन्मुखश्रीः॥ १७ ॥**
 
-
-
 **हसदभिनवमूलहलकोच्चैः  
 प्रसृमरधूलिपरंपरानुषङ्गात्।  
 समधिकमरुणैरभावि सद्यः  
@@ -3746,10 +3368,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **समुदयसमयद्रवीकृताभि  
 र्मणितिभिः स्फुरित वृतीक्षुकाण्डाः।**
-
-
-
-
 
 **किमजनिषत शालिपालिनारी-  
 सुमधुरगीतिसुखोदिताश्रुपूराः॥ २२ ॥**
@@ -3774,8 +3392,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 प्रतिनवशरकाण्डतुल्यकक्ष्यां  
 प्रतिपदमानशिरे पयोदरेखाः॥ २६ ॥**
 
-
-
 **अनुकलजलसेचनव्यपाया-  
 द्धनकुलकोलिशखण्डमण्डलानि।  
 अशनिहुतवहोरुहेतिदाहा-  
@@ -3798,8 +3414,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **परिसरभुवि खेलतां बकानां  
 परिचयमेत्य चिरं परम्पराभिः।**
-
-
 
 **जलधरनिवहाजगाहिरे किं  
 धवलमतत्त्वतां धुरंधरत्वम्॥ ३१ ॥**
@@ -3824,8 +3438,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 हृदि सपदि हिमव्यथां विचिन्त्य  
 प्रकटितझाटिपटास्तदा बभूवुः॥ ३५ ॥**
 
-
-
 **जलनिधिजलजातमश्वरत्नं  
 करिवरमभ्रमुकामुकं च दृष्ट्वा।  
 सपदि समभवन्घना वलक्षाः  
@@ -3848,11 +3460,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **जगति विचलतां जनाधिपानां  
 विजयरमापरिणीतिविभ्रमाय।**  
-
-
-
-
-
 
 **शितघनपटलेन सिद्धमार्गे  
 सिचयवितानचमत्क्रिया सिषेवे॥ ४० ॥**
@@ -3877,8 +3484,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 अभजत न पतिनदी तदाखा-  
 वपगतभूरिरसा शरद्वशेन॥ ४४ ॥**
 
-
-
 **अभवदधिकपङ्किलापि पद्या  
 सुगमतमा सुमधूलिभिर्जपानाम्।  
 पुनरजनि च दुर्गमा प्रफुल्ल-  
@@ -3894,8 +3499,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 सहजतालब्धविद्यावैशद्यस्य श्रीराजचूडामणिदीक्षि-  
 तस्य कृतिषु रुक्मिणीकल्याणनाम्नि काव्ये  
 नवमः सर्गः॥**
-
-
 
 **दशमः सर्गः॥  
 ——————**
@@ -3917,10 +3520,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **तुहिनशैलतुषारपरम्परा-  
 रभसवेपितरध्यगणो रविः।**
-
-
-
-
 
 **निववृते नियतं मलयाचलो-  
 ल्लसदहीन्द्रगरोष्मलिते पथि॥ ४॥**
@@ -3945,8 +3544,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 भयवशान्नियतं नलिनीपतिः  
 प्रसभमभ्रपथे प्रपलायत॥ ८ ॥**
 
-
-
 **प्रगुणवेगपतङ्गतुरङ्गम-  
 प्रकरपादपुटाइतिचूर्णितम्।  
 विशदमभ्रकुलं वियदध्वनि  
@@ -3969,8 +3566,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **अतिगभीरहृदोऽपि महाह्रदाः  
 कमलिनीविरहाधिककातराः।**
-
-
 
 **वहलजृम्भितबाष्पपरिप्लुता  
 बभुरहो बत नेह यथापुरम्॥ १३ ॥**
@@ -3995,8 +3590,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 त्रिचतुरानपितृषिता मधु-  
 भ्रमवती नवकुन्दभृतान्पुनः॥ १७ ॥**
 
-
-
 **सहृदयेषु सरोरुह कोरके-  
 ष्वधिगतेषु विपत्तिमनेहसा।  
 किमिति तापमवाप कृशोदरी-  
@@ -4019,10 +3612,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **किममितंपचधर्मनखंपच-  
 स्तनवटीघटनात्तरसा स्फुटेत्।**
-
-
-
-
 
 **इति विचिन्त्य हृदि प्रमदाजनः  
 परिजहौ निजहारपरम्पराम्॥ २२ ॥**
@@ -4047,10 +3636,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 अहह शोकवशेन हसन्तिका -  
 मबलपातकृते किमसेवत॥२६॥**
 
-
-
-
-
 **समय एष हठने सरोरुहा-  
 मपहरन्नखिलामपि संपदम्।  
 अहह तत्सुहृदोऽपि वधूकरा-  
@@ -4073,11 +3658,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **शिशिरमारुतशीफरितव्यथः  
 सरभसं सकलोऽपि तदा जनः।**  
-
-
-
-
-
 
 **अधिहसन्ति करार्पणपूर्वकं  
 शरणमाप सखायममुष्य किम्॥ ३१ ॥**
@@ -4102,8 +3682,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 इति वियोगवशादिव पाण्डुता-  
 मधित हव्यवहो भासितच्छलात्॥ ३५ ॥**
 
-
-
 **शिव शिव द्विगुणां शिशिरव्यथा-  
 मपटुररस्यपनेतुमिति ह्रिया  
 अधिहसन्त्यनलो भसितच्छला-  
@@ -4126,10 +3704,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **वेलाविलङ्घिविषमायुधवीरवाद-  
 कोलाहलायितकुहमुखकूजितेन।**
-
-
-
-
 
 **प्रालेयजालपटिमच्छिदुरेण पश्चा-  
 त्कालेन केनचिदभूयत कोमलेन॥४०॥**
@@ -4154,8 +3728,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 वल्लीषु पल्लवपटान्तमुदञ्चयन्ती-  
 ष्वामोदमन्थरतरोऽजनि गन्धवाहः॥४४ ॥**
 
-
-
 **आरामसीमसु नगाः प्रसमीक्ष्य किं नु  
 वल्लीमुधावरतनूः प्रसवोपपन्नाः।  
 व्याकीर्णकौसुमरजोनिभगन्धचूर्णा-  
@@ -4178,8 +3750,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 
 **मारावनीपतिमणेर्मधुमासमन्त्री  
 वीरस्य विश्वविजयोत्सवपुण्यकाले।**
-
-
 
 **पुङ्खानुपुङ्खपरपुष्टरवापदेशा-  
 त्पुण्याहघोषमुदजृम्भयतानुवेलम्॥ ४९ ॥**
@@ -4204,8 +3774,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 संगृह्यचूतमुखपल्लवतल्लजानि  
 चञ्चूपुटेषु चतुरं प्रतिशाखि चेरुः॥ ५३ ॥**
 
-
-
 **सौरभ्यसान्द्रसुमनःपवनाङ्कुरादौ  
 यूनोः प्रियाय युगपन्मिलितेऽखिलेऽपि।  
 आसन्निशाधिकृशा ननु पद्मजन्मा  
@@ -4229,8 +3797,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **देशं समेत्य वत दण्डधराधिवासं  
 प्रायः क्रमेण परिहीणवसुप्रकर्षः।**
 
-
-
 **भूयोऽपि भूरिवसुलाभंकृताभिलाषो  
 राजन्वतीं रविरगाद्धनदेन काष्ठाम्॥ ५८ ॥**
 
@@ -4250,18 +3816,6 @@ Krishna, the description of the summer-season, the description of the rainy seas
 तस्य कृतिषुरुक्मिणीकल्याणनाम्नि काव्ये  
 दशमः सर्गः॥**
 
-
 **समाप्तश्चायं ग्रन्थः॥**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

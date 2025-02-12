@@ -16,35 +16,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 **PREFACE.**
 
  The edition of Rām-Vijaya (Mahākāvya) which describes the heroic exploits of Srī Rāmachandra and his final victory over the Rākṣasas under Rāvaṇa, the king of Laṇkā, is based on the Devānagarī transcript of a single manuscript of the work, obtained through the good offices of Pt. Indranath Jha from the family Collection of the author. The original manuscript (in Maithili) in the hand of the author having not been traceable, I had to content myself with the transcript only which was available to me. The transcript was mostly accurate, except in certain places where the text had to be restored by comparison with and reference to the Sanskrit annotations which accompanied the poem all through. It is not unlikely that in these circumstances some hisreadings have been left unnoticed. But it is to be hoped that with all its shortcomings the work will be welcome to the lovers of Sanskrit poetic literature.
 
-
-
 **Sarasvati Bhavana Library  
        Benares.                        
        ** *** **Ganapati Lal Jha***
-
-
-
-
 
 **उपोद्धातः।**  
 ![](../books_images/U-IMG-1709545822Screenshot2024-03-04151939.png)
@@ -62,8 +42,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM
 
 **पञ्चम्यामरुणोदये स तु तनुं त्यक्त्वा बुधः श्रीयुतो  
 लक्ष्मीदत्त उदारकीर्तिरगमद्विष्णोः पदं निर्भयम् ॥**
-
-
 
  एतत्कुलपूर्वपुरुषाः सर्वे तु महापण्डिता इति तात्कालिकैः भूपालैः सबहुमानं स्वस्वविषयेषु समाहूताः परित्यज्य मिथिलां तांस्तान् जनपदान् स्वनिवासेन अलमकार्षुः। एतद्गन्थप्रणेता श्रीमान् रूपानाथोपाध्यायोऽपि स्वपूर्वजसरणिमेवानुसरन् बहून् देशान् परिभ्राम्यन् अन्ते रेवाप्रवाहपवित्रे माहिष्मतीनगरे \[वर्त्तमानमंडलाभिषे\] निवासं कल्पितवान्।माहिष्मतीनगरागदेनात् पूर्वं रामटेकाभिधनगरमधितिष्ठतोऽस्य नैकविधराजभिरुपायनीकृतं लक्षरूप्यकमूल्यकं वित्तं पश्यतोहरैः लुण्ठकैः ‘पिण्डारा’ इति प्रसिद्धैः बलादपहृतम्। तेन च द्रव्यापहारेण द्रव्यरक्षणचिन्तानिर्मुक्त आत्मानं भगवदुपकृतं मन्यमानः रेवारोधसि माहिष्मतीनगरे तपोऽनुतिष्ठन् न्यवसत्। एतस्य पुत्रेषु यज्ञदत्तलक्ष्मीदत्तवासुदेवोपाध्यायेषु लक्ष्मीदत्तवासुदेवोपाध्याययोः वंशोऽद्यत्वेऽपि जागर्त्ति। तीर्थप्रबन्धाख्यकाव्यकर्त्रा लक्ष्मीदत्तोपाध्यायेन च विहिता प्रकृतकाव्यस्य संक्षिप्तविवृतिरूपा काऽपि टीकाऽप्युपलभ्यते, किन्तु सा संपूर्णाऽनुपलब्धेति न प्रकाशिता। किञ्च लक्ष्मीदत्तात्मजेन चन्द्रदत्तोपाध्यायेन कृता स्वपितुः लक्ष्मीदत्तस्य पितृव्यस्य वासुदेवोपाध्यायस्य च गौरववर्णनप्रशस्तिरुपलभ्यते। तत्र मूलपुरूषश्रीरूपनाथोपाध्यायविषयेऽप्येवमुल्लिखितमस्ति—
 
@@ -90,20 +68,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM
 
  इत्यादि दिशा यमकपूर्वकं वर्षावर्णनं कृतमस्ति। इत्थमनेकगुणगणालङ्कृतेऽप्यत्र महाकाव्ये क्वचित्काठिन्य- मप्रसिद्धप्रयोगबाहुल्यं चान्तरान्तरा शल्यमिव वेधयति विशेषविदां चेतांसि। तथा हि—‘न कपयोऽकपयो गमितास्त्वया’, ‘गभीरा भीराभैः सलिलचरजीवैरसुगमाः’, ‘अत्रस्तरत्नमुकुटेन भासुरः’, ‘दशशिरोशशिरोहरणोद्यतः’ ‘दाक्षाय्यैरादयत् क्रव्यम्’ इत्यादि। त्रिगुणात्मकेऽस्मिन्वैधसे सर्गे सर्वथा निरवद्यं न किमप्यवलोक्यते। प्रचुरगुणमीषद्दोषंवस्तु गुणवदित्येवाद्रियत इति हि सहृदयक्षुण्णोऽध्वा। तमेवानुसृत्य प्रकृतपुस्तकमालायां महाकाव्यस्यास्य प्रकाशनमङ्गीकृतम्। आशासे च निष्पक्षाः सदसद्विचारदक्षा विचक्षणा एतदवलोकनेन परमां मुदं प्राप्स्यन्तीति शम्।
 
-
-
 **सरस्वतीभवनम्, ** **                        
              विद्वज्जनवशंवदः**  
 **  काशी।         ** **                  
       खिस्ते–इत्युपाख्यो नारायणशास्त्री**  
-  
-
-
-
 
 ![](../books_images/U-IMG-1709535605रेखी.png)
-
-
 
 **॥ श्रीः ॥**  
 **श्रीरामविजयं नाम महाकाव्यम्**
@@ -446,7 +416,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM
 
 ![](../books_images/U-IMG-1709549664Screenshot2024-03-04162357.png)  
 
-
 **द्वितीयः सर्गः।**  
 ![](../books_images/U-IMG-1709549910Screenshot2024-03-04162733.png)
 
@@ -771,8 +740,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM
 
 **इति श्रीरामविजये महाकाव्ये श्र्यङ्के श्रीरूपनाथोपाध्यायकृतौ  
 धनुर्भङ्गो नाम द्वितीयः सर्गः ॥ २ ॥**
-
-
 
 **तृतीयः सर्गः।**  
 ![](../books_images/U-IMG-1709575572Screenshot2024-03-04162357.png)
@@ -1388,8 +1355,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM
 **इति श्रीरामविजये महाकाव्ये श्र्यङ्के श्रीरूपनाथोपाध्यायकृतौ  
 चित्रकूटगमनो नाम चतुर्थः सर्गः ॥ ४ ॥  
 ![](../books_images/U-IMG-1709615105रेखाडिजा.png)**
-
-
 
 **पञ्चमः सर्गः।**  
 **![](../books_images/U-IMG-1709604095रेखा6.png)**
@@ -3294,8 +3259,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM
 |        ३७         | र्गमोमापित्रोर्मानय | र्गमो मा पित्रोर्मा नय |
 |        ५३         |      गुरूक्तं       |        गुरूक्तो        |
 
-
-
 |             |                  |                  |
 |:-----------:|:----------------:|:----------------:|
 | **श्लोकम्** |   **अशुद्धम्**   |   **शुद्धम्**    |
@@ -3325,8 +3288,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM
 |      ३      |    उटजं मुनेः    |  उटजंस स मुनेः   |
 |      ५      |     अनुसूयया     |     अनसूयया      |
 
-
-
 |             |                |                  |
 |:-----------:|:--------------:|:----------------:|
 | **श्लोकम्** |  **अशुद्धम्**  |   **शुद्धम्**    |
@@ -3346,14 +3307,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyMjU5NDQ4NDM
 |     १०२     |    र्देवतैः    |     र्दैवतैः     |
 
 **——०——**
-
-
-
-
-
-
-
-
-
 
 \]

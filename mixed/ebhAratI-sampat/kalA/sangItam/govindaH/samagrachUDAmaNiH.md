@@ -14,18 +14,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY5NDM1NDE0MjY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 THE SAMGRAHA-CŪDĀ-MANI  
@@ -4191,14 +4179,5 @@ P.T.O.
 Op
 
 ----------
-
-
-
-
-
-
-
-
-
 
 \]

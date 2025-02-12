@@ -16,20 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1MDgwMTY1ODE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ***Prepared under the auspices of the University of Nagpur***
 
 **TERMINOLOGY**
@@ -38,19 +24,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1MDgwMTY1ODE
 
 **LOGIC**
 
-
-
 **PART I**
-
-
 
 **तर्कशास्त्र **
 
 **पारिभाषिक-शब्दावली **
 
 **प्रथम भाग**
-
-
 
 **DR. RAGHU VIRA, M.A., Ph.D. (London), **
 
@@ -62,49 +42,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1MDgwMTY1ODE
 
 **National College, Nagpur**
 
-
-
-
-
-
-
 *Published by*
 
 **DIRECTOR**
 
 **International Academy of Indian Culture, Nagpur**
 
-
-
-
-
-
-
-
-
 **July, 1949**
-
-
-
-
 
 **आर्यभारती-मुद्रणालय**
 
 **नागपुर**
 
-
-
-
-
-
-
-
-
-
-
 [**PREFACE**](#)
-
-
 
 Logic is the science that deals with the canons and criteria of validity in thought and demonstration; the science of the normative formal principles of reasoning.
 
@@ -116,17 +66,7 @@ Logic as taught today in our universities mainly represents --
 
 (1) Aristotelian logic, derived from derived from Aristotle
 
-
-
 "Preface" (Latin *prae* before + *fari*) to speak) is plain and unimaginative. "Proem" from greek *prooimon (pro before + oime song)*, also standing for "preliminary observations, prelude, preface," would serve better the introduce a harmonising activity, bringing close together the Eastern and Western ancients and moderns.
-
-
-
-
-
-
-
-
 
 and the Stoics and followed by most other European logicians until at least the time of Hegel. This logic is most authoritatively set forth in the Port Royal Logic. It is principally concerned with deduction. For induction we have to go to J. S. Mill.
 
@@ -135,14 +75,6 @@ and the Stoics and followed by most other European logicians until at least the 
 (3) Pragmatic, instrumental, or experimental logic, of John Dewey and his followers. It emphasizes thinking as an activity whereby the individual adaptshimself to the environment, and the art of thinking which logic treats as concerned principally with this instrumental value of thought. It largely ignores formal principles.
 
 (4) Symbolic or mathematical logic, which is a mode of developing and representing logical prin-
-
-
-
-
-
-
-
-
 
 -ciples through the use of symbols for classes, propositions, etc., rather than a theory of logic.
 
@@ -156,14 +88,6 @@ There are, however, a number of ancient termswhich have been brought into servic
 
 **काकतालीय** is the Indian counterpart of *post hocergo procter hoc.*
 
-
-
-
-
-
-
-
-
 "Fallacy" is Latin *fallacia* from *fallax*meaning "deceptive or false appearance." Ancient **आभास** is “semblance, mere appearance, fallacious appearance" **(वेदान्तसार). हेत्वाभास** is just one type of **आभास**. There are others, e. g., **तर्काभास, प्रमाणाभास, न्यायाभास (हेत्वाभास इत्यादौ हेतुदोषः। अत्र हेतावाभासत इति व्युत्पत्त्या आभासपदं हेतुनिष्ठदोषपरमिति ज्ञेयम्)**
 
 Biologically species is **जाति - समान-प्रसवा-जातिः** “that which brings forth **प्रसव** its like **समान.**
@@ -171,12 +95,6 @@ Biologically species is **जाति - समान-प्रसवा-जा�
 For deduction, **निगमन** has been used for some time past. We have accepted it, **नि** “down", **गमन** "going", i. e. inferring the particular from the general **(सामान्याद् विशेषस्य अनुमानम्).** It is the fifth member in the system of the Naiyayikas **(प्रतिज्ञा, हेतु, उदाहरण, उपनय, निगमन. “निगमन** is the summing up of an argument or conclusion in a syllogism; deduction" M. Monier-Williams). **निगमन** deductionhas its natural counterpart in **उद्गमन** “induction", inferring the general from the particular **(विशेषात् सामान्यस्य अनुमानम्).**
 
 **वाक्य** in ancient logic is used for “member of asyllogism" or "syllogism"itself. For "member of a syllogism" **अवयव** has found wide acceptance. It has the backing of **न्याय दर्शन**. For "syllogism" we have pre-
-
-
-
-
-
-
 
 fixed **सं** to **वाक्य;सं** corresponding to *syl*- the *sandhi* form of *syn* "with" in *syl-logism.* **वाक्य** by itself would be “sentence.” **तर्क-वाक्य** is suggested as an alternative.
 
@@ -187,12 +105,6 @@ For *equivocation* the ancient term is **वाक्छलम्—**
 In point of clarity the Indian terms would be found to be superior to English. To take a typical set-
 
 (1) logical division (2) physical partition (3) meta- physical analysis. Here the first is the division of genus into species **जाति- जाति-विभाजन;** the second is the division of an object into its parts, as of a tree into roots, branches, etc. - **अवयव-विभाजन;** the third is the division of a substance into qualities, as of sugar into sweetness, whiteness, etc. -**गुण-विभाजन.**
-
-
-
-
-
-
 
 Distinction and close relation have been maintained between terms of similar significance -
 
@@ -212,14 +124,6 @@ mood             **उपप्रकार**
 
 **अस्तिता, अस्तित्व** “existence, reality" **(सर्वदर्शनसंग्रह,etc.)**
 
-
-
-
-
-
-
-
-
 **अस्ति नास्ति** “partly true, parily not, doubtful.”
 
 **अस्ति-प्रवाद, अस्ति नास्ति प्रवाद -** name of the fourth of the fourteen older writings of the Jains.
@@ -238,14 +142,6 @@ From **अस्मि** are similarly derived **अस्मिता, अस�
 
 From **स्यात्** is derived **स्याद् वाद, स्याद्-वादिक, स्याद्-**
 
-
-
-
-
-
-
-
-
 **वादिन् (स्याद् इत्यव्ययं तिङन्तप्रतिरूपकं कथंचिदर्थकम्। स्यादस्ति कथंचिदस्ति इत्यर्थः - शारीरकभाष्यटीकायाम् २/२/३३)**
 
 From **अस्तु, कात्यायन(अस्तु-सत्य-अगदस्य कार इति वक्तव्यम्** on **पाणिनि ६/३/७०)** derives **अस्तुंकार** "one who says **अस्तु,** conceding, assenting unwillingly, or ordering."
@@ -259,12 +155,6 @@ Hence for *affirmative* we have **अस्ति-वाची,** for *negative*
 A, the first letter of Latin *affirmo,* denoting a universal affirmative, has its counterpart in our **अ**, the initial of **अस्ति
 -वाची.** E, the first vowel of Latin *nego,* denoting a universal negative, is translated by our **न**, the initial of **नास्ति-वाची. अ** and **न**, standing for universal affirmative and negative respectively, **अ**and **ना**have been
 
-
-
-
-
-
-
 used to serve for particular affirmative and negative.
 
 Three more abbreviations may be noted here-
@@ -277,14 +167,6 @@ M (middle)           **म (मध्य)**
 
 There are numerous Latin phrases, sentences and maxims in Western logic. Usually it has been possibleto translate them by words, juxtaposed to form compounds, usable in Hindi, Marathi or any other Indian language, either as standing alone or as part of a sentence. There, however, remain a few of them, where compounds cannot serve the purpose, for the relation-ship of one word with another has to be exhibited by the proper case-ending, or if it is a complete sentence, with its subject, object, and finite verb, all with or without adjuncts. In such cases we have resorted to Sanskrit, as India's superfine medium of expressing laws and maxims in the clearest and the most compact form. They will be common to Hindi, Marathi and other languages of India. If, however, need be felt, they are simple enough to be translated further into the mothertongue of the student. It is only the Sanskrit case-
 
-
-
-
-
-
-
-
-
 endings which have to be replaced, the words shall remain the same, *e. g.*
 
 *Causa latet, vis est notissima* **कारणम्अदृश्यं, दृश्यं कार्यम्.**
@@ -295,18 +177,8 @@ The present list is the first instalment. The second will appear in due course.
 
 We shall be glad to receive suggestions from teachers and taught alike.
 
-
-
 **6. 7. 49.                             
         RAGHU VIRA**
-
-
-
-
-
-
-
-
 
 **A**
 
@@ -350,14 +222,6 @@ alternative **विकल्प, वैकल्पिक**
 
 alternative proposition **वैकल्पिक प्रस्थापना**
 
-
-
-
-
-
-
-
-
 ambiguity **द्व्यर्थता, अनेकार्थता**
 
 ambiguous **द्व्यर्थ, अनेकार्थ**
@@ -399,14 +263,6 @@ false analogy **सादृश्याभास**
 analysis **विश्लेषण**
 
 analytic *n.* (doctrine or technique of logical analysis or the result of applying such technique) **विश्लेषणा**
-
-
-
-
-
-
-
-
 
 analytic, analytical *adj.* **वैश्लेषिक**
 
@@ -456,12 +312,6 @@ barren hypothesis **वन्ध्य, अफल उपकल्पना**
 
 begging the question (petitio principii) **स्वाश्रय**
 
-
-
-
-
-
-
 **C**
 
 categorematic **स्वयं-पदार्थ-वाची (शब्द)**
@@ -499,14 +349,6 @@ cansa finalis (final cause) **अन्तिम कारण**
 causa latet, vis est notissima **कारणम् अदृश्यं, दृश्यं कार्यम्**
 
 causa materialis (material cause) **समवायिकारण, उपादानकारण** (ancient words)
-
-
-
-
-
-
-
-
 
 causa prima **मूल कारण, बीज** (**बीज** ancient word)
 
@@ -553,12 +395,6 @@ final cause (as the completed house)**अन्तिम कारण**
 first cause (the divine mind) **आदि-कारण**
 
 formal cause (as the form of a house in the mind of -
-
-
-
-
-
-
 
 the builder) **रूप-कारण**
 
@@ -610,14 +446,6 @@ conclusion **परिणाम**
 
 concomitant **सहगामी**
 
-
-
-
-
-
-
-
-
 method of concomitant variation **सहगामि-विचरण-रीति**
 
 concrete **द्रव्य वाचक, द्रव्य-वाची**
@@ -668,12 +496,6 @@ contrary **विरुद्ध**
 
 contrary opposition **विरुद्ध प्रतियोग**
 
-
-
-
-
-
-
 contrary term **विरोधी पद**
 
 converse **परिवृत्त, विलोम**
@@ -719,12 +541,6 @@ deductive \[logic\] **निगामी तर्क**
 deductive inference **निगामी अनुमान**
 
 deductive method **निगमन-रीति**
-
-
-
-
-
-
 
 deductively 1 **निगमन-द्वारा, निगमन-रीत्या**
 
@@ -776,12 +592,6 @@ simple dilemma **सरल उभयापत्ति**
 
 direct reduction **ऋजु प्रकारान्तरण**
 
-
-
-
-
-
-
 disjunctive (as a proposition, expressing alternatives) **वैकल्पिक, विकल्पवाची, विकल्पयुत**
 
 disjunctive syllogism **वैकल्पिक संवाक्य**
@@ -819,12 +629,6 @@ metaphysical analysis (of a substance into qualities, asof sugar into sweetness,
 **E** (universal negative) **न(सामान्य नास्तिवाची)**
 
 eduction **उन्नयन**
-
-
-
-
-
-
 
 effect (cause and effect) **कार्य (कार्य-कारण)**
 
@@ -864,12 +668,6 @@ episyllogism **उत्तर-संवाक्य**
 
 E proposition **न प्रस्थापना**
 
-
-
-
-
-
-
 equational theory (of proposition) **समीकार - वाद**
 
 equivocation **शब्द-छल** (as against **वाक्यछल** amphiboly), **वाक्छल** (ancient word)
@@ -907,14 +705,6 @@ fallacia consequentis (fallacy of the consequent) **उत्तरांग-आ
 fallacious **आभासिक, आभासी**
 
 fallacy (Lat. *fallacia fr. fallax,* deceptive or false appearance) **आभास** (ancient word; **हेत्वाभास** is only one type of fallacy)
-
-
-
-
-
-
-
-
 
 converse fallacy of accident **विलोम-यदृच्छा-आभास**
 
@@ -955,12 +745,6 @@ first cause (as the divine mind) **आदि कारण**
 formal cause (as the form of a house in the mind of thebuilder) **रूप-कारण**
 
 formallogic**रूपात्मक तर्क**
-
-
-
-
-
-
 
 form of thought **विचार रूप**
 
@@ -1006,12 +790,6 @@ method of hypothesis **उपकल्पना-रीति**
 
 scientific hypothesis **वैज्ञानिक उपकल्पना**
 
-
-
-
-
-
-
 working hypothesis **कार्यवाहक उपकल्पना**
 
 hypothesize **उपकल्पन**
@@ -1056,12 +834,6 @@ indeterminate term **अनिश्चित पद**
 
 indirect reduction **अनृजु अथवा वक्र प्रकारान्तरण**
 
-
-
-
-
-
-
 induction**उद्गमन (विशेषात्सामान्यस्यअनुमानम् -सामान्यानुमान)**
 
 induction by simple enumeration = inductio per enumerationem simplicem **अपूर्ण गणना द्वारा उद्गमन**
@@ -1101,12 +873,6 @@ law of excluded middlé**लुप्त-मध्य-नियम**
 law of identity **तादात्म्य नियम**
 
 law of universal causation **सामान्य कार्य-कारण-नियम**
-
-
-
-
-
-
 
 laws of nature **प्राकृतिक नियम**
 
@@ -1151,12 +917,6 @@ material fallacy **वास्तविक आभास**
 mediate inference **व्यवहित अनुमान**
 
 metaphysical analysis (of a substance into qualities, as
-
-
-
-
-
-
 
 sugar into sweetness, whiteness, etc.) **गुण-विभाजन** method **रीति**
 
@@ -1204,12 +964,6 @@ name **नाम**
 
 natural cause **प्राकृत कारण**
 
-
-
-
-
-
-
 natural science **प्राकृतिक विज्ञान**
 
 nature **प्रकृति**
@@ -1255,12 +1009,6 @@ obverse **प्रतिवृत्त**
 obversion **प्रतिवर्तन**
 
 obvertend **प्रतिवर्त्य**
-
-
-
-
-
-
 
 obvertend conversion **प्रतिवर्तित परिवर्तन**
 
@@ -1308,12 +1056,6 @@ perfect induction **पूर्ण उद्गमन**
 
 petitio principii = begging the question
 
-
-
-
-
-
-
 physical partition (as of a tree into its parts) **अवयव-विभाजन**
 
 plurality of causes **कारण-बहुत्व**
@@ -1360,12 +1102,6 @@ analytic proposition **वैश्लेषिक प्रस्थापन�
 
 exceptive proposition **अपवादक प्रस्थापना**
 
-
-
-
-
-
-
 exclusive proposition **व्यावर्तक प्रस्थापना**
 
 explicative proposition **विवरणात्मक प्रस्थापना, विवाचकप्रस्थापना**
@@ -1403,12 +1139,6 @@ reason **हेतु**
 reasoning **तर्क**
 
 reductio ad absurdum **व्याघात परिणामी**(leading to a contradictory conclusion)
-
-
-
-
-
-
 
 reductio ad impossible=reductio per impossible **अशक्य-परिणामी**
 
@@ -1455,12 +1185,6 @@ simple enumeration **अपूर्ण गणना**
 singular proposition **एकवाची प्रस्थापना**
 
 singular term **एकवाची पद**
-
-
-
-
-
-
 
 sorites संक्षेपमाला (short for **संक्षेप-संवाक्य माला**)
 
@@ -1512,12 +1236,6 @@ system **पद्धति, संहति**
 
 systematisation **पद्धति-बन्धन**
 
-
-
-
-
-
-
 **T**
 
 tautological definition **पुनरुक्ति-लक्षण**
@@ -1566,12 +1284,6 @@ too wide definition **अतिव्याप्त लक्षण**
 
 tree of Porphyry **परम-प्रजाति-वृक्ष** (tree of the logical division of the highest genus, being or substance, by
 
-
-
-
-
-
-
 successive dichotomies **परमप्रजाति-द्विभाजन-वृक्ष)**
 
 true **सत्य**
@@ -1618,12 +1330,6 @@ strengthened mood **सबल उपप्रकार**
 
 working hypothesis **कार्यवाहक उपकल्पना**
 
-
-
-
-
-
-
 **Some Works of Dr. Raghu Vira**
 
 **\_\_\_\_\_\_\_\_\_\_\_**
@@ -1654,18 +1360,5 @@ working hypothesis **कार्यवाहक उपकल्पना**
 | The Dictionary of Indian Avifauna gives the names of all the birds of India.                                                                                                                                                                                                                                                                   | Rs. 15/- |
 | Dictionary of Administrative Terms                                                                                                                                                                                                                                                                                                             | Rs. 9/-  |
 | The Great English-Indian Dictionary contains about one lac of terms relating to Physics, Chemistry, Biology Mathematics, Medicine (Bacteriology, Parasitology, Physiology Anatomy, Pathology, e.c.). Engineering, Colours and Dyes Industry Commerce, Administration. Statistics Economics, Politics and numerous other subjects. *(in press)* |          |
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

@@ -17,8 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MDYyNTkyNDA
 
 \[
 
-
-
 C.
 
 (cat)
@@ -178,8 +176,6 @@ C
 (covered wagon)
 
 *Rly.* **ब**
-
-
 
 (बन्द गाड़ी)  
 
@@ -1055,8 +1051,6 @@ Caecilian = Gymnophiona अचक्षु-गण
 
 *m.*
 
-
-
 (गण order)  
 
 caecilian
@@ -1474,8 +1468,6 @@ calamus scriptorius
 
 *Anat.* (pointed depression) सूची-खात
 
-
-
 n.  
 
 calandra lark कृकराट
@@ -1519,8 +1511,6 @@ calcanean = calcanea।
 calcaneum
 
 Zool.
-
-
 
 प्रगुल्फास्थि
 
@@ -1653,8 +1643,6 @@ adj.
 श्वेत  
 calci-
 
-
-
 (calcium) *Chem.*
 
 चूर्ण-
@@ -1670,8 +1658,6 @@ calci-clase चूर्णदलिज
 
 m\.
 
-
-
 (-इजfor खनिजmineral)  
 
 calcicole
@@ -1685,8 +1671,6 @@ m.
 calcidine
 
 (calcium gluconate with iodine) *Pharm.* **चूर्ण-जम्बुकी**
-
-
 
 f.  
 
@@ -1723,8 +1707,6 @@ Physiol.
 
 **चूर्णियन**
 
-
-
 n\.
 
 calcified
@@ -1737,8 +1719,6 @@ Calciflorae
 Bot.
 
 **चषपुष्पाः**
-
-
 
 m.pl.  
 
@@ -1782,8 +1762,6 @@ Chem.
 चूर्णमान
 
 m\.
-
-  
 
 calcinable
 
@@ -2198,8 +2176,6 @@ calculus 1.
 
 m\.
 
-
-
 2.Math.
 
 कलन
@@ -2416,8 +2392,6 @@ calibrator 1.
 
 (-तृ)
 
-
-
 *m.,* (an instrument)
 
 स्वंकित्र
@@ -2558,8 +2532,6 @@ Naut.
 सीटी
 
 **5.** *Mil.*
-
-
 
 (a summons by bugle, etc.)
 
@@ -3477,8 +3449,6 @@ calymma
 
 Zool.
 
-
-
 (gelatinous protoplasm) **श्लिषि**
 
 रस
@@ -4093,8 +4063,6 @@ n\.
 **
 
 m.,
-
-
 
 प्रचार-परम्परा,
 
@@ -4711,7 +4679,6 @@ Pharm.
 
 *f.*
 
-  
 Canadian maidenhair
 
 (*Adiantumpedatum*)
@@ -4748,8 +4715,6 @@ canal 1.कुल्या
 कुल्या
 
 f\.
-
-
 
 **canal and tank gauges कुल्या तथा तडाग आमान  
 canal bank plantations** *Forestry* **कुल्यातट-रोपवन  
@@ -4964,8 +4929,6 @@ m.
 निर्वाचनार्थी
 
 (-इन्)
-
-
 
 *m.*
 
@@ -5208,8 +5171,6 @@ Anat.
 
 *m.*
 
-  
-
 canine incisors दंष्ट्र
 
 *m.* (from काश्यप संहिता— द्वौउत्तरौ, द्वौ अधरौ)  
@@ -5434,8 +5395,6 @@ with abright flame)
 
 वर्त्यंगार
 
-
-
 *m.*
 
 cannellaceous
@@ -5458,8 +5417,6 @@ canning
 वपनीभरण, वपनीयन
 
 *n.*
-
-
 
 (वपनी 'can')
 
@@ -5735,15 +5692,11 @@ cantaloupe खर दशांगुल, खरांगुल
 
 n\.
 
-
-
 (its skin is rough)  
 
 canteen अल्पाहारगृह
 
 *n.*
-
-
 
 (
 
@@ -6301,8 +6254,6 @@ capitis diminutio
 
 *Law* (impairment of position before the strict law) **स्थिति-हास**
 
-
-
 *m.*  
 
 Capitonidae
@@ -6406,8 +6357,6 @@ Bot.
 
 **करीर-कुल**
 
-
-
 n.  
 
 Capparis
@@ -6440,13 +6389,9 @@ Capparis sepiaria कन्थारी करीर
 
 (Basu, Hin. कन्थारी,Guj. कन्थारो,Mar. kanthar, Ben. kantagurkamai)
 
-  
-
 Capparis spinosa
 
 (caper plant) **इक्षुर करीर**
-
-
 
 (MW. इक्षुर)  
 
@@ -7385,8 +7330,6 @@ cardia
 **माशय-उद्द्वार**
 
 *n.*
-
-
 
 (Gk.
 
@@ -8535,8 +8478,6 @@ Bot.
 
 m\.
 
-
-
 2\.
 
 (in fungi, stalk of the sporocarp)
@@ -8544,8 +8485,6 @@ m\.
 प्रावरवृन्त
 
 *n.*
-
-
 
 (short for बीजाणुप्रावरवृन्त)
 
@@ -8626,8 +8565,6 @@ carriage
 
 *n.*
 
-
-
 (Const.)
 
 , ले जाना, परिवहण
@@ -8641,8 +8578,6 @@ for carriage
 Rly.
 
 वहनार्थ
-
-
 
 2\.
 
@@ -8732,7 +8667,6 @@ to be carried
 carried by से वाहित
 
 (Const.)
-
 
 (business)
 
@@ -8995,8 +8929,6 @@ carthame 1.
 Chem.
 
 **=**
-
-
 
 carthamin 2.
 
@@ -9557,8 +9489,6 @@ cascarilla 1.= sweetwood
 
 *m.*
 
-
-
 2.= cascarilla bark = eleuthera bark = sweetwood bark
 
 Pharm.
@@ -9645,8 +9575,6 @@ b
 m\.
 
 7\.
-
-
 
 Med.
 
@@ -9888,8 +9816,6 @@ adj.
 
 किलाटवत्  
 case packing
-
-
 
 धान-संवेष्टन  
 case pending submission उपस्थित करने के लिए लम्बमान वाद  
@@ -10786,8 +10712,6 @@ categorisation प्रवर्गीकरण
 
 *n.*
 
-
-
 (प्रवर्ग category)
 
 classification वर्गीकरण  
@@ -11062,8 +10986,6 @@ catiang pea
 
 *m.*
 
-
-
 (B.,N.,M.)  
 
 cation
@@ -11073,8 +10995,6 @@ Physical Chem.
 न्ययन
 
 n\.
-
-
 
 (नि- cat+ अयनion)  
 
@@ -11391,8 +11311,6 @@ causality** *Logic* (relation of cause and effect) **कार्य-कार�
 **कारणता***f.,*
 
 **कारणत्व**
-
-
 
 *n.*
 
@@ -11842,8 +11760,6 @@ Cayratia = Vitis
 Bot.  
 
 Cayratia carnosa = Vitis carnosa
-
-
 
 Cayratia pedata = Vitis pedata  
 C. B.
@@ -12651,8 +12567,6 @@ cellulose
 
 n\.
 
-
-
 (from कोशा cell)
 
 adipo-cellulose वपा-कोशाधु  
@@ -12699,8 +12613,6 @@ Chem.
 cellulose wadding
 
 n\.
-
-
 
 Textiles
 
@@ -12976,8 +12888,6 @@ centi-liter
 
 m\.
 
-
-
 (शि. स्थ.)  
 
 centi-meter
@@ -13062,8 +12972,6 @@ Math.
 central
 
 *n.*
-
-
 
 (of an echinoderm)
 
@@ -13662,8 +13570,6 @@ centrifugate
 
 *n.*
 
-
-
 (that which has been
 
 centrifuged) **मथित्रित** *n.*  
@@ -14080,8 +13986,6 @@ Ceratophyllum demersum
 
 Ceratophyllum
 
-
-
 verticillatum = Ceratophyllum demersum  
 Ceratophyllus
 
@@ -14192,8 +14096,6 @@ cercidium
 
 f\.
 
-
-
 (कवकजाल mycelium)  
 
 Cercis
@@ -14266,8 +14168,6 @@ Zool.
 मेदुर
 
 n\.
-
-
 
 (मेदुर 'soft' ancient
 
@@ -14360,8 +14260,6 @@ cerebral cortex
 प्रबाह्यक
 
 n\.
-
-
 
 (short for प्रमस्तिष्क-बाह्यक)  
 
@@ -15207,8 +15105,6 @@ cervantite अञ्जजारिज
 
 *m.*
 
-
-
 (अञ्ज- for अञ्जन antimony, जार- for जारेय oxide, -इज for खनिज mineral)
 
 cervic- = cervico- ग्रैव-  
@@ -15621,8 +15517,6 @@ Zool.
 
 m\.
 
-
-
 (तिमि whale)  
 
 cetene
@@ -15978,8 +15872,6 @@ ceylonite = iron magnesia spinel अयोभ्रास्फटीयिज
 
 *m.*
 
-
-
 (अयस् iron, भ्रा- for भ्राजा magnesia,
 
 स्फटीय aluminate,-इज for खनिज mineral)
@@ -16004,8 +15896,6 @@ Ceylon jungle wren-warbler
 Aves
 
 लंका
-
-
 
 वन्य चिकुर-कूजिनी  
 Ceylon large crested tern
@@ -16547,8 +16437,6 @@ Zool.
 
 m\.
 
-
-
 (शर-कृमि arrow-worm, वर्ग class)  
 
 Chaetonotus
@@ -16719,8 +16607,6 @@ Bot.
 
 *f.*
 
-
-
 (Eng. is translated from Sanskrit)  
 
 chaffinch
@@ -16744,8 +16630,6 @@ Ch. A.
 मु.ले.
 
 (सा.)
-
-
 
 (मुख्य लेखापरीक्षक, सामान्य)  
 
@@ -16788,8 +16672,6 @@ straight chain ऋजु शृंखल
 शृंखला
 
 f\.
-
-
 
 (शृ.)
 
@@ -16854,8 +16736,6 @@ chainette = catenary curve
 Math.
 
 मालावक्र
-
-
 
 n.  
 
@@ -17129,8 +17009,6 @@ Mineral.
 ताम्रकिरणिज
 
 m\.
-
-
 
 (ताम्र copper, -uranite
 
@@ -18290,8 +18168,6 @@ Bot.
 
 n\.
 
-
-
 character
 
 n\.
@@ -18954,8 +18830,6 @@ char palm
 
 f\.
 
-
-
 (Kan., Tam.)  
 
 charred
@@ -19062,8 +18936,6 @@ n.
 charter party नौ-भाटक-पत्र
 
 n\.
-
-
 
 charter party clause नौ-भाटक-खण्ड  
 chartism अधिकारपत्रवाद
@@ -19830,8 +19702,6 @@ Cheilanthes tenuifolia तनुपत्र ओष्ठपर्णांग
 cheilitis
 
 Med.
-
-
 
 (inflammation of the lip)
 
@@ -20951,7 +20821,6 @@ m.,
 
 तिजोरी  
 
-
 safe सुरक्ष  
 cash chest रोक-रक्ष  
 
@@ -21660,7 +21529,6 @@ chiffchaff
 
 f\.
 
-  
 Ch. I. G. G.
 
 (Chief Inspector of Grain Godowns)
@@ -22477,8 +22345,6 @@ Chinese water lily
 
 n\.
 
-
-
 (B.,N.,M.)  
 
 Chinese water-pipit
@@ -23207,7 +23073,6 @@ Psychophys.
 
 m\.
 
-  
 chlor-, chloro- 1.
 
 ('green' and not chlorine)
@@ -23767,8 +23632,6 @@ Mineral.
 
 (any of a group of monoclinic minerals, ordinarily characterized by a green colour)
 
-
-
 हरितिज
 
 m\.
@@ -23791,7 +23654,6 @@ Mineral.
 
 n\.
 
-  
 chloritize
 
 vb.
@@ -23907,8 +23769,6 @@ Chem.
 chloro-amine
 
 Chem.
-
-
 
 (any chloro derivative of an amine)
 
@@ -24348,8 +24208,6 @@ chloro-phenol
 
 (ortho, meta, para)
 
-
-
 Chem.
 
 नीर-दर्शव
@@ -24695,8 +24553,6 @@ chordae tendineae= tendinous cords***Anat.* **हृद्रज्जु
 chorda-neural crescent** *Zool.* **रज्जु-चेता बालेन्दु  
 Chordata** *Zool.* **रज्जुमन्तः** *m.pl.*  
 **chordate रज्जुमान्** (-मत्) *m.*
-
-
 
 **chordate animal रज्जुमान् प्राणी  
 chordo-centrous** *adj. Zool.* **रज्जुकीकसकाय  
@@ -27397,8 +27253,6 @@ close
 
 *n.*
 
-
-
 (an inclosure or inclosed field)
 
 संवृत-क्षेत्र
@@ -27560,8 +27414,6 @@ closely-fitting
 adj.
 
 (that which fits closely)
-
-
 
 गाढ-अन्वायोजी
 
@@ -28015,8 +27867,6 @@ C. O.**
 
 Co =_($\\frac{M}{{\\kappa\\sigma}\~d^{2}}$गु = $\\frac{घ}{आ\~स\~व^{2}}$)
 
-
-
 coaccused *Law* **सहाभियुक्त** *m.*
 
 (*see*
@@ -28448,8 +28298,6 @@ adj.Chem.
 केत्वि-श्यामिक  
 cobalti-cyanide
 
-
-
 केत्वि-श्यामेय  
 cobalti-ferous
 
@@ -28458,8 +28306,6 @@ adj.
 केत्वातु-भर  
 
 cobaltine 1.= cobaltite
-
-
 
 2\.
 
@@ -28558,8 +28404,6 @@ Bot.
 
 n\.
 
-
-
 (Eng. word is translated from Sanskrit)  
 
 cobweb 1.
@@ -28579,8 +28423,6 @@ n.,
 लूतातन्तु
 
 m\.
-
-
 
 (ancient word)
 
@@ -28739,8 +28581,6 @@ coccidium
 
 Zool.
 
-
-
 (one of the Coccidia)
 
 बदराणु
@@ -28891,8 +28731,6 @@ cocinerite तारशिज
 
 m\.
 
-
-
 (ता- for ताम्र copper, र- for रजत silver,
 
 श-for शुल्बेय sulphide, -इज for खनिज mineral)
@@ -28900,8 +28738,6 @@ m\.
 cock कुक्कुट,शिखी
 
 (-इन्)
-
-
 
 m.  
 
@@ -28928,8 +28764,6 @@ cock-bramble = blackberry
 Rubus fruticosus
 
 )
-
-
 
 कृष्णबदरी
 
@@ -28968,8 +28802,6 @@ cocklebur 1.
 
 m\.
 
-
-
 (Basu)
 
 **2**
@@ -28990,8 +28822,6 @@ Zool.
 तैलचोर
 
 m\.
-
-
 
 (ancient word),
 
@@ -29023,8 +28853,6 @@ cock’scomb 1.
 
 *m.*
 
-
-
 (B.,M.) **2.=**
 
 red poppy
@@ -29051,8 +28879,6 @@ cockspur panic grass = cockspur grass
 cocktail युक्तिरा
 
 f\.
-
-
 
 (इरा for मदिरा)  
 
@@ -29150,8 +28976,6 @@ cocoanut oil नारियल का तेल, नारिकेल-तै�
 cocoanut palm
 
 (*Cocos nucifera*) **नारिकेल**
-
-
 
 m\.
 
@@ -29279,8 +29103,6 @@ code
 
 f\.
 
-
-
 (Const.)
 
 2.संक्षिप्तनाम
@@ -29397,8 +29219,6 @@ give it for 'a codicil of a will'),
 इच्छानुपत्र
 
 n\.
-
-
 
 (अनु subsequent)
 
@@ -30373,8 +30193,6 @@ colloquium
 
 (avers that the defendant spoke the slanderous words) **दृढोक्ति**
 
-
-
 *f.*  
 
 Collozoum
@@ -30834,8 +30652,6 @@ colour
 colourable
 
 *adj. Law*
-
-
 
 (that which is in appearance only, and not in reality, what it purports
 
@@ -32856,8 +32672,6 @@ commutatus
 
 *Bot. Tax.*
 
-
-
 (changed, altered)
 
 परिवृत्त  
@@ -33220,8 +33034,6 @@ as compared with की तुलना में
 comparer तुलनाकर्ता
 
 (-तृ)
-
-
 
 *m*.  
 
@@ -33685,8 +33497,6 @@ complainant
 
 (-इन्)
 
-
-
 *m.*
 
 defendant प्रतिवादी  
@@ -34143,7 +33953,6 @@ complicity
 
 *f.*
 
-  
 compliment समादर
 
 m\.
@@ -34231,8 +34040,6 @@ n.
 (as, of a force)
 
 संघटक
-
-
 
 m.  
 
@@ -40172,8 +39979,6 @@ cracking 1.***Forestry* **पटन** *n.*
 
 **splitting विपटन**
 
-
-
 **2.***Chem.* (breaking up by heat and pressure of complex hydrocarbons) **अपदलन** *n.*
 
 **crackle** *vb.* (decrepitate) **चटचटन, तड़ककर टूटना, चटचटाना  
@@ -43496,6 +43301,5 @@ C.Z.** (cotton zone)**क. क्षे.(कर्पास-क्षेत्�
 Czaplewski's bacillus** (it stains deeply at the poles, and is known as pole bacterium)**शिरोरञ्ज्य**
 
 **दण्डाणु**
-
 
 \]

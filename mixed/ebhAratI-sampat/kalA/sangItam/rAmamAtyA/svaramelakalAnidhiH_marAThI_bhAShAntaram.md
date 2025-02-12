@@ -15,18 +15,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4NTI2NTMzODc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
 **ॐ**
@@ -36,7 +24,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4NTI2NTMzODc
 **स्वरमेलकलानिधि र्विलिख्यते.**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
 
 **रामामात्यप्रणीतेऽस्मिन् स्वरमेलकलानिधौ।  
 उपोद्घातप्रकरणं स्वरप्रकरणं ततः॥  
@@ -939,8 +926,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4NTI2NTMzODc
 |  **११ नादरामक्री**   |                         स रि म प ध शुद्ध, साधारणगांधार, च्युतषड्जनिषाद.                       |
 |  **१२ शुद्धवराली**   |                        स रि ग प ध शुद्ध, च्युतषड्जनिषाद, च्युतपंचममध्यम.                      |
 
-
-
 |                  |                                                                                         |
 |:----------------:|:---------------------------------------------------------------------------------------:|
 |   **मेलनांव**    |                                        **स्वर.**                                        |
@@ -973,8 +958,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4NTI2NTMzODc
 | **१४ वसंतभैरवी**     |   १ वसंतभैरवी, २ सोम                                                                                                                                   |
 | **१५ केदारगौल**      |   १ केदारगौड २ नारायणगौड                                                                                                                               |
 
-
-
 |                  |                  |
 |------------------|------------------|
 | **१६ हेजूजी**    |   १ हेजूजी    |
@@ -984,14 +967,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4NTI2NTMzODc
 | **२० कांभोजी**   |   १ कांभोजी   |
 
 # समाप्तम् **![](../books_images/U-IMG-1694242573Chitram.jpg)**
-
-
-
-
-
-
-
-
-
 
 \]

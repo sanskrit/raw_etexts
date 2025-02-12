@@ -17,8 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY3MjQ0MTYyODY
 
 \[
 
-
-
 **N.** (*Neisseria*) **अर्धगो.** (अर्धगोलाणु-प्रजाति)  
 **_(o)n¹** *Phys.* (neutron) **_(o)क्ल¹** (क्लीवाणु)  
 **N** (nitrogen) *Chem.* **भू** (भूयाति)  
@@ -713,8 +711,6 @@ natural son औरस पुत्र
 natural stratum प्राकृतिक स्तृत  
 natural stream नैसर्गिक स्रोत  
 natural succession** *Forestry* **प्राकृतिक**
-
-
 
 **विकासक्रम**
 
@@ -3666,8 +3662,6 @@ Notoryctes** *Zool.* (genus consisting of the marsupial mole) **धानीच�
 Notoryctidae धानीचुञ्चु-वश** *m.*  
 **Notostraca** *Zool.* (there is a large
 
-
-
 dorsal shield-shaped carapace पृष्ठवर्म—PH. I.419) **पृष्ठवर्मि-गण** *m.*
 
 **Notostylopidae** *Paleontol.* (Gk. notos 'south') **दक्षिणलघुक-वंश** *m.*
@@ -6299,8 +6293,6 @@ Ophryotrocha
 *Zool.* (chiefly remarkable for the possession of segmentally arranged girdles of
 
 cilia—CNH. II.320)
-
-
 
 पक्ष्ममेखल-प्रजाति
 
@@ -9189,6 +9181,5 @@ ozonizer** *Chem.* **प्रजारक-साधित्र** *n.*
 **ozono-meter प्रजारक-मान** *m.*  
 **ozostomia** *Med.* (foulness of breath) **पूतिश्वास** *m.*  
 **oz. t.** (ounce troy; 20 penny weights) **शु.** (शुक्ति), **है. शु.** (हैम शुक्ति)
-
 
 \]

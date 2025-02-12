@@ -16,25 +16,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5ODI5NTg0ODM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **श्रीगणेशायनमः।**
 
@@ -366,14 +350,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5ODI5NTg0ODM
 
 पत्ताः—**शंकर रामचंद्र रोंगे.**  
 ४ खत्र्याची चाल गायवाडी, **मुंबई.**
-
-
-
-
-
-
-
-
-
 
 \]

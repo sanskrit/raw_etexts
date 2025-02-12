@@ -17,8 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI5NzU5ODYyNjc
 
 \[
 
-
-
 **L** *Phys.* (coefficient of self-induction)**स्व** (स्वप्ररोचन- गुणक)  
 **L.** (*Lactobacillus*) **दु.** (दुग्धाणु-प्रजाति)  
 **L** (latent heat) **ग** (गुप्त ऊष्मा)  
@@ -78,8 +76,6 @@ lability** *Bot.* **सुपरिवर्त्यता** *f.*
 **laboratory accommodation प्रयोगशाला-स्थान  
 laboratory assistant प्रयोगशाला-सहायक  
 lab. asstt. प्र.शा. सहायक**
-
-
 
 **laboratory attendant प्रयोगशाला-उपस्थायक  
 laboratory bearer प्रयोगशाला-प्रेष्य  
@@ -209,8 +205,6 @@ lacerated wound विदीर्ण क्षत** (घात)
 **Lacerta = Lizard** *Astron.* **सरट** *m.*  
 **Lacerta** *Zool.* (a genus of lizards)**गोधिका-प्रजाति**
 
-
-
 **Lacerta agilis** (sand lizard) **सिकता-गोधिका  
 Lacerta viridis** (greenlizard) **हरित-गोधिका  
 Lacerta vivipara जरायुज-गोधिका  
@@ -336,8 +330,6 @@ ladder-like** *adj.* **सोपानवत्
 ladder-to-heaven = white root** (*Polygonatum multiflorum*) **सितमूल** *m.*  
 **ladder type of conjugation** *Bot.* **सोपान-**
 
-
-
 **संयुग्मन**
 
 **Ladenburg's distillation flask =Ladenburg flask** *Chem.* (with several bulbs in its long neck)
@@ -452,8 +444,6 @@ lagging effect** *Phys.* **पश्चायन-प्रभाव, पश्�
 lag goose** *Aves* **कलहंस** *m.* (कलहंस ancientword)  
 **Lagomorpha = Duplicidentata  
 Lagomyidae** (family) **उन्दुरशश-वंश** *m.*(उन्दुर 'mouse' occurs in सुश्रुत + शश
-
-
 
 hare. Cf. the popular name 'mouse-hare')
 
@@ -576,8 +566,6 @@ Laminaria saccharina शर्करा-कपिशाप्यक
 Laminariaceae** *Bot.* (a family of brown algae) **कपिशाप्यक-कुल** *n.*  
 **Laminariales** (order) **कविशाप्यक-गोत्र***n.*
 
-
-
 (गोत्र order)
 
 **laminarin कपिशाप्यकि** *f.*  
@@ -697,8 +685,6 @@ interest in land भूमि में हित**
 **land absolutely barren सर्वथा वन्ध्यभूमि  
 land acquired temporarily अस्थायीरूप से अवाप्त भूमि**
 
-
-
 **land acquisition भूमि-अवाप्ति  
 Land Acquisition Act भूमि-भवाप्ति-अधिनियम  
 Land Acquisition Manual भूमि-अवाप्ति-नियमावलि  
@@ -814,8 +800,6 @@ landplane भूविमान** *n.*
 land rail** (corn crake) **सस्य-कुक्कुटी** (it is essentially a land bird keepingto dry fields of grass
 
 and crops सस्य; cf. its English name 'corncrake')
-
-
 
 **land reclamation भूमि-कृष्यकरण, भूमि को कृषियोग्य बनाना  
 land reclamation socicty भूमि-कृष्यकरण-समिति  
@@ -942,8 +926,6 @@ lanthanum sulphate सुजारला शुल्बीय
 lanuginosus** *Bot. Tax.* (with longwoolly hairs— PNS. p.8b) **दीर्घोर्णिल  
 lanugo** *Anal.* **भ्रूणरोम** *n.*
 
-
-
 **Laos महाराष्ट्र, महानगरराष्ट्र** *n.* (in शासनवंश)  
 **L.A.P.** (leave on average pay) **मा.वे.अ.** (माध्य वेतन पर अवकाश)  
 **lap 1.**(aloose part or lower part of agarment that plays freely) **पल्लव** *m.***, पल्ला, 2.*Textiles***
@@ -1059,8 +1041,6 @@ large date** (*Phoenix dactylifera*) **पिण्ड-खर्जूर** *m.*
 **large-eared horseshoe-bat** *Mamm.***बृहत्कर्ण खुरप-जतु  
 large-eared mouse-hare** *Mamm.* **दीर्घ-कर्ण आखु-शश**
 
-
-
 **large-eared yellow bat** *Mamm.* **बृहत्-कर्ण पीत जतु  
 large egret** *Aves* **ज्येष्ठ बलाका  
 large excess** *Chem.* **विपुल अतिरेक  
@@ -1167,8 +1147,6 @@ rodlike structures, thebody appears to have been naked—CNH. I. 532) **वि�
 **lascivious** *adj.* **कामुक, कामोद्दीपक** (tending to produce lewd emotions)  
 **lascivious behaviour** *Law* **कामोपकद्दी आचरण  
 lascivious carriage** *Law* **कामोद्दीपक चर्या**
-
-
 
 **lascivious cohabitation** *Law* **कामुक सहवास  
 lascivious lewdness कामोद्दीपक लाम्पटय  
@@ -1291,8 +1269,6 @@ lateral line system** *Zool.* **पार्श्व-रेखा-संहत�
 lateral lips** *Zool.* **पार्श्व-ओष्ठ  
 lateral lobe** Zool. **पार्श्व-पालि  
 lateral longitudinal channel** Zool.**पार्श्व-आायाम-कुल्या**
-
-
 
 **laterally पार्श्वतः, पार्श्व-  
 laterally symmetrical** *Zool.* **पार्श्व-संमित  
@@ -1418,8 +1394,6 @@ laudanidine** *Chem.* **सर्पफेनेयी** *f.*
 **laudanine** *Chem.* **सर्पफेनी** *f.*  
 **laudanosine** *Chem.* **सार्पफेनी** *f.*  
 **laudanum = tincture of opium** *Pharm.***सर्पफेन** *m.***, अहिफेन-निष्कर्ष** *m.*
-
-
 
 **laudanum poisoning** *Hygiene* **अहिफेन-विषायण  
 laudatory orders प्रशंसात्मक आदेश  
@@ -1556,8 +1530,6 @@ law and justice विधि और न्याय
 law and maxims विधि और सूत्र  
 law and order विधि और व्यवस्था, विधिबद् व्यवस्था**
 
-
-
 **law-book विधि-पुस्तक  
 law-breaker विधि-लोपक** *m.* (ancient word)  
 **law charges** (legal costs) **विधि-प्रभार, विधि-व्यय  
@@ -1686,8 +1658,6 @@ law of derived demand** *Econ.*** व्युत्पन्न-अभिया
 law of diminishing demand** *Econ.***आहासि-अभियाचन-नियम  
 law of diminishing return** *Econ.***आहासि-प्रत्याय-नियम**
 
-
-
 **law of diminishing utility आह्वासि-उपयोगिता-नियम  
 law of dominance प्रभुता-नियम  
 law of economy of organization** *Econ.* **संघटन-मितव्यय-नियम  
@@ -1797,8 +1767,6 @@ mignonette, mindie, tree mignonette) **सामान्य रक्तगर�
 **Lawson's cypress = Cupressus lawsoniana  
 law-suit वाद** *m.*  
 **lawyer** (one versed in laws)**विधिविज्ञ,**(practitioner of law) **विधिवृत्ति** *m.*
-
-
 
 **pleader अभिवक्ता  
 attorney न्यायवादी** (Const.)  
@@ -1925,8 +1893,6 @@ lead acid cell सीस अम्ल कोशा
 lead arsenate सीस नेपालीय  
 lead arsenate** (technical paste, technical powder) **सीस नेपालीय** (परिभाषित
 
-
-
 लेपी, परिभाषित क्षोद)
 
 **lead arsenite सीस नेपालित  
@@ -2052,8 +2018,6 @@ lead tree 1. = arbor Saturni** *Chem.***सीस-वृक्ष, 2.**(*Leucaen
 lead tungstate सीस चण्डीय  
 lead vitriol सीस-काचर  
 lead-ware सीस-भाण्ड**
-
-
 
 **lead wire सीस-तन्तु, सीसे की तार  
 lead wool सीसोर्णा  
@@ -2198,8 +2162,6 @@ lease deed** *Law* **पट्ट-विलेख
 lease for agricultural purposes खेती के लिए पट्टा  
 lease from month to month मासानुमास पट्टा**
 
-
-
 **lease from year to year वर्षानुवर्ष पट्टा  
 lease grant पट्ट-अनुदान  
 leasehold 1***.adj.* (held by lense) **पट्ट-धृत, 2.***n.*(a tenure by leaseor the landheld) **पट्टधृति, पट्ट-**
@@ -2322,8 +2284,6 @@ leave salary certificate अवकाश-वेतन-प्रमाणपत�
 leave salary contribution अवकाश-वेतन-अंशदान  
 leaves his holding uncultivated अपनीजोत अकृष्ट रहने दे**
 
-
-
 **leave standing** *Forestry* **खड़े छोड़ देना, खड़े रहने देना  
 leave to introduce a bill विधेयक केपुरःस्थापन की अनुमति  
 leave to withdraw motion प्रस्ताव कोलौटा लेने की अनुमति  
@@ -2444,8 +2404,6 @@ left-handedness** *Psychol.* **वामहस्तता** *f.*
 **left-handed spiral grain** *Forestry* **वामकुन्तल तन्तु  
 left-hand pages बाई ओर के पृष्ठ  
 left-hand rule** *Elec.* **वाम-हस्त नियम**
-
-
 
 **left-hand screw वाम-हस्त भ्रमि  
 left-hand side वाम पक्ष, वाम पार्श्व  
@@ -2582,8 +2540,6 @@ legal proof वैध प्रमाण
 legal provision वैधिक उपबन्ध  
 legal punishments वैध दण्ड**
 
-
-
 **legal reenumeration बैध पुनर्गणना  
 legal relevancy वैधिक सुसंगति  
 legal remedy वैधिक प्रत्युपाय  
@@ -2716,8 +2672,6 @@ legumelin**(albumin of leguminousseeds) **शिम्बियि** *f.*
 **legumin** (a globulin found in the seedsof leguminous plants) **शिम्बिकि** *f.*  
 **Legumiuosae** *Bot.* **शिम्बी-कुल** *n.*
 
-
-
 **leguminous** *adj.* (plants) *Bot.* **शिम्बि-मत्, शिम्बीकुल्य, शिम्बी-, फली वाला  
 leguminous crop शिम्बीमत् सस्य, फली वाला सस्य  
 leguminous grain शिम्बी-धान्य  
@@ -2837,8 +2791,6 @@ Lens esculenta** (lentil) **सामान्य मसूर** (ancient word; 
 
 Tam. *misurpur-*
 
-
-
 *pur,* Tel. *misurpappu*)
 
 **lens fibre** *Zool.* **वीक्ष-तन्तु  
@@ -2952,8 +2904,6 @@ leprosy कुष्ठ** *n.***, कोढ़** (ClassificationCommittee of the
 
 recommends two distinct types of leprosy: (1) lepromatous and (2) tuberculoid. It also recommends that two groups berecognised: (1) indeterminate and(2) borderline (dimorphous)**.** *Type*
 
-
-
 **connotes clinically and biologically stereotyped features, characterized by marked stability and mutual incompatibility.** *Group* **connotes less distinctive or positive characteristics, less stability, and less certainty with respect to evolution.**
 
 *Proposed types and groups:*
@@ -3059,8 +3009,6 @@ epidermal cell)**एकजधानीक**
 **leptotene** *adj. Biol.* **सूक्ष्मांशु  
 leptotene stage** *Biol.* **सूक्ष्मांशु अवस्था**
 
-
-
 **Leptethorax** *Zool.* (Gk. *leptos* 'smail,thin'+ *thorax* 'chest') **तनूदर-प्रजाति  
 Leptethorax emersoni** (live in Myrmicanests) **पिपीलिका-तनूदर  
 Leptothrix** *Bact.* (a genus of iungi)**तनुसूत्रक-प्रजाति  
@@ -3164,8 +3112,6 @@ letter of acceptance स्वीकृति-पत्र
 letter of acknowledgement अभिस्वीकृति-पत्र  
 letter of administration** *see***ofletters administration  
 letter of advice सूचना-पत्र सूचना का पत्र**
-
-
 
 **letter of allotment वण्टन-पत्र  
 letter of allotment of shares अंशवण्टन-पत्र  
@@ -3284,8 +3230,6 @@ leucoma** *Med.* **सितजाल** *n.* (cfits Hindiname जाल)
 leucophyre सितपृक्ताश्म** *m.*  
 **leucoplakia** (marked by white thick-
 
-
-
 ened patches सिध्म) **श्वेतसिध्म** *n.*
 
 **leucoplast** *Bot.* **सितघटन** *m.*  
@@ -3355,8 +3299,6 @@ lever 1.उद्याम** *m.***2.**(handle) **हस्तक** *m.*
 
 **3.**(an arrangement of levors) **उद्याम-विन्यास** *m.***4.**(mechanical advantage gained bythe lever) **उद्याम-लाभ** *m.*
 
-
-
 **leverage system उद्याम-संहति  
 leveret** (a hare in its first year) **हायन-शश, एकवर्ष का शशा  
 lever frame** *Rly.* **उद्याम-कंकाल  
@@ -3410,8 +3352,6 @@ levying war सैन्यसंग्रहण, सेना इकट्ठ�
 levy list उद्ग्रहण-सूची  
 levy of fees शुल्कारोपण  
 levy of tax करारोपण**
-
-
 
 **levy system उद्ग्रहण-पद्धति  
 lewd** *adj.***लम्पट, कामुक  
@@ -3528,8 +3468,6 @@ liberated** *adj.* **विमुक्त
 liberating विमोचन** *n.*  
 **liberation विमोचन** *n.*  
 **liberationalism** (principles or theoriesof those opposed to a state church)**राज्यमुक्तिवाद** *m.*
-
-
 
 **liberation of energy ऊर्जा-विमोचन  
 liber fibres = bast fibres** *Bot.* **प्रतन्तु** *m.*  
@@ -3662,8 +3600,6 @@ lichen ruber** (red-coloured scaly skin eruption) **अरुणशल्क** *
 Lichinia** *Bot.* **कृष्णझटि-प्रजाति  
 Lichinia vulgaris** (black fruticose—McLean I.375) **सामान्य-कृष्णझटि**
 
-
-
 (fruticose 'shrub-like'. झटि 'shrub' from Un. iv. 117 Sch. whence isderived Hindi झाड़ी)
 
 **Lichtenberg's alloy = Lichtenberg'sfusible meta।  
@@ -3789,8 +3725,6 @@ life processes जीवन-विधाएं
 life-saving appliances जीवनरक्षी साधन  
 life sentence** (a sentence of imprisonment for one's term of life) **आजीवन**
 
-
-
 **कारादण्ड**
 
 **life size जीवत्परिमाण  
@@ -3912,8 +3846,6 @@ light magnesia** *Chem.* **लघु भ्राजा
 light metal लघु धातु, हलका धातु  
 lightning तडित्** *f.***, बिजली  
 lightning-arrester = lightning protec-**
-
-
 
 **tor तडिद्-रक्षक** *m.*
 
@@ -4048,8 +3980,6 @@ lillianite सीभिशिज** *m.* (सी. for सीस lead,भि- for 
 
 delicately white)**नलिनी-श्वेत** (as hand),**3.**(pallid) **पाण्डुर**
 
-
-
 **yellow lily** (*Nuphar luteum*)**पीतोत्पल**
 
 **lily green** (a colour, green हरि in hue,of low अव saturation and low निbrilliance) **न्यवहरि  
@@ -4153,8 +4083,6 @@ limited character सीमित स्वरूप
 limited eoinage** *Econ.* **सीमित टंकन  
 limited company सीमित समवाय  
 limited divorce सीमित विवाहविच्छेद**
-
-
 
 **limited facilities सीमित सुविधाएं  
 limited fee** *Law* **सीमित संपत्  
@@ -4283,8 +4211,6 @@ linaloöl जोंगकव** *m.*
 Linaria elatine = Kickxia elatine  
 Linaria ramosissima** (found usually in rocky and stony places—Basu)**शैल-भेकशण**
 
-
-
 **Linaria spuria = Kickxia spuria  
 Linaria vulgaris** (toad-flax) **सामान्य भेकशण  
 Lincoln green** (a colour, yellowishyellow-green हर्यतिपीत in hue, of lowअव saturation and low
@@ -4395,8 +4321,6 @@ linen 1.क्षुमा** *f.***2.**(cloth) **क्षौम** (made of क�
 linen store क्षुमा-संग्रहागार  
 linen store-room क्षुमा-संग्रहागार  
 linen stores क्षुमा-वस्तुएं**
-
-
 
 **line of action** *Mach.* **क्रिया-रेखा, कार्य-रेखा  
 line of arrival** *Mil.* **आगमन-रेखा  
@@ -4518,8 +4442,6 @@ liniment aconiti = liniment of aconite
 liniment aconiti meth, प्रोद. प्रविष-मृद्य  
 liniment ammoniae = liniment of ammonia**
 
-
-
 **linimentum belladonnae = liniment of belladonna  
 linimentum belladonnae** *meth.* **प्रोद. कण्टालिका-मृद्य  
 linimentum camphorae ammoniatum =ammoniated liniment of camphorतिक्तातीयित**
@@ -4635,8 +4557,6 @@ linseed oil अतसी तैल, अलसी का तेल
 linseed seed अलसी  
 lint** *Pharm.* **तूलिपट** *m.*  
 **lint bells** (*Linum usitatissimum*)
-
-
 
 **अतसी** *f.* (B., N., M.), **अलसी**
 
@@ -4763,8 +4683,6 @@ liquid extract of cascara sagrada = extractumi cascarae sagradae liquidum=fluid*
 liquid extract of couch grass = extractumagropyri liquidam तरल शायिघास-निस्सार  
 liquid extract of cubeb = extractum cubebae**
 
-
-
 **liquidum तरल गन्धमरिच-निस्सार**
 
 **liquid extract of damiana = extractum damianae liquidum तरल वाजपत्र-निस्सार  
@@ -4866,8 +4784,6 @@ liquor iodi mitis = weak solution ofiodine दुर्बल जम्बुक
 liquor-licensee मदिरा-अनुज्ञप्तिधारी  
 liquor 'morphinae acetatis प्रमीलीशुक्तीय विलयन  
 liquor morphinae hydrochloridi =**
-
-
 
 **solution of morphine hydrochlo-ride प्रमीली उदनीरेय विलयन  
 liquor morphinaetartratis प्रमीलीन्यासवीय विलयन  
@@ -5003,8 +4919,6 @@ literature साहित्य** *n.*(Const.)
 **batholith अधः शैल  
 laccolith ककुच्छैल**
 
-
-
 **phacolith मसूरशैल  
 lopolith न्युदुब्जशैल**
 
@@ -5125,8 +5039,6 @@ Lithospermum officinale = cromwell** (seeds arelithotriptic— Basu) **साम
 lithosphere** (the solid part of theearth) **सान्द्रमण्डल** *n.*  
 **Lithostrotion** *Paleontol.* (the coralsof this genus consist of numerous
 
-
-
 individuals, and are therefore described as compound—Swinnerton 1947, p.60. See Woods p. 87 fig. 31)**संदुमाश्न-प्रजाति** (सं- compound, विद्रुम coral)
 
 **Lithostrotionbasaltiforme** (*see* basaltiform, and Swinnerton 1947, p.60 fig. 51c) **स्तम्भीय**
@@ -5238,8 +5150,6 @@ live assets = quick assets विक्रयसुलभ परिसंपत�
 live-forever** *Bot.* **सदाजीवा***f.*  
 **live hedges जीवित वृति  
 livelihood जीविका** *f.* (Const.),**living निर्वाह**
-
-
 
 **subsistence जीवन-निर्वाह  
 support आलम्ब, उपजीविका  
@@ -5356,8 +5266,6 @@ loaded by owner स्वामि-उद्भृत, स्वामी का
 loaded by railway संयान-उद्भृत, संयानका चढ़ाया हुआ  
 loaded firearms भरे हुए गोलिकास्त्र  
 loaded gun भरी शतघ्नी, भरी बन्दूक**
-
-
 
 **loaded journey** *Rly.* ** सभार यात्रा  
 load factor** *Elec.* (the ratio of the maximum to the average load during a given period)
@@ -5482,8 +5390,6 @@ local amendments स्थानीय संशोधन
 local anaesthetic = local anesthetic  
 local and cantonment funds स्थानीय और छावनी निधियां**
 
-
-
 **local and rapid** *Geog.* **अल्पविस्तृत और द्रुत,**
 
 **wide spread and slow दूरविस्तृत और मन्द**
@@ -5599,8 +5505,6 @@ localized industry** *Econ.* **स्थानसीमित उद्योग
 localized pain स्थानसीमित पीडा  
 localized thickening** *Bot.* **स्थानसीमित स्थूलना**
 
-
-
 **local jurisdiction स्थानीय क्षेत्राधिकार  
 local knowledge स्थानीय ज्ञान  
 local labour स्थानीय श्रमिक  
@@ -5709,8 +5613,6 @@ locker कुञ्चीरक्ष** *m.*
 locking up 1.***Printing* **परिबन्धन** *n.***, कसना 2.**(the jury) **संनिरुद्ध करना  
 lockjaw** *Med.* **हनुस्तम्भ** *m.*  
 **lock label ताले का नामपत्र**
-
-
 
 **locknut** *Mech.* **तालकनह** *m.*  
 **lock-out द्वारताल** *m.,***strike हट्टताल, हड़ताल  
@@ -5825,8 +5727,6 @@ log-book 1=sea journal** (a book in which is entered the daily progress of aship
 
 **log cubic contents** *Forestry* **लगुड-घन-परिमा**
 
-
-
 **loggerhead** *Zool.* (a very large turtle)**राजकश्यप** *m.*  
 **logging** *Forestry* (the operation of converting felled trees into logs—I.F.R.) **लगुड-निर्माण** *n.***, लट्ठे**
 
@@ -5934,8 +5834,6 @@ long-distance magnification सुदूरविशालन
 long division** *Math.* **दीर्घ भाजन  
 long-eared bat दीर्घकर्ण जतु**
 
-
-
 **long-eared owl** *Aves* **दीर्घ-कर्ण उलूक, शशोलूक, शश-कर्ण उलूक  
 longer dated securities दीर्घतरावधि प्रतिभूतियां  
 longer period दीर्घतर अवधि  
@@ -6040,8 +5938,6 @@ long-term rate दीर्घावधि अर्घ
 long-term securities दीर्घावधि प्रतिभूतियां  
 long-term vacancy दीर्घावधि रिक्ति  
 long-time changes** *Statistics* **दीर्घकालीन परिवर्तन**
-
-
 
 **long-time exposure** *Photog.* **दीर्घकाल प्रकाशन  
 long title लम्बा शीर्षक  
@@ -6156,8 +6052,6 @@ Lophophanes** *Aves* **चूडावल्गुली-प्रजाति**
 **Lophophanes cristatus** (crested titmouse)**सामान्य चूडावल्गुली  
 lophophore** *Zool.*(tentacls-supporting organ—Henderson) **अंगकधर** *m.*
 
-
-
 **Lophophorus** *Aves* **इन्द्राभ-प्रजाति** (इन्द्राभ ancient word)  
 **Lophopoda = Phylactolaemata  
 Lophopus** *Zool.* **खुरपांगकधर-प्रजाति  
@@ -6270,8 +6164,6 @@ lost** *adj.* **लुप्त, खोया गया
 lost bill** *Com.* **लुप्त विपत्र  
 lost cheque** *Com.* **लुप्त धनादेश  
 lost counter-receipt लुप्त प्रति-प्राप्ति,**
-
-
 
 खोई प्रति-प्राप्ति
 
@@ -6724,8 +6616,6 @@ lower class
 निम्न श्रेणी, निचली श्रेणी  
 lower class limit निम्न संभाग सीमा
 
-
-
 **lower controlling staff निम्न नियन्त्रक कर्मचारी  
 lower court निम्न न्यायालय**
 
@@ -6839,8 +6729,6 @@ low water capacity अल्प जलधारिता
 low water line** *Geog.* **निम्नजल-रेखा  
 low water mark निम्न जलरेखा, निम्न जलचिह्न**
 
-
-
 **low wine** (a weak liquor produced by the first distillation of wash) **मन्द मदिरा  
 Loxia** *Aves* (genus constituted by the crossbills) **विषमचञ्चु-प्रजाति  
 Loxia curvirostra** (crossbill) **सामान्य विषमचञ्चु  
@@ -6952,8 +6840,6 @@ lucre 1.प्रलाभ** *m.***2.अपलाभ** *m.*
 **Luders' lines = stretcher strains** (lines appearing on the smooth surface of metal strained
 
 beyond its elastic limit—Web.) **अधितति रेखाएं** (Rolfe p.208)
-
-
 
 **ludigol = nitro-anthraquinone sulphonic acid** *Col. Ind.* **भूय-विक्षविज्वरा शुल्बायिक अम्ल  
 luetic** *adj. Med.* **उपदंशिक  
@@ -7082,8 +6968,6 @@ lunar nutation** *Astron.* **चान्द्र विदोलन
 lunar observation** *Astron.* **चान्द्र वेध** *m.*(वेध ancient word)  
 **lunar occultation** *Astron.* **चान्द्र तारा-ग्रहण**
 
-
-
 **lunar perturbation** *Astron.***चान्द्र विक्षोभ  
 lunar table** *Astron., Navig.* **चान्द्र सारणी  
 lunar theory** *Astron.* **चान्द्र वाद  
@@ -7203,8 +7087,6 @@ L.V.** (licence vendor) **अ.वि.** (अनुज्ञप्ति-वि�
 **L.W.P.** (leave without pay) **अवै.अ.** (अवैतनिक अवकाश)  
 **Lycaenops** *Paleontol.* (Gk. *lykaina* 'she-wolf', fem. of *lykos* wolf)**वृकीसरट-प्रजाति  
 lycanthropy** (a form of insanity in which the patient imagines himself
-
-
 
 a wolf वृक)
 
@@ -7679,8 +7561,6 @@ lynx हलीक्ष्ण
 
 *m.*
 
-
-
 **Lyomeri** *Zool.* (Gk. *lyein* 'to loose, dissolve'+*meros* 'part'. Body soft and fragile) **भंगुर-गण** *m.*
 
 (गणorder)
@@ -7759,8 +7639,5 @@ Lytta vesicatoria** (blister beetle)**उदस्फोट हरिभृं�
 lyxo-** (lyxose) **दारु-  
 lyxose** (anagram of *xylose*; closely related to xylose काष्ठधु) **दारुधु** *n.*  
 **-lyze = -lyse**
-
-
-
 
 \]

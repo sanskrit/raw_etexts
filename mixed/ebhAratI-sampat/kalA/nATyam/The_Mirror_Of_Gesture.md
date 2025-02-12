@@ -14,60 +14,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc0MzIyMjUyMjc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 ![](../books_images/U-IMG-1729261712aaa.png)
-
-
 
 |                                 |
 |:-------------------------------:|
 | **Cornell University Library** |
 
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
-
-
 [TABLE]
-
-
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 **THE MIRROR OF GESTURE**
 
@@ -85,8 +46,6 @@ influence ofthe finished article of the East; but Icravetheinstruction of the in
 
 1 Extract from a letter written in 1915.
 
-
-
  When Brahmā was a Sage in the Kṛta Age, and when Vaiśvata Manu waspreparing for the Treta Age, when popular morality is in the grasp of greedand of desire, and the world is deluded by envy, by resentment, and byweal and woe, when the Devas, Dānavas, Gandharvas, Yakṣas, Rākṣasas,Mahoragas, and the Lokapālas entered upon Jambu-dvīpa, then Indra andthe other Devas said to Brahmā: "We desire a pastime to be seen and heard.This matter of the Four Vedas should not be heard by Śūdras, pray therefore shape another and a fifth Veda for all the castes."
 
  Saying to them, "So let it be," and turning away from Indra, he whoknows the essence of every matter, seated in Yoga posture, called to hismind the Four Vedas, thinking, "Let me make a Fifth Veda, to be calledNāṭya (Drama), combined with epic story, tending to virtue, wealth, (pleasure and spiritual freedom), yielding fame—a concise instruction setting forthall the events of the world about to be, containing the significance of everyScripture, and forwarding every art." Thus, recalling all the Vedas, theBlessed Brahmā framed the Nāṭya Veda from the several parts of the FourVedas, as desired. From the Ṛg Veda he drew forth the words, from theSāma Veda the singing, from the Yajur Veda gesture, and from the AtharvaVeda the flavour.
@@ -96,8 +55,6 @@ influence ofthe finished article of the East; but Icravetheinstruction of the in
  "This play is not merely for your pleasure or the pleasure of the Devas,but exhibits mood (*bhāva*) for all the Three Worlds. I made this playas following the movement of the world (*lokaṛt'-anukaraṇam*), whetherin work or play, profit, peace, laughter, battle, lust, or slaughter; yieldingthe fruit of righteousness to those who follow the moral law, pleasure to those who follow lust, a restraint for the unruly, a discipline for the followersof a rule, creating vigour in the impotent, zeal in warriors, wisdom in theignorant, learning in scholars, affording sport to kings, endurance to thesorrow-smitten, profit to those who seek advantage, courage to the brokenwilled; replete with the divers moods (*bhāvas*), informed with the varyingpassions of the soul, linked to the deeds of all mankind, the best, the middling,and the low, affording excellent counsel, pastime, weal and all else.
 
  This drama shall be the source of all counsel in matters of flavour (*rasa*),mood (*bhāva*), and every rite; it shall serve as a timely resting-place forthose who are grieved, weary, unhappy, or engaged in an arduous discipline;
-
-
 
 bestowing righteousness, renown, long life, fortune, increase of reason; affording counsel to the world. That which is not to be found herein is notknowledge, nor craft, nor wisdom, nor any art, nor deeds, nor Union (*yoga*).
 
@@ -112,16 +69,12 @@ bestowing righteousness, renown, long life, fortune, increase of reason; affordi
 
 **1** This general principle holds good even where an author acts his own play.
 
-
-
  Granting, of course, a variety of natural capacity, therenaturally appears to be less difference between the good and badactor than we are accustomed to observe in modern Europe,because the actor who merely exhibits *himself* is eliminated altogether. The difference, however, exists, and the Indian connoisseur is as sensitive to every shade of it as the western critic tothe wider range of variation on the European stage. The perfectactor has the same complete and calm command of gesture thatthe puppet showman has over the movements of his puppets;the exhibition of his art is altogether independent of his ownemotional condition, and if he is moved by what he represents,he is moved as a spectator, and not as an actor.**¹**Excellentacting wears the air of perfect spontaneity, but that is the artwhich conceals art. It is exactly the same with painting. TheAjaṇṭā frescoes seem to show unstudied gesture and spontaneouspose, but actually there is hardly a position of the hands or ofthe body which has not a recognized name and a precise significance. The more deeply we penetrate the technique of anytypical Oriental art, the more we find that what appears to beindividual, impulsive, and 'natural', is actually long-inherited,well-considered, and well-bred. Under these conditions lifeitself becomes a ritual. The Indian actor relies only to a verysmall extent on properties, and still less on scenery. Referringto this, Bābu Dinesh Chandra Sen remarks with justice of theBengālī Yātrās, that these folk-plays" without scenery, withoutthe artistic display of costumes, could rouse emotions whichnowadays we scarcely experience while witnessing semi-European performances given on the stages of the Calcuttatheatres."**²**
 
  But it is not merely in connection with folk-plays thataccessories are needless. Let us take a few episodes fromthe "Śakuntalā" of Kālidāsa and see how they are presented.The "Watering of a Tree" is to be acted according to the following direction: First show *Nalina*-*padmakośa* hands palmsdownwards, then raise them to the shoulder, incline the head,  
 -------------------------------------------------------------------------------------  
 **1** "Sāhitya Darpaṇa", 50.  
 **2** "History of Bengali Language and Literature", 1911, p. 733.
-
-
 
 somewhat bending the slender body, and pour out. *Nalinapadmakośa* hands are as follows: *Śukatuṇḍa* hands are crossedpalms down, but not touching, turned a little backward, andmade *Padmakośa*. To move the *Nalina-padmakośa* hands downwards is said to be 'pouring out'." The action indicated ispractically that of the extreme left-hand figure in Plate XII ofthe India Society's "Ajanta Frescoes" (Oxford, 1915), but theactress, of course, only makes believe to lift and pour, she doesnot make use of an actual vessel. "Showing Fear of a Bee" isto be acted as follows: "Move the head quickly to and fro(*Vidhutam*), the lips quivering, while *Patāka* hands are heldunsteadily against the face, palms inward." 'GatheringFlowers is to be acted as follows: "Hold the left handhorizontally in *Arāla*, the right hand in *Haṃsāsya*, extendedforward at the side." The left hand here represents abasket, and imaginary flowers are picked with the right handand transferred to the left. '' Mounting a Car " is to be shownas follows: " The knees are to be raised, the leg being bent andlifted, so that the knee is level with the chest, and there held;and then the same is done with the other foot."**¹**
 
@@ -132,15 +85,11 @@ somewhat bending the slender body, and pour out. *Nalinapadmakośa* hands are as
 
 **1** Śukatuṇḍa, Padmakośa, Arāla and Haṃsāsya hands, and the Vidhuta headare explained in the text of the “Mirror of Gesture" translated below. The abovestage directions are from Rāghavabhatta's "Arthadyotanikā”, a commentary onŚakuntala, printed in the "Abhijñāna Śakuntalā” edited by Godabole and Paraba,Bombay, 1886. The immediate source is Sylvain Levi's well known and valuablework, "Le Théâtre Indien", which is, however, mainly concerned with the literature,rather than the technique of the Indian drama.
 
-
-
 spectator, who remains from beginning to end of the performance—if he remains so long—an outsider. The Indian artist is aprofessional, and he works for an audience of unsparing critics.The fact that dancing or pantomime is a learned art appears inall the literature, and the accomplished actor must be accomplished in many things. In the “Mirror of Gesture", for example,the various definitions are constantly supported by the remark,"This is the view of those who are learned in the Bharatāgama."**¹**It must not be imagined on this account that Indian Nāṭyaserved or serves only for the entertainment of an academicclique. This may have been the case with the old court dramas,but it was not so with Nāṭyain general, which corresponded tothe common and collective need of the folk. Where such a needis felt, there arises a common and collective art, that is to say,an art which is not, indeed, practised by everyone, but is understood by everyone. The Indian actor, despite the apparentcomplexity of the gesture-language, makes no movement ofwhich the meaning is incomprehensible to an Indian audience,while the subject-matter—religious, epic, or erotic—is commonground for all. But the knowledge of technique and theme isnot alone sufficient, without imagination; and according to theIndian view, the power to experience aesthetic emotion is inborn,it cannot be acquired by mere study, being the reward of meritgained in a former life.**²** Whether or not this be true of the individual, it is certainly true of human communities, where no greatart ever yet sprang into being out of nothing in a single generation. Art, and the general understanding of art, are always theresult of a long, united, and consistently directed effort, andnothing can be done unless the artist and the spectator share acommon inspiration. How far this is assumed to be the case inIndia may be gathered from the remarks of the dramatic criticssuch as Dhanaṃjaya, who pours scorn upon the spectator whoseeks in drama the statement of fact rather than the experience.  
 ------------------------------------------------------------------------------------
 
 **1** Phrases of this nature, which are constantly repeated, are generally omittedin our translation.  
 **2** "Knowledge of Ideal Beauty," says Blake, " is not to be acquired. It is bornwith us."
-
-
 
 of joy,**¹** and says that this experience depends upon the spectator's own capacities, and does not arise from the perfections ofthe hero, or because the work was deliberately designed to createa beautiful effect; it is their own effort by which the audienceis delighted, just as in the case of children playing with clayelephants, whose imagination bestows upon their toys a variedand abundant life.**²**Those who lack imagination are said to beno better than furniture, walls, or stones.**³**
 
@@ -157,8 +106,6 @@ of joy,**¹** and says that this experience depends upon the spectator's own cap
 
 **5** It may be remarked that the few attempts that have so far been made to exhibit Indian drama on the English stage have merited similar criticism.
 
-
-
 thinking of something else." There are still innumerableIndian temples where the ritual dancing of Devadāsīs beforethe image is a part of the regular daily office; while inorthodox circles the Nautch is still an indispensable elementin all festivities such as weddings and coronations. The Nautchis a direct survival of the old Indian Nāṭya. But the materialof the classic drama is rarely if ever presented at the present day,the theme of the modern Nautch being most often Vaiṣṇava.The development of Nāṭyais thus analogous to that which hastaken place in painting and poetry.
 
  It may be remarked here that it is very usual for Indian singers,other than dancers, to accompany their singing with gesticulation.This is of two kinds, of which the first, quite distinct from whatis spoken of in the present treatise, is a hand movement reflectingthe musical form; this expression of empathy (*sādhāraṇī*) issometimes very impressive or graceful, but not less often grotesque. The second, known as *bhāv batānā* or ‘shewing moods' isof the type here described as *abhinaya*, or 'gesture' and differsfromNāṭyaonly in the greater relative importance of the musicand the words.
@@ -168,8 +115,6 @@ thinking of something else." There are still innumerableIndian temples where the
 
 **1** "In this drama of the world He is both the Chief Actor and the Chief ofActresses. This drama commenced in the beginning with the union of Actor andActress, and will conclude, according to His unfailing will, at that night which isthe end of time" ("Tantra Tattva", trans. Avalon, p. 28).
 
-
-
 Kāliya, and another General Dance, with the milkmaids of Brindāban, who are the souls of men.
 
  Most of the dances just mentioned, however, except the RāsaMaṇḍala or General Dance last spoken of, are Tāṇḍava dancesand represent a direct cosmic activity. Those of the Nṛtyaclass, which set forth in narrative fashion the activities of Godsand Titans, or exhibit the relationships of hero and heroine " Soas to reveal an esoteric meaning", are for the most part Lāsyadances performed by the Apsarās of Indra's paradise, and by theDevadāsīs and Nācnīs upon earth. It will be seen that in allcases the dance is felt to fulfil a higher end than that of mereentertainment: it is ethically justified upon the ground that itsubserves the Four Ends of life, and this view of Nāṭya is plainlystated in Tiruvenkaṭācāri's preface translated below. The artsare not for our instruction, but for our delight, and this delightis something more than pleasure, it is the godlike ecstasy ofliberation from the restless activity of the mind and the senses,which are the veils of all reality, transparent only when we areat peace with ourselves. From the love of many things weare led to the experience of Union: and for this reason Tiruvenkaṭācāri does not hesitate to compare the actor's or dancer's artwith the practice of Yoga. The secret of all art is self-forgetfulness.
@@ -177,8 +122,6 @@ Kāliya, and another General Dance, with the milkmaids of Brindāban, who are th
  Side by side with this view, however, there has always existedin India a puritanical disparagement of the theatre, based upona hedonistic conception of the nature of aesthetic emotion; andthis party being now in full cry, and the Nautch, on the otherhand, being threatened by that hybridization which affects allthe arts of India that are touched by western influence, the oldIndian Nāṭya is not likely to survive for very much longer.Probably the art of the theatre will now first be revived in Europe,rather than in India.
 
  All that is said in the present volume will serve only as anintroduction to Indian dramatic technique and to Oriental acting in general. But we are encouraged to think that even sobrief an introduction to an extensive science may prove of practical value to the many dramatists who are interested in the future
-
-
 
 of the European theatre; and though we have done all in ourpower to serve the ends of scholarship, our main purpose in publishing the "Mirror of Gesture'' is to interest and assist theliving actor—not that we suppose that it might be profitablefor him to adopt the actual gesture-language of the East, butthat it may inspire him with the enthusiasm and the patienceneedful for the re-creation of the drama in his own environment.
 
@@ -188,15 +131,11 @@ of the European theatre; and though we have done all in ourpower to serve the en
 
 **ANANDA COOMARASWAMY**
 
-
-
 **THE INDIAN EDITOR'S PREFACE**
 
  THE BHARATA ŚĀSTRA, which is most dear to the Lord of Śrī,the Creator of every world, and which is the delight of everyconnoisseur in every world, has been brought into being by Śiva,Śambhu, Gauri, Brahmā, Mādhava, Nandikeśvara, Dattila,Kohala, Yājñavalkya, Nārada, Hanuman, Vighrarāja, Subrahmaṇiya, Arjuna, and the daughter of Bāṇa (i. e. Uṣā): theseare the famous authors of our science. Notwithstanding this, itis known to everyone that in these days our people not merelyneglect this lore as though it were of the common sort, but go sofar as to declare it to be an art that is only suited for the entertainment of the vulgar, unworthy of cultivated men, and fit tobe practised only by play-actors. But it is like the Union-science *(Yoga-śāstra*) which is the means of attaining spiritualfreedom (*mokṣa*): and the reason why a science such as this hascome to be regarded in such a fashion is that it is by movementsof the body (*angikābhinaya*) that the lineaments and interplayof hero and heroine, etc., are clearly exhibited, so as to directmen in the way of righteousness, and to reveal an esoteric meaning; obtaining the appreciation of connoisseurs and those whoare learned in the lore of gesture. But if we understand thisscience with finer insight, it will be evident that it has come intobeing to set forth the sport and pastime of Śrī Krishna, who isthe progenitor of every world, and the patron deity of the flavourof love; that by clearly expressing the flavour, and enablingmen to taste thereof, it gives them the wisdom of Brahma,whereby they may understand how every business is unstable;from which understanding arises indifference (*vairāgya*) to suchbusiness, and therefrom arise the highest virtues of peace andpatience, and thence again may be won the Bliss of Brahma.
 
  It has been declared by Brahmā and others that the mutualrelations of hero and heroine, in their esoteric meaning, partakeof the nature of the relations of master and pupil, mutual service
-
-
 
 and mutual understanding; and therefore this Bharata Śāstra,which is a means to the achievement of the Four Aims of HumanLife,—Virtue, Wealth, Pleasure, and Spiritual Freedom,― andthe most exalted science, practised even by the Devas, shouldalso be patronized and practised by ourselves.
 
@@ -206,8 +145,6 @@ and mutual understanding; and therefore this Bharata Śāstra,which is a means t
 
 MAḌĀBHŪSHI TIRUVENKATA, OF NIḌĀMANGALAM,  
 A.D. 1887.
-
-
 
 **OṂ**  
 **MAY ALL BE WELL!**  
@@ -238,8 +175,6 @@ DECLARED BY NANDIKEŚVARA**
 
   1 In this verse Śiva is compared to an actor, whose means of expression *(abhinaya)*are gesture, voice, and costume. He reveals himself through the world, the speechof men, and the starry firmament. The image of Siva as dancer (Naṭarāja, Naṭeśa)and actor is everywhere conspicuous in Śaiva literature (see "The Dance of Śiva",by A. K. Coomaraswamy," Siddhānta Dīpika ", Vol. XIII, i).
 
-
-
  The sages speak of Nāṭya, Nṛtta, and Nṛtya.**¹**Nāṭya isdancing used in a drama (*nāṭaka*) combined with the originalplot. Nṛtta is that form of dance which is void of flavour (*rasa*)and mood (*bhāva*). Nṛtya is that form of dance which possesses flavour, mood, and suggestion (*rasa, bhāva, vyañjanā*etc.), and the like. There is a twofold division of these three,Lāsya and Tāṇḍava. Lāsya dancing is very sweet, Tāṇḍavadancing is violent.
 
  Nāṭyaand Nṛtya should be seen especially at festivals. Nṛtyaat coronations, celebrations, processions of men or gods, marriages, reunion of friends, entry into towns or houses, the birthof children, and all auspicious occasions, by those who desirefortune. Brahmā has derived instrumental music, gesture, song,and flavour respectively from the Ṛg, Yajur, Sāma, and AtharvaVedas, and has made these Laws of Dancing which yield fulfilmentof the Four Ends of Life, and are means to overcome misfortune,hurt, affliction, disappointment, and regret, and yield therewithmore delight than even Brahma-bliss. Nṛtya should be seen bya royal audience in the courts of kings.
@@ -252,8 +187,6 @@ DECLARED BY NANDIKEŚVARA**
 **  1** Nṛtta and Nṛtya constitute dancing as a separate art. The ordinary performance of a *nācnī*(nautch-girl, *bayadère*) consists of alternate Nṛtya and Nṛtta, theformer consisting of set dances with some special subject, and accompanied byvaried gesture, the latter merely moving to and fro, marking time with the feet, andso forth. Nṛtta is here dismissed with a merely negative definition, as the objectof the Abhinaya Darpaṇa is to explain how to express by gesture definite themes.
 
  According to Dhanaṃjaya ("Daśarūpa " I, 14) speaking of Nṛtya and Nṛtta,"the former, gesture-with-meaning is high (*mārga*), the latter popular (*deśi*).”
-
-
 
 * **The Chief of the Audience*** **(sabhā-nāyaka)**.—He who is Chiefof the Audience should be wealthy, wise, discriminating, full ofgifts, versed in musical lore, omniscient, renowned, of charmingpresence, knowing the moods (*bhāvas*)**¹**and their expression(*hāva*), void of jealousy and like faults, familiar with customaryetiquette, sympathetic, a Dhīrodātta Nāyaka, expert in all thearts, clever in statecraft.
 
@@ -269,8 +202,6 @@ DECLARED BY NANDIKEŚVARA**
  **1** *Bhāva* is the first touch of emotion in a mind previously at rest; when theemotion becomes more intense, and finds expression in movements of the eyes, eyebrows, etc., it is called *hāva*. The ten *hāvas* or *sṛngāra-ceṣṭās* are included among thetwenty or twenty-eight ornaments (*alankāra*) of a heroine, as follows: *līlā*, theimitation of the lover; *vilāsa*, a flutter of delight, *vicchitti*, rearrangement of dressor jewels to enhance loveliness; *vibhrama*, confusion or flurry; kilakiñcita, a combination of anger, tears, joy, fear, etc.; moṭṭayita, absorption in thoughts of the loverwhen his name is heard; *kuṭṭamita*, feigned anger; *bibboka*, feigned indifference;*lalita*, graceful swaying or lolling; *vihṛta*, silence imposed by modesty.
 
  These are described in the "Sāhitya Darpaṇa" of Viśvanātha, “Dāśarūpa " ofDhanaṃjaya, "Bhāsa-bhuṣana" of Lāla-candrika, etc. The physical signs expressing the *hāvas* are detailed in subsequent verses of the "Mirror of Gesture,"(e.g. pp. 20, 25). Strictly speaking, *bhāva* is mood or feeling unexpressed, *hāva* isthe emotion which finds expression, *ceṣṭā*the gesture that expresses it. *Rasa* orflavour and vyañjanā or suggestion (transcending the literal meaning) distinguishpoetry from prose.
-
-
 
 breasts, self-confident, charming, agreeable, dexterous in handling the critical passages,¹skilled in steps and rhythms, quite athome on the stage, expert in posing hands and body, gracefulin gesture, with wide-open eyes, able to follow song and instruments and rhythm, adorned with costly jewels, with a charminglotus-face, neither very stout nor very thin, nor very tall norvery short.
 
@@ -288,8 +219,6 @@ breasts, self-confident, charming, agreeable, dexterous in handling the critical
 **  1** *Kuśala graha-mokṣayoh*, lit. expert in grasping and releasing, emphasizing andrelaxing the stress of emotion. The actress is not to be swayed by impulse, butperfectly self-possessed, mistress of a studied art, in accordance with the Telugusaying *bommale-vale ādintsuta*, "as if pulling the strings of a puppet", a phrasealso used in speaking of the relation of God to man and the universe.
 
 **  2** No dancer ties the bells upon her ankles before dancing, without first touching her forehead and eyes with them, and repeating a brief prayer. Investiturewith the bells makes the adoption of a professional life inevitable.
-
-
 
 symmetry, versatility, glances, ease, intelligence, confidence,speech, and song.
 
@@ -311,8 +240,6 @@ symmetry, versatility, glances, ease, intelligence, confidence,speech, and song.
 -------------------------------------------------------------------------------------
 
 **1** Observe that *abhinaya* strictly speaking meansexpression" whether bygesture, singing, or costume. In the present work it is expression by gesture whichis considered, and on this account the term abhinaya has been rendered by "gesture "throughout.
-
-
 
  In *Pratyangābhinaya* the shoulders, shoulder-blades, arms,back, stomach, thighs and calves, some say also three others,the wrists, knees, and elbows, are the parts of the body.
 
@@ -338,8 +265,6 @@ satisfaction, anger, indifference, or inaction.
 
   **1** Cf. usage in "Bhagavad Gitā ", VI, 13.
 
-
-
 *** Parāvṛtta* (turned round)**: the head is turned aside. Usage:saying "Do this", aversion, modesty, quiver, relaxing thefeatures, slighting, hair, etc.
 
 * **Utkṣipta*** **(tossed)**: turning the head aside and upwards.Usage: saying "Take this",etc.,indication, cherishing, assent.
@@ -363,8 +288,6 @@ satisfaction, anger, indifference, or inaction.
 * **Udvāhita:*** raising the head sharply. Usage: saying "I can ",dignity.
 
 * **Parivāhita:*** turning the head in a circle. Usage: shamelessness,misapprehension, keeping silence, recalling (the appearance
-
-
 
   etc. of) the beloved, astonishment, smiling, joy, horripilation,giving pleasure, reflection.
 
@@ -396,8 +319,6 @@ satisfaction, anger, indifference, or inaction.
 
 *** Tirascīna:*** looking up on both sides. Usage: in dances showingmodesty, and that called Mukhacārī, and such suitable occasions.
 
-
-
 * **Prakampita*** **(waving about):** repeatedly moving the head forward and to both sides. Usage: the marvellous (*adbhuta rasa*), song, composition (*prabandha*), bee, the enemy's modeof fighting.
 
 * **Saundarya*** **(elegance):** looking up and down, the trunk alsobent. Usage: expressing a cause (*kāraṇa*), in dances showingthe "bee "hand, yoga-practice.
@@ -420,8 +341,6 @@ satisfaction, anger, indifference, or inaction.
 
 * **Avalokita*** **(looking down):** looking down. Usage: looking at ashadow, reflection (*vicāra*), bed, study, looking at one's ownbody.  
  The following Glances are mentioned elsewhere: Sama, Pralokita, Snigdha, Srngara, Ullokita, Adbhuta, Karuṇa, Viṣmaya,
-
-
 
 Tṛpta, Viṣanna, Bhayānaka, Sāci, Dṛta, Vīra, Raudra, Dūra,Ingita, Vilokita, Vitarkita, Śankita, Abhitapta, Avalokita,Śūnya, Hṛṣṭa, Ugra, Vibhrānta, Śānta, Mīlita, Sūcana, Lajjita,Malina, Trasta, Mlāna, Mukula, Kuñcita, Ākāśa, Ardhamukula,Anuvṛtta, Vipluta, Jihma, Vikośa, Madira, Hṛdaya, Lalita.
 
@@ -452,8 +371,6 @@ Tṛpta, Viṣanna, Bhayānaka, Sāci, Dṛta, Vīra, Raudra, Dūra,Ingita, Vilo
 ** *Dṛta* (fish?)** both pupils moving. Usage: excitement.
 
 ** *Vīra* (heroic):** radiant, direct, open, rather majestic, self-controlled, the pupils at rest. Usage: the heroic.
-
-
 
 *** Raudra* (cruel):** unfriendly, red, cruel, the pupils fixed and thelids not moved, the brows contracted and raised. Usage:the cruel.
 
@@ -489,8 +406,6 @@ Tṛpta, Viṣanna, Bhayānaka, Sāci, Dṛta, Vīra, Raudra, Dūra,Ingita, Vilo
 
 *** Malina:*** the lashes partly closed as if by rheum, the pupilssunken; this unclean eye denotes women (i. e. dissipation).
 
-
-
  ***Trasta* (frightened):** inwardly expanded, the pupil raised.Usage: fear and intoxication.
 
  ***Mlāna* (dull):** the pupils moving languidly and slowly,squinting, the lashes seeming to touch; this dull eye indicatesinsipid matters.
@@ -521,8 +436,6 @@ Tṛpta, Viṣanna, Bhayānaka, Sāci, Dṛta, Vīra, Raudra, Dūra,Ingita, Vilo
 
 *** Patita:*** the brows being at rest, are made to frown. Usage: distaste, astonishment, jealousy.
 
-
-
 *** Utkṣipta:*** either one or both of the brows is raised. Usage:woman's anger, telling the truth, feelings of love
 (*sṛngārabhāva*), dalliance (*līlā*).
 
@@ -546,8 +459,6 @@ Tṛpta, Viṣanna, Bhayānaka, Sāci, Dṛta, Vīra, Raudra, Dūra,Ingita, Vilo
 **1**. This is one of the most characteristic, and at the same time most peculiar,movements of Indian dancing.
 
 **2.** The above-mentioned technical terms are used in the subsequent detaileddescription of the hands and in more detailed texts such as those quoted on p. 12of the Preface. Nos. 5 and 7 are produced by turning the forearm on its own axis,so that the palm of the hand faces downwards (No. 5) or upwards (No. 7). InNo. 8 the fingers point vertically upwards: in No. 9 the fingers point across thebody.
-
-
 
 * **Prasāraṇa*** **(outspread):** extending the fingers (e.g. Plate X A).
 
@@ -580,8 +491,6 @@ Tṛpta, Viṣanna, Bhayānaka, Sāci, Dṛta, Vīra, Raudra, Dūra,Ingita, Vilo
 
 **1** *Akṣara-muṣṭikā,* communicating letters or ideas by the disposition of thefingers, is one of the ' sixty-four arts.'
 
-
-
 cutting, wind, reclining, walking, prowess, graciousness, moonlight, strong sunlight, knocking, meaning of the seven cases,wave, entering a street, equality, applying sandal paste, one'sself, taking an oath, silence, benediction, a good king, palmyraleaf, slap, touching, saying "Such and such",the sea,the wayof good deeds, addressing (a person some distance away), goingin front, the form of a sword, month, year, rainy season, day,sprinkling water.
 
  According to another book, the thumb is bent against the baseof the forefinger and the palm and fingers extended. WhenBrahmā, the Shaper, went to Parabrahmā, as he saluted himwith the cry of "Victory!" he held his hand like a flag, sincewhen it has been called the "flag hand". It is the first of allhands, it originates from Brahmā, its colour is white, its sageŚiva, its race Brāhmaṇa, its patron deity Parabrahmā. Usage:saying "Victory, victory!", clouds, forbidding things, forest,night, saying "Go!", going, conveyance, wind, chest, front,merit *(puṇya)*, preëminence, flow, abode of the wise, crying"Ha! ha!", moonlight, sunlight, abode of the gods, removalof hindrance, wall, cutting, pleasing others, cheek, applyingsandal paste, mustering an army, boundary, removing fear,¹having no refuge, decrease, covering, reclining, the earth, flame,pouring rain, wave, wings of a bird, petitioning a king, saying"Thus", eye, saying "Like what?" and "Like that", slap,touching, lake, massage, closing a dispute, strong wind, end ofthe robe (*añcala*), cold, heat, radiance, shadow, ear, season,half-year, day, fortnight, month, purity, high birth, approach,saying "Protect", or "Caress", Brāhmaṇa caste, pure colour.(Plate X A.).
@@ -589,8 +498,6 @@ cutting, wind, reclining, walking, prowess, graciousness, moonlight, strong sunl
  ***Tripatāka* (three parts of the flag):** the third finger of thePatāka hand is bent. Usage: a crown, tree, *vajra* weapon,the bearer of the *vajra* (Indra), screw-pine flower, light, risingflames, cheek, patterns drawn on the face or body (*patralekhā*), arrow, turning round, union of woman and man.  
 -----------------------------------------------------------------------------------  
 **  1** The Patāka hand is commonly seen in the *abhaya mudrā* of images, but is sometimes replaced by *ardha-candra*.
-
-
 
  According to another book: same definition. It is so calledsince Śakra (Indra) and others held the *vajra* weapon with threeparts of the "flag", leaving out the third finger. Its colour is red,it is of Kṣattriya race, its sage is Guha, its patron deity Śiva.Usage: invocation, descent (*avataraṇa*), lifting or bending downthe face, touching auspicious things, hook, site *(khala)*, disrespect, doubt, crown, tree, Vāsava (Indra), *vajra*, stroking the hair,lamp, marking the brow-spot, tying a turban, applying strongscents, closing the nose or ears, rubbing-down a horse, arrow,screw-pine flower, patterns drawn on the face or body, the flightof certain birds, tongues of flame, Kṣattriya caste, red colour.¹(Plates VII B, XII A.)
 
@@ -604,8 +511,6 @@ cutting, wind, reclining, walking, prowess, graciousness, moonlight, strong sunl
  1 According to Dhanamjaya ("Daśarūpa ", I, 126) the Tripatāka hand is used instage whispers (janāntika) to shut out the others when only one person is addressedout of several present on the stage, e. g."Śakuntalā ", vi, 24.
 
  2 A fuller description of the Kartarī-mukha hand is quoted by T. A. GopinathaRao, from an unnamed source, in "Hindu Iconography," 1914, p. xxxi, where itis stated that it is used for holding attributes (cf. on Plate XI c) such as the conchand discus; and also that the thumb and third finger should meet near the middleof the palms. The hands of images conform to this rule in most cases, but not invariably. Most likely there exists some confusion of Kartarī-mukha and Mayurahands. Our figure shows the Kartarī-mukha hand according to the text description.
-
-
 
 *laktaka*), drawing patterns on the body, yearning of separatedhusband and wife, overturning or opposition, Mādhava, lightning, sleeping alone, buffalo, deer, fly-whisk, hill-top, elephant,bull, cow, thick coil of hair, Kṣattriya caste, copper colour,scissors, tower. (Plates VII D, XI c.)
 
@@ -622,8 +527,6 @@ cutting, wind, reclining, walking, prowess, graciousness, moonlight, strong sunl
 
  **1** This hand often replaces the Patāka, e. g., in the Abhaya mudrā of Plates I,
 
-
-
 by Brāhmaṇas, benediction, the aversion of a parasite (*viṭā*) forhis friend, dressing the hair, saying "Come soon!", circumambulation at morning and evening prayer, wiping sweat from thebrow, putting collyrium on the eyes, etc.
 
 ** *Śukatuṇḍaka* (parrot's beak):** the third finger of the Arāla handis also bent. Usage: shooting an arrow, throwing a spear*(kunta)*, mystery *(marma)*, ferocity.
@@ -638,8 +541,6 @@ by Brāhmaṇas, benediction, the aversion of a parasite (*viṭā*) forhis frie
 
  According to another book: same definition. It originatesfrom Candraśekhara (Śiva), when he held Mt. Meru as his bow.
 
-
-
 It originates from that Meru-bow, its sage is Jihna, its raceGandharva, its colour dusky, the God of Love *(Rati vallabha)* itspatron deity. Usage: gratifying the ancestors, steadiness,establishing a family, hero, spire, friend, cleaning the teeth withto and fro movement, plying a palmyra fan, difference, saying"What?", drinking water from a spouted vessel *(bhṛngāra)*, thenumber four, letting fly *śakti* or *tomara* weapons, enjoying consequences, demure attitude of an amorous girl, bashfulness,bow, the God of Love *(Smara)*, saying "No!", charity, permanent mood *(sthayi bhāva)*, Vināyaka, Mahiṣa-mardinī, heroism,galloping of a horse, half-moon, brow-spot, etc., making the signof the hair-knot, sapphire, intensity. (Plates X D, XII D, XV c.)
 
  ***Kapittha* (elephant-apple):** the forefinger of the Śikhara handis bent over the top of the thumb. Usage: Lakṣmī, Sarasvatī,winding, holding cymbals, milking cows, collyrium, holdingflowers at the time of dalliance, grasping the end of the robe*(celāñcala)*, veiling the head with the *añcala*, offering incenseor lights, etc.
@@ -651,8 +552,6 @@ It originates from that Meru-bow, its sage is Jihna, its raceGandharva, its colo
  **1** The tip of the forefinger and the side of the middle finger are applied to the tipof the thumb, the third finger is bent beside the middle finger, and the little fingeris also hent, but to a less degree. According to T. A. Gopinatha Rao, "HinduIconography," Vol. I, pt. 1, description of terms, p. 16, this hand *(syn. Siṃhakarṇa)* in images is generally intended to receive the daily offering of a freshflower, and this is supported by the Ajaṇṭā usage.
 
   This hand is also used in teaching and is known to some iconographers, perhapsincorrectly, as *Vitarka mudrā*.
-
-
 
 holding a pearl necklace or garland of flowers, drawing a bowslowly, distributing folded betel leaves, applying such thingsas musk or scent, speech, glancing.
 
@@ -666,8 +565,6 @@ holding a pearl necklace or garland of flowers, drawing a bowslowly, distributin
 
  ***Padmakośa*** **(lotus bud):** the fingers separated and a little bent,the palm a little hollowed. Usage: fruit, wood-apple, elephant-
 
-
-
 apple, etc., breast, curve, ball of flowers, light food, bud, mango,rain of flowers, cluster of flowers, the *japā*-flower, the shape ofa bell, the hole of a snake, a water-lily, an egg.
 
  According to another book: the hand is like a perfect whitelotus. Nārāyaṇa used this hand when worshipping Śiva withlotus flowers to obtain the discus. Its sage is Padmadhara, itsrace Yakṣa, and it also partakes of the Kinnara kind, its presiding deity is Bhārgava. Usage: trunk of an elephant, brilliance,vessel of gold or silver, coil of hair, moderation,charm, saying"Sādhu", bell, ball of flowers, lotus, hole of a snake, etc., curve,breast, coconut, mango, *karṇīkāra*, mirror, bending a bough, rainof flowers, pot, egg, opening (of a flower), wood-apple, elephant-apple. (Plate XI D.)
@@ -679,8 +576,6 @@ apple, etc., breast, curve, ball of flowers, light food, bud, mango,rain of flow
 * * ***Mṛga-śīrṣa* (deer-head):** in the above hand, the thumb andlittle finger are extended. Usage: women, cheek, traditionalmanners *(krama-maryāda)*, fear, discussion, costume of anactor *(naipathya)*, place of residence, tête-à-tête, drawing  
 ------------------------------------------------------------------------------------  
  **1** To indicate *prāṇāyama* the sarpa *śīṛşa* hand is held upon the bridge of the nose,precisely as in the daily ritual of regulated breathing.
-
-
 
 three lines on the brow, patterns on the ground, massage of thefeet, combining, house, holding an umbrella, stair, placingthe feet, calling the beloved, roaming.
 
@@ -694,8 +589,6 @@ three lines on the brow, patterns on the ground, massage of thefeet, combining, 
 
  *Sola-padma* (full-blown lotus) (*=* *Ala-padma*):** all the fingersseparated, turned about the little finger. Usage: full-blownlotus, elephant-apple etc., turning, breast, yearning for thebeloved, mirror, full-moon, a beautiful vessel, hair-knot, moon-
 
-
-
 pavilion *(candra-śālā)*, village, height, anger, lake, car, *cakravāka* (bird), murmuring sound, praise.
 
  According to another book: it is the *Ala-pallava* hand whenthere is turning. It originates from Śrī Krishna, when he wasstealing butter and milk. Its sage is Vasanta, its race Gandharva,its colour dusky, its patron deity the Sun. Usage: fresh *ghī*,yearning for the beloved, head, sweetmeat, full-blown lotus,cluster of flowers, crown, ball, praises, beauty of form, dancing(*naṛṭana*), fort, palace, braided hair, moon-pavilion, sweetness,saying "Sādhu", palmyra fruit. (Plate XII c.)
@@ -708,8 +601,6 @@ pavilion *(candra-śālā)*, village, height, anger, lake, car, *cakravāka* (bi
 
  According to another book: the forefinger of the Hamsāsyahand is bent. It originates from Kaśyapa when he was makingearrings for the mother of the Devas. Its sage is Kapila, its
 
-
-
 colour dark, its race Khacara, its patron deity the King of FlyingCreatures (Garuḍa). Usage: union (*yoga*), vow of silence, horn,tusk of an elephant, picking flowers with long stalks, bee, uttering the *karṇa-mantra*, taking out a thorn, untying the girdle,adverbs of two letters, flying creatures, dark colour. (Plate X E.)
 
 ** ***Haṃsāsya* (swan-face):** the middle and following fingers areseparated and extended, the forefinger and thumb are joined.Usage: tying the marriage thread, initiation, certainty, horripilation, painting *(citra-samlekhana)*, gad-fly, drop of water,raising the wick of a lamp, rubbing (metal on a touchstone),examining things, drawing lines, carrying garlands, signifying"Soham " (That am I), metaphor *(rūpaka)*, saying “No!",indicating things to be examined by rubbing, accomplishmentof a task.
@@ -720,8 +611,6 @@ colour dark, its race Khacara, its patron deity the King of FlyingCreatures (Gar
 
  According to another book: same definition. It is said to beassociated with *tāṇḍava* dancing, and springs from Tāṇḍi. Itssage is Bharata, its colour indigo, its race Apsara, its patrondeity the God of Love (Pañcasāyaka). Usage: constructing abridge, restraining, gathering, feathers of a bird, completion,drawing a portrait *(rūpa-lekhana)*, dusky colour, Apsara caste,and in Śubha-nāṭya.
 
-
-
 * **Saṃdaṃsa*** **(grasping):** the fingers of the Padmakośa hand arerepeatedly opened and closed. Usage: generosity, sacrificialofferings, tumour, insect, apprehension, worship *(arcana)*, thenumber five.
 
  According to another book: the middle finger of the Haṃsāsyahand is outstretched.**¹**This hand originates from the Goddessof Speech, when she bestowed a rosary. Its sage is Viśvavāsu,its race Vidhyādhara, its colour white, its patron deity Vālmīki.Usage: tooth, small bud, singing *(saṃgīta)*, gentle dances *(lāsyanaṭana)*, exegesis *(ṭīka)*, *jñāna-mudrā*, scales, flaw in a tooth,sacred thread *(yajñoрavīta)*, line, examining, painting pictures*(citra lekhana)*, truth, saying "No!", saying "A little ", moment,listening, testing metals etc. on the touchstone *(nikaṣa)*, shiningwhite, taking aim, nail, sprout, *gunja* seed, the number eight,fire-fly, poison, blades of grass, red ants, mosquito, eclipse, collecting pearls, bug, fly, garland, down, pointing *(sūcana)*, solitude,touching, Veda, snow, speaking, slipping, cutting off, a wound,brow-spot, collyrium, Vidyādhara caste, white colour, slowness.
@@ -731,8 +620,6 @@ colour dark, its race Khacara, its patron deity the King of FlyingCreatures (Gar
  According to another book: the fingers of the Padmakośahand are brought together. It originates from the Scion of theWind (Hanuman) when he attempted to seize the sun, mistakingit for a ripe *bimba* fruit. Its sage is Viśākhila, its race Sankīrṇa,its colour tawny, its patron deity the Moon. Usage: charity*(dāna)*, prayer (*japa*), humble speech, eating, lotus bud, self(atman), life *(prāṇa)*, the number five, behaviour of an amorouswoman, kissing children, worshipping the gods, umbrella etc.,bud, accepting fruits, mixed race, brown colour.  
 ----------------------------------------------------------------------------------  
  **1** In this case, exceptionally, the definition quoted "from other books" differsmarkedly from that of Nandikeśvara: this form of Saṃdaṃsa hand is identicalwith Nandikeśvara's Haṃsāsya hand, and is quite distinct in form and significancefrom his Saṃdaṃsa.
-
-
 
 * **Tāmra-cuḍa*** **(red-crest, i. e. cock)**: the forefinger of the Mukulahand is bent. Usage: cock etc., crane *(baka)*, camel, calf,writing or drawing.
 
@@ -754,8 +641,6 @@ colour dark, its race Khacara, its patron deity the King of FlyingCreatures (Gar
 
  Twenty-four combined Hands are exhibited as follows: Añjali,Kapota, Karkaṭa, Svastika, Ḍola, Puṣpapuṭa, Utsanga, Śiva-
 
-
-
 linga, Kaṭaka-vardhana, Kartarī-svastika, Śakaṭa, Śankha,Cakra, Sampuṭa, Pāśa, Kīlaka, Matsya, Kūrma, Varāha, Garuḍa,Nāga-bandha, Khaṭvā, Bheruṇḍa, Avahittha.
 
  According to another book: when two Single Hands are combined, that is a Combined Hand. Even though the origin andmeaning remain the same, the patron deity always differs.
@@ -773,8 +658,6 @@ linga, Kaṭaka-vardhana, Kartarī-svastika, Śakaṭa, Śankha,Cakra, Sampuṭa
  According to another book: in the Urṇa-nābha hand, thefingers of one hand are introduced into the interspaces of thoseof the other hand. Its patron deity is Vishnu. Usage: lamentation, yawning, breathing hard, crab, blowing the conch, crackingthe fingers by women. (Plates IV A, extreme left, and XII E.)  
 -------------------------------------------------------------------------------------  
 ** 1** i. e. clasped hands'; but the hands may also be flattened by extending theelbows, the fingers remaining interlocked, and this is used in stretching the armsover the head, a sign of amorous feeling frequently mentioned in literature anddepicted in painting and sculpture (Plate IV A, extreme left).
-
-
 
 *** Svastika* (crossed):** two Patāka hands held together at the wrists.Usage: crocodile, timid speech, dispute, praising.
 
@@ -801,8 +684,6 @@ linga, Kaṭaka-vardhana, Kartarī-svastika, Śakaṭa, Śankha,Cakra, Sampuṭa
 *** Śakaṭa* (car):** Bhramara hands with the thumb and middlefinger extended. Usage: the gestures of Rākṣasas.  
 -------------------------------------------------------------------------------------  
 ** 1** Apparently identical with the *Kaṭyavalambita* hand of T. A. Gopinatha Rao,Hindu Iconography," Vol. I, pt. i, p. 16, and ibid., Pl. V, fig. 11.
-
-
 
 *** Śankha* (conch):** the thumbs of Śikhara hands are joined, andthe forefinger extended. Usage: conch.
 
@@ -838,8 +719,6 @@ linga, Kaṭaka-vardhana, Kartarī-svastika, Śakaṭa, Śankha,Cakra, Sampuṭa
 -------------------------------------------------------------------------------------  
 **  1** The palm of one hand on the back of the other, the fingers along the fingers,and the two little fingers and thumbs moved to and fro.
 
-
-
 *** Gajadanta* (elephant's tusk):¹**Sarpa-śīrṣa hands, the middles ofthe armsboldly crossed. Patron deity Paramātmā. Usage:grasping a pillar, pulling up a stone, lifting anything heavy.
 
 *** Caturaśra* (square):** Kaṭaka-mukha hands are held before thechest. Patron deity Varāhi. Usage: churning, Jakkiṇī naṭana, holding, milking, covering with cloths, wearing pearls, draggingropes, tying the girdle, tying the bodice, holding flowers, etc.,plying the fly-whisk.
@@ -863,8 +742,6 @@ linga, Kaṭaka-vardhana, Kartarī-svastika, Śakaṭa, Śankha,Cakra, Sampuṭa
 **  1** Quite distinct from the Gaja or Daṇḍa hand of T. A. Gopinatha
 Rao,"HinduIconography", Vol. I, pt. i, p. 16, and ibid., Pl. V, fig. 12, illustrated here on PlatesI and III.
 
-
-
 * **Garuḍa-pakṣa*** **(Garuḍa wing):** Ardha-candra hands held at thesides of the hips, extended upwards. Patron deity Sanandana. Usage: waist string, superiority.
 
 * **Niṣedha*** **(defence):** the Mukula hand enclosed by the Kapitthahand. Patron deity Tumburu. Usage: establishing the conclusion of an argument, truth, saying "Verily", holding thenipples, *anga-pūja*.
@@ -886,8 +763,6 @@ Rao,"HinduIconography", Vol. I, pt. i, p. 16, and ibid., Pl. V, fig. 12, illustr
 *** Keśa-bandha* (tying the hair):** Patāka hands binding the hair.Patron deity Durgā. Usage: gem-pillar, binding the hair,cheek, etc.
 
 * **Muṣṭi-svastika*** **(crossed fists):** Muzṣṭi hands are crossed on thestomach. Patron deity Kiṃpuruṣa. Usage: playing ball,boxing, great bashfulness, tying the girdle.
-
-
 
 *** Nalinī-padmakośa:*** Padmakośa hands are outward-turned andcrossed. Patron deity Śeṣa. Usage: *nāga-bandha,* buds,making equal distribution, cluster of flowers, the number ten,Gaṇḍa-bheruṇḍa. (Identical with Nalina-padmakośa; Introduction, pp. 4, 5.)
 
@@ -912,8 +787,6 @@ Rao,"HinduIconography", Vol. I, pt. i, p. 16, and ibid., Pl. V, fig. 12, illustr
  **Śvaśṛ (mother-in-law):** the right hand is held as Haṃsāsyaand Saṃdaṃsa at the throat, the left hand then placed on thestomach showing the Strī hand.  
 -------------------------------------------------------------------------------------  
 **  1** The Strī(woman) hand is not separately described, but it will be seen that itconsists in placing either hand on the stomach, indicating the womb.
-
-
 
 *** Śvaśura* (father-in-law):** following the last hand, the right handis shown as Śikhara.
 
@@ -960,8 +833,6 @@ Rao,"HinduIconography", Vol. I, pt. i, p. 16, and ibid., Pl. V, fig. 12, illustr
 **  1** Showing Deva hands is referred to in a subsequent section as \`*deva-vibhāvana*.'
 
 **  2** 'Held at the shoulders' is to be understood in the case of all the Deva handsunless otherwise indicated.
-
-
 
 ***Varuṇa:*** I. h. Śikhara, r. h. Patāka.
 
@@ -1016,8 +887,6 @@ Rao,"HinduIconography", Vol. I, pt. i, p. 16, and ibid., Pl. V, fig. 12, illustr
 
 ***Brāhmaṇa:*** Śikhara with both hands, as if holding the sacredthread, the right hand moved to and fro.
 
-
-
 ***Kṣattriya:*** Śikhara with the left hand moved to and fro, Patākawith the right.
 
 ***Vaiṣya:*** I. h. Haṃsāsya, r. h. Kaṭaka.
@@ -1033,8 +902,6 @@ Rao,"HinduIconography", Vol. I, pt. i, p. 16, and ibid., Pl. V, fig. 12, illustr
 * **Hands of Famous Emperors.*** — *Hariscandra*, Śukaṭuṇḍa. *Nala*,Mayura. *Purukutsa*, Alapadma. *Purūravas*, Muṣṭi. *Sagara*,Alapadma on the head. *Dilīpa*, Patāka. *Ambariṣa*, Kartarī.*Śibi*, Kapittha hand waved forwards. *Kārttivīrya*, two Patākahands at the shoulders in *deva-vibhāvana*. *Rāvaṇa*, the same handswith widely separated fingers, feathered. *Dharmarāja*, handswaved near the arms. *Arjuna*, Tripatāka moved forward againand again. *Bhīma*, Muṣṭi,hand moved forward. *Śaibya*, Sūcihand with the finger twisted upward. *Nakula*, Kaṭaka. *Sahadeva*, Śikhara. *Nahusa*, the hand moving. *Yayāti*, Tāmracūda.*Bhagīiratha*, Ardhacandra hand made like Tripatāka, and thisis also used for an eclipse of the moon (lit. seizing by Rahu).
 
  For the Lords of the Earth *Mandhātā* and *Marutvān*, Mukula,Sūci and Muṣṭi hands and the Ardha-patāka twisted upwardstouching the body, these four hands are used in order. For thegreat Kings *Raghu* and *Aja*, Ardha-patāka hands as aforesaidare used respectively right and left. *Daśaratha*, Ardha-patākahands crossed. For *Rāma* the Śikhara hand, and also for otherkings who bear the bow. For *Bharata*, Śikhara hand held on theright shoulder. For *Lakṣmaṇa*, the same on the left shoulder.For *Satrughna*, the same on the face. If these are done with theleft hand on the left shoulder, it indicates those of the Lunarrace.
-
-
 
 * **Hands of the Seven Oceans:***
 
@@ -1064,13 +931,9 @@ Rao,"HinduIconography", Vol. I, pt. i, p. 16, and ibid., Pl. V, fig. 12, illustr
 ---------------------------------------------------------------------------------  
 **1** Representing the up and down motion of waves.
 
-
-
 *Pūga* (areca-nut), Padmakośa hands crossed; *Campaka*, Lāngula**hand downwards; *Khadira*, Tāmracūḍa quite face downwards;*Śamī*, Kartarī hands interlocked; *Aśoka*, Patāka hands crossed,i. e. touching at the wrists and freely moving to and fro; *Sindhuvāra*, Mayura hands interlocked; *Āmalaka*, the SamyamaNāyaka hand, i. e. the forefinger and second finger together inthe middle of the palm, the rest extended; *Kuruvaka*, Kartarīand Tripatāka hands; *Kapittha* (elephant-apple), Alapadmahands are crossed; *Ketakī*(screw-pine), Patāka and Caturahands crossed at the wrists; Śimśapa, Ardha-candra handscrossed; *Nimbasala*, Śukatuṇḍa hands crossed; *Pārijāta*, theTrijñāna hand, i. e. Patāka with both hands twisted upwards;*Tintrini*, Lāngula hand; *Jambu*, the Ardha-patāka hand;*Pālāsa*, the Ardha-candra hand; *Rasāla* (mango), the Tripatākahand.
 
 * **Hands that indicate the Lion and other Animals**.—*Lion, theSiṃha-mukha hand, i. e., r. h. Siṃha-mukha, and 1. h. Patākaapplied to the back of the right, the fingers being freely moved;Tiger, the Ardha-candra hand held face downwards; Boar, theSankīrṇa-makara hand, i. e. in the aforesaid Matsya hand, ther. h. is held downwards and shaken, the five fingers being severally held apart, indicating bristles; Monkey, the Adho-muṣṭi-mukula hand is used, i. e. the thumb and second finger of theMuṣṭihand are joined; Bear, I. h. Padmakośa face downwards,r. h. Patāka placed on the back of the left; Cat, the Ardha-mukula hand, i. e. the thumb and third finger of the Muṣṭihandare joined; Yak, the hands touching at the wrists, I. h. Muṣṭi,r. h. Mudrikā, making the Muṣṭi-mudrā hand; Iguana, Talapatāka hand, i. e. the thumb and little finger of the Patāka handare slightly raised; Porcupine Deer, the Candra-mṛga hand, i. e.the forefinger of the Mṛga hand is raised; Antelope, the Mṛga-śīrṣa hand; Black Antelope, the Muṣṭi-mrga hand, i. e. the thumband little finger of the Muṣṭihand are extended; Mule, Nāgabandha hands directed upwards, indicating 'Cow-ear '; Mouse,the Khaṇḍa-mukula hand, i. e. the forefinger of the Mukulahand is fully extended; Mole (?) (girikā), the Khaḍga-mukulahand, i. e. the forefinger of the Mukula hand is bent and moved
-
-
 
 to and fro (*tiryak prasārita*); Hare, the Tala-patāka hand ismoved horizontally (*tiryak*); Scorpion, the Karkaṭa hand isdirected downwards; Dog, the Madhya-patāka hand, i. e. thelittle finger of the Patāka hand is bent; Camel, the Kaṇḍāñjalihand, i. e. the thumbs of the Añjali hand are bent and moved upand down; Goat, Śikhara hands in contact face to face; Ass, theBhinnāñjali hand, i. e. the forefingers of the Khaṇḍāñjali hand arebent in contact; Bull, the Tala-siṃha**¹**hand, i. e. the second andthird fingers are bent to touch the palm, and the thumb placedover them, and the two other fingers extended; Cow, the Sankīrṇa-mudrā hand, i. e. the middle finger is bent, and all theothers extended, also indicating *Yantra-bheda*.
 
@@ -1078,15 +941,11 @@ to and fro (*tiryak prasārita*); Hare, the Tala-patāka hand ismoved horizontal
 -------------------------------------------------------------------------------------  
 **  1** i. e. *Siṃha-mukha*, with the back of the hand in the horizontal plane. PlateXIII A.
 
-
-
 i. e. the forefinger and middle finger bent like a bow, the thirdfinger placed at the base of the thumb, the little finger bent.
 
 * **Hands that indicate Water-Animals*.**—Frog, the double Cakrahand, i. e. the thumb and forefinger go in, the middle finger isbent, and the little finger extended; Crab, the Līna-karkaṭahand, i. e., r. h. Karkaṭa direct upwards and placed on the I. h.,the fingers being interlocked; Leech, Sūci hands moved along;Crocodile, Patāka hands crossed and held apart, also indicatinga box; *Duṇḍupha*, the Kartarī-daṇḍa hand, i. e., r. h. Kartarī,face upwards, placed on the other fore-arm, and I. h. Kaṭaka-mukha.
 
  This Mirror of Gesture has been edited by Tiruvenkaṭācāri ofNiḍāmangalam, a very learned interpreter of Gesture and thelike, according to the Bharata Śāstra, and into this work arelikewise introduced many extracts from the Bharata Śāstra, forthe pleasure of the cultivated public. Thus ends the Mirror ofGesture, with extracts from other books. *Śrī Sanātana-Rāmaarpaṇam astu*!
-
-
 
 **WORKS OF COMPARISON AND REFERENCE**
 
@@ -1126,21 +985,9 @@ i. e. the forefinger and middle finger bent like a bow, the thirdfinger placed a
 
   Viśvanātha Kavirāja, *Sāhityadarpaṇa*, ed. with translation,Bibliotheca India, Calcutta, 1875.
 
-
-
-
-
-
-
-
-
 |            |
 |:----------:|
 | **PLATES** |
-
-
-
-
 
 |                                                       |
 |:-----------------------------------------------------:|
@@ -1153,8 +1000,6 @@ Copper figure in Madras Museum. The first right hand holding a drum, the second 
 *mudrā*, the first left hand (out of the picture, see Plate XI B) holding a flame, the  
 forward left hand exhibiting the *gaja or daṇḍa* pose (cf. Plate III).
 
-
-
 |                                                   |
 |:-------------------------------------------------:|
 |                   **PLATE II**                    |
@@ -1166,8 +1011,6 @@ forward left hand exhibiting the *gaja or daṇḍa* pose (cf. Plate III).
 Nepalese copper figure, about sixteenth century, Calcutta Museum. Upper hands in position of  
 shooting an arrow (CI Plate XV c).
 
-
-
 |                                                   |
 |:-------------------------------------------------:|
 |                   **PLATE III**                   |
@@ -1178,14 +1021,10 @@ shooting an arrow (CI Plate XV c).
 Hands corresponding to the forward hands of Plate I.Buddhist frieze at Borobodur, Java,  
 about ninth century, A.D.
 
-
-
 |                                                   |
 |:-------------------------------------------------:|
 | ![](../books_images/U-IMG-1727153526picture4.png) |
 |                       **A**                       |
-
-
 
 |                                                   |
 |:-------------------------------------------------:|
@@ -1200,8 +1039,6 @@ about ninth century, A.D.
 **CEILING SCULPTURE AT DILWARRA, MT. ĀBŪ**
 
 Dance with hand poses, and music.
-
-
 
 |                                                   |
 |:-------------------------------------------------:|
@@ -1221,8 +1058,6 @@ Ceiling sculpture at Dilwarra, Mt. Ābū.
 
 Mr. W. Rothenstein.
 
-
-
 |                                                   |
 |:-------------------------------------------------:|
 |                   **PLATE VI**                    |
@@ -1231,8 +1066,6 @@ Mr. W. Rothenstein.
 **DANSEUSE**
 
 From an Ajaṇṭā fresco (sixth to seventh century A.D.): tracing by Samarendranath Gupta.
-
-
 
 |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|
@@ -1249,24 +1082,18 @@ From an Ajaṇṭā fresco (sixth to seventh century A.D.): tracing by Samarendr
                           (Dr. Coomaraswamy's collection)                          
 (British Museum)  
 
-
-
 |                                                    |                                                    |                                                    |
 |----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
 | ![](../books_images/U-IMG-1727190343picture13.png) | ![](../books_images/U-IMG-1727190531picture14.png) | ![](../books_images/U-IMG-1727190696picture15.png) |
 
-                                 
   
-                                   
-   
+
                                    
              
       C. *Haṃsāsya* hand, from a  D. *Kartari* *mukha or mayura*    E. HANDS OF A DANCING ŚIVA  
            Nepalese image.     hand (holding stalk of a lotus),    r. h. *Ardha-candra* (for palāka),  
                                from a Nepalese image.         making *Abhaya* *mudrā*     
                                HANDS OF IMAGES  
-
-
 
 |                                                    |
 |:--------------------------------------------------:|
@@ -1279,8 +1106,6 @@ COPPER GILT FIGTREOF A DONOR
 
 Nepal, sixteenth to seventeenth century. Indian Museum, South Kensington, London.
 
-
-
 |                                                    |
 |:--------------------------------------------------:|
 |                    **PLATE IX**                    |
@@ -1292,8 +1117,6 @@ From a sixteenth century Rājasthanīillustration of *Pañcama* (?) rāgini, a m
 dancer exhibiting palāka hands: chorus to left.
 
 (Dr. Coomaraswamy's collection)
-
-
 
 |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|
@@ -1314,18 +1137,14 @@ dancer exhibiting palāka hands: chorus to left.
 
 **   E. *Bhramara* hand                      F. *Śukatṇda* hand**  
 
-
 **SINGLE HANDS**
 
 (From drawings by Miss Dorothy M. Larcher.)
-
-
 
 |                                                    |                                                    |
 |----------------------------------------------------|:--------------------------------------------------:|
 |                                                   |                    **PLATE XI**                    |
 | ![](../books_images/U-IMG-1727243407picture20.png) | ![](../books_images/U-IMG-1727243434picture21.png) |
-
 
 **A. *Kaṭaka mukha* hand with blue lotus**    **B. *Ardha-candra* hand, with flame (upper left**  
 (hand of Bodhisatṭva, Ajaṇṭā).              hand of figure represented on Pl. I).
@@ -1341,13 +1160,10 @@ image in Madras Museum).
 |----------------------------------------------------|----------------------------------------------------|
 | ![](../books_images/U-IMG-1727244344picture24.png) | ![](../books_images/U-IMG-1727244424picture25.png) |
 
-
 **E. Udveṣṭitāla padma hands.**
 
 SINGLE AND COMBINED HANDS  
 (D and E drawn by Miss Dorothy Larcher.)
-
-
 
 |                                                    |                                                    |
 |----------------------------------------------------|:--------------------------------------------------:|
@@ -1372,8 +1188,6 @@ SINGLE AND COMBINED HANDS
 
 SINGLE AND COMBINED HANDS
 
-
-
 |                                                    |
 |:--------------------------------------------------:|
 |                   **PLATE XIII**                   |
@@ -1396,8 +1210,6 @@ SINGLE AND COMBINED HANDS
 **D. BOTH HANDS *udècṣṭitāla padma***
 
 COMBINED HANDS
-
-
 
 |                                                    |
 |:--------------------------------------------------:|
@@ -1423,16 +1235,5 @@ COMBINED HANDS
         (Vehicle of Vishnu)
 
 **COMBINED HANDS**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2NDQxOTE0MDY
 
 \[
 
-
-
 श्रीराघवविरचिता
 
 नानार्थमञ्जरी
@@ -2809,7 +2807,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2NDQxOTE0MDY
 सैकाक्षरादिसंयुक्ता पूर्णा नानार्थमञ्जरी ।
 
 ----------------  
-
-
 
 \]

@@ -16,20 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzOTU5NDI2Njg
 
 \
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **INDIAN**
 
 **SCIENTIFIC NOMENCLATURE**
@@ -75,8 +61,6 @@ for
 The International Academy of Indian Culture  
 NAGPUR
 
-
-
 **SARASVATI VIHARA SERIES**
 
 edited by
@@ -104,15 +88,11 @@ The Aryabharati Mudranalaya
 
 NAGPUR
 
-
-
 In the Latin nomenclature the words signifying the genus come first and those signifying the sub-species comelast, the words for the species being placed in between. In English the order has been reversed, the sub-species coming first and the genus coming last.
 
 Binomial or trinomial system of naming plants and animals is a recent scientific device. In ancient times we have single names standing mostly for species. Our ancestors lived with nature and loved plants, animals, rivers and mountains. They observed and named animals with loving care. We find hundreds of names of birds in Sanskrit literature. The variety and number of Sanskrit names is often baffling. It is not possible to identify every bird mentioned in Sanskrit literature. Shri K. N. Dave has been at the problem for some time past and has worked on probable identifications. His work entitled 'Birds in Sanskrit Literature' would be published shortly as a separate volume. A sample chapter on Paroquets or Parrots is appended to the Introduction.
 
 In the present work ancient nameshave been fitted into the trinomial scientific scheme. These names, while serving the needs of scientificclassification would be found to be more significant, easier to grasp, simpler to pronounce and hence uncomparably quicker
-
-
 
 to remember than their Latin counterparts. In certainquarters it has sometimes been felt that Latin names be left untranslated. But this view loses all force when we find that foreigners who can to India from a distance of six thousand miles thought it practicable to append to every Latin name an English trinomial designation so that their compatriots could better study and appreciate Indian birds than could ever be done through the mouth filling mass of vowels and consonants known as scientific names. The Indian names, moreover, correlate the present with the past. Our nameshave a pedigree and hence futurescientific studies will not be removed from the past achievements of the race. It does not, however, mean that Indian scientists will not acquire a knowledge of Latin names. Research workers will have to get acquainted with Latin and English names when they are studying the works written by foreign scholars.
 
@@ -227,12 +207,7 @@ The preparation of the manuscript for the press was undertaken by my son Shri Lo
 
 RAGHU VIRA
 
-
 \*In my turn I am thankful to Shri S. K. Varma and D. C. Chowdhary for the help they have rendered me. LOKESH CHANDRA
-
-
-
-
 
 From the forthcoming book 'Birds in Sanskrit Literature by Shri K. N. Dave
 
@@ -283,8 +258,6 @@ Compare also:
 **शुक-सारिका-प्रलापन** was one of the arts practiced in India by professional men like the trainers of Songfinches, Canaries, Thrushes, etc. in Europe today, and no one need be surprised at the performances of exceptionally talented Parrots and Mainas recorded in [Indian literature"\*[^1], barring, of course, poetic exaggeration in attributing to them human intelligence and capacity to makeimpromptu replies or even to carry on a conversation. I have myself heard a Rose-ringed Paroquet repeat the following Hindi verse without a hitch, though the articulation was certainly not equal to that of the Maina:
 
 [^1]: "*Parrots taught to ropeat Lord Buddha s maxims have been described as शाक्यशासनकुशल in हर्षचरित, ch. 8."
-
-
 
 **चित्रकूट के घाट पै भइ संतन की भीर ।  
 तुलसिदास चन्दन घिसैंतिलक देत रघुवीर ॥**
@@ -365,10 +338,6 @@ A Yāksa describes to Arjuna a flight of Parrots, many carrying golden ears of p
 
 **किरातार्जुनीय ४।३६॥**
 
-
-
-
-
 Poet Māgha also presents a similar picture:
 
 **हरितपत्रमयीव मरुद्गणैः**
@@ -381,39 +350,13 @@ Poet Māgha also presents a similar picture:
 
 **शिशुपालवध ६।५३॥**
 
-
-
-
-
 ♦♦♦♦♦♦
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **Addenda et Corrigenda**
 
 [TABLE]
 
 [TABLE]
-
-
-
-
 
 **PASSERES**
 
@@ -429,14 +372,11 @@ Poet Māgha also presents a similar picture:
 
 [TABLE]
 
-
 **PICA** (genus) **कूट-प्रजाति**
 
 (**कूट** body of a plough; ancient name)
 
 [TABLE]
-
-
 
 **UROCISSA** (genus) **चित्रपुच्छ-प्रजाति**
 
@@ -444,21 +384,17 @@ Poet Māgha also presents a similar picture:
 
 [TABLE]
 
-
 **CISSA** (genus) **चिरिकाक-प्रजाति**
 
 (**चिरिकाक** a kind of crow in the **महाभारत** 13. 111, 123. **चिरि**a parrot; from its rod bill and green plumage)
 
 [TABLE]
 
-
-
 **DENDROCITTA** (genus) **कृशकूट-प्रजाति**
 
 (**कृश-कूट** ancient name)
 
 [TABLE]
-
 
 **CRYPSIRHINA** (genus)**गुप्तनास-प्रजाति**
 
@@ -474,8 +410,6 @@ Poet Māgha also presents a similar picture:
 |-----|-----------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | 38  | Glenergus leucopterus | **श्वेत-पक्ष हस्व-पुच्छ** | (श्वेत-पक्ष white-winged)The White-wingedJay श्वेत-पक्ष वन-चाप (चाप is theBlue Jay in ऋग्वेद 10.97. 13, मनुस्मृति 11. 132, याज्ञवल्क्य 1. 175) |
 
-
-
 **GARALLUS (Genus) वाचाट-प्रजाति**
 
 (**वाचाट**ancient name)
@@ -483,7 +417,6 @@ Poet Māgha also presents a similar picture:
 Jay **वन चाप** (ancient time)
 
 [TABLE]
-
 
 **NUCIFRAGA** (genus) **फलभंजक-प्रजाति**
 
@@ -504,18 +437,15 @@ Jay **वन चाप** (ancient time)
 
 (in habits they are strictly ground-birds spending practically their whole time upon it) Ground Chough **भू-काक**  
 
-
 |     |                 |                |                                     |
 |-----|-----------------|----------------|-------------------------------------|
 | 50  | Podoces humilis | **लघु भू-काक** | Hume's Ground Chough **लघु भू-काक** |
-
 
 **PARIDAE** (family)**वल्गुली-वंश**(**वल्गुली**ancient word)
 
 The Titmouses **वल्गुली**
 
 **PARUS** (genus) **वल्गुली-प्रजाति**  
-
 
 [TABLE]
 
@@ -529,15 +459,11 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-
-
 **MACHLOLOPHUS** (genus) **शंकुशिख-प्रजाति**
 
 (they have long pointed **शंकु** crests **शिखा**)
 
 [TABLE]
-
-
 
 **AEGITHALISCUS** (genus) **केशी प्रजाति**
 
@@ -553,15 +479,11 @@ The Titmouses **वल्गुली**
 |-----|-----------------|------------------|-------------------------------------|
 | 86  | Remizcoronatus | **अशिखलम्बिनी** | The Penduline Tit **लम्बि-वल्गुली** |
 
-
-
 **MELANOCHLORA** (genus) **स्वर्णचूड-प्रजाति**
 
 (crest**चूड**brilliant yellow **स्वर्ण**)
 
 [TABLE]
-
-
 
 **PARADOXORNITHIDAE** (family) **शुकानन-वंश**
 
@@ -571,14 +493,11 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-
 **PARADOXORNIS** (genus) **कीरमुख-प्रजाति**
 
 (**कीर** parrot, **मुख** mouth)
 
 [TABLE]
-
-
 
 **SUTHORA** (genus) **शुकत्रोटि-प्रजाति**
 
@@ -586,19 +505,13 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-
-
 **NEOSUTHORA** (genus) **शुकत्रोटिका-प्रजाति**
 
 [TABLE]
 
-
-
 **PSITTIPARUS (genus) शुकानन-प्रजाति**
 
 [TABLE]
-
-
 
 **SITTIDAE**(family) **शिलीन्ध्री-वंश**
 
@@ -607,8 +520,6 @@ The Titmouses **वल्गुली**
 (**शिलीन्ध्री**ancient word)
 
 [TABLE]
-
-
 
 **TIMALIIDAE** (family) **मुखर-वंश**
 
@@ -622,14 +533,11 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-
-
 **GARRULAX** (genus) **जल्पाक-प्रजाति**
 
 (noisy**जल्पाक**)
 
 [TABLE]
-
 
 **LANTHOCINCLA** (genus) **उपजल्पाक-प्रजाति**
 
@@ -637,14 +545,11 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-
-
 **TROCHALOPTERON** (genus) **गोलपक्ष-प्रजाति**
 
 (trochalos **गोल** + pteron**पक्ष**)
 
 [TABLE]
-
 
 **GRAMMATOPTILA** (genus) **यवाङ्क-प्रजाति**
 
@@ -658,22 +563,15 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-
-
 **BABAX** (genus) **बाबदूक-प्रजाति**
 
 (all the birds of this family arenoisy**बाबदूक)**  
 
-
 [TABLE]
-
-
 
 **TURDOIDES** (genus) **शारिशील-प्रजाति**
 
 [TABLE]
-
-
 
 **ARGYA** (genus) **खरशब्द-प्रजाति**
 
@@ -681,25 +579,17 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-
-
 **ACANTHOPTILA** (genus) **कण्टपत्र-प्रजाति**
 
 (the feathers**पत्र**of the upper plumage and breast have stiff shafts which become very spinous**कण्ट**when worn)
 
 [TABLE]
 
-
-
-
 **POMATORHINUS**(genus) **असिचञ्चु-प्रजाति**
 
 (in this genus the principal distinguishing feature is the long sword-like **असि**slender bill **चञ्चु**)  
 
-
 [TABLE]
-
-
 
 **XIPHORAMPHUS** (genus) **मण्डलाग्रचंचु-प्रजाति**
 
@@ -709,14 +599,11 @@ The Titmouses **वल्गुली**
 |-----|----------------------------|----------------------------|-------------------------------------------------------------------|
 | 226 | Xiphoramphus superciliaris | **भू-लेख मण्डलाग्र-चञ्चु** | The Slender-billed Scimitar-Babbler**मण्डलाग्र-चञ्चुप्रियं-वद** |
 
-
 **TIMALIA** (genus) **शूकशीर्ष-प्रजाति**
 
 (this genus is characterized by the peculiar rigid shafts **शूक** of the feathers of the forehead **शीर्ष**)
 
 [TABLE]
-
-
 
 **DUMETIA** (genus) **गुल्मप्रिय प्रजाति**
 
@@ -724,29 +611,21 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-
-
 **GAMPSORHYNCHUS** (genus) **लटूषकचञ्चु-प्रजाति**
 
 (**लटूषक** ancient word)
 
 [TABLE]
 
-
-
 **CHRYSOMMA** (genus) **सुवर्णाक्ष प्रजाति**
 
 [TABLE]
-
-
 
 **PELLORNEUM**(genus) **वक्षोरेख-प्रजाति**
 
 (breast **वक्षः**, streak **रेखा**)
 
 [TABLE]
-
-
 
 **GYPSOPHILA** (genus) **चूर्णगैरय-प्रजाति**
 
@@ -755,8 +634,6 @@ The Titmouses **वल्गुली**
 |     |                          |                            |                                            |
 |-----|--------------------------|----------------------------|--------------------------------------------|
 | 254 | Gypsophilas crispifrons | **तरंग-शीर्ष चूर्ण गैरेय** | The Lime-rock Babbler **चूर्ण-गिरिगुपिल** |
-
-
 
 **NAPOTHERA** (genus) **शल्कपत्र-प्रजाति**
 
@@ -768,10 +645,7 @@ The Titmouses **वल्गुली**
 
 **दीर्घ-चञ्चु सुस्वर**  
 
-
 [TABLE]
-
-
 
 **RIMATOR** (genus) **सुस्वर-प्रजाति**
 
@@ -781,32 +655,23 @@ The Titmouses **वल्गुली**
 |-----|----------------------|-----------------------|---------------------------------------------------------|
 | 262 | Rimator malacoptilus | **दीर्घ-चंचु सुस्वर** | The Long-billed Wren-Babbler **दीर्घ चंचु चिकुर-गुपिल** |
 
-
-
 **OPHRYDORNIS** (genus) **वृक्षगुपिल-प्रजाति**
 
 (the birds are in a habit of hunting about in trees **वृक्ष** and bushes and neverdescending to the ground)
 
 [TABLE]
 
-
-
 **ERYTHROCICHLA** (genus) **भूगुपिल-प्रजाति**
 
 (entirely a ground**भू** bird)  
 
-
 [TABLE]
-
-
 
 **AETHOSTOMA** (genus) **बभ्रुमुख-प्रजाति**
 
 (aetho **बभ्रु** + stomatos**मुख**)
 
 [TABLE]
-
-
 
 **MALACOCINCLA** (genus) **स्थूलचंचु-प्रजाति**
 
@@ -816,33 +681,23 @@ The Titmouses **वल्गुली**
 |-----|-------------------------------|----------------------------|----------------------------------------------------------|
 | 267 | Malacocinclasopiaria abbotti | **नेपाल पिशंग स्थूल चंचु** | **पिशंग** reddish brown Abbott's Babbler **नेपाल गुपिल** |
 
-
-
 **THRINGORHINA** (genus)**पुटनास-प्रजाति**
 
 (this genus is characterised by a very large operculum**पुट** over the nostrils **नासा**)  
 
-
 [TABLE]
-
-
 
 **STACHYRIS** (genus) **अणितुण्ड-प्रजाति**
 
 (bill **तुण्ड** is pointed**अणि** )  
 
-
 [TABLE]
-
-
 
 **STACHYRIDOPSIS** (genus) **ऋजुतुण्ड-प्रजाति**
 
 (the bill **तुण्ड**is perfectly straight **ऋजु**)
 
 [TABLE]
-
-
 
 **CYANODERMA** (genus) **श्यामवर्त्मक-प्रजाति**
 
@@ -852,15 +707,11 @@ The Titmouses **वल्गुली**
 |-----|----------------------------------------|-------------------------------------|--------------------------------------------|
 | 282 | Cyanoderma erythropterum erythropterum | **सामान्यरक्त-पक्ष श्याम-वर्त्मक** | The Red-winged Babbler **रक्त-पक्ष गुपिल** |
 
-
-
 **MIXORNIS** (genus) **व्यक्तनास-प्रजाति**
 
 (the birds have their nostrils नासा exposed व्यक्त)
 
 [TABLE]
-
-
 
 **ALCIPPE** (genus) **लोमशचंचु-प्रजाति**
 
@@ -868,15 +719,11 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-
-
 **RHOPOCICHLA** (genus) **लघुपुच्छ-प्रजाति**
 
 (the bird has got a shorter tail**लघु-पुच्छ** as comparedto wing)
 
 [TABLE]
-
-
 
 **SCHOENIPARUS** (genus) **कुण्ठचंचु-प्रजाति**
 
@@ -889,21 +736,15 @@ The Titmouses **वल्गुली**
 | 299  | Schoeniparus dubius genestieri       | **काचीनतनुश्रीकुण्ठ-चंचु** | Rippon's Tit-Babbler**काचीनचपला**                     |
 | 300  | Schoeniparus rufigularis rufigularis | **सामान्य रक्त-कण्ठ कुंठ-चंचु**  | The Red-throated Tit-Babbler**रक्त-कण्ठचपला**         |
 
-
-
 **PSEUDOMINLA **(genus)**अनुमञ्जुल**
 
 [TABLE]
-
-
 
 **FULVETTA **(genus) **चंचला-प्रजाति**
 
 (the birds are restless **चंचल**)
 
 [TABLE]
-
-
 
 **LIOPARUS** (genus)**मृदुपत्रा-प्रजाति**
 
@@ -914,17 +755,13 @@ The Titmouses **वल्गुली**
 | 309  | Lioparus chrysotis chrysotis | **सामान्य सुवर्ण-वक्षस् मृदु-पत्रा** | The Golden-breastedFulvetta**सुवर्ण-वक्षस् चंचला**                |
 | 309a | Lioparus chrysotis forresti  | **शान देश सुवर्ण-वक्षस् मृदु-पत्रा** | The Yunnan Golden-breasted Fulvetta **शान-देश सुवर्ण-वक्षस् चंचला** |
 
-
 **SIBHNAE (subfamily) श्रीवदानुवंश**
 
 **HETEROPHASA (genus) दीर्घपुच्छ-प्रजाति**
 
 (the bird has got a tail**पुच्छ** of a extraordinary length **दीर्घ**)  
 
-
 [TABLE]
-
-
 
 **LEIOPTILA** (genus)**स्निग्धपत्र-प्रजाति**
 
@@ -932,17 +769,13 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-
 **ACTINODURA** (genus) **मौलि-प्रजाति**
 
 [TABLE]
 
-
 **SIBIA** (genus) **जटिल-प्रजाति**
 
 [TABLE]
-
-
 
 **STAPHIDA **(genus) **मुकाट-प्रजाति**
 
@@ -950,13 +783,9 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-
-
 **SIVA** (genus) **शिव-प्रजाति**
 
 [TABLE]
-
-
 
 **IXULUS (genus) शिखि-प्रजाति**
 
@@ -969,7 +798,6 @@ The Titmouses **वल्गुली**
 (creeping along **सर्पी** branches and wings **विटप**)
 
 [TABLE]
-
 
 **LEIOTRICHINAE** (subfamily) **स्निग्धकेशानुवंश**
 
@@ -984,20 +812,15 @@ The Titmouses **वल्गुली**
 | 351 | Leiothrix lutea callipyga    | **सुकटि पीतोदररोचिष्णु** | The Indian Red-billed Leiothrix**हिमालयरोचिष्णु** nanachura(Dehra Doon) |
 | 352 | Leiothrix lutea yunnanensis | **काचीन पीतोदररोचिष्णु** | The Yunnan Red-billed Leiothrix**काचीनरोचिष्णु**                             |
 
-
 **CUTIA** (geuns)**शोभन-प्रजाति**
 
 (birds very handsome **शोभन**)
 
 [TABLE]
 
-
-
 **PTERUTHIUS** (genus) **लटूषिका-प्रजाति**
 
 [TABLE]
-
-
 
 **HILAROCICHLA** (genus)**अनुलटूषिका-प्रजाति**
 
@@ -1007,15 +830,11 @@ The Titmouses **वल्गुली**
 |-----|--------------------------|-----------------------------|---------------------------------------------------------------|
 | 360 | Hlilarocichla rufiventer | **आरक्तोदरअनुलटूषिका** | The Rufous-bellied Shrike-Babbler **आरक्तोदरअनुलटूषिका** |
 
-
-
 **AETHORHYNCHUS** (genus)** दृढतुण्ड-प्रजाति**
 
 (the bill is very strong)
 
 [TABLE]
-
-
 
 **AEGITHINA** (genus) **मधुक-प्रजाति**
 
@@ -1023,23 +842,13 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-
-
-
-
-
-
 [TABLE]
-
-
 
 **MYZORNIS** (genus) **लोहपुच्छ-प्रजाति**
 
 (**लोह** red**पुच्छ** tail)
 
 [TABLE]
-
-
 
 **CHLOROPSIS** (genus)**पत्रगुप्त-प्रजाति**
 
@@ -1051,34 +860,25 @@ The Titmouses **वल्गुली**
 
 **पृथु-चञ्चु खर्जुर-प्रिय**  
 
-
 |     |                       |                            |                                                          |
 |-----|-----------------------|----------------------------|----------------------------------------------------------|
 | 375 | Chloropsis cyanopogon | **नील-श्मश्रु पत्र-गुप्त** | The Blue-whiskered Chloropsis**नील-श्मश्रु पत्र-गुप्त** |
-
-
 
 **MESIA** (genus) **सितकर्ण-प्रजाति**
 
 (ear-coverts **कर्ण** silvery-white **सित**)  
 
-
 |     |                               |                               |                                              |
 |-----|-------------------------------|-------------------------------|----------------------------------------------|
 | 376 | Mesia argentauris argentauris | **सामान्यहिमाद्रि सित-कर्ण** | The Silver-eared Mesia **हिमाद्रि सित-कर्ण** |
-
-
 
 **MINLA** (genus) **मंजुला-प्रजाति**
 
 (the genus contains one Indian bird of pleasing **मंजुल**plumage)  
 
-
 |     |                  |                        |                                                           |
 |-----|------------------|------------------------|-----------------------------------------------------------|
 | 377 | Minla ignotincta | **अग्नि-पुच्छ मंजुला** | The Red-tailed Minla **अग्नि-पुच्छ मंजुला**minla (Nepal) |
-
-
 
 **HYPOCOLIUS** (genus) **खर्जूरप्रिय**-**प्रजाति**
 
@@ -1090,8 +890,6 @@ season and taking to the date-gardens**खर्जूर**)
 |-----|-----------------------|-----------------------------|------------------------------------------------------------------------------|
 | 378 | Hypocolius ampelinus | **पृथु-चञ्चु खर्जूर-प्रिय** | bill चंचु is broad **पृथु**at the baseThe Grey Hypocolius**खर्जूर-प्रिय** |
 
-
-
 **PYCNONOTIDAE** (family) **अंगारशिख-वंश**
 
 (**अंगार** black **शिखा** crest)
@@ -1102,8 +900,6 @@ season and taking to the date-gardens**खर्जूर**)
 
 [TABLE]
 
-
-
 **TRICHOLESTES** (genus) **पृष्ठकेश-प्रजाति**
 
 (remarkable for the numerous longhairs**केश** which spring from the back**पृष्ठ**)
@@ -1112,23 +908,17 @@ season and taking to the date-gardens**खर्जूर**)
 |-----|--------------------------------|-----------------------------|-----------------------------------------------|
 | 384 | Tricholestes criniger criniger | **सामान्य दीर्घपृष्ठ-केश** | The Hairy-backed Bulbul**पृष्ठ-केशगोवत्सक** |
 
-
-
 **ALOPHOIXUS** (genus) **निश्चूड-प्रजाति**
 
 (having no crest **निश्चूड**)
 
 [TABLE]
 
-
-
 **MICROSCELIS** (genus) **मणितुण्ड-प्रजाति**
 
 (**मणितुण्ड** ancient word)
 
 [TABLE]
-
-
 
 **CERASOPHILA** (genus) **हिमशीर्ष प्रजाति**
 
@@ -1138,15 +928,11 @@ season and taking to the date-gardens**खर्जूर**)
 |-----|-----------------------|-----------------------|-----------------------------------------------------|
 | 390 | Cerasophilathompsoni | **ब्राह्म हिम-शीर्ष** | Bingham's White-headed Bulbul **हिम-शीर्ष गोवत्सक** |
 
-
-
 **IXOS** (genus) **चूडाणिपत्र-प्रजाति**
 
 (crest **चूडा** feathers **पत्र** pointed **अणि**)
 
 [TABLE]
-
-
 
 **ALCURUS** (genus)**रेखांग-**प्र**जाति**
 
@@ -1156,15 +942,11 @@ season and taking to the date-gardens**खर्जूर**)
 |-----|------------------|-----------------|---------------------------------------------------------------------|
 | 397 | Alcurus striatus | **हरितरेखांग** | The Striated Green Balbul **रेखांग हरित गोवत्सक**chichiam (Bhutea) |
 
-
-
   
-
 
 **अङ्गार-चूडक (black crest)**
 
 [TABLE]
-
 
 **XANTHIXUS** (genus) **पीतपायु-प्रजाति**
 
@@ -1172,15 +954,11 @@ season and taking to the date-gardens**खर्जूर**)
 
 [TABLE]
 
-
-
 **ELATHEA अवतंसक-प्रजाति**
 
 (ear-coverts white surrounded with black like an ear ornament **अवतंसक**)
 
 [TABLE]
-
-
 
 **EUPTILOSUS** (genus) **सुचूड-प्रजाति**
 
@@ -1190,15 +968,11 @@ season and taking to the date-gardens**खर्जूर**)
 |-----|---------------------|---------------------|--------------------------------------------|
 | 415 | Euptilosus eutilota | **बभ्रुसुचूड** | The Crested Brown Bulbul **सुचूड गोवत्सक** |
 
-
-
 **SPIZIXOS** (genus) **पृथुचूड-प्रजाति**
 
 (crest **चूडा** is thick and long **पृथु**)
 
 [TABLE]
-
-
 
 **HEMITARSUS** (genus) **पीतशीर्ष-प्रजाति**
 
@@ -1208,7 +982,6 @@ season and taking to the date-gardens**खर्जूर**)
 |-----|-----------------------|-------------------------|-------------------------------------------------|
 | 417 | Hemitarsus zeylonicus | **सिंहलपीत-शीर्ष** | The Yellow-crowned Bulbul**पीत-शीर्षगोवत्सक** |
 
-
 **IOLE** (genus) **रामा-प्रजाति**
 
 [TABLE]
@@ -1217,10 +990,7 @@ season and taking to the date-gardens**खर्जूर**)
 
 (the genus contains species of small Bulbuls of handsome appearance with squamated**शल्क**plumage)  
 
-
 [TABLE]
-
-
 
 **PYCNONOTUS** (genus) **अचूड-प्रजाति**
 
@@ -1228,12 +998,9 @@ season and taking to the date-gardens**खर्जूर**)
 
 [TABLE]
 
-
 **MICROTARSUS** (genus) **गोलपुच्छ-प्रजाति**
 
 [TABLE]
-
-
 
 **KELAARTIA** (genus) **पीतकर्ण-प्रजाति**
 
@@ -1241,28 +1008,21 @@ season and taking to the date-gardens**खर्जूर**)
 
 [TABLE]
 
-
-
 CERTHIIDAE (family) **वृक्षसर्पि-वंश**
 
 CERTHIA (genus) **वृक्षसर्पि-प्रजाति**
 
 [TABLE]
 
-
-
 **SALPORNIS** (genus) **वृक्षसर्पिका-प्रजाति**
 
 [TABLE]
-
-
 
 **TICHODROMA**(genus) **भित्तिसर्पि-प्रजाति**
 
 (wall **भित्ति**creeper**सर्पी**)
 
 [TABLE]
-
 
 **TROGLODYTIDAE** (family) **चिकुर वंश**
 
@@ -1280,15 +1040,11 @@ CERTHIA (genus) **वृक्षसर्पि-प्रजाति**
 
 [TABLE]
 
-
-
 **SPELAEORNIS** (genus) **शल्कपृष्ठ-प्रजाति**
 
 (feathers squamated **शल्क**)
 
 [TABLE]
-
-
 
 PNOEPYGA(genus) **क्षुद्रपुच्छ-प्रजाति**
 
@@ -1311,14 +1067,11 @@ SPHENOCICHLA (genus) **स्फान-चञ्चु-प्रजाति**
 | 473 | Spenocichla humei    | **सिक्किम स्फान-चञ्चु**     | Hume's Wedge-billed Wren**सिक्किमचिकुर**       |
 | 474 | Sphenocichla roberti | **ब्रह्मपुत्रस्फान-चञ्चु** | Robert's Wedge-billed Wren**ब्रह्मपुत्रचिकुर** |
 
-
-
 **TESIA** (genus) **त्रिस्वन-प्रजाति**
 
 (having three **त्रि** notes **स्वन**)
 
 [TABLE]
-
 
 **CINCLIDAE** (family) **स्रोतमज्जि-वंश**
 
@@ -1332,8 +1085,6 @@ SPHENOCICHLA (genus) **स्फान-चञ्चु-प्रजाति**
 | 478 | Cinclus cinclusleneoglaster  | **श्वेतोदरसामान्यस्रोत**-**मज्जी** | The White-belliedDipper**श्वेतोदरस्रोत**-**मज्जी**                                           |
 | 479 | Cinclus pallasii tenuirostris | **भारत बभ्रुस्रोत**-**मज्जी**       | The Indian Brown Dipper**भारत बभ्रुस्रोत**-**मज्जी**chutia-nakka (Bhut.)                     |
 | 480 | Cinclus pallasii marila       | **चिन-गिरिबभ्रुस्रोत**-**मज्जी**   | The Formosa Brown Dipper**चिन-गिरिबभ्रुस्रोत**-**मज्जी (**found in Chin Hills, Formosa,etc.) |
-
-
 
 **TURDIDAE** (Family) **तर्दाश-वंश**
 
@@ -1352,22 +1103,17 @@ SPHENOCICHLA (genus) **स्फान-चञ्चु-प्रजाति**
 | 481 | Brachypteryx major major       | **सामान्य बृहद्लघु-पक्ष**  | The Rufous-bellied Short-wing**आरक्तोदरलघु-पक्ष** |
 | 482 | Brachypteryx major albiventris | **श्वेतोदरबृहद्लघु-पक्ष** | The White-bellied Short-wing**श्वेतोदरलघु-पक्ष**  |
 
-
 **LARVIVORA** (genus) **कीटाश-प्रजाति**
 
 (**कीट**insect, **अश** feeding on)
 
 [TABLE]
 
-
-
 **HETEROXENICUS** (genus) **लघुतरपुच्छ-प्रजाति**
 
 (a shorter **लघुतर** tail **पुच्छ**than the previous)
 
 [TABLE]
-
-
 
 **HODGSONIUS** (genus)**दीर्घतरपुच्छ-प्रजाति**
 
@@ -1377,24 +1123,17 @@ SPHENOCICHLA (genus) **स्फान-चञ्चु-प्रजाति**
 |-----|------------------------------------------|-----------------------------------|-----------------------------------------|
 | 491 | Hodgsonius phoenicuroidesphoenicuroides | **सामान्य कश्मीर दीर्घतर-पुच्छ** | Hodgson's Short-wing **कश्मीर लघ-पक्ष** |
 
-
-
 **SAXICOLINAE**(subfamily) **अश्मचरानुवंश**  
-
 
 **SAXICOLA** (genus) **अश्मचर-प्रजाति**
 
 [TABLE]
-
-
 
 **RHODOPHILA** (genus) **क्षुपप्रिय-प्रजाति**
 
 (**क्षुप** bush)
 
 [TABLE]
-
-
 
 **OENANTHE** (genus) **मरुप्रिय-प्रजाति**
 
@@ -1408,13 +1147,9 @@ SPHENOCICHLA (genus) **स्फान-चञ्चु-प्रजाति**
 
 [TABLE]
 
-
-
 **CERCOMELA** (genus) **श्यामक-प्रजाति**  
 
-
 [TABLE]
-
 
 **ENICURINAE** (subfamily) **द्विपुच्छानुवंश**
 
@@ -1426,14 +1161,11 @@ SPHENOCICHLA (genus) **स्फान-चञ्चु-प्रजाति**
 
 [TABLE]
 
-
 **HYDROCICHLA** (genus) **जलाश्वक-प्रजाति**
 
 (hydro-**जल**)
 
 [TABLE]
-
-
 
 **MICROCICHLA** (genus) **लघुद्विपुच्छ प्रजाति**
 
@@ -1442,8 +1174,6 @@ SPHENOCICHLA (genus) **स्फान-चञ्चु-प्रजाति**
 |     |                               |                                    |                                       |
 |-----|-------------------------------|------------------------------------|---------------------------------------|
 | 525 | Microcichla scouleri scouleri | **सामान्य हिमाद्रिलघु-द्विपुच्छ** | The Little Forktail **लघु-द्विपुच्छ** |
-
-
 
 **PHOENICURINAE** (subfamily) **रक्तपुच्छानुवंश**
 
@@ -1455,25 +1185,17 @@ SPHENOCICHLA (genus) **स्फान-चञ्चु-प्रजाति**
 
 [TABLE]
 
-
 **CHAIMARRORNIS** (genus) **आनूपक-प्रजाति**
 
 (aquatic **आनूप** in habits)
 
-
-
 [TABLE]
-
-
 
 **CYANOSYLVIA** (genus) **श्यामकण्ठ-प्रजाति**
 
 [TABLE]
 
-
-
 [TABLE]
-
 
 **COPSYCHUS** (genus) **दध्यक्-प्रजाति**
 
@@ -1481,15 +1203,11 @@ SPHENOCICHLA (genus) **स्फान-चञ्चु-प्रजाति**
 
 [TABLE]
 
-
-
 **KITTACINCLA** (genus) **श्यामा-प्रजाति**
 
 (whole head, neck, breast, back and wings glossy blue-black **श्यामा**)
 
 [TABLE]
-
-
 
 **TURDINAE**(subfamily) **तर्दाशानुवंश**
 
@@ -1501,15 +1219,11 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
 **GEOKICHLA** (genus) **भूचटक-प्रजाति**
 
 (they are ground **भू** birds, **चटक** sparrow)  
 
-
 [TABLE]
-
-
 
 **ARCEUTHORNIS** (genus) **कोलाश-प्रजाति**
 
@@ -1517,14 +1231,11 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
 **OREOCINCLA** (genus) **शैलचटक-प्रजाति**
 
 (found from 4000 feet upto 14000 feet)
 
 [TABLE]
-
-
 
 **ZOOTHERA** (genus) **गोपन-प्रजाति**
 
@@ -1532,20 +1243,15 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
 **MONTICOLA** (genus) **कृष्णपत्रि-प्रजाति**
 
 [TABLE]
-
-
 
 **MYOPHONUS** (genus) **श्रीवाक-प्रजाति**
 
 (**श्री** whistle)
 
 [TABLE]
-
-
 
 **ARRENGA** (genus) **श्रीकारी प्रजाति**
 
@@ -1555,15 +1261,11 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 |-----|----------------|------------------|---------------------------------------------------------|
 | 616 | Arrenga blighi | **लघु श्रीकारी** | The Ceylon Whistling-Thrush **लंका श्रीकारी-कस्तूरिका** |
 
-
-
 **COCHOA** (genus ) **कोचा-प्रजाति**
 
 (Nepali **कोचो** from √**कुच्** to cry sharply)
 
 [TABLE]
-
-
 
 **PRUNELLINAE** (subfamily) **तुषारचटकानुवंश**
 
@@ -1582,15 +1284,11 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 | 623  | Laiscopus collarisripponi    | **शान-देशबभ्रु-शीर्ष सुमुख** | Rippon's Hedge-Sparrow **शान देशतुषार-चटक**          |
 | 624  | Laiscopus himalayanus         | **हिमालय सुमुख**               | The Altai Hedge-Sparrow **हिमालयतुषार-चटक**          |
 
-
-
 **PRUNELLA** (genus ) **बादरपृष्ठ-प्रजाति**
 
 (**बादर =बादर-वर्ण** of the colourof a ripejujube fruit)
 
 [TABLE]
-
-
 
 **MUSCICAPIDAE** (family) **शलभाश-वंश**
 
@@ -1600,16 +1298,11 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
-
 **RHINOMYIAS** (genus) **पट्टवक्षस्-प्रजाति**
 
 (a broad band **पट्ट** across the breast **वक्षस्**)  
 
-
 [TABLE]
-
-
 
 **HEMICHELIDON** (genus) **अनुचटी-प्रजाति**
 
@@ -1617,21 +1310,15 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
-
 **SIPHIA** (genus) **नारंगवक्षस्-प्रजाति**
 
 [TABLE]
-
 
 **MUSCICAPULA** (genus) **नीलचटक-प्रजाति**
 
 (sparrow **चटक** having a blue **नील**colour)  
 
-
 [TABLE]
-
-
 
 **MUSCICAPELLA** (genus) **लघुनील-प्रजाति**
 
@@ -1639,13 +1326,9 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
-
 **EUMYIAS** (genus) **सुनील-प्रजाति**
 
 [TABLE]
-
-
 
 **ANTHIPES** (genus) **पाटलांघ्रि-प्रजाति**
 
@@ -1653,13 +1336,9 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
-
 **OLCYORNIS** (genus) **पांडुकण्ठ-प्रजाति**
 
 [TABLE]
-
-
 
 **ALSEONAX** (genus) **अभूषित-प्रजाति**
 
@@ -1667,23 +1346,17 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
-
 **OCHROMELA** (genus) **कृष्णनारंग-प्रजाति**
 
 (characteristic black **कृष्ण** and orange **नारंग**plumage)
 
 [TABLE]
 
-
-
 **CULICICAPA** (genus) **मशकारि-प्रजाति**
 
 (culicis **मशक**)
 
 [TABLE]
-
-
 
 **NILTAVA** (genus) **नीललट्वा-प्रजाति**
 
@@ -1697,7 +1370,6 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 | 684a | Niltava sundara fastuosa  | **पश्चिम सुन्दर नील-लट्वा**  | The Western Beautiful Sundara **पश्चिम सुन्दर नील लट्वा**                     |
 | 685  | Niltava macgrigoriae      | **लघु नील-लट्वा**            | The Small Niltava **लघु नील-लट्वा**                                           |
 
-
 **DRYMOPHILA** (genus) **द्रुमप्रिय-प्रजाति**
 
 |     |                        |                           |                                                                     |
@@ -1705,18 +1377,13 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 | 686 | Drymophila velata      | **ब्राह्म द्रुम-प्रिय**   | The Maroon-breasted Flycatcher **रक्तोरस् शलभाश**(**उरस्** breast) |
 | 687 | Drymophila pyrrhoptera | **रक्त-पक्ष द्रुम-प्रिय** | The Chestnut-winged Flycatcher **रक्त-पक्ष शलभाश**                  |
 
-
 **TCHITREA** (genus) **चीरकेतु-प्रजाति**
 
 [TABLE]
 
-
-
 **HYPOTHYMIS** (genus) **आकाशनील-प्रजाति**
 
 [TABLE]
-
-
 
 **CHELIDORHYNX** (genus) **चटीचंचु-प्रजाति**
 
@@ -1724,16 +1391,11 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 |-----|--------------------------|---------------------|------------------------------------------------|
 | 699 | Chelidorhynx hypoxanthum | **पीतोदर चटी-चंचु** | The Yellow-bellied Flycatcher **पीतोदर शलभाश** |
 
-
-
 **LEUCOCERCA** (genus) **लट्व-प्रजाति**
 
 (**लट्व** a dancer)  
 
-
 [TABLE]
-
-
 
 **LANIIDAE** (family) **लटूषक-वंश**
 
@@ -1741,15 +1403,11 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
-
 **HEMIPUS** (genus)**सामिपाद-प्रजाति**
 
 (hemi **सामि**, podos **पाद**)
 
 [TABLE]
-
-
 
 **TEPHRODORNIS** (genus) **भस्मपत्र-प्रजाति**
 
@@ -1767,8 +1425,6 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 |-----|--------------------------------------|-------------------------|---------------------------------------------|
 | 732 | Platylophus galericulatus ardesiacus | **पूर्व चपल पत्र-चूड** | The Tenasserim Jay-Shrike **पत्रचूड-लटूषक** |
 
-
-
 **CAMPEPHAGIDAE** (family) **विष्फुलिंग वंश**
 
 (birds are remarkable for their brilliant plumage, in which red or yellow is the dominant colour, **विष्फुलिंग** spark)
@@ -1777,13 +1433,11 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
 **LALAGE** (genus) **जातकाश-प्रजाति**
 
 (feeding on **अश**larva**जातक**)
 
 [TABLE]
-
 
 **GRAUCALUS** (genus) **भसित-प्रजाति**
 
@@ -1791,18 +1445,13 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
-
 **ARTAMIDAE** (family) **तालनीड-वंश**
 
 **ARTAMUS** (genus) **तालनीड-प्रजाति**
 
 (constructs a nest **नीड**of roots, fibre fromcocoanut palms **ताल**Cf. Bengali tal-chatak)  
 
-
 [TABLE]
-
-
 
 **DICRURIDAE** (farmily) **अंगारक-वंश**
 
@@ -1812,14 +1461,11 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
-
 **CHAPTIA**(genus)**चिपिटचंचु-प्रजाति**
 
 (having a flattened **चिपिट** bill **चंचु**)
 
 [TABLE]
-
 
 ![](../books_images/1672745189.jpg)
 
@@ -1831,15 +1477,11 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
-
 **DISSEMUROIDES** (genus)**केशराज-प्रजाति**
 
 (this genus differs from the previous in possessing a tuft of hair-like feathers about half an inch long springing from the forehead)
 
 [TABLE]
-
-
 
 **DISSEMURULUS** (genus) **भालशिख-प्रजाति**
 
@@ -1847,20 +1489,15 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
 **BHRINGA** (genus) **भृंग-प्रजाति**
 
 (**भृंग** ancient word)
 
 [TABLE]
 
-
-
 **DISSEMURUS** (genus) **भृंगराज-प्रजाति**
 
 [TABLE]
-
-
 
 **SYLVIIDAE** (family) **चटकिका-वंश**
 
@@ -1872,15 +1509,11 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
-
 **ACROCEPHALUS** (genus) **उच्चशीर्ष-प्रजाति**
 
 (gk. akron**उच्च**+ kephale **शीर्ष**)
 
 [TABLE]
-
-
 
 **LOCUSTELLA** (genus) **चीरीवाक्-प्रजाति**
 
@@ -1888,35 +1521,25 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
-
 **TRIBURA** (genus) **अदृश्यशूक-प्रजाति**
 
 (the rectal bristles**शूक** are invisible**अदृश्य** to the naked eye)
 
 [TABLE]
 
-
-
 **ELAPHRORNIS** (genus) **मुंजचर-प्रजाति**
 
 (birds frequent dense forests and especially such as have undergrowth of elephant-grass **मुंज**)  
-
 
 |     |                       |                       |                                          |
 |-----|-----------------------|-----------------------|------------------------------------------|
 | 812 | Elaphrornis palliseri | **गुप्तमुंज-चर** | Palliser's Ant-Warbler**मुंजचरकूजिनी** |
 
-
-
 **ORTHOTOMUS** (genus) **पुटिनी प्रजाति**
 
 (places its nest within the hollow **पुट**of one or more leaves the edges of which it stitches together.**पुटिनी** occurs in **वसन्तराजशाकुन**)  
 
-
 [TABLE]
-
-
 
 **LUSCINIOLA** (genus) **झावुकृजिनी-प्रजाति**
 
@@ -1930,41 +1553,29 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-
-
 **FRANKLINIA** (genus) **द्वादशबर्ह-प्रजाति**
 
 (this genus differs from Prinia by their tails which contain twelve **द्वादश** feathers **बर्ह**)
 
 [TABLE]
 
-
 **LATICILLA** (genus) **उपनदिक-प्रजाति**
 
 (the birds are only found in the vicinity of the larger rivers)  
 
-
 [TABLE]
-
-
 
 **GRAMINICOLA** (genus) **घासवासि-प्रजाति**
 
 graminis **घास** + cola **वासि**)  
 
-
 [TABLE]
-
-
 
 **MEGALURUS** (genus) **बृहत्पुच्छ प्रजाति**
 
 (the tail is much longer than the wing)  
 
-
 [TABLE]
-
-
 
 **SCHOENICOLA** (genus) **नडवासि-प्रजाति**
 
@@ -1974,42 +1585,29 @@ graminis **घास** + cola **वासि**)
 |-----|----------------------|------------------------|----------------------------------------------------------|
 | 837 | Schoenicola platyura | **पृथु-पुच्छ नड-वासी** | The Broad-tailed Grass-Warbler **पृथु-पुच्छ घास-कूजिनी** |
 
-
-
 **CHAETORNIS** (genus) **पंचशूक-प्रजाति**
 
 (characterized by having unfeathered lores with five **पंच** exceptionally strong rictal bristles **शूक**)  
-
 
 |     |                     |                       |                                                   |
 |-----|---------------------|-----------------------|---------------------------------------------------|
 | 838 | Chaetornis striatus | **कृष्ण-रेख पंच-शूक** | The Bristled Grass-Warbler **पंच-शूक घास-कूजिनी** |
 
-
-
 **PHRAGAMATICOLA** (genus) **सरसा-प्रजाति**
 
 (in its breeding-haunts it is said to be a shy bird, haunting humid and marshy places)  
-
 
 |     |                      |                     |                                                    |
 |-----|----------------------|---------------------|----------------------------------------------------|
 | 839 | Phragamaticola aedon | **स्थूल-चंचु सरसा** | The Thick-billed Warbler **स्थूल-चंचु घास-कूजिनी** |
 
-
-
 **HIPPOLAIS** (genus) **गायन्ती-प्रजाति**  
 
-
 [TABLE]
-
-
 
 **SYLVIA** (genus) **चटकिका-प्रजाति**
 
 [TABLE]
-
-
 
 **HERBIVOCULA** (gemns) **वनान्तिका-प्रजाति**
 
@@ -2019,21 +1617,15 @@ graminis **घास** + cola **वासि**)
 |-----|----------------------|--------------------------|-------------------------------------------|
 | 851 | Herbivocula schwarzi | **दक्षिण-चीन वनान्तिका** | Radde's Bush-Warbler **चीन क्षुप-कूजिनी** |
 
-
-
 **PHYLLOSCOPUS** (genus) **पत्रान्वेषि-प्रजाति**
 
 (proyllon leaf **पत्र** + skopeo to see **अन्वेषी**)  
-
 
 [TABLE]
 
 **ACANTHOPNEUSTE** (genus) **पर्णान्वेषि-प्रजाति**  
 
-
 [TABLE]
-
-
 
 **MUSCITREA** (genus) **पतंगकूजिनी-प्रजाति**
 
@@ -2043,67 +1635,48 @@ graminis **घास** + cola **वासि**)
 |-----|---------------------------|----------------------|---------------------------------------------------|
 | 887 | Muscitrea grisola grisola | **भस्म पतंग-कूजिनी** | The Grey Flycatcher-Warbler**भस्म शलभाशकूजिनी** |
 
-
 **SEICERCUS** (genus) **श्मश्रुल-प्रजाति**
 
 (very great development of the frontal hairs **श्मश्रुल**)
 
 [TABLE]
 
-
-
 **ABROSCOPUS** (genus) **सुदर्शना-प्रजाति**
 
 [TABLE]
-
-
 
 **TICKELLIA** (genus) **त्रिस्वरा-प्रजाति**
 
 (single long drawn, very shrill whistle, followed after an interval of ten seconds or so, by two notes -**त्रि-स्वरा**)  
 
-
 |     |                    |                           |                                                                 |
 |-----|--------------------|---------------------------|-----------------------------------------------------------------|
 | 904 | Tickellia hodgsoni | **पृथु-तुण्ड त्रि-स्वरा** | The Broad-billed Flycatcher-Warbler **पृथु-तुण्ड शलभाश-कूजिनी** |
 
-
-
 **SCOTOCERCA** (genus) **बिन्दुपुच्छ-प्रजाति**  
-
 
 |     |                             |                                  |                                                         |
 |-----|-----------------------------|----------------------------------|---------------------------------------------------------|
 | 905 | Scotocerca inquieta striata | **रेखा-वक्षस् चपल बिन्दु-पुच्छ** | The Streaked Scrub-Warbler **रेखा-वक्षस् क्षुप-कूजिनी** |
 
-
 **NEORNIS** (genus) **पीतकक्ष प्रजाति**  
-
 
 |     |                                     |                                |                                                       |
 |-----|-------------------------------------|--------------------------------|-------------------------------------------------------|
 | 906 | Neornis flavolivaceus flavolivaceus | **सामान्य पीत-बभ्रुपीत-कक्ष** | The Aberrant Warbler **नेपाल पीत-कक्ष कूजिनी**        |
 | 907 | Neornis flavolivaceus intricatus    | **शान-देश पीत-बभ्रुपीत-कक्ष** | The Shan Aberrant Warbler **शान देश पीत-कक्ष कूजिनी** |
 
-
-
 **HOMOCHLAMYS** (genus) **एकवर्णा-प्रजाति**
 
 (this genus contains seven species of Indian birds of very dull coloration and very like one another)  
 
-
 [TABLE]
-
-
 
 **HOREITES** (genus) **मसृणशीर्ष-प्रजाति**
 
 (feathers of the forehead being smooth **मसृण**)  
 
-
 [TABLE]
-
-
 
 **CETTIA** (genus) **तडागि-प्रजाति**
 
@@ -2113,16 +1686,11 @@ graminis **घास** + cola **वासि**)
 |-----|-------------------------|--------------------------------|-------------------------------------------------|
 | 920 | Cettia cetti cettioides | **पूर्व पाण्डुर-वक्षस् तडागी** | The Eastern Bush-Warbler **पूर्व क्षुप-कूजिनी** |
 
-
-
 **UROPHLEXIS** (genus) **संक्षिप्तपुच्छ प्रजाति**
 
 (this is very close to the genera Horcites and Cettia but is distinguishable by its very short**संक्षिप्त**tail)  
 
-
 [TABLE]
-
-
 
 **PHYLLERGATES** (genus) **हरिता-प्रजाति**
 
@@ -2131,8 +1699,6 @@ graminis **घास** + cola **वासि**)
 |     |                                  |                                |                                                   |
 |-----|----------------------------------|--------------------------------|---------------------------------------------------|
 | 922 | Phyllergates coronatus coronatus | **सामान्य सुवर्ण-शीर्ष हरिता** | The Golden-headed Warbler**सुवर्ण-शीर्षकूजिनी** |
-
-
 
 **SUYA** (genus)**सौचिक-प्रजाति**
 
@@ -2148,15 +1714,11 @@ graminis **घास** + cola **वासि**)
 
 [TABLE]
 
-
-
 **PRINIA** (genus) **दशबर्ह-प्रजाति**
 
 (it has ten **दश** tail-feathers **बर्ह**)
 
 [TABLE]
-
-
 
 **REGULIDAE** (family) **दीप्तशिख-वंश**
 
@@ -2166,23 +1728,17 @@ graminis **घास** + cola **वासि**)
 
 [TABLE]
 
-
-
 **LEPTOPOECILE** (genus) **सुवर्णा-प्रजाति**
 
 (the genus contains a lovely species)
 
 [TABLE]
 
-
-
 **CEPHALOPYRUS** (genus) **अग्निशिख-प्रजाति**
 
 (kephala **शिखा** + pyrrhos**अग्नि**)
 
 [TABLE]
-
-
 
 **IRENIDAE** (family) **नीलच्छवि-वंश**
 
@@ -2192,8 +1748,6 @@ graminis **घास** + cola **वासि**)
 
 [TABLE]
 
-
-
 **ORIOLIDAE** (family) **कांचन-वंश**
 
 (**कांचन** occurs in **पद्म-पुराण ६.१६**)
@@ -2202,15 +1756,11 @@ graminis **घास** + cola **वासि**)
 
 [TABLE]
 
-
-
 ![](../books_images/1672745242.jpg)
 
 दक्षिण **रोपणाका**
 
 [TABLE]
-
-
 
 **GRACULIDAE** (family) **रोपणाका-वंश**
 
@@ -2219,8 +1769,6 @@ graminis **घास** + cola **वासि**)
 **GRACULA** (genus)**रोपणाका-प्रजाति**
 
 [TABLE]
-
-
 
 **LAMPROCORAX** (genus) **शारि-प्रजाति**
 
@@ -2232,15 +1780,11 @@ graminis **घास** + cola **वासि**)
 | 968 | Lamprocorax panayensis tytleri   | **कृष्णद्वीप मेचक शारि** | The Andaman Glossy Stare **कृष्णद्वीप मेचक शारि** |
 | 969 | Lamprocorax panayensis affinis   | **वंग मेचक शारि**        | Hodgson's Glossy Stare **वंग मेचक शारि**          |
 
-
-
 **SAROGLOSSA** (genus) **पुलीका-प्रजाति**
 
 (**पुलीका** occurs in **मैत्रायणी-संहिता**. Cf. its name puli at Mussoorie)
 
 [TABLE]
-
-
 
 **STURNIDAE** (family) **सारिक-वंश**
 
@@ -2250,15 +1794,11 @@ graminis **घास** + cola **वासि**)
 
 [TABLE]
 
-
-
 **STURNUS** (genus) **तैलपक प्रजाति**
 
 (**तैलपक** from **मनुस्मृति**)
 
 [TABLE]
-
-
 
 **SPODIOPSAR** (genus) **भस्मसार-प्रजाति**
 
@@ -2266,26 +1806,19 @@ graminis **घास** + cola **वासि**)
 |-----|-----------------------|-------------------|----------------------------------|
 | 980 | Spodiopsar cineraceus | **धूसर भस्म-सार** | The Grey Starling **धूसर सारिक** |
 
-
-
 **STURNIA** (genus) **शरभी-प्रजाति**
 
 [TABLE]
 
-
 **AGROPSAR** (genus) **चीनसारि-प्रजाति**
 
 [TABLE]
-
-
 
 **AMPELICEPS** (genus) **राजसारि-प्रजाति**
 
 |     |                      |                         |                                      |
 |-----|----------------------|-------------------------|--------------------------------------|
 | 989 | Ampeliceps coronatus | **सुवर्ण-शिख राज-सारि** | The Gold-crested Myna **राज-सारिका** |
-
-
 
 **STURNORNIS** (genus) **श्वेतशीर्ष-प्रजाति**
 
@@ -2295,21 +1828,15 @@ graminis **घास** + cola **वासि**)
 |-----|------------------|-----------------------|-----------------------------------------------------------|
 | 990 | Sturnornis senex | **सिंहल श्वेत-शीर्ष** | The Ceylon White-headed Myna **सिंहल श्वेत-शीर्ष सारिका** |
 
-
-
 **TEMENUCHUS** (genus) **शंकरा-प्रजाति**
 
 (**"शंकरा नाम परिव्राजिका, शंकरा नाम शकुनिका तच्छीला च" पातंजल महाभाष्य ३.२.१४. परिव्राजिका**=Pkt. **पब्बाइया** and Hindi **पबई**, the name of this bird. Its fawn colour is comparable to the **काषाय** of a nun)
 
 [TABLE]
 
-
-
 **GRACUPICA** (genus) **चर्मवर्त्म-प्रजाति**
 
 [TABLE]
-
-
 
 **ACRIDOTHERES** (genus) **कलहप्रिया-प्रजाति**
 
@@ -2317,15 +1844,11 @@ graminis **घास** + cola **वासि**)
 
 [TABLE]
 
-
-
 **AETHIOPSAR** (genus) **झुण्टसारि-प्रजाति**
 
 (Cf. Hindi in Beng. jhonti maina, Bengali jhont salik)
 
 [TABLE]
-
-
 
 **STURNOPASTOR** (genus) **शबलसारि-प्रजाति**
 
@@ -2343,12 +1866,9 @@ graminis **घास** + cola **वासि**)
 
 [TABLE]
 
-
 **PLOCEELLA** (genus) **चंचुसूची प्रजाति**
 
 [TABLE]
-
-
 
 **ESTRILDINAE** (subfamily) **पुत्रिकानुवंश**
 
@@ -2358,26 +1878,19 @@ graminis **घास** + cola **वासि**)
 
 [TABLE]
 
-
-
 **UROLONCHA** (genus) **शंकुपुच्छ-प्रजाति**
 
 (Gk. oura **पुच्छ**, lonche spear, point **शंकु**)
 
 [TABLE]
 
-
-
 हिमादि रेखो **शंकु-पुच्छ**
 
 [TABLE]
 
-
-
 **ERYTHRURA** (genus) **रोहितपुच्छ-प्रजाति**
 
 (Gk. erythros**रोहित**+ oura**पुच्छ** )  
-
 
 [TABLE]
 
@@ -2391,13 +1904,9 @@ graminis **घास** + cola **वासि**)
 
 [TABLE]
 
-
-
 **AMANDAVA** (genus) **पुत्रिका-प्रजाति**
 
 [TABLE]
-
-
 
 **FRINGILLIDAE** (family) **चटक-वंश**
 
@@ -2417,12 +1926,9 @@ graminis **घास** + cola **वासि**)
 
 [TABLE]
 
-
-
 **MYCEROBAS** (genus) **महाचंचु-प्रजाति**
 
 (distinguishable by the great **महा** sizeof the bill **चंचु**)  
-
 
 |      |                         |                       |                 |
 |------|-------------------------|-----------------------|-----------------|
@@ -2454,17 +1960,13 @@ The Mount Victoria Bullfinch **धूसर सुचटक**
 
 [TABLE]
 
-
-
 **HAEMATOSPIZA** (genus) **सिन्दूरी-प्रजाति**
 
 |      |                     |                  |                               |
 |------|---------------------|------------------|-------------------------------|
 | 1051 | Haematospiza sipahi | **शोण सिन्दूरी** | The Scarlet Finch **शोण चटक** |
 
-
 **PROPYRRHULA** (genus) **रक्तमध्या-प्रजाति**  
-
 
 |                                                |                                       |                              |                                                   |
 |------------------------------------------------|---------------------------------------|------------------------------|---------------------------------------------------|
@@ -2472,8 +1974,6 @@ The Mount Victoria Bullfinch **धूसर सुचटक**
 | **PYRRHOSPIZA** (genus) **रक्तवक्षस्-प्रजाति** |                                       |                              |                                                   |
 
 [TABLE]
-
-
 
 **CARPODACUS** (genus) **रक्तशीर्ष-प्रजाति**
 
@@ -2485,12 +1985,9 @@ The Mount Victoria Bullfinch **धूसर सुचटक**
 
 [TABLE]
 
-
-
 **RHODOSPIZA** (genus) **पाटला-प्रजाति**
 
 (**पाटल** the pink colour, so characteristic of these Finches)  
-
 
 |      |                     |                       |                                                     |
 |------|---------------------|-----------------------|-----------------------------------------------------|
@@ -2506,15 +2003,11 @@ The Mount Victoria Bullfinch **धूसर सुचटक**
 |------|---------------------------------|----------------------------|--------------------------------------------|
 | 1075 | Rhodopechys sanguinea sanguinea | **सामान्य अरुण रक्त-पक्ष** | The Crimson-winged Finch **रक्त-पक्ष चटक** |
 
-
-
 **PROCARDUELIS** (genus) **शोणिता-प्रजाति**
 
 (the birds are more or less of crimson**शोणित**colour)
 
 [TABLE]
-
-
 
 **CARDUELIS** (genus) **शोणमुख-प्रजाति**
 
@@ -2540,8 +2033,6 @@ The Mount Victoria Bullfinch **धूसर सुचटक**
 
 [TABLE]
 
-
-
 **METAPONIA** (genus) **पूजनीया-प्रजाति**
 
 (**पूजनीया** ancient word)
@@ -2556,8 +2047,6 @@ The Mount Victoria Bullfinch **धूसर सुचटक**
 
 [TABLE]
 
-
-
 **SPINUS** (genus) **निशितचंचु-प्रजाति**
 
 (the bill is small and very sharply **निशित** pointed)
@@ -2566,15 +2055,11 @@ The Mount Victoria Bullfinch **धूसर सुचटक**
 |------|------------------|--------------------|----------------------------------|
 | 1091 | Spinus thibetana | **भोट निशित-चंचु** | The Tibetan Siskin **भोट चटिका** |
 
-
-
 **FRINGILLA** (genus) **मुखरा-प्रजाति**
 
 (**मुखरा** ancient word)
 
 [TABLE]
-
-
 
 **GYMNORIS** (genus) **पीतगल-प्रजाति**
 
@@ -2582,15 +2067,11 @@ The Mount Victoria Bullfinch **धूसर सुचटक**
 
 [TABLE]
 
-
-
 **PASSER** (genus) **कुलिंग-प्रजाति**
 
 (**कुलिंग** 'sparrow' occurs in **भावप्रकाश**)
 
 [TABLE]
-
-
 
 **PETRONIA** (genus)**शैलकुलिंग-प्रजाति**
 
@@ -2600,23 +2081,17 @@ The Mount Victoria Bullfinch **धूसर सुचटक**
 |------|------------------------------|--------------------------------|-------------------------------------------------|
 | 1109 | Petronia petronia intermedia | **पूर्वीय सामान्य शैल-कुलिंग** | The Eastern Rock-Sparrow **पूर्वीय शैल-कुलिंग** |
 
-
-
 **MONTIFRINGILLA** (genus) **हिमचटक-प्रजाति**
 
 (these are all Snow-Finches and hence the name **हिम-चटक**)
 
 [TABLE]
 
-
-
 FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 (**गिरि** mountain + **चटक** finch)
 
 [TABLE]
-
-
 
 **EMBERIZINAE** (subfamily) **चिरिटीकानुवंश**
 
@@ -2626,26 +2101,17 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-
-
-
-
 ![](../books_images/1672835901.jpg)
 
 दीर्घ **काल-चूड**  
 
-
 [TABLE]
-
-
 
 **MELOPHUS** (genus) **कालचूड-प्रजाति**
 
 (has a black **काल** crest **चूडा**)
 
 [TABLE]
-
-
 
 **BOMBYCILLIDAE** (family) **काचपक्ष-वंश**
 
@@ -2657,8 +2123,6 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-
-
 **HIRUNDINIDAE** (family) **भाण्डीक-वंश**
 
 (**भाण्डीक** occurs in **वराहमिहिर**'s **बृहत्संहिता**)
@@ -2669,22 +2133,15 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-
-
 **RIPARIA** (genus) **आनूपचटी-प्रजाति**
 
 (they frequent watery places **आनूप**)  
 
-
 [TABLE]
-
-
 
 **KRIMNOCHELIDON** (genus) **शैलचटी-प्रजाति**
 
 [TABLE]
-
-
 
 **HIRUNDO** (genus) **भाण्डीक-प्रजाति**
 
@@ -2692,17 +2149,13 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-
 **MOTACILLIDAE** (family) **खंजरीट-वंश**
 
 **MOTACILLA** (genus) **खंजरीट-प्रजाति**
 
 (**खंजरीट** occurs in **याज्ञवल्क्य स्मृति**)  
 
-
 [TABLE]
-
-
 
 **DENDRONANTHUS** (genus) **वनखंजन-प्रजाति**
 
@@ -2712,15 +2165,11 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 |------|-----------------------|------------------|--------------------------------|
 | 1183 | Dendronanthus indicus | **भारत वन-खंजन** | The Forest Wagtail **वन-खंजन** |
 
-
-
 **ANTHUS** (genus) **तुलिका-प्रजाति**
 
 (**तुलिका** ancient word)
 
 [TABLE]
-
-
 
 **OREOCORYS** (genus) **गिरितुलिका-प्रजाति**
 
@@ -2738,8 +2187,6 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 |------|--------------------------|---------------------------|--------------------------------------------------|
 | 1205 | Alaemon alaudipes doriae | **पारसीक मरुक्षिप्रिका** | The Persian Desert-Lark **पारसीक मरु-भारद्वाज** |
 
-
-
 **OTOCORIS** (genus) **शृंगिक-प्रजाति**
 
 (the birds are distinguished from all other genera of the family Alaudidae by possessing horns शृंगcomposed of feathers on either side of the crown)
@@ -2754,15 +2201,11 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 |-------|---------------------------|---------------------|----------------------------------------------------|
 | 1208a | Otocoris alpestris deosai | **बभ्रुतर** browner | The Deosai Horned Lark **बभ्रुतरश्रृंग-भारद्वाज** |
 
-
-
 **MELANOCORYPHA** (genus) **कृकराट-प्रजाति**
 
 (**कृकराट** is an ancient word for Skylark. It occurs in **धन्वन्तरि-निघण्टु**)
 
 [TABLE]
-
-
 
 **ALAUDA** (genus)**भारद्वाज-प्रजाति**
 
@@ -2770,15 +2213,11 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-
-
 **CALANDRELLA** (genus) **व्याघ्राट-प्रजाति**
 
 (**व्याघ्राट** ancient word)
 
 [TABLE]
-
-
 
 **ALAUDULA** (genus) **सारस्वत-प्रजाति**
 
@@ -2786,14 +2225,11 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-
-
 **MIRAFRA** (genus) **इलीका-प्रजाति**
 
 (Cf. Tel. ecli-jitta for M. assamica affinis)
 
 [TABLE]
-
 
 **GALERIDA** (genus) **कण्टचूड-प्रजाति**
 
@@ -2801,18 +2237,13 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-
-
 ![](../books_images/1672746849.jpg)
 
 सिन्धु रोख-पृष्ठ **कण्ट-चूड**  
 
-
 |      |                     |                   |                                              |
 |------|---------------------|-------------------|----------------------------------------------|
 | 1241 | Galerida malabarica | **केरल कण्ट-चूड** | The Malabar Crested Lark **केरल तिलक-कण्टक** |
-
-
 
 **AMMOMANES** (genus) **भूमिशय-प्रजाति**
 
@@ -2820,13 +2251,9 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-
-
 **EREMOPTERIX** (genus) **गुपिक-प्रजाति**
 
 [TABLE]
-
-
 
 **ZOSTEROPIDAE** (lamily) **सितनयन-वंश**
 
@@ -2836,18 +2263,13 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-
-
 **CHALCOPARIIDAE** (family) **मणिकर्ण-वंश**
 
 (ear-coverts **कर्ण** metallic copper like a ruby **मणि**)
 
 **CHALCOPARIA** (genus) **मणिकर्ण-प्रजाति**  
 
-
 [TABLE]
-
-
 
 **NECTARINIIDAE** (family) **शींजिरिका-वंश**
 
@@ -2863,20 +2285,11 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 |------|---------------------------|-----------------------|------------------------------------------|
 | 1259 | Chalcostetha chalcostetha | **सामान्य ताम्रोरस्** | Maklot's Sunbird **श्याम-देश शींजिरिका** |
 
-
-
 **AETHOPYGA** (genus) **सुवर्णपुष्प-प्रजाति**
 
 (the birds in this genus are yellow **सुवर्ण**, they haunt the beds of flowering plants and food both on nectar and tiny insccts. **सुवर्णपुष्प** occurs in **वायु-पुराण ३९. १८**)  
 
-
 [TABLE]
-
-
-
-
-
-
 
 **LEPTOCOMA** (genus) **शींजिरिका-प्रजाति**
 
@@ -2884,14 +2297,11 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-
-
 **ANTHREPTES** (genus) **रेखोदर-प्रजाति**
 
 (abdomen **उदर** yellow streaked **रेखा** with brownish-green)
 
 [TABLE]
-
 
 **ARACHNOTHERINAE** (subfamily) **लूताशानुवंश**
 
@@ -2900,8 +2310,6 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 ARACHNOTHERA (genus)**लूताश**
 
 [TABLE]
-
-
 
 **DICAEIDAE** (family) **पुष्पान्वेपि-वंश**
 
@@ -2920,11 +2328,7 @@ ARACHNOTHERA (genus)**लूताश**
 | 1303 | Dicaeum ignipectum ignipectum     | **सामान्य अग्नि वक्षस् पुष्पान्वेषी** | The Fire-breasted Flower-pecker **अग्नि-वक्षस् पुष्प-प्रिय**                 |
 | 1304 | Dicaeum concolor concolor         | **सामान्य सम-वर्ण पुष्पान्वेषी**      | The Nilgiri Flower-pecker **नील-गिरि पुष्प-प्रिय**                           |
 
-
-
 [TABLE]
-
-
 
 **ACMONORHYNCHUS** (genus) **गौरवक्षस्-प्रजाति**
 
@@ -2932,32 +2336,21 @@ ARACHNOTHERA (genus)**लूताश**
 
 [TABLE]
 
-
-
-
-
 **PIPRISOMA** (genus) **त्रिकोणचंचु-प्रजाति**
 
 (if the bill is viewed from above, it looks like an equilateral triangle **त्रिकोण** with the sides sinuated)  
 
-
 [TABLE]
-
-
 
 **ANAIMOS** (genus) **शोणवक्षस्-प्रजाति**
 
 [TABLE]
-
-
 
 **PACHYGLOSSA** (genus) **हारिद्रोदर-प्रजाति**
 
 (lower plumage **उदर** bright yellow **हारिद्र**)
 
 [TABLE]
-
-
 
 ![](../books_images/1672746978.jpg)
 
@@ -2977,31 +2370,21 @@ ARACHNOTHERA (genus)**लूताश**
 
 [TABLE]
 
-
-
 **PITTA** (genus) **पद्मपुष्प-प्रजाति**
 
 (the colour of the birds in this genus is like a lotus, **पद्मपुष्प** an ancient word for a kind of bird)
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 **EURYLAIMIDAE** (family) **पृथुतुण्डक-वंश**
-
-
 
 **EURYLAIMUS** (genus) **पृथुतुण्डक-प्रजाति**
 
 (in this genus the bill is large, broad and flat)
 
 [TABLE]
-
-
 
 **CORYDON** (genus) **मूढ-प्रजाति**
 
@@ -3011,15 +2394,11 @@ ARACHNOTHERA (genus)**लूताश**
 |------|-------------------------|----------------------|----------------------------------------|
 | 1330 | Corydon corydon corydon | **सामान्य धूसर मूढ** | The Dusky Broadbill**धूसरपृथु-चंचु** |
 
-
-
 **CYMBIRHYNCHUS** (genus) **समचंचु-प्रजाति**
 
 (the bill is a little narrower and a little higher, whilst the edge of the upper mandible is straight, and not overhanging)
 
 [TABLE]
-
-
 
 **SERILOPHUS** (genus) **कोमलांग-प्रजाति**
 
@@ -3027,15 +2406,11 @@ ARACHNOTHERA (genus)**लूताश**
 
 [TABLE]
 
-
-
 **PSARISOMUS** (genus) **शुकांग-प्रजाति**
 
 (very similar to the parrot with a slight variation)
 
 [TABLE]
-
-
 
 **CALYPTOMENA** (genus) **गुप्ततुण्ड-प्रजाति**
 
@@ -3045,15 +2420,9 @@ ARACHNOTHERA (genus)**लूताश**
 
 हरित **गुप्त-तुण्ड**
 
-
-
 |      |                     |                      |                                        |
 |------|---------------------|----------------------|----------------------------------------|
 | 1336 | Calyptomena viridis | **हरितगुप्त-तुण्ड** | The Green Broadbill **हरित पृथु-चंचु** |
-
-
-
-
 
 CORACIIFORMES
 
@@ -3075,23 +2444,11 @@ CORACIIFORMES
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
-
-[TABLE]
-
-
 
 **CHRYSOPHLEGMA**(genus) **नारंगचूड-प्रजाति**
 
@@ -3099,14 +2456,11 @@ CORACIIFORMES
 
 [TABLE]
 
-
 CALLOLOPHUS (genus) **सुशिख-प्रजाति**
 
 (having a long and broad crest **सुशिख**)
 
 [TABLE]
-
-
 
 **GECINULUS** (genus) **त्र्यंगुलि-प्रजाति**
 
@@ -3117,14 +2471,11 @@ CALLOLOPHUS (genus) **सुशिख-प्रजाति**
 | 1356 | Gecinulus grantia grantia | **सामान्य पाण्डु-शीर्षत्र्यंगुलि** | The Pale-headed Woodpecker **पाण्डु-शीर्ष काष्ठकूट**                 |
 | 1357 | Gecinulus grantia viridis | **दक्षिण पाण्डु-शीर्षत्र्यंगुलि**  | The Southern Pale-headed Woodpecker **दक्षिण पाण्डु-शीर्ष काष्ठकूट** |
 
-
-
 **HYPOPICUS** (genus) **विचूड-प्रजाति**
 
 (the birds in this genus are without crest **विचूड**)
 
 [TABLE]
-
 
 ![](../books_images/1672747166.jpg)
 
@@ -3134,29 +2485,17 @@ CALLOLOPHUS (genus) **सुशिख-प्रजाति**
 |-------|----------------------------------|----------------------------|-----|
 | 1359a | Hypopicus hyperythrus annamensis | **शान-देश आरक्तोदर विचूड** |    |
 
-
-
 **DRYOBATES** (genus) **कुंकुमचूड-प्रजाति**
 
 (crest-feathers **चूडा** crimson **कुंकुम**)
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 |      |                               |                                        |                                                             |
 |------|-------------------------------|----------------------------------------|-------------------------------------------------------------|
 | 1373 | Dryobates analis andamanensis | **कृष्ण-द्वीप पट्टि-पुच्छकुंकुम-चूड** | The Andaman Pied Woodpecker **कृष्ण-द्वीप कर्बुर काष्ठकूट** |
-
-
 
 **LEIOPICUS** (genus) **क्षुद्रचूड-प्रजाति**
 
@@ -3164,15 +2503,11 @@ CALLOLOPHUS (genus) **सुशिख-प्रजाति**
 
 [TABLE]
 
-
-
 **YUNGIPICUS** (genus) **वामन-प्रजाति**
 
 (**वामन** pigmy)
 
 [TABLE]
-
-
 
 |      |                                |                        |                                                               |
 |------|--------------------------------|------------------------|---------------------------------------------------------------|
@@ -3183,8 +2518,6 @@ CALLOLOPHUS (genus) **सुशिख-प्रजाति**
 | 1381 | Yungipicus nanus brunneiceps   | **उत्तर रेखित वामन**   | The Northern Indian Pigmy Woodpecker **उत्तर वामनकाष्ठकूट**  |
 | 1382 | Yungipicus nanus gymnopthalmos | **लंका रेखित वामन**    | The Ceylon Pigmy Woodpecker **लंका वामन काष्ठ-कूट**           |
 
-
-
 **BLYTHIPICUS** (genus) **रक्तघाट-प्रजाति**
 
 (a scarlet crimson band on the nape **घाटा**)
@@ -3194,8 +2527,6 @@ CALLOLOPHUS (genus) **सुशिख-प्रजाति**
 | 1383 | Blythipicus pyrrhotis pyrrhotis | **सामान्य रक्त-कर्ण रक्त-घाट** | The Red-eared Bay Woodpecker **रक्त-कर्ण हरि-वर्णकाष्ठकूट**(bay **हरि**) |
 | 1384 | Blythipicus rubiginosus         | **मलयक रक्त-घाट**              | The Malay Bay Woodpecker **मलयक हरि-वर्ण काष्ठकूट**                        |
 
-
-
 MIGLYPTES (genus) मास्थाल-प्रजाति
 
 \[ **मा** not + **स्थल** ground-never descending to the ground. **मास्थाल** occurs in **गौतमस्मृति** (in **स्मृतीनां**  
@@ -3203,17 +2534,11 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 
 [TABLE]
 
-
-
 **MICROPTERNUS** (genus) **लघुपर्णिक-प्रजाति**
 
 (Gk. mikros small **लघु** + pteron feather **पर्ण**)
 
-
-
 [TABLE]
-
-
 
 **BRACHYPTERNUS** (genus) **हेमपृष्ठ-प्रजाति**
 
@@ -3221,15 +2546,11 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 
 [TABLE]
 
-
-
 **DINOPIUM** (genus) **व्यंगि-प्रजाति**
 
 (**व्यंगी** because it has no hallux)
 
 [TABLE]
-
-
 
 **CHLOROPICOIDES** (genus) **कृष्णघाट-प्रजाति**
 
@@ -3239,8 +2560,6 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 |------|--------------------------------------|------------------------------|---------------------------------------------------------------|
 | 1402 | Chloropicoides rafflesi peninsularis | **मलयक काल-पुच्छ कृष्ण-घाट** | The Malayan Three-toed Woodpecker**मलयकत्र्यंगुल काष्ठकूट** |
 
-
-
 **CHRYSOCOLAPTES** (genus) **दृढपाद-प्रजाति**
 
 (the feet **पाद** are exceptionally strong **दृढ**)
@@ -3249,11 +2568,7 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 |------|-------------------------|-----------------------|----------------------------------------------------|
 | 1403 | Chrysocolaptes festivus | **काल-पृष्ठ दृढ-पाद** | The Black-backed Woodpecker **काल-पृष्ठ काष्ठकूट** |
 
-
-
 [TABLE]
-
-
 
 **HEMICIRCUS** (genus) **क्षुद्रपुच्छ-प्रजाति**
 
@@ -3261,34 +2576,23 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 
 [TABLE]
 
-
-
 |       |                             |                                  |                                                                  |
 |-------|-----------------------------|----------------------------------|------------------------------------------------------------------|
 | 1410 | Hemicircus canente cordatus | **केरल पर्णांकित क्षुद्रपुच्छ** | The Malabar Heart-spotted Woodpecker **केरल पर्णांकित काष्ठकूट** |
-
-
 
 **MULLERIPICUS** (genus) **भस्मिशतपत्र-प्रजाति**
 
 (**भस्मी** slaty; **शतपत्र** occurs in the **रामायण, महाभारत, हरिवंश**, etc.)  
 
-
 |      |                                     |                             |                                                            |
 |------|-------------------------------------|-----------------------------|------------------------------------------------------------|
 | 1411 | Mulleripicus pulverulentus harterti | **भारत बृहद् भस्मि-शतपत्र** | The Indian Great Slaty Woodpecker **भारत शतपत्र काष्ठकूट** |
-
-
 
 **MACROPICUS** (genus) **कृष्णशतपत्र-प्रजाति**
 
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **PICUMNINAE** (subfamily) **काष्ठकुट्टिकानुवंश**
 
@@ -3297,13 +2601,6 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 (in its general habits it is a typical little Woodpecker
 
 [TABLE]
-
-
-
-
-
-
-
 
 **SASIA** (genus) **कीचकि-प्रजाति**
 
@@ -3316,8 +2613,6 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 | 1421 | Sasia ochracea reichenowi | **ब्राह्म गैरिक कीचकी** | The Burmese Rufous Piculet **ब्राह्म गैरिक काष्ठ-कूटिका** |
 | 1422 | Sasia abnormis            | **श्याम-देश कीचकी**     | Temminck's Rufous Piculet **श्याम-देश गैरिक काष्ठकूटिका** |
 
-
-
 **IYNGINAE** (subfamily) **साचिग्रीवानुवंश**
 
 (**साचिग्रीव**Wryneck. **साचि** wry, crooked)
@@ -3328,16 +2623,11 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 
 [TABLE]
 
-
 **THEREICERYX** (genus) **कुटरु-प्रजाति**
 
 (**कुटरु** ancient word. Cf. Can. katur haki, Tamil kutur, Sing. Kotaruwa)
 
 [TABLE]
-
-
-
-
 
 **CHOTORHEA** (genus) **हेमक-प्रजाति**
 
@@ -3347,23 +2637,17 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 |------|---------------------------------------|-----------------------|----------------------------------|
 | 1435 | Chotorhea mystacophanes mystacophanes | **सामान्य शोभन हेमक** | The Gaudy Barbet **शोभन पिप्पल** |
 
-
-
 **CYANOPS** (genus) **वासन्तिक-प्रजाति**
 
 (**वासन्तिक** from Hindi **वसन्ता**)
 
 [TABLE]
 
-
-
 **XANTHOLAEMA** (genus) **दण्डिमाणव-प्रजाति**
 
 (**दण्डिमाणव** occurs in **चरक**. The bird is socalled on account of its resemblance to a drummer boy, beating the drum and moving his head from side to side, in allusion to its metallic notes, sounding much like blows on an anvil, and very ventriloquistic, the bird moving its head from side to side with each note)
 
 [TABLE]
-
-
 
 **INDICATORIDAE**(family)**मधुमाक्षिक-वंश**
 
@@ -3375,8 +2659,6 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 |------|-----------------------|---------------------------|---------------------------------------------------------|
 | 1450 | Indicator Xanthonotus | **पीत-पृष्ठ मधु-माक्षिक** | The Yellow-backed Honey-Guide**पीत-पृष्ठ मधु-माक्षिक** |
 
-
-
 **CUCULI** (suborder) **परभृतानुगण**
 
 **CUCULIDAE** (family) **परभृत-वंश**
@@ -3387,15 +2669,11 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 
 [TABLE]
 
-
-
 **HIEROCOCCYX** (genus)**बभ्रुक-प्रजाति**
 
 (**बभ्रुक** occurs in **चरक**)
 
 [TABLE]
-
-
 
 **CACOMANTIS** (genus) **वर्षप्रिय-प्रजाति**
 
@@ -3403,23 +2681,17 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 
 [TABLE]
 
-
-
 **PENTHOCERYX** (genus) **राजपट्टिक-प्रजाति**
 
 (**राजपट्टिक** ancient word)
 
 [TABLE]
 
-
-
 **CHALCITES** (genus) **हरीतक-प्रजाति**
 
 (**हरीतक** ancient word)
 
 [TABLE]
-
-
 
 **SURNICULUS** (genus) **प्रियक-प्रजाति**
 
@@ -3431,15 +2703,11 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 | 1470 | Surniculus lugubris dicruroides | **भारतसुस्वरप्रियक**  | The Indian Drongo-Cuckoo**भारतप्रियक**    |
 | 1471 | Surniculus lugubris stewarti    | **सिंहलसुस्वरप्रियक** | The Ceylon Drongo-Cuckoo**सिंहलप्रियक**   |
 
-
-
 **CLAMATOR** (genus) **शबल-प्रजाति**
 
 (**शबल**pied)
 
 [TABLE]
-
-
 
 **EUDYNAMINAE** (subfamily) **काकपुष्टानुवंश**
 
@@ -3448,8 +2716,6 @@ MIGLYPTES (genus) मास्थाल-प्रजाति
 (**काकपुष्ट** young fed by crows)
 
 [TABLE]
-
-
 
 **PHOENICOPHAINAE** (subfamily) **कैरातानुवंश**
 
@@ -3461,17 +2727,13 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 |------|------------------------|---------------------|-----------------------------------------------------------|
 | 1477 | Zanclostomus javanicus | **रक्त-चंचु कैरात** | The Lesser Red-billed Malkoha **क्षुद्र रक्त-चंचु कैरात** |
 
-
 **RHOPODYTES** (genus) **हरितचंचु-प्रजाति**
 
 (green-billed **हरित चंचु**)
 
 [TABLE]
 
-
-
 [TABLE]
-
 
 **RHAMPHOCOCCYX** (genus) **कोकिलास्य-प्रजाति**
 
@@ -3479,24 +2741,17 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 |------|------------------------------|-----------------------|-------------------------------------------------|
 | 1483 | Rhamphococcyx erythrognathus | **लोहोरस्कोकिलास्य** | The Chestnut-breasted Malkoha**लोहोरस्कैरात** |
 
-
-
 **PHOENICOPHAUS** (genus) **रक्तमुख-प्रजाति**
 
 (red-faced **रक्त-मुख**)
 
 [TABLE]
 
-
-
 **RHINORTHA** (genus) **हरितवर्त्मक-प्रजाति**
 
 (orbital skin **वर्त्मक**pale green or bluish-green **हरित**)  
 
-
 [TABLE]
-
-
 
 **TACCOCUA** (genus) **भूशुक-प्रजाति**
 
@@ -3504,17 +2759,11 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
-
-
 **CENTROPUS** (genus) **कुक्कुभ-प्रजाति**
 
 (**कुक्कुभ** ancient word)
 
 [TABLE]
-
-
 
 **PSITTACI** (suborder) **शुकानुगण**
 
@@ -3528,22 +2777,17 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
 **PSITTINUS** (genus) **लघुशुक-प्रजाति**
 
 |      |                                |                            |                                          |
 |------|--------------------------------|----------------------------|------------------------------------------|
 | 1512 | Psittinus cyanurus macropterus | **मलयक नील-पृष्ठ लघु-शुक** | The Little Malay Parrot **लघु मलयक शुक** |
 
-
-
 **CORYLLIS** (genus) **पुत्रशुक-प्रजाति**
 
 (**पुत्रशुक** ancient word)
 
 [TABLE]
-
-
 
 **CORACII** (suborder) **नीलकण्ठानुगण**
 
@@ -3555,8 +2799,6 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 **EURYSTOMUS** (genus) **हेमतुण्ड-प्रजाति**
 
 (**हेमतुण्ड** ancient word)
@@ -3566,8 +2808,6 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 | 1520 | Eurystomus orientalis orientalis | **सामान्य नील-कण्ठ हेम-तुण्ड**    | The Broad-billed Roller**नील-कण्ठ** **चाष**                |
 | 1521 | Eurystomus orientalis gigas      | **कृष्णद्वीपनील-कण्ठ हेम-तुण्ड** | The Andaman Broad-billed Roller **कृष्णद्वीप नील-कण्ठ चाष** |
 
-
-
 **MEROPIDAE** (family) **शार्ङ्ग-वंश**
 
 (**शार्ङ्ग** occurs in **महाभारत**)
@@ -3576,24 +2816,17 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 **MELITTOPHAGUS** (genus) **पुत्तिकाद-प्रजाति**
 
 |      |                                               |                                  |                                                     |
 |------|-----------------------------------------------|----------------------------------|-----------------------------------------------------|
 | 1528 | Melittophagus erythrocephalus erythrocephalus | **सामान्य रक्त-शीर्ष पुत्तिकाद** | The Chestnut-headed Bee-eater**रक्त-शीर्षदिव्यक** |
 
-
-
 **ALCEMEROPS** (genus) **पिप्पका-प्रजाति**
 
 (**पिप्पका** occurs in **वाजसनेयि-संहिता**)  
 
-
 [TABLE]
-
-
 
 **ALCEDINIDAE** (family) **मत्सरंक-वंश**
 
@@ -3603,15 +2836,11 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 **ALCEDO** (genus) **मणीचक-प्रजाति**
 
 (**मणीचक**ancient word)
 
 [TABLE]
-
-
 
 **CEYX** (genus) **दीदिवि-प्रजाति**
 
@@ -3622,25 +2851,17 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 | 1544 | Ceyx tridactylus tridactylus | **सामान्य त्र्यंगुलि दीदिवि**    | The Indian Three-toed Kingfisher **भारत त्र्यंगुलि मीनरंक**        |
 | 1545 | Ceyx tridactylus macrocercus | **कृष्णद्वीप त्र्यंगुलि दीदिवि** | The Andaman Three-toed Kingfisher **कृष्णद्वीप त्र्यंगुलि मीनरंक** |
 
-
-
-
-
 **RAMPHALCYON** (genus) **गुरुतुण्ड-प्रजाति**
 
 (a very strong, large **गुरु** bill **तुण्ड**, Cf. Hindi **गुरदल**)
 
 [TABLE]
 
-
-
 **HALCYON** (genus) **किकीदिवि-प्रजाति**
 
 (**किकीदिवि** ancient word)
 
 [TABLE]
-
-
 
 **ENTOMOTHERA** (genus) **मत्स्यरंक-प्रजाति**
 
@@ -3650,8 +2871,6 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 |------|---------------------------------|----------------------------------|------------------------------------------------------------|
 | 1555 | Entomothera coromanda coromanda | **सामान्य लोहिताभ मत्स्यरंक**    | The Indian Ruddy Kingfisher **भारत** **लोहिताभमीनरंक**    |
 | 1556 | Entomothera coromanda mizorhina | **कृष्णद्वीप लोहिताभ मत्स्यरंक** | The Andaman Ruddy Kingfisher **कृष्णद्वीप लोहिताभ मीनरंक** |
-
-
 
 **SAUROPATIS** (genus) **कुलीराश-प्रजाति**
 
@@ -3664,8 +2883,6 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 | 1559 | Sauropatis chloris occipitalis | **नग्नद्वीप सित-कण्ठकुलीराश**  | The Nicobar White-collared Kingfisher **नग्नद्वीप सित-कण्ठ मीनरंक**  |
 | 1560 | Sauropatis chloris davisoni    | **कृष्णद्वीप सित-कण्ठ कुलीराश** | The Andaman White-collared Kingfisher **कृष्णद्वीप सित-कण्ठ मीनरंक** |
 
-
-
 **CARIDAGRUS** (genus) **सरटाश-प्रजाति**
 
 (it feeds exclusively on lizards **सरट**)
@@ -3674,8 +2891,6 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 |------|----------------------|--------------------|---------------------------------------------|
 | 1561 | Caridagrus concretus | **सुमात्रा सरटाश** | The Sumatran Kingfisher **सुमात्रा मीनरंक** |
 
-
-
 **LACEDO** (genus) **सुचित्रक-प्रजाति**
 
 (**सुचित्रक** Ancient word)
@@ -3683,8 +2898,6 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 |      |                            |                             |                                                      |
 |------|----------------------------|-----------------------------|------------------------------------------------------|
 | 1562 | Lacedo pulchellan amabilis | **ब्राह्म पट्टित सुचित्रक** | The Pegu Banded Kingfisher **ब्राह्म पट्टित मीनरंक** |
-
-
 
 **BUCEROTIDAE**(lamily) **प्रियात्मज-वंश**
 
@@ -3696,25 +2909,17 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 **HYDROCISSA** (genus) **वार्ध्रीणस-प्रजाति**
 
 (**वार्ध्रीणस** occurs in **याज्ञवल्क्य-स्मृति**)
 
 [TABLE]
 
-
-
 **RHYTICEROS** (genus) **वलिचंचु-प्रजाति**
 
 (Gk, rhytis & wrinkle **वलि**)
 
 [TABLE]
-
-
-
-
 
 **ACEROS** (genus) **मातृनिन्दक-प्रजाति**
 
@@ -3724,23 +2929,17 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 |------|-------------------|-----------------------|----------------------------------------------------|
 | 1570 | Aceros nepalensis | **नेपाल मातृ-निन्दक** | The Rufous-necked Hornbill **रक्त-ग्रीव वाध्रीणस** |
 
-
-
 **ANORRHINUS** (genus) **क्रकचतुण्ड-प्रजाति**
 
 ( both mandibles **तुण्ड** are serrated like a saw**क्रकच**)
 
 [TABLE]
 
-
-
 **PTILOLAEMUS** (genus) **पत्रकण्ठ-प्रजाति**
 
 (differs from the genus Anorrhinus principally in having the throat **कण्ठ** well feathered **पत्र**)
 
 [TABLE]
-
-
 
 **BERENICORNIS** (genus) **हूरव-प्रजाति**
 
@@ -3750,26 +2949,19 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 |------|----------------------|---------------------|--------------------------------------------------|
 | 1574 | Berenicornis comatus | **दीर्घ-शिखहू-रव** | The Long-crested Hornbill **दीर्घ-शिख वाध्रीणस** |
 
-
-
 **TOCKUS** (genus) **दीर्घवाल-प्रजाति**
 
 (**दीर्घ** long+**वाल** hair)
 
 [TABLE]
 
-
-
 **RHINOPLAX** (genus) **अवगण्डक-प्रजाति**
 
 (**अवगण्डक** occurs in **कल्पद्रुकोश** The colour of back and exposed wings brownish black which looks like the pimples on the face **अवगण्ड**)  
 
-
 |      |                 |                         |                                                |
 |------|-----------------|-------------------------|------------------------------------------------|
 | 1578 | Rhinoplax vigil | **कृष्ण-ग्रीव अवगण्डक** | The Helmeted Hornbill **कृष्ण-ग्रीववाध्रीणस** |
-
-
 
 **UPUPIDAE** (family) **पुत्रप्रिय-वंश**
 
@@ -3779,8 +2971,6 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 **TROGONES** (suborder) **लोहानुगण**
 
 (**लोह** occurs in **मार्कण्डेय पुराण**)
@@ -3789,11 +2979,7 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 **HARPACTES** (genus) **लोह-प्रजाति**
 
-
-
 [TABLE]
-
-
 
 **CYPSELI** (suborder) **अलिलानुगण**
 
@@ -3809,22 +2995,13 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 **CYPSIURUS** (genus) **तालचटिका-प्रजाति**
 
 (they are fond of the Palmyra-palm **ताल**Cf. Hindi **तालचट्टा**)  
 
-
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
 
 **CHAETURINAE** (subfamily) **शूकवालानुवंश**
 
@@ -3834,15 +3011,11 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 **INDICAPUS** (genus) **शुक्लकटि-प्रजाति**
 
 (**शुक्ल** white+**कटि** rump)
 
 [TABLE]
-
-
 
 **RHAPHIDURA** (genus)**सूचीपुच्छ-प्रजाति**
 
@@ -3852,15 +3025,11 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 |------|--------------------------|-------------------------|---------------------------------------------------------------|
 | 1607 | Rhaphidura leucopygialis | **धूसर-कटिसूची-पुच्छ** | The Grey-rumped Black Spinetail **धूसर-कटि कृष्ण कण्ट-पुच्छ** |
 
-
-
 **COLLOCALIA** (genus)**गिरिशा-प्रजाति**
 
 (breeds in rocky caves)
 
 [TABLE]
-
-
 
 **HEMIPROCNINAE** (subfamily) **एकपुत्रकानुवंश**
 
@@ -3869,8 +3038,6 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 **HEMIPROCNE** (genus) **एकपुत्रक-प्रजाति**
 
 [TABLE]
-
-
 
 **CAPRIMULGI** (suborder) **छिप्पिकानुगण**
 
@@ -3882,15 +3049,11 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 **LYNCORNIS** (genus) **क्रतुयष्टि-प्रजाति**
 
 (has erectile ear-tufts)
 
 [TABLE]
-
-
 
 **PODARGI** (suborder) **भेकमुखानुगण**
 
@@ -3902,8 +3065,6 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 **STRIGES** (suborder) **उलूकानुगण**
 
 **TYTONIDAE** (family) **श्वेतोलूक-वंश**
@@ -3913,8 +3074,6 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 (**श्वेतोलूक** ancient word)
 
 [TABLE]
-
-
 
 **ASIONIDAE** (family) **कर्णिक-वंश**
 
@@ -3930,8 +3089,6 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 | 1640 | Phodilus badius saturatus | **उत्तर श्याव पिंगलक**   | The Northern Bay Owl **उत्तर पिंगल उलूक** |
 | 1641 | Phodilus badius assimilis | **सिंहल श्याव पिंगलक**   | The Ceylon Bay Owl **सिंहल पिंगल उलूक**   |
 
-
-
 **ASIONINAE** (subfamily) **कर्णिकानुवंश**
 
 **ASIO** (genus) **कर्णिक-प्रजाति**
@@ -3943,15 +3100,11 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 | 1642 | Asio otus otus         | **सामान्य दीर्घ कर्णिक** | The Long-eared Owl **शशोलूक, शश-कर्ण उलूक, दीर्घकर्ण उलूक** |
 | 1643 | Asio flammeus flammeus | **सामान्य लघु कर्णिक**   | The Short-eared Owl **लघु-कर्ण उलूक**                       |
 
-
-
 **STRIX** (genus) **वनधूक-प्रजाति**
 
 (**वनधूक** ancient word)
 
 [TABLE]
-
-
 
 **BUBONINAE** (subfamily) **कौशिकानुवंश**
 
@@ -3963,15 +3116,11 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 **BUBO** (genus) **वायसान्तक-प्रजाति**
 
 (their principal food is crows **वायस**. **वायसान्तक** crow-destroyer)
 
 [TABLE]
-
-
 
 **HUHUA** (genus) **शुशूलूक-प्रजाति**
 
@@ -3979,23 +3128,17 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 **NYCTEA** (genus) **हिमोलूक-प्रजाति**
 
 |      |               |                     |                            |
 |------|---------------|---------------------|----------------------------|
 | 1665 | Nyctea nyctea | **सामान्य हिमोलूक** | The Snowy Owl **हिम उलूक** |
 
-
-
 **OTUS** (genus) **ऊर्ध्वकर्ण-प्रजाति**
 
 (**ऊर्ध्वकर्ण** ancient word-having erect **ऊर्ध्व** ears **कर्ण**)
 
 [TABLE]
-
-
 
 **ATHENE** (genus) **कुवय-प्रजाति**
 
@@ -4005,15 +3148,11 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 **NINOX** (genus) **पेचक-प्रजाति**
 
 (**पेचक** ancient word)
 
 [TABLE]
-
-
 
 **ACCIPITRES**
 
@@ -4031,8 +3170,6 @@ ZANCLOSTOMUS (genus) **कैरात-प्रजाति**
 
 [TABLE]
 
-
-
 AEGYPIIDAE (family) **गृध्र-वंश**
 
 (**गृध्र** ancient word)
@@ -4043,16 +3180,11 @@ AEGYPIIDAE (family) **गृध्र-वंश**
 
 [TABLE]
 
-
-
 **SARCOGYPS** (genus) **कर्णिगृध्र-प्रजाति**
 
 (**कर्णिगृध्र** ancient word)  
 
-
 [TABLE]
-
-
 
 **GYPS** (genus) **पाण्डुर-प्रजाति**
 
@@ -4060,23 +3192,17 @@ AEGYPIIDAE (family) **गृध्र-वंश**
 
 [TABLE]
 
-
-
 PSEUDOGYPS (genus) **शितिकक्षि**
 
 (**शितिकक्षी** ancient word)
 
 [TABLE]
 
-
-
 **NEOPHRON** (genus) **भासक-प्रजाति**
 
 (**भासक** ancient word)
 
 [TABLE]
-
-
 
 **FALCONIDAE** (family) **श्येन-वंश**
 
@@ -4090,8 +3216,6 @@ PSEUDOGYPS (genus) **शितिकक्षि**
 
 [TABLE]
 
-
-
 **FALCONINAE** (subfamily) **श्येनानुवंश**
 
 **FALCO** (genus) **श्येन-प्रजाति**
@@ -4100,13 +3224,7 @@ PSEUDOGYPS (genus) **शितिकक्षि**
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
 
 **MICROHIERAX** (genus) **क्षुद्रश्येन-प्रजाति**
 
@@ -4119,15 +3237,11 @@ PSEUDOGYPS (genus) **शितिकक्षि**
 | 1735 | Microhierax coerulescens burmanicus   | **ब्राह्म रक्त-पाद क्षुद्र-श्येन** | The Burmese Red-legged Falconet **ब्राह्म रक्त-पाद क्षुद्र-श्येन**  |
 | 1736 | Microhieraxmelanoleucusmelanoleucus | **सामान्य सित-पाद क्षुद्र-श्येन**  | The Indian White-legged Falconet **भारत सित-पाद क्षुद्र-श्येन**     |
 
-
-
 **NEOHIERAX** (genus) **श्येनक-प्रजाति**
 
 (**श्येनक** ancient word)
 
 [TABLE]
-
-
 
 **ERYTHROPUS** (genus) **रक्तपाद-प्रजाति**
 
@@ -4135,16 +3249,11 @@ PSEUDOGYPS (genus) **शितिकक्षि**
 
 [TABLE]
 
-
-
 **CERCHNEIS** (genus) **खभ्रान्ति-प्रजाति**
 
 (the bird is in the habit of hovering **भ्रान्ति** in the air. **खभ्रान्ति** ancient word)  
 
-
 [TABLE]
-
-
 
 **AQUILA** (genus) **गरुड-प्रजाति**
 
@@ -4158,8 +3267,6 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **LOPHOTRIORCHIS** (genus) **दीर्घशिख-प्रजाति**
 
 (the genus differs from Hieraetus in having a long **दीर्घ**crest **शिखा**)
@@ -4168,15 +3275,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 |------|------------------------|-----------------------|------------------------------------------------------|
 | 1754 | Lophotriorchis kieneri | **रक्तोदरदीर्घ-शिख** | The Rufous-bellied Hawk-Eagle**रक्तोदर वाज-सुपर्ण** |
 
-
-
 **ICTINAETUS** (genus) **भल्लूक-प्रजाति**
 
 |      |                                |                     |                                            |
 |------|--------------------------------|---------------------|--------------------------------------------|
 | 1755 | Ictinaetus malayensis perniger | **भारत कालभल्लूक** | The Indian Black Eagle **भारत काल सुपर्ण** |
-
-
 
 **LIMNAETOPS** (genus) **शशादन-प्रजाति**
 
@@ -4184,15 +3287,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **CIRCAETUS** (genus) **चक्रचारि-प्रजाति**
 
 (**चक्रचारी** occurs in **हरिवंश**. It spends much time circling round high up in the air)
 
 [TABLE]
-
-
 
 **HAEMATORNIS** (genus) **सर्पारि-प्रजाति**
 
@@ -4200,15 +3299,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **BUTASTUR** (genus) **सरटारि-प्रजाति**
 
 (**सरट** lizard + **अरि** enemy)
 
 [TABLE]
-
-
 
 **HALIAETUS** (genus) **उत्क्रोश-प्रजाति**
 
@@ -4216,15 +3311,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **ICHTHYOPHAGA** (genus) **मीनाश-प्रजाति**
 
 (Gk. ichthyos fish **मीन** + phaga eating **अश**)
 
 [TABLE]
-
-
 
 **HALLASTUR** (genus) **लोहपृष्ठ-प्रजाति**
 
@@ -4232,21 +3323,13 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **MILVUS** (genus) **चिरंभण-प्रजाति**
 
 (**चिरंभण**ancient word. Their call is a loud, shrill squeal, a prolonged **चिरं** sound **भण**)
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
 
 **ELANUS** (genus) **शबलिका-प्रजाति**
 
@@ -4254,13 +3337,9 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **CIRCUS** (genus) **भ्रामिक-प्रजाति**
 
 [TABLE]
-
-
 
 **BUTEO** (genus) **मूषकाद-प्रजाति**
 
@@ -4268,15 +3347,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **ASTUR** (genus) **प्राजि-प्रजाति**
 
 (**प्राजी** ancient word)
 
 [TABLE]
-
-
 
 **ACCIPITER** (genus) **वाजि-प्रजाति**
 
@@ -4284,15 +3359,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **PERNIS** (genus) **मधुहा-प्रजाति**
 
 (**मधुहा** occurs in **चरक**)
 
 [TABLE]
-
-
 
 **MACHAERAMPHUS** (genus) **जतुकाद-प्रजाति**
 
@@ -4302,15 +3373,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 |------|-----------------------|---------------------|----------------------------------------------|
 | 1821 | Machaeramphus alcinus | **तनु-चंचु जतुकाद** | The Slender-billed Pern **तनु-चंचु जतु-वाज** |
 
-
-
 **BAZA** (genus) **नीलपिच्छ-प्रजाति**
 
 (**नीलपिच्छ** ancient word)
 
 [TABLE]
-
-
 
 **COLUMBAE**
 
@@ -4330,14 +3397,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
 **DENDROPHASSA** (genus) **क्षुपनीड-प्रजाति**
 
 (it makes the usual fragile platform of twigs to serve as nests **नीड**, placed in high bushes **क्षुप** and small trees)
 
 [TABLE]
-
-
 
 **TRERON** (genus) **हरितालक-प्रजाति**
 
@@ -4345,23 +3409,17 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **BUTRERON** (genus) **हरिदंग-प्रजाति**
 
 |      |                   |                  |                                                                 |
 |------|-------------------|------------------|-----------------------------------------------------------------|
 | 1839 | Butreron capellei | **बृहद् हरिदंग** | The Large Thick-billed Green Pigeon **बृहत् स्थूल-चंचु हरिताल** |
 
-
-
 **SPHENOCERCUS** (genus) **कोक-प्रजाति**
 
 (**कोक** ancient word)
 
 [TABLE]
-
-
 
 **DUCULINAE** (subfamily) **दुकूलानुवंश**
 
@@ -4371,24 +3429,17 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **MUSCADIVORA** (genus) **वर्धमान-प्रजाति**
 
 (**वर्धमान** occurs in **पालकाप्य**)
 
 [TABLE]
 
-
-
 **MYRISTICIVORA** (genus) **जातिफलाश-प्रजाति**
 
 (during the season they feed almost exclusively on nutmegs **जातिफल**)  
 
-
 [TABLE]
-
-
 
 **CALOENADINAE** (subfamily) **कण्ठकेशानुवंश**
 
@@ -4400,10 +3451,6 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 |------|--------------------------------|--------------------------------|-----------------------------------------|
 | 1851 | Caloenas nicobarica nicobarica | **सामान्य नग्नद्वीप कण्ठ-केश** | The Nicobar Pigeon **नग्नद्वीप पारावत** |
 
-
-
-
-
 **PHABINAE** (subfamily) **हारितानुवंश**
 
 **CHALCOPHAPS** (genus)**हारीत-प्रजाति**
@@ -4411,8 +3458,6 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 (**हारीत** ancient word)
 
 [TABLE]
-
-
 
 **COLUMBINAE** (subfamily) **पारावतानुवंश**
 
@@ -4422,15 +3467,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **ALSOCOMUS**(genus) **वनराजिक-प्रजाति**
 
 (this is a bird of forests and thickly-wooded cultivated tracts)
 
 [TABLE]
-
-
 
 **IANTHOENAS** (genus) **पाटलापांग-प्रजाति**
 
@@ -4440,22 +3481,15 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 |------|------------------------|--------------------------|-----------------------------------------------------|
 | 1866 | Ianthoenas palumboides | **कृष्णद्वीप पाटलापांग** | The Andamanese Wood-Pigeon **कृष्णद्वीप वन-पारावत** |
 
-
-
 **DENDROTRERON** (genus) **वृक्षपारावत-प्रजाति**
 
 (their nests are built on small trees**वृक्ष** in dense forests)  
 
-
 [TABLE]
-
-
 
 **STREPTOPELIA** (genus) **पाण्डुक-प्रजाति**
 
 [TABLE]
-
-
 
 **OENOPOPELIA** (genus) **अरुणकपोत-प्रजाति**
 
@@ -4463,15 +3497,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **MACROPYGIA** (genus) **दीर्घबर्ह-प्रजाति**
 
 (the feathers **बर्ह** are greater in length **दीर्घ**)
 
 [TABLE]
-
-
 
 **GEOPELIINAE** (subfamily) **भूकपोतानुवंश**
 
@@ -4482,8 +3512,6 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 |      |                          |                            |                                            |
 |------|--------------------------|----------------------------|--------------------------------------------|
 | 1887 | Geopelia striata striata | **सामान्य पट्टित भू-कपोत** | The Barred Ground-Dove **पट्टित भू-कपोतक** |
-
-
 
 **PTEROCLETES**
 
@@ -4499,15 +3527,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **SYRRHAPTES** (genus) **व्यंगपाद-प्रजाति**
 
 (distinguished by having no hallux)
 
 [TABLE]
-
-
 
 **GALLINAE**
 
@@ -4531,8 +3555,6 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **ARGUSIANINAE** (subfamily) **चन्द्रपक्षानुवंश**
 
 **ARGUSIANUS** (genus) **चन्द्रपक्ष-प्रजाति**
@@ -4541,15 +3563,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 |------|------------------|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1899 | Argusianus argus | **तनुश्रीचन्द्र-पक्ष** | The Argus Pheasant (Gk. Argos a giant of vast strength who had a hundred shining eyes: upon his death, these eyes were placed by Juno on the tail of a peacock) **चन्द्रकी जीवक** (Prakrit **जीवक**is short for Sanskrit **जीव-जीवक** |
 
-
-
 **POLYPLECTRON** (genus) **सारपाद-प्रजाति**
 
 (**सारपाद** ancient word--the tarsi are long and strong **सार**)
 
 [TABLE]
-
-
 
 **PHASIANINAE** (subfamily) **विष्किरानुवंश**
 
@@ -4559,15 +3577,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **SYRMATICUS** (genus) **महापुच्छ-प्रजाति**
 
 (the tail is very long)
 
 [TABLE]
-
-
 
 **PHASIANUS** (genus) **सुवर्णपृष्ठ-प्रजाति**
 
@@ -4575,23 +3589,17 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **CATREUS** (genus) **काहल-प्रजाति**
 
 (**काहल** ancient word)
 
 [TABLE]
 
-
-
 **CERIORNIS** (genus) **त्रिशिख-प्रजाति**
 
 (the head has a well developed crest and two long plumes of feathers starting from above the ear-coverts)
 
 [TABLE]
-
-
 
 **CHRYSOLOPHUS** (genus) **रक्तचूल-प्रजाति**
 
@@ -4601,15 +3609,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 |------|-------------------------|------------------------------------|-----|
 | 1915 | Chrysolophus amherstiae | **शान देश रक्त-चूल रक्त-चूल जीवक** | -   |
 
-
-
 **LOPHURA** (genus) **अरुणपृष्ठ-प्रजाति**
 
 (lower back **पृष्ठ** a fiery golden-red **अरुण**)
 
 [TABLE]
-
-
 
 **GENNAEUS** (genus) **रक्तवर्त्मक-प्रजाति**
 
@@ -4617,23 +3621,17 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **LOPHOPHORUS** (genus) **इन्द्राभ-प्रजाति**
 
 (**इन्द्राभ** ancient word)
 
 [TABLE]
 
-
-
 **CROSSOPTILON** (genus) **शृंगि-प्रजाति**
 
 (their ear-coverts are so prolonged that they stick out behind the head like two small horns**शृंगी**)
 
 [TABLE]
-
-
 
 **PERDICINAE** (subfamily) **तित्तिरि-अनुवंश**
 
@@ -4645,15 +3643,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **ITHAGINIS** (genus) **मृदुचूड-प्रजाति**
 
 (there is a full soft **मृदु** crest **चूडा**)
 
 [TABLE]
-
-
 
 **OPHRYSIA** (genus) **गिरिवर्तक-प्रजाति**
 
@@ -4661,15 +3655,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **GALLOPERDIX**(genus) **कुक्कुटक-प्रजाति**
 
 (**कुक्कुटक** ancient word)
 
 [TABLE]
-
-
 
 **BAMBUSICOLA** (genus) **वेणुवासि-प्रजाति**
 
@@ -4680,15 +3670,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 | 1945 | Bambusicola fytchii fytchii    | **सामान्य भस्म-शीर्ष वेणु-वासी** | The Yunnan Bamboo-Partridge**चीन** **वेणु-तित्तिर** |
 | 1946 | Bambusicola fytchii hopkinsoni | **कामरूप भस्म-शीर्ष वेणु-वासी**  | The Assam Bamboo-Partridge **कामरूप वेणु-तित्तिर**      |
 
-
-
 **ROLLULUS** (genus) **भालकेशि-प्रजाति**
 
 (both sexes have a tuft of hair-like bristles from the middle of the forehead **भाल**)
 
 [TABLE]
-
-
 
 **EXCALFACTORIA** (genus) **नीलोरस्-प्रजाति**
 
@@ -4696,24 +3682,17 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **COTURNIX** (genus) **वर्तिक-प्रजाति**
 
 (**वर्तिक** ancient word)
 
 [TABLE]
 
-
-
 **PERDICULA** (genus)**वार्तक-प्रजाति**
 
 (**वार्तक** ancient word)  
 
-
 [TABLE]
-
-
 
 **CRYPTOPLECTRON** (genus) **चित्रवर्ण-प्रजाति**
 
@@ -4721,15 +3700,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **ARBOROPHILA** (genus) **वृक्षतित्तिर-प्रजाति**
 
 (they frequent heavy tree-forests)
 
 [TABLE]
-
-
 
 **TROPICOPERDIX** (genus) **हरिपाद-प्रजाति**
 
@@ -4737,18 +3712,13 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **CALOPERDIX** (genus) **वनतित्तिर-प्रजाति**
 
 (it appears to frequent very dense humid jungle **वन**)  
 
-
 |      |                          |                              |                                                     |
 |------|--------------------------|------------------------------|-----------------------------------------------------|
 | 1970 | Caloperdix oculea oculea | **सामान्य लोहितवन-तित्तिर** | The Ferruginous Wood-Partridge **लोहित वन-तित्तिर** |
-
-
 
 **RHIZOTHERA** (genus) **नतचंचु-प्रजाति**
 
@@ -4756,21 +3726,15 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **ALECTORIS** (genus) **चकोर-प्रजाति**
 
 (**चकोर** ancient word)
 
 [TABLE]
 
-
-
 **AMMOPERDIX** (genus) **उपचकोर-प्रजाति**
 
 [TABLE]
-
-
 
 **FRANCOLINUS** (genus) **तित्तिरि-प्रजाति**
 
@@ -4778,13 +3742,9 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **PERDIX** (genus) **सूत्रकण्ठ-प्रजाति**
 
 [TABLE]
-
-
 
 **TETRAOGALLUS** (genus) **हिमतित्तिर-प्रजाति**
 
@@ -4792,15 +3752,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **LERWA** (genus) **तुषारतित्तिर-प्रजाति**
 
 (seems to be confined to a narrow strip of courtry running for an immense distance along the first two or three outer snow-ranges **तुषार** of the Himalayas)
 
 [TABLE]
-
-
 
 **PERISTOROPODES** (suborder) **कपोतांघ्रि-अनुगण**
 
@@ -4812,10 +3768,7 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 **MEGAPODIUS** (genus) **दीर्घचरण-प्रजाति**  
 
-
 [TABLE]
-
-
 
 **HEMIPODII**
 
@@ -4832,8 +3785,6 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 (**लाव** ancient word)
 
 [TABLE]
-
-
 
 **GRALLAE**
 
@@ -4855,8 +3806,6 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 
 [TABLE]
 
-
-
 **HYPOTAENIDIA** (genus) **रेखांगि-प्रजाति**
 
 (upper parts dark-brown marked with wavy white bars **रेखांगि**)
@@ -4866,8 +3815,6 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 | 2008 | Hypotaenidia striata gularis    | **भारतनीलोरस्रेखांगी**       | The Indian Blue-breasted Banded Rail**भारतनीलोरस् चित्र-कुक्कुटी**        |
 | 2009 | Hypotaenidia striata obscuriora | **कृष्णद्वीप नीलोरस्रेखांगी** | The Andaman Blue-breasted Banded Rail **कृष्णद्वीप नीलोरस् चित्र-कुक्कुटी** |
 
-
-
 **CREX** (genus) **शस्यकुक्कुटी-प्रजाति**
 
 (this is essentially a land bird keeping to dry fields of grass and crops **शस्य.**Cf. its English name Corn-Crake)
@@ -4876,15 +3823,11 @@ HIERAETUS (genus)**कपोतारि-प्रजाति**
 |------|-----------|---------------------------|-----------------------------------------------|
 | 2010 | Crex crex | **सामान्य शस्य-कुक्कुटी** | The Corn-Crake or Land-Rail**शस्य-कुक्कुटी** |
 
-
-
 PORZANA (genus)**कुक्कुटिका-प्रजाति**
 
 (**कुक्कुटिका** ancient word)
 
 [TABLE]
-
-
 
 **RALLINA** (genus) **चित्रांग-प्रजाति**
 
@@ -4892,15 +3835,11 @@ PORZANA (genus)**कुक्कुटिका-प्रजाति**
 
 [TABLE]
 
-
-
 **AMAURORNIS** (genus) **मलिनी-प्रजाति**
 
 (Gk. amauros of a dark colour)
 
 [TABLE]
-
-
 
 **GALLINULA** (genus) **अम्बुकुक्कुट-प्रजाति**
 
@@ -4908,15 +3847,11 @@ PORZANA (genus)**कुक्कुटिका-प्रजाति**
 
 [TABLE]
 
-
-
 **GALLICREX** (genus) **जलकुक्कुभ-प्रजाति**
 
 (**जलकुक्कुभ** ancient word)
 
 [TABLE]
-
-
 
 **PORPHYRIO** (genus)**राजीव-प्रजाति**
 
@@ -4924,15 +3859,11 @@ PORZANA (genus)**कुक्कुटिका-प्रजाति**
 
 [TABLE]
 
-
-
 **FULICA** (genus) **पारिप्लाव्य-प्रजाति**
 
 (**पारिप्लाव्य** ancient word)
 
 [TABLE]
-
-
 
 **HELIORNITHIDAE** (family) **जालांगुलिक-वंश**
 
@@ -4941,8 +3872,6 @@ PORZANA (genus)**कुक्कुटिका-प्रजाति**
 **HELIOPAIS** (genus) **जालांगुलिक-प्रजाति**
 
 [TABLE]
-
-
 
 **JACANAE** (suborder) **जलकोपि-अनुगण**
 
@@ -4962,8 +3891,6 @@ PORZANA (genus)**कुक्कुटिका-प्रजाति**
 
 [TABLE]
 
-
-
 **ROSTRATULAE** (suborder) **कुनाल-अनुगण**
 
 (**कुनाल** occurs in Buddhist literature)
@@ -4973,8 +3900,6 @@ PORZANA (genus)**कुक्कुटिका-प्रजाति**
 **ROSTRATULA** (genus) **कुनाल-प्रजाति**
 
 [TABLE]
-
-
 
 **GRUES** (suborder)**क्रौंचानुगण**
 
@@ -4986,23 +3911,17 @@ PORZANA (genus)**कुक्कुटिका-प्रजाति**
 
 [TABLE]
 
-
-
 **ANTIGONE** (genus) **सारस-प्रजाति**
 
 (**सारस** ancient word)
 
 [TABLE]
 
-
-
 **ANTHROPOIDES** (genus) **खर-प्रजाति**
 
 (they utter the high-pitched kurr, kurr, kurr in varying keys. Cf. Hindi karkarra)
 
 [TABLE]
-
-
 
 **OTIDES** (suborder) **सारंग-अनुगण**
 
@@ -5016,15 +3935,11 @@ PORZANA (genus)**कुक्कुटिका-प्रजाति**
 
 [TABLE]
 
-
-
 **TETRAX** (genus)**तिलमयूर-प्रजाति**
 
 (**तिलमयूर** ancient word)
 
 [TABLE]
-
-
 
 **CHORIOTIS** (genus) **गोनाद-प्रजाति**
 
@@ -5032,15 +3947,11 @@ PORZANA (genus)**कुक्कुटिका-प्रजाति**
 
 [TABLE]
 
-
-
 **CHLAMYDOTIS** (genus)**सारंग-प्रजाति**
 
 (**सारंग** ancient word)
 
 [TABLE]
-
-
 
 **SYPHEOTIDES** (genus) **शाद्वलि-प्रजाति**
 
@@ -5054,12 +3965,7 @@ PORZANA (genus)**कुक्कुटिका-प्रजाति**
 
 (**खिलिखिल** occurs in **अभिधान-चिन्तामणि**)  
 
-
 [TABLE]
-
-
-
-
 
 **CHARADRII  
 FORMES**
@@ -5076,15 +3982,9 @@ FORMES**
 
 (**पाणविक**occurs in **चरक**)
 
-
-
-
-
 **BURHINUS** (genus) **पाणविक-प्रजाति**
 
 [TABLE]
-
-
 
 **ESACUS** (genus) **दीर्घशिर-प्रजाति**
 
@@ -5092,15 +3992,11 @@ FORMES**
 
 [TABLE]
 
-
-
 **ORTHORAMPHUS** (genus) **असमचंचु-प्रजाति**
 
 (this genus differs from Esacus in having the culmen **चंचु** curved and convex**असम** instead of almost straight)
 
 [TABLE]
-
-
 
 **LARO-LIMICOLAE** (suborder) **तटकाकानुगण**
 
@@ -5114,15 +4010,11 @@ FORMES**
 
 [TABLE]
 
-
-
 **RHINOPTILUS** (genus) **पट्टवक्षस्-प्रजाति**
 
 (the breast has two bands across it)
 
 [TABLE]
-
-
 
 **GLAREOLINAE** (subfamily) **सैकतानुवंश**
 
@@ -5132,8 +4024,6 @@ FORMES**
 
 [TABLE]
 
-
-
 **DROMADIDAE** (family)**कर्कटाश-वंश**
 
 **DROMAS** (genus) **कर्कटाश-प्रजाति**
@@ -5141,8 +4031,6 @@ FORMES**
 (they feed chiefly on crabs **कर्कट**)
 
 [TABLE]
-
-
 
 **STERCORARIIDAE** (family) **लुण्टाक-वंश**
 
@@ -5154,8 +4042,6 @@ FORMES**
 
 [TABLE]
 
-
-
 **LARIDAE** (family) **वीचीकाक-वंश**
 
 (**वीचीकाक** occurs in **मार्कण्डेयपुराण**)
@@ -5163,8 +4049,6 @@ FORMES**
 **LARUS** (genus) **वीचीकाक-प्रजाति**
 
 [TABLE]
-
-
 
 **STERNIDAE** ( family) **दिवाकुररी-वंश**
 
@@ -5174,15 +4058,11 @@ FORMES**
 
 [TABLE]
 
-
-
 **HYDROPROGNE** (genus) **कर्कशा-प्रजाति**
 
 ( it has a loud harsh cry **कर्कश** )
 
 [TABLE]
-
-
 
 **GELOCHELIDON**(genus) **काकतुण्डक-प्रजाति**
 
@@ -5193,24 +4073,17 @@ FORMES**
 | 2072 | Gelochelidon nilotica nilotica | **सामान्य स्थूल-चंचुकाक-तुण्डक** | The Gull-billed Tern **स्थूल-चंचु कुररी**               |
 | 2073 | Gelochelidon nilotica affinis  | **यवद्वीप स्थूल-चंचु काक-तुण्डक** | The Javan Gull-billed Tern **यबद्वीप स्थूल-चंचु कुररी** |
 
-
-
 **THALASSEUS** (genus) **सामुद्री-प्रजाति**
 
 (this is a Sea Tern and frequents the coast line, wherever found, seldom venturing far inland)
 
 [TABLE]
 
-
-
 STERNA (genus) **दिव्या-प्रजाति**
 
 (**दिव्या** charming, graceful. It occurs as the name of an **अप्सरस्**)  
 
-
 [TABLE]
-
-
 
 **ANOUS** (genus) **प्रमन्दनी-प्रजाति**
 
@@ -5218,16 +4091,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **LEUCANOUS** (genus) **सितमन्दा-प्रजाति**
 
 (Gk, leukon white**सित**+ ancus stupid**मन्दा**)  
 
-
 [TABLE]
-
-
 
 **RHYNCOPIDAE** (family) **कर्तरीचंचु-वंश**
 
@@ -5236,8 +4104,6 @@ STERNA (genus) **दिव्या-प्रजाति**
 (the lower mandible is so much compressed that it looks like a thin flexible knife with a truncated end and with minute oblique ridges on the sides)
 
 [TABLE]
-
-
 
 **LIMICOLAE** (suborder) **तटचारि-अनुगण**
 
@@ -5251,18 +4117,13 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 (the Turnstone keeps entirely to the sea-coast)  
 
-
 [TABLE]
-
-
 
 **SQUATAROLA** (genus) **अतिजागर-प्रजाति**
 
 (**अतिजागर** ancient word, it means "very wakeful'it is very difficult to approach within shot, whilst its shrill pipe gives the alarm to everyother bird as well)
 
 [TABLE]
-
-
 
 **EUPODELLA** (genus) **तीरचारि-प्रजाति**
 
@@ -5273,23 +4134,17 @@ STERNA (genus) **दिव्या-प्रजाति**
 | 2104  | Eupodella asiatica | **पश्चिम तीर-चारी**  | The Caspian Sand-Plover **पश्चिम वालुटिट्टिभ**  |
 | 2105 | Eupodella vereda   | **पूर्वीयतीर-चारी** | The Eastern Sand-Plover**पूर्वीयवालुटिट्टिभ** |
 
-
-
 **LEUCOPOLIUS** (genus) **सितभाल-प्रजाति**
 
 (white **सित** forehead)
 
 [TABLE]
 
-
-
 **HAEMATOPUS** (genus) **शंखिनी-प्रजाति**
 
 (**शंखिनी** occurs in **निघण्टु रत्नाकर**)
 
 [TABLE]
-
-
 
 **CHARADRIINAE** (subfamily) **टिट्टिभानुवंश**
 
@@ -5299,24 +4154,17 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **CIRREPEDESMUS** (genus) **पुलिनचारि-प्रजाति**
 
 (they are very common car streams and may be often seen running about in the stony, sandy plains adjacent to them)  
 
-
 [TABLE]
-
-
 
 **PLUVIALIS** (genus) **स्वर्णटिट्टिभ-प्रजाति**
 
 (each feather with a golden tip and spots along the edges, giving the whole a spangled-gold**स्वर्ण** appearance)
 
 [TABLE]
-
-
 
 **VANELLINAE** (subfamily) **टिट्टिभक-अनुवंश**
 
@@ -5330,15 +4178,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 |------|-------------------|---------------------|------------------------------------------------------------------|
 | 2121 | Vanellus vanellus | **सामान्यकुयष्टि** | The Lapwing, Peewit, orGreen Plover **कुयष्टिका, हरित टिट्टिभ** |
 
-
-
 **CHETTUSIA** (genus) **संघचर-प्रजाति**
 
 (it assembles in very great numbers **संघ**)
 
 [TABLE]
-
-
 
 **HOPLOPTERUS** (genus) **कण्टपक्ष-प्रजाति**
 
@@ -5348,15 +4192,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 |------|------------------------|--------------------|----------------------------------------------|
 | 2124 | Hoplopterus duvaucelii | **भारत कण्ट-पक्ष** | The Spur-Winged Plover **कण्ट-पक्षटिट्टिभ** |
 
-
-
 **LOBIVANELLUS** (genus) **सदालूता-प्रजाति**
 
 (**सदालता** ancient word)
 
 [TABLE]
-
-
 
 **LOBIPLUVIA** (genus) **पीतमुख-प्रजाति**
 
@@ -5364,15 +4204,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **MICROSARCOPS** (genus) **लघुपीता-प्रजाति**
 
 |      |                       |                         |                                                     |
 |------|-----------------------|-------------------------|-----------------------------------------------------|
 | 2129 | Microsarcops cinereus | **धूसर-शीर्ष लघु-पीता** | The Grey-headed Lapwing **धूसर-शीर्ष** **टिट्टिभक** |
-
-
 
 **HIMANTOPUS** Igenus) **प्रवालपाद-प्रजाति**
 
@@ -5380,23 +4216,17 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **RECURVIROSTRA** (genus) **कषिकानी-प्रजाति**
 
 (**कषिकानी** occurs in **चरक**)
 
 [TABLE]
 
-
-
 **IBIDORHYNCHA** (genus) **कृकषा-प्रजाति**
 
 (**कृकषा** occurs in **पारस्कर गृह्यसूत्र**)
 
 [TABLE]
-
-
 
 **SCOLOPACIDAE** (family) **आरामुख-वंश**
 
@@ -5408,29 +4238,17 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **LIMOSA** (genus) **आरा-प्रजाति**
 
 (**आरा**ancient word)
 
 [TABLE]
 
-
-
 **LIMNODROMUS** (genus) **पंकचारि-प्रजाति**
 
 (Gk.limne marsh, pond **पंक**+ dromos running)
 
-
-
-
-
-
-
 [TABLE]
-
-
 
 **TEREKIA** (genus) **उन्नतचंचु-प्रजाति**
 
@@ -5438,15 +4256,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **TRINGA** (genus) **नीररंक-प्रजाति**
 
 (this little Sandpiper is not so much of sea-shore bird as most of its family, keeping much to inland lakes and swamps)
 
 [TABLE]
-
-
 
 **GLOTTIS** (genus) **अम्बुरक-प्रजाति**
 
@@ -5454,15 +4268,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **PHILOMACIIUS** (genus) **भट-प्रजाति**
 
 (**भट** occurs in **मत्स्य पुराण**. Noted for their pugna-city **भट** in the breeding season)
 
 [TABLE]
-
-
 
 **EROLIINAE** (subfamily) **भिन्नांगुलि-अनुवंश**
 
@@ -5472,15 +4282,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **EURYNORHYNCHUS** (genus) **स्रुवचंचु-प्रजाति**
 
 (this genus is easily distinguished from all others by the remarkable shape of its bill which is like a spoon **स्रुव**)
 
 [TABLE]
-
-
 
 **EROLIA** (genus) **क्षुद्रजलरंक-प्रजाति**
 
@@ -5488,15 +4294,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **CALIDRIS** (genus) **वारिरंक-प्रजाति**
 
 (in India it occurs onthe mud-flats**वारि** on the sea-shore)
 
 [TABLE]
-
-
 
 **LIMICOLA** (genus) **पंकवासि-प्रजाति**
 
@@ -5507,8 +4309,6 @@ STERNA (genus) **दिव्या-प्रजाति**
 | 2163 | Limicola falcinellus falcinellus | **सामान्य पृथु-चंचु पंक-वासी** | The Broad-billed Sandpiper**पृथु-चंचु** **जलरंक**         |
 | 2164 | Limicola falcinellus sibirica    | **पूर्वीय पृथु-चंचु पंक-वासी** | The Eastern Broad-billed Sandpiper**पृथु-चंचुजलरंक** |
 
-
-
 **PHALAROPINAE** (subfamily) **चर्मपादानुवंश**
 
 **PHALAROPUS** (genus) **चर्मपाद-प्रजाति**
@@ -5517,16 +4317,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **LOBIPES** (genus) **पदजालिक-प्रजाति**  
-
 
 |      |                 |                         |                                                  |
 |------|-----------------|-------------------------|--------------------------------------------------|
 | 2166 | Lobipeslobatus | **रक्त-ग्रीव पद-जालिक** | The Red-necked Phalarope**रक्त-ग्रीव जल-प्रिय** |
-
-
 
 **SCOLOPACINAE** (subfamily) **आरामुखानुवंश**
 
@@ -5542,15 +4337,9 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **LYMNOCRYPTES** (genus) **पंकिल-प्रजाति**
 
 [TABLE]
-
-
-
-
 
 **STEGANOPODES**
 
@@ -5566,8 +4355,6 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **PHALACROCORACIDAE** (family) **जलकाक-वंश**
 
 **PHALACROCORACINAE** (subfamily) **जलकाकानुवंश**
@@ -5578,8 +4365,6 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **ANHINGINAE** (subfamily) **मद्गु-अनुवंश**
 
 (**मद्गु** occurs in **वाजसनेयि-संहिता**)
@@ -5588,8 +4373,6 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **SULIDAE** (family) **शूलमुख-वंश**
 
 **SULA** (genus) **शूलमुख-प्रजाति**
@@ -5597,8 +4380,6 @@ STERNA (genus) **दिव्या-प्रजाति**
 (in this genus the bill is powerful, straight, compressed and pointed)
 
 [TABLE]
-
-
 
 **PHAETHONIDAE** (family) **औष्णक-वंश**
 
@@ -5612,8 +4393,6 @@ STERNA (genus) **दिव्या-प्रजाति**
 | 2189 | Phaethon rubricauda rubricauda | **सामान्यरक्त-पुच्छ औष्णक** | The Red-tailed Tropic-bird **रक्त-पुच्छ औष्णक**     |
 | 2190 | Phaethon lepturus lepturus     | **सामान्य श्वेत औष्णक**      | The White Tropic-bird **श्वेत औष्णक**               |
 
-
-
 **FREGATIDAE** (family)**दस्यु-वंश**
 
 **FREGATA** (genus) **दस्यु-प्रजाति**
@@ -5621,8 +4400,6 @@ STERNA (genus) **दिव्या-प्रजाति**
 (they are noted for obtaining much of their food by robbing other bird's)
 
 [TABLE]
-
-
 
 **TUBINARES**
 
@@ -5638,27 +4415,19 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **FREGETTA** (genus) **आर्णव-प्रजाति**
 
 [TABLE]
 
-
-
 **PUFFINUS** (genus) **तरंगकाक-प्रजाति**
 
 [TABLE]
-
-
 
 **DAPTION** (genus) **समुद्रकाक-प्रजाति**
 
 (**समुद्रकाक** ancient word)
 
 [TABLE]
-
-
 
 **HERODIONES**
 
@@ -5678,8 +4447,6 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **PLEGADIDAE** (family) **आडी-वंश**
 
 (**आडी** ancient word)
@@ -5690,21 +4457,15 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **PSEUDIBIS** (genus) **आडी-प्रजाति**
 
 [TABLE]
-
-
 
 **PLEGADIS** (genus)**पत्राटी-प्रजाति**
 
 (**पत्राटी**occurs in **कल्पद्रुकोश**)
 
 [TABLE]
-
-
 
 **CICONIAE** (suborder) **दीर्घपादानुवंश**
 
@@ -5716,15 +4477,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **DISSOURA** (genus) **शितिकण्ठ-प्रजाति**
 
 (**शितिकण्ठ** occurs in **महाभारत**)
 
 [TABLE]
-
-
 
 **XENORHYNCHUS** (genus) **कृष्णग्रीव-प्रजाति**
 
@@ -5732,15 +4489,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **LEPTOPTILOS** (genus) **कोलपुच्छ-प्रजाति**
 
 (**कोलपुच्छ** ancient word)
 
 [TABLE]
-
-
 
 **IBIS** (genus) **कोशचंचु-प्रजाति**
 
@@ -5748,15 +4501,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 **ANASTOMUS** (genus) **शिथिलहनु-प्रजाति**
 
 (Pali **सिथिलहनु** occurs in **मज्झिम-निकाय**)
 
 [TABLE]
-
-
 
 **ARDEAE** (suborder) **बकानुगण**
 
@@ -5768,15 +4517,11 @@ STERNA (genus) **दिव्या-प्रजाति**
 
 [TABLE]
 
-
-
 EGRETTA (genus)**बलाका-प्रजाति**
 
 (**बलाका** ancient word)
 
 [TABLE]
-
-
 
 BUBULCUS (genus)**पिंगलिक-प्रजाति**
 
@@ -5784,17 +4529,11 @@ BUBULCUS (genus)**पिंगलिक-प्रजाति**
 
 [TABLE]
 
-
-
 **DEMIEGRETTA** (genus) **वेलाबक-प्रजाति**
 
 (the genus is represented on the sea-coasts **वेला**of Africa, Arabia and India)
 
 [TABLE]
-
-
-
-
 
 **ARDEOLA** (gonus) **अन्धबक-प्रजाति**
 
@@ -5802,15 +4541,11 @@ BUBULCUS (genus)**पिंगलिक-प्रजाति**
 
 [TABLE]
 
-
-
 **BUTORIDES** (genus)**हरितबक-प्रजाति**
 
 (general body is glossed with green **हरित**)
 
 [TABLE]
-
-
 
 **NYCTICORAX** (genus) **वाक-प्रजाति**
 
@@ -5818,21 +4553,15 @@ BUBULCUS (genus)**पिंगलिक-प्रजाति**
 
 [TABLE]
 
-
-
 **GORSAKIUS** (genus) **कालशीर्ष-प्रजाति**
 
 (forehead, crown and crest **शीर्ष** black **काल**)
 
 [TABLE]
 
-
-
 **IXOBRYCHUS** (genus) **क्षुद्रबक-प्रजाति**
 
 [TABLE]
-
-
 
 **DUPETOR** (genus) **श्यामपृष्ठ-प्रजाति**
 
@@ -5840,15 +4569,11 @@ BUBULCUS (genus)**पिंगलिक-प्रजाति**
 
 [TABLE]
 
-
-
 **BOTAURUS** (genus) **कह्व-प्रजाति**
 
 (**कह्व**ancient word. के जले ह्वयति इति**कह्वः**)
 
 [TABLE]
-
-
 
 **PHOENICOPTERI**
 
@@ -5864,15 +4589,11 @@ BUBULCUS (genus)**पिंगलिक-प्रजाति**
 
 [TABLE]
 
-
-
 **PHOENICONAIAS** (genus) **लघुबलाक-प्रजाति**
 
 (smaller than the genus Phoenicopterus)
 
 [TABLE]
-
-
 
 **ANSERES**
 
@@ -5887,8 +4608,6 @@ BUBULCUS (genus)**पिंगलिक-प्रजाति**
 **CYGNUS** (genus) **महाहंस-प्रजाति**
 
 [TABLE]
-
-
 
 **PLECTROPTERINAE** (subfamily) **नन्दीमुखानुवंश**
 
@@ -5906,21 +4625,15 @@ It refers to the male's bill, on the base of which there is a knob, which become
 |------|------------------------|-------------------------|------------------------------------------------------------------------------------------------------|
 | 2247 | Sarkidiornis malanotus | **काल-पृष्ठ नन्दी-मुख** | The Nukhta or Comb-Duck **नन्दी-मुखी हंसक** nukhta (Hindi), nukwa (Chota Nagpur), naki-hansa (Uriya) |
 
-
-
 **ASARCORNIS** (genus) **श्वेतपक्ष-प्रजाति**
 
 [TABLE]
-
-
 
 **RHODONESSA** (genus) **पाटलोत्तमांग-प्रजाति**
 
 (whole head **उत्तमांग** a beautiful rose-pink **पाटल**)
 
 [TABLE]
-
-
 
 **CHENONETTINAE** (subfanily) **उपहंसक-अनुवंश**
 
@@ -5930,15 +4643,11 @@ It refers to the male's bill, on the base of which there is a knob, which become
 
 [TABLE]
 
-
-
 **AIX** (genus) **चूडक-प्रजाति**
 
 (the head is crested)
 
 [TABLE]
-
-
 
 **ANSERINAE** (subfamily) **हंसानुवंश**
 
@@ -5948,15 +4657,11 @@ It refers to the male's bill, on the base of which there is a knob, which become
 
 [TABLE]
 
-
-
 **BRANTA** (genus) **रक्तोरस्क-प्रजाति**
 
 (upper breast rich chestnut )
 
 [TABLE]
-
-
 
 **ANATINAE** (subfamily)**हंसकानुवंश**
 
@@ -5966,10 +4671,7 @@ It refers to the male's bill, on the base of which there is a knob, which become
 
 (Gk. dendron a tree **वृक्ष**+ Lat. cygnus a swan**हंसक**)  
 
-
 [TABLE]
-
-
 
 **TADORNA** (genus) **उपचक्र-प्रजाति**
 
@@ -5977,15 +4679,11 @@ It refers to the male's bill, on the base of which there is a knob, which become
 
 [TABLE]
 
-
-
 **CASARCA** (genus) **चक्रवाक-प्रजाति**
 
 (**चक्रवाक** ancient word)
 
 [TABLE]
-
-
 
 **ANAS** (genus) **कामिक-प्रजाति**
 
@@ -5993,13 +4691,9 @@ It refers to the male's bill, on the base of which there is a knob, which become
 
 [TABLE]
 
-
-
 **EUNETTA** (genus) **सुहंसक-प्रजाति**
 
 [TABLE]
-
-
 
 **CHAULELASMUS** (genus)**मलिन-प्रजाति**
 
@@ -6007,15 +4701,11 @@ It refers to the male's bill, on the base of which there is a knob, which become
 
 [TABLE]
 
-
-
 **MARECA** (genus) **प्रियाशन-प्रजाति**
 
 (Cf. **प्रियाशन**in Hindi. It feeds the whole day, even while others rest)
 
 [TABLE]
-
-
 
 **NETTION** (genus) **रोहिणीक-प्रजाति**
 
@@ -6023,38 +4713,27 @@ It refers to the male's bill, on the base of which there is a knob, which become
 
 [TABLE]
 
-
-
 **DAFILA** (genns) **शल्यपुच्छ-प्रजाति**
 
 (this genus is easily recognized by lengthened and pointed **शल्य** tail-feathers **पुच्छ**)
 
 [TABLE]
 
-
-
 **QUERQUEDULA** (genus) **नीलपक्ष-प्रजाति**
 
 [TABLE]
-
-
 
 **SPATULA** (genus) **खजाक-प्रजाति**
 
 (**खजाक** occurs in the **उणादिसूत्र**)  
 
-
 [TABLE]
-
-
 
 **MARMARONETTA** (genus) **क्षयी-प्रजाति**
 
 (Cf. Sindhi choi)
 
 [TABLE]
-
-
 
 **NYROCINAE** (subfamily) **मज्जक-अनुवंश**
 
@@ -6064,15 +4743,11 @@ It refers to the male's bill, on the base of which there is a knob, which become
 
 [TABLE]
 
-
-
 **NYROCA** (genus) **पद्मकन्दाद-प्रजाति**
 
 (**पद्मकन्दाद** occurs in **कल्पद्रुकोश**)
 
 [TABLE]
-
-
 
 **GLAUCIONETTA** (genus) **हिरण्याक्ष-प्रजाति**
 
@@ -6080,15 +4755,11 @@ It refers to the male's bill, on the base of which there is a knob, which become
 
 [TABLE]
 
-
-
 **ERISMATURINAE** (subfamily)**स्तब्धपुच्छानुवंश**
 
 **ERISMATURA** (genus) **स्तब्धपुच्छ-प्रजाति**
 
 [TABLE]
-
-
 
 **MERGINAE** (subfamily) **निमज्जकानुवंश**
 
@@ -6098,15 +4769,11 @@ It refers to the male's bill, on the base of which there is a knob, which become
 
 [TABLE]
 
-
-
 **MERGUS** (genus) **कारण्ड-प्रजाति**
 
 (**कारण्ड** ancient word)
 
 [TABLE]
-
-
 
 **PYGOPODES**
 
@@ -6122,8 +4789,6 @@ It refers to the male's bill, on the base of which there is a knob, which become
 
 [TABLE]
 
-
-
 **COLYMBIDAE** (family)**मज्जूक-वंश**
 
 **COLYMBUS** (genus) **मज्जूक-प्रजाति**
@@ -6131,10 +4796,6 @@ It refers to the male's bill, on the base of which there is a knob, which become
 (**मज्जूक** repeatedly diving. Cf. the English word Diver)
 
 [TABLE]
-
-
-
-
 
 **INDEX**
 
@@ -6168,8 +4829,6 @@ The references are to the serial numbers of the names of species, and not to pag
 |                             | Alectoropodes (suborder) 1897           |
 |                             | Allied Flycatcher-Warbler 888           |
 
-
-
 |                                     |                                        |
 |-------------------------------------|----------------------------------------|
 | Allied Grey Shrike 707              | Andaman Blue-breasted Banded Rail 2009 |
@@ -6198,10 +4857,6 @@ The references are to the serial numbers of the names of species, and not to pag
 | Andaman Black-naped Oriole 957      |                                       |
 | Andaman Black Woodpecker 1415       |                                       |
 
-
-
-
-
 |                                         |                                       |
 |-----------------------------------------|---------------------------------------|
 | Andaman Long-tailed Night-jar 1622      | Anderson's Flycatcher-Warbler 890     |
@@ -6228,8 +4883,6 @@ The references are to the serial numbers of the names of species, and not to pag
 |                                        | Ant-Warbler 812                       |
 |                                        | Aquila (genus) 1746                   |
 |                                        | Arabian Close-barred Sand Grouse 1890 |
-
-
 
 |                                       |                                     |
 |---------------------------------------|-------------------------------------|
@@ -6258,10 +4911,6 @@ The references are to the serial numbers of the names of species, and not to pag
 | Artamidae (family) 763                | Assam Blue-eared Kingfsher 1540     |
 | Artamus (genus) 763                   |                                    |
 | Asarcornis (genus) 2248               |                                    |
-
-
-
-
 
 |                                              |                                        |
 |----------------------------------------------|----------------------------------------|
@@ -6304,8 +4953,6 @@ The references are to the serial numbers of the names of species, and not to pag
 |    | Baker's Wren-Babbler 261                   |
 |    | Baluchistan Streaked Laughing-Thrush 174   |
 
-
-
 |                              |                                 |
 |------------------------------|---------------------------------|
 | Bamboo-Partridge 1945, 1946  | Baza (genus) 1822               |
@@ -6336,8 +4983,6 @@ The references are to the serial numbers of the names of species, and not to pag
 | Bay Owl 1639-1641            | Besra Sparrow Hawk 1813, 1814   |
 | Bay Woodpecker 1383, 1384    |                                |
 
-
-
 |                                     |                                           |
 |-------------------------------------|-------------------------------------------|
 | Bewick's Swan 2244                  | Black-backed Kalij Pheasant 1920          |
@@ -6362,10 +5007,6 @@ The references are to the serial numbers of the names of species, and not to pag
 |                                    | Black-chinned Yahina 343                  |
 |                                    | Black-crested Baza1822,1823              |
 |                                    | Black-crested Yellow Bulbul 413           |
-
-
-
-
 
 |                                         |                                          |
 |-----------------------------------------|------------------------------------------|
@@ -6392,10 +5033,6 @@ The references are to the serial numbers of the names of species, and not to pag
 | Black-headed Tit 81, 82                 | Black-tailed Godwit 2137, 2138           |
 | Black-headed Wagtail 1179,1180          | Black Tern 2070                          |
 |                                        | Black-throated Babbler 270, 271          |
-
-
-
-
 
 |                                    |                                                           |
 |------------------------------------|-----------------------------------------------------------|
@@ -6425,10 +5062,6 @@ The references are to the serial numbers of the names of species, and not to pag
 |                                   | Blue-Tit 60                                               |
 |                                   | Blue-whiskered Chloropsis 375                             |
 
-
-
-
-
 |                                        |                                               |
 |----------------------------------------|-----------------------------------------------|
 | Blue-wingedLaughing-Thrush 164        | Blyth's Wreathed Hornbill 1568               |
@@ -6456,28 +5089,11 @@ The references are to the serial numbers of the names of species, and not to pag
 | Blyth's Suthora 94                     | Brahminy Kite 1784, 1785                      |
 | Blyth's White-rumped Swift 1595        | Brambling 1093                                |
 
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
-
-
-
-
-[TABLE]
-
-
 
 |                                         |      |                                              |                      |
 |-----------------------------------------|------|----------------------------------------------|----------------------|
@@ -6503,15 +5119,9 @@ The references are to the serial numbers of the names of species, and not to pag
 | Burmese White-crested Laughing-Thrush   | 129  | Buzzard                                      | 1796-1799, 1818-1820 |
 | Burmese White-rumped Swift              | 1594 | Buzzard-Eagle                                | 1774-1776            |
 
-
-
 C
 
 [TABLE]
-
-
-
-
 
 |                                |          |                                  |      |
 |--------------------------------|----------|----------------------------------|------|
@@ -6540,11 +5150,7 @@ C
 | Ceylon Crested Hawk-Eagle      | 1757     | Ceylon Large Crested Tern        | 2077 |
 |                               |         | Ceylon Large Cuckoo Shrike       | 760  |
 
-
-
 [TABLE]
-
-
 
 |                                    |                           |                                  |         |
 |------------------------------------|---------------------------|----------------------------------|---------|
@@ -6571,10 +5177,6 @@ C
 |                                   |                          | Chinese Hobby                    | 1727    |
 |                                   |                          | Chinese Kentish Plover           | 2108    |
 |                                   |                          | Chinese Large Crested Tern       | 2078    |
-
-
-
-
 
 |                                           |      |                                  |           |
 |-------------------------------------------|------|----------------------------------|-----------|
@@ -6604,10 +5206,6 @@ C
 |                                          |     | Ciconiae (suborder)              | 2207      |
 |                                          |     | Ciconiidae (family)              | 2207      |
 
-
-
-
-
 |                                |                |                                 |          |
 |--------------------------------|----------------|---------------------------------|----------|
 | Cinclidae (family)             | 477            | Collocalia (genus)              | 1608     |
@@ -6635,8 +5233,6 @@ C
 | Collared Pigmy Owlet           | 1696,1697      | Common Indian House-Swift       | 1596     |
 | Collared Pratincole            | 2054           | Common Indian Kingfisher        | 1533     |
 | Collared Scops Owl             | 1666-1671      |                                |         |
-
-
 
 |                              |           |                               |                       |
 |------------------------------|-----------|-------------------------------|-----------------------|
@@ -6668,11 +5264,7 @@ C
 |                             |          | Crested Hawk-Eagle            | 1756, 1757            |
 |                             |          | Crested Honey-Buzzard         | 1818, 1819            |
 
-
-
 [TABLE]
-
-
 
 |                    |      |
 |--------------------|------|
@@ -6681,14 +5273,9 @@ C
 
 D  
 
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 E
 
@@ -6696,8 +5283,6 @@ E
 |-----------|-----------|
 | Eagle     | 1746-1783 |
 | Eagle-Owl | 1663,1664 |
-
-
 
 |                                 |           |                                                 |       |
 |---------------------------------|-----------|-------------------------------------------------|-------|
@@ -6726,8 +5311,6 @@ E
 |                                |          | Eastern Red-breasted Flycatcher                 | 639   |
 |                                |          | Eastern Red-legged Falcon                       | 1739  |
 
-
-
 |                                 |      |                                                 |       |
 |---------------------------------|------|-------------------------------------------------|-------|
 | Eastern Alpine Hedge-Sparrow    | 620  | Eastern Grey Duck                              | 2266  |
@@ -6755,15 +5338,7 @@ E
 |                                |     | Eastern Red-breasted Flycatcher                 | 639   |
 |                                |     | Eastern Red-legged Falcon                       | 1739  |
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 |                           |            |                                  |      |
 |---------------------------|------------|----------------------------------|------|
@@ -6796,10 +5371,7 @@ E
 | European Chiffchaff       | 853a       |                                 |     |
 | European Cuckoo          | 1451       |                                 |     |
 
-
-
 **F**  
-
 
 |                        |                  |
 |------------------------|------------------|
@@ -6811,15 +5383,7 @@ E
 | Falconidae (family)    | 1716             |
 | Falconinae (subfamily) | 1718             |
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 |                                   |           |
 |-----------------------------------|-----------|
@@ -6868,10 +5432,6 @@ E
 |                       |          | Godwin-Austen's Hornbill                   | 1573    |
 |                       |          | Godwin-Austen's Red-headed Laughing Thrush | 151     |
 
-
-
-
-
 |                                     |                                 |                                       |                     |
 |-------------------------------------|---------------------------------|---------------------------------------|---------------------|
 | Godwin-Austen's Wren                | 465                             | Goshawk                               | 1800,1801,1808-1810 |
@@ -6901,10 +5461,6 @@ E
 |                                    |                                | Great Black-headed Gull               | 2060                |
 |                                    |                                | Great Black Woodpecker               | 1413,1414           |
 
-
-
-
-
 |                               |                  |                             |                               |
 |-------------------------------|------------------|-----------------------------|-------------------------------|
 | Great Bustard                 | 2041             | Green-billedShearwater     | 2196                          |
@@ -6933,10 +5489,6 @@ E
 | Green Bee-eater               | 1524,1525        | Grey-and-Buff Woodpecker    | 1408                          |
 | Green-billed Malkoha          | 1478-1481, 1485 |                            |                              |
 
-
-
-
-
 |                                 |           |                             |            |
 |---------------------------------|-----------|-----------------------------|------------|
 | Grey Babbler                    | 195       | Grey-headed Myna            | 982        |
@@ -6964,8 +5516,6 @@ E
 |                                |          | Grey-Tit                    | 51-53,55   |
 |                                |          | Grey Wagtail                | 1174       |
 |                                |          | Grey-winged Blackbird       | 571        |
-
-
 
 |                        |                     |
 |------------------------|---------------------|
@@ -7016,21 +5566,9 @@ E
 |                     |     | Hawk-Owl                                    | 1698-1703      |
 |                     |     | Heart-spotted Woodpecker                    | 1409,1410      |
 
-
-
-
-
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 |                                     |           |                             |                |
 |-------------------------------------|-----------|-----------------------------|----------------|
@@ -7059,8 +5597,6 @@ E
 | Horned Lark                         | 1206-1208 | Hume's Hawfinch             | 1038           |
 | Horned Owl                          | 1658-1662 | Hume's Lesser Whitethroat   | 848            |
 | Horned Pheasant                     | 1930-1932 |                            |               |
-
-
 
 |                                    |         |                        |      |
 |------------------------------------|---------|------------------------|------|
@@ -7102,8 +5638,6 @@ E
 | Imperial Eagle        | 1747       |
 | Imperial Green Pigeon | 1848,1849 |
 
-
-
 Page no. 492 is missing in the pdf.
 
 |                               |      |                                    |      |
@@ -7129,8 +5663,6 @@ Page no. 492 is missing in the pdf.
 | Indian House-Swift            | 1596 | Indian Moorhen                     | 2026 |
 | Indian Jungle-Crow            | 5    | Indian Necklaced Laughing Thrush   | 134  |
 | Indian Jungle Myna            | 999  |                                   |     |
-
-
 
 |                                     |           |                                    |         |
 |-------------------------------------|-----------|------------------------------------|---------|
@@ -7160,10 +5692,6 @@ Page no. 492 is missing in the pdf.
 |                                    |          | Indian Sparrow-Hawk                | 1812    |
 |                                    |          | Indian Spoonbill                   | 2202    |
 
-
-
-
-
 |                                  |      |                              |         |
 |----------------------------------|------|------------------------------|---------|
 | Indian Spotted Dove              | 1873 | Indian Wire-tailed Swallow  | 1157    |
@@ -7189,17 +5717,9 @@ Page no. 492 is missing in the pdf.
 | Indian White-throated Bulbul     | 380  | Iynginae (subfamily)         | 1423    |
 | Indian White Wagtail             | 1166 | Iynx (genus)                 | 1423    |
 
-
-
-
-
 **J**
 
 [TABLE]
-
-
-
-
 
 **K**
 
@@ -7230,13 +5750,6 @@ Page no. 492 is missing in the pdf.
 |                                   |          | Koklas                             | 1911-1914   |
 |                                   |          | Koklas or Pokras Pheasant          | 1911        |
 
-
-
-
-
-
-
-
 |                                |       |
 |--------------------------------|-------|
 | Kondol Yellow-breasted Sunbird | 1283 |
@@ -7245,8 +5758,6 @@ Page no. 492 is missing in the pdf.
 | Kuman Pigmy Woodpecker         | 1377  |
 | Kuman Yellow-backedSunbird    | 1263  |
 | Kyah                           | 1982  |
-
-
 
 **L**
 
@@ -7274,10 +5785,6 @@ Page no. 492 is missing in the pdf.
 |                       |                     | Large Grey-headed Fishing Eagle | 1780      |
 |                       |                     | Large Hawk-Cuckoo               | 1457      |
 
-
-
-
-
 |                                           |                 |                                   |           |
 |-------------------------------------------|-----------------|-----------------------------------|-----------|
 | LargeHimalayan Cuckoo Shrike             | 759             | Large WhistlingTeal              | 2261      |
@@ -7304,10 +5811,6 @@ Page no. 492 is missing in the pdf.
 |                                          |                | Leiothrix                         | 351,352   |
 |                                          |                | Leiotrichinae (subfamily)         | 351       |
 |                                          |                | Leptocoma(genus)                 | 1277      |
-
-
-
-
 
 |                                |         |                                  |            |
 |--------------------------------|---------|----------------------------------|------------|
@@ -7337,8 +5840,6 @@ Page no. 492 is missing in the pdf.
 |                               |        | LittleGrebe                     | 2292       |
 |                               |        | Little Green Heron               | 2231, 2232 |
 |                               |        | Little Grey-rumped Swiftlet      |           |
-
-
 
 |                                       |           |                             |             |
 |---------------------------------------|-----------|-----------------------------|-------------|
@@ -7373,15 +5874,7 @@ Page no. 492 is missing in the pdf.
 | Machlolophus (genus)          | 73   |
 | Macqueen's Bastard or Houbara | 2044 |
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 |                                       |      |                                       |            |
 |---------------------------------------|------|---------------------------------------|------------|
@@ -7407,10 +5900,6 @@ Page no. 492 is missing in the pdf.
 | Malay Green-legged Hill Partridge     | 1969 | Malay Yellow-breasted Babbler         | 285        |
 | Malay Grey-throated Babbler           | 272  | Malay Yellow-breasted Sunbird        | 1282       |
 |                                      |     | Malherbe's Golden-backed Woodpecker   | 1406       |
-
-
-
-
 
 |                                  |           |                                       |           |
 |----------------------------------|-----------|---------------------------------------|-----------|
@@ -7439,10 +5928,6 @@ Page no. 492 is missing in the pdf.
 | Masked Booby                     | 2186,2187 | Meropidae (family)                   | 1522      |
 | Masked Finfoot                   | 2030      | Merops (genus)                        | 1522      |
 | Masked Wagtail                   | 1168      |                                      |          |
-
-
-
-
 
 |                                |         |                               |             |
 |--------------------------------|---------|-------------------------------|-------------|
@@ -7474,11 +5959,6 @@ Page no. 492 is missing in the pdf.
 | Missel-Thrush                  | 592     |                              |            |
 | Mixornis (genus)               | 283     |                              |            |
 
-
-
-
-
-
 |                       |           |
 |-----------------------|-----------|
 | Munia (genus)         | 1017      |
@@ -7501,10 +5981,6 @@ Page no. 492 is missing in the pdf.
 **N**
 
 [TABLE]
-
-
-
-
 
 |                                    |            |                                   |             |
 |------------------------------------|------------|-----------------------------------|-------------|
@@ -7534,10 +6010,6 @@ Page no. 492 is missing in the pdf.
 |                                   |           | Northern Bay Owl                  | 1640        |
 |                                   |           | Northern Besra Sparrow Hawk       | 1814        |
 
-
-
-
-
 |                                        |      |                                            |         |
 |----------------------------------------|------|--------------------------------------------|---------|
 | Northern Black-spotted Yellow Tit      | 73   | Northern Painted Partridge                 | 1980    |
@@ -7560,15 +6032,9 @@ Page no. 492 is missing in the pdf.
 |                                       |     | Nyroca (genus)                             | 2279    |
 |                                       |     | Nyrocinae(subfamily)                      | 2978    |
 
-
-
 **O**
 
 [TABLE]
-
-
-
-
 
 |                                  |                                |
 |----------------------------------|--------------------------------|
@@ -7579,7 +6045,6 @@ Page no. 492 is missing in the pdf.
 | Oyster-catcher                   | 2110, 2111                     |
 
 **P**  
-
 
 |                            |            |                                    |           |
 |----------------------------|------------|------------------------------------|-----------|
@@ -7607,8 +6072,6 @@ Page no. 492 is missing in the pdf.
 |                           |           | Pariah Kite                        | 1787      |
 |                           |           | Paridae (family)                   | 51        |
 |                           |           | Paroquet                           | 1496-1511 |
-
-
 
 |                             |                                       |                                  |                     |
 |-----------------------------|---------------------------------------|----------------------------------|---------------------|
@@ -7640,29 +6103,11 @@ Page no. 492 is missing in the pdf.
 | Perdicinae (subfamily)      | 1931                                  | Pied Chat                        | 506, 509            |
 | Perdicula (genus)           | 1953                                  |                                 |                    |
 
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
-
-
 [TABLE]
-
-
-
-
-
-[TABLE]
-
-
-
-
 
 |                     |      |
 |---------------------|------|
@@ -7706,13 +6151,7 @@ Page no. 492 is missing in the pdf.
 |                                           |          | Red-capped Babbler              | 227, 228  |
 |                                           |          | Red-capped Falcon              | 1720      |
 
-
-
-
-
 [TABLE]
-
-
 
 |                           |                   |                              |                  |
 |---------------------------|-------------------|------------------------------|------------------|
@@ -7743,10 +6182,6 @@ Page no. 492 is missing in the pdf.
 |                          |                  | Rippon's Fire-tailed Sunbird | 1267             |
 |                          |                  | Rippon's Fulvetta            | 308              |
 
-
-
-
-
 |                                   |                  |                                 |                      |
 |-----------------------------------|------------------|---------------------------------|----------------------|
 | Rippon's Hedge-Sparrow            | 623              | Rose-coloured Starling          | 972                  |
@@ -7775,10 +6210,6 @@ Page no. 492 is missing in the pdf.
 | Rollulus (genus)                  | 1947             |                                |                     |
 | Rook                              | 9                |                                |                     |
 
-
-
-
-
 |                                 |           |                                  |           |
 |---------------------------------|-----------|----------------------------------|-----------|
 | Rufous-backed Shrike            | 714       | Rufous-necked Laughing-Thrush    | 120       |
@@ -7804,13 +6235,10 @@ Page no. 492 is missing in the pdf.
 
 **S**  
 
-
 |                         |      |
 |-------------------------|------|
 | Saker or Cherrug Falcon | 1722 |
 | Salpornis (genus)       | 456  |
-
-
 
 |                                |                                        |                              |                      |
 |--------------------------------|----------------------------------------|------------------------------|----------------------|
@@ -7840,11 +6268,7 @@ Page no. 492 is missing in the pdf.
 |                               |                                       | See-ee Partridge             | 1975                 |
 |                               |                                       | Seicercus (genus)            | 888                  |
 
-
-
 [TABLE]
-
-
 
 |                                       |      |                                     |           |
 |---------------------------------------|------|-------------------------------------|-----------|
@@ -7871,8 +6295,6 @@ Page no. 492 is missing in the pdf.
 | Siberian Sand-Martin                  | 1145 | Simla Grey-headedFlycatcher        | 681a      |
 |                                      |     | Simla Hill-Partridge                | 1960      |
 |                                      |     | Simla Plain-backed Thrush           | 601       |
-
-
 
 |                                  |       |                                 |                |
 |----------------------------------|-------|---------------------------------|----------------|
@@ -7902,10 +6324,6 @@ Page no. 492 is missing in the pdf.
 |                                 |      | Slender-billed Petrel           | 2197           |
 |                                 |      | Slender-billed Scimitar Babbler | 226            |
 
-
-
-
-
 |                                        |         |                               |                 |
 |----------------------------------------|---------|-------------------------------|-----------------|
 | Small Andamanese Drongo                | 783     | Small Sky-Lark                | 1215-1219       |
@@ -7934,10 +6352,6 @@ Page no. 492 is missing in the pdf.
 |                                       |        | Southern Blue Flycatcher      | 658             |
 |                                       |        | Southern Bronzed Drongo       | 781             |
 
-
-
-
-
 |                                               |      |                                         |                    |
 |-----------------------------------------------|------|-----------------------------------------|--------------------|
 | Southern Brown-winged Tern                    | 2095 | Southern Pale-headed Woodpecker         | 1357               |
@@ -7963,10 +6377,6 @@ Page no. 492 is missing in the pdf.
 |                                              |     | Spiny Babbler                           | 198                |
 |                                              |     | Spizixos(genus)                        | 416                |
 |                                              |     | Spodiopsar (genus)                      | 980                |
-
-
-
-
 
 |                                  |                 |                             |                |
 |----------------------------------|-----------------|-----------------------------|----------------|
@@ -7998,10 +6408,6 @@ Page no. 492 is missing in the pdf.
 |                                 |                | Stoliczka's Tree-Creeper    | 455            |
 |                                 |                | Stoliczka's Twite          | 1086           |
 
-
-
-
-
 |                              |                 |                                 |                      |
 |------------------------------|-----------------|---------------------------------|----------------------|
 | Stoliczka'sWarbler-Tit      | 947             | Striated Marsh-Warbler          | 836                  |
@@ -8029,13 +6435,6 @@ Page no. 492 is missing in the pdf.
 |                             |                | Sumatran Brown Flycatcher       | 674                  |
 |                             |                | Sumatran Kingfisher             | 1561                 |
 |                             |                | Sunbird                         | 1259-1283, 1284-1291 |
-
-
-
-
-
-
-
 
 |                          |                      |
 |--------------------------|----------------------|
@@ -8095,8 +6494,6 @@ Page no. 492 is missing in the pdf.
 | TenesserimJay-Shrike             | 732                                      |
 | Tenasserim Olive-Bulbul           | 421                                     |
 
-
-
 |                                           |                          |                                                      |                            |
 |-------------------------------------------|--------------------------|------------------------------------------------------|----------------------------|
 | TenasserimFlower-pecker                  | 1300                     | Thick-billed Flower-pecker                           | 1311                       |
@@ -8121,28 +6518,15 @@ Page no. 492 is missing in the pdf.
 | Thalasseus (genus)                        | 2074                     | Tibetan Sky-Lark                                     | 1212                       |
 | Thereiceryx (genus)                       | 1429                     | Tibetan Snow-Cock                                    | 1990,1991                  |
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 [TABLE]
 
 **U**  
 
-
 |                                     |      |
 |-------------------------------------|------|
 | United Provinces Collared ScopsOwl | 1668 |
-
-
-
-
 
 |                            |      |
 |----------------------------|------|
@@ -8195,12 +6579,7 @@ Page no. 492 is missing in the pdf.
 | Wedge-billed Wren             | 473, 474                                              |
 | Wedge-tailed Green Pigeon     | 1841                                                  |
 
-
-
-
 [TABLE]
-
-
 
 |                                 |           |                               |           |
 |---------------------------------|-----------|-------------------------------|-----------|
@@ -8227,11 +6606,7 @@ Page no. 492 is missing in the pdf.
 | White-browed Bush-Robin         | 551       | White-eye                     | 2281     |
 | White-browed Fantail Flycatcher | 700-702   | White-eyed Buzzard-Eagle      | 1774      |
 
-
-
 [TABLE]
-
-
 
 |                                 |                 |                                   |                     |
 |---------------------------------|-----------------|-----------------------------------|---------------------|
@@ -8268,19 +6643,13 @@ Page no. 492 is missing in the pdf.
 | Xenorhynchus (genus) | 2211 |
 | Xiphoramphus (genus) | 226  |
 
-
-
 **Y**
 
 [TABLE]
 
-
-
-
 [TABLE]
 
 **Z**  
-
 
 |                       |      |
 |-----------------------|------|
@@ -8289,19 +6658,6 @@ Page no. 492 is missing in the pdf.
 | Zoothera (genus)      | 603  |
 | Zosteropidae(family) | 1247 |
 | Zosterops (genus)     | 1247 |
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]
 

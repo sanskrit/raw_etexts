@@ -17,18 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIyMjM1NjI4Mzc
 
 \
 
-
-
-
-
-
-
-
-
-
-
-
-
 **नारदविरचितः**
 
 **सङ्गीतमकरन्दः।**
@@ -66,8 +54,6 @@ HIS HIGHNESS THE MAHARAJA GAEKWAD OF BARODA.**
 **THE ORIENTAL BOOK-3 1PPLYING ACE ICY  
 15, SHUKRAMAR PETH, PUUNA CITY INDIA.**
 
-
-
 **INTRODUCTION**
 
 **———————————**
@@ -82,8 +68,6 @@ HIS HIGHNESS THE MAHARAJA GAEKWAD OF BARODA.**
 
 [^3]: " Vide Sangita Ratnadhasa Vol I P 154."
 
-
-
   If all this vast hidden literature on Music existing in manuscripts at present be published, it will supply sufficient material to scholars to construct an authentic history of the ougin and development of Aryan Music in India Besides these works, the Vedas, Bramhanas, Aranyakas, the various Suttras, Smritis, Puranas, and the Kavyas and all such ancient literature, if studied critically with a view to collect materials for a lustory of Music, will surely disclose much interesting and valuable information. As an instance I may quote here the following passage from *Astareya Arnyala* which incidentally furnishes a description of the Vina that was in vogue in those times—
 
  "अथ खल्विय दैवी वीणा भवति, तदनुकृतिरसां मानुषा वीणा भवति। यथास्य शिर एवममुप्य शिर यथास्या उदरमेवममुष्या अम्भणम् । यथास्यै जिव्हा एवनमुष्यैवादनम्, यथा अस्यास्तत्रय एवमनुष्या अङ्गुल्य। यथास्वा स्वरा एवममुष्यास्वरा यथास्या स्पर्श एवममुष्यास्पर्शा यथा ह्यवेय शब्दवती तद्भवती एवमसी तद्भवती तीवती, यथा ह्यैवेयलोमशेन चर्मणाऽपिहिता भवति एवमसौ लोमशेन चर्मणाऽपिहिता \। लोमशेन ह स्म वै चर्मणा पुरा वीणा अपिदधति । स यो
@@ -95,8 +79,6 @@ HIS HIGHNESS THE MAHARAJA GAEKWAD OF BARODA.**
  Now this passage furnishes a good deal of information about the Vinâ then in vogue The words Ambhana, Vadana, Tantrayah, Svath, Sparsah S'abda and Tardma as applied to Vina have a technical sense and prove that the Modern Vina (Bina) has much in common with the ancient Vind Besides, the passage specially records the fact that in earlier times prior to the composition of the work *(Attareya Bramhana*) a part of the Vinl was coverved with leather and that the practice had disappeared at the time of the said work.
 
 ** Origin of Aryan Music—**The elements of the art of Music sem to have ongnited with the Vedic songs called "Simas" which were sung at the time of performing particular ceremonies during a sacrifice. The rules about the singing of these "Simas" are recorded in some ancient Sanskrit treatises. We have no means of ascertaining the process by which the "Sama" Music
-
-
 
 developed into the more refined Music practised at the time of Bharata who is known as the founder of the present system of Music, although subsequent professors of the art may have further developed it and established different schools of Music by introducing innovations by their talents.
 
@@ -110,8 +92,6 @@ developed into the more refined Music practised at the time of Bharata who is kn
 
 ** Nârada**, the author of the present work *Sangita Makaranda—* The present work viz, *Sangita Makaranda* is said to be the  work of *Narada* on the authority of the manuscript It is difficult to say anything with certainty about Narada's life and time. I shall place before the reader whatever can be gathered from internal evidence available in the book itself.
 
-
-
   If all this vast hidden literature on Music existing in manuscripts at present be published, it will supply sufficient material to scholars to construct an authentic history of the origin and development of Aryan Music in India. Besides these works, the Vedis, Bramhanas, Aranyakas, the various Suttris, Smritis, Puranas, and the Kavyas and all such ancient literature, if studied critically with a view to collect materials fo history of Music, will surely disclose much interesting and valuable information As an instance I may quote here the following passage from *Aitareya Arnyala* which incidentally furnishes a description of the Vina that was in vogue in those times—
 
  “अथ सल्विय देवी वीणा भवति, तदनुकृतिरसौ मानुषी वीणा भवति। यथास्या. शिर एवममुष्याशिर यथास्या उदरमेवममुष्या अम्भणम्। यथास्यै जिव्हा एवममुष्ये वादनम्, यथा अस्यास्तप्रय एवममुष्या अङ्गुलय। यथास्या स्वरा एवममुष्याखरा यथास्या स्पर्शाएवममुष्यास्पर्श यथा ह्यवेय शन्दवती तवती एवमसौशब्दवती तद्मवती, यथा ह्यवेय लोमशेन चर्मणाऽपिहिता भवति एवमसौ लोमशेन चमणाऽपिहिता। लोमशेन ह स्म वै चर्मणा पुरा वीणा अपिदधति। स यो
@@ -123,8 +103,6 @@ developed into the more refined Music practised at the time of Bharata who is kn
  Now this passage furnishes a good deal of information about the Vina then in vogue. The words Ambhana, Vadana, Tantrayah, Svai ih, Spars'äh, S'abda and Tardm as applied to Vina have a technical sense and prove that the Modern Vmå (Bina) has much in common with the ancient Vina Besides, the passage specially records the fact that m earlier times prior to the composition of the work *(Atrareya Bramhana)* a part of the Vina was covered with leather and that the practice had disappeared at the time of the sand work.
 
  **Origin of Aryan Music—**The elements of the art of Music seem to have origin ited with the Vedic songs called "Samas" which were sung at the tune of performing particular ceremontes during & sacrifice The rules about the singing of these "Samas' are recorded in some ancient Sanskrit treatises. We have no mcaus of ascertaining the process by which the "Sama" Music
-
-
 
  developed into the more refined Music practised at the time of Bharata who is known as the founder of the present system of Music, although subsequent professors of the art may have further developed it and established different schools of Music by introducing innovations by their talents.
 
@@ -138,15 +116,11 @@ Bharata, Kas'ypa, Matanga, Yas'tiha, Sardula, Kohala, Visakhila, Dantila, Kambal
 
  **Narada, the author of the present work** *Sangita Malaranda*—The present work viz, Sangita Malaranda is said to be the work of Narada on the authority of the manuscript It is difficult to say anything with certainty about Naradas life and time I shall place before the reader whatever can be gathered from internal evidence available in the book itself.
 
-
-
  But before doing so I must mention that three works on music are ascribed to Narada viz., 1 नारदी शिक्षा, 2 रागनिरूपण and 3 सारसंहिता. Of these the first is available in print. On comparing it with the present work, I am of opinion that the authors of both these works are not identical. The *Náradi Siksha* appears to be an older work. For its language is archaic and it treats more of "Såma-gana" (Vedic Music) than later music. As regards the other two works I am unable to give any opinion as the manuscripts of these works are not available. Another work of this name *Sangita Makaranda* by Veda is mentioned in the list of works on music appended to this book. But as the name of the author is Veda and not Narada, it is likely that it might be different from the present work.
 
  **The two systems of Music now in vogue in India—** Before entering into a critical examination of the present work, it is necessary here to state that at present there are two systems of Music in vogue in India. The one is called the Hindustani or Northern India system which prevails in Northern India, Bengal, Sindha, Gujaratha and Maharashtra. The other is called the Dakshinadi or Southern India system which prevails in the Madras Presidency including Tailangana, Karnataka and Malabar countries. At present we have no definite material to ascertain the time when these two systems grew differently from the original system of Bharata and other ancient musicians who founded the scientific system of Indian music. This bifurcation seems to have taken place long before Sarngadeva, the author of *Sangita Ratnakara* A. D. 1210-1247.
 
  **Points of difference between the Northern and Southern India systems of Music—**The points of difference in the two systems are many, such as the names of the Ragas and their scales, the *Gamakas* or blending of notes, the construction of the species of songs &c., but the chief difference seems to be that the Northern India Musicians divided the Râgas primarily into six principal Ragas and each principal Råga had five Bharyas (wives). *Sangita Darpana, Sangita Ratnavalf, &c.,* support this system. But the Southern India system does not divide the Ragas on the
-
-
 
 above principle. In that system the Ragas are divided according to the different scales on which they are based *Sangita Ratnál ara, Sangita Paryata, Ragavibodha &c,* follow this system
 
@@ -160,15 +134,15 @@ above principle. In that system the Ragas are divided according to the different
 
   Our author dividessounds musical sounds into five kinds viz 1नखज sound produced by playing Vinâ strings with nails, 2 वायुजsound produced by means of wind through wind instruments, 3 चर्मज produced by means of leather through instruments, such as drums, &c, 4 लोहज sound produced by metal pieces, such as cymbals &c, 5 शारीरज sound produced by the human throat As far as I know none of the punted ancient works introduce this peculiar division of Musical sounds
 
-
-
  The families, castes, colours Dweepas (birth-places), Rishis, deities, Chhandas metres), Gottras, constellations, Rasis (zodiac signs), Grahas (planets) and Rasas (sentiment) of the sevennotes are mentioned m this work[^5]. These are not mentioned in Bharatas *Natya Sastra* But Sarngadeva has extracted all these in his *Sangita Ratnakara,* except the Gottras, constellations, Rasis and planets[^6]
 
 [^5]: "Vide page 3 verses 24–48"
 
+[^6]: "Vide Sangeta Ratnakara Vol I pages 45 & 46."
+
  It is strange that the names of the 22 S'rutis given in this book are quite different from those usually mentioned in other books on music such as Bharata *Natya S'astra, Sangita Ratnakara, Sangita Paryata and Sangita* *Darpana* The names of the 22 S'rutis as stated in the present book are [^7]
 
-[^6]: "Vide Sangeta Ratnakara Vol I pages 45 & 46."
+[^7]: " Vide page & verson 78-84."
 
 (षड्जे)—१ सिद्धा २ प्रभावती ३ कान्ता ४ सुप्रभा  
 (ऋषभे)—५ शिखा६ दीप्तिमती ७ उग्रा  
@@ -178,8 +152,6 @@ above principle. In that system the Ragas are divided according to the different
 (धैवते)—१८ शान्ता १९ विकलिनी २० हृदयोन्मलिनी  
 (निषादे)—२१ विसारिणी २२ प्रसूना  
  But the names given in Bharata, Sangita Ratnakara &c are:
-
-[^7]: " Vide page & verson 78-84."
 
 (षड्जे)—१ तीव्रा२ कुमुद्वती ३ मन्दा ४ छन्दोवती  
 (ॠषभे)—५ दयावती ६ रजनी ७ रतिका  
@@ -192,8 +164,6 @@ above principle. In that system the Ragas are divided according to the different
  Thus all the names differ except उग्रा But this name though common is assigned to the 7th S'ruti by our author while others give it to the 21st S'ruti.
 
  This circumstance clearly shows that our author must have borrowed these names from some older book which is not now available.
-
-
 
  Narada only mentions the names of the 18 Jatis[^8] described by Bharata but does not give their definitions or examples as is done in the *Sangita Ratnakara.*
 
@@ -217,9 +187,7 @@ above principle. In that system the Ragas are divided according to the different
 
 [^12]: "Vide page 22 verses 8-6"
 
-
 [^13]: "Vide Sangita Ratnâkara Vol II p. 480"
-
 
  The verses 22-40 on pp. 23-25, describing the ments of the different kinds of singers &c, in this work, are found in *Sangita Ratnakara* almost word for word[^14] In our text here they are corrupted by the copyists' mistakes It is difficult to decide whether the author of the_(^(Sangita Ratnakara)) inserted them in his work from this book or some one extracted them from the *Sangita Ratnakara* and interpolated them in the present work Arguments might be advanced to support either view I therefore leave the point for the decision of the experts
 
@@ -241,8 +209,6 @@ above principle. In that system the Ragas are divided according to the different
 
  **Date of Sangita Makaranda—**If we take all the above circumstances into consideration, we are obliged to anive at the conclusion that *Sangita Makaranda* is an older work than Sangita Ratnakar
 
-
-
  Further, the names of writers, mentioned in this work are Hari, Bramha, Matanga, Kiśyapa, Kamalisya, Chandi, Vylla, Sárdula, Nirada, Tumburu, Shanmukha, Bhringi, Devendra, Kubera, Kusika, Mitrigupta, Ravana, Samudia Sarasvati, Bali, Yaksha and Vikrama[^17] Many of these names are names of deities and Purinik personagos and it is beyond our means to determine their time But the names of Vikrama and Matigupta are historical As there have been several Vikiamas, it is difficult to say what Vikrama is meant But the mention of the name of Matrigupta, who is also mentioned by Sarngadeva in his Sangita Ratnakara as one of the writers on music, enables us to infer that the present work must have been written not earlier than 7th century A D Matrigupta, who was a poet and write on poetics, is said to have lived about the first half of the sixth century being a contemporary of Siliditya Pratapas la of Milva (A D 550-600) My esteemed fiend, T M Tripathi Esqr B. A of Bombay, informs me that from the *Natya Pradipa of Sundara Mis'ra* it appears that Matigupta has written a commentary on *Bharata's Natya Sastra*
 
 [^17]: " Vide pages 49 to 51"
@@ -250,8 +216,6 @@ above principle. In that system the Ragas are divided according to the different
  But there is one circumstance which may help us in deciding the priority of this work to *Sangita Ratnakara* For, Nárada mentions the name of only Matrigupta among the names of the historical personages as writers on music, and does not mention the names of the later writers such as Rudrata, Nanya Bhupala, Paramardı Somes'a, Lollata, Udbhata, S'anhuka, Abhinava Gupta &c. If Narada had copied the names of authors from *Sangita Ratnak ara,* he would not have omitted them It is likely that S'arngadeva copied the names of older authors from Naiadas book and added these later names known at his time to the list in bus book Nářada does not seem to have borrowed any verses from *Sangita Ratnakara* The treatment and order of the topics observed in *Sangita Makaranda* is quite different from that in the *Sangita Ratnakara*.
 
  This view is supported by another circumstance which seems to be a stronger proof Sarngadeva while giving the definition of
-
-
 
  the Gândhara Grâma states that it is according to Nârada's opinion—
 
@@ -280,8 +244,6 @@ above principle. In that system the Ragas are divided according to the different
 
  The credit of having dicovered this rare manuscript is due to the wife of Mr R Ananta Krishna Shastry, the officer employed by the Baroda Central Library for search of Sanskrit manuscripts. Mr Shästry, while on an offeral tour in H E H the Nizam's Territory an 1919, was examining Mss in an old Pandit's house at Gadwal with his wife when the latter noticed this Ms Through the kindness of the Hon Sir Stuart Fraser, K. C. S. I,
 
-
-
   C. I. E., the then Resident of Hyderabad Mr. Shastri obtained a note on H. H. The Raja Saheb of Gadwal through Mr. M. A. N. A. Hydari, B. A., Judicial *Secretary,* Hyderabad. Thus Mr. Shastry got the loan of the manuscript through the kind influence of the Raja SAheb to whom are due the sincerest thanks of all lovers of Indian music.
 
  **Description of the Manuscript—**The manuscript is written in *Devanagari characters* on old Ahmedabad paper of a yellowish tinge. It consists of 32 folios, the size of the folio being 10¼ x 5½ inches and each side of the folios containing 9 lines. The handwriting is fair and the headings of the subjects in the body of the text are written in red ink the colour of which has not faded, though the manuscript was written in the Shake year 1599 (A. D. 1677 that is 243 years ago. On the last three pages the copyist has painted 9 different designs of a rosette in black, yellow, rad and green colours.
@@ -295,10 +257,7 @@ above principle. In that system the Ragas are divided according to the different
 
  This Vidyapura is no other than Vijayanagara which was the capital of the late Vijayanagara Empire and which is now in ruins. The present manuscript was discovered at. Gadwal which, though now a feudatory of the Hyderabad State, was in *former* times a feudatory or a part of the Vijayanagara Empire. It is probable that after the complete ruin of Vidyapura alias Vijayanagara the manuscript must have come to Gadwal which is not very far from tho ruined capital. For this information I am indebted to my friend Mr. J. S. Kudalkar of *Baroda Central Library.*
 
-
 ----------------------------------
-
-
 
 |                                                                          |
 |--------------------------------------------------------------------------|
@@ -338,8 +297,6 @@ above principle. In that system the Ragas are divided according to the different
 | मृदङ्गलक्षणम्                                                            |
 | वीणाभेदाः                                                                |
 
-
-
 |                                        |
 |----------------------------------------|
 | अङ्गताललक्षणानि                       |
@@ -359,8 +316,6 @@ above principle. In that system the Ragas are divided according to the different
 | **नृत्याध्याये चतुर्थः पादः| **        |
 | मृदङ्गोत्पत्तितद्वादनप्रकारादिकथनम्    |
 | नटीभावनिरूपणम्                         |
-
-
 
 **श्रीनारदविरचितः **
 
@@ -389,8 +344,6 @@ above principle. In that system the Ragas are divided according to the different
 **अनाहतो हतश्चैव स नादो द्विविधो मतः।  
 यत्रोभयोस्तयोर्मध्येऽनाहतोऽपि निरूप्यते॥४॥**
 
-
-
 **आकाशसंभवो नादो यः सोऽनाहतसंज्ञितः।  
 तस्मिन्ननाहते नादे विरामं प्राप्य देवताः॥५॥  
 योगिनोऽपि महात्मानस्तदानाहतसंज्ञके।  
@@ -416,13 +369,11 @@ above principle. In that system the Ragas are divided according to the different
 सरस्वत्याश्च वीणायां षड्जादिस्वरसंयुतम्।  
 पाठयामास सर्वेषां हृद्यं श्रुतिमनोहरम्॥१६॥  
 रूपालप्ती रागालप्तिरिति स द्विविधः स्मृतः।**  
-**[रागास्त](http://॑ "’रागस्तग्ननतानात्यो रूपकः शब्द उच्यते’ इति शुद्धः पाठः स्यात् ।")न्ननतनाद्यरूपतः शब्दः उच्यते॥१७॥**
+**[रागास्त]("’रागस्तग्ननतानात्यो रूपकः शब्द उच्यते’ इति शुद्धः पाठः स्यात् ।")न्ननतनाद्यरूपतः शब्दः उच्यते॥१७॥**
 
 [^21]: "अस्य श्लोकस्य पाठोऽशुद्धः वर्तते। पुस्तकान्तरालाभात् आदर्शपुस्तके यथा दृष्टः तथैवात्र निवेशितः।"
 
 [^22]: "चातको रिषभं इति पाठे सन्धिदोषो न स्यात्।"
-
-
 
 **सामवेदादिदं गीतं तज्जग्राह[^23] पितामहः।  
 तद्गीतं नारदायैव तेन लोकेषु वर्णितम्॥१८॥  
@@ -457,8 +408,6 @@ above principle. In that system the Ragas are divided according to the different
 
 [^26]: "'संवादि' इति शुद्धं पदं, छन्दोभङ्गभिया 'स्वादिः' इवि रूपं कृतमिति भाति।"
 
-
-
 **पद्माभः पिञ्जरः स्वर्णवर्णः कुन्दप्रभः सितः।  
 पीतः कर्बुर इत्येते तेषां वर्णा निरूपिताः॥३०॥  
 षड्जः कमलवर्णः स्यादृषभः पिञ्जरस्तथा।  
@@ -491,8 +440,6 @@ above principle. In that system the Ragas are divided according to the different
 [^28]: "क्लिष्टोन्वोऽयं पाठः।"
 
 [^29]: "असम्बद्धमित्र भातीदमत्र श्लोकार्धम्। "
-
-
 
 **पञ्चमस्योत्तरा भं स्यात्पूर्वाषाढा तु धैवतम्।  
 अनुराधा निषादस्य षड्जादीनां तु तारकाः ॥४३॥  
@@ -530,8 +477,6 @@ above principle. In that system the Ragas are divided according to the different
 तत्सु (त्स्व?) रूपं देवलोके ज्ञातव्यं शास्त्रलक्षणैः॥५३॥  
 यदाधरित्रश्रुतिः षड्जे मध्यमे तु चतुःश्रुतिः।  
 रिमयोः श्रुतिरेकैका गान्धारस्य समाश्रया॥५४॥**
-
-
 
 **पञ्चमश्रुतिरेका च निषादश्रुतिसंश्रया।  
 गान्धारग्राममाचष्टे तदा तं नारदोऽब्रवीत्॥५५॥**
@@ -574,8 +519,6 @@ above principle. In that system the Ragas are divided according to the different
 
 [^37]: "भरतनाट्यशास्त्रे गान्धारप्रामो न वर्णित। संगीतरत्नाकरग्रन्थे 'सरा' इत्यस्य स्थाने 'नन्दा' इति पाठो वर्तते। सं. र.  पृ ५०।"
 
-
-
 **ग म प ध नि स रि ।**
 
 **षड्जः[^38]
@@ -607,8 +550,6 @@ above principle. In that system the Ragas are divided according to the different
 [^39]: " ‘सु गावव्या’ इति संगीतरत्नाकरे पृ. ४६्।"
 
 [^40]: " 'षड्जे तूतरमन्द्रादौ रजनी नोतरायता' इति शुद्धः पाठः स्यात्।"
-
-
 
 **जातिभिः श्रुतिभिश्चैव स्वरा ग्रामत्वमागताः।  
 तद्वत्तथैव भृत्यैव काव्यबन्धप्रतिष्टिताः॥८६॥  
@@ -645,8 +586,6 @@ above principle. In that system the Ragas are divided according to the different
 सप्त स्वरास्तथा सप्त मूर्च्छना याः प्रकीर्तिताः।  
 तानाश्चतुरशीतिस्तु ता एतस्मिन्निरूपिताः॥९७॥**
 
-
-
 **अग्निष्टोमादिनामानि तैरुक्ता नारदादिभिः।  
 देवनारदयोगेन तत्पुण्योत्पादनाय ते (?)॥९८॥  
 क्रममुद्ग्रन्थ्य तन्त्रीणां तानान्ये मूर्च्छनासु याः (?)।  
@@ -676,8 +615,6 @@ above principle. In that system the Ragas are divided according to the different
 
 [^46]: " 'मध्यमोदीच्यवा चैव नन्दयन्ती तथैव च' इति भ. ना. पाठः।"
 
-
-
 **कूर्मारवा[^47] च विज्ञेया तथानी कैशिकी तथा।  
 उच्चनीचा तथारूपा विरूपा विमतायतिः॥१०९॥  
 जातयोऽष्टादश ह्येवं ब्रह्मणा गदिताः पुरा।  
@@ -701,7 +638,6 @@ above principle. In that system the Ragas are divided according to the different
 
 इति श्रीनारदकृतौ सङ्गीतमकरन्दे सप्तस्वरोत्पत्तिपश्चनादोत्पत्तिप्रकृतिनिरूपणं नाम प्रथमपादः।
 
-
 ------------------------
 
 **सङ्गीताध्याये द्वितीयः पादः।**
@@ -712,8 +648,6 @@ above principle. In that system the Ragas are divided according to the different
 नादब्रह्म तदानन्दमद्वितीयमुपास्महे॥१॥  
 गीतस्वरूपं वक्ष्याम्यतिविचित्रं मनोहरम्।  
 राज्ञां कौतुकसंलापं विदुषां ज्ञानहेतुकम्॥२॥**
-
-
 
 **तत्स्वरूपं तन्ननादि चालापं स्वरगर्भजम्।  
 प्रकृतिशवलं ब्रह्म वीणारूपं तदुच्यते॥३॥  
@@ -732,8 +666,6 @@ above principle. In that system the Ragas are divided according to the different
 षड्जमध्यमपञ्चैते (?) चत्वारः श्रुतयो मताः।  
 निषादगान्धारौ द्वे द्वे त्रिस्त्रि ऋषभधैवतौ॥१०॥  
 रागालप्तिरूपलप्ती हस्नोकथितौ मतौ।**
-
-
 
 **प्रसन्नमध्यं च तथा क्रमादुचित[^48] एव च।  
 बिन्दुर्निवृत्तप्रकृतौ.... प्रेखो[^49] (प्रेङ्ख?) विह्वलौ॥१६॥  
@@ -770,8 +702,6 @@ above principle. In that system the Ragas are divided according to the different
 **
 -----------------**
 
-
-
 **सङ्गीताध्याये तृतीयः पादः।**
 
 **अथ रागनामान्युच्यन्ते।**
@@ -806,8 +736,6 @@ above principle. In that system the Ragas are divided according to the different
 ललितान्दोलश्रीका सौराष्ट्रेयजयसाक्षिकौ।  
 मल्हारः सामचेदी च वसन्तः शुद्धभैरवः॥११॥**
 
-
-
 **वेलावली च भूपालः सोमरागस्तथैव च।  
 एते रागास्तु गातव्याः प्रातःकाले विशेषतः॥१२॥  
 शङ्कराभरणः पूर्वो बलहंसस्तथैव च।  
@@ -834,8 +762,6 @@ above principle. In that system the Ragas are divided according to the different
 एवं कालविधिं ज्ञात्वा गायेद्यः स सुखी भवेत्॥२३॥  
 रागावेलागानेन रागाणां हिंसको भवेत्।  
 यः शृणोति स दारिद्री आयुर्नश्यति सर्वदा॥२४॥**
-
-
 
 **देवताविषये गीतं पुण्यनामप्रवर्द्धनम्।  
 आध्यात्मिकैव[^54] योगेन सर्वपापप्रणाशनम्॥२५॥  
@@ -871,8 +797,6 @@ above principle. In that system the Ragas are divided according to the different
 मुखहारी च सम्पूर्णो धैवतादिर्निगद्यते।  
 सम्पूर्णश्चाहरी प्रोक्तो मध्यमादिरुपक्रमः॥३७॥ **
 
-
-
 **बलहंसश्च सम्पूर्णो गान्धारादिः प्रकीर्तितः।  
 वसन्तः शुद्धसंज्ञश्च सषड्जादिरुदाहृतः॥३८॥  
 रामक्रिया शुद्धसंज्ञा सषड्जादिरुदाहृता।  
@@ -903,8 +827,6 @@ above principle. In that system the Ragas are divided according to the different
 वेलावल्योडवः स्यात्तु गादिर्वर्ज्यौ सरीस्वरौ॥४८॥।**
 
 [^56]: "‘स्रादी रिधविवर्जितः’ इति शुद्धः पाठः स्यात्।"
-
-
 
 **रामकृत्यौडवः स्यात्तु गादिर्वर्ज्यौ रिधौ स्वरौ।  
 नारायणी निपादादिरौडयो धपवर्जितः॥४९॥  
@@ -937,8 +859,6 @@ above principle. In that system the Ragas are divided according to the different
 वराटी द्रावडी हंसी गौडी नारायणी तथा।  
 अहरी मेघरञ्जी च मिश्रनाटा यथाक्रमात्॥५९॥**
 
-
-
 **अथ नपुंसकरागाः।**
 
 **कैशिकी ललितश्चैव धन्नाशी च कुरञ्जिका।  
@@ -967,8 +887,6 @@ above principle. In that system the Ragas are divided according to the different
 नारायणी च गान्धारी रञ्जी बङ्गालयोषितः॥७१॥ **
 
 [^58]: " ‘करुणे स्री’ इति शुद्धः पाठः स्यात्।"
-
-
 
 **पराटी द्रावडी हंसी वसन्तस्य च योषितः।**  
 **गुण्डक्रिया घूर्जरी च गौडी मालवयोषितः॥७२॥  
@@ -1003,8 +921,6 @@ above principle. In that system the Ragas are divided according to the different
 
 [^61]: " ‘मङ्गले’ इति पाठः अन्वयानुकूलः स्यात्।"
 
-
-
 **अकम्पाः कम्पसंयुक्ताः सकम्पाः कम्पवर्जिताः।  
 यस्तच्छृणोति मूढात्मा तावुभौ ब्रह्मघातकौ॥८५॥  
 विष्णुरूपो भवेत्तालो नादश्चैव शिवात्मकः।  
@@ -1026,8 +942,6 @@ above principle. In that system the Ragas are divided according to the different
 
 ** -----------------------**
 
-
-
 **सङ्गीताध्याये चतुर्थः पादः।**
 
 **अथ मृदङ्गलक्षणम्।**
@@ -1038,8 +952,6 @@ above principle. In that system the Ragas are divided according to the different
 द्विर्नादयुक्तः श्रेष्ठश्च श्रुतियुक्तश्च मर्द्दले॥२॥  
 स्त्रीध्वनिः पुरुषाकारः स्त्र्याकारश्चैव पुंस्वरः।  
 आयुर्लक्ष्मीहरौ नित्यमश्राव्यौ तावुभौ ध्वनी॥३॥**
-
-
 
 **सर्वेषां श्रुतिसंयुक्तमव्यक्तमधुरान्वितम्।  
 नादमीदृग्विधं श्रेष्ठमायुर्लक्ष्मीकरं जगुः॥४॥  
@@ -1077,8 +989,6 @@ above principle. In that system the Ragas are divided according to the different
 आत्मा विवक्षमाणोऽयं मनः प्रेरयते मनः।  
 देहस्था वह्निमहती स प्रेरयति मारुतः॥१४॥**
 
-
-
 **इति ग्रन्थिस्थितः सोऽथ क्रमादूर्ध्वपदे चरेत्।  
 नाभिहृत्कण्ठमूर्धन्येष्वभिघारयते ध्वनिम्॥१५॥  
 नादोऽतिसूक्ष्मः सूक्ष्मश्च पुष्टोऽपुष्टश्च कृत्रिमः।  
@@ -1112,8 +1022,6 @@ above principle. In that system the Ragas are divided according to the different
 [^65]: " 'रसभावपरिज्ञान देश स्थितिषु चातुरी' इति संगीतरत्नाकरे दृश्यते (पृ.२४४
 
 [^66]: " 'प्रभूतप्रतिभोद्भेदभावत्व सुभगगेयता' इति संगीतरत्नाकरस्थ पाठः ( पृ. २४४
-
-
 
 **रोषद्वेषपरित्यागी[^67]।") (गः?) साधुत्वमुचितज्ञता।  
 अनुद्धतोक्तिसंबद्धो[^68]नूत्नधातुविनिर्मकः॥२७॥  
@@ -1152,8 +1060,6 @@ above principle. In that system the Ragas are divided according to the different
 
 [^73]: " 'स्कूर्जन्निर्जवनो हारिरह कृद्धजनोद्धुर' इति सङ्गीतरत्नाकरे ।"
 
-
-
 **सुसम्प्रदायो गीतज्ञैर्गीयते गायनाग्रणीः।  
 इत्युत्तमस्तु विज्ञेयो गीतज्ञः प्रतिपादितः॥३८॥  
 गुणैः कतिपयैर्हीनो निर्दोषो मध्यमोत्तमः(मतः?)।  
@@ -1183,8 +1089,6 @@ above principle. In that system the Ragas are divided according to the different
 **षड्ज ऋषभगान्धारौ मध्यमः पञ्चमस्तथा ॥४८॥  
 धैवतश्च निषादश्च स्वराः सप्त प्रकीर्तिताः।  
 षड्जादिस्वरसंमिश्रं गानं च परिकीर्तितम् ॥४९॥**
-
-
 
 **आलापा द्विविधा ज्ञेयाः स्वरसंयोजने तथा।  
 रागालप्तिरूपलप्ती द्वयं च परिकीर्तितम्॥५०॥  
@@ -1216,8 +1120,6 @@ above principle. In that system the Ragas are divided according to the different
 **सङ्गीताध्यायः समाप्तः।**
 
 **——————**
-
-
 
 **अथ नृत्याध्यायो निरूप्यते।**
 
@@ -1257,8 +1159,6 @@ above principle. In that system the Ragas are divided according to the different
 कृतानुरागा जनरञ्जने रताः  
 अमी बुधाः साधुसभाविभूषणाः॥१०॥**
 
-
-
 **अथ कविलक्षणम्।**
 
 **शुचिर्दक्षः शान्तः सुजनविनतः सूनृततरः  
@@ -1297,8 +1197,6 @@ above principle. In that system the Ragas are divided according to the different
 ग्रहोपरागादिषु शुद्धलक्षणः  
 स पण्डितो देवगुरोः समानः॥१६॥**
 
-
-
 **अथ वैद्यलक्षणम्।**
 
 **पाण्डुश्वासकफात्तिसारविषजाः कर्मज्वरा भूतजाः  
@@ -1331,8 +1229,6 @@ above principle. In that system the Ragas are divided according to the different
 शृङ्गारगानज्ञवरान्कवींश्च॥२२॥ **
 
 [^78]: " ‘प्रवीणान्’ इति शुद्धः पाठः स्यात्। "
-
-
 
 **विलासिनोऽन्तःपुरतो विसारिणः  
 स्वकङ्कणैः कूजितकिङ्किणीरवैः।  
@@ -1370,8 +1266,6 @@ above principle. In that system the Ragas are divided according to the different
 उपाङ्गतालाङ्गमृदङ्गचातुरैः  
 समेत्य पात्रा जवनीतटे स्थिताः॥२८॥**
 
-
-
 **सा चित्रिणी शङ्खिनिहस्तिनी क्रमात्  
 सा पद्मिनी रूपविलाससंभ्रमाः।  
 आबालतारुण्यविदग्धयौवना  
@@ -1398,8 +1292,6 @@ above principle. In that system the Ragas are divided according to the different
 महीन्द्रस्य समीपाग्रे रङ्गपीठे समर्पयेत्॥३५॥  
 हस्तपाऽर्पितकुचौ कटौ विप्रणिताकृती।  
 नेत्रजातिसमेत्यैवं नीराजनकृतां नृपम् (?) ॥ ३६॥ **
-
-
 
 ** अथ पुष्पाञ्जलिः।**
 
@@ -1435,8 +1327,6 @@ above principle. In that system the Ragas are divided according to the different
 वैश्यजातिरिति प्रोक्तः कनकाभ इति स्मृतः।  
 मुरजा इति नामाख्यं नारदेन प्रशंसितम्॥४५॥**
 
-
-
 **तत्पुरुषेत्युत्तरे च मुखे सामवेदोद्भवं तथा।  
 सम्पद्वेष्टिकतालोऽयं तस्मात्सम्भवमुच्यते(?)॥४६॥  
 गान्धर्वमिति संज्ञं च मणिवर्णप्रशंसितम्।  
@@ -1467,8 +1357,6 @@ above principle. In that system the Ragas are divided according to the different
 हनूमांस्तुम्बुरुश्चैव अङ्गदश्चैव नारदः।  
 एते साहित्यसर्वज्ञा बुधास्तालान्प्रचक्रमुः ॥२॥**
 
-
-
 **एकोत्तरशतताला उच्यन्ते।**
 
 **चञ्चत्पुटश्चाचुपुटः षट्पितापुत्रकस्तथा।  
@@ -1497,8 +1385,6 @@ above principle. In that system the Ragas are divided according to the different
 मदनश्चैव विज्ञेयःपार्वतीलोचनस्तथा॥१४॥  
 ततो गारुगितालः स्यात्ततः श्रीनन्दनो जयः।  
 लीलाविलोकितश्चान्यो ललितप्रियमेव च।॥१५॥ **
-
-
 
 **जनको बद्धलक्ष्मीशो रागवर्धनसंज्ञकः।  
 उत्सवश्चेति तालानामेकेनाभ्यधिकं शतम्॥१६॥  
@@ -1532,8 +1418,6 @@ above principle. In that system the Ragas are divided according to the different
 
 [^82]: "अत्र आदर्शपुस्तकेऽक्षरमेकं त्रुटितम्।"
 
-
-
 **द्विला पो गगलो (लः) पञ्चसिंहविक्रीडिते लपौ।  
 द्वौ द्रुतौ लो द्रुतौ चैव वनमाली गुरुस्तथा॥२९॥  
 गुरुर्लघुद्रुतौ गुश्चच वर्णः स्याच्चतुरस्रके।  
@@ -1562,8 +1446,6 @@ above principle. In that system the Ragas are divided according to the different
 अथवा नगणो जश्च लघुश्चैव प्रकीर्तितः॥४१॥  
 जगणो लो द्रुतौ पश्च जयताले निरूपितः।  
 द्रुतद्वयं लघुद्वन्द्वं भवेत्ताले कुडुक्कके॥४२॥**
-
-
 
 **लघुद्वन्द्वं विरामान्त्यं ताले निःसारके भवेत्।  
 द्रुतद्वन्द्वं विरामान्त्यं क्रीडाताले प्रकल्पितम्॥४३॥  
@@ -1594,8 +1476,6 @@ above principle. In that system the Ragas are divided according to the different
 एकेनैव द्रुतेन स्यादेकतालेतिसंज्ञितः।  
 चतुर्विधान्यङ्काःलः पूर्वखण्डसमागमः॥५६॥ **
 
-
-
 **पूर्णे लघुचतुष्टेन गुरुणा लघुना क्रमात्।  
 द्रुतद्वन्द्वं लघुः खण्डे गुरुद्वन्द्वं लघुः समे॥५७॥  
 एको गुरुर्लघुद्वन्द्वं कङ्काले विषमे भवेत्।  
@@ -1625,8 +1505,6 @@ above principle. In that system the Ragas are divided according to the different
 अथवा मगणो लश्च गुरुद्वन्द्वं द्रुतत्रयम्।  
 गारुगे कथ्यते प्राज्ञैर्विरामान्त्यं चतुर्द्रुताः॥७०॥**
 
-
-
 **श्रीनन्दनस्य तालः स्याज्जगणः प्लुत इत्यपि।  
 जयक्के जगणश्चैव बिन्दुयुग्मं प्लुतस्तथा॥७१॥  
 बिन्दुर्लघुः प्लुतश्चिव लीलाताले प्रकीर्तितः।  
@@ -1641,8 +1519,6 @@ above principle. In that system the Ragas are divided according to the different
 नाम द्वितीयः पादः समाप्तः।
 
 —————————
-
-
 
 **अथ नृत्याध्याये तृतीयः पादः।**
 
@@ -1663,8 +1539,6 @@ above principle. In that system the Ragas are divided according to the different
 
 **गुरुद्वन्द्वं लघुद्वन्द्वं गुरुरेकस्त्रिभङ्गके।  
 चतुर्लघुलकारश्च लप्लुतश्च चतुर्मुखे॥६॥**
-
-
 
 **पञ्चतालप्रबन्धः स्याद्द्रुताद्यन्तं प्लुतश्चतुः(?)।  
 तमसा पञ्चलघुना षट्तालश्च प्रकीर्तितः॥७॥  
@@ -1696,8 +1570,6 @@ above principle. In that system the Ragas are divided according to the different
 **रङ्गद्यूतो राजतालो वनमाली त्रिधा मतः।  
 त्रिभङ्गी तालवृन्दं च नारदेन यथाक्रमम्॥१९॥**
 
-
-
 **एकतालश्च कङ्कालश्चतुस्तालश्च दोम्बुलिः।  
 चतुर्मुखप्रबन्धं स्याच्छ्रूयते शत्रुनाशनम्॥२०॥  
 कन्दर्पो बिन्दुमाली च समतालश्च नन्दनः।  
@@ -1726,8 +1598,6 @@ above principle. In that system the Ragas are divided according to the different
 प्रबन्धमर्कमालास्यं श्रूयते पापनाशनम्॥३२॥**
 
 **( इति दशतालः प्रबन्धः समाप्तः।)**
-
-
 
 **अङ्गतालाः क(थ्यन्ते)।**
 
@@ -1760,8 +1630,6 @@ above principle. In that system the Ragas are divided according to the different
 
 [^84]: " ‘द्रुतसाद्यन्त्यतकल्पनं’इति स्यात्।"
 
-
-
 **गगनिःशब्दलध्वेकद्वितीयं लगलप्लुतम्।  
 नगलो द्वौ द्रुतं दीप्तं यगणो लवलः स्मृताः॥४६॥  
 गुरवः सप्त विज्ञेयाः सरलानि च पोडश।  
@@ -1793,8 +1661,6 @@ above principle. In that system the Ragas are divided according to the different
 
 **दक्षिणो वार्तिकचैव तथा चित्रविचित्रकः।  
 तथा चित्रतरस्तु स्यादतिचित्रतरो मतः॥५६॥**
-
-
 
 **षडवः[^85] कथितो मार्गस्तस्य रूपं निरूप्यते।  
 एतदेव नारदस्य मतमिष्टं यथाक्रमम्॥५७॥  
@@ -1832,8 +1698,6 @@ above principle. In that system the Ragas are divided according to the different
 
 **देशीयोग्यं (ग्यान्) प्रवक्ष्यामि व्यापारान् ध्रुवकादिकान्।  
 ध्रुवका सर्पिणी कृष्या पद्मिनी चे विसर्पिका॥६८॥**
-
-
 
 **विक्षिप्ताख्या पताकाख्या मातृका त्वरिताष्टमी।  
 अमात्राणि (पि) विज्ञेया कथितं नारदेन च॥६९॥  
@@ -1874,8 +1738,6 @@ above principle. In that system the Ragas are divided according to the different
 चतुर्विधो भवेत्तालस्तत्वरूपं निरूप्यते॥७८॥**
 
 [^90]: " 'चतुरस्त्रस्तिस्रमिश्रस्तालः  खन्दाभिधस्तथा’  इति शुद्धः पाठः स्वात्।"
-
-
 
 **द्रुत्तादयः क्रमाद्वत्र यतिः स्रोतोवहा मता।  
 गोपुच्छा इति विज्ञेया द्रुतादीनां विपर्ययात्॥८८॥**
@@ -1918,8 +1780,6 @@ above principle. In that system the Ragas are divided according to the different
 
 [^97]: "'प्रागूने वामसंस्थास्तु संभवे' इति सङ्गीतरत्नाकरे।"
 
-
-
 **समध्वनिसमायुक्तं श्रूयते पुत्रवर्धनम्।  
 राज्याभिवृद्धिरतुलं रणे शत्रुपलायनम्॥८॥  
 एकमेकं भिन्नरूपं ध्वनिं यत्र शृणोति यः।  
@@ -1949,8 +1809,6 @@ above principle. In that system the Ragas are divided according to the different
 घनरवं नागन्धं चक्रभ्रमरिका तथा॥१९॥  
 अतिचक्रभ्रमरी विधृतभ्रमरिका ततः।  
 अष्टभ्रमरिकाण्येव नारदेन चिचर्चिता॥२०॥**
-
-
 
 **कुरुडायी शिरोभ्राम्यं स्थितं दक्षिणपार्श्वके।  
 पार्श्वे दृष्टिर्विषपदा उच्चोच्चगमनं ततः॥२१॥**
@@ -1983,8 +1841,6 @@ above principle. In that system the Ragas are divided according to the different
 [^98]: "अस्मादग्रे आदर्शपुस्तके त्रीण्यक्षरामि त्रुटितानि।"
 
 [^99]: "अत्रादर्शपुस्तके द्वे अक्षरे लुप्ते।"
-
-
 
 **अधोदृष्टिशिरःपातवदनं चिह्वतालुकम्(?)।  
 ........[^100]......तं वरगात्रमिति स्मृतम्॥३३॥  
@@ -2019,8 +1875,6 @@ above principle. In that system the Ragas are divided according to the different
 
 [^102]: " इतोऽये आदर्शपुस्तके लेखकेन आदर्शपुस्तकलेखनकालः स्वाभिधानादिकं च निरूपितं तथा—“शके १५९९ शालिवाहे पिङ्गलनामसंवत्सरे आश्विनमासे शुक्लपक्षे विजयदशम्यां विद्यापुरमहानगरे श्रीमन्महागणपतिदासकृष्णाजीदत्तेनेदं सङ्गीतमकरन्दाख्यपुस्तकं लिखितम्। महागणपतिर्जयति॥”"
 
-
-
 **श्रुतीनां संख्यानामशुद्धविकृतस्वरप्रदर्शकतालिका।**
 
 |                   |                     |                            |                                 |                              |
@@ -2048,8 +1902,6 @@ above principle. In that system the Ragas are divided according to the different
 | हृदयोन्मलिनी      | दैवतः               | त्रिश्रुतिकः               | ०                               |                             |
 | विसारिणी          | ०                   |                           | विकृतदैवतः                      | चतुःश्रुतिकः                 |
 | प्रसूना           | निषादः              | द्विश्रुतिकः               | ०                               | ०                            |
-
-
 
 ** प्राचीनसंगीतग्रन्थानां ग्रन्थंकाराणां च नामावली जिज्ञासुबोवधार्थमत्र प्रकाशिता। तत्र ये ग्रन्था मुद्रितास्तेषां नामानि नक्षत्रचिह्नेन दर्शितानि ।**
 
@@ -2085,10 +1937,6 @@ above principle. In that system the Ragas are divided according to the different
 | भरतलक्षणम्                    | ....... .....                     |
 | भरतशास्त्रम्                  | रघुनाथः                           |
 | भरतशास्त्रसङ्गीतम्            | ....... ......                    |
-
-
-
-
 
 **परिशिष्टम्-२**
 
@@ -2130,8 +1978,6 @@ above principle. In that system the Ragas are divided according to the different
 | सङ्गीतदामोदरः                      | शुक्रम्भरः                 |
 | सङ्गीतदीपिका                       | निम्बभूपालः                |
 
-
-
 |                                      |                                         |
 |--------------------------------------|-----------------------------------------|
 | ** ग्रन्थनामानि**            |  **ग्रन्थकर्तृनामानि**           |
@@ -2171,8 +2017,6 @@ above principle. In that system the Ragas are divided according to the different
 | सङ्गीतसुन्दरः                        | सदाशिवदीक्षितः                          |
 | सङ्गीतसुरामृतम्                      | तजावरनिवासि भोसले इत्युपातुलाजिमहाराजः |
 
-
-
 |                                   |                             |
 |-----------------------------------|-----------------------------|
 |  **ग्रन्थनामानि** |  **ग्रन्थकर्तृनामानि** |
@@ -2186,7 +2030,6 @@ above principle. In that system the Ragas are divided according to the different
 | स्वरमेलकलानिधिः                   | रामामात्यः                  |
 | हृदयप्रकाशः                       | हृदयनारायणदेवः              |
 | हृदयकौतुकम्                       | हृदयनारायणदेवः              |
-
 
 ---------------------------------------------------------
 
@@ -2213,8 +2056,6 @@ found in several Mss. Catalogues and Reports.)**
 **Bodleian Library Catalogue. **
 
 ८ हवरतावली by राघव.
-
-
 
 **India office Catalogue-Pt. 2-Eggeling.**
 
@@ -2264,8 +2105,6 @@ found in several Mss. Catalogues and Reports.)**
    (4) नृत्यरत्नकोश (5) रसरत्नकोश, of which No 2 consisting of  
  about one third of the work is yet to be secured
 
-
-
 **Rajendralal Mitra's Notices of Sanskrit Mss.**
 
 ३४. रागमाला by जीवराजदीक्षित.
@@ -2299,8 +2138,6 @@ found in several Mss. Catalogues and Reports.)**
 ५२. अष्टमातृकाप्रवन्ध.  
 ५३. गीतप्रकाश.  
 ५४. हस्तमुखावलि.
-
-
 
  **सङ्गीतमकरन्दग्रन्थस्थानां पारिभापिकादिशब्दानां वर्णानुक्रमणी।**
 
@@ -2340,8 +2177,6 @@ found in several Mss. Catalogues and Reports.)**
 | उष्णिक      | कैशिवी     |
 | ऋषभ          | कोहलं      |
 | सौडवः        | कोहलः      |
-
-
 
 **पारिभाषिकादिशब्दानां वर्णानुक्रमणी।**
 
@@ -2385,10 +2220,6 @@ found in several Mss. Catalogues and Reports.)**
 | चित्रा        | नस                |
 | चित्रावती     | नटः               |
 
-
-
-
-
 |                 |                  |
 |-----------------|------------------|
 | नागबन्धं        | बिन्दुः          |
@@ -2428,8 +2259,6 @@ found in several Mss. Catalogues and Reports.)**
 | बलि.            | योगिनः           |
 | वाला            | रजनी             |
 
-
-
 |               |               |
 |---------------|---------------|
 | षड्जः        | सम्प्रसारी    |
@@ -2456,123 +2285,4 @@ found in several Mss. Catalogues and Reports.)**
 | सम्पूर्णः     | हृष्यका       |
 |              | ह्लादी        |
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^18]: " Vide pages 49 to 51"

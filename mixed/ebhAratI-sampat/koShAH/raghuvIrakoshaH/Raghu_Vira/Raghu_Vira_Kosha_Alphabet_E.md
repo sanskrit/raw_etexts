@@ -17,8 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE4NTQ3NzgyNjk
 
 \[
 
-
-
 ***E***
 
 E.
@@ -39,8 +37,6 @@ e.
 (eccentricity)
 
 *Math.**उ***
-
-
 
 (उत्केन्द्रता)  
 
@@ -82,8 +78,6 @@ E
 (element)
 
 Chem.**त**
-
-
 
 (तत्त्व)  
 
@@ -703,8 +697,6 @@ East Indies द्वीपान्तर
 
 *n.*
 
-
-
 (ancient word),
 
 भारत-द्वीपसमूह
@@ -757,8 +749,6 @@ east of south
 दक्षिण-पूर्वा
 
 *f.*
-
-
 
 (द.पू.)  
 
@@ -831,8 +821,6 @@ eau
 Chem.
 
 **सलिल**
-
-
 
 *n.*  
 
@@ -1015,8 +1003,6 @@ Ebner's glands
 
 *Zool.*
 
-
-
 (albuminous or serous secreting glands in the posterior part of the
 
 tongue—Dorland)
@@ -1046,8 +1032,6 @@ ebracteate
 adj.
 
 Bot.
-
-
 
 (without bracts)
 
@@ -1107,8 +1091,6 @@ E.C.A.
 ecad
 
 Bot.
-
-
 
 (*ecology* पारिस्थिकी+-ad)
 
@@ -1312,8 +1294,6 @@ echard
 
 *Ecol.*
 
-
-
 (the water in the soil which is not available to plants)
 
 अप्रयोज्य जल, अप्राप्य
@@ -1350,8 +1330,6 @@ echicaoutchin
 (a resin-like substance from ditabark सप्तपर्ण-वल्क)
 
 *Chem.*
-
-
 
 सप्तपर्णोद्यासि
 
@@ -1467,8 +1445,6 @@ Echinoderes
 
 Zool.
 
-
-
 (echino 'spiny' + Gk. dere 'neck': spines on the proboscis—PH.I.305)
 
 शल्यशुण्ड
@@ -1522,8 +1498,6 @@ m.
 echinopluteus
 
 Zool.
-
-
 
 (larva of sea urchin)
 
@@ -1632,8 +1606,6 @@ echo
 
 1.प्रतिध्वनि
 
-
-
 m\.
 
 2.Radar
@@ -1660,8 +1632,6 @@ Eciton
 ecize
 
 vb. Plant Ecol.
-
-
 
 (to colonize)
 
@@ -1796,7 +1766,6 @@ Eclipta alba सामान्य
 
 (भृंगरज = भृंगराज according to धन्वन्तरी-निघण्टुHin. भांग्रा)
 
-  
 Eclipta erecta or prostrata = Eclipta alba
 
 ecliptic
@@ -1830,8 +1799,6 @@ eclosion
 
 Zool.
 
-
-
 (emergence from a covering, as of an insect from its pupa case)
 
 उत्कोशन
@@ -1841,8 +1808,6 @@ n.
 ecoclimate Plant
 
 Ecol.
-
-
 
 (the climate of the individual plant)
 
@@ -1855,8 +1820,6 @@ ecological
 adj.
 
 1.पारिस्थिक
-
-
 
 2.पारिस्थिकीय
 
@@ -2217,8 +2180,6 @@ Ectocion
 
 Paleontol.
 
-
-
 (had teeth of a type similar to those of perissodactyls, although not
 
 itself an ancestor of the odd-toed forms—Romer p.303)
@@ -2339,8 +2300,6 @@ ectopter
 ectospore
 
 Mycol.
-
-
 
 (an exogenous spore) **बहिर्बीजाणु** *m.*  
 
@@ -2697,7 +2656,6 @@ editorial संपादकीय
 
 *n.*
 
-  
 editors and press representatives पत्र-संपादक और पत्र-प्रतिनिधि  
 Edriasteroidea
 
@@ -2954,8 +2912,6 @@ eelpout
 
 *Zool.*
 
-
-
 (contains viviparous species. Compare its genus-name *Zoarces* lit.
 
 'life-giving')
@@ -2963,8 +2919,6 @@ eelpout
 जीवजमीन
 
 *m.*
-
-
 
 eelshaped
 
@@ -3276,8 +3230,6 @@ antimony, श- for शुल्बेय sulphide -इज for खनिज miner
 
 **Eichhornia** *Bot.***नीलारुणा-प्रजाति**
 
-
-
 **Eichhornia crassipesसामान्य-नीलारुणा  
 eiconogen** (a photographic developer, sodium salt of 1-amino-2-naphthol-6-sulphonic acid)
 
@@ -3472,11 +3424,7 @@ elaioplast
 
 *n.*
 
-
-
 *Bot.*
-
-
 
 (one of the oil-forming plastids)
 
@@ -3600,8 +3548,6 @@ Econ.
 
 (as, aconstitution)
 
-
-
 अनुनाम्य  
 
 elastica externa
@@ -3695,8 +3641,6 @@ elastic texture प्रत्यास्थ वयन
 elastin
 
 *Biochem.*
-
-
 
 प्रत्यास्थकि
 
@@ -4363,8 +4307,6 @@ Electron = Elektron
 
 aluminium, manganese and zincकुप्यातु)
 
-
-
 कुप्य-भ्राजातु
 
 *m.*
@@ -4389,8 +4331,6 @@ electron gas विद्युदणु-वाति
 electronic
 
 *adj. Phys.,Chem.*
-
-
 
 विद्युदणु-  
 electronic charge विद्युदणु-प्रभार  
@@ -4445,8 +4385,6 @@ electrophorus
 
 *Phys.*
 
-
-
 विद्युद्भर
 
 *m.*  
@@ -4481,8 +4419,6 @@ electropositive radical
 electroscope
 
 *Phys.* **विद्युदीक्ष**
-
-
 
 *m.*  
 
@@ -4563,8 +4499,6 @@ electrovalent
 *adj. Physical Chem.*
 
 विद्युत्संयुज
-
-
 
   
 electrovalent bond विद्युत्संयुज बन्ध  
@@ -7998,8 +7932,6 @@ Eobasileus
 
 *Paleontol.*
 
-
-
 (eo- उषो-, Gk. basileus 'king')
 
 उषोराज-प्रजाति  
@@ -8217,8 +8149,6 @@ Eotherium
 *Paleontol.*
 
 (one of the earliest Sirenia of the Middle Eocene— PH.II.611)
-
-
 
 उषोहस्तिमकर-
 
@@ -9211,8 +9141,6 @@ equatorial plate
 
 Biol.
 
-
-
 (of the spindle)
 
 मध्यपट्ट  
@@ -9663,8 +9591,6 @@ Law
 n\.
 
 (from महाभारत)
-
-
 
 justice न्याय
 
@@ -11118,7 +11044,6 @@ Eucalyptus
 
 **virgata**
 
-  
 Eucalyptusstuartiana
 
 (apple-scented gum)
@@ -11280,8 +11205,6 @@ to terrestrial rocks of the same composition)
 अनृजुदीप्ताश्म
 
 *m.*(anorthite अनृजुकिज
-
-
 
 ,augite दीप्तिज)
 
@@ -11641,8 +11564,6 @@ Eupodella
 
 *Aves*
 
-
-
 (this is found both on the sea-coasts and on the shores तीर of big rivers and
 
 lakes)
@@ -11731,7 +11652,6 @@ eurhythmics, eurythmics 1.
 
 *n.*
 
-  
 Europa
 
 *Astron.*
@@ -12358,8 +12278,6 @@ a tree or species) **कृच्छ्रजीवी** (Germ. *anspruchsvoll*)
 **exacting duties कठोर कर्तव्य  
 exaction बलाद्ग्रहण** *n.*  
 **exactitude = exactness यथार्थता, तथ्यता
-
-
 
 f.  
 **exactly यथार्थ, यथार्थतः, तथ्यतः, ठीक ठीक  
@@ -13985,8 +13903,6 @@ f\.
 
 Math.
 
-
-
 वितति
 
 f\.
@@ -14383,8 +14299,6 @@ extractum euonymi कुंकुबल्क-निस्सार
 extractum euonymi liquidum तरल कुंकुबल्क-निस्सार  
 extractum gelsemii liquidum तरल पीतजाति-निस्सार
 
-
-
 extractum gentianae liquidum तरल किरात-निस्सार
 
 (Lesco)  
@@ -14715,6 +14629,5 @@ eye-department नेत्र-विभाग
 eye-witness कर्मसाक्षी, प्रत्यक्ष साक्षी** (-इन्) *m.* (see attestator)  
 **eyeworm** (*Oxyspirura mansoni*) **नेत्रकृमि** *m.*  
 **eyeworm disease नेत्रकृमि-रोग**
-
 
 \]

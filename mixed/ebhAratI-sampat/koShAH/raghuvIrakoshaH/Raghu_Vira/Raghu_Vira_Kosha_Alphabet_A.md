@@ -17,8 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIxNjc3MjAzMjE
 
 \[
 
-
-
 **A**
 
 **A, a 1.**(first letter of the alphabet) **अ** *m.,***2.**(as a symbol, used to denote or indicate anyone or
@@ -9896,8 +9894,6 @@ allegation 1.
 
 *n.,*
 
-
-
 (Const.),
 
 2.आरोप
@@ -12009,8 +12005,6 @@ ammonolysis
 
 *n.*
 
-
-
 (तिक्ताति+अंशन)  
 
 ammonolytic
@@ -12527,8 +12521,6 @@ Amphicome
 कवर-प्रजाति
 
 (कवर occurs as a plant-name in lexicons)
-
-
 
 Amphicome emodi सामान्य कवर
 
@@ -16323,8 +16315,6 @@ word)
 **Apium** **graveolens** (celery, cultivated celery, marsh parsley, smallage, wild celery) **सामान्य**
 
 **अजमोदा** (B., N., M. अजमोदा, Hin. *ajmud*, Mar. अजमोदा)
-
-
 
 **Apiuminundatum** (submerged or floating porennial—Br.Fl.p.653) **जलप्लुत-अजमोदा**  
 **Apium involucratum = Carum roxburghianum**  
@@ -23054,6 +23044,5 @@ colour)
 **azygos vein** *Anat.***अयुक्त-सिरा**  
 **azygous** *adj.***अयुक्त**  
 **-azylic** *adj.* **-अजीवलिक**
-
 
 \]

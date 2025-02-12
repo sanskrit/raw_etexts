@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3ODY1NzUyODg
 
 \[
 
-
-
 द्व्यक्षरीनाममाला
 
 सौभरिः
@@ -691,7 +689,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU3ODY1NzUyODg
 This is prepared an d compiled by
 
 Dr.P .Srinivas , Lecturer in Vyakarana , S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011  
-
-
 
 \]

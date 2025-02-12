@@ -15,29 +15,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk2MzQzNjc1Njg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
-
-
 
 **Life of Srimad Vedanta Desikar.**  
 ![](../books_images/U-IMG-1722182792Screenshot2024-07-28213620.png)
@@ -46,41 +26,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk2MzQzNjc1Njg
 
   There was a great sage, Anantha Suri Somayaji, who married one Thotharamba and was spending his days in contented retirement, attending daily to the service of Bhagavan and the sacrificial fire. In their dreams, God Venkateswara, or the Lord of the Seven Hills at Tirupati, appeared to them and directed them to go on a pilgrimage to Tirupati where He would bless them with a son. Tirupati is one of the eight sacred places looked upon by all classes of Hindus with utmost reverence and love. The Puranas have unanimously declared that the great God Narayana after leaving Vaikunta came and settled down with His spouse Lakshmi near the tank at “Swami Pushkarini”. It is even affirmed with great authority that Tirupati is the only place where even sinners are brought to repentance and saved in this Kali Yuga. Lord Venkateswara, it said, gave to Emperor Thondaman His disc and conch. The great Ramanujacharya did Him a service by giving back to Him the disc and conch and reinstating Him in his former splendour.
 
-
-
 In return, the great God now desired this, that His doctrines should be improved and placed on a firmer basis. It was with that view that the Lord directed the couple to go to Tirupati.
 
   They related their dream to their well-wishers and on their advice started out towards Tirupati and reaching the temple on the hills worshipped Sri Venkateswara. In Thotbaramba's sleep she dreamt that the Lord appeared unto her as a boy and gave her the huge bell telling her that that would be her son. In the morning the bell was found missing and the temple authorities began to punish the servants. The couple related the dream to the public and the great sage of the hills said that he had had a dream to the same effect. The *Archaka* got inspired, and he revealed the intentions of God as being of like effect. Then the couple, with their faces beaming with joy, returned to Conjeevaram. For 12 years the wife was pregnant and on Wednesday the 10th, the bright night of the month of Bhadrapada in the year Sukla (4371 of the Kaliyuga) she gave birth to a son. As he was born on the 10th day of the festival of the Lord of the Seven Hills, he was named after Him as Venkatanath.
 
   After one year the child was taken to the temple of Varadarajaswami at Conjeevaram and there the God declared that he would live to excel the great Ramanuja. As he was born in the family of the sage Viswamitra, he was called by the elders, “Thoopul Pillai, or the boy of the sacred grass, or Visvamitram”. When five years old, he was taken by his maternal uncle Appillar to hear the Theosophical lectures delivered by the then leader Nadadhurammal, where, struck with the aura of the boy
 
-
-
 and reminded of the missing of the temple bell on the Hills and of the blessings of Varadarajaswami, all began to look at him with pleasure and in so doing forgot the place of their discourse. Ammal himself was unable to fix the place with precision : so much was he absorbed in thinking of the future greatness of the boy when, to their delight, this boy of 5 years pointed out to them the place where they had left off and even repeated the previous lectures with such exactness that Ammal, with tears of joy, embraced him and stroked his head and blessed him as Pulastya Bhagavan did in the case of Parashara Maharshi. Thenceforth he was instructed with great care in all that would make him useful to the world as a spiritual leader. While studying the Vedas he exhibited such an uncommon memory and excellent understanding and had such a great grasp of ideas that his teacher was in rapture at the thought of his future greatness. Thus he was able to dive into the depths of the Vedas, the mysteries of the Upanishads, Puranas and Itihasas, to excel others in ordinary Shastras, and to follow the footpaths of the learned Acharyas in unravelling the esoteric meanings of spiritual wisdom.
 
   Before he was twenty he became a perfect master of all kinds of education. Seeing him already a great saint, several elders accepted him as their spiritual guide. As Desika wanted to have a perfect command over everything, he started towards Cuddalore to pay his respects to Vainateya and to God Hayagriva. On his way he stopped at the temple of Madurantakam where Ramanuja was initiated into the mysteries of spiritual knowledge. At Cuddalore on the medicinal hill-top of Aushadhadri
 
-
-
 worshipped the man-lion God and sitting underneath a pepul tree he concentrated his mind on Vainateya, the embodiment of the Vedas. Vainateya appeared unto him and instructed him to concentrate his mind on Sri Hayagriva, (Horsebead God). Venkatanath did not, like others, pray to God with a selfish object in view. He simply prayed to God, as that would please Him most. The great Lord appeared unto him and gave him the *Amritam* foam which gushed from his mouth. That draught infused Desika with such divine splendour so that his face shone with the utmost brilliancy. All Vidyas assumed forms and waited upon the Guru as they once did upon Sri Ramachandra when He received instructions from the sage Visvamitra. He was ordained by Hayagriva as the improver of the Ramanuja-siddhanta and nothing but truth would emanate from his lips just as it came from Valmiki's lips when he composed the Ramayana. Thus blessed by the Lord he composed nine *prabandhams* in honor of the God at Cuddalore. He returned to Conjeevaram, where, to his joy, his Acharya's wife gave birth to a son whom he named Srinivasa. The good news was communicated to the father Appillar who was the Acharya of the king Sri Krishna Deva Raja. That very day Appillar was directed in his dream to hand over his tutelary God Hayagriva to Desika. Communicating this to the king and with his consent he sent the God with a great retinue to Conjeevaram. Desika accepted the God and displayed his love towards Him by composing a sthothram in his praise. He afterwards went to the Tirupati Hills and worshipped Venkateswara, who directed him to compose a worthy sthothram in his
 
-
-
 honor. Desika composed one called *Dáyásatakam* of 100 slokas which is an elaborate commentary on saranagathi mantra sara. On his way to Benares he stopped at a town on the banks of the Tungabhadra. Here he met his old class-mate Vidyaranya, the great commentator on the Vedas and Brahma-sutras and the next greatest in Adwaita Philosophy to Sankaracharya. The Raja's daughter was possessed by a Brahma Rakshasa and the Raja finding such a worthy couple in his town, requested their aid. Desika did not consent, but proceeded to Ayodhya, Srikurmam and other sacred places and worshipping the Gods, bathed in the sacred river Bhagirathi and returned to Southern India. He visited Ahobilam, Trivallore, Tinnanore, Triplicane and Sriperumbudur and finally came to Sri Rangam. Here he came in contact with a great Advaitic philosopher who being unable to defeat Desika by arguments had recourse to black magic. He dived into a pond and caused Desika's stomach to swell, with the water which the pond contained. Guessing the cause Desika made a hole in the pillar and water began to gush out. Thus was the magician brought to his senses and he went away wondering at the greatness of his adversary. At this time Desika received a letter from his friend Vidyaranya who, on expelling the Rakshasa, was very influential with the king. The letter expressed the sorrow he felt for Desika's indigence and requested him to go there where he would be well provided for by the king. Desika was very sorry to see that his friend should become attached to worldly comforts and thus be retarded in his spiritual evolution.
-
-
 
    So he replied that a human being who is contented need not go and cringe to a king for his real necessities. As for riches, he had plenty of them in Varadarajaswami on the Hastisaila at Conjeevaram. Vidyaranya was astonished to behold the meekness of his friend. But at the instigation of the enemies of Desika, a poor Brahmin boy was instructed to go and beg of Desika for riches. The boy came to Desika and wanted his help. Desika took him to the temple of Lakshmi (Perundevi) and prayed to that Goddess when to the confusion and shame of his enemies heaps of gold fell in showers and the boy went away showing the riches he had to the public and extolling Desika. At this time Desika's wife gave birth to a worthy son Varadacharya. He excelled his father in his meekness and sanctity and all elders began to love him as they loved his father. Desika now began to compose many works, the chief of which are: (1) A collection of esoteric secrets; (2) commentaries on Ramanuja's commentary and Yamuna's abstract on Bhagavad Gita; (3) a commentary on Sri Bhashya; (4) notes on Ishavasyopanishad; and (5) a work pointing out defect of other religions and answers to their attacks on Visistadvaita.
 
   As Nammalwar had already rendered a Tamil version of the essence of Samaveda into 1000 stanzas and as Tamil was very difficult to understand, he composed 100 stanzas in Sanskrit, each stanza embodying the gist of 10 stanzas. As Yamunacharya has composed a sthothram in praise of the Kalyana Gunas of Narayana, Desika made a great commentary on the same, known as “Sthothra Bhashyam.” He went to Srirangam and in
 
-
-
 one hour composed 1000 slokas (Paduka sahasram) in honor of the sandals of Ranganatha. Ranganatha was so very pleased with the beauty and diction of the sthothram that he styled him “Sarva Thantra Svathantra” and “Kavitharkika Simham.” Once upon a time Vidyaranya, the representative of Advaitic Philosophy, and Akshobhya Tirtha, that of Madhva Philosophy, were engaged in vehement discussions on the Kalyana Gunas of Narayana and the matter was referred to the final decision of Venkatanath. Venkatanath pronounced that Vidyaranya, the vast forest of Vidyas, was cleared away by Akshobhya, the great sword in the discussion. *Asina Thatwamasina Paratathwa Prabhedhina*. He afterwards went to Trinagiri, the birthplace of the great Nammalwar, then reached Yadhugiri and having worshipped the God, came to Srirangam where he spent his closing period in attending to the spiritual welfare of his people.
 
   Thus by his simple living and saintly habits and austere devotion towards Ranganatha, he showed to the world that a Grihasta with all his family ties can attain *Moksha* without becoming a Sanyasin or renouncing the world and one's responsibilities to it. As a poet Desika is beyond comparison. He wrote three works: (1) Yadava Abhyudayam; (2) Sankalpa Suryodayam; (3) Hamsa Sandesam, besides 6 Kavyams which all excel those of the great Kalidasa, the renowned, dramatist. He composed all 32 sthothrams, 8 Kavyams, 24 discourses on the Sastric principles, 32 secret doctrines, 24 prabandhams, and a big book, Nigama Parimalam, treating of Narayana and His Sattvic Kalyana qualities. He lived
-
-
 
 for more than 100 years and then with great calmness of mind received permission from God to give up his life and reach Sri Vaikunta. Before his death he summoned all his disciples, advised them to lead a simple and virtuous life full of true devotion towards Narayana, and to be guided by his high-minded son Varadacharya whom be directed to lead a celibate life as he was not sure that his descendants would preserve the sanctity of the race. Thus passed away this magnanimous soul after striving its best to help the world and leaving behind it a name never to be effaced from the annals of spiritual records.
 
@@ -94,35 +60,21 @@ for more than 100 years and then with great calmness of mind received permission
 
 ![](../books_images/U-IMG-1722218107Screenshot2024-07-11161259.png)
 
-
-
 **यादवाभ्युदये प्रथमादि चतुर्थसर्गस्थानां**  
 **॥ श्लोकानामनुक्रमणिका ॥**  
 **![](../books_images/U-IMG-1722230198Screenshot2024-07-28213620.png)**
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 **॥ श्रियै नमः॥**
 
@@ -148,8 +100,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   ननु अपरिमेयानन्तकल्याणगुणस्य भगवतो गुणकथनं कथं शक्यमित्याक्षिपति॥ **यदेकैकेति**॥ निगमाः वेदाएव वन्दिनः (सन्तमसन्तं वा कमपि
 
-
-
 **शक्त्या शौरिकथास्वादः स्थाने मन्दधियामपि।  
 अमृतं यदि लभ्येत किं न गृह्येत मानवैः॥३॥**
 
@@ -162,8 +112,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   **वसुधेति**॥ वसुधाश्रोत्रं वल्मीकं ‘वामलूरुश्च भूश्रवः’ इति वल्मीकपर्यायेषु रत्नकोशः। तत्र जातः वसुधाश्रोत्रजः (रामायणकर्ता) वाल्मीकिः। तस्मिन्। व्यासे च महाभारतनिबद्धरि द्वैपायने च। हृदयस्थिते मनसि स्फुरति सति अन्येऽपि तदुभयव्यतिरिक्ताअपि कामं अत्यर्थम्। अनपत्रपाः रामायणं महाभारतञ्च दृष्ट्वा स्वप्रबन्धान् पश्यन्तः कथं नापहसिष्यन्तीति परेभ्यस्त्रपया रहिताएव। कवयः काव्यकृतः। बभूवुः। व्यासबाल्मीकिप्रबन्धौ दृष्ट्वापि तदन्येषां स्वयं प्रबन्धनिर्माणे प्रवृत्तिः केवलं निरपत्रपकृत्यमेवेति भावः॥४॥
 
-
-
 **सकविः कथ्यते स्रष्टा रमते यत्र भारती।  
 रसभावगुणीभूतैरलङ्कारैर्गुणोदयैः॥५॥**
 
@@ -174,8 +122,6 @@ for more than 100 years and then with great calmness of mind received permission
  ** स इति**॥ रसाः शृङ्गारादयः भावाः तत्तद्रसोचिताः विभावानुभावसञ्चारिणः। गुणीभूतानि ‘अगूढमपरस्याङ्गं वाच्यसिद्ध्यङ्गमस्फुटम्। सन्दिग्धतुल्यप्राधान्ये काक्काक्षिप्तमसुन्दरं’ इत्युक्तरूपाणि अगूढत्वत्पराङ्गत्वादिनि- मित्तैरप्राधान्यं प्राप्तानि व्यङ्ग्यानि तैः। गुणीदयाः गुणानां रससमवेतानां माधुर्यादीनां उदयाः तत्तद्गुणोचितवर्णसमासरचनाभिव्यक्तयः। तैः प्रकारैरुपलक्षिता। भारती वाणी। यत्र यस्मित् कवौ। रमते बलादाकृष्यमाणतां विना स्वयमेव निरर्गला प्रवाहरूपा वर्तते। सः स्रष्टा अन्यैः कविभिरनुल्लिखितस्यार्थस्य प्रतिभया निष्पादकः। कविः इति कथ्यते व्यपदिश्यते इति प्रकृतोर्थः। अपि चात्र रसभावाः रागप्रयुक्ताः नयनानन्दावलोकनमन्दस्मिताद्यनुभावाः। तेषां गुणीभूतैः उपस्कारकैः तद्विजृम्भणहेतुभूतैरिति यावत्। अलङ्कारैः कटककेयूरादिभिः गुणैः रूपयौवनादिभिः। उदयन्ते नायकदर्शनेनोद्गच्छन्तीति उदयाः दृष्टिविकारादयः तैश्चोपलक्षिता भारती वाग्देवता यत्र रमते रतिङ्करोति। सः स्रष्टा लोकानां निर्माता चतुर्मुखः। कविरिति सर्वज्ञ इति व्यपदिश्यत इत्यप्रकृतोर्थः॥५॥
 
   अथ स्वकाव्ये नूतनमित्येव ये दोषमुद्भावयेयुर्मन्दांस्तान् प्रत्याह। **तदात्व इति**॥ सर्वं इदानीन्तनं प्राक्तनञ्चेत्यखिलं प्रबन्धजातम्। तदात्वे तत्काले नूतनम्। आयत्यां उत्तरकाले। पुरातनञ्च। एतदुभयं नूतनत्वं पुरातनत्वञ्च। जदोषाय न गुणाय च कल्पते सम्पद्यते। यन्नूतनत्वेन दूषयितुमिष्यते तदेव कालान्तरे पुरातनञ्जायते। यच्च पुरातनत्वेन उपादातुमिष्यते तदपि स्वकाले नूतनमिति न ते प्रबन्धेषु हानोपादानप्रयोजके। किन्तु तल्लक्षणवैकल्यसाकल्ये एवेति भावः॥६॥
-
-
 
 **प्रवृत्तामनघे मार्गे प्रमाद्यन्तीमपि क्वचित्।  
 न वाचमवमन्यन्ते नर्तकीमिव भावुकाः॥७॥**
@@ -193,8 +139,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  क्रीडेति**॥ विभुः निरतिशयवैभवः। श्रीमान् महालक्ष्म्या नित्ययुक्तः पुरुषोत्तमः एकः सहायान्तरनिरपेक्षएव। इदं विश्वं जगत्। समस्तं वा। चित्रं आश्चर्यभूतं तदेव चित्रं आलेख्यम्। कृपया दयारसेन रूषितया दिग्धया। क्रीडा लीलैव तुलिका आलेख्यकूर्चिका तथा। स्वयं स्वतन्त्रेण स्वस्मिन् आत्मन्यधिकरणे। अजीजनत् जनयामास॥९॥
 
-
-
 **जगदाह्लादनो जज्ञे मनसस्तस्य चन्द्रमाः।  
 परिपालयितव्येषु प्रसादइव मूर्तिमान्॥१०॥**
 
@@ -210,8 +154,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  यदपत्येति॥** यस्य चन्द्रमसः अपत्यं बुधः तस्मात् समुद्भूतः जातः। पुण्या पवित्रा पुण्यकरी वा कीर्तिर्यस्य तयोक्तः पुरूरवाः तदाख्यो राजा। आहितवह्निनां आहिताग्नीनाम् सतां शिष्टानाम् विहारे कालान्तरभाविनि परलोकविहारे। स्थेयतां विवादपदनिर्णेतृताम्। तिष्ठत्यत्रविवाद इति स्थेयः ‘स्थेयोविवादविषयनिर्णेतरि पुरोहिते’ इति विश्वः। ययौ प्राप। एवं विष्णुपुराणे पुरूरवसं प्रकृत्य श्रूयते—निर्मन्थ्याग्नित्रयमाम्नायानुसारी जुहाव। उर्वशीसालोक्यञ्च फलमभिसंहितवान् तेनैवाग्निना बहुविधान्यज्ञानिष्ट्वा गन्धर्वलोकानाप्य ऊर्वश्या सह योगञ्चावाप एकोग्निरादावभवदैलेन मन्वन्तरे त्रिधा प्रवर्तित’इति। अतः पुरूरवाः कर्मणामभिसंहितफलाफलसंवादे सतां प्रमाणभूतोऽभूदित्यर्थः॥११॥
 
 **  समवर्धतेति॥** तस्य चन्द्रमसः वंशः अन्वयः स एव वंशो वेणुः। उपर्युपरि उत्तरोत्तरम् पर्वभिः पुरूरवसः आयुः ततो नहुषइत्यादि प्रकारेणोत्पन्ना राजान एव पर्वत्वेनाध्यवसीयन्ते। तैः समवर्धत सम्यग्वर्धतेस्म। यस्य वंशस्य यशांस्येव मुक्ताफलानि तैः दिशोदश प्राच्यादयोष्टौ ऊर्ध्वमधश्चेति दशदिशः। विभूषिता अलंकृताः। वंशकाण्डेभ्यो मुक्ता फलान्युत्पद्यन्त इति प्रसिद्धिः। सवंशस्समवर्धतेति पूर्वेणान्वयः॥१२॥
-
-
 
 **बभूव नहुषस्तस्मिन्नैरावतइवाम्बुधौ।  
 यमिन्द्रविगमे देवाः पदे तस्य न्यवीविशन्॥१३॥**
@@ -234,8 +176,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  वीर इति॥** नहुषात् ययातिर्नाम ययातिरिति प्रसिद्धः। उत्साहात् तदारुपस्थायिभावात्। वीरः वीराख्यः रसइव। अभ्यजायत। भावोत्कर्षोरसरस्मृत
 
-
-
 **विशालविपुलोत्तुङ्गे यद्वाहुशिखरान्तरे।  
 आसीद्वीरश्रिया सार्धं भूमिरर्धासने स्थिता॥१७॥**
 
@@ -253,8 +193,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   **तटाकमिति॥** तं ययातिम्। पार्थिवाः प्रतिभूपतयः। तटाकं तापार्ताःआतपक्लिष्टा इव। इन्द्रं निर्जराः देवा इव। रसं शृङ्गारादिम् भव्याः तत्र योग्याः। भावाः विभावानुभावस्थायिसञ्चारिभावा इव। पर्युपासत परितः असेवन्त। इदमत्रानुसन्धेयम्।‘शृङ्गारहास्यकरुणाः रौद्रवीरभयानकाः। बीभत्साद्भुतशान्ताश्च बुधैः प्रोक्ता रसानव॥ रतिर्हासश्च शोकश्च क्रोधोत्साहौभयन्तथा। जुगुप्साचिस्म-
 
-
-
 **यदुर्नाम ततो जज्ञे यत्सन्ततिसमुद्भवैः।  
 समानगणनालेख्ये निस्समानैर्निषद्यते॥२०॥**
 
@@ -266,8 +204,6 @@ for more than 100 years and then with great calmness of mind received permission
   **यदुरिति॥** ततो ययातेः। यदुर्नाम यदुरिति प्रसिद्धः जज्ञे जातः। यत्सन्ततिसमुद्भवैः यद्वंशप्रभवैः। निस्समानैः। अप्रतिमैः पार्थिवैः समानगणना इमे समाना इति गणना। आलेख्ये चित्रे निषद्यते अधिष्ठीयते प्राप्यत इति यावत्। समानगणना क्रियते चेत् आलेख्यगततत्तत्प्रतिमास्वेव नान्यत्रेत्यर्थः॥२०॥
 
   अथास्य विवरणं श्लोकत्रयेण वर्णयति। **देहीति॥** सयदुः। देहीति वदतां याचमानानाम्। प्रायः प्रसीदन् भृशं सन्तुष्यन्। ललितध्वनिभिः मञ्जुलस्वनैः लक्ष्मीलीलाकमलषट्पदैःलक्ष्म्याः क्रीडाकमलगतैः भ्रमरैः। प्रत्युवाच। तं प्रति देहीति याचनसमयएव महता तस्य वितरणेन याचकेषु सन्निहितायाः श्रियः क्रीडापद्मभृङ्गरव एव तत्प्रतिवचनमासीदित्यर्थः॥२१॥
-
-
 
 **स च वृत्तविहीनस्य न विद्यां बह्वमन्यत।  
 न हि शुद्धेति गृह्येत चतुर्थीचन्द्रचन्द्रिका॥२२॥**
@@ -285,8 +221,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  शराणामिति॥** महौजसः महाबलस्य। तस्य यदोः। निर्धूतलक्षेण निरस्तशरव्येण। निरस्तच्छद्मना च। शराणां शात्रवाणां शत्रुसमूहानाञ्च। सन्धानेन।क्वचिदपि द्विः नाभूयत। तस्य प्रथमशरसन्धानमेव लक्ष्यघातकमिति पुनश्शरसन्धानं न कर्तव्यमासीत्। तथा तस्य सन्ध्यर्थिषु शात्रवेषु सन्धानं निष्कपटंनत्वग्रे बाधनाय च्छद्मनाविश्वासापादकमिति तदपि पुनर्न कर्तव्यमासीदित्यर्थः॥२४॥
 
-
-
 **युक्तदण्डममित्राणां कृतान्तं समवर्तिनम्।  
 दक्षिणं लोकपालन्तममन्यन्त दिवौकसः॥२५॥**
 
@@ -302,8 +236,6 @@ for more than 100 years and then with great calmness of mind received permission
   **यश इति॥**यशांस्येव प्रसूनानि तैः सुरभिः सुगन्धिः। कुसुमगन्धेनेव यशः प्रसरणेन दूरे विख्याप्यमानत्वात् सुगन्धित्वारोपः। बहुशाखः बह्व्यः शाखाः वेदप्रभेदाः (अन्यत्र विटपाः) यस्य तथोक्तः। अनेकवेदशाखाध्यायीति यावत्। यदुरेव सन्तानपादपः सुरद्रुमविशेषः। महावदान्यत्वात्। क्षमातले भूतले। विबुधानां विदुषां देवानाञ्च प्रीत्यै। बभूव। सन्तानः दिवि विबुधप्रीत्यै बभूव अयन्तु भुवीति विशेषः॥२६॥
 
  ** वंशइति**॥ तस्य यदोः वंशे। वसुदेवः क्षितीश्वरः वसुदेवाख्यः राजा। समभवत् सम्भूतः। यः प्राग्भवे पूर्वजन्मनि। देवानां दानवानाञ्च यूथयोः समूह्वयोः। ‘यूथं तिर्यवसमूहेपि वृन्दमात्रेपि भाषितं’ इति विश्वः। जनकः पिता अभूत् बभूव।—पुरा किल काश्यपः सुरभेरदितेश्च स्वपत्न्योरनुरोधेन वरुणस्य यज्ञगवीर्हृत्वा ब्रह्मणश्शापात् रोहिणीदेवकीरूपाभ्यां सह स्वयं वसुदेवरूपेण मानुष्यलोके जात इति हरिवंशकथा॥२७॥
-
-
 
 **आनकानाञ्च दिव्यानां दुन्दुभीनाञ्च निखनैः।  
 सह जातं यमाचख्युराख्ययानकदुन्दुभिम्॥२८॥**
@@ -327,8 +259,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  प्रख्यातेति॥** पूर्वम्। प्रजापतेः काश्यपप्रजापतिरूपस्य तस्य। प्रख्यातविभवे प्रसिद्धमाहात्म्ये पत्न्यौ सुरभिरदितिश्चेत्युभे भार्येमनुष्यत्वे मनुष्यभावे। रोहिणीदेवकीरूपे। बभूवतुः॥३१॥
 
-
-
 **अक्षुद्रगतिशालिन्योस्तयोरन्योन्यसक्तयोः।  
 ऐकरस्यमभूत्पत्या गङ्गायमुनयोरिव॥३२॥**
 
@@ -344,8 +274,6 @@ for more than 100 years and then with great calmness of mind received permission
   **स इति॥** स वसुदेवः। अनुरूपाभ्यां शीलवृत्तादिभिः सुसदृशीभ्याम्। ताभ्यां रोहिणीदेवकीभ्याम्। समेयिवान् समेतस्सन्। समतुष्यत् सन्तुष्टोऽभवत्। येन रोहिणीदेवकीसमवायेन। सपर्यङ्कस्य शेषपर्यङ्कसहितस्य। शार्ङ्गिणः शेषशायिनः। व्यक्तिहेतुः प्रादुर्भावहेतुः। अभूत्॥३३॥
 
 **  आलिप्सतेति॥** अर्थकामयोः पुरुषार्थयोः पराङ्मुखः विमुखः। धर्ममोक्षपरत्वात्। सवसुदेवः। साम्राज्यं सम्राजो मण्डलेश्वरस्य भावं राज्याधिपत्यम्। नालिप्सत लब्धुन्नैच्छत्। आनृण्यरुचिः ‘यज्ञेन देवेभ्यः प्रजया पितृभ्यः’ इति श्रौतं ऋणं नास्ति यस्य सः अनृणः तस्य भावः आनृण्यं तस्मिन् रुचिर्यस्य तथाभूतस्सन्। यदृच्छागतं अनियमेनागतं अयत्नेन दैवाल्लब्धं ऐश्वर्यम्। अन्वभूत् अभुङ्क्त॥३४॥
-
-
 
 **कयाचिदशरीरिण्या वाचा व्यवसितायतिः।  
 देवकीं वसुदेवञ्च कंसः कारामयोजयत्॥३५॥**
@@ -367,8 +295,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  एतस्मिन्निति॥** एतस्मिन् अन्तरे अवसरे सागरमेखला समुद्ररशना देवीधरित्री मेरुमध्यं उपेयुषुःप्राप्तवतः प्रजापतिमुखान् चतुर्मुखप्रभृतीन् देवान् प्राहवक्ष्यमाणमुवाच। आहेत्युवाचार्थे अव्ययं कुगतिप्रादय इति प्रादिसमासः॥३७॥
 
 **  विदितमिति॥** हे देवाः विश्वरूपेण विश्वविग्रहेण विष्णुना महीयान् पर्वतादिभारेभ्योऽतिशयेन महान् भारः धर्मशीलेषु धर्मस्वभावेषु धार्मिकेषु निवेशितइति यत् तत् भवतां विदितं युष्माभिर्ज्ञायते। विदितमित्यत्र ‘मतिबुद्धिपूजा-
-
-
 
 **अधर्मनिघ्नैरधुना धर्मसेतुविभेदकैः।  
 असङ्ख्यैरद्भुतैस्तुङ्गैः क्रम्ये राक्षसपर्वतैः॥३९॥**
@@ -392,8 +318,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   **पुरस्कृत्येति॥** देवाः जगद्धात्रीं भूमिं पुरस्कृत्य मनसः मानसस्यापि पुरस्सराः ततोऽपि रंहस्विनस्सन्तः दूरमेत्य क्षीराब्धेरुत्तरतटपर्यन्तं गत्वादुग्धो
 
-
-
 **त्रिवेदीमध्यदीप्ताय त्रिधाम्ने पञ्चहेतये।  
 वरदाय नमस्तुभ्यं बाह्यान्तरहविर्भुजे॥४३॥**
 
@@ -411,8 +335,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  स इति॥** गुणाः ज्ञानशक्तिबलैश्वर्यादयएव रत्नानि तेषां ओघैः समूहैः दीप्यमानः प्रकाशमानः दयांबुधिः कृपाश्रयः समुद्रइव विपुलाधारः समुद्ररूपो भवान् त्वम्। व्यूहविभवैः व्यूहाः वासुदेवसङ्कर्षणप्रद्युम्नानिरुद्धाः विभवाः रघुनाथाद्यवताराः तैः तरङ्गैः ऊर्मिभिरिव ताण्डवं नर्तनं तथा तथाभिनयनम्। समुद्रपक्षे उल्ललनम्। तनोति करोषि। भवच्छब्दप्रयोगेण प्रथमपुरुषः। अनेन दयालोस्तव भक्तरक्षणायावतारादिपरिग्रहः स्वाभाविकइति इदानीमपि रक्षणायावतरितव्यमिति व्यज्यते॥४५॥
 
-
-
 **त्वदेकव्यञ्जितैरादौ त्वदन्येष्वनिदंपरैः।  
 निगमैरनिगम्यं त्वां कः परिच्छेत्तुमर्हति॥४६॥**
 
@@ -429,8 +351,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   **नम्यस्येति॥** नम्यस्य सर्वलोकनमस्कर्तव्यस्य क्षुद्रान् अल्पानिन्द्रादीनपि (उपेन्द्राद्यवतारैः) नमतः वरदस्य सर्वलोकवरप्रदायकस्य तथापि वरार्थिब्रह्मादिषु नः पुत्रैः काश्यपादिभिः पितृमतः ते तव क्रीडा कथं केन प्रकारेण प्रवृत्ता केन वा पुरुषेण वर्ण्यते। अचिन्त्यस्तव क्रीडाप्रकारः अतएव तव वर्णने न कोपि शक्त इत्यर्थः॥४८॥
 
-
-
 **नटवद्भूमिकाभेदैर्नाथ दीव्यन् पृथग्विधैः।  
 पुंसामनन्यभावानां पुष्णासि रसमद्भुतम्॥४९॥**
 
@@ -446,8 +366,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  ब्रह्मेति॥** ब्रह्मा आदिः पूर्वः स्तम्बः तृणादिः पर्यन्तः उत्तरावधिः येषान्ते ब्रह्मादिस्तम्बपर्यन्ताः सर्वेपि प्राणिनः तएव विचित्रांकुराः तच्छालिनां तद्भाजाम्। कर्माण्येव कन्दाः सस्यमूलानि तेषां। केवलं तव क्रीडैव सलिलं त्वत्क्रीडामात्ररूपसलिलावसेकसहकृताएव कर्मकन्दा विचित्रप्रपञ्चरूपानङ्कुरान् जनयन्तीत्यर्थः॥५०॥
 
 **  निरिति॥** निराधारः आधारनिरक्षेपः निजः आत्मीयः स्थेमा स्थैर्यं यस्य तस्य। निरुपाधिकशेषिणः स्वभावादेव सकलजगत्प्रधानभूतस्य। निरपेक्षं सहकार्यान्तरनिरपेक्षं यथातथा नियन्तुः जगन्नियामकस्य ते तव गुणाः निस्समाम्यधिकाः समाम्यधिकरहिताः। लोके हि स्थिराणां भूधरादीनां स्थैर्यमाधारसापेक्षं भृत्यादीन् प्रति राज्ञां शेषित्वं भृतिदानाद्युपाधिप्रयुक्तं तेषामेव राज्यादिनियन्तृत्वममात्यादिसापेक्षम्। भगवतस्त्वनीदृशाः स्थैर्यादय इति भावः॥ ५१॥
-
-
 
 **अनाविलधियामन्तश्चिन्तामणिरिव स्फुरन्।  
 दिशस्यभिमतं सर्वमतिरस्कार्यदीधितिः॥५२॥**
@@ -470,8 +388,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  अपरीति॥** देशकालादिभिः विभुत्वात् देशेन नित्यत्वात् कालेन सर्वात्मकत्वात् वस्तुना च अपरिच्छिद्यमानस्य तव त्वं एकएव निदर्शनं दृष्टान्तः
 
-
-
 **अकर्तुमखिलं कर्तुमन्यथाकर्तुमप्यलम्।  
 सङ्कल्पसचिवः काले शक्तिलेशस्सतावकः॥५६॥**
 
@@ -489,8 +405,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  त्रीति॥** त्रयाणां धर्मार्थकामानां वर्गस्तम्। अपवर्गं मोक्षं वा प्रतिलब्धुं प्राप्तुं प्रयस्यतां प्रयतमानानां त्वदनुग्रहः तव प्रसादः प्रलयेष्वपि दीर्घायुः प्रतिभूः लग्नकः यथा वृद्ध्याजीवाः प्रतिभुवं विश्वस्य वृद्ध्यर्थं धनं प्रयुञ्जते तथा सन्तः त्वत्प्रसादमेव कल्पान्तरेष्वपि फलप्रदं विश्वस्य त्रिवर्गापवर्गार्थानि कर्माणि अनुतिष्ठन्ति॥५८॥
 
-
-
 **यदेकमक्षरं ब्रह्म सर्वाम्नायसमन्वितम्।  
 तारकं सर्वजन्तूनां तत्त्वं तव च वाचकम्॥५९॥**
 
@@ -506,8 +420,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  त्वदिति॥** त्वया आलम्बितहस्तानां उद्धरणाय गृहीतहस्तानाम्। अतएव भवात् संसारकूपात् उन्मज्जतां सतां ब्रह्मविदां ‘अस्ति ब्रह्मेति चेद्वेद सन्तमेनन्ततो विदुः’इति श्रुतेः। मज्जतः पापजातस्य पापसमूहस्य हस्तावलम्बनन्नास्ति अतएव सहोन्मज्जनं नास्तीत्यर्थः॥६०॥
 
 **  अनन्येति॥** अनन्याः एकान्तिनः तेषां रक्षैव व्रतं तदस्यास्तीति अनन्यरक्षाव्रती तम्। भवन्तं चातकाः जलधरैकान्तिनश्शकुन्ताः तेषां व्रतं एकान्तित्वं चरितुं शीलमेषामिति तथोक्ताः स्वदेकनियताः। निरालम्बना भक्तियोगाद्युपायान्तरालम्बनरहिता भावना मनोव्यापारो यस्मिन्कर्मणि तद्यथा तथा उपायान्तरनिराशमितियावत्। अवलम्बन्ते प्रपद्यन्ते॥ उपायान्तरनैराश्यरूपस्याकिञ्चिन्यस्य प्रपदनाधिकारिविशेषणत्वान्निरालम्बनमावनमित्युक्तम्॥६१॥
-
-
 
 **अनिदम्पूर्वनिद्राणामनस्तमयभानुमान्।  
 आपादयसि पुंसां त्वमपुनस्स्वापजागरम्॥६२॥**
@@ -530,8 +442,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  स इति॥** दैत्यहृत्यां असुराणां हननं इच्छद्भिः सुरैः एवमुक्तप्रकारेण अभिष्टुतः अनन्यानां एकान्तिनां दृश्यः स पुरुषोत्तमः सहसा अतर्कितं दयया दर्शनं ददौ। तेषां पुरस्तादाविर्भूत इत्यर्थः॥६५॥
 
-
-
 **ततस्तं ददृशुर्देवाश्शेषपर्यङ्कमास्थितम्।  
 अधिरूढशरन्मेघमन्यादृशमिवाम्बुदम्॥६६॥**
 
@@ -552,8 +462,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  सुकुमारेति॥** सुकुमाराणि कोमलानि सुखः सुखकरः स्पर्शः येषामिति सुखस्पर्शानि तत्तत्कालसुखदा- यिस्पर्शविशेषयुक्तानि शोभनो गन्धो येषामिति सुगन्धीनि तैः। स्वविग्रहः स्वशरीरमेव गुणानां (आश्रयः) आरामः उपवनं तस्य प्रसूनैः पुष्पैरिव स्थितैः भूषणैः दिव्याभरणैरलंकृतम्॥६८॥
 
 **  आरञ्जितेति॥** आरञ्जितजगन्नेत्रैः अनुरक्तीकृतलोकलोचनैः अन्योन्य परिकमितैः परस्परेण सञ्जातप्रसाधनैः अमितसौन्दर्यैः अपरिमिताभिरूप्यैः अङ्गैःअनुकल्पितभूषणं अमुख्यकरूपीकृताभरणं आभरणेभ्योप्यङ्गानामेव परस्परमतिशयितशोमावहत्वादिति भावः॥६९॥
-
-
 
 **उत्तेजितजयोत्साहमायुधैरनघोद्यमैः।  
 शौर्यविक्रमशक्त्याद्यैः सहजैः स्वगुणैरिव॥७०॥**
@@ -576,8 +484,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  स्वेति॥** स्ववेत्रस्य करधृतस्य स्पन्देन चलनेन निष्पन्दा निश्चला नेतव्या देवसमीपप्रापणीया यस्य तेन। देवाय तत्तत्कार्यन्निवेदयितुं तत्समीपन्नीयमानान्
 
-
-
 **अनपायं तमादित्यमक्षयं तारकाधिपम्।  
 अपारममृताम्भोधिममन्यन्त दिवौकसः॥७४॥**
 
@@ -594,8 +500,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  अभयेति॥** विबुधा देवाः अभयेन अभयमुद्रया उदारं ख्यातं हस्ताग्रं यस्य। अनघं अघविरोधि दर्शनमात्रेण सकलदुःखापहारि स्वागतस्मितं कुशलप्रश्नरूपमन्दस्मितं यस्य। तं देवं अवेक्ष्य दृशोः फलमलभन्त। बहुष्वपि नयनेषु दृशोरिति द्विवचनञ्जात्यभिप्रायम् ॥७५॥
 
 **  तस्मा इति॥** नाकिनः देवाः निहताशेषदैत्याय निहतकालनेमिप्रमुखाखिलदैत्याय विदितार्थाय निहता दैत्याः भूमावुत्पन्ना बाधन्ते पुनस्तदर्थमागता इति स्वतएव विदितस्वागमनप्रयोजनाय तस्मै पुरुषोत्तमाय स्वापतै स्वागमनस्य निदानं मूलं विज्ञापयामासुः॥७६॥
-
-
 
 **तइमे क्षत्रिया भूत्वा क्षोमयन्ति क्षमामिमाम्।  
 तव तेजसि यैर्नाथ दनुजैश्शलभायितम्॥७७॥**
@@ -617,8 +521,6 @@ for more than 100 years and then with great calmness of mind received permission
   त्वत्पादोत्पन्नत्वात् त्वयैव रक्षणीयेत्याह। **जातेति॥** निखिलवेदानां उत्तमाङ्गानां शिरसां उपनिषदां उपधानतः प्रतिपाद्यत्वेन समाश्रयणीयतया उपधानभूतात् त्वत्पादकमलात् त्वत्पादपद्मात् एषाभूदेवी त्वदेकाधीनधारणा त्वदेकायत्तभरणकृत्या॥७९॥
 
 **  यदीति॥** हे नाथ भवान् भारव्यपनये भूभारावतरणे यदि न त्वरते यदि विलम्बते तदा पृथुवीचयः महातरङ्गाः उदन्वन्तः सागराः पृथिवीं प्लावयिष्यन्ति सेचयिष्यन्ति भारेण भुवि मध्ये नमितायां निम्नप्रवणजला जलनिधयस्ताम्मज्जयिष्यन्तीत्यर्थः॥८०॥
-
-
 
 **करुणाधीनचित्तेन कर्णधारवती त्वया।  
 मावसीदतु पृथ्वीयं महती नौरिवाम्भसि॥८१॥**
@@ -642,8 +544,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  प्रबोधेति॥** प्रबोधेन योगनिद्रापगमेन सुभगैः कान्तैः प्रसन्नैः भ्रूविकासमन्दस्मितानुगतैः “तत्प्रसन्नं भवेत्सभ्रूविलासं विस्मितञ्च यत्” इति॥ स्मेरैः हर्षविकासिभिः भक्तजनतापहरत्वेनोपचारात् शीतलैश्च कृपैव एको मुख्यः
 
-
-
 **त्वयि न्यस्तभराणान्नस्त्वमेतां क्षन्तुमर्हसि।  
 विदिताशेषवेद्यस्य विज्ञापनविडम्बनाम्॥८५॥**
 
@@ -666,8 +566,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   **आबद्धेति॥** अलकानां कुटिलकेशानां आमोदेन सौरभेण मोहितैः परवशीकृतैः अतएव आबद्धमण्डलैः उपरि मण्डलमाबद्ध भ्रमद्भिः भृङ्गैः अयत्नेन लब्धां मयूरच्छत्रसम्पदं मयूरपत्रकृतातपत्रशोभां बिभ्राणा धारयन्ती ‘शोभार्थेऽपि प्रयुज्यन्ते लक्ष्मी श्रीकान्तिसम्पदः’ इति हलायुधः॥८८॥
 
-
-
 **प्रियसन्दर्शनानन्दजनितैरश्रुबिन्दुभिः।  
 न्यस्तमौक्तिकनैपथ्यैः परिष्कृतपयोधरा॥८९॥**
 
@@ -688,8 +586,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  विपदमिति॥** विपञ्ची वीणेव मधुरस्वना हृद्यस्वरा एषा पृथ्वी विलक्षस्मितं विस्मयान्वितस्मितं लज्जान्वितस्मितं वा तेन सम्भिन्नमौक्तिकः संयुक्तमौक्तिकः अधरएव विद्रुमः प्रवालः यस्यास्तथाभूता सती विपदं जगाद च॥९१॥
 
 **  अथेति॥** अथ धरणीवचनानन्तरं भगवान् भव्यया कल्याण्या प्रतिश्रुत्प्रतिश्रुतिः प्रतिध्वनिः तया प्राप्तनिर्हादस्य लब्धघोषस्य पाञ्चजन्यस्य भगवच्छङ्खस्य अभिनन्द्यया प्रतिध्वनिमता पाञ्चजन्येनाभिनन्द्यमानयेव स्थितया चाचा तान् देवान् प्रत्यभाषत॥९२॥
-
-
 
 **माभैषुरसुरानीकात् भवन्तो मदुपाश्रयाः।  
 मदाज्ञामनवज्ञातुः परिभूत्या न भूयते॥९३॥**
@@ -713,8 +609,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  दमनादिति॥** हे त्रिदशाधिपाः सुरश्रेष्ठाः दनुजेन्द्राणां असुरप्रधानानां दमनात् प्रमथनात् भूयोऽपि यथापूर्वं लघुतां प्राप्तां भुवं उल्लाघितां व्याधिमुक्तीकृतामिव द्रक्ष्यथ बिलोकयिष्यथ॥१६॥
 
-
-
 **दैतेयमृगसङ्घाते मृगयारसभागिभिः।  
 भवद्भिरपि मेदिन्यां भवितव्यं नराधिपैः॥९७॥**
 
@@ -732,8 +626,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  इतीति॥** अनघादेशः अप्रतिहतनियोगः जनार्दनः विष्णुः इति उक्तप्रकारेण तान् विबुधान् समादिश्य आज्ञाप्य अवधीरितदुग्धाब्धिः अवमतितक्षीरांबुधिस्सन् मधुरायां मधुरानगरे मनः दधे। दुग्धाब्धिं विहाय मधुरायामवतरितव्यमित्यैच्छदित्यर्थः॥९८॥
 
   अत्र ‘सर्वत्रभिन्नसर्गान्तैः’ इति लक्षणानुरोधेन सर्गावसाने वृत्तान्तरमाह॥ **आश्वास्येति॥** अनघः निरवद्यः तत्तत्कर्मानुरोधितया वैषम्यनैर्घृण्यदोषरहितः पद्मापतिः श्रीपतिः वागेव अमृतं तस्य वृष्टिभिः आदितेयान् देवान् दैतेयानां असुराणां भारेण नमितां पृथिवीं देवीञ्च आश्वास्य वसुदेवस्य पत्न्यां देवक्यांप्रादुर्बभूवुः प्रादुर्भवितुमिच्छुस्सन् दयायाः समयं अंवसरं प्रणिदधे दध्यौ। असुरपीडितानां प्राणिनां देवकीवसुदेवयोश्च दयनीयतया तत्तत्कर्मानुसारेण समयंप्रतीक्षितवानित्यर्थः। वसन्ततिलकावृत्तम्॥९९॥
-
-
 
 **साधूनां स्वपदसरोजषट्पदानां  
 धर्मस्य स्थितिमनघां विधातुकामः।  
@@ -758,8 +650,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 ![](../books_images/U-IMG-1722441323Screenshot2024-07-28213620.png)
 
-
-
 **॥ द्वितीयः सर्गः॥**
 
 **अथागमानामनघेन भूम्ना धर्मस्य पूर्णेन धनागमेन।  
@@ -779,8 +669,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  अशेषेति॥** अशेषवेदैः अधिगम्यभूम्ना सकलवेदप्रतिपाद्यमहिम्ना सिद्धेन नित्येन रसायनपक्षे प्रसिद्धेन सिद्धैः देवयोनिविशेषैः निषेवितेन पूजितेन
 
-
-
 **शतह्रदाबन्धुरया स्वकान्त्या सञ्चारिजांबूनदबिम्बकल्पा।  
 त्रय्यन्तसिद्धेन रसायनेन कालेन भेजे कलधौतलक्ष्मीम्॥४॥**
 
@@ -797,8 +685,6 @@ for more than 100 years and then with great calmness of mind received permission
   **मयूरेति॥** अन्तः गर्भे वसतः त्रिधाम्नः श्रीकृष्णस्य मयूरपिच्छद्युतिभिः बर्हिबर्हाभैः मयूखैः किरणैः बहिः उपरिभागे श्यामा मूलसिता अधः प्रदेशे शुक्लातत्कान्तिः तस्याः देवक्याः द्युतिः मङ्गल्यरत्नाङ्कुराणां पालिका आवलिरिव बभासे चकाशेअङ्कुरा अप्युपरिभागे श्यामला मूले शुभ्राश्च भवन्ति तथा च देवकीप्रभामतीत्योपरि गच्छद्भिः कृष्णप्रभाकन्दलैः श्यामलिताभा देवकीप्रभा मङ्गल्या जगन्मङ्गलार्थानुष्ठिताङ्कुरार्पणकर्मकृतारत्नांकुरपङ्क्तिरिव बभासइत्यर्थः॥ अत्र कृष्णप्रभानिर्गमनोक्त्या परत्वज्ञापकंदौहृदलक्षणमुक्तन्॥५॥
 
   **काल इति॥**वसुदेवपत्न्याः काले गर्भोपचयसमये कर्पूरलिप्तेव स्थिता तथा शुभ्रा कपोलशोभा (कर्त्री) शशिनः प्रभेव प्रभा यस्यास्सा शशिप्रभा।
-
-
 
 **नवेन्दुनिष्यन्दनिभश्चकाशे वर्णः प्रतीकेषु मधुद्रवाङ्ग्याः।  
 अन्तस्थितेन प्रथमेन पुंसा प्रवर्तितं सत्वमिवावदातम् ॥७॥**
@@ -817,8 +703,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  तस्या इति॥** सङ्गतः क्षुब्धः मन्थाचलो यस्मिन् सः संक्षुब्धः दुग्धां बुधिः क्षीरसमुद्रइव सौम्या मनोज्ञा भाः कान्तिः यस्यास्तथाभूतायाः मन्थक्षोभेण परावर्तनसमये धावत्याधिक्यं दृश्यत इति कटाक्षास्सुधासाम्येन वर्ण्यन्त इति च तस्याः मन्दरक्षुभितदुग्धोदधिसाम्योक्तिः। तस्या देवक्याः सुधोल्लासजुषः अमृतविभ्रमयुक्ताः कटाक्षाः जगत्तय्याएव सौधस्य विलेपनमर्हतीति विलेपनार्हा तां
 
-
-
 **रक्षाविधौ राक्षसदानवानां कारागृहे कंसनियोगभाजाम्।  
 संपश्यमाना सकृदीक्षिता वा सङ्क्षोभयामास मनांसि सैषा॥१०॥**
 
@@ -836,8 +720,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  समायीति॥** तस्याः स्तन चूचुकयोः स्तनाग्रयोः आभा शोभा समाधिः ध्यानमेव सुक्षेत्रंउत्तमकेदारः तत्र कृषीवलानां कर्षकाणां सन्तोष एव सस्यं तस्योदये मेघकान्त्या योगिनामानन्दाद्गकारणभूतया गर्भस्य भगवतः त्विषा आभया गाढं भृशं अनुलिप्तेव चकास शुशुभे। धातूनामनेकार्थत्वात् कसगताविति धातुश्शोभायामपि वर्तते॥१२॥
 
-
-
 **कस्तूरिकाकाम्यरुचिस्तदीया रम्या बभौ चूचुकरत्नकान्तिः।  
 तद्गर्भसन्दर्शनलोलुपानामन्तर्दृशामञ्जनकल्पनेव॥१३॥**
 
@@ -853,8 +735,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  परेति॥** परावराणां उत्कृष्टापकृष्टरूपाणां पूर्वापररूपाणां वा सर्वेषां जगतां प्रभवस्य कारणस्य पुंसः भगवतः प्रकाशकत्वं प्रतिपत्स्यमानां प्राप्स्यतीं तां देवकीं भावितचेतसः संस्कृतान्तःकरणाः ज्ञानिनः विद्यामयींविद्यानिधिंविश्वपितामहीञ्चाभावयन्। त्रय्यन्नवत् परमात्मनः प्रकाशिकेति परविद्यानिधानरूपां विश्वजनकस्य प्रकाशिका लोकदृष्ट्या मातेति विश्वपितामहीञ्च मेनिर इत्यर्थः॥१४॥
 
 **  लिलेखेति॥** अभिज्ञा भगवन्मयत्वं प्राप्य सकललोकसंस्थानाभिज्ञा देवकी लीलया आहृते चित्रपटे आलेख्ययोग्यपटे आश्चर्ये पटेवा। यथार्हं यथोचितम्। यत्र यल्लेखनीयं तत्र तदनतिक्रम्येत्यर्थः। विश्वान्यपि जगन्ति अखिलानपि लोकान् लिलेख। प्रजानां पतयः स्रष्टारः प्रायः नूनं यन्मातृका या देवकीलिखितचित्रपटी मातृका येषां तथाभूतास्सन्तः। स्वेषु विधिषु स्वकृत्येषु प्रतीताः ख्याताः अभूवन्। प्रजापतीनामपि जगत्सृष्टौअनया लिखितचित्रपटः प्रायो मातृकामूदित्युप्रेक्षा॥१५॥
-
-
 
 **निराशिषां पद्धतिमाददाना नैश्रेयर्सी नीतिमुपघ्नयन्ती।  
 पुण्याशया पूर्वयुगप्ररोहमियेष देवी भुवने विधातुम्॥१६॥**
@@ -872,8 +752,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  अनादर इति॥** हे देवि तव सखीजनानां दया सखीजनविषया कृपा कथं न दूयेत न परितप्येन तप्येतैवेत्यर्थः। अतो दयापरतन्त्रया त्वया पूर्ववत्सल्लापनादिना सख्यस्सन्माननीया इति भावः। इति उपह्वरे रहसि सल्लपिता सखीभिसम्भाषिता सती मनोज्ञैः स्निग्धैः आलोकनैः उत्तरं आचचक्षे उक्तवती। अखिलजगत्प्रभोरावेशनात्स्वयमपि प्रभुशक्तिमाश्रित्य तादृशामेव शैलीमन्ववर्ततेत्यर्थः। अनेन गर्भप्रयुक्तं दौर्बल्यन्दर्शितम्॥१८॥
 
-
-
 **अशेत सा काममजातनिद्रा मातुं प्रवृत्तेव पदानि चक्रे।  
 अध्यास्त लोकानवधीरयन्ती भद्रासनं भावितपारमेष्ठ्या॥१९॥**
 
@@ -889,8 +767,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  परिक्रमेति॥** अन्यादृशैः पूर्वविलक्षणप्रकारैः आप्तविभावनीयैः नित्यान्तरङ्गावगन्तव्यैः परिक्रमप्रेक्षितभापिताद्यैः सञ्चरणावलोकनसम्भाषणादिभिः मदोपपन्ना मदकरद्रव्यसेवाकृतेन मदेन युक्ता। मदलालसा मन्धरा वा जितश्रमा श्रमजिता वेति जनैः शशङ्के शङ्क्यते स्म। अत्रापि ग्लानिः प्रभुशक्तिमन्धरताचेति द्वयमपि प्रतीयते॥२०॥
 
 **  शेष इति॥** स्वांआकृतिम्। शेषे अनन्ते शयानां गरुडेन यान्तीं अधिरत्नीपठं रत्नपीठोपरि पद्मे निषण्णां उपविष्टां हयाननैः किं पुरुषैः आश्रितवन्दिकृत्यां अवलम्बितस्तुतिपाठकृत्याञ्च स्वप्नदृशा स्वप्नरूपया दृष्ट्या ददर्श॥२१॥
-
-
 
 **अन्तस्थितं यस्य विभोरशेषं जगन्निवासं दधती तमन्तः।  
 तदात्मनो विश्वमपश्यदन्तस्तर्कातिगन्तादृशमद्भुतन्नः॥२२॥**
@@ -908,8 +784,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  त्रीति॥** त्रयाणां लोकानां पङ्गल्यनिधेः श्रेयांनिधानभूतायाः त्रयाणां वेदानां समाहारस्य त्रिवेद्याः सञ्जीवनीं सञ्जीवनकारिणीं वेदार्थरहस्यगोचरतया तत्प्रवणपदां वाचं उदीरयन्ती कथयन्ती अन्धप्रसादा अवितथानुग्रहा सा नियोगयोग्यान् नियोज्यान् नाकौकसां देवानां नामभिः इन्द्रचन्द्रादिनामभिः आजुहाव आहूतवती भगवत्तादात्म्यभावनया स्वनियोज्येष्वपि तदीयनियोज्येष्विव इन्द्रादिबुद्धिरेव तस्या बभूवेति भावः॥२४॥
 
-
-
 **यदृच्छया यादवधर्मपत्नी यामाह धर्मेषु परावरेषु।  
 अदृष्टपूर्वापरयापि वाचा प्रतिश्रुता नूनमभावि तस्याः॥२५॥**
 
@@ -925,8 +799,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  क्रियामिति॥** विश्वगुप्त्यालोकरक्षणेन क्रियां उपादित्सत विश्वगुप्तिरूपमेव क्रियामुपादातुमैच्छदित्यर्थः। किञ्च कृतापराधेऽपि जने कृपां अकार्षीत् करोति स्म। मुनीन्द्राणां वृत्त्याअध्यात्मचिन्तनरूपया मुखरीभवन्ती शब्दायमाना सती मुक्तिक्षमां मोक्षोचितां विद्यां परविद्यां वक्तुं इयेष इच्छति स्म॥२६॥
 
 **  सतामिति॥** नताङ्गी स्तनभारनमिताङ्गी सतां साधूनां चतुर्णां धर्मार्थकाममोक्षाणां वर्गएव फलं तस्य प्रसूतिः उत्पत्तिर्यस्मात्तस्मिन् महावदान्ये नारायणे गर्भङ्कते सति अभङ्गुरां अभङ्गशीलां उन्नतिं दानोत्साहरूपाञ्चित्तोन्नतिं आश्रयन्ती एका सा देवकीसर्वस्य सर्व अदित्सत एकयैव मया सर्वेपि सर्वाभीष्टदानेन तोषणीया इत्यैच्छदित्यर्थः॥२७॥
-
-
 
 **कृशोदरी तारकयाभिनन्द्या केनापि धाम्ना कृतवृद्धियोगा।  
 अतीत्य कार्श्यंक्रमशः प्रपेदे परामभिख्यां तनुरैन्दवीव॥२८॥**
@@ -944,8 +816,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  शनैरिति॥** शनैश्शनैः उपचीयमानां अन्तस्स्थकृष्णां अन्तर्गतदामोदरां चन्द्रलेखापक्षे अन्तर्गतकृष्णमृगां अतएव दर्शान्ते शुक्लपक्षारम्भे दीप्तां चन्द्रलेखामिव स्थितां तां अवलोकयन्तः जनाः आत्मनेत्रैः चकोरायितं चकोरवदाचरणं अनन्यपरतया तल्लावण्यसुधापानं चक्रुः॥३०॥
 
-
-
 **मयि स्थिते विश्वगुरौ च कृष्णे माभूद्भुवो भार इतीव मत्वा।  
 सखीजनानामवलम्ब्य हस्तान् सञ्चारलीलां शनकैश्चकार॥३१**
 
@@ -961,8 +831,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  मुकुन्देति॥** मुकुन्दो गर्भः कुक्षिस्थोयस्यास्सा देवी अवाप्तभूषा धृतभूषणा सती आत्मानं मुकुरेषु दर्पणेषु नापश्यत् किन्तु अन्यैरदृश्यं आत्मानं नाथे गर्भगते भगवति त्वेषति दीप्यत इति नाथत्विट् तेन नन्दकेन तत्खङ्गेनैव दर्पणेन अदिदृक्षत द्रष्टुमैच्छत् लौकिकदर्पणेषु सकलदृश्यस्यस्वशरीरस्य दर्शनं सदाक्रियमाणत्वादनादृत्य ‘तदात्मनो दृश्यमपश्यदन्तः’इति पूर्वोक्तरीत्या स्वान्तस्स्थितविश्वान्तर्गतत्वात्परैर्द्रष्टुमशक्यं स्वशरीरं सन्निहिते भगवत्खङ्गएव दिव्यदर्पणे द्रष्टुमैच्चछदित्यर्थः॥३२॥
 
 **  स्रज इति॥** प्रभूताः बह्वीः स्रजः माल्यानि वोढुं न शशाक। दौर्बल्यादिति भावः। रत्नविभूषणानां रत्नप्रधानाभरणानां कथा दूरे। तेषान्ततोऽपि भारादिति भावः। भविष्यति भगवदवतारानन्तरभाविनि क्षोणभरापनोदे भूभारनिरासे तत् तस्यामाल्याभरणापनोदनमेव प्राथमिकं प्रथमकालभवं प्रत्यायने ज्ञापकमासीत्। यत्रावतरति श्रीकृष्णस्तत्र भारापनोद नावश्यतायामेतत्प्रथमप्रवृत्तमुदाहरणमासीदित्यर्थः॥३३॥
-
-
 
 **दिवौकसो देवकवंशलक्ष्मीं विलोक्य तां लोकनिदानगर्भाम्।  
 विभूतिमग्रेसरवेदवादा व्याचख्युरस्या विविधप्रकारम्॥३४॥**
@@ -986,8 +854,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   अथ गर्भवर्गनान्तरं जयन्त्यानिशीथे भगवदवतारं वक्ष्यन् तदादौ सायंसन्ध्यादिक्रमेण निशीथपर्यन्तं वर्णयितुमुपक्रमते॥ **तापेति॥** जगतां तापोप-
 
-
-
 **सुवर्णपीताम्बरवासिनी सा स्वधामसञ्छादितसूर्यदीप्तिः।  
 उपासनीया जगतां बभासे मुरद्विषो मूर्तिरिव द्वितीया॥३८॥**
 
@@ -1004,8 +870,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  प्रसक्तेति॥** चरमाम्बुराशौ पश्चिमसमुद्रे प्रसक्तपातः प्रारब्धपतनः रक्तोरुबिंब अस्तमयप्रत्यासक्त्या अरुणविमलमण्डलः रविः दिनान्तएव नागो गजस्तेन अस्तशैलात् चरमाद्रेः दृढप्रणुन्नं नितान्तं यत्नेन निरस्तं मनश्शिलाशृङ्गं गैरिकशिखरमिव आबभासे॥३९॥
 
 **  निमज्जतेति॥** वारिनिधौ निमज्जता आरब्धासमाप्तनिमज्जनेन सवित्रा (कर्त्त्रा) को नाम करग्रहीता जायेत स्यादिति सम्भावनयैव तदा तस्मिन्काले करस्य किरणस्यैव हस्तस्य अग्रे उच्चैः दूरात् दूरं उदक्षेपि क्षिप्तं नूनम्॥४०॥
-
-
 
 **स्फुरप्रभाकेसरमर्कबिम्बं ममज्ज सिन्धौ मकरन्दताम्रम्।  
 सन्ध्याकुमार्या गगनाम्बुराशेः क्रीडाहृतं क्षिप्तमिवारविन्दम्॥४१॥**
@@ -1028,8 +892,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  तदेति॥** तदा तस्मिन् काले प्रोषितौ प्रवासं गतौ चन्द्रसूर्यो यस्मिस्तस्मिन्। दोषासुखे रजनीप्रारम्भे दूषितसर्वनेत्रं उपहृतसर्वलोचनं तमः वियोगिनां
 
-
-
 **सतारपुष्पा धृतपल्लवश्रीः प्रच्छायनीरन्ध्रतमःप्रताना।  
 विश्वाभिनन्द्या ववृधे तदानीं वैहायसी कापि वसन्तवन्या॥४५॥**
 
@@ -1046,8 +908,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  अलक्ष्यतेति॥**श्यामलं ताराभिः नक्षत्रैः आदर्शितमौक्तिकौघं प्रदर्शितमुक्ताफलनिकरं अन्तरिक्षं अवन्यां भूमौ निवत्स्यतः निवासङ्करिष्यतः विश्वपतेः कृष्णस्य भृत्येन कालेन कृतं वितानमिव मुक्ताफलसूत्रलब्धपरभागन्नीलवितानमिव अलक्ष्यत दृष्टम्॥४६॥
 
 **  अभृङ्गेति॥** स्वामिनि नाथे सूर्ये गते अस्तमिते सति नियतं वनस्थाः सातत्येन जलस्थाः नियमेन काननस्थाश्च ‘वनङ्कानननीरयोः’ इति विश्वः। अभृङ्गनादेन भृङ्गनादाभावेन प्रतिपन्नमौनाः प्राप्तवाङ्नियमाः निमेषभाजः मुकुलीभावभाजः ध्याननिमीलनभाजश्च पुष्करिण्यः पद्मिन्यः तस्य सूर्यस्य प्राप्तेः लाभाय सिद्धये तपः वितेनुः चक्रुः॥४०॥
-
-
 
 **निमीलितानां कमलोत्पलानां निष्पन्नसख्यैरिव चक्रवाकैः।  
 विमुक्तभोगैर्विदधे विषण्णैर्विबोघवेलावधिको विलापः॥४८॥**
@@ -1066,8 +926,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  निशेति॥** चन्द्रेण प्रतिपन्नसत्वा प्राप्तगर्भा पयोधौ समुद्रएव तल्पे शय्यायां निक्षिप्तदेहा तत्संश्लेषात् तत्र न्यस्तदेहेव स्थिता जगता समीक्ष्या उदेष्यदिन्दुकरसम्पर्कात् द्रष्टुंयोग्या कृशत्वं जहती अन्धकारावरणेन पूर्वं कार्श्यं प्राप्येव स्थिता अद्य तत्त्यजन्ती प्राचीदिशा प्राचीदिक् पाण्डरतां शुभ्रतां अयासीत् अगमत्। प्राप्तगर्भा तल्पे न्यस्तदेहा कान्त्यतिशयाज्जगतां दृष्टियोग्या कार्श्यं मुञ्चन्ती च शुभ्रतां गच्छतीति भावः॥५०॥
 
-
-
 **तमः प्रसङ्गेन विमुच्यमाना गौरप्रभा गोत्रभिदाभिनन्द्या।  
 विधूदयारम्भविशेषदृश्या प्राचीदिशाऽभासत देवकीव॥५१॥**
 
@@ -1084,8 +942,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  अपत्येति॥** यदुषु यदुवंश्यषु वीरः श्रेष्टो वसुदेवः तस्य पत्न्याः अपत्यलाभं भविष्यन्तं समीक्ष्य आलोच्य महोदधौ समुद्रे मग्नसमुत्थितेन निमज्योत्थितेन तद्वंशमान्येन यदुवंश्यकूटस्थतया पूज्येन चन्द्रमसा प्रतीतेन सादरेण पुरोहितेनेव पूर्वं अपत्योत्पत्तेः प्रागेव प्राप्तं उदयाय प्रत्यासन्नम्॥५२॥
 
 **  क्ष्वेलेति॥** क्ष्वेलोपमे गरलसदृशे सन्तमसे विष्वक्तते तमसि निरस्ते प्रथममाविर्भूतैः किरणांकुरैः निराकृते सतिं सुधास्तोमं अमृतपुञ्जमिव सोमं उद्वमन्ती उद्गिरन्ती आविर्भावयन्तीति यावत्। अमरेन्द्रस्य मान्या आशा प्राची दुग्धोदस्य क्षीरसमुद्रस्य वेला मथनकालीना जलवृद्धिरिव ‘वेलाब्धितीरांबुवृद्ध्योः’इति रत्नमाला। मनोज्ञां रम्याम्। लक्ष्मीं शोभामेव लोकमातरं दुदोह जनयामासेत्यर्थः॥५३॥
-
-
 
 **तमस्समाक्रान्तिवशेन पूर्वं जज्ञे निमग्नैरिव भूतधात्र्याम्।  
 ततस्तुषारांशुकरावगूढैरुत्तभ्यमानैरिव शैलशृङ्गैः॥५४॥**
@@ -1108,8 +964,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  तमांसीति॥** दुःखेन वार्यत इति दुर्वारं बलं यस्य सः। कालः समयः कामः मन्मथश्च क्रमेण दिशां तमांसि मनस्विनीनां मानिनीनां मनांसि च प्रायः
 
-
-
 **करेण सङ्कोचितपुष्करेण मदप्रतिच्छन्दकलङ्कभूमा।  
 क्षिप्त्वा तमश्शैवलमुन्ममज्ज मग्नो दिशानाग इवेन्दुरब्धेः॥५८॥**
 
@@ -1126,8 +980,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  मदेति॥** शक्रस्य काष्ठा इन्द्रस्य दिक् त्रयाणां लोकानां समाहारस्त्रिलोकी तां व्यञ्जयितुं प्रकाशयितुं उदेयुषा उदितवता मदोदयाताम्रकपोलभासा तत्क्षणोदितत्वादासवादिमदजननारुणगण्डतुल्यरूचा। शशिना नाथस्य स्वामिनो नारायणस्य सा प्रसिद्धा नाभिः अम्बुजेनैव चकाशे। भगवन्नाभीपद्ममपि चतुर्मुखोत्पादनद्वारा त्रिलोकीं व्यञ्जयितुं उत्पादयितुं उदितमाताम्रञ्च॥५९॥
 
 **  समीपत इति॥** सन्तमसं विष्वक्तमः अम्बुराशिरिव तस्य समीपतः समीपे शङ्खस्याकृतिरिवाकृतिर्यस्य शङ्खाकृतिः इदुबिम्बः। दोषा रात्रिः तत्र आविला प्रियाविरहदुःखोद्गतबाष्पकलुषा (दोषेण प्रमाप्रतिबन्धकेन विकृता च) तथाभूतया प्रोषितानां प्रवासिनां दृष्ट्या दत्तात् आहितात् पित्तोपरागात् पित्तद्रव्यसम्पर्कादिव पीतिमानं पितवर्णं बभार। दुष्टलोचनानां पुंसां लोचनरश्मिभिनिर्गत्य विषयान्व्याप्नुवद्भिः पित्तद्रव्यस्य पीतिम्नावकुण्ठनात् तेषु पीतिमभ्रम इति तान्त्रिकप्रक्रिययेति भावः॥६०॥
-
-
 
 **कृशोदरीलोचनकृष्णलक्ष्मारात्र्या समिद्धोदयराग इन्दुः।  
 कस्तूरिकाकुङ्कुमचित्रितात्मा कर्पूरविन्यास इवान्वभावि॥६१॥**
@@ -1150,8 +1002,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  मृगेणेति॥** मृगेण निष्पन्ना मृगाजिनस्य श्रीः शोभा यस्य सः। स्वपादानां स्वकिरणानां विक्षेपेण परितः प्रसारेण मितं लोकैः प्रत्यक्षेण प्रमितं अन्तरिक्षं
 
-
-
 **जिगाय शङ्खाश्रितशैवलाभश्चारुद्युतेश्चन्द्रमसः कलङ्कः।  
 उदीयमानस्य महोर्मियोगात्सामिच्युतं सागरमूलपङ्कम्॥६५॥**
 
@@ -1171,8 +1021,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  निशीथेति॥** विलासस्तन्त्रंप्रधानं येषान्ते विलासतन्त्राः विलासप्रधाना विलासिनः। तं चन्द्रं निशीथस्य अर्धरात्रस्य लक्ष्मीश्शोभैव कमला तस्याः पुण्डरीकमिव निर्देशस्सुखभोगएव सिन्धुस्समुद्रस्तस्य फेनचक्रं फेनपुञ्जमिव। ताराः नक्षत्राण्येव मणयस्तेषां सूतेः उत्पत्तेः शुक्तिमिव। अन्ववैक्षन्त उत्प्रैक्ष्यन्तेत्यर्थः॥६७॥
 
-
-
 **उदारतारागणबुद्बुदौघश्चन्द्रेण सम्पन्नसुधाप्रसूतिः।  
 अशेषदृश्यामधिगम्य लक्ष्मीमालोकदुग्धोदधिराबभासे॥६८॥**
 
@@ -1189,8 +1037,6 @@ for more than 100 years and then with great calmness of mind received permission
  ** प्रकाशयन्निति॥** विश्वं सकलं इदं वस्तुजातं यथावत् सम्यक् प्रकाशयन्। चन्द्रस्य उदयेन उद्दीपिताः परिष्कृताः सौम्याः मनोज्ञाः ताराः यस्मिन् सः निशीथः अर्धरातः जगतो लोकस्य प्रभूतात् प्रचुरात् दैवात् अदृष्टात् अन्धस्य अपगतचक्षुषः दृष्टिलाभइव आसीत्। दृष्टिपक्षे चन्द्रोदयाख्येन वैद्यसिद्धेन गुलिकाविशेषेण उद्दीपिता उत्तेजिता रूपग्रहणयोग्यत्वं प्रापिता सौम्या काशपटलादिविगमादनुग्रा तारा कनीनिका यस्येति तद्विशेषणयोजना॥६९॥
 
 **  विशोधितादिति॥** विशोधितात् तमोनिरसनेन संमृष्टात् विष्णुपदात् आकाशात् सागरस्य वृद्धेरेव हेतोः सागरवृद्ध्यर्थमित्यर्थः। विष्वङ्मुखी सर्वतोमुखी क्षरन्ती प्रवहन्ती ज्योत्स्नैव नदी गङ्गा तमोमयीं अन्धकाररूपां सूर्यसुतां यमुनां निगीर्यग्रसित्वा। शोणं उदयरागमपि व्यमुञ्चत् गङ्गापि शोधितात् चतुर्मुखेन क्षालितात् विष्णोश्चरणात् सागरपूरणार्थं विष्वङ्मुखी मेरोःपुरस्थितस्य ब्रह्मपुरस्य चतसृषु दिक्षु गङ्गालकनन्दाचक्षुर्भद्रेति च चतुर्धा विभिद्य सर्वतोमुखतयाक्षरन्ती सती यमुनासङ्गमानन्तरं तामुत्तरत्र ग्रस्तामिव कृत्वा स्वयं प्राधान्येन प्रवहन्ती तदनन्तरं शोणनदेन संयुज्य तमपि समुद्रसमीपे विसृज्य गच्छतीति स्थितिः॥७०॥
-
-
 
 **प्रियामुखैस्तोयमधु प्रविष्टं पीत्वा नवं प्रीतइवाम्बुराशिः।  
 समेत्य चन्द्रद्युतिनर्तकीभिस्तरङ्गितं ताण्डवमाततान॥७१॥**
@@ -1213,8 +1059,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  शाखेति॥** शाखानां विटपानामेव वेदशाखानां अवकाशेषु रन्ध्रेषु अन्तरेषु कृतप्रवेशैः चन्द्रातपैः चन्द्रस्य प्रकाशैः एवं आश्रितपारवृत्यैः शास्त्रपारङ्गतै-
 
-
-
 **पराकृतध्वान्तनिकायपङ्कः पर्याप्ततारागणफेनपुञ्जैः।  
 यशः प्रवाहैरिव चन्द्रपादैरशोभत द्यौरसमायुधस्य॥७५॥**
 
@@ -1232,8 +1076,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  कलेति॥** कलावता चन्द्रेणैव नाट्यशिल्पवता सूत्रधारेण कामविहारे यूनां मन्मथविहारएव नाट्ये कालोचितं नर्म समयोचितं हास्यरसं कल्पयता सम्पादयतेव दिशां अमोघमायापलितङ्करण्यः पलितं जरसा शौक्ल्यंतद्वन्तोपि पलिताः मायया पलिताः मिथ्यापलिता। अमायापलिताः मायापलिताः क्रियन्त आभिरिति मायापलितङ्करण्यः अमोघाः अवितथारम्भाश्च ताः मायापलितङ्करण्यश्चेति तथोक्ताः दीधितयः मरीचयः (नर्तक्यश्च) प्रायः बाहुल्येन भृशं प्रयुक्ताः विस्तारिताः अभिनीताश्च। अत्र कल्पयतेति हेतौ शतृप्रत्ययः। ततश्चार्जयन्वसतीत्यत्रार्जनवत्फलस्यैवोद्देश्यतया हास्यरसङ्कल्पयितुमेवेति पर्यवसितोऽर्थः॥७७॥
 
-
-
 **कदम्बमालाभिरधीतलास्यः कल्याणसम्भूतिरभूत्प्रजानाम्।  
 प्रियोदयस्फीतरुचो रजन्यास्सन्तोषनिश्वासनिभस्समीरः॥७८॥**
 
@@ -1250,8 +1092,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  प्रायेणेति॥** हंसैर्मरालैः अवधूतसङ्गा त्यक्तसङ्गा हंसाःकमलिन्यामेव रज्यन्ति न तु कुमुद्वत्यामिति भावः। चारुस्मिता रम्यविकासा सम्भृतभृङ्गनादा सम्पादितभ्रमरस्वना कुमुद्वती कुमुदिनी सर्वेषामुपभोग्ये उपभोगार्हेसमये निशीथे प्रसुप्तं निमीलितं कोकनदं अरविन्दं प्रायेण जहास हसति स्मेव। यथा हंसैर्योगिभिर्वीतरागैरवधूतसङ्गा चारुमन्दहासा स्वकीयोपहाससमये सम्भृतसहोपहासविटशब्दा वेश्यासर्वोपभोग्ये समये वनितारसानभिज्ञतया प्रसुप्तं जनमुपहसति तद्वदिति भावः॥७९॥
 
 **  कलङ्केति॥** सुधांशुबिम्बव्यपदेशेन चन्द्रमण्डलव्याजेन दृश्ये दृष्टिगोचरे मुग्धे सुन्दरे रजन्याः मुखं पुण्डरीकमिव तस्मिन् कलङ्कलक्षेण अङ्कव्याजेन काचित् कस्तूरिकायाः पात्रविशेषस्य कस्तूरिकारचितचित्रविशेषस्य कान्तिश्शोभा समैक्षि अदर्शि। इहाष्टम्यां पूर्णचन्द्रो वर्णित इति न विरोधश्शङ्कार्हः काव्यस्य वर्णनामात्रपरत्वेन तदनादरणात्॥८०॥
-
-
 
 **तलेष्ववेपन्त महीरुहाणां छायास्तदा मारुतकम्पितानाम्।  
 शशाङ्कसिंहेन तमोगजानां लूनाकृतीनामिव गात्रखण्डाः॥८१॥**
@@ -1274,8 +1114,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  चकाशिर इति॥** व्योमोपमे गगनसदृशे वारिणि जले पत्राणि दलानि कला इव तासां समृद्ध्योपलक्षितानि कलङ्कइव दृश्यः भ्रमरः येषु तानि कैरवाणि कुमुदानि काले निशासमये स्वनाथेन व्योमानि कलासमृद्धिमता कलङ्कचित्रितेन च चन्द्रेण साधर्म्यं सादृश्यं उपागतानीव प्राप्तानीव चकाशिरे प्रकाशन्ते स्म॥८४॥
 
-
-
 **सरिन्मुखोपाहृतमम्बुराशिः पीत्वेव तोयं मधु जातहर्षः।  
 चकार चन्द्रप्रतियातनानां करग्रहैः कामपि रासलीलाम्॥८५॥**
 
@@ -1293,8 +1131,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  नभ इति॥** नभः गगनं तुषारांशुमयूखयोगात् चन्द्रकिरणसम्पर्कात् तमिस्रयाअन्धकारेणेव अविद्यया अज्ञानेनेव मोक्षं अविन्दत अलभत। अतृष्यतः तृष्णारहितस्य तत्त्वविदः तत्वज्ञस्य निशायां रात्रौ अन्तर्मुखं बहिर्य्यासङ्गहेत्वभावात् प्रत्यगभिमुखं चित्तमिव तद्यथा आत्मयोगात् योगाभ्यासात् अविद्यया मुच्यते तद्वदित्यर्थः। विरक्तस्य तत्वविदोऽपि चित्तं निशायां यथा ध्यानाभिमुखं प्रसीदति तथेति भावः॥८७॥
 
-
-
 **सहोदिता चन्द्रमसा बभासे ज्योत्स्नापयोधेरुपजातरागा।  
 तदातने सञ्जननेऽपि शौरः सहायिनी सागरसम्भवेव॥८८॥**
 
@@ -1310,8 +1146,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  प्रबुद्धेति॥** प्रबुद्धाः (ताराणां चन्द्रस्य च प्रबोधो दीप्यमानता कुमुदानां विकासः अब्धीनां क्षोभः) तादृशं प्रबोधं प्राप्ताः ताराकुमुदाब्धिचन्द्रा यस्मिंस्तस्मिन्। निश्शेषनिद्राणजने सुप्ताखिलजने निशीथे अर्धरात्रे सः तादृशः देवपतेः कृष्णस्य प्रसूतिं अवतारं पुष्यन् सम्पादयन् पुण्यतमः व्रतपराणां परमश्रेयोहेतुत्वात् अतिशयेन पुण्यः मुहूर्तः कियान् कालः बभौ। ‘मुहूर्तः स्वल्पकाले स्वाद्घटिकाद्वितयेऽपि च’ इति शब्दार्णवः। स इति तत्कालस्य पुराणादिषु स्वरूपप्रसिद्धिं द्योतयति। तादृश इति ‘यद्बाल्येयच्च कौमारे स्थाविरे यच्च पातकम्। तत्क्षालयति गोविन्दस्तिथौतस्यां विभावितः’ इति पाप हन्तृत्वप्रमुखप्रकारप्रसिद्धिं द्योतयतीति न पौनरुक्त्यम्॥८९॥
 
 **  भागेनेति॥** तदा तस्मिन् भगवदवतारसमये तमोमयेन अन्धकारप्रचुरेण पूर्वेण भागेन पूर्वरात्रेण प्रकाशपूर्णेन चन्द्रालोकपूर्णेन पश्चिमेन भागेन अपररात्रेण चोपलक्षितस्सनिशीथः संसारमुक्तयोः सन्धिः अन्तरालकाल इव सतां प्रसत्त्यै आसीत् भगवदवतारसमयत्वात् सज्जनानां हृदयप्रसादायाभवत्। संसारमुक्त्योरसन्धिरपि तमोगुणप्रचुरेण तमोगुणविकारेण वा पूर्वभागेन संसारकालेन
-
-
 
 **प्रागेव जातेन सितेन धाम्ना मध्योपलक्ष्येण च माधवेन।  
 प्रकामपुण्या वसुदेवपत्न्या सम्पन्नसाम्येव निशा बभासे॥९१॥**
@@ -1330,8 +1164,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  अवादिति॥** तदानीं भगवदवतारसमये अवादितेभ्यः अकृतवादनेभ्य एव वाद्येभ्यः उदीरितः उद्गतः वाद्यघोषी यस्मिन् तथोकम्।दिशाभिः दिग्भिः आम्रेडितं अभ्यस्तं दिव्यगीतं आकाशप्रभवगीतं यस्मिन् तथाक्तम्। सर्वासु दिक्षु सञ्चरद्भिर्गन्धर्वादिभिर्बहुशः कृतदिव्यगानमित्यर्थः। सतां साधुजनानां उपस्थापितसत्वलास्यं सन्निधापितसत्वगुणनर्तनम्। सङ्गीतमङ्गल्यं वाद्यगीतनृत्तत्रिकरूपं (मङ्गलाय हितं) मङ्गल्यं अभूत्॥९३॥
 
-
-
 **प्रदीपितैः कंसगृहेषु दीपैस्तापैश्च भावेषु तपोधनानाम्।  
 अलभ्यत क्षिप्रमलब्धभङ्गैरहेतुनिर्वाणदशानुभूतिः॥९४॥**
 
@@ -1347,8 +1179,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  अज इति॥** अजो विष्णुः यादवभावं यादवत्वं इच्छन् यांअष्टमीं स्वजन्मार्हतया स्वावतरणोचितत्वेन अनुमेने अङ्गीचकार। द्वितीयया स्वस्याः द्वितीयया नवम्या भावितयोगनिद्रा उत्पादितभगवद्योगनिद्रा सा तदानीं तिथीनां प्रथमाअभूत् भगवदवतारेण मुख्याभूदित्यर्थः। भगवन्मायारूपयोगनिद्रा तत्प्रेरणया तदवतारानन्तरं नवम्यां दुर्गारूपेण यशोदायामभूदिति विष्णुपुराणादिषु कथा। अत्राष्टमी प्रथमा जातेति विरोधः। प्राथम्यं मुख्यत्वं विवक्षितमिति तत्समाधानञ्च॥९५॥
 
   सर्गान्ते मालिनीवृत्तमाह। **अथेति॥**अथ चन्द्रोदयानन्तरं अनघानां अघविरोधिनां पुण्यदिवसानां वैजयन्त्यां पताकायां श्रेष्ठायामिति यावत्। जयन्त्यांरोहिणीसहितश्रावणमासकृष्णाष्टम्याम्। सिद्धं सम्पन्नं पञ्चानां ग्रहाणां शशिकुजबुधगुरुशनैश्चराणां उच्चं तुङ्गस्थानं यस्मिन्निति तथोक्ते (चन्द्रादीनामुच्चस्थानानि वृषभमकरकन्याकर्कटतुलाख्यानि। तदुक्तं बृहज्जातके। ‘अजवृषभमृगाङ्गनाकुलीराः झषवणिजौ च दिवाकरादितुङ्गाः’ इति। श्रावणमासे रवेः सदा तत्सन्निकृष्टस्य शुक्रस्य च मीनमेषयोः स्वोच्चयोरवस्थानासम्भवात्। परिशेषाच्चन्द्रादीनां पञ्चानामुच्चस्थानस्थितिर्विवक्षितेत्यवसीयते। ‘पञ्चोच्चो लोकनायकः’इति जात
-
-
 
 **अखिलभुवनपद्मक्लेशनिद्रापनुत्त्यै  
   दिनकरमनपायं देवकीपूर्वसन्ध्या॥९६॥**
@@ -1372,11 +1202,7 @@ for more than 100 years and then with great calmness of mind received permission
 राजाध्वरीन्द्रसूनु श्रीमदप्पय्यदीक्षितेन्द्र विरचित-  
 यादवाभ्युदयव्याख्यानसङ्ग्रहे द्वितीयः सर्गः॥**
 
-
-
 **![](../books_images/U-IMG-1722584939Screenshot2024-07-28213620.png)**
-
-
 
 **॥ तृतीयः सर्गः ॥  
 ![](../books_images/U-IMG-1722584975Screenshot2024-07-18063849.png)**
@@ -1397,8 +1223,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  दशस्विति॥** तत्र वसुदेवस्थाने दशसु दिशासु प्रागादयोष्टावूर्ध्वमधश्चेति दशसु दिक्षु जयजयेति अशरीरिणी सरस्वती वाणी बभूव। असौजयजयेति सरस्वती असुराणां अन्तकं हन्तारं अजितं श्रीकृष्णमेकंस्वरसतः (कृष्णएव) मुख्यतः वृत्तिः प्रवृत्तिर्यस्यास्तवाभूता सती अगोचरयत् विषयीचकार। अन्यत्र तु प्रकरणादिना कथञ्चिद्विषयीकरणम्। जयजयेति सम्मतौ द्विरुक्तिः॥३॥
 
-
-
 **अनतिवेलसमीरणचोदितैश्शिशिरशीकरशीभरिताम्बरैः।  
 जलधरैरभितो दिवि दध्वने सुरगजैरिव सूचितमङ्गलैः॥४॥**
 
@@ -1415,8 +1239,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   **मध्विति॥** मधुरिपोः श्रीकृष्णस्य अवतारएव महोत्सवे मधुरापुरस्य देवताः मुमुदिरे मोदमभजन्। यत् यथा अभिगन्तरि इष्टार्थमुपसर्पणकर्तरि भक्तजने अशेषं समस्तं वरं ईप्सितं अतन्द्रितं असञ्जाततन्द्रं बहुवारप्रार्थनेप्यनुत्पन्नवैरस्यं चेतः मनः यासान्तथाभूतास्स्तत्यः ददुः तथा मुमुदिर इति मोदाधिक्योक्तिः। अधिकप्रमोदा हि प्रभवः तद्दशायामवसरज्ञैः समाश्रितैःप्रार्थितं बह्वपि प्रयच्छन्ति॥६॥
 
-
-
 **अवदधानधियो मुनयस्तदा यदनधीतमधीतवदञ्जसा।  
 निगमजातमशेषमवेक्ष्य तन्निरविशन्निव मुक्तिमयीन्दशाम्॥७॥**
 
@@ -1432,8 +1254,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  प्रसदनमिति॥** नभसि मासि श्रावणे मासे नदीभिः शरदागमसम्भवं शरत्समयागमप्रभवं प्रसदनं प्रसादः नैर्मल्यं उपाददे उपात्तम्। कर्मणि लिट्। शरत्समय इव प्रावृष्यपि नद्यः प्रसन्ना बभूवुरित्यर्थः। किञ्च महितं उत्कृष्टं योगं विदन्तीति तेषां महितयोगविदां मतिभिः बुद्धिभिस्समं सह अनुपप्लवनीतिभिः अनुसृतोपक्रमादिन्यायाभिः श्रुतिभिः वेदैरपि प्रसदनमुपाददे। प्रसदनं प्रकृष्टसदनं शुभाश्रयः। श्रुतिपक्षे प्रसादो झटित्यर्थसमर्पणक्षमत्वम् तथा च भगवत्यवतीर्णैः स एव योगिध्यानस्याप्तमालम्बनमासीत् भुवि भगवदवतारमहिम्ना विदुषाम्मनः प्रसादाद्वेदानामुपक्रमादिन्यायविरोधेन झटिति यथावदर्थस्फुरणमप्यासीदित्यर्थः॥८॥
 
 **  निखिलेति॥** निखिलानां चेतनानां। समस्तजीवानां मानसेभ्यः हृदयेभ्यः निस्सृताः निर्गताः कलुषताः आविलताः आपगाः किल सरित इव समुपेत्य सम्भूय जलनिधेरिव समुद्रस्येव भोजपतेः कंसस्य अम्भ इव जलमिव मनः चित्तं क्षणात् तूर्ण स्वयं विविशुः किम्॥९॥
-
-
 
 **असुरवीरगृहाणि पृथग्विधैरशुभशंसिभिरानशिरे मुहुः।  
 अमरराजपुरेषु जजृंभिरे शुभनिमित्तशवानि पुनः पुनः॥१०॥**
@@ -1456,8 +1276,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  विधृतेति॥** विधृतशङ्खरथाङ्गगदाम्बुजः ऊर्ध्वसव्यदक्षिणकरयोः अधस्सव्यदक्षिणकरयोश्च क्रमेण धृतशङ्खचक्रगदापद्मः। जलनिधिपक्षे गदो गदनं
 
-
-
 **पितरमात्मभुवामनपायिनं प्रियतमाङ्कगतं परिपश्यता।  
 स विभुरानकदुन्दुभिना महानवितथैः स्वगुणैरभितुष्टुवे॥१४॥**
 
@@ -1476,8 +1294,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  विषमेति॥** हे देव विषमाणां विरुद्धानां दुरन्तानां कर्मणां विपाकस्य फलदानावस्थायाः परम्परया विवशा अवशंवदा वृत्तिर्वर्तनं येषान्तेषु दुष्कर्मभिर्बलात्संसारे विवर्तमानेष्वित्यर्थः। देहिषु शरीरिषु ‘यतश्च निर्धारणे’ इति सप्तमी। तव करुणया कटाक्षिताः विषयीकृताः कतिचिदेव विरलाएव दुस्तरं कृच्छ्रेण तरितव्यं भवार्णवं संसारसागरं तरन्ति। ते च त्वद्दयाविषयत्वयोग्यास्त्वद्भक्ताविरलाएवेत्यर्थः॥१६॥
 
-
-
 **त्वदनुभावमहोदधिशीकरैरवशपातिभिराहितशक्तयः।  
 अवधिभेदवतीमुपभुञ्जते स्वपदसम्पदमब्जभवादयः॥१७॥**
 
@@ -1493,8 +1309,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  श्रुतीति॥** श्रुतिकिरीटः ‘यएषोऽन्तरादित्ये हिरण्मयः पुरुषः’इत्यादिश्रुतीनां प्रतिपाद्यतयालङ्कारः शुभाश्रयः योगिनां ध्यानस्य शुभालम्बनभूतश्च विग्रहो मूर्तिर्यस्य सः। परमसत्वनिधिः रजस्तमोसंवलिततया उत्कृष्टस्य सत्वगुणस्य शेवधिः। त्वम्। जगदनुग्रह एव मारुतस्तेन चोदितः प्रेरितस्सन् विविधानि रूपाणि अवताराएव तरङ्गास्तेषां विकल्पनां रचनां प्रतिपद्यसे प्राप्नोषि। अत्र जगदनुग्रहादौ मारुतत्वाद्यारोपादेकदेशवृत्तिरूपकेण भगवति समुद्रत्वं प्रतीयते। तत्र समुद्रपक्षे श्रुतिकिरीटः श्रुतिशिरसां प्रतिपाद्यत्वेनालङ्कारः भगवान् तस्य शेषशायिनः शुभाश्रयो विग्रहः यस्य सः परमसत्वनिधिः उत्कृष्टजन्तूनां शङ्खशुक्तिकादीनां निधिरिति योज्यम्॥१८॥
 
 **  त्वयीति॥** हे देव स्वयि विषये यन्नायतते यत् त्वय्यायत्तं न भवति तत् जङ्गमं अथ अन्यदपि स्थावरं वा जगति लोके नास्ति। स्थावरजङ्गमात्मकं सर्वमपि वस्तु त्वदधीनमित्यर्थः। इत्यनेन प्रकारेण तव महिम्नि प्रमिते परिच्छिन्ने सति विविधैः श्रुतिस्मृतीतिहासपुराणपाञ्चरात्रादिरूपैरागमैः विभजने परं सङ्क्षे
-
-
 
 **अखिललोकपितुस्तव पुत्रतामहमयाचमनन्यमनोरथः।  
 वरद वाच्छितदानधृतव्रते त्वयि तदेवमयत्नमपच्यत॥२०॥**
@@ -1514,8 +1328,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  दनुजेति॥** दनुजमोहने असुरमोहने दोहलिना इच्छावता त्वया सहजलाञ्छनस्य चतुर्भुजत्वादेः संवरणं गोपनं कर्तुं क्षमं योग्यम्। तस्मादधुना मम साध्वसं अप्राकृतरूपदर्शनजन्यं भयं शमयन् अपनयन् सन् यथेप्सितं ईप्सितमनतिक्रम्य ईप्सितानुसारेण यवनिकां तिरस्करणीं सहजलाञ्छनाच्छादकरूपान्तरं अधिगच्छ गृहाणेत्यर्थः॥२२॥
 
-
-
 **इति सभीतमवेक्ष्य दयानिधिः स्मितमुखो वसुदेवमभाषत।  
 त्वमसि मे जनकः किमिहान्यथा किमपि तात मुधा कथितं त्वया॥२३॥**
 
@@ -1533,8 +1345,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   इदानींतदेव प्रस्तुतकार्यमाह—**यदीति॥** यदि विभेषि दुर्दर्शमिदे रूपं दृष्ट्वा भयं प्राप्नोषि चेत् मनुष्यतां भजामि। अथ तदनन्तरं मां नन्दगृहं नय प्रापय। तस्य नन्दस्य दुहितरं तत्रेदानीमुत्पन्नां कन्याञ्च समानय नन्दस्य मयि स्वापत्यत्वभ्रान्तये कंसस्य तस्यां त्वदपत्यत्वभ्रान्तये चेति भावः। मयि दूरगते नन्दागारङ्गते सति गतभयो भव शिशुरूपावलम्बने मयि यत्किञ्चित्कंसः करिष्यतीति भयं त्यजेत्यर्थः॥२५॥
 
-
-
 **अथ निशम्य नियोगमभङ्गुरं मधुजितो मधुराक्षरमन्थरम्।  
 हितमिदं प्रतिपद्य तमाददे गुरुतरं कृपया लघुतां गतम्॥२६॥**
 
@@ -1551,8 +1361,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  तुहिनेति॥** आनकदुन्दुभिर्वसुदेवः तुहिनभानुदिवाकरलोचनं चन्द्रसूर्यनेत्रं निगमनिश्वसितं वेदनिश्वासं ‘अस्य महतो भूतस्य निश्वसितमेतदृग्वेद’ इत्यादिश्रुतेः। अनघं रम्यं तत् स्वसुतत्याननं आदरात् मुहुर्मुहुः अनुबभूव पश्यति स्म॥२७॥
 
   अथ वसुदेवस्य निर्निमेषतया तदाननैकाग्र्यमेवोत्प्रेक्षते—**श्रुतीति॥** शोभनः गन्धः यस्येति सुगन्धि श्रुत्या श्वासभूतवेदेन सुगन्धि च तत्तस्य सुतस्याननं तस्य चन्द्रिकयाकान्त्या मुषितं निरस्तं मोहतमः अज्ञानान्धकारो यस्येति तथोक्तः मुनिसन्निभः मुनिसदृशः वसुदेवः क्षणात् तन्मयतां कृष्णतादात्म्यं अधिजगाम प्राप उत अथ अनिमिषत्वं प्राक्काश्यपरूपतया देवत्वं प्रतिसन्दधे अनुसंहितवान् स्वकीयानिमिषत्वानुसन्धानादिदानीम्निमेषरहितो जात इत्यर्थः। उत्प्रेक्षाद्वयमिदं वाचकाप्रयोगाद्गम्यम्॥२८॥
-
-
 
 **जिगमिषुस्स दिशो दश यादवस्सकृदवैक्षत साध्वसविह्वलः।  
 अनघवैभवमर्भकमुद्वहृन्नमितगुप्तिनिरुद्धगतौ गृहे॥२९॥**
@@ -1575,8 +1383,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  उपेति॥** सदनान्तरात् गृहाभ्यन्तरात् विशिखां रथ्यांउपयतः उपगच्छतः वसुदेवस्य। सम्बन्धसामान्ये षष्ठी। हरितः दिशः शतमखोपलमेचकया
 
-
-
 **श्रुतिमयो विहगः परितः प्रभुं व्यचरदाशु विधूतनिशाचरः।  
 अनुजगाम च भूधरपन्नगः स्फुटफणामणिदीपगणोद्वहः॥३३॥**
 
@@ -1593,8 +1399,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  दिनेति॥** तदा तस्मिन् समये दिनकरोपमदीधितिभिः रविप्रतिमकिरणैः दनुजदेहानां असुरशरीराणां विदारणेन भेदनेन दारुणैः भीषणैः पञ्चभिरायुधैः शङ्खचक्रगदाखङ्गशार्ङ्गरूपैर्भगवदायुधैः परिगतः परिवृतः यदुपतिर्वसुदेवः असहायतां सहायन्ते गच्छन्तीति सहायाः सहयात्राः तद्राहित्यं प्रजहौ त्यजति स्म किलेति परकृतौ इति किलोपाध्यायः कथयतीतिवत्॥३४॥
 
 **  प्रेति॥** अथो अनन्तरं अक्षतपौरुषः अखण्डितपराक्रमः अतएव पतगराजो गरुड इव परमपूरुषं भगवन्तं वहन् यदुकुलेन्दुः वसुदेवः प्रगुणं ऋजु यथा तथा इन्दुना निवेदितपद्धतिः दर्शितमार्गस्सन् आशु शीघ्रं यमुनानदीं ययौ॥३५॥
-
-
 
 **तनुतरङ्गपृषत्कणशीतलः सुरभिकैरवसौहृदवासितः।  
 अभिसमेतमसेवत मारुतो यमुनया प्रहितो यदुपुङ्गवम्॥३६॥**
@@ -1617,8 +1421,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  विकचेति॥** विकचकैरवैर्विकसितकुमुदैः तारकिता सञ्जाततारका आकृतिर्यस्यास्तां अतएव तनुमतीं मूर्तांशारदयामिनीं शरत्कालप्रभवां रात्रिमिव स्थितां अम्बुनिधेः अभिसारिकां ‘रतार्थिनी तु या याति सङ्केतं साभिसारिका’अत्र समुद्रमुद्दिश्यगमनाद्यमुनैव तदभिसारिकेत्यध्यवसीयते। तां सत्यसमीहितः अवितथाभिलाषः वसुदेवः त्वरितं शीघ्रं तरितुं ऐहत ऐच्छत्॥३९॥
 
-
-
 **भवति किन्नु भविष्यति वा किमित्यनवधारितशौरिविहारया।  
 चकितयेव विरोचनकन्यया विधुतवीचिकरं किल विव्यथे॥४०॥**
 
@@ -1640,8 +1442,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  अजनीति॥** रविसुता यमुना पश्चिमतः पश्चिमभागे भृशमुन्नता अजनि जाता। वसुदेवमार्गे समागच्छतः प्रवाहस्य निरोधादिति भावः। पुरतः
 
-
-
 **अकृतसेतुमनाकलितप्लवां जननसिन्धुदृढप्लवमुद्वहन्।  
 रविसुतामतिलङ्घ्य रमापतिं सपदि घोषसमीपमुपानयत्॥४४॥**
 
@@ -1658,8 +1458,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  अथेति॥**कयाचन अनिर्वचनीयया आश्चर्यभूतया कारणनिद्रया जगत्कारणभूतया निद्रया भगवन्माययेति यावत्। विवशं अवशात्मकं यथा तथा सुप्तजनं व्रजं गोकुलं आविशत् प्रविष्टः। धनदपत्तनस्य कुबेरनगरस्य सम्पदिव सम्पद्यस्मिंस्तथाभूते यत्र व्रजे सा स्वस्य ज्येष्ठपत्नी रोहिणी अग्र्यं अग्रेभवं स्वसुतं बलदेवं असूयत असूत॥ पूञ् प्राणिगर्भप्रसव इति दैवादिकधातोः कर्तरि लङ्॥४५॥
 
 **  उपेति॥** नन्दकुटुम्बिनी यशोदा वसुदेवसुते नरकवैरिणि नरकासुरस्य रिपौ भगवति अन्तिकं समीपं उपगमे सति अध्वरस्य यागस्य वेदिः अरणिसम्भवस्य पावकस्य वैतानिकाग्नेस्सङ्गमादिव श्रियं शोभामभजत॥४६॥
-
-
 
 **न्यधित नन्दवधूसविधे सुतं द्रुतमुपादित गोपकुमारिकाम्।  
 अथ निनाय च देवकनन्दनीशयनमानकदुन्दुभिराशु ताम्॥४७॥**
@@ -1682,8 +1480,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  उदिति॥** उग्रघनस्य क्रूरमेघस्य स्वन इव स्वनो यस्यास्सा प्रलयशर्वरीपक्षे उग्रो घनस्वनः प्रलयघनगर्जितरूपो यस्यामिति विग्रहः। असुरान् पौनःपुन्येन घ्नन्तीति असुरघातिभिः अष्टभिरष्टभुजगृहीतैरायुधैः अलघुभिः चपलाभि-
 
-
-
 **अथ च भोजनियन्तुरयन्त्रिता दनुजहन्तुरुदन्तमुदैरिरत्।  
 पटु गभीरमुदारमनाकुलं हितमविस्तरमर्थ्यमविप्लवम्॥५१॥**
 
@@ -1700,8 +1496,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  अहमिति॥** अहं अशेषाणां सुरासुराणां मोहिनी मोहकरणी॥ करणे ल्युटिङीप्॥ मधुकैटभमर्दिनो विष्णोः यवनिका तिरस्करिणी आच्छादनी योगनिद्रेति यावत्। अहञ्च प्रबलयोस्सुम्भनिशुम्भयोर्निषूदने वधे प्रणिहिता भगवता प्रेषिता। मया हतया किं त्वद्वधाभिसन्धिरहिताया मम हननेन तवानिष्टपरिहारादिति किमपि साध्यन्नास्तीत्यर्थः। गम्यमानसाधनक्रियापेक्षया करणे हतयामयेति तृतीया॥५२॥
 
 **  वसतीति॥** विबुधद्विषामसुराणां दमयिता प्रहन्ता हरिर्वसुदेवसमुद्भवस्सन् नन्दगृहे वसति। अयमसौ इत्थभूतो हरिस्तव नाशयितेति दरं अल्पं सारांशं उदीर्य उक्त्वाईप्सितमनतिक्रम्य यथेप्सितं ईप्सितन्देशं जगाम। स्वरूपप्रकारपरामर्शितया अयमसावित्यनयोर्नपौनरुक्त्यम्॥५३॥
-
-
 
 **मधुहिरण्यनिभो मधुरापतिर्दिनहुताशनदीनदशाङ्गतः।  
 श्वसितजल्पितवेपितहुंकृतैररतिमायतभीतिरसूचयत्॥५४॥**
@@ -1720,8 +1514,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  किमपीति॥** मोहेन विचेष्टितः चेष्टां कारितः मोहप्रयुक्तसकलव्यापारः सकंसः किमपि किञ्चित्कृत्यं चिन्तितं देवकीवसुदेवयोर्निरुद्धयोस्तदीयगर्भा उत्पत्त्यनन्तरमेव हन्तुं शक्यन्त इति चिन्तितं अन्यथा आगतं इदानीं नन्दकुले वसुदेवसुतो वसतीति प्रकारान्तरं प्राप्तं इदं किमिति अवशात् अनायत्तत्वेन उपजातया विषविदूषितयेव गरलदूषितयेव तापप्रदया मनीषया बुद्ध्या मुहुरदूयत इत्थं विचिन्त्य पुनःपुनः पर्यतप्यतेत्यर्थः॥५६॥
 
-
-
 **अविषये विपदामसुरान्तके पुनरियेष निकारपरंपराम्।  
 नियतिरेकमुखी दुरतिक्रमा कृतधिया किमुताविलचेतसा॥५७॥**
 
@@ -1737,8 +1529,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  परीति॥** परिणतेन परिपक्वेन भवान्तरवासनाग्रहगुणेन जन्मान्तरवासनामयाग्रहरूपेण गुणेन पूर्वजन्मवैरवासनानुबन्धेनेति यावत्। भवितव्यतां दुष्कर्मविपाकं भजन् कंसः परिबभूव हरिञ्चेतसा फल्गूचकार। चुकोप तस्मै कुप्यति स्म। विसिष्मिये देवकीवसुदेवाविह तयोः पुत्र उत्पद्य नन्दकुले वसतीति विस्मयते स्म। हरिंपरिजहास मय्यप्यपकारमिच्छतीति स्वबलावलेपात्परिहसति स्म। प्रजगर्ज च शौर्योन्मादात्प्रगर्जति स्म॥५८॥
 
 **  क्वेति॥** आनकदुन्दुभिर्वसुदेवः क्वचन धामनि कस्मिंश्चिद्गृहे कंसेन निवेदिते सति सभयं भयसहितं यथा तथा आवसत् तद्गृहमावसति स्म। देवकी च स्मृतिं गतेन स्मृतिगोचरेण सुतेन सजीविता सप्राणा सती दिनानां शतानि बहूनि दिनानिनिनाय अतिवाहयां बभूव॥५९॥
-
-
 
 **विगतकन्यकया च यशोदया नियतिसम्भृतनिर्भरनिद्रया।  
 चिरसमागतजागरयान्तिके हरिरपत्यमदृश्यत धन्यया॥६०॥**
@@ -1761,8 +1551,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  अजनीति॥** मनोरमैस्सुन्दरैः अमितकान्तिभिरपरिमितलावण्यैः अप्सरसां स्वर्वेश्यानां गणैः गोपानां नन्दव्रजवासिनां गृहेषु अजनि जातम्। भावे लुङ्। यदनुभूतिरसेन यासामप्सरसामनुभवजन्येन सुखेन सह शरणयादवस्य जगतां रक्षितुर्यादवस्य कृष्णस्य शैशवयौवने बाल्यतारुण्ये समेष्यतः सङ्गते भविष्यतः।
 
-
-
 **सुरमहीसुरतोषणमादरान्नवमुपादित नन्द उदारधीः।  
 तरलगोपगणागमसङ्कुलं तनयजन्ममहोत्सवमद्भुतम्॥६४॥**
 
@@ -1780,8 +1568,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  अधीति॥** महति सुतप्रसवोत्सवे पुत्रजन्मोत्सवे वदान्यमणेः बहुप्रदत्य मणेश्चिन्तारत्नस्य श्रियं शोभां अधिचकार अधिकृतवान् जग्राहेत्यर्थः। कल्पतरोः अनुकल्पतां अमुख्यकल्पतां व्यधित विधत्ते स्म। मेघविकत्थनमोघतां मेघश्लाघाया व्यर्थतां व्यजनयच्च जनयतिस्म च। चिन्तामणिकल्पवृक्षकालमेवेभ्योऽप्यधिकमर्थिभ्यः प्रादादित्यर्थः॥६५॥
 
 **  निधिमिति॥** व्रजभुवः व्रजप्रभवा गोपाः स्वयमुत्थितं स्वयमेवोद्गतं अनन्तमन्तरहितं निधिं शेवधिमिव स्थितम्। उदितं मूर्तिं परिगृह्याविर्भूतं निरवधिं निस्सीमं निजभागं आत्मीयभाग्यमिव स्थितम्। “भाग्यैकदेशयोर्भागःइति रुद्रः। रमापतिं कृष्णं प्रतिलभ्य प्राप्य असारतरं अयर्थ निस्सारं ऐन्द्रं पदं स्वाराज्यं जहसुः इसन्ति स्म ऐन्द्रपदादप्यधिकं सुखमन्वभवन्नित्यर्थः॥६६॥
-
-
 
 **पुत्रं प्रसूय तपसा पुरुषं पुराणं  
 कालं चिरं विधिवशात्कृतविप्रकर्षौ।  
@@ -1807,10 +1593,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 ![](../books_images/U-IMG-1722614391Screenshot2024-07-18063849.png)
 
-
-
-
-
 **चतुर्थः सर्गः**
 
 ![](../books_images/U-IMG-1722614459Screenshot2024-07-11131326.png)
@@ -1831,8 +1613,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   **कदाचिदिति॥** कदाचित् एकदा कंसप्रयुक्ता कापि माया कंसप्रयुक्तानामसुरभेदानां मध्ये काचित्पूतनाख्या शाम्बरी अन्तर्हितपूतनात्मा तिरोहितपूतनाख्यनिजस्वरूपा यशोदाया आकृतिरिवाकृतिर्यस्यारसा तथाभूता सती निद्रापराधीन्जने निद्रापरतन्त्रो जनो यसिन् तस्मिन् निशीथे अर्धरात्रं व्रजंनन्दगोकुलं आविवेश॥३॥
 
-
-
 **स्तन्येन कृष्णस्स हि पूतनायाः प्राणान् पपौ लुप्तपुनर्भवायाः।  
 यदद्भुतं भावयतां जनानां स्तनन्धयत्वं न पुनर्बभूव॥४॥**
 
@@ -1849,8 +1629,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  नन्द इति॥** परमार्थवेदी भगवानेव सर्वस्य रक्षक इति परममर्थमवगच्छन् नन्दश्चतीव्रेण उत्कटेन भयेन सद्यस्तदैव समेत्य अनघं पूर्ववदेव कुशलिनं कुमारं पश्यन् सन् त्रिजगन्नियन्तुः त्रिलोकनायकस्य तस्य तेनैव रक्षां प्रायुङ्क्त॥ ‘रक्षतु त्वामशेषाणां भूतानां प्रभवो हरिः। यस्य नाभिसमुद्भूतपङ्कजादभवज्जगत्॥ इत्यादिना भगवन्तमेव रक्षकमनुसन्धाय रक्षां प्रयुक्तवानित्यर्थः॥६॥
 
-
-
 **गोपाश्च सम्भूय गृहोपमाक्षीं स्वघोषनिर्ह्रादितविश्वघोषाम्।  
 गतासुमैक्षन्त निशाचरीं तां भीमाकृतिं भैमरथीमिवान्याम्॥७॥**
 
@@ -1866,8 +1644,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  परश्वथैरिति॥** विन्ध्याचलसानुकरूपांविन्ध्यपर्वतप्रस्थ सदृशीं तथातिशयितमहाकायां तां पृतनां तत्क्षणे शातितैः उत्तेजितैः तदङ्गानामति- कठिनत्वादिति भावः। परश्वथैः परशुभिः विच्छिद्य खण्डयित्वा अनः प्रवृत्त्या शकटस्य प्रवर्तनेन आशु शीघ्रं घोषाद्बहिः प्राज्यं बहुलं क्रव्याद्बलिं क्रव्यादः मांसभक्षाः गृद्धूगोमायुप्रभृतयः तेभ्यो बलिं उपहारं क्षिपन्तः प्रयच्छन्त इव निन्युः नयन्ति स्म॥८॥
 
 **  ग्रहादीति॥** सतां साधूनां गोप्तुःरक्षकस्य भगवतः ग्रहादिदोषान् बालग्रहमातलिप्रभृतीन् शिशुदोषान् अपहन्तुकामाः अपनेतुं कामयमा- नाःसमेता, मिलिताः गोपतयः सुवर्णस्य सूत्रं तत्र ग्रथितं ग्रथनं तेन अभिरामां मनोज्ञां पञ्चानां आयुधानां शङ्खचक्रादीनां भगवदायुधानां समाहारः पञ्चायुधी तां तद्रूपं आभरणं बबन्धुः। पञ्चायुधाभरणधारणं बालानां ग्रहादिदोषवारणमित्याहुः॥९॥
-
-
 
 **रम्याणि रत्नानि रथाङ्गपाणेराकल्पतान्नूनमवाप्नुवन्ति।  
 तदङ्गसंस्पर्शरसात्प्रकामं रोमाञ्चितान्यंशुगणैरभूवन्॥ १०॥**
@@ -1890,8 +1666,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   **यदृच्छयेति॥** कुमारे यदृच्छया स्वेच्छया उत्क्षिप्तपदे ऊर्ध्वं क्षिप्तचरणे शैलोपलक्ष्ये पर्वतवद्दृश्ये तद्वन्महति शकटे निरस्ते सति यशोदा सरोज-
 
-
-
 **अथाङ्कणे जानुपदाग्रहस्तैश्चक्रायुधे च क्रमणप्रवृत्ते।  
 प्रायो धरित्री परिषस्वजे तं सापत्रपा सान्द्ररजश्छलेन॥१४॥**
 
@@ -1910,8 +1684,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  विश्वानीति॥** विश्वाधिकशक्तिः विश्वस्माद्ब्रह्मादिप्रपञ्चादधिकाशक्तिर्यस्य सः एकस्सहायनिरपेक्षएव विश्वानि कृत्स्नानि नामान्यभिधानानि रूपाण्यभिधेयानि च निर्मिमाणः प्रतिसर्गं सृजन् कृष्णः मातुर्यशोदायाः नामैकदेशग्रह -
 
-
-
 **तरङ्गितानुश्रवगन्धमादौ तत्त्याद्भुतं सल्लपितं सखीभिः।  
 वर्णस्वरादिव्यवसायभूम्ना शीक्षाविदां शिक्षणमग्र्यमासीत्॥१७॥**
 
@@ -1929,8 +1701,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  तमिति॥** नन्दपत्नी यशोदा ईषदुत्थाय आरात् निलीनं पुनरप्यशक्त्यभिनयेनोपविष्टं सम्प्रेक्ष्य दन्तानामङ्कुरैश्चारुहासं सनातनीं दृष्टिं लोकानामनपायिदृष्टिरूपं दृष्टिवत्सदा प्रकाशत्वात्प्रियत्वाच्च। तं कृष्णं अनन्यदृष्टिरन्यनिरपेक्षदृष्टिस्सतीसानन्दमालोकत सप्रमोदमपश्यत्॥१८॥
 
 **  पदैरिति॥** भव्याशया शुभचित्ता कुमारस्य क्षेमार्थिनी यशोदा त्रिभिः पदैश्चरणविन्यासैः क्रान्तजगत्त्रयंआक्रान्तलोकत्रयं तथा भावितबाल- भावमभिनीतबाल्यं तं देवं करेण स्वहस्तेन कराम्बुजाग्रं तस्य करः अम्बुजमिव तस्याग्रमङ्गुलीप्रदेशं संगृह्य गृहीत्वा शनैस्सञ्चारयामास क्रमेणेमं सञ्चारयति स्म॥१९॥
-
-
 
 **स्खलद्गतिं द्वित्रपदप्रचाराज्जानुक्रमे जातरुचिं कुमारम्।  
 भुग्ने समावेश्य वलग्नभागेस्तन्यम्मुदा पाययते स्म धन्या॥२०॥**
@@ -1953,8 +1723,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  आलंब्येति॥** धन्या सुकृतिनी धरित्री मातुर्यशोदायाः करपल्लवयोरग्रमालंब्य शनैश्शनैस्सञ्चरतः मुरारेः कृष्णस्य पदन्यासमयीं चरणविक्षे- परूपो
 
-
-
 **अकर्मनिघ्नो भुवनान्यजस्रं सङ्कल्पलेशेन नियम्य दीव्यन्।  
 प्रचारितः प्रस्नुततया जनन्या पदे पदे विश्रममाचकाङ्क्षे॥२४॥**
 
@@ -1972,8 +1740,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  सुरेति॥** सुराणां प्रसूनैः कल्पवृक्षपुष्पैः सुरभीकृतानां अङ्कणवेदिकानां अङ्कणेषु निर्मितानां वेदिकानां आरोहणानि सोपानानि आरुरुक्षं आरोढुमिच्छुं अतएव तरलाङ्घ्रिपद्मं चञ्चलपादकमलं धातारं जगतां स्रष्टारं भगवन्तं धात्री माता यशोदारूपा उपमाता वा काचित् आशु शीघ्रं आरोहयत् आरोहयति स्म॥२५॥
 
 **  तलेष्विति॥** व्रजस्थिताः गोपाः गोप्यश्च अङ्कणपादपानां तलेषु चत्वरवृक्षाणामधः प्रदेशेषु अधिकरणेषु तालानुकूलेषु स्वकीयतालानुकूलेषु तस्य कृष्णस्य गतागतेषु गमनागमनेषु सत्सु बालाः खल्वाह्नानार्थबन्धुजनकृतकरतालानुरोधेन गतागतानि कुर्वन्ति। दूरे अभ्रमार्गे उदितानुत्पन्नान् स्वर्गसदां देवानां कृष्णस्य गतागताभ्यासदर्शनेन देवकार्यसिद्धेर्नेदीयस्त्वबुद्ध्या सन्तुष्टानां दुन्दुभितूर्यनादान् भेरीवाद्यशब्दान् अशृण्वन्॥२६॥
-
-
 
 **य एष लोकत्रयसूत्रधारः पर्यायपात्राणि चराचराणि।  
 आनर्तयत्यद्भुतचेष्टितोऽसौ ननर्त खलं नवनीतकाङ्क्षी॥२७॥**
@@ -1997,8 +1763,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  आरण्यकानामिति॥** अरण्यसम्बन्धिनोऽध्याया उपनिषद्भागा आरण्यकास्तेह्यरण्येऽध्येयाः। तत्प्रतिपाद्यतया तत्सम्बन्धीनि दहराद्युपा- सनफलान्या
 
-
-
 **सुजातरेखात्मकशङ्खचक्रं ताम्रोदरं तस्य करारविन्दम्।  
 विलोकयन्त्याः फलविक्रयिण्याः विक्रेतुमात्मानमभूद्विमर्शः॥३१॥**
 
@@ -2016,8 +1780,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  आपूरयदिति॥** किराती फलविक्रयिणी क्रीडया शिशोः कृष्णस्य हस्तपुटमञ्जलिं स्वादुफलार्पणेन मधुरफलप्रदानेन आपूरयत् तदा तस्मिन् समये तस्याः फलभाण्डं फलभाजनं कौस्तुभान्निर्विशेषैः विशेषरहितैस्तत्सदृशैः रत्नैः किरातवनितायाः आदरेण प्रसन्नस्य भगवतस्सङ्क- ल्पेनापादितैः आपूरितमासीत्॥३२॥
 
 **  मुहुरिति॥** नवनीतचौर्ये मुहुः पुनः पुनः प्रवृत्त अदोहकाले दोहव्यतिरक्ते मध्याह्नादिसमये वत्सान्विमुञ्चन्तं मातृभिस्संयोजनाय विसृजन्तं सतां
-
-
 
 **आनीतमग्रे निजबन्धनार्थं दामाखिलं संस्थितमप्यपूर्णम्।  
 निरीक्ष्य निर्विण्णधियो जनन्यास्सङ्कोचशक्त्या स बभूव बन्ध्यः॥३४॥**
@@ -2038,8 +1800,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  उलूखल इति॥** उलूखले प्रग्रथितेन सान्द्रबद्धेन दाम्ना निबद्धं आस्राविललोलनेत्रं स्वच्छन्दसञ्चारविघ्ने भयेन च अश्रुकलुषचञ्चललोचनं आलानितं सञ्जातालानं आलाने बद्धं नागं हस्तिनमिव स्थितं यथा वन्यो हस्ती इदंप्रथमं
 
-
-
 **अनादराकृष्टमुलूखलन्तद्यावर्जुनौ शैलनिभौ बभञ्ज।  
 बभूवतुर्ब्रह्मसुतस्य शापान्मुक्तौ मुनेर्यक्षवरौ तदा तौ॥३७॥**
 
@@ -2057,8 +1817,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  शापेति॥** तो यक्षवरौ ब्रह्मसुतेन नारदेन दत्तं शापावधिं शापान्तं शौरिसमागमेन कृष्णस्य सम्पर्केण सम्प्राप्य दिव्येन देवसम्बन्धिना देहेन विदीप्यमानौ सन्तां हरिं स्तुत्वा स्वं धाम स्थानं अलकां समीयतुर्जग्मतुः॥३८॥
 
 **  अदृष्टेति॥** भुवि भूलोके अदृष्टपूर्वं पूर्वमदृष्टं पूतनादेः उदन्तं वृत्तान्तं उत्पातमुदीक्षप्राणा तस्य स्थानस्य अरिष्टसूचकं विकारं तर्कयन्तो गोपाः समेत्य सम्भूय माधवेन सह सत्वरं शीघ्रं बृन्दावनं वनविशेषं अभ्यगच्छन् तत्रैव वास्तव्यकुटुम्बितया स्थातुङ्गता इत्यर्थः॥३९॥
-
-
 
 **येनौषधीनामधिपं पुरस्तादाह्लादहेतुं जगतामकार्षीत्।  
 तेनैव दध्यौ मनसा वनं तत्कृष्णो गवां क्षेमसमृद्धिमिच्छन्॥**
@@ -2081,8 +1839,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  अदृष्टेति॥** नन्दः उपनन्दः तदाख्यस्तस्मिन् ब्रजे कश्चिद्गोपवृद्धश्चप्रमुखौ प्रधानभूतौ येषान्तैः गोपैः (कर्तृभिः) नाथभूम्ना कृष्णस्य महिम्ना अदृष्टपूर्वैः पूर्वमदृष्टौर्विशेषैः फलपुष्पादिभिः दृश्यपदार्थैः अधिकां समृद्धां अमरेन्द्रमान्यां देवे-
 
-
-
 **दैत्यैस्तृणावर्तमुखैरयत्नान्मुहुर्निरस्तैर्मुदितो मुकुन्दः।  
 अभुङ्क्त रामेण सहाद्भुतं तत्पुण्यं वनं पुण्यजनेन्द्रमान्यम्॥४४॥**
 
@@ -2101,8 +1857,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  पुर इति॥** तत्र नन्दकुले गोपकन्याः कयापि स्पृहयाकिञ्चित्फलोद्देशेन जगतां प्रसूतेःलोकानामुपादानभूतस्य (प्रसूयन्तेऽस्मिन्नित्यधिकरणे क्तिन्प्रत्ययः) पुंसः परमपुरुषस्य प्रसत्त्यै प्रसादाय मङ्गलगीतवाद्यैः पुरस्कृतं पूजितं किञ्चन कन्याव्रतं कन्याभिरनुष्ठेयं व्रतं अन्वतिष्ठत्॥४६॥
 
-
-
 **निशात्ययस्नानसमुद्यतानां निक्षिप्तमाभीरकिशोरिकाणाम्।  
 कुलादुपादाय दुकूलजालं कुन्दाधिरूढो मुमुदे मुकुन्दः॥४७॥**
 
@@ -2118,8 +1872,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  सचेति॥** जेता जयशीलः सः हरिः क्षौमार्थिनीनां जलादुत्तीर्य कुन्दतलमागत्य क्षौमाण्यर्थयमानानामङ्गनानां एकहस्तप्रणतिं कराभ्यां गोप्याङ्गं तिरोधाय कुन्दमूलमागतासु तासु भवतीभिर्नमस्कारे कृते दीयत इति स्वेनोक्तेएकहस्तेन गोप्यमङ्गं तिरोधाय तदन्येनैकहस्तेन क्रियमाणां प्रणतिं विधून्वन् हस्तद्वयेन प्रणतिं विना न दीयत इति वा प्रणतिमनङ्गीकुर्वन् सन् अन्योन्यहस्तार्पणसम्प्रवृत्तैः गोप्याङ्गप्रकाशभिया स्वहस्तद्वयेनांजलिबन्धमकुर्वतीनां तासां द्वयोर्द्वयोः परस्परस्य एकैकहस्तार्पणेन सुनिष्पन्नैस्तदीयैरंजलिभिर्जहास अन्नापि कश्चिदुपायश्चिन्तितो बालिकाभिरिति हासञ्चकारेत्यर्थः॥४८॥
 
 **  प्रेति॥** नाथः कृष्णः प्रसुप्तं शैशवेत्यद्भुतचरित्राणां किञ्चित्प्रदर्शनादनभिब्यक्तं परत्वं परब्रह्मभावं उद्बोधयता अभिव्यञ्जयत्ता गोवर्धनोद्ध- रणादीनामद्भुतचरित्राणां भावित्वात् वीरश्रियः शौर्यलक्ष्म्याः विभ्रममण्डनेन विलासार्थेनालङ्कारेण चाणूरमर्दनादिना तदुन्मेषभावित्वात्। नीलादीनां वल्लवीनां निर्वेशस्य उपभोगत्य निधानधाम्ना निक्षेपस्थानभूतेन नवयौवनेन बभासे। पञ्चवर्षपर्यन्तशैशवात्ययमात्रमेवात्र यौवनोचि- ताकारविहारयोगाद्यौवनं विवक्षितम्। न तु मुख्ययौवनम्। अष्टमवयसि कंसवधादिलीलायाः पुराणप्रसिद्धेः॥४५॥
-
-
 
 **विहारपर्वक्रमचारु शौरेः कल्यं वयः कामगृहीतियोग्यम्।  
 मनोभिरास्वाद्यतमं प्रपेदे माधुर्यभिक्षोरिव मध्यभागः॥५०॥**
@@ -2137,8 +1889,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  वंशेति॥** कृष्णे आयाति वत्सपालैस्सह क्रीडित्वा वत्सानां पश्चात्सायमागच्छति सति वंशस्वनस्सन्निकर्षाच्छ्रूयमाणः कृष्णस्य वेणुध्वनिः वत्सविहारपांसुः गृहं प्रत्यागच्छतां वत्सानां विहारेणात्थितो रेणुः सन्धागमस्सन्ध्यायां रात्रिकालसन्निकृष्टायां तस्यागमनं वन्यवेषः पल्लवमयूरपिच्छादिरूपश्चेति व्रजसुन्दरीणां व्रजाङ्गनानां चतुष्कन्धं चतुर्व्यूहमनङ्गसैन्यमभूत् चत्वायेपि तासामुद्दीपकान्यभवन्नित्यर्थः॥५२॥
 
-
-
 **अनुश्रवाणामवतंसभूतं बर्हावतंसेन विभूषयन्ती।  
 अदिव्यया चर्मदृशैव गोपी समाधिभाजामभजत्समाधिम्॥५३॥**
 
@@ -2154,8 +1904,6 @@ for more than 100 years and then with great calmness of mind received permission
   प्रसङ्गाद्देवस्य मयूरपिञ्छाभरणानि श्लोकचतुष्टयेन वर्णयति **कलापिनामिति॥** गावो नन्दस्य सुरभयः कल्पितो माल्यभावो येषान्तैर्माल्य- रूपेण ग्रथितैः कलापिनां पन्त्रैर्मयूरपिञ्छैः पत्रलदेहकान्तिं पत्रं लाति आदत्त इति पत्रला पत्रवती देहकान्तिर्यस्य तं मेदुरदेहकान्तिमिति यावत् आद्यं सञ्चारितमालं जङ्गम तापिञ्छवृक्षं कृष्णमिति भावः (अतएव निगीर्याध्यवसानादतिशयोक्तिः) अवाप्य सम्प्राप्य कृष्णस्य छायात्मतां प्रापुरिव छायावत्तमेवान्वसरन्नित्यर्थः॥५४॥
 
   **वितन्वतेति॥**तापिञ्छनिभस्तमालश्यामलः कृष्णः मान्मथं मन्मथसंबन्धि इन्द्रजालं द्रष्टृजनव्यामोहकं ‘देशकालापरोक्ष्यं यत् परोक्षस्यैव वस्तुनः। मन्त्रौषधक्रियाभेदैरिन्द्रजालं प्रचक्षते। वितन्वता विस्तारयता पिञ्छेन (ऐन्द्रजालिकामयूरपिञ्छभ्रमणेन द्रष्टृृन् व्यामोहयन्तीति प्रसिद्धिः) अनेकरत्नप्रभवेन वज्रवैडूर्यमरकतादिबहुविधरत्नप्रभवेन अतएव शारात्मना विचित्ररूपेण धाम्ना तेजसा ऐन्द्रनीलश्शैल इव इन्द्रनी- लमयपर्वत इव बभासे भाति स्म॥५५॥
-
-
 
 **मुहुः स्पृशन्ती मुमुदे यशोदा मुग्धाङ्गनामोहनवांशिकेन।  
 मनीषिणा माङ्गलिकेन यूना मौलौ धृतां मण्डनबर्हमालाम्॥५६॥**
@@ -2178,8 +1926,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  निरंकुशेति॥** कृष्णः निरंकुशस्नेहरसानुविद्धान् निर्यन्त्रणप्रेमरसरूपितान् निष्पन्दाः स्वविषयादन्यत्र विषये अस्पन्दमानाः मन्दाः मदम- न्धराः
 
-
-
 **अशिक्षितं तुम्बुरुनारदाद्यैराभीरनाट्यं नवमास्थितेन।  
 जगे सलीलं जगदेकधाम्ना रागाब्धिना रञ्जयतेव विश्वम्॥६०॥**
 
@@ -2193,8 +1939,6 @@ for more than 100 years and then with great calmness of mind received permission
 अशिक्षितमिति॥**तुम्बुरुनारदाद्यैर्गान्धर्वशास्त्राभियुक्तैःअशिक्षितमनभ्यस्तं नवं नूतनं आभीरनाट्यं आसीरभावाभिनयं (सएव नाट्यत्वे-नाध्यवसितः) आस्थितेन अवलम्बितवता रागाब्धिना ‘योसौ ध्वनिविशेषस्तु स्वरवर्णविभूषितः। रञ्जको जनचित्तानां स रागः कथ्यते बुधैः॥’ इत्युक्तलक्षणानां श्रीरागादीनामब्धिवन्निधानभूतेन अतएव विश्वं कृत्स्नं चेतनाचेतनमपि प्रसङ्गंरत्तयतेव स्थितेन जगदेकधाम्ना जगतामेकेनावासस्थानेन कृष्णेन सलीलं यथा तथा जगे गीयते स्म॥६०॥
 
 **  अपेति॥** कृष्णमुखेन्दुना तुन्ने उत्तरलीकृते रागोदधौ अपत्रपा अन्यतो लज्जैव सैकतं पुलिनं तदाश्रितानां तदाश्रियाणां रागाब्धौ निमज्जनं प्राप्तानां उत्कलिकाप्लुतानां उत्कण्ठाभरितानां पक्षे कल्लोलाप्लुतात्मनां ‘सर्वेन्द्रियसुखास्वादो यत्रास्तीति मनस्त्रियाः। तत्प्राप्तीच्छां ससङ्कल्पामुत्कण्ठां कवयो विदुःइति। उत्पक्ष्मणां तन्मुखैकदत्तदृष्टितया पक्षे उत्तारयितृदिदृक्षया च उन्नमितपक्ष्मणां तासां हस्तावलम्बो रागोदधिमुत्तरितुं हस्तस्य कश्चिदवलंबःन बभूव।ततश्चान्यस्य दृस्तावलम्बस्याभावादाश्रितस्य त्रपा सैकतस्य कृष्णमुखेन्दूदयतरलीभवदुत्क- लिकाशतग्रस्ततया विनश्वरत्वात्तासां वदभिसरणरूपं रागोदधौ निमज्जनमेव प्रसक्तमिति भावः॥६१॥
-
-
 
 **अयन्त्रितस्वैरगतिस्स तासां सम्भावितानां करपुष्करेण।  
 प्रस्विन्नगण्डः प्रणयी चकाशे मध्ये वशानामिव वारणेन्द्रः॥६२॥**
@@ -2211,8 +1955,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  विमोहन इति॥** वल्लवगेहिनीनां गोपभार्याणां विमोहने सम्भोगेऽपि ‘सुरतं मोद्दनं प्रोक्तं’ इति हलायुधः। तदीयं तस्य कृष्णस्येदं ब्रह्मचर्यं स्त्रीसङ्गराहित्यरूपं न बिभिदे न श्लथमासीत्। भिदेः कर्मकर्तरि लिट्। सत्येन अबाधितेनैव येन ब्रह्मचर्येण सतां व्यासादीनां समक्षं तत्प्रसिद्धम्। यदश्वत्थामास्त्रविप्लुष्टमिति भावः। बालकजीवनं उत्तरागर्भच्युतस्य परीक्षितो जीवनं सम्पत्स्यते सम्पन्नं भविष्यति। यदि मे ब्रह्मचर्यं स्यात् सत्यं च मयि तिष्ठति। अव्याहतं ममैश्वर्यं तेन जीवतु बालकः॥ पादेन कमलाभेन ब्रह्मरुद्रार्चितेन च। पस्पर्शं पुण्डरीकाक्ष आपादतलमस्तकम्॥’इति कृष्णेन पदास्पृष्ट परीक्षिज्जीवनं प्रतिलेभ इति भारते कथा। सम्पत्स्यत इति विमोहनकालमपेक्ष्य लट्प्रयोगः। तथा च ब्रह्मचर्येण दग्धबालकोज्जीवनमेव तदस्खलने प्रमाणमिति भावः॥६३॥
 
 **  स्वेति॥**व्रजेशः नन्दः कृष्णं स्वसम्भवं स्वात्मजमवेक्षमाणः बलं बलरामञ्च बन्धुप्रसृतं स्नेहाद्वसुदेवो बन्धुरिति बन्धुसुतमवेक्षमाणस्सन्नि- त्यर्थः। उभयोर्नियोगार्हतां पश्यन्नित्यर्थः। निसर्गमैज्यास्वभावसिद्धेन स्नेहेन नियतैक-
-
-
 
 **अनन्यतन्त्रस्स्वयमेव देवान् पद्मासनादीन् प्रजनय्य रक्षन्।  
 सरक्षकस्सीरभृता सहासीन्नेता गवां नन्दनियोगवर्ती॥६५॥**
@@ -2232,8 +1974,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  विहारेति॥** मृगेन्द्रपोतौसिंहशाबकाविव धीरचेष्टौ उदारचरितौ सिंहशाबवद्वने व्याघ्रादीनलक्षीकृत्य संचरन्तावित्यर्थः। विहारेण मृगयादि- रूपेण वित्रासिताः उद्वेजिताः दुष्टसत्वाः व्याघ्रादयो याभ्यान्तौबालौ रामकृष्णौ शाश्वतिकेन नित्यसिद्धेन भूम्ना महिम्ना परब्रह्मभावरूपेण युवानाविव बलाढ्यौबलसमृद्धी बभूवतुः॥६७॥
 
-
-
 **सिन्दूरतौवत्सपरागजालैस्सितासितौ बालगजाविव द्वौ।  
 उदारलीलावुपलक्ष्य गोप्यस्सर्वास्तदानन्यवशाबभूवुः ॥६८॥**
 
@@ -2250,8 +1990,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  अबालिश इति ॥** अबालिशः अबालः आदिपुरुषत्वात् बालिशवत् बालेन तुल्यं यथा तथा ‘बालिशो बालमूर्खयोः’ इति वैजयन्ती। आत्मनि स्वस्मिन् पारतन्त्र्यं पशुपालनरूपं प्रजानां जनानां प्रख्यापयन् प्रकाशयन् विश्वपतिरखिलनायकः कृष्णः पशूनां संसारिणां ‘आत्मानः पशवः प्रोक्तास्सर्वं संसारवर्तिनः’ इति पुराणवचनात्। बन्धे च मोक्षेच संसरणे संसारादुत्तारणेच निजमात्मीयं प्रभुत्वं न्यदर्शयत् उदाहरणमुखेन दर्शितवान् गोमहिष्यादीनां पशूनां बन्धमोक्षकरणमेव संसारिरूपिणां पशूनां बन्धमोक्षयोस्तस्य प्रभुत्वे उदाहरणमभूदित्यर्थः॥७०॥
 
-
-
 **आत्मोपमर्देप्यनुमोदमानादात्माधिकं पालयतश्च वत्सान्।  
 गावस्तदानीमनघामविन्दन् वात्सल्यशिक्षामिव वासुदेवात्॥७१॥**
 
@@ -2267,8 +2005,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  य इति॥** अनन्तभूमा अनवधिकमहिमा योऽसौ अनन्तप्रमुखैरनन्तगरुडविष्वक्सेनादिभिः अनन्तैरसंख्यैर्नित्यमुक्तैः नित्यं सदा निर्विश्यते साक्षात्कारेणोपभुज्यते वैमानिकानां विमानेन चरतां प्रथमः प्रवरः आदिमो वा सदेवो वासुदेवः वत्सलात्मा वात्सल्यार्द्रहृदयस्सन् वस्सैः अलेलिह्यत पौनःपुन्येनालिह्यत। क्रियासमभिहारे यङि कर्मणि लट्। विचित्रा भगवतः क्रीडेति भावः॥७२॥
 
 **  महीयसेति॥** वत्सानां अनुचर्यासु अनुव्रज्यासु क्षुधया अन्विताः क्षुधायुक्ताः वयस्यगोपात्सवयसो गोपाः गोपकुमाराः महीयसा अतिशयेन महता मधुप्लुतेन क्षौद्रसिक्तेन दध्यन्नसारेण दधिसिक्तान्नवरेण मण्डितपाणिपद्ममलङ्कृतपाणिकमलं तं कृष्णं दृष्ट्वा ननन्दुः नन्दति स्म। वयस्यानां क्षुधासु दध्यन्नं दत्वा तान्सन्तर्पयामासेत्यर्थः॥ ७३॥
-
-
 
 **स्वादूनि वन्यानि फलानि तैस्तैः स्निग्धैरुपानीय निदर्शितानि।  
 रामाय पूर्वं प्रतिपाद्य शेषैस्स पिप्रिये सादरभुज्यमानैः॥७४॥**
@@ -2291,8 +2027,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  नेति॥** तस्मिन् वृन्दावने नारायणे कृष्णे स्वबाहुकल्पेन स्ववाहुतुल्येन तद्वत्सहकारिणा बलेन बलदेवेन सार्धं नन्दस्य लक्ष्मी गोधनादिरूपां रक्षति सति
 
-
-
 **निरीतयस्ते निरपायवाञ्छाः निःश्रेयसादप्यधिकप्रमोदाः।  
 प्रपेदिरे पूर्वयुगानुभूतिं गोपास्तदा गोप्तरि वासुदेवे॥७८॥**
 
@@ -2311,8 +2045,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  वत्सेति॥** गोपीजनाः वत्सानामनुचर्यायामनुचरणे चतुरस्य क्षमस्य काले उचितसमये वंशस्वनैः बेणुनादैः कर्णसुधां कर्णामृतं विधातुः कुर्वतः (तृन्प्रत्ययोयमिति षष्ठीप्रतिषेधाद्द्वितीया) तस्यकृष्णस्य गतागतेषु गमनागमनेषु गतागतप्राणदशां यथासङ्ख्यङ्गमने गतप्राणामागमने आगतप्राणाञ्च दशां अविन्दन् प्रापुः क्षणमपि तद्विरहं न सेहिर इत्यर्थः॥७९॥
 
 **  आघ्रातेति॥** अरण्यभागेष्वरण्यप्रदेशेषु आश्रितधेनुभावैः धेनुभावमाश्रित्य चरद्भिः आरण्यकैः अरण्यगेयैर्वेदान्तभागैः आघ्रातवर्त्मानमा- घ्रातमार्गं कृष्णमिति शेषः। नन्दव्रजे धेनुभावमाश्रित्य कृष्णसेवार्थञ्चरतो वेदान्ताः कृष्णे परब्रह्मणि तात्पर्यगौरवात्तस्य गमनमार्गमप्यजिघ्रन्निति भावः। तस्य कृष्णस्य केनापि दैत्येन अपहृतं किरीटं मकुटं प्रत्याहरन् कृष्णायार्पयितुं ततो दैत्याद्गृहीत्वा पुनराहरन् पत्रिनाथ गरुडः प्रेक्षतापश्यत्। कृष्णाय मकुटमर्पयितुमेव तमन्वि-
-
-
 
 **देवस्य दुग्धोदशयस्य दैत्याद्वैरोचनाद्व्यालभुजोपनीतः।  
 कृष्णस्य मौलौकृतबर्हचूडे न्यस्तः किरीटो निबीडी बभूव॥८१॥**
@@ -2333,8 +2065,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  करेति॥** स कृष्णः कराम्बुजस्पर्शेन निमीलिताक्षान् सुखात् झटिति निमीलितलोचनान् आमर्शनैः कराम्बुजेन समन्तात्परामर्शैः आकलि- तार्धनिद्रान्
 -
 
-
-
 **रोमन्थफेनाञ्चितसृक्विभागैरस्पन्दनैरर्धनिमीलिताक्षैः।  
 अनादृतस्तन्यरसैर्मुकुन्दः कण्डूयितैर्निर्वृतिमाप वत्सैः॥८४॥**
 
@@ -2352,8 +2082,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  सिषेविर इति !!** वत्साः मणिमेचकेन नीलमणिश्यामलेन कृष्णस्य धाम्ना त्विषा शाद्वलितान् शावलीकृतान् शादेन नवतृणेन हरितीकृतान् केवलायां तृणरहितायामपि वसुन्धरायां वदनानि व्यापारयन्तस्सन्तः कृष्णधाम्नि तृणभ्रमादिति भावः। सिषेविरे सेवन्ते स्म॥८५॥
 
 **  नवेति॥** स कृष्णः नवं यथा तथा प्रसूताः अप्रतिमानदोहाः असदृशदोहाः बहुक्षीरा इति यावत्। पयस्विनीर्दोग्ध्रीः वनान्ते परिभ्रमश्रान्त्र- पदान् उल्ललनेन श्रान्तचरणान् अदूरात् प्रत्यागतान् समीपएव परिक्रम्य ततो गृहं प्राप्तान् वत्सान् पाययते स्म दोहं प्रतिषिध्य वत्सानेव प्राययामास॥ ८६॥
-
-
 
 **निविश्य मूलेषु वनं द्रुमाणां निद्रायितानां निजतर्णकानाम्।  
 अङ्गानि गास्सादरमालिहन्तीरमंस्त सम्भाव्यगुणाः स्वमातुः॥८७॥**
@@ -2376,8 +2104,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  नीति॥** दिवसे मदीयमाने मन्दोभवति सति आत्तवंशे गृहीतवेणुवाद्यः गोकुलं निवर्तयन् मुकुन्दः प्रियादृशां गोपीलोचनानां पारणया तृप्ति- कारिण्या स्वकान्त्या विश्वं बर्हावृतमिव व्यातनुत अकरोत्॥९०॥
 
-
-
 **बालं तरुण्यस्तरुणञ्च मालास्तमन्वरज्यन्त समानभावाः।  
 तदद्भुतं विश्वविलोभनं वा तस्यैव सर्वार्हरसात्मता वा॥९१**॥
 
@@ -2393,8 +2119,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  अवेदिषातामिति ॥** रामकृष्णौ क्लृप्तेन्द्रजालौ ऐन्द्रजालिकाविव पितृभ्यां यशोदया नन्देन च पृथुकौ अर्भकौअवेदिषातां अवगतौ। तरुणीजनेन तारुण्यपूर्णौ अवेदिषातां। पुरावृत्तविशेषविद्भिः भगवदवताराविमाविति विशेषं जानद्भिः पुराणपुरुषतथा वृद्धौ अवेदिषाताम्। यथा एक ऐन्द्रजालिको नानारूपेण प्रतीयते तथा गृहीतृबुध्यादिभेदेन बालादिरूपतया प्रतीतावित्यर्थः॥९२॥
 
 **  अथेति॥** अथ कृष्णस्य यौवनप्रादुर्भावानन्तरं गोपकुमारिकाभिर्नन्दवज्रजाताभिरप्सरोरूपाभिः मदनस्यापदानं पराक्रमं दातुं ‘अपदानं पराक्रमः’ इति वैजयन्ती। आलोकयतां मनांसि श्रादातुमपहर्तुञ्च गुणोत्तरं कान्तिसौन्दर्यसौकुमार्यादिभूयिष्ठं नाथसमं कृष्णस्यानुरूपं नवं जयः प्रथमयौवनं प्रपेदे प्राप्तम्कर्मणि लिट् ॥९३॥
-
-
 
 **अनङ्गसिन्धोरमृतप्रथिम्ना रसस्य दिव्येन रसायनेन।  
 महीयसीं प्रीतिमवाप तासां योगी महान् यौवनसम्भवेन॥९४॥**
@@ -2412,8 +2136,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  अतीति॥** तादृशीः कृष्णमभिसरन्तीः ताः। अतिप्रसङ्गात् प्रवृत्तिर्जातेति अन्यत्रापि प्रसङ्गः अतिप्रसङ्गस्तस्मात् अवधीरयन्त्या क्षिपन्त्या प्राचीनया नियत्या प्राग्भवीयेन निजतपोरूषेण कर्मणा संयमितो नियमितः धर्मः पञ्चभिः पाण्डवैर्भुक्तां पाञ्चालकन्यां द्रौपदीमिव सतीः पतिव्रता इति आदृत आद्रियते स्म। प्राग्भवीयकर्मबलात्कृष्णस्य स्वस्वपतिरूपानेकभोगेऽपि तासां धर्मंपथभ्रंशो नासीदित्यर्थः॥९६॥
 
-
-
 **दिशागजानामिव शाक्वराणां शृङ्गाग्रनिर्भिण्णशिलोच्चयानाम्।  
 सतादृशा बाहुबलेन कण्ठान्निपीड्य लेभे पणितेन नीलाम्॥९७॥**
 
@@ -2430,8 +2152,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  आत्मीयेति॥** स कृष्णः आत्मीयपर्यङ्कभुजङ्गकल्पौ स्वकीयमञ्चभुजङ्गशेषस्य सदृशौ पृथिव्याः अक्षेप्यरक्षापरिधौ अप्रतिक्षेप्यरक्षार्थर्गल- रूपौभुजपारिजातौ पारिजाताविव भुजौ नीलाया आश्लेषसमये उपधानीकरणात् भूयिष्ठधन्यौ भृशं कृतार्थौमेने इति तस्यां प्रेमातिशयोक्तिः॥९१॥
 
-
-
 **रागादिरोगप्रतिकारभूतं रसायनं सर्वदशानुभाव्यम्।  
 आसीदनुध्येयतमं मुनीनां दिव्यस्य पुंसो दयितोपभोगः॥१००॥**
 
@@ -2442,8 +2162,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  रागेति॥** दिव्यस्य दिवि परमपदे भवस्य पुंसः कृष्णस्य दयितोपभोगएव गोपिकासम्भोगएव सर्वदशानुभाव्यं न तु प्रसिद्धरसायनवत् समयविशेषं प्रतीक्ष्य सेव्यं रागादिरोगाणां प्रतिकारभूतं भेषजत्वं प्राप्तं रसायनं दिव्यौषधं मुनीनामृषीणामप्यनुध्येयतममतिशयेनानुध्ये- यमासीत्। अत्र दयितोपभोगे प्रसिद्धरसायनवैलक्षण्यविशिष्टरसायनत्वारोपरूपो रूपकभेदः स च विरोधाभासगर्भः। लोकेह्युपभोगो भाव्यमानो भावकस्योद्दीपनविभावतया रागादिकमुत्पादयति अयन्तु भाव्यमानो रागादिकं क्षपयतीति विरोधस्य भगवच्चरितानुध्यानरूपतया तत्समाधानस्य च सत्वात्। रागादिरोगप्रतिकारभूतमिति विशेषणेन। ‘भजते तादृशीं क्रीडां यां श्रुत्वा तत्परो भवेत्’ इति भागवतोक्तरीत्या भगवतोगोपिकासम्भोगस्य लोकानुग्रहार्थत्वमपि दर्शितम्। रागिणो हि सम्भोगपदश्रवणे स्वयमेव कुतूहलिनः प्रवर्तन्ते तच्च श्रवणं भगवत इव विषयमाहात्म्यादन्तःकरणशुद्धिमादाय रागादिकं क्षपयति। अतएवविषयमाहात्म्यान्मुक्तिजनकतया मुनोनामप्यनुध्येयता॥ १००॥
 
 **  अन्विति॥** सुलोचनाः गोपसुदृशः प्रतिसन्निवृत्तं नीलां लब्ध्वा विदेहदेशात्प्रतिनिवृत्तं लोचनानां भागधेयं भाग्यभूतं तं कृष्णं नूनं अनङ्गबाणैः अनुद्रुताः अनुसृतास्सत्यः त्यक्तेतरैः विसृष्टविषयान्तरैः अक्षिमिः आत्मना मनसा च त्यक्तेतरेणेति वचनविपरिणामेन विशेषणानुषङ्गः। प्रत्यग्रहीषुः प्रत्युद्गमनेनाङ्गीचक्रुः यथा देशान्तरात्प्रतिनिवृत्तं बन्धुं तदीयाः स्वकीयैः कैश्चिदनुगन्तृभिस्सम्भूताः प्रत्युद्गच्छन्ति एवं कृष्णं लोचनैः प्रत्युद्गच्छन्त्योऽङ्गनाः मदनबाणैरनुद्रुताः प्रत्युज्जग्मुरिति मदनबाणानामपि तदनुगामितया प्रत्युद्गन्तृत्वमुत्प्रेक्ष्यते। तत्र च निमित्तं मदनबाणप्रेरितानां तासां लोचनान्तप्रत्युत्पतनानन्तरं कृष्णस्यापि मदनबाणविद्धतेति भावः। यद्वा यथा कैश्चिद्बाधकैरनुद्रुता बाधपरिहाराय जवात् गत्वा कञ्चन समर्थं शरणं गृह्णन्ति एवं तद्विश्लेषसमये मदनबाणैर्बाधकैरनुद्रुता-
-
-
 
 **व्रजोपकण्ठे विबुधानुभाव्यो गोपीजनैरात्मगुणावदातैः।  
 समावृतो नन्दसुतश्चकाशे तारागणैरिन्दुरिवान्तरिक्षे॥१०२॥**
@@ -2463,8 +2181,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  कदाचिदिति॥** आसादितगोपवेषः स्वीकृताभीराकारः प्राप्य रन्ध्रान्वेषी रामकृष्णयोरनुचरेषु पर्यटन बलीयान् अतिशयेन बली प्रलम्बो नाम दैत्यः कदाचित् गोपकुमाराणां बृन्दे क्रीडाकुले हरिणा क्रीडनाख्यक्रीडाव्यग्रे सति बलं बलरामं स्कन्धेन संगृह्य स्वयमपि क्रीडां प्रविश्य स्वयं बलभद्रेण निर्जित इति तद्व्याजेन तं स्कन्धे गृहीत्वा दिवमन्तरिक्षं प्रत्युत्पपात॥१०४॥
 
-
-
 **पपात भूमौ सहसा स दैत्यस्तन्मुष्टिना ताडिवशीर्णमौलिः।  
 महेन्द्रहस्तप्रहितेन पूर्वं वज्रेण निर्भिण्णइवाचलेन्द्रः॥१०५॥**
 
@@ -2480,8 +2196,6 @@ for more than 100 years and then with great calmness of mind received permission
   **स्वेति॥** दनुजे प्रलम्बासुरे निरस्ते सति स्ववाससा स्वकीयेन नीलांबरेण क्लृप्तकलङ्कलक्ष्मीः कृतकलशोभः कान्त्या देहकान्या चन्द्रिकयेव दिशो लिंपन् रामः स्वर्भानुना राहुणा मुक्तः ग्रसनानन्तरं विसृष्टः उडुराजश्चन्द्र इव क्लृप्तकलङ्कलक्ष्मीरित्यत्र क्लृप्ताः कलङ्कत्य लक्ष्म्यो यस्मिन्निति शोभाबहुत्वाभिप्रायेषु व्याख्येयं अन्यथा लक्ष्मीशब्दस्यैकवचनान्तस्योरःप्रभृतिषु पाठात्समासान्तनियमस्स्यात्॥१०६॥
 
   अथ कालियमर्दनमुपोद्घातेन प्रस्तौति—**विनेति॥** कदाचित एकदा रामेण बलदेवेन विनैव सवत्सं वत्ससहितं धेनुगणं सञ्चारयन् विभुः वनश्रिया दूरे विलोभिताक्षः प्रलोभितनयनस्सन् अदृष्टपूर्वं पूर्वमदृष्टं कञ्चित् कच्छं दूरस्थं यमुनायाः कञ्चिदनूपप्रदेशं ययौ। ‘जलप्रायमनूपं स्यात्पुंसि कच्छस्तथाविध इत्यमरः॥१०७॥
-
-
 
 **यदृच्छया चारितधेनुचक्रः कूलान्तिके विश्वजनानुकूलः।  
 कलिन्दजां कालियपन्नगस्य क्ष्वेलोद्गमैः कज्जलितां ददर्श॥१०८॥**
@@ -2499,8 +2213,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   **मध्विति॥** कृष्णेनाश्रिता शुष्कस्य कदम्बस्य शाखा मधुद्रवैमकरन्दरसैः उल्बणहर्षबाष्पा प्रव्यक्तानन्दवाष्पा ‘स्फुटं प्रव्यक्तमुल्बण’ मित्यमरः। कैंसरजालकेन किञ्जल्कनिवहेन रोमाञ्चिता सञ्जातरोमाञ्चा पत्राङ्कुरैर्दलकन्दलैः—‘पत्ररेस्वादिभिरित्यपि प्रतीयते। तैश्चित्रतनुश्च सती चकाशे भगवत्सम्पर्कात्सद्यः—पुष्पपल्लवादिसमृद्धिमती बभास इत्यर्थः॥ ११०॥
 
-
-
 **निपत्य संक्षिप्तपयोधिकल्पे महाह्रदे मन्दरपोतरम्यः।  
 विषव्यपोहादमृतं विधातुं स्वादूदयं क्षोभयति स्म सिन्धुम्॥१११॥**
 
@@ -2517,8 +2229,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   **प्रेति॥** प्रसक्तकृष्णद्युतिभिः अनुषक्तकृष्णदेहकान्तिभिः तदीयैर्यामुनैः प्रतूर्णमुत्पतितैः कृष्णनिपातवेगात् झटिति उत्क्षिप्तैः पृषत्कर्णैर्बि- न्दुकणैः आद्योतितं भासितं अन्तरिक्षं पीतान्धकारैः ग्रस्ततमोभिः तारकौधैर्नक्षत्रगणैः आद्योतितमिवादृश्यत नीलवर्णाया अपि यमुनायाः उत्थिताः पृषत्कणाः धवलाभवन्तस्तारा इव तदनुषक्ताःकृष्णकान्तिकन्दलाः नक्षत्रतेजोभिः पीता अन्धकारशकला इव चासन्नित्युत्प्रेक्षा॥ ११३॥
 
-
-
 **उदग्रसंरम्भमुदीक्ष्य भीतास्तार्क्ष्यध्वजं तार्क्ष्यमिवापतन्तम्।  
 प्रपेदिरे सागरमाश्रितौघाः काकोदराः कालियमात्रशेषाः॥११४॥**
 
@@ -2534,8 +2244,6 @@ for more than 100 years and then with great calmness of mind received permission
 **  अथेति॥** अथ अन्येषां पलायनानन्तरं शौरिः उग्रंक्रूरं व्यात्ताननं दंशनाय विवृतास्यं सन्तं मृत्युमिव अम्भसः उज्जिहानं प्रवाहादुद्गच्छन्तं भोगेन बघ्नन्तं उद्गमनसमये स्वकायेन बध्नन्तं कालियमिति नागं बहुफणं सर्पम्। अपोह्य यथा बन्धुं न शक्नोति तथा निरस्य प्रह्वीकृतं अवनम्रीकृतं तत्य कालियस्यफणंआरुरोह। 'नागाबहुफणास्सर्पा' इति यादवः। सहस्रफणः कालिय इति भागवते॥११५॥
 
 **  सद्य इति॥** कालियपन्नगस्य फणां महानीलमयीं ऐन्द्रनीलीं सपद्मरागां मध्ये पद्मरागखचितां पादपीठीमिव फणाया नैल्यात्फणारतैराहि- त्याच्चैवमुक्तिः (सद्यस्तस्मिन् क्षणेक्रामन् मुकुन्दः (राहुणा) ग्रस्तोदितः भानुरिव आबभासे। तत्फणामाक्रम्यैव प्रवाहादुन्मज्जनमभिसन्धाय ग्रस्तोदित इति विशेतिम्॥११६॥
-
-
 
 **फणामणीनां प्रभयोपरक्ते खेलन् बभौ चक्रिणि चक्रपाणिः।  
 प्रदोषसिन्दूरितमम्बुवाहं प्राचेतसो नागइवोपमृद्गन्॥११७॥**
@@ -2558,8 +2266,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  तदिति॥** अनन्तः कृष्णः तस्य कालियत्त्योत्तमाङ्गं शिरः रङ्गं नृत्तस्थानं परिकल्प्य तरङ्गैर्निष्पन्नो मृदङ्गनादो यथा भवति तथा त्रिदशैर्देवैः प्रशत्यमानः उपलोक्यमानस्सन् अव्याहतां आरभटीं नटनार्भटीं अकार्षीत्॥१२०॥
 
-
-
 **एकेन हस्तेन निपीड्य वालं पादेन चैकेन फणामुदग्राम्।  
 हरिस्तदा हन्तुमियेष नागं स एव संसारमिवाश्रितानाम्॥१२१॥**
 
@@ -2579,8 +2285,6 @@ for more than 100 years and then with great calmness of mind received permission
 
 **  लोलेति॥** अथानन्तरं अहिः कालियः इष्टैरवरोधैरन्तःपुरस्त्रीभिस्सहितस्सन् लोलस्य स्वनृत्तेन चलस्य आपततश्चरणस्य लीलाहृत्या लीलयाभिघातेन क्षरितहालाहले उद्भिन्नविषे निजफणे नृत्यन्तं अप्रतिघकृत्यं प्रत्याहतिरहितकृत्यं अप्रतिमं असदृशं अत्यन्तचारुवपुषं समये पराक्रमसमये सेवायां आदरत्वरितेन हे वाकघोषेण स्वच्छन्दस्तुतिघोषेण 'हैवाकस्स्वाच्छन्द्यमिति चक्रवतीं। देवादिभिः
 
-
-
 **हरिचरणसरोजन्यासधन्योत्तमाङ्गः  
 शमितगरुडभीतिस्सानुबन्धस्सनागः।  
 युगविरतिदशायां योगनिद्रानुरूपां  
@@ -2598,8 +2302,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   **विविधेति॥** विविधानां नानाविधानां मुनिजनानां उपजीव्यानि तीर्थानि जलावतारप्रदेशाः यस्याः त्रयीपक्षे विविधमुनिजनोपजीव्यानि तीर्थानि स्वाङ्गभूतानि मीमांसादिशास्त्राणि यस्यास्सा यमुना परेण पुंसा परमात्मना कृष्णेन विगमितसर्पगणा अपसारितभुजगकुला त्रयी पक्षे परेण उत्कृष्टेन वेदार्थनिर्धारणनिपुणेन पुंसा शमितबहिर्मतसम्प्लवा ऊपगमितपाषण्डसङ्करा त्रयी त्रिवेदीक अग्रयामत्कृष्टां विशुद्धिं अभजत आप। पुष्पिताग्रावृत्तम्॥१६५॥
 
-
-
 **अवधूतभुजङ्गसङ्गदोषा हरिणा सूर्यसुता पवित्रिता च।  
 अपि तत्पदजन्मनस्सपत्न्या बहुमन्तव्यतरा भृशं बभूव॥१२६॥**
 
@@ -2607,7 +2309,6 @@ for more than 100 years and then with great calmness of mind received permission
 वेदान्ताचार्यस्य कृतिषु यादवाभ्युदये महाकाव्ये  
 चतुर्थस्सर्गः॥  
 ![](../books_images/U-IMG-1722274491Screenshot2024-07-18063849.png)**  
-
 
 **![](../books_images/U-IMG-1722274505Screenshot2024-07-28221953.png)**
 
@@ -2621,8 +2322,6 @@ for more than 100 years and then with great calmness of mind received permission
 महानुभावं वसुदेवशाबं प्रकृष्टभावं प्रणमामि देवम्॥**
 
 ![](../books_images/U-IMG-1722274648Screenshot2024-07-11161259.png)
-
-
 
 **TRANSLATION**  
 **OF**  
@@ -2640,8 +2339,6 @@ for more than 100 years and then with great calmness of mind received permission
 
   5. Only such a composer is called a poet, from whom, words whose style is suitable to meaning and
 
-
-
 which are filled with *rasas*, *bhavas*, *vyángyas*, and figures of speech flow with great ease.
 
   The secondary meaning is this :—‘Only such a creator is said to be all-knowing. in whom Saraswati with her ornaments giving brighter lights to the expressions of love, takes delight.
@@ -2656,8 +2353,6 @@ Vasudeva, which is the life-restoring medicine to wise men and gods and which is
   9. The supreme Ruler, constantly attended with Lakshmi, produced this picture of Universe, alone and voluntarily, with the brush of sport smeared with mercy.
 
   10. The moon, the delighter of worlds, who is like the embodiment of favour upon all those who deserve protection, took his birth from the heart of Him (the supreme Lord).
-
-
 
   11. Pururavas, of auspicious fame, who was born to his (the Moon's) son, proved that virtuous men who consecrated the sacred fire would enjoy the heavenly bliss.
 
@@ -2675,8 +2370,6 @@ Vasudeva, which is the life-restoring medicine to wise men and gods and which is
 
   18. The kings were not able to transgress his command involving the fulfilment of his business and that of others, as antagonists cannot object to an authority quoted by the speaker, supporting his views and tape of the antagonists.
 
-
-
   19. As men afflicted with the heat of the sun (resort to) a tank, as gods (worshipped) the Indra, and as Bhavas which are fit, (developed) a *rasa*, so was he worshipped by the kings.
 
   20. Of him was born the famous Yadu, with whose descendants, who had no equals, equality was obtained only in pictures.
@@ -2692,8 +2385,6 @@ Vasudeva, which is the life-restoring medicine to wise men and gods and which is
   25. The inhabitants of heaven considered him a clever ruler of the world, whose punishments were just, who put an end to his enemies, and who acted impartially towards all.
 
   26. The tree of the race ef Yadu, fragrant with the flowers of fame, was with its many branches on the
-
-
 
 surface of this earth, for the delight of gods and wise men.
 
@@ -2711,8 +2402,6 @@ surface of this earth, for the delight of gods and wise men.
 
   33. He, uniting them, who were fit to him, felt himself very happy; and by this union became the cause of themanifestation ofthe Vishnu with his bed(Adisesha.)
 
-
-
   34. He with his face turned away from Artha and the kama, did not desire toobtain the emperorship; but he enjoyed such dominionas he could obtain by chance,which he courted, as it enabled him to free himself from the debts (to gods and forefathers).
 
   35. Kamsa, having accepted his fate in future, as announced by a voice from heaven, put Devaki and Vasudeva in jail.
@@ -2729,8 +2418,6 @@ surface of this earth, for the delight of gods and wise men.
 
   41. The inhabitants of heaven being thus made. known of the facts, by the bearer of animals, understood that to remove the burden was possible only to her husband.
 
-
-
   42. Putting the mother of the world in their front, and quicker than the mind (itself), they went to a distance and praised the God resting on the milky ocean.
 
   43. “We bow to thee, who shinest in the centre of the three Vedas, who hast three habitations, who hast five weapons, who givest gifts, and who receivest offerings both external and internal.
@@ -2744,8 +2431,6 @@ surface of this earth, for the delight of gods and wise men.
   47. “The journey in which sunset was the resting place, for the travellers, namely, the Vedas, who wanted to reach the other shore of Thy immeasurable glory.
 
   48. “Of what nature is Thy sport, who, deserving to be saluted, yet bows to mean persons, who bestowing gifts to others, yet begs of them, and who, hast our sons as fathers, nobody can describe.
-
-
 
   49. “Thou, who sportest like an actor, with a variety of forms (assumed) of different natures, swellest the surprise of men who think of none but Thee,
 
@@ -2763,8 +2448,6 @@ surface of this earth, for the delight of gods and wise men.
 
   56.“A small portion of Thy power with Thy Will as its minister is able to create or destroy the world or to do nothing, as the times need.
 
-
-
   57. “Thou art the objective of the performances of *yoga*, who hast *Lakshmi* and *Kaustubha* as Thy distinctive marks, Who as we read (in the Vedas), art causeless, and Who art the origin of all.
 
   58. “Thy favour is the long-lived guarantee even in times of the destruction of universe, to those who try to obtain either the collection of the three (Dharma, Artha, and Kama) or *Moksha*.
@@ -2780,8 +2463,6 @@ surface of this earth, for the delight of gods and wise men.
   63. “Thou, the animater of fugitives, remove quickly our distress, who have taken refuge with Thee, as the sun removes darkness.
 
   64. “Asuras are born for the trouble of the world, the anti-suns in spite of the existence of the sun; (Oh God) destroy them with Thy power.”
-
-
 
   65. Being thus praised by the gods who desired the destruction of the Asuras, He (though) invisible, kindly became visible to them.
 
@@ -2799,8 +2480,6 @@ surface of this earth, for the delight of gods and wise men.
 
   72. Who was given a desire for war by his vehicles, an incarnation of the Vedas, shining with the bracelet of a serpent, and ancinted with the smell of his feet.
 
-
-
   73. Who was promising with the eyebrow-signs, that which was made known to (Him) by the devotion-bent commander, by the shaking of whose cane, that those that were to be led to Vishnu were (made) motionless.
 
   74. The dwellers in heaven considered him to be the never-setting sun, the never-waning Moon, and the shoreless ocean of nectar.
@@ -2817,8 +2496,6 @@ surface of this earth, for the delight of gods and wise men.
 
   80. “The big waved oceans will wash away the earth, if Thou dest not hasten to remove its burden.
 
-
-
   81. “Let not this earth, which has Thee whose mind is full of mercy, for its sailor, be drooping like a big ship in water.
 
   82. “The trouble from Asuras having been put an end to by Thee, the gem of the girdle (of the earth), it deserves to be adorned.
@@ -2834,8 +2511,6 @@ surface of this earth, for the delight of gods and wise men.
   87. The Earth, which took the form of the best female with thin waist, wide eyes, slender body and profuse breasts, and which (consequently) appeared like the great Maya.
 
   88. Who by the bees, attracted by the smell of the forelocks, and arranged in a circular form, had the perfection of an umbrella of peacock feathers, got without effort.
-
-
 
   89. Who, with her breasts adorned by the drops of tears caused by the joy of seeing (her) lover, which looked like pearls set therein.
 
@@ -2855,8 +2530,6 @@ surface of this earth, for the delight of gods and wise men.
 
   97.“You must also be born on the earth as lords of kings who share in the delight of hunting the crowd of the animals of Asuras”
 
-
-
   98. Then Vishnu, whose command was never vain, having thus ordered the gods, fixed His mind upɔn Madura, rejecting the milky ocean.
 
   99. The husband of Lakshmi, having consoled by the showers of the nectar of His speech the gods and the goddesses of the earth bent by the burden of *Asuras*, and desiring to be born of the wife of Vasudeva, thought of the occasions for (showing his) mercy.
@@ -2865,7 +2538,6 @@ surface of this earth, for the delight of gods and wise men.
 
 ![](../books_images/U-IMG-1722303407Screenshot2024-07-18063849.png)
 
-
 **CANTO II.**
 
   1. Then, the queen shone with the sign of pregnancy, which was (a source) of unalloyed greatness to the Vedas which was (a source) of great gain of wealth to virtue, and which showed (their former) greatness to the dwellers in heaven.
@@ -2873,8 +2545,6 @@ surface of this earth, for the delight of gods and wise men.
   2. The signs of pregnancy of her, who bore in her womb the source of the three worlds, whose shape was diversified by *Sringara rasa, Veera rasa and Adbhuta rasa,* were of two kinds, being variegated by sports high and low.
 
   3. She certainly, without any effort, became superhuman by a certain elixir (namely) Sri Krishna, whose
-
-
 
 greatness is explained by all the Vedas, which was famous (ever living) and which had been used by those who have been cured (waited upon by the Siddhas).
 
@@ -2890,8 +2560,6 @@ greatness is explained by all the Vedas, which was famous (ever living) and whic
 
   9. Her side-long looks, appearing as handsome as the agitated ocean of milk, prepared a peculiar white wash
 
-
-
 of colour useful in plastering the palace of the three worlds.
 
   10. The famous Devaki, who used to look into the minds of the Rakshasas and Danavas placed (there) by Kamsa in the act of guarding the jail, being (only) once looked at (by them) agitated their minds.
@@ -2905,8 +2573,6 @@ of colour useful in plastering the palace of the three worlds.
   14. The pure-hearted looked upon her, who was about to manifest Him, the creator of high as well as low, as the store of learning and the grand-mother of the universe.
 
   15. The all-knowing Devaki wrote fittingly all the worlds on the painting cloth brought with sport; which certainly became the original to creators in their duties.
-
-
 
   16. The holy-hearted queen who followed the way of the desireless, and who adopted the policy of attaining Moksha desired to make the growth of Kritayuga.
 
@@ -2922,8 +2588,6 @@ of colour useful in plastering the palace of the three worlds.
 
   22. She, containing within her that mighty being in Whom the whole universe lies, saw the universe within
 
-
-
 herself. Such a marvel is beyond our powers of reasoning.
 
   23. Close by her she saw Vishwaksena with the extremity of his gold cane broken to pieces by beating on the crests of the chiefs of the gods and demons, disclosing his joy, but invisible to others.
@@ -2937,8 +2601,6 @@ herself. Such a marvel is beyond our powers of reasoning.
   27. When Narayana, the giver of the fruit of the four objects of human life to Sadhus entered her womb, she, stooping (with the weight of her body) attained the full height of nobility and desired that she alone should bestow everything upon all.
 
   28. The thin-bodied (Devaki), good-looking in (her) pregnancy, having left thinness, with (her) increase of bulk caused by certain Luminary, obtained gradually a great (amount of) splendour like the disc of the Moon.
-
-
 
   29. Her waist which had increased in bulk in course of time, and which contained in it the fresh adorning Gem of Lakshmi kept secret, was (like) a box made of silver.
 
@@ -2954,8 +2616,6 @@ herself. Such a marvel is beyond our powers of reasoning.
 
   35. (Her) husband, seeing the queen who though conceiving a child never felt pain by its greatness and whose mind was concentrated on happiness alone, even
 
-
-
 during the time of delivery, thought that she was indicating his fortune.
 
   36. He (Vasudeva) who had been the father of gods and demons in his previous birth, and who was (now) about to become their grandfather, with his desire for other things gone, was pleased to see Devaki conceive Vishnu.
@@ -2969,8 +2629,6 @@ during the time of delivery, thought that she was indicating his fortune.
   40. The Sun sinking in the sea, certainly thinking that some one would become the holder of his hands, held up (his) hands of rays to a distance (in the sky.)
 
   41. The Sun, red as fruit-juice, with its shining filament-like rays, sank in the sea like a lotus thrown
-
-
 
 (into it), which had its filaments shining with splendour, which was red with (its) juice and which was taken gaily by the girl of evening twilight, from the ocean of sky.
 
@@ -2986,8 +2644,6 @@ during the time of delivery, thought that she was indicating his fortune.
 
   47. When the sun, their husband, went away to a distance, the lotuses performed penance to obtain him (again), observing silence by the cessation of the noise of bees, shutting their eyes, and ever living in the forest of water.
 
-
-
   48. The ruddy geese, as if they had sympathy for the shut lotuses and lilies, sprung in them, feeling sorry (for them) and abandoning their enjoyments, made a cry which had its termination at sun-rise.
 
   49. The young woman of night a few minutes after the evening, covering her body with the black dress of darkness, shone, as if prepared to meet the Moon hidden by the (previous) arrangement of time, in the appointed place of the eastern mountain.
@@ -2999,8 +2655,6 @@ during the time of delivery, thought that she was indicating his fortune.
   52. (The Moon), (most) respectable of (all of) his race, who seeing that the wife of the greatest man among the Yadus was going to obtain a son, plunged in the great ocean and rose up, arrived before (the delivery) as an interested priest.
 
   53. The direction that was honoured by Indra, sending out the nectar-mass like Moon when the poisonlike thick darkness was removed, gave out light as the increased milk of the milk-ocean produced Lakshmi.
-
-
 
   54. The tops of mountains, first appeared, on account of the covering of darkness, to have been buried deep beneath the earth, (but) afterwards, being covered by the rays of the Moon, (appeared) to have been taken up (by the hands of the Moon.)
 
@@ -3014,8 +2668,6 @@ during the time of delivery, thought that she was indicating his fortune.
 
   59. The quarter of Indra shone with the Moon which had risen to brighten the three worlds, which gave rise to the lustful passion, and which possessed the splendour of a red cheek, as the navel of the (Supreme) Lord
 
-
-
 with its lotus which manifests the three worlds (through Brahman) which gives rise to the intoxicating juice, and which is red like a red cheek.
 
   60. The conch-shaped disc of theMoon near the ocean of all-pervading darkness, took theyellow colour as if from union with bile, brought aboutby the defective (i. e., sorrowful in the night time) eyes of men absent from home.
@@ -3027,8 +2679,6 @@ with its lotus which manifests the three worlds (through Brahman) which gives ri
   63. The maker of night (i. e., the Moon) possessing the splendour of the *Kunda* flower, and causing the noise of the ocean was like *Panchajanya* (or the conch of Vishnu) manifesting itself beforehand by the order of the bearer of *Chakra* who was going to be born.
 
   64. The Moon, possessing the beauty of the deer-skin occasioned by its deer, and making the sky visible by its *Padas* (i. e., rays) bore the likeness of the enemy of
-
-
 
 Mura in the form of Vamana, Who possessed the splendour of the deer-skin and Who measured the sky with His *padas*, i.e., feet.
 
@@ -3044,8 +2694,6 @@ Mura in the form of Vamana, Who possessed the splendour of the deer-skin and Who
 
   70. The Ganges of Moon-light, flowing for the reason of increasing the ocean, from the cleared sky, with
 
-
-
 its faces on all sides, gave up (its) red colour, having absorbed the daughter of the Sun in the form of darkness.
 
   71. The ocean, having drunk the intoxicating juice of water given by the mouths of (its) wives, and mingling like a drunken man, with the dancers of rays of the Moon, performed a dance which was attended with billows.
@@ -3059,8 +2707,6 @@ its faces on all sides, gave up (its) red colour, having absorbed the daughter o
   75. The sky shone with the rays of the Moon, which removed the mire of the mass of darkness, and which abounded with the foam-mass of the group of stars, as with torrents of fame.
 
   76. The Moon-light, giving clearness to the rivers of quarters, indicating with its splendour the arrival of
-
-
 
 swans, and driving away the clouds of darkness, shone like the splendour of the season of *Sarat*.
 
@@ -3077,8 +2723,6 @@ love-sports, appeared to devise sport suitable to the occasion.
 
   82. The night possessing the beauty of the dense, fresh lilies, and mixing with the wide Moon-light which hated the wave-like darkness, shone like the Jamna with
 
-
-
   The rays, being made to wear the undetectably false white hair, were sent (made to act), in great numbers, to (all) quarters, by the principal actor of Moon, who in the dramatic representation of love-sports, appeared to devise sport suitable to the occasion.
 
   The wind, from which the rows of Kadamba trees learnt the dancing, and which was the source of welfare to people, was like the joyful breath of night which grew in splendour of the rising of her husband.
@@ -3090,8 +2734,6 @@ love-sports, appeared to devise sport suitable to the occasion.
   The shades on the ground under trees shaken by the wind, quivered like pieces of limbs of the elephants of darkness, whose bodies were torn to pieces by the lion of the Moon.
 
   The night possessing the beauty of the dense, fresh lilies, and mixing with the wide Moon-light which hated the wave-like darkness, shone like the Jamna with
-
-
 
   89. During the midnight, when the stars, the lilies,the ocean, and the Moon were (all) wakeful, and when all people were asleep there shone such amost sacred moment giving birth to the Lord of Gods.
 
@@ -3107,14 +2749,11 @@ love-sports, appeared to devise sport suitable to the occasion.
 
   95. Then, that Ashtami (*i.e.*, the eighth day of the lunar half of a month) which, Vishnu desiring (to grant
 
-
-
 the wishes of Vasudeva, thought fit for His birth on became the first of days, (its) second day giving birth to Mana.
 
   96. Then on the day of Jayanti during that auspicious moment when the five favourable stars were in the ascendant the banner of the virtuous, the former Sandhya of Devaki gave birth to a never setting Sun, to put an end to the shutting of trouble of the lotus of all worlds.
 
   97. When Sri Krishna, the one root of all kinds of wealth, was born, the residence of Vasudeva obtained a shower of flowers, which adorned the regions of quarters which were wetted with sweet juice which was sent by the enthusiastic hands of the pairs of gods.  
-
 
 ![](../books_images/U-IMG-1722312999Screenshot2024-07-18063849.png)
 
@@ -3125,8 +2764,6 @@ the wishes of Vasudeva, thought fit for His birth on became the first of days, (
   2. The heavenly nymphs being merry, danced, the Kinnaras sang wonderful songs, and the gods’ musical instruments pleased Vasudeva with its ear-happy noises.
 
   3. There was an incorporate voice, ‘Conquer ! conquer!’ in all the ten quarters. This (voice) with (its) full meaning referred to the unconquered Destroyer of Asuras.
-
-
 
   4. The clouds, being driven by the gentle wind, rendering the sky pleasant-looking with its cool tiny particles, thundered all about the sky, like the gods’ elephants, indicating the auspiciousness (of the time.)
 
@@ -3142,8 +2779,6 @@ the wishes of Vasudeva, thought fit for His birth on became the first of days, (
 
   10. The houses of the demon-warriors were often filled with (omens) forecasting evil. Very often appeared hundreds of good omens in the cities of the lords of gods.
 
-
-
   11. At last the husband of Devaki wasmade free from fetters as from debt. What wonder isthere if the dropping down of fettersoccurs in thepresence of One Who expels all ties?
 
   12. Devaki bore the demon-tearer born of herself and sitting on her lap, as a wonderful sapphire summit of extraordinary splendour upon the high-land of a gold mountain.
@@ -3157,8 +2792,6 @@ the wishes of Vasudeva, thought fit for His birth on became the first of days, (
   16. Oh God of men whose existence is (rendered) dependent by the succession of the results of (their) wrong actions, only a few cross the unfordable ocean of family being favoured with Thy mercy.
 
   17. The creator and others, having their powers created by the self-falling water-particles of the ocean of
-
-
 
 Thy power, enjoy the fortune of their position differing (only) by (its) limit.
 
@@ -3174,8 +2807,6 @@ Thy power, enjoy the fortune of their position differing (only) by (its) limit.
 
   23. The story of mercy with His smiling countenance, seeing Vasudeva thus afraid, said :—‘You are My father; such being the case, oh father, why did you say in vain something, about this person (i. e., Myself) in an unnatural way.
 
-
-
   24. This, the wife of you, the father of gods, was their mother and also mine. The desired thing of you two, which shall happen in its own time, shall be done by Myself with no interruption.
 
   25. If you are afraid, I will take the human form; then carry me to Nanda's house in a moment; bring over his daughter (here); and be with your fears gone when I go to a distance,
@@ -3187,8 +2818,6 @@ Thy power, enjoy the fortune of their position differing (only) by (its) limit.
   28. The darkness of his ignorance being stolen away by the Moon-light of his Son's face which was fragrant with Vedas, he (i.e., Vasudeva) becoming like a sage obtained for a moment the sameness of Him (i.e., Krishna) or else he attained divinity.
 
   29. Vasudeva taking up (his) child of unlimited glory, and desiring to go (to Nanda's house) looked once in (all the) ten directions, being anxious with fear, when his moving was obstructed by too many safeguards.
-
-
 
   30. To the king of Yadus going to the station of cowherds, the door soon opened itself, the guards lay down like pieces of stone, and the domestic deities showed the way.
 
@@ -3204,8 +2833,6 @@ Thy power, enjoy the fortune of their position differing (only) by (its) limit.
 
   36. The wind, rendered cool with the tiny particles of drops of small waves, and rendered fragrant by its friendship with the odorous lilies, being sent by the Yamuna river, served the best of Yadus who arrived there.
 
-
-
   37. The land of the gardens of the Yamuna river, in front (of their path) with its hands of wind-shaken young leaves, certainly invited the lord of Yadus, with the noise of bees, having scattered flowers (on the way).
 
   38. The daughter of the Sun, with her eyes of black lotus flowers shut with her mouth of lotus and with the gentle poor cry of the pairs of chakrawaka birds, seemed to feel sorry at the lord's pitiable condition (brought about) by the rogues.
@@ -3217,8 +2844,6 @@ Thy power, enjoy the fortune of their position differing (only) by (its) limit.
   41. He (*i.e.*, Vasudeva), not being endangered by a succession of big waves, which were like a form of darkness, crossed the daughter of the lord of day like a (person) whose mind is (fixed) in the uninterrupted *Yoga*, and who is put to trouble by a succession of the big waves (of *Karma*) rendered sinful by the strong *Tamoguna*, crosses Samsara.
 
   42. The Yamuna which would naturally plunge (even) an elephant of god's, (now) with its water fordable
-
-
 
 by feet, became one which presented the way to the lord of Yadus going and returning quickly.
 
@@ -3234,8 +2859,6 @@ by feet, became one which presented the way to the lord of Yadus going and retur
 
   48. Then the lord of the group of Bhojas, not knowing the exchange of Krishna and the girl, dropped her down upon a stone to kill her, and she beat him with the leg.
 
-
-
   49. Then the king being immediately beaten by the leg, acting like a ball falling and rising and being with his anger, like a mountain surrounded by fire, troubled (within himself), with his eyes shut a little.
 
   50. The night (of the time) of deluge, in the form of a woman, with (its) eight, big, demon-killing, lightning-like weapons, went up to the sky with an intense thunder-like noise (with its big thunders).
@@ -3249,8 +2872,6 @@ by feet, became one which presented the way to the lord of Yadus going and retur
   54. The king of Madhura, who was like Madhu and Hiranya, having, with his long-continued fear reached the pale state of the day-fire, showed his uneasiness by breathing, speaking, trembling and uttering ‘Hum.’
 
   55. He, being dull-witted, and having been laughed at by the Maya or illusion of Vishnu, set Vasudeva at liberty.
-
-
 
   56. He, being disturbed by confusion, troubled within himself with the self-arising thought—“something has been thought of, and it has resulted in a different way. What is this?”—which was, as it were, polluted by poison.
 
@@ -3266,8 +2887,6 @@ by feet, became one which presented the way to the lord of Yadus going and retur
 
   62. The Lord made the village of the cowherds where the calves were diseaseless, the cows were not at a
 
-
-
 loss what to do, and milk was abundant, where there was not the fear of thieves arising, and where all people were healthy, the place of Kritayuga.
 
   63. A number of beautiful heavenly nymphs of much splendour were born in the houses of the cowherds with the happiness of whose enjoyment, the childhood and youth of Sri Krishna the Protector, would be connected.
@@ -3279,8 +2898,6 @@ loss what to do, and milk was abundant, where there was not the fear of thieves 
   66. The husband and wife,having by means of penance brought forth the Ancient Person as (their) son, and unfortunately being for a long time kept at a distance (from him), though with their minds agitated with suspicion, were with (their) sorrow calmed by the thought of his glory.
 
   67. The Son of Vasudeva appearing like the new Moon, having obtained residence in the house of Nanda, attained their growth in time, which by itself was the cause of sweet enjoyment to the gods.
-
-
 
 **CANTO IV. **
 
@@ -3298,8 +2915,6 @@ loss what to do, and milk was abundant, where there was not the fear of thieves 
 
   7. The cowherds joining together saw that dead fearful-shaped, cave-eyed Rakshasa woman who, with her
 
-
-
 noise had made the whole village echo, like another Bhymarathi night.
 
   8. Having cut her who was like the summit of the Vindhya mountain, to pieces, with knives just sharpened took (it) out by drawing forward a cart, as if throwing a large (amount of) offering to the flesh-eaters.
@@ -3313,8 +2928,6 @@ noise had made the whole village echo, like another Bhymarathi night.
   12. The demon, called Shakata, being torn to pieces by the contact of the end of His foot, and being scattered in many ways on the ground, greatly agitated the worlds, with a big noise.
 
   13. Yasoda, seeing that the cart appearing like a mountain was thrown up when her Son threw up (His) leg by chance, touched the sole of (His) foot soft as the interior of a lotus.
-
-
 
   14 Then, Sri Krishna beginning to move on (His) knees, toes and palms; surely the earth, feeling shame, embraced Him under the pretext of the thick dust.
 
@@ -3330,8 +2943,6 @@ noise had made the whole village echo, like another Bhymarathi night.
 
   20. The fortunate Yasoda, having placed on the bent waist, her son Who having got stumbled on walking two, three steps, took delight in moving with knees, made. with joy Him drink milk.
 
-
-
   21. Again the sport-liking (Krishna), being applauded by the wife of Nanda, gradually placed on the ground the lotus of (His) foot ever enjoyed by the bees of Upanishads. 
 
   22. Having as if thought, “Let not this earth be enjoyed by the enemies of the virtuous people,” he walking, stamped the earth solely with the heel and other pictures of His foot.
@@ -3345,8 +2956,6 @@ noise had made the whole village echo, like another Bhymarathi night.
   26. During His going and coming suitably to the beating of time under the courtyard trees the village people heard the noises of Dundubhi and Turya of gods, beaten at a distance.
 
   27. He whose deeds had been wonderful and Who, being the Manager of the stage of the three worlds had made the movables and the immovables, the actors dance in turn, Himself danced beautifully desiring to get butter.
-
-
 
   28. He being, in the attempt to churn the coagulated milk in houses, sprinkled with small rising particles of it, showed His own former appearance variegated in colour by the contact of the nectar-particles.
 
@@ -3362,8 +2971,6 @@ noise had made the whole village echo, like another Bhymarathi night.
 
   34. He, seeing His mother feel sorry when she found even whole thread brought before Him to tie Himself insufficient, became Himself to be tied by His of power of reduction.
 
-
-
   35. Seeing that the *Karma* tie of those who think of the chained Krishna as such, breaks itself easily, the poor old Moral of sacrifices as if feeling shy hid herself in the stories of Aranyas (a part of Vedas.)
 
   36. Ignorant people saw with laugh, Sri Krishna bound to the mortar with a rope, with His eyes trembling and full of tears, like an elephant tied to a pole.
@@ -3377,8 +2984,6 @@ noise had made the whole village echo, like another Bhymarathi night.
   40. With what feeling Sri Krishna made the Moon the delighter of worlds, He, with the same feeling thought of the forest desiring the full welfare of cows.
 
   41. Sri Krishna, the Protector of the good and the moon of cowherd's race, caused the forest looking like the Earth in its youth, to luxuriate, by casting His happyside-long looks appearing like the succession of waves of the ocean of favour.
-
-
 
   42. In that forest, the ground was fit for the habitation of cows, the grass was as sweet as sugarcane of the best sort, and trees obtained equality with the *Kalpa* trees.
 
@@ -3394,8 +2999,6 @@ noise had made the whole village echo, like another Bhymarathi night.
 
   48. Sri Krishna, Who was ever virtuous refusing to accept the one-hand salute of the girls who begged their silk cloths, laughed when he saw them salute with two hands each joining her hand with that of the other.
 
-
-
   49. The Lord shone with fresh youth which was manifesting His hidden greatness, which was the sportive ornament. of the goddess of heroes, and which was the abode of happiness of Neela and others.
 
   50. The youth of Sri Krishna, beautiful with sports of increasing wonder, fit for taking hold of by Cupid, and very delightful to minds, obtained sweetness like the central portion of a sugarcane, beautiful with knots, fit to be taken hold by Cupid, and delightful to minds.
@@ -3409,8 +3012,6 @@ noise had made the whole village echo, like another Bhymarathi night.
   54. The cows having taken shelter under the Ancient Moving Tamala Tree with Its lustre thickened by the peacock feathers worn in garlands, appeared like Its shade.
 
   55. Sri Krishna Who resembled a *tamala* tree in colour, shone with the peacock feather producing the
-
-
 
 charm of love, as sapphire mountain does with the many-coloured splendour proceeding from the various gems.
 
@@ -3426,8 +3027,6 @@ charm of love, as sapphire mountain does with the many-coloured splendour procee
 
   61. There was no support of hand, in the middle of the ocean of love, agitated by the Moon of Krishna's countenance, to them standing upon the sandy bottom, with open eyes, the waves rushing over them (very impatient to obtain Him for their husband).
 
-
-
   62. Sri Krishna, the Lover, Who was beyond all influence of Fate (whose motion is unchecked), shone with His cheeks full of sweat was in the midst of them like a big elephant (with its cheeks covered with rut), in a circle of female elephants.
 
   63. In spite of the enjoyment with the wives of cowherds, His chastity did not become corrupt, since this chastity was to be for its purity the means of protecting in the presence of the virtuous the life of the child Parikshit.
@@ -3442,8 +3041,6 @@ charm of love, as sapphire mountain does with the many-coloured splendour procee
 
   68. Then the cowherdesses completely yielded to the love-charm, on seeing the Two Whose deeds were
 
-
-
 wonderful, and Who being completely covered by the clouds of dust raised by calves, appeared like black and white elephants covered with red lead.
 
   69. When the Supreme Lord assumed the form of a cowherd, the Vedas taking the form of cows attached themselves to His feet with their auspicious cries which appeared like the echoes of ‘Havu,’ ‘Havu’ of *Samaveda*.
@@ -3455,8 +3052,6 @@ wonderful, and Who being completely covered by the clouds of dust raised by calv
   72. That Lord, the Greatest among gods, Whose glory is endless, and the happiness of being ever in Whose presence is enjoyed by Ananta and others, now, allowed the calves with great kindness to often lick His body.
 
   73. The cowherd lads of His age feeling hungry by following the calves to a distance, rejoiced when they saw Him with His hands looking beautiful with a big ball of boiled rice mixed with coagulated milk with an external covering of honey.
-
-
 
   74. When sweet forest fruits were shown to Him by His freiends, He first gave them to Balarama and satisfied Himself by eating the remainder with pleasure.
 
@@ -3472,8 +3067,6 @@ wonderful, and Who being completely covered by the clouds of dust raised by calv
 
   80. Garuda bringing the crest of Sri Krishna, which had been taken away by somebody, saw Sri Krishna
 
-
-
 Whose path was smelt by the *Aranyakas* assuming the form of cows in the forest.
 
   81. The crest of the Lord lying on the milky ocean was brought by Garuda from Bali, the son of Virochana, and placed upon Sri Krishna's head adorned with peacock feather, became fit to it.
@@ -3487,8 +3080,6 @@ Whose path was smelt by the *Aranyakas* assuming the form of cows in the forest.
   85. Even the barren ground appearing to the calves grassy by Krishna's rays dark-blue as those of an emerald falling upon it, they stooped and began to work with their mouths on it.
 
   86. He caused the milch-cows which had recently delivered and which had an incomparably great amount of
-
-
 
 milk, to allow to drink milk their calves which getting tired of the gambols on the forest ground, returned before going far.
 
@@ -3504,8 +3095,6 @@ milk, to allow to drink milk their calves which getting tired of the gambols on 
 
   92. Balarama and Sri Krishna Who appeared to practise jugglery were thought to be children by the parents, young men by the young women, and ancient beings by those who were well-versed in ancient history.
 
-
-
   93. Then the cowherd-girls attuned suitably to the youth of Sri Krishna their maturity which with its fine accomplishments increased the power of Cupid and attracted the minds of spectators.
 
   94. The Great Saint was much pleased when they attained maturity which was nectar to the ocean of love and the divine elixir to *Sringara rasa.*
@@ -3517,8 +3106,6 @@ milk, to allow to drink milk their calves which getting tired of the gambols on 
   97. Having smashed to pieces the necks of the bulis which with the tips of their horns had broken mighty rocks to pieces and which appeared like quarter-elephants, Sri Krishna obtained Neela by this betting the strength of His arm.
 
   98. In pressing to death the wicked and mighty demon-bulls strong like thunderbolt Sri Krishna was certainly making His hand fit for the sport of pressing the breasts of His beloved.
-
-
 
   99. Sri Krishna considered His arms which appeared like the body of His bed-serpent, and which seemed like ironbars for protecting the earth, much blessed since they served the purpose of a cushion to Neela.
 
@@ -3534,8 +3121,6 @@ milk, to allow to drink milk their calves which getting tired of the gambols on 
 
   105. Being beaten by Balarama he (the demon) fell down with his head broken to pieces as a big mountain. did formerly, being broken by Indra with his thunderbolt.
 
-
-
   106. When the demon was destroyed Balarama, making the quarters moonlight-smeared with his rays and spotted with his cloth, shone like the Moon just free from Rahu.
 
   107. Once Sri Krishna, without having Balarama with Him, reached the grazing herd of cows and calves, a river-bank never seen before, being drawn to a distance by the beauty of the forest.
@@ -3549,8 +3134,6 @@ milk, to allow to drink milk their calves which getting tired of the gambols on 
   111. Having jumped down into the deep pool appearing like a small ocean, Sri Krishna, beautiful like a small Mandara mountain, agitated the river (the ocean) in order to render the water sweet (sweet when it just appeared) by removing the poison.
 
   112. Being beaten by the great force of Sri Krishna's fall, and being bounded by the spreading waves
-
-
 
 the river made a fearful ncise like a drum smeared with the juice of serpent-driving plant.
 
@@ -3566,8 +3149,6 @@ the river made a fearful ncise like a drum smeared with the juice of serpent-dri
 
   118. Sri Krishna, the kite-vehicler, by dispelling the vanity of Kaliya, made it to be known that the minds of those who bow at bis feet will be made free from bankering after temporal pleasures.
 
-
-
   119. Sri Krishna dancing upon the coil of the serpent in such a manner that His legs, knees and hips shook much, appeared like the moon severally reflected upon a number of moving waves of the ocean.
 
   120. Having made the hood his stage where the waves served the purpose of drums performed a bold dance, being praised by the gods.
@@ -3580,22 +3161,15 @@ the river made a fearful ncise like a drum smeared with the juice of serpent-dri
 
   124. The serpent whose hood was rendered blessed by the placing thereon of Sri Krishna's lotus-like feet, joining with all its relations and finding protection nowhere
 
-
-
 else, sought shelter in the middle of the ocean which is the bed fit for Him to sleep on at the end of the Yugas.
 
   125. When the crowd of serpents was driven away by Sri Krishna, the river Yamuna obtained great clearness with its water useful to sages, like the three Vedas whose dependent Sastras were read when all the other religions were put down.
 
   126. When the evil (the sin) of its union with the serpent (paramours) was removed by Sri Krishna and when it was made holy (by Himself bathing in its waters), the daughter of the Sun became highly respectable even to the river Ganges.
 
-
-
 ***(Thus ends the Fourth Canto)***
 
-
 ![](../books_images/U-IMG-1722492123Screenshot2024-07-18230445.png)
-
-
 
 **NOTES**  
 **ON**  
@@ -3612,8 +3186,6 @@ else, sought shelter in the middle of the ocean which is the bed fit for Him to 
 
  3. शक्त्या=यथा शक्तिः *i.e. according* to one's ability. Note the force of the instrumental. शौरिःSri Krishna, a descendant
 
-
-
 of शूर a Yadava king, father of Vasudeva and grandfather of Sri Krishna. स्थाने, an indecl. 'is proper' अमृतं न मृताभवन्त्यनेन ‘nectar'. लभ्येतand गृह्यते are passive potentials.
 
   4. वसुधाश्रोत्रजेis Valmiki born in an anthill. He was a Brahmin by birth. In his childhood he gave himself up to vicious habits. He was however saved by a sage who asked him to repeat the word मरा(which is राम inverted) which he was repeating for several years even without moving from the place. His body became covered with anthills. The sage reappeared and got him out of it. कामं ‘verily’ अनपत्रपाः ‘dead to all, shameless.’
@@ -3621,8 +3193,6 @@ of शूर a Yadava king, father of Vasudeva and grandfather of Sri Krishna. �
   5. In this stanza a poet is defined. It also contains in it an implied meaning not connected with the subject matter. स्रष्टा ‘maker, composer. भारती ‘words, speech’ तैः 'with Rasas or nine sentiments such as शृङ्गार &o, thirteen Bhavas such as विभाव, अनुभाव that serve to develop and strengthen the prevailing sentiment and the Vyangyas or the suggested meanings the charm of which should not be more striking than that of the expressed ones. अलङ्कारैः 'with figures of speech'. गुणदयैः 'with showing of the structure suitable to meaning. The secondary meaning is कविः 'Omniscient' स्रष्टा 'creator'भारती The goddess of 'Saraswati' रस ‘inward love’भाव ‘outward expression of love'अलङ्कारैःby ornaments’. गुण ‘bodily virtues’ उदय ‘manifestations of love,’
 
   6. तदात्वे ‘during the present time’ तदेत्यस्य भावः तदात्वं. पुराभवः पुरातनं. The poet's idea closely resembles that of Kalidasa. Of ‘पुराणमित्येव न साधु सर्वं न चापि काव्यं नवमित्यवद्यं। सन्तः परीक्ष्यान्यतरद्भजन्ते मूढः परप्रत्ययनेयबुद्धिः॥ Malavikagnimitram.
-
-
 
   7.मार्ग 1. A path, 2. a kind of dance. नर्तकी a female dance. भावुकाः 1. appreciative judges, 2. those having poetic taste.
 
@@ -3633,8 +3203,6 @@ of शूर a Yadava king, father of Vasudeva and grandfather of Sri Krishna. �
   10. जगदाह्लादनः ‘One who delights the whole universe’ जज्ञे ‘was born’. Atm. perf. of जन्, मूर्तिमान् Here the Tadhita suffix denotes possession. In the Puranas the moon is said to be born from Atri's eyes, while he was practising austere penance but our poet ascribes the origin of the moon to the mind of Purushothama, thus corroborating the statement of Purushasukta “चन्द्रमाः मनसो जातः”
 
   11. पुरूरवाः is the son of Budha, the son of the Moon. He was the founder of the Lunar race of kings. He was famous for his truthfulness, devotion and generosity. विहारस्थेयतां. While Urvasi was descending upon the earth owing to the curse of Mitra and Varuna, Pururavas, fell in love with her and she also became enamoured of him. They lived happily together for many days. But when Urvasi returned to
-
-
 
 heaven he offered oblations as directed by the Gandharwas and obtained his object of desire. Henceforward virtuous men felt sure that their offering to the holy fire here would become fruitful in the next world.
 
@@ -3649,8 +3217,6 @@ heaven he offered oblations as directed by the Gandharwas and obtained his objec
   16. वीरो In rhetoric उत्साह ‘firmness or fortitude is regarded asthe feeling which gives rise to the वीर heroic sentiment, ययाति Yayati used to respect him thereby allowing him to occupy part of his seat.
 
   17. विशाल ‘wide’विपुल ‘stout’, उत्तुङ्ग ‘high’शिखर ‘summit or top’; बाहुशिखर ‘shoulder' अर्धासनं =अर्ध आसनस्म.
-
-
 
   18. शंकुः perf of श् क 'to be able ' प्राप्तस्वपरनिर्वाह goes with निदेशंas well as प्रमाण(1) fulfilment of his actions as well as those of others (friends) (2) justifying his views and those of his opposer.
 
@@ -3672,8 +3238,6 @@ heaven he offered oblations as directed by the Gandharwas and obtained his objec
 
   27. प्राग्भवे ‘in his previous birth.’ Vasudeva was in his previous birth the Rishi Kasyapa the husband of Adit and Diti; hence, the father of both gods and demons.
 
-
-
   28. आचख्युः perf. of ख्या ‘to tell’ with आ आख्यया ‘by name.’The gods expressed their joy by sounding the heavenly drums at the birth of Vasudeva that he is to be the father of the divine Krishna.
 
   29. शान्तमोहेव ‘as if it recovered swoon.’धर्मो...ती 'having recovered her breath of virtue, बभौ Perf. of भा ‘to shine.’
@@ -3689,8 +3253,6 @@ heaven he offered oblations as directed by the Gandharwas and obtained his objec
   34. आलिप्सत Imperf Deside of लभ् with आ. साम्राज्यं i. e. emperorship. अर्थः....रवःwith his face turned away from Artha and Kama i.e. the two middle ones of the four principal objects of human life धर्म, अर्थ, काम and मोक्ष, आनृण्य. Here the debts referred to are (1) debts to Devas and (2) those to ancesters. The former is cleared by performing sacrifices and the latter by giving birth to sons. अशरीरिणी The tad..suffix इन् denotes possession.
 
   35. व्यव.......यतिः determining his future fate कारामयोजयत् imprisoned. Note the double acc.
-
-
 
   36. कालनेमिः name of a demon with hundred hands, killed by Vishnu. अनेहस् ‘time.’
 
@@ -3712,8 +3274,6 @@ heaven he offered oblations as directed by the Gandharwas and obtained his objec
 
   46. त्वदेकव्यञ्जितैःat tho beginning of each Kalpa Narayana alone reproduces the Vedas in their old form and gives
 
-
-
 them to Brahma. त्वदन्ये...रै Vedas describe Narayana and Narayana alone. Every word if considered deeply will be found to describe some part of Narayana.
 
   47. यत्रसायंगृहा (a single word) travelling the whole day, stopping only when the sun sets and again resuming the journey early in the morning. पान्थः=पंथानं गच्छति.
@@ -3734,8 +3294,6 @@ them to Brahma. त्वदन्ये...रै Vedas describe Narayana and Na
 
   56. अकर्तुमखिलं......लं During the interval between the destruction and recreation of the universe, Narayana takes rest and no work is done. Secondly in the beginning of each *Kalpa* He has to create everything once more. Thirdly in the
 
-
-
 beginning of each Manwantara, He has to fill up many posts (such as that of Indra) with new persons. अलं is able (Ind.)
 
   57. अधीमहे present of इ with अधि the meaning is 'we read (in the Vedas) योगानां लक्ष्यं It is upon Narayana that *yogies* concentrate their minds, by various ways stated in the *yoga* philosophy.
@@ -3750,8 +3308,6 @@ beginning of each Manwantara, He has to fill up many posts (such as that of Indr
 
   62. अनिदंपूर्वनिद्राणां निद्रा here figuratively means ‘Samsara’ or 'family.' अयं पूर्वः (the first ) यस्याः सा=इदं पूर्वा न इदं पूर्वा=अनिदंपूर्वा. अनि......र्वा निद्रा येषां. The idea of the whole compound is ‘To those who are struggling in the ocean of
 
-
-
 *Samsara* from time immemorial. अपुनस्स्वापजागरं पुनः स्वापः यस्य सः=पुनस्स्वापः स न भवतीत्यपुनस्स्वापः स चासौ जागरश्च जागर figuratively means '*Moksha*' and स्वाप as before means '*Samsara*'. In Sastras it is said, ‘He who attains Moksha, will never return to Samsara once more.’
 
   63. जीवनःone who animates, भास्करः=भाः करोति *i.e.* the Sun.
@@ -3765,8 +3321,6 @@ beginning of each Manwantara, He has to fill up many posts (such as that of Indr
   71. सिद्ध formed of its own accord. संहनन body. महिम्नाजातवै.......तयं. His greatness consists in His being independent of *Karma*. Unlike ours His body is not made by anybody. So the formation of His body is unusual.
 
   72. श्रुतिरूपेण वाहेन this refers to the Garuda bird, vehicle. of Vishnu. Vedas say that they themselves have taken the form of Garuda. शेष.......ना. Garuda is the enemy of the raceof serpents and so he kills many serpents and fastens them round the wrist. स्वाङ्घ्रि......ना. When Garuda bears Vishnu upon him, Vishnu's leg which is perfumed with scents comes in contact with the body of Garuda and gives smell
-
-
 
 to it. दत्तसंग्रा….लं Whenever Vishnu sees Garuda, at once His spirit to conquer Asuras is raised and goes to war.
 
@@ -3788,8 +3342,6 @@ to it. दत्तसंग्रा….लं Whenever Vishnu sees Garuda, at 
 
   82. रशना (lit) ‘woman's girdle’ here it means 'the ocean.' The Supreme Lord, who was lying there was like a
 
-
-
 gem in the middle of the ocean. दनुज दनु was one of the daughters of Daksha, given in marriage to Kasyapa, and mother of Danavas.
 
   83. शेष......कःThe Sesha who is supposed to be bearing earth on his head is only a form of Vishnu. To him, the earth when being made free from the burden of Rakshasas will be like a light crest.
@@ -3808,8 +3360,6 @@ gem in the middle of the ocean. दनुज दनु was one of the daughters 
 
   95. यावदिष्टं here इष्ट past pass. part. of यत् यावच्च तत् इष्टं च परि......त Imper. 2nd pers. plu, of पा with परि. षद here means 'rank' or 'position.'
 
-
-
   96. दमन (lit, ‘subduing’ here ‘destruction.’ द्रक्ष्यथ Second future 2nd pers. plu. of दृश् (to see) त्रिदशाः तिस्त्रः दशाः येषांhaving (only the first) three stages of life viz., (1) ‘childhood’ (2) ‘youth’ and (3) manhood. The gods never become old. उल्लाघितां—उल्लाघाकृता made to recover from disease उल्लाघ (adj) that recovered from disease.
 
   97. दतेयाः—दितेरपत्यानि पुमांसः sons of Diti (the wife of Kasyapa) i.e. Asuras मृगया hunting. मेदिनी—मेदसा परिप्लुता wetted with fat. The allusion here is this. The demons namely Madhu and Kaitabha, who are said to have been born from the ears of Vishnu when he was asleep, were slain by Vishnu. Then the earth which was near was covered with their fat. The meaning of this sloka is ‘that gods also should be born as kings, on the earth, to assist Vishnu in his action.’
@@ -3821,8 +3371,6 @@ gem in the middle of the ocean. दनुज दनु was one of the daughters 
   100. समजनि Aor. of जन् with सम् Another.
 
 —————
-
-
 
 **CANTO II.**  
 **![](../books_images/U-IMG-1722571990Screenshot2024-07-18063849.png)**
@@ -3841,8 +3389,6 @@ gem in the middle of the ocean. दनुज दनु was one of the daughters 
 
   7. वर्णः—colour. प्रतीक—limb, features. सत्त्वम्—In Hindu Philosophy the existence of three kinds of qualities has been
 
-
-
 recognised having different and definite attributes, the. proportions, of which determine everything,—its shape, predelictions etc. They are सत्त्व, रजस् and तमस्. The most supreme is सत्त्व, which, if it has a preponderating proportion over the others, renders a जीवmore perfect अवदातम्—most perfect and pure.
 
   8. सुधा—nectar वितेनिरे—3rd Pers. PI. Perf of तन्with वि Atm 3rd conj. वर्णसुधा—white-wash.
@@ -3858,8 +3404,6 @@ recognised having different and definite attributes, the. proportions, of which 
   15. प्रजानां पतयः—the lord's creation—such as Marichi etc. प्रतीता—famous. मातृकाः—lit, mothers—origin, source.
 
   16. The idea is this:—The child, in the womb—the future Sri Krishna—born of सत्त्व qualities—will establish virtue and teach duty to the world and thus transform theiron age into one of golden age by dispelling vice from it and establishing by degrees virtue. In the *Krita* Yuga,
-
-
 
 otherwise known as *Satya* Yuga or “Golden age” virtue predominates. Hence the allusion to this age here. निराशिषाम्—to those who have renounced the world—to the ascetics
 
@@ -3877,8 +3421,6 @@ otherwise known as *Satya* Yuga or “Golden age” virtue predominates. Hence t
 
   24. उदीरयन्तीम्—Fem. of the Pr. Part of ईर् with उद् X.conj. Paras. नियोगयोग्यान्—those that can be ordered—servants. नाक—Celestial regions ओकस्—abode. नाक etc.—
 
-
-
 celestials. The idea is—Devaki called her servants by the names of the celestials, for all her thoughts move one with the celestials.
 
   25 अदृष्टपूर्वापरया वाचा—with words the beginning or the end of which is not to be seen—with the words of Vedas.अभावि—Pass. Aor of भू conj Paras.
@@ -3894,8 +3436,6 @@ celestials. The idea is—Devaki called her servants by the names of the celesti
   32. नन्दक—is the name of the sword of Vishnu. अदिदृक्षत—III Pers. Sing. Imperf. Desid of दृश्I conj. Note that this root, as well as ज्ञा, श्रूand स्मृ, though Paras. form their Desid with the Atm. terminations.
 
   33. शशाक—III Pers Sing. Perf. of शक् (—to learnt V. conj Paras. वोढुम्—Inf. of वह् (—to bear ), प्रत्यायनम्—that which produces confidence, “प्रत्ययोऽधीनशपथज्ञानविश्वासहेतुषु .”
-
-
 
   34. व्याचख्युः—III Pers. PI Perf. of चक्ष् with वि and आ-Note that ख्या is optionally substituted for चक्ष् in perf.
 
@@ -3922,8 +3462,6 @@ Pers. Sing. Passive Aor of भू with अनु.
 
   48. The *chakravaka* bird is said to separate from its mate during nights and to re-unite with it at day-break, विबोधवेला—(1) the time of the blooming (of the lotuses), (2) the dawn.
 
-
-
   50.अयासीत्—III. pres sing. Aor. of (to go) II. conj. paras. ययौ perf,
 
   51. गोत्रभित्—गोत्रान्(mountains) भिनत्ति—Indra, who is said to preside over the eastern quarter, Cf “इन्द्रो वह्निः पितृपतिर्नैऋतो वरुणो मरुत् । कुबेर ईशः पतयः पूर्वादीनां दिशां क्रमात् ॥” विधु—(1) The moon, (2) Vishnu.
@@ -3942,8 +3480,6 @@ Pers. Sing. Passive Aor of भू with अनु.
 
   63. कुन्दरुचिः —the charm of Kunda flowers. उदेष्यतः—Gen. sing. of उदष्यन् which is Fat. part. of इ with उत् II conj. Paras. पाञ्चजन्यis the name of the conch of Vishnu.
 
-
-
   64. वामनमूर्तिभाजः—The allusion here is the fifth incarnation of Vishnu in the form of a Vamana or dwarf. He was born of Kasyapa and Aditi with a view to humiliate the King Bali, the king of Mahabalipuram, for his having neglected offerings to the deities. Vamana went to Bali and asked of him space he could measure in three steps, which Bali granted. Thereupon Vamana occupied with two stepsboth heaven and earth and by the third crushed the haughty king.
 
   65. The allusion here is to the churning of the milky ocean wherefrom the moon among other things was obtained सामि Indecl. *Semi*—half.
@@ -3957,8 +3493,6 @@ Pers. Sing. Passive Aor of भू with अनु.
   69. यथावत् well (adv.) निशीथः midnight. अण्डस्य is a printer's devil for अन्धस्य.
 
   70. विशोधितात् विष्णुपदात् (1) from the sky cleared of its. darkness (by the moon); (2) from Vishnu's foot washed (by Brahma). The allusion here is that, when Vishnu incarnated as Vamana and when the space that could measure three steps were granted by Bali, he chose the sky for the first step where Brahma washed his foot with the water of the celestial Ganges. सागरवृद्धिहेतुः—Among other causes determining the tides of the ocean, the moon has from time. immemorial been recognised by the Indian poets to be the
-
-
 
 chief, though not the sole, factor. In the case of the Ganges, her waters, says the poet, add to the waters of the ocean *Vide* commentary. विष्वङ्मुखी having her face on all sides *i. e*. spreading in all directions, सूर्यसुताम्—(1) darkness the daughter of the sun; (2) यमुना, said to have been born of the sun along with her brother Yama. शोणम्—(1) redness; (2) tho river Sona. The picture of the course of the river Ganges, as well as the brilliant description of the moonlight has been impressively drawn by the poet.
 
@@ -3976,8 +3510,6 @@ chief, though not the sole, factor. In the case of the Ganges, her waters, says 
 
   79. कुमुद्वती कोकनदं जहास—The water-lily laughed at the red lotus which was sleeping on an occasion worth enjoyable. The phenomenon that the Indian poet is never tired
 
-
-
 of repeating and ramifying into everything, is that when the moor shines the water-lily blooms—hence it seems to laugh—and the lotus closes its petals—hence it seems to sleep.
 
   80. समैक्षि Pass. Aor. of ईक्ष्(o see) I conj. Atm.
@@ -3994,8 +3526,6 @@ of repeating and ramifying into everything, is that when the moor shines the wat
 
   89. निद्राणPr. Part of द्रा with नि II conj. Paras.
 
-
-
   90. The idea is very grand and sublime. The early days of the soul in this world are full of darkness—The result of तमस् this is the characteristic of the संसार. But when by several forces, such as education etc the darkness or ignorance was gradually dispelled the soul seeks after Truth—the result of परिपूर्णसत्त्वःthis is the characteristic ofa religious and philosophic life. Similarly so was that part of that night :the earlier part ofnight was one of darkness ;and the latter was one of light.
 
   92. It is the convention among the Hindu poets—perhaps it is also the characteristic of Nature—that when a good man is born every aspect of Nature puts on a mild, soothing, peaceful and good appearance: what to speak of the Avatar of the Being—the quintessence of the whole Nature ? सरस्वताम् of the oceans, seas सम्प्रणेदुः—III Per. PI. Perf. of नद् with and I conj, Paras.
@@ -4007,8 +3537,6 @@ of repeating and ramifying into everything, is that when the moor shines the wat
   95. द्वितीयया etc. The allusion here is fully explained by the post himself in canto III 47-54.
 
   96. भुवनपद्म and देवकीपूर्वसन्ध्या. The figure is metaphor (रूपकम्). The early dawn gives birth to the immortal Sun: soalso Devaki gave birth to the immortal Sri-Krishna, The one is the cause of the blooming of the lotuses : the other, happiness and peace by dispelling all troubles. सितरुक् the moon. Tho लग्न is the zodiac sign. Vide com. पञ्चग्रहोक्ते
-
-
 
 when the five stars were in their zenith—the sign of full prosperity. Vide com. अनघानां वैजयन्त्याम्—the banner of all the sinless and spotless days. अनपायंone that never sets; immortal.
 
@@ -4029,8 +3557,6 @@ when the five stars were in their zenith—the sign of full prosperity. Vide com
 
   8. प्रसदनम्—clearness नभसि मासि during the season (lit. month) of Sravana (corresponding to July-August.) उपाददे—III sing. pass. perf. of दा with उप and आ. अनुपप्लवनीतिभिः—with the immutable principles of the moral philosophy, not being liable to any foreign attack.
 
-
-
   10. The hour of the birth of Sri Krishna witnessed signs of auspiciousness in the abode of the celestials and the ordinary human beings, as well as signs in the abode of the Asuras that forbode evil to them. आनशिरे—III Pl. pass. perf. of अश् (=to pervade). जजृम्भिरे III Pl. perf. of जृम्भ्.
 
   11. A man is said to have three debts to discharge—(1)ऋषिऋण—debt to the sages—which must be discharged by the study of the Vedas; (2)देवऋण—debt to the celestials, which must be discharged by performing sacrifices; (3) पितृऋण—debt to the departed souls *i.e.*, manes—which must be discharged by begetting a son. Vasudeva has not hitherto discharged the last debt. निगलम्—chains, fetters.
@@ -4042,8 +3568,6 @@ when the five stars were in their zenith—the sign of full prosperity. Vide com
   14. अवितथैः स्वगुणैः with His hymns not containing exaggerated (*i.e*. true and real) qualities अभितुष्टुवे III sing Pass. Perf. of स्तु (to praise.)
 
   15. आश्रिततारणम् redeemer of the devotees; तारणम् from तृ (to cross) : अनुगमात् consistently अनिर्दप्रथमाः न इदं प्रथमाः those that have no origin or source, applied to the Vedas.
-
-
 
   16. विवश dependent. भवार्णवम् the ocean of the family.
 
@@ -4069,8 +3593,6 @@ when the five stars were in their zenith—the sign of full prosperity. Vide com
 
   30. विजघटे—III sing per. of घट् with वि I conj, Atm.कवाटिका door. उपलकरूपम् almost like the stone. कल्प almost equal.
 
-
-
   31, क्षरदसून् with life gusting out, or ebbing out! *i, e.* dying यामिकान् guards; watchmen on guard or duty at night शारिकाः Minas.
 
   32. विशिखा a road मेचक dark-blue सन्तमसम् all pervading,
@@ -4091,8 +3613,6 @@ when the five stars were in their zenith—the sign of full prosperity. Vide com
 
   41. The Yogi, before he can realise the Nirvana, should have the *Tamo* (dark) *guna* (qualities) dispelled from him, and should have also conquered the six human infirmities. घनतमः the pitch darkness. In the case of the
 
-
-
 Yogi, darkness *i.e.*, ignorance consists in not being able to distinguish between the truth aud the untruth, the reality (सत्) and the unreality (असत्). When this is cleared, the next step whereby to cross the ocean of the family is to conquer his senses to restrain the six human infirmities—ऊर्मयः These are “शोकमोहौ जरामृत्यू क्षुत्पिपासे षहुर्मयः,” अनुपप्लुतःnot disturbed, uninterrupted.
 
   42. अमर्त्यमदावल the rutty ऐरावत.
@@ -4107,8 +3627,6 @@ Yogi, darkness *i.e.*, ignorance consists in not being able to distinguish betwe
 
   49. कन्दुक a ball दव forest conflagration. forest fire. दर—Ind. a little, slightly. अदूयत—III Sing. imperf. of दू, V conj Atma.
 
-
-
   50. युवतिरुप etc—the night of deluge, in the form of a young woman, युगाप्तय the end of a Yuga. At the close of a Yuga when the destruction of the whole universe is imminent, the universe will be enveloped in complete darkness. शर्व night. चपला—forked lightning.
 
   51. भोजनियन्ता the ruler of the Bhojas, Kamsa अयन्त्रिता not being subject to: free and independent. उदन्तम्history उदैरिरत्—III Per sing. Aor. of ईर् with उत् X conj. अर्थ्यम्—अर्थात् अनपेतम्. The affix य means ‘not swerving’. The word means ‘significant’ अविप्लुतम् not drifting; *i.e*, apposite.
@@ -4119,8 +3637,6 @@ Yogi, darkness *i.e.*, ignorance consists in not being able to distinguish betwe
 
   54. For Madhu, vide notes on stanza 52 हिरण्यor हिरण्यकशिपुः— Name of a celebrated king of demons. He was a son of Kasyapa and Diti, and by virtue of a boon from Brahman, he became so powerful that he usurped the sovereignty of Indra, and oppressed the three worlds. He freely blasphemed the great god and subjected his son Prahlada to untold cruelties for acknowledging Vishnu as the supreme deity. But he was eventually torn to pieces by Vishnu in the form of Narasimha”. अरति
 absence of pleasure; distress, pain, anguish. आयत long, growing.
-
-
 
   55. जलमतिः जडमतिः dull-witted.
 
@@ -4151,8 +3667,6 @@ absence of pleasure; distress, pain, anguish. आयत long, growing.
 
   2. दुर्दमः irrepressible आसुराः असुरा एव प्रस्थापयामास—causal Periph Perf. of स्था with प्र.
 
-
-
   3. पूतना—Name of a female demon, who, while attempting to kill Krishna, when but an infant, by giving him her poisoned breasts to suck, was herself killed by Krishna who sucked up her vitality.
 
   6. प्रायुङ्क्त—III Sing. Imperf. of युज् with प्र .
@@ -4173,8 +3687,6 @@ absence of pleasure; distress, pain, anguish. आयत long, growing.
 
   14. परिषस्वजे III sing. perf. of स्वच् with परि I conj. atm. Note that the स् is changed to ष् after prepositions ending in इ or उ.
 
-
-
   15. निर्व्याजम् artless—natural नीराजितम् which has undergone the नीराजन ceremony *i.e.*, waving lights before an idol as an act of adoration.
 
   निर्मिमाणः—pr. part. of मा with निर्.
@@ -4190,8 +3702,6 @@ absence of pleasure; distress, pain, anguish. आयत long, growing.
   22. प्रतीप प्रतिगताः आपो यत्र coutrary ; other than.
 
   23. पत्ररेखा—“drawing lines or figures of painting on the face and person with fragrant and coloured substances, such as musk, saffron sandal-juice etc., as a mark of decoration.”
-
-
 
   25. प्रसून flower. आरुरुक्षुः— Desid. form of रुहू (to grow) with आ.
 
@@ -4212,8 +3722,6 @@ absence of pleasure; distress, pain, anguish. आयत long, growing.
   35. आद्या तत्क्रतुनीतिः the old moral of sacrifices—the belief of a man that what he has secured for himself in this world he will also secure in the next world by means of sacrifices. *Vide* comm.
 
   36. आलानम् the post of an elephant to which it is tied.
-
-
 
   37. ब्रह्मसुतः Narada—one of the mind-born sons of Brahma. The allusion is thus—The mortar, drawn by Krishna through the Arjuna trees, was intercepted between them, and caused them to fall down. From them sprang two Yakshas—Nalakubara and Manigriva by name—who, by virtue of the curse cast upon them by Narada, had been changed into the trees, but of course, only until the time when Krishna should draw the mortar through them and thereby restore them to their previous life.
 
@@ -4237,8 +3745,6 @@ absence of pleasure; distress, pain, anguish. आयत long, growing.
 
   52. वंशa flute elsewhere it means, bamboo, clan or race or family. चतुष्कन्धthe four divisions of the army—रथ,गज, तुरंग and पदाति.
 
-
-
   57. हेम gold अब्धिकन्या—the daughter of the (Milky) ocean—Lakshmi.
 
   58. साचीकृतानि bent त्रपा shyness राजीव lotus. वाचाल—one who speaks much, talkative. What is the meaning of चाचाट ?
@@ -4255,8 +3761,6 @@ absence of pleasure; distress, pain, anguish. आयत long, growing.
 
 **“यदि मे ब्रह्मचर्यं स्यात् सत्यं च मयि तिष्ठति।  
 अव्याहतं ममैश्वर्यं तेन जीवतु बालकः॥”**
-
-
 
   65. सीरभृता along with Balarama: the word *lit*, means “the holder of the ploughshare.” veda.
 
@@ -4286,8 +3790,6 @@ absence of pleasure; distress, pain, anguish. आयत long, growing.
 
   84. रोमन्थ rumination सृक्कthe corner of the mouth.
 
-
-
   87. तर्णक a calf.
 
   88. नैजकीः उत्तमगवीः excellent cows.
@@ -4308,8 +3810,6 @@ absence of pleasure; distress, pain, anguish. आयत long, growing.
 
   102 उपकण्ठ—proximity, vicinity. विबुधाः (1) wise man, (2) gods, celestials. अनुभाव्यः(I) one who deserves to be meditated upon, (2) are (the moon here) who is shared by the gods. The allusion is that each of the sixteen digits of the moon is apportioned by eachof the gods beginning from
 
-
-
 अग्नि or Fire.अवदात White, pure. On a previous occasion the poet has with reference to the conduct of Sri Krishna spoken of Him as *Brahmachari* in relation to His company with the Gopies. Now the poet says that the Gopies too, were of white *i.e*, pure chaste character. Such is the relation between Sri Krishna and the Gopies.
 
   103. तृणराजषण्डे in a grove of palm trees. रासभ an ass.रासभदैत्य—the name of an ass-headed demon, who was living in a palm grove. Once both Krishna and Balarama entered it and the latter shook one of the trees there, wherefrom the fruits fell down. On hearing the noise caused by the fall of the fruits, the demon was enraged and kicked Balarama with his feet; but was himself seized by his legs and put to death in the end.
@@ -4326,8 +3826,6 @@ absence of pleasure; distress, pain, anguish. आयत long, growing.
 
   114. तार्क्ष्यध्वजं—Krishna तार्क्ष्यं Garuda काकोदराःsnakes; serpents.
 
-
-
   117. अम्बुवाह a cloud प्राचेतसो नाग इव like the elephants of Varuna or who presides over the western quarter.
 
   119. चारी—a kind of dance. *Tide* com.
@@ -4340,27 +3838,10 @@ absence of pleasure; distress, pain, anguish. आयत long, growing.
 
   126. तत्पदजन्मनः the Ganges which is said to arise from the feet of Vishnu.
 
-
-
 ![](../books_images/U-IMG-1722226403Screenshot2024-07-09101742.png)
-
-
-
-
 
 ![](../books_images/U-IMG-1722226441Screenshot2024-07-18103322.png)
 
 ‘Vavilla’ Press, Madras.-1951.
-
-
-
-
-
-
-
-
-
-
-
 
 \]

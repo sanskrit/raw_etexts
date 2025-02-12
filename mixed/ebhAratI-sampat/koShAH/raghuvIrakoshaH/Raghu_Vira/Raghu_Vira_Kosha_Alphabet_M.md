@@ -17,8 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzMDAyNTYyMjc
 
 \[
 
-
-
 **M** *Phys.* (magnetic moment) **बि** (चौम्बिक बिभ्रमिषा)  
 **M** *Phys.* (magnetomotive force) **चु** (चुम्बक-गामक बल)  
 **m** *Phys.* (magnification) **शा** (विशालन)  
@@ -3919,8 +3917,6 @@ medicine 1.
 औषध
 
 *n.*
-
-
 
 drug भेषज  
 
@@ -10308,8 +10304,6 @@ Mylitta lapidescens** (a fungus, recommended in China in epilepsy— Basu)
 
 **सामान्य**
 
-
-
 **अपस्मारकवक**
 
 **Mylodon** *Paleontol.* (a genus of ground sloths) **भूमन्दर-प्रजाति  
@@ -10547,6 +10541,5 @@ Myzostomata** *Zool.* **अष्टचूषाः** *m.pl.*
 **Myzus persicae** *Bot.* (Gk. *myzein* 'to suck'. One of the chief carriers of potato viruses)
 
 **पारसीक-आलुचूष**
-
 
 \]

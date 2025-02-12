@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwOTk1MjcyNDA
 
 \[
 
-
-
 2ठ्ठकख़् सौभरिकृता एकार्थनाममाला
 
 1
@@ -624,7 +622,6 @@ This is prepared an d compiled by
 
 Dr.P .Srinivas , Lecturer in Vyakarana , S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011
 
-
 ॠख़् ( एकाक्षरी-कोषः -अमरकविविरचितः-धनञ्जयनाममालायामुपनिबद्धः )
 
 1
@@ -924,6 +921,5 @@ Dr.P .Srinivas , Lecturer in Vyakarana , S.V.V.V.S.College , Bowenpally, Secunde
 This is prepared an d compiled by
 
 Dr.P .Srinivas , Lecturer in Vyakarana , S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011
-
 
 \]

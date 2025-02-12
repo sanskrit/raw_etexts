@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwNzgzNTE0NjU
 
 \[
 
-
-
 लिङ्गानुशासनम् ।  
 ओं स्वस्ति क्षीगोस्वामिने नमः ।  
 नामानुशासनमिदं सम्यग् लिङ्गानुशासनाधीनम् ।  
@@ -388,7 +386,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIwNzgzNTE0NjU
 लिङ्गानुशासनं समाप्तम् ।  
 (इति लिङ्गानुशासनं समाप्तम् ।)  
 इति परमानन्दीयनाममाला समाप्ता ।  
-
-
 
 \]

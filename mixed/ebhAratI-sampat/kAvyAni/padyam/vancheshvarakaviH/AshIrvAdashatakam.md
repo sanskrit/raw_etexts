@@ -14,23 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg3OTUyMTEzMDk
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
-
-
 
 **॥श्रीः॥**
 
@@ -556,14 +540,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg3OTUyMTEzMDk
 केशाम्भोराशिमज्जन्निखिलतनुभृतामुद्धृतौ बज्रबुद्धिः।  
 प्रत्यक्षीभूय साक्षात्प्रथयति भुवि यो देवलीलाविलासा–  
 सोऽयं संत्रायतां वः परिहृतविनमत्संकटो वेङ्कटेशः॥१०२॥**
-
-
-
-
-
-
-
-
-
 
 \]

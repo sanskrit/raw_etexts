@@ -16,22 +16,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0MzgzOTMzMjg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **RÂMÂMÂTYA'S**  
 **SVARAMÊLAKALÂNIDHI**  
 *(A WORK ON MUSIC)*
-
 
 EDITED WITH  
 **INTRODUCTION AND TRANSLATION**
@@ -43,7 +30,6 @@ and Annamalai (1931) Universities.*
 
 ==========  
 
-
 WITH  
 A FOREWORD  
 BY  
@@ -53,13 +39,9 @@ BY
 and  
 Sometime, Law Member, Executive Council, Madras.*
 
-
-
 ![](../../../../../books_images/U-IMG-1691226589Swara.jpg)  
 **THE ANNAMALAI UNIVERSITY  
 1932**
-
-
 
 **FOREWORD**
 
@@ -69,19 +51,18 @@ THE awakening in our country has a much wider significancethan most people, with
     Râmâmâtya, the author of the book here published, recognised twenty Mêlas; his successors went on increasing thenumber; and the present-day theory recognises seventy-two, though it is doubtful whether all of them are in actual use or cansatisfy the ear of the people. It is a result of pure mathematicsa question of how many combinations of the seven notes and theirvariations can be made. Mr. Ramaswami Aiyar thinks that even the two and thirty were the resulting combination of the seven notes, five of which had a sharp and flat sonance and the word 'raga'itself indicates the number 32, according to the peculiar Indian Notation of numbers by the letters of the alphabet. A questionmay here arise as to whether the word 'raga' was a new introduction into music after the thirty-two Mêlas had come to berecognised.  
    Mr. Ramaswami Aiyar refers to a criticism of the author bya successor of his, that two of his twenty Mêlas have the samenotes. I am inclined to agree with Mr. Ramaswami Aiyar that itmust be a slip and the manuscripts may be responsible for it. Isit impossible to find out what combination it must be for eitherthe one or the other that has been written amiss and resulted in the error criticised?  
     Experts, like Mr. Ramaswami Aiyar, must not only open upthe past of music but point the way to its future.  
-                                 
 
 **MYLAPORE                              
      T. R. VENKATARAMA SASTRI**  
 ***28th March, 1932***
 
-
-
 **PREFACE**
 
 THE manuscripts of *Svaramêlakalânidhi* are found in Tanjore,Madras, Baroda, and Bikanir. Its bare text, for aught I know,was printed twice—*first*, at Kumbakonam in 1906 by Mr. S.Nârayanaswâmi Aiyar and *secondly*, at Bombay in 1910 byMr. V. N. Bhâtkhandê, though under the pseudonym ofBhâradvâja Sarma. The latter edition contained, at least, arunning commentary in Maharâti.  
   But both the printed editions happened to be, alike,defective and even misleading. I shall give only one instanceand pass on.  
-  In the fifth chapter of the work, the two Râgas of*Sudhavasantha* and *Mâlavasri* are correctly defined, in two[verses](http://॑# "The verse regarding Sudhavasantha is marked A, while that regarding Mâlavasri is marked B.") thus:—
+  In the fifth chapter of the work, the two Râgas of*Sudhavasantha* and *Mâlavasri* are correctly defined, in twoverses[^20] thus:—
+
+[^20]: "The verse regarding Sudhavasantha is marked A, while that regarding Mâlavasri is marked B."
 
 ***Sudhavasantha.***
 
@@ -114,8 +95,6 @@ TRIPLICANE,                   *
       *M. S. RAMASWAMI AIYAR**  
 ***1st March, 1932.                 **   ***
 
-
-
 **CONTENTS**
 
 |                  |
@@ -124,23 +103,11 @@ TRIPLICANE,                   *
 | **TEXT  **     |
 | **TRANSLATION**  |
 
-
-
 ![](../../../../../books_images/U-IMG-1691227931Ab.jpg)
-
-
-
-
 
 **INTRODUCTION**
 
-
-
-
-
 ![](../../../../../books_images/U-IMG-1691228123CF.jpg)
-
-
 
 **SVARAMÊLAKALÂNIDHI**
 
@@ -150,7 +117,7 @@ TRIPLICANE,                   *
 
 **===========**
 
-*  Svaramêlakalânidhi* is one of the standard works, in Sanskrit,on the *Carnatic* Music. Râmâmâtya, its author, was a native of Ândhradêsa and lived in or about Kôndavit[^1], which was not faraway from Bezwada, in the principality of which he had a fort ofhis own and in the vicinity of which he enjoyed the overlordship[^2] of a large estate of land washed by the eastern sea. He belongedto the Tôdarmal family; his father was [Thimmâmâtya;](http://॑# " श्रीमदभिनवभरताचार्यवाग्गेयकारतोडर-     मल्लतिम्मामात्यनन्दनरामामात्येन निर्मितः स्वरमेलकला निधिः - Ibid.")and hehimself was such an efficient musician-composer that he won thetitle of ‘[Abhinava Bharatâchârya](http://This%20means%20Modern%20Bharatâchârya. "This means Modern Bharatâchârya.")'.  
+*  Svaramêlakalânidhi* is one of the standard works, in Sanskrit,on the *Carnatic* Music. Râmâmâtya, its author, was a native of Ândhradêsa and lived in or about Kôndavit[^1], which was not faraway from Bezwada, in the principality of which he had a fort ofhis own and in the vicinity of which he enjoyed the overlordship[^2] of a large estate of land washed by the eastern sea. He belongedto the Tôdarmal family; his father was Thimmâmâtya;[^21]and hehimself was such an efficient musician-composer that he won thetitle of ‘[Abhinava Bharatâchârya](http://This%20means%20Modern%20Bharatâchârya. "This means Modern Bharatâchârya.")'.  
   He was associated with Râma Râja of Vijayanagar, perhapsas his minister, as the word *amâtya* indicates. His father too hadthe same title of 'amâtya' appended to his name. But whetherthe father and the son were ever real ministers, who moulded the destinies of Vijayanagar, or were so called only by way of courtesy— a glance at the History of Vijayanagar seems to throw a doubt on.  
   Nothing else is known to us of the father than his fatherhood. As for the son, Râmâmâtya, he exhibited his person, in his work,more as a prolific *Vâggêyakâra* than a serious-minded politician.All that he could record of himself was :--- (1) He had studied the secret of [music](http://अधीतसंगीतकलारहस्यम्%20-%20Svaramelakalanidhi. "अधीतसंगीतकलारहस्यम् - Svaramelakalanidhi.").
 (2) He alone, of all others, knew both the theory and art of [music](http://सलक्ष्यलक्ष्मोभयसारवेदी%20संदृश्यते%20नैव%20भवानिवान्यः%20-%20Ibid. "सलक्ष्यलक्ष्मोभयसारवेदी संदृश्यते नैव भवानिवान्यः - Ibid.").
@@ -162,6 +129,8 @@ have been. But *de jure* the ruler was, undoubtedly, Sadâsiva ; for, a very lar
 [^1]: "Cf. स एव सर्वाधिककोण्डवीटप्रधानदुर्गप्रतिपादनेन ।Svaramêlakalânidhi."
 
 [^2]: "Cf. पूर्वार्णवेनैव परीतमूर्तेर्विभुत्वमुर्व्या विततार मह्यम् - Ibid."
+
+[^21]: " श्रीमदभिनवभरताचार्यवाग्गेयकारतोडर-     मल्लतिम्मामात्यनन्दनरामामात्येन निर्मितः स्वरमेलकला निधिः - Ibid."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -212,8 +181,6 @@ The colophon¹, at its end, clearly shows that Râmâmâtya finishedhis work in 
   Be it, again, noted that, about the same time or withinthe space of about a decade after the publication of *Svaramêlakalânidhi*, Pundarika Vittala finished his *Sadrâgachandrôdaya*.Even in that book, the same note of complaint was sounded that the theory and practice of music did conflict with eachother and that, therefore, Burhan Khan asked Vittala to reconcile them.⁵ Again, in 1609, the self-same note of complaint
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **1 Cf. शाके नेवघराघराब्धिधरणीगण्ये च साधारणे**  
 **वर्षे श्रावणमास निर्मलतरे पक्षे दशम्यां तिथौ ।  
@@ -571,14 +538,11 @@ differed in their weight—Bombay *seer* weighing 28 Tolas and Poona *seer* 76 T
   1 Vide *Report of the Second All-India Music Conference, Delhi (1918)*, page 44.  
   2Mr. E. Clements questions the correctness of Mr. Joshi's 'vibrational values,' in his *Ragas of Hindustan*, vol. II, page 37.
 
-
-
 free from this defect. Further, to adopt the Mâyâmâlavagowla-scale as the *Sudha*-Scale does no violence to the feelings of themusicians[^7].Here came Mr. A. H. Fox Strangways, as it were,to help Mr. Clements and observed : *'Mâyâmâlavagowla* onlydeveloped from *Mukhâri* by way of modal shift of tonic, as in thecase of the modern Greek Scale[^8].And here, again, Mr.H. A. Popley amplified that the modal shift of tonic was made byone semitone higher and, having illustrated his point by thefollowing diagram
 
 [^7]: "Vide Mr. Clements s Ragas of Tanjore, p. 15."
 
 [^8]: "Vide Mr. Fox Strangways s Music of Hindostan, p. 120."
-
 
 ![](../../../../../books_images/U-IMG-1691399698Swara.jpg)  
 (FIG. 6)
@@ -594,8 +558,6 @@ wrote, by way of explanation,—'B to B form *Mukhari* and C to Cis *Mâyâmâla
 
   4 It may be that Purandra Dâs wanted that the beginners of music should not be troubled with the controversial svaras (*Ri₂*or Sudha *Ga*), (*Ga₁*or Shatsruti *Ri*), (*Dha₂* or Sudha *Ni*), and (*Ni₁*or Shatsruti *Dha*) but should be confined, at the outset, only to the non-controversial svaras (*Ri₁*and *Ga₂*) (*Dha₁*and *Ni₂*) and also Sudha *Ma.*
 
-
-
 now *Sa* and *Pa* as *Sudha* (or better, *Prakrithi*) Svaras, inasmuchas they are fixed or admit of no varieties at all ; while *Ri, Ga, Ma,Dha, Ni* are *Vikritha*-Svaras, inasmuch as each of them admits oftwo[^10]clear varieties, viz, *Kômal* and *Thîvra*, that is, flat and sharp.These modern '*Sudha-Vikritha* Svaras, twelve[^11]in number, maybe tabulated thus :—
 
 [^10]: "A third variety is added by Venkatamakhi."
@@ -610,7 +572,6 @@ now *Sa* and *Pa* as *Sudha* (or better, *Prakrithi*) Svaras, inasmuchas they ar
 [TABLE]
 
 (FIG. 8)  
-
 
   In order to be able to compare the *Mêlas* of Fig. 8 withthose of Râmâmâtya, it is desirable that we should, first, knowhow Fig. 8 was worked up and, secondly, learn how the *Mêlas* of*Svaramêlakalânidhi* were formulated.  
   Now, *Ri* and *Ga* may be combined in four different ways,*viz*, (1) Ri₁and Ga₁ (2) Ri₁ and Ga₂ (3) Ri₂ and Ga₁and (4) Ri₂and Ga*2*.Similarly *Dha* and *Ni* may be combined in fourdifferent ways. By tacking the four varieties of *Dha* and *Ni* toeach of the four varieties of *Ri* and *Ga*, we have sixteen varietiesof *Ri, Ga, Dha*, and *Ni*. These sixteen varieties, when furthermanipulated with the two varieties of *Ma*, yield thirty-two¹working *Mêlas*, for which see Fig. 8, where it will be seen that *Melas*1 to 16 are *Sudha*-Madhyama or *Poorva Mêlas*, while *Mélas* 17 to32 are *Prathi*-Madhyama or *Uthara Mêlas.*  
@@ -656,8 +617,6 @@ And continued Râmâmâtya :—
 
   1 ‘I shall now specify the names (of the Mêlas) and then explain their characteristics. Of all the Mêlas, *Mukhâri* is the first. Other Mêlas are as follows : — *Mâlavagowla, Srrirâga, Sâranganâta,* *Hindôla,* *Sudharâmakriya, Desâkshi, Kannadagowla, Sudhanâti, Âhari, Nâdarâmakriya, Sudhavarâli, Rithigowla, Vasanthabhairavi, Kêdâragowla, Hêjujji, Sâmavarâli, Rêvagupthi, Sâmantha,* and *Kâmbhôji.* Thus there are twenty *Mêlas*.'  
  2‘And their characteristics are explained thus : the *Mêla* of *Mukhâri,* for instance, consists of seven *Sudha-svaras*.'
-
-
 
 their characteristics, into one ; how could Râmâmâtya counttwenty different *Mêlas*?Quickly, therefore, did Venkatamakhihasten to lash him on this vulnerable point and wrote :
 
@@ -769,7 +728,6 @@ as (the last mentioned) *Gowli* may (rightly) be derived from *Mâlavagowla*,how
 * Râmāmātya*.— ‘The *Méla of Rithigowla* consists of these seven *svaras*, viz., *Sudha Sa, Sudha Ri, Sudha Ga, Sudha Ma, Sudha Pa, Panchasruti Dha,* and *Kaisiki Ni.'* ³  
 * Venkatamakhi*.– ‘While Râmâmâtya has spoken of *Rithigowla* as a *Mêla* with *Sudha Sa, Ri, Ga, Ma. Panchasruti Dha*, and *Kaisiki Ni*, the truth is that *Rithigowla* is (not a *Mêla*) but a *Râga* derived from the *Mêla* of *Bhairavi*.' ⁴
 
-
 **सत्यं विमोक्ष्यसे राम रामसेतुं गतोऽपि न।  
 भैरवीमेलसंभूतो रागो घण्टारवः खलु॥**
 
@@ -869,8 +827,6 @@ as (the last mentioned) *Gowli* may (rightly) be derived from *Mâlavagowla*,how
 
      ³*Cf*. *Kâmbhôji Râga*, though *Sampurna,* leaves out in the ascent *Ma*and *Ni.*
 
-
-
 *Kâmbhôji* or *Harikâmbhôji,* *Ma* is never left out, though *Kâmbhôji* leaves out *Ni* in the ascent.'  
  Surely, then, Venkatamakhi threw stones at Râmâmâtya, while himself was living in a glass-house;¹and his strictures on *Svaramêlakalânidhi* are unjust, uncalled-for, and even offensive to a degree.  
  Still, a Venkata may persist in reminding us as to why Râmâmâtya, having merged, into one, *Sâranganâta* and *Kêdâragowla*, ventured to count twenty *Mêlas*? This, as I said, is no doubt a vulnerable point. But be it, at the same time, noted that, during the long period of a full century, after which Venkatamakhi criticised it, Heaven alone knows what changes or modifications the manuscripts of *Svaramêlakalânidhi* underwent in the hands of different indifferent copyists and what sort of a copy finally fell into our critic's hands. Even assuming that Râmâmâtya committed the blunder attributed to him, I am disposed to think that it is a matter only of a slip of the pen and that he had no time to revise what he wrote. For, does not Fig. **II** show that the *Graha, Amsa*, and *Nyâsa*, as well as the time of singing, of both *Sâranganâta* and *Kêdâragowla* are quite different from each other?  
@@ -919,7 +875,6 @@ own—as an 'infêrior', and therefore disregardable, Râga as Râmâmâtya had 
 ***III. The Characteristics of a few of Râmâmâtya's Derivative Râgas***
 
 [TABLE]
-
 
 (FIG. 12)
 
@@ -1061,8 +1016,6 @@ are simultaneously produced on the same wire by a *natural* process. A trained e
 
   1 In every one of those ways, only the first few partials will be loud and heard, while the other ones become fainter as they rise higher in pitch.
 
-
-
  Before we proceed to compare the ‘Harmonics' with the ‘Svayambhus,' we will do well to study the connotation imported into the term *Svayambhu* by Râmâmâtya. And on this point, I shall let Râmâmâtya himself speak :-  
  ‘The Mandra Sudha *Pa*, produced on the fourth wire by the second fret is called Svayambhu. Hence all the svaras produced (on all the four wires) by the second fret are Svayambhus and cannot be otherwise. Inasmuch as the Anumandra Sudha *Ni*, produced on the second wire by the second fret, is of the same value as the Mandra Sudha *Ni*, produced on the fourth wire by the fourth fret; all the svaras, produced (on all the four wires) by the fourth fret are determined to be Svayambhus; and they cannot be otherwise. Inasmuch, again, as the Anumandra Chyuthashadja *Ni*, produced on the second wire by the fourth fret, is of the same value as the Mandra Chyuthashadja *Ni*, produced on the fourth wire by the sixth fret; all the svaras produced (on all the four wires) by the sixth fret are determined to be Svayambhus; and they cannot be otherwise. The *Sa-Ma* svaras, produced (on the first three wires) by the fifth fret are all Svayambhus. Inasmuch, again, as the Mandra Kaisiki *Ni*, produced on the fourth wire by the fifth fret, is of the same value as the Anumandra Kaisiki *Ni*, produced on the second wire by the third fret; all the svaras, produced (on all the wires) by the third fret are Svayambhus. Inasmuch, further again, as the Mandra Sudha *Dha*, produced on the fourth wire by the third fret is of the same value as the Anumandra Sudha *Dha*, produced on the second wire by the first fret; all the svaras have been shewn to be of definitely determined values. In this manner Râmâmâtya determined the values of all the svaras produced on all the four wires by all the six frets.'^(**1**)
 
@@ -1076,7 +1029,6 @@ are simultaneously produced on the same wire by a *natural* process. A trained e
  अनुमन्द्रस्य शुद्धस्य निषादस्य प्रमाणतः॥**
 
   In so many words, Râmâmâtya meant to drive home to his reader's mind that, among the twenty-four svaras, compressed in all the six frets on all the four upper-wires of his Vîna, very many pairs would, on close scrutiny, be found to be related to each  
-
 
 **चतुर्थसार्यां संजाते तन्त्र्या चापि तुरीयया।  
 मन्द्रे शुद्धनिषादाख्ये सप्रमाणे कृते सति॥  
@@ -1186,8 +1138,6 @@ Thanks be, therefore, to Râmâmâtya for his having set, to the music-world, a 
 1' All is not good, because it is old; nor is a poem bad, because it is new. The wise men examine the things, old or new, and accept what they approve of; while, the fools allow themselves to be \[mis-\] led by others.'  
 2 The reader will do well to refer to Fig. 4, while perusing the state ments,
 
-
-
   Why, then, should any one demur—if, to-day, we proceed, on the strength of the same time-honored Principle of *Lakshya,* to break loose from Venkatamakhi's *Mêlakartha-system* and advocate, on the plea of merger, the elimination therefrom of his four (unnecessary) svaras, viz., Shatsruti *Ri,* Sudha *Ga*, Shatsruti *Dha,* and Sudha *Ni?* Hence it was that I suggested the formation of a new working scheme, called *Laghumêlakartha,* as distinguished from the *Brihanmêlakartha* of Venkatamakhi. On this controversial point, however, I shall reserve a full discussion to the Introduction to my edition of *Chathurdandiprakâsika.*Suffice it, now, for me to state, once again, that we feel highly indebted to Râmâmâtya for his having developed the *Principle of Lakshya* into a star-like maxim for all future musicians to follow.  
   Now, the credit of having first presented to us a *four-*stringed Vîna, instead of the old, antiquated *twenty-two-*stringed one, surely belongs to Râmâmâtya ;¹ and the tuning, especially, of his Madhyamêla Vîna, *almost* corresponds with that of the modern Vîna. I say almost, because the order of the three lower-wires of the Madhyamêla Vîna seems, as per the following diagram, to have undergone, from time to time, a little change; though the order of the four upper-wires thereof remains intact even to-day —as for example :—
 
@@ -1199,8 +1149,6 @@ Thanks be, therefore, to Râmâmâtya for his having set, to the music-world, a 
 
   1 Mr. K. B. Dêval fondly attributed this credit to Sômanâth, forgetting that Râmâmâtya preceded Sômanâth by more than half a century.  
   2 Never mind Venkatamakhi's unfounded charge against Râmâmâtya that the latter called the fourth upper-wire, Mandra Sa, instead of Madhya *Sa.* This, again, furnishes us with an additional reason that the mistake, if any, should be attributed to the different indifferent copyists of the manuscripts of *Svaramêlakalanidhi,* rather than to its author. Râmâmâtya who must, in all
-
-
 
   Again, of the eighteen svaras which appear in the seventh column of Fig. 11, it will be seen that Panchasruti *Ri* and Sudha *Ga* overlap each other; and so do Shatsruti *Ri* and Sâdhârana Ga, Panchasruti *Dha* and Sudha Ni, and Shatsruti *Dha* and Kaisiki *Ni*.¹ Eliminating, then, the four overlapping svaras, we have only fourteen svaras left. If again, as per Râmâmâtya's suggestion, the last five of his twenty mêlas are omitted, even Anthara *Ga* and Kâkali *Ni* may have to be eliminated. In that case, the fourteen svaras will have to be further reduced into twelve. Hence, there seems to be a grain of truth in Mr. D. K. Joshi's remarks that almost all ancient authors invariably used only twelve svaras in their *Râgaprakarana*, irrespective of the number of svaras described by them in their *Svaraprakarana.*² Indeed, in his Svaraprakarana, Râmâmâtya professed he would make use \[at least-\] of fourteen svaras³ in his Râga system; and hence, his final use of only twelve svaras, despite his profession to the contrary, shows that he anticipated, even in his own time, the modern tendency of reducing all the musical sounds into twelve notes. *If Râmâmâtya was the first to recognize the convenience of using only twelve svaras to build the Râga system; Ahobala was the first to describe those twelve svaras in terms of the length of the speaking wire.*  
   As for the Mêlas, Râmâmâtya rightly discarded the antic and antiquated method of deriving Râgas from the complicated system of *Grâma-Moorchana-Jati*, as well as the later puerile method of bringing them under the fanciful system of *Râga–Râgini–Putra.* On the other hand, he had the genius to discover unity in variety, that is, a unifying principle in the variety of Râgas that came under his notice; and he therefore felt that the old *cataloguing* method of enumerating the Râgas must give way to the new *classifying* method of reducing them into what might be called the
@@ -1222,8 +1170,6 @@ fairness, be deemed to have written Madhya Sa for the fourth upper-wire and not 
 
 --------------------------------------------------------------------------------  
   1 Doubtless, the germ of the idea of the Genus-Species system may be found to have existed long before Râmâmâtya. But it was covered by some such rubbish as the Râga Râgini-Putra system. Hence I state what was allowed to be latent for a long time was made patent by Râmâmâtya and was, later on, codified by Venkatamakhi.
-
-
 
 made in the first chapter of his *Chathurdandiprakâsika,—*namely, 'Râmâmâtya egregiously got down to Anumandra Sa and restricted his svaras only to two registers of voice, viz., Anumandra and Mandra; while the proper or usual way was to distribute them among three registers, viz., Mandra, Madhya, and Thâra '—even this eleventh charge may be shown to be, again, futile; if we regard the names of Anumandra, Mandra, Madhya, and Thâra as only *relative* terms, whereby we can call the same notes by different names from different standpoints of view.  
   On the whole, be the demerits of Râmâmâtya what they might as compared with the good he had done and the lead he had given, such as for instance, (1) the holding up, for future guidance, of the *Principle of Lakshya,* (2) the displacing of the old *cataloguing* method of merely enumerating the Râgas, by his own novel classifying method of reducing the same into a Genus- Species System' which, as said above, developed in the hands of Venkatamakhi, into the modern Mêlakarta Scheme', (3) the opening of a special chapter on Mêlas, called *Mêlaprakarana,* even in respect of which Sômanâth and Venkatamakhi followed suit and (4) the final heightening of the importance of *Râgaprakarana* as the quintessence of the Carnatic Music-all his demerits pale into insignificance and are, in the language of Kâlidâs-
@@ -1263,7 +1209,7 @@ May think down hours to moments. Here the heart
 May give a useful lesson to the head,  
 And learning wiser grow without the books "
 
-  Shârngadêv, too, harped on the same point and came to the same conclusion that the sages worship *Anâhatha* in the manner in which they were taught by the [gurus](http://॑ "अनाहतं गुरूपदिष्टमार्गेण मुनयः समुपासते।                    Sangitharatnâkara.").'Even the music-proof-brained Dr. Johnson seems to appreciate *Anâhatha,* when he observed, in his *Rasselas,* From the cataract, nothing more was heard than a gentle uniform murmur, such as composes the mind to pensive meditation'.
+  Shârngadêv, too, harped on the same point and came to the same conclusion that the sages worship *Anâhatha* in the manner in which they were taught by the [gurus]("अनाहतं गुरूपदिष्टमार्गेण मुनयः समुपासते।                    Sangitharatnâkara.").'Even the music-proof-brained Dr. Johnson seems to appreciate *Anâhatha,* when he observed, in his *Rasselas,* From the cataract, nothing more was heard than a gentle uniform murmur, such as composes the mind to pensive meditation'.
 
 --------------------------------------------------------------------
 
@@ -1400,8 +1346,6 @@ which means '*Dêsi*-music is prevalent to-day, the three characteristical Râga
 
   1 I say 'practically', because the Mârga-music is found, even to-day,in the hands of Vaidika-Brahmins who employ it whenever, on ceremoniousoccasions, they chant the Vêdas.
 
-
-
   (8) The three-fold classification of Music into *Gita, V*adya,and Nrithya applies-not to Mârga-but only to Dêsi.  
   (9) Later on, the word 'Mârga' has come to mean whatever is old and out-of-date; while the word 'Dêsi' has come  
 to mean whatever is new and *up-to-date.*  
@@ -1422,7 +1366,6 @@ to mean whatever is new and *up-to-date.*
 
 *  *2Compare, for instance, Venkatamakhi's classification of Râgas into six kinds of Mârga-Râgas and four kinds of Dêsi-Râgas. So also is the case with the Mârga-Thâlas and Dêsi-Thâlas.
 
-
 3 Cf. **अधुना गीयते यच्चानियतं कामचारतः।  
     देशेदेशे प्रचरितं तत्सर्वं देशिसंमतम्॥  
     तदपि द्विविधं ज्ञेयं दक्षिणोत्तरभेदतः।  
@@ -1431,10 +1374,7 @@ to mean whatever is new and *up-to-date.*
 
 *   *N.B. -This verse is quoted, with approval, in *Abhinavarâgamanjari.*
 
-
-
 ![](../../../../../books_images/U-IMG-1693373321lines.jpg)
-
 
 **TEXT**
 
@@ -1488,33 +1428,26 @@ to mean whatever is new and *up-to-date.*
 स्वामिद्रोहकृतः प्रतीपनृपतीन्निर्जित्य भद्रासने  
 कर्णाटे भगवानिव ध्रुवममुं कीर्त्त्यासहास्थापयत् ॥ ११ ॥**
 
-
 **दधीचिराधेय शिबिक्षितीशजीमूतवाहादिमजीवनाङ्गैः।  
 अवाप्तमूर्तेरिह येन कीर्तेर्भाति प्रणीतं भुवि वल्लभत्वम्॥१२॥**
-
 
 **अमुक्तपार्श्वद्वितयोऽनुजाभ्यां रामावतारो भुवि रामराजः।  
 दिवानिशं दीव्यति शीतभानुदिवाकराभ्यामिव रत्नसानुः॥१३॥**
 
-
 **विजित्य सर्वानपि पारसीकान्रणेषु तत्कीर्त्तिपटच्चराणि \।  
 आधूय भूयो हरितो वधूटीर्विशोभयत्येष यशोदुकूलैः॥१४॥**
-
 
 **श्रीरामयामात्यवरेण रत्नकूटाभिधं कारितमेष सौधम्।  
 आलोकयन्निर्जितवैजयन्तं हर्षोद्धुरोविस्मितमानसोऽभूत्॥१५॥**
 
-
 **अनेकतेजोनिधिराजहंससमाकुलं नित्यमनन्तजिष्णुम्।  
 नानासुधर्मावलिनर्मवासमन्यं सुमेरुं समुदाहरन्ति॥१६॥**
-
 
 **मन्दानिलाकम्पितवैजयन्तीमन्दारशाखाव्यतिघट्टनेन।  
 आरामलक्ष्म्या मरुतां तनोति हल्लीसलीलामिव यस्य लक्ष्मीः॥१७॥  
 
 पर्वेन्दुबिम्बोपलसीम्नि पादानारोप्य यस्मिन्नधिवासवत्यः।  
 पाञ्चालिकानां मिथुनानि कन्याः पाणिग्रहं प्रापयितुं यतन्ते॥१८॥**
-
 
 **सौधान्तरेऽस्मिन्कुरुते प्रमोदात्स रामराजः समयापनोदम्।  
 संगीतसाहित्यकलाविशेषशेषावतारैर्विबुधैरुपेतः॥१९॥**
@@ -1607,7 +1540,6 @@ to mean whatever is new and *up-to-date.*
 
 उत्तमानां मध्यमानां रागाणां लक्षणं ततः।  
 अधमानां च केषांचिदेतावान्वस्तुसंग्रहः॥४७॥**  
-
 
 **इति श्रीमदभिनवभरताचार्यवाग्गेयकारतोडरमल्लतिम्मामात्य-  
 नन्दनरामामात्यनिर्मिते स्वरमेलकलानिधावुपोद्धात-  
@@ -1831,8 +1763,6 @@ to mean whatever is new and *up-to-date.*
 स्वरप्रकरणं द्वितीयं संपूर्णम्।**  
 **—————**
 
-
-
 **वीणाप्रकरणम्॥३॥**  
 **—————**
 
@@ -1871,8 +1801,6 @@ to mean whatever is new and *up-to-date.*
 
 **इति वीणाप्रशंसा।**  
 **—————**
-
-
 
 **सा च वीणा त्रिभिर्भेदैर्युक्ता लक्ष्ये प्रवर्तते।  
 तत्राद्या शुद्धमेलाख्या मध्यमेला द्वितीयका॥१२॥**
@@ -2065,7 +1993,6 @@ to mean whatever is new and *up-to-date.*
 **अल्पप्रयोगः सर्वत्र काकली चान्तरः स्वरः।  
 लक्षितैवं शुद्धमेलवीणा लक्ष्यविदां मता॥७२॥**
 
-
 **इति शुद्धमेलवीणा।  
 —————**
 
@@ -2102,8 +2029,6 @@ to mean whatever is new and *up-to-date.*
 **--------------------------------------------------------------------------------------------**
 
 **\* I venture to correct tha original मन्द्रषड्जेन् into मध्यषड्जेन, believe it is either a slip of the (later) printer's devil, but not a mistake to be pounced upon evon by a Venkatamakhi.**
-
-
 
 **मेलप्रकरणम् ॥ ४ ॥  
 —————**
@@ -2144,8 +2069,6 @@ to mean whatever is new and *up-to-date.*
 
 **इति मुखारीमेलः॥१॥  
 —————**
-
-
 
 **शुद्धाः सरिमपाः शुद्धधैवतश्च ततः परम्।  
 च्युतमध्यमगांधारश्च्युतषड्जनिषादकः॥११॥**
@@ -2588,7 +2511,6 @@ to mean whatever is new and *up-to-date.*
 **इति धन्यासी॥३॥  
 —————**  
 
-
 **रागो मालवगौलश्च निन्यासांशग्रहो मतः।  
 औडुवो रिपवर्जश्च कदाचिद्रिपसंयुतः॥४०॥  
 गेयः सायाह्नसमये रागाणामुत्तमोत्तमः।**
@@ -2853,7 +2775,6 @@ to mean whatever is new and *up-to-date.*
 of Vina, namely, *Sudha Mêla, Madhya Mêla, and Achyutharajêndra Mêla.*  
   44–45. In the fourth chapter on *Mêlas*, twenty Mêlas and the Mêla-derived Râgas are discussed. And their nomenclatures too are severally given. As an alternative, only fifteen Mêlas are recognized; but, in the main, there are twenty Mêlas.  
   46–47. In the fifth chapter, which is the chief one in this work, the three kinds of Râgas into *Superior, Middling and Inferior*are discussed; as also their special characteristics. These are the contents of the book.  
-
 
 **CHAPTER II**
 
@@ -3128,7 +3049,6 @@ Dêsâkshi).
 
   2-6. The following twenty Râgas areRâgas are declared to be 'Superior', on account of their being free from any kind ofmixture and also of their being suitable for use in singing,composition, elaboration, and for Tâya; and those Râgas are :---  
 
-
 |     |                 |     |                  |
 |-----|-----------------|-----|------------------|
 | 1   | Mukhâri         | 11  | Srirâga          |
@@ -3145,7 +3065,6 @@ Dêsâkshi).
 *(ii) Middling*
 
   6-9. The following fifteen Râgas are called 'Middling';and they are of little use or, if at all, used to sing fragmentaryportions of songs. Those Râgas are:-  
-
 
 |     |                |     |                  |
 |-----|----------------|-----|------------------|
@@ -3260,34 +3179,4 @@ anymixture,ofthefifteen*middling*ones,as well as of the *inferior* ones.
   62. That Râga is called *Ghantârava*, which is Shâdava, for,it leaves *Ga*; which has *Dha* for its Graha, Amsa, and Nyâsa;and which is sung at all times.  
   63. That Râga is called *Bhinnashadja*, which is Shâdava,for it leaves *Ma*; which has *Sa* for its Graha and Nyâsa; andwhich is sung at all times.
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

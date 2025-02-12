@@ -13,25 +13,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYwMzgyNjQ1NDU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 |                                                                |
 |:--------------------------------------------------------------:|
 | ![](../books_images/U-IMG-17206750038965-removebg-preview.png) |
-
-
-
-
 
 **॥ श्रीः ॥**
 
@@ -49,8 +33,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYwMzgyNjQ1NDU
 
 विरचितः॥
 
-
-
 **पुराणमित्येव न साधु सर्वं  
  न चापि काव्यं नवमित्यवद्यं।  
 सन्तपरिक्ष्यान्यतरद भजन्ते  
@@ -58,15 +40,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYwMzgyNjQ1NDU
 
 —कालिदास
 
-
-
 **॥विषयानुक्रमः॥**
 
 ![](../books_images/U-IMG-1720677912Screenshot2024-07-11052816.png)
 
 [TABLE]
-
-
 
 |     |                        |
 |-----|------------------------|
@@ -81,10 +59,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYwMzgyNjQ1NDU
 | 24  | Elements sport         |
 | 25  | Farth's Burden         |
 
-
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **FOREWORD  
 \_\_\_\_\_\_\_\_\_\_\_\_**
@@ -93,11 +68,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYwMzgyNjQ1NDU
 
  Possessing talents of a high order in Sanskrit grammar and Shastras, he has proved by this work that he can also take rank among Sanskrit poets He has covered within a short space an interesting variety of subjects and has brought his poetic skill to bear on them with consummate art. The subjects dealt with are largely those which will appeal to the modern mind. We have **‘संसारस्तव’** or the song of life, the refrain being **"धर्म्याणि कर्माणि सदाकुरुत्वं"**, which means be always doing righteous acts.' That there can be no exclusiveness or isolation in the modern world, but that societies and individuals are interdependent on each other, is the theme of a set of verses entitled "**पारस्पर्यं**” Reflections on the dignity of labour and the interrelation of nature and art furnish proof of a penetratively observant mind. The gripwhich the Rajoguna has over life is emphasized and expatiated upon in ten striking verses under the heading **रजोविलास.** In **कविताप्रसाद**(Palace of poetry) the author has displayed a rather original poetic conceit, envisaging poetry as a
 
-
-
 grand palace, the foundations of which were laid by Valmiki and Vyasa, and an imposing edifice, consisting of beautiful halls and rooms and collonades, was built by skilled architects like Kalidasa, Bhasa, Aswaghosha, and Bhavabhuti. The pre-potent but subtle influence wielded by woman over man is described in 5 slokas under the caption **स्त्री**. The greatness of Bhishma,Kaurava warrior, who was the very embodiment of Hindu Dharma and culture comes in for just praise. In this poem, one would have expected a reference, although very brief at least, to the encounter, wordy as well as physical, between Bhishma and Parasurama narrated in the Udyoga-parva of the Mahabharata. In **अद्भुत भारतम्,** the author thinks more of the India he knew in the past than of the present. Glory and renown in many fields of knowledge and achievement were India's characteristics in ancient days. But today, there can be little doubt that she is shorn of all such adornments and presents a picture of economic distress, political troubles, and intellectual barrenness or sterility. The story is neatly told of Moti, the Rajput nurse, who sacrificed her own child for preserving the prince's life and later on, put an end to her own life so that she may keep company with the little one, whom she dispatched to the other world in circumstances of moving tragedy. King Canute's superlative haughti-
-
-
 
 nessand humiliation, the anecdote of Solomon and the bees, lessons from the life of the Lord of Burleigh, the mastery of instinct over self-control, are dealt with tersely in easy verse.
 
@@ -110,9 +81,6 @@ nessand humiliation, the anecdote of Solomon and the bees, lessons from the life
 
 New Delhi                     **N. CHANDRASEKHARA AIYAR**  
 11-1-1951                               
-              
-
-
 
 **An appreciative evaluation by**
 
@@ -125,19 +93,14 @@ New Delhi                     **N. CHANDRASEKHARA AIYAR**
 
  For centuries past, Sanskrit poetry has been merely the pouring of mental molten metal into old moulds. Traditional themes and conventional sentiments ruled the minds from generation to generation. The author of this work has broken new ground and expresses the variegated panorama of modern Indian life with a refreshing modernity of outlook without in any way sacrificing Indian idealism or deflating the ethical and spiritual values of Indian thought and life.
 
-
-
  I may refer first to his translations of some beautiful modern English poems and some original poems on western themes of high emotional sweetness. The poems GODIVA and BURLEIGH-PRABHUH are not merely translations of two of Tennyson's splendid poems but are original poems bringing out well the inner spirit of the themes. The poem TANTU VAYA SILASA brings out the chastening beauty of the transformation of Silas Mainer's soul by Eppie who was God's gift to a man who had lost his entire store of wealth. The poem PRAVARANA BHASHILAM takes a Japanese fairy tale and distils its emotional essence in simple and lovely verses throbbing with feeling. The poem UPAHARA is another fine poem breathing the sublime spirit of sacrifice. The poem on BISHOP HATTO is another fine gem combining humour and sentiment. There are splendid poems full of lofty emotion on Indian themes like DHATRI MOTI (NURSE MOTI), MANIKYA HARA etc.
 
  Another novel and charming feature is that even the poems on old themes and religious subjects have a newness and directness and modernity of sentiment and presentation.The poem KANAKA PATTIKA shows the glory of compassion. The poem SAKUNTALA'S SOLILOQUY presents an old theme from a subjective angle of vision and with a new intensity of emotion. BHISHMA MAHATYAGA presents another old theme from a psychological point of view. RISHI SAMSMARANAM expresses our debt to sages in a new manner. ADBHUTABHARATAM, VAGVAIBHAVAM, SATI, ASHITAMURTISWAROOPAM, TAPASSILATA, KAVITAPRASADA etc., are other poems full of new and fine moods on old themes.
-
-
 
  In my opinion, the poems in which we see combined originality and modernity and beauty are those in which modern responses to life in India are sought to be picturesquely yet truly expressed. The poem SAMSARASTAVA (Song of Life) expresses the new mood of joyous acceptance of life The poem PARASPARYAM (interdependence), expresses the need of reciprocal service. SRAMAPRASAMSA is a poem on work and labour. STRI' is a poem on feminine beauty and grace. VIRAVOPADRAVAH denounces the modern noise–nuisance. AVASKARAHARANAM exalts the bhangi SISUSWARGA describes the glory of childhoodwhich Tagore describes as the Crescent Moon.
 
  Thus these poems are altogether in a new vein and are graceful, charming and are replete with fine thoughts expressed in diverse metres suited to the thoughts. I wish the work wide and ever increasing public appreciation.
 
-  
 Madras                                
  **K. S. RAMASWAMI SASTRI.**
 
@@ -145,19 +108,13 @@ Madras
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
 **A LETTER OF FELICITATIONS**
 
 C. KUNHAN RAJA.                            
-  
 
 University of Madras  
 Triplicane, (Madras)  
 7th March, 1950.  
-
 
 Dear Mr. Subrahmanya Ayyar,
 
@@ -169,8 +126,6 @@ Dear Mr. Subrahmanya Ayyar,
 
  The simplicity of your language and the lucidity of your expression show clearly that Sanskrit is a living language and that there is no touch of artificiality in it. Your versification is extremely natural.
 
-
-
  You also show a rare command of metres and Sanskrit contains a very large number of metres, unparalleled in any other language.
 
  If your compositions can be published, they will be a seal contribution to Sanskrit and also to the literary output in the country. Kindly accept my very hearty felicitationson your poems. I must also thank you for proving my view about Sanskrit being a living language, through the way in which you handle the language.
@@ -179,8 +134,6 @@ Dear Mr. Subrahmanya Ayyar,
 C. KUNHAN RAJA.
 
 ![](../books_images/U-IMG-1720692779Screenshot2024-07-11085209.png)
-
-
 
 **AUTHOR'S PREFACE.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -193,8 +146,6 @@ C. KUNHAN RAJA.
 
  Due to the time spirit I have had to append an English translation of Part 1 for the benefit of those who are not as conversant with the glories of Daivi Vak as they should be. I hope the cognoscenti will excuse me for it.
 
-
-
  I cannot adequately express my deep sense of gratefulness to Shris R. Ramjeedoss Iyer, Zamindar of Kannivadi, N. M. R. Subbaraman M L.A, Madurai and A. Vaidyanatha Iyer, B. A., B. L., M. L. A., Advocate Madurai for their substantial financial help for the publication of this book.
 
  Lastly, my sincere thanks are expressed to the proprietor of Sri Ramakrishna Press, Madurai for their prompt and neat execution of the work.
@@ -205,8 +156,6 @@ Madurai,
 30-4-51
 
 ![](../books_images/U-IMG-1720698161Screenshot2024-07-11085209.png)
-
-
 
 SOME ADVANCE OPINIONS.  
 ![](../books_images/U-IMG-1720698560Screenshot2024-07-11085209.png)
@@ -223,8 +172,6 @@ SOME ADVANCE OPINIONS.
 
  It was a pleasant surprise for me to go through your "Padyapushpanjali", which is a successful experiment in presenting modern, even foreign, thought and themes through the medium of Sanskrit. The contribution of modern India to Sanskrit poetry is not negligible, although unfortunately.
 
-
-
 not duly recognised. But few modern Sanskrit poets, if any, have dared to deviate from the beaten track of poetic tradition and ventured, as you have done, on an experiment of 'modernizing' Sanskrit Lyric—without disturbing Sanskrit idiom and expression.
 
  It is no exaggeration to say that the pieces contained in your 'Nosegay' are sure to prove a source of delight to every 'Sahudaya.' By the way, they also serve as a proof of the vitality and pliability of the Sanskrit language, which can be used as a vehicle of modern thought as well as of ancient lore..........
@@ -235,8 +182,6 @@ not duly recognised. But few modern Sanskrit poets, if any, have dared to deviat
 
 ** **...........Long ago, in England, to an English audience of Latin, Greek and English scholars, I delivered a lecture on Sanskrit and said.— "Sanskrit is not dead— can never die — though the old days are gone, and the old Kings are departed. It will continue to live so long as the Hindu race is alive, nay, indeed, so long as man cherishes lofty thoughts couched in sublime words. Man, the younger brother of the gods will certainly not abandon this language of the gods, though, now and then, when he reverts to his other capacity, of elder brother of the animals, he may fume or scoff at learning this difficult language and advocate the study of only the much easier modern languages. This is not peculiar to India; the same thing is found in western countries regarding
 
-
-
 he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. But, when the animal needs are over, and leisure comes, the human heart craves for something higher than a work-a-day language and scoffs at the very difficulty which it sought to avoid before. This is onlynatural just as a hungry man hates the delay involved in washing his hands and waiting for the dishes to come, before beginning his repast, but the same man will not only wash his hands but also put on a special dress-suit and wait for guests when his work is over and he is entertaining. So, no one need despair about the future of Sanskrit. By its intrinsic greatness, Sanskrit is as free from the need for public popularity as an elephant in a procession is from the need for many people to follow it." Your book shows the correctness of my opinion, and I congratulate you on it and the variety of subjects, ancient and modern, including Scavenging! The verses run smoothly, and nobody will suspect that they are iIn a language 6000 years old......
 
 ![](../books_images/U-IMG-1720714836Screenshot2024-07-11085209.png)
@@ -244,8 +189,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 ** Sri T. S. Balasubrahmanya Ayyar, M. A. L. T., Inspector of Oriental Schools, Madras State:**
 
  .................the compositions are very well written, the style fluent, diction good and ideas novel. I am sure you will apply yourself earnestly and, ere long, you will attempt to publish your writings so that sahridayas may read and enjoy them......
-
-
 
  **Rao Sahib Sri N. Natesa Aiyer, B.A., B.L., Supreme Court Advocate, Arupathi:**
 
@@ -260,8 +203,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  Mr. Subrahmanya Aiyar commands a simple, lucid and charming poetsstyle. He possesses all the qualifications that are necessary for being a reputed author of SanskritKavyas. He has dealt with a variety of subjects forming the theme of his poems and exhibits originality and versatility. The fact that he has been able to secure appreciations from scholars like the Hon'ble Mr. Justice N Chandrasekhara Aiyar, Sri K. S. Ramaswami Sastry and Dr. Kunhan Raja is clear proof to the reader of the true merit of his poetry and of his Sanskrit scholarship. I have great pleasure in commending this book to the Sanskrit loving world.
 
 ![](../books_images/U-IMG-1720718164Screenshot2024-07-11085209.png)
-
-
 
 **श्रीः**
 
@@ -291,8 +232,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **निवर्तते नैव गतक्षणो नु कालस्य वेगः खलु तादृशोऽस्ति।  
 संशय्यते यद्भवतोऽपिसत्ता धर्म्याणि कर्माणि सदा कुरु त्वम्॥४॥**
 
-
-
 **नैकान्ततो जन्म सुखं न दुःखं सुखं कुरु त्वं समतावलम्बात्।  
 त्यजाथवोभे स्थिरधीर्भवन्वै धर्म्याणि कर्माणि सदा कुरु त्वम्॥५॥**
 
@@ -319,8 +258,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 नरकुलसुखहन्त्रीः प्लोषयामासुरुग्रै-  
  र्महितशमगुणा ये ज्योतिषा दीप्तवह्नेः॥२॥**
 
-
-
 **विपुलतरमभूद्यन्मानसं विश्वतोऽपि  
  प्रतनुतरमणिष्ठादप्यणोः प्रोल्ललास।  
 विदितविषयजाला आपरादावरं ये  
@@ -335,8 +272,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  विपरिणमयितुं चामूलतो दृष्टवीर्यं।  
 विनयमुपगतास्तान्संस्मरन्तो महर्षीन-  
  प्रशममनुविशाम प्रश्रमादीदृशादद्राक्॥५॥**
-
-
 
 **3.॥कविताप्रासादः॥**
 
@@ -359,8 +294,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  हर्म्यस्य निश्चलतरा रुचिरा विशाला।  
 छायां ययोः कवय आश्रितवन्त एते  
  रम्याणि चारुतरकाव्यगृहाणि चक्रुः॥४॥**
-
-
 
 **आश्चर्यवद्भवनमत्र बृहत्कथाख्यं  
  क्रीडागृहं शिशुकवेश्च, तथापुराणं।  
@@ -387,8 +320,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 भूयस्समासघटना, ऽभरणातिसक्तिः  
  पश्चात्कृतौ ददृशिरे, विहतः प्रकाशः॥९॥**
 
-
-
 **गेहानि तानि विजनान्यविकस्वराणि**  
 ** प्रायो जना विजहतीति किमत्र चित्रं।**  
 **भूयोऽप्यदांभिकपथेन पुरादृतेन**  
@@ -412,8 +343,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 ** बद्धावम्भोनिधिजलमुचौ सेव्यसत्सेवकौ च।**  
 **भार्या भार्त्रोर्नृ**पज**नतयोर्बन्ध एष प्रसिद्धो**  
 ** लोके चेत्थं प्रकृतिनियता बन्धुता नित्यसिद्धा॥३॥**
-
-
 
 **सर्वे यूयं सकलकरणैः कर्म नित्यं कुरुध्वे  
  जानीध्वेवा न फलमखिलैः प्राप्यते तस्यवेति।  
@@ -439,8 +368,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 पैनाकेष्वासफणिनिटिलाक्ष्यादि भीमं गृहीतं  
  सास्मन्माता प्रकृतिरुभयाकारभृद्वोभवीति॥२॥**
 
-
-
 **देव्यास्तस्याश्शिशुरिह नरोऽतृप्तितस्तत्सुसृष्टौ  
  ज्ञानोद्गत्याऽजनयत कला, श्चाहलादाणबास्त्रं।  
 शान्ता घोराश्च**नि**खिलपदार्था भृश निर्मितावैः  
@@ -457,8 +384,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  प्रज्ञोन्मेषोन निधनकृते किन्तु भद्राय भूयात्॥५॥**
 
 **![](../books_images/U-IMG-1720977221Screenshot2024-07-14121212.png)**
-
-
 
 **6 ॥शकुन्तलास्वगतम्॥**
 
@@ -481,8 +406,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  राग परस्परगतोऽजनि सद्य एव।  
 अन्वागता मधुमया दिवसाः कथं ये  
  नीताश्च तेन सह विस्मरणं नु तेषाम्॥४॥**
-
-
 
 **संप्रेषिता तदनु भर्तृगृहं ससत्त्वा  
  तातं सखीयुगलमेणशिशुं लतां च।  
@@ -509,8 +432,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 ताम्यत्यहो मम कृतेऽनुशयाभितप्तो  
  यस्यान्तरे मम च तिष्ठति लोक एकः॥९॥**
 
-
-
 **सख्यौ च ते विदितशापकथे प्रिये मे  
  नैवापराधसहिते कथितं तु ताभ्यां।  
 आवश्यकत्वसमये प्रदिशाङ्गुलीयं  
@@ -536,8 +457,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 धर्मानियन्त्रित इहास्त्यशुभाय काम-  
  स्तप्ताः कलङ्कनिचयास्तपसा मयाद्य॥१४॥**
 
-
-
 **त्यक्तं प्रियात्वमधुना गृहिणीत्वमात्तं,  
  संयोगमात्र सुखि मे हृदयं ब्रवीति।  
 जाने कथं स इति नैव, विधिर्बलाढ्य‍॥  
@@ -561,8 +480,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  अत्यद्भुताः प्रगतयस्सकलेऽपि शास्त्रे।  
 यज्ञस्तपोऽध्ययनरीतय ईडनीया-  
  स्सङ्घव्यवस्थितिरियं समता न यस्याः॥२॥**
-
-
 
 **किन्त्वेतदद्भुततरं यदिहास्ति येना-  
  दानं जुगुप्सिततमं निखिलेऽपि लोके।  
@@ -589,8 +506,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 रक्ष्याः कथंचिदपि ते धृतसत्वलक्ष्याः  
  रक्षन्ति संस्कृतिमिमां भुवनाद्भुतां ये॥७॥**
 
-
-
 **स्वातन्त्र्यलाभचरितं किल भारतीयं  
  भात्यद्भुतेष्वतितरां मकुटायमानं।  
 त्यागाश्रयाज्जनतया परिवर्त्य हिंसां  
@@ -614,8 +529,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  प्रवृत्तिस्संब्धासमरहरणाय द्रुततरं।  
 कुरूणामाध्यक्ष्ये कुलतिलकभीष्मश्चनिहितो  
  वृतोऽहं हन्यां नावददिति वरान्पाण्डुतनयान्॥३॥**
-
-
 
 **युयुत्सूनां व्राता रणभुवि समेता उभयतस्-  
  समं प्रातर्नेतृ प्रवरकुरुवृद्धेन झटिति।  
@@ -642,8 +555,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 तथापीयं चित्रा व्यवहरणरीतिः खलु तयोः  
  परः पक्ष स्योवेति परिगणना यन्न बुधयोः॥८॥**
 
-
-
 **भटानामाघट्ट स्तदनु चलितो वेगघटितः  
  प्रवृत्तं ब्रह्माण्डप्रकटमतिभीमं प्रमथनं।  
 भरन्भीष्मश्शस्त्रं निचय इव संख्ये च तडितां  
@@ -668,8 +579,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  परित्याज्यो लोकेविरहितगुणस्स्वोऽपि पुरुषः।  
 परो ग्राह्यशशिष्टस्स यदि गुणवान्नैजकुलजो  
  विशिष्याराध्यश्चेति किल विदुषां तिष्ठति मतम्॥१३॥**
-
-
 
 **मयैतावन्तं वै समयमुषितं कौरवगृहे  
  ऋणं तद्व्यावृत्तं युधि विविधसेवावितरणात्।  
@@ -698,8 +607,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **![](../books_images/U-IMG-1720797690Screenshot2024-07-11085209.png)**
 
-
-
 **9 ॥वाग्वैभवम्॥**
 
 **अये वाक्चित्रा त्वं तव विभवलेशो मयि कृपा-  
@@ -721,8 +628,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  समाराद्धुंवाक्त्वां यतत इह सर्वोऽपि सततं।  
 परं कम्यापि त्वं न वशमयसि क्रीडनपरा  
  भजन्ती वैपुल्यं विपरिणतिमप्यूर्ग्विलसिता॥४॥**
-
-
 
 **प्रयुञ्जानस्त्वां वाग्धृदयजनितान्भावनिचया-  
  न्नरोवारं वारं प्रभवति न सम्यक्कथयितुं।  
@@ -749,8 +654,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 क्षणं ते साटोपाः परिजहिहि लीलाः शमयुता  
  प्रसन्ना सत्त्वाहूयाकुरु भुवनवासं सुखकरम्॥९॥**
 
-
-
 **10. ॥श्रमप्रशंसा॥**
 
 **श्रमः कृत्स्नः पूज्यो भुवि हृदयपूर्वश्च हितकृत्  
@@ -773,8 +676,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 न कस्यापि स्वत्वं भवति सकलं न्यास इति च  
  प्रजायेतेयं धीर्यदि भुवि भवेत्स्वर्गविभव॥४॥**
 
-
-
 **अहंताढ्या आढ्याश्चरणचलनं दारुदलनं  
  निकृष्टं मन्यन्ते च कृषिमवलिप्ता परभृताः।  
 परेषां साहाय्यं श्वसितुमपि वांछन्ति कृपणा  
@@ -794,8 +695,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  प्रयस्यंस्तापे यः प्रतनु भजते वेतनमयं।  
 वपुर्वीर्यान्नाम प्रबलतरमास्तां मतिबलं  
  तथाप्येषोऽधर्म्यो विजय इति भात्येव सुदृशाम्॥८॥**
-
-
 
 **11 ॥रजो विलासः॥**
 
@@ -818,8 +717,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  व्यात्ताननो भ्रमति च ग्रसितुं ततोऽन्यत्।  
 क्रोधो महान् परमकारुणिको न लोके  
  हातुं सहेत तृणमप्यपरस्य हस्ते॥४॥**
-
-
 
 **लीलाविभूतिरनयोर्भवति प्रपञ्चस्-  
  संसारकर्मनिचयस्य च चोदकौ तौ।  
@@ -846,8 +743,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 तत्रापि ताण्डवमहो रजसो नितान्तं  
  तत्तादृगस्य जयत. खलु विक्रमौघः॥७॥**
 
-
-
 **किं नागतोस्त्यवसरोऽस्य निरोधनाय  
  संस्थापनाय महितस्य च सत्त्वभूम्नः।  
 यावत्स्फुरन्ति भुवने स्थिरतां प्रपन्ना  
@@ -871,8 +766,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  महेशत्वं तस्यापलपितममर्त्यैर्मदवशै।  
 प्रतीक्षां चक्रुर्येऽवसरमवमन्तं च कुधियो  
  विना हेतुं द्वेषो महति हि विनाशस्य समये॥३॥**
-
-
 
 **स दक्षो द्वेष्टॄणामधिपपदमास्थाय बहुशः  
  पुरो नन्दीशस्या कुरुत शिवनिन्दां द्युसदसि।  
@@ -899,8 +792,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 विमृश्यैवंपृष्टस्तदनु शिवया शङ्करविभु -  
  र्निवाXXदादेवीं सुभृशमनुमेने कथमपि॥८॥**
 
-
-
 **प्रविष्टायां सत्यां पितृशुभचिकीर्षौ सवसभां  
  प्रवृत्तस्तां दृष्ट्वा हसितुमवलिप्तस्सुरगणः।  
 उपेक्ष्यैतद्देवी पितरमुपसृत्यानतवती  
@@ -917,8 +808,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  पति प्रेयान् लोके सततमितरे यावदनघाः॥११॥**
 
 ![](../books_images/U-IMG-1721065046Screenshot2024-07-11085209.png)
-
-
 
 **13. ॥प्रज्ञाविपरिणतिः॥**
 
@@ -941,9 +830,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  शक्ताश्चाप्युद्गलितुमखिलं पङक्तिशो ग्रन्थकीटाः।  
 ग्रन्थादन्यत्स्वयमिह न ते मन्वतेऽवस्थितं यद्-  
  ज्ञान तेषां परिमितमहो यद्द्वितीयोक्तिलब्धम्॥४॥**
-
-
-
 
 **अन्ये केचिद्विरलविरलास्संवृताः पुस्तकात्तै-  
  र्भावग्रामै रनिशमखिलैस्संविशन्तस्समाधिं।  
@@ -969,8 +855,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 पर्यायादथवा समे समदिता प्राक्रम्य यत्तेपदं  
  स्वोच्छ्रायं च विधाय सम्यगनिशं त्वां तन्वते न्यक्कृतम्॥२॥**
 
-
-
 **पूर्वं त्वं किल वासमेभिरकरोर्वन्यैर्वने सङ्गतो  
  बुद्धे वीर्यविजृम्भणादथ च तान्जित्वा वशं प्रापयः।  
 एते ते स्वपराभवं हृदि गुरुं कृत्वेव पृथ्वाग्रहा-  
@@ -987,8 +871,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  संसारस्तव भूरिमोदभरितो भायात् सुशुभ्रस्तदा॥५॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **15.** **॥एकाकी॥**
 
@@ -1011,8 +893,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 ** प्राणानां यन्त्रणाद्यैर्निजहृदिचरतां प्राप्तुमिच्छन्त्यभीष्टान्।**  
 **जीवब्रह्मादिचर्चानवरतनिरताः केचिदन्ये रमन्ते**  
 ** शब्देष्वायुश्च यावत् कृतपरिचितयो ह्युच्चवोषान्वितेषु॥४॥**
-
-
 
 **यानानाडम्बराक्तानयि परिहर तान् पूर्णभावं यदीच्छे-  
  रन्तस्स्थान्सद्गुणांशान् विचिनुहि कणशश्चास्मितां सन्निहत्य।  
@@ -1038,8 +918,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 आर्याणामग्रदेवो निखिलमखभुजां हव्यवोढा शिखावा-  
  नाहर्ता सभ्यताया असुरभयकरो भाति चाथर्वणस्सः॥३॥**
 
-
-
 **आपस्सन्ति प्रतिष्ठा स्सुतृषितजगतश्चामृतत्वं भजन्त्य-  
  स्तिस्रोऽवस्था प्रयान्त्यो भुवि पदमखिलं व्याप्नुवन्ति  
                              \[ प्रकीर्णाः।**  
@@ -1062,8 +940,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  स्वीयान् पीयूषकल्पान्कि रति करमयान् सुस्वरान् गायकाभः।  
 ज्योत्स्नापूरे च तस्य प्रवहति सुमहान् सिन्धुरुज्जृम्भते द्रा  
  गाहृादेन प्रपूर्णाश्च हृदयकुहराः प्राणिनां प्रोत्तरङ्गाः॥७॥**
-
-
 
 **धर्मानेवाचरन्यस्सततमिह जगत्कर्मनेता च होता  
  सृष्टीनामीश्वरोयं किल परतनुवल्लोककार्यैकनिष्ठः।  
@@ -1090,8 +966,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 प्रतिगृहमुपयातश्चौदयादादिनान्तं  
  कलयति नरकं द्राग्लब्धुमीषद्गृहिभ्यः॥३॥**
 
-
-
 **सुरभवनतडाका भुक्तिशालाश्च नद्यो  
  रटनशतविदीर्णाश्चापि विद्यार्थिवासाः।  
 विरटनविनियुक्तश्चे**द**सूरक्षितोऽयं  
@@ -1108,9 +982,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  यदि नगर इदानीं शान्त एकस्सदेवः॥६॥**
 
 **![](../books_images/U-IMG-1721109019Screenshot2024-07-14121212.png)**
-
-
-
 
 **18. ॥अवस्कर हरणम्॥**
 
@@ -1133,8 +1004,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  नरस्तान्युद्धर्तुं विरचयति राज्यं बहुविधं।  
 मनोदोषाणामुद्वपनकरणे निर्मलधियो  
  युता आचार्याद्या निखिलमलमालोद्भवकृताम्॥४॥**
-
-
 
 **अशुद्धेर्निष्पत्ति व्यपगमनमाने प्रयतिते  
  विभात्यस्मभ्दीत्यै प्रथममवशिष्टं प्रतियुगं।  
@@ -1160,8 +1029,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 उत्कृष्टं मातृभावं किल सकलहितं वोदुमत्रोन्मिषन्ती  
  पुंभावो यत्र तत्र प्रविलससि मुदा वृद्धिमापादयन्ती॥३॥**
 
-
-
 **माधुर्यं स्तम्भयत्ते निवसति वदने किन्नु नेत्रेऽथवौष्ठे  
  तर्को भातीदृशो मे वितथ इव तव प्रीतिकृत् सर्वमेव।  
 प्रेक्षा वाचा स्मितं च स्थितिगमनलसच्चारूता मोहयित्री  
@@ -1186,8 +1053,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 भूयिष्ठं च तपांसि, तुष्टमतुलं लेमे पतिं त्र्यंबकं  
  जेतुं यं न शशाक नेत्रघृणिना दग्धश्च चेतोभयः॥२॥**
 
-
-
 **सावित्री स्वपतिं विहीनवयसं ज्ञात्वा चकार स्वयं  
  पातिव्रत्यसुतीक्ष्णदिव्यतपसा दीप्ता सिषेवे गुरून्।  
 भर्तारं च, जगाम सार्धममुनाऽरण्यं दिने दारुणे  
@@ -1204,8 +1069,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  यावच्छक्ति तपस्विशीलमखिलैः श्रेयोऽर्थिभिर्गृह्यताम्॥५॥**
 
 **![](../books_images/U-IMG-1721187650Screenshot2024-07-14121212.png)**
-
-
 
 **21. ॥स्वाश्रयः॥**
 
@@ -1231,8 +1094,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **![](../books_images/U-IMG-1721114226Screenshot2024-07-11085209.png)**
 
-
-
 **22 ॥तदानीमिदानीं च॥**
 
 **नासन्नो सत्तदानीं प्रतिसमयममुं वच्मि दूरे न वाचा  
@@ -1254,8 +1115,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  स्वादिष्ठाश्शब्दगुम्फाश्चकविसमुचिताः प्रास्त्रवंस्तत्प्रसंगे।  
 आस्तामेतत्किमस्मिन्परभुवनपरा बुद्धिरासीश्च धर्मस्  
  सर्वं चासीत्परं तद्भुजिगृहपटवत् संस्क्रियाहीनमास॥४॥**
-
-
 
 **तन्नाट्यंतच्चगीतं समररसिकता सैव भक्तादिलब्ध्यै  
  तत्कापट्यं फलाप्त्यै नरपरिषदि संदृश्यतेऽद्याप्यनूनं।  
@@ -1281,8 +1140,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 करोति क्रीडां यः शशिवृषभकाकैस्तणचयैस्  
  स्वयं सृष्ट्वा लोकान् व्यवहरति चात्रैव मुदितः॥३॥**
 
-
-
 **अवच्छेदः काले दिशि च न शिशोरस्ति विदुषो  
  विनान्नं भुङ्क्तेऽद्भिः पिबति च विना तृप्यति भृशं।  
 ददात्यन्येभ्योऽसौ स्वपरगणनावर्जितविधं  
@@ -1306,8 +1163,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  समृद्धे सस्याद्यै रहह महती भीरुपनता।  
 जना हृष्टाः पुष्टा झटिति निरयेद्रान्ङिपतिताः  
  धरित्रीकम्पोत्थं हृदयदलनं शोकचरितम्॥२॥**
-
-
 
 **नरा गावो वृक्षाः परिमुषितजीवा अयुतशः  
  क्षणान्नीता नद्यः पुलिनमयतां चित्रसलिलाः।  
@@ -1334,8 +1189,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 अघौघानां नृणां परिणतिरियं दैवविहिता  
  वदन्त्येवं लोके विपदमधिकृत्यापि विबुधाः॥७॥**
 
-
-
 **इदं क्रूरं नूनं नर इह यथावच्चरति यत्  
  स पीडामुत्पन्नामसकृदवनौ भूजलमुखैः।  
 दृढं सोढ्वोत्साही पुनरपि नवीकारकृतधी-  
@@ -1360,8 +1213,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 गजाद्यानां यूथा गुरुतरमृगाणां सुबहवः  
  कथं मात्रा भारा न परिगणितास् तेऽम्बुनिधयः॥३॥**
 
-
-
 **उपेक्ष्यस्संख्यायामतिलघुरसौ केन विधिना  
  नरो भारो भूम्या यदधिकविवृद्धिश्व गणिता।  
 अयं वै हेतुस्स्याद्विभुरिह नरस्सृष्टिषु यतो  
@@ -1376,9 +1227,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  सुतानामन्योन्यं समरहननं काङ्क्षतु मुहुः।  
 सुसत्त्वंसेवन्तां लघुतरमिमे तृप्तिघटितं  
  भुवो भारो न स्यात्सकलसुतवर्गस्सुखमियात्॥६॥**
-
-
-
 
 **॥उत्तर भागः कथानकानि॥**
 
@@ -1404,8 +1252,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **तपस्विनस्ते परिभग्नचित्ताः क्षणात्सकाशान्निरगुश्च तस्य।  
 सहस्थिता तन्निखिलं निरीक्ष्य देवी निकामं दयमानचेताः॥७॥**
-
-
 
 **पितासि लोकस्य हि रक्षकत्वा द्युक्तं प्रजानामवधीरणं किम्।  
 दूयेभृशं वीक्ष्य दशां तदीयां निवारणंब्रूहि कथं प्रसिध्येत्॥८॥**
@@ -1433,8 +1279,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **प्रजाः प्रमोदं परमं प्रपन्ना निर्व्याजवात्सल्यगुणाभिरामाम्।  
 रामां शशंसुर्नृपतिं च भूयो जायाप्रभावोदितसाधुभावम्॥१६॥**
-
-
 
 **आख्यानमेतन्न समाप्तिमेति प्रजाप्रवादो यदि नायमुक्तः।  
 छिद्रे कवाटस्य कुबुद्धिरेको वीथीगतां दिग्वसनां दिदृक्षुः॥१७॥**
@@ -1471,8 +1315,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **स सत्वरं तेन विवेशगेहं निदानमेवास्य विचेतुकामः।  
 श्रुतं न किञ्चिन्न च दृष्टमस्मिन् शालाधिनाथस्वमगारमारात्॥५॥**
 
-
-
 **तूष्णीं निवृत्तो वणिजश्च गेहमन्यत्प्रदिष्टं वसनाय[^1] रात्र्याम्।  
 आगन्तुकोऽन्यो[^7]दिवसेऽपरस्मिन्नवाप पूर्वोषितमेव वासम्॥६॥**
 
@@ -1505,8 +1347,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **अल्पे वयस्येव शरीरयात्रा प्रचालिता देहपरिश्रमेण।  
 लब्धं न पर्याप्तमभूद्धनं तत् क्रमेण वस्तूनि गृहस्थितानि॥१३॥**
 
-
-
 **एकैकशो विक्रयमागतानि पित्रा विसृष्टान्यधनेन कानिचित्।  
 रिक्थेषु पित्र्येष्वशिष्टमेकं निवारकं प्रावरणं हिमस्य॥१४॥**
 
@@ -1534,9 +1374,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 कोटिश्चतेषामधिका न भायान्नरस्य दुःखे ह्यनुचिन्त्यमाने॥२१॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  
-
-
-
 
 **3. ॥कनकपट्टिका॥**
 
@@ -1568,8 +1405,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **तपस्विनश्चेरुरुदग्रवेगात्तपो महल्लब्धुमथेशदानं।  
 इत्थं च धर्मस्य जजृम्भिरे द्राक्स्कन्धास्समग्रा नवया विभूत्या॥८॥**
 
-
-
 **अथ प्रक्लृप्ते दिवसे प्रदातुं क्षेत्रेमहेशस्य शुभप्रसादं।  
 दिग्भ्यस्समाभ्यः प्रययुः पुरीं तामपेक्षकाः प्रत्ययपूर्णचित्ताः॥९॥**
 
@@ -1594,8 +1429,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **आश्चर्यमेवप्रवदन्त एतत् सर्वेऽपि गेहं प्रति निर्ययुस्ते।  
 शम्भुप्रसादाहरणाभिलाषा दम्भेरिता धर्मपथे च वृत्ताः।  
 पस्पर्धिरे स्वीयमुदारभावं कर्तुं प्रकाशं भुवि मूढचित्ताः॥१६॥**
-
-
 
 **वर्षश्चयातो दिवसस्समागत प्रस्पर्धिनस्संमिलितास्सभायां।  
 चिराद्वृतः कश्चन मासषट्के दाने यदीया व्ययिता महार्द्धि॥१७॥**
@@ -1624,8 +1457,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **आगात्तदा पूरयितुं प्रतिज्ञां वाराणसीमात्मकृतां कदाचित्।  
 गच्छन्गृहं विश्वपतेस्तदर्थं ददर्श दीनान्गणशस्स मार्गे॥२५॥**
 
-
-
 **धनं यथाशक्ति विसारितेषु निधाय पाणिष्वनुतापपूर्वम्।  
 कुष्टेन घोरेण निपीडिताङ्ग कंचित्प्रपेदे कृतहारवं क्रमात्॥२६॥**
 
@@ -1639,8 +1470,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 देवम्यभक्तः परमस्सलोके भक्तिर्निजा यस्य नरे विशाला॥२९॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **4. ॥ उपहारः ॥**
 
@@ -1664,8 +1493,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 पप्रच्छुरेतस्य च शान्तिफक्किकां  
  "भूयांश्च मन्युः फलितोऽत्र दैविकः॥४॥**
 
-
-
 **प्रेयस्तमं यज्जगतीह गण्यते  
  नृपेण दातव्यमिदं प्रशान्तये"।  
 प्रत्यूचुरित्थंहृदयस्य दारकं  
@@ -1685,8 +1512,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  पुरोहितै किन्नु सुतप्रियोऽथवा।  
 भार्या प्रियै "तन्महिषीनिशम्य सा  
  चकार देहं द्रुतमेव देवसात्॥८॥**
-
-
 
 **5. ॥माणिक्यहारः॥**
 
@@ -1714,8 +1539,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **त्वं पापभीरुः कृतवान्यदेतत् कर्तव्यमेवात्र विशिष्यते किं।  
 अथ प्रवक्तुं चरितं स्वकीयं प्रचक्रमे मध्यमपुत्र आशु॥८॥**
 
-
-
 **नौकाधिरूढ पतितोऽप्सु बालः प्राणांस्तृणीकृत्य मया ररक्षे।  
 घोरे प्रवाहे किमु तात कृत्यं न गण्यते त्वन्मणिहार हारि॥९॥**
 
@@ -1739,8 +1562,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **युद्ध्वाप्नवं भो विजयं बृहन्तं महीतले कस्य यशोऽस्मदीयम्।  
 आस्थानलोकरस्सहसान्ववोच द्युष्मद्यशः कस्य महीतलेस्मिन्॥३॥**
-
-
 
 **राज्येन किं मे गलितं वयश्च श्रान्तोऽस्म्यहं पुत्रवरा अमी मे।  
 कांक्षन्ति मृत्युं मम संप्रयाण कालस्समायात इतीव वेद्मि॥४॥**
@@ -1770,8 +1591,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **आज्ञापयामास नृपस्तदानी मभ्भोधिमामन्त्र्य "विसर्पसर्प"।  
 पारात्पवित्रादपसर्प रे त्वं तिष्ठाम्यहं फेनिल यत्र तस्मात्॥११॥**
 
-
-
 **उद्वृत्त वाताहत मासनं गा भर्तुस्तव त्वं भव निश्चलो द्राक्।  
 पादौ स्पृशाज्ञा मम मा समुद्रे" त्यस्मै ददावम्बुधिरुत्तरं किम्॥१२॥**
 
@@ -1795,8 +1614,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  श्वा दृश्यते कश्चि, दसौ न पार्वतः।  
 चेष्टा अशान्ता श्च भवन्ति ह्नूीयुता**  
 ** गोपां यथा पश्यति, भिद्यते रुतम्॥२॥**
-
-
 
 **न तत्र कश्चित्परितोऽक्षिगोचरो  
  निम्ने प्रदेशे जन उन्नतेऽथवा।  
@@ -1823,8 +1640,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  स्तुङ्गैःप्रकामं शिखरैरनूद्यते॥६॥**
 
 [^16]: "across"
-
-
 
 **आयाति तत्रेन्द्रधनुश्चनीरद-  
  स्तुषार[^17]संघा पिहितांवरा भृशं।  
@@ -1854,8 +1669,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 [^20]: "bursts out"
 
-
-
 **इत्यादिकं, किन्त्वतिशोकनिर्भरा  
  निगद्यते यस्य कृते कथा मया।  
 शृण्वद्भुतं तदभृशशाश्वतं यश[^21]-  
@@ -1879,8 +1692,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  भक्तिं च विश्वासममुं प्रमातिगम्॥१४॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **8. ॥प्रश्नस्य पक्षद्वयम्॥**
 
@@ -1915,8 +1726,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **उभावपि प्रोचतुरात्मपक्षं स्वरेण दीनेन भृशात्तसारौ।  
 एकोऽवदद्धाटकखेटमेतद् ब्रवीत्ययं राजतमित्यजस्रं॥७॥**
 
-
-
 **अन्योऽभणद्राजतखेटमेतच्छपत्यसौ[^28] हाटकमित्यशान्तं[^29]।  
 एवं तयो प्रव्रुवतोस्तु पान्थोनिरीक्ष्य सम्यक्परितश्च खेटम्॥८॥**
 
@@ -1942,8 +1751,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **भगवन्नधुना प्रसीद भोस्सहने दुष्करमेव नः प्रभो।  
 करुणाशबलं तवेक्षणं पततादेषु जनेष्वनर्गलम्॥३॥**
-
-
 
 **भवतो बहुधान्य सञ्चयो बहिरागच्छतु तापशान्तये।  
 अशनाय वितीर्य तण्डुला नव नो मृत्युमुखात्क्षुधातुरान्॥४॥**
@@ -1973,8 +1780,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **अकुतोभयमान्ययं गुरुः कथमप्याश्रयत स्वमासनं।  
 स्वदते स्म न किंचिदत्र वै गुरवे संप्रति दारितात्मने॥११॥**
 
-
-
 **क्षणलेशत एव मूषिकश्चलितः कश्चन सुष्ठु खादति।  
 तदनून्दुरु[^33]रन्य आगत स्तमनु प्रेङ्खति मृषकोऽपरः॥१२॥**
 
@@ -2000,8 +1805,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **अहहा पृथुमांसपर्वतः क्षणतोऽस्थ्नांचय एव दारुणः।  
 अतिभीजनकं कथानकं परिषुष्णातु मतिं सुशोभनाम्॥१७॥**
-
-
 
 **10. ॥सलमनो भ्रमराश्च॥**
 
@@ -2034,8 +1837,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  प्रश्नान्स यद्विवृणुते गहनानसाध्यान्॥४॥**
 
 [^41]: "rumour or report"
-
-
 
 **स्त्रैणाश्च[^42] यद्विविध चित्रतरास्स मायाः[^43]  
  पश्येत्सदा मुकुरगा इव सुप्रसन्नाः।  
@@ -2077,8 +1878,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **भूपेन्द्रमौनमुदिता पुनरङ्गनोचे  
  "नैसर्गिकी च कतरा बुधवर्य माला।  
 नैवोचितोऽत्र लघुकर्मणि ते श्रमोऽयं  
@@ -2106,8 +1905,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 अन्यत्तथा हृदयरञ्जकमीक्षते द्राक्  
  संराह् यथा सलमनः प्रथितश्चकार॥१३॥**
 
-
-
 **11 ॥वासना प्राबल्यम्॥**
 
 **मुनिवरस्य पपात वियत्तला-  
@@ -2129,8 +1926,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  वरगुणा जनकेन च कन्यया।  
 जगति यो बलवत्तम ईक्ष्यते  
  स भविता दयितो मम नायकः॥४॥**
-
-
 
 **अवददेवमियं, तरसा मुनि-  
  स्सह तयातपनं गतवानसौ।  
@@ -2157,8 +1952,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 मुनिरनन्तरमेत्य च मूषकं  
  त्वमसि किं बलवत्सु भणाग्रणीः॥९॥**
 
-
-
 **इति जगाद सुतेति तमावद-  
  द्वलिवरो जनक प्रिय एषमे।  
 झटिति सोऽकृत तां किल मृषिकां  
@@ -2180,8 +1973,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **तारागणो रत्नकिरीटशोभां पृथ्वी भवत्यद्भुतपादपीठम्।  
 तद्वंशजातस्य महीश्वरस्य प्रासूतपुत्रं महिषी, परं तु॥५॥**
-
-
 
 **सद्योऽल्प भाग्यात्प्रययौ दिवसा विहाय तोकं नृपतिं शुचेच।  
 धात्री नियुक्ता सहसाऽथ राज्ञा तदाप्रसूता शिशुपोषणाय॥६॥**
@@ -2209,8 +2000,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **सद्यो निहत्याखिलरक्षिलोकं संप्रापुरन्तः पुरमेव तूर्णं।  
 मोतीसुतः क्रीडति यत्र चांक्रे नृपात्भजो न्यस्तकरः कुचे च॥१३॥**
 
-
-
 **सामन्द्रगीतं कुरुते च मोती वाद्यानुषक्ताश्च भवन्ति दास्यः।  
 तदा समागाच्छ्वसनेन हीनो नेत्राननादर्शितभीतिरेकः॥१४॥**
 
@@ -2235,8 +2024,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **तया स्ववत्सो जुगुपे, न दोषः, खड्गस्य धारा शमयत्यवेत।  
 स्फुलिङ्गमेतं किलराज भानोः, हत त्रिवारं सुहृदश्चतुश्च"॥२१॥**
 
-
-
 **"उष्णीषमस्तः कटिसूत्रधारी मोतीसुतः कूरवमेव चक्रे।  
 मुदा" हुरेवं नृपपुत्रयोषाः "खड्गायदा तद्घृदये निमग्नाः॥२१॥**
 
@@ -2257,8 +2044,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 "त्रातो नृपो, धापयितुं सुतं मेयामी"ति सास्मस्मयते  
                                 
 \[ब्रुवन्ती॥२७॥**
-
-
 
 **13 ॥तन्तुवायसिलसः॥**
 
@@ -2281,8 +2066,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  नेवं स यावच्छयितुं समुत्थित।  
 मित्रं न, बन्धुर्न, नचैव तादृशा  
  बभूवुरस्मिन्सिलसस्य भूतले॥४॥**
-
-
 
 **येऽवापुरेतस्य हृदि स्थलं कृशं,  
  तथैव भावा न चकर्षुरेव तं।  
@@ -2309,8 +2092,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 धनं गतं केवलमेतदेव नो  
  सर्वं गतं तस्य यतोऽस्य तत्तथा॥९॥**
 
-
-
 **सुष्वाप रात्रौ न, पुनः पुनश्च सः  
  ददर्श पेटीं निजनिष्क काङ्क्षया।  
 द्वित्राणि नाहानि चकार किंचन  
@@ -2335,8 +2116,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  दीपान्तिके नेत्रपथं जगाम च।  
 कथं नु वर्ण्यस्सिलसस्य तत्क्षणे  
  मोदो, दधाव प्रति हाटकं स्वकम्॥१४॥**
-
-
 
 **अहो सुवर्णं यदनेन वीक्षितं  
  सुवर्णवर्णं च सुवर्णकुन्तलं।  
@@ -2363,8 +2142,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 एका विचेष्टा प्रकृतेः करोत्यसौ  
  लोकं समस्तं स्वजनं च बान्धवम्॥१९॥**
 
-
-
 **एष्पीकथं तत्र गृहं विवेश, सा  
  तीरे तडाकस्य समीप वर्तिनः।  
 मात्रा विसृष्टा सलिलं प्रविष्टया,  
@@ -2379,8 +2156,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  हरः किलारामवरस्सुमावहः॥२२॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **14 ॥ आनन्दकञ्चुकः ॥**
 
@@ -2410,8 +2185,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **ततोऽनु दूतास्तुरगाधिरूढास्सर्वत्र राज्ये जवतः प्रचेरुः।  
 आलोकितास्तैर्बहवश्चपृष्टाः परंत्वलब्धः पुरुषः प्रहृष्टः॥९॥**
-
-
 
 **अकिंचना ये धनलिप्सवस्ते वित्तान्विता रिक्ततराश्च मेनिरे।  
 व्याध्याधिदारिद्र्यमृति प्रसूतारिष्टार्तिविद्धास्सकला बभूवु॥१०॥**
@@ -2443,8 +2216,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **15. ॥बर्लेप्रभुः॥**
 
 **तस्यास्स कर्णविवरे निगदत्यनुच्चै  
@@ -2473,8 +2244,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 उद्यानराजिमनु तो चलत पुरस्तात्  
  हर्म्याणि पश्यत इहातिमहान्ति चान्तः॥४॥**
 
-
-
 **शब्दायते मृदुतरं वनमातरिश्वा,  
  चिन्तागतस्सपदि बोधमवाप्य वक्ति।  
 कान्ता "मिमानि भवनानि मनोहराणि  
@@ -2500,8 +2269,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  तद्दर्शितं निखिलमेव करोति तस्याः।  
 प्रेयस्तरं तम, भिगच्छति तत्कुटीरं  
  चित्तेन सा, भवति यन्निकटे क्रमेण॥८॥**
-
-
 
 **ताभ्यां स्वजीव समयश्च नयिष्यतेऽत्र  
  कान्तानुरक्तिरधिका च करिष्यतेऽत्र।  
@@ -2529,8 +2296,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 गाम्भीर्यभाव स तरसा परिवर्तते, तां  
  ब्रूते "ममेदमखिलं तव चे" ति शान्तम्॥१२॥**
 
-
-
 **बर्लेप्रभुस्स लसतीह महत्त्वसंपत्-  
  स्वातन्त्र्यनीतिमहितोऽतुलकीर्तिकोशः।  
 सद्यो वराननमभू दभितस्तु तस्या  
@@ -2555,8 +2320,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 औदार्यमीदृशम भात्तरसा महत्या  
  भूयिष्ठमेव यदियं जनवल्लभा भूत्॥१६॥**
 
-
-
 **आधिस्त्वखेदय दजस्रमिमां नु कश्चित्,  
  विद्धा बभूव हृदयेऽविरतं यतस्सा।  
 निष्पीडिताऽसहजगौरव भार भूम्ना,  
@@ -2578,8 +2341,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  दानाय्य तानि वसनानि तया धृतानि।  
 ग्रामे विवाह समये, परिधाप्य तां तैः  
  शान्त्यंस्वबन्धुभिरकारयदन्त्य कार्यम्॥२०॥**
-
-
 
 **16. ॥स्नुषाचतुष्टयम्॥**
 
@@ -2605,8 +2366,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 [^63]: "The remaining one (the fourth
 
-
-
 **श्रेष्ठ्यायातस्तदनु चलिते हावनेऽसौ तृतीये  
  श्रुत्वा सद्यो मतिनिपुणतामात्मनस्तु स्नुषाणां।  
 आद्ये द्वे द्रागकुरुत गृहे दासकर्मानुयुक्ते  
@@ -2614,11 +2373,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **\* शुभमस्तु \***
 
-
-
 **![](../books_images/U-IMG-172164540215.jpg)**
-
-
 
 **PADYA PUSHPANJALI.**  
 **PART I.  
@@ -2640,8 +2395,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
  8. Obscure is the beginning and obscure is the end. Luckily the middle is manifest. Abandoning the idea that it is illusory, always perform righteous acts.
 
-
-
 **2. REMEMBRANCE OF RISHIS**
 
  1. The un-made word (the vedas) flowed from their mouths; they discovered the entire universe through the yoga of meditation, all their gods were worshipped in fire, prostration to those ancient seers.
@@ -2660,8 +2413,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
  2. The rays emanating from this (palace) of lustre surely illuminate your world otherwise blind, the authorless word, the treasure-house of delectables for the discerning, forms the invisible, firm foundation.
 
-
-
  3. The Ramayana of immortal lustre, the first poem, was revealed by Valmiki, the grandfather of the family of poets; the Mahabharata shedding brilliance in the world, the Himalaya of splendour, was composed by Vyasa.
 
  4. This sage-made pair appears as it were the unshakable, splendid and broad basement of the mansion, under the shade of which all (other) poets constructed sweet and fine apartments of poetry.
@@ -2675,8 +2426,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  8.The great poets Bhasa, Aswaghosha, Bhavabhuti and others created wonderful and stage-brilliant store-houses of fine sentiments and thus another floor was brought into existence. Bana and others also had contributed their substantial labour therefor.
 
  9. Increase of the decrease of simplicity, abundance of artificiality, intensity of verbosity, poverty in sense, excessive use of compounds and an overlove of figures of speech, these
-
-
 
 showed themselves in the latter-day productions and light was put out.
 
@@ -2694,8 +2443,6 @@ showed themselves in the latter-day productions and light was put out.
 
  5. In this manner is seen the movement of all the parts in the universe for the achievement of a single purpose; but
 
-
-
 this one thing has to be pondered over that a mysterious selfishness, found in every one, makes creatures do sinful acts in abundance by compulsion with the result that the individualthe community, the nation and the country are bitten with hatred towards each other.
 
 **5. NATURE AND ART.**
@@ -2709,8 +2456,6 @@ this one thing has to be pondered over that a mysterious selfishness, found in e
  4. Thus, lucky indeed is mankind for the enjoyment of which there are the nature-given moonlight, rivers, cuckoo-cry, flowers, etc., houses, gardens etc., given by skilled arts and poetry, music etc., given by fine arts.
 
  5. The greater the variety of enjoyment, the greater the modes of destruction, the world is already dreadful on account of lightning, hurricane, germs and wild animals but today it is more so on account of the life-taking machine-weapons. Let
-
-
 
 not the advancement of knowledge be for destruction but be for welfare.
 
@@ -2730,8 +2475,6 @@ not the advancement of knowledge be for destruction but be for welfare.
 
  7. The son of Gadhi who had his caste changed is my father; my mother is of superhuman origin; the great Kulapati
 
-
-
 is my fosterer, my living and training in his hermitage, as for my lord, Oh! he is the greatest in the world.
 
  9. But this separation from my lord, the most unbearable, which I don't deserve and for which there seems to be no end, torments me excessively. What could be the reason? It is not the king, the most excellent at virtue, whose heart-rending plight was depicted to me by Sanumati. Having sighted the ring, he at once understood the truth and is pining for me in repentance. Alas!it is a world that stands between him and me.
@@ -2745,8 +2488,6 @@ is my fosterer, my living and training in his hermitage, as for my lord, Oh! he 
  13. Father had enjoined upon me the duty of attending on guests. Thinking of the king alone, I forgot about it and was not aware of the great sage entering the hermitage. The result was a curse, the most proper for failing in duty.
 
  14. Love-blind I had behaved in this unvirtuous manner like an ordinary girl given to animality. Love, unrestrained
-
-
 
 by virtue, leads to disaster!Since then, all the stains have been burnt down by penance (heat).
 
@@ -2764,8 +2505,6 @@ by virtue, leads to disaster!Since then, all the stains have been burnt down by 
 
  4. The scripturesdeclare that receiving (from others) is a privilege. This rule applies not only to (some) individuals but the entire community called Brahmin is bound by this sharp rule. The community, though owning nothing, appears to possess everything.
 
-
-
 5. If, at any time, the community hankers after riches the loss of Brahminhood makes its appearance immediately. The enemies of Brahmins are vanquished by their weapon of poverty. Contented, they make their living from others hoardings.
 
  6. Is there any land on the face of the earth like Bharata filled with an entire class of people bound by the vow of poverty? Will not this arrangement alone be enough to place this good country at the top of others?
@@ -2782,8 +2521,6 @@ by virtue, leads to disaster!Since then, all the stains have been burnt down by 
 
  3. When the endeavours of Sri Krishna for peace had failed, alas! measures were concerted promptly for the waging
 
-
-
 of war. Bhishma, the best in the family, was placed at the head of the Kurus. He accepted but said that he wouldn't kill the sons of Pandu.
 
  4. In the morning, the hosts of warriors that had assembled in the battlefield on both sides were arrayed simultaneously and quickly by the aged Kuru the best among leaders and the son of Drupada, the crest jewel among warriors (respectively) and waited for the order to offer an unparallelled fight.
@@ -2795,8 +2532,6 @@ of war. Bhishma, the best in the family, was placed at the head of the Kurus. He
  7. People there are known in the world enowned for their character but in the life of none (of these) is heard of a situation similar to this in which one asks for the life of the other as lightly as for water and the other says 'Yes'. What an evenness of mind of these two!
 
  8. Life or death makes no difference to those of determined views who are constantly adhering to virtuous actions, but this is indeed a strange way of transacting business in which there is no consideration of self or non-self in the case of these two wise people.
-
-
 
  9. Then commenced the attack of the assailants attended with fury; the most terrible massacre extending to the ends of the universe prevailed, and the mighty Bhishma bearing the weapon and shining like a cluster of lightning in the battlefield brought into being the moments of the end of the world.
 
@@ -2810,8 +2545,6 @@ of war. Bhishma, the best in the family, was placed at the head of the Kurus. He
 
  14. "I have lived in the house of the Kauravas so far! But that debt has been repaid by my manifold services in the war! I am determined to render assistance to this good man at this crisis and I set out to tell him now the device to kill me."
 
-
-
  15. 16. Having thought over like this, the bull amongKurus said at once to the king's son, "O man of good will, my previous history has been known to all, that Amba didn't get (the fulfilment of) her desire from me through my preceptor. She then propitiated the lord Tripurahara (the destroyer of the Three cities) by abundant penance and obtained a boon to kill me and immediately entered fire. She was born again as the daughter of Drupada with memory (of the previous birth.) She then obtained from Sthunakarna malehood and is a male now with the name Sikhandı. This was narrated by the celestial sage (Narada).
 
  17. I then made at once a vow within myself that I should not fight in battle against a woman or one who had been a woman before, O killer of enemies Sikhandi has been a woman previously. Let Arjuna, the great hero,place him in his front in the battle and quickly strike me who will throw down arms.
@@ -2823,8 +2556,6 @@ of war. Bhishma, the best in the family, was placed at the head of the Kurus. He
  1. Speech, thou art mysterious. Through thy grace has been transmitted to me an iota of thy wealth. I make use of the same in the act of thy praise. Make it profuse presently that all thy manifold and matchless excellences might be extolled.
 
  2. Thou didst exist before the time when earth and other things came into being; with thee of great might all.
-
-
 
 things were created, without thee, O word, the universe will be lifeless and dumb, the world of objects will be un-differentiated as in darkness.
 
@@ -2840,8 +2571,6 @@ things were created, without thee, O word, the universe will be lifeless and dum
 
 8. Inequality exists among men based upon character, men there are, who are one both at heart and speech, there
 
-
-
 are others whose heart and speech are different. Speech is used as well for concealing thoughts as for expressing them.
 
  9. Thou, of illumination, art the strong seed of civilization, through thy splendours, O word, endowed with wisdom the whole world looks as if unified, cast off for a moment toy feats of bombast, assume calmness, become clear, absorb virtues and make this earthly sojourn happy.
@@ -2855,8 +2584,6 @@ are others whose heart and speech are different. Speech is used as well for conc
  3. Men, possessing wealth, somehow have an aversion for physical labour probably on account of the fatigue caused by the weight of the riches they bear, they enjoy all the pleasures accruing from riches themselves displaying their consciousness of superiority to the great chagrin of the labouring class.
 
  4. Labour, capital and intelligence, the three collectively given to mankind for its welfare produce wealth together, there is no ownership (of any of these) but everything is trust property, if such a view were to prevail in the world, there will be paradise on earth.
-
-
 
  5. The rich, the other-breds, full of ego, regard in their haughtiness walking on foot, cutting of wood and tilling of soil, undignified. The wretches desire others' help even for breathing. How don't they see the happiness in work of the self-dependent.
 
@@ -2874,8 +2601,6 @@ are others whose heart and speech are different. Speech is used as well for conc
 
  3. Having crushed down the very feeble Sattwa with vindictiveness, rajas exercises its sole sovereignty. It proclaims
 
-
-
 its reign over man having generated unconquerable desire and malice in him.
 
  4. Desire swallows this world in one gulp and wanders with mouth open to devour another, malice is indeed noble and very merciful as it won't bear to leave even a straw (to remain) in another's hand!
@@ -2892,8 +2617,6 @@ its reign over man having generated unconquerable desire and malice in him.
 
  10. Has not the time come to check it and establish the noble quality of sattwa when permanent peace, sincerity, good will and contentment will prevail in the world seated firmly?
 
-
-
 **12. SATI.**
 
  1. Stories there are in the world of men, in the history of the Rajputs and elsewhere, in which a young woman endowed with many good qualities loved a young man of the enemy's family and got trouble on account (of the conflict) of filial and conjugal love.
@@ -2908,8 +2631,6 @@ its reign over man having generated unconquerable desire and malice in him.
 
  6. The Mother of the universe, worshipped by all, had no invitation. Her heart became sore at her father's conduct and she said to herself "What a blindness! Without any
 
-
-
 consideration for me, his daughter, he has entered into a decision to disgrace my lord, the lord of beings.
 
  7 & 8. "He has not realised the magnitude of his wicked undertaking or its would-be consequence, his intellect is clouded with colossal passion and deep ignorance; an adversity that might cause the destruction of the universe is certain. Will he turn round? O father, have you decided? My strong filial affection compels me to hasten to your presence! I propose begging my lord for permission who is ever bent upon promoting my happiness." Having discussed within herself in this vein, she asked Lord Sankara for permission who first dissuaded her but somehow granted permission afterwards.
@@ -2919,8 +2640,6 @@ consideration for me, his daughter, he has entered into a decision to disgrace m
  10. Daksha, who had entered upon the sacrificial vow and who was immersed in the thought of his own glory at that moment and whose destruction was impending, did not even look at her, the Mother of the Universe, who prostrated before him, the very incarnation of modesty. Things imbued with Sattwa (quality) do not cross the vision of the arrogant.
 
  11. Having found her father lost and irrecoverable, she hurried out from the hall full of sorrow, approached her lord and implored him to save her father and others through punishment. In the world, the husband is dear under all circumstances and others so, only so long as they are sinless.
-
-
 
 **13. KNOWLEDGE METAMORPHOSIS.**
 
@@ -2936,8 +2655,6 @@ consideration for me, his daughter, he has entered into a decision to disgrace m
 
  6. They burst out of the cocoon and fly with new-fledged wings. Their wisdom is free of all doubts, steady and well-arranged. To those great souls there appears nothing
 
-
-
 strange or unpleasant in the world.These released beings become the leaders of thought.
 
 **14. THE MIND-WORLD.**
@@ -2952,8 +2669,6 @@ strange or unpleasant in the world.These released beings become the leaders of t
 
  5. Having done this for a long time, you will be able to drive away those beasts of bad qualities and enthrone in their
 
-
-
 place good qualities like composure in your entire heart and achieve full man-hood and live a sweet life flooded with the lustre of enlightenment. Then will life appear to be happyand bright.
 
 **15. SOLITARY.**
@@ -2965,8 +2680,6 @@ place good qualities like composure in your entire heart and achieve full man-ho
  3. Foregoing sleep and sport, some spend endless time over amassing wealth having taken upon themselves wild plans. They have in their heart, swallowed up entirely by impurity, a god of their own making and proudly worship him with hundreds of offerings got up by means of their wealth.
 
  4. Others there are in the world who resort to the well-known paths of hatha-yoga for acquiring mystical powers, control the winds moving in the body and desire to attain their objects. There are others again, who derive pleasure indulging themselves in high-sounding words in their ceaseless talk of Jiva, Brahma etc., as long as they live.
-
-
 
  5. I don't come across a single person who proclaims, "If you desire perfection, give up all these paths tainted with vanity. Search for the instincts of goodness lying deep. Cast off ego atom by atom. Live for others." All are fond of pomp. No one is interested in a moment-to-moment moral life.
 
@@ -2980,8 +2693,6 @@ place good qualities like composure in your entire heart and achieve full man-ho
 
  4. Water acts as nectar giving life to the thirsty earth. Scattered in its three states it pervades the entire universe. It moistens the earth first in the form of rain and then in the shape of rivers. It enters every part of all living things mixed with food and feeds them.
 
-
-
  5. Earth, the most ponderous among the elements, sown with seeds by the emperor Prithu, the producer of vegetables, animals and minerals, the load-bearer, the firm, our dearest, the giver, beautiful with water, fruits and blossoms, pleasing every one, served by the other divine forms, the sovereign queen, providing comparison for patience.
 
  6. The sun, the lamp of the three worlds, seated on the high pedestal, revolves himself surrounded by planets and superintends their motion. From the distance, he throws light and heat just adequate to be pleasant to the earth, the seed of duties, wakes up creatures like a friend and yokes them up to their duties ceaselessly.
@@ -2993,8 +2704,6 @@ place good qualities like composure in your entire heart and achieve full man-ho
 **17. NOISE NUISANCE.**
 
  1. Crows caw, dogs bark. These natural noises are nothing when compared to the conglomeration of artificial noises produced in a progressive modern city rending the ear-cavities.
-
-
 
  2. Here, in the bazaar streets, the jarring voices of people coupled with the harsh tones produced while haggling. In the other streets, hawkers appear and make hideous how even before the sun rises.
 
@@ -3012,8 +2721,6 @@ place good qualities like composure in your entire heart and achieve full man-ho
 
  2. Those who observe the hills of rubbish produced and removed in the streets of cities every day will understand how even the pure things given by Nature are converted into filth if they come under the purview of man in society.
 
-
-
  3. The faecal matter from which man turns his face, though it be his own, is carried on the head by others with sacred regard. These scavengers who carry cleanliness at every step are deserving of our constant worship, these who drive away hell from earth.
 
  4. All impurities have their birth in untruth and violence. For dealing with them, man has improvised State with various departments. There are the religious teachers to handle the impurities of mind which are the source of all other impurities.
@@ -3025,8 +2732,6 @@ place good qualities like composure in your entire heart and achieve full man-ho
  1. Female! thy name is power, thou vanquishestthe male, overcoming at once his strength. Grace-weaponed! whoever in the world could describe thy plentiful capacity? thou art thyself half the universe; thou makest the other half also thine at thy will. No wise people who have known thy superior strength will be surprised at this.
 
  2. Didst thou not singly infatuate the entire hordes of Asuras longing for ambrosia with thy enchanting looks? Were not the sages in the Daruka forest drowned in the floods of thy grace? When thy ever-widening subduing power is consi-
-
-
 
 dered, will not a streak of thine in the universe be sufficient for (establishing) domination? Why then that half portion?
 
@@ -3042,8 +2747,6 @@ dered, will not a streak of thine in the universe be sufficient for (establishin
 
  2. In days of yore, Uma Haimavati, perfectly determined as regards her desire, performed penance, unswerving from the quality of Sattwa, valiant exceedingly praised by sages and got the matchless three-eyed God as her lord whom
 
-
-
 the god of love failed to overpower and was himself burnt-down by the fire of the third eye.
 
  3. Savitri chose her husband knowing him to be of short life. Illumined by the severe divine penance of chastity, she served the elders and her lord. She then accompanied him to the forest on the fateful day and got back the dead husband through her spiritual eminence, and also blessings from the god of Death.
@@ -3057,8 +2760,6 @@ the god of love failed to overpower and was himself burnt-down by the fire of th
  1. So long as man's affairs run smooth, he moves about in the world thinking his power to be unlimited. Blind with pride, he embarks on wild enterprises and often meets reverses which rob off his courage.
 
  2. From this moment, a certain fear enters his mind and doesn't depart from him till the fall of his body. He gets frightened even at the movement of a blade of grass, taking
-
-
 
 it to be his enemy, and his superiority complex is soon shattered.
 
@@ -3074,8 +2775,6 @@ it to be his enemy, and his superiority complex is soon shattered.
 
  3. From morn till eve, roaming about in search of food and fighting with his armed cousins who were his neighbours
 
-
-
 the end of which is yet to be seen. In the intervals, dancing and singing in high tunes in the company of women and walking behind them. This was his daily routine actuated by urges of lucre and sex.
 
  4. In the speech of this jungle-man, there was generally singing as in that of children. In his utterances flowed sweet expressions worthy of poets. Leave this' Was there any thought of the other world in him or moral urge? Everything there was but lacking in polish as in the case of his food, home and raiment.
@@ -3089,8 +2788,6 @@ the end of which is yet to be seen. In the intervals, dancing and singing in hig
  2. Listen with attention to their sweet lispings. You will soon forget all your agonies". How is speech born in children, how ideas, and how intelligence? Whoever knowsthese at present?
 
  3. 'I'ness has not taken birth nor 'my'ness. In the child's vision, complete sentience throbs everywhere. He
-
-
 
 plays with the moon, the bull, the crow and grass. He creates worlds of his own and lives there merrily.
 
@@ -3108,8 +2805,6 @@ plays with the moon, the bull, the crow and grass. He creates worlds of his own 
 
  4. Strange, the sport of Earth! She shook herself in a light mood and assumed a new form! In no time the mighty
 
-
-
 and prolonged labours of man were rendered into nullities. Does she realise the seriousness of her prank?
 
  5. High-class ploughed lands, protected like eyes, yielding grains to people in great abundance were now glutted with water. Unparalleled starvation (prevails) in the land. Roads were washed off and food is brought through air.
@@ -3126,8 +2821,6 @@ and prolonged labours of man were rendered into nullities. Does she realise the 
 
  2. The result was dreadful war. Countless able warriors belonging to the Kurus, Yadus and others were cut down mercilessly in the battle-field. How could an increase of
 
-
-
 children prove an unbearable burden to a mother? Strange! How does she desire even their death?
 
  3. Mountains causing constant misery with their weight, rows of dense forests studded with heavy trees, myriads of animals of huge weight like elephants and oceans-how are these not reckoned loads by the mother?
@@ -3137,8 +2830,6 @@ children prove an unbearable burden to a mother? Strange! How does she desire ev
  5. Man is not heavy so long as his mental processes are good. When he is tainted with avarice and other vices, heaviness takes possession of him. A wicked mind is more ponderous than a mountain. When this grows in number, Earth desires a reduction.
 
  6. For how long, should Earth, getting unable to bear the burden, wish frequently with tear-stained face for the mutual destruction of her children in wars?Let men take hold of the imponderable quality of Sattwa composed of contentment. There will be no burden for Earth and all her children will attain happiness.
-
-
 
 **ERRATA.**  
 **\_\_\_\_\_\_\_**
@@ -3169,8 +2860,6 @@ children prove an unbearable burden to a mother? Strange! How does she desire ev
 | 2         | 3        | स्मिल्लो | स्मिॅंल्लो |
 | 5         | 2        | थनूनं    | यनूनं      |
 | 3         | 3        | त        | तृ         |
-
-
 
 |     |     |           |          |
 |:---:|:---:|:---------:|:--------:|
@@ -3203,87 +2892,5 @@ children prove an unbearable burden to a mother? Strange! How does she desire ev
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^51]: "Landscape painter"
-
-
-[^6]: "Lodging"
