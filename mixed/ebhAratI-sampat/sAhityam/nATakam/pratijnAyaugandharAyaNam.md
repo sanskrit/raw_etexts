@@ -11,13 +11,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 \[
 
-
-
 प्रतिज्ञायौगन्धरायणम्
-
-
-
-
 
 प्रतिज्ञायौगन्धरायणस्य
 
@@ -155,8 +149,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 परिजनौ।
 
-
-
 स्त्रियः
 
 ---
@@ -176,10 +168,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 यौगन्धरायणस्य
 
 प्रतीहारी।
-
-
-
-
 
 प्रतिज्ञायौगन्धरायणम्
 
@@ -404,8 +392,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 इति
 
 स्थापना
-
-
 
 अथ
 
@@ -5009,8 +4995,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 प्रथमोऽङ्कः।
 
-
-
 (
 
 ततः
@@ -5227,31 +5211,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 विष्कम्भकः
 
-
-
-
-
-
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-
-
-
 
 .
 
 अथ
 
 द्वितीयोऽङ्क
-
-
-
-
 
 (
 
@@ -7815,8 +7781,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 द्वितीयोऽङ्कः।
 
-
-
 (
 
 ततः
@@ -8421,10 +8385,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 \]
 
-
-
-
-
 (
 
 नेपथ्ये
@@ -8545,21 +8505,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 प्रवेशकः
 
-
-
-
-
-
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-
-
-
 
 .
 
@@ -8567,12 +8513,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 तृतीयोऽङ्कः।
 
-
-
-
-
-
-
 (
 
 ततः
@@ -10533,8 +10473,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 \]
 
-
-
 यौगन्धरायणः
 
 ---
@@ -12224,8 +12162,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 तृतीयोऽङ्कः।
 
 ---------
-
-
 
 (
 
@@ -16249,8 +16185,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 \]
 
-
-
 यौगन्धरायणः
 
 ---
@@ -17940,8 +17874,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 तृतीयोऽङ्कः।
 
 ---------
-
-
 
 (
 
@@ -21965,8 +21897,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 \]
 
-
-
 यौगन्धरायणः
 
 ---
@@ -23656,8 +23586,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 तृतीयोऽङ्कः।
 
 ---------
-
-
 
 (
 
@@ -27681,8 +27609,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 \]
 
-
-
 यौगन्धरायणः
 
 ---
@@ -29372,8 +29298,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 तृतीयोऽङ्कः।
 
 ---------
-
-
 
 (
 
@@ -31432,32 +31356,14 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 फलकशयनेनीयमानः।
 
 )
-
-
-
-
-
-
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-
 
 .
 
 अथ
 
 चतुर्थो।़ङ्कः।
-
-
-
-
-
-
 
 यौगन्धरायणः
 
@@ -32623,8 +32529,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 
 शास्त्रम्।
 
-
-
 यौगन्धरायणः
 
 ---
@@ -33096,12 +33000,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE3Mzk5OTU0
 प्रतिज्ञानाटिकावसिता।
 
 ----------
-
-
-
-
-
-
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 

@@ -11,19 +11,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMzNDUwMDk0
 
 \[
 
-
-
 चारुदत्तम्
-
-
 
 नाटकीय
 
 \-
 
 पात्राणि
-
-
 
 पुरुषाः
 
@@ -85,8 +79,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMzNDUwMDk0
 
 मदनिकाकामुकः।
 
-
-
 स्त्रियः
 
 ---
@@ -138,10 +130,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMzNDUwMDk0
 वसन्तसेनायाः
 
 परिचारिके।
-
-
-
-
 
 चारुदत्तम्
 
@@ -1303,10 +1291,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMzNDUwMDk0
 
 स्थापना
 
-
-
-
-
 अथ
 
 प्रथमोऽङ्कः
@@ -1320,8 +1304,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMzNDUwMDk0
 विदूषकः।
 
 )
-
-
 
 विदूषकः
 
@@ -1868,8 +1850,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMzNDUwMDk0
 यावदेनमुपसर्पामि।
 
 \]
-
-
 
 (
 
@@ -7315,25 +7295,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMzNDUwMDk0
 
 प्रथमोऽङ्कः
 
-
-
-
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
 
 .
 
 अथ
 
 द्वितीयोऽङ्कः।
-
-
-
-
 
 (
 
@@ -11393,31 +11361,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMzNDUwMDk0
 
 द्वितीयोऽङ्कः।
 
-
-
-
-
-
-
-
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-
 
 .
 
 अथ
 
 तृतीयोऽङ्कः।
-
-
-
-
 
 (
 
@@ -12198,8 +12148,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMzNDUwMDk0
 4
 
 ॥
-
-
 
 मैत्रेय
 
@@ -15867,31 +15815,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMzNDUwMDk0
 
 तृतीयोऽङ्कः।
 
-
-
-
-
-
-
-
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-
 
 .
 
 अथ
 
 चतुर्थोऽङ्कः
-
-
-
-
 
 (
 
@@ -19976,16 +19906,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDMzNDUwMDk0
 इति
 
 चतुर्थोऽङ्कः।
-
-
-
-
-
-
-
-
-
-
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 

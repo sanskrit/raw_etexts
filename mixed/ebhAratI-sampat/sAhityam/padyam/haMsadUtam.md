@@ -12,16 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAxNjIzOTg4NTk
 
 \[
 
-
-
-
 ***हंसदूतम्***
-
-
-
-
-
-
 
 दुकूलं बिभ्राणो दलितहरितालद्युतिभरं  
 जवापुष्पश्रेणीरुचिरुचिरपादाम्बुजतलः ।  
@@ -730,11 +721,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAxNjIzOTg4NTk
 र्मुरारातेः क्रीडानिविडघटनारूपमहितः ।  
 प्रबन्धोऽयं बन्धोरखिलजगतां तस्य सरसां  
 प्रभोरन्तः सान्द्रां प्रमदलहरीं पल्लवयतु ॥१४२
-
-
-
-
-
-
 
 \]

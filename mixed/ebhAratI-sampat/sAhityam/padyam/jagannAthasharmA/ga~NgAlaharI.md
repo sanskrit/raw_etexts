@@ -12,12 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyODA1MTUzODg
 
 \[
 
-
-
        ***गङ्‌गालहरी***
-
-
-
 
 समृद्धं सौभाग्यं सकलवसुधायाः किमपि तन्‌  
 महैश्वर्यं लीलाजनितजगतः खण्डपरशोः ।  
@@ -280,11 +275,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyODA1MTUzODg
 इमां पीयूषलहरीं जगन्नाथेन निर्मिताम्‌ ।  
 यः पठेत्‌ तस्य सर्वत्र जायन्ते सुखसम्पदः ॥52॥
 
-
-
-
-
  \*\*\*\*\*\*\*\*\*\*\*\*
-
 
 \]

@@ -12,15 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 \[
 
-
-
-
-
 मध्यमव्यायोगः।
-
-
-
-
 
 पात्राणि।
 
@@ -86,8 +78,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 कुन्तीपुत्रः।
 
-
-
 स्त्रियः
 
 ---
@@ -109,8 +99,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 भीमसेनस्य
 
 पत्नी।
-
-
 
 मध्यमव्यायोगः।
 
@@ -319,8 +307,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 इति
 
 स्थापना।
-
-
 
 (
 
@@ -811,8 +797,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 11
 
 ॥
-
-
 
 प्रथमः
 
@@ -2924,8 +2908,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ॥
 
-
-
 (
 
 प्रकाशम्
@@ -4005,8 +3987,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 आहारार्थमानीतो
 
 मानुषः।
-
-
 
 हिडिम्बा
 
@@ -4718,11 +4698,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ।
 
-
-
 मध्यमव्यायोगः।
-
-
 
 पात्राणि।
 
@@ -4788,8 +4764,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 कुन्तीपुत्रः।
 
-
-
 स्त्रियः
 
 ---
@@ -4811,8 +4785,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 भीमसेनस्य
 
 पत्नी।
-
-
 
 मध्यमव्यायोगः।
 
@@ -5021,8 +4993,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 इति
 
 स्थापना।
-
-
 
 (
 
@@ -5513,8 +5483,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 11
 
 ॥
-
-
 
 प्रथमः
 
@@ -7626,8 +7594,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ॥
 
-
-
 (
 
 प्रकाशम्
@@ -8707,8 +8673,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 आहारार्थमानीतो
 
 मानुषः।
-
-
 
 हिडिम्बा
 
@@ -9420,11 +9384,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ।
 
-
-
 मध्यमव्यायोगः।
-
-
 
 पात्राणि।
 
@@ -9490,8 +9450,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 कुन्तीपुत्रः।
 
-
-
 स्त्रियः
 
 ---
@@ -9513,8 +9471,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 भीमसेनस्य
 
 पत्नी।
-
-
 
 मध्यमव्यायोगः।
 
@@ -9723,8 +9679,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 इति
 
 स्थापना।
-
-
 
 (
 
@@ -10215,8 +10169,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 11
 
 ॥
-
-
 
 प्रथमः
 
@@ -12328,8 +12280,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ॥
 
-
-
 (
 
 प्रकाशम्
@@ -13409,8 +13359,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 आहारार्थमानीतो
 
 मानुषः।
-
-
 
 हिडिम्बा
 
@@ -14122,11 +14070,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ।
 
-
-
 मध्यमव्यायोगः।
-
-
 
 पात्राणि।
 
@@ -14192,8 +14136,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 कुन्तीपुत्रः।
 
-
-
 स्त्रियः
 
 ---
@@ -14215,8 +14157,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 भीमसेनस्य
 
 पत्नी।
-
-
 
 मध्यमव्यायोगः।
 
@@ -14425,8 +14365,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 इति
 
 स्थापना।
-
-
 
 (
 
@@ -14917,8 +14855,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 11
 
 ॥
-
-
 
 प्रथमः
 
@@ -17030,8 +16966,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ॥
 
-
-
 (
 
 प्रकाशम्
@@ -18111,8 +18045,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 आहारार्थमानीतो
 
 मानुषः।
-
-
 
 हिडिम्बा
 
@@ -18824,11 +18756,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ।
 
-
-
 मध्यमव्यायोगः।
-
-
 
 पात्राणि।
 
@@ -18894,8 +18822,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 कुन्तीपुत्रः।
 
-
-
 स्त्रियः
 
 ---
@@ -18917,8 +18843,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 भीमसेनस्य
 
 पत्नी।
-
-
 
 मध्यमव्यायोगः।
 
@@ -19127,8 +19051,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 इति
 
 स्थापना।
-
-
 
 (
 
@@ -19619,8 +19541,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 11
 
 ॥
-
-
 
 प्रथमः
 
@@ -21732,8 +21652,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ॥
 
-
-
 (
 
 प्रकाशम्
@@ -22813,8 +22731,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 आहारार्थमानीतो
 
 मानुषः।
-
-
 
 हिडिम्बा
 
@@ -23526,11 +23442,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ।
 
-
-
 मध्यमव्यायोगः।
-
-
 
 पात्राणि।
 
@@ -23596,8 +23508,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 कुन्तीपुत्रः।
 
-
-
 स्त्रियः
 
 ---
@@ -23619,8 +23529,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 भीमसेनस्य
 
 पत्नी।
-
-
 
 मध्यमव्यायोगः।
 
@@ -23829,8 +23737,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 इति
 
 स्थापना।
-
-
 
 (
 
@@ -24321,8 +24227,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 11
 
 ॥
-
-
 
 प्रथमः
 
@@ -26434,8 +26338,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ॥
 
-
-
 (
 
 प्रकाशम्
@@ -27515,8 +27417,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 आहारार्थमानीतो
 
 मानुषः।
-
-
 
 हिडिम्बा
 
@@ -28228,11 +28128,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ।
 
-
-
 मध्यमव्यायोगः।
-
-
 
 पात्राणि।
 
@@ -28298,8 +28194,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 कुन्तीपुत्रः।
 
-
-
 स्त्रियः
 
 ---
@@ -28321,8 +28215,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 भीमसेनस्य
 
 पत्नी।
-
-
 
 मध्यमव्यायोगः।
 
@@ -28531,8 +28423,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 इति
 
 स्थापना।
-
-
 
 (
 
@@ -29023,8 +28913,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 11
 
 ॥
-
-
 
 प्रथमः
 
@@ -31136,8 +31024,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ॥
 
-
-
 (
 
 प्रकाशम्
@@ -32217,8 +32103,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 आहारार्थमानीतो
 
 मानुषः।
-
-
 
 हिडिम्बा
 
@@ -32930,11 +32814,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ।
 
-
-
 मध्यमव्यायोगः।
-
-
 
 पात्राणि।
 
@@ -33000,8 +32880,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 कुन्तीपुत्रः।
 
-
-
 स्त्रियः
 
 ---
@@ -33023,8 +32901,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 भीमसेनस्य
 
 पत्नी।
-
-
 
 मध्यमव्यायोगः।
 
@@ -33233,8 +33109,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 इति
 
 स्थापना।
-
-
 
 (
 
@@ -33725,8 +33599,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 11
 
 ॥
-
-
 
 प्रथमः
 
@@ -35838,8 +35710,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ॥
 
-
-
 (
 
 प्रकाशम्
@@ -36919,8 +36789,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 आहारार्थमानीतो
 
 मानुषः।
-
-
 
 हिडिम्बा
 
@@ -37630,11 +37498,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 समाप्त
 
-
-
 मध्यमव्यायोगः।
-
-
 
 पात्राणि।
 
@@ -37700,8 +37564,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 कुन्तीपुत्रः।
 
-
-
 स्त्रियः
 
 ---
@@ -37723,8 +37585,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 भीमसेनस्य
 
 पत्नी।
-
-
 
 मध्यमव्यायोगः।
 
@@ -37933,8 +37793,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 इति
 
 स्थापना।
-
-
 
 (
 
@@ -38425,8 +38283,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 11
 
 ॥
-
-
 
 प्रथमः
 
@@ -40538,8 +40394,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ॥
 
-
-
 (
 
 प्रकाशम्
@@ -41620,8 +41474,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 मानुषः।
 
-
-
 हिडिम्बा
 
 ---
@@ -42332,15 +42184,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4ODA1NzY0Nzc
 
 ।
 
-
-
-
-
-
-
 म्
 
 ।
-
 
 \]

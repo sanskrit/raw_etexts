@@ -12,15 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2MTg3ODc0OTg
 
 \[
 
-
-
-
-
 दूतवाक्यम्
-
-
-
-
 
 (
 
@@ -153,8 +145,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2MTg3ODc0OTg
 इति
 
 स्थापना।
-
-
 
 (
 
@@ -784,8 +774,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2MTg3ODc0OTg
 
 केशवः।
 
-
-
 दुर्योधनः
 
 ---
@@ -990,8 +978,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2MTg3ODc0OTg
 
 )
 
-
-
 दुर्योधनः
 
 ---
@@ -1091,8 +1077,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2MTg3ODc0OTg
 रिपुमण्डलं
 
 तत्।
-
-
 
 उत्सादयिष्यन्निव
 
@@ -2812,8 +2796,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2MTg3ODc0OTg
 
 ॥
 
-
-
 अयमाशक्तः।
 
 मातुल
@@ -4177,14 +4159,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2MTg3ODc0OTg
 समाप्तम्।
 
  ------
-
-
-
-
-
-
-
-
-
 
 \]

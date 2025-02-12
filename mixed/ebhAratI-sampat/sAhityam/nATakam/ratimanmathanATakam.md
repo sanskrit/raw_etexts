@@ -11,29 +11,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \[
 
-
-
-
-
 श्री
 
-
-
 श्रीमत्पण्डितजगन्नाथविरचितं
-
-
-
-
 
 रतिमन्मथनाटकम्
 
 ‌
 
 ।
-
-
-
-
 
 प्रस्तावना।
 
@@ -43,8 +29,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सुरसरित्याविष्कृतानादराः
 
-
-
 स्मेरा
 
 भृङ्गिरिटावनन्यशरणे
@@ -53,8 +37,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 दयामेदुराः॥
 
-
-
 वात्सल्यप्रचुराः
 
 प्रसूनविशिखे
@@ -62,8 +44,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 रत्यां
 
 प्रसादोत्तराः
-
-
 
 कल्याणानि
 
@@ -84,8 +64,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 नान्द्यन्ते
 
 ---)
-
-
 
 सूत्रधारः
 
@@ -123,8 +101,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 चेतः।
 
-
-
 नटी
 
 ---
@@ -159,8 +135,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(2\)
 
-
-
 सूत्रधारः
 
 ---
@@ -181,8 +155,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 केऽप्यर्थचित्रैषिणिः
 
-
-
 के
 
 चित्ताद्द्वितयोत्सुका
@@ -195,8 +167,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ह्यमी॥
 
-
-
 ये
 
 तावद्रसिका
@@ -204,8 +174,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 रसोत्तरगुणग्रामाभिरामां
 
 परं
-
- 
 
 श्लाघन्ते
 
@@ -227,8 +195,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 किं
 
 च
@@ -245,8 +211,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 एवमपूर्वासु
 
 कृतिप्वादरवन्तो
@@ -258,8 +222,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 3
 
 ॥
-
-
 
 नटी
 
@@ -278,8 +240,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 होदु।
 
 \(3\)
-
-
 
 सूत्रधारः
 
@@ -335,8 +295,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 गवेप्यते।
 
-
-
 नटी
 
 ---(
@@ -362,8 +320,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ति।
 
 \(4\)
-
-
 
 सूत्रधारः
 
@@ -393,8 +349,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 प्रगल्भेन्वये
 
-
-
 संभूतो
 
 ननु
@@ -407,8 +361,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 लक्ष्म्या
 
 वा
@@ -418,8 +370,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 लोकेऽभिगम्यः
 
 सतां
-
-
 
 मस्तन्यस्तपदो
 
@@ -432,8 +382,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 4
 
 ॥
-
-
 
 नटी
 
@@ -455,8 +403,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(5\)
 
-
-
 सूत्रधारः
 
 ---
@@ -468,8 +414,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 नटी
 
@@ -495,8 +439,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( )
 
-
-
 सूत्रधारः
 
 ---(
@@ -519,17 +461,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 र्दृग्लीलाधीनलक्ष्मीकरकमलमधुस्वादिमाद्वैतवादैः॥
-
-
 
 चेतःक्रीडामृडानीकरभरकलितामन्दमन्दारगन्ध
 
 \-
-
-
 
 प्रख्यामोदैर्वचोभिः
 
@@ -542,8 +478,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कामेश्वरोस्या॥
 
 ॥
-
-
 
 नटी
 
@@ -567,8 +501,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(7\)
 
-
-
 सूत्रधारः
 
 ----(
@@ -585,15 +517,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 --
 
-
-
 दुर्भेदो
 
 मधुपव्रजेन
 
 गुणयन्नित्योपजीव्योच्छ्रयः॥
-
-
 
 वंशोऽसोसलभूभृतोऽधिवसुधं
 
@@ -601,17 +529,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 ज्याचक्रीकृतचापदर्शननमत्प्रत्यर्थिपृथ्वीपतिः॥
-
- 
 
 अश्रान्तप्रतिपादनामृतझरीनिर्वापितार्थिव्रजो
 
 \-
-
-
 
 ऽकिंचन्योद्धुरसंज्वरो
 
@@ -622,8 +544,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 7
 
 ॥
-
-
 
 स
 
@@ -636,8 +556,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 च
 
 सर्वेण।
-
-
 
 नटी
 
@@ -681,8 +599,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 8)
 
-
-
 सूत्रधारः
 
 ---
@@ -725,8 +641,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 धन्वन्यभावमुयान्ति॥
 
- 
-
 रत्नाकरे
 
 तु
@@ -748,8 +662,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 8
 
 ॥
-
-
 
 नटी
 
@@ -778,8 +690,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विलम्बीअदि
 
 ( 9)
-
-
 
 सूत्रधारः
 
@@ -817,8 +727,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पञ्चमैः
 
-
-
 स्वैरं
 
 चन्दनशैलकन्दरचरैर्मन्दानिलैः
@@ -829,8 +737,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 संवर्षादिव
 
 पुष्पितं
@@ -838,8 +744,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 क्षितिरुहैर्भाग्यैः
 
 समुन्मीलितं
-
- 
 
 भृङ्गाणां
 
@@ -856,8 +760,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 9
 
 ॥
-
-
 
 नटी
 
@@ -885,8 +787,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मअणो।
 
-
-
 सुअरत्तिलोअविअअवावारो
 
 रइपरो
@@ -900,8 +800,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 10
 
 ॥
-
-
 
 सूत्रधारः
 
@@ -995,8 +893,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 रत्याः।
 
-
-
 नटी
 
 ----
@@ -1015,8 +911,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 सूत्रधारः
 
 ---
@@ -1032,8 +926,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रविश्य
 
 )
-
-
 
 नटः
 
@@ -1083,8 +975,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सौधमासेदुषी
 
-
-
 दृष्टा
 
 स्थेमवतीव
@@ -1095,8 +985,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 दिवः॥
 
-
-
 मृद्वी
 
 हेमलतेव
@@ -1104,8 +992,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 लोलनयना
 
 काप्यङ्कुरद्यौवना
-
-
 
 यस्याः
 
@@ -1128,8 +1014,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 नाटयति
 
 )
-
-
 
 विदूषकः
 
@@ -1159,8 +1043,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(13\)
 
-
-
 मन्मथः
 
 ---(
@@ -1172,8 +1054,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पुनस्तदेवाम्रंडयति
 
 )
-
-
 
 विदूषकः
 
@@ -1227,8 +1107,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 14 )
 
-
-
 मन्मथः
 
 ---(
@@ -1248,8 +1126,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 विदूषकः
 
@@ -1307,8 +1183,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 16 )
 
-
-
 मन्मथः
 
 ----
@@ -1337,8 +1211,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 रुन्माद्यन्ति
 
 तपस्विनोपि
@@ -1351,8 +1223,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ताः॥
 
-
-
 केनासौ
 
 निरमायि
@@ -1362,8 +1232,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कृशतनुर्यन्नेत्रपझाञ्चल
 
 \-
-
-
 
 स्पन्दादेवहि
 
@@ -1378,8 +1246,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 हृदि
 
 12
-
-
 
 विदूषकः
 
@@ -1407,8 +1273,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 17 )
 
-
-
 मन्मथः
 
 ---
@@ -1426,8 +1290,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ?
 
 ।
-
-
 
 विदूषकः
 
@@ -1481,8 +1343,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 18 )
 
-
-
 मन्मथः
 
 ---
@@ -1525,8 +1385,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 न्मय्यालोककनसस्ष्टहे
 
 तु
@@ -1537,8 +1395,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 दृशोः।
 
-
-
 सा
 
 सख्यन्तरिताभवत्सविधगे
@@ -1548,8 +1404,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 धारावशा
 
 \-
-
-
 
 च्चक्रे
 
@@ -1564,8 +1418,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 13
 
 ॥
-
-
 
 विदूषकः
 
@@ -1599,8 +1451,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 19 )
 
-
-
 मन्मथः
 
 ---
@@ -1610,8 +1460,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 हि
 
 संतप्यते।
-
-
 
 विदूषकः
 
@@ -1637,8 +1485,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 20 )
 
-
-
 मन्मथः
 
 ----(
@@ -1656,8 +1502,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ?
 
 ।
-
-
 
 विदूषकः
 
@@ -1706,8 +1550,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 अण्णुण्णसंघडणा।
 
 ( 21 )
-
-
 
 मन्मथः
 
@@ -1760,8 +1602,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ?
 
 ।
-
-
 
 विदूषकः
 
@@ -1817,8 +1657,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(22\)
 
-
-
 मन्मथः
 
 ---
@@ -1830,8 +1668,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कीदृशोसौ
 
 !
-
-
 
 विदूषकः
 
@@ -1889,8 +1725,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 23 )
 
-
-
 मन्मथः
 
 --(
@@ -1934,8 +1768,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 !
 
 गच्छाग्रतः।
-
-
 
 विदूषकः
 
@@ -1991,8 +1823,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मन्मथः
 
 ---(
@@ -2023,8 +1853,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 र्वासन्तीभिरुदञ्चितं
 
 बहलितं
@@ -2037,13 +1865,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 नीपैर्मेदरितं
 
 भ्रमन्मधुकरैरम्भोरुहैर्जृम्क्षितं
-
-
 
 संकेतस्थलमित्यवैमि
 
@@ -2094,8 +1918,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सोदरा
 
-
-
 रूपं
 
 त्वद्भुतसर्वरत्नसुभगं
@@ -2107,8 +1929,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 एतेषां
 
@@ -2123,8 +1943,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 स्तुतिः
 
 स्यादतो
-
-
 
 यल्लोके
 
@@ -2150,8 +1968,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पूरयिष्यन्ति।
 
-
-
 विदूषकः
 
 ---
@@ -2172,8 +1988,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 25 )
 
-
-
 मन्मथः
 
 ---
@@ -2190,8 +2004,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 रसालच्छटा
 
-
-
 विखण्डितफला
 
 शुकैरिह
@@ -2199,8 +2011,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 च
 
 दाडिमीवीथिका।
-
-
 
 प्रनृत्तशिखिमण्डलात्र
 
@@ -2212,8 +2022,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 र्भ्रमद्भ्रमरमालिका
 
 बकुलपालिका
@@ -2223,8 +2031,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 16
 
 ॥
-
-
 
 विदूषकः
 
@@ -2334,8 +2140,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 26 )
 
-
-
 मन्मथः
 
 ----
@@ -2345,8 +2149,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 !
 
 दुर्निरोधसमुत्साहोसि
-
-
 
 विदूषकः
 
@@ -2363,8 +2165,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 निष्क्रान्तः
 
 )
-
-
 
 मन्मथः
 
@@ -2396,8 +2196,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 माकन्दमासेवते
 
-
-
 ताम्बूली
 
 ननु
@@ -2408,15 +2206,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पूगद्रुमालम्बिनी।
 
-
-
 आलिङ्गत्यधुना
 
 लवङ्गलतिका
 
 कङ्कोलमुच्चैरिदं
-
-
 
 साहित्यं
 
@@ -2463,8 +2257,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 रतिः
 
 )
-
-
 
 रतिः
 
@@ -2596,8 +2388,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 सखी
 
 ---(
@@ -2633,8 +2423,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ? (
 
 29 )
-
-
 
 रतिः
 
@@ -2676,8 +2464,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 30 )
 
-
-
 अन्या
 
 ---
@@ -2705,8 +2491,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 रसालावएसेण
 
 ( 31 )
-
-
 
 रतिः
 
@@ -2755,8 +2539,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पुष्पाण्यपचिनोति
 
 )
-
-
 
 मन्मथः
 
@@ -2828,8 +2610,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 रतिः
 
 ---(
@@ -2866,8 +2646,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌ (33)
 
-
-
 सख्यौ
 
 ---(
@@ -2887,8 +2665,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 फललाहो
 
 \(34\)
-
-
 
 मन्मथः
 
@@ -2920,8 +2696,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 दृष्टपूर्वां
 
-
-
 वित्रस्तैणीचपलनयना
 
 चन्द्रिका
@@ -2929,8 +2703,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 चेतसो
 
 मे।
-
-
 
 मोहो
 
@@ -2945,8 +2717,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 स्यान्ममास्याः
 
 सखीभ्यां
-
-
 
 स्वैरालापः
 
@@ -2964,8 +2734,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 अधुना
 
 तावदनया
@@ -2978,15 +2746,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 श्वासोदञ्चदुरोजकोशयुयुलं
 
 चोन्नम्रया
 
 यत्नतः।
-
-
 
 न्यञ्चन्त्याप्यवशान्नितम्बभरतः
 
@@ -2995,8 +2759,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 शनै
 
 --
-
-
 
 श्चिन्वन्त्या
 
@@ -3040,8 +2802,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 स्वमप्यञ्जसा
 
-
-
 साकं
 
 पुष्पभरेण
@@ -3058,8 +2818,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 किञ्चोत्सारयितुं
 
 समं
@@ -3067,8 +2825,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 मधुकरैर्लोलां
 
 कटाक्षश्रियं
-
-
 
 सत्रैषा
 
@@ -3085,8 +2841,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 20
 
 ॥
-
-
 
 रतिः
 
@@ -3124,8 +2878,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(35\)
 
-
-
 सख्यौ
 
 ---
@@ -3145,8 +2897,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विअसहीए।
 
 \(36\)
-
-
 
 मन्मथः
 
@@ -3185,8 +2935,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 मन्मथमवलोकन्ते
 
 )
-
-
 
 रतिः
 
@@ -3246,8 +2994,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मन्मथः
 
 ----(
@@ -3261,8 +3007,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तरलाक्षी
 
 मामवेक्षमाणैषा।
-
-
 
 वरणाय
 
@@ -3278,8 +3022,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 अपि
 
 च
@@ -3293,8 +3035,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कृष्णार्जुनश्रियं
 
 दधती।
-
-
 
 सेनेव
 
@@ -3330,8 +3070,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 तथाहि।
 
 लावण्याम्बुझरीतलादिव
@@ -3339,8 +3077,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 शनैरुन्मज्जतः
 
 सांप्रतं
-
-
 
 कुम्भौ
 
@@ -3352,8 +3088,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 वक्षोरुहौ।
 
-
-
 तद्गण्डस्थलनिसृता
 
 विलसति
@@ -3361,8 +3095,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 स्रस्तेव
 
 दानाम्बुनो
-
-
 
 धारैषोदरसीम्नि
 
@@ -3378,8 +3110,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 किंच।
 
 मा
@@ -3392,13 +3122,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 धात्रा
 
-
-
 वेणीदम्भात्सदयमनसादायि
 
 पश्चादुपघ्नः।
-
-
 
 न्यस्ता
 
@@ -3407,8 +3133,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 रोमराजि
 
 \-
-
-
 
 व्याजाद्यष्टिः
 
@@ -3442,8 +3166,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कुसुमापचयः।
 
-
-
 सख्यौ
 
 ---(
@@ -3459,8 +3181,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 एव्व।
 
 \(38\)
-
-
 
 मन्मथः
 
@@ -3506,15 +3226,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 रुत्कम्पि
 
 स्तनमण्डलैरुपचितं
 
 श्वासैरसीमोत्कटैः।
-
-
 
 तान्तं
 
@@ -3525,8 +3241,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सूनेषु
 
 लूनेष्वपि
-
-
 
 द्वित्रेष्वेणदृशः
 
@@ -3542,8 +3256,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 रतिः
 
 ---(
@@ -3553,8 +3265,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 नाटयति
 
 )
-
-
 
 सख्यौ
 
@@ -3573,8 +3283,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 मुहुरेणोवण्णासेण
 
 ( 39 )
-
-
 
 मन्मथः
 
@@ -3613,8 +3321,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 चन्द्रकान्तमयी
 
 बालरसालतरुमूलवेदिका।
-
-
 
 सख्यौ
 
@@ -3660,8 +3366,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मन्मथः
 
 ---
@@ -3672,8 +3376,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 स्मः।
 
-
-
 सख्यौ
 
 ---
@@ -3683,8 +3385,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ओहिदह्म
 
 ( 41 )
-
-
 
 मन्मथः
 
@@ -3708,8 +3408,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 शिरसिरुहैरङ्गैरमृजाविधानधूसरितैः।
 
-
-
 वसनेन
 
 क्षौमेण
@@ -3729,8 +3427,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 28
 
 ॥
-
-
 
 सख्यौ
 
@@ -3808,8 +3504,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 42 )
 
-
-
 मन्मथः
 
 ---(
@@ -3852,8 +3546,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 परदेवताप्रसादसंपिपादयिषा।
 
-
-
 रतिः
 
 ---(
@@ -3869,8 +3561,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 महाभाएण
 
 ( 43 )
-
-
 
 सख्यौ
 
@@ -3898,8 +3588,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(44\)
 
-
-
 रतिः
 
 ---(
@@ -3926,8 +3614,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 45 )
 
-
-
 मन्मथः
 
 ---
@@ -3944,8 +3630,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 नाम।
 
-
-
 सख्यौ
 
 ---
@@ -3955,8 +3639,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 इं
 
 ( 46 )
-
-
 
 मन्मथः
 
@@ -3969,8 +3651,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 सख्यौ
 
@@ -4030,8 +3710,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 47 )
 
-
-
 मन्मथः
 
 ---
@@ -4042,8 +3720,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 चक्षुर्दर्शनीयदर्शनेन।
 
-
-
 रतिः
 
 ---(
@@ -4051,8 +3727,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सात्विकमभिनयति
 
 )
-
-
 
 मन्मथः
 
@@ -4078,8 +3752,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 समुदितमवशात्सूनोः
 
 स्मितमिदमस्याश्चिरं
@@ -4093,8 +3765,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 27
 
 ॥
-
-
 
 सख्यौ
 
@@ -4136,8 +3806,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌ ( 48)
 
-
-
 रतिः
 
 ----(
@@ -4164,8 +3832,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 परिचारिका
 
 ---
@@ -4190,8 +3856,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 50 )
 
-
-
 मन्मथः
 
 ---- (
@@ -4215,8 +3879,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वात्या
 
 विस्फूर्तिः।
-
-
 
 रतिः
 
@@ -4258,8 +3920,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 सख्यौ
 
 ----(
@@ -4290,8 +3950,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 52 )
 
-
-
 मन्मथः
 
 ---(
@@ -4311,8 +3969,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 जनो
 
 विश्रम्भकथासु।
-
-
 
 रतिः
 
@@ -4342,8 +3998,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 53 )
 
-
-
 सख्यौ
 
 ----
@@ -4359,8 +4013,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 एसा
 
 ( 54 )
-
-
 
 रतिः
 
@@ -4403,8 +4055,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 च
 
 )
-
-
 
 मन्मथः
 
@@ -4546,13 +4196,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 --
 
-
-
 श्चञ्चूपात्तबिसाङ्करार्पणपरान्योन्यं
 
 रसाक्रीडतोः॥
-
-
 
 मध्याह्नोपि
 
@@ -4563,8 +4209,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सोयं
 
 रथाङ्गाह्वयोः
-
-
 
 मदनः
 
@@ -4620,15 +4264,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 स्यन्दनो
 
-
-
 यन्मध्येगगनं
 
 विकुण्ठितगतिर्निप्पन्दतां
 
 वन्दति।
-
-
 
 जाते
 
@@ -4638,8 +4278,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 पूरस्नापितपायितान्गमयते
 
 विश्रान्तिमश्वानिति॥
@@ -4647,8 +4285,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 30
 
 ॥
-
-
 
 तदहमपि
 
@@ -4680,8 +4316,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 इति
 
 पण्डितजगन्नाथकविकृतौ
@@ -4698,29 +4332,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
-
-
-
-
 .\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-
 
 .
 
 द्वितीयाङ्कादौ
-
-
-
-
-
-
 
 प्रवेशकः
 
@@ -4731,8 +4347,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रविशतश्चेट्यौ
 
 )
-
-
 
 एका
 
@@ -4759,8 +4373,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 एदम्
 
 ‌ ( 1 )
-
-
 
 अन्या
 
@@ -4800,8 +4412,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 वद्यत्वे
 
 तु
@@ -4815,8 +4425,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सहतो
 
 जम्बीरमालूरयोः।
-
-
 
 श्वो
 
@@ -4836,8 +4444,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 स्तन्वङ्ग्याः
 
 क्व
@@ -4851,8 +4457,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 समारम्भोनयोरीदृशः
 
 1
-
-
 
 सारिका
 
@@ -4884,8 +4488,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 साकूतमालोकते
 
-
-
 पाञ्चालीविहृतौ
 
 च
@@ -4898,8 +4500,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 रहः।
 
-
-
 उत्कण्ठामयते
 
 निशम्य
@@ -4907,8 +4507,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 चरितं
 
 स्त्रीपुंसंयोर्नाटके
-
-
 
 पृष्टा
 
@@ -4923,8 +4521,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 2
 
 ॥
-
-
 
 तक्केमि
 
@@ -4945,8 +4541,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 अ
 
 ( 4 )
-
-
 
 मयूरिका
 
@@ -5004,8 +4598,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 स्ववर्गे।
 
- 
-
 संवर्धमानामनु
 
 चैधमाना
@@ -5022,11 +4614,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 इति।
-
-
 
 सारिका
 
@@ -5084,8 +4672,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 लोकमाताऽग्रजो
 
-
-
 भ्राताप्यम्बुजसंभवो
 
 दिविषदां
@@ -5096,8 +4682,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पुनः॥
 
-
-
 शर्वाण्येव
 
 पितृष्वसा
@@ -5107,8 +4691,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 मातुल
 
 \-
-
-
 
 श्चन्द्रो
 
@@ -5131,8 +4713,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 4
 
 ॥
-
-
 
 इति।
 
@@ -5172,8 +4752,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 7 )
 
-
-
 मयूरिका
 
 ---
@@ -5193,8 +4771,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सिलाहणिज्जति
 
 \(8\)
-
-
 
 सारिका
 
@@ -5219,8 +4795,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 होईजइ
 
 ( 9 )
-
-
 
 मयूरिका
 
@@ -5263,8 +4837,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 साहइस्सदि
 
 ( 10 )
-
-
 
 सारिका
 
@@ -5324,8 +4896,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 11 )
 
-
-
 मयूरिका
 
 ---
@@ -5368,8 +4938,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 12 )
 
-
-
 सारिका
 
 ---
@@ -5384,8 +4952,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 13 )
 
-
-
 मयूरिका
 
 ---
@@ -5399,8 +4965,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पत्थिदासि
 
 ( 14 )
-
-
 
 सारिका
 
@@ -5421,8 +4985,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 संपादणस्स।
 
 ( 15 )
-
-
 
 मयूरिका
 
@@ -5462,8 +5024,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 16 )
 
-
-
 सारिका
 
 ---
@@ -5475,8 +5035,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विअ
 
 ( 17 )
-
-
 
 मयूरिका
 
@@ -5491,8 +5049,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वि
 
 ( 18 )
-
-
 
 सारिका
 
@@ -5554,18 +5110,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ----00---
 
-
-
-
-
-
-
-
-
-
-
-
-
 द्वितीयोङ्कः।
 
 (
@@ -5581,8 +5125,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 रतिः
 
 )
-
-
 
 रतिः
 
@@ -5658,8 +5200,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 1 )
 
-
-
 सख्यौ
 
 ----
@@ -5699,8 +5239,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कसिणोसीरतालवींतसमीरणो
 
 \(2\)
-
-
 
 रतिः
 
@@ -5744,8 +5282,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 3 )
 
-
-
 सख्यौ
 
 ----(
@@ -5778,8 +5314,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 4 )
 
-
-
 रतिः
 
 ---(
@@ -5796,8 +5330,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(5\)
 
-
-
 सख्यौ
 
 ---(
@@ -5813,8 +5345,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पठतः
 
 )
-
-
 
 रतिः
 
@@ -5847,8 +5377,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 उपज्जेउ
 
 ( 6 )
-
-
 
 सख्यौ
 
@@ -5886,8 +5414,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 7 )
 
-
-
 रतिः
 
 ---(
@@ -5907,8 +5433,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पकिदाणुरूवं
 
 ( 8 )
-
-
 
 सख्यौ
 
@@ -5960,8 +5484,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 रतिः
 
 ----(
@@ -5993,8 +5515,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 क्वामइ
 
 ( 10 )
-
-
 
 कीरवाणी
 
@@ -6046,8 +5566,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 11 )
 
-
-
 कोकिलवाणी
 
 ---
@@ -6071,8 +5589,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 संदावेदित्ति
 
 ( 12 )
-
-
 
 रतिः
 
@@ -6112,8 +5628,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 13 )
 
-
-
 सख्यौ
 
 ---(
@@ -6150,8 +5664,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 14)
 
-
-
 रतिः
 
 ---(
@@ -6173,8 +5685,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तुह्माणं
 
 ( 15 )
-
-
 
 सख्यौः
 
@@ -6199,8 +5709,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ए
 
 \(16\)
-
-
 
 रतिः
 
@@ -6229,8 +5737,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कहेअ
 
 ( 17 )
-
-
 
 सख्यौ
 
@@ -6282,8 +5788,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 18 )
 
-
-
 रतिः
 
 ---(
@@ -6317,8 +5821,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 मूर्च्छति
 
 )
-
-
 
 सख्यौ
 
@@ -6359,8 +5861,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 जणं
 
 ( 20 )
-
-
 
 रतिः
 
@@ -6407,8 +5907,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 निमीलति
 
 )
-
-
 
 सख्यौ
 
@@ -6496,8 +5994,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मन्मथः
 
 ----
@@ -6517,8 +6013,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 दर्शनीयं
 
 भवता।
-
-
 
 विदूषकः
 
@@ -6546,8 +6040,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 23 )
 
-
-
 मन्मथः
 
 ----
@@ -6566,8 +6058,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सिद्धिरविलम्बा।
 
-
-
 माकन्दं
 
 निकषा
@@ -6585,8 +6075,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 5
 
 ॥
-
-
 
 सख्यौः
 
@@ -6614,8 +6102,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌ ( 24 )
 
-
-
 रतिः
 
 ---(
@@ -6631,8 +6117,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 समुन्मीलयति
 
 )
-
-
 
 सख्यौ
 
@@ -6665,8 +6149,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वि
 
 ( 25 )
-
-
 
 विदूषकः
 
@@ -6718,8 +6200,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 26 )
 
-
-
 मन्मथः
 
 ---
@@ -6740,8 +6220,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पुलकितप्रस्विन्नसवङ्गिकं
 
-
-
 वक्षोजस्खलदुत्तरीयघटनं
 
 व्यग्रैकहस्ताम्बुजम्
@@ -6750,8 +6228,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 अङ्गुल्यग्रगलद्विलूनकुसुमं
 
 भूयो
@@ -6759,8 +6235,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विसर्पत्पुन
 
 ---
-
-
 
 र्व्यावृत्तस्तिमिते
 
@@ -6777,8 +6251,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 6
 
 ॥
-
-
 
 रतिः
 
@@ -6811,8 +6283,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 चंदोवमिदेण
 
 वअणलोण्णोण
-
-
 
 णंदेइलोअणं
 
@@ -6855,8 +6325,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वत्थुभमकप्पिदं
 
 ( 27 )
-
-
 
 सख्यौ
 
@@ -6902,8 +6370,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 (28 )
 
-
-
 रतिः
 
 ----
@@ -6926,8 +6392,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(29\)
 
-
-
 सख्यौ
 
 ---(
@@ -6945,8 +6409,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पडिभादि
 
 (30 )
-
-
 
 विदूषकः
 
@@ -6976,8 +6438,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 31 )
 
-
-
 मन्मथः
 
 ---
@@ -6985,8 +6445,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 किं
 
 आमधरिमाशङ्कसे।
-
-
 
 विदूषकः
 
@@ -7012,8 +6470,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 32 )
 
-
-
 मन्मथः
 
 ---(
@@ -7038,8 +6494,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 नासाकर्णनिरुद्धलोचनमिथःसमिक्रमोपक्रमं
 
-
-
 भूयो
 
 जृम्भणकौतुकिस्तनभरापर्याप्तबाहान्तरम्
@@ -7048,11 +6502,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 प्रौढारम्भनितम्बनिह्नुततदन्याङ्गावलोकक्रियं
-
-
 
 तारुण्याद्भुतशिल्पमेव
 
@@ -7069,8 +6519,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 8
 
 ॥
-
-
 
 विदूषकः
 
@@ -7090,8 +6538,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 33 )
 
-
-
 मन्मथः
 
 ---
@@ -7104,23 +6550,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 लोभात्केशद्विरेफसमूहतः
 
-
-
 सरभसविनिर्याता
 
 काचित्सके
 
 मधुपावलिः॥
 
-
-
 सरसिजदृशो
 
 नासामासाद्य
 
 गन्धफलीधिया
-
-
 
 स्फुरति
 
@@ -7133,8 +6573,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 9
 
 ॥
-
-
 
 रतिः
 
@@ -7170,8 +6608,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 34 )
 
-
-
 सख्यौ
 
 ---
@@ -7191,8 +6627,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 होज्जइ
 
 \(35\)
-
-
 
 विदूषकः
 
@@ -7240,8 +6674,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 36 )
 
-
-
 मन्मथः
 
 ---
@@ -7288,8 +6720,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 कञ्चुकी
 
 ----(
@@ -7314,8 +6744,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मन्मथः
 
 ---(
@@ -7331,8 +6759,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तुमादिष्टो
 
 सि।
-
-
 
 कञ्चुकी
 
@@ -7351,8 +6777,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 देवस्यादेशेनापराद्धो
 
 स्मि।
-
-
 
 विदूषकः
 
@@ -7400,8 +6824,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 37 )
 
-
-
 मन्मथः
 
 ----
@@ -7411,8 +6833,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कुत
 
 एतदधिगमः।
-
-
 
 कञ्चुकी
 
@@ -7464,8 +6884,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 समासादितमिति।
 
-
-
 विदूषकः
 
 ---
@@ -7491,8 +6909,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 इत्युत्थातुमिच्छति
 
 )
-
-
 
 मदनः
 
@@ -7522,8 +6938,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कुरु।
 
-
-
 कञ्चुकी
 
 ---
@@ -7539,8 +6953,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 निष्क्रान्तः
 
 )
-
-
 
 विदूषकः
 
@@ -7564,8 +6976,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 39 )
 
-
-
 मन्मथः
 
 ---
@@ -7575,8 +6985,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कस्याश्चिद्विरहतापोपशमार्थोयमारम्भः
 
 इति।
-
-
 
 विदूषकः
 
@@ -7628,8 +7036,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 40 )
 
-
-
 मन्मथः
 
 --- (
@@ -7660,8 +7066,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 र्यत्साचीभवनं
 
 दृशोः
@@ -7670,8 +7074,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 क्षुधा।
 
-
-
 या
 
 प्राप्ताञ्जनरोखेकाकुटिलता
@@ -7679,8 +7081,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 योलक्तकाङ्कोङ्गुलि
 
 \-
-
-
 
 न्यासोमूनितया
 
@@ -7700,8 +7100,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 सारिकाहस्ताविस्रस्तमिदमित्यनेन
 
 तु
@@ -7709,8 +7107,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 नेह
 
 संदेहस्पन्दोपि।
-
-
 
 सख्यौ
 
@@ -7740,8 +7136,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 41 )
 
-
-
 विदूषकः
 
 ---
@@ -7768,8 +7162,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 42 )
 
-
-
 मन्मथः
 
 ----
@@ -7784,8 +7176,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 जम््म
 मन्मथस्य।
-
-
 
 विदूषकः
 
@@ -7814,8 +7204,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तूलिकामर्पयति
 
 )
-
-
 
 मन्मथः
 
@@ -7857,8 +7245,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सके
 
-
-
 निमग्नं
 
 चक्षुर्मे
@@ -7869,8 +7255,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 भवति॥
 
-
-
 सकम्पस्वेदोयं
 
 प्रभवति
@@ -7880,8 +7264,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पाणिश्च
 
 सकलां
-
-
 
 कथं
 
@@ -7908,8 +7290,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 दर्शयति
 
 )
-
-
 
 विदूषकः
 
@@ -7963,8 +7343,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(44\)
 
-
-
 मन्मथः
 
 ---(
@@ -7995,8 +7373,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सरमन्दस्मितकला
 
-
-
 क्व
 
 वा
@@ -8017,15 +7393,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 भवेदालेख्येऽस्मिन्क्व
 
 नु
 
 मधुरबिम्बाधरसुधा
-
-
 
 क्व
 
@@ -8040,8 +7412,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 12
 
 ॥
-
-
 
 सख्यौ
 
@@ -8079,8 +7449,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 45 )
 
-
-
 रतिः
 
 ---(
@@ -8100,8 +7468,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तक्कालसमासासणेण
 
 ( 46 )
-
-
 
 सख्यौ
 
@@ -8149,8 +7515,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 47 )
 
-
-
 विदूषकः
 
 ---
@@ -8181,8 +7545,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 48 )
 
-
-
 रतिः
 
 ---
@@ -8194,8 +7556,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 अज्जेण
 
 ( 49 )
-
-
 
 सख्यौ
 
@@ -8228,8 +7588,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 दंसणिज्जतणम्
 
 ‌ ( 50 )
-
-
 
 मन्मथः
 
@@ -8265,11 +7623,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मे
 
-
-
 चक्षुर्दशामभिलषन्त्यस्विलेन्द्रियाणि॥
-
-
 
 आलिङ्गने
 
@@ -8279,8 +7633,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 मासादने
 
 रसनतामधरामृतस्य॥
@@ -8288,8 +7640,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 13
 
 ॥
-
- 
 
 कदा
 
@@ -8303,8 +7653,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कुचयुगं
 
-
-
 कदा
 
 तावत्पास्याम्यधररसमस्याः
@@ -8315,8 +7663,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 रतक्रीडा
 
 भूयः
@@ -8324,8 +7670,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 श्रमविशिथिलां
 
 गात्रलतिकां
-
-
 
 कदा
 
@@ -8340,8 +7684,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 रजनीः
 
 14
-
-
 
 विदुषकः
 
@@ -8365,8 +7707,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 51 )
 
-
-
 मन्मथः
 
 ---
@@ -8387,8 +7727,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 भरितेन।
 
-
-
 तालश्रियाप्युरोरुहतटगतयासौ
 
 कथं
@@ -8404,8 +7742,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 15
 
 ॥
-
-
 
 अपि
 
@@ -8427,8 +7763,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 प्याश्लेषेणं
 
 दृढेन
@@ -8437,8 +7771,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 गात्रेष्विवालिम्पति॥
 
-
-
 सैषा
 
 पाययतीव
@@ -8446,8 +7778,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 फाणितरसोदारं
 
 स्वबिम्बाधरं
-
-
 
 दूरं
 
@@ -8465,8 +7795,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 विदूषकः
 
 ---
@@ -8482,8 +7810,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 चित्तगअत्ति
 
 ( 52 )
-
-
 
 मन्मथः
 
@@ -8521,8 +7847,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 रतिः
 
 ---(
@@ -8551,8 +7875,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 सख्यौ
 
 ----(
@@ -8571,8 +7893,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(54\)
 
-
-
 विदूषकः
 
 ---
@@ -8584,8 +7904,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 समस्ससिहि
 
 \(55\)
-
-
 
 मन्मथः
 
@@ -8601,17 +7919,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 रनिक्षुमधराधरैरपृथुलस्तनाडम्बरैः॥
-
-
 
 असंशयितमध्यमरैजघनप्रथीयःक्रमै
 
 \-
-
-
 
 रहंसगतिभिः
 
@@ -8620,8 +7932,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 17
 
 ॥
-
-
 
 सख्यौ
 
@@ -8649,8 +7959,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(56\)
 
-
-
 रतिः
 
 ---(
@@ -8672,8 +7980,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 जीअलोओ
 
 ( 57 )
-
-
 
 सख्यौ
 
@@ -8713,8 +8019,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 58 )
 
-
-
 विदूषकः
 
 ----(
@@ -8751,8 +8055,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 मन्मथः
 
 ---(
@@ -8773,8 +8075,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 व्यक्ताव्यक्तनखक्षतं
 
 प्रतिकलोदञ्चन्निषेधाक्षरम्
@@ -8783,15 +8083,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 व्यक्ताव्यक्तवलग्ननीविनहनं
 
 साध्यं
 
 मृदूपायतो
-
-
 
 लज्जाकुङ्मलितेक्षणं
 
@@ -8841,15 +8137,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 यतः
 
-
-
 वसन्तः
 
 शीतांशुर्मलयपवमानः
 
 परभृताः
-
-
 
 शुका
 
@@ -8863,8 +8155,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पङ्कजरजः॥
 
-
-
 कलं
 
 गीतं
@@ -8874,8 +8164,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रमदवनमन्यच्च
 
 सकलं
-
-
 
 प्रतीपं
 
@@ -8896,8 +8184,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 19
 
 ॥
-
-
 
 रतिः
 
@@ -8929,8 +8215,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(60\)
 
-
-
 सख्यौ
 
 ---
@@ -8950,8 +8234,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 णिव्बादारोवो
 
 \(61\)
-
-
 
 मन्मथः
 
@@ -8973,8 +8255,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 पूरात्किंच
 
 सुराधिपप्रहरणं
@@ -8985,8 +8265,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 कुन्ताग्रैः
 
 कृतमास्तरं
@@ -8994,8 +8272,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विचकिलस्तोमादिदानीं
 
 सखे
-
-
 
 मृत्युं
 
@@ -9006,8 +8282,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 20
 
 ॥
-
-
 
 रतिः
 
@@ -9055,8 +8329,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 62)
 
-
-
 सख्यौ
 
 ---
@@ -9070,8 +8342,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 अदिसओ
 
 \(63\)
-
-
 
 विदूषकः
 
@@ -9103,8 +8373,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(64\)
 
-
-
 मन्मथः
 
 ---
@@ -9123,8 +8391,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 परितापातिभूमिः।
 
-
-
 रतिः
 
 ----(
@@ -9142,8 +8408,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 महाभाएण
 
 \(65\)
-
-
 
 सख्यौ
 
@@ -9176,8 +8440,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वशिनी
 
 )
-
-
 
 वशिनी
 
@@ -9253,8 +8515,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ----
 
-
-
 श्चिन्ताव्याकुलधीः
 
 किमप्यशीशिरा
@@ -9267,8 +8527,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 प्रस्वेदी
 
 घृतवेपथुः
@@ -9280,8 +8538,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विद्विषन्
 
 ‌
-
- 
 
 शून्यं
 
@@ -9301,8 +8557,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
- 
-
 दर्शयाम्यस्मै
 
 तावदात्मानम्
@@ -9312,8 +8566,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 हत्युपसर्पति
 
 )
-
-
 
 विदूषकः
 
@@ -9340,8 +8592,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 आअच्छइ।
 
 \(67\)
-
-
 
 मन्मथः
 
@@ -9391,8 +8641,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 विदूषकः
 
 ---(
@@ -9405,8 +8653,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 वशिनी
 
 ----
@@ -9417,8 +8663,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कुमाराय।
 
-
-
 मन्मथः
 
 ---
@@ -9426,8 +8670,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 इदानीमार्याया
 
 दर्शनेन।
-
-
 
 सख्यौ
 
@@ -9449,8 +8691,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(68\)
 
-
-
 मन्मथः
 
 ---
@@ -9465,8 +8705,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 गगनगङ्गालहरीविहृतिः
 
-
-
 वशिनी
 
 ---
@@ -9480,8 +8718,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 जनं
 
 प्रत्युपचारोक्तिः।
-
-
 
 मन्मथः
 
@@ -9498,8 +8734,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 क्सन्तस्य
 
 विज्ञप्तिः।
-
-
 
 वशिनी
 
@@ -9541,8 +8775,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 चाचरत्यन्यथा
 
-
-
 ष्टष्टैव
 
 प्रतिवक्ति
@@ -9550,8 +8782,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 चान्यदितरद्दत्तेऽपरं
 
 याचिता॥
-
-
 
 व्यत्यस्तामपि
 
@@ -9562,8 +8792,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 धत्ते
 
 तथालंकृतिं
-
-
 
 भाति
 
@@ -9579,15 +8807,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 किंच।
 
 ध्यानेनोत्पलकाङ्गमाकलितया
 
 सप्रेममेवार्तया
-
-
 
 स्वैरं
 
@@ -9601,13 +8825,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 दृष्टया॥
 
-
-
 यामार्धार्धतदर्धतार्कितभवत्संप्राप्तिसौख्याशया
 
 \-
-
-
 
 प्यस्त्यप्रोषितचेतना
 
@@ -9618,8 +8838,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 23
 
 ॥
-
-
 
 रतिः
 
@@ -9634,8 +8852,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 अज्जाए
 
 \(69\)
-
-
 
 मन्मथः
 
@@ -9658,8 +8874,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 वशिनी
 
@@ -9689,8 +8903,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 क्षीयते
 
-
-
 भूयो
 
 मर्मरितच्छदा
@@ -9701,15 +8913,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 दृग्गोचराः॥
 
-
-
 विश्वासश्वसनैर्दलन्ति
 
 शतधा
 
 क्रीडामहीभृच्छिलाः
-
- 
 
 सोयं
 
@@ -9728,8 +8936,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 24
 
 ॥
-
-
 
 उपचर्यमाणा
 
@@ -9755,8 +8961,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मां
 
-
-
 व्यालैर्वेष्टयसे
 
 कथं
@@ -9766,8 +8970,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 किं
 
 खङ्गधारास्तरे॥
-
-
 
 नेष्टं
 
@@ -9783,8 +8985,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 तावत्कृतं
 
-
-
 पापायाः
 
 प्रयतस्व
@@ -9797,11 +8997,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 25
 
-
-
 इति।
-
-
 
 मन्मथः
 
@@ -9831,8 +9027,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 चेतः
 
-
-
 विदूषकः
 
 ----
@@ -9853,8 +9047,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(70\)
 
-
-
 वशिनी
 
 ---
@@ -9871,8 +9063,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 स्वगतं
 
-
-
 सोत्कण्ठं
 
 परिरप्सते
@@ -9882,8 +9072,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 संनह्यति
 
 क्षालने॥
-
-
 
 दत्ते
 
@@ -9896,8 +9084,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 तालवृन्तानिलं
-
-
 
 सा
 
@@ -9913,8 +9099,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 विदूषकः
 
 ----
@@ -9926,8 +9110,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 अह्मोहिं
 
 \(71\)
-
-
 
 मन्मथः
 
@@ -9949,8 +9131,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 सीदतितरां
 
 मनो
@@ -9964,8 +9144,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विचिन्त्येमाम्
 
 ‌ 27
-
-
 
 सख्यौ
 
@@ -9999,8 +9177,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(72\)
 
-
-
 वशिनी
 
 ---
@@ -10011,15 +9187,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 समागमः।
 
-
-
 मन्मथः
 
 ---
 
 आशीरियमार्यायाः।
-
-
 
 विदूषकः
 
@@ -10040,8 +9212,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 संइझोवासणस्स
 
 \(73\)
-
-
 
 मन्मथः
 
@@ -10067,8 +9237,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पझिनीकमितुः।
 
-
-
 स्ष्टहये
 
 दिशा
@@ -10080,8 +9248,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 28
 
 ॥
-
-
 
 विदूषकः
 
@@ -10107,8 +9273,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(74\)
 
-
-
 मन्मथः
 
 ----
@@ -10121,8 +9285,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 दर्शने
 
-
-
 यद्दैन्येन
 
 विरौति
@@ -10133,8 +9295,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मूर्च्छति।
 
-
-
 तत्तादृग्बत
 
 चक्रवाकमिथुनं
@@ -10142,8 +9302,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 दीर्घां
 
 वियोगव्यथां
-
-
 
 नक्तं
 
@@ -10160,8 +9318,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 29
 
 ॥
-
-
 
 विदूषकः
 
@@ -10231,8 +9387,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पितृप्रसूः।
 
-
-
 वशिनी
 
 ----
@@ -10254,8 +9408,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विदूषकेण
 
 )
-
-
 
 वशिनी
 
@@ -10313,8 +9465,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 रतिः
 
 ---(
@@ -10353,8 +9503,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌(76)
 
-
-
 सख्यौ
 
 ---
@@ -10376,8 +9524,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पहावादो
 
 \(77\)
-
-
 
 रतिः
 
@@ -10410,8 +9556,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 निपतति
 
 )(78)
-
-
 
 सख्यौ
 
@@ -10469,8 +9613,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मयूरिका
 
 ---
@@ -10511,8 +9653,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ) (80)
 
-
-
 रतिः
 
 ---(
@@ -10537,8 +9677,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌(81)
 
-
-
 सख्यौ
 
 ---
@@ -10562,8 +9700,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 अदिसओ
 
 \(82\)
-
-
 
 रतिः
 
@@ -10609,8 +9745,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(84\)
 
-
-
 रतिः
 
 ---(
@@ -10632,8 +9766,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 होइ
 
 \(85\)
-
-
 
 सख्यौ
 
@@ -10665,8 +9797,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 86 )
 
-
-
 रतिः
 
 ---(
@@ -10690,8 +9820,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 भवम्
 
 ‌ (87)
-
-
 
 सख्यौ
 
@@ -10717,8 +9845,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(88\)
 
-
-
 रतिः
 
 ---(
@@ -10739,8 +9865,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 सारिका
 
 ---
@@ -10758,8 +9882,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 इदोमुहमाअछइ
 
 ( 89 )
-
-
 
 रतिः
 
@@ -10809,29 +9931,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 द्वितीयोङ्कः।
 
-
-
-
-
-
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-
 
 .
 
 तृतीयोङ्कः
-
-
-
-
-
-
 
 शुद्ध
 
@@ -10854,8 +9958,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वसन्तकः
 
 )
-
-
 
 वसन्तकः
 
@@ -10881,8 +9983,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 प्रभूराश्रयोप्यवहितेनाराध्यमन्तःपुरं
 
-
-
 मान्यस्तत्प्रणयी
 
 जनो
@@ -10897,8 +9997,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 सान्त्व्याः
 
 शास्त्रभृतो
@@ -10908,8 +10006,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 समा
 
 \-
-
-
 
 लोच्याऽऽयव्ययसंगतिर्बत
 
@@ -10939,8 +10035,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ----
 
-
-
 स
 
 राजा
@@ -10950,8 +10044,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 शास्ति
 
 जगतीं
-
-
 
 स
 
@@ -10969,8 +10061,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 तनुते॥
 
-
-
 स
 
 सेनानेता
@@ -10982,8 +10072,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 भटसाह्याय
 
 घटते
-
-
 
 स
 
@@ -11007,8 +10095,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 अपि
 
 च।
@@ -11025,8 +10111,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 वा
 
-
-
 मन्त्री
 
 किं
@@ -11040,8 +10124,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 न
 
 सामाजिकाः॥
-
-
 
 सेनानीर्न
 
@@ -11060,8 +10142,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कुलो
 
 \-
-
-
 
 त्वन्ना
 
@@ -11095,8 +10175,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 र्वेदेन।
 
 इदमिदानीमवश्यनिर्वोढव्यमापतितम्
@@ -11106,8 +10184,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ।
 
 यत्किल।
-
-
 
 सामान्येन
 
@@ -11119,8 +10195,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 नन्दने
 
-
-
 दृष्टायां
 
 दृढरूढरागविवशो
@@ -11129,15 +10203,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 विभुर्मन्मथः।
 
-
-
 तल्लांभाय
 
 निरन्तरोपचितया
 
 क्रोडीकृतश्चिन्तया
-
-
 
 भक्तैरप्यधुनास्मदादिभिरहो
 
@@ -11148,8 +10218,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 4
 
 ॥
-
-
 
 श्रुतं
 
@@ -11166,8 +10234,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 रतिर
 
 \-
-
-
 
 तितरामनुरक्ता
 
@@ -11199,8 +10265,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 र्वासन्ती
 
 सहकारमेव
@@ -11213,8 +10277,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 विन्दति।
 
-
-
 सन्बन्दो
 
 नलिनी
@@ -11224,8 +10286,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 श्लाध्यास्पदं
 
 जायते
-
-
 
 दाम्पत्यं
 
@@ -11238,8 +10298,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 5
 
 ॥
-
-
 
 दित्सिता
 
@@ -11435,8 +10493,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 दुःसहं
 
-
-
 दर्पान्धस्त्रिशिखेन्धकोपि
 
 चरणाङ्गुष्ठे
@@ -11444,8 +10500,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 स
 
 लङ्केश्वरः॥
-
-
 
 वैधात्रं
 
@@ -11464,8 +10518,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पुराणां
 
 त्रयं
-
-
 
 तेजोराशिरसौ
 
@@ -11489,8 +10541,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 शस्त्राजीविभावः।
 
- 
-
 महोत्सेधः
 
 सौधो
@@ -11501,8 +10551,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 स्तथापत्यं
 
 हृदयं
@@ -11511,15 +10559,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 विभवः।
 
-
-
 वपुः
 
 सल्लावण्योदयमधिगतारोग्यमथ
 
 च
-
-
 
 क्षणादेव
 
@@ -11534,8 +10578,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 7
 
 ॥
-
-
 
 अथ
 
@@ -11583,23 +10625,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 प्ररूढरागं
 
-
-
 पतिमालोक्य
 
 रूषेव
 
 रात्रिरेषा।
 
- 
-
 विजहाति
 
 हि
 
 तारहारभूषां
-
-
 
 ननु
 
@@ -11612,8 +10648,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 8
 
 ॥
-
-
 
 किं
 
@@ -11629,8 +10663,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 दिशो
 
-
-
 विस्तीर्णेव
 
 वसुन्धरासरणयः
@@ -11638,8 +10670,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रत्यग्रसृष्टा
 
 इव।
-
-
 
 चक्षुष्मन्त
 
@@ -11650,8 +10680,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्राप्ते
 
 जगच्चक्षुषि
-
-
 
 प्राचीनं
 
@@ -11664,8 +10692,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 9
 
 ॥
-
- 
 
 जाने
 
@@ -11681,13 +10707,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 प्रभ्रश्यद्वसनाञ्चलं
 
 दरगलन्नीविस्फुरज्जृम्भिकं
-
-
 
 उत्कूजन्मणिभूषणं
 
@@ -11698,8 +10720,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 शनै
 
 \-
-
-
 
 रेणाक्ष्योद्य
 
@@ -11719,8 +10739,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌)
 
-
-
 नक्तं
 
 प्राप्तदशाविपर्ययममी
@@ -11728,8 +10746,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 संत्यज्य
 
 पझाकरं
-
-
 
 याताः
 
@@ -11743,8 +10759,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 द्विरेफादयः॥
 
-
-
 सं
 
 प्रत्येष
@@ -11756,8 +10770,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तैः
 
 ख्यापितः
-
-
 
 स्वातन्त्र्यैरुपभुज्यते
 
@@ -11773,8 +10785,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 21
 
-
-
 संप्रत्यहमपि
 
 निर्वर्तितसांध्यविधिः
@@ -11782,8 +10792,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रतिपालयामि
 
 स्वामिन
-
-
 
 उपस्थानसमयम्
 
@@ -11802,8 +10810,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रविश्य
 
 )
-
-
 
 कञ्चुकी
 
@@ -11832,8 +10838,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 संयमो
 
-
-
 यन्निद्राशनयोर्मितिर्यदपि
 
 वा
@@ -11841,8 +10845,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 भोगेषु
 
 नातिस्ष्टहा।
-
-
 
 यच्चान्तःपुरचारिणां
 
@@ -11853,8 +10855,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 संशयः
 
 प्राणने
-
-
 
 यद्यत्तद्धटते
 
@@ -11928,8 +10928,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मन्त्रिणः।
 
-
-
 सभ्यास्तावदितो
 
 वसन्त्यधिकृताः
@@ -11940,8 +10938,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 यतः
 
-
-
 अन्यैः
 
 कार्यवशागतैश्च
@@ -11951,8 +10947,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 बाह्याङ्गणं
 
 संकुलं
-
-
 
 साम्राज्यं
 
@@ -11984,8 +10978,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 आमात्य
 
-
-
 पुरुहूतसमाहूतः
 
 स्वामी
@@ -11995,8 +10987,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 भवन्तं
 
 दिदृक्षते।
-
- 
 
 वसन्तः
 
@@ -12026,8 +11016,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 इति
 
 शुद्ध
@@ -12051,8 +11039,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 परिजनः
 
 )
-
-
 
 मन्मथः
 
@@ -12101,8 +11087,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 परतः
 
 प्रेयसीगुणैः।
-
-
 
 कृष्यमाणमिदं
 
@@ -12156,8 +11140,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कुरङ्गाङ्गना
 
-
-
 वार्तायामपि
 
 वैद्युतस्य
@@ -12170,8 +11152,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 वासन्तिका॥
 
-
-
 पात्रं
 
 कैरविणीनिदाघमिहिरक्रूरा
@@ -12179,8 +11159,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तपस्यापि
 
 किं
-
-
 
 सौढैतस्य
 
@@ -12218,8 +11196,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मन्त्रिन्
 
 ‌
@@ -12237,8 +11213,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रातरमुष्य
 
 स्मरणीयोऽस्मि।
-
-
 
 वसन्तः
 
@@ -12274,8 +11248,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 केवलमाविष्कृता
 
-
-
 मन्मथः
 
 ---
@@ -12302,8 +11274,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कृते॥
 
-
-
 अर्हं
 
 यदि
@@ -12322,19 +11292,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 किञ्च।
-
-
 
 वाहागन्धवहातिशायितरसो
 
 दानोद्धुराः
 
 सिन्धुराः
-
-
 
 वित्तं
 
@@ -12348,8 +11312,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 मानश्चातिशयीति
 
 लभ्यमखिलं
@@ -12357,8 +11319,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 यस्मान्मुहु
 
 स्वाभिनं
-
-
 
 तस्यार्थेप्यनुजीविभिः
 
@@ -12371,8 +11331,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तनुः
 
 17
-
-
 
 वसन्तः
 
@@ -12387,8 +11345,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 समनुशिष्टं
 
 स्वामिना।
-
-
 
 मन्मथः
 
@@ -12420,8 +11376,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 वसन्तः
 
 ----(
@@ -12444,8 +11398,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पितृभिरत्रर्षिभिरितः
 
-
-
 फणीन्द्रैर्भूपालैरित
 
 इह
@@ -12454,15 +11406,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 गन्धर्वपतिभिः।
 
-
-
 इतो
 
 रम्भाद्याभिर्ललितनटनाभिः
 
 सुतनुभिः
-
-
 
 सुधर्मा
 
@@ -12516,21 +11464,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सीकृताज्ञाक्षरं
 
-
-
 सम्पत्तिः
 
 स्ववशीभवत्सुरगवी
 
 चिन्तामणिस्वर्द्रुमा॥
 
-
-
 किञ्चापूर्मशताश्वमेधयजनैर्दुःसाध्यमेवं
 
 पदं
-
-
 
 कस्यैतादृगपौरुषेयवचनोद्गीतं
 
@@ -12556,8 +11498,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 महेन्द्रः
 
 ----(
@@ -12578,8 +11518,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 शतशोपि
 
 दृष्टविजयं
@@ -12591,8 +11529,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 आदिशतो
 
@@ -12611,8 +11547,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 20
 
 ॥
-
-
 
 वाचंस्पतिः
 
@@ -12652,8 +11586,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 वसन्तः
 
 ---(
@@ -12688,8 +11620,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 स्वामिनमवलोकते।
 
-
-
 मन्मथः
 
 ---(
@@ -12704,8 +11634,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 उभौ
 
 ----(
@@ -12717,8 +11645,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विजयेतां
 
 भवन्तौ।
-
-
 
 मन्मथः
 
@@ -12757,8 +11683,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 स्मृतिकर्मीभूतो
 
 नियोज्यकोटिचरमकोटिनिविष्टोजनः।
-
-
 
 वाचस्पतिः
 
@@ -12804,8 +11728,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 गार्हस्थ्यसम्पदे।
 
-
-
 अस्य
 
 त्रैलोक्यराज्यश्रीर्भवद्वीर्यनिबन्धना॥
@@ -12813,8 +11735,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 21
 
 ॥
-
-
 
 पश्य।
 
@@ -12834,8 +11754,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 दम्भोलिनः
 
-
-
 षाशो
 
 नेङ्गति
@@ -12845,8 +11763,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पितृपतेर्दण्डो
 
 नचोद्दण्डति॥
-
-
 
 दुःसाध्ये
 
@@ -12864,8 +11780,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 रेकद्वैरपि
 
 शान्तशात्रवमदो
@@ -12875,8 +11789,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 22
 
 ॥
-
-
 
 मन्मथः
 
@@ -12910,8 +11822,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 भवेदसंसाधितवस्तुनो
 
 न
@@ -12923,8 +11833,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कुलप्रथाजुषः
 
 23
-
-
 
 महेन्द्रः
 
@@ -12943,8 +11851,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 समुत्सृष्टवात्सल्यं
 
 नियुक्तोसि
-
-
 
 मन्मथः
 
@@ -12978,8 +11884,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 शामये
 
-
-
 कस्याद्य
 
 क्रियतां
@@ -12987,8 +11891,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 चिराय
 
 विषयव्यासक्तमन्तर्मुनेः॥
-
-
 
 आ
 
@@ -13004,8 +11906,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मे
 
-
-
 ताताज्ञापय
 
 मा
@@ -13019,8 +11919,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 त्वत्प्रियम्
 
 ‌ 24
-
-
 
 महेन्द्रः
 
@@ -13062,8 +11960,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 मन्मथः
 
 ---
@@ -13089,8 +11985,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 लब्धसंनिकर्षौ
 
 संयोजयितव्याविति।
-
-
 
 महेन्द्रः
 
@@ -13120,8 +12014,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 मन्मथः
 
 ---
@@ -13131,8 +12023,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 नियोजयति
 
 तातः।
-
-
 
 वाचस्पतिः
 
@@ -13147,8 +12037,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 धनुर्लग्नं
 
 पश्यामः।
-
-
 
 मन्मथः
 
@@ -13171,8 +12059,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 इत्युत्तिष्टति
 
 )
-
-
 
 महेन्द्रः
 
@@ -13206,8 +12092,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पन्थाः।
 
-
-
 वितरतु
 
 सा
@@ -13222,8 +12106,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 मन्मथः
 
 ---(
@@ -13237,8 +12119,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 निष्क्रान्तः
 
 )
-
-
 
 महेन्द्रः
 
@@ -13265,8 +12145,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रति
 
 वक्ष्यामि।
-
-
 
 वाचस्पतिः
 
@@ -13320,8 +12198,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 वा।
 
-
-
 यो
 
 यत्र
@@ -13343,8 +12219,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 महान्कलकलः
 
 )
-
-
 
 वाचस्पतिः
 
@@ -13380,8 +12254,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 महेन्द्रः
 
 ---
@@ -13398,8 +12270,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 दौवारिकः
 
 ---
@@ -13411,8 +12281,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 महेन्द्रः
 
@@ -13431,8 +12299,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रवृत्तिः
 
 प्रतिकलमानेतव्येति।
-
-
 
 दौवारिकः
 
@@ -13456,8 +12322,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 देव
 
 कुमामनुप्रहितेषु
@@ -13469,8 +12333,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 जङ्घाकारकौ
 
 प्रणमतः।
-
-
 
 महेन्द्रः
 
@@ -13491,8 +12353,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 दौवारिकः
 
 )
-
-
 
 वाचस्पतिः
 
@@ -13515,8 +12375,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 प्रथमः
 
@@ -13570,21 +12428,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 रुदङ्घ्रित्वङ्गद्भिर्जितपवनवेगैश्च
 
 तुरगैः।
-
-
 
 शताङ्गैरुत्तुङ्गैर्विलसदसखेदैरपि
 
 भटै
 
 --
-
-
 
 र्धरित्री
 
@@ -13601,8 +12453,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 27
 
 ॥
-
-
 
 महेन्द्रः
 
@@ -13630,8 +12480,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 द्वितीयः
 
 ---
@@ -13654,8 +12502,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 अल्लिला।
 
-
-
 मोरा
 
 कलहंसा
@@ -13672,8 +12518,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 28 (1)
 
-
-
 महेन्द्रः
 
 ---(
@@ -13688,8 +12532,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 संगृहीतमनेन।
 
-
-
 वाचस्पतिः
 
 ---
@@ -13703,8 +12545,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 प्रथमः
 
@@ -13722,8 +12562,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌
 
-
-
 भृङ्गीणामपि
 
 शिक्षयन्नविकलां
@@ -13734,11 +12572,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 चौलीमौलिनिबद्धमुग्धबकुलस्रग्गन्धमुष्टिन्धयः
-
-
 
 श्रीखण्डाचलबान्धवो
 
@@ -13754,8 +12588,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 वाचस्पतिः
 
 ---
@@ -13768,15 +12600,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कुमारस्य।
 
-
-
 महेन्द्रः
 
 ---
 
 ततस्ततः।
-
-
 
 द्वितीयः
 
@@ -13792,8 +12620,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पमन्दगन्धवहा।
 
-
-
 सम्भिअजुवलीलाओ
 
 सुरहिणसाओ
@@ -13801,8 +12627,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सरहसञ्चलिआ
 
 30 (2)
-
-
 
 प्रथमः
 
@@ -13816,13 +12640,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 मानोन्मूलनकारणं
 
 कुमुदिनीहासैकवैहासिकः।
-
-
 
 ध्वान्तोच्चाटनमान्विकोम्बरसरः
 
@@ -13831,8 +12651,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 जग
 
 \-
-
-
 
 न्नेत्रानन्दरसायनं
 
@@ -13844,8 +12662,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 वाचस्पतिः
 
 ---
@@ -13853,8 +12669,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ततस्ततः
 
 ---
-
-
 
 द्वितीयः
 
@@ -13869,8 +12683,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पवालसरिसेण
 
 चंचुभाअेण॥
-
-
 
 पमदालावकलाहिं
 
@@ -13890,8 +12702,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(3\)
 
-
-
 प्रथमः
 
 ----
@@ -13904,8 +12714,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 स्निग्धानां
 
 सहकास्पल्लवलवग्रासोल्लसच्चेतसाम्
@@ -13914,8 +12722,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 उन्मीलन्ति
 
 समन्ततः
@@ -13923,8 +12729,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 श्रुतिसुखाः
 
 स्पष्टीभवत्पञ्चमाः
-
-
 
 स्वच्छन्देन
 
@@ -13940,8 +12744,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(33\)
 
-
-
 वाचस्पतिः
 
 ---
@@ -13950,15 +12752,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 खलुकामुकमनोमृगाकृष्टिकिरातगीतयः।
 
-
-
 महेन्द्रः
 
 ---
 
 ततस्ततः।
-
-
 
 द्वितीयः
 
@@ -13980,8 +12778,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ओ।
 
-
-
 वम्महबलसामग्गी
 
 वट्टणकुसला
@@ -13991,8 +12787,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 भमरीओ
 
 34 (4)
-
-
 
 प्रमथः
 
@@ -14004,19 +12798,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 न्सासूरातपवारणोच्चयपरिष्कारां
 
 समातन्वती।
 
-
-
 केकाभिर्जयकाहलीसमधुरग्रीवोद्गताभिर्मुहु
 
 \-
-
- 
 
 दिक्
 
@@ -14034,8 +12822,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 वाचस्पतिः
 
 ---
@@ -14044,15 +12830,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सृष्टिवैचत्र्यसमष्टिर्नन्वेषा।
 
-
-
 महेन्द्र
 
 ----
 
 ततस्ततः।
-
-
 
 द्वितीयः
 
@@ -14068,8 +12850,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सोणचञ्चुचलणंता॥
 
-
-
 गमणोवदेसगुलुणे
 
 तरठ्ठिआणं
@@ -14084,8 +12864,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(5\)
 
-
-
 प्रथमः
 
 ---
@@ -14094,19 +12872,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मेनका
 
-
-
 दासीभूतपुरूरवास्त्रिभुवनेप्यन्यादृशी
 
 चोर्वशी।
 
-
-
 लङ्कानायकशापमूलललितारम्भाचरम्भाहृत
 
 \-
-
- 
 
 स्थेमा
 
@@ -14120,8 +12892,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 37
 
- 
-
 एताभिः
 
 पुनरन्येन
@@ -14130,15 +12900,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सुरवारस्त्रैणेन
 
-
-
 खेलत्कुण्डलमाकुलाकुलमणीहारं
 
 क्वणत्कङ्कण
 
 \-
-
-
 
 श्रेणीनूपुरमेखलं
 
@@ -14150,13 +12916,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 अन्योन्यं
 
 मणिदण्डिकाहतिवलन्नेत्रारविन्दाञ्चलं
-
-
 
 प्रक्रान्तं
 
@@ -14170,8 +12932,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌ 38
 
-
-
 वाचस्पतिः
 
 ---
@@ -14181,8 +12941,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तावदमूनि
 
 कुमारस्य।
-
-
 
 महेन्द्रः
 
@@ -14197,8 +12955,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कतरस्मिन्प्रदेशे
 
 कुमारः
-
-
 
 द्वितीयः
 
@@ -14221,8 +12977,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पडिणिव्वुत्ता।
 
 \(6\)
-
-
 
 वाचस्पतिः
 
@@ -14254,8 +13008,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 महेन्द्रः
 
 ---
@@ -14281,8 +13033,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 वाचस्पतिः
 
@@ -14310,8 +13060,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 -)
 
-
-
 प्रतिहारी
 
 ---
@@ -14330,8 +13078,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 भूधराणां
 
-
-
 कुर्वन्नुर्वी
 
 विशुष्कक्षिति
@@ -14348,8 +13094,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 ज्वालाभिः
 
 प्रोज्वलाभिः
@@ -14361,8 +13105,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 समन्तात्
 
 ‌
-
-
 
 रुन्धानो
 
@@ -14377,8 +13119,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 39
 
 ॥
-
-
 
 महेन्द्रः
 
@@ -14414,8 +13154,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 वाचस्पतिः
 
 ----
@@ -14450,8 +13188,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 वियदध्वचारिणः
 
 सिद्धाः
@@ -14472,8 +13208,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 यावत्पुरा
 
-
-
 द्रोग्धुश्चक्षुरुदञ्चितो
 
 हुतवहः
@@ -14485,8 +13219,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 इत्यर्धोक्ते
 
 )
-
-
 
 महेन्द्रः
 
@@ -14513,8 +13245,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 इति
 
 प्रमुग्दोस्मि
-
-
 
 वाचस्पतिः
 
@@ -14554,8 +13284,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 विधूतस्मयः
 
-
-
 प्रत्यावृत्य
 
 पुनः
@@ -14574,8 +13302,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 वाचस्पतिः
 
 ---
@@ -14587,8 +13313,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तावद्विस्रब्धो
 
 भव।
-
-
 
 महेन्द्रः
 
@@ -14615,8 +13339,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 वाचस्पतिः
 
@@ -14646,8 +13368,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 प्रथमः
 
 ---(
@@ -14658,8 +13378,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 देवः।
 
-
-
 द्वितीयः
 
 ---
@@ -14667,8 +13385,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कुमालवम्महविअओण
 
 \(5\)
-
-
 
 प्रथमः
 
@@ -14700,8 +13416,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 महेन्द्रः
 
 ---(
@@ -14709,8 +13423,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वाचस्पार्तमवलोकते
 
 )
-
-
 
 वाचस्पतिः
 
@@ -14725,8 +13437,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वाचयति
 
 )
-
-
 
 स्वस्ति।
 
@@ -14822,8 +13532,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 महेन्द्रः
 
 ---
@@ -14839,8 +13547,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 संदर्भं
 
 वाचय।
-
-
 
 वाचस्पतिः
 
@@ -14872,8 +13578,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 चन्द्रचूडइति।
 
-
-
 शूरस्तं
 
 हि
@@ -14889,8 +13593,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 42
 
 ॥
-
-
 
 महेन्द्रः
 
@@ -14909,8 +13611,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वत्सस्य।
 
 ततस्ततः।
-
-
 
 वाचस्पतिः
 
@@ -14974,8 +13674,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 प्रत्यङ्गमुद्वीक्षिता
 
-
-
 संश्लिष्टा
 
 दशभिर्भुजैश्च
@@ -14988,8 +13686,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 आपीताधरपल्लवे
 
 च
@@ -14999,8 +13695,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 मुखैः
 
 पञ्चभिः
-
-
 
 पत्युः
 
@@ -15015,8 +13709,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 42
 
 ॥
-
-
 
 विज्ञाप्यते
 
@@ -15050,8 +13742,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 त्वं
 
-
-
 मा
 
 संभ्राम्य
@@ -15064,8 +13754,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 तावत्प्रसीद॥
 
-
-
 पत्यौ
 
 शीतांशुमौलौ
@@ -15077,8 +13765,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सकृन्मानमाधत्स्व
 
 सोयं
-
-
 
 वेत्तु
 
@@ -15095,8 +13781,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ॥
 
 43
-
-
 
 तदित्थमत्र
 
@@ -15118,8 +13802,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 इति।
 
-
-
 महेन्द्रः
 
 ---(
@@ -15136,8 +13818,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 नः।
 
-
-
 वाचस्पतिः
 
 ---
@@ -15151,8 +13831,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 प्रथमः
 
@@ -15173,8 +13851,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तात
 
 चरणारविन्दमूलमिति।
-
-
 
 द्वितीयः
 
@@ -15212,8 +13888,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(7\)
 
-
-
 महेन्द्रः
 
 ----(
@@ -15229,8 +13903,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 द्वितीयः
 
@@ -15344,8 +14016,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सिहणभरा।
 
-
-
 किसदा
 
 बिमुक्कमझ्झा
@@ -15364,8 +14034,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(8\)
 
-
-
 महेन्द्रः
 
 ---
@@ -15381,8 +14049,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विज्ञातो
 
 वसन्तेनायमुदन्तः।
-
-
 
 वाचस्पतिः
 
@@ -15420,8 +14086,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 दौवारिकः
 
 ---
@@ -15431,8 +14095,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 धनाधिनाथसकाशादुपगतः
 
 प्रमोदवार्ताहरः।
-
-
 
 महेन्द्रः
 
@@ -15446,8 +14108,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 प्रतिषिद्धः।
 
-
-
 दौवारिकः
 
 ---(
@@ -15459,8 +14119,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रवेशयति
 
 )
-
-
 
 पुरुषः
 
@@ -15480,8 +14138,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 महेन्द्रः
 
 ---
@@ -15496,8 +14152,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 पुरुषः
 
 ---
@@ -15507,8 +14161,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 गिरिशगृहिणीगर्भतो
 
 निर्भरौजाः
-
-
 
 षोढा
 
@@ -15526,8 +14178,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 च।
 
-
-
 एकेनाह्ना
 
 दघदपि
@@ -15537,8 +14187,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 षोढशादं
 
 समिन्धे
-
-
 
 दुर्वृत्तानां
 
@@ -15552,8 +14200,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 अपि
 
 च।
@@ -15566,8 +14212,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 षङ्भिर्मुदालिङ्गते
 
-
-
 तेभ्योपि
 
 द्विगुणैर्भुजैर्व्यतिकरोत्येतावतः
@@ -15578,8 +14222,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 एकाङ्कासिकयोभयोः
 
 सुखयति
@@ -15587,8 +14229,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रेमात्तदेहैक्ययो
 
 \-
-
- 
 
 श्चेतः
 
@@ -15607,8 +14247,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 46
 
 ॥
-
-
 
 अभिषिक्तश्च
 
@@ -15636,8 +14274,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 आतङ्कशङ्काप्यस्तीत।
 
-
-
 महेन्द्रः
 
 ---
@@ -15657,8 +14293,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 च
 
 लास्यमप्सरोभिः।
-
-
 
 वाचस्पतिः
 
@@ -15680,8 +14314,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 महेन्द्रः
 
 ----(
@@ -15698,15 +14330,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 अब्रह्मण्यमबह्मण्यम्
 
 ‌
 
 ।
-
-
 
 महेन्द्रः
 
@@ -15729,8 +14357,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 नेपथ्यार्धप्रविष्टः
 
 -)
-
-
 
 प्रतिहारी
 
@@ -15769,8 +14395,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 महानयं
 
 कोलाहलः।
-
-
 
 महेन्द्रः
 
@@ -15828,8 +14452,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कन्यापाटच्चरापसदः।
 
-
-
 वाचस्पतिः
 
 ---
@@ -15861,8 +14483,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 महेन्द्रः
 
@@ -15924,8 +14544,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 द्वृत्रासृक्
 
 ‌
@@ -15933,8 +14551,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 भरलब्धपारणसमारम्भेण
 
 दम्भोलिना।
-
-
 
 निर्मथ्याहमनेन
 
@@ -15945,8 +14561,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 शम्बरं
 
 संयुगे
-
-
 
 प्रत्याहृत्य
 
@@ -15960,11 +14574,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 इति।
-
-
 
 वाचस्पतिः
 
@@ -16006,8 +14616,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 भवतु।
 
-
-
 महेन्द्रः
 
 ---
@@ -16040,29 +14648,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 तृतीयोङ्कः॥
 
-
-
-
-
-
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-
 
 .
 
 ***चतुर्थोङ्कः***।
-
-
-
-
-
-
 
 (
 
@@ -16080,8 +14670,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 रागः
 
 ---(
@@ -16096,15 +14684,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सकलभुवनानामभिजने
 
-
-
 सुते
 
 लक्ष्मीजानेरुचितमनुरक्तासि
 
 सदृशे।
-
-
 
 गुणैस्त्रैणं
 
@@ -16117,8 +14701,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 हृतगर्वं
 
 कृतवती
-
-
 
 कथं
 
@@ -16138,8 +14720,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 हंत
 
 !
@@ -16152,8 +14732,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 हतकः
 
-
-
 स्रजं
 
 हृद्यां
@@ -16162,8 +14740,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कपिरिव॥
 
- 
-
 नृशंसः
 
 सारङ्गी
@@ -16171,8 +14747,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वृकइव
 
 भयोल्लासंनयनां
-
-
 
 जहार
 
@@ -16187,8 +14761,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 2
 
 ॥
-
-
 
 मुदिता
 
@@ -16224,15 +14796,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पसवव्वहाए
 
- 
-
 आहो
 
 विवढ्ढणकिदस्स
 
 पलिस्समस्स॥
-
-
 
 अच्चभ्भुदस्स
 
@@ -16241,8 +14809,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तुह
 
 कीलिअस्स
-
-
 
 हा
 
@@ -16261,8 +14827,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ॥
 
 \(1\)
-
-
 
 सख्यौ
 
@@ -16283,8 +14847,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ॥
-
- 
 
 उक्कंठि
 
@@ -16324,8 +14886,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 रागः
 
 ---(
@@ -16342,8 +14902,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 विततगेहोपकरणं
 
-
-
 समन्ताद्दाम्पत्योचितमभिदधाना
 
 बहुविधम्
@@ -16351,8 +14909,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ॥
-
- 
 
 अकस्मात्प्राप्ते
 
@@ -16363,8 +14919,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 नु
 
 जननि
-
-
 
 ह्रिया
 
@@ -16385,8 +14939,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 5
 
 ॥
-
-
 
 मुदिता
 
@@ -16410,8 +14962,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 एसा
 
 सुअवाणीदे
@@ -16430,13 +14980,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(3\)
 
-
-
 सख्यौ
 
 ----
-
-
 
 पुढमं
 
@@ -16451,8 +14997,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ॥
-
-
 
 पेख्खिअ
 
@@ -16484,8 +15028,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 पुरोहितः
 
 ---
@@ -16514,8 +15056,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 रागः
 
 ---(
@@ -16541,8 +15081,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 आकाशयानेन
 
 -)
-
-
 
 चारणः
 
@@ -16572,8 +15110,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 प्रणमामि।
 
-
-
 रागः
 
 --
@@ -16596,8 +15132,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 चारणः
 
 ---
@@ -16614,8 +15148,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 रागः
 
 ---
@@ -16623,8 +15155,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 अप्यस्ति
 
 प्रमोदवृत्तान्तः।
-
-
 
 चारणः
 
@@ -16674,15 +15204,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 रागः
 
 --
 
 ततस्ततः।
-
-
 
 चारणः
 
@@ -16702,19 +15228,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 भगवानधिरूढबर्हिः
 
-
-
 षङ्भिर्भुजैर्द्विगुणितैर्विधृतोग्रहेतिः।
-
-
 
 सेनाधिपः
 
 सरभसं
 
 सहपारिषद्यः
-
-
 
 शक्त्रं
 
@@ -16723,8 +15243,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 8
 
 ॥
-
-
 
 रागः
 
@@ -16748,8 +15266,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ततस्ततः।
 
-
-
 चारणः
 
 ---
@@ -16759,8 +15275,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पुनरहं
 
 प्रथमिकाभिपतदमरासुरवीरचक्षुः
-
-
 
 प्रसरनिरोधित्वङ्गदुत्तुङ्गतुरङ्गखुरपुटाहतधरातटसमुद्धूतधूलीपटलप्रशमनपटुकुम्भिकुम्भविगलन्मदाम्बु
 
@@ -16786,8 +15300,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 भेजे॥
 
-
-
 अवाङ्मुखः
 
 सिंहमुखः
@@ -16812,8 +15324,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 रागः
 
 ---
@@ -16828,8 +15338,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 महात्मना।
 
-
-
 चारणः
 
 ---
@@ -16839,8 +15347,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 मामार्यः
 
 कुमारजयन्तसमीपगमनाय
-
-
 
 रागः
 
@@ -16855,8 +15361,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 को
 
 वृत्तान्तः।
-
-
 
 चारणः
 
@@ -16900,8 +15404,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 पुरोहितः
 
 ----(
@@ -16938,8 +15440,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 हा
 
 वत्से
@@ -16955,8 +15455,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कथं
 
 प्राणिषि
-
-
 
 मुदिता
 
@@ -16975,8 +15473,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 समुप्पणासि
 
 ( 5 )
-
-
 
 सख्यौ
 
@@ -16999,8 +15495,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 संव्वुत्तम्
 
 ‌ ( 6 )
-
-
 
 पुरोहितः
 
@@ -17042,8 +15536,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मयूरिका
 
 ---(
@@ -17066,8 +15558,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(7\)
 
-
-
 रागः
 
 ---(
@@ -17088,8 +15578,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 महेन्द्रेण।
 
-
-
 मयूरिका
 
 ---
@@ -17104,8 +15592,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 8)
 
-
-
 रागः
 
 ---
@@ -17113,8 +15599,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कथमिवैतत्
 
 ‌
-
-
 
 मयूरिका
 
@@ -17150,8 +15634,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 9)
 
-
-
 मुदिता
 
 सख्यौ
@@ -17172,8 +15654,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 10 )
 
-
-
 रागः
 
 ---
@@ -17185,8 +15665,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 भ्रान्तिरेतादृशी
 
 भवत्याः
-
-
 
 मयूरिका
 
@@ -17248,8 +15726,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 रागः
 
 ----(
@@ -17267,8 +15743,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 न
 
 प्रत्येमि
-
-
 
 पुरोहितः
 
@@ -17302,8 +15776,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 लोष्ठमेतत्तथैव॥
 
-
-
 द्यां
 
 क्ष्मां
@@ -17324,8 +15796,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 एकं
 
 नानेदमेवं
@@ -17337,8 +15807,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 हस्ते
 
 विधातुं
-
- 
 
 दुप्प्रापं
 
@@ -17355,8 +15823,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 योगसिद्धेरसाध्यम्
 
 ‌ 10
-
-
 
 मुदिता
 
@@ -17379,8 +15845,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सव्वत्थसाहिआए
 
 \(12\)
-
-
 
 मयूरिका
 
@@ -17452,8 +15916,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(13\)
 
-
-
 रागः
 
 ---
@@ -17482,8 +15944,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌
 
-
-
 मयूरिका
 
 --
@@ -17508,8 +15968,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 सारिका
 
 ---
@@ -17531,8 +15989,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 करेइ
 
 ( 2 )
-
-
 
 रागः
 
@@ -17572,8 +16028,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मन्मथः
 
 ---(
@@ -17583,8 +16037,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सपरितापमात्मगतं
 
 )
-
-
 
 कार्यान्तरव्यग्रतया
 
@@ -17654,8 +16106,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 द्भूयः
 
 संयतबाष्पनिर्भरगलं
@@ -17666,15 +16116,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 उद्गीवप्रपदस्थया
 
 सहचरीदत्तावलम्बं
 
 तया
-
- 
 
 सौधाग्रेस्म
 
@@ -17738,21 +16184,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 मस्राविलेक्षणमवेक्ष्य
 
 सरोरुहाक्षी॥
-
-
 
 साकूतमाह
 
 सहकारतरो
 
 कदानु
-
-
 
 नेत्रोत्सवाय
 
@@ -17763,8 +16203,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 13
 
 ॥
-
-
 
 सा
 
@@ -17790,8 +16228,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 वर्तते
 
- 
-
 यद्वा
 
 जीवति
@@ -17806,8 +16242,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मद्विप्रयोगाकुला॥
 
-
-
 स्मृत्वा
 
 हन्त
@@ -17821,8 +16255,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 दशां
 
 तादृशीं
-
-
 
 यत्सत्यं
 
@@ -17868,15 +16300,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 र्वपुरधिगतस्वेदं
 
 चेदं
 
 स्वरोप्यवसीदति॥
-
-
 
 अहह
 
@@ -17889,8 +16317,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 संप्रत्यनिष्टविशाङ्कि
 
 मे
-
-
 
 हृदयमधुना
 
@@ -17926,8 +16352,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 कोकिलः
 
 ---
@@ -17939,8 +16363,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 दव्वो
 
 ( 1)
-
-
 
 मन्मथः
 
@@ -17976,8 +16398,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 कोकिलकः
 
 ---(
@@ -17998,8 +16418,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 2 )
 
-
-
 मन्मथः
 
 ---(
@@ -18011,8 +16429,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 किङ्कारणमसन्निधाने
 
 तस्य।
-
-
 
 कोकिलकः
 
@@ -18040,8 +16456,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 (3 )
 
-
-
 मन्मथः
 
 ---(
@@ -18056,8 +16470,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कथय।
 
-
-
 कोकिलकः
 
 ---(
@@ -18070,8 +16482,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 याचते।
 
-
-
 मन्मथः
 
 ---
@@ -18079,8 +16489,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 दचाभयोऽसि
 
 यथावृत्तमावेदय।
-
-
 
 कोकिलकः
 
@@ -18103,8 +16511,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पुरिल्लदेव्वापसदेण
 
 \(1\)
-
-
 
 मन्मथः
 
@@ -18132,8 +16538,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 सारथिः
 
 ---
@@ -18145,8 +16549,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 समाश्वसिहि
 
 समाश्वसिहि।
-
-
 
 मन्मथः
 
@@ -18172,8 +16574,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 चक्षुः
 
-
-
 प्राणप्राणः
 
 सुखसुखनिधिः
@@ -18184,8 +16584,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 प्रेमभूम्नः॥
 
-
-
 व्याघ्रस्येव
 
 प्रकृतिकृपणा
@@ -18195,8 +16593,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 देवशत्रो
 
 \-
-
-
 
 र्हस्ते
 
@@ -18213,8 +16609,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 16
 
 ॥
-
-
 
 सारथिः
 
@@ -18233,8 +16627,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 मन्मथः
 
@@ -18264,8 +16656,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌
 
-
-
 खिलीकुर्वन्
 
 ‌
@@ -18280,8 +16670,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
- 
-
 विमोहं
 
 व्यातन्वन्नहह
@@ -18291,8 +16679,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 बहलयन्
 
 ‌
-
-
 
 इयत्तातिक्रान्तः
 
@@ -18307,8 +16693,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 17
 
 ॥
-
-
 
 सारथिः
 
@@ -18333,8 +16717,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सोत्साहतैवायुष्मतोऽधुना
 
 सश्लावा।
-
-
 
 मन्मथः
 
@@ -18366,8 +16748,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 हितस्य
 
 च
@@ -18383,8 +16763,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 18
 
 ॥
-
-
 
 कोकिलक
 
@@ -18408,8 +16786,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 व्यपनेष्यामि।
 
-
-
 कोकिलकः
 
 ----
@@ -18430,8 +16806,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मन्मथः
 
 ---
@@ -18447,8 +16821,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 सारथिः
 
@@ -18492,8 +16864,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
- 
-
 र्युगान्त
 
 इव
@@ -18505,8 +16875,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 हि
 
 झञ्झानिलाः॥
-
-
 
 मन्मथः
 
@@ -18526,8 +16894,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 धनोरनास्फालिता
 
-
-
 विनिःसरति
 
 सत्वरं
@@ -18543,8 +16909,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 19
 
 ॥
-
-
 
 सारथिः
 
@@ -18566,8 +16930,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 र्यथा
 
 चाविर्भूतं
@@ -18575,8 +16937,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 हृदयसुखदैस्तैः
 
 सुशकुनैः॥
-
-
 
 तथा
 
@@ -18595,8 +16955,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 महान्
 
 ‌
-
-
 
 जयः
 
@@ -18634,8 +16992,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 या
 
-
-
 कल्पाभ्रोन्मेषकल्पो
 
 दिवि
@@ -18643,8 +16999,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 यदयमितो
 
 रेणुरुच्चैर्जिहीते॥
-
-
 
 कम्पन्ते
 
@@ -18657,8 +17011,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सस्वर्णरेखाः
 
 पताकाः
-
- 
 
 शङ्के
 
@@ -18673,8 +17025,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 21
 
 ॥
-
-
 
 मन्मथः
 
@@ -18694,8 +17044,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 धनुर्व्यापारस्यावसरः।
 
-
-
 सारथिः
 
 ---(
@@ -18710,8 +17058,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 शरासनमात्रमित्रस्य
 
-
-
 तव
 
 महत्या
@@ -18725,8 +17071,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 शङ्कामङ्कुरयति
 
 मे।
-
-
 
 मन्मथः
 
@@ -18760,8 +17104,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌
 
-
-
 तार्क्ष्यस्यापि
 
 सुधाहृतौ
@@ -18771,8 +17113,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ॥
-
-
 
 पार्थस्याथ
 
@@ -18792,8 +17132,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 नेवं
 
 सम्प्रति
@@ -18811,8 +17149,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 22
 
 ॥
-
-
 
 सारथिः
 
@@ -18844,8 +17180,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 दूरमभिपततीति।
 
-
-
 मन्मथः
 
 ---(
@@ -18870,8 +17204,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मे।
 
-
-
 सारथिः
 
 --(
@@ -18889,8 +17221,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 शम्बरः
 
 )
-
-
 
 शम्बरः
 
@@ -18920,8 +17250,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मनुसरति।
 
-
-
 मन्मथः
 
 ---(
@@ -18942,8 +17270,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 स्थलकमलिनीवोद्गतवती॥
 
-
-
 तरक्षोः
 
 पार्श्वस्थ
@@ -18952,8 +17278,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 हरिणी॥
 
-
-
 तमोलीढा
 
 चान्द्री
@@ -18961,8 +17285,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तनुरिव
 
 कथाशेषविभवा॥
-
- 
 
 न
 
@@ -18977,8 +17299,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 23
 
 ॥
-
-
 
 अपि
 
@@ -18995,8 +17315,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 रथस्थं
 
 पुरः॥
-
-
 
 सोल्लासं
 
@@ -19016,8 +17334,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 यत्र्रासेन
 
 च
@@ -19033,8 +17349,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 नो
 
 मोदते॥
-
-
 
 जाने
 
@@ -19072,15 +17386,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सरुषः
 
-
-
 सटादर्पादुत्पाटयसि
 
 सहसा
 
 कुञ्जररिपोः॥
-
- 
 
 असेर्धारां
 
@@ -19094,8 +17404,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 मिमां
 
 यत्तन्वङ्गीमपहरसि
@@ -19107,8 +17415,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 25
 
 ॥
-
-
 
 शंबरः
 
@@ -19174,8 +17480,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 क्षमामवतरावः।
 
-
-
 मन्मथः
 
 ---(
@@ -19232,8 +17536,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 नारदः
 
 --(
@@ -19256,13 +17558,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 द्वयेनामुना॥
 
-
-
 सुरासुरधनुर्भृतां
 
 समरसाहसैरद्भुतैः॥
-
- 
 
 रमेशपरमेशयोरथ
 
@@ -19273,8 +17571,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कीर्तना
 
 \-
-
-
 
 दपास्त
 
@@ -19287,8 +17583,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 26
 
 ॥
-
-
 
 शिष्यः
 
@@ -19312,8 +17606,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(1\)
 
-
-
 नारदः
 
 ---(
@@ -19334,8 +17626,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मायाहरेर्विक्रमः॥
 
-
-
 सन्नाहोथ
 
 पुरत्रयं
@@ -19343,8 +17633,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रदहतस्तत्तादृशो
 
 धूर्जटेः॥
-
-
 
 संरम्भोप
 
@@ -19362,8 +17650,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ---
 
-
-
 स्तारायाश्च
 
 कृते
@@ -19378,15 +17664,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 27
 
-
-
 अन्येषामप्यसंख्यातानि
 
 लोकप्रवीराणां
 
 रणापन्नानि।
-
-
 
 शिष्यः
 
@@ -19408,8 +17690,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 1 )
 
-
-
 नारदः
 
 --
@@ -19428,8 +17708,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 वाक्कलिं
 
- 
-
 प्रक्रान्तं
 
 सहसा
@@ -19439,8 +17717,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वा
 
 भक्ष्योत्सुकैर्बालकैः
-
-
 
 उक्ष्णो
 
@@ -19454,15 +17730,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 न्पश्यन्निर्वृतमानसोनवरतं
 
 हिण्डे
 
 महीमण्डले
-
-
 
 शिष्यः
 
@@ -19487,8 +17759,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पकिदी।
 
 ( 2)
-
-
 
 नारदः
 
@@ -19521,8 +17791,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 मे
 
 मनोरथः।
-
-
 
 शिष्यः
 
@@ -19566,8 +17834,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(3\)
 
-
-
 नारदः
 
 ---
@@ -19587,8 +17853,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 जेतव्य
 
 इति।
-
-
 
 पशुतिर्यङ्नरसुरासुरव्यामोहकारिणि॥
 
@@ -19626,17 +17890,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 बृंहितप्रौढिफक्कं
 
-
-
 दिक्कम्पोच्चण्डशुण्डाविधुतिसरभसा
 
 मोटितव्योमयानं॥
 
-
-
 तिर्यग्दन्ताभिघातप्रकटितबहलश्वभ्रमभ्रेष्वदभ्रं
-
-
 
 वप्रक्रीडां
 
@@ -19647,8 +17905,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रोन्नदन्ति
 
 30
-
-
 
 शिष्यः
 
@@ -19678,11 +17934,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 धारालोद्दारितक्ष्मातलचलितरजोरुद्धरोदोन्तरालाः॥
-
-
 
 हेषापोषान्विशेषादहह
 
@@ -19691,8 +17943,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सादिभिश्चाधिरूढै
 
 \-
-
-
 
 रर्वन्तः
 
@@ -19708,8 +17958,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌ 31
 
-
-
 नारदः
 
 --
@@ -19722,8 +17970,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सारथ्यमातन्वतः
 
- 
-
 स्वच्छायातुरगातिपातरभसा
 
 प्रोत्साहिभिः
@@ -19734,13 +17980,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 उत्सार्थद्वलनोच्चलद्ध्वजलता
 
 संरुद्धपूषाध्वनः
-
-
 
 संक्रीडच्चरणा
 
@@ -19753,8 +17995,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 स्यन्दनान्
 
 ‌ 32
-
-
 
 शिष्यः
 
@@ -19782,8 +18022,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 तटं
 
-
-
 प्रोन्मूलच्छतचन्द्रनिह्नुतमहः
 
 शस्त्रान्धकारोदयम्
@@ -19792,13 +18030,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 व्यावल्गत्तरवारिवारितपरं
 
 प्रक्रान्तचक्रभ्रमः
-
-
 
 क्रीडद्भिः
 
@@ -19848,8 +18082,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 1 )
 
-
-
 नारदः
 
 ---
@@ -19876,8 +18108,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 रश्वान्
 
 ‌
@@ -19889,8 +18119,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 क्रोधदीप्तः॥
-
-
 
 सप्रासङ्गान्
 
@@ -19908,8 +18136,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मार्गणैर्मार्गहेतोः
 
- 
-
 पूषा
 
 पाथोदवृन्दादिव
@@ -19919,8 +18145,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 शम्बरारिः
 
 34
-
-
 
 क्षणेनानेनेदानीम्
 
@@ -19932,21 +18156,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 मज्जान्त्रोच्चयविस्रगन्धिरुधिरस्रोतस्विनीदुस्तरम्
 
 ‌
 
 ॥
 
- 
-
 तृप्यद्गृध्रसृगालकङ्ककरटं
 
 नृत्यत्कबम्धोल्बणं
-
-
 
 दृप्यत्प्रेतपिशाचडाकिनिगणं
 
@@ -19955,8 +18173,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 रणप्राङ्गणम्
 
 ‌ 35
-
-
 
 शिष्यः
 
@@ -20000,8 +18216,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 2 )
 
-
-
 नारदः
 
 ---
@@ -20038,13 +18252,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 म्निद्रैर्धूमभरैरिव
 
 प्रचरतैर्निलाश्मशैलैरिव॥
-
-
 
 पातालादिव
 
@@ -20053,8 +18263,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सुररिपुव्रातैः
 
 समन्तादिदं
-
-
 
 मुष्णाद्भिः
 
@@ -20065,8 +18273,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 गाढान्धकारैर्जगत्
 
 ‌ 36
-
-
 
 शिष्यः
 
@@ -20108,8 +18314,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 1 )
 
-
-
 नारदः
 
 ---
@@ -20134,8 +18338,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सरित्परिसरित्कासारवापीगतं
 
-
-
 गूढानां
 
 दिननायकाश्ममहसां
@@ -20144,15 +18346,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 करैः॥
 
-
-
 ध्वस्तध्वान्तभराः
 
 क्षणेन
 
 भुवनक्षोभंकरप्रक्रियाः
-
-
 
 पश्योद्यन्ति
 
@@ -20165,8 +18363,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 37
 
 ॥
-
-
 
 शिष्यः
 
@@ -20206,13 +18402,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 र्न्यग्भूतोन्मदकुम्भिवृंहितभरं
 
 गर्जाभिरूर्जस्वलाः॥
-
-
 
 उत्केकारवमीक्षिताः
 
@@ -20221,8 +18413,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विद्युता
 
 \-
-
- 
 
 मुद्योतैः
 
@@ -20235,8 +18425,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 38
 
 ॥
-
-
 
 नारदः
 
@@ -20284,8 +18472,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 घुर्णयन्तः
 
-
-
 प्रासादान्
 
 ‌
@@ -20294,8 +18480,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 शिखरिकुलमिहामन्दमान्दोलयन्तः॥
 
-
-
 धूलीबिर्दूषयन्तः
 
 सकलमपि
@@ -20303,8 +18487,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 जगत्तूलविद्रावमेता
 
 \-
-
-
 
 नब्दान्विद्रावयन्तो
 
@@ -20315,8 +18497,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 39
 
 ॥
-
-
 
 शिष्यः
 
@@ -20370,8 +18550,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 1 )
 
-
-
 नारदः
 
 ---
@@ -20392,17 +18570,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सुरपथप्रोल्लङ्घ्रिशृङ्गच्छटा
 
-
-
 निर्यन्निर्झरिणी
 
 निपातरभसोत्खातप्रयाताश्मभिः॥
 
-
-
 पातालप्रतिमल्लगव्हरदरीनिप्पीतवातैश्चितं
-
-
 
 लोकं
 
@@ -20419,8 +18591,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 40
 
 ॥
-
-
 
 शिष्यः
 
@@ -20464,8 +18634,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 2 )
 
-
-
 नारदः
 
 ---(
@@ -20492,21 +18660,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 हेलविक्षतपक्षतिक्षरदसृग्धाराप्रकारोल्बणं
 
-
-
 दीर्यच्छृङ्गसहस्रकीर्यदुपलं
 
 प्रच्छिन्नभिन्नाद्रयः॥
-
-
 
 निर्घातैर्बाधिरीकृतं
 
 श्रुतिपुटालोकस्य
 
 लोकच्छिदः
-
-
 
 स्वर्धाम्ना
 
@@ -20519,8 +18681,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 41
 
 ॥
-
-
 
 शिष्यः
 
@@ -20558,8 +18718,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 1 )
 
-
-
 नारदः
 
 ---
@@ -20571,8 +18729,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 बिभीहि।
 
 भोगत्रोटनचञ्चुचञ्चुशिखरैर्निष्ट्यूतचंचत्फणा॥
-
-
 
 रत्नैर्यत्नलवं
 
@@ -20591,8 +18747,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 42
 
 ॥
-
-
 
 शिष्यः
 
@@ -20618,8 +18772,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 2 )
 
-
-
 नारदः
 
 ---
@@ -20627,8 +18779,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वत्सैवं
 
 व्युत्पद्यस्व।
-
-
 
 शिष्यः
 
@@ -20656,8 +18806,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(3\)
 
-
-
 नारदः
 
 ---
@@ -20673,8 +18821,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 श्रितमायो
 
 मन्मथः।
-
-
 
 शिष्यः
 
@@ -20700,8 +18846,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 4 )
 
-
-
 नारदः
 
 ---
@@ -20715,8 +18859,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 निर्घृणतरो
 
 व्याघ्रस्तमुग्राकृतिः॥
-
-
 
 शिष्यः
 
@@ -20736,8 +18878,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ( 5)
 
-
-
 नारदः
 
 --
@@ -20754,23 +18894,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 43
 
-
-
 अपि
 
 च।
 
 युगपदुपात्तदैत्यकुलनांथविरोचनभू
 
-
-
 खलचूरिभूपपङ्क्तिमुखभौमशरीरममुम्
 
 ‌
 
 ॥
-
-
 
 दमयति
 
@@ -20782,15 +18916,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 रव
 
-
-
 द्बटुभृगुसूनुदाशरथिशौरिवपुर्मदनः॥
 
 44
 
 ॥
-
-
 
 शिष्यः
 
@@ -20828,8 +18958,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(1\)
 
-
-
 नारदः
 
 --
@@ -20843,8 +18971,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तैरपि
 
 मयमारीचमेघनादमुखैर्मायाविभिः।
-
-
 
 शिष्यः
 
@@ -20879,8 +19005,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विअअवच्चासा
 
 \(2\)
-
-
 
 नारदः
 
@@ -20920,8 +19044,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पत्तिमूढस्तिष्ठति।
 
-
-
 शिष्यः
 
 --(
@@ -20960,8 +19082,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 शिष्यः
 
 ---(
@@ -20989,8 +19109,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सुणीअदि
 
 \(1\)
-
-
 
 नारदः
 
@@ -21022,8 +19140,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 शम्बरमवपात्य
 
 रथात्स्वरथे
@@ -21038,15 +19154,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 45
 
-
-
 तदेष
 
 द्युसदां
 
 महोत्सवसमारम्भः।
-
-
 
 शिष्यः
 
@@ -21075,8 +19187,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 मीणकेदणो
 
 \(2\)
-
-
 
 नारदः
 
@@ -21114,8 +19224,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 इति
 
 जगन्नाथपण्डितकृतौ
@@ -21130,29 +19238,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
-
-
-
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-
 
 .
 
 ***पञ्चमोऽङ्कः***
-
-
-
-
-
-
 
 (
 
@@ -21174,8 +19264,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 यथा।
 
-
-
 उच्छ्रीयन्तां
 
 पताकाः
@@ -21183,8 +19271,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रतिभवनमधिद्वारदेशं
 
 कदल्यो
-
-
 
 बध्यन्तां
 
@@ -21198,8 +19284,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 रथ्याः
 
 सर्वाः
@@ -21209,8 +19293,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 भेर्य्य
 
 \-
-
-
 
 स्ताड्यन्तां
 
@@ -21248,8 +19330,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 मन्मथः
 
 ---
@@ -21286,8 +19366,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 कण्ठासञ्जितदोर्लतं
 
 परिगलत्सव्यानचेलाञ्चलम्
@@ -21296,15 +19374,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 गाढारोपितनिर्भरोन्नतकुचं
 
 भूयो
 
 भिलत्संभ्रमम्।
-
-
 
 श्लिष्यन्ती
 
@@ -21320,15 +19394,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 1
 
-
-
 अतश्च।
 
 रोमाञ्चितावयवमञ्चितघर्मवारि
 
 \-
-
-
 
 विध्वस्तधैर्यमितरस्वविवेकशून्यम्
 
@@ -21336,11 +19406,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 आनन्दवारिधितरङ्गविगाह्यमानं
-
-
 
 चेतो
 
@@ -21380,8 +19446,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 रस्त्रैस्तैरलकैर्मुखेन
 
 विरलच्छायेन
@@ -21390,15 +19454,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 गाचेणातितरां
 
 प्रवांतकदलीमित्रेण
 
 नेत्रश्रिया
-
-
 
 त्रस्तैणार्भकलोलया
 
@@ -21422,8 +19482,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌)
 
-
-
 सुतनो
 
 समाश्वसिहि
@@ -21443,8 +19501,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तव
 
 त्रासाशङ्का।
-
-
 
 मायावती
 
@@ -21542,8 +19598,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(1\)
 
-
-
 मन्मथः
 
 ---
@@ -21571,8 +19625,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 मायावती
 
@@ -21654,8 +19706,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(2\)
 
-
-
 मन्मथः
 
 ---(
@@ -21694,8 +19744,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सैवाननेन्दोरियं।
 
- 
-
 नेत्राम्भोरुहयोस्तदेव
 
 सरसं
@@ -21707,8 +19755,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ॥
-
-
 
 प्रेमार्द्र
 
@@ -21723,8 +19769,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 जाने
 
 परं।
-
-
 
 सैव
 
@@ -21749,8 +19793,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 6
 
 ॥
-
-
 
 अथवा।
 
@@ -21874,8 +19916,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 सर्वार्थसाधिका
 
 --(
@@ -21894,8 +19934,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 कलितमनयोः
 
 प्राप्ता
@@ -21906,8 +19944,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 निराकृता॥
 
-
-
 परिणयविर्धि
 
 निर्वर्त्यैकं
@@ -21917,8 +19953,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 शिष्टमथो
 
 पुनः
-
-
 
 पदसरसिजं
 
@@ -21931,8 +19965,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 7
 
 ॥
-
-
 
 मन्मथः
 
@@ -21950,8 +19982,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌)
 
-
-
 अहो
 
 महानुभाव्यं
@@ -21967,8 +19997,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 चेतोवृत्तिः
 
 प्रसन्नगम्भीरा॥
-
-
 
 तुलनातीतामूर्त्तिस्तेजस्विनामपि
 
@@ -21994,8 +20022,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 प्रियारूपसंवादिनीमाकृतिं
 
-
-
 बिभ्रती
 
 भगवत्याः
@@ -22016,8 +20042,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 सैवेयमभव
 
-
-
 द्विभिन्ने
 
 वै
@@ -22029,8 +20053,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 जगति
 
 जयतोन्योन्यसदृशौ॥
-
-
 
 प्रियया
 
@@ -22047,8 +20069,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कापि
 
 घटते
-
- 
 
 प्रियाभूते
 
@@ -22068,8 +20088,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 कुतो
 
 वा
@@ -22086,8 +20104,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 एव।
 
-
-
 रतिः
 
 --(
@@ -22103,8 +20119,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 दिठ्ठिआ
 
 लध्धविअओ
-
-
 
 एस
 
@@ -22178,8 +20192,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 संचितैः
 
-
-
 प्राप्तः
 
 किं
@@ -22200,8 +20212,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मामकं
 
-
-
 अभ्याशे
 
 घटते
@@ -22213,8 +20223,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 वा
 
 पश्यतो
-
-
 
 जाने
 
@@ -22237,8 +20245,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विस्मयस्तिमितावतिष्टते
 
 )
-
-
 
 मायावती
 
@@ -22344,8 +20350,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(2\)
 
-
-
 सख्यौ
 
 ----(
@@ -22400,8 +20404,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(2\)
 
-
-
 रागः
 
 ---(
@@ -22432,8 +20434,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कुमारः।
 
-
-
 मुदिता
 
 ---(
@@ -22461,8 +20461,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सरभसमुत्थातुमिच्छतः
 
 )
-
-
 
 रतिः
 
@@ -22496,8 +20494,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 वशिनी
 
 ---(
@@ -22513,8 +20509,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 व्यामोहानुवृत्तिर्विदितमायावती
 
 निर्माणवृत्तान्तानामपि।
-
-
 
 सर्वार्थसाधिका
 
@@ -22540,8 +20534,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 हृदयं
 
 मे
@@ -22561,8 +20553,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 11
 
 ॥
-
-
 
 मन्मथः
 
@@ -22600,8 +20590,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मन्मथः।
 
-
-
 सर्वार्थसाधिका
 
 ---
@@ -22609,8 +20597,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 अभिमतेन
 
 युज्यस्व।
-
-
 
 मायावती
 
@@ -22625,8 +20611,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 करेमि
 
 \(4\)
-
-
 
 सर्वार्थसाधिका
 
@@ -22668,8 +20652,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 रागः
 
 ---
@@ -22686,8 +20668,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 मुदिता
 
 ---
@@ -22699,8 +20679,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 भवन्ता
 
 \(1\)
-
-
 
 सर्वार्थसाधिका
 
@@ -22730,8 +20708,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 दुहितैव।
 
-
-
 मन्मथः
 
 --(
@@ -22752,8 +20728,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मयि।
 
-
-
 रतिः
 
 ---(
@@ -22773,8 +20747,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 भअवईए
 
 \(2\)
-
-
 
 रागः
 
@@ -22806,8 +20778,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मुदिता
 
 --
@@ -22834,8 +20804,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 सर्वार्थसाधिका
 
 ---(
@@ -22858,8 +20826,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 रतिः
 
 ---(
@@ -22873,8 +20839,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सकाशमुपनयति
 
 )
-
-
 
 मन्मथः
 
@@ -22898,8 +20862,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 र्भवेतां
 
 वा
@@ -22912,8 +20874,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 पुनरिमे।
 
-
-
 सहताभ्यां
 
 रात्रावपि
@@ -22921,8 +20881,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कुसुमतल्पं
 
 श्रितवतो
-
-
 
 भवेत्स्वैरं
 
@@ -22933,8 +20891,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 12
 
 ॥
-
-
 
 मायावती
 
@@ -22972,8 +20928,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(1\)
 
-
-
 सर्वार्थसाधिका
 
 --(
@@ -22992,8 +20946,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 वरमर्हति।
 
-
-
 रागः
 
 --
@@ -23001,8 +20953,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 यदादिशति
 
 भगवती।
-
-
 
 मुदिता
 
@@ -23017,8 +20967,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पिअसहोए
 
 \(2\)
-
-
 
 सर्वार्थसाधिका
 
@@ -23042,8 +20990,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 रतिः
 
 ---(
@@ -23065,8 +21011,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 जणो
 
 \(3\)
-
-
 
 सख्यौ
 
@@ -23094,8 +21038,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \(4\)
 
-
-
 मन्मथः
 
 --(
@@ -23120,8 +21062,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 मायावती
 
 ---
@@ -23139,8 +21079,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 णिम्मिदी।
 
 \(5\)
-
-
 
 मन्मथः
 
@@ -23162,23 +21100,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 \-
 
-
-
 त्यंसन्यस्तकपोलमन्तिकजुषः
 
 सख्याश्चिरं
 
 तस्थुषी।
 
-
-
 निर्येक्संवलितेन
 
 किंचिदरुणप्रान्तेन
 
 भुग्नभ्रुवा
-
-
 
 वामाक्ष्णाद्य
 
@@ -23192,15 +21124,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌ 13
 
-
-
 किंच।
 
 अरालभ्रूवल्लिस्तिमिततरतारं
 
 विवलितं
-
- 
 
 तिरःशोणां
 
@@ -23214,15 +21142,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 स्वपार्श्वस्थामेतां
 
 प्रतकिरति
 
 चक्षुर्वरतनुः।
-
-
 
 सपत्न्यां
 
@@ -23237,8 +21161,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 14
 
 ॥
-
-
 
 अथाप्यवशो
 
@@ -23262,8 +21184,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 तीर्णप्रवासं
 
-
-
 कथमपि
 
 न
@@ -23271,8 +21191,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कृशाङ्गी
 
 हर्षमाविष्करोति।
-
-
 
 तदपि
 
@@ -23283,8 +21201,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 मे
 
 दूरगूढोयमस्या
-
- 
 
 मनसि
 
@@ -23299,8 +21215,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 15
 
 ॥
-
-
 
 सर्वार्थसाधिका
 
@@ -23348,8 +21262,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 भवद्भिरिति।
 
-
-
 वशिनी
 
 ---
@@ -23383,8 +21295,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 प्रहितोयमाप्तः
 
 पुरुषः।
-
-
 
 पुरुषः
 
@@ -23439,8 +21349,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 रतिमायावत्योः
 
 करग्रहमङ्गलमिति।
-
-
 
 सर्वार्थसाधिका
 
@@ -23524,8 +21432,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 इति।
 
-
-
 मन्मथः
 
 ---
@@ -23545,8 +21451,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सहनिष्क्रान्तः
 
 )
-
-
 
 रतिमायावत्यौ
 
@@ -23606,8 +21510,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 सर्वार्थसाधिका
 
 ---(
@@ -23625,8 +21527,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पडिनमङ्गले
 
 कल्याण्याविन्द्रसेनादेवसेन।
-
-
 
 वशिनी
 
@@ -23656,8 +21556,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 इति।
 
-
-
 सर्वार्थसाधिका
 
 ---
@@ -23671,8 +21569,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 विधौ
 
 त्वराति
-
-
 
 रेकः।
 
@@ -23702,8 +21598,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 उभौ
 
 ---(
@@ -23724,15 +21618,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 अपि
 
 कुशलमत्र
 
 भवयै।
-
-
 
 सर्वार्थसाधिका
 
@@ -23780,8 +21670,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 नेपथ्ये
 
 (
@@ -23800,8 +21688,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कीर्तिते।
 
-
-
 शैलेन्द्रेण
 
 निजान्वयेथ
@@ -23818,8 +21704,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 वक्तुं
 
 मौनजुषा
@@ -23831,8 +21715,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 तदा
 
 सस्मितैः
-
-
 
 सर्वैरप्युररीकृतं
 
@@ -23847,8 +21729,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 16
 
 ॥
-
-
 
 वशिनी
 
@@ -23882,8 +21762,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌)
 
-
-
 द्वितीयः
 
 ----
@@ -23894,8 +21772,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 स्वेदोदबिन्दूपमा
 
-
-
 न्यस्ता
 
 मूर्ध्नि
@@ -23904,15 +21780,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 हिमांशुमभितस्तारानुकारास्ततः।
 
-
-
 कीर्णाश्चाथ
 
 समन्ततः
 
 सुरकरोन्मुक्तप्रसूनायिता
-
-
 
 मुक्ताः
 
@@ -23927,8 +21799,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 17
 
 ॥
-
-
 
 सर्वार्धसाधिका
 
@@ -23955,8 +21825,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पुनर्नेपथ्ये
 
 )
-
-
 
 अत्र
 
@@ -23995,8 +21863,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 सर्वार्थसाधिका
 
@@ -24042,8 +21908,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मन्मथः
 
 ---(
@@ -24061,8 +21925,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 शुभाङ्कुरोद्गतिरवग्रहोनन्तरं
 
 तदुन्मेषे॥
-
- 
 
 पुनरपि
 
@@ -24082,8 +21944,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 सर्वार्थसाधिका
 
 ---(
@@ -24097,8 +21957,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 स्वगतम्
 
 ‌)
-
-
 
 अयंहि।
 
@@ -24114,8 +21972,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 स्मरः॥
 
-
-
 प्रतिभाति
 
 सुधामूर्तिः
@@ -24127,8 +21983,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 19
 
 ॥
-
-
 
 मन्मथः
 
@@ -24145,8 +21999,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 पादावुपसंगृण्हाति
 
 )
-
-
 
 सर्वार्थसाधिकाः
 
@@ -24182,8 +22034,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 वत्से
 
 युवां
@@ -24202,8 +22052,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 मन्मथः
 
 ---
@@ -24219,8 +22067,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 गर्भरूपेषु
 
 भमवत्या।
-
-
 
 सर्वार्थसाधिका
 
@@ -24248,8 +22094,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 इति।
 
-
-
 मन्मथः
 
 ----(
@@ -24265,8 +22109,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 किमन्यदितोप्याशास्यमस्य
 
 जनस्य।
-
-
 
 सर्वार्थसाधिका
 
@@ -24334,8 +22176,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मन्मथः
 
 ---(
@@ -24361,8 +22201,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 दिनकराद्यपि
 
 तेजः।
-
-
 
 अभ्यबावि
 
@@ -24408,8 +22246,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 देवी
 
 ----(
@@ -24423,8 +22259,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 स्वगतम्
 
 ‌)
-
-
 
 निर्व्यूढास्मन्निदेशा
 
@@ -24456,8 +22290,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 मन्मथः
 
 ---(
@@ -24478,15 +22310,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 बहलमुदयद्भिर्विदधती
 
-
-
 समुन्मीलद्बालातपमिवहरिच्चक्रमखिलम्
 
 ‌
 
 ॥
-
-
 
 दधाना
 
@@ -24497,8 +22325,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ललिताम्बातिललितम्
 
 ‌
-
-
 
 ममेदानींदिष्ट्या
 
@@ -24512,8 +22338,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 अये
 
 चरितार्थोस्मितरां।
@@ -24526,23 +22350,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
 मयि
 
 स्मेरस्मेरानमृतलहरीपूरशिशिराम्
 
 ‌
 
- 
-
 विधुन्वानांस्तापत्रितयमपि
 
 लोकस्य
 
 जननी।
-
-
 
 दयाधारातुङ्गाननुकलमपाङ्गान्विकिरति॥
 
@@ -24568,8 +22386,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 सर्वार्थसाधिका
 
 ----(
@@ -24588,8 +22404,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 कुमारमन्मथोभिवादयते।
 
-
-
 देवी
 
 ---
@@ -24601,8 +22415,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 सर्वार्थसाधिका
 
@@ -24620,8 +22432,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 श्रीमाता।
 
-
-
 प्रन्मथः
 
 ---(
@@ -24634,8 +22444,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 जय
 
 सर्वलोकमातर्जय
@@ -24643,8 +22451,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 कामेशाङ्कसङ्गते
 
 त्रिपुरे।
-
- 
 
 जय
 
@@ -24726,8 +22532,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 परिचितनवयौवने
 
 देवि
@@ -24803,8 +22607,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 2
 
 ॥
-
-
 
 निरवधिमहिमाद्भुते
 
@@ -24893,8 +22695,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 3
 
 ॥
-
-
 
 शरणमुपगतस्तवायं
 
@@ -24992,8 +22792,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 धनुष्मत्यै॥
 
-
-
 पुररिपुणा
 
 पतिमत्यै
@@ -25018,8 +22816,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 विना
 
-
-
 मितंपचमुपाश्रयेत्क
 
 इव
@@ -25032,8 +22828,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 जरामरणधिस्मरे
 
 सति
@@ -25041,8 +22835,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सुधारसे
 
 संनिधौ
-
-
 
 जनः
 
@@ -25068,8 +22860,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 देवी
 
 ---(
@@ -25083,8 +22873,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 किमाशास्यं
 
 तव।
-
-
 
 मन्मथः
 
@@ -25108,8 +22896,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मन्दस्मितालंकृतं
 
-
-
 वत्क्रे
 
 सान्द्रदयं
@@ -25128,8 +22914,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 पादाब्जे
 
 मृदुलं
@@ -25137,8 +22921,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 सशोणवसनं
 
 बन्धूकबन्धूप्रभं
-
-
 
 रूपंतावकमम्ब
 
@@ -25154,8 +22936,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ॥
 
-
-
 देवी
 
 ----
@@ -25169,8 +22949,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 स्वनियोगमशूत्यं
 
 कुरु।
-
-
 
 मन्मथः
 
@@ -25186,8 +22964,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 गमितोस्मि।
 
-
-
 देवी
 
 ---
@@ -25199,8 +22975,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 भूयः
 
 प्रियमादिशामि।
-
-
 
 मन्मथः
 
@@ -25228,8 +23002,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 शरै
 
-
-
 र्मायावी
 
 स
@@ -25243,8 +23015,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 रणं
 
 शायितः॥
-
-
 
 एकां
 
@@ -25260,8 +23030,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 मायावती
 
-
-
 त्वत्सान्निध्यजुषोद्य
 
 तन्मम
@@ -25272,8 +23040,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 28
 
-
-
 तथापीदमस्तुभरत
 
 वाक्यम्
@@ -25281,8 +23047,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 ‌
 
 ।
-
-
 
 भरत
 
@@ -25300,15 +23064,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 धार्मिकाः
 
-
-
 स्वैरोन्मीलितसस्यजातसुभगं
 
 वर्षन्तु
 
 वर्षाम्बुदाः॥
-
-
 
 धीरोदारसुधीगृहेषु
 
@@ -25317,8 +23077,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 बध्नातु
 
 पझालया
-
- 
 
 चातुर्वर्ण्यमपि
 
@@ -25344,8 +23102,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 )
 
-
-
 इत्यङ्कः
 
 पञ्चमः॥
@@ -25358,19 +23114,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ।
 
-
-
-
-
-
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-
 
 .
 

@@ -13,11 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5MzgwNTYyNjk
 
 \[
 
-
-
     ॥ ***उदाहरणपद्यानि*** ॥
-
-
 
 अगाधं परितः पूर्णमालोक्य स महार्णवम्‌ ।  
 हृदयं रामभद्रस्य सस्मार पवनात्मजः ॥1॥
@@ -782,11 +778,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5MzgwNTYyNjk
 वेधा विधाय पुनरुक्तमिवेन्दुबिम्बं  
 दूरीकरोति न कथं विदुषां वरेण्यः ॥229॥
 
-
-
-
-
  \*\*\*\*\*\*\*\*\*\*\*\*
-
 
 \]

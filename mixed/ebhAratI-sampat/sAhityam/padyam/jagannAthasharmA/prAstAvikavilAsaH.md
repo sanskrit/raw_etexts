@@ -13,11 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyNzE0NjAzMDQ
 
 \[
 
-
-
       ***प्रास्ताविकविलासः***
-
-
 
 दिगन्ते श्रूयन्ते मदमलिनगण्डाः करटिनः  
 करिण्यः कारुण्यास्पदमसमशीलाः खलु मृगाः ।  
@@ -486,11 +482,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyNzE0NjAzMDQ
 खण्डितानेत्रकञ्जालिमञ्जुरञ्जनपण्डिताः ।  
 मण्डिताखिलदिक्‌ प्रान्ताश्चण्डांशोः पान्तु भानवः ॥122॥
 
-
-
-
-
  \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 
 \]

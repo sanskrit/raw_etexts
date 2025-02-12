@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MDE4MTg4Nzg
 
 \[
 
-
-
 ***कलिविडम्बनम्***
-
-
-
-
 
 न भेतव्यं न बोद्धव्यं न श्राव्यं वादिनो वचः ।  
 झटिति प्रतिवक्तव्यं सभासु विजिगीषुभिः ॥ १ ॥
@@ -358,11 +352,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MDE4MTg4Nzg
 कविना नीलकण्ठेन कलेरेतद्विडम्बनम् ।  
 रचितं विदुषां प्रीत्यै राजास्थानानुमोदनम् ॥ १०२ ॥
 
-
-
-
 इति नीलकण्ठविरचितं कलिविडम्बनं संपूर्णम्  
-
-
 
 \]
