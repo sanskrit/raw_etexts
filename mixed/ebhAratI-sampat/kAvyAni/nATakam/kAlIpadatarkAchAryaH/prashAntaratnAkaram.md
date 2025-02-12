@@ -16,18 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxODQwODkxNTM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 *Sanskrit Sahitya Parishad Senes No 22*
 
 **PRAŚĀNTA=RATNĀKARAM**
@@ -51,8 +39,6 @@ SANSKRIT SAHITYA PARISHAD
 **_(Shyambazar, Calcutta)**  
 1939
 
-
-
 **संस्कृत-साहित्य-परिषद्-ग्रन्थमालायाम् २२तम– संख्या**  
 —————————————————————
 
@@ -74,8 +60,6 @@ SANSKRIT SAHITYA PARISHAD
 
 मूल्यम्—**परिषत् सदस्यानाम्—111० द्वादशानकम्  
 अन्येषाम्—१५ रूप्यकमात्रम्**
-
-
 
 कलिकाताराजकीयसंस्कृतमहाविद्यालयाध्यापक-  
 **श्रीयुक्तकालीपद- तर्काचार्यप्रणीत-ग्रन्थमाला**
@@ -126,8 +110,6 @@ SANSKRIT SAHITYA PARISHAD
 
 **अप्रकाशिताना नेह नामानि समुल्लिख्यन्ते।**
 
-
-
  विविधविद्यापारावारपारङ्गम-विश्वविश्रुतकीर्त्तिप्रतान बहुविधवाणीप्रवचनप्रवीणमहोदारचरित-एम् ए पि-एइच् डि (कलिकाता), पि-एइच् डि (केम्ब्रिज्), एफ् आर् एस् एल् (इ लण्ड), एफ् ए एस् (ओयार्स), डि लिट् (रोम), आइ इ एस्, दर्शनवागीश-सर्वविद्यारत्नाकर-दर्शनाचार्य दर्शनवाचस्पति-प्रभृतिनानाविरुदभाजन-कलिकाता-राजकीय संस्कृतमहाविद्यालयाध्यक्ष वङ्गीयसस्कृत-परीक्षासमिति- मन्त्रिप्रवर-श्रीयुक्त-सुरेन्द्रनाथदासगुप्त-महोदयेभ्य
 
 **उत्सर्गपत्रम्**
@@ -154,8 +136,6 @@ SANSKRIT SAHITYA PARISHAD
 
 **भवदगुणमुग्ध-श्रीकालीपद-देवशर्मणा**
 
-
-
 **FOREWORD**
 
   To write a Sanskrit drama in the present day may seem to be an anachronism but we should receive, rather with a kindly eye, the last signs of life of this ancient language of our land
@@ -168,23 +148,17 @@ SANSKRIT SAHITYA PARISHAD
 
  At this critical moment he finds a woman about to be molested by a robber He postpones his contemplated suicide and saves the woman by completely out-manoeuvring the robber The robber happens to be the dreadful Vīrabala, the head of a gang He is the son of a Brāhmana and has taken to robbery from dıre want He advises Ratnākara to take to this profession, when he hears of his
 
-
-
 sad plight Ratnākara hesitates and then decides to join the gang as its chief, for that is the only way to save his starving family He shall destroy the miserly rich and shall uphold the starving poor The two become fast friends and prepare to fulfil their mission Ratnākara saves his starving family and prepares to save others who starve (Act 1) He is to destroy the cruel king Kāmesvara and to establish a new kingdom
 
  Next follows a scene in the court of the king Kämeśvara bearing instances of the kings cruelty and highhandednesswhich add to the misery of the famine-stricken land A Brāhmana unable to bear torture curses him with utter destruction The king intent to pacify his troubled heart decides to go to Lilāvatı, his object of lust She became a widow in her early years The king fell over head and ears in love with her His love was reciprocated So the king killed her aged father and brought her into his harem Here the Second Act ends with a scene of drunken revelry (II)
 
  Ratnākara using a strategy robs the royal treasury of king Kāmesvara The king issues orders for the immediate detection and arrest of the gang of robbers (III) The sage Cyavana, the father of Ratnākara and Ratnākara's son Atreya go to pay up their debts to Dhanadatta, a merchant They owe him two hundred coins and they pay off the whole amount out of the money which Ratnākara has received "from one of his loving friends who prefers to remain *incognito*’ But suspicion arises in the mind of one of the members of the Intelligence Branch, who was perchance present at the time of payment This leads to the arrest of the father and the son of Ratnākara and as they are being thrashed so that truth might be extracted, Ratnākara enters with a few men, kills the officers outright and carries away his father and his son who have fainted away He takes refuge with his whole family in the newly founded city of Ratnapura (IV)
 
-
-
  The Fifth Act begins with a discourse between Sumatı (Good Reason) and Kumatı (Bad Reason) Kumatı is exhilarant of her success with Ratnākara while Sumatı is deeply grieved but optimistic of Ratnākara s ultimate revivification into piety Then we find Ratnākara in Ratnapura, the refuge of all poor and oppressed people One of his comrades returns from the city of the king Kāmesvara, as he is talking with his son Atreya This man gives an account of his activities in the city of king Kāmesvara, of how he has arranged, with his magical arts for the murder of certain important personages He further informs that the king would be coming on a naval excursion on the river Sarayū very soon Ratnākara prepares for the capture of the king so that he may retaliate the thrashing that was meted out to his father and his son by the king's men (V)
 
  The Sixth Act opens with two fishermen who are busy with their baffled efforts to collect fish They retire to see the fun as the king s boat approaches The king and the woman are seen absorbed in drunken revelry on their boat, as the boats in train pass away Then comes on a boat Ratnākara with his gang He prepares a strategy for the capture of the king The fishermen who had been observing all this from a concealed nook retire In horror even leaving their boat the only means of their living, behind at the very prospect of this daring feat of Ratnākara Then Cyavana enters the stage with his wife Cyavana looks dejected his wife asks the reason thereof Though unwilling, he relates to her the fact that Ratnākara has taken to robbery The old sage even contemplates committing suicide if that would improve his wayward son (VI)
 
  In the Seventh Act we find Ratnākara with his captive king Kāmesvara Cyavana takes charge of the captive and the tired gang retire to rest, after having tied the king to a tree (VII) Cyavana, however sets the king free in the darkness of night, writes a letter to Ratnākara to that effect
-
-
 
 and adds that he is committing suicide so that even this may put a stop to Ratnākara s ignominious activities Then he puts an end to his life by hanging himself Even before the day has dawned, Ratnākara comes in exhilaration but discovers the calamity with a shock His wife, his child and his mother come, and they all faint away at this awful sight (VIII)
 
@@ -197,15 +171,11 @@ Lecturer, Calcutta University
 and  
 Secretary, Sanskrit Sahitya Parishat**
 
-
-
 **INTRODUCTION**
 
  In any literature the drama is invariably regarded as the sublimest product of the poetic mind summing up in itself the essential conception of literary art It is only the drama of all forms of poetic composition that seeks to deal with the deeper questions of human life and as such may rightly be called ‘*the vital spark* in literature A few centuries back, the Sanskrit literature too had been in the height of glory, and signs of its vital exuberances are still to be traced in the extant dramatic works of Asvaghosa Bhāsa, Kālīdāsa, Śūdraka, Harsa, Bhavabhūti Ksemiśvara Visākhadatta Rajasekhara and others But the necessary reaction set in and a rapid decline reduced *the language of the immortals'* to such a decadent state that in recent years it came to be seriously ignored as a dead language In more modern times however a fresh laudable endeavour is being made for its resuscitation and the authorities of the Sanskrit Sahitya Parishat deserve the warmest congratulations of all lovers of classics for the valuable service they have been untiringly rendering to the cause of the revival and popularization of the Sanskrit language and literature for the last twenty-five years
 
  Pandit Kalıpada Tarkacharya the author of the present work, is one of the band of energetic pioneer workers who founded the Parishat and made it what it now is He was at one time the Professor of this Institution and the Editor of the monthly Journal of the Parishat in which the present drama has been serially published He devoted the best portions of his life and energy in moulding the present batch of youthful workers and scholars of the Parishat The humble writer of this Introduction feels proud as he recalls to his mind the happy old days when he
-
-
 
 had the unique privilege of sitting at Pandit Tarkacharya s feet to take his first lessons in Sanskrit literature
 
@@ -219,8 +189,6 @@ had the unique privilege of sitting at Pandit Tarkacharya s feet to take his fir
 
  From the versified Bengali version of the Rāmāyana by the renowned Bengali Poet Krttivāsa, we come to know that the revered sage Vālmīkı was a vile robber named
 
-
-
 Ratnākara in his early youth But his early history, as detailed in the original Rāmāyana itself, contains no such reference The Adhyātma Rāmāyana, on the other hand seems to be the possible source of the well-known story carefully interwoven by the Bengali Poet in his vernacular Epic
 
  In the Sanskrit source, we find thesage Vālmıkı recounting before Sri Rāmacandra the ignominious account of his past life Originally he had been a Brāhmana by birth, but by close associations with foresters fowlers, thieves and robbers, he gradually turned a robber himself Subsequently, however, he met seven saints whose edifying instructions produced a sanctifying influence on him He gave up his vicious mode of living and began to lead an intensely religious life The sages advised him to mutter the syllables *MA RĀ* (=Rāma inverted) Ages passed by and he became so intent in his devotion that his body became gradually covered all over with ant hill Yet he stirred not Long after the same seven sages, passing by the ant-hill, heard the muttering sound within it and out of pity took him out of that curious tomb As he had been entombed in an ant-hill (valmika) he came to be known as ‘Vālmīkı' from that day forward
@@ -228,8 +196,6 @@ Ratnākara in his early youth But his early history, as detailed in the original
  It should be noted in this connexion that the Adhyātma Rāmāyana does not mention the name 'Ratnākara' which seems to be an original contribution by the Bengali Poet
 
  This resurrection of the bandit Ratnākara as saint Vālmiki, has been hinted at in one passage of the Brahmavaivarta Purāna, in the introductory portions of the com mentaries on the original Rāmāyana by Rāmānuja and Govindarāja Similar stories of Vālmiki's early life are also current in provinces other than Bengal The outline is everywhere the same with but minor differences here and there For example we may refer to the story current in Karṇāla that the robber muttered the syllables *M R A*(and not MA-RA) But with regard to one factor, all these
-
-
 
 accounts agree viz, that the name Ratnākara' is nowhere to be found except in the Bengali Rāmāyana of Krttivāsa
 
@@ -240,15 +206,11 @@ accounts agree viz, that the name Ratnākara' is nowhere to be found except in t
 
 \* For details, vide the illuminating Sanskrit Introduction by the author himself
 
-
-
 of Sanskrit dramaturgy According to the traditional conventions, a Sanskrit type drama (Nātaka) must be idealistic in spirit The hero is required by the canons of dramaturgy to be either a divine or a semi divinebeing But strangely enough, the hero ofthis drama is painted as an ordinary man of the worldswayed by passions and emotions virtues and vices In portraying his character the author has revealed the terrible internal struggles which a man of flesh and blood normally experiences under existing circumstances but which an idealist playwright would avoid to depict in his work Pandit Tarkacharyas attempts at realism fall in more with the line of the modern dramatist than with the ancient tradition of Sanskrit dramaturgy
 
  To suit the taste of the present-day audience the author has tried to introduce in course of the dialogues and stray incidents popular ideas current in contemporary society Modern technique of introducing characters has also been profitably adopted But at the same time, the handling of the main plot, the usual introduction of the prologue, the dıvısions into Acts and the conventional mode of composition (viz, the intermixture of lyric verses and prose dialogue) show that the auhtor has not swerved much from the traditional path The minor departures introduced here and there only emphasize the influence of the age and environments on the author, who like a man of genuine culture has not been a slave to the conventional rules of Sanskrit dramaturgy but has ever kept his mind wide open
 
  Another striking feature of the present drama is the exclusion of Prakrit dialogues altogether from the body of the work All the characters speak Sanskrit which is indeed a novelty We can appreciate the motive of the author in banning Prakrit from his drama when we take into consideration the fact that the different Prakrit dialects ceased to be spoken languages even as early as the third or the fourth century AD Though the canonical works on
-
-
 
 Sanskrit dramaturgy require the inclusion of Prakrit dialects in a major drama, yet by blindly following these authoritative dictates in these days no practical purpose is to be achieved Sanskrit, on the other hand, can be more easily understood than the literary Prakrits which invariably remain unintelligible even to the most cultured audience And hence the author deserves no unfavourable criticism for what may be called a happy departure from the ageold tradition
 
@@ -262,8 +224,6 @@ Sanskrit dramaturgy require the inclusion of Prakrit dialects in a major drama, 
 
 **   Ashokanath Shastri  
 Lecturer, Calcutta University**
-
-
 
 **अनुबन्धिका**
 
@@ -280,8 +240,6 @@ Lecturer, Calcutta University**
 
 **धनुर्बाणवरो नित्य जीवानामन्तकोपम।  
 एकदा मुनय सप्त दृष्टा महति कानने॥**
-
-
 
 तथा स्कन्दपुराणादिकमालोच्य विज्ञायते, यथा न केवलमध्यात्मरामायण एव, परमन्यत्रापि तद्वृत्तमस्ति निबद्धम्। तस्मादेव वङ्गभाषामयनिबन्धाद् विशेषतो विज्ञायते, यथा 'वङ्गेभ्यो वहिरपि साधारणेषु प्रसिद्ध क्वचित् क्वचिदीदृशमेव बाल्मीके पूर्ववृत्त लब्धप्रचारमास्ते। कर्णालमण्डले लब्धप्रचारमीदृशमेक वृत्त १८६५ खृष्टाब्दे Indian Antiquary इत्याख्य-  
 —————————————————————————————————————————————
@@ -315,8 +273,6 @@ Lecturer, Calcutta University**
 
 **रक्षध्बमा मुनिश्रेष्ठा गच्छन्त निरयार्णवम्।  
 इत्यग्रे पतित दृष्ट्वामामूचुर्मुनिसत्तमा॥**
-
-
 
 पत्रे प्रकाशितमभूत्। तत्रापि रत्नाकर इति नाम नास्ति। तत्र पुनरेष विशेष, यद् बाल्मीके पूर्वरूपेण किरातेन रामनाम समुच्चारयितुमशक्यमिति मुनयस्त''म्र' इति शब्दजपमुपदिष्टवन्त। अथ बहुवर्षानन्तर यदा मुनयस्तेन मार्गेण व्रजन्तो बल्मीककूटमुपेत्य विश्रामार्थमाश्रितवन्तस्तदा तदभ्यन्तरात् समुद्गत निरन्तर शब्दमाकर्ण्य बल्मीककूट भित्त्वातस्मात्  
 ———————————————————————————————————————————————
@@ -353,8 +309,6 @@ Lecturer, Calcutta University**
 
 **(अध्यात्मरामायणे अयोध्याकाण्डे षष्ठसर्ग)**
 
-
-
  पूर्वपरिचित किरात प्रकाशयामासु।तेनैव चास्य बाल्मीकिरितिनाम प्रसिद्धिमापत्'। इति।
 
  बाल्मीके पूर्व नाम समुत्पत्ति पितरौ चाधिकृत्य भूयासो मतमेदासमुपलभ्यन्ते। तिलकाख्यरामायणटीकाकृतबल्मीकमृतकूटप्रभवत्वात् बल्मीकाख्यमुनिपुत्रत्वाद्वा बाल्मीकिरिति सज्ञेति विकल्प कृतवन्तः। तत्रापि बाल्मीके पूर्वनामविचारो नास्त्येव। (१)
@@ -366,15 +320,11 @@ Lecturer, Calcutta University**
 
  २उक्त रामायणशिरोमणिटीकायाम्,—'बाल्मीकिर्बल्मीकगौणपुत्र। गौणत्वञ्च बहुकालिकतप स्थितिहेतुकबल्मीकाकृतित्वप्राप्त्यनन्तर वरुणकृतदृष्ट्या निष्पन्नत्वात्, अत एव वक्ष्यमाणप्राचेतसव्यवहारोऽपि न विरुद्ध। प्रचेतोनिरूपितगौणपुत्रत्वस्यापि अस्मिन् सुवचत्वात् गौणपुत्रत्वयोर्विरोधाभावात्। अत एव भृगुपुत्रत्वमप्यस्मिन् न विरुद्धम्। भृगुनिरूपितमुख्यपुत्रत्वस्य अम्मिन् विद्यमानत्वात्। गौणपुत्रत्वमुख्यपुत्रत्वयोर्विरोधाभावात्। अत एव—'अथाब्रवीन्महातेजा ब्रह्मा लोकपितामह। बल्मीकप्रभवो यस्मात् तस्माद् बाल्मीकिरित्यसौ'॥ इति ब्रह्मवैवर्तवचनम्। 'अतृप्तस्त मुनि वन्दे प्राचेतसमकल्मष'मिति
 
-
-
  भूषणाख्यरामायणटीकाकारो गोविन्दराजोऽपि प्रायेण शिरोमणिटीकाकारमतमेवानुवर्तमानो दृश्यते। तत्र तावदय विशेष यत्, भृगुवश्य कश्चित् प्रचेता नाम तदपत्यतया बाल्मीके प्राचेतस इति सज्ञा। 'चक्रे प्रचेतस पुत्रस्त ब्रह्माप्यन्यमन्यत' इत्यादौ प्रचेत पुत्रत्वस्य स्पष्टमुक्ते। (३)  
 ————————————————————————————————————  
 लवकुशोक्ति। 'ऋक्षोऽभूद् भागवस्तस्माद् बाल्मीकियोऽभिधीयते'। इति विष्णुपुराणवचनञ्चसगच्छते। अतएव ज्ञापकादस्य ऋक्ष इति रूढनाम। तस्यात्रानुक्तिस्तु आत्मनाम गुरोर्नामेत्यादिस्मृत्या आत्मनामग्रहणस्य निषिद्धत्वात् निषेधस्य च रूढनामविषयत्वात्।' इति।
 
  ३ उक्त हि गोविन्दराजटीकायाम्,—'बल्मीकस्यापत्य बाल्मीकि। अत इञ् इति इञ्प्रत्यय। नन्वसौ कथ बल्मीकापत्य, यतो भृगुपुत्रएवाय प्रतीयते। तथा च विष्णुपुराणे 'ऋक्षोऽभूद् भार्गवस्तस्माद् बाल्मीकियोऽभिधीयते'। इति। अत्रापि उत्तरकाण्डे वक्ष्यति 'भार्गवेणेति संस्कृतौ' 'भार्गवेण तपस्विना' इति च। अन्यत्र प्रचेतोऽपत्यत्वमभिधीयते। 'चक्रे' प्रचेतस पुत्रस्त ब्रह्माप्यन्वमन्यत'। इति। 'वेद प्राचेतसादासी'दिति च प्रसिद्धम्। अत कथमस्य बल्मीकापत्यत्वम्?उच्यते,—निश्चलतरतपोविशेषेणास्य बल्मीकावृतौ जाताया प्रचेतसा वरुणेन कृतनिरन्तरवर्षेण प्रादुर्भावोऽभूदिति भृगुपुत्रस्यैवास्य प्रचेतोऽपत्यत्व बल्मीकापत्यत्वञ्च सङ्गच्छते। ननु कथ तत्प्रभवत्वमात्रेण तदपत्यत्वम्? मैवम् गोणीपुत्र क्लशीसुत इति तत्प्रभवेऽपि बहुलमुपलब्धे। उक्त च ब्रह्मवैवर्ते—'अथाब्रवीन्महातेजा ब्रह्मा लोकपितामह। बल्मीकप्रभवो यस्मात् तस्माद् बाल्मीकिरित्यसो'। इति। मास्तु अपत्यार्थत्व तथापि बाल्मीकिशब्द साधुरेव गहादिषु पठितत्वात्। यद्वा भृगुवश्य कश्चित् प्रचेता नाम तस्याय पुत्र ऋक्षो नाम, 'चक्रे प्रचेतस पुत्र' इति पुत्रत्वाभिधानात्। भार्गवभृगुनन्दनशब्दौ रामे राघवरघुनन्दनशब्दवदुन्नेयौ। बाल्मीकि-
-
-
 
  स्कन्दपुराणे विष्णुखण्डे वैशाखमाहात्म्ये एकविशाध्याये दृश्यते,—कृणुर्नाम मुनि कठोर तपस्तप्यमानो बल्मीकाच्छन्नदेहतया बल्मीक इति ख्यातो बभूव, तेनैव स्त्रीस्मरणात् रखलितेन्द्रियेण कस्याञ्चित् शैलुष्यामुत्पाद्यमान् किरातधर्मा पुत्र कालेन रामायण कर्ता बाल्मीकिरिति ख्यातोऽभूत्। इति। (४)
 
@@ -402,8 +352,6 @@ Lecturer, Calcutta University**
 
 **आसीद् व्यास पुरा विप्र सुमतिर्भृगुवशज।  
 रूपयौवनसम्पन्ना तस्य भार्याय कौशिकी॥**
-
-
 
 राज्यकाण्डे चतुर्दशसर्गे बाल्मीकेरनेकेषा जन्मना वृत्तान्ता समुपलभ्यन्ते। तत्र कुत्रापि रत्नाकर इति नाम नास्ते। आनन्दरामायणस्य निरुक्तसर्गीयसुविस्तरसन्दर्भपाठेनैव पाठकाना ते सर्वे विषया स्कन्दपुराणादित केचन विशेषाश्च बोधविषयता यास्यन्तीति ग्रन्थगौरवभिया नेह तत्सन्दर्भा समुद्ध्रियन्ते। आनन्दरामायणससूचिता बाल्मीके पूर्ववृत्तान्ता सुतरा  
 ———————————————————————————————————————————————
@@ -439,8 +387,6 @@ Lecturer, Calcutta University**
 **ममास्ति माताथ पिता सुतो भार्या गरीयसी।  
 पोषयामि सदा तास्तु एतन्मे हृदि सस्थितम्।**
 
-
-
 विस्तृता सुगमा सोपपत्तिकाश्चेति तत्पाठाय वाचकमहोदयान् साग्रह प्रविवर्तयिषाम। वयमरिमन् रूपके बाल्मीके पूर्वनामविषये तत्पितृनाम-  
 ———————————————————————————————————————————————
 
@@ -471,8 +417,6 @@ Lecturer, Calcutta University**
 प्रणम्य दण्डपातेन ततो वचनमब्रवीत्।  
 न मे माता न च पिता न भार्या न च मे सुत।**
 
-
-
 विषये च स्कन्दपुराणादिमत परिहृत्य वङ्गविषये अन्यत्र च समतिप्रसिद्धतया आबालवृद्ध सुदृढ सस्कारगोचरतया च बङ्गभाषामयपद्यरामायणप्रजापतिकृत्तिवासादिपरिकल्पित बाल्मीके रत्नाकरेति पूर्वनाम तत्पितुश्च  
 ———————————————————————————————————————————————
 
@@ -498,8 +442,6 @@ Lecturer, Calcutta University**
 दीनोऽहमुद्धृत सर्वेर्मग्नोऽह पापकर्दमे।  
 श्रुत्वा तस्येति तद वाक्यमूचु परमधार्मिका।  
 बल्मीकेऽस्मिन् स्थित पुत्र यतस्त्वमेकचित्तत्।**
-
-
 
 च्यवनेति नामैव समवलम्बितवन्त। बङ्गभाषामयरामायणकवि कृत्तिवासः पुन कुतो मूलग्रन्थादेतन्नामद्वयम् आसादितवानिति नव निर्णेतुमर्हाम। अस्तु तस्य मूल मास्तु वा, वयन्तु केवल तदीयनाम्नो सर्वत्र सामाजिकेषु सुचिरात् प्रभृत्येव प्रचरद्रूपत्वात् तदन्यथाकारेण सामाजिकाना भावविच्छेदमाशङ्कमाना तदनुसृतामेव सरणि सभ्भावयन्त स्वकृतौ तदुपादान कुर्म। तदत्र पुराणविदामुपपत्तिमती क्षमा समनुभवितुमिच्छाम। (६)  
 ————————————————————————————————————————————
@@ -528,8 +470,6 @@ Lecturer, Calcutta University**
 **च्यवनस्य मुने पुत्रो रत्नाकर इति श्रुत।  
 गहनाभ्यन्तरे सोऽसो दस्युवृत्तिपरोऽभवत्।**
 
-
-
  अध्यात्मरामायणादि- प्राचीनसाहित्यग्रन्थप्रसिद्ध बाल्मीके पूर्व वृत्तं सूत्रमात्ररूपेण परिगृहीतवता मया प्रकृतरूपकनिर्माणे प्रारम्भादन्तपर्यन्तं वस्तुविनियोगे शीलपरिकल्पने च
 
 **'यत् स्यादनुचित वस्तु नायकरय रसस्य वा।  
@@ -549,15 +489,11 @@ Lecturer, Calcutta University**
 यतो रामाभिधानात्त्व सम्प्राप्तोऽसि पवित्रताम्।  
 ग्रन्थ रचय तस्मात्त्व श्रीरामचरिताश्रयम्।**
 
-
-
 विरागमन्त करणस्य। ततएवं साम्प्रत बहुत्र रूपकप्रयोक्तार सामाजिकाना त्वरितरसोन्मेषमपेक्षमाणा तत्तत्पात्रप्रयोक्तव्यप्राकृतभाषामयसन्दर्भाणा विपरिवर्तनेन प्रयुञ्जने गीर्वाणवाणीमयानेव सन्दर्भसङ्घातान्। अत एवास्माभिरपि प्रकृते रूपके प्राचीनालङ्कारिकोपदिष्ट नयमतिक्रम्य सर्वेषा पात्राणामविशेषेण संस्कृतपदमयान्येव वाक्यानि विनियोजितानि। तदेव सामाजिकानामनायासवस्तुनिज्ञानाय त्वरित-रसोन्मेषाय च समुपयुक्तमिति प्राचीननयातिक्रममप्यदोष मन्यमाना सन्तुष्याम।
 
  सुविदितवैतत सहृदयगोष्ठीगरिष्ठाना यत् कालक्रमानुसारेण विविधशिल्पकलादीना क्रमिकाभ्युदयव्यपेक्षया च मानसिक्वासनाभेदा समुपजायन्ते सामाजिकानामिति। यत्र क्लि काले प्रयोगमभिसन्धाय यद् रूपक समपेक्ष्यते, तत्र तत्कालानुगुणगुणानुबन्धिविषयसङ्घातों नोपसहितश्चेत, नोपयुज्यते तदिद सन्तोपाय निःशेषाय तत्कालप्रभवाणा सामाजिकनिकुरम्बाणाम्। तदनुरोधादेव साम्प्रतिकसामाजिकभावानुगुणवस्तुसन्नि वेशाय कृतोऽत्र मया यथामति प्रयत्नो भूयान्। साफल्ये वैफल्ये वा तत्प्रयत्नस्य रूपदक्षाणा गुणदोषप्रविभागविदा विदुषा रसिकतल्लजानाञ्च निरपेक्षमन्त करणमेव प्रमाण, नान्यत्।
 
  इदमत्र प्राप्तकालमभिधेय यत् साम्प्रत तत्तत्प्रदशेषु सत्यपि तत्तन्माण्डलिक व्यवहारानुकूलप्राकृतापभ्रशभाषाप्रसारे ............ सस्कृतभाषाया सार्वजनीनाया सकलदेशसाधारण्या अपि नैव तावान् प्रसार' समादरो लोकायतेषुप्रयोजनेषु समुपयोगो वा विज्ञानगोचरताम्प्रतिपद्यते। तत एव हि साम्प्रत नाविर्भवन्ति यथाकाममुत्कर्षवन्त काव्यग्रन्था, नापि परितो मण्डयन्ति संस्कृतसाहित्यभाण्डागार नवीननिबन्धकारसमुपहृतानि नवीनानि प्रशस्तिभाजनानि दार्शनिकादिनिबन्धरत्नानि। दुराग्रहवशेन हन्त केनचिद् विरचितेऽपि कस्मिश्चित् संस्कृतनिबन्धे दुर्लभा खलु कथञ्चित् तत्पाठपरिश्रमस्वीकर्तारोऽपि। निबन्धकारै स्वीयवस्तुनोगौरवज्ञानप्रेरणया वा स्वकृते प्रकर्षपरीक्षणकाम्यया वा परप्रतिपादनेनात्म-
-
-
 
 निबन्धस्य साफल्य सम्पिपादयिषया वा कथञ्चित् केचित् तदाकर्णने प्रवर्तिता अपि किञ्चित्कालोत्तरसमाप्त एब निबन्धश्रवणे विमनायमाना समुत्पादयन्ति तेषा निबन्धकृता महान्तमान्तर खेदम्। तत्तत्कारणकदम्बकेनैवाद्य लोके तिरोधानेन नवीनसस्कृतग्रन्थनिर्माणसमारम्भसमुत्साहस्य क्रमश क्षीणक्षीणतामाससाद भगबती कल्याणवती गैर्वाणी वाणी। इत्थ समापतितेऽपि भगवत्या गीर्वाणवाण्या वराकाणा तदीयसेवकानाञ्च सुमहत्येव विपत्सन्निपाते यदेषा सस्कृतसाहित्यपरिषत् संस्कृतसाहित्यसमुन्नयनकव्रता मदीयामिमामतिक्षुद्रामपि कृतिं स्वीयद्रविणराशिव्ययेन निरतिशयसमुत्साहेन च प्राकाश्य नीतवती, तेनास्या सुगभीरामान्तरिकीं कृतवेदिता निवेदयाम।
 
@@ -565,12 +501,9 @@ Lecturer, Calcutta University**
 
  अन्ते च सप्रश्रय साशङ्क सोपचारञ्चविशेषविदुषो वाचकमहत्तमान अर्थयामहे, यद् भ्रमधर्मतया मानुषाणा स्वल्पज्ञतया च प्रकृतग्रन्थनिर्माणसाहसिकस्य प्रतिपदमेवात्र सम्भाव्यमानान् दोषानमी स्वभावसुलभकारुण्यप्रचयेनपरिहरन्त क्वाचित्कमपि सन्त गुणलेश बहुलीकुर्वाणा मदीयप्रकृतग्रन्थनिर्माणपरिश्रम नयन्तु सफलताम् इति शम्।  
 
-
 ** १३४६ बङ्गाब्दे    }                     
     विबुधविधेय—  
 उत्तरायणसक्रान्त्याम्                  श्री कालीपददेवशर्मण (तर्काचार्यस्य)**
-
-
 
 **प्रशान्तरत्नाकरम्**
 
@@ -596,8 +529,6 @@ Lecturer, Calcutta University**
 
 **सुगम शब्दसम्भार प्रयोगानुगुणक्रम।  
 नानाभावसमुल्लास प्रीतिहेतु पदे पदे॥**
-
-
 
  तदिदानीं पारिपार्श्विको द्रष्टव्य। तत् कथं नु खलु त पश्यामि?
 
@@ -631,8 +562,6 @@ Lecturer, Calcutta University**
 
  तदहमपि तथैव दैन्य गतकिं नु खलु करिष्ये?(स्मृत्वा) आ दृष्टम्, मारिष, एहि पक्षद्वारकेण संगीतशालामभिगम्य रत्नाकरादात्मान रक्षावः। स एष खलु—
 
-
-
 **भिक्षाकर्पटसशोभिस्कन्धसन्धि सुदुःखित।  
 क्षणादूर्द्ध्वमिहागन्ता विलम्बेन कृत तत॥**
 
@@ -660,8 +589,6 @@ Lecturer, Calcutta University**
 दीनाना मानसीं शक्तिं पराभूय न वर्द्धते।**
 
  तथापि धनिका सर्वतो हीनान् दीनान् मन्येरन्नित्यत्र किं वा वीज विधिनिसृष्टादर्थवैभवादन्यत्?स्मरामि हन्त स्मरामि प्रतिदिवस पथि क्रीडतो धनिकतनुजैरलङ्कृतैदींन इति धिक्कृतस्य वत्सस्यात्रेयस्य मे सास्रदुःखान्धकारमलिन वदनम्। तथा स्मरामि धनिकपत्नीगणै सुमहत्या सम्पदा परिपूजितेन देवायतनगुरुणा तदादरव्यापृतेन दैन्यादेव प्रतिरुद्धदेवायतन-प्रवेशाया प्रियाया माधव्या जनन्याश्च मे गभीरदुःखनिवेदनवैशसम्।
-
-
 
  दरिद्रस्य खलु,—
 
@@ -694,8 +621,6 @@ Lecturer, Calcutta University**
 किन्तूद्धता धनमदेन शरीरवन्तो  
 दीनोपकारविमुखाः किमु चित्तवन्त?**
 
-
-
  अहह। परिणतप्रायो दिवस। गेहे च 'वृद्धौ पितरौ, पतिव्रता दयिता, वत्सल पुत्रश्च मम दुरन्तभाग्यस्य प्रस्थानपथ समीक्षमाणा प्रतिमुहूर्त्तं सोपकरणमेव मा समुपनतमुत्प्रेक्षन्ते, अह पुनः पथिभ्रमणपरिश्रान्त शान्तये न्यग्रोधतलमाश्रित्य प्रशान्त समुपविष्टोऽस्मि। मूढ रत्नाकर, क एष ते विश्रामप्रयास?
 
 **त्व तात जननीं तथा पतिरता पत्नीं सुत वत्सलं  
@@ -720,8 +645,6 @@ Lecturer, Calcutta University**
 
 **जीव गुणाकर सुचरितमनुसर खलता परिहर वह बहुमानम्,  
 भौतिककाये दुरितसहाये मा कुरु मा कुरु गौरवदानम्।**
-
-
 
 **विधिविपरीत विधिमनु भीत मानसमधिकुरु लसदवधानम्,  
 वरमिह मरण सुचरितशरण तदपि वर नहि पापविधानम् ॥**
@@ -749,8 +672,6 @@ Lecturer, Calcutta University**
 यत सुहृत्पालनशक्त्यभावप्रसूतलज्जा विनिवर्त्तयेयम्॥**
 
  तत् केनोपायेन समीहित साधयामि?(विचिन्त्य) आ दृष्टम्। इहैव न्यग्रोधे आत्मानमुद्वध्य दुःसहा दुःखज्वाला निर्वापयिष्यामि। क्व नु खलु पाशं लप्स्ये?(विचिन्त्य) आम्, एष भिक्षाकर्पट एव पाशो भविष्यति। तदल विलम्बेन यावदिदानीमेव वृक्षमारुह्य कण्ठे पाश योजयित्वा स्व समीहित सम्पादयामि। (यथोक्त सम्पादयितुमुपक्रमत)
-
-
 
 **(नेपथ्ये)**
 
@@ -784,8 +705,6 @@ Lecturer, Calcutta University**
 
  पुरुष—निष्फल प्रलाप, नं मुच्यसे।
 
-
-
  स्त्री—यद्येवम्, कथय, किमस्माज्जनात् काम्यते?
 
  पुरुष—अलङ्कारा।
@@ -813,8 +732,6 @@ Lecturer, Calcutta University**
  स्त्री (स्वगतम्) अहह। यदेवाशङ्कित तदेव दुष्टेन प्रस्तुतम्। भवत्वेव तावत्। (प्रकाशम्) भद्र, किमेव वदसि, किं वा ममापर सन्निहितं, यदत परमपि कामयसे?
 
  पुरुष—अयि अरसिके, कथ प्रबुद्धापि स्वप्न नाटयसि, प्रसीद, एतत्त्वदीय कुसुमसुकुमार लावण्य समीक्षमाण सुतरा कामेन परवशः कृतोऽस्मि, तदस्य कृपया प्रतीकार कर्तुमर्हसि।
-
-
 
  स्त्री—मूढ, निर्मर्याद, दुष्टस्वभाव, साम्प्रतमेतावन्तमवधिं समारूढोऽसि, न ते रसना छिद्यते?
 
@@ -844,8 +761,6 @@ Lecturer, Calcutta University**
 
  रत्ना—एवमिदानींमार्गंपतितोऽसि। मात साम्प्रत निराबाधा,
 
-
-
  स्वगेह प्रति प्रतिनिवर्त्तस्व। अपगत त दुर्मनुष्यकृत भयम्, एष दुरन्तवृत्त परतो मया द्रक्ष्यते।
 
  स्त्री—भद्र, कृतज्ञतया आवर्जिताया मे वाचो न प्रसरन्ति। भद्र, देवतास्ते सवत स्वस्ति करिष्यन्ति यदहमेवम्भूता निःशरणा त्वया रक्षिता।
@@ -874,8 +789,6 @@ Lecturer, Calcutta University**
 विचित्रसंसारगतिप्रभाविता शरीरिणो यान्ति गतिं पृथग्विधाम्॥**
 
  तन्नास्त्यत्र विस्मयावकाश। (प्रकाशम्) मूढ, न केवल काममभिसन्धत्से?
-
-
 
  किन्तु अर्थमपि? तत् दीयन्तामस्या आर्याया बलात्कारेण गृहीतपूर्वा अलङ्कारा।
 
@@ -912,8 +825,6 @@ Lecturer, Calcutta University**
 
  स्त्री—अथ किम्। भद्र, एतावन्त एव पर्याप्ता मे दीनाया। एतेऽपि
 
-
-
  विवाहकाले मात्रैव प्रतिपादिता। तदनेन प्रसङ्गेन पत्युरवस्थाविशेषं स्मृत्वा खिन्नास्मि।
 
  रत्ना—आर्ये, किमेव दैन्य वहसि? पश्य,—
@@ -937,8 +848,6 @@ Lecturer, Calcutta University**
 स जीवनार्थं भिक्षूणा न प्रदत्ते कपर्दकम्॥**
 
  अहो, वित्तमत्तता धनवताम्, स्मरामि, हन्त स्मरामि, क्रीडा गतस्य मे वत्सस्यात्रेयस्य दारिद्रयादेव धनमदमत्तैरमात्यकुमारै कृत कठोर पराभवम्। येन दुर्मनायमानः क्रीडाप्रियोऽपि वत्सो मे क्रीडानिवृत्तिमात्मना समाश्रित। हा वत्स आत्रेय,
-
-
 
 **महता भाग्यदोषेण रत्नाकरगृह श्रित।  
 परेषा सम्पदा येन सतत परितप्यसे॥**
@@ -970,8 +879,6 @@ Lecturer, Calcutta University**
  पुरुष—(स्वगत) अयमेव प्रतीकारावसर। मूढ, इदानीं क्वयास्यसि? (वस्त्रान्तरात् छुरिकामाकृष्य रत्नाकरस्य वक्षसि प्रहर्त्तुमिच्छति )
 
  रत्ना—(सहसा तं मणिबन्धे गृहीत्वा तस्य करात् छुरिकामाकृष्य
-
-
 
  प्रतिप्रहार कर्त्तुमिच्छति) मूढ, प्रतिपद दृश्यसे, एव किल रत्नाकरं वञ्चयितुमिच्छसि? अथेदानीम्? मूढ, अथेदानीं स्मर स्वकीय भागधेयम् (प्रहर्त्तुमुद्यत)।
 
@@ -1005,8 +912,6 @@ Lecturer, Calcutta University**
 
  रत्ना—उपनीयन्तामिदानीमस्या।
 
-
-
  पुरुष—(स्वगत) अहो क्षमासाराया अस्या मातु परिभवेन सुतरा व्रीडित कथमिदानीमेनामुपसर्पामि, अथवा क्षमासारायामस्यामल व्रीडया, (प्रकाश) एष उपनयामि। अयि मात स्नेहशीले। अज्ञान सुत मा क्षन्तुमर्हसि।
 
 **मोहात्त्वयि कृत येन दुष्कृत पापकारिणा।  
@@ -1036,8 +941,6 @@ Lecturer, Calcutta University**
 
  रत्ना—एवम् गच्छ, शिवास्ते सन्तु पन्थान। अथवा नाद्याप्येकाकिनी गन्तुमर्हसि, तत् किन्नु खलु कुर्याम्?आ दृष्टम्। अरे, एहि
 
-
-
  यावत्त्वा लतापाशेन पादपस्कन्धे दृढ बद्ध्वामातरं यथाभिमत देश प्रापयामि।
 
  स्त्री—वत्स, कथमद्याप्यस्य बन्धनमिच्छसि? शान्त खलु वत्सो मे व्यतीतकाम प्रत्यर्पितन्यासश्च।
@@ -1047,8 +950,6 @@ Lecturer, Calcutta University**
  पुरुष—भद्र, नैवमधिक्षेप्तुमर्हसि, तस्करा अपि मानुषा एव, तेऽपि हृदयवन्तो हर्षकाले नृत्यन्ति, दुःखकाले च वाष्प परिमुञ्चन्तो विक्लवा विलपन्ति। येनोपकरणेन युष्माकमिद शरीर, तेनैवोपकरणेन निरमायि तेषामपि शरीर धात्रा। तथापि त एव यदा स्वकीये गेहे क्षुधा तृषा च मृत्युवक्त्रगतानात्मजनानन्नदानेन परिपोषयितुमसमर्था दुर्भिक्षपीडिते जनपदे प्रयत्नवन्तो भिक्षामप्यलभमाना परितः परितप्यन्ते, तदैव स्वीया दैवतवृत्तिं दूरे निर्वास्य राक्षसीं वृत्तिमवलम्ब्य स्वजनपोषणाय प्रवर्तन्ते। भद्र, मन्ये दुर्भिक्षपीडिते जनपदे न प्राप्तोऽसि दारिद्र्यगोचरताम्, येनैव ब्रवीषि। भद्र, नून न जानासि कीदृश हृदय दुःसह दुःखभारेण भूमौ विचेष्टमानान् स्वपरिजनानवलोकयता दीनानाम्, नून न जानासि कीदृश हृदय पदे पदे धनमदमत्तै पुरुषै सुतरामवज्ञया परिताप्यमानाना निर्धनानाम्, नून नावधारयसि, क्षणे क्षणे काम्यप्रतिघातकारिणा दारिद्रयेण निष्करुण निष्पिष्यमाणाना हृदयवैक्लव्य मादृशानाम्। भद्र, सन्ति तस्कराणामपि स्वजना, ते क्षुधया तृष्णया च परिपीड्यमानास्वय दुःख प्रतिकर्तुमक्षमास्तानेव प्रतीकार याचन्ते, तेषामेव स्मरन्ति तेषामेव च पन्थानमाशाबद्धहृद सोत्कण्ठा समुदीक्षन्ते, तत् कथय, स्वजनपोषणस्य गत्यन्तरमनीक्षमाणाना तेषा का गति साहसवृत्तिसमाश्रयणादन्या। तदविचारतो नैवमेतानधिक्षेप्तुमर्हसि।
 
  रत्ना—(मुग्ध इव अश्रु मुञ्चन्) भद्र, अधिक्षेपेण अपराद्धोऽस्मि, तदविजानतो मे क्षन्तुमर्हसि ! (स्वगत) तत्त् किं ममापि स्वजनदुःखनिर्वापणाय सैवं गति?
-
-
 
  पुरुष—भद्र, यदि प्रत्येषि, किञ्चित् कथयितुमिच्छामि।
 
@@ -1078,8 +979,6 @@ Lecturer, Calcutta University**
 
  रत्ना—भद्र, वीरबल, त्वयि निष्ठुरमनुतिष्ठवा मयापि सुमहद्वैरमतुष्ठित, तत् त्वमपि विस्मर।
 
-
-
  पुरुष—मया तु तदेव विस्मृत तत्, यदा स्वस्य दोषो विज्ञात प्रणिपातश्च कृतो मातृपादयो।
 
  रत्ना—तत् कथय।
@@ -1102,8 +1001,6 @@ Lecturer, Calcutta University**
 
  पुरुष—ततश्च क्रमेण राज्ये कठोरदुर्भिक्षेण पदमकारि, येन भिक्षाप्राप्तिरपि विघटिता बभूव। तदा कदाचिदनशनेन कदाचिदर्धाशनेन कदाचित् पञ्चषदिवसानन्तरमेकाहारेण वा प्रियाया मे, अहह। प्रियाया मे शरीरे विषमो ज्वर प्रादुर्बभूव। महताऽनुनयेन प्रवर्तिता अपि महान्तो वैद्या न तस्य विषमज्वरस्य सान्निपातिकस्य प्रशम कर्तुमक्षमन्त। हा हा। गता। गता खलु सा। अनाहारेण क्लिष्टा सती सा लता विशुष्का। ततश्च हा हा। प्रिया मे मदिरा भस्मता नीता हुताशनेन। अनशनेन ज्वरप्रकोपेण च कृशीकृता सा क्षणेनैव भस्मता नीता। ममैवाधन्यस्य समपेक्षितभोज्य-
 
-
-
  प्रतिपादनशक्तिशून्यतया अभिमानेनेव मामनपेक्ष्य हा हा मदिरा मे चितावह्निज्वालया आत्मानं भस्मता नीतवती। तत्स्मृतिरद्यापि कुकूलाग्निरिव प्रतिमुहूर्तमेव मे स्वान्तं निष्ठुर दहति। हा हा मदिरा मे गता, क्वापि चिराय गता।
 
  रत्ना—वयस्य, वीरबल, अतीते) धैर्यमवलम्बस्व।कथ नाम तथा वैक्लव्येन वृत्त विवृण्वन् ममापि लोकोत्तरं मानसोद्वेग वर्द्धयसि? तत् कियानस्ति वृत्तशेष?
@@ -1116,8 +1013,6 @@ Lecturer, Calcutta University**
  रत्ना—अहह। मामपि तदा भिक्षमाणमेवमेव धनिका सन्निकृष्टा बान्धवाश्च सावज्ञ प्रत्याख्यातवन्त। तदेष व्यसनसब्रह्मचारी मया समासादित। भद्र, वीरबल, ततस्ततः?
 
  पुरुष—ततश्च मातृप्राणरक्षणाय गत्यन्तरमनीक्षमाण—
-
-
 
 **विभिन्दन् मर्यादा कुलमगणयन्नुन्नततमं  
 स्वमातु प्राणार्थं कतिचन दधद् बालसुहृद.।  
@@ -1146,8 +1041,6 @@ Lecturer, Calcutta University**
  पुरुष—वयस्य, रत्नाकर, नैव तदर्थं शैलाग्रंगन्तव्यं, नापि सागर प्रवेष्टव्य। वयस्य, कण्ठस्थितमपि चामीकरं मोहान्न जानासि।
 
  रत्ना—वयस्य, समुत्कण्ठितोऽस्मि, तदविलम्बितं ब्रूहि।
-
-
 
  पुरुष—वयस्य, रत्नाकर, कि वा कथितेन,
 
@@ -1185,8 +1078,6 @@ Lecturer, Calcutta University**
 
  पुरुष–वयस्य, रत्नाकर, किं वा कथयामि, मिथ्यैव त्व निपुण इत्यभिधीयसे। धिक् ते पातकभीतिं यया क्षुधाजनितेन क्लेशेन परिमूर्च्छितौ पितरौ मूर्च्छिता दयिता कृतान्तस्य कवले प्रविशन्त प्राणाधिकंपुत्रकञ्चमाध्यस्थ्येन समुप्रेक्ष्य केवलं वाङ्मात्रेण वात्सल्यमभिनयसि। यद्यस्ति
 
-
-
 पुत्रे वात्सल्यम्, यद्यस्ति पित्रो श्रद्धा, यद्यस्ति च प्राणप्रियाया पत्न्या प्रणय, तदा उत्तिष्ठ, दूरे वर्जयित्वा कल्पनामात्रसारात् पातकाद् भीतिं पौरुषेण कृत्ये प्रवर्तस्व, एवमेव समुद्यमिनं त्वा लक्ष्मीरुपेत्य स्वयमभिनन्दिष्यति। मा तावदद्यापि आलस्यदोषेण मध्यस्थ स्वजनविध्वस कार्षी। तदल विलम्बेन, अचिरमेव साहसिकानामस्माकमात्मना प्रभुदण्ड गृहीत्वा स्वमनोरथ निर्वर्त्तयेथा।
 
  रत्ना—वयस्य, वीरबल, परवशः कृतोऽस्मि, तत् क्षण तिष्ठ, यावदवधारयामि।
@@ -1210,8 +1101,6 @@ Lecturer, Calcutta University**
 
 **रत्नाकरस्य भुजविक्रम-साहसाभ्या-  
 मभ्यागतामिव पुरः कलयामि लक्ष्मीम्।**
-
-
 
 **तेनाद्य चौरसमिते समधिष्ठिताया  
 लोकोत्तरा धनिकनिग्रहशक्तिरास्ताम्॥**
@@ -1243,8 +1132,6 @@ Lecturer, Calcutta University**
 **गृहे गृहे दीनवच प्रपञ्चैसम्प्रार्थ्य हा व्यर्थबहुप्रयास।  
 नायाति लज्जाजडितःस्वगेह भिक्षार्थमाहो स गत सुदुरे॥**
 
-
-
 यथा तथा वा भवतु, किमिदानीं करोमि? एष वत्स आत्रेय प्रखरसुरातपपरिक्लान्त प्रसूनमिव वात्यासमुत् पाटितस्य पादपस्य नेत्रयोर्मे रुजा मुत्पादयति, क्षणे क्षणे समाशङ्कते मे हृदयम्? अहह। सुबहु समन्विष्यापि गति न लभे, अहह। अशरणोऽस्सि—
 
 **एष प्रसूनदलकोमलदेहभार  
@@ -1271,8 +1158,6 @@ Lecturer, Calcutta University**
 यद् यत् कामफलं तदद्य सकलं लब्ध्वापि पुण्योचित  
 नैष्ठुर्यात्तव दैन्यवह्निविहतो मन्येऽखिल निष्फलम्॥**
 
-
-
  र-माता—अहह। आर्यपुत्र, विचेतनापि अन्तरान्तरा आत्रेयस्य वत्साया स्नुषायाश्च परिक्लेश स्वप्न गतेव स्मरन्ती विषीदामि, नास्ति मे मोहेऽपि प्रशान्ति। अहह। सुदु सहापि क्षुधातृष्णाप्रभवा वेदना तथा न व्यथयति यथा किल वत्सस्य आत्रेयस्य वत्साया बध्वाश्च सुदु सहं कातर्यम्। तत् कमद्य शरणमुपेत्य व्यसनप्रतीकारं करोमि। किञ्च गण्डस्योपरि विस्फोटकेनेव प्रदोषेऽपि वत्सस्य रत्नाकरस्यादर्शनेन सुतरां शङ्कितास्मि। तदस्या विपत्ते प्रतीकाराय कमिदानीं शरणं गच्छाम?
 
  च्यवन—ब्राह्मणि, देवता। देवतामेव शरण गच्छ। विपत्तौ देवता मन्तरेण कोऽन्य शरण दुर्गतानाम्?
@@ -1296,8 +1181,6 @@ Lecturer, Calcutta University**
  र–माता—किमितोऽपि न कष्टतरम्?
 
  च्यवन—ब्राह्मणि, निर्विचारमभिहितम्। तथाहि पश्य,
-
-
 
 **अद्याप्यावासहेतो परिजनसहिता वृक्षमूल न याता  
 सोच्छ्वासैपुत्रपौत्रादिभिरपि कलिता यापयस्येव कालम्।  
@@ -1326,8 +1209,6 @@ Lecturer, Calcutta University**
 
  च्यवन—(चक्षुषोपानीय निक्षिप्य ससज्ञ दृष्ट्वा) एष संज्ञां लभते।
 
-
-
  आत्रेय—पितामह, देहि पानीयम्।
 
  र-माता—वत्स, इद तत् पानीय, पीयताम्। (पानीय समुपनयति)
@@ -1353,8 +1234,6 @@ Lecturer, Calcutta University**
 
  आत्रेय—नहि, नहि, नत्र ऋणार्थं न गन्तव्यम्, हीन खल्वसौ, कदाचित्तस्य पुत्रो मां दरिद्रपुत्र इत्युपहसितवान्, तत्र नानेन प्रतिषेध कृत,
 
-
-
  परं स्मितेन पुत्राचरणस्य आनुकूल्यमेव प्रदर्शितम्। तत् तत्र न गन्तव्यम्।
 
  च्यवन—अहो तादृशीमवस्थां गतस्य बालस्यापि सत आत्रेयस्य अभिमान। (प्रकाशम्) वत्स, स्थिरो भव, नाह तत्र गमिष्यामि।
@@ -1375,8 +1254,6 @@ Lecturer, Calcutta University**
  र- माता—(यष्टिमुपनीय) एषा यष्टिका।
 
  च्यवनं—(यष्टिमवलब्म्य स्थित) अहो स्थितस्यापि मे कम्पितौ चरणौ, कम्पते चाय हस्त। तथापि प्रयत्नेन बहिः कियद्दूर गत्वा वत्स रत्नाकरमाकारयामि। (पदान्तर गत्वा) ब्राह्मणि, ब्राह्मणि, एहि अवलम्बस्व मा। अवशानि मे अङ्गानि, घूर्णते शिर। एषोऽद्द नालमस्मि शरीरं धारयितुम्। (मूर्च्छितः पतति)
-
-
 
  र-माता—हा आर्यपुत्र, समाश्वसिहि, हा आर्यपुत्र, ममैव मन्दभाग्याया प्रेरणया विपद्यसे। हा हतास्मि मन्दभागिनी।
 
@@ -1410,8 +1287,6 @@ Lecturer, Calcutta University**
 
  अथवा धर्म इति कल्पनामात्रसारं स्वार्थेषु प्रबुद्धानाम्। कुत?
 
-
-
 **तावत्काल रक्षितो धर्ममार्ग  
 कि तस्मान्मे क्लेशहानि प्रजाता?  
 अस्मादूर्द्ध्वधर्मसिद्धान्तवैर  
@@ -1433,8 +1308,6 @@ Lecturer, Calcutta University**
  रत्ना—तात, एष ते सन्तापमात्रहेतु पुत्र पादयो पतितोऽस्मि।
 
  आत्रेय—तात, अपि आगतोऽसि? तात, अपि प्राप्तानि भोज्यद्रव्याणि?(परिष्वजते)
-
-
 
  रत्ना—वत्स, अथकिम्। (अङ्केस्थापयति)
 
@@ -1458,8 +1331,6 @@ Lecturer, Calcutta University**
  र-पत्नी—यथाज्ञापयति तात। (निष्क्रान्ता)
 
 **प्रथमाङ्कः समाप्त**
-
-
 
 **द्वितीयाङ्कः**
 
@@ -1491,8 +1362,6 @@ Lecturer, Calcutta University**
 यद् यत् पौरुषसञ्चित निजहित सत्य तदेवोचितं  
 लुप्तंसन्तमसं क्षणेन हृदि मे विज्ञानदीपोदयात्॥**
 
-
-
 तद् यावत्स्वल्पेनैव कालेन ममैवानुगतिमनुरुन्धानान् वीरपरीवारा नाहूय स्वकीय कृत्यविशेषमारम्भयामि। तत् क्व नु खलु वीरबल?(स्मृत्वा) आ। स खलु प्रेषितो मयैव पर्वतोपत्यकाया सन्निहिताया नवीनस्य रत्नपुरस्य नगरस्य संघटनाय। यत प्रतिदिनमेव स्वल्पप्रयत्नमनुतिष्ठतामपि दारिद्रयपरिक्लिष्टैर्जानपदैरुपचीयते वर्ग, तदिदानीं नवीननगरसन्निवेशमन्तरेण न शक्या स्ववर्गव्यवस्था साधयितुम्। भवतु शेषानामन्न्य कृत्यमारम्भयामि। (वशीं वादयति)
 
 (तत प्रविशन्ति दण्डहस्ताश्चत्वार पुरुषा)
@@ -1513,8 +1382,6 @@ Lecturer, Calcutta University**
 धनी जनो दुःखमिद न बुध्यते॥**
 
  तद् वित्तवतामनिच्छतामपि वित्तानि यथा दरिद्रसेवायामुपयुज्येरन् तथास्माभिः करणीयम्। अस्ति किल युष्मच्छरीरे शौर्यम् अस्ति चात्मनि भूयान् समुत्साह। तदेव स्वजनाना दुर्भिक्षदावानलेन दह्यमानानां दीनानाञ्च दुःखमौदासीन्येन कथम् उपेक्षणीयम्। उत्तिष्ठत, धनिकाना
-
-
 
 धन बलात्कारेण गृहीत्वा दुर्गताना दुःखशतानि निर्वापयत। स्वजनाना मुखमालिन्यमपसारयत, स्वीय जीवन शान्तिमय कुरुत।
 
@@ -1549,8 +1416,6 @@ Lecturer, Calcutta University**
 
  रत्ना—श्येनक, त्व सत्वर गत्वा नवनगरसन्निवेशव्यापृतं वीरबल
 
-
-
  विज्ञापय,—यथा अद्यैव रात्रौ मया सह वीरबलाधिष्ठितै कतिपयै, पुरुषै, कामेश्वरस्य दुष्टमहीपालस्य राजधानीप्राकारोपकण्ठे सन्निहितैर्भवितव्यम्।
 
  यूयमपि—
@@ -1583,8 +1448,6 @@ Lecturer, Calcutta University**
 स यत् प्रमाणं कुरुते लोकस्तदनुवर्तते।**
 
  तदेवम्भूतस्य राजपदस्य सौभाग्यवंशादुपात्तस्य स्वच्छन्दतो भोगमकुर्वाण कथ तस्य निष्फलता सम्पादयिष्यामि?प्रजाना दैन्यादिक विचारयतो राज्ञस्वभोगपरिभ्रंशेननिष्फलतैव राज्याधिकारस्य। आत्मन एव हि कामाय सर्वमिदं जगत् प्रिय भवति, न जातु कामाय परेषामिति
-
-
 
 भगवती श्रुतिरपि साटोपमेव प्रतिपादयति। तदात्मसुखनिरपेक्ष कथ प्रजासुखमीक्षेय।(प्रकाशम्)आर्य वाचस्पते, कथ्यतामद्यतन राजकार्यम्।
 
@@ -1622,8 +1485,6 @@ Lecturer, Calcutta University**
 
  राजा—अहो। प्रत्यहमेव जानपदाना कातरकोलाहलेन समुद्वेजितोऽस्मि।
 
-
-
  आर्य वाचस्पते, इतो मुक्तेरुपाय परिचिन्त्यताम्। किं वात्र वसन्तको मन्यते?
 
  मन्त्री—देव, राजशरणा दीनप्रजा क वाऽन्य शरण व्रजन्तु, भवतु तथापि राजादेशादुपाय चिन्तयिष्यामि।
@@ -1656,8 +1517,6 @@ Lecturer, Calcutta University**
  पुरुष—अये, अद्यापि कथासक्तो देव, तदवसर प्रतिपालयामि।
 
  मन्त्री—(दृष्ट्वा)देव, एष तेन ब्राह्मणेन सह प्रविष्ट पुरुषो देवस्यावसर प्रतिपालयति। श्रुत्वा देव प्रमाणम्।
-
-
 
  राजा—उपसर्पतु।
 
@@ -1699,8 +1558,6 @@ Lecturer, Calcutta University**
 
  राजा—अथ साम्प्रतम् क्व?
 
-
-
  ब्राह्मण—साम्प्रत देव, द्वावेव तौ मन्दभाग्यस्य दारिद्र्यदूषितस्य मे भोज्यनिष्पादनशक्तिविरहेणेव—
 
 **क्षुधया परिशीर्णविग्रहौ शमनेनाधिकृतौ दिव गतौ।  
@@ -1736,8 +1593,6 @@ Lecturer, Calcutta University**
 कत्येवान्या स्वामिशोकान्म्रियन्ते  
 पातिव्रत्यंनास्ति तासा तथापि?**
 
-
-
 **तदेववादिनी जिह्वा तव च्छेदनमर्हति।  
 नून राज्ञा सखित्वेन पातकी नैव दण्ड्यसे॥**
 
@@ -1762,8 +1617,6 @@ Lecturer, Calcutta University**
  राजा—तत् कृतमाकुलतया, एव क्रियताम्।
 
  ब्राह्मण—देव, देव, यस्य मम दीनाधमस्य पत्नी पुत्रश्च भृशमनशनेन क्लिश्यमानौ राजयक्ष्मणा समाक्रान्तौ, यस्य मे नास्ति तयोरशननिष्पादनसामर्थ्यमपि, सोऽह कथमिव नानाविधमणिसुवर्णादिघटितमौषध बलाधायकं प्रभूतक्षीरनवनीनाद्याहार वा निष्पादयेयम्। देव, अशरणोऽस्मि। मम पत्न्या पुत्रस्य च अचिर सम्भाव्यमानया विपदा पर्याकुलोऽहम् उन्मत्त इव प्रतीकाराय भवन्तं प्राप्तोऽस्मि। तत् प्रसीद, परिपालय मम पत्नीसुतप्राणोपहारेण ममापि दरिद्रस्य ब्राह्मणस्य प्राणान्।
-
-
 
  राजा —आ। श्रुतम्। अप्यस्ति ते वाक्यशेष?
 
@@ -1800,8 +1653,6 @@ Lecturer, Calcutta University**
  तत् किं निमेषमपि यापयथ?
 
  रक्षिण—यथाज्ञापयति देव \। (ब्राह्मण निगडेन बध्नन्ति)
-
-
 
  ब्राह्मण—महाराज, इतोऽपि तीक्ष्णतर मे दण्डं धारय, नास्ति ततोऽपि मे भीति, किन्तु तथा कुरुष्व, यथा मम दीनाधमस्य प्राणसशशये पतितौ पत्नीसुतौ नैव जीवनेन विमुच्येते। महाराज, एष ते पादयो पतामि।
 
@@ -1840,8 +1691,6 @@ Lecturer, Calcutta University**
 
  राजा—आर्य वाचस्पते, नूनमेष उन्मत्त एव।
 
-
-
  मन्त्री—एव किल स्यात्।
 
  वसन्तक—वयस्य, एष उन्मत्तो वा रुद्राक्षो वा स्वय रुद्रो वा भवतु। तथापि नाहमेतस्य तेज सोढुमर्हामि। अह पुनस्तदा अचिन्तय, यथा अनेन बहुलग्रन्थिकर्कशेन दण्डकाष्ठेन दुष्टवटुकस्य मस्तक भङ्क्त्वादु शीलतामस्य प्रशम नयामीति। (नेपथ्याभिमुखे दण्ड दर्शयति)
@@ -1871,8 +1720,6 @@ Lecturer, Calcutta University**
 
  जारा—नेदमिदानीं रोचते।
 
-
-
  वसन्तक—(विचिन्त्य) तहि पुष्पवाटिकाया प्रमोदोद्याने मौक्तिकसरसोपानमधिष्ठाय मरालमिथुनक्रीडा पश्य।
 
  राजा—नेदमपीदानीं रोचते, परं सन्निहितोऽसि।
@@ -1898,8 +1745,6 @@ Lecturer, Calcutta University**
 
  राजा—वयस्य, श्रूयताम्,—अस्ति तावदस्यैव नगरस्य पर्यन्ते वनोपकण्ठे ब्राह्मणपल्ली। तत्रैव केशवदासनाम्न कस्यचिद् ब्राह्मणस्येय मृतमातृका दुहिता लीलावती नाम। मया कदाचित् मृगयार्थं वनोपकण्ठमासाद्य एषा पुष्पचयनव्यापृता एकाकिनी गायन्तीं विलोकिता। दृष्ट्वैवतदा
 
-
-
 तामनिन्द्यसुन्दरीं श्रुत्वा चास्या सुललितं सङ्गीत सहसैव कन्दर्पेण वशीकृतोऽभूवम्, सापि मदीयतुरङ्गमपदशब्देन परावृत्तवदना मामालोकयन्ती तथैवात्मान भावपर्याकुल प्रत्याय्य प्रथममनोविकारप्रच्छादनकामनयेव सन्निहित स्वमावास प्रति प्रातिष्ठत।
 
  वसन्तक—ततस्तत?
@@ -1924,8 +1769,6 @@ Lecturer, Calcutta University**
  वसन्तक—ततस्तत?
 
   राजा—तत कथमपि गृहीतवृत्त केशवदासो यावदेव दुहितरं दृष्टिपथाद् बहिर्गच्छन्तीं नानुमेने, तावदेवाहमेकदा गुप्तघातकेन त घातयित्वा जनानामजानतामेव लीलावतीं गृहीत्वा नवीनपुष्पवाटिकाया रहस्य स्थापयित्वा समुचितवयोरूपरमणीयाभि सखीभि परिवार्य नृत्यगीतकलाशिक्षणाय कस्यचिन्निपुणस्य कलाविद् करे ता न्यस्तवानस्मि। अथ तेन शिल्पिना विहितोपदेशया तया स्वल्पेनैव कालेन स्वा निपुणता प्रकटय्य विस्मयंनीता वयमिति साम्प्रतमुपदेशको विसृष्ट।
-
-
 
  वसन्तक—अथ वयस्य, एव किल कन्यापहारिण त्वां कथ जानपदा नोत्प्रेक्षितवन्त? अथवा उत्प्रेक्षमाणा अपि कथमुपेक्षितवन्त?
 
@@ -1956,8 +1799,6 @@ Lecturer, Calcutta University**
 
  यूथिका—सखि, राजकार्यं किल तत्। सखि, राजैव शुभाशुभयोः प्रतिभू प्रकृतीनाम्, यद्यसौ राजकार्यमनपेक्ष्य माध्यस्थ्यमवलम्बते, तदा महानेव विपत्पातः प्रजानाम्।
 
-
-
  लीला—मूढे न जानासि। आदौ कामपरिभाविना रूपेण मामेवमवशीकृत्य नून साम्प्रतमन्त पुरिकागृहीतचेता शठोऽसौ माध्यस्थ्यमवलम्बते, न राजकार्यपारतन्त्र्येण।
 
  यूथिका—सखि, मा मैवम्, भर्त्तारमविकृत्य नैव सम्भावयितुमर्हसि।
@@ -1977,8 +1818,6 @@ Lecturer, Calcutta University**
  लीला—तद् यावदसौ नागच्छति, तावदेका प्रेमगीतिका चिन्तयामि (गीतिका चिन्तयति)।
 
  यूथिका—अहमपि लब्धावकाशा तव केशप्रसाधन करोमि (केशप्रसाधन करोति)।
-
-
 
 (तत प्रविशति स वसन्तको राजा)
 
@@ -2017,8 +1856,6 @@ Lecturer, Calcutta University**
 
  वसन्तक—एषा ससखीजना लीलावती प्रसाध्यमाना किमपि चिन्तयन्ती माधवीकुञ्जमधितिष्ठति, तदेहि।
 
-
-
  यूथिका—सखि, अपि चिन्तिता गीतिका?
 
  लीला—अथ किम्।
@@ -2046,8 +1883,6 @@ Lecturer, Calcutta University**
 
  यूथिका—अये, वयस्यो वसन्तक। (दृष्ट्वा) अहो, दूरे भर्तापि। सखि दिष्ट्या वर्द्धसे। एष वयस्यो वसन्तक, अदूरे भर्ता च।
 
-
-
  लीला—कथ महाराज। तत् कथमेव वसन्तक क्रोशतीति नावधारयामि।
 
  राजा—(स्वगतम्) अहो मुग्धता वसन्तकस्य। प्रियया लीलावत्या वसन्तमृतुमधिकृत्य कृतेऽपि सङ्गीते स्वनाम्ना भ्रान्त क्रोशति। भवत्वेवं तावत्। (प्रकाशम्) वयस्य, अप्येतन्निदर्शन भवतो बाल्यत प्रभृति निरूढस्य वयस्यभावस्य?धिग् वञ्चितोऽस्मि चिरं कपटपटुना पयोमुखेनेव विषकुम्भेनानेन।
@@ -2073,8 +1908,6 @@ Lecturer, Calcutta University**
  लीला—सुतराम् ऋजुक एष ब्राह्मण।
 
  वसन्तक—आम् एवम्? अहो निर्वृतोऽस्मि, अपगतो मे शीर्षात्
-
-
 
  सुमहान् पर्वतभार। तदिदानीं लीलावत्या सुधास्यन्दिना सङ्गीतेन स्मृतेन पर सन्तोषमुपलभे।
 
@@ -2111,8 +1944,6 @@ Lecturer, Calcutta University**
 
  लीला—अहो, बलात्कारेण मान प्रदर्शयन्ती नात. परमपि मान रक्षितुमर्हामि। तदेव तावत् कथयिष्ये। (प्रकाशम्) यूथिके, अथ यदि राज्ञो
 
-
-
  मयि न कपटप्रणयस्तदा कुतोऽद्यापि स मे हीरकहारो यमसौ पूर्वस्मिन् पञ्चमदिवसे मया याचित?  
  राजा—आम्। ज्ञातम्। अत एवायमभिमान्। प्रिये, मान जहीहि, अद्यैवायम्प्रियाया कण्ठसङ्गेन स्व वर्द्धयिष्यति।
 
@@ -2147,8 +1978,6 @@ Lecturer, Calcutta University**
 
  वसन्तक—अपि नाम राज्यमिदमराजक सवृत्तम्।
 
-
-
  राजा—कथमिव?
 
  वसन्तक—न चेदराजक राज्यम्, कथन्तर्हि पुरुष सुरामुपनयति ? पश्यन्त्या कामिन्या पुरुषेणोपनीतया सुरया पुरुषो दण्डमर्हति।
@@ -2181,8 +2010,6 @@ Lecturer, Calcutta University**
  राजा—(नयनसङ्केतेन लीलावतीं तथैव आदिश्य) वयस्य, त्व प्रत्यह 'शौण्डिकाना करस्पृष्टेन जलेन निर्मिता सुरामह पिबामि' इति कृत्वा मामधिक्षिपसि, अद्य तु तीर्थजलेन ब्राह्मणीभिरेव सुरा कारितवानस्मि तदत पर न मामधिक्षेप्तुमर्हसि।
 
  लीला—अहो निपुणवादिता स्वामिन।
-
-
 
  वसन्तक—आम् एवम्?तदत पर सवाधिक्षेपाद् विरतो भविष्यामि।
 
@@ -2220,8 +2047,6 @@ Lecturer, Calcutta University**
 
  वसन्तक—नितरामानन्दमनुभवामि।
 
-
-
  राजा—उत्तरोत्तर स एष वृद्धिमेव यास्यति। प्रिये, पुनरपि वयस्याय सुरा यच्छ (सुरा पिबति)।
 
  लीला—तथा (सुरा ददाति)।
@@ -2245,8 +2070,6 @@ Lecturer, Calcutta University**
 
  राजा—वयस्य, किं मत्तोऽसि?  
  वसन्तक—न हि न हि, इन्द्रोऽस्मि, एष स्वर्ग, एषा देवभोग्या सुधा। एषा च उर्वशी नृत्यगीतकुशला श्रोत्र नेत्रञ्चन परितर्पयति। अयि उर्वशि, कथ विरतासि, नृत्य सङ्गीतञ्चकुरु, तथैव कुर्वती मह्य रोचसे, न तु तूष्णीं तिष्ठन्ती, तदल मौनेन। अहमपि सुधां पीत्वा परमानन्द विन्दामि।अयि मेनके, उपनय सुधाम्।
-
-
 
  राजा—भो, यदि भवानिन्द्र, अहन्तर्हि क?
 
@@ -2281,8 +2104,6 @@ Lecturer, Calcutta University**
 
  वसन्तक—पश्यामि तावत् (विचिन्त्य स्मृत्वा नृत्यंनाटयित्वा) आ! दृष्टम्। दृष्टम्॥
 
-
-
  राजा—किं दृष्टम्?
 
  वसन्तकः—लीलावती भविष्यामि, यत्र प्रियवयस्यो मे कामेश्वरोऽपि सुतरामायतते। हुम्। इदानीं नाहंतवायत्ता, त्वमेव सम्प्रति ममायत्तोऽसि। इदानीमुपलालय माम्। एषा गायामि, एषा नृत्यामि, अयि, यूथिके, सुधामुपनय।
@@ -2297,7 +2118,6 @@ Lecturer, Calcutta University**
 मद्य मोदमहार्णवोत्थममृत किं काम्यमस्मात् परम्॥**
 
  वसन्तक—अयि देवि सुरे, प्रसीद, एतावतो दिवसानुपेक्षमाणस्य मे महान्तमपि दोष क्षन्तुमर्हसि (भूमौ प्रणमति)।  
-
 
  राजा—प्रिये, लीलावति, एष सुतरा मत्तो वसन्तक। अयि प्रिये।
 
@@ -2315,12 +2135,9 @@ Lecturer, Calcutta University**
 
 (इतियथोक्त व्यवस्यति)  
 
-
  (नेपथ्ये—परित्रायता परित्रायता महाराजः)
 
  राजा—(श्रुतिमभिनीय) अये, किन्नुखल्विदम्? महानेष तोरणद्वारे कोलाहल। तत् किन्नु खलु स्यात्?
-
-
 
  प्रविश्य प्रतीहारी—जयति जयति महाराज।
 
@@ -2338,7 +2155,6 @@ Lecturer, Calcutta University**
 
  राजा—धिक् कष्टम्। प्रतिपदमेव प्रत्यूहव्यूहेन विघ्नितप्रसरो जन्मवता मनोरथलाभ। स्वार्थमुग्ध जगत् सन्ततमेव स्वार्थमभिसन्धत्ते, न पुन परार्थमपि। यद्येव किमिति मयापि परार्थं प्रवर्तितव्यम्?  
 
-
  (नेपथ्ये—हा हा हता स्म, मारिता स्म, कठोरकशाघातेन मारिता स्म)।
 
   राजा—(श्रुत्वा) दुष्टास्वकर्मफलमनुभवन्तु। अयिप्रिये, लीलावति।
@@ -2353,8 +2169,6 @@ Lecturer, Calcutta University**
  (यथोक्त कर्तुं व्यवसितः)
 
  लीला—प्रियतम, एष एव स्वर्गो ननु?
-
-
 
  राजा—प्रिये, अथ किम्।
 
@@ -2390,8 +2204,6 @@ Lecturer, Calcutta University**
 
  राजा—अहो चण्डस्वभावा देवी। प्रिये, लीलावति, अचिर मोचनीय
 
-
-
  सहीरकहारो विश्वावसु। तदेषोऽह नातिचिरात् सिद्धसमीहित प्रत्यावर्तिष्ये। त्वमपि वसन्तक प्रबोध्य ससखीजना गृहाभ्यन्तर प्रविश। (निष्क्रान्त)।
 
  लीला—एवमस्तु।अहो शीलवत्या देवीपदाधिकारगर्व। भो वयस्य, वयस्य, उत्तिष्ठ।
@@ -2413,8 +2225,6 @@ Lecturer, Calcutta University**
 **द्वितीयाङ्क समाप्त**
 
 **————**
-
-
 
 **तृतीयाङ्कः**
 
@@ -2439,8 +2249,6 @@ Lecturer, Calcutta University**
  रत्ना—अद्य सुमहत् साहसमनुष्ठातव्यम्।
 
  वीर—किमिति?
-
-
 
  रत्ना—अवधानेन समाकर्ण्यताम्। अयमदूरे सदृश्यते सर्वत श्वेतो राजप्रासाद?
 
@@ -2481,8 +2289,6 @@ Lecturer, Calcutta University**
 
  मेघवर्ण—(इतस्ततो निपुणमन्विष्य) स्वामिन्, न कश्चिद्दृश्यते।
 
-
-
  रत्ना—तदिदानीं श्रूयताम्?
 
  सर्वे— अवहिता स्म।
@@ -2513,8 +2319,6 @@ Lecturer, Calcutta University**
 
  रत्ना—विशालाक्ष, रत्नाकरमद्यापि न जानीषे, येनैवमाशङ्कसे। किं वा कतिपयैर्जागरितै, ये कथमपि सुप्तास्तानपि स्वेच्छया जागरयिष्यामि।
 
-
-
  सर्वे—कथमिव?
 
  रत्ना—काले सर्वं द्रक्ष्यथ, इदानीं यथादिष्टमनुतिष्ठत।
@@ -2543,8 +2347,6 @@ Lecturer, Calcutta University**
  अन्यच्च, ये किलास्मदीया अपरे, तेऽपि प्राकारादु बहिरस्मानपेक्षिष्यन्ते, यावद् क्य साहसकारिणो द्रव्याणि यथाकाम सञ्चित्य तेभ्यो दास्याम। यदि कश्चित् सहसा दृष्ट प्रतिपक्षस्तदा सोऽयमकालहीनमविचारितं हन्तव्य। सति व व्यसनोपनिपाते निरपेक्षमेव प्रस्थातव्यम्।
 
  सर्वे—यथादिशति स्वामी।
-
-
 
  रत्ना—तदलमत्र कालातिपातेन। यावच्छीघ्र प्राकारोपान्तमेव समुपसर्पाम।
 
@@ -2580,8 +2382,6 @@ Lecturer, Calcutta University**
 
  २य—तस्मात् !
 
-
-
  १म—तस्मात् कस्मात्?
 
  २य—यस्तावदन्धकारमुपजीवति।
@@ -2610,8 +2410,6 @@ Lecturer, Calcutta University**
 
  २य—हा। हा। हा।हा। वज्रहस्त, समीपमेहि एष एव नूनं स, प्राकाराद् वृक्षं, वृक्षाच्च भूमिम् अवतरति। हा। ह।हा। अत परं भूमिमार्गेण समागत्य आवयोर्घाटा मोटयिष्यति।आ।आ॥आ… आ…
 
-
-
  १म—अरे मूर्ख मा तावदुच्चैशब्द कुरु, एवमसौ प्रबोधित सत्त्वरमित एवाभिवर्तेत। तदेहि यावत् सत्वर राजकुलं प्रविशाव।
 
  २य—(दृष्ट्वा) अरे वज्रहस्त, आदौ एक एव, इदानीं पुन पादपस्याधस्ताद बहवो दृश्यन्ते। हा। हा। हता स्म।
@@ -2636,8 +2434,6 @@ Lecturer, Calcutta University**
 
  सर्वे—आ। गृहीतोऽर्थ।
 
-
-
  रत्ना—भद्र शूरसेन, अपि गृहीतो वीरबलेन दण्ड?
 
  शूरसेन—अथ किम्, गृहीत।
@@ -2651,8 +2447,6 @@ Lecturer, Calcutta University**
  सर्वे—यथाज्ञापयति स्वामी (सर्वे प्रविशन्ति)।
 
  रत्ना—(समीपे रक्षिण दृष्ट्वा) अये, अद्याप्यत्र सशस्त्रो रक्षी? भवतु प्राप्तकालं प्रतिकारं करोमि। (सहसा समुपसृत्य दण्डप्रहारेण
-
-
 
 रक्षिण पातयित्वा) मूढ, अद्यापि उच्छ्वास वहसि ? तद् गच्छ, यमेन स्मृतोऽसि। (पुनरपि दण्डेन प्रहृत्य) मूढ, म्रियस्व।
 
@@ -2687,8 +2481,6 @@ Lecturer, Calcutta University**
 
  सर्वे—यथाज्ञापयति स्वामी। (प्रविश्य) स्वामिन्, रत्नाना किरणे प्रतिहन्यन्ते नश्चक्षुषस्तेजासि।
 
-
-
  रत्ना—नाय काल कथान्तरस्य, तत् स्वकृत्येष्ववहिता भवत।
 
  सर्वे—तथा, (प्रविश्य गोणिकासु रत्नानि स्थापयित्वा) स्वामिन्, रत्ने परिपूरिता सर्वा एव गोणिका।
@@ -2714,8 +2506,6 @@ Lecturer, Calcutta University**
  ३य—आम्। एते सर्व एव निर्गता पादपतलमाश्रित्य व्याकुला विलपन्ति। प्रधानामात्यो वाचस्पतिश्च सर्वान् सान्त्वयति।
 
  १म—अये, किन्नु खल्विदम् एषा कापि स्त्रीसोरस्ताड रुदती
-
-
 
  प्रज्वलिताद् गेहान्निर्गता, अये एषा किमपि याचमाना प्रत्याख्याता इत एवाभिवर्तते। तत् किन्नु खल्विदम्?
 
@@ -2750,8 +2540,6 @@ Lecturer, Calcutta University**
 
  ४र्थ—धिक् प्रहसनम्।
 
-
-
 **देववत् पूतशीलेऽस्मिन् कलङ्क कल्प्यते त्वया।  
 स्वस्वभावानुरूप्येण वृत्तमन्यस्य मन्यते॥**
 
@@ -2784,8 +2572,6 @@ Lecturer, Calcutta University**
  स्त्री—भवतु भवदनभिमतञ्चेत् परिहृत्य अन्तरालमेव समाश्रित्य मम पुत्रस्य प्राणदातारमपेक्षे।
 
  १म—एव क्रियताम्। (निष्क्रान्ता सपुत्रा स्त्री )।
-
-
 
  ३य—अये, कथञ्चित् प्रशान्तिमुपयातो ज्वलन।
 
@@ -2822,8 +2608,6 @@ Lecturer, Calcutta University**
 
  ( पुनः नेपथ्ये )
 
-
-
 **राजप्रासादमासाद्य हत्वा च द्वाररक्षिण।  
 हृतानि राजकोषस्य रत्नानि खलु तस्करै॥**
 
@@ -2851,8 +2635,6 @@ Lecturer, Calcutta University**
 **(ततः प्रविशति सचिवेन सह सपरिवारो राजा )**
 
  राजा—अहो, साहस तस्कराणाम्।
-
-
 
 **उग्रेजाग्रति भूनाथे मयि दण्डनियामके।  
 ममैव गेहे चौराणा मर्यादाभङ्गसाहसम्॥**
@@ -2892,8 +2674,6 @@ Lecturer, Calcutta University**
 
  प्रविश्य प्रतीहारी—जयति जयति देव।
 
-
-
  राजा—अयि, जयसेने। सम्भ्रान्तासि, तद् विवक्षित ब्रुहि।
 
  प्रती—देव, एष तुरङ्गमारुह्य समागतो दुर्गेश्वरण सिंहवर्मणा प्रेषित पुरुषो महाराज सत्वर द्रष्टुमिच्छति।
@@ -2926,8 +2706,6 @@ Lecturer, Calcutta University**
 
  मन्त्री—(गृहीत्वा वाचयति) स्वस्ति देवाय, एष प्रणतः सिहवर्मा विज्ञापयति, सत्यपि निःसपत्ने दुर्गे शैलेश्वरेण दुर्गमाक्रान्तमावेद्य मन्नान्ना कूटलेखसम्पादनेन दृढ वञ्चित श्रीमान् केनापि। तत् सम्भावितानिष्टपरिहाराय त्वरितगामिना तुरङ्गेणाय पत्रवाह पुरुष प्रेष्यते। ज्ञात्वा देवः प्रमाणम्। किञ्चनातिचिरमेव पुन प्रेष्यन्ते श्रीमता परिप्रेषिता सैनिका इति। एतत् पत्रम्।
 
-
-
  राजा—भद्र, गच्छ, विज्ञापय दुर्गेश्वर सिंहवर्माण सत्य वञ्चितोऽस्मीति।
 
  पुरुष—यथाज्ञापयति देव। (निष्क्रान्त)।
@@ -2955,8 +2733,6 @@ Lecturer, Calcutta University**
 
  राजा—भाग्येन खलु भवानभिरक्षितो भवद्गृहञ्चदूरत परिवर्जित हुताशनेन। प्रवरामात्यस्य वाचस्पते पुन सुतरा कष्टा दशा वर्तते, येन तथा विपत्पाते प्रपन्नेऽपि तमाकारयितु नाह प्रावर्त्तिषि। भवतु, आर्य मित्रावसो, अलं विलम्बेन, भवान् स्वयमेव राष्ट्रिय कृत्ये नियोजयतु एव किल कृत्य गुरुक गृह्येत। तदादिश्यता मद्वचनाद् राष्ट्रिय—
 
-
-
  मन्त्री—किमिति ?
 
  राजा—एवमादिश्यताम्—
@@ -2980,8 +2756,6 @@ Lecturer, Calcutta University**
 **तृतीयाङ्क समाप्त**
 
 **—————**
-
-
 
 **प्रशान्तरत्नाकरम्**
 
@@ -3015,8 +2789,6 @@ Lecturer, Calcutta University**
 
  ब्राह्मण—भद्र, धनदत्त, किं कुर्म दुर्भिक्षविक्षुभिते जनपदे न शक्यते
 
-
-
  प्रभूतेनापि प्रयत्नेन धनमर्जयितुम्। तत् क्रियतामनुकम्पा, येन स्वजनान् जीवयितुं शक्नुयाम्।
 
  धन—स्वविनाशत परविनाशो गरीयानित्यबोधजल्पितम्। तन्नालमहमात्मनो विनाशेन परानभिरक्षितुम्।
@@ -3026,8 +2798,6 @@ Lecturer, Calcutta University**
  वन—स्वार्थान्ध, ब्राह्मण, केवल धनमेव मे पर्यालोकयसि, न पुनर्व्ययमपि दृश्यता व्ययमान, येन प्रभूतमपि धन स्वल्पमात्र प्रतिभास्यति। दुर्भिक्षपर्याकुले महाभये जनपदे तस्करादिभ्य आपणपरिरक्षणार्थं नियुक्ता शस्त्रधारिण प्रभूतवेतना पुरुषा, क्रयविक्रयादिव्यवहारनिर्वाहार्थमधिकृता दश निपुणा कर्मठा, गृहकर्मनिष्पादनार्थं शिशुरक्षणार्थञ्चसन्ति दासा दास्यश्च, सर्व एवैते समधिक वेतन गृह्णन्ति। अत पर बान्धववार्ता,—मम स्वस्य तिस्रो भार्या, प्रत्येक पञ्च पुत्रा, प्रतिभार्यं श्वशुर श्वश्रूश्याला श्यालपत्न्य श्यालाना पुत्रा पुत्रिकाश्च। बृद्धा जननी तस्या सपरिजना पञ्चभ्रातर तिस्रो भगिन्य पितु रवसार पितृव्या तत्पुत्रा अन्ये च परम्परया सम्बन्धिनः परिकल्पितसम्बन्धाश्चेति कियता नाम्ना निर्द्देशं करोमि ? सर्व स्वामी मयि प्रभुभावेन वर्तमाना नक्तन्दिवं सविलास काल यापयन्ति। उपकरणानि पुनर्मयैव निष्पादनीयानीत्यत्र किंवा बहु वक्तव्यम् ? तदेव गते भूयामोऽप्यर्थाकिमु चिर तिष्ठन्ति ? वाह्यास्तु जना मुग्धा केवलमायमेव समीक्षन्ते न पुनर्व्ययभारमपीति प्रभूतवित्तमेव मा सम्भावयन्ति। तदनुगुण तेषु समनुष्ठातुमशक्नुवन्तञ्च मा नितरा मितम्पचमेव समामनन्ति। तदत्र कथ वा मया शक्य प्रतिकर्तुम् ?
 
  ब्राह्मण—भद्र, धनदत्त, उपायान्तरमनीक्षमाण कथयामि, न तु स्वार्थान्धतया, महालोहभारे शाकगुच्छक इव तवाय भारो नैव दुर्वहता दधीत, तत् क्रियता गतिरहितस्य दीनस्य मे कृपालेश, देवतास्ते स्वस्ति करिष्यन्ति।
-
-
 
  धन—एवमेव एकैकश. शाकस्तवकप्रचयेन महान् भार सम्पद्यते। य सबलैरपि दुर्वहो भवति। न भवान् एक एव तादृश, सन्ति शतानि तथाभूताना, ये भिक्षावृत्तय परान् परिक्लेशयन्ति। तदलमद्यापि व्रीडाकरेण प्रार्थनानुबन्धेन, स्वमेव पन्थानमवलोकयस्व॥
 
@@ -3052,8 +2822,6 @@ Lecturer, Calcutta University**
 स्त एव जीवन्ति सुखेन सन्त।  
 ये नोत्तमर्णस्य दृशो कटाक्ष  
 न वाऽधमोक्तिं समनुस्मरन्ति॥**
-
-
 
  धन—सार्द्धशतम्? अपि निपुणतया दृष्टम् ?
 
@@ -3085,8 +2853,6 @@ Lecturer, Calcutta University**
 
  धन—अरे मणिदत्त, अपेक्षितमादौ पश्य, लिख्यता चारुदत्तेन वैश्येन दशशरावमिन तेल गृहीतम्, शोभनशर्मणा च गृहीता पञ्चद्रोणमितास्तण्डुला इति।
 
-
-
  मणि—(लेखमभिनीय) तात, लिखितम्।
 
  च्यवन—भद्र, मणिदत्त, इदानीं दृश्यता मदीयनामलेख।
@@ -3114,8 +2880,6 @@ Lecturer, Calcutta University**
 
  धन—(स्वगत) अये सत्यमेव ददाति ? आश्चर्यमाश्चर्यम्। अस्य तावताऽल्पकालेन कथमेतावती समृद्धि ? (प्रकाशम्) आर्य, प्रणमामि, मर्षयतु मर्षयतु भवान् मम मन्दभाग्यस्य क्रियान्तरान्तरायजनितमपराधम्। अरे क कोऽत्र ? आर्यस्य च्यवनस्य आसनमुपनय, अरे मणिदत्त, अद्यापि मध्यस्थ इव लेख पश्यसि ? शीघ्रमार्यस्य पादौ
 
-
-
 गृहाण। आ मूर्ख, गुरुजनपरिचर्यामपि न जानासि ?कथमेतावता युष्माकं कल्याण सम्पत्स्यते ? अरे रत्नदत्त, शीघ्रमस्य बालस्य मत्स्यण्डिकाखण्डमुपहर।अहह। किमह स्थविर सर्वत्र युगपद् दृष्टिं प्रवर्तयितु शक्नोमि ? हा हा ! सर्व एवामी मध्यस्था कर्तव्यार्थेषु। न जाने का पुनरेषा गतिरग्रतो भविष्यति ?
 
 **(सर्वे यथोक्त कुर्वन्ति )**
@@ -3142,8 +2906,6 @@ Lecturer, Calcutta University**
 
  धन—आर्य, अपि सत्यम्?
 
-
-
  च्यवन—अथ किम्। चिरादनन्तर दैवेनाद्य वयमनुगृहीता।
 
  धन—(स्वगतम्) अये, कुत खलु सहसा रत्नाकरस्य तावान्धनागम ?तत् संशयितोऽस्मि।
@@ -3166,8 +2928,6 @@ Lecturer, Calcutta University**
 
  च्यवन—तत कदाचित् क्षुधार्तेषु परिजनेषु रत्नाकरः पुत्रो मे भिक्षाटनाय बहिर्गत। अथ क्रमेण पश्चिमाकाशप्रान्तपतितेऽपि सवितरि तमप्रत्यावृत्त समीक्ष्य गृहे क्षुधया सुतरा परिक्लिष्टान् स्वजनानुपेक्षितुमशक्त स्वयमपि भिक्षार्थं बहिर्गन्तुमुपक्रान्तो मूर्च्छित पतितोऽभूवम्। तदैव च
 
-
-
 रत्नाकर प्रभूतोपकरणसमेतो गृहे प्रत्यावृत्त सवान् समुज्जीवितवान्। पृष्टश्चासौ'केनापि मित्रेण स्वनामकीर्तनमनिच्छता सर्वाण्युपकरणानि दत्तानी'त्यवोचत्। तत प्रभृत्येव सुखेन संसारयात्रा निर्वर्तयामि। एवमन्तरान्तरैव तेन रत्नाकरस्य परममित्रेण प्रदीयन्ते सर्वाण्युपकरणानि। सम्प्रति च तेन पुनस्तावन्ति धनानि प्रदत्तानि, यैसुतरामेव दारिद्र्यानं मुक्तोऽस्मि।
 
  धन—अहो। परमोदार खलु मित्र रत्नाकरस्य, किन्तु नासौ भवतापि नाम्ना परिज्ञायते ?
@@ -3187,8 +2947,6 @@ Lecturer, Calcutta University**
  च्यवन—अब्रह्मण्य भो अब्रह्मण्यम्।
 
  आत्रेय—भो राजपुरुषा। कथं निरपराधेष्वस्मासु एव कुरुथ?
-
-
 
  राष्ट्रिय— धिक् प्रागल्भ्यम्। अयमपि कारण पृच्छति। अरे किं पश्यथ, पीडयत। (राजपुरुषास्तथा कुर्वन्ति)
 
@@ -3220,8 +2978,6 @@ Lecturer, Calcutta University**
 
  मणि—कथमिव ?भवानिदानीमेव समागत।
 
-
-
  राजपुरुष—वणिक्कुमार, अलमनेन कूटप्रबन्धेन, च्यवनेन वसनग्रन्थित समुद्धत्य प्रदत्त, त्वया च विशेषत परीक्ष्य गणयित्वा गृहीतम्।
 
  मणि—किमेव वदसि ? अहन्तु तथा न स्मरामि।
@@ -3249,8 +3005,6 @@ Lecturer, Calcutta University**
  राष्ट्रिय—भो राजपुरुषा।निगडेन बद्ध्वाएन ताडयन्तो राजकुल नयत, यावदस्य राजधनमपह्न वानस्य महाराज स्वयमेव प्राणहर दण्डमाज्ञापयति—
 
  राजपुरुषा — यथाज्ञापयति स्वामी। (बद्ध्वाताडयन्ति)
-
-
 
  मणि—(सवैक्लव्यम्) हा हतोऽस्मि, हा हा मारितोऽस्मि॥
 
@@ -3286,8 +3040,6 @@ Lecturer, Calcutta University**
 
  धन— (पुत्रेण सह गच्छन्) हा मूर्ख, तवैव बुद्धिलाघवेन न केवल करगत शतद्वय भ्रष्टम्, पर तत्कुसीदरूपेण सुवर्णमुद्राद्वयमपि हारितम्।
 
-
-
  मणि—आम्। सुवर्णमुद्राद्वयम् ? मत्परित्राणाय ? हा धिक् हा धिक्। तात, अलं मे परित्राणेन। अलं मे परित्राणेन॥
 
  धन—आ मूर्ख, विरम विरम, अलमिदानीमतिमौर्ख्येणगच्छ।
@@ -3322,8 +3074,6 @@ Lecturer, Calcutta University**
 
  आत्रेय—कथं न जानामि?
 
-
-
  राष्ट्रिय—तत् कथय, कुत इति।
 
  आत्रेय—तातप्रसादात्।
@@ -3352,7 +3102,6 @@ Lecturer, Calcutta University**
 
  च्यवन—भो राष्टिय मा तावदेवम्। मर्षय भो मर्षय—भो भो राजपुरुषा। मा तावदेवम्।  
 
-
 **बालानामपराधेऽपि गुरुदण्डो न धार्यते।  
 करुणा क्रियता स्नेहानमृष्यता बालचापलम्॥**
 
@@ -3364,8 +3113,6 @@ Lecturer, Calcutta University**
 स्यन्दते धारया रक्त च्यवनोऽद्यापि जीवति॥**
 
 अयि भो राष्ट्रिय, कुरु बालेऽस्मिन् वृद्धे च मय्यनुकम्पम्। अथवा—
-
-
 
 **यदि नास्ति क्षमैकान्ता चित्ते तदस्य रुदत शिशो।  
 अपराधानुरूप यत् तन्मय्येव वितीर्यताम्॥**
@@ -3404,8 +3151,6 @@ Lecturer, Calcutta University**
 
  आत्रेय—अरे निष्ठुरा राजपुरुषा। मा नाम वृद्ध पितामह ताडयत, अहह। देहादस्य स्यन्दते रक्तम्। अहह। तात, क्वासि ? शीघ्रमागच्छ, मा
 
-
-
  पितामहञ्चराजपुरुषहस्तात् परित्रायस्व। तात,क्वासि, हा तात, नात परं शक्यते सोढुम्। तात पश्य माम्। अहो। एष सर्वं तमोमय पश्यामि, पितामह, पिताम—(इत्यर्द्धोक्तेमूर्च्छति)।
 
  राष्ट्रिय—ताडयत, ताडयत, एव किल राजादेश।
@@ -3435,8 +3180,6 @@ Lecturer, Calcutta University**
 
  वीर—यथाज्ञापयति वयस्य (सर्वे यथोक्तमभिनयन्ति)।
 
-
-
  रत्ना—मूढ, मर्कटक, (राष्ट्रियस्य शिर पादेन मर्द्दयन्)। रत्नाकरं न जानीषे ? मूढ, अनुभवेदानीं स्वीयदुष्कृतफलम्। मित्र, वीरबल, सम्यक् परीक्ष्य ज्ञायता सर्वे पशवो निःशेषजीविता न वेति
 
  वीर—(परीक्ष्य) वयस्य, कथमद्यापि ध्रियेरन् ?जात एव सर्वेषा समाधि ।
@@ -3452,8 +3195,6 @@ Lecturer, Calcutta University**
 **चतुर्थाङ्कसमाप्त।**
 
 **————**
-
-
 
 **पञ्चमाङ्कः**
 
@@ -3480,7 +3221,6 @@ Lecturer, Calcutta University**
 का त्व रोदिषि वत्सले प्रियतम सम्बोधयन्ती मुहु ?  
 नेत्राद् वारिदवत् पतत्यपि कथं बाप्पो विषादेन ते ?  
 
-
 सुमति—
 
 का स्व दीनजनरय कष्टमसम दृष्ट्वापि हृष्टा पर  
@@ -3495,8 +3235,6 @@ Lecturer, Calcutta University**
 
 आसीन्मे प्रियबान्धव स सहसा नीतस्त्वया दुष्टया,  
 तस्मादेव ममाद्य शोकविक्ल चित्त मुहुस्तापितम्॥
-
-
 
 **कुमति—**
 
@@ -3552,8 +3290,6 @@ Lecturer, Calcutta University**
 **निद्रा प्रबुद्धापि विमूढमानसा प्रत्यापयन्ती किमहो न लज्जसे?  
 असम्भव किं परिवर्तन स्थितेर्विजानतीं चेतसि द्दप्तता गता ?**
 
-
-
 **पदे पदे हन्ति यदेष मानुषान् यदेष पापेषु महत्पु मज्जति।  
 यदेष मिथ्या परलोकमीक्षते कुतो नु तस्य त्वरया विपर्यय?  
 त्वय्याप्तरागस्तव यत् प्रिय पुरा फल महादुःखमय न किं तत ?  
@@ -3591,8 +3327,6 @@ Lecturer, Calcutta University**
 
 **प्रवञ्चकै कल्पितमर्थसिद्धये जन्मान्तर प्राक्तनकर्ममूलकम्।  
 अलं तदालम्ब्य जनप्रवञ्चनैविर्रम्यता हन्त दुरात्मवर्तनात्।**
-
-
 
 **न काकतालीयनय विजानताम् इहैव वा पापफलस्य सङ्गति।  
 यथा यथाय पुरुष प्रवर्तततथा तथैवास्य फल प्रजायते। **
@@ -3636,8 +3370,6 @@ Lecturer, Calcutta University**
 
  रत्ना—वत्स, कुतो बिभेषि?
 
-
-
  आत्रेय—निष्ठुरेभ्यो रक्षिपुरुषेभ्य खलस्वभावाच्च राष्ट्रियात्।
 
  रत्ना—वत्स, मा मैवम्, अलमद्यापि तभ्यो भयेन। ते खलु पापा किमद्यापि ध्रियन्ते। वत्स,
@@ -3667,8 +3399,6 @@ Lecturer, Calcutta University**
 राज्ञा कामफल प्रभूतमभित सञ्चित्य पुञ्जीकृतम्॥**
 
  तत एवास्य नवीन–नगरस्य प्रवति ताऽस्माभि सान्वया रत्नपुरमिति सज्ञा।
-
-
 
  आत्रेय—गृहीत सज्ञाबीजम्। इदानीमायतनमस्य तातो वक्तुमहति।
 
@@ -3700,8 +3430,6 @@ Lecturer, Calcutta University**
  आत्रेय—तात, न व्यथयति, आश्चर्य खलु प्रभावो भेषजस्य। यदेव तेन भिषजा विजयगुप्तेन निसृष्ट शरीरे क्षतस्थानेषु भेषजलेप, तत, प्रभृति स्वल्पेनैव कालेन जाता मे वेदनाशान्ति।
 
  रत्ना—(परीक्ष्य) सत्य महान् प्रभावो भेषजस्य, साम्प्रत क्षताना चिह्नमपि नोपलभ्यते। किन्तु अहह। भेषजेनानेन नास्ति मे हृदयक्षतस्य शान्ति।
-
-
 
  आत्रेय—तात, कथमिव ? कुत्र नु ते हृदयक्षतम् ?दर्शय, यावत्पश्यामि।
 
@@ -3740,8 +3468,6 @@ Lecturer, Calcutta University**
 
  रत्ना—आम् एव भविष्यति। (स्वगत) अहो रुद्र इति नाममात्रेण वत्सो
 
-
-
  मे भ्रान्त। भवतु नास्य भ्रम शोधयिष्यामि। ( प्रकाश) वत्स, क सन्देह ?रुद्र एव मे व्यथा शमयिष्यति।
 
  प्रविश्य अपर पुरुष—स्वामिन्, एष कुमारस्य व्यायामकाल, तदनुमन्यता कुमारो व्यायामानुष्ठानाय।
@@ -3772,8 +3498,6 @@ Lecturer, Calcutta University**
 
  माधव—ततश्च मया विशेषत समुद्घोष्यमाण मूलाना प्रभावमाकर्ण्य पद पदे महानेव जनसमर्दो मामन्वगच्छत्।
 
-
-
  रत्ना—ततस्तव?
 
 माधव—ततक्रमेण राजपुरसमीप प्राप्तो यावत्तथैव जनसम्मर्दपरिवेष्टितो मुहुर्मुहुर्मूलप्रभावमुद्घोषितवानस्मि, तावदेव लोकमुखेन गृहीतवृत्तो राजा मामाकारितवान्। अथ पुरुषैरुपनीतेन मया दृष्टो राजा। पृष्टश्चाह तेन, भो मूलवैद्य, कीदृशास्तव मूलप्रभावा इति। मयोक्त, देव, महान्त खलु मे मूलप्रभावा। तथाहि—
@@ -3798,8 +3522,6 @@ Lecturer, Calcutta University**
  रत्ना—ततस्तत?  
  माधव—ततो मया वसनप्रन्थित समुद्धृत किमपि विषहर मूल करेण गृहीत्वा यावत पञ्जरस्य द्वारमपावृत तावदेवासौ भीषणो विषधर स्वामुग्रता विस्मृत्य पञ्जरकोणे किञ्चुलुक इव शयितो गृहीतश्च कण्ठे निर्विशङ्कम्।
 
-
-
  रत्ना—ततस्तत.?
 
  माधव—ततोयावदसौ कण्ठे गृहोत्वानिर्वीर्योबहिरवतारित, तावद् मम मूलप्रभावे अप्रत्यायित सदर्प सेनापति त तथैव ग्रहीतुमुपक्रममाण। पुनः पुनः प्रतिषिध्यमानोऽपि जनसमाजेन मम प्रकर्ष लघूकर्त्तु स्वप्रकषेञ्चप्रकटयितु त विषधर मम हस्तात् समाददे, तावदेव हस्तात् स्खलितोऽसौ त करे दष्टवान् पतितश्चतत्क्षण एव 'हा हतोऽस्मी' त्युक्त्वासेनापतिर्भूमौ। तावदेव च हाहाकारेण मुखरिता सर्वा दिश।
@@ -3819,8 +3541,6 @@ Lecturer, Calcutta University**
  रत्ना—किमिति ?
 
  माधव—एतत् पृष्टोऽस्मि, भो वद्यराज, अस्ति मे प्रवर कुमारो राजेश्वरा नाम, स हि विविधैरुपकरणैरुपचरितोऽपि न तथा समुपचिता—
-
-
 
  वयवो दृश्यते, तद् यद्यस्ति तादृश मूल, येन प्रवर कुमारो मे विशेषत समुपचितशरीर स्यात्, तत्तर्हि कृपया प्रयोक्तुमर्हसि। इति।
 
@@ -3857,8 +3577,6 @@ Lecturer, Calcutta University**
  प्रविश्य पुरुष—आज्ञापयतु स्वामी।
 
  रत्ना—सत्वर वीरबल समाहूयताम्।
-
-
 
  पुरुष—यथाज्ञापयति स्वामी। (निष्क्रान्त )
 
@@ -3899,8 +3617,6 @@ Lecturer, Calcutta University**
 
  रत्ना—त्वामेव प्रतिपालयन्नस्मि।
 
-
-
  वीर—तदिदानोमादिश्यता कृयम्।
 
  रत्ना—उच्यन्ता नातिदूरवत्तिन्या सरयूनद्या शाखाषावर्त्तमाना सार्द्धशतवाहिनीं तरणीमधितिष्ठन्तस्तरीवाहका, यथा अद्यैवापराह्णेसर्वोपकरणसहितां तरणीमादाय ते शाखानद्या मुखे प्रतिपालयन्तु, भेरीशब्दसङ्केतेन च समाहूय सप्रहरणा परीक्षितगुणा सन्दिश्यन्ता मेघवणविशालाक्षप्रमुखा सार्द्धशत पुरुषा, यथा यथाकालममी यथास्थानमुपगच्छन्तु। मातावदिमे प्रमोदमत्ता कोलाहलेन दिशो मुखरिता कुर्यु। त्वामपि सर्वानि मानधितिष्ठन्तमह्नस्तृतीये यामे नद्या शाखामुखे सोपकरण द्रष्टुमिच्छामि।
@@ -3921,8 +3637,6 @@ Lecturer, Calcutta University**
 **पञ्चमाङ्क समाप्त.**
 
 **——————**
-
-
 
 **षष्ठाङ्कः**
 
@@ -3955,8 +3669,6 @@ Lecturer, Calcutta University**
  १म—एव क्रियताम्।
 
  २य—( सपरिकर जाल क्षिपति )
-
-
 
  १म—अरे कीदृश मन्यसे ?
 
@@ -3992,8 +3704,6 @@ Lecturer, Calcutta University**
 
 —————
 
-
-
 **(तत प्रविशति नदीवक्षसि तरणीमारूढ सपरिवारो राजा  
 नृत्यन्त्यो वाराङ्गनाश्च)**
 
@@ -4017,8 +3727,6 @@ Lecturer, Calcutta University**
  वसन्तक—मा तावद् भो। किमयमेकोऽपि मे सुस्थितं पादो न भवद्भ्यो रोचते ?यद्येवमानीयता निशात खड्ग, छिद्येताञ्चानेन दीनब्राह्मणस्य चरणौ। हा हा। पित्रो प्रसादात् पादद्वय लब्धम्, एकस्तु दास्या पुया सुरया अपहृतः, द्वितीयेन कथमपि स्वस्थेन पानभोजनगेह प्रविश्य स्वेच्छया दग्धोदर परिपूरयामि। तदेतदपि न सोढव्यम् ?हा तात। क्वनु खलु युवा तिष्ठथ ?
 
  राजा—प्रिये लीलावति, सुतरा विक्लवो ब्राह्मण। तदलमत्र निर्बन्धेन, ममैव समुपनीयताम्।
-
-
 
  लीला—भीरुक एषब्राह्मण। का गति ?(राज्ञ उपनयति)
 
@@ -4057,8 +3765,6 @@ Lecturer, Calcutta University**
 
  राजा—वयस्य, कथमिव ?
 
-
-
  वसन्तक—एव प्रवाते देशे तथा समुच्चैर्गायन्ती लीलावती पवनारूढस्वरसक्रमेण विदिता गीर्वाणैर्वा गन्धर्वैर्वा अभिगृह्येत। एव सति प्रियवयस्यस्तथा वय लीलावतीललितगीतनृत्योपभोगसौभाग्यात् सुतरांवञ्चिताभविष्याम।
 
  सर्वे—(हसन्ति)
@@ -4084,8 +3790,6 @@ Lecturer, Calcutta University**
  वसन्तक—अलं वा तदुक्त्वा, येन कौमुदीमहोत्सवसम्भावनव्याकुलानांयुष्माक परिहासमेव समासादयेयम्।
 
  राजा—वयस्य, तथापि कथ्यताम्।
-
-
 
  वसन्तक—कि वा कथनीयम् ?तमोवृताया रजन्या शैलारण्यसन्निहिते नदीवक्षसि विहरतोऽस्मान् दस्यवो वा अभिगृह्णीयु ।
 
@@ -4115,8 +3819,6 @@ Lecturer, Calcutta University**
 शैलारण्यमिद निरन्तरतया वाभाति चक्षुष्मताम्।  
 ऊर्ध्वं चारुवितानमेव गगन शुभ्रं जलञ्चाप्यध  
 श्वेतप्रस्तरबद्धकुट्टिममिव प्रत्येमि रात्रयागमे॥**
-
-
 
 भवतु, अत पर पश्यामि। क कोऽत्र?
 
@@ -4155,8 +3857,6 @@ Lecturer, Calcutta University**
 
  रत्ना—एवमिदम्।
 
-
-
  घोर—तदादिश्यतां क्रम।
 
  रत्ना—श्रुयताम्, निपुणमेक वीरमिहैवजले अवतारय।
@@ -4180,8 +3880,6 @@ Lecturer, Calcutta University**
  वीर—ततस्तत?
 
  रत्ना—ततश्च ता तरीमारुह्य क्षणमात्रकेणैव द्वाभ्या द्वाभ्यामेकैकश सैनिका निःशेषं मारयित्वा नदीसलिले निक्षेप्तव्या। अपरेषाञ्चप्रत्येकमेकैक
-
-
 
  एव पर्याप्तो भविष्यति। तदनन्तरमवशिष्यते दुरात्मा कामेश्वर, स त्वया मया च सावधान जीवित एव ग्रहीतव्य।
 
@@ -4221,8 +3919,6 @@ Lecturer, Calcutta University**
 
  विशा—यथाज्ञापयति स्वामी। (प्रवाहे पतित)
 
-
-
  रत्ना—गच्छ, अस्तु सर्वत शुभाय ते कृयारम्भ'। (दृष्ट्वा) अये एष विशालाक्ष' प्रवाहे पतित क्षणमात्रकेणैव सुदूर नीत। अपि नाम फल दधीत ममायमभिसन्धि?
 
 (नेपथ्ये 'परित्रायत भो परित्रायताम्')
@@ -4246,8 +3942,6 @@ Lecturer, Calcutta University**
  रत्ना—वीरबल, एष, एष एव स बहुभूषणभूषितमर्कटकं कामेश्वरहतक ।यस्य किल समाचारो नित्यमेव रत्नाकरस्य स्वान्तसन्तापाय परिकल्पते। यस्य शोणितपिपासया प्रतिक्षणमेव च पर्याकुल चित्त रत्नाकरस्य।
 
  वीर—एष क पुनरपर पादेन खञ्जः सहसा समुपेत्य नदीनिक्षेपमस्य प्रतिषेधति। आ उज्जीविना स्म। एष तरण्या शयित समुपचर्यते विशालाक्ष। क्रमेणासौ संज्ञामुपलभते। अये एष संज्ञा लब्ध्वा समुत्थित।
-
-
 
  रत्ना—अहो निपुण खलु विशालाक्ष।
 
@@ -4282,8 +3976,6 @@ Lecturer, Calcutta University**
 
  १म—अरे रे, न खलु जीवनादप्यभीष्टतरा तरणी। तदल तरणीप्रेम्णा स्वजीवनव्यय कारयित्वा।
 
-
-
  २य—का गति ?एवमस्तु। हा तरणि, बहुलेन दुःखेन कारितासि। हा तरणि।
 
  १म—मूर्ख, अलमुच्चैराक्रन्दनेन, शीघ्र निष्क्राम।
@@ -4305,8 +3997,6 @@ Lecturer, Calcutta University**
  च्यवन—प्रिये, कथमेव निबन्ध वहसि ? यदि सत्यमुच्यते, तदामहद्दुःख गमिष्यसि। तावत्काल तवैव दुःखपरीहाराय सत्य प्रच्छाद्य स्वय पुटपाकेनेव कठोर सन्तापमनुभवन्नपि मूक एवास्मि। तदल निर्बन्धेन, विरता भव मालिन्यहेतुश्रवणाध्यवसायात्।
 
  च्य-पत्नी—भवतु दुःख तथापि श्रोष्यामि। दुःख हि स्निग्धजनसविभक्त सह्यवेदन भवतीतिसन्त समामनन्ति।
-
-
 
  च्यवन—प्रिये, यदि तथापि निर्बन्ध,श्रूयताम्—
 
@@ -4338,8 +4028,6 @@ Lecturer, Calcutta University**
  च्य-पत्नी—कथं न जानामि ?
 
  च्यवन—यदि जानासि कथय।
-
-
 
  च्य-पत्नी—किमन्यत् ?रत्नाकरस्य मे वत्सस्य परमोपकारिणा दक्षिणशीलेन मित्रेण ऐश्वर्यं विसृष्टमिति।
 
@@ -4375,8 +4063,6 @@ Lecturer, Calcutta University**
 **यद्यत् सशयित नरेशपुरुषैरत्नाकरे दूषण  
 तत् सत्य न हि केवल सुचरित तस्याप निःशेषताम्।**
 
-
-
 **तन्नाम्नोऽपि भय व्रजन्ति नगरे वित्तेश्वरा साम्प्रत  
 जीवान् वित्तकृते निहन्ति स चिरात् स्वच्छन्दतो निर्भय॥**
 
@@ -4410,8 +4096,6 @@ Lecturer, Calcutta University**
 **दारिद्र्य नाम जीवाना सर्वसद्वृत्तिशासनम्।  
 मुमूर्षुन् पश्यत स्त्रीयान् साधोरपि मतिभ्रम॥**
 
-
-
  च्य-पत्नी—यद्येव, किमिति पुत्रस्यत्तथा दोषं विदित्वापि भवान् न तत्प्रतिषेधाय प्रवृत्त?
 
  च्यवन—प्रिये, न जानासि, तत एव ब्रवीषि।
@@ -4442,8 +4126,6 @@ Lecturer, Calcutta University**
 
 **क्षुरस्य धारामिव दुःखसन्ततिं क्षमोऽस्मि नो सोढुमसह्यचेतन।  
 येषा सुता सत्पथबाह्यता गता कथं नु ते जीवितशल्यशालिन॥**
-
-
 
  च्य-पत्नी—आर्यपुत्र, तथा सुविज्ञे गुरौ भवति भर्त्तरि स्वल्पोऽप्युपदेशो मे सुतरामविक्षेपाय कल्पते, तथापि पुत्रस्नेहविवशीकृता किञ्चिद् वक्तुमिच्छामि।
 
@@ -4479,8 +4161,6 @@ Lecturer, Calcutta University**
 
  यदि राजा समाक्रान्तो निहन्येत तदा स्वजनसहितस्य राज्ञो विनाशेन सुमहत पातकम्, अथ न निहन्येत, तदा एककस्यापि मे दयितस्य पुत्रस्य—अहह। नात पर चिन्तयितुमर्हामि। आर्यपुत्र, कथमसौ तदा तादृशाय
 
-
-
  दुष्कृताय प्रतिष्ठमानो न कथमपि भवता निवर्त्तित। हा हा व्यतीते का गति।
 
  च्यवन—प्रिये, किं ब्रवीमि अद्यास्मिन् विषमे कर्मणि प्रवर्तमानो रत्नाकरो मदीय कठोर प्रतिषेध भाविनमुत्प्रेक्षमाण एव प्रस्थानात् पूर्व न मामभिगत। अदृष्ट्वैव मा सहायसमेत स्वाभिप्रायसिद्धये सरयूंप्रति प्रस्थित। अनन्तरमेव च मत्कर्णपथमागत तत्।
@@ -4506,8 +4186,6 @@ Lecturer, Calcutta University**
  च्यवन—(सवरण नाटयित्वा) प्रिये, अल भयेन, स्थिरा भव, दुःसहदु खावेगादेव ब्रवीमि ?न खलु तथैव कृत्यव्यवसायमधिकृत्य। तदेहि यावदिदानीं वत्सस्य मे आत्रेयस्य मुखचन्द्र निरीक्ष्य सर्वं सन्ताप लघूकुर्व।
 
  च्य-पत्नी—यथाज्ञापयति आर्यपुत्र। (स्वगत) अहो आर्यपुत्रस्य
-
-
 
  वचनेन कम्पितमिवमे हृदयन्। भवतु तावत्, एनमन्यासक्त करोमि, यदि वत्सस्य आत्रेयस्य सम्पर्कण तथा स्यात्। भगवन् भूतभावन, प्रसीद, परिवर्तय मे रत्नाकरस्य हृदयम्।
 
@@ -4542,8 +4220,6 @@ Lecturer, Calcutta University**
 
  राजा—(स्वगतम्) आ। स्थान एव न सशय। अहो सुतरा वञ्चितोऽस्मि, पराभूतोऽस्मि, मुषितोऽस्मि अनेन जाल्मेन। तदिदानीं
 
-
-
  का गति ? पङ्कपतितो राज इव अशरणोऽस्मि। हा कष्टम्। अशरणोऽस्मि। हा। हा॥
 
 **लीलावती प्रियतमा परिपश्यतो मे  
@@ -4574,8 +4250,6 @@ Lecturer, Calcutta University**
  राजा—सम्भाव्यमाना देवपरिवृत्तिम्।
 
  रत्ना—(उच्चैर्विहस्य) मूर्ख, अद्यापि देवपरिवृत्तिं सम्भावयसि ? अथवा श्रूयता कीदृशी दैवपरिवृत्तिर्भविष्यतीति। यस्ते प्रधान-सेनापति सकलस्य राज्यस्य समालम्बनमद्यापि ते जयाशामुद्दीपयति, स हि तदा प्रशान्तेनापि विषवेगेन ततस्तृतीये दिवसे पुन प्रवर्धमानेन सहसा पञ्चत्व गन्ता। तथैव तस्य मूलस्य प्रभाव।
-
-
 
  राजा—हा कष्टम् कथमत्रापि वैरिणा वञ्चितोऽस्मि।
 
@@ -4612,8 +4286,6 @@ Lecturer, Calcutta University**
 
  रत्ना—मूढ, कथमिदानीमात्मान स्मरन्तमपि प्रच्छादयसि ? अहह। स्मरामि तदानीमात्रेयस्य मे कुमारस्य कुसुमकोमले काये कर्कशकशाघातेन
 
-
-
  शोणितप्रवाहमयानि क्षतानि, कातरमार्नरवञ्चहृदयशोकहेतुम्। एषोऽह तदैव प्रतिज्ञातवानस्मि—
 
 **येन मे पुत्रकस्याङ्गे कशाघातप्रयोजित।  
@@ -4642,8 +4314,6 @@ Lecturer, Calcutta University**
  राजा—रत्नाकर, प्रसीद,विरम विरम कुमाराणा मे जीवनव्यापादनाध्यवसायात्। रत्नाकर, अलमेतावता नैष्ठुर्येण। अन्यथैव प्रतीकार‍ कुरु।
 
  रत्ना—विराम इति भवतो वश समूलमनुच्छिद्य न विरमामि।
-
-
 
  राजा—रत्नाकर, एष ते पादयो पतामि, प्रसीद, कुमारेषु प्रसीद, अल तेषु दक्षिणाचारेषु निष्ठुराचारेण। प्रसीद।
 
@@ -4677,8 +4347,6 @@ Lecturer, Calcutta University**
  अहह ! शून्य सचराचर जगत्। घूर्णते शिर, कम्पते शरीरम्। अपसस्तीव चरणतलात् पृथिवी। न स्थातुमर्हामि, हा हा पुत्रका। (मूर्च्छति।)
 
  रत्ना—(उच्चैर्विहस्य) हा हा हा। प्रतिहिंसा। प्रतिहिंसा॥ वयस्य, वीरबल, एष कामेश्वरो मूर्च्छितो वर्तते, तद् यावदेष संज्ञां लभते, तावत् निवेद्यतातात।
-
-
 
  वीर— किमिति ?  
  रत्ना—इदं तावत् निवेद्यताम्—
@@ -4714,8 +4382,6 @@ Lecturer, Calcutta University**
 
  वीर—वयस्य, तातो मन्मुखाद् भवद्वचनमाकर्ण्य क्षण तूष्णीं स्थित्वा सानन्दमाह—वत्सवीरबल, पर प्रीतोऽस्मि भवतामनेन व्यापारेण।
 
-
-
 तदिम निगडितकरचरणमस्मिन्नेव मद्भवनसन्निहिते न्यग्रोधपादपे वधान, परिश्रान्ता यूय, अवसिता च मे प्रायेणाद्यतनी निद्रा, तद् यावदह स्वयमेव निशावसान् यावत् एन प्रतिपालयामि। अवसितायाञ्चनिशायाम् अस्यैव सन्तप्तेन कण्ठशोणितेन रक्तचन्दनीकृतेन प्रोद्यत सूर्यस्य अध्य कल्पयित्वा सुतरा तृप्तो भविष्यामि।
 
  रत्ना—अहो सुतरामनुगृहीतोऽस्मि तातेन। तद् वयस्य, वीरबल, अलमद्यापि कालक्षेपेण, एहि यावदकालहीन तातादेशमनुतिष्ठाव। तद् गृह्यतामयम्। अहमनुपदमागच्छामि।
@@ -4746,8 +4412,6 @@ Lecturer, Calcutta University**
 
 —————
 
-
-
 **अष्टमाङ्कः**
 
 (तत प्रविशति पादपस्कन्धे रज्जुबद्ध कामेश्वर)
@@ -4774,8 +4438,6 @@ Lecturer, Calcutta University**
 पुत्रादिकेष्वपि महद् विषम कृत यत्॥**
 
  हा पुत्रका।हा प्रधानामात्य, हा सेनापते, दुषिता स्थ परिभूता स्थ कामेश्वरहतकेन। तथाहि—
-
-
 
 **मत्सम्बन्धवशादेव भवतामेव सक्षय।  
 अन्यस्यामपि जातौ मा मत्सम्बन्धमुपैष्यथ ॥**
@@ -4805,16 +4467,12 @@ Lecturer, Calcutta University**
 
  अत एवाह प्रियपुत्रस्य रत्नाकरस्य मोहनिबन्धना दुरन्तवृत्तिमन्यथाकर्तुकामः कामेश्वरसरक्षणव्याजेन स्वेच्छया स्वजीवनघात कर्तुं व्यवसितोऽस्मि।
 
-
-
 वत्सरत्नाकर, वञ्चितोऽसि पितरि दाक्षिण्येन। यत् कामेश्वरसरक्षणभारो मयैव गृह्यत इति वचनार्थो न त्वया गृहीत। हा वत्स, रत्नाकर, चिरात् प्रभृत्येव त्वदीया दुरन्तवृत्तिं समाशङ्कमान सुदु सहेन तापेन ज्वलित कियद् वा न त्वामुपदिष्टवानस्मि। तावदुपदेशानन्तरमपि अद्य त्वा तादृशे लोकोत्तरे दुर्नये प्रवृत्तमुपलभ्य शतवाछिन्नानि मेमर्माणि। ज्वालामय प्रतिभाति सकल संसार। दुर्वह प्रतीयते जीवनभार। यावदेव चिन्तयामि तावदेव प्रवर्द्धते तीव्र सन्ताप ।तन्नास्ति मम जीवनान्त विना गतिरन्या। अहह। सर्वं परिहाय गच्छामि, पुत्र रत्नाकरः त्वा, वत्सल पौत्रमात्रेय, आशैशवादभिन्नहृदया पतिव्रता पत्नीं, प्रियतमा कन्यामिव स्नुषा, स्वेच्छया परिहाय क्वापि गच्छामि। अथवा गन्तव्यम् अवश्य गन्तव्यम्, आत्मनो जीवनघातेन पुत्रस्य चरित्र शोधयितव्यम्।
 
 **यदि स्नेहान्न मुञ्चेय जीवन बन्धुवत्सल।  
 पापेन क्रमवृद्धेन पुत्ररूप स्वयं ह॥**
 
 तदनेनात्मनो विनाशेन पुत्ररूपमात्मान परित्रास्ये। कृत विलम्बेन। यावत् पादपसमीप गत्वा कामेश्वर बन्धनाद् विमोच्य तदीयपाशेनैव वृक्षशाखायामात्मानमुद्वध्य व्यापादयेयम्। (पदान्तर परिक्रम्य) अथ रत्नाकर कथं जानीयाद् यदह तस्यैव दुरन्तेन शीलेन विदूनो मरण वृणोमि, नैव कारणान्तरेणेति। हा धिक् सर्वथा व्याहतप्रयोजनो मे संकल्प। तत् केनाभ्युपायेन वेदयामि, केन वेदयामि ?(विचिन्त्य) आ दृष्टम्। सर्वमिद पत्रारूढ कृत्वा स्वसमीहित साधयामि। क्वनु खलु लेखोपकरणान्यासादयेयम्।(इतस्ततो दृष्ट्वा) एषदृश्यते सन्निहिततालीवृक्षान्नातिचिरपतित पत्रप्रतानसहित शाखादण्ड, अस्मादेव पत्रमादाय तत्र लिखामि। एतत्पत्रान्तरालवर्तिनी शलाकैवलेखनी भविष्यति। अथ क्वनु खलु मसीमासादयामि, धिक् कष्टम्। सर्वोपकरणसम्भृतस्यापि मसी विना कृत्यव्याकोप। तत् किमिदानीं करिष्ये ?(विचिन्त्य) आ दृष्टम्। सुष्ठु दृष्टम्॥
-
-
 
 **कण्टकेन विनि सार्य शोणित स्वशरीरत।  
 तेन पत्र लिखाम्यद्य तनयस्य विशुद्धये॥**
@@ -4829,8 +4487,6 @@ Lecturer, Calcutta University**
 भयेन हीना कथमेव तस्करा परालय हन्त विशन्ति सम्पदे॥**
 
  कामे—अहह। कठिनहृदयोऽस्मि, यदद्यापि जीवामि। हा वत्स, देवरात, क्वासि ?
-
-
 
  च्यवन—अये एष कामेश्वर स्वजन् स्मरन् रोदिति। तदचिरमुपसर्पामि। (उपसृत्य) राजन् कामेश्वर।
 
@@ -4861,8 +4517,6 @@ Lecturer, Calcutta University**
 
  च्यवन—तिष्ठ। (इतस्ततो दृष्ट्वाकामेश्वर मोचयित्वा) राजन् कामेश्वर, एष मया मोचितोऽसि अत्र क्षणमपि मा विलम्बेथा। एता दक्षिणा दिशमनुप्रवृत्ता वनलेखामाक्रम्य समीहित देश प्रति प्रतिष्ठेथा। एषा प्रभातप्राया विभावरी। क्षणादूर्ध्वं सोत्साहा रत्नाकरवीरबलप्रमुखा-
 
-
-
 स्तस्करा साहसिका समागमिष्यन्ति, एव किल सुदूरापेता तव मुक्तिर्भविष्यति तदल विलम्बेन, शीघ्र प्रतिष्ठस्व, स्वजीवनाय प्रतिष्ठस्व।
 
  कामे—अहो ब्रीडितोऽस्मि।ईदृशो महात्मा मया दुर्बुद्धिना तदा निगृहीत ? आर्य च्यवन, एष भवता मोचितो गच्छामि। अभिवन्दे, अनुकम्पया अपराधिन मा क्षन्तुमर्हसि एष ते प्रणामाञ्जलि।
@@ -4884,8 +4538,6 @@ Lecturer, Calcutta University**
 श्रूयते क्रन्दन वृक्षे विहङ्गानामपि ध्वनि॥**
 
 तदोदृश्येव काले प्रत्यहमात्रेयो मे मातृशय्यामपहाय मामभिवर्तत। तत् किमद्यापि आयास्यति, अथवा नूनमायास्यति, अथ यद्यसौ दृष्ट स्यात्
-
-
 
 सर्वं मे हृदयतत्त्वमभिष्यन्देत्। तदल विलम्ब्य, च्यवन, सत्वर स्वसमीहित सम्पादयस्व। (कण्ठं बध्नाति) नम सर्वविप्लवकारिणे पुत्रस्नेहाय नमो भगवते दैवाय (पतति)।
 
@@ -4914,8 +4566,6 @@ Lecturer, Calcutta University**
  वीर—यथाज्ञापयति वयस्य। क कोऽत्र ?
 
 प्रविश्य पुरुष—आज्ञापयतु स्वामी।
-
-
 
  वीर—शीघ्र विशालाक्षप्रमुखान् प्रधानपुरुषान् विज्ञापय,—एष स्वामीक्षणमात्रकेण न्यग्रोधपादपतले भवत सर्वान् द्रष्टुमिच्छतीति। शीघ्र गच्छ।
 
@@ -4950,8 +4600,6 @@ Lecturer, Calcutta University**
  सर्वे—जयति जयति स्वामी, जयति जयति रत्नाकर। हा रे रे रे रे रे। (निष्क्रान्ता) \।
 
  रत्ना—वयस्य, वीरबल, समुच्चमिम न्यग्रोधपादपमारुह्य पश्य, शत्रो-
-
-
 
 र्गतिर्ज्ञायते न वेति। मम पुनस्तात प्रति सभयमन्त करण, तदह तात पश्यामि। (परिक्रामति)।
 
@@ -4989,8 +4637,6 @@ Lecturer, Calcutta University**
 
  वीर—वयस्य, तातस्य वसनप्रान्ते किमपि ग्रन्थिगत दृश्यत।
 
-
-
  रत्ना—शीघ्रमुन्मोचय। पश्यामि।
 
  वीर—(उन्मोच्य) वयस्य, एतत् किमपि तालीपत्रलिखित पत्र नूनमेतनैव रहस्यमपावृत स्यात्।
@@ -5008,8 +4654,6 @@ Lecturer, Calcutta University**
 ज्वाला हुताशनमयी शिरसि प्रकीर्णा  
 प्राणा विभान्ति बत दु सहशल्यतुल्या  
 भ्रष्ट समग्रमिह मे मुषितोऽस्मि धात्रा॥**
-
-
 
  अहह।
 
@@ -5042,8 +4686,6 @@ Lecturer, Calcutta University**
 (नेपध्ये 'हा आर्यपुत्र, हा तात, हा पितामह।')
 
  रत्ना—वीरबल, अयमसौ प्रज्वलिते ज्वलने हविर्धारासन्निपात।
-
-
 
 एषा जननी, प्रिया पत्नी, पुत्रश्च आत्रेयस्तात मे समुद्दिशन्त इत एवाभिवर्तन्ते। तत् कथमेतानह निर्लज्जो मुख दर्शयिष्यामि ?वयस्य, वीरबल, न स्थातुमर्हामि। अवलम्बस्वमाम्। (मोहमुपगत)
 
@@ -5081,8 +4723,6 @@ Lecturer, Calcutta University**
 
  रत्ना—मात। मात।
 
-
-
 **कुपितो मह्यमत्यर्थं मम तातो दिव गत।  
 अहमद्यापि जीवामि सुसिनो राक्षसाधम॥**
 
@@ -5110,8 +4750,6 @@ Lecturer, Calcutta University**
  र-माता—हा आर्यपुत्र। (मूर्च्छति)
 
  रत्ना—वीरबल, अशक्यमिदं द्रष्टुम्।
-
-
 
  वीर—वत्स, दूर गतस्ते पितामह।
 
@@ -5152,8 +4790,6 @@ Lecturer, Calcutta University**
 
  रत्ना—वत्स, आत्रेय, वत्स, कथमेवमसि ?वत्स, कथं न मा सम्भाषसे ?वत्स, वत्स ।
 
-
-
  र-माता—(सज्ञा लब्ध्वा) वत्स आत्रेय, वत्स आत्रेय, कथमेव विपर्यस्तोऽसि ? हा वत्स, आत्रेय। (मूर्च्छति)
 
  र-पत्नी—हा हा, किन्तु खलु वत्सस्य सवृत्तम् ? वत्स, आत्रेय, देहि मे प्रतिवचनम्। (मूर्च्छति)
@@ -5189,8 +4825,6 @@ Lecturer, Calcutta University**
 
 ————
 
-
-
 **नवमोऽङ्कः**
 
 (तन प्रविशति सरयूतटे विषण्णो रत्नाकर)
@@ -5219,8 +4853,6 @@ Lecturer, Calcutta University**
 
 हा तात, सुतवत्सल, एहि, अत परमप तव चरणौ सेवमान एव समय
 
-
-
 नेष्यामि। अथवा कठिनस्त्वमसि। मात। कथ त्वमपि नात्मजस्य दयसे?हा मात ।
 
 **प्रिय स्ववक्षोजरसेन पुत्र  
@@ -5246,8 +4878,6 @@ Lecturer, Calcutta University**
 
 **दग्ध तस्य वपु प्रसूनसदृश प्रोद्यच्चितावह्निना  
 तद्देहेन सम ममापि हृदय भस्मत्वमभ्यागमत्।**
-
-
 
 **हा रत्नाकर कस्तवाद्य दयितो लोके समालम्बनम्  
 हा हा निःशरणोऽस्मि दावदहनो ज्वालामय सर्वत॥**
@@ -5291,8 +4921,6 @@ Lecturer, Calcutta University**
 
  रत्ना—(स्वगतम्) एव कथयामि। (प्रकाशम्) विश्रान्तजन-
 
-
-
  कोलाहले इहैव सरयूतटे किञ्चित् काल यापयिष्यामि। त्वमपि वीरबल, साम्प्रत नवीनमुपदेशमर्हसि।
 
  वीर—कथयतु वयस्य।
@@ -5327,8 +4955,6 @@ Lecturer, Calcutta University**
  वीर—अथेदानीं रत्नपुरमाश्रिताना स्ववर्ग्याणा कीदृशी गति ?
 
  रत्ना—वयस्य, वीरबल, अस्ति किल युष्माभिरेव प्रतिष्ठापित लोकविलक्षण रत्नागार, यत् स्वच्छन्दमुपभुज्यमान सर्वपौरै मन्ये युगेनापि कालेन न निःशेषतामासादयेत्। तदेव तेषामवलम्बन भविष्यति। तस्य द्वारसन्धि केवल तवैव विदित। अलमद्यापि परस्य तन्निवेदनेन। तथैव स्ववर्येषु चिराय शान्ति पद कुर्वीत। अन्यथा स्वार्थाभिसन्धानेन परस्पर कलह प्रादुर्भवेत्।
-
-
 
  वीर—वयस्य, एव प्रचितालस्य रत्नागारमुपभुञ्जानेषु पौरेषु सुलभा स्याद् दोषप्रतिपत्ति।
 
@@ -5365,8 +4991,6 @@ Lecturer, Calcutta University**
 
  वीर—कथ मामपि क्षमापयसि ?किन्तुखल्विदम् ?
 
-
-
  रत्ना —वयस्य, वीरबल, किमिद न स्मरसि?
 
 **वृथैव रात्रिन्दिवमाज्ञया मे  
@@ -5396,8 +5020,6 @@ Lecturer, Calcutta University**
 यस्मिन् यातास्तत्र गत्वा सुखी स्याम्।**
 
  तदस्या सन्निहिताया स्रोतस्वत्यामात्मान निक्षिप्य ताप निर्वापयामि। विलम्बेन वीरबल प्रत्यावृत्तो विघ्नमुत्पादयेत्। (परिक्रम्य) भगवति सरयु।
-
-
 
 **त्वद्गर्भे कति मानुषानसदृश हत्वा निशाया तदा  
 योऽह क्रूरतया क्षिपन्नगतिकानासादय कल्मषम्।  
@@ -5431,8 +5053,6 @@ Lecturer, Calcutta University**
  रत्ना—आ स्मर्यत इव। अयि, मात। किमु तावत्काल निर्दयासि ?
 
  सुमति—वत्स, कुमतिर्मे वैरिणी, तया सुतरा समधिष्ठिते त्वयि स्वाधिकार प्रकटयितुमशक्ता सुदु खिता दृढ ते सन्निहिता नाभूवम्, इदानीं तया पापकारिण्या विमुक्तोऽसि, अत एवाद्य सुसन्निहितास्मि।
-
-
 
  रत्ना—अयि मात। यद्यद्य सकरुणा सुसन्निहितासि, तत् किमिति दावदग्धे चेतसि नैव शान्तिमनुभवामि ?
 
@@ -5471,8 +5091,6 @@ Lecturer, Calcutta University**
 
  रत्ना—अये स एवाय स्नेहामृतनिष्यन्दी स्वर। अयि मातर्नमस्ते,
 
-
-
  एषोऽहमकालहीन त्वाज्ञामनुवर्ते। गुरो। क्वनु खलु वत्से ? अपि नाम तत्रैव त्वा लप्स्ये ? अथवा भूतार्थवादिन्यो दवता भवन्ति, तन्नूनमेव लप्स्ये। रत्नाकर, किमद्यापि विलम्पसे ? सत्वरो भव
 
 एष शान्तिपथे मात्रा कारुण्येन नियोजित।  
@@ -5504,8 +5122,6 @@ Lecturer, Calcutta University**
 पुण्येऽस्मिन् विशतो ममाद्य सुतरामानन्दभूमोदय॥**
 
  तत् कदा नु खलु रत्नाकरं लब्ध्वा स्वनियोगसम्पादनेन निर्वृत, स्याम् ? (दृष्ट्वा) अये, एष रत्ताकर।
-
-
 
 **गुरु विचिन्वन्नभित समुतसुक  
 स्वकृत्यपङ्कानुशयेन तापित।  
@@ -5542,8 +5158,6 @@ Lecturer, Calcutta University**
 
  नारदु—स्नानाय प्रस्थितो रत्नाकर। तद् यावदहमपि सत्वर पूजोपकरणानि सगृह्य तत्रैव गच्छामि। अहो आश्चर्यम्। अहो दवताभिनिवेश।
 
-
-
 **कथ केन कदा देवा दयन्ते कस्य वा दृढम्।  
 विज्ञातु नैव तच्छक्य गहनो दैवत क्रम॥**
 
@@ -5552,8 +5166,6 @@ Lecturer, Calcutta University**
 (तत प्रविशति सुमति)
 
  सुमति—अहो प्रसन्नास्मि। अद्य रत्ताकरो मे दीक्षया शुद्धि लप्स्यते। वत्स, रत्नाकर, न जानासि कीदृशमानन्दमद्य प्राप्तास्मि लभस्व वत्स, शान्ति लभस्व। स्वय शान्तिं लब्ध्वा ममापि शान्ति निर्वर्तयस्व। अये, एष रत्नाकर स्नानाय ब्रजति। अहो सत्वरता।अहो गुरौ विश्वास। तदस्य तावानाग्ग्रह एव महते फललाभाय पर्याप्तो भविष्यति। अये एष सरस्तीरमुपगम्य श्रद्धया नमस्कृत्य स्नानाय जल प्रविशति। (विस्मय रूपयित्वा) अये कुतो नु खलु मेघमन्तरेणापि गगनात सलिलषात?(आकाश दृष्ट्वा) आम्। एष पितामह शून्यमधितिष्ठन् सलिलावतीर्णस्य रत्नाकरस्य शिरसि कमण्डलुतोयमभिवर्षति। अहो दैवतप्रसाद। तत् किमनेन लोकोत्तर किमप्यनुष्ठेयमित्यभिप्रैति। अये एष भगवान् नारायण, एष महेश्वर, एते सिद्धा, एते चान्ये देवनिकाया। तत् किन्नु खल्विदम् ?(विचिन्त्य निर्णय रूपयित्वा) आम् एवम् ?एष रत्नाकरो दीक्षा गृहीत्वा मन्त्रजापसिद्ध काले वाल्मीकिर्भूत्वा रामायणनिर्माणेन जगदिद दु खपङ्कमग्नमुद्धरिष्यतीति, आम्। अतएवाय महान् समारम्म। अये एष रत्नाकर समाप्तनियमाभिषेक सरस्तोरमारुह्य सोपकरण सन्निधिगतं नारदमभिवन्दते। एष नारद पूजांनिर्वर्तयति, अहो रत्नाकरस्य भक्ति। एष एकनिष्ठ कृताञ्जलिस्तिष्ठति। एष नारद प्रहृष्टाननो भक्तिप्रह्वस्य रत्नाकरस्य दीक्षामुपक्रमते। अहो रत्नाकरस्य औत्सुक्यम्। (विषाद रूपयित्वा) हा धिक्। प्रमाद। हा धिक् प्रमाद॥एष जडजिह्व कथमेतावद्भिरुपचारै पवित्रता नीतोऽपि न स्वेष्टमन्त्र यथार्हमुच्चारयितुमीष्टे ? तदत्र का गति ?(हर्ष रूपयित्वा) अहो निपुणता नारदस्य। एष किल मरशब्दममरशब्दञ्चद्वन्द्वसमासेन
-
-
 
  यथाक्रममेकीकृत्य सन्धिवशेनान्तराभूत रामशब्दमभ्यासेन ग्राहयति। अये एष सफल समारम्भो देवर्षे ।अहो निर्वृतास्मि। अथेदानी रत्नाकरस्यानिसन्निहिता क्रमेण सात्त्विकी वृत्तिमस्य दृढीकरोमि (निष्क्रान्ता)।
 
@@ -5594,8 +5206,6 @@ Lecturer, Calcutta University**
 
  नारद—आ ज्ञातम्। वत्स, न्यग्रोधशाखाया मृतं पितर स्मरसि?
 
-
-
  अहो ससारानुबन्ध। वत्स, मदीयवरप्रभावेण अतीतानुबन्धाद् विक्षेप नाप्स्यसि। तद् यथादिष्टमनुष्ठीयताम्।
 
  रत्ना—यथाज्ञापयति भगवान्। (न्यग्रोधमूलमुपसर्पति)।
@@ -5634,8 +5244,6 @@ Lecturer, Calcutta University**
 
 **समाप्तमिद नाटकम्**
 
-
-
 **कविवंशपरिचयः**
 
 कोटालिपारे बुधविप्रसारे सत्काश्यपो ज्ञानतप समृद्ध।  
@@ -5667,8 +5275,6 @@ Lecturer, Calcutta University**
 ससारे स्थितिमानपि प्रतिपद ससारचिन्तोज्झितो  
 जीवन्मुक्तनिभ प्रभूततपसा देवोऽथवा शङ्कर।
 
-
-
 तन्त्रादौ निपुणो द्वितीयतनय श्रीद्वारिकानाथको  
 दक्षो वाचि तृतीयको महिमचन्द्राख्य पुराणे कृती।
 
@@ -5689,16 +5295,5 @@ Lecturer, Calcutta University**
 
 न्याये वैशेषिके काव्ये शास्त्रे, चान्यत्र निर्मिता -  
 येन टीकादयो ग्रन्था सद्भि सोऽत्रानुगृह्यताम्।
-
-
-
-
-
-
-
-
-
-
-
 
 \]

@@ -16,23 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwOTMxOTExMTU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
-
-
 
 **॥ श्रीः॥**
 
@@ -1238,14 +1222,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwOTMxOTExMTU
 समाप्तः**
 
 **![](#)![](#)![](../books_images/U-IMG-1721486544Screenshot2024-07-20201017.png)**
-
-
-
-
-
-
-
-
-
 
 \]

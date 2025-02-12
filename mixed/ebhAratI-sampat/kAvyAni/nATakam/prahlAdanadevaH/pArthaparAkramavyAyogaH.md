@@ -17,44 +17,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2Nzg5MTkyNTM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Published by Janardan Sakharam Kudalkar, M. A., LL. B., Curator of State Libraries,  
 Baroda, for the Baroda Government, and Printed by Manilal Itcharam Desai, at  
 **The Gujarati Printing Press, No. 8, Sassoon Buildings,  
 Circle, Fort, Bombay.**
-
-
 
 **INTRODUCTION**
 
@@ -76,8 +46,6 @@ Circle, Fort, Bombay.**
 In press.
 
  ¶ About Râmachandra's प्रबन्धशतthe following note is found in an old paper leaf containing notes on mss. रामचन्द्रकृतं प्रबन्धशतं द्वादशरूपकनाटकादिस्वरूपज्ञापकं ५०००. Hammîramadamardana Act I.
-
-
 
  Dhârâvarsha and Prahlâdana. Dhârâvarsha, son of Yaśodhavala and ruler of Chandrâvatî was the elder brother of our author who was his Yuvarâja. Dhârâvarsha's reign was very illustrious in the history of the Parmars of Mt. Âbu. He fought with the army of Kumârapâla in the invasion of Mallikârjuna of Konkana. The present work describes him as having amazed the whole of India with his valour and extolling his skill in archery[^2], refers to his repelling the nocturnal attack of the King of Jângalas.^(**4**)The ms.C identifies this prince with Pṛithvîrâja. The Śambhar King Pṛithvîrâja was reigning up to Samvat 1236. This most probably may have taken place at the time of the invasion of King Ajayapâla of the Jâṅgala King.^(**5**)Dhârâvarsha's reign was very long. The oldest inscription of his reign yet discovered is dated Samvat 1220. He was living at the time of the laying of the foundation of the Lûṇigavasti on Mt. Âbu, and this event occurred in Samvat 1286. He also helped Vastupâla[^3] in repulsing an attack of an army from Delhi about the same time. Prahlâdana was not fortunate enough to become a king, as he did not outlive his elder brother. From the inscriptions given in Appendix II, it is clear that he was already working as Yuvarâja in Samvat 1220 and was living up to Samvat 1265.
 
@@ -107,8 +75,6 @@ In press.
 
 दण्डे दण्डपिका हैमी सह मत्तैर्मतङ्गजैः।  
 दत्त्वा पादं गले येन जाङ्गलेशादगृह्यत॥ Kirtikaumudî II. 53.
-
-
 
 and the hero is neither a divine being nor a king.^(**7**)The play was acted at the order of the court of Dhârâvarsha on the occasion of the festival of investing Achaleśwara, the tutelary god of the Parmars of Mt. Âbu, with the sacred thread.**⁸** Other dramas of its type are as under:—
 
@@ -148,10 +114,6 @@ Jâmadagnyajaya.                  Vinatânandana of Govinda.
 *cf.* नन्दीवर्धन इत्यासीत् प्राक् शैलोऽयं हिमाद्रिजः।  
   कालेनाऽर्बुदनागाधिष्ठानात्त्वर्बुद इत्यभूत्॥ तीर्थकल्प-अर्बुदकल्प.
 
-
-
-
-
 story.**⁹** The Sûktimuktâvalîof Jahlaṇa and the Śarṅgadharapaddhati quote some verses of Prahlâdana and Prahlâda. They will be found collected in Appendix II. Prahlâdana's poetry is described as possessing the qualities of समता, समाधि, प्रसाद[^4].In the Mt. Âbu Praśasti, it is said that Somasiṃhadeva, son and successor of Dhârâvarsha received training at the hands of his uncle Prahlâdana.^(**11**) In the Praśasti of the Kotiśvara Temple, he is called the support of the six Darśanas, expert in all arts and the best among Kumaras (Yuvarâjas)[^5].
 
 [^4]: "cf सन्दर्भः सुकवेः समाधिसमतागर्भः कुमारस्य च। प्रह्लादनस्य कविता वसतिः प्रसत्तेः। पार्थपराक्रम."
@@ -184,8 +146,6 @@ story.**⁹** The Sûktimuktâvalîof Jahlaṇa and the Śarṅgadharapaddhati q
 
 **(15)** सामन्तसिंहसमितिक्षतिविक्षतौजःश्रीगुर्जरक्षितिपरक्षणदक्षिणासिः।  
 प्रह्लादनस्तदनुजो दनुजोत्तमारिचारित्रमत्र पुनरुज्ज्वलयाञ्चकार॥ Mt. Âbu Lûṇigavasati Praśasti 88.
-
-
 
 Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the heavenly cow.**¹⁷**
 
@@ -222,8 +182,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 भास हाट चउहटा रूयडा गढमंदिरह निवेसु त।  
 वाविकूवआरामघण घरपुरसरसपएस त॥११॥
 
-
-
  **The mss. material.** The Pattan Bhaṇdars contain two mss.:—(1) in the Bhaṇdâra of the Limbdi's Pâdâ(2) in the Bhaṇdâra of the Vâdi Pârśvanâtha's temple. The first is dated Samvat 1426 and consists of 12 leaves[^8].The colophon runs as under:—
 
 [^8]: "The Deccan College Mss. Library has got a tracing of this ms."
@@ -255,8 +213,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
  (टीका) प्रह्लादनाम्ना राणकेन पुरि स्वनगरे भक्त्या सेवासक्त्या अर्बुदशैलाचलदुर्गशिखरस्य चतुर्वदनप्रासादमध्यगतैकपित्तलमयप्रतिमागालनादुत्पन्नकुष्ठादिमहामयेन निजरोगापगमनचिकित्साप्रश्नादनु नवीनश्रीपार्श्वनाथप्रतिमाप्रासादनिर्मापणात्तवाङ्गात्समग्ररोगाः शान्तिं यास्यन्तीति सातिशयज्ञानवत्साधुवचसा यदीया श्रीप्रह्लादनपार्श्वनाथसम्बन्धिनी मूर्त्तिःप्रतिमा निरमापि कारिता। अपि पुनः स पार्श्वनाथस्तस्य प्रह्लादनराणकस्य स्नानजलेन आमान् रोगान् कुष्ठादीनपहन्तीति आमापहस्तादृशो जज्ञे जातः।
 
-
-
 **VARIOUS READINGS OF THE MS. C.**
 
 |                                                                   |                                                                   |
@@ -271,8 +227,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 | P. 6.1.13. C reads सिल्लसरिच्छा and explains सिल्ल as लहरी.       | P. 21. 1. 14. C explains प्रासङ्गिकमपरं as राजचक्रं प्रस्तावायातं |
 | P. 6.1.17. C निव्वावइस्सदि                                        | P. 21. 1. 22. C reads रंजियव्व.                                   |
 | P. 8. 1. 15. C सुदुःश्रवः शर्कराणाम०                              | P. 21.1. 26, read विकटतडित्समूहदुःप्रेक्ष्य०                     |
-
-
 
 **पात्राणि॥**
 
@@ -292,8 +246,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 | दुर्योधनः                 | धृतराष्ट्रपुत्रः                  |
 | सूतः                      | दुर्योधनसारथिः                    |
 | वासवः                     | इन्द्रः                           |
-
-
 
 ![](../books_images/U-IMG-1732004614Untitled.jpg)
 
@@ -329,8 +281,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 [^10]: "दण्ड"
 
  तन्न जाने भगवतः श्रीमदचलेश्वरदेवस्य पवित्रकारोपणपर्वणि केनापि रूपकेणाद्य प्रमोदनीयाः सभासदः। (इति चिन्तां नाटयति)
-
-
 
 (प्रविश्य पटाक्षेपेण)
 
@@ -369,8 +319,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
 **पर्षन्नेतुर्नाट्यनेतुश्च चापव्यापारेऽस्मिन्सम्मितेऽप्येष भेदः।  
 एकस्यासीद्दत्तकर्णप्रमोदा कीर्त्तिः कर्णोन्माथिनी चापरस्य॥७॥**
-
-
 
  किमङ्ग ! जाङ्गलपतेः सौप्तिकप्रस्तावोपश्लोकमनाकर्णितवान्[^12] भवान्।
 
@@ -412,8 +360,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 **मिथ्यारब्धदुरोदरैः किमु परैरात्ता विभूतिर्न ते  
  किं वा यावकपस्त्यपावकमुखे न त्वं हताशैर्हुतः।**
 
-
-
 **खिन्नः किं न भवान्दवाग्निविषमे भ्राम्यन्मुहुः कानने  
  येनोच्चैरपि धाम वामनमिदं क्षात्रं करोषि क्षमी॥११॥**
 
@@ -450,8 +396,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 ( प्रविश्य प्रहारबाधां निरूपयन्कान्दिशीको गोपाध्यक्षः )
 
  **गोपाध्यक्षः—**कुमार ! कुमार ! परित्रायस्व परित्रायस्व माम्।
-
-
 
  **कुमारः—**( ससम्भ्रमम् ) अयि कलिञ्जक ! कथय कुतोऽयं प्रहारप्रादुर्भावः।
 
@@ -493,8 +437,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
  **अर्जुनः—**( सरोषाट्टहासम् ) कुमार ! श्रुतं मिथ्याभिमानिनः सुयोधनहतकस्य वचनविस्फूर्जितम्।
 
-
-
  **कुमारः—**( सक्रोधमुचैःस्वरम् ) शृणु रे स्वप्रशंसापातकपङ्कानुलिप्त मिथ्यावलिप्त ! शृणु।
 
 **रामेण स्वधृतिधृता कृतं यदग्रे  
@@ -525,8 +467,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
  भुवनविदितशक्तिर्यत्र तान्तः कृतान्तः।  
 धनुरनुदितदर्पप्रातिभं कुम्भकेतु–  
  र्भजतु च भुजयोर्मे गौरवं गाहमानः॥१८॥**
-
-
 
  **अर्जुनः—**(सरोषमात्मगतम्) कथमयं गेहेनर्दीधनुर्ग्रहणमात्राहङ्कृतिर्गुरूनधिक्षिपति। पश्यतु समरमुखम्[^18]। ततोऽनुशयिष्यति स्वाभिमानजनिताय वीरविरोधारम्भाय। (प्रकाशम्) हंहो राजपुत्र ! कृतमिदानीमात्मगुणग्रहणेन। कोदण्डगुणस्यैव ग्रहणमुहूर्त्तो वर्तते तत्त्वरतां भवान्।
 
@@ -559,8 +499,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
 **चक्रे यस्मिन्नह्णि वह्णेरभीष्टं तेन प्लुष्टे षाण्डवे पाण्डवेन।  
 तस्मिन्नस्मि स्थापितः सारथित्वे वैशारद्यान्मातलिर्वज्रिणेव॥२०॥**
-
-
 
  **उत्तरः—**तर्हि सिद्धं नः समीहितम्। तदेहि रथमारोहावः। ( इत्युभौ नाट्येन तथा कुरुतः)
 
@@ -601,8 +539,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
 [^22]: "कुरुयोद्वारः"
 
-
-
 सदृशकाञ्चनसन्नाहाःसाधारणप्रहरणपरिग्राहिणः समानाभिमानतया च परस्परमपि स्पर्द्धमाना इव दृश्यन्ते। तददृष्टपूर्वेषु नामीषु मे प्रत्यभिज्ञानम्। भवान्पुनश्चिरपरिचितपाण्डुपुत्रत्वादवबुध्यते। तदवगमयतु मामेतान्। (पुनरन्यतो दृष्ट्वा) भो भगवान् ! क एष पुरुषव्याघ्रो वैयाघ्रेण रथेन सञ्चरमाणः सेनाया दक्षिणपार्श्वे लक्ष्यते ?।
 
  **अर्जुनः—**(निपुणं निरूप्य प्रत्यभिज्ञाय च) कुमार !
@@ -632,8 +568,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
  **उत्तरः—**(पुनरग्रतो वीक्ष्य) बृहन्नट ! नियतमसौ महीयसिसैन्यसागरे चामीकरोपचितनिचोलकरोचिरञ्जितशरीरतया वडवाग्निरिव प्रदीप्यमानः[^24] सुरसरित्सीकरप्रकरचारुचामरान्तरालवर्त्ती कुरुचक्रवर्त्ती दुर्योधनः योऽस्मज्जनकसभाभावितायां वीरचर्यायामिति सम्भाव्यते,
 
 [^24]: "दीप्यमानः"
-
-
 
 **तेजोभिर्जगदुत्तरैः परिभवं कुर्वन्निवाहर्पतेः  
  श्वेतेनातपवारणेन किरणानिन्दोश्च निन्दन्निव।  
@@ -669,8 +603,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
 **आलब्धप्रतिभूमिपालपशुषु स्पष्टं विधत्ते धनु–  
  ष्टङ्कारेण निमन्त्रणं पितृपतेः सङ्ग्रामसत्रेषु यः।**
-
-
 
 **केषामेष निमेषतोऽपि न घनस्थामाभिमानद्रुमं  
  द्रोणः शोणतुरङ्गसङ्गतरथारूढोऽधिरोढुं क्षमः॥२६॥**
@@ -708,8 +640,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
  **उत्तरः—**कथय किमिव ?।
 
  **अर्जुनः—** इह हि वीरवृन्दारकाणां वृन्दे नेदीयसि, 
-
-
 
 **किं गाङ्गेयममेयबाहुविभवं द्रोणं किमुद्यद्गुणं[^31]  
  नादत्रासितशात्रवं किमथवा राधेयमत्युद्धतम्।  
@@ -753,8 +683,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
 [^34]: "वार्जय"
 
-
-
  अपि च-—
 
 **दर्शयित्वा द्विषां पृष्ठमजातव्रणविग्रहः।  
@@ -788,8 +716,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 **किमिदमुदरे भाति व्योम्नःसुधामधुरं मह–  
  स्तदनु चदिनारम्भोज्जृम्भत्प्रभाकरसन्निभम्।**
 
-
-
 **अयमपि महानम्भोदानामिव श्रवणद्वय–  
  प्रणयमयते घोषः केषामशेषदिगन्तभाक्॥३५॥**
 
@@ -820,8 +746,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
 **युधिष्ठिरं विद्धि तमक्षदेविनं यमाविमौ वाजिषु गोषु यौ स्थितौ।  
 वृकोदरः सूदवरः स यः प्रियापराभवेणाकृत कीचकव्ययम्॥३७॥**
-
-
 
  **उत्तरः—**मर्षणीयमज्ञातभाषितम्। (इति पुनः पादयोः पतति)
 
@@ -858,8 +782,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
  तदशङ्कितेन प्रेर्यन्तां तुरङ्गमाः ( इति शङ्खमुद्वमति )
 
  **उत्तरः—**( वाहान्प्रेरयन्नग्रतो विलोक्य) कुमार ! तवामुना बधिरीकृतत्रिभुवनेन शङ्खध्वनिना क्षुभित इवायं बलजलधिरवलोक्यते। इमावथ कुरुराजस्य जयमनोरथधौरेयौ भीष्मद्रोणौ सैन्यपृष्ठावस्थितौ मुहुर्मुहुरावां विलोकयन्तौ पुरतो वर्तेते।
-
-
 
 ( ततः प्रविशति भीष्मो द्रोणश्च )
 
@@ -899,8 +821,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
  This verse occurs with difference of reading in the second half in the thirtyninth Adhyâya of the Virâta Parva
 
-
-
 **दृष्टास्माभिरधोमुखैश्च विधुरा सा पाण्डवानां वधू—  
  र्वृद्धत्वेऽपि धनाशया वयममी तत्किं न यत्कारिताः॥४२॥**
 
@@ -936,8 +856,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
  **सुषेणः—**(कथञ्चिदुत्थाय) प्रचलति कौरवानीके लोकोत्तरपराक्रमेणैव सूचितमर्जुनोऽहमिति महारथानामात्मानमाविष्कुर्वन्सर्वसुरभिरक्षानियुक्ताभ्यामश्वत्थामशारद्वताभ्यामभ्येत्य सितवाहनः प्रतिहन्तुमारब्धः। 
 
-
-
  **भीष्मः—**तदिदं कल्पान्तविप्लुतस्य पयोधेर्महीधराभ्यां प्रतिस्खलनम्। ततस्ततः।
 
  **सुषेणः—**तदेतौ मातुलजामेयौ द्वावप्यजेयाश्वत्थामानौ विनयावच्छन्नमानोपपन्नमिदमिन्द्रसूनुनाऽभिभाषितौ।
@@ -968,8 +886,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
  **सुषेणः—**(श्रुत्वा सत्रासम्) देव ! यथायमुद्धतो देवदत्तध्वनिस्तथा मन्ये पराजितश्चम्पाधिराजः।
 
-
-
  **भीष्मः—**कः सन्देहः। तथापि शृणु निश्चयमुपलभामहे।
 
 (पुनस्तत्रैव)
@@ -998,7 +914,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
 [^39]: "ततस्ततः।"
 
-
 **युधिष्ठिरः—**प्रिये[^40] ! ततस्त्रिगर्त्ताधिपतौ सुशर्मणि शराभिघातविघटितमर्माणं विराटमादाय जितकासिनि प्रतिनिवृत्ते मया भीमसेनः सानुक्रोशमित्यभिदधे। अयि वत्स ! सुदुस्सहोऽस्माभिरयमभिनवः कौलीनः कलङ्को यद्वृकोदरपरिरक्षितस्यापि विराटस्य पराजयः।
 
 [^40]: "अथ दक्षिणगोग्रहवार्त्ता च कथ्यते। अथ प्रिये"
@@ -1008,8 +923,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 [^41]: "शोभनं मन्त्रितमार्यपुत्रेण।"
 
  **युधिष्ठिरः—**अथ मद्वचनालाननिर्मुक्तेन वीरकुञ्जरेण गम्भीरं गर्जता,
-
-
 
 **गदावदालम्ब्य तमालमेक—  
  मनेकपानामयुतं निहत्य।  
@@ -1035,7 +948,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
  **युधिष्ठिरः—**(श्रुत्वा) प्रिये ! शान्तनवस्यैव वात्सल्यावष्टम्भभावितं मधुरकषायपरिणाममिदं वचनम्।
 
-
 **द्रौपदीः—**अज्जउत्त[^44] ! कुमारघणंजयस्स पडिवयणाकण्णसद्धालुयं खु मह कण्णजुयलं।
 
 [^44]: "आर्यपुत्र ! कुमारधनञ्जयस्य प्रतिवचनाकर्णनश्रद्धालुकं खलु मम कर्णयुगलम्।"
@@ -1048,8 +960,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
  प्रारब्धोऽसौ कुरुनरपतिः सम्प्रहारे प्रहर्तुम्।  
 दूरादेनं सह सहचरैर्यद्यजित्वा निवर्ते  
  तद्वंशस्य प्रथमपुरुषो लज्जितस्त्वं मयैव॥५१॥**
-
-
 
  **युधिष्ठिरः—**साधु निरुत्तरीकृतोऽयं वत्सेन भगवान्सौरसैन्धवः। (पुनरग्रतो विलोक्य) कथमेष मेषस्थितादित्यवद्दुस्सहस्तेजसा वत्सेन युयुत्समानः शान्तनवमन्तर्धाय सुयोधन इत एवाभिवर्तते !।
 
@@ -1091,8 +1001,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
 [^50]: "तेनैव प्रहितं"
 
-
-
 ** दुर्योधनः—**रे पाण्डवडिम्भफेरण्ड ! कौरवकेसरिणं दुर्योधनमेवमाक्रमितुमिच्छसि। तत्सहस्वेदानीम् (इति पुनर्बाणं सन्धत्ते)
 
 ** अर्जुनः—** (सरोषप्रकर्षम्) अरे कद्वद[^51] ! नियन्त्रितोऽस्मि गुरुवचसा। व्याहर स्वैरं तत्। तथाहि—
@@ -1126,8 +1034,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
  **द्रौपदी—**(सहर्षमर्जुनं प्रति) कुमार ! जुत्तमिणं[^52]।
 
 [^52]: "कुमार ! युक्तमिदम्। यतः-"
-
-
 
  **जदो—**
 
@@ -1171,8 +1077,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 अनमितशिरसामकृपणवचनानामयुक्तसमरमार्गाणाम्।  
 वीराणामाशाभङ्गः सुदुःसहः प्राणभङ्गात्॥
 
-
-
 ** युधिष्ठिरः—** (ऊर्ध्वमवलोकयन्नञ्जलिं बद्ध्वा) भगवन् भुवनैकविभो गीर्वाणराज ! पाण्डोः प्रथममपत्यं युधिष्ठिरोऽभिवादये।
 
 (इति सर्वे प्रणमन्ति)
@@ -1209,8 +1113,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
 समाप्तोऽयं पार्थपराक्रमनामा व्यायोगः श्रीप्रह्लादननिर्मितश्च।
 
-
-
 **INDEX TO THE VERSES IN THE PÂRTHAPARÂKRAMA **
 
 |                  |                  |
@@ -1246,8 +1148,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 | दान्मेद्दण्ड°    | सोढं सत्य°       |
 | दूरस्थे          | स्वस्ति          |
 | देवेन            |                 |
-
-
 
 **APPENDIX I.**
 
@@ -1287,14 +1187,11 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 तनोति त्वत्सेवां ननुकनकवृक्ष ! त्वदपरः  
 परस्तत्को न स्याद्यदि न सुलभीभावमभजः\*॥**
 
-                                   
              प्रह्लादस्य
 
 —————————————————————————
 
  \*Found also in शार्ङ्गधरपद्धति under प्रह्लादन
-
-
 
 **II**
 
@@ -1334,8 +1231,6 @@ Praśasti of the Lûṇiga Vasati, he represents him as an incarnation of the he
 
 **\***Quoted in शार्ङ्गधरपद्धति under प्रह्लादन.
 
-
-
 **APPENDIX II.  
 KAYADRAN INSCRIPTION**
 
@@ -1372,8 +1267,6 @@ KAYADRAN INSCRIPTION**
 | १०  | रीघ जु कोइ पुजारइ वारइ–वाइत.                            |
 | ११  | **........................................**            |
 
-
-
 **From Kotishvar (Mt. Abu) inscription of Samvt. 1265**
 
  संवत् १२६५ वर्षे वैशाष शु १५ भौमे चौलुक्योद्धरणपरमभट्टारकमहाराजाधिराजश्रीमद्भीमदेवप्रवर्धमानविजयराज्ये श्रीकरणे महामुद्रामात्यमहं० ठाभूप्रभृतिसमस्तपंचकुले परिपन्थयति चंद्रावतीनाथमांडलिकासुरशंभुश्रीधारावर्षदेवे एकातपत्रवाहकत्वेन भुवं पालयति षट्दर्शनअवलंबनस्तम्भसकलकलाकोविदकुमारगुरुश्रीप्रह्लादनदेवे यौवराज्ये सति इत्येवं काले।
@@ -1384,68 +1277,5 @@ KAYADRAN INSCRIPTION**
 
 **उपदेशतरङ्गिणी PP. 198-199**
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

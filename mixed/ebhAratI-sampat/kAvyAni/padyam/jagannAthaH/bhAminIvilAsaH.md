@@ -18,29 +18,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAwNDg2MzcyMDU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 All Rights Reserved by the Editor.
 
@@ -54,8 +34,6 @@ Published by J. Ratlam for the Oriental Publishing Co.,
 Girgaum, Bombay.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 |                       |
 |:---------------------:|
 |     **CONTENTS.**     |
@@ -66,8 +44,6 @@ Girgaum, Bombay.
 |   (ii). Sāntavilāsa   |
 |       Notes...        |
 |       Appendix        |
-
-
 
 **PREFACE.**
 
@@ -81,8 +57,6 @@ Bombay.
 
 **G. C. J.**
 
-
-
 **INTRODUCTION**
 
  While paying a warm tribute, on one occasion, to thelate Lord Oxford (formerly Mr. Asquith) for his classicalknowledge and scholarship, Mr. Baldwin declared that hewas the last of the Romans—“the last of those whose debtwas to Athens and whose inspiration from Rome.”Itmay likewise be said of Pandit Jagannātha that he wasthe last of the “Romans,”for, the tradition of ClassicalSanskrit poetry which started practically with Kālidāsa,and which flourished through the vicissitudes ofseventeen centuries, found its last exponent of note inPandit Jagannātha. This observation is not of courseintended to convey the impression that the tradition of Classical Sanskrit Poetry has ceased to exist altogether.Far from it. The fact is that while, on the one hand, itcannot be denied that eminent Pandits have proved themselves heirs to the tradition which Jagannātha followedin his day, it has, on the other hand, to be admitted thatno successor of Jagannātha has attained to a statureas great as his own; and, besides as time rolls on,thetradition is certain to be influenced and proportionatelymodified by foreign modes and currents of thought andexpression. Jagannātha, therefore, may well be lookedupon as practically the last representative of the traditionof Classical Sanskrit Poetry.
@@ -91,15 +65,11 @@ Bombay.
 
  The darkness hanging over Indian literary chronologyhas become proverbial. Though the assertion of Macdonellthat the Indian mind was lacking in the historical senseis to be treated as an exaggeration, yet it is not altogetherunfounded. About a great many of Sanskrit writers weknow next to nothing. In not a few cases, the dates can
 
-
-
 approximately be proposed only in terms of centuries:and even so the dates proposed by different scholars differby centuries! Kālidāsa, according to some, might haveflourished in the First Century B. C., while, according toothers, he must have lived in the 4th Century A. D.Kauṭilya might be assigned either to the 4th century B. C.or the 3rd century A. D.; and so on. For such a sad stateof affairs, the writers themselves are indeed responsible.This aversion to autobiographical references on the part ofearlier writers like Kālidāsa seems to have been theresult of their natural or—what is more likely—conventional reticence. The task of settling theirchronology therefore becomes proportionately difficult.
 
  It seems however that the tradition in this respectunderwent a wholesome change, for the later Sanskritauthors do not show the aversion which their predecessorsdid. This modification has taken place early enough, forwe find Bāṇa making detailed personal references in his**हर्षचरित**; and also, to a certain extent, in **कादम्बरी**; and Bāṇamight well have been, as Mr. Kane suggests, the first tobring about this wholesome change. Similarly, ŚrīHarsa, the author of the *Naiṣadhīya,* who lived about theclose of the 12th century A. D., gives a tolerably goodaccount of himself and his works in the concluding stanzaof each Canto of his renowned Kāvya. This conventionof making personal references attained greater and greatervogue, as can only be expected; yet, with all this changeit is not possible to arrive at precise dates about the birth,death etc. even in the case of later writers from whateverinformation they have left about themselves in theirworks.
 
  Fortunately, Jagannātha has been rather unstintingin making personal references. In a verse in the Śānta-
-
-
 
 vilāsa. (45) he complacently says that during his youthhe enjoyed the splendid patronage of the Lord of Delhi:**दिल्लीवल्लभपाणिपल्लवतले नीतं नवीनं वयः**। Again, to the munificence of the Emperor he pays a warm tribute in thestanza :
 
@@ -117,8 +87,6 @@ vilāsa. (45) he complacently says that during his youthhe enjoyed the splendid 
 व्याकुप्यन्नूरदीनक्षितिरमणरिपुक्षोणिभृत्पक्ष्मलाक्षी-  
 लक्षाक्षीणाश्रुधारासमुदितसरितां सर्वतः संगमेन॥**
 
-
-
 with this court Pandit that he bestowed onhim, as Jagannātha himselfavers, the title of**पण्डितराज.** ‘अथ सकललोकविस्तारविस्तारितमहोपकारपरम्पराधीनमानसेन प्रतिदिनमुद्यदनवद्यगद्यपद्याद्यनेकविद्याविद्योतितान्तः-करणैः कविभिरुपास्यमानेन कृतयुगीकृतकनिकालेन कुमतितृणजालसमाच्छादितवेदवनमार्गविलोकनाय समुद्दीपितसुतर्क-दहनज्वालाजालेन मूर्तिमतेव **नव्वावासफरवानमनः** प्रसादेन द्विजकुरुसेवाहेवाकिवाङ्मनः कायेन माथुरकुलसमुद्रेन्दुना रायमुकुन्देनादिष्टेन **सार्वभौमश्रीशाहजहांप्रसादादधिगतपण्डितराजपदवीविराजितेन** तैलङ्गकुलावतंसेन पण्डित-जगन्नाथेनासफविलासाख्येयमाख्यायिका निरमीयत। सेयमनुग्रहेण सहृदयानामनुदिनमुल्लासिता भवतात्।’–आसफविलास (Opening sentencesas quoted in the Introduction to the N. S. Editionof **रसगङ्गाधर**). There is, again, the verse **भूमीनाथशहाबदीन**[^2]etc. in which Jagannātha pays highcompliments, courtier-wise, to Shah Jehan. The **आसफबिलास**, as the name only too patently shows, has for itstheme the Nawab Asaf Khan who, as we gather fromhistory, was the favourite Khan Khanan of the EmperorShah Jehan, and who died in 1641 A D. In **जगदाभरण**,Jagannātha praises Dara Sikoh, the eldest son of ShahJehan. From these references, it becomes abundantlyclear that Jagannātha flourished in the reign of ShahJehan, and very probably he began his literary career inthe reign of Jehangir.
 
 [^2]: "भूमीनाथ शहाबदीन भवतस्तुल्यो गुणानां गणै– रेतद्भूतभवप्रपञ्चविषये नास्तीति किं ब्रूमहे। धाता नूतनकारणैर्यदि पुनः सृष्टिं नवा भावये– न्न स्यादेव तथापि तावकतुलालेशं दधानो नरः॥"
@@ -132,8 +100,6 @@ with this court Pandit that he bestowed onhim, as Jagannātha himselfavers, the 
 धाता नूतनकारणैर्यदि पुनः सृष्टिं नवा भावये–  
 न्न स्यादेव तथापि तावकतुलालेशं दधानो नरः॥
 
-
-
 evidence. There is a traditional belief[^3] Introduction.")in Jaipur thatSavai Jaya Singh, the Maharajah, performed anAśvamedha sacrifice in 1714 A. D., and sent an invitationto Nageśa Bhatta, the Commentator of Jagannātha'sRasa Gangādhara. It appears from this that NageśaBhatta lived about the first quarter of the 18th century.Now Nageśa Bhatta was removed from Jagannātha by alittle less than two generations: from which it followsthat Jagannātha must have lived about the two middlequarters of the 17th century.
 
 [^3]: "Vide R. G. (N. S. E.
@@ -142,13 +108,9 @@ evidence. There is a traditional belief[^3] Introduction.")in Jaipur thatSavai J
 
  Jagannātha was a Tailang Brahmin by caste, as isseen from the concluding verse of his **प्राणाभरणः तैलङ्गान्वयमङ्गलालयमहालक्ष्मीदयालालितः श्रीमत्परमभट्टसूनुरनिशं विटूल्ललाटंतपः।संतुष्टः कमताधिपस्य कवितामाकर्ण्य तद्वर्णनं श्रीमत्पण्डितराजपण्डितजगन्नाथो व्यध्यासीदिदम्॥** In the opening sentences of **आसफविलालस**also which are quoted above, he refers to himself as**तैलङ्गकुलावतंसेन**. Some Mss. of the Bhāminīvilāsa arereported to have in the colophon the words **‘इति श्री मदखिलान्ध्रवेगिनाडिकुलावतंस—’**etc. from which it appears thatJagannātha was born in the**वेगिनाड**family. The name ofJagannātha’s father was **पेरुभट्ट**, and that of his mother**महालक्ष्मी**. of **वन्दे तं पेरुभट्टाख्यं लक्ष्मीकान्तं महागुरुम्।** R. G.**पेरुभट्ट** seems to have been also known as **पेरमभट्ट** forJagannātha calls himself**पेरुभट्टसूनु** in the concludingstanza of**प्राणाभरण** just quoted above. Jagannātha wascertainly fortunate inasmuch as he was born in afamily with high literary traditions; and particularly hewas so ‘well-fathered’because **पेरुभट्ट**was a man ofconsiderable scholarly attainments, as Jagannātha him-
 
-
-
 self says in the opening verses of **रसगङ्गाधर. पेरुभट्ट** hadstudied **वेदान्त** under **ज्ञानेन्द्र भिक्षु, न्याय** and **वैशेषिक** philosophiesunder **महेन्द्रपण्डित, पूर्वमीमांसा** under देव i. e.,**खण्डदेव** inBenares, and the **महाभाष्य** under the grammarian **शेषवीरेश्वर**Small wonder, then, that under these propitious circumstances the boy Jagannātha was brought up with lovingcare by his parents of. **महालक्ष्मीयालालितः** in the verseतैलाङ्गन्वय etc.), and received such education from his fatheras made him eventually the **पण्डितराज**that he turned outto be. Though Jagannātha received his education fromhis father for the most part, yet, seems, he had also satat the feet of **शेषवीरेश्वर,** the guru of his own fatherJagannātha must indeed have had a natural aptitude forthe many-sided scholastic education given to him for wenow know him not merely as a poet of a very high order,but also as an accomplished rhetorician—as the author of**रसगङ्गाधर** : moreover, his mastery over the Science ofGrammar is displayed in the ambitious commentary**मनोरमाकुचमर्दिनी** which was written by him by way of arefutation of **मनोरमा** of **भट्टोजीदीक्षित**.
 
  The young Pandit, having been fully equippedintellectually, left home and, as is evidenced by his ownwritings, found his way into the Court of the MoghulEmperors under whose warm patronage he passed hisyouthful days, cf. **दिल्लीवल्लभपाणिपल्लवतले नीतं नवीनं वयः।**(**शी. ४५)** So great seems to have been the impressioncreated by the learning and scholarship of this youngPandit at the Imperial Court, that the Emperor ShahJehan conferred on him the title **पण्डितराज**(the Lord ofthe Learned) which, the latter, from thevery frequentmention of it made by him in his works, appears to haveprized very much, cf. **पण्डितराजस्य कवितायाः।**Sānta V. 44.The epithets **पण्डितपति** (Śānta V. 39 ) and **पण्डितनरेन्द्र** (which
-
-
 
 Jagannātha uses about himself in a verse at the beginningof the Rasagangādhara) are apparently paraphrases ofthe title **पण्डितराज**. While he was basking in the sunshineof the Imperial Moghul Court, Jagannātha seems to havereceived very warm attentions from at least two otherindividuals besides the Emperor. In the Āsafvilāsa, helavishes the highest praises[^4] on. Nawab Asafkhan, thefavourite Khan khanan of Shah Jehan, though it is to benoted that the initiative for the composition of theĀsafvilāsa came from Rai Mukund. of. **रायमुकुन्देनादिष्टेन**etc. in the passage **अथसकललोक** etc. quoted above. Dara Sikoh,the eldest son of Shah Jehan, is eulogized by Jagannāthain his **जगदाभरण**. Apart from the sense of gratitude to thisprince for the generous treatment which the latter mighthave given him, Jagannātha must have had a specialbond of affection for him, because Dara was himself akeen student of Sanskrit.
 
@@ -165,8 +127,6 @@ Jagannātha uses about himself in a verse at the beginningof the Rasagangādhara
 
 युक्तं तु याते दिवनासफेन्दौ तदाश्रितांना यदभूर्द्वनाशः।  
 इदं तु चित्रं भुवनावकाशे निराश्रया खेलति तस्य कीर्तिः॥
-
-
 
 support of this, various—now famous—verses[^5]ascribed to Jagannātha are quoted as showing his fondness for the**यवनी**. Further, it is said that in old age Jagannāthawent to Kāśi, but there he was condemned as a mandepraved on account of the association with a यवनीJagannātha, however, thought otherwise; he went to thebanks of the Ganges, and with keen fervour began to singverses[^6] in praise of the holy river. In response, it is said,the water of the river began to rise higher and higher tillJagannātha was given a full bath and had his purityattested.
 
@@ -189,21 +149,15 @@ support of this, various—now famous—verses[^5]ascribed to Jagannātha are qu
 
  6. These verses form the **गङ्गालहरी.**
 
-
-
 stances. Moreover, Jagannātha was a scrupulous, piousBrahmin. It follows therefore that the traditional beliefis not corroborated by the writings of Jagannātha. Butthe tradition gains colour when we take into account theatmosphere at the Imperial Moghul Court. One point,however, is certain: The Pandit could not have marrieda yavana girl. He may perhaps have associated with ayavani, following the prevailing custom at the MoghulCourt. This keeping of a yavani, too, must have madeJagannātha a sinner and a derelict in the eyes of theBrahmins of Benares.
 
  In later years of life, Jagannātha seems to haveceased taking interest in worldly affairs, and bent onpassing the remainder of his days in piety and peace.From the 45th verse of the Śāntavilāsa**संप्रत्युञ्झितवानंमधुपुरीमध्ये हरिः सेव्यते।** it appears that he settled in **मधुपुरी**i. e.**मथुरा**, and passed his days in the devotion of Hari.This fact would cut right across the common belief thatthe Pandit passed his last days on the banks of theGanges—in Kāśi. This common view seems to be basedon the verse **किं निःशंकं शेषे शेषे वयसस्तवागतो मृत्युः। अथवा सुखशयीथा निकटे जागार्ति जाह्नवी जननी॥**(Śānta V. 31). WhenJagannātha went to Kāśi and settled there in old age,Appayya Diksita is said to have taunted him by sayingthat it was no use to be indifferent at the fag end of life,for Death is almost at the door. To this Jagannātha gavethe brilliant retort that there was no danger to himbecause Mother Ganges was near by to take care of him.From this incident, it appears that Jagannātha passed hislast days in Kāsi. How then are these two mutuallydiscordant pieces of evidence to be explained? There is,of course, another reading in place of the line **संप्रत्युज्झितवासनं मधुपुरीमध्ये हरिः सेव्यते।** This Variant reads: **संप्रत्यन्धक**-
-
-
 
 **शासनस्य नगरे तत्त्वं परं चिन्त्यते।** (The highest truth is contemplated now in the city of Siva i. e. Kāśī); this latterreading seems on the face of it to have been the concoctionof some Pundit who, being already aware of the incidentbetween Jagannātha and Appayya Dixit, felt the absurdityof the present reading and wanted to do away with it. Itis open to us, in the last resort, to conclude, as it isalready suggested, that Jagannātha may have lived forsome time both in Kāśī and in Mathurā in his last days.
 
 **JAGANNĀTHAAS A MAN.**
 
  Jagannātha must have been a man of ambitions inlife, for, as we have already seen, after finishing hisstudies he left his native place and travelled abroad.His temperament seems to have been emotionallysensitive, as can be seen from his dealings with others.His attitude towards his parents is one not onlyof warm filial love but also of reverence. The parentswho had taken so much care to bring up their son wererewarded by the gratefulness and affection which thelatter cherished for them. To his patron, the Emperor,Jagannātha bore high loyalty, which is shown by thewarmth of feeling with which the Emperor is referred toby him, whenever an occasion arises for him to do so.This emotional sensitivity bordered on impulsiveness.His emotional response to any stimulus was very great.And it is to this source indeed that are to be traced thewarm love and loyalty on the one hand, and the violentantagonism, on the other, both of which Jagannāthashowed. He was as loyal and friendly to his patron andothers as he was hostile to his foes. He undertook to writehis refutation of **मनोरमा**of Bhattoji Dixit mainly becauseBhattoji Dixit had turned “faithless to his Guru”—anattitude which Jagannātha could never understand, much
-
-
 
 less connive at. With virtuous indignation and pride,he asserts: **पण्डितेन्द्रो जगन्नाथः स्यति गर्वं गुरुद्रुहाम्.** This sameemotional impulsiveness, again, explains the arrogant.looking personal references which Jagannātha makes inhis writings. His scornful attitude towards other poets,his high estimation of his own abilities, the arrogantvein in his writings—these proceed from the impetuoustemperament of the emotional poet.
 
@@ -213,17 +167,11 @@ less connive at. With virtuous indignation and pride,he asserts: **पण्ड�
 
  From among about a dozen compositions ofJagannātha, there are four or five which are well-known,A reference is already made to the famous lyricalpoem **गङ्गालहरी**which is full of devotion and reverential emotion. The **मनोरमाकुचमर्दिनी** was composed byJagannātha with the set purpose, as the title itselfshows, of refuting the **मनोरमा** in which Bhattoji
 
-
-
 Dixit had propounded certain views contrary to thoseheld by Śeṣaśrīkṛṣṇa who was the Guru of Bhattoji Dixit.The **चित्रमीमांसाखण्डनम्** is a work on Rhetoric and iscomposed in order to point out the faults in **चित्रमीमांसा**, acomposition by Appayya Dixit. But by far better knownand looked upon as a standard work on Rhetoric is the**रसगङ्गाधर**. In this work Jagannātha examines and refutesthe views of his illustrious predecessors and expounds hisown. While this work shows the masterly knowledge ofJagannātha of the science of Poetics, it shows him at thesame time as an able writer both in prose and verse.His prose is characterized, as Prof. Kane has well observed,by a lucid and vigorous style and displays great criticalacumen. In his exposition of a topic, Jagannātha hadto cite examples. But, conscious as he was of his ownpoetic powers, he disdained to draw upon others andcomposed his own verses suitable to the topic undertreatment. With great elation he says in the beginningof the **रसगङ्गाधर :–निर्माय नूतनमुदाहरणानुरूपं काव्यं मयात्र निहितं नपरस्य किञ्चित्। किं सेव्यते सुमनसां मनसापि गन्धः कस्तूरिकाजननशक्तिभृता.मृगेण॥** His stanzas bear testimony to the poetical abilityof the Pandit. “They are composed in an easy, flowingand graceful style and exhibit great poetic talent”. The**भामिनीविलास** is a poetical composition which is alsowell-known. Jagannātha himself enumerates thequalities of his poetry in a stanza in the **करुणविलासः निर्दूषणागुणवती रसभावपूर्णा सालङ्कृतिः श्रवणकोमलवर्णराजिः। सा मामकीन कवितेवमनोऽभिरामा रामा कदापि हृदयान्मम नापयाति॥** (6) It has tobe admitted that this evaluation of his own poetry byJagannātha is, to a great extent, correct. There is aspecial quality of his poems which Jagannātha refers tonow and then in the concluding stanzas of the Śāntavilasa,and on which he prides himself. It is **मााधुर्य**. In hisopinion (cf. Śāntavilāsa, 42), a poetical composition is
-
-
 
 worth its name only if this quality, **माधुर्य**, is present in it**माधुर्य**is one of the ten qualities of **काव्य** and partakes of atwofold nature—**शाब्द**and **आर्थ**. The ‘Verbal Sweetness’**(शाब्दमाधुर्य)** is defined by Jagannātha as: **संयोगपरह्स्वातिरिक्तवर्णघटितत्वे सति पृथक्पदत्वं माधुर्यम।**‘Verbal Sweetness’isgained by the use of separate words while at the sametime avoiding short syllables followed by conjuncts.And the ‘Sweetness of sense’ **(आर्थमाधुर्य)** is defined as:**एकस्या एवोक्तेर्भङ्गयन्तरेण पुनः कथनात्मकमुक्तिवैचित्र्यं माधुर्यम्।**The‘Sweetness of sense’is the variety of expressing one andthe same idea in different charming ways. The **भामिनीविलास**, of course, is characterized by this two-fold **माधुर्य.**and Jagannātha’s claim has to be conceded.
 
  However, attention must be drawn to certain drawbacks in Jagannātha's poetry from our own point of view.One such is his mannerisms. Sometimes he prefers anawkward way of expressing an idea to a direct andsimple expression of the same. An illustration in pointis the use of the expression **पुष्टिं तन्** in the line **यत्पिषतामपिनृृणां पिष्टोऽपि तनोषि परिमलैः पुष्टिम्।**He means to say, ‘Thoudelightest with thy fragrance etc.’ But instead of directlysaying so, he uses the rather awkward phrase **पुष्टिं तनोषि,**‘Thou dost bring about the nourishment or satisfactionresulting therefrom’. **संतापमाला**in vs. 15 in the Prūstāvikavilāsa is another phrase showing the same drawback.It is not difficult to perceive why Jagannātha used thephrase **पुष्टितन्**in the context. The reason is, and thatshows another drawback, Jagannātha's great love foralliteration. This passionate love for an alliterativeeffect is responsible for the occasional use of roundabout expressions. In fairness to the Pandit, however, itmust be noted that much of whatever artificiality is seen
-
-
 
 in his poetry is to be attributed to the literary conventionscurrent in his time.
 
@@ -234,8 +182,6 @@ in his poetry is to be attributed to the literary conventionscurrent in his time
  The Bhāminīvilasa consists of four vilāsas, out ofwhich the first and the last are edited here. Thereseems to be no vital connection between the variouscilasas except the fact that the second and the thirdcilasas describe a beautiful woman from different pointsof view. There is a certain unity of nature in thecontents of the three vilāsas except the first which, likethe whole work, is an anthology. In the Prastavikavilasathe poet praises good men, censures the wicked, eulogizesvirtues like genosity, helpfulness, etc., draws attention tothe changing wheel of Fortune-indeed, he looks at Lifeas it is, and bodies forth his impressions in the form ofverses. In the other vilasas, on the other hand, there isa respective unity of theme which is treated in an ample,varied way.
 
 \_\_\_\_
-
-
 
 **अथ**
 
@@ -265,8 +211,6 @@ in his poetry is to be attributed to the literary conventionscurrent in his time
 
   2 The leader of the flock of swans, whose life ishitherto passed in the Mānasa lake, in its water rendered fragrant with the pollens dropping from the manyfully-opened lotus-flowers,–how can he, pray, now livein the water of a puddle crowded with an ever-increasing mass of frogs ?
 
-
-
 **तृष्णालोलविलोचने कलयति प्राचीं चकोरीगणे  
 मौनं मुञ्चति किं च कैरवकुले कामे धनुर्धुन्वति।  
 माने मानवतीजनस्य सपदि प्रस्थातुकामेऽधुना  
@@ -287,8 +231,6 @@ in his poetry is to be attributed to the literary conventionscurrent in his time
  4 Ye, blooming lotus-flower, let the bees humsweetly, licking, with difficulty, your dripping juice.Here is another one–your friend, the wind, discharging, without expecting any return, your fragrance inevery direction.
 
  5 Do not despise the honey-maker (i. e. the bee),O Kuṭaja, when perchance he doth approach thee; (for)he is much respected (even) by the lotuses burstingwith juice.
-
-
 
 **तावत्कोकिल विरसान्यापय दिवसान्वनान्तरे निवसन्।  
 यावन्मिलदलिमालः कोऽपि रसालः समुल्लसति॥६॥**
@@ -317,8 +259,6 @@ in his poetry is to be attributed to the literary conventionscurrent in his time
 
  10 Whose words can adequately describe this thygreatness, O Sandal tree, for thou dost nourish, withdischarges of fragrance, (even) the serpents that vomitout poison?
 
-
-
 **पाटीर तव पटीयान्कः परिपाटीमिमामुरीकर्तुम्।  
 यत्पिषतामपि नृृणां पिष्टोऽपि तनोषि परिमलैः पुष्टिम्॥११॥**
 
@@ -343,8 +283,6 @@ in his poetry is to be attributed to the literary conventionscurrent in his time
 
  14 blooming lotus-flower. let the bees gatheringthy juice hum as they please. As for carrying thyperfumes to the regions between the directions, noneelse in the world except the wind. is clever enough (to do that).
 
-
-
 **याते मय्यचिरान्निदाघमिहिरज्वालाशतैः शुष्कतां  
 गन्ता कं प्रति पान्थसंततिरसौ संतापमालाकुला।  
 एवं यस्य निरन्तराधिपटलैर्नित्यं वपुः क्षीयते  
@@ -365,8 +303,6 @@ in his poetry is to be attributed to the literary conventionscurrent in his time
  16 While thou art becoming contracted (i. e.while thy water is drying up),O lake, the birds on allsides have flown up into the sky, and the bees are(now) betaking themselves to the mango-sprouts. Butto what alternative, alas, can the poor pitiable fishhave recourse?
 
  17 In this wind as in the bee, do not presume thegreed for fragrance, O lotus-plant. Only for the sakeof the joy of the people has he allowed his respected selfto be a supplicant.
-
-
 
 **गुञ्जति मञ्जु मिलिन्दे मा मालति मौनमुपयासीः।  
 शिरसा वदान्यगुरवः सादरमेनं वहन्ति सुरतरवः॥१८॥**
@@ -395,8 +331,6 @@ in his poetry is to be attributed to the literary conventionscurrent in his time
 
  22 Ponder well (lit. for long). O River, whetherit is meet for thee, rising from the Vindhya mountainand (therefore) pure, to receive the (filthy) streetwater even while thou art drying up?
 
-
-
 **पत्रफलपुष्पलक्ष्म्या कदाप्यदृष्टं वृतं च खलु शूकैः।  
 उपसर्पेम भवन्तं बर्बुर वद कस्य लोभेन॥२३॥**
 
@@ -418,8 +352,6 @@ in his poetry is to be attributed to the literary conventionscurrent in his time
  25 What quality has driven you, OFather ofBhavánī(i. e. the Himalaya mountain), to bear thismass of snow which robs all trees of their charmingbeauty, and which brings distress to the beings in theworld?
 
  26 O young elephant, never should you scorn thisbee which has approached you. For, he is worthy tobe carried on the head even by the best elephantscharming on account of the flow of rut.
-
-
 
 **अमरतरुकुसुमसौरभसेवनसंपूर्णसकलकामस्य।  
 पुष्पान्तरसेवेयं भ्रमरस्य विडम्बना महती॥२७॥**
@@ -447,8 +379,6 @@ in his poetry is to be attributed to the literary conventionscurrent in his time
 
  30 The superintendent of the garden was devoidof discernment; the earth, to be sure, had no moisture;the ten quarters were roughened by cyclones; and thetremendous sun-shine was difficult to bear. While thusthe causes of the destruction of the Campaka flower
 
-
-
 **न यत्र स्थेमानं दधुरतिभयभ्रान्तनयना  
 गलद्दानोद्रेकभ्रमलिकदम्बाः करटिनः।  
 लुठन्मुक्ताभारे भवति परलोकं गतवतो  
@@ -474,8 +404,6 @@ were all present in the desert, you were sent out by the Creator from somewhere,
 
  33 Thy roots are very large, and firmly protectedby the stone-platform; thy branches-there’s a hundred
 
-
-
 **ग्रीष्मे भीष्मतरैः करैर्दिनकृता दग्धोऽपि यश्चातक-  
 स्त्वां ध्यायन्घन वासरान्कथमपि द्राघीयसो नीतवान्  
 दैवाल्लोचनगोचरेण भवता तस्मिन्निदानीं यदि  
@@ -493,8 +421,6 @@ of them–are strong (or full of sap; thou standest ona mountain diffienlt of ac
  34 The Cātuka bird that, though scorched by theburning (lit. very oppressive) rays of the sun, somehowpassed the elongated days in summer in thy contemplation, O cloud—if to him thou, sighted by him through(good) luck. shouldst condescend to show the favourof showering hailstones (at him). then before whomshall we complain?
 
  35 While the trecs. blighted by the riotous (lit.matted, confused) cloud of flumes of the forest conflagration, are withering, with their branches fallen off,thou art raining abundant water on the peaks ofmountain-ranges! What arrogance of wealth is thison thy part !
-
-
 
 **शृण्वन्पुरः परुषगर्जितमस्य हन्त  
 रे पान्थ विह्वलमना न मनागपि स्याः।  
@@ -517,8 +443,6 @@ of them–are strong (or full of sap; thou standest ona mountain diffienlt of ac
 
  38 Though there is no expectation (of return),nor a sense of courtesy, nor love, nor attachment onhis part, yet the high cloud removes the oppression ofthe people!
 
-
-
 **समुत्पत्तिः स्वच्छे सरसि हरिहस्ते निवसनं  
 निवासः पद्मायाः सुरहृदयहारी परिमलः।  
 गुणैरेतैरन्यैरपि च ललितस्याम्बुज तव  
@@ -539,8 +463,6 @@ of them–are strong (or full of sap; thou standest ona mountain diffienlt of ac
  40 On thy shore, pearls (brilliant) like the discof the sun lie scattered about side by side with heaps ofpebbles. That (well-known) divine Nàrāyána sleepsin thy ‘water’ side by side with acquatic animals.Seeing this lack of discrimination on thy part, and, theheight of thy glory as well, shall I, pray, censurethee, O Milky Ocean, or praise thee?
 
  41 What’s the use of these pearls or of thy bodybehaving like a cloud (i. e. dark and glossy) O ocean,when thy water cannot be used by thirsty mouths (lit.does not enter the mouths of the thirsty)?
-
-
 
 **इयत्यां संपत्तावपि च सलिलानां त्वमधुना  
 न तृष्णामार्तानां हरसि यदि कासार सहसा।  
@@ -570,8 +492,6 @@ of them–are strong (or full of sap; thou standest ona mountain diffienlt of ac
 
  45 When the bee, by whom smelt and then forsaken, the flowers of the Celestial trees, growing in
 
-
-
 **भुक्ता मृणालपटली भवता निपीता-  
 न्यम्बूनि यत्र नलिनानि निषेवितानि।  
 रे राजहंस वद तस्य सरोवरस्य  
@@ -597,8 +517,6 @@ the garden of Indra, were smelt by the gods—whenthat bee is driven by fate to 
 
  48 O antelope, why, indeed, dost thou, with eyesblinded with overpowering pride, disport thyself in thisforest in the midst of the female-deer? Just mark this
 
-
-
 **जठरज्वलनज्वलताप्यपगतशङ्कं समागतापि पुरः।  
 करिणामरिणा हरिणा हरिणाली हन्यतां नु कथम्॥४९॥**
 
@@ -621,8 +539,6 @@ to be the skirt of the sporting ground of the lion,scattered over with pearls fr
  50 How can the lion, who adorned the earth withheaps of pearls dropping down from the rent-up templesof elephants, to-day speak about his valour beforethe deer?
 
  51 Friend, lord of the herd of elephants, blindwith intoxication, do not linger even for a moment inthis dense forest-region; (for) there, in the cave ofthe mountain, sleeps the mighty lion who has torn upa large number of mountain-boulders with his sharp talons, thinking them to be elephants!
-
-
 
 **गिरिगह्वरेषु गुरुगर्वगुम्फितो  
 गजराजपोत न कदापि संचरेः।  
@@ -647,8 +563,6 @@ to be the skirt of the sporting ground of the lion,scattered over with pearls fr
 
  54 While the great sea-monster (Raghava) playedabout, the quarter-elephants were led, by the greatnoise of the waves dashing all round, in their hearts tobelieve, through mistake, that it was the rotation ofthe churning mountain—on whose breast should thissea-monster, who is well-versed in the art of swallowing the bodies of large fish, disport himself now thathe has left the ocean on account of a love-quarrel?
 
-
-
 **लूनं मत्तगजैः कियत्कियदपि च्छिन्नं तुषारार्दितैः  
 शिष्टं ग्रीष्मजभीष्मभानुकिरणैर्भस्मीकृतं काननम्।  
 एषा कोणगता मुहुः परिमलैरामोदयन्ती दिशो  
@@ -672,8 +586,6 @@ to be the skirt of the sporting ground of the lion,scattered over with pearls fr
 
  57 “When people will withdraw from my vicinityon account of their attention being engrossed in their
 
-
-
 **रे चाञ्चल्यजुषो मृगाः श्रितनगाः कल्लोलमालाकुला-  
 मेतामम्बुधिकामिनीं व्यवसिताः संगाहितुं वा कथम्।  
 अत्रैवोच्छलदम्बुनिर्भरमहावर्तैःसमावर्तितो  
@@ -696,8 +608,6 @@ respective duties, I shall fly away from the cage afterbreaking open the eage-do
  50Oyoungling (of a lion), go on sucking themilk. Is it on account of the thought of intoxicatedelephants that thou art directing the sharp corners ofthy eyes to the ends of the quarters? (It is only) thenew dark cloud, which, removing the oppression of theheart of the three worlds, thunders in full volume.
 
  60 Enough of thy deep rumbles, O cloud ; myphoetus, one month old, jumps up in my womb, thinking (it to be the gurgle of) a rutting elephant!
-
-
 
 **वेतण्डगण्डकण्डूतिपाण्डित्यपरिपन्थिना।  
 हरिणा हरिणालीषु कथ्यतां कः पराक्रमः॥६१॥**
@@ -728,8 +638,6 @@ respective duties, I shall fly away from the cage afterbreaking open the eage-do
 
  65Generosity known all over the three worlds,birth from the ocean, residence in the Nandana forest,
 
-
-
 **एवं दातृगुरोर्गुणाः सुरतरोः सर्वेऽपि लोकोत्तराः  
 स्यादर्थिप्रवरार्थितार्पणविधावेको विवेको यदि॥६५॥**
 
@@ -753,8 +661,6 @@ fragrance captivating the hearts of gods—Thus uncommon are all the qualities o
  67 Since thou bearest, O mother earth, even thosemeanest of men who deceive the good after having inspired their confidence in themselves with sweet words,thou. too, hast, it seems, lost the faculty of discrimination!
 
  68Peculiar (or uncommon) is their mental activity bent upon the welfare of the world; peculiar, too,is the manipulation of the chains of expressions; extra-
-
-
 
 **लोकोत्तरा च कृतिराकृतिरार्तहृद्या  
 विद्यावतां सकलमेव गिरां दवीयः॥६८॥**
@@ -782,8 +688,6 @@ perfume all round.
  70 Even the anger of the righteous (lit. clearheaded ), who are endowed with the weight of all loveable qualities, is charming indeed. Even the bitterness of saffron charged with all-satiating fragrance is highly agreeable.
 
  71 If dunces, who steal the grains dropping out from the mansion of Learning, strut about in front of those who have looted with ease the great mass of wealth from the city of Sāradā(the goddess of learn-
-
-
 
 **अद्य श्वः फणिनां शकुन्तशिशवो दन्तावलानां शशाः  
 सिंहानां च सुखेन मूर्धसु पदं धास्यन्ति शालावृकाः॥७१॥**
@@ -813,8 +717,6 @@ ing). then at any time certainly the fledglings may as well put their foot on th
 
  74 A good man, though not asked, yet delights the people with beneficent activities very much.Requested by whom, does the moon, tell (me), open the series of night-lotuses with his loveable rays?
 
-
-
 **कृतमपि महोपकारं पय इव पीत्वा निरातङ्कः।  
 प्रत्युत हन्तुं यतते काकोदरसोदरः खलो जगति॥७५॥**
 
@@ -838,8 +740,6 @@ ing). then at any time certainly the fledglings may as well put their foot on th
  77 A wicked man is avoided from afar on account of his fraudulent nature by men fearing harm just like a serpent on account of his venom.
 
  78 Ever victorious is that rare individual who forswears self-interest on account of his sedulity in the interests of others, who cherishes unity without distinction among all beings born of the three Gunas and in
-
-
 
 **स्वभावाद्यस्यान्तः स्फुरति ललितोदात्तमहिमा  
 समर्थो यो नित्यं स जयतितरां कोऽपि पुरुषः॥७८॥**
@@ -867,8 +767,6 @@ OR
 
  81 A man possessing good qualities ever helps (others) even when he is in adversity (himself). An
 
-
-
 **वनान्ते खेलन्ती शशकशिशुमालोक्य चकिता  
 भुजप्रान्तं भर्तुर्भजति भयहर्तुः सपदि या।  
 अहो सेयं सीता शिव शिव परीता श्रुतिचलत्-  
@@ -893,8 +791,6 @@ illustratian in point is mercury which though deadened or overpowered (serves to
  83 The body of Cupid who, bragging repeatedly about the prowess of his own arms in front of the gods, aimed his arrow at the destroyer of Pura—the body which was the object of worship with the wreaths of flowers in the form of the eyes of celestial maidens, became within a moment the repository of (i. e. was transformed into) a mass of ashes on account of the fire in (Śiva’s) forehead.
 
  84 It is only proper that in an assemblage of monkeys branches of trees (should serve the purpose of)
-
-
 
 **किं तीर्थं हरिपादपद्मभजनं किं रत्नमच्छा मतिः  
 किं शास्त्रं श्रवणेन यस्य गलति द्वैतान्धकारोदयः।  
@@ -921,8 +817,6 @@ softs seats. chattering should represent good speeches and welcome offered by te
  87 Better indeed it is to be destitute of good qualities—fie upon the (possession of) many good qualities! while other (ordinary) trees continue to live on, only the sandal trees are cut down.
 
  88 Blessed is the life of trees whose hearts are not touched by hundreds of flames of fire in the form of ceaseless anxiety caused by approaching others!
-
-
 
 **शून्येऽपि च गुणवत्तामातन्वानः स्वकीयगुणजालैः।  
 विवराणि मुद्रन्द्रागूर्णायुरिवेह सज्जनो जयति॥८९॥**
@@ -951,8 +845,6 @@ softs seats. chattering should represent good speeches and welcome offered by te
 
  93 A bow to the tree-the prince among the generous-which bears the burden of a mass of flowers, leaves
 
-
-
 **यो देहमर्पयति चान्यसुखस्य हेतो-  
 स्तस्मै वदान्यगुरवे तरवे नमोऽस्तु॥९३॥**
 
@@ -978,8 +870,6 @@ and fruits, which exposes itself to the oppressive heat and distressing cold, an
  95 Thy discriminating power is apparent here, indeed, O cloud, for thou, having become highly overbearing on the attainment of a high position, dost manifest thy generosity on the mountains—leaving the parched crops of the poor people aside!
 
  96 Mountains are great; the earth is greater than they; and the egg of the Universe is greater even than the earth. But far greater than the universe are the high-souled who are unperturbed even in destruction.
-
-
 
 **व्योमनि बीजाकुरुते चित्रं निर्माति सुन्दरं पवने।  
 रचयति रेखाः सलिले यस्तु खले चरति सत्कारम्॥९७॥**
@@ -1010,8 +900,6 @@ and fruits, which exposes itself to the oppressive heat and distressing cold, an
 
  101 Thy father is some peak of the mountain, thy genus is wood, and thy association with serpents.
 
-
-
 **कस्मै हन्त फलाय सज्जन गुणग्रामार्जने सज्जसि  
 स्वात्मोपस्करणाय चेन्मम वचः पथ्यं समाकर्णय।  
 ये भावा हृदयं हरन्ति नितरां शोभाभरैः संभृता-  
@@ -1036,8 +924,6 @@ Even so, O Sandal, by sheer merits hast thou attained to greatness.
  103 In thy absence, O mango tree with tender, red sprouts, and having the bees humming sweetly (round thee). the ten quarters appear to the cuckoo (even) in spring to be full of smoke, though there are bloming lotuses in them, and the winds burn his body like fires!
 
  104 (Though) he tore up large slabs of stones on the mountain side with an exuberance of excessive and effective **(जाग्रत्)** valour of the sharp talons, under the impression that they were elephants, yet the enemy of elephants could not get even a slice of flesh anywhere for fate was averse!
-
-
 
 **गर्जितमाकर्ण्य मनागङ्के मातुर्निशार्धजातोऽपि।  
 हरिशिशुरुत्पतितुं द्रागङ्गान्याकुञ्च्यलीयतेऽतिभृशम्॥१०५॥**
@@ -1067,8 +953,6 @@ Even so, O Sandal, by sheer merits hast thou attained to greatness.
  108 The company of a rogue is the forest conflagration to the deer in the form of joy, an intoxicated elephant to the tree of good behaviour, and a forceful gale to the lamp of knowledge!
 
  109 Villains are ever proficient in the work of placing obstacles in the welfare of the good. Serpents are clever in robbing the innocent of their lives!
-
-
 
 **वदने विनिवेशिता भुजङ्गी  
 पिशुनानां रसनामिषेण धात्रा।  
@@ -1101,8 +985,6 @@ Even so, O Sandal, by sheer merits hast thou attained to greatness.
 
  114 A merit-less man never shines, show himself as he would (lit. though covered with much pomp),
 
-
-
 **पङ्कैर्विना सरो भाति सदः खलजनैर्विना।  
 कटुवर्णैर्विना काव्यं मानसं विषयैर्विना॥११५॥**
 
@@ -1132,9 +1014,6 @@ like the silk-cotton tree adorned with the splendour of apparently charming flow
 
  119 Merits of men, if there are any **(सन्तः),** shine out themselves and not from others. The fragrance of musk is surely never proclaimed by oaths!  
 
-
-
-
 **अयि वत गुरुगर्वं मा स्म कस्तूरि यासी-  
 रखिलपरिमलानां मौलिना सौरभेण।  
 गिरिगहनगुहायां लीनमत्यन्तदीनं  
@@ -1163,8 +1042,6 @@ like the silk-cotton tree adorned with the splendour of apparently charming flow
 
  123 I imagine, the clusters of trees in this forest have bent down their necks to the ground through an
 
-
-
 **मृतस्य लिप्सा कृपणस्य दित्सा विमार्गगायाश्च रुचिः स्वकान्ते।  
 सर्पस्य शान्तिः कुटिलस्य मैत्री विधातृसृष्टौ न हि दृष्टपूर्वा॥१२४॥**
 
@@ -1188,8 +1065,6 @@ exuberance of modesty which they feel, on hearing their own praises sung sweetly
  126. The wayward (lit. unfettered) fate gives happiness to men, unasked ; but, when asked, never gives, and, besides, takes away everything they possess !
 
  127 On seeing thee in the thick of the battle with the circle of formidable enemies blasted by thy fierce arrows discharged from the shining bow bent round (when drawn) by the pair of mighty hands, which
-
-
 
 **वल्गद्गाण्डिवमुक्तकाण्डवलयज्वालावलीताण्डव-  
 भ्रश्यत्खाण्डवरुष्टपाण्डवमहो को न क्षितीशः स्मरेत्॥१२७॥**
@@ -1222,8 +1097,6 @@ king will not be reminded, Iask, of the enragedPāṇḍava in the Khāṇḍava
 
  1 May this my mind, tortured by the spreadingmass of flames of the conflagration which has brokenout in the wide forest-region of worldly objects, behave
 
-
-
 **अये जलधिनन्दिनीनयननीरजालम्बन  
 ज्वलज्ज्वलनजित्वरज्वरभरत्वराभङ्गुरम्।  
 प्रभातजलजोन्नमद्गरिमगर्वसर्वंकषै-  
@@ -1241,8 +1114,6 @@ for a long time like the Cakora-bird towards the moon(in the form) of the face o
  2 Oh Lord, the resting-place of the lotus-like eyesof the daughter of the Ocean (i e. Laxmi), cool me-mewho am breaking under the vehemence of high (worldly)Fever overpowering like blazing fire—with thy eyesthat sweep off the rising pride of a morning-lotus aboutits own beauty (lit greatness **गरिमन्**) and which delightthe trinity of the worlds.
 
  3 May that indescribable cluster of clouds (i. e.Srīkṛṣṇa) which haunts about the celestial trees on thebanks of the daughter of the Kalinda mountain (i. e.the river Jumna), which, as soon as it is contemplatedonly, destroys through compassion the growingSunshine (worldly oppression) of men, and which issurrounded by hundreds of lightning-streaks shiningwith ever-enduring and ample (**अतनु**) brilliance—maythat cluster of clouds kiss my intellect.
-
-
 
 **कलिन्दनगनन्दिनीतटवनान्तरं भासय-  
 न्सदा पथि गतागतश्रमभरं हरन्प्राणिनाम्।  
@@ -1264,8 +1135,6 @@ for a long time like the Cakora-bird towards the moon(in the form) of the face o
  5 Showering the whole world with abundantuncommon **(नव)** ambrosia which is as refreshing asmoonlight, alleviating in no time the three–fold oppression of men, residing in the Vṛṇda forest, andsurrounded by all gods who bow to him, may theextraordinary cloud (i. e. Śrikṛṣṇa) dispel the darknessfrom my heart.
 
  6 May the best of the Vṛṣṇis relieve, like a cloudof the rainy season, my distress, oppressed that I amby the mundane existence which is as terribly scorchingas the orb of the summer sun.
-
-
 
 **अपारे संसारे विषमविषयारण्यसरणौ  
 मम भ्रामं भ्रामं विगलितविरामं जडमतेः।  
@@ -1293,8 +1162,6 @@ for a long time like the Cakora-bird towards the moon(in the form) of the face o
 
  10 Even in dreams I do not recall, shamelessand elated with egotism that I am, the advice which
 
-
-
 **इत्यागःशतशालिनं पुनरपि स्वीयेषु मां बिभ्रत-  
 स्त्वत्तो नास्ति दयानिधिर्यदुपते मत्तो न मत्तोऽपरः॥१०॥**
 
@@ -1319,8 +1186,6 @@ Thou gavest to me. O Lord. In words clear and sweetlike nectar. Since. even so. 
 
  13 Having known this spectacle (of the world)seething with very hostile enemies, and therefore turning the eyes inward, and dismissing the worldly plea-
 
-
-
 **विधूतान्तर्ध्वान्तो मधुरमधुरायां चिति कदा  
 निमग्नः स्यां कस्यांचन नवनभस्याम्बुरुचौ॥१३॥**
 
@@ -1341,8 +1206,6 @@ sures, at once, I, with the darkness of the heart cleared up–oh, when shall I 
  14 Thou hast tasted grapes, eaten sugar. drunk milk in abundance. When thou didst go to heaven. thou hast also quaffed ambrosia, and bitten the lower lip of Rambhā, the celestial damsel, (in amoroussport). Now, tell the truth, O my soul, whether. while thou didst peregrinate in the Samsāra, thou hast anywhere come across (or seen) the pleasure of the sweetness of the two syllables ‘**कृष्ण’** ?
 
  15 Ever victorious is the pair of syllables, viz. **कृष्ण,** which is the adamant to the mountains of sin, the proven medicine of the acute disease of the world, the Sun–rise to the vast darkness of the night of false knowledge, the furiously raging fire to the thick groves of trees in the form of unbearable worldly anxieties, and the portal of the mansion of the Highest Happiness!
-
-
 
 **रे चेतः कथयामि ते हितमिदं वृन्दावने चारय-  
 वृन्दं कोऽपि गवां नवाम्बुदनिभो बन्धुर्न कार्यस्त्वया।  
@@ -1367,8 +1230,6 @@ sures, at once, I, with the darkness of the heart cleared up–oh, when shall I 
 
  18 There are, no doubt **(एव)**, many charming birds in the world. But, from among them, I have & great liking for the Cātakas. For, through them look-
 
-
-
 **विष्वद्रीच्या भुवनमभितो भासते यस्य भासा  
 सर्वेषामप्यहमिति च यत्प्रत्ययालम्बनं यः।  
 तं पृच्छन्ति स्वहृदयगतावेदिनो विष्णुमन्या-  
@@ -1391,8 +1252,6 @@ ing upwards and reminding (us) of their friend, the cloud, the indescribable व
  20 If, O heart, thou hast a liking for service, then let the Lord of Laxmībe served. If thou art eager for contemplation, let Viṣṇu whose weapon is the discus be contemplated. If thou wishest to talk, then talk of the episodes about Śiva (the enemy of Kāma).And if thou thinkest of sleeping, then thou shouldst sleep happily in the boundless Bliss.
 
  21 Meritorious men, when their bodies are much oppressed with the intensely burning sunshine of summer in the form of the World, at once violently
-
-
 
 **विशुद्धेऽस्मिन्नात्मामृतसरसि नैराश्यशिशिरे  
 विगाहन्ते दूरीकृतकलुषजालाः सुकृतिनः॥२१॥**
@@ -1417,8 +1276,6 @@ break throngh the fetters forged of Indiscrimination, and, with their sins destr
  23 Having first kissed the feet (of Viṣṇu ), and then having embraced the ankles, the knees, the thighs, the navel and the heart, may my contemplativity**(भावना)** bask in the beauty of the lotus–like face of Viṣṇu.
 
  24 May I attain that status in the Highest Soul **(परमात्मा)** which sees no difference between the breeze wafting over the Malaya and deadly poison, between
-
-
 
 **निखिलं जगदेव नश्वरं पुनरस्मिन्नितरां कलेवरम्।  
 अथ तस्य कृते कियानयं क्रियते हन्त जनैः परिश्रमः॥२५॥**
@@ -1446,8 +1303,6 @@ the lock of hair of a fascinating woman and the hood of a serpent, between a Cā
 
  28 The enemy may steadily fan a great mass of fire over my head: he may even heave a sword–edge at me. But I shall never indulge even in a grain of censure (or falsehood).
 
-
-
 **तरणोपायमपश्यन्नपि मामक जीव ताम्यसि कुतस्त्वम्।  
 चेतःसरणावस्यां किं नागन्ता कदापि नन्दसुतः॥१९॥**
 
@@ -1471,8 +1326,6 @@ the lock of hair of a fascinating woman and the hood of a serpent, between a Cā
  31 Why, eh, dost thou sleep unperturbed (lit.unsuspectingly) in the evening of life?—Death has almost come. Or, why, thou mayest sleep on comfortably; because mother Ganges is awake near by.
 
  32. Why do I harass my heart by continuouslyrunning about on the earth? There is the great Lord,
-
-
 
 **रे रे मनो मम मनोभवशासनस्य  
 पादाम्बुजद्वयमनारतमामनन्तम्।  
@@ -1499,8 +1352,6 @@ the lock of hair of a fascinating woman and the hood of a serpent, between a Cā
 
  35 “Can this be the daughter of the Sun (the riverJumna)? No. For she is full of water. Can it, then,be the delightful lustre emanating from emeralds?No, (for) how can that lustre be so pleasing?”—
 
-
-
 **चपला जलदच्युता लता वा  
 तरुमुख्यादिति संशये निमग्नः।  
 गुरुनिःश्वसितैः कपिर्मनीषी  
@@ -1524,8 +1375,6 @@ What men residing in the forest did not at first feelthese delusions about the b
 
  38 From the foot of the mountain Meru down to theshore of the sea bounded by the Malaya mountain, let
 
-
-
 **मृद्वीकामध्यनिर्यन्मसृणरसझरीमाधुरीभाग्यभाजां  
 वाचामाचार्यतायाः पदमनुभवितुं कोऽस्ति धन्यो मदन्यः॥३८॥**
 
@@ -1547,8 +1396,6 @@ all those who are adepts in the composition of poemsanswer fearlessly: Who else 
 
  40Omy speech, do not rush into despondency onbeing denounced by villains whose minds are soakedin jealousy. What graces wilt thou not place into themouths of bees that like the juice of the lotus-flowers inthe form of poems?
 
-
-
 **मधु द्राक्षा साक्षादमृतमथ वामाधरसुधा  
 कदाचित्केषांचिन्न खलु विदधीरन्नपि मुदम्।  
 ध्रुवं ते जीवन्तोऽप्यहह मृतका मन्दमतयो  
@@ -1569,8 +1416,6 @@ all those who are adepts in the composition of poemsanswer fearlessly: Who else 
  42 If, indeed, thou knowest the secret of composing poems which bear the brunt of the destruction ofthe pride of the sweetness of the juice of grapes whichare ideally ripe and therefore dripping with juice, then,my friend, thou well mayest recite thy poem in front ofpersons like me. Otherwise, do not let it out of thyheart as if it were some sinful deed which thou hastcommitted!
 
 43 Learned men in the world studiously holdtheir tongue in the matter of praising the poetry ofothers. Kings are reeling through the growing intoxication of the wine of amorous sports with Laxmī. Asitis,in which blessed man’s mouth will my mature composi-
-
-
 
 **आस्ये धास्यति कस्य लास्यमधुना धन्यस्य कामालस-  
 स्वर्वामाधरमाधुरीमधरयन् वाचां विपाको मम॥४३॥**
@@ -1599,8 +1444,6 @@ tions, which out–do the sweetness of the lower lip ofacelestial damsel indolen
  46 This box is fashioned by me (for the safekeeping) of gems of my verses lest bastards of evilconduct should sneak them away.
 
 \_\_\_\_\_\_\_
-
-
 
 **Important Abbreviations.**
 
@@ -1658,15 +1501,11 @@ tions, which out–do the sweetness of the lower lip ofacelestial damsel indolen
 
 \_\_\_\_\_
 
-
-
 **PRĀSTĀVIKAVILĀSA.**
 
  **प्रास्ताविक विलास—प्रास्ताविक**–Introductory.**प्रस्तावःप्रयोजनं अस्य.‘प्रयोजनम्’**(Pān.5. 1. 109) **इति ठक्**. This Vilāsa is calledIntroductory, presumably, because the Bhāminīvilāsa openswith it. At the same time it is to be noted that there is nointegral connection between this Vilāsa and the others thatfollow it. Indeed, the commentator does not call it**प्रास्ताविकविलास**, but the **अन्योक्त्युल्लास—**a title certainly more to thepoint, inasmuch as it carries with it a general hint about thenature of its contents. Another point to be noted in thisconnection is that the title, whichever of the two is accepted, ofthis vilāsa, does not conform to the uniformity which is evidentin the titles of other vilāsas. While the subsquent vilāsasderive their titles from the sentiment prevailing throughout theverses contained in them, this vilāsa, in the first place, has nosuch individual sentiment predominant in it; and, secondly, thetitle is not therefore connected with any sentiment whatever.**विलास**–from the rt. **लस्** with **वि**, to shine, or to play.
 
  Vs. 1.—**मद–**Ichor. From the temples of elephants, it issaid, a fluid with a very bitter smell oozes out. cf. Ragh. V.47and 48. For the idea of rutting **दिग्गज**, compare: **दिग्गज इवानवरतप्रवृत्तदानाद्रींकृतकरः**—Kād. The idea of rutting elephants seems tobe a favourite one with Jagannātha: he refers to it again andagain, e. g., in verses 25, 30, 58, 59 etc. **कराटिनः—**Elephants.**करट–**The temples of elepėants. **‘काकेभगण्डौ करौ’–अमर**. It isbelieved in mythology that there are eight quarter-elephants,one in each of the eight major points of the compass. Theirnames are: **ऐरावतः पुण्डरीको वामनः कुमुदोऽञ्जनः। पुष्पदन्तः सार्वभौमः सुप्रतीकश्चदिग्गजाः॥ अमर. करिण्यः कारुण्यास्पदम्—**The code of chivalry forbidsall–especially strong men, to lay violent hands on a female.cf. **स्त्रीषु गोषु न शस्त्राणि पातयेद् ब्राह्मणेषु च। यस्य चान्नानि भुञ्जीत यत्रच स्यात्प्रतिश्रयः॥ इति सन्तोऽनुशासन्ति सज्जनं धर्मिणः सदा।** Mbh. 2. 41. 13,f. (CitraśālāP. Edition); also, **अवध्यां च स्त्रियं प्राहुस्तिर्यग्योनिगतामपि.**
-
-
 
 **असमशिलाः—**The deer are timid, and, therefore, are no matchfor the Lord of beasts. **अनुपमशिखानाम–**Exceptionally sharp;lit; whose edges are incomparable. **उपमीयते अनया इति उपमा** (Astandard of comparison); **न विद्यते उपमा यासां ताः अनुपमाः, अनुपमाःशिखाः (अग्राणि) येषां तेषाम्। नखानां पाण्डित्यम्–**Does not the expression sound rather pedantic?
 
@@ -1687,8 +1526,6 @@ tions, which out–do the sweetness of the lower lip ofacelestial damsel indolen
 
  2. The substitution of **मम**in place of **ननु**can hardly becountenanced in view of the fact that **नागेशभट्ट,**who was removed from Jagannātha by less than two generations, reads **ननु**inhis commentary on this verse in the R. G.
 
-
-
 from the concluding ones of Bhāminīvilāsa as well. The poetwho is careful enough to add more than half a dozen stanzasof personal eulogistic references at the end of the Śāntavilāsa,and who avers that he has culled these verses of his togetherto keep them safe from literary pirates may certainly be expected not to open **ग्रन्थ**his merely with a verse of such dubiousrelevance. The characteristic opening of Jagannātha is vigorous and rather ample—both of which qualities are certainlyabsent in the present case.
 
  It seems, therefore, that Jagannātha has here infringed theestablished tradition which otherwise he follows. Probably,this breach of tradition is to be attributed to the fact that theBhāminīvilāsa is not an integral composition. As Jagannāthaadmits in the last stanza of the Śāntavilāsa, the Bhāminīvilāsa is an anthology of the verses which the poet had composed and which he wanted to preserve from plagiarists. Onaccount of this promiscuous nature of its contents, Jagannātha does not seem to have thought it his worth while toendow the Bhāminīvilāsa with his characteristic openingVerses.
@@ -1702,15 +1539,11 @@ All these,
 
  ३ Read: मङ्गलपक्षे तु वस्तुनिर्देशलक्षणमङ्गलपरतया श्लेषेणार्थत्रयं ज्ञेयम्।तद्यथा—मृगपतिः। अत्र अजहत्स्वार्थलक्षणया नृमृगपति**र्नरसिंहो** ग्राह्यः। तथाचेदं प्रह्लादस्य हिरण्यकशिपुवधोत्तरं ब्रह्मादीन्प्रति भगवत्प्रभाववर्णनचचनम्। हे ब्रह्मा-
 
-
-
 supported with fanciful interpretations of details.prove thecommentator’s knowledge and ingenuity, no doubt–butscarcely his point.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 दयः, अयमपरोक्षो नृगपतिरुतक्तवृत्त्या नृहरिः। इदानीमित्याद्युत्तरार्धशेषं प्राग्वदेव।एवं करटिशब्देनाप्येतद्वध्यत्वेनासुरा एव ज्ञेयाः। ते तु दिगन्ते श्रूयन्ते। समुद्रपातालादिनिविष्टन्वाद्दूरवर्त्मानत्वेन केवलनाकर्ण्यन्त एवेत्यर्थः। तद्वत्करिणीपदेनापि कयाधूप्रभृतयोऽसुरस्त्रियो बोध्याः। तथा नृगयन्त्यन्वेपयन्तीति व्युत्पत्त्या शुकपुत्रादयस्तन्मन्त्रिण एव मृगशब्दिताः। तस्माद्भगवतो नारसिंहस्य पुनः शौर्यप्रकाशने न किमपिप्रकृते पात्रमिति हिरण्यकशिपुवधादितच्चरितात्मकवस्तुव्यञ्जनेन विचित्रं तच्छौर्यैश्वर्यमितिद्योतितम्। तेन तस्य कविकर्तृकनमस्क्रियात्मकमपि मङ्गलं ध्वन्यते। तस्यास्त्वत्तोऽहंनिकृष्टो मत्तस्त्वमुत्कृष्ट झति भावनापूर्वककायिकादित्रिविधप्रह्वीभावैकरूपत्वात्॥ पक्षे‘शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च। ज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम्॥’इति स्मृतेर्मृगयन्त्यन्वेषयन्ति सदसद्वस्तु विचारयन्ति ते मृगा ब्राह्मणास्तान्पाति त्रिःसप्तवारं क्षत्रक्षपणपूर्वकं पृथ्वीप्रदानेन पालयतीति तथा। **श्रीमत्परशुराम इत्यर्थः।** नखानां न विद्यते खमाकाशपदवाच्यमवकाशजातं येषां तेतथा। वध्यराहित्येन निरवकाशानां शराणामित्यर्थः। ननु कुत एवमिति चेत्तत्राह—दिगन्त इति पूर्वार्धेन। करटिन ऐरावताद्यष्टदिग्गजोपलक्षिता जहत्स्वार्थलक्षणया तत्स्वामिन इन्द्रादिलोकपाला इत्यर्थः। तेषां मदमलिनगण्डत्वं तु मदजन्यस्वेदादेव बोध्यम्।एवं करिण्यः करा राजग्राह्यनियतधनभागास्ते विद्यन्ते येषां नृपाणां तेषां स्त्रिय इत्यर्थः।स्वनिहतराजरमप्य इति यावत्। तद्वन्मृगा निरुक्तव्युत्पत्त्या विचारशीला जनकादिक्षत्रिया इत्यर्थः। इदं हि श्रीमत्परशुरामविजयोत्तरं स्वगतमेव कश्यपादिसप्तर्षिवचनम्।उक्तार्थमेवान्यत्॥ पक्षे गोपीसान्त्वनार्थे भगवता प्रेषितमुद्धवं प्रति राधिकावाक्यमिदम्॥ तथा हि। हे उद्धव, अयमस्मद्बुद्धिस्थत्वेन प्रत्यक्षः। एतेन प्रीत्यतिशयःसूचितः। मृगेति। मृगो हरिणस्तद्वत्पतिः। स यथा वन एव प्रायः क्रीडति तद्वदयंश्रीकृष्णो वृन्दावन एवास्मद्भर्ता। न तु ग्रामादौ प्रसिद्धस्तथेत्यर्थः। अस्मज्जारः।**श्रीकृष्ण इति** यावत्। एवं चास्मान्वञ्चयित्वा गतस्तस्येदं वक्ष्यमाणफलमित्याकूतम्।उत्तरार्धशेषस्तु यथाश्रुत एव। तदेतत्कालावच्छेदेनास्मिल्लोके मादृग्विलासास्पदं तस्यनास्त्येवेति भावः। तदेवेोपपादयति—दिगन्त इति। मदेति। मदेन मृगमदेन मलिनाश्चित्रितत्वेन श्यामा गण्डाः कपोला यासां तास्तथा। कस्तुरकिलुषितकपोला इत्यर्थः।
-
-
 
  This stanza obviously contains the figure of speech called**अप्रस्तुतप्रशंसा अप्रस्तुतप्रशंसा** is a figure of speech whereby something intended to be mentioned or described is not directlymentioned or described, but only indirectly by mentioning ordescribing a different thing altogether, on the strength ofsimilar characteristics, ete of **अप्रस्तुतेन व्यवहारेण सादृश्यादिवक्ष्यमाणप्रकारान्यतमप्रकारेण प्रस्तुतव्यवहारो यत्र प्रशस्यते साप्रस्तुतप्रशंसा॥–**R. G. Thisfigure of Indirect Description is possible in five differentways[^10]:! When some Particular is described through thedescription of & General, e. g. in vs.75 below (**कृतमपि महोपकारं**etc.) the poet refers to the wicked in general, though hereally intends to refer to the wickedness of some particularindividual. ii. when some General is described through aParticular, c. g., in vs. 76 below (**पाण्डित्यं परिहृत्य**etc.) the poetmeans to show that good turns done to the wicked are neverappreciated–they are simply wasted; but this the poet conveysthrough the description of an individual **दुट**. iii. when a
 
@@ -1729,8 +1562,6 @@ supported with fanciful interpretations of details.prove thecommentator’s know
 
 —S. D. 10. 58-59.
 
-
-
 cause is understood from an effect, e. g. in 73, 52 below (**गिरिगह्वरेषु** etc.) in the last pāda it is said ‘the earth will have onlythe female-elephants left behind’, though what is really intended is ‘the cub of the lion will devour you’. Here the causeis conveyed through the mention of the effect. iv. When aneffect is conveyed through the mention of a cause, e. g., in vs.51 below (**स्थितिं नो रे दध्या**etc.), the elephant is asked not to stayin that forest region, for the lion, the enemy of elephants, issleeping nearby. From this it is meant that if the lion, beingawake, finds the elephant there, he will surely kill him. Here,therefore, an effect is understood from the mention of a cause;and lastly, v., when a thing is conveyed through the description of another similar thing, for instance, in the presentverse (**दिगन्ते** etc.).
 
  In the present verse the poet's intention is not indeedto convey the merely literal meaning. Obviously, he wishesto speak of a very powerful individual—or, probably about hisown self as an unrivalled poet—who finds no worthy opponent,and disdains to massacre the innocent or the weak. Therefore,he stands superior to all, though yearning for a worthy fighter.Instead of saying all this in so many words, the author drawsupon the analogy of a lion—and thus succeeds in driving hispoint home in an effective, though indirect, way.
@@ -1740,8 +1571,6 @@ cause is understood from an effect, e. g. in 73, 52 below (**गिरिगह�
  The metre of this verse is **शिखरिणी. रसैरुद्रैश्छिन्ना यमनसमला गःशिखरिणी।**
 
  Vs. 2.—**विकच°-विकचानां (विकसितानां) सारसानां आलिः तस्याः स्खलद्भिःपरागैः (पुष्परेणुभिः) सुरभीकृते। सुरभीकृत–**A **च्वि**form **न सुरभि असुरभि,असुरभि सुरभि संपद्यमानं कृतं सुरभीकृतम्. ‘अभूततद्भावे च्विः,–**See Pān. 5.4.50.**मानस**-The Mānasa lake is believed to be the favouriteresort of flamingoes. Cf. **पश्चात् सरः प्रति गमिष्यसि मानसं तत्** etc.–Vik, IV. 15., also Megh. 81. **मराल–**A swan.
-
-
 
  The metre is **पृथ्वी. जसौ जसयलावसुग्रहयतिश्च पृथ्वी गुरुः।**
 
@@ -1754,8 +1583,6 @@ cause is understood from an effect, e. g. in 73, 52 below (**गिरिगह�
 ** **Power must be helpfully exercised. Imagination andconsiderateness will only embellish it, and distinguish it fromsavagery. Cf. ‘Tis good to have a giant’s strength; butit’s monstrous to use it like a giant’.
 
  Vs 4.—**स्यन्दमान–**Oozing out.The variant **स्पन्दमान**meant‘bubbling out’. Note the effect of alliteration in the first twopadas. **मञ्जु—**Adv., Sweetly. निरपेक्षः—Not caring (to be rewarded). **तावकीन–**Thy. Formed by the addition of **स्वञ् (ईन)**
-
-
 
 according to**‘युष्मदस्मदोरन्यरस्यां खञ्च’**—Pān. 4. 3. 1, the adeśa**नवक** being had by the sūtra **‘तवकममकवेकवचने’**—Pān 4. 3. 3.
 
@@ -1776,8 +1603,6 @@ according to**‘युष्मदस्मदोरन्यरस्यां
 
  The cycle of fortune spares none-not even those who arehabituated to a life of ease & comfort. They should somehow pass the period of adverse circumstances with faith inthe future. Fortune that has frowned will smile-in thefulness of time. Patience, of course, till then! For the idea.compare **विपदि धैर्यमथाम्युदये क्षमा** etc.–Bhar. 1. 63. A lso cf. **विपद्यच्चैस्थेयम्**etc.—Ibid. 1. 28.
 
-
-
  Vs. 7.—In this stanza various words bear & doublemeaning—one referring to the well, and the other to a lowly but appreciative man to whom, in fact, the stanza is addressed.**नीच**—(i) Deep, (ii) Lowly, one in a low station of life. **कृथाः**Really **अकृथाः,**2 Sing. Aor. of **कृ**. When a verb in the Aor. isused with **माङ्**(the negative particle **मा**), it comes to possessthe sense of the Imperative, and drops the temporal augment.**‘न माङ्योगे’. अत्यन्तसरसहृदयः—अत्यन्तं सरप्तंहृदयं यस्य सः.** Here theword **रस** in connection with the well means ‘water’, and **हृदय**means ‘the interior’. The well has much water in its interior. The second meaning applicable to the lowly man is‘whose heart is very appreciative’.**रस** in this connectionmeans the sensibility to perceive and appreciate. **गुण—**(i) Acord, (ii) A good quality.
 
  The metre is **गीति**.
@@ -1791,8 +1616,6 @@ according to**‘युष्मदस्मदोरन्यरस्यां
 ** **There will be not a few in the world who busy themselveswith sniffing at men whose real greatness they cannot understand. One should not mind their croakings. Greatness orbeauty shall ever have its connoisseurs-the only personswhose opinion should carry.
 
  This verse and verse 4 above are in the same vein. thoughthere is a subtle distinction in the scope of their meanings. Inverse 4 the poet looks upon the bees with scant regard, whilehere in this verse he invests them with a dignity of their own.
-
-
 
  Vs. 9.—**अमन्द–**Ample. **अनायिघत–**3 pers. Plu. pass. Aor. of**नी.** Construe the latter half of the stanza thus: **हा तेन मधुकरेणकथं खलु कुटजे ईहा तेने। तेने–**3 per. sing. pass. Perf. of**तन्**–toextend. **ईहा—**Longing.
 
@@ -1812,8 +1635,6 @@ according to**‘युष्मदस्मदोरन्यरस्यां
 
 ** **Vs. 12.—**नीरक्षीरविवेक–नीरक्षीरयोः विवेकः,** Distinguishing between water and milk. The swans are said to possess thepower to separate milk from its mixture with water. The
 
-
-
 well-known **हंसोड़कन्याय** is based on this belief, cf. **हंसो हिक्षीरमादत्ते तन्मिश्रा वर्जयत्यपः।** Śāk. 6. 28.
 
  The metre is **आयी.**
@@ -1828,8 +1649,6 @@ well-known **हंसोड़कन्याय** is based on this belief, cf.
 
  The metre is **प्रहर्षिणीयम्. म्नौज्रौग्रस्त्रिदशयतिः प्रहर्षिणीयम्.**Thecontents of this verse are identical with those of stanza 4 above.
 
-
-
 Vs. 15.—**मिहिर**–The Sun. **संतापमालाकृला—**Oppressed withexcessive heat. **संतापमाला—**The phrase is a man erism. **निरन्तराधिपटलैः—निर्गतमन्तरं येभ्यस्ते निरन्तराः निरन्तरायानाधीनां पटलैः (समूहैः)। निरन्तर**–Uninterrupted **आधि–**Anguish.**‘पुंस्याधिनीनमी व्यथा’–अमर, जीवनम्–**Thevariant **जीवितम्**is not so good. **जीवनं** yields two meanings (i)Life, existence, (ii) Water.
 
  Tha metre is **शार्दूलविक्रीडितम्**.
@@ -1843,8 +1662,6 @@ Vs. 15.—**मिहिर**–The Sun. **संतापमालाकृल�
 ** **Prosperity will bring many a friend, but few will proveloyal and abiding when adversity tries them. Yet there willever be some who are solely dependent on us, and will have toshare our misery. They are to be pitied indeed!
 
  Vs. 17.—**मा मंस्था:–**Do not presume. **सौरभलोम—**Greed for thyperfume. The bee has a greed for the honey of the lotus-plant.The common element sought to be denied is not **सौरभलोम**, but**लोम**only. **महति—**Respected. Unlike the bee which is selfish,the wind wafts over the lotus-plant only to minister to thedelight of others.
-
-
 
  The metre is गीति
 
@@ -1866,8 +1683,6 @@ Vs. 15.—**मिहिर**–The Sun. **संतापमालाकृल�
 
  Vs. 21.—**अपनीतपरिमलान्तरकथे–अपनीता परिमलान्तरस्य (अन्यस्य परिमलस्य) कथा यस्मात् तस्मिन्.** Which is far and away more fragrantthan any other flower. **धन्योऽसि–**Said ironically. How absurd
 
-
-
 and unbecoming it is for a bee who has enjoyed the juice ofcelestial flowers to think of transferring himself to anotherand, indeed, less fragrant flower! The metre is **आर्या**.
 
  The idea is the same as in verse 9 above.
@@ -1881,8 +1696,6 @@ and unbecoming it is for a bee who has enjoyed the juice ofcelestial flowers to 
  One must be free from positive defects and must be endowed with good qualities before one may expect to draw theattention of others. Get.nothing–but injury, is a propositionwhich none will countenance.
 
  Vs. 24―**गहनम्–**A forest. **कल:**―A sweet but, inarticulatesound; here, the cooing of the cuckoo.**‘मधुरास्फुटे कलः’―अमर.साजात्यम्-समाना जातिः सजातिः तस्या मावः साजात्यम्.** The stats of having
-
-
 
 acommon genus :belonging to the same class. The crows,cruel by nature, consider the tongue-tied cuckoo to be one oftheir own kind, for they are misled by the identical colour andshape. The cuckoo’s warble, however, is distinct from that ofthe crow. Hence, the warning which the poet gives to thecuckoo. The metre is **गीति.**
 
@@ -1900,8 +1713,6 @@ acommon genus :belonging to the same class. The crows,cruel by nature, consider 
 
  The idea is, again, the same as in Vss. 9 & 20. Suchrepetitions of the same idea appear wearisome, though the
 
-
-
 verses, read individually and independently, are charmingenough. These repetitions are only to be explained by the factthat the whole of this Vilāsa is a nosegay of charming &fragrant flowers culled at different times, and then boundtogether.
 
  Vs. 28.―**परपुष्टाः**―cuckoos; literally, nourished by others.It is believed that the young ones of cuckoos are reared bycrows who are deceived by the sameness of colour andappearance, until the young birds are discovered by the crowsthrough the difference in their notes. Hence the cuckoo isknown as **परपुष्टा**or**परभृता.** f. **प्रागन्तरिक्षगमनात्स्वमपत्यजातमन्यैर्द्विजैःपरभुताःखलुपोषयन्ति।** Śak. 5. 22. **विटपिन्**–A tree. **उपमा-**A standardof comparison; **उपमीयते अनया इति**.
@@ -1914,8 +1725,6 @@ verses, read individually and independently, are charmingenough. These repetitio
 
 ** **Help however small, rendered in the nick of time is farmore effective than assistance lavishly offered when themoment of necessity is passed. The poet has a fling at thepatrons who would help-but not in time of need. Comparethe words, and note the biting sarcasm, of Dr. Johnson in hisfamous letter to Lord Chesterfield- “Is not the patron, mylord, one who looks with unconcern on a man struggling forlife in the water, and, when he has reached ground, encumbershim with help?”
 
-
-
  Vs. 30.—**विवेक विकलः–**Indiscriminate, lit, lacking the discriminating faculty. **नृनम्–**Surely. **‘नूनं नर्केऽर्थनिश्चये’–अमर.रसा–**Theearth. **नीरसा–निर्गतः रसः यस्याः सा.** Moistureless, dry. **वात्या–**Awhirl–wind. **धन्वन्–**A barren piece of land desert. **अमृत–**Water**‘पयः कीलालममृतम्’–अमर कुतोऽप्याविष्कृतो बेधसा–**of : **दीपादन्यस्मादपि मध्यादपि जलनिधेर्दिशोऽप्यन्नात्। आनीय झटिति घटयति विधिरभिमतमभिमुखीभूतः॥**Rat. 1.
 
  The metre is **शार्दूलविक्रीडितम्.**
@@ -1925,8 +1734,6 @@ verses, read individually and independently, are charmingenough. These repetitio
  The poet seeks to pay compliments to a man who rendershelp when the circumstances are threatening & gloomy.
 
  Vs. 31.**—स्थेमन्—**Stability. Derived from **स्थिर**+ the affix**इमनिच् (वर्णदृढादिभ्यः ष्यञ्च—**Pān 5.1.128.) before which, Lowever,**स्थिर** ischanged to **स्थ** according to the Sūtra **‘प्रियस्थिर’**etc.—Pān.6. 4. 157. **स्थेमानं धा—**To stand irmly **गलद्दानों…कदम्बाः—गलतःदानस्य (मदोदकस्य) उद्रेकेण (बाहुल्येन) भ्रमन्ति अलीनां कदम्बानि येषु ते.** Onwhom throngs of bees are swarming on account of the copiousflow of ichor. **लुठन्मुक्ताभारे—लुठन्तः मुक्तानां भाराः यस्मिन्—**In which heapsof pearls are lying about. It is believed that excellent elephantshave pearls in their **कुम्भस्थलऽ**. So it is possible that the entrance to the lair of the lion should be scattered over with pearlsfrom the temples of elephants killed by him. of **पदं तुषारस्स्रुतिधौतरक्तं यस्मिन्न दृष्ट्वापि हतद्विपानाम्। विदन्ति मार्गंनखरन्ध्रमुक्तैर्मुक्ताफलैः केमरिणां किराताः॥**—Kumar 1. 6. **शिवशिव**—An ejaculation of pitymixed with grief. **शिवा**—A she-jackal. The jackals are lookedupon as inauspicious animals, for they are wont to romp aboutin waste & deserted places of.**निशासु भास्वत्कलनूपुराणां यः संचरोऽभूदभिसारिकाणाम्। नदन्मुखोल्काविचितामिषाभिः स बाह्यते राजपथः शिवाभिः॥**Ragh. 16. 12.
-
-
 
  The metre is **शिखरिणी. रसैः रुदैश्छिन्ना यमनसभलागः शिखरिणी।**
 
@@ -1945,8 +1752,6 @@ below.
 
  Vs. 34—**कारः–**A ray. **द्राघीयस**:—Acc. plu. of the comparativeof **दीर्घ**mase. **करका**—Hailstone. **तत्कं प्रति ब्रूमहे–**Before whom shall
 
-
-
 we complain?**चातक–**is a bird that cannot drink water fromordinary reservoirs. In order to quench its thirst, it has todepend on rain–water; hence the cataka is described bySanskrit writers as continuously appealing to the clouds inthe sky to pour down showers of rain. of **अतएव दिव्यरसाभिलाषिणा भवता चातकव्रतं गृहीतम्।—**Vik II. Read the following wellknown verse from Bhartṭhari: **रे रे चातक सावधानमनसा मित्र क्षणंश्रूयतामम्भोदा बहवो वसन्ति गगने सर्वेऽपि नैतादृशाः। केचिद्वृष्टिमिरार्द्रयन्ति वसुधांगर्जन्ति केचिद्वृथा यं यं पश्यसि तस्य तस्य पुरतो मा ब्रूहि दीनं वचः॥ नी. श.** 51.
 
  The metre is **शार्दूलविक्रीडितम्–**
@@ -1960,8 +1765,6 @@ we complain?**चातक–**is a bird that cannot drink water fromordinary re
  Men intoxicated with the wine of wealth are indiscriminate in their generosity. They lavish their assistance onunworthy persons, while others really deserving it are simplyignored. ‘Be generous’would be an incomplete commandment,it should rather read, ‘Be generous where generosity is dueof. **ज्वलन्तं वह्निमुत्सृज्य नहि भस्मनि हूयते।**
 
 ** **Vs. 36.—**हन्त–अनुकम्पायाम्** showing pity **विश्वार्ति०–विश्वस्य (जगतः)आर्तेः(पीडायाः) वारणाय समर्पितं जीवनं (उदकं जीवितं वा) येन सः**; Who
-
-
 
 has laid down his life (or has sent down water) for the sakeof removing the distress of the world. Though the cloud maythunder, yet it is the cloud that sends down rain, and refresheseverything.
 
@@ -1979,8 +1782,6 @@ has laid down his life (or has sent down water) for the sakeof removing the dist
 
  The stanza refers to the habit of noble men who are everbusy alleviating the misery of others without caring for any
 
-
-
 consideration, or courtesy, affection or friendship from them.Gf. **एते सत्पुरुषाः परार्थघटकाः स्वार्थान्परित्यज्य ये।** Bhar 1.75.
 
  Vs. 39.—The stanza is addressed to a lotus–flower.The god Viṣṇu holds a lotus–flower in one of his fourhands; in the other three he holds **शङ्ख, चक्र** and **गदा.** **निवासः पद्मायाः**—The abode of the goddess Laxmī. **पद्मालया**is one of the manynames of Laxmī, **द्विजोत्तंस**—The best among birds. **द्विज–द्विजयतेइति**. The birds are twice born: once, when the mother–bird laysthe egg, and secondly, when the hatched egg bursts and theyoungling comes out.
@@ -1992,8 +1793,6 @@ consideration, or courtesy, affection or friendship from them.Gf. **एते �
  Vs. 40.—**साकम्**—Together with. **अर्कबिम्बोपमाः–अर्कस्य बिम्बउपमा येषां ते**–Resembling the disc of the Sun. **नीरचराः**–Aquaticanimals.**नीरे–**As the verse is addressed to the ocean of milk,we should have expected**क्षीरे** in place of **नीरे**. However, **नीरे**isused in the general sense ‘of the contents of the ocean.’Thepoet uses the word **नीरचर**(and not **क्षीरचर**) in order to showthat animals haunting the milky ocean are little better thanthe hideous monsters of the watery ocean, **क्षीरार्णव–**is one of theseven oceans known in mythology. of. **क्षीरोदो लवणोदश्च दध्योदश्चवृतोदकः। स्वादूदकः सुरोदश्च तथैवेक्षुरसोदधिः॥ वायुपुराण.नारायण**–The godViṣṇu. He rests himself on the Seşa in the milky ocean. Theword is derived as follows : **नरस्य इमाः नाराः, नाराःअयनं यस्य सनारायणः।** of **आपो नारा इति प्रोक्ता आपो वै नरसूनवः। ता यदस्यायनं पूर्वं तेननारायणः स्ममृतः॥**Manu. 1. 10. **भगवान्–**possessing the six attributesconstituting **भग**; hence, divine. cf. **ऐश्वर्यस्य समग्रस्य धर्मस्य यशसः श्रियः।ज्ञानवैराग्ययोश्चैव षण्णां भग इतीङ्गना॥प्रौढि–**Greatness. formed of **प्र + ऊढ,**the Vṛddhi being had according to the **वार्तिक ‘प्राहोढोढ्येषैष्येषु’.**
 
 ** **The metre is **शार्दूलविक्रीडितम्.**
-
-
 
  The poet expresses the dilemma: whether to praise a greatman for his good qualities, or to despise him for his bad traits,both of which e, like all others, possesses. Preference toeither would betray partiality or prejudice; overlooking oraccepting both only shelves, not solves, the question. A knottyproblem indeed! (though, it must be admitted, very few wilfail to make up their minds in practice).
 
@@ -2018,8 +1817,6 @@ consideration, or courtesy, affection or friendship from them.Gf. **एते �
 
  The metre is **मालभारिणी. ससजाः प्रथमे पदे गुरूचेत्सभरा येन चमालभारिणी स्यात्।**
 
-
-
  True greatness consists, not in being magnus (great) butmagnanimous (large–hearted).
 
  Vs. 44.—**वर्षानदी**—A river depending on the rains for itsflow.**स्रोतम्**n.—The current.**तरङ्गभङ्गान्**—Curling waves. Itill becomes an autumnal river to display its waves arrogantlybefore the ever–flowing and mighty Ganges.
@@ -2042,8 +1839,6 @@ consideration, or courtesy, affection or friendship from them.Gf. **एते �
 
  Vs. 47**—कुसुमार—**Spring. Literally, the store of flowers.of. **मासो नु पुष्पाकरः।**Vik 1, 8. **उल्लसन्मञ्जरीपुञ्जे**—In the bunches ofthe opening sprouts. **मञ्जुल—**Sweet. **मञ्जुलगुञ्जितानि**etc—Thou
 
-
-
 feasted thyself, humming sweetly all the while. **गुञ्जितानि रचयन्—**A mannerism, the mango–trees blossom in spring, & the beeshave a merry time. of **न हि प्रफुल्लं सहकारमेत्य वृक्षान्तरं काङ्क्षति वट्पदाली।**Ragh. 8. 69; Also **सद्यः प्रवालोद्गमचारुपत्रे नीतेसमाप्तिं नवचूतवाणे।निवेशयामास मधुर्द्विरेफन्नामाक्षराणीव मनोभवत्य॥** Kumar 8 27. **अद्य—कुटुमाकरापाये।**After Spring has come to an end. **रसालशाखिन्—**Themango–tree. **कृशां दशां अञ्च्–**To fall into straitened circumstances.**चञ्चरीक—**a bee. **त्वत्–**Abl. Sing of **युष्मद्. अन्य** governs the Abl.according to the Sūtra**‘अन्यारादितरर्ते etc.’—**Pān. 2. 3. 26. Ifthe bee, that has basked in the plenty which the mango—tree offers in spring, chooses to leave the tree when itsefflorescence is at an end, and transfers his attentions to othertrees, it only bespeaks his unmitigated meanness.
 
  The metre is **शार्दूलविक्रीडिनम्.**
@@ -2057,8 +1852,6 @@ feasted thyself, humming sweetly all the while. **गुञ्जितानि
 ** **In the exaltation of the moment, one should not lose sightof one’s limitations. He who ignores this rule only courtsdisaster.
 
  Vs. 49.**—जठरज्वलनज्वलता—**Who is being consumed by thegastric fire i. e. who is frightfully hungry. **अपगतशङ्कम्–**Fearlessly.It is an adv. comp. **हरिणाली—**A herd of deer. Note thealliteration in the second half of the stanza. **करिणामरिणा—**of.**मत्तेभेन्द्रविभिन्नकुम्भेकवलग्रासेकबद्धस्पृहः (केसरी)।**Bhar. 1. 29. The lionis the enemy of elephants; how can he kill the innocentinsignificant deer? of. **सिंहो जम्बुकमङ्कमागतमपि त्यक्त्वानिहन्ति द्विपं सर्वःकृच्छ्रगतोऽपि वाच्छति जनः सत्त्वानुरूपं फलम्॥** Bhar. 1. 30.
-
-
 
 The idea of this verse is contained in the line fromBhartṛhari (**सर्वः कृच्छ्रगतोऽपि** etc) just quoted above. Menofdignity and self–respect never stoop low, come what may.
 
@@ -2080,8 +1873,6 @@ The idea of this verse is contained in the line fromBhartṛhari (**सर्व
 
  Vs. 58.**—निसर्गात्—**By nature**तरुकुलसमारोपसुकृती–तरूणां कुलानि,तेषां समारोपे सुकृती (सुकृनमस्यास्तीति).**Who has the art (lit. goodaction) of planting trees well.The commentator**अच्युतराय**takes
 
-
-
 **सुकृत** in the sense of **पुण्य** and explains : **समारोपः सम्यगुत्तमफलपर्यवसायित्वेनारोपोऽवापस्तेन यत्सुकृतं पुण्यं तदस्यास्तीति तथा सद्वृक्षारोपणपुण्यवानित्यर्थः।कृती—**Expert, or experienced. **वकुलमपि—अपि** is used to showthat the gardener, experienced as he was, planted the fragrantBakul plant in an odd corner of the garden without bestowingany thought upon it. **कोणान्तरगन**:—Stationed in the interior ofa corner. **जगज्जालम्**—The whole world. **कुसुम** etc.—**कुसुमानां योभरः (समूहः) तस्य सौरभ्येण (परिम्लेन) भरितम्.**
 
  The metre is **शिखरिणी.**
@@ -2089,8 +1880,6 @@ The idea of this verse is contained in the line fromBhartṛhari (**सर्व
  Vs. 54.—**यस्मिन् खेलति**—Loc. Abs consr. **खेलति**. v. l. **वेल्लति**from **बेल्ट्** 1 P. to go to move about. **परिचलत्कल्लोलकोलाहलैः**—Bythe roar of great surging billows. **कल्लोल**—A great wave, **महत्सूल्लोलकल्लोलौ। अमर. मन्थादिः—**The churning mountain i. e. **मन्दराचल**.The gods and the demons once churned the ocean for the sakeof ambrosia, making the Mandara mountain the churninghandle. **मन्थाद्रिभ्रमणभ्रम**—The delusion **(भ्रम)** that the Mandaramountain was again set in action. When this great fish **(राघव)**played about, it created such a terrific noise of the heavingwaves that it appeared that the Mandara mountain was churning the womb of the ocean again. **हरिद्दन्तावलाः**—Quarter-elephants. **दन्ताबल**—–An elephant. **‘दन्तशिखात् संज्ञायाम्’** ( Pán. 5-2-113) **इति बलच्.** The variant **हरिद्यूथाधिपाः**may mean either (i)quarter-elephants; **हरित्=दिक्**& **यूथाधिप**—Lord of the herd i. e. anelephant, or (ii) **हरितां यूथं तस्य अधिपाः इन्द्रादयो लोकपालाः.** Theguardians of the quarters, like Indra and others. **तुङ्ग... कोविदः**—**तुङ्गानां (महताम्) तिमिङ्गलानां अङ्गानि तेषां कवलीकारस्य (भक्षणस्य) क्रियायां(विधौ) कोविदः.** Well-versed in the art of swallowing the bodiesof large fish. Large fish are known to devour small ones.of. **उत मत्स्य एव मत्स्यं गिलति।** Śat. Br. 1-8-1-3. This phenomenonhas given the well-known **मात्स्यन्याय** to the science ofpolitics. **क्रोड**-chest. **कस्य क्रौडे–**Where? On whose breasts? **केलिकलह**:–Love–quarrel. **राधव**:—A very large fish, a sea–monster.of. **तिमिङ्गलगिलोऽप्यस्ति तद्गिलोऽप्यस्ति राघवः।**
 
 ** **The metre is **शार्दूलविक्रीडितम्,**
-
-
 
  The great move in the company of the great. They cannot associate themselves with ordinary men.
 
@@ -2105,9 +1894,6 @@ The idea of this verse is contained in the line fromBhartṛhari (**सर्व
 ** **The metre is **शार्दूलविक्रीडितम्.**
 
 ** **The idea is broadly the same as in verse 33. Worldly happiness is not ideal i. e., free from all dangers.There is always an Enemy lurking behind all happiness.  
-
-
-
 
  Vs. 57.**—व्यापुति** of.—Business. **मत्तः—**From me. Formed by the addition of **तम्** in the sense of the Abl. **‘पञ्चम्यास्तसिल्।’**Pān. 5. 3. 7. **चञ्चुकोटि** etc.**—चञ्च्वाःकोट्या** **(अग्रेण) विदारितं अररपुटंयेन सः।** Who has broken the door ajar with the tip of his beak.**‘कपाटमररं तुल्ये’–अमर.** The other readings in place of **विदारिताररपुटः**are **निराकृतागंल इतो**(R.G.), and **विपाटितारलकुटः**(having thrust aside the wooden rod). **मनोरथमय—**Made of desires, fanciful.**वारणकराकारः—**Resembling the trunk of an elephant in shape.**फणिग्रामणी—**The leader of snakes. The parrot in the cage was treating himself to golden dreams of escape when, to his misfortune, there appeared a huge cobra inside the cage. For asimilar idea, compare: **रात्रिर्गमिष्यति भविष्यति सुप्रभातं भास्वानुदेष्यति हसिष्यति पङ्कजश्रीः। इत्थं विचिन्तयति कोशगते द्विरेफे हा हन्त हन्त नलिनीं गज उज्जहार॥.**
 
@@ -2125,8 +1911,6 @@ The idea of this verse is contained in the line fromBhartṛhari (**सर्व
 
  The metre is **शिखरिणी.**
 
-
-
  Qualities do not depend upon accidents like age, etc. They are, if at all, in the blood. Cf**. सिंहः शिशुरपि निपतति मदमलिनकपोलभित्तिषु गजेषु। प्रकृतिरियं सत्त्ववनां न खलु वयस्नेजसो हेतुः॥** Bhar. 1.38. Also **तेजसां हि न वयः समीक्ष्यते।** Ragh. 11. 1, and **‘न खलु वयसा जात्यैवायं स्वकार्यसहो भरः।** Vik. 5, 18.
 
  Vs. 60.**—मासिक–**A month old. **‘कालादृञ्’**(Pān. 4. 3.11)**इति ठञ् (इक). मध्येजठरम्**—Inside the womb. **जटरस्यमध्ये मध्येजठरम्.**This Adv. Comp. is formed according to **‘पारे मध्ये षष्ठ्या वा’** Pān 2. 1. 18. Even though the foetus in the womb of the lioness is only a month old, yet the poet says—with exaggeration, of course—that it is conscious of its enmity with elephants. The idea is the same as in the preceding stanza.
@@ -2134,8 +1918,6 @@ The idea of this verse is contained in the line fromBhartṛhari (**सर्व
  Vs. 61.—**वेतण्ड…पन्थिना—वेतण्डानो(गजानां) गण्डाः, नेषां कण्डूतौ (ग्वर्जने) यत्पाण्डित्यं तस्मिन्परिपन्थी, तेन।**Who is a rival in the skill of scratching the itch on the temples of elephants. The idea seems to be this: The olephants know how to scratch the itch (cf.**कण्डूयमानेन कटं कदाचित्** etc. Ragh. 2. 37 or, **माद्यत्कुञ्जरगण्डभित्तिकषणैर्भग्नस्रवच्चन्दनः।** Nāg. 1. 8); but the lion also knows that. He plants his sharp talons on the temples of elephants—scratching the itch with a vengeance !
 
  Vs. 62.**—जनिः—**Birth. **मधुरता—**Exquisite beauty, the sweetness of appearance. The beauty of the lotus–flower rivals with that of the face of a pretty woman.**अच्युतराय**attempts to explain **मधुरता रामामुखस्पर्धिनी** in another way also:**तब मधुरता जहत्स्वार्थया गङ्गायां घोषः इत्यादिवत्त्वन्मधुमाधुरीत्यर्थः।** **रामेति। यावत्स्त्रीगुणा या रमणी तस्या यन्मुखं निरुक्तलक्षणया तदेकदेशोऽधरस्तर्त्स्पर्धनी स्वाधिक्येन तद्विरोधिनीत्यर्थः।**The first two lines are almost an echo of the first two lines of verse 39. **महाकविगिरां सर्वस्वम्—**The ‘every thing’of the speech of great poets. All these facts make the poets seize on you (the lotus flower) as the subject of their speech. **कामस्य च**—And you are the best possession of the god of love. The lotus–flower is one of the five flower—arrows of Madana. of. **अरविन्दमशोकं च तूच नवमल्लिका। नीलोत्पलं च पञ्च पञ्चबाणस्य सायकाः॥ प्रीतिं उरीकृ**—To
-
-
 
 cherish affection. **मधुप—मधु पिवति इति.** It means (i) the bee, or (ii) one who drinks wine, hence a vicious man.
 
@@ -2159,8 +1941,6 @@ cherish affection. **मधुप—मधु पिवति इति.** It me
 
  Vs. 66.**—विश्वसताम्—**Gen. plu of the pres. part masc. of **श्वस्** with **वि.** **अपघृणः—**Merciless. **गूढाशयाः—**Whose intentions are concealed.**कति—**How many. It is Nom. pln of the termination being dropped according to **‘षड्भ्योलुङ्’—**Pān 7. 1. 22.**त्वत्तुल्यकक्षाः—**Of thy type. **भूपानां भवनेषु** etc.–A wicked man in the palace of a king is an eyesore to Bhartrhari: **नृपाङ्गणगतः खलोमनसि सत्प शल्यानिमे।** I. 56. The hunter is not alone in the world
 
-
-
 to slay trusting animals; there is many a villain moving about royal palaces, or holy places hatching his evil designs to harass good men. cf. **मृगमीनसज्जनानां तृणजलसंतोषविहितवृत्तीनाम्। लुब्धकधीजरपिशुना निष्कारणवैरिणो जगति॥**Bhar. I. 61.
 
  Vs. 67.**—विश्वास्य—**Indeclinable Abs. (Gerund) of the causal of **श्वस्** with **वि.** Having inspired confidence.**नत्रतमाः—**Most modest. Of course this modesty is only a mask.**काश्यपि—**Voc. sing. The earth, the daughter of **कश्यप.**
@@ -2179,8 +1959,6 @@ to slay trusting animals; there is many a villain moving about royal palaces, or
 
  Vs. 70.**—विश्वाभि** etc. **—विश्वस्मिन् (जगति) अभिरामाश्च ते गुणाः, तेषां गौरवेण गुम्फितानाम्—**Those who are endowed with many good qualities loved every where. **लोकंपृणैः–लोकं पृणन्ति इति.** which fill the world.**कश्मीरज—**Saffron, which grows in Kashmir. **कटुता–कटु** originally
 
-
-
 meant ‘pungent.’Compare the Ayurvedic term **त्रिकटु**whichmeans **शुण्ठी, पीपर** & **मरिच.** While **तिक्त**meant ‘bitter,’e. g. thetaste of a green nim-fruit. In course of time the two words.came to have their meanings interchanged. Now, saffron isbitter in taste i. e. **तिक्त**(in its original sense); and it is thisbitterness which is meant by the word **कटुता.**
 
 ** **The metre is **वसन्ततिलका.**
@@ -2190,8 +1968,6 @@ meant ‘pungent.’Compare the Ayurvedic term **त्रिकटु**whichmea
  Vs, 71.**—लीला** etc.**—लीलया लुण्ठिताः (हटाद्गृहीताः) शारदायाः पुरस्यमहासंपद्भराः यैः, तेषाम्।**Those who have looted with ease the greatabundance of wealth of the city of Śāradā i. e. those intellectual giants who have mastered Learning without efforts. **विद्यासद्म**ete. **विद्यायाः सद्म, तस्माद् विनिर्गलतः कणान् मुष्णन्तीति °मुषः।** Thosewho steal the grains (of knowledge) dropping out of the houseof Learning. **पामर—**An insignificant man. The poet triesto bring into bold relief the vast difference between men ofgenius and mere smatterers: (i) men of genius easily masterany department of knowledge, while the smatterer has to toileven to get at it. (ii) geniuses forcibly acquire possession oflearning: the smatterers only slyly gather up whatever theycan lay hands on. Theirs, therefore, is a dubious possession(iii) The man of genius storms the city of knowledge; thesmatterer, on the other hand, approaches a mere house. **वल्ग** 1P-To go, to dance, **अद्यश्वः—**Any day. **मूर्धुसुपदं धा–**To plant one'sfoot on the head of another. It is an idiomatic phrase meaningto subjugate, to overpower of **इति शिरसि स वामं पादमाधाय राज्ञाम्।**Ragh. 7. 70. **शालावृकाः—**Jackals. **‘शालाबूकाः कपिकोष्टश्वानः,—अमर. **The metre is **शार्ङ्गविक्रीडितम.**
 
 Is it not a ridiculous idea that the fox could baffle the lion,or that hares could overpower elephants, or that fledgelingscould suppress serpents? Well, equally ridiculous is the sightof upstarts parading their little knowledge in front of mastere.of Learning, ef. verse 44 above. Bhartṛhari has already laid
-
-
 
 down the plain but golden rule for thom: **विशेषतः सर्वविदांसमाजेविभूषणं मौनमपण्डितानाम्।**
 
@@ -2211,8 +1987,6 @@ down the plain but golden rule for thom: **विशेषतः सर्वव
 
  Vs. 75.**—पीत्वा—**Used in a double sense : (i)Having drunk(ii) Having swallowed. A wicked man turnsungrateful *i. e.*
 
-
-
 he swallows a good turn done to him. **निरातङ्क :—**Vitėont hesitation, unscrupulously, **प्रत्युत—**On the contrary. **काकोदरसोदरः—**The uterine brother of the serpent. Cf. **गुणायन्ते दोषाः सुजनवदनेदुर्जनमुखे गुणा दोषायन्ते तदिदमिह नो विस्मयपदम्। महामेघः क्षारं पिबति कुरुते वारिमधुरं फणी क्षीरं पीत्वा वमति गरलं दुःसहतरम्॥**
 
 ** **Vs. 76**.—पाण्डित्यम्—**The status of a learned man. **वन्दिन्—**A bard, a court-minstrel. **निगीर्य—**Gerund of **नि+गृ**to swallow.**प्रत्यवतिष्ठते—**Turns out, ‘stands.’
@@ -2225,8 +1999,6 @@ he swallows a good turn done to him. **निरातङ्क :—**Vitėont h
 
  Vs. 78.—This stanza is a good illustration of **समासोक्ति,** forthe same details are open to two different interpretations, oneof them being technical. First we take the ordinary meanings:**परार्थव्यासङ्ग—परस्मै अयं परार्थश्चासौ व्यासङ्गः.** Work for the sake ofothers. **उपजहत्—**Nom. sing. of pres. part. masc. of **हा** with **उप,**to abandon. The first pāda means: He who overlocks his owninterests and works for the welfare of others. Bhartṛhariwould agree with Jagannātha in calling such a man & **सत्पुरुष.**of. **एते सत्पुरुषाः परार्थघटकाः स्वार्थान्परित्यज्य ये।**Bhart. I. **अभेदैकरत्वम्—नविद्यतेभेदः यस्मिन् तत्, तथाभूतं एकत्वम्.** Unity which knows no difference.Phenomenal plurality is a matter of experience, yet the wiseman recognizes the fundamental unity of all.Cf. **तथाहि समुद्रादुकात्मनोऽनन्यत्वेऽपि तद्विकाराणां फेनवीचितरङ्गबुद्बुदादीनामितरेतर-विभाग इतरेतरसंश्लेषादिलक्षणश्च व्यवहारउपलभ्यते। न च समुद्रादु-कात्मनोऽनन्यत्वेऽपि तद्विकाराणांफेनतरङ्गादीनामितरेतरभावापत्तिर्भवति। नच तेषामितरेतरभावानापत्तावपि समुद्रात्मनोऽन्यत्वं भवति :** Śānkara Bhāṣya on B. S. 2. 1. 13 **गुणभूतेषु—**May be dissolved in two ways : (i) **गुणानां विकाराः गुणमयानि, गुणभयानि च तानि भूतानि गुणभूतानि।** or (ii) **गुणेभ्यः भूतानि (उद्भूतानि) वस्तूनि।.**
 
-
-
 The sense remains the same in both of these. **गुणभुतानि**means**^(८)**beings[^11] born of Guņas’. Here there is a reference to **सत्त्व, रजस्**and **तमस्**, the three **गुणऽ** forming Prakriti**—**from which theuniverse is evolved. The idea of the second āda is : the goodman realizes that behind the apparent differences in thethings of the world, they are homogeneous and (metaphysicallyspeaking) identical. **ललित—**Charming.**उदात्तमहिमा—**The variantis **दातृमहिमा—**Greatness peculiar to a generous man.
 
 [^11]: "‘सप्तमीविशेषणे बहुव्रीहौ’—Pān. 2. 2. 35."
@@ -2236,8 +2008,6 @@ The sense remains the same in both of these. **गुणभुतानि**mean
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ** व्याधिकरण** Bahuvrihi is allowed only in the Gen. & Loc. Gases.**^(८)‘सप्तमीविशेषणे बहुव्रीहौ’—**Pān. 2. 2. 35.
-
-
 
 viz. **प्रातं उदकम्, ऊढः रथः** forming the Bahu. Comp. arein the same case. Hence the poet says in the secondpāda, ‘which continuously possesses a unity (of meaning)without difference (in the **विभक्तिऽ** of the words) in the membersforming the compound **(गुरुभूतेषु)’**. Better than this, however.is the following interpretation: **अभेदैकत्व** means the state ofunity in which all individualities are sublated. Just as variouskinds of herbal juices which go to make up honey lose theirindividualities and give only one, that of **मधु**[^12]similarly inthe Bahu. Comp. its various members submerge their individualities. stand as a composite whole & denote only onething. **स्वभावाद्** etc. **—उदात्त** means the **उदात्त** accent. There arethree accents found in the Vedas, **उदात्त** (High), **अनुदात्त**(Low)& **स्वरित**(Sounded). There are detailed rules governing thepositions of these accents in a word, New, according to theSūtra,**‘बहुव्रीहौ प्रकृत्या पूर्वपदम्’.—**Pán. 6. 2. 1, in a Bahu. Comp.the first member retains its own natural accents i. e., the **उदात्त**accent in the whole compound word will be in the natural**(स्वभावात्)**position within the first member. The third pādatherefore means,‘in which the charming and important **उदात्त**accent shines naturally (in its natural place)’.—Pāninilays down that compounds can be formed of **समर्थ**(competent)words only.**‘समर्थः पदविधिः’** Pān. 2. 1. 1. Hence the Bahu.Comp. must have ‘competency’. Or **समर्थ** means, able toexpress thesense of unity without distinction **(अभेदैकत्व).सामर्थ्यमप्येकार्थीभावबोधकतारूपं तत्रैवोक्तम्।** B. G., p. 284.
 
@@ -2254,8 +2024,6 @@ viz. **प्रातं उदकम्, ऊढः रथः** forming the Bah
 
  The metre is **शिखरिणी.**
 
-
-
 only the particular associations or connections of a man thatmake him honoured irrespectively of his noble birth or personalattainments. Extraneous circumstances more than hisqualities help to make a man what he is. *cf.* **प्रायेणाधममध्यमोत्तमगुणाः संसर्गतोदेहिनाम्।**Bhart.
 
   V. 80. **अभितगुणः—**Having untold qualities. **रसायन—**Anything which has a vitalizing power. **रसायन** is thus defined:**लाभोपायो हि शस्तानां रसादीनां रसायनम्।–चरकः यज्जराव्याधिविध्वंसि भेषजंतद्रसायनम्।–भैषज्यरत्नावली.** The effects of **रसायन** on the humanconstitution are the following : **दीर्घमायुः स्मृतिं मेधामारोग्यं तरुणं वयः।प्रभावर्णस्वरौदार्थ देहोन्द्रियबलं परम्॥ वाक्सिद्धिं प्रणतिं कान्तिं लभते ना रसायनात्।–चरक. महित–**p. p. of मह् to worship. **उग्र—**Repellent, **लशुन—**Garlic.Garlic possesses the qualities belonging to **रसायन** and isactually called **रसायन** in Ayurvedie texts. Following are thequalities of Garlic from the Ayurvedic point of view : **रसोनोबृंहणो वृष्यो स्निग्धोष्णः पाचनः सरः। बलवर्णकरो मेधाहितोनेत्र्यो रसायनः॥–भावप्रकाश.** Garlic, possessing as it does so many admirablequalities, is yet despised on account of its one defect, therepellent smell. See notes on verse 37. Note the contrastin the contents of this stanza and stanza 70.
@@ -2263,8 +2031,6 @@ only the particular associations or connections of a man thatmake him honoured i
  Vs. 81.**—सद्गुणः—**One endowed with good qualities. **पारदोरसः–**mercury which has the properties of **रसायन मूर्च्छागतः** and**मृतः—**These are references to various chemical changes to whichmercury is subjected by its admixture with different herbalsubstances. cf. **मलशिखिविषाभिधाना रसस्य नैसर्गिकास्त्रयो दोषाः। मूर्छां मलेनकुरुते शिखिना दाहं विषेण मृत्युं च॥ गृहकन्या (**i. e., **कुमारी) हरति मलंत्रिफलाग्निं चित्रकश्च विषम्। तस्मादेभिर्मिश्रर्वारान्संमूर्च्छयेत्सप्त॥ रसहृदयतन्त्रम् ५–६.**When mercury is thus subjected to chemical modifications, itsvarious dangerous properties are eliminated, and it then actsas a vitalizing drug.Cf. **मूर्च्छित्वा हरति रुजं बन्धनमनुभूय मुक्तिदोभवति। अमरीकरोति मृतः कोऽन्यः करुणाकरः सूतात्॥रसरत्नसमुच्चय.**
 
 ** **Vs. 82.**—चकिता—**Startled. **प्रान्त—**The end. **श्रुतिचलत्** etc.**—श्रुतिषु (श्रवणेषु) चलन्त्यः करोटीकोट्यः यासाम् ताः, ताभिः।** The youngdevil–girls wore skull–bones as ornaments in their ears. These
-
-
 
 skull-pendants hung about from their ear-lobes. The last twolines are read differently in some editions : **अहो सेयं सीता दशनवदननीता हलरदैः परीता रक्षोभिः श्रयति विवशा कामपि दशाम्॥**
 
@@ -2278,8 +2044,6 @@ skull-pendants hung about from their ear-lobes. The last twolines are read diffe
 
  Pride goeth before destruction. In the flush of themoment, Kāma forgot the powers of Mahādeva; so in bis
 
-
-
 ashness he ventured to aim his arrow at Śiva—and washimself destroyed in the end.
 
  Vs. 84.**—युक्तम्–**It is but proper. **चीत्कृतिः—**chatter. **आतिथेयी—**welcome. **अतिथिषु साधुः आनिथेयी,** according to **‘पथ्यतिथिवसतिस्वपतेर्ढञ्।’**Pān. 4. 4. 104. **मर्कटानां सभायाम्**etc**.**—The poet vividly describeswhat will happen when ‘monkeys’(biological and metaphorical too!) gather together. One wonders whetherJagannātha had ever had the good (!) fortune of attendingpolitical meetings. And Jagannātha knew practically—notscientfically as the European scientist did later—theDarwinian theory before Darwin!
@@ -2290,8 +2054,6 @@ ashness he ventured to aim his arrow at Śiva—and washimself destroyed in the 
 
  Vs. 86.**—वेदान्त—**The Vedānta philosophy. The word haspassed through various vicissitudes of meaning. Originally itdenoted the Upanisads which are the last portions of Vedicliterature. **वैराग्यम्–विगतो रागो यस्मात् तस्य भावः—**The attitude ofdisinterestedness, when one rises superior to worldly enticements. **मैनाक—**The name of a mountain. was the son of
 
-
-
 the Himālaya mountain. **चिरं जलनिधौ** etc—The reference isas follows: when Indra began to lop off the wings of themountains which flew about here and there and threatened notonly human beings but gods as well, the **मैनका** hurriedlyplunged itself into the ocean and thus escaped the shearing atthe hands of Indra. of. **असूतसा नागवधूपभोग्यं मैनाकमम्भोनिधिबद्धसख्यम्।क्रुद्धेऽपि पक्षच्छिदि वृत्रशत्राववेदनाज्ञंकुलिशक्षतानाम्॥** Kumār 1. 20. For**चिरं जलनिधौ मनः**read what Bhartṛhari says: **वरं पक्षच्छेदः समदमधवन्मुक्तकुलिशप्रहारैरुद्रच्छद्वहलगहनोद्गारगुरुभिः। तुषाराद्रेः सूनोरहहं पितरि क्लेशविवशे न चासौ संपातः पयसि पयसां पत्युरुचितः॥** 1. 36.
 
  Vs. 87.**—नैगुर्ण्यम्—**Non—possession of merits. **साधीयः—**Better. There is a current of irony in the stanza. The poetsays, as greatness or possession of good qualities involvesgreater dangers, it is better to be devoid of good qualities!In this way he wishes to point out the foolishness of men. of.**द्वावेव ग्रसतेदिनेश्वरनिशाप्राणेश्वरौ भासुरौ भ्रातः पर्वणि पश्य दानवपतिः शीर्षावशेषीकृतः॥** Bhart. 1. 34.
@@ -2300,8 +2062,6 @@ the Himālaya mountain. **चिरं जलनिधौ** etc—The reference 
 
  Vs. 89.—In this stanza many words bear a double meaning.**शून्यो—**(i) In a vacant place, in a corner. (ii) In a vacantdull mind. **गुणवत्तां आतन्—**(i) The spider spreads the webs.Here**गुण** guy means a fibre. (ii) A good man imparts good qualities.**स्वकीयगुणादलैः—**(1) By the webs of his own fibres, (ii) By manyqualities of his own. **विवरणि मुद्रयन्—**(1) Covering up holes orfissures, (ii) Concealing the vulnerable or weak points **(विवराणि)** of others. **ऊर्णायुः—**A spider. The spider weaves the webof thin threads in out-of-the-way corners. By means of paronomastic words, the poet shows how a good man and a spiderwork much the same way.
 
-
-
  Vs. 90.**—सज्जनकार्पास**etc.**—मज्जना एवकार्पासाः तेषां रक्षणे (विपरीतरक्षणया भक्षणे) एकःहुताशनः—**The one fire which ‘protecte’thecotton in the form of good men. The word is used ironically. Fire, instead of protecting wool, only burns it out.of.**तूलराशाविवाग्निः।** Sak. 110. Therefore **रक्षण=भक्षण** Destruction.**परदुःखाग्निशमने मारुतः—**Wind always fans the fire; it neverextinguishes it. For the natural alliance between fire and windof. **समीरणो नोदयिता भवेति व्यादिश्यते केन हुताशनन्य।**Kumār. 3. 21.Therefore **शमन** is intended to stand for **उद्दीपन.**A wicked mantakes sinister delight in aggravating the miseries of others.of. **सुजनबन्धुजनेष्वसहिष्णुता प्रकृतिसिद्धमिदं हि दुरात्मनाम्॥**Bhar. 1. 52.
 
  Vs. 91.—The adjectives **परगुह्यगुप्तिनिपुणम्** and **गुणमयम्**areequally applicable to **सज्जन** and **ललिनाम्बर. परगुह्यगुप्तिनिपुणम्–परेषांगुह्यानि, तेषां गुप्तौनिपुणम्।** (i) A good man is clever in containingthe secrets, or concealing the weaknesses, of others. (ii) Apiece of cloth **(अमबरम्)** is able to cover up the secret limbs **(गुह्यंमेद्रादि)** of others (i. e. the wearers). **गुणमयम्—**(i) Possessingmany good qualities. (ii) Made from threads **(गुण). अखिलैःसमीरितं—**Respected or praised by all. **ललित—**Fine. **आम्बु—**Amouse. **दूषयन्ति—**(i) Find fault with, accuse (ii) Soil, damage.Mice damage a fine piece of cloth. Mark the use of two **वाचकशब्दऽ(इव)** in one Upamā.
@@ -2309,8 +2069,6 @@ the Himālaya mountain. **चिरं जलनिधौ** etc—The reference 
  Vs. 92.—**यशःसौरभ्यलशुनः—यश एव सौग्ग्भ्यं तस्य (तत्प्रति) लशुन इवलशुनः।** Just as the very pronounced repellent smell of garlicsuppresses all other good smell, similarly a wicked man ruinsthe good name of others. **शान्तिशैत्येहुताशनः—**As fire destroyscoolness, so a villain destroys tranquillity of mind. He is thefire to the coolness of tranquillity. **कारुण्यकुसुमाकाशः—कारुण्यमेवकुसुमं तस्य (नत्प्रति) आकाशः।** Flowers cannot grow in the sky.Well, compassion is as rare in a rogue as flowers in the sky.**सज्जनदुःखलः—सज्जनानां दुःखं लाति (यच्छति) इति °दुःखलः।** Oppressingthe virtuous. **ला**2 P. to take, or to give.
 
  These three stanzas describe vividly the inherentlydevilish nature of a villain.
-
-
 
  Vs. 93.**—भरः—**Barden धर्मव्यथा–Oppression of heat. **रुज्–**Pain. **यो देहमर्पयति**etc.—People cut down trees for the sake offuel. of. **कियदपि च्छिन्नं तुषारार्दितैः।**Verse 55 above. **वदान्य—**Generous. It is for the sake of others, and not for their own selves,that trees bear the burden of leaves, flowers and fruits, orexpose themselves to excessive sunshine or Lumbing cold;more than that, they even lay down their ‘body’in theservice of others. What a lesson they teach to ‘rational’beings!
 
@@ -2324,8 +2082,6 @@ the Himālaya mountain. **चिरं जलनिधौ** etc—The reference 
 
 ** **Vs. 95.**—दीनानाम्—**Of the poor helpless peasants. **परिहाय—**Ignoring, passing by **औन्नत्यम्—उन्नतस्य भावः** High or exaltedposition. **दुर्मदः—**Vainly arrogant. When men rise to an elevated position, they become obsessed with their own vaingloryand lose their power of discrimination, of. Verse 35 above.R. G. reads this verse as follows: **दीनानामिह परिहाय शुष्कसस्यान्यौ-**
 
-
-
 दार्यंवहति पयोधरो हिमाद्रौ। औन्नत्यं विपुलमवाप्य दुर्मदानां ज्ञातोऽयं क्षितिप भवादृशां विवेकः॥
 
  The metre is प्रहर्षिणी.
@@ -2338,8 +2094,6 @@ the Himālaya mountain. **चिरं जलनिधौ** etc—The reference 
 
  Vs. 99.—Apparently, the verse is addressed to a bee thatleaves a lotus-plant. But really the poet addresses a fickle
 
-
-
 lover whom the beloved **(नायिका)** warmly loves in spite of hismany defects. Therefore the various adjectives admit of twomeanings. **मलिन—**(i) The bee is ‘dirty’; (ii) the lover is **दूषित—**Guilty (in love).**रागपूर्णा—**(i) The lotus-plant is ‘full of redcolour’; (ii) the beloved is ‘full of love’. **विकसितवदना—**(i)Whose face has opened. The lotus-flowers represent the faceof the lotus-plant. The flowers on the plant have bloomed.(ii) The face of the lady–love beams (with smile or love).That is, she is warm in her attachment. **अनल्पजल्प—**(i) Thebee hums continuously. (ii) The lover is a prattler: he ‘protesteth too much’.**चपल—**Fickle, unsteady-equally applicableto both. **सरसा—**(i) **रस–**juice. The lotus-plant is full of ‘juice’for the bee. (ii) The beloved is ‘very affectionate’towardsher lover.
 
  Vs. 100.**—स्वार्थम्.—**adv. comp., for one’s self, in one’s ownbehalf. **मलिनतां भज्—**to pale away, to become overcast. **कालिमां—**Darkness, Blacknees. Mark the contrast between **स्वास्यं**and**सकलं—**The cloud is entirely darkened, though he gets waterfor others. Men have their faces only paling when beggingfor their own selves, though their case is worse than that ofthe cloud. It is very trying to beg from another—for thesake of some one else; how much more so when one has to begfor one’s own self? This verse explains why the poet envied(!) the good luck of trees in verse 88 above.
@@ -2351,8 +2105,6 @@ lover whom the beloved **(नायिका)** warmly loves in spite of hismany
  Good qualities shall command recognition, and earn ahigh position. cf. **पदं हि सर्वत्र गुणैर्निधीयते।** Ragh. 3. 62.
 
  Vs. 102.**—हन्त–**Alas! **(खेदे). सज्जसि–**from rt. **सस्ज्** to feelattached to, to be intent upon. **स्वात्मोपस्करणाय—**For the embellishment of thy self, **चेत्—**If. **पथ्यम्—**Wholesome. **पथि साधु, ‘तत्र साधुः’**(Pān. 4. 4. 98) **इति यत्. भावाः—**Objects cf. **अतीन्द्रियेष्वप्युपपन्न दर्शनो**
-
-
 
 **बभूव भाषेषु दिलीपनन्दनः।** Ragh. 3. 41. **कलि**-The Kali age ‘theIron age’. **कलेवरपुषः–कलेवरं पुष्णातीति तस्य.**Who nourishes hisbody; who flourishes. **दैनंदिनम्—दिनेदिने भवम्**Daily, from day today. **वर्तनम्–वृत्तिः**Maintenance.
 
@@ -2370,8 +2122,6 @@ lover whom the beloved **(नायिका)** warmly loves in spite of hismany
 
  Vs. 105.**—मनाक्–**slight. **निशार्धजातः—निशार्धःजातस्य यस्य.**Bornhalf a night before. **द्राक्–**At once.
 
-
-
  The idea has already figured in more than one of theforegoing stanzas.
 
  Vs.106.**–दिव्यमते–**Said ironically: ‘of uncommon intelligence.’**गुणपक्षपातं अभितः—**About the partiality for merits. **अभितः**governsthe Accusative. A wicked man ever remembers good menendowed with merits, not because he has any high regard forthem, but because he is a sworn enemy of merits whereverthey be.
@@ -2386,8 +2136,6 @@ lover whom the beloved **(नायिका)** warmly loves in spite of hismany
 
  Vs. 110. **—विनिवेशिता—**Placed. **रसनामिषेण–रसनायाः मिषेण.** Inthe guise of a tongue. The poet supposes that the tongue in
 
-
-
 the mouth of the wicked is really a she–serpent; for, those whom their tongue bites never survive.**न जिवन्ति—**Do not survive; People bitten by the tongue of the wicked are ruined; their good name as well as every trait of charecter they prize most is lost. Cf. **जाडयं ह्रीमनि गण्यते** etc.Bhart. 1. 49. **अमन्त्राः—**Ordinary serpents can be overpowered, or their poison neutralized, by the aid of charms. But this she–serpent in the mouth of the wicked is so uncommonly deadly that there are no charms to restrain her or neutralize her poison
 
  The poet here refers to the habit of wicked men of backbiting and censuring others. (Bharthari refers to the **दुर्जनऽ**as**आक्षेपरूक्षाक्षग्मुखरमुखाः**1. 79) Their victims are sure to suffer on account of this unremitting propaganda against them. of.**अहो खलभुजङ्गस्य विचित्रोऽयं अधक्रमः। अन्यस्य दर्शन श्रोत्रमन्यः प्राणैर्वियुज्यते॥**
@@ -2397,8 +2145,6 @@ the mouth of the wicked is really a she–serpent; for, those whom their tongue 
 ** **Vs. 111.—The poet new appropriately winds up his tribute (1) to a **खल** with a vote of ‘thanks’In this verse, he refers to some action on the part of the **खल. उन्नत–**High, Noble. There is bitter irony in the whole of this verse. The poet apparently compliments and thanks the wicked man, but he really means to say, “What a wicked dead thou hast done! Thou hast thereby earned only infamy. And we shall be cursing thee as long as we live.”Cf. **उपकृतं बहु तत्र किमुच्यते सुजनता प्रथिता भवता परम्। विदधदीदृशमेव सदा सखे सुखितमास्स्व ततः शरदां शतम्॥ (बहुभिरपकारैस्ताप्यमानस्योक्तिरियम्। शब्दव्यापारविचार)**
 
 ** **Vs. 112**—अविरतम्—**Adv. Comp. Incessantly.**विमलशारद** etc.–The light of the clear autumnal moon. In autumn the moon shines at her best for the sky is ideally clear at the time. Fame must be spotless i. e. white without any blot. Hence fame is often compared with moonlight on account of its whiteness–and pleasantness as well.**चन्दिर—**The moon; derived from the rt. **चन्द्** to be glad, to shine (K. G.)
-
-
 
  The metre is **द्रुतविलंवित. द्रुतविलंवितमाह नभौ भरौ.**
 
@@ -2416,8 +2162,6 @@ the mouth of the wicked is really a she–serpent; for, those whom their tongue 
 
  Ve. 117.—The stanza, apparently addressed to a bee settling on **सरजस्का केतकी,** hints at the man who indulges in intercourse with a woman in menstruation. **सरजस्का—**(i) **रजस्** means the pollens in flowers. Hence,**सरजस्का** means ‘having
 
-
-
 pollens’. (ii) she who is in menstruation. **रजस्**here means ‘the menstrual flow’. Sexual conjugation with a woman in her menstrual period is forbidden both by the Ayurveda and the Dharmasāstras. cf. Manu. 3. 47. **पाण्डुवर्णा—**(i) grey in colour. **केतकी** is grey in colour. (ii) pale in colour. **कण्टकप्रकरान्विता—**(i) the **केतकि** is ‘thickly studded with thorns.’(ii) **कण्टक** means bristling of hair, **रोमहर्ष**.Paling of colour and horripilations are indications of the spontaneous manifestation of love **(सात्त्विक भावऽ). स्तम्भप्रलयरोमाञ्चाः स्वेदो वैवर्ण्यवेपथू।**etc. D. R. 4. 5.of. **आसीद्वरः कण्टकितप्रकोष्ठः।** Ragh, 7. 22; also **रोमोद्गमः प्राटुरभूदुमायाः—**Kumār. 7. 77. Thongh **पाण्डुवर्णत्व** and **कण्टकितत्व** are inviting indications in a woman, yet her **सरजस्कत्व**is a bar to the consummation of her yearning.**निस्त्रप–**Shameless.
 
  Vs. 118.**—तानः—**A modulant. It is a protracted tone (from to stretch) which is instrumental in producing other tones and on which the Rāgas depend for their existence and operation. cf. **तानो नाम स्वरान्तरप्रवर्तको रागस्थितिप्रवृत्त्यादिहेतुरंशापरनामा वंशवाद्यसाध्यः प्रधानभूतः स्वरविशेषः। मल्लिनाथ** on Kumar 1. 8. **‘गाता यंयं स्वर गच्छेत्तं तं वंशेन नानयेत्।’**Bharat. There are, it is believed, forty–nine tānas arising from the seven svaras. **दानम्—**the flow of ichor.
@@ -2427,8 +2171,6 @@ pollens’. (ii) she who is in menstruation. **रजस्**here means ‘the m
  Merits do not require introduction or recommendation. They will assert themselves.
 
  Vs. 120.**—मास्म यासीः—**Do not go.**अयासीः—**2 pr. sing. Aor. of **या** to go. For the elision of the temporal augment see notes on **कृथाः**in verse **7.मौलिः—**The crest; hence, the best. It is well known that musk possesses an exquisite fragrance.**गहन–**Deep. **स्वजनक–**Musk is found in the navel of a particular type of antelopes which are therefore called.**कस्तुरीमृगऽ.**Men kill these antelopes for the sake of musk in their navels. of.**चर्मणि द्वीपिनं**
-
-
 
 **ध्नन्ति दन्तयोर्ध्नन्ति कुञ्जरम्। केशेषु चमरीं ध्नन्ति सीम्निपुष्कलको हतः॥ (सीमन्–**musk).
 
@@ -2446,15 +2188,11 @@ pollens’. (ii) she who is in menstruation. **रजस्**here means ‘the m
 
  Vs. 124.**—लिप्सा—लब्धुमिच्छा.** Desiderative Abs.n. from the rt. **लभ्. कृपण—**A miser. **दित्सा—**Desiderative Abs n from **ढा**to give. Mr. Tight–fist feeling inclined to be liberal!—Well, says Jagannātha, one has never heard of such a thing before.**विमार्गगा—**An adulteress a faithless woman **कुटिल—**Orooked, a schemer **दृष्टपूर्वा—पूर्व दृष्टा.** Seen before,
 
-
-
  Vs. 125.—This stanza expresses utter distrust of the fair sex. Jagannātha is not alone in voicing it, for Bhartrhari, for one, recommends **नारीजते धूर्तता** (1–22) as necessary for one to live happily in the world.**राजप्रियाः—**Dearly loved by the moon **(राजन्). मधूप—**A beе. Bees play about the moon–lotuses which open out at the sight of the moon. In the second half of the stanza there is also a hint that even queens pander with drunkards.
 
  Vs. 126.**—उच्छृंखलः—**Unrestrained, Wayward. Fate is capricious and unprincipled, for he does not give you when you ask, but gives when you don't.
 
  Vs. 127.**—दोर्दण्ड** etc. **दोषौ(भुजौ) दण्डौ इव दोर्दण्डो, तयोः द्वयन् तेन मण्डलीकृतं यत् लसत् (शोभमानम्) कोदण्डं तस्य (तस्मान्मुक्ताः) चण्डाश्च ते आशुगाः (शराः), तैः ध्वस्तं उद्दण्डानां विपक्षाणां (शत्रूणाम्) मण्डलं येन, तम्।** Who destroyed the fierce array of enemies with his terrible arrows discharged from the shining bow that was bent round (when the bow–string was stretched furthest) by the pair of mighty arms.**मध्येरणम्—**In the battle. An Aluk samāsa. cf.**मध्येजठरम्** in Verse 64 notes. **वल्गद्गाण्डिव** etc**.—वल्गत् (टंकारं कुर्वत्) यद् गाण्डिवं तस्मान्मुत्काश्चने काण्डाः (इषवः), तेषां वलयैः (ओधैः), ज्वालानां आवल्यः (ममूहाः) तासां ताण्डवेन च भ्रश्यत् (विनाश्यमानम्) खाण्डवम्, तस्मिन् रुष्टं पाण्डवम्।**Pāṇḍva i Arjuna who was highly enraged, in the Khāṇḍava forest which was at the time being consumed by the ravages of the mass of flames and by the barrage of arrows discharged from the twanging Gāṇḍiva bow. Once the Fire–god became constipated with ghee on account of the incessant sacrificial activities of king Maruta. So he approached Arjuna and Kṛṣṇa for help so that he may devour the Khāṇḍava forest (which belonged to Indra. the god of rain) and thus digest the ghee jamming up his belly.**अर्जुन** and **कृष्ण**consent to help him; and then Arjuna with a continuous discharge of arrows, and Kṛṣṇa with his discus guarded the boundaries of the forest so that none may escape, while the Fire–god ravaged wildly
-
-
 
 in the forest. cf. Mahābhārata, Vanaparvan, sub–parvar **खाण्डवदाहपर्वन्. क्षितीशः—**Voc. would be a better reading.
 
@@ -2462,15 +2200,11 @@ in the forest. cf. Mahābhārata, Vanaparvan, sub–parvar **खाण्डव�
 
  Vs. 128.**—खण्डितानेत्र** etc.**–खण्डितानां नेत्राण्येव कञ्जानि (पद्मानि), तेषां आलीनां मञ्जुरञ्जने (मधुरप्रसादनकर्मणि) पण्डिताः।** Expert in sweetly pleasing (or opening) the clusters of lotuses in the form of the eyes of women supplanted in love. **पद्मऽ** open out when the sun rises, cf. **पद्माकरं दिनकरो विकचीकरोति।**Bhar. 1-74. The woman who is ingnored by her husband and who burns with jealousy because he bestows his affections on another woman of his heart is called **खण्डिता.**cf.**ज्ञातेऽन्यासङ्गविकृते खण्डितेर्ष्याकषायिता।** D. R. 2-25.Such a woman rejoices at the rise of the sun for her faithless husband who has been spending the night in the company of his ‘lass’ will be separated from his beloved for the day. Therefore the eyes of the **खण्डिता**woman beam with delight at the rise of the sun. **मण्डिताखिलदिक्प्रान्ता.:—मण्डिताः अखिलाः दिक्प्रान्ताः यैः।** Which have brightened up (lit.decorated) all the ends of the quarters. **भानवः—**Rays.
 
-
-
 **SĀNTAVILASA.**
 
 ** शान्तविलास—**Like the two Vilāsas which immediately precede it**—श्रृङ्गारविलास** and **करुणविलास,** this Vilāsa too derives its name after one of the Rasas, though it is to be noted that **शान्त**is not admitted as an independent Rasa by all schools of Sanskrit rhetoricians. Like the other two, again, the title of this vilāsa serves as an index of the sentiment prevailing throughout most of the verses comprising it.
 
 ** शान्तरस** is the sentiment of Quietism. When the battles of life have been waged and their stark horrible nakedness is perceived, and when, consequently, the dust and the rear of the Battle. so inviting and irresistible at other times, lose their appeal, the mind, becoming tired of worldly pursuits and the arge of senses, becomes chastened; a tranquil mood supervenes; and one yearns to rise above the Babel and escape into that Full Life which is all tranquillity. Thus the sentiment of Quietism—of the peace of mind—induces in the end an atmosphere as placid and untroubled as some forest retreat, untrod by man, where the morning sun shines over the softly bubbling water of the stream. In this Vilasa, the poet depicts a frame of mind to which worldly pleasures appear to be so many fetters, sense—organs so many hoops, life beset with its untold worries an oppression—the whole world a horrible nightmare. To such an harassed soul the poet points out the way of escape from misery, Viz., the worship of Śrī Kṛṣṇa who being identical with the highest Divinity is certain to rescue the miserable and worried refugee from his difficulties. In most of the stanzas of this vilāsa, therefore, in spite of the varied approaches to the theme, there is but one refrain, and that is the advice to all to dedicate their lives at the feet of Śrī Kṛṣṇa. And Jagannātha, like a devout Vaiṣṇava, waxes passionately devotional in his reverential references to, or descriptions of, that fascinating divinity-ŚrīKṛṣṇa.
-
-
 
  Vs. 1**.—विशाल…विकलितम्–विशालं च तद् विषयाटवीवलयम्, तस्मिन् लग्नो यो दावानलस्तस्य प्रसृत्वराः(प्रसरणशीलाः) शिखाः, तासां आवलीभिः विकलिनम्। विषयाः—विशेषेण सिन्वन्तीति विषयाः**Those that fetter the mind and the soul more and more i. e. worldly pleasures or objects.**अटविवलम्–**forest region. Worldly pleasures are fraught with as many dangers as a forest region is. For, from the philosophical point of view, they try to prevent the soul from realizing its own true nature; and until the soul realizes the truth it will have perforce to journey on in the Sansāra. Hence the **विषयऽ** are spoken of as a ‘forest–region.’**दावानल–**a conflagration. It stands for the desires to enjoy’.**कामऽ**are often compared with fire**.प्रसृत्वर–**spreading. Formed from **प्र+सृ** by the addition of the termination**क्वरप्.** The idea of the first two lines: The numberless worldly pleasures inflame the desires **(कामऽ).** These desires even when satisfied do not die down, but, on the contrary, continue to grow. In the end, the mind becomes confused on account of its being tossed hither and thither by ceaseless desires. **अमन्दमिलदिन्दिरे–अमन्दा मिलन्ती च इन्दिरा (शोभा) यस्य तस्मिन्. माधुरी–मधुरस्यभावः**The face of Śrīkrsna is invitingly beautiful. **चन्दिर=चन्द्र,** derived from the rt. **चन्द्**to delight. **चकोरायतान्–**3 pers. sing. Imperative of the denominative verb from **चकोर, चकोराय्–**To behave like a cakora.**चकोर इवआचरति. ‘कर्तुः क्यङ् सलोपश्च’**(Pān. 8 1. 11) **इति क्यङ्**. Just as the cakora pines for, and gazes steadfastly at, the sight of the moon, so let my mind earnestly concentrate itself in the devotion of Mukunda.
 
@@ -2478,21 +2212,15 @@ in the forest. cf. Mahābhārata, Vanaparvan, sub–parvar **खाण्डव�
 
  Vs. 2**.—जलधिनन्दिनी** etc.**—जलधिनन्दिन्याः(लक्ष्म्याः) नयने नीरजे इव, तयोःआलम्बन।** Laxmīfondly gazes at her lord **विष्णु** i. e.**कृष्ण.**Viṣņuis the resting–place of the eyes of Laxmī. Laxmīis called **जलधिनन्दिनी** because along with the moon, the **कौस्तुभमणि,**the **ऐरावत** and others, she was born from the **क्षीरसमूद्र**when it was churned by the gods & the demons.**ज्वलज्ज्वलन**etc.—**ज्वलन् यो ज्वलनः(अग्निः) स इव जित्वरः (जयशीलः) यो ज्वरभरः तस्य त्वरया**
 
-
-
 **(वेगेन) भङ्गुरम्. जित्वर—**Winning. Formed like **प्रसृत्वर** in stanza 1.**ज्वर—**Worldly oppression. The world and its objects are not what they appear to be. They are illusory. To a thinking mind directed towards salvation the worldly existence is an oppression because it is not the reality. The only reality is Brahman–One without a second. For **ज्वर** cf.**‘अतोऽन्यदार्तम्’।**Bri. Up. 3-5 **‘मृत्योः स मृत्युमाप्नोति य इह नानेव पश्यति’।** Kāthak. 2-1-10.**त्वरा—**Force, impetuosity. **प्रभातजलज**etc.**—प्रभातस्य जलजानां उन्ननन् गरिमगर्वः (गुरुताया गर्वः), नस्य सर्व कषन्तीति।** Which destroy the pride of beauty of the morning lotuses. For a parallel idea compare **यन्मां न भामिनि निभालयसि प्रभातनीलारविन्दमदमङ्गिमदैः कटाक्षैः।**Bham, 3-4 **जगत्रितयरोचनैः—जगतां त्रितयस्य रोचनैः—**Pleasing the three worlds. **त्रितयम्—त्रयोऽवयवा यस्य तत्। ‘संख्याया अवयवे तयप्’**(Pān, 5-2-42) **इति तयप्. शिशिरय्—**To cool.
 
  Vs. 3.—In this verse Kṛṣṇa is spoken of as a mass of clouds **(कादम्बिनी).** The poet tries to show the distinguishing characteristics of this uncommon mass of clouds, which make it superior to the ordidary clouds.**कादम्बिनी—**Lit., amass of clouds. **‘कादम्बिनी मेघमाला’—अमर.** Kṛṣṇais identifed with a mass of clouds because, like the latter, he is glossy and dark in complexion. of **जयतु जयतु मेघश्यामलः कोमलाङ्गो जयतु जयतु पृथ्वीभारनाशो मुकुन्दः॥**Kālidāsa too. apart from the aptness of the Rūpaka, has, it must be supposed, called**कृष्ण** a मेघfor this very reason : **कृष्णमेघस्तिरोदधे।** Ragh. 10-48. **स्मृतापे—स्मृतमात्रा. तरुणातपं हरन्ती** ete.—Ordinary clouds can relieve the growing sunshine only while they are present in the sky. But Kṛṣṇa destroys worldly cares even while he is only contemplated by men.**अभङ्गुतनुत्विषाम्—अभङगुराः तनूनांस्त्विषः यासां तासाम्। वलयिता—**Surrounded. Formed from **वलय + इतच्** according to **‘तदस्य संजातं तारकादिभ्य इतच्’।** Pán. 5–2–36 **विद्युताम्—**In connection with **कृष्ण** the ‘lightings’stand for the Gopīs whose complexion was lustrous and non-momentary **(अभङ्गुर).** The ordinary **कादम्बिनी** is surrounded by hundreds of lightnings whose flashes are perishable and short-lived **(तनु);** but **कृष्ण** is surrounded by ‘lightnings’
-
-
 
 (Gopīs) whose complexion is shiny and enduring. For a parallel idea vide Ragh. 6-65. **कलिन्दनगनन्दिनी—**The river Jumna, for it flows from the mountain. **कलिन्द** She is also called **कालिन्दी. सुरद्रुमालम्बिनी—सुरद्रुमान् आलम्बितुं शीलं यस्या सा.** Kṛṣṇa's favourite haunts were the rīchly verdured regions along the banks of the Jumna.**मतिचुम्विनी भवतु—**May the mind cotemplate. For the last two lines cf. **अस्माकं तु तदेव लोचनचमत्काराय भूयाच्चिरं कालिन्दीषुलिनोदरे किमपि यन्नीलं महो धावति॥**
 
  Vs. 4—In this verse Kṛṣṇa is described as a Tamāla tree. **वनान्तरम्—**The interior, the inner recesses, of the forest. As Kṛṣṇa moved about, the interior of the forest became illuminated. **पथि गतागत श्रमभरम्—**The great exhaustion produced by com ing up and down the road of Sansāra cf. **पुनरपि जननं पुनरपि मरणं पुनरपि जननीजठरे शयनम्।**This line is applicable both to an ordinary Tamāla tree and to Kṛṣṇa. Just as the ordinary Tamāla tree relieves the fatigue of travellers on the road, Kṛṣṇa removes the distress of the souls that travel on the track of the Sansāra–i e. are born and reborn again and again. **लतावलिशतावृतः—**The ordinary Tamāla is entwined by hundreds of creepers; Kṛṣṇa is surrounded by hundreds of Gopīs. The woman is often compared with a creeper entwining a tree (i. e. her husband). **रूचा—**Instr. Sing. of **रूच्,** splendour. **श्रमान्—**The fatigue of phenomenal existence; or hardships in life.
 
  Vs. 5.—Kṛṣṇa is described as a cloud in this stanza. **जटिलय्—**To entangle, to indent. Denominative from .**जटिल. ज्योत्स्नामय—**Full of moon-light, i, e., as delightful as moonlight. The ordinary cloud showers fresh water, no doubt; but Kṛṣṇa showers the world with his pleasant nectar-like lustre, which is not seen anywhere else **(नव). त्रिविधः संतापः—**The threefold worries of the world: (i)**आधिभौतिक—**material worries–worries about the body and about worldly things. (ii) **आधिदैविक—**Worries that visit a man through supernatural agency. (iii) **आध्यात्मिक—**Psychological worries, like **काम, क्रोध** etc. The ordinary cloud can at best mitigate physical worries, but Kṛṣṇa
-
-
 
 alleviates all the three types of them. **नतनिखिलवृन्दारकवृतः—नतैःनिखिलैः (सर्वैः) वृन्दारकैः(देवैः) वृतः।** cf. **इन्द्रादिदेवगणवन्दितपादपद्मं वृन्दावनालयमहं वसुदेवम् (वन्दे)।स्वान्तध्वान्तम्—**The darkness of the heart,the preponderance of **तमोगुण.** When the heart is clouded by the**तमम्,** the soul cannot realize the truth, for his vision is blurred.cf.**तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम्। प्रमादालस्यनिद्रामिस्तन्निबध्नाति भारत॥**Bh. G. 14-8. Or **ध्वान्त** may be interpreted as the Primal Ignorance **तिरय्—**To destroy. **नवीनः—**Extraordinary.
 
@@ -2502,15 +2230,11 @@ alleviates all the three types of them. **नतनिखिलवृन्द�
 
 ** **Vs. 8.**—सलीलम्—लीलया सहितं यथा स्यात् तथा।** Sportingly,gracefully. **चकास—**To shine. **अरविन्दनामः—अरविन्दं नाभौ यस्य सः।**Viṣṇu has a lotus-lower growing from his navel. **देहावसानसमये** etc.—Last impressions always are more abiding and carrybetter influence with them. Hence the fervent wish that theGod Viṣṇu may shine in my heart at the moment of death.1. **दिवि वा भुवि वा ममास्तु वासो नरके वा नरकान्तक प्रकामम्। अवधीरितशारदारविन्दौ चरणौ ते मरणे विचिन्तयानि॥**
 
-
-
  Vs. 9.**—नयनानन्द** etc.**—नयनयोः आनन्दः तस्य सन्दोहः(आधिक्यम्)तस्य तुन्दिलीकरणे क्षमा (समर्था)।**Providing much delight to the eyes.**तुन्दिलीकरणम्—**Abs, noun from **तुन्दिलीक** which is a **च्वि**form **तुन्दिलीकृ—**To fatten, to increase. For **तुन्दिल** see Prāstavika, 5.
 
  Vs. 10.**—शिक्षा—**Advice. Here the poet refers to the **अन्तर्यमिन्** or ‘the inner voice’which is the voice of God. cf. **ईश्वरःसर्व भूतानां हृदेशेऽर्जुन तिष्ठति।**Bh. G. 18. This ‘Inner divinity’always guides or warns the individual to whom it is open toaccept this divine lead or not. cf. **एष ह्येव साधु कर्मकारयति तं यमेभ्योलोकेभ्य उन्निनीषत एष उपवासाधु कर्मकारयति तं यमधोनिनीषते।’**Kau. Br. 3-8.**केनापि देवेन हृदि स्थितेन यथा नियुक्तोऽस्मि तथा करोमि।** Or the reference maybe to the Vedas and other Revealed texts which are believedto be the words of God. But, says the poet in self-deprecation,he has not beeded tho advice of the Śruti, because he was toomuch obsessed with egotism **(अहंभाव). आगः शतशालिन्—**Creditedwith hundreds of sins. **स्वीयेषु—**Among one's own men.**मत्तो नमत्तोऽपरः—**One **मत्तः** means ‘from me’It is the the Abl, Sing. of**अस्मद्.**The other **मत्तः** means ‘foolish’. It is the p. p. of**मद्** tobe mad.
 
  Vs. 11.**—पातालम्—**The nether world. Strictly speaking,mythology knows of seven nether worlds, **अतल, वितल,** etc., **पाताल**being the nethermost. **सुरपुरी—**The city of gods, Amarávati. **मेरु—**is the golden mountain. **पारावारपरंपराः—पारावार** means an ocean**‘पारावारः सरित्पतिः’। अमर.** In mythology the number of oceansis gluen as seven : **क्षीरोदो लवणोदश्च दध्योदश्च घृतोदकः। स्वादकःसुरोदश्च तथैवेक्षुरसोदधिः॥ वायुपुराण. आशा न शान्तास्तव—**supply **भविष्यन्ति.**Thisis a correct observation which can be verified from experience.Satisfaction of desires only sharpens their appetite. of.**न जातु कामः कामानामुपभोगेन शाम्यति। हविषा कृष्णवर्त्मेवभूय एवाभिवर्धते॥आधि–**Mental pain. **‘पुंस्याधिर्मानसी व्यथा।’ अमर. जरा.—**Decay, Decrepitude. The poet addresses the soul which has been subjectedto great mental and physical torture. **क्षेम** n.—Welfare. **रसय्—**To taste. The only means of escaping from the terrible vortexof the world and of attaining real happiness is the devotion ofKṛṣṇa. **शून्यैः किमन्यैः श्रमैः—**i. e. other religious means like the
-
-
 
 performance of sacrifices, ete. These, says the poet, are futile.of.**सर्व धर्मान् परित्यज्य मामेकं शरणं व्रज। अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि माशुचः॥** Bh. G. 18. 66. Here tha **भक्तियोग** is recommended as beingbetter than **कर्मयोग.**
 
@@ -2518,23 +2242,17 @@ performance of sacrifices, ete. These, says the poet, are futile.of.**सर्�
 
 ** **The **अजामिलोपाख्यान** occurs in the sixth **स्कन्ध** of **श्रीमद्भागवत.**
 
-
-
 The story is told in order to glorify the power of the name ofViṣṇu or Nārāyaṇa. The story may be summarised as follows:Ajāmila was a Brahmin living in Kānyakubja. He had become depraved by associating with a slave-girl. He had tensons, the youngest of whom, Nārāyaṇa by name, was verydear to the parents. In course of time Ajamila lay on deathbed, and saw three dreadful looking men-the **यमदूतऽ**. Thereupon he involuntarily cried out to his son Nārāyaṇa. Nosooner did he utter the name Nārāyaṇa than the **विष्णुदूतऽ**hurried up to the spot and intercepted the **यमदtतऽ**whowere trying to snatch away the life of Ajāmila.Then & conversation ensues between the **यमदूतऽ** and**विष्णुदूतऽ.** The **यमदूतऽ**said that Ajāmila deserved to bepunished for his evil deeds; but the**विष्मुदूतऽ**retorted that allsins, no matter how great their number, are destroyed by themere utterance of the name of Viṣṇu or Nārāyaṇa. (Read:**अयं हि कृतनिर्वेशो जन्मकोट्यंहमामपि। यद्व्याजहार विवशो नाम स्वस्त्ययनं हरेः॥एतेनैव ह्यघोनोऽस्य कृतंस्यादघनिष्कृतम्। यदा नारायणायेति जगाद चतुरक्षरम्॥ स्तेनःसुरापो मित्रध्रुग्ब्रह्महागुरुतल्पगः। स्त्रीराजपितृगोहन्ताये च पातकिनोऽपरे। सर्वेषामप्यघवतामिदमेव सुनिष्कृतम्। नामव्याहरणं विष्णो र्यतस्तद्विषया मतिः॥ भा.** V1. 2.7-10.) Ajāmila was released. He felt penitent, went toGangādvāra, and renounced all worldly pleasures; uitimately,after death, he gained himself the divine form of a, **विष्णुपुरुष,**and in an aerial car ascended to the abode of Viṣṇu.
 
 ** सीदन्—**Sinking. pres. p. of **सद् (सीद्). मरु–**A desert. **उपेक्ष्यः—**Worthy to be overlooked. For a parallel idea and more orless the same sort of alliteration as in the first half of thisstanza, read: **मत्स्यादिभिरवतारैरवतारचतावता सदा वसुधाम्। परमेश्वर परिपाल्योभवता भवतापभीनोऽहम्॥**Śankarācārya’s **अष्टपदी.**
 
 ** **Vs. 13.**—विदित्वा—**Having known it in its nakedness; havingknown it through.**दृश्यम्—**The worldly pageant. etc.**—**Oneis almost tempted to read **विषय** etc. **अन्तर्मुद्रां विधाय—**Withdrawingthe eyes from outside and turning them within, cf. Bh. G.6. 13.**विद्रव्य—**Gerund of the causal of **वि+द्रु**to run away.
 
-
-
 **चित्** f.—Consciousness, cognition, Brahman, the First Principle,is **सच्चिदानन्दस्वरूप.** Jagannātha refers to Kṛṣṇa as **चित्** i. e. **चिद्रूप,**for he is identical with Brahman. **नव**etc.**—नवः नभस्यस्य अम्बुदःतद्वत् रुचिः (शोभा) यस्याः। नभस्य—**The month of **भाद्रपद. ‘स्युर्नमस्यप्रौष्ठपदभाद्रभाद्रपदाः समाः।’—अमर**.
 
  Vs. 14.—The poet wants to show that the name of Kṛṣṇais far sweeter than any other sweetness in the whole range ofthe universe. **मृद्वीका—**Grapes. **सिता—**Sugar. **स्फीन—**p. p. of **स्फाय्**to increase **स्वर्** adv.—The heaven. **अधायि—**3rd pers. sing.Aor. pass. of **धे** to drink. **कतिधा—**In how many ways; broadly,how often. **‘संख्याया विधार्थे धा’।**Fān. 5–3–42 **रम्भाघर खण्डितः—**Biting of the lower lip of the beloved betrays the ecstaticamorousness of the lover.
 
  Vs. 15—The poet now shows the greatness and the powerof the name of Kṛṣṇa, **वज्रंं पापमहीभृताम्—**Just as the adamant ofIndra is the deadly enemy of mountains (See notes on Prāstāvi k.Vs. 86), so is the name of Kṛṣṇa to mountains of sins. **भवगदोद्रेक—भवएव गदः(रोगः) तस्य उद्रेकः (आधिक्यम्)।**Acute disease inthe form of worldly existence. **मिथ्याज्ञान** etc.**—मिथ्याज्ञानमेष निशातस्या विशालं च तत्तमः।** The pitchy darkness of the night of IgnoThe position is this: Brahman alone is real; the worldIs illusory **(ब्रह्म सत्यम जगन्मिथ्या)**. Yet in actual experience everyone feels and acts as if the world and its contents are real. Thisis False Knowledge or Nescience. When this Nescience isremoved by the light of knowledge, or as the poet here argues,by Śri Kṛṣṇa, then the individual recognizes the truth. **तिग्मांशुतिग्मा अंशवो यस्य सः** The sharp-rayed one i. e., the sun. **क्रूरक्लेशमहीरुहाम्—कूराश्चतेक्लेशाः, ते एव महीरुहः, तेषाम्।** The trees in the formof painful tortures. **उरूमरज्वालाजटालः—उरुमर** can be linked inthree ways in the context : (i) **उरुः भरःयस्य सः। उरुमरः ज्वालाजटालश्च।**The fire **(शिखि)** blazing with flames and having a wideexpanse. (ii, **उरुणाभरेण युक्ताः ज्वालाः उरुमरज्वालाः (म. प. लो.) ताभिःजटालः—**Raging with mighty flames. (iii)**महीरुहमरस्य(महासमूहस्य) ज्वालाजटालः शिखी—**The fiercely blazing fire to the multi
-
-
 
 tude of trees. Of course, here, the comp. will be**सापेक्ष**. Yetwe can say, with Mallinath on various occasions, **सापेक्षत्वेऽपि गमकत्वात् समासः. निर्वृति—**Happiness, here, Highest Happiness,Beatitude.
 
@@ -2544,15 +2262,11 @@ tude of trees. Of course, here, the comp. will be**सापेक्ष**. Yetw
 
  Vs. 18.**—एव–**To be sure, no doubt. **वासना—**Liking. **ऊर्ध्वाक्षैः—ऊर्ध्वे अक्षिणी येषां तैः।** With their eyes directed upwards. **निजसखम्—निजः सखा, तम्. सखिन** is changed to **सख** at the end of a Tatp. comp.according to the Sūtra **‘राजाहः सखिभ्यष्टच्।’–**Pān 5. 4. 91. **कृष्णाभिधानम्—कृष्ण इत्यभिधानं यस्य तत्.** Named Kṛṣṇa. Cātakas, as iswell known, look up to the clouds for water. An onlooker,
 
-
-
 says the poet, is at once reminded of the divine Kṛṣṇa whose complexion is dark and glossy like the cloud; therefore, he concludes, cātakas which render this service are the birds of his choice!
 
  Vs.19.**—विष्वद्रीच्या—**All–pervading, reaching everywhere.**विष्वक्(सर्वत्र) अच्चति इति.** The word is formed in a peculiar way;**विष्वक** is changed to **विष्वद्रि** before **अञ्च्,** **‘विष्वग्देवयोश्चटेरद्र्यञ्चतावप्रत्यये।’**—Pān. 6. 3. 92. The masc. base becomes **विष्वद्र्यञ्च्**, and the fem**.विष्वद्रीची.** The universe shines through the all–pervading lustre of Viṣṇu. cf. **तमेव भान्तमनुभाति सर्वे तस्य भासा सर्वमिदं विभाति।**Kāthak, 2. 2. 15. **यत्—**Since. **प्रत्ययालम्वनम्—**The support or the substratum of the cognition. **सर्वेषां** etc.—Everyone feels the conviction ‘I’about oneself. Now, what is this ‘I'? To what object does this knowledge of ‘I’refer? Well, this object is the Inner divinity who is Viṣṇu **स्वहृदयगतावेदिनः—स्वहृदयगतं न विदन्ति इति.** Not recognizing Him who resides in their own hearts. Viṣṇu, as the **अन्तर्यामिन्,** isever present in men's hearts. Still, they run about and ask others where Viṣṇu is!
 
  Vs. 20.**—सेवा—**Service, devotion. The reference to Viṣṇu as **लक्ष्मीपति** suggests that this line is addressed to one who seekswealth **(अर्थार्थिन्).** Cf. **चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन। आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ॥** Bh. G. 7. 16. **चिन्ता—**Contemplation.**चक्रायुध—**Viṣṇuwhose weapon is the discus. This word suggests that a man in dangers **(आर्त)** is addressed. The poet assures him that Viṣṇu wields his weapon & he wiĪll surely remove the dangers looming over his protége. **आलापः—**Conversation.**‘स्यात्संभाषणमालापः’—अमर. गाथा—**Derived from the rt.**गै**to sing. Songs, stories. **स्मररिपोः—**Of Śiva. This is the only reference to Siva in this Vilāsa dedicated to Kṛṣṇa or Viṣṇu And it appears somewhat strange at first sight that Jagannātha here recommends the singing of the praises of Śiva and not of Kṛṣṇa. But when it is noted that this line is addressed to & **जिज्ञासु भक्त,**the reference to Śiva transpires to be intentional and justified.
-
-
 
 Tho real knowledge is the knowledge of the Oneness of Existence. The **जिज्ञासु** therefore should not distinguish between **विष्णु**and **शिव** for, ultimately, both are identical with Brahman.**निःर्गलसुखम्—**Ever-lasting happiness, Beatitude. cf. **सुखमक्षय्यम्**(Bn. G 5.21), or **अत्यन्तं सुखम्** (Ibid. 6. 28). This line isobviously addressed to & **ज्ञानी. ‘तथा चरण चतुष्टयेऽर्थाभ्यादिजिज्ञासुज्ञानिकर्तृकाश्चतुर्विधा भक्तयो ध्वन्यन्ते।’अच्युतराय. सेवा, चिन्ता (i. o स्मरण)**and **आलाप (i.e. कीर्तन)** also represent some forms of theninefold **भक्तिः—श्रवणं कीर्तनं विष्णोः स्मरणं पादसेवनम्।अर्चन वंदनंदास्यंसख्यमात्मनिवेदनम्॥**
 
@@ -2560,13 +2274,9 @@ Tho real knowledge is the knowledge of the Oneness of Existence. The **जिज
 
 ** **Vs. 22.**—बन्धे न्मुक्त्यै—**For theremoval of fetters. बन्धstands for the Sansāra**मख—**A sacrifice. **कर्मपाश—**Fetters ofAction. Men perform religious ceremonies**—**Actions**—**with a
 
-
-
 view to getting free from the Sansāra. But how foolish theyare, for Actions, good or bad, are veritable feiters themselves.All Action, good or bad, is bound to bear its fruit. The lawof Action is inexorable. So, by the performance of gooddeeds, surely men may be made happy; but they cannot astainsalvatien from the tantaces of worldly Existence. Cf. **कर्मणाबध्यते जन्तुः।**Also **‘प्लवाएते ह्यदृढा यज्ञरूपा अष्टादशोक्तमवरं येषु कर्म।एतच्छ्रेयो येऽभिनन्दन्ति मूढा जगमृत्युं ते पुनरेवापियन्ति॥’Again, ‘ते तंभुक्त्वा स्वर्गलोकं विशालं क्षीणे पुण्येमर्त्यलोकं विशन्ति॥’एवं त्रयीधर्ममनु**प्रपन्ना गतागतं कामकामा लभन्ते॥Bh. G 9 21 **मुनिशत** etc.**—मुनीनां शतानि तेषां मतेषु अनल्पां चिन्ताम्।**People wish to attain to peaceof mind. This they seek by feverish deliberation (**चिन्ता** alsohints at ‘anxieties,’as opposed to **शान्ति**) over the hundred andone views of sages !! cf.**श्रुतिर्विभिन्न मृतयोऽपि भिन्ना नैकोमुनिर्यस्य वचःप्रमाणम्।धर्मस्य तत्त्वं निहितं गुहायां** etc. **अशुभजलधिः—**The ocean of Evil.People wants to cross the ocean of Evil, but for the sake of thisthey drown themselves in holy waters! **प्राभादिकम्—**Broughtabout by mistakes or ignorance. **प्रमादेन निर्वृत्तम् प्रामादिकम्।—**The**प्रमाद** lies in the incompatibility of means employed with the endin view. Mark the contrast between **मुक्ति** and **पाश, शान्ति** and**चिन्ता** and **पारमारोढुकामत्व** and **मज्जन.**
 
 ** **Vs. 23.**—प्रथमं चुम्बितचरणा** etc—The proper method of contemplating a divinity is to begin with the contemplation ofthe feet and then rise higher up to the various limbs, cf. **संचिन्तयेद्भगवतश्चरणारविन्दम्** etc.—Bhag. This method is obviously basedon a high sense of reverence, and is also adopted in the description of divine beings. For instance, Kālidāsa begins the description of Pārvatīwith the description of her toes–for whichvide Kumar. 1–33, p. p. Also note Mallināthās observationthereon : **देवतानां रूपं पादाङ्गुष्ठप्रभूति वर्ण्यते मानुषाणां केदाशारभ्येति धार्मिकाः।भावना—**Cotemplative action **जङ्घा** etc.**—**Pāṇini’s rules demandthe Neu. gender and sing. number of a compound of wordsdenoting the limbs of an ‘animal’.**‘द्वन्द्वश्च प्राणितूर्यसेनाङ्गानाम्’।—**Pān. 2–4–2. But as **अच्युतराय** the commentator argues,
-
-
 
 Viṣṇu is surely not an animal–He is the One Brahman. Hencethis rule of Pāṇini does not apply here.
 
@@ -2576,8 +2286,6 @@ Viṣṇu is surely not an animal–He is the One Brahman. Hencethis rule of Pā
 
  Vs26**—पतिपलम्—पले पले.**Adv. Comp. Every moment**किमिति** etc.—The reply is given by Bhart. : **दृष्ट्वा जन्म जराविपत्तिमरणंत्रासश्च नोत्पद्यते पीत्वा मोहमयीं प्रमादमदिरामुन्मत्तभूनं जगत्॥** (3.7.) Whenlife is so precarious, and the ultimate end of life is death, surelyrational beings should feel alarmed and bestir themselvesto work out their salvation instead of blindly enjoying  
 worldly objects.
-
-
 
  Vs. 27.**—कृपण—**A sword. **कृतान्तः—**God of death, Yama.**मनाक्—**even slightly. In passionate words, the poet assertsthat he would rather court poverty, physical harm, or evendeath, but he would never swerve even slightly from his duties.
 
@@ -2589,8 +2297,6 @@ worldly objects.
 
  Vs. 31.**—निःशङ्कम्—**Adv. comp. Fearlessly. **वयसः शेषे—**fag-end of life. **निकटे** etc.—It is believed that death on the bankof the Ganges leads directly to absolution. The reference isprobably to **काशी. काशी** is known as **मुक्तिपुरी.**Hence, the approachof death on the banks of the Ganges will only be a blessing in disguise. If this verse is understood to be autobio-
 
-
-
 graphical, it will go to show that that poet Jagannātha passedhis last days in Benares on the banks of the divine Ganges.But see vs. 45 below.
 
  Vs. 32.—धावं धावम्—धावित्वा धावित्वा. By continually runningabout. It is a Gerund in **णमुल्. मम शिरसि अस्ति—**Almost a vernacular phrase. Kṛṣṇa is over my head i. e. he is there superintending or looking after me. The verse expresses an alti udeof Resignation unto the protest on of Kṛṣṇa who, the poet believes, will surely pilot his protége safely to his Haven.
@@ -2601,15 +2307,11 @@ graphical, it will go to show that that poet Jagannātha passedhis last days in 
 
  Vs. 35–The idea is much the same as in the last verse: Onseeing Rāma from afar, the Ṛṣis wondered what that darkglistening thing was! **तरणितनय—**The Jumna. The water of the
 
-
-
 Jumna is believed to be darkish in colour as against the whiteness of the water of the Ganges. It could not be the Jumnafor the Jumna is full of water, while the object which the Ṛṣissaw from a distance had none. **ज्योत्स्ना—**Literally, moonlight;here pleasant lustre. **सा मधुरा कुतः—**The lustre of emeralds is notso ‘sweet’—so appealing to the heart. **छाया—Splendour.‘छायासूर्यप्रियां कान्तिः।’–अमर कौतुकम्—**Curiosity. **वनवसतिभिः—वने वसतिर्येषां तैः,** By forest—dwellers.
 
  Vs. 36.**—चपला–**Lightning. **तरुमुख—**The best among trees,i. e., the celestial tree. When Hanumān crossed the ocean andfirst sighted Sīta in the Aśoka garden of Rāvaṇa, he wasdeluded by her lustrous form as to whether what he sawwas lightning fallen on earth or a celestial creeper droppedfrom the celestiel tree. **गुरुनिःश्वसितैः—**By the heavy sighs.Sītā was separated from Rāma and was therefore heaving deepsighs through sorrow. This enabled Hanuman to decide whatexactly she was. **मनीषी—**Intelligent, wise. **निरणैषीत्—**3 pers. sing.Aor. of **निस्+नी**, to decide. From her sighs, the Monkey concluded that she was a woman separated from her lovinghusband.
 
  V3.37.**–भूतिः–**prosperity. दारिद्र्यकोलाहलः–Bickering or moaningsbrought about by poverty. of. **(लक्ष्मीः) सरस्वतीपरिगृहीतमीर्ष्ययेवनालिङ्गतिजनम्।** Kād. Brahmins, the custodians of learning, are proverbiallypoor. Learning and wealth seldom go together-most surelynot in a Brahmin. The following verse offers an ingeniousexplanation why Laxmīavoids the Brahmins: **पीनोऽगस्त्येनततश्चरणतलहतो वल्लभोऽन्येन रोषादाबाल्याद्विप्रवर्यैः स्ववदनविवरे धार्यते वैरिणी मे।गेहूं मे छेदयन्ति प्रतिदिवसमुमाकान्तपूजानिमित्तं तस्मात् खिन्ना सदाहं द्विजवरसदनंनाथ नित्यं त्यजामि॥ असत्पथजुषाम्—सनां पन्थाः सत्पथः न सत्पथ; असत्पथः,जुषन्ति इति ०जुषः, तेषाम्.** Of those who resort to the path of Evil,wicked men **समानां शतम्—**A hundred years **समा** is generallydeclined in the plaral. cf. **आपः सुमनसो वर्षा अप्सरः सिकतासमाः। एतेस्त्रियां बहुत्वेस्युरेकत्वेऽप्युत्तरत्रिकम्॥ नाशो इन्त** etc.—Good men dieprematurely, while villains enjoy a good old age. cf. **सृजति**
-
-
 
 **तावदशेषगुणाकरं पुरुषरत्नमकरणं भुवः। तदपि तत्क्षणभङ्गिकरोतिचेदहह कष्टमपण्डितता विधेः॥**Bhar. 1. 9. **दुर्नीति—**Wicked policy; perversemanagement. **कोपदहन** etc.**—कोपएव दहनः, तस्य ज्वालाभिर्जटालः—**Flaming with the fire of anger. For the formation of the word**जटाल** see Prāstavik. 35. **किं कुर्वे**etc.—The poet, of course, refersto the flagrant ironies of life. But he is painfully conscious ofhis own helplessness and insignificance; otherwise, it seems.hewould have taught **जगदीश**how to mend His ways!
 
@@ -2617,15 +2319,11 @@ Jumna is believed to be darkish in colour as against the whiteness of the water 
 
 **रत्नासानुः—**The Menu mountain, the furthest Northerly outpost known to Indian mythology. **मलयवलयित—मलयेन वलयितः(संजातवलयः)** Fringed by the Malaya mountain. The **मलय** is inthe South. ‘The sea-shore bounded by the Malaya’is herelooked upon as the southermost limit of India. **आमूलात्–आ चकूलात्—**From the foot of the Menu mountain down to the seashore in the South, **आ (आङ्)** is a **कर्मप्रवचनीय** and governs the the Ablative.**‘पञ्चम्पाङ्परिभिः—’**Pān. 2. 3. 10. It means either(i) ‘beginning from,’or (ii) ‘up to’.**काव्यप्रणयनपटव—काव्यानां**
 
-
-
 **प्रणयने (निर्माण) पटवः—**clever in composing poems. **मृद्वीकामध्य** etc.–**मृद्वीकायाः (द्राक्षायाः) मध्यात् निर्यन् (निःस्त्रवन्) यो मसृणः (कोमलः) रसः,तस्य झरी (प्रवाहः), तस्याः माधुर्याःभाग्यं (सुभगत्वमनिशयं वा) भजन्तीति°भाजः, तासां.** The whole phrase is in apposition to **वाचाम्–**wordswhich are as exceedingly sweet as the juice flowing from theinterior of grapes. **वाचामाचार्यता—**Mastery over speech. In thisstanza, the poet singles out **माधुर्य**as the outstanding quality ofhis poetry. As for what **माधुर्य**is and how far Jegannātha’s.claim is sustained by his poems, see the Introduction.
 
  Vs. 39.**—गिरां देवी—**The goddess of speech i. e. **सरस्वती. वीणा**etc.**—वीणायाः गुणानां (तन्त्रीणाम्) रणने (वादने) हीनादरः करो यस्याः सा.**Sarasvati is represented as holding a **वीणा** in one of her hands.cf. **वीणापुस्तकधारिणीमभयदां जाड्यान्धकारापहाम्।** etc. **यदीयानाम्** etc.—Jagannātha, boldly asserts that Sarasvati is so much attractedby the sweetness of his poetry that she leaves playing upon theVīņā aside and enjoys his (Jagannatha’s) poetry. **पण्डितपतेः—**Of Jagannātha. However much out of good taste it may beto mention one’s greatness, here, at least, Jagannātha may beexcused the use of the word **पण्डितपति**about himself, for he maybe referring to the title**‘पण्डितरााज’**which he had received fromthe Emperor Shaha Jehan. **अधुन्वन्—नधुन्वन्.धुन्वन्—**Pres. P. of**धु** 5 con., to shake, to nod. The shaking ofthe head indicatesthe appreciation of good qualities, e. g., of music, poems, etc.cf. **आकर्ण्य भूपाल यशस्त्वदीयं विधूनयनन्तीह न के शिरांसि। विश्वभरामङ्गभयेनधात्रा नाकारि कर्णो भुजगेश्वरस्य॥ नृपशुः—ना एव पशुः** A human beast.**पशुपतिः—**God Śiva, so called because he is the lord of all createdbeings. cf. **पशूनां पतये नमः।**—Y j. veda, **(शतरुद्रीयाध्याय).**Thesweetness of Jagannātha’s poems is, as the poet claims, sopronounced that only beasts which have no aesthetic sensibility,and Paśupati, i. e., any one who has transcended worldlyattractions, cannot, or would not appreciate it. cf. a **सुभाषितेनगीतेन युवतीनां च लीलया। यस्य नो द्रवते चित्तं स वै मुक्तोऽथवा पशुः॥**
 
 ** **Vs. 40.—Jagannātha addresses his own Genius of speech.**अनादरः—**Denunciation, Disparagement **मात्सर्य—**Jealousy. **खला-**
-
-
 
 **माम्—**Mark how the poet speaks of those who discount theworth of his poetry. **काव्यारविन्द** etc.**—काव्यान्येव अरविन्दानि तेषांमकरन्दे मधुव्रताइव मधुव्रताः.**Who are as fond of the **रसऽ**of poemsas bees are of the juice of lotus–lowers. **धास्यसितमाम्–अतिशयेनधास्यसि.कति.—**How many. It is Acc. plu. Compare Vs. 8 of thePrāstāvikavilāsa.
 
@@ -2635,15 +2333,11 @@ Vs. 41**—माक्षात्—**Inperson, itself. **वामा—**A v
 
  Vs. 42.**—मार्मिकः—मर्म जानातीति मार्मिकः.**One who knows thesecret. **अत्यन्तपाक** etc.**—अत्यन्तं णकेन (परिणत्या) द्रवन्त्याः मृद्वीकायाःमधुमाधुरीमदः (मधुनः माधुर्येण जनितो मदः), तस्य परीहारे (निरसनकर्मणि)उद्धुराः(समर्थाः), तासाम्।** The whole phrase is in apposition to**चाचाम्.** The idea is essentially the same as that in the third pādaof Vs. 38. **परीहार—**the **इ** in **परि** is lengthened according to theSūtra **उपसर्गस्य घञ्यमनुष्ये बहुलम्।—**Pān. 6. 3. 122. **उद्धुर—**Lit., Onewho has thrown off the yoke; hence, bold enough, powerfulenough. **संमुखे मादृशाम्—**In the presence of men like me.Note
 
-
-
 the standard which Jagannātha sets for all aspirants forrecognition as poets to conform to. Moreover, this verseshows that in the opinion of Jagannātha a poetic composition,whatever its other qualities, must needs possess **माधुर्य. स्वान्तम्—**the heart. **नो चेत्**etc.—A poem wanting in **माधुर्य**does not deservea recital in the presence of poets like Jagannātha! Fortunately,such a‘highbrow’attitude is not shared by many; otherwise the number of mute Miltons would swell–to the detriment, in the last analysis, of the Muse of poetry herself.contrast Jagannātha’s characteristic words **किं सेव्यते सुमनसांमनसाऽपि गन्धः कस्तूरिका जननशक्तिभूतामृगेण।** (R. G.) with the moresensible view of Jayadeva: **अपि मुदमुपयन्तो वाग्विलासैः स्वकीयैःपरभणितिषु तोषं यान्ति सन्तः कियन्तः। निजघनमकरदस्यन्दपूर्णालवालः कलशसलिलसेकं नेहते किं रसालः॥** Pra. R. 1. 19.
 
  Vs. 43**—वाचंयमाः—**Studiously restrain their tongue, **वाचंयम** isused only when the sense of a vowis to beconveyed; otherw se **वाग्यम**is used. Does not this line apply toJagannātha himself? His complaint may well be met by the‘Tu quoque’argument, in the light of the last verse. **कमलाविलास** etc.**—कमलायाः (लक्ष्म्याः) विलासाः एव मदिरा, तया उन्मीलन् (उद्भवन्)यो मदः तेन घूर्णिताः (पर्याकुलिताः)** Kings are mad with the intoxication of wine in the form of dalliance with Laxmi (or gracefulmovements of Laxmī). For the idea, compare: **बोद्धरो मत्सरग्रस्ताःप्रभवः स्मयदूषिताः। अबोधोपहनाश्चान्ये जीर्णमङ्गेसुभाषितम्॥** Bhart. 3. 2.**लस्यम्—**Gentle dance. There are two varieties of dance—one,wild and boisterous, is called **ताण्डव,** and the other, mild andgentle, is called **लास्य,** Compare : **मधुरोद्धतभेदेन तद् द्वयं (नृत्यand नृत्त)द्विविधं पुनः। लास्यताण्डवरुपेण नाटकाद्युपकारकम्।**D R. 1. 10. **कामालस** etc.**—कामेन अलसा या स्वर्वामा तस्या अधरस्य माधुरी.** The sweetness of thelower lip of a heavenly damsel who is slothful through theinfluence of love. **अधरय्—**Pres. p. of the Denominative verbfrom **अधर,** low. **अधरय्—**to lower, to throw into the back-ground.**विपाकः—**Maturation.
 
  Ve. 44. **—धुर्य—**Outstanding; excellent **धुरं वहतीति धुर्यः, ‘धुरो**
-
-
 
 **यड्ठकौ’** (Pān. 4 4. 77.) **इति यत्.** Note the alliteration in thefirst half of the verse. **माक्षिकम्—**Honey.
 
@@ -2653,12 +2347,9 @@ the standard which Jagannātha sets for all aspirants forrecognition as poets to
 
 ![](../books_images/U-IMG-1725599297090106-removebg-preview.png)
 
-
-
 **APPENDIX**
 
  Below are given the first lines of the versescontained in the Prâstâvika and the Śânta, Vilâsasin the alphabetical order. Against each verse ismentioned the page on which it is found.  
-
 
 |                     |                      |
 |---------------------|----------------------|
@@ -2685,15 +2376,6 @@ the standard which Jagannātha sets for all aspirants forrecognition as poets to
 | आलिङ्गितोऽपि        | गाहितमखिलं विपिनं    |
 | इयां संपत्तावपि     | गिरयो गुरवस्तेभ्यो   |
 | उपकारमेव तनुते      | गिरां देवी वीणागुण   |
-
-
-
-
-
-
-
-
-
 
 |                         |                          |
 |-------------------------|--------------------------|
@@ -2727,8 +2409,6 @@ the standard which Jagannātha sets for all aspirants forrecognition as poets to
 | धूमायिता दश दिशो        | प्रारम्भे कुसुमाकरस्य    |
 | न यत्र स्थेमानं         | बन्धोन्मुक्त्यै खलु      |
 
-
-
 |                             |                              |
 |-----------------------------|------------------------------|
 | भवग्रीष्मप्रौढातप           | वदने विनिवेशिता भुजङ्गी      |
@@ -2761,8 +2441,6 @@ the standard which Jagannātha sets for all aspirants forrecognition as poets to
 | लूनं मत्तगजैः कियत्         | साकं ग्रावगणैर्लुठन्ति       |
 | वज्र पापमहीभृतां            | सेवायां यदि साभिलाषमसि       |
 
-
-
 |                             |                        |
 |-----------------------------|------------------------|
 | सौरम्यं भुवनत्रयेऽपि विदितं | स्वस्वव्यावृतिमग्न     |
@@ -2773,35 +2451,11 @@ the standard which Jagannātha sets for all aspirants forrecognition as poets to
 
 **\_\_\_\_\_\_**
 
-
-
 |                                                 |
 |-------------------------------------------------|
 | ![](../books_images/U-IMG-1725447434090105.png) |
 
 # 
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
 

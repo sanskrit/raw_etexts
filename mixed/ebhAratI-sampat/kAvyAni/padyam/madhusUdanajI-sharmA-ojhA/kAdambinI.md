@@ -17,33 +17,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE0NTM4MDAxNjY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
 
 **INTRODUCTION**
 
  No scientist had ever the time to have a close look at the Vedas, Brāhmaṇas and Upaniṣads and understand in his own way what they are all about. No existing interpretations except those of Madhusūdan Ojha (of which most scholars are unaware) will convince him simply because they have never gone deep into the basic concepts which the Aryans had on Nature and her working, which alone will enable one to build up a logical picture of their culture, rituals, concepts, habits and beliefs. Actually the interpreters broadly fall into two main categories. The first one constitutes those who refuse to question the authority of the Vedas and take for granted whatever is said in them and the supporting literature like Brāhmaṇas, Upaniṣads etc. The second type could not accept the above position and at the same time could not discover the logic in many of the statements found in the Vedas and Brāhmaṇas. They therefore came to the conclusion that many of these statements are myths or stories and have no logical or factual basis Some of the scholars belonging to the first type have tried to find some reasoning in many Vedic statements but they have in our opinion miserably failed to find convincing explanation to many of the statements simply because they could not master the entire literature and connect up the passages properly in a coherent way The physical phenomena on the earth or in the atmosphere or the astronomical phenomena in the heavens described in their own way by the Maharṣis and couched in symbolic language could not be resolved by them. The technical words occuring in large numbers in the Vedic and Brāhmaṇic passages have posed the greatest challenge to the interpreters and it is here that no two interpretations agreed, The result has been that many passages were interpreted differently by different scholars. The Vedic Gods, for example as conceived by the Vedic seers are essentially forces of Nature taking part in the creation and maintenance of the universe But the symbolic language used by them as well as the glorification of these forces have misled many interpreters who could not understand their nature correctly. The authors of the six systems of philosophy based their theories on the authority of the Vedas but their conclusions differed from each other, thereby implying that the message of the Vedas can take divergent directions. Sankara, Ramānuja and Madhvācārya interpreted the Vedas Brāhmaṇas and Upaniṣads in their own way and arrived at divergent conclusions. This manoeuverability in the interpretations in course of time led to some serious consequences. For example *Rudra* and *Viṣṇu* which represent physical forces having complimentary functions in the creative process became gods of differing importance *Rudra* (Indra) represents Agni and *Visņu* represents the force that constantly feeds Agni with food (Soma) and promotes the creative process (Yajña). It is unfortunate that incorrect interpretation of these have led to the division of a single society into various factions which certainly was
-
-
 
 not the intention of the Vedic seers. If only the post-Vedic priests bad the same spirit of enquiry of the Vedic seers and their earnestness to understand the various processes in Nature in order to derive maximum benefits from her wealth, things would have been far different and there would have been greater chances of development of scientific thinking during the post-Vedic period and several views and concepts of the Vedio seers would have been confirmed ormodified on the strength of more and more factual observations. It may be surprising to many that according to the Vedic seers the word '*Vedavit*' (knower of Veda) really refers to one who is conversant with many of the intelligentprocesses in Nature leading to constructive creation.In the absence of such anunderstanding, interpretation of Vedic passages underwent many ramifications with the result that today we have before us a huge mass of heterogeneous literaturerepresenting many schools of interpretation of Vedic passages. It is not out of place to briefly enumerate here the reasons for this state of affairs:
 
@@ -58,8 +38,6 @@ not the intention of the Vedic seers. If only the post-Vedic priests bad the sam
  5. The arthavāda portion of the Brāhmaṇas invariably contain critical information for the proper understanding of the Vedio passages. These have been by and large neglected by most of the scholars.
 
  It is in the above context one has to view the contributions of Madhusudan Ojha. Here was a scholar who practically spent his entire life in Vedic research and in the process not only acquired encyclopaedical knowledge of theentire cross section of ancient sanskrit literature but also gave us real insight into Vedic wisdom. His writings cover a wide range of subjects, which can be broadly classified under four heads. viz., 1.Brahma Vijñāna 2.Yajña Vijñāna 3.Itihāsa and 4. Reviews (Samıkṣā) on specialised topics. It is most unfortunate that many of his writings have been lost to us. His exposition of the Bhagavad Gita is a very rare contribution to the understanding of the many secrets hidden in that
-
-
 
 work. In our opinion, after Veda-Vyāsa and the authors of treatises (Samhita) nobody knew more about the real meanings of Vedio passages than Madhusudan Ojha. It is unfortunate that many scholars do not realise this fact simply because his approach to the understanding of Vedicpassages differs considerably from the one adopted by most of the scholars and therefore nobody has really taken pains to study his works in detail. It is not our least intention to say that what all Ojha said are convincing. There are interpretations by him which are difficult to get convinced For example Ojha has taken great pains to show that the Vedic seers did know that the earth is moving round the sun. If we carefully go through his quotations and arguments it is very difficult to get convinced of his explanations. But with all that, today his interpretations of the contents of the Vedas, Brahmaṇas and Upaniṣads and associated literature are the only ones most helpful in the correct understanding of Vedio wisdom. Especially for a scientist familier with ancient sanskrit literature, Ojha's contributions are the most helpful for getting a real insight into the wealth of knowledge possesed by the Vedic seers.
 
@@ -79,10 +57,6 @@ work. In our opinion, after Veda-Vyāsa and the authors of treatises (Samhita) n
 | 5      | प्रासङ्गिकाधिकारः              | 5        | लक्षणाधिकारः (प्रसवाधिकारः)    |
 | 6      | इन्द्रवृत्रसंग्रामाधिकारः      | 6        | प्रतिगत्यधिकारः (उपपस्यधिकारः) |
 
-
-
-
-
  It is the second part that has taken the final shape as Kādambini, for which, the present article is expected to form the introduction. As Ojha himself explains in his beautiful introduction to this work in Hindi, Kadambini means a line of clouds (Meghamālā). It is only through clouds we can understand the sky conditions and forecast rainfall. These clouds reveal the activity of wind heat, moisture etc in their formation (cf. धूमज्योतिःस्सलिलमरुतां संनिपातः क्व मेघः' Kālidāsa). In this work Ojha has collected and presented in an orderly way what all our ancients knew about the nature and prediction of rainfall. True to the statement of Varāhamihira in his Bṛhatsambitā viz.,
 
 **अन्नं जगतः प्राणः प्रावृट्कालस्यचान्नमायत्तम्।  
@@ -94,15 +68,11 @@ the Vedic seers and post-Vedic scholars were very keen investgators of the monso
 
  The very first stage of civilisation in man was marked by his efforts to understand his surroundings and to make use of their benificial aspects His first attempt in this direction was to produce food making good use of the available rainfall in the region. Though initially extreme phenomena like heavy rains, winds, cold and hot spells, droughts, floods, etc. appeared to him incomprehensible and hostile, he gradually tried to sort out the seasonal character of the rainfall and associated phenomena and started planning his agricultural operations accordingly Thus began in a oruđe way the development of weather science all over the world.
 
-
-
  In India, further development of this subject commenced in the early Rgvedic period. Starting from simple concepts based on keen observations of local weather. the subject developed rapidly, especially during the post-Vedic period in which the scholars acquired considerable skill in not only understanding weather phenomena in their own way, but also in formulating many rules for forecasting rainfall both on the long range and short range after collecting large number of observations. Due to the important role that monsoon played on production of food, considerable efforts were made to understand and predict the vagaries of the monsoon. The subject was particularly learnt with great interest in regions which were frequently affected by droughts like Rajasthan and Gujarat.
 
 **THE YAJNA CONCEPT OF THE ARYANS**
 
  Veda Vidya has two important components. One is Brahma Vidyā and the other Yajña Vidyā. While Brahma Vidyā is concerned with the origin (*Mūlakāraṇa*) of the universe, Yaiña Vidyā is concerned with the manifestation of the universe and the various processes through which the living beings come into existence and are sustained The Aryans as keen observers of Nature saw the sun, the prime life giver on earth and the stars appearing on the firmament moving systematically without change in their lustre. They also saw the moon with its waxing and waning phases moving with respect to the stars and completing one full round of the sky in about a month. They contrasted their ephemeral existence and their stages of growth and decay with the unchanging nature of the sun and the stars and attributed some type of immortality (*amṛtatva*) to the celestial bodies as opposed to their own mortal nature. They understood the power of time measured in terms of the apparent motion of the sun, planets and the stars in the sky, the seasons and their attendant features coming in an orderly fashion as well as their cvcles. The importance of fire (Agni) was recognised by them and they worshipped it as their principal God in three forms *viz*.. Agni on the earth (*Pārthivāgni*), the Agni of the middle region (*Āntarikṣyāgni*) playing an important role in rainfall / thunderstorm and associated phenomena of the atmosphere and the Sun God (*Divyāgni*) in the heavens above. It did not take much time for the Vedic ṛsis to realise that the orderly functioning of the Sun God and the Gods responsible for the atmospheric phenomena, especially rainfall was very essential for their very existence and then their prosperity. From a stage of merely offering prayers they passed on to the next one of speculating about the origin of the solar system and of life on earth. In these speculations they struck at one important concept namely that the sun and the stars should be constantly fed with some food which is of divine origin and which maintains their brightness and therefore is responsible for their being immortal. The yaiña concept of the Aryans has its origin in this principle of feeding of Agni with food (Soma). (अग्नौ सोमाहुतिर्यज्ञः) (i.e, the effering of Soma
-
-
 
 în Agni is ‘yajña' is perhaps the best definition of yajña. According to the Vedic seers the entire universe is created and sustained on the Agni Soma interaction principle. Agni is referred to as annāda (eater of food) and Soma as anna (food) (सोमो वै अन्नं अग्निरन्नादः।) In the Vedas, the milky way in the high heavens was identified with Soma 2 and is called ‘*Soma dhārā*’, the stream of Soma, It is this white substance encompassing the upper heavens which serves as food to the burning stars and the sun and makes them shine 3. They recognised a three fold existence for Soma *viz*., 1. Soma dhārā (milky way in the heavens), 2. Soma the moon and 3. Soma juice which is extracted from the Soma plant. A careful study of relevant passages in the Vedas reveals that the latter two are only replicas (*pratikṛti*) of the soma substance which forms food for Agni; as a result of which creation proceeds. Agni and soma exist initially in the shapeless form (*rta*) and when a centre of creation appears, ta soma feeds ṛta agni and an object of creation comes into existence which is termed ‘*Satya*. that is having a definite shape as opposed to the shapeless rta state. In fact whether it is the birth of the solar system or the occurrence of seasons and rainfall, or the birth of the child or plant. the process at work is vajña in which a substance of the soma category is absorbed or consumed by or intercourse with a substance of the agni category. This has been a basic and important concept that runs through the entire Vedic Brāhmaṇic and Upaniṣadic literature. The sum and substance of this concept is contained in the Gita verse,
 
@@ -114,8 +84,6 @@ the Vedic seers and post-Vedic scholars were very keen investgators of the monso
  The very first cosmio yajña was conceived to have been performed by Prajāpati himself who created all things out of himself. Thus the yajña ritual became the first sacred act of the Devas 4 and then also for men on earth who professed to perform the ritual exactly in the same way as was done by the Devas. *Yajna vidyā*, *Sṛṣti vidyā* and *Veda vidyā* are all synonymous.
 
  The Agni-Soma concept is further elaborated in the structure of the four lokas. Using the ahargaṇa unit of the Vedas and Brāhmaṇas, from the surface of the earth upto the nineth ahargaṇa constitutes the Agniloka, in which region *Pārtkivāgni* prevails. From 9th to 15th ahargaṇa is the region of *Vāyuloka* or *Antaribṣa*. Here Agni is in the rta from and all the atmospheric processes, the chief of which is rainfall take place in this region. From 15th to 21st ahargaṇa is the *Adityaloka* or *Dyan*, the sun being located at the 21st ahargaņa. From 21st to 33rd ahargaṇa is *Apoloka* (the region of primordial waters). It is the region where the some substance prevails and is stratified into two layers. From
-
-
 
 21st to 27th ahargana is the *Parameṣthi* region containing *Pavitra* soma or unpolluted soma and from 27th to 33rd ahargana is *Vāruṇa* soma which is *dūṣita* soma or polluted soma. The pollution is conceived to be due to āsura (evil) forces as opposed to divine forces present in the Paramesthi region It is the feeding of the *Parameṣṭhi* soma that sustains the sun and gives it brightness. It is this soma that the brāhmaṇas were after, in order to attain immortality.
 
@@ -130,8 +98,6 @@ Yajña produces rain and rain produces food'
 
 **अग्नौ व्रास्तहुतिस्सम्यगादि समुपतिष्ठते। आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः॥**
 
-
-
 “An offering made properly to Agni reaches the sun and urges on him to produce rain. Rain produces food and food the living beings”
 
  The Samvatsara yajña (the birth of solar system) which contains in itself the occurrence of day and night, the waxing and waning periods of the moon (*sukla pakṣa and kṛṣṇa pakṣa*), the occurrence of the seasons (hot, rainy and cold) so important for the birth of life the production of food and the annual cycle of apparent motion of the sun in the celestial background were all inividually propitiated for ensuring their beneficial effects and avoiding their evil effects. In every one of the rituals like *Darsapūrṇmāseṣti*, *Cāturmāsyeṣtis*etc. appeal to rain gods for prosperity was very prominent ओ श्रावय, अस्तु औषट् यज ये यजामहे वौषट् which were uttered by the priests before making the offering to the gods was a direct appeal to them for rains (the Devas produced the easterly winds by uttering ‘*O Śrāvaya*’ They brought the clouds by uttering ‘*astu śrouṣat*’. They produced lightning by uttering ‘yaja' and thunder by uttering ‘*ye ynjamahe*' when they said '*vouṣat*' the rains fell. 9 Special rituals (like kārīrīṣṭi) were also performed when there was drought. In the soma yāga the omentum of the goat is smeared with ghee and is held in the fire with two sticks The following passage in Satapatha Brāhmaṇa is relevant here. (We give below only the translation of Eggeling)
@@ -143,8 +109,6 @@ Yajña produces rain and rain produces food'
  In fact it will not be unreasonable if one infers that the omentum when it is spread and held over the fire represents the overcast sky and the drippings the rain There are many sūktas in Ṛgveda in which the *ṛsis* earnestly appeal to the rain gods for rains and most of these have applications in the various rituals. The nineth mandala of Ṛgveda deals mostly with the preparation of the soma juice. If one goes through the rks carefully one cannot escape seeing in them a demonstration of the rainfall phenomenon where the soma particles capable of producing life on earth come down after mixing with rain water.
 
  There is another aspect of the yajña cult which deserves our attention.It was believed by the Vedic seers that the phenomens of the stmaepherenamely
-
-
 
 seasons.winds, rainfall etc., giving rise to life on earth, is the result of the ‘*pravargya*’ (oozed out) portion or '*ucchiṣṭa*' portion of the sacrifice in the heavens performed by Prajapati, which means a constant loss of yajña retas (semen)of Prajapati In order to compensate for this loss (*kṣatipūraṇa*), sacrifices are performed in which the performer attuning himself mentally to the cosmic yajña gives his respectful offerings to the Gods and imagines that he puts back into the atmosphere whatever is lost by Prajāpati through the atmosphere. By this take and give process, the yajña cycle of the universe is imagined to be maintained. The following statements of Gital support the above idea:
 
@@ -160,8 +124,6 @@ seasons.winds, rainfall etc., giving rise to life on earth, is the result of the
 **ORIGIN OF THE PRIMORDIAL WATERS (ĀPAH)**
 
  The soma substance which plays a vital role in the appearanes of life on earth represents one stage in the transformations undergone by the primordia
-
-
 
 waters in the creation process. Therefore it is useful here to explain a little the Vedic view of the origin of these waters. According to this view, Prajāpati He alone was there created and brought into existence this observed cosmos. in the beginning and had two parts one is the mortal part and the other is the immortal one. This is evident from the followingBrāhmaṇa statements:
 
@@ -181,8 +143,6 @@ waters in the creation process. Therefore it is useful here to explain a little 
 ‘With a desire to create various living beings, Prajāpati meditated and produced waters first from his own body and in them he laid the seed.
 
 These waters are in the *ṛta* state and have two components viz *Bhṛgu* and *Angiras*The *Bhṛgu* component has three states.In the dense state it constitutes Āpah, In the fluid state it constitutes Vayu and in the finest state it constitutes Soma.
-
-
 
 Whereas the waters in the *Parameṣthi* region are called 'ambhah' they are called '*mara*' when they finally reach the earth through the souramandala. According to this view, therfore the waters available on the ground are linked to primordial waters of the Parameṣthi region. During the descent from the souramandala, they get attracted towards the Candramandala and it is for this reason the moon is called ‘*Soma pinda*’, ‘*ap pinda*’ etc. The waters reaching the earth again go up in the form of vapour due to the sun's heat and stay in the atmosphere for some time. They come down later as rain when conditions are favourable for the same.
 
@@ -205,8 +165,6 @@ Whereas the waters in the *Parameṣthi* region are called 'ambhah' they are cal
 **कृष्णं नियानं हरयः सुपर्णाः अपो वसाना दिषमुत्पतन्ति।  
 त आवृत्रन्त्ससदनाहतस्यादिद्घृतेन पृथिवी व्युद्यते॥²⁰**
 
-
-
 **समानमेतदुदकमुच्चैत्यत्र चाहभिः। भूमिं पर्जन्या जिन्वन्ति दिवं जिन्वन्त्यग्नयः॥²¹**
 
  1. The rays of the sun hold for six months the waters capable of fertilising the earth, pervading the sky and wait for performing their duty (of drenching the earth with showers).”
@@ -218,8 +176,6 @@ Whereas the waters in the *Parameṣthi* region are called 'ambhah' they are cal
  3 “The waters go upward and come downward in the same measure during periods (of the respective seasons) Agni takes the waters to heavens and Parjanya brings them down as rain."
 
  One of the important aspects of rainfall which struck the Vedic seers living in extreme north west India and adjoining regions, was its occurrence during a restricted period of about two months in the same part of the year every time To explain this seasonal occurrence, they imagined that the sun's rays aborb the water from below and a certain period is required for the rays to get fullycharged with water, at the end of which they deliver the rains to the earth. This period is mentioned as about half a year or six months. The reason for the choice of six months will be clear later, when we deal with the developmentsduring the post-vedic period. The second rk does provide some clue for this. It goes into the source of this water. The Aryans living in extreme northwest India and quite familiar with the land mass located in the north were also aware that on the southern side there is a vast oceanic region providing ample scope for absorption of water by sun's rays whenever he moves to the south. They imagined that agni in the ṛta form is located in the south and always movingtowards the north. On the analogy of snow present in the northen latitudes they imagined soma to be present in the north and always moving to the south.This corresponds to agni moving up and soma coming down in the vertical. There is a constant confrontation between the two and the seasons are produced as a result of either of the two asserting over the other The dark path that is referred to here is the southward position of the sun The ṛta sadana here refers to the abode of ṛta that is Himalayas near which the sun attains his northernmost position. That is the position when the sun turns back his rays and retraces his path. With this background if we examine the second *rk*, it probably suggests that humid air moving northwards gets deflected near the foot of the Himalayas and pours down rain and drenches the earth. It is interesting to note here that there is a verse in Ramayana (Ayodhyakanda) which is almost a replica of this ṛk. It is
-
-
 
 **उदग्गत्वाभ्युपावृत्ते परेताचरितां दिशम्। आवृण्वानाः दिशः सर्वाः स्निग्धाः ददृशिरे घनाः॥**
 
@@ -242,15 +198,11 @@ Hail *Bhūparāvṛt* thundering, lightning, raining;'
 
  4.Thou art connected with the Maruts, thou art the force of the Maruts (with these words) he puts on a black garment with a black fringe; that is the hue of rain; verily becoming of like hue he causes Parjanya to rain. Stay, O Maruts the speeding falcon' (with these words) he pushes back the west wind;verily he produces the east wind to win the rains. He makes offering to the names of the winds; the wind rules the rain; verily he has recourse to the wind with its own share; verily it makes Parjanya rain fo him. Eight offerings he makes, the quarters are four, the intermediate quarters are four; verily from the quarters he makes the rain to move. He unites (them) on a black antelope skin; verily he makes the offering; he unites within the vedi for accomplishment. When the Yatis were being eaten, their heads fell away; they became *kharjūras*; their sap rose upwards, they became Kariras; the kariras are connected with soma; the offering connected with soma makes rain move from the sky; in that there are*kariras* (in the sacrifice); by means an of offering which is connected with soma he wins the rain from the sky. With honey he unites (them); honey is the sap of the waters and the plants; verily it rains from the waters and plants; verily also he brings down rain from the waters and plants.
 
-
-
 Gladdening, obedient’ (with these words) he unites (them); verily he approaches them by their names; just as one may say ‘Come hither N, N' so by their names he makes them move forward. Thou art the fetter of the strong horse; for rain yoke thee' he says; the horse is strong; Parjanya is strong; becoming black as it were he rains; verily he unites him with his hue, to win the rains.”
 
  5. O *Vasavya* Gods, O Sarmanya Gods, O Sapiti Gods. (with these words)he ties on; verily by means of the Gods he daily seeks rain. If it should rain. so much only should be offered; if it should not rain the next day, he should offer an oblation. Mitra and Varuņa are day and night, by day and night Parjanya rains, for by night or by day he rains; verily he has recourse to Mitra and Varuņa with their own share; verily they make Parjanya rain for him by day and night. To Agni hiding his abode, he should offer a cake on eight potsherds, to the Maruts on seven potsherds, to Sūrya on one potsherd; Agni thence causes the rains to arise, the Maruts lead it out when produced; when yonder the sun turns back with hisrays, then he rains; becoming a hider of his abode as it were, he rains: these deities are the lords of rain; them he has recourse to with their own share; they make Parjanya rain for him, even if he is not minded to rain yet he rains. ‘Let free the rain from heaven, with waters fill the ocean', he says; verily these and yonder waters he unites; then with these he approaches yonder (waters). ‘Thou art born of waters, first born; thou art the might of the ocean that is according to yajus Flood the earth’ (with these words) he offers *varṣāhva*plants. This of plants is that which wins rain and thereby he causes rain to fall. ‘The Gods whose portion is in the sky' (with these words) he shakes the black antilope skin; verily to him these worlds become dear and desired.”
 
  It is seen from the above passages that the Aryans had categorised therainfall of their region into eight types, *Jinvarāvṛt* etc. The appreciation of the fact that Agni, Vayu, (maruts), Sūrya and Soma are the principal agents in the occurrence of rainfall, is qu te evident from the above passages. They appealed to the Vasavya Gods Agni, Soma and Surya,*Śarmanya* Gods Mitra, Varuņa and Aryaman and Sapiti Gods, Apāmnapāt and *Āsuheman* 22a for the production of rainfall. It is also clear that they recognised the appearance of moist easterlies bringing monsoon and the simultaneous disappearance of the westerlies at thetime of commencement of rains during the rainy season The absorption of moisture from the oceans and the movement of moist winds northwards to give rain in their region at the time of the sun retracing his path after reaching the extremenorthern position were also recognised by them. However the most interesting thing in these passages is the elaboration of the role of soma in rainfallThe soma that comes down aids the fall of rain from the clouds. During the*Kāririṣti*, *karira* fruits are offered in the fire which probably produce dense smokewhich goes up and mixes with the clouds above It was the belief of the Aryans that this smoke having the property of soma wins the rain from the clouds. 23
-
-
 
 In other words some sort of seeding of the clouds from ground is capable of producing rain because in Nature according to them the soma particles from above feed the clouds and extract the rain (*cyāvayati*) The soma feed from above produces lightning in the atmosphere which is referred to as Indra drinking soma.
 
@@ -261,8 +213,6 @@ In other words some sort of seeding of the clouds from ground is capable of prod
  "O Gautama, this loka is the Agni. For him Aditya forms the *samit.*His rays constitute the smoke. The radiance is the day. The moon is the cinder. The nakṣatras form the sparks. In this Agni the Devas offer *Sraddhā*. As a result of this offering King Soma appears.
 
  We see here that the main result of the first yajña is the formation of soma which forms the substance to be offeredin the second yajña whichtakesplace in the antariksa. In the first yajña, it is said that the dyuloka is the Agni.Here by dyuloka the *deva-prāṇāgni* that is prevalent in the dyuloka is meant.The *sūryapind* aforms samit (fuel). The smoke coming out of this burning fuel arethe rays of the sun. Because the day is bright during sunshine,here theradiance from the burning fuel constitutes the day. (or day light). Because the
-
-
 
 moon makes its appearance only after the sun's radiance is shut down, she is aptly described as the cinder (*angāra)* in this yajña. It is noteworthy here that according to this view, the formation of moon which is also considered as*soma pinda* takes place in this yajña where the Dyuloka and Aditya are involved. The nakṣatras are considered as the *pravargya* of the *aptatva* and inthis way they are considered to have some relation to the *soma pinda* or*appinda* which is moon. Sparks come out of cinder and here the nakṣatras represent the sparks (*visphulinga*). It is implied here that the origin of nakṣatras is related to the moon. It should be noted here that the main difference between Śraddha and Soma is that in the former the *āpyapraṇa* is predominent whereas the latter is a much finer entity, whose main charactsistic is its life-giving and life sustaining property. In other words soma is essentially anna in its finest form.
 
@@ -279,8 +229,6 @@ moon makes its appearance only after the sun's radiance is shut down, she is apt
 ** “**The Devas produced the easterly winds by uttering *O śrāvaya'*; They brought the clouds by uttering ‘*astu śrousat*' They produced lightning by uttering ‘yaja' and thunder by uttering ‘*ye yajāmake*”. When they said ‘*vouṣat’* the rains fell”.
 
  it is clear that the Aryans believed that by the co-operative functioning of *purovāta* (easterlies). *abhra* (clouds), *vidyut* (lightning) and *stanayitnu* (thunder, the rainfall takes place. Among these the purovāta, the moist easterlywinds which bring monsoon to their area were considered most importantParjanya that is referred to in the above passage in the Chandogyopanisat actually refers to the rain bearing clouds brought in by the moist easterlies with agni embedded in it. It is pertinent to point out here that in the *Aṣtimurti Śivatatva* one of the names of *Śiva* is ‘*Bhava’*. This *Bhava* is nothing but Parjanya God as explained in Satapatha:
-
-
 
 ** तमब्रवीत्। भवोसीति। तद्यदस्य तन्नामाकरोत्।पर्जन्यस्तद्रपमभवत्। पर्जन्यो वै भवः। पर्जन्याद्धीदं सर्वं भवति।²⁷**
 
@@ -306,8 +254,6 @@ moon makes its appearance only after the sun's radiance is shut down, she is apt
 
  6. Eight types of monsoon rainfall can be identified based on winds, rainfall, thunder and lightning. These are named *Jinvarāvṛt*, *Ūgrarāvṛt*, *Bhaumarāvṛt* etc
 
-
-
  7. There is a feed of soma on the atmosphere which helps in making the clouds rain.
 
  8. When certain fuel material like Karira fruits, varṣahva plants etc.are offered in the fire, they have the properties of soma and the smoke going up aids in squeezing the rains from the clouds.
@@ -322,13 +268,9 @@ moon makes its appearance only after the sun's radiance is shut down, she is apt
 
  A few remarks on Indra principle as depicted in the Ṛgveda are not out of place here. Indra is an important God having maximum influence in the *antarikṣa* or atmospheric region. Nearly one fourth of the Ṛgveda is devoted to prayers addressed to him and some of them deal with his functions Śaunaka in his Bṛahaddevata 30 lists three of his important traits viz, 1) taking up rasa (soma essense from above and water vapour from below to produce rains 2) killing of Vṛtra and 3) the complete accomplishment of every kind of mighty deed. In his activites according to Saunaka the aids are Parjanya, Rudra, Vāyu, Bṛhaspati,Bṛahmanaspati etc. Indra is sometimes identified with the sun who with his all
 
-
-
 pervading rays causes life on earth. He interacts with Viṣṇu (the principle of feeding soma to Agni) and is responsible for the yajña cycle of the universe. The ṛtus for example which are responsible for the creation of all types of life on earth are the result of interaction between Indra (agni category) and Viṣṇu (soma category). Indra's mighty deeds are brought into play in the atmosphere in which region he successfully overpowers all negative or asura forces which 1) work against yajña cycle 2) which prevent occurrence of rains 3) which always envelop the region in darkness 4) which pollute the waters of region by blocking the free flow or by freezing them into snow ice glacier etc, and thus rendering them unfit for human use and 5) which prevent the operation of divine forces (sun's light and heat) on them. The soma feed from above is taken up by Indra of the atmosphere who exhibits his might in the form of lightning and thunderstorm activity. The soma reaching the atmosphere mixes with the water vapour and Indra aided by Parjanya and purovāta brings rains to the region of settlement of the Aryans. The Vṛtra, Vala, Ahi, Namuci represent *āsura*or nagative forces which we have mentioned above.
 
  The Indra-Vṛtra confrontation in the hilly regions adjourning the region of the settlement of the Aryans is beautifully described in the 32nd sūkta of the first mandala of Ṛgveda. Elsewhere also we find some references to this confrontation. It is well-known that the hymns of Ṛgveda were composed by different ṛṣis at different periods and some of them were probably composed just when they were moving to the Punjab plains from the hilly regions on the north and northwest. These give clue to the weather disturbances to which they were exposed and probably there were many occasions or periods during which theywere not getting adequate water for domestic and agricultural purposes. The settlements should have been on the banks of the tributaries of Indus river where river-flows get substantial contribution from snow melt throughout the year. thunderstorm activity brought in by the monsoon current pushes back the activity of the westerly systems or western disturbances and during the monsoon seasonthe river flow is copious because of monsoon rainfall in the lower reaches and snow and glacier melt in the upper reaches. During the winter season, the flow in the river dwindles down and if the temperature conditions are not favourable in the snow bound regions of the catchment, the flow in the spring season considerably decreases causing water scarcity. Westerly systems continue to affect the hilly regions till late spring and under their influence, fog, mist and cloudiness envelop the snow bound areas preventing sunshine and therefore snow melt. In the hot season whenever there is a feed of warm air from the south instability conditions are built up leading to the development of thunderstorm activity which continues during the monsoon season also. The sky clears afterwards and there is bright sunshine aiding snow melt. Warm rain falling on snow results in snow melt due to release of latent heat. Thus the river flow increases giving relief
-
-
 
 to the settlers. Water also gets released from glacier snouts when temperature conditions are favourable. All these above mentioned positive (divine) and negative (*āsura*) forces affecting the life of the Aryans were described by them as Indra Vṛtra, Ahi, Vala, Namuci etc. In effect Indra represents sunshine, favourable temperature conditions, thunderstorm activity etc., and he fights with and overcomes the āsura forces Vṛtra, Ahi etc., which prevent the availability of water in channels, by creating conditions like absence of favourable winds, unfavourable temperature, absence of enough sunshine etc. in which water is not released from clouds or in which water gets blocked in glaciers ice and snow. We quote below a few rks for illustration. We have given Wilson's translation with our modification.
 
@@ -353,8 +295,6 @@ to the settlers. Water also gets released from glacier snouts when temperature c
 
  Here the soma feed of the atmosphere which results in lightning is symbolically represented as Indra drinking soma. The *trika-druka yaga* which has three components
 
-
-
 (jyotis, go, āyus) is nothing but the demonstration of the maintenance of the yajña cycle of the *virāt* (universe). It will be interesting to examine what is meant by the first born of the Ahis. The Aryans were familiar with various form of existence of water at low temperature, like fog, mist, dew, snow, which finally becomes fern, ice and glacier. In post-Vedic Sanskrit literature we have words like *dhūmikā* or *kujhaṭi* (thick fog) *avasyāya* (dow), *tuṣāra* (frost), *hima* (snow) etc. It is very probable that by the first born of Ahis, low cloud or thick fog is meant.
 
 **4.यदिन्द्राहन् प्रथमजामहीनामान्मायिनामभिमानः प्रोत मायाः।  
@@ -376,8 +316,6 @@ Severe thunderstorm activity sometimes disturbs the huge snow pilings which come
 
 “Having neither hand nor foot he defied Indra who struck him with the thunderbolt upon his mouutainlike shoulder, like one emasculated trying to pose, as virilo, person, then Vṛta, mutilated very badly, slept.”
 
-
-
 Here the shattered blocks of ice and snow lying on the bottom of the slope of mountains are referred to. It can also mean the multishaped cloud patches which are seen close to the mountains after the thunderstorm activity is over,
 
 **7.नदं न भिन्नममुया शयानं मनो रुहाणा अतियन्त्यापः।  
@@ -398,8 +336,6 @@ Here the shattered blocks of ice and snow lying on the bottom of the slope of mo
 
  1. Thou hast opened the receptale of the waters; thou hast detained in the mountain, the treasure of malignant; when thou hast slain Vrtra the destroyer, thou madest the sun visible in the sky.
 
-
-
  2. When Indra who delights in the sacrificial food, had slain the streamobstructing Vṛtra and was pouring down the waters, he stood firm, amid the torrents like a mountain and, endowed with a thousand means of protecting his (votaries) increased in vigour.
 
  3. The strong heaven was rent asunder with fear at the clamour of the Ahi, when thou Indra wast inspirited by (drinking) the effused (soma juice) and thy thunderbolt in its vigour struck off the head of Vitra, the obstructor of heaven and earth.
@@ -414,8 +350,6 @@ Here the shattered blocks of ice and snow lying on the bottom of the slope of mo
 
  Having seen the contributions of the Vedic seers to weather science, we now pass on to the post-Vedic period or to the Tantrika part of weather science as Madhusudan Ojha puts it, which forms the subject matter discussed in the second part of Parjanya Samikṣā, which Ojha has named as Kādambini. During a period of about thousand years between 500 B C. and 500 A.D, a numbe of authors of Smṛtis which deal with Dharmaśāstra also wrote treatises covering a wide range of subjects. These were practically encyclopaedia of those days and information on a variety of subjects could be had in them. Meteorology was dealt with by Nārada, Kāsyapa, Garga, Parāśara, Vasiṣṭha, Drubiņa, Bṛhaspatr Devala, Vajra. Sahadeva, Ṛṣiputra, etc, in their treatises. Varahamihira who wrote his well known Brahatsamhita around 500 A. D. dealt with meterology in a few chapters of his work and mentioned that he had referred to many earlier works on the subject before writing these chapters. Another interesting work dealing with agricultural meteorology is Kṛṣi Parāśara believed to have been compiled in the present form from some original work, during the 10th century A. D Panini's Aṣtādhyāyi (500 B. C) was perhaps one of the earliest post-Vedic works giving information on rainfall measurements and droughts. Kautilya's Arthasestra (4th century B.C.) gives some information on rainfall distribution in the country as well as modes of measurement of rainfall. However detailed information on the development of concepts and their use in forecasting rainfall is available only in the treatises mentioned earlier.
 
-
-
  The Purāṇas which are meant to be elaborations of the truths enshrined in the Vedas also deal with meteorology here and there in a brief way. Many descriptions are available in them, dealing with the origin of rainfall and its different types as well as different types of clouds. These help us to some extent in understanding the nature of development of the subject during the post-Vedio period.
 
  The concepts of rainfall which the Vedic seers had recorded in their compositions formed the starting point for the post-Vedic scholars to work upon Elaborations were effected on the *garbha* concept of the Vedic seers according to which the rays of the sun hold the waters of the oceans for about six months after which they come down as rain when the sun attains his maximum northward position. 36 Further elaborations of the role of soma in rainfall was also made by the post-Vedio scholars by bringing in the moon and assigning to it a very vital role. The important role played by the sun was fully endorsed by them and many details of rainfall occurrence as related to the position of the sun with respect to the stars were worked out and utilised for developing forecasting techniques.
@@ -423,8 +357,6 @@ Here the shattered blocks of ice and snow lying on the bottom of the slope of mo
  The Matsya Purāņa, *37* Vāyu Purāņa, 38 and Vişņu Purāņa 39 deal with the role of the sun in the rainfall phenomenon. According to them the sun's rays absorb the waters of the oceans rivers and of living beings both animate and inanimate and at the appropriate time of the year characterised by the season or sun's position, the waters get transferred to the clouds which under the influence of favourable winds pour rain on earth for six months accompanied by thunder and lightning. The Vayu Purāņa makes special mention of the rainfall cycle by which the same water goes up and comes down as rain. The Visņu Puriņa describes the garbha as lasting for eight months Since the rainfall period in North India lasts for about four months the above period for garbha is assumed by the author of this work.
 
  The Samhita writers were actually more concerned about the symptoms of garbha of the atmosphere, its nourishment and finally its delivery as raiufail after a specific period, which they assumed as 195 days from the date of formation of rain foetuses in the atmosphere. The logic behind this figure 195 will be clear as we proceed. In the Samhitas we do not get a clear explanation of the garbha process as such If we go by what the Purāņas say, the water from the oceans are lifted up by the rays of the sun and goes to enrich the soma content (i. e, water vapour) of the atmosphere. This soma stays in the clouds which under the influence of winds pour the waters down on earth as rain. Since rainfall occurs only for a restricted period during the same part of the year every time. it was convenient for the post-Vedic scholars to imagine that the rainfall is a process of three stages *viz*, 1, fertilisation (garbhādhāna) 2. the growth of the
-
-
 
 rain foetuses (*garbhadohada or garbhapoṣaṇa*) and 3. delivery as rainfall (*prasava or prasūti*). Again taking the hints from the Puraņas, *garbhādhāna* would simply mean the transport of water by sun's heat to the atmosphere, *garbhadohada* means the enrichment of the water vapour in the atmosphere and its movement here and there under the influence of winds and *prasava* means the fall of rain from the clouds which form when the *garbha* has gone through the period of its full growth.
 
@@ -440,8 +372,6 @@ rain foetuses (*garbhadohada or garbhapoṣaṇa*) and 3. delivery as rainfall (
  1. Mild fall of temperatue in *Mārgasirṣa*.
 
  2. Snow fall in *Pauṣa* but not too heavy fall.
-
-
 
  3. Red glow of the horizon in the morning and evening and appearance of clouds with halo in *Märgasira* and *Paușa*.
 
@@ -466,8 +396,6 @@ rain foetuses (*garbhadohada or garbhapoṣaṇa*) and 3. delivery as rainfall (
 **पूर्वापरं चरतो माययैतौ शिशू क्रीलन्तौ परियातो अध्वरम्।  
 विश्वान्यन्यो भुवनाभिचष्ट ऋतूरन्यो विदधज्जायते पुनः ॥**
 
-
-
 "The two children (the sun and the moon) while playing move from east to west in the sky as though by a mysterious force to perform their yajña. One (the sun) sees (illuminates) all the objects in the world while the other (the moon) causes the ṛtus (seasons) and is born again and again (waxes and wanes)."
 
  It is very difficult to understand how the moon causes the rtus. Even Madhusudan Ojha in his Ahorātravāda 43 while commenting on this ṛk says
@@ -481,8 +409,6 @@ rain foetuses (*garbhadohada or garbhapoṣaṇa*) and 3. delivery as rainfall (
  That is, the rtus are caused because of the imbalance betweensoma and agni.
 
  Actually it is the soma concept of the moon that is to be considered here and not the moon herself We have already seen how the interaction of soma located in the north and moving southwards and agni located in the south and as their relative strengths vary moving northwards produces the various seasons moon which was during the year. As time passed on, the importance of the conceived as soma pinda increased and it is unfortunate that the real nature and role of soma was understood less and less. This has been one of the reasons for the gradual decline in scientific thinking on the part of the post-Vedio scholars while dealing with the rainfall process. Taking the clue from the Vedic seers that soma is a fertilising agent (सोमो वै रेतोधाः) the post-Vedic scholars imagined that certain favourable positions of the moon with respect to the stars are conducive to garbhādhāna and tried to identify these positions. on the other hand being of the Agni category was imagined to favour delivery of rainfall. Presumably, because of the relative position of the sun, they believed that the waxing moon has greater influence on conception than the waning moon and the waning moon has greater influence (indirectly) on delivery than the waxing moon. This concept automatically led them to believe that there will be a difference in pakṣa (fortnight) between periods of conception and delivery. That is if conception takes place in the bright half of the mouth delivery will take place in the dark half. Further since they were aware of the apparent motion of the stars with respect to the sun, they imagined that the region in the sky where fertilisation took place gets an apparent shift of 180° with respect to the sun
-
-
 
 during a period of six months and therefore the foetuses conceived in the dawn bring rain in the evening and vice versa. Though these ideas look very odd, they had one advantage that observations can be confined to a local region and any technique to forecast rainfall, can be based on local observations on conditions conducive to conception growth and delivery of rainfall. With all these manipulations the post-Vedic scholars assumed a figure of 180+15=195 days for the period that elapses between conception and delivery. This is what is stated by Varahamihira in his Bṛhatsamhita
 
@@ -507,8 +433,6 @@ during a period of six months and therefore the foetuses conceived in the dawn b
 
  The Vedic seers used the position of the sun for fixing the time of commencement of rains. On the other hand, the post-Vedic scholars used the lunar months for fixing the same. They did not realise that this basic departure would mean difficulties which the future generations will face because the precession effect causes the seasons to slide back with respect to the stars at the rate of
 
-
-
 about one day every seventy two years. At the time of composition of Bṛhatsamhita, the rainy season as revealed in the statements given above commenced in *Śrāvaņa* whereas we know that at present in northwest India the rainy season commences in *Āṣādha* and comes to an end in *Āsvayuja.* Naturally there was difference of opinion among scholars (apparently belonging to different periods) in fixing the time of commencement of the conception season. It was held by some that the clouds begin to conceive after the bright half of the month of *Kārtika.* Utpala the commentator of Bṛhatsamhita quotes verses from Siddhasena to this effect. But this was not the majority view ‘न च तम्मत बहूनाम्’. According to Garga Vasistha, Paragara. Ṛsiputra, and Kasyapa 47 marks of pregnancy of clouds could be detected from the first day of the bright half of *Märgaśirsa* onwards when the moon enters *Pūrvāṣādhā*
 
  There is a possibility of another reason for this divergence of opinion on the date of conception. There is every likelihood that during the post-Vedic period the area of settlement of Aryans was expanding both eastwards, and southwards, Since monsoon rains will commence earlier in these areas, the dates of conception also will have to be assumed earlier than that in the Punjab areas. It is therefore natural that scholars belonging to different areas differ regarding time of commence ment of the conception period.
@@ -526,8 +450,6 @@ about one day every seventy two years. At the time of composition of Bṛhatsamh
  4. Hail storms occur if the rainfall does not take place at the normal time and the rain foetuses overstay in the atmosphere.
 
  5. The moon's position with respect to the sun and the stars influences the formation of rain foetuses. The moon is conceived as a replica of the soma in the heavens and soma is capable of fertilising the atmosphere.
-
-
 
  Based on the above concepts and extensive. observations the post-Vedic scholars developed several techniques of forcasting rainfall in the long range. If at all there had been success for them, it was certainly due to their capacity to observe the day to day weather and the individual weather elements like clouds temparature, condition of sky, winds, rain, thunder and lightning etc. They were extremely clever in working mentally correlations based on collected data. shall see these details presently.
 
@@ -548,8 +470,6 @@ LONG RANGE**
 
  5. The apparent north south motion of the moon during a lunar month is as much as the north south motion of the sun during a year. The annual path of the sun in the celestial sphere is more or less followed by the moon also with a deviation of 5 degrees north or south.
 
-
-
  6. The aparent path of the moon in the sky is zig-zag. (the concept of *Rāsakridā* of Lord Kṛṣṇa has its origin here.)
 
  7. In the winter period Kartika to Magha the moon moves from south to north in Śukla paksa and north to south in Kṛṣṇa paksa (The months refer to lunar months (*Amānta*)
@@ -563,26 +483,19 @@ Bharani etc., were located with the help of these *yogatārās* which were refer
 
  It is interesting to note that for a man located outside these belts in the northern hemisphere, the span of these belts above the horizon would appear smaller and smaller as one proceeds southwards and the names of the beltsare quite suggestive of this diminution. In fact seven horses which the sun rides on, are nothing but the seven tracks of the sun, three side, three on the northern side and one in the middle (along the celestial equator.They are incorporated in the Vedas as seven metres (Chandas) Gayatri (24 syllables) being assciated with the southernmost track and Jagatı (48 syllables) being associated with northernmost track, Bṛhati (36 syllables)
 
-
-
 is the track along the celestial equator The movement of the moon across the sky is not only associated with one yogatarā every day but also with each of these belts. In other words, the naksatras are distributed in the nine *vithis*, three in each. If we see these nakṣatras in the sky and follow them in succession i. e., in the order Asvini, Bharani etc., we get a pattern resembling a moving serpent with them It is for this reason the colleotion of these stars is sometimes called *Nākṣatrika Sarpa*'. We may also say that the moon moves through them like a serpent.
 
  10. The tithis (denoting moon's phase) have some relation to the nakṣatras in the sense, tithis and nakṣatras have a tendency to coincide on certain days in certain lunar months of the year always. For example Citrā nakşatra i. e., moon in Citrā and Purnima coincide many times in the month of Caitra. Vaisākha (i.e,moon in Visākhā) and Pūrñimā coincide many times in the month of Vaisākha and so on. Similarly other tithis also have coinciding nakṣatras always. Some examples are given below.
 
 [TABLE]
 
-
  These coincidences were given great importance in the formulation of rules for forecasting rainfall in the long range.
 
  With the above information we shall now revert back to our subject. We have already seen the importance of soma for rainfall as understood by the Vedio seers and endorsed by the post-Vedic scholars. Soma is the fertilising agent which mixes with water and comes down as rain. The post-Vedio scholars used this idea to formulate their improved model of rainfall process. During the western disturbances period, it was conceived that the formation of rain foetuses takes place as a result of injection of soma from the north-a process of fertilisation (सोमो वै रेतोवाः) that is why during this period a soft wind from the north is considered as a favourable symptom. The northern region is the abode of soma (snow) and the south the seat of agni, so that the southward movement of soma and the northward movement of agni are essential for the functioning of the cycle of ṛtus or seasons which are caused by the interaction of soma and agni. To put in a more direct way the western disturbance activity pushing agni (sun) to the south, and the northward movement of the sun pushing soma (snow) to
 
-
-
 the north are essential for the occurrence of monsoon rains. This will automatically mean existence of soma in the north or its restoration to the northern region by some process and the existence of agni in the south or its restoration to the south are most conducive for the orderly functioning of the seasons and more particularly the rainfall cycle. Keeping in mind the above ideas the post- Vedic scholars believed that whenever the moon moves in a northerly track or is restored to a northerly track, conditions are favourable for the formation of healthy rain foetuses and whenever she moves in a southerly track with sun (agni) on her northern side, or whenever a condition of soma being overpowered by agni is created, it favours abortion of rain foetuses if the foetuses are not fully developed and a healthy delivery of rainfall if the foetuses have gone through their full period of growth. With this basic hypothesis they made careful observations of sky and weather conditions as well as the position of the sun and moon with respect to the stars and related the nature and distribution of rainfall during the delivery period to certain favourable and unfavourable sky conditions and corresponding position of sun and moon during the periods of formation and growth. When once a start is made in this direction, the natural tendency will be to go into elaborations and bring in the influence of nakṣatras and planets on rainfall process after attributing the quality of soma or agni or realted qualities to them especially when they have been taught by the Vedic seers that agni are the two basic things which have given rise to everything that we witness in this univer.e. Thus a new talent was developed for which the Vedic seers had shown the way. Though initially this art of rainfall forecasting was confined to a few experts like. Garga, Parāśara Nārada, Devala, Bhṛgu, Kāśyapa etc, later in the light of careful observations covering more regions, the number of experts increased and naturally the thumb rules for forecasting rainfall in oreased in number. Many of these have been handed down the generations and have been incorporated even in local proverbs and sayings. Madhusūdan Ojha has taken great pains to collect from various sources all these thumb rules for long range forecasting and has beautifully arranged them monthwise in his work Kādambinī. As we have seen already these rules were by no means adhoc but based on some concepts which our ancients developed in their own way after some effort. he Vedio as well as post- Vedic scholars were earnest seekers of truth and in their quest for understanding Nature they always proceeded from the known to the unknown. Their principal aim was always to detect the presence of a grand unity and harmony in the manifestation of Nature and this led to look for similarities in *ādhidaivika, ādhibhautika* and *ādhyātmika* spheres. and soma
 
  It is important to note here that according to the Vedic seers conception takes place during the winter period when the snow accumulation incrases. To be in harmony with this they believed that the moon plays a favourable role in the formation of rain foetuses when she is in the waxing stage. During the summer months when the snow accumulation gets depleted the moon's waning
-
-
 
 stage happens to coincide with the delivery of rainfall or abortion if the rain foetuses are not fully developed. The obsrvations that rainfall takes place during certain months of the year only and during this period the sun passes through the same stars every year (neglecting precession effects, of course) led the post-Vedic scholars to involve the stars without difficulty in the rainfall process. The following rule clearly illustrates our point.
 
@@ -599,8 +512,6 @@ stage happens to coincide with the delivery of rainfall or abortion if the rain 
  By carefully observing the weather and sky conditions day after day for a prolonged period, it should have been easy for the post-Vedic scholars to recognise the following features of the weather patterns during the various months.
 
  The monsoon completely withdraws from northwest India in the beginning of the month of Kartika (October-November). The days are characterised by clear skies in the region and temperatures show a falling trend especially in the nights.
-
-
 
  In the month of Margasira (November-December) the western disturbance activity slowly picks up and we get one or two disturbances which normally are mild to moderate. The anticyclone at the lower levels over Northwest Pakistan and adjoining Iran begins to build up. Because of the prolonged absence of rain, haze in the sky increases. The temperatures have not yet fallen appreciably.
 
@@ -620,8 +531,6 @@ stage happens to coincide with the delivery of rainfall or abortion if the rain 
 
  Having seen the logic behind the evolution of forecasting rules for the long range, the next question is when these rules are developed on the basis of past
 
-
-
 observations and also on the assumption of moon's influence, how far will they be successful in actual practice. No elaborate reasoning is required to infer that quite a number of these forecasts may not come true. In fact our ancients were clever enough to introduce many saving clauses to explain away the failures. Recent attempts to find out the influence of the moon on rainfall has not proved anything definite. In any case, it is obvious that the forecasting rules for long range based on the moon's influence as formulated by our ancients will not stand any rigourous test for their validity.
 
  However, it should be said in fairness to our ancients, that their knowledge of the characteristics of rainfall of their region was very sound and they had very carefully observed the weather and climatic pattern throughout the year. With this detailed knowledge they could correlate rains of the monsoon with the events of the winter season and in quite a few cases they should have been successful. Too much rain during the month of Caitra was considered to spoil a good monsoon High temperature during the premonsoon period was imagined to be a good sign for the monsoon rains. These were extremely useful thumb rules for forecasting monsoon rainfall and were practiced by modern meterologists during the early stages of development of Indian meteorology. The climatic pattern of the weather during the growth period. Phalgun Jyaiṣṭha was well known to them and any departure from it was considered to affect the normal performance of the monsoon Considering the fact that long range forecasting of monsoon performance is still in its infancy stage, it can be safely concluded that our ancients had done remarkably well in developing the rules for the same.
@@ -635,8 +544,6 @@ observations and also on the assumption of moon's influence, how far will they b
  2. Consider the ten days commencing from the first day of the bright half of *Caitra*. Divide this period into four parts of two and a half days each and assign each part to each of the four months of the rainy season. If there is rain in any one of these two and a half days period it is to be inferred that there will be no rain in the corresponding month of the rainy season.
 
  3. Consider the last eight hours of *Akşaya Tṛtiya* day. Divide it into arts of two hours each and assign each of them to each of the four months
-
-
 
 of the rainy season. If there is wind from the east in the first, wind from the north in the second, wind from the west in the third and wind from the south in the last two hour periods there will be good rain in *Asādha, Srāvaṇa, Bhādra- pada* and *Āsvina* months of subsequent season.
 
@@ -655,8 +562,6 @@ SHORT AND MEDIUM RANGE**
 
  The post-Vedio scholars were very keen observers of Nature. When they wanted to frame thumb rules for short and medium range (i.e., for periods ranging from a few hours to four or five days), they were on surer grounds, because they knew that the conditions on earth and in the atmosphere just prior to the occurrence of rainfall were far more important than the position of the moon or the sun with respect to the stars in the sky. They made therefore careful observations of the various elements prior to the occurrence of rainfall and came out with great confidence, with hundreds of thumb rules which awelled in number as time passed and as the region of observation varied. After a comparative lull in the activity in this field during the period 1000-1500 A. D. in North India, some scholars took up the thread after 1600 A. D. and not only assembled all the past knowledge on the subject but also added the information that was current during their periods in their respective regions. One such important work is Vanamāla written by Jivanatha a Maithili scholar around 1700 A. D. Bhadrabāhu Samhita written by a Jain sanyasin would however appear to belong to a period earlier than 1500 A. D. Gurusamhita is a third work of this type. The date and author of this composition are not clear. Subsequently works in regional
 
-
-
 languages incorporating all past and current knowledge also appeared on the scene. The works of Dak in Maithili, Ghaghar and Bhaddari in Hindi and Rajasthani, Vṛşti Prabodha in Gujarati and Sanskrit, Khana Vaoan in Bengali and siddhanta Darpaņa in Oriya are too well known. It has to be noted that many of these works contain both long range forecasting rules based mostly on the position of moon and sun with respect to the stars as well as short and medium range forecasting rules.
 
  Every meteorologist is well aware that local short and medium range forecasting calls for considerable skill and observing power on the part of the forecaster. Every parameter is very carefully followed and by experience the forecaster develops some skill in correctly forecasting the occurrence of rainfall well in advance. Conditions which repel rainfall which would otherwise occur especially during the rainy season are also rocognisable by the forecasters. It is to the credit of the post Vedic scholars to have identified several conditions pertaining to the earth's surface and the atmosphere which enabled them to frame rules for forecasting rainfall on short and medium range which may be broadly categorised as follows:
@@ -670,8 +575,6 @@ languages incorporating all past and current knowledge also appeared on the scen
  Madhusudan Ojha took great pains to consult many of the books on manuscripts, that were available to him and collected and presented these rules in his book Kadambini after arranging them in an orderly manner. It may be useful to the reader at this stage to know that Jayashankar. Devshankarji Sharma 49 has also written two volumes entilted Prakṛti se Varsa Jñān in Hindi in which he presents many rules for forecasting rainfall both in the long and short range after collecting them ftom various original texts. Dhuniram Tripathi's 50 Prāṇyabharatiyam Ṛtuvijñānam contains many quotations from origional texts on forecasting rules.
 
  Even a casual examination of the rules for short and medium range fore- casting of rainfall presented in the above books will reveal to any specialist the practical approach of our ancients to the problem. They knew well the parameters that mattered for them and used them after acquiring sufficient knowledge on them by case studies. Every observation including the behaviour of men, animals. trees etc. mattered for them and they made full use of them in their formulation of the rules. It will not be an exaggeration if one concludes from a perusal of their rules, that they were as conversant with local weather as any modern meteorologist who has recourse to number of sophisticated observational aids.
-
-
 
  The association of impending weather with halo round the sun and the moon and the diffraction rings round the discs of the sun and the moon as well as streaks of light emanating from the sun's visible disc has not been studied at all by meteorlogists. In fact we do not attach any importance to them at all for short range forecasting.
 
@@ -690,8 +593,6 @@ ASSOCIATED PARAMETERS**
 
  The post-Vedic scholars were familiar with observing the strength and direction of the wind by the movement of clouds. They also used the surer method of measuring wind direction with the help of a pole of 12 cubits in
 
-
-
 length at the top of which a flag of black colour four cubits in length was attached 51. Whenever the wind was not steady, the wind direction was taken as the one from which the wind was stronger.
 
  The details we get in the literature regarding interpretation of wind direction in terms of weather that was likely to occur later, show that almost daily observations of wind at each place should have been made and some sort of a dairy kept on the same. Our ancients were more or less familiar with the local wind in the same way as a meteorologist whose knowledge is based on measurements by instruments,
@@ -708,8 +609,6 @@ length at the top of which a flag of black colour four cubits in length was atta
 
  a) Clouds that resemble pearls, silver, kamala flower, lily or collyrium in colour and which are in the shape of aquatic animals will contain abundant water in the embryo. These clouds which have been scorched by the burning rays of the sun and fanned by a gentle breeze will at the time of delivery pour torrents of water as if they were angry.
 
-
-
  b) If the clouds are formed in the east, there will be growth of good crops; in the south-east, there will be raging of fires; in the south decay of crops ; in the southwest destruction of half the crops. In the west handsome rain; in the northwest stormy rain in some places; in the north good rain and in the northeast bumper crops. 53
 
  In Kṛṣi Parāśara we find four broad divisions of clouds viz. (*1)Āvarta (2)Samvarta (3) Puşkara and (4) Drona.* While *Āvarta* rains in particular areas only *Samvarta* rains everywhere. Rainfall will be scanty during the predomi. nence of *Puṣkara* Drona cloud on the other hand gives plenty of rain over wide areas. It is not difficult for a modern meteorologist to infer what clouds means low these represent. According to Madhusudan Ojha the word ‘*Abhra*' are called '*Ghana*' and spreading clouds. Cumulus clouds seen here and there Megha-clouds covering the sky like a sheet (stratus type) are called '*Ghata’*. mālāmanjari enumerates eighty types of clouds ten each in *Mandara, Kailāsa Koța, Jaṭhara, Sṛngavera, Paryanta, Himavat and Gandhamādana* mountains and the author even names them. Kautilya however while dealing with the clouds in the plains says that there are three typs of clouds which continuously rain for seven days, eighty that give light rain and sixty that are widespread. Another classification of the clouds names them *Nāga, Parvata, Vṛṣabha and Arbuda*. The clouds that are found in hill regions during winter giving solid precipitation are said to belong to *Diggaja* class. Description of clouds according to their visual shape was most common. They found elephants, bulls, pigs, trees, castles, oities in the clouds and attached importance to them. This was especially the case of cumulus clouds with some vertical development. Some were identi. fied as capable of giving rain while the others were said to bring no rain. Our a moving ancients were also familiar with the type of clouds associated with system, when it approaches their region. Many rules based on the use of clouds have been collected and presented by Madhusudan Ojha. Picturesque description of clouds has been presented by Varāhamihira in his *Bṛhatsamhitā*. Description of seasonal clouds also are available in literature.
@@ -721,8 +620,6 @@ length at the top of which a flag of black colour four cubits in length was atta
  1) If the sky is cloudy and at that time if lightning is seen in the east and its colour is white or yellow it surely brings rain the next day.
 
  2) If there is intense lightning in the east and its colour is red and at the same time if there is wind, there will be only light rain.
-
-
 
  3) If lightning of low intensity is accompanied by quick thunder and moving clouds, there will be good rain and sometimes hails occur.
 
@@ -744,8 +641,6 @@ length at the top of which a flag of black colour four cubits in length was atta
 
  Observations of rainfall date back to Vedio period. While the initial observations during the Ṛgvedic period were purely qualitative, some classification emerged during the period of Yajurveda. As we have aready seen the Kāririṣti gives eight types of rainfall viz., *Jinvarāvṛt. Ugrarāvṛt Bhaumarvāṛ*t eto. Quantitative measurements of rainfall seem to have commenced around the beginning of the Christian era. Paņini in his Aṣtādhyāyi under the chapter ‘Varṣapramāṇa’ mentions *goṣpada* as a measure of rainfall.
 
-
-
  Regarding the time when one should start measuring the rain for estimating the total rainfall of the rainy season different views were held at that time. Varahamihira says that it should be commenced after the full moon day of the month *Jyaistha* when it has rained in the asterisms commencing with *Purvaṣadha*. He quotes another view 62 that the quantity of rainfall should be gauged when for the first time in the season, it rains sufficiently enough to make the ground free from dust or when drops of water are visible on the tips of blades of grass.
 
  According to Varahamihira the units of measurement of rainfall prevalent during his time (600 A. D) were *Pala,* *Ādhaka* and *Drona* (50 palas make one ādhaka and four ādhakas make one drona). The rain gauge 63 was round with a diameter of one hasta 18 inches) and had marks of palas. When it is full it indicated an *ādhaka* of rainfall. Based on the knowledge we have of ‘Pala' Madhusudan Ojha infers (vide Kadambinį) that one drona would mean two and a half inches of rain. This seems to be reasonable since, according to Kautilya 64 the annual rain in the Jangla area is 16 dronas i. e., 40 inches, 24 *dronas* in moist areas, 13½drones in *Aśmaka* country. 24 *Drones* in *Avanti* and a large quantity in the Himalayan region and in the regions where water channels are made use of in agriculture. Kautilya 65 also says that the superintendent of treasure house was entrusted with the duty of measuring rainfall with a gauge which was 18 inches (one aratni) in diameter. Samasambita, an earlier work of Varahamihira describes the *ādhaka* measurement as *Magadha māna.* This would support the hypothesis that the system of measurement of rainfall given by Kautilya and Varāhamihira was prevelent in North India for a long time (3rd Century B. C. to 6th Century A. D.)
@@ -757,8 +652,6 @@ length at the top of which a flag of black colour four cubits in length was atta
  6. SOLID PRECIPITATION
 
  The post-Vedic scholars had also made observations on precipitation in the form of snow in the hilly regions. They knew that thick fog becomes dew when the temperature decreases. Dew was called *Avasyāya*'. Thick fog was called
-
-
 
 *Dhūmika*'. '*Kujati*' is another name for mist or fog *Tuṣāra*' is heavy snow fall. *Prāleya*' is forn and *Hima*' is the general term for snow. They were also familiar with hail which was called by them as‘*Karaka'*.
 
@@ -772,14 +665,11 @@ length at the top of which a flag of black colour four cubits in length was atta
 
  We have come to the end of our story. It covers a long period of more than four thousand years. It is hoped that the reader will now appreciate the tremendous efforts put in by our ancients into this fascinating and important branch of science. It is to the credit of Madhusūdan Ojha to have taken great pains to collect the information from various sources and present them to us in his most characteristic way.
 
-
 **Srirangam  
 15—7—91**
 
 **A. S. RAMANATHAN  
 *Deputy Director-General of Meteorology (Retd.)***
-
-
 
 **REFERENCES**
 
@@ -787,20 +677,13 @@ length at the top of which a flag of black colour four cubits in length was atta
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 ***========***
-
-
 
 **![](../books_images/U-IMG-1730687448Screenshot2023-05-17160630.png) श्रीः![](../books_images/U-IMG-1730687448Screenshot2023-05-17160630.png)**  
 **प्राक्कथन**  
 **![](../books_images/U-IMG-1730278859k18.png)**  
-
 
  ![](../books_images/U-IMG-1730278697k15.png)रम पूज्य पिताजी के स्वर्गवास से असा शोक सन्तप्त हृदय को धैर्यावलम्बन कराने का एकमात्र उपाय समझ कर अपने परमकर्त्तव्य धर्म के पालन को केवल जीवन का ध्येय मानता हुआ मैं उनके रचित प्रन्थों के (जो कि उनका कल्पान्तस्थायी आत्मीय विकाश है, और अभी पूर्ण रूप से संसार के समक्ष नहीं आया है) संकलन तथा संपादन आदि कार्य में तन मन से सेवा के रूप में संलग्न हो गया हूँ।
 
@@ -812,8 +695,6 @@ length at the top of which a flag of black colour four cubits in length was atta
 
  श्रीमान् जयपुर नरेश ने पूज्य पिताजी के जीवन काल में ही उन के श्रीमद्भगवङ्गीता के विज्ञानभाष्य प्रकाशित किये जाने के लिये जो द्रव्य प्रदान किया जिससे उसके दो काण्ड
 
-
-
 (रहस्य और मूलकाण्ड) मुद्रित हो चुके हैं और शेष दो यन्त्रालय में हैं। महाराज की इस उदारता के लिये मैं हृदय से कृतज्ञ हूँ। यह सर्व विदित है कि जयपुर राज्य से हमारा संबन्ध चिरकालीन है उसे पूज्य पिताजी ने भी अपने ग्रन्थों में स्वीकार किया है। अतः इस विषय में विशेष लिखना व्यर्थ है, और अब भी मैं श्रीमान् जयपुराधीश की छत्र-छाया में ही रहता हूँ। मुझे हार्दिक विश्वास है कि ग्रन्थ प्रकाशन के इस सत्कार्य में श्रीमान् से मुझे पूर्ण सहायता मिलती रहेगी।
 
  मुझे इन ग्रन्थों के प्रकाशन के हेतु आर्थिक सहायता के लिये जो सान्त्वना श्रीमान् अलवरेन्द्र से मिली है उसके लिये मुझे कोई शब्द दृष्टिगोचर नहीं होता जिससे मैं उनके प्रति अपनी हार्दिक कृतज्ञता प्रकट कर सकू। मेरे व्यक्तिगत परिचय के अनुसार मुझे यह आशा है कि यद्यपि आप कार्यक्षेत्र में अभी प्रविष्ट हुए हैं, तथापि आपका विद्या-प्रेम और अन्य सद्गुण आपके सुयश प्रसार में अवश्यमेव सहायक होंगे।
@@ -822,8 +703,6 @@ length at the top of which a flag of black colour four cubits in length was atta
 
  इन ग्रन्थों के संपादन तथा प्रकाशन के कार्य में म० म० पं० गिरिधरजी शर्मा चतुर्वेदी अध्यक्ष (प्रिंसिपैल) महाराजाज संस्कृत कालेज जयपुर, पं० आया दत्तजी ठाकुर एम० ए० काव्यतीर्थ प्रोफेसर लखनऊ यूनीवर्सीटी, जयपुरीय पं० बद्रीनाथजी शास्त्री एम० ए० रिटायर्ड प्रोफेसर लखनौऊ यूनीवर्सीटी, पं० सूर्यनारायणजी आचार्य संस्कृत प्रोफेसर महाराजाज़ कालेज जयपुर, पं० पुरुषोत्तम जी साहित्याचार्य धर्मशिक्षक व संस्कृत प्रोफेसर मेवोकालेज अजमेर, प० मदनलालजी प्रश्नवर व्याकरणानायं रिटायर्ड प्रोफेसर महाराजाज संस्कृत कालेज जयपुर तथा पं० जयचन्द्र झा जी वेद के प्रोफेसर महाराजाज संस्कृत कालेज जयपुर समय समय पर मुझे सत्परामर्श द्वारा पूर्ण प्रोत्साहित करते रहे हैं जिसके लिये इन विद्वज्जनों का मैं बड़ा उपकृत हूँ। साथ ही नन्दकिशोरजी शर्मा से जो पूज्य पिताजी के समय से ही मेरे यहाँ के लाईब्रेरियन हैं इन अमुद्रित ग्रन्थों के संकलन में मुझे बड़ी सहायता प्राप्त हुई है।
 
-
-
  जो २ ग्रन्थ पूर्व में मुद्रित होचुके हैं उनमें कादम्बिनी जिसकी प्रथमावृत्ति सं० १९७९ वि० में प्रकाशित हुई थी तथा आशौचपंजिका जो पहिले सं० १९७५ वि० में प्रकाशित हुई थी इन दोनों का द्वितीय संस्करण भी अत्यावश्यक होगया है क्योंकि ये प्रायः अधिक उपयोगी हैं और इनके लिये बहुत मांगें भी बराबर आ रही हैं ।
 
  यह प्रायः सर्वविदित है कि पूज्य पिताजी यह वैज्ञानिक तत्व यद्यपि हिन्दी भाषा में भी भली प्रकार प्रतिपादन कर सकते थे तथापि उनकी संस्कृत में ही हार्दिक अभिरुचि थी इसलिये उन्होंने जो कुछ भी विवेचनायें किई वह संस्कृत भाषा में हैं। जैसा कि उन्होंने यह वैदिक विज्ञान का रिसर्च (Research) किया है, वह यदि हिन्दी में होता तो आज इसकी ख्याति संसार में द्रुतगति से होकर यह विशेष उपयोगिता में आता, परन्तु उनकी संस्कृत में प्रगाढ रुचि के कारण ही ऐसा नहीं हो सका । इतने पर भी यद्यपि विषय तो अवश्य बहुत गहन और मार्मिक हैं तथापि संस्कृत भाषा उन्होने बहुत ही सरल रक्खी है । साथही विषयों को आधुनिक रीति से समझाते हुए आवश्यकतानुसार मान चित्र आदि भी देकर यथाशक्य सरल बनाया है जिससे संस्कृत भाषा के जाननेवाले उनकी विवेचना को भली प्रकार समझ सकें।
@@ -831,8 +710,6 @@ length at the top of which a flag of black colour four cubits in length was atta
  कुछ वर्ष हुए कादम्बिनी के भाषानुवाद के लिये प्रयाग के अर्थशास्त्राध्यापक श्रीयुत् दयाशंकरजी दुबे, एम. ए., एल. एल. बी. के आग्रह पुरस्सर पूर्ण अनुरोध करने पर पिताजी ने इस प्रस्ताव को स्वीकार कर लिया था। जिसके लिये उक्त दुबेजी ने यहाँ जयपुर के ही काइरोपाह्न पं० नवलकिशोरजी गौड को जो उन दिनों हमारे यहाँ ही पूज्य पिताजी के निरीक्षण में उनके रचित ग्रन्थों की प्रेसकापी आदि का उचित रूप से संपादन कराने का कार्य करते थे कादम्बिनी के अनुवाद के लिये समय समय पर पिताजी से अनुरोध करते रहने का भार दिया । काङ्करजी ने भी जब जब समय पाया पिताजी से निवेदन करके जितना कुछ वह कहते उसे लिखलिया। इस प्रकार अन्ततोगत्वा कादम्बिनी का हिन्दी अनुवादपूर्ण होगया। इसके अनन्तर इस ग्रन्थ की भूमिका के रूप में वृष्टि का ज्ञातव्य विषय भी पिताजी ने लिखा । श्रीयुत दुबेजी की इच्छाथी कि वह स्वयं इस ग्रन्थ को छपवावें, परन्तु वह ऐसा न कर सके और इसी कारण से इसका प्रकाशन भी अभी तक नहीं हो पाया, किन्तु यह कहना होगा कि इस हिन्दी अनुवाद के तैयार कराने का श्रेय दुबेजी महोदय को ही है साथही पं० नवलकिशोरजी की भी तत्परता में कमी नहीं।
 
  आज मैं उसी हिन्दी भाषानुवाद सहित कादम्बिनी को सुचारु रूप से संपादित करके पाठकों के सम्मुख उपस्थित कर रहा हूँ, मुझे यह पूर्ण आशा है कि पाठकवृन्द इसकी वृष्टि विषयक विवेचना से पूर्ण लाभ उठायेंगे।
-
-
 
  अन्त में मेरी यही प्रार्थना है कि विद्या-प्रेमी संसार मुझे यह हार्दिक शुभाशीर्वाद देवें कि मैं अपने श्रद्धेय पूज्य पिताजी की कृतियों को प्रकाशित कर अपने कर्त्तव्य धर्म के पालन में सफलता प्राप्त कर सकू ।
 
@@ -843,13 +720,9 @@ length at the top of which a flag of black colour four cubits in length was atta
 
 **पं० प्रद्युम्न शर्मा ओझा**
 
-
-
 ![](../books_images/U-IMG-1728278136evs-1.jpg)
 
 **वेदविद्यासमुद्धारकस्वर्गीयपण्डितमधुसूदनशमैथिलाः**
-
-
 
 **![](../books_images/U-IMG-1730688337Screenshot2023-05-17160630.png)श्रीः![](../books_images/U-IMG-1730688337Screenshot2023-05-17160630.png)**
 
@@ -864,8 +737,6 @@ length at the top of which a flag of black colour four cubits in length was atta
 
  इस भगवदुक्ति के अनुसार जब जब वैदिक मत्यविद्या अज्ञान धूमसे आवृत होने लगती है और मोह वश जनता का विश्वास हटने लगना है, तब परमेश्वर की प्रेरणा से कोई शक्ति प्रकट होकर सत्यविद्या व सत्यधर्म को राहुप्रास से मुक्तकर अज्ञान का नाश कर देती हैं। वेद एक सत्य-विद्या है और वैदिक धर्म सत्यधर्म है, अतएव इनकी रक्षाका आयोजन ईश्वर की ओर से समय समय पर सदा होता रहता है, जिसकी सारी इतिहास दे रहे हैं। वर्तमान समय भी वेद विद्या और वैदिक धर्म के लिये एक प्रचंड आपत्ति का समय है। पुराने इतिहास की खोज के लिये चाहे आज नाम मात्र को वेद का गौरभ माना जाता हो, किन्तु वेद सत्यविद्या का निधान है, सब प्रकार के विज्ञानों का मूल स्रोत है, या भारतीय विज्ञान सूर्य के प्रकाश का पूर्ण विवरणात्मक इतिहास है, इस अटल सत्य को मानने के लिये आज की शिक्षित जनता तैय्यार नहीं। वैदिक धर्म्म एक वैज्ञानिक धर्म है, त्रिकालावाध्य एक रस है, यह विश्वास आज पाश्चात्य क्रमसे शिक्षित जनता के अंतः करण में स्थान नहीं पाता। पावे कहाँ से ? आज सत्य-विद्या या सत्य-धर्म की तौल होती है वस्तु-विज्ञान (Science) की तराजू पर? वस्तुविज्ञान ही इस युग की मुख्य विद्या है। वस्तु विज्ञान को वर्त्तमान शैली के अनुकूल प्रस्फुटित करने वाला कोई वेद का माध्य आजतक उपलब्ध नहीं। वैदिक धर्म का वस्तु-विज्ञानों से सम्बन्ध बताने के साधन कालसमुद्र की तरंगों में लीन हो चुके हैं, फिर विज्ञानराशि कहकर वेद का गौरव इस युग में किस आधार पर टिक सके ! बस, नाममात्र की श्रद्धा वेदकी बच गई है। “इलहामी पुस्तक” कहकर कुछ आस्तिक लोग “कुरान” आदि की तरह उस पर भी श्रद्धा कर लेते हैं; किन्तु श्रद्धा का आधार अंधकारमय है। यह निराधार श्रद्धा कितने दिन चल सकती है ? इस बीसवीं शताब्दी में अंधविश्वास का कहाँ ठिकाना? भारत के कई योग्य आधुनिक विद्वानों ने वेद गौरव शिक्षा के लिये वस्तु विज्ञान से वेद का सम्बन्ध दिखाने का प्रयत्न किया, किन्तु भारतीय शास्त्रों की नियत परिभाषा के अनुसार क्रमबद्ध विज्ञान का मूल वेद में न बताया जासका और बिना उसके वैज्ञानिकों का विश्वास उस विवरण
 
-
-
 पर नहीं जम सकता था। वे इधर उधर की से उड़ी बातें कह कर ऐसे प्रयत्नों को उपहास काही स्थान मानते रहे। जब तक क्रमबद्ध रूप में वैज्ञानिकों को स्पष्ट न बता दिया जाय कि वेद में वस्तु विज्ञान की इतनी ऊँची परिभाषाएँ हैं कि जहाँ तक का बीसवीं शताब्दी के वैज्ञानिकों को स्वप्न भी नहीं आया। जब तक यह सिद्ध न कर दिया जाय कि आधुनिक वस्तुविज्ञान की बहुत सी उलझनें वैदिकविज्ञान की शरण में आने से अनायास सुलझ सकती हैं तब तक वैज्ञानिक जगत् वेद का यथोचित गौरव नहीं मान सकता। किन्तु जगन्नियन्ता जगदीश्वर को यह कब सहा होसकता था कि सत्यविद्या का गौरव विज्ञान के मध्याह्नकाल में छिपा रह जाय? उसने एक ऐसे प्रतिभाशाली व्यक्ति को संसार क्षेत्र में उतार दिया, जिसने उसी जगन्नियन्ता की प्रेरणा से अपनी सब श्रायु वैदिक-विज्ञान और वैदिक- इतिहास के अन्वेषण में लगाकर उक्त महत्व पूर्ण विज्ञान और इतिहास का एक क्रमबद्ध सूत्र तय्यार कर ही डाला, जिसके अतुल परिश्रम और अलौकिक प्रतिभा के प्रकाश से अनेक शताब्दियों से अमूल्य विज्ञान रनों को अपने उदर में छिपा रखने या गुहा का द्वार आज देखने में आ गया और उसमें प्रवेश करने वालों को परम सौकथ्य मिल गया। वही व्यक्ति हमारे (चरित नायक) गुरुवर जयपुर राज्य के प्रधान राज पंडित समीक्षा-चक्रवर्ती स्वर्गीय पं० श्री मधुसूदनजी ओझा विद्यावाचस्पति हुए। आपका वैदिक अन्वेषण सम्बन्धी कार्य जब पूर्ण रूपसे प्रकाश में श्वावेगा तब विद्वज्जन हमारी इन पंक्तियों की सत्यता का अनुभव करेंगे यह हमें पूर्ण विश्वास है।
 
  अस्तु ऐसे महापुरुषों का पवित्र परिचय जाति की एक सम्पत्ति होती है, कार्य-क्षेत्र में उत्तर- ने वालों के लिये योग्यतम आदर्श होता है, और विद्या रसिकों के लिये कौतूहल वर्द्धक होता है। इस विचार से श्री पंडितजी महाराज का संक्षिप्त परिचय पाठकों के समक्ष प्रस्तुत किया जाता है।
@@ -876,15 +747,11 @@ length at the top of which a flag of black colour four cubits in length was atta
 
 **![](../books_images/U-IMG-1730250980k9.png)**
 
-
-
  आपका कुल एक प्रसिद्ध विद्वान और प्रतिष्ठित पुरुषों का परम्पराका है। आपका बाल्यकाल स्वदेश में पिता के पास ही लालन-पालन व प्रारम्भिक शिक्षा में व्यतीत हुआ आपके पिता के बड़े भाई पं० राजीवलोचनजी ओझा जिनने जयपुर महाराज स्व० रामसिंहनी से अतुल सम्मान और पूर्ण जीविका प्राप्त की थी, उनके कोई सन्तान न थी इससे वे अपने छोटे भ्राता वैद्यनाथ झा के पुत्र श्री मधुसूदन झा जी को अपना दत्तक पुत्र बनाकर यज्ञोपवीत संस्कार के अनन्तर वि० सं• १९३२ में अपने साथ जयपुर ले आये और जयपुर में ही उच्चकक्षा के विद्वानों के पास आपके पठन पाठन का प्रबन्ध किया गया। पं० श्री राजीवलोचनजी अपने साथ महाराजा साहिब के पास भी उक्त पंडितजी को लेजाया करते थे पण्डितजी बचपन से ही बड़े कुशाग्र बुद्धि थे अतः कभी कभी महाराज के प्रेम पूर्वक किसी प्रश्न का बड़ी मधुरता और बुद्धिमत्ता से उत्तर देते, जिससे महाराज इनको वात्सल्य पूर्णं प्रेम दृष्टि से देखते और पंडित राजीवलोचनजी से यह कहा करते कि यह लड़का बड़ा होनहार मालुम होता है।
 
  पाँच छः वर्ष व्यतीत हुये थे उक्त पण्डितजी सिद्धान्तकौमुदी ही पढ रहे थे कि इम अवसर में आपके पितृव्य राजीवलोचन आझा जी का स्वर्गवास होगया। इसके एक या डेढ़ वर्ष बाद ही महाराज रामसिंहजी का भी स्वर्गवास होगया। अतः इन घटनाओं से आपके जीवन क्रम का एकदम परिवर्तित होजाना एक स्वाभाविक बात थी किन्तु चरित्र नायक को स्वाभाविक विद्या का व्यसन था, आपको विद्याध्ययन के अतिरिक्त और कुछ अच्छा नहीं लगता था। अब जयपुर में विद्या प्राप्ति का सुयोग न देखकर इन्हें अपनी पितृव्य पत्नी के साथ सं० १९३६ वि० में अपनी जन्म भूमि को प्रस्थान करना पड़ा, किन्तु वहाँ भी अध्ययन क्रम आपकी रुचि के अनुकूल नहो सका और आपकी विद्या पिपासा अति प्रबल थी, इस कारण आप अपने कुटुम्बियों को समझा बुझा कर अध्ययनार्थ काशी चले गये, वहाँ दरभंगा पाठशाला में स्वनाम धन्य म० म० स्वर्गीय श्री शिवकुमार मिश्र जी के समीप विद्याध्ययन करने लगे और लगातार ८ वर्ष तक वहाँ ही पढ़ते रहे। अपने उत्कट परिश्रम तथा अद्भुत् बुद्धि के कारण, व्याकरण, न्याय, साहित्य, मीमांसा, वेदान्त आदि के ग्रन्थों का आपने गुरु मुख से न केवल अध्ययन ही कर लिया प्रत्युत उन पर पूर्ण अधिकार भी प्राप्त कर लिया। आपने काशी में विद्याध्ययन के अतिरिक्त भगवान् कामेश्वर शंकर की उपासना भी बड़े मनोयोग से की जिससे आपको विद्योन्नति में पूर्ण सफलता प्राप्त हुई।
 
  आपका विवाह १७ वर्ष की अवस्था में अलवर के राजगुरू पं० श्री चंचल भोझाजी मन्त्र शास्त्री की कन्या से वि० सं० १९४० में हुआ। इस समय चंचल झा के सुपुत्र पं० रामभद्र भोमाजी राज्य के लब्ध प्रतिष्ठ रिटायर्ड जुडीशियल मिनिस्टर हैं।
-
-
 
  काशी में विद्याध्ययन पूर्ण कर पंडितजी बूँदी, कोटा, झालरापाटन, रतलाम आदि के नरेशों से मिले और पूर्ण सम्मानित हुए। अन्त में जयपुर राज्य से विशेष अनुरोध होने पर वि० सं० १९४६ में जयपुर चले आये।
 
@@ -895,8 +762,6 @@ length at the top of which a flag of black colour four cubits in length was atta
  सन् १९०२ ई० में भारत सम्राट् एडवर्ड सप्तम के राज्याभिषेक के समय जो ऐतिहासिक विलायत यात्रा हुई थी, उसका सब धार्मिक आयोजन पण्डितजी के सत्परामर्शानुसार ही हुआ था और महाराजाधिराज इन्हें भी अपने साथ लेगये थे। वहाँ संस्कृत के यूरोपियन विद्वान जब आप से मिले तो बड़े प्रभावान्वित हुए और शीघ्र ही वहाँ आपकी कीर्ति फैल गई। वहाँ के व्याक्स फोर्ड के प्रसिद्ध विद्वान् मैकडोनल्ड, कैम्ब्रिज के विद्वद्वर बैंडाल और इंडिया आफिस पुस्तकालयाध्यक्ष टामस पडितजी से मिलकर इनकी वैज्ञानिक विवेचनाओं पर मुग्ध होगये और आपका बड़ा सम्मान सत्कार उनने किया। आपका वहाँ वेद धर्म पर एक बड़ा जोरदार व्याख्यान भी हुआ (जो जयपुर के संस्कृत ग्नाकर मासिकपत्र में कई वर्ष पहले छप चुका है) इससे वहाँ के सभी विद्वज्जन आश्चर्यान्वित हुये और भाप के कारण वैदिक धर्म का डंका विलायत में गूंज उठा।
 
  उक्त कथन की सत्यता प्रमाणित करने को विलायत से प्रकाशित होनेवाले समाचार पत्रों के कुछ अंश नीचे दिये जाते हैं।
-
-
 
 ***The Westminister Gazette*—26.7.02  
 A Hindoo savant in London.**
@@ -911,8 +776,6 @@ A Hindoo savant in London.**
 
  पण्डितजी महाराज सदा वैदिकविज्ञान की खोज में हीं लगे रहते थे। आपका संपूर्ण समय वेद रहस्य के उद्घाटन के प्रयत्न में ही बीतता था। आप अस्वस्थ होजाने की दशा में भी अपना कार्य करते ही रहते थे। अपने शरीर, स्वास्थ्य, आराम व अर्थोपार्जन आदि सब बातों की उपेक्षा कर यह महान् कार्य आपने आजीवन किया। आपके लगभग ५० वर्ष घोर तपस्या के रूप में बीते, जिस तपस्या के फल स्वरूप आपके लिखे हुए १२५ से भी अधिक ग्रन्थ विद्यमान हैं, जो संस्कृत विद्या, सनातनधर्म और भारतवर्ष का वैज्ञानिक युग में मस्तक ऊँचा करने के लिये पर्याप्त साधन है। आपने अपने हाथोंसे इन सब प्रन्थों की पाण्डुलिपि साथही प्रतिलिपि लिखी है इनमें दो चार प्रन्थों के अतिरिक्त प्रत्येक ग्रन्थ २०० से ५०० पृष्ठ तक के हैं और कोई कोई तो इससे भी अधिक हैं। इतनी मौलिक रचना करलेना कोई मामूली बात नहीं है। आपका लेख भी बड़ा सुन्दर छापे के सदृश होता था और आप चित्रकला में भी कुशल थे।
 
-
-
  राजकार्य और ग्रन्थ लेखन व्यसन के कारण विशेष देश भ्रमण का अवसर पंडितजी को नहीं मिला इसीलिये आपके असाधारण पांडित्य व अलौकिक वैदिक रहस्योद्घाटन शैली और विषयों के प्रवचन की चतुरता का भारतीयों को विशेष परिचय प्राप्त नहो सका, किन्तु जब कभी भी ऐसा अवसर प्राप्त हुआ, तब श्रोतागणों को चित्रित् होता हुआ ही देखा और धीरे धीरे देश में आपकी ख्याति बढ़ती हो गई।
 
  सन् १९०६ ई० में काशी में कांग्रेस सभा के अवसर पर और प्रयाग के सम्बत् १९६२ वि. कुम्भ के अवसर पर जो भारतधर्म महामण्डल के महाधिवेशन हुए थे, जिनमें सभी भारतीय नरेशों को सानुरोध निमन्त्रण भेजा गया था, वहां जयपुर राज्य की ओर से पण्डितजी महाराज गये थे। उस समय भूतपूर्व दरभंगा नरेश के सभापतित्व में आपका भाषण सुनकर न केवल विद्धन्मण्डली ही, किन्तु अंग्रेजी के बड़े २ विद्वान् और साधारण जनता भी मुग्ध तथा गद्गद होगये। बहुत दिनों तक यह आपकी ख्याति कई समाचार पत्रों में प्रकाशित होती रही थी उसी अवसर पर भारतधर्म–महामण्डल की ओर से आपको विद्यावाचस्पति तथा महामहोपदेशक इन दो परवियों से विभूषित किया गया था। इसके अतिरिक्त आपके अभिभाषण लाहौर. काशी, कलकत्ता आदि में भी बड़े जोरदार हुए थे, जिनसे उपस्थित जनता बहुत प्रभावान्वित हुई और आपको बड़े सम्मान पूर्वक अभिनन्दन पत्र समर्पित किये गये। आप वैदिक गहन विषयों के उदूघटनार्थ शास्त्रों का अवलोकन तथा लेखन का कार्य तो करते ही रहते थे साथ ही जिज्ञासु वर्गों को प्रायः नित्यही कुछ समय अनेक विषयों को समझाया भी करते थे। आपकी प्रवचन शैली बहुत ही उच्चकोटि की थी आप श्रोताओं के हृदय में वस्तुज्ञान पूर्ण रूपेण जमा देते थे श्रोतालोग अद्भुत विषयों को सुन कर चकित तथा मुग्ध होजाते। कोई भी विषय जब तक जिज्ञासुओं की समझ में पूरे तौर से न आजाता तब तक वह अनेक प्रकार से घंटो तक उस वस्तु की मीमांसा करते ही रहते थे। इस कार्य में उनका मस्तिष्क कभी नहीं थकता था। उनमें यह एक खास बात थी कि गूढ़तम तत्वों के बिचार में इतना प्रबल परिश्रम अहर्निश करते रहने पर भी उनका मस्तिष्क अश्रान्त ही दीख पड़ता था। इस अत्यधिक परिश्रम के कारण पाचन शक्ति की कमी से उनका स्वास्थ्य तो ठीक नहीं रहत था और शरीर बड़ा कृश था, किन्तु लिखने या बोलने में वे कभी नहीं रुकते थे। वे बहुत ही स्वल्पाहारी थे, कभी न तो वे अपनी इस धुन में भोजन करना तक भूल जाते थे, दो चार बार ताकीद करने पर भोजन के लिये जाना तो नित्य नियम साही था।
@@ -920,8 +783,6 @@ A Hindoo savant in London.**
  पण्डितजी महाराजके समीप जिज्ञासुओं के आने जाने की संख्याही क्या होसकती थी, देश विदेश से लोग नई नई शंकाओं को सुलझाने के लिये उपस्थित हुआ करते थे।
 
  वर्तमान जयपुर नरेश महाराज श्री १०८ श्री मानसिंहजी को महाराज कुमार अवस्था में
-
-
 
 हिन्दी संस्कृत की प्रथम शिक्षा का आरम्भ पंडितजी महाराज ने हीं कराया था। स्वर्गीय भूतपूर्व महाराज माधवसिंहजी के अनुसार वर्तमान जयपुरनरेन्द्र भी धार्मिक विषयों में सभी परामर्श पंडितजी से ही लिया करते थे, ये पंण्डितजी को बड़ी श्रद्धा तथा मानकी दृष्टि से देखते थे और उन के पांडित्य से बहुत प्रभावान्वित रहते थे।
 
@@ -947,8 +808,6 @@ A Hindoo savant in London.**
 
 ८–पं० केदारनाथजी साहित्यभूषण राज्यकीय ज्योतिषयन्त्रालयाध्यक्ष जयपुर।
 
-
-
 ९–पुरोहित गोपीनाथजी जोशी भूतपूर्व हैडमास्टर चांदपोल हाईस्कूल तथा पर्सनल एसिस्टेंट शिक्षाविभागाध्यक्ष जयपुर।
 
 १०–पं० आद्यादत्तजी ठाकुर एम्. ए. संस्कृत प्रोफेसर लखनऊ यूनीवर्सिटी।
@@ -967,8 +826,6 @@ A Hindoo savant in London.**
 
  उस दिन सम्पूर्ण नगर में शोक छाया हुआ था। राजकीय उच्च कर्मचारियों व राज के लवाजमा के साथ आपका शब विमान श्मशान पहुँचाया गया, वहाँ शव को स्नान कराकर विभूति तिलक धारण कर जो सूर्याभिमुख बैठाया गया तो मुख पर विज्ञान ज्योति का अद्भुत दर्शन
 
-
-
 हुआ कि सब लोग आश्चर्य चकित हो प्रणाम करने लगे। यह वैदिकविज्ञान का प्रत्यक्ष चमत्कार था। आपका उत्तर क्रिया श्राद्धादिक शास्त्रीय विधि विधान तथा राज्य के सम्मान के अनुसार आप के सुपुत्र ने बड़ी श्रद्धा से किया। मासिक तयाह में ब्राह्मण भोजनादिक होते रह कर वार्षिक श्राद्ध के अनन्तरही पितृपक्ष में पं० प्रद्युम्नजी ने गयाश्राद्ध भी सविधि सम्पन्न कर डाला।
 
  पंडितजी के स्वर्गारोहण के अवसर पर समाचारपत्रों में “वैदिकविज्ञान का सूर्य अस्त यह हैडिङ्ग निकला था। अलवर दरभंगा आदि कई नरेशों तथा महामना पं० मदनमोहनजी मालवीय, प्रयाग के वाइस चांसलर डा० गङ्गानाथ झा आदि अनेक गण्य मान्य व्यक्तियों के सम वेदना सूचक बहुत से तार व पत्र आये थे और बहुत स्थानों में शोक सभाएँ हुई। जयपुर में भी रायबहादुर पं० अमरनाथजी अटल एम० ए०, फाइनेन्स मिनिस्टर के सभापतित्व में महाराजाज संसकृत कालेज में बड़े बड़े सरदारों उच्च कर्मचारियों विद्वानों तथा गएय मान्य पुरवासियों की उपस्थिति में एक विराट् शोक सभा की गई।
@@ -976,8 +833,6 @@ A Hindoo savant in London.**
  पंडितजी महाराज के पुत्र पण्डित प्रद्युम्नजी ओझा का बाल्यकाल से अपने पूज्य पिताजी के पास ही अधिकांश रहन सहन व पठन पाठन का प्रबन्ध रहा था, यह अपने पिता के इकलौते पुत्र थे अतः इनका लालन पालन भी अत्यधिक प्यार से होता था। आपकी शिक्षा संस्कृत हिन्दी तथा अंग्रेजी में हुई। यह भी अपने पिता के साथ स्वर्गीय जयपुर नरेश महाराज माधवसिंहजी के समीप जाया करते थे और महाराज भी इनको छोटे पण्डितजी के नाम से सम्बोधित कर बड़ा वात्सल्य प्रकट किया करते थे। ये बाल्यकाल से ही बड़े बुद्धिमान् और चंचल प्रकृति के हैं। इनकी बुद्धिमत्ता से प्रसन्न होकर महाराजाधिराज ने इन्हें अपने पास आने जाने के लिये स्वतन्त्र आज्ञा प्रदान कर रक्खी थी और इनके लिये भी अपने खासा अस्तबल से सवारी के लिये घोड़ा अलग नियुक्त कर दियाथा साथ ही जहाँ कहीं भी महाराज विदेश पधारते वहाँ आपके पूज्य पिताजी तो साथ होते ही थे ये भी महाराज की आज्ञानुसार बहुतसी यात्राओं में साथ रहा करते थे। जब यह कुछ बड़े हुये तो पंडितजी के स्वदेश आदि जाने पर या अस्वस्थ होने पर महाराज इन्हीं को पुस्तकशाला मौजमन्दिर (धर्मसभा) आदि कार्यों पर पंडितजी के स्थानापन्न नियुक्तकर कार्यं लिया करते थे और उस समय के प्रधान मंत्री स्व० बाबू संसारचन्द्रसेनजी, सी० आई० ई० तथा स्व० नब्बाब मुम्ताजु- होला सर फैयाज अली खाँजी, के ०सी० आई० ई०, एम्० वी० ओ० और राय बहादुर पुरोहित स्व० सर गोपीनाथजी, सी० आई० ई० इनके कार्य से परम संतुष्ट तथा प्रसन्न रहते थे इस प्रकार इनने पूर्ण नीतिकुशलता और समाचातुरी प्राप्त करली और महाराज के कृपापात्र बन गये।
 
  जब स्वर्गीय दरभंगा नरेश श्रीमान् श्री १०८ रमेश्वरसिंहजी जयपुर पधारे थे तो भूतपूर्व जयपुर नरेश ने इन्हीं पं० प्रद्युम्नजी ओझाको उनके आतिथ्य सत्कार पर प्रमुख नियुक्त किया था उस समय दरभंगा नरेश इनके प्रबन्ध से बहुत प्रसन्न हुए थे और तब से वह इनको विशेष प्रेम और
-
-
 
 कृपा की दृष्टि से देखने लगे। वर्त्तमान दरभंगा नरेश श्रीमान् महाराजाधिराज श्री १०८ श्री कामेश्वर सिंहजी भी इनपर उसी प्रकार पूर्ण कृपा रखते हैं और इस प्रन्थ प्रकाशन कार्य में उन की भी सहानुभूति रहती है।
 
@@ -1002,8 +857,6 @@ A Hindoo savant in London.**
 १–जून सन्० १९४२ ई० सं० १९९९ वि०  
 ॥ इति ॥**
 
-
-
 **![](../books_images/U-IMG-1730704071Screenshot2023-05-17160630.png)ॐ तत्सत्![](../books_images/U-IMG-1730704071Screenshot2023-05-17160630.png)**  
 **![](../books_images/U-IMG-1730270028k12.png)**
 
@@ -1023,8 +876,6 @@ A Hindoo savant in London.**
 
  आज हम यहां पर्जन्य के विषय में कुछ लिखते हुए प्रसंगागत इस यज्ञ के विषय पर वैज्ञानिक दृष्टि से यह प्रतिपादन करते हुए कि यज्ञ से जनमनोवृत्ति की पूर्ति कैसे होती है, और वह क्या वस्तु है तथा आगे क्रमशः वर्षा का यज्ञ के साथ संबन्ध, आप् (जल) की याज्ञिकता और उत्पत्ति एवं स्वरूप अर्थात् जल कहाँ से, किस रूप से कब कैसे पैदा होता है, और पृथ्वी पर कैसे
 
-
-
 आता है, तथा इसके आने के कौन-कौन से निमित्त हैं और वे कैसे जाने जा सकते हैं–इत्यादि विषयों का दिग्दर्शन पाठकों के आगे संक्षेप में रखते हैं।
 
  वास्तवमें “अग्नौसोमा हुतिर्यज्ञः” इस वैदिक परिभाषानुसार अनि में सोम की आहुति डालनेही को यज्ञ कहते हैं। यद्यपि भिन्न-भिन्न शास्त्रकारों ने “अन्नोर्क प्राणानामन्योन्य परिग्रहो यज्ञः”, “वाचश्चित्तस्योत्तरोत्तरि क्रमो यज्ञः”–इत्यादि भिन्न-भिन्न प्रकार से अपने–अपने प्रन्थों में यज्ञ की परिभाषायें लिखी हैं, किन्तु उन सब का समन्वय हमारी पूर्वोक परिभाषा में सुसंगत हो जाता है; क्योंकि अध्यात्म, अधिभूत और अधिदैवत इन तीनों ही जगह अग्नि में सोम बहुत होता रहता है और इन तीनों से पृथक् कोई वस्तु शेष नहीं रह जाती।
@@ -1038,22 +889,17 @@ A Hindoo savant in London.**
 
  हमारा आध्यात्मिक यज्ञ पार्थिव प्राण की प्रधानता से मर्त्यभावानुगृहीत है। चाध्यात्मिक प्राणदेवताओं को उसी वैधयज्ञ के द्वारा आधिदैविक प्राणदेवताओं के साथ युक्त कर अमृत
 
-
-
 भाव को प्राप्त करलेना ही कर्मप्रधान भौतिक यज्ञ का फल है। इसी कारण से मनुष्यों की मनोवृत्ति की पूर्ति यज्ञ द्वारा हुआ करती है।
 
  अब हमें बताना यह है कि अग्नि और सोम कहते किसे हैं। वेद में दो तरह के पदार्थ माने हैं–ऋत् और सत्य। इनमें अग्नि सत्य पदार्थ है और सोम ऋतू पदार्थ है। सहृदय और सशरीर पदार्थ सत्य है और हृदय शून्यपदार्थ ऋत है। संसार में जितने पिण्ड हैं उनके एक प्रकार का केन्द्र (Centre) होता है, अतः ये सब सत्य पदार्थों हैं और इन का मूल कारण अभि है, सोम द्रव पदार्थ है इसके कोई केन्द्र नहीं होता। यही सोम जब अग्निसात् होजाता है तब अमि पिण्ड रूपमें परिणत हो जाता है। अर्थात् यह समझना चाहिए कि सोमगर्भित अग्नि ही पिण्डरूप है। पृथ्वी भी एक पिण्ड है और पिण्ड अग्नि का बनता है, अतएव यास्काचार्य लिखते हैं–“अग्निः पृथ्वीस्थानः” (निरू० दैवत कां० ७।५।२) इति। जिस पदार्थ पिण्डको साधारण जनसमूह दृश्य समझता है, वह वास्तव में अदृश्य है। उसका तो केवल हमें स्पर्श होता है, प्रत्यक्षी करण तो एकमात्र उस वस्तु के वेदमय रश्मिमंडल ही का होता है। इस का विवेचन हमारे 'वेद समीक्षा' नामक ग्रंथ में देखना चाहिए। यहां पर इतना ही हमें बताना है कि पिण्डसे निकल ने वाली किरणें अपने नियत देश से हटती नहीं। उदाहरणार्थ किसी वस्तु पिण्ड को सामने रख लीजिए। जैसे- सामने एक पुस्तक रक्खी हुई है, उससे चारों ओर अनन्त वेदमय किरणें-जिनका स्पर्श हमारी आंखें करती हैं- निकल रही हैं। सब का प्रदेश नियत है। यदि हम किसी भी तरक्क उन किरणों के रोकने के लिए कुछ भी अवरोधक वस्तु रखदेंगे तो उस तरफ जाती हुई वे किरणें उस अवरोधक वस्तु से टकरा कर प्रतिफलित होती हुई, उसी नियत देश से जिस से वह जा रहीं थी, वापस लौट आयेंगी किन्तु इधर उधर विरुद्ध मार्ग का अनुगमन कदापि नहीं करेंगी। इस से यह होगा कि उधर की तरफ़ बैठा हुआ व्यक्ति उस वस्तु को किरणों के वापस लौट जाने के कारण नहीं देख सकेगा। बस, इसी नियत भाव के कारण अग्नि को सत्य कहते हैं।
 
  सोम इस अग्नि से विरुद्ध अवस्था वाला ऋत है। पानी, वायु और सोम ये तीनों एक जाति की वस्तु हैं। घनावस्थाका सोम 'पानी' कहलाता है, तरलावस्था वाला वायु' और विरलावस्था वाला “सोम” ‘सोम’ ही कहलाता है। सोम और वायु को हम आंख से देख नहीं सकते। इसका एक मात्र कारण इन में अत्रिप्राण का प्रभाव होना है। अत्रिप्राण की विवेचना हमारे 'ऋषिरहस्य' और 'अत्रिख्याति' नामक ग्रंथों में देखनी चाहिए। अत्रि प्राण की अधिकमात्रा होने के कारण हम पानी में–जोकि एक प्रकार से सोम ही है–ऋतभाव को देख सकते हैं। जैसे–जब बहता हुआ कहीं जा रहा है, उस बहते हुए जल के आगे यदि कुछ अवरोध के लिये
 
-
-
 पत्थर वगैरह रखदिया जाय तो वह जल उपर्युक्त उस पुस्तक की किरणों की तरह उससे टकराकर वापस नहीं लौटेगा, प्रत्युत उस पत्थर के इधर उधर हो कर आगे निकल आवेगा। कारण यही है कि आग्नेय पिण्डों की तरह जल का कोई केन्द्र नहीं, यह हृदय शून्य है केन्द्र के न होने से ही पानी तथा वायु और सोम में सत्यस्व उत्पन्न नहीं होता है। इस उदाहरण से पाठकों को यह विदित हो गया होगा कि अग्नि सत्य है और सोम ऋत है। “अग्नीषोमात्मकं जगत्” इस श्रुति वाक्यानुसार संसार अग्नि और सोम मय है और अग्नि में सोमके आहुत होने को यज्ञ कहते हैं।
 
  पाठक-वृन्द अथ समझगये होंगे कि यज्ञ किसे कहते हैं, इसका विशद विवेचन अस्मद्रचित “यज्ञमधुसूदन” में किया गया है।
 
  प्रकृत में अब हमें यहाँ इसयज्ञ से पानी की उत्पत्ति बतानी है। सोम की अवस्था विशेष का नाम ही पानी है। इस पानी की उत्पत्ति बताने के लिए वैदिक सृष्टि प्रकरण का कुछ अंश निरूपण करना आवश्यक है।  
-
 
 **“प्रजापतिस्त्वेवेदं सर्वमसृजत, यदिदं किञ्च”। (शत० प्रा० ६।१।११)**
 
@@ -1066,16 +912,12 @@ A Hindoo savant in London.**
 
  इन दोनों में से मर्त्यभाग विश्व है और अमृतभाग सत्य है अर्थात् सत्य और यज्ञ भेद से दो तरह का प्रजापति होता है उस में यज्ञ प्रजापति द्वारा यज्ञाधार सत्य प्रजापति का ही वितान होता है। यह बात—**“यज्ञंकृत्वा सत्यं तनवामहै”**—इस श्रुति वाक्य से सिद्ध होती है। इसी सत्यात्मा को षोडशी पुरुष कहते हैं। अव्यय, अक्षर और क्षर की पांच-पांच कलायें तथा एक परात्पर इन्हीं १६ की समष्टि को षोडशी पुरुष कहते हैं। इनमें ज्ञान स्वरूप अव्यय संसार का आलम्बन, कर्मस्वरूप अक्षर निमित्त कारण और अर्थस्वरूप क्षर उपादान कारण है, परात्पर इन तीनों से परे है। पर अव्यय को कहते हैं, यह पर से भी परे है अतः इसे “परात्पर” कहते हैं, हम यहां जल की उत्पत्ति बताने के लिये केवल तर आत्मा का ही विवेचन करते हैं।
 
-
-
 पुराणों में “ब्रह्मा” शब्द इसी तर के लिये प्रयुक्त हुआ है। इसकी प्राण आप्, वाक्, अन्न और अन्नाद ये पांच कलायें विश्वसृड ब्रह्म के नाम से कहलाती हैं। येही कलायें ब्रह्मा के पाँच मुख हैं। इनमें अनाद अमि है और अन्न सोम है। सोम के अभिसत् होजाने से ब्रह्मा चतुर्मुख ही बन जाता है। वेद में अभि को रुद्र नाम से भी कहा है–“रुद्रो वा एष यदग्निः” इति। रुद्र के द्वारा ब्रह्मा के शिरश्छेद वाली पौराणिक गाथा इसी उक्त विज्ञान के आधार पर रची हुई है। अस्तु। ब्रह्मा की इन पांचों कलाओं का पंचीकरण होता है। अर्थात् पांचों पांचों में बहुत हो जाती हैं। इन पंचीकृत प्रारण, आपू, वाक्, अन्न और अन्नाद क्षरों को पंचजन कहते हैं। ये पांचों (पंचजन) पांचों में पांचोंकी आहुति होने से पैदा होते हैं अतः इसे सर्वहुत यज्ञ भी कहते हैं। इन पंचजनों का पुनः परस्पर यज्ञ होता है। इस यज्ञ से पांच पुरंजन पैदा होते हैं। इसी को लक्ष्य में रखकर कहा गया है–“यज्ञेन यज्ञमयजन्तदेवाः” (यजुः) इति। ये उत्पन्न हुए पांच पुरंजन -स्वयंभू, परमेष्ठी, सूर्य, चन्द्रमा, पृथ्वी- इन नामों से कहलाते हैं इनमें स्वयंभू प्राणमय, परमेष्ठी आपोमय, सूर्यवाङ्मय, चन्द्रमा अन्नमय और पृथ्वी अन्नादमयी है लोकसृष्टि होती है, वाङ्मय सूर्य से प्राणमय स्वयंभू से वेदसृष्टि होती है, आपोमय परमेष्ठी से देवसृष्टि और अन्न–अन्नादमय चन्द्र–पृथ्वी से भूतसृष्टि होती है। स्वयंभू की वेदसृष्टि प्राणसृष्टि कहलाती है और इसेही–ईश्वर की मोमसी सृष्टि कहते हैं। स्वयंभू मंडल में वेदत्रवी (ऋक्, यजुः, साम) की सत्ता है। इसमें यजु के यत् भाग को प्राण कहते हैं और जू भाग को वाकू। ये दोनों अन्तरिक्ष वायु के नाम से वेद में प्रसिद्ध हैं, और इन दोनों में एक के बिना एक नहीं रह सकता। प्रतिसंचर क्रम में ये अन्तरिक्षवायु शेष रह जाते हैं और ये– प्राण, वाक्, मन के बिना सर्वथा अनुपपन्न है। मन की इच्छा से अन्तरिक्षालम्बन पर ब्रह्माभिरूप वायु में क्षोभ उत्पन्न होता है और क्षोभ के कारण उस समय वायु में स्वत एव घर्षण होने लगता है। इस घर्षण होने के कारण उस प्राणाग्नि से पानी पैदा होजाता है। अथवा यों समझिए कि वह प्राणाग्नि पानी के स्वरूप में बदल जाता है। अग्नि के कारण ही पानी का संघात और विलयन होता है— इस बात को दार्शनिक भी मानते हैं। जैसे— "अपां संघातो विलयनं च तेजः संयोगात्" (वैशेषि) इति। वेद में भी "अग्नेरापः" इसीलिये कहा है। अस्तु। हमें यहां बताना यही था कि स्वयंभू के ब्रह्माग्नि रूप प्राण से सर्व प्रथम पानी की सृष्टि होती है। इसी सृष्टि विज्ञान को लक्ष्य में रखकर मनुभगवान कहते हैं-
 
 **“सोऽभिध्याय शरीरात् स्वात् सिसृक्षुर्विविधाः प्रजाः।  
 अप एव ससर्जादौ तासु बीज भवा सृजत्”॥ इति॥**
 
 **(मनुस्मृ० १।८)**
-
-
 
  हम पहले कह चुके हैं कि स्वयंभू की सृष्टि मानसी सृष्टि है; किन्तु उससे जब यह पानी की सृष्टि विजातीय प्राणों के संगम से पैदा होने के कारण मैथुनी सृष्टि कहलाने लग गई। प्राण मय स्वयंभू से पैदा होने वाले इस आपोमयमंडल को “परमेष्ठी” कहते हैं। यह मंडल जिसे कि कहीं पर सरस्वान् समुद्र के नाम से भी कहा है, स्वयंभू से नीचे है और इससे अब आगे सूर्याण्ड (ब्रह्माण्ड) की उत्पत्ति होती है। यह आपोमयमण्डल सूर्याण्ड से परम स्थान में है, अतः इसे परमेष्ठी कहते हैं। आप् की उत्पत्ति एवं निरुक्ति बताती हुई श्रुति इस प्रकार उपर्युक्त प्रकरण की पुष्टि करती है।
 
@@ -1099,8 +941,6 @@ A Hindoo savant in London.**
 
  परमेष्ठी के इस पानी को–जिसे हम पीते हैं–वह पानी नहीं समझना चाहिये। परमेष्ठी के इस पानी को प्रारम्भ में बताया हुआ ऋत तत्वही समझना चाहिये। यह ऋत तब इस मंडल का मनोता है। भृगु, अंगिरा और अत्रि–यही इसका स्वरूप है। इनमें भृगु की जो घन,
 
-
-
 तरल और विरल ये ३ अवस्थायें हैं, इन्हीं को क्रमसे आप्, वायु और सोम कहते हैं। इसीलिये कहा भी है—
 
 **“आपो भृग्वङ्गिरो रूपमापो भृग्वङ्गिरो मयम्।  
@@ -1111,8 +951,6 @@ A Hindoo savant in London.**
 **      ऋते समुद्र हित, ऋते भूमिरियं श्रिता”॥इति ॥**
 
  उपर्युक्त आप्-वायु-सोम में जो आप् है वह भी वायु रूप ही है। केवल आप् (पीने के जल) के आरंभक होने के कारण इसे आप कह दिया गया है। असल में सूर्य मण्डल से ऊपर बाले इस आप को “अंभः” कहते हैं और पीनेवाले जल को ‘मर’ कहते हैं। पुराणों में सूर्यमण्डल ब्रह्माण्ड नाम से कहा गया है। यह अंभः पानी परमेष्ठि मण्डल से ब्रह्माण्ड का भेदन करके इस पृथ्वीलोक में आता है। परमेष्ठिलोक, विष्णुलोक कहलाता है। बस, यही विज्ञान गो- हम का मूल समझना चाहिये। इसका विशद विवेचन हमारे अन्य ग्रंथों में देखना चाहिये। गंगाजल में यही अंभः पानी है। यद्यपि इसका संपर्क सभी पानियों में है, किन्तु गंगाजल में सब से अधिक मात्रा में है और गंगाजल का साक्षात् संबन्ध इसी पारमेष्ठथ अंभः सोम से है। इस अंभः पानी के और इस परमेष्ठी लोक के पवमान नामक वायु के मेल से यह मर नामक स्थूल पानी (पीने का पानी) बनता है। इन्हीं को आज कल पाश्चात्य विज्ञान में हाइड्रोजन (Hydrogen) और आक्सीजन (Oxygen) कहते हैं। प्रकृति के अनुसार यह सर्व प्रथम स्वतः इस परमेष्ठिलोक से इससे नीचे वाले सूर्यलोक में जाता है और सूर्याएड (ब्रह्माण्ड) का भेदन करके सीधा पृथ्वीलोक की तरफ आने के लिए सूर्य किरणों में प्रतिष्ठित होजाता है। सूर्य आग्नेय होने के कारण इस आये हुये विजातीय पानी को अपनी उष्णरश्मियों से धक्का देकर फेंक देता है। उत्तर में सोममय चन्द्रमा है और दक्षिण में यमानि है, अत एव यह पानी दक्षिण में न जाकर सजातीय आकर्षण के कारण उत्तर में चन्द्रमंडल में ठहर जाता है और फिर यहाँ से चान्द्ररश्मियों से चूकर भूलोक में अवतीर्ण होता है। भूलोक में आया हुआ यह पानी प्रति संचर क्रम से फिर सूर्यरश्मियों द्वारा भाप के रूप में उड़ाया जाकर ऊपर आकाश में सूर्य किरणों के अन्दर प्रतिष्ठित होजाता है और फिर यह पानी आठ मास तक वहां रहकर तथा आकाश वायु से इतस्ततः दिशा-
-
-
 
 ओं में फैलाया जाकर समय समय पर भिन्न भिन्न स्थानों में कई निमित्तों से अल्प और अधिक मात्रा में पृथ्वी पर बरस जाता है। इसीलिये उपर्युक्त क्रम को लक्ष्य में रखकर यह कहा गया है–
 
@@ -1129,8 +967,6 @@ A Hindoo savant in London.**
  इसी वर्षा के जानने के लिये निमित्त ज्ञान की आवश्यकता होती है। संसार में निमित्त के सहारे से ही सब कार्य होते रहते हैं। यदि सूक्ष्म दृष्टि से देखा जाय तो प्रतीत होगा कि कोई भी घटना बिना किसी निमित्त के नहीं होती है। उसका कोई न कोई निमित्त अवश्य ही होता है। घटना के निमित्त की पहले से ही यदि ज्ञान रहे तो मनुष्य निमित्त के उपस्थित होने पर घटना से लाभ उठाने के लिए सन्नद्ध हो सकता है। निमित्त ज्ञान के आधार पर ही कर्त्तव्याकर्त्तव्य रूप ज्ञान के बोधक धर्म्म शास्त्र की भी उपपत्ति है । सर्व शास्त्रों का आधार भूत यह शास्त्र सब में प्रधान है।
 
  व्यवहार के विविध विषयों के विविध निमित्तों के सम्बन्ध से निमित्त शास्त्र विविध प्रकार का है। एक प्रकरण ऐसा भी है, जिसमें अन्नों का परस्पर सम्बन्ध प्रतिपादित किया गयाहै। इस प्रकरण का ज्ञाता-व्यक्ति एक नियत क्षेत्र में और नियतकाल में अन्न विशेष की उत्पत्ति करके कह सकता है कि विविध प्रकार की भूमियों में भिन्न भिन्न प्रकार के अन्न कितनी कितनी मात्रा में बोये गये हैं और ये कितनो कितनी मात्रा में अन्न की प्राप्ति करायेंगे। यह प्रकरण अन्न विद्याबोधक निमित्त शास्त्र है। इस प्रकार भिन्न भिन्न निमित्त शास्त्र ६४ प्रकरणों में विभक्त हैं। इन निमित्त शास्त्रों में वृष्टि के निमित्तों का बोध कराने वाला एक “वृष्टि विद्या बोधक निमित्त शास्त्र” भी है। हम पहिले कह आये हैं कि सूर्य अपनी किरणों द्वारा पृथ्वी पर से जल को ऊपर खींच लेता है. अर्थात् सूर्य की गरमी से जल के परमाणु सूक्ष्म बनकर ऊँचे चले आते हैं और उन के साथ आकाश वायु के परमाणु आदि मिलकर बादल बन जाते हैं फिर वे बादल वायु की प्रेरणा से जिस जिस देश में तथा जिस जिस काल में जितना जितना जन बरसना होता है उतना उतना वहाँ बसरते हैं । परन्तु किस समय का खींचा हुआ जल कितने समय के पीछे कितने दिन तक कितना
-
-
 
 किस समय कहाँ कहाँ बरसेगा— इत्यादि बातों का बतानेवाला यह ऊपर कहा हुआ “वृष्टिविद्या बोधक निमित्तशास्त्र” है।
 
@@ -1150,8 +986,6 @@ A Hindoo savant in London.**
 
  वेदशास्त्र में पृथ्वी का घूमना और पृथ्वी की अपेक्षा सूर्य का स्थिर रहना मानागया है। इस विषय का विशेष विवेचन अस्मद्रचित “अहोरात्रवाद” में देखना चाहिये। यह पृथ्वी जिस अपने निश्चित मार्ग पर सूर्य के चारों ओर चक्कर लगाती है, उसे “क्रान्तिवृत्त” कहते हैं। अर्थात् यह पृथ्वीपिण्ड सूर्य को केन्द्र बनाकर जिस वृत्त पर चारों ओर चक्कर लगाता है, वह “क्रान्तिवृत्त” कहलाता है। परिभ्रमणवृत्त के बीचों बीच एक रेखा की कल्पना की गई है, जिसे वेद में “बृहति
 
-
-
 (वृत)” छन्द और ज्यौतिष में विषुवद्वृत्त, तथा अंग्रेजी में इक्वेटरलाइन (Equator line) कहते हैं। सूर्य इसी विषुववृत्त के, जिसे बृहतीवृत्त भी कहते हैं, मध्यमें तपता है। अतएव वेद में यह कहा गया है।
 
 **“सूर्यो बृहतिमध्यूढस्तपति” तथा “स वा एष संवत्सरो  
@@ -1160,8 +994,6 @@ A Hindoo savant in London.**
  यहां इस सूर्य में कितना प्रचंड उष्णत्व है; इसका अनुमान करना भी दुरूह है। सूर्य से आई हुई उष्णता का पृथ्वी पर लगभग चारखरबव अंश है। आधुनिक वैज्ञानिकों का मत है कि सौरजगत् में जितनी उष्णता फेंकी जाती है, उसका दशकरोड़वाँ हिस्सा ग्रहों को मिलता है। इस प्रचण्डमार्त्तण्ड की उष्णता से हम लोग भस्मसात् क्यों नहीं हो जाते, इसका एक मात्र कारण यही है कि हम सूर्य से करीब १,१६,१२,५०० योजन के फासले पर हैं। अस्तु, हमें बताना यही था कि यह सहस्रदीधिति भगवान् अपने पूर्णतेज से इस विषुववृत्त के मध्य में तपते हैं। खगोल इस विषुवत् से आधा उत्तर में और आधा दक्षिण में है। इसके उत्तर भाग में १२,८,४ क्रमशः इन अंशों के अन्तर पर क्रान्तिवृत्त को काटते हुये तीन पूर्वापर कृत्त बनते हैं और इसी तरह इस विषुवत् के दक्षिण भाग में क्रान्तिवृत्त को काटते हुए १२,८ और ४ अंशों के अन्तर पर क्रमशः तीन पूर्वापर वृत्त बनते हैं। इस प्रकार कुल ६ पूर्वापर वृत्त बनजाते हैं, सातवाँ स्वयं विषुवत् है। इस तरह सब मिलाकर सात पूर्वापर वृत्त हो जाते हैं। इन्हीं को अहोरात्रवृत्त कहते हैं। येही सातों वेद में गायत्री, उष्णक्, अनुष्टुप् बृहती, पंक्ति, त्रिष्टुप और जगती– इन छन्दों के नाम से सूर्य के सात घोड़े प्रसिद्ध हैं। क्रान्तिवृत्त नाम का सूर्य के रथ का एक पद्दिया है। छन्दः और वृत्त ये दोनों शब्द एकार्थवाची हैं, अतः सप्तवृत्त या सप्तछन्द ये दोनों ही शब्द प्रयोग में आते हैं। उत्तर में सब से बड़ा जगती और दक्षिण में सब से छोटा गायत्री छन्द नाम का घोड़ा है, बीचवाला बृहतीछन्द सब से बड़ा है। यद्यपि मध्य का बृहतीछन्द (विषुवद्वृत्त) सब से बड़ा है, एवं दक्षिण तथा उत्तर के छन्द एक दूसरे के बराबर हैं, तथापि दृश्यमण्डल के अनुरोध से जगती को सब से बडा और गायत्री को सब से छोटा माना है। छन्दः की अक्षर गणना से भी देखा जाय तो जगतीछन्द ४८ अक्षरों का और गायत्रीछन्द २४ अक्षरों का ही होता है।
 
  अस्तु, हमें यहाँ इस वैदिक प्रणाली के विवेचन करने की आवश्यकता नहीं। हमें तो बताना यही था कि क्रान्तिवृत्त को काटते हुए जो सात पूर्वापर वृत्त बनते हैं, इनको खगोल विद्या में क्रम से कर्क, सिंह, कन्या, तुला, वृश्चिक, धन और मकरवृत्त कहते हैं। इनमें उत्तर भाग का सब से आखिरी कर्कवृत्त कहलाता है और दक्षिण भाग का सब से अन्तिम मकरवृत्त
-
-
 
 नाम से प्रसिद्ध है। इसी के संबन्ध से मकरसंक्रान्ति होती है। हम ऊपर लिख आए हैं कि विषुववृत्त से उत्तर और दक्षिण में १२,८ और ४ अंशों के अन्तर पर तीन तीन पूर्वापर वृत्त बनते हैं। इन वृत्तों के सब अंशों को यदि जोड़लिया जाय तो दोनों भागों के कुल मिलकर ४८ अंश होजाते हैं। इस ४८ अंशात्मक भाग की आखिरी सीमा को घेरता हुआ जो दीर्घवृत्त बनता है इसे ही ऊपर बताया हुआ क्रान्तिवृत्त समझना चाहिये। अश्विनी आदि २८ नक्षत्र तथा बुध, बृहस्पति, शुक्र प्रभृति प्रहराशिगण इसी ४८ अंश के परिसर के भीतर घूमा करते हैं। इन २८ नक्षत्रों में अभिजित् संधिभाग में पड़जाता है। अतः कुल २७ नक्षत्र माने जाते हैं। ये नक्षत्र दक्षिण भाग में छोटे, मध्यभाग में मध्यम और उत्तरभाग में स्थूल हैं। ये अश्विन्यादि २८ नक्षत्र जिस वृत्तपर हैं, उस चान्द्रकक्षा को ‘दक्षवृत्त’ कहते हैं। दशों दिशाओं से प्रस्तुत 'प्रचेता' नामक रसों के संयोग से पैदा होने वाला दिक्सोममय प्राचेतसप्राण "दक्ष" कहलाता है। इस दक्ष के ६० कन्यायें हैं। “अग्निर्वृषा, योषा सोमः' इस परिभाषानुसार योषा रूप प्राण समूह दक्षवृत्त के ६० हिस्से ही ६० कन्या मानी गई हैं। अतएव “ददौ स दश धर्माय कश्यपात्रयोदश” इत्यादि पौराणिक वचनानुसार पृथक् पृथक् धम्मं-कश्यपादि योषा प्राण के उपभोगानुरोध से सौम्यप्राणमय यह दक्षवृत्त २७.१०,१३,२,२,२,४ इन सात विभागों में विभक्त हैं। चन्द्रमा के अनुरोध से २७ विभाग ही अश्विनी आदि २७ नक्षत्र समझने चाहिए। अरिष्ट के हिसाब से इस नक्षत्र मण्डल के ४ विभाग किए गए हैं। जैसा कि वेद में कहा है—
 
@@ -1172,8 +1004,6 @@ A Hindoo savant in London.**
 
 **“दैवीसंपद् विमोक्षाय, बन्धनायासुरीमता।  
 दैवीसंपत्ति मभिजातोऽसि”। इत्यादि॥**
-
-
 
  यज्ञ जन्य दैवात्मा का स्वरूप यथावत् सिद्ध करने के लिए यज्ञ यागादि दैविक कार्य इसी दैवमण्डल में करने चाहिए। इसीलिये यजमान यज्ञारंभ में—“अश्विनोर्बाहुभ्यांपूष्णो हस्ताभ्यां त्वांऽऽददे नार्य्यसि” यह मन्त्र पढ़कर दैवमण्डल को ध्यान में लाता है।
 
@@ -1189,8 +1019,6 @@ A Hindoo savant in London.**
 
  ४–असंख्य ताराओं में तत्तन्नक्षत्रों को पहिचानने के लिए तत्तन्नक्षत्र समष्टि से कल्पित मूर्तिमय नक्षत्रव्यूह को ताराव्यूह कहते हैं। जैसे तीन तारावाले अश्विनी नक्षत्र को पहिचानने
 
-
-
 के लिये अश्वमुखाकृति की कल्पना करली गई है। इसी तरह भरणी, कृत्तिका आदि में भी समझ लेना चाहिये।
 
  ५–अनेक ताराओं से कल्पित ताराव्यूह में रहने पर भी इन प्रत्येक ताराओं का योगतारा एक ही माना जाता है। इस योगतारा को तारानक्षत्र कहते हैं, जैसे शतभिषा के सौ तारे होने पर भी उसका योगतारा एक शतभिषा माना जाता है। इस तरह यह नाक्षत्रिक विभाग समझना चाहिये।
@@ -1198,8 +1026,6 @@ A Hindoo savant in London.**
  इन नक्षत्रों को समझाने के लिये आचार्यों ने ज्योतिषशास्त्र में पूर्वोक्त विषुववृत्त के दक्षिणोत्तर में १२, ८, ४ अंशों के अन्तर पर बने हुए तीन तीन पूर्वापर वृत्तों के ४८ अंशवाले मार्गके तीन मार्ग बना डाले हैं– १–ऐरावत, २–जरद्रव और ३–वैश्वानर। ये तीन मार्ग बड़े हैं। इन में तीन तीन नक्षत्रों के हिसाब से फिर छोटे मार्ग बनाए गये हैं जिन्हें वीथियाँ (गलियाँ) कहते हैं। येही ९ वीथियाँ ९ नाड़ीवृत्त हैं। जिस प्रकार सूर्य रथ का संबन्ध सात पूर्वापर अहोरात्रवृत्तों से है उसी तरह चन्द्रमा के रथ का संबन्ध इन ९ नाड़ी वृत्तों से है। इन वीथियों के नाम तथा इनमें नक्षत्रों का सन्निवेशक्रम इस प्रकार है—
 
  १–भरणी, कृत्तिका, स्वाति की *नागवीथी;* २–रोहिणी, मृगशिर, आर्द्रा की *गजवीथी;*३–पुनर्वसु,पुष्य,अश्लेषा की *ऐरावतवीथी* ४–मघा, पूर्वाफाल्गुनी, उत्तराफाल्गुनी की *वृषवीथी*; ५–पूर्वाभाद्रपद, उत्तराभाद्रपद, रेवती, अश्विनी की गोवीथी, ६–श्रवण, धनिष्ठा, शतभिषा की *जारद्रववीथी;* ७–अनुराधा,ज्येष्ठा,मूल की *मृगवीथी;* ८–हस्त, चित्रा, बिशाखा की *अजवीथी;* और ९–पूर्वाषाढ़, उत्तराषाढ़ की *वैश्वानरवीथी* होती है। क्रान्तिवृत्त के दक्षिण भाग की आखिरी सीमा वैश्वानरवीथी है और क्रान्तिवृत्त के उत्तर भाग की आखिरी सीमा नागवीथी समझनी चाहिये। इन ऊपर बताई हुई नाग, ऐरावत, गज इन तीन वीथियों का उत्तरमार्ग; वृष, गो, जारद्भव-इन वीथियों का मध्यमार्ग और मृग, अज, वैश्वानर इन वीथियों का दक्षिणमार्ग है। इन प्रत्येक मार्गकी तीन तीन वीथियों में भी पहिलीवीथी उस मार्ग के उत्तर में, दूसरी उस मार्ग के मध्य में और तीसरी उस मार्ग के दक्षिण में समझनी चाहिये। क्रान्तिवृत्त के उत्तर भाग में ४२ अंश का अन्तरिक्ष धर्मशास्त्र-पुराण आदि में वर्णित “**देवयान**” मार्ग है। इस के आगे ही सप्तर्षिमण्डल की स्थिति है। विषुवदुरेखा से ९० अंश उत्तर की ओर उत्तरीय ध्रुव की स्थिति है और उसी रेखा से ९० अंश दक्षिण की ओर दक्षिण ध्रुव की स्थिति है। यह सप्तर्षिमण्डल इस उत्तरीय ध्रुव से २४ अंश के अन्तर पर घूमता है। यहांतककी देवयान की स्थिति समझनी चाहिये। वैश्वानर-
-
-
 
 वीथी क्रान्तिवृत्त को अन्तिम सीमा है। इसके आगे ४२ अंशात्मक “पितृयाण” मार्ग है। दक्षिणध्रुव से २४ अंश उत्तर की ओर अगस्त्य का तारा है, इस अगस्त्यतारा से उत्तर एवं वैश्वानरवीथी मे दक्षिण पितृयाण की स्थिति समझनी चाहिये। इसीलिये भगवान् वेदव्यास लिखते हैं—
 
@@ -1212,15 +1038,11 @@ A Hindoo savant in London.**
 
  प्राचीन समय में इस विद्या के विद्वान् उपर्युक्त चार निमित्तों के आधार पर सद्यः होनेवाली एवं विलम्ब में होनेवाली वर्षा का तथा इसी के आश्रय से सुभिक्ष, दुर्भिक्ष, महामारी आदि का भी बहुत समय पूर्वही निश्चय कर लिया करते थे कि अमुक अमुक देशों में अमुक अमुक समय पर, इतनी मात्रा में, वर्षा होगी और इस प्रकार का सुभिक्ष, दुर्भिक्ष होगा। इतना ही नहीं, बल्कि देतो वर्षा, अल्पवर्षा, अधिक वर्षा आदि दैवकोप की शान्ति के लिये ठीक ठीक प्रबन्ध भी कर लिया करते थे। आजकल के पाश्चात्य विद्वान्, जोकि हमारे चारों निमित्तों के कई पदार्थों में से केवल आन्तरिक्षनिमित्त के एक वायु के ही ज्ञान को (संभवतः वह भी पूरा नहीं) केवल सद्यो वृष्टिमात्र बताने वाले एक भाग को जानने में पर्याप्त धन खर्च कर बैठते हैं, इनकी तरह हमारे प्राचीन नैमित्तिक दैवज्ञों को इतने अपव्यय करने की न आवश्यकता ही होती थी और न इतना परिश्रम ही उन्हें उठाना पड़ता था। वे विद्वान् कार्तिकशुक्ला प्रतिपदा से कार्तिक कृष्णा अमावास्यातक के बारह महीनों की एक डायरी रखते थे, जिस में प्रतिदिन के प्रत्येक समय के चारों निमित्तों को यथावत् लिखते रहते थे और फिर उसी के अनुसार फल बता दिया करते थे। परन्तु आजकल कुछ समय से इन नैमित्तिक विद्वानों को राजा महाराजाओं आदि से सहायता न मिलने के कारण यह विद्या भारतवर्ष से लुप्तप्राय होगई है, और प्रायः सबही विद्वान् इस विद्या को छोड़ बैठे। अतः आजकल वृष्टि, सुभिक्ष, दुर्भिक्ष आदि का ज्ञान केबल पंचाङ्ग के आधार पर ही रह गया। अब भी यदि हमारी वृष्टिविया के चारों निमित्तों के आधार पर वृष्टिफल के देखने का पुनः प्रयत्न किया जाय, एवं एतदर्थं स्कूल, कालेजों आदि
 
-
-
 में ज्योतिष आदि अन्य विषयों के साथ साथ इस विद्या के पढ़ाने का भी पाठ्यक्रम नियत किया जाय तो मुझे आशा ही नहीं, बल्कि पूरा विश्वास है कि विद्वान लोग इस में पूरी सफलता प्राप्त करके इस देश में इस विद्या को फिर से चमका सकते हैं। और धन तथा मान प्राप्त कर सकते हैं।
 
  हाँ, यह बात अवश्य है कि ऋषि, महर्षियों के इस विद्या के सिद्धान्त भिन्न भिन्न प्रन्थों में भिन्न भिन्न प्रणाली से प्रतिपादित हैं, उनमें से कई तो अब अलभ्य ही हैं; जो हैं उनमें भी प्राचीन पद्धति के अनुसार विषयों का प्रतिपादन बडे दुरूह क्रम से किया हुआ है, जिससे कोई सहसा लाभ नहीं उठा सकता और न सहसा उसके पढ़ने का साहस ही कर सकता है। ज्योतिषशास्त्र के कई लभ्य ग्रन्थ ऐसे हैं, जिनमें इस विषय का भी प्रतिपादन किया गया है; किन्तु उनमें भी कई जगह मत भेद सा दीख पड़ता है। जैसे शुक्लपक्ष और कृष्णपक्ष का प्रायः सबही प्रन्थों में झगड़ा देखने में आताहैं। कारण यह है कि कई तो पुराणाचार्य अमान्तमास मानते हैं और कई पूर्णिमान्त मास के पक्षपाती बनते हैं। इनमें शुक्लपक्षतो दोनों ही का एक मिल जाता है, परन्तु कृष्णपक्ष में एक महीने का अन्तर पड़ जाता है। क्योंकि कृष्णपक्ष की आदि से मासारंभ मानने वालों ने जहाँ चैत्र कृष्ण लिखा है; उसी को शुक्लपक्ष की आदि से मासारंभ मानने वालों ने फाल्गुनकृष्ण लिखा है। इस तरह कई जगह उसकी परिभाषा जाने बिना यह संदेह होजाता है कि कौनसा पाठ कृष्णपक्षादि से है और कौनसा शुक्लपक्ष के प्रारम्भ से है। यह निश्चितरूप से जाने बिना तिथियों के फल देखने में बहुत संदेह रह जाता है और फल भी ठीक-ठीक नहीं मिलता।
 
  यह प्रस्तुत पुस्तक, मैंने इन्हीं उपर्युक्त झगड़ों के दूर करने के लिये प्राचीन वृष्टिविद्या-संबन्धी निमित्तशास्त्रों के साररूप में एक नये ढंग से लिखी है। यह पुस्तक मेरे लिखे हुए “पर्जन्यशास्त्र” का एक भाग है। जिसका कि नाम “कादम्बिनी” रक्खा गया है। कादम्बिनी निमित्तशास्त्र है। कादम्बिनी अर्थ होता है–मेघमाला। मेघमाला से वर्षा का बोध होता है। आकाश में छायी हुई मेघमाला को देखकर, इस निमित्त के आधार पर यह ज्ञान होजाता है कि वृष्टि होगी। जैसे वृष्टि होने का निमित्त मेघमाला है, वैसे मेघमाला के होने का भी कुछ न कुछ निमित्त अवश्य होता है जिससे जान लिया जाता है कि आकाश मेघों से घिर जावेगा। इस तरह के वृष्टि विषयक निमित्तों की बोधरूप से वर्षा करानेवाला यह "कादम्बिनी" निमित्तशास्त्र मेघमाला के समान है। जिस प्रकार स्त्री के पेट में रहा हुआ गर्भ समय पर प्रसृत होता है, ठीक इसी प्रकार धौरूपी स्त्री के पेट में सूर्यरश्मियों के द्वारा रहा हुआ गर्भ आठ मास के बाद प्रसूत होता है। इसके इस प्रसवकाल को ही वर्षा ऋतु या चातुर्मास्य कहते हैं। इसीलिये शास्त्रों में भी लिखा है कि—
-
-
 
 **“अष्टमासधृतं गर्भं भास्करस्य गभस्तिभिः।  
 रसं सर्वसमुद्राणां द्यौः प्रसूते रसायनम्”॥इति।**
@@ -1236,8 +1058,6 @@ A Hindoo savant in London.**
 
 **पं० मधुसूदन शर्मा ओझा,  
 विद्यावाचस्पतिः**
-
-
 
 ![](../books_images/U-IMG-1728484246Screenshot2023-05-17160630.png)**श्रीः**![](../books_images/U-IMG-1728484246Screenshot2023-05-17160630.png)
 
@@ -1279,11 +1099,6 @@ A Hindoo savant in London.**
 |               १–सिंहावलोकः                |                                    |
 |             २–रविनाक्षत्रिकं              |                                    |
 
-
-
-
-
-
 |                                |                                            |
 |:------------------------------:|:------------------------------------------:|
 |           **विषयाः**           |                 **विषयाः**                 |
@@ -1322,8 +1137,6 @@ A Hindoo savant in London.**
 
 ![](../books_images/U-IMG-1729401483Screenshot2024-10-20104739.png)
 
-
-
 **॥श्रीः॥**
 
 **कादम्बिनी।  
@@ -1346,13 +1159,11 @@ A Hindoo savant in London.**
 **तदुक्तौ लेखदोषेण कालदोषेण वा क्वचित्।  
 अन्यथात्वं च संजातं तद्विशोध्यं परिक्षया॥५॥**
 
-**[देवान् वसव्यान्](http://॑ "देवा वसव्या अग्ने सोम सूर्य। देवा शर्मण्या मित्रा वरुणार्यमन्। देवाः सपीतयोऽपांनपादाशु हेमन्॥१॥ उद्नो दत्तो दधिं भिन्त दिवः पर्जन्यादंतरिक्षास्पृथिव्यास्ततो नो वृष्टद्यावत॥२॥ दिवा चित्तमः कृण्वंति पर्जन्येनोदवाहेन। पृथिवीं यद् ष्युन्दन्ति॥३॥ आ यं नरः सुदानवो ददाशुषे दिवः कोशमधुच्यवुः। वि पर्जन्याः सृजन्ति रोदसी अनु धन्वना यान्ति वृष्टयः ॥४॥ उदीरयथा मरुतः समुद्रतो यूथं वृष्टिं वर्षयथाः पुरीषिणः। न वो दस्त्रा उप दस्यन्ति धेनवः शुभं याता मनुरथा अवृत्सत॥५॥ सृजा वृष्टिं दिव आद्भिः") शर्मण्यान् सपीतीन् मरुतोऽपि च।  
+**[देवान् वसव्यान्]("देवा वसव्या अग्ने सोम सूर्य। देवा शर्मण्या मित्रा वरुणार्यमन्। देवाः सपीतयोऽपांनपादाशु हेमन्॥१॥ उद्नो दत्तो दधिं भिन्त दिवः पर्जन्यादंतरिक्षास्पृथिव्यास्ततो नो वृष्टद्यावत॥२॥ दिवा चित्तमः कृण्वंति पर्जन्येनोदवाहेन। पृथिवीं यद् ष्युन्दन्ति॥३॥ आ यं नरः सुदानवो ददाशुषे दिवः कोशमधुच्यवुः। वि पर्जन्याः सृजन्ति रोदसी अनु धन्वना यान्ति वृष्टयः ॥४॥ उदीरयथा मरुतः समुद्रतो यूथं वृष्टिं वर्षयथाः पुरीषिणः। न वो दस्त्रा उप दस्यन्ति धेनवः शुभं याता मनुरथा अवृत्सत॥५॥ सृजा वृष्टिं दिव आद्भिः") शर्मण्यान् सपीतीन् मरुतोऽपि च।  
 अभ्यर्थये वशे येषामेषा वृष्टिः प्रवर्तते॥६॥**
 
 **अग्निं वायुं रविं सोमं मन्महे सम्भवत्यपाम्।  
 उत्थानं प्रत्युपस्थानं धर्षणं वर्षणं यतः॥७॥**
-
-
 
  ग्रन्थ के आरंभ में मांगलिक शब्द का प्रयोग करना "समाप्तिकामो मंगल माचरेत्” इत्यादि शिष्टाचार नियम से आवश्यक माना गया है। अतएव श्रीविद्यावाचस्पतिजी ने निर्विघ्न ग्रन्थ समाप्ति के लिये ईश्वरवाचक अपने नाम का प्रयोग करके ग्रन्थ लिखने का प्रयोजन भी इसी प्रथम पथ के द्वारा बता दिया है।
 
@@ -1373,8 +1184,6 @@ A Hindoo savant in London.**
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 समुद्रं पृणा। अब्जा असि प्रथमजा बलमसि समुद्रियम्॥६॥ उन्नम्भयं पृथिवीं भिन्धीदं दिव्यं नभः। उद्नो दिव्यस्य नो देहीशानो विसृजा इतिम्॥७॥ (तै. सं. २।४।८ कारीरीष्टिः)॥ वायुर्वै दृष्ट्या ईशे (देवा वसव्याः शर्म्मण्याः सपीतयः-एता वै देवता वृष्टया ईशते॥) ("अहोरात्रे वै मित्रावरुणौ २।४।९। अहोरात्राभ्यां वै पर्जन्यो वर्षति। नक्तं वाहि दिवा वा वर्षति-मित्रावरुणा वेदास्मा अहोरात्राभ्यां पर्जन्यं वर्षयतः॥ अग्निर्वा इतो वृष्टिमुदीरयति। महतः सृष्टां नयन्ति। यदा खलु वा असावादित्यो न्यङ्रश्मिभिः पर्यावर्तते अथ वर्षति। एता वै देवता वृष्ट्या ईशते॥ (तै.सं. २।४।१० )॥
-
-
 
  ७–अग्नि, वायु, सूर्य और सोम की मैं प्रार्थना करता हूँ, जिनके द्वारा जल आकाश में जाता है, ठहरता है, स्थान से च्युत होता है और बरसता है। सोम (रस) भाग जल है। यह अग्नि द्वारा ऊपर जाता है और सूर्य इसे वृष्टि के अधिष्ठाता वायु (पर्जन्य) के द्वारा यहाँ बरसाता है। जैसा कि वेद में लिखा है—
 
@@ -1403,8 +1212,6 @@ A Hindoo savant in London.**
 **आदत्ते रश्मिभिर्यत्तु क्षितिसंस्थं रसं रविः।  
 तमुत्सृजति भूतानां पुष्ट्यर्थं सस्यवृद्धये॥११॥**
 
-
-
 **सरित्समुद्रभूमिस्थास्तथापः प्राणिसम्भवाः।  
 चतुःप्रकाराः भगवानादत्ते सवितांशुभिः॥१२॥**
 
@@ -1427,8 +1234,6 @@ A Hindoo savant in London.**
 
  जब शीतकाल में समुद्र के (स्वस्वस्तिक के) ऊपर रहता है तब वह अपनी तीव्र किरणों से समुद्र के जलको तपाकर हलका बना लेता है और हलके होने के कारण वह अपनी किरणों में धारण भी कर लेता है। इसी धारण किये हुए जल को फिर वह आकाश में फैला देता है। इस तरह आकाश में वह सूर्य द्वारा फैलाया हुआ जल ८ मास के बाद अर्थात् चातुर्मास्य में
 
-
-
 वरस जाता है। इस प्रकार यहाँ सूर्य को गर्भ धारण कराने वाला पुरुष मानकर आकाशरूपी स्त्री से जल का प्रसव होना बताया गया है। यह भाव ब्रह्म पुराण और विष्णु पुराण के निम्नलिखित चार श्लोकों में भी हैं।
 
  १०–सूर्य आठ महीनों तक मौलिकजल (हाईड्रोजन) लेकर उसे इस पेयजल में परिणत करके वरसाता है, इस से अन्न होता है, और अन्न से समस्त संसार जीवित रहता है।
@@ -1444,8 +1249,6 @@ A Hindoo savant in London.**
  (चन्द्रमा सोम के कारण शीत प्रकृति का है। जिस नक्षत्र काल में सूर्य की किरणों द्वारा जल आकाश में गया है, यदि उसी नक्षत्र पर चन्द्रमा भी है तो वह जल उसी शीत के प्रभाव से वहाँ स्थिर होजाता है इसी को गर्भ धारण होना कहते हैं। हाँ, यदि सूर्य और चन्द्रमा के मध्य में अग्निसम्बन्धी ग्रह जैसे मंगल, अथवा वायुसम्बन्धी ग्रह जैसे शनि आदि आजावे तो चन्द्रमा उस गर्भ को धारण नहीं कर सकता, क्योंकि इन अभि-वायुसम्बन्धी ग्रहों के कारण उसका प्रभाव कम होजाता है, और यदि उस समय गर्भ रह भी गया तो कुछ दिनों में उसका पात हो जायगा। चन्द्रमा गर्भ धारण करवाता है इसीलिए वेद में भी लिखा है कि “**सोमोवैरेतोधाः**” शत० इति।)
 
 ![](../books_images/U-IMG-1728538754Screenshot2024-10-10110905.png)
-
-
 
 **गर्भोपक्रमकालः।**
 
@@ -1477,8 +1280,6 @@ A Hindoo savant in London.**
 
  १६–किसी का मत है कि-मार्गशीर्ष से चार महीने फाल्गुन तक शीतकाल, चैत्र से चार महीने आषाढ तक उष्णकाल और श्रावण से चार महीने कार्त्तिक तक वर्षाकाल होता है।
 
-
-
  १७–इस समय में कार्त्तिक से माघ तक शीतकाल, फाल्गुन से ज्येष्ठ तक उध्यकाल और आषाढ से आश्विन तक वर्षाकाल माना जाता है।
 
  १८–शीतकाल में गर्भ धारण होता है, इसके बाद उष्णकाल में उसका परिपाक (पोषण) होता है और वर्षाकाल में वह प्रसूत होजाता है, अर्थात् बरस जाता है।
@@ -1496,8 +1297,6 @@ A Hindoo savant in London.**
  २२- २३–गर्भकाल के प्रारंभ का दिन मानने के विषय में किसी ग्रन्थ का यह मत है कि स्वाति पर सूर्य के आने से, या स्वाति के सूर्य में स्वाति नक्षत्र पर चन्द्रमा के होने से वा स्वाति के सूर्य पर अश्विनी के चन्द्रमा होने से, अथवा अनुराधा के सूर्य में अनुराधा नक्षत्र पर चन्द्रमा के आने से, या मूल पर सूर्य के आने से गर्भकाल का प्रारंभ होता है। इन पाँचों में मूलाक से उत्तर के दृढ़ फल वाले हैं और पहिले के मन्द फल हैं।
 
 ![](../books_images/U-IMG-1728539354Screenshot2024-10-10111903.png)
-
-
 
 **गर्भप्रसवकालः**
 
@@ -1530,8 +1329,6 @@ A Hindoo savant in London.**
 
  इस प्रकरण में विशेष करके गर्भ के प्रसव (वर्षा) काल काही वर्णन किया जायगा। २४–सूर्य दक्षिणगोल में ही हो किन्तु उत्तरायण हो चुका हो ऐसे समय में जिस नक्षत्र
 
-
-
 पर पहिले लिखे हुए वायु, बादल आदि पाँच प्रकार से गर्भस्थिति होजाय तो उसी नक्षत्र पर चन्द्रमा के आठवीं बार आने पर वर्षा होती है।
 
  २५–कई वैज्ञानिकों का मत है कि सूर्य, चन्द्रमा, नक्षत्र इन में से कोई भी वर्षा होने में कारण (सबब) नहीं बनता । केवल वायु से उठाया हुआ जल वायुद्वारा ही बरसाया जाता है ।
@@ -1549,8 +1346,6 @@ A Hindoo savant in London.**
  २८–जिस नक्षत्र पर चन्द्रमा के रहते हुए गर्भस्थिति हुई हो, उसी नक्षत्र पर आठवीं बार चन्द्रमा के आने से अर्थात् १९५ दिन में, उस दिन की गर्भस्थिति का जल बरस जाता है।
 
  २९–शुक्लपक्ष का रहा हुआ गर्भ कृष्णपक्ष में, कृष्णपक्ष का गर्भशुक्लपक्ष में और दिन का गर्भ रात्रि में तथा रात्रि का गर्भ दिन में वरसता है।
-
-
 
  (कारण यह है कि यद्यपि जिस पक्ष या जिस समय आकाश में गर्भ रहता है, वरसनेके समय भी उसी पक्ष और उसी समय के आकाश में रहता है, किन्तु वह आकाश पृथ्वी की चाल के कारण छः महीने बाद उलटा दिखाई पडता है। अर्थात् उस गर्भस्थिति के समय का आकाश यदि शुक्लपक्ष का है तो छः महीने बाद वह कृष्णपक्ष में पडेगा, या कृष्णपक्ष का है तो छः महीने बाद शुक्लपक्ष में। इसी तरह दिन का होगा तो वह आकाश छः महीने बाद रात्रि में और रात्रि का होगा तो वह छः महीने बाद दिन में पड़ेगा।)
 
@@ -1576,8 +1371,6 @@ A Hindoo savant in London.**
 **त्रीण्याढकानि वातेन विद्युता ष्णानवाभ्रकैः।  
 द्वादश स्तनितेनाथ पञ्चभिर्द्रोष्णपञ्चकम्॥३६॥**
 
-
-
 **शुभ्रग्रहयुते चन्द्रेऽर्के च गर्भाः सुवृष्टिदाः।  
 क्रूरग्रहयुते वज्रकरकामत्स्यवर्षदाः॥३७॥**
 
@@ -1601,8 +1394,6 @@ A Hindoo savant in London.**
 
  ३५–पहिले बताये हुये वायु, बादल आदि पाँच प्रकार से रहा हुआ गर्भं समय पर अर्थात् ६॥ महीने बाद सौ योजन (४०० कोस) के घुमेर में बरसता है । इन पांचों में एक एक लक्षण की कमी से गर्भ रहने पर उस सौयोजन के घुमेर में भी एक एक भाग के योजन की कमी करलेनी चाहिये। अर्थात् पाँचों लक्षणों से रहा हुआ गर्भ १०० योजन के घुमेर में, चार लक्षणों का ७५ योजन में, तीन का ५० में और दो या एक का २५ योजन के घुमेर में बरसता है।
 
-
-
  ३६–इन पांचों लक्षणों में भी केवल हवा से रहा हुआ गर्भ तीन आढक[^1] का एक आढक होता है। चार आढक का १ द्रोण। (कादम्बिनी द्वादश अ० श्लोक ३१३)"), बिजली से छः आढक, बादलों से नव आढक और गर्जना से बारह आढक और पांचों (वायु, विद्युत्, बादल, गर्जना, अल्पवृष्टि) से रहा हुआ गर्भ पाँच द्रोण जल बरसाता है।
 
 [^1]: "पचास पल (तोला
@@ -1622,8 +1413,6 @@ A Hindoo savant in London.**
 **अथ गर्भोपघाताः स्युरुत्पातास्त्रिविधा अपि।  
 भूकम्पोल्कारजोवृष्टिदिग्दाहाशनिकीलकम्॥४२॥**
 
-
-
 **खपुरं केतवो युद्धं निर्घातः परिघो धनुः।  
 उपरागो गर्भमासप्रोक्तलिंगविपर्ययः॥४३॥**
 
@@ -1637,8 +1426,6 @@ A Hindoo savant in London.**
  *भूचाल* चार प्रकार के होते हैं-आग्नेय, ऐन्द्र, वारुण और वायव्य। पृथ्वी की अग्नि की गति से आग्नेयकंप होता है, इस कंप में कहीं से जमीन तोड़कर आग की ज्वाला निकलती है। ग्रहों की चाल से ऐन्द्रकंप होता है। जब पृथ्वी के एक तरफ शनि हो, और दूसरी तरफ मंगल हो तो ये दोनों उस क्षण में सारी पृथ्वी को एकदम घुमा देते हैं। यही कंप सब से भयंकर और समस्त पृथ्वी भाग में होने वाला है। तीसरा कंपवारुण है, अर्थात् जल से होने वाला है यह समुद्र के आस पास के देशों में विशेष होता है। चौथा वायु की गति से वायव्यकंप होता है। *उल्कापात*में रात्रि के समय आकाश में प्रकाश की एक लंबी लाइन सी दीखती है किन्तु वह प्रारंभ में मोटी और पुच्छ भागों में पतली होती है। रजोवृष्टि में दिन के समय आकाश बिलकुल धुंधला दिखाई देता है। *दिग्दाह* से सुबह-शाम दिशाओं में आग जलती हुई दिखाई देती है। *वज्र* दो तरह के होते हैं-वज्र और महावज्र। वत्र त्रिकोण और महावज्र षट्कोण होता है।*कीलपात*में पश्चिम से पूर्व तक एक लम्बी लोहे के समान रेखा आकाश में दीखने लगती है। *गन्धर्वपुर* से आकाश में बादलों के नगर, मकान आदि दीखते हैं। आकाश में धूमकेतु नामक नये सारे उगते हैं। इनमें कई तारों का झुण्ड़ होता है। रण में एक पुच्छलतारा भी होता है। *निर्घात* होने से बड़े जोर की आवाज आती है। *परिघ* होने से उदय और अस्त के समय सूर्यबिम्ब के तीन तरफ काली रेखा दीखने लगती है। *धनुः–*इन्द्रधनुष को कहते हैं।
 
  ४४–इस तरह से गर्भ के नष्ट करने के दुर्निमित्त कहे गये हैं, अब आगे जिन से गर्भ का पोषण होता है वे निमित्त कहे जाते हैं।
-
-
 
 **गर्भदोहदाः।**
 
@@ -1672,8 +1459,6 @@ A Hindoo savant in London.**
 **गर्भोपघातको न स्युर्यदि स्युर्गर्भदोहदाः।  
 तदा वर्षति पर्जन्यस्तत्रानन्दः प्रवर्तते॥५४॥**
 
-
-
  ४५–गर्भ के दोहद \[पोषण\] काल में अर्थात् उष्णकाल में उत्तर, ईशान और पूर्व की वायु चले और वह वायु कोमल और हृदय को प्रसन्नता देती हुई हो तो इससे गर्भ पुष्ट होता है। तथा सूर्य और चन्द्रमा के चौतरफ सफ़ेद, चिकना और बड़ा मण्डल हो तो वह गर्भ को पुष्ट करनेवाला है।
 
  पृथ्वी अपने स्थान पर (गिर्द) घूमती हुई पश्चिम से पूर्व को चलती रहती है और सूर्य के चारों ओर घूमती हुई ईशान-कोण की तरफ झुकी हुई उत्तर को जाया करती है। पवन सामने की दिशाओं से उत्तर, ईशान और पूर्व से आता हुआ प्रतीत होता है। यह इधर की हवा परमेष्ठी (आकाश में सोमपदार्थ के एक मण्डल) से ध्रुव तक की ठंड़क को लिए हुए होती है, इसलिये यह गर्भ पुष्ट करती है।
@@ -1689,8 +1474,6 @@ A Hindoo savant in London.**
  मार्गशीर्ष में अधिक ठंड़ न पड़कर, पौष में अधिक ठंड़ पड़े, तो यह भी गर्भ पुष्टि का अच्छा लक्षण है।
 
  ५०–माघ में विशेष वायु चले, पाला गिरने से ग्रहों के तारों का प्रकाश कम हो, विशेष ठंड़ पड़े और सूर्य के उदयास्त समय बादल हों तो गर्भ पुष्ट हुए समझने चाहिये।
-
-
 
  ५१-५२–फाल्गुन मास में रूखी और जोर की हवा चले, स्निग्धता को लिये हुए सफेद बादल दिखाई दें, सूर्य-चन्द्रमा के चौतरफ अधूरे चक्र हों और सूर्य कपिल या ताम्रवर्णं का हो तो ये गर्भ पुष्टि के लक्षण हैं। तथा फाल्गुन में वृक्षों के पत्तों को गिराता हुआ तेज पवन चले और चैत्र में दक्षिण दिशा का अत्यन्त मधुरवायु बद्दे, तो वह भी गर्भ की पुष्टि करता है।
 
@@ -1720,15 +1503,11 @@ A Hindoo savant in London.**
 
  १–सब महीनों में नक्षत्रों का बढ़ना अच्छा है। क्योंकि नक्षत्र वृद्धि से गायें बहुत धीदूध वाली होती हैं, और प्रजा में उपद्रव नहीं होते।
 
-
-
  २–वर्षा ऋतु के तीनों महीनों में अर्थात् आर्द्रा नक्षत्र पर जब सूर्य आवे उस दिन से ९० दिन तक नक्षत्र बढ़े या तिथि बढ़े, तो अच्छा समय कहना चाहिये।
 
  *तिथि या नक्षत्र के बढ़ने और घटने का कारण।* ज्यौतिषशास्त्र में माना गया है कि एक सूर्योदय से दूसरे सूर्योदय तक ६० घड़ी अर्थात् २४ घंटे होते हैं और तिथि तथा नक्षत्र भी ६० घड़ी (२४ घंटे) के ही हुआ करते हैं। चन्द्रमा पृथ्वी के गिर्द घूमता हुआ सर्पिलगति में रहता है। इसका कारण यह है कि पृथ्वी स्थिर नहीं है, किन्तु सूर्य के गिर्द घूमती हुई अपने स्थान से कुछ २ आगे बढ़ती जाती है। सर्पिलगति में घूमता हुआ चन्द्रमा अठाईसवें वर्ष में उसी बिन्दु पर जाता है जिस विन्दु से कि उसकी गति का प्रारंभ माना जाय। इस गति में चन्द्रमा कभी तो पृथ्वी के समीप आ जाता है और कभी दूर चलाजाता है, किन्तु यह याद रखना चाहिये कि चन्द्रमा की अपनी चाल सदैव एकसी रहती है। लेकिन जब वह पृथ्वी के समीप होता है तब उसकी गति तीव्र मालुम होती है और चन्द्रमा पृथ्वी से दूर चला जाता है तब उसकी चालधीमी मालुम देने लगती है। अर्थात् जब चन्द्रमा के घूमने का मार्ग संकुचित होता है तब उसकीगति तेज प्रतीत होती है और जब उसके घूमने का मार्ग बड़ा होता है तब धीमी चाल प्रतीत होनेलगती है। धीमी चाल के कारण कभी कभी तिथि और नक्षत्र बीच में ही समाप्त हो जाते हैं, सूर्योदय के समय नहीं रहते, तब इस देश में तिथि या नक्षत्र का क्षय मान लिया जाता है। तीव्र गति के समय कभी कभी एक ही नक्षत्र या तिथि दो सूर्योदय काल तक रह जाते हैं। इस दशा में तिथि या नक्षत्र की वृद्धि मानी जाती है। तथा ज्योतिष का सिद्धान्त भी यही है कि नक्षत्र तथा तिथि वही मानी जाती है जोकि सूर्योदय काल में रहे। बस, इस तरह तिथि या नक्षत्र घटा-बढ़ा करते हैं ।
 
  ३–कृष्णपक्ष की कही हुई बातें अगर नियत दिनों में नहीं मिले, तो उस पक्ष के आगे के या पीछे के कृष्णपक्ष में उनकी परीक्षा करनी चाहिये। पहिले कई ग्रन्थ अमान्तमास के हिसाब से लिखे गये हैं तथा आजकल विशेष व्यवहार पूर्णिमान्तमास का है, अतः कहीं कहीं इस से विरुद्ध फल हो जाता है। आजकल महीने का आरंभ कृष्णपक्ष से मान कर उसकी समाप्ति पूर्णिमा पर मानी जाती है। लेकिन वास्तव में देखा जाय तो शुक्लपक्ष से मास का प्रारंभ करके, कृष्णपक्ष की अमावस्या को उस मास की समाप्ति माननी चाहिये। जिसे कि अमान्तमास कहते हैं। इस से चन्द्रमा का विशेष सम्बन्ध है। देखिए-पूर्णिमा के रोज चन्द्रमा पूर्ण अपनी यौवन अवस्था पर रहता है। फिर वह शनैः शनैः नित्य क्षीण होता हुआ अमावस्या को सर्वथा नष्ट हो जाता है। अर्थात् उसकी मृत्यु हो जाती है। और पुनः शुक्लपक्ष की प्रतिपदा से वह जन्म लेता है। इस तरह अमान्तमास
-
-
 
 में जन्म से मृत्यु पर्यन्त चन्द्रमाकी एक आयु पूर्ण हो जाती है। अतः यही अमान्तमास मानना उचित है। और इसीलिये पहले के ग्रन्थ इस मासके हिसाब से लिखे गये हैं।
 
@@ -1750,8 +1529,6 @@ A Hindoo savant in London.**
 
 **अब्दविंशोपकावारैः पञ्चम्यां शुक्लकार्तिके।  
 दिङ्नखाष्टादित्यधृतिनृपबाणमिताः क्रमात्॥७॥**
-
-
 
 **कार्तिकेऽभ्रध्रुवा शुक्ला द्वादश्येकादशी तिथिः।  
 न गर्जति न तत्राभ्रं तदा वर्षो न शोभनः॥८॥**
@@ -1786,8 +1563,6 @@ A Hindoo savant in London.**
 **अष्टम्यां कार्तिके कृष्णे दृश्यन्ते यदि विद्युतः।  
 तदा तु श्रावणे मासि वृष्टिर्नूनं भविष्यति॥१८॥**
 
-
-
  ५–कार्तिक शुक्ला द्वितीया या तृतीया के दिन वर्षा होनेसे उस वर्ष में बहुत जल बरसता है और यदि उन दोनों दिनोंमें न बरसे तो उस वर्षमें वृष्टि नहीं होती।
 
  ६–कार्तिक शुक्ला में द्वितीया,तृतीया,नवमी,एकादशी और त्रयोदशीके दिन वर्षा होने से या काले बादल होने से उस वर्ष में खूब वृष्टि होती है।
@@ -1809,8 +1584,6 @@ A Hindoo savant in London.**
  १४–कार्तिककी पूर्णिमा तिथि को रोहिणी नक्षत्र के होनेसे प्रजा में चैन नहीं रहता और दुर्भिक्ष होता है।
 
  १५–कार्तिक मासकी तुला संक्रान्तिके दिन वर्षाके होनेसे धान्य साधारण ही पैदा होता है और पौष (कुछ) सुभिक्षता होती है।
-
-
 
  १६–कार्तिक मास की संक्रान्ति के आखिरी दो दिन में खूब वर्षा हो जाय तो आगे वर्षाऋतु में अच्छी वर्षा होती है।
 
@@ -1842,8 +1615,6 @@ A Hindoo savant in London.**
 
 **मार्गस्य शुक्रद्वादश्याममायां यदि वर्षति।  
 तदा तत्र शुभा वृष्टिर्भवेद्भाविनि वत्सरे॥२५॥**
-
-
 
 **मार्गकृष्णे चतुर्थ्याद्यास्तिथयो गर्भधारणाः।  
 गर्भे तत्राहिते नूनं वर्षत्याषाढशुक्लके॥२६॥**
@@ -1878,8 +1649,6 @@ A Hindoo savant in London.**
 **दशम्यादित्रये मार्गे चित्रास्वातिविशाखभे।  
 गर्भे सति शुचौ तद्भे त्रिरात्रं वृष्टिसंभवः॥३६॥**
 
-
-
 **द्वादश्यां च त्रयोदश्यां चतुर्दश्याममातिथौ।  
 वायुः सार्वदिशोकश्चेन्मार्गेऽषाढे स वर्षति॥३७॥**
 
@@ -1906,8 +1675,6 @@ A Hindoo savant in London.**
 
  २४–मार्गशीर्ष शुक्ला दशमीको यदि बादलोंकी गर्जना होवे तो ज्येष्ठ पा श्रावणकृष्ण (प्रचलित व्यवहार से आषाढकृष्ण वा भाद्रकृष्ण) में वर्षा होती है।
 
-
-
  २५–मार्गशीर्ष शुक्ला द्वादशी और अमावस्या के रोज़ यदि वर्षा हो जावे तो आगे वर्षाकाल में अच्छी वर्षा होवे।
 
  २६–मार्गशीर्ष कृष्ण (पौषकृष्ण ) में चतुर्थी से (९ दिन तक) गर्भ धारणकी तिथियाँ हैं। इन दिनों में गर्भके पूर्वोक्त लक्षण दिखाई देने से आषाढशुक्ला में निश्चयपूर्वक वर्षा होती है।
@@ -1929,8 +1696,6 @@ A Hindoo savant in London.**
  ३३–मार्गशीर्ष कृष्ण (पौ० कृ०) सप्तमी और नवमीको यदि ईशान कोण में काले बादल खूब हों तो उस वर्ष वृष्टि या हवा कम होय।
 
  ३४–मार्गशीर्ष कृष्ण (पौ० कृ०) दशमी की रात्रि में वर्षा के होने से भाद्रपद मास में खूब वर्षा होती है।
-
-
 
  ३५–मार्गशीर्ष कृष्णा (पौष कृष्णा) में एकादशीके दिन दक्षिणका पवन घले, बादल बिजलियाँ भी होवें तो दुर्भिक्ष पड़ता है।
 
@@ -1958,8 +1723,6 @@ A Hindoo savant in London.**
 
 **पूर्वाषाढागतो भानुर्जीमूतैर्यदि वेष्टितः।  
 वर्षत्यार्द्रादिमूलान्तं प्रत्यक्षं प्रत्यहं तदा॥४३॥**
-
-
 
 **रेवत्यर्के तु वृष्टिश्चेद्दशर्क्षेषु न वर्षति।  
 गर्भपातः स विज्ञेय इत्युक्तं नारदर्षिणा॥४४॥**
@@ -1997,8 +1760,6 @@ A Hindoo savant in London.**
 **एकादश्यां पौषशुक्ले विद्युद्घनघटाहिमम्।  
 यदि स्याद्रोहिणीयोगः सजलस्तर्हि भाव्यते॥५५॥**
 
-
-
 **एकादश्यां नवम्यां च पौषशुक्ले वलाहकाः।  
 पूर्वस्यां दिशि गर्जंतो जायन्ते सस्यघातकाः॥५६॥**
 
@@ -2034,8 +1795,6 @@ A Hindoo savant in London.**
 
 **पौषस्य पूर्णिमा विद्युत्सम्पन्ना वा हिमान्विता।  
 अभ्रच्छन्नं नमो वा स्यादाषाढे मा प्रवर्षति॥६७॥**
-
-
 
 **यद्येकलक्षणे वापि गर्भः पौषे न जायते।  
 तदा वदन्ति दैवज्ञा वर्षाकाले ह्यवर्षणम्॥६८॥**
@@ -2073,8 +1832,6 @@ A Hindoo savant in London.**
 **पौषकृष्णदशम्यां स्याद्विशाखा निशि वा दिवा।  
 शुभयोगोऽयमाख्यातः प्रावृषि प्रौढवृष्टिदः॥७९॥**
 
-
-
 **दशम्यां पौषकृष्णायां विद्युद्घनघटा यदि।  
 तदा भाद्रपदे वृष्टिः पूर्णिमायां भविष्यति॥८०॥**
 
@@ -2105,8 +1862,6 @@ A Hindoo savant in London.**
 
  ४२–पौष शुक्ला में प्रतिपदा से दशमी तक गर्भ रह जाय तो भी चातुर्मास्यमें अच्छी वृष्टि होती है। यदि इस गर्भका चैत्र में पतन न होवे तब।
 
-
-
  ४३–पौष में पूर्वाषाढनक्षत्रका सूर्य यदि बादलों से ढका हुआ होवे तो भाषाढमें आर्द्रा पर जब सूर्य वे तब मूलनक्षत्र पर्य्यन्त नित्य वर्षा होय।
 
  ४४–रेवती के सूर्यमें अर्थात् चैत्रमें वर्षा हो जाने और रेवसीके आगे के अश्विनी आदि दश नक्षत्रों में नहीं होने तो गर्भपात समझना-यह नारद ऋषिका मत है।
@@ -2129,8 +1884,6 @@ A Hindoo savant in London.**
 
  ५३–पौष शुक्ला में सप्तमीके दिन रेवतीनक्षत्रके, अष्टमीको अश्विनीके और नवमी को भरणी नक्षत्र के होने पर बिजली चमके, बर्फ गिरे या अच्छी हवा चले अर्थात् पूर्व, उत्तर ईशान, पश्चिमकी हवा चले तो गर्भका होना समझना चाहिये।
 
-
-
  ५४–पौष शुक्ला में सप्तमीके दिन रेवती नक्षत्र के और अष्टमी, नवमीको अश्विनी नक्षत्रके होने पर जलकी बूंदें, बर्फ ( पाला ) और पूर्व या उत्तरकी हवाका चलना उत्तम है।
 
  ५५–पौष शुक्ला एकादशीको बिजली, बर्फ और बादलों की घटा होवे और यदि इस दिन रोहिणी नक्षत्रका योग भी होवे तो उस वर्ष वृष्टि अच्छी होती है।
@@ -2143,7 +1896,7 @@ A Hindoo savant in London.**
 
  ५९–पौष शुक्ला चतुर्दशीको बिजली दीखना उत्तम है। इससे आषाढ़ कृष्ण अर्थात्श्रावण कृष्णा में खूब जल बरसता है।
 
- ६०–यदि उक्त दिन में बादल सूर्य को ढककर [ऐरावत](http://॑) (लाल रंग का लंबा इन्द्रधनुषकी तरह ९ चिन्ह) से युक्त होकर गर्जना करे तथा बिजलियाँ भी चमकें तो गर्भ श्रेष्ठ समझना चाहिये।
+ ६०–यदि उक्त दिन में बादल सूर्य को ढककर [ऐरावत]() (लाल रंग का लंबा इन्द्रधनुषकी तरह ९ चिन्ह) से युक्त होकर गर्जना करे तथा बिजलियाँ भी चमकें तो गर्भ श्रेष्ठ समझना चाहिये।
 
  ६१–यदि उक्त दिन में उत्तर दिशा की तरफ सुनहरी बिजली दिखाई देवे तो उसे शीघ्र ही बहुत मेघ आने वाला समझना चाहिये।
 
@@ -2154,8 +1907,6 @@ A Hindoo savant in London.**
 —————————————————————————————————————————
 
 \*"एतदिन्द्र धनुर्वक्रं तदेव ऋजु रोहितम् । ऐरावतं च तत्प्रोक्तं फलमस्य धनुःसमम्" इति।
-
-
 
  ६५-६६–पौषमास की पूर्णिमाको बादलों के कारण चन्द्रमा नहीं दीखे और उत्तर तथा दक्षिण दिशा में बिजलियाँ चमकें और आकाश भी खूब बादलों से घिरा हुआ हो तो यह जल बरसाने का उत्तम योग है। इससे श्रावणकी अमावस्यामें अत्यन्त वर्षा होती है।
 
@@ -2181,8 +1932,6 @@ A Hindoo savant in London.**
 
  ७६–पौष कृष्णा (माघकृष्णा) अष्टमीकी आधीरातमें गर्जना होने से चातुर्मास्य में
 
-
-
 (आर्द्रा नक्षत्र पर जब सूर्य आवे तब से ४ मास तक) अच्छी वर्षा होती है। इस तरह ज्यौतिषी कहते हैं।
 
  ७७–पौष कृष्णा (मा० कृ०) अष्टमीको वृष्टिके न होने से, आर्द्रा पर सूर्य आवि तब महावृष्टि होती है।
@@ -2204,8 +1953,6 @@ A Hindoo savant in London.**
  ८५–पौष के ३० दिनों में २॥ दिनके हिसाबसेपौषसे प्रारंभ करमार्गशीर्ष तक के १२महीनों को कल्पना करनी चाहिये।इस कल्पनामें जिस महीनेकी तिथिकोजैसी वर्षा वगैरह हो वह ही फल उन १२ महीनों का समझना चाहिये।
 
  जैसे पौष शुक्ल प्रतिपदा से २॥ दिन अर्थात् तृतीया तिथिके १२ बजे तक पौषमास की कल्पना इसके बाद २॥ दिन अर्थात् षष्ठी तिथि तक माघके महीने की कल्पना होती है। इस तरह १२ महीनों की कल्पना करनी चाहिये।
-
-
 
  ८६-८७–पौष में संक्रान्ति के दिन रवि, शनि या मंगलवार के होने से धान्य क्रम से दूना, तिगुना और चौगुना महँगा होजाता है। और बुध या शुक्रवार से समानता, वृहस्पति या चन्द्रवार से आधा मूल्य होजाता है। इस तरह वारों के क्रम से कई मनुष्य धान्य का फल कहते हैं।
 
@@ -2243,8 +1990,6 @@ A Hindoo savant in London.**
 **माघशुक्ले तु सप्तम्यां हैमी विद्युल्लता यदि।  
 वृष्टिर्घनघटा वापि चातुर्मास्यं सुवर्षति॥९७॥**
 
-
-
 **माघी च सप्तमी शुक्ला तृतीया माघवी यदि।  
 एकस्मिन् वासरे स्यातां रोलिकासंभवस्तदा॥९८॥**
 
@@ -2279,8 +2024,6 @@ A Hindoo savant in London.**
 
 **माघशुक्लनवम्यां चेन्निरभ्र दृश्यते नभः।  
 साभ्रो यामश्चतुर्थः स्याद्वृष्टिर्भाद्रपदे तदा॥१०८॥**
-
-
 
 **नवमी निर्मला सर्वा साभ्रं किंचिन्न दृश्यते।  
 तदा जलं न कुत्रापि प्राप्यते सागरं विना॥१०९॥**
@@ -2317,8 +2060,6 @@ A Hindoo savant in London.**
 **माघे नवम्यां कृष्णायां मूले विद्युद्घटाधनुः।  
 दशमी नवमी शुक्ला वृष्टिदाषाढेभाद्रयोः॥११९॥**
 
-
-
 **नवम्यां च दशम्यां चैकादश्यां माघकृष्णके।  
 विद्युद्घनघटावाता भवंति बहुवृष्टये॥१२०॥**
 
@@ -2346,8 +2087,6 @@ A Hindoo savant in London.**
 
  ९२–माघ शुक्ला पञ्चमी को बादलों के होने पर भी यदि वर्षा न होवे तो भाद्रपद में वर्षा कम होती है और यदि इस दिन उत्तर दिशा की हवा चलती हो तो वर्षा का अभाव समझना चाहिये।
 
-
-
  ९३–माघ शुक्ला षष्ठी को सोमवार होने पर भी यदि बादलों में गर्जना न होवे तो कपास वगैरह महँगे होवें।
 
  ९४–माघ शुक्ला सप्तमी को घड़ियों के चार विभाग करें और उनमें चातुर्मास्य की क्रमशः कल्पना करके जिस घड़ी में जैसी वर्षा या मेघघटा वगैरह दिखाई दें वही फल उन उन महीनों का कहना चाहिये।
@@ -2369,8 +2108,6 @@ A Hindoo savant in London.**
  १०२–माघ शुक्ल अष्टमी को सूर्य बादलों से ढका हो और रात्रि में चन्द्रमा साफ दीखता हो अर्थात् बादल न हों तो यह दुर्भिक्ष का लक्षण समझना चाहिये।
 
  १०३–माघ में भरणी और कृत्तिकानक्षत्र के दिन की विशेष परीक्षा करनी चाहिये। इन दिनों में बादलों के होने से धान्य की उत्पत्ति और न होने से धान्य की हानि होती है।
-
-
 
  १०४–माघ शुक्ला अष्टमी को यदि कृत्तिकानक्षत्र भाजावे तो फाल्गुन में धान्य पर रोली लगे अथवा श्रावण में वर्षा का अभाव होता है।
 
@@ -2395,8 +2132,6 @@ A Hindoo savant in London.**
  ११३–माघ की पूर्णिमा को चन्द्रमा के कुण्डलना का होना, उत्तर और दक्षिण की बिजलियां होना, खराब दिशा (नैऋत्य) की हवा का चलना तथा बादलों का होना-ये सब लक्षण खराब हैं।
 
  ११४–माघ की पूर्णिमा के प्रहरों में वर्षाऋतु के चारों महीनों की भावना करे। जिस प्रहर में बादल दिखाई दें उस प्रहर में कल्पना किये हुए मास में अनावृष्टि होती है।
-
-
 
  ११५–माघकृष्णा (प्रचलित व्यवहार से फाल्गुन कृष्णा) द्वितीया को बिजलियाँ और बादलों के होने से श्रावण तथा भाद्रपद में वर्षा होती है और सुभिक्ष होता है।
 
@@ -2427,8 +2162,6 @@ A Hindoo savant in London.**
 
 **फाल्गुने प्रतिपच्छुक्ला शुभा शतभिषा युता।  
 यावती वारुणी भुक्तिर्वर्ष सिद्धिश्च तावती॥१२६॥**
-
-
 
 **फाल्गुने सप्तमी शुक्ला द्रोणमेकं प्रवर्षति।  
 भाद्रे च पंचमी कृष्णा नवमी चाति वर्षति॥१२७॥**
@@ -2464,8 +2197,6 @@ A Hindoo savant in London.**
 पश्चिमो मध्यवर्षाय दुर्भिक्षाय तु दक्षिणः॥१३७॥**
 
 [^5]: "मेघमहोदयः।"
-
-
 
 **फाल्गुने पूर्णिमायान्तु शुक्रशन्यारवासराः।  
 पीडयन्ति प्रजां सर्वां विभिन्नानेकबाधया॥१३८॥**
@@ -2503,8 +2234,6 @@ A Hindoo savant in London.**
 **अमायां फाल्गुने मासि यदि मंगलवासराः।  
 प्रावृड् दुष्कालतां याति कर्तव्यो धान्यसंग्रहः॥१४९॥**
 
-
-
 **फाल्गुने यदि संक्रान्तौ देवो वर्षति कर्हिचित्।  
 वैचित्र्यं जायते सस्ये वैशाखज्येष्ठयोः शुभम्॥१५०॥**
 
@@ -2530,8 +2259,6 @@ A Hindoo savant in London.**
 
  १३२–फाल्गुनशुक्ला सप्तमी और पूर्णिमा के दिन बिना जल के (सफेद) बादल हों, विशेष हवा न चलती हो तथा बिजलियाँ भी हों तो सुभिच समझना चाहिये।
 
-
-
  १३३–फाल्गुन की पूर्णिमा में चन्द्रग्रहण होने से, इससे आठवें मास (कार्त्तिक) में सब धान्य महँगे होजाते है।
 
  १३४–फाल्गुन की पूर्णिमा को होलीदाह के समय बिजलियों और बादलों की घटा होने से गेहूँ वगैरह धान्य में रोली लग जाती है। अर्थात् नष्ट होजाते हैं।
@@ -2551,8 +2278,6 @@ A Hindoo savant in London.**
  १४२–फाल्गुनकृष्णा (चै० कृ०) द्वितीया को खूब बादलों की घटा होने से तथा जल बरस जाने से कार्तिक में वर्षा होती हैं।
 
  १४३–फाल्गुनकृष्णा (चै० कृ०) तृतीया को पूर्व और उत्तर की वायु से वर्षा होती है तथा इसी चतुर्थी को वर्षा होने से दुर्भिक्ष पड़ता है।
-
-
 
  १४४–फाल्गुनकृष्णा (चै० कृ०) पञ्चमी को हस्तनक्षत्र के रहते हुऐ बादल, बिजली और गर्जना न होवे तो संवत्सर उत्तम समझना चाहिये।
 
@@ -2581,8 +2306,6 @@ A Hindoo savant in London.**
 
 **मेषसंक्रमकालात्तु दिनेषु नवसु क्रमात्।  
 यत्राभ्रं पवनो विद्युत् तत्रार्द्रादिषु वर्षति॥१५४॥**
-
-
 
 **संक्रांतिदिवसे यद्वा नवयामेषु यद्यथा।  
 यस्यां च दिशि वातादि गर्भास्तद्धे च तत्तथा॥१५५॥**
@@ -2620,8 +2343,6 @@ A Hindoo savant in London.**
 **प्रथमे दिवसे चैत्रे यदि गर्जति वर्षति।  
 तदा तु श्रावणे मासि तत्र वर्षति वासवः॥१६६॥**
 
-
-
 **द्वितीयायां पूर्ववायुरनभ्रं भाद्रष्टष्टये।  
 तृतीयायां सुभिक्षाय विद्युल्लेखा च गर्जितम्॥१६७॥**
 
@@ -2657,8 +2378,6 @@ A Hindoo savant in London.**
 
 **दिनद्वयं प्रवहतो वायू दक्षिणपश्चिमौ।  
 तदा नोत्पद्यते धान्यं दुर्भिक्षं तत्र जायते॥१७८॥**
-
-
 
 **शुक्लायां चैत्रसप्तम्यामार्द्राभ्रं यदि वर्षति।  
 तदा वदन्ति दैवज्ञाः श्रावणे नैव वर्षति॥१७९॥**
@@ -2696,8 +2415,6 @@ A Hindoo savant in London.**
 **एताश्चतस्त्रो गर्भस्य क्षयपुष्टिकरा मधौ।  
 न भवेदासु वृष्टिश्चेत्तदा वृष्टिर्भवेद् ध्रुवम्॥१९०॥**
 
-
-
 **पञ्चमी सप्तमी चैत्रे नवम्येकादशी सिता।  
 त्रयोदशी पूर्णिमा च दिनेष्वेतेषु वर्षणात्॥१९१॥**
 
@@ -2733,8 +2450,6 @@ A Hindoo savant in London.**
 
 **द्वितीयायां तृतीयायां चतुर्थ्यां पञ्चमीतिथौ।  
 चैत्रकृष्णे पूर्ववातो वृष्टियुक्तोऽप्यवृष्टिकृत्॥२०२॥**
-
-
 
 **चैत्रे पञ्चरवेर्वारा दुर्भिक्षस्यातिलक्षणम्।  
 चैत्रे पञ्चचशनेर्वारा मरकं सूचयंति हि॥२०३॥**
@@ -2772,8 +2487,6 @@ A Hindoo savant in London.**
 **यावद् घट्यादि मानास्यादमा फाल्गुनचैत्रयोः।  
 तावदेवार्घमानं स्यादन्नानां कार्तिके ध्रुवम्॥२१४॥**
 
-
-
 **चैत्रेऽमायां सुभिक्षत्वं समं रोगोऽल्पवर्षणम्।  
 दुःखं क्रमेण जायन्ते रेवत्यादिषु पञ्चसु॥२१५॥**
 
@@ -2792,8 +2505,6 @@ A Hindoo savant in London.**
  १५९–चैत्र शुक्ला प्रतिपदा से दशमी तक की तिथियाँ आषाढ से दश पक्षों की अर्थात् पाँच महीनों की साक्षी समझनी चाहिये इन दश दिनों में गर्भपात की परीक्षा करनी चाहिये।
 
  १६०–गर्भ के साक्षीभूत उपरिलिखित दश दिनों के घटिकात्मक चार विभाग (अर्थात् २॥२॥दिन के) करके उन में एक-एक दिन की कल्पना करनी चाहिये (इन चार दिनों को वर्षाकाल के चार मास माने हैं) जिस दिन के विभाग में गर्भपात होजाय उसी मास में अवृष्टि समझनी चाहिये।
-
-
 
  १६१–चैत्र शुक्ला में आर्द्रा से स्वातिनक्षत्र तक बादल रहे लेकिन जल न बरसे तो संवत्सर उत्तम समझना चाहिये।
 
@@ -2814,8 +2525,6 @@ A Hindoo savant in London.**
  १६९–चैत्र शुक्ला चतुर्थी को उत्तर दिशा की हवा चले और बादल नहीं होय तो कार्तिक में उसी चतुर्थी को वृष्टि होगी।
 
  १७०–चैत्र शुक्ला चतुर्थी को यदि जल की बूंदें गिर जायँ तो अनावृष्टि से उस वर्ष में घोर दुर्भिक्ष पड़े।
-
-
 
  १७१–चैत्र शुक्ला चतुर्थी को यदि बादल खूब होय तोभी अनावृष्टि से उस वर्ष में भारी दुर्भिक्ष पड़े।
 
@@ -2839,8 +2548,6 @@ A Hindoo savant in London.**
 
  १८१–चैत्र शुक्ला में पंचमी, सप्तमी और त्रयोदशी को वर्षा होने से या बिजली चमक ने से अथवा गर्जने तक से भी चातुर्म्मास्य की वर्षा का नाश हो जाता है।
 
-
-
  १८२–चैत्र शुक्ल में चन्द्रमा से यदि रोहिणी उत्तर की तरफ हो तो सुभिक्ष समझना और यदि दक्षिण की तरफ होवे तो रोग पीड़ा होवे तथा आगे की तरफ होवे एवं पीछे की तरफ होने से दुर्भिक्ष पड़े।
 
  १८३–चैत्र शुक्ला पञ्चमी को यदि रात दिनरोहिणी नक्षत्र रहै और आकाश में बादल रहै तो गर्भ परिपूर्ण समझना। अर्थात् गर्भ में कोईविकार नहीं हुआ और प्रसव के महीनों में अवश्य अच्छी वर्षा होगी।
@@ -2858,8 +2565,6 @@ A Hindoo savant in London.**
  १८९–इन में किसी का यह मत है कि–इस चैत्र शुक्ला पंचमी की वृष्टि से श्रावण की वर्षा नष्ट होती है, सप्तमी की वर्षा से भाद्रपद की वर्षा, नवमी की वर्षा से आश्विन की वर्षा और पूर्णिमा की वर्षा से कार्तिक की वृष्टि नष्ट होजाती है। यह मत श्रावण से कार्तिक तक वर्षाकाल मानने वालों का समझना।
 
  १९०–चैत्र में यही उपर्युक्त चारों तिथियाँ गर्भ की पुष्टि और हानि करने वाली हैं। यदि इन दिनों में वर्षा न हुई अर्थात् गर्भस्राव न हुआ तो निश्चय अच्छी वर्षा होगी।
-
-
 
  १९१-१९२–चैत्र शुक्ला पंचमी, सप्तमी, नवमी, एकादशी, त्रयोदशी और पूर्णिमा इन तिथियों में वर्षा होने से वा ओले गिरने से वा बिजली चमक ने से अथवा गर्जने तक से भी वर्षाकाल में वृष्टि समय पाकर के ही होती है अर्थात् बहुत कम वृष्टि होती है।
 
@@ -2880,8 +2585,6 @@ A Hindoo savant in London.**
  २००–चैत्र कृष्णा (वै० कृ०) तृतीया को यदि हवा पूर्व या उत्तर दिशा की चले तो वर्षाकाल में खूब जल बरसे तथा सुभिक्ष रहे।
 
  २०१–चैत्रकृष्णा (वै० कृ०) चतुर्थी की वर्षा दुर्भिक्ष करने वाली है। चैत्र कृष्णा (वै० कृ०) पंचमी को हस्तनक्षत्र के रहते हुए यदि बादल न हों तो वह वर्ष श्रेष्ठ समझना।
-
-
 
  २०२–चैत्र कृष्णा (वै० कृ) द्वितीया, तृतीया, चतुर्थी और पंचमी को यदि वृष्टि के सहित पूर्व दिशा की हवा हो तो भी वर्षाकाल में वर्षा को नष्ट करती है।
 
@@ -2906,8 +2609,6 @@ A Hindoo savant in London.**
  २११–उपर्युक्त दिनों में जिस दिशा में बादल हुए हो उसी दिशा में वृष्टि होगी। अगर उस दिशा में गर्जना होगई वा बिजली चमक गई तो अनावृष्टि समझना चाहिये।
 
  २१२–चैत्र कृष्णा (वै० कृ०) में दशमी और एकादशी के दिन बादलों के न होने से अच्छी वर्षा होती है। और खूब बादलों के होने से दर्भिक्ष होता है।
-
-
 
  २१३–यदि चैत्रकृष्णा (वै० कृ०) त्रयोदशी को मीन की संक्रान्ति होवे और उस दिन शनिवार भी होवे तो उस वर्ष में बहुत कम धान्य पैदा होता है।
 
@@ -2940,8 +2641,6 @@ A Hindoo savant in London.**
 शुभाशुभं यथा ब्रूतस्तथा वर्षे शुभाशुभम्॥२२१॥**
 
 इति शकुनपरीक्षा।
-
-
 
 **आमं कुलालकुलतो नीत्वाऽमत्रीचतुष्टयम्।  
 तदाषाढादि भावेन भावितं तोयपूरितम्॥२२२॥**
@@ -2976,8 +2675,6 @@ A Hindoo savant in London.**
 **अक्षयायां तृतीयायां सन्ध्यायां सप्तधान्यकम्।  
 पुञ्जीकृत्य स्थापनीयं वृक्षाधस्तात् पृथक् पृथक्॥२३०॥**
 
-
-
 **यद्विस्तृतं स्यात्तद्धान्यं तद्वर्षे बहु जायते।  
 पुंजरूपं तु यत्तिष्ठेत् तन्न निष्पद्यते बहु॥२३१॥**
 
@@ -3010,8 +2707,6 @@ A Hindoo savant in London.**
 
 इति गर्भपरीक्षा।
 
-
-
 **राधे शुक्लतृतीयायां यामे पश्यत पश्चिमे।  
 मासाश्चत्वार आषाढा घटीद्वयविभागतः॥२३९॥**
 
@@ -3040,13 +2735,10 @@ A Hindoo savant in London.**
 
 इत्यक्षयतृतीया।
 
-
 **अथैकमासतः पश्चाच्चण्डमारुतसंचरे।  
 गर्जेद्भाद्रे महेन्द्रोऽयमम्बरे मेघडम्बरे॥२४७॥**
 
 इत्युग्रवातपरीक्षा।
-
-
 
 **चतुर्थ्या शुक्लवैशाखे सन्ध्यायामुत्तरोऽनिलः।  
 सुभिक्षायाथ पंचम्याँ पूर्ववातो महार्घकृत्॥२४८॥**
@@ -3084,8 +2776,6 @@ A Hindoo savant in London.**
 **वैशाखीतः समारभ्य यावत्कृष्णामिहाष्टमीम्।  
 गर्भैरार्द्रादिसूर्यर्क्षनवके वृष्टिरुच्यते॥२५९॥**
 
-
-
 **तत्रापि ननु वैशाख्या अहोरात्रघटीगणैः।  
 चतुर्दशविभक्तैस्ते कल्प्या आर्द्राभवासराः॥२६०॥**
 
@@ -3116,8 +2806,6 @@ A Hindoo savant in London.**
 
  २१९-२२०–वैशाख शुक्ल की द्वितीया की रात्रि में जिसमें तृतीया आगई हो, दूसरे के घर जाकर कुछ वस्तु मांगनी चाहिय। इससे उस वर्ष की परीक्षा होती है। यदि गृह-स्वामी उस या-
 
-
-
 चक को प्रसन्नता पूर्वक अभिलाषित वस्तु देदे और शुभ तथा मीठे बच्चन बोले तो वह वर्ष उत्तम समझना यदि इससे विपरीत हो तो फल भी उलटा ही समझना। अर्थात् वर्ष भी खराब ही होगा।
 
  २२१–इसी तरह उसी रात्रि में किसी के घर जाकर स्त्री-पुरुष की बातचीत सुने, वे जैसी बाते करते हों वैसा ही उस वर्ष का फल समझना । अर्थात् यदि वे राजी खुशी का प्रेमालाप करते हों तो वर्ष श्रेष्ठ है और उनमें कलह युक्त वार्तालाप होरहा हो तो वर्ष भी खराब ही रहेगा। (महाभारत के मत से धोबी के घर जाना उचित है)
@@ -3133,8 +2821,6 @@ A Hindoo savant in London.**
 [^7]: "काकपिण्डविधिः 'मेरुतन्त्र' में लिखी है।"
 
 **इति काकपरीक्षा**
-
-
 
  २२८-२२९–अक्षय तृतीया को किसी पात्र में जल भर कर उसमें सूर्य के प्रतिबिम्ब को देखे और उससे उस वर्ष का फल बिचारे। यदि उसमें लाल बिम्ब दीखे तो लड़ाई, लीला और पीला दीखे तो रोग, सफेद दीखे तो सुभिक्ष और धूसर (मिटिया) रंग का दीखे तो मूषक (चूहे) वगैरह से दुःख रहे।
 
@@ -3153,8 +2839,6 @@ A Hindoo savant in London.**
  २३४–अक्षय तृतीया के दिन कृत्तिकानक्षत्र के होने से सामान्य वर्षा होती है और रोहिणी के होने से सुभिक्ष तथा मृगशीर्ष के होने से दुर्भिक्ष होता है।
 
  २३५–अक्षय तृतीया को यदि रोहिणीनक्षत्र का तारा अस्त नहीं हुआ और चन्द्रमा उससे पहिले ही अस्त होगया तो दुर्भिदा समझना। और यदि रोहिणी पहिले अस्त हो गई और चन्द्रमा इसके बाद अस्त हुआ तो सुभिदा है। इसी बात को लक्ष्य में रखते हुए मारवाड़ में यह कहावत प्रसिद्ध है कि–“**चाँद छोडे हरिणी तो परण्यो छोडे परणी**” अर्थात् हरिणी जोकि रोहिणी से समीपवर्ती तारा है उसे यदि चन्द्रमा छोड़कर उस दिन अस्त होगया तो इतना दुर्भिक्ष पढ़ेगा कि पति अपनी पत्नी तक को भी छोड़ देगा।
-
-
 
  २३६–अक्षय तृतीया को चन्द्रमा सूर्य से बाँई तरफ अस्त होवे तो खराब है। उत्तर की तरफ रहै। वह सुभिक्ष करता है और बराबर लाइन में हो तो दुर्भिक्ष होता है।
 
@@ -3177,8 +2861,6 @@ A Hindoo savant in London.**
  २४४–अक्षय तृतीया को पूर्व और उत्तर की हवा से वृष्टि होती है और दक्षिण तथा नैऋत्यकोण की हवा से वृष्टि की रुकावट होती है।
 
  २४५–कई विद्वानों का मत है कि पश्चिम की हवा से भी खूब वृष्टि होती है। आकाश में बादलों की चाल देखकर वायु की गति पहिचाननी चाहिये।
-
-
 
  २४६–अक्षय तृतीया से पाँच या सात दिन के अन्दर खूब हवा चले तो धान्य कम पैदा होता है और इसके बाद चले तो विशेष पैदा होवे।
 
@@ -3207,8 +2889,6 @@ A Hindoo savant in London.**
 
  २५५–चैत्र और वैशाख के दोनों पक्षों की चतुर्दशी और अष्टमी को दक्षिण की हवा से मेघ खूब बरसता है।
 
-
-
  २५६–चैत्र और वैशाख के दोनों पक्षों की अष्टमी और चतुर्दशी को बिजली, दृष्टि और गर्जना के होने से वर्षाऋतु में वर्षा का आनन्द विशेष प्राप्त होता है।
 
  २५७–वैशाख की पूर्णिमा में चन्द्रमा का ग्रहण होवे तो धान्य की कमी से पांचाल (पंजाब) देश और शूरसेन (संयुक्त प्रान्त) देश पीड़ा को प्राप्त होता है।
@@ -3228,8 +2908,6 @@ A Hindoo savant in London.**
  २६५–वैशाख की अमावास्या को दिन में वा रात में यदि खूब जल बरसे तो वर्षा ऋतु में अनावृष्टि होती है। यही फल कई विद्वान् ज्येष्ठ की अमावास्या का मानते हैं।
 
 **इति वैशाखः।**
-
-
 
 **ज्येष्ठः।**
 
@@ -3265,8 +2943,6 @@ A Hindoo savant in London.**
 **रोहिण्यर्के तु रोहिण्या चन्द्रयोगोल्पकोऽपि चेत् ।  
 तदा दुर्भिक्षमादेश्यं तद्देशे दुर्दशाकरम्॥२७५॥**
 
-
-
 **रोहिण्यर्के द्वितीयायां रोहिण्या युज्यते शशी।  
 कदाचिद्दैवयोगेन तदा तत्र महाभयम्॥२७६॥**
 
@@ -3300,8 +2976,6 @@ A Hindoo savant in London.**
 
 **रविचन्द्रपरीवेषाः स्निग्धाश्चेन्नातिदूषिताः।  
 मेघाः स्निग्धाः संहताश्च प्रदक्षिण गति क्रियाः॥२८५॥**
-
-
 
 **चतस्र एकरूपाश्चेत् सुष्वृष्टिः श्रावणादिषु।  
 परिस्रुताः सान्तराश्च धारणा न शुभावहाः॥२८६॥**
@@ -3337,8 +3011,6 @@ A Hindoo savant in London.**
 
 **विपरीतं यदा वाति मेघा वा विपरीतगाः।  
 तदा न वृष्टिस्तन्मासे तदृक्ष इति धारणा॥२९६॥**
-
-
 
 **प्रारम्भे पश्चिमो वातो यदि वाति चतुर्दिनम्।  
 तदनावृष्टिदुर्भिक्ष भयं तत्र प्रजायते॥२९७॥**
@@ -3376,8 +3048,6 @@ A Hindoo savant in London.**
 **पूर्णिमायां शुभं मूलं मध्यमं प्रतिपत्तिथौ ।  
 न शुभं तु द्वितीयायां न पूर्णा मैत्रभे शुभा॥३०८॥**
 
-
-
 **ज्यैष्ठस्य कृष्णा प्रतिपद्विद्युद्गर्जितवर्षणैः।  
 करोति तृणदुर्भिक्षं वर्षणं खण्डमंडले॥३०९॥**
 
@@ -3412,8 +3082,6 @@ A Hindoo savant in London.**
 
 **द्रोणा अष्टादशार्द्रायामाश्विन्यां द्वादशेति च।  
 इमे वृष्टजलद्रोणा भेषु नोपद्रवो यदि॥३१९॥**
-
-
 
 **धरित्री मुद्रिता येन तृणाग्रे येन विन्दवः।  
 वृष्टं तदपि मानार्हं ततो न्यूनं न मापयेत्॥३२०॥**
@@ -3450,8 +3118,6 @@ A Hindoo savant in London.**
 **चतुर्थी पञ्चमी षष्ठी सप्तमी च कुहूतिथिः।  
 कृष्णज्यैष्ठगतास्वासु द्रष्टव्यं मेघलक्षणम्॥३३०॥**
 
-
-
 **सूर्यास्तकाले पूर्वस्यां मेघैराच्छादितं नभः।  
 पर्वतैर्गजराजादिनानाकृतिधरैरपि॥३३१॥ **
 
@@ -3484,8 +3150,6 @@ A Hindoo savant in London.**
 
 **ज्यैष्ठकृष्णदशम्यां तु यदि वारो रवेः शनेः।  
 अनावृष्ट्या च दुर्भिक्षपीडया पीड्यते प्रजाः॥३४१॥**
-
-
 
 **ज्यैष्ठकृष्णे रेवतीभं दशम्यां चेत् सुभिक्षता।  
 एकादश्यां महामारी[^9] दुर्भिक्षं द्वादशीतिथौ॥३४२॥**
@@ -3521,8 +3185,6 @@ A Hindoo savant in London.**
 **ज्येष्ठस्य यदि कृष्णायामेकादश्यां तु रोहिणी।  
 तदा सुभिक्षमादेश्यमन्यथा त्वन्यथा भवेत्॥३५१॥**
 
-
-
 **एकादश्यां ज्यैष्ठकृष्णे रोहिणी यावती भवेत्।  
 तावती सस्यसम्पत्तिर्भविष्यति परीक्ष्यताम्॥३५२॥**
 
@@ -3550,8 +3212,6 @@ A Hindoo savant in London.**
 
  २७०–ज्येष्ठ शुक्ला द्वितीया को यदि बादल गर्जना कर दे तो पहिले संपन्न हुआ सब गर्भ नष्ट होजाता है। इस तरह ज्योतिषी कहते हैं।
 
-
-
 **मासादिरोहिणी।**
 
  १७१–ज्येष्ठ शुक्ला में रोहिणी के योग की अच्छी तरह परीक्षा करनी चाहिये। यदि रोहिणीनक्षत्र के दिन बादल न हों तो वर्षाऋतु में अनावृष्टि होगी तथा बादल हो जाय तो वर्षा और सुभिक्षता रहेंगी।
@@ -3573,8 +3233,6 @@ A Hindoo savant in London.**
  २७८–ज्येष्ठ शुक्ल तृतीया को आर्द्रानक्षत्र हो और उस दिन यदि वर्षा होजाय तो वर्षा ऋतु का नाश हो जाता है और दुर्भिक्ष पडता है।
 
  २७९–ज्येष्ठ शुक्ल पंचमी को पूर्व, पश्चिम और उत्तर की हवा सुभिक्ष की करने वाली है किन्तु उत्तर की हवा से शलभादि कीट अवश्य होते हैं।
-
-
 
  २८०–ज्येष्ठ शुक्ल पञ्चमी को वायव्य, नैऋत्य, अग्नि और ईशान कोण की हवा से अनावृष्टि होती है और चौतरफी हवा से सर्वनाश हो जाता है।
 
@@ -3598,8 +3256,6 @@ A Hindoo savant in London.**
 
  २८९–ज्येष्ठ में चित्रा, स्वाति और विशाखा नक्षत्र के दिनों में मेघ और बिजलियों के होने से आषाढ श्रावण और भाद्रपद में अच्छी वर्षा होती हैं और सुभिक्ष होता है।
 
-
-
  २९०–ज्येष्ठ शुक्ल में चित्रा, स्वाति और विशाखा में बादल न होने से आषाढ में वृष्टि का अभाव रहता है और श्रावण में वर्षा होती है।
 
  २९१–किसी का मत है कि ज्येष्ठ शुक्ल में चित्रा, स्वाति और विशाखा नक्षत्रों के दिनों में वृष्टि होजाय तो श्रावण में वृष्टि नहीं होय और धान्य महँगा रहे।
@@ -3621,8 +3277,6 @@ A Hindoo savant in London.**
  ३०१–पूर्व, ईशान और अग्निकोण में यदि वायु चले तो भाद्र और आश्विन में वृष्टि न होकर श्रावण, कार्तिक में अच्छी वर्षा होय।
 
  ३०२–ज्येष्ठ शुक्ला चतुर्दशी और पूर्णिमा के दिन वृष्टि होने से गर्भ का नाश होजाता है। इससे वर्षाऋतु में वृष्टि नहीं होती।
-
-
 
  ३०३–ज्येष्ठ की पूर्णिमा में यदि चन्द्र-ग्रहण होवे तो कौशल (अयोध्या प्रान्त) और कलिंग (उड़ीसा) देशवाले अन्न के न मिलने से पीडित हों।
 
@@ -3648,8 +3302,6 @@ A Hindoo savant in London.**
 
  ३१२–ज्येष्ठ की पूर्णिमा के समाप्त होने पर पूर्वाषाढ आदि सत्ताईस नक्षत्रों में बरसे हुए जल को ताप करके ऋतुओं के क्रमसे वर्षा जानलेनी चाहिये। जल नापने की विधि आगे बताई जारही है।
 
-
-
  ३१३-३१४–एक हाथ चौड़ा, एक हाथ गहरा और एक हाथ लम्बा जमीन में कुड[^11] का भी बनालिया करते हैं।") (खड्डा) खोदना चाहिये। और इसमें आगे बताए हुए नाप के चिन्हों को लगाकर इसमें गिरे हुए वर्षा के जल को आढक से नापे। पचास तोलों का एक आढक और चार आढक का एक द्रोण होता है। ये द्रोण ही वृष्टि के अन्तिम मान माने गये हैं। अब आगे स्वाभाविक रीति से अर्थात् किसी ग्रह की रुकावट के न होने पर नक्षत्रों में जितने द्रोण जल बरसता है वह कहा जाता है।
 
 [^11]: "कई इस यन्त्र को काठ (लकडी
@@ -3671,8 +3323,6 @@ A Hindoo savant in London.**
  ३२३-३२४–साधारण रीति से गर्जना एक[^12] विपक्ष में तीन सौ चार हाथ दूरी पर जाती है।
 
 [^12]: "एक घड़ी की ६० पक्ष और एक पल की ६० विपत हुआ करती है ।"
-
-
 
 बिजली चमकने पर जितने विपल बाद गर्जना सुनाई देवें ऊपर लिखे हुए एक त्रिपल के हिसाब से उतने हीं हाथ की दूरी पर वर्षा समझनी चाहिए।
 
@@ -3696,8 +3346,6 @@ A Hindoo savant in London.**
 
  ३३४–पश्चिम दिशा में सन्ध्याकाल के समय सूर्य के अस्त होजाने पर यदि पर्वतों की तरह काले बद्दल दिखाई दें तो शीघ्र ही वर्षा आवेगी, यह समझना चाहिये।
 
-
-
  ३३५–सन्ध्या के समय उत्तर दिशा में पर्वतों की श्रेणी (लाइन) की तरह यदि काले बादल दिखाई दें तो उसके तीसरे दिन मन को तुष्ट करने वाली दृष्टि होती है।
 
  ३३६-३३७–अग्निकोण के बादल जल कम बरसाने वाले और ताप विशेष देने वाले होते हैं, नैऋत्यकोण के बादलों से ६ प्रकार की ईतियों का भय, रोग और वर्षा भी होती है, वायव्यकोण के उन्नत बादलों से हवा और वृष्टि होती है, तथा ईशानकोण के बादल अच्छी बरसा और सुख देनेवाले होते हैं। ये सब लक्षण प्रधानतया पहिले कही हुई ज्येष्ठमास के कृष्णपक्ष (आ० कृ०) की चतुर्थी, पंचमी, षष्टी, सप्तमी और अमावास्या के ही समझने चाहिये।
@@ -3716,8 +3364,6 @@ A Hindoo savant in London.**
 
  ३४४-३४५–ज्येष्ठ की अमावास्या और पूर्णिमा में रात दिन बादल रहें तथा अमावास्या से आषाढ और श्रावण और पूर्णिमा से भाद्रपद और आश्विन को दिन और रात का विभाग माने यदि इनमें पश्चिम की हवा चले तो अनावृष्टि होती है। कहीं कहीं भाग्य से वृष्टि होजाती है।
 
-
-
 **मासांत रोहिणी।**
 
  ३४६–रोहिणी नक्षत्र पर से सूर्य के चले जाने के बाद अर्थात् जिसदिन रोहिणी नक्षत्र पर सूर्य भावे उससे तेरह दिन के अनम्बर जब रोहिली नक्षत्र पर चन्द्रमा भावे, उस दिन के चार विभाग करके उसमें क्रम से श्रावणादि चार मासों की कल्पना कर वायु की परीक्षा करे जिस विभाग के माल में अभी बचते उसमें अच्छी वर्षा समझनी चाहिये ।
@@ -3735,8 +3381,6 @@ A Hindoo savant in London.**
  ३५४–ज्येष्ठ (आषाढ) कृष्ण एकादशी को कृतिका नक्षत्र होने से खंडयकाल अर्थात् कहीं सुभिक्षऔर कहीं दुर्भिक्षहोता है। और रोहिणी नक्षत्र होने से सुभिक्ष तथा मृगशीर्ष के होने से बड़ा दुर्भिक्ष होता है।
 
  ३५५–ज्येष्ठ तथा आषाढ में रोहिणीनक्षत्र के दिन वर्षा होने से उस वर्ष अच्छी वृष्टि होतीहै यदि वृष्टि न होतो उस वर्ष वृष्टि का प्रभाव समझना चाहिये।
-
-
 
  ३५६–आषाढ कृष्ण (अर्थात् श्रावण कृष्ण) में रोहिणी नक्षत्र के दिन का जो फल कहा जायगा वह सब इस मास में समझना चाहिये।
 
@@ -3772,8 +3416,6 @@ A Hindoo savant in London.**
 
 **शुक्लाषाढतृतीयायां पवनः पूर्वतो यदि।  
 पूर्वागामी च मेघश्चेद् वृष्टिर्भाद्रे तु भूयसी॥३६५॥**
-
-
 
 **चतुर्थ्यां यदि शुक्लायामाषाढे दक्षिणोऽनिलः।  
 मेघो गच्छति पूर्वस्यामाश्विने तर्हि वर्षति॥३६६॥**
@@ -3811,8 +3453,6 @@ A Hindoo savant in London.**
 **अतिवृष्टिः सुवृष्टिर्वा सुभिक्षं वा समर्घता।  
 अवर्षणे त्वनभ्रे दुर्भिक्षं नैऋतेऽनिले॥३७७॥**
 
-
-
 **तृतीयायां च पंचम्यां वायुर्दक्षिणपश्चिमः।  
 तदा धान्यानि नश्यंति दुर्भिक्षं जायते ध्रुवम्॥३७८॥**
 
@@ -3849,8 +3489,6 @@ A Hindoo savant in London.**
 **आषाढशुक्लगाष्टम्यां विद्युद्गर्जितवर्षणैः।  
 आश्विने साधुवृष्टिः स्यादवृष्टौ नात्र वर्षति॥३८९॥**
 
-
-
 **शुक्लाष्टम्यां तथाषाढे वायुः पूर्वश्च दक्षिणः।  
 दुर्भिक्षाय सुभिक्षाय वायुः पश्चिम उत्तरः॥३९०॥**
 
@@ -3885,8 +3523,6 @@ A Hindoo savant in London.**
 
 **आषाढशुक्लनवमीदशम्योश्चन्द्रमा यदि ।  
 निशिच्छन्नो घनैस्तर्हि शीतकाले सुवृष्टिदः॥४००॥**
-
-
 
 **शुक्लाषाढे शुभा वृष्टिर्नवमीदशमीतिथौ।  
 दुर्भिक्षं जायते नूनं वाते वृष्टिविनाकृते॥४०१॥**
@@ -3923,8 +3559,6 @@ A Hindoo savant in London.**
 
 इति स्वातीपरीक्षा।
 
-
-
 **आषाढशुक्लैकादश्यां शनिर्वा मंगलो रविः।  
 वारश्चेत् प्रबलो वायुरन्नं याति महार्घताम्॥४१२॥**
 
@@ -3959,8 +3593,6 @@ A Hindoo savant in London.**
 
 **आषाढे पूर्णिमायां तु मूलभं यदि दृश्यते।  
 यावदेव भवेन्मूलं तावदुर्भिक्षमादिशेत्॥४२२॥**
-
-
 
 **आषाढ्यां यदि मूलं स्यादुत्तराषाढमेव वा।  
 आवर्षं मध्यमं धान्यं देशे सर्वत्र जायते॥४२३॥**
@@ -3998,8 +3630,6 @@ A Hindoo savant in London.**
 **सर्वरात्रे यदाभ्राणि वातौ पूर्वोत्तरौ तथा।  
 तस्मिन् वर्षे कणाः पुष्टाश्चातुर्मास्यं सुवर्षति॥४३४॥**
 
-
-
 **न वर्षति यदा देवो वातौ पूर्वोत्तरौ न हि।  
 यदि वा नाभ्रलेशः स्यात् कालो दुष्टस्तदा मतः॥४३५॥**
 
@@ -4032,8 +3662,6 @@ A Hindoo savant in London.**
 
 **अल्पवृष्टयै तु चत्वारो वाता वान्त्यपसव्यतः।  
 प्रदक्षिणं तु ते वांति सुभिक्षक्षेमसंपदे॥४४५॥**
-
-
 
 **समन्ततो यदा वांति परस्परविघातिनः।  
 खण्डवृष्टिं सस्यनाशं तृणनाशं च कुर्वते॥४४६॥**
@@ -4069,8 +3697,6 @@ A Hindoo savant in London.**
 
 **कृष्णाषाढे पूर्वभाद्रे चतुर्थ्यां यदि वर्षति।  
 पञ्चम्यां गर्जितं घोरं तदा वर्षर्तुरुत्तमः॥४५६॥**
-
-
 
 **कृष्णाषाढचतुर्थ्यां चेदभ्राच्छन्नो दिनोदयः।  
 विद्युद्वा गर्जितं वृष्टिस्त्रीन् मासांस्तर्हि वर्षति॥४५७॥**
@@ -4108,8 +3734,6 @@ A Hindoo savant in London.**
 **आषाढकृष्णाष्टम्यां दुर्भिक्षं दक्षिणेऽनिले।  
 पूर्वानिले खण्डवृष्टिः सुवृष्टिः पश्चिमानिले॥४६८॥**
 
-
-
 **श्रावणे बहुवृष्टिः स्यादुत्तरो यदि मारुतः  
 तत्र चेद् गर्जितं वृष्टिचातुर्मास्यं सुवर्षति॥ ४६९॥**
 
@@ -4145,8 +3769,6 @@ A Hindoo savant in London.**
 **रत्नौषधिजलैः पूर्णान् प्रवालपिहितान् घटान् ।  
 अकृष्णबुध्नानप्यत्र स्थापयेत्तु चतुर्दिशम्॥४७९॥**
 
-
-
 **महाव्रतेन मन्त्रेण वीजान्यालभ्य निक्षिपेत्।  
 कुम्भे संप्लावयेत्तानि सुवर्णकुशवारिभिः॥४८०॥**
 
@@ -4179,8 +3801,6 @@ A Hindoo savant in London.**
 
 **असिता विद्युदाक्रांताः क्वचिदिंद्रधनुर्युताः।  
 अञ्जनाद्रिशिलाब्रात प्रतिरूपधराः क्वचित्॥४९०॥**
-
-
 
 **सन्ध्यानुरक्ते नभसि तत्र तत्रान्ववस्थिताः।  
 क्वचिदिन्दीवरश्यामाः क्वचिन्मुक्ता हिमप्रभाः॥४९१॥**
@@ -4218,8 +3838,6 @@ A Hindoo savant in London.**
 **वायव्ये यदि रोहिण्याः समः सस्यचयस्तदा।  
 ऐशान्यां सस्यवृद्ध्यादीन् गुणान् प्रकुरुते बहून्॥५०२॥**
 
-
-
 **रोहिणी तारकामिंदुस्ताडयन् भयकृद्भवेत्।  
 श्रावृण्वन् रोहिणीं चंद्रः कंचिद्धन्ति नृपं स्त्रिया॥५०३॥**
 
@@ -4256,8 +3874,6 @@ A Hindoo savant in London.**
 **रोहिणी च त्रयोदश्यां वायुः प्रबलमुद्वहेत्।  
 आषाढे केचिदिच्छन्ति ज्येष्ठोक्तं रोहिणीफलम्॥५१४॥**
 
-
-
 **आषाढे रोहिणीयोगे वायुः पूर्वोत्तरः शुभः।  
 तत्राभ्राणि तडिद् वृष्टिः प्रावृट्कालशुभावहाः॥५१५॥**
 
@@ -4286,8 +3902,6 @@ A Hindoo savant in London.**
 
  ३६०–आषाढ शुक्ला प्रतिपदा, द्वादशी और पूर्णिमा को तेज हवा चलने से उस वर्ष मेघ का अभाव समझना चाहिये।
 
-
-
  ३६१–आषाढ शुक्ला प्रतिपदा या पञ्चमी तिथि को बृहस्पति, शुक्र अथवा सोमवार के आने से सुवृष्टि और सुभिक्ष होता है।
 
  ३६२–इस प्रकार आषाढ शुक्ला द्वितीया या नवमी तिथि को भी गुरु, शुक्र अथवा सोमवार के आने से सुवृष्टि और सुभिक्ष होता है वस्तुएँ सस्ती मिलती हैं।
@@ -4312,8 +3926,6 @@ A Hindoo savant in London.**
 
  ३७२–आषाढ शुक्ला पंचमी के दिन बूंद गिरने से निस्संदेह मास के पहिले ही वृष्टि होने लगती है, यदि बूंद न पडे तो कृष्णपक्ष में थोड़ी वर्षा होती है।
 
-
-
  ३७३से ३७५–आषाढ शुक्ला में द्वितीया को प्रथमवार वृष्टि होय, तृतीया को पूर्व की हवा चले और बड़े बड़े बादल दिखाई दें, चतुर्थी को दक्षिण की हवा और पूर्व से बादल जाते हों तथा पंचमी को उत्तर की हवा और ऊँचे ऊँचे बादल होवें तो उस वर्ष श्रावण से चार मास तक अच्छी वर्षा होती है।
 
  ३७६-३७७–आषाढ शुक्ला द्वितीया, तृतीया, चतुर्थी और पंचमी को आकाश बादलों से घिरा हुआ रहे पूर्वोत्तर की अर्थात् ईशान कोण की वायु चले तो वृष्टि समझनी चाहिये। अर्थात्या तो अतिवृष्टि वा सुवृष्टि होती है जिससे सुभिक्ष वा भाव स्थिर रहता है यदि उक्त दिन वर्षा और बादल न हों और नैऋत्य कोण की हवा चले तो दुर्भिक्ष समझना चाहिये।
@@ -4329,8 +3941,6 @@ A Hindoo savant in London.**
  ३८४–यदि शुभ हवा के बहते हुए भूकंप होजावे तो धान्य तो अवश्य पैदा होता है किन्तु उपद्रव अधिक होते हैं।
 
  ३८५–यदि वायु प्रथम तो अशुभ अर्थात् आग्नेय, दक्षिण और नैऋत्य का चले और पीछे शुभ अर्थात् पूर्व, ईशान और उत्तर का चलने लगजाय तो सुवृष्टि ही होती है किन्तु धान्य सम्पत्ति नहीं होती।
-
-
 
  ३८६–आषाढ शुक्ला चतुर्थी, पंचमी, षष्ठी और सप्तमी की सन्ध्या के समय पीले बादल होने से काले बादल होकर वर्षा होती है।
 
@@ -4356,8 +3966,6 @@ A Hindoo savant in London.**
 
  ३९६–आषाढ शुक्ला नवमी को अत्यन्त (मूसलाधार) वर्षा होने से उस वर्ष अत्यन्त वृष्टि और अत्यल्प ही धान्य पैदा होगा।
 
-
-
  ३९७–वृष्टि दुर्बल हो अर्थात् वेग से हुई हो, किन्तु अधिक मात्रा में हो चुकी हो तो धान्य बहुत पैदा होता है। यदि किसी कारण केवल बूँदमात्र अथवा अतिवृष्टि होजावे तो धान्यनाश समना चाहिये।
 
  ३९८–आषाढ शुक्ल नवमी को सूर्यास्त के समय निर्मल (बिना बादल) आकाश रहने से दुर्भिक्ष होता है। वृष्टि विशेष में उत्पन्न होने वाला यह फल अनप[^14] देश में समझना चाहिये।
@@ -4379,8 +3987,6 @@ A Hindoo savant in London.**
  ४०५–इसी दिन यदि सूर्य उदयकाल में तो स्वच्छ रहैं और मध्याह्न तथा अस्तकाल में मेघाच्छादित रहै तो वर्षा का अभाव रहता है और बड़ी नदी के अतिरिक्त कहीं जल नहीं मिलता।
 
  ४०६–किसी का मत है कि आषाढ शुक्ला नवमी को सूर्य का उदय, अस्त और मध्याह्न काल में मेघाच्छादित रहना अशुभ है।
-
-
 
  ४०७–आषाढ शुक्लपक्ष में पूर्वाह्न और अपराह्न काल में स्वाति बरस जावे तो आगे अच्छी वर्षा होती है और मध्याह्न में बरसने से कीट, सर्प आदि की सृष्टि अधिक होती है।
 
@@ -4406,8 +4012,6 @@ A Hindoo savant in London.**
 
  ४१६–आषाढ शुक्ला चतुर्दशी को वर्षा होने से श्रावण कृष्णा एकादशी से श्रावण शुक्ला चतुर्थी तक (९ दिन) वर्षा होती है।
 
-
-
 **आषाढी[^15]-परीक्षा।**
 
 [^15]: "आषाढ शुक्ल पूर्णिमा की परीक्षा को आषाढी-परीक्षा कहते हैं।"
@@ -4430,8 +4034,6 @@ A Hindoo savant in London.**
 
  ४२६–आषाढी पूर्णिमा की वृद्धि अर्थात् इस तिथि के दो होने से एकमास तक मूल्य स्थिर रहता है पीछे अन्न का भाव तेज होजाता है।
 
-
-
  ४२७-४२८–आषाढी पूर्णिमा के दिन यदि यह तिथि ६० घड़ी की हो तो सालभर शुभ ही होता है, ३० घड़ी हो तो ६ मास और १५ घड़ी हो तो तीन मास शुभ होते हैं । इससे भी यदि कम हो तो दुःख ही समझना, किन्तु वायु और बादलों के योग से फल कुछ घट बढ जाता है।
 
  ४२९–आषाढी पूर्णिमा का परिमाण ६० घड़ी हो तो उसमें पाँच पाँच घड़ी के १२ विभाग करके एक एक विभाग के अनुसार एक एक मास का फल समझना चाहिये।
@@ -4451,8 +4053,6 @@ A Hindoo savant in London.**
  ४३६–हाँ यदि इस पूर्णिमा की रात्रि में चौतरफी हवा चल जाय तो वर्षा आदि शुभ शकुनों के न होने पर भी वह वर्ष शुभ ही समझलेना चाहिये।
 
  ४३७–आषाढी पूर्णिमा में बादल न भी हुए हों और वायु पूर्व और उत्तर की चलती हो तो ढाई घड़ी के तुल्य २४ विभागों में, जिस विभाग में वर्षा होती है, उसी उसी विभाग के अनुरूप आधे आधे मासों में वृष्टि समझनी चाहिये।
-
-
 
  ४३८–इस पूर्णिमा में बादल न भी हो, किन्तु वायु उत्तर और पूर्व की चलती हो तो २॥ घड़ी के जिस भाग में वर्षा होती है उसी के अनुसार मास के पक्ष में अवश्य वृष्टि होती है।
 
@@ -4478,8 +4078,6 @@ A Hindoo savant in London.**
 
  ४४७–अनिष्ट वायु अच्छी वायु को रोक लेता है, तो जल नहीं बरसता और यदि अच्छी वायु अनिष्ट वायु को रोक लेता है तो अच्छी वर्षा होती है।
 
-
-
  ४४८–दक्षिण की वायु यदि पूर्व की वायु को नष्ट करती हो तो अनावृष्टि समझना। यदि वायु रुक जावे तो श्रावण, भाद्र में पर्याप्त वर्षा होगी।
 
  दिनरात की वायु का लक्षण लिखने के अनन्तर अब केवल सूर्यास्त काल की वायु की परीक्षा लिखते हैं—
@@ -4499,8 +4097,6 @@ A Hindoo savant in London.**
 **इति आषाढ पूर्णिमा परीक्षा।**
 
   क्रमागत अब आषाढ कृष्ण (आज कल के हिसाब से श्रावण कृष्ण) की परीक्षा लिखते हैं—
-
-
 
  ४५५–श्रवण और अषाढ़ (पूर्वाषाढ़, उत्तराषाढ़) नक्षत्रों में गुरु, बुध, भृगु और चन्द्रवार के होने से सुभिक्ष और रवि, भौम, शनिवार के होने से दुर्भिक्ष आदि अशुभ फल मिलते हैं।
 
@@ -4528,8 +4124,6 @@ A Hindoo savant in London.**
 
  ४६७–आषाढ़ कृष्णा सप्तमी को शनिवार होने से अच्छी वर्षा होती है और अष्टमी को रविवार के होने से वर्ष शुभ होता है।
 
-
-
  ४६८-४६९–आषाढ़ कृष्णा अष्टमी को दक्षिण की हवा से दुर्भिक्ष, पूर्व की से खण्डवृष्टि और पश्चिम की हवा से अच्छी वृष्टि होती है। यदि उत्तर की वायु चले तो श्रावण में खूब वर्षा होगी और यदि गर्जना के साथ वृष्टि भी होजावे तो चातुर्मास्य भर में अच्छी वर्षा होगी।
 
  ४७०–आषाढ़ कृष्णा अष्टमी को निर्मल आकाश में चन्द्रोदय होने से अनावृष्टि और मेघाच्छादित आकाश में चन्द्रोदय होने से सुवृष्टि होती है।
@@ -4554,8 +4148,6 @@ A Hindoo savant in London.**
 
  ४७९–रत्नौषधियों के जल से भरे हुए प्रवाल (आम या अशोक के नये पल्लव) से ढके हुए
 
-
-
  और जिनके वैदे काले न हों ऐसे चार घड़ों को वहाँ चारों दिशाओं में रक्खे।
 
  ४८०–जिन चीजों को बोना हो उनके बीजों को महाव्रत (वैदिक) मन्त्र के द्वारा उठाकर घड़े में डाल दे और सुवर्ण, कुश तथा जल से हिलादे।
@@ -4575,8 +4167,6 @@ A Hindoo savant in London.**
  ४८७–जिस दिशा से मेघ उठकर जारहे हों उसी दिशा की वायु समझनी चाहिये और उनका फल भी उसी वायु के समान समझना चाहिये।
 
  ४८८–बादल कई प्रकार के होते हैं-कहीं श्वेत, कहीं कृष्ण, कहीं दोनों रंग के, कहीं जिनके उदर और पीठ टेढ़े मेढ़े हैं ऐसे सर्पाकार मेघ होते हैं।
-
-
 
  ४८९–कहीं सूर्य की किरणों से रंगे हुए प्रान्त भागवाले, कहीं कमल के मध्य भाग के सदृश कहीं केसर, किंशुक और भौंरों के समान विचित्र वर्षा के मेघ होते हैं।
 
@@ -4600,8 +4190,6 @@ A Hindoo savant in London.**
 
  ५००–अथवा चन्द्रमा की गति रोहिणी के पीछे हो सो कामुक पुरुष स्त्रियों के वश में होजाते हैं।
 
-
-
  ५०१–उदयकाल में चन्द्रमा यदि रोहिणी से आग्नेयकोण में रहे तो आपत्तियाँ होती हैं। इसी तरह अस्तकाल में चन्द्रमा रोहिणी से नैऋत्य में अस्त होवे तो छः प्रकार की ईतियों के द्वारा धान्य का नाश होता है।
 
  ५०२–चन्द्रमा यदि रोहिणी से वायव्यकोंण में रहता हुआ अस्त होवे तो धान्य-वृद्धि अच्छी होती है। इसी प्रकार उदयकाल में चन्द्रमा यदि रोहिणी से ईशानकोण में रहे तो भी धान्य-वृद्धि आदि नाना संपत्तियाँ पैदा होती हैं।
@@ -4624,8 +4212,6 @@ A Hindoo savant in London.**
 
  ५११–आषाढ़ कृष्णा एकादशी को अर्धरात्रि के समय यदि गर्जना होजावे तो दुर्भिक्ष और अनावृष्टि समझलेना चाहिये।
 
-
-
  ५१२–आषाढ़ कृष्णा एकादशी को यदि रोहिणी का योग होजावे तो आकाश के निर्मल होने पर भी, तीव्रता के साथ सूर्य के तपते रहने पर भी और रात को तारा चमकने पर भी अच्छी वर्षा समझलेनी चाहिए। अर्थात् इसमें कुयोग होते हुए भी एक रोहिणी योग से अच्छी वर्षा हो जाती है।
 
  ५१३–किसी का मत है कि आषाढ़ कृष्णा दशमी में रोहिणी के योग से सुभिक्ष ही होता है, किन्तु एकादशी में समता और द्वादशी में रोहिणी योग से दुर्भिक्ष होता है।
@@ -4647,8 +4233,6 @@ A Hindoo savant in London.**
  ५१९–आषाढ़ी अमावास्या को पुष्य, अश्लेषा अथवा मघा के होने से वह वर्ष मध्यम (साधारण) कहना चाहिये क्योंकि उस वर्ष अधिक वर्षा नहीं होगी।
 
  ५२०–आषाढ़ मास में सूर्य संक्रान्ति के दिन यदि मेघ बरस जावे तो उस मास में घोर रोग पैदा होता है और पुनः श्रावण में शान्ति प्राप्त होती है।
-
-
 
 **श्रावणः**
 
@@ -4684,8 +4268,6 @@ A Hindoo savant in London.**
 
 **श्रावणे शुक्लपञ्चम्यां वृष्टिश्चेदभ्रमेव वा।  
 तदा तु चतुरो मासान् वृष्टिर्भवति भूयसी॥५३१॥**
-
-
 
 **श्रावणे शुक्लसप्तम्यामुदयास्तमने रवेः।  
 मेघच्छन्ने यदि स्यातां तदा वृष्टिर्न चान्यथा॥५३२॥**
@@ -4723,8 +4305,6 @@ A Hindoo savant in London.**
 **श्रावणे पूर्णिमायां तु यदीन्दुग्रहणं भवेत्।  
 यमुनांते कान्यकुब्जैर्दौर्लभ्यं रसमूलयोः॥५४३॥**
 
-
-
 **प्रतिपच्छ्रावणे कृष्णा श्रावणे गुरुवासरे।  
 शुभः संवत्सरस्तर्हि सर्वसस्यसमृद्धयः॥५४४॥**
 
@@ -4755,8 +4335,6 @@ A Hindoo savant in London.**
 
  ५२३–कर्क राशि पर जब सूर्य का प्रवेश होता हो उस समय वृहस्पति यदि सूर्य को पूर्ण अथवा चौथाई दृष्टि से भी देखता हो तो उस वर्ष अच्छी वृष्टि होती है।
 
-
-
  ५२४–कर्कसंक्रान्ति के दिन से १० दिनों के भीतर यदि बुध का उदय होजावे तो श्रावण शुक्ला में अच्छी वृष्टि होती है।
 
  ५२५–इसी तरह सिंहसंक्रान्ति के काल से दश दिनों के भीतर यदि बुध का उदय होजाय तो श्रावण शुक्ला में अच्छी वृष्टि होती है।
@@ -4781,8 +4359,6 @@ A Hindoo savant in London.**
 
  ५३५–श्रावण शुक्ला सप्तमी को स्वाति नक्षत्र के होने पर वर्षा होने से सब धान्यों की उत्पत्ति और प्रजा को शान्ति प्राप्त होती है।
 
-
-
  ५३६–श्रावण शुक्ला सप्तमी को स्वाति नक्षत्र के रहते हुए यदि सूर्योदय होवे और वर्षा भी हो तो पृथ्वी पर जल ही जल दृष्टि में आता है।
 
  ५३७–श्रावण में चित्रा, स्वाति और विशाखा नक्षत्रों में वर्षा न होने से उन देशों में न वृष्टि और न धान्योत्पत्ति होती है।
@@ -4806,8 +4382,6 @@ A Hindoo savant in London.**
  ५४५–श्रावण कृष्णा द्वितीया को चन्द्रमा के न दीखने से वर्ष शुभ समझा जाता है और धान्य अच्छा पैदा होता है।
 
  ५४६–श्रावण कृष्णा तृतीया को तीसरे प्रहर में उत्तर की तरफ वादलों के होने से सुख होता है, किन्तु छठे मास में महँगाई होजाती हैं।
-
-
 
  ५४७–श्रावण कृष्णा चतुर्थी को शनिवार के होने से दुर्भिक्ष और देश का नाश समझना चाहिए।
 
@@ -4838,8 +4412,6 @@ A Hindoo savant in London.**
 
 **शुक्लायां भाद्रपंचम्यां यदि वृष्टिर्न जायते।  
 दुर्योगं तर्हि जानीयाद् दुर्भिक्षं दैवकोपतः॥५५७॥**
-
-
 
 **शुक्ले माद्रपदे षष्ठीमनुराधा भवेद् यदि।  
 नक्षत्रांतरदोषेऽपि सुभिक्षं जायते ध्रुवम्॥५५८॥**
@@ -4877,8 +4449,6 @@ A Hindoo savant in London.**
 **भाद्रशुक्लदशम्यां चेन्मूलभं रविवासरे ।  
 दुर्भिक्षं स्यादथान्यत्र तिथौ मूलरविः शुभः॥५६९॥**
 
-
-
 **एकादश्यां तु भाद्रस्य सुभिक्षायाभ्रडम्बरः।  
 निशि गर्जति चेत्तत्र शलभोपद्रवस्तदा॥५७०॥**
 
@@ -4912,8 +4482,6 @@ A Hindoo savant in London.**
 
  ५५४–भाद्रपद शुक्ला तृतीया को मंगलवार और उत्तराफाल्गुनी नक्षत्र हो तो बड़ी बड़ी घटाएँ भी वर्षा नहीं करेंगी।
 
-
-
  ५५५–भाद्रपद शुक्ला चतुर्थी को गुरुवार के होने पर उत्तराफाल्गुनी नक्षत्र के होने से, सोमवार के होने पर हस्त नक्षत्र के होने से और भृगुवार के होने पर चित्रा नक्षत्र के होने से निस्सन्देह सुभिक्ष होता है।
 
  ५५६– निमित्त (लक्षण) शास्त्र जानने वाले कहते हैं कि भाद्रपद शुक्ला पंचमी को स्वाती नक्षत्र के होने से सुभिक्ष समझना चाहिए।
@@ -4935,8 +4503,6 @@ A Hindoo savant in London.**
  ५६४–प्रावृट् के अन्त में भाद्रपद के शुक्ल पक्ष में अनुराधा नक्षत्र के दिन बादल, गर्जना और बिजली हो तो पूर्ण सुभिक्ष कहना चाहिये।
 
  ५६५–भाद्रपद शुक्ला सप्तमी को वर्षा, गर्जना, बिजली और बादल भी न हुए हों तो निश्चय ही कठोर दुर्भिक्ष समझ लेना चाहिये।
-
-
 
  ५६६–भाद्रपद शुक्ला अष्टमी को यदि मूलनक्षत्र में चन्द्र और रविवार से युक्त हो तो पाँचवे महीने में सन की चीजें महँगी होजाती हैं।
 
@@ -4961,8 +4527,6 @@ A Hindoo savant in London.**
  ५७५–भाद्रपद में पश्चिम की वायु चले तो मेघ का अभाव समझना चाहिए कदाचित् वर्षा हो जावे तो अनेक दिनतक प्रचण्ड वायु के साथ वर्षा होती रहेगी।
 
  ५७६–भाद्र में यदि चौतरफ़ी वायु चले तो घटा उमड़ उमड़ कर भी यही चली जाय और वर्षा नहीं करे।
-
-
 
  ५७७–सिंह की संक्रान्ति के दिन वृष्टि न होना शुभ है यदि दो दिन के पश्चात् बादल या वृष्टि हो जावे तो कोई हानि नहीं।
 
@@ -4996,8 +4560,6 @@ A Hindoo savant in London.**
 **आश्विनस्य त्रयोदश्यां शनिवारो भवेद् यदि।  
 यदि संक्रमणं तत्र तदा सस्याकुला मही॥५८६॥**
 
-
-
 **आश्विने पूर्णिमायां तु यदीन्दुग्रहणं भवेत्।  
 प्रयांति सर्वधान्यानि द्विमासांते महार्घताम्॥५८७॥**
 
@@ -5027,8 +4589,6 @@ A Hindoo savant in London.**
 
  ५८५–आश्विन शुक्ला सप्तमी को शनिवार के आने पर श्रवण और धनिष्ठा नक्षत्र का भी यदि उस दिन योग होजाय तो दुर्भिक्ष की संभावना समझनी चाहिये।
 
-
-
  ५८६–आश्विन शुक्ला त्रयोदशी को शनिवार हो और यदि संक्रान्ति भी हो तो पृथिवी में अन्न खूब पैदा होता है।
 
  ५८७–आश्विन की पूर्णिमा को चन्द्रग्रहण हो तो दो महीने की समाप्ति में सब धान्य महंगे होजाते हैं।
@@ -5055,8 +4615,6 @@ A Hindoo savant in London.**
 
 **माघे घनघटा नास्ति चैत्रे वर्षति वारिदः।  
 तृतीया नाक्षया गर्जेत्तदानावृष्टिसम्भवः॥५९४॥**
-
-
 
 **माघे भवति चेदूष्मा ज्यैष्ठे शैत्यं प्रवर्तते ।  
 श्रावणे शीतलो वायुस्तदानावृष्टिसम्भवः॥५९५॥**
@@ -5094,8 +4652,6 @@ A Hindoo savant in London.**
 **एतासु तिथिषु प्रायो वान्ति वाताः शुभावहाः।  
 तदा प्रावृषि वृष्टिः स्यादन्यथा त्वन्यथा भवेत्॥६०६॥**
 
-
-
 **कार्तिकद्वादशीमार्गदशमी पौषपञ्चमी।  
 माघी च सप्तमीत्येताः सिता अभ्रध्रुवा मता॥६०७॥**
 
@@ -5124,8 +4680,6 @@ A Hindoo savant in London.**
 
  ५९६–माघ में ठंढ न पड़े, ज्येष्ठ में मूलनक्षत्र पर बादल हों या आर्द्रा में जल न बरसे तो दुष्काल समझना चाहिये।
 
-
-
  ५९७–चैत्र में बिजली न चमके, वैशाख के प्रारंभ में जल बरसे और ज्येष्ठ अधिक तपे तो अत्यन्त सुवृष्टि होती है।
 
  ५९८–चैत्र में ठंढ के कारण शरीर काँपने लगे, वैशाख में ओले की झड़ी लगे और ज्येष्ठ में आकाश निर्मल रहे तो समझना चाहिये कि वर्षा अच्छी होगी।
@@ -5145,8 +4699,6 @@ A Hindoo savant in London.**
  ६०५–माघ शुक्ला सप्तमी, फाल्गुन शुक्ला पंचमी, चैत्र शुक्ला तृतीया और वैशाख शुक्ला प्रतिपदा इन तिथियों में रेवती वा अश्विनी नक्षत्र के होने पर गर्भ लक्षण दिखाई देने से शुभ समय समझा जाता है।
 
  ६०६–इन तिथियों में यदि शुभप्रद वायु (पूर्व, ऐशान्य और उत्तर के) बहुधा चलें तो वर्षाकाल में वर्षा होती है, अन्यथा विपरीत फल होता है।
-
-
 
  ६०७–कार्तिक शुक्ला द्वादशी, मार्गशीर्ष शुक्ला दशमी, पौष शुक्ला पञ्चमी और माघ शुक्ला सप्तमी में रेवती वा अश्विनी नक्षत्र के होते हुए बादल होना स्वाभाविक है, यदि बादल न हो तो अनिष्ट समझना चाहिये।
 
@@ -5174,8 +4726,6 @@ A Hindoo savant in London.**
 
 **शुभो नार्द्राप्रवेशेर्को नवम्यामष्टमीतिथौ।  
 चतुर्थ्यां च तृतीयायां चतुर्दश्यमयोरपि॥६१५॥**
-
-
 
 **यमाग्नीशा हि पित्रिन्द्र रतोवारि भवासरे।  
 शुभो नार्द्रा प्रवेशेऽर्कः शेषभेषु शुभो मतः॥६१६॥**
@@ -5209,8 +4759,6 @@ A Hindoo savant in London.**
 
 **आर्द्रायां विन्दुपातः स्यादप्रचण्डोऽनिलो यदि।  
 पुनर्वसौ वायुरोधः सुवृष्टेर्लिंगमिष्यते॥६२६॥**
-
-
 
 **न कृत्तिकायां नार्द्रायां विन्दुपातो भवेद्यदि।  
 न रोहिण्यामातपोष्मा मृगशीर्षे न वायवः॥६२७॥**
@@ -5247,8 +4795,6 @@ A Hindoo savant in London.**
 
 **रोहिणी भानुभोग्येषु त्रयोदशदिनेष्वपि।  
 यत्र यत्र भवेद् वृष्टिस्ततोऽवग्रहचिन्तनम्॥६३८॥**
-
-
 
 **रसैर्नामैर्धवै रावैधूलैर्मालैः पलैर्नलैः।  
 हरैर्भरैः करैस्तापैरयैवृष्टिर्न वासरैः॥६३९॥१**
@@ -5290,8 +4836,6 @@ A Hindoo savant in London.**
 
 संपादक।
 
-
-
  नक्षत्रों के साथ सूर्य का अथवा सूर्य के साथ नक्षत्रों का सम्बन्ध होने से जिन जिन महीनों में वृष्टि के विषय की जो परीक्षा किई जाती है, वह इस प्रकरण में लिखी जाती है।
 
  ६१३–मघा नक्षत्र में सूर्य के प्रवेश होने के दिवस को छोडकर अन्य नक्षत्रों में सूर्य के प्रवेश होने पर वर्षा होवे तो मनुष्यों को आनन्द प्राप्त होता है और किसानों का हल चलाना फलदायक होता है।
@@ -5316,8 +4860,6 @@ A Hindoo savant in London.**
 
  ६२३–कृत्तिका के सूर्य में अतिवृष्टि होने से वर्ष मध्यम (साधारण) समझा आता है अथवा दुर्भिक्ष होजाता है।
 
-
-
  ६२४–अथवा कृत्तिका के सूर्य में विन्दुमात्र जल न गिरे तो भी वह वर्ष मध्यम ही होता है, अथवा वर्षा ही नहीं होती।
 
  ६२५-६२६–कृत्तिका के सूर्य में कुछ वृष्टि होना, रोहिणी के सूर्य में प्रचण्ड धूप पड़ना मृगशीर्ष के सूर्य के शुरू में हवा का बन्द होना और अन्त में हवा का चलना, आर्द्रा के सूर्य में जल की बूंदें गिरना और मन्द पवन का बहना और पुनर्वसु नक्षत्र के सूर्य में फिर पवन का बन्द होजाना ये सुवृष्टि के चिह्न हैं।
@@ -5335,8 +4877,6 @@ A Hindoo savant in London.**
  ६३३–रोहिणी के सूर्य में यदि बिजली के द्वारा बादल तपादियें जावें अर्थात् बिजली और बादल होजायें तो अश्लेषा के सूर्य के बीत जाने पर बादल आकर वर्षा करते हैं। इसके पूर्व नहीं।
 
  ६३४–रोहिणी के सूर्य में वर्षा होने से आकाश बादल रहित होजाता है। ७२ दिन तक वर्षा नहीं होती।
-
-
 
  ६३५–किसी का कहना है कि रोहिणी के सूर्य में वृष्टि होना ही नहीं, बूंद गिरना भी अशुभ है। परन्तु नदी चला देने वाली यदि वर्षा होजावे तो वह अशुभ नहीं होती है।
 
@@ -5356,8 +4896,6 @@ A Hindoo savant in London.**
 
  ६४३–इसी प्रकार यदि मृगशीर्ष के आखिरी चरण में वायु न चले और धाम रहे तो श्रावण मास में १६ दिन तक वर्षा नहीं होगी।
 
-
-
  ६४४–कोई कहता है कि मृगशीर्ष के सूर्य में चाहे धाम पड़े, रोहिणी के सूर्य में चाहे हवा चले, किन्तु यदि आर्द्रा में वृष्टि हो जावे तो सब आनन्द होता है।
 
  ६४५–अश्लेषा नक्षत्र पर सूर्य के आने से यदि वर्षा न हो तो मघा, पूर्वाफाल्गुनी, उत्तराफाल्गुनी, हस्त और चित्रा इन पाँचों नक्षत्रों में पर्याप्त वर्षा होती है।
@@ -5369,11 +4907,7 @@ A Hindoo savant in London.**
 
 **![](../books_images/U-IMG-1729332431Screenshot2024-10-19153650.png)**
 
-
-
 **![](../books_images/U-IMG-1729332443Screenshot2024-10-19153700.png)**
-
-
 
 **अथ निमित्ताध्यायस्तृतीयः।  
 ![](../books_images/U-IMG-1729332506Screenshot2024-10-07195056.png)**
@@ -5408,8 +4942,6 @@ A Hindoo savant in London.**
 
 **आर्तवो नियतो वायुः स्थापकः स्थापयेद्दिवि।  
 समुद्रादुत्थितं तोयं दोषाद् व्यभिचरत्यपि॥९॥**
-
-
 
 **ज्ञापका धारणा काले ये चोक्ता गर्भमासिके।  
 तिथिसम्बन्धजा वाता इत्थं वातस्त्रिधोदितः॥१०॥**
@@ -5446,8 +4978,6 @@ A Hindoo savant in London.**
 **निवर्त्य वारुणं वायुनैर्ऋतः संचरेद् यदि।  
 तदातिवायवो वान्ति जलमल्पं च वर्षति॥२०॥**
 
-
-
 **दिग्भ्यो वहति सर्वाभ्यो यदि वायुर्यदा तदा।  
 तदा वदन्ति दैवज्ञा अत्यल्पं वर्षति क्वचित्॥२१॥**
 
@@ -5483,8 +5013,6 @@ A Hindoo savant in London.**
 **श्रावणे यदि चाग्नेयो भाद्रे वहति नैर्ऋतः।  
 न वर्षेदथ वर्षेच्चेन्न विद्युन्नापि गर्जितम्॥३१॥**
 
-
-
 **श्रावणे चाग्नितो वायुर्भाद्रे नैऋत्यतो यदि।  
 मेघा आलम्ब्य वर्षांत विद्युद्गर्जितवर्जितम्॥३२॥**
 
@@ -5519,8 +5047,6 @@ A Hindoo savant in London.**
 
 **हिमवृष्टिन्तु कुर्वंति शीतकाले हि दिग्गजाः।  
 पुष्करावर्तसंवर्तद्रोणाः स्युर्मेघजातयः॥४२॥**
-
-
 
 **पुष्करो दुष्करोदः स्यादावर्तो निर्जलो धनः।  
 बहूदकस्तु संवर्तो द्रोणः सस्यप्रपूरकः॥४३॥**
@@ -5558,8 +5084,6 @@ A Hindoo savant in London.**
 **भानुत्यक्ता तदाक्रान्ता तदेष्या दीप्तदिङ् मता।  
 इतरास्तु दिशः पञ्च शान्ता इत्यभिचक्षते॥५४॥**
 
-
-
 **श्यामो रक्तोऽथवा पीतः शान्तायां दिशि दृश्यते।  
 स्निग्धो मन्दगतिर्मेघस्तदा विद्याञ्जलागमम्॥५५॥**
 
@@ -5596,8 +5120,6 @@ A Hindoo savant in London.**
 **प्रशान्तार्तविवाताया दिशो यांति शनैर्दिशि।  
 उद्दामार्तववातायां धवला अभ्रपर्वताः॥६६॥**
 
-
-
 **उद्दामार्तववताया दिशो यांति शनैर्दिशि ।  
 प्रशान्तार्तववातायां तूलपुञ्जनिभा घनाः॥६७॥**
 
@@ -5633,8 +5155,6 @@ A Hindoo savant in London.**
 **शीघ्रवृष्टिकृदैशानी दिश्यं वैद्युतलक्षणम्।  
 यत्र देशे सुभिक्षं स्याद् विद्युत् तत्रैव गच्छति॥७७॥**
 
-
-
 **उत्तरस्यां यदा विद्युत् स्वर्णवर्णा प्रदीप्यते।  
 सावश्यं जलदा ज्ञेया शीघ्रं मेघमहोदयः॥७८॥**
 
@@ -5667,8 +5187,6 @@ A Hindoo savant in London.**
 
 **हरिन्मधुनिभा ग्रीष्मे या रूक्षा याश्च निश्चलाः।  
 वर्षासु ताम्राश्च गौराश्च नीलाः शरदि निर्जलाः॥८८॥**
-
-
 
 **अभ्रेषु रक्ता रिक्तेषु हरिता हरितेषु च।  
 नीला नीलेषु वर्षंति विद्युतस्ताः स्वयोनिजाः॥८९॥**
@@ -5703,8 +5221,6 @@ A Hindoo savant in London.**
 सामुद्रादम्भसो योगाद्रश्मयः प्रवहन्त्यपः॥९६॥**
 
 **(ब्रह्माण्डे)**
-
-
 
 **ततोऽयनवशात् काले परावृत्तो दिवाकरः।  
 नियच्छति पयो मेघे शुक्ला शुक्लैर्गभस्तिभिः॥९७॥**
@@ -5741,8 +5257,6 @@ A Hindoo savant in London.**
 **इति वातादिगर्भरूपाधिकारः।  
 ![](../books_images/U-IMG-1729347032Screenshot2024-10-19194023.png)**
 
-
-
  गत अध्याय में बारह महींनो की और गर्भ के लक्षण आदि की भी परीक्षा लिखी गई है, गर्भ के और महीनों के अच्छे शकुन आदि होते हुए भी किस कारण से वर्षा नहीं होती यह इस अध्याय में बताया जाता है।
 
      १     २         ३      ४      ५
@@ -5766,8 +5280,6 @@ A Hindoo savant in London.**
  सामान्य तरीके से पूर्व की हवा बादल और वर्षा लाती है, पश्चिम की वर्षा नष्ट करती है, उत्तर की वर्षा पैदा करती है और दक्षिण की हवा केवल हवा ही चलाती है वृष्टि नहीं करती।
 
  ६-७–हवा तीन तरह की होती है भावक, स्थापक और ज्ञापक। इन में पहिली हवा से बादल आदि पैदा होते हैं, दूसरी हवा से आकाश में बादल स्थित रहते हैं, तीसरी ज्ञापक नामक वायु से आगे आने वाली वृष्टि का पहले ही से ज्ञान होजाता है। इनमें पहला भावक नामक पवन तत्काल या कालान्तर में भी वृष्टि कर दिया करता है।
-
-
 
  ८–सूर्य, सोम और मंगल आदि ग्रहों की ज्योतियों और नक्षत्रों के साथ मेल होने पर गर्भ और प्रसवकाल में उत्पादक नामक पवन होता है।
 
@@ -5793,8 +5305,6 @@ A Hindoo savant in London.**
 
  १८–नैऋत्य, आग्नेय और दक्षिण की हवा गर्जना और बिजली वाले बड़े बड़े मेघों को भी अवश्य उड़ा लेजाती है।
 
-
-
  १९-२०–जिस दिन उत्तर की हवा को रोककर पूर्व की हवा चले उस दिन से आगे पाँच दिन तक वृष्टि होती है। पूर्व दिशा की दवा को रोककर दक्षिण दिशा की हवा चले तो तीन दिन तक वृष्टि होती रहती है। पश्चिम की हवा को रोककर नैऋत्यकोण की यदि हवा चले तो इससे वायु अधिक चलती है और वर्षा कम होती है।
 
  २१–यदि ठहर ठहर कर सभी दिशाओं से वायु चले तो कभी कभी अत्यन्त अल्पवृष्टि की आशा रखनी चाहिये।
@@ -5818,8 +5328,6 @@ A Hindoo savant in London.**
  २९–आषाढ़ में नैऋत्य की हवा, श्रावण में दक्षिण की और आश्विन में यदि अग्निकोण की हवा चले तो खेतों में धान्य सूख जाता है।
 
  ३०–इसी तरह यदि श्रावण में नैऋत्य की हवा हो, भाद्रपद में दक्षिण की और आश्विन में पूर्व की बायु हो तो खेतों में अन्न सूख जाता है पैदावार नहीं होती।
-
-
 
  ३१–श्रावण में अग्निकोण की हवा और भाद्रपद में नैऋत्यकोण की हवा चले तो वर्षा नहीं होती, यदि होती है तो बिजली तथा गर्जना रहित होती है।
 
@@ -5845,8 +5353,6 @@ A Hindoo savant in London.**
 
  ४१–मेघ चार तरह के होते हैं—नाग, पर्वत, वृषभ और अर्बुद। इन चारों का जल ही एक कारण है।
 
-
-
  ४२–शीतऋतु में दिग्गज जाति के मेघों से हिम की वर्षा होती है। पुष्कर, आवत्त, संवर्त्त और द्रोण ये मेघ की जातियाँ हैं।
 
  ४३–दुःख से जल देने वाला मेघ पुष्कर जाति का, निर्जल मेघ आवर्त्त जाति का, अधिक जल वाला संवर्त जाति का और धान्य के योग्य बरसने वाला मेघ द्रोण जाति का होता है।
@@ -5870,8 +5376,6 @@ A Hindoo savant in London.**
  ५२–अधिक पवन चलना या सर्वथा ही पवन का बन्द होना, अधिक गरमी पड़ना या अधिक ठण्ढ का ही गिरना, अधिक बादलों का होना अथवा सर्वथा ही बादलों का न होना ये छः चिह्न मेघ के होते हैं, अर्थात् मेघ के आने से ये लक्षण हुआ करते हैं।
 
  ५३–आषाढ़ी रोहिणी और आषाढ़ी एवं बारह मास की स्वाती के योग में मेघ की विशेषतायें पहिले कही गई हैं। उससे अधिक यहाँ कुछ और भी कहते हैं।
-
-
 
  ५४–आठ दिशाओं में से सूर्य से छोड़ी हुई, सूर्य से आक्रमण किई हुई और सूर्य से आक्रमण की जाने वाली ये तीन दिशाएँ दीप्तदिक् अर्थात् सूर्य से प्रकाशित अथवा सूर्य वाली कहलाती हैं शेष पाँच दिशाएँ शान्त कहलाती हैं।
 
@@ -5899,8 +5403,6 @@ A Hindoo savant in London.**
 
  ६६–प्रशान्त (अत्यन्त मन्द) मौसमी (monsoon) वायु की दिशा से सफेद बादलों के पर्वत उदास (प्रचण्ड) मौसमी वायु वाली दिशा में धीरे से चले जाते हैं।
 
-
-
  ६७–प्रचण्ड मौसमी वायु वाली दिशा से प्रशान्त मौसमी वायु वाली दिशा में रूई के ढेर के सदृश जो श्वेत बादल हैं वे चले जाते हैं।
 
  ६८–रूई के ढेर के समान सफ़ेद बादल वायव्य वा उत्तर से वेग से आते हों तो वे आठों प्रहर अवश्य वर्षा करेगें ।
@@ -5927,8 +5429,6 @@ A Hindoo savant in London.**
 
  ७८–उत्तर दिशा में सुनहरी रंग की बिजली चमके तो उसे अवश्य ही वर्षा करने वाली समझनी चाहिये। शीघ्र ही मेघ का उदय होगा।
 
-
-
  ७९–स्निग्ध बादलों में होने वाली स्निग्ध बिजली जल बरसाने वाली होती है। कृष्णमार्ग (दक्षिणमार्ग) में होने वाली बिजली वायु और वर्षा करती है।
 
  ८०–स्निग्ध विद्युत् किरणों वाली होती है, हरित विद्युत् हरे रंग की कान्ति वाली होती है, दक्षिण विद्युत दाहिने चक्करों वाली होती है। इन विद्युतों से खूब जल बरसता है।
@@ -5950,8 +5450,6 @@ A Hindoo savant in London.**
  ८९–अपने किरणों की समानता वाली लाल विद्युत् लाल बादलों में, हरी विद्युत हरे बादलों में और नीले रंग की विद्युत् नीले बादले में वर्षा करती है ।
 
  ९०–आगे लिखे हुए महा मेघों से इतर जो छोटे मेघ हैं वे विद्युत् के प्रकाश के बिना न कभी जल बरसाते हैं और न कभी गर्जना करते हैं।
-
-
 
  ९१–मुसल, गजनील दुन्दुभि, क्रम, पार्थिव, पर्जन्य, माधव और धाता ये महा मेघ कहलाते हैं ।
 
@@ -5977,8 +5475,6 @@ A Hindoo savant in London.**
 
  ९७–अपनी गति के कारण हटा (लौटा) हुआ सूर्य भौतिक वस्तुओं से उठाये हुए उस जल को फिर श्वेत और कृष्ण किरणों द्वारा मेघ में बांधता है।
 
-
-
  ९८–मेघों के अन्दर आया हुआ वह जल वायु (आर्तव Monsoon) से प्रेरित होकर फिर वापिस भूमि पर बरस जाता है । जल जिस प्रकार या जिन कारणों से इधर उधर घूमते हैं इसका कारण बुद्धिमान् वैज्ञानिक ही जानते हैं ।
 
  ९९–तेज किरणों से तपते हुए और मन्दपवन वाले मेघ वर्षाकाल में क्रुद्ध हुए की तरह बड़ी बड़ी धाराओं से बरसते हैं।
@@ -5999,8 +5495,6 @@ A Hindoo savant in London.**
 
 **इति वातादिगर्भरूपाधिकारः (१)**  
 ![](../books_images/U-IMG-1729404389Screenshot2024-10-20113618.png)
-
-
 
 **२-वैकारिकाधिकारः।  
 ![](../books_images/U-IMG-1729404526Screenshot2024-10-20113834.png)**
@@ -6035,8 +5529,6 @@ A Hindoo savant in London.**
 **राजान्तं परिघः श्वेतः शोणः सैनप्रकोपनम्।  
 बलवृद्धिं सुवर्णाभः करोत्यर्कोदयोत्थितः॥११४॥**
 
-
-
 **निर्घातः।**
 
 **स्फूर्जथुर्वज्रनिर्घोषो निर्घातोऽनभ्रगर्जितम्।  
@@ -6070,8 +5562,6 @@ A Hindoo savant in London.**
 **कुहिढश्च कुहेडिश्व कुहेलिश्च कुहेलिका।  
 नभोरेणुः कुज्झटिका कुज्झटिः कुज्झटी च सा॥१२३॥**
 
-
-
 **धूमिका धूममहिषी रतान्ध्रीति च कथ्यते।  
 सा चात्यर्थघनीभूतावश्यायपतनोद्भवा॥१२४॥**
 
@@ -6100,8 +5590,6 @@ A Hindoo savant in London.**
 
  ११३–सूर्य के ऊपर मेघ की तिरछी रेखा को परिघ कहते हैं। वह रेखा चाहे हस्व, दीर्घ, काली या सफेद हो।
 
-
-
  ११४–सूर्योदय समय में उठीहुई परिघ रेखा यदि सुफेद हो तो राजा का अन्त, शोण (लाल) हो तो सेना में हलचल और सुनहरी हो तो बल की वृद्धि करती है।
 
 **निर्घात।**
@@ -6129,8 +5617,6 @@ A Hindoo savant in London.**
  १२५–हर रोज जल के जो छोटे छोटे कण प्रतिरात्रि में बरसते हैं उन्हें अवश्याय (ओस)कहते हैं।
 
 **इति खपुरादिवैकारिकाधिकारः(२)**
-
-
 
 **३–रविकराधिकारः।  
 ![](../books_images/U-IMG-1729478732Screenshot2024-10-21081518.png)**
@@ -6163,8 +5649,6 @@ A Hindoo savant in London.**
 
 **शोणा पीता सिता चित्रा पद्माभा शोणितप्रभा।  
 शिशिरादिषु सन्ध्येयं स्वर्तुप्रकृतितः शुभा॥१३४॥**
-
-
 
 **पूर्वेण यदि, सन्ध्यायां मेघैराच्छाद्यते नभः।  
 महिषोष्ट्रवराहामैर्वृषकुञ्जरपर्वतैः॥१३५॥**
@@ -6201,8 +5685,6 @@ A Hindoo savant in London.**
 **परिधिः परिवेषश्च कुण्डलं द्विविधं मतम्।  
 प्रत्यर्कः प्रतिचन्द्रश्च द्विविधः परिधिर्भवेत्॥१४५॥**
 
-
-
 **प्रत्यकपरिधिः।**
 
 **प्रतिसूर्यः समः स्निग्धः स्वर्तुवर्णः प्रशस्यते।  
@@ -6236,8 +5718,6 @@ A Hindoo savant in London.**
 
 **सर्वाकाशपरिव्यापी नैकाभः शोणितप्रभः।  
 रूक्षः पापाय संभग्नधनुः शकटवत् स्थितः॥१५५॥**
-
-
 
 **परिवेषो मन्दफलो यो विलीनो मुहुर्मुहुः।  
 मयूरगलतुल्याभो बहु वर्षं करोति सः॥१५६॥**
@@ -6274,8 +5754,6 @@ A Hindoo savant in London.**
 **शशिनः कुंडलं श्वेत रक्तं सूर्यस्य वर्षति।  
 वैपरीत्ये घटाटोपो जायते स न वर्षति॥१६६॥**
 
-
-
 **सूर्यस्य कुण्डलं श्वेतमेकं वा कुण्डलद्वयम्।  
 तदा पादपविध्वंसी प्रचण्डः पवनो वहेत्॥१६७॥**
 
@@ -6311,8 +5789,6 @@ A Hindoo savant in London.**
 **अवनिगाढमच्छिन्नं प्रतिकूलं धनुर्द्वयम्।  
 कदाचिदपि दृश्येत न प्रशस्तं तदिष्यते ॥१७७॥**
 
-
-
 **अष्वृष्टिकृज्जलोद्भूतं भूमिजं सस्यनाशकृत्।  
 वल्मीकजं संगरकृद् वृक्षजं व्याधिक्रद्धनुः॥१७८॥**
 
@@ -6347,8 +5823,6 @@ A Hindoo savant in London.**
 
 **रवेः कराः सिताः स्निग्धा आदिमध्यांतगामिनः।  
 आव्युच्छिन्ना अमोघाख्या ऋजवो वृष्टिहेतवः॥१८८॥**
-
-
 
 **अमोघा दक्षिणावर्ता दीर्घा उद्योतिनोऽमलाः।  
 सरला विरले व्योम्नि दृष्टाः श्रेयस्करा मताः॥१८९॥**
@@ -6386,12 +5860,9 @@ A Hindoo savant in London.**
 **प्राङ्मध्यसन्धिदृष्टोऽयं युद्धसम्भावनाकरः।  
 श्वेतादिवर्णा विप्रादीन् हन्ति स्वाभिमुखां दिशम्॥२००॥**
 
-
-
  १२६–सन्ध्या, कुण्डल, इन्द्रधनुष, दण्ड, त्रिशूल, मत्स्य और अमोघ ये सात विकार सूर्य की किरणों से पैदा होते हैं।
 
 **सन्ध्या।**
-
 
  १२७–दिन और रात्रि की सन्धि में दो या तीन नाडीमात्र के समय को सन्ध्या कहते हैं अथवा जब तक ताराओं का दर्शन हो उस काल को सन्ध्या कहते हैं।
 
@@ -6410,8 +5881,6 @@ A Hindoo savant in London.**
  १३४–शिशिर आदि छः ऋतुओं में अपनी प्रकृति के अनुसार सन्ध्या यदि शोण कुछ लाल), पीत, श्वेत, चित्रविचित्र कमल की आभावाली और खून की सी रंगवाली हो तो शुभ समझना चाहिए।
 
  १३५–सन्ध्या के समय यदि पूर्व का आकाशमण्डल भैसे, ऊँट, सूअर, बैल, हाथी तथा पर्वताकार वाले मेघों से आच्छादित हों तो पाँच या सात रात्रि में वहाँ वर्षा समझनी चाहिये। ईशानकोण में ऊपर लिखे आकार वाले यदि मेघ हों तो अर्धरात्रि में वर्षा आवेगी। अर्थात् शीघ्र ही वर्षा समझनी चाहिये।
-
-
 
  १३७–सन्ध्या के समय उत्तर दिशा में पर्वतपंक्ति दिखाई देने से वहाँ तीसरे दिन वृष्टि होती है।
 
@@ -6437,8 +5906,6 @@ A Hindoo savant in London.**
 
  १४६–सम, स्निग्ध और ऋतु के अनुकूल वर्ण वाली प्रत्यर्क परिधि शुभ होती है वैदूर्य के सदृश आभावाली स्वच्छ और श्वेत परिधि सुभिक्ष और क्षेम करती है।
 
-
-
  १४७–प्रत्येक परिधि यदि सूर्य के उत्तर में हो तो वृष्टि, दक्षिण में हो तो वायु और दोनों तरफ स्थित हो तो जल का भय करती है।
 
  १४८–परिधियाँ यदि सूर्य के दोनों तरफ विम्ब से भिड़ी हुई हो तो अधिक वर्षा होती है, चारों ओर स्थित हो तो वर्षा नहीं होती।
@@ -6462,8 +5929,6 @@ A Hindoo savant in London.**
  १५६–जो परिवेष बारंबार दिखाई देकर विलीन होजाता है, वह मन्द फल होता है। मयूर के गले की सी आभावाला परिवेष अधिक वर्षा करता है।
 
  १५७–कपिल, स्निग्ध, दूध, तैल, जल, धनुष, शृङ्गारक और रक्त की सी आभा वाले परिवेष शुभ होते हैं। इस तरह परिवेषों के विषय में नारद का मत है।
-
-
 
  १५८–परिवेष यदि ग्रहनक्षत्र मण्डल के अन्तर्गत हो तो तीन दिन में वर्षा हो जाती है। शनि के मण्डल में होने पर छोटे धान्यों का क्षय और वात वृष्टि होती है।
 
@@ -6491,8 +5956,6 @@ A Hindoo savant in London.**
 
  १७०–रात्रि में चन्द्रमा के कुण्डल होने से प्रातःकाल हवा चलती है। कुण्डल के साथ परिधि होतो वर्षा भी आती है।
 
-
-
  १७१–चन्द्रमा के यदि छोटे बड़े दो कुण्डल धूम वर्ण के हों तो अनावृष्टि होगी, केवल वायुमात्र चलेगी।
 
  १७२–कुण्डल विस्तीर्ण हो और उसके अन्दर तारे मकते हों तो वायु चलती है, वर्षा नहीं होती है अथवा वर्षा होती है तो कई दिन तक होती रहती है।
@@ -6516,8 +5979,6 @@ A Hindoo savant in London.**
  १८०–सूर्य के अस्त समय में पश्चिम दिशा के अन्दर इन्द्रधनुष के होने से बारहवें प्रहर में वहाँ पूर्ण वृष्टि होती है।
 
  १८१–जहाँ प्रातःकाल पश्चिम दिशा के अन्दर इन्द्रधनुष हो और वारुण (जल बरसाने वाले) नक्षत्र हों तो वहाँ शीघ्र ही वर्षा होती है।
-
-
 
  १८२–उत्तर में इन्द्रधनुष के होने से अचानक वर्षा होती है। और दक्षिण में इन्द्रधनुष के होने से वर्षा की रुकावट होती है अथवा कई दिन तक वर्षा होती रहती है।
 
@@ -6545,8 +6006,6 @@ A Hindoo savant in London.**
 
  १९३–उदय और अस्त होते हुए सूर्य की अमोघ रेखा यदि एक हो तो उसी दिन वर्षा आती यदि वे तीन हों तो तीन दिन के पश्चात् वृष्टि होती है।
 
-
-
  १९४–यदि अमोघ रेखा सन्ध्याकाल में उत्तर दिशा के अन्दर अधिक लटकी (निकली) हुई हों तो तीसरे दिन वहाँ वृष्टि होगी।
 
  १९५–यदि उत्तर दिशा में सन्ध्या के समय अमोघ रेखा अधिक लम्बी (निकली हुई) हो तो शीतकाल में अधिक शांत पड़ेगा और वर्षाकाल में अच्छी वर्षा होगी।
@@ -6564,8 +6023,6 @@ A Hindoo savant in London.**
 **इति सन्ध्यादि रविकराधिकार (३)**
 
 **![](../books_images/U-IMG-1728733812b1.png)**
-
-
 
 **४—उल्काधिकारः।**
 
@@ -6601,8 +6058,6 @@ A Hindoo savant in London.**
 **अशनिश्चक्रसंस्थाना विशालकुटिला तडित्।  
 रेखेव लिखिता व्योम्नि ताराधिष्ण्यापि तादृशी॥२१०॥**
 
-
-
 **बृहच्छिखा च सूक्ष्माग्रा रक्तनीलशिखोज्ज्वला।  
 पौरुषप्रमिता नानाविधोल्केत्याह काश्यपः॥२११॥**
 
@@ -6628,13 +6083,11 @@ A Hindoo savant in London.**
 
  २०४–वज्र जब गिरता है, तब बड़ी भारी आवाज से भूमि को विदार देता है। यह मकान, वृक्ष और प्राणियों के शरीर पर अधिक गिरता है।
 
-
-
  २०५–२०६–ह्रादिनी, वज्र, आपोत्र, भिदिर, भिदुर, भिदु, जम्भारी, जाम्बवि, दंभ, दंभोलि, अशनि, पवि, शतधार, शतार, गौ, मेघभूति, गिरिज्वर, शतकोटि, स्वरु, शंब, कुलिश और गिरिकण्टक ये वज्र के नाम हैं।
 
  २०७–ईंधन के समूह पर और जीवों पर तटतट शब्द करती हुई, सभी को त्रास देने वाली, जलती हुई बिजली सहसा गिरजाती है।
 
- २०८–धिष्ण्या, पतली और छोटी पूंछवाली जलते हुए अंगारे के समान तथा दो हाथ एवं इससे कुछ अधिक भी होती है। यह दश [धनुष](http://॑ "एक धनुष ८ हाथ लंबा होता है।") तक दिखाई देती है।
+ २०८–धिष्ण्या, पतली और छोटी पूंछवाली जलते हुए अंगारे के समान तथा दो हाथ एवं इससे कुछ अधिक भी होती है। यह दश [धनुष]("एक धनुष ८ हाथ लंबा होता है।") तक दिखाई देती है।
 
  २०९–तारा एक हाथ लंबी, सफ़ेद वा ताम्र, कमल तंतु की तरह होती है। वह चलाये हुए बाण की तरह ऊपर नीचे वा तिरछी जाती है।
 
@@ -6651,8 +6104,6 @@ A Hindoo savant in London.**
  २१५–जो उल्का चाँद और सूरज को छूने वाली और जो चाँद और सूरज से निकली हुई होती है वह भूकंप के सहित दुर्भिक्ष, अनावृष्टि आदि अशुभ फल देती है।
 
 **इति वज्राद्युत्काधिकार (४) **
-
-
 
 **५—प्रकीर्णकाधिकारः।**  
 **![](../books_images/U-IMG-1728734021b3.png)**
@@ -6688,8 +6139,6 @@ A Hindoo savant in London.**
 **ततोऽल्पविम्बाः सन्त्यन्ये ग्रहास्तामसकीलकाः।  
 त्रयस्त्रिंशन्मिता राहुपुत्राख्या राहवश्च ते॥२२४॥**
 
-
-
 **ध्वाङ्क्षः कबन्धो दण्डश्च ध्वजच्छत्रं च चामरम्।  
 एते छिद्रकराः सूर्ये भूयोदृष्टास्तमोग्रहाः॥२२५॥**
 
@@ -6724,8 +6173,6 @@ A Hindoo savant in London.**
 
 **अहर्मित्रं ततो देवा वारुणी रात्रिरासुरी।  
 रात्रौ सुदर्शनच्छिन्नमूर्द्धा राहुस्ततोऽसुरः॥२३५॥**
-
-
 
 **छाया हि सा तमस्तस्मात् द्युचारी स ततो ग्रहः।  
 भूच्छायया गृहीतेन्दुरुपरक्तो न दृश्यते॥२३६॥**
@@ -6763,8 +6210,6 @@ A Hindoo savant in London.**
 **माघे तु ग्रहणे राहुर्हन्ति काश्यङ्गबङ्गजान्।  
 देशान्तरे तु कुरुते वृष्टिं कर्षकसंमताम्॥२४७॥**
 
-
-
 **फाल्गुने हन्त्यगुर्वंगावन्तिकाश्मकमेकलान्।  
 चैत्रे कैकयपोण्ड्रौड्राश्मकान् वर्षति चित्रितम्॥२४८॥**
 
@@ -6799,8 +6244,6 @@ A Hindoo savant in London.**
 
 **खेचरा दिवि यावन्तो नागास्तावन्त एव खे।  
 दिवि भुव्यन्तरिक्षे च नागानन्त्येपि तेऽष्टधा॥२५८॥**
-
-
 
 **ग्रहस्वकक्षावृत्तानां ये संयोगाः परस्परम्।  
 त एकविंशतिः पाता याम्यसौम्यास्ततो ग्रहाः॥२५९॥**
@@ -6838,8 +6281,6 @@ A Hindoo savant in London.**
 **गतिमन्त इमे पाता य उक्ता एकविंशतिः।  
 अघत्वे यत्र ये पातास्ते दर्श्यन्ते पृथग्विधाः॥२७०॥**
 
-
-
 **सूर्यपाताः।**
 
 **आदित्यार्द्धे च पूषान्ते संपातः शनिसूययोः।  
@@ -6874,8 +6315,6 @@ A Hindoo savant in London.**
 **प्राचां मते कलास्तिस्रो विकला दश तद्गतिः।  
 अष्टचत्वारिंशदनुविकला विंशतिः परा॥२८०॥**
 
-
-
 **अंशानां च कलानां च राहोरेकोनविंशतिः।  
 विकलानां चतुश्चत्वारिंशदब्दगतिर्मता॥२८१॥**
 
@@ -6909,8 +6348,6 @@ A Hindoo savant in London.**
 
 **भरण्यन्ते विशाखार्द्धे संपातो गुरुशुक्रयोः।  
 राशेरष्टादशे त्वंशे द्वितीयस्याष्टमस्य च॥२९०॥**
-
-
 
 **अश्विन्यन्ते स्वातिकार्द्धे संपातो गुरुसौम्ययोः।  
 अंशे तु सप्तमे राशेर्द्वितीयस्याष्टमस्य च॥२९१॥**
@@ -6951,8 +6388,6 @@ A Hindoo savant in London.**
 **कियन्त्यहानि दृश्यास्ते किं किमृक्षोदयास्तकाः।  
 एतत्पुराविदैर्दृष्टमपि हन्त न दर्शितम्॥२९९॥**
 
-
-
 **नैषां यथावद्विज्ञानं न च निर्द्धारिता गतिः।  
 संख्यानं च फलं चैषां प्रतीतं तदिहोच्यते॥३००॥**
 
@@ -6988,8 +6423,6 @@ A Hindoo savant in London.**
 
 **विकचाः पञ्चषष्टिस्तु विशिखा रश्मिभिर्वृताः।  
 वपुष्मन्तः सिताः स्निग्धाः प्रसन्ना एकतारकाः॥३११॥**
-
-
 
 **तस्करा एकपंचाशद् दीर्घा रूक्षाश्च पांडवः।  
 अरुन्धतिवदव्यक्ततारकाः रश्मिभिर्वृताः॥३१२॥**
@@ -7028,8 +6461,6 @@ A Hindoo savant in London.**
 **शुक्लैकतारा विपुला विपुला नव केतवः।  
 इत्थं सहस्रं केतूनां जातयस्तूनविंशतिः॥३२३॥**
 
-
-
 **पराशरादिभिर्दृष्टाः पुरा ये केतवो यथा।  
 ते तथा परिसंख्याता रूपकालफलादिभिः॥३२४॥**
 
@@ -7060,8 +6491,6 @@ A Hindoo savant in London.**
 
 **सुभिक्षं क्षेममारोग्यं नवमासान् करोति सः।  
 ग्रहान्तस्कृतान् दोषानपि सर्वान्निवर्तयेत्॥३३२॥**
-
-
 
 **ऊर्मि–शीत–केतवः–**
 
@@ -7095,8 +6524,6 @@ A Hindoo savant in London.**
 
 **केतुरौद्दालको वर्षशतं प्रोष्य दशोत्तरम्।  
 भटकेतोः स चारांते पूर्वस्यां दिशि दृश्यते॥३४१॥**
-
-
 
 **पद्मकेतुः।**
 
@@ -7135,8 +6562,6 @@ A Hindoo savant in London.**
 **वासाकेतुर्महान् स्निग्धसुभिक्षमरकप्रदः।  
 त्रिंशद्वर्षशतं प्रोष्या परोदप्युदगा यतः॥३५०॥**
 
-
-
 **वासाकेतुसमो रूक्षोऽस्थिकेतुः क्षुद्भयावहः।  
 प्राच्यां वसासमो दृष्टः शस्त्रकेतुर्मरप्रदः॥३५१॥**
 
@@ -7171,8 +6596,6 @@ A Hindoo savant in London.**
 
 **रौद्रकेतुः कलिर्वैश्वानरवीथ्यांं तु पूर्वतः।  
 उद्यन् स्वत्र्यंशमागत्य ततो गच्छत्यदर्शनम्॥३५९॥**
-
-
 
 **त्रीणि वर्षशतान्येष प्रोष्य मासान्नवाधिकान्।  
 चारान्ते मणिकेतोश्चामृतजस्यैति चोदयम्॥३६०॥**
@@ -7210,8 +6633,6 @@ A Hindoo savant in London.**
 **जलो भटश्च पद्मश्चावर्तश्च कुमुदो मणिः।  
 संवर्त इत्यमृतजाः केतवः सहजा मताः॥३६९॥**
 
-
-
 **दुष्टकेतुफलम्।**
 
 **^(१)अश्मकेशं ^(२)किरातेशं ^(३)कालिंगं ^(४)शौरसेनिकम्।  
@@ -7244,8 +6665,6 @@ A Hindoo savant in London.**
 
 **सप्तरात्रं जलाभासा भासते तारकावली।  
 तदावश्यं सुभिक्षाय मेघस्तत्र प्रवर्षति॥३७८॥**
-
-
 
 **प्रति क्षणं प्रस्फुरन्ती चञ्चच्चारुरुचा यदि।  
 तारावली चमत्कारं कुरुते सातिवर्षति॥३७९॥**
@@ -7280,8 +6699,6 @@ A Hindoo savant in London.**
 
 **शिशिरे तु रजो नास्ति दोषकृत् स्वर्तुजं हि तत्।  
 ऋतावन्यत्र रोमादिदोषावहमिदं रजः॥३८८॥**
-
-
 
 **भूकम्पः।**
 
@@ -7318,8 +6735,6 @@ A Hindoo savant in London.**
 **वायव्ये भूमिकम्पे तु जलसस्यौषधिक्षयः।  
 पीडा मत्स्ये दशार्णे च सौराष्ट्रे मगधे कुरौ॥३९९॥**
 
-
-
 **आग्नेये भूमिकम्पे तु मेघतोयाशयक्षयः।  
 पीडा कलिंगबंगांगबाह्लीकद्रविडाश्मके॥४००॥**
 
@@ -7340,12 +6755,9 @@ A Hindoo savant in London.**
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-
 ![](../books_images/U-IMG-1729927171Screenshot2023-05-17160630.png)संसार भर में चार प्रकार के पदार्थ होते हैं–स्वज्योति, परज्योति, रूपज्योति और अज्योति। जो ज्योति स्वतः अपने आप प्रकाशित होती है जिसे दूसरे प्रकाश की आवश्यकता नहीं होती वह स्वज्योति है। दूसरे की ज्योति से ज्योतिष्मयी बनकर अन्यों को प्रकाशित करने वाली परज्योति होती है। अपने रूपमात्र से प्रकाशित होने वाली रूपज्योति कहलाती है। जो सर्वथा ज्योति रहित है, वह अज्योति होती है। इनमें स्वज्योति को सूर्य कहते हैं, यह सूर्य स्वज्योति होने से ही चारों ओर से सर्वदा प्रकाशित रहता है, अतः इसमें अंधकार का कुछ भी प्रवेश नहीं होसकता है। इन्द्र का रूप प्रकाशही कहा गया है, अतः सूर्य को इन्द्र भी कहा जाता है तथा 'देवानामनीकं ' (देवताओं का स्थान) भी इसी कारण कहते हैं।
 
  परज्योति को चन्द्रमा कहते हैं, यह सूर्यज्योति से ज्योतिष्मान् बनकर प्रकाश करता है, स्वयं प्रकाश रहित है, इसी से 'कृष्णचन्द्र' भी कहते हैं। ऋग्वेद में लिखा है—“अन्नाह गोरमन्वत नामत्वष्टुरपीच्यम्। अथा चन्द्रमसो दिवि” इत्यादि इन्ही वैदिक मन्त्रों के आधार पर ज्योतिषशास्त्र में भी यह लिखा गया है—
-
-
 
  यह राहु भिन्न भिन्न रूप का दृष्टिगत होता है। वृष्टि के विकार में जो ये फल दिखाता है उसी का आगे निरूपण किया जाता है।
 
@@ -7367,8 +6779,6 @@ A Hindoo savant in London.**
  चन्द्रमा स्वयं ज्योति रहित है अतः इसमें आसुर प्राण का होना स्वाभाविक होजाता है। जो स्वज्योति न हो अथवा दूसरी ज्योति से भी ज्योतिष्मान् न हो वह रूपज्योति पदार्थ कहलाता है। जैसे पृथ्वी आदि। इसका हमें केवल रूपमात्र ही दृष्टिगत होजाता है। सूर्य की किरणें जो पृथ्वी की प्रत्येक विन्दु से प्रतिफलित होकर हमारी दृष्टि पर पहुँचती हैं वेही तदाकाराकारित होकर पृथ्वी के प्रत्यक्ष का कारण बनती हैं। चन्द्रमा की तरह ज्योतिरूप न बनने से यह परज्योति नहीं कहला सकती।
 
  जिस तरह चन्द्रमा का एक भाग सूर्य से प्रकाशित और दूसरा अप्रकाशित रहकर वह ‘तम’ (राहु) कहलाता है, इसी प्रकार इस पृथ्वी का जो भाग सूर्य से प्रकाशित रहता है, वह तो रूपज्योति कहलाता है, किन्तु जो भाग अप्रकाशित रहता है वह भाग अन्धकार से आच्छादित होने के कारण श्रज्योति कहलाता है। इससे इस भाग को तम’ भी कहते हैं पृथ्वी की जो तमोमयी छाया के लिये “तमस्तु राहुः स्वर्भानुः” कहा गया है।
-
-
 
 **कीलकराहवः।**
 
@@ -7396,8 +6806,6 @@ A Hindoo savant in London.**
 
  २३२–पृथ्वी, चन्द्र, बुध आदि परज्योति पिण्डों के प्रकाश रहित तमोमय आधे भाग को स्वर्भानु कहते हैं।
 
-
-
  २३३–इस तमोमय भाग से उत्पन्न तीन कोण वाली छाया को स्वर्भानु नाम के राहु कहते हैं इनके स्वर्भाग में भानु रहता है, इससे इनको स्वर्भानु कहते हैं।
 
  २३४–वह छायामयी मूर्ति ज्योतिर राहित्य (प्रकाश रहित) होने से राहु कहलाती है और उस छाया वाले तमोमय आधे भाग को सिंह कहते हैं, इस सिंही से उत्पन्न होने के कारण यह राहु सैंहिकेय भी कहलाता है।
@@ -7420,8 +6828,6 @@ A Hindoo savant in London.**
 
  २४२–लाल किरणों वाला, रज, धूम अथवा लाल वर्ण का वृष्टि नाश करने वाला होता है। कुछ धूम्र तथा कृष्ण और कबूतरी रंग का अतिवृष्टि करता है।
 
-
-
  २४३–ग्रस्त को देखकर शनि तो वृष्टि का और शुक्र सस्य का नाश करता है वृहस्पति ग्रस्त को देखकर दुष्ट दृष्टि के दोष को दूर करता है।
 
  २४४–कार्त्तिक मास में सूर्य चन्द्र का ग्रहण होने से मगध, काशी, कोशल, शूरसेन और कलिङ्ग देश की हानि होती है, अन्य देशों में क्षेम और सुभिक्ष होता है।
@@ -7439,8 +6845,6 @@ A Hindoo savant in London.**
  २५०–आषाढ़ मैं ग्रहण के दिखाई देने से चीन, कश्मीर, गान्धार और पुलिन्द देशों का नुकसान होता है और इससे माण्डलिक वर्षा होती है।
 
  २५१ से २५४–श्रवण का ग्रहण चीन, कश्मीर, गान्धार, पुलिन्द, मध्यदेश, कुरुक्षेत्र, कम्बोज़ और यवनों का नाश करता है, तथा शरत्काल के धान्य का भी नाश करता है, अन्यत्र क्षेमकारी होता है। भाद्रपद में ग्रहण होतो म्लेच्छ देशों का नाश करता है, वह सौराष्ट्र, मगध, सौवीर, दरद, अश्मक, कलिङ्ग, बंग और अन्यत्र सुभिक्षकारी होती है। आश्विन मास का ग्रहण बाह्लीक, चीन, काम्बोज, यवनदेश, किरात, आनर्त्त और पौण्ड्र देश का नुकसान करता है, अन्यन्त्र अत्यन्त सुभिक्षकारी होती है। किसी का मत है कि वैशाख में ग्रहण होतो वह श्रावण से पाँच महीने तक सुभिक्षकारी होता है।
-
-
 
  २५५–ग्रहण के दिन से एक सप्ताह के अन्दर ही यदि, प्रचण्ड पवन, बिजली, गर्जना, सूर्य चन्द्र के परिवेष और भूकंप होवे तो अशुभ समझना चाहिये।
 
@@ -7464,9 +6868,7 @@ A Hindoo savant in London.**
 
  २६३–सूर्य और चन्द्र के ग्रहण के विषय में शुभाशुभ फल कहा जा चुका है। अब तारा ग्रहों के ग्रहण का फल कहा जाता है।
 
- २६४–पात के अस्थिर होने से अविक्षिप्त एक नक्षत्र वाले ताराग्रह का बिम्ब जब सूर्य वा चन्द्रमा के द्वारा ग्रस्त होजाता है तब उसे [ग्रहण](http://॑ "बहिर्ग्रहों का पृथ्वी के द्वारा स्वच्छाया से खुद का ही ग्रहण होता है किन्तु अन्तर्ग्रहों का ग्रहण चिन्ह सूर्य पर दिखाई देता है।") कहते हैं।
-
-
+ २६४–पात के अस्थिर होने से अविक्षिप्त एक नक्षत्र वाले ताराग्रह का बिम्ब जब सूर्य वा चन्द्रमा के द्वारा ग्रस्त होजाता है तब उसे [ग्रहण]("बहिर्ग्रहों का पृथ्वी के द्वारा स्वच्छाया से खुद का ही ग्रहण होता है किन्तु अन्तर्ग्रहों का ग्रहण चिन्ह सूर्य पर दिखाई देता है।") कहते हैं।
 
  २६५–मंगल के ग्रहण होने पर अवन्तिका (उज्जैन), काबेरी और नर्मदा के किनारे के सब देशों को पीड़ा होती है।
 
@@ -7493,8 +6895,6 @@ A Hindoo savant in London.**
  २७५–बुध और सूर्य का संपात भरणी के अन्त में, विशाखा के आधे भाग में दूसरी और आठवीं राशि के सत्रहवें अंश में होता है।
 
  २७६–२७७–क्रान्तिपात से १०८ अंश पर सूर्य के रहने पर (सूर्य में) शनि का पात होता
-
-
 
 है, १०० अंश पर सूर्य के रहने पर गुरु का पात, ४८ अंश पर सूर्य के रहने से मंगल का पात ७७ वें अंश पर सूर्य के रहने पर शुक्र का पात और ४७ वें अंश पर बुध का पात होना पंडितों के द्वारा देखा गया है।
 
@@ -7523,8 +6923,6 @@ A Hindoo savant in London.**
 
  २८८–शनि और बुध का संपात पहिली और सातवीं राशि के सत्ताईसवें अश में, अश्विनीके आधे और चित्रा के अन्त भाग में होता है।
 
-
-
 **( गुरु–संपात )**
 
  २८९–गुरु और भौम का संपात संक्रान्ति की राशि से प्रथम और सातवीं राशि के चौबीसवें अंश में, रेवती के अन्त और चित्रा के आधे भाग में होता है।
@@ -7545,7 +6943,6 @@ A Hindoo savant in London.**
 
 **(तारा–चन्द्र–संपात)**
 
-
  २९५–चन्द्रमा का मार्ग ऊँचा नीचा है, यह नित्य ही विशेषता को अर्थात् भिन्न-भिन्न प्रकार को प्राप्त होता रहता है। अतः बुद्धिमान् लोग चन्द्र के साथ पाँच पात स्वयं ही जानलें।
 
 इति प्रकीर्ण के चतुर्विधराहवः।
@@ -7554,9 +6951,7 @@ A Hindoo savant in London.**
 
  २९६–कभी-कभी आकाश में विकीर्ण (बिखरे हुए) तेज वाले स्वप्रकाशमय पिण्ड दिखाई दिया करते हैं, ये ही पिण्ड केतु कहलाते हैं।
 
-
-
- २९७–भूमि पर [इन्द्रगोपकृमि](http://॑ "एक प्रकार का कीड़ा जो प्रायः बरसात में पैदा होता है और वह चमकीला होता है।"), जिन्द वगैरह का स्थान, रत्न और मणि को छोड़कर, तथा आकाश में उल्काग्रह नक्षत्र को छोड़कर अग्नि रहित स्थान में जो ज्योति दिखाई पड़ती हैं वे केतु हैं।
+ २९७–भूमि पर [इन्द्रगोपकृमि]("एक प्रकार का कीड़ा जो प्रायः बरसात में पैदा होता है और वह चमकीला होता है।"), जिन्द वगैरह का स्थान, रत्न और मणि को छोड़कर, तथा आकाश में उल्काग्रह नक्षत्र को छोड़कर अग्नि रहित स्थान में जो ज्योति दिखाई पड़ती हैं वे केतु हैं।
 
  २९८–इन केतु पिण्डों की संख्या को गग आदि ऋषि एक हजार बताते हैं, पराशर आदि ऋषि एक सौ और नारद ऋषि एक ही संख्या मानते हैं।
 
@@ -7575,8 +6970,6 @@ A Hindoo savant in London.**
  ३०७–बरफ, चन्द्रमा, कुन्द, (सफेद पुष्प) और चाँदी की सी आभावाले ३ केतु सौम्य होते हैं और शुभ हैं। क्रूर तो केवल एक *ब्रह्मदण्ड केतु* है जो तीन शिखा वाला एवं तीन वर्ण का होता है।
 
  ३०८ –उत्तर में *सौम्य केतु*, ईशान कोण में भौम, दक्षिण में मृत्युद और अग्नि–कोण में आग्नेय केतु होते हैं। पूर्व और पश्चिम में किरण केतु का उदय होता है।
-
-
 
  ३०९–*विसर्पक* ८४ मोटे तारों का झुण्ड होता है। ये ज्योति वाले, श्वेत, स्निग्ध, प्रसन्न और तीव्र आकार वाले होते हैं।
 
@@ -7602,8 +6995,6 @@ A Hindoo savant in London.**
 
  ३२०–*गण केतु* आठ होते हैं। ये तारा समूह की तरह एक मण्डल में स्थित रहते हैं। *ब्रह्मज केतु* २०४ होते हैं। ये चार कोण के और श्वेत शिखा के होते हैं।
 
-
-
  ३२१–*कंक* नामक–केतु ३२ होते हैं। ये किरणों को फेंकने वाले, स्निग्ध और चन्द्रमा की सी आभावाले होते हैं। तथा काक की चोंच के समान, बांसों की गुल्मों की आभावाली किरणों से घिरे हुए होते हैं।
 
  ३२२–*कबन्ध-केतु* ९६ होते हैं। इन की किरणें भस्म और कपूर की तरह (श्वेत) होती है। ये केतु भिन्न-भिन्न रूप वाले तारों के पुंज में होते हैं, तथा पीले और लाल कबन्ध (शिर रहित देह) की तरह दिखाई देते हैं।
@@ -7619,8 +7010,6 @@ A Hindoo savant in London.**
  ३२५–चल, जल, ऊर्मि आदि आठ, भट, श्रद्दालक, पद्म, काश्यप, आवर्त्त और रश्मिकेतु–इनका उदय क्रम से होता है।
 
  ३२६ –बसाकेतु, कुमुदकेतु, कपालकेतु, मणिकेतु और कलिकेतु ये भी क्रमसे उदय होते हैं, किन्तु कई ऋषियों का मत है कि इनके उदय में क्रम नहीं होता।
-
-
 
  ३२७–दाहिने हाथ के अंगुल के सदृश उन्नत शिखा वाला, उत्तर की तरफ जाता हुआ, लम्बा होता हुआ और शूलाग्र की तरह शिखा वाला चलकेतु होता है।
 
@@ -7650,8 +7039,6 @@ A Hindoo savant in London.**
 
  ३३७–यह भटकेतु पूर्व दिशा में दाहिनी ओर घूमी हुई बन्दर की पूँछ की तरह शिखा वाला, स्निग्ध और कृत्तिका के गुच्छे की तरह मुख्य तारा के प्रमाण का होता है।
 
-
-
  ३३८–यह जितने मुहूर्त्त स्निग्ध दिखता रहता है उतने महीनों तक सुभिक्ष करता है। रूक्ष होगा तो प्राणों का अन्त करने वाला और रोग पैदा करने वाला होगा।
 
 **औद्दालककेतु, श्वेतकेतु, ककेतु।**
@@ -7679,8 +7066,6 @@ A Hindoo savant in London.**
  ३४६–श्वेतकेतु के समाप्त होने पर पश्चिम में अर्ध रात्रि के समय शंख की आभावाला आवकेतु उदय होता है।
 
  ३४७–यह केतु जितने मुहूर्त्त दिखाई दे उतने हीं महीनों सुभिक्ष करता है। यह सदा संसार में यज्ञोत्सव करता है।
-
-
 
 **रश्मिकेतुः।**
 
@@ -7712,8 +7097,6 @@ A Hindoo savant in London.**
 
  ३५७–यह मणिकेतु दूध की धारा के समान स्निग्ध शिखावाला श्वेत रंग का होता है। यह रात्रभर एक प्रहर तक सूक्ष्म तारा के रूप में दिखाई देता है।
 
-
-
  ३५८–कपालकेतु की गति के अन्त में यह मणिकेतु पश्चिम दिशा में उदय होता है और उस दिन से साढ़े चार महीनें तक सुभिक्ष करता है।
 
 **कलिकिरण रौद्रकेतु (किरण)**
@@ -7742,8 +7125,6 @@ A Hindoo savant in London.**
 
  ३६८–द्यु, अन्तरिक्ष वा भूमि पर स्निग्ध दिखाई दे तो शुभ है और गृहस्थियों के गृहाङ्गण में तथा राजाओं के सेना के किसी भाग में दिखाई देने से विनाशकारी होता है।
 
-
-
 **अमृतकेतु।**
 
  ३६९–जल, भट, पद्म, आवर्त, कुमुद, मणि और संवर्त ये सात केतु प्रकृतिसेही अमृतोत्पन्न माने जाते हैं।
@@ -7754,12 +7135,9 @@ A Hindoo savant in London.**
 
 [TABLE]
 
-
  ३७४–जितने दिनों तक ये दीखते हैं, उतने हीं महीनों तक और जितने महीनों तक दीखें उतने वर्षों तक इनका फल मिलता है। जब वे दीखें उसके तीन पक्ष आगे फल देते हैं।
 
  ३७५–जिन केतुओं की शिखा उल्का से ताड़ित होरही हो वे केतु हूण, अफगान, चीन, और चोल से अन्यत्र देशों में श्रेयस्कर होते हैं।
-
-
 
  ३७६–जो केतु शुक्ल, स्निग्धतनु, ह्रस्व, प्रसन्न, थोड़े समय ही दिखने वाला सीधा हो और जिसके उदय होने से वृष्टि हुई हो वह शुभ फलदायी होता है।
 
@@ -7789,8 +7167,6 @@ A Hindoo savant in London.**
 
  ३८५–वायु के बिना उठा हुआ रज यदि अन्धकार करदे तो वह सात पक्षों से अर्थात साढ़े तीन महीनों में वहाँ निश्चय वर्षा करेगा।
 
-
-
  ३८६–धूमि का (धुन्ध) वा तुषार (बर्फ़) जहाँ अन्धकार करता है, वहाँ ग्यारहवें पक्ष में अवश्य वर्षा होती है।
 
  ३८७–यदि गुडहल के फूल अथवा अञ्जन के चूर्ण की आभावाली रज सायंकाल के सूर्य के सामने जाती हो तो संसार रोगों से पीड़ित होता है। यदि बद्द रज श्वेत हो तो आनन्द प्राप्त होता है।
@@ -7815,8 +7191,6 @@ A Hindoo savant in London.**
 
  ३९६–इससे चारों ओर पर्वतों के से आकार वाले, बिजली वाले, जोर की आवाज वाले गवल (भैंसे का सींग) भौंरों के कुल और साँपों की सी आभावाले मेघ बरसते हैं।
 
-
-
  ३९७–अश्लेषा, आर्द्रा, पूर्वाषाढ़, रेवती, मूल, उ० भाद्र और वारुण नक्षत्र यह *वारुण मण्डल* कहलाता है। इसका एक सप्ताह के बाद रूप दर्शन होता है।
 
  ३९८–इससे ज्यादातर-मधुर आवाज वाले, नीले, काले अञ्जन की कान्तिवाले, बिजली से चमकते हुए और अत्यन्त जल देने वाले मेघ वर्षा करते हैं।
@@ -7831,12 +7205,9 @@ A Hindoo savant in London.**
 
  ४०३–समय और नक्षत्र मण्डल के भिन्न होने पर अर्थात् यदि नक्षत्र किसी दूसरे मण्डल का हो और समय दूसरे मण्डल का हो तो एक दूसरे का फल नष्ट होजाता है। किन्तु ऐन्द्र और वारुण मण्डल के योग में भूकंप होने से सुभिक्ष होता है और अच्छी वर्षा होती है।
 
-
 **इति प्रकीर्णकाधिकारः।**
 
 **![](../books_images/U-IMG-1728968522x1.png)**
-
-
 
 **सर्वशेषः।**
 
@@ -7868,22 +7239,16 @@ A Hindoo savant in London.**
 
  ४०७–वायु के द्वारा कंप होने से २०० योजन तक भूमि हिलती है, वरुण के द्वारा होने से ८०, इन्द्र के द्वारा ६० और अग्नि के द्वारा होने से ११० योजन तक भूमि हिलती है।
 
-
-
  ४०८–सन्ध्या १ योजन तक, उपार्क (प्रत्यर्क-परिधि) ३ योजन तक, धनुष १० योजन तक, निर्घोष तथा परिघ ५ योजन तक और परिवेष तथा बिजली ६ योजन तक दिखाई देती हैं।
 
  ४०९–उल्का पतन में योजनों की कोई संख्या नियत नहीं है, ये जहाँ गिरें वहीं इनका फल समझना चाहिए।
 
-
 इति सर्वशेषः।
-
 
 **॥इति दिव्यलक्षणाध्यायस्तृतीयः॥  
 ॥३॥**
 
 **![](../books_images/U-IMG-1728968914x2.png)**
-
-
 
 **अथ शकुनाध्यायः, तत्कालाध्यायः।**
 
@@ -7916,8 +7281,6 @@ A Hindoo savant in London.**
 **तत्कालघटिकद्विघ्ना त्रिहृतैकेन सत्वरम्।  
 द्वाभ्यां किञ्चिद्विलम्बेन शून्यशेषे त्ववर्षणम्॥७॥**
 
-
-
  ३–यदि कोई वर्षा के विषय में प्रश्न करे और उस वृष्टि प्रश्न के शकुन में काली गाय, घट अथवा काले वस्त्र पहिने हुये स्त्री के दर्शन हो तो वर्षा होगी ऐसा कहना चाहिये।
 
  ४–वर्षा का प्रश्न करने वाला जल के समीप हो, वा जल या किसी आर्द्र वस्तु को स्पर्श कर रहा हो, अथवा उस समय जल का शब्द सुनाई देता हो तो शीघ्रही वर्षा का आगमन कहना चाहिये।
@@ -7927,7 +7290,6 @@ A Hindoo savant in London.**
  ६ –वर्षा संबन्धी प्रश्न करने वाले से दाइने हाथ के उंगलियों को स्पर्श कराने पर यदि वह अंगुष्ठ का स्पर्श करे तो अधिक वर्षा हो, तथा सावित्री (कनिष्ठिका) के स्पर्श करने पर अल्पवर्षा होती है। शेष उंगलियों के स्पर्श से सामान्य वर्षा समझनी चाहिये।
 
  ७–सूर्योदय से प्रश्न करने के समय तक की घटिकाओं को दो से गुणा करे और फिर तीन से भाग देवे; यदि एक शेष रहे तो शीघ्र वर्षा होती है, दो शेष रहै तो कुछ देरी से और शेष शून्य रहे तो वृष्टि कहनी चाहिये।
-
 
 इति प्रश्नशकुनं नाम मिश्रनिमित्ताधिकारः।
 
@@ -7944,8 +7306,6 @@ A Hindoo savant in London.**
 
 **लग्ने चन्द्रः कुजः शुक्रः शनिश्व सहिता यदि।  
 सवाता करकावृष्टिविद्युच्चलति सर्वतः॥११॥**
-
-
 
 **पूर्णेन्दुबुधशुक्रेज्यैर्वलिभिः क्रूरवर्जितैः।  
 केन्द्रस्थकर्कमकरमीनगैर्वृष्टिमादिशेत्॥१२॥**
@@ -7983,8 +7343,6 @@ A Hindoo savant in London.**
 **यस्यां दिशि शनिर्द्दष्टः क्रूरश्चात्र गृहे स्थितः।  
 दिशि तस्यां तु दुर्भिक्षं भविष्यति न संशयः॥२३॥**
 
-
-
 **अस्मदीये पुनः क्षेत्रे वृष्टिर्भव्या भविष्यति।  
 एष प्रश्नो बुधैश्चिन्त्यो लग्ने व्योम्नि चतुर्थके॥२४॥**
 
@@ -8019,8 +7377,6 @@ A Hindoo savant in London.**
 
 **इत्ययनज्यौतिषम्॥**
 
-
-
 **यद्यग्रतः पृष्ठतो वा ग्रहाः सूर्यसमीपगाः।  
 तदा वृष्टिं प्रकुर्वन्ति न ते चेत् प्रतिलोमगाः॥३४॥**
 
@@ -8040,7 +7396,6 @@ A Hindoo savant in London.**
 
 **इति ऋतुज्यौतिषम्।**
 
-
  ८–वर्षाऋतु में वृष्टि के विषय में प्रश्न करने के समय यदि तोयलग्न हो अर्थात लग्नस्थान में जलराशि हो और जल सम्बन्धी वारुणनक्षत्र हो तथा शुभग्रहों के द्वारा देखे जाने वाले केन्द्र स्थान में चन्द्रमा या शुक्र हो तो शीघ्र ही वर्षा कहनी चाहिये।
 
  ९–प्रश्नकाल के लग्नस्थान में वा जलराशि के स्थान में चन्द्रमा हो तो बहुत जल गिरता। यदि प्रश्न लग्न में शनि, बुध और चन्द्रमा हों तो ओले गिरते हैं।
@@ -8050,8 +7405,6 @@ A Hindoo savant in London.**
  १०–प्रश्नलग्न के स्थान में मंगल के होने से खूब बिजलियाँ चमकती हैं और घनघोर गर्जना के साथ खूब वृष्टि होती है।
 
  ११–प्रश्नलग्न में यदि चन्द्रमा, मंगल, शुक्र और शनि ये सब एक साथ हों तो वायु साथ ओलों की वर्षा होती है और चारों ओर बिजली चमकती है।
-
-
 
  १२–प्रश्नकाल के केन्द्र-स्थान में कर्क, मकर या मीनराशि के होने पर तथा क्रूर ग्रह (राहु, केतु, शनि) से वर्जित पूर्ण चन्द्रमा, बुध, शुक्र और वृहस्पति इनके बलवान् होने पर वृष्टि कहनी चाहिये।
 
@@ -8073,8 +7426,6 @@ A Hindoo savant in London.**
 
  २१–प्रश्न लग्न की कुंडली में चन्द्रमा और सूर्य से चौथे, आठवें या सातवें स्थान में शुक्र और शनि के होने से वर्षों काल में वृष्टि होती है। इसी तरह लग्न से सातवें और दूसरे स्थान पर भी इन्ही दोनों शुक्र और शनि के होने से वर्षा होती है।
 
-
-
  २२–चारों केन्द्रों के अर्थात् कुण्डली के प्रथम, चतुर्थ, सप्तम और दशम स्थानों के बीच में जिस दिशा की तरफ के केन्द्र में शुभग्रह हों उसी दिशा में अच्छी धान्योत्यत्ति और अच्छा सुभिक्ष होता है।
 
  २३–जिस दिशा में शनि देखा गया हो अर्थात् जिस दिशा में शनिस्थित हो और क्रूरग्रह ( राहु, केतु ) भी वहाँ स्थित हों तो उस दिशा में निस्सन्देह दुर्भिक्ष समझना चाहिये।
@@ -8094,8 +7445,6 @@ A Hindoo savant in London.**
 **इति प्रश्न ज्यौतिषम्।**
 
  ३०–सूर्य के दक्षिणायन के समय के लग्न में कन्या, मिथुन और मीन राशियों में यदि शुक्र, बुध, चन्द्रमा और वृहस्पति हों तो अच्छी वृष्टि समझनी चाहिये तथा शनि, मंगल और राहु के होने से अल्प वृष्टि होती है।
-
-
 
  ३१–३२–दक्षिणायन के आरंभ में कर्क या वृषराशि में शुक्र और बुध के होने से, मीन और कन्या में वृहस्पति और चन्द्रमा के होने से, मिथुन वा मेष में शुक्र बुध के होने से अथवा धनु राशि में चन्द्र और बृहस्पति के होने से तथा तुला, वृश्चिक और सिंह राशि में पाप ग्रहों के होने से वृष्टि होती है। कर्क और वृषराशि में शनि और मंगल ग्रह हों और मिथुन में राहु हो तो अल्प वृष्टि होती है।
 
@@ -8118,9 +7467,6 @@ A Hindoo savant in London.**
 **इति दैवनिमित्तकसद्योवर्षाधिकारः।**
 
 **![](../books_images/U-IMG-1728987325t1.png)**  
-
-
-
 
 **दिविष्ठनिमित्ताधिकारः।**
 
@@ -8159,8 +7505,6 @@ A Hindoo savant in London.**
 **रात्रौ तारा झलत्कारः प्रातश्चात्यरुणो रविः।  
 अवृष्टौ शक्रचापश्च सद्यो वृष्टिस्तदा भवेत्॥४९**॥
 
-
-
 **प्रभाते पश्चिमायां चेदिन्द्रचापः प्रदृश्यते।  
 वारुणैश्चैव नक्षत्रैः शीघ्रं वर्षति वासवः॥५०॥**
 
@@ -8196,8 +7540,6 @@ A Hindoo savant in London.**
 
 **निर्वातमतिवातं वा सर्ववातं सहोष्मणा।  
 जनयन् परितो जातो ध्रुवं वर्षति वारिदः॥६१॥**
-
-
 
 **वर्षाकालसमारम्भे दक्षिणस्यां प्रजायते।  
 वायुर्वा वार्दलं विद्युद् ध्रुवं वर्षति वारिदः॥६२॥**
@@ -8235,8 +7577,6 @@ A Hindoo savant in London.**
 **चित्रास्तित्तिरपक्षाभा उदयेऽस्तमये घनाः।  
 दृश्यन्ते चेदहोरात्रं वर्षन्ति न चिराद् बहु॥७३॥**
 
-
-
  ३९–‘मयूर चित्र’ नामक वृष्टि-विद्या-सम्बन्धी पुस्तक में लिखा है–कि “वर्षा ऋतु जिस दिन सूर्य अत्यन्त जोशीला, दुस्सह और घृत के रंग की तरह प्रभावाला हो तो उस दिन वह अवश्य वर्षा करता है।
 
  ४०-४१–वर्षा काल में जिस दिन उदय के समय का सूर्य अत्यन्त प्रकाश के कारण देखा न जा सके, पिघले हुए सुवर्ण के समान हो, स्निग्ध वैदूर्यमणि की सी प्रभावाला हो और अत्यन्त तीव्र होकर तप रहा हो अथवा आकाश में बहुत ऊँचा चढ़ गया हो तो वह उसी दिन खूब अच्छी वर्षा करता है।
@@ -8256,8 +7596,6 @@ A Hindoo savant in London.**
  ४८–उदय होता हुआ सूर्य जोशीला हो, आकाश गौर वर्ण का हो और संध्या खिली हुई हो तो अति वृष्टि होगी।
 
  ४९–रात में तारे चमकते हों, प्रातःकाल अत्यन्त लालवर्ण का सूर्य उदय होता हो और बिना वर्षा के समय इन्द्रधनुष होता हो तो ये लक्षण तत्काल वृष्टि के समझने चाहिये।
-
-
 
  ५०–प्रातःकाल में इन्द्रधनुष पश्चिम दिशा में दिखाई देता हो तो वारुण (जलसम्बन्धी) नक्षत्रों के द्वारा शीघ्र ही वर्षा होती है।
 
@@ -8282,8 +7620,6 @@ A Hindoo savant in London.**
  ६०–अत्यन्त वायु का चलना, सर्वथा ही वायु का न चलना, अत्यन्त गरमी का पड़ना, अत्यन्त शीत पड़ना, अत्यन्त बादलों का होना और सर्वथा ही बादलों का न होना ये छः प्रकार के मेघ के लक्षण कहे गये हैं।
 
  ६१–वायु का न चलना, बहुत वायु चलना और ऊष्मा (गरमी) के साथ चौतरफ़ी दवा का चलना, इन सब को पैदा करता हुआ तथा चारों ओर फैला हुआ बादल अवश्य वर्षा करता है
-
-
 
  ६२–वर्षाकाल के आरम्भ में दक्षिण दिशा के अन्दर यदि वायु, बादल अथवा बिजली चमकती हो तो अवश्य वर्षा होती है।
 
@@ -8310,8 +7646,6 @@ A Hindoo savant in London.**
  ७३–तीतर के पंखों की सी आभावाले विचित्र वर्ण के मेघ यदि उदय और अस्त के समय अथवा रात दिन दिखाई दें तो शीघ्र ही बहुत वर्षा होती है।
 
 **इति दिविष्ठनिमित्ताधिकारः।**
-
-
 
 **भूमिष्ठ निमित्ताधिकारः।**
 
@@ -8350,8 +7684,6 @@ A Hindoo savant in London.**
 
 **गृहाणां पटले स्थित्वा यदि श्वानो दिवोन्मुखाः।**
 
-
-
 **उदीक्षन्ते शंकितास्या न चिरात्तर्हि वर्षति॥८५॥**
 
 **पक्षौ प्रसार्य्य तिष्ठन्ति वका यदि यतस्ततः।**  
@@ -8387,8 +7719,6 @@ A Hindoo savant in London.**
 **किट्टमुत्पद्यते कांस्ये व्याकुला जलजन्तवः।  
 नाडिकासूष्णता तोये ध्रुवं वर्षति वासवः॥९६॥**
 
-
-
 **स्नुहीपत्रेषु दृश्यन्ते यत्र तत्रांकिरोदयाः।  
 वृष्टिभावक वायूनां विद्यात्तत्रागमं तदा॥९७॥**
 
@@ -8416,8 +7746,6 @@ A Hindoo savant in London.**
 
  ८०–जल विरस (दूसरे स्वाद का) हो जाय, मछलियाँ भूमि की ओर कूदने लगजायँ,
 
-
-
 मेंढक बहुत ऊंचे स्वर से बोलने लगें तो शीघ्र ही वर्षा आती है।
 
  ८१–मार्जार (बिल्ली) यदि नखों से भूमि को बहुत खोदने लगे, लोह के जंग से दुर्गन्ध निकलती हो तो शीघ्र वर्षा आती है।
@@ -8443,8 +7771,6 @@ A Hindoo savant in London.**
  ९१–छोटे पेडों की कलियाँ जल जायें, आकड़े आदि के पेड़ में कलियाँ निकल आवें, बड़ की शाखाओं में खोखले हो जावें तो शीघ्र वर्षा आती है।
 
  ९२–दाढ़ी, मूंछ, गीलीसी, चिकनी, और नरम होजायें, प्राणी गरमी से व्याकुल होवें तथा आलस्य, शिथिलता, निद्रा आने लगे तो अवश्य वर्षा आती है।
-
-
 
  ९३–गोबर में कीड़े पड़ जॉय, मौरों के पंखों में ‘भन-भन’ शब्द होने लगे, गिरगट लाल आभावाले होजायें तो अवश्य वर्षा आती है।
 
@@ -8473,8 +7799,6 @@ A Hindoo savant in London.**
 **नैऋतं पश्चिमोवायुर्नाड्यापः शीतनिर्मलाः।  
 दशाहानि तदा तत्र वर्षाणां न भविष्यति॥१०३॥**
 
-
-
 **प्रभातेऽभ्रघटाटोपो मध्यान्हे प्रखरो रविः।  
 सायं तु शीतलो वायू रात्रो तारा न वर्षति॥१०४॥**
 
@@ -8499,7 +7823,6 @@ A Hindoo savant in London.**
 **प्रातस्तृणाग्रे मुक्तावद् भान्ति नीहारविन्दवः।  
 वातश्च शीतलो वाति तदा प्रावृट् समाप्यते॥१११॥**
 
-
 ![](../books_images/U-IMG-1730100268Screenshot2023-05-17160630.png)१०२–उल्का गिरना, दिशाओं का दाह होना, निर्घात का होना, रज की वृष्टि होना, इन्द्र धनुष तथा ग्रहों का युद्ध होना ये छः वर्षा के नाश के योग हैं।
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -8507,8 +7830,6 @@ A Hindoo savant in London.**
 ![](../books_images/U-IMG-1730100268Screenshot2023-05-17160630.png)यहाँ उल्का शब्द उपलक्षण समझना चाहिये। इससे धिष्णया और तारा का भी ग्रहण कर लेना चाहिये।
 
  उल्कापात औग्र धिष्ण्या पात में आकाश के अन्दर प्रकाश होता है, किन्तु उल्का में तो प्रकाश शनैः
-
-
 
  १०३–नैर्ऋत्य कोण वा पश्चिम की हवा हो, जल की नालियों के जल शीतल और निर्मल हो जायँ तो वहाँ दस दिन तक वर्षा नहीं होगी।
 
@@ -8532,8 +7853,6 @@ A Hindoo savant in London.**
 
  ग्रहयुद्ध से यह नहीं समझना चाहिये कि ग्रह गण आपस में लड़ाई करते हैं, इसका अभिप्राय यह है कि एक रेखा पर जब एक से अधिक ग्रह आ जाते हैं तब ग्रह की ग्रह के साथ युति होती है, इससे ग्रहों की किरणों का आपस में घर्षण होजाता है, बस इसी घर्षण का नाम ग्रह युद्ध है। इस युद्ध से वायु में एक प्रकार की इल चल उत्पन्न होजाती है, जिससे आकाश में छाये हुये मेघ तीन-तेरह होजाते हैंI
 
-
-
  १०६–उत्तर दिशा में अच्छी बादलों की घटा छायी भी रहै, किन्तु यदि दक्षिण की हवा चल जाय तो वह घटा बिना वर्षा किये ही नष्ट हो जाती है।
 
  १०७–वर्षा की झड़ी लग रही हो और पश्चिम की वायु तथा इन्द्रधनुष हो जाये तो तत्काल ही वह वृष्टि नष्ट हो जाती है।
@@ -8548,10 +7867,7 @@ A Hindoo savant in London.**
 
 **इति अनावृष्टिहेतवः।**
 
-
 **इति सद्यो-लक्षणाध्यायश्चतुर्थः।**
-
-
 
 **अथ ग्रहयोगाध्यायः।**
 
@@ -8588,8 +7904,6 @@ A Hindoo savant in London.**
 **शुक्रो निसर्गतो वृष्ट्यै निग्रहाय निमित्ततः।  
 शोणितो निग्रहायैव वर्षणाय निमित्ततः॥११॥**
 
-
-
 **शुक्रश्च शोणितश्चैतौ परीक्ष्यौ जीवनोदये।  
 जीवनं हि तदायत्तं तदुपोद्बलकाः परे॥१२॥**
 
@@ -8622,8 +7936,6 @@ A Hindoo savant in London.**
 
  ४–चन्द्रमा, बुध और शुक्र ये तीनों अन्तर्ग्रह हैं। मंगल, बृहस्पति और शनि ये तीनों बहिर्ग्रह कहलाते हैं।
 
-
-
  ५–वृहस्पति, शुक्र, चन्द्रमा और बुध ये शुभग्रह हैं। शनि मंगल और सूर्य ये क्रूर ग्रह हैं।
 
  ६–बृहस्पति, शनि शुक्र चन्द्रमा ये चारों आर्द्र (गीले) ग्रह कहलाते हैं। बुध, सूर्य, और मंगल ये तीन शुष्क (सूखे) ग्रह कहलाते हैं।
@@ -8647,8 +7959,6 @@ A Hindoo savant in London.**
  १५–शनि के योग से भारी, घन, ठंढी और रूखी हवा चलती है, शुक्र के योग से गीली और ठढी हवा चलती है, और मंगल के योग से रोग करने वाली हवा चलती है।
 
  १६–बृहस्पति न अधिक गरम न अधिक शीत अर्थात् साधारण आर्द्र (गोली) वायु चलाता है। चन्द्रमा और बुध ये दोनों संयुक्त और दृष्ट ग्रहों के अनुसार से वायु चलाते हैं।
-
-
 
  १७–शनैश्चर अभ्र और प्रचंड वायु को पैदा करता है। शुक्र शीत ऋतु में विन्दुपात करता है और ग्रीष्म ऋतु में गरमी पैदा करता है।
 
@@ -8684,8 +7994,6 @@ A Hindoo savant in London.**
 **अतिवारगताः क्रूराः कुर्वते स्वल्पवर्षणम्।  
 अवर्षणं तु कुर्वन्ति यदि शीघ्राः शुभग्रहाः॥२७॥**
 
-
-
 **क्रूरैर्वक्रैरनावृष्टिर्वृष्टिर्वक्रैः शुभग्रहैः।  
 क्रूरं वक्रं गते सौम्ये शीघ्रो घोरमवर्षणम्॥२८॥**
 
@@ -8706,13 +8014,11 @@ A Hindoo savant in London.**
 
  २३–उदय तथा अस्त होते हुए ग्रह को गुरु यदि पूर्ण, अथवा चतुर्थांश कम दृष्टि से देखे तो वह ग्रह वर्षा करता है अन्यथा नहीं।
 
- २४–उदय और के चयन में, संक्रमण में, वक्र और सरल गति के समय [जलनाड़ी](http://॑ " जलनाडी  का विवरण आगे सप्तनाडी चक्र में देखना चाहिये।") में गए हुए सब ग्रह वृष्टि का रक होते हैं।
+ २४–उदय और के चयन में, संक्रमण में, वक्र और सरल गति के समय [जलनाड़ी](" जलनाडी  का विवरण आगे सप्तनाडी चक्र में देखना चाहिये।") में गए हुए सब ग्रह वृष्टि का रक होते हैं।
 
  २५–आर्द्रादि नक्षत्रों पर सूर्य के जाने से प्रायः वृष्टि होती है, तथा इसी प्रकार ग्रहों के उदय, अस्त, संगम और मण्डलान्तर में जाने के समय प्रायः वर्षा होती है।
 
  २६–शुक्र और शनि का एक राशि पर अस्त होना अत्यन्त दुःख दाता है। वक्र गति के समाप्त होने पर क्रूर ग्रह शुभ होजाता है। बृहस्पति वक्रगति की दशा में भी शुभ ही होता है।
-
-
 
  २७–अतिचार (तेज चाल) में प्राप्त हुए क्रूर ग्रह अल्प वर्षा करते हैं, किन्तु शुभ ग्रहों के अतिचार में प्राप्त होने से वर्षा होती है।
 
@@ -8745,8 +8051,6 @@ A Hindoo savant in London.**
 
 **चित्राराधाऽनुराधासु पूर्वाषाढधनिष्ठयोः।  
 पुनर्वसु मघा पुष्येष्ववग्रहकरः शनिः॥३७॥**
-
-
 
 **मूलश्रुत्योर्मध्यवृष्टिः सुवृष्टिर्मृगचित्रयोः।  
 मन्दवृष्टिः प्रोष्ठपदे हस्ते पुष्ये च वारुणे॥३८॥**
@@ -8784,8 +8088,6 @@ A Hindoo savant in London.**
 **मीने तु सवदेशोऽपि मेषस्थे यमुनातटः।  
 वृषे च मिथुने गोदावरीतीरः प्रपीड्यते॥४९॥**
 
-
-
 **कर्के वङ्गश्च सिंहे तु कान्यकुब्जः प्रपीड्यते।  
 कन्यायां म्लेच्छदेशोऽपि तुलायामुत्तरापथः॥५०॥**
 
@@ -8815,8 +8117,6 @@ A Hindoo savant in London.**
 
  ३५–हस्त, स्वाती, भरणी, आर्द्रा, श्रवण, पूर्व फल्गुनी इन नक्षत्रों में चलता हुआ शनि शीघ्र वर्षा करता है।
 
-
-
  ३६–अश्लेषा, शतभिषा, ज्येष्ठा इन नक्षत्रों पर चलता हुआ शनि अल्पवृष्टि करता है। मूल, रेवती और उत्तरभाद्रपद इनमें चलता हुआ घोर अवृष्टि करता है।
 
  ३७–चित्रा, विशाखा, अनुराधा, पूर्वाषाढ़, धनिष्ठा, पुनर्वसु, मघा और पुष्य इनमें जाने से शनि वृष्टि को रोकता है।
@@ -8831,8 +8131,7 @@ A Hindoo savant in London.**
 
  ४२–धनिष्ठा नक्षत्र में शनि यदि केवल मंगल से ही युक्त होजाय, तब भी वर्षा नहीं होती है और धान्य की हानि होती है।
 
-
-४३–[पूर्वाषाढ़](http://॑ " किसी-किसी ग्रन्थ में पूर्वफाल्गुनी नहीं लिया है केवल पूर्वाषाढ़ हो लिया है।") नक्षत्र या पूर्वफाल्गुनी पर शनि हो और पुनर्वसु नक्षत्र पर सूर्य होतो जल का नाश होता है और प्रजा को दुःख होता है।
+४३–[पूर्वाषाढ़](" किसी-किसी ग्रन्थ में पूर्वफाल्गुनी नहीं लिया है केवल पूर्वाषाढ़ हो लिया है।") नक्षत्र या पूर्वफाल्गुनी पर शनि हो और पुनर्वसु नक्षत्र पर सूर्य होतो जल का नाश होता है और प्रजा को दुःख होता है।
 
  ४४–धनु, मीन, कन्या, मिथुन और वृषराशि में स्थित शनि दुष्ट कहलाता है। इसी तरह तुला और वृश्चिक में भी स्थित शनि अतिदुष्ट होता है।
 
@@ -8841,8 +8140,6 @@ A Hindoo savant in London.**
  किन २ राशियों पर आया हुआ शनि, कौन-कौन से देशों को हानिकारक है यह आगे बताते हैं।
 
  ४६–शनि के मिथुन राशि पर आने से मरुस्थल में, कर्क पर आने से काश्मीर प्रान्त में,
-
-
 
 सिंह राशि पर आने से इन्द्रप्रस्थ (दिल्ली) में, कन्या राशि पर आने से मालवा देश में पीड़ा होती है।
 
@@ -8856,8 +8153,7 @@ A Hindoo savant in London.**
 
  ५१–वृश्चिक पर तथा धनु पर शनि आने से पूर्व देश को वा कान्यकुब्ज देश को पीड़ा होती है। यह सब मत रुद्रयामल नामक ग्रन्थ का है।
 
-
-५२–[पूर्व](http://॑ "पूर्व द्वार परिभाषा नक्षत्र ये हैं- कृत्तिका, रोहिणी, मृगशिर, आर्द्रा, पुनर्वसु, पुष्य और अश्लेषा ।") द्वार नक्षत्रों में वक्री होकर शनि वर्षा नहीं करता है। इसी तरह मीन और कन्या में वक्री होकर शनि दुर्भिक्ष करता है।
+५२–[पूर्व]("पूर्व द्वार परिभाषा नक्षत्र ये हैं- कृत्तिका, रोहिणी, मृगशिर, आर्द्रा, पुनर्वसु, पुष्य और अश्लेषा ।") द्वार नक्षत्रों में वक्री होकर शनि वर्षा नहीं करता है। इसी तरह मीन और कन्या में वक्री होकर शनि दुर्भिक्ष करता है।
 
  ५३–तुल और मीन राशि में अस्त होने पर शनि की वर्षा करता है। मिथुन, कर्क, सिंह, कन्या, मकर और वृश्चिक में अस्त हुआ शनि अवृष्टि करता है।
 
@@ -8868,8 +8164,6 @@ A Hindoo savant in London.**
  ५६–मिथुन और मेष राशि पर उदय हुआ शनि वर्षा करता है और कर्क तथा तुला राशि पर उदय होने से अनावृष्टि करता है।
 
 **इतिशन्यधिकरणम्।**
-
-
 
 **बृहस्पतिः।**
 
@@ -8905,8 +8199,6 @@ A Hindoo savant in London.**
 
 **भाद्रे सुभिक्षं दुर्भिक्षमतिवृष्टिः क्वचित् क्वचित्।  
 आश्विने तु सुवृष्टिः स्यात् सर्वसस्यसमृद्धयः॥६७॥**
-
-
 
 **मूले मघायां रोहिण्यां रेवत्यां चोदिते गुरौ।  
 एष्वेव च शनौ प्राप्ते दुर्भिक्षं जायते ध्रुवम्॥६८॥**
@@ -8944,8 +8236,6 @@ A Hindoo savant in London.**
 **मासद्वयं शाक्रमूले मासत्रयमषाढयोः।  
 स्वातीचित्रे खण्डवृष्ट्यै गुरुयोगात् पराः शुभाः॥७९॥**
 
-
-
 **एकादश्यां प्रयास्यन् स्यात् सिंहं कन्यां तुलामभि।  
 बृहस्पतिस्तदा नूनं प्रवर्षति महाजलम्॥८०॥**
 
@@ -8970,8 +8260,6 @@ A Hindoo savant in London.**
 
  ६२–६३–कृतिका नक्षत्र से गणना करते हुए सब (२७) नक्षत्रों का दो दो का चक्र (थोक) कर लेना चाहिये। इस विभाग में पाँचवें ग्यारहवें और बारहवें नक्षत्र का तीन तीन का थोक करना चाहिये। इस प्रकार २७ नक्षत्र १२ चक्र में बँट जाते हैं। जिस भाग में जिस नक्षत्र से उपलक्षित बृहस्पति का उदय हो वहीं से उस वक्त में आये नक्षत्र से उपलक्षित मास से शुरू करके गुरू की गति के अनुसार उन-उन नामों के बारह वर्ष कायम करले ने चाहिये जैसे कृत्तिका में कार्त्तिक, पुष्य में पौष इत्यादि। नक्षत्रों का विभाग निम्नलिखित क्रम से समझना चाहिये।
 
-
-
  ![](../books_images/U-IMG-1729160935r3.png)
 
  ६४–इस उपर्युक्त चक्र के क्रम से गुरू का उदय कार्त्तिक के नक्षत्रों में हो तो कार्त्तिक नामके वर्ष में अग्नि के द्वारा नष्ट होकर मनुष्य भूखे मरें,मार्ग शीर्ष में उदय होने से उस नाम के वर्ष में अत्यल्प वर्षा और, पौष या माघ में गुरू के उदय होने से उन-उन वर्षो में सामान्यतः सुभिक्ष और सुवृष्टि होती है।
@@ -8987,8 +8275,6 @@ A Hindoo savant in London.**
  ६९–मकर, कुंभ और मेष राशि पर उदय हुआ बृहस्पति सुदृष्टि कारक होता है। कर्क, मीन और धनुष पर उदय हुआ अल्पवृष्टि तथा तुला पर उदय हुआ गुरू अनावृष्टि करता है।
 
  ७०–७२–बृहस्पति का उदय यदि माघ फाल्गुन में हो तो खण्डवर्षा, पौष में हो तो अच्छी वर्षां मार्गशीर्ष में हो तो अल्पवृष्टि, श्रावण में हो तो बहुवृष्टि, आश्विन में हो तो साधारण वर्षा ज्येष्ठ और कार्तिक में हो तो अवृष्टि, चैत्र में हो तो विचित्र वर्षा, वैशाख में होतो सुभिक्ष, तथा आषाढ़ और भाद्रपद में होती हानि होती है। यह गुरु के उदय का फल समझना चाहिये।
-
-
 
  ७३–मीन और कन्या राशि पर अस्त हुआ गुरू सुभिक्ष करता है और वृष राशि पर अस्त हुआ दुर्भिक्ष करता है। बृहस्पति जहाँ जब वक्री होता है तहाँ तब वह सुभिक्षकारक होता है।
 
@@ -9007,8 +8293,6 @@ A Hindoo savant in London.**
  ८३–बृहस्पति दिन में धन राशि पर प्रविष्ट होने से और रात्रि में मीन राशि पर प्रविष्ट होने से अधिक फल देता है। सिंह राशि के दशवें अंश पर और मेष राशि के बीसवें अंश पर दिन में प्रविष्ट होने से इसका फल नष्ट हो जाता है।
 
 **इति बृहस्पत्यधिकरणम्।**
-
-
 
 **मङ्गलः**
 
@@ -9045,20 +8329,17 @@ A Hindoo savant in London.**
 **रोहिणीश्रवणाज्येष्ठामूलस्थश्चोत्तरास्थितः।  
 मघार्द्राभरणीस्वातीस्थितो भौमो न वर्षति॥९४॥**
 
-
-
 **मङ्गलः कर्कराशिस्थः सुवर्षति शुभेक्षितः।  
 शुभैरयुक्तः सिंहे तु कन्यायां च न वर्षति ॥९५॥**
 
 **मेषे दिवा वृश्चिके तु राशावधिकरोत्ययम्।  
 जले प्रभवति प्रायः कर्के मीने च वृश्चिके ॥९६॥**
 
-
  ८४–बड़े मण्डलवाला, स्वच्छ, किंशुक ( केसूला के पुष्य ) और अशोक पुष्प ( आसापाला के फूल ) की सी शोभा वाला, तपाये हुए ताम्र की आभावाला तथा उत्तर के मार्ग में आश्रित मङ्गल का तारा शुभ होता है।
 
  ८५–कुटिल (टेढ़ा), कठोर, श्यामवर्ण का जलता हुआ सा धुआँ तथा शिखावाला विवर्ण और वाम मार्ग पर आश्रित मंगल अमंगल करता है।
 
- ८६–शिखावाला एवं धुआंसा दिखाई देने वाला मंगल पारियात्र पर्वत के प्रान्त देशों को और अपनी ['भक्ति](http://॑ "मंगल की भक्ति के देशों के नाम आगे ")' में आए हुए देशों को नष्ट करता है।
+ ८६–शिखावाला एवं धुआंसा दिखाई देने वाला मंगल पारियात्र पर्वत के प्रान्त देशों को और अपनी ['भक्ति]("मंगल की भक्ति के देशों के नाम आगे ")' में आए हुए देशों को नष्ट करता है।
 
  ८७–मघा, विशाखा और रोहिणी नक्षत्र को भेदन करता हुआ मंगल शुभ नहीं होता है। रोहिणी के दक्षिण चलता हुआ मंगल वर्षा को रोकता है।
 
@@ -9071,8 +8352,6 @@ A Hindoo savant in London.**
  ९१–अश्विनी, रोहिणी, पुनर्वसु, मघा, विशाखा, मूल, श्रवण और पूर्वाभाद्रपद इन नक्षत्रों में मंगल का उदय होना शुभ है।
 
  ९२–अधिक मास में मंगल अथवा बृहस्पति एक राशि से दूसरी राशि पर प्रवेश करे तो महावृष्टि या लोक का नाश होता है।
-
-
 
  ९३–पूर्व फल्गुनी, पूर्वाषाढ़, पूर्व भाद्रपद, अश्विनी, हस्त, चित्रा स्वाती, अनुराधा और वारुण नक्षत्र में मंगल अच्छी वर्षा करता है।
 
@@ -9107,8 +8386,6 @@ A Hindoo savant in London.**
 **वृष्टिसस्यार्घकृच्छुक्रः शुभः सौम्यासु वीथिसु।  
 वृष्टिः सस्यार्धनाशाय याम्ये पथि सवीथिषु॥१०३॥**
 
-
-
 **उद्यन्नस्तमयन् शुक्रः शुभायोत्तरवीथिषु।  
 मध्यासु मध्यफलदो दक्षिणासु त्वनिष्टकृत्॥१०४॥**
 
@@ -9124,7 +8401,7 @@ A Hindoo savant in London.**
 **श्रावणेऽस्तंगतो दुःखं शुभं भाद्रे तथाश्विने।  
 अस्तगः कार्तिके ज्यैष्ठे महावृष्टिं करोति सः॥१०८॥**
 
-**[............................................................](http://॑ "क्रोडपत्रेष्वपि नोपलभ्यतेऽर्धमिदम्।")  
+**[............................................................]("क्रोडपत्रेष्वपि नोपलभ्यतेऽर्धमिदम्।")  
 षण्मासानिव दुर्भिक्षं फाल्गुनेऽस्तं गते भृगौ॥१०९॥**
 
 **कार्तिकेऽस्तं गतः शुक्रो यद्युदेति च कार्तिके।  
@@ -9144,8 +8421,6 @@ A Hindoo savant in London.**
 
 **मेघद्वारद्वये मेघा वर्षन्ति प्रचुरं पयः।  
 वायुद्वारे न वर्षन्ति मेघा दिव्युन्नतिं गताः॥११५॥**
-
-
 
 **धर्मद्वारे सुवृष्टिः स्याद्रेतोद्वारेऽभ्रसंक्षयः।  
 हेमद्वारे सुवृष्टिश्च सुभिक्षं च प्रजायते॥११६॥**
@@ -9183,8 +8458,6 @@ A Hindoo savant in London.**
 **ज्येष्ठमूलास्थिते पूर्वदृष्टेऽनावृष्टिरिष्यते।  
 हस्तानुराधयोः केचिदनावृष्टिं प्रचक्षते॥१२७॥**
 
-
-
 **नित्यं वातश्च वृष्टिश्च शुक्रे मिथुनकर्कयोः।  
 शुक्रे कर्के सरः शुष्येत् सिंहे शुध्येत् पयोधरः॥१२८॥**
 
@@ -9209,8 +8482,6 @@ A Hindoo savant in London.**
 
  १०६–वृष, कर्क, वृश्चिक और मीनराशि पर शुक्र के उदय होने से अधिक वर्षा होती है। तुला में अल्पवृष्टि और धन तथा कुंभ में उदय होने से अवृष्टि होती है।
 
-
-
  १०७–यह शुक्र आषाढ़ के महीने में उदय अस्त हुआ जल को सुखा डालता है, वर्षा नहीं होने देता है। किन्तु फाल्गुन या ज्येष्ठ में उदय हुआ शुक्र सुवृष्टि करता है।
 
  १०८–श्रावण में अस्त हुआ शुक्र दुःखप्रद होता है, भाद्र और आश्विन में अस्त हुआ शुभ होता है और कार्तिक तथा ज्येष्ठ में अस्त हुआ महावृष्टि करता है।
@@ -9233,8 +8504,6 @@ A Hindoo savant in London.**
 
  ११७–११८–भरणी से आठ नक्षत्र (अश्लेषा तक) मेघद्वार कहलाता है। इसमें शुक्र के उदय होने से वर्षा होती है। मघा से पाँच नक्षत्र (चित्रा तक) धूलिद्वार कहलाता है, इसमें जल का नाश होता है। स्वाती से सात नक्षत्र (उत्तराषाढ तक) राजद्वार कहलाता है, इसमें शुक्र का उदय अशुभ फल देता है और श्रवण से सात नक्षत्र (अश्विनी तक) कनकद्वार कहलाता है, इसमें शुक्र का उदय होना शुभ है। चक्र यह है :—
 
-
-
 **द्वार परिज्ञापक चक्र।**
 
 |              |                 |              |              |
@@ -9249,8 +8518,6 @@ A Hindoo savant in London.**
 |   ७ पुष्य    |                | ७ उत्तराषाढ  |  ७ अश्विनी   |
 |  ८ अश्लेषा   |                |             |             |
 
-
-
  ११९–भरणी आदि नक्षत्रों पर चलनेवाला शुक्र सुवृष्टि करता है। इन आठों में भी भाद्र, पुनर्वसु, पुष्य और अश्लेषा में विशेष फल समझना चाहिये।
 
  १२०–भाद्रपद में भरणी, दोनों फल्गुनी, चित्रा, स्वाती, विशाखा, तथा मघा और कृत्तिका ये प्रत्येक नक्षत्र शुक्र के साथ योग होने से वर्षा करते हैं।
@@ -9260,8 +8527,6 @@ A Hindoo savant in London.**
  १२२–अवर्षक (वर्षा न करने वाले) नक्षत्र में विचरता हुवा शुक्र यदि वर्षा करदे तो वर्ष (वर्षा करने वाले) नक्षत्र पर आया हुआ चन्द्रमा वर्षा नहीं करता है। जल नक्षत्र यह हैंः- हस्त, चित्रा, स्वाती, मूल, पू० षा; श्रवण, पूर्वाभा, रेवती, भरणी, तीनों उत्तरा और रोहिणी।
 
  १२३–वर्षाऋतु में पूर्वदिशा के अन्दर शुक्र यदि दिखाई दे तो नित्य थोड़ी-थोड़ी वर्षा होती है और यदि पश्चिम में दिखाई दे तो खूब जल बरसता है।
-
-
 
  १२४–स्वातीत्रय (स्वाति, विशाखा, अनुराधा) में पूर्व में उदय हुआ शुक्र और पितृ पंचक (मघा, पूर्व फल्गुनी, उत्तरफल्गुनी, हस्त, चित्रा) में पश्चिम में उदय हुआ शुक्र अनावृष्टि करता है। यदि उक्त नक्षत्रों में विपरीत (वक्री) होतो वर्षा करता है।
 
@@ -9292,8 +8557,6 @@ A Hindoo savant in London.**
 जलाग्निवायुमयकृत् सस्यार्धक्षयवृद्धिकृत्॥ १३३॥**
 
 **चन्द्रक्षेत्रे यदा चन्द्रबुधशुक्रोदयो भवेत्।**
-
-
 
 **षण्मासानिव दुर्भिक्षमतिवृष्टिश्च जायते॥१३४॥**
 
@@ -9330,8 +8593,6 @@ A Hindoo savant in London.**
 **अशुभं केचिदिच्छन्ति पूर्वाणामपि भेदने।  
 हस्तादिषु चरन् षट्सु सुभिक्षक्षेमकृद् बुधः॥१४५॥**
 
-
-
 **श्लेषास्वातीकृत्तिकासु मृगशीर्षे बुधे क्रमात्।  
 महावृष्टिर्मध्यवृष्टिरन्पवृष्टिश्च वायवः॥१४६॥**
 
@@ -9355,8 +8616,6 @@ A Hindoo savant in London.**
  १३७–शुक्र के अस्त रहने पर श्रावण में यदि बुध का उदय होगा तो भाद्रपद के महीने में वर्षा नहीं होगी।
 
  १३८–उदय वा अस्त होता हुआ बुध यदि शुक्र के आगे रहे तो वह शीघ्र वर्षा पैदा करता है। यदि वह जलनाड़ियों में गया हुआ होगा तो अधिक वर्षा करेगा।
-
-
 
  १३९–पौष, माघ, वैशाख, आषाढ़ और श्रावण में बुध के दिखाई देने से अनावृष्टि और दुर्भिक्ष होता है। यदि वह उक्त मासों में न दीखे तो शुभ है।
 
@@ -9385,8 +8644,6 @@ A Hindoo savant in London.**
 
 **कुजाद्यैर्निहते शृंगे मण्डले वा यथाक्रमम्।  
 आयार्घवृष्टिनृपतिप्रजानां नाशकृच्छशी॥१४९॥**
-
-
 
 **कृत्तिकारोहणी सौम्या मघाचित्राभ्य उत्तरे।  
 विशाखादिभषट्काच्च चरन्निन्दुः शुभावहः॥१५०॥**
@@ -9419,8 +8676,6 @@ A Hindoo savant in London.**
 **पूर्वाषाढात्तु चत्वारि पञ्च तूत्तरभाद्रतः।  
 आर्द्रातः पञ्च ऋक्षाणि चन्द्रभानि चतुर्द्दश॥१५४॥**
 
-
-
 **पूर्वभाद्रं शतभिषड् मृगशीर्षं च रोहिणी।  
 पूफादीनि नचर्क्षाणि सूर्यमानि त्रयोदश॥ १५५॥**
 
@@ -9447,8 +8702,6 @@ A Hindoo savant in London.**
  १५७–चन्द्रनक्षत्र में यदि सूर्य चन्द्रमा दोनों हों तो अल्पवृष्टि होती है, किन्तु यदि सूर्य नक्षत्र पर सूर्य चन्द्रमा दोनों हों तो वृष्टि नहीं होती।
 
  १५८–सूर्यनक्षत्र पर सूर्य के आने पर वायु तो चलती है, किन्तु वायु के दोष से वर्षा नहीं होती। चन्द्र के चन्द्र नक्षत्र पर रहने से छाया रहता है अर्थात् केवल बादल आच्छादित रहते हैं, किन्तु ऊष्मा की कमी के कारण वर्षा नहीं होती।
-
-
 
  १५९–चन्द्र नक्षत्र पर चन्द्रमा के होने पर वायु चलती और सूर्य नक्षत्र पर सूर्य के होने पर वर्षा नहीं होती। किन्तु चन्द्रमा और सूर्य के समायोग में सदा वर्षा होती है।
 
@@ -9477,8 +8730,6 @@ A Hindoo savant in London.**
 
  १६३–किसी का मत है कि पुरुष नक्षत्र का योग होने पर ताप, नपुंसक में नपुंसक का
 
-
-
 योग होने से महोष्णता (तेज गर्मी), स्त्री ही स्त्री का योग होने से महावायु और पुरुष स्त्री नक्षत्रके योग से वर्षा होती है।
 
  १६४–अन्य मत है कि नपुंसक नक्षत्र में वायु, स्त्री नक्षत्र में केवल बादलों के दर्शन और स्त्री नक्षत्रों के पुरुष नक्षत्र के योग से निश्चय वृष्टि होती है।
@@ -9506,8 +8757,6 @@ A Hindoo savant in London.**
  १६८–रात्रि में, अर्धरात्रि में वा जललग्न में अथवा अन्य वृष्टि योग में सूर्य के नक्षत्र–प्रवेश होने पर वृष्टि होती है।
 
 **इति नक्षत्रसंक्रमाधिकरणम्।**
-
-
 
 **अब्दविंशोपकाः कर्कसंक्रमेऽर्कादिवारतः।  
 दिशो नखा गजाः सूर्या धृत्योऽष्टादशसायकाः॥१६९॥**
@@ -9545,8 +8794,6 @@ A Hindoo savant in London.**
 **अमावस्या सुभिक्षाय रविसंक्रान्तिवासरात्।  
 एकादशे पञ्चविंशे चतुर्थेऽष्टादशेऽहनि॥१८०॥**
 
-
-
 **पूर्वसंक्रमनचत्रात् परसंक्रमभे शुभम्।  
 द्वितीये वा तृतीये वा न शुभं तुर्य्यपञ्चमे॥१८१॥**
 
@@ -9568,8 +8815,6 @@ A Hindoo savant in London.**
  अनुमान ५ तोले (२ औंस) की १ पल, ५० पल की एक आढक ४ आढक का १ द्रोण होता है। यह द्रोण इस समय के २॥ इंच के अनुमान का है।
 
  यदि १ द्रोण जल बरसे तौ उस वर्ष का पानी साधारण भूमि में अनुमान ४ हाथ (९६ अंगुल या ६ फीट) तक नीचे पहुँचता है।
-
-
 
  १७५–कर्क राशि में प्रविष्ट होते सूर्य को यदि बृहस्पति पूर्ण दृष्टि अथवा एक पाद कम (पौन) दृष्टि से देखता हो तो अच्छी वर्षा होती है।
 
@@ -9599,8 +8844,6 @@ A Hindoo savant in London.**
 
 **सूर्येण युतिरस्ताख्या चन्द्रेण तु समागमः।  
 युतिस्ताराग्रहाणां तु युद्धं चापि समागमः॥१८५॥**
-
-
 
 **युद्धं चतुर्विधं तत्र लक्ष्यते प्रेक्ष्यमाणयोः।  
 भेदोल्लेखावंशुमर्द्दापसव्याविति भेदतः॥१८६॥**
@@ -9638,8 +8881,6 @@ A Hindoo savant in London.**
 **शनिना तु जिते योधाः पीड्यन्ते नाविकास्तथा।  
 जीवे शुक्रहते साल्वा वत्सा वङ्गाश्च कैकयाः॥१९७॥**
 
-
-
 **मद्रा कुलूता गान्धाराः पीड्यन्ते सस्यधेनवः।  
 जीवे भौमजिते मध्यदेशो गौः पीड्यते नृपः॥१९८॥**
 
@@ -9668,8 +8909,6 @@ A Hindoo savant in London.**
 
  १८५–किसी ग्रह का सूर्य से युति होना अस्त कहलाता है, चन्द्रमा से युति होना समागम कहलाता है और तारा ग्रहों की आपस में युति होना युद्ध वा समागम दोनों नामों से कहलाते हैं।
 
-
-
  १८६–देखने पर ग्रहों का यह युद्ध चार तरह से दिखाई देता है। भेद, उल्लेख, अंशुमर्द्द और अपसव्य।
 
  १८७–एक ग्रह के बिम्ब का दूसरे ग्रह के द्वारा ग्रास हो जावै सो भेद, बिम्ब के स्पर्श करने पर उल्लेख, अत्यन्त अल्प विम्ब के छिपने को अंशुमर्द्द और एक अंश पर आने को अपसव्य कहते हैं।
@@ -9689,8 +8928,6 @@ A Hindoo savant in London.**
  १९४–बृहस्पति के द्वारा मंगल के हत होने पर बाह्रीक देशों को पीढ़ा पहुँचती है और बुध के द्वारा हत होने से साल्व, कलिङ्ग और शूरसेन देशों की हानि होती है।
 
  १९५–शुक्र के द्वारा मंगल के हत होने पर क्षत्रिय और म्लेच्छों की हानि होती है और शनि के द्वारा हत होने से तमाम प्रजा की हानि होती है। इसी प्रकार मंगल के द्वारा बुध के पराजित होजाने पर उत्तर में स्थित नदी तट के वृक्षों का नाश होजाता है।
-
-
 
  १९६–गुरु के द्वारा बुध के हत होने पर शूद्र, म्लेच्छ, पर्वतीय लोग और त्रैगर्त देश की हानि होती है और शुक्र के द्वारा हत होने से धान्य और मेघ का नाश होता है, तथा अग्नि का भय रहता है।
 
@@ -9714,8 +8951,6 @@ A Hindoo savant in London.**
 
 **चक्रांशेऽप्युदयांशे वा तिष्ठतोः सहयोगिता।  
 ऋक्षं समं समो राशिरिति वा सहयोगिता॥२०६॥**
-
-
 
 **सप्तभौमज्ञश्रुक्राणां, नवांशाः शनिजीवयोः।  
 इन्दोर्द्वादशचक्रांशा मानोः पंचदश स्मृताः॥२०७॥**
@@ -9748,8 +8983,6 @@ A Hindoo savant in London.**
 
  २०८–शनि के पन्द्रह १५ अंश, गुरु के ११ अंश, मङ्गल के १७ अंश और चन्द्रमा के १२ अंश माने गये हैं।
 
-
-
  २०९–२१०–शुक्र के कालांश९ होते हैं, वक्री होने पर इसके ८ अंश रहते हैं। इसी तरह इस शुक्र के उदयांश ९ होते हैं और वक्री होने पर ८ रह जाते हैं। बुध के १३ अंश होते हैं और वक्री होने पर इसके १२ रहते हैं।
 
  २११–चन्द्रमा की दैनिक भक्ति को नक्षत्र कहते हैं तेरह अंश बीस कला यह इसका मान कहा गया है।
@@ -9780,8 +9013,6 @@ A Hindoo savant in London.**
 
 **अदृष्टवतो क्रूरैर्जीवशुक्रौ सहस्थितौ।  
 बुधदृष्टौ विशेषेण कुरुतो वृष्टिमुत्तमाम्॥२२०॥**
-
-
 
 **शुक्रचन्द्रौ मौमचन्द्रावेकराशिगतौ यदि।  
 उद्बन्धना दिशः सर्वा जलयोगस्तदा महान्॥२२१॥**
@@ -9819,8 +9050,6 @@ A Hindoo savant in London.**
 **शुक्रादग्रे यदांगारो वृष्टिर्नास्त्युत्तरापथे।  
 विद्युत्कोपो रजोवृष्टिरग्निदाहश्च जायते॥२३२॥**
 
-
-
 **शुक्राद् गुरौ वृथा मेघाः पूर्वस्यां करकाऽथवा।  
 शुक्रादग्रे शनौ रोगैः पीड्यते दक्षिणापथः॥२३३॥**
 
@@ -9856,8 +9085,6 @@ A Hindoo savant in London.**
 
 **शनिराहुगुरुष्वेकराशिगेषु शिलोदकम्।  
 सर्वे ग्रहा एकराशौ दुर्भिक्षा वृष्टिरोगदाः॥२४४॥**
-
-
 
 **शुक्रोऽङ्गारः शनिर्जीवः सहस्था अवरोधकाः।  
 शुक्रो राहुः शनिर्जीवः सहस्था वृष्टिहेतवः॥२४५॥**
@@ -9895,8 +9122,6 @@ A Hindoo savant in London.**
 **अग्रतः पृष्ठतो वापि ग्रहाः सूर्यावलम्बिनः।  
 तदा तदा प्रकुर्वन्ति सुवृष्टिमनुलोमगाः॥२५६॥**
 
-
-
 **वृष्टिदाः पृष्ठतः क्रूरा वृष्टिदा अग्रतः शुभाः।  
 वैपरीत्यमनावृष्ट्यै जायतेऽनेकसंचरे॥२५७॥**
 
@@ -9922,8 +9147,6 @@ A Hindoo savant in London.**
  २२४–सौम्य ग्रहों से अदृष्ट और अयुक्त शनि और मङ्गल यदि एक स्थान में स्थित हों तो वायु का प्रकोप और अग्नि का भय होता है।
 
  २२५–एक राशि वा एक ही नक्षत्र पर राहु और मङ्गल आजावैं तो ये दोनों वर्षा का नाश करते हैं। गुरु और शुक्र यदि एकत्र स्थित हों तो असमय में वर्षा होगी।
-
-
 
  २२६–सूर्य के आगे शुक्र वा बुध जावै तो वर्षा काल में निरन्तर वर्षा होती रहती है।
 
@@ -9951,8 +9174,6 @@ A Hindoo savant in London.**
 
  २३८–आगे बुध हो, मध्य में सूर्य हो और पीछे के भाग में शुक्र होतो वर्षा की रोक होती
 
-
-
 है। किन्तु यदि आगे शुक्र हो, मध्य में सूर्य हो और पृष्ठ भाग में बृहस्पति होतो खूब बर्षा होती है।
 
  २३९–आगे सूर्य, मध्य में बुध और पृष्ठ में मंगल होतो सुभिक्ष होता है। इसी तरह आगे शुक्र, मध्य में शनि और पृष्ठ में बुध हो तोभी सुभिच होता है।
@@ -9976,8 +9197,6 @@ A Hindoo savant in London.**
  २४८–मंगल, बृहस्पति, शुक्र और शनि ये ग्रह साथ-साथ बैठे हों तो मेघ वर्षा नहीं करते और दुर्भिक्ष होता है।
 
  २४९–सूर्य, बृहस्पति, शुक्र, शनि और राहु इन ग्रहों के एकत्र स्थित होने से मेघ वर्षा नहीं करते हैं और सब धान्यों की महगाई रहती है।
-
-
 
  २५०–चार वा पाँच ग्रहों के एक स्थान में आ जाने से संपूर्ण पृथ्वी जल अथवा रुधिर से आप्लावित होजाती है।
 
@@ -10010,8 +9229,6 @@ A Hindoo savant in London.**
 **दुर्भिक्षायाप्यनावृष्ट्यै वृषेऽर्को मङ्गलः शनिः।  
 शुक्रक्षेत्रे सुवृष्ट्यै स्याद्विषयो मङ्गलः शनिः॥२६१॥**
 
-
-
 **शनिराहू तु मिथुनस्थानौ दुर्भिक्षकारकौ।  
 मीने चापेऽतिदुर्भिक्षं शनिमङ्गलराहुभिः॥२६२॥**
 
@@ -10039,8 +9256,6 @@ A Hindoo savant in London.**
 
 **मिथुने मङ्गलो जीवस्तुले यदि शनैश्चरः।  
 राहुर्धनुषि मेघाः स्युस्तदानीं प्रबलाधिकाः॥२६५॥**
-
-
 
 **कर्के बृहस्पतिः सिंहे शुक्रः स्यान्मङ्गलस्तुले।  
 शनिर्मीने तृणं सस्यं वृष्टिश्चापि न जायते॥२६६॥**
@@ -10075,8 +9290,6 @@ A Hindoo savant in London.**
 **गुरुः शतभिषायां स्याच्चित्रायां यदि मङ्गलः।  
 श्रवणे वा श्रविष्ठायां गुरुशुक्राववस्थितौ॥२७२॥**
 
-
-
 **गोधूमास्तत्र नश्यन्ति सर्वसस्यमहार्घता।  
 मघाधनिष्ठयोर्जीवे मृग्यां राहौ महार्घता॥२७३॥**
 
@@ -10105,8 +9318,6 @@ A Hindoo savant in London.**
 
 **समसप्तमयोः सूर्यभौमयोः शनिभौमयोः।  
 गुरुभार्गवयोर्योगा अनावृष्टिकरा मताः॥२७७॥**
-
-
 
 **“भौमार्की एकराशौ चेदन्योन्यसमसप्तमौ।  
 गुरुशुक्रौ कुजार्कौ वा विदुरावर्षणं तदा॥”२७८॥**
@@ -10137,8 +9348,6 @@ A Hindoo savant in London.**
  २८१–क्रूर ग्रहों का सौम्य ग्रहों के साथ समसप्तक का योग होने से अनावृष्टि होती है और लोक को पीड़ा पहुँचती है।
 
 **इति समसप्तकाधिकरणम्।**
-
-
 
 **चक्रवेधयोगः।**
 
@@ -10174,8 +9383,6 @@ A Hindoo savant in London.**
 **कृत्तिकादिभचक्रे द्वे द्वे एकं द्वे इति क्रमात्।  
 सिन्धुस्तटं गिरिः संधिश्चतुर्धैव पुनः पुनः॥२८७॥**
 
-
-
 **शनिचन्द्रौ गिरिस्थौ चेत् सूर्यो वा मङ्गलोऽथवा।  
 तदा प्रवर्द्धते वृष्टिः सुभिक्षं सस्यसंपदः॥२८८॥**
 
@@ -10209,8 +9416,6 @@ A Hindoo savant in London.**
 
  २९०–समुद्रनक्षत्र होने से अतिवृष्टि, तटका नक्षत्र होने से सुवृष्टि सन्धि का नक्षत्र होने से वर्षा और पर्वत का नक्षत्र होने से अवर्षा होती है।
 
-
-
 **समुद्रचक्र (२)**
 
  २९१–मेष संक्राति से राशि चक्र लिखकर उन में क्रमानुसार २८ नक्षत्र लिखने चाहिये।
@@ -10221,14 +9426,9 @@ A Hindoo savant in London.**
 
 **यह चक्र इस प्रकार बनेगा–**
 
-
 **समुद्रचक्रम्–(द्वितीयम् )**
 
 **![](../books_images/U-IMG-1729268662q0.png)**
-
-
-
-
 
  २९४–रोहिणी यदि सन्धि स्थान में होतो खण्डवृष्टि, पर्वत पर हो तो बिन्दु मात्र वर्षा तट पर होने से सुबर्षा और समुद्र पर होने से महावृष्टि होती है।
 
@@ -10262,8 +9462,6 @@ A Hindoo savant in London.**
 **गुरुर्भानुर्भृगुश्चन्द्रो गुरुर्भौमो यमः शशी।  
 गुरुर्भौमो गुरुश्चन्द्रो योगाःस्युर्वायुवाहकाः॥३००॥**
 
-
-
 **भानुर्भौमो गुरुश्चन्द्रो भानू राहुर्बुधः शशी।  
 भानुर्यमो बुधश्चन्द्रो योगाः स्युर्वह्निवर्धनाः॥३०१॥**
 
@@ -10294,8 +9492,6 @@ A Hindoo savant in London.**
 
 **नक्षत्राणां ततोऽन्येषां बेधास्तत्क्रमयोगतः।  
 संप्रातानाडीचक्रं स्यात् तत्र योगात् फलं वदेत्॥३०५॥**
-
-
 
 **कृत्तिकापातजो नाडीवेधः प्राचामयं मते।  
 अर्वाचामश्विनीपातनाडीवेधो विधीयते॥३०६॥**
@@ -10335,8 +9531,6 @@ A Hindoo savant in London.**
 
 **इति पातनाडीयोगः।**
 
-
-
  ३०४–३०५–कृत्तिका और भरणी का, दोनों फल्गुनी और आषाढों का, कृतिका और रेवती का तथा पूर्व फल्गुनी एवं पूर्वाषाढ और भरणी एवं उत्तरफल्गुनी इन नक्षत्रों के वेध से एवं अन्य नक्षत्र के बेध से भी इस क्रम के अनुसार संपातनाडीचक्र बनता है। इस चक्र के योग से भी दृष्टि के निमित्त देखे जाते हैं। यह चक्र कृत्तिकानक्षत्र से प्रारम्भ किया जाता है।
 
  ३०६–प्राचीन ऋषियों के मतानुसार यह कृत्तिकापातज नाडीबेध कहा गया है। अर्वाचीन ऋषियों के मत में अश्विनीपति नाडीबेध माना जाता है।
@@ -10356,8 +9550,6 @@ A Hindoo savant in London.**
  ३१४–शनि, मंगल और बृहस्पति यदि आर्द्रा वा मृगशिर नक्षत्र पर आजावै तो कंभ और मीनलग्न में बिजली के सहित वर्षा होती है।
 
  ३१५–केतु और मंगल के साथ होने पर चन्द्रमा अग्नि का भय करता है गुरु और भृगु के साथ होकर चन्द्रमा जल करता है, तथा सूर्य और शनि के साथ होकर चन्द्रमापात का भय करता है।
-
-
 
  ३१६–जो चन्द्रमा से बाई ओर पाँचवे, तीसरे, बाहरवें सातवें नवें छठे और पहिले स्थान में स्थित है वह भी युक्त ही माना गया है।
 
@@ -10393,8 +9585,6 @@ A Hindoo savant in London.**
 
 **पुंग्रहा, गुरुभौमार्काः स्त्रीग्रहौ शशिभार्गवौ।  
 नपुंसकौ शनिबुधावौष्ण्यशैत्यादिकल्पनात्॥३२६॥**
-
-
 
 **वायुः पुंसां मिथोयोगे क्लीवयोर्धूमिकोद्भवः।  
 वृष्टिः स्त्रीपुंसयोर्योगे छाया स्यात् संगमे स्त्रियोः॥३२७॥**
@@ -10435,8 +9625,6 @@ A Hindoo savant in London.**
 **चन्द्रशुक्रौ युतौ दृष्टौ क्रूरैर्नाड्यां स्थितौ यदि।  
 जलायां तत्र वृष्टिः स्यादल्पैव क्रूरयोगतः॥३३९॥**
 
-
-
 **जलनाडीसमारूढा बुधः शुक्रो बृहस्पतिः।  
 तत्र चन्द्रसमायोगे जायते वृष्टिरुत्तभा॥३४०॥**
 
@@ -10454,10 +9642,7 @@ A Hindoo savant in London.**
 
 ![](../books_images/U-IMG-1729259599q1.png)  
 
-
 नोटः— किसी ग्रंथ का मत है क़ि समीरा नाडी का स्वामी सूर्य है और सौम्य नाडी का स्वामी गुरु है।
-
-
 
  ३२२–अब प्रत्येक नाड़ी का फल कहते हैं–चण्डनाड़ी में दो-तीन से अधिक स्थित हुए ग्रह प्रचण्ड हवा चलाते हैं। समीर (वायु) नाड़ी में स्थित होने पर वायु और दहननाड़ी पर स्थित होने से ऊष्मा पैदा करते हैं।
 
@@ -10479,8 +9664,6 @@ A Hindoo savant in London.**
 
  ३३१–चन्द्रमा जिस ग्रह की नाड़ी में स्थित हो, उस ग्रह से यदि वह युक्त होजावे तथा क्षीण न दिखाई देता हो तो वह अवश्य वर्षा करता है। अर्थात् पूर्वकला (शुक्ल पक्ष की ६ से कृष्ण पक्ष की १० तक) का चन्द्रमा जिस नाड़ी में हो और उस नाड़ी का स्वामी चन्द्रमा के साथ बैठा हो वा उसे देखता हो तो वह अवश्य वर्षा करता है।
 
-
-
  ३३२ से ३३४–चन्द्रमा सौम्य एवं क्रूर ग्रहों के साथ यदि अमृतनाड़ी में हो तो एक, तीन वा सात दिन में दो, चार वा पाँच बार वर्षा करता है। यदि ऐसा ही चन्द्रमा जल नाड़ी में हो तो आधे दिन, पूरे दिन वा पाँच दिन तक भी वर्षा करता है। इसी प्रकार यदि चन्द्रमा क्रूर और सौम्य ग्रहों हो और जल नाड़ी में स्थित हो तो इस योग से आधा दिन, १ प्रहर वा ३ दिन तक वर्षा से युक्त होती है।
 
  ३३५–अमृतादि (अमृत, जल, नीर) तीन नाड़ियों में यदि सब ग्रह आजावें तो कम से १८, १२, और ६ दिन तक वर्षा समझनी चाहिये। अर्थात् अमृत नाड़ी में हो तो १८ दिन, जल में हो तो १२ और नीर में हो तो ६ दिन वर्षा हो।
@@ -10500,8 +9683,6 @@ A Hindoo savant in London.**
  ३४२–अयन (गमन) काल में, संक्रम (मेल) काल में वक्रगतिकाल में, मार्गगतिकाल में (सीधी गति) अस्त वा उदय काल में इन सभी दशाओं में जलनाड़ी में प्राप्त हुए सब ग्रह महावृष्टि करने वाले होते हैं।
 
 **इति सप्तनाड़ीचक्रम्।**
-
-
 
 **ग्रहभक्तिदेशाः।**
 
@@ -10538,8 +9719,6 @@ A Hindoo savant in London.**
 **मङ्गलस्य तु नासिक्यदण्डकाश्मककेरलाः।  
 कुन्तलाः कौङ्कणा आन्ध्राः कान्तिरुत्तरपाण्ड्यकाः॥३५३॥**
 
-
-
 **पश्चार्द्धो द्रविडानां च नर्मदाशोणयोरपि।  
 भीमरथ्याश्च निर्विन्ध्या शिप्रा वेत्रवती नदी॥३५४॥**
 
@@ -10573,8 +9752,6 @@ A Hindoo savant in London.**
 **शुभः शुभोदयः स्थाने शुभे युक्तेचितः शुभैः।  
 यो ग्रहस्तस्य देशेषु सर्वानन्दः शुभः शुभः॥३६४॥**
 
-
-
  ३४३–प्रकृति से ही अनूप, जांगल और मिश्र ये तीन तरह के देश होते हैं। इनमें अधिक अलवाला अनूप और अल्पजल वाला जांगल देश कहलाता है।
 
  ३४४–शीत, उष्ण और हवा की समानता वाला अर्थात् जिसमें ये तीनों साधारण रूप में समान हों वह मिश्र देश कहलाता है। यह मिश्र देश जांगल और अनूप देश के धर्मों की अधिकता से दो प्रकार का माना गया हैI
@@ -10595,8 +9772,6 @@ A Hindoo savant in London.**
 
  ३५६–३६२–सिन्धु और लौहित्य, गंगा, गंभीरका, रया, सरयू और कौशिकी के प्रान्त के देश, तथा चित्रकूट, हिमालय और गोमन्तपर्वत, सौराष्ट्रदेश और मथुरा का पूर्व भाग ये सब *बुध की भक्ति* में आये हुए देश हैं।
 
-
-
  सिन्धु का पूर्वाद्ध, मथुरा का पश्चिमार्द्धभाग तथा विराट् और शतद्रुनदी, मत्स्यदेश (जयपुरप्रान्त) का आधा भाग, उदोच्यदेश, अर्जुनायन, सारस्वत, वाटधान, रमट, अम्बष्ठ, पारत स्त्रुघ्न, सौवीर भरत, साल्व, त्रैगर्त पौरव, और योधेय ये देश *बृहस्पति की भक्ति* में आये हुए समझने चाहिये।
 
  वितस्ता, इरावती और चन्द्रभागा नदी, तथा तक्षशिलागान्धार, पुष्कलावत, मालवा, उशीनर, शिवि, प्रस्थल, मार्तिकावत, दशार्ण और कैकय देश ये *शुक्रभक्ति* के देश हैं।
@@ -10608,7 +9783,6 @@ A Hindoo savant in London.**
  ३६४–शुभस्थान में जिस ग्रह का शुभ उदय हुआ हो और शुभग्रह ही उसे देख रहे हों तो उस ग्रह की भक्ति के सब देशों में शुभ ही शुभ तथा आनन्द होता है।
 
 **इति ग्रहभक्तिदेशाधिकरणम्।**
-
 
 **उपसंहारः (ग्रन्थशेषः)।**
 
@@ -10626,8 +9800,6 @@ A Hindoo savant in London.**
 
 **दुर्गे वैज्ञानिके मार्गे चरतां स्खलने क्वचित्।  
 त एवोपसन्त्यत्राशक्तैर्जातु न यैर्गतम्॥३६९॥**
-
-
 
 **दुरूहखेटचरितविज्ञानविकटाध्वनि।  
 नाप्राप्तं स्खलनं सोढ्वाऽप्यग्रे श्लाध्या पुनर्गतिः॥३७०॥**
@@ -10656,8 +9828,6 @@ A Hindoo savant in London.**
 
  ३६९–वैज्ञानिक कठिन मार्ग में चलने वालों का कहीं पर स्खलन हो ही जाता है, किन्तु उन्हें देखकर वही हँसते हैं जो अशक्त मनुष्य वहाँ नहीं जा सकते।
 
-
-
  ३७०–दुरूह ग्रह जहाँ विचरण करते हैं ऐसे विज्ञान के विकट मार्ग में स्खलन हो जाना अवश्यंभावी है। किन्तु इस स्खलन को सहकर आगे बढ़ने से फिर श्लाघनीय गति प्राप्त हो जाती है।
 
  ३७१–बारम्बार ठोकरें खाकर के भी जिन पूर्वाचार्यों के द्वारा मार्ग बना दिया गया है, बुद्धिमान् कृतज्ञ मनुष्य को चाहिये कि वह उस रास्ते से जाकर और भी उसे सुधार कर सरल बनावै।
@@ -10668,15 +9838,12 @@ A Hindoo savant in London.**
 
  ३७४–समीक्षाचक्रवर्ती श्रीमान् महार्घ्यं मधुसूदन विद्यावाचस्पति ने इस कादम्बिनी की परीक्षार्थ रचना की है।
 
-
 **समीक्षाचक्रवर्ति विद्वद्वर पं० श्री मधुसूदन शर्मा ओझा जी विद्यावाचस्पति  
 के द्वारा विरचित कादम्बिनी नामक वृष्टिविद्या सम्बन्धी  
 भावार्थबोधक भावानुवाद ग्रन्थ समाप्त हुआ।  
 ॥ इति ॥**
 
 ![](../books_images/U-IMG-1729265490q5.png)
-
-
 
 **![](../books_images/U-IMG-1730451015Screenshot2024-10-09200108.png)शुद्धिपत्रम्![](../books_images/U-IMG-1730451065Screenshot2024-10-09200112.png)**
 
@@ -10711,10 +9878,6 @@ A Hindoo savant in London.**
 | पुष्या जयोः  | पुष्याऽजयोः  | ताद्दिश्य        | तद्दिश्य         |
 | विन्दवः      | बिन्दवः      | ब्रात            | व्रात            |
 
-
-
-
-
 |               |                 |                  |                   |
 |---------------|-----------------|------------------|-------------------|
 | **अशुद्ध**    | **शुद्ध**       | **अशुद्ध**       | **शुद्ध**         |
@@ -10748,10 +9911,6 @@ A Hindoo savant in London.**
 | संकासा        | संकाशा          | ध्रुवकतुः        | ध्रुवकेतुः        |
 | सूर्यविम्बगाः | सूर्यविम्बगा    | चैद्यश्वकैकयौ    | चैद्येशकैकयौ      |
 
-
-
-
-
 |               |              |                   |                    |
 |---------------|--------------|-------------------|--------------------|
 | **अशुद्ध**    | **शुद्ध**    | **अशुद्ध**        | **शुद्ध**          |
@@ -10783,33 +9942,5 @@ A Hindoo savant in London.**
 | रोच्छ         | रोऽच्छ       | अपने             | अयने               |
 |              |             | धर्माणामधिक्यात्  | धर्माणामाधिक्यात् |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

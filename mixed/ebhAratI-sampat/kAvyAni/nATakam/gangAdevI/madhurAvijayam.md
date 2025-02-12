@@ -16,25 +16,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1MDYyMTU1MTE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **P R E F A C E.**  
 (First Edition)  
@@ -108,18 +92,13 @@ SECOND EDITION
 पृथिव्यां पद्यनिर्माण-           सगद्यपद्यनिर्माण-  
 विद्यायाः प्रथमं पदम्॥( I-5 )     विद्यायाः प्रथमं पदम्॥(1-10)**
 
-
-
 [TABLE]
-
 
  It is much to be regretted that it has not been possible to secure a complete manuscript of the work, and consequentlythis edition differs very little from the former except that a few textual corrections, the result of further study and careful revision, have been inserted.
 
  Pandit Mr. V. Srinivasa Sastri who had participated in the pleasure of bringing out the first edition of this small work and who would, with his untiring patience, perhaps have succeeded in procuring a more perfect manuscript is now no more, and in his untimely death Sanskrit research has lost a persevering and conscientious worker. My best thanks are due to Pandit Mr. R. Harihara Sastriar, Head Pandit, Sanskrit Publication Department, Trivandrum, who read the text in proof and gave me a few welcome suggestions.
 
 **G.HARIHARA SASTRI .**
-
-
 
 **INTRODUCTION  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -197,9 +176,9 @@ Prominent among his di ciples stood the great Madhava Mantrin or Madhavamatya wh
 
 [^15]: "Ep Ind., Vol. VI, pp. 322-331."
 
- There is no denying the fact that there was a Muhammadan principality established at Madura which issued coins of its One of these coins bears on its obverse the words “Ahsan Shah 73S” (of Hijra, i,e.,A.D., 1337-8) and the reverse “Al Hussiniyyu” One of the Sultans therefore seems to have been named Ahsan Shah, and since he lived in S' 1359, the person that should have suffered defeat and death at the hands of Kampana must be one of the successors of Absan Shah[^17]It took for Kampana ten years after his conquest of Champaraya to attack and defeat the Sultan of the South. Ever since this signal victory, the whole of the peninsula, south of the Tungabhadra became practically the possession of the Vijayanagara Empire. The barrier in the shape of the Empire of Vijayanagara, which was raised by the hand of Providence to protect the virgin south from that ravishment her sister Northern India had suffered at the merciless and vandalistic hands of the Muhammadans, continued in tact for over two centuries until the fateful year A.D.1565, when the magnificent Empire was sbattered at the battle-field of Talikota by the confederacy of the Sultans of Bijapur, Golconda, etc., and the south became once again a prey to anarchy and disorder. Providence, at this jucture, ushered on the stage the British nation, who have once again restored order and peace over the whole of India.
-
 [^16]: "+ Tufnell's Hints to Coin Collector's, pp. 26-27; also Ep. Ind. Vol. VI, p. 824."
+
+ There is no denying the fact that there was a Muhammadan principality established at Madura which issued coins of its One of these coins bears on its obverse the words “Ahsan Shah 73S” (of Hijra, i,e.,A.D., 1337-8) and the reverse “Al Hussiniyyu” One of the Sultans therefore seems to have been named Ahsan Shah, and since he lived in S' 1359, the person that should have suffered defeat and death at the hands of Kampana must be one of the successors of Absan Shah[^17]It took for Kampana ten years after his conquest of Champaraya to attack and defeat the Sultan of the South. Ever since this signal victory, the whole of the peninsula, south of the Tungabhadra became practically the possession of the Vijayanagara Empire. The barrier in the shape of the Empire of Vijayanagara, which was raised by the hand of Providence to protect the virgin south from that ravishment her sister Northern India had suffered at the merciless and vandalistic hands of the Muhammadans, continued in tact for over two centuries until the fateful year A.D.1565, when the magnificent Empire was sbattered at the battle-field of Talikota by the confederacy of the Sultans of Bijapur, Golconda, etc., and the south became once again a prey to anarchy and disorder. Providence, at this jucture, ushered on the stage the British nation, who have once again restored order and peace over the whole of India.
 
 [^17]: " † Ep. An Rp, for 1903, Nos. 106 & 111."
 
@@ -229,16 +208,12 @@ Prominent among his di ciples stood the great Madhava Mantrin or Madhavamatya wh
 
  From what has been discussed above, it would become evident how very valuable this manuscript happens to be for the intelligent construction of the history of the early period of the Vijayanagara Empire.  
 
-
 **T. A. GOPINATHA RAO,** **M. A.**,  
 Superintendent of Archaeology,  
 Travancore State,  
 
-
 **TRIVANDRUM,  
 21st August 1916,}**
-
-
 
 दासतां **कालिदासस्य** कवयः के न बिभ्रति।  
 इदानीमपि तर्स्याथानुपजीवन्त्यमी यतः॥७॥
@@ -385,7 +360,6 @@ Travancore State,
 मालेव सर्वरत्नानां वेलेय सुकृताम्बुधेः॥५४॥**
 
 **( द्वादशभिः कुलकम्। )**  
-
 
 **यस्यां प्रासादशृङ्गेषु लग्नं मार्ताण्डमण्डलम्।  
 संघत्ते वीक्षमाणानां सौवर्णकलशभ्रमम्॥५५॥**
@@ -553,7 +527,6 @@ Travancore State,
 ताम्राधरोष्ठं समतुङ्गनासं मुग्धस्मिताङ्गं मुखमुद्वहन्तम्॥३०॥**
 
 **(षङ्भिः कुलकम्।)**  
-
 
 **अव्याजसौन्दर्यगुणाभिरामं कुमारमालोकयतश्चिराय।  
 नृपस्य निष्पन्ददृशो मुहूर्तमानन्दबाष्पोऽभवदन्तरायः॥३१॥**
@@ -750,9 +723,6 @@ Travancore State,
 **तृतीयः सर्गः।**  
 **—————**
 
-
-
-
 **अथ चतुर्थः सर्गः।  
 —————**
 
@@ -841,7 +811,6 @@ Travancore State,
 वारयन्निव रथ्यानां रवेःखेचरतामदम्॥२८॥**
 
 **(नवभिः कुलकम्।)**  
-
 
 **देहब (न्ध?द्ध) मिवोत्साहं तमारुह्य महीपतिः।  
 अमंस्त पृथिवीं सर्वामात्मनो हस्तवर्तिनीम्॥२९॥**
@@ -987,7 +956,6 @@ Travancore State,
 **............................................................।**  
 **अलब्धनिर्गमं दुर्गमासीदेवमुपद्रुतम्॥७६॥**  
 
-
 **(युग्मकम्1)**
 
 **निर्जगाम निजागाराच्चम्पक्ष्मापोऽपि कोपनः।  
@@ -1017,8 +985,6 @@ Travancore State,
 
 **चतुर्थः सर्गः।**  
 **———**
-
-
 
 **अथ पञ्चमः सर्गः।**  
 **———**
@@ -1254,8 +1220,6 @@ Travancore State,
 
 **इति \[श्रीगङ्गादेव्या विरचिते मधुराविजयनाम्नि वीर \] कम्पराय चरिते**  
 ————————
-
-
 
 **पञ्चमः सर्गः।**  
 **—————  
@@ -1522,8 +1486,6 @@ Travancore State,
 **सप्तमः सर्गः।\]**  
 **————**
 
-
-
 **अथाष्टमः सर्गः।  
 —————**
 
@@ -1643,8 +1605,6 @@ Travancore State,
 **\[इति श्रीगङ्गादेव्या विरचिते मधुराविजय नाम्नि वीरकम्परायचरिते**
 
 ———————————
-
-
 
 **अष्टमः सर्गः।\]**  
 **———————**
@@ -1785,8 +1745,6 @@ Travancore State,
 **शिवं भूयात्।**  
 ————————
 
-
-
 **EXTRACTS FROM SELECT OPINIONS.**
 
 **——————**
@@ -1802,13 +1760,11 @@ The book thus throws a flood of light upon the history of that time in the Decca
 
 VIDHUSEKHARA BHATTACHARYA,  
 
-
 ————:0:————
 
  **The United India & Native States** (11th June-1917):—“This charming poem published from Travancore gives the go by to the old charge that Sanskrit has not produced Women poets. The discovery of the work is important not only as a reminder of female achievement in Sanskrit literature, but as a source of fresh first hand light on the early history of the Vijayanagara Empire.”
 
 ———————  
-
 
  **The Hindu Madras** (1st May 1917):—“A most valuable and pleasing work of a Hindu poetess whose talents have been surpassed but by few of our poets.”
 
@@ -1822,38 +1778,5 @@ VIDHUSEKHARA BHATTACHARYA,
 
 ————————
 
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

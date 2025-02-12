@@ -15,21 +15,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0NTgyNDE1Mjg
 
 \[
 
-
-
 [TABLE]
 
-
-
-
-
  N.B.:— Only the **Samskrit Chaya** is printed in the body of the text. The Prakrit passages are given at the end.
-
-
-
-
-
-
 
 Text and Translation together         
 
@@ -37,20 +25,12 @@ Samskrit Text only
 
 English Translation                 
 
-
-
 All Rights Reserved
 
 1949
 
-
-
-
-
 Printed at  
 SRI RAGHUVEER PRINTING PRESS, MYSORE.
-
-
 
 **INTRODUCTION**
 
@@ -60,11 +40,7 @@ SRI RAGHUVEER PRINTING PRESS, MYSORE.
 
 [^1]: "धन्वन्तरिक्षपणकामरसिंहशङ्कुवेतालभट्टघटकर्पर कालिदासाः। ख्यातो वराहमिहिरो नृपतेः सभायां रत्नानि वै वररुचिर्नव विक्रमस्य॥"
 
-
-
 if indeed, he does not overtop it' Dr. Kern places him in the latter half of the 6th cent. A. D. poesy.
-
-
 
 **His Life—**
 
@@ -74,25 +50,17 @@ There is a legend according to which Kalidasa was a boor by birth but was someho
 
  There cannot be any doubt that Kalidasa had extensive education and that he had mastered rhetoric, dramatic theory, and the science of grammar the chief of all sciences. Besides the knowledge of law and astronomy, he seems to have had proficiency in the profound and subtle systems of philosophy. If his Kumarasambhavam is Shivaistic, his Raghuvamsam is Vishnuite. If the hymn to Vishnu in the latter work is expressing Vedantic monism, the hymn to Brahma in the former expresses the dualism of the Samkhyaş. The Buddhistic and Yoga doctrines are also mentioned here and there. Therefore
 
-
-
 we may observe that, in matters of religion and philosophy, Kalidasa was of an unbaised mind.
 
 ** His works:—**More than forty works are generally attributed to Kalidasa, but critics acknowledge only seven or eight of them as his. Those works are-
 
 [TABLE]
 
-
-
-
-
 **His Poetry— '**
 
 No other poet in any land had sung of happy love between man and woman as Kalidasa sang. Everyone of his works is a love poem, however much more it may be. Yet the theme is so infinitely varied that the reader never wearies. It is of love eventually happy, though often struggling for a time against external obstacles, that Kalidasa writes. There is nowhere in his works a trace of that not quite healthy feeling that sometimes assumes the name modern love”. If it were not so, his poetry could hardly have survived; for, happy love, blessed with children, is surely the more. fundamental thing
 
  "It is perhaps an inevitable consequence of Kalidasa's subject that his women appeal more strongly to a modern reader than his man. The man is the more variable phenomenon, and though manly virtues are the same in all the countries and centuries, the emphasis has been varioulsy laid. But the true woman seems timelessly universal. I know of no poet, unless it be Shakespeare, who has given the world a group of heroines so individual, yet so universal; heroines as true, as tender, as brave as are Indumati, Sita, Parvati, the Yaksha's bride, and Shakuntala.
-
-
 
  ‛Kalidasa could not understand women without understanding children. It would be difficult to find anywhere lovelier pictures of childhood than those in which our poet presents the little Bharatha, Ayus. Raghu, Kumara. It is a fact worth noticing that Kalidasa's children are all boys. Beautiful as his women are, he never does more than glance at a little girl.
 
@@ -101,8 +69,6 @@ No other poet in any land had sung of happy love between man and woman as Kalida
  There is a wonderful balance in Kalidasa's character by virtue of which he found himself equally at home in a palace and in a wilderness. I know not with whom to compare him in this; even Shakespeare, for all his magical insight into natural beauty, is primarily a poet of the human heart. That can hardly be paid of Kalidasa, nor can it be said that he is primarily a poet of natural beauty. The two characters unite in him, it might almost be said, chemically........... Poetical fluency is not rare; intellectual grasp is not very uncommon; but the combination has not been found perhaps more than a dozen times since the world began. Because he possessed this harmonious combination, Kalidasa ranks not with Anacreon and Horce and Shelley, but with Sophocles, Vergil, Milton.'
 
  The Indian poet Jayadeva has called Kalidasa The grace of Poetry' It is this grace in his composition that induced the celebrated critic Schlegel assign for him a very high place amongst the galaxy of the 'Sons of Song'.
-
-
 
  Kalidasa is undoubtedly "the brightest star in the firmament of Indian Poetry". The richness of his creative fancy and his skill in expressing tender sentiment and sympathy with nature gives him a very high place among the world's dramatic poets."
 
@@ -113,8 +79,6 @@ Like blossom-clusters, honey sweet?"
 
 — Bana's Harshacharita,
 
-
-
 **Synopsis of the play:**
 
 ACT I,—After the usual prologue, two maids of the palace, Bakulavalıka and Kumudika by name, are introduced. The former is sent by the chief queen Dharini to enquire about the progress of her ward Malavika in the art of dancing. Kumudika the other maid, carrying to the queen, a ring bearing the seal of a snake, is met by Bakula. The brief conversation between them reveals that the king has seen a new painting of queen Dharini and her attendants of whom one (Malavika) is so very beautiful that the King is smitten with love for her, and that the jealous queen is sedulously keeping her away from the King's sight. At this point Ganadasa, the dancing master of Malavika, appears and informs Bakula, that Malavika is a wonderfully proficient pupil. He is told that Malavika was sent as a present to Dharini by her brother Virasena.—*(Misra Vishkambhaka)*
@@ -122,8 +86,6 @@ ACT I,—After the usual prologue, two maids of the palace, Bakulavalıka and Ku
  King Agnimitra then enters with his ministers and listens to a letter from Yajnasena, king of Vidarbha, who had imprisoned prince Madhavasena and his sister Malavika (cousins of of the king). The letter was in reply to Agnimitra's demand for their release, In it, Yajnasena had stated that the princess had escaped and that he would set free Madhavasena on condition that his own brother-in-law, a prisonor of Agnimitra was released. This letter angers the king and he orders an expedition against him.
 
  Next enters the Vidushaka, the Kama-sachiva of the king. He has devised a plan for getting Malavika into the
-
-
 
 presence of the king, by bringing about an envious quarrel between the two dancing-masters of the court, Ganadasa and Haradatta. When the Vidushaka is just acquainting the king of his achievement the two teachers appear there and appeal to the king. After some consultation, it is agreed that each shall exhibit his teaching art through the performance of a pupil before the king, the queen and the learned Parivrajika. The queen jealously opposes this at first but reluctantly consents in the end.
 
@@ -133,13 +95,9 @@ presence of the king, by bringing about an envious quarrel between the two danci
 
  The love-lorn king enters with the Vidushaka and both proceed to the pleasure garden where the king bad agreed to meet his junior queen Iravati, to swing with her. Malavika also enters, to offer the dohada, deputed for the purpose by the queen with the promise of a reward that would satisfy her in case the tree blossomed within five days. The king (with the Vidushaka) hides in a thicket and feasts his eyes on Malavika. Soon Bakulavalika arrives and decorates Malavika's feet Presently the junior queen Iravati in a state of mild intoxication enters
 
-
-
 with her maid Nipunika and they spy on the young girls. 'Thus there are three groups on the stage; the two girls believe themselves to be alone; the king and the clown are aware of the two girls, as are also the queen and her maid; but neither of these two pairs knows of the presence of the other. This situation gives rise to very entertaining dialogue, which changes its character when the king starts forward to express his love for Malavika. Another sudden change is brought about when Iravati, mad with jealously, joins the group, sends the two girls away, and berates the king. He excuses himself as earnestly as a man may when caught in such a predicament, but cannot appease the young queen, who leaves him with words of bitter jealousy'.
 
  ACT IV:— The Vidushaka brings news to the king that the senior queen, induced by the junior one has locked Malavika and Bakulavalıka in a cellar, with instruction to its guard that they shall not be set free untill her own snake-sealed ring is presented. The Vidushaka however, has devised an ingenious plan to secure their release. he sends the king to wait on the queen who is nursing her injured leg. A few minutes later, the Vidu-baka rushes into their presence yelling and pretending that he has been bitten by a serpent on his thumb while plucking flowers for the queen.The Vidushaka's words imploring the king to take pity on his old mother after his death, awaken the genuine sympathy of the queen. He is soon removed for treatment by the Royal Physician Dhruvasiddhi. A snake- sealed ring is required for the udakumbha treatment, it is reported, and the unsuspecting queen parts with her own signet ring. The ring is used for the release of Malavikaand her friend. A little later, a meeting of Malavika andthe king in the ocean-house is brought about. The Vidushaka keeps watch outside, but fails asleep. He is then noticed by Nipunika who bears the news to Iravati. Inferring from this that the king must be in the ocean- house, the two go there and are surprised to find the king with Malavika. The love-scene is interrupted and the king is in a fix. But to save him from this awkward situation, as it were, news is brought that his little daughter has been frightened by an yellow ape. The king
-
-
 
 and Iravati hurry off leaving Malavika to be consoled by the information that the Asoka tree has put forth blossoms, as omen of the final fulfilment of her own desires.
 
@@ -149,25 +107,17 @@ and Iravati hurry off leaving Malavika to be consoled by the information that th
 
  The king then instructs his ministers to divide Vidarbha between Yajnasena and Madhavasena.At this very time a letter comes announcing that his son by Dharini, Vasumitra, has won a victory over the Yavanas and brought back the sacrificial horse of Pushpamifra, the king's father; and inviting Agnimitra to be present with family at the sacrifice following the victory. The queen
 
-
-
 is overjoyed at the news of her son's success and offers rich presents to all. To the king she presents Malavika. Even the jealous Iravati becomes a party to this, though some what ungraciously and the king has another wife.
 
 ** The Authorship—**
 
 "The play is usually considered as one of the three composed by Kalidasa, who is said in the prelude to be the author. There is no reason to question the nomenclature of the author in the prelude, and the play is probably the work of Kalidasa Tradition alone identifies him with the poet of Vikramaditya's reign, who preceded the Christian era. and the internal evidence is adverse to the drama being the work of the author of Sakuntala and Vikramorvasi. There is neither the same melody in the verse nor fancy in the thoughts ....the manners described appear to be those of a degenerate state of Hindu society, and it can scarcely be thought earlier than the tenth or eleventh century Such were the observations made by Prof. Wilson in his Select Specimens of the Theatre of the Hindus (1826-27). Prof. Weber subscribed to this view at first (1852) in bis History of Sanskrit Literature, but later (1856) refuted "Wilson's theory in the Introduction to his own German Translation of the play. The learned editor of the play in the Bombay Sanskrit Series, Mr. S. P. Pandit, thoroughly examined this question of Authorship in the preface and established with conclusive proofs that the author of the Malavikagni- mitra was identical with the author of the Sakuntala and Vikramorvasiya. Since then there has been no difference of opinion among scholars on this subject.
 
-
-
 **General—**
 
 "The Malavikagnimitra is often taken to be one of Kalidasa's youthful productions, but there is no adequate reason for thinking that it is his first dramatic work The modesty shown in the prologue repeats itself in those of his other two dramas and the immaturity which critics have seen in it is more a question of personal opinion than a real fact; for it resolves itself into a difference of form and theme, rather than any real defici- ency of power. The Malavikagnimitra is not a love- drama of the type of the Svapnavasavadatta, to which it has a superficial resemblance, but which possesses a far
 
-
-
 more serious interest. It is a light-hearted comedy of court-life in five acts, in which love is a pretty game, and in which the hero need not be of heroic proportion, nor the heroine anything but a charming and attractive maiden. The pity of the situation, no doubt arises from the fact that the game of sentimental philandering is often played at the expense of others who are not in it, but that is only an inevitable incident of the game. The motif of the progress of a courtly love-intrigue through hindrances to royal desire for a lowly maiden and its denouement in the ultimate discovery of her status as a princess was perhaps not as a banal in Kalidasa's time as we are wont to think; but the real question is how the theme is handled. Neither Agnimitra nor Malavika may appear impressive, but they are approximate to the atmosphere. The former is a care-free and courteous gentleman, on whom the burden of kingly responsibility sits but lightly, who is no longer young but no less ardent, who is an ideal Dakshina Nayaka possessing a great capacity for falling in or out of love; while the latter is a faintly drawn ingenue with nothing but good looks and willingness to be loved by the incorrigible king-lover. The Vidushaka is a more lively character, who takes a greater part in the development of the plot in this play than in the other dramas of Kalidasa. The interest of the theme is enhanced by the complications of the passionate impetuosity and jealousy of the young, discarded queen Iravati which is finely shown off against the pathetic dignity and magnanimity of the elderly chief queen Dharini. Perhaps the tone and tenor of the play did not permit a more serious development of this aspect of the plot, but it should not be regarded as a deficiency. The characterisation is sharp and clear, and the expression polished, elegant and even dainty. The wit and elaborate compliments, the toying and trifling with the tender pas- sion, the sentimentalities and absence of deep feeling are in perfect keeping with the outlook of the gay circle, which is not used to any profounder view of life. One need not wonder, therefore, that while war is in progress in the kingdom, the royal household is astir with the amorous escapades of the somewhat elderly, but youthfully inclined, king. Gallantry is undoubtedly the key-note of
-
-
 
 the play; and its joys and sorrows should not be reckoned at a higher level. Judged by its own standards, there is nothing immature, clumsy or turgid in the drama. If malidasa did not actually originate the type, he must have so stamped it, with the impress of his genius that it was, as the dramas of Harsha and Rajasekhara show, adopted as one of the appealing modes of dramatic expression and became banalised in course of time. "— S.K.De
 
@@ -180,8 +130,6 @@ I. SENTENCES.
 (The figures refer to the pages and lines of this Edition)
 
 [TABLE]
-
-
 
 |                                                          |
 |----------------------------------------------------------|
@@ -213,11 +161,7 @@ I. SENTENCES.
 | प्रयोगप्रधानं हि नाट्यशास्त्रम्|                         |
 | प्रायः समानविद्याः परस्परयशःपुरोभागाः|                   |
 
-
-
 [TABLE]
-
-
 
 अप्याकरसमुत्पन्ना मणिजातिरसंस्कृता।  
 जातरूपेण कल्याणि न हि संयोगमर्हति॥
@@ -254,8 +198,6 @@ I. SENTENCES.
 शिष्टा क्रिया कस्यचिदात्मसंस्था संक्रान्तिरन्यस्य विशेषयुक्ता।  
 यस्योभयं साधु स शिक्षकाणां धुरि प्रतिष्ठापयितव्य एव॥
 
-
-
 **GREATNESS OF KALIDASA.**
 
 निर्गतासु न वा कस्य कालिदासस्य सूक्तिषु।  
@@ -291,8 +233,6 @@ I. SENTENCES.
  Kalidasa, the celebrated author of the Sakuntala is a masterly describer of the influence which nature ever exercises upon the minds of lovers ; ........tenderness in the expres sion of feeling and richness of creative fancy has assigned to him his lofty place among the poets of all nations. —
 
 Von Humboldt.
-
-
 
 **पात्राणि—DRAMTIS PERSONAE**
 
@@ -336,8 +276,6 @@ Von Humboldt.
 
 पुष्पमित्रः—Father of Agnimitra ; वसुमित्र :—Son of Agnimitra: माधवसेनः**—** King of Malava, brother of Malayıka; यज्ञसेनः—King of Vidarbha, half brother of Madhavasena; वीरसेन—: Brother-in-law of Agnimitra ; ध्रुवसिद्धिः—A Doctor; वाहतकः— Prime Minister of Agnimitra ; वसुलक्ष्मीः —Dharini's daughter; माधविक—The keeper of precious articles in the Palace.
 
-
-
 ॥ श्रीः ॥
 
 **मालविकाग्निमित्रम्**  
@@ -374,9 +312,6 @@ Von Humboldt.
 
 प्रस्तावना  
 
-
-
-
 (ततः प्रविशति बकुलावलिका)
 
 **बकुलावलिका**— आज्ञप्तास्मि देव्या धारिण्या।अचिरप्रवृत्तोपदेशं छलिकं नाम नाट्यमन्तरेण कीदृशी मालविकेति नाट्याचार्यमार्यगणदासं प्रष्टुम्। तत्तावत्सङ्गीतशालां गच्छामि। (इतिपरिक्रामति)
@@ -403,8 +338,6 @@ Von Humboldt.
 
 द्वितीया—
 
-
-
 ततस्ततः?
 
 **प्रथमा—**उपचारानन्तरमेकासनोपविष्टेन भर्त्रा चित्रगताया देव्याः परिजनमध्यगतामासन्नदारिकां दृष्ट्वादेवी पृष्टा।
@@ -417,23 +350,15 @@ Von Humboldt.
 
 **प्रथमा—**ततोऽवधीरितवचनो भर्ता देवीं पुनरनुबन्धुं शङ्कितः। ततः कुमार्या वसुलक्ष्म्याख्यातम्।'आर्य, एषा मालविका ' इति।
 
-
-
 **द्वितीया**— (सस्मितम्)
-
-
 
 सदृशं खलु बालभावस्य। अतः परं कथय।
 
 प्रथमा—
 
-
-
 क्रिमन्यत्? साम्प्रतं मालविका सविशेषं भर्तुर्दर्शनपथाद्रक्ष्यते।
 
 द्वितीया—
-
-
 
 सखि, आत्मनो नियोगमनुतिष्ट। अहमप्येतमङ्गुलीयकं देव्यै उपनेष्यामि। (इति निष्क्रान्ता)
 
@@ -477,11 +402,7 @@ Von Humboldt.
 
 वकुलावलिका—
 
-
-
 अस्ति देव्या वर्णावरो भ्राता वीरसेनो नाम भर्त्रा नर्मदातीरेऽन्तपालदुर्गे स्थापितः। तेन शिल्पाधिकारे योग्येयं दारिकेति भणित्वाभगिन्या देव्या उपायनं प्रेषिता।
-
-
 
 **गणदासः—**(स्वगतम्) आकृतिविशेषप्रत्ययादेनामनूनवस्तुकां संभावयामि। (प्रकाशम्) भद्रे, मयापि यशस्विना भवितव्यम्। यतः—
 
@@ -490,15 +411,11 @@ Von Humboldt.
 
 बकुलावलिका—
 
-
-
 अथ किम् \। अथ कुत्र वः शिष्या?
 
 **गणदासः**—इदानीमेव पञ्चाङ्गाभिनवमुपदिश्य मया विश्रम्यतामित्यभिहिता दीर्घिकावलोकनगवाक्षगता प्रवातमासेवमाना तिष्ठति।
 
 बकुलावलिका—
-
-
 
 तेन हि पुनरनुजानातु मामार्यः। यावदस्या आर्यस्य परितोषनिवेदने नोत्साहं वर्धयामि।
 
@@ -517,8 +434,6 @@ Von Humboldt.
 **राजा—**संदेशमिदानीं श्रोतुमिच्छामि।
 
 **अमात्यः—**इदमिदानीमनेन प्रतिलिखितम्—"पूज्येनाहमादिष्टः। पितृव्यपुत्रो भवतः कुमारो माधवसेनः प्रतिश्रुतसम्बन्धो ममोपान्तिकमुपसर्पन्नन्तरा त्वदीयेनान्तपालेनावस्कन्द्य गृहीतः। स त्वया मदपेक्षया सकलत्रसोदर्यो भोक्तव्य इति। एतन्ननु वो विदितम्। यत्तुल्याभिजनेषु राज्ञां वृत्तिः।अतोऽत्र मध्यस्थः पूज्यो भवितुमर्हति। सोदर्या पुनरस्य ग्रहणविप्लवे विनष्टाः। तदन्वेषणाय प्रयतिष्ये। अथवा, अवश्यमेव माधवसेनो मया पूज्येन मोचयितव्यः श्रूयतामभिसन्धिः—
-
-
 
 मौर्यसचिवं विमुञ्चति यदि पूज्यः संयतं मम श्यालम्।  
 मोक्ता माधवसेनस्ततो मया बन्धनात्सद्यः॥७॥
@@ -549,8 +464,6 @@ Von Humboldt.
 
 विदूषकः—
 
-
-
 आज्ञप्तोऽस्मि तत्र भवता राज्ञा—‛गौतम, चिन्तयतावदुपायम्। यथा मे यदृच्छादृष्ट प्रतिकृतिर्मालविका प्रत्यक्षदर्शना भवति' इति। मया च तत्तथा कृतम् तावदस्मै निवेदयामि। (इति परिक्रामति)
 
 **राजा—**(विदूषकं दृष्ट्वा) अयमपरः कार्यान्तरसचिवोऽस्मानुपस्थितः।
@@ -571,8 +484,6 @@ Von Humboldt.
 
 एवमिव।
 
-
-
 **राजा—**साधु वयस्यः निपुणमुपक्रान्तम्। इदानीं दुरधिगमसिद्धावप्यस्मिन्नारम्भे वयमाशंसामहे। कुतः—
 
 अर्थे सप्रतिबन्धं प्रभुरधिगन्तुं सहायवानेव।  
@@ -583,8 +494,6 @@ Von Humboldt.
 **राजा—**(आकर्ण्य) सखे, त्वत्सुनीतिपादपस्य पुष्पमुद्भिन्नम्।
 
 विदूषकः—
-
-
 
 फलमप्यचिरेण द्रक्ष्यसि।
 
@@ -613,8 +522,6 @@ Von Humboldt.
 
 द्वारे नियुक्तपुरुषाभिमतप्रवेशः  
 सिंहासनान्तिकचरेण सहोपसर्पन्।
-
-
 
 तेजो
 
@@ -657,8 +564,6 @@ Von Humboldt.
 
 **धारिणी—** (परिव्राजिकां विलोक्य) **³⁴**भगवति हरदत्तस्य गणदासस्य च संरम्भे कथं पश्यसि?
 
-
-
 **परिव्राजिका—** अलं स्वपक्षावसादशङ्कया। न परिहीयते प्रतिवादिनो गणदासः।
 
 **धारिणी— ³⁵**यद्यप्येवं तथापि राजपरिग्रहोऽस्य प्रधानत्वमुपहरति।
@@ -700,8 +605,6 @@ Von Humboldt.
 **परिव्राजिका —** (सस्मितम्) अलमुपालम्भेन। पत्तने सति ग्रामे रत्नपरीक्षा!
 
 **राजा—**नैतदेवम्। पण्डितकौशिकी खलु भगवती। पक्षपातिना वहं देवी च।
-
-
 
 **आचार्यौ—** सम्यगाह देवः। मध्यस्था भगवती नौ गुणदो
 
@@ -746,8 +649,6 @@ Von Humboldt.
 
 **देवी—**⁴³यदा पुनर्मन्दमेधाः शिष्या उपदेशं मलिनयन्ति तदाचार्यस्य दोषो नु?
 
-
-
 **राजा**– देवि, एवमापठ्यते। विनेतुरद्रव्यपरिग्रहोऽपि बुद्धिलाघवं प्रकाशयतीति।
 
 **देवी**—(स्वगतम्) ⁴⁴कथमिदानीम्? (गणदासं विलोक्य प्रकाशम्) अलमार्यपुत्रस्योत्साहकारणं मनोरथं पूरयित्वा। विरमं निरर्थकादारम्भात्।
@@ -779,8 +680,6 @@ Von Humboldt.
 कोपाः कुटुम्बिन्यः॥१८॥
 
 **विदूषकः —**⁴⁹ननु सकारणमेव। आत्मनः पक्षो रक्षितव्यः। (गणदासं विलोक्य) दिष्ट्या कोपव्याजेन देव्या परित्रातो भवान्। सुशिक्षितोऽपि सर्व उपदेशेन निष्णातो भवति।
-
-
 
 **गणदासः—** देवि, श्रूयताम्। एवं जनो गृह्णाति। तदिदानीम्—
 
@@ -822,10 +721,6 @@ Von Humboldt.
 **उभौ—**नेदमावयोरुपदेश्यम्!                     
 (इति निष्क्रान्तौ)
 
-
-
-
-
 **देवी—**(राजानमवलोक्य) ⁵⁵यदि राजकार्येष्वीदृश्युपायनिपुणतार्यपुत्रस्य‚ ततः शोभनं भवेत्।
 
 राजा—
@@ -860,8 +755,6 @@ Von Humboldt.
 
 इति प्रथमोऽङ्कः  
 ![](../books_images/U-IMG-1724925370Screenshot(69).png)
-
-
 
 **अथ द्वितीयोऽङ्कः **
 
@@ -905,8 +798,6 @@ Von Humboldt.
 
 **राजा—**(आत्मगतम्) अहो सर्वस्थानानवद्यता रूपविशेषस्य। तथाहि —
 
-
-
 दीर्घाक्षं शरदिन्दुकान्ति वदनं वाहू नतावंसयोः  
 संक्षिप्तं निविडोन्नतस्तनमुरः पार्श्वे प्रमृष्ठे इव।  
 मध्यः पाणिमितो नितम्बि जघनं पादावरालाङ्गुली  
@@ -944,8 +835,6 @@ Von Humboldt.
 **विदूषकः—** ⁴भवति, तिष्ठ। वो विस्मृतः कर्मभेदः। तं तावत्प्रक्ष्यामि।
 
 **गणदासः —** वत्से, उपदेशविशुद्धा यातुमर्हसि। ( मालविका निवृत्य स्थिता।)
-
-
 
 **राजा—** (आत्मगतम् ) अहो, सर्वास्ववस्थासु चारुता शोभान्तरं पुष्यति। तथाहि।
 
@@ -988,8 +877,6 @@ Von Humboldt.
 उपदेशं विदुः शुद्धं सन्तस्तमुपदेशिनः।  
 श्यामायते न युष्मासु यः काञ्चनमिवाग्निषु॥९॥
 
-
-
 **देवी** —⁷दि
 
 ष्ट्यापरिक्षताराधनेनार्यो वर्धते!
@@ -1027,8 +914,6 @@ Von Humboldt.
 द्वारपिधानमिव धृतेर्मन्ये तस्यास्तिरस्करणीम्॥ ११॥
 
 **विदूषकः—**(जनान्तिकम्) ¹⁴दरिद्र इवातुरो वैद्येनौषधं दीयमानमिच्छसि। (प्रविश्य) **हरदत्तः—** मदीयमिदानीं प्रयोगमवलोकयितुं क्रियतां प्रसादः।
-
-
 
 **राजा** — (आत्मगतम्) अवसितो दर्शनार्थः। (दाक्षिण्यमवलम्ब्य प्रकाशम्) ननु पर्युत्सुका एव वयम्।
 
@@ -1076,8 +961,6 @@ Von Humboldt.
 
 **विदूषकः— ²⁰**गृहीतः क्षणः। किन्तु मेघावलीनिरुद्धा ज्योत्स्नेव पराधीन-
 
-
-
 दर्शना तत्रभवती। भवानपि सूनापरिसरचर इव विहङ्ग आमिषलोलुपो भीरुकश्च। तदनातुरो भूत्वा कार्यसिद्धिं प्रार्थयमानो मे रोचसे।
 
 **राजा**— कथमनातुरो भविष्यामि ?
@@ -1091,8 +974,6 @@ Von Humboldt.
 
 **इति द्वितीयोऽङ्कः**  
 ![](../books_images/U-IMG-1724926702Screenshot(69).png)
-
-
 
 **अथ तृतीयोऽङ्कः**
 
@@ -1112,8 +993,6 @@ Von Humboldt.
 
 **समाहितिका—**⁶द्वावपि किलागमिनौ प्रयोगनिपुणाौच। किन्तु शिष्यागुणविशेषेण मालविकाया उपदेशः प्रशंसितः।
 
-
-
 **मधुकरिका—**⁷अथ मालविकागतं कौलीनं किमिति श्रुयते?
 
 **समाहितिका—** ⁸दृढं किल तस्यां साभिलाषो भर्ता। किंतु केवलं धारिण्याश्चित्तं रक्षन्प्रभुत्वं दर्शयति। मालविकाप्येषु दिवसेष्ट्वनुभूतमुक्तेव मालतीमाला म्लाना लक्ष्यते। अतः परं न जाने। विसृज माम्।
@@ -1130,13 +1009,9 @@ Von Humboldt.
 
 द्गमस्य तपनीयाशोकस्य दोहदनिमित्तं देव्यै विज्ञापयामि।
 
-
-
 **समाहितिका—**¹²युज्यते। अधिकारः खलु तव।  (इति निष्क्रान्ते)
 
 इति प्रवेशकः
-
-
 
 (ततः प्रविशति कामयमानावस्था राजा विदूषकश्च )
 
@@ -1152,8 +1027,6 @@ Von Humboldt.
 **राजा—**ततः किमुक्तवती ?
 
 **विदूषकः—**¹⁴विज्ञापय। अनुगृहीतास्म्यनेन नियोगेन।किन्तु सा तपस्विनी देव्याधिकं रक्षन्त्यां नागरक्षित इव निधिर्न मुखं समासादयितव्या। तथापि घटयिष्यामि' इति।
-
-
 
 **राजा**— भगवन् संकल्पयोने, प्रतिबन्धवत्सु चापि विषयेष्वभिनिवेशकारी किं तथा प्रहरसि यथा जनोऽयं न कालान्तरक्षमो भवति! (सविस्मयम्)
 
@@ -1189,8 +1062,6 @@ Von Humboldt.
 
 **राजा —**(स्पर्शसुखं रूपयित्वा ) अभिजातः खलु वसन्तः। सखे,पश्य
 
-
-
 आमत्तानां श्रवणसुभगैः कूजितैः कोकिलानाम्  
 सानुक्रोशं मनसिजरुजः सह्यतां पृच्छतेव।  
 अङ्गेचूतप्रसवसुरभिर्दक्षिणो मारुतो मे  
@@ -1212,8 +1083,6 @@ Von Humboldt.
 **मालविका—**²²अविज्ञातहृदयं भर्तारमभिलषन्त्यात्मनोऽपि तावल्लजामि। कुतो विभवः स्निग्धस्य सखीजनस्येमं वृत्तान्तमाख्यातुम्। न जानेऽप्रतिकारगुरुकां वेदनां कियन्तं कालं मदनो मां नेष्यतीति। (इति कतिचित्पदानि गत्वा) आ कुत्र खलु प्रस्थितास्मि! (इति स्मृतिमभिनीय) आदिष्टास्मि देव्या! 'गौतम, चापलाद्दोलापरिभ्रष्टायाः सरुजो मम चरणः। त्वं तावद्गत्वा तपनीयाशोकस्य दोहदं निर्वर्तयेति। यद्यसौ पञ्चरात्राभ्यन्तरे कुसुमं दर्शयति, ततोऽहमभिलाषपूरयितृकं प्रसादं दास्यामि' इति। यावन्नियोगभूमिं प्रथमं गता भवामि, तावदनुपदं मम चरणालङ्कारहस्तया बकुलावलिकया गन्तव्यम्, परिदेवयिष्यामि तावद्विस्रब्धं मुहूर्तकम्। (इति परिक्रामति)
 
 **विदूषकः—**(दृष्ट्वा ) ²³वयस्य, एतत्खलु सीधुपानोद्वेजितस्य मत्स्यखण्डिकोपनता।
-
-
 
 **राजा—** अयि, किमेतत् ?
 
@@ -1260,8 +1129,6 @@ Von Humboldt.
 
 **राजा—**नैतावता भवन्तं प्रसन्नतर्कं मन्ये। कुतः**—**
 
-
-
 वोढा कुरबकरजसां किसलयपुटभेदशीकरानुगतः।  
 अनिमित्तोत्कण्ठामपि जनयति मनसो मलयवातः॥९॥
 
@@ -1276,7 +1143,6 @@ Von Humboldt.
 **मालविका**—**³¹**हृदय, निरवलम्बनादति भूमिलङ्घिनस्ते मनोरथाद्विरम। किं मामायास्य !
 
 (विदूषको राजानमवेक्षते !  
-
 
 **राजा—** प्रिये, पश्य वामत्वं स्नेहस्य।
 
@@ -1298,8 +1164,6 @@ Von Humboldt.
 **बकुलावलिका—** (उपविश्य) सखि, त्वमिदानीं योग्यतया नियुक्ता। तस्मादेकं चरणमुपनय। यावत्सालक्तकं सनूपुरं च करोमि।
 
 **मालविका—**(आत्मगतम्) **³⁷**हृदय, सुखितेयालमुपस्थितोऽयं विभव इति। कथमिदानीमात्मानं मोचयेयम् अथवेदानीमेतदेव मृत्युमण्डनं मे भविष्यति।
-
-
 
 **बकुलावलिका—³⁸**किं विचारयसि? उत्सुका खल्वस्य तपनीयाशोकस्य मुकु
 
@@ -1341,8 +1205,6 @@ Von Humboldt.
 
 **इरावती—⁴⁶**संकीर्तनशंसिनालंस्नेहेन।कथय कुत इदानीमवेगन्तव्यो दोलागृहं प्रथमं गतो भर्ता न वेति!
 
-
-
 **निपुणिका—⁴⁷**भट्टिन्या अखण्डितात्प्रणयात्।
 
 **इरावती—⁴⁸**अलं सेवया। मध्यस्थतां परिगृह्य भण।
@@ -1382,8 +1244,6 @@ Von Humboldt.
 **इरावती—⁶²**सखि, न मे चरणावन्यतः प्रवर्तते। मदो मां विकारयति। आशङ्कितस्य तावदन्तं गमिष्यामि। (इतिमालविकां निर्वर्ण्य, आत्मगतम्) स्थाने खलु कातरं मे हृदयम्।
 
 **बकुलावलिका—**(मालविकायै चरणं दर्शयन्ती ) ^(**63**)अपि रोचते. ते रागरेखाविन्यासः ?
-
-
 
 **मालविका—⁶⁴**सखि, आत्मनश्चरण इति लज्जे एनं प्रशंसितुम्। तेन प्रसाधनकलायाममिविनीतासि।
 
@@ -1426,8 +1286,6 @@ Von Humboldt.
 
 **निपुणिका—⁷⁹**प्रथमं गुणितमिव हताशाया उत्तरम्।
 
-
-
 **बकुलावलिका—**^(**80**) अनुरागोऽनुरागेण प्रत्येष्टव्य इति सुजनवचनं प्रमाणीकुरु।
 
 **मालविका—⁸¹**किमात्मनश्छन्देन मन्त्रयसे ?
@@ -1465,12 +1323,9 @@ Von Humboldt.
 
 (उभे उत्तिष्ठतः )  
 
-
 **बकुलावलिका —⁹²**एष उपारूढराग उपभोगक्षमः पुरतस्ते वर्तते।
 
 **मालविका—**सहर्षम् ) **⁹³**किं भर्ता
-
-
 
 **बकुलावलिका**— (सस्मितम् ) **⁹⁴**न तावद्भर्ता। एषोऽशोकशाखावलम्बीपल्लवगुच्छः। अवतंसयैनम्।
 
@@ -1489,7 +1344,6 @@ Von Humboldt.
 
 आदाय कर्णकिसलयमस्मादियमत्र चरणमर्पयति।  
 उभयोः सदृशविनिमयादात्मानं वञ्चितं मन्ये॥१६॥  
-
 
 **बकुलावलिका—⁹⁶**सखि, नास्ति ते दोषः। निर्गुणोऽयमशोको यदि कुसमोद्गममन्थरो भवेत्, यस्ते चरणसत्कारे लब्ध्वा
 
@@ -1512,13 +1366,9 @@ Von Humboldt.
 
 **इरावती —⁹⁹**एवं प्रथमं मम चिन्तितं हृदयेन।
 
-
-
 **विदूषकः—**( उपेत्य**¹⁰⁰**युक्तं नाम अत्रभवतः प्रियवयस्योऽयमशोकः एनं वामपादेन ताडयितुम् ?
 
 **उभे—**(ससंभ्रमम्) **¹⁰¹**अहो भर्ता!
-
-
 
 **विदूषकः—**¹⁰²बकुलावलिके, गृहीतार्थया त्वयात्रभवतीदृशमविनयं कुर्वती कस्मान्न निवारिता?
 
@@ -1540,7 +1390,6 @@ Von Humboldt.
 चरणस्य न ते वाधा संप्रति वामोरु वामस्य॥१८॥
 
 ( मालविका लज्जां रूपयति )  
-
 
 **इरावती —¹⁰⁷**अहो नवनीतकल्पहृदय आर्यपुत्रः !
 
@@ -1568,9 +1417,6 @@ Von Humboldt.
 **इरावती—¹¹³**बकुलावलिके, त्वया साधूपक्रान्तम्। इदानीं सफलाभ्यर्थनं
 
 कुर्वार्यपुत्रम्।  
-
-
-
 
 **उभे —¹¹⁴**प्रसीदतु भट्टिनी! के आवां भर्तुः प्रणयपरिग्रहस्य?
 
@@ -1606,8 +1452,6 @@ Von Humboldt.
 **इरावती—¹²¹**इयमपि हताशा त्वामेवानुसरति! ( रशनामादाय राजानं ताडयितुमिच्छति)
 
 **राजा—** इयमिरावती
-
-
 
 बा
 
@@ -1647,8 +1491,6 @@ Von Humboldt.
 (इति निष्क्रान्तः सह वयस्येन)
 
 इति तृतीयोऽङ्कः
-
-
 
 **अथ चतुर्थोऽङ्कः**
 
@@ -1696,8 +1538,6 @@ Von Humboldt.
 
 **विदूषकः—⁸**ततः सा देव्या पृष्टा। किंन्ववलोकितो वल्लभजन इति। तयोक्तम्। मन्दो व उपचारः, यत्परिजने संक्रान्तं वल्लभत्वं न ज्ञायते।
 
-
-
 **राजा—** निर्भेदादृतेऽपि मालविकायामयमुपन्यासः शङ्कयति।
 
 **विदूषकः—⁹**ततस्तयानुखिद्यमाना सा भवतोऽविनयमन्तरेण परिगतार्था कृता
@@ -1739,8 +1579,6 @@ Von Humboldt.
 
 **प्रतीहारी—¹⁷**इत इतो देवः।
 
-
-
 (ततः प्रविशति शयनस्था देवी परिव्राजिका विभवतश्च परिवारः)
 
 **देवी—¹⁸** भगवति, रमणीयं कथावस्तु। ततस्ततः?
@@ -1780,8 +1618,6 @@ Von Humboldt.
 एतानि दष्टमात्राणामादूष्याः प्रतिपत्तयः॥४॥
 
 **राजा—**संप्रति विषवैद्यानां कर्म। जयसेने, ध्रुवसिद्धिः क्षिप्रमानीयताम्।
-
-
 
 **प्रतीहारी— ²⁶**यद्देव आज्ञापयति।
 
@@ -1828,8 +1664,6 @@ Von Humboldt.
 **परिव्राजिका**—यथा मे हृदयमाचष्टे तथा निर्विषो गौतमः।
 
 **राजा—**भूयादेवम्।
-
-
 
 (प्रविश्य)**प्रतीहारी**— ^(**38**)जयतु देवो भर्ता। निवृत्तविषवेगो गौतमो मुहूर्तेन प्रकृतिस्थः संवृत्तः।
 
@@ -1882,8 +1716,6 @@ Von Humboldt.
 
 **राजा**— कथ्यताम्।
 
-
-
 **विदूषकः—**⁵⁰मणितं मया। दैवचिन्तकैर्विज्ञापितो राजा। सोपसर्गं वो नक्षत्रम्। तदवश्यं सर्वबन्धमोक्षः क्रियतामिति।
 
 **राजा**—(सहर्षम्) ततस्ततः?
@@ -1921,8 +1753,6 @@ Von Humboldt.
 
 **राजा**—हर्षविषादाभ्यामत्रभवत्याः प्रीतोऽस्मि।
 
-
-
 सूर्योदये भवति या सूर्यास्तममे च पुण्डरीकस्य।  
 वदनेन सुवदनायास्ते समवस्थे क्षणाद्ढे॥७॥
 
@@ -1956,8 +1786,6 @@ Von Humboldt.
 **भ्रूभङ्गमिन्नतिलकं स्फुरिताधरोष्ठं**  
 
 **सासूयमाननमितः परिवर्तयन्त्या।**
-
-
 
 **कान्तापराधकुपितेष्वनया विनेतुः  
 संदर्शितेव ललिताभिनयस्य शिक्षा॥९॥**
@@ -1995,8 +1823,6 @@ Von Humboldt.
 **बकुलावलिका**—^(**76**) सखि, बहुशः किल भर्ता विप्रलब्धः। तत्त्वयात्मा विश्वसनीयः क्रियताम्।
 
 **मालविका**—^(**77**) सखि, मम पुनर्मन्दभाग्यायाः स्वप्नसमागमोऽपि भर्तुर्दुर्लभ आसीत्।
-
-
 
 **बकुलावलिका**—^(**78**)भर्ता कथयत्वस्या उत्तरम्।
 
@@ -2039,8 +1865,6 @@ Von Humboldt.
 **दाक्षिण्यं नाम बिम्बोष्टि नायकानां कुलव्रतम्।  
 तन्मे धीर्घाक्षि ये प्राणास्ते त्वदाशानिबन्धनाः॥१४॥**
 
-
-
 तदनुगृह्यनां चिरानुरक्तोयं जनः (इति संश्लेषमुपजनयति। मालविका नाट्येन परिहरति)
 
 **राजा**—(आत्मगतम्) रमणीयः खलु नवाङ्गनानां मदनविषयावतारः। तथा हि। इयम्—
@@ -2071,8 +1895,6 @@ Von Humboldt.
 (प्रविश्य) **चेटी**—^(**95**)जयतु जयतु भट्टिनी! भट्टिनि, देवी भणति। “न मेमत्सरस्यैष कालः! तेन खलु बहुमानं वर्धयितुं वयस्यया सह निगलबन्धने कृता मालविका। यद्यनुमन्यसे आर्यपुत्रस्य प्रियं कर्तुं तथा करोमि। यत्तवेष्टं तन्मे भण।" इति।
 
 **इरावती**—^(**96**) नागरिके, विज्ञापय देवीम्। "का वयं भट्टिनीं नियोजयितुम् परिजननिग्रहेण दर्शितो मय्यनुग्रहः। कस्य वा प्रसादेनायं जनो वर्धते?" इति।
-
-
 
 **चेटी**—^(**97**)तथा। (इति निष्क्रान्ता)
 
@@ -2110,8 +1932,6 @@ Von Humboldt.
 
 **राजा**— प्रिये, अपूर्वोऽयमुपचारः।
 
-
-
 **इरावती**—¹¹²बकुलावलिके, दिष्ट्या दूत्यामिसारविषया संपूर्णा ते प्रतिज्ञा!
 
 **बकुलावलिका**—¹¹³प्रसीदतु भट्टिनी! किं मया कृतमिति देवः प्रष्टव्यः। दर्दुरा व्याहरन्तीति किं देवः पृथिव्यां वर्षितुं विरमति?
@@ -2141,8 +1961,6 @@ Von Humboldt.
 **विदूषकः—**(आत्मगतम्) ^(**119**)अहो, अनर्थः संपतितः! बन्धनभ्रष्टो गृहकपोतो बिडालिकाया आलोके पतितः।
 
 **निपुणिका—**(प्रविश्यापवार्य)^(**120**) भट्टिनि, यदृच्छादृष्टया माधविकयाख्यातम्। एवं खल्वेतन्निर्वृत्तमिति। (इति कर्णे कथयति)
-
-
 
 इरावती—
 
@@ -2198,8 +2016,6 @@ Von Humboldt.
 
 ![](../books_images/U-IMG-1723640610Screenshot2024-08-14183248.png)
 
-
-
 **अथ पञ्चमोऽङ्कः**
 
 (ततः प्रविशत्युद्यानपालिका)
@@ -2225,8 +2041,6 @@ Von Humboldt.
 (इतिनिष्क्रान्तौ)
 
 इति प्रवेशकः
-
-
 
 (ततः प्रविशति प्रतीहारी)
 
@@ -2260,8 +2074,6 @@ Von Humboldt.
 
 **राजा**—
 
-
-
 कान्तां विचिन्त्य सुलभेतरसंप्रयोगां  
 श्रुत्वा विदर्भपतिमानमितं बलैश्च।  
 धाराभिरातप इवाभिहतं सरोजं  
@@ -2270,8 +2082,6 @@ Von Humboldt.
 **विदूषकः**—^(**12**)
 
 यथाहं पश्यामि। एकान्तसुखितो भवान्भविष्यति।
-
-
 
 **राजा**—
 
@@ -2314,8 +2124,6 @@ Von Humboldt.
 
 सर्वाशोकतरूणां प्रथमं सूचितवसन्तविभवानाम्।  
 निर्वृत्तदोहदेऽस्मिन्संक्रान्तानीव कुसुमानि॥५॥
-
-
 
 **विदूषकः**—^(**19**)
 
@@ -2361,8 +2169,6 @@ Von Humboldt.
 यः सावज्ञो माधवश्रीनियोगे पुष्पैः शंसत्यादरं त्वत्प्रयत्ने॥**
 
 **विदूषकः**—^(**26**)भोः, विस्रव्धो भूत्वा त्वं यौवनवतीमिमां पश्य।
-
-
 
 **देवी**— ^(**27**)
 
@@ -2432,8 +2238,6 @@ Von Humboldt.
 मालविके, इतः पश्य। कतरा ते संगीतसहचारिणी रोचते?
 
 **उभे**— (मालविकां दृष्ट्वा) ^(**35**)अहो भर्तृदारिका! (इति प्रणम्य) जयतु जयतु भर्तृदारिका! (तया सह बाष्पं विकिरतः। सर्वे सविस्मयमवलोकयन्ति)
-
-
 
 **राजा**—
 
@@ -2519,8 +2323,6 @@ Von Humboldt.
 
 सं इमां तथागतभ्रातृकां मया सार्धमपवाह्य भवत्संबन्धापेक्षया पथिकसार्थं विदिशागामिनमनुप्रविष्टः।
 
-
-
 **राजा**—
 
 ततस्ततः?
@@ -2589,8 +2391,6 @@ Von Humboldt.
 
 महत्खलु कृच्छ्रमनुभूतं भगवत्या।
 
-
-
 **परिव्राजिका**—
 
 ततो भ्रातृशरीरमग्निसात्कृत्वा पुनर्नवीभूतवैधव्यदुःखया मया त्वदीयदेशमवतीर्य इमे काषाये गृहीते।
@@ -2651,8 +2451,6 @@ Von Humboldt.
 
 (राजाङ्गुल्यानुमन्यते। निष्क्रान्तः कच्चुकी)
 
-
-
 **प्रथमा**—
 
 (जनान्तिकम्) ^(**52**)भर्तृदारिके, दिष्टया भर्त्रा भर्तृदारकोऽर्धराज्ये प्रतिष्ठां गमयिष्यते।
@@ -2694,8 +2492,6 @@ Von Humboldt.
 “ततः परान्पराजित्य वसुमित्रेण धन्विना।  
 प्रसाह्यह्रियमाणो मे वाजिराजो निवर्तितः॥१५॥
 
-
-
 **देवी**— ^(**55**)अनेनाश्वस्तं मे हृदयम्।
 
 **राजा**— (शेषं पुनर्वाचयति) “सोऽहमिदानीमंशुमता सगरपुत्रेणेव प्रत्याहृताश्वो यक्ष्ये। तदिदानीमकालहीनं विगतरोषचेतसा भवता वधूजनेन सह यज्ञसेवनायागान्तव्यमिति।” अनुगृहीतोऽस्मि!
@@ -2732,8 +2528,6 @@ Von Humboldt.
 
 **प्रतीहारी**—^(**61**)मद्देव्याज्ञापयति। (इति निष्क्रम्य, पुनः प्रविश्य) भट्टिनि, पुत्रविजयनिमित्तेन परितोषेणान्तःपुराणामाभरणानां मञ्जुषास्मि संवृत्ता।
 
-
-
 **देवी**—^(**62**)एतत्किमाश्चर्यम्। साधारणः खलु तासां मम चायमभ्युदयः।
 
 **प्रतीहारी**— (जनान्तिकम्) ^(**63**)भट्टिनि, इरावती पुनर्विज्ञापयति। सदृशं देव्याः प्रभवन्त्याः। तव वचनं संकल्पितं न युज्यतेऽन्यथा कर्तुमिति।
@@ -2768,8 +2562,6 @@ Von Humboldt.
 **विदूषकः**—^(**73**)अहो देव्या अनुकूलता! (देवी परिजनमवलोकयति)
 
 **परिजनः**—(मालविकामुपेत्य) **⁷⁴**जयतु भट्टिनी! (देवी परिव्राजिकां निरीक्षते)
-
-
 
 **परिव्राजिका**— नैतच्चित्रं त्वयि।
 
@@ -2810,8 +2602,6 @@ Von Humboldt.
 
 ![](../books_images/U-IMG-1723883305Screenshot2024-08-17135653.png)
 
-
-
 |                                |                               |
 |:------------------------------:|:-----------------------------:|
 | **Index to Verses—श्लोकसूची.** |                               |
@@ -2839,8 +2629,6 @@ Von Humboldt.
 |       उत्तरेण किमात्मैव        |       दुर्लभः प्रियो मे       |
 |      उपदेशं विदुः शुद्धं       |        दुल्लहो पिओ मे        |
 |       उभावभिनयाचार्यां०        |       देवानामिदमामनन्ति       |
-
-
 
 |                           |                            |
 |---------------------------|----------------------------|
@@ -2870,8 +2658,6 @@ Von Humboldt.
 | **मङ्गला**लङ्कृता भाति    | हस्तं कम्पयते रुणद्धि      |
 | मधुरस्वरा परभृता          |                           |
 
-
-
 **Prakrit Passages which are substituted by the SANSKRIT CHAYA in the Text.**
 
 ACT I
@@ -2880,17 +2666,11 @@ ACT I
 
 णदर्अंअन्दरेण कीरिसी मालविअत्ति पट्टाअरिअं अज्जगणदासं पुच्छिदं। ता दाब संगीतसालं गच्छम्हि 2 हला कोमुदीए, कुदो दे इअं धीरदा। जं समीवेण विं अदिक्कमन्ती इदो दिट्ठि ण देसि। 3 अम्होबउलावलिआ। सहि, इदं देवीए सिध्पिसआसादो आणीदं णाअमुद्दासणा-हंअङ्गुलीअअं सिणिद्धिं णिज्झाअन्ती तुह उवालम्भे पडिदम्हि 4 ठाणे सज्जदि दिट्टी। इमिणा अङ्गुलीअएण उब्भिण्णकिरणकेसरेण कुसुमिदो विअ दे अग्गहत्थो 5 हला कहिं पत्थिदासि 6 देवीए एव्व वअणेणनाडआआरीअं अज्जगणदासं देक्खिदुं। उवदेंसग्गहणे कीरिसी मालविअत्ति7 सहि, ईरिसेण वावारेण असंणिहिदा वि सा कहंभठ्रिणादिठ्ठा 8 आम। सो जणो देवीए पास्सगदो चित्ते दिट्टो9 कहं विअ 10 मुणु। चित्तसालं गदा देवी पञ्चग्गवण्णाराअं चित्तलेहंआआरिअस्स ओलोअन्ती चिठ्ठदि। भट्टा अ उवट्टिदो 11 तदो तदो 12 उवआराणन्तरं एक्कासणोवविट्टेणभट्टणा चित्तगदाए देवीए परिअणमज्झयदं आमणदारिअं देक्खिअ देवी पुच्छिदा 13 किं ति 14 अपुव्वा इअं दारिआ, आसण्णा अ देवीए आलिहिदा किंणामहेएत्ति 15 आकिदिविसेसेसु आअरो पदं करेदि। तदो तदो 16 तदो अवहीरिअवअणो भट्टा देवीं पुणो अणुबन्धिदुं सङ्किदो। तदो कुमारीए वसूलच्छीए आचक्खिदम्। अज्ज, एसा मालविएत्ति 17 सरिसं खु बालभावस्स। अदो वरं कहेहि 18 किं अण्णं। संपदं मालविआ मविसेसं भट्टुणोदंसणपहादो रक्खीअदि 19 हला, अत्तणो णिओअं। अणुचिट्ट।अहं वि एदं अङ्गुलीअअं देवीए उवणइस्सम् 20 एसो णट्टाअरिओ संगीदसालादो णिग्गच्छदि। जाव से अत्ताणं दंसेमि 21 अज्ज, वन्दाभि 22 अज्ज, देवी पुच्छदि। अवि उवदेसग्गहणे णादिकीलिस्मदि वो सिस्सा मालविएति 23 अदिक्कन्तंविअ इरावदिं पेक्खामि ! किदत्थदाणि वो सिस्सा। जाए गुरुअणो एवं तुस्सदि 24 अस्थि देवीए वण्णावरी भादा वीरसेणो णम भट्ट्णाणम्मदातीरे अन्तवालदुग्गे ठाविदो।तेण सिप्पाहिआरे जोग्गा इअं दारिएत्ति
 
-
-
 भणिअ भइणीये देवीए उवाअणंपेसिदा 25 अह इं। अह कहिं वो सिस्स 26 तेण हि पुणो अणुजाणादु मं अज्जो। जाव से अज्जस्स परितोसणिवेदणेण उस्साहं वड्डेमि 27 आणत्तोहि तत्तभवदा रण्णा। गोदम, चिन्तेहि दाव उवाअं। जहा मे जदिच्छादट्टपदिकिदी मालविआ पच्छक्खदंसणा होदित्ति। मए अ तत्तहा किंद। दाव से णिवेदेमि 28 वढ्ढदुभवं 29 पवोअसिद्धिं पुच्छ 30 एव्वमिव 31 फलं वि अइरेण दक्खिस्ससि 32 समत्थं पइण्णादं 33 सुट्टु भवं भणादि 34 मअवदि, हरदत्तस्स गणदासस्त अ संरम्भे कहं पेक्खसि 35 ज इवि एव्वंराअपरिग्गहोसे पहाणत्तणं उवहरइ 36 अइ, उअठ्ठिदा देवी पीठमद्दिअं पण्डिअकं सिइं पुरोकरिअ धारिणी 37 जेदु अज्जउत्तो 38 जइ मं पुच्छसि, एदाणं विवाद एव्व ण मे रोअदि 39 भोदि, पेक्खामो उरंब्भसवादं। किं मुहा वेअणदागेण 40 णं कलहप्पिओसि 41 मा एव्वं। अण्णोण्णकलहप्पिअणि मत्तहत्थीणं एक्कदरस्सि अणिज्जिदे कुदो उवसमो 42 सुदं अज्जेहिं भअवदीए वअणं। एसो पिण्डितत्यो उक्देसदंसणदो णिण्णओत्ति 43 जदा उण मन्दमेधा सिस्सा उवदेसं मलिणेन्ति, तदा आअरिअस्स दोसो 44 कहं दाणिं ? अंलं अज्जउत्तस्स ऊसाहकारणं मणोरहं पूरिअ। विरम णिरत्थ आदोआरम्भादो 45 सुट्रु भोदि भणादि। भो गणदास, संगीदपदं लम्भिअ सरस्सईए उवाअणमोदआणं खादमाणस्स किं दे सुहणिग्गहेण विवादेण 46 अइरोवणीदाए सिस्साए उण पडिट्ठिदस्स उवदेसस्स अण्णास्यं पआसणं 47 तेण हि दुवेवि उवदेसं भअवदीए दंसेध 48 मूढे परिव्वाजिए, मं जाम्गतिंपि सुत्तं विअ करेसि 49 णं सकारणं एव्व। अत्तणो पक्खो रक्खिदव्वो। दिट्टिआ कोवव्वाजेण देवीए परित्तादो भवं। सुसिक्खिदो विसच्चोउवदेसेण णिण्हादो होदि 50 का गई। पहवदि आआरिओ सिस्सजणस्स 51 भण वीसद्धं। पहवदि प्पहू अत्तणो परिणस्स 52 भअवदि, भणेदाणीम् 53 तेण हि दुवेवि वग्गा पेक्खाघरे संगीदरअणं करिअ नतभवदो दूदं पेसअह। अहवा मुदङ्गसद्दो एव्व णो उत्थावइस्सदि। 54 विअई होहि 55 जइ राअकज्जेसु ईरिसी उवाअणि उणदा अज्जउत्तस्स, तदो सोण्णहं भवे 56 अहो अविणओ अज्जउत्तस 57 भो, धीरं गच्छह्म। तत्तभोदी धारिणी विसंबादइस्सदि।
 
 ––––––––––
 
-
-
 ACT II
-
-
 
  1 उबठ्ठिदं णअणमहु संणिहिदमक्खिअं च। ता अप्पमत्तो दाणिं पेक्ख 2 पेक्खदु भवं। ण खु से परिच्छन्दादो परिहिअदि महुरदा 3 भो, चउप्पदक्त्थुअं दुवारीकरिअ तुइ उवट्ठाविदो अप्पा तत्तहोदीए 4 भोदि, चिट्ट। वो विनुमरिदोकम्ममेदो। तं दाव पुच्छिस्सम्। 5 णं गोदमवअणं वि अज्जो हिअए करेदि। 6 कोसिइं दाव पुच्छ। पच्छा जो मए कम्मभेदो दिट्टो तं भणिस्मं 7 दिठ्ठिआ अपरिक्खदाराहणेण अज्जो बढ्ढइ 8 पढमोपदेसदंसणे पढमं ब्रह्मणस्स पूआ कादव्वा। सा णं वो विसुमरिंदा 9 मए णाम मुद्धचादएग विअ सुक्खघणगज्जिदे अन्तरिक्खे जलपागं इच्छिदं। अहवा पण्डिदसंतोसपच्चया भं मूढजादी ज्दो अत्तहोदीए सोहणं भणिदं तदों से इमं पारितोसिअं पअच्छामि 10 चिट्ट दाव गुणन्तरं अजाणन्तो किंणिमित्तं तुमं आहरणं देसि 11 परकेरअंति करिअ 12 अज्जगणदास, दंसिदोवदेंसा दे सिस्सा 13 एत्तिओं मेमदिविहवो भवन्तं सेविदुं 14 दलिद्दो विअ आदुरो वेज्जेण ओसदं दीअमाणं इच्छसि 15 अविहा। अविहा। अह्माणं उण भोअणवेला उवठ्ठिदा। उइदवेलादिक्कमे चिइच्छआ दोसं उदाहरन्ति। किं दाणिं भणसि 16 णिव्वट्टदुअज्जउत्तो मज्जणविहिम् 17 भोदि, विसेसेण पाणभोअणं तुवरावेहि 18 भो वअस्स, ण केवलं रूवे, सिप्पेवि अद्दुदीआ मालविआ 19 भवदावि अहं। दिढं विषणिकन्दु विग्न मे ऊअरब्भन्तरं दज्झइ 20 गहीदो खणो। किं तु मेहावलीणिरुद्धा जोण्हा विअ पराहीणदंसण तंत्तहोदी। भवं वि सूणापरिसरचरो विअ विहंगो आमिसलोलुओ भीरुओ अ। ता अणादुरों भविअ कज्जसिद्धिं पत्थेन्तो मे रोअसि।
 
@@ -2900,23 +2680,13 @@ ACT III
 
  1 आणत्तह्मिभअवदीए। समाहिदिए, देवीए उवायणत्थं वीअऊरअं गेण्हिय आअच्छत्ति। जाव पमदवणपालिअं महुअरिअं अण्णोसामि। एसा तवणीआसोअं ओलोअन्ती चिट्टदि। जाव णं उवसप्पामि 2 महुअरिए, अवि सुहो दे उज्जा-
 
-
-
 णव्वावारो 3 अह्मो समाहिदिआ। सहि, सागदं दे 4 हला, भगवदी आणवेदि। अरित्तपाणिणा अह्मारिसजणेण तत्तहोदी देवी देक्खिदव्वा। ता बीअपूरएण सुस्सूसिदुंइच्छामित्ति 5 णं संणिहिदं वीजपूरअं। कहेहि दाव अगोण्यसंघरिसिदाणं णट्टाअरिआणं उवदेसं देक्खिअकदरो भवदीए पसंसिदो 6 दुवेवि किल आअमिणा पओअणिउणा अ। किंतु सिस्सागुणविसेसेण मालविआए उवदेसो पसंसिदो। 7 अह मालविआगदं कोलीणं किंति सुणीअदि 8 दिढं किल तस्सि साहिलासो भट्टा। किंतु केवलं धारिणीए चित्तं रक्खन्तो पहुत्तणं दंसेदि मालविआ वि इमेनुं दिअसेसु अणुहूदमुत्ता विअ मालदीमाला मिलाणा लक्खिअदि। अदो वरं ण जाणे। विसज्जेहि म9 एदं साहावलम्बिदं बीअपूरअं गेण्ह 10 तह। हला तुमं वि अदो पेसलदरं साहुजणसुस्साए फलं पावेहि 11 हला, सहं एव्वगच्छह्म। अहं वि इमस्सचिराअम्राणकुसुमोग्गमस्स तवणीआसोअस्स दोहलणिमित्तं देवीए विण्णावेमि 12 जुज्जइ। अहिआरो क्खु तुह 13 अलं भवदो धीरं उज्झिअ परिदेविदेण। दिठ्ठा मए तत्तहोदीए मालविआए पिअसही बउलावलिआ। सुणाविदो अअं अत्थो जो भवदा संदिठ्ठो 14 विष्णावेहि। अणुगहीदह्मि इमिणा णिओएण किंतु सा तवस्सिणी देवीए अहिअं रक्खन्तीए णाअरक्खिदो विअ णिही ण सुहं समासादइदव्या। तह्नवि घटइस्सं ति 15 णं भणामि तसि्सं साहणिज्जे किदो उक्खोओ। पज्जवत्थावेदु भवं अप्पाणं16 अज्ज एव्व पुढमावदारसुहआणि रक्तकुरबआणि उवाअणं पेसिअ णववसन्तावदारव्ववदेसेण इरावदीए णिउणिआमुहेण पत्थिदो भवं। इच्छामि अज्जउत्तेण सह दोलाहिरोहणं अणुहविदुं ति। भवदावि से पडिण्णादं। ता पमदवणं एव्व गच्छह्म17 कहं विअ 18 णारिहदि भवं अन्तेउरपडिठ्ठिदं दक्खिणं एक्कपदे पिट्ठदो कादुम् 19 इदो इदो भवं 20 एदं पमदवणं पवणदरचलाहिं पल्लवङ्गुलीह्विंतुबरेदि विअ भवन्तं पवेसितुं 21 पविप्त णिव्वुदिलाहाअ। अवहाणेण दिट्ठि देहि। एवं खु भवन्तं विअ विलोहइदुकामाए महुलच्छीए जुवइत्रेसलज्जापइत्तअं वसन्तकुसुमणेवत्थं महीदं 22 अविण्णादहिअअं भट्टारं अहिलसन्ती अप्पणो वि दाव लज्जेमि। कुदो विहबो सिणिद्धस्स सहीजणस्स इमं बुत्तान्तं आचक्खिदुं। ण जाणे अप्पडिआरगरुअं वेअणं केन्तिअं कालं मअणो
-
-
 
 म णइस्सदिति। आ, कहिं खु पत्थिदह्नि। आदिट्ठह्मिदेवीए। गोदमचावलादो दोलापरिब्भट्टाए सरुजो मह चलणो। तुमं दाव गदुअ तवर्णाआसोअस्स दोहलं णिवेट्टेहि त्ति। जदि सो पञ्चरत्तब्भन्तरे कुसुमं दंसेदि, तदो अहं अहिलासपूरइत्तअं पसादं दाइस्सं ति। जाब णिओअभूमिं पुढमं गदा होमि, ताव अणुपदं मम चलणालंकारहत्थाए बउलावलिआए आअन्तव्वं, परिदेवइस्संताव वीसद्धं मुहुत्तअं 23 वअस्स, एदं खु सीहुपाणुव्वेजिदस्स मच्छण्डिआ उवणदा 24 एसा णादिपरिआरवेसा ऊमुअवअणा एआइणी मालविआ अदूरे वट्टदि 25 अह इं 26 एसा तरुराइमज्झादो णिक्कन्ता इदो एव्व अहिबट्टन्ती दीसइ27 एसावि भवं विअ मअणव्वाहिणा परिमुठ्ठा भविस्सदि 28 अअं सो सुउमालदोहलापेक्खी अगिहीदकुसुमणेवच्छो उक्कण्ठिदाए मह असोओ अणुकरेदि। जाव एदस्स पच्छायसीदले सिलापट्टए णिमण्णा अप्पाणं विणेदेमि 29 सुदं भवदा। उक्वण्ठिदम्मिति तत्तहोदी मन्तेदि 30 इरावदिं विअ अदूरे समद्धेमि 31 हिअम, णिरवलम्बणादो अदिभूमिलङ्घिणी ते मणोरहादो विरम। किं मं आआसिअ 32 संपदं भवदो णिस्संमअं भविस्सदि। एसा अप्पिदमअणसंदेसा विवित्ते णं बउलावलिआ ऊवठ्ठिदा33 किं दाणिं एसा दासीए दुहिदा तुह गरुअं संदेसं विसुमरेदि। अहं दाव ण विसुमरेमि 34 अवि सुहं सहीए 35 अह्मो बउलावलिआ। सहि, साअदं ते। उवविस36 हला, तुमं दाणिं जोग्गदाए णिउत्ता। ता एक्कं चलणं उवणेहि। जाव सालत्तअ समूत्तरं च करेमि 37 हिअअ, सुहिदाए अलं उवठ्ठिदो अअं विहवेत्ति। कहं दाणीं अत्लाणं मोचेअं। अहवा दाणिं एदंएव्व मिच्छुमण्डणं मे भविस्सदि 38 किं विआरेसि। ऊसुआ खु इमस्स तवणीआसोअस्स मुडलुग्गमे देवी 39 किंणु खु जाणासि तुमं। मह कालणादो देवी इमं अन्तेउरणेवच्छेणजोअईस्सदित्ति 40 हला, मरिसेहि दाव णं 41 अइ, सरीरअं सि मे 42 चलणाणुरूओ तत्तहोदीए अहिआरो उवक्खित्तो 43 पहरिस्सदि तत्तहोदी तुमं अवरुद्धम् 44 हञ्जे णिउणिए, सुणोमि बहुसोमदो किल इत्थिआजणस्स मण्डणंत्ति। अवि सच्चो लोअवाओ अअं 45 पढमं लोअवाओएव्व। अज्ज सच्चो संवुत्तो 46 संकित्तणसंसिणा अलं सिणेहेण।
 
-
-
 कहेहि कुदो दाणिं ओगमिदव्वो दोलाघरं पुढमं गदो भट्टा णवेत्ति 47 भट्टिणाए अखण्डिदादो पणआदो। 48 अलं सेवाए। मज्झत्थदं परिगाहिअ भणाहि। 49 वसन्तोआअणलोलुवेण अज्जगोदमेण कहिअं तुवरदु भट्टिणी। 50 हजे, मदेण किलामिअमाणं अत्ताणं अज्जउत्तदंसणे हिअअं तुवरेदि। चलणा उण ण मह पसरन्ति 51 णं पत्तह्मदोलाघरं 52 णिउणिए, अज्जउत्तो एत्थ ण दीसदि 53 भट्टिणीए ओलोअदु। परिहासणिमित्तं कहिं वि अदिट्टेण भत्तुणा होदव्वं। इंम पिअङ्गुलदापरिक्खित्तं असोअसिलापट्टंपविसामो 54 तह 55 ओलोअदु भट्टिणी। चूदङ्कुरं विचिण्णन्तीणं पिवलिआहिं दंसिदं 56 कहंविअ 57 एसा असोअपाअवच्छाआए मालविआए बउलावलिआ चलणालंकारं णिव्वट्टेदि 58 अभूमी इअं मालविआए। कहं एत्थ तक्केसि 59 तक्केमि दोलापरिब्भसिदाए सरुअचलणाए देवीए असोअदोहलाहिअरे मालविआ णिवुत्तेत्ति। अण्णहा कहं देवी सअं धारिअं णूउरजुउलंपरिअणस्स अब्भणुजाणिस्सदि 60 महदी क्खु से संभवणा 61 किं अण्णेसीअदि भट्टा 62 हला, ण मे चलणा अण्णदो प्रवट्ठति। मदो मं विआरेदि। आसङ्किदस्स दावअन्तं गमिस्सं। ठाणे क्खु कादरं मे हिअअं 63 अवि रोअदि ते राअरेहाविण्णासो 64 हला, अत्तणो चलणं ति लज्जेमि णं पसंसिदुं। तेण पसाहणकलाए अहिविणीदासि 65 एत्थ अहं भत्तुणो सीसह्मि 66 तुवरेहि दाव णं गुरुदक्खिणाए 67. दिट्टिआ ण गव्विदासि 68 उबदेसाणुरूवा चलणा लम्भिअ अज्ज दाव गव्विदाभविस्सं। हन्त, सिद्धं मे दुत्थम्। सहि, एक्कस्स दे चलणास अवसिदो राअणिक्खेवो केवलं मुहमारुदो लम्भइदव्वो। अहवा पवादं एदं ठाणं 69 कुदो दे अणुसओ। चिरं भवदा एदं कमेण अणुहुचिदव्वं 70 सहि, अरुणसदपत्तं विअ सोहदि दे चलणं। सव्वहा भत्तुणो अङ्कपरि-
 
-
-
 एदंएवं मइ णति78 सच्चं तुइ णत्ति। भत्तुणो किसेसु वरपण्डुरेसु दीसइ अङ्गेस 79 पुढमं गुणिदं विअ हदासाए उत्तरं 80 अणुराओ अणुराएण पच्चेट्टव्वो त्ति सुअणवअणं पमाणीकरेहि 81 किं अत्तणो छन्देण मन्तेसि 82 णहि णहि। भत्तुणो खु एदाइंपणअमिदुआइंअक्खराइंवत्तन्तरिदाइं83 हला, देविं चिन्तिअ ण मे हिअअं विस्सतदि 84 मुदे, भमरसंपादो भविस्सदित्ति वसन्तावदारसव्वस्सं किं ण चूदप्पसवो ओदंसिदव्वो 85 तुमं दाव दुज्ज दे अच्चंतं सहाया होहि 86 विमद्दसुरही बउलावलिआ खु अहं 87 पेक्ख। कारिदं एव्व बउलावलिआए एदं पदं मालविआए 88 भट्टिणि, अहिआरस्स उइदो उवदेसो 89 ठाणे खु संकिदं मे हिअअं। गहीदत्था अणन्तरं चिन्तइस्सं 90 एसो दुदी ओवि दे णिव्वुत्तपरिकम्मा चलणो।जाव णं सणूउरं करोमि। हला, उट्टेहि। असोअविआसइत्तअं देवीए णिओअं अणुचिट्ट 91 सुदोदेवीए णिओओ। होदु दाणिं 92 एसो उवारूढराओ उअभोअक्खमो पुरदो दे वट्टइ 93 किं भट्टा 94 णदाव भट्टा। एसोअमोअसहावलम्बि पल्लवगुच्छओ। ओदंसेहि णं 95 सुदं भवदा 96 हला, णत्थि दे दोसो। णिग्गुणो अअं अमोओ जइ कुसुमोव्भेदमन्धरो हवे, जो दे चलणसक्वारं लम्भिअ 97 एहि। णं परिहासइस्सं 98 भट्टिणि भट्टिणि, भट्ठा एत्थ पविसदि 99 एव्वं पुढमं मम चिन्तिदं हिअएण 100 जुत्तं णाम अत्तहोदो पिअवअस्सो अअं असोओ णं वामपादेण ताडिदुं 101 अह्मो, भट्टा 102 बउलावलिए, गहीदत्थाए तुएं अत्तहोदी ईरिसं अविणअं करन्ती कीस ण णिवारिदा 103 भट्टिणि, पेक्ख। किं पउत्तं अज्जगोदमेण 104 कहं खु बह्मबन्धु अण्णहा होदि 105 अज्ज एसा देवीए णिओअं अणुचिट्टदि। एदस्सिं अदिक्कमे परवदी इअं। पसीददु भट्टा। 106 जुज्जइ। देवी एत्थ माणइदव्वा 107 अहो णवणीदकप्पहिअओ अज्जउत्तो। 108 बउलावलिए, एहि। अणुचिट्टिदं अत्तणो णिओअं देवीए णिवेदेह्म109 विण्णावेहि भट्टांरं विसज्जेहि त्ति 110 अवहिदा सुणाहि। आणवेदु भट्टा 111 पूरेहि पूरेहि। असोओ
-
-
 
 कुसुमं ण दंसेदि। अअं उण पुप्फदि एव्व 112 किं अण्णं। जङ्घाबलं एव्व 113 बउलावलिए, तुए साहु उवक्कन्तं। दाणिं सफलब्भत्थणं करेहि उज्जउत्तं 114 पसीददु भट्टिणी। काओ अह्मे भत्तुणो पणअपरिग्गहस्स 115 अविस्ससणीआ पुरिसा। अत्तणोवञ्चणवअणं पमाणीकरिअ अक्खित्त ए वाहजणगीदगहीदचित्ताए वि हरिणीए एदं ण विण्णादं 116 पडिजोएहि दाणिं किंपि। कम्मग्गहीदेण वि कुम्मीलएण संधिच्छेदे सिक्खिओम्मित्ति वत्तव्यं होदि 117 विस्ससणीओसि। मए ण विण्णादं ईरिसं विणोदवत्थुअं अज्जउत्तेण उवलद्ध ति। अण्णहदुक्खभाइणीए एव्वं ण करीअदि 118 मा तावदा तत्तभवदोदक्खिण्णस्स उअरोहं भणितुं समाव त्तदिट्टेण देवीए परिअणेण संकहाअव्वर हेण संधावीअदु। एत्थ तुमं एव्वपमाणं 119 णं संकहा णाम होदु। किंति अत्ताण आआसइस्सं 120 सठ, अविस्ससणीअहिअओसि 121 इअं पि हदासातुमं एव्वअणुसरदि 122 किं मं एव्व भूओ वि अवरद्धं करेसि 123 ण खु इमे मालविआचलणा, जा दे हरिसदोहलं पूरयिस्सन्ति 124 उट्टेहि। किदप्पासादोसि 125 वअस्स, दिट्टिआइमस्स अविणअस्स अप्पसण्णा गदा एसा। ता वअं सिग्ध अवक्कमाम। जाव अङ्गारओ रासिं विअ अणुवक्कं परिगमणं ण करेदि।
 
@@ -2926,19 +2696,11 @@ ACT IV
 
  1 जेदु जेदु भट्टा। असंणिहिदो गोदमो 2 वढ्ढदुभवं 3 ज देवो आणवेदि 4 जो बिडालगहीदाए परह्वुदिआए 5 सा खु तवस्सिणी ताए पिङ्गलच्छीए सारभाण्डभूघरए गुहाए विअ णिक्खित्ता 6 अह इं 7 सुणादु भवं। परिव्वाजिआए मेकहिदं। हिओ किल तत्तहोदी इरावदी रुअक्कन्तचलणं देविं सुहपुच्छिआ आअदा 8 तदो सा देवीए पुच्छिदा। किंणु ओवलोइदो वल्लहजणो त्ति। ताए उत्तं। मन्दो वो उवआरो जं परिजणे संकन्तं वल्लहत्तणं ण जाणीअदि। 9 तदो ताए अणुखिज्जमाणा सा भवदो अविणअं अन्तरेण परिगदत्था किदा। 10 किं अदोवरं। मालविआ बउलाबलिआ अ णिअलपदीओ अदिट्टसुज्जपादं
 
-
-
 पादालवासंणाअकण्णआओ विअ अणुहोन्ति 11 कहं भविस्सदि। जं सारभाण्डघरए वाउदा माहविआ देवीए संदिठ्ठा। मह अंङ्गुलीअअमुद्दंअदेक्खिअ ण मोत्तव्वा, मालविआ बउलावलिआ अ त्ति 12 अस्थि एत्थ उवाओ 13 को वि अदिट्ठो सुणोदि। कण्णेदे कहेमि। एव्वं विअ 14 देव, पवादसयणम्मिदेवी णिसण्णा रत्तचन्दणधारिणा परिअणहत्थगदेण चलगेण भअवदीए कहाहिं विणोदिज्जमाणा चिट्टदि 15 ता गच्छदु भवं। अहं वि देवीं पेक्खिदुंअरित्तपाणी भविस्सं 16 तह। एव्वं विअ होदि 17 इदो इदो देवो 18 भअवदि, रमणिज्जं कहावत्थु। तदो तदो 19 अह्यो, भट्टा 20 जेदु अज्जउत्तो 21 अज्ज अत्थि मे विसेसो 22 परित्ताअदुपरित्तअदु भवं। सप्पेणह्मि दट्टो 23 देविंदेक्खिरसं त्तिआआरपुप्फग्गहणकारणादो पमदवणं गदोह्मि24 हद्धि हद्धि। अहं एव्व बह्मणस्स जीविदसंसअणिमित्तं जादह्मि25 तहिं असोअत्थवअकालणादो पसारिदे दक्सिणहत्थे कोडरणिग्गदेण सप्परूवेण कालेण दट्टोह्मि। णं एदें दुबे दंसणपदाणि 26 जं देवो आणवेदि 27 अहो, पावेण मिच्छुणा गहीदोह्मि 28 कहं ण भाइस्सं ? सिमसिमाअन्ति मे अङ्गाई 29 हा दंसिदेअसुहं विआरेण। अवलम्भथ बह्मणं 30 भोः, भवदो बाल्लादो वि पिअवअस्सोह्मि। तं विआरिभ अपुत्ताए मे जणणीए जोगक्खेमं वहेहि 31 देव, आणाविदो धुवसिद्धी विण्णावेदि। इह एव्व आणीअदु सो गोदमो ति32 तहा 33 भोदि जीवेअं वा ण वा। जं मएं अत्तभवन्तं सेवमाणेण ते अवरद्धं तं मरिसेहि 34दीहाऊ होहि 35 जेदु भट्टा। धुवसिद्धी विण्णवेदि। उदकुम्भविहाणेण सप्पमुद्दिअं किंपि कप्पिदव्वं। तं अण्णेसीअदु त्ति 36 इदं सप्पमुद्दिअं अड्गुलीअअं। पच्छा मम हत्थे देहि णं 37 जं देवो आणवेदि 38 जेदुदेवो। णिवुत्तविसवेगो गोदमो मुहुत्तेण पकिदित्थो संवुत्तो39 दिट्टिआ वअणीआदो मुत्तह्मि40 एसो उण अमच्चोवाहतओ विण्णवेदि। राअकज्जं बहु मन्तिदव्वं। दंसणेण अणुग्गह इच्छामि त्ति 41 गच्छदुअज्जउत्तो क्कज्नसिद्धीए 42 बालिआओ, अज्जउत्तवअणं अणुचिट्टह 43 तह 44 इदो इदो देवो 45 अह इं 46 वढ्ढदु भवं। सिद्धाइंदे मङ्गेलकम्माइं47 जं देवो आणवेदि 48 देवीए अङ्गुलीअ-
-
-
 
 अअमुद्दिअं देक्खिअ कहं विआरेदि 49 णं पुच्छिदोह्मि। पुणो मन्दस्स मे तस्सिं पच्चुप्पण्णा मदी 50 भणिदा मए। देव्वचिन्तएहिं विण्णविदो राआ। सोवसग्गं वो णक्खत्तं। सव्वबन्धणमोक्खो करीअदु त्ति 51 तं सुणिअ देवीए इरावदीचित्तं रक्खन्तीए राआ किल मोएदित्ति अह संदिट्ठो त्ति। तदो जुज्जदि त्तिताए एव्वंसंपादिदो अत्थो 52 तुवरदु भवं। समुद्दधरए सहीसहिदं मालविअं ठाविभ भवन्तं पच्चुग्घदोह्मि53 एदु भवं। एदं समुद्दघरं 54 अहो कुम्भीलएहिं कामुएहिं च परिहरणीआ खु चन्द्रिआ 55 तह 56 सहि, पणम भट्टारं 57 णमो दे 58 हला, मं विप्पलम्भेसि 59 णं एसो चित्तगदो भट्टा 60 जेदु भट्टा 61 हला, तदा संभमदिट्टे भट्टिणोरूवे जहा ण वितिण्हह्मि, तहा अज्जवि मए भाविदो अवितिण्हदंसणो भट्टा 62 सुदं भवदा। तत्तहोदी चित्ते जहा दिट्टो तहा दिट्टो भवं ति मन्तेदि। मुद्धा दाणिं मञ्जूसा विअ रअणभण्डअं जोव्वणगव्वं वहेसि 63 हला, का एसा पासपरिउत्तमुहेण भट्टिणा सिणिद्धिए दिट्टीए णिज्झाईअदि 64 णं इअं पासगदा इरावदी 65 सहि, अदक्खिणो विअ भट्टा मे पडिभादि। जो सव्वं देवीजणं उज्झिअ एक्काए मुहें बद्धलक्खो 66 चित्तगदं भट्टारं परमत्थदो संकप्पिअ असूअदि। होदु। क्रीडिस्सं दाव एदाए। हला भट्टिणो वल्लहा एसा 67 तदो किं दाणिं अत्ताणं आआसइस्सं 68 अणुणअसज्जो दाणिं होहि 69 अज्जगोदमो एत्थ एव्व ण संसेवदि 70 ण खु कुविदा दाणिं तुमं 71 जइ चिरं कुविदं एव्व मं मण्णेसि, एसो पच्चाणीअदि कोवो 72 जेदु जेदु भट्टा 73 कुहं चित्तगदो भट्टा मए असुइदो 74 क्रिं भवं उदासीनो विअ दीसइ 75 अत्तहोदीए अअं कहं तुह अविस्सासो 76 सहि, बहुसो क्खु भट्टा विप्पलद्धो। ता तुए अत्ता विस्सासणिज्जो करीअदु 77 सहि, मह उण मन्दभाग्गाए सिविणसमाअमो वि भट्टिणो दुल्लहोआसि 78 भट्टा कहेदु से उत्तरं 79 अणुगहीदह्मि 80 बउलावलिए, एसो बालासोअरुक्खस्स पल्लवाइंलङ्घेदि हरिणो। एहि णिवारेम णं 81 तह 82 एवं वि गोदमो संदिसेअदि 83 अज्ज गोदमं, अहं अप्पआसे चिट्टामि। तुमं दुवाररक्खओहोहि 84 जुज्जइ। इमं दाव फलिहक्खम्भं अस्सिदो होमि। अहो सुहप्फरिसदा सिला-
 
-
-
 विसेसस्स 85 देवीए भएंण अत्तणोवि पिअं कादुं ण पारेमि86 जो ण भाअदि, सो मए भट्टिणीदंसणे दिट्टसामत्थो भट्टा 87 हञ्जेणिउणिएसच्चं तुमं परिगदत्था चन्दिआए। ससुद्दघरअलिन्दसइदो एआई अज्जगोदमो दिट्ठो ति। 88 अण्णहा कहंभट्टिणीए विण्जावेमि 89 तेण हि तहिं एव्व गच्छामो। संसआदो मुत्तं पिअवअस्सं पुच्छिदुं च 90 सावसेसं विअ भट्टिणीए वअणं 91 अण्णं च चित्तगदं अज्जउत्तं पसादेदुं 92 अह दाणिं कहं णु भट्टा एव्व अणुणीअदि 93 मुद्वे, जारिसो चित्तगदो णं तारितो एव्व अण्णसंकन्तहिअओ अज्जउत्तो। केवलं उअआरादिक्कमं पमज्जिदुंअअं आरम्भो 94 इदो इदो भट्टिणी 95 जेदु भट्टिणी। भट्टिणि, देवी भणादि। ण मे मच्छरस्स एसो कालो। तेण खु बहुमाणं वड्डेदुं वअस्साए सह णिअलबन्धणे किदा मालविआ।जइ अणुमण्णसि अज्जउत्तस्स पिअं कादु तहा करेमि। जं तुह इच्छिअं तं मे भणाहि त्ति 96 णाअरिए, विण्णवेहि देविं। का वअं भट्टिणिं णिओजेदुं। परिअणणिग्गहेन दंसिदो मइ अणुग्गहो। कस्स वा पसारेण अअं जणो वढ्ढदित्ति 97 तह 98 भट्टिणि, एसो दुचारुद्देसे समुद्दवरअस्स विपणिगदो विअ बलीवद्दोअज्जगोदमो आसीणो एव्व णिद्दाअदि 99 अच्चाहिदं। ण खु सावसेसो विसविआरो इवे 100 पसण्णुहमण्णो दीसइ। अविअ धुवसिद्धिणा चिइच्छिदो। ता से असङ्कणिज्जं पावं 101 भोदि मालविए 102 सुदं भट्टिणीए कस्स एसो अत्तणिओअसंपादगे विस्ससणिज्जोहदातो।सव्वकालं हो एव्व सोत्थिवाअणमो दएहिं कुच्छिं पूरिअ संपदं मालविअं सिविणावेदि 103 इरावदीं अदिक्वमन्ती होहि 104 एदंअच्चांहिदं। इमं भुअङ्ग नीरूअं बह्मबन्धुं इमिणा भुअङ्गकुडिलेंण दण्डकट्टेण खम्भन्तरिदा भाअइस्सं 105 अरुहदि एव्व किदग्धो उवद्दवस्स 106 अविहा अविहा। भो वअस्स, सप्पो मे उवरि पडिदो 107 भट्टा, मा दाव सहसा णिक्वम।सप्पोत्ति भणीअदि 108 हद्धि हद्धि। भट्टा इदो एव्व धावदि 109 कहं दण्डकट्टं एंद। अहं उण जाणे जं मए केदईंकण्टएहिं डंस करिअ सप्पस्सं उवरि अअसो किदं, तं मे फलदं110 मा दाव भट्टा पविसदु ।कुडिलगई सप्पो विअ दीसदि 111 अवि णिव्विग्घमणोरहो दिवा-
-
-
 
 संकेदो मिहुणस्स112 बउलावलिए, दिट्टिआ दुच्चाहिआरविसआ संपूण्णा दे पइण्णा 113 पसीददु भट्टिणी। दद्दुरा वाहरन्ति त्ति किं देव्वो पुढवीए वरिसिढुं विरमदि 114 मा दाव। भोदीए दंसणमत्तेण अत्तभवं पणिवादलङ्घणं विसुमरिदो। तुमं उण अज्जवि पसादं ण गेण्हसि 115 कुविदा दाणिं अहं किं करिस्सं 116 अट्टाणेति सुष्ठु वाहरिदं अज्जउत्तेण। अण्णसंकन्तेसु अह्माणं भाअहेएसु जदि उण कुप्पेअं, तदो णं अहं हस्सा भवेअं 117 णिउणिए, गच्छ। देवीं विण्णावेहि। दिट्टो भवदीए पक्खवादो णं अज्जत्ति 118 तह 119 भो, अणत्थो संपडिदो। बन्धब्भट्टा गिहकवोदो विडालिआए आलोए पडिदो 120 भट्टिणि, जदिच्छादिट्टाए माहविआए आचक्विदं। एव्वं खु एदं णिव्वुत्तंति 121 उववण्णं। सच्चं अअं एत्थ ब्रह्मबन्धुणा किदो पओओ। इअं इमस्स कामतन्तमचिवस्स णीदी 122 भोदि, जदि णीदिगदं एक्वंवि अक्खरं पढेअं, णं मए अत्तभवं पेसिदो हवे 123 देव, कुमारी वसूलच्छी कन्दुअं अणुधावन्तीपिङ्गलवारेण बलिअं तासिदा अङ्कणिसण्णा देवीए पवादकिसलअं विअ वेवमाणा ण किं वि पकिदिं पडिवज्जर 124 तुवरदु अज्जउत्तो णं समासा सिदुं। मासे संतासजणिदो विआरो वड्डदु 125 साहु रे पिङ्गलवाणर, साहु। परित्तादो तुए सपक्खो 126 हला, देविं चिन्तिअवेवदि मे हिअअं। ण जाणे अदो वरं किं वा अणुहविदव्वं हविस्सदित्ति 127 अच्चरिअं अच्चरिअं। अणुण्णेएव्व पञ्चरत्ते दोहलस्समुउलेंहिं संणद्धो तवणीआसोओ। जाव देवीए णिवेदेमि 128 आससिदु सही। सच्चाप्पइण्णा देवी 129 तेण हि पमद
 
@@ -2948,21 +2710,13 @@ ACT IV
 
  1 उवक्खित्तो मए किदसक्वारविहिणो तवणीआसोअस्स वेदिआबन्धो। जाव अणुठ्ठिदणिओअं अत्ताणं देवीए णिवेदेमि। अहो देवस्सअणुकम्पणीआ मालविआ। तस्सि तह चण्डिआ देवी इमिणा असोअकुसुमबुत्तन्तेण पसादसुमुही हविस्सदि। कहिं णु खु देवी हवे। अह्मो, एसो देवीए परिअणब्भन्तरो किंवि जदुमुद्दालच्छिदं मञ्जूपं गेण्हिअ चदुस्सालादो कुज्जो सारसिओ णिक्कमदि। पुच्छिस्सं दाव णं।
 
-
-
 सारसिअ, कहिं पत्थिदोसि 2 महुअरिए, विज्जाभरिआणं बह्मणाणं णिच्छदक्खिणं म सिईं पुरोहिदस्स हत्थं पावइस्सं 3 अह किंणिमित्त 4 जदप्पहुदि सेणावदी जण्णतुरंगरक्खणे णिउत्तो भट्टिदारओ वसुमित्तो, तदप्पहुदि तस्स आऊसणिमित्तं णिक्कसदसुवण्णपरिमाणं दक्खिणं देवी दक्खिनणी एहिं परिग्गाहेदि 5 अह कर्हि देवी। किं वा अणुचिट्टदि 6 मङ्गलधरे आसणत्था भविअ विदब्भविसआदो भादुणा वीरसेणेण पेसिदं लेहं लेहकरेहिंवाइअमाणं सुणादि 7 को उण विदब्भराअउत्तन्तोसुणीअदि 8 वसीकिदो किल वीरसेणप्पमुहेहीं भत्तुणो विजअदण्डेहि विदब्भणाहोमोइदो से दाआहो माहवसेणोदूदो अ तेण महासाराणि रअणाणि वाहणार सिप्पआरिआभूइट्टंपरिअणं उवाअणीकरिअ भट्टिणो सआसं पेसिदोत्ति 9 गच्छ अणुचिट्ट अन्तणो णिओअं। अहं वि देवीं पेक्खिस्सं 10 आणत्तह्मि असोअसक्कारवावुदाए देवीए। विण्णावेहि अज्जउत्तेण सह असोअरुक्खस्स पसूणलाच्छिं पच्चक्खीकादुंति। ता जाव धम्मासणागदं देवं पडिवालेमि 11 एसो जअसद्दसूइदप्पत्थ णो भट्टा इदो एव्व आअच्छदि।अहं वि दाव इमस्स पमुहादो लोआदो ओसरिअ खम्भन्तरिदा होमि 12 जह अहं पेक्खामि।एक्कान्तसुहिदो भवं हविस्सदि 13 अज्ज किल देवीए एव्व पण्डितकौशिकी भणिदा।भवअदि, जं तुमं पसाहणगव्वं वहसि, तं दंसेहि मालविआए सुरीरे विवाहणेवच्छं ति। ताए सविसेसालंकिदा मालविआ।तत्तहोदी कदावि पूरए भवदोवि मणोरहं 14 जेदु भट्टा। देवी विण्णवेदि। तवणी आसोअस्स कुसमसमदंसणेण मह आरम्भो सफलो करीअदु त्ति 15 अह इं। जहारहसंमाणसुहिअं अन्तेडरं विसज्जिअ मालविआपुरोएण अत्तणो परिअणेण सह देवं पडिवालेंदि 16 एदु एदु देवो 17 भो वअस्स, किंचि परिवुत्तजोव्वणो विअ वसन्तो पमदवणे लक्खीअदि 18 अहो अअं सो दिण्णणेवच्छो विअकुसुमत्थवएहि तवण्णीआसोओ।ओलोअदु भवं 19 तह। भो, वीसद्धो होहि। अह्मेसुसंणिहिदेसु विधारिणी पासपरिवट्टिणि मालविअं अण्णुमण्णेदि 20 जाणामि णिमित्तं कोदुआलकारस्स।तह वि मे हिअअं बिसिणीपत्तगदं विअ सलिलं वेवदि। अविअ दक्खिणेदरं वि मे णअणं बहुसो फुरदि 21 भो
 
-
-
 वअस्स, विवाहणेवच्छेण सविसेसं खु सोहदि मालविआ 22 जेदु अज्जउत्तो 23 वढ्ढदुभोदी 24 अज्जउत्त, एस ते अह्मेहिं तरुणीजणसहाअस्स असोओ संकेदघरो कप्पिदो 25 भो, आराहिओसि 26 भो, वीसद्धो भविअ तुमं जोव्वणवदिं इमं पेक्ख. 27 कं 28 भोदि, तवणीआसोअस्स कुसुमसोहम् 29 हला मजणिए, अपुव्वं इमं राअडलं पविसन्तीए पसीददि मे हिअअं 30 जोसिणीए, अत्थिखु लोअप्पवादो। आआमि सुहं दुक्खं वा हिअअसमवत्था कहेदित्ति 31 सो सच्चो दाणिं होदु 32 जेदु भट्टा। जेदु भट्टिणी 33 भट्टा, संगीदे अब्भन्तरह्म34 मालविए, इदो पेक्ख। कदरा ते संगीदसहआरिणी रुच्चदि 35 अह्मो भट्टदारिआ। जेदु जेदु भट्टदारिआ 36 भट्टा, एसा अह्माणं भट्टदारिआ 37 सुणादु भट्टा। जोसो भट्टिणा विजअदण्डेहिं विदब्भणाहं वसीकरिअ बन्धणादो मोइओ कुमारो माहवसेणो णाम, तस्स इअं कणीअसी भइणी मालविआ णाम 38 कहं राअदारिआ इअं। चन्दणं खु मए पादुओवओएण दूसिदं 39 विहिणिओएग 40 सुणादु भट्टा। दाआदवसंगदे भट्टदारए माहसेणे तस्स अमच्चेण अज्जसुमदिणा अह्मारिसं परिअणं उज्झिअ गूढं आणीदा एसा 41 भट्टा, अदो वरं ण आणीमो 42 अञ्जकोसिईए विअ सरसंजोओ 43 णं सा एव्व 44 जदिवेसधारिणी अज्जकोसिई दुक्खेण विभावीअदि। भअवदि, णमो दे 45 तेण हि कहेदु भअवदी अत्तहोदीए उत्तन्तं दाव असेसं 46 भोदि, मा भग्राहि। अदिक्वन्तं खु तत्तहोदी कहेदि 47 अहो, हदो सुमदी 48 अहो खु भट्टिदारिआए इअं समवत्था संवुत्ता 49 किं णु खु संपदं भट्टा भणादि 50 भअवदि तुए अभिजणवदिं मालविअं अणाचक्खन्तिए असंपदं किदम् 51 किं विअ तं कारणम् 52 भट्टदारिए, दिट्टिआ भट्टिणा भट्टदारओ अद्धरज्जे पडिठ्ठं गमइस्सदि 53 एदं दाव बहु मण्णिदव्वं, जं जीविदसंसआदो मुत्तो 54 अह्महे, तदोमुहं एव्व णो हिअअं। सुणिस्सं दाव गुरुअणस्स कुसलाणन्तरं वसुमित्तस्स वुत्तन्तं। अदिघोरे खु पुत्तओ सेनावदिणा णिउत्तो
-
-
 
 55 इमिणा आससिदं मे हिअअं 56 भअवदि, परितुट्टह्मि। जं पिदरं अणुजादो मे वच्छओ 57 जयसेणे, गच्छ। इरावदिप्पमुहाणं अन्तेपुरांणं पुत्तस्स वुत्तन्तं णिवेदेहि 58 एहि दाव 59 इअं ह्मि 60 जं मए असोअदोहलएणिओए मालविआए पइण्णादं, तं से अभिजणं च णिवेदिअ मह वअणेण इरावदिं अणुणेहि। तुए अहं सच्चादो णविब्भंसिदव्वे त्ति 61 जं देवी आणवेदि। भट्टिणि, पुत्तविजअणिमित्तेण परितोसेण अन्तेउराणं आहरणाणं मज्जूसह्मि संवृत्ता 62 एदं किं अच्चरिअं। साहारणो खु ताणं मह अ अअं अब्भुदओ 63 भट्टिणि इरावदि, उण विब्णवेदि। सरिसं देवीए पहवन्तीए।तुह वअणं संकण्णिदं ण जुज्जदि अण्णहाकादुं त्ति 64 भअवदि तुए अणुमदा इच्छामि अज्जसुमदिणा पढमसंकप्पिदं मालविअं अज्जउत्तस्सपडिवादेदुं 65 इदं अज्जउत्तो पिअणिवेदणाणुरूवं पारितोसिअं पडिच्छदु 66 किं अवधीरेदि अज्जउत्तो 67 भोदि, एसो लोअव्ववहारो।सव्वो णववरो लज्जादुरो होदि 68 अह देवीए एव्व किदप्पणअविसेसं दिण्णदेवीसद्दं मालविअं अत्तभवं पडिग्गहीदुं इच्छदि 69 एदाए राजदारिआए अहिजणेण एव्व दिण्णो देवीसद्दो। किं पुणरुत्तेम70 मरिसेदु भअवदी।अब्भुदअकहाए उइदं ण लक्खिदं। जअसेणे, गच्छ दाव।कोसेअपत्तोण्णजुअल उवणेहि 71 जं देवी आणवेदि। देवि, एदम् 72 अज्जउत्तो दाणिं इमं परिच्छदु 73 अहो देवीए अणुऊलद। 74 जेदु भट्टिणी 75 जेदु भट्टा। इरावदी विण्णावेदि। जं उवआरादिक्वर्मेण तदा भट्टिणो अवरद्धा, तं सअं एव्व भत्तुणो आणुऊलं णाम मए आअरिदं। संपदं पुण्णमणोरहेण भत्तुणा पसादमेत्तेण संभावइदव्वेत्ति 76 णिउणिए, अवस्सं से सेविदं अज्जउत्तो जाणिस्सदि 77 अणुग्गहीदह्मि78 भअवदीए ण जुत्तं अह्मे परिच्चइदुं 79 अज्जउत्त, किं ते भूओ पिअं उवहरामि।
 
 —————
-
-
 
 **MALAVIKA AND AGNIMITRA**
 
@@ -2996,8 +2750,6 @@ Not so, please. Neglecting the works of such illustrious writers as Shasa, Saumi
 **MANAGER**—
 
 Ey! you have spoken without discernment. Consider;
-
-
 
 All is not good, merely because it is old; nor is a poem to be despised that it is new. Wise men accept anything after scrutinizing carefully; an ignorant person has his judgement guided by the opinion of others.(2)
 
@@ -3041,8 +2793,6 @@ Oh Bakulavalika! Friend, intently looking at this Queen's ring on which the seal
 
 *(Observing*) Your eyes are rightly fixed (on it). The forepart of your palm appears blossomed as it were,
 
-
-
 on account of this ring from which filaments of rays have burst forth.
 
 **SECOND**— Friend, where are you going?
@@ -3071,8 +2821,6 @@ on account of this ring from which filaments of rays have burst forth.
 
 **SECOND**— *(Smiling)* it is indeed befitting (her) childhood what next? Tell me.
 
-
-
 FIRST—
 
 What else? At present Malavika is being particularly guarded against coming within the range of the king's sight.
@@ -3092,8 +2840,6 @@ FIRST—
 Verily indeed, the heriditory lore is of great regard in the case of all. But mine is not a baseless estimation in respect of dancing. For,
 
 —
-
-
 
  Sages say that this is to the gods a sacrifice which is peaceful and pleasing to the eyes. By Rudra this has been divided into two in his own body united with that of Uma; in this, the behaviour of man arising from the three qualities is seen in the various sentiments; in many ways dancing is the one entertainment to people who are of different tastes.
  (**4**)
@@ -3122,8 +2868,6 @@ My good girl, let the queen be informed that she is very clever and intelligent.
 
 —
 
-
-
  Whatever thing expressive of feeling in the pantomimic representation is taught to her by me, that girl seems to teach me back by executing that in an excellent way.   (**5**)
 
 **BAKULA**
@@ -3131,8 +2875,6 @@ My good girl, let the queen be informed that she is very clever and intelligent.
 —
 
 (*To herself*) Methinks she has already eclipsed even Iravati. (*Aloud*) Your pupil has now acheived
-
-
 
 her object, as her teacher is so much satisfied with her.
 
@@ -3158,8 +2900,6 @@ MISRA-VISHKAMBHAKA
 
 **KING**—*(Looking at the minister who has read the letter)*
 
-
-
 Vahataka, what course does the king of Vidarbha take up?
 
 **MINISTER**— His own ruin, my lord.
@@ -3179,8 +2919,6 @@ This is the reply written by him now— "I have been ordered by your honour thus
 **MINISTER**—As my lord commands.
 
 **KING**—Or rather, what do you think of it?
-
-
 
 **MINISTER—**
 
@@ -3234,8 +2972,6 @@ How is that?
 
 Very good, friend. A clever beginning. I am hopeful of this enterprise, although success-in it is hard to achieve. For—
 
-
-
  He alone, who has the help of another, is able to accomplish an object attended with obstacles; a person although endowed with eyes, does not see an object in the darkness, without the help of a lamp.
 **(9)**
 
@@ -3276,8 +3012,6 @@ As my lord bids. (*Exit and re-enter with them*) This way, this way, both of you
 Great indeed is this splendour in man's form. For**—**
 
  Advancing towards the king, with the person that waits at the throne, my entrance being permitted by the guard employed at the door, I am, as it were, kept back without the utterance of any word, by the lustre
-
-
 
 of this (king) which repels my sight. **(12)**
 
@@ -3333,8 +3067,6 @@ Just wait. The queen will suspect partiality in this matter. Therefore it is pro
 
 Your highness speaks aright.
 
-
-
 **BOTH THE TEACHERS—**
 
 As it pleases my lord.
@@ -3387,8 +3119,6 @@ Venerble lady, I salute you.
 
 May you be for a hundred years the husband of Dharini and the Earth, whose productions \[(1) son (2) vegetables and minerals\] are excellent and whose patience is worthy of them. **(15)**
 
-
-
 **DHARINI—**May my lord be victorious !
 
 **KING—**Welcome to the queen. (*Looking at the Parivrajika*) Venerable lady, please take your seat. (*All sit down*)
@@ -3433,8 +3163,6 @@ I hope your ladyship has seen the excellence of the suppleness of the limbs of t
 
 **PARI.—**Quite so.
 
-
-
 **KING—**
 
 Then what else is now to be shown by way o proof by these?
@@ -3474,8 +3202,6 @@ Queen, it is interpreted thus**—**
 
 **GANA.—**Surely, this only is the meaning of the queen's words. May you now, listen to this necessitated by the occasion.**—**
 
-
-
  The person, who is afraid of a contest seeing that he has secured a worthy patronage, who bears the insults of his rival and whose learning is only for (earning) a livelihood,— him (people) call a merchant who has his learning as a comodity for sale. **(**17**)**
 
 **QUEEN—**
@@ -3513,8 +3239,6 @@ Surely, with reason only (she is angry). Her own side is to be supported. (*Look
 Queen**,**please listen. People interpret it thus. Hence, now**—**  
 
  In this contest, I shall exhibit my skill in impartinginstructions in the art of dancing. If you do not permit
-
-
 
 my doing so. I consider myself forsaken by you. **(19)**
 
@@ -3574,8 +3298,6 @@ Let it be so. *(Rises up. Ganadasa looks at Dharini*).
 
 *(The two teachers move to go).*
 
-
-
 **PARI.—**Just come here please,
 
 **BOTH TEACHERS—**
@@ -3614,8 +3336,6 @@ Queen**,** let us form the audience for it.
 *(Exeunt omnes)*
 
 **HERE ENDS THE FIRST ACT**
-
-
 
 **ACT II**
 
@@ -3663,9 +3383,6 @@ bee. Therefore look now, cautiously
 
  My heart feared a disappointment with regard to her beauty when she was (seen) in the portrait. Now I  
 
-
-
-
  think the person by whom she was painted, is of a flacid concentration. (2)
 
 **GANA**.— My child, leave off timidity and be composed.
@@ -3683,8 +3400,6 @@ bee. Therefore look now, cautiously
 **KING**— Friend, my heart too says the same. Surely by her,—
 
  When she pantomimically demonstrated the meaning of these words-"O lord, know this person to be in love with you" of the song by pointing out her own self; I have been addressed under the pretext of praying to a fair youth, not finding any (other) way to express her love owing to the proximity of Dharini. (5)
-
-
 
 (*Malavika prepares to go at the close of the song*)
 
@@ -3712,8 +3427,6 @@ bee. Therefore look now, cautiously
 
  The meaning was well indicated through her limbs with expressions held within them; the placing of her
 
-
-
 foot was in keeping with the time;she was merged in sentiments; her acting with the help of the branch-like hand, was very gentle. In the representation of its varieties, each guesture prompted another. The harmony of the emotions was quite exquisite through the subject matter.(8)
 
 **GANA**.— How does the king think ?
@@ -3737,8 +3450,6 @@ foot was in keeping with the time;she was merged in sentiments; her acting with 
  The smiling face of that long-eyed lady, beautiful with the teeth slightly revealed, is seen as if it were a blossoming lotus with filaments not fully visible. (10)
 
 **GANA**.— O great Brahmin, this is not the first demonstration. Otherwise, how could we omit worshipping you worthy of worship?
-
-
 
 **VIDU**.— I have been like a stupid chataka bird desiring to drink water, when the sky is resounding with dry clouds. Or, the class of ignorant persons indeed depends upon the satisfaction of the learned. As her ladyship has spoken well, hence I offer this present to this lady.
 
@@ -3769,8 +3480,6 @@ foot was in keeping with the time;she was merged in sentiments; her acting with 
 (*Behind the curtain*) **A BARD**— May the king be victorious ! It is mid-day. For—
 
  The swans are with closed eyes under the shade of the leaves of the lotuses of the oblong pond. Pigeons shun,
-
-
 
 out of familiarity with the sloping roofs, the palace on account of the excessive heat. The peacock moves round the revolving fountain, desirous of drinking the water drops thrown out. And the Sun, full with all his rays is ablaze like yourself full with all kingly virtues. (12)
 
@@ -3804,8 +3513,6 @@ out of familiarity with the sloping roofs, the palace on account of the excessiv
 
 **VIDU**.— My liesure is at your disposal. But her ladyship (Malavika) is such that her sight depends on others, like the moonlight obstructed by a row of clouds. You
 
-
-
 again, are like a bird, eager to get meat bnt timid, and only hovering round a slaughter-house. Therefore I would like you seek the accomplishment of your task without being impatient.
 
 **KING**— How shall I be without impatience?
@@ -3832,8 +3539,6 @@ ACT III
 
 **MADHU**.— The citron is indeed closeby. Tell me, after seeing the instruction of the two dancing masters disputing with one another, which of them was praised by her reverence.
 
-
-
 **SAMA**.— It is reported that both of them are learned and skilled in demonstration. But, the instruction imparted to Malavika was praised on account of her superior excellence.
 
 **MADHU**.— How goes the gossip relating to Malavika?
@@ -3858,8 +3563,6 @@ END OF THE INTERLUDE
 
 **VIDU**.— No more lamenting having cast off all your fortitude. Bakulavalika, the friend of her ladyship Malavika,
 
-
-
  was seen by me. The message sent by you was delivered to her.
 
 **KING**— What did she say to that?
@@ -3882,8 +3585,6 @@ END OF THE INTERLUDE
 
 **KING**— Friend, women are shrewd by nature. How will not your friend (Iravati) mark me as one with a heart
 
-
-
 attached to another, although I might be caressing her? Therefore, I see—
 
  It is better to reject the request, fitting although it be; for, many reasons for declining it are seen.In the case of proud women, the mode of attention although beter than before, is of no avail, if it is devoid of sincere love. (3)
@@ -3903,8 +3604,6 @@ attached to another, although I might be caressing her? Therefore, I see—
 **KING**— (*In astonishment*) Here, I see—
 
  The *alaktaka* dye, on the bimba-like lower lip is transcended in excellence by the splendour of the red Asoka; the dark whitish-red Kurabaka has out-beaten the *Viseshaka* painting on the face; the *tilaka* mark (on the
-
-
 
 forehead) is surpassed by the tilaka flowers which have the collyrium of the bees adhering to them : (thus) Vernal beauty seems to be scorning women's mode of decorating their faces.(5)
 
@@ -3927,8 +3626,6 @@ forehead) is surpassed by the tilaka flowers which have the collyrium of the bee
 **KING**— It is now possible to sustain my life.
 
  Learning from you that my beloved is nearby, my
-
-
 
 afflicted heart has heaved a sigh of satisfaction, just like the heart of a thirsty traveller on inferring that a river covered by trees is near, from the cry of the *sarasa* birds.(6)
 
@@ -3955,8 +3652,6 @@ afflicted heart has heaved a sigh of satisfaction, just like the heart of a thir
 **KING**— By just this much, I do not consider you as rightly conjecturing. For,—
 
  The Malayan breeze, bearing the *Kurabaka* pollenand followed by the thin drops of water of the tender
-
-
 
 leaves the folds of which are just opening, does produce in the mind a longing even without any cause.(9)
 
@@ -3990,8 +3685,6 @@ leaves the folds of which are just opening, does produce in the mind a longing e
 
 **BAKULA**.— (*Sitting*) Friend, now you have been employed for a worthy duty. Therefore stretch one foot, so that I may dye it with *alaktaka* and deck it with the anklet.
 
-
-
 **MALA**.— (*To herself*) O heart, do not feel happy that this good fortune-has come up. How shall I extricate myselfnow ? or else, this very thing will now be my funeral decoration.
 
 **BAKULA**.— What are you considering ? The queen is indeed anxious with regard to the appearance of buds on the golden Asoka tree.
@@ -4017,8 +3710,6 @@ leaves the folds of which are just opening, does produce in the mind a longing e
 **VIDU**.— Her ladyship will strike you guilty of an offence.
 
 **KING**— With a bowed down head, I accept the words of a Brahmin who foresees the fulfilment of my desires.
-
-
 
 (*Then enter Iravati in an intoxicated state and an attendant*)
 
@@ -4050,8 +3741,6 @@ leaves the folds of which are just opening, does produce in the mind a longing e
 
 **NIPU**.— Here, under the shade of the Asoka tree, Bakulavalika has been decorating the foot of Malavika.
 
-
-
 **IRA**.— (*Showing fear*) This is not the place for Malavika. How do you view this matter ?
 
 **NIPU**— I think that Malavika has been appointed to the office of offering *dohada* to the Asoka, by the queen whose foot is paining, as she had a fall from the swing. Otherwise how would the queen permit ber attendant to wear the pair of anklets which was put on by herself ?
@@ -4077,8 +3766,6 @@ leaves the folds of which are just opening, does produce in the mind a longing e
 **KING**— Friend, look—
 
  Now has come to me an excellent opportunity for
-
-
 
 service to fan her foot, wet with red lac dye, with the breath of my mouth.(13)
 
@@ -4122,8 +3809,6 @@ service to fan her foot, wet with red lac dye, with the breath of my mouth.(13)
 
 **BAKULA.**— I am surely Bakulavalika, whose fragrance
 
-
-
 (help) increases when pressed (more and more).
 
 **KING**— Very good, Bakulavalika, very good !
@@ -4152,8 +3837,6 @@ service to fan her foot, wet with red lac dye, with the breath of my mouth.(13)
 
  There would be no delight for me even in a union. that is being accomplished, of two lovers one of whom is indifferent and the other ardent; far better would be
 
-
-
 even the destruction of the physical bodies of an equally loving couple having no hope of meeting each other. (15)
 
 (*Malavika, wearing the tender leaves as her ear-ornament, stretches her foot towards the Asoka tree*)
@@ -4181,8 +3864,6 @@ even the destruction of the physical bodies of an equally loving couple having n
 **VIDU**— Bakulavalika, why was this lady not prevented from doing such an immodest act, (at least) by you who knew her purpose? (*Malavika shows fear*)
 
 **NIPU**.— Queen, see what the worthy Gautama has started?
-
-
 
 **IRA**.— How else would that wretch of a Brahmin behave?
 
@@ -4214,8 +3895,6 @@ even the destruction of the physical bodies of an equally loving couple having n
 
 **VIDU**.— What else ? Only to take to our heels.
 
-
-
 **IRA.**— Bakulavalika, you have begun well. Now make my lord gratified of his request (to you).
 
 **BOTH**— Be pleased, O queen ! Who are we (two) to acceptthe king's love ?  
@@ -4238,8 +3917,6 @@ even the destruction of the physical bodies of an equally loving couple having n
 **IRA.**— Rogue, you are with a faithless heart.
 
 **KING**— In me, familiar with you, O dear one, let your coutempt indicated with the word 'Rogue' rest. But don't you give up your anger although entreated by your girdle fallen at your feet? (20)
-
-
 
 **IRA.**— Even this wretched thing sides with you. (*Taking up the girdle, wishes to strike the king with it.*)
 
@@ -4269,8 +3946,6 @@ even the destruction of the physical bodies of an equally loving couple having n
  I, with my mind attracted by my beloved, consider (this) rejection of my supplication as a service; for, it is here by possible to ignore that angry (Iravati), full of love for me. (23) (*Exit with his friend*)
 
 **END OF THE THIRD ACT.**
-
-
 
 ACT IV
 
@@ -4306,8 +3981,6 @@ ACT IV
 
 **VIDU**.— Please listen. The Parivrajika told me,—"It is reported that her ladyship Iravati went yesterday to
 
-
-
 ask the queen whose foot has been injured, if there was any relief.
 
  KING— Then?
@@ -4335,8 +4008,6 @@ VIDU.— "Then, being continuously pressed by her, she acquainted her with your 
  VIDU.— (*Considering*) There is a way for this.
 
  KING— Howplease?
-
-
 
  VIDU.— (*Casting his look all round*) Some one may bear un-noticed. I will whisper it in your ear. (*Gettingclose to him, whispers*) Thus, thus. (*Communicates it to him*.)
 
@@ -4372,8 +4043,6 @@ Here has come His Majesty, the Lord of Vidisa.
 
  O sweet-voiced one, you should not cause pain to me and to your foot which is un-used to be without anklets and which is resting on a golden stool. (3)
 
-
-
  QUEEN— Victory to my husband !
 
  PARI.— Prosperity to the king !
@@ -4408,8 +4077,6 @@ Here has come His Majesty, the Lord of Vidisa.
 
  KING— Do not be alarmed. The bite may be even without poison.
 
-
-
  VIDU.— How shall I not be alarmed ? My limbs are experiencing a convulsive sensation.
 
 (*Shows the effect of poison*)
@@ -4439,8 +4106,6 @@ Here has come His Majesty, the Lord of Vidisa.
  (*Entering*) PORTRESS— Hail, my lord ! Dhruvasiddhi sends word—“Something bearing the impression of a serpent has to be provided for the process of the 'Udakumbha.’ Let such a thing be secured”
 
  QUEEN— This is a ring bearing the seal of a serpent. Give it into my hands afterwards. (*Gives the ring. The portress, taking it, starts to go*)
-
-
 
  KING— Jayasena, bring soon the news of the success in the business (undertaken).
 
@@ -4480,8 +4145,6 @@ Here has come His Majesty, the Lord of Vidisa.
 
  (*Entering*) VIDUSHAKA— Prosperity to you ! Your auspicious affairs have been accomplished.
 
-
-
  KING— Jayasena, you too attend to your business.
 
  PORTRESS— As my lord bids.(*Exit*)
@@ -4507,8 +4170,6 @@ Here has come His Majesty, the Lord of Vidisa.
  For, it is not by virtue of intellect only that one sees (the way of accomplishing the object of friends; the subtle path leading to the success of a business is perceived even by affection. (6)
 
  VIDU.— You please hurry up. After stationing Malavika with her friend in the '*Ocean house*,' I have come to meet you.
-
-
 
  KING— I will do her honour. Lead me.
 
@@ -4544,8 +4205,6 @@ Here has come His Majesty, the Lord of Vidisa.
 
  VIDU.— Did Your Highness hear ? Her ladyship says that
 
-
-
 you were not found so (hand some) in person as in the picture. In vain you bear the pride of youth like a casket holding a treasure of jewels.
 
  KING— Friend, women, although full of curiosity, are bashful by nature. Look—
@@ -4569,8 +4228,6 @@ you were not found so (hand some) in person as in the picture. In vain you bear 
 VIDU.— Now, get ready to propitiate her.
 
 MALA.— The revered Gautama is waiting on her just here.
-
-
 
 (*Malavika desires to turn her face to another side*)
 
@@ -4602,8 +4259,6 @@ MALA.— The revered Gautama is waiting on her just here.
 
  KING— What is the good of an answer ? My own self has been given by me to your friend with the fire of love as witness ; I am not to be served by her ; (on the other hand), I will serve her in private. (12)
 
-
-
  BAKULA.— I am obliged.
 
  VIDU.—(*Moving about, hurriedly*) Bakulavalika, here is a deer destroying the sprouts of the young Asoka plant. Come along ; let us drive it off.
@@ -4632,8 +4287,6 @@ MALA.— The revered Gautama is waiting on her just here.
 
  Therefore, let this person in love with you since long, be favoured. (*Embraces her. Malavika avoids him*)
 
-
-
  KING— (*To himself*) Charming, indeed, is the advent of the influence of love on young maidens. For,—
 
  She trembles and obstructs my hand and fingers active in the work (of untying) her girdle ; she brings both her hands to the state of a covering of the breasts, while being embraced by force ; she turns away her face, with eyes endowed with (fair) eyelashes, as I raise it to kiss ; yet, even though under some pretext, she does accord to me the joy of the fulfilment of my longing. (15)
@@ -4659,8 +4312,6 @@ MALA.— The revered Gautama is waiting on her just here.
 (*Both move along*)
 
  (*Entering*) MAID— May your Highness be victorious ! The queen sends word— "This is not the occasion to show my jealousy. Yet, in order to enhance (your) respect, to be sure, that Malavika, together with her friend,
-
-
 
 was put in shackles. If you approve of doing what is agreeable to my husband, I will do it. Tell me what is desirable to you."
 
@@ -4688,8 +4339,6 @@ was put in shackles. If you approve of doing what is agreeable to my husband, I 
 
  VIDU.— (*Waking up suddenly*) Alas ! Alas ! a serpent has fallen on me !
 
-
-
  KING— (*Going near him at once*) Don't fear friend, don't fear.
 
  MALA.— (*Following him*) My lord, do not go out all atonce.‘A serpent’— he says.
@@ -4716,8 +4365,6 @@ was put in shackles. If you approve of doing what is agreeable to my husband, I 
 
  KING— Needless anger is incompatible with you; for,— O fair-bodied one ! When has your face become the
 
-
-
 object of anger, without cause ? Tell me, how at all will the night be with the moon's orb dimmed by the planet (Rahu) when it is not a full-moon day? (16)
 
  IRA.— ‘Needless (anger) !'—rightly observed by my husband. When our good-fortunes have been transferred to another, if I should still get angry, then I would surely become an object of ridicule.
@@ -4741,8 +4388,6 @@ object of anger, without cause ? Tell me, how at all will the night be with the 
  KING— (*To himself*) How shall I liberate myself from this difficult situation ?
 
  (*Entering*) PORTRESS— My lord, Princess Vasulakshmi,
-
-
 
 while running after her (play) ball, was sorely frightened by a tawny monkey ; she is (now) reposing on the queen's lap, trembling like a tender leaf (caught) in a strong wind and does not regain composure even slightly.
 
@@ -4774,8 +4419,6 @@ MALA.— Friend, my heart shudders at the thought of the queen. I do not know wh
 
 END OF THE FOURTH ACT.
 
-
-
 ACT V.
 
 (*Then enter the female gardener*)
@@ -4793,8 +4436,6 @@ ACT V.
  SARA.— Seated on a seat in the Auspicious Hall, she is listening to the letter sent by her brother Virasena from the Vidarbha country, which is being read out to her by the clerks.
 
  MADHU.— What, again, is the news of the king of Vidarbha ?
-
-
 
  SARA.— It is reported that the Vidarbha-king has been subjugated by the king's victory-securing army headed by Virasena; his cousin Madhavasena has been released; and a messenger has been sent by him to the king, with a present of very costly jewels, vehicles and servants consisting mostly of accomplished girls.
 
@@ -4814,8 +4455,6 @@ END OF THE INTERLUDE
 
 SECOND— The victory achieved over the Krathakaisikas by you two,— viz. (1) you, who have taken away the royal glory from the Vidarbha-king through your
 
-
-
 avenging army, and (2) Vishnu (Krishna), who carried away Rukmini from the Vidarbha-king (her father), by force with bis (four) arms stout like clubs ;–that victory has been made the subject of a panegyric by the godly poets out of their love for heroism. (2)
 
  PORTRESS— Here, this very way, comes the king, whose setting forth is indicated by the shouts of victory. I, too, just moving away from his direct path, will remain concealed behind the pillar. (*Stands aside*)
@@ -4831,8 +4470,6 @@ avenging army, and (2) Vishnu (Krishna), who carried away Rukmini from the Vidar
  KING— Friend, in view of the previous conduct of this Dharini in conformity with my wishes, this is quite probable.
 
  PORTRESS— (*Going near*) Hail my lord ! The queen sends word ‘May my endeavour be rendered fruitful by beholding the blossoms of the golden Asoka, together with me.'
-
-
 
  KING— She is *there* alone, I believe.
 
@@ -4859,8 +4496,6 @@ avenging army, and (2) Vishnu (Krishna), who carried away Rukmini from the Vidar
  KING— (*With joy*) Friend, see—
 
  Here is the queen waited upon by my beloved, rising up to receive me out of civility, just likeEarth
-
-
 
 attended upon by the Lakshmi of king-ship who has forgotten (to hold) the lotus in her hand.(6)
 
@@ -4892,8 +4527,6 @@ attended upon by the Lakshmi of king-ship who has forgotten (to hold) the lotus 
 
  VIDU.— Sir, being steady, look at this, who is youthful.
 
-
-
  QUEEN— Whom ?
 
  VIDU,— Your ladyship, (I mean) the splendour of the blossoms of the golden Asoka tree. (All sit down)
@@ -4919,8 +4552,6 @@ attended upon by the Lakshmi of king-ship who has forgotten (to hold) the lotus 
  BOTH— (*Bowing down*) Victory to the king ! Victory to the queen! (*Both are seated by the king's orders*)
 
  KING— In which art are both of you trained ?
-
-
 
  BOTH— My lord, we are versed in music.
 
@@ -4958,8 +4589,6 @@ attended upon by the Lakshmi of king-ship who has forgotten (to hold) the lotus 
 
  BOTH— The Revered Kausiki, dressed as an ascetic, is recognised with difficulty. Divine lady, salutations to you !
 
-
-
  PARI.— May good things befall you both !
 
  KING— How ? Is this a group of the friends of Your Reverence?
@@ -4996,8 +4625,6 @@ attended upon by the Lakshmi of king-ship who has forgotten (to hold) the lotus 
 
  PARI.— Then Sumati,—
 
-
-
  Desirous of rescuing this princess who was frightened at the attack by the strangers, in that hard circumstance, paid the debt he owed to his master with his dear life, devoted as he was to his master. (11)
 
  FIRST— Oh, Sumati died !
@@ -5026,8 +4653,6 @@ PARI.— Then, before I, who had fainted, regained consciousness, this (Malavika
 
  PARI.— Heaven forbid ! With reason enough, I assumed hard-heartedness.
 
-
-
  QUEEN— What is that reason ?
 
  PARI.— When her father was living, she was fore-told in my presence, by a pious and unfallible fortune-teller, who had come on a pilgrim's tour, that after undergoing servitude for just a year, she will be married to a suitable husband. Seeing that that unfailing prophesy was being fulfilled by her servitude at your feer, I think I have done well in waiting for the (end of the prescribed) period of time.
@@ -5048,8 +4673,6 @@ KING— Maudgalya, I wish now to establish a divided Government between those ho
 
  (*Entering*) CHAMBER.— Victory to Your Highness ! My lord, the minister submits—‘Your Highness's idea is a
 
-
-
 happy one. The opinion of the council of ministers also is the same. For,—
 
  Just as two horses of a chariot bearing the yoke that is equally divided and having no affectedness being mutually restrained, remain under the control of the driver ; so also those two kings, bearing royalty divided between them, and having no prejudices being mutually restrained remain under the control of Your Highness, their over-lord. (14)
@@ -5061,8 +4684,6 @@ happy one. The opinion of the council of ministers also is the same. For,—
  QUEEN— (*To herself*) Oh, my mind is drawn towards that very thing. I will just hear, after the welfare of the elders, the news of Vasumitra. My dear boy has been employed on a very terrible task, indeed, by the General,
 
  KING— (*Sitting and taking the letter in a polite way, reads*) “Hail to you ! From the sacrificial ground the Commander-in-chief Pushpamitra informs his long-lived son Agnimitra who is in Vidisa, after embracing him affectionately, thus— 'Be it known to you. The horse, which was let loose unbridled by me. consecrated for the Rajasuya sacrifice after ordering as its protector Vasumitra surrounned by hundreds of Princess,
-
-
 
 with a period of one year being fixed for it to return,—. that horse, while moving on the Southern bank of the Indus river, was attacked by a Yavana Cavalry. Thereupon, came up a fierce fight between the two.
 
@@ -5087,8 +4708,6 @@ KING— Maudgalya, the young elephant has imitated the lord of tuskers,—is it 
 CHAMBER.— My lord, this Prince,―
 
  Whose lofty and irresistible father *you* are, like the thigh-born one is of the fire that consumes water, does not produce surprise to our mind by such display of heroism. (17)
-
-
 
  KING— Maudgalya, let all prisoners inclusive of the brother-in-law of Yajnasena, be set free-
 
@@ -5120,8 +4739,6 @@ CHAMBER.— My lord, this Prince,―
 
  VIDU.— Lady, this is the custom of the world. Every
 
-
-
 new bridegroom is affected by bashfulness. (*The king looks at the Vidushaka*).
 
  VIDU.— Then does Your. Highness wish to accept Malavika after the title of 'Queen' is bestowed on her as a mark of great affection, by the queen herself ?
@@ -5152,8 +4769,6 @@ new bridegroom is affected by bashfulness. (*The king looks at the Vidushaka*).
 
  Virtuous wives, loving their husbands, oblige them even by (allowing) a rival wife, For, the rivers flowing into the ocean lead along with themselves the water of other rivers also into the sea. (19)
 
-
-
 (*Entering)* NIPUNIKA— Victory to my lord ! Iravati begs to say— 'On that occasion, when I offended Your Majesty by overstepping all civility, I myself behaved in a way favourable to you. At present, by Your Highness gratified of your desire, I should be honoured with just a favourable disposition?
 
  QUEEN— Nipunika, my lord will surely bear in mind her service.
@@ -5182,9 +4797,5 @@ END OF THE FIFTH ACT.
 
 Here Ends the Malavikagnimitra
 
-
-
-
 \]
-
 

@@ -16,33 +16,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1OTA3MjUzMDE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
-
-[TABLE]
-
-
 
 **INTRODUCTION**
 
@@ -62,8 +40,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1OTA3MjUzMDE
 
  **XI.** While guarding the sacrifice of Visvamitra, Rama
 
-
-
 and Lakshmana kill Tataka and others. Rama and his brothers are married. Rama vanquishes Parasurama, the brahmin warrior.
 
  **XII.** Rama is exiled. Dasaratha dies, and Sita is abducted by Ravana who is later killed by Rama in a momentous fight.
@@ -75,8 +51,6 @@ and Lakshmana kill Tataka and others. Rama and his brothers are married. Rama va
  **XV.** Sita delivers twin boys. Rama prepares to perform an Asvamedha. The horse is let loose but haltered by Sita’s sons Lava and Kusa. Rama comes to fight. But Valmiki presents Sita who establishes her chastity by a terrible ordeal which silences all scandal and she is taken back by her husband. There is a curious dialogue between Death and Rama. Rama ascends to Heaven.
 
  **XVI.**(1) Kusa is elected king by his brothers and cousins (seven in all) and Kusavati is assigned as his capital. (2–3) The eight princes— their rule, charity etc.(4) Once in the dead of night, Kusa, lying awake on his bed, beholds the guardian deity of Ayodhya. (5) She hails victory and salutes him. (6–8) Kusa, astonished at her appearance there, asks a few questions about her. (9–22) In reply she informs him that she is the presiding deity of his ancestral capital Ayodhya, pictures to him the deplorable and deserted state of the city and requests him to return to the same city. (23) Kusa consents to do so and she disappears. (24) He announces the event in the assembly
-
-
 
 next day. (25) Kusa makes over Kusavati to Brahmins and sets out to Ayodhya with all the army. (26–34) Description of the army and the march towards Ayodhya. (35) He arrives at the bank of Sarayu. (36–37) and encamps his exhausted forces at the outskirts of the city. (38) Ayodhya is made quite new by artisans. (39) The city is duly worshipped. (40) The king enters the palace and assigns different mansions to all his followers. (41–42) The splendour of Ayodhya. (43–53) Description of summer. (54) The king’s desire to sport in the Sarayu (river) in the company of his wives. (55–67) The water-sport of the women folk. (68–71) The king joins them in the sport. (72) The celestial armlet of Kusa which he had obtained from his father drops down and sinks in the water during the sport. (73) The king finishes the sport and afterwards finds his arm without the ornament. (74–75) Distressed at that, he orders for a search of the entire river by divers, (76) who return unsuccessful and inform him that Kumuda, the Naga king living in a pool there, must have taken it. (77) Thereupon Kusa prepares to shoot the Garutmata missile at the Naga, (78–80) when the Naga comes out of the pool having in front of him a maiden and holding the ornament in his hand; seeing this Kusa withdraws the missile. (81–86) Kumuda salutes him, begs his pardon, explains to him how his sister out of curiosity took the ornament while it dropped down, returns it to him and offers along with it the maiden, *i.e.*, his sister, in marriage to him as an atonement for her offence. (87–88) King Kusa marries her. Both he and Kumuda live as friends thereafter.
 
@@ -90,8 +64,6 @@ Here the poem ends quite abruptly.
 
 ** Kalidasa— His date:—** There are only a few tantalising legends which have to speak about the life and date of our poet, though none of the legends is reliable. If one legend
 
-
-
 makes him the contemporary of Bhavabhuti, another makes him the court poet of Bhojaraja of Dhara. But the tradition that he was one of the Nine Jems¹ of Vikramaditya’s court seems to have some truth about it. No doubt some scholars have rejected even this as totally baseless; but many are inclined to believe that Kalidasa’s patron must have been Vikramaditya. It is not unlikely that Kalidasa has paid his tribute to this patron of his, in the title of his play Vikramorvasiam. But as there have been several Vikramadityas, this tradition by itself does not help to fix the date of Kalidasa. One king Vikramaditya founded the era known after him which commences from 57 B.C. A good many scholars are inclined to think that it is very likely that this king was our poet’s patron. In support of this view, among other arguments, Mr. Pandit points out that Agnimitra, son of Pushpamitra who founded the Maurya dynasty in 160 B.C., is the hero of the Malavikagnimitra, being a historic person and a contemporary of our poet. Internal evidences are not wanting to strengthen this. The law of inheritence as detailed in the Sakuntalam Act VI, that the property of a person who died childless would go to the king, was current in or about the first century B.C. Moreover, the Bauddha poet Asvaghosha who is placed in 78 A.D. has in all likelihood borrowed his ideas from Kalidasa, as the latter has been recognised as an original poet borrowing his subjects only from ancient authors like Valmiki. These tend to show that Kalidasa lived in the first century B.C. The date is approximate, as it has not yet been finally accepted. That is why, if Dr. Peterson holds that “Kalidasa stands near the beginning of the Christian era, if indeed, he does not overtop it,”Dr. Kern places him in the latter half of the 6th cent. A.D.
 
 ** His Life**— There is a legend according to which Kalidasa was a boor by birth, but was somehow married to an obstinate princess who abandoned him finding that he had no education at all. Thereupon he devoted himself to the worship of Kali who blessed him with literacy and poesy.
@@ -101,15 +73,11 @@ makes him the contemporary of Bhavabhuti, another makes him the court poet of Bh
  1. धन्वन्तरिक्षपणकामरसिंहशङ्कुवेतालभट्टघटकर्परकालिदासाः।  
    ख्यातो वराहमिहिरो नृपतेः सभायां रत्नानि वै वररुचिर्नव विक्रमस्य॥
 
-
-
 Thus he became Kali-dasa and a gifted poet by the favour of Kali. He then returned to his wife and she put him the question ‘अस्ति कश्चित् वागर्थः’in reply to which it is stated that he composed three stanzas beginning with the three words and that he later composed the three Kavyas, 1. Kumarasambhava 2. Meghaduta and 3. Raghuvamsa, with one of those words at the commencement of the first verses of them respectively. The legend is no doubt interesting but not reliable.
 
  We can gather some information about Kalidasa’s life from his own writings. His repeated reference to Ujjain indicates that he must have spent at least a part of his life in the city. His dwelling upon the charms of that city in his Meghadutam makes clear that he loved it much. His description of the Tour about the whole of India and even into the regions beyond the borders of India, in the Raghuvamsam, makes any one believe that Kalidasa himself must have made such a grand tour. Mountains seem to have impressed him deeply. As acutely observed by a critic, he is the only Sanskrit poet who has described a certain flower which is exclusively Kasmirian.
 
  There cannot be any doubt that Kalidasa had extensive education and that he had mastered rhetoric, dramatic theory and the science of grammar ‘the chief of all sciences.’Besides the knowledge of law and astronomy, he seems to have had proficiency in the profound and subtle systems of philosophy. If his Kumarasambhavam is shivaistic, his Raghuvamsam is Vishnuite. If the hymn to Vishnu in the latter work is expressing Vedantic monism, the hymn to Brahma in the former expresses the dualism of the Samkhyas. The Buddhism and Yoga doctrines are also mentioned here and there. Therefore we may observe that,
-
-
 
 in matters of religion and philosophy, Kalidasa was of an unbiased mind.
 
@@ -135,8 +103,6 @@ Like blossom-clusters, honey sweet?”
  “उपमा कालिदासस्य”has been a very common saying in appreciation of Kalidasa’s abundant and homely similes. Jayadeva describes him as ‘the grace of poetry’—‘कालिदासो विलासः’.It is this grace of Kalidasa’s composition that induced the celebrated critic Schlegel assign for him a very high position amongst the galaxy of the “Sons of Song.”
 
  Kalidasa is undoubtedly “the brightest star in the firmament of Indian Poetry.”‘The richness of his creative fancy and his skill in expressing tender sentiment and sympathy with nature gives him a very high place among the world’s dramatic poets.’
-
-
 
 **॥श्रीः॥**
 
@@ -178,8 +144,6 @@ Like blossom-clusters, honey sweet?”
 [^5]: "योगप्रवेशः "
 
 [^6]: "दृश्यते"
-
-
 
 **का त्वं शुभे कस्य परिग्रहो वा किं वा मदभ्यागमकारणं ते।  
 आचक्ष्वमत्वा वशिनां रघूणां मनः परस्त्रीविमुखप्रवृत्ति॥८॥**
@@ -239,8 +203,6 @@ Like blossom-clusters, honey sweet?”
 
 [^20]: "पट्ट्यः"
 
-
-
 **कालान्तरश्यामसुधेषु नक्तमितस्ततो रूढतृणाङ्कुरेषु।  
 त एव मुक्तागुण[^21]शुद्धयोऽपि हर्म्येषु मूर्छन्ति न चन्द्रपादाः॥१८॥**
 
@@ -282,8 +244,6 @@ Like blossom-clusters, honey sweet?”
 बभौ बलौघः शशिनोदितेन[^26] वेलामुदन्वानिव नीयमानः॥२७॥**
 
 [^26]: "उद्गतेन"
-
-
 
 **तस्य प्रयातस्य वरूथिनीनां पीडामपर्याप्तवतीव सोढुम्[^27]।  
 वसुंधरा विष्णुपदं द्वितीयमध्यारुरोहेव रजश्छलेन॥२८॥**
@@ -339,8 +299,6 @@ Like blossom-clusters, honey sweet?”
 **अथोपशल्ये रिपुमग्नशल्यस्तस्याः पुरः पौरसखः स राजा।  
 कुलध्वजस्तानि चलध्वजानि निवेशयामास बली बलानि॥३७॥**
 
-
-
 **तां शिल्पिसंघाः प्रभुणा नियुक्तास्तथागतां[^39] संभृतसाधनत्वात्।  
 पुरं[^40] नवीचक्रुरपां विसर्गान्मेघा निदाघग्लपितामि[^41]वोर्वीम्॥३८॥**
 
@@ -395,8 +353,6 @@ Like blossom-clusters, honey sweet?”
 उद्दण्डपद्मं गृहदीर्घिकाणां नारीनितम्बद्वयसं बभूव॥४६॥**
 
 [^52]: "व्यमुञ्चत्"
-
-
 
 **वनेषु[^53] सायंतनमल्लिकानां[^54] विजृम्भणो[^55]द्गन्धिषु कुड्मलेपु।  
 प्रत्येकनिक्षिप्तपदः सशब्दं[^56] संख्यामिवैषां भ्रमरश्चकार॥४७॥**
@@ -461,8 +417,6 @@ Like blossom-clusters, honey sweet?”
 
 [^70]: "°मव°"
 
-
-
 **सा तीरसोपानपथावतारादन्योन्यकेयूरविघट्टिनीभिः[^71]।  
 सनूपुरक्षोभपदाभिरासीदुद्विग्न[^72]हंसा सरिदङ्गनाभिः॥५६॥**
 
@@ -513,8 +467,6 @@ Like blossom-clusters, honey sweet?”
 श्रोत्रेषु संमूर्च्छति रक्तमासां[^82] गीतानुगं वारिमृदङ्गवाद्यम्॥६४॥**
 
 [^82]: "मूर्च्छत्यनुरक्तम्"
-
-
 
 **संदष्टवस्त्रेष्वबलानितम्बोष्विन्दुप्रकाशान्तरितोडुतुल्याः[^83]।  
 अमी जलापूरितसूत्र[^84]मार्गा मौनं भजन्ते रशनाकलापाः॥६५॥**
@@ -568,8 +520,6 @@ Like blossom-clusters, honey sweet?”
 दिव्येन शून्यं वलयेन बाहुमपोढनेपथ्यविधि[^95]र्ददर्श॥७३॥**
 
 [^95]: "उपोढनेपथ्यविधिम्"
-
-
 
 **जयश्रियः संवननं[^96] यतस्तदामुक्तपूर्वं गुरुणा च यस्मात्।  
 सेहेऽस्य न भ्रंशमतो न लोभात्स तुल्यपुष्पाभरणो हि धीर[^97]ः॥७४॥**
@@ -627,8 +577,6 @@ Like blossom-clusters, honey sweet?”
 
 [^108]: "औत्पातिकं ज्योतिरिव जवात्"
 
-
-
 **तदेतदाजानुविलम्बिना ते ज्याघातरेखा[^109]स्थिरलाञ्छनेन।  
 भुजेन रक्षापरिघेन भूमेरुपैतु योगं पुनरंसलेन॥८४॥**
 
@@ -668,8 +616,6 @@ Like blossom-clusters, honey sweet?”
 
 \_\_\_\_\_\_\_\_\_\_
 
-
-
 **RAGHUVAMSA—CANTO XVI.**
 
 **Notes**
@@ -682,8 +628,6 @@ Like blossom-clusters, honey sweet?”
 
  **3.** चतुर्भुजः— The four-armed Vishnu. चत्वारः भुजाः यस्य सः; or भुङ्क्ते इति भुजः, चतुर्णां धर्मार्थकाममोक्षाणां भुजः,दानप्रवृत्तेः= (1) from the occupation of charity, (2) ... flow of ichor. सुरद्विपानां—सुराणां द्विपाः, तेषां; the celestial elephants; the guardian elephants of the quarters, which are eight in number, *cf.*—ऐरावतः पुण्डरीको वामनः कुमुदोऽञ्जनः। पुष्पदन्तः सार्वभौमः सुप्रतीकश्च दिग्गजाः—Amara). Note that this number eight agrees with the number of the princes which is also eight, inclusive of Kusa. सामयोनिः= सामानि योनिःयस्य. The दिग्गजाऽ are believed
 
-
-
 to have sprung up from the hymns of the सामवेद. In suppor of this belief Mallinatha in his commentary quotes the following from पालकाप्य—“सूर्यस्याण्डकपाले द्वे समानीय प्रजापतिः हस्ताभ्यां परिगृह्याथ सप्त सामान्यगायत। गायतो ब्रह्मणस्तस्मात् समुत्पेतुर्मतङ्गजाः”अष्टधा—The affix धा is added to the numeral अष्ट, in the sense of ‘the manner or mode of an action’in accordance with the rule “संख्याया विधेर्धाल्”—Panini V iii 42.
 
  **4.** अथ marks the opening of a new topic. अर्धरात्रे—अर्धंरात्रेः अर्धरात्रः, तस्मिन्. Note here that अर्धं meaning half isalways neuter and forms the first member of the compoundthe compound word however is masculine and अकारान्त, by the rules 1. ‘रात्राह्नाहाः पुंसि’—(II iv 29) & ‘अहः सर्वैकदेशसंख्यातपुण्याच्च रात्रेः’—(V iv. 87). स्तिमितप्रदीपे and सुप्तजने qualify शय्यागृहे. प्रवास.. वेषां-प्रवासे तिष्ठति इति प्रवासस्थः, तस्य कलत्रं; प्रवासस्थकलत्रस्य वेष इव वेषःयस्याः सा; ताम्. Indian women are generally described as neglecting their toilet, decorations etc. when their husbands are away from them on journey. This is the most common feature of a Virahini. Kalidasa gives a very graphic picture of a Virahini in his Meghaduta II 10–27. अदृष्टपूर्वां- न दृष्टा पर्वं, ताम्.
@@ -691,8 +635,6 @@ to have sprung up from the hymns of the सामवेद. In suppor of this be
  **5.** साधु... ऋद्धेः–साधुभिः साधारणा, पार्थिवस्य ऋद्धिः; साधुसाधारणा पार्थिवर्धिः यस्य सः, तस्य. पुरुहूतभासः—पुरूणि हूतानि (नामानि) अस्य— (Indra); पुरुहूतस्य इव भाः यस्य सः, तस्य जयशब्दपूर्वं—जयशब्दः पूर्वः(अस्मिन् कर्मणि) यथा तथा. बन्धुमतः—प्रशस्ता बन्धवः अस्य इति बन्धुमान्, तस्य.
 
  **6.** अथ– after her sight. अनपोढार्गलम्–न अपोढम् अर्गलम् यस्य तत्. छायां– reflection, image. The simile here is graphic. Just as a reflexion enters the mirror (without finding any doorway) she had entered the apartment through no doorway i.e., without opening the door. पूर्वार्धविसृष्टतल्पः—पूर्वार्धेन बिसृष्टः तल्पः येन.
-
-
 
 ** 7.** आवरण is a door here, (आव्रियते अनेन द्वारम् इति). अनिर्वृतानां— of those in distress. है= हिमकृतम्.
 
@@ -705,8 +647,6 @@ to have sprung up from the hymns of the सामवेद. In suppor of this be
  **11.** There is very little difference in the meaning of the words तल्पand अट्ट. Amara treats them as synonymous. (‘तल्पं शय्याट्टदारेषु’इत्यमरः) So तल्प may be taken to mean the terrace of a house, and अट्टa turret. The reading विशीर्णकल्पाट्टशतः noticed by Mallinatha is better.
 
  **12.** अभिसारिकाणां—भर्तृसंकेतस्थानाभिमुखं सरन्ति इति अभिसारिकाः.*i.e.*women who go to meet their lovers at appointed places; c*f.* कान्तार्थिनी तु या याति संकेत साभिसारिका— Amara. शिवाभिः is qualified by नदन्मुखोल्काविचितामिषाभिः; नदन्ति च तानि मुखानि, तेभ्यः निर्गताः उल्काः, ताभिः विचितं आभिषं याभिः ताः, ताभिःThe she-jackals of a particular type are believed to emit flames of fire while howling: the reference made above is to these flames with the help of which they search for flesh.
-
-
 
  **13.** दीर्घिका—a long or oblong lake. *Cf.* शुशुभिरे......। विकचतानसरसा गृहदीर्घिका मदकलोदकलोलविहङ्गमाः. Raghu. IX 39.
 
@@ -721,8 +661,6 @@ to have sprung up from the hymns of the सामवेद. In suppor of this be
  **18.** कालान्तरश्यामसुधेषु—कालस्य अन्तरः, तेन श्यामा सुधा येषु, तेषु. नक्तं (रात्रौ) is an indeclinable. रूढतृणाङ्कुरेषु—रूढाः तृणानाम् अङ्कुराः येषु तेषु. मुक्तागुणशुद्धयः–मुक्तानां गुणाः, तेषां शुद्धिरिव शुद्धिः येषां ते. चन्द्रपादाः–Moon’s rays. *Cf.* ‘पादा रश्म्यङ्घ्रितुर्यांशाः’—Amara.
 
  **19.** आवर्ज्य—Indeclinable past participle of आ+वृज् (I Paras.) मम इमाः—मदीयाः वन्यैः पुलिन्दैरिव वानरैः—by the wild pulindas and monkeys as well. Here इवmay also be taken
-
-
 
 to show the similarity between the pulindas and monkeys, in which case the translation will have to read— ‘by the wild monkey-like pulindas’.
 
@@ -741,8 +679,6 @@ to show the similarity between the pulindas and monkeys, in which case the trans
 
  **25.** श्रोत्रियसात्— Here the affix सात् is used to indicate that something is made over to a master or superior person. A श्रोत्रिय is a Brahmin well-read in the Vedas. *Cf.* जन्मना
 
-
-
 ब्राह्मणो ज्ञेयः संस्कारैर्द्विज उच्यते। विद्यया यातिविप्रत्वं त्रिभिः श्रोत्रिय उच्यते। and Amara—श्रोत्रियश्छान्दसौ समौ। Mallinatha quotes Panini V ii 84 ‘श्रोत्रियंश्छन्दोऽधीते’in support of this. प्रतस्थे III sing. of स्था with प्र in the perfect tense. The root स्थाis always a Parasmai, but has taken the Atmane terminations by virtue of its association with the upasarga प्र, by the rule समवप्रविभ्यःस्थः
 
  **26.** सेना=सह इनेन, accompanied by the lord. रथोदारगृहाः–रथा एव उदारा गृहाः यस्याः सा. Here उदारis used in the sense of ‘splendid.’जङ्गमा च असौराजधानी च- जङ्गमराजधानी. जङ्गमा—ever in motion, moving. For the formation of राजधानी see notes on sl. 22.
@@ -754,8 +690,6 @@ to show the similarity between the pulindas and monkeys, in which case the trans
  **29.** उद्यच्छमाना- preparing to go. Note that यम् preceded by सम्, उद् or आ will have to be treated as Atmane, when it does not refer to a book and when it conveys the result of the action indicated by the verb to the agent. (Vide Panini- “समुदाङ्भ्योयमोऽग्रन्थे”). निवेश is a halting place while marching. सामग्यमतिं—(समग्रस्य भावःसामग्यं) सामग्यस्य मतिः, ताम्.
 
  **30.** द्विपानां—द्वाभ्यां (शुण्डातुण्डाभ्यां) पिबति इति द्विपः, तेषां. तुरङ्गमाणांतुरेण (त्वरया) गच्छति इति तुरंगमः(तुरगःalso) तेषां. रेणुः प्रपेदे etc., implies the vastness of the army.
-
-
 
  **31.** मार्गं इच्छति असौ इति मार्गैषिणी। रेवा is the Narmada river; *cf.* “रेवा तु नर्मदा सोमोद्भवा मेखलकन्यका”–Amara. वद्धप्रतिश्रुन्ति=वद्धा प्रतिश्रुत्यैः, तानि।
 
@@ -771,8 +705,6 @@ to show the similarity between the pulindas and monkeys, in which case the trans
 
  **37.** उपशल्य is the open space in the vicinity of a town. रिपुषुमग्नं शल्यं यस्य सः–रिपुमग्नशल्यः। पौराणां सखा—पौरसखः। The अ ending of the compound is by the rule राजाहःसखिभ्यष्टच्।
 
-
-
  **38.** संभृतानि च तानि साधनानि तेषां भावः–संभृतसाधनत्वं, तस्मात्. पुरं is the accu. sing of पुर् (fem.). विसर्गात्— by pouring down.
 
  **39.** वास्तु is the marking out of the site for the construction of a house. (वसन्ति अत्र इति वास्तुः) It is a religious rite performed before commencing the construction and at the time of entering the fully constructed house (गृहप्रवेश)।
@@ -787,8 +719,6 @@ to show the similarity between the pulindas and monkeys, in which case the trans
 
  **44.** अगस्त्यचिह्नात् अयनात्–From the solstice (अयन) marked by the star, *i.e.* the winter solstice where the sun will have reached his southern-most destination
 
-
-
 (about 22nd December). Agastya is usually identified with the star ‘Canopus’belonging to the Argo Navis constellation. The उत्तरा दिक् is represented as a beloved of the Sun and the rival of दक्षिणा दिक्. आनन्दशीतां marks the joy of उत्तरा दिक् on the return of her lover to her after a long absence during which period he was with her rival दक्षिणा दिक्; *cf.* for a similar idea, Kumara. III 25. हिमवतः इयम्—हैमवती, तां—हैमवतीम्।
 
  **45.** अतिमात्रं & अत्यथ both mean excessively, extremely. *Cf.* ‘अतिवेलभृशात्यर्थमतिमात्रोद्गाढनिर्भरम्’—Amara. क्षणं (joy, rest) ददाति इति—क्षणदा (night). विरोधस्य क्रिया तथा—विरोधक्रियया। विभिन्नौ— estranged. अनुशयेन सहितौ—सानुशयौ, filled with remorse. *Cf.*भवेदनुशयो द्वेषे पश्चात्तापानुबन्धयोः— Amara.
@@ -798,8 +728,6 @@ to show the similarity between the pulindas and monkeys, in which case the trans
  **47.** सायंतनमल्लिकानां— सायंतनस्य मल्लिकाः तासां। The jasmine flowers which bloom out only in the evening![](../books_images/U-IMG-1729230501mou.png). विजृम्भणोद्ग्रन्धिषु—विजृम्भणेन उद्गतःगन्धःयेषां तानि तेषु। Note that the compound has a final इ as it is a Bahuvrihi withगन्धas its last member, in accordance with the rule ‘गन्धस्येदुत्षूतिसुसुरभिभ्यः’—V iv 135. सशब्दं—Adv. शब्देन सहितं यथा तथा।
 
  **48.** ... नखक्षताङ्के- Marks of nails on cheeks etc. of women are usually described as part of amorous sports. संदष्ट—sticky (on account of perspiration) शिरीषपुष्प—‘mimosea’ is extremely delicate.
-
-
 
  **49.**यन्त्राणां (of fountains) प्रवाहैः—यन्त्रप्रवाहैः! ऋद्धिमन्तः—ऋद्धिः येषां ते।
 
@@ -814,8 +742,6 @@ to show the similarity between the pulindas and monkeys, in which case the trans
  **54.** ऊर्मिषु लोलाःउन्मदाश्चराजहंसाःयस्मिन् तत्, तस्मिन्— ऊर्मिलोलोन्मदराजहंसे। रोधसोः लताः, तासां पुष्पाणां वहः—रोधोलतापुष्पवहः। वनितासखस्य—see notes on sl. 37.
 
  **55.** आनायिभिः—by the fishermen. °उपकार्यां—tents. रूपस्य सदृशं—अनुरूपं. As for precautions a king has to take before commencing the water spot, Mallinatha quotes from Kamandaka—
-
-
 
 **“परितापिषु वासरेषुपश्यंस्तटलेखास्थितमाप्तसैन्यचक्रम्।  
 सुविशोधितनक्रमीनजालं व्यवगाहेत जलं सुहृत्समेतः॥”**
@@ -838,8 +764,6 @@ to show the similarity between the pulindas and monkeys, in which case the trans
 
  **64.** The rumbling sound produced by beating the water was mistaken to be the rumbling of clouds by the peacocks closeby; hence they spread out their plumages with sweet notes. तीरयोः स्थल्यः, तासु (स्थिताः) बर्हिणः, तैः। उद्गतः कलापः यस्य सः—उत्कलापः।
 
-
-
  **65.** संदष्टवस्त्रेषु-संदष्टानि वस्त्राणि येषां तेषु। जलन आपूरिताः सूत्राणां मार्गाः येषां ते—जला... मार्गाः। इन्दोः प्रकाशेन अन्तरितानि यानि उडूनि, तत्तुल्याः–इन्दुप्र°तुल्याः। The stars mentioned here correspond to the pearls of the girdles.
 
  **66.** वक्रात् इतराणि (hence straight) अग्राणि येषां तैः। दर्पात्is a V. L. for हर्षात्। चूर्णारुणान् agrees with वारिलवान्। The water drops were red with र्णi.e., the red (Kunkum or saffron) powder.
@@ -851,8 +775,6 @@ to show the similarity between the pulindas and monkeys, in which case the trans
  **69.** भ्राजिष्णु—भ्राजते तच्छीलःNote—The affix इष्णुच् in the sense of “of such a habit”is added. Although the rule ‘भुवश्च’ (III ii 138) that prescribes this affix is only in regard to the vedic, the वृत्ति adds how. it is used even in classical works and observes—“निरङ्कुशाः कवयः। ‘च’ कारोऽनुक्तसमुच्चयार्थः। भ्राजिष्णुरिति वृत्तिः। एवं क्षयिष्णुः। नेतद्भाष्ये दृष्टम्।”
 
  **70.** वर्णोदकैः—वर्णसहितानि उदकानि, तैः। काञ्चनशृङ्ग—Gold syringes of the shape of horns (hence called शृङ्ग—lit. horn.) अद्रिराजः—अद्रीणां राजा. The ‘अ’ ending of the compound is by the rule “राजाहः सखिभ्यष्टच्।”
-
-
 
  **71.** अवरोधप्रमदानां सखः—अवरोधप्रमदासखः, तेन. The ‘अ’ ending of the compound word is according to the rule “राजाहस्सखिभ्यष्टच्.” सरित्सु वरा—सरिद्वरा। अनुयाता लीला येन सः —अनुयातलीलःमरुत्वान्—Indra.
 
@@ -866,8 +788,6 @@ to show the similarity between the pulindas and monkeys, in which case the trans
 
  **76.** आभरणोत्तमं—आभरणेषु (or आभरणानां) उत्तमम्। लौल्यात्—out of curiosity. नूनं—Evidently. Mallinatha says नूनं = probably.
 
-
-
  **77.** आततज्यं—आतता ज्या यस्य तत्— stringed. (ज्या= bowstring) कोपविलोहितेक्षणः— कोपात् विशेषेण लोहिते आक्षणी यस्य सः.Note that अक्षिन् has changed toअक्ष at the end of a compound. गारुत्मतं—गरुत्मतः इदं belonging to Garutman i.e, Garuda or presided over by Garuda; गरुत्मान् देवता अस्य। तरस्वी= energetic, mighty.
 
  **78.** समाविद्धाः तरङ्गाएव हस्ता येन. अवपात—a pit. It is well known that pits covered with grass are used for elephant-catching even in the modern Kedda operations.
@@ -877,8 +797,6 @@ to show the similarity between the pulindas and monkeys, in which case the trans
  **80.** विभूषणं प्रत्युपहरतीति, विभूषणप्रत्युपहारः; विभू...हारः हस्तःयस्य तम्—विभूषणप्रत्युपहारहस्तम्. विशांपतिः— Lord of men. *Cf.* द्वौ विशौ वैश्यभनुजौ—Amara. Some take the word विशांपतिः as an अलुक् compound. But Kalidasa seems to have treated it as two different words as in X 50, he uses the form विशां पत्युः instead of विशांपतेःwhich would be the genitive. singular. if it were a compound. सौपर्णं=गारुत्यतम्, See notes on sl. 77 above.
 
  **81.** त्रयोलोकाःत्रैलोक्यम् \[त्रिलोक+य (ष्यञ्)\]; त्रैलोक्यस्य नाथः प्रभवः यस्य तं—त्रैलोक्यनाथप्रभवम्। अस्त्रविद्वान् cannot be a genitive tatpurusha on account of a technical objection (“न लोकाव्ययनिष्ठाखलर्थतृनाम्”— II iii 69—एषां प्रयोगे षष्ठी न स्यात्)। Hence it is to be an accu. Tat. अस्त्रं विद्वान्। मानेन उन्नतं तेन—मानोन्नतेन। मूर्ध्नि अभिषिक्तं—मूर्धाभिषिक्तं. The अभिषेक is an essential ceremony at the time of crowning a king. Even in England this practice is observed to this day in as much as the Archbishop
-
-
 
 of Canterbury sprinkles water over the king and annoints him.
 
@@ -894,8 +812,6 @@ of Canterbury sprinkles water over the king and annoints him.
 
  **87.** साहचर्याय— सहधर्माचरणाय, for association in religious ceremonies. ‘It has been suggested that this phrase implies the प्राजापत्य form of marriage. माङ्गल्योर्णावलयिनि—मङ्गलमेव माङ्गलम्, तत्र साधुः माङ्गल्यम्; उर्णानिर्मितं वलयम्; माङ्गल्यं च तत् ऊर्णा वलयं च, तस्मिन्। *Cf.* “कण्ठदेशस्थसूत्रमुपरि निष्कास्य तं चोर्णायुतं कृत्वा तेन हरिद्राखण्डं बध्वा तत् वधूवामहस्तप्रकोष्ठे वरो बध्नीयात्।” दिव्यः—The Solar race is semi-divine. व्यश्नुवानाः— Present part.ofवि+अशू V paras. to fill, pervade. तदनु—तं अनु।
 
-
-
  **88.** औरसं—उरसा निर्मितम्। *Cf.* Manu—स्वक्षेत्रे संस्कृतायां तु स्वयमुत्पादयेद्धियम्। तमौरसं विजानीयात्पुत्रंप्रथमवल्पितम्॥ तक्षकस्य पञ्चमम्-Malli. says पञ्चमं पुत्रं; but Char says तक्षकपौत्रस्य पौत्रम् i.e., fifth descendant of तक्षक। पितृवधरिपोः—(of) the enemy on account of his killing his (Garuda’s) father कश्यप।पौराणां कान्तः—पौरकान्तः, dear to his people.
 
 \_\_\_\_\_\_\_
@@ -907,8 +823,6 @@ IN RAGHUVAMSA XVI.**
 2. वशिनां (रघूणां) मनः परस्त्रीविमुखप्रवृत्ति। 8 d.  
 3. स तुल्यपुष्पाभरणोहि धीरः। 74 a.  
 4. सौभ्रात्रमेषां हि कुलानुसारि। 1 d.
-
-
 
 **RAGHUVAMSA—Canto XVI**
 
@@ -926,8 +840,6 @@ IN RAGHUVAMSA XVI.**
 
  6. Thereupon, full of astonishment, that son of Rama having raised his upper half from the bed, addressed her who,
 
-
-
 like the reflection on the surface of a mirror, had entered his chamber although the bolts of its doors were not removed.—
 
  7.“Although (my) chamber is closed you have gained entrance into it, and yet no yogic power is noticed in you; further you bear an appearance of an unhappy person, like a lotus blighted by frost.
@@ -943,8 +855,6 @@ like the reflection on the surface of a mirror, had entered his chamber although
  12. “The royal road which had been the pathway during nights for Abhisarikas with bright jingling anklets, is now traversed along by female jackals that seek carrion by the aid of the light emitted from their howling mouths.
 
  13. “The water of lakes which (formerly) imitated the deep resounding of a drum, being stirred by the foreparts of
-
-
 
 the hands of young ladies, now cries hoarsely being struck violently with horns by wild buffaloes.
 
@@ -962,8 +872,6 @@ the hands of young ladies, now cries hoarsely being struck violently with horns 
 
  20. “The windows which throw out no light of lamps at night, and which are bereft of the splendour of the faces of beautiful women during day, are now screened by the webs of
 
-
-
 insects as the volumes of smoke (of incense) have ceased to issue forth from them.
 
  21. “I am grieved to see the Sarayu-waters not obtaining the admixture of the perfumed powders used while bathing, their beds of sand devoid of the offerings of worship, and the cane-bowers on their borders deserted.
@@ -979,8 +887,6 @@ insects as the volumes of smoke (of incense) have ceased to issue forth from the
  26. During his march, the army became his moving capital having the chariots for its stately mansions and the rows of banners for its gardens containing sport-hills in the form of huge elephants.
 
  27. The flood of the forces despatched to the land of (their) former abode by him having the disc of a white umbrella (held above him) looked like the ocean pushed on to the
-
-
 
 shores— its original place, by the just-risen moon whose disc is as white as an umbrella.
 
@@ -998,8 +904,6 @@ shores— its original place, by the just-risen moon whose disc is as white as a
 
  34. He bowed down to the water of that three-streamed
 
-
-
 river, which was undulated by (moving) boats and which was the means of attaining heaven in the case of his forefathers whose bodies were made to remain in the state of ashes by Kapila through wrath.
 
  35. After travelling thus for some days, having arrived at the bank of Sarayu at the end of (his) journey, Kusa beheld hundreds of sacrificial posts fixed at altars, belonging to the Raghus who had performed sacrifices in large numbers.
@@ -1016,8 +920,6 @@ river, which was undulated by (moving) boats and which was the means of attainin
 
  41. With horses resting in stables, with elephants fas-
 
-
-
 tened to the posts fixed properly in their resting grounds and with the saleable articles arranged in the shops, that city appeared like a lady having ornaments arranged on all her limbs.
 
  42. The son of Maithili, living in that residence of the Raghus which was restored to its former splendour, did not envy (the lot of either) the lord of heaven or the king of Alaka.
@@ -1032,8 +934,6 @@ tened to the posts fixed properly in their resting grounds and with the saleable
 
  47. In the woods the black bee, having set its foot witha hum on each of the buds of the evening jasmine creepers emitting fragrance by blooming, counted their number, as it were.
 
-
-
  48. The Sirisha flower, although slipped from the ear of amorous women, did not drop down at once as it had its filaments stuck fast to their cheek marked with the recent nail-scratches filled with perspiration.
 
  49. The rich men passed the heat of summer in shower-houses reposing on special (seats of) stones washed with sandal-juice and surrounded by cool sprays of water poured out by fountains.
@@ -1047,8 +947,6 @@ tened to the posts fixed properly in their resting grounds and with the saleable
  53. In that excessively hot season two things were particularly delightful to the people, viz., the king and the moon standing in their rise, a resort to whose feet and rays was capable of removing misery and the heat of summer respectively.
 
  54. One day there arose in him a desire to sport accom. panied by women, in the water of the Sarayu which was delightful in the hot season, which had intoxicated royal
-
-
 
 swans swimming unsteadily on its waves and which carried with it the flowers of the creepers growing on its banks.
 
@@ -1066,8 +964,6 @@ swans swimming unsteadily on its waves and which carried with it the flowers of 
 
  61. “These ear ornaments of sirisha blossoms of the females sporting in the waters falling into the stream of the
 
-
-
 river and floating about deceive the fish that are anxious to devour moss.
 
  62. “The necklaces of these women absorbed in dashing the water, although broken, is not noticed as being shattered among the sprays that vie with pearls rising up to their breasts.
@@ -1081,8 +977,6 @@ river and floating about deceive the fish that are anxious to devour moss.
  66. “These young damsels by whom streams of waters are dashed upwards with their hands and who are drenched (with water) on their faces by friends out of joy, shower down drops of water red with the red (kunkum) powder from the ends of their curly tresses of hair now straightened (by being wet).
 
  67. “The appearance of these young women’s faces, although disturbed by the water-sport, is yet charming indeed with the loosened hair, the washed off amorous paintings and the loosely hanging pearl-ear-rings.”
-
-
 
  68. The king whose necklace was swinging about, having got down from his balloon-like boat sported with those women in water just as a lordly wild elephant having an uprooted lotus plant clinging to its shoulder sports with female elephants.
 
@@ -1100,8 +994,6 @@ river and floating about deceive the fish that are anxious to devour moss.
 
  75. Thereupon for its search he ordered all fishermen
 
-
-
 skilled in diving into a river; they after having dived into the Sarayu being unsuccessful in their labours, spoke to him thus with unfaded facial brightness.—
 
  76. “Effort was made; but o king! your excellent ornament sunk into water was not found; evidently it has been taken away out of curiosity by Kumuda, a Naga who lives inside a deep pool of water (in the river).”
@@ -1115,8 +1007,6 @@ skilled in diving into a river; they after having dived into the Sarayu being un
  80. Seeing him standing nearby and bearing in his hands the ornament to be restored, the ruler of men withdrew his Sauparna (Garuda) missile; for, good men are not obstinate in their anger towards the humble.
 
  81. Kumuda who knew the power of the missile, with a head although elevated through pride having bowed down to Kusa, the son of the lord of the three worlds, who was a goad of his enemies through his power, and who was duly consecrated on his head as king, spoke (to him) thus—
-
-
 
  82. “I know you to be of an unrivalled form called the ‘son’of that Vishnu who had assumed a human form for a purpose. Such a one as I am, how shall I cause disturbance to the peace of mind of you, adorable as you are.
 
@@ -1133,8 +1023,6 @@ skilled in diving into a river; they after having dived into the Sarayu being un
  88. Thus, the Naga having gained for his kinsman the son of Maithili, the own child of the lord of the three worlds, and Kusa too (having obtained) that fifth. descendant from Takshaka (as his kinsman),—the former gave up the fear from the son of Vinatā who had become his enemy by slaying his father, and the latter who was dear to the citizens ruled the earth where serpents had become harmless.
 
 **End of Canto XVI in Raghuvamsa.**
-
-
 
 **PROSODY**
 
@@ -1174,8 +1062,6 @@ skilled in diving into a river; they after having dived into the Sarayu being un
 
 & 3.विषमवृत्त— the feet of the stanza are dissimilar.
 
-
-
  The vrittas (metres) are named differently according to the number and order of the long or short syllables. In the Raghuvamsa Canto XVI we come across four types of vrittas viz., (1) इन्द्रवज्रा (2) उपेन्द्रवज्रा (3) उपजाति and (4) मन्दाक्रान्ता.
 
  (1) इन्द्रवज्रा—(eleven syllables in each quarter )  
@@ -1213,135 +1099,4 @@ skilled in diving into a river; they after having dived into the Sarayu being un
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^65]: "वा"

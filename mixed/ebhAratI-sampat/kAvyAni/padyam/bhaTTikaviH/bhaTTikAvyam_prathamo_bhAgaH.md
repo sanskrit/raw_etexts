@@ -18,8 +18,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0NTM4NDIyODk
 
 \[
 
-
-
 THE  
 
 **BHAṬṬI-KÂVYA**  
@@ -64,8 +62,6 @@ Act XXV. of 1867.
 
 *Bombay:*
 
-
-
 **  
 
 GOVERNMENT CENTRAL BOOK DEPOT.
@@ -78,14 +74,9 @@ GOVERNMENT CENTRAL BOOK DEPOT.
 
 Bombay Sanskrit Series No. LVI.
 
-
-
 **BOMBAY:**  
 
-
 PRINTED AT THE TATTVA-VIVECHAKA OIL-ENGINE PRESS.
-
-
 
 ॥ श्रीः ॥
 
@@ -117,24 +108,9 @@ PRINTED AT THE TATTVA-VIVECHAKA OIL-ENGINE PRESS.
 
 ————————
 
-
-
-
-
-
-
-
-
 इदं पुस्तकं  
 
-
 मोहमय्या तत्त्वविवेचकनाम्नि मुद्रणालये मुद्रितम्.
-
-
-
-
-
-
 
 |                                                       |
 |:-----------------------------------------------------:|
@@ -146,11 +122,7 @@ PRINTED AT THE TATTVA-VIVECHAKA OIL-ENGINE PRESS.
 |  Appendix...........................................  |
 |       Addenda and Corrigenda..................        |
 
-
-
 ———————
-
-
 
 **CRITICAL NOTICE.**
 
@@ -164,14 +136,10 @@ PRINTED AT THE TATTVA-VIVECHAKA OIL-ENGINE PRESS.
  Ravaṇa-Vadha. An epic poem in 22 Cantos **. . . . . .** The writing is in well-formed Bengali letters, differing in no respect from the Bengali writing by Pandits of the last century. The leaves are all stained by watermarks and the colour of the yellow orpiment with which they are dyed is very much faded, being unmistakable testimony to the age of the MS. The colour of the ink is well preserved, except in the marginal notes written at different times by different persons. The name of the scribe is Purushottam Deva S'armâ. The date of writing is S'aka 1326=A. D. 1403."  
 ** Beginning:—रावणवधः महाकाव्यम्. नमो गणेशाय ॥**
 
-
-
 **अभून्नृपो विबुधसखः &c.**
 
 ** End:—काव्यमिदं विहितं मया वलभ्यां &c.**  
 Colophon**:—इति वडभीवास्तव्यश्रीधरस्वामिसूनोर्भट्टिब्राह्मणस्य कृतौ रावणवधे महाकाव्ये तिङन्तकाण्डे लुट्प्रदर्शनो नाम द्वाविंशतितमः सर्गः॥ शकाब्दाः१३२६॥**
-
-
 
 B**.** This was obtained from Benares through my friend, Paṇḍita Govindadâsa, who secured it from his friend, Paṇḍita Parameśvara Datta Pandeya. It is in Devanagari characters and contains the text only. It has 8 lines on a page and is incorrect in many places. It has no date. It does not seem to be old.  
 ** Beginning :—श्रीरामाय नमः॥ अभून्नृपो विबुधसखः &c**
@@ -195,8 +163,6 @@ B**.** This was obtained from Benares through my friend, Paṇḍita Govindadâs
  **Beginning :—श्रीगणेशाय नमः श्रीसरस्वत्यै नमः॥अभून्नृपो विबुधसखः &c.**
 
  **End:—सौमित्रेरिति वचनं निशम्य रामो &c.**
-
-
 
 **Colophon:—इति भट्टिकाव्ये काव्यालंकारो नाम दशमः सर्गः॥ इति श्रीभट्टिकारेण कृतं भट्टिकाव्यं द्वाविंशतिसर्ग यावद्दशमसर्गपर्यन्तमलेखीदं पुस्तकं शुकुशर्मणा स्वपाठार्थम्।**
 
@@ -224,8 +190,6 @@ B**.** This was obtained from Benares through my friend, Paṇḍita Govindadâs
 
  D. This was received from the Deccan College Library through Dr. Bhâṇḍârakar. It is in Devanâgarî characters and is very incorrect. In several places incomplete verses aregiven, the latter half being omitted. The copyist seems to be completely ignorant of the Sanskritlanguage. It contains
 
-
-
 the complete text and the commentary of Jayamañgalâ. It is dated Saṁvat 1869.  
 ** Beginning :—अभून्नृपो विबुधसखः परन्तपः&c.**
 
@@ -238,8 +202,6 @@ Colophon of the Commentary:**इति वलभीवास्तव्यस�
  T₁. It is a copy of one of the MSS. of Bhaṭṭi in the Tanjore Palace Sanskrit Library, which comprises a very extensive collection of MSS., having more than 10,000 Sanskrit Volumes. With all his efforts, my friend, Prof. S. Râdhâkrishṇa Aiyar, Principal, Mahârâjâ's College, Pudukotâ, could not get me the original MSS. I had, therefore, to be content with the copies of them, secured for me by him. It was only through his untiring efforts that I was able to get copies of these Southern MSS. To ensure the correctness of the copies he engaged Paṇḍita A. R. Thirumalachariar, of Mahârâjâ's College, Pudukotâ. It was through his exertions that the MSS. of the text in the Tanjore Palace Sanskrit Library were collated and that Sargas 10 to 22 of both the copies of the commentary of Mallinâtha (the one in the Theosophical Society's Library, Adyar, Madras, and the other from Coimbatore) were copied, as also the commentary of Mallinâtha (Granth, printed) of the first 9 Sargas :
 
  This MS. is written in Devanâgarî characters and contains 68 pages. It is noted as a recent copy in Dr. Burnell's cata- logues, but it seems a little old. It is corrected and hence correct. It invariably contains 14 lines on each page. Additions, correc- tions, and differences of reading are marked on the margins
-
-
 
 (right, left, top and bottom). Portions to be omitted are not erased with ink, but covered with a coloured paste. Sheets are loose, neither bound nor stitched. There are no remarks on the opening page. The copyist's name, place, and year are not known. The writing is beautiful. The MS. is complete. The headings and the concluding portion are written in red ink.
 
@@ -268,22 +230,15 @@ This is a copy of the fourth Tanjore MS. It is writeenin Grantha characters and 
 
  I got two other MSS. after the text had been printed off for the most part. The readings of these are therefore given in the Appendix. Of these the first designated Ds is in the Deccan College Government Collection. I collated it in the College while I was acting as Professor of Oriental Languages there. It is incomplete, proceeding up to St. 26, C. XII. It bears no date.
 
-
-
 The second was secured by me through my friend, Mr. Amidhara Raṇacchodajî Desâi, Assistant Master, Ahmedâbâd High School, from Paṭṭaṇa. His brother, Mr. Haridhara R. Desâi, B. A., was kind enough to collate it for me, and also send the MS. to me. I then collated it myself. The MS. bears no date and proceeds up to the 10th Canto. It is incorrect in many places. It is designated P. in the Appendix.
 
  For the commentary of Mallinâtha I have consulted four Southern copies. The first is a printed copy in Grantha characters from Canto I. to Canto IX. The second is also a printed copy in Telugu characters from Canto I. to Canto IX. The third is a copy of the MS. of Bhaṭṭi with the commentary of Mallinâtha in charge of the Theosophical Society of Madras from Canto X. to the end. The phrase **श्रीनृर्सिहाय नमः**abounds in the MS. without exception in the beginning and end of every Sarga. The commentary is so full of mistakes that it would require as much time to be corrected as itself to be copied. The blank spaces are to be filled up with very great care and attention. The fourth and the best copy of the commentary was secured from Râma Sâstriar of Kadathur, near Udamalpet, Coimbatore District. It is about 80 or 100 years old. It contains 158 pages with 12 or 13 lines on a page and is written in Grantha characters. 15 leaves are worm-eaten. Telugu notes appear in one or two places as in describing the metre of the 19th Canto. The MS. is very correct. There are no orthographical blunders in the first three-fourths of the book. In the last few pages which are also remarkably correct, there are a few mistakes such as the indiscriminate use of da and dha for da and dha. I got a copy of this excellent MS. of the commentary through the indefatiguable energy of Prof. S. Râdhâ- krishṇa Aiyar, who writes to me as follows:—You will be glad to hear that I have after all succeeded in my attempt to secure another copy of Mallinâtha's commentary on the Bhaṭṭi-Kâvya. It was obtained from Râma Sâstriar of Kadathur with some difficulty no doubt. I doubt whether the copy would ever have
-
-
 
 reached me, were it not for the kindness and the official position of my friend, Mr. Srinivâsa Aiyar, B. A., Stationary Sub-Magistrate of the place in Coimbatore.
 
  I must consider you fortunate, as the Pandit tells me that the writing is very legible (Grantha) and that the commentary is complete with the exception of that of a portion (10 S'lokâs) in the 10th Chapter for which blank space is provided in the palmleaf Manuscript. The MS. appears to be about 100 years old and is pronounced to be correct."  
 
-
 **———————**
-
-
 
 INTRODUCTION.
 
@@ -293,17 +248,11 @@ INTRODUCTION.
 
 [^1]: "Sûtras are of six kinds:— संज्ञा च परिभाषा च विधिर्नियम एव च। अतिदेशोऽधिकारश्च षड्विधं सूत्रलक्षणम्॥'"
 
-
-
  The Bhaṭṭi**-**Kâvya is a work of great renown. It is held to be a sort of authority on questions of grammar. When a particular form occurring in it seems to violate Pâṇini, it is with great reluctance that commentators call it *Pramâda* or a mistake. Great ingenuity is shewn in establishing its correctness. Bhaṭṭoji Dîkshita has quoted instances from the work[^2], ' शस्त्राण्युपायंसत जित्वराणि ' १, १६ (म० उ० p. 45, 46 ), ' ततोऽनुजज्ञे गमनं सुतस्य ' १, २३ ( K. p. 279), ' भाघ्रायि वान् गन्धवहः सुगन्धः ' २, १० ( म०पू० p. 73) ' अजिग्रहतं जनको धनुस्तत् ' २, ४२ ( म०पू० p. 51 ), सतीतयो राघवयोरधीयन् ' ३, १८ ( K. p. 227 ), 'न चोपलेभे वणिजां पणायान् ' ३, २७ (म० उ० p. 14), 'पुरो रामस्य जुहवांचकार ज्वलने वपुः ' ४, ५, ( म०पू० p.65), ' पर्षद्वलान् महाब्रसैराट नैकटिकाश्रमान् ? ४, १२ ( म०पू० p. 104), ' वावृत्यमाना सा रामशालां न्यविक्षत' ४, २८ ( K. p. 234 ), 'विनसा हतबान्धवा ' ५ ८ ( K. p. 88 ), ' हा पितः क्कासि हे सुभ्रु' ५, ११ ( K. p. 28 and म० पू० p. 29), ' तेन संगतमार्येण रामाजयं कुरु द्रुतम् ' ६, ५४ ( K. p. 291), 'राघवस्य ततः कार्य कारुर्वानरपुङ्गवः । सर्ववानरसेनानामाश्वागमनमादिशत् ॥ ' ७, २८ (म० उ० p. 68 ), । ! आहध्वं मा रघूत्तमम् ' ७, १०३ Com. (K. p. 275 ), ' कलहंसराममहितः कृतवान् १०, २ 275), ' ( म०पू० p. 61), ' उपायंस्त महास्त्राणि १५, २१ (म० उ० p. 45 ), and ' हविर्जक्षिति निःशङ्को मखेषु मघवानसौ १८, १९ ( K. p. 34 ).")in his Siddhânta-Kaumudî and Manoramâ, in some cases to support his view of the Sûtras and in others to explain their apparent deviation from them.[^3]The fact that he has to explain their departures from Pâṇini, saying **‘कथंतर्हि भट्टिः’**establishes the authoritativeness of the work. Another work that like the Bhaṭṭi-Kâvya is known to illustrate the rules of Pâṇini's grammar, is the Râvaṇârjunîya, composed by [Bhaumaka](#)and well-known in Kâs'mira. Bhaumaka lived
 
 [^2]: "Among the quotations from the Bhatti-Kavya in the Siddhanta- Kaumudi and the Manoramá may be mentioned ' पितॄनतासत् ' १, २ ( K. p. 236
 
 [^3]: " It must be noted that the forms, which are departures from Pâṇini, can hardly be called incorrect; as other grammars, that have now been lost, were in the time of Bhatti considered authoritative. In two or three places Mallinatha says:—' व्याकरणान्तरे द्रष्टव्यम्.'"
-
-
-
-
 
 before Jayâditya, the author of the Kâs'ikâ, and the Kâs'mira poet Kshemendra; because the Kâs'ikâ contains a quotation from the Râvaṇârjunîya. The following half verse is quoted in the Vṛitti on the Sûtra **“अनुवादे चरणानाम्” २।४।३॥**from Bhaumaka's poem**:—**
 
@@ -325,8 +274,6 @@ before Jayâditya, the author of the Kâs'ikâ, and the Kâs'mira poet Kshemendr
 
 and this is confirmed by the Extracts in Bühler's own Report. See Appendix to that work LXXXV. I. 19 **भूभढ्ढस्येति** which should be corrected to **भूमभट्टस्येति,** and not as is done in the note, and I. 23 **काव्येत्र भूमोदिते**a reading which should not be marked as a doubtful reading. Bhûma, or Bhûmaka and Bhaumaka are variations easily explained by the Kashmir pronunciation." (Dr. Peterson's Preface to Subhashitavali p. 83). A. Deccan College Manuscript (No. 184 collection of 1875-76) ascribes the work to the poet Bhima. **‘इति** **महाकविश्रीमद्भीमकृते रावणार्जुनीये महाकाव्ये गाङ्कुटादिपादेप्रथमः सर्गः’** and so forth at the end of each Canto. But Kshemendra in his Suvṛittatilaka gives Bhaumaka as the name of the author.
 
-
-
 work comes down to the destruction of Râvana and Rama's return to Ayodhyâ. It is a Mahâ-kâvya,[^6]as the oldest.commentator Jayamaṅgala, Mallinâtha, and others call it.[^7] Being composed with the special object of illustrating the rules of
 
 [^6]: "A Mahâkâvya is thus defined by Dandin:—  सर्गबन्धो महाकाव्यमुच्यते तस्य लक्षणम् । आशीर्न मस्क्रिया वस्तुनिर्देशो वापि तन्मुखम् ॥ इतिहासकथोद्भूतमितरद्वा सदाश्रयम् । चतुर्वर्गफलोपेतं चतुरोदात्तनायकम् ॥ नगरार्णव शैल चन्द्रार्कौदयवर्णनैः । उद्यानसलिलक्रीडामधुपानरतोत्सवैः ॥ विप्रलम्भैर्विवाहैश्च कुमारोदयवर्णनैः । मन्त्रदूतप्रयाणाजिनायकाभ्युदयैरपि ॥ अलंकृतमसंक्षिप्तं रसभावनिरन्तरम् । सर्गैरनतिविस्तीर्णैः श्रव्यवृत्तैः सुसन्धिभिः ॥ सर्वत्र भिन्नवृत्तान्तैरुपेतं लोकरञ्जकम् । काव्यं कल्पान्तरस्थायि जायेत सदलंकृति ॥ '  By चतुरोदात्त नायक is meant धीरोदात्त नायक who is defined as:—  अविकत्थनः क्षमावानतिगम्भीरो महासत्त्वः । स्यान्निगूढमानो धीरोदात्तो दृढव्रतः कथितः ॥ '  As regards the incidental description of नगर, अर्णव &c, it is stated that  'न्यूनमप्यत्र यैः कैञ्चिदङ्गैः काव्यं न दुष्यति । यद्युपात्तेषु संपत्तिराराधयति तद्विदः ॥"
@@ -342,8 +289,6 @@ Nṛisiṁha Purâṇa, Padma-Purâṇa, and other Purâṇas, in Yoga- vaśish�
 यदेतैर्निःशेषैरपरगुणलुब्धैरिव जग–  
 त्यसविकश्चक्रेसततसुखसंवासवसतिः॥’**
 
-
-
 grammar, it can not be expected to come up in point of beauty to any one of the well-known Mahâ-Kâvyas. Still it must be said in fairness to the author that the work is by no means dry or dull, and that there are many passages[^8], 25, 41, 47. Canto III., Sts. 12-14, 51-55; Canto IV., Sts. 35, 36, 38, 39. Canto V., Sts. 10-45, 51, 71-74,84-89, 102. Canto, VI., 10-39, Râma's grief for Sita (73-85), 104, 105. Canto VII., the description of the rainy season and Râma's state in it ( 1-13), 96-99, 106-109. Canto VIII., 82-84, 95-98, 104–126. Canto IX. 55-57, 107, 110-136.")in it, which can stand comparison with the best passages of any of the Mahâ-Kâvyas.
 
 [^8]: "The following are some of these passages in the first nine Cantos:— Canto I., Sts. 6, 7, 8. Canto II., the description of Sarad (Sts. 2-19
@@ -356,8 +301,6 @@ grammar, it can not be expected to come up in point of beauty to any one of the 
 
 [^10]: "Journal of the Bombay Branch of the Royal Asiatic Society 1862, p. 219."
 
-
-
 “The name Vikramâditya is applied to several kings and consequently causes considerable confusion. The first sovereign that is known by it was the Vikramâditya from whom the well-known era takes its name. He is said to have been the son of a Brahmaṇa, named Chandragupta, who married four wives, one of the Brahman caste, another of the Kshatriya, the third of the Vais'ya, and the fourth of the S'udra caste. They were called Brahmani, Bhânumati, Bhâgyavatî, and Sindhumatîrespectively. Each of the four bore him a son. Vararuchi was born of the first wife, Vikramârka of the second, Bhaṭṭi of the third, and Bhartrihari of the fourth. Vikramarka became king while Bhaṭṭi served him as Prime-Minister. After an incredibly long reign he is said to have been killed by a Prince of the potter caste, named S'alivâhana in 56 B. C. and in that year commences his era".[^11]In his Preface to the S'atakas Bohlen remarks**:—**“They say that Vikrama in fact got possession of the kingdom and took to himself Bhatti as Prime-Minister. But in this again they seem to have gone wrong, confounding both persons and times. For there exists a grammatical poem called Bhaṭṭi-Kâvya, describing at the same time the exploits of Râma, which has been attributed to a certain grammarian belonging to a later age called Bhartrihari, and from the name of this poem, I think, Bhaṭṭi seems to have been considered as the brother of this, our Bhartṛihari."[^12] These writers seem to have been misled by what some of the Commentators on the work have said. Nârâyaṇavidyâvinodâchârya[^13]gives Bhartṛihari as the name of the author. He thus begins his commentary, which he calls Bhaṭṭibodhinî**:—“नत्वा रामपदद्वन्द्वमरविन्दं भवच्छिदम्। विद्याविनोद आचार्यः कुरुते भट्टिबोधिनीम्॥ अथ पाणिनिकृतलक्षणार्थानवगन्तुमशक्नुवतां भाष्यकारजिनेन्द्रप्रभृतिनानाम-**
 
 [^11]: "Indian Antiquary Vol. I., p. 319. This story is mentioned by Bohlen also. "
@@ -365,8 +308,6 @@ grammar, it can not be expected to come up in point of beauty to any one of the 
 [^12]: " Bohlen's Preface to the S'atakas p. 6."
 
 [^13]: "He was son of Vânes'vara, brother of Jatâdhara, of the family of Pûrvagrâma. In explaining grammatical forms he cites the authority of Kramadiśvara's Sankshiptasâra, used in Bengal."
-
-
 
 **तानुसारिणां संदेहसंदोहव्याधिपीडितानां** **शिष्यप्रशिष्याणामुद्दिधीर्षुर्भगवान् श्रीधरस्वामिसूनुर्भर्त्तृहरिः काव्यच्छलेन समस्तं व्याकरणार्थं दर्शयन् रामकथयैवात्र मङ्गलान्तरमनादृत्य काव्यमिदमारब्धवान्। तत्र शब्दलक्षणं धातुमूलकत्वात् सकलपादानां धातुपादंप्रथममेवाभिधास्यामीति सत्यां चिकीर्षायां** **भवतेः क्रियावाचित्वादाह अभूदिति।”.**Vidyâvinoda also calls his commentary Bhaṭṭi-chandrikâ and the author Bhartṛihari, son of Srîdharasvâmin**:—अत्रकविता श्रीधरस्वामिसूनुना भर्त्तृहरिणा सर्गबन्धः।'.**Kandarpachakravartin does the same**:–अत्र तावन्महामहोपाध्यायश्रीभर्त्तृहरिकाविना शब्दकाण्डयोर्लक्षणम्।. '**Bharata-mallika, 'who lived at Kânchârpârâ in the Hooghly district, about 150 years ago,'[^14] speaks of Bhartṛihari as the author of the work in his commentary, Mugdhabodhinî**:—नत्वा शंकरमभ्वष्टगौराङ्गमल्लिकात्मजः। भट्टिटीकां प्रकुरुते भरतो** **मुग्धबोधिनीम्॥ ...... भर्तृहरिर्नाम कविः श्रीरामकथाश्रयं चकार।'.**The manuscript from Benares, collated by me, and designated B., calls the poem Bhaṭṭi-Kâvya at the end of each Canto without naming the author,[^15]but at the end of the twelfth Canto it states **‘इति श्रीभर्त्तृहरिकृते भट्टिकाव्ये द्वादशः सर्गः।’**
 
@@ -378,8 +319,6 @@ grammar, it can not be expected to come up in point of beauty to any one of the 
 
  We thus come to two questions, I, whether Bhaṭṭi is the name of the author of the poem known as Bhaṭṭi-Kâvya, and II.
 
-
-
 whether he was identical with Bhartrihari or distinct from him. The oldest manuscript C. and two other manuscripts D₂and T₃distinctly call the work Râvaṇavadha and the author Bhaṭṭi. Jayamangala and Mallinâtha, both call the author Bhaṭṭi. Traditions described by Dr. Bhau Dâji and S'âstri S'eshagiri mention Bhatti and Bhartrihari as two distinct persons. In the Index to Professor Aufrecht's catalogue of the Oxford MSS. Bhaṭṭi is stated to be the author of the Bhaṭṭi-Kâvya.[^16] Bhatti's name is found in a verse in the Bhojaprabandha[^17].Bhaṭṭi is mentioned by name by Kshemendra[^18] of the 11th century and Vallabhadeva of the 15th century. In Vallabhadeva's Subhashitavali, both Bhaṭṭi and Bhartrihari have been separately cited. In the last-named work verses are quoted from the Bhaṭṭi-kâvya under three names, Bhaṭṭi, Bhattasvamin, and Bhartrisvamin.[^19]  C. II. St. 19 न तज्जलं यन्त्र सुचारुपङ्कजं न पङ्कजं तद्यदलीनषट्पदम् ।   न षट्पदोऽसौ न जुगुञ्ज यः कलं न गुञ्जितं तत्र जहार यन्मनः॥भट्टेः- (No. 1819 in Dr. Peterson's Subhâ. ) C. II. St. 6. प्रभातवाताहतिकम्पित' कृतिः कुमुद्रतीरेणुपिशङ्गविग्रहम्।  निरास भृङ्गं कुपितेव पद्मिनी न मानिनी संसहतेऽन्यसंगमम्॥भट्टेः No. 2164 in Dr. Peterson's Subha. ) C. II.St5, वनानि तोयानि च नेत्रकल्पैः पुष्यैः सरोजैश्व विलनिभृङ्गैः।  परस्परं विस्मयवन्ति लक्ष्मी मालोकयांचकुरिवादरेण॥भट्टस्वामिनः(No. 1811 in Dr.Peterson's Subbâ. ) C. XI. St. 21.पीतौष्ठरागाणि हताञ्जनानि भास्वन्ति लोलैरलकैर्मुखानि।  प्रातः कृतार्थानि यथा विरजस्तथा न पूर्वेद्युरलंकृतानि॥भर्त्तृस्वामिनः (No. 2139 in Dr. Peterson's Subha.)")Two
 
 [^16]: "Vide p. 509."
@@ -389,8 +328,6 @@ whether he was identical with Bhartrihari or distinct from him. The oldest manus
 [^18]: "Vide the verse quoted on p. XI."
 
 [^19]: "C. II. St. 9. गर्जन् हरिः साम्भसि शैलकुञ्जे प्रतिध्वनीनात्मकृतान् निशम्य  पदं बबन्ध क्रमितुं सकोपः प्रतर्कयनन्य मृगेन्द्रनादान् ॥ भट्टेः  (No. 2410 in Dr. Peterson's editon of the Subhashit
-
-
 
 verses, which are assigned to Bhaṭṭ
 
@@ -418,8 +355,6 @@ i-Kâvya'. That he was son of S'rîdharasvâmin or S'rî- svâmin is mentioned b
 
 [^22]: " The Ms. c. at the end says:—इति वङभीवास्तव्यश्रीधरस्वाभिसूनोर्भढ्ढब्राह्मणस्य कृतौ रावणवधे महाकाव्ये तिङन्तकाण्डे लुट्प्रदर्शनो नाम द्वाविंशतितमः सर्गः । ' Jaya - · mangala calls him son of S'rîsvâmin, Kumudânanda in his Subodhinî does the same. 'अत्र कविना श्रीस्वामिमनुना सर्गबन्धलक्षणं प्रकीर्णकाण्डं प्रथमं दर्शयितुं तस्य विषयव्यापकत्वात् तत्रादौ वस्तुनिर्देशं कुर्वन् इष्टदेवतास्मरणात्मकं मङ्गलं विघ्नोपशान्तये करोति ।'. Nârâyaṇavidyâvinoda gives Sridharasyâmin as the name of his father."
 
-
-
 MS. D. Bhaṭṭ
 
 i is the Prâkṛita form of the Saṁskṛita, word Bhartṛi and his father's name being S'rîsvâmin or S'rîdhara-svâmin, he was called Bhartṛisvâmin, a combination of the name Bhartṛi with the family appendage, Svâmin. The Gujarâti names contain many instances of this kind. If the father's name ends in S'ankara, Râma, Nârâyaṇa, or some such word, the son's name also generally ends in the same form. Bhaṭṭ
@@ -437,8 +372,6 @@ a must have been his surname, and it being combined with Svâmin, he was called 
 कीर्त्तिरतो भवतान्नृपस्य तस्य  
 प्रेमकरः क्षितिपो यतः प्रजानाम्॥’**
 
-
-
  In the word S'rî-Dharasena used in the above verse, S'rÎ is simply honorific.[^25]The copperplate grants of Valabhî kings that have come to hand shew that there were four kings of the name of Dharasena.[^26] The dates of Dharasena I. can not be  
 ——————————————————————————————————————————————————————————————
 
@@ -447,8 +380,6 @@ a must have been his surname, and it being combined with Svâmin, he was called 
 [^26]: "The genealogy of Valabhi kings as gathered from their copperplate grants is as follows:—"
 
 ![](../books_images/U-IMG-1726328014pic.PNG)
-
-
 
 ascertained, as none of his grants have been hitherto discovered. The extreme limits between Dharasena II. and Dharasena IV. seem to be 80 years, as the earliest grant, hitherto known, of Dharasena II. is dated Saṁvat 252, and the latest grant of Dharasena IV. is dated Saṁvat 332. A grant of Dhruvasena III. is dated Saṁvat 332. This settles the date of the end of Dharasena IV.'s reign. The beginning of his reign is less certain, as only one grant of his predecessor, Dhruvasena II., dated Saṁvat 310, has been found. The Saṁvat referred to in these grants is the Valabhi or Gupta era,[^27]the first year of which corresponds to A. D. 319 as settled by a stone inscription of Somanâth-Pattana, shewing a grant of Arjunadeva of Gujarat.[^28]. The original of it is in the temple of Harsata at Verâval.")The inscription is dated in the Hijra year 662, Vikrama Saṁvat 1320, Valabhî Saṁvat 945, and Simha Saṁvat 151, Ashâḍha Vadi 13.[^29] Ranka, a disaffected subject of Valabhî, bribed the Arab lord of Mansûra to send a naval expedition against Valabhi. 'In a night attack king Valabha was killed and his people and town were destroyed'. Bombay Gazetteer Vol. I. Part I. p. 94.") Thus Vikrama Saṁvat 376 or S'aka 242 was the first year of the Valabhi era. As Al-birûnî states, S'aka S. 242 and Vikrama Saṁvat 376 was the starting-point of the Gupta or Valabhi era ('era of Balab'). Gukasena's son Dharasena II. is considered to be the patron of Bhaṭṭi by Lassen, but this is nothing more than a mere guess.[^30] The name of Bhaṭṭi is found
 
@@ -460,10 +391,6 @@ ascertained, as none of his grants have been hitherto discovered. The extreme li
 
 [^30]: "Vide Max Müler's 'India, What can it teach us' p. 350."
 
-
-
-
-
 in two ValabhÎ copperplates. In Dhruvasena I.'s grant, dated Saṁvat 221, he is described as an officer superintending the king's kitchen and as executive officer.**‘दूतकस्सूपकारपतिभट्टि लिखितं किक्ककेनेति'.[^31]**His name is also found as that of the done in Dhruvasena III.'s grant, dated Saṁvat 334.**'श्रीभुत्रसेनः कुशली सर्वानेव समाज्ञापयति—‘अस्तु वः संविदितम्—यथा मया मातापित्रोः पुण्याप्यायनाय महिच्छ (क) विनिर्गतमहिच्छकवास्तव्यैतच्चातुवैिद्यसामान्यकौशिकसगोत्रवाजसनेयसब्रह्मचारिब्राह्मणविप्पुत्रभट्टिभदाय[^32] शिवभागपुरविषये दक्षिणपट्टे पट्टपद्रकगामः सोद्रङ्गः** **सोपरिकरः . . . . . . . . . .उदकातिसर्गेण धर्मदायो निसृष्टः**। 'If the[^33] Bhaṭṭi of these two grants be the same as our poet, it gives him a rather long life.[^34]There is, however, no evidence to prove that the poet Bhaṭṭi is identical with the Bhaṭṭi of these grants, nor is there any evidence to prove which of the Dharasenas was his patron. From the fact that the Valabhi dynasty was at no time free from vassalage except in the reign of Dhara- sena IV., who calls himself ' **महाराजाधिराजपरमेश्वरचक्रवर्त्तिश्रीधरसेनः’** some think that the Dharasena referred to by Bhaṭṭi in his last, verse is Dharasena IV. The well-known Sanskrit poem Bhaṭṭi- Kâvya seems to have been composed in the reign of this king as at the end of his work the author says it was written at Valabhi protected (governed) by the king, the illustrious Dharasena.
 
 [^31]: "This copper-plate grant of Samvat 221 has not yet been printed. It was brought to my notice by Acharya Vallabhaji Haridatta of Rajkot. He writes to me that it was one of the many copperplates that were brought to him. He copied them for himself and then returned them to him."
@@ -474,17 +401,9 @@ in two ValabhÎ copperplates. In Dhruvasena I.'s grant, dated Saṁvat 221, he i
 
 [^34]: "Considering him to be at least 20 when he was दूतक and to have lived 5 years after the grant was made to him, he seems to have lived: at least 138 years."
 
-
-
 The author's application to Dharasena of the title Narendra, Lord of Men, is a further proof of his great power' (Bombay Gazetteer Vol. I. Part I. p. 92). But even Dharasena I. calls himself Mahâsâmanta as well as Mahârâja and therefore the application of the word **नरेन्द्र**hardly warrants the conclusion that the supreme lord, the Chakravartin Dharasena, i. e. Dharasena IV., is alluded to by the poet. Thus it is difficult to decide in the present state of our knowledge what particular Dharasena was the author's patron. But this much is certain that one of them was and that therefore our poet lived in the latter part of the sixth and the beginning of the seventh century.
 
-
-
-
-
 **————————**
-
-
 
 **COMMENTARY.**
 
@@ -512,8 +431,6 @@ Sarvapathina by Mallinâtha.*
 
 [^36]: " Sankshiptasâra is composed by Kramadiśvara. It is also used in Bengal. There is a commentary on it by Gopâlachakravartin and Goyichandra. Durghaṭaghatana is another commentary on the work."
 
-
-
 rules of the Kaâpa**-**Vyâkaraṇa. Bharatamallika quotes the Sûtras from the Mugdhabodha[^37]grammar in explaining the forms.
 
 [^37]: "Mugdhabodha is composed by Vopadeva. This grammar is also. much studied in Bengal like Kalâpa and Sankshiptasâra. There are- many commentaries on it, one by the author himself, another, styled Subodhini, by Durgâdâsa, a third by Râmânanda and so forth. Vopa- deva's other works are Kavikalpadruma, an alphabetical catalogue of roots in verse, which contains a verse mentioning eight grammarians ' इन्द्रश्चन्द्रः काशकृत्स्नापिशली शाकटायनः । पाणिन्यमरजैनेन्द्रा जयन्त्यष्टादिशाब्दिकाः॥ "
@@ -526,10 +443,6 @@ rules of the Kaâpa**-**Vyâkaraṇa. Bharatamallika quotes the Sûtras from the
 
 [^40]: "C. VII. St. 103."
 
-
-
-
-
 fixed for Mallinâtha.[^41]In this commentary, however, there are two allusions to the Kaumudi (the Siddhânta-Kaumudi of Bhaṭṭoji Dikshita),[^42] and as the time of Bhaṭṭoji Dikshita is fixed to be the 17th century,[^43] शेषवीरेश्वरः (पुत्रः ) पण्डितराजजगन्नाथः ( शिष्यः )  Vide. Introduction to the Rasagangâdhara (N. S. Press). Jagannatha lived in the reign of Shah Jahan and thus the beginning of the 17th century is the time of Bhattoji-Dikshita.") the question arises whether this Mallinatha is identical with the well-known Mallinâtha, the commentator on the famous Mahakavyas. In fact we have to decide three questions. I. Whether Mallinatha, the commenta- tor on the Bhatti-Kavya, is the same as the well-known Malli- natha. II. Whether Mallinâtha lived before Bhaṭṭoji Dikshita or after him. III. Whether the references represent the com- mentator's actual words or whether they are later interpolations. As regards the first question**:—**
 
 [^41]: "Vide Dr. Bhandarkar's Preface to the Malatimâdhava and Mr. K. B. Pâthaka's Preface to the Meghadûta."
@@ -540,17 +453,11 @@ fixed for Mallinâtha.[^41]In this commentary, however, there are two allusions 
 
  On comparing this commentary with those of Mallinatha on the Raghuvaṁsa, the Kumâra-Sambhava the Meghadûta, the S'is'upâlavadha and the Kirâtârjunîya, I am convinced that the two persons are identical. I find the same references to the Kâs'ikâ, Vâmana and Nyâsakara, the same definitions of figures of speech mostly drawn from Vidyânâtha's Pratâparudra, the same allusions to Dandin, and quotations from the same Koshas, Amara, Yàdava, Vis'va, Bhaṭṭamalla. Moreover the commentator on the Bhaṭṭi-Kâvya himself shews his identity with the well-known Mallinâtha by alluding to his commentary Ghantāpatha twice **( 'इत्यादि प्रपञ्चितमस्माभिः किरातार्जुनीयव्याख्याने** **घण्टा–**
 
-
-
-
-
 **पथेऽर्थगौरवमित्यत्रोपरम्यते'** C. I., St. 6, and **'अभिवादिदृशोरात्मनेपद** **उपसंख्यानादणिकर्त्तुर्वा कर्मत्वं तदेतदस्माभिर्घण्टापथे स सन्ततं दर्शयते गतस्मय इत्यत्र** **यथाभाष्यं सम्यग्विवेचितमित्यस्माभिर्नात्र भरः कृतः** ' C. XIV, St. 54), SanjÎvini on the Raghuvamśa **(रामायणविरोधस्तु पुराणभेदात्परिहृतोऽस्माभिः** **रघुवंशसंजीविन्यामेव '** C. I., St. 25), and Sanjîvinî on the Kumârasambhava ("**ऊकारादप्यूङ् वक्तव्यः' इति ऊङन्तत्वात्सुभ्रुशब्दस्य नदीत्वात्संबुद्धौ नदीन्हस्व इति** **प्रपञ्चितमन्यत्र”** by **अन्यत्र** he means **कुमारसंभवसंजीविन्याम्,** and the reference is found there C. V. St. 43). We also find the same name **महोपाध्यायकोलाचलमल्लिनाथसूरि.** The word **माल्य** is derived in the same way in the Bhaṭṭi - Kâvya 2. 26 and the KirâtarjunÎya 1. 21. All the above circumstances leave no ground to doubt his identity with the well-known Mallinâtha, unless we were to hazard a conjecture, a conjecture which has not the slightest argument to stand upon, that the commentator on the Bhaṭṭi-Kâvya not only assumed the name and the surname of Mallinatha, imitating him so very cleverly and exactly in every respect as to pass for him, but he was also so very dishonest that he proved his own identity by speaking of Mallinâtha's commentary on the Kirâtârjunîya, the Raghuvams'a and the Kumarasambhava as his own. It is thus proved that the two Mallinâthas are not two distinct persons, but one and the same.
 
  With regard to the second question whether Mallinâtha flourished before Bhaṭṭoji DÎkshita or after him, it has already been mentioned before that Mallinâtha is assigned to the fifteenth century and Bhaṭṭoji Dikshita to the 17th century. If Mallinâtha flourished after Bhaṭṭoji Dîkshita, we should find some allusion to the Siddhântakaumudî in any one of the many passages[^44], ' रघूणामन्वयं वक्ष्ये' १, ९ ( K. p. 117), ' स बभूवोपजीविनाम् ' १,१६ (K, p. 303), 'धुर्यान् विश्रामय' १, ५४ ( K. p. 214 ) • विस्मापयन् विस्मितमात्मवृत्तौ ' २, ३३ ( K. p. 259), ' अमुं पुरः पश्यसि देवदारुम्' २, ३ ६ (Ma. Pt. p. 66 ), 'कुमारभृत्याकुशलैरनुष्ठिते ' ३, १२ (Ma. Utta. p. 99 ), ' त्रिलोकनाथेन सता मखद्विषः ३, ४५ ( Ma Pa p. 63), 'वया नियम्या ननु दिव्यचक्षुषा ' ३, ४५, ( K. p. 291), 'इक्षुच्छायनिषादिन्यः ' ४, २० ( K. p. 83), ' तस्यामेव रघोः पाण्डघाः ' ४, ४९ (K. p. 117 ), ' संसृज्यते सरसिजैररुणांशुभिन्नैः ' ५, ६९ (K. p. 234 ).")qnoted from the Raghuvaṁs'a, the Kumâra
 
 [^44]: "रघु० ' सोऽह माजन्मशुद्धानाम् ' १,५ ( K. p. 15
-
-
 
 sambhava, the Meghadûta, The KÎrâtarjunÎya, the Śiśupâlavadha in the Kaumudî and the Manoramâ**.** Moreover though there are so many passages quoted from the Bhaṭṭi-Kâvya in the Kaumudî and the Manoramá ( vide foot-note p. x. ), no references ( are given in the commentary except in two places C. I. St. 23, and C. VIII. St. 16. As Mallinâtha frequently quotes from the Kasi'kâ and follows it as in explaining the forms **सुतानुबन्धि** १. १० (taking **इनि** and not **णिनि )** and **उपायंसत** **१. १६** ( taking **स्वकरण** to mean **पाणिग्रहण** as in the Vṛitti and not **स्वीकार** as in the Siddhânta-Kaumudî ), and as some of his readings, such as **‘कास्यनेकाज्ग्रहणं 'चुलुम्पाद्यर्थम्,’** & Vārtika on **“कास्प्रत्ययादाममन्त्रे लिटि”** ३\।१\।३५\।\। and ‘**डच्प्रकरणे संख्यायास्तत्पुरुषस्योपसंख्यानं** **कर्त्तव्यं निस्त्रिंशाद्यर्थम्'** a Vârtika on **“बहुव्रीहौ संख्येये डजबहुगणात्”** ५।४।३॥ are found to agree with those of the Kâs'ikâ and not of the Kaumudî, and as notwithstanding so many quotations from the well-known five Mahâkâvyas and from the Bhaṭṭi-Kavya, Mallinâtha does not refer to the Kau,  
 ——————————————————————————————————————————————————————————————
@@ -563,15 +470,9 @@ sambhava, the Meghadûta, The KÎrâtarjunÎya, the Śiśupâlavadha in the Kaum
 
  **माघ ० ‘पतत्यधो धाम विसारि’** १, २ ( K. p. 303), **'स्फुटोपमं भूतिसितेन शम्भुना** १, ४ (Ma. Pû. p. 57), **'प्रभुर्बुभूषुर्भुवनत्रयस्य'** १, ४९ ( K. P. 61), **' पुरीमवस्कन्द लुनीहि नन्दनम्** ' १,५१ ( K. p. 289 ), **' जगत्प्रभोरप्रभविष्णु वैष्णवम् '** १, ५४ ( K. p. 311 ), **'यमा** **मपराध्यति '** २,११ ( K. p. 235 ), **'विराध्यन्तं क्षमेत कः** ' २, ४३ ( K. p. 235 ), **'माजीवन्** **यः परावज्ञादुःखदग्धोऽपि जीवति '** २, ४५ ( K. p. 311 ), **' यां यां प्रियः प्रेक्षत कातराक्षी '** ३,१६ (K. p. 184 ), **'निरुध्यमाना यदुभिः कथञ्चित् '** ३, २९ ( K. p. 117 ), **वारुणीवशवदं** **कमथाविश्चक्षुषोऽभवदसाविव रागः '** १०, १९ ( M. Pu. p. 65 ), **'बहु जगद सुरस्तात्तस्य** **मत्ता किलाहम् '** ११, ३९ ( K. P. 285 ), **' अन्योन्येषां पुष्करैरामृशन्तः** १८, ३२ ( K. p. 184 ).
 
-
-
 mudi or the Manorama for any of them except for the two passages noted above, nay in some cases (as in **‘हा पितः क्वासिहे सुभु’** VI. 11, **‘सुतानुभन्धि’** I. 10) actually solves the difficulty either in the way adopted by the Vṛittikâra or in some way other than the one followed by Bhaṭṭoji Dîkshita, it is quite clear that Mallinåtha lived before Bhaṭṭoji Dîkshita.
 
  Thus with regard to the third question as to whether the two references to the Siddhanta-Kaumudi are the author's own references or whether they are later interpolations, the answer is quite clear that they must be considered as interpolations. They may have been originally marginal notes of some copyist and afterwards inserted into the com- mentary. It is also to be remembered that it is only from two manuscripts that the text of the commentary is settled. I tried my best to see whether these references are correct by comparing them with the text of the commentary as found in other manuscripts; but I failed, as copies of the commentary of Mallinâtha are found only in the Southern parts and there too they are rare. With regard to these references, however, my conclusion is found to be correct. I have been able to secure a copy of the commentary of Mallinâtha on C. VIII. St. 16 from another manuscript in charge of the Theosophical Society of Madras and I found that it was in every respect the same as what is printed in this work with this exception that the reference to the Kaumudi **(‘कौमुद्यां तु समो गम्यृच्छिभ्यामिति पाठः। तदा** **तत्रत्यवार्त्तिकेनात्मनेपदम्’),** was omitted there. It must also be noted that the same Sûtra " **“समो गम्यृच्छि—”**is mentioned by Mallinâtha in preceding verses (C. V. St. 19, C. V. St. 37) as found in the Kâśikâ and not in the Kaumudi and there no remark is made as in C. VIII. St. 10 as to the difference of the readings as found in the Vṛitti and the Kaumudt. It is thus very probable, almost certain, that this reference to the Kaumudi is spurious. As regards the second reference to the Kaumudi (C. I. St. 23) I have secured, through the untiring efforts of my friend, Prof. Râdhâkrishṇa, a copy of the commentary of Mallinâtha from another manuscript at Udamal pet, in which the reference to the Kaumudî is omitted. I therefore.
-
-
-
-
 
 conclude that the commentator on Bhatti is the same Mallinâtha that has commented upon the Raghuvams'a, the Kumârasambhava, the Meghadûta, the Kirâtârjunîya, and the S'is'upâlavadha, that he flourished before Bhaṭṭoji Dîkshita and that the two references to the Siddhântakaumudî in the commentary are interpolations.
 
@@ -579,21 +480,11 @@ K. P. TRIVEDI
 
 .  
 
-
 *Ahmedâbâd, 11th Oct. 1897.*  
-
-
-
 
 ***————————***
 
-
-
-
-
 [TABLE]
-
-
 
 |                      |                                     |
 |----------------------|-------------------------------------|
@@ -636,8 +527,6 @@ K. P. TRIVEDI
 | म० पू०               | मनोरमा पूर्वार्ध (Benares edition). |
 | मनु०                | मनुस्मृति.                          |
 
-
-
 |                  |                     |
 |------------------|---------------------|
 | मनो०             | मनोरमा.             |
@@ -657,13 +546,7 @@ K. P. TRIVEDI
 | सुभाषि०          | सुभाषितावलि.        |
 | हेम०             | हेमचन्द्र.          |
 
-
-
-
-
 **व्याख्यानपीठिका**
-
-  
 
 ![](../books_images/U-IMG-1725979163des.PNG)
 
@@ -692,8 +575,6 @@ K. P. TRIVEDI
 
 हावीरो नायको रघुनायकः॥७॥
 
-
-
 **नगरार्णवशैलादिवर्णनं चात्र संभवि।  
 फलं दशाननवधः शब्दः शिष्टपुरस्कृतः॥८॥**
 
@@ -708,16 +589,11 @@ K. P. TRIVEDI
 **इहान्वयमुखेनैव सर्वं व्याख्यायते मया।  
 नामूलं लिख्यते किंचिन्नानपेक्षितमुच्यते॥११॥**  
 
-
 **———————**
-
-
 
 **॥श्रीः॥**  
 
 **भट्टिकाव्यम्।**
-
-
 
 **॥मल्लिनाथकृतटीकया समेतम्॥**
 
@@ -725,27 +601,16 @@ K. P. TRIVEDI
 
 **प्रथमः सर्गः।**
 
-
-
 **अभून्नृपो विबुधसखः परन्तपः  
 श्रुतान्वितो दशरथ इत्युदाहृतः।  
 गुणैर्वरं भुवनहितच्छलेन यं  
 सनातनः पितरमुपागमत्स्वयम्॥१॥**  
 
-
-
-
-
-
 अथ तत्रभवान्भट्टिनामा कविः 'काव्यं यशसेऽर्थकृते व्यवहारविदे शिवेतरक्षतये। सद्यः परनिर्वृतये कान्तासंमिततयोपदेशयुजे'॥ इत्याद्यालंकारिकवचनप्रामाण्यात्काव्यस्यानेकश्रेयःसाधनतां 'काव्यालापांश्च वर्जयेत्' इति निषेधशास्त्रस्यासत्काव्यविषयतां च पश्यन् रामकथामाश्रित्य पाणिनीयसूत्राणामुदाहरणं काव्यं चिकीर्षुराशीराद्यन्यतमस्य तदविघ्नसिद्धिकरत्वात्कथानायकस्य रामनाम्नो भगवतः पुराणपुरुषस्याविर्भावभूमेः पुण्यश्लोकतमस्य पुरुषधौरेयस्य महाराजस्य दशरथस्य सत्तारूपं वस्तु काव्यार्थबीजत्वेन निर्दिशति॥
 
  १. अभूदिति॥ विशेषेण बुध्यन्त इति विबुधा विद्वांसो देवाश्च। 'विबुधौ सुरपण्डितौ' इति विश्वः॥ इगुपधलक्षणः कप्रत्ययः॥ तेषां सखा
 
-
-
 विषुधसखो विद्वत्सेवी देवेन्द्रसहचरश्च विजयसहकारित्वात्तस्येति भावः॥ “राजाहः सखिभ्यष्टच्" इति टच्॥ परांस्तापयतीति परन्तपः शत्रुघाती॥ “द्विषत्परयोस्तापेः” इति खच्॥“खचि-ज्हस्वः” इत्युपधाह्रस्वः॥ “अरुर्द्विषत्—” इत्यादिना मुमागमः॥ श्रुतेन वेदशास्त्रश्रवणेनान्वितः स्वयं च विद्वानित्यर्थः। दशरथ इत्युदाहृतो विख्यातः। नृृन् पातीति नृपो नराधिपः॥ “आतोऽनुपसर्गे कः”॥ अभूत् सत्तामलब्धेत्यर्थः॥ “गातिस्था—” इत्यादिना भुवो लुङि परस्मैपदे सिचो लुक्॥ “भूसुवोस्तिङि” इति गुणप्रतिषेधः॥ अथास्य राज्ञस्सत्तालाभस्य फलमाह गुणैरिति। गुणैः शौर्यादिभिर्वरं श्रेष्ठं यं नृपं सना सदा भवस्सनातनो नित्यः पुराणपुरुषः॥ “सायंचिरम्—” इत्यादिना ट्युप्रत्ययस्तुट्व॥ भुवनहितच्छलेन रावणवधादिलोकोपकारव्याजेन। पितरं जनकं स्वयमुपागमदुपागतः॥ गमेर्लुङि पुषादित्वादङादेशः। किमतः परं जन्मनः फलं यज्जगद्गुरोरपि गुरुरजनीति भावः॥ तदुक्तं बालकाण्डे—‘ततः पद्मपलाशाक्षः कृत्वात्मानं चतुर्विधम्। पितरं रोचयामास तदा दशरथं नृपम्’ इति॥ अत्र सनातनः पितरमुपागमदिति नित्यत्वजन्यत्वयोराभासमानस्य विरोधस्य भगवतो हरेरचिन्त्यमहिमत्वेन समाधानाद्विरोधाभासोऽलङ्कारः॥ ‘आभासत्वे विरोधस्य विरोधाभास इष्यते’ इति लक्षणात्॥ रुचिरावृत्तमेतत्॥ ‘चतुर्ग्रहैरिह रुचिरा जभौस्जगाः’ इति लक्षणात्॥ एतच्चात्रैव श्लोके दशरथपदप्रयोगसौकर्यार्थमुक्तम्। अनन्तरश्लोकादारभ्यासर्गान्तादिन्द्रवज्रोपेन्द्रवज्रापादयोगि त्रैष्टुभमुपजातिवृत्तम्॥ ‘अनन्तरोदीरितलक्ष्मभाजौपादौ यदीयायुपजातयस्ताः’ इति लक्षणात्॥ अत्रादावकारस्य विष्णुवाचकत्वात्पदस्य सत्तावचनत्वाद्वस्तुनिर्देशरूपत्वाच्च मंगलावहत्वम्। जगणस्य निषिद्धस्यापि भगणोत्तरत्वाच्छुभत्वम्॥ तदुक्तं भारतीये—‘म्नस्तभ्रज्या गणा ह्यष्टौ तेषु म्नयतभाः शुभाः। जस्तजैर्जस्तभैयुक्तस्स्रोतरोरः शुभप्रदः’॥ इति सर्वमवदातम्॥
-
-
 
 **सोऽध्यैष्ट वेदांस्त्रिदशानयष्ट  
 पितृृनपा[^45]रीत्सममंस्त बन्धून्।  
@@ -755,10 +620,6 @@ K. P. TRIVEDI
 [^45]: "पितॄनतासीत् T2 T3, T4, Com.; वितृनतारीत् E1; पितॄनतार्पीत्noticed by E."
 
  २.सोऽध्यैष्टेत्यादि॥ गुणैर्वरमित्युक्तं तदेव व्यनक्ति स इत्यादिश्लोकत्रयेण॥ स दशरथः। वेदयन्ति समग्ज्ञापयन्ति धर्माधर्माविति वेदा ऋग्यजुःसामानि॥ ‘स्त्रियामृक्सामयजुषी इति वेदास्त्रयस्त्रयी’ इत्यमरः॥ वेत्तेर्ण्यन्तात्पचाद्यच्। तानध्यैष्टाधीतवान्। इङो लुङि ङित्वात्तङ्॥ “विभाषा लुङ्लृङोः” इति गाङभावपक्षे च्लेःसिचि षत्वष्टुत्वे॥ “आडजादीनाम्”।“आटश्च" इति वृद्धिः॥ त्रिः दश परिमाणमेषां त्रिदशाः। बहुव्रीहिसमासान्तो डच्। तिस्रो दशा वयोवस्था येषामिति वा त्रिदशा देवाः। तानयष्ट यागैः पूजितवान्। यजेर्लुङि कर्त्रभिप्राय आत्मनेपदम्। अत्र सिचोऽकित्वान्न संप्रसारणम्। वश्चादिना षत्वम्॥ "झलो झलि" इति सकारलोपः॥ ष्टुत्वम्। पितृृनतार्प्सीत् पितृयज्ञैर्भाविनीं वृत्तिमाश्रित्य प्रजया च तर्पितवान्॥ "स्पृशमृशकृषतृपदृपां सिज्वा वक्तव्यः"॥ "अस्तिसिचोऽपृक्ते" इति इडागमः॥ "अनुदात्तस्य च—" इत्यादिना अमागमाभावपक्षे सिचि वृद्धिः॥ एतावतास्य त्रिविधमप्यानृण्यमुक्तम्॥ 'एष वा अनृणो यः पुत्री यज्वा ब्रह्मचारिवासी’ इत्यादि श्रुतेः॥ बन्धून्स्वजनान्। ‘बन्धुस्वस्वजनाः समाः’ इत्यमरः। सममंस्त दानसंमानादिभिः सत्कृतवान्। अन्यथा ‘आश्रितान्यः परित्यज्य बन्धूनपि च पार्थिवः। परपोषरतो मूढः सोऽक्षयं नरकं व्रजेत्' इति दोषस्मरणादिति भावः। मन्यतेरनिटो लुङि तङ्। 'तदादिग्रहणं स्यान्नुमर्थम्' इति सिजन्तस्याङ्गत्वेन इदित्वात्” अनिदिताम्—" इत्यादिना नलोपो नास्ति। षण्णां वर्गः षड्वर्गः कामक्रोधाद्यरिषङ्वर्गः। तं व्यजेष्ट विजितवान्। अस्थाने
-
-
-
-
 
 कामक्रोधादिरहित इत्यर्थः। जयतेर्लुङि “विपराभ्यां जेः” इत्यात्मनेपदम्। स्वरान्तत्वादनिट्त्वम्। सिचोऽकित्वाद्गुणः। नीतौ सामादिसंध्यादिप्रयोगविधौ। अरंस्त विस्रब्धं व्यवहृतवान् इत्यर्थः। रमेर्लुङि सिचोऽकित्वान्नानुनासिकलोपः। नीतिकौशल्यस्य फलमाह। अरीन् बाह्यशत्रूंश्च। समूलं हत्वा समूलघातम्॥ “समूलाकृतजीवेषु हन्कृञ्ग्रहः” इति णमुल्प्रत्ययः॥ उपधावृद्धिः॥ “हो हन्ते—” इति कुत्वम्॥ “हनस्तोऽचिण्णलोः” इति तत्वम्॥ न्यवधीत् निहतवान्॥ “कषादिषु यथाविध्यनुप्रयोगः"॥ “लुङि च” इति हनो वधादेशः॥ अदन्तत्वादिडागमः। अतो लोपस्य स्थानिवद्भावात्” अतो हलादेर्लघोः" इति वैभाषिकी च वृद्धिर्न भवति॥ “इट ईटि” इति सिज्लोपः॥ इह काव्ये प्रयोगवैचित्री तावदेकोऽलंकारः सार्वत्रिकः। अन्येऽपि शब्दार्थालंकारास्तत्र तत्र यथासंभवमुद्भावयिष्यन्ते। अत्र ह्यध्ययनादिक्रियायौगपद्यात्समुच्चयभेदोऽलंकारः। ‘गुणक्रियायौगपद्ये समुच्चयः' इति लक्षणात्॥
 
@@ -771,8 +632,6 @@ K. P. TRIVEDI
 
  ३. वसूनीति ॥ असौ नृपः वसूनि धनानि। ‘रिक्थं धनं वसु’ इत्यमरयादवौ। तोयं घनवत्॥ “तेनतुल्यम्—" इत्यादिना वतिप्रत्ययः॥ व्यतारीत् वितीर्णवान् अर्थिभ्य इति शेषः। तरतेर्लुङि “इट ईटि” इति सिज्लोपः। मेघौपम्यान्निर्व्याजोपकारित्वं बहुप्रदत्वं सार्वत्रिकत्वं चोक्तम्। गोत्रभिदा इन्द्रेण सह आसनमध्यवात्सीत्। एकासने स्थितवानित्यर्थः। विजयसहकारित्वादिति भावः॥ “उपान्वध्याङ्वसः” इति कर्मत्वम्॥ वसेर्निवासार्थादनिटो लुङ्॥ “अस्तिसि-
 
-
-
 चोऽपृक्ते” इति ईट्॥ “वदव्रज—” इत्यादिना हलन्तलक्षणा वृद्धिः॥ “सः स्यार्धधातुके” इति सकारस्य तकारः॥ किं च। त्र्यम्बकात् त्रिलोचनात्। ‘अक्षि लोचनमम्बकम्' इति यादवः। अन्यं देवं नोपास्थित नासेविष्ट किमुतार्वाचीनमिति भावः। उपपूर्वात् तिष्ठतेर्लुङि देवपूजायामात्मनेपदम्॥ “स्थाध्वोरिच्च” इति इत्वकित्वे॥ “ह्रस्वादङ्गात्” इति सिज्लोपः॥ सर्वेषामिषुभृतां धनुर्भृतां यशांसि निरास्थत् निरस्तवान्। एतेन भुजार्जितसंपत्त्वमुक्तम्॥ “अस्थतिवक्तिख्यातिभ्योऽङ्”॥“अस्यतेस्थुक्”॥ उपमासमुच्चययोः संसृष्टिः॥
 
 **पुण्यो महाब्रह्मसमूहजुष्टः  
@@ -781,8 +640,6 @@ K. P. TRIVEDI
 यथाध्वरे वह्निरभिप्रणीतः॥४॥**
 
  ४. पुण्य इति॥ पुनातीति पुण्यः पावनः॥ “पूञो यण्णुघ्रस्वश्च” इति औणादिको यदन्तः। महाब्रह्मणां महाब्राह्मणानां समूहैर्जुष्टः॥ “कुमहदभ्यामन्यतरस्याम्” इति समासान्तविकल्पात्। वसिष्ठाद्युत्तमद्विजसंघसेवित इत्यर्थः। ब्रह्मा विरिञ्चिद्विजयोः’ इति विश्वः। नाकसदां दिविषदाम्। संपदादित्वात्क्विप्। कर्मणि षष्ठी। संतर्पयतीति संतर्पणः यज्ञादिभिः सन्तर्पयिता अग्निमुखत्वाद्देवानां तर्पणः॥ “कृत्यल्युटो बहुलम्” इति कर्त्तरि ल्युट्॥ वरेण्यः वरणीयः श्रेष्ठः॥ “वृञ एण्यः” इत्यौणादिक एण्यप्रत्ययः॥ स राजा दशरथः अध्वरे यज्ञे अभिप्रणीतः गार्हपत्यादुद्धृत्याहवनीयायतने मन्त्रैराभिमुख्येन स्थापितो वह्निर्यथा आहवनीय इव लोकानां स्थितये प्रतिष्ठायै जज्वाल दिदीपे। प्रजापालने जागरूकोऽभूदित्यर्थः। अन्यथा सर्वलोकविप्लवः स्यात्। अग्ररप्यज्वलने लौकिकवैदिकसर्वक्रियाप्रतिबन्धात् स एव दोषः स्यादिति भावः। श्रौतपूर्णोपमालंकारः॥
-
-
 
 **स पुण्यकीर्त्तिः शतमन्युकल्पो  
 महेन्द्रलोक[^47]प्रतिमां समृद्धया।  
@@ -808,8 +665,6 @@ K. P. TRIVEDI
 
 ६.अथ त्रिभिरयोध्यां वर्णयति निर्माणेत्यादिभिः॥ समीहितेषु संकल्पितार्थेषु विषये निर्माणदक्षस्य अपूर्वसृष्टिसमर्थस्य पद्मासनस्य ब्रह्मणः कौशलस्य नैपुण्यस्य सीमा परमावधिरिव स्थितेत्युत्प्रेक्षा। अतोऽधिकसृष्टौ सोऽपि न समर्थ इत्यर्थः। पद्मासनकौशलस्येत्यत्र न “पूरणगुण—” इत्यादिना षष्ठीसमासप्रतिषेधः। शुक्लः पटः पटस्य शुक्ल इति गुणे गुणिनि च दृष्टानां शुक्लादिशब्दानामेव निषेधात्। केवलगुणवच-
 
-
-
 नानांकौशलं चापलं गन्धो रस इत्यादीनामनिषेधात्। ‘तत्स्थैश्च गुणैः षष्ठी समस्यते’ इति वचनाद्बहुलमभियुक्तप्रयोगात्। पत्रपीतिमेत्यादौ बलाकायाः शौक्ल्यमित्यादिभाष्यकारप्रयोगेण निषेधज्ञापनादित्यादि प्रपञ्चितमस्माभिः किरातार्जुनीयव्याख्याने घण्टापथेऽर्थगौरवमित्यत्रोपरम्यते। किं च ऊर्ध्वं स्फुरद्भिः उपरि प्रसर्पद्भिः रत्नानां गभस्तिभिर्मयूखैर्मघोन इन्द्रस्य पुरीममरावतीं विहस्य हसित्वेव स्थितेति पूर्वोत्प्रेक्षया सजातीयया संकरः॥
 
 **सद्रत्नमुक्ताफलवज्रभाञ्जि  
@@ -829,8 +684,6 @@ K. P. TRIVEDI
 [^53]: " अभिनिस्पतन्त्यः E2, अभिनिःपतन्त्यः D."
 
  ८.अन्तरिति॥ यस्यां पुरि हिमाद्रेहिमवतष्टङ्को भित्तिस्तट इति यावत्। ‘न स्त्री पर्वतभित्तौ च’ इति टङ्कशब्दार्थेषु विश्वः। तस्माट्टङ्कादिव। जातावेकवचनम्। टङ्केभ्य इव गृहेभ्यो गवाक्षजालैर्गवाक्ष समूहैः अभिनिष्पतन्त्यः बहिर्निष्पतन्त्यः अन्तर्निविष्टानामभ्यन्तरे स्थितानामुज्व
-
-
 
 लरत्नानां भासः प्रभाः गङ्गाम्बुनो गङ्गाजलस्य पतन्तीति पाताः प्रवाहास्तत्प्रतिमास्तदुपमास्सत्यो भान्ति त इव भान्तीत्यर्थः। अत एव फलतोऽनेकेवेयमुपमा॥
 
@@ -860,8 +713,6 @@ K. P. TRIVEDI
 
  १०.पुत्रीयतेति॥ पुत्रमात्मन इच्छता पुत्रीयता पुत्रकामेन॥ “सुप आत्मनः क्यच्”॥ “क्यचि च” इति ईकारः॥ क्यजन्ताल्लटः शत्रादेशः। तेन राज्ञा ऋतुषु यज्ञेषु विषये विद्वान् शास्त्रार्थनिर्णेता। विदेः
 
-
-
 शतुर्वसुः। क्रियावान् स्वयं कर्मानुष्ठानवान्। भूमार्थे मतुप्। विपाकेन निर्वृत्तं विपक्रिमं परिपक्वम्। पचेः “ङ्वितः क्त्रिः”। “कत्रेर्मम्नित्यम्”। तस्य ज्ञानस्य आत्मज्ञानस्य निधिः तत्त्ववेत्तेत्यर्थः। मनस्वी स्थिरचित्तः। प्रशंसायां मत्वर्थीयो विनिः। मान्यो लोकपूज्यः ऋश्यस्य शृङ्गमिव शृङ्गमस्यास्तीति ऋश्यशृङ्गो नाम मुनिः विभाण्डकसुतः स एव ऋश्यशृङ्ग इति पुराणप्रसिद्धः। वराः श्रेष्ठा अङ्गना वराङ्गनास्ताभिः प्रयोज्यकर्त्रीभिः स्वां पुरमानायि आनायितः । नयतेर्ण्यन्तात् 'दुह्याच् पंच—' इत्यादिना द्विकर्मकात् ‘प्रधानकर्मण्याख्येये लादीनाहुर्द्विकर्मणाम्' इति वचनात्प्रधानकर्मणि लुङि चिण् वृद्ध्यायादेशौ॥
 
 **ऐहिष्ट तं कारयितुं कृता[^60]त्मा  
@@ -874,8 +725,6 @@ K. P. TRIVEDI
 [^61]: "सुतानुबन्धम् D., T1, T2, T3, T4, C., N."
 
  ११. ऐहिष्टेति॥ कृतात्मा एवं करिष्यामीति निश्चितबुद्धिः। ‘आत्मायत्नो धृतिर्बुद्धिः’ इत्यमरः। नृपो दशरथस्तं मुनीन्द्रं पुत्रः फलं यस्य तं ऋतुं पुत्रीयामिष्टिं कारयितुं तेन कारयितुमित्यर्थः॥ “हृक्रोरन्यतरस्याम्" इति विकल्पादणि कर्तुः कर्मत्वम्॥ ऐहिष्ट ईहितवान् ऐच्छदित्यर्थः। ‘इच्छा काङ्क्षा स्पृहेहा तृड्’ इत्यमरः। ईहतेर्लुङि तङि सिचीडागमः। ततः कर्मणि घटते चेष्टते सम्यक् करोतीति कर्मठः कर्मशूरः। ‘कर्मशूरस्तु कर्मठः’ इत्यमरः॥ कर्मणि घटोऽठच्"॥ "नस्तद्धिते"। स मुनीन्द्रस्तस्य नृपस्य ज्ञाताशयो ज्ञातनृपाशयः सन्नित्यर्थः। सापेक्षत्वेऽपि गमकत्वात्समासः। ‘अभिप्रायश्छन्द आशयः इत्यमरः। सुतानुबन्धः पुत्रलाभोऽस्मिन्निति सुतानुबन्धि। मत्वर्थीय इनिप्रत्ययः न तु “सुप्यजाती—” इति णिनिः। सुपीत्यनुवृत्तौपुनः सुब्ग्रहणेनोपसृष्टधातोस्तन्निषेधात्। सुताननुबध्नाति सन्त-
-
-
 
 नोतीति सुतानुबन्धमिति वा पाठान्तरम्॥ “कर्मण्यण्”॥ तत्कर्म पुत्रकामेष्टिं व्यतानीत् विततान। तनोतेर्लुङि “इट ईटि” इति सलोपः॥ “अतो हलादेर्लघोः” इति वैकल्पिकी वृद्धिः॥
 
@@ -899,8 +748,6 @@ K. P. TRIVEDI
 
 [^65]: "चतुरस्तनूजानू D., T2 T3."
 
-
-
  १३. निष्ठामिति॥ दत्रिमो दानेन निर्वृत्तः सभ्यानां सदस्यानां तोषो यस्मिन्नस्मिन्। क्रर्मप्प्रत्यये॥ “दोदद्द्धोः" इति ददादेशः। विहित्रिमे विधिनिर्वृत्ते विहित इत्यर्थः। पूर्ववत् प्रत्यये दधातेर्हिरादेशः। कर्मणि यज्ञकर्मणि निष्ठां समाप्तिं गते सति। उदारवंश्याः महाकुलप्रसूताः। अत्र 'दिगादियतस्तदन्तविधिनिषेधाद्राजवंश्यादयः साध्वर्थे यः' इति वामनः। तिस्रो राजपत्न्यश्चतुरस्तनूजान् पुत्रान् प्रसोतुं यथायोगं प्रसवितुं॥ "स्वरतिसूति—" इत्यादिना विकल्पादिडभावः। हुतोच्छिष्टं हुतशेषं हविः प्राशुः भक्षयामासुः। अश्नातेर्लिटि" अत आदेः " इति अभ्यासदीर्घः । झेरुस्। अत्र दिव्यपुरुषोपनीतान्नस्य होमानन्तरप्राप्तत्वाद्धुतशिष्टत्वोपचारः॥
 
 **कौश[^66]ल्ययाऽसावि सुखेन रामः  
@@ -916,8 +763,6 @@ K. P. TRIVEDI
 
  १४. कौसल्ययेति॥ प्राक् प्रथमं कोसलस्य राशोऽपत्यं स्त्री कौसल्या॥ ”वृद्धेत्कोसलाजादाञ्ञ्यङ्”॥ ततष्टाप्। तया रामः सुखेनाक्लेशेन असावि प्रसूतः। सूतेः सूयतेर्वा कर्मणि लुङि चिण्। ततोऽनन्तरं केकयानाचष्टे स्वजन्मभूमित्वेनेति केकयी कैकयीत्यर्थः। तदाचष्टे इति णिजन्तादौणादिके स्त्रियामिकारप्रत्यये दिलोपे णिलोपे च॥ "कृदिकारात्–" इति ङीप्। तस्याः केकयीतः कैकेय्याः॥ "अपादाने चाहीयरुहोः" इति अपादानपञ्चम्यन्तात्तसिप्रत्ययः। भरतोऽभूज्जात इत्यर्थः। सुमित्रात्वेकैव लक्ष्मणेन सह उदारचेष्टं महापराक्रमम्। शत्रुन्हन्तीति शत्रुघ्नस्तम्। अमानुषत्वविवक्षया टक्प्रत्ययः। "अमनुष्यकर्तृके च" इति चकारात्क्वचिन्मनुष्यकर्तृकेऽपि टक्प्रत्ययः' इति
 
-
-
 कौमारः। प्रासोष्ट प्रसूतवती। सूतेः सूयतेर्वा कर्त्तरि लुङि “स्वरतिसूति" इत्यादिना विकल्पादिडभावः। अस्मिन् शत्रुघ्नेनेति तृतीया-प्रयोगे छन्दोभङ्गभयाल्लक्ष्मणेनेत्युक्तम्। अस्य च सहवचनस्य सह शाखया प्रस्तरं प्रहरतीत्यत्र शाखाप्रस्तरयोरिव यमयोरनयोः क्रियान्वयतुल्यकालताप्रतिपादनमात्रत्वात् पित्रा सहागतः पुत्र इत्यत्र पितुरिव ज्यायसो लक्ष्मणस्य शब्दतोऽप्राधान्यस्फुरणेऽपि वास्तवप्राधान्यस्य न कदाचित्क्षतिरिति संतोष्टव्यम्॥
 
 **आर्चीद द्विजातीन् परमार्थविन्दा-  
@@ -926,8 +771,6 @@ K. P. TRIVEDI
 यतिर्वसिष्ठो यमिनां वरिष्ठः॥१५॥**
 
  १५. आर्चीदिति॥ यतिर्जितेन्द्रियः। ये निर्जितेन्द्रियग्रामा यतिनो यतयश्च ते' इत्यमरः। यमिनां योगिनां वरिष्ठः श्रेष्ठः॥ "प्रियस्थिर—" इत्यादिना उरुशब्दस्य वरादेशः॥ विद्वान्विधिशो वसिष्ठः पुरोधाः परमार्थस्य समस्तवस्तुतत्त्वस्य विन्दन्तीति विन्दान् ज्ञानलधृन् सर्वसाक्षात्कारिण इत्यर्थः। विदेर्लाभार्थात् "अनुपसर्गाल्लिम्पविन्द—” इत्यादिना शप्रत्ययः। द्विजातीन् ब्राह्मणान् आर्चीत् पुत्रजन्मकाले पूजयामास। अर्चतेर्भौवादिकत्वाल्लुङि “इट ईटि" इति सकारलोपः। उदेजयन्त्युत्कम्पयन्तीत्युदेजयान् भीकरान्। अत्रापि तेनैव सूत्रेण शप्रत्ययः। भूतगणान् बालग्रहादिसमूहान् न्यषेधीत् मन्त्रैरुच्चाटयामास। सेधतेरूदित्त्वादिड्विकल्पादिट्यपि "नेटि” इति वृद्धिप्रतिषेधे लघूपधगुणः॥ “इट ईटि" इति सकारलोपः॥ सुतान् कुमारान् स्वकाले गर्भैकादशे वर्ष इत्यर्थः। 'गर्भैकादशेषु राजन्यम्' इति स्मरणात्। उपानेष्ट उपनीतवान्। नयतेर्लुङि “सम्मानन— " इत्यादिना आचार्यकरणे आत्मनेपदम्॥
-
-
 
 **वेदोऽङ्गस्तैरखिलोऽध्यगायि  
 [शस्त्रा](http://१%20शाखा.%20E. "१ शाखा. E.")[ण्युपायं](http://२%20उपायंस्त%20विजित्वराणि%20T2,%20उपायंस्त%20च%20T "२ उपायंस्त विजित्वराणि T2, उपायंस्त च T")सत जित्वराणि।  
@@ -942,8 +785,6 @@ K. P. TRIVEDI
 राजार्जिहत्तं मधुपर्कपाणिः॥१७ ॥**
 
  १७. तत इति॥ ततः शस्त्रपरिग्रहानन्तरकाले रक्षोभिरभ्याहतकर्मवृत्तिः विहतानुष्ठानप्रवृत्तिः गाधिसुतो विश्वामित्रः परिरक्षणार्थं यज्ञ-
-
-
 
 रक्षणार्थं रामं वरीतुं स्वीकर्त्तुम्॥ "वृृतो वा” इति वा दीर्घः॥ क्षितीन्द्रं दशरथम्। अभ्यगात् आपत्॥ "इणो गा लुङि"॥ राजा दशरथस्तं गाधिसुतं मधुपर्कपाणिर्दधिमधुयुक्तपाणिः सन् आर्जिहत् अपूजयत्। अर्हेःपूजार्थाच्चौरादिकाण्णौचङि "नन्द्राः संयोगादयः" इति रेफस्य निषेधात्" अजादेर्द्वितीयस्य" इति हिशब्दस्य द्विर्भावे "कुहोश्चुः "
 आड्वृद्धिः॥
@@ -960,8 +801,6 @@ K. P. TRIVEDI
 तानि द्विषद्वीर्यनिराकरिष्णु-  
 स्तृणेढु रामः सह लक्ष्मणेन॥१९॥**
 
-
-
  १९. आख्यादेति॥ अथ पृष्टो मुनिस्तस्य राज्ञः समाधेर्ध्यानस्य शिवमक्षतिमाख्यदाख्यातवान्। "अस्यतिवक्तिख्यातिभ्योऽङ्” इति च्लेरङादेशः॥ "आतो लोप इटि च” इत्याकारलोपः। किन्तु रक्षांसि राक्षसाः वने ऋतूविघ्नन्ति प्रतिबध्नन्ति। हन्तेर्लटि“ झोऽन्तः" इत्यादिना उपधालोपः॥ “हो हन्तेः—" इति कुत्वम्॥ सामर्थ्यं निराकरिष्णुर्निराकरणशीलः॥ “अलंकृञ्—"इष्णुच्॥ "न लोक—" इत्यादिना षष्ठीप्रतिषेधात् द्वितीयायां "द्वितीया " इति योगविभागात्समासः॥ रामो लक्ष्मणेन सह तानि रक्षांसि तृणेदु हिनस्तु। तृह हिंसायां लोटि तिपि" एरुः॥ "रुधादिभ्यः श्रम्”॥ “तृणह इम्”॥ गुणः धत्वष्टुत्वढलोपाः॥ आख्यदिति चानुषङ्गः॥
 
 स शुश्रुवांस्तद्वचनं मुमोह  
@@ -976,8 +815,6 @@ K. P. TRIVEDI
 क्षात्रं द्विजत्वं [च](http://४%20हि%20D. "४ हि D.") परस्परार्थं  
 शङ्कां कृथा मा प्रहिणु स्वसूनुम्॥२१॥
 
-
-
  २१. मयेति॥ हे राजन् ! भयेष्वापत्सु धर्मस्य वृद्ध्यै मया त्वं शरणं रक्षितासन्। 'शरणं गृहरक्षित्रोः' इत्यमरः। आस्थाः प्राप्तोऽसि। आप्नोतेः कर्मणि लुङि थासि “झलो झलि" इति सिज्लोपः। त्वयापि वयं शरणमाप्स्महि प्राप्ताः स्मः। अहमपि प्राप्त इत्यर्थः॥ “अस्मदो द्वयोश्च" इत्येकत्वे बहुवचनम्॥ पूर्ववाक्ये मयेत्येकवचननिर्दिष्टस्यात्रापि तथैव निर्देश्यत्वात्। आप्स्महीत्यत्र आप्नोतेरेव कर्मणि लुङि महीङ्। झल्परत्वाभावान्न सिज्लोपः। तथाहि क्षत्रस्येदं क्षात्रं क्षत्रतेजः द्विजत्वं ब्रह्मतेजश्च परस्परार्थमन्योन्योपकारार्थम्। 'ब्रह्मणैव क्षत्रꣳ सꣳश्यति क्षत्रेण ब्रह्म' इत्यादि। 'नाब्रह्म क्षत्रमृध्नोति नाक्षत्रं ब्रह्म वर्धते। ब्रह्मक्षत्रे तु संपृक्ते इह चामुत्र ऋध्रुतः ' इति स्मरणाच्चेति भावः। ततः किमत आह। शङ्कामनर्थोत्प्रेक्षां मा कृथाः मा कुरु। करोतेर्माङि लुङि तङि थास्॥ “न माङ्योगे ” इत्यडभावः॥ “लिङ्सिचावात्मनेपदेषु” इति सिचः कित्वाद्गुणाभावः॥ "ह्रस्वादङ्गात्" इति सिचो लोपः॥ स्वसूनुं रामं प्रहिणु प्रेषय। हिनोतेर्लोटि सिपि" उतश्च प्रत्ययात्—” इत्यादिना हेर्लुक्॥ "हिनुमीना" इति णत्वम्॥
 
 **घानिष्यते तेन महान्विपक्षः  
@@ -986,8 +823,6 @@ K. P. TRIVEDI
 न मद्विधो न्यस्यति भारमग्यम्॥२२॥**
 
  २२. शङ्कां मा कृथा इत्युक्तं तत्रोपपत्तिमाह। घानिष्यत इति॥ तथाहि तेन रामेण महान् विपक्षः शत्रुः रावणादिरिति भावः घानिष्यते हनिष्यते॥स्यसिच्सीयुट्–" इत्यादिना चिण्वदिट्ट आदिवृद्धिर्घत्वं च। किं च रामेण रणे पुरस्तादग्रे स्थायिष्यते स्थास्यते। तिष्ठतेर्भावे लृटि पूर्ववच्चिण्वदिटि युगागमः। हे महात्मन् महानुभाव ! मा माम्॥ "त्वामौ द्वितीयायाः" इति मादेशः॥ मा परिभूः प्रत्याख्यानेन नावमन्य-
-
-
 
 स्वेत्यर्थः। भुवो "माङि लुङ्”॥ “न माङ्योगे"॥ तथाहि मम विधेव विधा प्रकारो यस्य स मद्विधो मादृशः। विमृश्यकारीत्यर्थः। योगाय प्रभवतीति योग्यः समर्थः॥ “योगाद्यश्च”॥ अयोग्ये असमर्थे जने अग्र्यं गुरुं भारं न न्यस्यति न निधत्ते तस्मान्मा शङ्किष्ठा इत्यर्थः॥
 
@@ -1003,8 +838,6 @@ K. P. TRIVEDI
 तं पृष्ठतः प्रष्ठमियाय नम्रो  
 हिंस्रेषु [दीप्रास्त्रेधनुः](http://५%20दीतास्त्रधरः%20B.,%20E1,%20E3,%20दीप्राप्तधनुः%20D.,%20N,%20दीप्राखधरः%20C,%20C. "५ दीतास्त्रधरः B., E1, E3, दीप्राप्तधनुः D., N, दीप्राखधरः C, C.") कुमारः॥२४॥
 
-
-
  २४. आशीर्भिरिति॥ मुनिः प्रीतः सन् क्षितीन्द्रमाशीर्भिराशीर्वादैरभ्यर्च्य संपूज्य पुनराश्रमाय आश्रमं गन्तुम्॥ “क्रियार्थोपपदस्य—” इत्यादिना चतुर्थी॥ प्रतस्थे प्रस्थितः॥“समवप्रविभ्यः स्थः" इत्यात्मनेपदम्॥ हिंस्रेषु रक्षोव्याघ्रादिषु विषये। दीप्रास्त्रं प्रदीप्तविशिखं धनुर्यस्य सः। समासान्तविधेरनित्यत्वात् “धनुषश्च” इति नानङादेशः। कुमारो रामः नम्रः पितरं प्रणतः सन्नित्यर्थः प्रतिष्ठते अग्र इति प्रष्ठमग्रगामिनम्॥ “आतश्चोपसर्गे” इति कर्तरि कः॥ “प्रष्ठोऽग्रगामिनि”॥ इति निपातनात्षत्वम्॥ तं मुनिं पृष्ठतः पश्चादियाय अनुयात इत्यर्थः। इणो लिटि णलि वृद्ध्यायादेशौ॥ “अभ्यासस्यासवर्णे” इतीयङादेशः॥ “नमिकम्पि—” इत्यादिना नम्रकम्प्रदीप्रहिंस्रा रप्रत्ययान्ताः॥
 
 प्रयास्यतः पुण्यवनाय जिष्णो  
@@ -1014,8 +847,6 @@ K. P. TRIVEDI
 
  २५. प्रयास्यत इति॥ ततोऽनन्तरं पुण्यवनाय तपोवनाय प्रयास्यतस्तपोवनं गमिष्यतः॥ “गत्यर्थकर्मणि—”इत्यादिना कर्मणि चतुर्थी॥ “लटः सद्वा” इति शत्रादेशः॥ जिष्णोर्जयशीलस्य॥ “ग्लाजिस्थश्च ग्स्नुः”॥ गिदयं न कित्॥ रोचिष्णुमुखस्य रोचमानमुखस्य॥ “अलंकृञ्—” इत्यादिना इष्णुच्॥ रामस्य धृष्णुः धृष्टः। ' धृष्टे धृष्णुर्वियातः' इत्यमरः॥ “त्रसिगृधिधृषिक्षिपेः क्रुः”॥ तिसृणां मातॄणामपत्यं पुमांस्त्रैमातुरः॥ “तद्धितार्थ— " इत्यादिना समासः। “मातुरुत्संख्यासंभद्रपूर्वायाः” इत्यण्प्रत्यये परत उकारः। तद्दत्तपायसोद्भवत्वेन इतरयोरपि मातृत्वादिति भावः। तदुक्तं रघुवंशे। ‘चरोरधार्धभागाभ्यां तामयोजयतामुभे' इति। रामायणविरोधस्तु पुराणभेदात्परिहृतोऽस्माभिः रघुवंशसंजीविन्यामेव। कृत्स्नं यथा तथा
 
-
-
 जितानि स्वायत्तीकृतानि अस्त्राण्याग्नेयादीनि देवताधिष्ठितानि शस्त्राण्यनभिमन्त्रितायुधानि च येन सः लक्ष्मणः श्रेयसि हितकृत्ये। सहाञ्चतीति सध्र्यङ् सहचरः सहायोऽभूत्। 'यः सहाष्वति सभ्य सः' इत्यमरः॥ “ऋत्विग्दधृक्—” इत्यादिना अञ्चतेः क्विन्॥” क्विन्प्रत्ययस्य कुः”॥ सहस्य सध्र्यादेशः। लक्ष्मणोऽपि राममनुगत इत्यर्थः ॥
 
 इषुमति रघुसिंहे दन्दशूकाञ् जिघांसौ  
@@ -1024,8 +855,6 @@ K. P. TRIVEDI
 कथमपि गुरुशो[कान्मा](http://२%20गुरुशोका%20नारुदन्%20D.,%20Com.;%20गुरुशोकान्ना%20रुदन्%20E1,%20E2,%20E3,%20T. "२ गुरुशोका नारुदन् D., Com.; गुरुशोकान्ना रुदन् E1, E2, E3, T.")रुदन् माङ्गलिक्यः॥२६॥
 
  २६. इषुमतीति॥ इषुमति प्रशस्तबाणमति। प्रशंसायां मतुप्। दंदशूकान् हिंस्रान् राक्षसान्॥ “यजजपदशां यङः” इतिदंशेर्यङन्तादूकप्रत्ययः॥ “न लोक—” इत्यादिना षष्ठीप्रतिषेधात् कर्मणि द्वितीया॥ जिघांसी हन्तुमिच्छौ। हनः सन्नन्तादुप्रत्ययः॥ “अज्झनगमां सनि” इति दीर्घः॥ अत एवारिभिरसह्यं दुःसहं॥ “शकिसहोश्च” इति यत्प्रत्ययः॥ धनुः मुष्ट्या मुष्टिना वा पीडा निपीडनं यस्मिन्कर्मणि तद्यथा तथा दधाने॥ "सप्तम्यां चोपपीड—” इत्यादिना णमुल् इति केचित्। तच्चिन्त्यम्। उपोपसर्गव्यभिचारेण तदसंभवादिति। अङ्गुलीस्त्रायत इत्यङ्गुलित्रमङ्गुलित्राणम्॥ “आतोऽनुपसर्गे कः”॥ बद्धं चित्रमङ्गुलित्रं येन तस्मिन्। रघुसिंहे रघुश्रेष्ठे रामे व्रजति पुरान्निर्गच्छति सति। गुरुः शोको विप्रयोगदुःखं यासां ताः पुरतरुण्यः पौराङ्गनाः। मङ्गलं प्रयोजनमासां माङ्गलिक्यः मङ्गलप्रयोजनाः सत्यः॥ “प्रयोजनम्” इति टक्॥ “टिड्ढाणञ्—” इत्यादिना ङीप्॥ कथमपि महता यत्नेनेत्यर्थः। 'ज्ञातहेतुविवक्षायामप्यादि कथमव्ययम्। कथमादि तथाप्यन्तं यत्न- गौरवबाढयोः॥' इति वचनात्। नारुदन् नाश्रूणि मुमुचुः। रुदेर्लुङि
-
-
 
 “इरितो वा” इति विकल्पात् च्लेरङ्। अन्तः सशोका अपि मङ्गलभयात्कर्थचिच्छोकानुभावमश्रुपातं प्रत्यबध्नन्नित्यर्थः॥
 
@@ -1041,8 +870,6 @@ K. P. TRIVEDI
 
 इति श्रीपदवाक्यप्रमाणपारावारीणश्रीमहोपाध्यायकोलाचलमल्लिनाथसूरिविरचिते  
 भट्टिकाव्यव्याख्याने सर्वपथीनाख्याने प्रथमः सर्गः॥
-
-
 
 **॥श्रीः॥**
 
@@ -1062,8 +889,6 @@ K. P. TRIVEDI
 
  २. अथ सप्तभिः श्लोकैः शरदं वर्णयति तरङ्गेत्यादिना॥ तरङ्गसङ्गाश्चपलैश्चञ्चलैः पलाशैर्दलैः ज्वालानां श्रियं शोभां सातिशयं भूयिष्ठं यथा तथा दधन्ति दधानानि॥ “नाभ्यस्ताच्छतुः”॥ “वा नपुंसकस्य” इति विकल्पानुमागमः॥ आकुलाः षट्वदायेषु तानि ताम्रोत्पलानि रक्तोत्पलानि सधूमस्य दीप्तस्य ज्वलितस्य अग्नेः रुचिरिव रुचिर्येषां तानि सन्ति रेजुः तद्वद्वेजुरित्युपमालंकारः॥
 
-
-
 बिम्बागतैस्तीरवनैः समृद्धिं  
 निजां [विलोक्यापहृतां](http://१%20विलोक्योपहृतां%20B.,%20विलोक्यापभृतां%20E2. "१ विलोक्योपहृतां B., विलोक्यापभृतां E2.") पयोभिः।  
 कूलानि [सामर्षतयेव](http://२%20सामर्षतयैव%20T4. "२ सामर्षतयैव T4.") तेनुः  
@@ -1077,8 +902,6 @@ K. P. TRIVEDI
 कुमुद्वतीं तीरतरुर्दिनादौ॥४॥**
 
  ४. निशेति॥ दिनादौ प्रभाते नयनाम्बुकल्पैस्तदुपमानयोग्यैरित्यर्थः। निशायां तुषारैर्हिमैः पर्णान्तेभ्यः पत्राग्रेभ्यः पर्यागलन्तः स्रवन्तः अश्रुबिन्दवो यस्य सः। नद्न्तः कूजन्तः पतङ्गाः पक्षिणो यस्मिन्सः तीरतरुः कुमुद्वतीं कुमुदिनीं प्रतीत्यर्थः। गम्यमानोद्देशक्रियापेक्षया कर्मत्वम्। गम्यमानक्रियापेक्षया कारकोत्पत्तेरिष्टत्वात्॥ "कुमुदनडवेतसेभ्यो हुतुप्”॥ “झयः" इति वकारः॥ "उगितश्च" इति ङीप्॥ उपारुरोदेव। हन्त निःश्रीका मुकुलिता इति साक्रन्दमश्रूणि मुञ्चन्तीवेत्युत्प्रेक्षार्थः॥
-
-
 
 वनानि तोयानि च नेत्रकल्पैः  
 पुष्पैः सरोजैश्च [निलीन](http://१%20विलीन%20T.,%20Com. "१ विलीन T., Com.")भृङ्गैः।  
@@ -1094,8 +917,6 @@ K. P. TRIVEDI
 
  ६. प्रभातेति॥ प्रभाते वाताहत्या कम्पिताकृतिरिति निषेधचेष्टोक्तिः। पद्मिनी कुमुद्रतीरेणुभिः पिशङ्गविग्रहमन्याङ्गरागारुणाङ्गमित्यर्थः। भृङ्गं कुपितेव खण्डिता नायिकेवेत्यर्थः। ‘नीत्वान्यत्र निशां प्रातरागते प्राणवल्लभे। अन्यासंभोगचिह्णैस्तु कुपिता खण्डिता मता’॥ इति लक्षणात्। निरास निरस्तवती। अस्यतेर्लिट्। “अत आदेः" इत्यभ्यासदीर्घः। तथाहि मानिनी मानवती स्त्री अन्यस्याः सङ्गमन्यसङ्गमं स्वप्रियस्येति शेषः। सर्वनाम्नो वृत्तिमात्रे पूर्वपदस्य पुंवद्भावः। न संसहते न क्षमते। सामान्येन विशेषसमर्थनरूपोऽर्थान्तरन्यासः। वंशस्थं वृत्तम्॥
 
-
-
 दत्तावधानं मधुलेहिगीतौ  
 प्रशान्तचेष्टं हरिणं जिघांसुः।  
 आकर्णयन्नुत्सुकहं[सनादान्](http://१%20हंसनादं%20T3. "१ हंसनादं T3.")  
@@ -1109,8 +930,6 @@ K. P. TRIVEDI
 शैलाधिपस्यानुचकार लक्ष्मीम्॥८॥
 
  ८. गिरेरिति॥ गिरेर्नितम्बे कटके मरुता वातेन विभिन्नं विस्तारितं तोयानामवशेषेण तोयेषु गतेषु अवशेषेण अवशिष्टेन निर्जलस्वरू-
-
-
 
 पेण हिमाभं हिमप्रभं सरितां मुखेषु प्रवाहेषु अभ्युच्छ्रयं वृद्धिमादधानं प्राक्क्षण एव वृष्ट्या कृतोच्छ्रयमित्यर्थः। अभ्रं मेघः शैलाधि पस्य हिमाद्रेर्लक्ष्मीमनुचकार तादृशीं शोभां प्रापेत्युपमा॥
 
@@ -1128,8 +947,6 @@ K. P. TRIVEDI
 
   १०. अदृक्षतेति॥ तेन रामेण नवान्युत्पलानि येषु तान्यम्भांसि अष्टक्षत दृष्टानि। दृशेः कर्मणि लुङि चिण्वदिडभावपक्षे “न दृशः" इति क्सादेशनिषेधः। हलन्तत्वात् "लिङ्सिचावात्मनेपदेषु” इति कित्वान्न गुणः। व्रश्चादिना षत्वम्॥ "षढोः कः सि" इति कत्वम् "इण्कोः"
 
-
-
 इति षत्वम्॥ षट्पदानां रुतानि अश्रोषत श्रुतानि। शृणोतेः कर्मणिः लुङि अहलन्तत्वेन सिचोऽकित्वाद्गुणः। अरविन्दानां व्यतिषङ्गः सम्पर्कः तद्वान् अत एव सुगन्धः शोभनगन्धः। गन्धस्येत्वे तदेकान्त- ग्रहणादिहेत्वाभावः। सुगन्धिरिति पाठेऽपि कविप्रयोगबाहुल्यादिच्यते। वान्मन्दं गच्छन्। वातेर्लटः शत्रादेशः। वहतीति वहः। पचाद्यच्। गन्धस्य वहो गन्धवहः वायुश्चाग्रायि आघ्रातः। जिघ्रतेः कर्मणि लुङि चिणि युक्। एवं सर्वतो निर्वृतिलाभान्नाध्वश्रमसंभावनासीदिति भावः॥
 
 लतानुपातं कुसुमान्यगृह्णात्  
@@ -1138,8 +955,6 @@ K. P. TRIVEDI
 काकुत्स्थ ईषत्स्मयमान [आस्त](http://१%20आस्ते%20E.. "१ आस्ते E..")॥११॥
 
  ११. लतेति॥ स काकुत्स्थो रामः कुतूहलात्कौतुकादीषत्स्मयमानो मन्दं हसन् लतां लतामनुपत्यासाद्य तथा लतामनुपत्यानुपत्य च लतानुपातं कुसुमान्यगृह्णात्। ग्रहेर्लङि श्नाप्रत्यये संप्रसारणम्। नदीं नदीमवस्कन्द्य तथा नदीमवस्कन्द्यावस्कन्द्य च नद्यवस्कन्दमुदकसुपास्पृशत् आचामति स्म। ‘उपस्पर्शस्त्वाचमनम्' इत्यमरः। स्पृशेर्लङ्। चारुशिलां चारुशिलामुपविश्य तथा चारुशिलामुपविश्योपविश्य चारुशिलोपवेशमास्त तत्रोपविष्ट इत्यर्थः। आसेर्लङि तङ्। ‘देशकालाध्वगन्तव्याः कर्मसंज्ञा ह्यकर्मणाम्’ इति सकर्मकत्वम्॥ ‘विशिपतिपादस्कन्दां व्याप्यमानासेव्यमानयोः” इति सर्वत्र द्वितीयान्त उपपदे विश्यादिभ्यो णमुल्॥ व्याप्यमाने आसेव्यमाने चार्थे गम्ये गेहादिद्रव्याणां विश्यादिक्रियाभिः साकल्येन सम्बन्धो व्याप्तिः क्रियायाः पौनः पुन्यमा सेवा॥ “नित्यवीप्सयोः " इति द्वित्वं तु न
-
-
 
 भवति॥ “उपपदमतिङ्” इति समासे तेनैव गम्यमानार्थत्वात् पूर्वोक्तविग्रहवाक्यगतनित्यवीप्साप्रयुक्त क्रियाद्वयगतद्विर्वचनस्याप्रयोगः॥
 
@@ -1157,8 +972,6 @@ K. P. TRIVEDI
 
  १३. दिगिति॥दिग्व्यापिनीः अतिविपुलाः लोचनानां लोभनीयाः प्रलोभिकाः दृष्टिमधुराः। बाहुलकः कर्त्तरि कृत्यः। मृजा शुद्धिः॥“षिद्भिदादिभ्योऽङ्”॥तयान्विताः स्वच्छा इत्यर्थः। स्नेहं चिक्कणतां स्रवन्तीरिवेत्युत्प्रेक्षा। काले मूलसेकादतिमसृणा इत्यर्थः। ‘चिक्कणं मसृणं स्निग्धम्’ इत्यमरः। ऋजवः समरेखाः पादवक्रा आस्रता दीर्घाश्व। वितृणान्यन्तरालानि यासां ताः उत्खातान्तस्तृणा इत्यर्थः। संस्यविशेषाणां नानासस्यानां पङ्क्तीः पश्यंस्तुतोष। स्वभावोक्तिरलंकारः॥
 
-
-
 वियोगदुःखानुभवानभिज्ञैः  
 काले [नृपांशां](http://१%20नृपशंकरं%20T4,%20नृपतिं%20E "१ नृपशंकरं T4, नृपतिं E") विहितं ददद्भिः।  
 आहार्यशोभारहितैरमायै-  
@@ -1172,8 +985,6 @@ K. P. TRIVEDI
 गोपाङ्गनानां मुमुदे विलोक्य॥१५॥**
 
  १५. स्त्रीति॥ स रामो गोपाङ्गनानां सम्बधि स्त्रीणां भूषणमलंकारभूतमप्रगल्भमधृष्टं चेष्टितं व्यापारमवक्राण्यनपाङ्गप्रवृत्तान्यपि चारूणि वीक्षितानि तथा ऋजूननभिसंधिजान् अत एव विश्वासकृतो विश्वासजनकान् भावान्स्वभावांश्च शीलानिति यावत्। 'भावः सत्तास्वभा-
-
-
 
 वाभिप्रायचेष्टात्मजन्मसु 'इत्यमरः। स्वभावानिति पाठेऽप्ययमेबार्थः। ‘शीलं स्वभावः’ इत्यभिधानात्। विलोक्य मुमुदे॥
 
@@ -1191,8 +1002,6 @@ K. P. TRIVEDI
 
  १७. विचित्रमिति॥ विचित्रं चित्ररूपमाराद्दूरादुच्चैरुदग्रं प्लवमान वल्गत् त्रस्नु चकितम्॥ "त्रसिगृधि–” इत्यादिना क्नुप्रत्ययः॥ मेघात्ययेन शरदागमेनोपात्ते बलमुपशोभा च येन तत्। वातमजतीति वातमजं वाताभिगामी वातमृगाख्यो मृगविशेषः। अत एव ‘वातप्रमीर्वातमृगः’ इत्यमरः। खश्प्रकरणे “वातशुनीतिलशर्धेष्वजधेतुदज-
 
-
-
 हातीनामुपसंख्यानम्” इति वातोपपदादजेः खशि मुमागमः। मृगाणाकदम्बकं तस्य रामस्य कुतूहलं ततान वितस्तार। स्वभावोक्तिरलकारः॥
 
 सितारविन्दप्रचयेषु लीनाः  
@@ -1208,8 +1017,6 @@ K. P. TRIVEDI
 न गुञ्जितं तन्न जहार यन्मनः॥१९॥
 
  १९. नेति॥ किं बहुना यज्जलं सुचारुपङ्कजं न तज्जलं नासीत्। पङ्कजं च यदलीनषट्वदं तन्नासीत्। षट्वदोऽपि यः कलं न जुगुञ्ज। गुजि अव्यक्ते शब्दे। लिट्। असावगुञ्जन् षट्वदोनासीत्। गुञ्जितं च यन्मनो न जहार तद्गुञ्जितं नासीत्। किन्तु सर्वं तत्तदुचितगुणविशिष्टमेवा-
-
-
 
 वन्तिष्टेत्यर्थः। अत्र पूर्वपूर्व प्रत्युत्तरोत्तरस्य निवर्त्तनमुखेन विशेषणत्वोकेरेकावलीभेदोऽलङ्कारः। 'यत्रोत्तरोत्तरेषां स्यात्पूर्वपूर्वं प्रति क्रमात्। विशेषकथनं यत्स्यादसावेकावली मता' इति लक्षणात्॥
 
@@ -1227,8 +1034,6 @@ K. P. TRIVEDI
 
  २१. विद्यामिति॥ अथाविक्षतात्मा रागाद्यनुपहतचित्तः गाधिसुतः युधि यातुधानान् राक्षसान् घातयिष्यन् मारयिष्यन्। हन्तेर्ण्यन्तात्
 
-
-
 “लृटः सद्वा” इति शत्रादेशः। रक्षोगणं क्षिप्नुंरक्षोगणस्य क्षेप्त्रीं हन्त्रीम्॥ “त्रसिगृधि—" इत्यादिना क्रुप्रत्ययः॥ “न लोक—” इत्यादिना षष्ठीप्रतिषेधः॥ विजयां जयां नाम विद्यामेनं रामं यथावत् यथार्हम् ॥ “तदर्हम्” इति वतिप्रत्ययः॥ अध्यापिपत् अध्यापितवान् ग्राहितवानित्यर्थः। इङो णौ चङि गाङादेशाभावपक्षे “क्रीङ्जीनां णौ” इत्यात्वे पुगागमे अजादित्वाद्द्वितीयैकाचः पेर्द्विर्भावः॥
 
 **[आयोधने](http://१%20आयोधन%20स्थायुक%20D.,%20E2. "१ आयोधन स्थायुक D., E2.") स्थायुकमनस्त्रजात-  
@@ -1244,8 +1049,6 @@ K. P. TRIVEDI
 स्तां [ताडकाख्यां](http://५%20ताटका%20T2,%20T4%20T.,%20G.,%20Com. "५ ताटका T2, T4 T., G., Com.") निजघान रामः॥२३॥**
 
  २३. तमिति॥ विप्रान् साकल्येन दृष्ट्वाविप्रदर्शं कृतघातयत्ना विहितवधोद्योगा रात्रिचरी राक्षसी॥ “चरेष्टः”॥ दित्वात् ङीप्॥ यान्तं
-
-
 
 वनेचरं तं रामं डुढौके। ढौकेर्गत्यर्थाल्लिट्। अथ रामस्ताटकाख्यां तां रात्रिचरीं साकल्येन जिघांसुं विदित्वा जिघांसुवेदम्॥ “कर्मणि हशिविदोः साकल्ये” इत्युभयत्रापि णमुल्प्रत्ययः॥ अत्र ताटकाया एकत्वेऽप्यदितिः पाशानिति बहुत्ववदवयवाभिप्रायं साकल्यवचनं वेदितव्यम्। तद्वत्तदवयवेष्वपि जिघांसुत्वसंभवात्। अवयवव्यापार पूर्वकत्वादवयविव्यापारस्येति। धृतं भास्वरं दीप्तमस्त्रं येन स सन् निजघान निहतवान्॥
 
@@ -1263,8 +1066,6 @@ K. P. TRIVEDI
 
  २५. क्षुद्रानिति॥ तत्र तपोवने मृगेन्द्राः सिंहाः क्षुद्रान् दुर्बलान् हरिणान् न जक्षुः नाभक्षयन्॥ “वा लिटि" इत्यदेर्घस्लादेशः॥ “गमहन—” इत्यादिना उपधालोपः॥ “शासिवसिघसीनां च” इति
 
-
-
 षत्वम्। समन्तात्पक्षिगणैः विशश्वसे विश्वस्तम्। विस्रन्धं विवेरुरित्यर्थः। श्वसेर्भावे लिट्। विलोलाश्चञ्चलाः लताः फलानां दित्सया दातुमिच्छयेव सुखग्रहणमित्युत्प्रेक्षार्थः। ददातेः “सनि मीमा—" इत्यादिना सन्नभ्यासलोपः। ततः स्त्रियामप्रत्यये टाप्। नंनम्यमानाः फलभरेण भृशं नमन्त्यः। नमेर्यङन्ताल्लटः शानजादेशः। चकाशिरे भान्ति स्म॥
 
 अपूपुजन् विष्टरपाद्यमाल्यै-  
@@ -1279,8 +1080,6 @@ K. P. TRIVEDI
 हवींषि संप्रत्यपि रक्षतं तौ  
 तपोधनैरित्थमभाषिषाताम्॥२७॥**
 
-
-
  २७. दैत्येति॥ हे दाशरथी युवां दैत्यैरसुरैरभिभूतस्य पीडितस्य अत एव मग्नस्यनिरालम्बनस्य भुवनस्य भारं रक्षणधुरां दोर्भिर्भुजैरघोढमूढवन्तौ। भुजबलेन दैत्यवधः कृतोऽवतारान्तरेष्विति भावः। बहेर्लुङि मध्यमद्विवचने थसस्तमादेशे “सहिवहोरोदवर्णस्य” इत्योत्वे धत्वादिकार्यम्। संप्रत्यपि तौ युवां हवींषि पशुपुरोडाशादीनि रक्षतम्। रक्षोभ्य इति भावः। रक्षेः प्रार्थनायां लोटि थसस्तमादेशः। इत्थमनेन प्रकारेण॥ "इदमस्थमुः”॥ तौ तपोधनैरभाषिषातां भाषितौ। भाषेः कर्मणि लुङि सिचीडागमः॥
 
 **तान्प्रसवा[दीदथ](http://१%20रघुनन्दनोऽपि%20T4. "१ रघुनन्दनोऽपि T4.") राघवोऽपि  
@@ -1289,8 +1088,6 @@ K. P. TRIVEDI
 [संधुक्ष्यतां](http://२%20संधुक्ष्यते%20D%20T3,%20T4,%20T,%20G,%20Com, "२ संधुक्ष्यते D T3, T4, T, G, Com,") नोऽरिसमिन्धनेषु॥२८॥**
 
  २८. तानिति॥ अथ राघवोऽपि तान्मुनीन् प्रत्यवादीत् प्रत्युवाच॥ वदवज—" इत्यादिना सिचि वृद्धिः॥ "इट ईटि" इति सलोपः॥ तदेवाह। हे तपोधनाः धर्म्यं धर्मादनपेतम्॥ “धर्मपथ्यर्थ—" इत्यादिना यत्प्रत्ययः॥ कर्म यज्ञकर्म यथेप्सितं यथेष्टं विस्रम्भादित्यर्थः। आप्नोतेः सन्नन्तात्कर्मणि क्तः॥ “आपज्ञप्यृधामीत्” इतीत्वे “सनि मीमा—" इत्यभ्यासलोपः॥ प्रस्तुत प्रस्तुध्वं प्रक्रमध्वमित्यर्थः। प्रपूवत्स्तौतेर्लोटि थस्य तादेशः। तथाहि भवतां तपोभिरेव मरुद्भिः नोऽस्माकं शराग्निरस्त्राग्निररिष्वेव समिन्धनेषु काष्ठेषु संधुक्ष्यते संदीपष्यते। ब्रह्मक्षत्र संमेलनस्य पवनाग्निसमागमप्रायत्वादिति भावः। धुक्ष संदीपने इति धातोः कर्मणि लुट्। रूपकालंकारः॥
-
-
 
 **प्रतुष्टुवुः कर्म ततः प्रक्लृप्तै-  
 स्ते यज्ञियै[र्द्रव्य](http://१%20गुणै%20T2. "१ गुणै T2.")गणैर्यथावत्।  
@@ -1305,8 +1102,6 @@ K. P. TRIVEDI
 खं प्रावृषेण्यैरिव चानशे[ऽब्दैः](http://८%20चानथेऽत्रैः%20B,%20E3. "८ चानथेऽत्रैः B, E3.")॥३०॥
 
  ३०. आपिङ्गेति॥ ततो ज्ञानानन्तरमापिङ्गाः सर्वपिङ्गलाः रूक्षाः परुषाः ऊर्ध्वाः स्तब्धाः शिरसि भवाः शिरस्याः॥ "शरीरावयवाश्च" इति यत्प्रत्ययः॥ ईदृशाः वालाः केशाः येषां तैः सिरालाः सिरावत्यः जङ्घाः येषां तैः गिरिकूटघ्नैः पर्वतशिखरप्रमाणैः। प्रमाणार्थे दघ्नच्प्रत्ययः। पृथुपिङ्गलाक्षैः॥ "बहुव्रीहौ" इति षच्॥ क्षपास्वटैः क्षपाटैः निशाचरैः। पचाद्यजन्तेन योगविभागात्सप्तमीसमासः। प्रावृषि भवैः
-
-
 
 प्रावृषेण्यैः॥ "प्रावृष एण्यः" इति एण्यप्रत्ययः। महद्भिः श्यामैश्चेति भावः। अब्दैर्जलदैरिव॥ "आतोऽनुपसर्गे कः"॥ खमाकाशमानशे व्याप्तं च। चकारः पूर्वश्लोकोक्तज्ञानसमुच्चयार्थः। अश्नोतेः कर्मणि लिट्। "अत आदेः" इत्यभ्यासदीर्घः॥ "अश्रोतेश्च" इति नुट्॥
 
@@ -1324,8 +1119,6 @@ K. P. TRIVEDI
 
  ३२. गाधेयेति॥ अस्त्रैर्वित्तः प्रसिद्धोऽस्त्रचुञ्चुः॥ "तेन वित्तश्चञ्चचणपौ”॥ रामोऽपि स्मेरमुखः स्मितमुखः सन्। गाधेरपत्यं पुमान्सगांधेयो विश्वामित्रः॥ “द्वयचः"॥ "इतश्चानिञः" इति ढक्॥ तेन दिष्टमिदन्तया पुरो निर्दिष्टं विरसं कर्णकठोरं यथा तथा रसन्तं गर्जन्तं मायाचणं मायावित्तम्॥ "तेन—" इत्यादिना चणप्॥ रणे स्थास्नुं
 
-
-
 स्थायिनम्॥ "ग्लाजिस्थश्च ग्स्नुः"॥ मारीचं महार्थमर्थभूयिष्ठं वचनमुच्चैस्तारं जगाद। दुहादौ ब्रुवेरर्थपरत्वाद्द्विकर्मकता
 
 **आत्मम्भरिस्त्वं पिशितैर्नराणां  
@@ -1342,8 +1135,6 @@ K. P. TRIVEDI
 
  ३४. अथ मारीचो रामं प्रत्याह अद्म इति॥ हे दाशरथे राम द्विजातीनसब्राह्मणानद्मः भक्षयामः। अत्तेर्लटि मसि शपो लुक्। देवानां यजीन् यष्टृन्। यजेरौणादिक इकारः। निहन्मो निबर्हयामः। हन्तेर्नपूर्वा-
 
-
-
 ल्लटि मसि शपो लुक्॥ "जासिनिप्रहण—" इत्यत्र संघातविगृहीतविपर्यस्तग्रहणेऽपि शेषग्रहणानुवृत्तेस्तद्विवक्षायामेव षष्ठी। इह तु तदविवक्षायां कर्मणि द्वितीया। पुरं स्वस्थानं प्रेतनराणामधिवासं कुर्मः। सर्वानस्मत्पुरं नीत्वा मारयाम इत्यर्थः। अयं परद्रोहो नोऽस्माकं निजो नित्यो धर्मो हि। ‘निज आत्मीयनित्ययोः’ इति विश्वः। वेदवृत्ते वेदोक्तानुष्ठाने नाध्यकारिष्मह्येव नाधिकृता एव। अधिपूर्वात्करोतेः कर्मणि लुङि “स्यसिच्सीयुट्—" इत्यादिना चिण्वद्भावः॥
 
 **[धर्मोऽस्ति](http://१%20धर्मोऽस्तु%20T2%20T3,%20T4,%20Com. "१ धर्मोऽस्तु T2 T3, T4, Com.")सत्यं तव राक्षसाय-  
@@ -1352,8 +1143,6 @@ K. P. TRIVEDI
 [राजन्यवृत्तिर्धृतकार्मुकेषुः](http://४%20धृतकार्मुकेषु%20E1,%20E3,%20T,%20G.%20Com. "४ धृतकार्मुकेषु E1, E3, T, G. Com.")॥३५॥**
 
  ३५. पुनस्तं रामः प्रत्याह धर्म इति॥ हे राक्षस अयं पूर्वोक्तो द्विजातिवधः तव सत्यं वस्तुतो धर्मोऽस्तु। किन्तु ममाप्ययमन्यो धर्मो व्यतिस्ते व्यतिभवते। व्यतिहारेण वर्तत इत्यर्थः। अस्तेर्लटि "कर्तरि कर्मव्यतिहारे" इत्यात्मनेपदे “श्नसोरल्लोपः"। व्यतिहारमेवाह। ब्रह्मद्विषस्ते तव प्रणिहन्मि ब्रह्मद्विषं त्वां हन्मीत्यर्थः॥ "जासिनिप्रहण—” इत्यादिना कर्मणि शेषे षष्ठी॥ अत्र रामराक्षसकर्तृकयोः परहिंसालक्षणयोः स्वधर्मयोः वध्यघातुकनिष्ठयोः स्वरूपतो भिन्नकालत्वेऽपि क्रियमाणेष्यमाणयोः समानकालत्वसंभवाद् व्यतिभवनं संभवतीत्यविरोधः। तथा च जिघांसन्नेव हन्यसे कुतो हनिष्यसीति भावः। न चायमधर्मः प्रत्युत धर्म एवेत्याह। येन कारणेन धृतकार्मुकेषु शस्त्रपाणिषु विषये। राज्ञोऽपत्यानि पुंमासः राजन्याः क्षत्रियाः॥ "राजश्वशुराद्यत् "॥ ‘राज्ञोऽपत्ये जातिग्रहणम्'। तेषां वृत्तिर्व्यापारः। तेषां दुष्टनिग्रहाधिकारिणामयं परमो धर्म इति भावः॥
-
-
 
 **इत्थं प्रवादं युधि संप्रहारं  
 प्रचक्रतू रामनिशाविहारौ।  
@@ -1369,8 +1158,6 @@ K. P. TRIVEDI
 
  ३७. जग्मुरिति॥ मुनीनां मानसानि प्रसादं प्रसन्नतां जग्मुः। द्यौरन्तरिक्षं पुष्पचयं वर्षुका कुसुमराशेर्वपित्री॥ " “लषपत—" इत्यादिना उकञ्॥ "न लोक —” इत्यादिना षष्ठीप्रतिषेधात्कर्मणि द्वितीया॥ बभूव। इज्या यागः॥ " व्रजयजोर्भावे क्यप्"॥ निर्व्याजं निरुपद्रवं यथा तथा ववृते प्रवृत्ता। मुनिना विश्वामित्रेण कुमारो रामो भूयः पुनर्वचश्च वक्ष्यमाणं बभाषे भाषितः। दुहादित्वादप्रधाने कर्मणि क्तः॥
 
-
-
 **महीय्यमाना भवतातिमात्रं  
 सुराध्वरे घस्मरजित्वरेण।  
 दिवोऽपि वज्रायुध[भूषणांया](http://१%20भूषणाय%20D.,%20T2. "१ भूषणाय D., T2.")  
@@ -1384,8 +1171,6 @@ K. P. TRIVEDI
 येनैष भारोऽति गुरुर्न तस्य॥३९॥**
 
  ३९. पुनः स्तौति बलिरिति॥ हे राम येन भवता बलिर्वैरोचनिर्बबन्धे वामनेन सता बद्धः। सर्वत्र कर्मणि लिट्। जलधिर्ममन्थे कूर्मरूपेण मथितः। बन्ध बन्धने। मन्थ विलोडने। क्र्यादिकौ॥ "असंयोगात्—" इति लिटोऽकित्वान्नानुनासिकलोपः। अमृतं जह्रे हृतम्। दैत्यबलं विजिग्ये स्त्रीमायया जितं वञ्चितमित्यर्थः॥ सन्लिटोर्जेः” इति कुत्वम्। कल्पान्ते दुःखेन तिष्ठतीति दुःस्था॥ “आतश्चोपसर्गे” इति कर्तरि
-
-
 
 कः॥ तथा तेन प्रकारेण वसुधा भूमिर्वराहात्मना ऊहे ऊढा सागरादुद्धृतेत्यर्थः। वहेर्यजादित्वात्संप्रसारणम्। तस्य तव एष भारः मखत्राणरूपः अतिगुरुर्न। बलिबन्धाद्यपेक्षया कियानयं भार इति भावः॥
 
@@ -1401,8 +1186,6 @@ K. P. TRIVEDI
 जनं समस्तं जनकाश्रमस्थं  
 रूपेण तावौजिहतां नृसिंहौ॥४१॥**
 
-
-
  ४१. इत इति॥ सोमरसं पातुमिच्छू पिपासू। पिबतेः सन्नन्तादुप्रत्ययः॥ "न लोक—” इत्यादिना षष्ठीप्रतिषेधात् द्वितीया। मित्रश्च वरुणश्च मित्रावरुणौ॥ "देवताद्वन्द्वे च" इत्यानङादेशः॥ इतः स्मकिं प्राप्नुतःस्म किम्। इणः कर्त्तरि “लट् स्मे” इति भूते लटि तस्। अश्विनावेतावागतौ किम्। आपूर्वादिणः कर्तरि क्तः। इतीति शेषः। इति तौ नरौ सिंहाविव नृसिंहौ पुरुषश्रेष्ठौ। उपमितसमासः। रूपेण सौन्दर्येण। " रूपं स्वभावे सौन्दर्ये " इति विश्वः। जनकामे तिष्ठतीति तत्स्थम्॥ "सुपि स्थः" इति कः। समस्तं जनमौजिहतां समस्तजनेन इत्यूहमकारयतामित्यर्थः। ऊह वितर्के। णौ चङि तसस्तामादेशः। णिलोपस्य स्थानिवद्भावात् "अजादेर्द्वितीयस्य" इति हिशब्दस्य द्विर्भावः। चुत्वम्। किं मित्रावरुणावश्विनौ वेति शुद्धसंदेहात् संदेहभेदोऽलंकारः॥
 
 अजिग्रहतं जनको धनुस्तद्  
@@ -1411,8 +1194,6 @@ K. P. TRIVEDI
 र्हसन्नभाङ्क्षीद्रघुनन्दनस्तत्॥४२॥
 
  ४२. अजिग्रहदिति॥ जनकोऽस्य रामस्य बाह्वोर्बलं जिज्ञासमानो ज्ञातुमिच्छन्। जानातेः सन्नन्तात् "ज्ञाश्रुस्मृदृशां सनः" इत्यात्मनेपदे लटः शानजादेशः। रामं तद्धनुरजिग्रहत् ग्राहयामास। द्विदड्यादिषु ग्राहिमोदीत्यादिजिप्रभृतय इति वचनात् ग्रहेर्द्विकर्मकत्वम्। ग्रहेर्णौ चङ्युपधाह्रस्वः। आदेः सन्वत्कार्यंच। येन धनुषा पिनाकी महादेवः दैत्यानां पुरो दैत्यपुरः। तिस्रोऽपीत्यर्थः। समासान्तविधेरनित्यत्वात् “ऋक्पूर्—" इति नाकारप्रत्ययः। दैत्यपुरमिति पाठे समासान्तः। एकवचनमतन्त्रम्। दैत्यपुराणीत्यर्थः। ‘स्वार्थिकाः प्रकृतितो लिङ्गवचनान्यतिवर्त्तन्ते’ इति नपुंसकनिर्देशः। आर्दिदत्
-
-
 
 अर्दयामास संजहारेत्यर्थः। अर्देहिंसार्थात् चौरादिकाण्णौ चङि रेफवर्जितद्विर्भावादि। रघुनन्दनो रामः हसन् तत् धनुरभाङ्क्षीत् बभञ्जः। भञ्जेर्लुङि सिचि हलन्तलक्षणा बुद्धिः॥ "अस्तिसिचोऽपृक्ते" इति ईटि कुत्वषत्वे॥
 
@@ -1428,8 +1209,6 @@ K. P. TRIVEDI
 [आख्यायेकेभ्यः](http://१%20आख्यायिकेभ्यः%20c.,%20T3.%20प्राख्यायकेभ्यः%20E1. "२ आख्यायिकेभ्यः c., T3. प्राख्यायकेभ्यः E1.") [श्रुतसूनुवृत्ति-](http://२%20वृद्धि%20D. "२ वृद्धि D.")  
 [रग्लानयानो](http://३%20रम्लान%20E1,%20T,%20G,%20Com. "३ रम्लान E1, T, G, Com.") मिथिलामगच्छत्॥४४॥
 
-
-
  ४४. क्षिप्रमिति॥ ततो वार्त्ताहरप्रात्यनन्तरमाख्यायकेभ्यः आख्यातृभ्यः वार्त्ताहारिभ्य इत्यर्थः । ख्यातेर्ण्वलि युक्। श्रुता सूनोः रामस्य वृत्तिः धनुर्भङ्गादिव्यापारो येन सः। अध्वानमलंगामिनः अध्वन्याः शीघ्रगा इत्यर्थः॥ "अध्वनो यत्खौ" इति यत्प्रत्ययः॥ “ये चाभाव-"कर्मणोः" इति प्रकृतिभावान्न टिलोपः। तैः तुरङ्गैर्यातीति तुरङ्गयायी। “सुप्यजातौ—" इत्यादिना णिनिः॥ राजा दशरथः वृद्धतमोऽपि वृद्धःसन्नपि यविष्ठवद्युतमवत्॥ "तेन तुल्यम्—" इत्यादिना वतिप्रत्ययः॥ युवशब्दादिष्ठनि “स्थूलदूरयुव—" इत्यादिना यणादि परलोपः पूर्वगुणश्च॥ म्लानं म्लानिः । भावे निष्ठा। अम्लानं श्रमरहितं यानं वाहनमश्वादिकं यस्य स सन्। मिथिलां जनकपुरीं क्षिप्रमगच्छत्। गमेर्लङ्॥ "इषुगमियमां छः"॥
 
 **वृन्दिष्टमार्चीद्वसुधाधिपानां  
@@ -1438,8 +1217,6 @@ K. P. TRIVEDI
 बंहिष्टकीर्त्तिर्यशसा वरिष्ठम्॥४५॥**
 
  ४५. वृन्दिष्ठमिति॥ सदृक् समानोऽनुरूपइत्यर्थः। ‘समानान्ययोश्च’ इत्युपसङ्ख्यानात्समानशब्दोपपदाद् दृशेः क्विप् प्रत्ययः॥ “दृग्दशव॥ "तुषु" इति समानशब्दस्य सभावः॥ इह कत्तुर्दर्शनक्रियानन्वयाद्यथा कथंचित्तैलपायिकादिवद्रूढिशब्द इत्याहुः। अथवा समान इव दृश्यते स्वयमेवेति कर्मकर्त्तरि व्युत्पत्त्या निर्वाहः। तदा भाष्यम्। ‘कर्मदर्शनकर्त्ता यान्तमिव पश्यन्ति जनाः सोऽयं स इव दृश्यमानस्तमिवात्मानं पश्यन्ति’ इति। बंहिष्ठकीत्तिर्बहुलतरकीर्त्तिः स जनकः वसुधाधिपानां राज्ञां मध्ये वृन्दिष्ठं वृन्दारकतमं श्रेष्ठमित्यर्थः। ‘वृन्दारकः सुरश्रेष्ठे मनोशे पुनरन्यवत्' इति विश्वः। प्रेष्ठं प्रियतमं गुरुवद्गरिष्ठं गुरुतमं पूज्यतममित्यर्थः। महान्तं प्रभुं सुकृताधिवासं धर्मनिलयम्। वसेरधि
-
-
 
 करणेघञ्प्रत्ययः। यशसा वरिष्ठमुरुतममधिकमित्यर्थः। एतमागतम्। आङ्पूर्वादिणः कर्त्तरि कः। तं दशरथमाचदिचितवान्। अर्चतेर्भीवादिकाल्लुङि “इट ईटि" इति सलोपः। वृन्दिष्ठादौ वृन्दारकादिभ्य इष्ठनि “प्रियस्थिर—” इत्यादिना वृन्दाद्यादेशः॥
 
@@ -1457,8 +1234,6 @@ K. P. TRIVEDI
 
  ४७. हिरण्मयीति॥ हिरण्यस्य विकारो हिरण्मयी॥ "दाण्डिनायन—" इत्यादिना निपातनात्साधुः। जङ्गम्यते इति जङ्गमा चरिष्णुः। गमेर्यङि नुगागमे पचाद्यचि "यङोऽचि च" इति यङो लुक्। साललता वृक्ष-
 
-
-
 शाखेवेत्युत्प्रेक्षा। दिवश्च्युता स्थास्नुः स्थिरा॥ “ग्लाजिस्थश्च ग्स्तुः"॥ अचिरप्रभा विद्युल्लतेवेत्युत्प्रेक्षा।शशाङ्ककान्तेश्चन्द्रिकाया अधिदेवता तस्या आकृतिरिवाकृतिः स्वरूपं यस्याः सा इत्युपमा। सुता दुहिता मैथिली तस्य दशरथस्य सुताय रामाय ददे दत्ता। कर्मणि लिट्। उपलक्षणमेतत्। लक्ष्मणादिभ्योऽप्यूर्मिलादयो दत्ता इत्यनुसंधेयम्॥
 
 लब्धां ततो विश्वजनीनवृत्ति-  
@@ -1473,8 +1248,6 @@ K. P. TRIVEDI
 [अश्वीयराजन्यकहस्तिकाढ्य-](http://५%20आश्वीय%20D.,%20T,%20G,%20Com. "५ आश्वीय D., T, G, Com.")  
 मगात् सराजं बलमध्वनीनम्॥४९॥**
 
-
-
  ४९. सुप्रातमिति॥ शोभनं प्रातरस्य सुप्रातं सुप्रभातम्॥ "सुप्रातः सुश्व—” इत्यादिना बहुव्रीहौ निपातनादच् समासान्तष्टिलोपश्च॥ आसादितसंमदं प्राप्तहर्षम्॥ "प्रमदसंमदौहर्षे" इति निपातितः प्राक् पुरतः वन्दारुभिः बन्दिभिः संस्तुतम्॥ "शृवन्द्योरारुः"॥ अश्वानां समूहः आश्वीयम्॥ "केशाश्वाभ्यां यञ्छावन्यतरस्याम्” इति छप्रत्ययः॥ राजन्यकम्॥ "गोत्रोक्ष—" इत्यादिना वुञ्प्रत्ययः॥ हस्तिनां समूहो हास्तिकम्॥ “अचित्तहस्तिधेनोष्ठक्" इति ठक्॥ तेषां सेनाङ्गत्वात् द्वन्द्वैकवद्भावः। तेनाढ्यं संपन्नम्। अध्वानमलंगा-ॉ म्यध्वनीनम्॥ "अध्वनो यत्खौ" इति यत्प्रत्ययः॥ "आत्माध्वानौ खे" इति प्रकृतिभावः। तद्वलं सैन्यं सह राज्ञा सराजम्। यौगपद्ययीभावः॥ "अनश्च" इति समासान्तष्टच्॥ “नस्तद्धिते" इति टिलोपः॥ अभ्ययोध्यमयोध्यामभि \। "लक्षणेनाभिप्रती आभिमुख्ये" इत्यव्ययीभावः॥ अगात् अगमत्॥
 
 [विशङ्कटो](http://१%20विसङ्कटे%20वक्षसि%20E1.%20विसङ्कटो%20E2.%20विशङ्कटे%20वक्षसि%20T2,%20T.,%20G.,%20Com, "१ विसङ्कटे वक्षसि E1. विसङ्कटो E2. विशङ्कटे वक्षसि T2, T., G., Com,") वक्षसि बाणपाणिः  
@@ -1484,8 +1257,6 @@ K. P. TRIVEDI
 
  ५०. विशङ्कट इति॥ विशङ्कटे विशाले॥ "वेः शालच्छङ्कटचौ" इति शङ्कटच्प्रत्ययः॥ वक्षसि बाणः पाणौ यस्य वक्षोनिहितबाणयुक्तपाणिरित्यर्थः॥ “प्रहरणार्थेभ्यः परे निष्ठासप्तम्यौ” इति पाणिशब्दस्य परनिपातः॥ संपन्नोऽखण्डस्तालः तालवृक्षः स प्रमाणमस्य सः संपन्नतालद्वयसः। महातालप्रांशुरित्यर्थः॥ “प्रमाणे—" इत्यादिना द्वयसच् प्रत्ययः॥ विभ्यत्यस्मादिति भीष्मः भयङ्करः॥ "भियः षुग्वा”
 
-
-
 इत्यौणादिको मक्प्रत्ययः॥ “भीमादयोऽपादाने” इत्यपादानार्थे साधुः॥ धनुष्मान्धन्वी। संसर्गे प्रशंसायां मतुप्। जानुनोः समीपमुपजानु। समीपार्थेऽव्ययीभावः तत्रारत्निर्लक्षणया बाहुर्यस्य सः आजानुबाहुरित्यर्थः। जमदग्नेरपत्यं पुमान् जामदग्न्यः परशुरामः। गर्गादिपाठादपत्येऽपि गोत्रत्वारोपात् यञ्। साक्षादपत्यत्वविवक्षायां त्वृष्यणि जामदग्नो भवति। पथि मार्गे पुरस्तात् पुरोऽग्रे॥ “अस्ताति च" इति पूर्वशब्दात्सप्तम्यर्थादस्तातिप्रत्ययः पूर्वस्य पुरादेशश्च॥ एति स्म इतवान् प्राप्त इत्यर्थः॥ “लट् स्मे" इति इणो भूते लट्॥
 
 **उच्चैरसौ [राघवमाह्वतेदं](http://१%20माह्वतैनं%20T4. "१ माह्वतैनं T4.")  
@@ -1494,8 +1265,6 @@ K. P. TRIVEDI
 नम्रः क्षितीन्द्रोऽनुनिनीषुरूचे॥५१॥**
 
  ५१. उच्चैरिति॥ असौ जामदग्न्यो राघवं रामं एवं वक्ष्यमाणप्रकारेण उच्चैस्तारमाह्वत सस्पर्धमाहूतवान्। हेञो लुङि " स्पर्धायामाङः " इति तङ्॥ “आत्मनेपदेष्वन्यतरस्याम्” इति च्लेरङादेशः॥ “ आतो लोप इटि च" इत्याकारलोपः। तं प्रकारमेवाह। धनुश्चापं सबाणं कुरु मया सह युध्यस्वेत्यर्थः। मातियासीः अतिक्रम्य मागा इत्यर्थः। यातेः "माङि लुङ्”॥ "न माङ्योगे"॥ "यमरमनमातां सक् च" इति सगिटौ॥ "इट ईटि" इति सलोपः। पराक्रमं जामदग्न्यसामर्थ्यं जानातीति तज्ज्ञः॥ "आतोऽनुपसर्गे कः"॥ प्रिया संततिर्यस्य सोऽपत्यवत्सलः क्षितीन्द्रो दशरथः तं जामदग्न्यं नम्रः प्रणतः अनुनिनीषुः अनुनेतुमिच्छुः। नयतेः सन्नन्तादुप्रत्ययः। ऊचे उवाच। ब्रुवः कर्त्तरि लिट्। वचिरादेशः॥
-
-
 
 अनेकशो निर्जितराजकस्त्वं  
 पितृनताप्सीर्नृपरक्ततोयैः।  
@@ -1511,8 +1280,6 @@ K. P. TRIVEDI
 
  ५३. अजीगणदिति॥ यदा स जामदग्न्यो दर्पेण दशरथस्येदं दाशरथं वाक्यं नाजीगणत् न गणितवान्। गण संख्याने इति धातोः स्वार्थण्यन्तालुङि " ई च गणः" इत्यभ्यासस्य वैभाषिक ईकारः। तदास्मिन्
 
-
-
 काले कुमारी रामः उरुर्बाणो गर्भे यस्य तद् धनुर्जामदग्न्यचापं व्यकार्क्षीत् विकृष्टवान् चकर्षेत्यर्थः। पूर्ववत् "स्पृशमृशकृषतृप—" इत्यादिना पक्षे सिच्यमभावे रूपम्। हलन्तलक्षणा वृद्धिः॥ “षढोः कः सि" इति कत्वम्। शेषं पूर्ववत्। विजितान् तपोजितान् तस्य जामदग्न्यस्य लोकान् पुण्यलोकानलावीत्। निस्पृहस्य तस्य अनुशयैव चिच्छेद चेत्यर्थः। रामबाणस्यामोघवर्त्तित्वादिति भावः॥
 
 **जिते [नृपारौ](http://१%20नृपाले%C2%A0 "१ नृपाले") सुमनीभवन्ति  
@@ -1527,8 +1294,6 @@ K. P. TRIVEDI
 क्लमरहितमचेतन्नीरजीकारितक्ष्मां  
 [बलमुपहि](http://५%20बलमभिहित%C2%A0 "५ बलमभिहित")तशोभां तूर्णमायादयोध्याम्॥५५॥
 
-
-
  ५५. अथेति॥ अथ नानापथगमनानन्तरं पुरुर्महान्। पूर्यतेः पृणातेंर्वा औणादिककुप्रत्ययः। तादृग्जवयोगात्। दूरे संस्था संस्थितिर्यस्य दूरसंस्थं वस्तु॥ “आतश्चोपसर्गे” इत्यङ्॥ प्रत्ययान्तोत्तरपदबहुव्रीहिः। नेदयत् अन्तिकस्थं कुर्वत्। अन्तिकशब्दात् “तत्करोति” इति ण्यन्ताल्लटः शत्रादेशः। णाविष्ठवद्भावात्॥ " अन्तिकबाढयोर्नेदसाधौ” इति नेदादेशः॥ तथा प्राप्तमासन्नमुर्वीविभागमतिरयेण दवयत् दूरीकुर्वत्। दूरशब्दात् "तत्करोति" इति ण्यन्ताल्लुटः शत्रादेशः। णाविष्टवद्भावात् "स्थूलदूर—" इत्यादिना यणादिपरलोपः पूर्वगुणश्च। क्लमरहितमक्लममखेदमचेतत् इयद्दूरं गतमित्यजानत्। चिती संज्ञाने इति धातोर्लटः शत्रादेशः। बलं सैन्यम्। अनीरजा नीरजा संपद्यमाना कारिता नीरजीकृता। सुमनीवत्प्रक्रिया। तादृशीक्ष्मा भूर्यस्यास्तामुपहितशोभां ध्वजपताकादिभिराहितश्रीकामयोध्यां तूर्णं त्वरितम्॥ "रुष्यमत्वरसंघुषास्वनाम्” इति विकल्पादनिट्पक्षे" ज्वरत्वर—" इत्यादिना वकारोपधयोरुढ्॥ "रदाभ्याम्" इति निष्ठानत्वम्॥ णत्वम्। आयात् प्राप्तं यातमित्यर्थः। यातेर्लङ्॥
 
 **इति भट्टिकाव्ये प्रकीर्णकाण्डे सीतापरिणयो  
@@ -1538,8 +1303,6 @@ K. P. TRIVEDI
 विरचिते भट्टिकाव्यव्याख्याने सर्वपथीनाख्याने द्वितीयः सर्गः॥
 
 ————————————
-
-
 
 **॥श्रीः॥**
 
@@ -1559,8 +1322,6 @@ K. P. TRIVEDI
 
  २. तत इति॥ ततो जनानुरागानन्तरम्। सुचेतीकृताः सम्यक्पालनेनानुरक्तचित्तीकृताः पौराः पौरजनाः भृत्याश्च येन सः भूमिपतिर्दशरथः सुतं रामं राज्येऽभिषेक्ष्ये अभिषेक्ष्यामि। सिचः कर्त्तरि लृट् तङ्। अनीचैरुच्चैः प्रकाशमाघोषयन् भूयोऽपि पुनरपि समस्तं लोकं
 
-
-
 सुमनीचकार संतुष्टचित्तं चकार॥ “अरुर्मनश्चक्षुः—" इत्यादिना सुचेती सुमनी साधुः॥ रामाभिषेकवार्त्ता सर्वलोकानन्दकरी जातेत्यर्थः॥
 
 **आदिक्षदादीप्तकृशानुकल्पं  
@@ -1577,8 +1338,6 @@ K. P. TRIVEDI
 
  ४. प्रास्थापयदिति॥ अपूगाः पूगाः कृतान् सङ्घीकृतान्। श्रेण्यादिषु च्व्यर्थवचनात् "श्रेण्यादयः कृतादिभिः" इति च्व्यर्थसमासः। स्वेन धनेन पुष्टान् स्वपोषं पुष्टान्। "स्वे पुषः" इति णमुल्॥ "अमैवाव्ययेन" इति समासः। कषादिषु यथाविध्यनुप्रयोगः।,दृढगात्रबन्धान् दृढगात्रसंधीन् भारवहने योग्यानित्यर्थः। सहेमकुम्भान् सुवर्णकलशयुक्तान्॥ "तेन सह—" इति बहुव्रीहिः॥ "वोपसर्जनस्य" इति सहस्य सभावः॥ पादौ कषन्तीति पत्काषिणः॥ "सुप्यजाती—"
 
-
-
 इति ताच्छील्ये णिनिः॥ “हिमकाषिहतिषु च" इति पादशब्दस्य पदादेशः। पुरुषान् तीर्थजलार्थं तदानयनार्थमित्यर्थः। समन्तादाशु प्रयत्नादुत्साहात् प्रास्थापयत् प्रस्थापितवान्। तिष्ठतेर्ण्यन्ताल्लट्॥ “अत्तिह्नी— " इत्यादिना पुगागमः॥
 
 **[उक्षां](http://१%20उक्षान्%20N.,%20D,%20E3. "१ उक्षान् N., D, E3.")प्रचक्रुर्नगरस्य मार्गान्।  
@@ -1587,8 +1346,6 @@ K. P. TRIVEDI
 रर्थेषु राज्ञा [निपुण](http://३%20निपुणाः%20प्रयुक्ताः%20E1. "३ निपुणाः प्रयुक्ताः E1.")ा नियुक्ताः॥५॥**
 
  ५. उक्षामिति॥ अर्थेषु कर्त्तव्यार्थेषु निपुणाः दक्षाः राज्ञा नियुक्ताः अधिकृताः पुरुषाः नगरस्य मार्गान् उक्षांप्रचक्रुः धूलिप्रशमनार्थं निषिषिचुः। उक्ष सेचने लिट्॥ “इजादेश्चगुरुमतोऽनृच्छः” इत्याम्प्रत्यये कृञोऽनुप्रयोगः॥ “कृञ्चानुप्रयुज्यते लिटि” इत्यत्र अनुग्रहणस्य व्यवहितविपर्ययनिषेधार्थत्वात् व्यवहितप्रयोगस्यासाधुत्वेऽपि उक्षांचक्रुरित्यत्र अनुप्रयोगवदुपसर्गाणामपि “ते प्राग्धातोः" इति व्यवहितविपर्यस्तपूर्वप्रयोगनियमाद् धात्वर्थाभिव्यञ्जकत्वादिना धात्वक्षरप्रायत्वाश्च प्रोपसर्गस्य न व्यवधायकत्वमिति नासाधुत्वम्। “ तं पातयां प्रथममास” “प्रभ्रंशयां यों नहुषं चकार" इत्यादावुपसर्गेतरस्य व्यवधानादसाधुत्वमेव। यत्तु पदमञ्जर्यामुभयमप्यसाधुत्वेनोदाहृतं तदनास्थेयमित्यवगन्तव्यम्। यत्तु जयमङ्गलाकारेण व्यवधानभयात्" गुरोश्च हलः" इत्यकारप्रत्यये ततो मत्वर्थीयाकारे च ‘उक्षान् उक्षावतः सेकवतः’ इति शसन्तं पाठ परिकल्प्य व्याख्यातं तदतिप्रसिद्धपाठत्यागादत्यन्ताप्रसिद्ध पाठकल्पनाच्च साहसमेवेत्युपेक्ष्यमेवेत्यलं प्रसक्तानुप्रसक्त्या। ध्वजान् बबन्धुः उदनीनमन्नित्यर्थः। खं व्यापिनो धूपान् खधूपान्मुमुचुः प्रसारयामासुरित्यर्थः। दिशश्चविचित्रैर्नानाविधैः पुष्पैः चकरुः दिक्षु पुष्पाणि विचिक्षिपुरित्यर्थः। सर्वशक्तियो -
-
-
 
 गित्वात् वैवक्षिकी कारकोत्पत्तिः। तदुक्तम्॥ ‘अनेकशक्तियुक्तस्य विश्वस्यानेककर्मणः। सर्वदा सर्वथाभावात्क्वचित्किञ्चिद्विवक्ष्यते’ इति॥
 
@@ -1616,8 +1373,6 @@ K. P. TRIVEDI
 
  ७. कर्णेजपैरिति॥ कर्णेजपैः उपांशु सूचयन्तीति कर्णेजपाः पिशुनाः। ‘कर्णेजपः सूचकः स्यात्पिशुनः’ इत्यमरः। तैराहितराज्यलोभा जनित—
 
-
-
 राज्यतृष्णा स्त्रैणेन स्त्रीसंबन्धिना। ‘स्त्रीणां पुंसां च यत्किञ्चित्स्त्रैणंपौस्नमिति क्रमात्’ इत्यमरः॥ “स्त्रीपुंसाभ्यां नञ्स्नञो भवनात्” इति नञ्प्रत्ययः॥ लघिम्ना तुच्छत्वेन। पृथ्वादीमनिचि टिलोपः। विकृतिं प्रकृतिवैपरीत्यं नीता कैकयी रामप्रवासे सति सनरेन्द्रमृत्युं दशरथमरणसहितं जनापवादं लोकनिन्दापवादं लोकनिन्दारूपं दोषं न व्यमृशत् न व्यचारयत्। मृशेर्लङ्॥
 
 **वसूनि[^74] देशांश्च निवर्तयिष्यन्  
@@ -1638,8 +1393,6 @@ K. P. TRIVEDI
 
 [^76]: "°दस्यागमनं T3."
 
-
-
  ५. तत इति॥ ततो वरप्रार्थनानन्तरं राजा दशरथः कुमारं रामं प्रव्राजयितुं प्रवासयितुमिच्छुः प्रविव्राजयिषुः सन्। व्रजतेर्ण्यन्तात्सनि उप्रत्ययः। सुमित्रायाः अपत्यं पुमान् सौमित्रिः लक्ष्मणः॥ “बाह्वादिभ्यश्च” इति इञ्प्रत्ययः॥ स च सीता च सौमित्रिसीतम्। ‘सर्वो द्वन्द्वोविभाषैकवद्भवति’ इति वचनादेकवद्भावः। अन्यथानुचरशब्दः पचादिषु चरडिति टित्करणात् स्त्रियां ङीपि “नघृतश्च” इति कप्प्रसंगात्। समासान्तानित्यत्वेऽपि पुंवद्भावानुपपत्तेरिति। तदनुचरं यस्य तस्य तथोक्तस्य रामस्य। कर्तरि षष्ठी। सुमन्त्रो नेत्रो नेता सारथिर्यस्य। नयतेरौणादिकष्ट्रन्। बाहुलकात्कर्त्तर्यर्थे। ‘नेत्रं मथिगुणे वस्त्रे तरुमूले विलोचने। नेत्रं रवे च नाड्यां च नेत्रो नेतरि भेद्यवत्’ इति विश्वः। रथेन वनाय॥ “गत्यर्थकर्मणि—” इत्यादिना चतुर्थी॥ अभिगमोऽभिगमनं प्रयाणम्॥ “ग्रहदृनिश्चिगमश्च” इत्यप्रत्ययः॥ शोचन् रुदन् आदिक्षन्नादिष्टवानाज्ञापितवान्। दिशेर्लुङि “शल इगुपधादनिटः क्सः ”॥
 
 **केचिन्निनिन्दुर्नृपम[^77]प्रशान्तं  
@@ -1654,9 +1407,6 @@ K. P. TRIVEDI
 [^79]: "४ °त्यपरे जजल्पुः T2, T4, T, G. Com."
 
  १०. केचिदिति॥ एवं रामप्रवाजनादेशे केचिज्जनाः अप्रशान्तं नैर्घृण्यात्क्रूरं नृपं निनिन्दुः निन्दितवन्तः। णिदि कुत्सायां लिट्। इदित्वान्नुमागमः। केचन सास्रं सबाष्पमुच्चैस्तारं विचुक्रुशुः हा राम रामेति चक्रन्दुः। क्रोशतेर्लिट्। तदा अस्य भरतस्य मायामूचुः स्वयमपसृत्य मातृमुखेनेदं कपटनाटकमाचरतीत्यूचुः। अपरे केकयीं धिगिति जजल्पुः व्यक्तमूचुः। अतिपापिष्ठेयमिति निनिन्दुरित्यर्थः॥ ‘धिङ्गिर्भ-  
-
-
-
 
 र्त्सननिन्दयोः” इति विश्वः॥ धिग्योगे द्वितीया। जल्प व्यक्तायांबाचि। लिट्॥
 
@@ -1679,8 +1429,6 @@ K. P. TRIVEDI
 [^82]: "३ स्तान् T2, T4, T., G."
 
  १२. प्रस्थास्यमानाविति॥ प्रस्थास्यमानौ प्रयास्यन्तौ॥ “समवप्रविभ्यः स्थः” इत्यात्मनेपदम्॥ “लटः सद्वा” इति शानजादेशः॥ तौ रामलक्ष्मणौउपसेदुषः उपसन्नान्॥ “भाषायां सदवसश्रुवः” इति सदेर्लिटः क्वसुरादेशः॥ शोशुच्यमानान् भृशं शोचतः। शोचतेर्यङन्ता-
-
-
 
 ल्लटःशानजादेशः। तान् जनानिदं वक्ष्यमाणमूचतुः। ब्रुवि शासीति द्विकर्मकता। तदेवाह हे जनाः पितुर्नियोगलाभेन आज्ञाकरणलाभेन कृतार्थान् कृतकृत्यानस्मान् अशोच्यानित्यर्थः। इहास्मिन्नभ्युदये गुर्वाज्ञाकरणमहोत्सवे किमर्थं शोचत न शोचितव्यमित्यर्थः। अधीष्टे लोट्। बतेत्याश्चर्ये। संतोष्टव्ये शोचनादाश्चर्यम्।
 
@@ -1706,8 +1454,6 @@ K. P. TRIVEDI
 
  १४. विद्युदिति॥ उत किं च प्रवासे अत्यल्पे वनप्रवासे किं किन्तु दुरापे दुःशङ्केऽपि। कृच्छ्रार्थे खल्प्रत्ययः। अर्थे कर्त्तव्यार्थे विषये यो गुरुणा शासने वा नावास्थित नावस्थितः। अवपूर्वात् तिष्ठतेर्लुङि
 
-
-
 “समवप्रविभ्यः स्थः" इत्यात्मनेपदे “स्थाध्वोरिच्च" इति कित्वमित्वं च॥ “ह्रस्वादङ्गात्” इति सिचो लोपः॥ सः विद्युदिव प्रणाशं विद्युत्प्रणाशं वरं प्रणष्टः सद्य एव मृतप्राय इत्यर्थः॥ “उपमाने कर्मणि च’ इति चकारात्कर्त्तर्युपमानोपपदे णमुल्प्रत्ययः॥ कषादित्वादनुप्रयोगः॥ “उपसर्गादसमासेऽपि णोपदेशस्य” इत्युभयत्रापि णत्वम्॥ यद्वा तृणवदूर्ध्वं शुषित्वा ऊर्ध्वशोषम्॥ “ऊर्ध्वेशुषिपूरोः" इति कर्त्तर्यूर्ध्व उपपदे णमुल्प्रत्ययः॥ पूर्ववदनुप्रयोगः। विशुष्कः॥ “शुषः कः” इति निष्ठातकारस्य कः। शुष्कतृणवन्निःसार इत्यर्थः॥
 
 पौरा निवर्त्तध्वमिति न्यगादीत्  
@@ -1721,8 +1467,6 @@ K. P. TRIVEDI
 मेकां शयित्वा रजनीं सपौरः।  
 रक्षन् वनेवासकृताद् भयात्तान्  
 प्रातश्छलेनापजगाम रामः॥१६॥**
-
-
 
  १६. ज्ञात्वेति॥ रामः इङ्गितैश्चेष्टितैः जनानां पौरजनानां गत्वरतां सहगन्तृत्वम्॥ “गत्वरश्च" इति क्वरबन्तो निपातः॥ ज्ञात्वा सपौरः पौरजनसहितः एकां रजनीम्। अत्यन्तसंयोगे द्वितीया। तान् पौरजनान् वने वासो वनेवासः॥ “शयवासवासिष्वकालात्" इत्यलुक्। तेन कृतात् संभावितात् भयात् सिंहव्याघ्रादिभयाद्रक्षन्॥ “भीत्रार्थानाम्" इत्यपादानत्वम्॥ शयित्वा सुप्त्वा॥ "न क्त्वा सेट्” इति कित्वप्रतिषेधात् गुणायादेशौ॥ प्रातः प्रभाते छलेन संमानादिव्याजेन अपजगाम अपगतः॥
 
@@ -1738,8 +1482,6 @@ K. P. TRIVEDI
 सतीतयो राघवयोरधीयन्  
 श्वसन् [कदुष्णं](http://४%20कवोष्णं%20B. "४ कवोष्णं B.") [पुरमा](http://५%20पुरमाजगाम%20T%203.%20पुनराजगाम%20T2,%20T4. "५ पुरमाजगाम T 3. पुनराजगाम T2, T4.")विवेश॥१८॥**
 
-
-
  १८. सूत इति॥ सुतः सारथिः सुमन्त्रोऽपि सहाश्वं साश्वम्॥ "वोपसर्जनस्य" इति विकल्पात्सहस्य सभावः॥ आत्मानं गङ्गासलिलैः पवित्वा पूत्वा शोधयित्वेत्यर्थः॥ "पूङश्च" इति विकल्पादिट्॥ अनल्पमन्युः प्रभूतशोकः सन् ससीतयोः सीतासहितयोः राघवयोः अधीयन् रामलक्ष्मणौ सीतां च संस्मरन्नित्यर्थः। इक् स्मरणे इति धातोः शतरि इयङादेशः॥ "अधीगर्थ—" इत्यादिना कर्मणि शेषे षष्ठी॥ कदुष्णमीषदुष्णं श्वसन्॥ "कवं चोष्णे" इति चकारात्कोः कदादेशः॥ पुरमयोध्यामाविवेश॥
 
 **प्रतीय [सा](http://१%20प्रतीयुषा%20C,%20T2,%20T4.%20प्रतीय%20पूः%20संददृशे%20D. "१ प्रतीयुषा C, T2, T4. प्रतीय पूः संददृशे D.")पूर्ददृशे जनेन  
@@ -1754,8 +1496,6 @@ K. P. TRIVEDI
 मधूनि नैषीद् व्यलिपन्न गन्धै-  
 [र्मनोरमे](http://४%20मनोहरे%20T2,%20T4. "४ मनोहरे T2, T4.") न व्यवसिष्ट वस्त्रे॥२०॥**
 
-
-
  २०. विलोक्येति॥ नृपतिर्दशरथो रामेण विना॥ "पृथग्विना—”इत्यादिना तृतीया॥ सुमन्त्रं विलोक्य च्युताशः रामागमने निराशः सन् सत्वात्स्वभावात्। ‘सत्वं गुणे पिशाचादौ बले द्रव्यस्वभावयोः ' इति विश्वः।अच्योष्ट च्युतः। धैर्याद् भ्रष्ट इत्यर्थः। व्यवतेरनिटोलुङि ताङ च्लेः सिच्। किं च मधूनि मद्यानि नैषीत् नैच्छत्। इषेर्लुङि "नेटि"॥इति सिचि वृद्धिप्रतिषेधः। आड्वृद्धिः॥ "इट ईटि " इतेि सिज्लोपः॥ गन्धेः कुङ्कुमचन्दनादिभिः। 'गन्धस्तु सुरभे मृत्यौगन्धने गर्वलेशयोः। स एव द्रव्यवचनो बहुत्वे पुंसि च स्मृतः' इति वचनाद्बहुवचनम्। न व्यलिपत् न समालब्धः॥ "लिपिसिचिह्नश्व" इति च्लेरङादेशः॥ मनोरमे वस्त्रे न व्यवसिष्ट नाच्छादितवान्। वसेराच्छादनार्थाल्लुङि सिचीट्। अतिशोकादत्यपरनामा विषयद्वेषो जात इत्यर्थः॥
 
 **आसिष्ट नैकत्र शुचा व्यरंसीत्  
@@ -1764,8 +1504,6 @@ K. P. TRIVEDI
 शोकाग्निनागाद् द्युनिवासभूयम्॥२१॥**
 
  २१. आसिष्टेति॥ चन्दनेरुशीरैर्नलदैर्मृणालैश्च दिग्धः दाहशान्त्यर्थं लिप्तः। दिहेः कर्मणि क्तः।घत्वादिकार्यम्। स राजा शुचा शोकेन एकत्र नासिष्ठ नोपविष्टः। तेनानवस्थालक्षणरूपः शोकानुभाव उक्तः।आसेर्लुङि तङि सिचीडागमः। क्षितिपालभाग्भ्यः राजार्हेभ्यः॥ "भजो ण्विः"॥ कृतानि चाकृतानि च॥ "क्तेन नञ्विशिष्टेनानञ् इति समानाधिकरणसमासः॥ तेभ्यः कृताकृतेभ्यः हेमरूप्येभ्यः तन्मयभूषणभजानादिभ्य इत्यर्थः। 'हेमरूप्ये कृताकृते' इत्यमरः।" जुगुप्साविरामप्रमादार्थानामुपसंख्यानम्" इत्यपादानत्वम्॥ “अपादाने पञ्चमी "॥ व्यरंसीत् विरतः विरक्तोऽभूदित्यर्थः।रमेर्लुङि “व्याङ्-
-
-
 
 परिभ्यो रमः" इति परस्मैपदम्॥ "यमरमनमातां सक् च" इति सगिटौ॥ “नेटि" इति वृद्धिप्रतिषेधः। किं बहुना शोकाग्निना दिवि निवासो यस्य तस्य भावं द्युनिवासभूयं देवभूयमगात् स्वर्गे गत इत्यर्थः॥ "भुवो भावे" इति क्यप्॥
 
@@ -1783,8 +1521,6 @@ K. P. TRIVEDI
 
  २३. ता इति॥ अथ बन्धुता बन्धुसमूहः॥ "ग्रामजनबन्धु—" इत्यादिना सामूहिकस्तल्प्रत्ययः॥भरतं प्रतीक्षते संस्कारार्थमिति भरतप्रतीक्षा सती॥ "ईक्षिक्षमिभ्यां च" इत्युपसंख्यानात्कर्मण्यण्प्रत्ययः। ता राजमहिषीः सान्त्वयन्ती आश्वासयन्ती तं नृपमाशु तैले तैलद्रोण्यामित्यर्थः। 'आहिताग्निं जनाः प्रमीतं तैलद्रोण्यामवधाय
 
-
-
 शकटेनाहरन्ति' इति दूरमृतस्य कर्तृप्राप्तिपर्यन्तं तद्विधानात्। न्यक्षिपत् निक्षिप्तवती अविक्रियार्थमित्यर्थः। क्षिपेर्लङ्। तथा राजात्मजं भरतमानिनीषुरानेतुमिच्छुः सती। आनिनीषूनिति पाठे दूत विशेषणम्। यथानियोगकारिण इत्यर्थः। दूतान्संदेशहरान् मन्त्रिणां मतेनानुमत्या प्रास्थापयत् प्रस्थापितवती च। तिष्ठतेर्ण्यन्तालुङ्॥ अतिही—" इत्यादिना पुगागमः॥
 
 **सुप्तो नभस्तः पतितं निरीक्षां-  
@@ -1801,8 +1537,6 @@ K. P. TRIVEDI
 
  २५. अशिश्रवन्निति॥ यदा दूताः एत्यागत्य तं प्रयियासयन्तः प्रयातुमेषयन्तः जिगमिषयन्त इत्यर्थः। यातेः सन्नन्ताण्णिचि लटः शत्रा-
 
-
-
 देशः। तं भरतमात्ययिकमत्ययमात्रफलकम्॥ "प्रयोजनम्" इति ठञ्॥ तमर्थे
 कैकेयीवृत्तान्तं नाशिश्रवन् न श्रावयन्ति स्म। अनर्थम श्रावयित्वैव मिषान्तरेण जिगमिषामजीजनन्नित्यर्थः। तदा अश्रवणकाले गुरूणां तातपादानामुत्कण्ठमानः अनर्थशङ्कया सशोकं स्मरनित्यर्थः। कठि शोके। उपसर्गवशात् स्वार्थंविना भूतार्थान्तरता॥ “अधीगर्थ —” इत्यादिना कर्मणि शेषे षष्ठी। असौ भरतः अंहितुमिच्छा अञ्जिहिषा। अहि गतौ इति धातोर्भौवादिकात्सन्नन्तादप्रत्यये इट्। इदित्वान्नुम्॥ "नन्द्राः—" इति नकारवर्जमजादित्वाद्वितीयै काचो द्वित्वम्। चुत्वादिकार्यम्। सा जाता यस्य सः जाताञ्जिहिषः जातजिगमिषः सन्। उपसर्जनह्रस्वः। आंहिष्ट अगमत्। जातजिगमिषो गत इत्यर्थः। तस्मादेव धातोर्लुङि सिचि आड्वृद्धिः॥
 
@@ -1812,8 +1546,6 @@ K. P. TRIVEDI
 नायासिषुर्भीममरासिषुश्च॥२६॥
 
  २६. बन्धूनिति॥ समाकुलत्वात् दुःस्वप्नदूतागमनादिना व्याकुलचित्तत्वात्स्नेहवशाच्च बन्धून् पित्रादीनपायमनर्थमासेदुषः प्राप्तान्॥ “भाषायां सदवस—" इत्यादिना क्वसुः॥ अशङ्किष्ट शङ्कितवान्। शकेर्लुङि तङ सिचीट्। 'प्रेम पश्यति भयान्यपदेऽपि' किमुतात्र पद इति भावः। गोमायवः क्रोष्टारः सारङ्गा हरिणाः तेषां तस्य वा गणाश्च॥ "विभाषा वृक्षमृग—" इत्यादिना वैभाषिकैकवद्भावात्॥ सम्यगनुकूलं नायासिषुः नागमन्। यातेर्लुङि सगिटौ। शृगालाः प्रदक्षिणं मृगाश्च सव्यमित्यर्थः। भीमं प्रतिकूलमरासिषुः रसितवन्त इत्यर्थः। रसतेः शब्दकर्मणो लुङ्॥ "अतो हलादेः—" इति सिचि वृद्धिः॥
-
-
 
 स प्रोषिवानेत्यपुरं [प्रवेक्ष्यन्](http://१%20प्रविश्य%20T3,%20T4,%20T,%20G,%20Com.%20प्रविष्टः%20D. "१ प्रविश्य T3, T4, T, G, Com. प्रविष्टः D.")  
 शुश्राव घोषं न जनौघजन्यम्।  
@@ -1829,8 +1561,6 @@ K. P. TRIVEDI
 
  २८. चक्रन्दुरिति॥ मातरः कौसल्यादयः पुरोहितामात्यौ मुखं प्रधानं येषां ते। पुरस्कृतपुरोहितामात्या इत्यर्थः। अमात्यस्याजाद्यदन्तत्वेऽपि पुरोहितस्याभ्यर्हितत्वात् पूर्वनिपातः। युध्यन्ते इति योधाः वीरभटाश्च। पचाद्यच्। अभ्यर्णमविदूरमासन्नमित्यर्थः। अभिपूर्वादर्देः
 
-
-
 कर्त्तरि कः॥ "अभेश्चाविदूर्ये" इतीट्प्रतिषेधात् " रदाभ्यां—" इति निष्ठानत्वम्॥ णत्वम्। तं भरतं समेत्य प्राप्य। विवृद्धाभ्यां मन्युभ्यां पितृशोकमातृक्रोधाभ्याम्॥' मन्युः स्यात्क्रोधशोकयोः' इति शाश्वतः। प्रतिपूर्णा कोष्ठवायुपीडनादस्पन्दपुटिता मन्या ग्रीवापृष्ठसिरा येषां ते। "पश्चाद्ग्रीवा सिरा मन्या" इत्यमरः॥ "संज्ञायां समजनि—" इत्यादिना क्यप्॥ उपागतास्राः उदीर्णबाष्पाश्च सन्तः उच्चैर्नृपति चक्रन्दुः हा नाथ क्व गतोऽसीति चुकुशुरित्यर्थः॥
 
 **दिदृक्षमाणः परितः ससीतं  
@@ -1845,8 +1575,6 @@ K. P. TRIVEDI
 उच्चैरुपालब्ध स [केकयीं](http://३%20कैकयीं%20D.,%20T4,%20E1. "३ कैकयीं D., T4, E1.") च  
 शोके मुहुश्चाविरतं न्यमाङ्क्षीत्॥३०॥**
 
-
-
  ३०. आवद्धेति॥ स भरतः भ्रुवोः कुटी कौटिल्यं भ्रुकुटी भ्रूभङ्गः। कुट कौटिल्ये इति धातोरौणादिक इकारः॥ “कृदिकारात्" इतीकारः॥ स “इको ह्रस्वोऽङयो गालवस्य" इति विकल्पात्पूर्वस्येको ह्रस्वः॥ आबद्धः संबद्धः भीमो भयंकरो भ्रुकुट्येव विभङ्गो विकारो येन स सन्। शेश्वीयमाने अतिरोदनात् भृशं शूने उच्छूने इति यावत्। श्वयतेर्यङन्तालटः शानजादेशः॥ "विभाषा श्वेः” इति विकल्पात् असंप्रसारणपक्षे रूपम्॥ “गुणो यङ्लुकोः " इति दीर्घश्च॥ अरुणे अतिरोदनादतिकोपाञ्च्च रक्ते रौद्रे रोषाद्भयंकरे नेत्रे यस्य स सन् केकयीं मुहुरुपालब्ध च। अयि पापिष्ठे किं कृतमिति मुहुराक्रुक्षच्च। लभतेर्लुङि तङि "झलो झलि" इति सलोपः। धत्वादिकार्यम्। इह मुहुश्शब्दस्य निमज्जनवाक्यस्थस्यापि योग्यत्वादुपालम्भेन संबन्धः। निमज्जनसंबन्धे अविरतत्वविरोधात्। शोके शोकसागरे इत्यर्थः। निमज्जनलिङ्गात्। अविरतं न्यमाङ्क्षीत् निमग्नश्च। मस्जेर्लुङि सिचि" मस्जिनशोर्झलि" इत्यन्तात्पूर्वं नुम्विधानात् संयोगादिलोपानुषङ्गसिद्धिश्च। हलन्तलक्षणा वृद्धिः। हल्ग्रहणस्य समुदायप्रतिपत्त्यर्थत्वात् कुत्वष त्वानुस्वारादिपरसवर्णादिकार्यम्। केकयी व्याख्याता॥
 
 **नृपात्मजौ चिक्लिशतुः ससीतौ  
@@ -1856,8 +1584,6 @@ K. P. TRIVEDI
 
  ३१. उपालम्भमेवाह नृपेति॥ ससीतौ सीतासहितौ॥ "तेन सह—” इति बहुव्रीही उपसर्जनह्रस्वत्वम्॥ नृपात्मजौ रामलक्ष्मणौ चिक्लिशतुः वनवासादिना क्लिष्टावित्यर्थः। क्लिश्यतेरकर्मकाल्लिट्। राजा ममार। मृतः॥ "म्रियतेर्लुङ्लिङोश्च ” इति नियमात्परस्मैपदम्। भवती च एताश्च भवत्यः। त्यदाद्येकशेषः। विधवाः स्थ। न केवलं त्वमेव
 
-
-
 किन्त्वेता अपि त्वया हता इत्यर्थः। वयं शोच्याः निन्दाभाजनत्वादितिभावः। भूरनृपा शोच्या। 'शोच्यं राज्यमराजकम्' इति न्यायात्। त्वमपि शोच्येत्यर्थः। केकयस्यापत्यं स्त्री कैकेयी॥ “जनपदशब्दात्क्षत्रियादञ्" इति केकयशब्दादञ्प्रत्ययः॥ "केकयमित्रयुप्रलयानां यादेरियः" इतीयादेशे गुणः॥ उपज्ञायत इत्युपज्ञा॥ "आतश्चोपसर्गे" इति कर्मण्यङ् प्रत्ययः॥ कैकेय्याः उपशा कैकेय्युपशम्। कृद्योगषष्ठीसमासः। कैकेय्या प्रथममुपज्ञातमित्यर्थः॥ "उपज्ञोपक्रमं तदाद्याचिख्यासायाम्" इति नपुंसकत्वम्॥ बहवोऽनर्थाः पूर्वोक्ताः यस्मिन् तत् लघुत्वमत्यन्तायुक्तकारित्वलक्षणं तुच्छत्वमित्यहो महदसाधारण्यं संपादितं पापिष्ठेत्युपालम्भार्थः॥
 
 **नैतन्मतं मत्कमिति ब्रुवाणः  
@@ -1866,8 +1592,6 @@ K. P. TRIVEDI
 [लुठ्यन्](http://४%20लुठन्%20T2. "४ लुठन् T2.")[सशोको](http://५%20सशोकं%20C. "५ सशोकं C.") भुवि रोरुदावान्॥३२॥**
 
  ३२. तं प्रति स्वापराधं परिहरति नेति॥ सशोकः असौ भरतः सरामं पितरमुद्राश्यमानः हा तात हा रामेति उभावपि नामग्रहमुच्चैः क्रोशन्नित्यर्थः। वाशृ शब्दे इति दैवादिकात्कर्तरि लटः शानजादेशः। भुवि लुठ्यन्। लुठेर्दैवादिकाल्लटः शत्रादेशः। रोरुदा भृशं रोदनम्। रुदेर्यङन्तात्॥ "अप्रत्ययात्" इत्यप्रत्ययः। अल्लोपयलोपौ। तद्वान् भृशंसरुदन्नित्यर्थः। एतत्कैकेय्यनुष्ठितं मतं पक्षः। अहं ग्रामणीरस्य मत्कं मत्कर्त्तृकं न॥ " स एषां ग्रामणीः” इति कन्प्रत्ययः॥ "प्रत्ययोत्तरपदयोश्च" इत्यस्मदो मपर्यन्तस्य मादेशः॥ इति ब्रुवाणः सहस्रशः अनेकवारं शपथान् विश्वासवचनानि अशप्यदकरोदित्यर्थः। स तपोऽतप्य-
-
-
 
 तेतिवत् निर्देशात्। शपेर्दैवादिकाल्लड्। 'शपते शप्यति शपत्याक्रोशत्यपि शप्यते' इति भट्टमल्लः॥
 
@@ -1885,8 +1609,6 @@ K. P. TRIVEDI
 
  ३४. उदेति॥ पट्टदुकूलानि ब्राह्मणपरिव्राजकवन्निर्देशः। तेषां केतून ध्वजानुदक्षिपन् उत्क्षिप्तवन्तः। वेणुरिति वंशादिसुषिरवाद्योपलक्षणम्। मृदङ्ग इति मुरजाद्यानामुपलक्षणम्। कंसीयस्य विकारः
 
-
-
 कांस्य इति तालादिवाद्योपलक्षणम्॥ “कंसीयपरशव्ययोर्यञञौ लुक् च" इति यञ्प्रत्ययः छस्य लुक् च। तेषाम्॥ “जातेरप्राणिनाम्” इति द्वन्द्वैकवद्भावः। न तूर्याङ्गत्वात्। मार्दङ्गिकपाणविकादिवन्मृदङ्गादितूर्याणां तूर्याङ्गताभावात्। अवादयन् वादितवन्तः। तारांस्तारध्वनीन् कम्बून शंखांश्चाधमन् अपूरयन्॥ "पाघ्रा—" आदिना ध्मो धमादेशः। तथा समन्तात् कुङ्कुमचन्दनानि आसयन् अकिरनित्यर्थः। सर्वत्र लङ्॥
 
 श्रोत्राक्षिनासावदनं सरुक्मं  
@@ -1895,8 +1617,6 @@ K. P. TRIVEDI
 मृत्विग्जुहाव [ज्वलितं](http://%C2%A0२%20ज्वलिते%20चितानौ%20T2,%20T "२ ज्वलिते चितानौ T2, T") चिताग्निम्॥३५॥
 
  ३५. श्रोत्रेति॥ ऋतुमृतावृतुप्रयुक्तो वा यजतीति ऋत्विक् संस्कर्त्ता भरतः॥ "ऋत्विग्—" इत्यादिना किन्नन्तो निपातः। अजिने कृष्णाजिने प्राक्छिरसं विधाय। 'रज्जुषु चैव कृष्णाजिने चैव चोत्तानः शेते' इति शास्त्रात् तथा कृत्वा। सर्वेषु संवेशनेषु दक्षिणाशिरसमिति शास्त्रे सति प्राक्छिरस्त्वाभिधानं चिन्त्यम्। शाखाभेदाद्वा समाधेयम्। श्रोत्रे अक्षिणी नासा वदनं च तथोक्तम्। प्राण्यङ्गस्वादेकवद्भावः। सरुक्ममाधाय। प्राणायतनेषु हिरण्यशकलं कृत्वा। पात्राणि यशपात्राणि तथाविधानं, संचित्य। 'पात्राणि चिनोति सर्वाण्यनुलोमानिं ध्रुवावर्जं तस्य दक्षिणे हस्ते स्रुवं जुहूं चनिदधाति सव्य उपभृतमुरसि ध्रुवामरणीं व मुखेऽग्निहोत्रहवर्णी नासिकयोः स्रुवादि' इत्यादि ' स एष यशो युधि यजमानोंऽजसास स्वर्गलोकमेति' इत्यन्तशास्त्रोक्तविधानात् तत्तदवयवेषु निधायेत्यर्थः। ज्वलितं चिताग्निं जुहाव आहुतिभिरतार्प्सीदित्यर्थः॥
-
-
 
 कृतेषु पिण्डोदकसञ्चयेषु  
 हित्वाभिषेकं प्रकृतं प्रजाभिः।  
@@ -1912,8 +1632,6 @@ K. P. TRIVEDI
 
  २७. शीघ्रायमाणैरिति॥ अशीघ्रैः शीघ्रैर्भवद्भिः शीघ्रायमाणैः। रामदर्शनोत्कण्ठयेति भावः। भृशादिक्यङन्ताल्लटः शानजादेशः। ककुभः अश्नुवानैः आनन्त्याद्दिशो व्याप्नुवद्भिः। अश्नोतेः शानचि उवङादेशः। अत एव अपन्थानमपर्याप्तत्वादपन्थानमुपेत्य॥ "पथो विभाषा" इति पाक्षिकः समासान्ताभावः। सृप्तैः प्रसर्पद्भिरित्यर्थः। सृपेः कर्तरि क्तः। शोकादभूषैः भूषारहितैरपि नागेन्द्ररथाश्वेन हस्तिरथाश्वेन मिश्रः ॥ “पूर्वसदृश—" इत्यादिना तृतीयासमासः। बहुष्वनियमाद्धस्तिनां प्राधान्याश्च बह्वचोऽपि नागेन्द्रस्य पूर्वनिपातः। जनैर्हेतुभिः। भूश्चकासाञ्चकार विरेजे। स्वयमभूषितत्वेऽपि भुवनभूषायमाणहस्त्यादियोगात्तैरभूष्येव भूरिति भावः। 'कास्यनेकाज्ग्रहणं चुलुम्पाद्यर्थम्' इति लिटि चकासेराम्प्रत्ययः॥ "आम्प्रत्ययवत्कृञोऽनुप्रयोगस्य” इत्यत्र पूर्ववद्ग्रहणानुवृत्तेश्चकास्तिवत्कर्त्रभिप्रायेऽपि कृञः परस्मैपदम्॥
 
-
-
 **उच्चिक्यिरे[पुष्पफलं](http://१%20पुष्पफले%20E1. "१ पुष्पफले E1.") [बनानि](http://२%20बलानि%20E2. "२ बलानि E2.")  
 सस्नुः पितृन् पिप्रियुरापगासु।  
 [आरेमुरित्वा](http://३%20आरेटु%20N. "३ आरेटु N.") पुलिनान्यशङ्कं  
@@ -1927,8 +1645,6 @@ K. P. TRIVEDI
 ययुर्निरुद्धश्रमवृत्तयस्ते॥३९॥**
 
  ३९. संप्राप्येति॥ ते जनाः गच्छतीति गङ्गा भागीरथी॥ “गन्गम्यद्योः” इति गमे रौणादिक गन्प्रत्ययः। तदम्बुसंपर्केण विशुद्धिभाजोऽतिपचित्रायास्तमसापगायाः तमसानद्यास्तीरं संप्राप्य निरुद्धश्रमवृ-
-
-
 
 त्तयः निरस्तखेदसंक्रान्तयः सन्तः। पुनातीति पुण्यं यामुनमम्बु यमुनाजलं विगाहितुं ययुः॥
 
@@ -1946,8 +1662,6 @@ K. P. TRIVEDI
 
  ४१. वाचंयमानिति॥ अथ वाचं यच्छन्तीति वाचंयमान् मौनव्रतिनः॥ 'वाचि यमो व्रते" इति खच्॥ "वाचंयमपुरन्दरौ च" इति निपातनान्मुमागमः। स्थण्डिले शेरत इति स्थण्डिलशायिनः। तद्व्रतिनश्चेत्यर्थः। अनिशं युयुक्षमाणान् योक्तुमिच्छतः। योगाभ्यासिन इत्यर्थः। युजेः सन्नन्ताल्लटः शानजादेशः। मुमुक्षून मोक्तुमिच्छ्रन्। विरक्तानित्यर्थः मुचेः सन्नन्तादुप्रत्ययः। विनयादध्यापयन्तम्। ब्रह्मविद्यां ग्राहयन्तमित्यर्थः॥ "क्रीङ्जीनां णौ” इत्यात्वे पुगागमः॥ सशिष्यं भरद्वाज-
 
-
-
 मुनिम्। पादाभ्यां गच्छन्तीति पद्गाःपादचारिणः सन्तः। 'डोऽन्यत्रापि दृश्यते' इति गमेर्डप्रत्ययः॥ "पादस्य पदाज्यातिगोपहतेषु” इति पादशब्दस्य पदादेशः॥ विनयात्प्रणेमुः प्रणताः। नमेर्लिटि“अत एकहल्–" इत्यादिना एत्वाभ्यासलोपौ॥
 
 **आतिथ्यमेभ्यः परिनि[र्विवप्सोः](http://१%20परिनिर्विवत्सोः%20T,%20G.,%20Com. "१ परिनिर्विवत्सोः T, G., Com.")  
@@ -1962,8 +1676,6 @@ K. P. TRIVEDI
 सविभ्रमं नेमुरुदारमूचु-  
 स्तिलोत्तमाद्या वनिताश्च तस्मिन्॥४३॥**
 
-
-
  ४३. आज्ञामिति॥ तस्मिन् तत्काले तिलोत्तमाद्या वनिता अप्सरसः आशां भरतानुगादेशं प्रतीषुः अग्रहीषुः यथोक्तं चक्रुरित्यर्थः। इषेर्लिटि द्विर्भावादिकार्ये सवर्णदीर्घादिकार्यम्। विनयादुपास्थुः असेवन्त इत्यर्थः। तिष्ठतेर्लुङि “गातिस्था – ” इत्यादिना सिचो लुक्॥ "आतः” इति झेर्जुस्॥ "उस्यपदान्तात्" इति पररूपत्वम्। सरागं रागबन्धयुक्तं जगुरगायन्। गातेर्लिटि द्विर्भावे “कुहोश्रुः " पररूपत्वं च॥ सभावं शृङ्गारचेष्टायुक्तं ननृतुः अनृत्यन्। नृतेर्लिटि "उरत्" इत्यभ्यासऋृकारस्यात्वम्। "असंयोगात्—" इति लिटः कित्वान्न गुणः॥ सविभ्रमं सविलासं नेमुः प्रणेमुः। नमेर्लिटि" अत एकहल्—" इत्येत्वाभ्यासलोपो। उदारं गंभीरमूचुः व्याजह्नु। वचेर्बूञा देशस्य लिटि संप्रसारणे द्विर्भावे सवर्णदीर्घः॥
 
 वस्त्रान्नपानं शयनं च नाना  
@@ -1973,8 +1685,6 @@ K. P. TRIVEDI
 
  ४४. वस्त्रेति॥ अथ मुनिर्भरद्वाजः वस्त्राणि अन्नानि पानानि च वस्त्रान्नपानम्। 'सर्वो द्वन्द्वो विभाषैकवद्भवति' इत्येकवद्भावः शयनं च॥ जातावेकवचनम्। नानावकाशे यथाभिमते पृथक्पृथक्प्रदेशे रुचिरं मनोज्ञं यथा तथा प्रक्लृप्तं सज्जं कृत्वा प्रीतवान् हृष्टः सन्। प्रीञः प्रीत्यर्थाद् दैवादिकादकर्मकात्कर्त्तरि निष्ठा। तान् भरतानुगानाह स्म उक्तवांश्च। किं तत्। तदाह। हे जनाः अस्मिन्नाश्रमे निवध्वं यथेच्छं वस्त्राणि परिधत्तं। वसेराच्छादनार्थाल्लोटि ध्वमि धातुसकारस्य॥ "झलां जश् झशि" इति जश्त्वम्। आन्तरतम्याद्धकारः।
 
-
-
 आध्वमुपविशत। आस उपवेशने। सर्वंपूर्ववत्। पिबत पेयजातं यथेच्छं धयत। पा पाने। थस्य तादेशः॥ “ पाघ्रा—" इत्यादिना पिबादेशश्च। अन्त सुष्ठु भक्ष्याणि भक्षयत। अदेर्लोटि थस्य तादेशः। शेध्वं विस्रब्धं संविशत। शीङो लोटि ध्वमि शपो लुक्॥"शीङः सार्वधातुके गुणः" इति गुणः। सर्वत्र “प्रैषातिसर्गप्राप्तकालेषु कृत्याश्च' इत्यतिसर्गे लोट्। अतिसर्गः कामचाराभ्यनुज्ञा। अत्र सर्वत्र विधौलोडिति पूर्वव्याख्यातारस्तदसत्। न तावत्किञ्चिदत्र ज्योतिष्टोमादि वत्किञ्चिदप्यपूर्वं विधेयमस्ति रागत एवैषां प्राप्तत्वात्। नाप्यत्रर्तौ जायामुपेयादितिवन्नियम्यते तदनिच्छतामकरणे प्रत्यवायाभावात्। नापि स्थानान्तरविहारपरिसंख्यापरत्वमिति वाच्यम्। पञ्चेतरपञ्चनखभक्षणवत् स्थानान्तरविहारे दोषाभावात्। दोषत्रयदुष्टत्वादस्मदुक्तमेव युक्तम्॥
 
 **ते भुक्तवन्तः [सुसुखं](http://१%20ससुखं%20D,%20E1,%20स्वसुखं%20T3. "१ ससुखं D, E1, स्वसुखं T3.") वसित्वा  
@@ -1983,8 +1693,6 @@ K. P. TRIVEDI
 र्मन्दाकिनीं रम्यवनां समीयुः॥४५॥**
 
  ४५. त इति॥ ते जनाः भुक्तवन्तः वासांसि वसित्वा आच्छाद्य। वसेराष्छादनार्थात् क्त्वाप्रत्ययः। वलादित्वादिट्। सुष्ठु सुखं यथा भवति तथा सुसुखं रजनीमुषित्वा स्थित्वा। अत्यन्तसंयोगे द्वितीया। "वसतिक्षुधोरिट्”॥ यजादित्वात्संप्रसारणम्। प्रभाते संप्राप्ता अध्वानं समध्वाः अध्वगता इत्यर्थः। प्रादिसमासः॥ "उपसर्गादध्वनः" इति समासान्तष्टच्प्रत्ययः। द्रुतं रथवाजिना युक्तैर्नागै रथवाजिनागैः। मध्यमपदलोपिसमासाश्रयणेन सेनाङ्गद्वन्द्वैकवद्भावं वारयन्ति। रम्यवनां मन्दाकिनीं नाम चित्रकूटनिकटस्थां कांचन नदीं न तु गङ्गामित्यारण्य -
-
-
 
 काण्डे द्रष्टव्यम्। समीयुः। इणो लिटि झेरुसि " इणो यण्"॥ दीर्घ इणः किति " इत्यभ्यासदीर्घः॥
 
@@ -2002,8 +1710,6 @@ K. P. TRIVEDI
 
  ४७. दृष्ट्वेति॥ सुमित्राया अपत्यं पुमान् सौमित्रिः। बाह्वादित्वादिञ्। ककुभो दिशः ऊर्णुवानान् व्याप्नुवतः। ऊर्णोतेः शानच् उवङादेशश्च। बलौधान् सेनासमूहान् दृष्ट्रा शृङ्गस्य विकारः शार्ङ्गं धनुः वितत्य
 
-
-
 विस्तीर्यं सज्जं कृत्वेत्यर्थः। तनोतेः समासे क्त्वो ल्यप्। तुक्। अनुनासिकलोपः। कवचं वर्म पिनह्य। नहेर्ल्यप्। 'वष्टि भागुरिरल्लोपमवाप्योरुपसर्गयोः' इति विकल्पादल्लोपः। सिसंग्रामयिषुः संग्रामयितुं योद्धुमिच्छुः। संग्राम युद्धे इति धातोश्चरादिण्यन्तात् सन्नन्तादुप्रत्ययः। अत एव शितेषुः निशितबाणः सन्। अक्षिणी च भ्रुवौ च अक्षिभ्रुवम्॥ “अचतुर—" इत्यादिना निपातनात्साधुः। उज्जिहानः उद्गमयन्। णिजर्थगर्भो निर्देशः। जहातेः कर्त्तरि लटः शानजादेशः। तस्थौ स्थितवान्। प्रतिपक्षभ्रान्त्या सन्नद्ध इत्यर्थः॥
 
 शुक्लोत्तरासङ्गभृतो विशस्त्रान्  
@@ -2018,8 +1724,6 @@ K. P. TRIVEDI
 आवेदयन्तः क्षितिपालमुच्चैः-  
 कारं मृतं रामवियोगशोकात्॥४९॥**
 
-
-
  ४९. समूलेति॥ अथैते बृंहितमन्युवेगाः प्रवृद्धशोकवेगाः अत एव रुदन्तः क्षितिपालं दशरथं रामवियोगशोकान्मृतम् उच्चैः कारमुच्चैः कृत्वा आवेदयन्तः पुत्रशोकान्मृत इत्युच्चैः कथयन्त इत्यर्थः॥ " अव्ययेऽयथाभिप्रेताख्याने कृञः क्त्वाणमुलौ ” इति णमुल्प्रत्ययः। नीचैराख्येयस्यानिष्टस्य उच्चैराख्यानमेवात्र अयथाभिप्रेताख्यानम्। रामान्तिकं रामसमीपदेशं समूलकाषं स्वशरीरलुण्ठनैः पतनैः समूलं कषित्वा चकषुः। आमूलाच्चकषुरित्यर्थः॥ "निमूलसमूलयोः कषः" इति णमुल्प्रत्ययः॥ "कषादिषु यथाविध्यनुप्रयोगः”॥
 
 **चिरं रुदित्वा करुणं सशब्दं  
@@ -2028,8 +1732,6 @@ K. P. TRIVEDI
 प्रत्तं जलं द्व्यञ्जलमन्तिकेऽपाम्॥५०॥**
 
  ५०. चिरमिति॥ अथ राघवः रामः लक्ष्मणसाहचर्यात्। तथा च रामलक्ष्मणाभ्यामित्यर्थः। चिरं करुणं दीनं सशब्दं सध्वानं च यथा तथा रुदित्वा परिदेव्य सरितमेत्य नदीं गत्वा मध्ये जलस्य मध्येजलं तस्माज्जलमध्यादित्यर्थः। त्यब्लोपे पञ्चमी। तत्र स्नात्वा निर्गत्येत्यर्थः॥ "पारे मध्ये षष्ठ्या वा" इत्यव्ययीभावः। " अपञ्चम्याः” इति निषेधान्न लुगम्भावौ। अपामन्तिके तीरे। द्वौ अञ्जली समाहृतौ द्व्यञ्जलम्॥ तद्धितार्थ— " इत्यादिना समाहारे द्विगुः॥ "द्वित्रिभ्यामञ्जलेः" इति समासान्तष्टच्॥ द्व्यञ्जलमिति लक्षणया द्व्यञ्जलिगृहीतमित्यर्थः। अन्यथा घटः पट इति वत् द्व्यञ्जलं जलमिति सामानाधिकरण्यायोगातांन न तु द्व्यञ्जलिः प्रमाणमस्येति सामानाधिकरण्यसिद्धिः॥ “द्विगोर्लुंगनपत्ये” इति प्रमाणतद्धितलुकि समासान्तानुपपत्तिप्रसङ्गात्। तत्र "अतद्धितलुकि" इत्यनुवृत्तेरिति। किं चात्र द्व्यञ्जलमिति साधनद्वित्वमुच्यते। द्वयोः कर्त्रोरञ्जल्योरपि द्वित्वात्। न तु देयजलाञ्जलि त्वम्। अतो न तत्त्रित्वैकोत्तरवृद्धिः विधायकशास्त्रविरोध इति सर्वं
-
-
 
 समीहितम्। ईदृग्जलं गोत्रमभिधाय गोत्राभिधायं नामग्राहम् 'गोत्रं नाम्नि कुलेऽचले' इति यादवः॥ “द्वितीयायां च" इति णमुल्प्रत्ययः॥ आतो युकचिण्कृतोः" इति युक्॥ प्रत्तं दत्तम्। प्रपूर्वाद्ददातेः कर्मणि क्तः॥ “अच उपसर्गात्तः” इति ददस्तकारादेशः॥
 
@@ -2045,8 +1747,6 @@ K. P. TRIVEDI
 विच्छिद्यमानेऽपि कुले परस्य  
 पुंसः कथं स्यादिह पुत्रकाम्या॥५२॥
 
-
-
  ५२. कृतीति॥ किं च वत्स वृद्धमतेषु ज्ञानवृद्धाचारेषु श्रुतमनेन श्रुती कृतमनेन कृती। तेषां श्रोता अनुष्ठाता चेत्यर्थः॥ "इष्टादिभ्यश्च" इति निप्रत्ययः॥ "क्तस्येन्विषयस्य कर्मणि सप्तमी वक्तव्या"। धीमान् त्वं पितुरिदं पैतृकम्। "पितुर्यच्च" इति चकाराट्ठञ्॥ वचनं न कुर्याश्चेत् न पालयेश्चेत्। इह लोके परस्यान्यस्यापि पुंसः कुले विच्छिद्यमानेऽप्युत्साद्यमानेऽपि पुत्रकाम्या आत्मनः पुत्रेच्छा। पुत्रशब्दात्काम्यजन्तादप्रत्यये टाप्। कथं स्यात् न कथंचिदपि स्यादित्यर्थः। अविधेयपुत्रादपि कुलोच्छेद एव वरमिति न कोऽपि पुत्रकामः स्यादिति भावः॥
 
 **अस्माकमुक्तं बहुमन्यसे चे-  
@@ -2060,8 +1760,6 @@ K. P. TRIVEDI
 कथं कनीयानहमुत्स[हेय।](http://४%20मुत्सहेयम्%C2%A0%20c.,%20D.,%20TË,%20T4. " ४ मुत्सहेयम् c., D., TË, T4.")  
 [मा](http://५%20मां%20मा%20E3.%20मा%20मा%20B.,%20T3,%20T4. "५ मां मा E3. मा मा B., T3, T4.")मां [प्रयुक्थाः](http://६%20प्रयुङ्क्थाः%20c.,%20C.,%20T1. "६ प्रयुङ्क्थाः c., C., T1.")कुल[कीर्तिलोपे](http://७%20कोपे%20T2%20T3,%20T4.%20नाशे%20E. "७ कोपे T2 T3, T4. नाशे E.")  
 प्राह स्म रामं भरतोऽपि धर्म्यम्॥५४॥
-
-
 
  ५४. अथ भरतो रामं प्रत्याह वृद्धेति॥ उरसा निर्मितः औरसः उदर्यः पुत्रः॥ "उरसोऽणं च ” इत्यण्प्रत्ययः॥ वृद्धो ज्येष्ठ औरसो यस्यास्तां' राज्यस्य धुरां राज्यधुराम्॥ "ऋक्पूर्—" इत्यादिना समासान्तोऽप्रत्ययः॥ परवल्लिङ्गतायां स्त्रियां टाप्। प्रवोदुम्॥ “शकधृष— " इत्यादिना तुमुन्॥ “सहिवहोरोदवर्णस्य" इत्यकारः॥ ढत्वादिकार्यम्। कनीयान् कनिष्ठोऽहं कथमुत्सहेय रोचयेय \। गर्हितमेतदित्यर्थः॥ "विभाषा कथमि लिङ् च" इति गर्हायां सहेर्लिङि तङि "इटोऽत्"॥ कुलकीत्ति लुम्पत्युच्छिनत्तीति तल्लोपम्॥ "कर्मण्यण्"॥ तस्मिन्कर्मणि मां मा प्रयुक्थाः मा नियुङ्क्ष्व। युजेर्लुङि तङि सिचि॥ "झलो झलि " इति सिज्लोपः॥ इति भरतोऽपि रामं धर्म्यं धर्मादनपेतं वाक्यम्॥ "धर्मपथ्यर्थन्याय—” इत्यादिना यत्प्रत्ययः॥ प्राह स्म॥ " लट् स्मे" इति भूते लट्॥
 
@@ -2077,8 +1775,6 @@ K. P. TRIVEDI
 [च्युतनिखिलविशङ्कः](http://३%20सकलविशङ्कं%20T2,%20T4. "३ सकलविशङ्कं T2, T4.") पूज्यमानो जनौघैः  
 सकलभुवनराज्यं कारयास्मन्मतेन॥५६॥**
 
-
-
  ५६. इतीति॥ राघवो रामः इति निगदितवन्तमुक्तवन्तं भरतं जगाद। किमिति। हे भरत त्वं मदीये पादुके गृहीत्वा व्रज गच्छ। च्युतनिखिलविशङ्को निरस्तसमस्तातङ्कः तथा जनौघैः पूज्यमानः सन् अस्मन्मतेनास्मादनुमत्यैव सकलभुवनराज्यं सर्वलोकाधिपत्यं कारय पादुकाभ्यां प्रयोज्याभ्यामित्यर्थः ॥
 
 इति भट्टिकाव्ये प्रकीर्णकाण्डे [रामप्रवासो](http://१%20वनगमने%20. "१ वनगमने .") नाम  
@@ -2086,8 +1782,6 @@ K. P. TRIVEDI
 
 इति श्रीपदवाक्यप्रमाणपारावारपारीणश्रीमहोपाध्यायकोलाचलमल्लिनाथसूरि-  
 विरचिते भट्टिकाव्यव्याख्याने सर्वपथीनाख्याने तृतीयः सर्गः॥
-
-
 
 **॥ श्रीः ॥**
 
@@ -2103,8 +1797,6 @@ K. P. TRIVEDI
 
  २. अटाट्यमान इति॥ सहसीतः सलक्ष्मणः॥ "तेन सह—" इति बहुव्रीहिः। "वोपसर्जनस्य" इति सहशब्दस्य सभावविकल्पादुभयत्रापि प्रयोगः॥ अरण्यानीं महारण्यम्। 'कालभावाध्वगन्तव्याः कर्मसंज्ञा ह्यकर्मणाम्। देशश्चाकर्मकाणां च कर्मसंज्ञा भवेदिह'॥ इति वचनादेशस्याप्यरण्यान्याः कर्मत्वम्। "इन्द्रवरुण—" इत्यादिना “हिमारण्ययोर्महत्त्वे" इति ङीपानुगागमश्च॥ अटाट्यमानो भृशमटन्। यङ्विधाने "सूचिसूत्रिमूज्यस्य ट्यर्त्यशूर्णोतीनामनेकाजहलाद्यर्थमुपसंख्यानम्" इत्यटतेर्यङन्तालटः शानजादेशः॥ " दीर्घोऽकितः" इत्यभ्यासदीर्घः॥ रामो बुभुक्षुणा भोक्तुमिच्छुना क्षुधितेनेत्यर्थः। भुजेः सन्नन्तादुप्रत्ययः। बिभ्यत्यस्मादिति भीमेन भयंकरेण रक्षसा विराधाख्येन बलादुत्क्षिप्य ऊर्ध्वं क्षिप्त्वा जहे हृतः। यद्यपि सीता हृता न रामः 'स जहार तयोर्मध्ये मैथिली लोकशोषणे' इति दर्शनात्। तथापि तद्धरणस्यात्महरणप्रायत्वात्तथाव्यपदेशः॥
 
-
-
 **अवाक्शिरसमुत्पादं कृतान्तेनापि [दुर्दमम्](http://१%20दुर्गमम्%20c.,%20E2,%20E3. "१ दुर्गमम् c., E2, E3.")।  
 भङ्क्त्वा [भुजौ](http://२%20भुजैर्विराधाख्यं%20विभुवि%20तंनिचख्नतुः%20E1. "२ भुजैर्विराधाख्यं विभुवि तंनिचख्नतुः E1.") [विराधाख्यं](http://३%20विराधस्य%20D. "३ विराधस्य D.") [तं](http://४%20ततो%20T2%20T3,%20T4. "४ ततो T2 T3, T4.") तौ भुवि निचख्नतुः॥३॥**
 
@@ -2118,8 +1810,6 @@ K. P. TRIVEDI
 **[पुरो](http://७%20पुरा%20T3. "७ पुरा T3.") रामस्य जुहवाञ्चकार ज्वलने वपुः।  
 शरभङ्गः [प्रदिश्यात्](http://८%20प्रदर्थ्यारात्%20D.,%20प्रदिश्याशु%20T2,%20T4. "८ प्रदर्थ्यारात् D., प्रदिश्याशु T2, T4.") [सुतीक्ष्णमुनिकेतनम्](http://९%20सुतीक्ष्णस्य%20निकेतनम्%20T3. "९ सुतीक्ष्णस्य निकेतनम् T3.")॥५॥**
 
-
-
  ५. पुर इति॥ अथ शरभङ्गः आरात्समीपे सुतीक्ष्णस्य मुनेर्निकेतनमाश्रमं प्रदिश्य रामस्य निवासत्वेनादिश्य। स्वाश्रमस्यानन्तरमेव स्वप्रयाणे शून्यभावित्वादिति भावः। रामस्य पुरः वपुः स्वशरीरं ज्वलने अग्नौ जुहवांचकार आजुहाव॥ "भीह्नीभृहुवां श्लुवच्च" इति विकल्पादाम्प्रत्ययः॥ श्लुवत्कार्यं द्विर्भावश्च॥
 
 यूयं [समैष्य](http://१%20समेष्यथे%20T3,%20E1. "१ समेष्यथे T3, E1.")थेयस्मिन्नासिष्महि वयं वने।  
@@ -2131,8 +1821,6 @@ K. P. TRIVEDI
 उवास पर्णशालायां भ्रमन्ननिशमाश्रमान्॥७॥**
 
  ७. तस्मिन्निति॥ तस्मिन् शरभङ्गे कृशानुसाद्भूते भस्मीभूते सतीत्यर्थः॥ "विभाषा साति कार्त्स्न्ये" इति सातिप्रत्ययः॥ अनिशमाश्रमान् भ्रमन् संरक्षणार्थमाश्रमेषु पर्यटन। 'देशश्चाकर्मकाणाम्' इति वचनादाश्रमाणां कर्मत्वम्। सुतीक्ष्णमुनिसंनिधौ पर्णशालायामुवास उषितवान्। वसेलिंटि “लिट्यभ्यासस्योभयेषाम्" इत्यभ्यासस्य संप्रसारणम्॥
-
-
 
 वनेषु वासतेयेषु [निवसन्](http://१%20शयानः%20पर्णसंस्तरे%20T2,%20T4.%20निवसन्%20पर्णसंस्तरे%20E1,%20T.,%20G.%20Com. "१ शयानः पर्णसंस्तरे T2, T4. निवसन् पर्णसंस्तरे E1, T., G. Com.") पर्णसंस्तरः।  
 शय्योत्थायं मृगान्विध्यन्नातिथेयो विचक्रमे॥८॥
@@ -2147,8 +1835,6 @@ K. P. TRIVEDI
 **वसानस्तन्त्रकनिभे [सर्वाङ्गीणे](http://३%20सर्वांङ्गीने%20N,%20C,%20T.,%20C,%20D.,%20B.,%20E3. "३ सर्वांङ्गीने N, C, T., C, D., B., E3.") तरुत्वचौ।  
 काण्डीरः [खाङ्गिक](http://४%20खड्डिकः%20T3,%20T,%20G,%20Com. "४ खड्डिकः T3, T, G, Com.")शार्ङ्गीरक्षन् विप्रांस्तनुत्रवान्॥१०॥**
 
-
-
  १० अथ युग्मेनाह वसान इति॥ तन्त्रात् तन्तुवायपरिच्छेदादचिरापहृतस्तन्त्रपटस्तन्त्रकं प्रत्यग्रपटः॥ "तन्त्रादचिरापहृते" इति कन्प्रत्ययः। 'तन्त्रः स्वराष्ट्रचिन्तायां तन्तुवायपरिच्छदे' इति यादवः। तन्निभे तत्तुल्ये। सर्वाङ्गं व्याप्नुतइति सर्वाङ्गीणे॥ "तत्सर्वादेः– ” इत्यादिना खप्रत्ययः। तरुत्वचौ वल्कले वसानः आच्छादयन्। वस आच्छादने शानच्। काण्डीरः बाणवान्। 'काण्डोऽस्त्री दण्डबाण-' इत्यमरः॥ "काण्डाण्डादीरन्नीरची" इति मत्वर्थीय ईरन्प्रत्ययः॥ खङ्गिकः खङ्गी। मत्वर्थीयः ष्ठन्। खाङ्गिक इति पाठे "प्रहरणम्" इति ठक्। शार्ङ्गी धन्वी। मत्वर्थीय इनिः। तनुं त्रायत इति तनुत्रम्॥ "आतोऽनुपसर्गे कः "॥ तद्वान् कवची विप्रान् रक्षन्॥
 
 **हित्वाशितङ्गवीनानि फलैर्येष्वाशितम्भवम्।  
@@ -2158,8 +1844,6 @@ K. P. TRIVEDI
 
 व्रातीनव्याल[दीप्रास्त्रः](http://१%20दीप्ता%20E1,%20E.. "१ दीप्ता E1, E..") [सुत्वनः](http://२%20सुन्वतः%20E2.) परिपूजयन्।  
 [पर्षद्वलान्](http://३%20परिषद्लान्%20E,%20E2,%20noticed%20also. "३ परिषद्लान् E, E2, noticed also.") महा[व्रह्मैराट](http://४%20ब्राह्म°%20T2,%20T4. "४ ब्राह्म° T2, T4.") नैकटिकाश्रमान्॥१२॥
-
-
 
  १२. व्रातीनेति॥ नानाजातीयाः अनियतवृत्तयः उत्सेधजीविनो व्राताः तत्कर्मव्रातं तेन जीवन्तीति वातीनाः॥ "व्रातेन जीवति" इति खञ्प्रत्ययः॥ तेषां स्वशरीरायासजीविनां वनवर्तिनां ये व्यालाः हिंस्राः तेषु दीप्रास्त्रः तीक्ष्णास्त्रः सन्। सुन्वन्ति सोममिति सुत्वानः सोमसुतः सोमयाजिनः॥ "सुयजोर्ड्वनिप्"॥ तुगागमः। तान् सुत्वनः॥ "न संयोगाद्वमन्तात्” इत्यल्लोपनिषेधः॥ तान् सुत्वनः परिपूजयन् सत्कुर्वन्। महान्तो ब्रह्माणो महाब्रह्माः महाब्राह्मणाः ब्राह्मणोत्तमाः॥ "कुमहद्भ्यामन्यतरस्याम्” इति समासान्तष्टच्॥ तैर्महाब्रह्मैः। परितः सीदन्तीति परिषत् सभा। क्विप्। 'पर्षत्रैविध्यमेव' इत्यादिप्रयोगः इकारपरिहारेण पर्षदित्यप्युच्यत इति गमयितव्यः। तथा च पर्षद्वलान् पर्षद्वतः उत्तमब्राह्मणसभावत इत्यर्थः॥ "रजः कृप्यासुतिपरिषदो वलच्" इति मत्वर्थीयो वलच्प्रत्ययः। निकटे ब्रतिनो नैकटिकाः तेषां तान् वा आश्रमान् आट तेषु विचचारेत्यर्थः। 'देशश्चाकर्मकाणाम्' इति वचनात् आश्रमाणां कर्मत्वम्। अटेर्लिट्॥
 
@@ -2171,8 +1855,6 @@ K. P. TRIVEDI
  १३. परेद्यवीति॥ परस्मिन्नहनि परेद्यवि। अस्मिन्नहन्यद्य \।
 पूर्वस्मिन्नहनि पूर्वेद्युः। अन्यस्मिन्नहनि अन्येद्युश्चापि सर्वदा इत्यर्थः॥ "सद्यः परुत्—" इत्यादिना निपातनात्सर्वत्र साधुत्वम्॥ "तद्धितश्चासर्ववि- भक्तिः" इत्यव्ययत्वम्। मुनीन्द्राणां वृद्धिक्षयों हानिवृद्धी चिन्तयन् यन् प्रियम्भावुकतां तेषामेव प्रियीभूतत्वम्॥ "आढ्यसुभग—” इत्याद्यनुवृत्तौ" कर्त्तरि भुवः खिष्णुचूखुकञौ" इत्यभूततद्भावे कर्त्तरि खुकञ् प्रत्ययः। मुमागमः। अगात् प्राप्तः। सर्वदा तद्योगक्षेमानुसन्धानात् तेषासहरहरतिप्रियोऽभूदित्यर्थः॥
 
-
-
 **आतिष्ठद्गु जपन्सन्ध्यां प्रक्रान्तामायतीगवम्।  
 प्रातस्तरां पतत्रिभ्यः प्रबुद्धः [प्रणमन्](http://१%20प्राणमद्रविम्%20D. "१ प्राणमद्रविम् D.") रविम्॥१४॥**
 
@@ -2182,8 +1864,6 @@ K. P. TRIVEDI
 भार्योढं तमवज्ञाय तस्थे सौमित्रये[ऽसकौ](http://३%20सका%20T,%20G.%20Com. "३ सका T, G. Com.")॥१५॥
 
  १५. दहशै इति॥ अथ सूर्योपस्थानानन्तरं स रामः पर्णशालायामभीः कया कामुक्या॥ “अनुकाभिकाभीकः कमिता" इति निपातः॥ राक्षस्या रावणावरजया कामरूपिण्या शूर्पणखया ददृशे दृष्टः कर्मणि लिट्। असका कुत्सिता असौ राक्षसी॥ "अव्ययसर्वनम्नामकच् प्राक्
-
-
 
 टेः"॥ भार्योढमूढभार्यम्॥ "वाहिताग्न्यादिषु" इति निष्ठायाः परनिपातः॥ तं राममवज्ञाय सापत्न्यादवधीर्य सौमित्रये लक्ष्मणाय॥ "श्लाघह्नुस्थाशपां शीप्स्यमानः” इति संप्रदानत्वाच्चतुर्थी॥ तस्थे स्वाभिप्रायं प्रकाशयन्ती स्थिता। तिष्ठतेः कर्मकर्त्तरि लिट्॥ "प्रकाशनस्थेयाख्ययोश्च" इति प्रकाशने तङ्।
 
@@ -2198,8 +1878,6 @@ K. P. TRIVEDI
 
  १७. सुपादिति॥ शोभनौ पादौ यस्याः सा सुपात्॥ "संख्यासुपूर्वस्य" इति समासान्तलोपः॥ "पादोऽन्यतरस्याम्" इति विकल्पादनीकारः। द्विरदनासा करिकर इव उरू यस्याः सा द्विरदनासोरूः
 
-
-
 तद्वद्वृत्तानुपूर्वोरुरित्यर्थः॥ "ऊरुत्तरपदादौपम्ये" इत्युङ् प्रत्ययः। मदुनी पाणितले अङ्गुलयश्च यस्याः सा तथोक्ता। नपुंसकैकशेषपूर्वपदो बहुव्रीहिः। तलशब्दस्याप्राण्यङ्गवाचित्वात् न द्वन्द्वैकवद्भावः। अङ्गुलिशब्दस्याल्पाच्तरत्वेऽपि पूर्वनिपातव्यभिचारः। "समुद्राभ्राद्धः” इति सौत्रव्यभिचारलिङ्गात्। प्रथिमानं दधानेन पृथुलेन घनेन निविडेन जघनेन उपलक्षिता सा राक्षसी तस्थे इति पूर्वेण सम्बन्धः॥
 
 **उन्नसं दधती वक्त्रं [शुद्धदल्लोलकुण्डलम्।](http://१%20शुक्ल%20T2. "१ शुक्ल T2.")  
@@ -2211,8 +1889,6 @@ K. P. TRIVEDI
 अनुका प्रार्थयाञ्चक्रे [प्रियाकर्त्तुं](http://३%20प्रियां%C2%A0कर्त्तुं%20E3. "३ प्रियांकर्त्तुं E3.") प्रियंवदा॥१९॥**
 
  १९. प्राप्येति॥ अनुका कामुकी॥ "अनुकाभिक—" इत्यादिना निपातः॥ अत एव पतीयन्ती पतिमात्मन इच्छन्ती॥ "सुप आत्मनःसक्यच्"। "अकृत्सार्वधातुकयोर्दीर्घः"॥ शतरि ङीप्। चञ्चूर्यमाणा इतस्ततो गर्हितं चरन्ती। "लुपसद—" इत्यादिना भावगर्हायां चरेलर्यङि" चरफलोश्च" इत्यभ्यासस्य नुक्॥ "उत्परस्यातः" इत्युत्वम्॥ र्वोरुपधाया दीर्घ इकः"॥ "हलि च" इति दीर्घः। रघूत्तमं लक्ष्मणं प्राप्य प्रियं वदतीति प्रियंवदा सती॥ प्रियवशे वदः खचि मुमागमः।
-
-
 
 प्रियाकर्त्तुमनुलोमयितुमित्यर्थः॥ "सुखप्रियादानुलोम्ये" इति डाच्॥ प्रार्थयाञ्चक्रे प्रार्थितवती॥ "कास्प्रत्ययाद्—" इत्याम्प्रत्ययः॥
 
@@ -2226,8 +1902,6 @@ K. P. TRIVEDI
 
  २१. तामिति॥ लक्ष्मणस्तां राक्षसीमुवाच किमित्यपेक्षिते सप्तभिराह। अयि मुग्धे। न सूर्यं पश्यतीत्यसूर्यं पश्या सूर्यकिरणासंस्पृष्टेत्यर्थः॥ "असूर्यललाटयोर्दृशितपोः" इत्यसूर्यशब्दोपपदात् दृशेः खश्प्रत्यये मुमागमः॥ "पाघ्रा—” इत्यादिना दृशेः पश्यादेशः॥ असूर्येपश्येत्यस-
 
-
-
 मर्थसमासोऽयं दृशिना नञः संबन्धात्। अन्यथा अविवक्षितार्थप्रसंगात्। तथापि गमकत्वादिभ्यते। एतद्रपा कोमलाङ्गी त्वं भूतपूर्वंगोष्ठे गौष्ठीने इदानीं व्यालाक्रान्ते। 'गौष्ठीनं भूतपूर्वकम्' इत्यमरः॥ “गोष्ठात्खञ् भूतपूर्वे" इति खञ्प्रत्ययः॥ स्त्री च पुमांश्च स्त्रीपुंसौ मिथुनम्॥ “अचतुर—" इत्यादिना निपातः॥ तयोर्भीषणम्। स्तनादिवज्जातौ द्विवचनम्। तद्वहुत्वस्येहाविवक्षितत्वात्। द्वन्द्वान्तेन समासैकशेषेण स्त्रीपुंसानां भीषणमिति किमु वक्तव्यमिति भावः। नन्द्यादिल्युप्रत्ययान्तः। कर्त्तरि ल्युडिति व्याख्याने 'भीषणां तामयोजयत्' इति टाबन्तप्रयोगविरोधः। तस्मिन्वने किं किमर्थमभीरुरभीता सती॥ "भियः क्रुक्कुकनौ” इति क्रुप्रत्ययः॥ अरार्यसे अटाट्यसे। ऋ गतौ॥ "सूचिसूत्रि—” इत्यादिना यङ्॥ "यङि च " इत्यत्तेर्गुणः॥ "न नन्द्रा—" इति प्रतिषेधापवादेन सरेफस्यैव द्वितीयैकाचो, द्विर्भावे हलादिशेषे “दीर्घोऽकितः" इत्यभ्यासदीर्घः॥
 
 **[मानुषानभिलष्यन्ती](http://१%20मनुष्या%20T4. "१ मनुष्या T4.") रोचिष्णुर्दिव्यधर्मिणी।  
@@ -2239,8 +1913,6 @@ K. P. TRIVEDI
 कामुकप्रार्थनापट्वी पतिवत्नी कथं न वा॥२३॥**
 
  २३. उग्रम्पश्येति॥ उग्रं पश्यन्तीत्युग्रं पश्याः हिंस्राः॥ "उग्रम्पश्येरम्मदपाणिन्धमाश्च" इति निपातः॥ तैराकुले सङ्कीर्णेऽरण्ये शालीन-
-
-
 
 त्वविवर्जिता अधार्ष्ट्यरहिता धृष्टा सतीत्यर्थः॥ "शालीनकौपीने अधृष्टाकार्ययोः" इति अधार्ष्ट्येशालाशब्दात्खञन्तो निपातः॥ कामुकः कामी॥ "लषपत—" इत्यादिना उकञ्प्रत्ययः॥ तस्य प्रार्थनासु अनुनयेषु पट्वीचतुरा त्वम्। पतिरस्या अस्तीति पतिवत्नी जीवत्पतिकेत्यर्थः॥ “अन्तर्वत्पतिवतोर्नुक्” इति गर्भभर्त्तृसंयोगे निपातनादर्थविशेषलाभः। मतोर्वत्वं निपात्यते। अत्र सूत्रे उगित्वादेव ङीप् सिद्धिः। ' अन्तर्वत्पतिवतोर्नुक् मतुब्वत्वे निपातनात्। गर्भिण्यां 'जीवत्पत्न्यांच वा च च्छन्दसि नुग्विधिः’॥ इति वचनात्। कथं न वा कथं न किमित्यर्थः। पतिवत्न्याः कथमयं कामचार इति भावः॥
 
@@ -2254,8 +1926,6 @@ K. P. TRIVEDI
 
  २५. वपुरिति॥ यस्य वपुश्चन्दनेन संपाद्यवश्यं संपन्नमुत्कृष्टं भवतीति चान्दनिकम्। मुखं कर्णवेष्टनाभ्यां कुण्डलाभ्यां संपादि कार्णवेष्टनिकम्॥
 
-
-
 उभयत्रापि "संपादिनि" इति ठञ्॥ यस्य पाणी संग्रामे सर्वाणि कर्माणि धनुराकर्षणादीनि व्याप्नुतःइति सर्वकर्मीणौसर्वकर्मक्षमावित्यर्थः॥ "तत्सर्वादेः—" इत्यादिना खप्रत्ययः॥ उपजानु जानुसमीपे भवौ औपजानुकौ आजानुलम्बिनावित्यर्थः। एतेन शौर्यभाग्यसंपत्तिरुक्ता॥ "उपजानू—" इत्यादिनैव ठक्॥ “इसुसुक्तान्तात्कः "॥
 
 बद्धो दुर्बलरक्षार्थम[सिर्ये](http://र्यस्यौप%20T2%20T3,%20T4. "र्यस्यौप T2 T3, T4.")नौपनीविकः।  
@@ -2267,8 +1937,6 @@ K. P. TRIVEDI
 प्राप्य [दारवाणां](http://२%20दारगवादीनां%20C.%20दारगवानां%20यो%20T4,%20३%20तं%20T3.%20दारगवानां%20यं%20N,%20C,%20T1,%20T2%20T3, "२ दारगवादीनां C. दारगवानां यो T4, ३ तं T3. दारगवानां यं N, C, T1, T2 T3,") [यं](http://३%20तं "३ तं")मुनीनामभयं सदा॥२७॥
 
  २७. जेतेति॥ संख्ये युद्धे। यज्ञेभ्यो द्रुह्यन्तीति यज्ञद्रुहो राक्षसाः॥ "सत्सूद्विष—" इत्यादिना क्विप्प्रत्ययः॥ तेषाम्। कर्मणि षष्ठी। जेता। तृच्। अत एवात्र धर्मसन्तानं धर्मपरंपरां सूते इति तत्सूः निरन्तरधर्मकारीत्यर्थः। पूर्ववत्क्विप्। किं च यं रामं प्राप्य शरणमासाद्य मुनीनां वानप्रस्थानां तेषां धाराग्निपरिग्रहसंभवात्। शेषषष्ठीयम्। दारांश्च गावो होमधेनवश्च दारगवम्॥ "अचतुर—” इत्यादिना निपातः। दारगवाणामिति कर्मणि षष्ठी॥ "कुमति च" इति णत्वम्॥ मुनिबहुत्वे
-
-
 
 तद्बहुत्वात्॥ "सरूप—" इत्येकशेषः॥ सदा अभयं भयवर्जनमत्रसनमिति प्राप्त्यभययोः समानकर्तृकता॥
 
@@ -2285,8 +1953,6 @@ K. P. TRIVEDI
 लक्ष्मणं सा वृषस्यन्ती महोक्षं [गौरिवागमत्।](http://३%20तद्वदागमत्%20D. "३ तद्वदागमत् D.")  
 [मन्मथायु](http://४%20कुसुमायुध%20B. "४ कुसुमायुध B.")धसम्पातव्यथ्य[मान](http://५%20व्यथमान%20T,%20G.%20Com. "५ व्यथमान T, G. Com.")[मतिः](http://६%20मतिस्ततः%20T3,%20T4.9%20Com. "६ मतिस्ततः T3, T4.9 Com.")पुनः॥३०॥
 
-
-
  ३०. लक्ष्मणमिति॥ ततो रामवाक्यानन्तरं। वृषमात्मन इच्छतीति वृषस्यन्ती॥ "सुप आत्मनः क्यच्"॥ ततो लटः शतरि ङीप्॥ "अश्वक्षीरवृषलवणानामात्मप्रीतौक्यचि" इत्यसुगागमः॥ “अश्ववृषयोमैथुनेच्छायाम्”। अत एव मन्मथायुधसंपातेन मदनशरपातेन व्यथमानमतिः दूयमानमानसा राक्षसी। महानुक्षा महोक्षः महावृषभः। अचतुरादिना निपातः। तं गौरिव लक्ष्मणमगमत् आससाद॥
 
 **तस्याः सासद्यमानाया लोलूयावान्रघूत्तमः।  
@@ -2299,8 +1965,6 @@ K. P. TRIVEDI
 
  ३२. अहमिति॥ अहं नाम्ना शूर्पणखा॥ "नखमुखात्संज्ञायाम्" इति ङीप्प्रतिषेधः॥ "पूर्वपदात्संज्ञायामगः” इति णत्वम्॥ किं तु त्वया नाशायिषि शूर्पणखेति न ज्ञातास्मि। जानातेः कर्मणि लुङि तङि सिचि चिण्वदिटि युक्। स्वाज्ञाने लिङ्गमाह। येन अज्ञानेन अज्ञेन त्वया वा अयं नासाछेदरूपः क्षेत्रियः परक्षेत्रे चिकित्स्यः प्रतिसमाधेय इत्यर्थः॥ “क्षेत्रियच् परक्षेत्रे चिकित्स्यः" इति परशब्दलोपोघप्रत्ययश्च निपात्यते। क्षेत्रियो नाम परत्र जन्मान्तरशरीरे चिकित्स्यो
 
-
-
 मरणान्तिकव्याधिः। अयं दण्डोऽपि छिन्नस्याङ्गस्य पुनः प्ररोहासंभवात् तत्प्राय इति तथा व्यपदिष्टः। दण्डो दमो मयि अपाति पातितः। मत्स्वरूपज्ञाने तु नेदं घटत इति तात्पर्यम्। पततेर्ण्यन्तात्कर्मणि लुङि च्लेश्चिणादेशो णिलोपश्च। इति सा तमब्रवीत्। तदेतदुल्मुकेन शिरः कण्डूयनं तव भविष्यतीति भावः॥
 
 **पर्य्यशाप्सीद दिविष्ठासौ [संदर्श्य](http://१%20प्रदर्श्य%20T2%20T3,%20T.,%20G.,%20Com. "१ प्रदर्श्य T2 T3, T., G., Com.")भयदं वपुः।  
@@ -2312,8 +1976,6 @@ K. P. TRIVEDI
 विजिग्राहयिषू रामं [दण्डकारण्यवासिनोः](http://३%20वासिनम्%20T2,%20T4,%20T...,%20Com. "३ वासिनम् T2, T4, T..., Com.")॥३४॥**
 
  ३४. खरेति॥ सा राक्षसी भ्रात्रोः खरदूषणयोः पुरः अग्रे। तयोस्तदा नेदिष्ठत्वादिति भावः। दण्डकारण्यवासिनं समानदेशस्थमित्यर्थः। रामं विजिग्राहयिषुः विरोधयितुमिच्छुः सती। ग्राहयतेः सन्नन्तादुप्रत्ययः॥ “रो रि" इति रेफलोपः॥ "ढ्रलोपे पूर्वस्य
-
-
 
 दीर्घोऽणः"॥ पर्यदेविष्ट विललाप। 'विलापः परिदेवनम्' इत्यमरः। देवृ देवने इति धातोर्दैवादिकाल्लुङि तङि सिचीट्॥
 
@@ -2332,8 +1994,6 @@ K. P. TRIVEDI
 
  ३७. असंस्कृत्रिमेति॥ संस्कारेण कुविन्दव्यापारेण निर्वृत्तं संस्कृत्रिममतत्संव्यानौ वल्कले वसानावित्यर्थः। पाकेन निर्वृत्तं पक्रिम-
 
-
-
 मतत्फलाशिनौ अकृष्टपच्यफलाशिनावित्यर्थः। भरणेन निर्वृत्तों भृत्रिमः अतत्परिवारौ अभृतपरिजनौ मृगमात्रपरिवारावित्यर्थः। अत एव "उपसर्गस्य घञ्यमनुष्ये बहुलम्" इत्युपसर्गस्य दीर्घः। सर्वत्र 'ड्वितः क्रिः "। "क्रेर्मम् नित्यम् ”॥ तथाप्यतिनीचावपि मां पर्यभूताम्। कथमेतत्सह्यमिति भावः॥
 
 श्वः श्रेयसमवाप्तासि भ्रातृभ्यां प्रत्यभाणि सा।  
@@ -2346,8 +2006,6 @@ K. P. TRIVEDI
 
  ३९. यदुक्तं क्षमध्वमिति तत्रोत्तरमाहतुः जक्षिम इति॥ वयं सर्वे राक्षसा इत्यर्थः। त्यदादिपरैकशेषः। अनपराधे अपराधाभावेऽपि। 'क्वचित्प्रतिषेधेऽपि समास इष्यते'। नरान्मानुषान्। नक्तं च दिवा च नक्तन्दि-
 
-
-
 बम्। अचतुरादिना सप्तम्यर्थवृत्त्योरव्यययोर्द्वन्द्वसमासान्तनिपातः। जक्षिमो भक्षयामः। जक्ष भक्ष हसनयोरिति धातोर्लट्। मस्। शपो लुक्। रुदादित्वात्सार्वधातुके इट्। हे भीरु भयशीले। संज्ञापूर्वोविधिरनित्य इति न गुणः। द्रुह्यदभ्योऽपराधभाग्भ्यो नरेभ्यः क्षमामहे मृष्यामहे इति यत् तत् कुतस्त्यं कुत आगतम्॥ “अव्ययात्त्यप् "॥ न क्षमामहे इत्यर्थः। क्रियाग्रहणाच्चतुर्थी।
 
 **तौ चतुर्दशसाहस्रबलौ निर्ययतुस्ततः।  
@@ -2359,8 +2017,6 @@ K. P. TRIVEDI
 बहुमूर्ध्नो द्विमूर्धीश्च [त्रिमूर्धीश्चाहतां](http://४%20श्व%C2%A0मृधे%20हतान्%20T2,%20T4 "४ श्वमृधे हतान् T2, T4") मृधे॥४१॥**
 
  ४१. अथेति॥ अथ रामलक्ष्मणौ संपततः संमुखमागच्छतः भीमान् भयङ्करान् बहुमूर्ध्नोबहुशिरस्कान् द्विमूर्धान् द्विशिरस्कान् त्रिमूर्धान्
-
-
 
 त्रिशिरस्कांश्च॥ "द्वित्रिभ्यां ष मूर्ध्नः” इति समासान्तः षप्रत्ययः॥ मृधे रणे विशिखैर्वाणैः अहतां हतवन्तौ। हन्तेर्लुङि तसस्तामादेशः॥ "अनुदात्तोपदेश—" इत्यनुनासिकलोपः॥
 
@@ -2375,10 +2031,6 @@ K. P. TRIVEDI
 सरक्तं वमथुं केचिद् भ्राजथुं[न](http://४%20नैव%20केचन%20D.,%20न%20तु%20केचन%20T3,%20T4. "४ नैव केचन D., न तु केचन T3, T4.")च केचन॥४३॥
 
  ४३. केचिदिति॥ केचिद् वेपथुं कम्पमासेदुः प्रापुः। अन्ये उत्तमं महान्तं दवथुं परितापमासेदुः। केचित् सरक्तं वमथुं वमनमासेदुः रक्तमवमन्नित्यर्थः। भ्राजथुंदीप्तिं तु केचनापि नासेदुः। सर्वत्र “ट्वितोऽथुच्" इत्यथुच्॥
-
-
-
-
 
 **मृगयुमिवमृगोऽथ दक्षिणेर्मा  
 दिशमिव [दाहवर्ती](http://१%20दाव%20T3,%20E1,%20T,%20G.,%20Com. "१ दाव T3, E1, T, G., Com.") मरावदन्यन्।  
@@ -2395,8 +2047,6 @@ K. P. TRIVEDI
 
  ४५. शितेति॥ शितैर्विशिखैः निकृत्तकृत्स्नवक्रः छिन्नसर्वमूर्धा अत एव क्षितिकम्पेन औत्पातिकभूकम्पेन कीर्णशृङ्गो विकीर्णशिखरः क्षिति-
 
-
-
 भृत् पर्वत इव स्थितः किं च अखिलकुलस्य कृत्स्नरक्षः कुलस्य क्षये विनाशे पूर्वलिङ्गं प्रथमावेकनिमित्तं तत्तुल्यः तथा प्रतीयमान इत्यर्थः। स राक्षसः राक्षसानामवशिष्टानां च भयमुपनिदधे जनयामासेत्यर्थः। औत्पातिकपर्वतोपमानेन कुलक्षयसूचनात्सर्वराक्षसानां महाभयमुत्पन्नमिति भावः॥
 
 **इति भट्टिकाव्ये [प्रकीर्णकाण्डे](http://१%20T.%20&%20G.%20add%20त्रिशिरवधो%20नाम%20%7C "१ T. & G. add त्रिशिरवधो नाम ।")चतुर्थः सर्गः।**
@@ -2405,8 +2055,6 @@ K. P. TRIVEDI
 विरचिते भट्टिकाव्यव्याख्याने सर्वपथीनाख्याने चतुर्थः सर्गः॥**
 
 **———————————**
-
-
 
 **॥श्रीः॥**
 
@@ -2421,8 +2069,6 @@ K. P. TRIVEDI
 [अकार्ष्ट](http://४%20आकार्ष्टा%C2%A0 "४ आकार्ष्टा")ामायुध[च्छायं](http://५%20च्छायरजः%C2%A0 "५ च्छायरजः") [रजः](http://६%20रक्षःसन्त "६ रक्षःसन्त") सन्तमसे रणे॥२॥**
 
  २. ताविति॥ खङ्गादयः करे ययोस्तौ तत्करौ। "प्रहरणार्थेभ्यः परे निष्ठासप्तम्यौ भवतः” इति परनिपातः। अत्र खड्गादीनां जातिवचनत्वेऽपि जातिप्राधान्यन्यक्कारेण नियतद्रव्यविवक्षया निर्देशाद्वदरामलकानि तिष्ठन्तीत्यादिवत्" जातिरप्राणिनाम्” इत्येकवद्भावो न कृतः। कृते वा नपुंसकलिङ्गप्रसङ्गात्स्त्रीलिङ्गनिर्देशो न स्यादिति। तौ खरदूषणौ रक्षांस्येव सन्तमसं विषूचीनं तमो यत्र तस्मिन्। रजःसन्तमसमिति पाठान्तरम्। 'विष्वक् सन्तमसम्' इत्यमरः॥" अवसमन्धेभ्यस्त-
-
-
 
 मसः" इति समासान्तोऽच्॥ रणे आयुधानां छाया आयुधच्छायम्॥ "छाया बाहुल्ये" इति पूर्वपदार्थबाहुल्ये नपुंसकत्वम्॥ अकार्ष्टामायुधैश्छादितवन्तावित्यर्थः। करोतेः कर्त्तरि लुङि तसस्तामादेशः। सिचि वृद्धिः॥
 
@@ -2441,16 +2087,12 @@ K. P. TRIVEDI
 
  ५. संप्राप्येति॥ क्रोधविह्वला क्रोधान्धा सा शूर्पणखा। राक्षसानां सभा राक्षससभम्॥ “सभाराजामनुष्यपूर्वा" इत्यमनुष्यपूर्वकत्वा
 
-
-
 नपुंसकत्वम्॥ संप्राप्य रावणान्तिके॥ " सप्तम्यधिकरणे च " इति 'चकाराद्दूरान्तिकार्थेभ्यश्च सप्तमी' इति काशिका \। भ्रातरी खरदूषणी नाम गृहीत्वा नामग्राहम्॥ “ नाम्न्यादिशिग्रहोः" इति णमुल्॥ चक्रन्द चुक्रोश।
 
 [दण्डकानध्यवात्तां](http://१%20दण्डकाम%C2%A0 "१ दण्डकाम") यौ वीर रक्षःप्रकाण्डकौ।  
 नृभ्यां संख्येऽकृषातां तौ सभृत्यो भूमिवर्धनौ॥६॥
 
  ६. दण्डकामिति॥ हे वीर यौ प्रकाण्डावेव प्रकाण्डकौ। स्वार्थे कन्प्रस्ययः। 'स्वार्थिकाश्च प्रकृतितो लिङ्गवचनान्यतिवर्त्तन्ते' इति नपुंसकप्रकृतित्वेऽपि पुल्लिङ्गता। रक्षसी प्रकाण्डको रक्षः प्रकाण्डकौप्रशस्तराक्षसौ। रूढशब्दानामादिष्टलिङ्गत्वेन स्वस्वलिङ्गानामेव सामानाधिकरण्यम्। 'मतल्लिकामचर्चिकाप्रकाण्डमुद्धतल्लजौ। प्रशस्तवाचकान्यमूनि' इत्यमरः। अथवा 'अस्त्री प्रकाण्डः स्कन्धः स्यात्' इति प्रकाण्डशब्दः स्कन्धवचनः। रक्षसी प्रकाण्डाविवेत्युपमितसमासः। तद्वद्धुरंधरावित्यर्थः। दण्डो नाम कश्चिद्राजा तत्पालितो देशोऽपि दण्ड इत्युपचर्यते। स च शुक्रशापादिदानीमरण्यभूतत्वेन कुत्सितत्वेन " कुत्सिते" इति कप्रत्यये दण्डकेति दण्डका इति चोच्यते लोकतो लिङ्गवचननियमादिति। तदुक्तं रामायणे। ' तस्यायं दण्डविषयो विन्ध्यशैवलयोर्नृपः। शप्तो ब्रह्मर्षिणा तेन पुरा वैधर्म्यके कृते॥ ततः प्रभृति काकुत्स्थ दण्डकारण्यमुच्यते। तपस्विनः स्थिता यत्र जनस्थानमतोऽभवत्॥ 'तां दण्डकांतान् दण्डकान्वा अध्यवात्ताम्। तत्रोषितावित्यर्थः॥ "उपान्वध्याङ्वसः" इति कर्मत्वम्॥ वसेरनिटो लुङि सिचि हलन्तलक्षणा वृद्धिः॥ "सः स्यार्धधातुके" इति धातुसकारस्य तकारः॥ “झलो झलि" इति सिचो लोपः॥ तौ खरदूषणौ सभृत्यौ। नृभ्यां मनुष्याभ्यां संख्ये युद्धे। वर्धयत इति वर्धन भूमेर्वर्धनी। नन्द्यादित्वाल्लयुः। स्वशरीरेण मृद्भूतेन पूरकौ मृतावित्यर्थः। अकृषातां कृतौ। करोतेः कर्मणि लुङि आतामि सिचि पक्षे चिण्वदिडभावाद्वद्ध्यभावः॥
-
-
 
 **विग्रहस्तव शक्रेण वृहस्पतिपुरोधसा।  
 सार्धं कुमारसेनान्या शून्यश्चासीति को नयः॥७॥**
@@ -2463,8 +2105,6 @@ K. P. TRIVEDI
 [^88]: "विनासा T3, T4, D., Com.।२ श्वरT3."
 
  ८.यदीति॥ हे नाथ स्वामिन्। विगता नासा नासिका यस्याः सा विनासेति नासान्तो बहुव्रीहिः। 'घोणा नासा च नासिका' इत्यमरः। नासिकान्तत्वे "उपसर्गाच्च" इति नसादेशं बाधित्वा "वेर्ग्रोवक्तव्यः इति ग्रादेशे विग्रेति स्यादिति। हतबान्धवा हतभ्रातृकाहं नायास्यं यदि नागच्छेयं चेत्। प्रमाद्यन्निति वर्तमाननिर्देशान्नित्यप्रमत्त इत्यर्थः। चरतीते चरः। पचाद्यच्। स एव चारो गूढचारः। प्रज्ञादित्वादण्। तेन दुर्बलः तच्छून्यः। साक्षाद्दृष्ट्या चारदृष्ट्या वा न किञ्चिद्दृष्टवानित्यर्थः। एवं गर्वान्धस्त्वं सर्वमिदमनर्थजातं नाज्ञास्यः न जानीयाः॥ “लिङ्गिमित्ते लङ्क्रियातिपत्तौ” इति यातेर्जानातेश्च क्रियातिपत्तौ लङ्। कुतश्चिद्वैगुण्यात्क्रियाया अनभिनिर्वृत्तिः क्रियातिपत्तिः। स्वस्यानागमे ज्ञातव्यज्ञानानभिनिर्वृत्तिरिह क्रियातिपत्तिः॥
-
-
 
 **करिष्यमाणं विज्ञेयं कार्य कि नु[^89] कृ[^90]तं परैः।  
 अपका[^91]रे कृतेऽप्यज्ञो विजिगीषुर्न वा भवान्॥९॥**
@@ -2495,16 +2135,12 @@ K. P. TRIVEDI
 
 [^96]: "दुश्चवनो E2."
 
-
-
  ११.अध्वरेष्विति॥ अधुना अस्मिन् काले॥ "अधुना" इत्यधुनाप्रस्ययान्तो निपातः। दुष्टं च्यवते परदारेषु रेतश्चोतते दुःखेन च्यवते रणादिति वा दुश्च्यवनः दिवस्पतिः॥ "चलनशब्दार्थादकर्मकाद्युच्॥ महाकाव्ये दुश्च्यवनशब्दप्रयोगनिषेधेऽप्यत्र तदृोषोद्धाटनार्थमनुवादान्न दोषः। अग्निं चितवन्तोऽग्निचितः॥ "अग्नौ चेः" इति क्विप्॥ तद्वत्सु अग्निचित्वत्सु तत्कर्तृकेष्वित्यर्थः॥ "तसौ मत्वर्थे" इति भत्वात्तकारस्य जश्त्वस्याभावः। एकसंज्ञाधिकारात् "झयः" इति मतोर्वत्वम्। अध्वरेषु यज्ञेषु महेन्द्रियं महेन्द्रदेवताकम्। “महेन्द्राद्धाणौ च" इति घप्रत्ययः॥ भागमत्तुं भक्षयितुं सोमं सुतवन्तः सोमसुतः॥ "सोमे सुञः" इति क्विप्॥ तद्वतः सोमसुत्वतः सोमयाजिमतः। भत्वादि पूर्ववत्। आश्रमानुष्याश्रमान् ऐति आगच्छति। आङ्पूर्वादिणो लिट्॥ "एत्येधत्यूट्सु” इति वृद्धिः॥ अशस्त्रवधस्तवायमाशाभङ्ग इति भावः॥
 
 **आमिक्षीयं दधिक्षीरं पुरोडाश्यं तथौषधम्।  
 हविर्हैयङ्गवीनं च नाप्युपघ्नन्ति राक्षसाः॥१२॥**
 
  १२.आमिक्षीयमिति॥ तप्ते पयसि दध्यानयति सामिक्षा तदर्थमामिक्षीयम्। दधि च क्षीरं च दधिक्षीरम्॥ "विभाषा वृक्षमृगतृण–"इत्यादिना वैभाषिको व्यञ्जनद्वन्द्वः॥ तथा पुरोडाश्यं पुरोडाशार्थमोषधिरेवौषधं व्रीहियवादि॥ "ओषधेरजातौ ”इति स्वार्थेऽण्प्रत्ययः॥ आमिक्षापुरोडाशयोईविष्ठात्॥ "विभाषा हविरपूपादिभ्यः" इति वैभाषिकौप्राक्क्रीतीयौ यथाक्रमं छयतौ॥ हैयङ्गवीनं ह्योगोदोहविकारं घृतं च। 'तत्तु हैयङ्गवीनं यद्ध्योगोदोहोद्भवं घृतम्' इत्यमरः॥ "हैयङ्गवीनं संज्ञायाम्” इति ह्योगोदोहशब्दस्य हियङ्ग्वादेशः खञन्तो निपातः। हविः पूर्वोक्तं त्रिविधं हविरपि राक्षसाः नोपघ्नन्ति न लुम्पन्ति। सर्वत्र रक्षसां विस्रम्भविहारप्रतिबन्ध इत्यर्थः॥
-
-
 
 **युवजानिर्धनुष्पाणिर्भूमिष्ठः खविचारिणः।  
 रामो यज्ञद्रुहो हन्ति काल[^97]कल्पशिलीमुखः॥१३॥**
@@ -2522,8 +2158,6 @@ K. P. TRIVEDI
 
  १४.मांसानीति॥ ओष्ठाभ्यामेवावलोप्तुमत्तुमर्हाणि ओष्ठावलोप्यानि अतिमृदूनीत्यर्थः॥ "ऋहलोर्ण्यत्"॥ "कृत्यैरधिकार्थवचने" इति करणे तृतीयासमासः। सवनाय हितस्तदर्थे वा पशुः सवनीयः। प्राक्क्रीतीयश्छप्रत्ययः। तदीयानि सावनीयानि। साधनीयानीति पाठे यज्ञसाधनीयार्थानि यज्ञार्थंसंपाद्यानि वा। मांसानि देवताः अश्नन्ति। रक्षांसि राक्षसास्तु रामाद्विभ्यति भीतानि सन्ति। बिभेतेः शतरि॥ "नाभ्यस्ताच्छतुः"॥ “वा नपुंसकस्य" इति नुम्प्रतिषेधविकल्पात्पाठद्वयेऽपि साधुत्वम्। दिशोऽश्नुवते व्याप्नुवन्ति पलायन्त
 
-
-
 इत्यर्थः। पूर्व राक्षसाः यज्ञेष्वाच्छिद्य मांसान्यश्नन्ति देवता दिशोऽश्रुवते। अधुना तद्विपरीतं वर्त्तत इत्यर्थः॥
 
 **कुरु बुद्धिं कुशाग्रीयामनुकामीनतां त्यज।  
@@ -2537,8 +2171,6 @@ K. P. TRIVEDI
 [^100]: "हस्तेकृत्याद्य T3.."
 
  १६.ननु मद्धस्तगतायाः लक्ष्म्याः कथं विपर्ययकथेत्याशङ्क्याह सहायेति॥ लोलामस्थिरां यां श्रियं सहायवन्तः कोशदण्डसम्पन्नाः प्रभुशक्तिमन्त इत्यर्थः। उद्युक्ता उत्साहशक्तियुक्ता इत्यर्थः। निपुणाः मन्त्रकुशला इत्यर्थः। तेऽपि वहवो बहुमन्त्रियुक्ता विदुषोऽप्येकस्यानिर्णायकत्वादित्यर्थः। एवं शक्तित्रयोपेता अपि आशासते लब्धामप्यलब्धवदनुपालयन्तीत्यर्थः। आङः शासु इच्छायामित्यात्मनेपदम्। शपो लुक्॥ "आत्मनेपदेष्वनतः" इति झस्यादादेशः। तां श्रियं हस्तेकृत्य उपयम्येत्युपचारः। स्वायत्तीकृत्यापीत्यर्थः॥ नित्यं हस्ते
-
-
 
 पाणावुपयमने” इति हस्तेशब्दस्य गतित्वात् समासे क्त्वो ल्यप्। माश्वसीःमा विश्वसीः। आङ्पूर्वात् श्वसेर्लुङि सिचि “ह्रयन्त–”इत्यादिना वृद्धिप्रतिषेधः॥ “इट ईटि” इति सिज्लोपः॥
 
@@ -2561,8 +2193,6 @@ K. P. TRIVEDI
 
 [^103]: "न वोक्तानि E1."
 
-
-
  १९.नेति॥ योयुवा तस्या आस्यं मुखं न पश्यति। छाद्यते अनेन इति छदः दन्तानां छदो दन्तच्छदोऽधरः॥ “पुंसि संज्ञायां घः प्रायेण” इति घप्रत्ययः॥ “छादेर्घेऽद्वयुपसर्गस्य” इति ह्रस्वत्वम्॥ तं न निंस्ते न चुम्बति वा। णिसि चुम्बने। लटि तङ्। अदादित्वाच्छ्पो लुक्। इदित्वान्नुम्। उक्तानि सूक्तानि न संशृणोति न समाकर्णयति च। सकर्मकत्वात् “समो गम्यृच्छि—” इति नात्मनेपदम्। तस्याकर्मकाधिकारात्। असौ पुमान् मिथ्या वृथैव विहितेन्द्रियः निर्मितकरणः।निष्फलैव तस्येन्द्रियसृष्टिरित्यर्थः॥
 
 **सारोऽसाविन्द्रियार्थानां यस्यासौ तस्य नन्दथुः।  
@@ -2576,10 +2206,6 @@ K. P. TRIVEDI
 [^104]: "हत्वा B., E2."
 
  २१.नेति॥ असौ स्त्री यस्य यूनो मतेर्मानसस्य। उदेजयते कम्पयतीत्युदेजया कम्पनी॥ “अनुपसर्गाल्लिम्पविन्द—” इत्यादिना शपत्ययः। एतेनैव विन्दोऽपि व्याख्यातः। न भवेत् तं न पश्यामि। तादृग्धीरो नास्त्येवेत्यर्थः। अतः त्वं तां सुन्दरीम्। त्रयो लोकास्त्रैलोक्यम्। चातुर्वर्ण्यादित्वात्स्वार्थे ष्यञ्प्रत्ययः। स्वार्थिकत्वात्प्रकृतितो लिङ्गवचनातिक्रमः। तेनापि तां क्रीत्वा। त्रैलोक्यस्यापि तव स्वत्वात् तस्य
-
-
-
-
 
 रत्नस्य तावन्मूल्यार्हत्वाच्चेति भावः। विन्दतीति विन्दः क्रयेण लब्धा सन्नित्यर्थः। सुकृती भव सुष्ठु कृतकृत्यो भव। लोकोत्तरस्त्रीरत्नलाभादिति भावः॥
 
@@ -2603,8 +2229,6 @@ K. P. TRIVEDI
 
  २३.प्रत्यूच इति॥ राक्षसेन्द्रो रावणः तां शूर्पणखां प्रत्यूचे प्रत्युवाच। ब्रुवः कर्त्तरि लिटि तङ्। किमित्यपेक्षायामाह। हे नक्तंचरि राक्षसि॥ “चरेष्टः”॥ टित्वान्ङीप्। सम्बुद्धौ नदीह्रस्वः। हे वाचाटे बहुभाषिणीति तदुपालम्भासहिष्णुतया सोल्लुण्ठनमामन्त्रितम्। समाश्वसिहि। श्वसेर्लोटि सिपि “रुदादिभ्यः सार्वधातुके” इतीट्। सेर्हिरादेशः। ‘अपि माषं मषं कुर्याच्छन्दोभङ्गं न कारयेत्’ इति शास्त्रादुच्छास्त्रपाठे दीर्घ इति केचित्। अमात्रावृत्तत्वादक्षरसंख्ययैवालं यथा ऋग्य-
 
-
-
 जुषमधीयाना इत्यादावित्यन्ये। किं बिभेषि मा भैषीरित्यर्थः। क्षोभं क्रोधं त्यज। अहं रावणो हि रावयति लोकानिति रावणः ख्यातः खल्वित्यर्थः॥
 
 **मामुपास्त[^110]दिदृक्षावान् याष्टीकव्याहतो हरिः।  
@@ -2620,8 +2244,6 @@ K. P. TRIVEDI
 अभिन्नं शतधात्मानं मन्यते बलिनं बली॥२५॥**
 
  २५.विरुग्णेति॥ किं च बली बलवान् दृढ़ः कुलिशो वज्रः। ‘अस्त्रियां वज्रकुलिशौ’ इति यादवः। मम वक्षसि विरुग्णानि भग्नानि उदग्राप्युच्चतराणि धाराणां कोटीनामग्राणि मुखानि यस्य सः। कुण्ठितमुखः
-
-
 
 सन्नित्यर्थः। किं तु शतधा अभिन्नमविदीर्णमात्मानं बलिनं बलिष्ठं मन्यते न तु मद्रक्षोविदारणेनेत्यर्थः॥
 
@@ -2642,8 +2264,6 @@ K. P. TRIVEDI
 [^115]: "पुरे ध्वस्तान्धकारेऽपेि E3."
 
  २७.आहोपुरुषिकामिति॥ किं च मम। ‘अहो पुरुष इति यस्यां क्रियायां सा आहोपुरुषिका’ इति काशिका।मत्वर्थीयष्ठञ्प्रत्ययः। मयूरव्यंसकादित्वात्समासः। तामाहोपुरुषिकां पश्य। स्वपुरुषकारं पश्येत्यर्थः। केचित्तु ‘आहोपुरुषिका दर्पाद्या स्यात्संभावनात्मनि’ इत्यत्र क्षीरस्वामिनो व्याख्यानानुसारेणाहोपुरुषस्य भावः आहोपुरुषिका आश्चर्यपुरुषत्वम्। मनोज्ञादित्वाञिति व्याचक्षते। किं तु मनोज्ञादिषु मृग्यमेतत्। यद्यस्माद्रत्नकान्तिभिरेव ध्वस्तान्धकारे निरस्ततमस्केऽपि पुरे सदा पूर्णेन्दोः सन्निधिः सन्निधानम्। तमोनिरासानुपयुक्तस्यापि चन्द्रस्य तत्रापि पूर्णस्य सदा पुरे निवसनं केवलाज्ञासिद्ध्यर्थमेवेत्यहो मे दृश्यतामाहोपुरुषिकेति भावः। अत्र रत्नकान्तिभिर्ध्वस्तान्धकार इति समृद्धिमद्वस्तुवर्णनादुदात्तालङ्कारः। ‘समृद्धिमद्वस्तुवर्णनमुदात्तम्’ इति लक्षणात्॥
-
-
 
 **हृतरत्नश्च्युतोद्योगो रक्षोभ्यः करदो दिवि।  
 पूतक्रतायीमभ्येति[^116]सत्रपः किं[^117] न गोत्रभित्॥२८॥**
@@ -2668,8 +2288,6 @@ K. P. TRIVEDI
 
  ३०.उत्पत्येति॥ अथ मनोवद्यातीति मनोयायी मनोवेगीत्यर्थः॥ “कर्त्तर्युपमाने” इति णिनिप्रत्ययः॥ शितास्त्रभृत् निशितास्त्रधारी दशग्रीवः खमुत्पत्य समुद्रस्य सविधः समीपमावासो निवासो यस्य तं समुद्रतीरवासिनं मारीचं प्रति तमुद्दिश्य चक्रमे जगाम॥ “अनुपसर्गाद्वा” इति क्रमेर्लिटि तङ्॥
 
-
-
 **संपत्य[^120]तत्सनीडेऽसौ तं वृत्तान्तमशिश्रवत्[^121]।  
 त्रस्नुनाथ श्रुतार्थेन तेनागादि दशाननः॥३१॥**
 
@@ -2685,8 +2303,6 @@ K. P. TRIVEDI
 [^122]: "यो रणे N, c, E2, E3, T1, B.2 ,T3, T."
 
  ३२.यद्गदितं तदाह अन्तरिति॥ हे राक्षसेश्वर त्वं तस्मात् प्रसिद्धाद्रघुव्याघ्रात् रघूत्तमाद्रामात्। गतमेतत्॥ “अन्तर्धौयेनादर्शनमिच्छति” इत्यपादानत्वात्पञ्चमी। अन्तर्धत्स्व अन्तर्हितो भव नात्मानं दर्शयेत्यर्थः। दधातेः कर्त्तरि लोटि तङि “थासः से”।“सवाभ्यां वामौ”।“श्नाभ्यस्तयोरातः” इत्याकारलोपः॥ “दधस्तथोश्च” इत्यभ्यासस्य भष्भावः। “श्रदन्तरोरुपसर्गवद्वृत्तिर्वक्तव्या” इत्युपसर्गवद्भावादन्तःशब्दस्य धातोः प्राक् प्रयोगः। तथाहि रणे हस्तेन रोधः पीडनं यस्य तद्धस्तरोधं दृढमुष्टिगृहीतमित्यर्थः॥ “सप्तम्यां चोपपीडरुधकर्षः” इति णमुल्। उपोपसर्गव्यभिचारश्चिन्त्यः व्याकरणान्तरे वा द्रष्टव्यः। धनुः दधत् दधानः॥ “नाभ्यस्ताच्छतुः” इति नुम्प्रतिषेधः॥ स रामो दुःखेनोपस्थीयत इति दुरुपस्थानो दुरासदः॥ “आतो युच्” इति खलर्थे युच्॥
-
-
 
 **भवन्तं कार्त्तवीर्यो[^123]यो हीनसंधिमचीकरत्।  
 जिगाय तस्य हन्तारं स रामः सार्वलौकिकः[^124]॥३३॥**
@@ -2713,8 +2329,6 @@ K. P. TRIVEDI
 
 [^128]: "वासौ T4"
 
-
-
  ३५.नेति॥ त्वं तेन रामेण नान्वभाविष्ठाः समरे साक्षान्नाज्ञायिष्ठाः न ज्ञात इत्यर्थः। भुवः कर्मणि लुङि थासि सिचि चिण्वदिटि वृद्धिः। त्वयाप्यसौ रामो नान्वभावि नानुभूतः। पूर्ववच्चिण्वदिटि चिणि वा चिणो लुक्। अतस्तच्छक्तिं त्वं न जानासीत्यर्थः। मया चासावनुभूतः तेन चाहमन्वभविषि। चिण्वदिडभावे इटि सिचि गुणः। अतस्तच्छक्तिमहं जानामीत्यर्थः॥
 
 **अध्यङ् शस्त्रभृतां रामो न्यञ्चस्तं प्राप्य मद्विधाः।  
@@ -2730,8 +2344,6 @@ K. P. TRIVEDI
 [^130]: "'गौप्सीन्म° T2,T4,T.,G,Com."
 
  ३७.संवित्त इति॥ किं च सह योधितवन्तौ सहयुध्वानौ॥ “सहे च” इति युधेः क्वनिप्। खरदूषणौ तस्य रामस्य शक्तिं संवित्तः। सकर्मकत्वात् ‘समो गम्यृच्छि—” इत्यादिना न तङ्। तस्याकर्मकाधिकारात्। सम्यग्जानीतः। वेत्तेर्लटि तसि शपो लुक्। ससुत्वानः सोमसुत्सहिताः यज्वानः आहिताग्नयश्च तच्छक्तिं संविदन्तीति वचनविपरिणामेनानुषङ्गः। स रामो यान् यज्वनो मखेष्वगौप्सीत् येषां मखा-
-
-
 
 नगौप्सीदित्यर्थः। वनेष्वस्मद्रक्षतीति तद्गोपनादेव ते गुप्ता भवन्तीति भावः। गुपू रक्षणे। ऊदित्वादिडभावपक्षे सिचि हलन्तलक्षणा वृद्धिः॥
 
@@ -2760,8 +2372,6 @@ K. P. TRIVEDI
 
 [^136]: "धिग्जनं E2."
 
-
-
  ४०.अघानीति॥ लज्जा च भयं व विभूषणं यस्याः सा न शौर्यशालिनी सा ताटका स्त्री तेन रामेणाघानि हता। हन्तेः कर्मणि लुङि चिणो लुक्॥ “हो हन्तेः—” इति कुत्वम्॥स्त्रीजने कृतं तद्धननं स्त्रीहत्या श्लाघ्यं भूषणं यदि तर्हि क्षुद्रमानसं लघुचित्तमीदृग्गर्हिततमं कर्म बहु मन्यमानं लोकं धिक्॥ निन्द्य इत्यर्थः। धिग्योगे द्वितीया॥
 
 **यद्नेहेनर्दिमसौ शरैर्भीरुमभाययत्[^137]।  
@@ -2779,8 +2389,6 @@ K. P. TRIVEDI
 किं चित्रं यदि रामेण भग्नं क्षत्रियकान्तिके॥४२॥**
 
  ४२.चिरेति॥ चिरकालमुषितं चिरकालोषितं पुराणमित्यर्थः। अत्यन्तसंयोगे द्वितीया॥ “अत्यन्तसंयोगे च” इति समासः॥ “वसतिक्षुधोरिट्”॥ अत एव जीर्णं निःसारम्। जृृवयोहानौ॥ “ऋत इद्धातोः “इतीकारे “हलि च” इति दीर्घः॥ “रषाभ्याम्—”इति नस्य णत्वम्॥ कीटनिष्कुषितं घुणक्षतम्॥ “निरः कुषः”॥ “इनिष्ठायाम्” इतीट्॥ धनुरैशं चापं रामेण। क्षत्रियकः क्षत्रियाभासः जनः
-
-
 
 क्षात्रहीन इति भावः। कुत्सायां कन्। तस्यान्तिके॥ “दूरान्तिकार्थैः षष्ठयन्यतरस्याम्” इति षष्ठ्यां “षष्ठी" इति षष्ठीसमासः॥ “सप्तम्यधिकरणे च” इति चकारेण दूरान्तिकार्थग्रहणादन्तिक इति सप्तमी॥ भग्नं यदि भग्नं चेत्। किं चित्रं न किञ्चिच्चित्रम्। जीर्णकाष्ठभङ्गस्य सुकरत्वादिति भावः। अत्राचित्रत्वस्य विशेषणगत्या चिरकालोषितादिपदार्थहेतुकत्वात्पदार्थहेतुकं काव्यलिङ्गमलङ्कारः। ‘हेतोर्वाक्यपदार्थत्वे काव्यलिङ्गमुदाहृतम्’ इति लक्षणात्॥
 
@@ -2804,8 +2412,6 @@ K. P. TRIVEDI
 
  ४४.एवं मारीचोक्तान् रामपराक्रमानन्यथाकृत्य संप्रति श्लोकद्वयेन तन्निग्रहान्यथाकारपूर्वकमनन्तरकार्ये तं नियच्छति त्वमित्यादिना॥ हे दुर्बुद्धे त्वं तु भीरुः। अत एव नित्यं शरणकाम्यसि शरणमात्मन इच्छसि च न त्वेकवीरः। अतस्त्वन्निग्रहोऽपि न पराक्रम इति भावः॥ “काम्यच्च” इति काम्यचि तदन्ताल्लटि सिप्॥ किं चास्माकं गुणानपह्नुषे च॥ “थासः से”॥
 
-
-
 शपो लुक्। तथा नोऽस्माकं शत्रून् स्तौषि प्रशंससे च। स्तौतेर्लटिसिपि शपो लुक्॥ “उतो वृद्धिर्लुकि हलि” इति वृद्धिः॥
 
 **शीर्षच्छेद्यमतोऽहं त्वां करोमि क्षितिवर्धनम्।  
@@ -2827,8 +2433,6 @@ K. P. TRIVEDI
 
 [^147]: " तु T2, T3, T4, Com."
 
-
-
  ४७.ईरामीति॥ मृगैर्दीव्यत इति मृगद्युवौ मृगयासक्तौ। दिवः क्विप्॥ “च्छ्वोःशूडनुनासिके च” इति वकारस्य ऊठादेशे यणादेशोवङादेशौ॥रामसौमित्री रामलक्ष्मणौ मृगो भूत्वा हरामि अन्यत आकर्षामि। सामीप्ये वर्त्तमानप्रयोगः। त्वं तु अभ्यमित्रमभिसपत्नमलंगामी अभ्यमित्रीणः सन्॥ “अभ्यमित्राच्छ च” इति चकारात् खप्रत्ययः। यथेष्टमुद्योगं प्रयत्नं सन्तनु कुरुष्वेत्यर्थः। तनोतेर्लोटि सिपि “उतश्च प्रत्ययात—” इति हेर्लुक्॥
 
 **ततश्चित्रीयमाणोऽसौ हेमरत्नमयो[^148]मृगः।  
@@ -2842,8 +2446,6 @@ K. P. TRIVEDI
 मैथिली विपुलोरस्कं प्रावुवूर्षुर्मृगाजिनम्॥४९॥**
 
  ४९.तेनेति॥ मृगलोचना मैथिली सीता मृगाजिनं पूर्वोक्तचित्रमृगचर्म प्रावुवूर्षः प्रावरितुमिच्छुः सती। प्राङ्पूर्वाद्वृञःसन्नन्तादुप्रत्ययः॥ “इट् सनि वा” इति विकल्पादिडभावपक्षे “अज्झनगमां सनि” इति दीर्घे “उदोष्ठ्यपूर्वस्य” इति दन्त्योष्ठ्यस्यापि ग्रहणादुत्वे र्वोरुपधाया दीर्घ इकः"। ततो द्विर्वचनादि। विपुलोरस्कं विशालव-
-
-
 
 क्षसं कर्मक्षमदेहसंपन्नमित्यर्थः॥ “उरःप्रभृतिभ्यः कप्” इति कप्। रामं तेन मृगेण करणेनादुद्यूषयत् देवितुमैषयत्। दीव्यतेः सनि “सनीवन्तर्ध—” इत्यादिना विकल्पादनिट्पक्षे ऊठादेशे यणादेशः। ततः सन्नन्ताण्णिचि लङ्। मृगवधे प्रावर्त्तयदित्यर्थः॥
 
@@ -2872,8 +2474,6 @@ K. P. TRIVEDI
 
 [^154]: "प्लुतम् E1, E2."
 
-
-
  ५१.चिरमिति॥ मर्म विध्यतीति मर्मावित् मर्मभेदी। विध्यतेः क्विप्॥ “नहिवृति—” इत्यादिना पूर्वस्य दीर्घः॥ रामश्चिरं चिरकालम्। अत्यन्तसंयोगे द्वितीया। क्लिशित्वा क्लिष्ट्वा प्रयस्येत्यर्थः॥ “क्लिशः क्त्वानिष्ठयोः” इति क्लिश्यतेर्विकल्पादिडागमः॥ विलुभिता विमोहिताः चिरप्रयासाद् व्याकुलिताः प्लवाः प्लुतानि यस्य तम्॥ “लुभो विमोहने” इतीट्॥ शब्दायमानं शब्दं कुर्वाणं हा लक्ष्मणेत्युच्चैः क्रन्दन्तमित्यर्थः॥ “शब्दवैर—” इत्यादिना क्यङ्॥भयदंभयंकरं शब्दविशेषणं वा। क्षणदाचरं मारीचमव्यात्सीत् विध्यति स्म। व्यध ताडने लुङि सिचि हलन्तलक्षणा वृद्धिः॥
 
 **श्रुत्वा विस्फूर्जथुप्रख्यं[^155] निनादं[^156]परिदेविनी।  
@@ -2893,8 +2493,6 @@ K. P. TRIVEDI
 ज्ञातेयं कुरु सौमित्रे भयात् त्रायस्व राघवम्॥५४॥**
 
  ५४.एष इति॥ हे सौमित्रे प्रावृषि जातः प्रावृषिजः॥ “प्रावृट्शरत्कालदिवां जे” इति सप्तम्या अलुक्॥ स चासावम्भोदश्च स इव
-
-
 
 नदतीति तन्नादी॥ “कर्त्तर्युपमाने” इति णिनिः॥ एष ते भ्राता रामो विरौति क्रोशति। ज्ञातेः कर्म ज्ञातेयं ज्ञात्युचितं कुरु॥ “कपिज्ञात्योर्ढक्”॥ तदेवाह। राघवं रामं भयाद्भयहेतोस्त्रायस्व रक्ष॥ “भीत्रार्थानां भयहेतुः” इत्यपादानात्पञ्चमी॥
 
@@ -2916,8 +2514,6 @@ K. P. TRIVEDI
 
  ५६.आप्यानेति॥ हे भीरु कातरे। संज्ञापूर्वकस्य विधेरनित्यत्वान्न गुणः। आप्यानं स्थूलं॥ प्यै वृद्धावितिधातोरात्वे “संयोगादेरातो धातोर्यण्वतः” इति निष्ठानत्वम्। ओप्यायी वृद्धौइत्यस्य तु “ओदितश्च” इति निष्ठानत्वम्। यलोपः। ‘आङ्पूर्वस्यान्धूधसोर्नित्यम्’ इति नियमात् “प्यायः पी” इति पीभावोऽपि न भवति। स्कन्धः ककुत्प्रदेशः स च कण्ठश्च अंसः भुजशिखरं च। प्राण्यङ्गत्वादेकवद्भावः। तदाप्यानं यस्य तं कर्मक्षमाङ्गमित्यर्थः। रुषितं रुष्टम्॥ “रुष्यमत्वरसंघुषास्वनाम्” इति विकल्पादिट्॥ बाणैर्दिशः प्रोर्णुवन्तमाच्छादयन्तम्। ऊर्णोतेः शतरि उवङादेशः। काकुत्स्थं रामं रणे सहितुं सोढुं
 
-
-
 पर्यवस्थातुमित्यर्थः॥ “तीषसहलुभरुषरिषः” इति विकल्पादिट्॥ कः क्षमः शक्तः। क्षमेः शक्त्यर्थत्वात्॥ “शकधृष—” इत्यादिना तुमुन्॥
 
 **देहं विभ्रक्षुरस्त्राग्नौ मृगः प्राणैर्दिदेविषन्।  
@@ -2933,8 +2529,6 @@ K. P. TRIVEDI
 [^164]: "विस्माययेत B."
 
  ५८.शत्रूनिति॥ किं च शत्रून्भीषयमाणं त्रासयन्तं न तु स्वयं कुतश्चिद्विभ्यतमित्यर्थः॥ “भियो हेतुभये षुक्”।“भीस्म्योर्हेतुभये” इत्यात्मनेपदम्॥ शानच्। तं रामं कोऽन्यो विस्मापयेत विजयेन विस्मितं कुर्यात् कस्तं जेष्यतीत्यर्थः॥ “भीस्म्योः—” इति हेतुस्मय आत्मनेपदम्॥ “नित्यं स्मयतेः” इत्यात्वे पुगागमः॥ मा स्म भैषीः मा बिभीहि॥ “स्मोत्तरे लङ् च” इति चकाराल्लुङि सिचि वृद्धिः॥ अद्यैवाधुनैव त्वया कृतार्थः कृतकृत्यः पतिः प्रियो द्रक्ष्यते दर्शिष्यते।दृशेर्लृटिचिण्वदिडभावपक्षे व्रश्चादिनाषत्वे कत्वम्। स्यसकारस्य षत्वं च॥
-
-
 
 **यायास्त्वमिति कामो[^165] मे गन्तुमुत्सहसे न च[^166]।  
 इच्छुः कामयितुं त्वं मामित्यसौ जगदे तया॥५९॥**
@@ -2959,8 +2553,6 @@ K. P. TRIVEDI
 
  ६१.अथास्मिन्नन्तरे रावणप्रवेशं चतुर्भिराह गत इत्यादिभिः॥ तस्मिन् लक्ष्मणे गते सति जलशुचिः स्नानपूत इत्यर्थः। शुद्धदन् शुभ्रदन्तः॥ “अग्रा-
 
-
-
 म्तशुद्ध—” इत्यादिना दन्तशब्दस्य विभाषा दत्रादेशः। शिखी शिखावान्। नित्ययोगे ब्रीह्यादित्वादिनिः। जञ्जपूकः मायावित्वात् गर्हितजापी॥ “लुपसदचर—” इत्यादिना भावगर्हायां यङ्॥ “जपजभ—इत्यादिना अभ्यासस्य नुगागमः॥ “यजजपदशां यङः” इत्यूकप्रत्ययः॥ अक्षमालावान् जपमाली। संसर्गे मतुप्। अलाब्वाः विकारः फलमलाबु॥ “ओरञ्”॥ “फले लुक्”॥ नपुंसकह्रस्वत्वम्। मृत् द्वारकामृत्तिका सा चालाबु च मृदलाबु॥ “जातिरप्राणिनाम्” इति द्वन्द्वैकवद्भावः॥ तस्य धारयो धारयिता। कर्मणि षष्ठी॥ “अनुपसर्गाल्लिम्प—” इत्यादिना शप्रत्ययः॥
 
 **कमण्डलुकपालेन शिरसा च मृजावता।  
@@ -2976,8 +2568,6 @@ K. P. TRIVEDI
 [^170]: "न्नात्मवद्विद्यांT3, Com."
 
 [^171]: "भ्रूविक्षेपं च लोकयन् T2,T4 भ्रुविक्षेपं विलोकयन् T.,G,Com,T3."
-
-
 
  ६३.अधीयन्निति। एवंभूतो रावणः आत्मवतां विद्यामुपनिषदमधीयन्नकृच्छ्रेणाधीयानः मस्कारिव्रतंपरिव्राजकनियमम्॥ “मस्करमस्करिणौ वेणुपरिव्राजकयोः” इति निपातनात्सुट्॥ धारयन्नकृच्छ्रेण दधानः॥“इङ्धार्योः शत्रकृच्छ्रिणि” इत्युभयत्र शतृप्रत्ययः। बहु प्रचुरं यथा तथा अङ्गुलिस्फोटमङ्गुलिं चालयित्वा वदन्। प्रायेणाङ्गुलिसंज्ञयैव जल्पन्नित्यर्थः। भ्रुवं विक्षिप्य भ्रूविक्षेपम्। चक्षुषि पतितां भ्रुवं हस्तेनापक्षिष्येत्यर्थः। उभयत्रापि “स्वाङ्गेऽध्रुवे” इति णमुल्प्रत्ययः। विलोकयन् पश्यंश्च॥
 
@@ -2997,8 +2587,6 @@ K. P. TRIVEDI
 
  ६५.सायमिति॥ हे शुचिस्मिते सीते। तिथीः शुक्लकृष्णपक्षतिथीः प्रणयति पञ्चदशानामपि कलानामेकैकवृद्धिह्रासक्रमेण पञ्चदश पञ्च-
 
-
-
 दश प्रवर्त्तयतीति तिथिप्रणीश्चन्द्रः॥ “सत्सूद्विष—” इति क्विप्॥ “उपसर्गादसमासेऽपि णोपदेशस्य” इति णत्वम्॥ तस्य तिथिप्रण्यश्चन्द्रस्य॥ “एरनेकाचः—” इति यणादेशः॥ साये सायं वा भवा सायन्तनी। सायशब्दात्स्य ते र्घञन्तादस्मादेव निपातनान्मान्तात्सायंशब्दाद्वा अव्ययात् “सायंचिरम्—” इत्यादिना ट्युप्रत्यये तुट्। तां कान्ति पङ्कजानां दिवाभवां दिवातनीं कान्तिं सदा भवा सनातनी। स एव प्रत्ययः। तया कान्त्या ह्रेपयन्ती त्रपयन्ती। कादाचित्कात्सनातनस्योत्कृष्टत्वादिति भावः। अत एवोपमानादुपमेयस्याधिक्यकथनात् व्यतिरेकालङ्कारः। ‘भेदप्रधानं सामान्यमुपमानोपमेययोः। आधिक्याल्पत्वकथनाद्व्यतिरेकः स उच्यते”॥ इति लक्षणात्॥
 
 **का त्वमेकाकिनी भीरु निरन्वयजने[^175]वने।  
@@ -3013,10 +2601,6 @@ K. P. TRIVEDI
 
  ६७.हृदयङ्गमेति॥ हे सौम्ये हृदयं गच्छन्ती हृदयङ्गमा हृद्या मूर्त्तिर्यस्याः सा॥ “गमश्च” इति खचि मुम्॥ त्वं भीमं भयङ्करमप्येतद्वनम्। असुभगं सुभगं भवतीति सुभगम्भावुकं सौम्यं कुर्वाणा॥
 
-
-
-
-
 “कर्त्तरि भुवः—” इत्यादिना च्व्यर्थे भुवः खुकञ्॥ मुमागमः। केन हेतुना अभ्यैरभ्यगच्छः। इणो लङ्याड्वृद्धिः। वद॥
 
 **सुकृतं प्रियकारी त्वं कं रहस्युपतिष्ठसे।  
@@ -3029,8 +2613,6 @@ K. P. TRIVEDI
 
  ६९.परिपरीति। उदधेः परिपरि उदधिं वर्जयित्वा स्थितमिति शेषः। तत्रापि दुर्लभमित्यर्थः॥ “परेर्वर्जने”॥ ‘असमासे वा’ इत्यसमासपक्षे विकल्पाद्विर्वचनम्॥ “अपपरी वर्जने” इति कर्मप्रवचनीयत्वाद्वितीयाप्राप्तौ “पञ्चम्यपाङ्परिभिः” इति तद्पवादिनी पञ्चमी॥
 
-
-
 आद्युलोकादास्वर्गाच्चदुर्लभम्। भूवत्स्वर्गेऽपि दुर्लभमित्यर्थः॥ “आङ्मर्यादाभिविध्योः” इति विकल्पादसमासः॥ “आङ् मर्यादावचने” इति वचनग्रहणादभिविधावपि कर्मप्रवचनीयत्वेऽपि पूर्ववत्पञ्चमी। भवत्या इदं भावत्कं भवदीयम्॥ “भवतष्ठक्छसौ” इति ठकि ठक्छसोरुपसङ्ख्यानात्पुंवद्भावे “इसुसुक्तान्तात्कः”॥ एतद्रूपं दृष्टवत्स्वस्मासु अधि अस्मदधिकरण इत्यर्थः। “अधिपरी अनर्थकौ” इति कर्मप्रवचनीयसंज्ञायाः गत्युपसर्गसंज्ञानिवृत्तिमात्रार्थत्वात् तद्योगेऽपि न द्वितीया। विभक्त्यर्थमात्रद्योतकत्वमानर्थक्यम्। ‘तिङ्कृत्तद्धितादिष्वपरिगणनात्तद्द्योतितेऽप्यर्थे भवत्येव विभक्तिः’ इति न्यासकारः। सुजीवितमिति वर्त्तत इति शेषः। त्वद्रूपदर्शनादस्मज्जीवितं सुजीवितमित्यर्थः॥
 
 **प्रपीतमधुका[^176] भृङ्गैः सुदिवेवारविन्दिनी।  
@@ -3041,8 +2623,6 @@ K. P. TRIVEDI
 [^177]: "परीमल T2, T4."
 
  ७०.आपीतेति॥ भृङ्गैरापीतमधुका निष्पीतमकरन्दा।वैभाषिकः शैषिकः कप्। शोभना दिवा दिनं यस्याः सा सुदिवा। अर्ककरसम्पर्कशालिनीत्यर्थः॥ “सुप्रातसुश्वसुदिव–” इत्यादिना समासान्तनिपातः॥ अरविन्दिनी कमलिनीच स्थिता। सती परिमललक्ष्मीर्विमर्दगन्धसंपत्तिर्यस्याः सा सत्परिमललक्ष्मीका। ‘विमर्दोत्थे परिमलो गन्धे जनमनोहरे’ इत्यमरः। एकवचनान्तस्य लक्ष्मीशब्दस्योरःप्रभृतिषु पाठात् “उरःप्रभृतिभ्यः कप्” इति बहुव्रीहौ समासान्तः कप्। छन्दोभङ्गवहनं तु पूर्ववत्। ईद्दशी त्वमपुंस्का अविद्यमानपुंस्का। अविद्यमानपुरुषसम्पर्केत्यर्थः। लक्ष्मीशब्दवत्पुंशब्दस्यैकवचनस्य उरःप्रभृतिपाठात्कप्॥ “पुमः खय्यम्परे” इति पुंसो रुत्वे विसर्जनीयस्य “संपुंकानां सो वक्तव्यः” इति ≍कपापवादी सः॥ नासि न भवसि। किं तु भुक्तपूर्वैवेति मे मतिर्मम प्रतिपत्तिः॥
-
-
 
 **मिथ्यैव श्रीः श्रियम्मन्या श्रीमन्मन्यो मृषा हरिः।  
 साक्षात्कृत्याभिमन्येऽहं त्वां हरन्तीं श्रियः[^178] श्रियम्॥७१॥**
@@ -3062,8 +2642,6 @@ K. P. TRIVEDI
 कान्तिं नाभिमनायेत को वा स्थाणुसमोऽपि ते॥७३॥**
 
  ७३.वल्गूयन्तीमिति॥ वल्गूयन्तीं मनो हरन्तीं त्वां विलोक्य इहास्मिन् लोके का स्त्री न मन्तूयति न कुप्यति नेर्ष्यतीत्यर्थः। उभयत्र धातोः कण्ड्वादित्वाद्यक्॥ “अकृत्सार्वधातुकयोर्दीर्घः” किं च स्थाणु-
-
-
 
 समः काष्ठतुल्योऽत्यन्तमूढोऽपि रुद्रतुल्योऽपि वा कस्ते तव कान्ति लावण्यं विलोक्य नाभिमनायेत नोत्सुकायेत। भृशादित्वात् क्यङ् सलोपश्च। संभावनायां लिङ्॥
 
@@ -3090,8 +2668,6 @@ K. P. TRIVEDI
 
  ७६.ओजायमानेति॥ ओज इवाचरन्ती ओजायमाना। मूर्त्तमोज इव स्थितेत्यर्थः॥ “कर्त्तुः क्यङ् सलोपश्च” इति क्यङ् नित्यं सलोपश्च।
 
-
-
 ओजसोऽप्सरसो नित्यं पयसस्तु विभाषया” इति वचनात्। जनकात्मजा सीता तस्य रावणस्य। सम्प्रदानत्वेऽपि संबन्धसामान्ये षष्ठी। अर्घ्यमर्घार्थंजलम्॥ “पादार्घाभ्यां च” इति यत्प्रत्ययः। प्रदाय दत्त्वा सादरा सती दशमूर्धानं रावणं गद्गदं भयात्किञ्चित्कण्ठं यथा तथा वच उवाच। “ब्रुविशासि—” इति वचनात् द्विकर्मकत्वम्॥
 
 **महा[^184]कुलीनऐक्ष्वाके वंशे दाशरथिर्मम।  
@@ -3107,8 +2683,6 @@ K. P. TRIVEDI
 पारश्वधिकरामस्य शक्तेरन्तकरो रणे॥७८॥**
 
  ७८.निहन्तेति॥ वैरकाराणां वैरायितॄणाम्॥ “न शब्द—” इत्यादिना टप्रतिषेधे “कर्मण्यण्”॥ कर्मणि षष्ठी। निहन्ता। तृच्। सदा सतां बहुकरो बहूपकर्त्ता॥ “कृञो हेतु—” इत्यादिना ताच्छील्ये टप्रत्ययः॥ शेषं किङ्करवत्। परश्वधः प्रहरणमस्य पारश्वधिकः॥ “परश्वधाट्ठञ्च” इति ठक्॥ तस्य रामस्य परशुरामस्य। ‘द्वयोः कुठारः स्वधितिः परशुश्च परश्वधः’ इत्यमरः। शक्तेः सामर्थ्यस्य रणे अन्तकरो नाशकरः॥ “दिवाविभा—” इत्यादिना टप्रत्ययः॥
-
-
 
 **अध्वरेष्विष्टिनां पाता पूर्त्ती[^186]कर्मसु सर्वदा।  
 पितुर्नियोगाद्राजत्वं हित्वा योऽभ्यागमद्वनम्[^187]॥७९॥**
@@ -3132,8 +2706,6 @@ K. P. TRIVEDI
 निघ्नानं शात्रवान्रामं कथं त्वं नावगच्छसि॥८१॥**
 
  ८१.दीव्यमानमिति॥ शितान् बाणान् शितैर्बाणैः॥ “दिवः कर्म च” इति करणस्य कर्मत्वम्॥दीव्यमानं देवनशीलम्। देवनं क्रीडा विजिगीषा वा। महागदाः अस्यमानं क्षेपमाणम्। तद्योग्यवयस्कमित्यर्थः। शत्रूनेव शात्रवान्। स्वार्थेऽण्। निघ्नानं निहननशक्तम्॥ “गमहन—” इत्यादिना उपधालोपः। क्रमात् त्रिषु “ताच्छील्यवयोवचनशक्तिषु चानश्” इति चानश्। तं रामं कथं नावगच्छसि न वेत्सि॥
-
-
 
 **भ्रातरि न्यस्य यातो मां मृगाविन्मृगयामसौ।  
 एषितुं[^190] प्रेषितो यातो[^191] मया तस्यानुजो वनम्॥८२॥**
@@ -3160,8 +2732,6 @@ K. P. TRIVEDI
 
  ८४.कृत इति॥ कानिष्ठिनेयस्य कनिष्ठापुत्रस्य भरतस्य कृते कार्यार्थम्।संपदादित्वात्क्विप्। अव्ययमिति केचित्। विवासितं प्रवासितम्। अत एव नग्नमुषितप्रख्यम्। मुषितो हृतवस्त्रः अत एव नग्नः॥ “पूर्वकाल—” इत्यादिना समासे राजदन्तादित्वात्पूर्वकालस्य परनि-
 
-
-
 पातः॥ तत्प्रख्यं तत्तुल्यम्। ज्यैष्ठिनेयं ज्येष्ठापुत्रं ज्येष्ठमिति भावः। उभयत्र "कल्याणादीनामिनङ्” इतीनङादेशः। राघवं रामं को बहु मन्येत पूजयेत्। न कोऽपीत्यर्थः। बह्णिति क्रियाविशेषणम्॥
 
 **राक्षसान्बटु[^195]यज्ञेषुपिण्डीशूरान्[^196] निरस्तवान्।  
@@ -3187,8 +2757,6 @@ K. P. TRIVEDI
 
 [^199]: "रावणम् T3, E1"
 
-
-
  ८७.निर्लङ्कइति॥ यस्मान्मद्विक्रमलक्षणात् कारणात् धनानां स्वामी कुबेरः। निष्क्रान्तो लङ्कायाः निर्लङ्कः सन्। ‘निरादयः कान्ताद्यर्थे पञ्चम्या’ इति गतिसमासः। द्विगुप्राप्तापन्नालंपूर्वगतिसमासेषु परलिङ्गताप्रतिषेधाद्विशेष्यलिङ्गता॥ “एकविभक्ति चापूर्वनिपाते” इति लङ्काशब्दस्योपसर्जनत्वात् “गोस्त्रियोरुपसर्जनस्य” इत्युपसर्जनह्रस्वत्वम्। हृतपुष्पकोऽपहृतविमानश्च। अत एव विमदो वीतदर्पःसन्। गिरावन्तर्गिरं कैलासमित्यर्थः। अध्यास्ते। विभक्तयर्थेऽव्ययीभावः॥ “गिरेश्चसेनकस्य” इति विकल्पादव्ययीभावसमासान्तष्टच्॥ “अधिशीङ्स्थासां कर्म” इति कर्मत्वात् द्वितीया॥ “अव्ययीभावश्च” इत्यव्ययत्वम्॥ तत्कारणं मद्विक्रमलक्षणं को नावैति न वेत्ति। सर्वोऽपि वेत्त्येवेत्यर्थः॥
 
 **भिन्ननौक इव ध्यायन् मत्तो विभ्यद्यमः स्वयम्।  
@@ -3201,8 +2769,6 @@ K. P. TRIVEDI
 
  ८९.समुद्रेति॥ हे मैथिलि समुद्रस्योपत्यका आसन्ना समुद्रपरिधेत्यर्थः। पर्वतासन्नवाचकेनासन्नमात्रं लक्ष्यते। पर्वतस्य त्रिकूटाद्रेरधित्यका। लक्षणया उपरि स्थितेत्यर्थः। गिरिर्दुगं चे त्यर्थः। ‘उपत्यकाद्रेरासन्ना भूमिरूर्ध्वमधित्यका’ इत्यमरः॥ “उपाधिभ्यां त्यकन्ना-
 
-
-
 सन्नारूढयोः” इति त्यकन्प्रत्ययः। प्रतिषेधे त्यकन उपसंख्याना त्कात्पूर्वस्येत्वाभावः। हेम्नोविकारो हैमी हेममयी॥ “प्राणिरजतादिभ्योऽञ्”॥ “नस्तद्धिते” इति टिलोपः॥ रत्नानां पारस्य समाप्तेरयनं स्थानं सर्वरत्नानामाकर इत्यर्थः। नाम्ना लङ्केति प्रसिद्धा मम पुरीति प्ररोचनापि यथार्थैव॥
 
 **आवासे सिक्तसंमृष्टे गन्धैस्त्वं लिप्तवासिता  
@@ -3214,8 +2780,6 @@ K. P. TRIVEDI
 राघवः प्रोष्यपापीयान् जहीहि तमकिञ्चनम्॥९१॥**
 
  ९१.संगच्छेति॥ हे शुभे शोभने। इगुपधलक्षणः कप्रत्ययः। हे पौंस्निपुंहिते पुमर्हे वा पौंस्नि। एवं स्त्रीभ्यो हितमर्हं वा स्त्रैणम्। नञ्स्नञोरुपसंख्यानादीकारः। युवानं तरुणं मां मा तरुणी युवतिः। तरुणस्योपसंख्यानान्ङीप्। त्वं संगच्छ प्राप्नुहि। सकर्मकत्वात् “समो गम्यृच्छि—” इत्यादिना नात्मनेपदम्। राघवो रामः प्रोष्य राज्यात्प्रभ्रश्य अत एवातिशयेन पापो निकृष्ठः पापीयान् अभाग्य इत्यर्थः। ‘अथ त्रिषु द्रव्ये पुण्यपापसुखानि च’ इति विशेष्यलिङ्गत्वात् पापशब्दादीयसुनि तदुत्तरपदस्तत्पुरुषो मयूरव्यंसकादित्वात्साधुः। नास्ति किंचनास्येत्यकिञ्चनं निःस्वम्। मयूरव्यंसकादिषूच्चावचोच्चनीचाचोपचाचपराचनखप्रचनिश्चप्रचाकिञ्चनाकुतोभयानीति पाठात्साधुः। तं रामं
-
-
 
 जहीहि त्यज। जहातेः प्राप्तकाले लोट्। सेर्हित्वे “आच हौ” इति अकाराद्वैकल्पिक ईकारः॥
 
@@ -3246,8 +2810,6 @@ K. P. TRIVEDI
 
  ९४,तामिति॥ निशाचरो रावणस्तां सीतां प्रतिकूलं वर्त्तत इति प्रातिकूलिकीं प्रतिकूलवर्त्तिनीमनुनयासाध्याम्॥ “तत्प्रत्यनुपूर्वमीपलोमकूलम्” इति ठक्॥ मत्वा निश्चित्य जिहीर्षुर्बलादपहर्त्तुमिच्छुः
 
-
-
 भीमविग्रहो भयोत्पादनाय प्रकटीकृतनिजाकारः सन्। बाहुभ्यामुपपीड्य बाहूपपीडम्। “सप्तम्यां चोपपीड—” इत्यादिना णमुल्॥ आश्लिष्य द्यां दिवमाकाशं जगाहे जगाम। दिव्शब्दादन्य ओकारान्तो द्योशब्दः तस्यामि “औतोऽम्शसोः” इत्यात्वम्॥
 
 **त्रस्यन्तीं तां समादाय[^206] यातो रात्रिञ्चरालयम्[^207]।  
@@ -3265,8 +2827,6 @@ K. P. TRIVEDI
  ९६.उच्चैरिति॥ उच्चैस्तारं रामलक्ष्मणौ रारस्यमानां हा राम हा लक्ष्मणेति भृशं क्रोशन्तीम्। रसतेः शब्दकर्मणो यङन्तात् लटःशानचि टाप्। कृपणां दीनां तां सीतां जटायुर्नाम पक्षीन्द्रो गृध्रराजो रावणं परुषं रे रे चोर दुरात्मन् क्व यासीत्यादिनिष्ठुरं वदन् प्राप। वत्से मा भैषीरित्याश्वासयन्नागत इत्यर्थः॥
 
 **एते प्रकीर्णकाः।**
-
-
 
 **अतः परं टाधिकारः।**
 
@@ -3288,8 +2848,6 @@ K. P. TRIVEDI
 तव राक्षस रामस्य नेयः कर्मकरोपमः॥९९॥**
 
  ९९.अहमिति॥ हे राक्षस। रामस्य कर्म करोतीति कर्मकरो भृत्यः॥ “कर्मणि भृतौ” इति टः॥ तदुपमस्तत्तुल्यः अत एव नेयो नेतव्यः
-
-
 
 विधेयः अहं ध्वान्तस्य दिबाकरो दिनकर इव तव। अन्तं करोतीत्यन्तकरो नाशकरः नूनम्। उभयत्र दिवादिसूत्रणे टः॥
 
@@ -3313,8 +2871,6 @@ K. P. TRIVEDI
 
  पुनःप्रकीर्णमेव श्लोकत्रयेणाह धुन्वन्नित्यादिना॥ असौ पक्षी। सर्वान् पथः सर्वपथान् व्याप्नोतीति सर्वपथीनम्। “पूर्वकाल—” इति समासः॥ “ऋक्पूर्—” इति समासान्तः॥ “तत्सर्वादेः—” इत्यादिना खप्रत्ययः॥ तं प्रसिद्धं पक्षयोर्वितानं धुन्वन्। विततौ पक्षौ धुन्वन्नित्यर्थः। साकल्येन मांसशोणिते संदर्श्यमांसशोणितसंदर्शम्॥ “कर्मणि दृशिविदोः साकल्ये” इति णमुल्॥ दृशिरन्तर्हितण्यर्थः॥ “अमैवाव्ययेन” इति समासः॥ तुण्डेन घातो यस्मिन्कर्मणि तद्यथा तथेति
 
-
-
 घञन्तोत्तरपदो बहुव्रीहिः॥ “करणे हनः” इति णमुलन्तत्वे पादघातं हन्तीतिवत् “कषादिषु—” इति यथाविध्यनुप्रयोगः स्यात्। न च “हिंसार्थानां च समानकर्मकाणाम्” इति णमुल्। अनुप्रयोगस्य युधेरकर्मकत्वेन समानकर्मकत्वाभावात्। अयुध्यत युद्धं कृतवान्। युधेर्दैवादिकाल्लङि तङ्॥
 
 **न बिभाय न जिह्राय न चक्लाम न विव्यथे।  
@@ -3330,8 +2886,6 @@ K. P. TRIVEDI
 युधि कद्रथवद्भीमं बभञ्ज ध्वजशालिनम्॥१०३॥**
 
  १०३.पिशाचेति॥ किं चायं पक्षी युधि। पिशाचस्य मुखमिव मुखं येषां तादृशाः धुरं वहन्तीति धौरेया अश्वाः यस्य तम्॥ “धुरो यड्ढकौ” इति ढक्॥ सह छत्रकवचाभ्यां सच्छत्रकवचम्॥ “तेन सहेति तुल्ययोगे” इति बहुव्रीहिः॥ ध्वजेन शालते इति तच्छालिनं तच्छोभिनम्। भीमं भयंकरं रथम्। महान्तमपीति भावः। कुत्सितः
-
-
 
 क्षुद्रो रथः कद्रथः॥ “रथवदयोश्च” इति कोः कदादेशः॥ तेन तुल्यं तद्वत्॥ “तेन तुल्यम्—” इति वतिप्रत्ययः। बभञ्ज॥
 
@@ -3354,8 +2908,6 @@ K. P. TRIVEDI
 [^218]: "चेच्छिदांचक्रे G.,T.,Com,"
 
  १०५. असीत इति॥ अथासीतस्त्यक्तसीतको रावणः शस्त्रैः साधनैः शस्त्रबलेनेत्यर्थः निराकुलोऽनाकुलः सन् कासाञ्चक्रे रे मूर्ख अण्डजाधम हतोऽसीत्येवं कुत्सितं शब्दापयामास प्रललापेत्यर्थः। कासृ शब्दकुत्सायाम्। लिट्। “कास्प्रत्ययात्—” इत्याम्प्रत्ययः॥ खे गच्छतीति खगः पक्षी।डोऽन्यत्रापि च दृश्यत इति गमेर्डप्रत्ययः। नखास्तुण्डं मुखं च तन्नखतुण्डमेवायुधं यस्य स सन्। भूयः पुनरपि तं रावणं चेच्छिदाञ्चक्रे भृशं चिच्छेद। छिदेर्यङन्ताल्लिट्। “कास्प्रत्ययात्—” इत्याम्प्रत्ययः। यङो ङित्वात्तङि तद्वदनुप्रयोगात्कृञोऽपि तङ्॥ “गुणो यङ्लुकोः” इत्यभ्यासस्य गुणः॥ अल्लोपयलोपौ॥
-
-
 
 **हन्तुं क्रोधवशादीहाञ्चक्राते तौ परस्परम्।  
 न वा[^219].")पलायाञ्चक्रे विर्दयाञ्चक्रे न राक्षसः॥१०६॥**
@@ -3382,8 +2934,6 @@ K. P. TRIVEDI
 
  १०८. प्रलुठितमिति॥ अथ दशवदनः कृत्तं छिन्नपक्षमत एवावनौ प्रलुठितं निपत्य लुठन्तम्। खे चरन्तीति खेचराः खगाः॥ “चरेष्टः”॥ तेषू
 
-
-
 त्तमं जटायुषं विलोक्य प्रहृष्यन् रामस्य कान्तां सीतां परिगृह्यादाय। भीमा भयंकराः युगं वहन्तीति युग्याः अश्वायस्य तम्॥ “तद्वहति रथयुगप्रासङ्गम्” इति यत्प्रत्ययः॥ रथवरं रथश्रेष्ठमधिरुह्य स्वपुरं लङ्कानगरमगात् गतवान्। पुष्पिताग्रा वृत्तम्। ‘अयुजि नयुगरेफतो यकारो युजि च नजौ जरगाश्च पुष्पिताग्रा’ इति लक्षणात्॥
 
 **इति भट्टिकाव्ये सीताप्रहरणो नाम**
@@ -3394,17 +2944,7 @@ K. P. TRIVEDI
 मल्लिनाथसूरिविरचिते भट्टिकाव्यव्याख्याने  
 सर्वपथीनाख्याने पञ्चमः सर्गः॥
 
-
-
-
-
-
-
-
-
 **——————**
-
-
 
 **॥श्रीः॥**
 
@@ -3426,8 +2966,6 @@ K. P. TRIVEDI
 
  २.प्रजागरामिति॥ किं चासौ रावणः काकुत्स्थाद्रामादभिशङ्कितः। बलवद्विरोधस्य दुरन्तत्वादनिष्टागममुत्प्रेक्षमाण इत्यर्थः। ‘अनिष्टाभ्यागमोत्प्रेक्षां शङ्कामाचक्षते बुधाः’ इति लक्षणात्। अरेः रामस्य ईहासु चेष्टासूद्योगेषु विषये अनिशमादरादभिनिवेशात्प्रजागराञ्चकार। अप्रमत्तः स्थित इत्यर्थः॥ “उषविद्—” इत्यादिना विकल्पादाम्प्रत्ययः॥ बिभयाम्प्रचकार अतिमात्रं बिभाय चेत्यर्थः॥ “भीहीभृहुवां
 
-
-
 श्लुवच्च” इति विकल्पादाम्प्रत्ययः॥ “श्लौ” इति द्विर्भावश्च॥ प्रोपसर्गव्यवधानं तूक्षाम्प्रचक्रुरितिवत्समाधेयम्। प्रबिभयाञ्चकारेति पाठे पूर्ववच्छन्दोभङ्गः सोढव्यः॥
 
 **न जिह्याञ्चकाराथ सीतामभ्यर्थ्य तर्जितः।  
@@ -3445,8 +2983,6 @@ K. P. TRIVEDI
 [^228]: "°मशिषच्च D.,T.,G.,Com. °मादिदेश E2."
 
  ४. विदाङ्कुर्वन्त्विति॥ किं च रामस्य वृत्तं व्यापारं विदाङ्कुर्वन्तु जानन्त्वित्यर्थः। विध्यर्थे लोट्॥ “विदाङ्कुर्वन्त्वित्यन्यतरस्याम्” इति विदेर्लोट्याम्प्रत्ययगुणाभावादिनिपातनात्साधुः॥ इति स्वकान् स्वकीयान् शुकसारणादीन् गूढपुरुषानवदत्। विदित्वोच्यतामिति चारान्नियुक्तवानित्यर्थः। प्रयत्नवानवहितः सन् तां रक्षितुं गोपायितुं रक्षांसि राक्षसानशिषदादिष्टवान्। शासेर्लुङि “सर्त्तिशास्त्यर्त्तिभ्यश्च” इति च्लेरङादेशः॥ “शास इदङ्हलोः” इतीकारः॥ “शासिवसिधसीनां च” इति षत्वम्॥ योषिद्वृन्दारिकेत्यादिना एतदन्तेन सन्दर्भेण दशावस्थासून्मादादर्वाचीनाः सप्तापि सुव्यक्तमुक्ता यथायोगमुन्नेयाः॥ “दृङ्मनःसङ्गसंकल्पौ जागरः कृशता रतिः। ह्रीत्यागोन्मादमूर्च्छान्ता इत्यनङ्गदशा दश”॥
-
-
 
 **अथ प्रकीर्णकाः।**
 
@@ -3468,8 +3004,6 @@ K. P. TRIVEDI
 विज्ञायामंस्त काकुत्स्थः क्षये क्षेमं सुदुर्लभम्॥७॥**
 
  ७. सीतामिति॥ काकुत्स्थो रामः सहाञ्चतीति सध्रीचीं सहचरीम्॥ ऋत्विगादिना क्विन्॥ “सहस्य सध्रिः” इति सध्र्यादेशः॥ “अचः” इत्यकारलोपः॥ “चौ” इति दीर्घः। “अञ्चतेश्चोपसंख्यानम्” इति
-
-
 
 ङीप्। त्रस्नुं भीरुमेकिकामेकाकिनीम्। “एकादाकिनिच्चासहाये” इति चकारात्कन्॥ कात्पूर्वस्येत्वम्। सीतां सौमित्रिणा त्यक्तां विज्ञाय तस्यैकाकिन आगमनादनुमाय। क्षयन्ति निवसन्त्यस्मिन्निति क्षये गृहे॥ ‘निवासः शरणं क्षयः’ इति गृहपर्यायेष्वमरः। क्षिनिवासगत्योः। तौदादिकः॥ “एरच्”॥ क्षेमं कुशलं सुदुर्लभमत्यन्तदुर्लभममंस्त निश्चितवानित्यर्थः। मन्यतेरनिटो लुङि सिच्॥
 
@@ -3498,8 +3032,6 @@ K. P. TRIVEDI
 
 [^235]: "धर्मान् T,G.Com."
 
-
-
  १०.गतेति॥ सां सीता आश्रमद्रुमान् कुसुमान्यपचिन्वाना अवच्छिन्दती॥चिनोतेः शानच्। गता वा स्यात्। अथवा सुतीक्ष्णः सुतीक्ष्णाख्यो मुनिः यत्र तापसान्मुनीन् धर्मान् शास्ति उपदिशति तत्र गता स्यात्। आ इति स्मृतौ। ‘आ प्रगृह्यस्मृतौ वाक्ये’ इत्यमरः। अत्र सोऽपृच्छदित्यादिश्लोकत्रये सर्वत्र सीतादीनां प्रधानकर्मणामीप्सितकर्मत्वं लक्ष्मणादीनामप्रधानकर्मणामकथितकर्मत्वं च द्रष्टव्यम्॥ ‘दुहियाचिरुधिप्रच्छिभिक्षिचिञामुपयोगनिमित्तमपूर्वविधौ। ब्रुविशासिगुणेन च यत्सचते तदकीर्त्तितमाचरितं कविना’॥ इति वचनात्॥
 
 **अतः परं प्रकीर्णकाः।**
@@ -3517,8 +3049,6 @@ K. P. TRIVEDI
 अग्लासी[^238]त्संस्मरन्नित्थं मैथिल्या भरताग्रजः॥१२॥**
 
 [^238]: "अम्लासी° c."
-
-
 
  १२.
 
@@ -3557,8 +3087,6 @@ K. P. TRIVEDI
 
 [^243]: "मे B."
 
-
-
  १५.
 
 अक्षेम इति॥
@@ -3589,8 +3117,6 @@ K. P. TRIVEDI
 
 [^248]: "नु नदीं C."
 
-
-
  १७.
 
 मास्मेति॥
@@ -3616,8 +3142,6 @@ K. P. TRIVEDI
 [^251]: "हेतो स्तवा॰ N, C., T1, T., E2.तेऽर्थे ममा' D."
 
 [^252]: "म्रिये त्वं मां T.."
-
-
 
  १९.
 
@@ -3651,8 +3175,6 @@ K. P. TRIVEDI
 
 सा सीता इह प्रदेशे गन्धैश्चन्दनादिगन्धद्रव्यैः। गन्धशब्दस्य द्रव्यवाचित्वे बहुत्वमुक्तं प्राक्। अन्वलिपदनुलिप्तवती। इह
 
-
-
 स्नान्ती स्नानं कुर्वती। स्नातेः शतरि ङीप्॥ "आच्छीनद्योः–” इति विकल्पान्नुम्॥ जलैरभ्यषिचत् मामिति शेषः। इहाहं तां द्रष्टुमाह्वमाकारयम्॥ "लिपिसिचिह्वश्च" इति सर्वत्र च्लेरङादेशः॥ "आतो लोप इटि च" इति ह्वयतेराकारलोपः॥ एवमित्थं स्मरन्नेव स रामो मुमोह मुमूर्च्छ॥
 
 **तस्यालिपत शोकाग्निःस्वान्तं काष्ठमिव ज्वलन्[^257]।  
@@ -3682,8 +3204,6 @@ K. P. TRIVEDI
 स्नान इति॥
 
 दयितया सीतया विना शोकमूर्छितः शोकमूढः सन् रामः स्नाने प्राप्ते रुदन् अम्भोभिर्नेत्रजलैरेवाभ्यषिचत आत्मानमभिषितवान्। तथा तर्पणे प्रसक्ते पितृभ्यो वारीण्यश्रुजलान्येवाभ्यषिक्त क्षरितवान्। दत्तवानित्यर्थः। सिञ्चतेः क्षरणमात्रपरत्वे जलानां कर्मत्वं सेकपरत्वे करणत्वं चेति विवेकः। अत्रापि पूर्ववद्विकल्पादङभावपक्षे "झलो झलि" इति सिज्लोपः॥
-
-
 
 **तथार्त्तोऽपि[^262] क्रियां धर्म्यां[^263]स कालेनामुचत्क्वचित्।  
 महतां हि क्रिया नित्याछिद्रे[^264] नैवावसीदति॥२४॥**
@@ -3726,9 +3246,6 @@ K. P. TRIVEDI
 
 हे पक्षिमृगाणां शावकाः शिशवः या सीता युष्मान् स्वेन धनेन पुष्ट्वा स्वपोषम्॥ "स्वे पुषः" इति णमुल्प्रत्ययः॥ अपुषत्। कषादित्वादनुप्रयोगः। पुषादित्वादङ्। इन्दुना सार्धमद्युतत्  
 
-
-
-
 इन्दुसाम्येन व्यद्योतिष्टेत्यर्थः॥ "द्युद्भ्योलुङि" इति विकल्पात्परस्मैपदम्॥ द्युतादित्वादङ्। तां सीतां प्रब्रूत कथयत यतो गता यत्र गता तद्ब्रूतेत्यर्थः॥
 
 **गिरिमन्वसृपद्रामो लिप्सुर्जनकसंभवाम्।  
@@ -3766,8 +3283,6 @@ K. P. TRIVEDI
 
 इदं कवचं वर्म अश्चोतीत् अपप्तत्॥ "इरितो वा" इत्यङ्भावपक्षे रूपम्॥ सिचि “नेटि" इति हलन्तलक्षणा वृद्धिप्रति-
 
-
-
 षेधे लघूपधगुणः। अयं साश्वो रथश्चूर्णितः। अन्वेष्टुं सीतां गवेषितुममुं गिरिमवगाहावहे प्रवेक्ष्यावहे। द्रुतमेह्यागच्छ॥
 
 **मन्युर्मन्ये ममास्तम्भीद्विषादोऽस्तभदुद्यतिम्।  
@@ -3803,8 +3318,6 @@ K. P. TRIVEDI
 
 [^279]: "रापदि C., T1."
 
-
-
  ३२.
 
 क्रुद्धइति॥
@@ -3835,8 +3348,6 @@ K. P. TRIVEDI
 
 अस्य रामस्य विषादः प्रागनुवर्त्तमानो मनःखेदः अदोहीव स्वयमेव दुग्धः क्षारित इव तथा गत इत्यर्थः। दुहः कर्म-
 
-
-
 कर्त्तरि लुङि तङि "दुहश्च" इति विकल्पात् च्लेश्चिणादेशः। विक्रमः समरुद्धेव स्वयमेवावरुद्ध इव एकत्र राशीभूय स्थित इत्यर्थः। रुधः कर्मकर्त्तरि लुङि तङि कर्मवत् भावेन प्राप्तस्य चिणः "न रुधः" इति प्रतिषेधे सिच्। सकारस्य "झलो झलि" इति लोपे तङि स्थानिवद्भावान्न लघूपधगुणः। धत्वजश्त्वे। किं च कोपेन समतप्त च कष्टं कालेनाज्ञासिषमनेन वञ्चितोऽस्मीत्यन्वतप्त च पश्चात्तापं गमित इत्यर्थः। तपेः कर्मणि "तपोऽनुतापे च" इति चिणः प्रतिषेधः॥ “झलो झलि" इति सलोपः॥ तेन रामेणायतं दीर्घं न्यश्वासि निश्वसितं च। श्वसेर्भावे लुङि "चिण्भावकर्मणोः” इति च्लेश्चिणादेशः। एतेन रौद्रस्थायिना क्रोधेन शोकस्तिरस्कृतः॥
 
 अथ श्नमधिकारः।
@@ -3856,8 +3367,6 @@ K. P. TRIVEDI
 क्षुणद्मि सर्पान्पाताले छिनद्मिक्षणदाचरान्॥३६॥**
 
 [^284]: "c.and B.read the verse as follows:- रुणध्मि सवितुर्मार्गं &c. रिणच्मि जलधस्तोयं &c. D. reads it as under :- रुणध्मिसवितुर्मागं &c. क्षुणद्मि सर्पान् पाताले &c."
-
-
 
  ३६.
 
@@ -3889,8 +3398,6 @@ K. P. TRIVEDI
 
 यक्षाणां भूतिंकुबेरसंपदमित्यर्थः। तृणद्मि हिनस्मि। तृदि हिंसायाम्। इन्द्रस्य विक्रमं हिनस्मि नाशयिष्यामीत्यर्थः। हिसि हिंसायाम्। सर्वमर्यादाः व्यवस्थाः भनज्मि भङ्क्ष्यामी-
 
-
-
 त्यर्थः। भञ्जो आमर्दने। व्योम्नो विस्तृतिं महत्ताम्। स्तृञ् आच्छादने इति ह्रस्वान्तात्सौवादिकात् स्त्रियां क्तिन्। न तु क्रैयादिकाद्दीर्घान्तात्। तस्य स्तीर्णीरिति स्यात्। तनच्मि संकोचयिष्यामि। तञ्चु संकोचने॥ “श्नान्नलोपः"॥
 
 न तृणेह्मीति लोकोऽयं मां[^288] विन्त्तेनिष्पराक्रमम्।  
@@ -3921,8 +3428,6 @@ K. P. TRIVEDI
 
 सुमित्रायां भवतीति सुमित्राभूः सौमित्रिः॥ “क्विप् च" इति क्विप्॥ क्षत्रस्येदं क्षात्रं तेजः प्रतापं विवृण्वन्तं पूर्वोक्तगर्जनेन प्रकटयन्तम्। अत एव दिधक्षन्तं दग्धुमिच्छन्तम्। दहेः सन्नन्ताल्लटः शत्रादेशः। घत्वादिकार्यम्। अनलमग्निमिव स्थितं
 
-
-
 जगतः क्षयं जगत्संहारं चिकीर्षुं कर्त्तुमिच्छन्तं रामं न्यवर्त्तयत् न्यवारयत्॥
 
 ऐक्षेतामाश्रमादाराद्गिरिकल्पं पतत्रिणम्।  
@@ -3951,8 +3456,6 @@ K. P. TRIVEDI
 
 हे राम मावधिष्ठाः मा वधीरित्यर्थः। अत्राङ्प्रश्लेषादाङ्पूर्वाद्धन्तेरकर्मकात् "आङो यमहनः" इत्यात्मनेपदम्॥ “आत्मनेपदेष्वन्यतरस्याम्” इति वधादेशः॥ अवध्यत्वे हेतुमाह। मां जटायुषं विद्धीति शेषः। यस्ते पितृसखो न त्वन्य इति भावः। हिंसार्थो वधिरयं प्रकृत्यन्तरमिति पक्षेऽप्यात्मनेपदं चिन्त्यम्। मा
 
-
-
 बाधिष्ठा इति पाठान्तरकल्पनं च साहसमेव। मा बन्धिष्ठा इति जयमङ्गलाकारकल्पितपाठस्तु पापिष्ठः। बध्नातेरनात्मनेपदित्वादर्धविरोधाच्चेति। अहं सीतामैक्षिषि अद्राक्षम्। ईक्षतेः कर्त्तरि लुङि तङि सिच इट्। एवं पक्षिणोक्ते राघवो रामः पितुः सखायं तं जटायुषमुपास्थित सङ्गतः॥ “उपाद्देवपूजा—" इत्यादिना संगतकरणे तङ्॥ "स्थाध्वोरिच्च"॥ "ह्रस्वादङ्गात्” इति सलोपः॥
 
 **त[^296], E2,E3,B.पप्रच्छ जानकीवार्त्तां &c. ततो रावणमाख्याय &c.")तो रावणमाख्या[^297]य द्विषन्तं पततां वरः।  
@@ -3978,8 +3481,6 @@ K. P. TRIVEDI
 तस्येति॥
 
 तौ रामलक्ष्मणौ तस्य जटायोरग्न्यम्बुनोः क्रियामग्निदाहमुदकदानं च कृत्वा विषादं खेदमीयिवांसौ प्राप्तौ॥ "उपेयिवान्—" इति निपातः॥ पुनर्भूय इतस्ततो विचिन्वानौसीतामन्विष्यन्तौ वनं प्रति प्रतस्थाते प्रस्थितौ। तिष्ठतेर्लिट्॥ “समवप्रविभ्यः स्थः" इति तङ्॥
-
-
 
 **सत्वानजस्रं घोरेण वनाकर्षं[^299] समश्नता।  
 क्षुध्यता जगृहाते तौ रक्षसा दीर्घबाहुना॥४५॥**
@@ -4016,8 +3517,6 @@ K. P. TRIVEDI
 
  ४७. अथ कृत्याधिकारः। ते च प्राड्ण्वुलीयास्तव्यादयः। तानेवोदाहरति। प्रष्टव्यमिति॥ **रघूत्तमो रामः कस्त्वं किमीयः कुतो वनवासः किं**
 
-
-
 ते कार्यमिति यत्प्रष्टव्यम्। व्रश्चादिना षत्वे ष्टुत्वम्। तत्सर्वं पृच्छतोऽनुयुञ्जानस्य देवभूयं गतस्य तस्य कबन्धस्य कथनीयं वक्तव्यम्॥ "तव्यत्तव्यानीयरः" इति क्रमात्तव्यानीयरौ प्रत्ययौ॥ आत्मानं रामं दाशरथिमित्यर्थः। पित्रादेशाद्वनवासम्। जेयं जेतव्यम्॥ "अचो यत्" इति यत्प्रत्ययः॥ अरिं सीताहारिणं च अवीवचदवोचत्। वच परिभाषणे इति धातोश्चौरादिकात् स्वार्थण्यन्ताण्णौ चङयुपधाह्रस्वः॥
 
 **लभ्या कथं नु वैदेही शक्यो द्रष्टुं कथं[^304] रिपुः[^305]।  
@@ -4053,8 +3552,6 @@ K. P. TRIVEDI
 
 [^309]: "सुदुर्गमाम्बा,T2,T3,T4"
 
-
-
  ५०.
 
 तवेति॥
@@ -4076,8 +3573,6 @@ K. P. TRIVEDI
 राक्षसं क्रूरकर्माणं शक्रारिं दुरवासिनम्॥५२॥**
 
 [^311]: "भव्येन T3."
-
-
 
  ५२.
 
@@ -4105,8 +3600,6 @@ K. P. TRIVEDI
 
 हे राम आर्येण अर्तुमर्हेण संगत्यर्हेण। ऋ गतौ॥ 'ॠहलोर्ण्यत्"।अर्यस्येदं प्रत्युदाहरणम्। तेन सुग्रीवेण। न जीर्यतीति जर्यमनपायि॥ "अजर्यंसंगतम्” इति संगतविषये जीर्यतेर्नञ्पूर्वात्कर्त्तरि यत्प्रत्ययान्तो निपातः॥ संगतं संगतिं सख्यमित्यर्थः। भावे क्तः। द्रुतं क्षिप्रं कुरु। 'अजर्यमार्यसंगतम्'।'अजर्यंनोऽस्तु संग-
 
-
-
 तम्'।'अजरिता कम्बलः' इति वृत्तौ उदाहरणप्रत्युदाहरणयोर्विशेषणविशेष्यभावावगमात् अजर्यंसङ्गतमिति तथैव प्रयुक्तम्। कालिदासेन तु पर्यायत्वदृष्ट्या 'मृगैरजर्यंजरसोपदिष्टम्' इति कैवल्येन प्रयुक्तम्। अथवा तत्रापि सङ्गतमिति शेष इत्यास्तां तावत्। ततः सुग्रीवसंगत्या लङ्कां प्राप्य पापं क्रूरं दशग्रीवं हनिष्यसि॥
 
 **अनृतोद्यं न तत्रास्ति सत्यवद्यं ब्रवीम्यहम्[^313]।  
@@ -4131,8 +3624,6 @@ K. P. TRIVEDI
 
 किं च वृत्येन त्वया मित्रत्वेन वरणीयेनेत्यर्थः। जुष्येण हनूमदादिना सेव्येन परिवारवतेत्यर्थः। तेन सुग्रीवेण संगतस्त्वमादृत्यः तेषां सुग्रीवादीनामादरणीयः सत्करणीयः स्तुत्यः स्तोतव्यश्च तथा शिष्येण शासनीयेनान्तेवासिना॥ “शास इदङ्हलोः" इतीकारः॥गुरुवद्गुरुरिव इत्य एतव्योऽनुगम्यश्च सन्॥ “एतिस्तुशास्वृदृजुषः क्यप्” इति सर्वत्र क्यपि यथायोगं तुगागमो गुणप्रतिषेधश्च द्रष्टव्यः। गृध्यमभिकाङ्क्ष्यमर्थंरावणवधसीताप्राप्तिलक्षणमीप्सितार्थम्॥ "ऋदुपधाच्चाक्लृपिचृतेः" इति क्यप्॥ अवाप्स्यसि प्राप्स्यसि॥
 
-
-
 **नाखेयः सागरोऽप्यन्यस्तस्य सद्भृत्यशालिनः।  
 मन्युस्तस्य त्वया मार्ग्योमृज्यः शोकश्च तेन ते॥५७॥**
 
@@ -4155,8 +3646,6 @@ K. P. TRIVEDI
 रत्नान्नपानकुप्यानामाटतुर्नष्टसंस्मृती॥५९॥**
 
 [^315]: "अङ्गुष्ठपच्याः E3.."
-
-
 
  ५९.
 
@@ -4188,8 +3677,6 @@ K. P. TRIVEDI
 
 **प्रगृह्य पदवत् साध्वीं स्पष्टरूपामविक्रियाम्।  
 अगृह्यांवीतकामत्वाद्देवगृह्यामनिन्दिताम्॥६२॥**
-
-
 
  ६२.
 
@@ -4225,8 +3712,6 @@ K. P. TRIVEDI
 
 अथ स रामस्तां शबरीमूचे। यदूचे तदेव सप्तभिराह। हे भद्रे। अमा सह वसतोऽस्यां सूर्याचन्द्रमसावित्यमावस्या अमावास्या॥ "अमावस्यदन्यतरस्याम्" इत्यमाशब्दपूर्वाद्वसेः विकल्पेन निपातनादधिकरणार्थे ण्यत्। तस्याः समन्वये समागमे अपाक्यैर पचनीयैरनग्निपक्वैरित्यर्थः॥ "ऋहलोर्ण्यत्"॥ "चजोः कु–" इति
 
-
-
 कुत्वम्॥ स्वादुभिः रुच्यैः फलैः पितॄणां कार्यं पितृकृत्यं श्राद्धकर्म।पूर्ववण्ण्यत्। कुरुषे कच्चित्॥
 
 **अवश्यपाव्यं पवसे[^323] कच्चिच्वं देवभाग्घविः।  
@@ -4260,8 +3745,6 @@ K. P. TRIVEDI
 
 ॥ हे महोदये पुण्ये धर्माय द्रुह्यतीति धर्मद्रोही धर्मविधातकः॥ "प्रणाय्योऽसंमतौ” इति निपातः॥ देवकार्यविघाताय ते तव
 
-
-
 निकाय्यं निवासम्॥ "पाय्यसांनाय्य—" इत्यादिना वासार्थे निपातः॥ 'निकाय्यनिलयालयाः' इत्यमरः। नाधितिष्ठति कच्चित्॥
 
 कुण्डपाय्य[^325]वतां कच्चिदग्निचित्यावतां तथा।  
@@ -4289,8 +3772,6 @@ K. P. TRIVEDI
 नायस्यसि तपस्यन्ती गुरून्सम्यगतूतुषः।  
 यमान्नोदविजिष्ठास्त्वं निजाय तपसेऽतुषः॥७०॥
 
-
-
  ७०.
 
 नेति
@@ -4316,8 +3797,6 @@ K. P. TRIVEDI
 [^329]: " तव सख्यस्य T2,T3,T4."
 
  ७२. कृत्सु कृत्यान्भावकर्मार्थानुक्त्वा कर्त्रर्थान् ण्वुलादीन्निरुपपदानधिकृत्याह सख्यस्येति॥ हे राम कपीनां नन्दनो नन्दयिता। नन्द्यादित्वाल्ल्युः। सुग्रीवस्तव सख्यस्य सखित्वस्य॥ “सख्युर्यः"॥ कर्मणि षष्ठी। कारकः कर्त्ता सख्यं करिष्यतीत्यर्थः। द्रुतं क्षिप्रमेव मैथिल्याः सीतायाः द्रष्टा पश्यन् असि भविष्यसीत्यर्थः। वर्त्तमानसामीप्ये लट्। कृद्दशिभ्यां
-
-
 
 क्रमात् "ण्वुल्तृचौ” इति ण्वुल्तृचौ। इत्युक्त्वा सा शबरी तिरोऽभवत्तिरोभूता॥
 
@@ -4356,8 +3835,6 @@ K. P. TRIVEDI
 
 ॥ ताराणां नक्षत्राणां परिभावीनि तिरस्कारीणि। ततोऽपि रमणीयानीत्यर्थः। चेतसां विरहिचित्तानां मन्थन्तीति मन्थीनि प्रमाथीनि। मन्थेर्भौवादिकस्येदित्वान्नुमागमः। उद्भासीनि विकासीनि।
 
-
-
 सर्वत्र "नन्दिग्रहि—" इत्यादिना ग्रह्यादित्वाण्णिनिः। जले जातानि॥ जलेजानि॥ "सप्तम्यां जनेर्डः"॥ "तत्पुरुषे कृति बहुलम्" इत्यलुक्॥ अदयितं दयिताविरहिणं जनं दुन्वन्ति तपन्ति। दुदु उपतापे। लट्। स्वादिभ्यः श्नुः।
 
 **सर्वत्र दयिताधीनं सुव्यक्तं रामणीयकम्।  
@@ -4383,8 +3860,6 @@ K. P. TRIVEDI
 पक्षिभिरिति
 
 ॥ यो न जानातीत्यज्ञो विषयरसानभिज्ञः। अज्ञस्य वायस्य। प्रीणयतीति प्रियः प्रीतिकरः प्रेमास्पदीभूतः। जनो नास्ति स एव यूनां तरुणानाम्। कर्मणि षष्ठी। वितृन्दन्तीति वितृदाःहिंसकाः। इगुपधलक्षणः कः प्रत्ययः। तैः पक्षिभिः कोकिलादिभिः। उत्किरन्ति विक्षिपन्तीत्युत्किराः॥ सर्वत्र “इगुपधज्ञाप्रीकिरः कः"॥ कुसुमानामुत्किराः पुष्पवर्षिणः। कर्मणि षष्ठीसमासः। तैः शाखिभिः वृक्षैश्च। व्रीह्यादित्वादिनिः। प्रकर्षेण ग्लायत इति प्रग्लः प्रग्लानः क्षीणहर्षो न भवेत्। अभिज्ञः प्रियजनवांश्च ग्लायत्येवैतैरित्यर्थः॥ "आतश्चोपसर्गे" इति कप्रत्ययः॥
-
-
 
 **ध्वनीनामुद्धमैरेभिर्मधूनामुद्धयैर्भृशम्।  
 आजिघ्रैःपुष्पगन्धानां पतङ्गैर्ग्लपिता[^337] वयम्॥७८॥**
@@ -4421,8 +3896,6 @@ K. P. TRIVEDI
 
 ॥ मादृग्भ्यो मादृशेभ्यः वियोगिभ्यः। त्यदादिसूत्रे चकारा हृशेः क्विन्प्रत्ययः। दुःखस्य। ददतीति ददैर्दायकैः॥ “ददतिदधात्योर्विभाषा" इति विकल्पात्कर्त्तरि शप्रत्ययः। उत्तममुत्कृष्टमामोदं सौरभम्॥ दधतीति धायैः दधानैः॥ “ददातिदधात्योः—" इति शाभावपक्षे
 
-
-
 आकारान्तत्वात् "श्याद्व्यध—" इत्यादिना णप्रत्यये युगागमः॥ "कर्तृकर्मणोः कृति" इत्यत्र शेषत्वविवक्षायामेव षष्ठीविधानादिह तदविवक्षायामामोदमिति कर्मणि द्वितीया। तनोर्देहस्य। लिम्पन्तीति लिम्पैरिव तनुं लिम्पद्भिरिव स्थितैः॥ “अनुपसर्गाल्लिम्प–” इत्यादिना शप्रत्ययः। वातैः कः। चेतयतीति चेतनः प्राणी॥ "अनुपसर्गात्—" इत्यादिनैव चेतयतेः शप्रत्ययः। ज्वलयतीति ज्वलः प्रज्वलनात्मको न स्यात्। सर्वोऽपि स्यादेवेत्यर्थः॥ "ज्वलितिकसन्तेभ्यो णः” इति णविकल्पात्पचाद्यच्॥
 
 **अवश्यायकणास्रावाश्चारुमुक्ताफलत्विषः।  
@@ -4455,8 +3928,6 @@ K. P. TRIVEDI
 [^344]: "कोऽप N.,C.,E2,E3,c.,T1,T."
 
 [^345]: "येनाहं बत स्यां विगत T2,T3,T4."
-
-
 
  ८३.
 
@@ -4497,8 +3968,6 @@ K. P. TRIVEDI
 
 [^351]: " ॰मृश्यमूक° T2,T4,T,G,Com."
 
-
-
  ८६.
 
 एकैति
@@ -4534,8 +4003,6 @@ K. P. TRIVEDI
 
 [^355]: "कपिकुञ्जरम् T2."
 
-
-
  ८९.
 
 शर्मदमिति
@@ -4563,8 +4030,6 @@ K. P. TRIVEDI
 सुरापैरिति
 
 ॥ पवनेनाहतैराकम्पितैरत एव सुरां पिबन्तीति सुरापाः मद्यपास्तैरिव घूर्णद्भिस्तद्वद्भ्रमद्भिःशाखिभिर्वृक्षैरुपलक्षितम्। किं च भृङ्गैःसामानि गायन्तीति सामगास्तैरिव प्रगीतमुपगीतमृश्य-
-
-
 
 मूकमगात् गतः॥ “गोपोष्टक्” इति गायतेः पिबतेश्च टक्॥ सुरापैरित्यत्र "सुराशीध्वोः पिबतेरिति वक्तव्यम्” इति धातूपपदनियमः॥
 
@@ -4599,8 +4064,6 @@ K. P. TRIVEDI
 
 ॥ पुनर्गुहासु शेरत इति गुहाशयैः॥ “अधिकरणे शेतैः” इत्यच्प्रत्ययः॥ क्रूरैर्हिस्त्रैर्निशासु चरन्तीति निशाचराः॥ "चरेष्टः" इति टः॥ सह तैः सनिशाचरैः क्रव्यमदन्तीति क्रव्याद्भिः राममांसभ-
 
-
-
 क्षकैः सिंहव्याघ्रादिभिः व्याप्तम्॥ "क्रव्ये च" इत्यत्तेरण्बाधेनविट्प्रत्ययः॥ तुङ्गशृङ्गः उच्चशिखरः स चासौतरुच्छन्नश्च तमत एव मानुषाणामगोचरममुमद्रीन्द्रमिति पूर्वेण संबन्धः॥
 
 अथ खशादिप्रत्ययाधिकारः।
@@ -4627,8 +4090,6 @@ K. P. TRIVEDI
 ऐव चिद्वन्पितुः कामात्पान्तावल्पम्पचान्मुनीन्॥९७॥
 
 [^360]: "रामोऽवदद्ध॰ T3, Com. E3, reads the verse thus:— ऐव विद्वन्धितुः &c, रामोऽवोच्चद्धन् &c."
-
-
 
  ९७.
 
@@ -4658,8 +4119,6 @@ K. P. TRIVEDI
 
 मरुः तुदतीत्यरुन्तुदेन मर्मभेदिना॥ "विध्वरुषोस्तुदः" इति खश्॥ "अरुर्द्विषत्—" इत्यादिना मुमागमे संयोगान्तलोपः॥ रक्षसा रावणेन सूर्यं न पश्यतीत्यसूर्यंपश्या किमुतान्यमित्यतिगोप्येत्यर्थः। नञः सूर्यसंबन्धे वैरस्यादसमर्थस-
 
-
-
 मासेऽपि दृशिनैवेष्यते॥ "असूर्यललाटयोर्दृशितपोः" इति खशि मुमागमः॥ पाघ्रादिना दृशेः पश्यादेशः। तया मूर्त्त्याउपलक्षिता नोऽस्माकं दयिता छलेन मायया मृगच्छद्मना अरण्याद्धृता। तां मृगयावहे अन्विष्यावहे। मृग अन्वेषणे। स्वार्थण्यन्तः॥
 
 प्रत्यूचे मारुती राममस्ति वालीति वानरः।  
@@ -4676,8 +4135,6 @@ K. P. TRIVEDI
 सख्या तेन दशग्रीवं निहन्तासि द्विषन्तपम्॥१०२॥
 
  १०२. प्रियवंद इति॥ × × × × × × हे राम द्विषतः परांस्तापयतीति द्विषन्तपं महावीरमपीत्यर्थः। पूर्ववत्खचि मुमागमे संयोगान्तलोपः। दशग्रीवं निहन्तासि हनिष्यसि। निपूर्वाद्धन्तेर्लुटि सिप्॥ "जासिनिप्रहण—" इत्यत्र संघातविगृहीतविपर्यस्तग्रहणेऽपि शेषत्वविवक्षायामेव षष्ठीविधानादिह तदविवक्षायां कर्मणि द्वितीयैव॥
-
-
 
 वाचंयमोऽहमनृते सत्यमेतद्ब्रवीमि ते।  
 एहि सर्वंसहं मित्रं सुग्रीवं कुरु वानरम्॥१०३॥
@@ -4702,8 +4159,6 @@ K. P. TRIVEDI
 [^364]: "प्रत्यालोचयतां T3, E2, D."
 
 [^365]: "॰मुभौ B."
-
-
 
  १०६.
 
@@ -4735,8 +4190,6 @@ K. P. TRIVEDI
 
 ॥ ततः कपिचेष्टादर्शनानन्तरं कपिः सुग्रीवः बलिं दमयतीति बलिन्दमो बलिध्वंसो विष्णुः तद्वत्प्रख्याति प्रकाशत इति तत्प्रख्यम्॥ "आतश्चोपसर्गे” इति कः॥ विश्वं बिभर्त्तीति विश्वम्भरा भूः। उभयत्रापि "संज्ञायां भृतृवृजि—" इत्यादिना खच्। तस्या अधिकं पातीत्यधिपः। पूर्ववत्कः। रामं वालिनो युधि विक्रमं प्राब्रवीत् रामाय प्रोवाचेत्यर्थः। अकथितकर्मत्वविवक्षायां द्वितीया॥
 
-
-
 वसुन्धरायां कृत्स्नायां नास्ति वालिसमो बली।  
 हृदयङ्गममेतत्त्वां[^369]ब्रवीमि न पराभवम्॥१०९॥
 
@@ -4759,8 +4212,6 @@ K. P. TRIVEDI
 [^371]: "वरेणात्र T3."
 
  १११. तथापि वालिबलं विचिन्त्य शङ्कते मे हृदयंमित्याह श्लोकद्वयेन वरेणेत्यादिना॥ असि त्वं महावीरः किंतु वाली रणे दस्युहः दस्यून् शत्रून वध्यात्। 'दस्युशात्रवशत्रवः' इत्यमरः॥ “आशिषि हनः" इत्याशीरर्थे हन्तेर्डप्रत्ययः॥ इति मुनेर्बह्मणो वरेणानुग्रहेण प्रातर्दिनादौ
-
-
 
 उद्यन्नुदयमानः। उत्पूर्वादिणो लटः शत्रादेशः। तमांस्यपहन्तीति तमोपहः सूर्यः॥ "अपेः क्लेशतमसोः" इति हन्तेरपपूर्वात् डप्रत्ययः॥ स इवावार्यप्रसरो दुर्वारगतिः सञ्जातः॥
 
@@ -4793,8 +4244,6 @@ K. P. TRIVEDI
 
 [^378]: "जय्यो ह्युपायवान् Com. जय्योऽप्युपायवान् noticed by c."
 
-
-
  ११४.
 
 पुनःश्लोकत्रयेण वालिबलमेव प्रकटयन्नाह शत्रुघ्नानिति॥
@@ -4818,8 +4267,6 @@ K. P. TRIVEDI
 प्रियम्भावुकतामिति
 
 ॥ किं च मृतं तं महिषं योजनं योजनदूरं क्षिपन् किरन् अप्रियः प्रियो भवन् प्रियम्भावुकः तस्य भावस्तत्तां यातः। किं च शक्तोऽपि कृत्स्नमबाधयन् किञ्चिदप्यपीडयन्। बाधेश्चौरादिकाल्लटः शत्रादेशः। स्वर्गे अप्रियः प्रियो भवन् प्रियम्भविष्णुः प्रियो जात इत्यर्थः॥ "आढ्यसुभग—" इत्यनुवृत्तौ "कर्त्तरि भुवः ख्निष्णुच् खुकञौ" इति भवतेः कर्त्रर्थे यथायोगमुभौ प्रत्ययौ॥
-
-
 
 जिज्ञासोः शक्तिमस्त्राणां रामो न्यूनधियः कपेः।  
 अभिनत्प्रतिपत्त्यर्थं सप्त व्योमस्पृशस्तरून्॥११७॥
@@ -4852,8 +4299,6 @@ K. P. TRIVEDI
 
 संख्ये युद्धे भियो भयस्य युङ् योक्ता शत्रुभीषण इत्यर्थः। कर्मणि षष्ठी॥ "ऋत्विक्—" इत्यादिना युजेः क्विन्॥ “युजेरसमासे" इति नुमि संयोगान्तलोपः। कुत्वे नकारस्य ङकारः। वाली सिंहो मृगमिव भ्रातरं सुग्रीवं द्युवन्नभिगमिष्यन्। द्यु अभिगमने इति धातोर्वर्त्तमानसामीप्ये लटि शपो लुक्। लटेः शतर्युवङादेशः।
 
-
-
 घोषेण सिंहनादेन दिशः। "ऋत्विक्—" इत्यादिना क्विन्नन्तो निपातः॥ आपूरयन् गुहाया निरगान्निर्गतः॥
 
 व्यायच्छमानयो[^381]र्मूढो भेदे सदृशयोस्तयोः।  
@@ -4881,8 +4326,6 @@ K. P. TRIVEDI
 ऋश्यमकमिति
 
 ॥ कपिः सुग्रीवः किं किं दधातीति किष्किन्धा गुहा॥ "आतोऽनुपसर्गे कः"॥ स्त्रीत्वाट्टाप्। पारस्करादित्वात्सुडादिनिपातः। तस्या अद्रिः तत्र सीदति इति तत्सदा तद्वासिना वालिना॥ "सत्सूद्विष—" इति क्विप्॥ अत्यर्थं निष्पिष्टो निष्पीडितः अत एव क्लान्तः श्रान्तः अत एव कोष्णमीषदुष्णं यथा तथा॥ "कवं चोष्णे" इति कोः कादेशः॥ उच्छ्वसन् मृगेण सदृक् सदृशं यथा तथा। पूर्वोपसंख्यानादेव समानोपपदाद्दृशेः क्विन्। शेषं सर्वंपूर्ववत्। द्रुतं क्षिप्रमृश्यमूकमगात्॥
-
-
 
 कृत्वा वालिद्रुहं रामो मालया सविशेषणम्।  
 अङ्गदस्वं पुनर्हन्तुं कपिनाह्वाययद्रणे॥१२२॥
@@ -4914,8 +4357,6 @@ K. P. TRIVEDI
 
 ——————————————————————–——————————————————Verses 124 and 125 are found only in T2, T3, T4, and T.,G., and Com.
 
-
-
 इति कपि घकारश्चान्तादेशः। शूराणामग्रे गच्छतीत्यग्रेगावा अग्रगामी॥ "अन्येभ्योऽपि दृश्यन्ते" इति गमेर्वनिप्॥ “विड्वनोरनुनासिकस्याऽऽत्” इत्यात्वम्॥ सर्वविद्विषाम्। कर्मणि षष्ठी। अभिभवतीत्यभिभूरभिभविता॥ “क्विप् च" इति भवतेः क्विप्॥ शमि सुखे तिष्ठतीति शंस्थः सुखैकवृत्तिः॥ “स्थः क च" इति तिष्ठतेः कप्रत्ययः। तद्रूपं स्वरूपं यस्य सः शंस्थरूपः सुखपरायण इत्यर्थः। स्थिरप्रज्ञः स महाकपिः वाली जविना वेगवता तेन बाणेन विद्धः सन् क्रव्यमदन्तीति क्रव्यादो मांसभक्षकाः गृध्रगोमायुप्रभृतयः॥ "क्रव्ये च" इति विट्प्रत्ययः॥ तेषां त्रासकं भयकरं यथा तथा नादं कुर्वन् उच्चैः क्रोशन् सहसा भुवि पपात॥
 
 वालिनं पतितं दृष्ट्वा वानरा रिपुघातिनम्।  
@@ -4937,8 +4378,6 @@ K. P. TRIVEDI
 धिगिति
 
 ॥ वने वर्त्तन्ते शास्त्रतो नियमादिति वनवर्तिनः॥ "व्रते" इति णिनिः॥ मुनयः तत्रत्याः वानप्रस्थाः। दाशरथिं रामं धिगित्यूचुः। निरपराधवधात्करुणया निनिन्दुरित्यर्थः। मधु पिबन्त्यभीक्ष्णमिति मधुपायिन्यो नित्यभोगिन्यः दुःखलेशानभिज्ञा इत्यर्थः॥ 'बहुलमाभीक्ष्ण्ये" इत्याभीक्ष्ण्ये णिनिः॥ कपिस्त्रियो वाल्यवरोधाङ्गनाः क्रोशन्त्यो विलपन्त्यस्तं वालिनमुपेयुः उपसेदुरित्यर्थः॥
-
-
 
 राममुच्चैरुपालब्ध शूरमानी कपिप्रभुः।  
 व्रणवेदनया ग्लायन् साधुम्मन्यमसाधुवत्॥१२८॥
@@ -4968,8 +4407,6 @@ K. P. TRIVEDI
 पापकृदिति
 
 ॥ हे राम दुराचार पुण्यकृतः पुण्यं कृतवतो राज्ञो दशरथस्य सुतस्तथापि पापकृत् पापं कृतवांस्त्वमपापमनपराधं मां निहत्य सुकृतां साधुकारिणां मध्ये॥ "सुकर्मपापमन्त्रपुण्येषु कृञः" इति सर्वत्र भूते क्विप्॥ किमभिधास्यसि। अकार्यकारिणः सभामध्ये वक्तुं जिह्वा कथं प्रवर्त्तेतेत्यर्थः॥
-
-
 
 **अग्निचित्सोमसुद्राजा रथचक्रचिदादिषु।  
 अनलेष्वि[^388]ष्टवान् कस्मान्न[^389]त्वया[^390]पेक्षितः पिता॥१३१॥**
@@ -5006,8 +4443,6 @@ K. P. TRIVEDI
 
 [^394]: "ध्रुवन् D."
 
-
-
  १३३.
 
 बुद्धीति
@@ -5033,8 +4468,6 @@ K. P. TRIVEDI
 कथमिति
 
 ॥ स्वयं धर्मे दुष्ठु तिष्ठतीति दुःस्थः अप्रतिष्ठितः॥ "आतश्चोपसर्गे" इति कर्त्तरि कप्रत्ययः। त्वं प्रजाः जनान्॥ ‘प्रजा स्यात्सन्ततौ जने' इत्यमरः॥ "उपसर्गे च संज्ञायाम्” इति जनेर्डः॥ कथं पालयिष्यसि। स्वयमधार्मिकः स्वप्रतिबन्ध्यैवोच्छृङ्खलवृत्तीः प्रजाः कथं नियन्तुं शक्नुयादित्यर्थः। किं चात्मानमनुजातः आत्मानुजः॥"अनौ कर्मणि" इति ङः॥ तस्य सौमित्रेर्लक्ष्मणस्य
-
-
 
 वा कथं न जिह्वेषि लक्ष्मणात्कथं न लज्जस इत्यर्थः। संबन्धसामान्ये षष्ठी ॥
 
@@ -5063,8 +4496,6 @@ K. P. TRIVEDI
 ते हि जालैर्गले पाशैस्तिरश्चामुपसेदुषाम्।  
 ऊषुषां परदारैश्च सार्धं निधनमैषिषुः॥१३८॥
 
-
-
  १३८.
 
 किं तैः कृतं तदाह॥
@@ -5090,8 +4521,6 @@ K. P. TRIVEDI
 भूतार्थे कृदन्तानुदाहृत्य सूत्रक्रमेण तिङन्तानुदाहरति॥
 
 अन्विति॥ ततो रामवाक्यानन्तरं वाली त्रपावानिव किञ्चिल्लज्जितः सन्नित्यर्थः राघवमन्वनैषीत् अज्ञोऽयं जनः क्षम्यतामित्यनुनीतवानित्यर्थः। नयतेः "लुङ्” इति भूते लुङि च्लेः सिचीट्॥ प्रियं तनयमङ्गदं यत्नादभिनिवेशात्काकुत्स्थे रामे न्यक्षिपत् रक्ष्योऽयमिति हस्ते न्यस्तवानित्यर्थः। अनद्यतनभूते लङ्॥
-
-
 
 म्रियमाणः स सुग्रीवं प्रोचे सद्भावमागतः।  
 संभविष्याव एकस्यामभिजानासि मातरि॥१४१॥
@@ -5125,8 +4554,6 @@ K. P. TRIVEDI
 न चेदं श्मशानवैराग्यमिति मन्तव्यं दैवस्य दुरतिक्रमत्वादित्याह दैवमिति
 
 ॥ नूनमवश्यं देवमेवावयोः युगपत्सुखं सहोपभोगसुखं न विदधे॥
-
-
 
 “परीक्षे लिट्”॥ तथाहि तद्दैवं शश्वत् सदा दुस्थं प्रतिकूलं बभूव अभवत्॥
 “हशश्वतोर्लङ् च” इति चकाराच्छश्वच्छब्द उपपदे भूतानद्यतनपरोक्षे लिट्॥
@@ -5169,15 +4596,11 @@ K. P. TRIVEDI
 
 ॥वानरेन्द्रः सुग्रीवः समन्तात् कपिभिः हनूमदादिभिः नामग्राहं नाम गृहीत्वा॥“नान्यादिशिग्रहोः”इति णमुल्प्रत्ययः॥अशनैरमन्दं स्तूयमानः प्रशस्यमानः। स्तौतेः कर्मणि लटि “लक्षणहेत्वोः क्रियायाः” इति शानच्॥ रघुवृषभयो रामलक्ष्मणयोरन्वग्भाव–
 
-
-
 मन्वग्भूत्वा अनुकूलीभूयेत्यर्थः॥ “अन्वच्यानुलोम्ये” इति भवतेः णमुल्प्रत्ययः॥ अत एव विराजन् दीप्यमानः। लक्षणे शत्रादेशः। अम्भःपतनसमये वर्षाकाले अभ्यर्णे आसन्ने सति वर्णलाः वर्णवन्तः॥ “सिध्मादिभ्यश्च” इति मत्वर्थे लच्॥ ततश्च्विः। वर्णलीभूताः सानवो यस्य तं मधुक्षीबाः मकरन्दमत्ताः कूजन्तो गुञ्जन्तः द्विरेफाः यस्य तं किष्किन्धाद्रिंतदाश्रयमद्रिं न्यविशत प्राविशत् प्रविष्टः। निपूर्वाद्विशेर्लङि “नेर्विशः” इति तङ्। मन्दाक्रान्ता वृत्तमेतत्॥
 
 इति भट्टिकाव्येऽधिकारकाण्डे वालिवधो नाम षष्ठः सर्गः॥
 
 इति श्रीपदवाक्यप्रमाणपारावारपारीणश्रीमहोपाध्यायकोलाचलमल्लिनाथसूरिविरचिते भट्टिकाव्यव्याख्याने सर्वपथीनाख्याने षष्ठः सर्गः॥
-
-
 
 ॥श्रीः॥
 
@@ -5203,8 +4626,6 @@ K. P. TRIVEDI
 [^407]: "अलङ्करिष्णुवद्भान्त॰ T., G., Com.,"
 
  ३. घनानेव विशिनष्टि। निरिति। भानुं निराकरिष्णवस्तिरस्कर्तारः॥ “न लोक—” इत्यादिना षष्ठीप्रतिषेधः॥ दिवमभितः समन्ताद्वर्त्तिष्णवः स्थायुकाः॥ “अभितःपरितः—”इत्यादिना द्वितीया॥ तडित्वन्तो॥
-
-
 
 विद्युत्वन्तः॥ “झयः”इति मतोर्वत्वम्॥ तडिद्योगादेवालङ्करिष्णुवत् आत्मानं दिशो वा अलंकर्त्तार इव भान्तः दीप्यमानाः। भातेः शत्रन्तः। चरिष्णवो भ्रमणशीलाः। सर्वत्र पूर्ववदिष्णुच्॥
 
@@ -5239,8 +4660,6 @@ K. P. TRIVEDI
 
 संज्वारिणा संज्वरशीलेन ज्वररोगिणेत्यर्थः। मया कर्त्रा आयासिना यातायातप्रयासशीलेन मनसा करणेन। द्रुह्यतीति द्रोही जिघांसुः खद्योतैर्ज्योतिकीटैः। ‘खद्योतो ज्योतिरिङ्गणः’ इत्यमरः। संपर्कि संसर्गि। नयनयोरामोषि संहारि ध्वान्तं मेघान्धकारं दुःसहमसह्यम्॥
 
-
-
 **कुर्वन्ति परिसारिण्यो विद्युतः परिदेविनम्।  
 अभ्याघातिभि[^409]रामिश्राश्चातकैः परिराटिभिः॥ ७॥**
 
@@ -5272,8 +4691,6 @@ K. P. TRIVEDI
 त्यागिनं सुखदुःखस्य परिक्षेप्यम्भसामृतुः॥ १०॥
 
 [^413]: "परिमोहिनम् C., N., T1, T2, T2, E3."
-
-
 
  १०.
 
@@ -5309,8 +4726,6 @@ K. P. TRIVEDI
 
 ॥ प्रलापिनः प्रलपनशीलाः अनर्थाराविण इत्यर्थः। प्रमाथिनः प्रमथनशीलाः कर्णकठोरत्वात्प्राणिमात्रपीडका इत्यर्थः। उभयत्र “प्रे लपसृद्रुमथवदवसः” इति घिनुण्। वियुक्तानां तु हिंसकाः घातुकाः॥ “निन्दहिंस—” इत्यादिना वुञ्प्रत्ययः॥ एते पापदर्दुराः दुष्टभेकाः। ‘दर्दुरस्तोयदे भेके’ इति विश्वः॥ कदा नु अपलाषिणोऽपलषणशीला वृथाभाषिणो भग्नकामाः भविष्यन्ति। लष कान्तौ॥ “अपे च लषः” इति घिनुण्प्रत्ययः॥
 
-
-
 **निन्दको रजनिम्मन्यं दिवसं क्लेशको निशाम्।  
 प्रावृष्यनैषीत्काकुत्स्थः कथंचित्परिदेवकः॥१३॥**
 
@@ -5339,8 +4754,6 @@ K. P. TRIVEDI
 विलोक्येति
 
 ॥ द्योतनं साधु द्योतमानम्॥ “अनुदात्तेत—" इत्यादिनैव युच्प्रत्ययः॥ चन्द्रं विलोक्य शोचनः शोकशीलः सन्। शोचनादयो गर्धनान्ताः “जुचङ्क्रम्य—" इत्यादिना युजन्ताः।
-
-
 
 लक्ष्मणमवदत्। दन्द्रम्यन्त इति दन्द्रमणान् कुटिलगमनशीलान्। द्रमु पादविक्षेपे इत्यस्मात् “नित्यं कौटिल्ये गतौ” इति यङि "नुगतोऽनुनासिकान्तस्य" इति नुक् अल्लोपयलोपौ॥ अरविन्देषु समुत्सुकान् कातुकिनः॥ "प्रसितोत्सुकाभ्यां तृतीया च" इति सप्तम्याः "सप्तमी" इति योगविभागात्समासः। हंसान् पश्य। शरदागमं पश्येत्यर्थः॥
 
@@ -5377,8 +4790,6 @@ K. P. TRIVEDI
 अतीते वर्षुके काले प्रमत्तः स्थायुको गृहे।  
 गामुको ध्रुवमध्वानं सुग्रीवो वालिना गतम्॥ १८॥
 
-
-
  १८.
 
 अतीत इति॥
@@ -5414,8 +4825,6 @@ K. P. TRIVEDI
 
 ॥ स्त्रीभ्यः स्पृहयालुं स्त्रीकामुकम्॥ "स्पृहेरीप्सितः" इति संप्रदानत्वम्॥ "स्पृहिगृहि—" इत्यादिना सर्वत्रा–
 
-
-
 लुच् प्रत्ययः। निद्रालुं स्त्रीभिः सह शयालुमनन्तरकर्त्तव्येष्वजागरूकं वा। श्रद्धालुं विषयाभिलाषिणम्। 'श्रद्धास्तिक्याभिलाषयोः'। इति यादवः। भ्रमरैः कृतं भ्रामरं क्षौद्रम्॥ "क्षुद्राभ्रमर—" इत्यादिना संज्ञायामञ्॥ "न लोक—" इत्यादिना षष्ठीप्रतिषेधः॥ धयतीति धारुं धातारं पातारमित्यर्थः। अद्रौ सीदतीति सर्द्रुसत्तारं स्थातारमित्यर्थः॥ “दाधेट्सिशदसदो रुः" इति धेटः सदेश्च रुप्रत्ययः। कपिं सुग्रीवं द्रुतमदयालुवन्निर्दयेन तुल्यं वद॥
 
 **सृमरोऽभङ्गुर[^427]प्रज्ञो गृहीत्वा भासुरं धनुः।  
@@ -5441,8 +4850,6 @@ K. P. TRIVEDI
 तमिति
 
 ॥ दन्दशूकाः हिंस्रा \।\। "यजजपदशां यङः" इति दंशेर्यङन्तादूकप्रत्ययः॥ तेषां रिपुं हन्तारमकम्प्रमकम्पसंस्थिरं दीप्रं दीप्यमानम्॥ "नमिकम्पि—” इत्यादिना सर्वत्र रप्रत्ययः॥ तं लक्ष्मणं कार्येषु स्वामिकृत्येषु जागरूकमप्रमत्तम्॥ “जागरूकः" इत्यूकप्रत्ययः॥ मारुतिर्वायुनन्दनो हनूमान् नम्रः प्रणतः सन् गुहां किष्किन्धाख्यां
-
-
 
 प्रावेशयत् प्रवेशितवान्। विशेर्हेतुमण्ण्यन्ताल्लङ्। प्रवेशनस्य गतिविशेषत्वात् "गतिबुद्धि—" इत्यादिना अणि कर्त्तुः कर्मत्वम्॥
 
@@ -5489,8 +4896,6 @@ K. P. TRIVEDI
 
 ॥ हे नाथ। अहं रामेण प्रत्तेषु दत्तेषु॥ "अच उपसर्गात्तः" इति घोस्तः॥ भोगेषु विषयेषु रतः सक्तः सन् विद्युन्नाशं विद्युतामु–
 
-
-
 परमं रवेर्भासः प्रकाशान्। विभ्राजते इति विभ्राट्॥ "भ्राजभास—” इत्यादिना सर्वत्र ताच्छील्ये क्विप्॥ तं शशलाञ्छनं च नाज्ञासिषम्। वर्षापगमं शरदागमं च न ज्ञातवानस्मि। 'मोहं विधत्ते विषयाभिलाषः' इति भावः॥
 
 **एष शोकच्छिदो वीरान् प्रभो सम्प्रति वानरान्।  
@@ -5523,8 +4928,6 @@ K. P. TRIVEDI
 
 वयमद्यैव गच्छामो रामं द्रष्टुं त्वरान्विताः।  
 कारका मित्रकार्याणि सीतालाभाय सोऽब्रवीत्॥ २९॥
-
-
 
  २९. पुनः स एवाह वयमिति॥ सीतालाभाय सीतां लब्धुम्॥ "भाववचनाश्च" इति तुमर्थे घञ्॥ "तुमर्थाच्च भाववचनात्" इति चतुर्थी॥ मित्रकार्याणि मित्रकृत्यानि कारकाः करिष्यन्तः कर्त्तुमित्यर्थः॥ "तुमुन्ण्वुलौ क्रियायां क्रियार्थायाम्” इति ण्वुल्प्रत्ययः॥ "अकेनोर्भविष्यदाधमर्ण्ययोः" इति षष्ठीप्रतिषेधः। रामं द्रष्टुम्॥ "तुमुन्ण्वुलौ—" इत्यनेनैव तुमुन्॥ त्वरया अन्विताः सन्तः वयमद्यैव गच्छामः इति सः सुग्रीवोऽब्रवीत्॥
 
@@ -5559,8 +4962,6 @@ K. P. TRIVEDI
 
 [^445]: "°त्यभिगम्य E2."
 
-
-
  ३२.
 
 कर्त्तास्मीति॥
@@ -5589,8 +4990,6 @@ K. P. TRIVEDI
 
 ततः कपिसमागमनानन्तरं सुग्रीवः। निष्कृष्य चीयत इति निश्चायो राशिः॥ "परिमाणाख्यायां सर्वेभ्यः" इति चिनोतेर्घञ्॥ एकनिश्चायमेकराशीभूतमागतम्। एकशब्दस्य "पूर्वकाल—" इत्यादिना समासः। कपिसमाहारं कपिसङ्घम्॥ "अकर्त्तरि च कारके संज्ञायाम्" इति घञि वृद्धिः। उपेत्याधीयतेऽस्मादित्युपाध्यायो गुरुरिव॥ "इङश्च" इति घञ्॥ दिशामायामं विस्तारक्लृप्तिम्। परिमाणाख्यायां घञ्। अध्यापिपत् बोधितवानित्यर्थः॥ "गतिबुद्धि—” इत्यादिना अणि कर्त्तुः कर्मत्वम्। इङो णौ चङि "क्रीङ्जीनां णौ” इत्यात्वे "अर्त्तिह्री—” इत्यादिना पुगागमः॥
 
-
-
 **सजलाम्भोद[^448]संरावं हनूमन्तं[^449] सहाङ्गदम्।  
 जाम्बव[^450]न्नीलसहितं चारुसन्द्रावमब्रवीत्॥३५॥**
 
@@ -5617,8 +5016,6 @@ K. P. TRIVEDI
 वनाभिलावान् कुर्वन्तः स्वेच्छया चारुविक्रमाः॥३७॥**
 
  ३७. उन्नायानिति॥ हे चारुविक्रमाः श्लाघ्यपराक्रमाः वसुधाभृतां गिरीणामुन्नायानुत्सेधान्॥ "अवोदोर्नियः" इति घञ्॥ प्रद्रावैः प्रकृष्टगतिभिः॥ "प्रेद्रुस्तुस्रुवः" इति घञ्॥ अधिगच्छन्तः आरोहन्तः स्वेच्छया वनानामभिलावानुत्सेधान्कुर्वन्तः सर्वत्र यातेति पूर्वेणान्वयः॥
-
-
 
 **सदोद्गारसुगन्धीनां फलानामलमाशिताः।  
 उत्कारेषु[^454] च धान्यानामनभीष्टपरिग्रहाः॥३८॥**
@@ -5647,8 +5044,6 @@ K. P. TRIVEDI
 
  ४०. आलोचयन्त इति॥ दक्षिणोदधेरम्भसामुदकानां विस्तारं परिणाहम्॥ "प्रथने वावशब्दे" इति घञ्॥ आलोचयन्त इयानिति रूपयन्तः। मुष्टीनां संग्राहः सम्यग्ग्रहणम्॥ "समि मुष्टौ" इति ग्रहेर्घञ्॥ तेन पीडितं निःसारितं फलरसं स्वादयन्तः॥
 
-
-
 **न्याय्यं यद्यत्र तत्कार्यं[^460] पर्यायेणाविरोधिभिः।  
 निशोपशायः कर्त्तव्यः फलोच्चायश्च संहतैः॥४१॥**
 
@@ -5666,8 +5061,6 @@ K. P. TRIVEDI
 
 [^461]: "निग्राहोऽप्यर्थवा॰ E2."
 
-
-
  ४३. सांराविणमिति॥ किं च वैदेही यावद्दर्शनं नायाति तावत्समन्ताद्रावः कलकलः सांराविणम्॥ "अभिविधौ भाव इनुण्” इति संपूर्वाद्रौतेरिनुण्प्रत्ययः॥ "अणिनुणः" इति ततोऽण्॥ "इनण्यनपत्ये" इति प्रकृतिभावात् "नस्तद्धिते" इति न टिलोपः॥ न कर्त्तव्यम्। वैदेह्यां संदृष्टायां तु वो युष्माकं संबन्धी अरेः। कर्मणि षष्ठी। निग्राहः आक्रोशः शपनमर्थवान् सफलो भवति॥ “आक्रोशेऽवन्योर्ग्रहः" इति निपूर्वाद्ग्रहेर्घञ्॥
 
 **प्रग्राहैरिव पात्राणामन्वेष्या मैथिली[^462]कृतैः।  
@@ -5683,8 +5076,6 @@ K. P. TRIVEDI
 [^463]: "वेष D., T., G., Com."
 
  ४५. वेदिवदिति॥ किं च वेद्या तुल्यं वर्त्तते वेदिवत् सपरिग्राहा स्थण्डिलशयनादिव्रतपरिग्रहवती। अन्यत्र 'वसवस्त्वापरिगृह्णन्तु' इत्यादिमन्त्रसाध्यपूर्वोत्तरपरिग्रहाख्यसंस्कारवती॥ "परौ यज्ञे" इति परिपूर्वाद्ग्रहेर्घञ्॥ यज्ञियैर्यज्ञा र्हैः॥ "यज्ञर्त्विग्भ्यां घखञौ” इति घप्रत्ययः॥ द्विजैर्याज्ञिकैः संस्कृता जातकर्मादिभिः प्रोक्षणादिभिश्च योग्यत्वमापादिता। 'संपूर्वस्य क्वचिदभूषणेऽपीष्यते' इति सुडागमः। अनिन्दितवेषभृत् पतिव्रतोचितवेषधारिणी सा मासस्य पूरणात् मासत–
-
-
 
 मात्॥ "नित्यं शतादिमासार्धमाससंवत्सराच्च" इति डटस्तमडादेशः। एतस्मादेव ज्ञापकादसंख्यावाचिनोऽपि डट्। अह्नः प्राग्दृश्या द्रष्टव्या। तदतिक्रमे दण्ड्या इति भावः॥
 
@@ -5717,8 +5108,6 @@ K. P. TRIVEDI
 
  ४८. अवग्राह इति॥ अवग्राहे वर्षाभावे॥ "अवे ग्रहो वर्षप्रतिबन्धे” इति विकल्पाद्धञ्॥ यथा कृषीवलाः कर्षकाः॥ "रजःकृषि—" इत्या–
 
-
-
 दिना मत्वर्थीये वलचि "वले" इति पूर्वस्य दीर्घः॥ वृष्टिं प्रार्थयन्ते आशंसन्ते तथा सीतां प्रार्थयध्वम् सुग्रीवशासनाद्यात॥
 
 **वणिक् प्रग्राहवान् यद्वत् काले चरति सिद्धये।  
@@ -5746,8 +5135,6 @@ K. P. TRIVEDI
 
  ५१. उदगिति। राजा सुग्रीवः कृतत्वरः सन् शतबलिं नाम कञ्चन कपियूथपं वानराणां कोट्या सह उदक् उदीचीं दिशं प्रतीत्यर्थः। उदीचीशब्दात्प्रथमान्तात् “दिक्शब्देभ्यः सप्तमीपञ्चमीप्रथमाभ्यः—” इत्यादिना अस्तातिप्रत्यये तस्य "अञ्चेर्लुक्" इति लुकि "लुक् तद्धितलुकि" इति स्त्रीप्रत्ययस्यापि लुकि भसंज्ञाभावात् “उद ईत्” इतीत्वेऽपि निवृत्ते "तद्धितश्चासर्वविभक्तिः” इत्यव्ययत्वात्पश्चादुत्पन्नायाः
 
-
-
 द्वितीयायाः "अव्ययादाप्सुपः" इति लुकि सर्वमवदातम्॥ प्रास्थापयत् प्रस्थापितवान्। तथा तद्वत्कोट्या सहैव सुषेणं पश्चाद्भवां पश्चिमां प्रतीचीं दिशं प्रति प्रास्थापयत्॥ “अग्रादिपश्चाड्डिमच्" इति डिमच्॥
 
 **प्राचीं तावद्भिरव्यग्रः कपिभिर्विनतो ययौ।  
@@ -5772,8 +5159,6 @@ K. P. TRIVEDI
 [^479]: "गिरिमूर्धसु T3. गिरिमूर्धनि T2, T4."
 
  ५४. परिभावमिति॥ नगमूर्धसु विन्ध्याद्रिशिखरेषु मृगेन्द्राणां सिंहानां परिभावमवज्ञानं कुर्वन्तः॥ "परौ भुवोऽवज्ञाने" इति पक्षे घञ्॥ तिग्मां–
-
-
 
 शुमार्गस्य सूर्यमार्गस्य यः परिभवो निरोधः। घञभावपक्षे "ऋदोरप्" इत्यप्॥ तस्य उपमापयतीत्युपमे सदृशे। मूर्त्तःपरिभव इव स्थित इत्यर्थः॥ "आतश्चोपसर्गे" इति कः॥ तस्मिन्विन्ध्ये चेरुः परिभ्रेमुः॥
 
@@ -5800,8 +5185,6 @@ K. P. TRIVEDI
 
 [^484]: "निनादा°c., T4, T., G., Com."
 
-
-
  ५७. संचेरुरिति॥ केचिद्वानराः सहसास्सहासाः संचेरुः। केचिदस्वनाः निःशब्दाः आटिषुः पर्यटितवन्तः। अटतेर्लुङ्॥ "स्वनहसोर्वा" इत्युभयत्र विकल्पादय्॥ अपरे यतिवत् संयामवन्तो नियमवन्तः॥ "यमः समुपनिविषु च" इति विकल्पाद्धञ्॥ निनादान् वाचः॥ "नौ गदनद—" इत्यादिना विकल्पादेव घञ्॥ अमुचन्। वाचो निजगदुरित्यर्थः। मुचेर्लुङि लृदित्वादङ्॥
 
 **अथ क्लमाद[^485]निक्वाणा[^486] नराः क्षीणपणा इव।  
@@ -5826,8 +5209,6 @@ K. P. TRIVEDI
 
  ५९. तत इति॥ ततो निषदनानन्तरं तत्राद्रिकटके ससंमदान् सहर्षान्॥ "प्रमदसंमदौ हर्षे" इत्यप्प्रत्ययान्तो निपातः॥ गुहाद्वारेण निर्यातो निर्गच्छतः। यातेः शतरि शस्। पतत्रिणः पक्षिणः समजेन सङ्घेन॥ "समुदोरजः पशुषु" इति संपूर्वादजेरप्॥ निर्यातः पशूनिव निरैक्षन्त अपश्यन्। ईक्षतेर्लङि “झोऽन्तः" इत्यन्तादेशः॥
 
-
-
 **ग्लहम[^491]क्षेषु कुर्वाणान्छद्मनाकितवानिव।  
 मलिम्लुचानिवापश्यञ्शकुन्तानागतान्गिरेः॥६०॥**
 
@@ -5850,8 +5231,6 @@ K. P. TRIVEDI
 
  ६२. कुर्वन्त इति॥ आप्तानां सुहृदां हवमाह्वानम्॥ "भावेऽनुपसर्गस्य" इत्यप्संप्रसारणं च॥ कुर्वन्तः पिपासाया वधो निवृत्तिः॥ "हनश्च
 
-
-
 वधः" इति हन्तेरब्वधादेशश्च॥ तत्काङ्क्षिणः सन्तः तमसो घनो मूर्त्तिः कठिनत्वं संघात इति यावत्॥ "मूर्त्तो घनः" इति निपातः॥ तत्प्रख्यं तत्सन्निभं गाढान्धकारं गुहायाः द्वारं द्रुतं प्राविशन्॥
 
 **तस्मिन्नन्तर्घने[^494]पश्यन्प्रघणे[^495] सौधसद्मनः।  
@@ -5869,8 +5248,6 @@ K. P. TRIVEDI
 [^496]: "The verse 64 in found only in T., G., Com."
 
  ६४. द्रुघणेति॥ अयो हन्यते एभिरित्ययोघनाः लोहघण्टास्त इव मुष्टयो येषां ते। तद्वन्निबिडमुष्टय इत्यर्थः। अत एव तरसा तरुसंहतीः दुर्द्रुमो हन्यतेऽनेनेति द्रुघणः कुठारादिः॥ "करणेऽयोविद्रुषु" इत्युभयत्रापि करणार्थे हन्तेरप्प्रत्ययो घनादेशश्च॥ अरिहणादिपाठात् "पूर्वपदात्संज्ञायामगः" इति वा द्रुघण इति णत्वम्। तेनोद्भिन्नकल्पानि तत्प्रायाण्यग्राणि यासां ताः कुर्वाणास्ते वानरास्तां स्त्रियम्।
-
-
 
 व्याधेरभावोऽव्याधि अनामयमित्यर्थः। अर्थाभावेऽव्ययीभावः। अपृच्छन् कुशलमपृच्छन्नित्यर्थः॥
 
@@ -5899,8 +5276,6 @@ K. P. TRIVEDI
 
  ६७. निघेति॥ निघाः निमिताः समसंस्थानाः अनिघाः विपरीताः॥ "निघो निमित्तम्" इति निपूर्वाद्धन्तेरप्प्रत्यये घादेशनिपातः। तैरुभयै–
 
-
-
 स्तरुभिश्छन्ने तस्मिन् बिले ते वानराः लब्ध्रिमैर्लब्धैः। "ड्वितः क्त्रिः" इति क्त्रिः॥ फलैस्तृप्ताः सन्तः भ्राजथुमतीं दीप्तिमतीम्॥ “ट्वितोऽथुच्" इत्यथुच्प्रत्ययान्तः॥ तां स्त्रियमियं कस्य पूरिति पप्रच्छुः॥
 
 **रक्ष्णं[^502] करोषि कस्मात्त्वं[^503] यत्नेनाख्यायतां[^504] शुभे।  
@@ -5928,8 +5303,6 @@ K. P. TRIVEDI
 
  ७०. निहत इति॥ असौ दानवः स्थितिं मर्यादाम्॥ "स्थागापापचो भावे" इत्यङपवादेन क्तिन्॥ "द्यतिस्यतिमास्थामित्ति किति" इती–
 
-
-
 त्वम्॥ भिन्दन्नुत्सादयन् बलिद्रुहा बलिध्वंसिना दैत्यारिणा निहतश्च। अहं मेरुसावर्णेर्नाम तस्य दानवेन्द्रस्य दुहिता नाम्ना स्वयंप्रभा॥
 
 जूतिमिच्छथ चेत्तूर्णं कीर्तिं वा पातुमात्मनः।  
@@ -5943,8 +5316,6 @@ K. P. TRIVEDI
 निरचिक्रमदिच्छातो वानरांश्चङ्क्रमावतः॥७२॥
 
  ७२. व्रज्येति॥ व्रज्यावती प्रशस्तगतिमती॥ "व्रजयजोर्भावे क्यप्" इति क्यप्॥ ततः प्रशंसायां मतुप्। ततो ङीप्। सा स्त्री विद्येव काचिन्मन्त्रविद्येव॥ "संज्ञायां समज—" इत्यादिना विदेः क्यप्॥ निरुद्धाक्षान् पाणिपिहितदृष्टीन् अनुष्ठितक्रियान् कृतोचितव्यापारान्॥ "कृञः श च" इति स्त्रियां शप्रत्यये रिङादेशः॥ चङ्क्रमावतः कुटिलगतिमतः॥ "नित्यं कौटिल्ये गतौ” इति क्रमेर्यङन्तात् "अ प्रत्ययात्" इति स्त्रियामकारप्रत्यये टाप्। ततो मतुपि शस्। वानरानिच्छातस्तदिच्छानुसारतः॥ "इच्छा" इतीषेः शप्रत्यये यगभावो निपातितः॥ निरचिक्रमत् निष्क्रामितवती। क्रमेर्णौ चङि "सन्यतः" इत्यभ्यासस्येत्वम्। तस्यालघुत्वान्न दीर्घः॥
-
-
 
 **निष्क्रम्य शिक्षया तस्यास्त्रपावन्तो रसातलात्।  
 ज्ञात्वा मास[^508]मतिक्रान्तं व्यथामवललम्बिरे॥७३॥**
@@ -5962,8 +5333,6 @@ K. P. TRIVEDI
 युक्त्वा योगं स्थितः शैले विवृण्वंश्चित्तवेदनाम्॥७५॥**
 
  ७५. प्रायेति॥ वालिसंभवोऽङ्गदः प्रायोपासनया प्रायोपवेशनेन अनशनस्थित्येत्यर्थः। 'प्रायश्चानशने मृत्यौ' इति विश्वः। उपपूर्वादासेः "ण्यासश्रन्थो युच्" इति युच्। शान्तिं सर्वारिष्टनिवृत्तिं मन्वानो निश्चिन्वन् योगं चित्तनिरोधं युक्त्वा अवलम्ब्य चित्तवेदनां मनोव्यथाम्। “घट्टिवन्दिविदिभ्यो युज्वक्तव्यः” इति विदेर्युच्। विवृण्वन् प्रकाशयन् शैले स्थितः॥
-
-
 
 **प्रस्कन्दिकामिव प्राप्तो ध्यात्वा ब्रूते स्म[^509] जाम्बवान्।  
 धिक् शाल[^510]भञ्जिकाप्रख्यान् विषयान्[^511] कल्पनारुचीन्॥७६॥**
@@ -5986,8 +5355,6 @@ K. P. TRIVEDI
 
  ७८. उवाचेति॥ अथ मारुतिर्हनुमान् अत्रास्मिन्पर्वते वृद्धे जाम्बवति संन्यासिनि सर्वसङ्गपरित्यागिनि सति अहं पर्यायसंप्राप्तामङ्गदजाम्बवदानन्तर्यप्राप्तां प्रायोपवेशिकां प्रायोपवेशनम्॥ "पर्यायार्हणोत्पत्तिषु ण्वच्" इति पर्यायार्थे ण्वुच्॥ कुर्व इति वानरानुवाच॥
 
-
-
 **अभावे भवतां योऽस्मिन् जीवेत्तस्यास्त्वजीवनिः।  
 इत्युक्त्वा सर्व एवास्थुर्बद्ध्वायोगासनानि ते॥७९॥**
 
@@ -6008,8 +5375,6 @@ K. P. TRIVEDI
 [^514]: "पयः पानमिवा T, G., Com."
 
  ८१. तत इति॥ ततस्तेषां प्रायोपवेशनानन्तरं मन्दगतो मन्दगमनः॥ “नपुंसके भावे क्तः" इति क्तः॥ महान्महाकायः न शोभत इत्यशोभनः अमङ्गलरूपः॥ "कृत्यल्युटो बहुलम्" इति कर्त्तरि ल्युट्॥ पक्षी संपातिर्नाम जटायोर्भ्राता गृध्रस्तेषां प्रायोपवेशनं मरणव्रतम्। भावे ल्युट्।
-
-
 
 पयःपानं क्षीरपानमिव भक्ष्यलाभात्तद्वच्छरीरसुखकरमित्यर्थः॥ 'कर्मणि च येन संस्पर्शात्कर्त्तुः शरीरसुखम्” इति कर्मोपपदात्पिबतेर्भावे ल्युट्॥ आशंसुरभिलाषुकः सन्॥ “सनाशंसभिक्ष उः" इत्युः॥ आयादायातः॥
 
@@ -6032,8 +5397,6 @@ K. P. TRIVEDI
 
  ८४. स्वयं तु पापकृदित्याहुः नरकस्येति॥ अस्माकमयं प्रत्यक्षो नरकस्य रौरवादेरवतारोऽवतरणमार्गः॥ "अवे तृस्त्रोर्घञ् " इति करणे घञ्॥
 
-
-
 आगतः प्राप्तः यद्यस्मादिहाद्रौअचेष्टाः निश्चेष्टाः वयमन्यायादकारणात्॥ “अध्यायन्याय – ” इत्यादिना निपूर्वादिणः करणे घञन्तो निपातः॥ अनेनात्स्यामहे भक्षिष्यामहे। अतो दुर्मरणहेतुत्वादस्माकमयं प्रत्यक्षं नरकद्वारमित्यर्थः। अदेः कर्मणि लुटि तङ्॥
 
 **हृदयोदङ्कसंस्थानं कृतान्तानायसंनिभम्।  
@@ -6049,8 +5412,6 @@ K. P. TRIVEDI
 [^518]: "मिहाभ्येति E2, E3.."
 
  ८६. ईषदिति॥ किं च एष वानरगणः परत्राप्यकृच्छ्रेण सुखेनानाढ्यः आढ्यः कृतो विधात्रा ईषदाढ्यङ्करो न। इह तावदास्तां दैवेन परत्रापि सुखभाक् न कृत इत्यर्थः॥ "कर्त्तृकर्मणोश्च भूकृञोः" इति करोतेः कर्मणीषदादौ चोपपदे खल्प्रत्ययः॥ तथाहि अशुभक्रियः
-
-
 
 पापकर्मा बुभुक्षया भोक्तुमिच्छया क्षुधा। भुजेः सन्नन्तात्स्त्रियामप्रत्यये टाप्। परिग्लायतीति परिग्लानः परिक्षीणः। बहुलग्रहणात्कर्त्तरि ल्युट्। निष्ठायां वा “संयोगादेरातो धातोर्यण्वतः” इति नत्वम्। एष पक्षीत्यनुवर्त्तते। अस्मानत्तुं भक्षयितुमितोऽभ्येतीत आगच्छति। दुर्मरणदोषात्परलोकोऽपि नास्माकमस्तीत्यर्थः॥
 
@@ -6077,8 +5438,6 @@ K. P. TRIVEDI
 
 [^522]: "वचनमित्यूचुर्वा T2."
 
-
-
  ८९. शङ्केति॥ वानराः धूयतेऽनेनेति धवित्रं विधूननम्। "अर्त्तिलूधूसूखनसहचर इत्रः" इति करणे धुनातेरित्रप्रत्ययः॥ शङ्काधवित्रं हिंस्रत्वशङ्कानिराकरणं वचनं यस्य तं विश्वसनीयमित्यर्थः। खगं पक्षिणं वयं शत्रूणां लूयन्ते एभिरिति लवित्राश्छेदकाः। पूर्ववदित्रप्रत्ययः। त इषवो यस्य तस्य रामस्य भूपतेः स्वामिनो दूता इति प्रत्यूचुः॥
 
 **केनापि दौष्कुलेयेन कुल्यां माहाकुलीं[^523] प्रियाम्।  
@@ -6097,8 +5456,6 @@ K. P. TRIVEDI
 
   ९१.अथ किमिदमिह क्रियत इत्यत्रोत्तरमाचक्षते त्रिंशत्तममिति॥ प्रत्यागमस्य प्रत्यागमनस्यावधिमबधीकृतं त्रिंशतोऽह्नां पूरणं त्रिंशत्तमम्॥ "तस्य पूरणे डट" इति डट्॥ “विंशत्यादिभ्यस्तमडन्यतरस्याम्” इति डटस्तमडागमः॥ अहर्दिनमतीतमतिक्रान्तं मत्वा ज्ञात्वा। अत्राहोतीतमिति सन्धिश्चिन्त्यः। "रोऽसुपि" इति रेफादेशे अहरतीतमिति भाव्यमिति। अकृतार्थाः मासात्प्रागेवाकृतप्रयोजनाः अत एव विषीदन्तो भग्नोत्साहाः सन्तः। 'विषादश्चेतसो भङ्ग उपायाभावनाशनैः' इति लक्षणात्। परलोकमुपास्महे उपसीदामः॥
 
-
-
 **म्रियामहे न गच्छामः कौशल्यायनिवल्लभाम्।  
 उपलम्भ्यामपश्यन्तः कौमारीं पततां वर॥९२॥**
 
@@ -6114,8 +5471,6 @@ K. P. TRIVEDI
 [^526]: "स्मृतिम् N."
 
  ९३. जगादेति॥ पक्षी संपातिर्वानरान् जगाद। किमिति यूयं ध्रुवं स्मृतीःधर्मशास्त्राणि नाध्यगीढ्वंनाधीतवन्तः। इणो लुङि "विभाषा लुङ्लृङोः" इति गाङादेशः "गाङ्कुट—" इत्यादिना सिचो ङित्त्वे
-
-
 
 “घुमास्था—" इत्यादिना ईकारः॥ "धि च" इति सिच्सलोपः॥ “इणः षीध्वं—" इत्यादिना मूर्धन्यादेशः॥ यस्मादस्मिन्काले व्यापारकाले संकुटितुमवसत्तुम्। कुट कौटिल्ये॥ "गाङ्कुट—" इत्यादिना ङित्त्वान्न गुणः॥ अध्यवस्यथ यतध्वे। स्यतेर्लटि थप्रत्ययः॥
 
@@ -6136,8 +5491,6 @@ K. P. TRIVEDI
 [^530]: "पुरं Com."
 
  ९५. यत्नमिति॥ किं तु दक्षिणां दिशं प्रोर्णुवितुमाच्छादयितुम्॥ "विभाषोर्णोः" इतीटो ङित्त्वपक्षे गुणप्रतिषेधादुवङादेशः। तूर्णंयत्नंकुरुत कुरुध्वम्॥ "सार्वधातुकमपित्" इति ङित्त्वाद्विकरणस्य गुणाभावः॥ धातोर्गुणे सति "अत उत्सार्वधातुके" इत्युकारः॥ तत्र दक्षिणस्यां दिशि दिवोऽन्तरिक्षस्य। कर्मणि षष्ठी। प्रोर्णवित्रीं स्वका- न्त्याच्छादयित्रीम्। ऊर्णोतेस्तृचि ङीप्। इटो ङित्त्वाभावपक्षे गुणावादेशौ। काञ्चनस्य विकारं काञ्चनीं हिरण्मयीम्॥ "प्राणिरजतादिभ्योऽञ्" इत्यञ्॥ पुरं पुरीं द्रक्ष्यथ॥
-
-
 
 **अथ किदधिकारः।**
 
@@ -6172,8 +5525,6 @@ K. P. TRIVEDI
 
  ९८. अमृडित्वेति॥ सहस्राक्षममृडित्वा असुखयित्वा तन्नगरादुत्कृष्टनिर्माणेन तस्य दुःखमुत्पाद्येत्यर्थः। मृड सुखन इति धातोः क्त्वाप्रत्यये नञ्समासः। 'अनञ्पूर्वे' इति निषेधान्न क्त्वो ल्यबादेशः। निजे स्वकीये कौशले च विषये चिरं क्लिशित्वा परिश्रम्य चिरमभ्यस्येत्यर्थः। अलमुदित्वोक्त्वा एवं करिष्यामीत्युद्घोष्येत्यर्थः यत्नात् सा
 
-
-
 पुरी एका अद्वितीया धात्रा विनिर्मिता। उत्प्रेक्षा। व्यञ्जकाप्रयोगात् गम्या॥ "मृडमृद—" इत्यादिना सर्वत्र क्त्वः कित्त्वान्न गुणः॥
 
 **मुषित्वा धनदं पापो यां गृहीत्वावसद्द्विषन्[^539]।  
@@ -6195,8 +5546,6 @@ K. P. TRIVEDI
 
 [^541]: "न द्विषोऽपचि° D. द्विषो नोऽपचि' T2"
 
-
-
 १०१. अभ्येतीति॥ अविविदिषु कार्याकार्यमजिज्ञासुमविवेकिनमित्यर्थः। रुरुदिषु रोदितुमिच्छुमनुद्योगिनमित्यर्थः। ईदृशं नरं पुरुषं संपल्लक्ष्मीर्नाभ्येति नोपैति। 'निवसन्ति पराक्रमाश्रयानविषादेन समं समृद्धयः' इति भावः। मोषितुमिच्छुर्मुमुषिषुः स्तेनस्तद्वत्तथारन्धान्वेषिणः सन्त इत्यर्थः। द्विषः शत्रोरपचिकीर्षया अपकर्तुमिच्छया॥ "इको झल्” इति सनः कित्त्वान्न गुणः॥ "अज्झनगमां सनि" इति दीर्घः। अन्यत्र पूर्ववत् " रुदविद—" इत्यादिना सनः कित्त्वादगुणः॥ किं न यात न गच्छत शीघ्रं गच्छतेत्यर्थः। विधौ लोट्॥
 
 **बुभुत्सवो द्रूतं[^542] सीतां भुत्सीध्वं प्रब्रवीमि वः।  
@@ -6211,8 +5560,6 @@ K. P. TRIVEDI
 [^545]: "स्वामिनो D., T2, c., B."
 
  १०२. बुभुत्सव इति॥ ध्रुवं सत्यं सीतां बुभुत्सवो बोद्धुमिच्छवस्ते इत्यर्थः॥ “हलन्ताच्च” इति बुधः सनः कित्त्वान्न लघूपधगुणः॥ "एकाचो बशः—" इत्यादिना भष्भावः॥ "खरि च" इति धकारस्यचर्त्वम्॥ भुत्सीध्वं जानीध्वमन्विष्य पश्यतेत्यर्थः। आशीरथोंन विव- क्षितः॥ “लिङ्सिचावात्मनेपदेषु” इति लिङः कित्त्वान्न गुणः॥ “लिङः सीयुट्" इति सीयुट्॥ यलोपः। शेषं पूर्ववत्। वो युष्मभ्यं प्रब्रवीमि हितमुपदिशामीत्यर्थः। नोऽस्माकमुक्तमुक्तिं मृषानृतं मा स्म भुद्ध्वं न जानीध्वमित्यर्थः ॥ "स्मोत्तरे लङ् च ” इति चकाराल्लुङ्। “लिङ्सिचौ— " इत्यादिना सिचः कित्त्वान्न लघूपधगुणः॥ "धि च” इति सलोपः॥ भष्भावश्च। स्वामिने रामाय हितम्। हितयोगे चतुर्थी। कृषीढ्वंकुरुध्वमित्यर्थः। अत्राप्याशीरर्थो न विवक्षितः॥ "उश्च" इति लिङः कित्त्वान्न गुणः॥ "लिङः सीयुट्” इति सीयुट्॥ “इणः षीध्वम्— " इत्यादिना मूर्धन्यादेशः॥
-
-
 
 **समगध्वं पुरः शत्रोर्मोदयध्वं[^546] रघूत्तमम्[^547]।  
 नोपायध्वं[^548] भयं सीतां नोपायंस्त[^549] दशाननः॥१०३॥**
@@ -6232,8 +5579,6 @@ K. P. TRIVEDI
 
 [^550]: "किलकिला T2 T3, T4."
 
-
-
  १०४. तत इति॥ ततः संपातिवाक्यश्रवणानन्तरं सर्वे वानराः किलकिलायन्तः किलकिलाशब्दं कुर्वाणाः॥ “अव्यक्तानुकरणात्—” इत्यादिना डाचि "लोहितादिडाज्भ्यः क्यष्" इति क्यषि" वा क्यषः" इति पक्षे परस्मैपदम्। महेन्द्रं महेन्द्राख्यमद्रीन्द्रं प्रति द्रुतं प्रास्थिषत प्रस्थिताः॥ "समवप्रविभ्यः स्थः" इति तिष्ठतेर्लुङि तङ्॥ अधिकं धैर्यं चाधिषत दधिरे॥ "स्थाध्वोरिच्च" इत्युभयत्रेत्वं सिचः कित्त्वं च तस्मान्न गुणः॥
 
 **निकुञ्जे तस्य वर्त्तित्वा रम्ये प्रक्ष्वेदिताः परम्।  
@@ -6251,8 +5596,6 @@ K. P. TRIVEDI
 [^553]: " प्रलोदितम् D"
 
  १०६. अथैनं चतुर्भिर्विशिनष्टि अमर्षितमित्यादिभिः॥ सलिलानामूर्मिभिस्तटाद्रीन् तटस्थान्पर्वतान् घ्नन्तं ताडयन्तमत एवामर्षितं कुपितमिव स्थितमित्युत्प्रेक्षा। मृषेः कर्त्तरि क्तः॥ “मृषस्तितिक्षायाम्" इति
-
-
 
 कित्त्वप्रतिषेधाद्गुणः॥ ततो नञ्समासः। श्रिया रत्नादिसम्पदा समग्रं द्युतितं द्योतनं यस्य तं समग्रद्युतिमित्यर्थः। द्युतेर्भावे क्तः॥ “उदुपधाद्भावादिकर्मणोरन्यतरस्याम्" इति पक्षे कित्त्वाद्गुणाभावः॥ मदेनेवेति हेतूत्प्रेक्षा। प्रलोठितं प्रघूर्णितम्। लुठेःआदिकर्माणि क्तः॥ "उदुपधात्—" इत्यादिना कित्त्वाभावपक्षे गुणः॥
 
@@ -6273,8 +5616,6 @@ K. P. TRIVEDI
 **द्युतित्वा शशिना नक्तं रश्मिभिः परिवर्धितम्।  
 मेरोर्जेतुमिवाभोगमुच्चैर्दिद्योतिषुंमुहुः॥१०९॥**
 
-
-
  १०९. द्युतित्वेति॥ शशिना कर्त्रा नक्तं द्युतित्वा द्योतित्वा अंत एवं रश्मिभिः किरणैः परिवर्धितं पुनः मेरोराभोगं विस्तारमौन्नत्यमित्यर्थः जेतुमतिशयितुमिवेति फलोत्प्रेक्षा। मुहुरुच्चैरूर्ध्वं दिद्योतिषु द्योतितुं वर्धितुमिच्छुमित्यर्थः। द्युतः सन्नन्तादुप्रत्ययः। तस्योदुपधत्वात्॥“रलो व्युपधाद्धलादेः संश्च" इति क्त्वासनोः सेटोः पक्षे कित्त्वाद् द्युतित्वेत्यत्र न लघूपधगुणः दिद्योतिषुमित्यत्र गुणः॥
 
 **विलोक्य सलिलोच्चयानधिसमुद्रमभ्रंलिहान्  
@@ -6294,8 +5635,6 @@ K. P. TRIVEDI
 इति श्रीपदवाक्यप्रमाणपारावारपारीणश्रीमहोपाध्यायकोलाचल  
 मल्लिनाथसूरिविरचिते भट्टिकाव्यव्याख्याने  
 सर्वपथीनाख्याने सप्तमः सर्गः॥
-
-
 
 ॥श्रीः॥
 
@@ -6322,8 +5661,6 @@ K. P. TRIVEDI
 
  ३. वियतीति॥ हरिपयोनिधी हनुमत्सागरौ वियत्याकाशे मूर्त्ती शरीरे व्यत्यतन्वातां मिथो मत्सराद्व्यति- हारेणावर्धयतामित्यर्थः। तनोतेर्लङि "कर्त्तरि कर्मव्यतिहारे" इति तङ्। परस्परकरणं कर्म-
 
-
-
 व्यतिहारः। किं चोत्तममत्युन्नतमर्केन्द्रेन्दुभिर्निषेवितं मार्गंतत्संचारपथं व्यत्यैतामन्योन्यमत्यक्रामताम्। इणो गत्यर्थात्कर्मव्यतिहारे लङि तसस्तामादेशः॥ "न गतिहिंसार्थेभ्यः” इति निषेधान्न तङ्॥
 
 **व्यतिजिग्ये समुद्रोऽपि न धैर्यं तस्य गच्छतः।  
@@ -6347,8 +5684,6 @@ K. P. TRIVEDI
 
 [^564]: "प्रेयुषी च निशाचरी T2 T3, T4, T., G., Com."
 
-
-
  ६. अन्योन्यमिति॥ अनिलोद्धूतः उदकानि धीयन्तेऽस्मिन्नित्युदन्वान् उदधिश्व॥ “उदन्वानुदधौ च" इति दधात्यर्थे मतावुदन्नादेशनिपातः॥प्रेयुषी प्रेता मृता सती॥ "उपेयिवान्—" इत्यादिना क्वसन्तनिपातने ङीप्। निशाचरी राक्षसी चान्योन्यमन्योन्यस्येत्यर्थः॥ "कर्मव्यतिहारे सर्वनाम्नो द्वे भवतः समासवच्चबहुलम्। बहुलग्रहणाद्यदा न समासवत्ता तदा पूर्वपदस्य प्रथमैकवचनमुत्तरपदस्याम्भाव इति वक्तव्यम्"। विभीषणानतिभयङ्करान्। नन्द्यादित्वाल्ल्युः। शब्दान्घोषान् शब्देर्घोषैः सह। अत्रापि विभीषणैरिति विभक्तिपरिणामेन योज्यम्। व्यतियुतः स्म मिश्रीकुरुतः स्म। यु मिश्रण इति धातोः “लट् स्मे" इति भूते लट् अत्रापि कर्मव्यतिहारे आत्मनेपदस्य " इतरेतरान्योऽन्योपपदाच्च"। इति प्रतिषेधः॥
 
 **न्यविक्षत महाग्राहसङ्कुलं मकरालयम्।  
@@ -6366,8 +5701,6 @@ K. P. TRIVEDI
 पित्रा संरक्षितं शक्रात्स मैनाकाद्रिमैक्षत॥८॥
 
 [^568]: "साधोः T2. "
-
-
 
  ८. कृतेनेति॥ सः हनूमान् पित्रा स्वजनकेन वायुना शक्राद्गोत्रभिदः सकाशात्संरक्षितं पक्षच्छेदकाले वेगादादाय समुद्रे गुप्तमत एव वायोः कर्तुरुपकृतमुपकारं पूर्वोक्तं रक्षणरूपं कृतेन प्रत्युपकारेण विश्रामदानरूपेण। उभयत्र भावे क्तः। परिक्रीणानं विनिमिन्वन्तम्। उपकारस्य प्रत्युपकारं कुर्वाणमित्यर्थ॥ "परिव्यवेभ्यः क्रियः' इति क्रीणातेरात्मनेपदम्॥ शानच्। उत्थितं प्रत्युपकारार्थमेव समुद्रादुद्भूतं मैनाकाद्रिमैक्षताद्राक्षीत्॥
 
@@ -6392,8 +5725,6 @@ K. P. TRIVEDI
 
 [^572]: "च सं D., E3. न सं° T4, T., G, Com,"
 
-
-
  ११. क्षणमिति॥ हे भद्र मङ्गलमूर्त्ते क्षणमवतिष्ठस्व विश्राम्येत्यर्थः। ततो विश्रामानन्तरं पुनः प्रस्थास्यसे प्रयास्यसे। दक्षेण क्षिप्रकारिणा त्वया उरीकृतमङ्गीकृतं कार्यं सीतान्वेषणकृत्यं कर्तृ। न न संस्थास्यते न समाप्तं भविष्यतीति न किं तु भविष्यत्येवेत्यर्थः। 'संस्था व्यवस्थाप्रणिधिसमाप्त्याकारमृत्युषु' इति यादवः। एतावता दक्षस्य ते न कोऽपि कार्यप्रतिबन्ध इत्यर्थः। 'संभाव्यनिषेधनिवर्त्तने द्वौ प्रतिषेधौ' इति वामनः। संपूर्वात्तिष्ठतेः कर्त्तरि लुट्। सर्वत्र "समवप्रविभ्यः स्थः इति तङ्"
 
 त्वयि नस्तिष्ठते प्रीतिस्तुभ्यं तिष्ठामहे वयम्।  
@@ -6414,8 +5745,6 @@ K. P. TRIVEDI
 [^574]: "धीर c., E3."
 
 [^575]: "माश्रम्य C 'र्थं विश्रम्य  D., E3."
-
-
 
  १४. अव्यग्रामिति॥ हे वीर अव्यग्रमसहसा उपतिष्ठस्व संनिधत्स्व॥ “अकर्मकाच्च" इत्युपतिष्ठतेरात्मनेपदम्॥ अहं वायोः सुहृत् तवाहं पितृसख इत्यर्थः। रविरत्यर्थं बितपते तीव्रं प्रतपति॥ "उद्विभ्यां तपः" इति विपूर्वात्तपतेरकर्मकादात्मनेपदम्॥ मय्याश्वस्य विश्रम्य गम्यतामीषदातपं नीत्वा गच्छेत्यर्थः॥
 
@@ -6439,8 +5768,6 @@ K. P. TRIVEDI
 
  १६. संशृणुष्वेति॥ हे कपे संशृणुष्व आकर्णय।"समो गम्यृच्छि—" इत्यादिना शृणोतेः संपूर्वादकर्मकादात्मनेपदम्॥ कौमुद्यां तु समो गम्यृच्छिक्ष्यामिति पाठः। तदा तत्रत्यवार्त्तिकेनात्मनेपदम्। अहमेषां ग्रामणीः मत्कानि मत्स्वामिकानीत्यर्थः॥ "स एषां ग्रामणीः" इति कन्प्रत्ययः॥" प्रत्ययोत्तरपदयोश्च” इत्यस्मदो मपर्यन्तस्यैकवचने मदादेशः॥ तैः शुभैः वनैः संगच्छस्व तानि संगच्छ तेषु विहरेत्यर्थः। संपूर्वाद्गमेः पूर्ववत्तङ्। त्वय्युपागते सति ममाभीष्टाः प्रियाः संकल्पा मनोरथाः समारन्त सम्यगृताः सत्या बभूवुरित्यर्थः। संपूर्वादर्त्तेर्लुङि
 
-
-
 पूर्ववत्तङि "सर्त्तिशास्त्यर्त्तिभ्यश्च" इति च्लेरङादेशः। आड्वृद्धिश्चरपरा॥
 
 **के न संविद्रते वायोर्मैनाकाद्रिर्यथा सखा।  
@@ -6459,8 +5786,6 @@ K. P. TRIVEDI
 यामि त्वरावान् शैलेन्द्र मा कस्यचिदुपस्कृथाः॥१९॥**
 
  १९. कुलेति॥ हे शैलेन्द्र अहं कुलभार्यां कुलाङ्गनां प्रकुर्वाणं सहसा संगृह्णानम्॥ “गन्धनाव—" इत्यादिना साहसिक्ये आत्मनेपदम्॥ दशाननं द्रष्टुं त्वरावान् द्रुततरो यामि गच्छामि। कस्यचिन्मोपस्कृथाः अध्वश्रमार्थं न किंचित्खाद्यपेयादिकमुपस्कर्त्तव्यमित्यर्थः। कस्यचिदित्यत्र "कृञः प्रतियत्ने" इति कर्मणि षष्ठी। सतो गुणान्तराधानं
-
-
 
 प्रतियत्नः। कृथा इति करोतेर्लुङि “गन्धन—" इत्यादिना प्रतियत्नेतङि थासि "ह्रस्वादङ्गात्" इति सलोपः॥ “उपात्प्रतियत्न—" इत्यादिना सुडागमः॥ "न माङ्योगे" इत्यडभावः॥
 
@@ -6481,8 +5806,6 @@ K. P. TRIVEDI
 [^585]: "पापस्यास्य T3."
 
  २१. विकुर्व इति॥ अद्य रघुद्विषो रघुकुलद्रोहिणः अत एव पापस्य पापकर्मणः तस्य रावणस्य नगरे विकुर्वे विविधं चेष्टिष्ये। यथेष्टं पराक्रमिष्यामीत्यर्थः। विपूर्वात्करोतेः "अकर्मकाच्च" इति तङ्। अथवा प्रियान् प्राणान्विनेष्ये सम्मानयिष्यामि॥ "संमाननोत्सञ्जनाचार्यकरणज्ञानभृतिविगणनव्ययेषु नियः" इति विपूर्वान्नयतेः संमानने तङ्॥ स्वाम्यर्थंप्राणानां क्लेशनं संमानने पर्यवस्यति। अथवा यश उदानेष्ये उत्संजयिष्यामि शत्रुविजयेन कीर्तिमुच्चैःकरिष्यामीत्यर्थः। तेनैवात्संजने तङ्॥
-
-
 
 **विनेष्ये क्रोधमथवा[^586] क्रममाणोऽरिसंसदि।  
 इत्युक्त्वा खे पराक्रंस्त तूर्णं सूनुर्नभस्वतः[^587]॥२२॥**
@@ -6507,8 +5830,6 @@ K. P. TRIVEDI
 
  २४. जल इति॥ अथ हनूमान् जले जलस्योपरीत्यर्थः॥ विक्रममाणायाः पादाभ्यां विहरन्त्याः गतिविशेषान्कुर्वत्या इत्यर्थः॥ "वेः पाद-
 
-
-
 विहरणे" इति विपूर्वात्क्रमेःपादविक्षेपार्थादपि धातूनामनेकार्थत्वादात्मनेपदम्॥ तस्याः राक्षस्याः शतं योजनानि प्रमाणमस्य शतयोजनम्॥ "प्रमाणे लः"।"द्विगोर्नित्यम्” इति प्रमाणतद्धितस्य मात्रचो लुक्। आस्यं प्रविश्य अणूभूयातिसूक्ष्मो भूत्वा अत एवाप्रचेतितोऽप्रज्ञातः सन्निरगान्निर्गतः॥
 
 द्रष्टुं प्रक्रममाणोऽसौ सीतामम्भोनिधेस्तटम्।  
@@ -6532,8 +5853,6 @@ K. P. TRIVEDI
 
 [^593]: "रावणार्थच T,G.,Com. रावणार्थे चरान् T3. रावणाधिष्ठितान् T2."
 
-
-
  २७. समिति॥संजानानान् स्वपरान् परामृशतः॥ "संप्रतिभ्यामनाध्याने" इत्यात्मनेपदम्॥बहूननेकान् रावणस्य अर्थेषु कृत्येषु चरन्तीति तच्चरान्नगररक्षकानित्यर्थः परिहरन् दूरात्त्यजन् वदमानो वदितुं जानानः॥ "भासन—" इत्यादिना ज्ञाने वदेरात्मनेपदम्॥ सोऽरिभिर्दुर्गमां दुरासदां लङ्कां रात्रौ समाविशत् प्रविष्टः॥
 
 **किंचिन्नोपावदिष्टासौ[^594] केनचिद्व्यवदिष्ट न।  
@@ -6554,8 +5873,6 @@ K. P. TRIVEDI
 
  २९. जल्पितेति॥ लङ्का लङ्कापुरी जल्पितैर्व्याहारैरुत्कुष्टैरुच्चैःक्रोशनैराह्वानैः संगीतैः सम्यग्गानैः प्रनृत्तैर्नर्त्तनैः स्मितैर्लक्षणयाट्टहासैर्वल्गितैर्वल्गनैश्चैवंरूपैः प्रजाकलकलैरित्यर्थः। सर्वत्र भावे क्तः। पूतक्रतोरिन्द्रस्य पुरोऽमरावत्याः संबन्धिनो घोषस्य प्रजाकलकलस्य।संबन्धसामान्ये षष्ठी। अन्ववदिष्टेव अनुचकारेव। इन्द्रनगरे यादृशी
 
-
-
 प्रजासमृद्धिस्तादृशी लङ्कायामित्यर्थः। अनुपूर्वाद्वदतेर्लुङ्॥ "अनोरकर्मकात्” इति तङ्॥
 
 **ऐद्विप्रवदमानैस्तां[^598] संयुक्तां ब्रह्मराक्षसैः।  
@@ -6573,8 +5890,6 @@ K. P. TRIVEDI
 [^600]: "गोष्टीषु E3, D."
 
  ३१. यथार्थमिति॥ किं च पूर्वोक्ताः राक्षसाः पिशाचाश्च पानशौण्डाः पानेन विख्याताः। मत्तार्थत्वे क्षीबशब्देन पौनरुक्त्यात्। 'शौण्डो मत्ते च विख्याते' इति विश्वः॥ "सप्तमी शौण्डैः" इति समासः॥ अत एव क्षीबा मत्ताः सन्तः। 'मत्ते शौण्डोत्कटक्षीबाः' इत्यमरः। क्षीबृ मदे इति धातोः कर्त्तरि क्तान्तः॥ “अनुपसर्गात्फुल्लक्षीबकुशोल्लाघाः" इति निपातनात्तलोपः इडभावश्च॥ गोष्ठीषु विद्यागोष्ठीषु पानगोष्ठीषु च स्वामिनो रावणस्य गुणान् यथार्थं यथा तथा संगिरन्ते स्म प्रतिजानते स्म। सर्वावस्थास्वपि न तत्र विप्रतिपद्यन्त इत्यर्थः॥ "समः प्रतिज्ञाने" इति तङ्॥ तथा वृन्दैः सङ्घशः पथः मार्गान् उदचरन्त च उल्लङ्घ्य चरन्ति स्म। उत्पथप्रवृत्ताः संचेरुरित्यर्थः॥ “उदश्चरः सकर्मकात्" इति तङ्॥
-
-
 
 यानैः समचरन्तान्ये कुञ्ज[^601]राश्वरथादिभिः।  
 संप्रायच्छन्त बन्दीभिरन्ये पुष्पफलं शुभम्॥३२॥
@@ -6601,8 +5916,6 @@ K. P. TRIVEDI
 
 [^606]: "दुःखितः T2."
 
-
-
  ३४. प्रेति॥ विरहदुःखितं रामं सुस्मूर्षमाणः स्मर्त्तुमिच्छन्। इच्छापूर्वकमेव निरन्तरं स्मरन्नित्यर्थः। अत एवासौ कपिः कुत्रापि नृत्तं नो प्रादिदृक्षत प्रद्रष्टुं प्रेक्षितुं नैच्छत् गायनान् गायकान्॥ "ण्युट् च" इति गायतेः शिल्पिनि ण्युट्प्रत्ययः। नाशुश्रूषत श्रोतुं नैच्छत्। “ज्ञाश्रुस्मृदृशां सनः" इति दृशेः शृणोतेश्च सन्नन्ताल्लङि तङ्। स्मरतेस्तु लटः शानजादेशः॥ "अज्झनगमां सनि " इति दीर्घे “उदोष्ठ्यपूर्वस्य" इत्युत्वे " हलि च" इति दीर्घः॥
 
 **अनुजिज्ञासतेवाथ[^607]लङ्कादर्शनमिन्दुना।  
@@ -6618,8 +5931,6 @@ K. P. TRIVEDI
 [^608]: "समाचारीद° D."
 
  ३६. आशुश्रूषन्निति॥ स हनूमान् मैथिल्याः वार्त्तां वृत्तान्तमाशुश्रूषन्समन्ताच्छ्रोतुमिच्छन्। आङ्पूर्वाच्छृणोतेः सन्नन्ताल्लटः शत्रादेशः॥ “प्रत्याङ्भ्यां श्रुवः” इति सन्नन्तादात्मनेपदनिषेधः॥ शीयमानान्धकारेषु चन्द्रोदयान्नश्यत्तिमिरेषु। शद्लृशातने इति धातोः शिद्भाविनः "शदेः शितः" इति लटः शानच्॥ "पाघ्रा—" इत्यादिना शदेः
-
-
 
 शीयादेशः॥ रक्षसां हर्म्येषु सौधेषु अशङ्कितोऽभीतः सन्। कर्त्तरि क्तः। समचारीत् संचचार। अतृतीयायोगात् "समस्तृतायायुक्तात्" इत्यस्य प्रत्युदाहरणम्॥
 
@@ -6640,8 +5951,6 @@ K. P. TRIVEDI
 [^612]: "॰वोद्भासितैः - T2 T3. The 1st half omitted in T3"
 
  ३८. अधीति॥ अथ क्षपाकरे चन्द्रे वियन्मध्यं नभोमध्यमध्यासिसिषमाणे अध्यासितुमिच्छति। आसेः सन्नन्तात् "पूर्ववत्सनः" इत्यात्मनेपदम्॥ "स्तौतिण्योरेव षण्यभ्यासात्" इति नियमान्नाभ्यासादुत्तरस्य षत्वम्॥ अतीवातिमात्रमुद्भासिभिः दीप्तैः सितैः शुभ्रैःसौधैः साधनैः पुरी लङ्का कासाञ्चक्रे प्रचकाशे॥ "कास्प्रत्ययादाममन्त्रे लिटि ” इत्याम्प्रत्ययः॥ "आम्प्रत्ययवत्कृञोऽनुप्रयोगस्य" इति कासिवत्कृञस्तङ्॥"
-
-
 
 **इन्दुं चषकसंक्रान्तमुपायुङ्क्त यथामृतम्।  
 प्रयुञ्जानः प्रिया वाचः समाजानुरतो[^613] जनः॥३९॥**
@@ -6670,8 +5979,6 @@ K. P. TRIVEDI
 
  ४१. मध्विति॥ स्वच्छं निर्मलं स्वाद्वित्यर्थः सोत्पलमुत्पलवासितं सुरताभोगविस्रम्भोत्पादनं सुरतविहारविस्रम्भकरणम्। करणे ल्युट्। मधु मद्यं कर्त्तृ। दयितान्तिके प्रियजनसमीपे मुहुरात्मानं स्वात्मानम-
 
-
-
 पाययत दयितकर्त्तृकस्वकर्मकं पानं मधु दयितैः स्वयमेवाकारयदित्यर्थः। पिबतेर्ण्यन्ताल्लङ्यणि कर्मणः कर्त्तृत्वकर्मत्वोभयविवक्षायामकर्त्रभिप्राये "णेरणौ—" इत्यादिना तङ्॥ अत्र यत्संग्रहणमन्यकर्मनिषेधार्थत्वादणि कर्त्तृकर्मणोरन्यतरस्य कर्मत्वं न प्रतिषेधतीति कर्मश्रवणेऽपि न विरोधः॥
 
 **अभीषयन्त ये शक्रं राक्षसा रणपण्डिताः।  
@@ -6695,8 +6002,6 @@ K. P. TRIVEDI
 
 [^622]: "रक्षसां पतिः C राक्षसेश्वरः T, G, Com"
 
-
-
  ४४. अपेति॥ शत्रूनपलापयमानस्य शालिनीकुर्वाणस्य न्यक्कुर्वाणस्येत्यर्थः। लीङ् श्लेषणे इति धातोर्दैवादिकाण्ण्यन्तात् “लियः संमाननशालिनीकरणयोश्च" इति शालिनीकरणे आत्मनेपदम्॥ "विभाषा लीयतेः" इति पक्षे आत्वे पुगागमः। तस्य हनूमतः राक्षसेश्वरो रावणश्चारैर्नगररक्षिजनैर्घोषणामन्तः प्रविष्टं ज्ञात्वा सद्यो मारयतेत्येवंरूपां डिण्डिमवाद्यपूर्विकामाघोषणां पुनः पुनः मिथ्या कारयते अर्थशून्यमेवाभ्यासेनावृत्त्या कारयतीत्यर्थः। कृञोण्यन्तात् "मिथ्योपपदात्कृञोऽभ्यासे" इति तङ्। इति मतिरभूत्। मामेवान्तः प्रविष्टं न जानन्ति किमनया मृषाघोषणयेत्यमन्यतेत्यर्थः॥
 
 गूहमानः स्वमाहा[^623]त्म्यमदित्वा मन्त्रिसंसदः।  
@@ -6714,8 +6019,6 @@ K. P. TRIVEDI
 [^625]: " रनुत्तमम् T2, T, G., Com,"
 
  ४६. अथ चतुर्भिस्तद्गृहं वर्णयति॥ दिश इति॥ दिशो द्योतयमानाभिः प्रकाशयन्तीभिः॥ “णिचश्च" इत्यात्मनेपदम्॥ श्रियं शोभामायच्छमानाभिरादधानाभिः॥ “समुदाङ्भ्यो यमोऽग्रन्थे” इत्यात्मनेपदम्॥ “इषुगमियमां छः" इति छः॥ उत्तमाभिरुत्कृष्टाभिर्दिव्यनारीभिः आकुलं संकीर्णमत एवानुत्तमं सर्वोत्तमम्॥
-
-
 
 नित्यमुद्यच्छमानाभिः स्मरसंभोगकर्मसु।  
 जानानाभिरलं लीलाकिल[^626]किञ्चितविभ्रमान्॥४७॥
@@ -6735,8 +6038,6 @@ K. P. TRIVEDI
 
 **कान्तिं स्वां वहमानाभिर्यजन्तीभिः स्वविग्रहान्।  
 नेत्रैरिव पिबन्तीभिः पश्यतां चित्तसंहतीः॥४९॥**
-
-
 
  ४९. कान्तिमिति॥ पुनः स्वां स्वाभाविकीमनाहार्यांकान्तिं लावण्यं वहमानाभिः वहन्तीभिः पुनः स्वविग्रहान् स्वाङ्गानि यजन्तीभिः पूजयन्तीभिः परिष्कुर्वतीभिरित्यर्थः। वहियज्योः स्वरितेतोः "विभाषोपपदेन–” इत्यादिना विकल्पादात्मनेपदम्॥ अथ परस्मैपदाधिकारः॥ पश्यतां द्रष्टृणां चित्तसंहतीर्मनोवृन्दानि नेत्रैः स्वदृष्टिभिः पिवन्तीभिरिवेत्युत्प्रेक्षा। दिव्यनारीभिरित्यनेनान्वयः। अत्र पिबतेः "शेषात्कर्त्तरि परस्मैपदम्" इति परस्मैपदम्॥
 
@@ -6762,8 +6063,6 @@ K. P. TRIVEDI
 मघोने परिमृष्यन्तमारमन्तं परं स्मरे॥५२॥**
 
 [^633]: "सदामोदं N, C., B., E2, E3, T."
-
-
 
  ५२. तमेव विशिनष्टि प्रेति। मदामोदं कस्तूरीपरिमलम्।'मदो रेतसि कस्तूर्याम्' इति विश्वः। प्रवहन्तं प्रकिरन्तमित्यर्थः॥ "प्राद्वहः" इति परस्मैपदम्॥ सुप्तं परिजनान्वितं मघोने इन्द्राय परिमृष्यन्तमसूयन्तम्॥ "परेर्मृषः" इति परस्मैपदम्॥ परमत्यन्तं स्मरे कामे आरमन्तमासजन्तम्॥" व्याङ्परिभ्यो रमः” इति परस्मैपदम्॥
 
@@ -6794,8 +6093,6 @@ K. P. TRIVEDI
 
  ५५. दृष्ट्वेति॥ दुर्मनाः सीतादर्शनाभावाददुःखितचित्तो वायुसंभवो हनूमान् दयितया स्वकान्तया साकमरहो रहस्यभूतो रहीभूतो
 
-
-
 रहसि स्थितः। 'रही रहस्ये सुरते' इति यादवः॥ "अरुर्मनश्चक्षुः—इत्यादिना सलोपे" अस्य च्वौ” इतीकारः॥ तं दशाननं दृष्ट्वा। अत्र सीता नास्तीति मत्वेत्यर्थः। उपारंस्त ततो गृहान्निवृत्त इत्यर्थः। उपपूर्वाद्रमेर्लुङि "विभाषाकर्मकात्” इति पक्षे तङ्॥
 
 **ततः प्राकारमारोहत् क्षपाटानविबोधय[^640]न्।  
@@ -6820,8 +6117,6 @@ K. P. TRIVEDI
 
 **दृष्ट्वाराघवकान्तां तां द्रावयिष्यामि राक्षसान्।  
 तस्या हि दर्शनात्पूर्वं विक्रमः कार्यनाशकृत्॥५८॥**
-
-
 
  ५८. दृष्ट्वेति॥ तां राघवकान्तां सीतां दृष्ट्वा राक्षसान्द्रावयिष्यामि पलाययिष्यामि। अत्रापि द्रवतेर्ण्यन्तात् "अणौ—" इत्यादिनैव परस्मैपदे सर्वं पूर्ववत्। हि यस्मात्तस्याः दर्शनात्पूर्वं विक्रमः पौरुषं कार्यनाशकृत्कार्यहानिकरः॥
 
@@ -6848,8 +6143,6 @@ K. P. TRIVEDI
 
  ६१. तामेव चतुष्टयेन विशिनष्टि अवादिति॥ यस्यां वन्यां वायुर्लताःनर्तयमानवत् नृत्यं कारयन्निव शनैरवात् वाति स्म। यस्यामृतवो
 
-
-
 वसन्तादयः स्नंत्रस्ताः रावणात् भीताः सन्तः अन्योन्यसंपदः परस्परपुष्पफलविभूतीर्नायासयन्त न बाधयामासुः। अत्र यस्यतेश्चलनार्थत्वात् नृत्यतेश्चित्तवत्कर्त्तृकत्वाच्च णौ प्राप्तस्य परस्मैपदस्य "न पादमि—" इत्यादिना प्रतिषेधादात्मनेपदम् ॥
 
 **ज्योत्स्नामृतं शशी यस्यां वापीर्विक[^649]सितोत्पलाः।  
@@ -6871,8 +6164,6 @@ K. P. TRIVEDI
 
 [^651]: "बुद्धिमानपि C, E2, E2, T1,"
 
-
-
  ६४. यस्थामिति॥ रिपुः रावणः स्मरात्कामान्ध्यात् सीतां यस्यां वन्यां वासयते स्म। केवलं वासितवानेव न तु भुक्तवानित्याह। चतुरोऽपि रूयावर्जकुशलोऽपि वृद्धिमानैश्वर्यवानपि आत्मानं तु नारोचयत तस्यै रुचितं कर्त्तुं न शशाकेत्यर्थः तथा दृढव्रतत्वात्तस्या इति भावः। वसिरुच्योः पूर्ववत्परस्मैपदप्राप्तिप्रतिषेधयोः "णिचश्च " इति तङ्॥
 
 **मन्दायमानगमनो हरितायत्तरुं कपिः।  
@@ -6888,8 +6179,6 @@ K. P. TRIVEDI
 [^653]: "आलोचिषत B."
 
  ६६. अस्यदन्निति॥ इन्दुमणयश्चन्द्रकान्ता अस्यदन् चन्द्रांशुस्पर्शात्प्रसुस्रुवुः। कुमुदाकराः व्यरुचन् विचकसुरित्यर्थः। स्तबकोच्चयाः
-
-
 
 अन्येऽपि कुसुमगुच्छव्रजाःवातेन प्रकीर्णाः विक्षिप्ताः सन्तः अलोठिषत लुठन्ति स्म। सर्वत्र लुङि द्युतादित्वात् "पुषादि —" इत्यादिना च्लेरङादेशः॥ "द्युद्भ्यो लुङि” इति विकल्पात्परस्मैपदं लुठेस्तङ्च॥
 
@@ -6907,8 +6196,6 @@ K. P. TRIVEDI
 अकल्प्स्यदुद्यतिः सर्वा हनूमानित्यचिन्तयत्॥६९॥**
 
  ६९. निरिति॥ सीतायाः वार्त्ता वृत्तान्तो न निरवर्त्स्यच्चेन्न निर्वृत्ता न जाता चेदित्यर्थः॥ "वृद्भ्यः स्यसनोः" इति वृत्तेर्लृङि परस्मैपदम्।
-
-
 
 तदा नोऽस्माकं सर्वा समुद्रलङ्घनादिरुद्यतिरुद्यमः। यमेः स्त्रियां क्तिन्॥ "अनुदात्तोपदेश—" इत्यादिना अनुनासिकलोपः॥ वितथा व्यर्थैवाकल्प्स्यदभविष्यत्। क्लृपेर्लृङि "लुटि च क्लृपः" इति चकाराद्वा परस्मैपदम्। लुटि नोदाहृतम्। इति हनूमानचिन्तयत्। सर्बथा।सीता द्रष्टव्येति निष्टङ्कितवानित्यर्थः॥
 
@@ -6928,8 +6215,6 @@ K. P. TRIVEDI
 
  ७१. तामिति॥ पुनस्तस्य रावणस्य प्रीतेरनुरागात् पराजयमानां पराङ्मुखीभवन्तीं तामसहमानामित्यर्थः॥ “पराजेरसोढः" इति प्रीतेरपादानत्वम्। पुनः कीदृशीम्। दशाननात् स्वकान्तादीप्सितात्तत्कान्ताभिः सीताचापलशङ्किनीभिः सापत्न्यार्थं रक्ष्यां वार्यांवारणीयत्वेनाभिमताम्।अन्यथा तस्य तदेकायत्तत्वे स्वसौभाग्यभङ्ग-
 
-
-
 प्रसङ्गादिति सीतायाः सौन्दर्यातिशयोक्तिः॥ “वारणार्थानामीप्सितः" इति रावणस्यापादानत्वम्॥ तथा रक्षोभ्योऽन्तर्दधानां रक्षांसि मां मा द्राक्षुरिति लीयमानामित्यर्थः॥ “अन्तर्धौयेनादर्शनमिच्छति" इत्यपादानत्वम्॥ मलिनां संस्काराभावान्मलिनाङ्गीमत एव म्लानमूर्धजां रूक्षकेशीम्॥
 
 **रामादधीतसंदेशो वायोर्जातश्च्युतस्मिताम्।  
@@ -6945,8 +6230,6 @@ K. P. TRIVEDI
 [^657]: "गाद्राक्षसेश्वरः T, G, Com."
 
  ७३. अथ पञ्चभिः संप्रदानकारकभेदानुदाहरति। रोचमान इति॥ कुदृष्टिभ्यः कुबुद्धिभ्यो दुरात्मभ्यो रोचमानो रुचिकरो न तु साधुभ्य इति भावः॥ "रुच्यर्थानां प्रीयमाणः” इति संप्रदानत्वम्॥ रक्षोभ्यः श्रियं प्रत्तवान् प्रकर्षेण दत्तवान्। प्रपूर्वाद्ददातेः क्तवतुप्रत्ययः॥ "अच उपसर्गात्तः" इति दस्तकारः॥ "कर्मणा यमभिप्रैति—" इत्यादिना रक्षसां संप्रदानत्वम्॥ परस्त्रीभ्यः श्लाघमानः कत्थमानः। तासां यथाविदितं तथा ताः स्तुवानस्तत्कामुकतयेत्यर्थः॥ "श्लाघह्नुङ्—" इत्यादिना स्त्रीणां संप्रदानत्वम्॥ एवंभूतो राक्षसेश्वरो रावणस्तत्र तस्मिन् सीतादर्शनकाल एवागात्। तं देशमागत इत्यर्थः। आङ्पूर्वादिणः “इणो गा लुङि" इति गादेशः॥"
-
-
 
 अशप्त[^658]निह्नुवानोऽसौ सीतायै स्मरमोहितः।  
 धारयन्निव चैतस्यै[^659] वसूनि प्रत्यपद्यत॥७४॥
@@ -6975,8 +6258,6 @@ K. P. TRIVEDI
 
  ७६. समिति॥ हे मृगेक्षणे सीते दिदृक्षुंत्वां द्रष्टुमिच्छुं मां त्वं किं मृषा मुधा संक्रुध्यसि। पूर्वेण संप्रदानत्वे प्राप्ते "क्रुधद्रुहोरुपसृष्टयोः कर्म" इति कर्मत्वम्। किं च परस्त्रीभ्यः ईक्षितव्यं तासां शुभाशुभप्रश्ने तत्परीक्षार्थं यदीक्षणं भवितव्यम्॥ "राधीक्ष्योर्यस्य विप्रश्नः"
 
-
-
 इति स्त्रीणां संप्रदानत्वम्। अयम्। विधेयप्राधान्यात्पुल्लिंङ्गनिर्देशः। रक्षसां स्वधर्मो जातिप्रयुक्तो धर्मः। अतो नायं दोष इति भावः॥
 
 **शृण्वद्भ्यःप्रतिशृण्वन्ति मध्यमां भीरु नोत्तमाः।  
@@ -6990,8 +6271,6 @@ K. P. TRIVEDI
 [^664]: "योगेन T2, T4."
 
  ७८. इच्छेति॥ विषयान् दीव्यन्ती शब्दादिविषयैः क्रीडन्ती त्वम्॥ "दिवः कर्म च" इति देवकरणस्य विकल्पात्कर्मत्वम्॥ भुवनेश्वरं त्रैलोक्यनाथं मां स्नेहेन करणेनेच्छ प्रतीच्छ॥ "साधकतमं करणम्" इति करणत्वात्तृतीया॥ किं च सम्भोगाय परिक्रीतः संभोगेन परिक्रीतः दासीकृतोऽहम्॥ "परिक्रयणे संप्रदानमन्यतरस्याम्” इति विकल्पा-
-
-
 
 त्परिक्रयणकरणस्य संभोगस्य संप्रदानत्वम्॥ तवाप्रियं न कर्त्तास्मि न करिष्यामि। करोतेर्लुटि मिपि तास्॥
 
@@ -7012,8 +6291,6 @@ K. P. TRIVEDI
 **मावमंस्था नमस्यन्तमकार्यज्ञे जगत्पतिम्॥  
 संदृष्टे मयि काकुत्स्थमधन्यं कामयेत का॥८१॥**
 
-
-
  ८१. न च रामो न त्याज्य इत्याह मेति॥ हे अकार्यज्ञेमूढे नमस्यन्तं प्रणमन्तम्॥ "नमोवरिवश्चित्रङः क्यच्” इति क्यजन्ताल्लटः शत्रादेशः॥ जगत्पतिं जगद्वन्द्यंमां मावमंस्थाः मावमन्यस्व। मन्यतेः कर्त्तरि लुङि थास्॥ "कर्त्तुरीप्सिततमं कर्म" इति जगत्पतेः कर्मत्वम्॥ मयि संदृष्टे सति अधन्यमभाग्यं काकुत्स्थं रामम्॥ "तथायुक्तं चानीप्सितम्" इति रामस्यानीप्सितकर्मत्वम्॥ का स्त्री कामयेत न कापीत्यर्थः॥
 
 यः पयो दोग्धि पाषाणं स रामाद्भूतिमाप्नुयात्।  
@@ -7027,8 +6304,6 @@ K. P. TRIVEDI
 [^667]: "भुवनश्रियम् T2,"
 
  ८३. स्वप्रीतेः फलमाह प्रीत इति॥ अहं प्रीतः सन् भवतीं भुवनत्रयं भोजयिष्यामि। निगरणार्थत्वात्परस्मैपदम्। किमत्यर्थंबिलापयसे विविधं भाषयसे आत्मानमिति शेषः॥ “णिचश्च" इत्यात्मनेपदम्॥ रावणं
-
-
 
 पार्श्वे शायय॥"अणावकर्मकात्—" इत्यादिना परस्मैपदम्॥ सर्वत्र “गतिबुद्धि—" इत्यादिना अणि कर्त्तुः कर्मत्वम्॥
 
@@ -7045,8 +6320,6 @@ K. P. TRIVEDI
 [^668]: "पापान्ववसितं D., T., G., Com."
 
  ८५. वचनमिति॥ पतिप्रिया पतिव्रता सीता रक्षसां पत्युः रावणस्य वचनमनु क्रुद्धा वचनेन हेतुना क्रुद्धा सतीत्यर्थः॥ "अनुर्लक्षणे” इति हेत्वर्थे कर्मप्रवचनीयसंज्ञा॥ अत्र सूत्रे लक्षणशब्दस्य हेत्वर्थत्वात् "लक्षणेत्थंभूत—" आदिसूत्रे चिह्नवचनत्वादिति॥ "कर्मप्रवचनीययुक्ते द्वितीया" इति द्वितीया॥ पापमनु पापानु पापेन सहेत्यर्थः॥ "तृतीयार्थे" इति तृतीयार्थे द्योत्ये अनोः कर्मप्रवचनीयसंज्ञायां सहार्थतृतीयापवादेन द्वितीयायां कविना स्वातन्त्र्यात् 'द्वितीया' इति योगविभागात् 'सुप्सुपा' इति वा समासः कृतः। अवसितं पापेन संबद्धं पापिष्ठमित्यर्थः। षिञ् बन्धने इति धातोः कर्त्तरि क्तः। रावणं वचः प्राब्रवीत् प्रोवाच। "ब्रुविशासि—" इति द्विकर्मकत्वम्॥
-
-
 
 न भवाननु[^669] रामं चेदुप शूरेषु वा ततः।  
 अपवाह्य छलाद्वीरौ किमर्थं मामिहाहरः॥८६॥
@@ -7069,8 +6342,6 @@ K. P. TRIVEDI
 
  ८८. आरामेति॥ हे पाप पापाचार आ रामदर्शनाद्रामदर्शनपर्यन्तम्॥ “आङ् मर्यादावचने" इत्याङः कर्मप्रवचनीयत्वात्तद्योगे “पञ्चम्यपाङ्प-
 
-
-
 रिभिः” इति पञ्चमी॥सद्वृत्ताननु साधून्प्रति दुर्वृत्तो दुष्टचरित्रः सन् साधुबाधकः सन्नित्यर्थः॥ “लक्षणेत्थंभूत—" इत्यादिना अनोरित्थंभूताख्याने कर्मप्रवचनीयत्वम्॥ तथा परि स्त्रीं स्त्रीं स्त्रीं प्रति। तेनैव परेर्वीप्सायां कर्मप्रवचनीयत्वम्॥ “वाम्शसोः” इति विकल्पादियङभावपक्षे "अमि पूर्वः” इति पूर्वरूपत्वम्॥ जातमन्मथः सन् श्रियं प्रति लक्ष्मीं लक्षीकृत्य विद्योतस्व श्रीमानयमिति श्रीचिह्नः सन् दीप्यस्व। रामदर्शने सति त्वं सद्यो विनङ्क्ष्यसीति भावः। तेनैव प्रतेर्लक्षणार्थे कर्मप्रवचनीयत्वम्। सर्वत्र तद्योगाद् द्वितीया॥
 
 अभि द्योतिष्यते रामो भवन्तमचिरादिह।  
@@ -7084,8 +6355,6 @@ K. P. TRIVEDI
 [^672]: "॰मभिरामं D., B. ॰मधिरामं E3."
 
  ९०. कुत इति॥ हे क्रूर तेन रामेण पत्रिभिर्बाणैः निहतः प्रहृतः सन् कुतोऽधि यास्यसि क्व यास्यसीत्यर्थः॥ "अधिपरी अनर्थकौ” इत्यधेरनर्थकत्वाद्धात्वर्थातिरिक्तार्थरहितत्वात्कर्मप्रवचनीयत्वं गत्युपसर्गसंज्ञाबाधनार्थमन्यथा “गतिर्गतौ” इति निघातापातात्॥ हे मदोद्धत भवता अत्युग्रं यथा तथा अति रामं राममतिक्रम्य॥"अतिरतिक्रमणे च" इति कर्मप्रवचनीयत्वे द्वितीया॥ न सूक्तं साधु नोक्तम्॥ “सुः
-
-
 
 पूजायाम्" इति कर्मप्रवचनीयत्वम्॥ सर्वस्यास्य फलमाशुभावीति भावः॥
 
@@ -7109,8 +6378,6 @@ K. P. TRIVEDI
 
  ९२. अपीति॥ हे नराशन मनुष्यभक्षक अस्मानपि स्तुहि स्तुहि वा अपि सेध निषेध निन्द वेत्यर्थः। धातूनामनेकार्थत्वात्। अपेरन्ववसर्गे कामचारे तेनैव संज्ञा। तथ्यं 'परिशेषं न नाम्नोऽपि' इति वाक्यं यथार्थमुक्तोऽसि। 'अप्रधाने दुहादीनाम्' इत्यप्रधाने कर्मणि क्तः। किं च मय्यपि चाभीकःकामुकस्त्वम्॥ “अनुकाभिकाभीकः कमिता" इति निपातनात्साधुः॥ कृशानावपि दर्पं वीर्यं सिञ्चेः क्षारयेः। अत्र तेनैव गर्हायां संज्ञा। अत्र सर्वत्रोपसर्गसंज्ञानिवृत्त्यर्थत्वात् स्तौतिसेधतिसिञ्चतीनाम् "उपसर्गात्सुनोति—" इत्यादिना न षत्वम्। मत्कामुकस्त्वं कृशानौ वीर्यं सिञ्चेरित्यसंभवद्वस्तुसंबन्धो निदर्शनालङ्कारः॥
 
-
-
 अधि रामे पराक्रान्तमधिकर्त्ता स ते क्षयम्।  
 इत्युक्त्वा मैथिली तूष्णीमासाञ्चक्रे दशाननम्॥९३॥
 
@@ -7125,8 +6392,6 @@ K. P. TRIVEDI
 न मासे प्रतिपत्तासे मां चेन्मर्त्तासि मैथिलि॥९५॥
 
  ९५. चिरेणेति॥ मैथिलि चिरेण चिरकालेनानुगुणमनुकूलं प्रियं प्रोक्ता।दुहादित्वादप्रधाने कर्मणि क्तः। तथापि प्रतिपत्तेरङ्गीकारस्य पराङ्मुखी। चिरेणेत्यपवर्गतृतीयार्थेऽव्ययम्। मां मासे मासान्न प्रतिपत्तासे चेत् न प्राप्स्यसे चेत्। पद्यतेर्लुटि “थासः से" इति से
-
-
 
 आदेशः। मर्त्तासि मरिष्यसि॥ “म्रियतेर्लुङ्लिङोश्च" इति नियमाल्लुटि परस्मैपदम्॥ त्वं मामिति कर्त्तृकर्मकारकमध्यगतत्वात् "सप्तमीपञ्चम्यौ कारकमध्ये" इति मासे इति सप्तमी॥
 
@@ -7159,8 +6424,6 @@ K. P. TRIVEDI
 
  ९८. रावणाय इति॥ हे सीते रावणाय नमस्कुर्याः प्रणम।तदा ते तुभ्यं स्वस्ति भद्रं स्यात्। अन्यथा अनमस्कारे वयं त्वां प्रातराशाय
 
-
-
 प्रातर्भोजनाय अलं पर्याप्तं कुर्याम। सर्वत्र "नमःस्वस्ति—" इत्यादिना चतुर्थी॥
 
 तृणाय मत्वा ताः सर्वा वदन्तीस्त्रिजटावदत्।  
@@ -7184,8 +6447,6 @@ K. P. TRIVEDI
 
  १०१. आप्तयेति॥ आप्तया हितया त्रिजटया। कर्त्तरि तृतीया। तर्जिताः भर्त्सिताः मुखैर्भीमाः॥ “येनाङ्गविकारः" इति तृतीया॥ भीमैरितिपाठे "इत्थंभूतलक्षणे" इति तृतीया॥ भीमैः वचनकर्मभिः उपलक्षिताः॥ "इत्थंभूतलक्षणे" इत्यनेनैव तृतीया॥ सर्वाः राक्षस्यः सुषुप्सवः स्वप्तुमिच्छवःसत्यः यथायथं यथास्वम्॥ "यथास्वे यथायथम्" इति निपातः॥ तल्पान् शय्याः ययुः॥
 
-
-
 गतासु तासु मैथिल्या[^688]संजानानोऽनिलात्मजः।  
 आयातेन[^689]दशास्यस्य संस्थितोऽन्तर्हितश्चिरम्॥१०२॥
 
@@ -7208,8 +6469,6 @@ K. P. TRIVEDI
 [^691]: "°देति T2, T4."
 
  १०४. तमिति॥ सीता तं हनूमन्तं दृष्ट्वा एषः रावणः एव वानरविग्रहो वानराकारः सन् तरोर्वृक्षादवरुह्य कस्य हेतोः केन हेतुना॥ “सर्वनाम्नस्तृतीया च" इति चकारात्षष्ठी॥आरात्समीपमैतीत्यचिन्तयत्॥
-
-
 
 **पूर्वस्मादन्यवद्भाति भावाद्दाशरथिं स्तुवन्।[^692]  
 ऋते कौर्यात्समायातो मां विश्वासयितुं नु[^693]किम्॥१०५॥**
@@ -7241,8 +6500,6 @@ K. P. TRIVEDI
 
 [^697]: "चैवं T3. चैषा T2, T4"
 
-
-
  १०८. दण्डकामिति॥ किं चाहं दण्डकां दक्षिणेन दण्डकाया दक्षिणतः॥ "एनबन्यतरस्यामदूरेऽपञ्चम्याः" इत्येनप्॥ "एनपा द्वितीया" इति द्वितीया॥सरितोऽद्रीन्वनानि चोदधिं चैवातिक्रम्य पुंसामगममगम्यं देशम्॥ "ग्रहवृदृनिश्चिगमश्च" इति कर्मण्यप्प्रत्ययः॥ तद्योगात्पुंसामिति कर्मणि षष्ठी। आहृता आनीता॥
 
 पृथग्नभस्वतश्चण्डाद्वैनतेयेन वा[^698]विना।  
@@ -7272,8 +6529,6 @@ K. P. TRIVEDI
 
  १११. विप्रकृष्टमिति॥ महेन्द्रस्य समुद्रतीरवर्त्तिनो महेन्द्रपर्वतस्य न विप्रकृष्टं न दूरं विन्ध्यपर्वताद्दूराद्दूरम्॥ “दूरान्तिकार्थैः षष्ठ्यन्यतर-
 
-
-
 स्याम्" इति विकल्पान्महेन्द्रविन्ध्यपर्वतशब्दाभ्यां षष्ठीपञ्चम्यौ॥ "दूरान्तिकार्थेभ्यो द्वितीया च" इति विप्रकृष्टदूरशब्दाभ्यामसत्त्ववचनाभ्यां प्रातिपदिकार्थे विकल्पाद्द्वितीयापञ्चम्यौ।समुद्रस्य पूर्ववत् "दूरान्तिकार्थैः—" इत्यादिना वैकल्पिकी षष्ठी॥ नानभ्याशे अभ्याशे समीप इत्यर्थः। नञ्द्वयप्रयोगस्य प्रकृतार्थगमकत्वात्॥ "सप्तम्यधिकरणे च" इति चकारात्पूर्ववदसत्त्ववचनादन्तिकार्थात्प्रातिपदिकार्थे सप्तमी॥ एवंभूतः अत्र माल्यवति पर्वते तव प्रियो रामः वसतीति शेषः॥
 
 असंप्राप्ते दशग्रीवे प्रविष्टोऽहमिदं वनम्।  
@@ -7294,8 +6549,6 @@ K. P. TRIVEDI
 जातो रामस्य सुग्रीवस्ततो दूतोऽहमागतः[^706]॥११४॥
 
 [^706]: "ततोऽहं दूत आगतः E3."
-
-
 
  ११४. वानरेष्विति॥ वानरेषु स्वामी वानराणामीश्वरः सुग्रीवो नाम कपिः नरेष्वधिपतेर्नरेन्द्रस्य रामस्य सखा जातः॥ "स्वामीश्वर—" इत्यादिना विकल्पादुभयत्र सप्तमी। ततस्तयोः। सार्वविभक्तिकस्तसिः। अहं दूतः आगतः॥
 
@@ -7322,8 +6575,6 @@ K. P. TRIVEDI
 
  ११७. भवत्यामिति॥ भवत्यामुत्सुकस्त्वय्युत्कण्ठितस्ते तव सङ्गमेन प्रसितः संगतावासक्तो रामः॥ "प्रसितोत्सुकाभ्यां तृतीया च" इति विकल्पात्तृतीयासप्तम्यौ॥ मघासु मघायुक्तकाले॥ “नक्षत्रेण युक्तः
 
-
-
 कालः" इत्यणि "लुबविशेषे" इति तस्य लुपि “लुपि युक्तवद्व्यक्तिवचने" इति प्रकृतिलिङ्गवचनत्वात् स्त्रीलिङ्गबहुत्वे “नक्षत्रे च लुपि" इति लुबन्तान्नक्षत्रवाचकशब्दाद्वैकल्पिकी सप्तमी॥ पितृभ्यः कृतनिवापः कृतपिण्डोदकक्रियः सन्। 'पितृदानं निवापः स्यात्' इत्यमरः। अत्र 'पितृभ्यः कृतनीवापः' इति पाठान्तरम्। तदा "उपसर्गस्य घञ्यमनुष्ये बहुलम्” इत्युपसर्गस्य दीर्घः। मां व्यसर्जयत् इतः प्रेषितवानित्यर्थः॥
 
 इदं[^711] मैथिल्यभिज्ञानं काकुत्स्थस्याङ्गुलीयकम्।[^712]  
@@ -7344,8 +6595,6 @@ K. P. TRIVEDI
 
  ११९. जानीष्वेति॥ हे देवि अतः अभिज्ञानाहर्त्तृत्वाद्भर्त्तुः प्रियं दूतं कपिमेनं मां दृष्ट्वा ते तव भर्त्ता राम आस्ते सुखेन तिष्ठतीति विश्वसेत्यर्थः। त्वमपि प्रत्यभिज्ञानस्य प्रत्यायकस्याभिज्ञानस्य अभिज्ञानेने-
 
-
-
 त्यर्थः॥ "ज्ञोऽविदर्थस्य करणे” इति जानातेरवेदनार्थस्य करणे षष्ठी॥ सततं जानीष्व अनन्तरकर्त्तव्येऽभिज्ञानदानादौ प्रवर्त्तस्वेत्यर्थः। प्रवृत्तिवचनो जानातिरविदर्थ इति काशिका॥
 
 रामस्य दयमानोऽसावध्येति तव लक्ष्मणः।  
@@ -7363,8 +6612,6 @@ K. P. TRIVEDI
 [^717]: "धृत्या नाथस्व N., C., T., G., E2,E³, B."
 
  १२१. रावणस्येति॥ हे भीरु कपीनां विक्रमाः पराक्रमाः। क्रमेर्भावे घञ्॥ "नोदात्तोपदेशस्य—" इत्यादिना वृद्धिप्रतिषेधः॥ इह लङ्कायां रावणस्य रोक्ष्यन्ति रावणं भङ्क्ष्यन्तीत्यर्थः। रुजो भङ्ग इत्यस्माल्लृट्॥ "रुजार्थानां भाववचनानामज्वरेः" इति भावकर्त्तृकरुजार्थयोगाद्रावणस्येति कर्मणि शेषे षष्ठी॥भाववचनानां भावकर्त्तृकाणामित्यर्थः। विक्रमाश्चात्र भावाः कर्त्तारः। हे वैदेहि धृत्याः धृतेर्नाथस्व आशास्स्व। धैर्यमवलम्बस्वेत्यर्थः॥ “आशिषि नाथः" इत्युपसंख्यानात्तङ्॥ आत्मनो मन्योः शोकस्योज्जासय मन्युं हिन्धीत्यर्थः॥“जासिनिप्रहण—" इत्यादिना कर्मणि षष्ठी॥ जसु हिंसायामिति चौरादिको धातुः।
-
-
 
 राक्षसानां मयि गते रामः प्रणिहनिष्यति।  
 प्राणानामपणिष्टायं[^718] रावणस्त्वामिहानयन्[^719]॥१२२॥
@@ -7395,8 +6642,6 @@ K. P. TRIVEDI
 
  १२४. तवेति॥ हे मैथिलि तवोपशायिकाः पर्यायशायिन्यः॥ "पर्यायार्हणोत्पत्तिषु ण्वुच्” इति पर्यायार्थे ण्वुच्॥ राक्षस्यो यावन्न चेत-
 
-
-
 यन्ति न प्रबुध्यन्ते तावदेव शृङ्गस्य विकारः शार्ङ्गंधनुस्तस्य भर्त्तुः धारकस्य धनुर्धरस्य रामस्य प्रतिसंदिश्यताम्। संदेष्टुस्तस्य प्रतिसंदेशः क्रियतामित्यर्थः। भर्त्तुरिति शेषे षष्ठी। अन्यत्र कुद्योगात्कर्मणि षष्ठी॥
 
 पुरः प्रवेशमाश्चर्यं बुद्ध्वा[^725] शाखामृगेण सा।  
@@ -7418,8 +6663,6 @@ K. P. TRIVEDI
 [^729]: "व्यवर्जयत्T3."
 
  १२६. रामस्येति॥ रामस्य शेतेऽस्मिन्निति शयितं शयनस्थानं तथा भुङक्तेऽस्मिन्निति भुक्तं भोजनस्थानं जल्पितं जल्पनं हसितं हसनं स्मितं तिष्ठत्यस्मिन्निति स्थितं निवासस्थानं प्रक्रामति गच्छत्यस्मिन्निति प्रक्रान्तं चङ्क्रमणस्थानं च मुहुः पृष्ट्वा हनूमन्तं व्यसर्जयत्। अत्र जल्पितहसितयोः किं जल्पन् हसन् तिष्ठतीति सत्ताप्रश्नः॥ “नपुंसके भावे क्तः" इति भावे क्तः॥ तद्योगात् "नपुंसके भाव उपसंख्यानम्" इति षष्ठी। अन्यत्र क्वशेते क्वभुङ्क्ते इत्यादिस्थानप्रश्नः॥ "क्तोऽधिकरणे च ध्रौव्यगतिप्रत्यवसानार्थेभ्यः" इत्यधिकरणे क्तः॥ तद्योगात् "अधिकरणवाचिनश्च" इति षष्ठी॥ ध्रौव्यकर्मत्वम्॥
-
-
 
 असौ दधदभिज्ञानं चिकीर्षुः कर्म दारुणम्[^730]।  
 गामुकोऽप्यन्तिकं[^731] भर्त्तुर्मनसाचिन्तयत्क्षणम्[^732]॥१२७॥
@@ -7452,8 +6695,6 @@ K. P. TRIVEDI
 
  १२९. वैदेहीमिति॥ वैदेहीं दृष्टवान् अन्यदपि स्वामिनिर्दिष्टादधिकं च दुष्करं कर्म कृत्वा यशः कीर्त्तिमुपादाता साधु संपादयिता सन्। साधुकारिणि तृन्। प्रभोः रामस्य वार्त्तां सीतादर्शनवृत्तान्तमाख्यायकः आख्यास्यन्॥ “तुमुन्ण्वुलौ—" इत्यादिना भविष्यदर्थे ण्वुल्-
 
-
-
 प्रत्ययः॥"अकेनोः—" इत्यादिना षष्ठीप्रतिषेधः॥ यास्यामि गमिष्यामि॥
 
 राक्षसेन्द्रस्य संरक्ष्यं मया लव्यमिदं वनम्।  
@@ -7481,8 +6722,6 @@ K. P. TRIVEDI
 
 [^742]: "॰नादितदिशं T2, T., G., Com. नादितककु॰ E3, c."
 
-
-
  १३२. अथ सर्गान्तत्वाद्भिन्नवृत्तं श्लोकमाह। विलुलितेति॥ विलुलितैर्विक्षिप्तैः पुष्परेणुभिः कपिशं पिशङ्गं प्रशान्तानि प्रसन्नानि कलिकाः कोरकाः पलाशानि पर्णानि कुसुमानि यस्मिन् तत् कुसुमनिपाते चित्रा चित्ररूपा वसुधा यस्मिन् तत् सशब्दाः शब्दायमाना निपतन्तः प्रचरन्तो द्रुमोत्काः निवासवृक्षोत्सुकाश्च शकुनाः पक्षिणो यस्मिन् तत् तथा शकुननिनादैः पक्ष्यारावैः नादिताः प्रतिध्वानिता दिशाः दश दिशो येन तत्। 'टाबन्तत्वं हलन्तानां यथा वाचा निशा दिशा' इति वचनात् टाबन्तस्योपसर्जनह्रस्वत्वम्। विलोलाश्चपलाः विपलायमाना भयात्पलाय्य गच्छन्तो हरिणा मृगाः यस्मिन् तत् हरिणविलोचनायाः सीतायाः अधिवसतिं निवासस्थानं रिपुवनं रावणोद्यानं पवनात्मजो हनूमान् बभञ्ज॥ वैकृतमश्वललितं वृत्तम्। 'यदिह नजौ भजौ जभलगास्तदाश्वललितं शिवार्कयति तद्' इति लक्षणात्। अत्र विलुलितेत्यादि स्वभावोक्तिः हरिणविलोचनेत्युपमा। यमकविशेषस्तु शब्दालङ्कारः॥
 
 इति भट्टिकाव्येऽधिकारकाण्डेऽशोकवनिकाभङ्गनामाष्टमः सर्गः॥
@@ -7491,8 +6730,6 @@ K. P. TRIVEDI
 विरचिते भट्टिकाव्यव्याख्याने सर्वपथीनाख्याने अष्टमः सर्गः॥
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 ॥ श्रीः॥
 
@@ -7523,8 +6760,6 @@ K. P. TRIVEDI
 
  ३. तत इति॥ ततो निवेदनानन्तरमिन्द्रजितं सूत इतीन्द्रजित्सूः रावणः। सूतेः “सत्सूद्विष—” इत्यादिना क्विप्। क्रोधमूर्च्छितः क्रोधान्धः सन् मारुतेर्हनूमतः विनाशाय वधाय किं कुर्वन्तीति
 
-
-
 किङ्कराः भृत्याः॥ "दिवाविभा—" इत्यादिना करोतेष्टः॥ तेषां किङ्कराणामष्टौ दश दशकाः परिमाणमेषामशीतिमशीतिसंख्याकानि। “पङ्क्ति—" आदिसूत्रेऽष्टदशशब्दस्याशीति वा भवतीति प्रत्ययनिपातनात्साधुः। 'विंशत्याद्याः सदैकत्वे संख्याः संख्येयसंख्ययोः' इत्यमरः। सहस्राणि समादिशत् समादिष्टवान्॥
 
 शक्त्यृष्टिपरिघप्रास[^748]गदामुद्गरपाणयः।  
@@ -7549,8 +6784,6 @@ K. P. TRIVEDI
 [^751]: "समुद्रेणैव D., T2"
 
  ६. कपिनेति॥ अथ राक्षसा अम्भोधिधीरेण तद्वद्दुरवगाहेन कपिना हनूमता वर्षासु प्रावृट्सु उद्धततोयौघाः उद्रिक्तजलप्रवाहाः सिन्धवो
-
-
 
 नद्यः समुद्रेणेव समगंसत संगताः। संपूर्बाद्गमेर्लुङि "समो गम्यृच्छि—" इत्यादिना तङि च्लेःसिच्। उपमालङ्कारः॥
 
@@ -7591,8 +6824,6 @@ K. P. TRIVEDI
 
 [^762]: "बहूनां न्यग्रहीद् T4."
 
-
-
  ९. अवादीदिति॥ कपिर्हनूमान् हे मूर्खास्तिष्ठत क्वयास्यथेत्युच्चैरवादीत्॥ "वदव्रज—" इत्यादिना नित्यं वृद्धिः॥ परिघं परिघेण॥ "दिवः कर्म च" इति वैकल्पिकी साधकतमस्य कर्मसंज्ञा॥ तथा तेन प्रकारेण प्रादेवीत् विजिगीषितवान् प्रहृतवानित्यर्थः। दीव्यतेर्लुङि "नेटि" इति वृद्धिप्रतिषेधः। यथा येन प्रकारेण बहूनां द्विषां प्राणानग्रहीत् स्वयं गृहीतवान् परिघेणैव बहूनि जघानेत्यर्थः। ग्रहेर्लुङि "हयन्तक्षण—” इत्यादिना वृद्धिप्रतिषेधः॥
 
 व्रणै[^763]रवामिषू रक्तं देहैः प्रौर्णाविषु[^764]र्भुवम्।  
@@ -7615,8 +6846,6 @@ K. P. TRIVEDI
 
  ११. अराणिषुरिति॥ प्रियासवः प्रियप्राणाः केचित् भिन्नदेहा अत एव च्युतोत्साहा नष्टोत्साहाः सन्तः अराणिषुः केवलमाक्रन्दन्। किं च कपेर्नादात्सिंहनादाद्गजाः सिंहध्वनेः सिंहघोषादिव अत्रसिषुरभैषुः। उभयत्रापि "अतो हलादेर्लघोः" इति वैकल्पिकौ वृद्धितदभावौ॥
 
-
-
 अथेटप्रतिषेधाधिकारः।
 
 **मायानामीश्वरास्तेऽथ[^768]शस्त्रहस्ता रथैः कपिम्।  
@@ -7630,8 +6859,6 @@ K. P. TRIVEDI
 जघानाधूय परिघं विजिघृक्षून् समागतान्॥१३॥**
 
  १३. तानिति॥वानरो हनूमान् क्षियन्ति निवसन्त्यस्यामिति क्षितिःक्षोणिः। स्त्रियां क्तिन्॥ "तितुत्र–" इत्यादिना इट्प्रतिषेधः॥ तस्यांचेतव्यान् चेतुमर्हान् हत्वा राशीकर्त्तव्यानित्यर्थः। चिनोतेस्तव्यः॥"एकाच उपदेशेऽनुदात्तात्" इतीट्प्रतिषेधः॥ युतानेकार्थतया मिथःसंगतान्। यौतेः कर्त्तरि क्तः। विजिघृक्षून् विग्रहीतुमिच्छून् विरुरुत्सूनन्।ग्रहेः सन्नन्तादुप्रत्ययः॥ "रुदविद–" इत्यादिना सनः कित्वात्संप्रसारणादिकार्यम्॥ “सनिग्रहगुहोश्च" इतीट्प्रतिषेधः॥ समागतान्युयुत्सया प्राप्तांस्तान्राक्षसान् तोरणं श्रित्वा आश्रित्य॥ "श्र्युकःकिति" इतीट्प्रतिषेधः॥ युतानित्युक उदाहरणम्। परिघमाधूयपरिभ्राम्य जघान॥
-
-
 
 संजुघुक्षव आयूंषि ततः प्रतिरुरूषवः[^769]।  
 रावणान्तिकमाजग्मु[^770]र्हतशेषा निशाचराः॥१४॥
@@ -7660,8 +6887,6 @@ K. P. TRIVEDI
 
 १६. मांसेति। सः रावणः तान् राक्षसान् उद्विग्नान्भीतानवेत्य ज्ञात्वाउद्वृत्तनयनः क्रोधात्प्रलुठिताक्षितारकः सन्॥ “यस्य विभाषा" इतिवृतेर्निष्ठायामिडागमाभावः॥ मांसोपभोगेन मांसभक्षणेन संशूनान्सम्यक् पीनान्। श्वयतेः कर्त्तरि क्तः॥ "ओदितश्च" इति निष्ठानत्वम्॥यजादित्वात्संप्रसारणे "संप्रसारणाच्च" इति पूर्वरूपत्वम्॥ "हलः"
 
-
-
 इति दीर्घः॥ "श्वीदितो निष्ठायाम्” इतीडभावः॥ एवमुद्विग्नेऽपि निष्ठानत्वे इट्प्रतिषेधः। मिन्नान् स्निग्धान् मांसाहारमसृणगात्रानित्यर्थः।ञिमिदा स्नेहन इत्यस्मात्कर्त्तरि क्तः॥ “रदाभ्याम्–" इत्यादिनानिष्ठानत्वम्॥ "ओदितश्च” इतीट्प्रतिषेधः॥ स्वान्मन्त्रिणः सचिवान्व्यसर्जयत्॥
 
 प्रमेदिताः[^775] सपुत्रास्ते सुस्वान्ता[^776] बाढविक्रमाः।  
@@ -7684,8 +6909,6 @@ K. P. TRIVEDI
 
  १८. अथ युग्मेनाह तानित्यादिना॥ धृष्टो वियातः "धृषिशसी वैयात्ये”इति धृषेर्निष्ठायामिट्प्रतिषेधः॥ कपिर्हनूमान् अतिदृढानतिबलिष्ठान्परिवृढस्य प्रभोः रावणस्य आज्ञया प्राप्तान्॥ "दृढः स्थूलबलयोः"॥"प्रभौ परिवृढः” इति च निपातनादुभयत्रानिट्त्वम्॥ कष्टं कृच्छ्रंयथा भवति तथा विनर्दतो गर्जतः॥ “कृच्छ्रगहनयोः कषः” इति
 
-
-
 कषेर्निष्ठायामिडभावः॥ क्रूरान् हिंस्रान् शस्त्रैः शस्त्रघर्षणैर्घुष्टकरान् शब्दायमानपाणीन्॥ "घुषिरविशब्दने" इति घुषेर्विशब्दनात्स्वाभिप्रायाविष्करणादन्यत्र शब्दनमात्रे निष्ठायामिट्प्रतिषेधः। तान् राक्षसान्दृष्ट्वा आर्दिददित्युत्तरेण संबन्धः॥
 
 अव्यर्णो[^780] गिरिकूटाभानभ्यर्णानार्दिदद्द्रुतम्।  
@@ -7705,8 +6928,6 @@ K. P. TRIVEDI
 [^782]: "प्रशान्तोर्जान् C, D, T1, T2, T3"
 
  २०. दमितारिरिति॥ दमितारिः शिक्षितारिः प्रशान्तौजाः प्रशमितारिबलः। प्रशान्तोर्ज इति पाठान्तरम्। नादेन सिंहनादेन आपूरितानिदिङ्मुखानि येन सः रुषितः क्रुद्धः स हनूमान् रुष्टान् क्रुद्धान् तूर्णमागतान् मन्त्रिणस्त्वरितस्त्वरावान् जघान। दमिशमिपूरीणांण्यन्तानां "वा दान्त–" इत्यादिना निष्ठायां विकल्पेनेट्प्रतिषेधनिपातनादुभयरूपता॥ "रुष्यमत्वरसंघुषास्वनाम्” इति विकल्पाद्रुषेरुभयरूपता॥
-
-
 
 **तेषां निहन्यमानानां[^783] संघुष्टैः कर्णभे[^784]दिभिः।  
 अभूदभ्यमितत्रासमास्वान्ता[^785]शेषदिग्जगत्॥२१॥**
@@ -7735,8 +6956,6 @@ K. P. TRIVEDI
 हत्वा रक्षांसि लवितुमक्रमीन्मारुतिः पुनः।  
 अशोकवनिकामेव निगृहीतारिशासनः॥ २३॥
 
-
-
  २३. हत्वेति॥ मारुतिर्हनूमान् रक्षांसि हत्वा निगृहीतारिशासनोनिरस्तरावणाज्ञः सन्॥ "ग्रहोऽलिटि दीर्घः" इति दीर्घश्च॥ पुनरशोकवनिकामेव लवितुं छेत्तुम्॥ "आर्धधातुकस्येड्वलादेः" इतीडागमः॥अक्रमीद्गत इत्यर्थः। क्रमेर्लुङि “स्नुक्रमोरनात्मनेपदनिमित्ते" इतीट्॥"ह्वयन्त–" इत्यादिना सिचि वृद्धिप्रतिषेधः॥
 
 आवरीतुमिवाकाशं वरितुं[^788] वीनिवोत्थितम्।  
@@ -7752,8 +6971,6 @@ K. P. TRIVEDI
 [^789]: "क्षौणीं C. क्षोणिं T2 T3, T4"
 
  २५. वरिषीष्टेति॥ कल्पशाखिनः कल्पवृक्षान् क्षिप्यन् उत्पाट्य स्वर्गं प्रति प्रेरयन्। क्षिपेर्दैवादिकाल्लटः शत्रादेशः। मैथिल्याः शिवं कल्याणंवरिषीष्ट तेभ्यः सीताकल्याणं वरं वृणोत्वित्यर्थः। अत्रातिप्रभूतार्थेवृतवानिति वक्तव्ये भविष्यत्तोपचारादाशीः प्रयोगः। वृणोतेराशीर्लिङिञित्वात्तङि सीयुट्॥ "लिङ्सिचोरात्मनेपदेषु” इति विकल्पादिट्॥"न लिङि” इति दीर्घप्रतिषेधः॥ "सुट्तथोः" इति सुट्। षत्वष्टुत्वे॥किं च समन्ततः क्षिप्ताः वृक्षाः कल्पशाखिनः क्षोणीं भूमिं प्रावारिषुरिव प्रावृतामुत्तरासङ्गवतीमिव चक्रुरित्युत्प्रेक्षार्थः। 'द्वौ प्रावारोत्तरासङ्गौ' इत्यमरः। वृणोतेर्लुङि सिचि वृद्धिः। उदात्तत्वाद्वलादीट्॥"वॄतो वा" इति दीर्घे प्राप्ते "सिचि च परस्मैपदेषु " इति प्रतिषेधः॥
-
-
 
 संवुवूर्षुः स्वमाकूतमाज्ञां विवरिषु[^790]र्द्रुतम्।  
 अवरिष्टाक्षमक्षम्यं कपिं हन्तुं दशाननः॥२६॥
@@ -7777,8 +6994,6 @@ K. P. TRIVEDI
 [^793]: "संस्वरिषीष्ठाश्च T2, T3, T4, T., G., Com"
 
 [^794]: "निर्दयः C, T1, T2"
-
-
 
  २८. द्रुतमिति॥ किं च प्रधनोत्तमे महारणे निर्भयः सन् द्रुतं संस्वरिषीष्ठाश्च सम्यक् शब्दायस्व च। स्वरतेराशीर्लिङ्॥ "समोगम्यृच्छि–" इत्यादिना तङ्॥ "स्वरतिसूति–" इत्यादिना विकल्पादिट्॥ इत्यूचे इति संबन्धः। अथ मायानां सोता प्रसविता।सूतेः सूयतेर्वा तृच्। सोऽक्षः कपेर्द्युतिं तेजो विधवितुं विचालयितुमपनेतुमगाद्गतः॥ "स्वरतिसूति–" इत्यादिना सूधूञोविकल्पादिट्तदभावौ॥
 
@@ -7807,8 +7022,6 @@ K. P. TRIVEDI
 
 [^800]: "व्यस्य E2"
 
-
-
  ३१. एष्टारमिति॥ एषिता प्रतिभटान्वेषणशीलः संख्ये युद्धे भृशंसहिता विमर्दसहः रोष्टा रोषणशीलोऽक्षस्तादृशमेष्टारं सोढारं रेष्टारंहिंसितारं हनूमन्तं रेषितुं शस्त्रसंहतीर्व्यास्यत् क्षिप्तवान्। विपूर्वादस्यतेर्लङ्याड्वृद्धी। एष्टारमित्यादौ सर्वत्र ताच्छील्ये तृन्॥ "तीषसह–" इत्यादिना सर्वत्रेड्विकल्पः॥
 
 शस्त्रैर्दिदेविषुंसंख्ये दुद्यूषुः परिघं कपिः।  
@@ -7825,8 +7038,6 @@ K. P. TRIVEDI
 
  ३३. भूय इति॥ भूयस्ताडितोऽपि पुनः धिप्सुं दधितुं स्तम्भयितुमिच्छुम्। दम्भु स्तम्भ इति धातोः सन्नन्तादुप्रत्ययः॥ “सनी–
 
-
-
 वन्त–" इत्यादिना विकल्पादनिट्पक्षे "दम्भ इच्च" इति दम्भेरचइकारः। पूर्ववदभ्यासलोपः॥ "हलन्ताच्च" इत्यत्र हल्ग्रहणस्यजातिवचनत्वात्सनः कित्त्वे "अनिदिताम्–" इत्यादिना उपधानकारलोपः। दकारस्य भष्भावे धकारः॥ “खरि च" इति चर्त्वे भकारस्यपकारः। तं राजपुत्रमक्षं दिदम्भिषुः स्वयं स्तम्भयितुमिच्छुः। दम्भेरिट्पक्षे रूपम्। आहूय अहन् हतवान्। हन्तेर्लङि हल्ङ्यादिलोपः।ततो घातानन्तरं सोऽक्षो मूर्च्छावान् मूर्च्छितो ध्वजं ध्वजस्तम्भं संशिश्रीषुः संश्रयितुमिच्छुः अभूत् संश्रित इत्यर्थः। श्रयतेः सन्नन्तादुप्रत्ययः॥ श्रयतेः "सनीवन्त–" इत्यादिना विकल्पादनिट्पक्षे “अज्झनगमां सनि" इति दीर्घः॥
 
 आश्वस्याक्षः क्षणाल्लोकान् बिभ्रक्षुरिव तेजसा।  
@@ -7840,8 +7051,6 @@ K. P. TRIVEDI
 कपिर्मायामिवाकार्षीद्दर्शयन् विक्रमं रणे॥३५॥
 
  ३५. समिति॥ बाणैर्दिशः संयुयूषं संयवितुं मिश्रयितुमिच्छुम्।यातेः सन्नन्तादुप्रत्ययः॥ "सनीवन्त–" इत्यादिना अनिट्पक्षे
-
-
 
 "अज्झनगमां सनि" इति दीर्घः॥ अक्षं द्रुमैर्यियविषुः। इट्पक्षे गुणावादेशौ। कपिः रणे विक्रमं दर्शयन् मायामिन्द्रजालमिवाकार्षीत्।तथा सान्द्रं द्रुमान्ववर्षेत्यर्थः॥
 
@@ -7863,8 +7072,6 @@ K. P. TRIVEDI
 संप्राप्य वानरं भूमौ पपात परिघाहतः॥३८॥
 
  ३८. मायाभिरिति॥ राक्षसोऽक्षः सुचिरं मायाभिः क्लिष्ट्वा क्लिशित्वाचिरं युद्ध्वेत्यर्थः अक्लिशितक्रियमक्लिष्टकर्माणमखण्डितपौरुषं वानरंसंप्राप्यासाद्य परिघेणाहतो भूमौ पपात ममारेत्यर्थः॥ “क्लिशःक्त्वानिष्ठयोः" इतीड्विकल्पः॥
-
-
 
 **पवितोऽनुगुणैर्वातैः शीतैः पूत्वा[^806] पयोनिधौ।  
 बभञ्जाध्युषितं भूयः क्षुधित्वा पत्रिभिर्वनम्॥३९॥**
@@ -7893,8 +7100,6 @@ K. P. TRIVEDI
 
  ४१. जरित्वेति॥ अन्ये शाखिनस्तरवो जरित्वेव जीर्णा भूत्वेव तस्यकपेः जवेन वेगेनैव निपेतुः। यथा जीर्णा वायुवेगेनेति भावः। अन्यानतिरूढमूलांस्तरूंस्तलेन पाणितलेन वृश्चित्वा छित्त्वा विवशान्निरालम्बानपातयत्॥ "जॄव्रश्च्योः क्त्वि”॥ इति क्त्वाप्रत्यये नित्यमिट्॥
 
-
-
 दमित्वाप्यरिसं[^812]घातानश्रान्त्वा कपिकेशरी[^813]।  
 वनं चचार कर्त्तिष्यन्नर्त्स्यन्निव निरङ्कुषः॥४२॥
 
@@ -7915,8 +7120,6 @@ K. P. TRIVEDI
 तमप्यकर्त्स्यमद्याहं वदन्नित्यचरत्कपिः॥४४॥
 
  ४४. यदीति। यदि रक्षःपतेः रावणस्य स्वयं स्वत एव योद्धुमभिप्रायो युयुत्सा अकल्प्स्यत् अकल्पिष्यत स्याच्चेदित्यर्थः। क्लृपेःक्रियातिपत्तौ लृङि “लुटि च क्लृपः" इति चकारात्परस्मैपदम्॥“तासि च क्लृपः" इति चकारात्सकाराद्यार्धधातुकेऽपि परस्मैपदेष्विट्प्रतिषेधः॥ अद्याहं तमप्यभिप्रायं तं रावणं वा अकर्त्स्यमकर्त्तिष्यम्॥ कृती छेदने। पूर्ववल्लृङि "सेऽसिचि कृत–” इत्यादिना सकाराद्यार्धधातुकस्य नेट्। इति वदन् कपिरचरत्॥
-
-
 
 हते तस्मिन् प्रियं श्रुत्वा कल्प्ता प्रीतिं परां प्रभुः।  
 तोषोऽद्यैव च सीतायाः[^815] परश्चेतसि कल्प्स्यति॥४५॥
@@ -7946,8 +7149,6 @@ K. P. TRIVEDI
 
 [^819]: "॰रीन्सुदुःसहान् C, D"
 
-
-
  ४८. त्वमिति॥ किं च त्वं शस्त्राणि ससर्जिथ सस्रष्ठ दुःसहान् दुर्धर्षानरींश्च दद्रष्ठ ददर्शिथ। अनिदंपूर्वस्ते रणाभियोग इत्यर्थः॥"विभाषा सृजिदृशोः" इतीड्विकल्पः॥ त्वमेव महतां महेन्द्रादीनामपिशस्त्राणि शस्त्रैरादिथ भक्षयसि स्म॥ "इडत्त्यर्त्तिव्ययतीनाम् ” इतीट्॥
 
 स त्वं हनिष्यन् दुर्बुद्धिं कपिं व्रज ममाज्ञया।  
@@ -7965,8 +7166,6 @@ K. P. TRIVEDI
 [^822]: "संयासी॰T2"
 
  ५०. मेति॥ महास्त्राणि मा न सावीः मा न प्रसुहि किं तु प्रसुहिप्रयुङ्क्ष्वेत्यर्थः। षु प्रसवैश्वर्ययोः इति धातोरदादिकाल्लुङ्। रणेऽरीन्मा न धावीर्मा न कम्पय। किं तु कम्पय भीषयस्वेत्यर्थः।धूञो लुङ्। उभयत्र "स्तुसुधूञ्भ्यः–" इत्यादिना इट्। शेषं पूर्ववत्।वानरं मा न संयंसीःमा न संयच्छ किन्तु संयच्छ बधानेत्यर्थः। यमेर्लुङि “यमरमनमातां सक् च" इति सगिडागमौ। शेषं पूर्ववत्। अशङ्कितस्तूर्णम्॥ "रुष्यमत्वर–" इत्यादिना विकल्पादनिट्पक्षे "ज्वरत्वर–" इत्यादिना ऊठ्॥ व्रज गच्छ॥
-
-
 
 अनंसीच्चरणौ तस्य मन्दिरादिन्द्रजिद्व्रजन्।  
 अवाप्य[^823] चाशिषस्तस्मादयासी[^824]त्प्रीतिमुत्तमाम्॥५१॥
@@ -7995,8 +7194,6 @@ K. P. TRIVEDI
 
  ५३. स इति॥ स इन्द्रजित् द्विषः शत्रून् सिस्मयिषमाणः स्मेतुं परिहसितुमिच्छन्। स्मयतेः सन्नन्ताल्लटः शानच्। मायां व्यञ्जिजिषुर्व्यङ्क्तुमिच्छन्। अञ्जेः सन्नन्तादुप्रत्ययः। कल्पान्ते जगत्पिपविषुः पवितुमिच्छुः प्रमार्ष्टुकामः। पूङः सन्नन्तादुप्रत्ययः॥ "स्मिपूङ्रञ्जवशां
 
-
-
 सनि" इति सर्वत्रेट्॥ कल्पान्ते वायुः प्रलयकालमारुत इव दुर्धरोदुर्धर्षः सन्नगात्॥
 
 लोकान[^829]शिशिषोस्तुल्यः कृतान्तस्य विपर्यये।  
@@ -8019,8 +7216,6 @@ K. P. TRIVEDI
 [^831]: "ललित॰ T2, T3"
 
  ५६. आश्वसीदिति॥ तस्मिन्नायाति सति तस्य वेगपवनेनाहतमाधूतंविचित्रैः स्तबकैः उद्भासि प्रकाशमानं लुलितपल्लवं विक्षिप्तविटपं वनमाश्वसीदिव उज्जीवितमिवेत्युत्प्रेक्षा। श्वसेर्लुङि "रुदश्च पञ्चभ्यः"इतीट्॥
-
-
 
 न प्राणिषि दुराचार मायानामीशिषे नच[^832]।  
 नेडिषे यदि काकुत्स्थं तमूचे[^833] वानरो वचः॥५७॥
@@ -8055,8 +7250,6 @@ K. P. TRIVEDI
 
  ५९. वानर इति॥ कुलशैलाभः तद्वद्रणे स्थिर इत्यर्थः वानरो मारुतिःआयुधानि शीकरा इवेति उपमितसमासः। तद्वदकिञ्चित्कराणीत्यर्थः।
 
-
-
 प्रसह्याभिभूय यश आत्मन इच्छन् यशस्काम्यन्॥ “काम्यच्च" इतिकाम्यच्प्रत्यये तदन्तात्सनाद्यन्तधातोर्लटः शत्रादेशः। ईषदसमाप्तानितमांसि तमस्कल्पान्। ईषदसमाप्तौ कल्पप्प्रत्ययः। कुत्सितानिरक्षांसि रक्षःपाशाः तान् क्षुद्रराक्षसान्॥ "याप्ये पाशप्" इति याप्यार्थेपाशप्प्रत्ययः। याप्यः कुत्सितः। प्रकृत्यर्थविशेषकाश्च स्वार्थिकाःप्रत्ययाः प्रकृतितो लिङ्गवचनान्यतिवर्त्तन्त इति नपुंसकत्वे सिद्धे पुल्लिंङ्गता चिन्त्या। अत्र वानरः शैलाभः इत्युभयत्रापि "कुप्वोः०क०पौ च"इति यथाक्रमं विसर्जनीयस्य जिह्वामूलीयोपध्मानीयौ। पाशबादिप्रत्ययस्थयोः कुप्वोरपदादित्वात् "सोऽपदादौ" इति सर्वत्र विसर्जनीयस्य सत्वम्। अदुद्रुवत् तानभिद्रुत इत्यर्थः। द्रुगतावित्यस्माल्लुङि"णिश्रिद्रुस्रुभ्यः" इत्यादिना चङ्युवङादेशः॥
 
 धनुष्पाशभृतः संख्ये ज्योतिष्कल्पो[^840]रुकेशरः[^841]।  
@@ -8072,8 +7265,6 @@ K. P. TRIVEDI
 रराज समरे शत्रून् घ्नन् दुष्कृतबहिष्कृतः॥६१॥
 
  ६१. स्वामिन इति॥ स्वामिनो रामस्य निष्क्रयमानृण्यं गन्तुं प्राप्तुमाविष्कृतबलः प्रकाशितशक्तिः तथा दुष्कृतबहिष्कृतो बहिष्कृतदुष्कृतःपलायनपापरहित इत्यर्थः। यथाह मनुः। 'यस्तु भीतः परावृत्तः
-
-
 
 संग्रामे हन्यते परैः। भर्त्तुर्यद् दुष्कृतं किंचित्तत्सर्वं प्रतिपद्यते॥यच्चास्य सुकृतं किंचिदमुत्रार्थमुपार्जितम्। भर्त्ता तत्सर्वमादत्ते परावृत्तहतस्य तु'॥ इति। आहिताग्न्यादित्वान्निष्ठायाः परनिपातः।कपिः समरे शत्रून् घ्नन् रराज॥ "इदुदुपधस्य चाप्रत्ययस्य" इतिसर्वत्र विसर्जनीयस्य षत्वम्॥
 
@@ -8098,8 +7289,6 @@ K. P. TRIVEDI
 [^847]: "संग्रामाद्रिपून् N. C., T1, T3, E2"
 
  ६३. अथ सार्धश्लोकेन मारुतिं वर्णयति॥ द्विरित्यादिना॥ ज्वलनपिङ्गलोऽग्निपिशङ्गोऽसौ मारुतिः नगैर्वृक्षैरभिघातं द्विर्द्विर्वारं कुर्वतां द्विषां चतुश्चतुर्वारं कुर्वन्॥ "द्वित्रिचतुर्भ्यः सुच्” इति कृत्वोऽर्थे सुच्॥“द्विस्त्रिश्चतुरिति कृत्वोऽर्थे” इति विसर्जनीयस्य विकल्पात्षत्वम्।संग्रामादरीन् बहिष्करिष्यन् निराकरिष्यन्। इदुदुपधत्वान्नित्यं षत्वम्॥
-
-
 
 ज्योतिष्कुर्व[^848]न्निवैकोऽसावाटीत् संख्ये परार्ध्य[^849]वत्।  
 तमनायु[^850]ष्करं प्राप शक्रशत्रुर्धनुष्करः[^851]॥६४॥
@@ -8130,8 +7319,6 @@ K. P. TRIVEDI
 
  ६६. चकारेति॥ असौ मारुतिः वियति आकाशे चरन्मर्माविद्भिःमर्मभेदिभिः। विध्यतेः क्विप्॥ “नहिवृति–” इत्यादिना दीर्घः॥ तमस्काण्डैरयोमयत्वात्तमःसवर्णैः। कस्कादित्वात्सत्वम्। अनेकधा
 
-
-
 भिद्यमानोऽप्यधस्पदं भूतले पादविक्षेपं न चकार। मयूरव्यंसकादित्वात्समासे "अधःशिरसी पदे" इति सत्वम्॥ इति सत्वाधिकारः॥
 
 **अथ मूर्धन्याधिकारे षत्वाधिकारः।**
@@ -8150,15 +7337,12 @@ K. P. TRIVEDI
 
  ६८. सुषुपुरिति॥ ते वाजिनः यदा भूमौ सुषुपुः दीर्घंनिदद्रुः॥"आदेशप्रत्यययोः" इति षत्वम्॥ तदा प्रोषितत्रासो निर्गतभयोऽतएव कर्कशः कठिनचित्तो रावणिरिन्द्रजित् अन्यानश्वानाहर्त्तुं सारथिमशिषत् आज्ञापयत्॥ "शासिवसिघसीनां च" इत्युभयत्र षत्वम्॥  
 
-
 प्रतुष्टूषुः पुनर्युद्ध[^857]मासिषञ्जयिषुर्भयम्।  
 आतस्थौ रथमात्मीयानुत्सि[^858]साहयिषन्निव॥६९॥
 
 [^857]: "पुनर्यानमा॰ T2, T4"
 
 [^858]: "॰मात्मीयमुत्सि॰ B"
-
-
 
  ६९. प्रतुष्टूषुरिति॥ पुनः युद्धं प्रतुष्टूषुः प्रस्तोतुं प्रारब्धुमिच्छुः। स्तौतेःसन्नन्तादुप्रत्ययः॥ "अज्झनगमां सनि” इति दीर्घः। भयमासिषञ्जयिषुः शत्रुचित्ते भयमासञ्जयितुमिच्छुः। सञ्जयतेः सन्नन्तादुप्रत्ययः॥ "स्तौतिण्योरेव षण्यभ्यासात्” इति धातुसकारस्य षत्वम्॥आत्मीयानुत्सिसाहयिषन्नुत्साहयितुमिच्छन्निव। साहयतेः सन्नन्ताल्लटःशत्रादेशः॥ "सः स्विदिस्वदिसहीनां च" इति धातुसकारस्य षत्वापवादिसकारः। रथमश्वान्तरयुक्तमातस्थौ आरुरोहेत्यर्थः॥
 
@@ -8177,8 +7361,6 @@ K. P. TRIVEDI
 [^861]: "॰ररुश्च्युतः E3"
 
  ७१. अभीति। अभिष्यन्तमन्तयन्तं मारयन्तमित्यर्थः॥ षोऽन्तकर्मणीत्यस्माद्दैवादिकाल्लटः शत्रादेशः॥ "ओतः श्यनि" इत्योकारलोपः॥ “उपसर्गात्सुनोति–" इत्यादिना षत्वम्॥ कपिं मारुतिमात्मनः स्वस्य संप्रहारसमुद्भूतैः कपिकृतप्रहारजन्यैररुश्च्युतैः व्रणच्युतैःकोष्णैरीषदुष्णैः रक्तैः क्रोधादभिषुण्वन्निव तस्योपरि क्षिपन्निवेत्यर्थः।इन्द्रजिदिति पूर्वेण संबन्धः॥ “उपसर्गात्सुनोति–" इत्यादिना षत्वम्।अभ्यषुण्वन्निवेति पाठान्तरे राक्षसा इति शेषः॥ "प्राक्सितादड्व्यवायेऽपि" इति षत्वम्॥
-
-
 
 संग्रामे तानधिष्ठास्यन् निषद्य पुरतोरणम्।  
 अविषीदन्नवष्टब्धान् व्यष्टभ्नान्नरविष्वणान्॥७२॥
@@ -8211,8 +7393,6 @@ K. P. TRIVEDI
 
  ७४. निष्यन्दमानेति॥ निष्यन्दमानरुधिरः क्षरद्रक्तः कपिः रक्तनिस्यन्देन रक्तस्रावेण पाटलान्। प्रहारसहः प्रहर्त्ता चेति भावः॥ "अनु–
 
-
-
 विपर्यभिनिभ्यः स्यन्दतेरप्राणिषु" इति वा षत्वम्॥ विष्कन्तॄन्विष्कन्दनशीलांश्चञ्चलान्। स्कन्देस्ताच्छील्ये तृच्। द्विषः शत्रून् अविस्कन्ता स्वयमचञ्चलः सन्। पूर्ववत्तृच्। अदिंहदिंस्कन्दिमिति पाठादनिट्त्वम्॥ "वेः स्कन्देरनिष्ठायाम्" इत्युभयत्र वा षत्वम्॥ परिघेणाहन् जघान। हन्तेर्लङ्॥
 
 मेघनादः परिष्कन्दन्[^870] परिस्कन्दन्त[^871]माश्वरिम्।  
@@ -8235,8 +7415,6 @@ K. P. TRIVEDI
 
  ७६. विष्फुलद्भिरिति॥ विष्फुलद्भिरुत्साहाद्वलद्भिः पुरुषाशनैः राक्षसैगृहीतः तथापि विष्फुलतीति विष्फुलः स्फुरन्। पचाद्यच्। संज्ञापूर्वकोविधिरनित्य इति गुणाभावः॥ "स्फुरतिस्फुलत्योः–” इत्यादिनाषत्वम्॥असौ हनूमान् विष्कम्भितुं विचलितुम्॥ "वेः स्कभ्नातेर्नित्यम्”इति षत्वम्॥ समर्थोऽपि ब्रह्मवरादेव शक्तोऽपि ब्रह्मणो गौरवादलङ्घ्यत्वान्नाचलत् न चचाल। बद्ध एव स्थित इत्यर्थः॥
 
-
-
 कृषीढ्वं भर्त्तुरानन्दं मान प्रोढ्वं[^875]द्रुतं वियत्[^876]।  
 वानरं नेतुमित्युच्चैरिन्द्रजित्प्रावदत् स्वकान्॥७७॥
 
@@ -8257,8 +7435,6 @@ K. P. TRIVEDI
 योऽरक्षीत्तस्य दूतोऽयं मानुषस्येति चावदन्॥७९॥
 
  ७९. अग्निष्टोमेति॥ अग्निष्टोमादयः संस्थाः प्रकाराः येषां तेषु अग्निष्टोमादिसंस्थेषु॥ "अग्नेः स्तुत्स्तोमसोमाः" इति षत्वम्॥ ज्योतिष्टोमादिषु क्रतुषु यो मानुषो द्विजान्विश्वामित्रादीन् अरक्षीत्तस्य मानुषस्य रामस्यायं दूत इति चावदन्॥
-
-
 
 नासां मातृष्वसेय्याश्च रावणस्य लुलाव यः।  
 मातुःस्वसुश्च तनयान् खरादीन् निजघान[^878] यः॥८०॥
@@ -8285,8 +7461,6 @@ K. P. TRIVEDI
 
  ८२. दृष्ट्वेति॥ चारकर्मणि निष्णातः कुशलः॥ "निनदीभ्यां स्नातेःकौशले" इति षत्वम्॥ विषमाशयः कपटचित्तोऽत एव पापः क्रूरकर्मायं वानरो राजेन्द्रं रावणं सुषुप्तं सुष्ठु सुप्तम्॥ "सुविनिर्दुर्भ्यः–" इत्यादिना सुप्तसमयोः षत्वम्॥ दृष्ट्वा ज्ञात्वा प्रमदावनं प्रविष्टः॥
 
-
-
 सुप्रतिष्णातसूत्राणां कपिष्ठलसमत्विषाम्।  
 स्थितां वृत्ते द्विजातीनां रात्रावैक्षत मैथिलीम्॥८३॥
 
@@ -8303,8 +7477,6 @@ K. P. TRIVEDI
 निष्टपन्तीमिवात्मानं ज्योतिःसात्कुर्वतीं वनम्॥८५॥
 
  ८५. सुषाम्नीति॥ शोभनं साम सान्त्वं यस्यास्तां सुषाम्नीम्॥"अन उपधालोपिनोऽन्यतरस्याम्" इति ङीपि "सुषामादिषु च" इति षत्वम्॥सर्वतेजःसु सर्वतेजसां मध्ये ज्योतिष्टमामुत्कृष्टतेजोभूताम्॥"ह्रस्वात्तादौ तद्धिते" इति षत्वम्॥ तन्वीं कृशां शुभां कल्याणीमात्मानंशरीरं निष्टपन्तीमिव तपोऽग्नौ संतापयन्तीमिव स्थिताम्॥ "निसस्त–
-
-
 
 पतावनासेवने" इति षत्वम्॥ वनं ज्योतिःसात् कार्त्स्न्येन ज्योतिर्मयंकुर्वतीम्॥ "विभाषा साति कार्त्स्न्ये” इति सातिप्रत्ययः॥ "नुम्विसर्जनीय–" इत्यादिना षत्वे प्राप्ते "सात्पदाद्योः" इति षत्वनिषेधः॥
 
@@ -8332,8 +7504,6 @@ K. P. TRIVEDI
 [^888]: "॰वानलः T2"
 
  ८८. दृष्ट्वेति॥ तां सीतां दृष्ट्वा परिसेधतः परित आधावतः। षिधु गत्यामिति धातोः "सेधतेर्गतौ” इति षत्वप्रतिषेधः॥ द्विषो राक्षसान् घ्नन्
-
-
 
 वृक्षानभनक् बभञ्ज। भञ्जेर्लङि तिलोपः कुत्वम्। स्वयं साक्षात् क्रुद्धोऽनिलो वायुरिव परित उद्विचिक्षेप च उद्विक्षिप्तवांश्च॥
 
@@ -8372,8 +7542,6 @@ K. P. TRIVEDI
 
  ९१. विषसादेति॥ इन्द्रजित् बद्धे दिव्यास्त्रबद्धे बन्धान्तरक्रियां बन्धान्तरकरणं बुद्ध्वाविषसाद॥"सदेः परस्य लिटि" इति परस्य षत्व–
 
-
-
 प्रतिषेधः। पूर्वस्य तु "सदिरप्रतेः" इति षत्वम्॥ यतो यस्माद् दिव्यबन्धोऽपरनियमं नियन्त्रणं बन्धान्तरं न विषहते॥ "परिनिविभ्यः–” इत्यादिना सहेः षत्वम्॥
 
 **अथ णत्वाधिकारः॥**
@@ -8405,8 +7573,6 @@ K. P. TRIVEDI
 
  ९४. निर्वाणमिति॥ द्विषः पूर्वोक्तविशेषणाः राक्षसाः देवदारुवनैरामिश्रैर्मिलितैः॥ “विभाषौषधिवनस्पतिभ्यः" इत्यत्र "द्व्यक्षरत्र्यक्षरेभ्य
 
-
-
 इति वक्तव्यम्" इति नियमादिह चतुरक्षरात् वननकारस्य णत्वाभावः।आम्रवणादिभिरुपलक्षितम्॥ "प्रनिरन्तर्–" इत्यादिना वननकारस्यणत्वम्। उद्यानमनेन वानरेण निर्वाणं प्रशान्तं लुप्तमिति यावत्। निःपूर्वाद्वातेः कर्त्तरि क्तः॥ "निर्वाणोऽवाते" इति निपातनान्निष्ठानत्वेणत्वम्॥ कृतमिति वानरमूचुः। अपराधित्वेनावोचन्नित्यर्थः॥
 
 उपास्थिषत संप्रीताः पूर्वाह्णेरोषवाहणम्।  
@@ -8428,8 +7594,6 @@ K. P. TRIVEDI
 [^908]: "सुरापिणम् E3"
 
  ९६. सुरेति॥ सुरां पिबन्तीति सुरापाः॥ "गापोष्टक्" इति टक्॥तद्वन्तः सुरापिणः तत्संसर्गिणो राक्षसाः। मत्वर्थीय इनि प्रत्ययः॥"एकाजुत्तरपदे णः" इति णत्वम्॥ सुरापाणमिति भावे ल्युट्॥"वा भावकरणयोः" इति पक्षे णत्वम्॥ तेन पर्याप्तं क्षीबो मत्तः परिक्षीबः तम्।क्षीबृ मदइति धातोः“अनुपसर्गात्फुल्लक्षीबकृशोल्लाघाः”इति निष्ठातकारस्य लोपनिपातः। अनुपसर्गादिति विशेषणादुप–
-
-
 
 सर्गस्य क्षीबेन समासो नोपसृष्टाल्लोपनिपातः। रिपुदर्पहरः उदयोवृद्धिर्यस्य तं परस्त्रियो वहति प्राप्नोतीति तद्वाहिणम्। प्रातिपदिकान्तनकारत्वात् "प्रातिपदिक–"इत्यादिना णत्वम्। साविष्कारं साविर्भावमास्थाने प्रकाशमानं रावणं प्रापुः॥
 
@@ -8455,8 +7619,6 @@ K. P. TRIVEDI
 [^912]: "प्रणिहितां वाचं D"
 
  ९९. प्रणीति॥ तत आमन्त्रणानन्तरं पुनः प्रणिघ्नन्तं जिघांसन्तमित्यर्थः राक्षसेन्द्रं रावणं स्वार्थे स्वकार्ये प्रणिहितो युक्तो विभीषणःप्रणिनदन्निव गर्जन्निव प्रण्यगादीत् प्रणिगदितवान्॥ "नेर्गदनद–"इत्यादिना सर्वत्र णत्वम्॥
-
-
 
 प्रणिशाम्य दशग्रीव प्रणियातुमलं रुषम्।  
 प्रणिजानीहि हन्यन्ते दूता दोषे न सत्यपि॥१००॥
@@ -8485,8 +7647,6 @@ K. P. TRIVEDI
 
  १०२. प्रेति॥ किं च येनैतेन वने ममाप्तानि हितकारीणि रक्षांस्यघानिषत हतानि। हन्तेः कर्मणि लुङि चिण्वदिड्वृद्धी॥ "हो हन्तेः–"
 
-
-
 इत्यादिना कुत्वम्॥ "हन्तेरत्पूर्वस्य" इत्यस्य प्रत्युदाहरणम्॥ पूर्वापकारिणं प्रथमद्रोहिणं पापं क्रूरात्मानं कथं न प्रहण्मः वद कथय॥"वमोर्वा " इति हन्तेर्णत्वविकल्पः॥
 
 वेश्मान्तर्हणनं कोपान्मम शत्रोः करिष्यतः।  
@@ -8511,8 +7671,6 @@ K. P. TRIVEDI
 [^922]: "आयुष्प्र c. प्रगोपनम् E2, E3"
 
  १०५. क इति॥ जगति अवद्यधीर्दुर्बुद्धिः कः शक्रोऽपि रावणस्यामर्षप्रकोपणं कृत्वा आयुषः प्रगोपणं प्रकृष्टं गोपनं रक्षणं कर्त्तुं शक्तः।न कोऽपीत्यर्थः। कुपिगुप्योर्भावे ल्युट्॥ "हलश्चेजुपधात्" इतिणत्वम्॥
-
-
 
 वनान्तप्रेङ्खणः[^923] पापः फलानां परिणिंसकः[^924]।  
 प्रणिक्षिष्यति नो भूयः प्रणिन्द्यास्मान्मधून्ययम्[^925]॥१०६॥
@@ -8544,8 +7702,6 @@ K. P. TRIVEDI
 [^930]: "विजयेनासौ T4"
 
  १०८. दुष्पान इति॥ प्रनष्टविनयेन दुर्विनीतेन॥ "नशेः षान्तस्य"इति णत्वप्रतिषेधः॥ एतेन कपिना कर्त्रा वने भृङ्गसंभृतो भ्रमरसञ्चितोऽग्र्यः श्रेष्ठः स्वादुर्मधुरः पुष्पासवस्तद्विकारः क्षौद्रमित्यर्थः पुनर्भूयो दुःखेन पेयो दुष्पानः न पातव्य इत्यर्थः। खलर्थे आतो युच्॥"षात्पदान्तात्" इति णत्वप्रतिषेधः॥
-
-
 
 रोषभीममुखेनैवं क्षुभ्नतोक्ते प्लवङ्गमः।  
 प्रोचे सानुनयं वाक्यं रावणं स्वार्थसिद्धये॥१०९॥
@@ -8582,8 +7738,6 @@ K. P. TRIVEDI
 
 अग्न्याहिता आहिताग्नयः॥ "वाहिताग्न्यादिषु" इतिनिष्ठायाः परनिपातः॥ तेषु जनेषु सज्जनेषु प्रह्वेनम्रे विजिगीषापराङ्मुखे विरक्ते तापसे तपस्विनि॥ "अण्च" इति मत्वर्थीयोऽण्प्रत्ययः॥ईदृशे रामे नीतौ नितरां स्नातीति निष्णः कुशलः॥ "आतश्चोपसर्गे"इति कर्त्तरि कः॥ "निनदीभ्याम्–" इत्यादिना षत्वम्॥ तस्य तवकस्मात्कारणात् संरम्भः क्रोधः। अकारणवैरमनुचितमिति भावः॥
 
-
-
 न सर्वरात्रकल्याण्यः[^934] स्त्रियो नो[^935]रत्नभूमयः।  
 यं विनिर्जित्यलभ्यन्ते[^936] कः कुर्यात्तेन विग्रहम्॥११२॥
 
@@ -8607,8 +7761,6 @@ K. P. TRIVEDI
 
 **धर्मं प्रत्यर्पयन् सीतामर्थं रामेण मित्रताम्।  
 कामं विश्वासवासेन सीतां दत्त्वाप्नुहि त्रयम्॥११५॥**
-
-
 
  ११५. नन्वकिञ्चित्करेण मैत्री कुत्रोपयुज्यते तत्राह। धर्ममिति॥ सीतां प्रत्यर्पयन् धर्मंपरस्त्रीपरिहाररूपं रामेण सह मित्रतामेवार्थंविश्वासवासेनविश्रम्भवासेन कामं रतिसुखं चेति त्रयं त्रिवर्गं सीतां दत्त्वा आप्नुहि॥
 
@@ -8642,8 +7794,6 @@ K. P. TRIVEDI
 हतराक्षसयोधस्य विरुग्णोद्यानशाखिनः।  
 दूतोऽस्मीति ब्रुवाणस्य किं दूतसदृशं तव॥११९॥
 
-
-
  ११९. यदुक्तं दूतमेकमिति तत्रोत्तरमाह। हतेति॥ हताः राक्षसयोधाः येनतस्य विरुग्णाः भग्नाः उद्यानशाखिनो येन तस्य दूतोऽस्मीति ब्रुवाणस्यतव दूतसदृशं दूतानुरूपं किम्। संदेशमात्रहरा दूताः न योद्धारइति भावः॥
 
 पङ्गुबालस्त्रियो निघ्नन् कबन्धखरताडकाः[^943]।  
@@ -8670,8 +7820,6 @@ K. P. TRIVEDI
 [^947]: "साशङ्कतां मयि T, G. Com"
 
  १२२. यदुक्तं धर्मं प्रत्यर्पयन् सीतामित्यादि तत्रोत्तरमाह। परेति॥ नराशिनांराक्षसानां परस्त्रीणां भोगश्च हरणं चेति धर्म एव। एवं स्थिते सीताप्रत्यर्पणोपदेशेन मयि रामे रामे विषये साशङ्कतां सशङ्कत्वं मुखमभिवदनसाधनं वदनमस्तीत्यभाषिष्ठाः। न तु विमृश्येत्यर्थः। रावणस्यापि कुतश्चिच्छङ्केत्यशक्यशङ्कत्वादिति भावः॥
-
-
 
 ब्रूहि दूरवि[^948]भिन्नानामृद्धि[^949]शीलक्रियान्वयैः।  
 हनूमन् कीदृशं सख्यं नरवानररक्षसाम्॥१२३॥
@@ -8702,8 +7850,6 @@ K. P. TRIVEDI
 [^952]: "॰न्यसंयुक्तं T3"
 
  १२६. वालिवधस्तु कष्टादपि कष्ट इत्याह। निजघानेति॥ रामोऽन्यसंसक्तंसुग्रीवेण सह युध्यमानं लतामृगं शाखामृगं वालिनं निजघान।
-
-
 
 सत्यमस्त्यैवैतत् किं तु तत्परासक्तहननं महतां वीराणां युक्तं यदियुक्तं किं त्वमेव संचिन्त्य सम्यग्विमृश्य ब्रूहि। 'न परेण समासक्तम्' इति निषेधान्न युक्तमिति भावः॥
 
@@ -8741,8 +7887,6 @@ K. P. TRIVEDI
 यत्तु पङ्गुबालस्त्रियो निघ्नन्नित्यादिना कबन्धादीनामवध्यत्वमुक्तं तत्राह।आत्रिकूटमिति॥
 
 त्वं ग्रामणीरेषां त्वत्कास्त्वत्प्रधानास्त्वदीया इत्यर्थः॥“स एषां ग्रामणीः" इति कन्प्रत्ययः॥ ये कबन्धादयः आत्रिकूट–
-
-
 
 मात्रिकूटात्। अभिविधावव्ययीभावः। जगन्निर्जङ्गममकार्षुः हे दशमूर्धन् तान् पापिष्ठान् महीपतेः राज्ञः रामस्य प्रजापालनाधिकृतस्यकथमवध्यान्ब्रूषे॥
 
@@ -8785,8 +7929,6 @@ K. P. TRIVEDI
 
 अन्वयादिभिर्विरुद्धानांविलक्षणानां नरवानररक्षसां यथा सख्यमनीप्सितमेवं पुरुषवानरैर्नरवानरैर्विरोधं विग्रहमपि मैषीर्नेच्छ। असमानसख्यवदसमानविग्रहस्यापि लघुत्वादिति भावः। एषीरितीच्छतेर्लुङि सिचि “इट ईटि"इति सलोपः॥ "न माङ्योगे” इत्यडभावः॥
 
-
-
 विराधं तपसां विघ्नं जघान विजितो यदि।  
 वरो[^963] धनुर्भृतां रामः स कथं न विवक्षितः॥१३३॥
 
@@ -8809,8 +7951,6 @@ K. P. TRIVEDI
 [^966]: "तद् ध्रुवं बा T2, T4"
 
  १३५. यदुक्तं निजघानान्यसंसक्तमिति तत्सोपहासं परिहरति। अन्यासक्तस्येति॥संध्यां नमतो वन्दमानस्य अत एव अन्यसंसक्तस्य वालिनोवीर्यंयद्यस्मात्त्वं न स्मरसि तत्तद्बाहुना पीडितः कक्षे निक्षिप्यपीडितो निरुद्धोऽत एव मूर्च्छितो मूर्च्छावान् ध्रुवम्। अन्यथा कथं नस्मरसीत्यर्थः। अन्यसंसक्तवधदोषस्तु नास्त्येव रामस्य अन्यथावालिना सुग्रीवे हते मित्रवधो विश्वासघातश्च स्यादिति भावः॥
-
-
 
 असद्बन्धुवधोपज्ञं विमुञ्च बलिविग्रहम्।  
 सीतामर्पय नन्तव्ये[^967] कोश[^968]दण्डात्मभूमिभिः॥१३६॥
@@ -8845,8 +7985,6 @@ K. P. TRIVEDI
 
 इति श्रीपदवाक्यप्रमाणपारावारपारीणश्रीमहोपाध्यायकोलाचलमल्लिनाथसूरिविरचिते भट्टिकाव्यब्याख्याने सर्वपथीनाख्यानेरावणसंदर्शनं नाम नवमः सर्गः॥
 
-
-
 **NOTES.**  
 ![](../books_images/U-IMG-1726541777Screenshot2024-09-17082739.png)  
 
@@ -8861,8 +7999,6 @@ Stanza 1–
  **द्विषन्तप** and **परन्तप** To **तापि**, the causal base of **तप् खच् (अ)** isaffixed in the sense of the doer, when **द्विषत्** or **पर** is its **उपपद** (*i. e.* isprefixed to it). **तापि** shortens its penultimate and drops **इ. अरुष्,द्विषत्,** and words ending in a vowel have **मुम् (म्)** added to them whenthey are prefixed to a root to which **खश्** or **खच्** is to be added. **अभ्रंलिह, अरुन्तुद, ललाटन्तप, प्रियंवद, वशंवद, वाचंयम, पुरन्दर, सर्वंसह, सर्वङ्कष,कूलङ्कष, अभ्रङ्कष, भयङ्कर, विश्वम्भर, अरिन्दम,** and **पतिंवरा** are among thewords thus formed.
 
  **सनातनः तन** is affixed to **साय, चिर** (changed to **सायम्** and **चिरम्**),**प्राह्ण, प्रग** (changed to **प्राह्णे**and **प्रगे**), and to adverbs shewing time, in the
-
-
 
 sense of ‘pertaining to' **सायंचिरंप्राह्णेप्रगेऽव्ययेभ्यष्ट्युट्युलौ तुट्च ४।३।२३॥ प्राह्णप्रगयोरेदन्तत्वं निपात्यते. अव्ययेभ्य इत्युक्तावपि सायंचिरंशब्दयोः पृथग्ग्रहणमकारान्तानव्ययसायचिरशब्दयोर्मान्तत्वनिपातनं द्योतयति *e.g.* सायन्तन, चिरन्तन,प्राह्णेतन** (relating to the forenoon), **प्रगेतन** (relating to the morning)**दोषातन,** **दिवातन, अद्यतन, इदानीन्तन** &c.
 
@@ -8881,8 +8017,6 @@ sense of ‘pertaining to' **सायंचिरंप्राह्णेप
 
  **त्रिदश.** In the Sarvaṅkashâ, Malli, thus explains it:– **'तिस्रो दशाबाल्यकौमारयौवनानि जन्मसत्तावृद्धयो वा येषां ते** (that is, free from old age ordestruction) **यद्वात्रिर्दश परिमाणमेषां ते त्रिदशाः'** Other ways of explainingthe word are as follows:–
 
-
-
  'त्रीन् तापान् दशतीति त्रिदशः। घञर्थे संज्ञायां कर्त्तरि कः। अथवा व्यधिकास्त्रिरावृत्ताश्च दश परिमाणमेषां ते त्रिदशाः। डच् समासान्तः। शाकपार्थिवादित्वादधिकावृत्तशब्दलोपः। एकस्यैव त्रिशब्दस्य तन्त्रतयोच्चारणादुभयार्थपरत्वम्। अयमेवपक्षः श्रुत्यनुगुणः। त्री च दश चेति छान्दोग्येऽभिहितत्वात्। त्र्यधिकावृत्तपरताद्योतनार्थं त्रीचेति द्विवचनान्ततया निर्देशः। ते च देवाः। अर्का द्वादश रुद्रा एकादशवसवोऽष्टौ अश्विनौ द्वाविति। अश्विनीकुमारौ विहाय इन्द्रः प्रजापतिश्चेति वा द्वाभ्यां पक्षान्तरे संख्यापूरणम्॥'
 
  **पितॄनपारीत्** = Satisfied the Manes.'**पितॄनपारीदाप्यायितवान्। पितरमुद्दिश्ययजनम्। “पृ पालनपूरणयोः" इत्यस्मात्पूरणार्थाल्लुङि रूपम्' (जय०). अपारीत्**and **अतार्प्सीत्** are synonymous. Mark Malli.'s explanation of **अतार्प्सीत्**'gratified the Manes by offerings, and by the progeny which was toresult from them. By studying the Vedas, performing sacrifices to Gods,and gratifying the Manes by generating children, Daśaratha becamefree from three debts, which all have to pay off, *viz*., debt to sages,debt to Gods, and debt to the Manes. c*f*. '**जायमानो वै ब्राह्मणस्त्रिभिर्ऋणवा जायते ब्रह्मचर्येणर्षिभ्यः यज्ञेन देवेभ्यः प्रजया पितृभ्यः' (आश्व०)**
@@ -8900,8 +8034,6 @@ sense of ‘pertaining to' **सायंचिरंप्राह्णेप
 विभज्य नक्तंदिवमस्ततन्द्रिणा वितन्यते तेन नयेन पौरुषम्॥ १. ९.
 
 ** नीतौ =** In the adoption of one of the four means of success or oneof the six courses of action against an enemy. The *Up*â*y*â*s* are **सामन्** (conciliation), **दान** (bribery), **भेद** (sowing dissensions), and **दण्ड** (attack),The *Guṇas* are **संधि** (peace), **विग्रह** (war), **यान** (march), **आसन** (halt)**संश्रय** (taking shelter), and **द्वैधीभाव** (duplicity).
-
-
 
  **समूलघातम्**. It is used as an adverb. It is formed by adding **णमुल्(अम्)** to **हन्** (changed to **घात्**) with **समूल** as a prefix as itsobject. The formation is according to the Sûtra "**समूलाकृत- जीवेषुइन्कुञ्ग्रहः**" **(३।४।३६॥).** **णमुल्** is affixed to **हन्, कृ**, and **ग्रह्** with **समूलअकृत**, and **जीव** as *Upapadas* respectively as their objects. **समूलघातंहन्ति (समूलं हन्ति), अकृतकारं करोति (अकृतं करोति), जीवग्राहं गृह्णाति(जीवं जीवन्तं गृह्णाति).**
 
@@ -8928,8 +8060,6 @@ tha also hetakes the same view. **'अत्र तादर्थ्यचत�
 **'भूमनिन्दाप्रशंसासु नित्ययोगेऽतिशायने।  
 संसर्गेऽस्तिविवक्षायां भवन्ति मतुबादयः॥'**
 
-
-
 'अस्तिविवक्षायां ये मतुबादयो विधीयन्ते ते भूमादिषु विषयेषु भवन्तीति वार्त्तिकार्थः।भूमा बहुत्वं तच्च आपेक्षिकम्। यस्य हि यावदुचितं तावदेव स्वशब्देनापि प्रतीयते यथापञ्चषाभिरपि गोभिर्देवदत्तस्य बह्व्योगाव इति व्यवहारः राज्ञस्तु सहस्रगोभिरपिगावोऽल्पा इति॥' (मनो०).
 
 ** यवमान्, ककुदावर्त्तिनी कन्या, रूपवान्, क्षीरिणो वृक्षाः, उदरिणी,** and **दण्डी** areinstances of **मत्** and other possessive terminations designating **भूमन्,निन्दा, प्रशंसा, नित्ययोग, अतिशायन,** and **संसर्ग** respectively.
@@ -8937,8 +8067,6 @@ tha also hetakes the same view. **'अत्र तादर्थ्यचत�
  **भूम्नि। यवमान्। प्रचुरयवविशिष्ट इत्यर्थः। 'इह यवमतीभिरद्भिर्यूषं प्रोक्षतीत्यादौजातिमात्रसंबन्धस्य विवक्षितत्वाद्भूमाभावेऽपि मतुप्। भूमादिग्रहणं हि प्रायेण भूमादयोऽपिप्रतीयन्त इत्येवंपरम्। निन्दायां ककुदावर्त्तिनी कन्या। प्रशंसायां रूपवान्। नित्ययोगेक्षीरिणो वृक्षाः। अतिशायने उदरिणी कन्या। संसर्गे दण्डी। संसर्गः संयोगः तेनसंयुक्त एवोच्यते न तु गृहावस्थिते दण्डेऽपि'। (मनो०)**
 
  Another **वत्** has three uses. It is used in the sense of 'like'. Theword to which it is added is used as an adverb and is connected witha verb. **"तेन तुल्यं क्रिया चेद्वतिः" ५।१।११५॥. 'तुल्यमिति सामान्ये नपुंसकंयत्तुल्यं सा चेत्क्रियेत्यर्थः' *e.g.* ब्राह्मणवदधीते ब्राह्मणेन तुल्यमधीते। 'ब्राह्मणशब्दस्तस्कर्त्तृकेऽध्ययने लक्षणया वर्त्तते ब्राह्मणकर्त्तृकाध्ययनतुल्यमध्ययनं वाक्यार्थः'.** Thus**ब्राह्मणवदधीते** means **'**his study is like the study of a Brâhmana', theword **ब्राह्मण** being used not in its primary sense, but in the secondarysense of the study of a Brahmana.**'क्रिया चेदिति किम्। गुणतुल्ये माभूत्।पुत्रेण तुल्यः स्थूलः.** Here we can not say **पुत्रवत् स्थूलः.** On **गुणतुल्ये माभूत्** Bha. Dî. remarks in the Manoramâ–**'गुणतुल्ये इति अक्रिययातुल्य इत्यर्थः। अत एव महानसवदिति वतेः साधुत्वरक्षणार्थं प्रतिज्ञावाक्ये वह्निमान्भवितुमर्हतीत्यादिक्रियापदं प्रयुञ्जते वृद्धाः। अर्वाचीनास्तु महानससदृशपर्वत इतिव्याचक्षाणाः सूत्रविरोधादुपेक्ष्याः'।** It is not strictly correct to say **पर्वतोवह्निमान्** **महानसवत्**, for here **महानसवत्** is not connected with a verb.The correct expression is **पर्वतो वह्निमान् भवितुमर्हति महानसवत्.** Here**महानसवत्** will be connected with the verb **भवितुमर्हति.** The objectionthat the first sentence *viz*, **पर्वतो वह्निमान् महानसवत्,** conveys thesense clearly, is thus refuted:–**'ननु तद्रीत्या व्युत्पन्नस्य तादृशबोधोऽप्यनुभवसिद्ध इति चेत् सत्यं तादृशेऽर्थे साधुत्वमात्रं निराकुर्मो न तु बोधमपि। तथाहि भेद्यभेदकसंबन्धोपाधिभेदनियन्त्रितं साधुत्वं तदभावेऽपि बाधो नेह निवार्यते। अव्युत्पन्नस्यसाधुभ्योऽप्यबोधात् तत्रैव व्युत्पन्नस्यासाधुभ्योऽपि बोधाच्च कस्मात् किं बुध्यते इतिन नियन्तुं शक्यं किं तु किंविशेष्यके किंप्रकारके किसंसर्गके बोधेऽनुद्देश्ये किं साधुकिं नेत्येव शास्त्रीयविचारविषयः। उक्तं हि भगवता। समानायामर्थावगतौ शब्दैश्चापशदैश्चभक्ष्याभक्ष्यादिवन्नियमः क्रियत इति॥'**
-
-
 
  Another use of **वत्** is that it is added to a word in the sense of'like in', or 'like of'. Here also the word ending in **वत्** is an adverb,but it is not connected with a verb. **"तत्र तस्येव" ५।१।११६॥'मथुरायामिवमथुरावत् स्रुघ्ने प्राकारः। चैत्रस्येव चैत्रवन्मैत्रस्य गावः।'**
 
@@ -8955,8 +8083,6 @@ Stanza 4–
 ** महाब्रह्मसमूहजुष्टः.ब्रह्मन्** drops its final **अन्** and takes **अ** at the endof a Tatpurusha compound optionally when preceded by **कु** or **महद्."कुमहद्भ्यामन्यतरस्याम्" ५।४।१०५॥** ***e.g.*कुत्सितो ब्रह्मा कुब्रह्मः** or **कुब्रह्मा.महान्तश्च ते ब्रह्माणश्च महाब्रह्माः** or **महाब्रह्माणः.**
 
  **अध्वरे वह्निरभिप्रणीतः=**Consecrated in the sacrifice, being broughtfrom the house-hold fire. The three sacred fires are **गार्हपत्य, आहवनीय,**and **दक्षिण.** Manu describes them as follows:–
-
-
 
 'पिता वै गार्हपत्योऽग्निर्माताग्निर्दक्षिणः स्मृतः।  
 गुरुराहवनीयस्तु साग्नित्रेता गरीयसी॥' २.२३१.
@@ -8978,11 +8104,7 @@ Stanza 4–
 
  The figure of speech in this verse is **सम** in which there is a combination of suitable objects. Here the suitability between **दशरथ** and**अयोध्या** is described. Daśaratha, who was like Indra, lived in Ayodhyâ,which was like Amarâvatî. As the figure thus depends upon twoUpamâs, the combination is called **संकर**, which means a combinationin a passage of two or more figures depending upon one another,being mixed up like milk and water.' **'क्षीरनीरनयाद्यत्र संबन्धः स्यात् परस्परम्।अलंकृतीनामेतासां संकरः स उदाहृतः॥' (विद्या०)** These are Vâchyâlaṅkâras (expressed figures.). There is also Alaṅkâradhvani (suggestion
 
-
-
 of a figure). As it is suggested that Râma beautified Ayodhyâand Ayodhyâ beautified Râma, there is अन्योन्यालंकारध्वनि, and this isअलंकारेण अलंकारध्वनि; because it is the *saṅkara*, of *Sama* and *Upam*â**that suggests *Anyonyâlaṅkâra* which Vidyâ, defines thus—'तदन्योन्यंमिथो यत्रोत्पाद्योत्पादकता भवेत्'
-
- 
 
 पद्मासनकौशलस्य.
 
@@ -9000,15 +8122,11 @@ of a figure). As it is suggested that Râma beautified Ayodhyâand Ayodhyâ beau
 
  'ननु ब्राह्मणस्य शुक्ला इत्यत्र समासप्रसंग एव नास्ति ब्राह्मणशब्दस्य दन्तैरेवान्वयात्ब्राह्मणस्य ये दन्तास्ते शुक्ला इत्यर्थादत आह **यदेति।** शुक्लशब्द एवेह विशेष्यसमर्पकइति भावः। यत्तु भावप्रत्ययान्तो गुणवाच्यत्र निषिध्यते इति प्राचोक्तं तन्न। उक्तोदाहरणस्य भाष्यरूढस्यासंगतिप्रसंगात्। यदपि सदा गुणवाचिनो न निषेध इति तदपि न।भावप्रत्ययान्तस्य सदा गुणवाचितया पूर्वग्रन्थविरोधात्। ........................सूत्रेगुणार्थ इत्यनेन केवलगुणस्य गुणोपसर्जनद्रव्यस्य च प्रतिपादको गृह्यते व्याप्तिन्यायात्।काकस्य कार्ष्ण्यंब्राह्मणस्य शुक्ला इति द्वेधा भाष्ये उदाहरणाच्च। चन्दनगन्ध इत्यादौतु निषेधे प्राप्ते 'तत्स्थैश्चगुणैः' इति वचनेन समासः प्रतिप्रसूयते। गन्धत्वेन प्रतीयमानो
 
-
-
 हि गन्धो न कदापि गुणिसमानाधिकरणः किन्तु स्वप्रधानः। इदमेव तात्स्थ्यम्। ननु‘वहति जलमियं पिनष्टि गन्धान्' इति प्रयोगदर्शनादयुक्तमिदमिति चेन्न। तत्र हिगन्धानिति न गुणशब्दः मालतीकुसुमादिष्वदर्शनात् किन्तु चन्दनत्वादिजातिनिमित्तकोऽन्यएव सः। तस्माच्चन्दनगन्ध इत्यत्र तत्स्थत्वं सुस्थमेव। एवं घटरूपमित्यादावपि।सुरभिशुक्लादयः शब्दास्तु न तत्स्थगुणप्रतिपादकाः एवमपि शौक्ल्यसौरभ्यादिशब्दैः सहसमासो दुर्वार इति चेन्मैवं तैर्हि शुक्लत्वादिप्रकारक एव गुणबोधः तद्रूपापन्नानां च द्रव्यसामानाधिकरण्यमस्त्येव शुक्लः सुरभिरित्यादाविति दिक्॥
 
  The Bhâshya on षष्ठी २।२।८॥runs as follows:—
 
  'तत्स्थैश्चगुणैः॥
-
- 
 
 तत्स्थैश्चगुणैः षष्ठीगुणैः षष्ठी समस्यते इति वक्तव्यम्। ब्राह्मणवर्णः चन्दनगन्धःपटहशब्दः नदीघोषः। न तु तद्विशेषणैः॥
 
@@ -9026,11 +8144,7 @@ of a figure). As it is suggested that Râma beautified Ayodhyâand Ayodhyâ beau
 
  On the whole Malli. follows Kaiyaṭa's view that the genitive is notcompounded with words like शुक्ल which are used as adjectives and alsoas nouns (गुण and गुणी).
 
-
-
 **Stanza 7—**
-
- 
 
 **सद्रत्नमुक्ताफलवज्रभाञ्जि.**
 
@@ -9041,8 +8155,6 @@ of a figure). As it is suggested that Râma beautified Ayodhyâand Ayodhyâ beau
  सद्रत्नमुक्ताफलवज्रभाञ्जि, विचित्रधातूनि**,** and सकाननानि are adjectivesgoing both with मेरोः शिरांसि and गृहाणि.
 
 **Stanza 8–**
-
-
 
 **हिमाद्रिटङ्कात्.**
 
@@ -9065,21 +8177,15 @@ The singular is used in the sense of the plural, जातिवाचक names 
 "ततः प्रतस्थे कौबेरीं भास्वानिव रघुर्दिशम्।  
 शरैरुस्रैरिवोदीच्यानुद्धरिष्यत् रसानिव॥"(रघु० ४; ६६).
 
-
-
  On this Malli says:—'अनेकेनेव शब्देनेयमुपमा। यथाह दण्डीः—
 
 "एकानेकेवशब्दत्वात् सा वाक्यार्थोपमा द्विधा॥" इति॥'
 
 **Stanza 9–**
 
- 
-
 **धर्म्यासु**
 
 = not away from religion, religious, holy, purifying. The wordis formed from धर्म by the addition of यत्. “धर्मपथ्यर्थन्यायादनपेते”४।४।९२॥*e.g.* धर्मादनपेतं धर्म्यम्। पथ्यम्। अर्थ्यम्। न्याय्यम्. The wordqualifies both पत्नीषु and विद्यासु. धर्म्यासु (पत्नीषु) pure; because practisingreligion with their husbands according to the dictates of the *S'rutis*and the *Smritis*, धर्म्यासु (विद्यासु) purifying, teaching religion.
-
- 
 
 **अधिगतासु काले.**
 
@@ -9096,8 +8202,6 @@ The time for commencing learning and enteringupon family–life for different ca
 
 **Stanza 10—**
 
-
-
 **पुत्रीयता.**
 
 A denominative is formed from a noun in the sense of'wishing it of one's self' by adding to it क्यच् (य). If the base to which.is affixed क्यच् ends in अ, अ is changed to ई, and if it ends in any othervowel, it is lengthened. काम्यच् (काम्य) is also added in the samesense. The base so formed is conjugated in all the tenses and takes Para.terminations. आत्मनः पुत्रमिच्छति पुत्रीयति or पुत्रकाम्यति. It should benoted that क्यच् can not be added to पुत्र in the sense of राज्ञः पुत्रमिच्छति.
@@ -9106,16 +8210,12 @@ A denominative is formed from a noun in the sense of'wishing it of one's self' b
 
  If the उपमान is the agent of the action of behaving, क्यङ (य is):added to it in the sense of 'behaving' (कर्त्तुः क्यङ् सलोपश्च ३।१।११॥)
 
-
-
 The base ending in क्यङ् takes Atma. terminations. Before क्यङ् the preceding vowel is lengthened, and स् dropped necessarily in thecase of ओजस् and अप्सरस् and optionally in the case of other wordsending in स्. ('ओजसोऽप्सरसो नित्यमितरेषां विभाषया') *e.g.*श्येनायते (श्येनइवाचरति) काकः, कृष्णायते, ओजायते (ओजस् is to be understood in thesense of ओजस्विन्. 'ओजःशब्दो वृत्तिविषये तद्वति'), अप्सरायते, यशायते orयशस्यते, विद्वायते or विद्वस्यते.
 
  क्विप् is added to all nouns in the sense of क्यङ् ('सर्वप्रातिपदिकेभ्यः क्विप् वावक्तव्यः') क्विप् is wholly dropped. The base is to be considered as a &root of the 1st conjugation. It takes Para.takes Para. terminations *e.g.*कृष्णति (कृष्ण इवाचरति), दिनन्ति यामिन्यः (Nights act like days), as inthe following verse:—
 
 'सविता विधवति विधुरपि सवितरति तथा दिनन्ति यामिन्यः।  
 यामिनयन्ति दिनानि च सुखदुःखवशीकृते मनसि॥'
-
- 
 
 विपक्त्रिमज्ञानगतिः.
 
@@ -9124,8 +8224,6 @@ The base ending in क्यङ् takes Atma. terminations. Before क्यङ
  This makes the dissolution of the compound complicated. It maybe dissolved as follows:—विपक्त्रिमं च तत् ज्ञानं च विपक्त्रिमज्ञानं तस्य गतिराश्रयःthat is, he was the resort of perfected knowledge. This will give itthe same sense as that of विपक्त्रिमज्ञाननिधिः the reading adopted byमल्लिनाथ.
 
  विपक्त्रिम**,** and दत्रिम**,** and विहित्रिम (in St. 13) are formed byaffixing त्रिम. It is added to roots that are mentioned in the Dhâtupâthawith the initial डु in the sense of तेन (धातुवाच्यभावेन) निर्वृत्तम्. Theinitial डु is इत् by "आदिर्ञिटुडवः" १।३।५॥डुपचष् पाके, डुलभष् प्राप्तौ, डुभृञ्धारणपोषणयोः, डुदाञ् दाने, डुधाञ् धारणपोषणयोः, डुकृञ् करणे, and डुक्रीञ् द्रव्यविनिमये are among the roots of this kind.
-
- 
 
 **ऋष्यशृङ्गः**
 
@@ -9139,8 +8237,6 @@ The base ending in क्यङ् takes Atma. terminations. Before क्यङ
 
 Jaya. explains it as वशीकृतात्मेति भावः,
 
-
-
  
 
 **क्रतुम्.**
@@ -9149,8 +8245,6 @@ Jaya. explains it as वशीकृतात्मेति भावः,
 
 "इष्टिस्तु चरुणा प्रोक्ता यागस्तु पशुना स्मृतः।  
 एतच्छेषः क्रतुः प्रोक्तो होमान्यत् पूजनं स्मृतम्॥"
-
- 
 
 **ज्ञाताशयस्तस्य**
 
@@ -9161,13 +8255,9 @@ means ज्ञाततदाशयः. It is like श्रुतदेहव�
 
  If the सापेक्ष word is the principal word in a compound, the compoundis allowed. 'यदि सापेक्षमसमर्थं भवतीत्युच्यते राजपुरुषो दर्शनीयः अत्र वृत्तिर्नप्राप्नोति। नैष दोषः। प्रधानमत्र सापेक्षम्। भवति च प्रधानस्य सापेक्षस्यापि समासः।'But if the सापेक्ष word is a dependent member of a compound, the compound is not allowed. Then how are 'देवदत्तस्य गुरुकुलम्' 'देवदत्तस्य गुरुपुत्रः''देवदत्तस्य दासभार्या' (where देवदत्तस्य is connected with गुरु and दास)'किमोदनः शालीनाम्' (*i.e.*केषां शालीनामोदनः), 'सक्त्वाढकमापणीयानाम्'(*i.e.* आपणीयानां सक्तूनामाढकम्) to be explained? These are to beconsidered correct; because they are गमक, that is, they convey thesense that is desired to be conveyed by a sentence. 'इह समानार्थेन वाक्येनभवितव्यं समासेन च।' 'गमकत्वात्समासः' means 'the compound is formedbecause it clearly conveys the desired sense, the sense that can beconveyed if the compound were not formed and words used uncompounded.'
 
- 
-
 **सुतानुबन्धि.**
 
 Malli. says it is formed by the addition of इनि (इन्)a possessive affix, to सुतानुबन्ध. सुतस्य अनुबन्धः सुतानुबन्धः सोऽस्यऽस्मिन्वाअस्तीति सुतानुबन्धि. It is not formed by affixing णिनि (इन्) whichshews ताच्छील्य (habit, nature) by the Sûtra 'सुप्यजातो णिनिस्ताच्छील्ये'३।२।७८॥ for though the word 'सुपि' can be supplied from a precedingSûtra, it is mentioned to shew that it can not be added to a root to
-
-
 
 which a preposition is prefixed. Malli. follows the view taken byVṛittikára who says: 'सुपीति वर्त्तमाने पुनः सुब्ग्रहणमुपसर्गनिवृत्त्यर्थम्' Inhis commentary on खविचारिणः C. 5, St. 13 also, Malli. takes the sameview. But this does not seem to be the sound view. In his explanation of the Sûtra Bha Dî, criticizes the view as follows:—
 
@@ -9211,8 +8301,6 @@ The remaining portion of the oblation. Malli. saysthat as it was after the sacri
 
 This reading is adopted in the text as it is found in themajority of the Mss. collated for settling the text. Both Malli.
 
-
-
 and Jaya. read कौसल्यया. Malli's note on the word in the Raghu.C.X. St. 55 is as follows:—
 
  "कौ पृथिव्यां सलति गच्छतीति कोसलः। सल गतौ। पचाद्यच्। कुशब्दस्य पृषोदरादित्वाद्गुणः। कोसलस्य राज्ञोऽपत्यं स्त्री कौसल्या। "वृद्धेत्कोसलाजादाञ्ञ्यङ्” इति ञ्यङ्। 'यङश्चाप्' इति चाप्। अत एव सूत्रे निर्देशात् कोसलशब्दोदन्त्यसकारमध्यमः॥'
@@ -9223,13 +8311,9 @@ and Jaya. read कौसल्यया. Malli's note on the word in the Raghu.C
 
 केकय– was the name of a country, the name of the kingof the place was कैकय or कैकेय and that of his daughter केकयी, कैकयी or कैकेयी.
 
- 
-
 **शत्रुघ्न.**
 
 Bha. Dî. explains the formation of the word in a differentway from Malli. On "अमनुष्यकर्त्तृके च" ३।२।५३॥ after having givenजायाघ्नस्तिलकालकः, पतिघ्नी पाणिरेखा, and पित्तघ्नं घृतम् as instances whereटक् is added to हन्, the agent of the action being other than a man, hesays 'अमनुष्येति किम्। आखुघातः शूद्रः। अथ कथं बलभद्रः प्रलम्बघ्नः। शत्रुघ्नः। कृतघ्न इत्यादि। मूलविभुजादित्वात्सिद्धम्।'. He refers to the Vártika 'कप्रकरणेमूलविभुजादिभ्य उपसंख्यानम्' on the Sûtra ‘तुन्दशोकयोः परिमृजापनुदोः' ३।२।५॥.मूलविभुजादि is an आकृतिगण, that is, it is not a limited list, but anyword of a similar form may be considered as belonging to the list.
-
- 
 
 लक्ष्मणेन सह शत्रुघ्नं प्रासोष्ट.
 
@@ -9245,19 +8329,13 @@ The Sutra “सहयुक्तेऽप्रधाने" २।३।१�
 
 Stanza 15—
 
- 
-
 उपानेष्ट.
 
 नी is उभयपदी and so takes Atma. terminations when theresult of the action goes to the agent. But even when the result
 
-
-
 does not go to the agent, it takes Atma. terminations in the senseof ‘respecting a person,' 'throwing up a person or thing,' 'acting asa teacher;' ‘ascertaining the right thing,' 'giving wages,' 'paying offa debt,' and 'expending money for righteous purposes.' 'संमाननोत्सञ्जनाचार्यकरणज्ञानभृतिविगणनव्ययेषुनियः' १।३।३६॥. On this the Káśikâruns as follows:—
 
  णीञ् प्रापणे। अस्मात् कर्त्रभिप्राये क्रियाफले सिद्धमेवात्मनेपदम्। अकर्त्रभिप्रायार्थोऽयमारम्भः। णीञ् प्रापणे इत्येतस्माद्धातोरात्मनेपदं भवति सम्माननादिषु विशेषणेषु सत्सु। सम्माननं पूजनम्। नयते चार्वी लोकायते। चार्वी बुद्धिःतत्संबन्धादाचार्योऽपि चार्वी। स लोकायते शास्त्रे पदार्थान्नयते उपपत्तिभिः स्थिरीकृत्य शिष्येभ्यःप्रापयति। ते युक्तिभिः स्थाप्यमानाः संमानिताः पूजिता भवन्ति। उत्सञ्जनमुत्क्षेपणम्। माणवकमुदानयते। उत्क्षिपतीत्यर्थः। आचार्यकरणमाचार्यक्रिया। माणवकमीदृशेनविधिना आत्मसमीपं प्रापयति यथा स उपनेता स्वयमाचार्यः संपद्यते। माणवकमुपनयते। आत्मानमाचार्यीकुर्वन् माणवकमात्मसमीपं प्रापयतीत्यर्थः। ज्ञानं प्रमेयनिश्चयः। नयते चार्वीलोकायते। तत्र तत्र प्रमेयं निश्चिनोतीत्यर्थः। भृतिर्वेतनम्। कर्मकारानुपनयते। भृतिदानेन समीपं करोतीत्यर्थः। विगणनमृणादेर्निर्यातनम्। मद्राः करं विनयन्ते। निर्यातयन्तीत्यर्थः। व्ययो धर्मादिषु विनियोगः। शतं विनयते। सहस्रं विनयते।धर्माद्यर्थं शतं विनियुङ्क्त इत्यर्थः। एतेष्विति किम्। अजां नयति ग्रामम्॥'
-
-
 
 यमिनाम्.
 
@@ -9286,8 +8364,6 @@ The supplements of the Vedas are enumerated in thefollowing verse:—
 
 उपायंसत may be taken either as anactive or a passive form. Malli.takes it actively, Jaya. passively. Foruniformity with the 1st line, it is, we believe, better to take it as apassive form यम् with उप is Atma. in the sense of स्वकरण (उपाद्यमःस्वकरणे १।३।५६). Following Vṛittikâra Malli. says that स्वकरण meansmarriage Bha. Dî criticizes Vṛittikâra as follows:—
 
-
-
  "यत्तु वृत्तिकृतोक्तं पाणिग्रहण एवेष्यते तेनेह न परभार्यामुपयच्छति दासीत्वेनस्वीकरोतीत्यर्थः इति तद्भाष्यविरुद्धम्। तत्र स्वीकारमात्रे आत्मनेपदस्योक्तत्वात् इतिभावः। तथा च भट्टिः प्रायुङ्क्त'उपायंस्त महास्त्राणि' इति 'शस्त्राण्युपायंसत जित्वराणि' इति॥" मनो०.
 
 **Stanza 17—**
@@ -9304,13 +8380,9 @@ Jaya, dissolves the compound thus:—मधुपर्कपाणिः। द
 
  Malli.'s reading of the 1st line seems to be:—**ऐषीःपुनर्जन्मजयाय तत्त्वं.**He has to supply **येन** to construe the line. He derives**ऐषीः**from **इष्** 4th conj. Para.
 
- 
-
 **रूपादिबोधात्.**
 
 रूप, रस, गंध, स्पर्श, and शब्द are objects of senses.
-
- 
 
 **तत्त्वानि**
 
@@ -9320,8 +8392,6 @@ The twenty–five elements recognised by the Sâṅkhyas. The following verse en
 षोडशकस्तु विकारो न प्रकृतिर्न विकृतिःपुरुषः॥'
 
 ** **मूलप्रकृति or प्रकृति (Nature) is the creator of the world. It is theprimary germ out of which all material appearances have been evolved.It is otherwise called प्रधान. It is the creator of the world, but it isnot itself created and is therefore called अविकृति. It is inanimate, andconsists of the three qualities सत्त्व, रजस्, and तमस्. It creates महत् orthe great principle, also known as बुद्धि or अन्तःकरण. महत् producesअहंकार, which in its turn gives rise to five *Tanmâtras* (शब्द, स्पर्श, रूप,रस, and गन्ध). महद्, अहंकार, and पञ्च तन्मात्र are both creators andcreated and are therefore प्रकृतिविकृतयः. The five *Tanmâtras* produceपञ्च महाभूत (पृथ्वी, अप्, तेजस्, वायु, and आकाश) and अहंकार producesमनस्, the five ज्ञानेन्द्रिय (organs of perception, श्रोत्रत्वक्चक्षूरसनाघ्राणानि)and the five कर्मेन्द्रिय (organs of action, वाक्पाणिपादोपस्थपायवः). Theपञ्च महाभूत, the पञ्च ज्ञानेन्द्रिय, the पञ्च कर्मेन्द्रिय, and मनस् are thesixteen *Vikâras*; because they are created, but themselves create noelements, पुरुष or the soul is the twenty–fifth element. It neither
-
-
 
 creates any thing nor is itself created. It is simply the passive lookeron of the actions of *Prakṛiti*. प्रकृतिः कर्त्री जडा पुरुषस्तु उदासीनः साक्षीपुष्करपलाशवन्निर्लिप्तः. 'महाभूतैः शरीरमुत्पाद्यते तत्संबन्धवशात् प्रकृतिरेव सर्वंकरोति। तत्संसर्गवशादात्मनोऽहंकरोमीत्यभिमानो जायते। स एवात्मनो बन्ध इत्युच्यते। तन्निवर्त्तनाच्च मोक्ष इत्याहुः॥' सिद्धा० चन्द्रो०.
 
@@ -9345,8 +8415,6 @@ creates any thing nor is itself created. It is simply the passive lookeron of th
  'तत्राश्रुतायां क्रियायां राज्ञः पुरुष इत्यादौ क्रियाकारकसंबन्धपूर्वकोऽन्य एव स्वस्वामिभावादिकः संबन्धः प्रतीयते। मातुः स्मरतीत्यादौ श्रूयमाणे क्रियाशब्दे सदपि कर्मत्वमविवक्षित्वा विशेषणभाव एव स्मरणं प्रति मातुः प्रतिपाद्यते॥'
 
   Thus शेष simply means the desire of not expressing the relation of कर्म and other Kârakas, even though the relation exists. Kaiyaṭa
-
-
 
 says:—'क्रियाकारकसंबन्धोऽपि सर्वत्र वस्तुस्थित्यास्ति तन्निमित्तश्च स्वस्वामिभावादिरपितत्र स्वस्वामिभावादिविवक्षायां सन्नपि क्रियाकारकसंबन्धो न विवक्ष्यते.'
 
@@ -9376,13 +8444,9 @@ may be taken with the second clause where it is asJaya, takes it. 'त्वय�
 
  वयम् is used in the sense of अहम्. The plural forms of अस्मद् areoptionally used in the sense of the singular or the dual number; butwhen they are qualified by an adjective, the plural is not used, 'सविशेषणस्य प्रतिषेधः' (वा०). पटुरहं ब्रवीमि॥' (सिद्धा० कौ०). It should be notedthat this adjective should be अनुवाद्य (attributive) and not विधेय (predicative). 'अनुवाद्यविशेषणेऽयं निषेधो न विधेये।. It is for this that पदमञ्जरीकारsays:– "कथं 'त्वं राजा वयमप्युपासितगुरुप्रज्ञाभिमानोन्नताः' इति। अत्रोन्नतत्वंविधीयते। न हि विधेयोऽर्थो विशेषणं भवति॥".
 
-
-
 **क्षात्रं द्विजत्वं च परस्परार्थम्.**
 
 The Kshatriya valour and theBrahminic lustre help each other. Their combination is irresistible, *of*'पवनाग्निसमागमो ह्ययं सहितं ब्रह्म यहस्रतेजसा' (रघु०८.४).
-
-
 
 ** प्रहिणु.**
 
@@ -9395,8 +8459,6 @@ The न् of the conjugational signs of हि 5th conj. Para. and मी 9th c
 **विप्रवह्निः.**
 
 Jaya takes it as उपमितसमास. 'विप्रो वह्निरिव। "उपमितम्–"इति समासः' But in this case विप्र becomes the principal word in thecompound and it can not be so well connected with धक्ष्यति as वह्नि. वह्निshould therefore be the principal word in the compound and for thisthe compound should be solved like मयूरव्यंसक. Malli. is therefore moreaccurate than Jaya. in solving the compound as विप्रः एव वह्निः विप्रवह्निः.
-
- 
 
 **ततोऽनुजज्ञे गमनं सुतस्य.**
 
@@ -9416,8 +8478,6 @@ Our commentator's reading is ततोऽनुमेनेगमनं सु�
 
 A Bahuvrîhi ending in धनुस् takes the terminationअनङ् (धनुषश्च ५।४।१३२॥). In other words धनुस् is changed to धन्वन् atthe end of a Bahuvrîhi compound. *e.g.* शार्ङधन्वा, अधिज्यधन्वा. But theterminations added at the end of compoundsare optional.धनुस्
 
-
-
 is not therefore changed to धन्वन् here. 'अथ कथं "स्वलावण्याशंसाधृतधनुषमह्नाय तृणवत्" इति पुष्पदन्तः। समासान्तविधेरनित्यत्वात्। अनित्यत्वेप्रमाणं तु अंश्वादिगणे राजन्शब्दस्य पाठः। स हि "प्रतेरंश्वादयस्तत्पुरुषे" (६।२।१९३॥)इत्यन्तोदात्ततार्थः। "राजाहःसखि–" इति टचो नित्यत्वे तु किं तेनेति दिक्' (मनो०).
 
  The changes which words undergo at the end of compounds are notobligatory, *i.e.* are not to be found in each and every case. (समासान्तविधिis अनित्य). They may be some times dispensed with. The authorityfor looking upon समासान्तविधि as अनित्य is the fact that the word राजन्is given in the Gaṇa beginning with अंशु. (अंशु, जन, राजन्, उष्ट्र, खेटक, अजिर, आर्द्रा, श्रवण, कृत्तिका, अर्धपुर इत्यंश्वादिः). It is included in theclass to show that it is अन्तोदात्त. But if the समासान्तविधि is नित्य andराजन् takes टच् (is changed to राज) necessarily, then it being चित् (च्of टच् being इत्), it is अन्तोदात्त (चितः। ६।१।१६३॥), and it should nothave been included in the अंश्वादिगण ('राजशब्दः समासान्तस्यानित्यत्वाद्यदाटच् नास्ति तदा प्रयोजयति। तस्मिन्हि सति चित्त्वादेवान्तोदात्तत्वं सिद्धम्।' काशि०).
@@ -9426,39 +8486,27 @@ is not therefore changed to धन्वन् here. 'अथ कथं "स्�
 
 Stanza 25–
 
- 
-
 त्रैमातुरः
 
 . Lakshmaṇa is so called; because though born of Sumitrâ,Kausalyâ and Kaikeyî were also regarded as his mothers as they eachgave Sumitrâ half of their sacrificial portion (*charu*). This divisionof *charu* does not agree with what is described in the Râmâyaṇa.'अयं च विभागो न रामायणसंवादी। तत्र चरोरर्धं कौसल्याया अवशिष्टार्धंकैकेय्यैशिष्टं पुनः सुमित्राया इत्यभिधानात्। किं तु पुराणान्तरसंवादो द्रष्टव्यः। उक्तं च नारसिंहे– "ते पिण्डप्राशने काले सुमित्रायै महीपतेः। पिण्डाभ्यामल्पमल्पं तु स्वभगिन्यैप्रयच्छतः" इति।' Malli. on Raghu V. C. St. 56.
 
 Stanza 26–
 
- 
-
 मुष्टिपीडं दधाने.
 
 Jaya. takes मुष्टिपीडम् as ending in णमुल् accordingto the Sûtra “सप्तम्यां चोपपीडरुधकर्षः"।३।४।४९॥. 'मुष्टिपीडं मुष्टिना पीडयित्वा।मुष्टिशब्दे तृतीयान्ते उपपदे "सप्तम्यां चोपपीड–" इति णमुल्। तत्र चकारेण तृतीयानुकर्षणात्।' जय०. Malli. rightly criticizes it; because the Sûtra
 
-
-
 sanctions णमुल् to उपपीड्, उपरुध् and उपकर्ष्. The examples given inthe Kâśikâ and Siddhântakaumudî to illustrate the Sûtra are'पार्श्वोपपीडं शेते। व्रजोपरोधं गाः स्थापयति। पाण्युपकर्षं धानाः संगृह्णाति।'.
-
- 
 
 बद्धगोधाङ्गुलित्रे
 
 is the reading of E2. गोधाङ्गुलित्र occurs in theRâmâyaṇa and is explained by the commentator Râma in his 'Tilaka'as 'गोधा चर्मकृतमङ्गुलित्राणम्। गोधा हस्तत्राणमिति कश्चित्। अङ्गुलित्राणस्य पौनरुक्त्यापत्तेस्तच्चिन्त्यम्'॥.
-
-
 
 गुरुशोकाः
 
 is the reading of our commentator as well as Jaya.But we have adopted गुरुशोकात् in the text, as it is found in most of theMss. consulted by us. It should be connected with कथमपि. They wereobliged to use great effort in checking their tears, grief being heavy.They did not cry; because they wished the good of Râma.
 
 Stanza 27–
-
- 
 
 **अभिमतफलशंसी चारु पुस्फोर बाहुः.**
 
@@ -9468,13 +8516,9 @@ Jaya, gays.– 'अनेन सीताप्राप्तिःबीजम
 
 ––––––
 
-
-
 CANTO II.
 
 **Stanza 2–**
-
- 
 
 सधूमदीप्ताग्निरुचीनि.
 
@@ -9500,21 +8544,15 @@ Stanza 5–
 
 Stanza 6–
 
- 
-
 मानिनी
 
 = A jealous lady. मान is defined as 'स्त्रीणामीर्ष्याकृतः कोपो मानोऽन्यासङ्गिनि प्रिये'. 'न मानिनी संसहतेऽन्यसङ्गमम्' is a general statement givento strengthen the particular statement of *Padminî* rejecting the bee.A figure of speech in which a general proposition is put forth tosupport a particular instance or a particular instance is given to
-
-
 
 support a general proposition is अर्थान्तरन्यास which Daṇdi defines as'ज्ञेयः सोऽर्थान्तरन्यासो वस्तु प्रस्तुत्य किञ्चन। तत्साधनसमर्थस्य न्यासो योऽन्यस्यवस्तुनः॥'
 
  This Stanza is quoted in Subhâshitâvali as belonging to भट्टि. (*vide*Dr. Peterson's edition No. 2164).
 
 Stanza 7–
-
- 
 
 मधुलेहगीतौ
 
@@ -9523,8 +8561,6 @@ is another reading noticed by Jaya. 'मधुलेहगीताविति 
  The figure in the verse is विशेषोक्ति in which the effect is mentionedas not taking place, though the necessary causes for it are present.When the reason why the effect does not take place is mentioned, it isउक्तनिमित्ता as in the verse, when it is not expressed but may beconceived, it is अनुक्तनिमित्ता, and when it is such as can not be conceived, it is अचिन्त्यनिमित्ता.
 
 Stanza 9–
-
- 
 
 क्रमं बबन्ध क्रमितुम्
 
@@ -9536,25 +8572,17 @@ Stanza 9–
 
 Stanza 10–
 
- 
-
 सुगन्धः.
 
 The Sûtra "गन्धस्येदुत्पूतिसुसुरभिभ्यः" ।५।४।१३५॥teaches thatगन्ध is changed to गन्धि at the end of a Bahuvrîhi compound whenpreceded by उद्, पूति, सु, and सुरभि. There is a *Vârtika* on it 'गन्धस्येत्वेतदेकान्तग्रहणम्.' एकान्त is explained in two ways. 'एकान्त एकदेश इव अविभागेन लक्ष्यमाण इत्यर्थः। सुगन्धि पुष्पं सलिलं वा। सुगन्धिर्वायुः। नेह शोभना गन्धाःद्रव्याणि अस्य सुगन्ध आपणिकः' (सिद्धा० कौ०). That is गन्ध is changed to गन्धिin the sense of smell and not in the sense of perfume or fragrant substance. Another explanation of एकान्त is स्वाभाविक. That is, when thefragrance is natural and not borrowed, गन्ध is changed to गन्धि. In the
 
-
-
 text we have सुगन्ध;because the fragrance is not natural, but isacquired. On this Vârtika the Manoramâ proceeds as follows:–
-
- 
 
 "द्रव्याणीति।
 
 अस्ति च गन्धशब्दो द्रव्यवचनः। 'वहति जलमियं पिनष्टि गन्धानियमियमुद्ग्रथते स्रजो विचित्राः' (मुद्रा०) इति दर्शनात्। 'गन्धस्तु सौरभे नृत्ये गन्धकेगर्वलेशयोः। स एव द्रव्यवचनो बहुत्वेपुंसि च स्मृतः' इति कोशाच्च। एतेन 'महीभृतःपुष्पसुगन्धिराददे' 'भग्नबालसहकारसुगन्धौ' (माघ १०.३) इत्यादि व्याख्यातम्।एतच्च सर्वं हरदत्तग्रन्थे स्पष्टम्। केचित्तु तदेकान्तशब्देन स्वाभाविकत्वं विवक्षित्वाआगन्तुकस्य नेत्याहुः। तथा च भट्टिः 'आघ्रायिवान् गन्धवहः सुगन्धः' इति। व्याख्यातंच जयमङ्गलायाम्। “गन्धस्येदुत्पूतिसुसुरभिभ्यः" इतीकारः समासान्तो न। गन्धस्येत्वंतदेकान्तग्रहणमिति वचनात्। सुगन्ध आपणिक इति यथा' इति। अत एव 'भग्नबालसहकारसुगन्धौ' इत्यादीनां प्रामादिकत्वं दुर्घटं वृत्तिकृतोक्तम्॥”.
 
  The Bhâshya on this Sûtra runs thus:–
-
- 
 
 "गन्धस्येदुत्पूतिसुसुरभिभ्यः।
 
@@ -9582,8 +8610,6 @@ text we have सुगन्ध;because the fragrance is not natural, but isacqu
 
  In another place (C. 5. 46 of Magha. 'कण्डूयतः कटभुवं करिणो मदेनस्कन्धं सुगन्धिमनुलीनवता नगस्य।' &c.) Malli. says:–'गन्धस्येत्त्वे तदेकान्तग्रहणं नाद्रियन्ते कवयः।'.
 
-
-
 **Stanza 11–**
 
 ** **
@@ -9593,8 +8619,6 @@ text we have सुगन्ध;because the fragrance is not natural, but isacqu
 All these end inणमुल् (अम्). णमुल् is added to विश्, पत्, पद्, and स्कन्द् when theirobject is used as their उपपद and when the words so formed denotethat the substances designated by these objects are wholly connectedwith the actions and that the actions are repeated, लतानुपातम् meansलतां लतामनुपत्य and लतामनुपत्यानुपत्य. लतां लतामनुपत्य shews व्याप्ति orcomplete connection of लता, the object, with the action (अनुपतन).लतामनुपत्यानुपत्य shews आसेवा, repetition of the action. The exampleof पद् is गेहानुप्रपादमास्ते.
 
 Stanza 13–
-
- 
 
 शस्य
 
@@ -9620,8 +8644,6 @@ as Malli. reads means 'products of fields.' 'शस्यं क्षेत्�
 
 Stanza 14–
 
- 
-
 नृपांशं विहितम्.
 
 The sixth part of produce is generally sanctionedas the king's due. *cf.* 'षष्ठांशवृत्तेरपि धर्म एषः' अभिज्ञान०.
@@ -9636,8 +8658,6 @@ The sixth part of produce is generally sanctionedas the king's due. *cf.* 'ष�
 मृण्मयानां च भाण्डानां सर्वस्याश्ममयस्य च"॥अ०७.१३०–१३२.
 
  In return of the portion of the produce of the soilreceived by theking as a tax due to him, he was to protect his subjects. If he protectedthem well, he would get sixth part of the merits reaped by them; but ifhe failed to do his duty by them, he would reap sixth part of theirdemerits.
-
-
 
 “सर्वतो धर्मषड्भागो राज्ञो भवति रक्षतः।  
 अधर्मादपि षड्भागो भवत्यस्य ह्यरक्षतः॥  
@@ -9658,13 +8678,9 @@ Stanza 15—
 
 Stanza 16—
 
- 
-
 अङ्गहार.
 
 ‘अङ्गहारोऽङ्गविक्षेपः’ इत्यमरः. ‘अङ्गस्य स्थानात्स्थानान्तरे नयनमङ्गहारः’.
-
- 
 
 ताल
 
@@ -9673,8 +8689,6 @@ is beating time in music.
  Malli. says ‘अत्र गात्रकर्मणि नृत्तत्वारोपाद्रुपकालङ्कारः’. We should rather take this as an instance of अतिशयोक्ति, as the उपमेय, गात्रकर्म, is not mentioned at all. It is निगीर्ण (swallowed up) in the उपमान, नृत्त. This is therefore अतिशयोक्ति, which is defined by Vidyâ as ‘विषयस्यानुपादानाद्विषय्युपनिबध्यते। यत्र सातिशयोक्तिः स्यात्कविप्रौढोक्तिजीवितम्॥’
 
 Stanza 17—
-
- 
 
 आरात्
 
@@ -9686,13 +8700,9 @@ may be taken in the sense of समीपे as Jaya. takes it‘आराद्
 
 as वन is almost निरर्थक.
 
- 
-
 वातमज
 
 = A kind of deer; literally & deer running towards the wind, a very swift deer. It is formed like प्रियवंद by affixing खश् (अ) to अज्. By the same Vârtika (‘वातशुनी—’) we have शुनिन्धयः (The इ of शुनी being shortened by “खित्यनव्ययस्य” ६\।३\।६६॥), तिलन्तुदः (an oilman), and शर्धञ्चह (a kind of pulse)‘शर्धञ्जहा माषाः। शर्धोऽपानशब्दः तं जहतीति विग्रहः। जहातिरन्तर्भावितण्यर्थः॥' (सिद्धा० कौ०).
-
-
 
 **Stanza 18—**
 
@@ -9709,13 +8719,9 @@ Stanza 19—
 
 Stanza 20—  
 
- 
-
 यायजूक
 
 one who constantly performs sacrifices.The word is formed by affixing ऊक to the frequentative base of य ज्, य being dropped. नन्नमूक and दंदशूक are similarly formed from the roots नम् and दंश्. दंश् drops its nasal,
-
-
 
 ** **
 
@@ -9723,15 +8729,11 @@ one who constantly performs sacrifices.The word is formed by affixing ऊक to 
 
 **=**A vagrant mendicant. This word is also formed from the Freq. base of या,वर being affixed to it.
 
- 
-
 **प्रानर्चुः.**
 
 Some of the Mss. read प्राणर्चुः. But the reading seems to be grammatically incorrect; as प्रand आनर्चुःbeing different *Padâs,*न्can not be changed to ण्. It seems to have been a slip of copyists. Jaya. reads प्रानर्चुः.
 
 Stanza 21—
-
- 
 
 **विजया**
 
@@ -9740,8 +8742,6 @@ and
 जया
 
 are the names of two lores regarding weapons.(अस्त्रविद्याविशेष). They are not mentioned in the Râmâyaṇa; but they must be similar to बला and अतिबला described there (*vide* Bâlakâṇda C. XXII).
-
- 
 
 अध्यापिपत्
 
@@ -9753,15 +8753,11 @@ are the names of two lores regarding weapons.(अस्त्रविद्य�
 
 with एनम् and explains it as 'रक्षोगणं क्षिप्नुंप्रेरयितारम्.’Malli's explanation is better. He takes it as feminine, qualifying, विद्याम् in the sense of ‘destroyer of demons.'
 
- 
-
 यथावत्
 
 . वत् is added in the sense of 'तदर्हम्' *(vide* notes C. I. St. 3).
 
 Stanza 22—
-
- 
 
 अश्यर्ण
 
@@ -9769,13 +8765,9 @@ Stanza 22—
 
 Stanza 26—
 
- 
-
 विष्टरपाद्यमाल्यैः
 
 , Jaya, takes माल्य in the sense of 'flower.' 'माल्यानि+++++++++++++++++++Malli takes it to mean ‘garland' and says it is formed by the affix ष्यञ्(य)which here gives no additional sense to the word, but is simply स्वार्थवाचक as in चातुर्वर्ण्य
-
-
 
 **Stanza 27—**
 
@@ -9791,8 +8783,6 @@ Stanza 28—
 
 Stanza 29—
 
- 
-
 From दक्षिणा are formed दक्षिणीय and
 
 दक्षिण्य
@@ -9804,8 +8794,6 @@ is incorrect.
 
 Stanza 30—
 
- 
-
 गिरिकूटदघ्नैः.
 
 "प्रमाणे द्वयसज्दघ्नञ्मात्रचः" ५।२।३७॥ द्वयसच् (द्वयस),दघ्नच् (दघ्न), and मात्रच् (मात्र) are affixed in the sense of measure. *e.g.*उरू प्रमाणमस्य उरुद्वयसम्। उरुदघ्नम्। उरुमात्रम्।.
@@ -9816,8 +8804,6 @@ Stanza 33—
 
 . The word is generally used in the sense of ‘bearing fruits' *i. e.* as an adjective qualifying वृक्ष. The Kâśikâ Vṛitti says:— ‘फलानि गृह्णातीति फलेग्रहिर्वृक्षः’ Amara and other Koshâs give the same sense. The same sense is found in the KîrtikaumudÎ‘स्यान्मनोरथतरुःफलेग्रहिः' ३।६० and in the Mâlatimâdhava 'निर्वृत्तश्च फलेग्रहिर्द्रुमवरो' 9th Act. Here, however, it is used in the etymological sense of 'taking fruits,' 'living upon fruits.'
 
- 
-
 शौवस्तिकत्वं न व्रजन्ति
 
 do not last till tomorrow. शौवस्तिक is formed from श्वस्. ठञ् (इक) is added to it in the sense of 'तत्र भवः' and to thisइक त् is prefixed. In affixing इकthe initial vowel takes Vṛiddhi, but in the case of द्वार, स्वस्ति, व्यल्कश, श्वस् and other words instead of the initial vowel after य् or व् taking Vṛiddhi, the augment ऐis placed beforeय् and औbefore व्. "द्वारादीनां च " ७।३।४॥.द्वार, स्वर, व्यल्कश, स्वस्ति, स्वर,स्फ्यकृत्, स्वादुमृदु, श्वस्, श्वन् and स्व constitute the group. *e.g.* दौवारिकःस्वरमधिकृत्य कृतो ग्रन्थः सौवरः, व्यल्कशे भवः वैयल्कशः, स्वस्तीत्याह सौवस्तिकः, शुन इदं शौवनम्, स्वस्येदं सौवम् &c.
@@ -9825,8 +8811,6 @@ do not last till tomorrow. शौवस्तिक is formed from श्वस�
 Stanza 35—
 
  **व्यतिस्ते**. Roots take Atma, terminations in the active form when the reciprocity of actions is meant *e.g.* 'व्यतिलुनीते अन्यस्य योग्यं लवनमन्यः
-
-
 
 करोतीत्यर्थः’.
 
@@ -9846,13 +8830,9 @@ Stanza 36—
 
 Stanza 38—
 
- 
-
 महीय्यमाना
 
 . Pres, Par. of the Pas. of महीङ् (मही Atma).‘महीङ्पूजायाम्। महीयते पूजां लभते इत्यर्थः।'
-
- 
 
 **हिणीयते**
 
@@ -9860,13 +8840,9 @@ Stanza 38—
 
 Stanza 42—
 
- 
-
 अजिग्रहत्तं जनको धनुस्तद्.
 
 ग्रह् is here used as a द्विकर्मक root, On this the Manorama says:— 'ग्रहेस्तु द्विकर्मकत्वं यद्यपि सुधाकरादीनां संमतं तथापि बहूनामसंमतमत एव 'अजिग्रहत्तं जनको धनुस्तत्' इति भट्टप्रयोगमजिग्रहद्बोधितवानिति व्याचख्युः तथा 'अयाचितारं न हि देवदेवमद्रिः सुतां ग्राहयितुं शशाक’ इत्यत्र ग्राहयितुमुद्वाह्यत्वेन बोधयितुमिति। युक्तं चैतत्। ग्राहेर्द्विकर्मकत्वे हि 'जायाप्रतिग्राहितगन्धमाल्याम्' इत्यत्र केन प्रयोज्याया घेनोरभिधानं स्यात् 'ण्यन्तेकर्त्तृश्चकर्मणः' इत्युक्तेः। ततश्चजायया गन्धमाल्ये प्रतिग्राहितामिति स्यात्। सिद्धान्ते तु प्रतिग्राहिते गन्धमाल्ये ययेति विग्रहः। जायानिष्ठप्रेरणविषयीभूतं गन्धमाल्यकर्मकं यत्प्रतिग्रहणं तत्कर्त्रीमित्यर्थः। यद्यपि धेनुकर्त्तृकं जायानिष्ठप्रेरणविषयीभूतं यत्प्रतिग्रहणं तत्कर्मीभूते गन्धमाल्ये इति विग्रहार्थस्तंथापि अन्यपदार्थान्तर्भावेणेव विशेषणविशेष्यभाववैपरीत्येनैवैकार्थीभावकल्पनात्॥' Jaya. explains अजिग्रहत्बोधितवान्. He says:— 'अजिग्रहत् बोधितवान् अनेन धनुषा त्रिपुरं दग्धमिति।ग्रहेर्हेतुमण्ण्यन्ताच्चङि णिलोपः णौचङि हस्वः। सन्वद्भावादित्वम्। ग्रहेश्चबुद्ध्यर्थत्वात्
-
-
 
 “गतिबुद्धि—" इत्यादिना रामस्य कर्मसंज्ञा॥'. All the commentators' however, do not explain अजिग्रहत् by बोधितवान्. Bharatamallika says:—
 
@@ -9874,19 +8850,13 @@ Stanza 42—
 
 Stanza 43—
 
- 
-
 पथिकान्.
 
 Both Jaya and Malli say:— "तत्र कुशलः पथः" इति ठक्.This Sûtra, however, sanctions वुन् and not ठक्. पथि कुशलः पथकः, notपथिकः. पथिकis formed according to the Sûtra "पथः ष्कन्". 'पन्थानं गच्छतीति पथिकः"
 
- 
-
 **गिरिज्ञान्**
 
 . A portion of the Com.is left out. After "तत्र कुशलः पथः" इति ठक्।' insert गिरिषु ज्ञान् गिरिज्ञान् गिरिसंचारकुशलानित्यर्थः॥Malli. takes it to mean 'those who know mountain-paths' and 'those who are skilled in speaking.’ In the latter sense गिरिज्ञ is अलुक्समासformed according to the Sûtra "तत्पुरुषे कृति बहुलम्" ६।३।१४॥.
-
- 
 
 व्यसर्जयत्.
 
@@ -9894,21 +8864,15 @@ Jaya, takes it as a causal form, 'विपूर्वस्य सृजेर
 
 Stanza 44—
 
- 
-
 अध्वन्य
 
 and अध्वनीन (formed by ख or ईन) mean 'speeding on a journey' अध्वनीन is used in St.49.
 
 Stanza 45—
 
-
-
 सदृक्.
 
 This word is formed by affixing क्विप् to the root दृश् withसमान as its उपपद. समान is changed to स. क्विप् is wholly dropped. The termination has the sense of कर्मकर्त्तृ, that is, it shows that the root is to be taken pássively with समान as its subject and object.
-
-
 
 According to the Bhâshya, the word may be thus explained:— 'समानमिव इमं पश्यन्ति जनाः सोऽयं समान इव दृश्यमानः समानमिव आत्मानं पश्यतीतिसदृक्। सदृशः’। The quotation from the Bhâshya, explaining the formation of the word, is incorrectly printed in the Com. (see the errata). The KâśíkâVṛitti says:—' तादृगादयो हि रूढिशब्दप्रकारा नैवात्र दर्शनक्रियाविद्यते।'. The Bhâshya on the Sûtra "त्यदादिषु दृशोऽनालोचने कञ्च”३।२।६०॥ which explains the formation of त्यादृक् तादृशः, तादृक्, तादृशः *&c.,*and on which Kâtyâyana has his Vârtika 'समानान्ययोश्चेति वक्तव्यम्'proceeds as follows:—
 
@@ -9916,19 +8880,13 @@ According to the Bhâshya, the word may be thus explained:— 'समानम�
 
  On this Kaiyata's remarks are as under :—
 
- 
-
 'कृदर्थानुपपत्तिस्त्विति
 
 यः कृतोऽर्थः स तादृशादिशब्दवाच्यो न भवति। तादृशादयो हि सदृशलक्षणमर्थमाचक्षते न तु दर्शनक्रियायाः कर्त्तारमित्यर्थः। **कर्मकर्त्तेति।** कर्मण एव सौकर्यात्कर्त्तृत्वविवक्षायां कर्त्तर्येव प्रत्ययः क्रियते इत्यर्थः।’.
 
  It should be noted that there is another Vârtika "दृशेःक्सश्च वक्तव्यः॥. According to this we have तादृक्षः। यादृक्षः।अन्यादृक्षः। &c.
 
-
-
 Stanza 47—
-
- 
 
 शाललता.
 
@@ -9936,17 +8894,11 @@ Stanza 47—
 
 Stanza 48—
 
- 
-
 संबंहयन्तीम्.
 
 This is formed from संबहुल by 'प्रातिपदिकाद्धात्वर्थेबहुलमिष्ठवच्च.’ Any प्रातिपदिक may be turned into a root by affixing णिच् (इ) to it, and making the same changes before it as before the इष्ठ of the superlative degree. ‘तत्करोति तदाचष्टे’ is generally the sense in which the termination is added; पटु करोति पटुमाचष्टे वा इति पटयति (पटु+इ = पट्+इ = पटिthe root+अ = पटे+अ = पटयbase); बहुलं करोति बंहयति.
 
-
-
 Stanza 49—
-
- 
 
 अश्वीय.
 
@@ -9954,19 +8906,13 @@ Stanza 49—
 
 Stanza 50—
 
- 
-
 विशङ्कटो वक्षसि
 
 = 'extensive in his chest,' 'of extensive chest.' The Com.reads विशङ्कटे वक्षसि बाणपाणिः= ‘Having his hand with a bow rested on his extensive chest'.
 
- 
-
 अरत्नि.
 
 here used in the sense or बाहु or arm, originally means ‘hand extending from the elbow to the little finger.' 'प्रकोष्ठे विस्तृतकरे हस्तो मुष्ट्यातु बद्धया। स रत्निः स्यात् अरत्निस्तु निष्कनिष्ठेन मुष्टिना॥' Amara. Halâyudha thus distinguishes रत्नि, अरत्नि and प्रामाणिक. 'मध्याङ्गुलीकुर्परयोर्मध्ये प्रामाणिकः करः। बद्धमुष्टिकरो रत्निररत्निःसकनिष्ठिकः॥.’
-
- 
 
 जामदग्न्य.
 
@@ -9974,13 +8920,9 @@ The word is formed from जमदग्नि by affixing यञ् (य) by"ग
 
 Stanza 53—
 
- 
-
 कुमारः
 
 , Jaya, says:— 'कृतदारकर्मापि पुत्रः पितरि जीवति कुमार इतिव्यपदिश्यते।.
-
- 
 
 लोकानलावीत्.
 
@@ -9993,8 +8935,6 @@ The Râmâyaṇa describes that राम left it to option of परशुर�
 
 बालका० ७६, ६-७,
 
-
-
 **परशुराम** says :—
 
 तामिमां मद्नीत वीर हन्तुं नाईसि राघव।  
@@ -10003,7 +8943,6 @@ The Râmâyaṇa describes that राम left it to option of परशुर�
 जहि ताञ्शरमुख्येन मा भूत्कालस्य पर्ययः॥’
 
 बालका० ७६. १५-१६.  
-
 
 **Stanza 54—**
 
@@ -10023,13 +8962,9 @@ from दूर, see note on St. 48 above.
 
 ————
 
-
-
 CANTO-III
 
 Stanza 1—
-
- 
 
 आढ्यंभविष्णुः
 
@@ -10041,8 +8976,6 @@ Stanza 1—
 
 Stanza 2—
 
- 
-
 सुचेतीकृतपौरभृत्यः.
 
 The अभूततद्भावin सुचेतीकृत is well shewn by Jaya, who says:—‘किमयं सम्यक्‌ पालयिष्यति न वेति असुचेतसः पौरा भृत्याश्च जाताः ते सम्यक्पालनात्‌ सुचेतसः कृता येन स सुचेतीकृतपौरभृत्यः।’.
@@ -10052,8 +8985,6 @@ Stanza 3—
  Jaya. reads सन्तप्तचामीकरवर्णवज्रम्.
 
 Stanza 4—
-
- 
 
 स्वपोषम्
 
@@ -10065,21 +8996,15 @@ Stanza 4—
 
 Stanza 5—
 
- 
-
 उक्षांप्रचक्रुः
 
 . is the reading of all the Mss. collated by us except D. and E.Henceउक्षान् प्रचक्रुः adopted by Jaya. does not seem to be the
 reading of the author. It seems to have been got up to obviate the
 difficulty of प्र coming between उक्षां and चक्रुः, In “कृञ्चानुप्रयुज्यते लिटि”३।९।४०॥ the object of using अनु is to prevent the intervention of any word between आम् and कृञ् (कृ, भू, and अस्), and to prevent the inversion of order. “विपर्यासनिवृत्त्यर्थं वा। विपर्यासनिवृत्त्यर्थं तहिं कृञोऽनुप्रयोगवचनं क्रियते। ईहांचक्रे। चक्रे ईहामिति मा भुत्। व्यवहितनिवृत्त्यर्थं चकृञोऽनुप्रयोगवचनं क्रियते। अन्वेव च कृञोऽनुप्रयोगो यथा स्यात्‌।ईहांचक्रे।व्यवहितस्य मा भूदिति।ईहां देवदत्तश्चक्रे इति॥' महाभाष्य. Thus ‘तंपातयां प्रथममासपपात पश्चात्’रघु० ९-६१, ‘प्रभ्रंशयांयो नहुषं चकार' रघु०१३. ३६, and , ‘संयोजयां विधिवदास समेतबन्धुः’ रघु१६. ८६, used by Kâlidâsa are अपाणिनीय, Malli.
 
-
-
 calls them incorrect. “कृञ्चानुप्रयुज्यते लिटि” इत्यत्र अनुशब्दस्य व्यवहितविपर्यस्तप्रयोगनिवृत्त्यर्थत्वात् ‘पातयां प्रथममास’ इत्यपप्रयोग इति पाणिनीयाः। यथाह वार्त्तिककारः। 'विपर्यासनिवृत्त्यर्थं व्यवहितनिवृत्त्यर्थं च' इति॥’ Malli. on रघु०९.६१.Bha. Dî. also considers them incorrect. ‘कथं तर्हि तं पातयां प्रथममासे पपात् पश्चात्’ ‘संयोजयां विधिवदास समेतबन्धुः’ ‘प्रभ्रंशयां यो नहुषं चकार’ इत्यादि। प्रमाद एवायम्। न च विपरीतप्रयोगनिवृत्तिमात्रेसूत्रस्य तात्पर्यमस्त्विति वाच्यम्। विपर्यासनिवृत्त्यर्थं व्यवहितनिवृत्त्यर्थं चेति वार्त्तिकविरोधात्।’ मनो०. Malli. however holds that the intervention of an उपसर्गdoes not make the form incorrect. Râmânanda, who has written मुग्धबोध on भट्टि, is of the same view:—“भ्वस्क्रन्वाम्” इति सूत्रे आम इति पञ्चम्यैवेष्टसिद्धौ अनुग्रहणं उपसर्गक्रियाविशेषणव्यवधानेऽपि तदनुप्रयोगज्ञापनार्थम्।.’ क्रमदीश्वर makes the Sûtra ‘सप्रादिकृभ्वस्तिभिश्च’ and instances उक्षां प्रचक्रुः to illustrate the Sûtra, सुबोधकार says:— ‘सत्यमुपसर्गेऽव्यवधानम्’ Bhâshyakâra says nothing about the intervention of a preposition. The instance he gives is that of the intervention of a word other than a preposition. न्यासकारalso gives a similar instance:—‘याचयां देवदत्तश्चकारेत्यत्र मा भूदिति’ Hemâdri in his Darpana on Raghu. On ‘तं पातयां प्रथममास’ says:—‘सारस्वतटीकायां कासामि त्यामन्तमव्ययम्।’ “क्राद्यन्तश्च” इत्यत्रामन्तमव्ययमित्युक्तत्वात्। पृथक्पदाञ्चक्रे इति त्वनुप्रयोगः। तेन व्यवधानेऽपि प्रयोगोघटते। “यस्य येनान्वययोग्यता तस्य तेन दूरस्थेनापि भवति" इति न्यायात्। ततः ‘प्रभ्रंशयां यो नहुषं चकार' इत्यादि नविरुध्यते॥’. We have another similar प्रयोग in C. XIV. St. 59 (जुगुप्सांप्रचक्रे). *Vide* the Com. there.
 
 Stanza 6—
-
- 
 
 स्त्रैणेन नीता विकृतिं लघिम्ना
 
@@ -10087,13 +9012,9 @@ Stanza 6—
 
 Stanza 9—
 
- 
-
 सौमित्रिसीतानुचरस्य.
 
 Jaya. takes अनचरः as एकशेष compound and thus avoids the affix कप्(क) added to a Bahuvrîhi compound ending in ईor ऊ (Fem.). 'सौमित्रिसीतानुचरस्य लक्ष्मणसीतासहायस्य। सुमित्राया अपत्यम्। बाह्वादित्वादिञ्। सहचरत्वेनाभ्यर्हितत्वात् पूर्वनिपातः। अनु पश्चाच्चरतीति अनुचरः। “भिक्षासेनादायेषु च” इति चकारस्यानुक्तसमुच्चयार्थत्वात् टः। अनुचरश्च अनुचरी च। “पुमान् स्त्रिया”। तावनुचरौ सौमित्रिसीते अनुचरौ सहायौ यस्य। कालापिकास्ततोऽन्यत्रापि पठन्ति अनधिकरणोपपदे चरेष्ट इत्यर्थः। ' जय०. This view also seems acceptable,
-
-
 
 ** **
 
@@ -10103,33 +9024,23 @@ Jaya, takes नेत्र in the ordinary sense. ‘सुमन्त्र�
 
 Stanza 10—
 
- 
-
 अप्रशान्तम्
 
 . It may be taken as Jaya, takes it, ‘वृद्धभावेऽपि स्त्रीवशम्.’
 
 Stanza 14—
 
- 
-
 विद्युत्प्रणाशं प्रनष्टः.
 
 विद्युत्प्रणाशम् ends in णमुल् (अम्) affixed to नश् according to the Sûtra “उपमाने कर्मणि च” ३।४।४५॥ which means that णमुल् is added to a root when its उपपद is a standard of comparison (उपमान) as subject or object of the action denoted by the root. घृतनिधायं निहितः is equal to यथा घृतं निधीयते तथा निहितः, घृतमिव निहितः. Here the उपपद घृत is an उपमान and object of निधीयते. अजकनाशं नष्टः means यथा अजकः नश्यति तथा नष्टः, अजक इव नष्टःHere the उपपद अजक is an उपमान and subject of नश्यति. विद्युत्प्रणाशं प्रनष्टः means यथा विद्युप्रणश्यति तथा प्रनष्टः By ”कषादिषु यथाविध्यनुप्रयोगः” ३।४।४६॥ the same root is used as that to which णमुल् is affixed after these forms. Hence रैपोषं पुष्णाति, हस्तग्राहं गृह्णाति, चूर्णपेषं पिनष्टि &c. The Com. reads प्रणष्टः. Most of the Mss. adopt the same reading. But प्रणष्टः is अपाणिनीय, The Sûtra “नशेः षान्तस्य” ८।४।३६॥ teaches that the न् of नश् is not changed to ण्when नश् ends in ष or has its श् changed to ष (अन्तग्रहणं षान्तभूतपूर्वमात्रस्यापि यथा स्यात्). In प्रनष्टः, परिनष्टः, प्रनङ्क्ष्यति, परिनङ्क्ष्यति, न् can not be changed to ण्. The reading प्रणष्टः found in most of the Mss. seems to have been a slip of copyists. But it is strange that Malli. says“उपसर्गादसमासेऽपि णोपदेशस्य”इत्युभयत्रापि णत्वम्." By उभयत्र he clearly means in विद्युत्प्रणाशम् and प्रणष्टः. But even here उभयत्रापि may have been interpolated by a copyist. For Malli. himself reads ‘प्रनष्टविनयेनाग्र्यः’ (C.IX,St.108) and quotes the Sûtra “नशेः षान्तस्य” ८।४।३६॥ to explain प्रनष्ट. The form प्रणष्ट may be considered as आर्ष. It is found in some works as in ‘तेन प्रणष्टमैन्द्रं तदस्मद्व्याकरणं भुवि। जिताः पाणिनिना सर्वे मूर्खीभूता वयं पुनः॥' कथास० ४.२५.
-
- 
 
 ऊर्ध्वशोषं विशुष्कः.
 
 This is also णमुल्, शुष्and पूर् have णमुल् added to them when theirउपपद is ऊर्ध्व as subject of the actions denoted by
 
-
-
 these roots. ऊर्ध्वशोषं शुष्यति means ऊर्ध्वं शुष्यति. ऊर्ध्वपूरं पूर्यतेis equal toऊर्ध्वं पूर्यते ; ‘ऊर्ध्वमुख एव घटादिर्वर्षोदकादिना पूर्णो भवतीत्यर्थः' (सिद्धा० कौ०).
 
 Stanza 16—
-
-
 
 छलेन.
 
@@ -10137,19 +9048,13 @@ Jaya's सन्ध्यावन्दनादिव्याजेन seems 
 
 Stanza 17—
 
- 
-
 अस्राक्षुः.
 
 In explaining this form both Malli, and Jaya. seem to err. Malli says:—'कुत्वादिकार्यम्.' Jaya says:— ‘"चोः कुः"। "खरि च" इति चर्त्त्वम्.' Both of them thus change the ज् of सृज् to क् before सिच्. Though the form may be thus explained, it is not correct. According to the Sûtra "व्रश्वभ्रस्जसृजमृजयजराजभ्राजछशां षः" ८।२।३६॥ the ज् of सृज् must be changed to ष्before सिच्. The ष्is then changed to क् by "षढोः कः सि" ८।२।४९॥. The स् of सिच् being changed to ष्, we have अस्राक्षुः. Malli. should therefore have said 'षत्वादिकार्यम्' instead of 'कुत्वादिकार्यम्' as the Sûtra "चोः कुः" ८।२।३० is applicable to those roots that do not come under व्रश्चादि. The form अयाक्षीत् C.I.St.12 is correctly explained by both. There Jaya. says:— 'षत्वकत्वे.' This should have been similarly explained.
 
- 
-
 कवोष्णम्.
 
 कु is changed to का, कव, or कद् when compounded with उष्ण. कु has here the sense of ईषत्. ईषदुष्णं कोष्णं, कवोष्णं, कदुष्णं वा.
-
- 
 
 पराङ्मुखैस्ते न्यवृतन् मनोभिः.
 
@@ -10157,25 +9062,17 @@ In explaining this form both Malli, and Jaya. seem to err. Malli says:—'कु
 
 Stanza 18—
 
- 
-
 ससीतयो राघवयोरधीयन्.
 
 अधीयन्Nom. Sing. of इ with अधि 2nd Conj. Para. 'to remember.’This root is always used with the preposition अधि like इ with अधि 2nd Conj. Atma. 'to study.' 'इक् स्मरणे। अयमप्यधिपूर्वः। अधीगर्थदयेशामिति लिङ्गात्। अन्यथा हीगर्थेत्येव ब्रूयात्’। सिद्धा० कौ०. Jaya, says:— 'अधीयन् स्मरन्। इक् स्मरण इत्यस्य शतरि रूपम्। यणादेशः. But if we have यणादेशः, that is, if इ is changed to य्, we should have अधियन्, not अधीयन्. Malli's 'इयङादेशः' is therefore correct. It is true that according to some अधियन्तिis the 3rd Per. Plu. But to explain
 
-
-
 अधीयन् we must change इ to इय् and not य्. The point is discussed in the Siddhântakaumudî. “इण्वदिक इति वक्तव्यम्”। अधियन्ति। अध्यगात्। केचित्तु आर्धधातुकाधिकारोक्तस्यैवातिदेशमाहुः। तन्मते यण् न। तथा चभट्टिः। 'ससीतयोराघवयोरधीयन्निति। सिद्धा० कौ०. The second view seems to be better. The Sûtra "आर्धधातुके" २\।४\।३५॥ is an Adhikâra Sûtra up to "ण्यक्षत्रियार्षञितो यूनि लुगणिञो"२।४।५८॥. "इण्वदिक इति वक्तव्यम् " is a Vârtika on “इणो गा लुङि "२।४।५४॥ which is within the अधिकार, and the instances given in the Kâśikâ and the Bhâshya are all connected with आर्धधातुक or non-conjugational forms. "इणो गा लुङि” २।५।४५॥ 'इण्वदिकः॥ इण्वदिक इति वक्तव्यम्। इहापि यथा स्यात्। अध्यगात्। अध्यगाताम्। अध्यगुः॥ णौगमिरबोधने॥२।४।४६॥ इण्वदिक इत्येव। अधिगमयति। अधिगमयतः। अधिगमयन्ति॥ सनि च॥ २।४।४७॥ इण्वदिक इत्येव। अधिजिगमिषति। अधिजिगमिषतः। अधिजिगमिषन्ति'॥ भाष्य.
-
- 
 
 राघवयोरधीयन्.
 
 The genitive is to be explained by the Sûtra "अधीगर्थदयेशां कर्मणि” २।३।५२॥. Roots having the sense of अधीक् (स्मृ), दय्, and ईश् take the genitive of the object when the object is not desired to be so expressed. There is अनुवृत्ति of शेषे in the Sûtra, and so when it is intended to express the object as such, the accusative is used.'भातरं स्मरति', 'स्मरसि सुरसनीरांतत्र गोदावरीं वा' (उत्त०). 'शेषे इति वर्त्तते। शेषश्च कः। कर्मादीनामविवक्षा शेषः। यदा च कर्म विवक्षितं भवति तदा षष्ठी न भवति। तद्यथा। स्मराम्यहं मातरम्। स्मराम्यहं पितरमिति। भाष्य.
 
 Stanza 19—
-
- 
 
 विनाकृता
 
@@ -10185,10 +9082,7 @@ is the reading of Jaya also.
 
 means त्यक्ता.  
 
-
 Stanza 21—
-
- 
 
 कृताकृतेभ्यः क्षितिपालभाग्भ्यः
 
@@ -10204,16 +9098,12 @@ Stanza 21—
 
 Stanza 23—
 
- 
-
 तं बन्धुता न्यक्षिपदाशुतैले.
 
 This was to prevent putrefaction. We find a similar description in the Râmâyana and other purânas:—
 
 'तैलद्रोण्यां तदामात्याः संवेश्य जगतीपतिम्।  
 राज्ञः सर्वाण्यथादिष्टाश्चक्रुः कर्माण्यनन्तरम्॥' अयो० का० ६५.१४.
-
-
 
 'ततः पुरोहितस्तत्र वसिष्ठः सर्वधर्मवित्।  
 तैलद्रोण्यां विनिक्षिप्य मृतं राजकलेवरम्॥  
@@ -10225,15 +9115,11 @@ This was to prevent putrefaction. We find a similar description in the Râmâyan
 
 Stanza 25—
 
- 
-
 अशिश्रवन्नात्ययिकम्.
 
 Jaya. takes अशिश्रवन् आत्ययिकम्, not अशिश्रवन् न आत्ययिकं like Malli. He says 'पिता ते म्लानस्त्वां द्रष्टुमिच्छतीति आत्ययिकं वचनम्.'
 
 Stanza 27—
-
- 
 
 प्रविश्य
 
@@ -10251,8 +9137,6 @@ are both better readings than **प्रवेक्ष्यन्.** Jaya, ha
 
 , and वाद in D. means the same thing.
 
- 
-
 जन्य
 
 is either active or passive, जायते इति जन्यम् or जन्यते इति जन्यम्.Malli quotes. “भव्यगेयप्रवचनीयोपस्थानीयजन्याप्लाव्यापात्या वा" ३।४।६८॥. भव्य &c, are both active and passive. 'गेयो माणवकः साम्नाम्' or 'गेयानिमाणवकेन सामानि' &c. The word may also be formed according to the Vârtika 'तकिशसियतिजनीनामुपसंख्यानम्' Jaya. adopts the latter view. Malli, shews his own अरूचिof this view by using the wordकेचित्; perhaps because he thinks that when the word can be derived by the help of Pâṇini's Sûtras, it is not necessary to have recourse to the Vârtika. The Vârtika only teaches that यत् is the affix and not ण्यत् in जन्य. 'जनेर्यद्विधिः स्वरार्थः। ण्यतापि रूपसिद्धेः। न च वृद्धिप्रसंगः। "जनिवध्योश्च" (७।३।३५॥) इति निषेधात्।' सिद्धा० कौ०. The Com. omitsनोपलेभे. It breaks abruptly.
@@ -10265,8 +9149,6 @@ Stanza 28—
 
 is formed by affixing त्यक् (त्य) to the adverbअमा which means सह. अमा सह भवति राज्ञा इति अमात्यः. The same adverb is found in अमावास्या. अमा सह वसतः सूर्याचन्द्रमसौ यस्यां तिथौ साअमावास्या; because the Sun and the Moon are in conjunction on that
 
-
-
 day. विवृद्धमन्युप्लतिपूर्णमन्याः*cf.* ‘स्वजनस्य हि दुःखमग्रतो विवृतद्वारमिवोपजायते’कुमा० ४.२६. and also ‘सन्तानवाहीन्यपि मानुषाणां दुःखानि सद्बन्धुवियोगजानि। दृष्टे जने प्रेयसि दुःसहानि स्रोतःसहस्रैरिव संप्लवन्ते॥’ उत्तर० ४.
 
 Stanza 30—
@@ -10277,19 +9159,13 @@ Stanza 30—
 
 Stanza 31—
 
- 
-
 शोच्या वयम्.
 
 शङ्क्या वयम् is noticed by Jaya. ‘शङ्क्या इति पाठान्तरम्। शङ्कनीया वयम्। एतत्कृतोऽयं प्रयोग इति।’ जय०.
 
- 
-
 केकय्युपज्ञम्.
 
 The तत्पुरुष compound ending in उपज्ञा and उपक्रम is neuter, provided what is being known and what is being begun is intended to be expressed as first. ‘पाणिन्युपज्ञं ग्रन्थः’ means पाणिनिना प्रथममुपज्ञातः, ‘पाणिन्युपज्ञमाकालापकं व्याकरणम्’ = ‘पाणिनेरुपज्ञानेन प्रथमतः प्रणीतमाकालापकं व्याकरणम्’ ‘नन्दोपक्रमाणि मानानि’ = नन्दैः प्रथममुपक्रान्तानि. ‘नन्दोपक्रमं द्रोणः,’ ‘दर्शनीयोपक्रमं सुकुमारम्.’ ‘लोकेऽभूद्यदुपज्ञमेव महतां सौजन्यजन्यं यशः’Malli. But if what is known or begun is not intended to be expressed as first, the rule does not apply; *e. g.* ‘देवदत्तोपज्ञो रथः’‘यज्ञदत्तोपक्रमो रथः’.
-
- 
 
 ‘केकय्युपज्ञं बत बह्वनर्थम्’
 
@@ -10297,13 +9173,9 @@ The तत्पुरुष compound ending in उपज्ञा and उपक
 
 Stanza 32—
 
- 
-
 उद्वाश्यमानः,
 
 The reading of some Mss. is उद्वास्यमानः Dhâtupâtha gives वाशृशब्दे.Amara also gives ‘तिरश्चां वाशितं रुतम्’. But the root वास् is found in Raghu:. ‘तां श्रिताः प्रतिभयं ववासिरे’ रघु० ११. ६१. Medinî gives ‘बासितं भाविते रुते.’
-
- 
 
 रोरुदा
 
@@ -10311,19 +9183,13 @@ is a Fem. noun formed from the Freq. base of रुद् (रोरुद्य
 
 Stanza 33—
 
- 
-
 सचिवाः
 
 ‘कार्येषु सचन्ते समवयन्तीति’ ‘सचेरिवन्' इत्यौणादिक इवन्।’ जय०
 
- 
-
 चिचीषयन्तोऽध्वरपात्रजातम्
 
 = causing him to desire to place different sacrificial pots in different parts of the body. See St, 35 ‘संचित्य पात्राणि यथाविधानम्’.
-
-
 
 **Stanza 34—**
 
@@ -10341,21 +9207,15 @@ Stanza 33—
 
 Âśva, says:— ‘तस्मिन् (meaning चिता) बर्हिरास्तीर्य कृष्णाजिनं चोत्तरलोम तस्मिन्प्रेतं संवेशयन्त्युत्तरेण गार्हपत्यं हृत्वाहवनीयमभिमुखशिरसम्’.
 
- 
-
 **श्रोत्राक्षि०**.
 
 ‘छिद्राणि शीर्षकस्थानि सप्त प्रेतस्य सांप्रतम्। हिरण्यशकलैरास्यप्रभृतीन्यपिधाय च॥’ आश्व० गृ० का ०.
-
- 
 
 संचित्य पात्राणि.
 
 Âśva thus mentions the position of sacrificial utensils:— ‘अथैतानि पात्राणि योजयेत्। दक्षिणे हस्ते जुहूम्। सव्य उपभृतम्। दक्षिणे पार्श्वे स्फयं सव्येऽग्निहोत्रहवणीम्। उरसि ध्रुवां शिरसि कपालानि दत्सु ग्राव्णः। नासिकयोः स्रुवौ। कर्णयोः प्राशित्रहरणे। उदरे पात्रीम्। समवत्तधानं च चमसम्। उपस्थे शम्याम्। अरणीमूर्वोः उलूखलमुसले जङ्घयोः। पादयोः शूर्पे॥’
 
 Stanza 37—
-
- 
 
 जनैरपन्थानमुपेत्य सृप्तैः.
 
@@ -10371,37 +9231,25 @@ Stanza 40—
 
 Stanza 41—
 
- 
-
 पद्गाः.
 
 The commentator's explanation of पाद् being changed to पद्by the Sûtra“पादस्य पदाज्यातिगोपहतेषु” ६।३।५२॥ does not seem to be correct. This Sûtra sanctions the change of पाद् to पद् and not पद्. पद् must be taken as अकारान्त in this Sûtra as पद् is mentioned in the next Sûtra “पद्यत्यतदर्थे” ६।३।५३॥ Jaya's explanation seems better. “हिमकाषिहतिषु च” इति चकारस्यानुक्तसमुच्चयार्थत्वात् गमोत्तरपदे पदादेशः। ‘पदिति योगविभागाद्वा’।.
-
- 
 
 स्थण्डिलशायिनः.
 
 स्थण्डिल n. is ground sanctified for sacrifice‘यज्ञार्थं संस्कृतः भूभागः’, and स्थण्डिलशायिन् or स्थाण्डिल is one who sleeps
 
-
-
 on bare sacrificial ground to keep a vow. 'यः स्थण्डिले व्रतवशाच्छेते स्थण्डिलशाय्यसौ। स्थाण्डिलश्च—' अम०.
 
 Stanza 42—
-
- 
 
 परिनिर्विवप्सोः.
 
 'निर्वप्तुमिच्छोर्दातुमिच्छोरित्यर्थः। निपूर्वोवपिर्दाने वर्त्तते'। जय०.
 
- 
-
 योगबलेन फेलुः.
 
 c*f*. 'तमृषिः पूजयामास कुमारं क्लान्तवाहनम्। तपःप्रभावसिद्धाभिर्विशेषप्रतिपत्तिभिः॥'रघु० १५. १२.
-
- 
 
 धामप्रथिम्नः.
 
@@ -10409,13 +9257,9 @@ Jaya. takes the compound as a व्यधिकरणबहुव्रीह�
 
 Stanza 43—
 
- 
-
 तिलोत्तमाद्याः.
 
 तिलोत्तमा is the name of an Apsaras. 'घृताची मेनका रम्भा उर्वशी च तिलोत्तमा। सुकेशी मञ्जुघोषाद्याः कथ्यन्तेऽप्सरसो बुधैः'॥.
-
- 
 
 सहावम्.
 
@@ -10429,8 +9273,6 @@ to be equal to तस्मिंस्तपोवने.
 
 Stanza 44—
 
- 
-
 रुचिसंप्रक्लृप्तम्.
 
 'यस्य यावदभिरुचितं तत्तथैव संपादितम्'। जय०.
@@ -10439,13 +9281,9 @@ Stanza 44—
 
 Stanza 45—
 
- 
-
 समध्वाः.
 
 At the end of a compound अध्वन् is changed to अध्व when it is preceded by a preposition: *e.g.* 'प्रगतोऽध्वानं प्राध्वो रथः। प्राध्वं शकटम्। निरध्वम्। प्रत्यध्वम्।'. The change does not take place when the first member of the compound is not a preposition. *e.g.* 'परमाध्वा। उत्तमाध्वा।'
-
- 
 
 रथवाजिनागैः.
 
@@ -10459,8 +9297,6 @@ a river near चित्रकूट.
 अयं गिरिश्चित्रकूटस्तथा मन्दाकिनी नदी।  
 एतत्प्रकाशते दूरान्नीलमेघनिभं वनम्॥ रामा० अयो० का० ९३.७-८.**
 
-
-
 In Raghu, also the river is described in the same position:—
 
 **'एषा प्रसन्नस्तिमितप्रवाहा सरिद्विदूरान्तरभावतन्वी।  
@@ -10472,13 +9308,9 @@ In Raghu, also the river is described in the same position:—
 
 Stanza 47—
 
- 
-
 ऊर्णवानान.
 
 the reading of E₂ is incorrect. Only those weak terminations that take the augment इ are optionally weak in the case of ऊर्णु not all.
-
- 
 
 अक्षिभ्रुवम्.
 
@@ -10490,21 +9322,15 @@ Stanza 48—
 
 Stanza 49—
 
- 
-
 उच्चैःकारम्.
 
 क्त्वा (त्वा) and णमुल् (अम्) are added to the root कृwhen it is compounded with an adverb and when the compound conveys the sense that what is mentioned, is not mentioned as desired, that is, what ought to have been mentioned loudly, is mentioned slowly and vice versa *e. g*. 'ब्राह्मण पुत्रस्ते जातः। किं तर्हि वृषल नीचैःकृत्याचक्षे।नीचैः कृत्वा। नीचैःकारम्। उच्चैर्नाम प्रियमाख्येयम्। ब्राह्मण कन्या ते गर्भिणी। किं तर्हि वृषलोच्चैःकृत्याचक्षे। उच्चैः कृत्वा। उच्चैःकारम्। नीचैर्नामाप्रियमाख्येयम्।' काशि०.
 
 Stanza 50—
 
- 
-
 राघवलक्ष्मणाभ्याम्.
 
 राघव and लक्ष्मण have various senses. 'राघवोऽब्धेर्महामीनभेदे च रघुवंशजे' (मेदि०), also 'राघवोऽब्धिझषान्तरे रघुजेऽपि' अनेका०.of हेम०. 'लक्ष्मणा त्वौषधिभेदे सारस्यामपि योषिति। रामभ्रातरि पुंसि स्यात् सश्रीके चाभिधेयवत्॥' (मेदि०). 'लक्ष्मणश्चैव सारसः।' अमरमाला. When a word has more than one sense, the particular sense in which it is to be taken is settled by संयोग, विप्रयोग, साहचर्य &c, which are mentioned in the following verses:—
-
-
 
 **'संयोगो विप्रयोगश्च साहचर्यं विरोधिता।  
 अर्थः प्रकरणं लिङ्गं शब्दस्यान्यस्य संनिधिः॥  
@@ -10513,13 +9339,9 @@ Stanza 50—
 
  Thus in रामलक्ष्मणौ 'लक्ष्मणसाहचर्याद्रामो न भार्गवादिः रामसाहचर्याच्च लक्ष्मणोन सारसः।'
 
- 
-
 मध्येजलात्.
 
 When पार and मध्य stand as first members of an अव्ययीभावcompound, they are changed to पारे and मध्ये. We have मध्येजलम् or मध्येजलात्, पारसमुद्रम् or पारेसमुद्रात्.
-
- 
 
 गोत्राभिधायम्.
 
@@ -10527,21 +9349,15 @@ This is formed by adding णमुल् to अभिधा. णमुल् is 
 
 Stanza 52—
 
- 
-
 कृती श्रुती वृद्धमतेषु
 
 कृतिन् and श्रुतिन् are formed by affixing इन्which has a possessive sense to कृत and श्रुत. "इष्टादिभ्यश्च" ५।२।८८॥ sanctions this termination. इष्टमनेन इष्टी। अधीती। श्रुती। गृहीती। आम्नाती।. The objects of these participles are used in the locative case. इष्टी यज्ञे। पूर्त्तीश्राद्धे॥. It should be noted, however, that though निराकृत, उपकृत, andउपाकृत are mentioned in the group of इष्टादि, कृत is not found there and the group is not an आकृतिगण.
 
 ————
 
-
-
 CANTO IV.
 
 Stanza 1—
-
- 
 
 दण्डकारण्यम्.
 
@@ -10551,25 +9367,17 @@ Stanza 1—
 
 Stanza 2—
 
- 
-
 अटाट्यमानः.
 
 यङ् (य) is added to a root beginning with a consonant and having one vowel to form its Freq. base. "धातोरेकाचो हलादेः क्रियासमभिहारे यङ्" ३।१।२२॥. The Freq. is not thus formed from a root beginning with a vowel like ईक्ष् or from a root having more than one vowel likeजागृ. To this Sûtra there is a Vârtika "सूचिसूत्रि—" which shews that यङ्is to be added to सूच्, सूत्र, मूत्र (roots of the 10th conj. are to be considered अनेकाच्), अट्, ऋ, अश्, and ऊर्णु. *e.g.* सोसूच्यते। सोसूच्यते।मोमूत्र्यते। (In the Freq. the vowel of the reduplicative syllable takes Guṇa.
 
-
-
 "गुणोयङ्लुकोः" ७।४।८२), अटाट्यते (the vowel अ of the reduplicative syllable is lengthened in the Freq. "दीर्घोऽकितः" ७।४।८३॥), अरार्थते (ऋ and roots ending in ऋ preceded by a conjunct consonant take their Guṇa in the Freq. "यङि च" ७।४।३०॥) अशाश्यते। ऊर्णोनूयते।.
-
- 
 
 अरण्यानी.
 
 Fem. from अरण्य in the sense of 'a great forest'. 'महद्धिमं हिमानी। महदरण्यमरण्यानी।'.
 
 Stanza 4—
-
- 
 
 रघुव्याघ्रौ.
 
@@ -10586,19 +9394,13 @@ The question is— how is रघु to be taken in the sense of राघव? Th
 
 Stanza 8—
 
- 
-
 वासतेय.
 
 To पथिन्, अतिथि, वसति, and स्वपति, ढञ् (एय) is added in the sense of 'तत्र साधुः' पथि साधु पाथेयम्। आतिथेयम्। वासतेयम्।. Also वसतौ साधुः वासतेयी रात्रिः। स्वापतेयम् (धनम्).
 
- 
-
 शय्योत्थायम्.
 
 This is णमुल् affixed to उद्+स्था according to the Sûtra
-
-
 
 "अपादाने परीप्सायाम्" ३।४।५२॥ णमुल् is affixed to a root in the sense of'hurry', when the उपपद is in the ablative case. शय्योत्थायम् means'शय्याया उत्थाय। एवं नाम त्वरते यदवश्यं कर्त्तव्यमपि नापेक्षते। शय्योत्थानमात्रमाद्रियते।' काशि०. Jaya, says:—'त्वरया मुखधावनादीन्यपि न कृत्वा.' Other instances of this sort are' रन्ध्रापकर्षं पयः पिबति। भ्राष्ट्रापकर्षमपूपान्भक्षयति।'
 
@@ -10606,33 +9408,23 @@ This is णमुल् affixed to उद्+स्था according to the Sûtr
 
 Stanza 9—
 
- 
-
 ऋग्यजुषम्.
 
 The compound comes under अचतुरादि. *Vide* note on C. III. St. 47.
-
- 
 
 सामन्यान्.
 
 सामसु साधवः सामन्याः सामाध्येतारः.
 
- 
-
 शूल्यम्.
 
 शूलं लोहशलाका तस्मिन् संस्कृतं शूल्यम्.‘roasted on an iron-spit'लोहशलाकया मांसं संग्रथ्ययत्पच्यते तच्छूल्यमांसम्' राघ०.
-
- 
 
 उख्यम्
 
 = ‘Dressed in a pot’ उखा is पिठर or स्थाली. 'स्थालं भाजनभेदेऽपिस्थाली स्यात्पाटलोखयोः' मेदि०.
 
 Stanza 10—
-
- 
 
 सर्वाङ्गीणे.
 
@@ -10644,8 +9436,6 @@ is to be supplied here from the preceding Sûtra "रषाभ्यां न�
 
  'तत्वं च निमित्तानधिकरणनिमित्तिमत्पदाघटितत्वम्। तेन मातृभोगीण इत्यत्र णत्वसिद्धिः। केवलभोगीनेत्यस्य प्रत्ययमात्रस्य वा तत्त्वाभावात्। अत एव "आत्मन्विश्वजन–" इति सूत्रस्थमाचार्यादणत्वं चेति वार्त्तिकं चरितार्थम्। सुपर्वणेत्यादिसिद्धयेनिमित्तानाधिकरणेति। पदं चात्र लोके विभक्तीतरानपेक्षतयार्थबोधकत्वेन दृष्टम्। तेन
 
-
-
 गन्धर्वगानमित्यादौ सुबुत्पत्तेः प्राक् समासेऽपि णत्वं न। क्षुभ्रादिषु नृनमनशब्दस्तु संज्ञाभूतोऽखण्ड इति तस्य ऋवर्णात्परस्य णत्वे ज्ञापकता भाष्योक्ता नासङ्गता।'.
 
  Thus समान is explained as अखण्ड and by अखण्ड we have to understand that the निमित्तिमत्, that is न्, should not be in a *pada* in which निमित्त, that is ॠ, र्, or,ष् is not found. In सर्वाङ्गीण, न् can not be said to be in the *pada* अङ्गीन, for अङ्गीन is not a *pada*, सर्वाङ्गis a *pada* orसर्वाङ्गीन is a *pada*, but अङ्गीन alone or the affix ईन is no*pada*; for it should be remembered that ख (ईन) is added to सर्वादि, that is, here to सर्वाङ्गand not अङ्ग by the Sûtra "तत्सर्वादेःपथ्यङ्गकर्मपत्रपात्रं व्याप्नोति" ५।२।७॥.Thusसर्वाङ्गीण being one *pada* we have र् and न् in the same *pada*. The readingसर्वाङ्गीने is therefore ungrammatical. Though Jaya. has adopted सर्वाङ्गीने, still he himself has सर्वभोगीणमुत्तमम्' C. VI. St 98, where he says:—"अट्कुप्वाङित्यादिना णत्वम्.”
@@ -10655,8 +9445,6 @@ is to be supplied here from the preceding Sûtra "रषाभ्यां न�
  'पूर्वपदात्संज्ञायामुत्तरपदग्रहणम्। पूर्वपदात्संज्ञायामुत्तरपदग्रहणं कर्त्तव्यम्। किं प्रयोजनम्। तद्धितपूर्वपदस्याप्रतिषेधार्थम्। तद्धितस्थस्य पूर्वपदस्थस्य च प्रतिषेधो मा भूत्। खारपायणः। करणप्रियः। तत्तर्हि वक्तव्यम्। न वक्तव्यम्। पूर्वपदमुत्तरपदमिति संबन्धिशब्दावेतौ। सति पूर्वपदे उत्तरपदं भवति। सति चोत्तरपदे पूर्वपदं भवति। तत्र संबन्धादेतदवगन्तव्यं यत्प्रति पूर्वपदमित्येतद्भवति तत्स्थस्य नियम इति। किं च प्रत्येतद्भवति। उत्तरपदं प्रति। संज्ञायां नियमवचनेऽगप्रतिषेधान्नियमप्रतिषेधः। संज्ञायां नियमवचनेऽगप्रतिषेधान्नियमस्यायं प्रतिषेधो विज्ञायते। अग इति। तत्र को दोषः। तत्र नित्यं णत्वप्रसंगः। तत्र पूर्वेण संज्ञायां चासंज्ञायां च नित्यं णत्वं प्राप्नोति। योगविभागात्सिद्धम्। योगविभागः करिष्यते। पूर्वपदात्संज्ञायाम्। तत अगः। गान्तात्पूर्वपदाद्या च यावती च णत्वप्राप्तिस्तस्याः सर्वस्याः प्रतिषेधः। अप्रतिषेधो वा। यथा सर्वनामसंज्ञायाम्। उक्तं च सर्वनामसंज्ञायाम्। निपातनाण्णत्वाभावः। यथा पुनस्तत्र निपातनं क्रियते सर्वादीनि सर्वनामानीति। इहेदानीं किं निपातनम्। इहापि निपातनमस्ति। किम्। अणूगयनादिभ्य इति। नैव वा पुनरत्रणत्वं प्राप्नोति। किं कारणम्। समानपद इत्युच्यते। न चैतत्समानपदम्। समासे कृते समानपदम्। समानपदमेव यन्नित्यं न चैतन्नित्यं समानपदमेव। किं वक्तव्यमेतत्। न हि। कथमनुच्यमानं गंस्यते। समानग्रहणसामर्थ्यात्। यदि हि यत्समानं चासमानं च तत्र स्यात् समानग्रहणमनर्थकं स्यात्'।.
 
  On this Kaiyata's remarks are:—
-
- 
 
 तद्धितेति।
 
@@ -10669,8 +9457,6 @@ is to be supplied here from the preceding Sûtra "रषाभ्यां न�
 **संबन्धिशब्दाविति।**
 
 पूर्वपदावयवो
-
-
 
 रेफःषकारश्चपूर्वपदशब्देनोच्यते समुदायेषु हि वृत्ताः शब्दा अवयवेष्वपि वर्त्तन्ते। पूर्वपदत्वं चोत्तरपदापेक्षमिति तद्धितपूर्वपदस्थस्य णत्वं भवत्येव।
 
@@ -10686,19 +9472,13 @@ is to be supplied here from the preceding Sûtra "रषाभ्यां न�
 
 Stanza 11—
 
- 
-
 आशितङ्गवीनानि.
 
 The Sûtra which explains the formation of it is"अषडक्षाशितङ्ग्वलंकर्मालंपुरुषाध्युत्तरपदात्खः" ५।४।७॥ The terminationख (ईन) is added to अषडक्ष, आशितङ्गु, अलंकर्म, अलंपुरुष, and a word having अधि as its second member. This termination has no special meaning. It is merely स्वार्थवाचक. अविद्यमानानि षडक्षीण्यस्येत्यषडक्षःअषडक्ष एव अषडक्षीणो मन्त्रः (यो द्वाभ्यामेव क्रियते न बहुभिः) आशिताः meansआशितवत्यः. It is to be taken actively, as पीत in the sense of पीतवात् inपीतप्रतिबद्धवत्सा, and पीता गावः, and भुक्त in the sense of भुक्तवत् inभुक्ताः ब्राह्मणाः Bha. Dî, says:— 'अश्नातेराङ्पूर्वात् "आशितः कर्त्ता" इति ज्ञापकात् कर्त्तरि क्तः ण्यन्तात् कर्मणि वा उभयथापि प्रभूतयवसमिति फलितोऽर्थः'। मनो०.आशितः is used like विदितः in 'स वर्णिलिङ्गी विदितः समाययौ ' किरा० १. १ . There Malli. says:—
 
  'विदितं वेदनमस्यास्तीति विदितः। परवृत्तान्तज्ञानवानित्यर्थः।"अर्शआदिभ्योऽच्"इत्यच्प्रत्ययः। अथवा कर्त्तरि कर्मधर्मोपचाराद्विदितवृत्तान्तो विदित इत्युच्यते। उभयत्रापि "पीता गावः" "भुक्ता ब्राह्मणाः" "विभक्ता भ्रातरः" इत्यादिवत् साधुत्वम्। न तु कर्त्तरि क्तः। सकर्मकेभ्यस्तस्य विधानाभावात्। अत एव भाष्यकारः— "अकारो मत्वर्थीयः। विभक्तमेषामस्तीति विभक्ताः। पीतमेषामस्तीतिपीताः। भुक्तमेषामस्तीति भुक्ताः" इति सर्वत्र। अथवोत्तरपदलोपोऽत्र द्रष्टव्यः। विभक्तधनाः विभक्ताः पीतोदकाः पीता भुक्तान्ना भुक्ताः" इति। अत्रलोपशब्दार्थमाह कैयटः— "गम्यार्थस्य प्रयोग एव लोपोऽभिमतः। विभक्ता भ्रातरः इत्यत्र च धनस्य यद्विभक्तत्वं तद्भातृषूपचर्यते। पीता गाव इत्यत्राप्युदकस्य पीतत्वं गोष्वारोप्यते। भुक्ता ब्राह्मणा इत्यत्रान्नस्य भुक्तत्वं ब्राह्मणेषूपचर्यते" इति। तद्वदत्रापि वृत्तिगतं विदितत्वं वेदितरि वनेचर उपचर्यते।
 
-
-
 एतेन "वनाथ पीतप्रतिबद्धवत्साम्" इति "पातुं न प्रथमं व्यवस्यति जलं युष्मास्वपीतेषु" एवमादयो व्याख्याताः। अथवा विदितो विदितवान्। सकर्मकादप्यविवक्षिते कर्मणि कर्त्तरि क्तः। "आशितः कर्त्ता" इत्यादौ। यथाहुः— "धातोरर्थान्तरे वृत्तेर्धात्वर्थेनोपसंग्रहात्। प्रसिद्धेरविवक्षातः कर्मणोऽकर्मिका क्रिया" इति॥'. This Com. gives all possible explanations. आशिता गावः अस्मिन्नित्याशितङ्गवीनमरण्यम्. The augment म्is to be added to the first member of the compound, as the word is used with the augment in the Sûtra (निपातनात्पूर्वपदस्य मुमागमः). अलं कर्मणे अलंकर्मीणः, अलं पुरुषाय अलंपुरुषीणः, राजाधीनः. आशितङ्गवीनानि means 'in which cows have fully satisfied their hunger.'
-
- 
 
 आशितम्भवम्.
 
@@ -10719,13 +9499,9 @@ To the root भू, with आशित as its *upapada* changed to आशित�
 
 Stanza 12—
 
- 
-
 व्रातीन.
 
 'व्रातेन शरीरायासेन जीवति न तु बुद्धिवैभवेन स व्रातीनः'.सिद्धा० कौ०. The explanation given by the Com. is from Kâśikâ.उत्सेध means 'body.' 'उत्सेधः शरीरं तदायासेन जीवन्तीति उत्सेधजीविनः' काशि०.
-
- 
 
 पर्षद्वलान्.
 
@@ -10735,11 +9511,7 @@ On the Sûtra "रजः कृषि..." Bha. Dî says:— 'पर्षदि�
 
 'शृृदृृभसोऽदिः' इत्यादिप्रत्ययो बाहुलकात् पृषेरपि भवति। तथा च भाष्यं पार्षदकृतिरेषा तत्रभवतां सर्ववेदपार्षदं हीदं शास्त्रमिति च प्रयुञ्जते च पर्षदेषा दशावरेति। पर्षद्वलान् महाब्रह्मैराट नैकटिकाश्रमानिति भट्टिः। समज्या परिषत् पर्षदिति चन्द्रकोशः।"Yâjṅyavalkya defines पर्षद् as 'चत्वारो वेदधर्मज्ञाः पर्षत्त्रैविद्यमेव वा'।.
 
-
-
 Stanza 14—
-
- 
 
 आतिष्ठद्गु
 
@@ -10757,13 +9529,9 @@ are irregular Avyayîbhâva compounds. They are classed under a group beginning 
 
 Stanza 15—
 
-
-
 भार्योढम्.
 
 The compound is either ऊढभार्यम् or भार्योढम्. It comes under the group beginning with आहिताग्नि. आहिताग्नि, जातपुत्र, जातदन्त,जातश्मश्रु, तैलपीत, घृतपीत, ऊढभार्य, and गतार्थ constitute the group. The group is an आकृतिगण.
-
- 
 
 असकौ.
 
@@ -10771,23 +9539,15 @@ The form is either असकौ or असुकः (Fem, असुका) 'अ�
 
 Stanza 16—
 
- 
-
 वलिभम्.
 
 वलि comes under पामादि also, and so it has also न (& possessive affix like भ) affixed to it by “लोमादिपामादिपिच्छादिभ्यः शनेलचः" ५।२।१००॥. We have thus वलिभ and वलिन, both meaning 'having folds.' We have वलिभया उदरश्रिया' in माघ ६।१३.
-
- 
 
 कर्णजाह.
 
 कुणब (कुण) and जाहच् (जाह) are added to the groups beginning with पीलु and कर्ण respectively in the sense of तस्य पाकः andतस्य मूलम् respectively. पीलूनां पाकः पीलुकुणः. कर्णस्य मूलं कर्णजाहम्. कर्णजाहis found in the Mâla Act V. 'अपि कर्णजाहविनिवेशिताननः प्रिययातदङ्कपरिवर्त्तमाप्नुयाम्॥'. We have similarly मुखजाहम्। अक्षिजाहम्।गुल्फजाहम्।.
 
-
-
 Stanza 17—
-
- 
 
 सुपाद्.
 
@@ -10801,13 +9561,9 @@ The Fem. is either सुपाद् or सुपदी like द्विपा
 
 Stanza 18—
 
- 
-
 शुद्धदत्.
 
 दन्त is optionally changed to दत् at the end of a Bahuvrîhi compound, when preceded by अग्र, अन्त, शुद्ध, शुभ्र, वृष, and वराह("अग्रान्तशुद्धशुभ्रवृषवराहेभ्यश्च" ५।४।१४५॥). The reading शुक्लदत् adopted by T₃ may be explained by taking च to include those words that are not mentioned in the Sûtra, 'अनुक्तसमुच्चयार्थश्चकारः। अहिदन्। अहिदन्तः।' काशि०.
-
- 
 
 शंयु.
 
@@ -10815,21 +9571,15 @@ Stanza 18—
 
 Stanza 19—
 
- 
-
 चञ्चूर्यमाणा
 
 . The Freq. is formed from लुप्, सद्, चर्, जप्, जभ्, दह्, दश्. and गृृ in the sense of भावगर्हा, that is, censurableness of the actions denoted by the roots चर् and फल् have नुक् (Anusvâra) added after the reduplicative syllable. The अ of these roots is changed to उ. The penultimate इ and उ of roots ending in र् and व् is lengthened when followed by a consonant. नुक् or Anusvâra is to be considered as if it were at the end of a *Pada*. 'नुगित्यनेनानुस्वारो लक्ष्यते। स च पदान्तवद्वाच्यः।.' Thus the forms from चर् and फल् are चञ्चूर्यते, and चंचूर्यते, पम्फुल्यते and पम्फुल्यते andपंफुल्यते.
 
 Stanza 20—
 
- 
-
 सहचरी.
 
 Bha. Dî. forms the word in the same way as Malli.'कथम् 'प्रेक्ष्य स्थितां सहचरीम्" इति। पचादिषु चरडिति पाठात्' सिद्धा० कौ०.
-
-
 
  
 
@@ -10839,19 +9589,13 @@ It comes under अचतुरादि. So does स्त्रीपुंस�
 
 Stanza 21—
 
- 
-
 असूर्यंपश्यरूपा.
 
 In the compound असूर्यंपश्य, अis connected with दृश्and not with सूर्य, though placed before it. The compound is thereforeअसमर्थ, but it is allowed because it conveys the sense, is गमक. 'असूर्यइति चासमर्थसमासोऽयम्। दशिना नञः संबन्धात्। सूर्यं न पश्यन्तीति। गुप्तिपरं चैतत्। एवं नाम गुप्ता यदपरिहार्यदर्शनं सूर्यमपि न पश्यन्तीति।' काशि०. 'असूर्यंपश्या राजदाराः'means 'the king's wife confines herself in the harem, does not even see the Sun.'. What is intended to be expressed is secrecy. 'गुप्तिपरं चेदं यदपरिहार्यदर्शनं सूर्यमपि न पश्यन्ति। दैवात् सूर्यदर्शनेऽपि प्रयोगो भवत्येव। यदा तु सूर्यदर्शनाभावमात्रं सूर्येतरचन्द्रादेर्वादर्शनं विवक्षितं तदा न खश् भवति अनभिधानात्।' मनो०,
 
- 
-
 गौष्ठीने
 
 — Where there was formerly a cow-pen.
-
- 
 
 भीषण.
 
@@ -10859,15 +9603,11 @@ According to Malli. it is formed by affixing त्यु(अन) to the causal 
 
 Stanza 23—
 
- 
-
 शालीन.
 
 शालाप्रवेशमर्हतीति शालीनोऽधृष्टः, modest, bashful.
 
 Stanza 25—
-
- 
 
 चान्दनिक
 
@@ -10879,13 +9619,9 @@ are formed by affixing ठञ् (इक) toचन्दन and कर्णव�
 
 Stanza 27—
 
- 
-
 दारगवाणाम्.
 
 By the Sûtra "कुमति च" ८।४।१३॥न् must be necessarily changed to ण् in दारगवाणाम्. The Sûtra teaches that if the उत्तर-
-
-
 
 पद (latter member) of a compound has a letter of the gutteral class, then the न्coming at the end of the प्रातिपदिक (crude form of the word) or in नुम् (nom., ac., and voc. plu. ter. नि) or in any case termination is changed to ण् necessarily, provided the पूर्वपद(first member) of the compound has ॠ, र्, or ष् *e.g.* वस्त्रयुगिणौ। वस्त्रयुगिणः। स्वर्गकामिणौ। वृषगामिणौ।. In all these we have न् at the end of a प्रातिपदिक. In वस्त्रयुगाणि। खरयुगाणि। we have न् in नुम्. In वस्त्रयुगेण। खरयुगेण। there is न् in विभक्ति. The Sûtra "एकाजुत्तरपदे णः" ८।४।१२॥ that precedes "कुमति च" shews that the rules are now no longer optional. 'ण इति वर्त्तमाने पुनर्णग्रहणं विकल्पाधिकारनिवृत्तेर्विस्पष्टीकरणार्थम्।' काशि०. Thus the Sûtra "कुमति च" is नित्यणत्वविधायक. It is difficult therefore to explain दारगवानाम् adopted by Jaya, and some of the Mss. But we have instances of the departure of the Sûtra "कुमति च" in 'व्यतिरेकमुखेन', used by commentators on poeties, and 'कर्मयोगेन योगिनाम्' (Gitâ.) These can only be explained, we believe, by putting them under क्षुभ्नादि which is an आकृतिगण. 'अविहितलक्षणो णत्वप्रतिषेधः क्षुम्नादिषु द्रष्टव्यः।' काशि०. Commenting on the following passage from Manoramâ'न वा चित्रगुशब्दाच्चित्रगवीणां समीपवर्ती वृक्षादिः प्रतीयते' Śabdaratnakâra says:—
 
@@ -10895,13 +9631,9 @@ By the Sûtra "कुमति च" ८।४।१३॥न् must be necessar
 
 Stanza 30—
 
- 
-
 वृषस्यन्ती.
 
 *cf.* 'इति रामो वृषस्यन्तीं वृषस्कन्धः शशास ताम्' रघु० १२.३४. There Malli. says:— 'वृषः पुमान्'। "वृषः स्याद्वासवे धर्मे सौरभेये च शुक्रले। पुंराशिभेदयोः शृङ्ग्यां मूषकश्रेष्ठयोरपि"॥ इति विश्वः। वृषं पुरुषमात्मार्थमिच्छतीति' वृषस्यन्ती कामुकी। 'वृषस्यन्ती च कामुकी इत्यमरः।'
-
- 
 
 महोक्षम्.
 
@@ -10909,13 +9641,9 @@ Stanza 30—
 
 Stanza 31—
 
- 
-
 सासद्यमानायाः
 
 = sitting with a censurable or vicious object. Freq. Pres. Par. of सद्. *Vide* note on St. 19.
-
- 
 
 लोलूयावान्.
 
@@ -10923,21 +9651,15 @@ Stanza 31—
 
 is a noun formed from the Freq. base likeरोरुदाin रोरुदावान्, C. 3. St. 32. The Freq. bases of रुद् and लू are रोरुद्यand लोलूय. To the base अ is affixed to form a noun "अ प्रत्ययात्"३।३।१०२॥. To this टाप् (आ) is added to form the Fem. "अजाद्यतष्टाप्४।१।४॥. We have thus लोलूया. In the case of रोरुद्य, य is dropped before the termination अ. "अतो लोपः" ६।४।४८॥ teaches that the Ârdhadhâtuka
 
-
-
 (non-conjugational) अ is dropped before an Ârdhadhâtuka affix. Theअ of the Freq. य as well as the affix अ is आर्धधातुक. The अ of रोरुद्यbeing thus dropped, we have रोरुद्य् + अ. Further the य् of रोरुद्य् is dropped by "यस्य हलः" ६।४।४९॥ which means that the य् preceded by a consonant is dropped when followed by an आर्धधातुक termination.
 
 Stanza 32—
-
- 
 
 क्षेत्रियः.
 
 The word is thus explained in the Kâśikâ with its different meanings:— 'परक्षेत्रे चिकित्स्यः क्षेत्रियो व्याधिः। क्षेत्रियं कुष्ठम्। परक्षेत्रं जन्मान्तरशरीरम्। तत्र चिकित्स्यः क्षेत्रियः। असाध्योऽप्रत्याख्येयो व्याधिरुच्यते। नामृतस्य निवर्त्तत इत्यर्थः। अथवा क्षेत्रियं विषम्। यत्परक्षेत्रे परशरीरे संक्रमय्य चिकित्स्यते। अथवा क्षेत्रियाणि तृणानि। यानि सस्यार्थे क्षेत्रे जातानि चिकित्स्यानि नाशयितव्यानि। अथवा क्षेत्रियः पारदारिकः। परदाराः परक्षेत्रं तत्र चिकित्स्यः निगृहीतव्यः। सर्वं चैतत्प्रमाणम्॥' 'क्षेत्रियं क्षेत्रजतृणे परदेहचिकित्सयोः। परदाररतासाध्यरोगयोः क्षेत्रियः पुमान्॥' मेदि०.
 
 Stanza 35—
-
- 
 
 सोभागिनेय
 
@@ -10949,13 +9671,9 @@ are formed from सुभगा and दुर्भगा.इनङ् (इन�
 
 Stanza 37—
 
- 
-
 अनुप्त्रिम॰.
 
 वापेन निर्वृत्तानि उप्त्रिमाणि. The compound means वन्यफलाहारौ न शालिभोजनौ.
-
- 
 
 असंस्कृत्रिम॰.
 
@@ -10963,19 +9681,13 @@ Stanza 37—
 
 Stanza 38—
 
- 
-
 श्वःश्रेयसम्.
 
 वसीयस् (compa. of वसु = praiseworthy. 'वसुशब्दः प्रशस्तवाची') and श्रेयस् have अadded to them at the end of a compound
 
-
-
 when preceded by श्वस्. श्वस् means excellent. 'स्वभावाच्चेह श्वःशब्द उत्तरपदार्थस्य प्रशंसामाशीर्विषयामाचष्टे। श्वःश्रेयसं ते भूयात्। शोभनं श्रेयस्ते भूयादित्यर्थः। श्वोवसीयसमित्यस्यैव पर्यायः।' काशि०.
 
 Stanza 39—
-
- 
 
 नक्तन्दिवम्.
 
@@ -10994,8 +9706,6 @@ found in same Mss. and C. and N. is not so good as
 ठक् (इक) is added in the sense of तदस्य प्रहरणम् by"प्रहरणम्" ४।४।५७॥. To this Sûtra "शक्तियष्ट्योरीकक्" ४।४।५९॥ is an exception, 'ठकोऽपवादः। शक्तिः प्रहरणमस्य शाक्तीकः याष्टीकः।' काशि०. Amara and other vocabules also give शाक्तीक and याष्टीक. 'शाक्तीकः शक्तिहेतिकः।'अम०. 'स्युर्नैस्त्रिंशिकशाक्तीकयाष्टीकास्तत्तदायुधाः।' अभि० of हेम०.
 
 Stanza 42—
-
- 
 
 'वृक्णैः
 
@@ -11019,13 +9729,9 @@ Stanza 43—
 
 Stanza 44—
 
- 
-
 दक्षिणेर्मा.
 
 ईर्म is changed toईर्मन् at the end of a Bahuvrîhi compound when preceded by दक्षिण in the sense of 'a deer whose right side is wounded by a fowler.' The change is not made when there is no लुब्धयोग (contact of the fowler) as in दक्षिणेर्मंशकटम्.
-
- 
 
 उदन्यन्.
 
@@ -11033,13 +9739,9 @@ The denominatives from अशन, उदक, and धन are अशनायत�
 
 ————
 
-
-
 **CANTO V.**
 
 Stanza 1—
-
- 
 
 वर्धिष्णू.
 
@@ -11047,15 +9749,11 @@ Jaya, 'मायया महाप्राणोद्भावनशीलौ
 
 Stanza 2—
 
- 
-
 खड्ग॰
 
 खड्ग, मुशल, &c. are all class-names (जातिवाचक names) and they are not names of animals (in the case of जातिवाचक names of animals इतरेतरद्वन्द्व is formed *e.g.* ब्राह्मणक्षत्रियविट्शूद्राः), the Dvandva compound of these should therefore be समाहारद्वन्द्व by the Sûtra "जातिरप्राणिनाम्" २।४।६॥.It should, however, be remembered that the समाहारद्वन्द्व is formed only when जाति is prominent, not when a fixed number of things is intended to be conveyed. 'जातिपरत्वेच जातिशब्दानामयमेकवद्भावो विधीयते न नियतद्रव्यविवक्षायाम्। इह कुण्डे बदरामलकानि तिष्ठन्तीति'। काशि०. It should be noted that the जाति in "जातिरप्राणिनाम्" means aclass of objects and not a class of attributes or actions. 'नञिवयुक्तन्यायेन द्रव्यजातीनामयमेकवद्भावो न गुणक्रियाजातीनाम्। रूपरसगन्धस्पर्शाः। गमनाकुञ्चमप्रसारणानि'। काशि०.
 
  Jaya, says: — 'खड्गादीनां बाणान्तानां द्वन्द्वैकवद्भावं कृत्वा पश्चात्तेन सहिता गदेति शाकपार्थिवादित्वात् सः। अन्यथा समुदायस्य जातिरप्राणिनामित्येकवद्भावेन नपुंसकलिङ्गता स्यात्। बाणगदमिति'।
-
- 
 
 आयुधच्छायम्.
 
@@ -11063,31 +9761,21 @@ The Tatpurusha compound ending in सेना, सुरा, छाया, श�
 
 Stanza 3—
 
- 
-
 व्याधं व्याधम्.
 
 Malli says that the च of the Sûtra "आभीक्ष्ण्ये णमुल् च" ३।४।२२॥shews that the form is repeated च rather shews that क्त्वा(त्वा) is also added in the sense. विद्ध्वा विद्ध्वा or व्याधं व्याधम्. 'चकारात् क्त्वा च। द्विर्वचनसहितौ क्त्वाणमुलौ आभीक्ष्ण्यं द्योतयतः न केवलौ। "आभीक्ष्ण्ये द्वे भवतः" इत्युपसंख्यानाद्द्विर्वचनम्'। काशि०.
 
-
-
 Stanza 4—
-
- 
 
 पारेसमुद्रम्
 
 is better than मध्येसमुद्रम्, Lankâbeing on the other side of the ocean.
-
- 
 
 गतिम्
 
 is better than पतिम्,as the latter gives no additional sense.
 
 Stanza 5—
-
- 
 
 राक्षससभम्.
 
@@ -11097,13 +9785,9 @@ Stanza 5—
 
 Stanza 6—
 
- 
-
 रक्षःप्रकाण्डकौ.
 
 The compound is formed by the Sûtra “प्रशंसावचनैश्च" २।१।६६॥ A जातिवाचक noun is compounded with मतल्लिका and other words which are established as meaning excellent. 'रूढिशब्दाः प्रशंसावचना गृह्यन्ते मतल्लिकादयस्ते च विशिष्टलिङ्गत्वादन्यलिङ्गेऽपि जातिशब्दे स्वलिङ्गोपादाना एव समानाधिकरणा भवन्ति।' काशि०.
-
- 
 
 भूमिवर्धनौ अकृषाताम्
 
@@ -11115,17 +9799,11 @@ Stanza 8—
 
 When नासिका is preceded by वि, it is changed to ग्र or ख्य. "वेर्ग्रोवक्तव्यः" विगता नासिकाऽस्य विग्रः। "ख्यश्च"॥ विख्यः। 'कथं तर्हि विनसा हतबान्धवेति भट्टिः। विगतया नासिकयोपलक्षितेति व्याख्येयम्।' सिद्धा० कौ०. Thus Bha. Dî's explanation is that विनसा is Inst. Sing. of विनासिका which is to be taken as a कर्मधारय compound. विगता चासौ नासिका च विनासिका तया विनासिकया विनसा वा. "वेर्ग्रोवक्तव्यः" is a Vârtika on "उपसर्गाच्च”५।४।११९॥ which is applicable to नासिका at the end of a बहुव्रीहि compound. When the compound therefore is taken to be कर्मधारय, नासिका remains unchanged. But नासिका is changed to नस् optionally before terminations beginning with Acc. Plu. “पद्दन्नोमास्हृन्निशसन्यूषन्दोषन्यकञ्छकन्नुदन्नासञ्छस्प्रभृतिषु" ६।१।६३॥The Inst. Sing. is thus विनासिकया or विनसा. Further the Inst. is taken in the sense of उपलक्षण. "इत्थंभूतलक्षणे "२।३।२१॥. Hence विनसा is equal to विगतया नासिकयोपलक्षिता.
 
-
-
 Stanza 10—
-
- 
 
 पात्रेसमितैः
 
 = ready at meals. but not on occasions of need. The compound implies censure. 'पात्रेसमिताः भोजनसमये एव संगताः न तु कार्ये' सिद्धा० कौ०. The च in the Sûtra "पात्रेसमितादयश्च" २।१।४८॥shows that the words coming under the group can not form a part of any other compound. 'चकारोऽवधारणार्थः। तेनैषां समासान्तरे घटकतया प्रवेशो न। परमाः पात्रेसमिताः।' सिद्धा० कौ०. The Kâśikâ reads "पात्रेसंमितादयश्च". Malli's reading is also पात्रेसंमितैः. The reading found in the Bhâshya is पात्रेसमित. According to the Kâśikâ the censure is thus implied:— 'अवधारणेन क्षेपो गम्यते। पात्रे एव संमिता न पुनः क्वचित्कार्ये।' पात्रेबहुलाः, कूपमण्डूकः, कूपकच्छपः, उदुम्बरमशकः, नगरकाकः, मातरिपुरुषः, पिण्डीशूरः, पितरिशूरः, गेहेनर्दी, गेहेशूरः are among the group. The group is an आकृतिगण.
-
- 
 
 खट्वारूढः
 
@@ -11134,8 +9812,6 @@ Stanza 10—
  'क्षेप इत्युच्यते। कः क्षेपो नाम। अधीत्य स्नात्वा गुरुभिरनुज्ञातेन खट्वारोढव्या। य इदानीमतोऽन्यथा करोति स उच्यते खट्वारूढोऽयं जाल्मो नातिव्रतवान्।'.
 
  On this Kaiyata says:—
-
- 
 
 अधीत्येति।
 
@@ -11147,8 +9823,6 @@ Stanza 10—
 
 'नातिव्रतवानिति।'
 
- 
-
 अत्यन्तीनत्वम्.
 
 ख (ईन) is added to अत्यन्त in the sense of गामी. "अवारपारात्यन्तानुकामं गामी" ५।२।११॥. अवारपारं गामी अवारपारीणः "विपरीताच्च".We have thus पारावारीणः "विगृहीतादपीष्यते"। We thus get अवारीणः and पारीणः. अत्यन्तं गामी अत्यन्तीनः भृशं गन्तेत्यर्थः। अनुकामं गामी अनुकामीनः। यथेष्टं गन्तेत्यर्थः। In the text it must be taken as Malli, takes 'Invariably coming, that is, coming only to yourself.' अत्यन्त must be taken in the sense of निश्चित as in 'कस्यात्यन्तं सुखमुपनतं दुःखमेकान्ततो वा' मेघ०.
@@ -11159,13 +9833,9 @@ Stanza 10—
 
 found in D. 'अत्यन्तीना means very fickle,' अध्यन्तगमनशीला 'which is fickle by its very nature. '
 
-
-
  Looking to the general sense of अत्यन्तीन, the reading of D. is preferable.
 
 Stanza 12—
-
- 
 
 आमिक्षीय
 
@@ -11173,21 +9843,15 @@ Stanza 12—
 
 Stanza 13—
 
- 
-
 खविचारिणः.
 
 For Malli's note on it *Vide* remarks in the note on सुतानुबन्धिC.I. St. 11.
-
- 
 
 परम्परीणाम्
 
 = Enjoyed by father and grand-father, transmitted by father and grand-father, ancient, hereditary. The word is formed by affixing ख ( ईन) to परपरतर (which is changed to परम्पर) in the sense of ‘enjoying it. 'परम्परशब्दो विनापि प्रत्ययेन दृश्यते। मन्त्रिपरम्परा मन्त्रं भिनत्तीति। तच्छब्दान्तरमेव द्रष्टव्यम्।' काशि०.
 
 Stanza 18—
-
- 
 
 हंसनादिनी
 
@@ -11206,8 +9870,6 @@ as a sort of woman, not as equal to श्यामवर्णा He says:— '
 
 Stanza 20—
 
- 
-
 नन्दथुः
 
 and
@@ -11216,17 +9878,11 @@ and
 
 For the forms *Vide* note on C. IV. St. 43'दुनदि समृद्धौ'। 'टुमस्जो शुद्धौ'।Thus both the roots are ट्वित्-
 
-
-
 Stanza 22—
-
- 
 
 मनावी.
 
 There are three Fem. forms of मनु. They are मनावी, मनायी, and मनु.
-
- 
 
 सीमन्तिनी.
 
@@ -11234,19 +9890,13 @@ There are three Fem. forms of मनु. They are मनावी, मनाय�
 
 Stanza 23—
 
- 
-
 वाचाले.
 
 "आलजाटचौ बहुभाषिणि" ५।२।१२५॥. आलच् (आल) and आटच् (आट) are added to वाच् to denote one who speaks much. The Vartika "कुत्सित इति वक्तव्यम्"shews that the terminations are affixed in the sense of one who speaks much that is censurable.'कुत्सितं बहु भाषते स वाचालः वाचाटो वा. 'यस्तु सम्यग्बहु भाषते स वाग्मीत्येव.' वाग्मी, formed by "वाचो ग्मिनिः" ५।२।१२४॥, means an eloquent speaker.
 
- 
-
 रावणः.
 
 The word is thus explained by Malli, in his Sarvaṅkashâ'विश्रवसोऽपत्यं पुमान् रावण इति विग्रहः। "तस्यापत्यम्" इत्यणि कृते "विश्रवसो विश्रवणरवणौ" इति प्रकृते रवणादेशः। पौराणिकास्तु रावयतीति व्युत्पादयन्ति। तदुक्तमुत्तरकाण्डे—'यस्माल्लोकत्रयं चैतद्रावितं भयमागतम्। तस्मात्त्वं रावणो नाम नाम्ना वीरो भविष्यसि॥' इति। रौतेर्ण्यन्तात्कर्त्तरि ल्युट्॥' Malli. on Magha C. I, St. 48.
-
- 
 
 आश्वसीहि
 
@@ -11262,15 +9912,11 @@ as one *pada*, 'नतं नम्रमुखम्। तृणमिव म�
 
 Stanza 27—
 
- 
-
 आहोपुरुषिकाम्.
 
 अहोपुरुष is not found in the group of मनोज्ञादि which, besides, is not on आकृतिगण. Malli's derivation is therefore better than that of Jaya. and other commentators, to whom he refers by 'केचित्.' मयूरव्यंसकादि is an आकृतिगण, and आहोपुरुषिका is found in it in the Gaṇapâṭha. ‘आकृतिगणोऽयम्। तेन। अकुतोभयः, कान्दिशीकः (कान्देशीकः), आहोपुरुषिका, अहमहमिका, यदृच्छा, एहिरेयाहिरा, उन्मृजावमृजा, द्रव्यान्तरम्, अवश्यकार्यम् इत्यादि सिद्धम्'।.
 
  The figure of speech noticed by Malli. in this verse is उदात्त, which consists either of the description of extraordinary prosperity or in the
-
-
 
 greatness of some one collaterally brought about. 'उदात्तं वस्तुनः संपन्महतां चोपलक्षणम्' काव्य०. The following is an instance of the second kind of उदात्तः—
 
@@ -11281,13 +9927,9 @@ greatness of some one collaterally brought about. 'उदात्तं वस�
 
 Stanza 28—
 
- 
-
 हृतरत्नः.
 
 रत्न=an excellent thing. 'जातौ जातौ यदुत्कृष्टं तद्धिरत्नं प्रचक्षते.
-
- 
 
 पूतक्रतायी
 
@@ -11295,15 +9937,11 @@ Stanza 28—
 
 Stanza 31—
 
- 
-
 अशिश्रवत्.
 
 Another form is अशुश्रवत् which is the reading of E2and T₄.
 
 Stanza 32—
-
- 
 
 हस्तरोधम्.
 
@@ -11313,13 +9951,9 @@ Malli, is in favour of taking this as a Bahuvrîhi compound qualifying धनु
 
 Stanza 33—
 
- 
-
 कार्त्तवीर्य
 
 is सहस्रार्जुन. When he was once enjoying जलक्रीडाwith his wives in the Narmadâ, his thousand hands changed the current of water so that it carried away Râvaṇa's materials of the worship of S'iva. Râvaṇa was therefore enraged and went to fight with Arjuna. Arjuna
-
-
 
 captured Rávaṇa and tied him by his bow-string. 'स तु बाहुसहस्रेण बलाद्गृह्य दशाननम्। बबन्ध बलवान् राजा बलिं नारायणो यथा॥..... राक्षसांस्त्रासयामास कार्त्तवीर्यार्जुनस्तदा। रावणं गृह्य नगरं प्रविवेश सुहृद्वृतः॥' रामा० उत्त० ३२ स०. On hearing this पुलस्त्य, the grandfather of Râvaṇa, went to Kârtavîrya, and requested him to release Râvaṇa. 'भयाद्यस्योपतिष्ठेतां निष्पन्दौसागरानिलो। सोऽयं मृधे त्वया बद्धः पौत्रो मे रणदुर्जयः॥ पुत्रकस्य यशः पीतं नाम विश्रावितं त्वया। मद्वाक्याद्याच्यमानोऽद्य मुञ्च वत्स दशाननम्॥ पुलस्त्याज्ञां प्रगृह्याथ न किञ्चन वचोऽर्जुनः। मुमोचैव पार्थिवेन्द्रो राक्षसेन्द्रं प्रहृष्टवत्॥' रामा० उत्त० ३३ स०. Then a friendship was formed between them. The friendship thus brought about is
 
@@ -11342,17 +9976,11 @@ ignoble to Râvaṇa. The मैत्री is mentioned in रामायण.
 
 Stanza 36—
 
- 
-
 कन्याशुल्कम्.
 
 Janaka had vowed that he would marry Sitâto whoever strung the bow of Siva, which was with him. 'तद्धि यो रौद्रं धनुरारोपितगुणं करोति अस्मै कन्या दीयत इति मूल्यीकृत्य स्थापितम्।' Jaya.
 
-
-
 Stanza 38—
-
- 
 
 सुखजातः, सुरापीतः
 
@@ -11364,13 +9992,9 @@ are all Bahuvrîhi compounds in which the past participles, which being adjectiv
 
 Stanza 39—
 
- 
-
 भीतङ्कारमाक्रुश्य
 
 =reviling that he was a coward. खमुञ् (अम्) is affixed to कृ, preceded by an *upapada* in the accusative case, when, censure is implied. 'चोरङ्कारमाक्रोशति' means'चोरोऽसि दस्युरसीत्याक्रोशति। चौरकरणमाक्रोशसंपादनार्थमेव नत्वसौ चोरः क्रियते।' काशि०. As Bha Dîsays कृ is here used in the sense of 'uttering'. 'करोतिरुच्चारणे। चोरशब्दमुच्चार्येत्यर्थः'. Thus भीतङ्कारम् means भीतोऽसीत्युच्चार्य.
-
- 
 
 यातयामम्
 
@@ -11378,19 +10002,13 @@ Stanza 39—
 
 Stanza 41—
 
- 
-
 गेहेनर्दिनम्
 
 . *Vide* note on St. 10 for पात्रेसमितैः.
 
- 
-
 अभाययत्.
 
 भी has three causal forms, भाययति, भापयते, and भीषयते. The two latter forms are used when भयproceeds from the हेतु (causal agent). 'मुण्डो भीषयते। जटिलो भीषयते।'. When the source of fear is other than the causal agent, भाययति is used, as in 'कुञ्चिकयैनं भाययति। अत्र कुञ्चिका भयस्य करणं न हेतुः'. हेतु means प्रयोजक. 'हेतुरिह पारिभाषिकः स्वतन्त्रस्थ (*i.e.* कर्त्तुः) प्रयोजकः' अभाययत्, the reading of E1, is open to objection. The Sûtra "भीस्म्योर्हेतुभये" १।३।६८॥ teaches that भी and स्मी take Atma, terminations in the causal when the fear proceeds from the causal agent, andभीandस्मीare changed to भा and स्मा in the causal (भी optionally and स्मीnecessarily) and hence form भापय or भीषय andस्मापय as their causal bases when the source of fear is the causal agent ("बिभेतेर्हेतुभये" ६।१।५६॥ and "नित्यं स्मयतेः" ६।१।५७॥). We have thus भीष-
-
-
 
 यते or भापयते and स्मापयते in the sense of हेतुभय, On the Pars, form विस्मापयन् in 'विस्मापयन्विस्मितमात्मवृत्तौ' रघु० २.३३. Malli says:—‘विस्मापयन् इति पाठे पुगागममात्रं वक्तव्यम्। तच्च“नित्यं स्मयतेः" इति हेतुभयविवक्षायामेवेति "भीस्म्योर्हेतुभये" इत्यात्मनेपदे विस्मापयमान इति स्यात्। तस्मान्मनुष्यवाचा विस्माययन्निति रूपं सिद्धम्। करणविवक्षायां न कश्चिद्दोषः।.' Bha. Dî.says:— कथं तर्हि विस्मापयन् विस्मितमात्मवृत्ताविति। मनुष्यवाचेति करणादेव हि तत्र स्मयः। अन्यथा शानजपि स्यात्। सत्यम्। विस्माययन्नित्येव पाठ इति साम्प्रदायिकाः। यद्वा। मनुष्यवाक् प्रयोज्यकर्त्री विस्मापयते तथा सिंहो विस्मापयन्निति ण्यन्ताण्णौ शतेति व्याख्येयम्।".
 
@@ -11422,25 +10040,17 @@ He says:—'मृगद्युताविति पाठान्तरम�
 
 Stanza 48—
 
- 
-
 यथामुखीनः.
 
 यथा forms the first member of an अव्ययीभावcompound in the sense of असादृश्य ("यथाऽसादृश्ये" २।१।७॥). In यथा हरिस्तथा हरः, यथा has the sense of सादृश्य and therefore a compound cannot be formed of यथा and हरि. In the compound 'यथामुखम्'however, यथा has the sense of सादृश्य; it being an exception, being so used by Pâṇini. 'मुखस्य सदृशं यथामुखं प्रतिबिम्बम्। निपातनात्सादृश्येऽव्ययीभावः’। To the word यथामुख, thus formed, स्व (ईन) is affixed in the sense of दर्शन,*i e.*, a mirror or a reflector. 'दृश्यतेऽस्मिन्निति दर्शनः आदर्शादिः प्रतिविम्बाश्रय उच्यते’ काशि०. Thus यथामुखीन means यथामुखं दर्शनः or यथामुखं दर्शनमस्मिन् *i.e.,* प्रतिबिम्वाश्रय इव, 'standing before (Sîtâ) so that her body may be reflected in his,' in other words 'standing just against Sîtâ.'
-
- 
 
 चित्रीयमाणः
 
 =causing wonder. It is adenominative from चित्र. To नमस्, वरिवस्, and चित्रङ् (चित्र), क्यच्(य) is added, in the sense of wor-
 
-
-
 ship, service, and wonder respectively. The last takes Atma, terminations. 'नमसः पूजायाम्। नमस्यति देवान् *(i. e.* पूजयतीत्यर्थः)। वरिवसः परिचर्यायाम्। वरिवस्यति गुरून् *(i.e.* परिचरतीत्यर्थः)। चित्रङ आश्चर्ये। चित्रीयते (विस्मयते इत्यर्थः। विस्मापयते इत्यन्ये)। ङकार आत्मनेपदार्थः।' काशि०.
 
 Stanza 49—
-
- 
 
 मृगलोचना.
 
@@ -11452,15 +10062,11 @@ Stanza 49—
 
 Stanza 50—
 
-
-
 योगक्षेमकरम्.
 
 योगक्षेम is well-being, security, as in 'योगक्षेमं वहाम्यहम्' (Gitâ९-२२). Sankara there explains योगःas अप्राप्तस्य प्रापणम् and क्षेमम् asतद्रक्षणम्. 'अप्राप्तस्य प्राप्तिर्योगः प्राप्तस्य निर्विघ्नतया रक्षणं क्षेमम्.'
 
 Stanza 51—
-
- 
 
 विलुभितप्लवम्=
 
@@ -11468,23 +10074,15 @@ whose jumps were disordered (through exhaustion).
 
 Stanza 53—
 
- 
-
 कष्टाश्रितम्
 
 the reading of E1, is not good. “द्वितीया श्रितातीतपतितगतात्यस्तप्राप्तापन्नैः" २।१।२४ sanctions the compound of a noun in the
 
-
-
 Accu. with श्रित and not with आश्रित' अत्र व समासप्रत्ययविधौ तदन्तविधित्वाभावात् कष्टं परमश्रित इत्यादौ श्रिताद्यन्तेन न समास इति बोध्यम्।'.
-
- 
 
 विस्फूर्जथुः.
 
 स्फूर्ज् is ट्वित् (टुओस्फूर्जा वज्रनिर्घोषे) and hence by “ट्वितोऽथुच्" we get स्फूर्जथुः.
-
- 
 
 परिदेविनी
 
@@ -11492,15 +10090,11 @@ means परिदेवनशीला, the termination घिनुण् (इ
 
 Stanza 55—
 
- 
-
 विवञ्चिषोः=
 
 Desiring to cheat or entice away. The form is made up of वञ्च्1st Conj. which generally means 'to go’, but is here used in the sense of 'enticing away'. (धातूनामनेकार्थत्वात्). But this view is not very satisfactory. Another explanation given by commentators, is that it is derived from वञ्च् 10th Conj, but अय् of the 10th Conj., is not affixed to the root, as according to one theory अय् may not be added to a root of the 10th Conj. 'तेषामनित्यणिच्कत्वात्'. Jaya says:—'येषामनित्यण्यन्ताश्चुरादय इति दर्शनं तेषां मतेनात्रापि सिध्यति।'. Bha, Dî, says;—''चुरादिभ्य एव बहुलं णिजित्यर्थ इत्यन्ये।'.
 
 Stanza 59—
-
- 
 
 यायाः.
 
@@ -11508,8 +10102,6 @@ The Potential (लिङ्) here shews manifestation of one's desire. In this s
 
 कच्चिज्जीवति ते माता कच्चिज्जीवति ते पिता।  
 माराविद त्वां पृच्छामि कच्चिज्जीवति पार्वती॥'काशि०.
-
-
 
 Stanza 60—
 
@@ -11519,23 +10111,15 @@ Stanza 60—
 
 क्यप् (य) is affixed to वद् in the passive sense. मृषा उद्यते इति मृषोद्यः.
 
- 
-
 सत्यवद्यः.
 
 First यत् (य) is affixed to वद् to shew भाव. सत्यस्य वद्यंवादः सत्यवद्यम्।. To this अis added as a possessive termination by the Sûtra "अर्शआदिभ्योऽच्" ५।२।१२७॥ अर्शआदि being an आकृतिगण. सत्यवद्यमस्यास्तीति सत्यवद्यः सत्यवादी।.
 
-
-
 Stanza 61—
-
- 
 
 जञ्जपूकः.
 
 ऊक is affixed, to form an adjective to the Freq. base of यज्, जप्, and दंश्. We have thus याय तूकः, जञ्जपूकः, and दंदशूकः. It must be noted that the Freq. bases of जप् and दंश् are जञ्जप्य and दंदश्य. "जपजभदहदशभञ्जपशां च" ७।४।८६॥teaches that the augment नुक् (Anusvâra 'नुगित्येतदनुस्वारोपलक्षणार्थंद्रष्टव्यम्') is added to the अभ्यास of roots जप्, जभ्, &c. in the Freq.
-
- 
 
 मृदलाबुनः
 
@@ -11543,21 +10127,15 @@ Stanza 61—
 
 Stanza 62—
 
- 
-
 कमण्डलुकपालेन.
 
 may be taken as a समाहारद्वन्द्व'कमण्डलुना कपालेन च। जातिरप्राणिनामिति द्वन्द्वैकवद्भावः' Jaya.
-
- 
 
 मात्रा
 
 = परिच्छद *i. e.* the whole external appendage, the gourd, the loop &c. 'मात्रंत्ववधृतौ स्वार्थे कार्त्स्नेमात्रा परिच्छदे। अक्षरावयवे द्रव्ये मानेऽल्पे कर्णभूषणे॥ काले वृत्ते च' इति हैमः.Medinî also gives the same senses:— 'मात्रा कर्णविभूषायां वित्ते माने परिच्छदे। अक्षरावयवे स्वल्पे क्लीबं कार्त्स्न्येऽवधारणे॥'.
 
 Stanza 63—
-
- 
 
 अधीयन्
 
@@ -11567,15 +10145,11 @@ and
 
 are formed by affixing शतृ (The Pres. Part. affix अत्) to अधी and धृ to shew that the अध्ययन and धारण are effected without any difficulty. They denote that the agent is अकृच्छ्री. 'अकृच्छ्रः सुखसाध्यो यस्य कर्त्तुर्धात्वर्थः सोऽकृच्छ्री' काशि०.
 
- 
-
 मस्करिव्रतम्.
 
 'मा कुरुत कर्माणि शान्तिर्वः श्रेयसीत्येवं घोषयन्ति ये ते मस्करिणः परिव्राजकाः' Jaya. 'मस्करो ज्ञानं वेणुर्वास्यास्तीति मस्करी।'.
 
 Stanza 64—
-
- 
 
 सुखाभव.
 
@@ -11585,8 +10159,6 @@ Malli's reading is
 
 The Sûtra which explains the formation is "सुखप्रियादानुलोम्ये" ५।४।६३॥. To the words सुख and प्रिय, डाच् (आ) is affixed in the sense of आनुलोम्य and the forms of कृare added on, आनुलोम्य is explained as अनुकूलता, आराध्यचित्तानुवर्त्तनम् सुखाकरोति and प्रियाकरोति are equal to स्वाम्यादेश्चित्तमाराधयति. Generally the forms of कृ alone are joined to सुखand प्रिय in this sense. In the Sûtra "कृञो द्वितीयतृतीयशम्बबीजात्कृषौ" ५।४।५८॥ कृञ् is mentioned to prevent the अनुवृत्ति of भू and अस्. 'पुनः कृञ्ग्रहणं स्वस्त्योर्निवृत्यर्थम्' काशि०. In the subsequent Sûtra कृalone is taken and not भू and अस्. On the Sûtras 59, 60, 61, 62, 64, 65, 66, and 67 the Kâśikâ
 
-
-
 clearly says 'कृञ इत्येव.' Though कृञ इत्येव is not found in the explanation of the Sûtra 63, still 'कृञो योगे' occurs there. The explanation is 'सुखप्रियशब्दाभ्यामानुलोम्ये वर्त्तमानाभ्यां कृञो योगे डाच् प्रत्ययो भवति।'. Bha. Dî. also gives 'सुखाकरोति प्रियाकरोति गुरुम्। अनुकूलाचरणेनानन्दयतीत्यर्थः' as instances to illustrate the Sûtra. He too does not join भूand अस् to these words. 'सुखाकुरु' is therefore a better reading than सुखाभव Jaya explains the form सुखाभव by connecting भू and अस् with the Sûtra. 'सुखप्रियादानुलोम्ये इति कृभ्वस्तियोगे डाच्.' For this, however, as it must have been seen, there does not seem to be much anthority, unless we have the अनुवृत्ति of भू and अस् in the Sûtra by मण्डूकप्लुति.
 
 Stanza 66—
@@ -11595,15 +10167,11 @@ Stanza 66—
 
 Stanza 68—
 
- 
-
 किङ्कर.
 
 It has two feminine forms किङ्करा and किङ्करी. किङ्करा means a female servant and किङ्करी is the wife of a servant 'पुंयोगे ङीष् किङ्करी'. 'पुंयोगादन्यत्र किङ्करीत्यसाधुरेवेति कैयटहरदत्तादयः।'
 
 Stanza 76—
-
- 
 
 ओजायमाना
 
@@ -11611,13 +10179,9 @@ Stanza 76—
 
 Stanza 77—
 
- 
-
 महाकुलीनः.
 
 महाकुलस्यापत्यं पुमान् माहाकुलः माहाकुलीनः महाकुलीनो वा.
-
- 
 
 प्रियङ्करः
 
@@ -11629,8 +10193,6 @@ and
 
 Stanza 79—
 
- 
-
 इष्टिन्
 
 and
@@ -11639,13 +10201,9 @@ and
 
 are formed by affixing the possessive इन् to इष्ट and पूर्त. इष्ट is thus defined:— 'अग्निहोत्रं तपः सत्यं वेदानां चैव पालनम्। आतिथ्यं वैश्वदेवश्चइष्टमित्यभिधीयते॥' Amara defines it as क्रतुकर्म and Manu says:— 'एकाग्निकर्महवनं त्रेतायां यच्चहूयते। अन्तर्वेद्यां च यद्दानमिष्टं तदभिधीयते॥' It thus
 
-
-
 means 'religious acts'. पूर्त्त means 'acts of piety and liberality'. Manu says:—'वापीकूपतडागादि देवतायतनानि च। अन्नप्रदानमारामः पूर्त्तमित्यभिधीयते॥'. Another Smṛiti defines it thus:— 'पुष्करिण्यः सभा वापी देवतायतनानि च। आरामश्च विशेषेण पूर्त्तं कर्म विनिर्दिशेत्॥'.
 
 Stanza 82—
-
- 
 
 सचितुम्
 
@@ -11657,8 +10215,6 @@ It means 'to serve','to help'. 'षच् सेचने सेवने च'�
 
 Stanza 83—
 
- 
-
 स्यन्नस्वेद॰.
 
 स्यन्न=flowing. Past Part. of स्यन्द्. It is 'स्यन्नैः सृतैः...। स्यन्देर्निष्ठायां रूपम् ' Jaya. The reading of E2
@@ -11669,21 +10225,15 @@ is not good स्यन्द् being Atma,
 
 Stanza 84—
 
- 
-
 ज्यैष्ठिनेयो विवासितः
 
 is also the reading of Jaya. For कानिष्ठिनेय and ज्यैष्ठिनेय *vide* note on C. IV. St. 35.
-
- 
 
 नग्नमुषितप्रख्यम्.
 
 आदौ मुषितः पश्चान्नग्नोनग्नमुषितः तेन प्रख्यस्तत्प्रख्यस्तम्. नग्नमुषित is a कर्मधारय compound like स्नातानुलिप्त.मुषितwhich ought to be used first is placed after नग्न; because the compound comes under राजदन्तादि. "राजदन्तादिषु परम्” २।२।३१॥ teaches that there is a number of compounds beginning with राजदन्त,in which what deserves to be the first member is used as second member. दन्तानां राजा राजदन्तः. अग्रेवणम्, नग्नमुषितम्, शूद्रार्यम्, भार्यापती, जंपती, दंपती, जायापती, अक्षिभ्रुवम्, and दारगवम्, are among the group. The group is an आकृतिगण. There is a Vârtika to it 'धर्मादिष्वनियमः' which shews that there is no rule as regards order in the group धर्मादि. धर्मार्थौ, अर्थधर्मौ; शब्दार्थौ, अर्थशब्दौ; कामार्थौ, अर्थकामौ; आद्यन्तौ, अन्तादी; and गुणवृद्धी, वृद्धिगुणौ come under धर्मादि.
 
 Stanza 85—
-
- 
 
 पिण्डीशूरान्
 
@@ -11693,27 +10243,19 @@ and
 
 both mean the same thing, *viz.* brave in eating, not in achieving any thing great. पिण्डीशूर isfound in the group of पात्रेसमितादि, while पिण्डेशूर, though not there, can be included into it, as it is an आकृतिगण.
 
- 
-
 कूपमाण्डूकि =
 
 One whose knowledge is very limited, who knows only his own neighbourhood, but has no experience of the world at
 
-
-
 large. This word is also in the group of पात्रेसमितादि. The compound implies censure by similarity, कूपमाण्डूकी being equal to कूपे माण्डूकी इव.
 
 Stanza 87—
-
- 
 
 अन्तर्गिरम्
 
 and अन्तर्गिरि are two forms of the अव्ययीभाव compound, गिरि at the end of an अव्ययीभाव compound being optionally changed to गिर.
 
 Stanza 89—
-
- 
 
 समुद्रोपत्यका.
 
@@ -11723,33 +10265,23 @@ Stanza 89—
 
 Stanza 91—
 
- 
-
 प्रोष्यपापीयान्.
 
 This irregular compound of an indeclinable and adjective is classed in the मयूरव्यंसकादि group. अतिशयेन पापः पापीयान्. It is not necessary to take अतिशयेन पापवान् पापीयान् as Jaya. takes it. 'पापशब्दाद्विन्मतोर्लुगितिईयसुन् लुक् च मतुपः। पाप is itself an adjective, as Amara and other authors give it. 'नृशंसो घातुकः क्रूरः पापो धूर्त्तस्तु वञ्चकः' अम०, 'क्रूरे नृशंसनिस्त्रिशपापाः' अभि० चिन्ता० of हेम०.
 
 Stanza 92—
 
- 
-
 अश्नीतपिबतीयन्ती.
 
 अश्नीतपिबता is a मयूरव्यंसकादि compound. In the group we find 'आख्यातमाख्यातेन क्रियासातत्ये', that is, one verbal form is compounded with another to shew the continuity of action. अश्नीतपिबता means अश्नीत पिबतेत्येवं सततं यत्राभिधीयते सा. It qualifies a word like क्रीडाin the Fem, and hence the Fem. form, 'अन्यपदार्थस्य क्रीडादिरूपत्वेन स्त्रीत्वात् समासत्वेन प्रातिपदिकतयात्र टाप्।’अश्नीतपिबता thus means a feast in
 
-
-
 which people are invited to eat and drink. पचतभृज्जता, खादतमोदता,खादताचमता are compounds of a similar type. From the noun अश्नीतपिचता, a denominative is formed by adding क्यच् to denote wish अश्नीतपिबतामात्मन इच्छतीति अश्नीतपिवतीयति. अश्नीतपिबतीयन्ती is Fem. Pres. Part, of the root. It thus means ‘wishing to be queen ordering people to eat and drink as you choose'; ‘wishing to be queen with supreme authority'.
-
-
 
 वशेकृत्य.
 
 We have also वशे कृत्वा. It means the same thing as वशीकृत्य.
 
 Stanza 93—
-
- 
 
 ग्राहिणी
 
@@ -11759,27 +10291,19 @@ means आग्रहिणी ' perverse;' 'न यास्यामीत्�
 
 Stanza 95—
 
- 
-
 रात्रिञ्चर.
 
 We have रात्रिञ्चरः, or रात्रिचरः, रात्रिमटः or रात्र्यटः.
 
- 
-
 मृगपक्षिणः.
 
 'मृगाश्चपक्षिणश्च। समानजातीयानामिति वचनादेकवद्भावोऽत्र न भवति।' Jaya.
-
- 
 
 तूष्णींभूय.
 
 Another form is तूष्णींभूत्वा.
 
 Stanza 97—
-
- 
 
 वनेचर.
 
@@ -11803,13 +10327,9 @@ Stanza 100—
 
 Stanza 101—
 
- 
-
 मांसशोणितसंदर्शम्.
 
 It is not necessary to take दृश् in the causal sense (अन्तर्हितण्यर्थे) 'कार्त्स्न्येनमांसं शोणितं च दृष्ट्वा' Jaya. Jaya means to
-
-
 
 say that Jaṭâyu observed the whole flesh and blood of Râvaṇa and then struck him with his beak (तुण्डघातम्). Bharata also takes it similarly 'साकल्येन मांसं शोणितं च दृष्ट्वा रावणस्येत्यर्थात्'.
 
@@ -11823,15 +10343,11 @@ is not so good as the other two. Jayahas to say 'वाशब्दश्चा�
 
 Stanza 103—
 
- 
-
 सच्छत्रकवचम्.
 
 Malli. takes it as Bahuvrîhi. In this case च्is inserted before छ्; because it is preceded by a short vowel (छे च ६।१।७३॥) We may take the first member of the compound to be सत् as Jaya.takes it:— 'सच्छोभनं छत्रं कवचं च यस्मिन्’.
 
 Stanza 107—
-
-
 
 छलेन.
 
@@ -11839,21 +10355,15 @@ Stanza 107—
 
 Stanza 108—
 
- 
-
 **रथवरम्.**
 
 Jaya, says 'स्मरणात्प्राप्तं पुष्पकाख्यम्।.’
 
 ————
 
-
-
 **CANTO VI.**
 
 Stanza 1—
-
- 
 
 कामाग्निः.
 
@@ -11861,15 +10371,11 @@ Jaya, sqlves it as 'कामोऽग्निरिव', that is, as उपम
 
 Stanza 2—
 
- 
-
 अनिशम्,
 
 'निशाक्रियाविच्छेदो नास्ति यस्मिन्प्रजागरणे इति ' जय०.
 
 Stanza 3—
-
- 
 
 ऊर्जा
 
@@ -11894,8 +10400,6 @@ Stanza 4—
 नवसे जडता प्रोक्ता दशसे मरणं भवेत्॥'
 
  In रतिरहस्य, they are described as by Malli.
-
-
 
 'नयनप्रीतिः प्रथमं चित्तासङ्गस्ततोऽथ संकल्पः।  
 निद्राच्छेदस्तनुता विषयनिवृत्तिस्त्रपानाशः॥  
@@ -11925,13 +10429,9 @@ and
 
  दुहि। गां दोग्धि पयः। नैतदस्ति। कथितात्र पूर्वापादानसंज्ञा॥ दुहि। याचि। इदं तर्हि। पौरवं गां याचत इति। नैतदस्ति। कथितात्रापि पूर्वापादानसंज्ञा। न याचनादेवापायो भवति। याचितोऽसौ यदि ददाति ततोऽपायेन युज्यते। याचि। रुधि। अवरुणद्धि गां व्रजम्। नैतदस्ति। कथितात्र पूर्वाधिकरणसंज्ञा। रुधि। प्रच्छि। माणवकं पन्थानं पृच्छति। नैतदस्ति। कथितात्र पूर्वापादानसंज्ञा। न प्रश्नादेवापायो भवति। पृष्टोऽसौ यद्याचष्टे ततोऽपायेन युज्यते। प्रच्छि। भिक्षि। पौरवं गां भिक्षते। नैतदस्ति। कथितात्र पूर्वापादानसंज्ञा। न भिक्षणादेवापायो भवति। भिक्षितोऽसौ यदि ददाति ततोऽपायेन युज्यते। भिक्षि। चिञ्। वृक्षमवचिनोति फलानि। नैतदस्ति। कथितात्र पूर्वापादानसंज्ञा। ब्रुविशासिगुणेन च यत्सचते तदकीर्त्तितमाचरितं कविना। ब्रुविशासिगुणेन च यत्सचते संबध्यते तच्चोदाहरणम्। किं पुनस्तत्। पुत्रं ब्रूते धर्मम्। पुत्रमनुशास्ति धर्ममिति। नैतदस्ति। कथितात्र पूर्वा संप्रदानसंज्ञा। तस्मात् त्रीण्येवोदाहरणानि। पौरवं गां याचते। माणवकं पन्थानं पृच्छति। पौरवं गां भिक्षत इति॥' On this Kaiyaṭa says:— 'अथ याचिभिक्ष्योरेकार्थत्वात् किमर्थमुभयोरुपादानम्। उच्यते। अनुनयार्थस्यापि याचेर्ग्रहणार्थम्। तेनाविनीतं विनयं याचत इत्यत्रापि कर्मसंज्ञा भवति।’.
 
-
-
  In the case of याच्, प्रच्छ्, and, भिक्ष्, the अविवक्षा of अपादान or any other Kâraka relation may be thus explained :— 'पूर्वविषयस्य कस्याप्यभावादेवाविवक्षा।'
 
 Stanza 11—
-
- 
 
 सुभ्रु.
 
@@ -11949,17 +10449,11 @@ It is the Voc. Sing. of सुभ्रू Fem. The question here arises as toho
 
 Stanza 14—
 
- 
-
 ऐक्षिष्महि
 
 &c. because 'प्रेम पश्यति भयान्यपदेऽपि.'
 
-
-
 Stanza 16—
-
- 
 
 मा घुक्षः पत्युरात्मानम्.
 
@@ -11967,13 +10461,9 @@ Malli, takes पत्युः in the genitive case. It may be taken in the abl
 
 Stanza 17—
 
- 
-
 वामा
 
 should rather be taken in the sense of 'a lovely woman' than that of 'acting adversely' as Jaya. takes it.
-
-
 
 नु
 
@@ -11987,8 +10477,6 @@ Stanza 18—
 
 is used in addressing one who is to be made favourable or well disposed. ‘ऐशब्दो निपातोऽभिमुखीकरणे वर्त्तते'. We may merely take it in the sense of आमन्त्रण. 'एऐशब्दौ तु हेहैवत् स्मृत्यामन्त्रणहूतिषु' इति हैमः—
 
- 
-
 तव हेतोः.
 
 Generally all cases may be used in connection with the word हेतु or its synonym. "निमित्तकारणहेतुषु सर्वासां प्रायदर्शनम्। निमित्तकारणहेतुषु सर्वा विभक्तयः प्रायेण दृश्यन्त इति वक्तव्यम्। किं निमित्तं वसति (किम् 'being Nom. and Acc.)। केन निमित्तेन वसति। कस्मै निमित्ताय वसति। कस्मान्निमित्ताद्वसति। कस्य निमित्तस्य वसति। कस्मिन्निमित्ते वसति। किं कारणं वसति केन कारणेन वसति। कस्मै कारणाय वसति। कस्मात्कारणाद्वसति। कस्य कारणस्य वसति। कस्मिन्कारणे वसति। को हेतुर्वसति। कं हेतुं वसति। केन हेतुना वसति। कस्मै हेतवे वसति। कस्माद्धेतोर्वसति। कस्य हेतोर्वसति। कस्मिन्हेतौ वसति।' भाष्य. On this Kaiyata says:—
@@ -11999,19 +10487,13 @@ Generally all cases may be used in connection with the word हेतु or its 
 
 Stanza 25—
 
- 
-
 प्रत्यर्थयत.
 
 Den. formed from प्रत्यर्थिन् by affixing णि (इ) to it and making the same changes before it as before इष्ट of the superlative degree;
 
-
-
 Thus इन् is dropped. We have thus प्रत्यर्थ्+इ = प्रत्यार्थ. This is a धातु and to this शप् (अ) being added we have प्रत्यर्थय.Thus प्रत्यर्थिनंकरोतीति प्रत्यर्थयति.
 
 Stanza 30—
-
- 
 
 मन्ये.
 
@@ -12031,10 +10513,7 @@ Stanza 31—
 
 अरण्यकाण्ड ६७ स.९-१२.  
 
-
 Stanza 33—
-
- 
 
 उपाचायिष्ट.
 
@@ -12043,21 +10522,15 @@ This is the Aorist 3rd Per Sing. of the कर्मकर्त्तृ form o
 
 Stanza 34—
 
-
-
 अदोहि.
 
 दुह् takes इ for स्त optionally in the कर्मकर्त्तृ form, 'अदोहिगौः स्वयमेव।अदुग्ध गौः स्वयमेव।’. In the passive there is only one form.अदोहि गौर्गोपालकेन’.
-
-
 
  
 
 समरुद्ध.
 
 रुध्does not take इ for स्तin the कर्मकर्तृ form*:—e. g.‘*अन्ववारुद्ध गौः स्वयमेव।' but 'अन्ववारोधि गौर्गोपालकेन।’.
-
- 
 
 समभावि.
 
@@ -12070,8 +10543,6 @@ Stanza 35—
 = Principal mountains. They were supposed to be seven in number. 'महेन्द्रो मलयः सह्यःशुक्तिमान् ऋक्षपर्वतः। विन्ध्यश्च पारियात्रश्च सप्तैते कुलपर्वताः॥'.
 
 Stanza 42—
-
- 
 
 मावधिष्ठाः.
 
@@ -12093,13 +10564,9 @@ as Jaya's reading and owing to वबयोः सामान्यम् ('व
 
 The root वध्, however, is found in धातुपाठ as a root of the first conjugation in the sense of बन्धन, 'बध बन्धने'. But बध्forms बीभत्सते in
 
-
-
 the sense of चित्तविकार. When it is used in another sense it is considered as a root of the 10th conjugation 'गुपिप्रभृतयः किद्भिन्ना निन्दाद्यर्थका एवानुदात्तेतो दानशानौ च स्वरितेतौ। एते नित्यं सन्नन्ताः। अर्थान्तरे त्वननुबन्धकाश्चुरादयः॥’.
 
 Stanza 43—
-
- 
 
 व्रणवेदनया.
 
@@ -12107,15 +10574,11 @@ It is not necessary to take it as मध्यमपदलोपी compound as 
 
 Stanza 45—
 
- 
-
 वनाकर्षम्.
 
 This is णमुल् shewing त्वरा. वनाकर्षम् = वनात्त्वरया आकृष्य.It means that the demon ate away animals, dragging them forcibly and quickly from the forest, without so much as waiting to cook their flesh and so forth. Jaya's reading is बलापकर्षम्. He explains it thus:— 'बलादाकृष्येव पाकादिकमनपेक्ष्य' बलापकर्षम् is taken by some as a बहुव्रीहि compound, used as a क्रियाविशेषण. 'बलेनापकर्षोऽपकर्षणं यत्रेति सत्त्वभक्षणक्रियाविशेषणस्'.
 
 Stanza 46—
-
- 
 
 निस्त्रिंशाभ्याम्.
 
@@ -12136,8 +10599,6 @@ He explains हरिः as meaning monkey, 'सुग्रीवः' But Râma
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
-
 **स ते सहायोमित्रं च सीतायाः परिमार्गणे।  
 भविष्यति हि ते राम मा च शोके मनः कृथाः॥' अरण्य. ७२.**
 
@@ -12150,31 +10611,21 @@ Stanza 48—
 'किं णु धणंकुलबिज्जा को लाहो सज्जणेण सहबासो।  
 का णअरी एअशिला को राआबीररुद्दणरणाहो॥'
 
- 
-
 श्रियः पुत्रः.
 
 The son of the demon Śrî. The Râmâyana describes. him as the son of Danu. 'तदा त्वं प्राप्स्यसे रूपं स्वमेव विपुलं शुभम्। श्रिया विराजितं पुत्रं दनोस्त्वं विद्धि लक्ष्मण॥'. This means तदा स्वं विपुलं शुभं श्रिया विराजितं रूपं प्राप्स्यसे। एवंवृत्तं मां दनोः पुत्रं विद्धि। But here there is another reading noticed in the Tilaka by Râma. 'श्रिया विराजितं पुत्रं तनुं त्वं विद्धि लक्ष्मण' इति पाठान्तरम्। It is thus explained there. 'तदा श्रियाः श्रीनाम्नोदानवस्य पुत्रं दनुनामानमित्यर्थः'. This second reading seems better; for further on we have 'एवमुक्तस्तु धर्मात्मा दनुना तेन राघवः' where he is called Danu. The story is thus related. He was the son of Śrî or Danu. He was as beautiful as the Sun. Being able to change his beauty at will, he frightened the Rishis, assuming a terrific form. A sage, named Sthûla-Śiras thereupon cursed him that he would always be in the demonic form. The sage, being propitiated, said that he would get his original form when Râma would cut off his hands and burn him in a tenantless forest. After this curse he practised austerities and having satisfied Brahmâ was blessed by him with long life. He then grew proud and challenged Indra, who cut off his thighs and head and introduced the head into his belly. Indra was thereupon requested by him to put an end to his life; for said he, 'it is better to die than to live in this form.' But Indra said:— 'no, let the blessing of Brahmâ be fulfilled.' Then said he 'अनहारः कथं शक्तोभग्नसक्थिशिरोमुखः।
 
-
-
 वाज्रिणाभिहतः कालं सुदीर्घमपि जीवितुम्॥ स एवमुक्तः शक्रो मे बाहू योजनमायतौ।तदा चास्यंच मे कुक्षौ तीक्ष्णदंष्ट्रमकल्पयत्॥'. He was thus known as कबन्धand योजनबाहु.
-
- 
 
 मद्यपीत इव भ्रमन्
 
 refers to his being puffed up and having challenged Indra.
-
- 
 
 पापचर्यः
 
 refers to his wicked actions. 'सोऽहं भुजाभ्यां दीर्घाभ्यां संक्षिष्यास्मिन्वनेचरान्। सिंहद्वीपिमृगव्याघ्रान् भक्षयामि समन्ततः॥'.
 
 Stanza 50—
-
- 
 
 शस्त्रपूतः
 
@@ -12190,13 +10641,9 @@ Stanza 52—
 
 Stanza 53—
 
- 
-
 उपसर्या
 
 = 'गर्भाधानार्थं वृषभेणोपगन्तुं योग्या. उपसार्यां = प्राप्तव्या. *e.g.* उपसार्या काशी।.
-
-
 
  
 
@@ -12206,13 +10653,9 @@ Stanza 53—
 
 Stanza 54—
 
- 
-
 अजर्यम्
 
 =What does not decay, undying. It is used as an adjective qualifying सङ्गतम्. Where the substantive is not used, it is to be supplied. In the Sûtra "अजर्यं सङ्गतम् "३।१।१०५॥ सङ्गतम् is to be taken not as a synonym of अजर्यम्, but as shewing that अजर्य is the form of जृwith the affix यत् in the sense of agent (सङ्गतम् being the agent) and with नञ्(अ) prefixed to it. 'अजर्यपदस्य न सङ्गतार्थता। किन्तु सङ्गतविशेषणत्वे एव प्रत्ययस्तेन भट्टिप्रयोगे अजर्यंसङ्गतमित्युभयोपादानं संगच्छते पर्यायत्वे एकस्य वैयर्थ्यापत्तिरिति बोध्यम्।’. How then is the form अजर्यम् in 'मृगैरजर्थंजरसोपदिष्टमदेहबन्धाय पुनर्बबन्ध' (रघु० १८-७) to be explained? 'अत्र सङ्गतमिति विशेष्यमध्याहार्यम्'. On अध्याहार्यम् the Manoramâproceeds as follows:—
-
- 
 
 'अध्याहार्यमिति।
 
@@ -12220,25 +10663,17 @@ Stanza 54—
 
 Stanza 55—
 
- 
-
 अनुतोद्यम्,
 
 वद् takes क्यप् (य) and यत् (य) when preceded by an*Upapada* which must be other than a preposition. क्यप् is कित् and therefore वद् takes Samprasâraṇa, We have thus अमृतोद्यम् andअनृतवद्यम्, ब्रह्मोद्यस् and ब्रह्मवद्यस्, सत्योद्यम् and सत्यवद्यम् &c. The terminations have apassive or an abstract sense. अनृतमुद्यते इत्यनृतोद्यम्अनृतवचनमनृतोद्यम्. When there is no *upapada* or an *upasarga* as an*upapada*, वद् takes ण्यत् *e.g.* वाद्यम्, प्रवाद्यम्.
-
- 
 
 मित्रभूयस्.
 
 भू takes the affix क्यप् in the abstract sense when preceded by an *upapada* which must be other than a preposition. *e. g.*व्रह्मभूयं गतः (ब्रह्मत्वं गतः), देवभूयं गतः (देवत्वं गतः) मित्रभूयम्=मित्रत्वम्.But we have भव्यम्, प्रभव्यम् &c.
 
- 
-
 रिपुहत्याम्.
 
 हन् takes क्यप् and has its final न् changed to न् in the abstract sense when preceded by an *upapada* which must be other than a preposition; *e.g*. ब्रह्महत्या, अश्वहत्या, रिपुहत्या; but घातः, प्रघातः,
-
-
 
 **Stanza 58—**
 
@@ -12246,15 +10681,11 @@ Stanza 55—
 
 ‘राज्ञा सोतव्योऽभिषवद्वारा निष्पादयितव्यः। यद्वा लतात्मकः सोमो राजा (राजन् has the sense of सोम as in राजानं क्रीणन्ति) स सूयते कण्ड्यतेऽत्रेति अधिकरणे क्यप् निपातनाद् दीर्घः। राजसूयम्। अर्द्धर्चादिः॥’ सिद्धा० कौ०.
 
- 
-
 सूर्य.
 
 'सरत्याकाशे सूर्यः। कर्तरि क्यब्निपातनादुत्वम्। यद्वा षू प्रेरणे तुदादिः॥ सुवति कर्मणि लोकं प्रेरयति।क्यपोरुह्॥' सिद्धा० कौ०.
 
 Stanza 59—
-
- 
 
 अकृष्टपच्याः
 
@@ -12262,15 +10693,11 @@ Stanza 59—
 
 Stanza 60—
 
- 
-
 भिद्योद्ध्य.
 
 भिद्य and उद्धद्यare two rivers. They are mentioned in Raghu. also. 'तोयदागम इवोद्ध्यभिद्ययोः' (११. ८). 'उद्ध्यभिद्ययोर्नदविशेषयोः’Malli.
 
 Stanza 61—
-
- 
 
 विपूय=
 
@@ -12290,13 +10717,9 @@ Stanza 62—
 
  The stanza, illustrates the Sûtra “पदास्वैरिबाह्यापक्ष्येषु च" ३।१।११९॥which means that ग्रह् takes क्यप् when the word so formed signifies a technical term, a dependent person, something external (in this sense it must be Fem.) and one siding with some one :— *e. g.* प्रगृह्यम्, अवगृह्यम्, गृह्यका (*i.e.*गृहीतका), ग्रामगृह्या सेना, नगरगृह्या सेना (ग्रामनगराभ्यां वहिर्भूता), वासुदेवगृह्याः, अर्जुनगृह्याः (तत्पक्षाश्रिताः).
 
-
-
  Dual forms ending in ई, ऊ, and ए, अमी, words ending in शे (ए)which is substituted for case endings in the Vedas, adverbs of one syllable except आङ्, and adverbs ending in ओ, are called प्रगृह्य.There are four cases in which the vowel is optionally called प्रगृह्य. (*vide* Sid. Kau. १.१.१६–१९,).Aप्रगृह्य vowel is not combined with the following vowel ("प्लुतप्रगृह्या अचि नित्यम्" ६।१।१२५॥). Śabarîis compared to a प्रगृह्यपद साध्वीम्, स्पष्टरूपाम्, and अविक्रियाम्shew the properties common to the उपमेय and the उपमान. In connection with शवरी, their sense is clear enough. A प्रगृह्यपद is साधु (good, complete in itself, not mixed with another), स्पष्टरूपम् (having & clear form, its vowel not being mixed up with another, as no Sandhi takes place), and अविक्रियम्(knowing no change caused by Sandhi).
 
 Stanza 63—
-
- 
 
 अवृष्यफलभोजनाम्
 
@@ -12304,21 +10727,15 @@ Stanza 63—
 
 Stanza 64—
 
- 
-
 अमावास्याः.
 
 Malli's reading is अमावस्या. There are two forms of the same word.
-
- 
 
 अपाक्यैः
 
 . Ripened without being cooked.
 
 Stanza 66—
-
- 
 
 आनाय्यम्.
 
@@ -12329,13 +10746,9 @@ Stanza 66—
 
 Stanza 67—
 
- 
-
 प्रणाय्यः.
 
 It either means 'not deserving affection or turned away from the pleasures of the world.' प्रणेय is simply प्रणेतुं योग्यः.
-
-
 
  
 
@@ -12343,15 +10756,11 @@ It either means 'not deserving affection or turned away from the pleasures of th
 
 Stanza 73—
 
- 
-
 वनौकसाम्.
 
 Jaya. derives ओकस् from उच्to collect. 'उच समवाये। अस्मादौणादिकोऽसुम्। पृषोदरादित्वाद्वर्णविपर्ययः॥.' c*f.*the Greek word*Oikos*= a house.
 
 Stanza 75—
-
- 
 
 परिभावीनि.
 
@@ -12359,31 +10768,21 @@ The form is either परिभावीनि or परिभावीणि. �
 
 Stanza 76—
 
- 
-
 हंसकोकिलम्.
 
 Another form is हंसकोकिलाः. The Dvandva compound of words signifying trees, deer, grass, grain, articles used in seasoning food, beasts, birds and that of अश्व and वडव, पूर्व and अपर, and अधरand उत्तर is either समाहारद्वन्द्व or इतरेतरद्वन्द्व. "विभाषा वृक्षमृगतृणधान्यव्यञ्जनपशुशकुन्यश्ववडवपूर्वापराधरोत्तराणाम्" २।४।१२॥*e. g.* (वृक्ष) प्लक्षन्यग्रोधम्, प्लक्षन्यग्रोधाः, (मृग) रुरुपृषतम्, रुरुपृषताः, (तृण) कुशकाशम् कुशकाशाः, (धान्य)व्रीहियवम्, व्रीहियवाः, (व्यञ्जन) दधिघृतम्, दधिघृत, (पशु) गोमहिषम्, गोमहिषाः,(शकुनि) तित्तिरिकपिञ्जलम्, तित्तिरिकपिञ्जलाः, अश्ववडवम्, अश्ववडवौ; पूर्वापरम्, पूर्वापरे अधरोत्तरम्, अधरोत्तरे. It should be noted that in हंसकोकिलम्, हंस and कोकिल must both be taken in the plural number. हंसाश्व कोकिलाश्व हंसकोकिले हंसकोकिला वा. If it is हंसश्चकोकिलश्च, then the compound would be इंसकोकिलौonly. This is taught by the Vârtika ‘बहुप्रकृतिः फलसेनावनस्पतिमृगशकुनिक्षुद्रजन्तुधान्यतृणानाम्।'.
 
 Stanza 80—
 
- 
-
 धायैरामोदमुत्तमम्.
 
 Jaya. explains it differently. 'धायैरामोदमुत्तममामोदं प्रियासङ्गमेन हर्षंयावत् विरहिभ्यो दत्तस्य दुःखस्य धायैः पोषकैरित्यर्थः। उत्तममिति क्रियाविशेषणमुत्तममामोदं धायैः कुसुमानां परिमलं धारयद्भिरिति व्याख्याने अनित्यत्वात्कृत्प्रयोगे कर्मषष्ठ्यभावः।’ Thus according to Jaya, the अन्वय is'उत्तममामोदं (यावत् इति शेषः, अत्यन्तसंयोगे द्वितीया) मादृग्भ्यो दुःखस्यधायैः'.He takes आमोद in the sense of हर्ष. The reason why he adopts this construction is that धाय beinga कृदन्त, the object of it must take the geni-
 
-
-
 tive case according to the Sûtra "कर्त्तृकर्मणोः कृति" २।३।६५॥. On this Sûtra the Kâśikâ says:— 'कृत्प्रयोगे कर्त्तरि च कर्मणि च षष्ठीविभक्तिर्भवति। भवतः शायिका। भवत आसिका। कर्मणि। अपां स्रष्टा। पुरां भेत्ता। वञ्चस्य भर्त्ता। कर्त्तृकर्मणीति किम्। शस्त्रेण भेत्ता। कृतीति किम्। तद्धितप्रयोगे मा भूत्। कृतपूर्वी कटम्। भुक्तपूर्वी ओदनम्। शेष इति निवृत्तं पुनः कर्मग्रहणात्। इतरथा हि कर्त्तरि च कृतीति ब्रूयात्।'. Malli, however, supplies शेषे in the Sûtra, Jaya also considers the use of the genitive with a कृदन्त as अनित्य. Bha. Dî. takes the same view. 'अथ कथं "धायैरामोदमुत्तमम्" इति भट्टिः। अत्राहुः। अनित्यमिदम्। "तदर्हम्" इति निर्देशात्' मनो०. On "तदर्हम्" ५।१।११७॥ we find the following remarks in the Manoramâ:—
-
- 
 
 'तदर्हः
 
 अर्हशब्दः पचाद्यजन्तः तद्योगे कर्मणि षष्ठी प्राप्ता। सौत्रो विभक्तिव्यत्यय इत्येके। अन्ये तु कर्त्तृकर्मणोरिति षष्ठ्या अनित्यत्वे लिङ्गमिदं तेन "धायैरामोदमुत्तमम्" इति भट्टिप्रयोगः समाहित इत्याहुः।'.
-
- 
 
 चेतयः स्याज्ज्वलो न कः
 
@@ -12391,13 +10790,9 @@ tive case according to the Sûtra "कर्त्तृकर्मणोः �
 
 Stanza 81—
 
- 
-
 अवश्याय
 
 =dew. It is formed by affixing ण (अ which causes Vṛiddhi) toअवश्यै. The Sûtra is "श्याऽद्वध्यधास्त्रुसंस्रवतीणवसावहलिहश्लिषश्वसश्च"३।१।१४१॥ श्यै, roots ending in आ, व्यध्, आस्रु, संस्रु, अतीण् (इ with अति),अवसा (सो with अव), अवहृ, लिह्, श्लिष्, and श्वस् take the affix ण in the active sense. 'आकारान्तत्वादेव श्यायतेः प्रत्यये सिद्धे पुनर्वचनं बाधकबाधनार्थम्। उपसर्गे कं ("आतश्चोपसर्गे" ३।१।१३६.*e.g.*प्रस्थः, सुग्लः, सुम्लः) बाधित्वाऽयमेव भवति। अवश्यायः, प्रतिश्यायः। दायः। धायः। व्याधः। आस्रावः। संस्रावः। अत्यायः।अवसायः।अवहारः। लेहः। श्लेषः। श्वासः॥ काशि०. श्यै (1st Conj. Atma.) means to be congealed.
-
- 
 
 चित्तसंस्रावम्.
 
@@ -12405,19 +10800,13 @@ Stanza 81—
 
 Stanza 82—
 
- 
-
 अवहारः.
 
 Malli's reading is अपहारः. The Sûtra "श्याद्व्यध—" containsअवहृ and not अपहृ. For the word अपहार, however, Malli. quotes the
 
-
-
 same Sûtra "श्याद्व्यध—". There must therefore be two readings in the Sûtra अवहृ and अपहृ.
 
 Stanza 84—
-
- 
 
 दृष्ट्वा.
 
@@ -12425,39 +10814,27 @@ When two or more roots have the same agent, त्वा is added to the root wh
 
 Stanza 85—
 
- 
-
 ही.
 
 Alas. 'ही विस्मयविषादयोः दुःखहेतौ च' अने० स० of हेम०.
 
 Stanza 86—
 
- 
-
 हायन.
 
 It is derived from the root हा. "हश्चव्रीहिकालयोः" ३।१।१४८॥teaches the formation of it. ण्युट् (अन, by "युवोरनाकौ" ७।१।१॥The angment य् is affixed as ण्युट् is णित् by "आतो युक् चिण्कृतोः" ७।३।३३॥) is affixed to हा 'to abandon' and हा 'to go' (जहाति and जिहीते) in the active sense, when the words so formed mean व्रीहि (rice) and काल(year. संवत्सर). 'जहात्युदकमिति हायनो व्रीहिः (उदकादधिकवर्धनादुदकं जहाति परित्यज्य वर्धते इत्यर्थः)। जहाति भावानिति हायनो वर्षम्। जिहीते प्राप्नोतीति वा॥सिद्धा० कौ०. 'हायना नाम व्रीहयः। जहत्युदकमिति कृत्वा। काले। हायनः संवत्सरः'जहाति भावानिति।' काशि०. Malli, understands the Sûtra somewhat differently. He forms हायन in the sense of व्रीहिfrom हा 'to abandon' andहायन in the sense of वर्ष from हा 'to go,' applying "यथासंख्यमनुदेशः समानाम्” १।३।१०॥ to the Sûtra "हश्चव्रीहिकालयोः".
-
- 
 
 शारङ्ग
 
 should be taken in the sense of 'deer.' 'शारङ्गश्चातके ख्यातः शबले हरिणेऽपि च' इति तालव्यादावजयः.
 
- 
-
 लावकौ
 
 is the reading of D. There the word should be taken as formed by the active affix अक as in कारक, हारक, दायक, &c. "ण्वुल्तृचौ" ३।१।१३३॥ ण्वुल् being णित् causes Vṛiddhi. लवक is formed by the Sûtra "प्रृसृ (स्रु) ल्वः समभिहारे वुन्” ३।१।१४९॥. The roots प्रु 'to jump' सृ (or स्रु)and लू take the affix वुन् (The Guṇa-making अक) in the sense of समभिहार. समभिहार means 'repetition', and as repetition gives skill, it is to be taken here in the secondary sense of 'doing a thing well.' 'समभिहारग्रहणेन साधुकारित्वं लक्ष्यते। भूयः सहचरात्। यो हि भूयो यां क्रियां
 
-
-
 करोति स तत्र कौशलं लभते इति तस्य साधुकारित्वं गम्यते इत्यर्थः। साधुकारित्वोत्तयाबहुशो दुष्टकरणे न वुन् इति बोध्यम्।' *e. g.* प्रवकः। सरकः (स्रवकः)। लवकः। 'साधुकारिणि वुन्विधानात्सकृदपि यः सुष्ठु करोति तत्र भवति। बहुशो यो दुटं करोति तत्र न भवति।' काशि०.
 
 Stanza 87—
-
- 
 
 प्रणिधि.
 
@@ -12465,15 +10842,11 @@ Stanza 87—
 
 Stanza 89—
 
- 
-
 शोकापनुदम्.
 
 परिमृज् and अपनुद् take the affix क with तुन्द and शोकrespectively as their *upapadas* as objects of these actions when the words so formed mean 'idle', and ‘bringing happiness' respectively.'तुन्दं परिमार्ष्टीति तुन्दपरिमृजोऽलसः'। अन्यत्र तुन्दपरिमार्जः। शोकमपनुदतीति शोकापनुदः सुखस्याहर्त्ता। 'यश्च संसारासारत्वोपदेशेन शोकमपनुदति स शोकापनोदः।.'
 
 Stanza 91—
-
- 
 
 सुरापैः.
 
@@ -12481,27 +10854,19 @@ The Fem. of सुराप is सुरापी, and of सामग, सा�
 
 Stanza 95—
 
- 
-
 सत्त्वमेजयः.
 
 It is formed from एजृ कम्पने (एज् 10th Conj. 'to shake') by affixing खश् (अ) to it, the *upapada*सत्त्व being its object. अरुष्, द्विषत्, and words ending in a vowel take the augment मुम् (म्)when they are used as *upapadas* of a root to which खश् or खच् is affixed. (*vide* notes on C. I St. 1).जनमेजयः is similarly formed.
 
 Stanza 96—
 
- 
-
 उत्तीर्णौ.
 
 The past participle is active here. The Sûtra “गत्यर्थाकर्मकश्लिषशीङ्स्थासवसजनरुहजीर्यतिभ्यश्च" ३।४।७२॥shews that गत्यर्थ roots have त affixed to them in the active sense as well as passive and abstract sense. *e. g.* गतो देवदत्तो ग्रामम्। गतो देवदत्तेन ग्रामः। गतं देवदत्तेन&c. Some of the roots enumerated in the Sûtra are intransitive, but they are mentioned separately; because they are transitve when preceded by prepositions. 'श्लिषादयः सोपसर्गाः सकर्मका भवन्ति तदर्थमे-
 
-
-
 षामुपादानम्।' काशि०. In 'कृच्छ्रं महत्तीर्ण इति प्रियार्हाम्...' रघु० १४.६ तीर्ण has as here an active sense.
 
 Stanza 97—
-
- 
 
 हनूमन्तम्.
 
@@ -12521,23 +10886,15 @@ The word is either हनूमत् or हनुमत्. The affix मत्
 
 किष्कि० का० C. 66.
 
- 
-
 अल्पम्पचान्.
 
 The Sûtra "मितनखे च" ३।२।३४॥teaches that पच्takes खश् when preceded by मित and नख as objects. मितं पचति मितम्पचा ब्राह्मणी। नखम्पचा यवागूः। This Sûtra is given to shew that the*upapada* may be a word which does not mean measure; for the preceding Sûtra "परिमाणे पचः" ३।२।३३॥sanctions खश् when the *upapada* is aपरिमाणवाचक word, as in प्रस्थंपचा स्थाली। द्रोणपचः। खारिम्पचः कटाहः.। On the Sûtra "मितनखे च" the Kâśikâsays:—'अपरिमाणार्थ आरम्भः।'. The चin the Sûtra evidently connects it with the preceding Sûtra "परिमाणेपचः" (scil खश्), “मितनखे च" (पचः खश्). In many Sûtras च is similarly used *e.g.* “भिक्षासेनादायेषु च "३।२।१७॥ preceding "चरेष्टः" ३।२।१६॥"वयसि च" ३।२।१०॥preceding “हरतेरनुद्यमनेऽच् "३।२।९॥" नाडीमुष्टयोश्च”३।२।३०॥preceding "नासिकास्तनयोर्ध्माधेटोः" ३।२\।२९॥. The words मित andनख are not taken asअर्थपर (implying their synonyms also) either in the Kâśikâ or in Kaumudî. Hence Malli, shews his own अरुचि by saying"मितनखे च" इति मितशब्दस्यार्थपरत्वादनुक्तसमुच्चयाच्चकाराद्वाअल्पशब्दोपपदात्पचेःखशित्याहुः’. He refers to Jaya. and other Commentators. Jaya. says'अल्पं पचन्तीति मितनखे चेति मितेत्यर्थग्रहणात् खश्। चकारस्यानुक्तसमुच्चयार्थत्वाद्वा।' This is simply a way to justify the form as it is used by Bhaṭṭi,‘स्थितेषु प्रयोगेषु समर्थनमेतत्' as Mammaṭa puts it.
 
-
-
 Stanza 98—
-
- 
 
 अमितम्पचम्.
 
 Malli. takes this to mean 'liberal' (बह्वन्नदम्). Bharatamallika also explains it as बह्वन्नप्रदम्. Jaya. says it means महासत्रिणम् (a great sacrificer).
-
- 
 
 सर्वभोगीणम्.
 
@@ -12545,29 +10902,21 @@ For the change of न् to ण्*vide* notes on C. IV. St. 10.
 
 Stanza 99—
 
- 
-
 असूर्यम्पश्यया.
 
 It is असमर्थ compound, अ being connected with दृश्and not with सूर्य. *vide* notes on C. IV. St. 21,
 
 Stanza 100—
 
- 
-
 ललाटन्तपम्
 
 = scorching the forehead, very severe, hence standing above all. It is generally used in the literal sense.c*f.* 'सखे माधव ललाटन्तपस्तपति तपनः' Malati, Ac. I; also in Raghu. 'हविर्भुजामेधवतां चतुर्णांमध्ये ललाटन्तपसप्तसप्तिः। असौ तपस्यत्यपरस्तपस्वी नाम्ना सुतीक्ष्णश्चरितेन दान्तः'॥(13, 41).
-
- 
 
 वाली.
 
 There are two words वालिन् and वालि. 'बालिशब्दो नान्तः इदन्तश्च तथा च वाली वालिश्चकथ्यते इति शब्दभेदः' Jaya.
 
 Stanza 101—
-
- 
 
 उग्रम्पश्येन =
 
@@ -12581,19 +10930,13 @@ Stanza 102—
 
 Stanza 104—
 
- 
-
 सर्वङ्कष॰.
 
 कष् is generally used in the sense of 'rubbing' *e. g.*'कण्डूलद्विपगण्डपिण्डकषणोत्कम्पेन संपातिभिः' उत्त० अ० २. 'कषणकम्पनिरस्तमहाहिभिः' Kirâ. 5, 47, where Malli. explains कषणेन as meaning कण्डूयनेन.From ‘rubbing' it comes to mean 'pervading' as here.
 
- 
-
 **सर्वङ्कषयशः शाखम्**
 
 = Having branches consisting of all pervading glory. कष्also means to injure. 'कष हिंसार्थः'. In 'सर्वङ्कषा भगवती भवित-
-
-
 
 व्यतैव' Malati. Ac. I. सर्वङ्कषा means 'all-destroying,' 'all-powerful'. Jaya. explains it as सर्वहरा. The word is formed by the Sûtra "सर्वकूलाभ्रकरीषेषु कषः "३।२।४२॥. कष् takes the affix खच् (अ) when preceded by सर्व, कूल, अभ्र, and करीषas its objects.'सर्वङ्कषः खलः। कूलङ्कषा नदी। अभ्रङ्कषो गिरिः। करीषङ्कषा वात्या।' काशि०.
 
@@ -12609,8 +10952,6 @@ being both mentioned, the figure is समस्तवस्तुविषय�
 
 Stanza 105—
 
- 
-
 वालिभानुम्.
 
 The compound admits of two solutions. वालिःभानुरिव वालिभानुः तम्, in which case it is उपमितसमास, formed according to the Sûtra "उपमितं व्याघ्रादिभिः सामान्याप्रयोगे" २।१।५६॥or वालिरेव भानुःवालिभानुः तम् in which case it is मयूरव्यंसकादि formed by the Sûtra“मयूरव्यंसकादयश्च" २।१।७२॥ The first solution brings about उपमा,the secondरूपक. Here it must be solved in the first way; because we have ऋतुमिव रामम् and not ॠतुमेव रामम्. It must be noted that the उपमित compound takes place only when the common property is not given. In पुरुषो व्याघ्र इव शूरः no compound takes place, because theसामान्यधर्म (शूरः) is given. In वालिभानुः, the common property अप्रधर्ष्यःis understood.
@@ -12621,13 +10962,9 @@ Stanza 106—
 
 Stanza 107—
 
- 
-
 आशितम्भवम्.
 
 आशित must be taken in the active case *(vide*Notes on C. 4 St. 11) आशितः तृप्तः तस्य भवनमाशितम्भवनं तृप्तिः अशनं भोजनमित्यर्थः.
-
- 
 
 उत्क्रुष्टम्, वल्गितम्, शयितम्,
 
@@ -12643,11 +10980,7 @@ are all used as abstract nouns, the Past Par. affix त being added in the sense
 
 &c. somewhat differently. 'पुण्यभाज इमे यतेषां स्वेच्छाविहारिणां चेष्टितमस्माकं तु शोकसन्तप्तानां न किञ्चिदस्तीति'.
 
-
-
 Stanza 109—
-
- 
 
 हृदयङ्गमम्=
 
@@ -12655,13 +10988,9 @@ What is in the heart. गम् takes the affix खच् when preceded by an *u
 
 Stanza 110—
 
- 
-
 अत्यन्तगः
 
 =Destroyer. 'अत्यन्तगः विनाशयिता।' Jaya. In Malli.'s reading, it must be taken to mean 'that has reached the climax'. स्यात्=शक्तोभवेत्. The genitive सङ्क्रन्दनस्य shews संबन्ध. Thus it means ‘your honour would shew his power in connection with Indra, *i. e.* would withstand even Indra'
-
- 
 
 प्रातरुद्यन्.
 
@@ -12669,25 +10998,17 @@ Vâlîis as irresistible as the Sun rising in the morning. Even the rising Sun i
 
 Stanza 111—
 
- 
-
 वरेण तु मुनेः
 
 . Vâli's strength is described in the Râmâyaṇa KishkindhâKâṇda 11th Canto in verses beginning with 'समुद्रात्पश्चिमात्पूर्वं दक्षिणादपि चोत्तरम्। क्लामत्यनुदिते सूर्ये वाली व्यपगतक्लमः॥.' He is described to have a garland given him by his father Indra, which, being put on brought him success on the battle-field 'तमेवमुक्त्वा संक्रुद्धो मालामुत्क्षिप्य काञ्चनीम्। पित्रा दत्तां महेन्द्रेण युद्धाय व्यवतिष्ठत॥.’ The commentator says'एषा हि माला संग्रामजयदा'.
 
-
-
 **Stanza 113—**
-
- 
 
 **पतिघ्नलक्षणोपेताम्.**
 
 Malli.'s reading means 'endowed with ill-ominous signs on the hand, that go to shew the death of her husband.' N. reads पतिध्नीलक्षणोपेताम्. This is the reading of Jaya. who explains it as'पतिंहन्ति यल्लक्षणं तेनापेतामिवेतीवार्थोऽत्र द्रष्टव्यः।'
 
 Stanza 115—
-
- 
 
 आढ्यङ्करण
 
@@ -12703,8 +11024,6 @@ have both the affix ख्युन् (अन) which has the sense of च्व
 
 Stanza 116—
 
- 
-
 प्रियम्भावुकताम्
 
 and
@@ -12715,8 +11034,6 @@ are formed like आढ्यङ्करण andप्रियङ्करण wi
 
 Stanza 118—
 
- 
-
 रामर्त्विक्.
 
 Jaya. gives the same derivation of ऋत्विज् as Malli.; but he rightly says 'इदमृत्विक्शब्दनिर्वचनम्। रूढितस्तु याजयितृषु ब्राह्मणेषु।'.
@@ -12725,21 +11042,15 @@ Jaya. gives the same derivation of ऋत्विज् as Malli.; but he right
 
 Stanza 119—
 
- 
-
 युङ् भियः
 
 = The inspirer of terror, one who inspired terror.
 
 Stanza 126—
 
- 
-
 बान्धवक्रोशिनः.
 
 बन्धुः एव बान्धवः प्रज्ञादित्वात्स्वार्थेऽण्. बन्धु comes under the प्रज्ञादि group, to which अण् is affixed as a स्वार्थवाचक affix by the Sûtra "प्रज्ञादिभ्यश्च" ५।४।३८॥. In the same way we have रक्ष एव राक्षसः। देवता एव दैवतम्। प्रज्ञ एव प्राज्ञः। पिशाच एव पैशाचः। मरुदेव मारुतः। चोर एव चौरः।.
-
-
 
 Stanza 127—
 
@@ -12759,8 +11070,6 @@ Stanza 129—
 
 हन् takes णिनि, with an *upapada* which is its object, when the action of killing is done in the past time and when the word so formed shews censure. 'पितृव्यघाती। मातुलघाती। कुत्सितसंग्रहणं कर्त्तव्यम्। इह मा भूत्। चोरं हतवान्।' काशि०. Jaya. says:—'तत्र कुत्सितग्रहणं कर्त्तव्यमित्युक्तम्। यदि सुग्रीवेण मम विरोधः किं तवायातमिति कुत्सितहननम्।'
 
-
-
 **ब्रह्मघ्नाम्**
 
 . ब्रह्महन् is formed by the affix क्विप्. This affix is added to any root. The Sûtra “ब्रह्मभ्रूणवृत्रेषु क्विप्" ३।२।८७॥must therefore be taken in a limited sense. The Kâsikâ on this runs as follows:—
@@ -12768,8 +11077,6 @@ Stanza 129—
  'कर्मणीति वर्त्तते। ब्रह्मादिषु कर्मसूपपदेषु हन्तेर्धातोः क्विप्प्रत्ययो भवति भूते। ब्रह्महा। भ्रूणहा। वृत्रहा। किमर्थमिदमुच्यते। यावता सर्वधातुभ्यः क्विब्विहित एव। ब्रह्मादिषु हन्तेः क्विब्वचनं नियमार्थम्। चतुर्विधश्चात्र नियम इष्यते। ब्रह्मादिष्वेव हन्तेर्नान्यस्मिन्नुपपदे पुरुषं हतवानिति। ब्रह्मादिषु हन्तेरेव नान्यस्मात्स्यात् ब्रह्माधीतवानिति। ब्रह्मादिषु हन्तेर्भूतकाले क्विबेव नान्यः प्रत्ययः। तथा भूतकाल एव नान्यस्मिन् ब्रह्माणं हन्ति हनिष्यति वेति। तदेतद्वक्ष्यमाणबहुलग्रहणस्य पुरस्तादपकर्षणाल्लभ्यते।'. बहुलम् occurs in the next Sûtra "बहुलं छन्दसि" ३।२।८८. But the Bhâshya does not accept these four limitations. 'ब्रह्मादिष्वेव क्विबेवेति द्विविधो नियम इति भाष्यम्' सिद्धा० कौ०. The Bhâshya proceeds as under :—
 
  'किमर्थं ब्रह्मादिषु हन्तेः क्विब्विधीयते न क्विप्चान्येभ्यो दृश्यत इत्येव सिद्धम्। ब्रह्मादिषु हन्तेः क्विब्वचनं नियमार्थम्। नियमार्थोऽयमारम्भः। ब्रह्मादिष्वेव हन्तेर्भूते क्विव्यथा
-
-
 
 स्यादिति। किमविशेषेण।नेत्याह। उपपदविशेषे एतस्मिंश्व विशेषे। अथ ब्रह्मादिषु हन्तेर्णिनिना भवितव्यम्। न भवितव्यम्। किं कारणम्। उभयतो नियमात्। उभयतो नियमोऽयम्। ब्रह्मादिष्वेव हन्तेर्भूते क्विब्भवति। क्विबेव हन्तेर्भूते ब्रह्मादिष्विति। तथा चोत्तरस्य वचनार्थः। एवं च कृत्वोत्तरस्य योगस्य वचनार्थ उपपन्नो भवति।'
 
@@ -12793,21 +11100,15 @@ In अग्निचित् and सोमसुत् the Kâśikâmentions f
 
 रथचक्रचित्=An arrangement of bricks for fire in the form of a chariot-wheel. Malli. takes अनलेषु in the लक्ष्य sense of 'altars on which fires are kindled'. Jaya, takesरथचक्रचित् in the sense of 'fire for which bricks are arranged in the form of a chariot-wheel.' 'अग्न्यर्थो हि तदाकार इष्टकाचय इत्युच्यते तद्द्वारेणाग्निरपि।' जय०. Malli's interpretation is preferable, अग्न्याख्यायाम् in the Sûtra "कर्मण्यग्न्याख्यायाम्" ३।२।९२॥is explained in a way which supports Malli's explanation. 'अग्न्याख्यायां धातूपपदप्रत्ययसमुदायेन चेदग्न्याख्या गम्यते। ......।आख्याग्रहणं
 
-
-
 रूढिसंप्रत्ययार्थम्। अग्न्यर्थो हीष्टकाचय उच्यते श्येनचिदिति।' काशि०. अग्न्याख्यायाम् = 'अग्न्याधारस्थलविशेषस्याख्यायाम्' सिद्धा० कौ०.
 
 **Stanza 133—**
-
- 
 
 **बुद्धिपूर्वंध्रुवन्न त्वां.**
 
 ध्रुवन्न may be separated into ध्रुवन् न or ध्रुवम् न. ध्रुवन् and द्रुवन्, Malli's reading, have both the same sense, *viz.*आनन्. Taking either, the construction is पिता त्वा खलं द्रु (ध्रु) वन् बुद्धिपूर्वमेव न राजकृत्वा. But with ध्रुवम्, the अन्वय must be खलं त्वा पिता न राजकृत्वातत् बुद्धिपूर्वं ध्रुवम्. In this case the Acc. त्वा is not strictly correct. By the Sûtra "कर्त्तृकर्मणोः कृति" २।३।६५॥the object of the कृदन्त, राजकृत्वन्, must be used in the genitive. Malli, therefore says 'त्वामिति द्वितीया न स्यात्.' In 'धायैरामोदमुत्तमम्' (St. 80), however, Malli., says "कर्तृकर्मणोः कृति" इत्यत्र शेषत्वविवक्षायामेव षष्ठीविधानादिह तदविवक्षायामामोदमिति कर्मणि द्वितीया।'. This view, however, is not quite free from objection. The Kâśikâsays ‘शेष इति निवृत्तम्। पुनः कर्मग्रहणात्।' ( *Vide* Note on St. 80 ). Some commentators divide त्वाinto तुand आ, and understandपिता अखलम्. 'अन्ये तु इति निषेधेआशब्दः स्मरणे पीडायां वा राजकृत्वेत्यत्र तवेत्यर्थाद्गम्यते नञः प्रश्लेषात् अखलमिति मामित्यस्य वक्ष्यमाणस्य विशेषणमित्याहुः।' भर०. This is complicated and awkward.
 
 **Stanza 135—**
-
- 
 
 **दुष्ठुः**
 
@@ -12821,8 +11122,6 @@ In अग्निचित् and सोमसुत् the Kâśikâmentions f
 
 **Stanza 141—**
 
-
-
 **संभविष्यावः**
 
 . The second Future is used in the sense of the Imperfect when the action denoted by the verb is dependant upon the principal verb, which must have the sense of 'to remember' *e.g*. 'अभिजानासि स्मरसि बुध्यसे चेतयसे वा देवदत्त कश्मीरेषु वत्स्यामः.' Here वत्स्यामः means अवसाम. If however the subordinate sentence is introduced by यद्, the second Future can not be used in the sense of the Imperfect. 'अभिजानासि देवदत्त यत्कश्मीरेष्ववसाम.'
@@ -12835,23 +11134,13 @@ In अग्निचित् and सोमसुत् the Kâśikâmentions f
 
 or its synonym is the principal verb, and two verbs depend upon it, the action of one of which indicates that of the other,
 
-
-
 these two verbs may be used either in the 2nd Future or in the Imperfect in the sense of the Imperfect. The two sentences may or may not have been connected by यद्. *e. g*. 'अभिजानासि देवदत्त कश्मीरेषु वत्स्यामस्तत्रौदनं भोक्ष्यामहे' or 'अभिजानासि देवदत्त कश्मीरेष्ववसाम तत्रौदनमभुञ्ज्महि'; or 'अभिजानासि देवदत्त यत्कश्मीरेषु वत्स्यामस्तत्रौदनं भोक्ष्यामहे' or 'अभिजानासि देवदत्त यत्कश्मीरेष्ववसाम तत्रौदनमभुञ्ज्महि’. In the present stanza वास is the indicator of पान.
 
-
-
-
-
 ————————
-
-
 
 CANTO VII.
 
 Stanza 9 —
-
- 
 
 अनपचारिणम्.
 
@@ -12883,8 +11172,6 @@ is of course a better reading than
 
 , When the Loc. is not used, the form will be उपशरदम्.
 
-
-
 Stanza 22—
 
 ** अभङ्गुरप्रज्ञः**
@@ -12913,8 +11200,6 @@ Stanza 22—
 
 which is adopted in the text. 'धरासमुद्रशैलानामिति पाठान्तरम्। अत्र 'बहुष्वनियमः' इति पूर्वनिपातः। यथा वीणाशङ्खदुन्दुभयः।' (जय०).
 
-
-
 **Stanza 28—**
 
 ** कारुः**
@@ -12938,8 +11223,6 @@ which is adopted in the text. 'धरासमुद्रशैलानाम�
 स्यत्,
 
 the termination of the second Future, is used in two ways. It is added to a root which may or may not be connected with another verb as depending upon it. "लृट्शेषे च" ३।३।१३॥ 'शेषः क्रियार्थोपपदादन्यः। शेषे शुद्धे भविष्यति काले चकारात् क्रियायां चोपपदे क्रियार्थायां धातोर्लृट् प्रत्ययो भवति। करिष्यामीति व्रजति। हरिष्यामीति व्रजति। शेषे खल्वपि। करिष्यति। हरिष्यति।' काशि०. In this verse करिष्यन्तः is not connected with any verb, while साधयिष्यामः depends upon आसेदुः, करिष्यन्त इत्यत्र शुद्धे भविष्यदर्थे लृट्।साधयिष्याम इत्यत्र क्रियार्थक्रियोपपदे भविष्यदर्थे लृट्।
-
-
 
 **Stanza 34—**
 
@@ -12970,8 +11253,6 @@ Mark the difference between निश्चय and निश्चाय. नि
 ** आशिताः**
 
 = Satisfied (those that have eaten their fill ). It is active in sense. (*vide* notes on C. IV. St. 11). The use of the genitive with the word is to be understood by the fact that षष्ठीसमास is prohibited with it by the Sûtra "पूरणगुणसुहितार्थसदव्ययतव्यसमानाधिकरणेन"२/२/११. "सुहिता-
-
-
 
 र्थास्तृप्त्यर्थाः। फलानां सुहितः।'. If the genitive case were not used with the word, there would be no meaning in prohibiting षष्ठीसमासwith it.
 
@@ -13011,8 +11292,6 @@ means क्रमप्राप्तस्यानतिपातः, *i.e.*
 
 . उपशाय is used in the sense of 'sleeping by turns,’ while उपाशयsimply means 'sleeping near.' It does not convey the
 
-
-
 idea of पर्याय. Similarly विशाय = sleeping by turns, while विशय = संशय (doubt).
 
  **फलोच्चायः**
@@ -13023,15 +11302,11 @@ idea of पर्याय. Similarly विशाय = sleeping by turns, while
 
 Stanza 43—
 
-
-
 **निग्राहः**
 
 = Curse, imprecation. अवग्राह also means the same. 'अवग्राहो हन्त ते वृषल भूयात्। निग्राहो हन्त ते वृषल भूयात्। आक्रोशे इति किम्। अवग्रहः पदस्य। निग्रहश्चोरस्य।' काशि०.
 
 Stanza 45 —
-
- 
 
 **मासतमादह्नः प्राक्**
 
@@ -13055,16 +11330,12 @@ Stanza 52—
 ताराङ्गदादिसहितः प्लवगः पवनात्मजः।  
 अगस्त्याचरितामाशां दक्षिणां हरियूथपः।
 
-
-
 पश्चिमां च दिशं घोरां सुषेणः प्लवगेश्वरः।  
 प्रतस्थे हरिशार्दूलो दिशं वरुणपालिताम्॥' किष्कि० सं० ४५
 
  Thus we see that शतबलि, विनत, हनुमत्, and सुषेण were sent respectively to the northern, eastern, southern, and western directions.
 
 **Stanza 57—**
-
-
 
 निगदान्
 
@@ -13076,13 +11347,9 @@ both mean 'sounds', 'words'. गद्, नद्, पठ्, and स्वन�
 
 **Stanza 58—**
 
-
-
 **पण**
 
 =Wealth. 'पणो माने वराटानां मूल्ये कार्षापणे धने। द्यूते विक्रय्यशाकादौ बद्धमुष्टौ ग्लहे भृतौ' धरणी.
-
-
 
 क्लामेन
 
@@ -13090,23 +11357,17 @@ both mean 'sounds', 'words'. गद्, नद्, पठ्, and स्वन�
 
 **Stanza 59—**
 
-
-
 **समजेन**
 
 . अज् takes the affix अप्when preceded by सम् and उद्inthe sense of 'a collection (of beasts)' and 'the driving (of beasts)’.'समजः पशूनां सङ्घः। उदजः पशूनां प्रेरणम्। समाजो ब्राह्मणानाम्। उदाजो क्षत्रियाणाम्' (सिद्धा० कौ०).
 
 **Stanza 60—**
 
-
-
 ग्लहम्
 
 . ग्लह = stake. The word occurs in Mâgha 'व्यात्युक्षीमभिसरणग्लहामदीव्यन्’ ८-३२. There Malli.'s remarks on ग्लह are :— "अक्षेषु ग्लहः” इति ग्रहेरेवाक्षपणे लत्वनिपातः। अप्प्रत्ययस्तु "ग्रहवृदृनिश्चिगमश्च" इत्येव सिद्ध इति केचित्। अन्ये तु ग्लहिंप्रकृत्यन्तरमङ्गीकृत्याप्प्रत्ययस्यैव निपातो घञपवादीत्याहुः।'
 
 **Stanza 63—**
-
-
 
 **अन्तर्घने**
 
@@ -13116,11 +11377,7 @@ both mean 'sounds', 'words'. गद्, नद्, पठ्, and स्वन�
 
 उद्धन is generally a large wooden block on which carpenters place their wood while fashioning it. 'यस्मिन् काष्ठे
 
-
-
 अन्यानि काष्ठानि स्थापयित्वा तक्षन्ते तदुद्धनः' सिद्धा० कौ०. Amara also explains the word similarly 'निधाय तक्ष्यते यत्र काष्ठेकाष्ठं स उद्धनः' (अम०). But our commentator explains it to mean 'an iron block for blacksmiths to fashion their iron upon'. We have लो (or लौ) होद्धन and not काष्ठोद्धनin the text. It is this that has led Malli, to explain it thus .
-
- 
 
 अपघन
 
@@ -13133,8 +11390,6 @@ is formed by affixing अप् to अपहन् and changing it to घन्.
 अयोधन (अयो हन्यतेऽनेन ) means 'a hammer'. The word is so used in the Raghu. 'अयोघनेनाय इवाभितप्तं वैदेहिबन्धोर्हृदयं विदद्रे। १४, ३३. Here, however, Malliexplains it as 'लोहघण्टा'.
 
 **Stanza 64 —**
-
-
 
 **अव्याधि**
 
@@ -13161,8 +11416,6 @@ This was Maya who was slain by Indra, when he was attached to the damsel Hemâ. 
 पुरा दानवमुख्यानां विश्वकर्मा बभूव ह॥  
 येनेदं काञ्चनं दिव्यं निर्मितं भवनोत्तमम्।  
 स तु वर्षसहस्राणि तपस्तप्त्वामहद्वने॥
-
-
 
 पितामहाद्वरं लेभे सर्वमौशनसं धनम्।  
 विधाय सर्वं बलवान् सर्वकामेश्वरस्तदा॥  
@@ -13202,8 +11455,6 @@ Stanza 79—
 
 अनि is affixed to a root preceded by नञ् when imprecation is implied; *e.g*'अकरणिस्ते वृषल भूयात्'। 'अजीवनिस्ते शठ भूयात्।'.
 
-
-
 **Stanza 85—**
 
  उदङ्कः.
@@ -13240,8 +11491,6 @@ to mean वानरगणः and supplying एषः पक्षी as the sub
 
 . कौशल्यायानिis formed by affixing फिञ् in the sense of अपत्य to कोसल. Before affixing the termination कोसल is changed to कौसल्य. Jaya's derivation 'कौशल्याया अपत्यं कौशल्यायनी रामः' is not supported by the Kâśika, Kaumudî, or Bhâshya. 'परमप्रकृतेरेवायं प्रत्यय इष्यते (*i.e*. though the Sûtra is "कौसल्यकार्मार्याभ्यां च" ४।१।१५५॥, the affix फिञ् is not added to कौसल्य and कार्मार्थ but to their original basis कोसल and कर्मार)। कोसलस्यापत्यं कर्मारस्यापत्यमिति। प्रत्ययसन्नियोगेन तु प्रकृतिरूपं निपात्यते। तथा च स्मृत्यन्तरम्। दगुकोसलकर्मारछागवृषाणां युद्धादिष्टस्य। दागव्यायनिः। कौसल्यायनिः। कार्मार्यायणिः। छाग्यायनिः। वार्ष्यायनिः।' काशि०. 'परमप्रकृतेरेवायमिष्यते। प्रत्ययसंनियोगनप्रकृतिरूपं
 
-
-
 निपात्यते। कुशलस्यापत्यं कौशल्यायनिः। कर्मारस्यापत्यं कार्मार्यायणिः। छागवृषयोरपि। छाग्यायनिः। वार्ष्यायणिः। 'सिद्धा० कौ० कोसल and कोशल are two forms of the same word. The Kâśikâreads 'कौसल्य' in the Sûtra "कौसल्यकार्मार्याभ्यां च" while Bha. Dî. reads 'कौशल्य'.
 
 ** कौमारीम्**
@@ -13272,11 +11521,7 @@ Malli. takes this to mean यां धनदं (*i.e.*धनदाद्) ग�
 
 = We wish you may go. By the Sûtra "आशंसायां भूतवच्च" ३।३।१३२॥ the Aorist is optionally used in the sense of the Future when hope is implied. 'आशंसनमाशंसा। अप्राप्तस्य प्रियार्थस्य प्राप्तुमिच्छा। तस्याश्च भविष्यत्कालो विषयः।तत्र भविष्यति काले आशंसायां गम्यमानायां धातोर्वा भूतवत्प्रत्यया भवन्ति। चकाराद्वर्त्तमानवच्च। उपाध्यायश्चंदागमत्। आगतः। आगच्छति। आगमिष्यति। एते व्याकरणमध्यगीष्महि। एते व्याकरणमधीतवन्तः। अधीमहे। अध्येष्यामहे। सामान्यातिदेशे विशेषानतिदेशाल्लङ्लिटौ न भवतः। आशंसायामिति किम्। आगमिष्यति।'
 
-
-
 काशि०. Thus the Aorist, the Present, and the Future are used when hope is implied.
-
-
 
 मोदयध्वम्
 
@@ -13291,8 +11536,6 @@ Malli. takes this to mean यां धनदं (*i.e.*धनदाद्) ग�
 ** अधिशयितम्.**
 
 Here the past participle termination त has the sense of अधिकरण (place). Instransitive roots, and roots implying motion and eating take the past participle affix तin the sense ofअधिकरणin addition to its respective senses in connection with them. 'ध्रौव्यार्था अकर्मकाः प्रत्यवसानार्था अभ्यवहारार्था इति स्वनिकायप्रसिद्धिः। ध्रौव्यगतिप्रत्यवसानार्थेभ्यो यः क्तो विहितः सोऽधिकरणे भवति। चकाराद्यथाप्राप्तं च। ध्रौव्यर्थेभ्यः कर्तृभावाधिकरणेषु। गत्यर्थेभ्यः कर्त्तृकर्मभावाधिकरणेषु। प्रत्यवसानार्थेभ्यः कर्मभावा-
-
-
 
 धिकरणेषु। ध्रौव्यार्थेभ्यस्तावत्। आसितो देवदत्तः। आसितं तेन। इदमेषामासितम्। गत्यर्थेभ्यः। यातो देवदत्तो ग्रामम्। यातो देवदत्तेन ग्रामः। यातं देवदत्तेन। इदमेषां यातम्। प्रत्यवसानार्थेभ्यः। भुक्त ओदनो देवदत्तेन। देवदत्तेन भुक्तम्। इदमेषां भुक्तम्। कथं भुक्ता ब्राह्मणाः पीता गाव इति। अकारो मत्वर्थीयः। भुक्तमेषामस्ति पीतमेवामस्तीति।' काशि०. Malli. explains पीतin पीतप्रतिबद्धवत्साम् and विदितः in 'स वर्णिलिङ्गी विदितः समाययौ' similarly.
 
@@ -13317,8 +11560,6 @@ The past participle affix त has here an active sense. 'द्युतित�
 It must be taken as सप्तमीतत्पुरुष, as षष्ठीतत्पुरुष is prohibited by "न निर्धारणे"॥No compound takes place between नृणाम् and श्रेष्ठः in नृणां द्विजः श्रेष्ठः. But we have the compound पुरुषोत्तमः. How is this then to be explained ? 'अथ कथं पुरुषोत्तम इति। यस्मान्निर्धार्यते यश्चैकदेशो निर्धार्यते यश्च निर्धारणे हेतुरेतत्त्रितयसंनिधाने सत्येवायं निषेध इति "द्विवचनविभज्योपपद—" इति सूत्रे कैयटः। यद्वा पुरुषेषु उत्तमः इति "संज्ञायाम्" इति निर्धारणसप्तम्याः समासः। न चैवं "न निर्धारणे" इति व्यर्थम्। स्वरे भेदात्। सप्तमीसमासे हि पूर्वपदप्रकृतिस्वरः। षष्ठीसमासे त्वन्तोदात्तत्वं स्यात्।' मनो० तरुमृमोत्तमम् is not a संज्ञा; सप्तमीतत्पुरुष compound should therefore be formed by detaching the part सप्तमी from the whole Sûtra, "सप्तमी शौण्डैः" २।१।४०॥and understanding it to mean that a word in the locative case can be compounded with any word having a case-ending (सप्तम्यन्तं सुबन्तेन सह समस्यते) 'तरुमृगेषु वानरेषूत्तममिति सप्तमीति योगविभागात्सः।' जय०.
 
 ----------------
-
-
 
 CANTO VIII.
 
@@ -13352,8 +11593,6 @@ The Âtma. here shews कर्मव्यतिहार, *i.e.* exchange of a
 
 . Jaya, says :—'तस्य हरेर्गच्छतः स्वदेहस्याल्पतां कर्त्तुं योऽवसरो भावी तत्र समुद्रो नातिशयधैर्यं कृतवान् तेन तस्य धैर्यं न जितं तदानीं तस्योद्धतकल्लोलत्वात्। अपिशब्दाच्च हनूमानपि समुद्रस्य शान्तत्वं कर्त्तुं योऽवसरो भावी तत्र नातिशयधैर्यं कृतवान्। तेन तस्य धैर्यं वा न जितम् तदानीं तस्य विपुलकायत्वात् ।
 
-
-
 सदेवं हनूमतः समुद्रो हनूमानपि समुद्रस्य धैर्यंन व्यतिजिग्ये नाभिबभूव। एकवचनस्य प्रत्येकाभिसंबन्धात्।'.
 
 **Stanza 5—**
@@ -13369,8 +11608,6 @@ The Âtma. here shews कर्मव्यतिहार, *i.e.* exchange of a
 Here also there is कर्मव्यतिहार, but the root does not take Âtma terminations; because अन्योन्यम् is used. When अन्योन्य, इतरेतर, or परस्पर is used in connection with a verb, which shews कर्मव्यतिहार, the root does not Atma, terminations. The कर्मव्यतिहार is well shewn by Jaya. 'तत्रोदन्वतः शब्दकरणाद्यो भीषणशब्दमिश्रणावसरो भावी तत्र राक्षसी म्रियमाणा शब्दान् भीषणानुदन्वच्छब्वैर्युयाव। राक्षस्याः शब्दकरणाद्यो भीषणशब्दमिश्रणावसरो भावी तत्रोदन्वाननिलोद्धूतः शब्दान् भीषणान् राक्षसीशब्दैर्युयाद्।'.
 
 **Stanza 7—**
-
-
 
 **स्वाशितम्भवम्**.
 
@@ -13393,8 +11630,6 @@ Here also there is कर्मव्यतिहार, but the root does not t
 
 पूर्वं कृतयुगे तात पर्वताः पक्षिणोऽभवन्।  
 तेऽपि जग्मुर्दिशः सर्वा गरुडा इव वेगिनः॥
-
-
 
 ततस्तेषु प्रयातेषु देवसङ्घाः सहर्षिभिः।  
 भूतानि च भयं जग्मुस्तेषां पतनशङ्कया॥
@@ -13429,13 +11664,9 @@ Here also there is कर्मव्यतिहार, but the root does not t
 
 **Stanza 15—**
 
-
-
 **आघ्नानः**
 
 **.**The Âtma, form is used; because the root is here intransitive; the object being not desired to be expressed 'धातोरर्थान्तरे वृत्ते धात्वर्थेनोपसंग्रहात्। प्रसिद्धेरविवक्षातः कर्मणोऽकर्मिका क्रिया॥''.
-
-
 
 **अलातैः**
 
@@ -13446,8 +11677,6 @@ Here also there is कर्मव्यतिहार, but the root does not t
 ** संशृणुष्व**.
 
 The portion of the Com., referring to Kaumudt, *viz.*'कौमुद्यां तु समो गमिकच्छिभ्यामिति पाठः। तदा तत्रत्यवार्त्तिकेनात्मनेपदम् ॥', is
-
-
 
 not found in the Mss. of the Com.lying in the office of the Theosophical Society in Madras. It is an interpolation *(vide* Intro.*).*
 
@@ -13493,8 +11722,6 @@ Stanza 26—
 
 . ज्ञा with सम् or प्रति takes Âtma. when the sense is other than आध्यान (anxious remembrance, thought or meditation),
 
-
-
 प्रत्यज्ञासीत् has the sense of आध्यान and is therefore Para.Jaya. reads प्रत्यज्ञास्त. 'प्रत्यज्ञास्त प्रतिज्ञातवानिस्वर्थः।...... .। आध्यानं 'चोत्कण्ठनम्।'. 'आध्यान is explained in the Kâśikâas उत्कण्ठा, स्मरणम्'
 
 **Stanza 31—**
@@ -13504,8 +11731,6 @@ Stanza 26—
 . 'गावोऽनेका वाचस्तिष्ठन्त्यस्यां गोष्ठी।'
 
 **Stanza 32—**
-
-
 
 **संप्रायच्छन्त बन्दीभिः**
 
@@ -13531,8 +11756,6 @@ Stanza 26—
 ** ताभ्योऽशप्सत कामिनः**
 
 = Lovers convinced them on oath, asseverated to them. शप् governs the dative of the person who is desired to be informed. "श्लाघह्नुङ्स्थाशपां ज्ञीप्स्यमानः" १।४।३४॥ 'ज्ञीप्स्यमानः ज्ञपयितुमिष्यमाणो बोधयितुमभिप्रेतः। देवदत्ताय श्लाघते। देवदत्तं श्लाघमानस्तां श्लाघां तमेव ज्ञपयितुमिच्छतीत्यर्थः। एवं देवदत्ताय ह्नुते। देवदत्ताय तिष्ठते।
-
-
 
 देवदत्ताय शपते।' स्था governs the dative in the sense of ‘disclosing one's mind', 'तुभ्यं तिष्ठामहे वयम् ' C. VIII. St. 12.
 
@@ -13567,8 +11790,6 @@ Stanza 26—
 **.** समाज and समज्याMalli's reading have both the same sense, *i.e.* party, convivial party. 'पशूनां समजोऽन्येषां समाजः' अम० and 'समज्या परिषद्गोष्ठी सभासमितिसंसदः। आस्थानी क्लीबमास्थानं स्त्रीनपुंसकयोः सदः॥' अम०.
 
  The *Utprekshâ*is well explained by the Commentator.
-
-
 
 **Stanza 40—**
 
@@ -13609,8 +11830,6 @@ Stanza 26—
 **उद्यच्छमानाभिः**
 
 **.** Malli, says that the Sûtra "समुदाङ्भ्यो यमोऽमन्थे” १।३।७५॥refers to the transitive यम्. In the verse यम् is intransitive and therefore the Âtma. is questionable. The root is used in Raghu. C. XVI. St. 29 'उद्यच्छमाना गमनाय पश्चात् पुरो निवेशे पथि चव्रजन्ती'. ThereMalli says:—'उद्यच्छमानोद्योगं कुर्वती। "समुदाङ्भ्यो यमोऽग्रन्थे" इत्यस्य सकर्मकाधिकारत्वादात्मनेपदम्॥
-
-
 
  The definitions of लीला, किलकिञ्चित, and विभ्रम, given by Malli. are from Dhanaṅjaya's Daśarûpa. लीला is defined there as 'प्रियानुकरणं लीला मधुराङ्गविचेष्टितैः'. Viśvanâtha in his Sâhityadarpaṇa defines it as 'अङ्गैर्वेशैरलंकारैः प्रेमभिर्वचनैरपि। प्रीतिप्रयोजितैर्लीलां प्रियस्यानुकृतिं विदुः॥'.The following instance is given to illustrate it :—
 
@@ -13656,8 +11875,6 @@ Stanza 26—
 
  लीला, किलकिञ्चित, and विभ्रम are among the natural amorous gestures of women. They are ten in all,
 
-
-
 'लीला विकासो विच्छित्तिर्विभ्रमः किलकिञ्चितम्।  
 मोट्टायितं कुट्टमितं विव्वोको ललितं तथा।  
 विहृतं चेति विज्ञेया दश भावाः स्वभावजाः॥'दश० २.३०.
@@ -13687,8 +11904,6 @@ Stanza 26—
 ** नर्त्तयमानवत्**
 
 . The causals of पा, दम्, आयम्, आयस्, परिमुह्, रुच्, नृत्, वद्, and वस् take Âtma. They form an exception to the two Sûtras “निगरणचलतार्थेभ्यश्च" (१।३।८७॥and "अणावकर्मकाच्चित्तवत्कर्त्तृकात्” १।३।८८॥. The Sûtra is “न पादम्याङद्यमाङ्यसपरिसुहरुचिनृतिवदवसः॥ १।३।८९॥. The
-
-
 
 Kâśika says:—'पूर्वेण योगद्वयेन कर्त्रभिप्रायक्रियाफलविवक्षायामात्मनेपदापवादात्परस्मैपदं विहितं तस्य प्रतिषेधोऽयमुच्यते। यत्कर्त्रभिप्रायविषयमात्मनेपदं तदवस्थितमेव न प्रतिषिध्यते।’
 
@@ -13722,8 +11937,6 @@ The dative is connected with अशप्त and निह्नुवानः.
 
 . The Commentator reads अभ्यसूयत. Jaya derives असूयत from सू 4th Conj. Âtma, 'क्रुध्यतिसूयत्योर्दिवादिकयोरुदात्तेन्ङितोर्लङि प्रयोग
 
-
-
 क्रुधद्रुहेत्यादिना संप्रदानम्।’असूथत may better be taken as a denominative from असू. Because the दिवादि सू means 'to give birth'षूङ्प्राणिप्रसवे'. 'असु उपतापे। असू। असूञ् इत्येके। अस्यति। असूयति। असूयते।' सिद्धा० कौ० असु and असू are in the कण्ड्वादिgroup and hence य is added to them by "कण्ड्वादिभ्यो यक्" ३।१।२७॥.
 
 **Stanza 76—**
@@ -13748,8 +11961,6 @@ The dative is connected with अशप्त and निह्नुवानः.
 
 'त्वत्पादनखरत्नानि यो रञ्जयति यावकैः।  
 इन्दुंचन्दनलेपेन पाण्डुरीकुरुते हि सः॥'
-
-
 
  An instance of आर्थी निदर्शना is :—
 
@@ -13786,8 +11997,6 @@ Stanza 93—
 
  'संवत्सरेणेति। एषः श्लोकः प्रक्षिप्तः। उत्तरश्लोकेन पुनरुक्तश्च। अत एव कैश्विन्न व्याख्यातश्च। तथापि व्याख्यायतेऽस्माभिः। दुःखशीलास्तपस्विन्योऽपि पुंसा प्रार्थिताः सत्यः संवत्सरेण मार्दवं वश्यतां यान्ति। न परं प्रार्थ्यन्त इत्यर्थः॥ "अपवर्गे तृतीया"
 
-
-
 इति कालाध्वनोरत्यन्तसंयोगे तृतीया॥ फलसिद्धौक्रियासमाप्तिरपवर्गः। दोग्ध्र्यः दोहनशीलाः बालापत्याःस्तन्यशोषणाद्भीरव इत्यर्थः। ताः सत्स्त्रियः साध्व्योऽपि पुंसा स्वपतिना प्रार्थिताख्यहान्मार्दवं यान्ति॥ “सप्तमीपञ्चम्यौ कारकमध्ये" इति पञ्चमी। पुंसा स्त्रिय इति कर्त्तृकर्मकारकमध्यवर्त्तित्वात् त्र्यहादित्यस्येति॥.
 
 **Stanza 95—**
@@ -13816,13 +12025,9 @@ Words shewing time and way (काल and अध्वन्) are used in the ab
 
 **Stanza 103—**
 
-
-
 **ऋणाद्बद्धः.**
 
 When a word denoting ऋण (debt) is not used as agent, but as हेतु (cause), it is used in the ablative case. "अकर्त्तर्यृणे पञ्चमी" २।३।२४॥This Sûtra is an अपवाद to the preceding Sûtra "हेतौ” २।३।२३॥ which teaches the use of the instrumental case with a word denoting हेतु. On "अकर्त्तर्यृणे पञ्चमी" the Kâśikâsays :—तृतीयापवादो योगः। शताद्बद्धः।
-
-
 
 सहस्राद्बद्धः। अकर्त्तरीति किम्। शतेन बन्धितः। शतमृणं च भवति प्रयोजकत्वाच्च कर्त्तृसंज्ञम्।'
 
@@ -13863,15 +12068,11 @@ The mountain माल्यवत् is spoken of in the Uttararamâcharita. '�
 
  रक्ष इति॥ घोरेषु भयंकरेषु रक्षोविद्वत्सु विद्वद्राक्षसेषु साधून्साधुवृत्तीन्मारयितृषु घातुकेष्वपि निपुणान् दक्षात् प्रतीकारसमर्थान्॥ "साधुनिपुणाभ्यामर्चायां सप्तम्यप्रतेः"
 
-
-
 इति सप्तमी॥ आत्ममायासु विषये प्रियान्। विषयसप्तमी। ईदृशान् संजानानः पश्यन्॥ "संप्रतिभ्यामनाध्याने" इति जानातेरात्मनेपदम्॥ अवसम्। प्रक्षिप्तमेतत्॥.
 
 **Stanza 119—**
 
  This Stanza is found only in T., G., and Com.
-
- 
 
 **जानीष्व प्रत्यभिज्ञानस्य**
 
@@ -13896,8 +12097,6 @@ The mountain माल्यवत् is spoken of in the Uttararamâcharita. '�
 
  भाववचनानामिति किम्। नदी कूलानि रुजति। अज्वरेरिति किम्। चौरं ज्वरयति ज्वरः॥' काशि०.
 
-
-
  In Malli's reading कपीनां भीरु विक्रमाः, विक्रमाः, a abstract noun, is the subject of रोक्ष्यन्ति. This, therefore, is a better reading than that of the text, where to apply the Sûtra, we have to understand that विक्रम is the predominent word. 'भीमविक्रमा इति गुणप्रधानो निर्देशः। ततश्चविक्रमे रुजः भावकर्त्तृकत्वात् "रुजार्थानां भाववचनानामज्वरेः" इति षष्ठी॥ जय०.
 
  धृत्या नाथस्व
@@ -13905,8 +12104,6 @@ The mountain माल्यवत् is spoken of in the Uttararamâcharita. '�
 . May you bless yourself with fortitude. May you be blessed with it.
 
 **Stanza 122—**
-
- 
 
 **प्राणानामपणिष्टायम्**
 
@@ -13920,13 +12117,7 @@ The mountain माल्यवत् is spoken of in the Uttararamâcharita. '�
 
  Malli.'s readings in the 2nd and 3rd lines make the अश्वललित metre regular. *i. e*. consisting of 23 letters, having the first *caesura* after eleven letters and the second after twelve more letters (शिवार्कयति).
 
-
-
-
-
 —————
-
-
 
 CANTO IX.
 
@@ -13946,21 +12137,15 @@ Malli. takes it as मयूरव्यंसकादि and says the figure i
 
 . फाण्ट a kind of decoction easily prepared. It is explained in the Kâśika as 'यदशृतमपिष्टं च कषायमुदकसंपर्कमात्राद् विभक्तरसमीषदुष्णं तत्फाण्टम्। तदल्पप्रयत्नसाध्यत्वादनायासेन लक्ष्यते।' 'क्षणमौषधजातमुष्णोदके प्रक्षिप्य सद्योऽभिषुत्य यत्पीयते तत्फाण्टम्।' 'माधवस्तु नवनीतभावात्प्रागवस्थापन्नं द्रव्यं फाण्टमिति 'तद्वै नवनीतं भवति घृतं देवानां फाण्टं मनुष्याणाम्' इति वेदभाष्ये शतपथश्रुतिव्याख्यायामाह।'. The Sûtra which explains the word is "क्षुब्वस्वान्तध्वान्तलग्नम्लिष्टविरिब्धफाण्टबाढानि मन्थमनस्तमःसक्ताविस्पष्टस्वरानायासभृशेषु” ७।२।१८॥ क्षुभ् forms क्षुब्ध as its Past Part in the sense of मन्थ. 'क्षुब्ध इति भवति मन्याभिधानं चेत्। क्षुब्धो मन्थः। क्षुभितमन्यत्। क्षुभितं मन्थेन क्षुब्धो गिरिः नदीत्येवमाद्युपमानाद्भविष्यति।' काशि०. The two words with their two senses are found in 'शोभैव मन्दरक्षुब्धक्षुभिताम्भोधिवर्णना' (माघ.२. १०७ ) स्वन् forms स्वान्त in the sense of 'the mind'. 'स्वान्तमिति मनोभिधानं चेत्। स्वनितमन्यत्। स्वनितो मृदङ्गः। स्वनितं मनसा।'. ध्वन् has ध्वान्त in the sense of 'darkness'. 'ध्वान्तमिति भवति तमोभिधानं चेत्। ध्वनितमन्यत्। ध्वनितो मृदङ्गः। ध्वनितं मनसा।' लग् has लग्न in the sense of 'attached'. 'लग्नमिति भवति सक्तं चेत् लगितमन्यत्।' म्लेच्छ्has म्लिष्ट in the sense of 'indistinct'. 'म्लिष्टमिति भवति अविस्पष्टं चेत्। म्लेच्छितमन्यत् । इत्वमप्येकारस्य निपातनादेव।' विरेभ्has विरिब्ध in the sense of 'sound'. 'विरिब्ध-
 
-
-
 मिति स्वरश्चेत्। विरेभितमन्यत्। रेभृ शब्द इत्यस्यैतन्निपातनम्'। फण् has फाण्ट in the sense of ‘a decoction easily prepared'. 'फाण्टमिति भवत्यनायासश्चेत्। फणितमन्यत्। बाह् has बाढ in the sense of 'excessive'. बाढमिति भवति भृशं चेत्। वाहितमन्यत्। बाहप्रयत्न इत्यस्य धातोरेतन्निपातनम्। अतिशयश्च भृशमिहोच्यते।'.
 
 **Stanza 18—**
-
-
 
 **अतिदृढान्**
 
 **.** दृढ has the sense of स्थूल and बलवत्. It is the Past Participle of दृह् or दृंह्. 'दृह दृहि वृद्धौ। दृहितो दृंहितोऽन्यः।' धृष् and शस् form धृष्ट and शस्त in the sense of 'impudent'. In another sense the forms are धर्षित and शसित. परिवृह्or परिवृंह् (वृह वृहि वृद्धौ ) has परिवृढ in the sense of ‘master' and परिवृहित or परिवृंहित in another sense. कष् forms कष्ट when it means 'woful, impenetrable' 'कष्टं दुःखं तत्कारणं च। स्यात्कष्टं कृच्छ्रमाभीलम्। कष्टो मोहः। कष्टं शास्त्रम्।दुरवगाहमित्यर्थः। कषितमन्यत्। 'घुष् has घुष्ट in the sense of 'rubbed' or 'sounding'. 'घुष्टा रज्जुः। घुषितं वाक्यम्। शब्देन प्रकटीकृताभिप्रायमित्यर्थः।'.
 
 **Stanza 19—**
-
-
 
 **वृत्तशस्त्रान्.**
 
@@ -13970,21 +12155,15 @@ Malli. takes it as मयूरव्यंसकादि and says the figure i
 
 **Stanza 20—**
 
-
-
 **रुषितो रुष्टान्.**
 
 रुष्, अम्, त्वर्, संघुष्, and आस्वन् have the augment इ optionally prefixed to त. *e.g*. रुषितः। रुष्टः। अमितः। आन्तः। त्वरितः। तूर्णः। संघुषितः। संघुष्टः। 'संपूर्वस्य घुषेरविशब्दनेऽपि परत्वादयमेव विकल्पो भवति।' आस्वान्तः। आस्वनितः। 'आस्वान्तो देवदत्तः। आस्वनितो देवदत्तः। आस्वान्तं मनः। आस्वनितं मनः। आङ्पूर्वस्य स्वनेर्मनोऽभिधानेऽपि परत्वादयं विकल्पः क्षुब्धस्वान्तेति निपातनं बाधते।'
 
 **Stanza 21—**
 
-
-
 **आस्वान्ताशेषदिक्**
 
 = In which all the quarters were resounded. Malli's reading is आस्वान्ताशेषककुभम्. The समासान्त is to be explained by detaching 'अच्' from the Sûtra “अच् प्रत्यन्ववपूर्वात्सामलोम्नः" ५।४।७५॥ 'कृष्णोदक्पाण्डुपूर्वाया भूमेरच् प्रत्ययः स्मृतः। गोदावर्याश्च नद्याश्च संख्याया उत्तरे यदि॥ कृष्णभूमः। पाण्डुभूमः। उदग्भूमः। पञ्चनदम्। सप्तगोदावरम्। नदीभिश्चेत्यव्य-
-
-
 
 वीभावः। भूमेरपि संख्यापूर्वाया अच् प्रत्यय इष्यते। द्विभूमः प्रासादः। त्रिभूमः। दशभूमकं सूत्रम्। अन्यत्रापि च दृश्यते। पद्मनाभः। ऊर्णनाभः। दीर्घरात्रः। समरात्रः। अरात्रः। तदेतत्सर्वमिह योगविभागं कृत्वा साधयन्ति॥' काशि०.
 
@@ -14026,8 +12205,6 @@ It conveys the same sense that हृषीष्ठाः has. ‘ध्वृ�
 
 In the case of roots स्मि, पू, ऋृ, अञ्ज्, and अश्, the स् of the Desîtakes the augment इ. *e.g.* सिस्मयिषते, पिपविषते, अरिरिषति, अञ्जिजिषति, and अशिशिषते ("स्मिपूङ्रञ्ज्वशां सनि" ७।२।७४॥). Onthis Sûtra the Kâśikâsays :— 'ङकारग्रहणं पूञो मा भूत्। पुपूषति इत्यव तस्यभवति। अशेरूदितोग्रहणादश्रोतेर्नित्यमिडागमोऽस्त्येव॥'
 
-
-
 **चिकरिषोः.** कॄ, गॄ, दृङ् (दृÂtma.) धृङ्(धृ Âtma) and प्रच्छ् have the augment इ prefixed to the स of the DesÎ, *e.g.* चिकरिषति। जिगरिषति। दिदरिषते। दिधरिषते। पिप्रच्छिषति।
 
 **Stanza 55—**
@@ -14043,8 +12220,6 @@ In the case of roots स्मि, पू, ऋृ, अञ्ज्, and अश�
 ** रक्षस्पाशान्**
 
 **.** पाशप् (पाश) is a स्वार्थवाचक affix, added to a Prâtipadika (crude form of a word) that expresses something censurable, The Sûtra "याप्येपाशप्" ५।३।४७॥means 'याप्ये वर्त्तमानात्प्रातिपदिकात्स्वार्थे पाशप् प्रत्ययो भवति। याप्यो वैयाकरणः कुत्सितो वैयाकरणो वैयाकरणपाशः। याज्ञिकपाशः। यो व्याकरणशाब्दे प्रवीणो दुःशीलस्तत्र कस्मान्न भवति। यस्य गुणस्य सद्भावाद् द्रव्ये शब्दनिवेशस्तत्कुत्सायां प्रत्ययः॥' काशि०. Thus वैयाकरणपाशः does not mean a proficient grammarian, who is ill-natured, but it means a contemptible grammarian, one whose knowledge of grammar is poor and meagre. As regards the gender of words to which स्वार्थवाचक affixes are added, they sometimes follow the gender of the प्रकृति and sometimes depart from it. On the Sûtra "विभाषा सुपो बहुच् पुरस्तात्तु "५।३।६८॥the Bhâshyakâra says:— 'इदं तर्हि प्रयोजनम् (that is तुग्रहणस्य)। प्रागुत्पत्तेर्यल्लिङ्गं वचनं च तदुत्पन्नेऽपि यथा स्यात्। बहुगुडो द्राक्षा। बहुतैलं प्रसन्ना। बहुपयो यवागूरिति। एतदपि नास्ति प्रयोजनम्। स्वार्थिकोऽयम्। स्वार्थिकाश्च प्रकृतितो लिङ्गवचनान्यनुवर्त्तन्ते। एवं तर्हि सिद्धे सति यत्तुग्रहणं करोति तज्ज्ञापयत्याचार्यः स्वार्थिका अतिवर्त्तन्ते अपि लिङ्गवचनानीति। किमेतस्य ज्ञापने प्रयोजनम्। गुडकल्पा द्राक्षा। तैलकल्पा प्रसन्ना। पयस्कल्पा यवागूरित्येतत्सिद्धं भवति॥'. We thus see that the gender of the whole word to which a स्वार्थवाचक affix is added is either that of the base to which the affix is added, as in बहुगुडो द्राक्षा, or is different from that of the base and is that of the word which is qualified by it, as in पयस्कल्पा यवागूः. रक्षस्पाश being a noun must be neuter. If the whole word does not follow the gender of the base रक्षस्, it must follow that of a word qualified by it, as in पयस्कल्पा यवागूः. There is none such here. रक्षस्पाश is itself a noun. It must then be neuter. The Mas. form isheld questionable by Malli, 'पयस्पाशम्' is used in the neuter in the Kâśikâand Kaumudîboth. 'स्वार्थिकाः प्रकृतितो लिङ्गवचनान्यतिवर्त्तन्ते' may, however, be taken in a general sense. There is a departure from the gender of the base. The word formed by
-
-
 
 affixing a स्वार्थद्योतकtermination does not always follow the gender of प्रकृति (base). Jaya. explains it in the same way. He says: — 'रक्षस्पाशान् कुत्सितराक्षसान्। याप्ये पाशप्। स्वार्थिका अपि प्रकृतितो लिङ्गवचनान्यतिवर्त्तन्ते।'. We may also say:—पुल्लिङ्गं तु भवति लोकाश्रयत्वाल्लिङ्गस्थ. Bharatamallika says:— 'पुंस्त्वमभिधानात्'.
 
@@ -14076,10 +12251,6 @@ affixing a स्वार्थद्योतकtermination does not always fo
 
 is the reading of the Pâtaṇa Ms. collated by us (*Vide* Appendix).
 
-
-
-
-
 **Stanza 70—**
 
 ** अभिषिषिक्षन्तम्**
@@ -14092,25 +12263,17 @@ is the reading of the Pâtaṇa Ms. collated by us (*Vide* Appendix).
 
 **.** This must be taken with राक्षसाःunderstood. 'राक्षसाःक्रोधादात्मनोऽभिष्यन्तः अन्तं नयन्तः' Jaya.
 
-
-
 **Stanza 74—**
-
-
 
 **विष्यन्दमान^(०)**
 
 _(.)स्यन्द् changes its स् to ष्optionally when preceded by अनु, वि, परि, अभि, and नि, provided a living being is not the agent of the action denoted by it. 'अप्राणिष्विति किम्। अनुस्यन्दते मत्स्य उदके। प्राण्यप्राणिविषयस्यापि स्यन्दतेरयं विकल्पो भवति। अनुष्यन्देते मत्स्योदके। अनुस्यन्देते। अप्राणिष्विति पर्युदासोऽयं न प्रसज्यप्रतिषेधः।' काशि०.
-
-
 
 विष्कन्तॄन्
 
 . स्कन्द् preceded by वि changes its स् to ष्optionally, in any form except that of the past participle. The past participle isविस्कन्नः. The root means 'to go'. 'स्कन्दिर् गतिशोषणयोः’। विविधं गन्तुं शीलमेषां ते विष्कन्तारः गमनशीलाश्चञ्चला अस्थिरप्रकृतयइत्यर्थः. When preceded by परि, स्कन्द् changes its स् to ष्optionally in all forms except in परिस्कन्दः. परिष्कण्णः or परिस्कन्नः, परिस्कन्दः.
 
 **Stanza 76—**
-
- 
 
 **समर्थोऽपि.**
 
@@ -14136,17 +12299,11 @@ Because he was blessed by all Gods. The blessings are mentioned in the Râmâya�
 
 **Stanza 79—**
 
-
-
 **ज्योतिष्टोम^(०)**
 
 .स्तोम changes its स् to ष्when compounded with ज्योतिस् and आयुस् *e.g.*ज्योतिष्टोमः, आयुष्टोमः.
 
-
-
 **Stanza 80—**
-
-
 
 मातृष्वसेय्याः
 
@@ -14158,15 +12315,11 @@ Because he was blessed by all Gods. The blessings are mentioned in the Râmâya�
 
 **Stanza 85—**
 
-
-
 **ज्योतिष्टमाम्**
 
 . स् preceded by a short vowel is changed to ष्when followed by a Taddhit affix beginning with त. These affixes are तर, तम, तय, त्व, तल् तस् and त्यप्. *e.g.* सर्पिष्टर, सर्पिष्टम, चतुष्टय, सर्पिष्ट्व, सर्पिष्टा, सर्पिष्ट, आविष्ट्यः. In गीस्तरा, धूस्तरा, and similar words, स् is not changed to ष् as the preceding vowel is long. The preceding word should not be a verbal form . 'तिङन्तस्य प्रतिषेधो वक्तव्यः। भिन्द्युस्तराम्।'.
 
 **Stanza 89—**
-
- 
 
 **व्यतस्तम्भद्**
 
@@ -14174,19 +12327,13 @@ Because he was blessed by all Gods. The blessings are mentioned in the Râmâya�
 
 **Stanza 91—**
 
-
-
 **विषसाद.**
 
 The स् of सद् after the reduplicative syllable is not changed to ष्. The Sûtra "सदेः परस्य लिटि" prohibits the स् of सद् after अभ्यास from being changed to ष्. " सदिष्वञ्जोःपरस्य लिटि" ८।३।११८॥is the reading of the Sûtra in the Kâśikâ. Jaya. quotes the Sûtra in the same form, that is, as found in the Vṛiṭṭi. Bat this does not seem to
 
-
-
 be the correct reading of the Sûtra . "सदेः परस्य लिटि” ८।३।११८॥ is the reading of Bha. Dî. in the Siddhântakaumudî. In the Mahâbhâshya also the Sûtra is found in the same form. "सदेः परस्य लिटि"॥ 'सदो लिटि प्रतिषेधे स्वञ्जेरुपसंख्यानं कर्त्तव्यम्। परिषस्वजे॥’महाभाष्य.
 
 **Stanza 93 —**
-
- 
 
 **अग्रेवणम्**.
 
@@ -14194,13 +12341,9 @@ Under the circumstances in which न् is changed to ण्, न् of वन�
 
 **Stanza 94 —**
 
-
-
 **देवदारुवन॰**
 
 . वन has its न् changed to ण् optionally when preceded by words denoting औषधि and वनस्पति. *e.g.* दूर्वावणम् or दूर्वावनम्, शिरीषवणम्or शिरीषवनम्, बदरीवणम् or बदरीवनम्. (विभाषौषधिवनस्पतिभ्यः" ८।४।६॥). A Vârtika to this Sûtra states that the words denoting औषधि and वनस्पतिmust consist of two or three letters, not more ('द्वयक्षरत्र्यक्षरेभ्य इति वक्तव्यम्'). Hence the न् of वन in देवदारुवनम् is not changed to ण् as देवदारु consists of four letters.
-
- 
 
 आम्रवणादिभिः.
 
@@ -14208,15 +12351,11 @@ The Sûtra for changing न् to ण् in आम्रवण is "प्रन�
 
 Stanza 95 —
 
- 
-
 **रुधिरपायिणाम्**
 
 . Jaya, says : - "रुधिरपायिणां राक्षसानाम्। पानं देशे इति णत्वम्।" न्, however, is not changed to ण् in रुधिरपायिणाम् by the Sûtra"पानं देशे" ८।४।९॥, which means that पान changes its न् to ण् when the whole word signifies a country, *e.g*. 'क्षीरपाणा उशीनराः। सुरापाणाः प्राच्याः। सौवीरपाणा बाह्लीकाः। कषायपाणा गान्धाराः', but by the Sûtra “प्रातिपदिकान्तनुम्विभक्तिषु च" ८।४।११॥,as it is here at the end of a प्रातिपदिक.
 
 **Stanza 105 —**
-
- 
 
 प्रकोपण
 
@@ -14226,13 +12365,9 @@ and
 
 The न् belonging to a कृत् affix (अन मान अनीय अनि इनि निष्ठा एते णत्वं प्रयोजयन्ति) added to a root beginning with a consonant and having any vowel except अor आas its penultimate, is optionally changed to ण् when the कृदन्त comes after a preposition
 
-
-
 containing र् under the circumstances in which न् is generally changed to ण्. Thus प्रकोपण and प्रकोपन, प्रगोपण and प्रगोपणare all correct readings.
 
 **Stanza 106—**
-
-
 
 **प्रेङ्खण.**
 
@@ -14247,8 +12382,6 @@ If न्belonging to a कृत् affix added to a root having नुम् o
 
 **Stanza 122—**
 
-
-
 **मुखमस्तीत्यभाषिष्ठाः**
 
 . With the reading adopted in the text, the object of अभाषिष्ठाःmust be supplied from the context. Jaya says:— 'अतो मुखमस्तीत्यभाषिष्ठाः अभिहितवानसि’, "सीतां प्रत्यर्पयन् धर्ममाप्नुहि" इति। "You tell me to achieve merit by returning Sîtâ; because you have a mouth, which is a means for speaking whatever one likes. You have not said so after proper thought." With Malli.'s reading ‘रामे साशङ्कतां मयि,’ साशङ्कताम् is the object of अभाषिष्ठाः. In this case we have not to supply the object. This is no doubt a better reading, but is not supported by a majority of Mss. The meaning is “When you advise me to return Sîtâ, you speak of fear in my case with regard to Râma, simply because you have amonth, that is, without proper deliberation.'
@@ -14256,8 +12389,6 @@ If न्belonging to a कृत् affix added to a root having नुम् o
 **Stanza 124—**
 
  Most of the Mss. read विरोधः, विराधः is no doubt better reading, as even when we read विरोधः, विराधः is to be supplied, as going
-
-
 
 with एकः. Both Malli and Jaya. read विराधःJaya. explains अविवक्षितः as 'शौर्यान्न प्रतीतः' and Bharatamallika as 'अप्रसिद्धः शैौर्येणाप्रतीतोवा.' Malli explains it as असंजातविवक्षः. विवक्षा सञ्जाता अस्येति विवक्षितः "तदस्य सञ्जातं तारकादिभ्य इतच्" ५।२।३६॥इतीतच्. Thus he takes अविवक्षित in the sense of 'one in whom desire is not produced that the opponent is my prey (अयं मे वध्यः)'.
 
@@ -14278,8 +12409,6 @@ The Stanza alludes to the story of Râvana desiring to fightVâlî. It is said t
 विस्मयं तु महद्गत्वा श्रमलोलनिरीक्षणः।  
 राक्षसेन्द्रो हरीन्द्रं तमिदं वचनमब्रवीत्॥
 
-
-
 वानरेन्द्र महेन्द्राभ राक्षसेन्द्रोऽस्मि रावणः।  
 युद्धेप्सुरिह संप्राप्तः स चाद्यासादितस्त्वया॥  
 अहो बलमहो वीर्यमहो गाम्भीर्यमेव च।  
@@ -14289,21 +12418,11 @@ The Stanza alludes to the story of Râvana desiring to fightVâlî. It is said t
 
 **Stanza 136—**
 
- 
-
 असद्बन्धुवधोपज्ञम्
 
 = Experienced first by yourself whose relations are slain. For the change of **उपज्ञा** to **उपज्ञ** (*vide* note on C. III. St. 31.)
 
-
-
-
-
 ![](../books_images/U-IMG-1726023011KKK.png)
-
-
-
-
 
 **ADDENDA AND CORRIGENDA.**
 
@@ -14344,8 +12463,6 @@ The Stanza alludes to the story of Râvana desiring to fightVâlî. It is said t
 |  ,,   |  22   |       पश्यन्ति       |                        पश्यति                         |
 |  46   |  14   |   मधिगम्येत्यर्थः    |                   मधिगमय्येत्यर्थः                    |
 
-
-
 |          |           |                                   |                                                                 |
 |:--------:|:---------:|:---------------------------------:|:---------------------------------------------------------------:|
 | **Page** | **Line.** |          **Incorrect.**           |                          **correct.**                           |
@@ -14383,8 +12500,6 @@ The Stanza alludes to the story of Râvana desiring to fightVâlî. It is said t
 |    ,,    |    25     |              ^(०)सका              |                            ^(०)सुका                             |
 |    95    |     2     |               मदुनी               |                             मृदुनी                              |
 |    97    |     2     |              एतद्रपा              |                            एतद्रूपा                             |
-
-
 
 |            |           |                     |                                     |
 |:----------:|:---------:|:-------------------:|:-----------------------------------:|
@@ -14425,8 +12540,6 @@ The Stanza alludes to the story of Râvana desiring to fightVâlî. It is said t
 |     ,,     |    24     |  after अभिजानासि   |          add T., G., Com.           |
 |     ,,     |    25     |    after नाविति    |          add T., G., Com.           |
 
-
-
 |       |       |                      |                                         |
 |:-----:|:-----:|:--------------------:|:---------------------------------------:|
 | Page. | Line. |     Incorrect.      |                Correct.                |
@@ -14454,8 +12567,6 @@ The Stanza alludes to the story of Râvana desiring to fightVâlî. It is said t
 |  ,,   |   4   |     रक्षः पाशाः      |               रक्षस्पाशाः               |
 
 **—————**
-
-
 
 |          |     |                          |                           |
 |:--------:|:---:|:------------------------:|:-------------------------:|
@@ -14500,982 +12611,4 @@ The Stanza alludes to the story of Râvana desiring to fightVâlî. It is said t
 
 **——————**
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^278]: "शुद्धो° T3."

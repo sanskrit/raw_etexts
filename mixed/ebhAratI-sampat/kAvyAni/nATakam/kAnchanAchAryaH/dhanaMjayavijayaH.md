@@ -16,31 +16,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzA
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 *(Registered according to act XXV of 1867.)*
 
 (All rights reserved by the publisher.)
 
-
-
 [TABLE]
-
-
 
 **काव्यमाला।**
 
@@ -81,8 +63,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzA
 .**............................................................।**
 
 **सरो हरति मेचेतः प्रोन्मूर्च्छत्पद्मकुद्मलम्॥५॥**
-
-
 
  अपि च।
 
@@ -167,8 +147,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzA
 **पर्याप्तमेकमपि यत्समरोत्सवाय**  
 **सर्व तथा मिलितमत्र ममैव भाग्यैः॥१६॥**
 
-
-
  अपि च।
 
 **सा मनोरथसंपत्तिः स एव हि महोत्सवः।  
@@ -251,8 +229,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzA
 **किं वाक्येन करीन्द्रगण्डविगलद्दानाम्बुधारागणा-**  
 **भोगं संप्रथयन्त्यमी परिमलप्रोद्गारिमन्दानिलाः॥२६॥**
 
-
-
  **नायकः**— सुव्यक्तं कुरुबलम्। तथा हि।
 
 **व्याधूतचामरमुदस्तसितातपत्र-  
@@ -332,8 +308,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzA
 
 **रोषोत्कर्षकषायितोल्बणदृशोऽप्यग्रे हिडिम्बद्विषः  
 पाञ्चालीहृदयस्थलात्सरभसं लज्जादुकूलाञ्चलः।**
-
-
 
 **निर्मोकः फणिनस्तनोरिव बलाद्येनावकृष्टः पुरा  
 सोऽयं साहसिकाग्रणीस्तनुरथे दुःशासनस्तिष्ठति॥३६॥**
@@ -420,8 +394,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzA
 
  **दुर्योधनः**— अलमेतैरुपहासैः। उपस्थितो निकषोपलोपमः संग्रामः।
 
-
-
  **नायकः**—(सहासम्।)
 
 **अपसर कुरुनाथ द्यूतमन्यादृशं त-  
@@ -484,8 +456,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzA
 रामूललूननवकेतककान्तदन्ताः।  
 त्रासावसन्नमदधारकपोलभागाः  
 संपादयन्ति करिणः करिणीभ्रमं नः॥५३॥**
-
-
 
  **इन्द्रः**—(सतोषम्।)
 
@@ -555,9 +525,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzA
 
  **प्रतीहारी**—देव, अह्माणं वि णिअडवत्ती भआणओ एसो हुदासणो।[^8]
 
-
 [^8]: " देव, अस्माकमपि निकटवर्ती भयानक एष हुताशनः।"
-
 
  **विद्याधरः**— भद्रे, मा भैषीः। किं नामेदं किरीटिनः। पश्य पश्य।
 
@@ -627,8 +595,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzA
 
 **विमुखे निपतति शस्त्रं संक्रन्दननन्दनस्य न हि जातु।  
 मणिमयमुकुटनिपातात्कोपाग्निस्तस्य कोपितः किंचित्॥६८॥**
-
-
 
 (नेपथ्ये।)
 
@@ -710,8 +676,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzA
 असमसमरकर्माक्लान्तमप्यस्य वक्रं  
 जयति विजयलक्ष्मीसङ्गसंपत्सुशोभम्॥७७॥**
 
-
-
 ** विराटः**—
 
 **शोभन्ते विद्यया विप्राः क्षत्रिया विजयश्रिया।  
@@ -790,8 +754,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzA
 **सौजन्यामृतसिन्धवः परहितप्रारम्भवीरव्रता  
 वाचालाः परवर्णने निजगुणालापे च मौनव्रताः।**
 
-
-
 **आपत्स्वप्यविलुप्तधैर्यनिचयाः संपत्स्वनुत्सेकिनो  
 मा भूवन्खलवत्क्रनिर्गतविषम्लानाननाः सज्जनाः॥८९॥**
 
@@ -810,27 +772,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc0OTQ2MDkxMzA
 
 –––––––––
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
 

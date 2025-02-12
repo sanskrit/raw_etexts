@@ -17,10 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMzM1Njg2NTU
 
 \[
 
-
-
-
-
 ![](../books_images/U-IMG-1720248330Screenshot2024-07-06121239.png)
 
 THE  
@@ -28,23 +24,13 @@ PUNJAB SANSKRIT SERIES.
 No. IX.  
 ![](../books_images/U-IMG-1720248357Screenshot2024-07-06121418.png)
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 PREFACE.
-
-
 
 I am editing herewith a single-aci drama named Dāmakaprahasana of which the text and an English translation is appended hereto. The piece has not yet been put down couclusively to any particular author. But in matters of diction phraseology and plan, it bears a companionship to the thirteen works of so-called Bhasa, and to Bhagavadajjuka, Mattavilāsaprahasana, and Kalyāṇasaugandhika. The facts that the stage direction ‘Nāndyantē tataḥ pravisati sūtradhāraḥ' comes before the Nāndi verse, that sthāpanāappears to have taken the place of Prastāvanā, and that there appears no suggestion of names of the Drama or the author in the sthāpanā portion taken together with the diction of the piece prove the similarity. Hence the learned suggestions and comments made by several scholars (whose names, come to about a hundred, have been published in a recent issue of the journal of the Royal Asiatic Society, Bombay branch, by V. S. Suktankar) concerning the time, authorship etc. of so-called Bhasa's Svapnavāsavadatta and other works, will as a rule apply to this little piece as well.
 
@@ -57,8 +43,6 @@ Karṇabhāra of so-called Bhasa. The reason and origin of these similarities sh
  The manuscript of this play has been obtained from the late Krisna Tantri of Chenganur, Travancore state. It is written in old Malayalam characters, which are very different from the modern ones. It was fortunate that a copy was bereft of mistakes because no other copy was available in central Travancore even after a diligent search.
 
 V. VENKATARĀM SHASTRI.
-
-
 
 \* दामकप्रहसनम् \*
 
@@ -112,8 +96,6 @@ V. VENKATARĀM SHASTRI.
 
 ( ततः प्रविशति दामकः )
 
-
-
 भो न जानन्त्यवस्थाविशेषमीश्वरपुत्रा नाम। सत्यं खलु लोकप्रवादः 'संघचारिणोऽनर्था' इति। अहं खलु तत्रभवत अंगदेशाधिपतेर्महाराजकर्णस्यप्रिययस्यो नाम्ना आर्यदामकः। नयविक्रयसंपन्नोपिसूत्थानोपि अधःकृताशेषराजमण्डलोपि न खलु तावता महाराज
 
 रूप्तिमा-पन्नः। स इदानीं त्रिलोकविजयी रावण इव अप्रतिहतशक्तिर्भवितुं निखिलान्यस्त्रण्युपशिक्षितु-कामः परशुरामाश्रममागतः। तत्रभवताचरीकृतोप्यहं अनर्थसलिलावर्ते महति खलु प्रक्षिप्तोस्मि। मया खलु राज्ञ उच्छ्रितेषु प्रासादेषु वासः, अन्तपुरदीर्घिकासु स्नानं, सुविहितशय्येषु पल्यंकेषु शयनं, पूर्वाह्ने भोजनं, अपराह्ने सुरसानि पानकानि पञ्चसुगन्धोपहितं ताम्बूलं श्लक्ष
@@ -128,26 +110,18 @@ V. VENKATARĀM SHASTRI.
 
 ( विचिन्त्य )
 
-
-
 निर्वेद एव खल्वनुक्तग्राहिणं स्वामिनमुपाश्रितस्य इत्यजनस्य।
 
 ( पुरोऽवलोक्य)
-
- 
 
 आ एष दुष्टकुक्कुरः अस्मादाश्रमाभोगात् वल्कलं गृहीत्वा धावति। दास्याः पुत्र कुत्र गमिष्यसि‚ तव दन्तानहं भङ्क्ष्यामि।
 
 (परिक्रम्याश्रममवलोक्य)
 
-
-
 भोः सर्वजनसाधारणमाश्रमपदं नाम। सन्तुष्टतपस्विजनोयमाश्रमाभोगः। अत्र खलु चीरवल्कलवसनाः चित्रजटाऽञ्जपिञ्जरितोक्तमांगाः कृष्णत्वचं ग्रन्थिमतीं दधानाः आश्रमवासिनः संयमिनः समित्कुशकुसुमादीनि स्वैरं वनादुपनयन्ति। इह केचित्सलिलमवगाढा मुनिजनाः। अत्र हि प्रदीप्तोग्निर्भाति। वैश्वदेवसंभूतश्चधूमो प्रविचरति मुनिवनम्। एते खलु महात्मानः सुतजातवेदसो ऽनूचानाः वार्धकशोभि वल्कलं श्लथलम्बिनीर्जटाश्चबिभ्राणाः,
 
 मुक्तायज्ञोपवीतानि विभ्रतो हैमवल्कलाः।  
 रत्नाक्षरत्राः प्रव्रज्यां कल्पवृक्षा इवाश्रिताः॥
-
-
 
 इमे गालव्यमाण्डव्यकौञ्जायनमुण्डकवामदेवादयः शिष्यवटुकाः अध्ययनोन्मुखा एवाग्निशरणं समिदाधानैः परिरक्षन्ति। अत्र च
 
@@ -158,8 +132,6 @@ V. VENKATARĀM SHASTRI.
 श्मदियस्याश्चानेकवर्षोपभोग्याःसंभृताः। अरण्य-बीजाञ्जलिदानललिताश्चैते हरिणा अस्मिन्नाश्रमवाटे इतस्ततः परिभ्रमन्ति। इमाश्चह्यनेकन्यकाः वृक्षकान् पुत्रकानिव मातरो घटस्तप्रस्रवणैर्वर्धयन्ति। अहो महती खल्वस्य विभूतिः।
 
 (विचार्य)
-
-
 
 अयि एरण्डवृक्ष किं भणसि—समयोऽतिक्रान्तः समयोऽतिक्रान्त इति। तद्यावदहं तत्रभवतः सकाशं गच्छामि। ईश्वराः स्वस्ति कुर्वन्तु।
 
@@ -244,8 +216,6 @@ V. VENKATARĀM SHASTRI.
 समाप्तम्.
 
 ![](../books_images/U-IMG-1720244097dhamaka7-removebg-preview.png)
-
-
 
 **TRANSLATION.**
 
@@ -412,6 +382,5 @@ Let content come to everyone
 and none be discontented.
 
 **FINIS.**
-
 
 \]

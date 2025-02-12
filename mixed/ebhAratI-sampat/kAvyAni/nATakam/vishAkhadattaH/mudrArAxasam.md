@@ -17,18 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2MTgzMzYzMTE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **VIŚĀKHADATTA'S**
 
 **MUDRĀRĀKSASA**
@@ -36,8 +24,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2MTgzMzYzMTE
 *Editted with a complete translation into English, grammatical,  
 explanatory and critical Notes and an Introduction  
 dealing with all important topics*
-
-
 
 *BY*
 
@@ -47,14 +33,11 @@ Professor of Sanskrit, R. R. College, BOMBAY,
 Second Edition\]                           
            \[1948  
 
-
 THE POPULAR BOOK STORE  
 Booksellers & Educational Publishers.  
 *Tower Road, SURAT,*
 
 **PRICE Rs. 5-0-0**
-
-
 
 *Published by:—*
 
@@ -62,15 +45,7 @@ Booksellers & Educational Publishers.
   The Popular Book Store,  
       SURAT.**
 
-
-
-
-
-
-
 ***All rights reserved by the Editor***
-
-
 
 *Printed by:—*
 
@@ -87,16 +62,12 @@ Aryasamskriti Press
 198/17 Sadashiv Peti  
 Tilak Road, Poona 2
 
-
-
 **P R E F A C E  
 ![](../books_images/U-IMG-1727427415Screenshot2024-09-27142645.png)**
 
  Candidates intending to appear for the Inter Arts Examination of the University of Bombay in 1948, 49 and 50 have to ad the Mudrārākṣasa of Viśākhadatta as one of the prescribed ts in Sanskrit. The present edition of the Mudrārāksasa is imarily intended for them. With a view to facilitating the understanding of the text, the translation of the same into English has been printed just below it. Students need not to be rightened by the brackets, semicircular and rectangular, appearing in the translation. The former contain Sanskrit words to the rendering of which it was found necessary to draw a pointed attention of the reader in which case the words have been printed in italics with the necessary diacritical marks. The latter are ended mostly when certain words had to be supplied in order to complete the sense yielded by the words in the text itself. Lines purprose following each verse are numbered so as to make a reference to them in the Notes easy The number of the act and act of the verse explained are indicated at the top of every page the Notes part of the edition. Thus on page 56 of the Notes \[II 11\] at the top in the right hand corner indicates that on that ge is to be found the explanation of the 11th verse from the second act of the play. 2, 10,7 on that very page down below indicates that the 7th line commencing from after the 10th verse from the second act is being explained. The first figure refers to the act, the second to the verse from after which lines in prose are counted and the third to the number of the line which is being explained.
 
  In the preparation of this edition I have used all previous editions that became avilable to me and I take this opportunity of expressing my indebtedness to all *pūrva sūris* in the field. In the pages that follow there is nothing original to which I lay claim. I have, however, made a slight departure from the practice obtaining heretofore in the writing of Notes. I have not only mentioned but also explained, briefly though, the figures of speech in the passages under consideration. I thought it better to refer to the metre of every verse, giving the scheme of
-
-
 
 the same, on the occasion of its first occurance, in the Notes themselves, than relegating the same to one of the appendices, as few students refer to them. In making this departure, I was prompted by only one consideration viz., that an I. A. student is a student of *language and* *literature,* and that it is desirable that he is introduced to this aspect of the study of his text, even before he begins to read for his degree examination.
 
@@ -106,8 +77,6 @@ the same, on the occasion of its first occurance, in the Notes themselves, than 
 
 R. R. College, Bombay.                        
  **R. R. Deshpande**
-
-
 
 I N T R O D U C T I O N
 
@@ -120,15 +89,11 @@ his date, scholarship and other works.*
 
  आज्ञापितोऽस्मि यथाद्य त्वया सामन्तवटेश्वरदत्तपौत्रस्य महाराजभास्करेदत्तसूनोः कवेर्विशाखदत्तस्य कृतिरभिनंव मुद्राराक्षसं नाम नाटकं नाटयितव्यमिति There are variant readings ‘महाराजपदभाक्पृथुसूनोः’ for महाराज भास्करदत्तसूनोः and 'विशाखदेवस्य' for विशाखदत्तस्य Of these the former is rejected on account of its not maintaining the *symmetry* which is otherwise found intheauthor's own statementabout himself, सामन्तवटेश्वरदत्तपौत्र, महाराजभास्करदत्तसुनः विशाखदत्त which brings out that his grandfather was वटेश्वरदत्त having the rank of aसामन्त (the lowest rung of the ladder), that his father wasभास्करदत्त, who was, it is safe to infer, raised to the satue of aमहाराज (having thus risen higher than the officers called माण्डलिक, and राजा, who represent the intervening rungs of the ladder, beginning fromसामन्त and ending with महाराज and that he was himself विशाखदत्त by name. This would make it clear thatदत्त was the distinctive nominal ending of the family of the dramatist. Regarding 'विशाखदेवस्य' instead ofविशाखदत्तस्य (see footnote 4, p. 2 of this edition), it has to be noted that only *three* manuscripts *out of a total of nine*collated by Mr. K. T. Telang for his edition of the play, are in favour of 'विशाखेदव' being understood to bename of the author, all the rest uniformly giving it asविशाखदत्त.It can safely be concluded, therefore, that the author of the play was known as विशाखदत्त, that his grandfather was known as वटेश्वरदस्त, enjoying the status of a सामन्त, and that the dramatist's father was known
 
-
-
 asभस्करदत्त who had the distinction of having raised his family from the ‘सामृन्तत्व’ of the previous generation to ‘महाराजत्व’.
 
  (2) The other passage directly useful for our purpose is the *Bharata-vākya* of the play, and even from it, the 4th line in particalar: स श्रीमब्दन्धुभृत्याश्चिरभवतु महीं पार्थिवोऽवन्तिम (or दन्तिवर्मा or रन्तिवर्मा or पार्थिवश्चन्द्रगुप्तः It is customary for the dramatıst to express through the *bharata-vākya* of his play what *he* wishes should happen to his *contemporaries or to the succeeding generations.* The play proper is over and in the *bharata-vākya* it is *unlikely* that any reference to any incident in the *plot* of the play itself, or to any of the *dramatis personae* or characters of the play is made. It is safe on this account to infer that whatever the name of the king mentioned in the *bharata-vākya* of the मुद्राराक्षस, the king referred to is the one who ruled in the days of the poet, one who was the poet's patron. This enables us to turn to the consideration of another important question viz, that of *the date of the author of the play.*
 
 * *Taking the reading‘पार्थिवश्चन्द्रगुप्तः’ first, it is seen that Mr. Telang accepts this reading only to be in conformity with the name accepted by the commentator Dhundirāja, whose commentary he has printed along with the text of the play. In his learned Introduction, however, Mr. Telang shows a marked inclination to the other readingपार्थिवोऽवन्तिवर्मा(a). If the readingपार्थिवश्चन्द्रगुप्तः isaccepted as genuine, the king referred to would beचन्द्रगुप्त II of the Gupta dynasty (about the fifth century A. D.) who is being glorified byविशाखादत्त for the former's signal services to Bhāratavarṣa in having defeated the white Huns (म्लेच्छ_(s)) who had become a great nuisance to the people of this land. This would bring us to the conclusion that flourished in the 5th century A D *(b)* If the other reading is genuine, however, the question as to who is अवन्तिवर्मन् mentioned in the भरतवाक्य becomes important रन्तिवर्मा and दन्तिवर्मा are rejected as errors made by copyists (though it may incidentally be pointed out thatदन्तिवर्मा has been taken to be a Pallava king of that name who is known to have been ruling about the beginning of the 9th century A.D. and that the play has been assigned by some to the 11th or 12th century A.D.) To turn to 'अवन्तिवर्मा', the history of Indra reveals that Kingअवन्तिवर्माof Kanaujco-operated withभास्करवर्धनof Thanesar andwith him shared the glory of
-
-
 
 having saved India from the attacks of the Huns who were given a crushing blow in the year 582 A.D. Prof. Dhruva concludes from this, that विशाखदत्त, *‘may be safely put down in the second half of the sixth century* \[There is another अवन्तिवर्मा, king of Kashmere (about 850 A. D.) known to history. On the basis of this identification, Jacobi expresses the opinion that the मुद्राराक्षस was enacted before this अवन्तिवर्मा of Kashmere on the 2nd of December, 860 A.D. As against this it has to be pointed out that in the play itself there is the mention of a king of Kashmere 'काश्मीरः पुष्कराक्षः' who was buried deep into the earth byमलयहेतु, Act V. This milhtates against the identification between अवन्तिवर्मा of the भरतवाक्य of the play and अवन्तिवर्मा, king of Kashmere. 'शालेस्तम्बकरिता Act I, गौडीना लोध्रधूलि Act V. ‘वाराही...तनुं Act VII contain references to *paddy, ladies from Bengal* *and the Varāha encarnation of Viṣiu*. The *cumulative* effect of these is that there is a general agreement to take the poet to be hailing from Bengal, rather than from Kashmere—and the date assigned to him, therefore, is the 2nd half of the 6th century A.D, and not the 2nd halt of the 9th century A. D. The tolerance shown to the Jaina friar, Jivasiddhi (who is in fact Induśarmā, a Brāhamna disguised as a Jaina) confirms this earlier date of the author and even more so does the high eastern in which the life and carear of Gautama Buddha \[or of Budhists generally\] are held in VII, 5: “बुद्धानामपि चेष्टितं सुचरितैः क्लिष्टं विशुद्धात्मना.' For, it was *after*Saṁkarācāry (800 A.D.) dealt a death-blow to Budhism, that the followers of that system suffered heavily in popular esteem.
 
@@ -137,8 +102,6 @@ having saved India from the attacks of the Huns who were given a crushing blow i
 *(b) Viśākhadatta's Scholarship.*
 
  (1) That the auother was a close student of the *SahityaSastra* in general and of the *n**ā**ṭyaśastra* section of it in particular, is evident on even a cursory reading of the play. The many metres which the dramatist handles skilfully, the *alaniekāras* in which the verses in the play obound, the *patākāsthānas* or *gaṇdas*
-
-
 
 of which the author seems to be so fond, the criticism he offers on the performance of an unskilled dramatist ('अन्यन्मुखे अन्यनिर्वहणे’) the consciousness he has of the extreme care that a dramatist must exercise (कर्ता वा नाटकानाभिममनुभवति क्लेशमस्मद्विधो वा), the five सन्धि in a play he refers to—all prove one fact bevond all dipute that विशाखदत्त was a very close student of the साहित्यशास्त्र and even there particularly of the section of it. It need hardly be mentioned that the dramatist, as was only natural to expect of him, knew Sanskrit grammar as also the peculiarities of the Prākṛts used in the play.
 
@@ -149,8 +112,6 @@ of which the author seems to be so fond, the criticism he offers on the performa
  (4) The two systems of philosophy—heterodox from the orthodox Brahmanical view-point—viz. Jainiam and Buddhism were well known byविशाखदत्त as is borne out by the use of the technical terms अर्हतः (प्रणमामि) मार्गम् (अनुगच्छन्ति) in regard to the former, and by the reference to the deeds of Bauddhas (बुद्धनामपि चेष्टितं सुचरितैः etc.VII, 5) in regard to the latter.
 
  (5) It would be no unfair conclusion to draw, in view of II 4, (.. मम चित्रकर्मरचना भित्तिं विना वर्तते।) and V 3, (मुहुर्लक्षोद्भेदा...चित्राकारनियतिरिव नीतिर्नयविदः) that विशाखदत्त had cultivated a more than casual acquaintance with the art of painting. I, 2; III, 15, 21, etc. would seem to corroborote the conclusion. For they give such vivid pen-pictures of the objects they deal with as to make the
-
-
 
 of which the author seems to be so fond, the criticism he offers on the performance of an unskilled dramatist ('अन्यन्मुखे अन्यनिर्वहणे’) the consciousness he has of the extreme care that a dramatist must exercise (कर्ता वा नाटकानाभिममनुभवति क्लेशमस्मद्विधो वा), the five सन्धि in a play he refers to—all prove one fact bevond all dipute that विशाखदत्त was a very close student of the साहित्यशास्त्र and even there particularly of the नाट्यशास्त्र section of it. It need hardly be
 mentioned that the dramatist, as was only natural to expect of him, knew Sanskrit grammar as also the peculiarities of the Prākṛts used in the play.
@@ -163,8 +124,6 @@ mentioned that the dramatist, as was only natural to expect of him, knew Sanskri
 
  (5) It would be no unfair conclusion to draw, in view of II 4, (.. मम चित्रकर्मरचना भित्तिं विना वर्तते।) and V 3, (मुहुर्लक्षोद्भेदा...चित्राकारनियतिरिव नीतिर्नयविदः) that विशाखदत्त had cultivated a more than casual acquaintance with the art of painting. I, 2; III, 15, 21, etc. would seem to corroborote the conclusion. For they give such vivid pen-pictures of the objects they deal with as to make the
 
-
-
 reader feel that the author must have artist-like conjured up the pictures in their entirety and then presented them with the help of *words*, instead of that of the brush and the canvas.
 
  (6) What is patent to every reader of the Mudrārākṣasa is Visākhadatta's thorough mastery over the Scince of of Polity. He not only mentions the oldest work on this branch of knowledge viz that of उशनस्, but uses the technical terms उपाय, गुण, विग्रह, अनुग्रह, मन्त्र, मण्डल, कृतककृत्य, उपजाप भेद, राजायतसिद्धि, सचिवायत्तसिद्धि etc. with perfect ease.
@@ -175,8 +134,6 @@ reader feel that the author must have artist-like conjured up the pictures in th
 
  There is one more point that requires our attention at this stage. It is the information such as is available regarding other works written by Viśākhadatta. Though it is doubtful whether 'विशाखदत्तस्य कृतिः अभिनवं मुद्राराक्षसं नाम नाटकम्' justifies the conclusion that *before* the composition of the मुद्राराक्षसम् विशिखदत्तhad already that of *another play* to his credit, independently of this passage, endeavours made by scholars have shown that देवोचन्द्रगुप्त was another play written by विशाखदत्त. The नाट्यदर्पण while citing an instance of नैक्रामिकी धृवा draws upon this देवीचन्द्रगुप्त, Prof. Dhruva is of the opinion that this play must have been in six or seven acts. Unfortunately, the entire play is not yet available. There are doubts regarding the historicity or otherwise of the plot of the play देवीचन्द्रगुप्त, in which चन्द्रगुप्त the younger
 
-
-
 brother of रामगुप्त, kills the king who had रामगुप्त and his party at his mercy, (in a fort which was besieged by the Śaka king's forces), under the guise of ध्रुवदेवी, रामगुप्त's wife for whom the Śaka king entertained such a passionate desire as to make it a condition precedent to the release ofरामगुप्त and the party, that रामगुप्त sent ध्रुवदेवी to him. After the slaughter of the Śaka kingचन्द्रगुप्त came back at the head of the forces of his elder brother whom he killed to seize his empire and marry his widow. (Vide—A New History of the Indian People. Vol. VI.) The Vākātaka Gupta Age circa 200-550 A.D. edited by Dr.R.C. Majmudar and A. S Altekar for a detailed account and observations regarding the historicity of the play. The other play believed to have been written by Viśākhadatta remains nameless. There is a single verse quoted in theसदुक्तिकर्णभृत as coming from विशाखदत्त's pen. रामोऽसौ भुवनेषु विक्रमगुणैर्यातः प्रसिद्धिंपरम्मद्भाग्यविपर्ययाद्यदि परं दत्रो न जानाति तम्। बन्दीवैष यशासि गायति मरुद्यस्यैकबाणाहतिश्रेणीभूतविशालतालवित्ररोद्गीर्णैः स्वरैः सप्तभिः।) All that can be safely said about the play is that it dealt with the story of Rāma andthatविशाखदत्त must have drawn upon the Rāmāyana for the same. Dr. Peterson's identification of विशाखदेव with the author of theमुद्राराक्षस is not accepted and the two verses quoted in the सुभाषितावली (तत् त्रिविष्टममाख्यातं तन्वङ्गया यद्बलित्रयम् येनानिमिषदृष्टित्वं नृणामप्युपजायते॥ सेन्द्रचापैः श्रिता मेधैर्निपतनिर्झरा नगाः वर्णकम्बलसं वाति बभुर्मत्ता द्विपा इव॥ asविशाखदेव's,cannot be regarded as having been composed byविशाखदत्त.
 
 *II. The Mudrārākṣasa—*a hisorical *play—A few works  
@@ -185,21 +142,13 @@ The Political nature of the play.*
 
  Cānakya, the Prime—Minister of (Maurya or) Candragupta after vanquishing the Nandas, destroying them to the last man, had only one object in view. That was to secure the services of Rākṣasa, the devoted Prime-Minister of the Nandas, who even after the extirpation of the family of his masters was devising all ways and means and straining every nerve with a view to ousting Candragupta from his recently occupied throne. Thus Kṣapanaka Jîvasiddhi being banished
 
-
-
 m Pâtaliputra, Śakatadāsa being sent to the executionaround (there to be rescued by Siddhārthaka) and Candanadāsa being put into prison are the means employed by Cānakya with the purpose of ultimately forcing Rākṣas to accept the प्रधानमन्त्रिपद of चंद्रगुप्त, निपुणकhas luckily been able in the course of his rounds in the city in the guise of a Yama-pataka to asecure the signet-ring राक्षस had left with his wife. This proves to be of immense use to—nay is the very foundation of the whole edifice ofचाणक्यऽ policy getting itself unrolled in the course of the play (Act I) राक्षस too is busy. He has employed दारुवमन, वर्वरक, अभयदत्त, बीभत्सक and others with the single purpose of getting rid of चन्द्रगुप्त But Cāṇakya's wakefulness foils every effort ofराक्षस and all things turn out to be to the advantage ofचाणक्यandचन्द्रगुप्त to the sore disappointment of राक्षस. There is only one factor that holds out hope to him and it is thatचन्द्रगुप्तis very much angry, as is learnt by राक्षस's spies, since, मलयकेतु's departure and that Cāṇakya too is filled with pride as result of his having 'crossed the river of his vow.' Rākṣasa sces his opportunity to create a split and widen the gulf that would thus be created between चन्द्रगुप्त and चाणक्य. For this, he sends the necessary instruction to his bard friend inपाटलिपुत्र namedस्तवकलश (Act II). Cāṇakya is not sitting with hands folded. He hits upon a master plan to trapराक्षस by keeping him under a false impression. For this he picks up a sham quarrel with Candragupta. The moon-light festival that Candragupta ordered to be celebrated with great *eclat* by the citizens of Pātaliputra is prohibited by him. In the hot exchange of words that takes place between the King and the Prime minister, several points are raised. Candragupta observes, towards the close, that as far as he could see ‘Rākṣasa was definitely, very praiseworthy.’ ‘And not I, is what you want to imply' rejoins Cāṇakya who throws off the badge of his office and says Candragupta better gave it to Raksasa (Act II). From 'करभक, राक्षस learns how Cāṇakya was removed from his office by Candragupta. At this very stage, Malayaketu comes to Rākṣasa's abode with a view to seeing him. With Bhāgurāyaṇa (Cāṇakya's agent who has won Malayaketu's confidence) he overhears the conversation between राक्षस and करभक. Meanwhile;नागुरायण manages skilfully to interpret everything in such a way as to makeमलयकेतु believe thatराक्षस has *no enmity towards*
 
-
-
 *Candragupta* and that has *only rival* whom he hates most in Cāṇakya. On Karabhaka being sent away for resting, Malayketu inquiries ofराक्षस as to how long they should wait for an opportunity to strike agains the enemy.राक्षस says they need not wait as longer, as the enemy's weak point has been found out.चन्द्रगुप्त dependent for everything on his minister, has dismissed his minister चाणक्य and there is thus a golden opportunity for मलयकेतु forces to attack चन्द्रगुप्त's capital पाटलिपुत्र, मलयकेतु observes to himself 'fortunately *I am not dependent* for my victory or achievements *on the minister*and welcomes the proposal to attack Pāṭaliputra. Towards the end of the act, राक्षस is getting the auspicious day for starting the military expedition determined by the क्षपणक. As the day mentione by the is objected to by राक्षस, the क्षपणक says he would not consult other astrologers or discuss the matter with them, it isराक्षस himself who should dy so राक्षस enquires whether the क्षपणक is enraged with him to which the answer given by theक्षपणक is that he is not angry towards राक्षस, it is (the established conclusion in keeping with the science of astrology, also 'god of death') that is angry with राक्षस. राक्षस sees the sun setting and makes observations suggested to him regarding the servants who stay with the master as long as he is prospering but desert him when he falls on evil days (Act IV). In Act Vराक्षस gets himself placed into the greatest difficulty.सिद्धार्थक is seen to have a letter on his person, in the handwriting ofशकटदास राक्षस's friend. The letter is said to have been intended to be delivered to चन्द्रगुप्त and sent by राक्षस. To make things worst, सिद्धार्थक has with him ornaments formerly given by मलयकेतु to राक्षस. These सिद्धार्थक says would be given away to चन्द्रगुप्त along with the letter. The letter bears the stamp of the signet-ring of राक्षस. To make the situation even more complicated, राक्षस hasonhis own person ornaments which formerly were used byमलयकेतु's father, murdered for political purposes. The estrangement between मलयकेतु andराक्षस is complete just on the eve of their attack against पाटलिपुत्र (Act V). राक्षस returns to पाटलिपुत्र only with one hope now viz. saving the life of his dearest friendचन्दनदास, He comes to an old garden now no longer well maintained. There he comes across a person who tells him he is going to kill himself as his friend विष्णुदास is going to put
-
-
 
 an end to his life before he himself learns of the worst calamity that was to befall his dearest friend चन्दनदास, राक्षस decides to set out with his sword to rescueचन्दनदास from the executioners but gives up the idea on learning from the friend ofविष्णुदास that the executioners have of late begun instantaneously killing the person in their charge when they see any one with a weapon in their vicinity (Act VI). Just whenचन्दनदास is about to be killed,राक्षस surrenders himself to the ex cutioners. The news isconveyed to चाणक्य, चाणक्य makes it quite plain to राक्षस that if the latter wantsचन्दनदासto be allowed to live,राक्षस has to accept the ministership of चन्द्रगुप्त. And thusराक्षस is compelled to do, what he would have avoided by all means.राक्षसacceptsoffice for the sake of the friend who had suffered most on his account, who had given shelter to राक्षसऽ wife and son, thus exposing himself to death at the hands of Candragupta's executioners. Manyaketu is taken prisoner by भागुरासण еct, but released on राक्षस's request to do so-this being his first request in his capacity as the Prime Minister of Candragupta. Cāṇakya retires from active politics now satisfied that Candragupta's empire is in safe hands and thus comes to a close Act VII as well as the drama itself.
 
  The account of the plot of the play will make it clear that the play is political in nature. There are spies of Cāṇakya and spies of Rākṣasa; as also assassins, poisoners (a poison-maiden), secret agents in the guise of Kṣapanaka and others who are kept intensely active throughout the course of the play. Regarding the historicity of the events and the persons, it can be safely stated that Cāṇakya and Candragupta were historical person. that Rākṣasa too was a historical person. For, the dramatist, who is very particular about appropriately naming such subordinate characters as सिद्धार्थक, निपुणक, समिद्धार्थक etc. would not have given such a monstrous name to the minister whose services Cāṇakya is shown to be so anxious to secure for Candragupta. Malayaketu also *probably* is a historical person. Other details—most of them—are inventions of the poet, though it is not unlikely that in the lives of other persons and in days other than those of Cāṇakya and Rākṣasa, they took place. The highest skill is displayed by Viśākhadatta in thus welding
-
-
 
 together faet and fiction of a type and making Mudrārāksasa one of the most remarkable plays in Sanskrit language and literature.
 
@@ -211,11 +160,7 @@ together faet and fiction of a type and making Mudrārāksasa one of the most re
 
  On a perusal of the Mudrārākṣasa, it should not be difficult to fix up the time taken by the entire action in the play
 
-
-
 Perhaps the best way of attacking this uuestion is to concentrate attention on two facts (I) that in Act III there takes place the sham quarrel between Cāṇakya and Candragupta on the Paurnimā of the month of Kāritika and (2) that in Act IV Malayaketu observes 'to day is the tenth month since the departure of dear father to the yonder world. After the incidents in Act III, a month's time must have been required for the preparation of the army with the purpose of launching an attack against Pataliputra. This brings us to the conclusion that मलयकेतु's utterance ‘अद्य दशमो मासस्तातस्योपरतस्य’ belongs to the month of मार्गशीर्ष. Ten months previous to that, that is in month ofफाल्गुण in the earlier year, पवर्तक was murdered. As राक्षस is said to have stayed in पाटलिपुत्र as long as he liked, even after the city was taken by Candragupta's forces, it follows that the action of the drama, 1. e. of the first act must have begun in the month of Chaitra. Here the day also can be decided. It must have been पौर्णिमा as the eclipse of the moon 'चंद्रं संपूर्ण मण्डलमिदानीमभिभवितुमिच्छति' is possible on that day. The पारलौकिककर्म of पर्वतक which चन्द्रगुप्त wanted to carry out must be the frst मासश्राद्ध of the departed mountain-chief. In Act II,विराधगुप्त reports the happenings inकुसुमपुर having covered all the distance from there to the camp of Malayaketu, which, presumably must have been 200 miles or so. A month's time between the events in Act I and those of the II must have elapsed. Thus the action of the II act took place in the month of Vaiśākha. The sham quarrel took place on the Paurṇimā of Kārtika. The intervening months must have been used by both the parties to strengthen their respective postitions, as due to rains, no activity or movement of the army was possible. In act IV, Karabhaka brings news of the cleavage between Cānakya and Candragupta which became a public property on the Paurṇimā of Kārtika. Karabhaka must have taken between a fortnight and a month to reach Malayketu's camp. Thus by the moth of मार्गशीर्ष Rākṣasa must have had his army ready for an attack on Pāṭaliputra. Malayaketu's army is प्रत्यासन्न i.e near पाटलिपुत्र. This must have been possible after a journey of a fortnight or month, thus bringing us to the conclusion that the action in Act V must probably have occured in the beginning of the month of पौष. Act VI and VII show that Malayaketu's forces have been given a crushing defeat, that राक्षस
-
-
 
 has come back to Pataliputra to save the life of his friend चन्दनदास. This too would require a fortnight or a month in happen. The action of the play thus would appear to end by the month of Māgha. This means that *the entire action in the play takes about ten months' time to be* completed.
 
@@ -225,15 +170,11 @@ has come back to Pataliputra to save the life of his friend चन्दनद�
 
 * *There are spies of Cāṇakya and spies of Rākṣasa, murderers or assassins, poisoners, those who could arrange mechanical
 
-
-
 arches to fall on the principal party on the accasion of the state entry into the palace of the king, incendiaries, there are men disguised as snake-charmers and as Jaina friars. There are forged letters and ornaments which though expected to be in possession of one party, are actually possessed by another. There are friendsready to face the gallows for friends. There are otherswho *feign* friendship with anulterior political purpose in view. There are executioners realand men who only *appear* in the guise of executioners. Thereis a well disciplined prince, and a prince who knows not what he is doing or saying. The Mudrārākṣasa atmosphere is so different form the atmosphere of the general run of Sanskrit plays.
 
  It is, therefore, necessary to seek for the factors that made it possible for Viśākhatta to come out triumphant in his admittedly difficult task. Those who read the play with a view to being able to answer the question, 'what made Viśākhatta's success possible?' do not fail to notice the following important features of the play.
 
  *(1) Unity of Action—* It can be said, without the least exaggeration, that Viśākhadatta has shown his thorough mastery over a principle so essential for the success of a literary artist viz., that of the unity of action. It is needless to give an outline of the plotof theमुद्राराक्षस here (the resume of each one of the acts given in the Notes may be profitably read, at this stage). But it isevident to all readers of the play that all incidents, small or big, all measures, remedies or actions *arm at* only *one abject viz.*winning over Rākṣasa and making him accept the responsibility of the Prime Minister of Candragupta. The signet-ring, the forged letter, the ornaments given by Candragupta to Viśvāvasu and his two brothers, the receiving of an ornament from Rākśasa by Siddhāṭhaka, Śakaṭadāsa's being sent to the execution-ground, his miraculous rescue, the Kṣpaṇaka's work, Bhāgurāyana's contribution, Candanadāsa's being taken to the execution-ground, all these are made to focus themselves on just one thing-making राक्षस see the inevitability of the acceptance of the offer of the प्रधानमन्त्रिपद of चन्द्रगुम. In fact so
-
-
 
 great is the success that Viśakhadatta has achieved in the respect that even from the stand-point of western critics most particular about the three unities—that of time, that of place and that of action, the performance of Viśakhadattas admirable as nothing else in the entire range of Sanskit literature. Subordination of minor events, acts, faetors, to the main object has been quite thoroughly accomplished by Viśakhadatta.
 
@@ -241,15 +182,11 @@ great is the success that Viśakhadatta has achieved in the respect that even fr
 
  *(2) Consummate skill in caracter-delineation*—Another *forte* of Viśākhadatta isthe consummate skill with which he has *delineated the various characters* in the play. Like all high ranking literary artists, Viśākhadatta was thoroughly aware of the importance of the principle of contrast in this aspect of the art of composing a play (Cf. Venīsaṃhāra, Sākuntala, where character. study in pairs, sometimes in threes, for instance Śākuntala, Anusūyā and Priyamvadā, is given). Thus there are *two PrimeMinisters* the astute, resolute, implusive, irascible, but ever vigilant, ever resourceful Cāṇakya who is to be contrasted with Rākṣasa, Prime Minister of the Nandas, given to anxious meditation, finding fault with fate, occasionally blundering, not careful enough in the choice of men, devoted to the master no doubt, but having an *adravya* like Malayaketu to depend on and therefore failing in his object of ousting Candragupa from the throne, There is Candragupta, well-discplined, full of reverence for his preceptor, regarding the order of the preceptor to act independently for a while to be nothing less than a sin. Contrasted with him is Malayaketu with no diplomacy and very little modesty to his credit, eavesdropping, suspecting the one whose sincerity of purpose was beyond dispute, vain and therefore defeated most
 
-
-
 disastrously by Cāṇakya with the minimum amount of fighting. There are the two Chamberlains, the two प्रतीहारीऽ; Cāṇakya's friend Induśaman in the guise of a Jaina friar is well contrasted with Candanadāsa, the flame of whose love for his friend Rāksasa blazes forth despite the violent gales it has to face. Each character is made to stand out from the rest so well that it would not be difficult to assign without reading from the text of the play, the important utterance to the characters to whom they belong.
 
  *(3) Fine sense of style—*There is one more reason besides those indicated above why Viśākhadatta's play has been able to win a high place for itself. It is that Viṣākhadatta had a very *fine sense of style.* Whether it was prose, or in verse, Viśākhadatta knew well which words would suit his purpose best, which combination would be most favourable to the effect intended to be achieved. On the whole, Viśākhādatta's prose is full of perspicuity—with very few (Act II) involved sentences or long compounds. In Act I and Act III, in the dialogues between चाणक्य and चन्दनदास and between चाणक्य and चन्द्रगुप्त respectively Viśākhdatta's prose isseen to be at its best (भोः श्रेष्ठिन् चन्द्रगुप्तराज्यमिदं न नन्दराज्यम् or चन्द्रगुप्ते राजन्यपरिग्रहश्छलानाम्। तत्समर्पय गृहजनम्। अच्छलं भवतु भवतः। as also अन्येनैवेदमनुष्ठित्वम्। आः केन। नन्दकुलत्रिद्वेषिणा दैवेन। दैवमविद्वासः प्रमाणयन्ति। विद्वासोऽप्यविकत्थनाभवन्ति). The raciness, the vigour, the sarcasm of Visāķhdatta's prose have contributed considerably to his success. Viśākhsdatta handles a variety of meteres and he knows thoroughly well that certain metres and just those only are the most effective media of certain thoughts. शार्दूलविक्रीडित, स्रग्धरा, वसन्ततिलका and other metres are deftly handled by the dramatist. No careful reader of the play can forget the lyrical charm of some of the verses put into राक्षस's mouth, when on returning to Pataliputra he hides himself in a dilapidated garden (Act VI). Well in contrast with these are verses such as
 
  संरम्भस्पन्दिपक्ष्मक्षरदमलजलक्षालनक्षामयापि भ्रूभङ्गोद्भेदधूमं ज्वलितमिव पुरःपिङ्गया नेत्रभासा। etc. (III, 30 or III 27, 28) where long compounds
-
-
 
 are deliberately employedViśākhadatta has paid attention to both the varieties of अलंकार- शब्दालंकारऽ and अर्थालंकारऽ (these latter pointed out and explained in their proper places in the Notes) The lessons that Viśākhadatta draws from happenings in nature (III, 8. IV, 22, VII, 11 & 13) lend a distinct charm of their own to the play.
 
@@ -263,19 +200,13 @@ are deliberately employedViśākhadatta has paid attention to both the varieties
 
  The play proper begins with the appearance of Cānakya on the stage. He is full of anger, and in no way conceals his displeasure at what he heard some one say 'this one desires to overpower Candra, though possessed of the circle in its entirety'. The implusiveness of the Prime Minister is brought out by the fact that though the seat was already kept therefore him' he did not notice it and took the pupil to task for what was no fault of his. But the preceptor and Prime Minister of Candragupta is also kind at heart. There is no 'inherent bad temper' towards the pupils of which he at any rate can be accused. Cāṇakya's self-confidence. resourcefulness, capacity of turning almost any
 
-
-
 and every happening to his own best advantage are well brought out in Act I. The signet-ring brought by Nipuṇaka suggests to him an elabroate plan which is worked out in full during the remaining acts of the play. Cāṇakya has a sense of apprectiation of merits wherever they are found and hence the unstinted praise which he bestows on Rākṣasa who is devotion, valour, intellignce, all in one, according to Canakya. In fact, Rākṣasa is characterized by him as “Mantri-Bṛhaspati”. The second act shows, how very Vigilant how thorough a statesman was the preceptor of Candragupta. All the plans of Rākṣasa are either forestalled or frustrated by Cāṇakya. Cāṇakya being a politician first and politician last,—till Rāksasa is won over to the side of Candragupta at least minds not the deaths or virtual murders of Vairocaka and, Varvaraka. Dāruvarman, Abhayadatta, Bībhatsaka all perish for the simple reason that they desired and strove to kill Candragupta. Cāṇakya has no compunction, no qualms of conscience as his principle was to maintain the efficiency of the administration by all means. Act III reveals Cāṇakya at his best. The sham quarrel, in its conception as well as execution, is a master stroke that keeps Rākṣasa on a wrong track. Act V shows how deep laid the plan of Cāṇakya was. Jīvasiddhi, Bhāgurāyaṇa are all Cāṇakya's agents. The forged letter, stamped with the signet-ring of Rākṣasa, the ornaments Cāṇakya had arranged to be sold to Rākṣasa who wore them, the ornament given by Rākṣasa to Siddhārthaka as a *'pāristoṣika'*on Śakaṭadāsa's release by him, now made to accompany the letter sent by Rākṣasa to Candragupta' destroy totally the friendly relations of Malayaketu and Rākṣasa. Again in Act VI, Cāṇakya's intelligence and his plan it is that make Rākṣasa throw his weapon and in the VII, he succeeds in making Rākṣasa accept the ministership of Candragupta, it not for any thing else, at least to save the life of his dearest friend Candanadāsa!Cāṇakya's mastery over the springs of human action is finally proved. But even after this there is no tinge of boasting, no vanity shown by him. On the contrary he leaves everything to be decided by Rākṣasa. 'When he is there to guide the state business, what use are we?,' be observes, and the one who was seen in an earlier act to be staying in a cottage with dilapidated walls, with little more than cowdung cakes, *darbhas,* and a piece of stone....2
-
-
 
 by way of property, retires never to bother himself with state administration again. He is pleased that Rāksasa has accepted the responsibility. This exit of Cāṇakya leaves as indelible an impression on the reader, as his first appearance, in fact as all' he said and did, even the 'vaunting' as some would characterize it, on his having destroyed all the scions of the Nanda family and reader is filled with admiration (may be not unmixed with awe still lurking in his mind) for this politician who did notmix up philosophy withpolitics and did not allow a mess to be made of the state, but ever retained it strong and firm.
 
 *(2) Rākṣasa*
 
  Next to Câṇakya and as his, rival, it is Rākṣasa who claims the attention of the reader. That his devotion to his master was the highest is evident as he continued to terve him, even after his departure to the other world. Rākṣasa is possessed of *“prajnā”* on Cāṇakya's own confession. Act II is an eloquent testimony to this. Only a superior politician with Cāṇakya's mettle could frustrate Rākṣasa. Fallen on evil days, this former minister of the Nandas has become, if he was not even earlier, sentimental and superstitious. He is full of tears to see the plight of Virādhagupta. He finds it difficult to recognize quickly his spies. He blunders, almost calls his secret agents by their names and then tries to check himself and to comouflage. One who was to be admitted for listening to *subhāṣitas* from him us said to be admitted for showing serpents. Fidelity, unflinching devotion, however, are the strongest points of the minister of the Nandas. He is all full of joy on seeing Šakațadāsa reported to have been impaled on the stake, safe again. After being dismissed by Malayaketu, Rākṣasa comes back to Pāṭaliputra mainly to save the life of his *‘dvitiyam hṛadyam'*, Candanadāsa. This trant is the most apppealing to us. Rākṣasa, the *mantri-bṛhaspati,*we feel is essentially a man of this world. He give up his opposition to Candra and is ready to work as his prime minister. But such is the impression left on our minds by the character of the new prime minister of Candragupta that we have not the least doubt, as Canakya had not, that Rākṣasa would carry out his duties with the same devotion, sincerity and whole-hearted.
-
-
 
 ness, as he did, while, serving his former masters, the Nandas. So very kind is Rākṣasa that out of consideration that he once stayed with Malayaketu, does he order him to be freed when brought by Bhāgurāyaṇa etc. to be duly punished. He has no illusions about his capacity as campared with that of Cāṇakya and when offered the badge of the Prime Minister's Office, the *śastra,* by Cāṇakya, he frankly admits his unfitnese to take the same, especially as it was wielded by Caṇakya till then. Nothing weighed more with Rākṣasa, it is evident, than love of his friend, causing him to accept anything for that matter. Thus is the brave, devoted and intelligent minister of the Nandas seen to be accepting Candragupta's service. The reader feels drawn to minisister Rākṣasa and is in no mood to criticize him. After all there was a point in saving the life of the dearest friend who did not care for his own, when he gave shelter to Rākṣasa's wife and son, in their hour of need. When aught else deemed precious in life was lost, despite the sincerest and most persistent efforts to regain and retain the same, was a false sense of prestige to be deemed so important as to be permitted to lead one to perpetrate the most heinous crime viz. ungratefulness to one's best friend?
 
@@ -288,29 +219,21 @@ Cāņakya as far the play is coscerned may practically be considered to have no 
 
  This is another "prince" delineated in the play. He has no diplomacy to his credit. He is full of suspicion and does not consider it below his dignity to stoop to eavesdropping while
 
-
-
 Rākṣasa and Karabhaka, are speaking about the happenings Kusumapura. Bhāgurayaṇa, Cāṇakya's secret agent, has thorough hold over him and it is only what the stern logic events demanded that happened to him in the end viz., his being taken prisoner by Bhāgurayaṇa himself and his forces being very easily defeated by Cāṇakya. If Candragupta was "*dravya*Malayaketu is a typical *"adravya"* marring all the elaborat efforts of Rākṣasa to oust Candragupta from the position of the sovereign Canakya bad won for him. The only redeeming feature of this prince is his love of his father.
 
 *(5) Candanadāsa*
 
  From among the other characters of the play Candanadāsa easily claims the highest attention of the reader. He is prepared for the worst, when summoned by the *“pitiless”*Cāṇakya. He has taken all precautions to see that Rākṣasa's wife and son would not be found by Cāṇakya at his place, even if the latter were searched by Cāṇakya's men. In politeness and being honey. tongued, "the president of the Merchant Guild is not to be beaten by even Cāṇakya at least upto a point. All attempts at frightening him—the tumult on account of the banishment from the city with disgrace of some one, and that on account of the execution of another, make him only firmer in his resolve, not to surrender Rākṣasa's wife and son to Cāṇakya. It is no wonder that Candanadāsa's wife and son too are equally resolute. He was meeting that kind of death fortunately for the sake of a friend and not because he had committed any crime. His last words to the wife are ‘You must live and train this dear son of ours.’ To the son he says Stay in a country, which would be free from Cāṇakya's (unwelcome) presence.” And when Rākṣasa reveals his identity to the executioners and asks them to kill him (not Candanadāsa), Candanadāsa asks him noble one what have you done?” Rākṣasa's reply to this is the best tribute paid to and the one most deserved by Candanadāsa—“emulation of a bit of your excellent action. “No reader of the Mudrârākṣsa would forget this merchant friend of Rākṣasa who outdid Sibi of the epic fame and surpassed by his noble deeds even the course of conduct of the Buddha saints.
 
-
-
 doings of Cāṇakya—the hero of the play. Cāṇakya, the critics would add, cannot boast of any the least adherence to lofty, edifying moral principles. And precisely here is it necessary to sound a note of caution to the critics. It is that *Cāṇakya* by virtue of the peculiar position of the society of which he was a member, *could not have done anything bette*r, from any view point, than what he did.
 
  At this stage the readers would have to leave the Mudrārākṣasa of Viśākhadatta aside for a while, and ascertain from the history of ancient India (3rd and 4th centuries B. C.) as to what was the state of affairs at that distant date. History reveals to us that but for the strong policy Cāṇakya adopted, there would have been politically speaking all chaos everywhere. In the absence of a firm State and a powerful Emperor well established on the throne, life would have been not only insecure, but also impossible for the vast bulk of the populace. It stands eternally to the credit of Cāṇakya that he developed the technique of the policy of 'thoroughness' and suppressed with an iron hand all the mischievous elements eating into the very life, of the people. Cāṇakya was not led away by the mirage of spiritualising politics. He was too shrewd an observer of the kaleidoscope that is human life, too great a master of human nature with all its wonderful variety and too great a realist to have been led away from his main object viz., the establishment of a very strong and thoroughly equipped state. Cāṇakya did not love killing for the sake of killing. He himself pities Sarvārthsiddhi ('tapasvi' as the is called). His and Paravtaka's murder wére a political necessity. The executions of Sakațadāsa and Candanadāsa are but mimicries intended to serve the one purpose Cāṇakya had in view viz., of winning over Rākṣasa and making him accept the ministership of Candragupta. And Caṇakya's choice fell on Rākṣasa for the important post for only one reason viz. that he was most worthy of it. Once his *“prajnā’,‘vikrama’* and above all *‘bhaktı’* were secured for Candragupta, there was not the remotest possibility of the State ever becoming weak or infirm on any account. Cāṇakya had no axe of his own to grind. There were no personal enemies whom he wanted to get rid of. The
-
-
 
 object achieved, he quietly retires, never to interfere with statbnsiness again. Cāṇakya was thus the saviour of the people He never said anything or did anything for purposes of selsaggrandisement.
 
  A glance at some of the most far reaching developments acontemporaoy world politics and an unbiassed study of the same would convince all that so far as morals are concerned there is no superiority over Cāṇakya to which twentieth century States men can lay claim. With an unparalleled record of brokes promises, dishonoured treaties, use of a hundred thousand times more destructive weapons, war time camouflage and peace time camouflage, subtle proraganda, penetration tactics of 'democracies' that would put 'imperialism' to shame, concentration camps, mass trials and what not, the present day politicians cutill afford to find fault with Cāṇakya. The hollowness of the stock-in-trade phrases and slogans that fit the very air we breathe is patent to us all. The cry for 'the amelioration of the masses 'the materialisation of the dream of universal brotherhood' 'the appreciation of higher values', and the 'common heritage' of man in effect, has amounted to nothing. The second world war brought into existence and helped flourish a species of markets, the black market, to so great an extent, that life to-day is permeated by it in all its branches and the most vigorous and most determined efforts on the part of every intelligent human being would be necessary to eradicate the evil that has affected human civilization and culture. What more strange than that those who have allowed, if not encouraged, this monster to thrive, should find' fault with Cāṇakya's morals and with the ethics of the Mudrārākṣasa?
 
 ![](../books_images/U-IMG-1727709516Screenshot2024-09-30204826.png)
-
-
 
 **DRĀMATIS PERSONAE  
 ![](../books_images/U-IMG-1727709585Screenshot2023-06-15124029.png)**
@@ -345,8 +268,6 @@ object achieved, he quietly retires, never to interfere with statbnsiness again.
 *** Siddārthaka—***who becomes the executioner Vajralomā (Act VII), a friend of Samiddhārthaka, very highly trusted spy of Cāṇakya and an apparant friend of Śakaṭadāsa (Acts I, IV, V etc.)
 
  ***Sārñgarava—*** A pupil and a personal attendant of Cāṇakya (Act I)
-
-
 
 *** Śorottarā—***A female doorkeeper in the employ of King Candragupta (Act III)
 
@@ -385,8 +306,6 @@ Mudraraksasa**
  ***Citravarmā**—*King of Kulūta, one of the five kings in close alliance and friendship with Malayaketu (Acts I.V etc.)
 
 *** Daṇḍapāśika—*** A police officer serving Candragupta.
-
-
 
 *** Dāruvarmā—***A carpenter, Rākṣasa's agent, who tried to kill King Candragupta with a mechanical arch, but failed.
 
@@ -430,8 +349,6 @@ Mudraraksasa**
 
  ***Vijayavarmā—***Chief of the Kṣatra clan (Act III)
 
-
-
  ***Viṣakanyā—***The poison-maiden employed by Cāṇakya to kill Parvataka (Acts I, II etc.)
 
  ***Visṇudāsa—***An intimate friend of Candanadāsa (Act VII)
@@ -446,11 +363,7 @@ Mudraraksasa**
 
   **The Camp of Malayaketu*—***not far off from Kusumapura or Pataliputra...Act V.
 
-
-
 ![](../books_images/U-IMG-1727748487Screenshot2023-06-15123943.png)
-
-
 
 **महाकविश्रीविशाखदत्तप्रणीतं**
 
@@ -475,8 +388,6 @@ Mudraraksasa**
 **ACT I**
 
  \[Pārvatī asks Lord Śiva—\] ‘Who is this blessed one, situated on your head?" \[Lord Śiva's answer—\] ‘It is also punningly, *she* is\] Śaśikalā \[i.e. the digit of the moon, also punningly a woman called by that name—\] ;\[Pārvatī further asks—\] ‘Is this possibly *(nu)* the name of this one?” \[Lord Śiva replie—\] ‘That here is just *(eva)* her appellation: though familiar to you, for what reason has \[it\] been for gotten \[by you\]?’ \[Pārvatī angrily says—\] ‘I am asking *about* \[also punningly’ I shall ask— \] *the women* and *not about* \[also punningly 'not\] *the moon*' \[Śiva coolly says—\] ‘if the moon be no authority *(pramāna)*, let Vijayā \[your female companion\] tell’. May the ingenuity \[not without a desire of mischief in it—*s'āthyam*\] of the pervading \[Lord Śiva\], desirous of thus *\[its\]*concealing the heavenly river \[lit., river of the gods\] \[viz. Gangā\] from the Godess \[Pārvati\], protect you.
-
-
 
 अपि च।
 
@@ -509,8 +420,6 @@ Mudraraksasa**
 
  Sūtradhāra (i. e. the Stage-Manager)—Enough of prolixityI have been ordered by the assembly to the effect—To-day the new play named ‘Mudrārākṣasa’, the composition (*kṛitḥi*) of the poet Viśākhadatta, son of the great king Bhāskaradatta \[Mahārāja Bhāskaradatta\], . grandson of Samanta (vassal) Vateśvaradatta, be represented on the stage by you. To tell the truth (*yatsatyam*), in me too, about to represent \[the new play\] in an assembly that appreciates the excellence of poetry, a very great. all round satisfaction manifests (*prādarbhavati*) \[itself\]. \[If it be asked\] why— \[the answer is—\]
 
-
-
 **स्त्रीयते बालिशस्थापि सत्क्षे[^7]त्रपतिता कृषिः।  
 न शालेः स्तम्बकरिता वप्तुर्गुणमपेक्षते॥३॥**
 
@@ -536,8 +445,6 @@ Mudraraksasa**
  This one is fetching water, \[while\] another here is pounding down fragrant substances. \[A third one\] here is stringing up multi-coloured (*vi-citrā*) wreaths.And here \[a fourth one\] is following up this pestle at thetime of its descent (lit. fall, *pāta*) with a sweet and indistinct ‘*hum’*—sound again and again.
 
  \[Well\] be it \[as it may \]. Having just called the house-wife, I shall ask \[her\]. (*Having looked* *towards the green-room*)
-
-
 
 **गुणवत्युपायनिलये स्थितिहेतोःसाधिके त्रिवर्गस्य।  
 मद्भवननीतिविद्ये कार्यादार्ये[^10] द्रुतमुपेहि॥५॥**
@@ -570,8 +477,6 @@ Mudraraksasa**
 
  **Naṭī—**As the moon, they say (*kala*), is to be eclipsed.
 
-
-
 ** सूत्रधारः—**आर्य के एवमाह।
 
  **नटी—**एवं खु णअहवासी जणो मन्तेदि। \[ एवं खलु नगरवासी जनो मन्त्रयते।\]
@@ -599,7 +504,6 @@ Mudraraksasa**
 
 ** Sūtradhāra—**Noble lady, I have taken special pains (*kṛtasiramah*) on the Science of the Luminaries. So let cooking for the sake of the revered Brāhmaṇas be caused to go on. With reference to *the eclipse of the moon,* however, you have been deceived (*vrpralabdhā*) by some one.
 
-
 †[^14] *That wicked planet, Ketu*, desires now to overwhelm by force.
 
 [^14]: "punningly, that malignant Rākṣasa along with [Malaya—] Ketu'."
@@ -615,8 +519,6 @@ Mudraraksasa**
 [^16]: "punningly, the policy of the wise (Canakya
 
  **Naṭī—** My lord, who again, having been the object \[of perception\] of \[i.e. on\] the earth, desires to save the moon from the onslaught by the planet \[Ketu\] ?
-
-
 
 ** सूत्रधारः—**आर्ये यत्सत्यं मयापि नोपलक्षितः। भवतु भूयोऽभियुक्तः स्वरव्यक्तिमुपलप्स्ये।
 
@@ -652,8 +554,6 @@ Mudraraksasa**
  Let us then go away from here. *(After this, both go away.*)
 
 **Here ends the Prelude.**
-
-
 
 (ततः प्रविशति मुक्ता शिखा परामृशन्कुपित्तश्चाणक्यः।)
 
@@ -693,8 +593,6 @@ Mudraraksasa**
 
   Moreover,
 
-
-
 **उल्लङ्घयन्मम[^21] समुज्ज्वलतः प्रतापं  
 कोपस्य नन्दकुलकानन धूमकेतोः।  
 सद्यः परात्मपरिमाण[^22]विवेकमूढः  
@@ -732,8 +630,6 @@ Mudraraksasa**
 
  **Cāṇakya—** Dear boy, is \[our\] close application to \[state—\] business that causes us to be disturbed (*vyākulayati*) \[and\] not again the attitude (*tā*) of having a bad temper (*duḥ-shīla*) towards the class of pupils, inherent (*saha-bhūḥ*) in a preceptor? (*Taking his seat, to himself*) How has this matter (*arthaḥ*) attained publicity among the citizens viz., that Rākṣasa, as the report goes (*kila*). with anger roused (lit. produced) by the utter destruction of the Nanda family, having entered into a pact (*sandhāya*)
 
-
-
 पौरेषु यथा किल नन्दकुलविनाशजनितरोषो[^25] राक्षस पितृवद्यामर्पितेन सकलनन्दराज्यपरिपणनप्रोत्साहितेन पर्वतकपुत्रेण मलयकेतुना सह संधाय[^26]तदुपगृहीतेन च महता म्लेच्छराजबलेन[^27] परिवृतो वृपलमभियोक्तुमुद्यत इति। (विचिन्त्य) अथवा येन मया सर्वलोकप्रकाशं नन्दवंशवधं प्रतिज्ञाय निस्तीणांदुस्तरा प्रतिज्ञासरित् सोऽहमिदानीं प्रकाशीभवन्तमायेनमर्थं समर्थः प्रशमयितुम्। कुतः। यस्य मम
 
 [^25]: "जनितरोषामशों।"
@@ -754,8 +650,6 @@ Mudraraksasa**
 with Malayaketu, son of Parvataka, enraged by the murder of his father \[further\] encouraged by the stipulation (*parapatana*) of the entire kingdom of the Nandas \[and\] surrounded by \[i.e. accompanied by a great force of the Mleccha kings, is girding up his loins (*ud-yukta*) to attack Vrsala \[Candragupta\]? Or, I, by whom having vowed the destruction of the Nanda family, in the presence of all people, has been crossed over the river of the vow, very difficult to cross over, that I am capable of checking effectively (*pra-śamayrtum*) this matter, though becoming publicnow. Why? Of me whose—
 
  Fire of wrath gets cooled down, like the fire in forest, on account of the absence of the object to be burnt and not out of exhaustion, after having rendered dark the moon-faces of the quarters in the form of the young ladies on the enemy's side by the continued grief-columns-of-smoke, after having scattered (*prakīrya*) profusely (*hāmam*) (or at will) the stupefaction ashes carried away by the statesmanship-wind over the minister-trees (and) burnt the bambooshoots (*vamśrapraroha*) in the form of the scions of the Nanda race, \[now\] divested of the flocks (*jana*) of birds in the form of the altogether frightened (*sambhrānta*) citizens.
-
-
 
 अपि च।
 
@@ -793,8 +687,6 @@ with Malayaketu, son of Parvataka, enraged by the murder of his father \[further
 
  have been dug out the nine Nandas like \[as many\] darts from the heart of the Earth, \[by whom\] has been made to have a firm stand (lit. footing) Sovereignty in the son of Murā (i.e. Candragupta), like a lotus-creeper in a lake, \[by whom\] has been divided, with a mind closely applied \[to the task\], the two-fold fruit, best and even (equal *tulyam*), of anger and affection, respectively, between the two (viz.,) the hating (enemy) and the one with a fine heart (i.e. the friend).
 
-
-
  अथवा अगृहीते राक्षसे किमुत्खातं नन्दवंशस्य किं वा स्यैर्यमुत्पादितं चन्द्रगुप्तलक्ष्म्याः। (विचिन्त्य) अहो राक्षसस्य नन्दवशे निरतिशयो भक्तिगुणः। स खलु कस्मिंश्चिदपि जीवति नन्दान्वयावयवे वृषलस्य साचिव्यं ग्राहयितुं न शक्यते। तदभियोगं प्रति निरुद्योगः शक्योऽवस्थापयितुमस्माभिः। अनयैव बुद्ध्या तपोवनगतोऽपि घातितस्तपस्वी नन्दवंशीयः सर्वार्थसिद्धिः। यावदसौ मलयकेतुमङ्गीकृत्यास्मदुच्छेदाय विपुलतरं प्रयत्नमुपदर्शयत्येव। (प्रत्यक्षुवदाकाशे लक्ष्यं बिद्ध्वा) साधु, अमात्य राक्षस, साधु। साधु, श्रोत्रिय, साधु। साधु, मन्त्रिबृहस्पते, साधु। कुतः।
 
 **ऐश्वर्यादनपेतमीश्वरमयं लोकोऽर्थतः सेवते  
@@ -803,8 +695,6 @@ with Malayaketu, son of Parvataka, enraged by the murder of his father \[further
  Or while Rāksåsa \[yet\] remains uncaptured, what extiraption of the Nanda race is effected or what stability of the Sovereignty of Candragupta has been ensured (lit. produced)? (*Reflecting*) O the unsurpassed (*nir-atiśaya*) quality of Rākṣasa of devotion to the race of the Nandas To be sure (*khalu*), so long as some member of the Nanda family is alive, he cannot be made to accept the \[principal\] ministership of Vṛṣala. \[All the same\] he can be caused to be inactive (*nir udyoga*), as far as attack against him is concerned (*tad abhiyogam prati*). With this very idea (*buddivyā*), was caused to be slain (the poor) Sarvārthasiddhi of the Nanda race, though he had repaired to a penance-grove. This notwith-standing (*yāvat*), having accepted Malayaketu \[as an ally\], he continues to put forth (lit show) a greater amount of effort for our extirpation. (*Having fixed his gaze at something in the space as if it were perceptible*) Bravo! Minister Rākṣasa, bravo! learned Brāhmana, bravo! Bravo! O Brihaspati (i.e. the wisest) among ministers, bravo. Why?
 
  People here (*ayam lokah*) wait on (their) master, not deprived of his prosperity, with an object (*artha-*of their own, interest of their own) in view. Those (servants), however (*punaḥ*), who follow him in adverse circumstances (*vpattrṣu*), (do so) due to the hope of \[the master securing\] his stability. But those who bear the yoke of duty, even
-
-
 
 **भर्तुर्ये प्रलयेऽपि पूर्व सुकृतासङ्गेन निःसङ्गया  
 भक्त्या कार्यधुरं वहन्ति कृतिनस्ते ते दुर्लभास्त्वादृशाः॥१४॥**
@@ -828,23 +718,17 @@ on the annihilation of their master, out of attachment for \[his\] former good t
 
  Therefore I too am remaining absolutely alert (or vigilant*, na sayāna,* lit, not sleeping ) in this matter (*vastu*). Effort, as far as lies within \[our\] power, is being made in regard to the capture of this one. How possibly (*iva*)? Here the rumour of the nature of a public scandal (*janāpavadaḥ*) has been just caused to be spread in the world to the effect (*iti*)
 
-
-
 कृतं भवतीति विषकन्यया राक्षसेनास्माकमत्यन्तोपकारि मित्रं घातितस्तपस्वी पर्वतक इति संचारितो जगति जन्मपवादः। लोकप्रत्ययार्थमस्यैवार्थस्याभिव्यक्तये पिता ते चाणक्येन घातित इति रहसि त्रासयित्वा भागुरायणेनापवाहितः पर्वतकपुत्रो मलयकेतुः। शक्यःखल्वेष राक्षसमतिपरिगृहीतोऽपिव्युत्तिष्ठमानः प्रज्ञया निग्रहीतुम्। न पुनरस्य निग्रहात्पर्वतकवधोत्पन्नं राक्षसस्यायशः प्रकाशीभवत् प्रमार्ष्टुमिच्छामि। प्रयुक्ताश्च स्वपक्षपरपक्षयोरनुरक्तापरक्तजनजिज्ञासया बहुविधदेशवेषभाषाचारसंचाग्वेदिनो नानाव्यञ्जनाः प्रणिषयः। अन्विष्यन्ते च कुसुमपुरवासिना नन्दामात्यसुहृदा निपुण प्रचारगतम्। तत्तत्कारणमुत्पाद्य कृतककृत्यतामापादिताश्चन्द्रगुप्तसहोत्थायिनोभद्रभटप्रभृतयः प्रधानपुरुषाः शत्रुप्रयुक्ताना च तीक्ष्णरसदादीना प्रतिविधान प्रत्यप्रमादिनः परीक्षितभक्तयः क्षितिपतिप्रत्यासन्ना नियोजितास्तत्रप्तपुरुषाः। अस्ति चास्माकं
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 that with the thought that by the destruction of even one of (the two viz,) Vrṣala and Parvataka, Cāṇakya will have harm done (*apahritam*) to him, our extremely benevolent (*helpfulupakān*) friend, poor Parvataka, was caused to be killed through a poison-maiden by Rāksasa. For the clarification of this matter with a View to \[ensuring\] the convincing of the people, Malayaketu, son of Parvataka, was caused to go away by Bhagurāyaṇa, after having been frightened secretly with the words (*iti*) your father was caused to be assassinated by Cāṇakya'. Indeed it is possible to check this one \[Malayaketu\] with wisdom, though held on all sides by Rāksasa's intelligence (and) about to rise (or be active) against (us). I do not again by the restraint of this one, \[Malayaketu\] wish to wipe out the infamy (*a-yashah*) of Raksasa, arisen out of the annihilation of Parvataka getting publicity (as it is, quite naturally). And spies (*pra-ardhayaḥ*) have been (employed or) well appointed, with the desire of knowing persons such as are devoted to our Side and dissatisfied (*apa-rakta*) with that of the enemy respectively), (spies) in various garbs, having expert knowledge (*vedinah*) of the manifold dresses, languages, customs and manners (lit.movements) of (the many) regions. And (everything) connected with activities (*pra-cara*) of the friends of the minister of the Nandas (i.e.Rākṣasa) staying in Kusumapura (i.e. Pāṭaliputra is being sought \[ and found out very carefully
 
-
-
 सहाध्यायि मित्रमिन्दुशर्मा नाम ब्राह्मणः।स चौशनस्या दण्डनीत्या चतुःष्ट्यंगे ज्योतिःशास्त्रे च परं प्रावीण्यमुमगतः। समया क्षपणकलिङ्गधारी नन्दवंशवधप्रतिज्ञानन्तरमेव कुसुमपुरमुपनीय सर्वनन्दामात्यैः सद्द सख्यं ग्राहितो विशेषतश्च तस्मिन् राक्षसः समुत्पन्नविश्रम्भः। तेनेदानीं महत्प्रयोजन मनुष्ठेयं भविष्यति। तदेवमस्मत्तो न किंचित्परिहास्यते। वृषल एव केवल प्रधानप्रकृतिरस्मास्वारोपितराज्यतन्त्रभारः सततमुदास्ते। अथ वा यत्स्वयमभियोगदुःखैरसाधारणैरपाकृतं तदेव राज्यं सुखयति कुतः।
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 (or skilfully, *npuram*). And the principal parties, Bhadrabhata and others, rising with Candragupta have been caused to reach the stage of seeining (or sham) malcontents (*kritakakrityatām āpādrtāḥ*), having \[for that purpose\] created various (tat-tat) occasions (or reasons of discontent, *kāranam*). And reliable (*āpta*) persons \[whose duty would be to be\] quite close to the lord of the earth; with their devotion put to test, ever watchful (a-pramādinah not in the habit of being negligent) in counteracting \[the mischievous activities\] of assassins and those who administer terrible poison, appointed \[as these latter are for the purpose\] by the enemy, have been appointed there, \[in close vicinity of the king\]. And there is our friend, a Brahmana named Indusarman. And he has attained the highest mastery (or skill, *prāviryam*) in the science of polity composed by Uśanas and in the Science of the Lumiaries, consisting of sixty-four parts. He, putting on the garb of a Kṣapaṇaka, has been made to make friendship with all the ministers of Nanda, having been (first) taken to Kusumapura (*Pāṭaliputra*), immediately after (my) vow of the destruction of the Nanda race and particularly has Rākṣasa confidence in him produced \[in his mind\]. Very great will be the purpose that will now be served by him. Thus, on our part, there is nothing that will be neglected (Iit. abandoned). Only \[there is this slight difficulty that\] Vṛṣala, the principal member \[of the body politic\] with the heavy responsibility of the administration of the kingdom imposed on us, ever remains indifferent. Or, \[rather is this a fact that\] only that kingdom which is divested of the uncommon (i. e. very great) pains of self-application, gives happiness. Why?
-
-
 
 **स्वयमाहृत्य भुञ्जाना बलिनोपि स्वभावतः।  
 गजेन्द्राश्च नरेन्द्राश्च[^35] प्रायः सीदन्ति दुःखिताः॥१६॥**
@@ -883,8 +767,6 @@ that with the thought that by the destruction of even one of (the two viz,) Vr�
 
  I shall just enter this house and showing (i.e.spreading out for view) the Yama-chart, sing (some) songs.
 
-
-
  जाव एदं गेह पविसिअ जमपडं दंराअन्तो गीआइं गामि। \[यावदेतद्गृहं प्रविश्य यमपटं दर्शयन् गीतानि गायामि। \] (इति परिक्रामति)
 
 ** शिष्यः—**(विलोक्य) भद्र, न प्रवेष्टव्यम्।
@@ -921,8 +803,6 @@ that with the thought that by the destruction of even one of (the two viz,) Vr�
 
 ** Pupil—** O fool, you desire to take away (lit steal) the omniscience of our preceptor.
 
-
-
 ** चरः—**हंहो बह्मण, जइ तुह उवज्झाओ सव्वं जाणादि ता जाणादु दाव कस्स चन्दो अणभिपेदो त्ति। \[अहो ब्राह्मण, यदि तवोपाध्यायः सर्वं जानाति तदा जानातु तावत्कस्य चन्द्रोऽनभिप्रेत इति।\]
 
 ** शिष्यः—** मूर्ख, किमनेन ज्ञातेनाज्ञातेन[^37] वा।
@@ -950,8 +830,6 @@ that with the thought that by the destruction of even one of (the two viz,) Vr�
  The character (*silam*) of lotuses which are attractive is entirely out of tune (*vi-samvadati*) with their \[handsome\] form \[–of lotuses–\] which are opposed to the moon when possessed of a full orb \[punningly opposed to *Candragupta*, even when with the regal circle full or well equipped\].
 
 ** Cāṇakya—** (*Listening, to himself*) Oh! I know persons who are dissatisfied towards Candragupta—'this is what is hinted by this \[man\].
-
-
 
 ** शिष्यः—**मूर्ख, किमिदमसंबद्धमभिधीयते।
 
@@ -994,8 +872,6 @@ that with the thought that by the destruction of even one of (the two viz,) Vr�
 
 ** Cāṇakya—** Good man! Now give (lit. describe) the accounts of the duty you were entrusted with (*sva-niyoga*). Are the subjects entertaining affection for Vṛṣala?
 
-
-
 ** चरः—**अह इं। अज्जेण खु तेसु तेसु विराअकारणेसु परिहारिदेसु सुगहीदणामहेए देबे चन्दउत्ते दिढं अणुरत्ताओ पार्केदिओ। किंदु उण अत्थिएत्थ अरे अमच्चरक्खसेण सह पढमं समुप्पण्णसिणेहबहुमाणा तिण्णि पुरिसा देवस्स चन्दसिरिणो सिरिंण सहन्दि। \[अथ किम्। आर्येण खलु तेषु तेषु विरागकारणेषु परिहृतेषु सुगृहीतनामधेयेदेवे चन्द्रगुप्ते दृढमनुरक्ताः प्रकृतयः। किंतु पुनरस्त्यत्र नगरेऽमात्यराक्षसेन सह प्रथमं समुत्पन्नस्नेहबहुमानास्त्रयः पुरुषा देवस्य चन्द्रश्रियः श्रियं न सहन्ते।\]
 
  **चाणक्यः—** (सक्रोधम्)[^39]... न सहन्त इति । (प्रकाशम्) भद्र।") ननु वक्तव्यं स्वजीवितं न सहन्त इति। भद्र, अपि ज्ञायन्ते नामधेयतः।
@@ -1026,8 +902,6 @@ that with the thought that by the destruction of even one of (the two viz,) Vr�
 
 २.Add (प्रकाशम्) किनामधेयो हि सः।
 
-
-
 ** चरः—**जीवसिद्धी णाम[^40] जेण सा अमच्चरक्खसप्पउत्ता विसकण्णा देवे पव्वदीसरे समावेसिदा। \[जीवसिद्विर्नाम येन पा अमात्यराक्षसप्रयुक्ता विषकन्या देवे पर्वतेश्वरे समावेशिता।\]
 
 [^40]: "चाणक्यः—अस्मद्रिपुपचे बद्धपक्षपात इति कथमवगतं भवता । चरः—जेण..."
@@ -1053,8 +927,6 @@ that with the thought that by the destruction of even one of (the two viz,) Vr�
 ** Cāṇakya—**(*Laughing, to himself*) A Kāyastha, that (*iti*) (is really) a (very) small matter \[lit, measure, *mātrā*)\]. Even so, it is not proper to ignore even an ordinary enemy. By me, Siddhārthaka has (already) been specially (*vi*) appointed (*nakṣipta*), in regard to him, in the guise of a friend. (*Aloud*) Good man ! I wish to hear(the name of) the third.
 
 ** Spy—**The third too, the *alter ego* (lit, the second heart) of Minister Rākṣasa (is) a resident of Puṣpapura, President of the Guild of Jewellers, Candanadāsa by name. \[It is\] in his house (lit., in whose house), that Minister Rāksasa has left his wife for sefety \[lit., having left as deposit, *nyāsīkṛtya* \]and escaped from the city.
-
-
 
 ** चाणक्यः—**(आत्मगतम्) नूनं सुहृत्तमः। न ह्यनात्मसदृशेषु राक्षसः कलत्रं न्यासीकरिष्यति। (प्रकाशम्) भद्र, चन्दनदासस्य गृहे[^42] राक्षसेन[^43]कलत्रं न्यासीकृतमिति कथमवगम्यते।
 
@@ -1082,8 +954,6 @@ that with the thought that by the destruction of even one of (the two viz,) Vr�
 
 ** Spy—**May the Revered one listen. To start with, (*tāvat*) appointed by the Revered one to find out the behaviour of the citizen-folk, I, wandering about with this Yama-chart, not likely to be looked at with suspicion by others, while entering
 
-
-
 श्रेष्ठिचन्दनदासस्य गृहं प्रविष्टोऽस्मि। तत्र यमपटं प्रसार्य प्रवृत्तोऽस्मि गीतानि गातुम्।\]
 
 ** चाणक्यः—**ततः किम्।
@@ -1108,8 +978,6 @@ the houses of others, entered (by chance in the course of my wandering)the resid
 
 ** Spy—**And then, a boy about five years old, with a handsome and lovely form of body, with eyes dilated on account of curiosity, (quite) natural to childhood, began to come out from one apartment (*apavāraka*). Then in the interior of that very apartment, there arose a loud mixed cry of the "women–folk—'alas! (he) has gone out alas! (he) has gone out' \[cry\] clearly indicating (*ni-vedayitā*) theentertainment (*pargraha*) of fear (*saṇkā*) \[by them\]. Then that little boy, while yet stepping out, was, after being reprimanded, taken up by her creeper-like delicate hand, by one lady who had (only) slightly shown up her face at the door-region. This signetring, fashioned with aview to \[suit the measure of a man's finger, slipped away from her hand with its fingers caused to shake excessively by the
 
-
-
 एकस्मादपवरकात्पञ्चवर्षदेशीयः प्रियदर्शनीयशरीराकृतिः कुमारको बालत्वसुलभकौतूहलोत्फुल्लनयनो निष्क्रमितुं प्रवृत्तः। ततो हा निर्गतो हा निर्गत इति शङ्कापरिग्रहनिवेदयिता तस्यैवापवरकस्याभ्यन्तरे स्त्रीजनस्योत्थितो महन्किलकलः। तत ईषद्द्द्वारदेशदापितमुख्या एकया स्त्रिया स कुमारको निष्क्रामन्नेव निर्भत्स्यविलम्बितः कोमलया बाहुलतया। तस्याः कुमारसंरोधसंभ्रमप्रचलिताङ्गुलेः करात्पुरुषाङ्गुलिनरिणाहप्रमाणघटिता विगलितेयमङ्गुलिमुद्रिका देहलीबन्धे पतिता उत्थिता तयाअनवबुद्वैव मम चरणपार्श्वं समागत्य प्रणामनिभृता कुलवरिधूव निश्चला संवृत्ता। मयापि अमात्यराक्षसस्य नामाङ्कितेति आर्यस्य पादमूलं प्रापिता। तस्मादेषोऽस्या आगमः।\]
 
 ** चाणक्यः—**भद्र, श्रुतम्। अपसर न चिरादस्य परिश्रमस्यानुरूपं फलमधिगमिष्यसि।
@@ -1131,8 +999,6 @@ excitement of restraining the boy, fell down at the door-side and having bounced
 ** Cāṇakya—**Śārngarava! Śarngarava!
 
  **Pupil—**(*Entering*) (Revered) preceptor, command (me),
-
-
 
 ** चाणक्यः—**वत्स मसीर्भाजनं पत्रं चोपानय। (शिष्यस्तथा करोति।)[^51] उपाध्याय इदं मसीभाजन पत्रं च।")
 
@@ -1164,8 +1030,6 @@ excitement of restraining the boy, fell down at the door-side and having bounced
 
  **Pratīharī—**Revered one, His Majesty with a moon-like lustre having placed on \[his\] folded bands with the shape of a lotus-bud, requests the Revered one; Permitted by the Revered one, I wish to perform the obsequies (lit., rite pertaining to the yonder world) of His Majesty Parvateśvara. And I would \[like to\] give as a gift to the Brāhmaṇas the ornaments worn by him before'.
 
-
-
 ** चाणक्यः—**(सहर्षमात्मगतम्) साधु वृषल, ममैव हृदयेन सह संमन्त्र्य संदिष्टवानसि। (प्रकाशम्) शोणोत्तरे, उच्यतामस्मद्वचनादुद्वृषलः। अभिज्ञः खल्वसि लोकव्यवहाराणाम्। तदनुष्ठीयतामात्मनोऽभिप्रायः। किंतु पर्वतेश्वरधृतपूर्वाणि गुणवन्ति भूषणानि गुणवद्भ्य एव प्रतिपादनीयानि। तदहं स्वयमेव परीक्षितगुणान् ब्राह्मणान् प्रेषयामीति।
 
  **प्रतीहारीः—**ज अज्जो आणवेदि। \[यदार्थ आज्ञापयति।\] (इति निष्क्रान्ता।)
@@ -1192,8 +1056,6 @@ excitement of restraining the boy, fell down at the door-side and having bounced
  **Pupil—**Accordingly (shall I do). (Exit)
 
 ** Cāṇakya—**This is the later (part of the) matter (i.e. contents) of the letter. But of what nature (*kathamn*) shouldthe earlier one be? (*Reflecting*) Ah! (Now is it) known (by me). I have ascertained from the spies that, from the collection (*loka*) of those Mleccha kings, five who are the most important (*pradhāna*), are following Raksasa with the highest (amount of) Intimacy. They are as (stated) below:—
-
-
 
 **कौलूतश्चित्रवर्मा मलयनरपतिः सिंहनादो नृसिंहः  
 काश्मीरः पुष्कराक्षः क्षतरिपुमहिमा सैन्धवः[^56] सिन्धुषेणः।  
@@ -1225,8 +1087,6 @@ excitement of restraining the boy, fell down at the door-side and having bounced
  *Entering*) **Pupil—** Preceptor, command \[me to do what you like\].
 
  **Cāṇakya—**Dear boy, the hand-writing (lit., syllables) of a learned Brāhmaṇa worthy of respect (*srotriya*), though done with (a great) effort, is illegible (lit, not quite clear), as a rule (*nyatam*) Les Siddhārthaka be informed, therefore, in our name. Having caused a letter to be written with these words (lit, syllables) by Śakatadāsa, without the name being written on the cover (lit., without having given the outer name) telling him (i.e.Śakatadāsa) that (*iti*) this is to
-
-
 
 स्वयंवाच्यमित्यदत्तबाह्यनामानं लेखं शकटदासेन लेखयित्वा मामुपतिष्ठस्व। न चाख्येयमस्मै चाणक्यो लेखयतीति।
 
@@ -1265,8 +1125,6 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
 ** Śiddhārthaka—** (*With Joy*) Revered one, I am (thus) favoured \[by the Revered one\]. May the Revered one command what should be done by this slave (i. e.myself).
 
-
-
 ** चाणक्यः—**प्रथमं तावद्वध्यस्यानं गत्वा घातकाः सरोषदक्षिणाक्षिसंकोचसंज्ञा ग्राहितव्याः। ततस्तेषु गृहीतसज्ञेषु[^61] भयापदेशादितस्ततः प्रद्रुतेषु शकटदासो वध्यस्थानादपनीय[^62]राक्षसं प्रापयितव्यः। तस्माच्च सुहृत्प्राणपरिरक्षणपरितुष्टात्पारितोपिकं ग्राह्यम्। राक्षस एव कंचित्कालं[^63] सेवितव्यः। ततः प्रत्यासन्नेषु परेषु प्रयोजनमिदमनुष्ठेयम्। (कर्णे) एवमिव।
 
 [^61]: "संकेतेषु ।"
@@ -1297,17 +1155,15 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
 ** Cāṇakya—** Let Kālapāśika and Daṇdapāśika be instructed in our name that Vṛsala (i.e. Candragupta) commands—‘This Kṣapaṇaka named Jivasiddhi, who appointed by Rākṣasa caused Parvataka to be murdered through a poison-maiden, should, having proclaimed this very crime \[of his\], be exiled with disgrace (śa-nikāram) from the city.'
 
-
-
 ** शिष्यः—** तथा। (इति परिक्रामति।)
 
 ** चाणक्यः—**वत्स, तिष्ठ तिष्ठ। योऽयमपरः कायस्थः शकटदासो नाम राक्षसप्रयुक्तो नित्यमस्मच्छरीरमभिद्रोग्धुमिह प्रयतते स चाप्येनं दोषं प्रख्याप्य[^65] शूलमारोप्यताम्। गृजनश्चास्य बन्धनागारं प्रवेश्यतामिति।[^66]
 
 [^65]: "आरोप्य।"
 
-**शिष्यः—** तथा।[^67] (इति निष्क्रान्तः)
-
 [^66]: "निवेश्यताम् इति।"
+
+**शिष्यः—** तथा।[^67] (इति निष्क्रान्तः)
 
 [^67]: "यदार्य आज्ञापयति।"
 
@@ -1334,8 +1190,6 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 ** Cāṇakya—**(*With Joy, to himself*) Oh joy! Rāksasa has (already) been taken. (*Aloud*) Good \[man\], who \[do you say\] has been taken here?
 
 ** Śiddārthaka—** (Here) has been taken the message of the Revered one. I shall therefore set out for the accomplishment of the mission \[entrusted to me\].
-
-
 
 ** चाणक्यः—**(साङ्गुलिमुद्रं लेखमर्पयित्वा) गम्यताम्। अस्तु ते कार्यसिद्धिः।
 
@@ -1373,8 +1227,6 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
  **Candanadāsa—**(*To himself*)—On the part of even an innocent person\] called suddenly by Cāṇakya, (there arises) apprehension (*saṅkā*), what (greater reason is there) then (of fear arising) on the part of me, in whose case there has been a crime \[committed\]?
 
-
-
  सा भणिदा मए धणसेाप्पमुद्दा णिअणिवेससेठिआ कदापि चाणक्कहदओ विचिष्णावेदि। ता अवहिदा णिव्वहेअ भट्टिणो अमच्चरक्खसस्स धरअणम्। मह दाव जं होदि तं होदु त्ति। \[तस्माद्भणिता मया धनसेनप्रमुखा निजनिवेशसंस्थिताः कदापि चाणक्यहतको गेहं विचिनोति। तस्मादवहिता निर्वहत भर्तुरमात्यराक्षसस्य गृहजनम्। मम तावद् यद्भवति तद् भवत्विति।\]
 
 ** शिष्यः—**भोः श्रेष्ठिन् इत इतः।
@@ -1411,8 +1263,6 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
  **Candanadāsa—**(*Bowing*) Does not the Revered one knowthat unmerited courtesy causes pain to the heart \[greater even\]than an insult? I shall, therefore, sit here only on the ground \[as is\] proper \[for me\].
 
-
-
 ** चाणक्यः—**भोः श्रेष्ठिन् मा मैवम्।[^72] संभावितमेवेदमस्मद्विषैः भवतः। तदुपविश्यतामासन एव।
 
 [^72]: "उचितमेवेद"
@@ -1442,8 +1292,6 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 ** Cāṇakya—** Do indeed the faults of Candragupta not cause the subjects to remember with regret the excellences of the former lords of earth?
 
 ** Candanadāsa—**(*Closing Tus ears*) Let evil be averted.
-
-
 
 **ण[^74] सरअपुण्णमासीसमुग्गएण विअ पुष्णचन्द्रेण।  
 देवेण चन्दसिरिणा अहिअं णन्दन्ति पकीदीओ॥२२॥**
@@ -1481,8 +1329,6 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
 ** Cāṇakya—**O President \of the Merchant-Guild and how does that absence of affliction manifest (itself)?— thus. I say (*nanu*), we deserve to be asked by your honour.
 
-
-
 ** चन्दनदासः—**(आणवेदु अज्जो।) आज्ञापयतु आर्यः।
 
 ** चाणक्यः—**संक्षेपतो राजानि[अविरुद्धाभिर्वृत्तिभिः।[^77]
@@ -1519,8 +1365,6 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
 ** Candanadāsa—** Revered one, this false (report) has been given to the Revered one, by some one who does not know things well (*anabhijna*).
 
-
-
 ** चाणक्यः—**भोः श्रेष्ठिन् अलमाशङ्क्या। भीताः पूर्वराजपुरुषाः चौराणः मनिच्छतामपि गृहेषु गृहजनं निक्षिप्य देशान्तरं व्रजन्ति।[^81]ततस्तस्प्रच्छादन दोषमुत्पादयति।
 
 [^81]: "प्रभान्ति ।"
@@ -1544,8 +1388,6 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 ** Candanadāsa—**Just to this extent, there is a trickery of words (or dishonest statement) on my part.
 
 ** Cāṇakya—**O President \[of the Merchant-Guild\], while Candragupta is \[the ruling\] king, there would be no indulgence \[shown\] at all (*a-parigrah*) to trickeries. (Do you), there. fore, hand over the family members of minister Rākṣasa. Let there be no trickery on the part of your honour,
-
-
 
 ** चन्दनदासः—**अज्ज, णं विण्णवेभि तस्सि समए आसि अम्हाधरे अमनरक्खसस्स धरअण! त्ति। \[आर्य, ननु विज्ञापयामि तस्मिन्समये आसीदस्मद्अमात्य राक्षस्य गृहजन इति।\]
 
@@ -1584,8 +1426,6 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
 ** Cāṇakya—** And (as) another (thing) \[you may us be told\]. Don't think that like Viṣṇugupta who uproote Nanda (*when the sentence as thus half uttered gesticulationbashfulness*), minister Rākṣasa will uproot Candragupta. See
 
-
-
 **विक्रान्तैर्नयशालिभिः सुसचिवैः श्रीर्वक्रनासादिभि-  
 र्नन्दे जीवति यां तदा न गमिता स्थैर्यं चलन्ती मुहुः।  
 तामेकत्वमुपागतां द्युतिमिव प्रह्लादयन्तीं जगत्  
@@ -1619,8 +1459,6 @@ be read out by some one personally to some one else, wait on me. And to him (Śa
 
 ** Cāṇakya—**A *Ksapaṇaka alas* Or, let him sutter consequence of an attitude of harmfulness to the King. President \[of the Merchant-Guild\], thus is this king dea
 
-
-
 भोः श्रेष्ठिन् चन्दनदास, एवमृपथ्यकारिषु तीक्षणदण्डो राजा। तत् क्रियता पप्यं। सुहृद्वचः। समर्प्यता राक्षसगृहजनः अनुभूयता चिरं विचित्रो राजप्रसादः।
 
 ** चन्दनदासः—**णत्थि मे गेहे अमच्चघरअणो।\[नास्ति मे रोहे अमात्यगृहजनः।\]
@@ -1650,8 +1488,6 @@ severe punishment to those who have an attitude full of harm \[towards him\]. Le
 ** Pupil—**Accordingly \[shall I do\]. (*Saying so, goung out*, (and) *entering again*) Preceptor, here too, just one causing harm to the King, the scribe Šikațadāsa, is being led for being impaled on the stake.
 
 ** Cānakya—**Let (him) experience the consequence of his action. President, this king who thus meets out severe punishment to those given to what is injurious to the king, will not tolerate the concealment of Rākṣasa's wife on the part of your honour. \[Do you j, therefore, protect with another's wife, your wife as also life.
-
-
 
 ** चन्दनदासः—**अज्ज, किं मे भयं दावेसि। सन्तं वि गेहे अमच्चरक्खसस्स घरअण ण समापो किं उण असन्त। \[आर्य, किं मे भय दर्शयसि। सन्तमपिगेहेऽमात्यराक्षंसस्य गृहजनं न समर्पयामि कि पुनरसन्तम्।\]
 
@@ -1698,8 +1534,6 @@ severe punishment to those who have an attitude full of harm \[towards him\]. Le
 
 ** Candanadāsa—**I am prepared. May the Revered one carry out (what is) in keeping with his authority.
 
-
-
  **चाणक्यः—**शार्ङ्गरव, उच्यतामस्मद्वचनात्कालपाशिको दण्डपाशिकश्च।[^91] शीघ्रमयं दुष्टवणिक् निगृह्यताम्। अथवा तिष्ठतु। उच्यता दुर्गपालो विजयपालः। गृहीतसारमेनं[^92] सपुत्रकलत्रं सयम्य तावद्राक्ष यावन्मया वृषलाय कथ्यते। वृषल एवास्य प्राणहरं दण्डमाज्ञापयिष्यति।
 
 [^91]: "दण्डपाशिकः। "
@@ -1731,8 +1565,6 @@ severe punishment to those who have an attitude full of harm \[towards him\]. Le
 
  Just as this one (Candanadāsa) is giving up his life, like something disagreeable, in his (i.e. Rāksasa's) calamity, so in that manner surely, life \[would\] not \[be\]dear to him (Rāksasa) either (*api*), in the calamity of this one(Candanadāsa).
 
-
-
 (नेपथ्ये कलकलः)
 
  (प्रविश्य) **शिष्यः[^94] शिष्यः – उपाध्याय आज्ञापय। चाणक्यः– किमेष कलकल। (निष्क्रम्य विभाव्य पुनः प्रविश्य) शिष्यः–उपाध्याय।")—**उपाध्याय, एष खलु शकटदासं वध्यमानं वध्यभूमेरादाय समपक्रान्तः सिद्धार्थकः
@@ -1763,15 +1595,13 @@ severe punishment to those who have an attitude full of harm \[towards him\]. Le
 
 ** Cāṇakya—**(To himself) May he go for the accomplishment of the task \[entrusted to him.\] (*Aloud*) Dear boy, let Bhadrabhata, Dingarāta, Balagupta, Rājasena, Rohitāksa and Vijayavarmā be told (at my instance) '\[by you\] quickly pursuing, let the evil-souled Bhāgurayāyana be captured.
 
-
-
 ** शिष्यः—**तथा।[^55] (इति निष्क्रम्य पुनः प्रविश्य सविषादम्) हाधिक्कष्टं सर्वमेव तन्त्रमाकुलीभूतम्। तेऽपि खलु भद्रभटप्रभृतयः प्रथमतरमुषसेवापक्रान्ताः।[^98]
 
 [^55]: "यदाज्ञापयत्युपाध्यायः।"
 
-** चाणक्यः—**(स्वगतम्) सर्वेषामेव शिवाः पन्थानः सन्तु। (प्रकाशम्) वत्स, अलं विषादेन। पश्य
-
 [^98]: "प्रथमत एवाप्रभाताया रजन्यामपक्रान्ता। "
+
+** चाणक्यः—**(स्वगतम्) सर्वेषामेव शिवाः पन्थानः सन्तु। (प्रकाशम्) वत्स, अलं विषादेन। पश्य
 
 **ये याताः किमपि प्रधार्य हृदये पूर्वं गता एव ते  
 ये तिष्ठन्ति भवन्तु तेऽपि गमने कामं प्रकामोद्यमाः।[^99]  
@@ -1793,8 +1623,6 @@ severe punishment to those who have an attitude full of harm \[towards him\]. Le
  Those who have gone, having had something in their heart, have difinitely (*eva*) left already. Those who remain (lit., stand)—let them too be fully prepared, as they please (*kāmam*), to leave. Let, however, my intellect not depart (intellect) superior all by itself (*ekā eva kevalam*) to hundreds of armies in the achievement of the goal, with the greatness of its valour \[already\] patent (lit, seen) in the uprooting of the Nandas.
 
  (*Rising up*) Here (do I i.e.) shall I bring back the evil-souled Bhadrabhata and others. (*To himself*) O evil-souled Rākṣasa where will you now go? Here, before long, shall I,
-
-
 
 **स्वच्छन्दमेकचरमुज्ज्वलदानशक्ति-  
 मुत्सोकना[^101] मदबलेन विगाह्यमानम्।  
@@ -1819,8 +1647,6 @@ severe punishment to those who have an attitude full of harm \[towards him\]. Le
 
 **Here ends the First Act named  
 the Acquisition of the Signet-ring.**
-
-
 
 **द्वितीयोऽङ्कः ।**
 
@@ -1852,15 +1678,11 @@ the Acquisition of the Signet-ring.**
 
  \[Directing his eyes up\] (*in space*) Noble one (or Sir ), what do you say—‘who are you?’ Noble one, I (am) indeed a snake-charmer, Jīrṇavisa by name. What do you say 'I too wish to play with the serpent'? Now, what profession again do you have for your means of livelihood? What do you say— I am a servant at the king's house (hood) ? Well (in that case), the noble one *is* playing with a serpent already (*eva*) How possibly? snake-catcher not skilled in magic-spells and medicinal herbs, one who mounts an intoxicated elephant
 
-
-
 एसो। (पुनराकाशे) अज्ज, किं तुमं भणासि—“कि एदेसु पेडालसमुग्गएसु त्ति। अज्ज, जीविआए संपादआ सप्पा। किं भणासि—‘पेक्खिदुमिच्छामि, त्ति। पसीयदु अजो। अट्ठाणं खु एदम्। ता जइ कोदूहल एदि एदस्सि आवासे दंसेमि। किं भणासि ‘एदं खु भट्टिणी अमच्चरक्खमस्स गेहम्। णत्थिअम्हारिमाणं इह पवेसो’ त्ति। नेण हि गच्छदु अज्जो। मम उण जीविआए पसादेण अस्थि एत्थ पवेसो। कथं एमो वि अतिक्कन्तो। \[(....) आर्य किं त्वं भणसि— 'कस्त्वम्' इति। आर्य, अहं खहु आहितुण्डिको जीर्णविपो नाम। किं भणसि— ‘अहमपि अहिना खेलितुमिच्छामि’ इति। अथ कतरा पुनरार्योवृत्तिमुपजीवति। कि भणसि— ‘राजकुलसेवकोऽस्मि' इति। ननु खेलत्येवार्योऽहिना। कथमिव। अमन्त्रौषधिकुशलो व्यालग्राही मत्तमतङ्गजारोही लब्धाधिकारो जितकाशी राजसेवक इत्येते त्रयोग्यवश्य विनाशमनुभवन्ति। कथ दृष्टमात्रोऽतिक्रान्त एपः। आर्य, किं त्वं भणसि—‘किमेतेषु पुटकसमुद्रकेषु’ इति। आर्य, जीविकायः संपादकाः सर्पाः। किं भणसि—‘प्रेक्षितुमिच्छामि' इति। प्रसीदत्वार्यः। अस्थानं खल्वेतत्। तद्यदि कौतूहल एहि एतस्मिन्नावासे दर्शयामि। किं भणसि—‘इदं खलु अमात्यराक्षसस्य गृहम्। नास्त्यस्मादृशानामिह प्रवेशः’ इति। तेन हि गच्छत्वार्यः। मम पुनर्जीविकायाः प्रसादेन अस्तीह प्रवेशः। कथमेषोपि अतिक्रान्तः।\] (स्वगतम्—संस्कृतमाश्रित्य) अहो
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 and a king's servant who has secured (a position of) authority and is priding on his success, all these three without exception (*api*) certainly experience utter (*vi*) destruction (*nāsa*). How, no sooner was this one seen than did he go away? (*Again*) (*directing his eyes in space*) Noble one, what do yoa say what \[is there\] in these baskets and caskets?' Noble one, (there are in them) serpents who help (me) earn (my) livelihood. What do you say– ‘I wish to see (them)’? May the noble one be pleased. This indeed is no (proper place (for showing the serpents). So, if (there is) curiosity (on your part, please) come, in this house, I shall show. What do you say, ‘This (is) indeed Minister Rākṣasa's house. For men like us there is no entrance there’? In that case, may the noble one go. As for me again there as entrance on account of the favour (thanks to the good offices) of (my) means of livelihood. How?–this one also has gone away? (*To himself–resorting to Sanskrit*) Oh wonder! Beholding Candragupta well (*pari*)
-
-
 
 आश्चर्यम्। चाणक्यमतिपरिगृहीत चन्द्रगुप्तमवलोक्य विफलमिव राक्षस प्रयत्नमवगच्छामि। राक्षसमतिपरिगृहीत[^107] मलयकेतुमवलोक्य चलितमिवाधिराज्याच्चन्द्रगुमगच्छामि। कुतः
 
@@ -1877,10 +1699,10 @@ and a king's servant who has secured (a position of) authority and is priding on
 
 [^110]: "योः सुनयशालिनोः । "
 
+[^111]: "नन्दकुलराज्यलक्ष्मीः।"
+
 **विरुद्धयोर्भृशमिह मन्त्रिमुख्ययोर्महावने वनगजयोरिवान्तरे।  
 अनिश्चयाद्गजवशयेव भीतया गतागतैर्ध्रुवमि[^112]हखिद्यते श्रिया॥३॥**
-
-[^111]: "नन्दकुलराज्यलक्ष्मीः।"
 
 [^112]: "भृशमिह; ध्रुवमिव ।"
 
@@ -1893,8 +1715,6 @@ supported (*grhīta*) by Cānakya's intellect, I consider the effort of Rākṣa
  Thus then in the conflict of these two competent (*su*) ministers possessed of (great) intellect, the Sovereignty of the Nanda family, is as it were in doubt.
 
  Between these two eminent (*mukhya*) ministers, extremely (*bhṛśam*) opposed to each other, by the (Goddess of) Sovereignty, terrified (*bhītayā*), is being experienced \[a conṣiderable amount of \] worry (*khidyate*), to be sure on account of goings and comings (to and fro), through indecision as (*eva*) is experienced (a considerable amount of) worry, by a female elephant, terrified, in a big forest, on account of comings and goings (to and fro) through indecision, between two forest-elephants, excessively opposed to each other.
-
-
 
  तद्यावदमात्यराक्षसं पश्यामि                    
   (इति परिक्रम्य[^113]स्थितः।)
@@ -1937,8 +1757,6 @@ Or,
 
  Here, having been subjected (*etya*) to the state of absolute (*atyartham*) servitude of other, is (my) mind devoted with extreme care (*nipuram*) to policy (or state-craft, *nīti*) by me who have not forgotten (my) devotion (to my master), who have not (allowed my) self (to be) deluded by
 
-
-
 **अत्यर्थ परदारयमेत्य निपुणं नीतो मनो दीयते  
 देवः स्वर्गगतोऽपि शात्रववधेनाराधितः स्यादिति॥५॥**
 
@@ -1970,8 +1788,6 @@ excessive attachment to objects of pleasure, who have not gone timorous (*nabhī
 
  Are the lords of earth born in celebrated families burnt (to ashes) on the surface of the earth?—that (you O) sinful one, have chosen the Maurya devoid (*hīna*) of noble descent (*kula*) as your husband?Or, the intelli-
 
-
-
 **प्रकृत्या वा काशप्रभवकुसुमप्रान्तचपला  
 पुरन्ध्रीणां प्रज्ञा पुरुषगुणविज्ञानविमुखी॥७॥**
 
@@ -1984,8 +1800,6 @@ excessive attachment to objects of pleasure, who have not gone timorous (*nabhī
 gence of women (*purandhrīrām*), fickle (*capala*) by nature (*prakṛtyā*) like the ends of the flowers arising from the Kāśa grass, is averse to (lit., with the face turned away from) the proper (or full) appreciation of the merits of men.
 
  Moreover, (O you) not-disciplined, I shall frustrate your desire (*akāmām karomi*) by just uprooting your resort (itself). (*Reflecting*) By me just, going out of the city, having kept safely (*nihsipya*) (my) family members in the house of my best friend Candanadāsa, the right thing was done. Why? Rāksasa is not indifferent in regard to the attack on Pāțaliputra (Kusumapura) —with this thought (it), the effort of those dwelling there and having the same mission with us, depending (for their livelihood) on the grace (lit, fest) of His Majesty, will not be slackened. And Sakațadāsa bas been placed \[there\] with a vast accumulation of money (*kośa-sancaya*), for the support of assassins and givers of poison (*tihṣra-radamam*) employed by us to do harm to the body of Candragupta and for the sake of (getting) secret information regarding the doings (*kṛtya*) of the enemy \[or (2) for secret overtures (*upacāra*) with the malcontents (*kṛtya*) (on the side) of the enemy\]. And friends headed by Jivasiddhi have been made to busy themselves with a View to getting the news about the enemy every moment and breaking up their compact ogranisation (*sam-hatr*). So, why \[say\] much in this respect?—
-
-
 
 **इष्टात्मजः सपादि सान्वय एंव देवः शार्दूलपोतमिव यं परिपोष्य नष्टः।  
 तस्यैव बुद्धिविशिखेन भिनह्मि मर्म वर्मिभवेद्यदि[^121] न दैवमदृश्यमानम्[^122]॥८॥**
@@ -2031,8 +1845,6 @@ gence of women (*purandhrīrām*), fickle (*capala*) by nature (*prakṛtyā*) l
 
 ** Rākşasa—**Noble \[one\], I salute \[you\]. Priyamvadaka, may a seat be brought.
 
-
-
 ** पुरुषः—** एदं आसणम्। उवविसदु अजो। \[ इदमासनम् \] उपविशत्वार्यः।\]
 
  **कञ्चुकी—**(उपविश्य)—कुमारो मलयकेतुरमात्यं विज्ञापयति। चिरात्प्रभृत्यायैः परित्यक्तोचितसंस्कार इति पीड्यते मे हृदयम्। यद्यपि सहसा स्वामिगुणा न शक्यन्ते विस्मर्तुं तथापि मद्विज्ञापनां मानयितुमर्हत्यार्यः। (इत्याभरणानि प्रदर्श्य) इमान्याभरणानि कुमारेण स्वशरीरादवतार्य प्रेषितानि धारयितुमर्हत्यमात्यः।
@@ -2057,8 +1869,6 @@ gence of women (*purandhrīrām*), fickle (*capala*) by nature (*prakṛtyā*) l
 ** Rāksasa—**Noble Jājali, may the Prince be requested at our instance. Due to the extreme attraction of (lit, partiality for) your honour's merits, the excellent qualities of the Master have been forgotten altogether (or already,– '*eva*'). But
 
  I shall not wear even the slightest decorative arrangement on these limbs \[of mine\] devoid of valour, \[and\] miserable (*krpana*) on account of being subjected (*ākrānti*) to humiliation \[at the hands\] of the enemy, till the time (*tāvat*) that (*yāvat*) O best of men, this throne of you, fashioned out of gold, with the entire (*nuiśśeṣa*) circle of the enemies destroyed, is not set up in the Sugāṇga palace.
-
-
 
 ** कञ्चुकी—**अमात्ये नेतरि सुलभमेतत्कुमारस्य। तत्प्रतिमान्यता कुमारस्य प्रथमः प्रणयः।
 
@@ -2096,8 +1906,6 @@ gence of women (*purandhrīrām*), fickle (*capala*) by nature (*prakṛtyā*) l
 
 ** Snake-charmer—**Good \[man \], I am indeed a snake-charmer, Jirṇavisa by name. I wish to play with serpents in the presence of the minister.
 
-
-
 ** पुरुषः—**चिट्ठजाव अमच्चस्स णियेदेमि। (राक्षसमुपसृत्य) अमच्च, एसो खु सप्पजीवी इच्छदि सप्पदंसेदुम्। \[ तिष्ठ यावदमात्यस्य निवेदयामि। अमात्य, एष खलु सर्पजीवीच्छति सर्पे दर्शयितुम्।\]
 
 ** राक्षसः—**(वा माक्षिस्पन्दनं सूचयित्वा आत्मगतम्) कथं प्रथममेव सर्पदर्शनम्। (प्रकाशम्) प्रियवदक, न नः कौतूहलं सर्पदर्शने[^132]। तत्परितोष्य विसर्जयैनम्।
@@ -2120,8 +1928,6 @@ gence of women (*purandhrīrām*), fickle (*capala*) by nature (*prakṛtyā*) l
 ** Priyamvadaka—**Accordingly (shall I do). (*With thus, having approached the snake-charmer*) Noble one, here indeed does the minister show favour to you with the result \[sought by you\] of seeing, not, however (lit, again), with seeing \[the serpents\].
 
 ** Snake-charmer—**Good \[man\], request the minister— 'I am not only one who earns his livelihood with \[ the display\] of serpents \[but I am also\] a composer of poems in Prākṛta, indeed. If the minister does not favour me with seeing \[my exhibits\], therefore, then, let him \[kindly\] read this leaflet (*patraka*).
-
-
 
 ** पुरुषः—**(पत्रं गृहीत्वा राक्षसमुपसृत्य) अज्ज, एसोखु अमच्चं विष्णवेदि गा केवलं अहं सप्पजीवी। पाउडकवी खु अहम्। ता जइ मे दंसणेण प्रसादं ण करेदि तदो एदं वि दाव पत्तअं वाचेदु त्ति। \[...आर्य, एष खल्वमात्य विज्ञापयति न केवलमहं सर्पजीवी। प्राकृतकविः खल्वहम्। तस्माद्यदि मे अमात्यो दर्शनेन प्रसादं न करोति तत एतदपि तावत्पत्रकं वाचयित्विति।\]
 
@@ -2146,8 +1952,6 @@ gence of women (*purandhrīrām*), fickle (*capala*) by nature (*prakṛtyā*) l
  Having drunk with its skill juice in flowers so as to leave nothing as the remnant, that which the bee emits, serves the purpose of others.
 
  (*Reflecting, to hemself*) Oh the purport of the verse is \[I am\] your spy, conversant with the happenings in \[ie in possession of news from\] Kusumapura. On account of \[my\] mind being engrossed in \[the diverse\] affairs \[of state\], and the very large number of spies, \[this\] was forgotten \[by me\] Now has been gained recollection \[of the same\]. Obviously (*tyaktam*) this' one must be Virādhagupta in the guise of a snake-charmer. (*Aloud*) (Priyavamdaka, usher him \[in\]. This one is a good poet. From him nice words deserve to be heard.
-
-
 
 ** पुरुषः—** तह।[^135] आणवेदि। ") \[तथा।\] ( इत्याहितुण्डिकमुपमृत्य ) उपसप्पदु अज्ज। \[उपसर्पत्वार्थः।\]
 
@@ -2179,8 +1983,6 @@ gence of women (*purandhrīrām*), fickle (*capala*) by nature (*prakṛtyā*) l
  (*Aloud*) May the minister be victorious.
 
 ** Rākṣasa—**(*Seeing*) O Virādha (*-when the word is thus halfuttered*) I say (*nanu*) with the beard grown \[far too much is this one\]. Priyamvadaha, now is recreation to be had with serpents. So let the retinue retire from here \[and\] rest \[itself\]. Do you too render your office not-vacant \[i. e. do you go about your work\].
-
-
 
 ** पुरुषः—**तह।[^138] \[तथा।\] (इति सपरिवारो[^139] निष्क्रान्तः)
 
@@ -2232,8 +2034,6 @@ gence of women (*purandhrīrām*), fickle (*capala*) by nature (*prakṛtyā*) l
 
 ** Virādhagupta—**Here I narrate. Kusumapura was, to start with (*tāvat*), besieged on all sides by the armies of Candra-
 
-
-
 कवाल्हीकप्रभृतिभिश्चाणक्यमतिपरिगृहीतैश्चन्द्रगुप्तपर्वतेग्बलैरुदधिभिरिवप्रलयोच्चलितसलिलैः समन्तादुपरुद्धं कुसुमपुरम्।
 
 ** राक्षसः—**(शस्त्रमाकृष्य ससंभ्रमम्) अयि, मयिस्थिते कः कुसुममुपरेत्स्यति। प्रवीरक प्रवीरक, क्षिप्रमिदानीम्।
@@ -2267,8 +2067,6 @@ gupta and Parvteśvara, Śakas, Yavanas, Kirātas, Kambojas, Pārasikas, Bālhī
 
 ** Rākṣasa—**Alas! this is a past event. By me, however, was thought (lit., known) that this is that very time. (*Throwing the weapon*) Alas! Your Majesty Nanda! I remember your extreme kindness (lit., favour) towards Rakşasa.
 
-
-
 **यत्रैषा मेघनीला चरति गजघटा राक्षसस्तत्र याया-  
 देतत्पारिप्लवाम्भःप्लुति तुरगवलं वार्यतां राक्षसेन।  
 पत्तीनां राक्षसोऽन्तं नयतु बलमिति प्रेषयन्मह्यमाज्ञा-  
@@ -2289,8 +2087,6 @@ gupta and Parvteśvara, Śakas, Yavanas, Kirātas, Kambojas, Pārasikas, Bālhī
 ** Rākṣasa—**Friend, behold the wonder !
 
 १.सुरङ्गामधिगतेषु; सुरङ्गाधिगतेषु; युष्मासु dropped
-
-
 
 **कर्णेनेव विषाङ्गनैकपुरुषव्यापादिनी रक्षिता  
 हन्तुं शक्तिरिवार्जुनं[^148] बलवती या चन्द्रगुप्तं मया।  
@@ -2325,8 +2121,6 @@ gupta and Parvteśvara, Śakas, Yavanas, Kirātas, Kambojas, Pārasikas, Bālhī
 
  **Virādhagupta—**Then when Prince Malayaketu had gone away out of fear (*trāsa*) at the murder of his father, when Vairocaka, the brother of Parvataka was taken into confidence, and when the entry of Candragupta \[to take place at.a¸ specifie hour\] into the palace of the Nandas was publicly announced, by the accursed Canakya were addressed all the carpenters (*sūtradhārāḥ*) staying in Kusumapura, having (first) been invited (by him); at the instruction of the astrologere, Candragupta's \[state\] entry into the palace of Nandas would take place at the midnight hour. Let the palace, therefore, be decorated
 
-
-
 भृति सस्क्रियता राजभवनमिति। ततः सूत्रधारैर[^154]भिहितम् ‘आर्य, प्रथममेवदेवस्य चन्द्रगुप्तस्य नन्दभवनप्रवेशमुपलभ्य सूत्रधारेण दास्वर्मणा कनक्रतोरणन्यासादिभिः संस्कारविशेषैः संस्कृतं प्रथमराजभवनद्वारम्।[^155] अस्माभिरिदानीमभ्यन्तरे संस्कार आधेयः' इति। ततश्चाणक्यबदुना अनादिष्टेनैव सूत्रधारेण दास्वर्मणा संस्कृतं राजभवनद्वारमिति परितुष्ठेनेव सुचिरं दासवर्मणो दाक्ष्यं प्रशस्याभिहितम्—'अचिरादस्य दाक्ष्यस्यानुरूपं फलमधिगमिष्यसि दारुवर्मन्’।
 
 [^154]: "सूत्रकारैर ... ।"
@@ -2344,8 +2138,6 @@ gupta and Parvteśvara, Śakas, Yavanas, Kirātas, Kambojas, Pārasikas, Bālhī
 from the eastern gate. Thereupon was \[the following\] said by the carpenters: Having ascertained \[the news of\] the \[state-\] entry of His Majesty Candragupta, the main (lit., first) gate of the royal residence has already been decorated with special decorations such as the fixing up of golden arches and others by the carpenter Dāruvarman. By us now decoration inside (the palace) has to be arranged. Then by the Cāņakya-chap as though altogther gratified because the entrance to the royal residence was decorated by the carpenter Dāruvarman even before (lit, not) being ordered \[to do so\], having praised Dāruvarman's dexterity (also, vigilance, wisdom) for quite long (*su-evram*) was uttered \[the follhwing\]: 'Before long, will you, O Dāruvarman, win \[lit get \]a fruit, worthy (*amrūpa*) *of this oleverness* (*of yours*).
 
 ** Rākṣasa—**(*With concern*) Friend, whence \[could there be\] a full gratification of that Cāṇakya-chap? I make out Dāruvarman's effort to be fruitless or one with an undesirable consequence, in so far as, by him (lit., this one), not waiting till the time of the order, either because of the infatuation of the mind or because of the excess (*pra-karṣa*) of (his) devotion to the king (i.e. Nanda), was created a strong suspicion in the mind of the Cãnakya-chap. What next?
-
-
 
 ** विराधगुप्तः—** ततश्चाणस्यहतकेनानुकूललग्नवशादर्धरात्र[^158]समये चन्द्रगुप्तस्य नन्दभवनप्रवेशो भविष्यतीति शिल्पिनः पौराश्च गृहीतार्थान् कृत्वा तस्मिन्नेवक्षणे पर्वतेश्वरभ्रातरं वैरोचकमेकासने चन्द्रगुप्तेन सहोपवेश्य कृतः पृथ्वीराज्यविभागः[^159]।
 
@@ -2373,8 +2165,6 @@ from the eastern gate. Thereupon was \[the following\] said by the carpenters: H
 
 ** Rākṣasa—**(*To himself*) Surely (*myatam*), by the extremely cunning Cāṇakya-chap, having devised some \[kind of\] secret murder of even that poor one \[i.e.Vairocaka\], was this reputation in the populace \[*lokaprasiddhi*\] earned \[lit. collected *upa-citā*\] to wipe out the infamy created by the annihilation of Parvateśvara. (*Aloud*) What next?
 
-
-
 ** विराधगुप्तः—**ततः प्रथममेव प्रकाशिते रात्रौ चन्द्रगुप्तस्य नन्दभवनप्रवेशे कृताभिषेके किल वैरोचके विमलमुक्तामणिपरिक्षेपविरचितचित्रपटमयवबाणप्रच्छादितशरीरे मणिमयमुकुटनिबिडनियमितरुचिरतरमौलौ सुरभिकुसुमदामवैकक्ष्यावभासिनविपुलवक्षःस्थले परिचिततमैरप्यनभिज्ञायमानाकृतौचाणक्य हतकादेशाच्चन्द्रगुप्तोपवाह्या चन्द्रलेखा नाम गजवशामारुह्य[^162] चन्द्रगुप्तानुयायिना राजलोकेनानुगम्यमाने देवस्य नन्दस्य भवनं प्रविशति वैरोचके युष्मःप्रयुक्तेन दारुवर्मणा सूत्रवारेण चन्द्रगुप्तोऽयमिति मत्वा तस्योपरि घातनाय सज्जीकृतं यन्त्रतोरणम्। अत्रान्तरे बहिर्निगृहीतवानेषु[^163] स्थितेषु चन्द्रगुप्तानुयायिषु नृपेषु
 
 [^162]: " दागवशाम, चन्द्रलेखाभिधाना नागवशाम्।"
@@ -2384,8 +2174,6 @@ from the eastern gate. Thereupon was \[the following\] said by the carpenters: H
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ** Virādhagupta—**Then on the \[state-\] entry of Candragupta into the palace of the Nandas at night being already announced, when Vairocaka as the report went (*krla*) had been installed on the throne \[lit. had sprinkling of the waters of holy rivers carried out\] when with his body covered over with an armour of a variegated (*citra*) texture elaborately fashioned as it was of spotless pearls studded (lit., thrown\] all over (*parikṣepa*), with his head all the more lovely closely (*nibida*) filled (*aryamit*) as it wis with a jem-studded (*marumaya*) crown, with his broad chest (*vakshasthala*) made resplendent by wreaths ot fragrant flowers worn over the left shoulder under the right arm across the chest (*vakshasthala*) with his form such as cloud not be recognised by even the most intrmately acquainted \[with him\], Vairocaka having mounted at the accursed Cāṇakya's instance the temale elephant named Candralekhã, \[as per pervious plans\]to be ridden by Candragupta, being followed by the host of kings who accepted the leadership of Candragupta, entered the palace of His Majesty Nanda by the carpenter employed by you \[*viz.,*\] Dāruvarman, thinking, f this one is Candragupta', was made ready the mechanical arch for being hurled on him. In the meanwhile, when the hings such as accepted the leadership of Candragupta stood with their vehicles held under control, *outside*, by Varvaraka the mahout of Candragupta, appointed just by you. desirous of taking out the dagger (*asiputrikā*) concealed well in
-
-
 
 युष्मत्प्रयुक्तेनेव चन्द्रगुप्तनिषाद्भिन्ना वर्वरकेण कनकदण्डिकान्त[^164]र्निद्दितामसिपुत्रिकामाक्रष्टुकामेनाबलम्बिता करेण कनकशृङ्खला[^165]वलम्बिनी कनकदण्डिका।
 
@@ -2416,8 +2204,6 @@ the small golden staft, was seized by \[his\] hand the small golden staff (*dand
 ** Virādhagupta—**Then the female elephant apprehending a stroke on (her) hips took very quickly to another gait By the mechanical arch which was let go according to the calculation in keeping with the previous gait \[but\] which tell far too wide of the mark, was killed poor Varvaraha with his hand busy \[holding\] the dagger that was drawn out even before reaching Vairocaka with the hope \[in his mind\] of \[i.e.that he was\] Candragupta. Then was killed poor Vairocaka, while just seated on the female elephant, by Dāruvarman, already mounted on a high plat̃form \[lit place\] of \[ie supporting\] the arch taking out the iron bolt that was the mechanism \[of the arch\] anticipating his own annihilation on account of the hurling of the mechanical arch.
 
 ** Rākṣasa—**Alas ! \[thus there\] Deteli a pair of disasters. Candragupta was *not* killed \[and\] Vairocaka and Varvaraka *were*killed by fate. Now, now \[did\] the carpenter Dāruvarman \[fare\]?
-
-
 
 ** विराधगुप्तः—**वैरोचकपुरःसरेण पदातिलेकेनैव लोष्ठघातं हृतः।
 
@@ -2461,8 +2247,6 @@ the small golden staft, was seized by \[his\] hand the small golden staff (*dand
 
 **Rākṣasa—**A rouge is that chap. Now, how \[did\] that physician \[fare\]?
 
-
-
 ** विराधगुप्तः—**तदेवौषधं पायितो मृतश्च।
 
  **राक्षसः—**(सविषादम्) अहो महान्विज्ञानराशिपरतः। अथ तस्य शयनाधिकृतस्य प्रमोदकस्य किं वृत्तम्।
@@ -2491,8 +2275,6 @@ the small golden staft, was seized by \[his\] hand the small golden staff (*dand
 
 ** Rākṣasa—** How, evenhere we were struck adversely by Fate: Now what \[ is the news about Bībhatsaka and others, appointed by us to strike against the person of Candragupta, \[when\] asleep, who were already dwelling within the walls of the royal residence, having come by \[lit. to\] the underground passage?
 
-
-
 ** विराधगुप्तः—**अमात्य, दारुणो वृत्तान्तः।
 
 ** राक्षसः—**(सावेगम्) कथं दारुणो वृत्तान्तः। न खलु विदितास्ते तत्र निवसन्तश्चाणक्य हतकेन।
@@ -2514,8 +2296,6 @@ the small golden staft, was seized by \[his\] hand the small golden staff (*dand
  By the evil-souled accursed Cānakya who, as soon as he entered the bed-chamber, prior to Candragupta, observing minutely, came to the conclusion this place \[lit, house\] is having persons \[staying\] in it,' as he saw \[lit., on seeing \] a row of ants, gettings out from some hole, having taken \[along\] particles of cooked rice, was that bed-chamber caused to be burnt down. And while it was being burnt down, all \[those\] Bibhatsaka and others, having failed to reach the door, the way to go out \[from where\] was already closed, their eyes blinded \[lit.,sobstructed\] by smoke, being caught up in the Fire \[that raged there\] were destroyed on the spot \[ lit, just there\].
 
 ** Rākṣasa—**(*With tears*) Alas ! Oh alas! Friend, behold the \[extremely\] favourable fortune \[lit., wealth of fortune\] of the accursed Candragupta. Why \[do I say so\]?
-
-
 
 **कन्या तस्य वधाय या विषमयी गूढं प्रयुक्ता मया  
 दैवात्पर्वतस्तया स निहतो[^176] निहतो।") यस्तस्य राज्यार्धहृत्।  
@@ -2554,8 +2334,6 @@ the small golden staft, was seized by \[his\] hand the small golden staff (*dand
 
  Is there no pain of burden on the person of \[ the serpent \] Sesa in so far as he does not throw \[away\] the earth \[on his head\]? Or is there no great fatigue \[caused\] to
 
-
-
 **किं त्वङ्गीकृतमुत्सृजन्कृपणवच्छूश्लाध्यो[^181] जनो लज्जते  
 निर्वाहः[^182] प्रतिपन्नवस्तुषु सतामेतद्धि गोत्रव्रतम्॥१८॥**
 
@@ -2586,8 +2364,6 @@ the Lord of the Day \[ i. e. the sun \], in so far as he does not remain motionl
 ** Virādhagupta—**Just (*tāvat*) to begin with, the Ksapanaka Jivasiddhi was expelled from the city, with disgrace.
 
 ** Rākṣasa—**(*To hamself*) This much is bearable. Change in \[ lit, fall from\] the place \[of residence\], will not cause trouble to one without any possessions. (*Aloud*) Friend, referring to what offence was he expelled?
-
-
 
 ** विराधगुप्तः—**एष राक्षसप्रयुक्तया[^183] विषकन्यया पर्वतेश्वरं व्यापादितवानिति।
 
@@ -2621,8 +2397,6 @@ the stake.
  **Rākṣasa—**(With, teams) Alas! Oh friend Sākatadasa, this kind of death \[is altogether\] undeserved by you Or, departed for the sake of \[your\] master, you should not be mourred for. It is we alone (*eva*) that wish to live even on the total destruction of the Nanda family, that deserve to be mourned for.
 
 ** Virādhagupta—**Minister, you are striving hard just with the purpose that the master's interest be accomplished.
-
-
 
 **राक्षसः—**सखे
 
@@ -2667,8 +2441,6 @@ the stake.
  **Virādhagupta—**Then, when \[ by him \] being requested, the minister's wife was not surrendered, by the Cāṇakya-chap, extremely enraged
 
  **Rāksasa—**( *With emotion* ) was not, I hope, killed ?
-
-
 
  **विराधगुप्तः—**न हि। गृहीतगृहसारः सपुत्रकलत्रो बन्धनागारे निक्षिप्तः[^187]।
 
@@ -2715,8 +2487,6 @@ the stake.
 
 ( *Then enter Sakatadāsa, followed by Srddhārthaka* . )
 
-
-
  **शकटदासः—**( स्वागतम् )
 
 **दृष्ट्वामौर्यमिव प्रतिष्ठितपदं शूलं धरित्र्यास्तले[^188]  
@@ -2753,9 +2523,6 @@ the stake.
 
 ( *Sakatadāsa does accordingly.*)  
 
-
-
-
 ** राक्षसः**—(चिरं परिष्वज्य ) इदमासनमास्यताम्। ( शकटदास उपविष्टः )
 
 ** राक्षसः**—सखेशकटदास, अथ कोऽयं मे ईदृशस्य हृदयानन्दस्य हेतुः।
@@ -2782,8 +2549,6 @@ the stake.
  Rākşasa—( *With joy* ) Good \[friend \] Siddhārthaka, is this adequate as a recompense\] of this good turn ( you have done me\] ? Even then, let it be \[kindly \] accepted. ( *With these words, taking off the ornaments from has body, offers them* ).
 
  Siddharthaka—(*Taking them and falling prostrate at his feet, to himself*) This indeed is the teaching \[or instruction \] of the noble one \[ie Cānakya \]. \[Well be it \[as it is\]. I shall do accordingly. (*Aloud*) Minister, of \[ me \] entered here for the first time, there is no intimate acquaintance, \[ so that having kept this favour of the minister with him \[lit., whom I shall be altogether happy \[i. e. without any worry\]. I wis
-
-
 
 दिच्छाम्यहमेतया मुद्रया मुक्तिममात्यस्येव भाण्डागारे स्थापयितुम्। यदा मे प्रयोजनं तदा ग्रहीष्यामि।
 
@@ -2813,8 +2578,6 @@ therefore, to have this kept, having been sealed with this signet–ring into th
  Rākşasa—\[This\] is proper,
 
  Siddhārthaka— Minister, what is proper here?
-
-
 
 ** राक्षसः**—भद्र, यन्माहानानां गृहे पतितस्यैवंविधस्योपलब्धिरिति।
 
@@ -2853,8 +2616,6 @@ therefore, to have this kept, having been sealed with this signet–ring into th
  Rākşasa—Speak out with \[unhesitating\] confidence.
 
  Siddhārthaka—The minister is already ( *eva* ) aware that having done \[something \] disagreeable to the Cānakya chap, there is no re-entrance into Pāțaliputra. I therefore, wish to wait upon the feet of the Minister himself.
-
-
 
 ** राक्षसः**—भद्र प्रियं नः। किन्तु त्वदभिप्रायापरिज्ञानान्तरितोऽयमस्मदनुनयः। तदेवं क्रियताम्।
 
@@ -2897,8 +2658,6 @@ therefore, to have this kept, having been sealed with this signet–ring into th
  Virādhagupta—Minister, this is manifest \[ or evident \]  
 ( *prakāsam*) there: Because Candragupta is angry with Cānakya since the going away of Malayaketu, Cāṇakya on his part, not having patience with Candragupta on account of \[ his-Cānakya's\] state of being excessively proud of success \[ secured \], continues increasing the torment ( *pīdā*) of Candra-
 
-
-
 कुपितश्चन्द्रगुप्तचाणक्यस्योपरीतिचाणक्योऽप्यतिजितकाशितयाऽसहमानश्चन्द्रगुप्तंतैस्तैराज्ञामङ्गैश्चन्द्रगुप्तस्य चेतःपीडामपचिनोति। इत्थमपि ममानुभवः।
 
 ** राक्षसः—**( सहर्षम् ) सखे विराधगुप्त, गच्छ त्वमनेनैवाहितुण्डिकच्छद्मना पुनः कुसुमपुरम्। तत्र मे प्रियसुहृद्वैतालिकव्यञ्जनः स्तवकलशो[^197] नाम प्रतिवसति। स त्वया मद्वचनाद्वाच्यः यथा चाणक्येन क्रियमाणेष्वाज्ञाभङ्गेषु चन्द्रगुप्तः समुत्तेजनसमर्थैः श्लकैरुपश्लोकयितव्यः कार्ये चातिनिभृतं करभकहस्तेन संदेष्टव्यमिति।
@@ -2928,8 +2687,6 @@ gupta's mind by the various breaches of \[ Candragupta's \] commands. Of this ty
  Puruṣa—(*Entenny*) Minister, here indeed does Sakatadāsa requestfully convey to you—'here indeed are three sets of ornaments which are being sold; let the minister, therefore, see \[them\] himself.
 
  Rākṣasa—( *Seeing* ) Oh, very precious \[are \] the ornaments Good \[man\], let Śakatadāsa be told in our name, having given full gratification to the one who is selling \[ the sets of ornaments\], let \[ the lot \] be taken.
-
-
 
 ** पुरुषः—**तह। \[ तथा। \] ( इति निष्क्रान्तः )
 
@@ -2964,8 +2721,6 @@ gupta's mind by the various breaches of \[ Candragupta's \] commands. Of this ty
 
 —————
 
-
-
 **तृतीयोऽङ्कः।**
 
 ( ततः प्रविशति कञ्चुकी )
@@ -2999,8 +2754,6 @@ gupta's mind by the various breaches of \[ Candragupta's \] commands. Of this ty
 
  (*Walking about, looking up into the sky*) O \[ you \] men appointed \[ to various duties \] in the Suganga palace, His Majesty Candragupta, with a well-uttered \[ i. e. auspicious \] name, commonds you : I wish to see Kusumapura, all the more charming on account of the moon-light festival. Let the upper terraces, therefore, of the Sugānga palace be decorated \[ with a view to making them \] worthy of being seen \[ visible, also \]
 
-
-
 महोत्सवप्रतिषेधः' इति। याः दैवोपहताः किमनेन यः सद्यःप्राणहरेण कथोपोद्धातेन। शीघ्रमीदानीम्
 
 **आलिङ्गन्तु गृहीतधूपसुर[^207]भिस्तम्भान्पिनद्धस्रजः  
@@ -3026,8 +2779,6 @@ by use.’( *Again looking up into the shy*) What do you say: Noble \[one\], is 
  What do you say ‘Here the command of His Majesty is being \[ i. e.immediately will be \] carriedput Good \[man\] hurry up. Here. His Majesty Candragupta has already (*eva*) arrived. He who
 
  Possessed of spirit (*manasri*) in young age, determined to bear \[ie, adopt \], nobly that very yoke of the earth, which. though heavy, was for long borne by his father, quite experienced \[lit., to be placed at the yoke, forefront \], with limbs punningly subordinates\] altogether efficient
-
-
 
 **धुरं तामेवोच्चैर्नववयसि वोढुं व्यवसितो,  
 मनस्वी दम्यत्वात्स्खलति चं[^209] न दुःखं वहति च॥३॥**
@@ -3063,8 +2814,6 @@ by use.’( *Again looking up into the shy*) What do you say: Noble \[one\], is 
 
  King—( *To hemself*) A kingdom is indeed ( *nanu* ), the source \[lit., place \] of great displeasure (*a-prīte* ) to a king who is intent upon behaving in consonance with the \[Code of \] King's Duties. Why ? Insistence on accomplishing one's own interests, leaves a king, when \[there is \] carrying out the interests of others \[to which he resorts\]. One who has altogether abandoned his own interests, definitely is ‘lord of the earth' \[but\] not in keeping with the proper sense \[of the term 'lord of the earth'\]. If the interest of others is considered more valuable (*abhimata-taraḥ*) than that of one's own, alas ! \[the king then is \] under the influence of others. How does \[i. e. can\] a man, dependent upon others, know the taste of pleaure \[or happiness\] ?
 
-
-
  अपि च। दुराराध्या हि राजलक्ष्मीरात्मवद्भिरपि राजभिः। कुतः।
 
 **तीक्ष्णादुद्विजते मृदौ परिभवत्रासान्न संतिष्ठते  
@@ -3094,8 +2843,6 @@ by use.’( *Again looking up into the shy*) What do you say: Noble \[one\], is 
  And \[there is \] another \[thing \]. \[There is \] the Revered one's command : ' ‘having effected a sham \[ lit, artificial, *kṛtaka*\] quarrel, for a little while, by you should be carried out \[your\] dealings, \[as the sovereign ruler \], being independent \[of others \]. And that \[command\] has sowehow been accepted by me as though it were a sin. Or, with \[our\] mind ever (*s'as'vat,* lit., now and anon) being helped to be polished (*samskrıyamāṇa*) by the instruction of the Noble one, we are ever independent, without any single exception (*eva*). How ?
 
  Here a pupil, elaborately building up the right \[ type of \] act, is not warded off. When, however, he gives up the \[ proper \] path, through infatuation, then \[ does \] the
-
-
 
 **विनयरुचयस्तस्मात्सन्तः सदैव निरङ्कुशाः  
 परतरमतः[^217] स्वातन्त्र्येभ्यो वयं हि पराङ्मुखाः॥ ६॥**
@@ -3129,8 +2876,6 @@ preceptor \[act like or become \] a goad Good men, having a liking for disciplin
 
  The extensive ten quarters spread \[ lit., flow\] down the sky, like rivers (*saritaḥ* \[ flowing on from the month of Śrāvaṇa \] (*nabhas*) that have gradually become separate \[ also punnigly, those that have become narrow in their beds (*s'yanībūtāḥ* ), with sandy banks in the form of white strips of clouds scattered about on all sides, with flocks of Sārasa \[ birds \], cackling sweetly and indistinctly,
 
-
-
 **चिताश्चित्राकारैर्निशि विकचनक्षत्रकुमुदै—  
 र्नभस्तः स्यन्दन्ते सरित इव दीर्घा दश दिशः॥७॥**
 
@@ -3157,8 +2902,6 @@ preceptor \[act like or become \] a goad Good men, having a liking for disciplin
  Dy \[lady \] Autumn, instructing the waters that have risen far high \[punningly, grown insolent\] (*udvṛtta*) in regard to their own place, where they should stand, bringing about ( *dddhatyā* ) in the case of the paddy-stalks a bending low, when there is a rich crop \[ punningly *modesty* when there is plenty of prosperity \], removing (*harantyā*) the over-weening ( ugram ) pride, like \[some \] virulent poison, of the peacocks, has been effected here, oh wonder, a proper training (discipline *vinaya* ), as it were, of the entire world.
 
  Also *this* Ganges, who had become so very angry \[muddy, *laluşitā* \] with her husband, with many beloveds, doth \[lady\] *Autumn*, like a female-messenger skilled in lovematters \[ lit., love-talks or love stories \], with all her heart, having caused some-how, to come down to the \[proper\] path, as she \[the Ganges\] was getting thin \[ner and thinner, every day \], \[but now \] all bright (*prasannā*) \[ also punningly. highly satisfied \], *take* to the Lord of rivers.
-
-
 
  ( समन्तादवलोक्य[^222]) अये कथमप्रवृत्तकौमुदीर्महोत्सवं कुसुमपुरम्।आर्य वैहानरे, अथास्म-द्वचनादाघोषितः कुसुमपुरे कौमुदीमहोत्सवः।
 
@@ -3192,10 +2935,6 @@ preceptor \[act like or become \] a goad Good men, having a liking for disciplin
  King—Then how is Kusumapura, even now, without the mmoonlight-festival \[ duly \]commenced ?
 
  Courtezans, followed by gallants (*dhūrta* ), past-masters (*kovrdah* ) in clever ( *catura* ) love—talk, are not beautifying the streets with their attractive ( *pra*, lit., excellent, best movements, slow on account of the pressure of the weight of their broad buttocks. Nor ( *na ca* ) do the eminent citizens, masters \[of themselves and their possessions\],
-
-
-
-
 
 **अन्योन्यं स्पर्द्धमाना न च गृहविभवैः स्वामिनो मुक्तशङ्काः  
 साकं स्त्रीभिर्भजन्ते विधिमभिलषितं पार्वणं पौरमुख्याः॥ १०॥**
@@ -3245,8 +2984,6 @@ vying with each other\] in the matter of the glories of houses, being free from 
 
  King—Śonottarã, I wish to sit down.
 
-
-
 ** प्रतीहारी**—देव, एदं सिंहासणम्। उपविसकु देवो। \[ देव, इदं सिंहासनम्। उपविशतु देवः। \]
 
 ** राजा—** ( उपविश्य) आर्य वैहीनरे, आर्यचाणक्यं द्रष्टुमिच्छामि।
@@ -3292,8 +3029,6 @@ vying with each other\] in the matter of the glories of houses, being free from 
 
  ( *Fexing has eyes on a target on the sky* ) Rāksasa ! Rakşasa ! Desist from this difficult (and dangerous) undertaking youhave clung to ( *durvyasana* )
 
-
-
 **उत्सिक्तः कुरु चिवद्दष्टराज्यभारो[^231]  
 नन्दोऽसौ न भवति चन्द्रगुप्त एषः  
 चाणक्यस्त्वमपि च[^232]नैव केवलं ते  
@@ -3328,8 +3063,6 @@ vying with each other\] in the matter of the glories of houses, being free from 
 
  ( *Entering* ) Chamberlain—Full of suffering indeed isservice !
 
-
-
 **भेतव्यं नृपतेस्ततः सचिवतो राज्ञस्ततो वल्लभा–  
 दन्येभ्यश्च वसन्ति[^236] येऽस्य भवने लब्धप्रसादा विटाः।  
 दैन्यादुन्मुखदर्शनापलपनैः पिण्डार्थमायस्यतः  
@@ -3363,8 +3096,6 @@ vying with each other\] in the matter of the glories of houses, being free from 
  Here is a piece of stone to break (dry), cow-dung \[cakes of\] lumps with. Here is a heap of sacred grass brought by the young pupils. The house too, with the ending portion of the roof caused to bend extremely low, by sacrificial sticks that are being dried up \[in the sun\] is seen with \[its\] walls \[all\] worn out.
 
  Then it is only proper ( *sthāne* ), that to this one, His Majesty Candragupta is Vrsala. Why ?
-
-
 
 **स्तुवन्ति श्रान्तास्याः[^241] क्षितिपतिमभूतैरपि गुणैः  
 प्रवाचः[^242] कार्पण्याद्यदवितथवाचोऽपि पुरुषाः।  
@@ -3407,8 +3138,6 @@ vying with each other\] in the matter of the glories of houses, being free from 
 
  Cänakya—Vaihīnari, what brings you \[here\] \[lit, what is the purpose of your arrival ?\]  
 
-
-
  **कञ्चुकी—**आर्य, प्रणतससंभ्रमोच्च[^247]लितभूमिपालमौलिमालामाणिक्यशकलशिखापिशङ्गीकृतपादपद्मयुगलः[^248] सुगृहीतनामधेयो देवश्चन्द्रगुप्त आर्येशिरसा प्रणम्य विज्ञापयति—'अकृतक्रियान्तरायमार्ये द्रष्टुमिच्छामि' इति।
 
 [^247]: "१ प्रणतिसंभ्रमो ."
@@ -3440,8 +3169,6 @@ vying with each other\] in the matter of the glories of houses, being free from 
  Chamberlain—(*With fear*) May the Revered one be propitiated. By His Majesty, gone to the Sugānga palace was seen just personally, Kusumapura, with the moon-light festival not commenced.
 
  Cānakya—Ab \[now is whole matter\]known \[quite well by me\]. Then, in the meanwhile (*antar* ā ), having been incited by \[you\] honourable ones ( *bhawadbhah* ), is Vrsala infuriated. What else?
-
-
 
  ( कञ्चुकी भयं नाट्यंस्तूष्णीमथोमुखस्तिष्ठति )
 
@@ -3481,8 +3208,6 @@ vying with each other\] in the matter of the glories of houses, being free from 
 ** Cānakya—**(*Gesticulating ascending, and beholding*)—Oh Vṛṣala is occupying the throne. Nice, nice !
 
  Separated from the Nandas, who heeded not the kingly duties, and occupied by Vrsala, the mightiest \[lit. the bull \] among the kings, and \[thus \] associated with a
-
-
 
 **सिंहासनं सदृशपार्थिवसंगतं च  
 प्रीतिंपरां[^251] प्रगुणयन्ति गुणा ममैते॥१८॥**
@@ -3525,8 +3250,6 @@ king worthy of itself \[ is \] the \[ royal \] throne. These excellent things ( 
 ** King—**Through the favour of the Revered one, all \[ this \] is experienced by me even already (*eva*). May the Revered one, then, get seated.
 
 (*Both sit down as is in keeping with propriety* )
-
-
 
  **चाणक्यः—**वृषल, किमर्थ वयमाहूताः।
 
@@ -3572,8 +3295,6 @@ king worthy of itself \[ is \] the \[ royal \] throne. These excellent things ( 
 
 ** Cānakya**—Vṛṣala, well have you understood that Cāṇkaya acts not without a purpose even in a dream.
 
-
-
 ** चाणक्यः—** वृषल, सम्यग्गृहीतवानसि न प्रयोजनमन्तरा चाणक्यः स्वप्नेऽपि चेष्टत इति।
 
 ** राजा—**आर्य अत एवशुश्रूषा मा[^259] मुखरयति।
@@ -3615,8 +3336,6 @@ king worthy of itself \[ is \] the \[ royal \] throne. These excellent things ( 
 
  Let the matchless \[ lit., unprecedented\](*apūrva*) form (*tanu* ) of Lord Śiva ( *Aisī* ), remove your affliction, like \[Lady \] Autumn, \[the form of Lord Shiva– \] whitening the sky by means of ashes surpassing the complexion of the Kāśa flower, brightening ( *klismati*, lit., tormenting, afflicting) the elephant hide \[ worn by the Lord \], dark like
 
-
-
 **कापालीमुद्वहन्ती स्रंजमिव धवलां कौपुदीमित्यपूर्वा  
 हास्यश्रीराजहंसा हरतु तनुरिव क्लेशमैशी शरद्वः॥२०॥**
 
@@ -3645,8 +3364,6 @@ clouds surcharged with water, by means of a network of the rays of the \[cool-ra
  Let the look of Viṣṇu, desirous of leaving the broad couch, the body of the serpent \[Sesa \], with the circle (*cakravāla*) of hoods as the pillows, protect you for long \[the look \] oblique (*jihma*) on account of the recent opening \[of the eyes\], for a moment not facmg \[directly the lustres of the jewel-lamps, dull \[ht, heavy \] in \[its\] function, with a little amount of water produced \[in it\] on account of the yawnings accompanied by the twistings of the limbs, slightly red because of the disturbance to sleep \[and\] with the eyes half-closed ( *ākekara* ) \[ in it\].
 
  The other \[bard\]—O best of men, lords of men, sovereign masters of the earth like you, tolerate not the violation of their command, like the lions, the breaking of their jaws, with their \[self —\] respect and pride \[quite \] patent \[lit., manifest \], who have been made by
-
-
 
 **दंष्ट्राभङ्गंमृगाणामधिपतय इव व्यक्तमानावलेपा।  
 नाज्ञाभङ्गं सहन्ते नृवर नृपतयस्त्वादृशाः सार्वभौमाः॥ २२॥**
@@ -3679,8 +3396,6 @@ the Creator some indescribable stores, as it were, of the highest excellence of 
 ** **King—Noble Vaihīnari, cause a thousand gold coins \[*srata*\] to be given to these two bards.
 
 ·Chamberlain—As His Majesty commands. (*With these words walks out*.)
-
-
 
 ** चाणक्यः—**( सक्रोथम् ) वैहीनरे, तिष्ठ न गन्तव्यम्। वृषल[^269], किमयमस्थाने[^270] महानर्थोत्सर्गः।
 
@@ -3728,8 +3443,6 @@ the Creator some indescribable stores, as it were, of the highest excellence of 
 
 ** King**—\[ To state \] just the first, \[ the purpose is \] the non- violation of my command.
 
-
-
 ** चाणक्यः—**वृषल, ममापि तवाज्ञाव्याघात एव कौमुदी महोत्सवप्रतिषेधस्य प्रथमं प्रयोजनम्। कुतः।
 
 **अम्भोधीनां तमालप्रभवार्कसलयश्यामवेलावनाना—  
@@ -3763,8 +3476,6 @@ the Creator some indescribable stores, as it were, of the highest excellence of 
 
 ** Pratihari**—As the Revered one commands. ( *with this, going out and entering agan*) Revered one, here :\[ is that \] document.
 
-
-
 ** चाणक्यः—**( गृहीत्वा ) वृषल, श्रूयताम्।
 
 ** राजा—**दत्तावधानोऽस्मि।
@@ -3791,8 +3502,6 @@ the Creator some indescribable stores, as it were, of the highest excellence of 
 
 ** Cānakya**—Vrşala, may \[they \] be heard. Here the two who \[are\] the Principal Officer in charge of elephants and the Principal Officer in charge of the horses, Bhadrabhata and Puruşadatta by name \[respectively\], those indeed addicted to
 
-
-
 विकाराभ्यामवरोप्य स्वजीवनमात्रेणैषस्थापिताविति परपक्षे स्वेन स्वेनाधिकारेण गत्वामलयकेतुमाश्रितौ। यावेतौ डिङ्गरातबलगुप्तौ तावप्यत्यन्तलोभाभिभूतौ त्वद्दत्तं जीवनमब्रहुमन्यमानौ तत्र बहु लभ्यत इत्यपक्रम्य मलयकेतुमाश्रितौ। योऽप्यसौ भवतः कुमारसेवको राजसेन इति सोऽपि तव प्रसादादतिप्रभूतकोशहस्त्यश्वं सहसैव तन्महदैश्वर्यमवाप्य पुनरुच्छेदशङ्कयापक्रम्य मलयकेतुमाश्रितः। योयमपरः सेनापतेः सिंहबलस्य कनीयान्भ्राताभागुरायणोऽसावपि तत्र काले पर्वतकेन सह समुत्पन्नसौहार्दस्तत्प्रीत्या च पिता ते चाणक्येन व्यापादित इत्युत्पाद्य रहसि[^279]त्रासयित्वा मलयकेतुमपवाहितवान्। ततो भवदपध्यकारिषु चन्दनदासादिषु निगृहीतेषु स्वदोषशङ्कयापक्रम्य मलयकेतुमाश्रितः तेनाप्यसौ मम
 
 [^279]: "इति रहसि -"
@@ -3800,8 +3509,6 @@ the Creator some indescribable stores, as it were, of the highest excellence of 
 ——————————————————————————————————————
 
 \[ lit. habituated to \] women, wine and hunting, not applying themselves closely (*abhi*) to the supervision of the elephants and horses \[entrusted to their care\], having been relieved of their \[posts of\] authority, were caused to remain with only their subsistence allowance \[paid to them\]. On account of this (*iti*): having gone to the side of the adversary, each having \[ been appointed to \] his own \[ post of \] authority, \[ the two \] resorted to Malayaketu. These two who are \[called\] Dingarāta and Balagupta, these also being overpowered by excessive greed, considering the remuneration \[lit. ( means of ) living \] given by you to be not-much, having gone away from here, with the thought 'there a good deal would be secured', resorted to Malayaketu. And again \[ ht. also \] that servant of your excellency (*bhavatah* ) from the days of boyhood, having through your favour obtained all too suddenly (sahasawva) that great prosperity, out of fear of \[that \] being uprooted again, having walked away, resorted to Malayaketu. And this other one here, the younger brother of Simhabala, the General of the army, Bhagurāyaṇa—he too at that time having friendship formed with Parvataka, and out of affection for him, having secretly created this \[impression—\]: your father was caused to be killed by Cānakya', \[ and \] having frightened Malayaketu, had him driven away \[from here \]. Then, on Cnadanadāsa and others, those who were devoted to \doing acts
-
-
 
 प्राणरक्षक इति कृतज्ञतामनुवर्तमानेनात्मनानन्तरममात्यपद [ग्राहितः[^280]। यौतौ रोहिताक्षविजयवर्माणौ तावप्यतिमानित्वात्स्वदायादेभ्यस्त्वया दीयमानमसहमान[^281]ौमलयकेतुमाश्रितौ। इत्येशामपरागहेतवः।
 
@@ -3835,8 +3542,6 @@ of \] harm to your excellency ( *bhavat*) having been brought under control, \[h
 
 ** King**—Now it is the purpose I would like to hear.
 
-
-
 ** चाणक्यः—**श्रूयतामवधार्यता च।इह[^283] खलु विरक्ताना[^284] प्रकृतीना द्विविधं प्रतिविधानम् अनुग्रहो निग्रहश्च। अनुग्रहस्तावदाक्षिप्ताधिकारयोर्भेद्रभटपुरुषदत्तयोः पुनराधेकारारोपणमेव। अधिकारश्चतादृशेषु व्यसनयोगादनभियुक्तेषु[^285] पुनरारोप्यमाणः सकलमेव राज्यस्य मू हस्त्यश्वमवसादयेत्। डिङ्गरातन्त्रलगुमयोरतिलुब्धयोः सकलराज्यप्रदानेनाप्यपरितुष्यतोरनुग्रहः कथं शक्यः। राजसेनमागुरायणायास्तु धनप्रणाशभीतयोः कुतोऽनुग्रहस्यावकाशः। लोहिताक्षविजयवर्मणोरपि दायादेमसहमानयोरनिमानिनोः[^286] कीदृशोऽनुग्रहः प्रीतिं जनयिष्यति इति परिहृतः पूर्वः पक्षः। उत्तरोऽपि खलु वयमचिरादधिगतनन्दैश्वर्याःसहोत्थायिनं प्रधानपुरुषवर्गमुग्रेण दण्डेन पीडयन्तो नन्दकुलानुरक्तानां प्रकृती-
 
 [^283]: " Before this राजा उभयमपि क्रियते। कथ्यताम्। then चाणक्य।"
@@ -3850,8 +3555,6 @@ of \] harm to your excellency ( *bhavat*) having been brought under control, \[h
 ——————————————————————————————————————————
 
 ** Cānakya**— It should be heard as well as \[properly \] understood. Here \[in this respect\], of those indeed who have become disaffected there is a two-fold counter-acting measurefavour and :restraint \[ or punishment \] Regarding favour, for that matter, \[ in the case \] of Bhadrabhata and Puruşadatta, who were thrown out of their office, \[ there was \] only the reinstatement, in the position of authority \[that could be resorted to \]. But (*ca* ) office being again entrusted to \[ lit. imposed on \] persons like those, not devoted \[to duty\] on account :of their being under the influence of evil habits, would bring about the destruction of elephants and horses, the entire foundation of the kingdom. How is favour possible in the case of Dingarāta and Balagupta, extremely avaricious, not likely to be content with the giving away as a gift \[to them\] of the entire kingdom ? Again (*tu*) of Rājasena and Bhāgurāyana, frightened that there would be total destruction of their wealth, where is \[any\] scope for favour ? Of Lohitāksa and Vijayavarman too, intolerant of the relatives \[of Your Majesty \], \[as well as\] all too given to pride, what sort of favour would cause delight ?—because of such a thought (*iti*) the first alternative is dismissed \[as useless\]. The latter alternative too is just \[equally \] out of question as we, who have only recently got the sovereignty of
-
-
 
 नामविश्वास्या भवाम इत्यतः परिहृत एव'। तदेवमनुगृहीतास्मत्पक्षो[^287]राक्षसोपदेशप्रत्रणो महता म्लेच्छबलेन परिवृतः पितृवधामर्षी[^288] पर्वतकपुत्रो मलयकेतुरस्मानामियोक्तुमुद्यतः। सोयं व्यायाम कालो नोत्सवकाल इति दुर्गसंस्कारे प्रारब्धव्ये किं कौमुदीमहोत्सवेनेति किं कौमुदीमहोत्सवेनेति प्रतिषिद्धः।
 
@@ -3881,8 +3584,6 @@ the Nandas, tormenting the class of principal parties that rose with us with sev
 
 ** Cānakya—**Vrşala ! in not ignoring \[there was \] a twofold course\[ open to us\]–either that he be restrained or that he be made to receive half the kingdom promised \[ to him \]. In case restraint \[ were resorted to\], as the first thing (*tāvat')* we would have ourselves lent a \[helping \] hand to the \charge
 
-
-
 [स्वहस्तो[^290]दत्तः स्यात्। प्रतिश्रुतराज्यार्धप्रतिपादनेऽपि पर्वतकविनाशः केवलं कृतघ्नतामात्रफलः स्यादिति मलयकेतुरपक्रामन्नुपेक्षितः।
 
 [^290]: " स्वयं हस्तो-।"
@@ -3900,8 +3601,6 @@ of\] ungratefulness to the effect that Parvataka was murdered by just us \[peopl
 ** King—**So far as this goes ( *atra* ), it is thus \[ explained \]. What is the reply of the Revered one to this viz., that Rākṣasa, again, though staying just here, was \[ likewise\] ignored by the Revered one ?
 
 ** Canakya—**Rāksasa also, because of his being full of firm devotion to the master and \[ because of \] his stay \[ with the citizens in the same place (*ekatra*) for a long time, is trusted to the highest extent by the subjects devoted to Nanda, capable of \[ duly \] appreciating character (*sūlagna* ), \[ and further \] possessed of intelligence and bravery, associated on all sides ( *abhi*) with wealth in the form of helpers, having \[a huge \]. teasure \[ that Rāksasa is \], he would have, staying just here in the city, indeed caused a grave internal insurgence (*kopa* ) \[ lit.; disturbance\]. As against this (*tu* ) \[ when \] kept away \[i. e. outside the city\], even if causing an external disturbance, he could be controlled, somehow, with \[ suitable political \] devices. "With this consideration (*iti*) was he, like a dart rankling \ lit.
-
-
 
 मुत्पादयेत्। दूरीकृतस्तु बाह्यकोषमुत्पादयन्नपि [कथम[^292]न्युपायैर्वशयितु शक्य। इत्ययमत्रस्थ एव हृदयेशयः[^293]शङ्कुरिवोद्धृय दूरीकृतः।
 
@@ -3931,8 +3630,6 @@ lying\] in the heart, even while here, pulled off and removed \[so as to be\] aw
 ** Cānakya—**He is indeed \[a\] *Rāksasa*. Being serzed with valour, he would destroy many \[from or\] of your forces; or would perish himself. In this state of affairs (*evam satı* ), there would \[be\] fault either way. See \[-I say so-\] for, (*hi*) he, if attacked heavily ( *bhrsram* ), meets \[his\] destruction, you, O Vrşala, rould be separated \[for good\] from a man of that \[ exceptionally capable \] type. Now \[as alternative number two \] ( *atha* ), if he causes the slaughter of the eminent ones in your army, that too would be \[no mean \] a trouble. Like a wild elephant, therefore, has he to be subjected to discipline, by means of right kind of measures (*abhyrupāya*).
 
 ** King—**We are not equal to the task of surpassing the words \[of the argument \] of the Revered one by words \[of our own\]. In all ways, Minister Rākṣasa alone (*eva*) is far more praiseworthy, in this \[entire episode \].
-
-
 
 ** चाणक्यः—**( सक्रोधम् ) न भवानिति वाक्यशेषः[^295]। भो वृषल, तेन किं कृतम्।
 
@@ -3971,10 +3668,6 @@ lying\] in the heart, even while here, pulled off and removed \[so as to be\] aw
 
  **Cānakya**—Omalicious one,
 
-
-
-
-
 **आरुह्यारूढकोपस्फुरणविषमिताग्राङ्गुलिमुक्तचूडां  
 लोकप्रत्यक्षमुग्रां सकलरिपुकुलोत्साददीर्घां प्रतिज्ञाम्।  
 केनान्येनावलिप्ता नवनवतिशत[^299]द्रव्यकोटीश्वरास्ते  
@@ -4000,8 +3693,6 @@ lying\] in the heart, even while here, pulled off and removed \[so as to be\] aw
  Moreover,
 
  Even now, these fires \[oblation—bearers\], carrying profuse \[amount of\] marrow that has been dripping, do not get themselves extinguished. And look at these: they are causing the circle of the quarters with the lustre of the sun atlogether screened (*dhrasta* ) by the smoke \[column\]s, to appear as though enveloped in clouds, with vultures, thiet wings long and motionless, having formed themselves into a circle—hovering about in the sky,—they \[ the fires \] are gladdening these creatures, with the cemetary for their abode, with \[ the dead bodies \] of Nandas \[ and their followers \].
-
-
 
 ** राजा—**अन्येनैवेदमनुष्ठितम्।
 
@@ -4058,8 +3749,6 @@ lying\] in the heart, even while here, pulled off and removed \[so as to be\] aw
 
  By the tawny lustre of \[his\] eyes, though subdued ( *ksāma*) on account of being washed by the limpid (*amala* ) water dripping down ( *kṣarat* ) the eyelids ( *paksma* ) \[ all \]
 
-
-
 **मन्ये रुद्रस्य रौद्रं रसमभिनयतस्ताण्ड[^307]वेषु स्मरन्त्या  
 संजातोदकम्पं कथमपि धरया धारितः पादद्घातः॥ ३०॥**
 
@@ -4083,8 +3772,6 @@ athrob ( *spandi*) in excitement ( *Surinambha* ), has been displayed, a blazing
  **Cānakya—** ( *Withdr conving his fergned anger* ) Vrsala, Vrsala, enough of reply \[and\] rejoinder. If Rāksasa is considerd by you to be superior to us, then, let this sword \[ lit, weapon \] be given to him. ( *With these words, casting off the sword, fixing up his ga )*( *on a target* ) *in the sky, to himself* ) Rāksasa, Rāksasa, this is the highest achievement \[ or perfection \] of the intellect of you honourable presence, desirous of conquering the intellec of Kautilya.
 
  The dissension ( *bheda* ) which is indeed here \[ applied or\] brought to bear (*prayukta* ) by your worthy presence, now, with the thought (*iti*) ‘I shall easily (*sukham*) conquer Maurya, with his devotion to Canakya made to swerve \[from the latter \], just the same (*sa eva* ) in its entirety
-
-
 
 **भेदः किलैष भवता सकलः स एव  
 संपत्स्यते शठ[^311]तवैव हि दूषणाय॥३१॥( इति निष्क्रान्तः)**
@@ -4122,8 +3809,6 @@ athrob ( *spandi*) in excitement ( *Surinambha* ), has been displayed, a blazing
 
 ** Chamberlain**—Your Majesty \[about \] nothing \[at all \]. Fortunately has Your Majesty become *Your* *Majesty* now. (*Exit*)
 
-
-
 ** राजा—**( आत्मगतम् ) एवमस्मासु गृह्यमाणेषु स्वकार्यसिद्धिकामः सकामो भवत्वार्थः। ( प्रकाशम् ) शोणोत्तरे, अनेन शुष्ककलहेन शिरोवेदना मां बाधते। शयनगृहमादेशय।
 
 **  प्रतीहारी—**एदु एदु देवो। \[ एतु एतु देवः। \]
@@ -4152,8 +3837,6 @@ athrob ( *spandi*) in excitement ( *Surinambha* ), has been displayed, a blazing
 ( *With thas, exeunt omnes* )
 
  Thus ends the third act named ‘The Sham Quarrel.'
-
-
 
 **चतुर्थोऽङ्कः।**
 
@@ -4190,8 +3873,6 @@ athrob ( *spandi*) in excitement ( *Surinambha* ), has been displayed, a blazing
  I shall just go to this house of Minister Rākṣasa. (*Walking about like one fatrgued*) Who \[is\] here from among the doorkeepers? Do you inform Minister Rākṣasa, here has Karabhaka, hurrying, come from Pātaliputra.      ' (Entering)
 
 ** Door-keeper**—Good \[man \], don't speak \[ very \] loudly. Here is Minister \[Rākṣasa\] who does not leave his bed even so late, having a strong headache caused \[lit produced\], by
-
-
 
 ता चिट्ठ मुहुत्तअं। लध्दावसरोतुह आअमणं णिवेदेमि। \[ भद्र, मोच्चै. र्मन्त्रयस्व। एषोऽमात्यः कार्यचिन्ताजनितेन जागरेण समुत्पन्नशीर्षवेदनोऽद्यापिशयन न मुञ्चति। तस्मात्तिष्ठ मुहूर्तम्। लब्धावसरस्तत्रागमनं निवेदयामि। \]
 
@@ -4232,8 +3913,6 @@ wakefulness (*jāgara*) \[sleepessness\], arisen out of care (*cantā*) of \[sta
 ** **Moreover**,**
 
  Arranging the introduction \[also suggestion\] of the business, first, though slight (*tanum api* ), wishing \[to bring about \] its expansion (*vistara*), and revealing the very mysterious concealed fruit of the seeds that had germinated
-
-
 
 **कुर्वन्बुद्ध्या विमर्श प्रसृतमपि पुनः संहरन्कार्थजातं  
 कर्ता वा नाटकानामिममनुभवति क्लेशमस्मद्विधो वा॥ ३॥**
@@ -4279,10 +3958,6 @@ wakefulness (*jāgara*) \[sleepessness\], arisen out of care (*cantā*) of \[sta
 
 ** Rākşasa**—Usher him in quickly.
 
-
-
-
-
 ** दौवारिकः—**तह। \[ तथा। \] ( इति निष्क्रम्य पुरुषमुपसृत्य ) मद्द, उपसर्पअमच्चम्। \[ ... भद्र, उपसर्प अमात्यम्। \]
 
 ** करभकः—**(उपसृत्य) जेदु अमच्चो। \[ जयत्वमात्यः। \]
@@ -4324,8 +3999,6 @@ wakefulness (*jāgara*) \[sleepessness\], arisen out of care (*cantā*) of \[sta
 
  Far away (*dure*) \[ i. e. not to talk of \] intimate contact (*prattyāsatti*), even \[ the mere \] sight is difficult to obtain for \[ lit. by \] the unfortunate ones, of gods among men \[ i.e, kings \], the supporters of auspicious families, like \[that of \] the gods of the golden mountains.
 
-
-
 **\[ दूरे प्रत्यासत्तिर्दर्शनमपि दुर्लभमन्यैः।  
 कल्याणकुलवराणा देवानामिव मनुष्यदेवानाम्॥४॥ \]**
 
@@ -4347,8 +4020,6 @@ wakefulness (*jāgara*) \[sleepessness\], arisen out of care (*cantā*) of \[sta
 ** Malayaketu**—Today \[is\] the tenth month since the death of \[my\] father and by us, having pride for manliness in vain, even libation water has not been offered in his hondur \[lit, with reference to him\]. This has been solemnly declared (*prati- anātam* ) \[by us\] before—
 
  By me is to be offered a hollowful (*añjal*) of libation \[—water\] to \[the revered\] father, having now effected that kind of changed condition among the ladies \[on the side\] of the enemy \[as\] of the group of \[my\] mothers, caused by grief-wherein the jewelled bracelets were \[also, would be \] broken in the \[act of\] beating the breasts, wherein the
-
-
 
 **तादृङ्मातृजनस्य शोकजनितं सम्प्रत्यवस्थान्तरं  
 शत्रुस्त्रीषु मया विधाय[^324] गुरवे देयो निवापाञ्जलिः॥ ५॥**
@@ -4380,8 +4051,6 @@ upper garment had slipped off \[from its position\], which was piteous on accoun
 Enough, therefore, of the trouble of following \[me\].'
 
 ** Chamberlain**—Accordingly \[shall I do\]. (*IVth this,* *awathing about* \[looking up\] *in space* ) Oh Oh ! kings, the prince commands 'Not indeed am I to be followed by any one.' (*Looking* \at what happened) *with joy*) Immediately after the command of the Prince did all the kings go back.
-
-
 
 कुमारस्याज्ञानन्तरमेव सर्वे राजनः प्रतिनिवृत्ताः। पश्यतु कुमारः।
 
@@ -4420,8 +4089,6 @@ Enough, therefore, of the trouble of following \[me\].'
 
 ·**Malayaketu**—Dear \[ lit. friend \] Bhāgurāyana, I have been requested by Bhadrabhata and others coming \[ over here \] \[1. e. to our side \] thus : We are resorting to the Prince worthy of being resorted to, not through Minister Rākṣasa but having effected \[our\] entrance through Sikharasena, the General of the Prince \[ourselves \] full of dissaffection ( *aparaktah* ) \ that
 
-
-
 शिखरसेन[द्वारीकृत्य[^331]दुष्टामात्यपरिगृहीताच्चन्द्रगुप्तातपरक्ताः कुमारमा[^332]भिगामिगुणयोगादाश्रयणीयमाश्रयाम इति। तन्न मया सुचिरमपि विचारयता तेषां वाक्यार्थोऽवधारितः।
 
 [^331]: "उरीकृत्य उररीकृत्य"
@@ -4445,8 +4112,6 @@ we \[now are\] towards Candragupta, altogether seized hold of by the wicked mini
 ** Malayaketu**—Dear Bhāgurāyana, I say ( *nanu*), Minister Raksasa is the dearest and most benevolent to us.
 
 ** Bhāgurāyana**—This is so. But Minister Rākṣasa has enmity \[ formed \] to Cānakya, not to Candragupta. Therefore if he, per chance, not being able to tolerate Caņakya, given to excessive pride on \[his\] success, were to relieve him of his office as the \[prime\] minister, then Minister Rāksasa, on account of his devotion to the Nanda family, at the thought, this one \[i. e. Candragupta \] is a descendent \[i. e. scion \] of thè Nanda \[family \], \[and\] out of consideration for the group of his friends, may enter into an alliance (*sandadhīta*) with
-
-
 
 सह संदधीत। चन्द्रगुतोऽपि पितृपर्यांयागत एवायमिति सधिमनुमन्येत। एवं सत्यस्मासु कुमारो न विश्वसेदित्ययमेषा वाक्यार्थः।
 
@@ -4487,8 +4152,6 @@ Candragupta**.**Candragupta also may give his assent to \[such an\] alliance, at
 ** Karabhaka—**Minister, yes \[lit. what else ? \].
 
 ** Malayaketu—**( *Having* \[ over- \] *heard*) Dear Bhagurāyana, account of \[what has happened in\] Kusumapura is being started. Let us for a while (*tāvat*) not reach \[the vicinity, *upa*\] there. Let us just listen \[for some time \]. Why ?
-
-
 
 **सत्त्वभ[^336]ङ्गभयाद्राज्ञां कथयन्त्यन्यथा पुरः।  
 अन्यथा विवृतार्थेषु स्वैरालापेषु मन्त्रिणः॥८॥**
@@ -4531,8 +4194,6 @@ Candragupta**.**Candragupta also may give his assent to \[such an\] alliance, at
 
 ** Karabhaka—**May the minister hear. I was just commanded by the minister “Karabhaka, go to Kusumapura and tell the bard Vaitālika, in my name 'as more and more violat-
 
-
-
 यथा करभक कुसुमपुरं गच्छ मम वचनेन भण वैसालिकं स्तवकलशं यथाचाणक्यहतकेन तेषु तेष्वाज्ञाभङ्गेष्वनुष्ठीयमानेषु चन्द्रगुप्त उत्तेजनसमर्थैः 'श्लोकैरुपश्लोकयितव्यः' इति।
 
 ** राक्षसः—**भद्र, ततस्ततः।
@@ -4562,10 +4223,6 @@ Candragupta**.**Candragupta also may give his assent to \[such an\] alliance, at
 ** Rākşasa—** (*with**tears* ) Alas ! Your Majesty \। Nanda !
 
  In the absence of you, the cause of the delight of the world, oh moon among kings, what kind of kaumudī \[ festival \] \[ can there be \] even when Candra \[gupta\] is there, the delight of the night-blooming lotuses ( also, punningly of those who are given to vulgar rejoicings \] ?
-
-
-
-
 
 ** करभकः—**तदो सो लोअलोअणानन्दभूदो अभिच्छन्तस्स एव्वतस्स निवारिदो चाणक्कहदएण। एत्थन्तरे त्थवकलसेण[^342] चन्दउत्तसमुत्तेइआ सिलोअपरिपाटी पवट्टिदा। \[ ततः स लोकलोचनानन्दभूतोऽनिच्छत एव तस्य निवारितश्चाणक्यहतकेन। अत्रान्तरे स्तवकलशेण चन्द्रगुप्तसमुत्तेजिका श्लोकपरिपाटी प्रवर्तिता। \]
 
@@ -4606,8 +4263,6 @@ Candragupta**.**Candragupta also may give his assent to \[such an\] alliance, at
 
 ** Raksasa—**What next ? What next ?
 
-
-
 ** करभकः—**तदो चन्दउत्तेण अण्णाभङ्गकलुसिदेण, पसङ्गसूइदं अमच्चगुणं पसंसिअ अपब्भंसिदो अहिआरादो चाणक्कहदओ।\[ ततश्चन्द्रगुप्तेनाज्ञाभङ्गकलुपितेन प्रसङ्गसूचितममात्यगुगं प्रशस्यापभ्रंशितोऽधिकाराच्चाणक्यहतकः। \]
 
 ** मलयकेतुः—**सखे भागुरायण, गुणप्रशंसया दर्शितचन्द्रगुप्तेन राक्षसे पक्षपातः[^346]।
@@ -4639,8 +4294,6 @@ Candragupta**.**Candragupta also may give his assent to \[such an\] alliance, at
 ** Malayaketu—**Dear \[ Bhāgurāyna \], what advantage \[ lit. fruit does this one see in the search for another cause of Candragupta's anger \[ towards Cānakya \] ?
 
 ** Bhāgurāyana—**Prince, Cānakya who is possessed of intel - lect would not cause Candragupta to be enraged without cause. And Candragupta who appreciates \[ lit. knows \] \[ service such as is \] done \[i. e. rendered before \], would not, on account of just this much, \[overstep i. e.\] transgress \[ due limit of \] respect for
-
-
 
  चाणक्यचन्द्रगुप्तयोः पुष्कलात्कारणाद्यो विश्लेष उत्पद्येत सआत्यन्तिकोभविष्यतीति।
 
@@ -4680,8 +4333,6 @@ Cänakya \[The question has been put by Rākṣasa\] because (*iti*), in any cas
 
 ** Karabhaka—**\[He\] stays just there in Pātaliputra.
 
-
-
 ** राक्षसः—**( सावेगम् ) भद्र तत्रैव प्रतिवसति। तपोवनं न गतः प्रतिज्ञा वा पुनर्न समारूढवान्।
 
 ** करभकः—**अमच्च, तपोवणं गच्छदित्ति सुणीआदि। \[ अमात्य,तपोवनंगच्छतीति श्रूयते। \]
@@ -4714,8 +4365,6 @@ Cänakya \[The question has been put by Rākṣasa\] because (*iti*), in any cas
 ** Malayaketu—** Dear \[ lit, friend \], what \[ kind of \] achievement of \[his own\] purpose \[could there be\] on Cānakya's deparature to the penance-grove or taking a stand high on a vow, again?
 
 ** Bhagurāyaṇa—**This matter is not very difficult to understand.The more and more does the accursed Caņakya move away from Candragupta, the greater would \[there\] be the achievement of his own purpose.
-
-
 
 ** शकटदासः—**अमात्य, अलमन्यथा विकल्प।उपपद्यत पश्यत्वमात्यः।
 
@@ -4756,8 +4405,6 @@ Cänakya \[The question has been put by Rākṣasa\] because (*iti*), in any cas
 
 ** Rāhṣasa—**(*Gestacalating beholding* ) Oh \[here is \] the Prince !(*Getting up from his seat*) Here \[is\] a seat. May it please the Prince \[lit. the Prince deserves to \] sit down.
 
-
-
  **मलयकेतुः—**अयमुपविशामि। उपविशत्वार्यः। ( यथार्हमुपविष्टौ) आर्य, अपि सह्या शिरोवेदना.।
 
 ** राक्षसः—**कुमार, कुमारस्याधिराजशब्देनातिरस्कृते कुमारशब्दे कुतो मे शिरोवेदनायाः सह्यता।
@@ -4794,8 +4441,6 @@ Cänakya \[The question has been put by Rākṣasa\] because (*iti*), in any cas
 
 ** Rāksasa—**Calamity of \[ or pertaining to \] the minister. What else Alienated is Candragupta from Cāṇakya.
 
-
-
 ** मलयकेतुः—**आर्य, सचिव्यसनमव्यसनमेव।
 
 ** राक्षसः—**अन्येषा भूपतीना कदाचिदमात्यव्यसनमव्यसनं[^359] स्यात्। न पुनचन्द्रगुप्तस्य।
@@ -4817,8 +4462,6 @@ Cänakya \[The question has been put by Rākṣasa\] because (*iti*), in any cas
 ** Malayaketu—**Noble one, this \[ is \] not so. The faults of Cānakya alone are the causes of the disaffection of the subjects of Candragupta and on his Cānakya's being removed, \[they\] full of affection for Candragupta, even from before, would now display affection towards him certainly (eva) all the more.
 
 ** Raksasa—**Don't, don't say so. Those subjects indeed fall into two catagories \[ those \] ( 1 ) rising \[ in revolt \] along with Candragupta and (2) \[those\] full of affection for the Nanda family. There, of those who rose along with Candragupta, just the faults of Canakya are the causes of disaffection, not \[however \] of \[the subjects\] full of affection for the Nanda family. But, they being agitated by disaffection and anger at the thought by this one \[Candragupta\] was caused to be destroyed the Nanda family, that had become a \[ veritable \] father, not finding a resort for themselves, are following Candragupta himself. Having however (*punaḥ*) secured an invader like you, possessed of power such as would uproot the rival side,
-
-
 
 त्वादृशं पुनः प्रतिपक्षोद्धरणे संभावितशक्तिमभियोक्तारमासाद्य क्षिप्रमेनं परित्यज्य त्वामेवाश्रयिष्यन्ते। अत्र निदर्शनं वयमेव।
 
@@ -4844,8 +4487,6 @@ Cänakya \[The question has been put by Rākṣasa\] because (*iti*), in any cas
 
 ** Rākṣasa—** Yes, he is incapable. Why ? That \[ counter- acting \] is possible in the case of the guardians of the earth \[i. e. kings \] who have their achievement \[ of success as adminstrators\] dependent on themselves or who have it dependent on both \[ their ministers and themselves \]. The evilsouled Candra gupta, however, ever has been (*sthitaḥ*) dependent for his achievement on the minister alone and like one, deficient (*va- kalah* ) in respect of eyes, with the dealings of the world \[ or with the people \] not patent \[ to him \] \[ that he is \], how would • he be capable of counter acting \[us \] himself ?
 
-
-
 **अत्युच्छ्रिते[^362] मन्त्रिणि पार्थिने च विष्टभ्य पादावुपतिष्ठते श्रीः।  
 सा स्त्रीस्वभावादसहा भरस्य तयोर्द्वयोरेकतरं जहाति॥१३॥  
 नृपोऽपकृष्टः सचिवात्तदर्पणः[^363] स्तनंधयोऽत्यन्तशिशुःस्तनादिव।  
@@ -4870,8 +4511,6 @@ Cänakya \[The question has been put by Rākṣasa\] because (*iti*), in any cas
 ** Malayaketu—**( To humself ) Fortunately \[ it is that \] Iam not dependent for my achievement on the minister. (*Aloud*) Though it is so, still, when there are many causes \[favourable\] for an attack, of one who attacks the enemy, ( applying himself to, *abhayuñjāna* i. e. \] taking advantage of some calamity \[that has befallen the enemy \] there would be (*orkāntikī* ) definite achievement of the undertaking.
 
 ** Rākṣasa—**It behoves, the Prince to know \[this\] undertaking (*kārya*) \[of ours\] to be one with its achievement quite definite, Why?
-
-
 
 **त्वय्युत्कृष्टबलेऽभियोजारिनृपे नन्दानुरक्तेपुरे  
 चाणक्ये चालिताधिकारविमुखे मौर्ये नवे राजनि।**
@@ -4904,8 +4543,6 @@ Cänakya \[The question has been put by Rākṣasa\] because (*iti*), in any cas
  **Malayaketu—**If the noble one sees \[ this to be \] the \[proper \] hour for an attack, then why is sitting \[idly\] indulged in by us?
 
  Let my lordly elephants \[ themselves \] *lofty* in stature (*uttviiga*) their ichor-*water* flowing \[ profusely \], dark \[ in complexion\], full of noise on account of the bees \[ hovering about their temples \], with *banks battered* down by their broad (*uru*) tusks, reddish on account of the vermilion \[used in decorating them \], scatter about ( *apāsyantu* ) \[the river\] Sona, with its lofty banks, its water flowing swiftly (*pra*), with the trees on the adjacent (*upa*) banks *dark*
-
-
 
 **स्रोतः खाताव[^370]सीदन्तटमुरुदशनैरुत्सादिततटाः  
 शोणं सिन्दूरशोणा मम गजपतयोऽपास्यन्तु[^371] शतशः॥१६॥**
@@ -4950,8 +4587,6 @@ Cänakya \[The question has been put by Rākṣasa\] because (*iti*), in any cas
 
 ** Priyamvadaka—**Kṣapanaka.
 
-
-
 ** राक्षसः—**(आत्मगम्। अनिमित्तं सूचयित्वा ) कथं प्रथममेव क्षपणकः।
 
 ** प्रियंवदकः—**जीवसिद्धी। \[ जीवसिद्धिः। \]
@@ -4994,8 +4629,6 @@ Cänakya \[The question has been put by Rākṣasa\] because (*iti*), in any cas
 
 ** Rākṣasa—**Revered one I(*bhadanta*), just let the day for out starting on a military expedition \] be carefully found out.
 
-
-
 ** क्षपणकः—**(नाट्येन चिन्तयित्वा) सावगा, णिरुविदा मए आ भज्ज्ञणादो णिब्वुत्तसव्यकल्लाणा तिही संपुष्णचन्दा पुण्णमासी। तुम्हाणं उत्तलाए दिलाए दक्खिणां दिसं पत्थिदाणं अ दक्खिणे णक्खत्ते। अवि अ।
 
 **अत्थाहिमुहे सूरे उदिएसंपुष्णमण्डले चन्दे।  
@@ -5028,8 +4661,6 @@ Cänakya \[The question has been put by Rākṣasa\] because (*iti*), in any cas
  **Kṣapanaka—**Faithful one,
 
  The day is having one mark, the constellation \[is\] baving four marks, the zodiacal sign \[is \] having sixty-four marks—this is the established conclusion of the Science ( *tantra*) of the Luminaries (*Jyotasa*)
-
-
 
 **एकगुणा भवति तिथिश्चतुर्गुणं भवति नक्षत्रम्।  
 चतुःषष्टिगुणं लग्नमेष ज्योतिषतन्त्रसिद्धान्तः॥२०॥**
@@ -5074,8 +4705,6 @@ Therefore,
 
 ** Kṣapanaka—**The divine established conclusion (*hṛtāntah*) \[—also punningly, the god of death\], in so far as having abandoned your \[proper\] side, another side is accepted by you as authority (*Pramarīki vyate*), *punningly With this*, (*he goes out*).
 
-
-
 ** राक्षसः—**प्रियंवदक, ज्ञायता का वेला वर्तत इति[^378]।
 
 [^378]: "१ पुनरितरककुप्... पुनरपरककुप्... instead of पुनरपर गिरि ..। "
@@ -5114,8 +4743,6 @@ Therefore,
 
 **'Rākasa's Activities'.**
 
-
-
  ( ततः प्रविशति लेखमलंकरणस्थगिका[^381] मुद्रिता चादाय सिद्धार्थकः )
 
 [^381]: " पेटिका; स्थालिकाम् ; रसिकाम् some read समुद्रां for मुद्रितां। "
@@ -5147,10 +4774,6 @@ Therefore,
  The creeper in the form of Cānakya's policy (*niti*) being sprinkled with water in the form of \[his\] intellect with jars in the form of the right moment \[lit. time\] and place, will show \[ before long\] the abundant (*guruka*, lit. heavy ) fruit in the form of \[success in\] the undertaking \[or mission, *kārya*\].
 
  By me then (*tad*) has been taken this letter, which was. previously (*prathama*) caused to be written by revered Cāṇakya and stamped (*länchita*) with the signet-ring of minister Rākṣasa \[and\] this casket containing ornaments \[likewise\] stamped with just his signet-ring. I, according to the report \[ which is caused to go \] (*kila*) am going to Pataliputra. I shall just proceed. (*Walking about und beholding* ) How IKṣapaṇaka is coming.
-
-
-
-
 
 यावद्गच्छामि। ....कथं क्षपणक[^385] आगच्छति। यावदस्यशकुनभूत दर्शनं मम संमतमेव तस्मान्न परिहरामि। \]
 
@@ -5191,8 +4814,6 @@ His sight that has become an evil omen, as for me Just ( *yāvat )*quite (*eva*)
 
 ** Kṣapaṇaka—**Faithful one, what is there \[ that is \] to be known? Here this bird skilled in giving instruction (*ādesa*) about the path and the letter \[contained i. e\] held in \[your\] hand – \[each one of these\] indicates \[that you have started on a journey\].
 
-
-
 ** सिध्दार्थकः—**जाणिदं भदन्तेण। देसन्तरं पत्थिदोह्नि। ता कहेदु भदन्तो कीदिसो अज्ज दिवसो त्ति। \[ ज्ञातं भदन्तेन \]देशान्तरं प्रस्थितोऽस्मि \[तस्मात्कथयतु भदन्तः कीदृशोऽद्य दिवस इति। \]
 
 ** क्षपणकः—**( विहस्य ) सावगा, मुण्डिअमुण्डो[^388] णख्खत्ताई पुच्छसि। \[ श्रावक, मुण्डितमुण्डो नक्षत्राणि पृच्छसि। \]
@@ -5227,8 +4848,6 @@ His sight that has become an evil omen, as for me Just ( *yāvat )*quite (*eva*)
 
 ** Kṣapaṇaka—**Faithful one, listen. Previously the egress and the ingress of the people were \[ a matter\] just unrestricted. Now, \[however\], with Kusumapura quite near ( *pratyāsanna* ), \[lit. 'seated close in front' \] from here, no one \[at all \] not having
 
-
-
 अमुद्दालंच्छिओ णिग्गमितुं पवेहुं वा अणुमोदीअदि। ता जदि भाउराणस्समुद्दालंच्छिओ तदो गच्छ विस्सद्धो अण्णा चिट्ठ। मा गुम्माहिआरिएहिं संजमिअकलचलणो राजकुल पवेसीअसि। \[ श्रावक, निशामय। प्रथमं तावदत्रकटके लोकस्यानिवारितो निर्गमप्रवेश आसीत्। इदानीमितः प्रत्यासन्ने कुसुमपुरे न कोऽप्यमुद्रालाञ्छितो निर्गन्तुं प्रवेष्टुं वानुमोद्यते। तद्यदि भागुरायणस्य मुद्रालाञ्छितस्तदा गच्छ विश्रब्धोऽन्यथा तिष्ठ। मा गुरुमाधिकारिकैः संयमितकरचरणोंराजकुलं प्रवेश्यसे। \]
 
  **सिद्धार्थकः—**( सावेगम् ) किं ण जागादि भदन्तो अमच्चरक्खसस्स[^392] सण्णिादो त्ति। ता अमुद्दालंच्छिदं वि मं णिक्कमन्तं कस्स सत्ती णिवारेदुं। \[ किं न जानाति भदन्तोऽमात्यराक्षसस्य संनिहित इति। तदमुद्रालाञ्छितमपि मा निष्क्रामन्तं कस्य शक्तिर्निवारयितुम्। \]
@@ -5252,8 +4871,6 @@ the \[mark or\] stamp of the signet-ring \[as a pass-port\] is permitted either 
 ** Ksapanaka—**Faithful one, be you \[ a close attendant \] of Rākṣasa or a ghost (*pisāca* ), there, however, (*punah*), is no means of getting out from here for one who has not a stamp of the signet-ring \[as his pass-port\].
 
 **  Siddhārthaka—**Revered one, do not be angry. Say, ‘May your undertaking be achieved'.
-
-
 
 ** क्षपणकः—**सावगा, गच्छ। होदु दे कज्जसिद्धी। अह वि भाउराअणादो मुद्द जाचेमि।\[ श्रावक, गच्छ भवतु ते कार्यसिद्धिः। अहमपि भागुरायणान्मुद्रा याचे। \] ( इति निष्क्रान्तौ )
 
@@ -5288,8 +4905,6 @@ the \[mark or\] stamp of the signet-ring \[as a pass-port\] is permitted either 
  (*Aloud***)** Good Bhāsuraka, the Prince does not wish me to be away \[from him \]. Let the seat, therefore, be in this very assembly-hall.
 
 ** Puruṣa—**Here \[is\] the seat. May the Noble one sit down,
-
-
 
 ** भागुरायणः—**( उपविश्य ) भद्र, यः कश्चिन्मुद्रार्थी मा द्रष्टुमिच्छति मत्वया प्रवेशयितव्यः।
 
@@ -5328,10 +4943,6 @@ the \[mark or\] stamp of the signet-ring \[as a pass-port\] is permitted either 
 
 ** Malayaketu—**( *To himself* ) Oh, my mind (*buddhi*) perturbed on account of a number (*bāhulya*) of misgivings pertaining to Raksasa, reaches \[lit, secures, *adhigacchati*\] no definite conclusion Why ?
 
-
-
-
-
 **भक्त्या नन्दकुलानुरागदृढया नन्दान्वयालम्बिना  
 किं चाणक्यनिराकृतेन कृतिना मौर्येण संधास्यते।  
 स्थैर्यंभक्तिगुणस्य वाधिगणयत्किं सत्यसंधो भवे-  
@@ -5364,8 +4975,6 @@ the \[mark or\] stamp of the signet-ring \[as a pass-port\] is permitted either 
 ** (***Entering***) Puruṣa—** Noble one, here indeed is Kṣapaṇaka desirous of seeing the noble one for a stamp with the signet-ring.
 
 ** Bhāgurāyana—**Usher \[him\] in.
-
-
 
 ** पुरुषः—** तह[^398]। \[ तथा। \]     ( इति निष्क्रान्तः)
 
@@ -5406,8 +5015,6 @@ the \[mark or\] stamp of the signet-ring \[as a pass-port\] is permitted either 
 ** Kṣapanaka—**Faithful one, Rākṣasahas given me no offence. Unfortunate that I am, personally (*svayameva*),offending myself.
 
 ** Bhagurāyaṇa—**Revered one, you are increasing my curiosity. I wish to hear \[from you\].
-
-
 
 ** मलयकेतुः—**(स्वगतम् ) अहमपि श्रोतुमिच्छामि[^403]।
 
@@ -5455,8 +5062,6 @@ the \[mark or\] stamp of the signet-ring \[as a pass-port\] is permitted either 
 
 ** Kṣapaṇaka—**(*To humself*) \[ It is \] proper now to tell \[it to this one here \] so eager (*pra- arthin*) \[to hear it\]. (*Aloud*) What \[other\] course \[is there left for me\] ? May the faithful one listen. Unfortunate that I am, while staying in Pataliputra, previously, I formed friendship with minister Rākṣasa.
 
-
-
 उप्पादिअ घादिदे देवे पव्वदीसले। \[ का गतिः। शृणोतु श्रावकः। अस्ति तावदहमन्दभाग्यः प्रथमं पाटलिपुत्रे निवसत् राक्षसेन मित्रत्वमुपगतः। तस्मिन्नवसरे राक्षसेन गूढ विषकन्यकाप्रयोगमुत्पाद्य घातितो देवः पर्वतेश्वरः। \]
 
 ** मलयकेतुः—**( सवाष्पमात्मगतम् ) कथं राक्षसेन घातितस्ततो न चाणक्येन।
@@ -5487,8 +5092,6 @@ At that time, having devised \[lit, caused to be produced \] the, secret employm
 ** Bhāgurāyana—** Revered one, this unworthy act was perpetrated by the accursed Cāņakya, not wishing \[to give away\] the promised half of the kingdom, not by Rāksasa'—thus (*iti*)was \[the account \] heard by us.
 
 ** Kṣapaṇaka—** (*Closing his ears*) Evil be deprecated. By Cānakya not so much as (*api*) the name of poison-miden was heard.
-
-
 
 ** भागुरायणः—**भदन्त, इयं मुद्रा दीयते। एहि कुमारंश्रावय।
 
@@ -5528,8 +5131,6 @@ At that time, having devised \[lit, caused to be produced \] the, secret employm
 
  Having caused to fall down, along with the copious tears (*asru-toyanh*) of the group of \[his\] relative, \[my dear \] father (*tat*), the disposition (*vrtti*) of his heart \[ quite \] happy at the thought 'this one \[ive. Rakşasa\] is my friend',
 
-
-
 **तातं निपात्य सह बन्धुजनाश्रुता[^415]यै-  
 रंन्वर्थतो[^416]ऽपि ननु राक्षस राक्षसोऽसि॥७॥**
 
@@ -5552,8 +5153,6 @@ with all his undertaking entrusted to you, through confidence \[reposed in you\]
  **Malayaketu—**(*Sitting down* ) : Friend, what are you desirous of saying?
 
 ** Bhagurayana—**here indeed in the cases of those who carry on their dealings in keeping with the science of the Goal \[i. e. political goal\], the arrangement of foes, friends and \[indifferent i. e.\] neutral \[persons," is one made\] under the influence of the objects (*artha*) \[in view\], and not, as in the cases of ordinary run of men and women, \[one made\] under the influence (*vas'āt*) of their own desire. Hence, at that time His Majesty Paravatesvara with the auspiciously invoked names himself, being stronger than even Candragupta, was one causing all-sided obstruction to and therefore \] a great enemy of Rākşasa, desirous of : \[ having \] Sarvarthasiddhi \[as\] the King.
-
-
 
 स्वार्थपरिपन्थी महानरासीत्। तस्मिंश्च राक्षसेनेदमनुष्ठितमिति नातिदोषामिवात्र पश्यामि। पश्यतु कुमारः।
 
@@ -5585,8 +5184,6 @@ towards him was this \[evil \] carried out ( *anuṣṭhata* ) by **Rākşasa—
 ** Malayaketu—**Thus \[it is \]. Friend, you have well seen \[ the whole matter \]. For, on the execution (*vatha*) of the minister, there would be a \[great\] commotion among the people \[ or members of the body politic \] and thus would victory \[be rendered \] dubious ( *sandigdha* ).
 
  (*Entering*) Puruṣa—May the Prince be victorious. Noble one, Dirgharakṣa appointed to guard the out- post, conveys to the Prince the request-Here indeed, has a man, who had not taken \[duly\] the stamp with the signet—
-
-
 
 नाधिकृतो दीर्घरक्षो विज्ञापयति। एष स्वल्वस्माभिः कटकान्निष्क्रामन्नगृहीतमुद्रसलेखः पुरुषो गृहीतः। तत्प्रत्यक्षीकरोत्वेनमार्य इति। \]
 
@@ -5636,8 +5233,6 @@ ring \[and\] who was trying to escape from the camp, with a letter \[on his pers
 
  **Siddhārthaka—**Noble one, I \[am\] indeed an attendant to minister Rākṣasa.
 
-
-
 ** भागुरायणः—**भद्र, तत्किमगृहीतमुद्रः कटकान्निष्क्रामसि।
 
 ** सिद्धार्थकः—**अज्ज, कज्जगोरवेण तुवराविदोह्नि। \[ आर्य, कार्यगौरवण त्वरायितोऽस्मि। \]
@@ -5675,8 +5270,6 @@ ring \[and\] who was trying to escape from the camp, with a letter \[on his pers
 
 ** Malayaketu—**(*Reads* ) Hail ! 'some one from somewhere, causes some distinguished \[high-ranking\] (*visesa*) person, with regard to \[the latter's\] place ( *yathāsthānam*), to know : By the one given to tell the truth \[lit, state of being true\] has been displayed, extraordinary (*kāpi*) devotion to truth, by having removed our rival \[from his position\]. Now, it behoves the one
 
-
-
 ज्ञातसंधिपरिपणनप्रोत्साहनेन सत्यसंघः प्रीतिमुत्पादयितुमईति।एतेऽप्ये वमनुगृहीताः[^426] सन्तः स्वाश्रयविनाशेनोपकारिणमाश्रविश[^427]ष्यन्ति। अविस्मृतमेवैतत्सत्यवतः स्मारयामः। एतेषा मध्ये केचिदरेः कोषहस्तिभ्या[^428]मर्थिनः केचिद्विषयेणेति। अलंकारत्रयं च सत्यवता[^429]यदनुप्रेषितं तदुपगतम्। मयापि लेखस्यान्यार्थे किंचिदनुप्रेषितं तदुपगमनीयम्। वाचिकं चाप्ततमादस्मात् सिद्धार्थकाच्छ्रोतव्यमिति। सखे भागुरायण, कीदृशो लेखः[^430]।
 
 [^426]: "वमुपगृहीताः। "
@@ -5706,8 +5299,6 @@ with true words to give \[lit. cause to produce \]delight (*priu*)tothese friend
  **Siddharthaka—**Noble one, I do not know.
 
 ** Bhagurāyaṇa—**O knave ! the letter is being taken \[by you all right\], '*whose* it is' is not known ! Let everything alone \[lit, stand\] for a while. By whom is the verbal clue to be heard from you ?
-
-
 
 ** सिद्धार्थकः—**( मयं नाटयन् ) तुहोहिं \[ युष्माभिःº\]
 
@@ -5746,8 +5337,6 @@ with true words to give \[lit. cause to produce \]delight (*priu*)tothese friend
 ** Malayaketu—**Friend, this must be the article \[ given \] with a view to make the letter not quite insignificant (*asunya*). Preserving this stamp of the signet-ring to \[ and \] opening, show \[it to me \]
 
 ( *Bhāgurāyaṇa does accordingly and shows*)
-
-
 
 ** मलयकेतुः—**( विलोक्य) अये, तदिदमाभरणं मया स्वशरीरादवतार्य राक्षसाय[^433]प्रेषितम्। व्यक्तम् चन्द्रगुप्तस्य लेखः।
 
@@ -5789,9 +5378,6 @@ with true words to give \[lit. cause to produce \]delight (*priu*)tothese friend
 
 ** Malayaketu—**I should now like to hear the verbal clue.  
 
-
-
-
 ** सिद्धार्थकः—**कुमाल, आदिट्टोह्मिअमच्चेण जहाएदे मह पिअवअस्सा पञ्च राआणो तुए सद समुपर्णसिणेहा[^436]। ते जहा कुलूदादिवो चित्तवम्मो मलअणराहिवो[^437] सीहणादो कह्मीरदेसणाहो पुक्खरक्खो सिन्धुराओ सिन्धुमेणो पारसीओ[^438] मेहणादोत्ति। एदेसु पढमगिहीद[^439]ातिष्णि राआणो मलअकेदुणो विसअ इच्छन्ति अवरे इत्थिबलं कोसंअ। ता जहा चापक्कंणिराकरिअ महाभाएणमह पीदी समुत्पादिदा तदा एदाणं वि पढमभणिद[^440]ोअत्थो संपादइदव्वत्ति एत्तिओ वाआसंदेसो।\[ कुमार, आदिष्टोऽस्म्यमात्येन यथैते मम प्रियवयस्याः पञ्च राजानस्त्वया सह समुत्पन्नस्नेहाः। ते यथा कुलूताधिपश्चित्रवर्मा मलयनराधिपः सिंहनादः काश्मीरदेशनाथः पुष्कराक्षः सिन्धुराजः सिन्धुषेणःपारसीको मेघनाद इति। एतेषु प्रथमगृहीतास्त्रयो राजानो मलयकेतोर्विषयमिच्छन्त्यपरौ इस्तिब्रलं कोष च। तद्यथा चाणक्यं निराकृत्य महाभागेन मम प्रीतिः समुत्पादिता तथैतेषामपि प्रथमंभणितोऽर्थः सपादयितव्य इत्येतावान्वाक्संदेशः। \]
 
 [^436]: "पढमसमुपणसंघाणा।"
@@ -5814,8 +5400,6 @@ with true words to give \[lit. cause to produce \]delight (*priu*)tothese friend
 
 ** Malayaketu—**(*To himself*) How I Citravarmā and others too are plotting against (*abhi-druhyantı*) me ! Or, just on this account \[ is there\] unsurpassed affection \[entertained by these kings\] for Rāksasa. ( *Aloud* ) Vijayā, I should like to see the minister.
 
-
-
 ** प्रतीहारी—**जं कुमारो आणवेदि। \[ यत्कुमार आज्ञास्यति। \]
 
 ( इति निष्क्रान्ता)
@@ -5836,8 +5420,6 @@ with true words to give \[lit. cause to produce \]delight (*priu*)tothese friend
 ** Raksasa—**(*To himself*) To tell the truth, there is not complet satisfaction \[ht. absolute punity\] of my mind as (*iti*) our army filled on all sides (ā) by \[deserters from\] the army of Candragupta. Why ?
 
  That \[means i. e.\] army (also *‘middle term’* *or inferential mark'*), which is well determined (or definite, *niscita*) in regard to its \[war—\] objective (*sādhya*) \[also punningly, which is known for certain (*niscita*) to be connected with \[lit. dwelling in \] the *'major term'* (sādhya)\], which is (well) formed (*ghatata*) on account of reinforcement (*anvaya*), one member following another in succession, or–on account of *anvaya* i e, unity, all members *following anu* + i*the same path*, \[also punningly, which is well-formed. i. e. strengthened on account of *the rule of invariable concomittance in presence* (*anavaya—anvaya—vyāpti* ) \], *taking* *(bibhrat*) \[its\] stand \[firmly\] (*sthiti*) on those belonging to its \[own side (*sapakṣa*) \[also punningly, which dwells (*sthatim bibhrat*) in a *similar instance* (*sapakṣa*)\], which has turned its face away from the enemy-side (*vipakṣa*) \[also punningly, which has turned itself away (*vyāvṛtta*) from a *dissimilar instance* (*vipaksa*)\], that (1 army, 2 *'inferential mark'* or *'middle term*') leads to (*bhavatı*) victory (1 *in war* 2 *in logical disputation*) that \[ \[ 1 army 2 inferential mark\] which itself is to be acquired (*sädhya*) \1 in
-
-
 
 **यत्साध्यं स्वयमेव तुल्यमुभयोः पक्षे विरुद्धं च य—  
 तस्याङ्गीकरणेन वादिन इव स्यात्स्वामिनो निग्रहः॥१०॥**
@@ -5860,8 +5442,6 @@ point of its efficiency, 2 in point of its capacity to prove the 'major term'), 
  Or, it becomes me not (*na-arhāmi*) to have misgivings (*evkalpayatum*), as \[the army \] is filled with those the causes of whose disaffection are well \[*vi*\] known (*māta*) \[and with \] those who have already (*prāk*) accepted our secret overtures (*upajāpa*). (*Aloud*) Good Priyamvadaka, let the kings; the followers of the Prince, be told in our name: Now, Knsumpura is coming nearer and nearer, day after day. By you, therefore, should be made a march (*prayātavyam*), with your divisions (*vibhāga*) systematically arranged (*parikalpita*) in the great expedition (*prayāña*). If \[it be asked\] how, \[then\]
 
  The march is to be made (*prasthātavyam*) by the Khasa and the Magadha clans, having arranged their armies in military array (*vyuhya*), after me. By the Gāndhāra troops, with the Yavana \[ Ionian\] chieftains,
-
-
 
 **पश्चात्तिष्ठन्तु वीराः शकनरपतयः संभृता[^446]श्चीनहृणैः  
 कौलूताद्यश्च शिष्टः पथि परिवृणुयाद्राजलोकः कुमारम्॥ ११॥**
@@ -5899,8 +5479,6 @@ effort has to be well made in regard to proceeding \[all along keeping themselve
 ** Rāksasa—**Let Sakatadāsa be told : 'We have \[formerly \] It is not proper, been made to wear ornaments by the Prince. therefore to go into the presence \[ lit. to enjoy the sight\] of the Prince, undecked \[i. e. without putting on ornaments\]. So, the set of three ornaments, which has been purchased-one \[ornament\] from its midst, should be given \[us to wear \].
 
 ** Purusa—**Accordingly \[shall I do\]. (*With thes young out entering aqan*) Minister, here is the ornament.
-
-
 
 **पादाग्रे दृशमवधाय निश्चलाङ्गीं[^449] शून्यत्वादपरिगृहीततद्विशेषाम्।  
 वक्त्रेन्दुं वहति करेण[^450] दुर्वहाणां कार्याणां कृतमिवगौरवेण नम्रम्॥१३॥**
@@ -5940,8 +5518,6 @@ effort has to be well made in regard to proceeding \[all along keeping themselve
 ** Malayaketu—**I wish to hear as to (*iti*) how the counterarrangements in regard to \[our military\] expedition have been made \[by the Noble one \].
 
 ** Rākṣasa—** Prince, thus have been directed the kings, the followers of the Prince. ( *Recites Prasthatavyam ..etc*, *V-11 uttered before.* )
-
-
 
 ** मलयकेतुः—**(स्वगतम् ) कथं य एव मद्विनाशेन चन्द्रगुप्तमाराधयितुमुद्यतास्त एव मा परिवृण्वन्ति। ( प्रकाशम् ) आर्य, अस्ति कश्चिद्यः कुसुमपुरंप्रति गच्छति तत आगच्छति वा।
 
@@ -5985,10 +5561,6 @@ effort has to be well made in regard to proceeding \[all along keeping themselve
 
 (*With thas half stated, stands with face downcast, in fear*)
 
-
-
-
-
 ** मलयकेतुः—**भागुरायण, स्वामिनः पुरस्ताद्भीतो लज्जितो वा नैव कथयिष्यति। स्वयमे-वार्याय कथय।
 
 ** भागुरायणः—**यदाज्ञापयति कुमारः। अमात्य, एष कथयति यथाइम- मात्येन लेखं दत्वा वाचिकं च संदिश्य चन्द्रगुप्तसकाशं प्रेषित इति।
@@ -6030,8 +5602,6 @@ effort has to be well made in regard to proceeding \[all along keeping themselve
 ** Rāksasa—**\[ *Havrng read* ( *it* ) \] Prince, a clever device (*prayoga*) of the enemy \[is\] this.
 
 ** Malayaketu—**In order to ensure that the letter did not remain quite insignificant (*sūnya*) \[by itself \], by the Noble one, even this ornament was sent. Then how \[is\] this a clever device of the enemy?
-
-
 
 ** राक्षसः—**( आभरणं निर्वर्ण्य ) कुमारेणै[^458]तन्मह्यमनुप्रेषितम्। मयाप्येतकस्मिंश्चित्परितोषस्थाने सिद्धार्थकाय दत्तम्।
 
@@ -6076,8 +5646,6 @@ effort has to be well made in regard to proceeding \[all along keeping themselve
 
  ( *Siddhārthaka, looking at Rākṣasa's face, remains quiet with face down-cast*.)
 
-
-
 ** सिद्धार्थकः—**अज, सअडदासेण। \[ आर्य, शकटदासेन। \]
 
 ** राक्षसः—**कुमार, यदि शकटदासेन लिखितस्ततो मयैव लिखितः।
@@ -6119,8 +5687,6 @@ effort has to be well made in regard to proceeding \[all along keeping themselve
 
 ** Malayaketu—**May even both be brought.
 
-
-
 ** प्रतीहारी—**जं कुमारो आणवेदि। \[ यत्कुमार आज्ञापयति। \] ( इति निष्क्रम्य पुनः प्रविश्य) कुमार, इदं तं सअडदासेण सहत्यलिहिदं पत्तअ मुद्दावि। \[ कुमार, इदं तच्छकटदासेन स्वहस्तलिखितं पत्रं मुद्रापि। \]
 
 ** मलयकेतुः—**(उभयमपि विलोक्य[^465]) आर्य, संवदन्त्यक्षराणि।
@@ -6152,8 +5718,6 @@ effort has to be well made in regard to proceeding \[all along keeping themselve
  Or, what doubt \[ is there\] ?
 
  The signet-ring \[is \] one that ever has been in close contact (*pranayni* ), \[lit, in love\] with the finger of his hand. Siddhārthaka \[is\] his friend. This letter, the basis of the \[foul\] device \[of the enemy\] is just his \[and of none else—(*tasyarva*) \], \[as is\] indicated by this other letter \[whitten by him\]. Very (*su*) evidently (*vyatkam*), by Śakata, having entered into a pact (*sandhāya*) with those skilled (*paṭu*) in \[brining about \] a dissension (*bheda*), \being
-
-
 
 **सुव्यक्तंशकटेन भेदपटुभिः संधाय सार्धंपरै-  
 भर्तृस्नेहपराङ्मुखेन कृपणं प्राणार्थिना चेष्टितम्॥ १५॥**
@@ -6191,8 +5755,6 @@ himself\] full of eagerness for \[saving his own\] life, with \[his\] face turne
 
   These are those \[well-nown\] ornaments, becoming \[lit.. suited to\] the limbs of you, who loved to wear O ornament of the family—by which you were made to appear to advantage, with your moon-like face made
 
-
-
 **यैः शोभितोऽसि मुखचन्द्रकृतावभासो  
 नक्षत्रवानिव शरत्समयप्रदोषः॥१६॥**
 
@@ -6229,8 +5791,6 @@ lustrous, like the evening of the autumnal season, made resplendent by the moon 
 ** Rākṣasa—**(*To himself*) Oh ! the enemys' device has been very systematically arranged (*sushasta*). Why ?
 
  There is no reply \[possible\] to this effect 'this letter is not mine', in so far as the signet-ring is mine. ‘By Sakata, friendship has been broken'—how would this \[explanation\] be credible? Who indeed would consider possible the sale of ornaments in the case \[i.e. on the part\]
-
-
 
 **मौर्ये भूषणविक्रयं नरपतौ को नाम संभावये-  
 तस्मात्संप्रतिपत्तिरेव हि[^473] वरं न ग्राम्यमत्रोत्तरम्॥ १८॥**
@@ -6274,8 +5834,6 @@ of Maurya, lord of men ? A complete (*sam*) admission (*pratipatti*) itself, the
 
  (*Repeats the verse Mauryosau svāmiputraḥ' etc. with* \[*the forms of the pronouns*\] 'You' and 'I'*interchanged*)
 
-
-
 ** मलयकेतुः—** (लेखमलंकरणस्थगिका च निर्दिश्य ) इदमिदानीं किम्।
 
 ** राक्षसः—**( सबाष्पम् ) विधिविलसितम्। कुतः।
@@ -6311,8 +5869,6 @@ of Maurya, lord of men ? A complete (*sam*) admission (*pratipatti*) itself, the
  Malayaketu—(*With wrath*) What ? Is \[the truth \] being just concealed even now? Certainly \[you would feign make people believe, *kila* \] this is the doing of Destiny, \[and\] not \[that\] of \[your\] greed. Ignoble \[one \],
 
  Having employed (*kṛtvā*) the maiden, terrible (vişamā) on accouut of \[her having \] an intimate contact (*prayoga*) with \[and digestion of\] virulent ( *tivra* ) poison, by you, ungrateful \[wretch \], was my father \[ever\] inclined to
-
-
 
 **संप्रत्याहितगौरवेण भवता मन्त्राधिकारे रिपौ  
 प्रारब्धाः प्रलयाय[^482] मांसवदो विक्रेतुमेते वयम्॥२१॥**
@@ -6351,8 +5907,6 @@ of Maurya, lord of men ? A complete (*sam*) admission (*pratipatti*) itself, the
 
  **Malayaketu—**(*With anger* ) Bhāsuraka, let Geneneral Śikharasena, be comnanded. These five kings who having formed friendship with Rākṣasa, are desirous of worshipping
 
-
-
 पञ्च राजानः कौलूतश्चित्रवर्मा, मलयनरपतिः सिंहनादः‚ काश्मीरः पुष्कराक्षः, सिन्धुराजःसिन्धुषेणः, पारसीकाधिपो मेघनाद इति। एतेषु त्रयः प्रथमे मदीया भूमिं कामयन्ते ते गम्भीरश्वभ्रमभिनीय पाशुभिः पूर्यन्ताम्। इतरौ तु हस्तिबलकामुकौ[^485]हस्तिनैव घात्येतमिति।
 
 [^485]: पारसीकाधिराजो%20मेघाक्ष।%20...%20बलकामौ। "पारसीकाधिराजो मेघाक्ष। ... बलकामौ।"
@@ -6377,8 +5931,6 @@ Candragupta by plotting against (*droha*) our person—\[the five viz.,\] Citrav
  Malayaketu—Rāksasa, I am not \[Rākṣasa\] demon, murdering \[a person\] by \[taking him into\] confidence. I am, indeed, Malayaketu—Go then and let Candragupta be resorted to with all your heart (*sarvātmanā*). See
 
  Viṣṇugupta and \[also\] Maurya, even \[when \] come with you \[as the third\], I am able to uproot, like bad policy (*durnayah*), \[able to uproot \] the group of the three \[secular objects of human life viz., Dharma, Artha and Kāma\].
-
-
 
 **भागुरायणः[^488]—** कुमार, कृतं कालहरणेन। साप्रतमेव कुसुमपुरोपरोधाप्रतिष्ठन्तामस्मद्बलानि।
 
@@ -6411,8 +5963,6 @@ Candragupta by plotting against (*droha*) our person—\[the five viz.,\] Citrav
 
  Even those poor ones, headed by Citravarman, have been put to death. How then \[is it that\] Rākṣasa actafor the destruction of his friends, not for that of the enemies IThen what shall I unfortunate \[that I am \], do now?
 
-
-
 **किं गच्छामि तपोवनं न तपसा शाभ्येत्सवैरंमनः  
 किं भर्तॄननुयामि जीवति रिपौ स्त्रीणामियं योग्यता।  
 किं वा खङ्गसखः पतारम्यरिबले नैतश्च[^492]युक्तं भवे—  
@@ -6434,8 +5984,6 @@ Candragupta by plotting against (*droha*) our person—\[the five viz.,\] Citrav
 
 Thus ends the Fifth Act called  
 ‘The Artful Letter’
-
-
 
 **षष्ठोऽङ्कः।**
 
@@ -6467,9 +6015,6 @@ Thus ends the Fifth Act called
  I shall (*tāvat*) see \[my\] dear friend, Samiddhārthaka after a long time. (*Walking about and beholding*) Here my dear friend Samiddhārthaka is coming over just here. I shall just approach him.
 
 (Then enter Samiddhārthaka)  
-
-
-
 
 ** समिद्धार्थकः—**
 
@@ -6507,9 +6052,6 @@ Thus ends the Fifth Act called
 
  Siddhārthaka—May the friend be pleased. No sooner was I seen by revered Cāņakya than was I ordered ‘Siddhār-  
 
-
-
-
 तदो एदस्स णिवेदिअ एव्वं अणुभूदपत्थिवप्पसादो अहं पिअवअस्सं पेक्खिदुंतुह एव्व गेहं चालिदोह्यि। \[प्रसीदतु वयस्यः। दृष्टमात्र एवआर्यचाणक्येनाज्ञप्तोऽस्मि यथा सिद्धार्थक गच्छ इमं प्रियोदन्तं देवस्य चन्द्रश्रिये निवेदयेति। ततः एतस्मै निवेद्यैवमनुभूतपार्थिवप्रसादोऽहं प्रियवयस्यं प्रोक्षेतुं तवैव गेहंचलितोऽस्मि। \]
 
 ** समिद्धार्थकः—**वअस्स, जदि मे सुणिदव्वं मोदि तदो कहेहि किं तं पिअं जं. पिअ[^498]दंसणस्स चन्दसिरिणो णिवेदिदं। \[वयस्य, यदि मे श्रोतव्यं भवति ततः कथय किं तत्प्रियं यत् प्रियदर्शनाय चन्द्रश्रिये निवेदितम्। \]
@@ -6527,8 +6069,6 @@ thaka, go. Communicate this happy tidings to His Majesty of moon-like splendour�
  Samiddhārthaka—Friend, if it be fit to be heard by me, then tell \[me\] what that agreeable \[news is \] which has been communicated to the one possessed of moon-like splend. our, \[and\] pleasant in appearance,
 
  Siddhārthaka—Friends what \[ is there \] which should not be cold to you even? Therefore, listen, Now it happened. (*ashtāvat*) that by the accursed Malayaketu, with his mind deluded by the policy of Cāṇakya, having banished Rākṣasa, the five principal kings, which Citravarman as the main, were put to death. Then when the \[other\] kings in apprehension; started each to his own territory, for safety, with the remaining soldiers and retinue ill at ease through fear, having left the camp.site of Malayaketu, with the thought 'Of evil conduct
-
-
 
 विजअवम्म[^500]प्पमुद्देहिं संजमिअ गिहीदो मलअकेदु।\वयस्य, किं [तवाप्य[^501]कथयितव्यमस्ति। तन्निशामय।अस्ति तावच्चाणक्यनीतिमोहिनमतिना मलयकेतुहतकेन निष्कास्य राक्षसं हताश्चित्रवर्मप्रमुखाः प्रधानः पञ्च पार्थिवाः। ततोऽसमीक्ष्यकार्येषु दुराचार इत्युज्झित्वा मलयकेतुकटकभूमिं कुशलतायै भयविलोलशेषसैनिकपरिवारेषु स्वकं स्वकं विषयं समयं प्रास्थितेषु पार्थिवेषु निर्विण्णवहृदयेषु सकलसामन्तेषु, भद्रभटपुरुषदत्तडिङ्गगतबलगुप्तराजसेनभागुरायणरोहिताक्षविजयवर्मप्रमुखैः संयम्य गृहीतो मलयकेतुः। \]
 
@@ -6557,8 +6097,6 @@ is this one who perpetrates \[actions\] without \[any\] consideration’, when a
 ** Siddhārthaka—**Friend, a salutation to the policy of revered Cānakya as to the course of Fate, with its gait \[or foot-steps \] unheard \[or past understanding \].
 
  **Samiddhārthaka—**What then? What then?
-
-
 
 ** सिध्दार्थकः—**तदो पभूदसारसाहणसमेदेण इदो णिक्कमिअ अज्जचाणक्केण पडिवण्णं अराअलो[^505]अं असेसं मिलेच्छबलं। \[ततः प्रभूतसारसाधनसमेतेनेतो निष्क्रम्यार्थचाणक्येन प्रतिपन्नमराजलोकमशेषं म्लेच्छबलम्। \]
 
@@ -6592,8 +6130,6 @@ is this one who perpetrates \[actions\] without \[any\] consideration’, when a
 
  **Samiddhārthaka—**Friend, let this remain for a while. Why did revered Canakya, having in that way renounced office in the presence of all people, again accept the same minister's post?
 
-
-
 ** सिध्दार्थकः—**दिमुद्धोसि दाणिं तुमं जो अमच्चरक्खसेण वि अणतगाहिदपुव्वअज्जचाणक्कचरिद[^507]अवगाहिदुइच्छसि। \[अतिमुग्धोऽसीदानीं त्वं
 यदमात्यराक्षसेनाप्यनवगादितपूर्वमार्यचाणक्यचरितमवगाहितुमिच्छसि। \]
 
@@ -6623,8 +6159,6 @@ is this one who perpetrates \[actions\] without \[any\] consideration’, when a
 ** Samiddhārthaka—**Friend, minister Rākṣasa, having indeed escaped, in that manner, with a resolve made in regard to the restoration of the kingdom of the Nandas, has in point of fact (*eva*) now come back again here to Pāțaliputra, without his goal \[object, *artha*\] being achieved !
 
  **Siddhārthaka—**Friend, I guess \[ Rākṣasa has come back to Pātalipuara\] on account of \[his\] affection for Candanadāsa.
-
-
 
 ** समिध्दार्थकः**—वअम्स, चन्दणदासस्समोक्खं विअ पेक्खा[^510]मि॥ \[ वयस्य,चन्दनदासस्य मोक्षमिव प्रेक्षे। \]
 
@@ -6656,8 +6190,6 @@ is this one who perpetrates \[actions\] without \[any\] consideration’, when a
 (*Thus ends the Interlude*)  
 (*Then enter a man, with a rope in his hand*)
 
-
-
 ** पुरुषः—**
 
 **छग्गुणसंजोअदिढाउवाअपरिवाडिघडिअपासमुही।  
@@ -6682,8 +6214,6 @@ is this one who perpetrates \[actions\] without \[any\] consideration’, when a
 
 (*Walking about, stands*)  
 (*Then enter Rākṣasa, as described*)
-
-
 
 ** राक्षसः—**(सास्रम् ) कष्टं भोः कष्टम्।
 
@@ -6711,8 +6241,6 @@ is this one who perpetrates \[actions\] without \[any\] consideration’, when a
 
  Moreover,  
  Having abandoned \[ her \] husband, His Majesty, the lord of the earth, with a noble descent \[ goddess \] Royalty has, like an undisciplined Vṛṣala woman, gone over to Vrşala, on account of \[ His Majesty's \] weak point. And \[now\] has she become firm \[ly established \] in this \[Vṛṣala\]In this respect what shall *we* do, \[we,\] whose efforts, Fate, like an enemy, is frustrating?
-
-
 
  मया हि
 
@@ -6754,8 +6282,6 @@ is this one who perpetrates \[actions\] without \[any\] consideration’, when a
 
  So, even now, Rākṣasa fallen into the hands of the enemy, would for the matter of that (*tāvat* ), perish— but \[he \] would not enter into an alliance with Candragupta. Or rather, I
 
-
-
 अथवा[^521] मम काममसत्यसंघ इति वरमयशो न तु शत्रुवञ्चनपराभूत इति। (समन्तादवलोक्य सास्रम्) एतास्ता[^522] देवपादक्रमणपरिचयपवित्रीकृततयः। कुसुमपुरोपकण्ठभूमयः। इह हि
 
 [^521]: कुतः%20सकाममसत्यसंघ%20इति%20परमयशो%20न%20शत्रु.....। "कुतः सकाममसत्यसंघ इति परमयशो न शत्रु.....।"
@@ -6780,8 +6306,6 @@ would readily grant (*kāmam*) that to me the infamy (*a-yasah*) \[that I am\]�
  In this region (*atra dese*), was effected the discharging (*mokṣa*) of arrows at moving \[ targets \], in an astonishing manner (*cutram*), with the horse at top-speed (*pragavnta*) by His Majesty, with the hold (*pragraha*) over the reins (*kavrkā*) \[become\] all too loose (*pra-sathila* ), let fall \[as the reins were\] in thisact of stretching the bow to the fullest extent (ā). In this series of gardens did \[His Majesty\] rest, here did he talk with the kings. The Kusumapura grounds, now being looked at thus without them, cause pain excessively (*bhüiyasā* ).
 
  Where possibly (*nu*) then shall I, luckless \[that I am\], going (*Beholdong*) Well (*bhavatu*), here is seen this old garden Having entered here, I shall secure from some one news about Candanadāsa. Oh, how wounderfully do the changes developments (*parḷḷatayaḥ*) \] in condition, favourable (*sama*) and unfavourable (*vi-sama* ), come about, with their arrival (*mpāta* lit fall) \[previously\] unnoticed ? Why?
-
-
 
 **पौरेरङ्गुलिभिर्नवेन्दुवदहं निर्दिश्यमानः शनै-  
 र्यो राजेव पुरा पुरान्निरगमं राज्ञां सहस्रैर्वृतः।  
@@ -6810,8 +6334,6 @@ would readily grant (*kāmam*) that to me the infamy (*a-yasah*) \[that I am\]�
  A mansion, with its erection involving great effort, lies shattered \[ to bits \]( *unparyasta*), like a \[noble\] family, with the materialisation (*racanã*) of great undertakings\[to its credit\]; the lake is dried up, like the heart of a saintly person, on account of the destruction of the friends; the trees are devoid of fruit, like policies, on account of association with Fate which is far from favourable (*vi-guna*) \[and\] the ground is covered with blades of grass like the mind \[lit, intellect \] of the ignorant, by evil ways (*ku-nita*).
 
  Moreover,
-
-
 
 **क्षताङ्गीनां[^527] तीक्ष्णैः परशुभिरुदग्रैःक्षितिरुहां  
 रुजा कूजन्तीनामविरतकपोतोपरुदितैः।  
@@ -6842,8 +6364,6 @@ would readily grant (*kāmam*) that to me the infamy (*a-yasah*) \[that I am\]�
  And here the poor (*tapasvinaḥ*) trees showing pointedly (*udagrayantaḥ*) the drying up within their body \[i.e.the trunks\] bearing the holes (*kṣati*, wrought into them ) by the insects, like very heavy grief, gloomy on account of the absence of \[lit. separation from \] shade \[punningly, lustre, *chāyā*\], \[and\] plunged into distress, are as though on the eve of \[lit. have begun, *pravrttāh*\] their departure to the cemetary.
 
  I shall \[then\] sit down for a while (*yāvat*), on a borken slab of stone, easy to have in this unfavourable (*vi-ṣama*) change (*parvirāma*) of condition. ( *Sitting down and lastening* ) Ah! How (or why, *kim*) is this auspicious sound of trumpets, mixed with \[that of big kettle-drums (*paṭupaṭahaḥ*), risen, who knows from where (*ākasmika*), \[i.e.suddenly\] being heard? This here—
-
-
 
 **प्रमृद्गञ्छ्रो[^531]तॄणां श्रुतिपथमसारं गुरुतया,  
 बहुत्वात्प्रासादैः सपदि परिपीतोज्झित इव।  
@@ -6879,8 +6399,6 @@ would readily grant (*kāmam*) that to me the infamy (*a-yasah*) \[that I am\]�
 
  (*Not seeing Rākṣasa as though, he ties up his neck by the noose of the rope, in front of him* ).
 
-
-
 ** राक्षसः—**(विलोक्य) अये, कथमयमात्मानमुद्बध्नाति। अहमिव दुःखितस्तपस्वी। भवतु पृच्छाम्येनम्। (उपसृत्य) भद्र, किमिदमनुष्ठीयते।
 
 ** पुरुषः—**(सबाष्पम्) अज्ज, ज पिअव[^535]अस्सविणासदुःखिदो आह्मारिसो मन्दभग्गो अणुचिट्ठदि। \[आर्य, यत्प्रियवयस्यविनाशदुःखितोऽस्मादृशो मन्दभाग्योऽनुतिष्ठति।\]
@@ -6907,8 +6425,6 @@ would readily grant (*kāmam*) that to me the infamy (*a-yasah*) \[that I am\]�
 
  Rākşasa—(*Saghing, to himself*) Alas ! Here are we, indifferent, like strangers, to the \[lit. in the \] difficulties of friends", being repudiated. (*Aloud* ) Good \[friend\], if \[it is \] not a secret, nor very important, I would like to hear \[about it\].
 
-
-
 ** पुरुषः—**अहो गिब्बन्धो अज्जस्स। का गइ[^537]। णिवेदेमि। अत्थिदाव एत्थ णअरे मणिअएसेठ्ठीविह्णुदासोणाम। \[अहो निर्बन्धआर्यस्य। कागतिः। निवेदयामि। अस्ति तावदत्र नगरे मणिकारश्रेष्ठी विष्णुदासो नाम।\]
 
 [^537]: जिह्णुदासो। "जिह्णुदासो।"
@@ -6933,8 +6449,6 @@ would readily grant (*kāmam*) that to me the infamy (*a-yasah*) \[that I am\]�
  Rākṣasa—(*With joy, to himself*) Ah ! \[He\] said ‘(my) dear friend’. Extremely close is the relation, Oh joy (*hanta*), \[this one\] would \[definitely\] know \[some\] account relating to Candanadāsa.
 
  Puruṣa—\[and\] has after having given away his rich possessions (*vrbhava*) such as the ornaments etc., to the poor people, now gone out of the city, desirous of entering into fire. I too have come to this old garden to strangle myself to death (*udbadhya vyāpādayıtum*), even before I (*yāvat na tāvat*) hear what should not be heard \[i.e. the news of the death\] of him.
-
-
 
 ** राक्षसः—**भद्र, अग्निप्रवेशे सुहृदस्ते को हेतुः।
 
@@ -6977,8 +6491,6 @@ would readily grant (*kāmam*) that to me the infamy (*a-yasah*) \[that I am\]�
 
 ** Puruṣa—**Noble one, what else ?
 
-
-
 ** राक्षसः—**(सावेगमात्मगतम्) चन्दन[^542]दासस्य प्रियसुहृदिति तद्विनाशो हुतभुक्प्रवेशहेतुरिति यत्सत्यं चलित[^543]मेवास्ते युक्तस्नेहपक्षपाताध्दृदयम्। (प्रकाशम्) तद्विनाशं च प्रियसुहृद्वत्सलतया मर्तव्ये व्यवसितस्य सुचरितं च विस्तरेण श्रोतुमिच्छामि।
 
 [^542]: चन्दनदासोऽस्य%20प्रियसुहृदिति%20तस्य%20विनाशो। "चन्दनदासोऽस्य प्रियसुहृदिति तस्य विनाशो।"
@@ -7012,8 +6524,6 @@ would readily grant (*kāmam*) that to me the infamy (*a-yasah*) \[that I am\]�
 ** Rākṣasa—**Good \[ friend \], I am attentive.
 
  **Puruṣa—**In this city there is the President of the Guild of Jewellers, Candanadāsa by name.
-
-
 
 ** राक्षसः—**(सविषादमात्मगतम्) एतत्तदपावृतमस्मच्छोक[^546]दीक्षाद्वारं दैवेन। हृदय, स्थिरीभव किमपि ते कष्टतरमाकर्णनीयमस्ति। (प्रकाशम्) भद्र, श्रूयते मित्रवत्सलः स साधुः। किं तस्य।
 
@@ -7051,8 +6561,6 @@ would readily grant (*kāmam*) that to me the infamy (*a-yasah*) \[that I am\]�
 
 ** Rākṣasa—**(*To himself*) Bravo ! O Viṣnudāsa, bravo ! Oh ! the affection for \[your\] friend has \[well\] been shown \[by you\]. Why?
 
-
-
 **पितॄन्पुत्राः पुत्रान्परवदभिहिंसन्ति पितरो  
 यदर्थंसौहार्द सुहृदि च विमुञ्चन्ति सुहृदः।  
 प्रियं[^549] तं संत्यक्तुं व्यसनिनि वयस्ये व्यवसितः  
@@ -7076,8 +6584,6 @@ would readily grant (*kāmam*) that to me the infamy (*a-yasah*) \[that I am\]�
 
 ** Puruṣa—**Noble one, the merchant Visṇudāsa was thus spoken to in reply, by Candragupta \[who was\] thus addressed ‘Not for the the sake of money was Candanadāsa bound down by me, but \[he was taken into custody\] because by him have been concealed persons in the house \[-hold-\] of minister Raksasa \[and because\] they were not surrendered \[ to us\] though \[Candanadāsa was\] requested many times \[to do so \]. So, if he surrenders them, then there is his release \[sure to take place\]. Otherwise there would be capital punishment \[meted out to
 
-
-
 मणितेन चन्द्रगुप्तेन प्रतिभणितः श्रेष्ठी विष्णुदासः—न मयार्थस्य कारणेन चन्दनदासः संयमितः किंतु प्रच्छादितोऽनेनामात्यराक्षसस्य गृहजनो बहुशो याचितेनापि न समर्पित इति।तद्यति तं समर्पयति ततोऽस्त्यस्य मोक्षः।अन्यथा प्राणहरोऽस्य ! दण्ड इति। एवं भणित्वा वध्यस्थानमानायितश्चन्दनदासः। ततो यावद्वयस्य चन्दनदासस्याश्रोतव्यं न शृणोमि तावज्ज्वलनं प्रविशामीति श्रेष्ठी विष्णुदासो नगरान्निष्क्रान्त। अहमपि विष्णुदासस्याश्रोतव्यं यावन्न शृणोमि तावदुद्वध्यात्मानं व्यापादयामीतीदं जीर्णोद्यानमागतः।\]
 
 ** राक्षसः—**भद्र, न खलु व्यापादितश्चन्दनदासः।
@@ -7099,8 +6605,6 @@ him. Having said so, Candanadāsa was caused to be brought to the execution-plac
 ** Purusa**justto-day he is to be killed. He indeed is again and again being requested to surrender minister.Raksasa's family- members. He indeed does not surrender out of affection for \[his\] friend. So, on this account I do not \[now hke to\] cause \[any\] delay in my death.
 
 ** Rāksasa**Bravo ! friend Candanadāsa, Bravo.
-
-
 
 **शिवेरिव[^554] समुद्भूतं शरणागतरक्षया।  
 निचीयते त्वया साधो यशोऽपि सुहृदा विना॥१८॥**
@@ -7132,8 +6636,6 @@ him. Having said so, Candanadāsa was caused to be brought to the execution-plac
 
  This my sword, with \[its\] form similar \[in hue\] to that of a cloud surcharged with water, horripilated as though on account of its eagerness for \[lit., faith in\] battle, having formed friendship with \[my\] hand, with its strength seen on the touchstone of battle, on account of the excellence (*utkarṣa*) of its quality (*sattva* ) by \[my\] enemies, is appointing me, now helpless (*vivasa*), owing to \[my\] affection for \[my\] friend, to \[an act of\] rashness (*sāhasa*).
 
-
-
 ** पुरुषः—**अज्ज, एवं सेट्ठिचन्दनदासजीविदप्पदा[^556]णपिसुणिदं विसम विपाकणिपडिदं साधु ण सक्णोमि तुमं गिणीअ पडिवत्तुं किं मुनिणामहेआ अमच्चरक्खसपादा तुह्मेदिट्ठिआ दिद्वात्ति। ता करेहि मे पहा सदेहणिण्णए। \[आर्य, एव श्रेष्ठचन्दनदासजीवितप्रदानपिशुनितं विषमदर्श विपाकनिपतितं साधु न शक्नोमि त्वा निर्णीय प्रतिपत्तं कि मुगृहीतनामषेक अमात्यराक्षसपादा यूयं दिष्ट्या दृष्टा इति। तत्कुरु मे प्रसाद सदेह निर्णयेन।\]
 
 [^556]: जीविदरक्खणेण%20पिसुणिदा%20विसम...%20पडिदा%20ण%20सक्कणोमि%20णिच्छिदपद%20भाष%20किं%20सुगिहीद...। "जीविदरक्खणेण पिसुणिदा विसम... पडिदा ण सक्कणोमि णिच्छिदपद भाष किं सुगिहीद...।"
@@ -7161,8 +6663,6 @@ him. Having said so, Candanadāsa was caused to be brought to the execution-plac
 
 2.विदत्थोही।
 
-
-
 ** पुरुषः[^557]।")—** पसीदन्दु अमच्चपादा। अत्थि दान एत्थ पढमं चन्द उत्तहृदएण अज्जसअडदासो[^558] वज्झट्ठाणं आणत्तो। सो अ वज्झाणादोकणवि अवहरिअ देसन्तरं णीदो[^559]। तदो चन्द्रउत्तहदएण कीसएसो प्पमादो किंदोत्ति अज्जसअडदासे समुज्जलिदो कोववह्नी घादअजणणिहणेण णिव्वाविदो तदोपहुदि घादआ जं कंवि गिदिमत्थं अपुव्वंपुरिसंविट्ठदोवा अग्गदोवा पेक्खन्ति तदो अत्तणो जीविदं परिरक्खन्ता अप्पमत्ता वज्झ[^560]-वावादोन्ति। ताएवं गिहिसपत्येहिं अमच्चपादेहिंगच्छन्तेहिं सेट्ठिचन्दणदासस्स वहो तुवराइदो होदि। \[प्रसीदन्त्वमात्यपादाः। अस्ति तावदत्र प्रथमं चन्द्रगुप्तहतकेनार्यशकटदासो वध्यस्थानमाज्ञप्तः। स च वध्यस्थानात्केनापहृत्य देशान्तर तुः। ततश्चन्द्रगुप्तदतकेन कस्मादेष प्रमादः कृत इत्यार्थशकटदासे समुज्ज्वलितः हिर्घातकजननिधनेन निर्वापिनः। ततः प्रभृति घातका यं कमपिगृहीतशस्त्रमपूर्वे पुरुषं पृष्ठतो वाग्रतो वा प्रेक्षन्ते तदात्मनो जीवितं परिरक्षन्तोऽत्ता वध्यं व्यापादयन्ति। तत्मादेवं गृहीतशस्त्रैरमात्यपादैर्गच्छद्भिः श्रेष्ठचन्दनदासस्य वधस्त्वरायितो भवति। ( निष्क्रान्तः )
 
 [^557]: "पुरुषः-(पादयोर्निपत्य
@@ -7182,8 +6682,6 @@ him. Having said so, Candanadāsa was caused to be brought to the execution-plac
 ** Pusuṣa—**May it please the respectworthy \[lit. the feet of \[e\] minister. It just (*tāvat*) happened here that the noble kaţadāsa was first ordered by the accursed Candragupta to taken to\] ths place of execution. And he, having been ken away \[per force\] from the place of execution, was taken to another country. Then by the accursed Candragupta was the enkindled fire in the form of anger at the thought—'why as this blunder committed? caused to be extinguised by the slaughter \[lit. death\] of the person in charge of the execution. Since then the executioners, \[whenever\] they see some person or the other with a sword taken \[in his hand\] \[and\] a Yetranger, either in front of or behind \[themselves\], then, very carefully guarding their own life, \[they\] kill the condemned victim. Therefore, by the respectworthy minister, going thus with the sword taken \[in hand\], would be hastened the death of the President \[of the Guild\] Candanadāsa. (*Exit*)
 
 ** Rākṣasa—** Oh, \[how\] difficult to comprehend is the course of the policy of the chap Canakya. Why ?
-
-
 
 **यदि च शकटो नीतः शत्रोर्मतेन ममान्तिकं  
 किमिति निहतस्तेन क्रोधाद्वधाधिकृतो जनः।  
@@ -7219,8 +6717,6 @@ him. Having said so, Candanadāsa was caused to be brought to the execution-plac
 
 *Thus ends the Sixth Act called  
 “The False Noose”*
-
-
 
 **सप्तमोऽङ्कः।**
 
@@ -7267,8 +6763,6 @@ him. Having said so, Candanadāsa was caused to be brought to the execution-plac
  Now (*tad*) if you do not believe \[this \], then look at this
 President of the Merchant Guild, Candanadāsa, author (*kārın*)
 
-
-
 णदासं सउत्तलत्तं वज्झट्ठाणं णीअमाणं। (आकाशे) अज्जा, किं मणह। अत्थिसे कोवि मोक्खोवाओ त्ति। अज्जा, अत्थिअमच्चरखखसस्स घरअणं जद्समप्पेदि। (पुनराकाशे) किं मणह। एसे सलणागदवच्छले अत्तणो जीविदमेतस्स कालणे ईदिसं अकज्जं ण कलित्सदि त्ति। अज्जा, तेण हि अवघालेह से
 सुहा[^568] गर्दि। किं दाणिं तुम्हाणं एत्थ पडिआरविआरेण। \[ तद्यदि न प्रतीर्थ तदत्र प्रेक्षध्वमेनं राजापथ्यकारिणं श्रेष्ठिचन्दनदासं सपुत्रकलत्रं वध्यस्थानं नीयमानम्।......आर्याः, किं भणथ। अस्त्यस्य कोऽपि मोक्षोपाय इति। आर्याः, अस्त्यमात्यराक्षसस्य गृहजनं यदि समर्पयति।......किं भणथ। एषशरणागतवत्सल आत्मनो जीवितमात्रस्य कारणेनेदृशमकार्ये न करिष्यतीति। आर्याः, तेन ह्यवधारयतास्य शुभां गतिम्। किमिदानीं युष्माकमत्र प्रतीकारविचारेण।\]
 
@@ -7289,8 +6783,6 @@ of \[things\] hostile \[lit. unwholesome\] to the king with his wife and son, be
  (*Then enter Candanadāsa being followed by the other Candāla Elvapatra, and wearing the dress of a condemned criminal having taken the stake on his shoulder, and being followed by his wife and son*.)
 
  Candanadāsa—(*With tears*) Alas \। Fie ! Alas \। A salutation to Death I that of even persons like us ever afraid of \[any\] deviation (*bhanga*) \[lit. break \] from \[the proper\] course of life (*caritra*), there takes place(*bhavati*?) death such as is befitting,
-
-
 
 भङ्गमीरूणं चौरजणोचिदं मरणं होदि त्ति णमो किदन्तस्स। अह वा ण णिससाणं उदासीणेसु इदरेसु वा विसेसोत्थि। तहहि \[हा धिक् हा धिक्अस्माद्दशानामपि नित्यं चारित्रभङ्गभीरुणा चोरजनोचितं मरण भवतीति नमः कृतान्ताय। अथवा न नृशंसानामुदासीनेष्वितरेषु वा विशेषोऽस्ति। तथाहि\]
 
@@ -7315,8 +6807,6 @@ the class (*Jana*) of thieves।Or rather, in the eyes of the cruel (*nṛsansa*
  What \[an inexplicable\] insistence indeed, \[is there\] on the part of the hunters to kill the innocent deer, living on blades of grass, through fear of derth, leaving flesh (*āmaṣa*) \[to itself\] ?
 
  (*Looking around*) O dear friend Viṣṇudāsa, how do you not give me even \[so much as\] a word in reply? Or rather; difficult to come across, are indeed those men, who \[ would\] so much as (*api*) stand within the range of sight, at this hour \[juncture lit. time\]. Here our dear friends, with counter-measures adopted by the mere shedeing of tears, returning with great difficulty (*kathamapi*) with their bodies, their faces woe-begone (*dina*) on account of excessive \[lit. increased\] grief, are following me with eyes heavy (*guruka*) with tears.
-
-
 
 ** बिल्वपत्रः—**अज्ज चन्दणदास, आअदोसि वज्झट्ठाणं ता विसज्जेहि घरअणम्। \आर्यचन्दनदास, आगतोऽसि वध्यस्थानं तद्विसर्जय गृहजनम्।
 
@@ -7357,8 +6847,6 @@ the class (*Jana*) of thieves।Or rather, in the eyes of the cruel (*nṛsansa*
 
 ** Wife—**That there should be favour done to myself, by following \[in death\] the feet of my lord.
 
-
-
 ** चन्दनदासः—**अज्जे दुव्ववसिदं एदं। तुए अअंपुत्तओ[^577] असुणिदलोअसंववहारो बालो अणुगेहिणदवी। \[ आर्ये, दुर्व्यवसितमिदम्। त्वयायं पुत्रकोऽश्रुतलोकसंव्यवहारो बालोऽनुगृहीतव्यः।\]
 
 [^577]: कुमारो।
@@ -7390,8 +6878,6 @@ the class (*Jana*) of thieves।Or rather, in the eyes of the cruel (*nṛsansa*
  Bilvapatra—Noble Candanadāsa, the stake is \[ready \] planted. So, be ready.
 
  Wife—Noble sirs \[or gentlemen\], protect, protect.
-
-
 
 ** चन्दनदासः—**अज्जे, अद किं एत्थ आक्कन्दसि।सग्गं[^580] गदाणं दाव देवादुक्खिअं परिअण अनुकम्पन्दि। अण्णं[^581] अ मित्तकज्जेण मे विसाणो ण अजुत्तकज्जेण। ता किं हरिसट्ठाणे वि रोदीअदि। \[ आर्ये, अथ किमत्राक्रन्दसि। स्वर्गेगतानां तावद्देवा दुःखितं परिजनमनुकम्पन्ते। अन्यच्च मित्रकार्येण मे विनाशो नायुक्तकार्येण। तर्त्किहर्षस्यानेऽपि रुद्यते। \]
 
@@ -7426,8 +6912,6 @@ the class (*Jana*) of thieves।Or rather, in the eyes of the cruel (*nṛsansa*
  Candanadāsa—Good \[friand\], wait for a moment till I emachrace my little son. (*Embracing the son, smelling hem on the head*) Dear son, while death is sure to take place \[in the case of every one born\], I am meeting \[lit. experiencing my\] death, while carrying out \[my\] duty towards \[my\] friend.
 
  Son—\[Dear\] father, need even this be told \[i.e said in so many words\]? This \[is\] indeed our family –\[code of\]–duty.
-
-
 
  **वज्रलोमा—**अले गेहण एणं। \[ अरे, गृहाणैनम्। \] ( चण्डालौ गृहीतश्चन्दनदासम् )
 
@@ -7468,8 +6952,6 @@ the class (*Jana*) of thieves।Or rather, in the eyes of the cruel (*nṛsansa*
 
  Rāksasa—This is indeed an imitation of a part (*ekadesa*) \[only\] of your excellent \[course of\] action.
 
-
-
 ** चन्दनदासः—**अमच्च, सव्वं एवं वि इमं पआस णिष्फलं करन्तेण तुए किं अणुचिट्ठिदं। \[अमात्य, सर्वमपीमं प्रयासं निष्फलं कुर्वता त्वया किमनुष्ठितम्। \]
 
 ** राक्षसः—**सखे, स्वार्थ[^589]%20हि%20जीवलोकः। "स्वार्थ एव ( स्वार्थप्रधानो ) हि जीवलोकः।") एवानुष्ठितः। कृतमुपालम्भेन। भद्र निवेद्यता दुरात्मने चाणक्याय।
@@ -7500,8 +6982,6 @@ the class (*Jana*) of thieves।Or rather, in the eyes of the cruel (*nṛsansa*
  Here am I, that one (sa), for whose sake, he \[Candanadāsa\], though worthy of being worshipped, attained the state of being a victim of yours, condemned to death, \[–Candanadāsa–\] by whom, possessed of glory, has been reduced to the state of being a paltry something (*atrlagkuvām nītam* ) the glory of Sibi \[by\] protecting (*rakṣatā*) at the cost of \[lit. by\] his own life, another, even in this Kali \[age\], an evil age, with the tastes of people vitiated (asat ) \[and by whom \] with a pure soul has been surpassed, by good deeds, the course \[ of acts \] of even the Buddha \[ saints \].
 
  Vajraloman—O Bilvapatra, do you just taking hold of this Candanadāsa, wait for a while in the shadow of this tree
-
-
 
 अमच्चरक्खसो त्ति। \[ अरे बिल्वपत्र, त्वं तावच्चन्दनदासं गृहीत्वैतस्य श्मशानपादपस्य छायायां मुहुर्ते तिष्ठ यावदहमाचाणक्याय निवेदयामि गृहीतोऽमात्यराक्षस इति। \]
 
@@ -7537,8 +7017,6 @@ in the cemetery till I report to revered Cāṇakya, ‘Minister Rākṣasa has 
 
  (*Then enter Canakya his body covered with a mantle, with the face only visible*.)
 
-
-
 ** चाणक्यः—**भद्र, कथय कथय
 
 **केनोत्तुङ्गशिखाकलापकपिलो बद्धः पटान्ते[^592] शिखी  
@@ -7572,8 +7050,6 @@ in the cemetery till I report to revered Cāṇakya, ‘Minister Rākṣasa has 
  Rākṣasa—(*To himself*) Here \[is\] Kāuṭilya \[ I wonder whether he is\] evil-souled or noble-souled—
 
  The mine of all sciences, like the ocean \[that \] of gems, with whose merits, we \[that are\] under the influence of jealousy, are not fully satisfied.
-
-
 
 ** चाणक्यः—** ( विलोक्य सहर्षे स्वगतम् ) अये, अयमसावमात्यराक्षसः। येन महात्मन।
 
@@ -7609,8 +7085,6 @@ in the cemetery till I report to revered Cāṇakya, ‘Minister Rākṣasa has 
 
  Rāksasa—(*To himself*) By good fortune is the suspicion about Śakaṛadāsa removed !
 
-
-
 ** चाणक्यः—**(विलोक्य सहर्षे स्वगतम् ) अये,अयमसावमात्यराक्षसः। येन महात्मना
 
 **गुरुभिः कल्पनाक्लेशैर्दीर्घजागरहेतुभिः।  
@@ -7645,8 +7119,6 @@ in the cemetery till I report to revered Cāṇakya, ‘Minister Rākṣasa has 
  Cāṇakya—Minister Rākṣasa, these \[two\] are not Candālas. This one indeed is an officer of the king, even seen formerly by your worthy presence, \[and\] Siddhārathaka by name. And this one too, the other,–he also is just an officer of the king, Samiddhārthaka by name. And poor Śakaṭadāsa too was caused by me to write that false letter of that sort, without himself knowing \[it\] at all.
 
  Rāksasa—(*To himself*) By good fortune is the suspicion about Śakaṛadāsa removed !
-
-
 
 ** चाणक्यः—**किं बहुना। एषःसंक्षेपतः कथयामि।
 
@@ -7686,8 +7158,6 @@ in the cemetery till I report to revered Cāṇakya, ‘Minister Rākṣasa has 
  (*Then enter the king, and around him the retinue*)
 
  King—(*To himself*) Even without a fight has the enemy’s army, difficult to conquer been conquered by the Revered one–at this I am indeed ashamed. For, \[on the part\] one of my
-
-
 
 **फलयोगमवाप्य सायकाना[^605]मनियोगेन विलक्षतां गता[^606]नाम्।  
 स्वशु[^607]चेव भवत्यधोमुखानां निजतुणीशयनव्रत[^608]प्रतिष्ठा॥१०॥**
@@ -7739,8 +7209,6 @@ in the cemetery till I report to revered Cāṇakya, ‘Minister Rākṣasa has 
 
  King—(*Approchrng Rākṣasa*) Noble one, Candraguptadoes obeisance to \[you\].
 
-
-
 ** राक्षसः—**(विलोक्य स्वगतम् ) अये चन्द्रगुप्तः। य एषः
 
 **बाल एव हि लोकेऽस्मिन्संभावितमहोदयः।  
@@ -7771,8 +7239,6 @@ in the cemetery till I report to revered Cāṇakya, ‘Minister Rākṣasa has 
  Rākṣasa—(*To himself*) The pupil of Kautilya is tinging \[lit.touching \] me with the state of \[being his\] servant Or, this \[is\] only the good training (*vi-naya*) \[or modesty\] of Candragupta. My jealousy, however, makes me imagine the contrary In all ways (*sarvathā*) \[i. e. looked at from all view-points\], rightly \[in the fitness of things, *sthāne*\] \[is\] Cānakya victorious, Why?
 
  Having secured a worthy \[*dravya*, lit. the proper kind of material\] ambitious \[king\] (*jigiṣu*), the firm establishment in the position of being victorious is certain \or defi–
-
-
 
 **अद्रव्यमेत्य तु विशुद्धनयोऽपि मन्त्री,  
 शीर्णाश्रयः पतति कूलजवृक्षवृत्त्या॥१४॥**
@@ -7808,8 +7274,6 @@ nate, *niyate*\] of even a dull-witted counsellor \[*netā*.–guide, adviser\].
 
  Cāṇakya—Minister Rākṣasa, how \[ is\] this \[correct\] that I am worthy, your respected presence (*bhavān*) unworthy?
 
-
-
 **अश्वैः सार्द्धमजस्रदत्तक[^617]विकैः क्षामैरशून्यासनैः  
 स्नानाहारविहारपानशयनस्वेच्छासुखैर्वर्जितान्।  
 माहात्म्यात्तव पौरुषस्य मतिमन्दतारिदर्पच्छिदः  
@@ -7835,8 +7299,6 @@ nate, *niyate*\] of even a dull-witted counsellor \[*netā*.–guide, adviser\].
  Rākṣasa— (*To himself*)
 
  The excellence \[lit. merits\] of the affection of the Nandas touches ‘the heart, \[while now I am practically already\] the servant of their enemies. Those very trees, sprinkled over by myself and grown up \[lit. which attained their growth\], \[are now \] cut off. By me is the weapon to be used \[lit. put into operation\] for the sake of the protection \[or safety\] of \[my\] friend’s person. The courses of events (*kārya*), take us after a long period of time to the state of being the obedient servants (*ājnā*)
-
-
 
 **शस्त्रं मित्रशरीररक्षणकृते व्यापारणीयं मया  
 कार्याणां गतयो विधेरपि नयन्त्याज्ञानकरत्वं चिरात्॥१६॥**
@@ -7873,8 +7335,6 @@ nate, *niyate*\] of even a dull-witted counsellor \[*netā*.–guide, adviser\].
 
  Cāṇakya—Good \[man\], let \[the matter\] be reported to Minister Rākşasa. It is (*he*) who ( *now*) knowns in this respect.
 
-
-
 ** राक्षसः—**(स्वगतम्) कथं दासीकृत्य मामिदानीं विज्ञापनाया करोति कौटिल्यः। का गतिः। (प्रकाशम्) राजन्[^623] चन्द्रगुप्त, विदितमेव। यथा वयं मलयकेतौ कचित्कालमुषितास्तत्परिरक्ष्यन्तामस्य प्राणाः।
 
 [^623]: राजन्%20विदितमेवैतद्%20यथा। "राजन् विदितमेवैतद् यथा।"
@@ -7903,8 +7363,6 @@ nate, *niyate*\] of even a dull-witted counsellor \[*netā*.–guide, adviser\].
  Purusa— As the Revered one commands (*With this walks about*.)
 
  Cāṇakya—Good \[man \], wait, wait. And \[by wa another \[thing\], Vijayapala, the fort-commandant, should be told—"Candragupta, extremely pleased at the acquisition of Minister Rākṣasa, commands—This President of the \[Me chant\] Guild, here, Candanadāsa—he should be appointed isthe post of Merchant-in-Chief in all the cities in the empire \[lit on the earth\]”.
-
-
 
 स पृथिव्यां सर्वनगरश्रेष्ठिपदमारोप्यतामिति। अपि च विना हस्त्यश्वं क्रियत।सर्वमोक्ष इति।अथवामात्यराक्षसे नेतरि [किम](http://किं%20हस्त्यश्वेन%20प्रयोजनम्।%20तदिदानीम्। "किं हस्त्यश्वेन प्रयोजनम्। तदिदानीम्।")स्माकं प्रयोजनमिदानीम्।
 
@@ -7947,8 +7405,6 @@ nate, *niyate*\] of even a dull-witted counsellor \[*netā*.–guide, adviser\].
 
  (*Chorus or the passage assigned to all actors*)
 
-
-
 **वाराहीमात्मयोनेस्तनुमवनविद्यावास्थितस्यानुरूपां  
 यस्य प्राग्दन्तकोटिं प्रलयपरिगता शिश्रिये भूतधात्री।  
 म्लेच्छैरुद्विज्य[^629]माना भुजयुगमधुना संश्रिता राजमूर्तेः  
@@ -7976,8 +7432,6 @@ nate, *niyate*\] of even a dull-witted counsellor \[*netā*.–guide, adviser\].
 Thus ends the drama “MUDRĀRĀKṢASA”.  
 composed by Visākhadatta.*
 
-
-
 **NOTES**  
 **ACT I**
 
@@ -7987,15 +7441,11 @@ composed by Visākhadatta.*
 
  The stanza contains a dialogue as it once took place, according to the poet, between Lord Śankara and Pārvatī. Seeing a woman on the head of Lord Śankara, Pārvati was astonished and therefore asked Lord Śankara ‘who is this blessed one on your head?’ (*blessed* indeed she was, as she was occupying the most covetable place in the world viz., Lord Śiva’s head which even Pārvati, though constituting half of the Lord's अर्धनारीनटेश्वर form, never could, occupy; in fact Pārvati’shighest claim never extended beyond the Lord’s lap). Śiva wanted to conceal that it was Gangā \[the river Ganges personified\] who occupied his head and therefore, *deliberately misunderstanding the point of Pārvati’s* question replied, 'S'asikalā’— the moon's digit—is on my head’. Pärvati, still having Gangā in her mind, though she knew her not by the name, proceeded to ask, ‘Is this her name?’ S'iva replied ‘that is even her appellation
 
-
-
 (नाम= appellation, the way one is called); in fact, it is well. known to you. How have you forgotten it? Pārvati wated to remove S'iva's misunderstanding regarding her question and with that in view she said, ‘I am *asking* \[you\] *about* the woman \[there on your head\]—*not about* the moon.’ नारी पृच्छामि=नारीविषयकं पृच्छामि, नारीमधिकृत्य पृच्छामि and similarly इन्दु न पृच्छामि=इन्दु विषयकं or इन्दुमधिकृत्य न पृच्छामि. Sankara who, however, was in a mood to tease Pārvati, whose Jealousy was obviously roused by Ganga, continues in the vein he had on purpose started in and takes नारीं पृच्छामि to be the same thing as '*I shall ask or inquire of a woman* and इन्दु न पृच्छामिto be the same thing as I shall not ask or inquire of the (moon or) Candra' \[who, after all, is a male as untrustworthy as S'ankara himself\] and, therefore, coolly says 'let विजया\[your trusted female companion or attendant, according to another account\] tell—if Candra, is not an authority i. e is not reliable \[in your opinion\]. S'iva thus succeeded in not allowing Pārvatī to extract from hun the name of the woman on his head. The cleverness or ingenuity not unaccompanied by a desire to tease Parvati, isappreciated by the poet Visakhadatta and so he expresses the pious wish 'may this cleverness of the Lord protect (अव् to protect) you \[i.e. the *audience* before whom the play was being staged\].
 
  मीयते अनेन इति मानम्, प्रकृष्ट च तत् मानं च प्रमाणम्—i. e., most reliable mean of knowledge. According to Indian Logic there are four principal means of knowledge: प्रत्यक्ष, अनुमान, शब्द, उपमान. The term प्रमाण primarily applied to these *reliable* *means of knowledge*, it is later *extended* to anything or any one *reliable*. It is in this sense that the moon is said to be no *pramānu*, in the eyes of Pārvatī.
 
  Students of Hindu mythology are well aware how the sacred river Ganges in the course of her descent from heaven earthwards, first fell on S'iva's head, lest the earth be pierced through by the mighty fall. The story of Bhagiratha, who practised austerities with the purpose of making the heavenly river come down and raise his ancestors who were in the nether regions, is what the poet has in view so far as केयं
-
-
 
 स्थिता ते शिरसिis concerned. But the whole of it need not be recounted. Likewise the circumstances under which Śiva was required to place the moon \[for a cooling effect \] on his head, after having drunk the virulent Hālāhala poison that came up in the course of the churning of the milk—occan, to which both gods and demons were a party, too, need not be narrated in full. It is very interesting to note that even *goddess* Pārvatï has a humon element in her, in that her *jealousy* was roused at the sight of a woman who already had got herself planted on the head of Lord Śiva.
 
@@ -8005,13 +7455,9 @@ composed by Visākhadatta.*
 
  The stanza describes the tāndava dance which Śankara performed with an amount of discomfort (दुःख) out of consideration (अनुरोध) for the ādhāra lit, the very ground where he danced viz the पृथ्वीतल. Flushed with the victory that the
 
-
-
 Lord had secured against the demons wherein he had destroyed the *three cities* specially built up by Maya, the architect of the demons, cities which could be invisible at will,—the Lord would have given a very vigorous performance of the ताण्डवनृत्त (नृत्य). But the Lord knew full well that if he were to let himself go and indulge freely in the dance, the whole earth would undergo a depression (अवनति) under the vigorous stampings of his feet \[ आविर्भवन्तीम्=आविर्भविष्यन्ताम्, the term being used proleptically\]. He, therefore, spared (रक्षतः) the earth and was content with only gentle (स्वरै) treadings of his feet (पादस्य = पादयोः). So far as gesticulation, expression of feelings, was concerned, the Lord remained content with whatever (in fact) inadequate space he could get for stretching out his arms. Śiva, as the Natarāja, has a thousand arms.दोष्णाम् genitive *plural* of दोषान् *ṃ*, an arm thus is quite proper. He actually subjected his long arms to a *contraction* (संकोच), lest they reached the space beyond all the worlds generally said to be fourteen (भूः, भुवः, स्वः, मह, जनः, सत्य or ब्रम्ह and अतल, वितल, सुतल, रसातल; तलातल, महातल and पाताल ) and caused them harm in the process. Śiva put up with another difficulty. He would very much have liked to fix his eye \[gaze\]—i.e. the third, in the forehead, which consisted of fire, \[apart from the sun and the moon, his right and left eyes, respectively.\] on the various targets (लक्ष्य). If Śankara had done so, the eye would have discharged (मुच्) sparks (कण) of blazing (उग्र) fire (ज्वलन) and thus exposed them to the danger of being reduced to ashes \[Of. स वह्निर्भवनेत्रजन्मा भस्मकोषमदनं चकार। कुमारसंभवम् \] Śiva, therefore, did not fir his third eye on its targets. That the Lord should have shown so much consideration after having demolished the tall then formidable, if not unassailable three cities \[made of gold, silver and iron\] of the demons from where they had for long been harassing the people, as also the demon त्रिपुर dwelling there, shows that the Lord, though ‘*Rudra*’ when necessary, is essentially *Śiva* or *Śankara* (शं शुभं करोतीति शंकरः),—is, in other words, ‘full of the milk of human kindness’.
 
  नृत्त and नृत्यare often used, though loosely as synonyms.Technically, however, नृत्तं is dancing characterised
-
-
 
 by rhythmical movements regulated by musical intervals and by time ( ताललयाश्रयं). Distinct from it is नृत्य in which परार्थाभिनयरूपनर्तन dancing with a view to convey the feelings to others, the dance thus being a pantomime, is the principal point to be noted.
 
@@ -8020,23 +7466,17 @@ by rhythmical movements regulated by musical intervals and by time ( ताल�
  The nāndí is expected to be *kāɩyārtha–sūcaka* i.e., to give an idea beforehand, evidently in a suggestive way only, of the plot of the play. Many nāndis fulfil this condition, though of some it has to be observed that whatever ‘sūcanā’ they are said to contain is more a creation of the ingenuityof the commentator or commentators than what the playwright himself either intended or supplied. In Mudrarākṣasa I, ‘विभोः शाठ्यम्’ is a significant phrase from this viewpoint. In the ‘sucita’ sense, vibhu is of course not the all pervading lord Siva, but the all-powerful Cānakya and his शाठ्य is not to be understood in the light of शठोऽयमेकत्र बद्धभावो यः दर्शितबहिरनुरागो विप्रियमन्यत्र गूढमाचरति which *on α little bit of stretching* may be said to be true \[from Pārvati's view-point\] of Śiva, who while keeping Pārvatī under the impression that she was the sole object of his love, actually went to the length of making another woman plant herself on his head ! Oh, the extremely poor lot of the ardhangi that was Pārvatí!! The शाठ्य of चाणक्यis evidently his crooked policy, ‘kutila-mati’ that he was (vide ‘कौटिल्यः कुटिलमतिः स एषयेन...’ Act I, stanza 7th) इन्दुःis चन्द्रनाम and this satisfies the other condition which, according to Bharata, ought to be fulfilled by a नान्दी viz, that it should contain in it चन्द्रनाम, because the development of रसऽ or sentiments is dependent on चन्द्र. The nature of the dialogue between Śiva and Pārvatı ın I, ।
 further, which is full of ups and downs, suggests the same by which the plot of the play is characterised. Turning to 1.2 त्रिपुरविजयिन् used of Śiva suggests चाणक्य’s triumph over the Nandas (Of. दग्धा नन्दवंशप्ररोहान् I, ii and समुत्खाता नन्दाः 1.12 ), आधारानुरोधात् and दुःखनृत्तम् too enggest that (I) चाणक्य had to be
 
-
-
 very careful in his policy–due attention had to be paid by him to the conditions as they obtained, full care being taken to see that Rāksasa was not killed, but persuaded to accept the prime-ministership of Candragupta and that (2) this was for reasons made clear, a very *difficult* (दुःख) task, a single mistake being sure to prove fatal to the undertaking.
 
  1. 2, i नान्द्यन्ते सूत्रधारः literally would mean that after the नान्दी has been recited the Sutradhāra or the stage-manager says ‘अलमति etc.’The question naturally arises ‘who recited theनान्दी ?’ It has to be noted here that in fact the नान्दी is a remnant of an *elaborate Pūrvaranga* \[like that of a हरिकीर्तनwhich used to be gone through, in ancient days, before the beginning of the play proper. That was managed by a separate personnel led by the सूत्रधार of the पूर्वरङ्ग After this, entered the Sutradhāra of the play proper, In course of time, however, the religious ceremony of the Pūrvaranga was curtailed and only the नान्दी part out of the many (भूयांसि अङ्गानि) that constituted the पूर्वरङ्ग was retained. This then came to be recited by the सूत्रधार and then either he or the स्थापक, another actor enjoying a similar status, carried on the prologue (प्रस्तावना) to the play. Though the सूत्रधार thus was responsible for the recitation of the pāndī, there is no stage direction thrown right at the beginning of the play, because (a) the नान्दी is, as shown above, only a part of the पूर्वरङ्ग andnot that of the play, (*b*) the play proper commences only after it is recited, \[and perhaps even more important than (a) and (b) is the circumstance which weighed with the Sanskrit play-wrights viz.,\] (c) the नान्दीis a मङ्गलश्लोकwhich must receive the very first place in the काव्य (आदौ ) to be literally understood—a stage direction, ‘सूत्रधारः पठति’ for instance would disturb this, As relevant to the topio under consideration, the following may be noted: यद्यप्यङ्गानि भूयांसि पूर्वरङ्गस्य नाटके। तथाप्यवश्य कर्तव्या नान्दी विघ्नोपशान्तये आशीर्वचनसंयुक्ता स्तुतिर्यस्मात्प्रयुज्यते देवद्विजनृपादीनां तस्मान्नान्दीति सा स्मृता॥\[vide अब्यात् and पातु in verses 1 and 2\] and सूत्रधारः पठेन्नान्दीं मध्यमं स्वरमाश्रितः। प्रयुज्य विधिनैव तु पुर्वरङ्गं प्रयोगतः। स्थापकः प्रविशेत्तत्र सूत्रधारगुणाकृतिः॥
 
  The term सूत्रधार is thus explained:सूत्रं धारयति इति सूत्रधारः’ and सूत्रdefined in नाट्यस्य यदनुष्ठान तत्सूत्रं स्यात्सबीजकम्। The
 
-
-
 stage-manager, so to say, holds the threads of the play in his hands. The name सूत्रधार takes us back to very ancient times, when a ‘show’ consisted of dolls that were controlled with (the not easily visible) srrings that the person who exhibited such shows held in his hands. The term then came to be shifted and applied metaphorically of course to the stage-manager who was responsible for every thing connected with the successful staging of the play.
 
  अतिप्रसङ्ग or अतिविस्तर refers to the elaborate पूर्वरङ्ग. The term thus contains a memory of *prolixity* that *used to be*. It is curious, that even after the विस्तर was dispensed with, the term should have remained in use परितः सीदन्ति अस्याम् इति परिषद् an assembly where people *sit round*, with the purpose of witnessing and pronouncing their opinion on a play which is being staged. In the assembly there would be the प्राश्निकऽ duly qualified for the expert job of judging the play. An idea of the qualities which a प्रेक्षक properly so called (प्र+ईक्षक) was expected to possess can be had from— अव्यग्रैरिन्द्रियैःशुद्ध ऊहापोहविशारदः व्यक्तदोषोऽनुरागी च स नाट्ये प्रेक्षकः स्मृतः। यस्तुष्टे तुष्टिमायाति शोके शोकमुपैति च। दैन्ये दनित्वमभ्येति स नाट्ये प्रेक्षकः स्मृतः। यस्तुष्टे तुष्टिमायाति शोके शोकमुपैति च। दैन्ये दनित्वमभ्येति स नाट्ये प्रेक्षकः स्मृतः। Others are प्रेक्षकऽ in name only.
 
  1, 2, 3–4—The name of the poet i. e. the play.wright is विशाखदत्त. His father, a महाराज,, was known as भास्करदत्त. The poet's grand-father was a mere सामन्त(obviously, on a lower level than महाराज) i.e a border-king, a feudatory. He was, therefore, only a vassal in regard to his status among the rulers. वटेश्वरदत्तपौत्रः...भास्करदत्तस्नुः, विशाखदत्तः has a uniformity not preseuted by the reading ‘महाराजपदभाक्पृथुसूनोः’...कृतिरभिनवं मुद्राराक्षस नाम नाटकम् appears to mean ‘Viśākhadatta's composition, a new play named Mudrārākṣasa'. It is difficult to say denifitely whether this by itself justifies the inference that Viśākhadatta must have written some more dramas, MudrārakṣasaisVisakhadatta's composition, a drama (नाटकम्) and a *new* one at that to the audience, this is what the words can be safely understood to bring out. The audience had seen performances of older plays. Here was a new play that was being staged for them. The Sūtradhāra is made to express this with a view to attracting the attention
-
-
 
 of an audience to whom a new play, it is natural to presume, is sure to be welcome. \[ कर्ता वा नाटकानामिमनुभवति क्लेशमस्मद्विधो वा in III, 3 however indicates that विशाखदत्त wrote more *plays* than one. See Intro. 1 (c) 1.
 
@@ -8046,8 +7486,6 @@ of an audience to whom a new play, it is natural to presume, is sure to be welco
 
  (3) Construe—बालिशस्य अपि कृषिः सत्क्षेत्रपतिता (सती) चीयते; शालेः स्तम्बकरिता वस्तुः गुणं न अपेक्षते।
 
-
-
  The agricultural activity (कृषिः— lit, ploughing) of even a fool \[ (1) बालिश— from वारि शेते, accordmg to वबयोरभेदः and रलयोरभेदः one who remains in water later, a fish— fish are known for their folly proverbially; or (2) बलिशस्यमत्स्यवंधनस्य अयम्‌। मूर्खत्वात्‌ अपूज्यत्वात्\] thrives or prospers (चीयते, lit, is accumulated), when carried on or done (पतिता) in good soil, Seed sown in good soil is sure to yield a bumper crop, that betng ‘the nature of the soil. ‘Who sows?’ is immaterial. The capacity to form sheaves on the part of paddy does *not* stand in need of any excellence or special merit of theone who sows (वप्तृ) स्तम्बं स्तोमं(asheaf, गुच्छ, of corn) करोतीति स्तम्बकरिः, तस्य भावः.
 
  ‘Even the agricultural activities of *fools* ( बालिश being जातौ एकवचनम्‌। flourish’ is a *general proposrtron*, in support of it, sin line 2, there-isthe (वैधर्म्येण) उदाहरण or a *partrieutar instance*, Take the paddy (*śāli*) for imstance into account; it does *not* require the sower to be any very highlv skilled person.The अलंकार in the stanza would thus be अर्थान्तरन्यास (सामान्यस्य विशेषेण समर्थनम्‌). To a marmajña, however, it isevident that this is not what the सुत्रधारcan be aiming at as the main प्रतिपाद्य.Rather does he want to convey, cleverly though, that the *audience* (सत्क्षेत्र) is a highly qualified audience and the performance of a play given by oven sach *an unskilled person as himself* (this is modesty that well becomes a सुत्रधार ) is sure te win the applause of the people, Thus looked at, 1,3 would be an example of अप्रस्तुतप्रशंसा, नाट्येन प्रविश्य indicatesthat actually the सूत्रधार did notenter his ‘गृहाः’\[which though plural=a house\]. On the stage there was no arrangenient for thie So by gesticulation he conveys to the audience he has entered his house, From अभि+युज्‌ to apply oneself \[to one’s task\], अभियुक्ताः engrossed The metre of stanza is अनुष्टुप्or श्लोक-श्लोकेषष्ठ गुरं ज्ञेयं सर्वत्रलघु पञ्चकम्‌। द्विचतुःपादयोर्ह्वस्वं सप्तमं दीर्घमन्ययोः॥
@@ -8055,8 +7493,6 @@ of an audience to whom a new play, it is natural to presume, is sure to be welco
  (4) Construe— इयं(स्त्री) जलंवहति, इयं गन्धान्‌ पिनष्टि, इयं विचित्राः स्रजः उद्ग्रथते, इयं च प्रातकालेकलेनहुंकृतेन मुसलं मुहुःअनुयाति।
 
  At the place of residence ofthe सूत्रधार there were elaborate preparations made for a big festive occasion (महोत्सव
-
-
 
 इव) as though. A lady was fetching water, another was grinding (पिंष् to grind) fragrant substances, a third was busy making many—coloured garlands of flowers, while a fourth while pounding something in a mortar (उलूखल), was making a rhythmic हुं sound at the time of the fall of the pestle repeatedly. कल—sweet and indistinct.
 
@@ -8068,8 +7504,6 @@ of an audience to whom a new play, it is natural to presume, is sure to be welco
 
  The Stage manager had decided to call his wife this verse from गुणवति to आर्ये, are all vocatives used by the सूत्रधार with the purpose of calling his कुटुम्बिनी. The three terms गुणवति etc. are used paranomastically (श्लिष्ट) गुणवती as adjective qualifying कुटुम्विनी would mean possessed of excellent qualities such as chastity, modesty etc. But when understood as qualifying नीतिविद्या science of polity, the term means possessed of the six ‘gunas’ viz. सन्धि, विग्रह, ध्यान, आसन, द्वैधीभाव and समाश्रय i. e, peace or alliance, war, (military) expedition, keeping to one's position prepared to attack, creating differences among the enemies and resorting to a fortified place for safety, respectively. As an able कुटुम्बिनी the
 
-
-
 Sutradhara's wife must have shown herself to be quite equal to the task of devising ways and means or expedients as required by the occasion (उपायनिलया). But as going with the नीतिविद्या, उपायनिलया means one in which one or the other of or all the four उपायऽ have to be used viz, साम, दाम, दण्ड and भेद i.e. (1) negotiations or persuasive efforts (2) money or bribery (3) punishment which is a severe measure and (4) breaking the camp of the enemy so as to have persons favourable to oneself in the enemy's camp itself. स्थितिहेतोः त्रिवर्गस्य साधिका means that the नटी helped the सूत्रधार as his गृहिणी to accomplish three goals of the गृहस्थाश्रम viz, धर्म, अर्थ and काम. When related to नीतिविद्या, त्रिवर्ग = ( 1 ) क्षयःdecay (2) स्थान neither decrease nor increase and (3) increase of what is technically known as the ‘अष्टवर्ग’ for which read कृषिर्वाणिक्पथोदुर्गं सेतुः कुञ्जरबन्धनम्। स्वन्याकरबलादानं शून्यानां च निवेशनम्।‘Accomplishes these three i.e, sees to it that the विजिगीषु is able to maintain the स्थान or further to bring about the वृद्धि or augmentation of these eight, क्षयं or decay of the अष्टवर्ग being *avoided*.
 
  Because of the use of गुणवति उपायनिलये and स्थितिहेतोःत्रिवर्गस्यसाधिके there is श्लेष अलंकार or paranomasia in theverse, As the कुटुम्बिनी isindentified with नीतिविद्या (of मद्भवननीतिविद्ये) there is a rūpaka or metaphor contained in the verse. The metre of the verse is आर्या \[vide यस्याः प्रथमे पादे द्वादशमात्रास्तथा तृतीयेपि अष्टादश द्वितीये चतुर्थपञ्चदश सार्या॥ \]
@@ -8077,8 +7511,6 @@ Sutradhara's wife must have shown herself to be quite equal to the task of devis
  The reading कार्याचार्ये would be a great compliment to the नटी—O you who instruct \[me\] in my duty आचार्याbeing a *female preceptor*, while आचार्यानी being only the *wife of the* *preceptor* आर्याis a noble lady. Of आर्य. who is कर्तव्यमाचरन् कार्यमकर्तव्यमनाचरन्।
 
  भगवन्तः qualifying ब्राह्मणाः shows the high esteemin which they were held in those days. **1,5.10** किल— the report goes, उप × रञ्ज् passive third person singular, उपरज्यते (present used to refer to what is going to happen in the immediate future) ‘will be eclipsed’, The dramatist is using a very clever device to introduce the main scene. The Nati and Sutradhara become in a moment citizens of Pataliputra of the day of चाणक्य, चन्द्रगुप्त and राक्षस. The नटी had heard.
-
-
 
 several people say ‘Candra will shortly be seized by राक्षस \[i. e. चद्रगुप्त will shortly be seized by minister राक्षस’\]. Thus the lady understood as meaning that the moon will be eclipsed by the demon i. e the malignant Ketu (or Rahu according to some). The सूत्रधार says he has no objection to the special preparations going on for honouring the invited Brāhmaṇas. But there was going to be no eclipse of the moon. His expert knowledge of the ज्योति.शास्त्र enabled him to say so. चतुःषष्टसंग lit with 64 अंगऽ or parts. Actuallythere are 24 अगऽ and 40उपाङ्गऽbut all are here characterised asअङ्गऽ विप्रलब्धा— deceived. The talk about चंद्र and राक्षस and particularly the statement चंद्रमभिभवितुमिच्छति makes चाणक्य enraged who enters on the scene, challenging the statement.
 
@@ -8090,8 +7522,6 @@ several people say ‘Candra will shortly be seized by राक्षस \[i. e
 
  1, 6, 6 The change from चन्द्रं to चन्द्रगुप्तं in this second नेपथ्ये is significant. चाणक्य wants no room to be left for doubt about the meaning of his question.
 
-
-
  (7) Construe—येन क्रोधाग्नौ नन्दवंशः प्रसभम् अदाहि सः एष कुटिलमतिः कौटिल्यः ‘चंद्रस्य ग्रहणम्’इति श्रुतेः संनाम्नः मौर्येन्दोः द्विषदमियोग इति अवैति।
 
  **1.7**. चाणक्य on hearing ‘चन्द्रस्य ग्रहण’ understands (अव + इ to understand) that there is an attack (going to take place), against the Maurya moon i. e. against चंद्रगुप्त, the सूत्रधार explains. It is that very चाणक्य, or better कौटिल्य, crooked of intellect, \[thus true to his name\] by whom perforce (प्रसभम् ) was burnt the Nanda race in the fire of his, wrath. चन्द्रस्य ग्रहणमिति श्रुतिः hearing that चन्द्र is to be seized loosely refers to चन्द्रम् अभिभवितुम् इच्छति above. द्विषत् = enemy. अभियोग—attack. समानं नाम यस्य स सनामा तस्य सनाम्नः of one having & similar name, चन्द्र moon and चन्द्र \[गुप्त\] evidently have similar names. Maurya—मुरायाः अपत्यं पुमान्. Murā was a Śūdra wife of महापद्म. It is also possible that Maurya is the name of a tribe or clan. Vide Intro. II Sources of the Play.
@@ -8100,15 +7530,11 @@ several people say ‘Candra will shortly be seized by राक्षस \[i. e
 
  \[On the सूत्रधारand the retiring, having made zoom for चाणक्य to enter, चाणक्य whom the audience is expecting toappear on the scene, the प्रस्तावना or आमुख of the play comes to an end (इनि प्रस्तावना ). Read नटी विदूषको वापि पारिपार्श्वक एक वा । सूत्रधारेण सहिताः संलापं यत्र कुर्वते । चित्रैर्वाक्यैः स्वकार्योत्यैः प्रस्तुताक्षेपिभिर्मिथः आमुख तत्तु विज्ञेयं नाम्ना प्रस्तावनापि सा। That where either the Nati as in the मुद्राराक्षस, or विदूषक Or पारिपार्श्वक, holds conversation with the सूत्रधार and where by means of passages relevant to their duty, they introduce the matter in hand i. e. the plot of the play, is rightly called प्रस्तावना or आमुख (opening). For the five different types of प्रस्तावना and their definitions साहित्यदर्पण VI, 132-18 may be referred to. So far as the प्रस्तावना in the मुद्राराक्षस is concerned, it can be regarded to be of the (1) उद्घात्यक type as चन्द्रम् is explained by चन्द्रगुप्तम्, ( 2 ) or of the कथोद्घात type,
 
-
-
 because the सूत्रधार’s wordare taken up, चंद्गमभिभवितुमिच्छति and with the help of them, is the प्रवेशi.e. appearance on thescene ofचाणक्य achieved. In one प्रयोग i.e matter,the सूत्रधार and the नटीwere discussing there is another प्रयोग relating toचंद्रगुप्त and राक्षस Thus the प्रस्तावना may be regarded as belonging to the प्रयोगातिशय typeSome have argued that the प्रस्तावना is of the प्रवतर्क type while others consider it to be the अवलगित type. If the definitions of the types are very closely read, it would appear that the प्रस्तावना to मुद्राराक्षस shall have to be put down as being either of the type or the कथोद्घात type. \[Read यदि प्रयोग एकस्मिन् प्रयोगोऽन्यः प्रयुज्यते। तेन पात्रप्रवेशश्चेत् प्रयोगातिशयस्तदा। and सूत्रधारस्य वाक्यं वा समादायार्थमस्य वा। भवेत्पात्रप्रवशश्चेत् कथोद्घात स उच्यते॥ \]
 
  1, 7, 3, मुक्ता शिखा परामृशन्—चाणक्य had vowed that he would not tie up thistuft of hair onhis head till he had destroyed the Nandas who had insulted him by driving him away from the principal seat at the dinner. The Nandas have been killed before the events of the main scene begin *For the purposes of this drama, therefore*, we have to understand that the destruction of the Nandas would be inadequate, till Candragupta whom चाणक्य had installed on the throne thus rendered vacant, was *safely* established there. For this, the services of राक्षस, the able minister of the Nandas, were, according toचाणक्य. absolutely necessary. Till these were secured, there was no satisfaction possible forचाणक्य that he had avenged himself on his enemies. Sub-sequent references to चाणक्य's शिखा, (Act VII particularly) *bear out, that for the purposes of the* मुद्राराक्षस, *the vow of* चाणक्य *was that he would not tie up the tuft of hair on his houd till not only were the Nandas extirpated but till the able servta of* राक्षस *as the prime minister were secured for* चन्द्रगुप्त. Hair being kept untied till a vow is fulfilled is instanced by Venisamhāra of Bhaṭṭanō rāyaṇa, in which the nayika Draupadi keeps her hair untied till Bhimasena kills Duryodhana and with hands gory with the enemy's blood, himself ties them up
 
  **1, 7, 4** 'कथय ... तुमिच्छति is the passage with which चाणक्य enters on the scene. This is, more than anything else,
-
-
 
 सूत्रधारस्य वाक्य or अस्य अर्थ and there is तेन पात्रप्रवेश. The case of those who hold that the प्रस्तावना to the ‘मुद्राराक्षस is of the कथोद्घात type is thus *the strongest* (though others too can argue their own cases as indicated previously).
 
@@ -8125,8 +7551,6 @@ because the सूत्रधार’s wordare taken up, चंद्गमभ
 
 **काव्य प्रकाश, X, 51.**
 
-
-
  \[Combining the prose passage preceding **1, 8** and 1,3, it is possible to maintain that the *two together* constitute an instance of निदर्शना as there is अभवन्वस्तुसंबंध between attacking चंद्रगुप्त while चाणक्य is alive and putting one's hand into themouth of a lion with the purpose of dragging out his jaw. चाणक्य is thus compared to a lion and चंद्रगुप्त to his jaw.The वस्तुसम्बन्धः has turned out to be ‘उपमापरिकल्पक’ द्वौ रदौ येषां ते द्विरदाः possessed of two teeth i. e. tusks,— tuskers, elephants. आस्वादित द्विरदस्य द्विरदानां वा शोणितं तेन शोणा शोभा यस्य सः— बहुव्रीहि, जृम्भाया विदारितं मुखं येन सः— बहुव्रीहि. परि+भू—to overpower, insult,From this the ल्यबन्तis परिभूय. The metre of the verse is वसन्ततिलका (उक्ता वसन्ततिलका त भ जा ज गौ गः) the scheme being त, भ, ज, ग, ग.
 
  (9) Construe— वध्यः कः नन्दकुलकालभुजगी कोपानलनीलधूमलता मे शिखाम् अद्यापि बध्यमाना न इच्छति।
@@ -8137,8 +7561,6 @@ because the सूत्रधार’s wordare taken up, चंद्गमभ
 
  चाणक्य identifies himself with fire (धूमः केतुः यस्य सः धूमकेतुअग्निरित्यर्थः) of the forest in the form of the Nanda family ( नन्दकुलमेव काननं तस्य घूमकेतुः). Who dares transgress the heat of the wrath of him that is burning bright ( समुज्ज्वलन् ) ? Such a person obviously must be altogether deluded ( विशेषेण मूढः ) regarding the measure of other peoples' and his own strength
 
-
-
 परस्य परेषा वा आत्मनश्च परिमाणम् तस्य विवेके मूढः। There is only one thing in store for him viz to meet his destruction instantaneously (सद्यः), like a moth (शलभ) \[ throwing himself into the flame of a burning lamp or fire \]. The दीपशिखापतङ्गन्याय or वह्निपतङ्गन्यायor the maxim of the moth and the flame of a lamp, or one of the moth and fire, is quite common in Sanskrit literature. Anyone going in for an indiscreet act sure to result in his own destruction is compared to the proverbialmoth (पतङ्ग or शलभ).
 
  The figure of speech in the verse is परम्परितरूपक whether we understand (1) an identification between कोप of चाणक्य and धूमकेतु or ( 2 ) between चाणक्य himself and धूमकेतु, for, in either case, this identification is *besed on another* viz. between नन्दकुल and the कानन ( नन्दकुलमेव काननम् ).
@@ -8146,8 +7568,6 @@ because the सूत्रधार’s wordare taken up, चंद्गमभ
  **1, 10 1**. Repetition of the pupil’s name brings out the impulsive nature of Cāṇakya. If शार्ङ्गरव does not present himself as soon as he is addressed, without giving him a moment's time, चाणक्य calls him again The pupil humbly submits ( ननु ) that there was a cane-seat already kept ready in the hall adjoining the door. Caṇakya, who was all tooengrossed in state business \[ and also upset at some one's having said चन्द्रमभिभवितुम् इच्छति as seen before \] failed to notice the seat provided for him and therefore had to proceed to explain the same to the pupil. He should not understand that चाणक्य's शिष्यजने सहमू(inherent ) दुःशीलता was responsible for the display of his anger a little while ago.That in the days of विशाखदत्त quite a large majority of उपाध्यायऽ must have been in the habit of venting their badtemper on their pupils is evident from the phrase उपाध्यायसहभूः शिष्यजने दुःशीलता. Much water has flown under the bridge since विशाखदत्त’s times and an उपाध्याय can ill afford to-day to have दुःशीलता of this type towards his pupils, भाट्येन उपविश्य does not seento be necessary, for, some seat could certainly be provided for चाणक्य on the stage.
 
  The matter which has become a public property (प्रकाशतां गतः) is briefly this राक्षस(line 3 after verse 10) *has entered into an alliance with* मलयकेतु (line 4) *and is ready to attack*
-
-
 
 वृषल i. e. चंद्रगुप्त This was evident from what चाणक्य had beard 'क्रूरग्रहः स केतुश्चन्द्र संपूर्णमण्डलमिदानीम् अभिभवितुमिच्छति बलात्—’
 
@@ -8157,8 +7577,6 @@ because the सूत्रधार’s wordare taken up, चंद्गमभ
 
  1. 11 Cānakya compares the fire of his wrath (क्रोध एव-(वह्निः) with a forest fire (वने ज्वलन इव). This is not very happy क्रोधो वनवह्निरिव or दावानल इव or alternatively क्रोधदावानलः \[क्रोध एव दावानल\] would have been better. As it is, however, चाणक्य is to be understood to bring out that if this wrath-fire of his appears to have been cooled down (शाम्यति), it is so, not because it is exhausted or has no capacity to burn. The trouble is that now there is nothing \[more\] that could be burnt (दाह्याभावात् न खेदात्) चाणक्य's wrath-fire, like a forestconflagration has done the following: The face-moons of the quarters in the form of the enemy-ladies have been rendered dark by the ever continuing (संतत) columns of smoke in the form of grief. \[Does forest-fire not emit columns of smoke and thereby render dark the moon in the quarter she has resorted to ? \] It has profusely *scattered the ashes* in the form of defusion, on the trees in the form of the ministers— ashes carried to the trees by the wind in the form of statesmanship (नय). \[Now does forest-fire too not scatter about ashes on the trees with the co-operation of wind?\] Finally, चाणक्य's क्रोधवह्नि has burnt down the bamboo-shoots in the form of the scions of the Nanda-family excepting (रहितान्) the flocks of birds in the form of the citizens altogether confused—and bewildered (सम्भ्रान्त). \[Precisely this is done by a forest-fire in so far as it burns down bamboo-shoots, sparing the flocks of birds who fly away from
 
-
-
 there\]श्यामीकृत्य— अश्यामं श्यामं कृत्वा is a च्विform. The metre of the verse is स्रग्धरा (Vide 1, 1 & 2 ). The अलंकार in the verse is परंपरितरूपक in view of the identification क्रोध एव वह्निःgiving rise to several others viz. अरियुवतय एव दिशः, आननान्येव इन्दवः, शोकाः एव धूमाः, मंत्रिण एव द्रुमाः, नय एव पवनः, मोहः एव भस्म, सभ्रान्तपौरा एव द्विजगणाः।
 
  (12) Construe:—ये \[जनाः\] पुरा अवनतैः नराधिपभयात् धिक्शब्दगर्भैः मुखैः शोचन्त अग्रासनात् अवकृष्टम् अवशं मां दृष्टवन्तः, ते जनाः संप्रति सिंहेन अद्रिशिखरात् पातितं गजेन्द्रम् इव, तथा एव,मया सिंहासनात् पातितं सान्वयं नन्दं पश्यन्ति।
@@ -8166,8 +7584,6 @@ there\]श्यामीकृत्य— अश्यामं श्या�
  Cānaky a means that he indulges in no idle boast. His past achievements justify his confidence that the matter which was becoming a pablto property ( राक्षसो मलयकेतुना सह संधाय चन्द्रगुप्तमभिभवितुमिच्छति) can be effectively checked and the consequent disturbed condition of the citizens too nipped in the bud by him. There was an occasion when people saw him dragged down from the seat of honour (अग्रासन)– him who was powerless or helpless (अवश). People hung down their faces (अवनतैः मुखैः). The expression ‘fie \[upon you, O King\]’ remained unuttered in their mouths, But now those very people are seeing \[i.e. have recently seen\] Nanda, thrown down from his throne, by me, like a lordly elephant hurled down from the peak of a mountain, in that very manner \[in which I was dragged down from my seat. And not only Nanda—but the whole of his family (सान्वय)—has been hurled down. The figure of speech in the उपमा. The following resemblances may be noted. चाणक्य—सिंहः नन्द—गजेन्द्र; सिंहासन—अद्रिशिखर The metre of the verse is शार्दूलविक्रीडित with the scheme— म, स, ज, स, त, त, ग (सूर्याश्वैर्यदि, मः स जो सततगाःशार्दूलविक्रीडितम् ).
 
  1, 12. 1 चाणक्य means that he has avenged himself on his enemies. This thought really should have made him retire from political life. But he continues to hold the sword (शखम्)— a symbol or badge of the office of the प्रधानमन्त्री, who when necessary, was required to lead the army too in military operations—out of consideration for वृषल i. e.
-
-
 
 चन्द्रगुप्त. वृषल is yet not fully experienced (and an able minister has not been secured for him\]. वृषल = शूद्र चाणक्य’s privileged position as the उपाध्याय of चन्द्रगुप्त made it possible for him every time to remind of his low birth without the latter ever having resented against this. There is an alternative explanation of suggested as the first does not appear to be satisfactory. बृषल, according to this, is regarded as a sanskritized form of the Greek word ‘*Basalius*’ meaning a king. Like other matters in which Candragupta accepted the Greek influences, in this one too he must have done so. But this not being knowa, later, caused a confusion between the royal वृषल and वृषल & शूद्र.
 
@@ -8178,8 +7594,6 @@ there\]श्यामीकृत्य— अश्यामं श्या�
  The अलंकार in the verse is यथासंख्य because the order कोप-प्रीति is maintained in what is stated immediately afterwards द्विषति च सहृदि च. The metre of the verse is शिखरिणी with the scheme य, म, न, स, भ, ल, ग रसैरुद्रैच्छिन्ना यमनसभलागः शिखरिणी).
 
  **1,11,1** ‘अथवा’ is quite significant. It shows thatचाणक्य changes the line of his thought. Instead of indulging in a mood of self congratulation, he now states, ‘till Rākṣasa is secured, nothing like the uprooting of the Nanda family or the establishment of the sovereignty of चन्द्रगुप्त can be claimed to have been achieved.’ From अहो राक्षसस्यafter (विचिन्त्य), चाणक्य proceeds to the appreciation of the meritsराक्षस. The latter's devotion to the family of his master is
-
-
 
 unparalleled. Hence had poor सर्वार्थसिद्धि \[–of the Nandafamily-\] to be killed. That was a political exigency.
 
@@ -8193,22 +7607,16 @@ unparalleled. Hence had poor सर्वार्थसिद्धि \[–of 
 
  (15) Construe:—अप्राज्ञेन च कातरेण च भक्तियुक्तेन कः गुणः स्यात्? प्रज्ञाविक्रमशालिनः अपि भक्तिहीनात् हि किं फल भवेत्? येषा प्रज्ञाविक्रमभक्तयः \[इत्येते\] गुणाः भूतये समुदिताः ते \[भृत्याः\] नृपते भृत्याः इतरे \[भृत्याः तु\] संपत्सु च आपत्सु च कलत्रम् \[ भवन्ति \] ।
 
-
-
  A foolish (अ–प्राज्ञ) servant who is also very nervous or apprehensive, may be full of devotion to his master. But he would serve no useful purpose. His folly and apprehensive nature mar altogether the advantage, that otherwise, his master could have had of his devotion. A servant who is distinguished for his intelligence (प्रज्ञा) and valour, but lacks in devotion would be of no use to the master. Those who have all the three qualities प्रज्ञा, विक्रम, भक्ति risen high for prosperity, they are *servants* worth the name of the king. Others are his 'wife' in prosperity as well as adversity i.e, they are merely to be fed by him without getting any advantage in the form of the service from them.— The metre of the verse is शार्दूलविक्रीडित.
 
  **1, 15, 1** न शायानnot sleeping i. e., wide awake or vigilant. \[Page 13\] चाणक्य is setting forth the whole of his elaborate effort to secure Rāksaṣa's service in the interest of चन्द्रगुप्त. At first पर्वतक who helped चन्द्रगुप्त was killed by चाणक्य by employing a poison maiden for the purpose. But the blame was shifted on राक्षस, who, people were made to believe was after all interested in undoing चाणक्यit being an immaterial point whether it wasचन्द्रगुप्त that was killed or प्रवर्तक that was deprived of his life. To strengthen this very rumJur, चाणक्य caused his spy to take मलयकेतु away (अपवाहितः) from the capital. Bhāgurayāṇa told him secretly 'your father was killed by ‘चाणक्य’. मलयकेतु frightened at this left the city. मलयकेतु's not being prevented by चाणक्य from leaving the city had an advantage—viz, people would thus believe that राक्षस and not चाणक्य was responsible for the murder of पर्वतक, “Ifचाणक्य had any hand in the matter, he certainly would not have spared the son and heir ofपर्वतक’.This was theimpression sought to be produced and चाणक्य succeeded in it.There was one danger in his scheme. It was that मलयकेतु would be under the influence of राक्षस and would, being guided by the latter, rise againgt चंद्रगुप्त. चाणक्य was however, confident that he would be able to check मलयकेतु with his intelligence. But by no means was the infamy(अयशः) of राक्षस getting more and more publicity to be wiped out by having मलयकेतु imprisoned.
 For, any such measure would have at
-
-
 
 once made people suspect चाणक्य of पर्वतक’s murder and राक्षस would have appeared to be quite innocent to them. The other details are not difficult to follow. विषकन्या a poisonmaiden i.e. one who has been made to have small doses of poison everyday. The system of such a maiden has a virulent effect-a fatal one indeed-against any person uniting with her. 1, 15, 12 कृतक false or sham and कृत्य— a maloontent. चाणक्य delibelately managed to give \[apparent\] causes of dissatisfaction, detailed later in the course of the drama to भद्रभट etc. who were made to desert चंद्रगुप्त Actually भद्रभट etc, were loyal to \[चंद्रगुप्त and\]चाणक्य as is proved towards the end of the play (Act VII) \[Page 14\] औशनसी दण्डनीतिthe science of punishment or ‘rod’, composed by उशनाः, the preceptor of the demons, As no rule would be effective without the judicious use of the 'rod', no 'politics' would be effecive if ‘दण्ड’ is not resorted to,दण्डनीति came later to mean the science of administration of a kingdom, the science of politics (दण्डोनीयते बोध्यते अनया, दण्ड नयतीति वा ). The work of उशना of the Bhagavadgita fame ( 'कवीनामुशना कविः ') गीता is one of the most ancient works on the science of राजनीति and in the अर्थशास्त्र of कौटिल्य, itself very old, the दण्डनीति of उशनस् is referred to क्षपणकis a Jaina friar or a Bauddha monk. But 'बीभत्सदर्शन' would seem to be more in favour of the former who was very meagrely dressed. चाणक्य has through इन्दुशर्मा seized hold of राक्षस already, though the latter did not even suspect any such thing. न किंचित् परिहास्यते nothing will be abandoned i.e. left undone. 1, 15.18-20 चाणक्य complains about the indifference of चन्द्रगुप्त but the very next moment he changes his thought (अथवा)— only that kingdom which is free from the uncommon troubles of self-application gives happiness’ to the ruler 'प्रकृति' a technical term meaning ‘a member of the body politic’. The ‘principal member of the body politic’ was evidently the king.
 
  (16) Construe:— स्वभावतः बलिनः अपि गजेन्द्राश्चः नरेन्द्राश्चः स्वयम् आहृत्य भञ्जानाः दुःखिताः \[सन्तः\] प्रायः सीदन्ति।
 
  Lordly elephants as also the lord of men, even though full of strength naturally— when they eat and enjoy \[respec-
-
-
 
 tively\] after having themselves brought what is to be eaten and enjoyed, get themselves afflicted and generally undergo decay. The अलंकार in the verse is दीपक as सोदन्ति the verb has two subjects— गर्जेन्द्राः and नरेन्द्रा. That भुञ्जानाः is used paranomastically (eating as related to elephants, enjoying as related to kings) also may be noted. The metre of the verse is अनुष्टुप्.
 
@@ -8219,8 +7627,6 @@ tively\] after having themselves brought what is to be eaten and enjoyed, get th
  That one who earned his living \[or had assumal the guise of one who earned his \[living\] by showing a यमपटshould praise यम is only to be expected: Bow down to the feet ofYama (यम—to control, controller of all. What use are other divinities (दैवतानि)?’ In line the reason why people should devote themselves to यम is given ‘He (Yama) takes away, indeed, the lives of the devotees of other divinities’ तडफडन्तं the Prakrit for परिस्फुरन्तम् has come to the modern Indian languages like Marathi and means throbbing, shaking (in agony)’. The verse contains a वस्तुध्वनि. For यम sugges's the equally terrible चाणक्यःDevote yourself to चाणक्य and to none else. Forचाणक्य deprives those serving others of their life.’ The verse shadows forth the punishments to be meted out to शकटदास (वध) and चंदनदास (imprisonment) अन्यैः दैवतैः किम् ? is an instance of प्रश्नालंकार. Line 2 supplies the cause of the recommendation made in line 1. Here there is thus as instance of the काव्यलिंग अलंकार. The metre of the verse is आर्या.
 
  (18) Construe:—भक्तिगृहीतात् विषमात् पुरुषस्य जीवितव्यं भवति; यःसर्वलोकं मारयति तेन यमेन जीवामः।
-
-
 
  1,18. The first line contains a general proposition. A man earns his livelihood from \[even a very \] severe (विषम) person won by devotion. In the second, there is a partioular instance cited in support of the general proposition. \[Look\] here are we living by \[the grace of\] that Yama. who kills all people' The figure of speech in the verse, therefore, is अर्थान्तरन्यास. There is implication (वस्तुध्वनि) in this, as in the preceding verse. The यमपटिकmeans ‘by my devotion to चाणक्य, sovery severe, I am maintaining myself. He is killing others— but to me, the very means of livlihood’ भक्तिगृहीतात्विषमात् = विषम. भक्तिगृहीतः इति हेतोः. The अलंकार therefore is काव्यलिङ्ग ( हेतोः वाक्यपदार्थता) ‘यः मारयतितेन यमेन जीवामः’ supplies an instance of व्याघात Read
 
@@ -8233,29 +7639,19 @@ tively\] after having themselves brought what is to be eaten and enjoyed, get th
 
  **1. 19.** The day-lotuses (कमलानि) are very attractive. But their character is in no harmony with their beautiful
 
-
-
 appearance, They are opposed to, on enemical terms with the moon, though the latter is possessed of a full orb (मण्डल). The verse has an implication: these are persons in Kusumapura who may appear to be quite harmless, nay, attractive, But actually they are *opposed to Candragupta* on enemical terms with Candragupta, though his regal circle is full i. e. as a king he is in a strong position with his दुर्ग, कोश, सैन्य etc. is an excellent condition. The figure of speech in the verse is अप्रस्तुतप्रशंसा, because the अप्रस्तुत कमलऽ convey citizens of Kusumapura, who are outwardly nice to चन्द्रगुप्त but hostile to him in their hearts, The शिष्य's superficial knowledge of the lotuses is found fault with by the यमपटिक, who lays stress on the contrast between the handsome form and the not-handsome doing of the day-lotuses. It was such a consideration that led Goldsmith to say 'handsome is 'hat hand. some does !’ The metre of the verse is आर्या.
 
 ** 1, 19, 1** चाणक्य understands the hints clearly conveyed, ( उपक्षिप्तम् ) by the यमपटिक. 1, 19, 2. To the pupil the talk about the lotuses, their handsome form and their character altogether opposed to their form, appeared to be irrelevent (असंबद्धमिदम्), The spy pleads that what is irrelevant would become relevant only if he got the right kind of listener. Cāṇakya who rather awkwardly has been keeping mum, all this while that the यमपटिक and the शिष्य held conversation, presumably in another part at— the other end of—the stage \[if चाणक्य were nearer the left wing, the यमपटिक and the शिष्य would have to be nearer the right wing of the stage\] joins them and allows theयमपटिक to enter. 1,19,11-12 चाणक्य looks at the यमपटिक recognizes him and at once rescollects that he was sent with the purpose of ascertaining what was going on in the mind of the subjects \[of चन्द्रगुप्त \] Rākṣasa \[as is seen in act II and IV \] compares unfavourably withचाणक्य in this respect. नियोग—(नि + युज् to appoint) appointment i. e. office, duty, work entrusted, mission. वृतस्य अन्त oftner is the news about what has taken place, an account or report thereof. 1, 19, 21 अस्ति in अस्त्यत्र is an expletive. 1, 19 22 चन्द्रश्रियः = श्रीचन्द्रस्य = श्रीचन्द्रगुप्तस्य i. e. श्रीमतः चन्द्रगुप्तस्य. In the Prakrit the form चन्दसिरीगो with चन्द
-
-
 
 first and सिरि later can be had, as the inversion is warranted by the rule that there is no strict rule in this respect—‘प्राकृते लिङ्गवचनमतन्त्रं पूर्वनिपातानियमश्च.’No sooner has Nipunaka the spy stated that there are three persons in कुसुमपुर who cannot bear the prosperity of Candragupta, than does चाणक्य fly into rage (सक्रोधम्). This is another evidence of the impulsiveness of चाणक्य, the first being the rebuke he administered to his pupil, for no fault of the letter. Vide page 8, 1, 10 1–7), ‘Say they can't bear their *life*.’ 1, 19, 34 ‘जीवसिद्धि’ isour spy (प्रणिधि) thereisno reason then to to worry abouton this account.’—38 मात्रा—from मा to measure, ‘a measure.’ लघ्वी मात्राis a small measure, nothing very important, insignificant. Contempt for the कायस्थcommunity, from which hailed many a scribe, is expressed elsewhere too in Sanskrit literature (मृच्छकटिक). Telang observes, regarding the name Śakatadāsa: It seems to be belonging to Eastern India where the kayasthas are a large and important class of the population, and Dās is still a prevailing surname, About चन्दनदास’s name he observes that it may be a Bengalee or a Gujaràt: name. प्राकृत fromप्रकृति ( nature) as opposed to संस्कृत (cultured), is an ordinary, insignificant creature who has not changed from what he was at birth. प्राकृत रिपु is therefore an *ordinary* enemy, with nothing special about him. But चाणक्य, a thorough-going statesman that he was, observes— even such an enemy it is improper to ignore' (अवज्ञा). चाणक्य has already employed सिद्धार्थक to watch every thing शकटदास does.—45 अन्यास न्यासं कृत्वा न्यासीकृत्य, a च्वि from meaning 'having kept for safety' ( नि+अस्, to deposit).
 
  चाणक्य quickly concludes that the person to whose care राक्षस entrusted his family-members must undoubtedly be his closest friend. This brings out Candanadasa's character as an ideal friend (नूमं सुहृत्तमः) Rāksasa certainly would not entrust his wife to the care of one not worthy of (सदृश) himself. 1,19. ‘This ring itself will tell your honour—with this Nipuṇaka hands over the signet-ring to चाणक्य. Quite dramatically has the ring playing so important a part in the plot of the play been introduced by the dramatist. The मुद्राराक्षस is मुद्राराक्षस on account of this
 
-
-
 मुद्रा, अवगतः ज्ञातः अर्थः येन सः अवगतार्थः—53. As soon as the nameof राक्षस is seen on the signet-ring, the As soon as the name entire plan \[worked out in all its details in the following acts of the play\] presents itself to चाणक्य's mind, which is so quick in perceiving opportunities, ननुवक्तव्यम् etc. प्रणयी संवृत्तः। चाणक्य means that it was not only the signet ring ofराक्षस that had now fallen into his hands. In view of the use to which he was going to put the signet ring. it would be much more proper to say ‘Rākṣasa himself has become affectionate towards cour finger’ i.e is going to fall into our hands. प्रणयः(affection) अस्य अस्ति इति प्रणयी. Securing the ring was tantamount to getting a firm hold over minister Rāksasa himself विस्तर, detailed account, to be distinguished from विस्तार, expanse; \[Page 22\]—60 यमपटं प्रसार्य having spread out of the piece of cloth showing pictures of happenings in the capital of the god of death.\[Page 23\] पञ्चवर्षदेशीयः is इषद् न्यून or a little less than five years i. e. about five years old. 75—शङ्कापरिग्रह the enter tainment (परि + ग्रह्) of fear (शङ्का). अपवरक is an apartment, from अप + वृ cover ईषत् द्वारदेशे दापितं i. e दत्तं मुखं यया सा—ईश दापितमुखी तया. कुमारस्य संशेषः (obstruction ) तेन or तत्र सम्भ्रमः (excitement ) तत्र प्रचलिता अङ्गुलयः यस्य सः तस्मात् (करात्) परिणाह s measure. पुरुषस्य अड्गुलेः परिणाहः तस्य प्रमाणेन घटिता literolly formed i. e. fashioned with the measure (प्रमाण) of the measure ( परिणाह ) of a man’s finger. देहलीबन्ध threshold (बद्धा देहली or देहली which itself is a बन्ध) प्रणामनिभृता कुलवधूरिव निश्चला संवृत्ता may appear to be too full of literary flavour to be in the mouth of a spy. But the spy is निपुणक and had the advantage of a close contact with men having a highly developed sense of literary beauty. Anyway the vivid picture of the signet-ring that became steady byनिपुणक's feet is worth retaining in the text, than putting it down, with Prof Dhruva, as an interpolation. It is evident that Raksasa gave his own signet-ring to his wife before leaving Kusumapura, as something which would enable her to bear her separation from him.— 82 चाणक्य does not detain निपुणक a moment longer, but fails not to assure him that he would get a reward worthy of the work he has done (अनुरूपं फलमधिगमिष्यसि। )
 
  \[ Page 24\] 1,19, 87 मसी is ink and भाजन receptacle.मसीभा (मसी-भानी) is thus an ink-stand. 90-92 अनेन खलु
 
-
-
 लेखेन क्षसो जेतव्यः Hardly was this completed by चाणक्य than dd the प्रतीहारी enter to say जयतु आर्यः Little wonder that चाणक्य should be right glad at this auspicious omen auguring his victory and say to himself गृहीतो जयशब्द' ( 'जयतु' uttered by the प्रतीहारी). This is what is technically known as पताकास्थान and is quite common in Sanskrit plays \[ ‘गण्ड’ is another name given to a पताकास्थान \] Viśākhadatta is not eontent with just पताकास्थान. He has two more in the first act \[ for Instance see page 29. 1, 20, 36. 42\] itself. पताकास्थानम् is thus defined: यत्रार्थे चिंतितेऽन्यस्मिंस्तल्लिङ्गोऽन्यः प्रयुज्यते । आगंतुकेन भावेन पातकास्थानकं तु तत्। चाणक्य' was thinking so as to decide the nature of the content of the letter with which he was going to *score a victory* over Rāksasa But at this very juncture, enters the पतीहारीand she utters the customary जयतु आर्यःwhich is different from what चाणक्य was thinking about This is अन्यः अर्थ. but because of 'victory' wishedfor चाणक्य, it is तल्लिङ्ग \[ of the same nature\].This चाणक्यऽvictory ispresaged. \[A reference to Veņi-aamhāra would help the readers acquaint themselves with a प्रतिकूल type of पताकास्थान. दुर्योधन isspeaking, about his thigh and at once enters a servant and declares is broken', though 'is broken' was the predicate of sentence yet to be uttered fully where not the 'thigh' but something else was to be the subject. For the four kinds of पताकास्थान read साहित्यदर्पण of विश्वनाथVI, 45–4, प्रतीहार isthe door-region from where people are sent back \[especially in a palace\] One in charge of it, (a woman) is प्रतीहारी—46 कमलमुकुलाकारमञ्जलिं निवेश्य—keeping the folded hands the shape of a lotus-bud', is a way of showing one's sense of respect for elderly persons or for one's preceptor Candragupta is the head of the administration, the ‘प्रधानप्रकृति’ (principal member of the body politic) but he is full of veneration for चाणक्य. This is a delightful trait in his character and is a marked contrast with that of Malayaketu—another prince delineated by Visakhadatta in the play. Unless he is permitted by the preceptor. ‘देव चन्द्रगुप्तः’ would not do anyting. In act III he picks up a sham quarrel with चाणक्यat the latter's instruction or rather command to do so but चन्द्रगुप्त's real self is up again in the concluding verse of the act ( आर्याज्ञयैव मम लङ्घितगौरवस्य बुद्धिः प्रवेष्टुमिव भूविवरं
-
-
 
 प्रवृत्ता।) पर्वतेश्वर was an ally of चन्द्रगुप्त. The latter considers it his duty to perform the funeral rites परश्च असौ लोकश्च परलोकःrelating to that ‘yonder world’ is पारलौकिकं \[कर्म\]. With the end in view he requests चाणक्य to permit him to give away ornaments worn byपर्वतेश्वर to Brahmanas. \[ Page 25 \] 1, 19, 8. Now this fits in so well with चाणक्य's plan, that he is all fall of joy and says ‘you have consulted my own heart and sent this message.’ 102 चाणक्य wants from the point of view of his plan, only *particular persons* to receive the ornaments of gifts and hence स्वयमेव परीक्षितगुणान् ब्राह्मणान्प्रेषयामि। ‘परीक्षितगुणान्’ is ‘intended to remove any doubt in Candragupta’s mind as to why the Brāhmaṇas are being sent by चाणक्य himself. 104 विश्वावसु etc. are the recipients of the ornaments chosen byचाणक्य. Mlecacha is a not-Aryan.
 
@@ -8263,17 +7659,11 @@ first and सिरि later can be had, as the inversion is warranted by the ru
 
  \[**Page 26**\]. 1, 20. The verse enumerates the five kings, the leading ones, who have formed a very intimate friend ship with Rāksasa. The first on the list is Citravarman by name, king of Kulita \[—the same as the Kulu district in the Punjab, to the south-east of Kashmere \]. The second is Sinhanāda, lord of the Malaya country \[or tribe\] ‘Malaya’ source of the breeze, so often referred to by Sanskrit poets, is evidently different. The modern *malebhum* in Nepal can be taken as indicating the situation of the territory ruled over by Sinhanāda. The third is पुष्कराक्ष ruler of Kashmere, The fourth is Sindhusena ruler of the territory watered by the Sindhu i. e. the Indus—modern Sind. The fifth is Megha by name, the overlord of the Parasīkas i. e. inhabitants of Persia.It is not in the least surprising that this overlord of the Persians should have had a large cavalry force ( पृथु-तुरगबल) at his command. That land is famous for its excellent horses. बाण mentions पारसीकदेश in his हर्षचरित ( ... किष्कुस्तुरुष्कविषयः, प्रादेशःपारसीकदेशः ). 'I shall write the
 
-
-
 names of these, let चित्रगुप्त wipe them out’ is another (and indirect) way of saying ‘let these, whose names I mention here, die’ \[being killed\], When I put their names down here, their days are as good as numbered. चित्रगुप्त in Hindu mythology is the accountant of यम,the God of Death. It was the duty of the former, among other things, not to allow any one to live a day—or why even amoment—longer than the lease of life granted to him. The fourth line contains पर्यायोक्त अलंकार in it. The metre of the verse is स्रग्धरा. 1,20,1. On second thought ( विचिन्त्य) चाणक्य cancels (अथवा) his idea of mentioning the five kings by their names. There is, he decides, an advantage in everything being vague (अनभिव्यक्तम्) so far as this part of the letter was concerned. Present day descendants of Cānakya know too well the advantage of vagueness and in the wide range of politics, from world politics to petty institutional politics, ‘statesmen’ are seen to be emulating the exemple of Kauṭlya with such strict adherence to the letter of his dictum as to make even Cānakya own their superiority to him in this respect. नाट्येन लिखित्वा— not that writing \[something was impossible नाट्येन is intended to bring out that in a short time the whole thing is done—i. e the gesticulation is managed by the actor playing the role of चाणक्य—so as to impress the audience that the letter has been written. Impressing the audience that the letter is written, not actually writing it, is what the actor is to do.
 
  —4-5 All the emphasis in old days was put on the Vedas being made कण्ठगत \[वेदान् (छंदांसि ) अधीते इति श्रोत्रियः\] The entire, or almost entire energy having been devoted to memorising, very little attention could be paid to *writing*. Hence it was only natural that the learned persons had an illegible hand श्रोत्रियाक्षराणि प्रयत्नलिखितान्यपि नियतम् अस्फुटानि भवन्ति. चाणक्य is thus stating an A proposition. All *s'rotriyas* have an illegible hand'. This is only an excuse; चाणक्य did not want the letter to be in his own hand-writing and wanted it to be in that of S'akatadása. Hence the instruction to the pupil to get the whole thing written \[**Page 27**\] without the addressee's name (अ - दत्त - बाह्यनामानं ), however, by शकटदास through
 
-
-
 सिद्धार्थक (चाणक्य’s spy) who had already formed friendship with he scribe. 1, 20,–10 is another पाताकास्थानचाणक्य—ह्स्त—जितो मलयकेतुः। (प्रविश्य लेखहस्तः) सिद्धार्थकः—जयतु आर्यः। \[ vide note on. 1,19, 88-91). The pupil sees सिद्धार्थक, the latter goes to शकटदास and gets the letter written by him and with it. presents himself to Cāṇakya in the twinkling of an eye. What in reality is *impossible* is thus a dramatic *exigency*, and विशाखदत्त should not be very severely criticized for this. The नाटक as a form of literature has some difficulties and imitations of its own. This is one of them. On the stage the whole thing does not take even a couple of minutes to happen. This freedom is granted to the नाटककार by ‘सहृदय’—who are not hypercritical. The letter in S'akațadāsas’s handwriting and bearing the impression of राक्षस's signet-ring, plays a havoc with the party of kings opposel to चन्द्रगुप्त, as is seen in the course of the play. ‘अहो दर्शननीयानि अक्षराणिis a stateman's compliment to शकटदास’s handwriting intended to allay any suspicion in सिद्धार्थक’smind, while checking all that शकटदास wrote. अनु + वाच् to read oneseIf, while वाच् to read loudly. \[**Page 28**\]. **20–25** चाणक्य gives instruction regarding another important mission to be carried out by a reliable (आप्त) person, now entrusted to सिद्धर्थक (who naturally must have been elated at being considered an आप्तजन by चाणक्य). Those in charge of the execution are first to be made to understand the significant contraction of the right eye though *outwardly* they are to be looked at in anger (सरोष) by him. They are to run away on the *pretext* of apprehension. S'akatadása is to be released and taken to Raksasa by सिद्धर्थक. From राक्षस mightily pleased at the life of his friend having thus been saved by सिद्धर्थक, the latter is to get a prize. सिद्धार्थक is to stay on there and when मलयकेतु etc. would be quite near the capital, he is to do as told by चाणक्य \[(कर्णे) एवमिव \]. For the significance of all this vide Act V—38. कालध्य इव पाशः यस्य कालपाशिकः Оnе whose pāsa or noose is like that of death i.e. inesoapable and bringing certain death. दण्डपाशः प्रहरणम् अस्य
-
-
 
 दण्डपाशिकः(or दाण्डपाशिकःalso) These are police officers antrusted with the responsible task of executing the punishment awarded to a culprit. प्रख्याप्य gerund (ल्यबन्त) of the प्रयोजक of प्र+ख्या having caused to be publicly announced सनिकारम्— with disgrace. 36-41 a गण्ड or पताकास्थान of which विशाखदत्त is so fond that सिद्धार्थक who should have left as soon as he hasreceived the instructions as to what *he* was to do \[Page 28.1, 20, 25 ‘यदार्य आज्ञापयति’\] has been detained all through the time taken by चाणक्यto instruct the pupil regarding the banishment of Siddhārthaka and the capital punishment to be given to S'akaṭadāsa. In I, 20, 39-40 (प्रकाशम्) भद्र, कोऽयं गृहीतः,unnecessarily makes explicit what is far better when left implicit. \[ Page 30 \] 1, 20,49-50. Candanadāsa coming in so short a time is impossible. This, like the letter brought, by Siddhārthaka, in an incredibly short time, is unconvineing. (Vide our remarks on I, 20, 5-10, though inevitabla in a drama.
 
@@ -8281,19 +7671,13 @@ names of these, let चित्रगुप्त wipe them out’ is another (
 
  चन्दनदास describes the awe in which चाणक्य was held by all. There was produced fear in the mind of a man merely called (शब्दायित) p.p.p. of the denominative from शब्द ) –of even an innocent person. Need it be said that the same would happen to *him*, when he had a *crime* \[of giving shelter to Raksasa's family members in his house\] to his credit ? Prof. Dhruva reads the second half of the verse as निर्दोषस्यापि शङ्काकिं पुनः संजातदोषस्य।The absence of 'मम' would make the verse an instance of a variety of अप्रस्तुतप्रशंसा, for, when a pointed reference to an individual चन्दनदास is प्रस्तुत, a whole class of persons (संजातदोषः=संजातदोषाः; जातावेकवचनम् ) to which he belongs, would be referred to, though the *class* is अप्रस्तुत. The metre of the verse is आर्या.\[Page 31\] 1, 21, 3-5—Candanadāsa has taken all precautions. He has anticipated the event of a search of his house being taken too. ‘मम तावद् यद् भवति तद् भवतु।’ Shows that Candanadasa is prepared for the worst. His ‘सुहृत्तमल’ ‘द्वितीय हृदयत्व’ towards राक्षस is proved by this preparation to part with his life even, if necessary. 1,21,10
 
-
-
 नाट्येन अवलोकन is significant. This means that the actor playing the role of चाणक्यis to gesticulate ‘seeing’—for Candanadāsa has been summoned for a trial and *he* (Candanadāsa) must know from the way Cāṇakya looks at him that nothing could or should be concealed by him any longer. The अवलोकन is not of the usual type when A meets B.—13 अनुचित उपचारो ‘Undeserved courtesy causes pain even greater than a \[wilful\] insult. Candanadāsa, may be he was a मणिकरश्रेष्ठिन्, taking a seat in the presence of the प्रधानमन्त्री of His Majesty, would be highly improper. \[Page-32\]—15 संभावितम्—ordinary courtesy, in which there is nothing special—17 The president of the Merchant Guild had to accept the seat for the simple reason that the Revered One so ordered him to do (यदार्य आज्ञापयति ). 21. वृद्धि—interest; लाभ-profit.—22. This extreme regard is really an object of fear. Candanadasa's remark is only too true, If some one becomes too full of concern for some one else, the latter has to be on his guard. For behind all the apparent concern may be lurking the worst selfish motive of the other party! Candanadāsa has guessed that there is something 'dark' in the mind of Cāṇakya, But he keeps up appearances alright. In ‘politeness’ even Caṇakya finds it difficult to beat him (आर्यस्य प्रसादेन अखण्डिता मे वणिज्या’). 25—The customary courtesy over, Canakya cleverly manages to introduce, though indirectly, even yet, the purpose for which Candanadāsa was called, स्मारयन्ति causal of स्मृ 3rd person plural, cause to remember, is द्विकर्मक with the two objects: ( 1 ) प्रकृतीःsubjects ( 2 ) अतिक्रान्त=पार्थिवगुणान् merits or excellences of the previous king. In other words, is there so sharp a contrast between the previous king and Candragupta, that the latter's *faults* make the subjects irresistibly remember the *iitues* of the earlier rulers?' Candanadāsa is *not* trapped, ‘Evil be deprecated (—Nothing of the sort)’he says.
 
  (22) Construe:—ननु प्रकृतयः शरत्यौर्णमासीसमुद्गतेन पूर्णचन्द्रेण इव देवेन चन्द्रश्रिया अधिकं नन्दन्ति।
 
  Full-moon is ever a source of delight—but the delight is *all the greater* during the autumnal season, when the sky is absolutely clear (निरभ्र). ‘So like the autumnal full-moon, risen on the Paurpamāsī, His
 
-
-
 Majesty with the moon’s splendour \[í. e.चन्द्रगुप्त\], gives an even greater delight to the subjeots, avers Candanadāsa. The figure of speach is simile. The metre of the verse is आर्या. 1,23, चाणक्य loses no time to point out to चन्दनदास, that if the subjects are pleased with the king, the latter too expects the compliment to be returned.‘प्रीताभ्यः.....राजानः’is अप्रस्तुतप्रशंसा as ‘चन्द्रगुप्तः भवद्भ्यः प्रतिप्रियम् इच्छति’ is what is really meant. 1, 22, 5 Candragupta does not want any money (अर्थ). Candragupta's ways are in a sharp contrast with those of the Nandas.‘That the subjects be not troubled‘ is what Candragupta aims at.—7 ‘You failed to ask us how that object can be achieved’ is what Cāṇakya means \[Page 34\]–10 Caṇakya is here giving in an aphoristic manner (संक्षेपतः) the principle that ought to govern the conduct of the subjects: *by an attitude not hostile to the King*.’ No citizen ought to do anything against ‘the government of the land established by law.’ Twentieth century governments too demand ‘राज्ये अविरुद्धा वृत्तिः’ The only modification that need be made in the principle enunciated by चाणक्य is that राजनि be replaced by राज्ये for *kings* are fast becoming out of date. चाणक्य has slowly but difinitely brought the whole discussion to the point he had in view. ‘*You* are such a person, hostile to the king.’—15-16—Candanadāsa seeks shelter behind the maxim ‘what kind of opposition can blades of grass ever have towards fire?’ The अप्रस्तुतप्रशंसा (तृण=अस्मादृशः पुरुषः, अग्नि=चन्द्रगुप्तं) fails, however, to help him. Canakya lays his very finger on Candanadāsa's crime. *20* Candanadāsa denies that he committed any crime. 21—23 Cānakya cleverly allays the fear of the President of the Merchant-Gulid, ‘When there is a change of government such things do happen. Even against the will of the citizens partisans of the losing power force themselves on the citizens. Helping them in that hour is no crime but *hiding* their familymembers even afterwards *is* one.' And this is the trap that catches Candanadāsa. 25—This is a confession he gives that he did keep the members of Rākṣasa's family in his house, Canakya pounces on Candanadāsa: ‘A little while ago you said my information was *false* and now you say at that time अमात्यराक्षस's people *were* there in my house’.
-
-
 
 What greater contradiction of statements can there be? चन्दनदास has to own that to that extent, there was & कृत, verbal trickery, ‘quibbling,’ on his part, चाणक्य who has now full possession of the ground says—‘In चन्द्रगुप्त's regime, no छल of any kind would be accepted i. e. tolerated, whatever happened in the regime of the Nandas. Things must be straight and fair. Now, चन्दनदास has no alternative except surrendering राक्षस's family.
 
@@ -8305,15 +7689,11 @@ What greater contradiction of statements can there be? चन्दनदास 
 
  (24) Construe:—नन्दे जीवति \[ सति \] विक्रान्तैः नयशालिभिः वक्रनासादिभिः सुसचिवैः मुहुः चलन्ती या श्रीः तदा स्थैर्ये न गमिता ता \[श्रियम् \] एक्त्वम् उपागता जगत् प्रह्लादयन्तीं द्युतिं चन्द्रात् इव चन्द्रगुप्तनृपतेः पृथक् कर्तुकः व्यवस्येत्।
 
-
-
  The verse is to be understood as explaining wha Cāṇakya has stated immediately before it viz., the impossibility of Candragupta's sovereignty being uprooted, Visṇugupta i. e. चाणक्य uprooted Nanda but Rākṣasa would not suoceed in doing any such harm to Candragupta. The stage direction इत्यर्धोक्ते लज्जां नाटयित्वा shows that while speaking of himself in terms of praise,चाणक्य felt a bit awkward as any cultured person would, in a similar position But the truth had to be told. The sovereignty (regal glory) of Nanda was tottering while Nanda was yet ative. The ministers, Vakranāsa and others, though competent, thanks to their valour and statesmanship, could not make it firm. Now in Candragupta it has got itself concentrated. To separate the same from him is very difficult. No one would undertake to do so, no one would undertake to separate the world. gladdening lustre of the Goon, concentrated' in one place \[i. e. the moon\], from the moon.
 
  एकत्वमुपागतां जगत् प्रह्लादयन्तीम् goes with both चन्द्रगुप्तश्रियम् and चन्द्रद्युतिम् कः व्यवस्येत् is a rhetorical question with the answer contained in it viz., ‘no-one’. The verse, therefore, is an instance of the प्रश्न अलंकार. The metre of the verse is शार्दूलविक्रीडितम्.
 
  1, 24, 1 Candanadāsa admits, though to himself, the truth of Cānakya's statement. His विकत्थितम् (p. p. p. from चि+कत्थ् to boist), here equal to विकत्थनम् boasting, as per ‘नपुंसकेभावे क्तः’ is in harmony with (i.e, warranted by) the fruit or achievement he has to his credit. It is not the usual type of boast—idle or empty 1, 24, 4-16. The tumults due to Jivasiddhi being banished and S'akatadasa being led for being impaled on the stake, were well-calculated and, welltimed by Canakya so as to be exploited with a view to making Candanadāsa surrender Rākṣasa's wife and son. But Candanadāsa is not frightened into surrendering his friend's wife and son as he was prepared for the worst.' ‘मम तावद् यद् भवति तद् भवतु। ‘He declares his resolve not to oblige चाणक्य the way he liked. चाणक्य is all admiration for चन्दनदास as he was for Rākṣasa earlier in the act. 1, 25 is to be read as a verse indicating that though कुटिलमति in politics, Cāṇakya
-
-
 
 knew the worth of noble qualities, such as fidelity to a friend. In fact, his politics is on a very high plane, thanks to this appreciation of the ‘noble’ in human life.
 
@@ -8327,15 +7707,11 @@ knew the worth of noble qualities, such as fidelity to a friend. In fact, his po
 
  \[**Page 41**\] **1**, 26,1-2 The pupil had accompanied Candanadāsa who was to be held in custody by Vijayapāla, On informing the latter regarding चाणक्य's order. the pupil returned. Just then was heard a tumult (कलकल) not far
 
-
-
 away from the palace. The pupil therefore, enters where चाणक्यwas sitting and informs him that the tumult was due to S'akaţadāsa having been taken away by Siddharthaka from the execution-ground. 4-5 चाणक्य is pleased that सिद्धार्थकhas well begun to carry out his mission. But not to let the pupil know what he had in mind, he instructs him to ask Bhagurayana to make the necessary arrangements in the matter. 6-10 The pupil returns to inform चाणक्यthat भागुरायण has already left. चाणक्य asks the pupil to instruct भद्रभटetc. to capture भागुरायण \[Page 43\]. The pupil goes out and returns to tell the preceptor that the whole party hadmade away earlier at day-break. तन्त्र is the machinery \[of administration, in this context\]. The word is used else-where in the sense of a system for instance सांख्यतन्त्रम्.or of 'a \[scientific\] treatise expounding the doctrines of the same. ‘Some system, something systematic, elaborate arrangement or machinery,' this is how the sense came to be developed. The pupil means that the whole administrative apparatus is out of gear न आकुलम् अनाकुलम् आकुलम् भतम् आकुलीभूतम् is parturbed, \[completely\] upset. 1, 26-15 Again चाणक्य is glad at heart that all his men have started their work in right earnest, He wishes them all well (सर्वेषामेव शिवाः पन्थानः सन्तु।) But he does not allow his pupil, this time either, to know what is going on in his mind. There is no cause for dejeotion' he, tells the pupil, ‘let all who want to go, do so—only let my intellect remain with me.’
 
  (27) Construe:— किम् अपि हृदये प्रचार्य ये याताः ते पूर्वम् एव गताः ये तिष्ठन्ति ते अपि गमने काम प्रकासोद्यमाः भवन्तु केवलम् अर्थसाधनविधौ सेनाशतेभ्यः अधिका बन्दोन्मूलनदृष्टवीर्यमहिमा मम बुद्धिः तु मा गात्।
 
  चाणक्यsays 'those who have left having had something in their heart (किमपि हृदये प्रभार्य) a cause of disaffection, apparent sense. (2) well remembering ny instructions, sense present to चाणक्य's mind—are even already (पूर्वमेव) gone. Thereis no bringing them back; let those who are with us make their preparations, full preparations ( प्रकामोद्यमा) as they please to leave; ( चाणक्य wants other men of his too, to leave) only my intellect, stronger than hundreds of armies,—and with its greatness \[already\] seen in the devastation of the
-
-
 
 Nandas, \[though it be\] alone (एका) not desert me’. अर्थस्य(goal) साधनम् (achievement) तस्य विधिः(arrangement, process) तस्मिन् चाणक्य is confident that his intellect is superior to hundreds of armies in the matter of the achievement of the goal. Its potency is an already established fact. नन्दानाम् उन्मूलनम् तत्र दृष्टः वीर्यस्य महिमा यस्याः सा। When a form of the aorist, here अगातृ is used with the particle मा in the sense of prohibition (माङ् प्रतिषेधे), the augment अ is dropped. Thus मा गात्let not go (भर्तुर्विकृतापि रोषगतया मास्म प्रतीपं गम.) Śakuntala IV. “The retention of the augment अ in मा निषाद प्रतिष्ठां त्वमगमः। \[=त्वम्+अगमः\] शाश्वती. समाः। यत्कौञ्चमिथुनादेकमवधीः काममोहितम्’ is *archaic* in nature and is to be regarded as an exception proving the rule. The reading,‘एका केवलमेव साधनविधौ’is inferior, as there would be then a combination of केवलम् and एव which is tautological. सेनाशतेभ्योधिका = सेना... धिकत्वात् and दृष्टवीर्यमहिमा also has similarly a causal significance. The figure of speech here, therefore, is काव्यलिङ्ग. The metre is शार्दूलविक्रीडित.
 
@@ -8344,8 +7720,6 @@ Nandas, \[though it be\] alone (एका) not desert me’. अर्थस्�
  (28) Construe:— \[अहं\] स्वच्छन्दम् एकचरम् उज्ज्वलदानशक्तिम् उत्सेविना वलमदेन विगाहमानम् \[भवन्तम् \], आरण्यकं गजम् इव, बुद्ध्या निगृह्य, वृषलस्य कृते क्रियाया प्रगुणीकरोमि।
 
  Rākṣasa is compared to an elephant from a forest. Like the elephant, राक्षस is स्वच्छन्द doing what hs pleases, एकचर moving by himself, not mixing with others; the वनगज too is एकचर as he does not move with the herd. उज्ज्वलं च तत् दानं च तत्र शक्तिः यस्यhaving the capacity to bestow rich (lit. shining) *gifts* on others, while the elephant has the capacity of letting flow from the temples glistening *chor* (दान)— a sure attraction to the bees who are found to flock in swarms to the elephant's temples. Bothराक्षस and the elephant are plunged विगाहमान in their respective मदबल 3—राक्षस in that of his pride (मद), the elephant in that of his ichor (मद). Though the elephant be very difficult to catch, man's intelligence is
-
-
 
 equal to the task of bringing the wild animal uuder full control (नि+ग्रह्–gerund निगृह्य) and making the elephant devote its qualities such as an extra-ordinary amount of physical strength etc. to the successful achievement of his (man's) own undertaking. चाणक्यis confident that his intellect will enable him to have full control over राक्षस and that राक्षस would as a result devote his excellent qualities such as loyalty, statesmanship, etc to activities in Candragupta's (वृषलस्य) interests (कृते).
 
@@ -8357,29 +7731,21 @@ equal to the task of bringing the wild animal uuder full control (नि+ग्�
 
  \[ It now remains to attempt a brief resume of the contents of the first act. The main divisions are of course (1) the प्रस्तावना and (2) the main scene. Of these the former covers the first six pages (verses I to 7). In the first two verses isforeshadowed (a) the diplomacy of Cāṇakya, not without its concealments of secrets \[maintained till the time that it was necessary to do so\] (verse 1) and (b) the extremely diffionlt nature of the mission undertaken by Cāṇakya, viz, securing the services of minister Rākṣasa, without causing any harm to the latter. The *duhkhanrttam*’ of the all-pervading lord suggests the extreme difficulty of reaching the goal Cāṇakya had in view especially because of the circumstances as they obtained, to which due attention (आधारानुरोध) had necessarily to be paid. In the portion from the 3rd varse onwards, to
 
-
-
 the end of the Prastāvana, the author contrives to refer to the overpowering, per force, of the संम्पूर्णमण्डल चंद्र by the क्रूरग्रह and to the fact that ‘association with Mercury was saving the moon from the predicament.’ The lines are interpreted by Canakya, one of the main characters of the play to mean that Candragupta is going to be attacked by Rākṣasa of malicious intention. Cāṇakya is naturally full of anger and asks in a challenging manner—who, while I am alive, desires to overpower Candragupta? ( In between, the author has given a very brief account of himself and stated that the मुद्राराक्षसः is his composition— a new play. The Sutradhāra, fully aware of the principal traits of human nature, pays the परिषद (or the audience) a glowing tribute (सत्क्षेत्रपतिता कृषिः) \].
 
  Repeating the question चाणक्य appears on the stage on the सूत्रधार and the नटी having left it to make roota for him चाणक्य givesvent to his anger, asking who is as rash andinconsiderate as to desire to die, the manner ofa moth? (verses 8—10). चाणक्य next proceeds to think how this matter has got sowide a publicity as to he discussedby the townsmen viz. that Rākṣasa was making preparations to attack Candragupta, that Rāksasa had made an alliance with Malayaketu with that end to view (p. 8—9). That, however, is no cause of any very great anxiety to him. For, he naturally recalls that he has been able to ford the otherwise unfordable river of his vow andto uproot the nine Nandas who insulted himby making him leave the seat of honour he had occupied. He sums up by saying that he has maintained the balance even between the friend and the foe. The former has received the benefit of his love or affection, while the lattér has got his full share of the wrath of चाणक्य (verse 13, p. 10.)
 
  But just here, a doubt assails चाणक्य's mind. What kind of stability can be claimed to have been secured for the sovereignty of चन्द्रगुप्त? —and what uprooting worth the name could be said to have been achieved of the Nanda family, *so long as Rāksasa was not secured* ?—he asks. चाणक्य appreciates the excellent qualities of राक्षस—loyalty, sharpness of intelligence (मन्त्रिबृहस्पति) & valour (verse 15.)
 
-
-
 चाणक्य also refers to all the measures he has adopted to accomplish his purpose viz. winning over राक्षस to accept the prime-ministership of चन्द्रगुप्त.The employment of the poisonmaiden against प्रवर्तक, spreading of a false rumour that राक्षसwas responsible for the murder of प्रवर्तक, the appointment of a spies in diverse guises to know those who were on their side as also those who were on that of the enemy. Bhadrabhata Neto, having been turned into apparent malcontents, appointment of persons to what the king's person from close quarters so as not to let him be a victim of the machinations of the enemy, Jivasiddhi having been made to form friendship with Raksasa, are measures which show the width of the sphere of the activities of चाणक्य. ‘His thorough pess’ is well brought out by these. ‘Only Candragupta is indifferent, having left the entire responsibility of the administration to us’— he says (verse 16, p. 15).
 
  With verse 17th starts another section of the first act. The यमपटिक is none else than चाणक्य’s spy निपुणक. But the innuendos such as: ‘कस्य चन्द्रः अनभिनेतः।’ or ‘कमलानां मनोहराणां रूपाद्विसंवदति शीलम् संपूर्णमण्डलेऽपि चन्द्रे यानि विरुद्धानि’ are not grasped by the pupil of चाणक्य who, himself quickly understands what the यमपटिक means and admits the latter to the place where he was sitting. From the spy चाणक्य learns that as the various causes of their disaffection have been removed by His Majesty Candragupta, the subjects are extremely attached to him There are, however, three persons in the city of Patliputra who are full of affection and veneration for राक्षस since long and who, therefore, cannot tolerate Candragupta's glory. They are ( 1 ) जीवसिद्धि, about whom चाणक्य says to him. self—this one is our spy, (2) शकटदास the scribe ‘an insignificant creature, yet not to be ignored’, asचाणक्य observes and (3) चन्दनदास, राक्षस’s ‘*alter ego*’, at whose house he had left his wife and son. In reply to चाणक्य’s question how do you know that Rākṣasa let his wife and son with चन्दनदास?’ Nipuṇaka hands over a ring he had found at Candanadaea's place in the course of his itinerary and says this will tell the Revered One the whole matter. This is the *signet-ring*-after which the play is named (or rather the ‘*mudra* part of it is named), चाणक्य’s intellect sees the opportunity the
-
-
 
 acquisition of the ring has made available, and, therefore, does चाणक्य says confidently to himself— ‘ननु वक्तव्यं राक्षस एव अस्मदङ्गुलिप्रणयी संवृत इति’।
 
  Dismissing निपुणक, चाणक्य proceeds to decide the text ofthe letter he wants to get written in the hand of शकरदास. Meanwhile शोणोतरा brings a message from (message couched in terms of request, of course) चन्द्रगुप्तthat he be granted permission to give away as gifts to ब्राह्मण ornaments used by पर्वतक whose funeral rites चन्द्रगुप्त wants to observe. 'This fits in well with चाणक्य's plan and he sends विश्वावसु and his two. brothers to get the ornaments from चंद्रगुप्त, who, चाणक्य wasconfident, would admit that such ornaments must be given to only *deserving* Brāhmaṇas चाणक्य gives up his idea of mentioning the five Mleccha kings Kaulūta etc. to Megha (verse 20. p26) and prefers the whole thing being left vague. Not making things very explicit is a sound principle that knew and observed well. The letter is got written by शकटदास without the latter kuowing thatचाणक्य wanted that to be written through सिद्धार्थक’s services, Siddhar thata’s friendship with शकटदास having proved very useful. The addressee’s name was not written on letter. This letter is stamped with the signet-ring of राक्षस and Siddharthaka is asked to rescue Śakațadasa from the executioners and take him straight to Rāksasa. Siddharthka is to receive the reward he would be given by राक्षस for saving his friend’s life and to stay there only till the entire enemy-party came very near Kusuma-pura, where Siddharthaka was to carry Instruction of चाणक्य (to.d in Siddarthaka's ear.). Arrangements for the banishment and execution of जीवसिद्धि and शकटदास respectively are made and चाणक्य then orders his pupil to produce चन्दनदास before him.
 
  Candanadāsa knows why he has been summonel and is prepared for the worst (p. 31, 1, 21, 5). This part of the act is the best and it is very interesting to listen to the dialogue between चाणक्यand चन्दनदास Cleverly does चाणक्य catch who says at that time Rākṣasa’s family-mem-bers were in my house. ‘Where they are now I know notis of course not believed by चाणक्य and ultimetely चाणक्य orders
-
-
 
 चन्दनदास to be imprisoned. ‘Capital punishment would be announced by His Majesty only’ चाणक्य says In his mind चाणक्य, however, admires चन्दनदास whom he compares toking, Bibi of the Mahabharata fame, Caṇakya begins by offering a seat to Candanadāsa, who first politely declines to have it but later takes the same as it is the order of चाणक्य to do so. The tumults behind the screen on account of जीवसिद्ध’s banishment, and शकटदास’s being taken to the execution ground, are well timed to frighten चन्दनदास, The latter is however not frightened at all and declares ‘I am prepared for the worst punishment the Revered one can give me.’
 
@@ -8390,8 +7756,6 @@ acquisition of the ring has made available, and, therefore, does चाणक्
 
  2 0.3 आहितुण्डिकःfrom अहि& serpent and तुण्डम (मुखम्) अहेः तुण्डेम जीवति—one who maintains himself by showing serpents, तण्डेन being metaphorically equated with शरीरेण.
 
-
-
  (1)Construe:—ये तन्त्रयुक्ति जानन्ति यथास्थितं मण्डलम् अमिलिखन्ति, मन्त्ररक्षणपराः\[ च वर्तन्ते\] ते सर्पनराधिपावुपचरन्ति।
 
  The verse contains several terms which are paranomastic. Thus उपचरन्ति =(1) *move near* \[the serpents\]; (2) *wait upon, serve* \[lords of men\].
@@ -8400,11 +7764,7 @@ acquisition of the ring has made available, and, therefore, does चाणक्
 
  2, I, आकाशे this is different from प्रत्यक्षवत् आकाशे लक्ष्यं बद्ध्वा in act 1, 13, 6-7 and 1, 27. -2, which latter is used when &
 
-
-
 character on the stage wants to apostrophize another (who is absent from there). The आकाशे under consideration is intended as a measure of economy—not to bring too many persons on the stage, The person present impresses the audience that another person is within hearing distance and carries on conversation with the other, introducing the replies of the party not on the stage with words like किं भणसि etc(read 2, 1, 13 & 14, 19 etc). For the definition of this ‘आकाशभाषितम्’ or ‘आकाशे’ read किं ब्रवीषीति यन्नाट्यं विनापात्रं प्रयुज्यते। श्रुत्वेवानुक्तमप्यार्थं तत्स्यादाकाशभाषितम्॥ विश्वनाथ साहित्यदर्पण, VI,140 and also दूरस्थाभाषण यत्त्यादशरीरनिवेदनम्। परोक्षान्तरित वाक्य तदाकाश निगद्यते। (—भरत in his नाट्यशास्त्र. 2, 1, 14 जीर्णविष an appropriatename for a snake-charmer, Cf निपुणक, सिद्धार्थक, स्तवकलश etc. Visakhadatta has named most of these characters very appropriately. \[That राक्षस is the name of Nanda's minister, whose services चाणक्य wanted to secure in the interests of चन्द्रगुप्त though the name means 'a demon', leads one to infer that the character is historical rather than fictitious, In the latter case Visakhadatta would have named this former minister of the Nandas differently. जितकाशी - जितेन=जयेन) काशते lit, one who shines with his success i. e. is proud of and uses indiscreetly his authority. 21 अस्थान खल्वेतत्–आहितुण्डिक wanted to secure an entrance into the house of राक्षस (for as isseen later in the course of the act, the snake-çharmer is in reality a spy of राक्षस named विराधगुप्त, 2, 11. 3) and therefore is he finding fault with the place. 23 जीविकायाः प्रसादेन apparentely, by the favour of i. e. thanks to my profession as a snake-charmer, but there is also the suggestion of thanks from the spy to Rākṣasa-24 स्वगतम्-संस्कृतमाश्रित्य Only to keep up appearances so as to make people believe that he was a snake-charmer, did विराधगुप्त resort to Prākrata. He knows Sanskrit and now that he is addressing only to himself, he need not use Prākṛat. Page 46, 25-27 विराधगुप्त finds it difficult to decide whom राज्यलक्ष्मी would ultimately stick to, because of the activities—equally point—of the two ministers चाणक्य ( for चंद्रगुप्त ) and राक्षस ( for मलयकेतु ).The idea conveyed is again expressed in the form of a verse (2, 2). This is what is known as “भङ्गयन्तरेण कथनम्" tellin ing a different way.
-
-
 
  (2) Construe:—कौटिल्यधीरज्जुनिबद्धमूर्ति मौर्यनृपस्य लक्ष्मीम् \[अहं\] स्थिरा मन्ये, राक्षसेन उपायहस्तैः निकृष्यमाणाम् इव अपि \[ता\] लक्षयामि।
 
@@ -8416,8 +7776,6 @@ character on the stage wants to apostrophize another (who is absent from there).
 
  The two eminent ministers चाणक्य and राक्षस opposed to each other are likened to two elaphants from a big forest and Sovereignty is likened to a female elephant who cannot decide (अनिश्चयात्) to whom to resort, as both are equally strong, as she is all full of apprehension on account of either being offended if she goes over and sticks to the other\]. Many are the comings and goings गतानि आगतानि च the female elephant—and like her \[the goddess of\] severei-gnty has between the strong rivals and very greatly is she—also Sovereignty—wearied। श्रिया खिद्यते is an impersonal construction— श्रीःखिन्ना भवति। भृशम्‘extremely’ can be taken as an adverb \[goiny with or\] modifying विरुद्धयोःas in the translation (p.46). In fact that is better than taking both ध्रुवं and भृशं as modifying खिद्यते, वशा is used in many senses. गज is prefixed to it so as to limit the field covered by the
 
-
-
 word so far as its denotation is concerned. The dgure of speech in the verse is उपमा and its metre is रुचिरा (or प्रभावती ) with the scheme ज, भ, ज, ग (जभौ सजौ गिति रुचिरा चतुर्गहैः).
 
  \[Page-47\] 2,3,1 इति परिक्रम्य स्थितः. The snake-charmer \[ i. e.विदाधगुप्त \] walks about and stands obviously at one end of the stage and then—2, 3, 2, enters राक्षस,being attended on by a man-servant. आसनस्थः प्रविशति is of coursenot to be literally understood. प्रविशति = is discovered. विराधगुप्त stands atone end of the stage quite long presumably waiting for an opportunity to be admitted int the presence of राक्षस (at 2, 10, 9,52). Meanwhile राक्षस gives vent to his feelings (verses 4—8) apostrophizing the goldess of sovereignty The Chamberlain comes, conveys Malayaketu’s message to राक्षस and leaves Only after this does the snake-charmer get an opportunity to see राक्षस. The contrast between the ways the two ministers appear on the stage is remarkable (मुक्तांशिखां परामृशन् कुपितः चाणक्यःp. 7 asking as soon as he enters क एष मयि स्थिते चन्द्रगुप्तममिमवितुमिच्छति and ‘राक्षसः’ (सबाष्म्) exclaiming कष्टं भोः कष्टम्) and at once brings out the difference in the conditions is which the two contending ministers are working.
@@ -8426,8 +7784,6 @@ word so far as its denotation is concerned. The dgure of speech in the verse is 
 
  नीति, च विक्रमः च नीतिविक्रमौ तौ एव गुणौ तयोः व्यापारेण शान्ताः द्विषः (plural of द्विट् a hacer, eaemy) येषां तेषाम् The Nandas had their enemies subdued or destroyed शान्त) by the operation (व्यपार) of their qualities,—\[expert knowledge of\] politics (नीति) and bravery ( विक्रम). Yet cruel Fate ( अकरुणा नियति) destroyed the family, like that of the वृष्णिऽ that is theयादवऽ. With his mind all perturbed (समाकुल) as anxiety had forced its entrance into it, राक्षस keeps awake by day and by night. But the very royal family which he was serving in the capacity of the Prime Minister having been destroyed, his various activities (चित्राणि कर्माणि)are without any solid sup-
 
-
-
 port(भित्ति) (like the painting of one who practises that art without a canvass (भित्ति)i.e the activities are going to prove to be to no purpose. The story of the वृष्णिःoccurs inमहाभारत the XVI from which is gathered the account of their destruction, as they took to drinking and fought amongst themselves after the death of कृष्ण. There is उपमा in the verse (वृष्णीनामिव) and अतिशयोक्ति (–सेयं मम चित्रकर्मरचना भितिं विना वर्तते।). The metre is which the verse is couched is शार्दूलविक्रीडित.
 
  (5) Construe : परदास्य प् अयर्थम् ए य, स्वर्गगतः अपि देवः शात्रववधेन अराधितः स्यात् \[इति मनासे कृत्वा\] न \[तु\] विस्मृतभक्तिना, न \[वा\] विषयव्यासङ्गमूढात्मना, न \[पुनः\]प्राणप्रच्युतिमीरुणा, न (वा) आत्मप्रतिष्ठार्थिना मया इदं मनः नीतौ निपुणं दीयते।
@@ -8435,8 +7791,6 @@ port(भित्ति) (like the painting of one who practises that art withou
  In the preceding verse has said his activities were like the attempt at painting without any canvass-board, He now changes his thought (अथवा) and says that his activities do not deserve to be ridiculed and certainly should they not be misunderstood by any one. True the Prime Minister of the Nandas is now an absolute slave of Malayaketu. But even here,राक्षस has only one purpose in view viz, serving His Majesty—his master—aven though the latter has departed to the yonder world It would be unfair to राक्षस to think that he has forgotten his devotion to the family of his master (unfortunaly, no scion of the family is now alive, and for undoing the activities of the master's enemies, Malayaketu had to be served) राक्षसhad not his mind (lit. self) deluded (मूढ) by too much \[i,e, any\] attachment to objects of pleasure (विषव्यासङ्ग). He was not afraid that he would lose his life, nor did he long for any personal greatness. The sole purpose that guided all his activities was serving the master's cause even after his death. शात्रववध=शत्रुवध the change of शत्रु into शात्रव not effecting any change in the meaning.
 
  2,5,1 राक्षस grows sentimental and finds fault with (Sovereignty) for showing no sense of appreciation (अ-गुणज्ञा), कमलम् आलयम् (abode) यस्याः सा–‘with lotus as the abode’. Even राज्यलक्ष्मीः is लक्ष्मीः
-
-
 
  (6) Construes:—\[हे\] चपले, आनन्दहेतुम् अपि देवं नन्दम् अपास्य, वैरिणि मौर्यपुत्रे किं सक्ता असि। कथय, गन्धगजस्य नाशे दानाम्बुराजिः इव, तत्र एव प्रलय किं न गता असि।
 
@@ -8454,22 +7808,15 @@ port(भित्ति) (like the painting of one who practises that art withou
 
  पाप is an adjective meaning sinful.पापा a sinful woman.पापे is the vocative singular, 'O sinful woman!' Where all kings born in welknown (प्रथिता) families on the suface of the earth burnt down \[to ashes\] that Laksmi chose the son
 
-
-
 of Mura, with no 'family' to bust of (कुल=सत्कुल ncble family by specialisation of the sense of the term)?वृत्तवता-वृतं p p p. from to choose with added in the active sense 'choose' काशात् (grass of the name Kāsa) प्रभवः birth) यस्य तत् काशप्रभव काशप्रभवं च तत् कुसुमं च तस्य प्रान्ताः (edge) तद्वत् चपला (fickle). The age of the Kās'a flower in extremely tender falling off quickly on even the least disturbances by a breeze loosely here, though it neans a woman with husband and children. पुरुषाणा गुणाः (merits) तेषा विज्ञान विमुखो (averse विगत खं यस्याः सा lit, with face turned away. राक्षस states a general proposition explaining the occurrence referred to in the first two lines (सामान्येन विशेषस्य समर्थनम्) All women, as a rule are averse to the proper appreciation of the merits of men! So does राक्षस feel because Laksmi deserted his master Nanda\]. The अलंकार is अर्थान्तरन्यास and the metre of the ' verse is शिखरिणी.
 
  2, 7, 1 अ-विनीते you not-disciplined (or immodest'. This is quite in consonance_with 'अनभिजाते' 2, 6, 1 आथयग्य चन्द्रगुप्तस्य उन्मुलनम् तेन राक्षसis referring to (I) his having kept the members of his family at Candanadāsa's place of residence, which according to him was the right thing to do,—for, had he taken them along with him, out of the city, his partisans in the city would have rightly concluded, that राक्षस was keener on the safety of his family than on securing hold over Pātaliputra again The presence of राक्षस's wife and son in the city, would be at once an assurance to these people that would before long attack and capture the city and a reminder that they should not be slack themselves in their efforts to undo Candragupta; (2) राक्षस is referring also to the fact that S'akatadāsa had been appointeά, with a big treasury (obviously forदान and other items of expenditure) at his disposal, particularly with the purpose of doing harm to Candragupta's person to collect such persons as would administer a deadly poison to Candragupta and to make overtures (उपजाप) to the malcontents (कृत्य) on the side of the enemy (पर). तीक्ष्णरसदायी तीक्ष्णरसंदानं शीलं यस्य a professional poison-giver. Prof. Dhrava under. stands as an assassin and as one who administers poison, 'poisoner'. Here as also at I, 15, 13 he reads
 
-
-
  तीक्ष्णरसदादीनाम् instead of तीक्ष्णरसदायिनाम् and quotes रसाधानं विषाधान तिक्ष्णा मर्मणि घातका. This would mean that there are persons who, attack the very vitals (मर्मणि घातकाः ) with some weapon and 'poisoners' etc that are envisaged by the phrase. adon thus would bo a तीक्ष्ण (p. 63) and अभयदत्त aरसद (p. 64 ). परकृत्योपजाप isalsp understood as \[getting\] secret information regarding the activities (a) of the enemy. Raksasa finally states that जीवसिद्धि and others ( जीवसिद्धिप्रभृतयः) are appointed, kept busy, with a view to getting the news of the enemy (this would appear to cancel in the sense of getting secret information about the enemy) and breaking their unity (सहति). This last is the weakest link in the chain has forged with the purpose of undoing Candragupta, as is seen later In Act - I it has been that जीवसद्धि is in fact a spy of चाणक्य (Indusarman by name, a Brahmana, who has secured mastery over *disguised* as a Kśapanaka). In Act V, this very क्षपणक tells मलयकेतु, राक्षस's ally, राजसेन गूढं विषकन्यका योगमुत्पाद्य घातितः देवः पर्वतेश्वरः' and 'चाणक्येन विषकन्याया नामापि न श्रुतम् thus bringing .about 'सहतिभेदन' between मलयकेतु and राक्षस.
-
 
   (8) Construe : इष्टात्मजः सान्वयः एव देवः शार्दूलपोतम् इवय \[ चन्द्रगुप्तं \] परिपोष्य सपदि नष्टः तस्य एव \[ चन्द्रगुप्तस्य \] मर्म \[ अहं\] यदि अदृश्यमानं दैवं न वर्मीभवेत् \[ तर्हि मम \] बुद्धिविशिखेन भिनद्मि ।
 
   King Nanda was very foud of his sons (इष्टाः आत्मजाः यस्य ) चन्द्रगुप्त was brought uo by him as his पुत्र, though चन्द्रगुप्त was only a दासीपुत्र. Little did king Nanda know that rearing चन्द्रगुप्त was like rearing & cub of a tiger sure to kill the very person who rears it along with the whole of his family ( सान्वय) I shall soon break i. e. pierce the vitals (मर्म- मर्माणि जातकवचनम् ) of that चन्द्रगुप्त by the arrow ( विशिखः) of my intellect, if Fate that isever working invisibly (अदृश्यमान) does not become Candragupta's armour, न अवर्म वर्म भवेत् वर्मीभवेत् isused अभूततद्भावे. Fate is no armour, but राक्षस is afraid it will be one and save चन्द्रगुप्त, इष्टात्मज 18 & साकूत विशेषण giving rise to परिकर अलंकार. शार्दूलपोतम् इव indicates the presence of उपमा and बुद्धिः एव विशिखः is a रूपक. The metre of the verse is वसन्ततिलका (with the scheme already given ).
-
-
 
  2, 8, Kañcuki- -an officer in charge of the inner apartment of the king ( here Prince Malayaketu ), called by the name कंचुकी as he wears a distinctive robe (कंचुकः अस्य अस्तीति) of his own. \[Chamberlains in Sanskrit dramas are generally shown to have grown old in the service of kingsand mostly are they seen to be complaining about the effect of old age on them They are held in high esteem in the royal family for the meritorious services rendered by them stretching over a long period\]. Theकंचुक long cloak of ‘cloth, like the cane-staff ever wielded by the
 कञ्चुकिन् s, while on duty, is their badge of office. The name of the Chamber lain in the employ of Malayaketu is Jājali vide 2, 9, 10 आर्य जाजले...')
@@ -8478,8 +7825,6 @@ of Mura, with no 'family' to bust of (कुल=सत्कुल ncble family 
 
  The Chamberlain institutes a comparison between काम and नन्द, जरा and चाणाक्यनीति, धर्म and मौर्य (1. चन्द्रगुप्त ), the city of Pātaliputra and his own person, लोभ and राक्षस. Old age has crushed, lit. pounded down, passion like the policy of Canakya which has crushed the Nanda king. That very old age has led 'duty' (धर्म) to a stable position (प्रतिष्ठा) my person (lit. in me) as has the same policy of Cāṇakyaled Maurya i. e. Chandragupta to a well established condition in Greed (लोभ) is, at present, having secured an opportunity (lit, space, scope, room) \[लब्धान्तरः\] on account of my service in the royal family, trying to secure a victory over that duty, getting accumulated i. e. becoming stronger and stronger every day, but is not in a position to secure it, like who because of his service \[of his new master, Prince Malay aketu\] has secured scope for activities agalust Maurya, who is becoming stronger day after day, and whom he (सः) tries to conquer but is not able to. 2, 9. ɔ,आर्य अभिवदये shows the respect which the Chamberlain had earned from such men of high position as राक्षस 'आसनमानीयताम्' may a seat be brought (for noble Jäjali) corroborates what has been stated about the esteem in which कंचुकिन् were held.2, 9, 5-8 Malayaketu is pained at seeingराक्षसwithout the
 
-
-
 usual decoration. Malayakatu quite concedes that the excellent qualities of the (former) master of cannot be forgotten by him at once. All the same' he says, it behoves the noble one to grant my request,' Malaya- ketu has sent ornaments taken off from his body. Malayaketu is not a diplomat. He fails to understand that his words admit of an interpretation which is not quite desirable; you must be remembering your old master, quite see-still as I request, put on the ornaments i e don't care so much for the dead master as for me. 2, 9, 10. Hence hastens to explain that on account of his ad- miration (pakṣapata-lit.-partiality) for Malayaketu's merits, those of the (former) master have been forgotten \[long ago\]. The reason why he does not vet put on ornaments is different (as stated 1: verse 10).
 
  (10) Construe: (हे) नृवर निर्वीर्यैः परपरिभवाक्रान्तिकृपणैः एभिः अङ्गैः प्रतनुम् अपि संस्काररचना तावत् न वहामि यावत् निःशेषक्षपिनरिपुचक्रस्य तव इदम् हेमाङ्ग सिंहासनं सुगाङ्गे न निहितम्।
@@ -8487,8 +7832,6 @@ usual decoration. Malayakatu quite concedes that the excellent qualities of the 
  Not even the slightest decorative arrangement ( प्रतनुःअपि संस्काररचना ) would be had on my body till the time that ( तावत् यावत्) your golden (हेम्न अङ्गानि यस्य हेमाङ्गं) throne here (इद-राक्षस) visualises it while sendining the message) has not been well (नि—) placed (हित) in the \[palace named\] Suganga, with the circle (चक्र) of your enemies destroyed (क्षपित— p.pp of the casual of क्षै to decay) outright (निःशेषे— निर्गतःशेषः यस्मिन्कर्मणि यथा स्यात् तथा ). It is possible to dissolve the compound निःशेषः .. चक्रस्य, taking निःशेष as an adjective as in the translation on page 51: निशेषं क्षपितं रिपूणां चक्र यस्य सः तस्य Suganga is a significant name of the palace meaning 'one affording a good or splendid view of the river Ganges.' निर्वीर्यैःपरपरिमवाक्रान्तिनिपुणैःmay be regarded as satisfying हेतोःपदार्थता, in which case the अलंकार will be काव्यलिङ्ग, The metre is शिखरिणी.
 
  2, 10. Though the Chamberlain agrees with राक्षस regarding the propriety of his determination not to wear any ornaments till victory is won, he says 'this is easy to secure. while you are at the helm of affairs. "With your ex- cellent leadership it is a matter of not much time. The
-
-
 
 Prince has made a request to you. It is the first of its kind. It deserves to be granted on that account. 2,10,3 & 4, shows his sense of respect to the Chamberlain. You are one whose words cannot be transgressed i e disobeyed अतिक्रमणीयं वचन यस्य सः तदनुष्ठीयते - here*, emmediately* is being carried out 1 e. will be carried out अनुष्ठीयते = अनुष्ठास्यते।
 
@@ -8499,8 +7842,6 @@ Prince has made a request to you. It is the first of its kind. It deserves to be
 (11) Construe: आत्मनः कुशलतया निरवशेषं कुसुमरसं पीत्वा भ्रमरः यत् उद्गिरति तत् अन्येषांकार्यंकरोति।
 
  भ्रमर a bee as also a wanderer (the spy is required to do a good deal of wandering about for getting news). Both have their (characheristic) skill (आत्मनः कुशलता ), thanks to which the bee drinks (पीत्वा- fromपा to drink) and the spy learns (1) the juice i.e. honey from flowers कुसमानां रसं (मधु इत्यर्थः ) and (2) the essence (रस) of \[the happenings\] in Kusuma \[-pura\] i.e. Pātaliputra. Both give it out (उद्गिरति). Whatever is thus thrown out serves another's purpose. As is well pointed out by Prof. Dhorva रस-(1) to taste (2) to sound and उद् गृ—(1)
-
-
 
 to eject, (2) to utter; the प्राकृत 'अण्ण (अत्य) stands for bothअन्य and अज्ञ What the bee collects from flowers serves another's purpose. What the spy gathers in the course of his wanderings serves the purpose of those who know not \[like राक्षस here\].
 
@@ -8514,15 +7855,11 @@ to eject, (2) to utter; the प्राकृत 'अण्ण (अत्य) s
 
  The snake charmer (Virādhagupta) describes in the verse how due to the activities of minister राक्षस of course against चाणक्य and चन्द्रगुप्त Sovereignty does not embrace Candragupta whole-heartedly even now. The verse gives a graphic description of the partial embrace The Goddess of sovereignty has placed her left creeper like arm round the neck of Candragupta (but only) loosely (शिथिलम्). She has turned her face away from him. Her right creeper like arm placed on the shoulder of Maurya, per force, falle ∙again and again (मुहुः) on his lap. Afraid of the (political) activities उद्यम of राक्षस, Sovereignty does not place ( करोति ) her right breast, with the nipple (मुखं) pressed on account of ·the contact ( सङ्ग ) in a close (गाढ) embrace, on चन्द्रगुप्त's bosom.
 
-
-
  The details of the embrace are given soas to enable the reader visualise vividly the picture The left arm placed found the neck of, the face turned away, the right arm placed on the shoulder per force dropping down again and again on Candraguta's lap, the right breast not coming into close contact with Candraguta's bosom so as to have its nipple pressed hard-all are clear indications of the ner. vousness of the Goddess of Sovereignty-who but for राक्षस's activities would have long ago completed the act of giving a waris and close embrace to Candragupta, आशङ्काः अस्याः अस्तीति आशङ्किनी गाढं च तत् आलिङ्गनं च तेन सङ्गः तेन or तत्र पीडित मुखं यस्य सः तम् - if this be taken to be the adjective qualifying. It is better to take the compound as an adverb (क्रियाविशेषण)... पीडितं मुखं यस्मिन् कर्मणि यथा स्यात् तथा ( as is done in the translation p 55). It need hardly be stated that the figure of speech in the verse is स्वभावोक्ति. स्वभावोक्तिस्तु डिम्भादेः स्वक्रियारूपवर्णनम्। काव्यप्रकाश X. The metre is शार्दूलविक्रीडितम्.
 
   2. 12, 1 राक्षस half utters the name of the spy विराध- गुप्त being left out\] as soon as the latter approaches him. He realises his mistake and hurries to say 'this one has a beard grown \[far too much (vi)\]. As it is, this shows the confusion into which राक्षस finds himself thrown, because he is not a careful as चाणक्य. Prof. Dhruva takes ( इत्यर्धोक्ते विरूढस्मृतिः) as a stage direction etc., is what the term to,' and observes that has been wantonly changed This would have been acceptable fully if the were not to have caused another blunder on the part of राक्षस 'प्रियंवदक, भुजङ्गरिदानीं विनोदयितव्यम्' isanything but an indication that has regained his memory or that he it ‘rn.udful' of something. For 'सुकविरेषः। श्रोतव्यमस्मात्सुभाषितम्।' was what he had stated a little while ago. तद्विश्रम्यता... जनेन। त्वमपि स्व नियोगमशून्यं कुरु। is a polite way of asking the attendant to leave with the retinue is evidently keen on learning the कुसम पुरवृत्तान्त from विराधगुप्त and while doing so, wants no third party to be present.  
   2, 12, 8 राक्षस ispained to see विराधगुप्त who once served His
 Majesty Nanda (देवपादपद्म) reduced to such a plight as
-
-
 
 to wear the sort of apparel he had put on. is another proof of the sentimental nature of राक्षस.  
  \[ Page 56\] 2, 12, 7 नाट्येन in नाट्येनोपविष्टः। is meaningless and unnecessary-16 Reads are the Soy-- thians whose inroads commenced as far back as the 1st century B.C. शकस्थान and Afganistan are the same. The  
@@ -8534,8 +7871,6 @@ to wear the sort of apparel he had put on. is another proof of the sentimental n
 
  As the person in charge of the military forces in the hour of difficulty, is issuing instructions a शरासन is a bow. that from which arrows are discharged शराः अस्यन्ते अनेन or अग्मात् - प्राकार isthe city-wall raised for defence against attackfrom the enemy. 'Let bow-wielders quickly surround this wall and move about (ready to fight) quickly क्षिप्रम There is one क्षिप्रम् in the prose preceding 2, 20 ( 'प्रवीरक, .....क्षिप्रमिदानीम् But in भङ्गयन्तरकथनif the whole prose is seen to be paraphras
 
-
-
 ed in the verse, one, word viz, क्षिप्रम् for being repeated in theverse need not cause any surprise. (विप्र isan emendation for क्षिप्रम् —but the general rule is as far as possible emendations should neither be proposed nor accepted प्रतिद्विप —elephants on the enemy's side घटा—mass. प्रतिद्विपाना घटाः तासां भेदे (breaking, destroying ) क्षमाः(able) तैः द्विप isso called because the animal called by that name drinks with two (1) the trunk and (2) the mouth. द्विरदाः द्वौ रदौ (teeth, here tusks) येषाम् ते tuskers or elephants. These are to stand at the gates and destroy the elephants that would be used by the enemy with the purpose of breakidg open the gates of Pataliputra. Let those who set a high value on fame (यशः), giving up fear of death, desirous of attacking the weak force of the enemy (this is an estimate prompted by self-confidence of which the speaker is full), and of one mind with me, set out प्रहर्तुं मनः यस्य सः प्रहर्तुमनाः with the ‘म्’ in the infinitive form dropped according to 'तुमः काममनसोः' (Cf,गन्तुमनाः). The perspicuity (प्रसाद) in the verse is remark able. प्राकार परितः, द्वारेषु द्विरदैः, बले दुर्बले are alliterative effects worth nothing.The metre of the verse is शार्दूलविक्रीडित
 
  2, 13, 1 आवेग or excitement such as was shown by राक्षस was to no purpose. For a thing of the past, something that had already happened वृत्p p. p वृत) was being described or reported to him—4 उत्सृज्यmust be taken to mean putting back into the scabbard. राक्षसremembers how in the past (the word वृत्त has made him recall things to his mind), on the occasions of fighting, his master Nanda issued instructions- all of them addressed to and expected to be carried out by राक्षस as though there were a thousands राक्षस, at the disposal of the king.
@@ -8543,8 +7878,6 @@ ed in the verse, one, word viz, क्षिप्रम् for being repeated i
  (14) Construe : यत्र एषा मेघनीला गजघटा चरति तत्र राक्षसः यायात् पारिप्लवाम्मः 'लुति एतत् बलं राक्षसेन वार्यताम् पत्तीना बलं राक्षसः अन्तं नयतु इति मह्यम् आज्ञा प्रेषयन् \[त्वं\] प्रीतियोगात् राक्षसानाम् सहस्रं नगरे स्थितम् इव अज्ञासीः।
 
  The dark mass of elephants as dark as the clouds (in the rainy season)--the cavalry (Jumping i. e.) rushing as
-
-
 
 quickly as rolling waters पारिप्लवम् च तत् अम्मश्च तस्य इव प्लुति' यस्य तत्। the foot-soldiers (पत्तयः –पदातयः) or infantry, each one of these is expected to be counter-acted by Rāksasa. The master was so full of confidence in राक्षस'sabilities that he did not think it wrong to issue such instructions to the self- same राक्षस Affection (प्रीति) made the master blind to the fact that the instructions logically got themselves reduced to this-viz, an assumption by him that there were as though a thousandsराक्षस. The अलंकारcontained in the verse is उत्प्रेक्षाand the metre in which the verse is couched is स्त्रग्धरा(for the scheme vide notes on 1. 1.\]
 
@@ -8556,15 +7889,9 @@ Page 59, 2, 15
 
  राक्षसdescribes how the poison-maiden whom he had preserved (रक्षिता)to kill चन्द्रगुप्त, like the *s'aktı* Karna had reserved to kill Arjuna, instead of killing चन्द्रगुप्तand thus serving राक्षस's own purpose killed पर्वतेश्वर, whom चाणक्य (विष्णु- गुप्तहतक adcursed विष्णगुप्त ) wanted to killl, turning very much to the advantage of चाणक्य Between कर्ण's शक्ति and the विषाङ्गना employed by राक्षस,there is similarity as both were quite potent (बलवती) in regard to the object they were expected to
 
-
-
 achieve and (both) capable of killing one person (एकपुरुषव्यापादिनी) Both failed their employers— the शक्ति failed कर्ण, killing घटोत्कच, son of हिडिम्बा (and भीमसेन), whom विष्णु i.e. श्रीकृष्ण wanted to kill (as destruction of all demons was the purpose of the Kriṣṇa incarnation of God and asघटोत्कच, was a demon-this is the traditional explanation of Krisna arranging to have घटोत्कच killed ) and the विषाङ्गना killed पर्वतक or पर्वतेश्वर thus obliging the acoursed चाणक्य who was very eager to get rid of him, as otherwise half the promised kingdom would have been required to be given over to. There is an allusion to the story in which is first said to have parted with his सहजकवच(armour) and कुण्डल (ear-ring), as a Brāhmaṇa (who was in fact Indra) begged for them receiving from the begger \[Indra\] a missile capable of killing one person howsoever mighty he be. The latter part of the story shows how though this terrible weapon was reserved by कर्ण for killing अर्जुन, कर्ण had to use it against घटोत्कच as the latter played a great havoo with the Kaurava army Thus was Arjuna saved, The parallelisms are therefore between राक्षस - कर्ण, विषाङ्गना-शक्तिः . श्रीकृष्ण (विष्णु) – विष्णुगुप्त and पर्वतनृप andघटोत्कच The figure of speech in the verse is simile and its metre शार्दूलविकीडित 2.15 कामेन चारः ( चरणम् ) behaviour as one likes, wanton behaviour. 3 पितृवधत्रास fear on account of his father's i.e . पर्वतक's murder \[that the same may aswell happen to him \]- सांवत्सरिक an astrologer ( संवत्सर वेत्तीतिःसांवत्सरिकःas he knows what is going to happen in the course of the year). संस्क्रियताम्—सम्यक् क्रियताम् (the palace\] be rendered well i. e. attractive, let (it) be decorated. सूत्रधार here means a carpenter. कनकतोरणन्यासfixing up of a goldden arch--10 अभ्यन्तरे‘inside', as the external decoration was already completed (even before चाणक्य issued any orders to that effect). who kept up appearances (as proved later) that he was mightily satisfied दाक्ष्यं = दक्षतां कुशलताम् skill. प्रशस्य --- ल्यबन्त from प्र + शंस् to praise, having praised. अनुरूपम्worthy of, befitting, in proportion or commensurate with, there is, however, a sly hint that it would be quite suited to the *crime* that Dāruvarman had committed (Dāru- varman's object was to kill चन्द्रगुप्त. Dāruvarman's reward, therefore, would be nothing short of death).
 
-
-
  --14. (सोद्वेगम् ) राक्षस understands the significance of परितुष्टेन इव. He knew that चाणक्य could never be really satisfied by दारुवमन् etc. राक्षस's apprehension comes out to be true in the sequel. Page 61 2, 15, 17 अनुकूल favourable, लग्न constellation (of stars). 19-20 चाणक्यcleverly impresses the populace by giving half of the kingdom to वैरोचक. पर्वतक'sbrother. 24 --- 25 राक्षसrightly suspects that चाणक्य must have made the necessary arrangements to kill \[उपांशुवधsecret slaughter\] वैरोचकsecretly This too is a guess of राक्षसproved true in the sequel. 27-36 a long prose passage showing how was killed, being mistaken forचन्द्रगुप्तas it was the latter's female elephant that वैरोचक was made to ride by चाणक्य चाणक्य also had वैरोचक duly installed on the throne(कृताभिषेक).वैरोचक's apparel was so bright, nay, dazzling, that even those most intimate with him could not recognize him No wonder that the carpenter दारुवर्मन्took him to be Candragupta. The fact that चन्द्रगुप्त'skingly followers followed वैरोचक made दारुवर्मन् believe that it was चंद्रगुप्त himself-—an impression strengthened by the fact that वैरोचक rode चन्द्रगुप्त'sfemale elephant-—चन्द्रलेखा The astuteness of चाणक्य is astonishing. Not only did चन्द्रगुप्तno‘ fall a vorm to दारुवर्मन्'sयंत्रतोरण, but वर्वरक an assasin employed against चन्द्रगुप्त by राक्षस too got himself killed. Varvaraka was busy taking out a small sword from the golden-staff in which it was kept with a view to kill चन्द्रगुप्त. In the meanwhile the female Felephant saw the mechanical arch about to fall on her The 'गजवधू (चन्द्रलेखा) instinctively quickened her pace The यत्रतोरणwhich was calculated to fall onचन्द्रगुप्त did not fall, therefore, on (who occupied the seat that was to be occupied by चन्द्रगुप्त, but on वर्वरक who was seated on front of वैरोचक. The quickening of the pace of the female elephant resulted in the यंत्रतोरण falling wide of the mark \[ प्रभ्रष्टं लक्ष्यं (i .e. वैरोचकmistaken for चन्द्रगुप्त) यस्मिन्कर्मणि यथा स्यात् तथा\] दारुवर्मन् saw that his death was a certainty as he was causing the arch to 'fall. He had already secured for himself standing ground on an elevated platform supporting the arch. He took the iron wedge that kept the arch firm in its position acting as its key and killed Vairocaka who was yet on the back of the female elephant taking him to be चन्द्रगुप्त.
-
-
 
  In lines 28—30 above the compounds are (1) विमलाश्च तेमुक्तामणयश्च, तेषां परिक्षेपः(this being a Sanskritism for परिक्षिप्ताःमुक्तामणयः) तेन विरचितः चित्रपटः( variegated texture )तन्मयः वारबाणः (armour) तेन प्रच्छादितं शरीर यस्य तस्मिन् ( 2 ) मणिमयेन मुकुटेन निबिड( closely) नियमिता मौलिः(head) यस्य तस्मिन् ( 3 ) सुरभीणि (fragrant) कुसमदामानि (garlands) एव वैकक्ष्यं तेन अवभासितं विपुल वक्ष स्थलं \[i.e प्रशस्तं वक्ष. \] यस्य तस्मिन् वैवक्ष्य iswhat is worn over the left shoulder across the chest under the right arm like the sacred thread ( or यज्ञोपवीत worn by the Brāmanas )
 
@@ -8574,15 +7901,11 @@ achieve and (both) capable of killing one person (एकपुरुषव्य
 
  Page 65 57— पायितःp. p. p. of the causal of पा- पिब् to drink, 'was made to drink'— 58 विज्ञानस्य राशिःlit. heap i.e. store of knowledge. अतिसृष्टम् — p. p.p. of अति+ सृजto give, ‘given' 64 वाक्यभेदान् is a saaskritism for भिन्नानि वाक्यानि. When प्रमोदक
 
-
-
 was asked to account for the lot of wealth he was squandering, to explain how he came to acquire that wealth, he made many statements i.e. he could not give one reply and stick to it to the last. In other words, he could not give any satisfactory explanation and consequently was punished with विचित्रवध(line 64) i. e. killing by torture. There are many kinds ofविचित्रवध . History of the world—eastern countries as well as western ones—abounds in Buch cruel ways of killing the enemy. Being thrown from a mountain precipice, being crushed under an elephant's foot, being. thrown before hungry lions are some that will give an idea of the विचित्रता of वध practised by man against man. **\[Page 66\]** 72 निपुणम् very closely, minutely पिपीलिका ant पङ्क्ति row. 74 गृहीतःअर्थः येन सः गृहीतार्थःwho grasped the fact ; understood the fact i. e. came to the conclusion. 75 विहित p. p p. from अपि + 'घ (अपिहित –अdropped) to close, closed'. प्रथमं पिहितः निर्गमनस्य मार्गः यस्मात् that the way out from where was first closed. 77 दैवस्य संपद् तां दैवसपदम्— the wealth of luck i. e. the extremely favourable fortune. राक्षस thinks that all his attempts at getting rid of चन्द्रगुप्त failed on account of the extremely favourable fortune दैवसपद् ) of चाणक्य. It is evident from the account given by विराधगुप्त himself that it was चाणक्य's *extraordinary vigilance and resourcefulness, preparedness, that helped him to frustrate all plans set afoot by* a राक्षस राक्षस'sstatement is an outcome of despondency at the unfavourable turn that events have taken, rather than a critical esti mate of the situation, **\[Page 67\]** 2, 16.
 
  (16) Construe:— तस्य \[ चन्द्रगुप्तस्य \] वधाय या विषमयी कन्या मया गूढं प्रयुक्ता तयायः तस्य राज्यार्धहृत् सः पर्वतकः निहतः, शस्त्रेषु रसेषु च ये प्रणिहिताः तैः एव ते घातिताः मन्त्रीत्रयः मौर्यस्य एव विविधश्रेयासि फलन्ति, पश्य !
 
  The poison–maiden secretly employed by me for killing killed Parvataka who would have deprived Candragupta of half his kingdom. Those entrusted with the work of killing Candragupta with weapons (शस्त्रेषु प्रणिहिताः) and poison (रसेषु) were killed by just those means. (अभयदत्त died of
-
-
 
 the very poison he had kept ready for Candragupta But दारुवर्मन् who arranged for the fall of thearch—on, as he hoped, Candragupta——was pelted to death. Of प्रमोदक, वर्वरक also it is not literally true that तैरेव ते घातिताः. The statement is to be taken to mean 'the means employed to kill Candra— gupta instead of bringing about his death led to the death of the persons entrusted with that work in a general manner. राक्षस wants विराधगुप्त to see how his policies result in those various advantages being had by Candragupta himself. The verse_contains an instance of the विषम अलंकार ( vide कर्तुः क्रियाफलावाप्तिर्नैवानर्धश्च यद् भवेत् ... स एव विषमो मतः।). The metre of the verse is शार्दूलविक्रीडित. \[Correction of मौर्यस्येव which is wrong for मौर्यस्यैव is necessary\]
 
@@ -8592,14 +7915,10 @@ the very poison he had kept ready for Candragupta But दारुवर्म�
 
  For fear of obstacles the low (est) type of men do not´ undertake anything—do not so much as begin anything. The middling type of men begin all right, but being struck by impediments, stop pursuing their work any further. Though again and again struck by obstacles, the best among men do not give up what they have \[once\] undertaken. The verse occurs in भर्तृहरि'sनीतिशतक Deciding who wrote it— whether विशाखदत्त or भर्तृहरि is no easy task. It is not imposible that the verse belongs to that class of verses in old days which is called 'a floating mass of verses'—almost everybody's property, therefore the property of no one in particular. The reading प्रारब्धमुत्तमगुणात्स्वमिवोद्वहन्ति may appear to be more suited to the context. But actually it contradicts the prose passage preceding the verse तथापि अपरित्याज्यमेव. It has, therefore, to be rejected. The metre of the verse is वसंततिलका. In the same vein is 2, 18.
 
-
-
  (18) Construe: —शेषस्य वपुषि भरव्यथा चकिं !यत् \[असौ\] क्ष्मा न क्षिपति, दिनपतेः परिश्रमः किं वा न अस्ति यद् \[असौ\] निश्चलः न आस्ते ? किं, तुश्लाघ्यःजनः अङ्गीकृतं \[ कार्ये\] कृपणवत् उत्सृजन् लज्जते, प्रतिपन्नवस्तुषु (निर्वाहः— एतत् हि सता गोत्रव्रतम् \[अस्ति \]।  
   (1) Does S’eṣa not feel pain on his body on account of the burden of the earth \[resting on his hoods\], in so far as he does not throw the earth down from his head? (2) Does the lord of the day i. e. the sun not have fatigue, in so far he is not \[seen to be\] remaining motionless i. e. in so far as he is ever moving. ever active, ever traversing his path in space? These are two instances of प्रश्नालंकार as the answers to the questions are already contained in them. The particular instance of शेष and दिनपति are stregthened by the general proposition in line 3— \[श्लाघ्यःजनःi. e. the class of praiseworthy persons, are ashamed to give up the work they have undertaken, in the manner of a mean \[lit. miserly\] creature. प्रतिपन्न (undertaken, accepted, begun) वस्तु thing."matter. निर्वाहः— नितरां वाहःseeing through, completing ( निर्व्यूढि or निर्व्यूढम् variant readings for निर्वाहःmean the eame thing) is the \[very\] family—vow of the good i.e. the good, as a rule, would carry out their undertaking. No family—vow is everabandoned by those who care for the fair name of their family\]. निर्वाह in Sanskrit thus is different from निर्वाह a (main— tenance) in modern Indian languages. The figure of speech thin the verse s सामान्येन विशेषस्य समर्थन kind of अर्थान्तरन्यास.
 
   2, 18, 1 राक्षस points out that it is only patent that the principle viz. what is undertaken should not be given up, is being followed by him (in so far as the activities calculated to bring about the overthrow of चन्द्रगुप्त commeuced by राक्षस have not been abandoned by him.) 2 सहस्रगुणम् a thousand times अप्रमत्तः not careless i. e. vigilant— 4 Naturally isराक्षसexcited to learn that his trusted men (आप्तपुरुषाः) have been put Into prison by चाणक्य, The repetition के के shows that राक्षस is very keen on ascertaining which of his lieutenants have been imprisoned—that many of them were seized by चाणक्य being self—evident. 6 जीवसिद्धि is not a person leading a family life. He has neither property nor paraphernalia (परिग्रह
-
-
 
 means both) — 9 राक्षस appreciates the performance of चाणक्य which राक्षसobserves has brought about a manifold advant— age (बहुफलता)inचाणक्य's favour. चाणक्य has killed three birds in a single stone as is shown in 2, 19.
 
@@ -8611,13 +7930,9 @@ means both) — 9 राक्षस appreciates the performance of चाणक
 
  Raksasa concedes he has resorted to 1.0. is keen on this very object and not on merely living. The fact, however, remains that the master departed to the yonder world is not followed by him. Thus राक्षस failed to reach the highest
 
-
-
 standard of devotion to the master. कृतघ्नैः अस्माभिः has all the force of कृतघ्नत्वात् अस्माभिः. The verse would then be an instance of the काव्यलिङ्ग अलंकार. This verse, like the preceding is in, the आर्या metre. The reading given in the footnote on p. 70 seems to be a deliberate improvement, particularly so, the " contrast betweenराक्षस's 'कृतध्नैः' and विराधगुप्त's 'कृतज्ञैः' Read 'युष्माभिरमुमेवार्थमालम्ब्य न जिजीविषाम् —' in the passage assigned to विराधगुप्त.
 
  2. 20. 1 विराधगुप्त had said 'चाणक्यहतकःनिगृहीतवान्..... युष्मदीयान् (आप्तपुरुषान्, राक्षस is, therefore, mentally prepared to hear about the calamity of one more friend of his, at least (आप्तपुरुषान् isबहुवचन). —3 The removal of राक्षस's family by Candanadāsa (राक्षस rightly says was improper as it was opposed to चाणक्य's wishes—4 विराधगुप्त loses no time to point out that not removingKing राक्षस's wife and son, thus leaving them at the mercy of the wicked चाणक्य would have been even more improper as it would have been nothing short of a friend's betrayal (द्रोह) 4 ननु — I would like to submit अयुक्ततरः सुहृद्रोहः isa fine instance of अप्रस्तुतप्रशंसाfor, what विराधगुप्तreally wanted to say was नन्त्रयुक्तरो भवद्द्रोहः; instead he states a general proposition.—6–7 अतिकुपितेन चाणक्यबटुना leads राक्षस to the only conclusion possible under the circumstances, and therefore, eagerly, excitedly asks 'was not killed, indeed ?' \[Page 71\] Though relieved to learn that चंदनदास was not killed, राक्षसis not in the least 's being thrown into the Batisfied. The safe removal of ' J ' prison, along with his wife and son, is in the eyes ofराक्षस the same as his own wife, and son being thrown into the prison_along with himself. चंदनदास is राक्षस's सुहृत्तम द्वितीय ह्रदयम् his very alter ego (p. 20, 1, 19, 44 and p. 21. 1, 1946) The calamity that has befallen चन्दनदास is toराक्षस the same thing as calamity that has befallen him.—12 The stage dize— ction should be ( प्रविश्य पटाक्षेपणे) and not ( प्रविश्य ) only. The rule is that no character should enter the stage unless the entrance is duly_tndioated beforehand —नासूचितपात्रमवेशो भवेत् — in the earlier dialogue between the characters on the stage. All sudden or unexpected entrances, therefore, are made with the tossing of the curtain. The tossing of the curtain is to be done by the character entering on the stage. Thus the attention of the audience is drawn to the new entrant.
-
-
 
 Here पटाक्षेपis absolutely necessary. 12—15 The man givés राक्षसnews that राक्षस never expected to have—not even in the wildest of his dreams. The question 'अपि सत्यम्' is this true?) is thus quite natural. The man answers by putting a counter question 'shall I ever tell what is not true to the revered minister?' 16 राक्षसhas to turn for an explanation to who, on the occasion, could give hardly anything better than 'भव्यं रक्षति भवितव्यता'i. e. destiny ( भवितव्यता) protects the fortunate (भव्य) lit, 'One who is to be',विराधगुप्त had told what he knew, but he too was not prepared for this last, quite agreeable, turn the event had taken. No better ex— planation suggested itself to him and therefore is he seen to be trying to account for the event by referring to the impredictable ways of destiny. 'Impredictable',विराधगुप्तwould like to say (and not 'inscrutable'), 'are the ways of destiny,' In lire 17 सखे विराधगुप्त the mention of विराधगुप्त's name by राक्षसneed not be regarded as a slip of tongue on the part of राक्षस. Obviously, he now saw no point in concealing the identity' of विराधगुप्त from प्रियंवदक, 19 — As is only to be expected, राक्षस does not want any delay in शकटदास's being ushered in \[Page 72\] 2, 21.
 
@@ -8625,32 +7940,22 @@ Here पटाक्षेपis absolutely necessary. 12—15 The man givés र
 
  S'akaṭadāsa is accounting for his having survived the direst experience of his life when he was led to the exe— cution ground for being impaled. He saw the stake (शूल) well planted in the ground without being shocked at it, for, he had seen Maurya with his (sovereign) position well establish— ed, already. If शकटदास wore (ऊढवा is ल्यबन्न from वह्to put on, wear) the victim's garland \[otherwise\] destroying the consciousness \[of the wearer\], without being deprived of his consciousness, that was due to शकटदास's having already put up with the glory of Maurya. One who could put up with the almost fatal glory of Maurya, could as well put on the almost fatal garland of the man to be executed शकटदास
 
-
-
 heard the sounds of the trumpet \[blown at the time of\] killing (आघात) a man, terrific, very harsh (विषमान्) though they were, because he was in a way used to it. Already' had he heard the sounds of the trumpet, terrific and harsh at the time of the removal (अपरोप) (from the throne and the world of the living) of his master Nanda. The mind not being destroyed, S'akatadasa thinks, is explicable only on one ground viz. that it had become hard or tough enough on account of the previous (प्रथमे) strokes. In lines 1, 2 and 13 there is an उपमा each मौर्यमित्र शूलम्, लक्ष्मीमिव वध्यस्रजम्, स्वामिनः अपरोपे इव रौद्रान् विषमान् तूर्यस्वनान्, प्रतिष्ठितपदम् is a श्लिष्ट or parano— mastic term to be taken *laterally* of the शूल and *metaphorıbally* of मौर्य, प्रथमे च ते अभिघाताश्च तैः कठिनम् — this has the force of प्रथमाभिघातकठिनत्वात्. The fourth line thus contains an ins— tance of the काव्यलिङ्ग अलंकार. The verse is couched in the शार्दूलविक्रीडित metre. 2,21, 1 शकटदासisglad to see राक्षस continu— ing his work —nay mission—in a manner worthy of the highest devotion he had to his master. 2,22, is in appreciation of the high standard of स्वामिभक्ति reached by राक्षस.
 
  (22) Construe — नन्दे क्षीणे अपि स्वाम्यर्थम् उद्वहन अक्षीणभक्तिः \[ सन् \] पृथिव्यःस्वामिभक्ताना परमे प्रमाणे स्थितः।
 
  Nanda is no more but in spite of that राक्षस carries on (उद्वहन्)the mission of his master.His devotion to the Thus has राक्षस 's master is, therefore, in no way reduced. attained the highest standard ( प्रमाण— प्रकृष्टं मानम् excellent measure) of people devoted to their masters. Cf. appreciation of 's devotion to his master at 1, 14 & 15, नन्दे क्षीणेऽपि अक्षीणभक्ति illustrates the विभावना अलकार. The cause for devotion is departed—yet the devotion is there \[perhaps on that very account at its best\]. Read: \[i.e . कारणस्य\] 'प्रतिषेधेऽपि फलव्यक्ति \[i.e. कार्यव्यक्ति \] र्विभावना।काव्यप्रकाश, X. उद्वहन् = उद्वहतीति हेतोः There is thus also contained in the verse \[of the :type\]. The metre of the verse is अनुष्टुभ्. 2,12,2 कौटिल्यगोचरगतः कौटिल्यविषयगतः gone into the sphere i.e. the grip or the clutches of कौटिल्य. The unexpect— ed, miraculous escape शकटदास of has made राक्षसall full of joy. Hence the eagerness to embrace the friend (तत् परिष्वजस्वमाम् ). – 5 राक्षस inquires as to who has rescued S’akatadāsa
 
-
-
 from the execution—ground and thus given such a delight to राक्षस's heart. 6—7 शकटदास points but सिद्धार्थक to whom goes the credit for the almost miraculous escape of शकटदास. विद्राव्य— ल्यबन्त of the causal of वि + द्रु 'having put to flight' – 8 पर्याप्त— adequate. Though this is no adquate reward of the service you have rendered, please accept this ' राक्षस says in all sincerity. He takes off the ornaments from his person and hands them over to सिद्धार्थक. This is precisely as was expected by Cāṇakya. Rākṣasa is too full of joy to recollect that these are ornaments specially presented to him by Malayaketu (see 2. 10, 3—5) and such as ought never to have been given away by him as a gift to anyone. The apparently innocent gift, doing credit to राक्षस, so far as his sin— cerity towards his friends in concerned, is seen to work a havoc, later in the play (Act V). भागुरायण observes there —' विशेषत. कुमारेणात्मगात्रादवतार्य प्रसादीकृतस्य अयं परित्यागभूमिः।—16 According to चाणक्य's instructions, सिद्धार्थक requests राक्षस to keep the gift as a deposit in his treasury.निः+वृतhappy, free from worry. 17 एतया मुद्रया मुद्रितम् — stamped with this ' signet—ring \[of राक्षस i.e\] hearing the name of राक्षसas शकटदास points out in 21—22—23 राक्षस recalls that the ring was given by him to his Brahmana wife with a view to helping her divert her eager longing in his absence from पाटलिपुत्र (Refer to 1, 17, 72 – 80 for the account of how सिद्धार्थक got the signet—ring). In line 23 read उत्कण्ठाविनोदार्थ गृहीता—27मणिकारश्रेष्ठी is one word. 28 राक्षस is satisfied, regarding the place where सिद्धार्थक got the ring and therefore says 'this is quite proper'. 30 राक्षस, however, checks himself and witsout giving all the details says 'that such an ornament should be found near a wealthy person's place of residence is only meet ( युज्यत ) ' 31 — 35 शकटदास's request that सिद्धार्थक should return the signet—ring accompanied by the offer of an adequate or more than adequate compensation is natural, judg.ng from his close friendship with राक्षस. सिद्धार्थक's politeness ( ननु प्रसाद एष... करोति। ' ) well becomes an accomplished spy of चाणक्य राक्षस's readiness to accept the signet—ring, which for some days was with his ब्रह्माणी, and which but for the fortunate accident of सिद्धार्थक's getting it would have been lost, too, is natural. 36. But his instruction to S'akațadāsa to use this
-
-
 
 very signet ring for all (state—) purposes, is strange. Was there no other ring in राक्षस's possession? Or are we to seek an explanation in the circumstance that राक्षस, a loving, husband, sees a special point in using the very signet—ring that was given to his wife, for the purposes of all official deal— ´ings, that this 'lost regained' signet—ring had a special appeal, probably for ministerराक्षस, who in spite of his multifarious activities as a statesman was a गृहस्थ a पतिdeep down in his heart? 4 Or are we to understand that राक्षसwas using this very signet—ring for such purposes before he fled from पाटलिपुत्र(to attack the same again) ?-and all that now" happens is a mere resumption of the previous practice? At a later stage in the play (Act V), the ornament stamped with the signet—ring, the letter stamped with this very signet—ring (see Act I, 20, 13—14) go against राक्षसwhom मलयकेतु take to have been in league with Candragupta. Siddhňrthaka is out to convinceराक्षस that he (सिद्धार्थक)is opposed to चाणक्य. The term चाणक्यबटु' Chap of a Capakya' is full of contempt for चाणक्य and, therefore, such as would please राक्षस – 44 welcomes the proposal of सिद्धार्थक to stay on there only. In a पर्यायोक्त manner,राक्षस says 'we wanted to make a request to you (अस्मदनुनय)—only we did not know your mind and hence the delay" राक्षस47—48 राक्षसas seen, instruction to शकटदास that the latter should make necessary arrangements to give
 सिद्धार्थक the much reeled rest and also has the required privacy, to ascertain fr in विराधगुप्तwhether the secret overtures (उपजाप) made to Chandragupta's subjects are favoured by them 52 प्रकाशमनतिक्रम्ययथा स्वात्तथा i. e. far asis seen or evident, manifest. \[Page 77\] 54—55राक्षस gets an important bit of news that Candragupta is angry with Canakya since the escape of मलयकेतुand that Canakya too, very much given to pride. causes the displeasure of Candragupta, by various violations of the latter's commands. 56—60 राक्षस arranges to ses that Candragupta becomes all the more angry with Canarya. The bard स्तवकलशwould serve his purpose admirably well in this respect, he knows. That स्तनकलशis too inappropriate a name for a bard is obvious, especially in the light of the appropriate names
-
-
 
 such as निपुणक, सिद्धार्थक, etc. that the author has given to other characters. 64—68 is so mightily pleased with शकटदास's safe return and the news of a split or clash almost complete—between चन्द्रगुप्त and चाणक्य, that he readily grants permission to शकटदास to purchase the valuable ornaments. These ornaments are the same that विश्वावसुand bis two brothers received from चन्द्रगुप्त. They were formerly worn by पर्वतक. In Act V, राक्षसputs these on and sees Malayaketu, while the ornaments sent to him by Malayaketu are found with सिद्धार्थकwho says he is carrying a letter from राक्षस to चन्द्रगुप्त.Thus is brought about a split between राक्षस andमलयकेतु, making it very easy for चाणक्य to defeat मलयकेतु's army.—71 अथवा सिद्धमेव... पश्यामि'How ill—founded is the optimism of राक्षस ! 'सर्वः कान्तमात्मीयं पश्यति।' (Kaladāsa in Sakuntala) should be changed into, one naturally feels, सर्वः अनुकूलम्आत्मनः पश्यति।' —the प्रतिकूल managing to conceal itself from all so well—समीहिनम्—a thing eagerly longed for सिद्धम् accomplished.
 
  {23) Construe:—सर्वभूतलभुजाम् आज्ञापकः मौर्यः तेजसि वर्तते, अयं \[वृषलः\],मदाश्रयात् राजा अभूत् इति चाणक्यः अपि जातस्मयः \[अस्ति\], लब्धान्तरा कृतकृत्यता एव राज्यप्राप्तिकृतार्थम् एन \[मौर्ये\] तीर्णप्रतिज्ञार्णवम् \[चाणक्यम् च\] नियतं सौहार्दात् भेत्स्यति।
 
  Candragupta is at the height of his valour (तेजस्) and as such he has attained the position of one whose commands' are : “plicitly_oheyed by all kings ( सर्वेषां भूतलभुजा राज्ञामित्यर्थः आज्ञापकः ) चाणक्य too is filled with arrogance ( स्मयः— pride, arrogance), at the thought this Vrsala attained kinghood, thanks to mus. This very feeling of having achieved every. thing worth achieving (कुतं कृत्यं येन सः कृतकृत्यः, तस्य भावः कृतकृत्यता) will sever the two—one i. e. king Candragupta who is altogether pleased on the acquisition of the kingdom and the other i. e चाणक्य, who has the supreme satisfaction that he has crossed the ocean of his difficult vow \[of destroying the Nandas\]. Their friendship (सौहार्द) is sure to be ter— minated, before long. The idea isthat Candragupta is sure to feel offended by Canakya's pride when all the rulers on the surface of the earth are obeying his (चन्द्रगुप्त's)
-
-
 
 orders meekly. Câṇakya too would never submit to Candragupta who has been made a 'king' by him. लब्धम् अन्तरं (scope or technically failing, weak point-the same as , 'छिद्रम्') यया सा लब्धान्तरा. The figure of speech in the verse is अनुमानas is brought out by the word expressing it viz .नियतम्,\[ Read अनुमानं तदुक्तं यत्साध्य (—here सौहार्दभेदः) साधनयोः(— here कृतकृत्यता ) वचः। काव्यप्रकाश X — ; though it has to be noted that the साध्य andसाधन are not those explained by logicians—but such as poets mention with a view to literary beauty. The verse is couched in the शार्दूलविक्रीडित metre.
 
@@ -8660,15 +7965,11 @@ orders meekly. Câṇakya too would never submit to Candragupta who has been mad
 
   At the other end of the stage, presumably, is seen minister राक्षस, anxious and waited upon by a man-servant, The minister is all grief, as the family of his master, even like that of the यादवऽ has become extinct, thus rendering his political activities as meaningless or purposeless, or
 
-
-
 better baseless, as the painting of an artist who has no canvas-board (verse 4). The only motive prompted by which the minister is busy putting various plans into prac- tice is serving the dead-master, by killing his enemies The minister is pained to see that sovereignty has of late behaved like a wanton woman, thus showing an absolute lack of the sense of appreciation. Were it not for the proverbial fickle- ness of the mind of women, explaining Sovereignity's choice of the low-born son of Murā as her husband, would have been very difficult, he says. But the minister is bent on nipping the mischief in the bud. He has resolved to destroy the very resort of Sovereignty-viz., Candragupta.
 
   With that very end in view did he keep his wife and son at Candanadasa's in Pataliputra, and leave the city, so that the inhabitants of the city should have no doubt regar- ding his keenness on attacking पाटलिपुत्र Those in पाटलिपुत्र and siding with him would thus be assured of राक्षस's coming back soon and they would not be slack in their own efforts, शकटदास with a huge treasury at his command has been appointed to collect assasins and poisoners who would help them kill Candragupta. Friends like जीवसिद्धि have been capt busy getting news from the enemy circle and effecting a breach between persons on the enemy-side thus breaking their unity. Only the invisible Fate should not wantonly interfere and shield Candragupta. With this negative co- operation from fate, the minister is confident, he would break the very vitals of the ungrateful son of his Majesty Nanda, with the shaft of his intelligence.
 
   At this juncture enters the Chamberlain of Malayaxetu the respected (ārya) Jājali. He has brought a message from Prince Malayaketu that the minister be pleased to put on the ornaments sent by him (Malayaketu), taken off as they are, from his own person. The memory of the excellent qualities of the departed master was sure to be ever too fresh in the mind of the minister. But it was a fact that Malayaketu too was pained to see the minister without any ornaments on. राक्षस first declines the request, saying that *till the golden throne of Malayaketu is established in*
-
-
 
 *the Suganga palace,* he would not do so, though the excellent qualities of the Prince had already made the minister forget the merits of the departed master. On the Chamber— lain's pointing out, however, 'this is the first request made to you by the Prince,' राक्षस concedes the same. Having ' placed the ornaments on the minister's body personally, the Chamberlain leaves.
 
@@ -8676,25 +7977,17 @@ better baseless, as the painting of an artist who has no canvas-board (verse 4).
 
  Raksasa dismisses his attendant and the retinue and Inquires of विराधगुप्त as to what took place in पाटलिपुत्र. विराधगुप्त narrates how, when the city was surrounded by the vast armies consisting of many tribes led by चन्द्रगुप्त and पर्वनेश्वर— alk under the guidance of चाणक्य — सर्वार्थसिद्धि the last scion of the Nanda family went out of the city by an underground passage. Even in thus leaving the city's सर्वार्थसिद्धि's only purpose was to minimise, if not put an end to, the hardship that the subjects—the citizens of कुसुमपुरwere being subjected to. The effort of the armies of राक्षस got slackened. राक्षस himself left the city by an underground passage only to restore the Nanda—rule to the city. The poison—maiden, employed by राक्षस against चन्द्रगुप्त killed poor पर्वतेश्वर instead, Malayaketu fled, apprehending he would be (as पर्वतेश्वरson) the next victim, Vairocaka, Parvataka's brother was taken into confidence—or rather confidence was inspired in him— and all carpenters were invited and told that at the mid— night hour, fixed as auspicious by the astrologers, would Candragupta enter the palace of the Nandas. The carpenters were further asked to decorate the entire palace, beginning from the eastern gate. The carpenters told चाणक्य that they
 
-
-
 had done all external decoration even already, anticipating the order and that only the interior was to be decorated yet. Canakya feigning to be gratified told the carpenter Dāruvarman 'you will get a reward quite worthy of this cleverness of yours, before long. Announcing the hour of चन्द्रगुप्त'sentrance into th Nanda-palace to the citizens, Cāṇakya made Vairocaka share the same seat with Candragupta, there and then, and gave half of the empire to Vairocaka. But at the appointed hour, the astute Canakya made Vairocaka ride the female elephant usually ridden by Candragupta. It was Vairocaka who was first to have entered the Nanda palace, his dress and ornaments so gorgeous that not even the most intimate acquaintance of his could recognize him. Naturally Daruvarman mistook him for Candragupta and kept the mechanical arch all too ready to fall on him. Meanwhile the female elephant instinctively became aware of the danger ahead, and for self—protection, lest the arch fell on her hips, quickened her pace. As a result Varvarka, the mahout of Candragupta, employed as an assasin by Raksasa against Candragupta, got himself crushed under the arch. He did not even get the opportunity to use the small sword against Vairocaka, whom he too took to be Candragupta. Daruvarman then took the iron—wedge controlling the arch and killed poor Vairocaka with it—thinking it was Candragupta whom he was killing. Daruvarman was not allowed to survive this fatal attack against Vairocaka. Soon was he pelted to death by the infantry—folk marching ahead at Vairocaka. The physician अभयदत्तgot a poisonous mixture ready for Candragupta. But the accursed चाणक्य seeing mixture change colour in the golden vessel, made अभयदत्त himself drink the same. Thus was चन्द्रगुप्त saved from the रसद, the रसद himself being required to die. Pramodaka, appointed to the bed—chamber of Candragupta began spending lavishly. Not being able to give a safisfactory explanation, how he came to have so much wealth, he was put to death by torture by चाणक्य, Bibhatsaka and others, who had come into the palace already by an underground passage and who were entrusted with the work of finishing चन्द्रगुप्त met a terrible kind of death
-
-
 
 themselves. Before चन्द्रगुप्त, चाणक्य and entered the bed-chamber and seeing a row of ants with rice particles in their mouths concluded that the chamber had already some persons in it and he had it set on fire. Fate thus frustrated all the measures adopted by राक्षस to undo the enemy. Raksasa then learns how जीवसिद्धिwas banished from the city on the mrge that he directed the poison-maiden employed by राक्षस, against पर्वतक. He learns further how was शकटदास impaled on the stake on the charge that he was responsible for the activities of दारुवर्मा etc. aiming all at killing चन्द्रगुप्त. Finally, he learns that his dearest friend चन्दनदास inourred he displeasure of the accursed चाणक्य incurred. by refusing to surren- der minister's राक्षस's wife and son, and thus got himself put into prison, with his wife and son.
 
   Just at this moment, enters a man servant announcing "the arrival of S'akațadāsa, who is waiting at the door' as he says, Raksasa has शकटदास ushered in no time and is beside himself with joy on having his friend restored to him, though he had gone into the clutches of चाणक्य. The long embrace of राक्षस and शकटदास over, राक्षस asks who was to be thanked for the miraculous escape he had from the exeoution-ground. Learning that it was सिद्धार्थक who accomplished the practically impossible, राक्षस gives away the ornaments on his person to सिद्धार्थक The latter asks permission to keep them in राक्षस's trearury on the plea that he was a stranger there. He has them stamped with the signet-ring he has brought with him, saying he would take the ornaments back, when necessary. The signet ring is recognised to be inscribed on it. राक्षस's own, as it has the minister's name inquires how came to have the ring and learning that had found it near the residence of चन्दनदास, is satisfied राक्षस recollects that he had given the ring to his wife, before leaving कुसुमपुर but manages not to divulge this last detail to सिद्धार्थक (though the latter knows it already). The ring is then returned by सिद्धार्थकto राक्षसvery gladly-'that the minister is accepting it from me is a favour he is doing to me' he says declining to have more than adequate amount that शकटदास said would be offered to him for the ring. Raksasa asks शकटदास to use
-
-
 
 this very ring for all state-purposes. सिद्धार्थकrequests राक्षस to be permitted by the latter to stay there only, for, he can pot goback to पाटलिपुत्र, having offended चाणक्य. राक्षसisonly too glad to grant the permissionशकटदास and सिद्धार्थक are made to retire for rest by the minister who is only too eager to know the atest news of happenings in पाटलिपुत्र. विरागुप्त tells him that the overtures made to चन्द्रगुप्त's subjects are sure to bear fruit. As far as can be seen, he adds, a clash between चाणक्यand चन्द्रगुप्तis sure to occur before long. The former is all full of pride; the latter is dis-satisfied with चाणक्य, since मलयकेतु's departure.The news isvery much heartening to राक्षस. He asks विराधगुप्तto go back even as the same snake-charmer to पाटलिपुत्रand convey a message to राक्षस's friend स्तवकलशwho is a bard by profession 'Every opportunity to incite चन्द्रगुप्त against चाणक्य should be seized, whenever चाणक्य violates चन्द्रगुप्त'scommand, 'isthe message विराधगुप्त is to communicate to स्तवकलश and he is also to be informed that the effect should he conveyed buck through Karabhaka
 
  No sooner has विराधगुप्तleft, than does the man servant enter again to inform राक्षसthat शकटदासrequests the minister personally to see three sets of अलंकारऽthat are for sale ; राक्षस is so pleased with शकटदास'sreturn and the news of an impending conflict between चाणक्यand चन्द्रगुप्त that, without a moments' thought he asks the servant to inform S'akatadasa that the costly ornaments be purchased, 'having given the dealer full gratification' The man-servant leaves and राक्षस decides to send Karabhaka to Pataliputra. He rises from his seat hoping that a rupture between चाणक्य and चन्द्रगुप्त is brought about. He imagines it to be already accomplished. The act closes with राक्षस's inference that a sense of having accomplished all that was worth accomplishing, sovereignty from the point of चन्द्रगुप्त view of and the fulfilment of the vow of destroying the Nandas from that of चाणक्य, is sure to bring about the termination of their extremely cordial relations.
 
 **----------------**
-
-
 
 **Act III**
 
@@ -8704,15 +7997,11 @@ this very ring for all state-purposes. सिद्धार्थकrequests �
 
  The Chamberlain recalls that time was there when with the help of the sense-organs such as the eye etc., having perceived the objects such as the form रूप etc., Desire managed to bring about her own existence (आत्मलाभ.) \[in the pеrson of the Chamberlain\] But the functions of the nature of apprehending (अवबोध) their respective (स्व) objects (अर्थ) have *not*\[as a result of old age\] been destroved (हताः, in these sense-organs. Not only have the sense-organs thus suffered. Other organs—action organs—or loosely 'limbs' (अङ्गानि) such as the hands, feet, etc. are perforce giving up their quickness, sharpness or skill (पटुता). They are becoming dull, inevitably dull, in other words. Formerly they used to carry out most faithfully the commands of thine, no doubt, O Desire,—but at present age has planted her feet on thy \[very head In vain (मुधा) art thou pining (ताम्यसि). तृष्णा having her own existence' has a meaning only when the sense-organs of a person who entertains her, run hither and thither in search of their objects ( चक्षुः श्रोत्र, त्वक्, जिह्वा and घ्राण run after their objects रूप, शब्द, स्पर्श, रस and गन्ध respectively). By लाभ, लाभ worth the name is meant. The second word in the fourth line of 3, 1 is मूर्ध्नि (not मूर्ध्नि ) 3, 1,1. For आकाशे. compare आकाशेin 2, 1, 1 and contrast both with प्रत्यक्षवादाकाशे लक्ष्यं बद्ध्वा in 1, 27, 2 and आकाशमवलोकयन् in 2, 5, 1. The latter two are cases of apostrophizing. The former are measures ofeconomy. रमणीयतरं—already thecity was charming but it would be *all the more* (तर) so, when the
 
-
-
 moon-light festival would be celebrated \[lit, started प्र + वृत् to start\] in it. प्रासादस्य उपरिभूमयः—the terraces of the palace. —4-5 the persons within the hearing of the Chamberlain 'but not within the sight of the audience ask the Chamber. lain 'Does His Majesty not know the prohibition of the moon-light festival (already ordered)?' The Chamberlain advises the persons better not to introduce such a talk as is sure to lead them to their instantaneous death. Carry out His Majesty's command and don't bother yourself about the prohibition, if you care for your life'. This is what the Chamberlain is conveying. In line 6, read शीव्रमिदानीम्(not शीघ्रमदानीम् ).
 
  (2) Construe:—संपूर्णेन्दुमयखसंहतिरुचा सच्चाभरणा श्रिया गृहीतधूपसुरभीन् पिनद्धस्रजः स्तम्भान् आलिङ्गन्तु सुचिरं सिंहाकासनवारणात् संजातमूर्च्छाम् इव गा चन्दनवारिणा \[कृतः \] सकुसुप्तःसेकःक्षिप्रम् अनुगृह्णातु च।
 
  Let the splendour (lit splendours श्रिय.) of fine *showries*possessed of the brightness (रूक्) of a mass (सहति) of the rays (मयूख) of the moon, embrace the pillars. This is a पर्यायोक्ति fashion of saying 'let the bright chowries le waved about the pillars, the latter thus getting themselves beautified.' The pillars have garlands ( स्रजः) left susued from them or tied to them (पिनद्ध p p p. from अपि + नह् lit, to wear, therefore worn). And let a sprinkling made with sandal (paste-mixed) water favour or oblige the Earth (गाम्—accusative singular of गौः= Earth), sprinkling with flowers \[also used\]. Let Earth be favoured quickly ( क्षिप्रम् ), as she has been in a swoon (सजाता मूर्च्छा यस्याः सा ), as it were (इव), on account of having supported the \[seat with the lion's mark ie. the \] throne for long—very long (सुचिरम्) \[ ifideed\]. पिनद्धस्रज as also गृहीतधूपसुरभीन् are here taken as adjectives qualifying स्तम्भान्—pillars with garlands tied to them, for decoration purposes of course, and fragrant, as they have received (गृहीत) the incense (such as black a *guru*etc) burnt on ceremonial occosions with a view to purify the air. In lines 1 & 2, there is पर्यायोक्त अलंकार, in line 3... धारणात् संजातमूर्च्छामिव is contained a हेतूत्प्रेक्षा as the post fangies that the earth-(personified) fell into a swoon *because* she had
-
-
 
 for a long while been shouldering the very heavy burden of the throne Line 4 'सेकः गाम् अनुगृह्णातु' contains another instance of पर्यायोक्त in it For the plain meaning is, let the earth be sprinkled. ‘पर्यायोक्त विना वाच्यकत्वेन यद्वच' विना वाचकत्वेन isभङ्ग्यन्तरेण as stated in काव्यप्रकाश.The metre of this verse *as also of the previous one*, is शार्दुलविक्रीडित.3,2, 1–2. The Chamberlain wants the citizens to carry out His Majesty's order without the least delay. For, 'here hath \[already\] come His Majesty Candragupta,' he says.
 
@@ -8720,15 +8009,11 @@ for a long while been shouldering the very heavy burden of the throne Line 4 '�
 
  The comparison between an experienced king and a bull used to be at the yoke (धुर्य) as also that between a young inexperienced king \[or prince\] and & raw bull. yet requiring training (दम्य) is quite common In Sanskrit. A mong others Kalauāsa speaks of the members of the senter and junior generation of the ruling race of. रघु's in these very terms. The senior is धुर्य, the junior दम्य \]. The heavy yoke i. e responsibility of the earth which his experienced father bore ( ऊढा p.p.p. of वह्to bear, lit. was borne), with his limbs (physical) quite confident (about their capacity) i. e 'firm, metaphorically अङ्गैः= with the subordinate members of the body-politic fully confident, or worth elying upon\], for quite a long period of time, and which he bore without \[ever\] deviating \[for stumbling\]. Even on paths which were very difficult *vasama*, lit. uneven, rugged, rough—that same yoke, this spirited Candragupta has resolved to resolve, ( वि+ अव+ सोto resolve determine) to carry aloft (ऊच्चैः) in his young age (नवं वयः). Due to his being inexperienced, he stumbles \[even like a raw bull first made to pull a cart or chariot\] but is not pained on that account (or feels not sorry for the same a all). Evidently, the verse is a glowing tribute to the प्रभुशक्ति and उत्साहशक्ति of the विजिगीषु चन्द्रगुप्त who refuses to be discouraged by any number and kind of difficulties, who is bent on going straight along
 
-
-
 the path leading to success. मनस्वी lit. possessed of a mind i. ea very strong or spirited mind. The paranomasia on (*a*) अङ्ग—(1) limbs (b) subordinate members, ministers etc. of the body politic, (b) सुविश्रब्ध (1) firm, strong, (2) trustworthy and (c) विषमःपंथाः (1) a rugged path, (2) a critical situation, should be carefully noted. This श्लेष *suggests* the रूपक where ‘गुरुः’ is identified with धुर्य and मनस्वी ( चन्द्रगुप्त ) with दम्य. The metre of the verse is शिखरिणी –3. 3–4 Rightly does चन्द्रगुप्त observe that for a king, keen ( पर ) on following the \[code of the\] king's duty (धर्म), his kingdom is a great source of dis (अ–) pleasure (प्रति). For irresponsible occupants of thrones, राज्य is not and need not be a source of displeasure. राजधर्मस्य अनुवृत्तिः अनुसारः इत्यर्थः परं यस्य सः। ‘Uneasy lies the lead that wears a crown' expresses almost the same idea (minus a direct statement of राजधर्मानुवृत्तिपरत्व. In 3, 4, the idea is amplified.
 
  (4) Construe.—परार्थानुष्ठाने \[ क्रियमाणे \] स्वार्थपरता नृपं रहयति, परित्यक्तस्वर्थः \[ राजा \] नियतम् अयथार्थः क्षितिपतिः, परार्थः स्वार्थात् अमिमततरः \[ स्यात् \] चेत् हन्त \[तर्हि \] परवान् \[ क्षितिपतिः स्यात् \], परायत्तः पुरुषः प्रीतः रस कथम् इव वेत्ति।
 
  If the king is bent on carrying out other people's work, serving other people's interests, accomplishing his own object would naturally leave him i. e. he would not be able to achieve his own ends. If he gives up self-interest परित्यक्तः स्वस्य अर्थः येन सः परित्यक्तस्वार्थः, his name lord of the earth' (क्षितिपतिः) would certainly be emptied of its meaning (अयथार्थः 'Lord of the earth', with 'no self-interest to speak of' are a contradiction in terms If the king sets a higher value on the interest of others, then Oalas! (हन्त), the poor person gets himself reduced to the far from enviable position of being under the influence of others (परवान्= परवशः). How could anyone depending on others परायत्त ) ever know the sweet taste or relish (रस) of joy or delight ( प्रीति= Joy) ? The last line contains an instance of the प्रश्न अलंकार And as चन्द्रगुप्त really wants to convey *his own*difficult position, but instead of speaking of himself, states general propositions true of kings as a class, there is.
-
-
 
 अप्रस्तुतप्रशंसा also in the verse. This verse too is in the शिखरिणी metre.
 
@@ -8740,15 +8025,11 @@ the path leading to success. मनस्वी lit. possessed of a mind i. ea v
 
  3, 5, 1 अन्यच्च–Candragupta now refers to *another* difficulty, *peculiar* to himself, over and above the general ones
 
-
-
 that kings are as a rule required to face.The Preceptor has ordered me to pick up a sham quarrel with him and for a time manage the affairs of the state all by myself, independently !—2 कथमपि with great difficulty पातकम् इव like a sin. That चन्द्रगुप्त regards चाणक्य's order to pick up a *sham* quarrel with him as a *sin*, shows how very *devoted* चन्द्रगुप्त is to चाणक्य,—3 In fact चन्द्रगुप्त finds it very difficult to understand how he was not‘स्व–तत्र’ even without and before the quarrel.
 
  (6) Construe:—इह साध्वीं क्रिया विरचयन् शिष्यः \[गुरुणा \] न निवार्यते, यदा तु \[असौ\] मोहात् मार्गं त्यजति तदा गुरुः अङ्कुशः \[ भवति \]; तस्मात् विनयरुचयः सन्तः सदा एव निरङ्कुशाः \[ सन्ति \]; वयं हि अतः परं स्वातन्त्रेभ्यः पराङ्मुखाः \[स्मः\]।
 
  The preceptor (गुरु) does not ward off his pupil, so long as or while the latter is building up e. carrying out a good (साध्वीम्) action. The preceptor becomes a curb \[lit. the goad, used to control elephants\], when through infatuation or delusion (मुह्–to be infatuated, to be deluded, is the root from which is derived मोह ), the pupil leaves the \[right\] path. This being so (तस्मात्) good people, naturally having a liking \[as well as appreciation\] for good training (वि+नी to lead or train *well*) or *discipline* ( विनय) ever are without any \[artificial\] curbs. No अङ्कुश—nocurb need be exercised against them nor would they ever complain that any is used against them. This is the maximum independ ence one can legitimately ask for A wise teacher never grudges it to his pupil. But, we \[this is of course the royal type\] are averse to any freedom or liberty(स्वातंत्र्य) further than or going beyond this limit. परागत मुखं यस्य सः पराङ्मुख lit. with one's face turned away from i. e metaphorically, not favourable to, averse to. 'स्वातंत्र्य is an abstract noun and there cannot be स्वातंत्र्याणि' is an objection which attaches greater importance to the science of grammar (शास्त्र) than to the popular usage (रूढि). We are living in an age where 'four freedoms' does not any longer sound as a wrong phrase. The reading 'परतरमतिस्वातंत्र्येभ्यो वयं हि पराङ्मुखाः' need not be considered to be superior to those where the form स्वातंत्र्येभ्यःnot entering into a compound with another word occurs
-
-
 
 The metre of the verse isहरिणी with the scheme न, स, म, र, .स, ल, ग (नसनरसलागःषड्वेदैर्हरिणी मता )
 
@@ -8758,23 +8039,17 @@ The metre of the verse isहरिणी with the scheme न, स, म, र, .�
 
  विशाखदत्त has a penchant for श्लेष. In this verse primarily intended to describe the beauty of the quarters during the autumnal season, he has, therefore, used paranomastic expressions such as apply to the *quarters* and also *rwers*. (1) Thus the ten quarters are *extensive* (दीर्घाः) and flow from the*sky* above (नभस्तः) i. e. appear to stretch out into space from there Rivers are long ( दीर्घाः) and they flow ( स्यन्दन्ते ) from the *month* of *S'ravaṇa* (नभस्=श्रवण+तःa termination in the sense of the ablative पञ्चन्यास्तसिल्). (2) The quarters*gradually become separate* (शनैः श्यानीभूताः) as they proceed further and further. Rivers have *gradually become narrow in their beds* (शनैः श्यानीभूताः). The quarters are having *sandybanks* (river-like) *in the form* of white (सित) *strips of clouds*(सिताः जग्धरच्छेदा एवor सितानां जलधराणां छेदाः एव पुलिनं यासां ताः). That the autumnal clouds are white as distinguished from those that pervade the sky during the वर्षाऋतुor the rainy season
 
-
-
 is patent to all. (3) The ten quarters are surrounded on all sides by flocks of *Sārasa* *birds* with their (inseparable)*sweet and, indistinct* ( कल ) *cackeling* ( विरुति) कला विरुतिः येषाम् तानि क्लविरुतीनि तैः कलविरुतिभिः। The same is true of the rivers also viz. they have around them flocks of *Sarasas* cackling sweetly and indistinctly. (4) The quarters are at night *fullof* (चिताःp. p. p. of चिto collect, lit. heaped with *full blown*विकच *night lotuses* (कुमुद) *in the form of constellatoons* (नक्षत्राणि)*of stars, of diverse or variegated forms* (such as the Great Eear' 'Small Bear' etc.) विकचाणि, नक्षत्राणि एव कुमुदानि तैः\[ चिता\]। चित्राः आकाराः तानि चित्राकाराणि तैः चित्राकारैः।The figure of speech in the verse is उपमा, सरितः इव दिशः–made possible by श्लेष explained above. The metre of the verse is शिखरिणी. अपि च introduces another remarkable feature of the S'arat season.
 
  (8) Construe:—अहो उद्वृत्तानाम् अपाम् निजं स्थितिपदम् उपदिशन्त्या उदारे फले सति शालीनाम् अवनतिम् दधत्या उग्रं विषम् इव मयूराणामद हरन्त्या शरदा कृत्स्नस्य लोकस्य अय विनयः इवकृतः।
 
  विशाखदत्त is*fancying* ( उत्प्रेक्षा in ' विनय इव कृतः ' ) He makes Candragupta observe that lady Autumn is as though accomplishing an excellent training or education (वि + नी—विनयः) of the entire (कृत्स्न) world (1) She teaches waters *growninsolent* (उद्+वृत्तi. e.उच्छृंखल, gone past the generally accepted rules of behaviour, metaphorically speaking) If.terally, however, *grown excessively or high in volume*, of course during the rainy season, when rivers are flooded\] the (proper) place (पदम्) where they should stand S'arad compels, in other words, waters to keep themselves within proper limits, (2) She makes (दधत्या—Instrumental singular of दधतो—from धा to put) the *S'āli*i.e. paddy, (even) when there is rich fruit, i. e. when the paddy has formed big and profuse sheaths (with grains within), the act of bending low (अवनति). This amounts to S'arad's teaching the importance of modestý even in times of prosperity (3) S'arad deprives (हरन्त्य–instrumental singular of हरन्तीpresent participle from हृ. feminino base) the peacocks of their pride (मद,) of which they were full during the earlier (i. e. rainy) season, pride that acts
 
-
-
 like a strong poison i. ewhich proves destructive or disastrous to the party possessing it.Thus by making waters keep within (proper) bounds, ‘teaching Sālt the need for an attitude of modesty even in prosperity, and depriving the peacocks of their pride during the rainy season, Autumn has as though (इव), brought about discipline (विनय) of the whole (कृत्स्न) world. Drawing lessons from the changing phenomena of Nature is an activity of which Sanskrit poets are very fond. Of, verse 22 at the end of Act IV. also Kalidäsa's यात्येकतोऽस्तशिखरं पतिरोषधीनामाविष्कृतोरुणपुरःसरः एकतोऽर्कः। तेजोद्वयस्य युगपद्व्यसनोदयाभ्यां लोको नियम्यत इवात्मदशान्तरेषु।*Sāleuntala*. In 3, 9, a good turn that S'arad does to Ganga (river Ganges personified) is described
 
  (9) Construe:—शरद् रतिकधाचतुरा दूती इवबहुवल्लभस्य भर्तुः \[सागरस्य \] तथा कलुषिता तनूभवन्ती गङ्गा मार्गे कथचित्अवतार्य प्रसन्ना \[सती\]. सर्वात्मना सिंधुपतिं नायति।
 
  Gangā had become turbid during the rainy season (कलुषिता—*turbad*; metaphorically, *ungry*), She was angry with her husband, extremely angry indeed (तथाकलुषिता) for. the ocean, her husband, far from being faithful to her, had a number of beloveds बह्व्य वल्लभाः यस्य सः i.e other rivers Gangā was so very angry that she left off the straight path that would have led her to her lord and instead began wandering here and there (during rains the water of the river overflowed the banks). Gangā also got herself emaciated or physically reduced, (after the वर्षाऋतु) asshe was plaing on account of her husband being absolutely indifferent to her. But S'arad did not think it proper to allow things to go on the same undesirable manner Like a skilled (चतुरा) female go-between (दूती), she persuaded Gangā with great difficulty कथमपिthough, and made her to descend to her proper path, ( मार्गे अवतार्य—her previous उद्वर्तन S'arad convinced her, did not well become her). S'arad put in her efforts with the utmost sincerity. She put her heart and soul into it (सर्वात्मना) and finally succeeded in seeing that Ganga was (limpid प्रसन्ना again, physically) highly pleased in her mind and in leading her (नयति lit.leads) to the lord
-
-
 
 of rivers. S'arad thus makes a couple happy again, after a temporary episode between the two This is another verse showing Visakhadatta's penchant for श्लेष. 'दूती इव' brings out that there is उपमा too in the verse.The metre usea for the verse is वसन्ततिलका.
 
@@ -8784,15 +8059,11 @@ of rivers. S'arad thus makes a couple happy again, after a temporary episode bet
 
  Courtezans (वेशनार्यःlit women from the area kept apart for such of them or as can be had on hire), followed by gallants (धूर्त) skilled or expert (कोविद) in talks of love, open (स्फुट) and clever (चतुर) were expected as an indication of the celebration of the moon-light festival, to go about in the city and to decorate the streets (रथ्याः) by their movements (lit genge प्रयात=प्रयाण‘नपुंसके भावे क्तः'), dull or slow (i. e not characterised by any hurry or speed) on account of their broad (हयु) buttocks(जघन) having with their weight (भर) overpowdret (आक्रान्तिlit overpowering i.e. here being overpowered) them i.e. the movements or goings Eminent citizens, (पौराण पेरेषु वा मुख्या), \[masters \[of their houses and property\], vying with each other in the display of the prosperity of their houses (गृह-वि-भव) are not, being free from fear (मुक्ता शंका यैः ते), resorting to the rite 1.8, the festivity \[so\] keenly wished for (अभिलषित) at the hour of the *paravan* i. e. are not celebrating the moon-light festival, along with their wives. Better than स्फुटाश्च ताश्चतुराश्च कथाः तासु कोविदैः प्रवीणैरित्यर्थः would be
 
-
-
 रतिचतुरकथाकोविदैः though this reading is relegated to a footnote on p. 85. For, in स्फुटत्व(openness) there can be very little चतुरता, if any indeed Those expert in clever love-talks (रति= love) or clever amorous talks' is decidedly superior to the compound with स्फुट as its first member. पृथूना जघनाना भरेण आक्रान्त्या मन्दैः। पर्वणः अय पार्वण. i. e belonging to the hour of*parta*, here full moon-light. धूर्त=विट, a gay person. The verse thus points out that neither that generally gay element of the city (धूर्त, वेशनार्यः) nor the householders and their wives have begun celebrating the festival. The metre of the verse is स्रग्धरा.
 
  3, 10, 1-5 The Chamberlain has no alternative but to own this is so' (एवमेतत्). The king naturally wants to know*what* is so (-isit a fact then that the citizens have treated with scant respect His Majesty Candragupta's command)? The Chamberlain cannot state this in so many terms and hence the cryptic utterance देव, इदम् this, (I mean,) your Majesty.' The king practically loses patience and orders the कञ्चुकी to state \[the whole thing\] clearly.' And on this comes the answer the festival has been prohibited.'
 
  6. The king who had already lost his patience, now becomes angry (सक्रोधम्) and asks with extreme displeasure (आः) by *whom*? 7The Chamberlain dare not mention the rame of चाणक्य and pleads his inability to convey any thing further. 8 The king states his conjecture in the matter noble चाणक्य has *not* I *hope*, (न खलु) removed the extremely delightful object of the eyes of the spectators This is only aपर्यायोक्त,fashion of saying 'revered चाणक्य has not, I hope, prohibited the festival" -10 The Chamberlain only asks instead of giving a categorical reply, Who else, wishing to live, would dare transgress the command of your Majesty”( aप्रश्र अलकार ) 11—15 The king wishes to sit down. The female door-keeper points out the throne, requesting His Majesty to occupy the same. The king (ccupies it and sen is the Chamberlain to inform minister चाणक्यthat His Majesty wants to see him (चाणक्य) From 3. 10. 16 (p. 87) begins a different section of the third Act which continues upto 3, 18 (p 93). 17 चाणक्य cannot bear the idea of राक्षस vying with him.
-
-
 
  (11) Construe:— कृतागाः कौटिल्यः भुजगः इव नगरात् निर्याय नन्दान् हत्वा यथा मौर्यवृषलम् नृपतिम् अकरोत् तथा अहं मौर्येन्दोः श्रियम् अपहरामि इति कृतधीः एषः मद्बुद्धेः प्रकर्षम् अतिशयितुं व्यवसितः।
 
@@ -8804,15 +8075,11 @@ of rivers. S'arad thus makes a couple happy again, after a temporary episode bet
 
  चाणक्य means that राक्षसhas not weighed all the factors properly. Your opponent is *not* that Nands, insolent (उत्सिक्तः) with the responsibility (भार) of the kingdom shouldered lit looked after दृष्ट) by incompetent (कुत्सिताः सचिवाः कुमचिवाः दृष्टः राज्यस्य भार यस्य स ) ministers. He is (none else than ) चन्द्रगुप्त' (2) '*You are not* चाणक्य which makes all the difference. In fact there is similarity between you and me (litof your imitation of me) in only (केवलम् ) one respect viz, enmity (वैरम् ) with the principal \[member of the body politic i.e. the king \].' I was opposed to the Nanda ruler, you are opposed to चन्द्रगुप्त. But this is far too superfeial a
 
-
-
 resemblance between us, *not* warranting the conclusion that like me you will succeed. There is a world of difference between चन्द्रगुप्त and नन्द, as also between you (राक्षस) and myself ( चाणक्य .. Better not to indulge in this rashness of following in my footsteps.' Prof. Dhruva would prefer to read सचिवविमृष्टराज्यभार in line 1 in the light of विक्रान्तैर्नयशालिभिः सुखचिवै.श्रीवर्कनासादिभिः। 1, 24 and as चाणक्य has already praised राक्षस. The difficulty vanishes, however, on the context of the verse under consideration being well taken into account. Between the Nanda ruler full of vanity and the well disciplined चन्द्रगुप्त there is no comparison. Sımilarly चाणक्य with his सेनाशतेभ्योऽधिका and दृष्टवीर्यमहिमा Intellect (1,27), is any day superior to the ministers including राक्षस whose services were available to Nanda. The कुत्सितत्व of the सचिवof Nanda is thus to be understood. The metre in which the verse is couched is प्रहर्षिणी(See 1,7. 3,12,1 On thinking about the matter, however, चाणक्यchanges his mind. He need not worry much about राक्षस's efforts, he observes, for reasons, following in 3, 13.
 
  (13) Construe:— प्रविष्टान्तरैःमद्भृत्यैः किल सः पर्वतसुतः अपि व्याप्तः सिद्धार्थकाद्याः स्पशाः स्वनियोगसाधनविधौ उद्युक्ताः संप्रति हि एषः ( अहम् ) मौर्येन्दुना कैतवेन कलहं कृत्वा स्वमतेन भेदकुशल राक्षसम् द्विषः प्रतीपं भेत्स्यामि।
 
  चाणक्य need not much worry because (1) by his servants \[such as भागुरायण etc\] indeed \[ मलयकेतु) the son of पर्वतक has been surrounded (lit. pervaded) The servants have effected their entrance(प्रविष्ट) into his very heart, (2) Spies (स्पशाः) like सिद्धार्थक and others are quite prepared (उद्युक्ताः with loins girded up) in the process i. e. arrangement of achieving (साध्—to achieve साधन achieveinent ) the missions ( नियोग ) of their own. (3) Now there was only one measure that was necessary to crown चाणक्य's effort with success viz. without losing any time (एष संप्रति) bringing about a split between राक्षस, in his own opinion (highly, skilled in bringing about a rupture between persons on his enemy's side and thus make him opposed to the enemy i. e. मलयकेतु Cāṇakya's masterplan for this is ingenious viz to have a sham (कैतवेन—by
-
-
 
 deceit, literally) quarrel with Candragupta (मौर्येन्दु). द्विषः= शत्रोः \[मलयकेतोः\] प्रतीप भेस्त्यमि shall break in a manner so as to be unfavourable प्रतीपम् = प्रतिकूलम्. The verse is couched in the शार्दूलविक्रीडित metre.
 
@@ -8823,8 +8090,6 @@ deceit, literally) quarrel with Candragupta (मौर्येन्दु). �
 
  A servant in a palace has first to be afraid of the king (himself), the of his minister (सचिव=अमात्य,)then again of his (bot) favourite, further, of those gay folk who. have been able to win the grace (प्रसाद) or favour of the king so much so that they stay with him under the same roof (भवने) Rightly (स्थाने) have men with accomplished intellects ( कृता धीः येषाम्)known i e. declared service of a man, who out of helplessness (दैन्य) tries hard (आयस्यतः—genitive sing of the present participle from आ+यस् to strive) by looking up at the face of the master and by telling lies (also, when necessary) (अप+लिप् lit. to tell away i. e. to tell what is not true)— all this for the purpose of securing a \[rice— \] pall i. e. earning just his bread—is a dog's way of living (श्ववृत्तिः—शुना वृत्ति. ) श्ववृतिं on page 89 is wrong; instead, read ( श्ववृत्ति in 14, of 'भूमौ निपत्य वदनोदरदर्शनं च। श्वा पिण्डदस्य कुरुते' Bhar rhari 3,14, 2 अहो विभुतिः। तथाहि left untranslated through inadvertance on p. 89 is to be rendered as "oh ! the pomp (or glow) of the minister of the overlord of lords \[of the supreme king of kings\]!For,—' विभूति is to be taken by विपरीतलक्षणा-अविभूति as the opposite of it, i. e. no pomp, no prosperity at all- absolute simplicity, if not poverty.
 
-
-
  (15) Construe :—गोमयाना भेदकम् एतत् उपलशकलम्, बहुभिः उपहृताना बर्हिषाम् एतत् स्तूपम्, शुष्यमाणाभिः आभिः समिद्भिः विनमितपटलान्त जीर्णकुड्य शरणम् अपि दृश्यते।
 
  There lay in चाणक्य's house a piece of stone ( उपलस्य शकलम्,this latter being the same thing as a piece) to break(lit. breaker भेदक of) cow-dung lumps or cakes \[of coursesuch as were dried up in the sun\]. This was the fuel in theminister's house used for sacrificial as also domestic purposes. There was likewise a heap स्तूपम् of sacred grass(*burhisām*) brought by the pupils (बटु). The house was seen to have its roof (पटल) bent far too lowunder the weight of the sacrificial sticks that lay spread out thereon, getting themselves dried in the sun. The house had walls that were worn out (जीर्णकुड्यम्. The figure of speech in the verse is स्वभावोक्ति The metre used for the verse is मालिनीwth the scheme न, न, म, य, य 'ननमयययुतेयं मालिनी भोगोलिकैः). The extreme simplicity of life of the minister explains how he is held in so high an esteem that he can call चन्द्रगुप्त by the name वृषल a शूद्र by birth, without the king being either inclined or able to raise so much as a pretest. One who his no self interest can offer to be independent even of the ruling king or emperor. 'देवःचन्द्रगुप्तः' he is called by others. वृषल isthe term used by चाणक्य for His Majesty. वृषल इति उद्यःवृपलोद्यः makes the meaning quite clear. In the same vein, does the 'Chamberlain continue in 3, 16.
@@ -8834,8 +8099,6 @@ deceit, literally) quarrel with Candragupta (मौर्येन्दु). �
 
  न वितथाः असत्याः वाचः येषां ते। That even men with words (ever) true, praise the lord of the earth, with profuse words (प्रकृष्टाः वाचः येषां ते तथाभूताः सन्तः ) till they have their mouths tired (श्रान्तानि आस्यानि मुखानि येषाम् ते) by means of ie ascribing to the king qualities that be never possessed at all (अभूतैः= न भूतैः non-existing)—this whole is to be regarded as the might (i. e. the result of the power) of longing (तृष्णा). Other-
 
-
-
 wise to such as have no desire (निर्गता ईहा इच्छा येषा ते,) a lord (or a master इशःfrom ईश् to rule) is an object of contempt (तिरस्कार) like \[a blade of\] grass—The prose passage preceding the verse spoke of चाणक्य and the way he dealt with (o. addressed) चंद्रगुप्त (विशेष This isstrengthened by the general proposition (सामान्य) in lime 4 निरीहाणाम् ईशःetc The two together, prose and verse 16, therefore constitute adinstance of the अर्थान्तरन्यास अलकार.
 
  While thinking so, the Chamberlain comes close to चाणक्यstanding in front of him He is full of apprehension to see him Thus नेतव्य नृपते. ततःसचिवत' have proved true, have been experienced by the कञ्चुकी,3, 17 explains the reason of the Chamberlain's भय.
@@ -8843,8 +8106,6 @@ wise to such as have no desire (निर्गता ईहा इच्छा 
  (17) Construe:—यः लोक परिभूय नन्दमौर्यनृपयोः अस्तौदयौ अविभिन्नकाल प्रतिदिशन् सहस्रधाम्नः पर्यायपातितहिमोष्णम् असर्वगामि धाम \[स्वेन धाम्ना \] अतिशाययति।
 
  चाणक्य has overcome (परि+भू) the world and is showing (प्रतिदिशन्) *sımıultaneously* न विभिन्नःकालःयस्मिन् कर्मणि ( यथा स्यात् तथा ; the disappearance setting, अस्त ) and rise (उदय) of the Nandas and the Maurya king respectively. By his lustre (धाग्ना) he thus surpasses the धाम of the thousand lustred (or rayed) one i, e. the sun, as the latter's lustre causes cold and warrıth to fall *by turns* (पर्यायेण पातिते हिमोष्णे येन) and as it is not all-reaching अ-सर्व-गामि) While the sun cannot display both setting and rising at one and the same time, चाणक्य has done so—shownthe disappearance i. e. brought about the destruction of the Nandas and the prosperity (उदय) of the Maurya king, at the same time. Thus is चाणक्यsuperior to the sun. As proofs of चाणक्य's superiority may be noted (1) that his lustre i. e. power, or influence is all-reaching while the sun's lustre cannot enter the caves and mountain-recesses and (2) that while चाणक्य can cause cold (destruction) and warmth (prosperity) to be brought about the same moment \[ of two parties\], the sun's lustre causes cold and heat or warmth to appear only by turns. The उपमेय being thus superior to the उपमान, चाणक्यस्य धाम to that of the sun, there is the व्यतिरेक अलंकार in the verse—
-
-
 
 'उपमानाद्यदन्यस्य (.e उपमेयस्य व्यतिरेकः(i. e. आधिक्यम् ) स एव स. 1 काव्यप्रकाश X. There is यथासंख्यtoo in the verse; for, the order in नन्दमौर्यनृपयोः isobservedin अस्त–उदयौrespectively Read यथाख्यं क्रमेणैवक्रमिकाणां समन्वयः। काव्यप्रकाश, X.
 
@@ -8854,19 +8115,13 @@ wise to such as have no desire (निर्गता ईहा इच्छा 
 
  There are three excellent things (गुणाः) that have
 
-
-
 happened. (1) The throne is now freed (lit. separated) from i. e. has got rid of, the Nandas who showed (an utter ) disregard (अनपेक्षित)for the \[code of\] kingly behavious(वृत). (2) वृषल the bull i. e. mightiest of kings, has occupied it (3) Thus the throne has got itself associated with, united with, a *worthy* (सदृश) lord of the earth. \[ चन्द्रगुप्त-सिंहासनसमागम is a veritable रत्नकांचनसमागम\]. 'These excellent things increase manifold (प्रगुणयन्ति) my delight' says चाणक्य, \[which naturally has reached its\] highest \[point\] ( पराम् ).' वृषलेन वृषेण. प्रीतिं परा प्रगुणयन्ति गुणाः—The alliterative effect is well achieved. The verse has a remarkable perspicuity (प्रसाद) of its town. The figure of speech in the verse is समुच्चय defined as तस्सिद्धिहेतावेकस्मिन् यत्रान्यत्तत्कर भवेत्। समुच्चयोऽसौ in काव्यप्रकाश Even one of the three excellent things was enough to give delight to चाणक्य. But there are as many as three. Little wonder that the delight has become manifold and reached its zenith The metre of the verse is वसन्ततिलका 3. 1, contains the customary expression of the pious wish that the pupil be victorious.—2 The king on his part gets up from the throne and prostrates himself at the teacher's feet From this as the starting point, it has to be noted, develops the whole quarrel (sham though), resulting in both declaring that they would mind their own business, neither unnecessarily dabbling with that of the other.—3 The affectionate teacher makes the pupil get up, holding him by his hands and pronounces a befitting blessing on him in 3, 19
 
  (19) Construe—शिलान्तस्खलितसुरनदीशीकरासारशीतात् शैलेन्द्रात् आ नैकरागस्फुरितमणिरुचः दक्षिणस्य अर्णवस्य तीरान्तात् आ आगत्य आगन्य मीतिप्रणतनृपशतैः तव चरणयुगस्यङ्गुलीरन्ध्रभागाः शश्वत् एव चूडा रत्नाशुगर्भाः क्रियन्ताम्।
 
 Let the kings, prostrating themselves (or lit. bending themselves far too low प्र+नत) in their hundreds repeatedly come ( आगत्य आगत्य ) and render the (cavity-like portions रन्त्रभागाः i.e. the) interstices between the toes (अङ्गुली) of the pair of your feet (चरणयुग) full of (गर्भाः) or impregnated with the rays (अशु) of crest jewels(चूडारत्नानि). This isa पर्यायोक्त way of saying let kings come again and again to you and bend their heads
 
-
-
 low in your presence as an indication of their acceptance of your sovereign position. Let them do this even always, or now and again ( शश्वत् एव ). *From* (आ) the Lord of the Mountains i. e. the Himalayas, cool (शीत) on account of the shower of the spray (शीकरासार) of the river of gods i.e. Gangā which has stumbled into the rocks (शिलांतस्खलित) \[in the north\], *to* (आ) the shore of the southern ocean, having the lustre (रुक्) of gems of diverse colours blazing forth (स्फुरित)—from this vast area with the Himalayan range as one extremity and the shore of the southern ocean i. e. the Indian Ocean as the other should kings come in large numbers and own चन्द्रगुप्त's suzerainty. 3, 19, 1 चन्द्रगुप्त says that the wish is already accomplished, thanks to the Revered one's favour.– 2 उचितमनतिक्रम्य यथा स्यात् तथा यथोचितम् ie. due regard being shown to the fact that चन्द्रगुप्तis the sovereign emperor as also to the other viz. that चाणक्य is चन्द्रसुप्त's preceptor.—3 चाणक्य does not want to waste a minute. He prefers being businesslike. Hence the question, as direct as it could have been 'किमर्थं वयमादृताः? -4' चंद्रगुप्त answers more in the nature of politeness, than in that of straightaway making everything quite clear —5 चाणक्य,therefore, points out, with a smile (quite significant evidently), that there need not be too much of such modesty (प्रश्रय). After all he is the occupant of the throne and has every right to ask any minister of his—even the Prime Minister—to answer any question, he may deem it proper to put to the latter अधिकार office, or a post of authority + वत् one holding a post of authority. Such persons are not called without any purpose by the Lords (प्रभुभिः) \[in the proper sense of the term\]. This is evidently an अप्रस्तुतप्रशंसा—I your प्रधानमन्त्री certainly have not been summoned by you for nothing, is what चाणक्य wants to convey. —7 चन्द्रगुप्त too grows equally business-like and asks for a plain answer to a plain question: what advantage (फलम्) does, the Revered one see in the prohibition of the moon-light *festival*?— चाणक्य with a smile indicating that he is amused, that first there was an attempt at desplaying modesty on the part of the king, who now has put the question which reallywas suppressed by him so far, says 'then, for being *reprimanded*have we been invited, उपालब्थुं lit, for reprimanding.— 9
-
-
 
 Nothing could be further from the mind of the King, the king replies It was ouly a *request* he had to make to the (minister) preceptor. 10 चाणक्यseizes his opprotunity and says 'then such as are worthy of being requested should be allowed to have things the way they like, and their sweet will (स्वैररूचयः) should never be interfered with by the pupil (this too is an अप्रस्तुतप्रशसा). —12.13 चन्द्रगुप्त does not give up the battle. Though not on *that* ground, on *another* I can justifiably put a question to the Revered one. Not a single act on the part of the noble one is without a purpose. कौमुदीमहोत्सवप्रतिषेध certainly can be no exception to this rule. 14.15 चाणक्य accepts the compliment putting it even more clearly—*not even in a dream* doth चाणक्य *act withouta perpose*—16श्रोतुमिच्छा शुश्रपा desire to her (that प्रयोजन) makes me speak (मुखरयति) 17-19 चाणक्य begins in quite a dignified style श्रूयताम्। इह खलुः etc. But Immediately after this, he puts it quite bluntly to चन्द्रगुप्त that चन्द्रगुप्त belongs to the class of kings whose success or victory सिद्धि) is dependant on the minister. As such चन्द्रगुप्त need not bother himself with finding out the purpose As a result of this (यतः=ततः) just *we—*alone, by ourselves-shall act in this matter, as we have been *appointed* for the purpose’ The implication is obvious: Candragupta need not bother himself with such questions as the purpose of the proibition of the moon-light festival etc. 20–21 the king resents this He turns his back on चाणक्य and *just at this moment*, two bards recite verses behind the screen The quarrel is becoming a serious matter. From the customary salutation by चन्द्रगुप्त and declaration of blessings by चाणक्य, matters have come to a stage where the king turns away his face from the minister.
 
@@ -8874,11 +8129,7 @@ Nothing could be further from the mind of the King, the king replies It was ouly
 
  The best way of avoiding any difficulty in understanding this verse is to take the clue supplied by चाणक्य's own
 
-
-
 remark later at 3, 23, 1-3 and remember above all else that this is *a blessing in the form of the praise of a divinity, also* (incidentally) *proclaiming the qualities of the sarad thist has recently set in*(देवतास्तुतिरूपेण प्रवृत्तशरद्गुणप्रयापनम् आशीर्वचनम्). तनुरिव क्लेशमैशी शरद्वः—शरद् इव ऐशी तनुर्वः क्लेशम् हरतु\] May the person of Īśa i.e. Lord Siva ward off your trouble. This body of Śiva whitens (शक्लयन्ती) the sky \[possessed of the complexion for brightness, छवि, of the Kāśa flower\] by the \[white\] ashes (भस्मना) \[used by Lord Śiva\], which surpass the complexion of Kāśa. (2) The networks. of the rays (अंशु) of the moon (शीतांशुlit, the cool rayed one) \[on the Lord's head\] brighten the elephant hide (ऐभी is इभस्य इयम् and कृत्ति is a hide) as dark as the clouds. \[S'iva wears the elephant hide like hide of the गजासुर while giving the performance of his Tāndava dancel. (3) S'iva's person has (उद्वहन्ती) & garland of skulls—all white, even like the moonlight itself (कौमुदीम् इव—the body of the Lord deserves to be characterised as un-precendented, as there never has been the like of it before अ+पूर्वा). The अपूर्वत्व has one more feature (4) there is the beautiful (spotlessly clean) laugh associated with Siva's person. (श्रीयुतं हास्यम् एव राजहंसाः)The bard expresses the pious desire that this person (तनु) of Sva should remove the trouble of the listeners. To turn to the शरद् इव part of the verse (1) Sarad the standard of comparison has the first साधारणधर्म with the thing compared viz. S'iva's body, in so far as during Autumn the sky is all bright or white on account of the Kāśa flowers growing the glistening wool from which spreads all around making the sky a continuous bright spectacle. While Siva is dancing vigorously, the ashes brighter than Kāśa, spread all around the sky. (2) The mass of the rays of the moon render bright the darkness due to clouds, if there are a few of them yet remaining. The hide of the गजासुर is brightened by the rays of the moon on the head of Siva (see 1, 1, for which he receives the appelation चंद्रमौलि;—चंद्रः मौलौ। शिरसि यस्य स) (3) The moon-light peculiar to S'arad is well-known for its whiteness (धवला कौमुदी). Corresponding to this is Siva's garland of Skulls, white one and all. (4) S'arad's association with the royal swans is well-known. Lord Siva has the royal swans
-
-
 
 on his person (ननु) but *in the form of* his bright laugh—and a laugh that has a beauty (श्री) of its own. The figure of speech in the verse is उपमा, its metre being स्रग्धरा. 3, 21.
 
@@ -8887,8 +8138,6 @@ on his person (ननु) but *in the form of* his bright laugh—and a laugh th
  If 3, 20 was Śiva's praise, this verse (the 21st) is that of Visnu. The bard again makes a plous wish—may Hari's (i. e. विष्णु's) sight (दृष्टि) protect you for long. Hariis visualized as about to \[lit. desirous of इच्छोः\] leaving his wide couch (शयनम्) in the form of the body of the serpent (नागाङ्ग) \[Śesa\] with the circle (चक्रवाल) of his many hoods as the pillows (उपधान). At this moment, Visyu's sight (eye) is naturally oblique (i. e. not straight) as it is opened only a little while ago \[after a long sleep of many months\]. For a moment it canot face (अन्-अभिमुखी ) the bright rays (प्रभाः) of the Jewel lamps (Jewels from the heads of the serpant Śesa\[‘रत्नदीपप्रभाणाम’, ‘रत्नहीपप्रमाणाम’ isa misprint'\]. The sight is also dull (lit, heavy) in its operation i. e. not quite quick (yet). On account of yawnings (जृम्भितानि) not unaccompanied by the turnings and twistings of the limbs—quite natural to one who has just risen from sleep \[lasting for months), there are paricles of water (जललवा) i. e. drops of tears appearing in the eyes. The sight is i.e. the eyes are all red—due to the disturbance in or cessation of (छेद) (lit break in) the sleep. The ayes are आकेकर i.e. half closed \[yet\] दृष्टिराकेकरा किंचित्स्फुटापाले प्रसारिता। मीलितार्थपुटालोके ताराव्यावर्तनोत्तरा। जिह्वा isकुटिल or वक्र. The figure of speech in the verse is स्वभावोक्ति and its metre is स्रग्धरः \[Line 4, ending part should read... ह्वरेर्दृष्टिराकेकरा वः॥and not हरे र्दृष्टिराकेकरावः॥ \]
 
  (22) Construe—(हे) नृवर, धात्रा के अपि कस्य अपि हेतोः सत्त्वोत्कर्षस्य निधय इव स्वेन घाम्ना मदसलिलमुचा नागयूथेश्वराणाजेतारः कृताः, व्यक्तमानावलेपाःत्वादृशाः नृपतयः मृगाणाम् अधिपतयः दंष्ट्राभङ्गम् इव आज्ञाभङ्ग न सहन्ते।
-
-
 
  Obest of men (नृवर), lords of men like you, created by the lord of creatures(धाता lit. creator) for some reason difficult to be understood, indescribably great (के अपि)–conqueror's by their own lustre (i. e bravery, धामन=lustre) of lords or mastere of herds of elephants \[i, e. kings having herds of elephants in their possession\], stores (निधयः) as though of the excellence of strength, with their self-esteem as well as pride (मान and अवलेप quite patent, brook not an infringement of their command (आज्ञाभङ्गम्). In this respect, they are like the overlords of beasts \[मृगाणाम् अभिपतयः—सिंहाः) i.e, lions who conquer leaders of herds of elephants \[i.e. mighty tuskers\] by their own prowess, are stores of excellence of strength, with their self-esteem and pride quite manifest. Thus धान्न जेतारः कृताः व्यक्तमानावलेपाःare epithets common to नृपतयः and मृगाणान् अभिपतयः There is a pun on नागयूथेश्वराणाम् Note that ईश्वर—(1) lord (2) leader and that मदसलिलमुच् (1) those that show an amount of pride (मद) (2)those that let flow an amount of ichor. निधयइव कृताःillustrates उत्प्रेक्षा. The main figure in the verse is उपमाThe metre of the verse is रूग्धराCareful readers should not fail to see that thisद्वितीय must be स्तवकलश who isinciting चन्द्रगुप्तagainst चाणक्य serzing the opportunity presented by the prohibition of the moon-light festival by चाणक्य,though चन्द्रगुप्त
 wanted the citizens to celebrate if.
@@ -8899,37 +8148,25 @@ wanted the citizens to celebrate if.
 
  2, 23, 1-4 Cāṇakya at first unable to grasp the signficance of 3, 22, & 23 soon makes out that this is a device employed by राक्षस \[to bring about a split between चन्द्रगुप्त and himself\]. This would be of no avail, unfortunately for राक्षस, for, ever on a watch or a vigil, ever wide awake
 
-
-
 is चाणक्य 5-10 चन्द्रगुप्त very much resents चाणक्य's interference with the execution of his order to give a reward to the bards—a thousand (सहस्र) gold (सुवर्ण) coins (शत). The resentment is expressed in strong terms; when I am everywhere thus obstructed by the Revered one, kingdom is no kingdom to me, it is like a prison. 11 चाणक्य seizes this second opportunity to point out to चन्द्रगुप्त that the latter isस्वयमनभियुक्त not applying himself to \[the important task of\] the administration of the kingdom—a सचिवायत्त that he is, he must put up with this disadvantage. 13-14 These are very short passages, but very strong at the same time. The king and the minister are on the parting of ways already एते\[वय\] स्वकर्मण्यभियुज्यामहे।’ ‘प्रियं नः। वयमपि स्वकर्म अभियुज्यामहे।’ bring out, that there is no common platform on which the two can now maet. The quarrel continues, its bitterness increasing with every passage. What is the purpose of the prohibition of the festival? to this question of the king, the minister's reply is 'what is the purpose of the celebration?” ममाज्ञाव्यावात—मम आज्ञायाः अव्याघातःnon-infringement of iny command तवाजाव्यघात एव = तव आज्ञायाः व्याघात एव this is the first purpose of the prohibition of the festival of moon-light. Your word is not law and mine is' to make this clear did I prohibit the celebration of कौमुदीमहोत्सव.
 
  (14) Construe.—तमालप्रभवकिसलयश्यामवेलावनाना चटुलतिनिकुलशोभि तान्तर्जलाना चतुर्णाम् अम्मोधीना पारेभ्यः आ नृप्रतिशतैः अम्लानपुष्स माला इव तव या \[आज्ञा\] शिशोभिः उह्यते सा \[आज्ञा\] माये एव स्खलन्ती ते विनयालंकृतं प्रभुत्त्वं कथयति।
 
  That command of yours which is held on their heads by hundreds of kings like a garland of flowers which have n't faded \[i e. are quite fresh\], right upto the shores of the four oceane (आ पारेभ्यः) with the forests (वनानि) on the shores (वेला) dark on account of the sprout having their birth from the Tamāla \[trees\], with their waters agitated from within (क्षोभितम् अन्तर्जलम् येषाम् ते) by groups of Timi fish, very quick or restless (चटुल)—when faltering or stumbling against just me–tells i, e. would tell the world that your lord-hood' is decorated with modesty i. e. is*not*
 
-
-
 unaccompanied by implicit obedience. Others—great kings among them—obey you with all respect at their command. But when I am the concerned party you have to boy and submit. Wearing anything on the head, garland-like, is showing one's regard for it—showing that it is शिरपावद्य (not only उह्य तमालात्प्रभवः येषा तानि किसलयानि तैः इयमानि वेलाया वनानि येषाम्। चटुलानि च तानि तिमिकुलानि तैः क्षोभितम् अन्तर्जलस येषां तेषाम्। अम्भोधि is lit. a reservoir of water i. e an ocean विनयालङ्कृतं ते प्रभत्वम् कथयति=प्रभुरपि त्व विनीतः इति कथयति। This is an instance of पर्यायोक्त. The mstre of the verse is स्रग्धरा
 
  3, 24. 1—6 Nor is this the only purpose. There is also another. Vahīrinari is sent to bring the piece of paper containing a list of those who got disaffected and joined मलयकेतु. 7,8 Very short passages, but very pingent‘भूयताम्’— ‘दत्तावधानोऽस्मि' 10—15 A list—and an authoritive one at that of those who rose in revolt (सह+उत्थायिनाम् with चन्द्रगुप्त against, the Nandas, who have \[turned out to be so many malcontents\] and gone away from here and resorted to मलयकेतु, \[the next\] to be killedby us The king wants to know the cause of the disaffection of these persons 16 चाणक्य makes it clear that (1) भद्रभट and पुरुषदत्त Principal Officers 12 charge of the elephant force and the cavalry, respectively are addicted to women, wine and hurting, not minding the work entrusted to them; that they were relieved of their jobs and kept on subsistence allowance. Getting the same posts of authority from the enemy, they wilked over to him (2) डिङ्गरात्and बलगुप्त sister's son of the chief of the door guard and a relative of His Majesty, respectively being overpowered by excessive greed, thinking the remuneration given by you to be inadequate, went over to Malayaketu, hoping to get a good deal (more) there. (3) Rājasena, your attendant during boyhood, having secured an unusual amount of prosperity consisting of a big treasury, elephants and horses, through your grace resorted to मलयकेतु, fearing he would be deprived of it again. (4) भागुरायण he younger brother of the General of the ar ny Sinhabala, had formed friendship with with पर्वतकand out of affection for him he caused मलयकेतु to go away from here, having secreatly created the story 'your father was killed by चाणक्य' When चन्दनदास and others, babitaally doing thing
 
-
-
 harmful to you were put into prison. भागुरायण ran away afraid of his own crime and took refuge in मलयकेतु, who, thinking ‘this one has saved my life’made him accept the post of his minister. (5) Rohiāksa ane Vijayavarman, the Mālava Prince and the Chief of the Kṣatra group respectively, not being able to tolerate what you gave to your own relatives and being excessively proud, resorted to मलयकेतु. 30 The king asks, if these causes of disaffection were known, why was nothing done to counteract the same? 31-32 ‘It was not found possible'. to this reply of the minister, there is a counter question of the king 'due to lack of skill, or with a view to achieving some purpose?' 33 चाणक्यanswers that lack of skill is impossible. For a purpose, was no counteracting measure adopted 35 श्रूयताम् अवधार्यता च isचाणक्य's reply to the kings statement he would like to hear the purpose. Hear and *try to understand well'* This is pungent, but certainly provoked by 'किमकोशलात्' of the king. 36—42 Either (a) re-instatement in their previous positions or (b) punishment, these are the only two ways of counteracting in respect of members of the body politic (प्रतीनाम्) who have been disaffected. Of these (a) was out of the question (परिह्नतः) For, (1) reinstating भद्रभटand पुरुषदत्त, who under the influence of evil habits, were grossly negligent of their duties, would only cause the destruction of the elephant force and cavalry, the very foundation of the kingdom. (2) डिङ्गरात and बलगुप्त being inordinately avaricious would not be satisfied even if the entire kingdom is handed over to them Satisfying them is literally impossible (3) Rājasena and Bhagurāyaṇa were apprehensive of the utter destruction of their wealth, making any 'favour' to them impossible. (4) Lo (Ro) hitākķa and Vijayavarman, not tolerating your relatives, too could not be favoured or 'satisfied' by any means. There is thus only the other alternative (b) viz. that of निग्रह or punishment that theoretically could be resorted to. But even in respect of that, there were *practical* difficulties. Our dealing severely with our principal helpers in our revolt against the Nandas, would create a very unfavourable inpression among such of the sections of the subjects as are
 
-
-
 devoted to the Nandas. It is not long since we secured the lordship, formerly in possession of the Nandas. Those people from among the subjects who were devoted to the Nandas would have felt: Here is this new regime which punishes severely its own supporters, those very persons who made the regime possible.‘Thus alternative (b) had to be given up with the probable reaction among the subjects in view. 44—47 The long and short of the whole explanation is that मलयकेतु, supported by a large Mleccha army and enraged because of the murder of his father, stands fully prepared to attack us.*This istherefore no time for festivals. All energies must be concentrated on military*\] *exercises*. When the fort ought to be rendered all the more strong, impregnable, what is the propriety in celebrating the moon-light festival? 48 The Ring fails to be impressed by the explanation of the minister. 'There is a good deal to be asked in regard to this' he says. 49 You may ask *unhesitatingly* I too have a good deal to tell in this connection' retorts the teacher. 50 Candragupta asks why was Malayaketu the very root-cause of the whole trouble *ignored* while going away (from Pātaliputra\]? 51 As before, even now चाणक्यproceeds to answer the question systematically. If Malayaketu were not ignored, (a) he ought to have been put into prison or (b) he ought to be given half the kingdom that was promised to him (a) is ruled out as it would only strengthen the impression among the people regarding our ungratefulness. Malayaketu's capture would have made people think—this is the logical sequel to Parvataka's murder They would say 'the father was murdered, and now comes the son's turn who is imprisoned If (b) were to be resorted to half the kingdom would have been required to be given, as promised and thus the murder of Parvataka would have had the fruit (or advantage of only destroying what has been achieved \[before this\] यत्किंचन कृतं तस्य ध्वतानाशकारिता एव फल यस्य. On this account, मलयकेतुwas neither caught nor given the promised part—one half of the kingdom. There was no other course open to us except ignoring his going away.
-
-
 
  ‘What explanation has the minister to offer regarding the fact that *Rākṣasa* while actually staying in Pātaliputra was not at all interfered with?’ चाणक्यreplies (1, राक्षसis wellknown for his unstinted devotion to hismaster; (2) as he has been staying here together with thecitizens for a long time, he enjoys the highest confidence (अत्यन्तविश्वास्य) of the citizens; (3) he is possessed of intelligence and bravery, (4) he has another great advantage viz, a very large number of leistenants (lit wealth of nelpers सहायाना सपद् तथा अभियुक्तः (5) above all he has at his disposal a great treasury \[of the departed Nandas \] To allow him to stay in the city would have amounted to causing a great internal disturbance—is turbance in the city;—if removed, forced to go away from the city (दूरीकृतः), though he could continue causing cistarbance from without (बाह्यकोप), he can be brought under control somehow by using one expedient or the other. He wastherefore, like a dart rankling in the heart while he was here, pulled off and removed to as to be away at a distance, Candragupta asks why was he not captured by force (वेक्रम्य, ल्यबन्तfrom वि+क्रम् to show valour or bravery)?चाणक्य's answer is in a line with all the answers he has given to the previous questions Its logic is as unimpeachable as that of the earlier ones. (a) Fighting or use of force against राक्षस would have resulted in the destruction of a large number of your forces (b) or, he would have himself perished. Either way, there would have been a consequence equally undesireable to us (उभयथापि दोषः) Destruction of a large number of our forces definitely is undesirable. In the eventuality राक्षस perishing, you would have to lose a very able hand  whose services as your Prime Minister are our objective\].
 
  (25) Construe—सः दि भृशम् अभियुक्तः \[सन्\] यदि विनाशम् अभ्युपेयात् \[तर्हि हे\] वृषल \[त्वं\] ननु तादृशेन पुसा वियुक्तः असि अथ सः तवबलमुख्यान् घातयेत् सा अपि पीडा; तस्मात् सः वनगज इवअभ्युपायैः विनेयः !
 
  The verse takes (b) in the preceding prose into account Srst. If attacked seriously or with full strength, राक्षस be killed (for, he would not run away from the battle-field राक्षस'
-
-
 
 that he 18, you would lose (असि=स्या.) such an excellent hand. तादृशेन पुसा is the same thing as पुरुषरत्नेन(a) of the prose passage—if he kills the leaders of your army—if high officers of the army be the victims of his valour, that would be a great disaster to which we would be subjected. We were thus faced with a dilemma The only course left open to us, under the circumstances, was to bring him under control by various means, even like a forest elephant Winning over rather than being caused to fight was thus the proper course to acopt. The figure of speech in the verse is उपमा. The metre of the verse is मालिनी.
 
@@ -8939,15 +8176,11 @@ that he 18, you would lose (असि=स्या.) such an excellent hand. त
 
  राक्षस's superiority is easily proved: (1) *We* captured the city \[of Paṭaliputra\] and *in that* city राक्षस planted his foot on our neck (cared not a bit for our power, treated us with contempt totally disregarding our presence there) and *stayedas long as he liked* (यावदिच्छम्). (2) When our armies were
 
-
-
 declaring our victory, *perforce* did he cause obstructicas to the declarations to be made (व्याघातःobstruction), To sum up, by the greatness of his policy, he has thrown us into such a bewilderment, that our mind (मतयः) does not now trust even our own people, \[regarded as\] trustworthy \[once ec far\]. चाणक्य laughs in derision of राक्षस, So this is his accievement! Ithought, as I uprooted Nanda and installed vou on the throde, Raksasa got rid of you and made Malayaketu the sovereign ruler of the earth.'Candragupta does not accept this claim—the highest one that चाणक्यjustly could make—of the minister-teacher Coolly does he say by *some* one *else*, was that achieved. What credit can the Revered one claim in this respect ?' This is of course the very hight of 'malice' according to चाणक्य. The credit for the highest ach evement of his life, for which he worked hard day and nig it, is with one short sentence, snatched away from hum; not only that, but given to some one else, by चन्द्रगुप्त.
 
  (27) Construe—आरूढकोपस्फुरणविपमिताग्राङ्गुलीमुक्तचूडा सकलीरेपुकुलोत्साददीर्घाम् उग्रा प्रतिज्ञा लोकप्रत्यक्षम् आरुह्य ते अवलिप्ताः नवनवतिशतद्रव्यकोटीश्वराः नन्दाः पश्यतः राक्षस्य पर्यायभूताः पशवः इव केन अन्येन हताः?
 
  चाणक्य asks by *whom* else (if not by *me*) were killed the Nandas, masters of ninety nine crores of gold coins. (Śata=a gold coin), and full of pride (lit. besmeared अवलिप्ताः p p p. of अवलिप supply '*with pride*)' like \[sacrificial\] seasts one after another \[lit, who became the alternatives, cr substitutes of each other, 'पर्याय—भूताः\] even while \[this 'प्रशम्यतर'\] राक्षस (of yours) was (in sheer helplessness) only looking on (the whole destruction) ? 'पश्यतः राक्षसस्य' is evidently अनादरार्थे षष्ठी. Who achieved this, having made, the fierce (उग्र) vow in the presence of all the people, with the \[knot\] of hair (चूडा) \[on the head loosened\] (मुक्त) by the fore fingers (अग्राड्गुलयः) that were shaking (विषमित lit. rendered uneven, cwing to the sudden appearance (स्फुरण) of anger—a vow that was long-lasting\] on account of the extirpation (उत्साह) of the entire (सकल) family of the enemy? This is obviously a question to which no other answer but 'भवता एव' is expected by चाणक्य.
-
-
 
 The verse is an instance of the प्रश्न अलंकार the 'पशवः इव' part containing in it an उपमा also. Its metre is स्रग्धरा.
 
@@ -8955,15 +8188,11 @@ The verse is an instance of the प्रश्न अलंकार the 'प�
 
  Cāņakya wants Candragupta to see that the oblation (हव्य)—bearers (वाहाः—वह to carry) i.e fires which showed (दर्शयन्तः lit. were showing) the circle of quarters as though associated with clouds by the smoke (column)s that screened ध्वस्ताः अर्कस्य सूर्यस्य भासः(rays, lustre) यासु तासाम् the rays of the sun—not smoke columns actually, but in the form of vultures गृध्रैःधूमैःगृध्रैःi. e. एव धूमैः aरूपक or metaphor) that formed a circle in the sky (वियत=sky) and moved about (वि-चलित) with their wings long and motionless \[as they were stretched out fully\]. See that they are gladdening (अनल्दन्तः) these (creatures) residing in the forest \[i. e. the abode or place of cremation, better\] of the forefathers by these Nandas. The inhabitants of the cemetary have a veritable feast served them in the form of the Nandas whom I destroyed to the last man. The fires have ample (वहल) marrow (वसा) caused to flow from them \[as the corpses are burnt, marrow comes out of them and begins to drip about\] Even now they do not get themselves extinguished (निः+व to be extinguished). Is it necessary to give any stronger evidence of चाणक्य's capacity to achieve what he wants to? The picture of the fires fed bythe numberless corpses ofthe Nandas destroyed by चाणक्य,which he visualizes and wants his pupil to visualize ought to convince चन्द्रगुप्त of his teacher's. कर्तृत्व. That ought to dispel the last shred of doubt on his mind—Verse 28th is better understood as giving us a pen–picture of the lurid scene in the cemetary as it actually obtained months ago, but the memory of which is fresh in चाणक्य's mind and ought to be equally fresh in that of his pupil चन्द्रगुप्त. एते etc. need not be literally interpreted. "These' is therefore those the picture of which is conjured up by चाणक्य and which चन्द्रगुप्त to can visualize without
 
-
-
 much effort. Besides the रूपक, गृध्रेः धूमै whichis not very satisfactory as there was no reason why both should not or could not have been there, the vultures as also the columns of smoke. गृध्रैः धूमैश्च would have been much better.There is उत्प्रेक्षा inline 2 सघनमिव दिशां मण्डलं दर्शयन्त.’ The fires were showing the circle of quarters to be *as it were* associated with clouds. Actually there were no clouds present in the sky. The metre of the verse is स्रग्धराCandragupta persists in his interpretation of events and repeats by *just some oneelse* was this dore' 'किमत्रार्यस्य' is leit implied this time च–गक्य loses all patience with चन्द्रगुप्तand asks with perfect displeasure (अ) by whom? Candragupta coolly replies by fate. so very full of hatred against the Nanda family' The implication is as bitter as obvious: न अत्र भवतः कश्चन पुरुषकारः or पराक्रमः, चाणक्य, with a view to score over चन्द्रगुप्त states the generalisation 'ignorant fools regard fate as authority i. e. consider it to be powerful' चन्द्रगुप्त is a worthy pupil of a worthy preceptor and though he said he was not able to surpass the Revered one in word warfare rises to the occasion, and retorts 'wise ones too are not given to boasting This is the last straw' and it sends चाणक्य into a fury—you want to over-ride (lit mount) me like an ordinary servant of yours.'
 
  (29) Construe—बद्धाम् अपि शिखा भोक्तु करः पुनः धावति, प्रतिज्ञाम् आरोढुम् एष चरणः पुनः अपि चलति, नन्दाना प्रणाशात् प्रशमम् उपयात मम क्रोधदहनम् कालेन परीतः त्वम् अधुना ज्वलयसि।
 
  The hand hurries in the direction of the knot of hair on the head, which though tied up must be untied and a fresh resolve of punishing *Candragupta* must be made. The foot too isonly too eager to *mount* on a resolve even again \[now that the first resolve is carried out and ´the second.one is demanded by the malicious चन्द्रगुप्त\]. You, O. Candragupta,are certainly surrounded on all sides by Death, (काल) and therefore are you enkindling (ज्वलयसि) \[again\] the fire of my wrath, extinguished (प्रशमम् उपयातः) account of the utter destruction ( प्रणाशः) of the Nandas.क्रोध एव दहम रूपक, and as कालेन परीतः=कालेन परीतत्वात् there is काव्यलिङ्ग too present in the verse, the metre of which is शिखरिणी \[At 1,7 चाणक्य is
-
-
 
 said to have entered मुक्तां शिखां परामृशन् —It is evident that, while uttering this verse चाणक्य has clean forgotten that his शिखा was मुक्ता. Vide VII, 17. A *person suddenly* flying *intorage does forget even the most obvious things*. There is nothing unnatural about 's utterance.\].
 
@@ -8973,8 +8202,6 @@ said to have entered मुक्तां शिखां परामृशन
 
  The tawny (पिङ्गा) lustre of the eyes (नेत्रभाः) has as though flashed forth \[even like lightning flashing forth\] —though the lustre was made \[considerably\] mild (क्षामा) on account of being washed (क्षालन) by limpid (अमल) water (i.e. tears trickling from the eye-iashes throbbing up (स्पन्दन्ते इति स्यन्दीनिच तानि पक्ष्माणि) in excitement (संरम्भ) चाणक्य's anger made his eyes tawny, though their red appearance was made considerably mild because there were drops of tears that appeared in his eyes and flowed down the eye-lashes throbbing because of excitement. Anger and tears, some may think, go ill together. But any emotion at its highest causes tears to appear in the eyes. There was smoke presented (lit.\[which\] sprouted, in the form of the kuitting (भङ्ग) of the eye—brow (भ्रु) (darkness being the साधारणधर्म of both). चन्द्रगुप्त proceeds to describe the stamping of the foot (lit. stroke with the foot) of चाणक्य on the earth. Earth could bear that with great difficulty (कथम् अपि) with a terrible (उदग्र) shaking manifested (संजात) remembering Rudra gesticulating the sentiment of terror (रौद्र रस) during the Tanḍava-performances. Of the रौद्र रस, क्रेध is the स्थायिभाव, violent movements (स्पन्दन here) of the limbs the अनुभाव, It has आवेग excitement etc. as its
 
-
-
 accessory feelings (सचारिभावऽ) and tears rolling down the cheeks as the सात्त्विकभाव. चाणक्य displayed all these Naturally does चन्द्रगुप्त *fancy* (उत्प्रेक्षा) \[मन्ये\] that चाणक्य was as though Lord Rudra himself—so did he appear to Earth, who could put up with the mighty stroke, as she had done so previous occasions. अभिनयतः रुद्रस्य स्मरन्त्या=अभिनयन्तं रुद्रं (accusative) स्मरन्त्या. Here there is no reason why Earth should remember the display of the Raudra Sentiment with ‘regret’—for, the previovs displays, to *her* at any rate, certainly were *not*very welcome and here there is another display given by चाणक्य, if at all Earth longed for any One remembers with regret what is welcome, highly desirable, but is unfortunately not available, though once it was available. Rudra and his landava dance seem to be themee of which विशाखदत्त is very fond, Cf. 1, 2 त्रिपुरविजयिनः आधारानुरोधात् दुःखनृत्तम् वः पातु।
 
  चाणक्य could see that there was hardly any point in carrying the quarrel any further (perhaps चन्द्रगुप्त would' be full of fear and prostrate himself before him saying 'I am extremely sorry' which would spoil the whole plan). He, therefore, says 'it is no use replying and giving rejoinders; of राक्षस be superior to us in your estimate, hand over this sword—the badge of office of the Prime Minister–to him' and throws away the sword. But to himself be utters words which are quite contrary to the spirit of his last utterance, intended to be heard by चन्द्रगुप्त addressed to चन्द्रगुप्त He apostrophizes राक्षसand says 'this viz. भेद between चन्द्रगुप्त and myself, is the height of your intellect, desirous that you are of conquering the intellect of कौटिल्य.' It is evident that प्रकर्ष is by विपरीतलक्षणा the same thing as अपकर्ष The reason for such a statement is made clear in 3,31.
@@ -8982,8 +8209,6 @@ accessory feelings (सचारिभावऽ) and tears rolling down the chee
  (31) Construe:—\[हे\] शठ, चाणक्यतः चलितभक्ति मौर्यम् अह मुखेन जेष्यामि इति यः भेदः भवता प्रयुक्तः सः सकलः तव एव दि दूषणाय संपत्स्यते।
 
  The measure for bringing about a split (भेद) which has been employed (प्रयुक्त) by you with the thought (इति) ‘I shall easily (सुखेन) conquer the son of Murā, his devotion having swerved from चाणक्य'—that verymeasure, even
-
-
 
 in its entirety (सकल एव) isnow going to turn out to your own disadvantage. There is thus the विषम अलंकार(already defined)” in the verse. Its metre is वसन्ततिलका.
 
@@ -8995,8 +8220,6 @@ in its entirety (सकल एव) isnow going to turn out to your own disadvant
 
  The king is surprised that his order is not *unmediately*carried out—' what is the Revered one thinking about? The Chamberlain is rudely awakened from his meditation on the whole developement and hurriedly camouflages the same with fortunately has Your Majesty become *YourMajesty—really* sovereign now.' The king is satisfied at the impression carried by the Chamberlain and hopes this is
 
-
-
 representative in character and one that will enable the Revered one secure his objective. All this he expresses to*himself. Aloud,* he asks the female door-keeper to show him the way to the bed-chamber, as he has got a headache due to this useless (शुष्क lit, dry) quarrel. \[The headache may be a fact. For the strain of the quarrel with the Revered one was anything but *bearable* to the विनीत शिष्य. 3. 33 only confirms this impression.\]
 
  (33) Construe:—आर्याज्ञया एव लङ्घितगौरवस्य मम बुद्धिः सूविवर प्रवेष्टुम् इव प्रवृत्ता; ये हि सत्यम् एव गुरून् अतिपातयन्ति, तेषां) हृदयं लज्जा कथं नु न भिनत्ति।
@@ -9005,15 +8228,11 @@ representative in character and one that will enable the Revered one secure his 
 
  To turn to a resume of the third act As the curtain goes up, there appears on the stage the Chamberlain (Vaihinari) of Candragupta. He addresses the officers appointed in the Sugānga palace and announces the command of His Majesty Candragupta to be obeyed by them. 'I wish to see Kusumapura, even lovelier because of the moon-light festival with its celebration duly started. Let the terraces of the palace be decorated and made worthy of being seen by us' The officers inquire of the Chamberlain whether the king is not aware of the prohibition of the moon-light festival. The Chamberlain asks them not even to introduce this talk of the prohibition of the festival, as it
 
-
-
 would surely bring about their instantaneous death. The officers should see that spotlessly white chowries are waved round the pillars with garlands suspended from the latter, and that the earth is favoured with a sprinkling with water with sandal mixed with it. The officers who readily accept the counsel of the Chamberlain are asked by him to hurry up as 'His Majesty Candragupta is even \[already\] come here in this direction'.
 
  Then enters king Candragupta accompanied by the female door-keeper. He states how kingdom far from being a source of delight to a king who follows the code of king's duties, is a cause of great displeasure Dependent that he is on others he cannot know the taste of pleasure. Again, Sovereignty, like a courtezan who has got scope for her activities is so very difficult to be propitiated even by those possessed of self-control. For him personally, there is one more anxiety or worry. He has been ordered by preceptor Cāṇakya to have a sham quarrel with him (Cāṇakya) and deal independently so far as administrative duties are concerned for a while. Candragupta has accepted to act accordingly though to him the acceptance is little better than a sin. Candragupta would not like to have any more freedom than the one he was already enjoying He orders the Chamberlain to lead him to the Sugānga palace.
 
  Going up the palace, the king casts a glance at the quarters and appreciates their beauty hightened by the autumnal season. Even like rivers do the ten quarters flow from the sky. The autumnal season,the king observes, is instructing the people and helping them understand the importance of modesty (or discipline). S'arad has also brought about a happy (re-)union between the estranged couple—the 'offended' Ganga and the 'indifferent' Ocean. The king is surprised to see that the capital city (Kusumapura) has *not* yet begun celebrating the moon-light festival. The Chamberlain finds it very difficult to answer the king's question–if our command has been made known to all, how is there no indication of the festival having beenoommenced?' Your Majesty, it is so' does not satisfy the king
-
-
 
 who orders the Chamberlain to state the matter clearly, Now comes the answer: 'Your Majesty, the moon-light festival has been prohibited. 'The king is all anger and asks 'by whom?' The Chamberlain pleads his inability to say anything more. The king conjectures that it must be revered Cāṇakya himself who has prohibited the celebration of the festival. Vaihınari's answer 'who else wishing to survive would transgress Your Majesty's command?' confirms the conjecture. The King takes his seat and sends Vaihinari with the message that he (Candragupta) wishes to see Fevered Cānakya.
 
@@ -9021,13 +8240,9 @@ who orders the Chamberlain to state the matter clearly, Now comes the answer: 'Y
 
  The Chamberlain has reached the minister's house, the extreme simplicity of which impresses him most. That the prime minister of the supreme king of kings should have such a 'prosperity' is what surprises him.At the same time it also explains how *'His Majesty'* Candragupta is to the prime minister only 'Vṛṣala'. One who has no desire, no longing, can afford to regard \[even\] the ruling sovereign to be as comtemptible or insignificant as a blade of grass Seeing the prime minister, surpassing in lustre even the thousand-rayed sun, the Chamberlain bends on his knees before him and conveys to him the message of the king. The prime minister takes no time to understand that the king must have learnt about the prohibition of the
 
-
-
 moon-light festival ordered by him (Cāṇakya) and angrily asks 'who informed (Candragupta about it)? The Chamberlain's answer 'His Majesty saw it, having gone up the Sugānga palace, personally' only leads the prime minister to another conjecture of which he makes no secret-'then by your people must the king have been seen in the meanwhile and incited against me; oh the attitude of extreme hatred that the king's retinue has developed towards Cāṇakya !' On being told to show the way to the Sungānga palace, where His Majesty has gone, the Chamberlain meekly does so, saying 'this way, this way \[may\] 'Your Reverence \[come\]" The prime minister of Candragupta goes up the Sungānga palace and is mightily pleased to see Vrsala occupying the throne. Candragupta gets up from the throne and prostrates himself at the preceptor's feet. The preceptor helps him rise, taking him by his hands and pronounces the blessing that he be saluted by hundreds of kings, repeatedly, coming from the vast area with the Himalayas as one extremity and the shore of the southern ocean as the other The pupil requests the preceptor to be seated and both get themselves seated in keeping with propriety.
 
  The preceptor inquires of the king why he (Cāṇakya) was sent for. "To have myself favoured by your sight' does not satisfy Cānakya, who observes that men appointed to carry out duties are not invited by the rulers for nothing. Candragupta then asks 'what advantage does the Revered one see in prohibiting the moon-light festival?' "So for being reprimanded, were we sent for" says Cāṇakya and the king hurries to explain 'no no evil be deprecated; to *request*you, were you sent for'. Cāṇakya takes full advantage of this attitude of request and says—then a pupil ought on no account to hinder the sweet will of the preceptor worthy of being requested.' Candragupta submits—'it is so; but never does the Revered one go in for any activity without any purpose; there is thus scope for a question regarding the purpose being put.' 'Not even in my dreams do I do anything that is without a purpose-you have well grasped, O Vīṣala' answers Cāṇakya Chandragupta says his keen desire to
-
-
 
 hear (what the purpose is) made him speak \[may be, perhaps far too much \].
 
@@ -9035,13 +8250,9 @@ hear (what the purpose is) made him speak \[may be, perhaps far too much \].
 
  Just at this juncture, behind the curtain, two bards recite verses describing (i) the autumnal season. (ii) Lord Viṣṇu getting up from the bed in the form of S'esa, (iii) the attitude of intolerance with regard to any violation of their crders shown by the sovereign rulers and (iv) the fact that a 'lord' becomes 'lord' worth the name not so much on account of the ornaments worn but because of *his orders never being violated*. A moment's deliberation enables Cānakya to understand that this is an attempt on the part of Rāksasa to bring about a split between Candragupta and himself i.e. Cāṇakya. Candragupta asks the Chamberlain to have a thousand gold coins given to the bard. Cāṇakya, however, peremptorily asks the Chamberlain to stop and blames Candragupta for thus wasting a huge amount for nothing. Candragupta becomes angry and says with this sort of restriction of the preceptor every where, the kingdom is only a prison and no kidgdom to us.' Cāṇakya coolly replies 'such defects are possible in the case of kings who do *not apply themselves* to the task of administration.'There was only one thing he could do. It was to shoulder the responsibility of administration himself. 'Here would he shoulder it—'we would apply ourselves to our duty,' says Candragupta Cāṇakya replies he is only too glad and that he too would apply himself to his own duty. The king takes the thread up and says he would then like to know the cause of the prohibition of the *kaumudi mahotsava.* Cāṇakya rejoins with the words, 'I too would like to know the cause (or pur-
 
-
-
 pose) of celebrating the *kaumudi mahotsava.'*That my command be not violated' is Candragupta's answer. Cāṇakya says 'precisely, with a view to having your command violated was the prohibition of the festival ordered. I wanted to prove just this that your command implicitly obeyed by the kings as far away as the shores of the four oceans,*stumbles* on coming into contact with *me* And there is another cause also which I would tell if you are minded to hear it."
 
  Cāṇakya causes to be brought by the pratihāri a list, of malcontents who had left Candragupta and joined Malayaketu, left with the scribe Acala. He reads the names on the list beginning with Bhadrabhata and ending with Vijayavarmā. The king wants to know the causes of the disaffection of all these Cānakya explains that Bhadrabhaṭa and Purusadatta, in charge of the elephants and horses respectively, were seen to be addicted to women, wine and hunting, neglecting their duties and were therefore relieved of their duties, being permitted to have subsistence allowance only. Being given their posts by Malayaketu, the two joined him. Dingarāta and Balagupta were full of greed and considering their remuneration inadequate and hoping to get more, joined the enemy. Rājasena, your attendant in your boyhood, having suddenly attained prosperity, thanks to your favour, went away to Malayaketu, fearing he would be deprived os the prosperity conterred on him Bhagurāyana with affection for Parvataka in his mind having arisen when the latter was our ally, having secretly frightened Malayaketu with the statement 'by Canakya was your father killed,' caused Malayaketu to go away from hither and Malayaketu full of gratitude at the thought that Bhagurāyans saved his life, gave to Bhāgurayana the position of his minister. Rohitāksa and Vijayavarman were too proud and too jealous of your relatives to stay on and therefore joined Malayaketu. The king asks if the causes of disaffection were known, why was nothing done to counteract the whole trouble?' 'It was not possible' replies the minister. The king ask was it because of lack of skill, or was it on account of some purpose in view ?' "Of coure the latter; there
-
-
 
 could not be any lack of skill," the minister answers. And the king wants to know the purpose at full length.
 
@@ -9049,21 +8260,15 @@ could not be any lack of skill," the minister answers. And the king wants to kno
 
  Candragupta is not satisfied with this explanation and says that there is a good deal he has to ask in the matter. 'Ask unhesitatingly, I too have a good deal to tel. In the matter rejoins Cānakya. The king wants to know why was Malayaketu, the root cause of the whole trouble *ignored,*while leaving the capital (Kusumapura)? Cānakya explains. If not ignored he would either have been taken prisoner as a necessity or given half the promised kingdom. The first would have only confirmed the charge of ungratefulness levelled against us taking the shape 'by these very people was Parvataka caused to be killed," The latter course would have had the fruit of undoing what had been previously achieved. Getting rid of Parvataka would
 
-
-
 have borne no fruit, if half the kingdom were given away to Malayaketu.
 
  Supposing this was the right course to adopt in regard to Malayaketu, what answer would the Revered one make to the question 'how was *Rāksasa*, going away from here, ignored by you?" "Allowing him to stop in the city would have led to a great internal disturbance, a revolt, as he enjoyed the confidence of the citizens, was rich in possession of wealth and lieutenants. Allowed to go away, he could be controlled by some means,"—the answer thus given by the preceptor does not satisfy the pupil The latter asks 'why was Rāksasa not seized per force?' 'Here too we were facing a dilemma,' answers Caṇakya,—'if attacked per force (1) he would have fought till the end, till he fell on the battlefield, which would have resulted in your losing such an eminent man as Rāksasa, or (2) would have killed your leading army officers. The pupil owns his incapacity to carry on a wordy warfare with the preceptor but states as the sum and substance of all he wanted to say: 'minister Raksasa himself is on all counts highly praiseworthy in this entire episode.' 'And not I, you should have completed the sentence' so saying, Cāṇakya asks '*what* was it that Raksasa had achieved to enable him to win this superiority ?' The king explains—if you don't know, then listen : he stayed in the city conquered by us as long as *he* wanted, caused obstruction to the proclamation of victory by *our*army, per force, and now I am so bewildered by the greatness of Rāksasa's policy that my mind does not believe even our own \[so far\] trustworthy men. Cānakya observes derisively—this is what be did; I thought he established Malayaketu on the throne having displaced you, as I established you on the throne, having extirpated the Nandas.'
 
  All this was done by just *another*. What credit could the Revered one claim here this question of the pupil makes the teacher ask the pupil 'who killed even like the beasts employed victims at a sacrifice, oneafter another, the Nandas, while \[your\] Rāksasa was helplessly looking on?' Not long ago the cemetary fires were raging
 
-
-
 to the great delight of the animals feasting on the corpses of the Nandas. Had Candragupta forgotten that? 'Candragupta refuses to be impressed by this and repeats, his previous answer: *'this was done by just another'* 'By whom?' asks the teacher. By *fate*, ever so hateful towards the Nanda family', answers the pupil. 'Fools respect Fate' rejoins the teacher. The pupil's answer is 'wise ones too are not given to boasting.' The teacher is enraged and prepares to declare another vow, the fire of his anger having been enkindled by by the pupil. The hand of the teacher hurrying to untie the knot of hairthat was bound, and the foot ready again to mount on a vow, as also his knitting of the eyebrow and the lightning-like lustre of his eyes frighten Candragupta who says to himself 'O, how the preceptor is really angry !' Cānakya withdraws his feigned anger, throws away the badge of his office saying let this (sword) be given to Rāksasa. as he is in your opinion superior to me.' He is in his own mind quite confident, however, that Rāksasa who wanted to brings about a split between Cānakya and Candragupta, would as a result of this sham quarrel, have to face a split between Malayaketu and himself (Rāksasa).
 
  On Caṇakya's departure Candragupta commands the Chamberlain to proclaim to the subjects that from that moment onwards, having disregarded Cāṇakya, Candragupta was going to look after the administration. As the Chamberlain is wondering how the king has referred to as Cānakya without the honorific epithet '*ārya*' the king asks him what he is thinking about. The Chamberlain hurries to explain 'fortunately has your majesty become your majesty (in the fuil sense of the term)'. Candragupta welcomes the impression of the Chamberlain and hopes that all would feel so and that noble Cānakya would thus be able to achieve his objective. The king then asks the famale door-keeper S'onottarā to show him the way to the bed-chamber, as he has got, as a result of the useless quarrel, a headache. In the last verse where Candragupta speaks to himself, he states how his mind feels like entering into the bowels of the earth, all full of shame as it is for
-
-
 
 his having transgressed the due limit in the form of respect to be shown to the preceptor, at the latter's own command, He for one, fails to understand how shame breaks not the heart of those who (wilfully) and as a matter of down right reality disrespect their preceptor.
 
@@ -9079,8 +8284,6 @@ his having transgressed the due limit in the form of respect to be shown to the 
 
  3. 1. 56-12 त्वरयन् lit causing haste i. e, hurrying, in great haste. The door-keeper asks the spy (whose identity is not known to the former) not to speak very loudly as the minister i.e. Rākṣasa was suffering from a headache caused by sleeplessness, the result of anxiety due to the political undertakings. समुत्पन्ना शीर्षवेदना यस्य सः समुत्पन्नशीर्षवेदनः.
 
-
-
  3, 1, 13 भद्र ‘O you with an auspicious or fine face,' is a polite way of addressing others. 14 The stage direction as also 3, 2 and 3 bear out what the door-keeper had said about Rāksasa viz, his being full of anxiety regarding the political undertaking. The minister isaccompanied by his Secretary, Sakaṭadāsa.
 
  (2) Construe:—कार्यारम्भे विधेः अविधेयता विमृशतः अपि च कौटिल्यस्य कुटिला मर्ति प्रचिन्तयतः अथ च मत्कृतानाम् उपग्रहे निकामं विहिते \[ सति \] उन्निद्रस्य मम इह इदं कथ \[ भवेत् \] इति निशा अनिशं प्रयाति।
@@ -9093,11 +8296,7 @@ his having transgressed the due limit in the form of respect to be shown to the 
 
  Rāksasa speaks of the trouble that is experienced either by a statesman or a dramatist. The statesman has to see to it that a small beginning or introduction of his
 
-
-
 undertaking for mission) is made, to start with. has the expansion of the same is arranged for, that the seeds which lay hidden from the sight of the ordinary men and women are made to show their fruit, reveal their fruit, that with his intellect due consideration of all that has spread about is made and that finally the whole aggregate of acts calculated to secure the goal in view\] is withdrawn so as to lead to the achievement of the goal kept in view from the beginning. The dramatist also is required to take the necessary pains (क्लेश) and see that the five संधिऽ(मुखसंधि, प्रतिमुखसंधि मुखसंधि, गर्भसंधि,अवमर्शसंधि and निर्वहणसंधि) are well arranged. Thus in the मुद्राराक्षस, चाणक्य's desire to secure the services of राक्षस for चन्द्रगुप्त, चाणक्य's desire to win over राक्षस mentioned at Act 1, 13, 1 may be regarded as the बीज. Incidentally it may be pointed out that this appears in the आरम्भstage or अवस्था and the मुखसंधि of the play. There is what is technically known as the बिन्दुthat is achieved i e. the seed is led to take a firm hold by the necessary preliminaries. In the मुद्राराक्षस, the signet-ring of राक्षस being secured by चाणक्य through one of his spies represents the second element (the first having been the वीज,It occurs in the यत्न stage and need not correspond with the प्रतिमुखसंधि among the सधिंऽ These is the पताका elenient in the play as राक्षस's efforts to kill चंद्रगुप्त are narrated as an episode in Act II (or it is possible to understand the whole account of Malayaketu in the play as a पताका or a long episode). It is to be observed that the पताका element too need not synchronise with either the प्राप्याशा stage or the गर्भसंधि, Candanadāsa's imprisonment (Act I) or the dialogue between minister Rāksasa and Karabhaka in this (IV) act is प्रकरी or a small episode, though this too has very little to do necessarily with the नियताप्ति stage or the अवमर्शसंधि, The कार्य element is actually winning over Rāksasa to serve Chandragupta and does correspond to the फलागम stage and the निर्वहणसंधि among the five संधिऽ, The following may be noted. (1) बीजम्–आरम्भः–मुखसंधिः, (2) बिन्दुः–यत्न–प्रतिमुखसंधिः, (3) पताका–प्राप्त्याशा–गर्भसंधि (4) प्रकरी– नियाताप्तिः–अवमर्शसंधि and कार्य–फलागम–निर्वहणसधिः. According to Prof. Dhruva the five संधिऽ are to be explained as रुपद्रव्यसंपत्, साधनोपायाः, विपत्प्रतीकारः, देशकालविभागः, and सिद्धिःrespec–
-
-
 
 tively. Whatever the correct explanation of the five संधिऽ the idea in the verse is to bring out the difficulty experienced by a statesman as well as a dramatist in securing their goal or winning their objective. The संधिऽsare called by Prof. Dhruva (1) the initial (2) the pro-initial (3) the medial (4) the dubious and (5) the completive divisions The metre of the verse is स्रग्धरा.
 
@@ -9109,8 +8308,6 @@ tively. Whatever the correct explanation of the five संधिऽ the idea in
 
  The official with \[the cane\] staff in his hand (वेत्रपाणिः) explained why people should move away. For, to the unfortunate (अ–धन्य) \[ lit.– not –blessed\] ones, even the sight of kings (lit. gods among men) is difficult to obtain. The gods among men are supporters of auspicious families
 
-
-
 (कल्याणकुलधराः). In this respect they have a similarity with gods of the कुलपर्वतऽ (कुलधरऽ) or rather कुलपर्वत which is कल्याण i e. golden. In other words kings are similar to gods' dwelling on the mountain Meru. Actually the mountain Meru is not contained in the list of कुलपर्वतऽwhich reads महेन्द्रो मलयः सह्यः शुक्तिमान् ऋक्षपर्वतः। विन्ध्यश्च पारियात्रश्च सप्तैते कुर्लेपर्वताः। It would be better to take कल्याणः=auspicious even in regard to the कुलधरऽ or to split up कल्याणकुलधराणाम् as कल्याणानां कुलानि तेषां धराणाम् i. e. विधातृृणाम् of those that shower a host of blessings. The श्लेष due to the two meanings of कल्याणकुलधराणाम् is evident As there is a comparison between ‘human gods’ and gods (इव shows that there is one between them), the main अलंकार in the verse is उपमा The metre of the verse is आर्या.
 
  4, 3, 7 Malayaketu, Rāksasa's ally, is appearing on the stage (for the first time in the play). He is accompanied by Bhagurāyana who has been appointed as minister (see 3, 4, 27, P. 102 text) by him and by his Chamberlain Jājali, 19 This passage has an importance of its own in being helpful to decide the time taken by the action in the play (Read pp 11-12 Introduction). न तोयाञ्जलिः अपि आवर्जितः 'Not even a cavityful of water has been poured or offered' —shows how much the prince feels for not having done anything, to avenge the murder of his revered father. Love of and regard for his father is the only redeeming feature of Malayaketu's character, which otherwise has very little to recommend in it (Read pp 20-21 Introduction) तातस्य उपरतस्य धशमः मासः tenth month since father was dead', the idiom requring the genitive of an event *after* which time is calculated deserves to be noted. Thus 'अद्य पञ्चमो दिवसो ममात्र प्राजस्य' it isthe fifth day since I arrived here.
@@ -9119,15 +8316,11 @@ tively. Whatever the correct explanation of the five संधिऽ the idea in
 
  By me a cavityful of libation (-water) \[निवापाञ्जलिः\] has to be given to i. e. in honour of my father (गुरु). But be-
 
-
-
 fore that I must effect or bring about (वि+धा) a change in the condition (अन्या अवस्था अवस्थान्तरम्) of women on the side of the enemy (शत्रुस्त्रीषु). The changed condition must be like that of the host my mothers (मातृजन i.e. ladies in the harem of पर्वतक). It would have for its cause grief \[on account of the loss of their husband\] (शोकेन जनितम्). In the altered condition, the gem (-studded) circlets: (or bangles) would be broken on account of the beating of the bosom by the ladies वक्षसाम् ताडनम् तेन भिन्नानि रत्नवलयानि यस्मिन् तन्। Therein, the upper germent (उत्तरीयांशुक) would slip, from its position भ्रष्टम् उत्तरीयांशुकम् यस्मिन् तत्! In it there would be the distressed (आर्त) cry 'alas' 'alas' I and therefore it would be piteous (करुण) or pathetic’ उच्चरित आर्तः नादः तेन करुणम्. In it, the women would have their curly hair (अलक) (made) rou.h (रूक्ष) on account of particles \[of dust\] on the earth (भू–रेणु) getting mixed with them \[in the act of wallowing through grief\] भुवः रेणव. तैः रुक्षाः अलकाः यस्मिन् The verse gives a very vivid picture of the women and therefore illustrates स्वभावोक्ति. As the अवस्थान्तर of मातृजन is to be brought about in शत्रुस्त्रियः, there is पर्याय अलंकारalso contained in the verse, defined as एक क्रमेणानेकस्मिन् पर्याय by मम्मट in काव्यप्रकाश X. अवस्थान्तर was formerly seen *in my mothers;* but shortly it would be seen*in the women on the side* of the enemy \[The first line in the verse should read वक्षस्ताडनभिन्नरत्नवलय, रत्नावल्य being a misprint\]— The metre of the verse is शार्दूलबिक्रीडित.
 
  (6) Construe:—अकापुरुषानुरूपा धुरम् उद्यच्छता मया आजिनिधनेन पितुः पथा गन्तव्य वा, स्वजननीजनलोचनेभ्यः आच्छिय बाष्पःरिपुवधूजनलोचनानि नेयः वा।
 
  There are two courses one out of which Malayketu says he must adopt: (a) to hold high (उद्+यम्) the yoke of my father i, e. to shoulder his responsibility, worthy of a person who is not a coward (न कुत्सिनःपुरुष तस्य अनुरूपाम्) and court death in a battle (आजौ युद्धे निधनम् and thus go along the path of my stree (पितुः पथा=पितृणाम् पथा or (b) tears (बाष्पजातावेकवचनम्) have to be taken away (आ+छिद्–gerund आच्छिद्य) from the eyes of my mothers and to be taken over (नेयः) to those of the women-folk of the enemy. In simpler words
-
-
 
 Malayaketu means to say that he ought either to fight to the last on the battle-field even if it means his death, or coming out victorious, ought to kill the enemies thus throwing their women-folk into the worst calamity viz. widowhood. As a result of this latter, the women on the enemy's side would be bemoaning the loss of their husbands andthus be full of tears—this being exactly what had formerly happened to his mothers.
 
@@ -9137,15 +8330,9 @@ Malayaketu means to say that he ought either to fight to the last on the battle-
 
  (7) Construe:—कैश्चित् खरतरकविकाकर्षणात्यर्थभुग्नैः स्कन्धदंशैः \[उपलक्षिताः\]स्वुरपुटैः पुरस्तात् खम् इव खण्डयन्तः अश्वाः निरूद्धाः, केचित् विहतजवतया मूकघण्टैःमातङ्गमुरख्यैः निवृत्ताः, \[है\] देव, भूमिपालाः जलधय इव ते मर्यादा न उल्लङ्घयन्ति।
 
-
-
  (The Chamberlain informs the Prince that as soon as the kings were informed of the wish of Malayaketu, they obeyed the same. All of them have already returned.) Some have curbed their horses possessed of shoulder-regions having prominence (उत्सेधेन सहिताः स्कन्धदेशाः तैः उपलक्षिताः अश्वाः), shoulder-regions which are excessively (अत्यर्थ) contracted (भुग्र) on account of the very sharp (खरतर) bridle-bite being pulled up (आकर्शण) The horses (out of impatience quite natural to them) are as though breaking into pieces space (खम्) in front of them by their hoofs (खुरपुट lit, folded or fold-like hoofs). This is a common sight for such as have an opportunity to see horses of excellent breed from close quarters. When curbed by the pulling in of the reins, the horses kick space impatiently. Visakhadatta *jancies* that they break as it were space in front of them into so many parts. Other kings have returned (निवृत्ताः) with their leading (मुख्य) elephants (मातङ्ग), the bells \[round their necks\] silent (मूक) as their speed has been put an end to (वि–हत. The elephants are allowed to walk very slowly. The Chamberlain concludes from this that the protectors of the earth do not transgress (न उल्लङ्घयन्ति) your (ते) boundary i.e.they do not transgress the limit you have fixed for them In this respect they are comparable to the oceans (जलधयः lit, reservoirs of water) who do not go beyond the limit fixed by the king for them. (This latter is obviously a piece of the customary flattery of a royal servant as all who know the story of Canute's reproof of his courtiers are aware. Oceans are governed more by nature's, than by any king's laws. In 1-3 there is a statement of विशेषor particular cases of some kings and in line 4 there is a general statement (सामान्य) which supports them. Of *all* kings it can be said they do not transgress the limit fixed by you Thus there is अर्थान्तरन्यास in the verse. मर्यादा is *physical* (the वेला) in the case of the उपमान, but metaphorical in that of the kings. Thus there is श्लेष contained in the verse The graphic description of the horses and the elephants in 1-3 makes it an Instance of स्वभावोक्ति अलंकार. The figure of speech in the verge as उपमा (भूमिपाला जलधय इव). The metre in which it is couohed is स्रग्धरा.
 
-
-
  4, 7, 1-3 The Chamberlain and the retinue return leaving Bhāgurāyana alone to accompany Malayaketu as per the latter's command. 4–8, Bhadrabhața etc. have made a representation to the prince that they have resorted to the prince *not through* राक्षस, but through शिखरसेन, मलयकेतु's General; that they were full of disaffection (अप–रक्ताः) for चन्द्रगुप्त as the latter had gone into the clutches of the wicked minister (Cāṇakya) and \[above all\] as the prince was richly endowed with (योग) qualities (गुण) of one who deserves to be approached as a resort (आभिगामिक). Kautiliya Arthas'astra : elps us understand the आभिगामिक गुणऽor qualities that attract persons to a king in (1) महाकुलीनः (2–4) दैवबुद्धिसत्त्वसम्पन्नः (5) बुद्धदर्शी, (6) धार्मिकः, (7) सत्यवाक् (8) अविसवादकः, (9) कृतज्ञः, (10) स्थूललक्षः, (11) महोत्साहः. (12) अदीर्घसूत्र, (13) शक्यसानन्तः, (14) दृढबुद्धिः, (15) अक्षुद्रपरिषत्कः and (16) विनयकामःObviously महाकुलीनत्व etc. are the qualities 9-10 भागुगयण explains that the course followed by भद्रभटetc is but the proper one (न्याय्य एव) ; for, an ambitions king like मलयकेतु possessed of आत्मगुणऽ should be resorted to, worthy of being resorted to as he is through (द्वारेण) one who is dear (प्रिय) and beneficial (हित) to him (the विजिगीषु). This is a welknown policy followed by those desirous of approaching a विजिगीषु for protection. भागुरायण deliberately is interpreting the behaviour of भद्रभट etc. so as to be unfavourable to राक्षस (though here he does not refer to राक्षस by name). 11 भागुरायण accepts that राक्षसis the dearest as also most beneficial to मलयकेतु but hurries to add that राक्षस ison enemical terms with चाणक्यand not चन्द्रगुप्त In case too much of pride on the part of चाणक्य leads चन्द्रगुप्त to dismiss the former, there is every possibility that राक्षस would enter into an alliance with, settle terms (नेदधीत) with चन्द्रगुप्त as the latter is a scion of the Nanda race, and as राक्षस would be only too eager to save his friends \[like चन्दनदास etc.) (सुहृज्जनानां चन्दनदासादीनामपेक्षया चन्द्रगुप्त also would accept this position, agree to have an alliance (संधिमनुमन्येत) with the thought राक्षसhas been serving the race of Nandas from of old-has come to me of the 2nd generation after my father (पितृपर्यायागतः) \[and would therefore be devoted to me\]'. In such a case, were भद्रभट etc. to resort to कुमार मलयकेतु through राक्षस, they would not be trusted by कुमार मलयकेतु.
-
-
 
 They would be regarded as unreliable like राक्षस himself. To avoid this, have they resorted to you, through शिखरसेन भागुरायण has succeeded in convincing मलयकेतु regarding the interpretation as मलयकेतु's 'युज्यते' shows,
 
@@ -9156,8 +8343,6 @@ They would be regarded as unreliable like राक्षस himself. To avoid t
  Ministers tell one thing (lit in one way) in the presence of kings i. e, they do not tell the truth out of apprehension (भय) of damping the spirit \[ of the king\] सत्त्वस्य भङ्गः तस्य भयं तस्मात्. सत्त्वभङ्ग isalso interpreted as rousing or provoking (भङ्ग) anger (सत्त्व) \[of the king\]. The ministers tell something different (अन्यथा lit otherwise) in free (स्वैर) talks (आलापऽ) \[with those that are intimate with them\]. Or स्वैरालापेषु=स्वैः \[स्वकीयैः विश्वासार्हैः\] आलापेषु in their conversation with persons who are their own \[trusted men\]. The metre of the verse is अनुष्टुभ्.
 
  4,8,1 भागुरायणaccepts the proposal to overhear the conversation.–5 'गहनःprofound, very deep mysterious, unfathomable is the account related to राक्षस सचिववृत्तान्त),' is deliberate on the part of भागुरायण who is busy bringing about a split between मलयकेतु and राक्षस. 10-2 Karabhaka narrates the heppen'ng in कुसुमपुर 22-23 The sunele where अभिमतवधूजनसमागम् is the standard of comparison is happy चिरकालपरिवर्तमानः=चिरकालपरिवर्तमानत्वात्. That due to its coming after a long period of time, the festival, like t e union with the beloved wife should have been very highly valued-and valued with affection is only natural. The passage may be regarded as an instance of परिकर 'अभिमत' being साभिप्राय As चिरकालपरिवर्तमानः gives the cause of the high value set on the festival, there
-
-
 
 is काव्यलिङ्ग contained in it. जनितपरिचयःmay be regarded as a श्लिष्ट expression qualifying महोत्सव (when metaphrically understood) as well as वधूजनसमागम (physically understood). The main अलंकार in the passage is obviously उपमा.
 
@@ -9171,13 +8356,9 @@ is काव्यलिङ्ग contained in it. जनितपरिचय�
 
  किं न on page 124 for किं नु is a misprint Even an ordinary (प्राकृत) person would not tolerate any interruption (छेद) cause abruptly (सद्य) of the delight (रस) of sport क्रीडा How much greater then would be the possibility of the lord of the earth, possessing extra-ordinary (लोकात् अधिकं लोकाधिकं lit, more than that of the world) prowess (तेजः) not tolerating the same The idea is even a Tom, Dick or Harry would not tolerate such an interruption; let alone the sovereign ruler with the greatest of prowess in his possession. The figure of speech contained in the verse is
 
-
-
 अर्थापत्ति. For, when even an ordinary man does not tolerate interruption, it goes without saying (अर्थात् आपन्नम्) that for parity of reasons (समानन्यात् ) the sovereign ruler, so many times more powerful. would not tolerate any. दण्डपूपिकयान्यार्थागमोऽर्थापत्तिरिष्यते। 'साहित्यदर्पणX83). The metre of the verse is अनुष्टुभः 4, 10, 1 मलयकेतु appreciates the accuracy of राक्षस's inference (though he is not yet addressing राक्षस) 4, 10, 4-5 आज्ञाया. भङ्ग' तेन कलुषितेन tainted i.e. displeased at the violation of his command.
 
  The gerund of प्र+शंस्–प्रशस्य having praised, अपभ्रंशितः was caused to fall i e., was dismissed or removed (from his अधिकार i.e, office) 8 भागुरायण says that even more than the praise of राक्षस's qualities, the dismissal of the Cānkya-chap is an indication of चन्द्रगुप्त's partiality to राक्षस 9-10 राक्षस wants to ascertain whether in addition to the prohibition of the moon-light festival by Cānakya, there is any cause why चन्द्रगुप्त has become angry towards चाणक्य 12-15 भागुरायण explains. (1) The clever prime minister of Candragupta would not cause the latter to fly int) a rage for nothing (2 Candragupta knows i.e is (ever) grateful for service rendered (कृत) to him and would not for just one violation of his command disregard Cānakya. Obviously that estrangement between Caudragrpta and Cānakya which would arise out of adequate (lit, ample) cause, would be extreme in nature. राक्षस is rightly inquiring whether the alienation between चन्द्रगुप्त and चाणक्य arose out of just one cause or there were many causes responsible for the same. 18—There is another cause also—चाणक्यऽ having ignored Malayaketu's escape from the city. 19-20 is sure in his own mind that the विश्लेष between चन्द्रगुप्त and चाणक्य is not due to a trifling cause. He visualizes the alienation between the two, which is bound to be permanent and therefore is confident that चन्द्रगुप्त left alone by चाणक्य, severed from चाणक्य, would easily be captured (हस्ततलगतः भविष्यति) and consequently effecting the release of Candanadāsa from the prison and restoration of S'akaṭedāsa's family to him (S'akaṭalāsa) would be achieved soon.—22 To मलयकेतु's questions what does राक्षस mean by हस्ततलगतः \[चन्द्रगुप्तः\] भविष्यति, भागुरायण's answer is that राक्षस does not see any point in having चन्द्रगुप्त uprooted (उद्धरण=
-
-
 
 uprooting). It is enough to have him alineated from चाणक्य. It is easy to see how this insinuation by भागुरायण must have confirmed मलयकेतु's suspicion that राक्षस had no enmity with चन्द्रगुप्त For, that was what भागुरायण himseif had told मलयकेतु only a little while ago (See 4, 7, 12) भागुरायण wants मलयकेतु to believe that राक्षस would *spare* चन्द्रगुप्त, राक्षस's sole concern being the removal of चाणक्य from the position of the प्रधानमन्त्री of चन्द्रगुप्त 24 As is natural राक्षस inquires where चाणक्य removed from office is staying 26 राक्षस cannot believe that चाणक्य would stay in पाटिलपुत्र even after being deprived of his authority. More natural on his part would be (1) repairing to a penance grove, (2) declaring another vow\[ of the destruction of चन्द्रगुप्त\] 28-29 कम्भक says the report goes that चाणक्य would \[before long \] go to a penanace-grove. 30 Rākṣasa does not consider this to be standing to reason (न उपपद्यते) The reason follows in 4,11.
 
@@ -9187,33 +8368,23 @@ uprooting). It is enough to have him alineated from चाणक्य. It is ea
 
  4, 11, 3-4 भागुरायण explains that राक्षस's interest in चाणक्य repairing to a penance-grove or declaring another vow is
 
-
-
 only this: the farther away (either physically or metaphortcally) the going of चाणक्य from चन्द्रगुप्त, the better would it be for राक्षस to achieve his own objective. His own objective is deliberately used ambiguously. It may mean (1) ousting Candragupta from his throne. But it is also capable of insinuating (2) getting the prime ministership of Cangrsgupta,–5 S'akatadása differs from राक्षसand argues that चाणक्य's*staying* in पाटलिपुत्र(-rather than repairing to a penance— grove or declaring a new vow) it is that stands to reuson.
 
  12 Construe:—राज्ञा चूडामणीन्दुद्यतिरचितशिखे मूर्ध्नि विन्यस्तपादः मौर्यः स्वैः एव उत्पाद्यमान आज्ञाविघातं किम् इति विषहते? कौटिल्यः कोपनः \[सन्\] अपि स्वयम् अभिचरणे ज्ञातदुःखः दैवात् तीर्णप्रतिज्ञः आयतिग्लानिभीतः पुनः अपि प्रतिज्ञा न करोति।
 
  S'akatadāsa explains (1) Maurya has planted his foot (विन्यस्तः पादः येन विन्यस्तपादः) on the heads of kings with the crests (शिखा) brightened and decorated (स्वचित) by the lustre of the moons in the form of creat jewels (चूडामणीन्दवः) चूडायां मणयएव इन्दवः तेषाः द्युतिः तया खचिता शिखा यस्य \[मूर्ध्नः\] तस्मिन्। मूर्ध्नि is जातावेकवचनम् and means the same thing as मूर्धसु How would he then tolarate violation of his command being indulged in (उत्पाद्यमानlit being produced) by just एव) *his own people*(स्वैः एव? There is not the slightest possibility of Candragupta's allowing any breach of his command by his own servants (2) Kautilya is choleric by temparament, no doubt All the same (अपि) he has personally (स्वयम्) experienced (lit. known) the difficulty lit. pain (दुःख) of carrying out (अभिचरणे) a vow. It was a singular piece of good luck (दैव) that he fulfilled his first vow (lit, crosse i his vow तीर्णा प्रतिज्ञा येन सः). Apprehensive that he is about failure (lit, fatigue ग्लानि) in futurə (आयतिhe \[only naturally) *does not* undertake (lit make a vow again \[In 12, line I, चूडामणीन्दूis wrong for चूडामणीन्दु...\] अभिचरण (अमित चरण) fulfilling is the meaning accepted in the translation of the verse as also here thus making it equivalent to अतिचरणे'carring out'. But कौटिल्य's अर्थशास्त्र deals with अभिचार rites or rites performed with the purpose of doing harm to one's enemy and therefore it is possible to interpret अभिचरगे=अभिचारे or अभिचारकर्मणि (ज्ञात दुःखः).
 
-
-
 Performing such rites as the ‘श्येन' (श्येनेन अभिचरन् यजेत) is no easy taskCānakya is fully aware of this and would therefore think twice before declaring another vow for the fulfilment of which he will have to practise the same अभिचार कर्म again. राज्ञां मूर्ध्नि विन्यस्तपादः is asignificant विशेषण making the verse an instance of परिकर अलंकार. किमिति विषहते=न एव विषहते (present in the sense of future) contains प्रश्न अलंकारin it. ज्ञात दुखः पुनः अपि प्रतिज्ञा न करोति=ज्ञातदुःखत्वात्........न करोति Lines 3 and 4, therefore illustrate the काव्यलिङ्ग अलंकार. The metre of the verse is स्रग्धरा.4, 12, I राक्षस accepts the explanation given by शकटदास and sends शकटदास and करभक away, as the latter should be given rest after his long journey from पाटलिपुत्र–3 अहम् अपि I on my part. –4 Malayaketu seizes the right moment to announce himself to राक्षस for the latter has said ‘अहमपिकुमार द्रष्टुमिच्छामि 5-6 Formal courtesy is shown by राक्षसwhich is returned by the Prince in 7 (उपविशत्वार्यः). The Prince proceeds to inquire whether the minister has any relief from the headache he was suffering from 9-10 राक्षस's reply is worthy of a sincere minister, who has resorted to '*Prince'*Malayaketu as an ally So long as the Prince has not become the *sovereign ruler* (अधिराज, how could there be any relief? अधिराजशब्द the title अधिराज अतिरस्कृत not looked down upon i.e. not stamped out Evidently 'so long as the title 'adhiraja' has not stamped out the title 'Kumāra' is a पर्यायोक्त fashion of saying 'so long as the Prince has not risen to the eminence of the sovereign ruler' 11 उरीकृत, under taken, is the same as अङ्गीकृत (also उररीकृत), \[ऊरीकृत is a misprint\] मलयकेतु says now that this object is undertaken by राक्षस, it would not be difficult to secure it. Soon enough he will be adhiraja' 12 मलयकेतु inquires of राक्षस how long should they i. e. their political party) wait for a calamity befalling the enemy, though they have their armies fålly well strengthened (संभृत बल सैन्य येषा ते तैः । and how long should they thus remain inactive? (उद्+आस् to be inactive) 13 राक्षस replies there is no scope for delaying now, he can as well start for \[winning\] victory. 11-17 Malayaketu is told by राक्षस that the calamity they were waiting for has already befallen the enemy i.e. चन्द्रगुप्तThe latter has been estranged from his minister (चाणक्य). 18 मलयकेतु points out that
-
-
 
 this calamity pertaining to the minister is \[practically\] no calamity. 20 राक्षस explains that of other kings this may some times be true But of चन्द्रगुप्त, the calamity in the form of estrangement from the minister is a great calamity.
 
  21-23 मलयकेतु explains his point: The subjects (प्रकृतयः) of चन्द्रगुप्त were *drsaffected* \[only\] *on account of* चाणक्य's *faults*, But now that चाणक्य has been removed, the subjects already full of affection for चन्द्रगुप्त.would be even more so. 24-29 राक्षस points out: there are two types of subjects (1) those who rose in revolt against the Nandas with Candragupta and (2) those full of affection for the Nanda family. Of the former. only. चाणक्य's faults were the cause of disaffection, and just hrs faults were the cause of disaffection But of those full of affection for the Nanda family, this is not true They had got themselves (offended विप्रकृताः) agitated by disaffection (अपराग) and anger (अमर्ष) as (इति) Candragupta had destroved the family that had become \[his\] parent \[family\]—or that had become their parent \[family\]. They are at present following just Candragupta, failing to secure any resort for themselves. But now that they have a king of your eminence with such power as would enable him to uproot the rival party i. e Candragupta, they would quickly abandon Candragupta and resort just to *you*. This is no mere theoretical argument. 'We' says राक्षस.‘are ourselvas a convincing (नि) example दर्शनम्)of this \[development sure to take place\]' 30-31 मलयकेतु wants to make sure that the calamity that has befallen Candragupta is really great He inquires whether there is any other calamity. राक्षसanswers 'this is the most important one मलयकेतु has his doubts. He therefore inquires—would चन्द्रगुप्तnot find it possible to entrust the heavy responsibility (धुमम्) of administration to some *other* minister \[now that चाणक्य is dismissed from office\] or to shoulder it himself, and thus counteract the calamity?35-37 राक्षस replies 'चन्द्रगुप्त, depending for his success \[or achievement\] on the minister as he has been so far, is one who has not seen any dealings pertaining to administration himself—that he is on a par with a man whose eyes have no power of seeing and that thus he would *not* be able to counteract the calamity.
-
-
 
  (13) Construe:—मन्त्रिणि पार्थिवे च अत्युच्छ्रिते \[सति\] श्रीः पादौ विष्टभ्य उपतिष्ठते; स्त्रीस्वभावात् भरस्य असहा सा तयोः द्वयोः एकतरं जहाति!
 
  Frankly this verse is a textual difficulty in the play not solved so far. It is evident that the verse has no vital relation to the argument preceding it. There is no word or phrase (तथाहि, कुतः, अपि च etc.) connecting it with the prose passage which it follows. The difficulty remains unsolved because it is not possible to decide *whose Jeet* (पादौ) are refere red to in line 2—whether they are the feet of the minister and the king, or they are those of Sovereignty herself. In the translation (p.132) given in this edition, the idea understocd to have been intended by the poet is: when the minister and the King are each very much exalted, Sovereignty plants *her* feet firmly \[one each\] on their shoulders. \[But standing so high up is an acrobatic feet which Sovereignty cannot keep on performing indefinitely long\]. As is natural to a woman, she finds it impossible to maintain the difficult position (lit weight भर) or sustain the strain and abandons one of them. \[चाणक्य & चन्द्रगुप्त are both exalted. Standing on the shouldere of them both for long would be impossible for Sovereignty who would consequent ly abandon one of the two\] It has been suggested that Sovereignty envisaged here is one who props up (विष्टभ्यhaving propped up) the feet of the two i.e. the minister and the King. "यथा काचन नर्तकी अत्युन्नतौ समौ वंशग्तम्भौ पादाभ्यां विष्टभ्य सुस्थिरा तिष्टति किंतु तयोर्वैषम्ये सति विसष्ठुलपदतया देहभरं सोढुमसमर्था सती, एकं विहायान्यतरमवलम्बमाना तेन सह स्वयमपि निपतति तद्वत्। *supplies* the words ‘समौ’ ‘वैषम्ये सति’and is not very helpful. Another explanation suggested is that the Sovereignty's position is *not* like that of a dancing girl but similar to that of a courtesan, She cannot sustain the weight of two masters (असहा भरग्य) and has to abandon one of them The metre of the verse is उपजाति. Prof. Dhruva rightly drops this verse from the text.
 
  (14) Construe:—सचिवात् अपकृष्टः तदर्पणः नृपः स्तनात् \[अपकृष्टः\] स्तनंधयः अत्यन्तशिशुः इव अदृष्टलोकव्यवहारमन्दधीः मुहूर्तम् अपि वर्तितुं न उत्सहते।
-
-
 
  This verse is properly connected with the prose passage which it comes immediately after A King who leaves to the minister (तदर्पण) all administrative responsibility, when dragged away (अपकृष्ट.) from him, is not able to live even for a moment, like an infant sucking the mother (lit breast स्तन धयतीति स्तनंधय) when weaned, not being able to survive even a moment. The king has his intellect all too dull—not at all rendered sharp—as he has seen no worldly dealings at all. The infant too is in the same state. Life becoming impossible for either is only natural under the circumstances The figure of speech in the verse is उपमा (अत्यन्तशिशुः इव). अदृष्टलोकव्यवहारमन्दभी. (न दृष्टः लोकस्य व्यवहारः येन, स चासौ मन्दा धी. यस्य सः) isequally applicable to an Intant and a सचिवायत्त king. The verse is couched in the वशस्थाक्लि वृत्त (वदन्ति वंशस्थविल जतौ जरौ with the scheme ज, त, ज र. \[In line 4 व्यवहारमन्दधीर्मुहूत.. .is a misprint which should be corrected so as to read व्यवहारमन्दधीर्महूर्त\]
 
@@ -9223,8 +8394,6 @@ this calamity pertaining to the minister is \[practically\] no calamity. 20 र�
 
  राक्षस marshalls out the reasons why victory \[over चन्द्रगुप्त\] can be regarded as a foregone conclusion. (1) Malayaketu, the protector of men, equipped with an excellent ariny is the one who is going to attack \[Paṭaliputra\]. (2) The city \[of Pataliputra\] is full of affection for Nandas (or for Nanda.) (3) चाणक्यhas been removed from his office and therefore
 
-
-
 has turned his face away (विमुख) from all political matters. (4) Maurya is a *new* (i.e raw, inexperienced) ruler (not known to the subjects for a long period of time) and is thus handicapped.. (5) I am at your disposal—so saying the minister blushes as he has mentioned himself—I would be busy carrying out one thing viz., pointing out (lit. telling) the way only Under the circumstances the things to be achieved by theil are having only the *desure* of मलयकेतु, between राक्षसand his friends and themselves मलयकेतु is in other words just to wish let the dersied objects be achieved.' and राक्षस isconfident, ther will be achieved. (मार्गमात्रम्य कथन तस्य व्यापारयोगः उद्यमः यस्य सः) (1) in the above list brings our te strength of मलयकेतु, (2) shows that there is अन्तःकोपpresent in the capital of चन्द्रगुप्त, (3) refers to the सचिवव्यसन, (4) brings out the handicap that the enemy is suffering from and (5) is intended' to set forth the मन्त्रिसम्पद् of मलयकेतु, though राक्षस expresses the idea very modestly. All the five are verv important from the point of view of the राजनीतिशास्त्र.The passage 'नः साध्यानि त्वद्वाञ्छान्तरितानि' contains पर्यायोक्त अलंकार in it as the elaborate words mean only this 'wish and our objective will instantaneously be achieved' The verse iscouched in the शार्दूलविक्रीडित metre.
 
  4, 14, 1, मलयकेतुsays, if it be so there isno reason why they should sit quietly, indifferently (a moment longer\] किम् आस्यते=किम् आस्यते उदासीनैः अस्माभिः।
@@ -9232,8 +8401,6 @@ has turned his face away (विमुख) from all political matters. (4) Maury
  (16) Construe—उत्तुङ्गाः स्रुतमदेसलिलाःश्यामाः अलिमुखराः उरुदर्शनैः उत्सादिततटाः सिन्दूरशोणाः मम गजपतयः शतशः तुङ्गकूल प्रस्यन्दिसलिलं श्यामापकण्ठ कल्लोलमुखर स्त्रोतःखातावसीदत्तट शोणम् अपाम्यन्तु।
 
  The river is called *Śoṇa* (reddish) The lordly elephants of मलयकेतु are Sonsai.e. red thanks to the vermilion \[applied to their trunk, temples etc as a decoration\] The banks (कूल) of the river are high (तुङ्ग) The elephants are \[themselves\] *lofty* (उत्+तुङ्ग) extremely high in their stature. Sona has its water flowing The elephants have their ichor-water flowing \[profusely\] स्रुतं मद एव सलिलम् येषां ते स्रुतमदसलिलाः। The adjoining portions of the banks of the river are
-
-
 
 dark (श्याम) with \[the foliage of\] trees \[growing there\]. श्यामाः उपकण्ठे द्रुमाः यस्य
 
@@ -9245,8 +8412,6 @@ dark (श्याम) with \[the foliage of\] trees \[growing there\]. श्�
 
  वाराणानां घटाः masses ofelephants are expected to surround the city i.e. पाटलिपुत्र The masses of elephants would produce a deep (गम्भीर) noise of their grunting (गर्जित) and spout forth (उद+गृ to spout forth water-particles (शकिरम्) mixed with their ichor-water thus resembling a shower (वर्षम्) of spray (आसार) The elephants would thus resemble (इव) rows of clouds \[with the same dark complexion as of the elephants\], with the sound (रव, of their deep (गम्भीर) rumbling
 
-
-
 (गर्जित) and with water scattered about (विकीर्ण संलिल याभिः ताः) and which surround the विन्ध्य mountain. There is thus resemblance between (1) वारणघटाः and मेघमालाः and (ii) नगरम् and विन्ध्यम् The figure of speech in the verse is उपमा, though there is श्लेष too as गम्भीरगर्जितरवाःis understood in different ways as qualifying the elephants and the clouds.
 
  \[गर्जित=(1) snorting, ( ) rumbling.\]
@@ -9257,8 +8422,6 @@ dark (श्याम) with \[the foliage of\] trees \[growing there\]. श्�
 
  The Jaina friar recommends the teaching (शासन) of the worthy saints (अर्हताम्) to the ordinary run of men and
 
-
-
 women. Step on to i. e., understand (प्रति+पद्) the teaching of the worthy ones who are physicians in respect of the disease in the form of infatuation or delusion (मोह–मुह् to be infatuated, deluded). 'मोहः एव व्याधिः' and obviously अर्हन्तः एव 'बैद्याः. As one रुपक leads to or is the cause of the other, the figure of speech in the verse is परम्परितरूपक. The instruction imparted by the worthy saints is \[medicine-like\] pungent for just a while (मुहूर्तमात्र कटुकम् but wholesome (पथ्यम्) after wards. The metre of the verse is आर्या.
 
  4,18,1 The friar drawe near and expresses the Pious wish that the \[faithful\] listeners i. e. laymen be successful in their spiritual undertaking (धर्म) 2 राक्षप requests te Ksapanaka to find out (रूप्) carefully (नि) the day for their starting on the proposed military expedition 3 The actor playing the role of the Ksapaṇaka is to impress the audience by the expression on his face that he is meditating The stage direction नाट्येन चिन्तयित्वा is thus to be understood. \[In the prose passage preceding verse 19, read श्रावक. तिथिः संपूर्णचन्द्रा and not संपूर्णचन्द्रा\] 4–5 The day is found out. It as the one on which there will be the full-moon in the sky. From the mid-day hour onwards it is altogether auspicious (निर्वृत्तं सर्वं कल्याणं यस्यां), For those starting from the north and going to the south the constellation is favourable (दक्षिण).
@@ -9266,8 +8429,6 @@ women. Step on to i. e., understand (प्रति+पद्) the teaching of 
  (19) Construe:—सूर्ये अस्ताभिमुखे, संपूर्णमण्डले चन्द्रे अंदते,केतौ च उदितास्तमिते बुधस्य लग्ने गमनम्।
 
  When the sun is about to set the full moon has risen, when बुध i.e. Mercury is in the \[मिथुन–\] लग्न, when राहु is just risen and केतुalready set \[राहु and केतु being names of the the two ends of the planet,—when केतु isअस्तमित and राहु उदित\], there shold be the starting of the military expedition. There is, however, another meaning also which is suggested सरे=शरे i.e when the brave मलयकेतु is about to be defeated (अत्ताभिमुखे), when Candragupta with his entire royal circle has risen, it is better for you to make friends with the*intelligent* (बुध) prime minister of Candragupta i. e, with Cāņakya.
-
-
 
  4, 191 राक्षस points out that the day itself viz. पौर्णमासी is not favourable. The Ksapaṇaka explains the propriety and auspiciousness of the day in 4, 20.
 
@@ -9284,8 +8445,6 @@ women. Step on to i. e., understand (प्रति+पद्) the teaching of 
 
  Even though the conjunction by itself is inauspicious, when there is an auspicious (सौम्य lit. mild) planet \[presiding over it, it becomes an auspicious conjunction. Rāksasa should start as the चन्द्रबल would be in his favour (besides Mercury the सौम्य ग्रह being extremly fovourable to the starting of expedition) and thus secure a lasting advantage or benefit As in the preceding verse, in this too there is a suggestion: The union \[between Rāksasa and Cānakya\] would be a happy (सु) union as there would be a friendly (सौम्य) attitude (ग्रह—mentality). Though at present your association (लग्न) \[with Malayaketu\] is far from favourable that need not be considered a serious difficulty. With Gandragupta in your favour (चन्द्रस्य बलेन) or with the army of Candragupta to help you, reap a long lasting benefit.
 
-
-
 Both the verses contain thus a premonition i.e., a suggestion of what is to happen in the near future, and thus constitutes a पताकास्थान (defined as यत्रार्थे चिंतितेऽन्यस्मिंस्तल्लिङ्गोऽन्यः प्रयुज्यते। आगन्तुकेन भावेन पताकास्थानकं तु तत्।) See p.29 Notes.
 
  4, 21, 1 राक्षसis not quite satisfied with the explanation given by the Ksapaṇaka He, therefore, asks the latter to discuss the matter with other astrologers: 2–5 The Ksapanaka ipfuses to consult any one else. If Rāksasa thinks it necessary, he should consult others. 4 राक्षस is full of concern and asks–'Surely you are *not* angry \[towards me\]? 3–6 The friar answers *he* is not angry towards राक्षस.7–9. To the question 'who then is\[angry\] ?' the friar's answer is 'the revered *Kitanta*' which is a paranomastic word signifying (1) the established (कृतः=सिद्धः) conclusion (अन्तः) and (2) Yama the god of death. There is श्लेषin येना…….. प्रमाणीक्रियते also: (1) Having abandoned *me* belonging to your side you want to consult another \[it is only meet under the circumstances that the revered established conclusion of astrology would be wroth with you\] and (2) having abandoned Candragupta (scion of the Nanda family and therefore), one who \[in fact\] belongs to your side, you are accepting as your authority a stranger (पपक्षः) viz, मलयकेतु, \[what would be more proper than that god of death be angry with you?\].
@@ -9296,13 +8455,9 @@ Both the verses contain thus a premonition i.e., a suggestion of what is to happ
 
  Here the trees (तरवः) in the garden (उपवन) with their reddish tinge (अनुराग) manifested \[as the red glow of the morning sun is spread over the trees\] (punningly with their
 
-
-
 affection (अनुराग) for the sun manifested) went far in front (पुरस्तात्) of the sun (भानु) as he rose up from the mountain of, rise, and went very quickly (आशु एव) by the shadows of their leaves, पर्णानां छाया पर्णच्छायम्–छायाबाहुल्ये इति नपुसकम्. The plural ...च्छायैः brings out that there are *many* पणच्छायऽ. Early in the morning, as soon as the sun rose, the trees cast long stretching shadows of their leaves \[going westward\]. This is like servants running ahead of the master to help him or escort him. But now that the sun has his orb (विम्व) throw (पर्यस्त) on the edge (or region\] (प्रान्त) of the other mountain i.e. the mountain of setting, the trees have returned. The shadows of the trees in the evening fall not *sun-ward*, but in such a way as to make the fancy possible that they are going away (नि+वृत् lit, returning) from the sun. The behaviour of the trees in the morning where the sun has risen. (is prosperous) and later in the evening when his orb has fallen on the edge of the mountain of setting, is regarded by राक्षसas typical of a majority (प्रायः) of servants For, these latter, mostly give up their master, even while serving him (सेवमानाः), when the master has fallen from his prosperity (प्रचलितः विभवः यस्मात् or यस्य सः). The verse contains in it the सामान्येन (line 4) विशेषस्य (lines 1–3) समर्थन - type of अर्थान्तरन्यास. There is श्लेष also present as अनुराग (1) red tinge and (2) affection, occurs in line 1.
 
  There is no special occasion for राक्षस to express the thought about servants contained in the verse. But the observation is true to facts, guardedly made as it is by the poet (प्रायः). Occasionally it is possible to come across grateful servants who stick to their *worthy* master through thick and thin. But the bulk of selfish people keep company with the master only so long as he is prospering As soon as the master falls on evil days, the servants desert him. \[Though राक्षस is innocent of any desire to be prophetic, the words prove true of मलयकेतु and his supporter in act VI (vide VI 2. 30-34,) though for the desertion of the former by the latter, the former is to thank his own असमीक्ष्यकारिता or thoughtlessness. It would appear to be better not to understand any premonition here, as the cases of the sun (भानु)
-
-
 
 and मलयकेतु are not on all fours with each other. For, there is no असमीक्ष्यकारिताof the sun referred to in 4,22\].
 
@@ -9312,25 +8467,17 @@ and मलयकेतु are not on all fours with each other. For, there is no
 
  Next are seen राक्षस in an anxious mood and his secretary शकटदास, both seated in the bed-chamber of the minister. The minister while thinking to himself refers to the crooked policy of Cāṇakya and the unfavourable nature of Destiny \[or Fate\] and says how on account of the two he is required to pass sleepless nights Setting afoot political plans and seeing them through is as difficult a task as composing a drama with all the stages \[of its plot\] properly represented and developed. While the minister is putting to himself the question whether the evil souled Cāṇakya chap could be conquered, by an accidental mixing up of his words and those of the door keeper, there is the ominous suggestion made that 'the minister (ie.,राक्षस himself) can be over reached and that the Caṇakya-chap would attain victory. The minister does not lose heart and says ‘work
 
-
-
 must be carried out all the same.’ On being allowed to enter, Karabhaka presents himself to minister,राक्षस who finds it very difficult to recall for what specific purpose he was sent.
 
  At this jupcture, there enters a man with a cane \[staff\] in his hand, clearing the way for Prince Malayaketu. The latter appears with his Chamberlain and Bhāgurāyana. The Prince is very sorry that though it is now the tenth month since the death of his father, not even a cavity-fal of libation-water has been poured by him in memory of the deceased It was high time he fought on the battle-field to the bitter end and got himself gathered to the fathers or avenged himself on the enemy. Malayaketu first orders the kings following him to return (the order being conveyed to them by the Chamberlain), as he wants to pay a surprise visit to the minister who is suffering from a headache He next asks the Chamberlain too to retire with the paraphernalia. On being left with Bhāgurāyaṇa, his trusted new minister,मलयकेतु get certain latest developments explained by him. Thus मलयकेतु learns from भागुरायण, that भद्रभट etc. have approached him through his Generalशिखरसेन and not through as the rule of the science of polity is that a king worthy of being approached, possessed of the qualities & ‘vijugīsu’ is expected to possess, should be approached through those who are dear to and benevolent towards the king himself. Bhāgurāyaṇa seizes the opportunity to poison मलयकेतु's ears thatभद्रभट etc. did not approach him throuchराक्षस as the latter is on enemical terms withचाणक्य and not with In the event of the latter dismissing the former for his extreme pride,भद्रभट etc, visualized the possibility of au alliance between राक्षस and चन्द्रगुप्त. They therefore preferred to approach the Prince independently ofराक्षस lest they be suspected along withराक्षस in future, of being disloyal to the Prince. Both Bhāgurāyaṇa and the Prince then walk in the direction of the place of residence of राक्षस.
 
  Meanwhile the minister has recalled that Karabhakawas sent to Kusumapura to see the bard Stavakhlaśa and.
 
-
-
 convey a message to him. Malayaketu decides to overhear the conversation of राक्षस and करभक as it pertains to पाटलिपुत्रभागुरायण agrees. Karabhaka narrates how the moon-light festival was ordered to be celebrated by the citizens by Chandragupta who wanted to give full gratification to the citizens and how the festival was highly welcomed by the citizens. He proceeds to state how that source of delight to the citizens' eyes was prohibited by Cāṇakya against the desire of the king, Karabbaka also states that at this opportune moment Stavakalaśa, the bard, recited two verses well calculated to incite Candragupta against the preceptor-minister (Cāṇakya).राक्षस congratulatesस्तवकलश on his splendid performance \[though the former is away inपाटलिपुत्र\] and wants to know what happened next. Karabhaka states how चन्द्रगुप्त bestowed such praise on राक्षस as was required by the occasion and how he dismissedचाणक्य from his post \[मलयकेतु is helped to know by भागरायण how this *dismissal* of चाणक्य more than the praase of राक्षस's qualitresshows चन्द्रगुप्त's partiality to राक्षस\]. राक्षस inquires whether there is any other cause for चन्द्रगुप्त's anger towards चाणक्य. \[भागुरायण burries with his explanation that राक्षस is keen on knowing whether there is any additional cause, because the larger the number of causes of disaffection betweenचन्द्रगुप्त and चाणक्य, the greater the possibility of राक्षस's own interest being achieved which may either mean (1) Candragupta's being ousted from his throne or by insinuation (2) राक्षस's getting the post of Candragupta's prime minister\]. Karabhaka tells that there as another cause viz.,चाणक्य's indifference towards मलयकेतु's escape from the town. राक्षस is delighted He visualizes a complete estrangement between चन्द्रगुप्त and चाणक्य and is confident of the release of चन्दनदास and the restoration to S'akațadāsa of his wife and son. \[भागुरायण persists in misrepresenting राक्षस to मलयकेत telling the latter that sees no special point in uprooting Candragupta, राक्षस would rather spare him, राक्षस's sole concern being to wean चन्द्रगुप्त from चाणक्य\]. राक्षस next inquires 'what चाणक्य relieved of his office is doing?" and is surprised to learn that he is staying just there in and has neither declared another Cow \[to kill Candragupta\] nor repaired to a
-
-
 
 penance-grove. \[भागुरायण explains to मलयकेतु that राक्षस's interest in either of the last two being done byचाणक्य was keeping चन्द्रगुप्त away from चाणक्य and thus ensuring the achievement of his own object. S'akatadasa explains toराक्षस that every time declaring a vow would not be easy, and चन्द्रगुप्त would not tolerate any violation of his command. राक्षस agrees with शकटदास aud sends करभक for being given rest and शकटदास too with him.
 
  राक्षस says he wishes to see the Prince and the Prince presents himself to the minister. The formal courtesies over, Princeमलयकेतु inquires how long they should keep waiting, though their army is quite strong and prepared for an attack on पाटलिपुत्र राक्षस tells, they need not wait any longer. The calamity in the form of estrangement from the minister has already befallen the enemy viz., Candragupta The latter is sucivāyatta and though in the, case of other kingsसचिव्यसन would be no serious difficulty, as it can easily be counteracted, in the case of Candragupta, this is impossible. All along he has been entirely dependent on the minister and like a blind man whose eyes never have seen any dealing congratulates himself in an आत्मगत on not being सचिवायत्त, And asराक्षस has already explained to him that a section of the subjects resorted to having no other recourse and would be only too glad to resort to him (मलयकेतु) as was well demonstrated by himself, he is almost convinced that the hour for attacking has arrived, Only he would like to be convinced about the definiteness of their success.राक्षस enumerates the favourable circumstances (1) मलयकेतु the lord of men equipped with an excellent army being the leader of the attack (2) the city being affectionate to or devoted towards Nanda 1e, there beingअन्तःकोप (3) Cāṇakya dismissed from office not taking any interest in politics (4) Maurya being a new i.e., inexperienced king and (5)राक्षस himself being ever at the disposal ofमलयकेतु though it be onlyto give instructions as to the way to be resorted to andमलयकेतुis convinced that there is no use waiting any longer.'The elephant-masses should wade the river and surround Kusumapura \[on all sides\] like clouds
-
-
 
 surrounding the Vindhya mountain' - he commands and with Bhāgurāyana he goes away, presumably to make all the necessary arrangements for the military campagn.
 
@@ -9342,8 +8489,6 @@ surrounding the Vindhya mountain' - he commands and with Bhāgurāyana he goes a
 
  5,0,1 लेख - a letter. अलकरणस्थगिका a casket containing ornaments मुद्रिता bearing on it the impression of a signetring. A careful reader would not find it difficult to recall that Siddārthaka was asked by Cāṇakya to rescue S'akatadāsafrom the execution-ground (already accomplished, see Act II) and act according to instructions given to him by Cāṇakya (vide Act I, 20-24). Sidhārthaka is doing this latter as he was sked to in the course of this act.
 
-
-
  (1) Construe:—देशकालकलशैः बुद्धिजलनिर्झरैः सिच्यमाना चाणक्यनीतिलता गुरुकं कार्यफलं दर्शयिष्यति।
 
  Siddhārthaka is filled with astonishment at the thought of the success Cāṇakya's policy is shortly going to be crowned with. Cāṇakya's policy is a creeper (नीतिः एव लता). It is being sprinkled with the streams (निर्झराः) of water in the form of (his) intellect (बिद्धिः एव जलं तस्य निर्झराः तैः). For sprinkling the creeper. Jars in the form of \[the proper\] place and time (देशकालावेव कलशाः तैः) are used It is but meet then that the creeper would \[soon\] show abundant (गुरुकम् lit, heavy) fruit in the form of \[success in the political\]. undertaking (कार्यमेव फलम्). As the indentification of चाणक्यनीति withलता is the principal one, with subordinate identifications *duly stated* as shown above, the figure of speech in the verse is साङ्ग रूपकं Read: समस्तवतुविषयं \[रूपकं\] श्रौता आरोपिता यदा। where श्रोताः = शब्दोपात्ताः—काव्यप्रकाश X The metre आर्या. The verse in other words means that Caṇakya's policy is sure to fructify as he brings his intellect to bear on his undertaking at the right moment and in the right place).
@@ -9354,27 +8499,19 @@ surrounding the Vindhya mountain' - he commands and with Bhāgurāyana he goes a
 
  The Kṣapapaka makes a salutation to those \[respectworthy saints, who by the profundity of their intellect
 
-
-
 attain perfection (सिद्धम्), of course spiritual, by ways that are extra-ordinary (lit, higher than those of the world लोकोत्तर) in this world. By implication there is a salutation made by जीवसिद्धि to चाणक्य who with his extra ordinary inteliect attains success in the world in his political undertaking.
 
  5, 2, 1–2 सिद्धार्थक's 'वन्दे' and the Kṣapṇaka's श्रावक (faithful listener in respect of instructions to attain spiritual perfection) धर्मसिद्धिर्भवतु' are the customary courtesy. \[धर्मसिद्धि. is a misprint\]. 5-9. The Kṣapṇaka divines with the help of the bird (Siddharthaka has with him) skilled in showing the way, *and* (च) the letter that Siddharthaka has started on a journeyशकुनः (1) 'omen' or (2) tone of the song are unintelligible explanations of the term.च preventsलेख itself being regarded as शकुनःSiddhārthaka is, therefore, to be regarded as having a bird capable of showing the way with him whatever this means, or : has to be put down as an insoluble textual difficulty in the play. Prof. Dhruva reads. एष ते कर्णदेशनिवेशितो लेखश्च सूचयति 1 -10 सिद्धार्थक requests the Ksapanaka to tell him what kind of a day it is for him who has started on a journey. 11-12 the Kṣapanaka laughs and observes that *after* having had the head shaved, Siddhārthaka is inquiring whether the constellations are favourable for shaving. In other words, any inquiry regarding the auspiciousness or otherwise of the day now, *after* his having started on the journey, is without purpose. That certainsतिथि's are inauspicious for shaving according to the orthodox view is welknown. मुण्डितशिरोनक्षत्रान्वेषण' has become a न्याय. 15-16 Siddhārthaka says there is no harm in inquiring whether the day is auspicious even after having started For, if it is auspicious he *would* proceed, if otherwise, he would not, 19 'Now in Malayaketu's army it would *not* be favourable' says the Ksapaṇaka. 20 Naturally, Siddhārthaka wants this to be explained. 25-29 The Ksapaṇaka tells formerly people could have ingress and egress at their will; but now that Kusumapura is very near, no one not having the stamp of Bhāgurāyaṇa on \[the cloth\] would be allowed \[either to leave or to come into Malayaketu's camp.\]The officers in charge of the duty of 'guard-
 
-
-
 ing’ (गुल्म fromगुड् to protect) would bind him hand and foot. 31–32 Siddhārthaka is excited (or so he feigns to be)and asks the Ksapanaka whether the latter does not know that Siddhārthaka is quite close to ministerराक्षस and that on that account, even if there be no with him, noone would be able to prevent him from going out of the camp. 35-36 Whether you belong to राक्षस or पिशाच, if you have noमुद्रा, there is no means available to you for getting out of the camp 37-38 Siddharthaka apologetically requests the Ksapaṇaka not to be angry with him, to bless his journey and wish him success in his mission. 39-40 The Ksapana does accordingly and says he too would ask for the having approached for the purpose.
 
  42, The Praves'aka comes to a close. A 'pravesaka' is an ‘*interlude*’ occuring between two acts, where subordinate characters take part in the conversation. For other details regarding a प्रवेशक, aविष्कम्भ may be referred to. Thus a प्रवेशक, like a विष्कम्भ, is indicative of what has happened already in the course of the plot of the play and what is going shortly to happen. It is thus a connecting link with brevity emphasized. In as brief a space as possible as much more should be conveyed as possible. Bothविष्कम्भ and प्रवेशकare thus measures resorted to for the purpose of economy by the dramatist. Viṣkambha may be either शुद्ध or संकीर्ण if aमध्यम character figures \[orमध्यम characters figure\] in it or if मध्यम and नीच characters figure in it, respectively. A प्रवेशक has noमध्यम character figuring in it and its language as a rule is Prakṛt (Readवृत्तवर्तिष्यमाणाना कथाशाना निदर्शकः। सक्षिप्तार्थस्तु विष्कम्भ आदात्रङ्कस्य दर्शितः। मध्येन मध्यमाभ्या वा पात्राभ्या संप्रयोजितः। शुद्धः स्यात् स तु संकीर्णो नीचमध्यमकल्पितः। प्रवेशकोऽनुदात्तोक्त्या नीवपात्रप्रयोजितः। अङ्कद्वयान्तर्विज्ञेयः शेषं विष्कम्भ के यथा॥ विश्वनाथ's माहित्यदर्पण VI, 55-57). In the present प्रवेशक both सिद्धार्थक and क्षपणक speak Prakṛt and they are not \[either\] the main or theमध्यम type of characters. Theप्रवेशक occurs between Act IV and the main scene of Act V. It briefly brings out that Malayaketu's camp has now come nearपाटलिपुत्र and that there is now strictness exercised in the matter of the egress and ingress of the people.
-
-
 
  5,2 43 The main scene begins with भागुरायण's entering on the stageभागुरायण is followed by an attendant, - 44 भागुरायण is expressing his astonishment at the variegated nature (वैचित्र्य), the capacity to put on diverse forms, of चाणक्य's policy (नीति).
 
  (3) Construe:—मुहुः लक्ष्योद्भेदा, मुहुः अधिगमाभावगहना, मुहुः सपूर्णाङ्गी, कार्यवशतः मुहुः अतिकृशा, मुहुः नश्यद्बीजा मुहुः बहुप्रापितफला अपि इति अहो नयविदः नीतिः नियतिः इव चित्राकारा \[विद्यते\]।
 
  The policy of one conversant with राजनीतिशास्त्र (नय=राजनीतिशास्त्र here), like Destiny, puts on a wonderful variety of forms (चित्राः आकाराः यस्या सा). Often its sprouts 1.e. effects are visible (लक्ष्यः उद्भेदः यस्या). Often it is mysterious on account cf absence of comprehension (अधिगमस्य अभाव. तेन गहना) i,e. it cannot be understood at all in some of its aspects. Often it has all its limbs (well developed\] i,e. it appears in its full-fledged form सपृर्णानि अङ्कानि यस्याः सा). Often as required by (lit, under the sway of) the purposeकार्यवशतः), it is extremely emaciated i.e with very little of it visible. Often its seed is seen to be disappearing (नश्यद् बीजं यस्याः) though often enough it is observed to have secured ample fruit (बहुप्रापितफला . In regard to चाणक्यनीति, the imprisonment of चन्दनदास is its visible उद्भेद; भद्रभट, डिङ्गरात, etc. leaving when they were expected to check mischief (close of Act 1). shows how चाणक्य's policy became; the policy, is mysterious (गहना) in respect of the forged letter got written by S'akaţadāsa. चित्राकारा also suggests चित्रस्य आकारः इव आकारः यस्याः। विशाखदत्त obviously saw some master painter at work. With deft touches of his brush, the painter draws figures with some parts prominent as they are required by the nature of the theme. Sometimes the figure the painter draws is संपूर्णाङ्ग On other occasions it is emaciated (like that of a विरहिणी). चित्रकर्म is another art विशाखदत्त knew \[or appreciated at least\] very well (vide Introduction p 5 (5). The first three lines give the specific details of the,नीति the fourth-containing a generalisation true of it Thus there is (विशेषस्य सामान्येन समर्थन type of अर्थान्तरन्यास. There isउपमा too as नियति is the standard of comparison with whichनीति is compared. The metre of the verse is शिखरिणी
-
-
 
  5,3,1भागुरायण has alredy won the heart of princeमलयकेतु so much so that the latter almost always wants the former by his sude (न दूरीभवन्तम्). आस्थान मण्डप is hall where people sit \[in large numbers\] i,e, an audience-hall, an assembly hall, The hall in the camp of Malayaketu must have been a pavilion improvised for the purpose of seeing visitors. 3-6 A seat is provided by the attendant forभागुरायण who instructs the former to send any visitor wanting a pass-port into the hall. The attendant goes out. 7-8 Bhāgurāyana is pained at having to deceive (अति+स+धा) Prince मलयकेतु so very full of affection for him. This isभागुरायण's sense of deceny and conscience influencing him, though it be for a moment. A paid agent of the kutilamati Cānakya that he is, he dismisses the influence almost as soon as it presents itself to his mind with the usual अथवा and the verse that follows.
 
@@ -9384,8 +8521,6 @@ ing’ (गुल्म fromगुड् to protect) would bind him hand and foo
 
  The verse is appropriately put into the mouth of Bhāgurāyaṇa in whose mind there is a regular conflict that is going on. Bhāgurāyaṇa *now* feels drawn to Malayaketu,
 
-
-
 if for no other reason, for the latter's implicit faith in him.To deceiveमलयकेतु would be the most unkindest cut of all. But thenभागुरायणis not free to consider what is proper or improper. He has already sold himself toचाणक्य who commandsand भागुरायण has no choice but to obey the master. The verse by itself is an instance of अप्रस्तुतप्रशंसा, for, whenभागुरायण wanted to speak of himself individually, he has, referred to a whole class of persons viz, servants who have sold themselves to their master. The verse is couched in the शिखरिणी metre.
 
  5, 4, 1 Malayaketu followed by the female door-keeper Vijayāenters, Lines 2-3 show how मलयकेतु's mind is already under the influence of the poison poured into his ears by भागुरायण विरुद्धानां कल्पाना बाहुल्यात् विकल्पबाहुल्यात्. There is no fixed attitude that मलयकेतु has towards राक्षस.
@@ -9394,13 +8529,9 @@ if for no other reason, for the latter's implicit faith in him.To deceiveमल�
 
  मलयकेतु's mind has as it were mounted on the potter's (कुलालस्य) wheel and is for long revolving \[–not being able to decide\] whether राक्षस on account devotion \[made quite) firm (दृढ) by his love of the Nanda family would enter into an alliance (सधास्यते) i.e., make peace with Candragupta (मौर्य), a *scron* (lit, one who depends on i e., here belongs to) of the Nanda family (अन्वय lit, linefrom अनु+इ to go after) and one who has achieved what is worth achieving (कृतम् अस्य अस्तीति कृती) by the repudiation**(निराकृत = निराकरण this being an instance of नपुंसके भावे क्तः) or removal of Cānakya — or whether he would consider firmness of devotion i.e. adherence to the political party once chosen to be more important and be true to his word? सत्य संधा(word)यस्य सः सत्यसंधः keeping one's word. The mind is going swiftly from one alternative to another and presumably in a like manner to a third and fourth (videविकल्पबाहुल्यम्) \[though allof them are not stated in so many words\] andमलयकेतु fanciesthat it has been put as it were on the potter's wheel. The
 
-
-
 figure of speech in the verse, therefore, isउत्प्रेक्षा.The metre of the verse is शार्दूलविक्रीडित.
 
  5, 51-5 मलयकेतु learns that भागुरायण is busy giving the stamp i.e. seal of the signet-ring to those desirous of going out of the camp (कटक). 'पाणिभ्यां नयने पिदधामि' distinctly shows the intimacy developed between the Prince and his new minister, 7-10 At the other end of the stageभागुरायण (with his back towards young, मलयकेतु पराङ्मुख line 4 above) learns from his attendant that the Ksapaṇaka Jīvasiddhi) wishes to seeभागुरायण for getting the pass-port and asks the attendant 30 usher him in. — 14 Formal courtesy on the part of the Kṣapanaka over, भागुरायण asks him whether he is not going with a view to accoplishing some purpose of Rākṣasa himself. 16-17 Curiously enough the friar declares he is going to a place where he would not hear even the name of राक्षस (demon; or of a pis'āca 'ghost) for that matter 18 भागुरायण, inquires the cause of this affectionate outburst against the friend — what offence had Rakṣasa given to the friebd. 20 'Nothing—no offence', replies the friar, 'I am myself so unfortunate that I offend myself. 22-23 Both भागुरायण andमलयकेतु at the other end of the stage, have their curiosity roused to the utmost though the latter speaks to himself. 24-25 The consummate 'Ksapaṇaka' knows his art well and asks 'what is the use of this being heard by you?' 26-31 'Though no secret, I would not tell you what this is' declares the Ksapaṇaka, only to learn fromभागुरायण ‘nor would I grant you the pass-port'. 36-38 Feigning helplessness, the Ksapaṇaka begins telling how he lived in a formerly, when he made friends withराक्षस and how at that time राक्षस secretly employed a porson-marden against His Majestyपर्वतेश्वर and killed the latter. \[Malayaketu hearing this unnoticed either bуभागुरायण or theक्षपणक is in tears—'So byराक्षस was dear father killed and not by Cāṇakya'? he says to himself. 43-45. The friar continues, 'I was banished from the city by the accursed Caṇakya on the ground that I was राक्षस's friend and banished with disgrace. And even now byराक्षस so skilled in all sorts of unworthy acts, something is being done i.e., will be immediately done (आरभ्यते) which I am
-
-
 
 afraid, would banish me from the world of the living'. 46-47 भागुरायण states what he had heard about पर्वतेश्वर's murder—Cāṇakya unwilling to part with half the promised kingdom had him removed.—49 The Ksapanaka places his hands on the ears and covers them. He cannot bear the idea of any such thing being said of Cāṇakya, 'Away with the evil. Cāṇakya has not so much as heard the name of a poison-maiden I' Soभागुरायण is prepared to give theमुद्रा, now that the secret is told by theक्षपणक. The latter is only to narrate the same to the Prince. 51 Malayaketu walks over from the other part of the stage and declares in the verse that follows that he has heard everything
 
@@ -9412,8 +8543,6 @@ afraid, would banish me from the world of the living'. 46-47 भागुरा�
 
  5, 6, 2 मलयकेतु imagines राक्षस to be standing before him and apostrophises him. The repetition of the vocative (राक्षस राक्षस) shows how very deeply touched मलयकेतु isयुक्तं युक्तम् may be either a question, repeated \[Is this\] proper? \[Is this\] proper? or the word may be used with a
 
-
-
 विपरीतलक्षणा intended to be understood while interpreting them. Thus युक्तंयुक्तम् = अयुक्तम् अयुक्तम् \[एतत् त्वया कृतम्\]
 
  (7) Construe:— अय मम मित्रम् इति निवृतचित्तवृत्तिं, विश्रम्भतः त्वयि निवेशितसर्वकार्यम् तात बन्धुजनाश्रुतोयैः सह निपात्य \[हे\] राक्षस, \[त्व\]ननु अन्वर्थतः अपि राक्षसः असि।
@@ -9421,8 +8550,6 @@ afraid, would banish me from the world of the living'. 46-47 भागुरा�
  O Rāksasa \[not only in point of your name\], even in point of the sense (अन्वर्थतः) \[of the same\], you are a rākṣasa — a demon For, you have caused to fall dead (नि+पत्causal निपातयति, gerund निपात्य) \[my\] father who had the disposition (वृत्ति) of his heart all quite happy (निर्वृत्त) at the thought this \[Rāksasa\] is my friend.' He had entrusted to you, left entirely to you, all undertakings out of confidence (विश्रम्भतः) in you निवेशितानि सर्वाणि कार्याणि येन तम् Along with \[my father, there fell on the ground the profuse tears (अश्रुतोयैः the plural brings out the copiousness of the tears) of the group (जन) of his relatives. तात निपात्य राक्षसःअभि=तातस्य निपातनात् राक्षसः असि. There is thusकाव्यलिङ्ग contained in the verse अश्रुतोयै सह तात निपात्य makes the verse an instance of सहोक्ति Read सा सहोक्तिः सहार्थस्य बलादेकं द्विवाचकम् The fall of मलयकेतु's father is to be literally understood and so also the fall of his kinsmen's tears Only there is a slight exaggeration, for it is impossible that पर्वतेश्वर's body and the tears of his relatives could have fallen simultaneously. Some time, however small, was taken by the tears of the relatives of पर्वतेश्वर to appear in their eyes, after पर्वतेश्वर's fall on the ground, and then did the tears fall to the ground themselves. The verse proves how राक्षस was not नामत but अर्थतः also राक्षस, as he killed the one who regarded him a his friend, one who entrusted all his work to him! The metre of the verse is वसन्ततिलका.
 
  5, 7, 1–3 भागुरायण quite alert and isafraid that incensed asमलयकेतु was be would causeराक्षस to be killed. But भागुरायण's master bad instructed him to preserve the life of राक्षसभागुरायण is resourceful and he requests the Prince to occupy the seat as he has to say something which the Prince should kindly hear 5-8 मांगुरायण points out to मलयकेतु that in the case of statesmen interested in active politics
-
-
 
 (अर्थशास्त्रे व्यवहारः येषां ते or व्यवहर्तुं शील येषां ते), there are not anyfixed friends, enemies and neutral persons The statesmen have no choice न स्वेच्छावशात्) of their own in the matter. It is the object of the moment that decides who would be their मित्र, who would be their मित्र. and who would be regarded by them as a neutralउदासीन. Now in those days. राक्षस wanted सर्वार्थसिद्धि to be the king. And as his majesty पर्वतेश्वर was stronger even than चन्द्रगुप्त, राक्षस regarded पर्वतेश्वर as a great enemy, a great source of obstruction to the achievement of the end (महान् अरातिः अर्थपरिपन्थी). That need not be regarded as a very great crime of राक्षस.
 
@@ -9432,19 +8559,13 @@ afraid, would banish me from the world of the living'. 46-47 भागुरा�
 
  5, 8, 1-2 राक्षस should not be rebuked (उपालम्भनीय-worthy of being rebuked) in this matter. Considerations of राजनीति require that be kept in service and on our side till**the kingdom of the Nandas is won. Later, the Prince is
 
-
-
 at liberty to decide whetherराक्षस should be retained or dismissed (lit, abandoned). This last is calculated to convince मलयकेतु that भागुरायण is not partial to, does not hold a brief on behalf of राक्षस. 3-4 मलयकेतु is so much impressed by भागुरायण's presentation of the case, that he himself adds that killing the minister at present would cause an unnecessary and embarassing agitation among the members of the body politic (प्रकृतयः–तासु क्षोभः). This would render the achievement of victory dubious. Thus is the former minister of Nandas saved from what would have been but forभागुरायण's vigilance and resourcefulness capital punishment as the hands of his (राक्षस's) new ally. 6-11 An attendant brings news that the officers of the guard have brought a person, with a letter on him, trying to get out of the camp, without the necessary passport. On being ordered to usher the man in Siddhārthaka, bound down, is brought by the attendant into the presence of भागुरायण and मलयकेतु.
 
  (9) Construe:— गुणेषु आनयन्त्यै दोषेषु पराङ्मुखं कुर्वत्यै अस्मादृशजनन्यै स्वामिभक्त्यै प्रणमामः।
 
  In the स्वगत, सिद्धार्थक makes a salutation to devotion to the master which makes them see only the excellences (lit, brings them to the excellences) and ignore (lit, cause to turn their face away from) faults. Siddhartharka too, likeभागुरायण, is essentially a human being with the sense of decency still alive. He is aware that he is now going to betray minister Rākṣasa, who had given him shelter on being told that having offended Cānakya he could not return to पाटलिपुत्र \[भागुरायण as well as सिद्धार्थक, paid agents of चाणक्य, were not altogether blind to moral consideration. Their fault was, as they themselves were conscious that they had sold themselves to their employer. If they were equal to the task of considering the whole moral question, perhaps they would not have stated anything like V, 4 and V.9. At any rate the idea that the ethics of the Mudrárāksasa are the ethics of scheming politicians with no scope for or trace of the common man's views is a position that is untenable. Read in this connection, Introduction pp 25-27 The Ethics of the Mudrārākṣasa'\]
 
-
-
  5,9 2-3 भागुरायण inquires whether the man brought before him is a stranger (आगन्तुक) or and employee of some one from the camp itself. 4-5 Siddhārthaka answers the question himself ‘saying he is a servant of minister राक्षस. 6-8 To the question what made him go out of the camp without theमुद्रा’ his answer is that the importance of the mission made him leave in a hurry. 9 भागुरायण cannot understand any important mission that makes one transgress the royal command. 10-15 As asked by मलयकेतु भागुरायण takes away the letter from सिद्धार्थक, aud preserving the seal of राक्षस (मुद्रां परिपालयन्), he opens it and shows it to Malavaketu 15-23 The letter is read by the Prince At the beginning there is the customary auspicious स्वस्ति. Some one, from somewhere, writes to some particular or exalted (विशेष) person: In removing our rival, the one telling the truth has shown his indescribable adherence to truth.The one telling the truth should now give gratification to these friends of ours, alliance with whom has already been broached (प्रथमम् उपन्यस्त) or better with whom an alliance of the nature of Stipulation Alliance, as they stipulated for something (later we see it is territory, elephants and horses or treasure) which was promised to be bestowed on them by the addressee of the letter, has been made. Thus from the latter's view. point the alliance was au उपहारसंधि. ‘गजानश्वांस्तथा रत्न सुवर्णं भूमिमेव च। दत्त्वा यः क्रियते सधिरुपहारः स उच्यते!’Thus favoured, these would destroy their present resort and resort to their benefactor. Some of them wants the treasure, some the elephants, and another the territory of the enemy. The set of three ornaments sent by the one telling the truth has been received. By the too, by way of a ceremonial accompaniment of the letter (लेखकस्य अशून्यार्थम्—lit, with a view to making the letter not quite insignificant) something is sent which may \[kindly\] be received This most reliable person(आप्ततम्) \[bringing the letter\], Sidhārthaka, is the one from whom the oral clue (वाचिकम्) should be heard.— On the reading being completed the Prince asks भागुरायण, ‘how do you find the letter-what kind of letter is this?’— 24 भागुरायण inquires of सिद्धार्थक the name of the addressee (कस्य addressed to whom?) 5-27 सिद्धार्थक’s ‘I don't know' is not accepted by भागुरायण. ‘You are
-
-
 
 conveying the letter and don't know to whom it is addressed.’ To the question 'who is to listen to the oral clue from you? सिद्धार्थक's partial answer is 'by you' complating which he says, ‘seized as I am, I don't know what I should say? 31-40 भागुरायण is angry and orders सिद्धार्थक to be taken out and beaten till he told the truth. A casket fallen from his arm pit as he was being belaboured is brought in. This too bears the seal of राक्षस मलयकेतु guesses ‘this must be the ceremonial accompaniment of i.e. ornament sent with the letterभागुरायण opens the casket preserving the seal and re-cognises the ornament sent by himsel? to राक्षस, having taken the same off from his (मलयकेतु's) own. personeमलयकेतु's guess takes a concrete shape; evidently the letter is addressed to Candragupta. Bhāgurāyaṇa causesसिद्धार्थक to be beaten again. The latter craves for freedom from fear and saying ‘he would tell the whole thing to the Prince himself” states 'Having given me this letter, I was sent by minister राक्षस to चन्द्रगुप्त. The oral clue is next demaned by मलयकेतुसिद्धार्थक gives it: My dear friends, these five kings Citravarmā etc, are already full of affection for you The first three are desirous of the territory ofमलयकेतु, the last two his elephant force and treasury. You have already given me gratification by removing Cānakya. May these five be delighted by the accomplishment of their desire, stated earlier.’
 
@@ -9453,8 +8574,6 @@ conveying the letter and don't know to whom it is addressed.’ To the question 
  राक्षस is anxiously thinking about the army at his disposal and is not quite satisfied about it as it is filled with Candragupta's soldiers (भद्रभट etc).
 
  (10) Construe:—यत् साध्ये निश्चितम् अन्वयेन घटितम्, सपक्षे स्थितिं विभ्रत्, विपक्षतः च व्यावृत्तं भवति, तत् साधनं सिद्धये भवति; यत्स्वयम् एव साध्यम्, उभयोः तुल्यम्, पक्षे विरुद्धं च तस्य \[साधनस्य\] अङ्गीकरणेन वादिन इव स्वामिनः निग्रहः स्यात्।
-
-
 
  The verse teems with technical terms used by the followers of the न्याय and वैशेषिक systems while setting forth the ‘syllogism’. A king (स्वामि) is compared with a person who is arguing (वादी) and the instrument (साधन) i. e. the ‘middleterm” that would help the aor the debator and the army that will help the king secure his object, are described with words having a double meaning in lines 1 and 2 And the ‘middle term’ that would lead the debator to defeat in arguing (निग्रह), as also the army that will lead the king to defeat on the battle-field are described, again with double meaning words, in times 3 and 4. The whole exposition of ‘syllogism’ as it is set forth in works on logic in Sanskrit cannot and need not be given here. But it would be found helpful to the understanding of the verse to grasp the details that follow:
 
@@ -9472,8 +8591,6 @@ The mountaion is fiery.
 
 is not enough in परार्थानुमान. But a sumular instance (सपक्ष) where both the middle term (smoke) and the major term (fire) are present, like the kitchen (महानस) too must be pointed out. Not only that, in an अन्वयव्यतिरेकी हेतु where the major premise can be
 
-
-
 Wherever there is not-fieryness,  
 there is not -- smokiness (as in a tank).
 
@@ -9487,8 +8604,6 @@ a dissimilar instance (विपक्ष), must be pointed ont. And the middle 
 
  Pertaining to the army, the 3rd and the 4th lines
 
-
-
 would mean : the army (साधन) which itself is yet to be proved efficient (स्वयम् एव साध्यम्, which is similarly disposed (तुल्य) to both a *friend* as well as a *foe*, which is opposed to the side or cause it represents (पक्षे विरुद्ध)–by the acceptance of such an army, there wodld be she seizure, theनिग्रह i.e. defeat of the master i.e. the king \[at the hands of his enemy\].
 
  \[It may be pointed out incidentally that a valid syllogism would be possible if (1) the middle term is predicable of the mainor term (2 if it be present inसपक्ष, (3) if it be absent from विपक्ष (4) if it be अबाधितविषय no higher means of know ledge such as Direct Perception sublating it (5) and if it has no rival हेतु असत्प्रतिपक्षत्वम्. Of these (1) may be understood by implication, (4) and (5) are referred to byसाध्ये निश्चितम् (2) is referred to by बिभ्रत् सपक्षे स्थितिं and (3) bv व्यावृत्ते च विपक्षतः A fallacious हेतु is स्वयमेव साध्य, i.e.सत्प्रतिपक्ष and बाधित, a rivalहेतु provingसाध्याभावi.e. is अनैकान्तिक and alsoविरुद्ध पक्षे विरुद्धम् points out that it isअसिद्ध\]
@@ -9499,8 +8614,6 @@ would mean : the army (साधन) which itself is yet to be proved efficient 
 
  (11) Construe:— खशमगधगणैः सैन्यैः व्यूह्य माम् अनु पुरस्तात् प्रस्थातव्यम्; सयवनपतिभिः गान्धारैः मध्ययाने प्रयत्नः संविधेयः; चीनहूणैः संभृताः वीराः शकनरपतयः पश्चात्तिष्ठन्तु; कौलूताद्यश्च शिष्टः राजलोकः कुमारं पथि परिवृणुयात्।
 
-
-
  The Khas'a and Magadha hosts with their armies arranged are to be at the fore-front, with leading them; tribes from Kandahar along with the Ionian chiefs are to make an effort to march in the middle; the S'aka kings strengthened by the Chainese and the white Huns are to bring the rear, while is to be surrounded \[for safety obviously\] by the five kings Kaulūta (Citravarma) etc. on the way.विशाखदत्त does not care much for chronology here and jumbles together several tribes though it is doubtful whether all of them were there in the days of Candragupta (Maurya). The Khas'as are assigned to the north-eastern part of Bengal. 'Magara', rather than 'Magadha', suggested by Mr. Telang would mean the forefathers of the Gurkhas of Nepal Chinese, Ionians and white Huns came into India—though not all of them at the same time. The metre of the verse is स्रग्धरा. 2-12 The female door-keeper ofमलयकेतु appears and conveys his word to राक्षस. The latter recails that मलयकेतु had sent him ornaments and causes one of those purchased by S'akaṭadāsa to be brought to him. On the servant's doing so, राक्षस puts the ornament on and starts with a view to going to that part of the camp where could be seen. Little does he know what havoc the ornament he has put on is going to play in the near future.
 
  14-15 राक्षस expresses the thought that a position of authority is a great source of apprehension even to a person who is absolutely innocent.
@@ -9508,8 +8621,6 @@ would mean : the army (साधन) which itself is yet to be proved efficient 
  (13) Construe:— सेव्यात् भयं तावत् सेवकजनम् अभिनिविशते;ततः प्रत्यासन्नात् \[भय\] हृदये एव च निहित भवति, ततः अध्यारूढाणा पदम्असुजनद्वेषजननं \[भवति\]; सोच्छ्रायाणा गतिः अनुकुलं पतन कलयति।
 
  To begin with there is fear of the one to be served i.e., the master (सेव्य) that seizes the person who serves: (सेवकजन). Next there is fear of the one who is the favourite प्रत्यासन्न (lit, one very closely situated with प्रति+आ+सद्) of the master which enters the very heart of the servant. Further, the position (4) of those who have risen very high (अध्यारूढ) produces malice among the wicked people (असुजनानां दुष्टानामिति यावत् द्वेषस्य जननम्). The course (गतिः)
-
-
 
 of those who are possessed of an elevation of those who are exalted–ever has a fall quite imminent (अनुकूल—lit, favourable). lit understands, regardsराक्षस is obviously speaking of himself (सेवकजन) and मलयकेतु. But as he has referred to a class of persons to which he belongs and again to a class of persons to which (मलयकेतु) belongs, the figure of speech in the verse is अप्रस्तुतप्रशंसा. The metre of of the verse isशिखरिणी
 
@@ -9519,15 +8630,9 @@ of those who are possessed of an elevation of those who are exalted–ever has a
 
  The Prince has fixed his eyes (दृशम् lit. sight) on the forepart (अग्र) of his feet. The eyes have not perceived the particulars (विशेष) of that.i.e its object, the fore-part of the foot, due to the vacant nature (शून्यत्व) of the gaze. He isholding his moon-like face (वक्त्रं इन्दु इव) by i.e on the palm of his hand. The face is made to bend low by the heavy responsibility (गौरव) as it were of the missions difficult to carry out \[that the Prince has undertaken\] The eyes are absolutely motionless focussed vacantly as they are on their object, the fore-part of the feet The face resting on the palin of the hand, its being bent low, the gaze being vacant, fixed on the object thereof, and being altogether steady or motionless, is a graphic description of the Prince \[doing credit to a painter\] There is, therefore स्वभावोक्ति, in the verse. वक्त्रम् इन्दुः इव as shown above introduces anउपमा into the verse. 'The face is bent low *as though* on account of the heavy nature of the responsbility of the many missions undertaken' contains उत्प्रेक्षाt in it, The metre of the Verse is प्रहर्षिणी 5, 13, 3 मलयकेतु says he was upset as he was seeing the after a long period of time, i.e, as he was denied the pleasure of seeing him for a long period of time. 4-5राक्षस understands the implied blame thatराक्षस did not present himself to मलयकेतु for long and apologectically explains as I was busy making counter-
 
-
-
 arrangements i.e, taking precautionery measures,I was detained and thus made to have this rebuke (उपालम्भ) from the Prince! 6-9मलयकेतु learn the measures in detail and is shocked to find out that those very kings who wanted to please Candragupta by slaying him (मलयकेतु) as revealed by the letter snatched from Siddhārthaka, were to have him hemmed an on all sides. He does not express this in so many words, but prefers to keep the shock to himself. 10 Aloud मलयकेतु, asks whether there is any one going to or coming from Kusumapura \[as an emissary, of course\]. 12-13राक्षस is almost elated at the prospect of Candragupta severed from Cānakya being at bis mercy and Kusumpara being exposed to an attack which would surely bring राक्षस and his side victory and so naturally observes: now the purpose of going to or coming from the city is over; we would ourselves go there, ere long. 14—मलयकेतु's 'well is this known’ uttered to himself, is significant, showing that he has understood ‘the purpose is over’ to mean, ‘I (राक्षस) shall make an alliance with Candragupta on your (मलयकेतु's) having been slain by the five kings', thoughराक्षस never had anything of the sort is his mind.मलयकेतु puts a straight question ‘why was this man sent by the minister with a letter?' 16राक्षस is taken aback He cannot understand whatसिद्धार्थक is about to do. 18-19 ‘As I was being beaten, it was not found possible to *maintain the secret*,’—the explanation (I) given byसिद्धार्थक only makes matters worse forराक्षस who, therefore, says‘I do do not understand what thissecret you refer to is’. 23-24मलयकेतु ascribes what he considers to be a cryptic utterance ofसिद्धार्थक to his sense ofshame \[at having failed to guard the secret \] or fear \[atthe thought of the punishment thatराक्षस his master wouldmeet out to him\] and therefore bidsभागुरायण tellराक्षस whathad happened 25 भागुरायण tells राक्षस that सिद्धार्थक told thePrince and himself (The minister gave a letter andthe oral clue of the same and sent me to’. 27–30 ‘Isthis true?'-to this question of राक्षस सिद्धार्थक's reply isItold so when I was being beaten' and naturally asks‘what would a man being beaten not tell?' मलयकेतु aske भागुरायणto show the letter toराक्षस about which राक्षस says ‘this is a
 
-
-
 clever device employed by the enemy.’ मलयकेतु asks—‘But the minister sent a ceremonial accompaniment, an ornament. too; how then can this be a device of the enemy?' 36-37राक्षस's reply though true to a letter, under the circumstances only goes against him. 'On some occasion of gratification I gave away this ornament the Prince had sent to me to सिद्धार्थक.' 38-39 भागुरायण seizes the opportunity to blam 3 राक्षस—‘such a man was made the recipient of such an ornament, *especially* one that was sent by the Prince !!' 40 The evidence of the ornament has gone againstराक्षसमलयकेतु has not forgotten the ‘oral clue' 'which too, like the ornament and the letter was given by you (राक्षस)' he means. 41-42 राक्षस's denial of the letter being given by him and therefore his pleading ignorance of the oral clue are of no avail ‘whose signet-ring i.e. *seal* is this?’ मलयकेतु asks. 43राक्षस falls back on the explanation that the wicked can fabricate a counterfeit seal too. 44-45 deals the last blow by getting the information regarding the person who wrote the letter—S'akaṭadāsa andराक्षस is compelled to own if it is written y Sakaṭadāsa, it is written just by me i.e ‘I can be held responsible for it' 49-60 मलयकेतु wants विजया to go do S'akaţadāsa and bring him into his *own* presence. भागुरायण plays his part superbly. Generalising from his own case, he says Minister Canakya's spies would never say anything vague or not definite He hits a plan to avoid S'akațadāsa's coming before, and preclude his saying something which would be favourable to for aught one knew. *Thus*his question ‘मद्र सिद्धार्थक, केनायं लिखितो लेखः।’ asked to throw the whole responsibility on शकटदास and राक्षस, would be understood as having decided (the matter finally. So he says—'S'akaṭadāsa never would own in राक्षस's presence that the letter was written by him. Let another writing of his be brought.' Another writing in S'akatadāsa's hand as also the signet-ring (seal) of राक्षस are brought 61 मलयकेतु has a look at both and says the letters (in the letter snatched from and this other writing of शकटदास) tally. There is agreement between the two 62-63 Tris is a terrible blow toराक्षस— one for which he never was prepared. The letters agree all right, he obser-
-
-
 
 ves—; but S'akaṭadāsa is my friend and that he should have written them both, this has no reasonable explanation (न संवदन्ति). Sakatadāsa is my dearest friend. He wrote the letter in which Candragupta is requested to favour the five kings This is something inexplicable.राक्षस, therefore tries to guess how S'akaṭadāsa must have written the letter.
 
@@ -9539,8 +8644,6 @@ ves—; but S'akaṭadāsa is my friend and that he should have written them bot
 
  (1) The signet-ring ofराक्षस used for the purposes of the seal (मुद्रा) was ever in close contact with \[lit, habituated to love\] the finger of his hand ie. S'akaṭdāsa's hand Itwas, that is to say, ever in S'akaṭadāsa's possession. (2) Siddhārthaka has been S'akaṭadāsa's friend. This letter (लेख्यम् writing) the very basis of the device \[of the enemy\] is indicated to be just his by another writing of his.It is therefore quite manifest or obvious that S'akata(dāsa) hiving made an alliance with men on the side of the eneimy (परैः), skilled in \[bringing about a\] split, this miserable behaviour was embrace (कृपणा चेष्टितम्), having turned his back (पराङ्मुखे) on the affection for his master. This is pretty
 
-
-
 evident (सु—व्यक्तम्). (1) and (2) are the indications that lead to the inference in lines 3 & 4. पराङ्मुखेन=पराङ्मुखत्वात् and प्राणार्थिना=प्राणार्थित्वात् There are thus both अनुमान and काव्यलिङ्ग contained in the verse The verse is couched in the शार्दूलविक्रीडित metre.
 
  5,15,1.3. मलयकेतु looks at the ornament worn by राक्षस and asks whether it is one from the three ornamente sent by the illustrious one (i,e.चन्द्रगुप्त) which reachad राक्षस's hand Observing most minutely he is surprised to see the ornament to have been one formerly worn by मलयकेतु's fatner. He asksराक्षस to explain how and from where he came to possess the ornament. 5,15,4 राक्षस answers he came to have it, thanks to the purchase of the same. 5-9 the female door-keeper re-cognises the ornament as the one worn formerly by Parvates'vara.
@@ -9551,13 +8654,9 @@ evident (सु—व्यक्तम्). (1) and (2) are the indications tha
 
  \[Dear father\] ornament of \[our\] family,' says Malayaketu, here are those ornaments becoming (उचित litsuitable to, fit for, your limbs (गात्र) You were so fond of ornaments. By these ornaments you, made lustrous by your moon-like face, appeared to advantage (शोभितः), like the hour (समय) of evening in antumn (शरत्) made lustrous by the moon at its commencement and possessed of constellation.(नक्षत्रवान्) The idea is that the ornaments brightened the moon-like face of Parvats'vara and made him appear to advantage, like the evening hour in the antumnal season, with brightness (अवभास) secured (कृतःअवभासः = यस्य) by the moon appearing at its beginning (मुखे चन्द्रः—प्रारम्भे दृश्यमानःचन्द्रः), and having constellations \[which too appear in the sky at the time\]शरत् is chosen on purpose. For, the beauty of the moon and the constellations is at its best in that season, with the sky absolutely clear. मुखं चन्द्र इव तेन कृतः अवभासः यस्य सः (going with पर्वतेश्वर)
 
-
-
 मुखे चन्द्रः तेन कृतः अवभासःयस्य सः (going with the शरत्समयप्रदोष). प्रदोष—evening There is resemblance between (1)पर्वतेश्वर and प्रदोष, (2) भूषणानि and नक्षत्राणि and (3) the moon-like face of,पर्वतेश्वर and the moon appeariny at the commencement of the evening time in autumn The figure of speech contained in the verse is उपमा. There is also present in this last viz, (3) as मुखचन्द्रकृतावभासis understood differently of पर्वतेश्वर and प्रदोष.
 
  5, 16 1 In his स्वागत, राक्षस is convinced that the ornaments must have belonged evidently to पर्वतेश्वर,as मलयकेतु said thev were formerly worn by पर्वतेश्वर. Aloud he explains, if what he says can be regarded as an explanation that those ornaments too were sold to him (and his people अस्मासु, by merchants employed by Cānakya for that purpose, This was hardly convincing from the point of view ofमलयकेतु especially as it has come after (1) शत्रोः” प्रयोग एषः (i,.e, the letter 'कपटमुद्रामुत्पादयितुं शक्नुवन्ति धूर्ता।’ (2) rhe सवाद of thehandwriting of the letter and another writing ofशकटदास and (3) the identity of the signet-ring used for the seal on the letter under consideration and the signet-ring of minister. Naturally doesMalayakstu ask (5,16, 3-4, 'How can the acquisition ofthese, formerly worn by \[dear\] father, especially that werein the possession ofचन्द्रगुप्तbe considered to be reasonablewhen it is said thatthey were purchased? Candragupta selling ornaments, and even then selling those worn by Parveteśvara is unbelievable. The passage containsप्रश्नअलंकार (कथं युज्यते = नैव युज्यते). There is परिकर also present here as तातेन धृतपूर्वाणा, विशेषतः चन्द्रगुप्तहस्तगतानाम् are साकूत (i.e. साभिप्राय or significant) विशेषण's. The implication is obvious. There must have been a conspiracy betweenचन्द्रगुप्त andराक्षस the passing of ornaments worn by must have been the price paid by चन्द्रगुप्त to राक्षस for what the latter was expecteed and presumnably had promised to do in regard to मलयकेतु.अथवा shows the change of thought.‘No no—I should not say, how can this acquisition by purchase be reasonable? It is just reasonable bitterly does the Prince observe. The reason for the observation follows in 5,17.
-
-
 
  (17) Construe:— क्रूरेण भवता अधिकं लाभम् इच्छतः विक्रेतुः चन्द्रगुप्तस्य वयम् एतेषा \[भूषणाना\] मूल्यं कल्पिताः।
 
@@ -9569,8 +8668,6 @@ evident (सु—व्यक्तम्). (1) and (2) are the indications tha
 
  (1) I can not make a reply using the words 'this is
 
-
-
 not my letter' for, the seal on it is one made with my signetring. (2) If I sayशकटदास betrayed me, having thus \[abruptly\] terminated our friendship, how would that be believable? In the absence of convincing proof I can not accuse शकटदास thus showing he is responsible for the whole matter (3) Who ever would consider the sale of ornaments possible on the part ofमौर्य who is the lord of men? Why should the sovereign ruler, of all others, sell ornaments?' this is what people are sure to ask. The best course (वरम्) therefore (तस्मात्) is (सं+प्रति+पद् i.e to accept) to admit or own the entire responsibility for the letter aud all it contains. Read श्रुत्वाभियोगं (i. e charge) प्रत्यर्थी यदि प्रतिपद्यते। (admits) सा तु संप्रतिपत्तिः स्याच्छास्त्रविद्भिरुदाहृता’ Under the circumstances (or in this matter) (अत्र), no rustic (ग्राम्य) reply calculated to deny the guilt is possible. कथं श्रद्धेयम्=नैव श्रद्धेयम् (प्रश्न अलंकार) which is repeated in line 3 who would think sale of ornaments possible on the part of the lord of men’, नरपतौ is a significant विशेषण’ Thus there isपरिकर also in line 3. The metre of the verse is शार्दूलविक्रीडित
 
  5, 18, I Whileराक्षसis thinking of admitting the guilt मलयकेनु says, this is what I ask the Noble one—'2 राक्षस says he has now turned out to be (lit., become) a not—noble(अन् + आर्य) or why an agnoble person' मलयकेतु would do better to ask one who is noble
@@ -9578,8 +8675,6 @@ not my letter' for, the seal on it is one made with my signetring. (2) If I say�
  (19) Construe:—असौ मौर्यः तव\] स्वामिपुत्रः, अहं तव परिचरणपरःमित्रपुत्रः \[अस्मि\] \[स्वमतम् अनुगतः\] सः तुभ्यं अर्थस्य दाता, त्वं तु मह्यं स्वभतम् अनुगतः ददासि; तत्र ते सचिवपद सत्कारपूर्वे दास्य ननु, अत्र ते स्वाभ्यम्; पुनः कस्मिन् अधिकतरे स्वार्थे समीहा त्वाम् अनार्यो करोति।
 
  (1) The son of Murā i. e: Candragupta is the son of your master while I am your friend's son, intent on Serving you in all ways (परि-चरण). (2) He gives you money \[as\] he pleases i.e, you have no choice or voice in the matter\]. You, however, give me the same the way you chooce (lit., following your own view स्वगतम् अनुगतः). (3) The position of minister there is for you indeed slavery(दास्यम्) attended (lit preceded) by honour ‘dignified serfdom in other words. Her you have sole mastery over everything. Eager desire
-
-
 
 for what greater self-interest again, is it that makes you, ‘ignoble?’ When your friend's son waits on you, when you decide what amount of money he is to get, when you are the sole master here, I fail to understand really what prompts you to behave in this ignoble manner and to please or flatter Candragupta.
 
@@ -9593,8 +8688,6 @@ for what greater self-interest again, is it that makes you, ‘ignoble?’ When 
 
  ‘This is the ample (विपुलं) sport of that Destiny which cuts off i.e., undoes the efforts of men—of that Destiny— the evil one (पाप) by whom have been killed those welknown (ते) rulers of the earth \[–the Nanda's\] who were \[competent\] judges (परीक्षकाः) of people. Though our (Rāksasa's, relation to them was that of a servant (भृत्य—त्व), the abode (धाम) of insults—a rich source of insults inflicted by the master—, of disciplined or trained minds (कृता धीःयेषां ते
 
-
-
 तेषां कृतधियां) and grateful (कृतं विदन्तीति कृतवेदिनः तेषां कृतवेदिनाम्) that they were, they did not consider us \[in any way\] different from their sons They treated us precisely in the way they did their sons! Destiny that could wantonlydestroy them is only expected to continue working havoc, and here has it achieved what it wanted to सति स्नेहात, कुतवेदिनां कृतधियां, 'विपुलं विधेर्विलसित are alliterations worthy of attention The (perspicuity) of the verse is transparent. ते लोकस्य परीक्षकाः suggests that मलयकेतु has no judgment of men so very necessary for success as a king The metre of the verse is शार्दूलविक्रीडित.
 
  5, 20, 1-2 This was more thanमलयकेतु could bear. Angrily he asks 'Are you trying to conceal the truth even *now*? This is the wanton sport as you put it (किल), of Destiny and not of (your) greed!' Malayaketu is almost beside himself with rage and addresses as to ignoble \[wretch\]—
@@ -9603,8 +8696,6 @@ for what greater self-interest again, is it that makes you, ‘ignoble?’ When 
 
  ‘O you ungrateful one, you employed (कृत्वा) a maiden terrible (विषमा) on account of her having assimilated poison in her system and killed my father inclined \[ever\] to \[reposing\] confidence \[in you\] thus reducing him to the state of remaining in talks only \[as he no longer lived after your having succeeded in murdering him\].कथा शेषः यस्य सः कथाशेषः तस्य भावः कथाशेषता ताम्\]। Now you have set a high value (अहित गौरवं येन सः तेन अहितगौरवेण) on the office of \[giving\] counsel (मन्त्रा) (to Candragupta) i.e., aspire to be theप्रधानमन्त्री of the enemy and have begun \[already\] to sell us for total destruction to him. In your eyes we are not much different from a lump of flesh (मांसत्वम्), a commodity for sale. Could there be anything more surprising \[anything more painful\] (अहो) than this? 'कथाशेषतां नीतः' is पर्यायोक्त for ‘killed’ आहितगौरवेण=आहितगौरवत्वात् the cause of selling मलयकेतु to the enemy. This part of the verse, therefore, contains काव्यलिङ्ग विश्रम्यप्रवणः may be regarded as a साकूत विशेषण. If this is how it is understood, the verse would illustrateपरिकर also.
 
-
-
  5,21,1 राक्षस says ‘here there is a pimple grown over a boil’, 'Difficulties do not come singly', nor do charges of wickedness against a man fromwhom his fortune has turned its face away. Aloud,राक्षस denies the charge that he killedपर्वतेश्वर but can not give any satisfactory answer to the question 'then who caused him to be killed?' Angrily doesमलयकेतु shout out ‘Fate is to be asked and not Jivasiddhi, the Jaina friar!’ 6-7राक्षस says to himself Jivasiddhi too is Cāṇakya's spy. I must say, o alas! that even my heart has been taken possession of (स्वी–कृत, न स्वं अस्व स्व संपाद्यमानं कृतम्) by the enemies. Jivsiddhi was to Rāksasa his very heart. But he too was helping the enemy!
 
  7-13 Malayaketu, beside himself with rage, orders his attendant Bhāsuraka, to convey to his general Śikharsena the command—the five kingsचित्रवर्मा and other intimate friends of राक्षस, ever plotting against our person and desirous of pleasing Candragupta be killed instantaneously. The first three long for my territory. Let them be buried deep under earth \[and thus have their longing for territory fulfilled\]. श्वभ्र is a pit. The last two सिंधुषेण and मेघनाद wanted my elephannt-force. Let them.’ as is but meet, be killed by \[under the feet of just an elephant. 13 The attendant goes out to convey the order to S'ikharasena. The vain glorious Prince proudly says, I am not given to killing persons by \[creating\] confidence \[in them and then taking undue advantage of it\]. You are at liberty to go and resort to चन्द्रगुप्त'
@@ -9612,8 +8703,6 @@ for what greater self-interest again, is it that makes you, ‘ignoble?’ When 
  (22) Construe:— अहं त्वया समम् आगतौ विष्णुगुप्त च मौर्यं च दुर्नयं त्रिवर्गम् इव उन्मूलयितुम् ईशः।
 
  Malayaketu over-estimates his capacity. 'Single-handed I shall be capable of destroying Cāṇakya and Caudragupta who would come and attack me, together even with vou, like bad policy capable of destroying (lit uprooting) the group of the three human objects धर्म, अर्थ and काम. As is proved in act VII, मलयकेतु's estimate about himself is unfounded. It is Cāṇakya'sकुटिलमतिthat proves more than a match for मलयकेतु's army and राक्षस's intellect as the two
-
-
 
 have been split up now \[by the forged letter and the casket of ornaments on Siddhārthaka's person\]. Cāṇakya's confident prophecy ‘यः प्रयुक्तः भेदः किलैष भवता सकलः स एव संपत्स्यते शठ तवैवहि दूषणाय।’ Act III, 31 (p. III text) has come true. The figure of speech in the verse is 3. The metre in which the verse is couched is अनुष्टुभ्.
 
@@ -9625,8 +8714,6 @@ have been split up now \[by the forged letter and the casket of ornaments on Sid
 
  Let colums (स्तम्बाः) of dust co ning into existence (लब्धः आत्मनः लाभ जन्म इति यावत् यैः ते) on account of the pounding क्षोद \[of the earth\] by the hoofs (खरपुट) of the horses of the armies fall on the head of the enemies. The columns of dust would soil (धूमयन्तः—lit make smoky) the cheeks, of the ladies of Bengal (गौडीनाम्)—cheeks bright on account of the pollen (धूलि— पराग) of the lodhra flowers used as toilet (परिमल). The columns of dust would also obscure (lit afflict क्लिश्नन्तः) the darkness of the curly hair (कुञ्चित अलक) \[of the गौडी's\], of the complexion (रुक्) of a swarm of bees i.e.,
 
-
-
 the naturally extremely dark hair would appear somewhat gray on account of the dust particles settling down on them. गजानां मदस्य (or मद एव सलिलं तेन छिन्न मूलं येषाम्—The columns would have their base (मूल) cut off on account of the ichorwater of the elephants. The columns would not rise right from the surface of the earth unbroken into space. But due to the profuse ichor of the elephants the dust particles just above the surface of the earth would become wet and form mud. Only from a level a few feet higher over this mud, would the columns of dust be seen to be rising verse is couched in theस्रग्धरा metre.
 
  5, 23,1 मलयकेतु and his paraphernalia--including भागुरायण evidently—goes out Rāksasa is left all alone on the stage with a very gloomy prospect before him He is deeply agitated that he has caused to be killed (on account of him have been killed\] even those five kingsचित्रवर्मा etc Poor चित्रवर्मा and his four friends! (तपस्विनः) How does it happen thatराक्षस acts (चेष्टते) for the destruction of his friends and not for that of his enemies? He is at a loss to say what he should do \[next\], with his fate very slow \[if not altogether inactive indeed\] in relping him मन्दं भाग्यं यस्य स मन्दभाग्यः।
@@ -9634,8 +8721,6 @@ the naturally extremely dark hair would appear somewhat gray on account of the d
  (24) Construe:— किं तपोवनं गच्छामि? सवैरं मनः तपसा न शाम्येत्? किं \[परलोकगतान्\] भर्तृन् अनुयामि? रिपौ जीवति \[सति\] इय \[खलु\] स्त्रीणा योग्यता; किं वा खड्गसखः अरिबले पतामि? एतत् च न युक्तं भवेत्; चन्दनदासमोक्षरमस चेतः कृतघ्नं न चेत्, रुन्ध्यात्।
 
  There are three alternatives that suggest themselves toराक्षस. (1) Shall I repair to a penance – forest? But this would hardly give any peace to my mind-would fail to give peace to my mind with the \[feeling of\] enmity \[influencing it strongly (2) Shall I follow my master, departed to the other world? But doing this while yet the enemy lives without doing anything to kill the enemy would be worthy of (योग्य–ता) women! A man ought to avenge himself on his enemy by fighting. Suicide is not the proper path for him to follow. (3) Shall I with my sword as my companion fall on the enemy
-
-
 
 force? This too would not be proper. One against many would decide the question again in favour of the enemy. The mind, if it be not ungrateful and in a hurry (सरसत्पम्) to secure the release of Candanadāsa, would obstruct me, impede me, if I would think of resorting to the 3rd alternative. For, more important than fighting the enemy's army, as saving the life of my dearest friend Candanadāsa, who has done all he could for me.
 
@@ -9645,51 +8730,31 @@ force? This too would not be proper. One against many would decide the question 
 
  As the curtain rises, there appears on the stage Siddhārthaka with a letter and a sealed casket with ornaments in it. Siddhārthaka is surprised at the progress that the policycreeper of revered Cāṇakya is making, sprinkled as it is with the streams of water in the form of intellect with Jars in the form of the proper place and time and he is confident that soon it will show great fruit in the form of success In the mission. Siddhārthaka savs he is feigning to go to Pāṭaliputra with the letter and the sealed casket. As he starts he sees the Jaina friar coming in that very direction. The sight of the friar, though normally inauspicious, is desirable to Siddhārthaka \[as he really does not want to reach Pāṭaliputra\] and therefore he does not avoid it. The friar enters and salutes the worthy saints who reach perfection in the world by ways which are extraordinary. Siddārthaka salutes the friar who blesses him and save you have started on a journey it seems'. Siddārthaka owns that the friar has guessed well and requests him to say whether the day is favourable for going on a journey. The friar laughs and observes ‘you have already got yourself shaved and are now inquiring whether the stars are favourable \[for shaving\]’. Siddarthaka says: there is no harmif inquiring even now; if the day is favourable I shall proceed, if not I shall return. The friar informs
 
-
-
 Siddhārthaka that it would not be favourable \[for any one\] in the army-camp of Malayaketu now. He adds ‘though formerly people could enter and go out of the camp without restrictions, now that Kusumapura is very near from here,. none who has not the sealed pass-port is allowed either to get out of or into the camp If he has the required passport with the stamp of Bhagurāyana's signet-ring, ‘Siddārthaka should go Otherwise he may be find himself bound hands and feet and taken to the royal headquarters by the army officers in charge at the out-post, Siddhārthaka asks excitedly ‘do you not know that I am a close attendant of minister Raksasa? Who then has the power to ward me off from getting out even without a pass-post?’ The friar replies whether Siddhārthaka be Raksasa's (demon's) or pisaca's (ghost's), he cannot get out unless he has a pass-port. Siddharthaka requests the Ksapanaka (Jaina friar Jivasiddhi,) not to be angry and to say ‘you will succeed in your undertaking’. The Ksapanaka does so and says he too would approach Bhāgurāyana and request him to grant him (the friar) a pass-post. The two leave the stage and the Interlude comes to a close.
 
  The Interlude (Praveśaka) over, there enters on the stage Bhāgurāyana, followed by a man. Bhagurāyaṇa too is surprised at the diverse forms that noble Cāṇakya's policy, like Destiny, in taking He next asks the attendant, who has followed him to place a seat for himself in the assembly-hall itself, as Prince Malayaketu does not wish him (Bhagurāyaṇa) to be away from him The seat is placed and the man told to send in anyone desirous of getting a pass-port from Bhāgurāyaṇa The man goes out saying he would do accordingly. Bhagurāyaṇa is very much pained at having to deceive Malayaketu 'so very full of love' towards him. He consoles himself somehow with the thought that a man who has sold himself to another (who is rich), having turned his face away from the noble family, reputation and sense of shame, has gone past the stage of any consideration as to what is beneficial and what is not so indeed!.
 
-
-
  At this juncture Malayaketu, followed by the female door-keeper, enters on the stage. Malayaketu says to himself that his mind is perturbed on account of the diverse suspicions it entertains about Rāksasa, and that it canno come to any decision On being helped by the female door-keeper to see Bhāgurāyaṇa (who is pointed out to him by her), Malayaketu asks her not to move for a moment so that the Prince would close the eyes of Bhagurayana even while the latter is sitting with his face turned away from them. The female door-keeper obeys the order. Just at, this stage, Bhāgurāyaṇa's attendant enters and informs him that the Ksapanaka has arrived for getting a pass-port. On duly being ushered in the friar is asked by Bhāgurāyaṇa whether he is not going out for some mission entrusted to him by Rāksasa himself. The friar closes his ears and says ‘evil be deprecated;evil be deprecated; I am going to a place where not even, the name of Rāksasa or pisacā will be heard’ Bhāgurāyaṇa takes this to be a manifestation of ‘affectionate anger’ the friar has towards his friend, the minister, and asks him to indicate the cause of the same. What is the offence given to you by the minister?' The friar replies 'Rāksasa has not offended me in the least; unfortunate that I am, I am offending myself.' The curiosity of Bhagurāyaṇa is roused so much so that he makes it a condition precedent to the friar's getting the required pass-port, that he told what had transpired between Rāksasa and him (the Ksapanaka). Jīvasiddhi knows that this was the right moment to tell Bhagurāyaṇa what he wanted to and, therefore, says 'while I was staying in Pāṭaliputra on very intimate terms with minister Rāksasa, he secretly employed a poison-maiden and tad Parvateśvara murdered through her’. (Malayaketu who is within hearing distance is at once shocked and pained to learn that his father was killed by Rāksasa and not by Cāṇakya as the report went.\] ‘And now he is busy doing something as a result of which, I am afraid I shall be expelled from this world if I continue to be his associate. Already, Cāṇakya has banished me from Pātaliputra for having been Rāksasa's friend,’ he adds, Bhagurāyaṇa tells him that he had learnt
-
-
 
 that Cāṇakya had Parvatake removed from the world of the living, for, he would have, if he were allowed to live, claimed half the kingdom that was promised to him The friar closes his ears again and solemnly avers that Cāṇakya had not even heard the name of the poison-maiden. Bhagurāyaṇa says, ‘here you can have your pass-port; tell this to the Prince’. Malayaketu draws near and says He has already heard the words capable of rending the listener's ears The Jaina friar is mightily pleased at Malayaketu's having heard this Saying to himself, ‘I have fulfilled my mission he leaves Apostrophizing Rāksasa, Malayaketu asks him whether it was meet on his part to have killed the very person who had implict faith in him, who had entrusted everything to him. 'Not in name only but in point of fact too, you are a rāksasa' he observes. Bhagurāyaṇa who is one of the ablest of Cāṇakya's agents remembers he was told to save Rāksasa's life by all means, He requests the Prince to take a seat and then proceels to explain to him that of those who take part in active politics the distinction between friends, foes, and indifferent persons is a distinction based on the object intended to be secured. Rāksasa, who in those days wanted Sarvārthasiddht to be the sovereign, considered Parvataka, stronger than even Candragupta, to be the greatest obstacle in his way. Rāksasa should, therefore, not be blamed in this respect. Till the Nanda kingdom is one, he should be retained in service Once it is secured, the Prince is his own authority either to maintain or dismiss him. Malayaketu is impressed by Bhagurāyana's explanation and accepts to do as reguested by him adding that the dismissed of Raksasa at this stage would cause an unnecessary agitation among other members of the body-politic and thus render success in their undertaking dubious.
 
  A man servant enters and reports to Bhagurāyāṇa that the guards have caught a man attempting to leave the camp without the necessary pass-port and that the guards want the man to be seen by Bhagurāyaṇa personally. Siddhārthaka is ushered in. In a svagata he salutes ‘devotion to the
 
-
-
 master’ causing people like him to see only the good points leaving out the evil ones Bhāgurāyaṇa is informed by Siddhārthaka himself that the latter is a servant of Rāksasa and that he was going out of the camp without the pass-port on account of the importance of the mission Bhāgurāyaṇa wonders what important misson it was that made him transgress the royal command. At Malayaketu's bidding Bhāgurāyaṇa takes the letter off from Siddārthaka and finds it stamped with Raksasa's signet ring. Malayaketu reads the letter shown to him with the seal kept intact and learns that some one has written to some one else from somewhere that it was a good thing that the former's rival was removed by the letter, that all that need be dono now is to help the former's friends, already with the terms of stipulation-peace given etc Bhāgurāyaṇa asks Siddhārthaka ‘whose letter is this?’ He plea is ignorance and later savs he does not know what he shoull say when caught by them, (—Bhāgurāyaṇa and Malayaketu. Bhāgurāyaṇa causes Siddārthaka to be taken out and belaboured till he tells the truth. The attendant brings in a casket, with Rāksasa's seal on it fallen from Siddhārthka's armpit while being beaten The seal is kept in tact and the casket opened which contains ornaments in it-the very ornaments Malayaketu had taken off from his owa person ahd sent to Rāksasa Bhāgurāyaṇa says this must be the ceremonial accompaniment of the lettr mentioned in this letter. On being beaten again, Siddhārthka is ready to tell the 'truth' to Malayaketu. He says it was minister Rāksasa who sent him with the letter to Candragupta Regarding the oral clue, he tells Malayaketu and Bhāgurāyaṇa that it was as follows: there are the five kings Citravarmā etc—three of whom are desirous of Malayaketu's territory, the others of his elephants and treasury. As your excellency has given me cause for gratification by removing Cāṇakya from his position, let these friends also be gratified by being given what has been mentioned earlier. Malayaketu considers this to be throwing full light on the intimacy between Citravarmā etc. and Rāksasa. He asks the female door-keeper to in form Rākṣasa that he (Malayaketu) wants to see him.
-
-
 
  Then is discovered Rāksasa accompanied by an attendant. Rāksasa is all anxiety and is a svagata shows concern for their army having so many malcontents from Candragupta's side in 1t. He subsequently is satified, however, that be need not worry as all those have already accepted terms from him by which they are bound. He next asks the attendant to convey to the group of kings following him the arrangement to be followed while on their way to Kusumapura. According to this Khas'as and Magadhas are to arrange their armies and be at the fore-front, led by Rāksasa. Gāndharas with the Ionian chiefs are to be in the middle. The heroic S'aka chiefs, with the Chinese and Huṇas, are to bring the rear, while Kauluta etc are to have the Prince surrounded on the way by them (obviously for personal) safety. The man leaves to carry out theminister's instruction. The female door-keeper sent by Malayaketu enters and informs the minister that the prince wants to see him. The minister asks her to wait for a while and puts on an ornament from the three purchased some time ago, as it was improper to see the prince without ornaments on. For, the prince had himself sent ornaments to the minister a few days ago. As he is being led after putting on the ornament brought to him by his attendant to the spot where Malayaketu was waiting for him, the minister thinks to himself of the danger to which a man occupying a high position is ever exposed: ‘Those who have risen very high have a fall imminent' he says,
 
  The formalities of the minister declaring the Prince's victory and the Prince saluting the minister having been over, Malayaketu proceeds to say he was very much pained to see the minister after so long a period. Rākṣasa owns he deserved in a way the rebuke for not having seen the Prince for long; he says at the same time that he was busy making counter-arrangement in respect of the march against Pātaliputra Malayaketu inquires of the minister as to what the arragements made are and says to himself those very persons who want to please Candragupta by killing me, are to surround me l’ Aloud, he asks the
 
-
-
 minister whether there was any one either going to or coming from Kusumapura Raksasa replies that now the very purpose of goings to or comings from Kusumpura is over, little knowing that Malayaketu will construe this as he does to *himself* (understanding Rākṣasa to mean that the latter would soon join Candragupta and serve as his Prime Minister\] Malayaketu then asks 'why was a person with a letter sent by the minister? Rāksasa is surprised to see Sidhārthaka there and even more so to hear Siddhārthaka say ‘I pray, I could not keep the secret as I was being belaboured'. At Malayaketu's instance, Bhagurāyaṇa tells Raksasa that Siddhārthaka told that minister Rāksasa sent him to Candragupta with a letter and an oral clue. Rāksasa asks Siddhārthaka whether that was true. Siddhārthaka continues saying 'I said so when I was being very severely beaten’, Rāksasa declares this is false' and asks "what would a man, when being beaten not say? Malayaketu bids Bhagurāvaṇa show the letter to Rāksasa, reading which Rāksasa, says this is a clever device of the enemy. Malayaketu wants Rāksasa to explain how Siddhārthaka had the ornament with him—the ornament that was the ceremonial accompaniment of the letter. Rāksasa owns that he had received it from the Prince and given it as a reward to Siddhārthaka on an occasion of great delight Bhāgurāyaṇa questions the propriety of conferring an ornament, particularly one that was given to Rāksasa by the Prince himself, on such a person as Siddhārṭhaka. Malayaketu points out as another evidence against Rāksasa that in the letter he wrote 'the oral clue too should be heard from this one,’ Rāksasa again denies that he sent the letter.If he did not, how could there be any oral clue and for whom? Malayaketu shows to Rāksasa *has own real* on the letter Rāksasa's answer is that cunning fellows can even fabricate counterfeit seals' To have the whole question decided, Bhāgurāyaṇa asks Siddhārthaka 'who wrote this letter? On his answering that S'akațadāsa wrote it Rāksasa saysthat it amounted to his having himself written it To avoid the complication that would have arisen if Sakațadāsa were brought to explain, Bhāgurayāna cleverly
 
-
-
 suggests to have brought there another piece of writingin Śakatdāṣa's hand as also the seal he used. The female door-Keeper on being ordered by Malayaketu to do so brings both. On comparing the two writings, Malayaketu observes ‘the letters tally’. Rāksasa realizes the implication and wonders in his own mind whether after all Sakațadāsa has not played into the enemy's hands for the sake of his wife and son (or sons). To make the situation worse for Rāksasa. Malayaketu looks closely at the ornaments worn by Rāskasa and asks him whether it be not one of those three sent by the addressee of the letter which, Rāksasa wrote, had been received by him duly Looking even more closely, he finds the ornament to be one worn by his father before! He asks Rāksasa how the latter came to have it. Rāksasa answers ‘by having purchased it’ Malayaketu asks the female door-keeper Vijavā to look at the ornaments and say whether she recognises them. Here is the last and conclusive bit of evidence going against Rāksasa For, she says how would I not recognise the ornament worn formerly by Parvateśvara of well invoked name Rāksasa's answer is 'these two were sold to us by a merchant who was Cāṇakya's agent.' Malavaketu cannot believe that the ornaments worn by his father, especially when in the possession of Candragupta could be sold But the very next moment, he changes his mind and says, 'yes, yes they could be sold. Candragupta, the selling party who wanted to get more than the price of the ornaments, was offered by you ourselves as the price of the same!' Rāksasa has no answer to make. To himself he owns that the enemy's plan against him has been perfect in all respects: The seal leaves no room to say 'this is not my letter.' Śakaṭadāsa cannot be accused of having played false. Who would believe anybody saying so Who ever would be convinced that Candragupta the sovereign ruler sold the ornaments? Rāksasa decides: there is as only one course left open to him that of owning the guilt. Malayaketu addresses Rāksasa ‘noble one, I would like to know what made you regard Candragupta's service superior to the one you are rendering me?’ Rāksasa says he is no longer a
-
-
 
 noble one and that the question he has put is already answered by Malayaketu himself. Malayaketu points out the letter and the casket of ornaments and asks Rākṣasa ‘what is this?’ With tears, the ministerreplies ‘Destiny's \[wanton\] sport.’ Malayaketu loses all patience with Rākṣasa and says, ‘even now you are trying to conceal; this is the sport of Destiny, and not that of your greed? Having formerly employed a poison -- maiden against my father you murdered him and now are you only too eager to sell me, like a lump of flesh, to the enemy, as you have set a very high value on the position of being his minister!’ Rākṣasa denies having killed Parvataka To the question ‘who killed him then? his reply is 'fate should be asked in this respect.’ Malayaketu angrily shouts ‘fate, and not Ksapaņaka Jīasviddhi should be asked in this respect?’ Rākṣasa's bewilderment knows no bounds when he learns that Jīvasiddhi too was an agent of Cāṇakya.Rākṣasa's heart too was captured by the enemy!
 
  Malayaketu who is all anger orders the aftandant Bhāsuraka to convey his cammand to the Commander-in-chief, S'ikharasena: bury the three kings deep under earth—the three who wanted my territory; and have the remaining two killed by an elephant. The attendant goes out to carry out the Prince's command. Malay aketu turns to Rākṣasa and tells him he at any rate is no Rāksasa (demon) to kill anyone after having taken him into confidence (or implicitly believed in him). Rākṣasa is welcome to join Candragupta by all means. Malayaketu believed he was more than a match for the combination Cānakya, Candragupta and Rākṣasa. Bhagurāyaṇa too hurries saying no time be now lost: 'Let columns of dust raised by our forces fall on the heads of our enemies without delay.’ Malayaketu and his retinue leave the stage. Rākṣasa is left alone to lament the slaughter of those poor ones, Citravarmā etc. Unfortunate that he is, he has all his friends killed! He cannot retire to a penance grove as his mind has no peace, being full of enmity. Following his masters in death would
 
-
-
 well become women, so long as the enemy is alive, Weapon-in-hand, he would have fallen on the enemy's army, were it not for his mind—far from ungrateful, it is hoped,—which is impatient for the release of Candanadāsa. With the thought of saving his friend Candanadāsa uppermost in his mind Rāksasa leaves the stage and the act comes to a close.
-
-
 
 **ACT VI**
 
@@ -9699,13 +8764,9 @@ well become women, so long as the enemy is alive, Weapon-in-hand, he would have 
 
  Victorious is Keśava i.e. the Lord in his Krsna incarnation who destroyed (lit, destroys) घाती the deman Keśin, deputed by Kamsa with a view to doing harm to Krṣṇa \[The demon came in the form of a horse. Krsna thrust his arm right into the mouth of the horse and rent him asunder\]. Krsna's complexion is dark–blue like that of a cloud, (जलद इव नीलः). Like this अप्रस्तुत, the प्रस्तुत, ie Candragupta, the moon of the eyes of the people) is victorious. Anotherप्रस्तुत is the policy of noble Cănakva which has smashed प्रति+हन् p. pp. प्रतिहत-प्रतिहतः परपक्षः शत्रुपक्षः इति यावत् यया सा–बहुव्रीहिः) the side of the enemy, having accomplished every purpose, without any exception (यावत् सर्वम् कार्यं), of the means (जयनम्=जयसाधनम्, जातावेकवचनम्) of victory 3-4 Siddharthaka is eager to see his dear friend Samiddharthaka as the too have not met for long (चिरस्य-चिरात् after a long period of time).
 
-
-
 (2) Construe:—संतापे तारेशाना गेहोत्सवे सुखायमानाना हृदयस्थितानां मात्रेण विरहे विभावः दूनयन्ति।
 
  Curious as it may appear, prosperous circumstances (विभावाः) give pain to men. This happens in the absence of \[lit. separation from\] their friends who have secured a place in their heart, who are veritable moons (ताराणाम् ईशाः चन्द्रः, तेषाम्) in extreme trouble (सम्+तपे) i.e. who are a great cooling agency in times of trouble \[ताप heat badly requiresचन्द्रthe cooling agency\] and who, on occasions (गेहोत्सवं=गेहोत्सवेषु) of festivity in the house, enjoy pleasures (with zest) (सुखायमनाः) Instead of saying, 'I am finding my prosperity to be the cause of pain or unhappiness, because my friend Siddhārthaka is away', the speaker has stated a general proposition (सामान्य विधान). The verse. therefore, contains अप्रस्तुतप्रशंसा in it. 4-5 समिद्धार्थक had learnt that his friend had returned from मलयकेतु's camp. He wants to find him out, He sees him approaching him (समिद्धार्थक) 6-7 The two have met after a long period of time. As would well become their friendship, the two embrace each other. 10-11सिद्धार्थक had asked his friend whether the latter was happy. समिद्धार्थक says he could not be, for, having returned from a long journey had not gone to समिद्धार्थक's house 15–16 सिद्धार्थक explains he found it impossible to go to his 'friend's. Noble Cāṇakya ordered him to convey a glad news to His Majesty Chandragupta. Siddhārthaka has just returned from this last mission of his. He has been duly favoured by the king. 28-24 Siddharthaka tells Samiddhārthaka what the former conveyed to the king: (1) Banishing,राक्षस,मलयकेतु had the five kingsचित्रवर्मा etc, caused to be put to death (2) fne remaining kings started to go to their respective territories for their safety, as they were convinced that मलयकेतु was a rash inconsiderate person. The paraphernalia of these kings was full of fear. (3) The vassal kings were dejected at heart. (4) This opportunity was seized byभद्रभट etc. and aमलयकेतु was taken prisoner by them, 37-39समिद्धार्थक is surprised to learn that भद्रभट etc who were malcontents (अपरक्ताः) who had left Candragupta and resorted toमलयकेतु (as was known to and said by people in general), seized him(मलयकेतु). He
-
-
 
 therefore asks—on what account has this taken place, as in a drama written by an incompetent (कु) literary artist (कवि) where there is one thing in the beginning (introductory part of the play) (मुखे) and a different thing altogether in the last division of the play called nirvahana? 40 सिद्धार्थक's reply is not quite explicit. He makes a salutation to noble Cānakya's policy the course of which is not heard (before) and which therefore resembles the course of Destiny. By implication, Samiddhārthaka is to understand that Cānakya had made भद्रभट etc. pose as malcontents, which the worthy sefvants of a worthy master did with the highest amount of success. 44-45 Tren, narrates सिद्धार्थक, चाणक्य equipped with a large force (साधन) of picked (सार–best) men, captured the entireम्लेच्छ force, as there were no kings to guide it.
 
@@ -9713,13 +8774,9 @@ therefore asks—on what account has this taken place, as in a drama written by 
 
  The enemy force was captured in its entirely there where (यत्र एते) tuskers (दन्तिनः), having the grace of clouds surcharged with water, as the former (दन्तिनः) were possessed of the pride of their ichor,–a very great pride indeed (अतिशय गुरुक)– \[‘ichor–water in abundance' resembles 'copious amount of water', 'elephants' resemble 'clouds'\] and where horses rushed on (संपतन्ति=समपतन्)–horses with wave \[-like movements\] produced in their bodies ou account of their trembling through fear of the stroke of the whip \[कशा on their backs\], and who had well grasped i. e. welcomed the sounds of victory or cries of victory \[which filled the air they breathed\]. कशायाः प्रहारः तस्मात् भयं तेन जातः कम्पः तेन उद्गताः तरङ्गाः (wave like movments) येषु ते। गृहीताः जयनशब्दाः यैः। ...रङ्गा and...रङ्गा at the end of the third and the fourth lines of the verse illustrateअन्त्ययमक and a Prof. Dhruva has pointed out is the precursor of theयमक in the metrical works in modern Inian languages. There is a graphic description of the elephants in lines 1 and 2, and that of horses in lines 3 and 4. The in the verse is, therefore, स्वभावोक्ति (यमकbeing a शब्दालकार). The metre of the verse is मालिनी. 6, 3,
 
-
-
 5-6 Siddhārthaka wants to know how noble Cāṇakya who had publicly abandoned his office \[after having quarreled with Candragupta, Act III\] (उज्झितः अधिकारः येन सः), accepted \[lit. mounted upon\] the same position of \[the prime\] minister again. 8-9 Siddharthaka answers that his friend is too much of a simpleton to fathom (अवगाहितुम्) the action (चरित) of चाणक्य, not fathomed even by minister राक्षस before. other words, Siddhārthaka means that the abandonment of office byचाणक्य was only a political measure, intended by चाणक्य to send the rival (राक्षस) on a wrong track. 13-15 Like the audienceसमिद्धर्थक wants to know where ministerराक्षस is at present and learns that noble चाणक्य has been informed by his spies that he (राक्षस) has come to being closely followed by चाणक्य's spy, उदुम्बर. 19-20 समिद्धार्थक points out the fact that what had resolved to do, he has not been able to achieve. कृतः व्यवसायः निञ्चयः इति यावत् येन. Restoration of the kingdom of the Nandas has not been achieved? राक्षस has not achieved his goal (नः कृतः अर्थः यस्य येन वा) and has entered पाटलिपुत्र, This observation is another proof thatराक्षस who is thus vanquished at this juncture–by Cāṇakya–cannot be regarded as the hero of the play\] 21-22 I guessराक्षस is coming back for the love of his friend' replied सिद्धार्थक 23-24 समिद्धार्थक says that now that राक्षस is coming back to पाटलिपुत्र, his friend चन्दनदास will in all probability be released (इव पक्षे) \[by राक्षस\]. 26- 28 'On the contrary, we two are to takeचन्दनदास to the execution ground and kill him at noble Cāṇakya's command' Siddhārthaka answers 30-31समिद्धार्थक resents their being ordered to do the executioner's work. He asks 'are there not enough hangmen in Cāṇakya's service that he should ask us to do this job? 34-36 सिद्धार्थक knows better “No one desirous of living (जीवितुकामः यस्य सः) can oppose ie disobey (प्रतिकूलयति) चाणक्य's command Let us then put on the dress of Cāndālas and take Candanadāsa to the execution ground” he tells his friend and both go out. The Interlude' is over.
 
  The main scene now begins, A man with a rope in his hand appears on the stage. He is an eroployee of चाणक्य entrusted with a mission as is learnt from what follows.
-
-
 
  (4) Construe:—षड्गुणसंयोगदृढा उपायपरिपाटिघटितपाशुमुखी रिपुसंयमनोद्यता चाणक्यनीतिरज्जुः जयति।
 
@@ -9729,15 +8786,11 @@ therefore asks—on what account has this taken place, as in a drama written by 
 
  (5) Construe: —श्रीःउच्छिन्नाश्रयकातरा कुलटा इव गोत्रान्तर गता, गतानुगतिकाः त्यक्तानुरागाः प्रजाः ताम् एव अनुगताः, अनवाप्तपौरुषफलैः आप्तैः अपि कार्यस्य धूः उज्झिता अथवा \[ते\] किं कुर्वन्तु \[तैः\] उत्तमाङ्गरहितैः अङ्गैः इव स्थीयते।
 
-
-
  Sovereignty \[personified\], like a wanton woman (कुटला), a harlo, moving from family to family, nervous on account of her resort (i.e. support or supporter) having been cut off, has walked over into another family \[Instead of remaining with the Nandas she has taken to the son of Murā\]. The subjects \[punningly, the progeny of the wanton woman\] following bliadly those who walk ahead of them (गतानुगतिकाः) having abandoned \[all precious\] affection \[for the father\] have followed just her \[i.e. the wanton woman\]. The reliable persons too have cast off the yoke of the mission (कार्य), as they failed to get any fruit of their valour न अवाप्तं पौरुषस्य फलं यैः तैः) Or \[why blame them?\] What can they do?They remain like (so many) limbs (अङ्गानि) devoid of the best (उत्तम) limb i.e. the head \[altogether helpless\]. Sovereignty is compresed to a harlot (line 1) and the reliable, persons to limbs without the head to guide them, as the king is dead and gone—has been annihilated with the whole of his family. Thus there are twoउपमा's in the verse. -कातरा गता=कातरत्वात् गता. Thus there isकाव्यलिङ्ग also present here. The metre of the verse is a \[In line 2, the first word is ताम् not तम्.\]
 
  (6) Constrve:—श्रीः अविनीता वृषली इव उच्चैः भिजनं भुवनपतिं देवं त्यक्त्वा छिद्रेण वृषल गता, अस्मिन् \[वृषले\] स्थिरीभूता च, इह \[वयं\] किं करवाम येषा नः स्थिरम् अपि यत्नं दैवं द्विषद् इव विफलयति।
 
  Like the sūdra woman, (वृषली), Sovereignty has abandoned His Majesty (Nanda) of a high family or better nobledescent (उच्चैः अभिजनः यस्य तम्) and has resorted to the sūdra(Candragupta) even as an undisciplined (अ–विनीत) woman, on account of the weak point \[of His Majesty\]. And \[now\] she has become quite steady or firmly established in him (Candragupta). What can or shall we do here?—we whose efforts, Destiny frustrates or makes fruitless, even like a \[sworn\] enemy (द्विषद् इव). In lines 1 & 2 there is 3. Destiny frustrating the efforts of ‘us’ is the cause of failure to know what to do. But this is conveyed with the help of the clause येषा नः यत्नं दैवं द्विषद् इव विफलयति \[ते वयं\]. There isthusकाव्यलिङ्ग contained in the latter halt of line 3 and line 4
-
-
 
 taken together. स्थिरम् अपि यत्नं— the effort put in by us is steady and yet \[it is frustrated by the hateful Destiny\]. The metre of the verse is शिखरिणी.
 
@@ -9751,13 +8804,9 @@ taken together. स्थिरम् अपि यत्नं— the effort pu
 
 (8) Construe: — यःबीजनाश नष्टान् स्वामिनः अधुना अपि शुश्रूषते असौ राक्षसः अक्षतः \[सन्\] कथं तेषां वैरिभिः संधास्यते \[इति\] एतावद्विवेकशून्यमनसा म्लेच्छेन हि न आलोचितम्, अथवा दैवेन उपहतस्य सर्वां बुद्धिः विपर्यस्यति।
 
-
-
   With his mind totally devoid (शून्य) of discrimination that the Mlecha \[Malayaketu\] is, he did not think even this much (एतावद्)— ‘how would that राक्षस who is surving, even, now his masters destroyed root and branch, — enter into any alliance with their (his masters’) enemies, as long as he (राक्षस) is hale and hearty (अक्षतः lit.notwounded)?’राक्षस changes his thought as shown by अथवा‘or, the entireunderstanding ofone adversely struck (उप+हत) by Fate or Destiny throws things up-side down (विपर्यस्यति) i.e. he, has a topsy—turvied sort of grasp of everything around him. The first three lines speak of the विवेकशून्यता and therefore failure to grasp things correctly of मलयकेतु. The ast line is a generalisation: All who are adversely struck by Fate have an understanding that makes them have a perverted view of things. The figure of speech contained in the verse, therefore. is सामान्येन विशेषस्य समर्थनम् type of अर्थान्तरन्यास The metre in which the verse is couchedis शार्दूलविक्रीडितम्.
 
     6.8.1 Rāksasa refers to himself not with the use of the personal pronoun 'I' but as a third person. Even now राक्षस, fallen into the hands of the enemy (अगतिः = शत्रुः), would perish for the matter of that, but would not enter into an alliance with Candragupta, says he. But hechanges his mind. अथवा introduces the change of thought. Tome the infamy this one is\] untrue to his words (असत्यi.e न सत्यासंभा वाक् यस्य सः असत्यसंघ)’ is, I readily grant (कामम्). better but not the other viz, 'this one is defeated by the fraud of the enemy’. This means राक्षसnow chooses to enter into an alliance with Candragupta and act as his prime-minister, though this would mean throwing to the winds his (राक्षस’s) own vow not to serve Candragupta. He prefers being characterised ‘untrue to his words’ to the satisfaction that otherwise his rival (शत्रु चाणक्य) would get viz, having totally deceived him i.e. deprived him of all worth having. It is easily seen that the only motive by which राक्षस is prompted is to score over चाणक्य even in the midst of the unfavourable circumstances he i.e. has to face. चाणक्य wants to undo me in all respects. I would not let him have that satisfaction. I shall be the prime-minister of चन्द्रगुप्त and still
-
-
 
 continue to be some on in particular. राक्षस is in a frame of mind that blinds him to the fact that this is precisely what Cāṇakya wanted to drive राक्षस to viz. working as चन्द्रगुप्त's prime minister. The reading कुतः सकामम् असत्यंसभ इति परमयशः न तु शत्रुवश्चनपराभूतः इति would have to be thus understood \[I shall perish rather than make peace with Candragupta\]., Why (कुतः)? ‘One who l.e comes untrue to his words, throws to the winds his vow (not to serve Candragupta at all, even if this leads to certain death) with a defire (सकामम्)’ is a very great infamy (परम् अयशः) which I would avoid by all means. I quite know that people then will say राक्षस was ‘defeated by deception i.e., out-witted cleverly by the denemy (चाणक्य) ‘शत्रोः चाणक्यस्यवञ्चनेन पराभूतः।’ This latter is to be preferred to being dubbed by the people as a man who cares not to carry out his vow ! (Death rather than Candragupta's service is to be resorted to, this will make it possible to avoid the greatest infamy of being untrue to my संघा or प्रतिज्ञा (words-vow), though there remains the possibility of people saying of me, ‘this one was defeated by being outwitted by his enemy. But this is certainly no evil as contrasted with my doing some thing which will enable people to characterise me as a selfish (सकामम्) man of untrue words — 3-4 राक्षस casts aglance on all sides and recalls ‘these are the regions (भूमयः) on the outskirts of Kusumapura—with their surface (तल) rendered holy by the contact (with the holy feet) of His Majesty's due to the treadings (क्रमणानि) by His Majesty's feet. The contact the regions had with this Majesty's feet had them sanctified (न पवित्रम् अपवित्रं पवित्रं संपद्यमानं पवित्रीकृतम् ; देवस्य पादाभ्यां क्रमणं तस्य or तेन) परिचय तेन पवित्रीकृतं तलं यासां ताः कुसुमपुरस्य उपकृष्ठ— (कण्ठस्य समीपे) भूमयः। A look at the regions makes राक्षस Visualize the past again.
 
@@ -9765,15 +8814,11 @@ continue to be some on in particular. राक्षस is in a frame of mind t
 
    राक्षस recalls how then in that region His Majesty (Nanda) practised in an astonishing manner (चित्रम्) the dis-
 
-
-
 charge of arrows on moving targets, with the horse he rode at top speed (प्रजवितः तुरगः यस्मिन् कर्मणि यथा स्यात् तथा). This was done (अकारि passive theird person sing. of the aorist of कृ) by HisMajesty with his hold over the reins (कविका reins, प्रग्रह hold or grip), made all too (प्र) loose (शिथिल), let fall (अवमुक्त) us the reins were due to or in the act of fully (अ) stretching (lit pulling) the bow. King Nanda pulled the bowy, with the arrow placed on its string, right upto his ears. All the while he was seated on the back of the horse moving at top speed While pulling the bow, the king was naturally required to hold the bow with his hands, which latter could hardly attend to or have a firmgrip over the reins (कविका). Natu. rally enough the grip over the reins got loosened. राक्षस farther remembers-in this series of gardens did His Majesty stay (or rest) \[देवेन\] स्थितम्), here did His Majesty hold conversation (कथितम्) with other kings Those very regions of Kusumapura, now being looked at without them in this way cause pain excessively (भूयसा) i.e afflict the mind extremely. The first two lines contain स्वभावोक्ति inthemas present a fine pen picture of the feat of moving target \[performed by Nanda\] In line 3 is the common subject for स्थितम् and कंथितम्. Thus there is दीपक Containal in it तैः विना आलोक्यमानाः — तै विना आलोक्यमानत्वात् Thua in lines 3-4 there is काव्यलिङ्ग. The metre of the verse is स्रग्धरा
 
     6,9.1-3 in so far as the regions cause excessive pain. मन्दभाग्यः luckless, unfortunate (मन्दं dull भाग्यं यस्य सः) Seeing an old garden, decides to enter it and get news about चन्दनदास from some one (as going into the city would have been a risk not worth running, for, would have been recognised and taken straight into the presence of चाणक्य. अहो... भवन्ति is an अप्रस्तुतप्रशंसा राक्षस wants to speak of the change in his own condition but instead generalises 'oh! how surprising are the changes in the condition of men with their arrival unnoticed (न लक्षितःनिपातःयासां ताः) - changes favourable as well as unfavourable!’
 
     (10) Construe:— य अहं पुरा राज्ञा सहस्रैः वृतः, नवेन्दुवत् पौरैःअङ्गुलिभिः निर्दिष्यमानः राजा इव शनैः पुरात् निरगमम् , सः एव एषः
-
-
 
 अहम् वन्ध्यश्रमः \[सन्\] संप्रति तत्र एव नगरे तस्कर इव त्रासत्भूयः जीर्णोद्यानकं द्रुतं विशामि।
 
@@ -9783,15 +8828,11 @@ charge of arrows on moving targets, with the horse he rode at top speed (प्�
 
      In this verse राक्षस points out how in the garden a mansion (a summer—resort, with its erection(रचना involving great efforts (आरम्भ) lay shattered (lit - thrown about वि+परि+अस्ताः) thus resembling a noble family with its ambitious undertakings (महारम्भाः रचनाः यस्य तत्) all frustsrated \[Evidently राक्षस has the family of his master Nanda in his mind\].
 
-
-
 He further refers to the lake there in the garden which has, all gone dry - like the heart of a saint on the destruction of his friends. \[Obviously this is the state of राक्षस's own mind on the destruction of the five kings कौलूत etc. at the command of मलयकेतु). The trees in the garden are devoid of fruit thus resembling the political measures (lit, policies नयाः) that prove of ho avail on an association with Fate which is unfavourable (lit, without quality). \[Here too राक्षस has the utter fruitlessness of his own political measures uppermost in his mind, measures that failed miserably as Fate was all through unfourable to him.\] The ground in the garden was all covered with blades of grass, even as is the mind (सतिः) of an ignorant person (अ-विदुषः) by wrong policies or ways कु-नीतैः) \[राक्षस is thinking of मलयकेतु's mind which was entirely covered i.e. taken hold of by wrong policies, to wit, killing कौलूत etc.\]. This is one of the best Verses 10 this, Act, remarkable for the beauty of the soliloquy of राक्षस(verses 5-15). This whole passage has a lyrical charm all its own and develops the sentiment of pathos (करुण रस). There is श्लेष too in the verse as महारम्भरचनम्, शुष्कम् and फल are used each in two senses. The figure of speech in the verse is उपमा. The metre used for the verse is शिखरिणी.
 
    (12) Construe:— तीक्ष्णैः उदमैः परशुभिः क्षताङ्गीना रुजा अविरतकपोनोपरुदितैः कूजन्तीना क्षितिरुहा शाखाना व्रणम् परिचितपरिक्लेशकृपया श्वसन्तः फणिनः स्वनिर्मोकच्छेदैः निबध्नन्ति इव।
 
     There were hooded serpents hissing up (श्वसन्तः) on the trees in the garden. Bits of their slough (निर्मोक) got themselves wrapped up round the branches (शाखानां) of the trees. This, राक्षस fancies is the bandage done by the serpents to the branches who have their limbs wounded (क्षतानि अङ्गानि यासां ताः - तासाम् ) by the sharp (तीक्ष्ण) and huge (उदग्र) ases and who are wailing (कूजन्तीनाम्) through pain (रुजाः) by means of the incessant moanings of the pigeons (अविरतैः कपोतानाम् उपरुदितैः रुदितः is a p. p. p. used in the sense of moaning in keeping with नपुंसके भावे क्तः). The moaning on the part of pigeons on the branches is regarded as the wailing of the
-
-
 
 branches that have been wounded. There is compassion (कृपा) for the extreme affliction of the intimately acquainted (परिचितानां परिक्लेश तेन कृपा) that prompts the serpents to do the bandaging by their sough-bits. क्षितिरुहा (trees) to be contrued with शाखानां (line 4) is a दूरान्वय. The figure of speech in the verse is The hooded ones as though do the bandaging. The metere of the verse in शिखरिणी.
 
@@ -9800,8 +8841,6 @@ branches that have been wounded. There is compassion (कृपा) for the extr
       The trees are prominently (उद्ग्रम) showing a drying up from within \[they have grown very thin\]; they carry on their persons the wound made by the insects (कीट), which is as though, their extremely heavy grief (शुचम्). They have become gloomy (मलिनाः) due to their separation from their shade (as there is very little foliage). छायायाः वियोगःpunningly means also on account of separation from lustre (छाया-lusters). They are thus plunged (निमग्नाः)into distress (व्यसन), व्यसन isinterpreted by some as meaning wind व्यसने निमग्ना== exposed to wind. निमग्नाःdoes not seem to be a very happy word to express the idea which the word ‘exposed’ conveys With bodies parched up, marks of wounds left by the insects, no shade to speak of, the trees are in too great a distress, and have as though started to go to the cemetary. The figure of speech in the verse is उत्प्रेक्षा(line 2, line 4). The metre in which the verse 18 couched is वसन्ततिलका.
 
    6, 13, 1 यावदरिमन् विषमदशा (and not विषदशा which is a misprint) राक्षस says that in the adverse circumstances in which he finds himself, there is only the surface of a broken slab of stone that is easy to obtain for him instead of any comfortable seat. He decides to sit on it for a while. Suddenly he hears the auspicious sound of trumpets (नान्दीनाद) mixed up with that of big kettle - drums and conches (inadventently left out in the translation p 188).
-
-
 
  (14) Construe:—गुरुतया श्रोतॄणाम् असारं श्रुतिपथं प्रमृद्गन् बहुस्वात् प्रासादैः सपदि परिपीतोज्झित इव पटुपटहशङ्खध्वनियुतः असौ नान्दीनादः दिशा दैर्ध्ये द्रष्टुं सकौतूहल इव प्रसरति।
 
@@ -9813,17 +8852,11 @@ branches that have been wounded. There is compassion (कृपा) for the extr
 
   6, 15 1-2 The man employed by Cānakya has seen राक्षस seated. He therefore proceeds to carry out the command of his employer, pretending not to have seen राक्षस, the ties up his neck by the noose of the rope in front of राक्षस. 4-5 राक्षस
 
-
-
 is surprised to find the man strangling himself. He infers that like himself the poor man must be afflicted. Drawing near the man he inquires what he is doing 7-8 ‘What a man affcted on account of the death of his dear friend does’ Is the reply the man gives. 9— आर्तः distressed. 10 व्यसने (in calamity) सब्रह्मचारी’, ‘co-pupil i.e.companion in difficulty’, comrade in calamity,’ 10-11 ‘If no secret, not very Neavy or depressing, I wish to bear what makes you take to this measuse राक्षस aske 13-15 Though no secret, nor anything ver heavy, I am not able to cause even this delay in killany myself, afflicted at heart that I am by the loss of my friend.’ ‘16—17 The reply given by this man makes राक्षस observe—‘here we who are indifferent like strangers in the calamity that has befallen our friends \[particularly Candanadāsa), are being repudiated or rebuked (प्रति +आ + दिश्to rebuke) by this man’. राक्षस means he too ought not to have lived a moment after learning that his friend was in difficulty, or should have done all he could to help the friend. 18-20 Importuned byराक्षस the man begins telling what has led him to this measure. 21-22 Visnudāsa, mentioned by the man, राक्षस recalls, is an Intimate friend of चन्दनदास, 25-26 This विष्णुदास is my most intimate friend’ the man said राक्षस therefore rightly concludes that the relationbetween the man telling his story and (अत्यन्तं यथा स्यात् तथा संनिकृष्ट). He (राक्षस) is glad (हस्त), the man must be knowing something I..ust be able to give the required news about चन्दनदास 29-31 The man says ‘विष्णुदास has distributed his wealth among the poor and left the city with the purpose of entering into fire. I too have come here to strangle myself to death and I want to leave this work l before I hear what does not deserve to be heard about my friend’ विष्णुदास अश्रोतव्यं न शृणोमि is an euphemism for भरणं न शृणोमि 3 राक्षस next asks what has led his friend to entering into fire.
 
      (16) Construe —औषधपथातिगैःमहाव्याधिभिः उपहतः किम्? अग्निविषकल्पया नरपतेः क्रुधा निरस्तः किम्? अयम् अलभ्यम् अन्यनारीजनम् अनुरक्तवान् किम्? यथा भवतः सुहृदः अवशः नाशः \[तथा\] एव अस्य किम्?
 
-
-
  राक्षस’s first conjecture is that the man’s friend must be affected (उप+हत) by terrible diseases such as go past the range (पन्थानम् अतिगच्छन्ति इति पथातिगाः तैः) of medicines. He, therefore inquires whether the friend of the man is suffering from such incurable diseases. ‘No no’ is the man's reply, राक्षस’s next guess is — ‘Has he been burled down by the king’s anger (क्रुध), only a little less in its destructive capacity (कल्पा–ईषदूना) than fire and poison i.e. second only to fire and poison? The man's reply is that Candraguptahas no such cruel attitude towards his subjects(जनपद= villages, later villagers, later subjects) or ‘in चन्द्रगुप्त's territory (जनपद = territory) there is no cruel attitude \[ever shown by the king to any one\] नृन् शंसति हिनस्ति इति नृशंसा one that kills men i.e. is cruel राक्षस's 3rd guess is that the man’s friend must have fallen in love (अनुरक्तवान्) with another's wife, difficult of securing (अलभ्य). The man says his friend never would do any such act of indiscipline. राक्षस’s last conjecture: As in your case, even in that of this friend of yours, there is a friend’s loss over which he (विष्णुदास) has no control (अवशः). \[This is the reason why विष्णुदास is entering fire\] 6,16,1 The man says ‘yes, this is the reason whymy friend is entering fire,’ 2-3 But this makes uneasy. For विष्णुदास is चन्दनदास’s dear friend. His affection for चन्दनदासmakes राक्षस's heart aflutter, for राक्षस has already learnt that his friend’s destruction has made विष्णुदासdecide to enter into fire’. This means thatचन्दनदास is in grave peril — on the brink of death. 3-5 राक्षस requests the man to tell him about the loss of विष्णुदास's friend as also the story of विष्णुदास in detail. 6-12 After some hesitation, the man begins to tell the story: “There is the President of the Guild of Jewellers in this city, named Candanadasa’, 14-15 राक्षस says ‘here has fate opened the gate for our grief.’ He asks his heart to be steady as something even more painful is to be heard. 17-18 ‘He (चन्दनदास) is the dear friend of this विष्णुदास’. 19 राक्षस says to himself—‘Here is the fall of the thunderbolt on my heart quite imminent’— meaning. the next bit he would hear is that Candanadāsa would soon be hanged by Cānakya’s order. 26-27 राक्षस appreciates
-
-
 
 विष्णुदास’s love of his friend in that विष्णुदास was prepared to give all his wealth to the king with a view to secaring the freedom of his friend.
 
@@ -9832,8 +8865,6 @@ is surprised to find the man strangling himself. He infers that like himself the
    Oh Visṇudāsa, despite the fact that you are a merchant \[only naturally expected to be regarding money as your all in all\], you resolved (व्यवस्थितः) to part with it instantaneously (सद्यः) as though it (money) were a calamity, when your friend was found to be in a difficulty Well used (कृतार्थः) is that wealth of yours indeed. For it is a matter of common experience that for this very lucre sons kill their fathers and fathers kill their sons as though the two were strangers or enemies (पर— stranger, enemy) and that friends abandon their friendship i.e, affection towards friends ‘...व्यवस्थित.' (lites 1-3)–त्वं व्यवसितः असि contains the cause and in line 4 the effect is stated viz विष्णुदास's wealth has to be regarded as one that has been put to an excellent use The verse thus contains काव्यलिङ्गwith the हेतु contained in the वाक्यार्थ The metre of the Verse is शिखरिणी..
 
      6,17,1 ‘ततस्तथाभिहितेन’ not ‘ततस्थताभिहितेन’ which is misprint राक्षस inquires what was चन्द्रगुप्त’s reply to the proposal of विष्णुदास9-16 ‘Candanadasa has not been imprisoned by me for the sake of wealth or money. He hid राक्षस's family which he failed to surrender though requested to do so more than once. If राक्षस's people are surrendered, there would be release; otherwise you would have to be prepared for capital punishment’. Candanadāsa is already taken to the execution ground. Viṣṇudāsa has left the city saying he would enter fire before he learus about the death of Candanadāsa, I too have come to this old garden intending to put an end to my life before I learn about the death of Visṇudāsa. 17 राक्षस asks ‘Candanadāsa has not really been killed (already).!’ 2 -23 ‘Not yet, but he would soon be.
-
-
 
 They are again and again asking him to surrender राक्षस’sfamily; but out of affection for the friend he would not do so, \[would not now allow \[it cause or make\] any delay in my death.’
 
@@ -9847,15 +8878,11 @@ They are again and again asking him to surrender राक्षस’sfamily; b
 
    The sword has a form (मूर्ति) similar to (संकाशा) that, of the spky full of clouds surcharged with water i.e it is blue in complexion. It is horripilated (पुलकाः अस्य संजाताः इति तारकादिभ्य इतच् ‘with hair standing on their end’ literally) as though on account of eagerness (श्रद्धा) for fight It has formed friendship with my hand. Due to the excellence (उत्कर्ष)of prowess (सत्त्व), it has its strength (सारः) seen by others on the touchstone (निकष) of battle. My sword of this description is appointing (नियुङ्क्ते) me i.e., is prompting mego in
 
-
-
 for an adventure or according to some rashness (साहसfrom सहस् \[though the rule is सहसा विदधीत न क्रियाम्\] strength.
 
     To fight single-handed is rashness. But my affection. for my friend leaves me no other alternative, altogether helpness (विवश) that I am at present. There is उत्प्रेक्षाcotained in the verse ‘...पुलकित इव The पुलकऽ on the sword are the extremely bright streaks of light on it. They are regarded as the hair standing on their end on the person of the sword \[personified\]. The metre in which the verse is couched is मन्दाक्रान्ता
 
     6,19,4-6 पिशुनितं indicated (by the grant of life to Candanadāsa). The man had already recoguised राक्षस. But he is fergning not to have done so, though he has his guess. 8-9 राक्षस deliberately uses the words दुर्गहतिनामधेयःof inauspicious name (contrasted with the man’s सुगृहीतनामधेयः) He also states he has experienced the destruction of the family of his master and is the cause of the calamity that has befallen his friends. He is not an आर्य but an अनार्य and a राक्षस properly so called i.e. a demon अनुभूतभर्तृवशविनाशः, सुहृद्विपत्तिहतुः अनार्यः can be regarded as significant विशेषणऽ in which case the passage would illustrate परिकर अलंकार. 10-13 The man falls, at the feet of राक्षस who bids him avoid any delay. ‘Go and inform विष्णुदास that I am freeing चन्दनदास from death.’ राक्षस repeats 6, 19. 6, 19, 21-28 (‘According to Cāṇakya's instructions evidently the man is avoiding the possibility of the use of his sword by राक्षस. Sɔ be tells the latter:\] Śakatadāsa taken to the execution ground was rescued by some one. The accursed चन्द्रगुप्त got incensed at this. The fire; of his wrath burning on account of Śakatadāsa was caused to be extinguished by him by killing the hangmen \[for their carelessness\] Since then, whenever the hangmen see anyone with a weapon either behind them or ahead of them, they \[instantaneously\] kill the man to be killed as they are keen on saving their own lives Going thus with the sword in your hand then would only hasten चन्दनदास's death. —29 राक्षस is at a loss to understand the path of Cāṇakya's policy.
-
-
 
    (20) Construe:— यदि च शत्रोः मतेन शकटःमम अन्तिकं नीतः \[तर्हि\] तेन क्रोधात् किम् इति वधाधिकृतः जनः हतः? \[शकटस्य वधस्थानात् अपहरणं\] अथ कृतकं न कथ नु \[शकटः\] तादृक् कष्ट \[कूटलेखरूपं कपटं\] विभावयेत् ? इति तर्कारूढा मे मतिः निश्चयं नं पश्यति।
 
@@ -9865,44 +8892,28 @@ for an adventure or according to some rashness (साहसfrom सहस् \[
 
    (1) The use of the sword is now out of the question bere, as already the executioners have been (as per report given by the man) put to death \[for negligence and any possibility of its repetion is effectetively prevented.\] (2) Depending on राजनीति too is no use here as it yieldsfruit only after a longtime, while I want a means which
 
-
-
 will quickly secure the desired object viz, my friendCandanadāsa's life being saved. (3) When my friend underwent a terrible calamity (व्यापत्ति) — the most terrible of all viz. of being on the point of being hanged, for my sake, indifference on my part would not be proper.’ Thus राक्षस cannot decide what he should do. But at this stage an idea strikes him. Says he ‘I shall offer this body of mine as his (my friend's) ransom निष्क्रय).’ The verse is couched in the metre. The verse over, the act called कपटपाश or ‘The False Noose comes to a close. The name of the act is appropriate. For the noose with which ‘पुरुषः’ (चाणक्य's agent) pretended to hang himself was not used by him for that purpose, but only to make राक्षस surrender himself to चाणक्य.
 
      To turn now to a resūme of this act. As the curtain goes up, there appears on the stage Siddārthaka, decked and full of delight. He exults in the victory of the moon, the eyes of the people, viz. Candragupta and in the victory of the policy of Cānakya. As he has returned to the city after long, Siddhārthaka is eager to see his dear friend Samiddhārthaka. Fortunately the latter too was just walking in that very direction. Samiddhārthaka speaks of his own experience stating that \[even\] affluent circumtances afflict a man when the latter is separated from his best friends. As Samiddhārthaka has learnt that Siddhārthaka has returned from the camp of Malayaketu, he starts to find him out. As good luck would have it, the dear friend was right there in front of him. The friends embrace each other. To Siddhārthaka's query whether Samiddhārathaka was quite happy, the latters' answer is ‘how can I be happy, when you, though come back after a long journey, do not go to my place? Siddhārthaka explains that the delay in his going to Samiddhārthaka's was due to revered Caņakya's order to convey this glad tidings' to His Majesty and that without a moment's delay after the mission was over and the reward was secured from His Majesty, had he (Siddhārthaka) started to go to Samiddbārthaka's place itself. Samiddhārthaka requests Siddhārthaka to tell him, if it be no state-secret, as to what news was conveyed by him to His Majesty Candragupta Siddhārthaka says there
 
-
-
 is no secret that he need keep from Samiddhārthaka and reveals that (1) Malayaketu, with his mind bewildered by Cāṇakya's policy banished Rākṣasa (2) had the kin is led by Citravarma annihilated, that (3) the other kings who decrded that prince Malayaketu was absolutely thoughtless started towards their own territories, the remaining soldiers from their army being all at ease through apprehension that (4) the subordinate kings were all dejected at heart and that (5) Bhadrabhata, Purusalatta, Dingarāta, Balagūpta, Rājasena, Bhagurāyana etc. bound down and captured Malayaketu Samiddhārthaka is surprised to learn the unexpected role played by the previous malcontents who had deserted Candragupta. Siddhārthaka wants his friend to understand the greatness of the policy of Revered Cāṇakya Which is like the course of Destiny itself. Siddhārthaka next tells that Revered Canukya personally led an attack with picked and well-equipped men against the Mleccha army, with no kings to lead it and captured it in its entirety Samiddhārthaka is again surprised to learn that Cāṇakya having formerly abandoned his office publicly resumed work as prime minister. Siddhārthaka observes that his friend is too much of a simpleton indeed that he endeavours to fathom Revered Caṇakya's policy not fathomed even by minister Raksasa till then. The mention of minister Rāksasa makes Samiddhārthaka inquire of his friend where the minister is at present. Siddhārthaka answers that when the commotion in the Mleccha army began increasing, Raksasa left it and as reported by Udumbara (a spy) to have come to this very city of Pātaliputra. This return of Raksasa to Pātaliputra, without having won back the kingdom of the Nandas, surprises Samiddhārthaka as it is not in keeping with Raksasa's own previous resolve. Siddhārthaka explains that probably it is Raksasa's affection for his friend Candanadāsa that has brought him back. Samiddhārthaka wants to learn whether there is any possibility of Candanadāsa being released. Contrary to his guess, Samiddhārthaka learns that Candanadāsa is to be taken to the execution ground by Siddhārthaka and himself. This is tobe done at the command of Revered Cāṇakya.
 Samiddhār—
-
-
 
 thaka flares up at learning that they are to do the executioners' job, as though there were not enough hangmen in the employ of the prime minister of His Majesty Candragupta. Siddhārthaka explains, however, that no one wishing tp live dare oppose Canakya or disobey him and the two leave with the purpose of putting on the guise of excutioners and leading Candanadāsa to the place of executron.
 
    The Interlude (Praveśaka) over, there enters a man, rope in hand. The man glorifies the rope in the form of Canakya's policy, ready to bind down the enemies. Не recognises the region to be the same where, as Udumbara reported to Cāṇakya, Rāksasa was expected to be seen Seeing Raksasa with his head covered coming in that very direction the man hides himself behind the tree, in the old garden so as to be able to see where minister Raksasa would sit. Then enters Rāksasa, his head covered and weapon in hand. Shedding tears, he bitterly complains how Soverignty, like a wanton woman, has walked over into another family, leaving that of her masters. The subjects too. like her progeny have followed her. In the absence of the leader, reliable persons too have given up the mission that was undertaken. Fate, like enemy is ever busy frustrating their efforts. Parvataka and Malayaketu were resorted to on the departure of Nanda to the yonder world. But efforts with those two at the head of the party too came to nothing Destiny and not the Brāhmaṇa Cāṇakya so much is the enemy of the Nanda family. Maiayaketu's mind is perverted to be sure that it could not understand that Rāksasa serving his masters destroyed to the last man would never form an alliance with their (the masters') enemy. Raksasa would perish, being seized by the enemy, but never make peace with Candragupta. The minister changes his mind however and says it is better to have the infamy that I (Rāksasa) am untrue to my word, not fulfilling my vow, than being subjected to the humiliation of being deceived by the enemy. Raksasa looks around and sees the skirts of the city of Kusumapure, sanctified by their contact with the feet of His Majesty \[King
 
-
-
 Nanda\], He recalls to his mind the extreme skill of his departed master in riding the horse and aiming a moving target. He recalls the place where His Majesty used to stay, the spot where His Majesty held conversation with the subordinate kings The skirts of Kusumapura, seen nowwithout the presence of His Majesty Nanda there, pain the minister excessively. Unfortunate that he is, the minister does not know where to go. He beholds the very next moment, however, an old garden and decides to stay there aud ascertain the news of Candanadāsa from some one. The minister is impressed by the changes brought about in men's conditions so much so that what was agreeable or favourable becomes disagreeable or unfavourable, the changes never being noticed while they are actually taking place! Was he not himself formerly going out of Kusumapura in great pomp and splendour, even like a king, surrounded by thousands of chieftains, and pointed by their fingers by the citizens like the new moon? Is he not to day his efforts turned fruitless, entering an old garden in that very city, in fear, like a thief? The mansion with its enormous construction lies shattered before him like a family with ambitious undertakings. There the lake lies dried up like a saint's heart on the destruction of the friends. The trees have no fruit, like policies on account of unfavourable fate. The ground there is covered with grass (growing thickly) like the mind of an ignorant person which 19 filled with bad ways for plans\]. There are the serpents bandaging the wound of the branches by means of their sloughs, full of compassion that the serpents are towards the branches undergoing great distress, with their limbs. wounded by sharp axes and wailing incessantly with the moanful cries of the pigeons perched on them. The trees themselves are only too eager to go to the cemetary, drying up within their body, having the excessive grief in the form of the wounds made by the insects, gloomy on account of the absence of lustre \[and also shade\], plunged in difficulty. Raksasa decides to sit on a broken slab of stone as that is all that can be had easily 10 the changed circumstances. As soon as he gets himself seated, he hears
-
-
 
 a flourish of trumpets mixed with the sound of big kettledrums. The sound has been vomitted as though by the palaces which could not swallow it and is proceeding to see the length of the quarters as it were! He guesses that the sound is an indication of the extreme" gratification of the family of Maurya, gratifiction such as has arisen out of the capture of Malayaletu. Fate had made him hear the glory, see the glory of the enemy, It now seems to be bent on making him experience it himself.
 
     The man who was waiting for Rāksasa to sit now busies himself and as though not noticing Rāksasa, binds himself up by the noose of the rope \[as he was asked to do by Cāṇakya\]. Rāksasa is full of compassion towards the man of whom he inquires what he is doing. Managing very skilfully to increase the curiosity of Rāksasa the man tells him the story of a Jewel merchant named Visņudāsa his qwn dear friend, who has distributed all wealth to the poor and left the city with the purpose of entering fire. The man adds that he too is going to strangle himself to death before he learns of the worst calamity of his friend. Dismissing Rāksasa's conjectures regarding the reason why Visṇudā is killing himself—(1) a terrible, incurable disease (2) royal displeasure (3) fancy for another's wife, the man accepts the fourth as the currect one: Visnudasa is killing himself because his dear friend is 800n to die and because Visnudāsa cannot help him in any way. Rāksasa's heart is uneasay as he has guessed that Visnudasa's entering into fire must have Candanadāsa's imminent death as its cause. To get the information he so longs for he requests the man to tell the story of Visṇudāsa in detail. With a little bit of hesitation the man begins telling: There is a jewel merchant named Candanadāsa. Rāksasa considers the mention of this name to be the opening of the gate of sorrow. He steadies his heart with great difficulty. The man continues the story ‘he (Candanadāsa) is a dear friend of this Viṣṇudāsa'. This makes Rākṣasa feel the crashing of the thunderbolt of grief on this heart imminent. The man continues the narration of the story of Viṣṇudāsa, who, he says, to-day did what was worthy of his love of his friend. Rākṣasa is eager to know
 
-
-
 what it was The man therefore tells: Visnudāsa requested. His Majesty Candragupta. ‘In my house there is abundant wealth. May Candanadāsa be given freedom in exchange for it' Raksasa admires to himself Visņudāsa who for the sake of his friend was prepared to part with all his wealth, though Visnudasa was a merchant a vanik. This very wealth is known to make father and son kill each other, to cause friends to turn to be the deadliest of each other's enemies Raksasa wanted to know the reply of Candanaaāsa which as the man tells was 'I nave not bound down Candanadása for the sake of wealth. He can be released only if he surrenders the members of the family of Rākṣasa, whom he refused to surrender though repeatedly asked to do so. Otherwise Candanadāsa will be given capital punishment.' So saying the king caused Candanadāsa to be taken to the place of execution. Visnudāsa has started out of the city resolved to kill himself before he hears that Candandāsa is dead. I too have come to this garden to kill myself with this rope, before I learn that Viāņudāsa has burnt himself alive Raksasa is only too eager to know whether Candanadāsa has as yet not been killed. Not yet-but out of affection for the friend, though again and again implored to surrender Raksasa's people, he would not do so and would surely be killed. So, I would not cause er allow any delay to my own death' Rāksasa is all admiration for his friend Candanadāsa, who has earned a name for himself, like S'ibi (of the Mahābhārata fame), and asks the man to go quickly and persuade Visņudāsa to give up his resolve to enter fire as he (Raksasa) is himself going immediately to cause Candanadāsa to be released The man wants to know the means Raksasa is going to employ to this end. Raksasa unsheaths his sword and says 'with the help of this friend of mine in my resolve to release my dearest friend, with the strength already seen on the touchstone of battle, am I going to accomplish this task'. The man requests Raksasa (whose identity he pretends he whether he is not knew not) to do him the favour to say minister Rāksasa as is indidated by the eagerness to grant life to Candanadāsa. Rākṣasa says he is Rākṣasa properly
-
-
 
 so called (being demonaic in nature) — one who has experienced the destruction of his master's family, one who is the cause of calamity to the friends, an ignoble person, with the name far from well-invoked. The man prostrates himself at Rāksasa's feet, saying fortunately has he been seen \[again\]. Rāksasa bids him get up and hurry up and inform Visnudasa that he (Rāksasa) is saving Candanadāsa from death. So saying Rāksasa again draws out his sword and walks about resolved to use the same to save Caudanadāsa, The man requests Rāksasa to know how since Śakatadāsa's rescue from the execution-ground, effected no one know by whom, and the consequent capital punishment given by Candragupta to the executioners who negligently allowed their charge to escape, the executioners have become extremely careful. He informs Rāksasa that as soon as the hangnien see anyone with a weapon whether ahead of or behind them, they kill the man in the charge, out of anxiety for their own life Rāksasa's moving with the sword drawn out of its sheath would thus only hasten Candanadāsa's death. So saying the man goes away leaving Rāksasa to wonder about the inscrutable nature of Canakya's policy. If Śakațadāsa was rescued by Canakya's agents as per his instructions why were the hangmen killed? If Śakațadāsa's rescue were not a hoax, how would the scribe have been a party to that forged letter? kaksasa is unable to decide the matter for himself. He reflects and dismisses the use of the sword for obvious reasons. Policy takes time to yield its fruit and is therefore rejected by him Remaining indifferent when the dear friend is facing the worst calamity on his (Rāksasa's) account would be highly improper. Rāksasa therefore, concludes that the only proper course under the circumstances is to offer his own body as ransom for that of his friend. Resolved to offer himself as ransom and to save Candanadāsa, Rākṣasa leaves and the act cemes to a close.
 
 ————
-
-
 
 **Act VII**
 
@@ -9920,8 +8931,6 @@ so called (being demonaic in nature) — one who has experienced the destruction
 
  7. 2. 7-11 If you do not believe what I have said, look at Candanadāsa who is being led to the execution ground along with his wife and son (सकलमपि कुलम्). To the query of the persons whom वज्रलोम is addressing himself whether चन्दनदास can escape by any means, वज्रलोम answers ‘yes, if he surrenders the members of the family of राक्षस.’ If he would not do this, full of sympathy (lit love, affection) as he is for those who have thrown themselves on his proteotlon शरणागत वत्सल...शरणगत...being a misprint), then be sure (lit, understand for certain अवधारणय of his auspicious course-
 
-
-
 i.e. departure to the yonder world.’ This is an euphemism पर्यायोक्त for be sure he will be hanged.’
 
  12-13 Enter Candanadāsa, his dress that of a person to be hanged with the stake on his shoulder. He is followed by another executioner as also by his wife and son. 16-18 चन्दनदास makes a bow to god of death that men like him, ever apprehensive of the breach of the code of behaviour (— moral code, evidently) are meeting death which would be worthy of thereves. The cruel, he changes his thought, make no distinction between those who are indifferent and others. उदासीन — indifferent=passive, harmless; others=mischievous, harmful. नृशसाःintended here are Cānkya, Candragupta and the whole group supporting them —
@@ -9932,13 +8941,9 @@ i.e. departure to the yonder world.’ This is an euphemism पर्याय�
 
  7, 3 5-8 The fact that विष्णुदास is not even so much as giving response to चन्दनदास pains him. But then he imediately observes, ‘who would so much as be within the range of the sight of a man who is on the point of being hanged? \[Can it be thatas said by पुरुष in Act VI विष्णुदासhad gone out of the city to enter fire before he learnt about चन्दनदास's death? Or was it only one of the many lies that चाणक्य’s agents invent and so cleverly tell, the fact being that Visṇudāsa was per force kept away and prevented from being in the vicinity of Candanadāsa at the hour of his death, by Cāṇakya?\] एतेस्माकं.... अनुगच्छति।afine pen-picture of the absolutely helpless friends of चन्दनदास and a very pathetic one indeed. They are returning with their bodies only, their minds lingerging being eager to be with Candana-
 
-
-
 dāsa. Their faces were woe-begone due to excessive grief, their eyes, heavy (i.e filled) with tears. 10 The executioner बिल्वपत्र asks चन्दनदासto send back members of his family as he has already reached the execution-ground.11 Candanadāsa asks his wife to go back with the son. 12 The wife replies my lord has started on a journey to the other world, and not to, another land' implying she cannot be expected to return so soon 17-18 ‘There is no reason for you to be dejected. It is not a personal crime for which I am being hanged, but it is for my having helped my friend' says Candanadāsa 20—‘Then’ replies the wife this is no time to go back \[Rather ought we to be proud of you and be by your side to the last moment\] 28 ‘What has been resolved by my lady?’ चन्दनदास helplessly asks. 22 That following the feet of my lord, I should be able to have a favour done to me', 26-27 Here our boy is yet too inexperienced to be left alone. He should be trained by you Give up the imprope (दुः) resolve (व्यवसितम्) \[you have made of following me in death.’ 29-30 ‘Let our family divinities favour \[train and protect\] the by.’ So saving चन्दनदास's wife asks their son to fall at the feet of his father as they are the last (पश्चिम) \[available to him—there being no possibility of his having another opportunity of falling at them\] 31-33 To the son's question what should I now do after being separated from dear father’ The father’s reply is ‘you should live, in a country separated from Cānakya’
 
  35. 36 Bilvapatra tells चन्दनदास that the stake has been planted, that he therefore, should be prepared 37 Candanadāsa's wife shouts out calling noble persons to protect her husband 41-43 Gods show compassion to the afflicted survivors of those who have departed to the other world And another thing— I am ceasing to be for my friend's sake. Why are you crying, when you should be right glad 9' asks Candanadāsa. 45-46 The two exccutioners make ready to seize hold of Candanadāsa, kn wing well that चन्दनदास’s wife and son would then return of their own accord. 49 50 A very natural touch. The father requests the executioners ‘let me embrace my darling son’. He tells the son
-
-
 
 Death is inevitable. I am leaving the world of the living while carrying out my duty by my friend’. 52 ‘Dear father, need even this be told "This is indeed the family-vow \[lit. duty\] with us'- thus showing that though yet a boy, he is a chip of the old block - a worthy son of a worthy father. 53-54 The executioners seize चन्दनदास, 53 Beating her bosom, Candanadāsa's wife again cries out 'noble ones, protect, protect (my lord.' 56-57 Tossing the curtain dramatically enters राक्षसsaying ‘Lady entertain no fear’ Inmediately he turns to the executioners telling them that Candanadāsa ought not to be killed.
 
@@ -9948,15 +8953,11 @@ Death is inevitable. I am leaving the world of the living while carrying out my 
 
  7, 4, 1-2 Candanadāsa's eyes were full of tears to see that the minister for whom he incurred the displeasure of. Candragupta and Cāṇakya, has arrived and is offering himself to the executioners. What is this?' he asks राक्षसwho
 
-
-
 replies— just imitation of a part (एकदेश) of your excellent \[course of\] action’ \[as imitating you in all your deeds would be impossible for me\]— 4, Candanadāsa clarifies his question— what did you do? in that you have rendered thewhole of this elaborate effort (प्र+यासः) in vain? 5 राक्षस makes a short reply and a plain one- ‘self-interest’ has been achieved by me; please do not blame me' \[Saving my friend is my duty. I am doing that. I am obliging none but myself\] राक्षसnext asks the executioner to report to Canakya. 6 ‘What ?' the executioner asks, राक्षस's reply iscontained in 7-5.
 
  (5) Construe :— असजनरुचौ दुष्काले कलौ अपि प्राणैः परं रक्षता यशस्विना येन औशीनरीयं यशः अतिलघुता नीतम्, विशुद्धात्मना \[येन\] सुचरितैः बुद्धानाम् अपि चेष्टितं क्लिष्टम् पूजार्हः अपि सः यत्कृते तव वध्यत्वं ' गतः सः एषः\[अहम्\] अस्मि।
 
  He (1) who even in the Kalı age-an evil age—with the taste of people \[turned\] evil 1.e. depraved (असती जनानां रुचिःयस्मिन्) protects others (परम् = परान् ) at the cost of his life (प्राणैः) and thus has rendered the glory of the son of Us'inara i.e. Sibi (उशीनरस्य अपत्यं पुमान् औशीनरः तस्य इदम् औशनिरायम्) extremely trifling (अति-लघु-तां-नीतम्), he (2) who possessed of an absolutely pure soul (विशुद्धः आत्मा यस्य सः तेन ) has by his excellent deeds (सु-चरितै ) surpassed (क्लिष्टम्) the acts (चेष्टितम् चेष्टितानिfrom चेष्ट् to act, according to नपुंसकं भावेक्तः, meaning व्यापारा, क्रियाः) of even the Buddhist saints (बुद्धानाम्) \[or alternatively of the Revered Buddha even, बुद्धानाम् being आदरार्थे बहुवचनम्\] that worship— worthy (पूजाम् अर्हति इति पूजार्ह.) one has become fit to be killed by you for 1.e. on account of having helped a person viz. me. The one for whom he became fit to be killed that I – am here.\[The implication is–hang me and let the virtuous' friend of mine Candanadāsa be released\]. रक्षता औशीनरीयं यशः अतिलघुता नीतम् = रक्षणाद्धेतोः येन... नीतम् .The verse, therefore, contains काव्यलिङ्गin it. Again S'ibi's glory, the standard of comparison (lines 1 & 2) and the act of the Buddhist saints (or of Gautama Buddha, Lord Buddha) another standard of comparison (in line 3 have both been
-
-
 
 eclipsed by (1) the glory of Candanadāsa (the उपमेय) and by (2) the excellent deeds of Candanadāsa (उपमेय), respectively. There is thus व्यतिरेक. The metre of the verse is शार्दूलविक्रीडित 7, 5, 3 - 5 वज्रलोमा asks his companion to wait for a while in the shade of a tree in the cemetary, and goes himself to report राक्षस's capture to चाणक्य. 6-7 बिल्वपत्र goes out with Candanadāsa, his wife and son to wait for under the cometary-tree 8 - 11 वज्रलोमा shows the way to राक्षस and both of them walk round and reach where noble चाणक्य could be seen. He waits outside and asks the servant who is of duty to report to आर्य चाणक्य,the thunderbolt of the mountain in the form of the Nanda family (परम्परित रुपक), the one who firmly established the Maurya family (as the sove- reign family) 12 Meanwhile राक्षस says to himself ‘even this has indeed to be heard (quietly)! 14 वज्रलोमन् complete the sentence — ‘(Tell noble here is minister राक्षस brought fully (सम्) under control (यमित) in respect of both his intellect (बुद्धि) and bravery (पुरुषकारः) by the policy of the noble one.’
 
@@ -9964,11 +8965,7 @@ eclipsed by (1) the glory of Candanadāsa (the उपमेय) and by (2) the e
 
  Cānakya regards the capture of राक्षस a singular achievement of some of the most difficult tasks that could have been set to any body. He, therefore, very eagerly wants to know (कथय-कथय) who has achieved the impossible (! Who has tied up (blazing) fire (शिखाः ज्वालाःअस्य सति इति शिखी अग्निःइति अर्थः), tawny on account of the mass (कलाप) of his flames that rise high (उत्तुङ्ग), in the hem (अन्तः) of his garment? (2) Who has brought about absence of movement अगति-ताःof i.e confined to a spot the ever-moving (सदागतिः) wind that knows no rest) by means of \[ropes used as\] noose (पाशैः)? Who has put into the cage the lion with his mane (नटा) made fragrant (वासित), by the ichor of elephants \[whose temples the lion broke\]? न एक = अनेक Here अनेक = द्वि and अनेकेप = द्विप = हस्ती) अनेकपानां द्विपानाम् इति यावत् दानेन वासिता सटा यस्य सः, (4) By whom has the dreadful (भीमः) ocean (अर्णवः), with many
 
-
-
 (नैक) crocodiles नक्र and sharks (मकर) been crossed? विशाखदत्तis here establishing a poetic connection between \[A\] capturing the brave and intelligent former prime-minister of the Nandas (प्रस्तुत-उपमेय) on the one brand and \[B\] (1) catching fire in the hem of one's garment, (2) rendering wind motion less by having him caught by a noose, (3) putting a lion that destroys, elephants in large numbers in a cage and (4) crossing by means of just one's pair of arms (दोर्भ्याम् Instrumental dual of दोःarm) the dread ocean, thus keeping oneself exposed all the time to the danger of being drowned or made short work of by the terrible aquatic creatures, on the other. But this connection culminates in bringing ont the similarity (उपमापरिकल्पक) between \[A\] and \[B\] 1), (A) and (B) 2), (A) and (B) (3) and (A) and (B) (4). Thus understood, the verse contains an instance of बालानिदर्शना, as there is for Just one प्रस्तुत as many as four अप्रस्तुतऽ. 'अभवन्वस्तु सम्बन्धः उपभापरिकल्पकः' 15 निदर्शना as defined by मम्मट in काव्यप्रकाश X. But some may not understand the connection between प्रस्तुत (A) and (B) (i), (B) (2), (B) (3) and (B) 4). They would, instead, consider a reference to fire, wind, lion and ocean as a mention (प्रशंसा = निर्देश) of the अप्रस्तुत intended to help the reader know the प्रस्तुत-राक्षसbeing ciptured. Thus understood, the verse would be an ‘illustration of माला-अप्रस्तुतप्रशंसा. It is also possible to think that in each one of the four lines the अप्रस्तुतऽ have swallowed the same प्रस्तुत, ong after the other. Thus understood, the verse would be an instance of माला-अतिशयोक्ति Read निगीर्याध्यवसान तु प्रकृतस्य परेण यत्। विज्ञेयातिशयोक्तिःसा and also उपमानेन अन्तर्निगीर्णस्य उपमेयस्य यद् अध्यवसान सा एका मम्मट in काव्यप्रकाश. X. The metre of the verse...शार्दूलविक्रीडित 7 6, 1-2 Vajraloma answers why? (or I say ननुby the noble one i.e your own revered self, with mind skilled in poiics (नीतौ निपुणा बुद्धिःयस्य), has this been achieved -- 3 चाणक्य tells वज्रलोमा not to say so—don't say, don't say The repetition shows that चाणक्य is not at all ready to take the credit given him by वज्रलोमा, Say, this has been done by Fate, ever full of hatred against the Nanda family.’ विद्वेषःशीलम् अस्य with the इन् expressive of habit ताच्छील्ये णिनिः). Though previously (Act I, II III) so full of pride, so boastful when राक्षस's capture becomes an accomplished fact, चाणक्य accepts
-
-
 
 the part played by Fate in the whole conflict. “Fate was ever so full of hatred against the Nanda family. Were it not so, चाणक्य means, he would not have been successful. The sentence implies also that राक्षस spared no pains, — was not found wanting so far as his capacity, sincerity, stead-fastness, devotion etc. were concerned Only Destiny never co-operated with him. The passage reveals another aspect altogether of चाणक्य's chaacter, an aspect so delightfully in contrast with his vauntings.—4 This is the first encounter of राक्षस and चाणक्य, राक्षस's reaction to their having come face to face with each other is well brought out by the स्वगत assigned—to him. ‘Here is that evil-souled, or better, high souled Caṇakya’ says राक्षस.
 
@@ -9982,11 +8979,7 @@ the part played by Fate in the whole conflict. “Fate was ever so full of hatre
 
  \[Here is the high-souled minister राक्षस by whom was subjected to worry (आयासिता), for long, the army of वृषल
 
-
-
 as also my mind, as because of राक्षस's policy we had to undergo the arduous \[lit, heavy\] गुरु troubles of conceiving (कल्पना) \[effective counter-plans of our own\], troubles that 'were the cause of prolonged wakefulness चाणक्य means, for a long period of time neither वृषल's army. not he (चाणक्य) got so much as a wink’s sleep as they had ever to be alert and vigilant, lest outwitted them. The verse contains in it an instance of तुल्ययोगिता अलंकार for चाणक्य's मति and चन्द्रगुप्त' s सेना both are said to have a common characteristic by impli catoon viz,being troubled (आयामितत्व) Both मति and सेना are प्रकृत, 'पदार्थानां प्रस्तुतानामन्येषा वा यदा भवेत्। एकधर्माभिसम्बन्धः स्यात्तदा तुल्ययोगिता। The metre of the verse 18 अनुष्टुभ्7, 8, 1 चाणक्य removes the जवनिका mantle or ‘loose gown’ he had put on (for what purpose, it is not easy to say Did he want his identity not to be known? If so, his face too ought to have been covered). Prof. Dhruva reads in both these places 7,5,15& 7, 8, 1 जयनिकाम् instead of जवनिकाम् understanding the same to mean an armour. The armour चाणक्य wore so long, presumably for safety, or because any moment he would have been required to guide military operations, he now removes and drawing near राक्षस, salutes the latter, saying, ‘minister राक्षस.I विष्णुगुप्त, salute you'. -राक्षस addressing himself (स्वगतम्), says now the epithet 'minister' is one bringing shame to me (defeated as are his masters whose Minister he was, and frustrated in his own attempts at dethroning Cindragupta as he is). 3 Aloud, he says to Caṇakya-please do not touch me who am contaminated by the touch of the executioners' 4-7 चाणक्य reveals to राक्षस that the two who touched him in the execution—ground were no Candālas but men in political service— सिद्धार्थकwhom he already knew (Act V) and समिद्धार्थक. Canaky a seizes the opportunity of disclosing to राक्षस that poor Sakaţadāsa was made to write that sort of forged letter by him (चाणक्य), without S'akaṭadāsa's being allowed to know anything about the use to which it was to be put, or about the person to whom it was to be sent, or about the person who was sending it —8 राक्षस feels relieved, as he expresses to himself, that fortunately (दिष्ट्या) the suspicion about S'akațadāsa \[that he had played into the enemy's hands deliberately with a view to saving his property, wife
-
-
 
 and son\] is removed altogether (अप+नीतः).–9 Cāṇakya says ‘the whole thing can thus be briefly told :
 
@@ -10000,13 +8993,9 @@ and son\] is removed altogether (अप+नीतः).–9 Cāṇakya says ‘th
 
     My arrows have come into contact with (अवाप्य) i.e. received their irontips (फल) all right; but as they have not been appointed to duty i.e. are not used, they have. reached a state where they have lost their countenance or brightness (विलक्षतां गतानाम्). By paranomasia फल means fruit.
 
-
-
 This the arrows have achieved but they have not worked for the same \[Caṇākaya achieved the victory to which they could hardly lay any claim\]. They thus had remained away from the target, never having been so much as taken out of the quiver, fixed on the string and discharged. विलक्षतांगमन is thus विलक्ष्य (target) तां गमन, paranomestically. On the part of the arrows there is a firm stand (प्रतिष्ठा) \[they have taken\] on their vow (व्रत) of remaining (lit. lying) in their quiver (तूणी), with their faces-iron-tipped end (मुख्य)s \[as apart froms the other to which is attached a feather\] turned downwards i.e. into the quiver, as though through their personal grief (that they had no opportunity in achieving this precious victory) Paranomastically i.e. with a श्लेष अधोमुखानांwould mean (of arrows) ‘with their faces downcast’. The arrows are regarded as very sensitive persons. The fruit (फल) is there, but they were not appointed to any task (अनियोग). They thus lost all brightness of countenance (विलक्षतां गत) have theirfaces hung low and they prefer to lie down motionless in their own places (rather than mix freely with others in the society). Thus there is श्लेष contained inthe verse ‘स्वशुचेव अधोमुखानाम्’ contains उत्प्रेक्षा in it. If the 2nd line is read अनियोगेन विपक्षतां गतानाम् there would be विरोधाभास अलंकारin lines 1 and 2 meaning ‘having secured the fruit of my arrows that have gone to the enemy-side’. Now one who wins fruit or is successful does not go over to the enemy's side. The विरोध is to be explained away thus: फलयोगम् अत्राय = having had iron tips (at one end) विपक्षतां गत्तानाम् – वीनाi.e. पक्षिणां पक्षतां गतानाम् those that have feathers of birds attached to the other end. The verse with विलक्षता गतानां' as the reading can be regarded as an instance of समासोक्ति अलंकार.. Read समासोक्ताः समैर्यत्र कार्यलिङ्गविशेषणैः व्यवहारसमारोपः प्रस्तुतेऽन्यस्य वस्तुनः। The common adjectives अधोमुख, विलक्षता गत make it possible to ascribe the behaviour of sensitive people to the arrows, The metre in which the verse is couched is मालभारिणी with the scheme स, स, ज, ग,ग(lines 1,3) and स,भ,र,य(lines 2,4) ‘विषमे ससजा गुरुः समे चेत् सभरा येन तु मालभारिणीयम्। चन्द्रगुप्त changes his line of thinking as shown by अथवा—
 
      ( 11 ) Construe :— स्वपतः अपि यस्य मम इव तन्त्रे कार्य जागरूकाः गुरवः जाग्रति, असौ विगुणीकृतकार्मुकः अपि भुवि जेतव्यं जेतुं समर्थः एव ।
-
-
 
   He over whose administration तन्त्रे = राज्यतन्त्रे, शासनतन्त्रे Jit, science of administration, here it is the practice that it is intended), his preceptors, watchful (जागरूक) regarding the mission or duty to be carried out (कार्य), are awake-he, even though asleep,— even with his bow unstrung i.e. never used or ever idle (न विगुणं अविगुणं विगुणं संपद्यमानं कृतं धिगुणीकृतं कार्मुकं यस्य सः विगुणीकृतकार्मुकः — the refernce being to the fact that only when in use the string —गुण— is tied to the other end also of the bow, otherwise romaining tied to one end) is able to conquer definitely (एव) what is worth conquering on the surface of the earth. कार्यजागरूकाः तन्त्रे जाग्रति अतः जेतुसमर्थजयसमर्थता is the effect achieved even In the absence of the cause सगुणीकृतकार्मुकत्व Though the bow is not strung, there is conquering of all worth conquering. There is thus विभावना अलंकार too. Read "क्रियायाः प्रतिषेधेऽपि फलव्यक्तिर्विभावना' मम्मट in X. The metre of the verse is the same as that of the preceding (7, 10).
 
@@ -10018,8 +9007,6 @@ This the arrows have achieved but they have not worked for the same \[Caṇākay
 
     Even when a boy, Candragupta had his great rise in this world shown possible. (संभावित महान् उदयः यस्य), like an elephant rising to the position of being the lord of the herd (यूथस्य ईश्वरः तस्य भावः यूथैश्वर्यम्), Candragupta has risen to sovereignty (राज्य). The figure of speech in the verse is उपमा. The metre used for the verse is अनुष्टुभ्. Aloud राक्षस wishes victory to चन्द्रगुप्त. The latter says:
 
-
-
 ( 13 ) Construe:- गुरौ आर्ये\[चाणक्ये\] च आर्ये\[त्वयि\] च षाड्गुण्यचिन्तायां जाग्रति \[सति\] मया जगतः किं न जितम् इति प्रविचिन्त्यताम्।
 
    When the preceptor, noble (Cānakya) and the noble one i.e., yourself, are vigilant about the consideration of the six expedients (षड्गुणाः सन्धिविग्रहादयः एव षाड्गुण्यम्), it may be thought about as to what on the surface of this earth it is that I have not won. By implication, Candragupta wants to be understood to say ‘I have won everything.’ Securing such eminent men as Cānakya and Candragupta as ministers is the same thing as winning everything in the world. The metre of the verse is अनुष्टुभ्.
@@ -10030,13 +9017,9 @@ This the arrows have achieved but they have not worked for the same \[Caṇākay
 
     Of a guide (नेता), on having secured a worthy person (द्रव्य) as the ambitious king (जिगीषु) lit desirous of winning — ‘sovereignty’ to be supplied), a firm establishment on position of one possessed of success is definitely secured,though the guide (i.e the minister who gives counsel) be dull-witted (जडःआत्मा यस्य सः जडात्मा तस्य). Having come across an unworthy (young ruler) however, a minister, even though his policy be free from fault (विशुद्धःनयःयस्य), falls in the manner (or fashion) of a tree growing on the bank of a river, with its resort scattered all about शीर्णः आश्रयः आधारः यस्य सः शीर्णाश्रयः. As a tree growing on the bank of a
 
-
-
 river falls when on the river being in flood, the bank, the resort of the tree gets itself washed away, the minister, though giving the right kind of advice, is undone, when his support, the अद्रव्य king, foolishly gets himself involved in difficulty. The verse is uttered by Räksisa in the spirit of a sincere tribute to Canakya who chose the right kind of as the जिगीषु. राक्षस wants to bring out that noamount of wisdom on the part of the minister would be enough to achieve success, unless the king whom he is advising is possessed of requisite qualities. Though राक्षस mentions not चन्द्रगुप्त - चाणक्य aid मलयकेतु -राक्षस (अहम), he has really these persons in view. He has spoken of the classes of जिगीषवः (जिगीषु is जातावेकवचनम्) and मन्त्रिणः(मन्त्री too is जातावेकवचनम्). The figure of speech in the verse is therefore, अप्रस्तुतप्रशंसा. The metre of the verse is वसन्ततिलका.
 
      7,14,1 Cānakya comes to the most important point and asks राक्षस ‘do you wish that Candanadāsa should live ?2 ‘What doubt (could be there?’ asks Rāksasai.e he does wish that Candanadāsa should live. ‘There was doubt though there should not have been any, because you have favoured चन्द्रगुप्त — but without accepting the śastra i.e. prime-minister’s sword. If there is a genuine desire on your part that चन्दनदास should live then let this weapon be accepted by you’5—राक्षस declines and owns 'I am unfit to wield it, especially as it was so ably wielded by you so far. The reply given by shows he has no illusions about himself. He frankly acknowledges the superiosity of चाणक्य. (Incidentally the passage shows that विशाखदत्त does not hold the view that राक्षस is the hero of the play. Here is a confession of his inferiority given by राक्षस himself). 6 चाणक्य does not accept this estimate which राक्षस has formed of himself. He proceeds to show to राक्षस that it was due to his great powers that the horses and the elephants in Candragupta's army knew no rest. \[चाणक्य is persuading to accept the ministership of . He does not flatter but gives him his due. It is a fact that “but for the superior wits of चाणक्य, राक्षस would have been succ-
-
-
 
 essful. See Introduction, VI ‘Who is the hero of the Mudrārāksasa? pp 21–24\].
 
@@ -10046,8 +9029,6 @@ essful. See Introduction, VI ‘Who is the hero of the Mudrārāksasa? pp 21–2
 
     (16) Construe :— नन्दस्नेहगुणाः हृदयं स्पृशन्ति तद्विद्विषा भृत्यः अस्मि; ये त्वयम् एव सिक्ताः द्रुमाः वृद्धिम् अगमन् ते एव छिन्नाः;मया
 
-
-
 मित्रशरीररक्षणकृते शस्त्र व्यापारणीयम्, कार्याणा गतयः चिरात् विधेः अपि आज्ञाकरत्व नयन्ति।
 
     The excellences of the affection of the Nandas touch the heart. \[Actually, however, I am the servant of their worst enemies, Candragupta and his group\]. The trees that were sprinkled by myself and which grew as a result of that sprinkling, those very trees are cut off.The weapon the badge of the prime-minister of Candragupta must now be used by me i.e the position of the prime-minister of Candragupta must now be accepted by me to save the body of my friend from the greatest calamity viz that of its cessation. The courses of actions after a long time take a man \[पुरुषम् अध्याहृतं कर्म\] to the state of being the most obedient servant (आज्ञाकरत्वम्) of Destiny Destiny willed I should serve Candragupta and such is the turn the course of events has taken that I have to obey Destiny. The verse contains, when thus understood, an instance of अर्थान्तरन्यास. There is the specific instance of राक्षस in the earlier part and in line 4 there is the सामान्य विधान corroborating the specific instance.
@@ -10056,15 +9037,11 @@ essful. See Introduction, VI ‘Who is the hero of the Mudrārāksasa? pp 21–2
 
      7,16,1-2 Aloud राक्षस accepts the the term laid down by चाणक्य. He salutes love of a friend which causes one to accept all actions. ‘What other course is there Here I have bent myself low’, he says. 3-4 Only too gladly does चाणक्य hand over the sword to राक्षस, He congratulates Candragupta on having secured minister राक्षस to look after the administration of his kingdom.— 5 With his characteristic modesty, चन्द्रगुप्त says it is only my noble preceptor's favour that is being experienced by me i.e. ‘I must thank you for this; I owe this to you. 6-9 A servant enters and informs चाणक्य that मलयकेतु, taken prisoner by भद्रभट etc., is made to
 
-
-
 wait at the door. The servant waits for an order from the prime minister (चाणक्य)-10 But says ‘tell minister राक्षस about this. Now he knows what is to be done (in matters such as these)-11-12 राक्षस feels a bit awkward that he has been turned a slave of चन्द्रगुप्त and चाणक्य is now causing him(राक्षस) to say in so many words - to make a request in so many words that मलयकेतु be saved. 12-13 But he is prepared for this Aloud he requests King Candragupta to save मलयकेतु's life, as राक्षस himself had stayed with मलयकेतु for some time —14 The king looks up to Cānakya for instruction as to what should be done (as usual) 15 Cānakya tells him that this the first request of the new prime minister be duly respected. He sends word to भद्रभट etc that on the recommendation of minister राक्षस, (lit on being requested by minister राक्षस), His Majesty चन्द्रगुप्त has returned to मलयकेतु the territory he inherited from his ancestors. भद्रभट etc аге to see that मलयकेतु is duly installed on the throne and then are they to return—19 As the man is about to start to execute the command, Caṇakya asks him to wait, There is an order which is to be conveyed to the officer in charge of the fort, Vijayapāla Mightly pleased on the acquisition of minister राक्षस, His Majesty चन्द्रगुप्त commands—let the President of the Merchant Guild Candanadas be made the Merchant-in-chief of all the cities in the empire (lit on the earth) 22— 'Moreover, 1st all that are bound¸ be released, excepting the horses and the elephants who are theराज्यमूल as stated in Act III. 23 Cānakya changes his mind— Why should I now bother about these detailed instructions? With Rāksasa at the helm (नेतरि) what purpose am I going to serve ?
 
      ( 17 ) Construe :— वाहनहस्तिभ्यो विना सर्वबन्धनम् मुच्यताम्। केवलं पूर्णप्रतिज्ञेन मया शिखा बध्यते।
 
      Line I is a repetion of what has been stated earlier in prose. In line 2, चाणक्य says' now that I have fulfilled my vow— securing the services of minister राक्षस for चन्द्रगुप्त — I shall tie up my tuft of hair (kept loose so far on purpose as a व्रत)’. The verse is appropriately retained in the text. In
-
-
 
 Act I, चाणक्य entered मुक्तां शिखां परामृशन् (p.7). It is only meet that now there should be शिखाबन्धन.
 
@@ -10080,8 +9057,6 @@ Act I, चाणक्य entered मुक्तां शिखां पर�
 
     Like the pious wish विभोः शाट्य वः अव्यात् (in 1) and त्रिपुरविजयिनः दुःखनृत्त वः पातु (in1, 2) in the नान्दी at the commencement, here in the at the the end, there is a wish that is expressed: Let the king, with his relatives and servants rich in possession of wealth, Avantivarmā(by name), protect the earth for long. He is one whose pair of arms Earth is resorting to now, being harrased as she is by the Mlecchas. The tip of the tusk of this very (king— who is according to ना विष्णुः पृथिवीपतिः,) self— born one, who formerly assumed (lit
 
-
-
 resorted to आस्थितस्य\] the boar — form \[वाराहीं–वराहस्य इयं तां – तनुम्\] suited to the task (विधि lit. process) of protection, Earth had restored to in days of yore, when she was submerged in the watery deluge (प्रलय). अवन्तिवर्मा is आत्मयोनिः, who as the वराह—incarnation of Visṇu, raised the earth from the bottom of the ocean bearing it on the snout, formerly; that same आत्मयोनिः to-day has become राजमूर्तिः i.e appeared as the king. And it is to the latter's pair of arms that the supporter of beings (भूतानां धात्री भूतधात्री Earth) has to-day restroed \[This अवन्तिवर्मा has routed the Mlecchas or the white Huns\]. Let him, therefore. continue to protect the earth for a long period of time.
 
      Evidently the dramatist is showing his gratitude to Avantivarmā, the saviour of the people. It would not be wrong to infer that the dramatist is voicing the esteem in which Avantivarmā was held by a large bulk of people in those days (sixth century A.D). \[For the bearing that the verse has on the date of the author, as also for the variant readings for ‘अवन्तिवर्मा’ read Introduction Topic: 1 pp 1=6\].
@@ -10092,19 +9067,13 @@ resorted to आस्थितस्य\] the boar — form \[वाराही
 
     To turn to aresume of the last act: As the curtain is raised, there appears the Cāniāla i.e. executionerVajralomā on the stage. He warns all those who want to save their life, their prosperity, and family to avoid anything unwholesome to the king. For, if what is unwholesome medically causes only usease or death of the person who indulges in it, what is unwhole- some to the king if indulged in causes the whole family to be destroyed. If they have any doubts regarding the hatter, they are only to look at Candanadasa who is being
 
-
-
 led to the execution-ground along with his wife and son. To the query made by some persons whether there be any means by which Candanadāsa can be freed, the hangman's answer is there is one remedy viz. surrendering the memers of the family of Rāksasa, If Candanadāsa refuses to surrender those that have thrown themselves on him for protection, he is on his way to the yonder world and no amount of thinking about means of saving Candanadāsa'slife on the part of his sympathisers is likely to be of any use
 
      Hardly has Vajralomā finished his warning when there enters on the stage Candanadāsa, wearing the dress of one condemned to death, with the stake on his shoulder He is accompanied by his wife and son and another inangman, Bilvapatra by name, follows him Candanadāsa is in tears and salutes the god of death as men like him are made to die like ordinary thieves. Candanadāsa consoles himself with the thought that the cruel make no distinction between the innocent and the offending. This is amply borne out by the insistence of hunters on killing the poor deer that leave flesh to itself and maintain themselves on blades of grass. Candanadāsa looks around and is pained to see that his dear friend Visnudāsa is not so much as giving a word is reply. Or, are not those who would be within sight of the condemned, when the latter is to be hanged, difficult to come across ? There are some dear friends of his whose only counteraction is the tears trickling down their cheeks and who with faces woe-begone, are returning with great difficulty with their bodies though continuing to follow Candanadāsa with their eyes heavy with tears Candanadāsa asks his wife to return with their son, on being asked to do so by the hangman Bilvapatra, as they have already reached the place of execution. Candanadāsa's wife who is all tears pleads that her lord has started for another world and not another country. Candanadāsa explains to her that his death is nо consequence of his fault as it is being brought about on account of bis having helped his fried and that she need not, therefore, be dejected. The lady says, ‘if this be so, this is no time for the members of
 
-
-
 the family to return.’ Candanádāsa asks her what it is that she has resolved to do. The housewife replies ‘to favour myself by following my lord’s feet (in death)’.Candanadāsa tries to convince her that this was a wrong resolve, as the little son, quite new to the ways of the world, was to be favoured by her. The housewife prays, ‘let the family-divinities favour him’ and she asks her son to fall at the feet of his father for this the last time. The son does so and asks Candanadāsa what he should do when separated from his dear father. ‘You should stay in a country, separated from Cānakya, says the father in reply. Bilvapatra asks Candanadāsa to be ready, as the stake is already planted. Candanadāsa's wife shouts out to noble men for help. Candanadāsa explains to her that gods sympathise with the relatives of those that depart to the other world, that this was an occasion for joy, not one for sorrow. The executioners decide to take hold of Candanadāsa, sure in their minds that when he is seized, the family members. would go back of their own accord. There is one last request of Candanadāsa to the hangman Bilvapatra: ‘wait a moment; lot me embrace my dear son.' Candanadāsa embraces the son and smelling him on the head tells him that while death is inevitable he was perishing while carrying out his duty by his friend. The worthy son of the worthy father asks, ‘dear father, need this even be said’ and adds, ‘this is our family-vow.’ Vajraloma asks his colleague to seize Candanadāsa. Both of them take hold of him. Candanadasa's wife beats her bosom in utter helplessness and cries, 'noble ones, protect, protect \[my lord\],”
 
       Suddenly there is the tossing of the curtain. Minister Rāksasa appears on the scene assuring the lady there is nareason for her to be afraid. He addresses the hangman and tells them to place the garland of the condemned criminal round his neck, as he and not Candanadasa richly merits being hanged. Candanadāsa bursts into tears to find his excellent work undone at the critical stage by the minister. What have you done?’he asks the minister, who replies, ‘emulation of just a part of your excellent \[course of\]
-
-
 
 action. Rāksasa adds by way of explanation, 'this is selfinterest alone that I have achieved \[I owed as much to my dearest friend\].' 'Do not rebuke me,' he requests Candanadāsa and asks Vajralomā to convey to Canakya that he (minister Rāksasa) has arrived,—he for whom Candanadāsa offered his life, thus outdoing śibi and Buddha intheir reputation.
 
@@ -10116,685 +9085,9 @@ action. Rāksasa adds by way of explanation, 'this is selfinterest alone that I 
 
     Rāksasa’s reaction to having come face to face with Cāṇakya is brought out by the words he utters to himself: ‘Here is this evil-souled or \[rather\] high-souled Kautilya, the mine of all scrences, like the ocean that has gems, Our Jealousy makes it difficult to appreciate his merits.’ Cāṇakya is glad to see Rāksasa and says to himself ‘here is that
 
-
-
 high-sould Rāksasa who caused an amount of trouble both to Visala's army my mind.’ Cānakya takes off the mantle, approaches Rāksasa and salutes him with the words ‘minister Rāksasa, I, Visnugupta, make my obeisance to you.’ Though the term ‘minister’ is regarded by Rāksasa as now bringing shame to him, aloud he informs Cānakya that the latter should not touch him. contaminated as he is by the touch of the hangmen, Cānakya explains that they were not hangmen but persons in the king's service—(1) Siddārthaka seen by him before and (2) Samiddhārthaka by name. Cānakya proceeds to tell Rāksasa that poor Śakatadāsa too was caused to write that forged letter without Śakatadāsa knowing all relevant details about it. Rāksasa is glad that his suspicion about Śakatadāsa is thus removed. Cāṇakya continues and says that the servants Bhadrabhata and others, the letter, Samiddhārthaka, the three ornaments, that friend of yours, viz., the Jaina friar, that ‘distressed man’ in the old garden \[on the skirts of Kusumapura\], the trouble to which the merchant (Candanadāsa) was subjected—all these were the policy on his (Cāṇakya's) part, adopted with a view to bringing about a union between Rāksasa and Vrsala. The latter, Cānakya adds, is desirous of seeing him. Rāksasa, unwillingly though, prepares himself to do so.
 
       At this juncture, there enters Candragupta along with his retinue. He is full of shame as his preceptor has conquered the enemy's army—‘not easily vanquished’— even without giving it a battle. With so vigilant a person as Cānakya at the helm of affairs, he next admits, rulers like him even though sleeping are sure to be able to conquer all who ought to be conquered. Candragupta draws near Cāṇakya and salutes him. Cāṇakya says to him that at his, (Candragupta's) desires are now fulfilled as Minister Rāksasa has arrived and that he should therefore salute that chief of the ministers Rāksasa understands the implication and in a swagata says,‘here has he already brought about a relation between us. Candragupta goes near Rāksasa and salutes him with the words ‘noble one, Candragupta salutes you’ Rāksasa looks at Candragupta and recalls to his mind how even when a boy Candragupta was quite promising,
 
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^600]: नायं%20श्वपाकः। "नायं श्वपाकः।"
-
-
-[^599]: श्वनाकस्पर्श। "श्वनाकस्पर्श।"
-
-
-[^598]: विष्णुगुप्तोऽभिवादयते। "विष्णुगुप्तोऽभिवादयते।"
-
-
-[^540]: अभिविषकन्यया।%20अज्ज,%20सन्तं%20पावं%20सन्तं%20पावं। "अभिविषकन्यया। अज्ज, सन्तं पावं सन्तं पावं।"
-
-
-[^404]: "श्रोतुमिच्छामि dropped। "
-
-
-[^97]: "यदाज्ञापयत्युपाध्यायः।"
-
-
-[^85]: "यदाज्ञापयत्युपाध्यायः।"
-
-
-[^79]: "सान्तं or शान्तं for सन्तं and वावम् for पावम्।"
-
-
-[^76]: "(१
-
-
-[^47]: "(१

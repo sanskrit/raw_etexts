@@ -17,18 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0ODg1MDQ1MDE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **श्रीजैन–आत्मानन्द –ग्रन्थरत्नमाला–एकपञ्चाशं रत्नम् (५१)  
 पण्डित–अरिसिंह–विरचितं  
 सुकृतसंकीर्तनम्।**
@@ -56,9 +44,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0ODg1MDQ1MDE
 
 **धी आर्य सुधारक प्रेस रावपुरा-वडोदरा ता. ३०-११-१७.**  
 
-
-
-
 ** INTRODUCTION.**
 
 **![](../books_images/U-IMG-1727528745न्ह्त्द्ब्युह्.png)**
@@ -72,15 +57,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0ODg1MDQ1MDE
 
 ** Literature about Vastupâla. **The main works about Vastupâla's history are as under—
 
-
-
 **Contemporary.**
 
 I Sukrtasankirtana.  
 II Kirtikaumudi.  
 III Dharmâbhyudaya.Udayaprabha  
 IV Sukrtakirtikallolini.
-
 
 V Hammiramadamardana.  
 VI Vastupala-Tejahpala Pras'asti, Jayasimha Sûri.  
@@ -96,8 +78,6 @@ IX Vastupålaprabandha in the Chaturvimśatiprabandha.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 1)स्वसङ्कीर्तनगुणकुलपूर्वजावदातप्रतिपादककीर्तिकौमुदीसुकृतसङ्कीर्तनकाव्यकृत् सोमेश्वरारिसिंहयो र्प्रामप्रासाश्वदुकूलादिदानं  यावत्रीबाई दत्तम्।
-
-
 
  common among the Banias too. As to his religion, it is not quite certain whether he was a Jaina or a Shaiva. The fact of his bringing the spirit of Kumârapâla and making him to order Bhîma to revive the glory of Jainism speaks in favour of his being a Jaina, while his omission of salutation to Jina in the beginning of his poem and his telling us that Vastupâla's mother Kumâradevî, though & leader among those following Jainism, had faith in Sîva too, which is not mentioned by any other writer, may lead one to believe that he was & S'aiva, of course, not staunch. Jahlana's Sûktimu- ktâvali quotes four verses of Arasi **²**Thakkura, who is most probably the same as our author.
 
@@ -116,9 +96,6 @@ IX Vastupålaprabandha in the Chaturvimśatiprabandha.
 
 Jahlana's Sûktimuktavali.
 
-
-
-
  Amarachandra and his relation with Arisinha. Amarachandra is an illustrious figure in Sanskrta literature. The fame of his works wasnot only restricted among the Jainas, but also extended to the Brahmins among whom his works Bâlabhârata and Kavikalpalatâ were popular. His other available works are Chhandoratnávali, Syddisabdasamuchchaya & Padmananda Kâvys. The last work was composed at the request of Kosthâgårika Padma, a Vâyaḍa Bania of **³**Pattan It is otherwise known as Jinendracharitra, as it gives the lives of Tirthankaras. The Prabandhakos'a mentions two other works of his, Sûktâvali and Kalákalaps. He compared in one place in his Bâlabhârata the braid. (वेणी) to a sword and for thishe was known as Veņikṛpaṇa Amara. Amara was the pupil of Jinadatta S'ari of Vayaḍagachchha,the author of the Vivekavilass, Jinadatta Suri's name is mentioned in this poem among the Acharyas who accompanied in Vastupâl's pilgrimage to SatrunjayaThe Prabandhakos'a tells us that Amarachandra got the charm of Siddhasârasvata from Kavirija Arisimha, pupil of Jinadatta Sûri and by his chanting this for twenty one days the Goddess of Learning appeared before him from the disc of the moon
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -126,10 +103,7 @@ Jahlana's Sûktimuktavali.
 (3) पद्येनाभ्यर्चितः स धीजिनेन्द्रचरिताह्वयम्।   
 ..................महाकाव्यं निर्ममे निर्ममेश्वरः॥ पद्यानन्द १-४३
 
-
-
 at the midnight of the twenty-first day and gave him the boon that he would be a Siddha Kavi, honoured by all kings. The same Prabandha describes his entry into the court of Visaladeva and through him of his teacher in fine arts, Arisimha. But the Prabandhachintâmani tells us that Amarachandra had entered the court of Dholka in the time of Vastupâla and was recognised as a poet of power and note. Amarachandra does not mention in any of his published works that he was a pupil of Arisimha in fine arts but it is only clear from the works that he held Arisimha and his poetry in high esteem. The story about Amara's getting Siddhasârasvata charm from Arisimha and also his introduction of Arisimha into the court of Vîsaladeva should be accepted with much reserve. One thing is, however, clear from this that both Amara & Arisimha occupied a remarkable position in the literary court of Visaladeva. Just as Amarachandra had composed four verses in the Sukrtasankîrtana, so the Sûtras of Kavikalpalatâ of Amarachandra were composed partly by Arisimha and partly by Amara4. Amarachandra mentions
-
 
 ---------------------------------------------------------------------------------------------------
 
@@ -138,8 +112,6 @@ at the midnight of the twenty-first day and gave him the boon that he would be a
 
 काव्यकल्पलतावृत्ति 1–1
 
-
-
 in his Kavikalpalatâ ono more work of Arısımhs, Kavitârahasya Amrachandra calls Arisimha in the Sukṛtasankîrtana as an able disputant.
 
 ** Analysis of the Work** The *first* canto gives the genealogy of the Châpotkata kings Of Vanaraja it is said that he founded the city of Anahilla Pattana and that he erected there the temple of Pânchâsara Pârśvanâtha.  
@@ -147,15 +119,9 @@ in his Kavikalpalatâ ono more work of Arısımhs, Kavitârahasya Amrachandra ca
 
  The *second* canto describes the reigns of the Chaulukya kings Mûlrâja's pilgrimage to Somes'vara every Monday is also mentioned in Bâlachandra's Vasantavilâsa. The fourth verse refers to his erection of Tripurusha Prâsîda in Anahıllavâda Mâlaraja defeated Bîrapa, the general of the king of Kânyakubja, and Laksha king of Cutch Vallabharâja's victory over the king of Mâlvâ is celebrated in verse 13th. He had the *biruda* of Jagajzampana This *biruda* is found in he Kumârapâlapratibodha, Kirtikaumudi, Sukṛta-
 
-
-
 kirtikalloloni and Vasantavilása. Durlabharája was very modest and was ashamed when his court poets compared him to Krishna. Bhima defeated Bhojs of Dhârâ. Karna conquered the king of Mâlvâ and brought home from there an image of Nilakantha Siva. Jayasimha conquered Barbaraka and took prisoner Yas'ovarma, king of Dhârâ. He had the tank called Siddhasaras dug and a high pillar of victory built. Jayasimha was very devotional towards his mother. Kumârapâla abolished the confiscation of the property of tradesmen dying without male heirs and caused Jaina temples to be built in every city. He conquered the king of Jângla, Arnorâja of Sâkambhari, and his general Âmbaḍa, who was a Bania, defeated and killed the Kadamba king Mallika Arjuna of the Konkana. This victory of Ambaḍa is coroborated by Bâlchandra in his Vasantavilâsa. Ajayadeva generally called Ajayapâla got from the king of Sâmbhara a golden Manḍapikâ. Mûlarâja II, though a child, defeated the Turushkas, Mahamad Sahabuddin Ghori. Bhimadeva II was very charitable and extravagant. His kingdom was being devoured by his powerful Manḍalesas, whom he was unable to control. Bhima was thus filled with anxiety about the fate of his kingom. One
 
-
-
 night a glorious and splendid god, the spirit of his grand-father Kumârapâla, appeared to him in a dream and said that in order to restore order and to prevent dismemberment of the kingdom and to save the Jain faith, which was almost sinking, he should make Lavaṇaprasâda, son of Arņorâja, son of Dhavala, to whom he had given the principality of Bhîmapallî, his Sarveśvara and make his son Viradhavala his Yuvarâja. Vîradhavala then requested king Bhima to give him good counsellors. Bhima said that there served in this realm, Chanḍapa fiery in splendour, of the Porvåda lineage. His son was Chanḍaprasâda. His son Soma, who served under Jayasimha, acknowledged no master but king Siddharâja Jayasimha, and no god but the lord of the Jinas. His son Aśvarâja who made the universe splendid with his glory made seven pilgrimages in order to escape seven hells. His wife Kumâradevi, though eminent in the Jaina religon, also had faith in Siva. They had three sons–Malladeva, Vastupâla & Tejahpâla Bhima then gave Vastupâla and Tejahpâla as Viradhavala's counsellors, and said to him that his heroism, which will have sight with these two as eyes, may now trample down his enemies by xxxxxxg them out. The two ministers should fulfil the message of Kumârapâla-the glorification of
-
-
 
 the Jaina faith This account, though it materially differs from that given by Somesvara in his Kîrtikaumudi, agrees with that in the two other contemporary works–(1) Jayasimha's Vastupâla-Tejahpâlaprasasti & (2) Udayaprabha's Sukrta kîrtikallolini Vastupala's own words should have, however, more weight in this respect In the Naranârâyanânanda he calls himself as the high minister of the Gurjaresvara and in its last canto he says that he accepted the dependence of the highministership of Bhîma, the lord of Gujarat, for the incessant occurence of the festival of faith without any obstacle, which is sweet on account of itssplendid **⁵**power Bålchandra's account, however, agrees with that of Somesvara
 
@@ -164,8 +130,6 @@ the Jaina faith This account, though it materially differs from that given by So
 --------------------------------------------------------------------------------------------------------------------------------------
 (5) भास्वत्प्रभावमधुराय निरन्तरायनर्मोत्सवव्यतिकराय निरन्तराय।  
  यो xxxxxxxx रावनिमहीपतिभीमभूपमन्त्रीद्रतापरवशत्वमपि प्रपेदे॥ XV 135
-
-
 
 Shanti Suri and Amara Sari, who received from king Jayasimha the title-" Tiger Cubs " as they had overcome proud disputants even in their infancy (4) Haribhadra'Stri (5) Vijayasena Sûri. Vijayasena Suri explained to them the religious merits of becoming a Sanghådhipati. Vastupala resolved to do so.
 
@@ -176,8 +140,6 @@ Shanti Suri and Amara Sari, who received from king Jayasimha the title-" Tiger C
  In the *seventh* canto is described the ascent of the mountain and the devotional festivities. After paying his respects to Kaparadi Yaksha, the presiding deity of the Tirtha, Vastupala entered the main temple of Adinatha. The Sangha stayed on the mountain for eight days.
 
  In the *eighth* the pilgrimage to Deva-
-
-
 
 pattana and Mount Girnar is described. From Śantrunjaya the Sangha started to Devapattana for offering worship to Somanâtha. Thence it proceeded to Girnar. A camp was pitched at the foot of the mountain and a 'festival was held. Then follows the description ' of the worship of Neminatha and the festivals. Having paid homage to Ambâ, the presiding deity of the Jain temples on Mt Girnar and Samba and Pradyumna who had obtained salvation here, the Sangha descended after a stay of eight days.
 
@@ -190,8 +152,6 @@ pattana and Mount Girnar is described. From Śantrunjaya the Sangha started to D
  In Anahilavada Pattan:-
 
  (1) The restoration of the temple of Panchasara Parsvanatha of Vanaria
-
-
 
 In Cambay:–  
  (2) The erection of a golden staff and knob on the temple of Bhîmes'a.  
@@ -210,8 +170,6 @@ In Dholka:–
  (13) The construction of a Vapi.  
  (14) The erection of a Prapa.
 
-
-
  On the Satrunjaya Hill:-  
  (15) The erection of an Indramaṇḍapa before the temple of Âdínâtha.  
  (16) The erection of the temples of Neminatha and Stambhana Parsvanatha.  
@@ -226,8 +184,6 @@ In Dholka:–
 
 In the vicinity of Palitana:-  
  (25) The excavation of a large tank.
-
-
 
 (26) The erection of an Upas'raya  
 (27) The erection of a Prapa.
@@ -250,19 +206,13 @@ In the vicinity of Palitana:-
 (33) The building of a niche of Mallideva (in Samvat 1278) for the religious merits of the spirit of his elder brother Malladeva.  
  For fuller and more complete list of Vastupala's temples and works of piety and public utility. the reader is referred to Jinaharsha's Vastu-
 
-
-
  **The date of the composition of the work. **The Sukṛtasankirtana was written before Samvat 1287, in which year the incriptions on Mt. Âbu are dated., and after 1278 the date of building a niche of Mallinatha on Mt. Âbu, mentioned in the present work.
 
  Dr. Bühler contributed a very valuable and exhaustive paper, Das *Sukritasanikritana*, in the *Sitzungberichte* of the Imperial Academy of Sciences of Vienna (Vol. CXIX, 1887) and an English translation of the German paper was published in the Indian Antiquary Vol. XXXI (1902) pp. 477- 495. For a complete and critical study of the career of this one of the greatest minister Gujarat has ever produced, one should read the introductions to the Naranarayaṇananda, Vasantavilasa and Hammiramadamardana in the Gaekwad's Oriental Series. A photo of the statutes of Vastupala and his two, wives will be found in the edition of the Naranarayaṇānanda in the same series.
 
-
-
 **CONTENTS.**
 
 **![](../books_images/U-IMG-1729854590h3.png)**
-
-
 
 I Introduation pp. 1-16  
 IIText         १-१००
@@ -282,19 +232,13 @@ V सङ्घप्रस्यानः
 III Index of names of historical personages occuring in the poem १-३  
 IV Index of geographical names occuring in the poem ४
 
-
-
 ![](../books_images/U-IMG-1729854656h4.png)
-
-
 
 **॥ सुकृतसंकीर्तनकाव्यान्तर्गतैतिहासिकनामाक्षरानुक्रमणी ॥**
 
 **![](../books_images/U-IMG-1729915910h8.png)**
 
 [TABLE]
-
-
 
 |                               |                                            |                              |                                   |
 |-------------------------------|--------------------------------------------|------------------------------|-----------------------------------|
@@ -319,8 +263,6 @@ IV Index of geographical names occuring in the poem ४
 | मल्लिदेव                      | ९८-३४.                                     |                             |                                  |
 | महेन्द्रसूरि                  | ३०-१५.                                     |                             |                                  |
 
-
-
 |                      |                                                                                                                                                                                       |                         |                           |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------------|
 | नाम. | पत्रश्लोक                                                                                                                                                                             | नाम.     | पत्रश्लोक.                |
@@ -335,11 +277,7 @@ IV Index of geographical names occuring in the poem ४
 | शाम्ब                | ७२, ४४.९६-२०.                                                                                                                                                                         | सौमान्वय                | ९-२ ३६-१ ४६-१ ८७-१९ ८८-२५ |
 | संग्रामसिंह          | २७-३.७२-३.८३-३,                                                                                                                                                                       | हरिमद्रसरि            | ३१-२२.                    |
 
-
-
 **==============**
-
-
 
 **॥सुकृतसंकीर्तनकाव्यान्तर्गतदेशनामाक्षरानुक्रमणी॥**
 
@@ -364,10 +302,7 @@ IV Index of geographical names occuring in the poem ४
 | भट्टादित्य       | ९३ ४.                      |                                    |                                           |
 | भीमपल्ली                                | २२-१८.                     |                                    |                                           |
 
-
 **============**
-
-
 
 ॥अर्हम्॥
 
@@ -395,8 +330,6 @@ IV Index of geographical names occuring in the poem ४
 रुद्धेषु वक्रविव कराङ्गुलीभिः॥३॥  
 खट्वाङ्गसद्गतकरस्तरवारिलग्न-  
 कृत्तारिमुण्डमिषतः समराङ्गणे यः।
-
-
 
 भालाधिरोपितहुताशनचण्डचक्षु-  
 राभादिभासुरविरोधिविभासुरश्रीः॥४॥
@@ -426,8 +359,6 @@ IV Index of geographical names occuring in the poem ४
 श्रीमत्पुरं भुवि पुरन्दरपत्तनाभं  
 तेनादधेऽणहिलपाटकनामधेयम्।
 
-
-
 स्त्रीणां मुखे स्मरतपस्विनेऽजनीन्दु-  
 पद्मश्रियोरसुहृदोरपि यत्र योगः॥९॥  
 अन्तर्वसद्धनजनाद्भुतभारतो भू-  
@@ -452,8 +383,6 @@ IV Index of geographical names occuring in the poem ४
 र्नैव क्षिपापतिमपि[^2] क्षणदासु राहुः॥१४॥
 
 [^2]: " ग-क्षपाप° "
-
-
 
 सङ्कोचिताम्बुजकुलोऽपि हतार्ककान्त-  
 क्रीडोऽपि पीडितरथाङ्गकुटुम्बकोऽपि।  
@@ -483,8 +412,6 @@ IV Index of geographical names occuring in the poem ४
 चेद्योयोग्यतास्ति परिखां पिव मे त्वमेहि  
 विन्ध्योऽयुदञ्चतु मयापि हतोऽर्यमार्गः ।
 
-
-
 यत्रेति केतुपटकिङ्कणिकारवैः खे  
 वप्रो वदत्युदधिपायिनमप्यगस्तिम्॥२०॥
 
@@ -513,8 +440,6 @@ IV Index of geographical names occuring in the poem ४
 सत्यभ्रमेण कृतकानि गृहेषु हत्वा  
 हन्तव्यरूपकशतानि विशीर्णदन्तः।
 
-
-
 सत्यान्यपि प्रतिभयेन न तानि हन्ति  
 सम्प्राप्तधर्म इव यत्र विडालकोऽपि॥२५॥  
 यद्दनिदानमुदितेन वनीपकेन  
@@ -541,8 +466,6 @@ IV Index of geographical names occuring in the poem ४
 वीक्ष्यैव दण्डधरचण्डधराधिपस्य।  
 चक्रे प्रयाणकमरातिनरेन्द्रवर्गः  
 स्वर्गं प्रति त्वरितमद्भुतभीतिभावात॥३०॥
-
-
 
 दुर्वारवारणघटोत्कटवैरिसिंहः  
 श्रीवैरिसिंह इति भूदयितस्ततोऽभूत्।  
@@ -572,8 +495,6 @@ IV Index of geographical names occuring in the poem ४
 निर्यन् पयोमयपयोधिजलाद्वनान्ते  
 वीक्ष्यामितो जगति यस्य यशःप्रकाशम्।
 
-
-
 अद्यापि नापतति पारमिति प्रसर्पन्  
 लोकान्तशैलशिखरैः स्खलितो मुरारिः ॥३६॥
 
@@ -602,10 +523,6 @@ IV Index of geographical names occuring in the poem ४
 चिरमयमवनिं शशास भास्व-
 
 [^4]: "का-‘निभानि भानि ' इति पाठः।"
-
-
-
-
 
 त्तरतरवारिनिवारितारिवर्गः॥४१॥
 
@@ -637,8 +554,6 @@ IV Index of geographical names occuring in the poem ४
 इति श्रीसुकृतसङ्कीर्त्तननाम्नि महाकाव्ये चापोत्क  
 टान्वयवर्णनो नामः प्रथमः सर्गः॥१॥
 
-
-
 **॥अथ द्वितीयः सर्गः॥**
 
 पदेऽथ तस्याजनि भागिनेय-  
@@ -667,8 +582,6 @@ IV Index of geographical names occuring in the poem ४
 सूत्कारसंदीपितपौरुषाग्निम्॥५॥
 
 न भूभृतः केऽपि यदग्रभागे
-
-
 
 भेजुर्गुरुत्वं किल सापि मग्ना।  
 अदृश्यतां यत्तरवारिवारि-  
@@ -699,8 +612,6 @@ IV Index of geographical names occuring in the poem ४
 
 [^5]: "क- ख रेवो"
 
-
-
 रीणोऽप्यतिक्रम्य पराक्रमेण  
 हरीन्दरीर्मन्दिरयाञ्चकार॥११॥
 
@@ -729,9 +640,7 @@ IV Index of geographical names occuring in the poem ४
 तमीदिने व्यत्ययतो वितेनु-  
 र्यद्वैरिणः प्राप्य महीघ्ररन्घ्रम्।[^7]
 
-
 [^7]: "ख-महीन्द्र"
-
 
 तदौषधीदीपितमाप्रदोषा-  
 त्तमिस्रमिश्रं पुनराप्रभावात्॥१६॥
@@ -760,8 +669,6 @@ IV Index of geographical names occuring in the poem ४
 मालोकयन् यं पुरतः पुरारिः।  
 क्रुद्धोऽपि पुष्पायुधयुद्धबुद्धया  
 भैजे भवानीहसितः प्रसत्तिम्॥२१॥
-
-
 
 सम्पालयन्तो यदरीन् दरीषु  
 स्फुटं कुटुम्बित्वगतान् गिरीन्द्राः।  
@@ -792,8 +699,6 @@ IV Index of geographical names occuring in the poem ४
 
 सवार्द्धिमुर्वीमपि ये भुजेना-
 
-
-
 न्वहं वहन्तः क्षितिपा न खिन्नाः।  
 क्ष्मालेशजैर्मूर्ध्नि घटैः क्व तेषां  
 खेदोऽस्तु यद्द्वारि सवारिलेशैः॥२७॥
@@ -822,8 +727,6 @@ IV Index of geographical names occuring in the poem ४
 नभिन्दतामात्मचमूभटानाम्।  
 स्पर्शेन पूतानपि यस्तुरङ्गान्
 
-
-
 गङ्गाम्भसि क्षालयति स्म कीर्त्यै॥३२॥
 
 यः सञ्चरन्वर्वरखेचरस्य  
@@ -851,8 +754,6 @@ IV Index of geographical names occuring in the poem ४
 नभोनदी पेतुपदं प्रपेदे॥३७॥
 
 र्दिसासुप्तद्विनायकम्प
-
-
 
 यशःकुमारस्य कथाप्रथाभिः।  
 विलज्जितो यः सततं द्विजेन्द्र-  
@@ -883,8 +784,6 @@ IV Index of geographical names occuring in the poem ४
 
 १क-भु-भियुंपाति।
 
-
-
 अनूपभूषो वणिजापि यस्य  
 यतो जितः कौङ्कणचक्रवर्ती॥४३॥
 
@@ -912,8 +811,6 @@ IV Index of geographical names occuring in the poem ४
 भुजार्गलग्रस्तसमस्तशत्रुः।  
 विभ्रत्करे भूवलयं पयोधि-  
 वेलामिलन्मौक्तिकमस्य बन्धुः॥ ४८॥
-
-
 
 आजन्मसद्म द्युसदां मदेक-  
 क्षणप्रदानात् क्षयमेष मा गात्।  
@@ -944,8 +841,6 @@ IV Index of geographical names occuring in the poem ४
 
 श्रीवस्तुपालाभिधमस्रिभर्तु-
 
-
-
 र्भ्रूरब्दलेखेव तमालनीला।  
 अभ्युल्लसन्ती जलराशिसीम्नि  
 रिपुप्रतापानलशान्तयेऽभूत्॥३॥
@@ -957,8 +852,6 @@ IV Index of geographical names occuring in the poem ४
 
 प्रतिसर्गं प्रबन्धेऽस्मिन्नरिसिंहविनिर्मिते।  
 इमान्यकृत चत्वारि काव्यान्यमरपण्डितः॥५॥
-
-
 
 इति सुकृतसंकीर्त्तननाम्नि महाकाव्ये चौलुक्यान्वयवर्णनो नाम द्वितीयः सर्गः॥२॥
 
@@ -978,8 +871,6 @@ IV Index of geographical names occuring in the poem ४
 अधः परिदधद्वासः फान्तादृक्कोणशोणरुक्॥३॥
 
 कराग्ररोपणान्नित्तैरसमानैः समानताम्।
-
-
 
 लज्जितानूर्मिकारन्नैर्नखान् दघोदधोमुखान्॥४॥
 
@@ -1015,8 +906,6 @@ IV Index of geographical names occuring in the poem ४
 
 चुलुक्यकुलकान्तारगजः श्रीधवलाङ्गजः।
 
-
-
 रिपुसर्पसुपर्णोऽभूदर्णोराजमहीभुजः॥१५॥
 
 यद्भयप्रभवस्वेदपयःपरिचयैरिव।  
@@ -1051,8 +940,6 @@ IV Index of geographical names occuring in the poem ४
 
 यं विलोपपातुलं विश्वे दानेन च पलेन च।
 
-
-
 पश्यत्युपेन्द्रमिन्द्रोऽपि श्वभ्रोत्यितनलिभ्रमात्॥२६॥
 
 रिपुभूपशिरोरत्रीभूतप्रपनसत्विये।  
@@ -1080,9 +967,7 @@ IV Index of geographical names occuring in the poem ४
 आगत्य मानरामानं भानुमत् ॥३४॥  
 सुरनः पापामि। यन्नन्तः ॥ ३५ ॥
 
-
-
-राजा दृग्भ्यां [सुधाकुम्भ](http://॑ "क-पुस्तके -मुधायुण्डº।")सदृग्भ्यामभ्यसिञ्चत  
+राजा दृग्भ्यां [सुधाकुम्भ]("क-पुस्तके -मुधायुण्डº।")सदृग्भ्यामभ्यसिञ्चत  
 देवादिष्टौ पितृसुतौ सर्वेश्वरपदे हृदा॥३६॥
 
 अभाषिष्ट सभाशिष्टसमक्षमथ पार्थिवः।  
@@ -1113,8 +998,6 @@ IV Index of geographical names occuring in the poem ४
 राज्येऽस्मिन्महसा चण्डश्चण्डपः सचिवोऽभवत्॥४५॥
 
 क्षीरोदसोदरो यस्य यशोराशिर्निशाकरम्
-
-
 
 भ्रातृव्योऽयमिति स्वर्गियुक्तिभीतमगोपयत्॥४६॥
 
@@ -1150,8 +1033,6 @@ IV Index of geographical names occuring in the poem ४
 
 १ सय पुत्र - दायर २ - पुस्तके-यतिन
 
-
-
 इमौ ग्रन्थाब्धिमन्थानो पन्थानौ श्रीसमागमे।  
 तुभ्यं समर्पयिष्यामि मन्त्रिणौ तौ तु मित्रयोः(?)॥५७॥
 
@@ -1181,8 +1062,6 @@ IV Index of geographical names occuring in the poem ४
 मिथ्योक्तिः कवितेति नात्र वचसि श्रद्धास्ति चेत्तच्चिरं  
 नन्द श्रीस्तुतवस्तुपाल ! भवतु प्रत्यक्षमेतत्तव॥१॥  
 शस्त्रविस्तृतिपरः परं परो
-
-
 
 रक्षति क्षितिमिमामरातितः।  
 वस्तुपालसचिवस्तु पालय-  
@@ -1214,8 +1093,6 @@ IV Index of geographical names occuring in the poem ४
 सम्मुखः पुरुषपौरुपोदधिः।  
 मेदिनीमजयदब्धिमेखला -
 
-
-
 मेष वीरधवलोऽथ दुर्द्धरः॥१॥
 
 तन्महामतिरकम्पसङ्कटे  
@@ -1245,8 +1122,6 @@ IV Index of geographical names occuring in the poem ४
 
 नित्यचैत्यदृतुकावलोकन-
 
-
-
 त्सीम्नि वर्षाति विशेषद्दर्पितः॥१२॥
 
 इत्थमद्भुतविभूतिभूरभू-  
@@ -1273,8 +1148,6 @@ IV Index of geographical names occuring in the poem ४
 लङ्कृतिः कृतिषु शेखरोऽभवत्।  
 उद्गृणन्ति मरुतोऽपि यद्गुणान्  
 विस्मृतामृतरसा रसाधिकम्॥१७॥
-
-
 
 न प्रवेष्टुमिह मन्मथो यथा-  
 नङ्गतामपि गतः क्षमोऽभवत्॥२३॥
@@ -1304,8 +1177,6 @@ IV Index of geographical names occuring in the poem ४
 बाष्परुद्धनयनः पदे पदे  
 सम्मदेन घनगद्गदोऽस्खलत्॥२८॥
 
-
-
 न प्रवेष्टुमिह मन्मथो यथाऽ–  
 नङ्गतामपि गतः क्षमोऽभवत्॥२३॥
 
@@ -1333,8 +1204,6 @@ IV Index of geographical names occuring in the poem ४
 मुद्गिरन् गुरुमवेक्ष्य तत्पुरः।  
 बाष्परुद्धनयनः पदे पदे  
 सम्मदेन घनगद्गदोऽस्खलत्॥२८॥
-
-
 
 तां पुनर्विजयते प्रभावना  
 सा तु संपदि सुखेन साध्यते॥३४॥
@@ -1364,12 +1233,10 @@ IV Index of geographical names occuring in the poem ४
 विश्वशासनविकाशदीपिकां  
 व्यातनोति विरलः प्रभावनाम्॥३९॥
 
-
-
 किञ्च—
 
 वितन्वाते विश्वाङ्गणसदसि यावत्तव यशः  
-प्रतापाभ्यामभ्यु[ल्लसितरुचिवादं](http://॑ "ख- लसिरुचिविवादं ।") विधुरवी।  
+प्रतापाभ्यामभ्यु[ल्लसितरुचिवादं]("ख- लसिरुचिविवादं ।") विधुरवी।  
 भज स्थैर्यं सोमान्वयतिलक! तावत्क सुकृतैः  
 कृतैर्लभ्यः सभ्यस्त्वमिह गुणदोषैकनिकषः॥१॥
 
@@ -1390,12 +1257,8 @@ IV Index of geographical names occuring in the poem ४
 प्रतिसर्गं प्रबन्धेऽस्मिन्नरिसिंहविनिर्मिते।  
 इमान्यकृत चत्वारि काव्यान्यमरपण्डितः॥५॥
 
-
-
 ॥इति सुकृतसंकीर्त्तननाम्नि महाकाव्ये धर्मोपदे  
 शनो नाम चतुर्थः सर्गः॥४॥
-
-
 
 **॥अथ पञ्चमः सर्गः॥**
 
@@ -1426,8 +1289,6 @@ IV Index of geographical names occuring in the poem ४
 परोपकाराय नयाप्ययं कृती  
 पुरादि ???????दिवत्॥५॥
 
-
-
 अथासितीव्रव्रतनिर्जितान्तर-  
 द्विषो भवाम्भोनिधिकुम्भसंभवान्।  
 मठेषु गत्वा स्वयमद्भुतादरः  
@@ -1455,8 +1316,6 @@ IV Index of geographical names occuring in the poem ४
 
 अथाचलन् बायटगच्छवत्सलाः  
 कलास्पदं श्रीजिनदत्तमूरयः।
-
-
 
 निराकृतश्रीषु न येषु मन्मथः  
 चकार केलिं जननीविरोधतः॥११॥
@@ -1486,8 +1345,6 @@ IV Index of geographical names occuring in the poem ४
 सहायतां प्रत्यशृणोन्महामते-  
 रमुष्य दृग्वर्त्मनि देवताम्बिका॥१६॥
 
-
-
 अथास्य सङ्घस्य विसर्पतोऽग्रतः  
 शताङ्गचक्रोचितचीत्कृतस्वनः।  
 नदन्महोक्षध्वनिवर्मितोऽपे सन्  
@@ -1515,8 +1372,6 @@ IV Index of geographical names occuring in the poem ४
 
 रजस्तदा विस्तृतसङ्घसंभवं  
 नभोनदीतीरगनीरगर्भितम्।
-
-
 
 इहापि गङ्गामृदुलाभि दुर्लभे-  
 त्यकर्पि सप्तर्षिभिराशु हर्षिभिः॥२२॥
@@ -1546,8 +1401,6 @@ IV Index of geographical names occuring in the poem ४
 स्फुटस्फुरत्फेननिभेन भेजिवान्  
 शुचीनि पुण्यानि तरङ्गिणीगणः॥२७॥
 
-
-
 क्रमक्रमस्थापितवारिशर्करा-  
 करम्बवालुङ्कविभूषितप्रपः।  
 स्थितं गृहकोड इव प्रमोदिनं  
@@ -1574,8 +1427,6 @@ IV Index of geographical names occuring in the poem ४
 मदान्न किं किं रचयाञ्चकार सः॥३२॥  
 ननर्त्त कश्चित्पृथुसम्पदस्वदा  
 सलीललोलायितपाणिपल्लवः।
-
-
 
 प्रतिप्रतीकं परितः कुतूहला-  
 दलं यथालोक्यत पुण्यसंपदा॥३३॥
@@ -1604,8 +1455,6 @@ IV Index of geographical names occuring in the poem ४
 श्चिराय नृत्यादिविवेकवर्जितः।  
 परः शिलापुत्रसमोऽपि बाष्पवा-  
 नमोचि रिष्टैरपि रिष्टशङ्कितैः॥३८॥
-
-
 
 इहाथ पाथस्तृणराजराजिते  
 जितेन्द्रियो मन्त्रिपतिर्महीतले।  
@@ -1636,8 +1485,6 @@ IV Index of geographical names occuring in the poem ४
 
 १ क-ख-पुस्तके ४४ तम ????? नास्ति।
 
-
-
 कथं समाकृष्यत सापि भिन्महे (?)।  
 नवीनचुल्लीविवरापदेशतः  
 खनन्ति भूखण्डमिति स्म किङ्कराः॥४४॥
@@ -1666,8 +1513,6 @@ IV Index of geographical names occuring in the poem ४
 
 स्वयं स कस्मैचन मोदकादिकं  
 घृतादि कस्मैचन शुद्धवासनः।
-
-
 
 फलादि कस्मैचन साधने दद-  
 तदा विशश्राम न मन्त्रिशेखरः॥४९॥
@@ -1698,8 +1543,6 @@ IV Index of geographical names occuring in the poem ४
 प्रतापदीपाञ्जनमञ्जरीभिः।
 
 १ स-सगुत्य।
-
-
 
 इहोपकण्ठस्थितिभाजि शङ्खे  
 मालिन्यमुन्मीलितमुज्ज्वलेऽपि॥३॥
@@ -1733,8 +1576,6 @@ IV Index of geographical names occuring in the poem ४
 
 गतमदनमदानां भाविनामत्र भावा-
 
-
-
 न्तरितरसतरङ्गैरङ्ग! चित्तं हरन्ती।  
 लयविलुलितहारैरङ्गहारैर्मृदङ्ग-  
 ध्वनिजनितविनोदं नर्तकी नृत्यति स्म॥३॥
@@ -1762,8 +1603,6 @@ IV Index of geographical names occuring in the poem ४
 स्तदिवसपरिवृत्तिज्ञानतः क्वापि यातः  
 प्रसरति रिपुरुषे ध्वान्तपूरेऽपि शूरः।  
 अथ गुरगिरिदुर्गान्प्राप्य भासस्तदीया
-
-
 
 दिशि विदिशि बवन्धुर्वन्धुतामोषधीभिः॥८॥
 
@@ -1794,8 +1633,6 @@ IV Index of geographical names occuring in the poem ४
 
 उडुगणमिपमुक्तव्यक्तमुक्ताकलापं
 
-
-
 गजदनुजमिवेन्दुर्ध्वान्तमुच्छिद्य सद्यः।  
 हृदि तदजिनखण्डं लक्ष्मलक्षेण विभ्र-  
 द्व्यहरत हरमूर्तिर्मूर्ध्नि धात्रीधरस्य॥१४॥
@@ -1823,8 +1660,6 @@ IV Index of geographical names occuring in the poem ४
 चिरमुपचितहर्षः सङ्घलोकावलोका-  
 दिव कृतसुकृतोऽयं व्योमचूडावलम्बी।  
 सहजनिजकलङ्कन्यत्कृतिभ्राजमाना-
-
-
 
 कृतिरकृत न केषां विस्मयं शीतरश्मिः॥१९॥
 
@@ -1855,8 +1690,6 @@ IV Index of geographical names occuring in the poem ४
 
 हरिहरिति रथाङ्गानल्पसंकल्पकल्प-
 
-
-
 द्रुम इव दिवसेऽस्मिन्नुद्गमारम्भभाजि।  
 जलधिसविधगुप्तादंशुमद्विम्ववीजा-  
 दुदयत मृदुतेजःकैतवादङ्कुरोऽयम्॥२५॥
@@ -1885,8 +1718,6 @@ IV Index of geographical names occuring in the poem ४
 
 जलनिधिजलमध्यात्तुङ्गशैलाग्रजाग्र-
 
-
-
 त्करपरिचयशक्त्या भानुरभ्युज्जगाम।  
 सपदि विपदपेतं कान्तमेनं विलोक्य  
 प्रहसितमुखपद्मा पद्मिनी नृत्यति स्म॥३०॥
@@ -1914,8 +1745,6 @@ IV Index of geographical names occuring in the poem ४
 सद्यो जिनकमनमस्कृतिलोलसङ्घ-  
 सङ्घट्टलोलबसुधातलसंभ्रमेण।  
 श्रीवस्तुपालगुणहृष्ट इवाचलोऽपि
-
-
 
 शत्रुञ्जयः स्वयमकम्पयदेष मौलिम्॥३५॥
 
@@ -1949,8 +1778,6 @@ IV Index of geographical names occuring in the poem ४
 
 **==========**
 
-
-
 **॥अथ सप्तमः सर्गः॥**
 
 **![](../books_images/U-IMG-1729841002k1.png)**
@@ -1980,8 +1807,6 @@ IV Index of geographical names occuring in the poem ४
 आन्तरेण नयनेन जिनेन्दो-  
 राननेन्दुरुचिपानपराणाम्।
 
-
-
 अप्युदारगिरिशृङ्गविलासे  
 न श्रमः समजनिष्ट जनानाम्॥५॥
 
@@ -2009,8 +1834,6 @@ IV Index of geographical names occuring in the poem ४
 शेखरस्थितिषु तेषु जनेषु।  
 भूतिभर्तिस्थिरेषु स रेजे  
 मैरवन्नवरविच्छविपिङ्गः॥१०॥
-
-
 
 कर्मवैरिविजयाय सतेजा  
 नाभिभूपदनखांशुविचित्रम्।  
@@ -2040,8 +1863,6 @@ IV Index of geographical names occuring in the poem ४
 श्रीकपर्दिनमिति स्तुतिपूर्वं  
 यक्षराजमभिपूज्य सहर्षम्।
 
-
-
 आशु सङ्घपतिरेप ससङ्घ-  
 स्तीर्थनाथनमनार्थमचालीत्॥१६॥
 
@@ -2069,8 +1890,6 @@ IV Index of geographical names occuring in the poem ४
 रङ्गिनां प्रमदरोमविकारः।  
 अन्तरस्थितजिनेन्दुरुचिश्री-  
 निस्सरद्दुरिततामसतुल्यः॥२१॥
-
-
 
 लोचनैस्तनुमतामिति खिन्नैः  
 प्राप्य जैनवदनामृतकुण्डम्।  
@@ -2100,8 +1919,6 @@ IV Index of geographical names occuring in the poem ४
 त्वां निरर्थकगिरापि तथापि  
 स्तौमि विश्वनुत! मुग्धतयाहम्।
 
-
-
 प्रीतये निजशिशोः स्फुटलाला-  
 म्भांसि लल्लरवचांसि गुरूणाम्॥२७॥
 
@@ -2129,8 +1946,6 @@ IV Index of geographical names occuring in the poem ४
 स्त्वां हृदि प्रणिदधाति जनो यः।  
 स प्रयाति पुरुषोत्तमभावं  
 पश्य न स्वपिति किन्तु भवाब्धौ॥३२॥
-
-
 
 यामवाप्य न नमामि भवन्तं  
 तां न निर्वृतिमपि स्पृहयामि।  
@@ -2160,8 +1975,6 @@ IV Index of geographical names occuring in the poem ४
 कुङ्कुमाम्बुभिरसिस्नपदीशं  
 श्रावकैः सह यथाविधि मन्त्री।
 
-
-
 तैर्विधौततनुरेष तदाभू-  
 त्पर्वतो विमल इत्युचिताह्नः॥३८॥
 
@@ -2189,8 +2002,6 @@ IV Index of geographical names occuring in the poem ४
 पूज्यं नाभिसुतं समाप्य च तथारूपामिहाष्टाहिकाम्।  
 मन्त्रीशः प्रतिलाभितव्रतिततिः शत्रुञ्जयोर्विधरा-  
 दुत्तीर्णः कृतमङ्गलः समजनि श्रीनेमिसेवोत्सुकः॥
-
-
 
 किश्च—
 
@@ -2224,8 +2035,6 @@ IV Index of geographical names occuring in the poem ४
 
 **===========**
 
-
-
 **॥अथाष्टमः सर्गः॥**
 
 **![](../books_images/U-IMG-1729851486h5.png)**
@@ -2255,8 +2064,6 @@ IV Index of geographical names occuring in the poem ४
 मुहुरीरितापहृतपरीचिभरै-  
 र्जनयन्तमन्वहमिहाभ्यसनम्॥५॥
 
-
-
 पुरुषोत्तम हृदि मदीयसूनुं  
 शिरसीश्वरोऽपि विदधाति सदा।  
 प्रमदादुदारतरगर्जमिव  
@@ -2284,8 +2091,6 @@ IV Index of geographical names occuring in the poem ४
 
 अथ संचलन्नचलरैवतकं  
 पुरतः स्फुरत्पवनलोललतम्।
-
-
 
 अवलोक्य वारिदमिवाशु कदा  
 शुकदारदीप्तिभवदीयवपुः॥२२॥
@@ -2315,8 +2120,6 @@ IV Index of geographical names occuring in the poem ४
 सचिवः शिवातनयमात्तनयः  
 क्षणमेकमैक्षत पुरोगामिव॥२७॥
 
-
-
 अथ कल्पिताखिलविभातविधि-  
 र्गिरिमारुरोह सह सङ्घजनैः।  
 सचिवो जिनक्रमनखेषु पुरो-  
@@ -2344,8 +2147,6 @@ IV Index of geographical names occuring in the poem ४
 
 अपरः पयोदरववादभव-  
 न्निनदं मृदङ्गमपि वादितवान्।
-
-
 
 ननृते दरद्दुरितभोगिशतैः  
 कृतिनां मनोमयमपूरकुलैः॥३३॥
@@ -2375,8 +2176,6 @@ IV Index of geographical names occuring in the poem ४
 सचिवेन सारघनसाररसै-  
 र्नवङ्गमण्डनकारि विभोः॥३८॥
 
-
-
 कुसुमायुधस्य कुसुमानि मना-  
 गपि संमुखानि नहि यत्र ययुः।  
 इह तानि तीर्थकृति सङ्घटयन्  
@@ -2404,8 +2203,6 @@ IV Index of geographical names occuring in the poem ४
 
 देयाः स्वामिन्पुनर्मे सुकृतपुरपुरोढौकनानीति जल्प-  
 न्नानन्दस्पन्दसारैरिव घटितमना नेमिनाथं प्रणम्य।
-
-
 
 नामं नामं निकामं विधिवदविधुरं मन्त्रिमान्योऽयमस्त्रा-  
 शाम्बप्रद्युम्नमुख्यानपि पुलकिवपुः पर्वतादुत्ततार॥४४॥
@@ -2438,10 +2235,6 @@ IV Index of geographical names occuring in the poem ४
 
 **==============**
 
-
-
-
-
 **॥अथ नवमः सर्गः॥**
 
 ![](../books_images/U-IMG-1728127299स्फ़्द्घ्र्त्फ़्.png)
@@ -2471,8 +2264,6 @@ IV Index of geographical names occuring in the poem ४
 परिहृतापरवल्लिमधुव्रती—  
 घवकुलं बकुलं प्रति धावति॥५॥
 
-
-
 सुमनसां त्वमसि स्थितिभूस्त्वया  
 जयति विश्वमसौ कुसुमायुधः।  
 मधुमितीह रसालरसालसा  
@@ -2500,8 +2291,6 @@ IV Index of geographical names occuring in the poem ४
 
 मलयजद्रुमसङ्गिभुजङ्गम-  
 स्फुरितफूत्कृतिसंभ्रमसंभृतः।
-
-
 
 पथिकलोकदृशां[^13] मलयानिलः  
 सुविषमो विषमोहमिव व्यधात्॥११॥
@@ -2532,8 +2321,6 @@ IV Index of geographical names occuring in the poem ४
 च्छदनचन्दनचन्द्रमरीचिभिः।  
 तपनतापनताकृतिरप्यसौ
 
-
-
 रतिवरोऽतिवरोरुषु जृम्भते॥१६॥
 
 नभसि दर्पणतुल्यतडिल्लता  
@@ -2563,8 +2350,6 @@ IV Index of geographical names occuring in the poem ४
 अमलकोमलकोरकसौरभ-  
 स्थितिषु जातिषु जातरसाभवत्॥२१॥
 
-
-
 अलकलोलमधुव्रतमञ्जुला-  
 म्बुजमुखी जघनोज्ज्वलसैकता।  
 शरदि हंसरवेण समाश्रिता  
@@ -2593,8 +2378,6 @@ IV Index of geographical names occuring in the poem ४
 तुहिमन्दतरां मलिनेऽब्जिनी-  
 मलिनि मुञ्चति रागपरामपि।
 
-
-
 करणिकाभिरहो! शतपत्रिकाः  
 सह सितं हसितं परितन्वते॥२७॥
 
@@ -2608,7 +2391,7 @@ IV Index of geographical names occuring in the poem ४
 वरतनूरतनूष्मणि भास्वरा-  
 तपततिः पतति स्तनमण्डले॥२९॥
 
-[हिमभरस्य](http://॑ "एतत्पद्यं क-ख-पुस्तकयोर्नास्ति।") तयः प्रथितोन्नते-  
+[हिमभरस्य]("एतत्पद्यं क-ख-पुस्तकयोर्नास्ति।") तयः प्रथितोन्नते-  
 र्वनमहीरुह एव भुजो भृशम्।  
 निजरिपोरपि निर्गमनोद्यमं  
 दिनकरो न करोति कथञ्चन॥३०॥
@@ -2621,8 +2404,6 @@ IV Index of geographical names occuring in the poem ४
 पथिककाननलग्नमनोभव-  
 ज्वलनसंभवधूमभरोपमम्।  
 नवलवङ्गरजः पवनाहतं
-
-
 
 जगति रङ्गति रङ्गितषट्पदम्॥३२॥
 
@@ -2653,8 +2434,6 @@ IV Index of geographical names occuring in the poem ४
 
 नववृक्षमूर्ध्नि यदकारि तप-
 
-
-
 स्वपनातपेन धृतरागभरैः।  
 तरुणीकरग्रहणपुण्यफलं  
 नवपल्लवैरिदमलाभि ततः॥३८॥
@@ -2682,8 +2461,6 @@ IV Index of geographical names occuring in the poem ४
 स्रजता स्रजं शिरसि पद्यदृशो  
 मृदुनुम्यता प्रियतमेन पराम्।  
 अपि शेमुपीश्लयतया न रसा-
-
-
 
 दृदृशे परा न तयापि रूपा॥४३॥
 
@@ -2714,8 +2491,6 @@ IV Index of geographical names occuring in the poem ४
 
 हरिणीदृशां कलितरागभरं
 
-
-
 कुचसङ्गमेन परिवृद्धरसम्।  
 ब्रुदम्बुजन्मकपटेन सरः  
 परिमीलयत्यतिसुखीव दृशः॥४९॥
@@ -2745,8 +2520,6 @@ IV Index of geographical names occuring in the poem ४
 आस्ते ????????????? गुर्वीयमुर्वी मृशं  
 तावन्नन्दतु वस्तुपाल! जगतीपुण्यैरगण्यैर्भवान्।
 
-
-
 येनैतां भुजगाधिपस्तव भुजे विन्यस्य नागाङ्गना-  
 गोष्ठीगीतभवद्यशःश्रुतिरसैराचान्तचित्तोऽभवद्॥१॥
 
@@ -2768,8 +2541,6 @@ IV Index of geographical names occuring in the poem ४
 प्रतिसर्गं प्रबन्धेऽस्मिन्नरिसिंहविनिर्मिते।  
 इमान्यकृत चत्वारि काव्यान्यमरपण्डितः॥५॥
 
-
-
 ॥इति सुकृतसंकीर्तननाम्नि महाकाव्ये षड् ऋतु-  
 वर्णनो नाम नवमः सर्गः॥९॥
 
@@ -2780,8 +2551,6 @@ IV Index of geographical names occuring in the poem ४
 **![](../books_images/U-IMG-1728127579इह्फ़िउग्वुरिएव्ह्रुइह्व्.png) **
 
 तदनु वदनकान्तिन्यत्कृतेन्दुः कृतीन्दुः
-
-
 
 समुदितमदपात्रं पूर्णयात्राभिलाषः।  
 इह विहितनिवासः काशसंकाशकीर्तिः  
@@ -2810,8 +2579,6 @@ IV Index of geographical names occuring in the poem ४
 दुष्कर्माद्रिपविः पवित्रमहिमा नास्यां कदाचिन्महा-  
 मोहध्यान्तरविः प्रविक्ष्यति भृशं सङ्घो महोत्साहवान्।  
 इत्थं पापलिपिं विलुप्य करणे भालोपमे वामन-
-
-
 
 स्थल्याः पुण्यदिनं चकार सुकृती कुर्वन् प्रवेशोत्सवम्॥
 
@@ -2842,8 +2609,6 @@ IV Index of geographical names occuring in the poem ४
 भ्रष्टाहङ्कारदेवीकृतरभसपरीरम्भसंरम्भहृष्टैः।  
 शक्राद्यैर्देवचक्रैरपि सचिवपतिस्तूयमानस्तदानीं
 
-
-
 त्रस्तासौ परिहृत्य नित्यसुखिता विश्राम्यति श्रीरिह॥२३॥
 
 बुद्धिर्लतेव तव विस्फुरिता समस्त-  
@@ -2873,8 +2638,6 @@ IV Index of geographical names occuring in the poem ४
 
 क्रमकलयुगेऽस्मिन् सेवका देव! कामं
 
-
-
 तव सचिव! नमन्तः प्रीतिमन्तः समन्तात्।  
 नखरुचिजलवीचीधौतभालस्थदौस्थ्या-  
 क्षरततय इवामी भूतिभारं भजन्ते॥२९॥
@@ -2902,8 +2665,6 @@ IV Index of geographical names occuring in the poem ४
 औत्सुक्यतः काचन चित्रकार्यं  
 करे गृहीतां मृगनाभिमेव।  
 स्निग्धाञ्चनभ्रान्तिवशात्किरन्ती
-
-
 
 नेत्रद्वये तत्र दवौ मृगत्वम्॥३४॥
 
@@ -2934,8 +2695,6 @@ IV Index of geographical names occuring in the poem ४
 
 काचिद्भुजाभ्यां बहिरङ्गभावा-
 
-
-
 च्छून्यं यदालिङ्गनमाततान।  
 अन्तर्गते मन्त्रिवरेऽन्तरङ्ग-  
 भावादशून्यं हृदये तदासीत्॥४०॥
@@ -2964,8 +2723,6 @@ IV Index of geographical names occuring in the poem ४
 
 सिन्धुराजविजयोज्ज्वलं यशो  
 वस्तुपाल! तव चन्द्रवद्दिवि।
-
-
 
 यत्र दुःखपटलीमलीमसं  
 सिन्धुराजमुखमेव लाञ्छनम्॥३॥
@@ -2999,8 +2756,6 @@ IV Index of geographical names occuring in the poem ४
 
 श्रीस्तम्भतीर्थनगरे रचयाञ्चकार
 
-
-
 भीमेशवेश्मनि च काञ्चनकेतुकुम्भौ।  
 मूर्तेव कीर्तिरनिशं वरवैजयन्ती  
 नर्नर्ति यत्र दिवि देवनदीं जयन्ती॥३॥
@@ -3028,8 +2783,6 @@ IV Index of geographical names occuring in the poem ४
 उच्चैः पदं निजयशोभरसोदरस्य  
 तक्रस्य तेन विदधे यदशौचभीत्या।  
 तत्र स्थितं तदनुवासरमात्मभासा
-
-
 
 विक्रेयवस्तुषु हसत्युपरिप्रतिष्ठम्॥८॥
 
@@ -3060,8 +2813,6 @@ IV Index of geographical names occuring in the poem ४
 
 सा कापि कोमलयशोऽङ्गजवर्धनाय
 
-
-
 धात्रीव तेन रचितेयमिह प्रपापि।  
 या पूरयेत तृषितेषु तदात्वजात-  
 मन्येषु केषु न पयः कलशस्तनोत्थम्॥१४॥
@@ -3090,8 +2841,6 @@ IV Index of geographical names occuring in the poem ४
 पालस्य वीरधवलस्य तथात्मनोऽसौ  
 सन्नद्धमुद्धुरकलिप्रलयाय मूर्त-
 
-
-
 मग्र्यं युगत्रयमिवात्र पवित्रदेशे॥१९॥
 
 चत्त्वार्ययं चतुरधीरवलोकनाम्ना-  
@@ -3105,8 +2854,6 @@ IV Index of geographical names occuring in the poem ४
 पाणी नदीयकृनतोरणकैतवेन॥२१॥
 
 श्रीमुव्रतं भृगुपुगदपत्र मन्त्री
-
-
 
 द्वेधाः स्थितिं तदहमत्र मुहुर्निरीक्ष्य।  
 अभ्रंलिहाद्रिपतिमूर्धनि कीर्तनौघ  
@@ -3135,8 +2882,6 @@ IV Index of geographical names occuring in the poem ४
 श्रीस्तम्भनाख्यपुरतीर्थपतिं विधाप्य  
 शत्रुञ्जयाचलजिनं च स उज्जयन्ते।
 
-
-
 द्वेषोत्पितैर्दिवि यशोभिरदादपूर्वं  
 द्वैराग्यदुःखममृतांशुनभःश्रवन्त्योः॥३०॥
 
@@ -3158,8 +2903,6 @@ IV Index of geographical names occuring in the poem ४
 पायगिरि निमान्म-  
 देयम्। दीधितिनिजनमभि भी दिन नि  
 दाना पद्मानि दातुम्॥३५॥
-
-
 
 ईदृग्मन्त्रिकिरीटकीर्तनघटासङ्घट्यमानैर्मुहुः  
 कीर्तीनां निवहैरहंप्रथमिकावष्टम्भसंरम्भिभिः।  
@@ -3188,8 +2931,6 @@ IV Index of geographical names occuring in the poem ४
 एते हर्षवशादशेषविवुधैरास्वादनीये मिथः-  
 संक्रान्त्या क्षणलब्धसिद्धिविभवे यावज्जगन्नन्दताम्॥४॥
 
-
-
 द्वेषोत्पितैर्दिव यशोभिरदादपूर्वं  
 द्वैराज्यदुःखममृतांशुनभः श्रवन्त्योः॥३०॥
 
@@ -3209,8 +2950,6 @@ IV Index of geographical names occuring in the poem ४
 स्वस्मिन् दधौ दिनपनिमलिस्तान्॥३३॥
 
 निजायजन्म- देियम्। मोदीधितिभिरमसाभि-॥३४॥
-
-
 
 ईदृग्मत्रिकिरीटकीर्तनघटासङ्घय्यमानैर्मुहुः  
 कीर्तीनां निवहैरहंप्रथमिकावष्टम्भसंरम्भिभिः।  
@@ -3239,8 +2978,6 @@ IV Index of geographical names occuring in the poem ४
 एते हर्षवशादशेषविवुधैरास्यादनीये मिथः-  
 संक्रान्त्या क्षणलब्धसिद्धिविभवे यावज्जगन्नन्दताम्॥४॥
 
-
-
 प्रतिसर्गं प्रबन्धेऽस्मिन्नरिसिंहविनिर्मिते।  
 इमान्यकृत चत्वारि काव्यान्यमरपण्डितः॥५॥
 
@@ -3251,31 +2988,5 @@ IV Index of geographical names occuring in the poem ४
 
 ![](../books_images/U-IMG-1728146868अस्द्द्फ़्घ्.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
 

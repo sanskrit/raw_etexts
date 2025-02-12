@@ -15,30 +15,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4Nzg5MzY2MTM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 ![](../books_images/U-IMG-172121285239.png)
 
 **Harbard College Library**  
-
 
 THE GIFT OF
 
 GEORGE W. WALES,
 
 OF BOSTON.
-
-
 
 ॥श्रीः॥
 
@@ -73,9 +58,6 @@ SRI VANI VILAS PRESS
 
 \[Price Re.1;Postage extra\]                   \[All Rights Reserved.\]  
 
-
-
-
 **DEDICATION.**  
 *         *
 
@@ -95,8 +77,6 @@ SRI VANI VILAS PRESS
 
 HUMBLE DEDICATION.  
 **C.M.Padmanabhachar.**
-
-
 
 **DRAMATIS PERSONIE.**
 
@@ -123,8 +103,6 @@ HUMBLE DEDICATION.
 
  Besides Foresters, Physician, Policeman, Nurse, Chamberlain, etc. etc.
 
-
-
 **पात्राणि।**
 
 |              |                       |
@@ -150,8 +128,6 @@ HUMBLE DEDICATION.
 
 तथा वनचराः वैद्यः भटः इत्यादयः।
 
-
-
 **PREFACE.  
 ![](../books_images/U-IMG-172121436514.png)**
 
@@ -165,8 +141,6 @@ HUMBLE DEDICATION.
 
  Thus Suruchi became installed in her new home under circumstances that enabled her to acquire and exercise unlimited domination.She brought with her a toilette servant,Manthara by name,to act for her in any capacity according to emergencies,a spy,a tale-bearer,a fellow-conspirator and what not.This Manthara at first tried to sow dissensions between the two ladies by exasperating the feelings of Suneeti and rousing her jealousy at her super-
 
-
-
 cession by a rival.But the wicked arts of Manthara failedaltogether of effect.She next addressed herself to herown true mistress.
 
  The king's prime minister was Sumati by name,a large-hearted man and the elder brother of Suneeti the senior queen. To enjoy the honeymoon of the new wedding and possibly to snatch a few days' rest and holiday,the king resolved to make his Prime-Minister a temporary regent.The minister protested in vain against the king's decision as capable of misconstruction and as quite uncalled for under the circumstances.Thus it transpired that the king retired from office and the minister was installed in royalty.
@@ -174,8 +148,6 @@ cession by a rival.But the wicked arts of Manthara failedaltogether of effect.Sh
  While thus in the enjoyment of domestic bliss, t so chanced that both Suruchi and Suneeti besought the king to visit their chambers one night.The king found himself in a dilemma. Suruchi's epistle of love was couched in flowing language of impassioned amour,and the senior queen wrote only a few lines of sober and simple request.king resolved to grant the senior's request and did so.
 
  The The next day Suruchi and Manthara discussed the situation.Fired by jealousy,disappointed at the turn that affairs were supposed to be taking,infuriated by the king's neglect,and dreading the ascendency which the senior queen was supposed to be regaining,Suruchi appealed to Manthara for advice,and this was proffered to her in the shape of the most bitter incitement towards hostility.Stress was laid on the king's abdication of the throne; calumny was freely availed of;an utterly false representation was made of the king's words and demeanour at the time that Suruchi's love letter was delivered to him — in short,Manthara worked on the feelings of Suruchi so dexterously that between the two
-
-
 
 it was soon resolved that the senior queen should be expelled from the palace into the forest forthwith.
 
@@ -185,8 +157,6 @@ it was soon resolved that the senior queen should be expelled from the palace in
 
  The king returned to his capital with the fruit and resumed the royal duties.He sent the fruit to Suruchi,with instructions to eat it entire.But the lady was too proud to do so.She would not eat the nut.She had little faith in the efficacy of supernatural boons and the heretical reflections of the woman in waiting,Manthara,were not calculated to improve her faith.The result was that she ate only the soft parts of the fruit and cast away the hard nut.The minister Sumati seized the rejected nut and gave it to his sister Suneeti in the forest,without however apprising her of its efficacy.As time wore on, both conceived.The event was fraught with the keenest pang to Suneeti.She could not make out how it was.A visit by her husband was imperatively needed to silence the scandal.Suruchi's party already began to set the tongue of scandal in motion.The prudent Sumati averted the calamity and
 
-
-
 it was arranged that the king should halt in Suneeti's forest-residence for a night in the course of a hunting expedition.
 
  In due time, the two ladies gave birth to a son each.Dhruva was born of Suneeti and Uttama of Suruchi.The former was a magnificent boy,and the latter was only a bag of boneless flesh,because of the serious distaste evinced by his mother in partaking of the supernatural fruit.
@@ -194,8 +164,6 @@ it was arranged that the king should halt in Suneeti's forest-residence for a ni
  The birth of Dhruva,the resplendent child,created quite a flutter in the wicked counsels of Suruchi and Manthara.A diabolical plot was soon hatched to murder him with poison.Manthara repaired to the forest with poisoned viands and beguiled the child therewith,offering also many a handsome toy with them.The guileless Suneeti was deceived and Manthara departed in the belief that the boy's destruction would soon be an accomplished fact.She little knew that whereas man proposes, it is god that disposes. Scarcely had she left the premises, when a pack of fierce hounds attacked her and bit off her leg.She dropped the rest of the viands she had,and the poor dogs that devoured it died forthwith. The news was reported to Suneeti, at once, and the boy was saved just on the point of eating the poisoned gifts of the assassin.
 
  Two more years went by, and Dhruva grew up a fine boy, and at five he looked exquisitely charming. One day he besought his mother to let him go to his royal father. Suneeti consented and sent the boy with a nurse to the palace. The king and Suruchi were in the court,and the boy and the nurse were admitted to the Royal presence. With innate dignity and majesty, the boy approached the throne to claim a seat on the lap of the king. His step-mother Suruchi fiercely interrupted and forbade him. She said he was unworthy to mount on the royal lap; for, he was not born of divine grace. She fiercely exhorted the
-
-
 
 child to seek Narayana's grace, before he could audaciously mount the royal throne. Her words darted like shafts into his heart and were firmly imbedded there.The king kept silent.The boy writhed in agony, especially because the words cast a reflection on his mother's godly virtues. He darted from the place and sped into the forest to meet Narayana the God and secure his grace.
 
@@ -207,23 +175,17 @@ child to seek Narayana's grace, before he could audaciously mount the royal thro
 
  The king consulted the minister the next day and was getting nearly heart-broken. He was disgusted with
 
-
-
 both his wives; for he was still prejudiced against the senior wife. But the truth was soon to be unmasked before his eyes. In an outburst of conscience,Suruchi rushed to the king and made a clean breast of her sins to him. The wicked Manthara who had lingered so long from the bite of dogs, sent up to the king a dying declaration of her wicked acts and a vivid delineation of Suneeti's chastity and good-ness.The king's eyes were opened. He felt as at no time he had felt before, the appalling cruelty of his conduct in exiling a chaste queen and a matchless son.The gods themselves declared by an unseen voice in the heavens, that he had good reason to be thoroughly ashamed of himself. On hearing the words, the Kshatriya's wrath was roused for a moment. He rose in anger,but the brain could support the strain no longer.
 
  For months the king was thrown into a bed of serious illness. It was a nervous prostration brought on by the rush of blood into the brain. In his delirium, he raved about Suneeti and Dhruva. Suruchi became alarmed and sent for Suneeti to return to the Palace, having delayed for three months the despatch of the royal order cancelling her exile. Suneeti returned home and took up her position by the bed of the invalid. Her presence and voice at once effected a mesmeric change towards convalescence. When the king recovered consciousness,a touching scene followed, in which the king poured out a heartrending longing to- wards the absent son. Suneeti pacified her excited lord, and wound up by showing her remarkably high soul in begging the king to let bygones be bygones and pardon the junior queen Suruchi for ever as if nothing had occurred.
 
  It was In the jungles Dhruva continued his penance. so terribly fierce as to cause the Earth and Heavens to quake. The Devas became alarmed and wished to see
 
-
-
 it stopped. Emissaries came from the skies and tried persuasion in vain. Dhruva was determined to push on with Tapas till he got emancipation from mortal bondage. Matali and Nandi, the messengers of Indra and Rudra,approached him, and he prayed Rudra to obtain for him an interview with Vayu. Vayu appeared and gave Dhruva, as Armed a boon, an enduring faith in and devotion to Hari. with such a faith he prayed to God to bestow on him the grace of a personal vision. Young Krishna responded to the call. Dhruva was enveloped in an ecstatic rapture of devotion and poured forth prayers of a surcharged heart. The Lord was pleased and proposed to confer any boon Dhruva might wish. Stunned by the excitement of the situation, Dhruva felt his tongue paralysed and left God to give what he chose. The Lord willed that Dhruva should be a throned monarch of the skies and reign fixedly as the Pole-Star.
 
  The penance of Dhruva thus came to an end. Engaged in the per- with other boys in the hermitage of a great sage formance of holy rites and worship, he was discovered by his uncle Sumati the minister. A telling appeal by Sumati with special emphasis laid on the maternal griefs of Suneeti took effect. The boy at last consented to return home. Sumati, Dhruva and Narada, returned to the palace, and the sage Narada restored to the king, his pride and joy. Affectionate greetings and a universal rejoicing conclude the Drama.
 
  I have endeavoured in this work to lay stress on some of the cardinal tenets of the Vedantic theology as expounded man, the by Sri Madhwacharya. The duality of God and reality of differences,the supremacy of godhead, the law of sins and punishment, all this I have tried to illustrate here and there.
-
-
 
 An implicit observance of all the Sanskrit rules regulating Dramatic compositions has not been attempted. None of the Dramatis Personaespeak in Prakrit. The reason for not introducing Prakrit is chiefly this–that the Prakrit is not studied now even by men of scholarly attainments. A Sanskrit rendering has invariably to be appended to it, and therefore the prakrit portions are mostly surplusage.
 
@@ -233,13 +195,10 @@ An implicit observance of all the Sanskrit rules regulating Dramatic composition
 
 COIMBATORE,  
 5-12-05                                
-                
 
 C. M. PADMANABHACHAR.
 
 ![](../books_images/U-IMG-172121552341.png)
-
-
 
 **॥ध्रुवतपः॥  
 ![](../books_images/U-IMG-172121561542.png)**
@@ -258,8 +217,6 @@ C. M. PADMANABHACHAR.
 **ACT 1.**
 
  May that Krishna, the adored deity of Bhâratee's Lord,—whose foot-lotus is the dwelling of Fortune—who is adorned with the valued gems of attributes culled from the Ocean of Sri Madhwa's Scriptures—who has been adored by prominent poets like Bhavabhuti and others of manifold orders in diverse tongues and forms—and who elevated Dhruva humiliated by the king, to his own true position, greatly pleased by his devotion, protect us and grant to us an inspired knowledge of the nine poetic emotions.
-
-
 
 **मां पाहि कृष्ण सततं तव पादपद्म  
 युग्मं प्रपन्नमतिवेलसगाधबुद्धेः।  
@@ -283,8 +240,6 @@ C. M. PADMANABHACHAR.
 
  At the end of the benediction—the Manager—looking behind the scenes.
 
-
-
 ** सूत्रधारः**—आर्य किं सर्वंसन्नद्धं?॥  
 ** नटः**—भाव सन्नद्धं भवच्छासनात्।  
 **सूत्रधारः** — मारिष, पूर्णा खलु सभा संप्रतिपन्नविद्वन्मण्डिता। प्रीणयन्तु पात्राणि विदुषः कर्णामृतगीतैः भावगंभीराभिनयैः सुखावहभावैरभिमतोत्प्रेक्षालंकाररसैः आराधयंतु भवन्तस्सर्वे हृदयंगमया मंजुलवाण्या तथा यवनिकाविन्यासैर्हर्षावहनेपथ्यविशेषैः।  
@@ -297,8 +252,6 @@ C. M. PADMANABHACHAR.
 **Manager**:—The gathering is full, adorned with learned men of acknowledged worth. Let the Dramatis Personæ please the learned men with songs as sweet to hear as ambrosia is to taste with gesticulated action deep with import—with pleasure-giving Aestheties-with the soothing quintessence of imagi- nation and rhetoric. Let all of you do service with agreeable and tender speeches—so, with a variegated display of curtains and a pleasant assortment of scenes.
 
 **Vidhushaka**:—I entertain some doubt regarding the taste in music, of the numerous men forming this assembly.
-
-
 
 **हौणींभाषामधीत्य श्रितषस्समयाः कांचनासक्तचित्ता  
 स्सच्छास्त्रं गर्हयन्त स्तउपपदमदाः बी यल्इत्यादिचिह्नाः।  
@@ -318,8 +271,6 @@ They having studied the English Language, and adopted foreign systems of thought
 
 **Manager**:—Friend, do not censure intelligent persons.That music is indeed no music, which,being sung by unemotional persons having only a knowledge of music as a science, consists of a loud noise, a howl accompanied by a distorted countenance and shaken limbs (hands and feet); A repetition of mispronounced words jarring to the ear and conveying no sense, to the accompaniment of sa. ri. ga. -ma. is not at all music worthy of regard ; and this, these sensible people boldly denounce.
 
-
-
 अर्थगर्मितं सुस्वरकण्ठगीतमिमे ह्यतीवानुमोदेरन्नेव॥
 
 **नटः**— कलमं प्रबन्धमधिकृत्य सेवितव्याः॥ माघभवभूत्यादीनपि दूषमन्त्यम्, तेऽधिको-क्तिदुष्टाः कवयइति॥
@@ -332,8 +283,6 @@ They would certainly appreciate highly the Music that is pregnant with meaning a
 **Actor**—With the aid of what work, are they to be entertained? These find fault even with authors like Magha and Bhavabhuti, that they are poets guilty of exaggeration.
 
 **Manager**.—By one who, having had English Education knows the tastes of the assembly, a new drama (Trotaka) has been composed. It may be acceptable to the learned, full, as they are, of forgiveness. Moreover, even among those paying little regard, generally speaking, for duties laid down by antiquity, there is now clearly seen a new-born appreciation of narrations contained in writings such as Bhagavata. The present is a story (of Bhagavata) of one pre-eminent among the devotees of the lord. It sets forth how
-
-
 
 बृन्दारकवन्दारुनुत श्रीरमण मन्दस्मित भक्तमन्दारसुन्दराननं श्रीनन्दसूनुं आपरोक्ष्ये-णास्तुवि, तत्पुरतोननर्त, आनन्दाश्रुसन्ततासारं शुश्राव, प्राप्तद्युस्थानतया बभूव धन्यः। एतादृशकथा विलासैस्सभां विनोदयाद्येति सर्वेषामिछा।
 
@@ -348,8 +297,6 @@ Dhruva the royal sage, of meritorious character,abandoned the transitory course 
 
 **Actor**.— Sir, we will endeavour to the best of our capacity to please the assembly.  
 **Manager**.—By that, good people will be satisfied, misled by partiality; like this King Uttanapada enchanted by his second (wife.)
-
-
 
 **॥ उपांकः १ ॥  
 हर्म्ये।**
@@ -367,8 +314,6 @@ Then enter King and Suruchi.
 **King**.— Dear, is the husband's house comfortable?  
 **Suruchi**.— Here there is every means of happiness. But this town does not suit my health.  
 **King**.— Being new, it seems so. This is your harem, this is its master. This is the bed room, this, the place of water sports—the flower-garden. Dear, if the servants, door-keepers, house-hold guards, messengers, and persons like the hairdresser, misbehave towards you in the least, tell me immediately and I will punish, the very moment.
-
-
 
  **सुरुचिः**—देव, कलादः नाद्याप्याभरणान्यानीतवान्। न जाने निमित्तं विलम्बस्य।  
  **राजा** —रे सेवक, आवह झटिति रुक्मकारकं आभरणैस्सह।  
@@ -401,8 +346,6 @@ delay.
 **King**.—Sirrah goldsmith, where are the jewels ?  
 **Goldsmith**.—Your Majesty, they are almost ready, but they require a little polish.
 
-
-
 ** सुरुचिः** — दर्शय तानि।  
 **कलादः** —इयमुरस्सूत्रिका, प्रालम्बिका, ललाटिका, मेखला, इमे कर्णिके, इमावावाप-कौ, इदं केयूरं पादांगुदं।  
  **राजा**— त्वरया परिष्कृतानि भवन्तु।  
@@ -429,8 +372,6 @@ Enter Suneeti and Manthara.
 
 **Suneeti**.— Friend, what is the cause of this troubled countenance? I infer, it may be a longing for an absent husband or a disagreement with him.
 
-
-
  **मन्थरा** —बाढं, सम्यगूहितं तत्रभवत्या, द्वितीयस्तावन्मे खेदमुत्पादयति। प्रार्थनीयः स्यात्खलु प्रथमः।
 
 **अशनवसनहानिं नैव वीक्ष्ये कदापि  
@@ -452,8 +393,6 @@ Enter Suneeti and Manthara.
 **Suneeti**.— Anger is born out of anger; and love grows out of love. It is you that I consider to  
 blame, as the cause of your husband's distemper.
 
-
-
 **दशति रदनपङ्क्तीर्नित्यसंबद्धकुभ्रू  
 स्सहजपरुषवाक्यस्ताडने सक्तबाहुः।  
 सततगृहकृतौ मां श्रांतदेहां भृशार्तां  
@@ -472,8 +411,6 @@ blame, as the cause of your husband's distemper.
 
 **Suneeti**.— What is the good of married life in the absence of (mutual) affection. In sweet music such as of veena, the melody consists in the concord of tune and time. In the lotus, its loveliness lies in the proper combinatian of fragrance with a roseate hue. In the King, (his) greatness is seen when grace is united with power. That house-hold is blessed where harmony prevails between the husband and the wife.
 
-
-
 अनुव्रज मद्बोधनं। पश्येयं कथं न भविष्यति युवयोर्हढस्नेहः।
 
 **प्रभाते सङ्गीतं वदनकचयोर्मण्डनविधि  
@@ -488,8 +425,6 @@ blame, as the cause of your husband's distemper.
 Therefore follow my advice. Let me see how a firm affection is not established between you both. At dawn, a holy singing, then, a course of toilette, decorations of the hair and the face, a pious service at the feet of Sri (Lakshmi) with an humble and pious meditation of Hari's feet, a conversation with touching tenderness, kindness towards attendants, an eagerness to do what is good, whichever virtuous woman should possess these qualities, succeeds in her (husband's) house.
 
 **Manthara**.— (Dressing the hair) Madam, for a long time, I wished to ask you how it was that permission was given by your ladyship for the second marriage of the lord the king, yourself of such extraordinarily charming features, being alive.
-
-
 
 **सासूया भवति प्रिया प्रियतमे कान्तान्यशङ्कास्पदे  
 रक्ताक्षी ललना भवेद्यदि पतिः पत्न्यन्तरे रक्तधीः।  
@@ -508,8 +443,6 @@ Therefore follow my advice. Let me see how a firm affection is not established b
 A wife becomes jealous if the dearest one is at all suspected about a stranger-lady. Every woman exhibits reddened eyes ifher husband be devoted to a co-wife. Except you, I certainly know not of any virtuous woman in the world who would yield willing consent to her husband with alacrity for his marrying (again).
 
 **Suneeti**.— Friend, your mother invariably feels immersed in joy, is it not, if the attainment of a desired object occurs to you. At the gratification of a friend, pleasure results to us owing to friendship. Is it then a wonder (for me) to be delighted at the joys of a beloved husband.
-
-
 
 ** मन्थरा**—
 
@@ -532,8 +465,6 @@ A wife becomes jealous if the dearest one is at all suspected about a stranger-l
 
 **Suneeti**.— Friend, the whole world is not like this. On a fine clear day, the lotus here below smiles at the sight of the sun. Likewise all creatures are comforted to see a delighted countenance. In the world, there are pious men rendering service to all out of pure disinterestedness, like the King Sibi, viewing the joys of everybody as their own. Similarly there are others sinful and despicable who grieve and pine away at the joys of a neighbour and are jaundiced in body owing to an envious disposition.
 
-
-
  **मन्थरा**—
 
 **तथापि दुर्लभा भार्या सकलत्र प्रियानघे।  
@@ -553,8 +484,6 @@ A wife becomes jealous if the dearest one is at all suspected about a stranger-l
 **Suneeti**.—This is not for the happiness of the co-wife ; but the woman who strives for the happiness of the husband always befriends, for the sake of the husband, one who is the object of his affections just as she does, his circle of relations.
 
 **Manthara**.— Madam, no doubt your words are reasonable. But I know not that there ever was friendship anywhere like yours towards Suruchi.
-
-
 
 ** सूनीतिः**—
 
@@ -580,10 +509,7 @@ are. I go to attend on Surichi (so she starts.)
 **Suneeti**.— Friend, this letter has to be despatched to His Majesty.  
 **Manthara**.— I will carry it without delay to His Majesty.
 
-                                 
 \[Exeunt.
-
-
 
 **उपाङ्कः॥ ३ ॥**  
 **राजसभा।**
@@ -607,8 +533,6 @@ caste and order.
 **Sumati**.— Under your Majesty's sway, all the subjects pursue a straightforward course, are blessed with wealth of every kind, and are happy.  
 **King**.—Friend, for a long time, by constant attention day after day, to the anxious duties of a sovereign, we feel exhausted ; we wish for some rest. Having an excellent and intelligent
 
-
-
 विचक्षणे मन्त्रिवर्ये को वा स्यादवसरो विचारस्येति समालोच्य बभूविम समाहितमनसो न कापि क्षतिर्भूयाद्भवति राजभारन्यासेनेति।
 
 ** विदूषकः** —(स्वगतं)
@@ -629,8 +553,6 @@ minister like you what occasion is there for concern ? So thinking, we felt sati
 **Vidhushaka**.— (To himself). The king forsakes the kingdom under the spell of a damsel's eye. Rest is however difficult for him to obtain (tossed) between two fine lasses.  
 **Sumati**.— Let my lord think it over well. O king, youth shines in your person ; the lustre is indeed divine. There is not a streak of grey in the hair of the head nor such in the whiskers ; Alas ! would not people say that a brave warrior is sporting within the palace having abandoned his duty ? My heart is sick to think of it.
 
-
-
 देव सेवकोहं प्रभोराज्ञा प्रमाणं।
 
  **विदूषकः** —(स्वगतं) स्खलद्वचनवान् सुमतिश्चिरायति स्पष्टतो वक्तुं।
@@ -647,8 +569,6 @@ minister like you what occasion is there for concern ? So thinking, we felt sati
 Your majesty, I am only a servant ; my lord's commands are to be obeyed.  
 **Vidhushaka**.— The minister falters and hesitates to speak out clearly. A double sovereignty leads to the ruin of a country. Two doctors accomplish the patient's death. Two lawyers cause a client's ruin, and two wives, the destruction of a husband.  
 **King**.— All the affairs of the world are governed by an alternate succession of pleasure and pain waking and sleeping. Sleep after fatigue is a feature common to all sentient creation. Hence we shall be doing nothing blameable at all by this. Be watchful and as our repre-
-
-
 
 पुनराज्ञावधि धर्मपरिपालनं करोतु भवानित्वस्मदिच्छा शास्तिश्च॥ (शिष्टिः वा)  
 ** सुमतिः**—यद्देव आज्ञापयति  
@@ -669,8 +589,6 @@ sentative until further orders, conduct the administration. Such is our wish and
 
 **King**.— Friend, who then is the Vasishta to confer on me the title of    'Bramharshi'.
 
-
-
 ** विदूषकः** —अस्म्यहं ब्राह्मणोद्धः। वसिष्ठवद्ददामि तुभ्यं प्रमाणपत्रिकां।  
 **राजा** —वयस्य नाहमद्यापि स्थविरः नापि गलिताङ्गो दशनशून्यवदनो वेदान्तविचारारंभ-णाय। तेषां खल्वधिकारो वेदान्तेषु।
 
@@ -687,8 +605,6 @@ sentative until further orders, conduct the administration. Such is our wish and
 
 Having deposited all authority and dignity in the minister, you are freed from a host of troubles, from the torments (bitings) of pub-
 
-
-
 **न्यायाधिपो धरति को नु च शास्ति दण्डं  
 ह्युद्वाहयुग्मकलहेषु तु ते गृहांते॥ २३ ॥**
 
@@ -704,8 +620,6 @@ lic affairs. But who is indeed the judge that wields the rod of authority inside
 **Vidhushaka**.— Friend, is Suruchi a beautiful woman ?  
 **King**.— She is a combination of all that is lovely calculated to enchant the 3 worlds.  
 **Vidhushaka**.— Have you heard that a beautiful wife is in truth a foe ? I read it "a junior wife that is beautiful is a formidable foe."
-
-
 
 **राजन्द्वितीयभार्याभि  
 र्विद्धि नष्टान्बहून्नरान्।  
@@ -728,8 +642,6 @@ King, know that many are the men ruined by their junior wives —They have melte
 **King**.—Then tell me if this horoscope (life) is blessed with sons or not. \[So shows his palm.  
 **Vidhushaka**.— Bitter poison from the tooth of the hooded serpent, sharpness from the blade of the sword, hardheartedness from plague and
 
-
-
 **मिश्रं कृत्वा विधिरकृतहृत्क्रोधरूपं विमातु  
 स्तस्मान्नार्थ्यो नृपवर सुतः स्यात्स्पृहाजीविते ते॥२५॥**
 
@@ -746,8 +658,6 @@ long-enduring revengefulness from the mind of the elephant—verily by combining
 **Vidhushaka**. — Excuse me, that I state the truth though it be unpleasant.
 
  Do not render homage to women ! do not O ! king of the globe ! The worship of women is tainted with the sins of kali and becomes the wicked alone, O king of the globe.
-
-
 
 **एका महिला कण्ठे बद्धा हन्यात्पुरुषं भूमिपते।  
 द्वे वा नार्यौ कण्ठे बद्धे किं कुर्यास्तां भूमिपते॥ २८ ॥  
@@ -771,8 +681,6 @@ Enter Manthara.
 
 **Manthara**.— May your majesty be victorious,—be victorious. Lord, here is a letter from
 
-
-
 **विदूषकः**—नवीनाचारानुधावन्त्यौ नामस्त्रियौ। नारीपाठशालाभ्यस्तविद्याविनोदिन्यौ दृश्येते॥रहस्यं स्यादिदं अन्तर्हितो भवामि।  
  **राजा**—सखे न किञ्चिदस्ति रहस्यं भवत्छ्रवणानहं। पठेव पत्रिके।
 
@@ -795,8 +703,6 @@ Suruchi. May your majesty accept it. This is a letter sent by your majesty's Sen
 
 The August spring is at hand—the life and soul of the mango tendrils. The kokil (cuckoos) birds sing in numbers with melodies of excited enthusiasm.
 
-
-
 **आवां सूक्ष्मशरीरैः प्रेम्णा बद्धे पते हि बिसबंधैः।  
 माधवमन्मथमहिमा करोति वज्रं नु बिसबंधं॥ ३२ ॥  
 शुद्धान्तं ह्येहि गृहं वामा ते स्थास्यति मोहनिमग्ना।  
@@ -818,8 +724,6 @@ Come to our chambers ; your beloved lady waits, steeped in infatuation. Obstruct
 **Suneeti's Letter.**
 
 Should there be any leisure snatched in the discharge of royal duties ; if any tenderness be spared for a wife filled with attachment,
-
-
 
 **परगुरुसुहृदं त्वां दैवतं तारकं मे  
 सविनयमभियाचे दर्शनार्थं प्रिया ते॥ ३४ ॥**
@@ -849,8 +753,6 @@ In the flower garden, Enter Suruchi (on a bed of flowers) and Manthara.
 
 **Manthara**.— Madam, is the breeze of the moist fan
 
-
-
 यितमभूद्रात्राविति तर्कयामि। किन्निमित्तमसौख्यस्य॥
 
  **सुरुचिः**— कथं स्यात्सुखस्वापः अत्यन्तदौर्भाग्यपीडिताया मे।  
@@ -868,8 +770,6 @@ of the indisposition.
 **Suruchi**— Woman, where is my royal husband ?  
 **Manthara**.— How do I know. He must be by the side of Suneeti.  
 **Suruchi**.— How is this inferred ?
-
-
 
 ** मन्थरा**—तन्मे रहस्यं न प्रकटीकरोमि।  
  **सुरुचिः**— अयि हण्डे नन्वददाः पत्रिकां मे आर्यपुत्रस्यैव हस्ते॥स्वीचकार किल तां सः।  
@@ -889,8 +789,6 @@ of the indisposition.
 **Manthara**.— No doubt, he received it but (stops short).  
 **Suruchi**.— Finish the sentence ; what did you see in the honoured personage hostile to me ?  
 **Manthara**.—Talebearing is highly detestable and truly do I avoid it always like poison : I do not wish to publish what in secret manifested itself many times between them : No doubt, my friendship induces me to expose their conduct. You are a guileless woman and their wile is so blameable.
-
-
 
  **सुरुचिः** –हले न मद्विषये शंकनीया कर्णेजपता॥पैशुन्यभीरुतया यदि मौनमाचरसि तर्हि किं ब्रवीषि विश्वासघातिनी भविष्यसीत्यस्य॥
 
@@ -914,8 +812,6 @@ After studying long your skill in acting as a spy I brought you as a dowry from 
 
 Disagreement between a husband and a wife or again between rival co-wives arising sometimes from anger, should not be viewed as
 
-
-
 **किं तन्मे यदि लेखनं तव पतिर्धिक्कृत्य तत्पत्रिकां  
 स्वीचक्रे च मुहुस्तुतोष भरितः प्रीत्या चुचुंबाशु तां॥ ३७॥**
 
@@ -934,8 +830,6 @@ enduring, O ! Suruchi, by strangers and subordinates : what is it to me if your 
 **Manthara**.— My words were prompted only by fear. Your rival is not an ordinary person ;  
 **Suruchi**.— What harm could she do to you while I am here the beloved consort of the emperor.  
 **Manthara**.— True, a consort ; as to 'beloved' ,there is however a doubt.
-
-
 
  **सुरुचिः** —कथमिदं ज्ञातं त्वया। उच्यतामविलंबं।  
  **मन्थरा** —
@@ -959,8 +853,6 @@ enduring, O ! Suruchi, by strangers and subordinates : what is it to me if your 
 **Suruchi**.— She laughed, did she ? fie upon her conduct !  
 I will convert her tears of laughter and merriment into weeping. I will make her wash her hands with the tears of her eyes. She of low passions said, is it not ? of me that I was amorous. I will release the elated woman soon from every enjoyment
 
-
-
  **मन्थरा**—अम्ब व्यर्थोयं शपथः स्यादनर्थहेतुः। प्रतिसंहरप्रतिज्ञामसंभावितपूरणां॥  
  **सुरुचिः**—कालस्तावत्प्रकटीकुर्यात्। किमवददार्यपुत्रोऽस्मिन्नवसरे॥  
  **मन्थरा** —न किमपि॥
@@ -981,8 +873,6 @@ derivable from a husband :
 **Suruchi**.— (manifests anguish and thinking).  
 (In another part of the flower garden aman and woman disappeared among the creepers).
 
-
-
  **मन्थरा** —अपि श्रुतं देव्या। वस्त्रपर्णमर्मरस्वनितं संफुल्लप्रमदवनवल्लीशाखान्तरेषु पश्य। तावासाते चूतब्रध्ने रहस्यवार्ताविनोदिन्यौ समिन्धमानेऽपि दिवाकरे व्योम्नि॥
 
  **सुरुचिः** —रूपाजीवा हि सा सुनीतिः। न कापि साध्वी एवं मध्यान्हे विहारातुरा। कथमेतत्तस्य राजकार्यातिपातराहित्येन रामाविलासस्याद्यावकाशोऽभवत्॥
@@ -994,8 +884,6 @@ derivable from a husband :
 **Manthara**.— Was it heard by your grace, the rustle of dress and leaves among the creeper branches of the blooming arbour ? Look, they are resting at the foot of the mango-tree in the ecstasy of private conversation though the sun is shining bright in the sky.  
 **Suruchi**.— That Suneeti is indeed a courtesan; no virtuous woman will in broad day-light thus indulge in amorous sport.How is it that without being occupied in royal duties he has got the leisure to play with women ?  
 **Manthara**.— It is surprising that it is not known to your grace. The kingdom was in fact entrusted with the minister, the brother of Suneeti, only yesterday, at her instigation ; I got this information from Madhavya with
-
-
 
 पांतरेषु निशम्य वार्तां निवेदयामि (इति गत्वा कतिपयनिमिषानन्तरं न्यवर्तत।)  
 **सुरुचिः** —आले। किं त्वया श्रुतं दृष्टं वा  
@@ -1015,8 +903,6 @@ difficulty and by tact ; let your lady-ship remain here. I will bring news after
 **Suruchi**.—Friend, what was it seen or heard by you ?  
 **Manthara**.— On a fresh bed strewn with flowers, abundantly served by all the attendants, lies the tender woman, bright with the lustre of youth, reclining on a fine pillow furnished by the soft thigh of her husband. The senior queen is a highly blessed lady shining and amorous ; there she is, immersed in a limitless ocean of joy, her heart's wishes fully gratified. They have bent their thoughts upon sports arranging a water excursion. They
 
-
-
 **सन्नद्धा बहुकन्दुकाः प्रमदया रन्तुं तदा यौवतै-  
 राह्वानं च विना यदीक्षणकृतौ वाञ्छा त्वया गम्यतां॥ ४२ ॥**
 
@@ -1031,8 +917,6 @@ propose visiting the banks of Yamuna for playing on sand, in the moonlight. Nume
 **Suruchi**.— (Furious) you seem to direct that going uninvited when the young women may be playing at night, I am to wash their clothes as their washerwoman or cleanse the floor as their maid-servant. Wench, don't add insult to injury (pour brine into an ulcer). I do not understand what should be done now. I know your clear head in such matters. Say, — what had better be done.  
 **Manthara**.— Iwill tell you if you stand surety for my life.  
 **Suruchi**.— I do, what doubt is there ?
-
-
 
  **मन्थरा** — यथासंकल्पितं तथैव कर्तव्यं मन्ये। सुनीतिविवास एव कारयितव्यो यदि स्यात्प्रसादो राज्ञो भवत्यां।  
  **सुरुचिः** —पश्येयं कथं वा दुर्लभस्स्यादयमिति॥
@@ -1058,8 +942,6 @@ Exeunt.
 
 **King**.— Dear, I became sleepless last night, disturbed by a bad dream. I suddenly woke up and asked Suneeti who slept by my side. She pacified me saying that it meant nothing and lay down again. I ask you as you are so ready-witted.
 
-
-
  **सुरुचिः** —(सरोषं) किं मे प्रतिपद्विमलतरा सुनीतेरपि। अपि मे सान्निध्यं हिततरमार्यपुत्रस्य सुनीतेस्सकाशात्। अप्यहं धर्मपत्नी सुनीतिवत्। पृच्छत सुनीतिमेव पुनः। न ह्यस्ति तस्याः प्रज्ञाया अगोचरं किञ्चित्।  
  **राजा** —किमिदमुपन्यस्तं परुषभाषणं। भण यद्यस्ति कश्चिद्वृत्तान्तविशेषः॥  
  **सुरुचिः** —भवद्भ्यां हि विदितस्स्यात्सर्वोऽपि वृत्तान्तविशेषो योऽभूद्रहसि॥ कथमहञ्जानामि पटान्तरे शयने अथवोद्याने परमप्रेमास्पदकलत्रकर्णपथप्रापितां मृदुमंदभाषां। विरहदाहध्वस्तपञ्चेन्द्रियानिश्वासाभिहता शय्याप्रान्तविवर्तनैरक्षपयं रजनीं॥
@@ -1069,8 +951,6 @@ Exeunt.
 **Suruchi**. — (with jealousy) Is my intelligence clearer than even that of Suruchi ? Is my presence more agreeable to my royal husband than that of Suneeti ? Am I a lawfully wedded wife like Suneeti ! Better ask Suneeti again. There is indeed nothing beyond the reach of her intellect.  
 **King**.—Dear, what is this volley of harsh utterances ? Has anything occurred of significance ?  
 **Suruchi**.— Any incident of note that happened in secrecy must be entirely within the knowledge of you both. How do I know of the soft whispers poured into the ears of your highly beloved consort, behind the screen, in bed or in the flower garden ? Having all the five senses consumed by the heat of
-
-
 
 ** राजा** —सर्वथाश्चर्यमूढोऽस्मि। न पश्यामि भवत्योरीषदपि वैषम्यं। सा सर्वशीलसंपन्ना। त्वमपि (इत्यर्धोक्ते)  
  **सुरुचिः**—आस्तां प्रभो मत्पुरतस्सकलत्रप्रशंसनं।  
@@ -1089,8 +969,6 @@ separation and heaving deep sobs of grief, spent the night rolling about in bed 
 **Suruchi**.— Cease, my lord, the eulogium of a rival wife in my presence :  
 **King** — Dear, what is the cause of this language of jealousy ?  
 **Suruchi**.— Is it proper, O king, to apply chunam (Calciate of lime) mercilessly to one eye while (applying) to the other an unguent soothing as butter ; what, alas, is the cause of this partiality ? what is the fault in me ? I do not perceive in your senior wife anything to win the distinction.
-
-
 
 ** राजा**—
 
@@ -1115,8 +993,6 @@ of infatuated sense I reposed trust in deceitful words. Alas!the pang !
 **King**.— O! lovely lady, I deserve not this language pointed as a dart. I do not possess capacity  
 to release myself from the bondage of your
 
-
-
 **इन्दीवराक्षि मदनस्तव भृत्यवर्यो  
 राजाधिराजमहनीयमपि प्रशास्ति॥ ४५ ॥**
 
@@ -1134,8 +1010,6 @@ spell. O you of eyes like the blue lotus, cupid, the best of your slaves, holds 
 
 The burdens of the land have been borne, and numbers of good men have had their grievances redressed by the great prowess of my arms. With sympathetic gratitude they invoke blessings on me. In this house of mine and yours, built of gold and gems, and
 
-
-
 **हर्म्यागारे मदीये कनकमणिमये भाग्यपूर्णे प्रिये ते  
 जानुभ्यां हस्तयोश्च प्रविहरणपटुर्बालको नो चकास्ति॥ ४६ ॥**
 
@@ -1150,8 +1024,6 @@ The burdens of the land have been borne, and numbers of good men have had their 
 
 filled with affluence, my dear, there shines not a boy playing about on hands and knees.  
 **Suruchi**.— By forgetting me, has the blessing of a son been attained ? My Lord, I have resolved to go to my father's house. Let permission be accorded. To dwell here is no longer becoming. I pray that no impediment be offered ; no il luck has so far attended our union. There is nothing inauspicious in my horoscope. Since my wedding, your prosperity has steadily increased. My father did not force me on you, my lord, his favourite daughter as I was. I will be a slave at your feet ; but an equal wife I will never serve even to save my life.
-
-
 
 **राजा** —अयि सुनीतिशुश्रूषायां सर्वथा न नियुक्तासि।
 
@@ -1176,8 +1048,6 @@ filled with affluence, my dear, there shines not a boy playing about on hands an
 **King**— Say nothing about banishment: It is most awful :  
 Her attachment is centred in me. She feels an extraordinary love : How is it possible for me to endure, with life, a separation from her.
 
-
-
 ** सुरुचिः**—
 
 **तद्युवां वर्तनं हर्म्ये  
@@ -1198,8 +1068,6 @@ Her attachment is centred in me. She feels an extraordinary love : How is it pos
 **King**.— I cannot endure your separation even for a moment.
 
 What is the use of sovereignty or of an exalted position due to a combination of blessings ? What is the use of good looks, or alas, of youth itself with a halo of fresh lustre associated with a handsome form ? What is the good of tasteful dishes or of melting music exquisite with feeling, if,stricken with the dart of Cupid on your account, O slender lady, I feel roasted by sighs.
-
-
 
 **भामिनि त्वा विना किं वा  
 कुर्यां प्रासादमन्दिरे।  
@@ -1223,8 +1091,6 @@ Lovely woman, without you, what shall I do in the apartments of the palace ? How
 
 **King**— Dearest lady, what will the world say of me if I abandon a virtuous senior queen ; Alas ! Everywhere on earth the king's duty is to punish the wicked ;- not to aim the shaft of edicts at the innocent.
 
-
-
  **सुरुचिः** —तर्हि मुञ्च मां।
 
 **सभार्या साम्राज्यं पतिविषमता कैतववचः  
@@ -1244,8 +1110,6 @@ Lovely woman, without you, what shall I do in the apartments of the palace ? How
 **Suruchi**.— Then give me up. The domination of a rival wife, the disaffection of a husbaud, and his wily words wither me up every night when I lie in bed. The flowers of my head have faded. The gold bangles fall off loose. Abandon me one who being afflicted with grief has resolved to go.
 
 **King**.— By means of affectionate and tender words and by sympathy, relieve an infatuated person whose heart is subdued by the nectar-flow of your lotus face. Say, what was done by her who is so foolish, to your dislike. I will impose any suitable punishment, madam, such as you may dictate.
-
-
 
 ** सुरुचिः**— न शक्नोमि वक्तुं तस्या अन्यायचेष्टां। पृच्छत्वार्यपुत्रश्चेटीं।
 
@@ -1270,8 +1134,6 @@ Lovely woman, without you, what shall I do in the apartments of the palace ? How
 Enter Serrant.
 
 Peon ! let the dressing woman hasten hither.
-
-
 
 (प्रविशति चेटी।)
 
@@ -1299,8 +1161,6 @@ Enters Dressing-woman.
 **Manthara**.— (As if afraid) I do not wish to speak the truth in the presence of her offended ladyship. My lord, let the resignation of your slave be accepted.
 
 The poor dressing-woman sorely troubled resigns her office under you. How is it possible to live here when such disagreement
-
-
 
 **नाहं दक्षा नृपतिपुरतोद्व्यर्थतस्साक्ष्यवादे  
 स्वान्तेनैवाप्यपकृततया क्रुद्धता वो यथा स्यात् ॥७५॥**
@@ -1332,8 +1192,6 @@ prevails ? I am not an expert in giving equivocal evidence before the king in su
 Woman, don't be afraid. Say all that you know.  
 **Manthara**.— O King, between the two wives in the whole of their life-time there will be no har-
 
-
-
 **परस्परं रुषा तप्ते गलहस्तयतस्सदा ॥५८॥**
 
 **राजा**— कस्या हि दोषोऽनयोः
@@ -1361,8 +1219,6 @@ mony of mind at all. Burning with fury against each other, they keep their hands
 **King**.— Be it so.  
 **Manthara**.— The senior queen is arrogant with the conceit of beauty. She despises everything from a boast that she possesses the
 
-
-
 **न हि मनति जनो वै नीतिरूपं विचित्रं  
 सुरुचितनुसुरूपाच्चिन्त्यतां लोकवार्ता॥ ६० ॥**
 
@@ -1387,8 +1243,6 @@ What enchanting features, they, of slender Suruchi, reflecting a lustre that van
 **Manthara**.— Moreover, Suneeti appears to despise even your majesty. She boasts that all your fortune is due to her merits, and that she sleeps nowhere but on your soft lap (Interrupted).  
 **King**.— Cease quoting her words. Is there any token to indicate her impertinence.
 
-
-
  **मन्थरा**—
 
 **प्रणयरमणकाले प्रत्यभिज्ञानभूतां  
@@ -1408,13 +1262,10 @@ What enchanting features, they, of slender Suruchi, reflecting a lustre that van
 **Manthara**.— She gifted to me the signet ring highly valued by you and presented as a remembrance during theenjoyments of love. (Shours the ring).  
 **King**.— (Thinking) Enough of this inquiry. It is clearly perceived that their joint residence is not proper.The exile of Suneeti must be ordered.
 
-                                   
  \[Exeunt.
 
 **End of Act I.**  
 ![](#)![](../books_images/U-IMG-1722705586Screenshot_3-8-2024_224757_www.ebharatisampat.in.jpeg)
-
-
 
 **॥ द्वितीयोंकः ॥**  
 ॥ प्रस्तावना ॥
@@ -1444,8 +1295,6 @@ Enter Vidhushaka with Cheti (Manthara)
 **Vidhushaka**.— How is this ?  
 **Manthara**.— Fancying the King to be a subservient horse enchained by her spell, she hastened
 
-
-
 **ईषद्दूरगतस्तदीरितपदैर्लत्ताप्रहारं ददौ  
 वाजीनर्तनदंशनैस्सदमनाद्दुद्राव शीघ्रं वनं॥ ६२ ॥**
 
@@ -1462,8 +1311,6 @@ to seat herself audaciously on the shoulders of her master holding and controlli
 
 **Manthara**.— You had better search for your friend everywhere up to all the boundaries of the palace, the courtyard square, the temples, the storied porticos, arbours, harems and everywhere in corners ; similarly indoors outdoors, sidedoors, and inside too ; up on the loft, beneath the pavements and even in the rat holes ; you will not find the king.  
 **Vidhushaka**.— What is the cause of departure ?
-
-
 
  **मन्थरा**—
 
@@ -1482,8 +1329,6 @@ to seat herself audaciously on the shoulders of her master holding and controlli
 **Vidhushaka**.— Give up fun. His worship was deep in love with Suruchi, was he not ? Why this hurried departure ?  
 **Manthara**.— This news was learnt by me from the mouth of Suruchi that His Majesty becoming somewhat indifferent to worldly pleasures and neglecting even her lady-ship a little went to the forest to worship Hari for the blessing of a son.  
 **Vidhushaka**.— Wonderful ! I never knew this matter before.
-
-
 
  **मन्थरा** —विना भवत्संवादं किन्नचलत्यार्यः।
 
@@ -1520,8 +1365,6 @@ Enter Sumati, Purohit, Bard and other citizens.
 
 **Sumati**.— From the lord, who has bathed in conclusion of the penances, a despatch has come,
 
-
-
 **सन्नद्धाश्च भवन्तु सर्वसृजना वर्णाश्रमान्तक्रमा  
 त्सेनांगं च वराङ्गनास्सुनयना भृङ्गारपूर्णैर्जलैः॥ ६४ ॥**
 
@@ -1539,8 +1382,6 @@ that he is returning (home) and will gracefully condescend to resume his own off
 Here indeed,
 
 These meadows having bathed their surface in dewy waters and put on delightful per-
-
-
 
 **झंपामोदविहारिणो हरिणकास्सन्दष्टघासाल्पकाः  
 ग्रीवाभंगविलोकनाश्च ददते भूपाय सुस्वागतं॥ ६५ ॥**
@@ -1560,8 +1401,6 @@ The young deer with parts of young grass chewed, playing about with an ecstasy o
 
 (The screen lifted, Enter King with a mango fruit in hand).
 
-
-
  **राजा** — सर्वानभिवादये॥  
  **सर्वे** —विजयस्व राजन्॥
 
@@ -1574,8 +1413,6 @@ The young deer with parts of young grass chewed, playing about with an ecstasy o
 **King**.— I greet all.  
 **All**.— Triumph O ! King.  
 **Bard**.— May victory attend you, a bee in the foot of Lakshmi's Lord ; sovereign supreme commanding the homage of emperors anointed as rulers of the sea-girt Earth ; served by officers from the premier downwards, the legislative and executive ministers, the chief justice and so forth, luminaries of intellect belittling Brihaspati himself ; the president of a court filled with learned men eminent in the knowledge of the scriptures ris. the Vedas and their commentaries ; possessing a perfect organisation of sovereignty riz. ministers, advisers, treasury, a realm, forts and an army in completeness, one who has subdued the world by the state-craft of dip-
-
-
 
 गधेयाय, मक्षिकानेत्रतारालक्षीकरखगनाराचयुतधन्विने, अरातिवनितागर्भनिर्भेदकाय, नृप-लक्ष्मातपत्रप्रकीर्णकसेवावलयितभद्रासनसिंहासनाधिरूढाय,संपादितखगेंद्रध्वजपादमूलप्र-सादायाऽत्र मिलितास्सर्वेस्वागतं संगिरन्ते॥
 
@@ -1590,8 +1427,6 @@ The young deer with parts of young grass chewed, playing about with an ecstasy o
 lomacy, charity, differentiation and punishment, to whom allegiance and tribute are paid from the ends of the Earth (from all quarters of the globe), armed with bows, whose wooden and metallic arrows successfully hit the eye-pupils of flies ; who conveys a convulsive tremor into the pregnant wombs of the enemy's women, who is mounted on gold or ruby thrones, surrounded by royal insignia ? the umbrellas and chamaras : and who has now secured a blessing by service at the foot of the Garuda-riding-lord Vishnu. To you all the subjects here assembled, offer an address of welcome.  
 **King**.— I am thankful to all. Let the citizens sit down.  
 **Sumati**.— Your majestyall are eager to hear how your majesty's endeavour bore fruit ; May it please your majesty.
-
-
 
 ** राजा**— सुमते अद्यापि चिन्ताक्रान्तोऽस्मि।
 
@@ -1613,8 +1448,6 @@ lomacy, charity, differentiation and punishment, to whom allegiance and tribute 
 **Sumati**.— After laying by, a store of piety and merit, through the instrumentality of an eminently righteous son, the qualification for moksha will follow.  
 **King**.— He, an ocean of grace, said, in words of deep resonance, with sympathy and tenderness,
 
-
-
 **फलं बंहिष्टं तत्बहुतनयलोभादपहरं  
 ददर्शाहं मार्गे फलमखिलमेकं परिणितं॥ ६९ ॥**
 
@@ -1635,8 +1468,6 @@ lomacy, charity, differentiation and punishment, to whom allegiance and tribute 
 **King**.— The cheeks (sides) of the fruit should not be cut. Let her be told that the whole should be eaten.
 
   (Exit Sumati taking the fruit.)
-
-
 
 ** विदूषकः**—स्वगतं।
 
@@ -1670,8 +1501,6 @@ Enter Suruchi and Manthara.
 **Suruchi**.— Wench. why do you make fun (of it)  
 **Manthara**.— No fun ; But I reflected thus:— “Alas what (mighty) effort is made by rich persons
 
-
-
 **अहो बत धनाड्यानां कृषिस्सन्तानसंपदे।  
 किं तपः कञ्चवा यज्ञं कुचेलोऽकृत सन्ततेः॥ ७१ ॥**  
                                 ॥ इति ॥
@@ -1698,8 +1527,6 @@ to attain the blessing of children :what penance, what sacrifice, did Kuchela ma
 **Manthara**.— It is said, only a son.  
 **Suruchi.**— Then I don't wish to eat it. A mother longs indeed for a daughter, not a son. In her gossip, it is she (i. e. daughter,) that sympathises with her in petty misunderstandings with the husband or his people ; it is
 
-
-
 **कलौ धवेनाप्यथवा तदीयै-  
 स्स्वपक्षनिष्टा हि सुता न पुत्रः ॥७२॥**
 
@@ -1715,8 +1542,6 @@ the daughter that upholds her cause and not the son.
 **Manthara**.— Truly, the saviour from the hell of “Put” is the son, not the daughter.  
 **Suruchi**.— Let alone that old story (of the puranas) ; what is to be done now ? In the absence of both let a son at least be got, though a less welcome alternative ; friend, as it is very stout, I am unable to eat it all ; you better eat a half.  
 **Manthara**.—Tormented by numerous sons filling a whole house, I suffer like a corpse preyed on by vultures. I want no more issue. However this is indeed an easy device for lineage. I am sorry that this device was not
-
-
 
  **सुरुचिः** —प्रेषयामि गरलं तस्यै॥ पिण्डीकृत्य फलरसं बीजाद्विश्लिष्यदीयतां।
 
@@ -1740,8 +1565,6 @@ known to me or my husband before : madam, if the whole be not palatable, let a p
 **Suruchi**.— I am not very particular about lineage. Now that I have no issue at present, how am I any the worse for it.  
 **Manthara**.— Here it is, mixed with sugar. Let it be eaten.
 
-
-
 ** सुरुचिः**—(यथोक्तं करोति)।
 
 ** मन्थरा** —फलप्राशनेन सन्तानस्य सिद्धेरितःपरं नाप्सरो विवाहस्येति तर्कयामि।
@@ -1762,8 +1585,6 @@ known to me or my husband before : madam, if the whole be not palatable, let a p
 **Suruchi**.— Simpleton. Is the perpetuation of lineage the only object of marriage ? There is a flood of inexpressible sensations in youth when the features suddenly assume a glow ; the hair standing on end, delirious joy, thoughts of love, and an ever throbbing heart, besides a special skill of the shrewd eyes in a new language of signs : cupid is the creator of a new world for those who are subject to emotion.
 
 **End of Scene II.**
-
-
 
 **॥ उपांकः ३ ॥**  
 वनांतरे।  
@@ -1791,8 +1612,6 @@ Enter Sumati and servant with a plate of flowers and fruits.
 
 Sister Suneeti was born as a boon of God, in a mansion resembling the palace of Indra. She grew up fondled by the nurses' arms in precious cradles made of gold. But now, in the middle of a forest and in a worn-out shed of thatch, the poor woman suffers neglected by her husband as a great
 
-
-
 **जाजीवल्लीविकसितकुसुमे  
 ज्योत्स्नाशुभ्रे प्रमदवने।  
 पेलवललना नेत्रमनोज्ञा  
@@ -1813,8 +1632,6 @@ Sister Suneeti was born as a boon of God, in a mansion resembling the palace of 
 recluse.
 
 In aflower garden where abounded jasmine creepers of full blown buds, that tender girl, lovely to behold and clad in white was merry, in the white moon. But now, in a region of thorns, filled with bamboos, the young woman suffers, clad in bark, with faded lustre and limping gait. In an excellent pond of crystal water, and in the midst of lotus blossoms, she was a beautiful fish leaping and sporting away as a creeper of lightning, swimming up and about. But now she lies shrivelled up dry and parched up by thirst : she, the virtuous and
-
-
 
 **किन्नरनारीं स्वैरं कूटे गानविलोलां कीस्वरां।  
 निगडैर्बध्वा कंपितगात्रां चक्रे दीनां पञ्जरगां॥ ८० ॥  
@@ -1842,8 +1659,6 @@ Now, the she-parrot cries out in despair and agony with her beak thrust under th
 **Chamberlain**.― I shall communicate if you command.  
 **Sumati**.— Madam, how does her majesty spend time ?
 
-
-
 ** कञ्चुकी**—
 
 **कान्ता श्रीकान्तभक्ता क्षपयति दिवस देवपूजाकृतौ सा  
@@ -1861,8 +1676,6 @@ Now, the she-parrot cries out in despair and agony with her beak thrust under th
 **Chamberlain**.—That charming lady devotedly attached to Lakshmi's Lord, spends the day in divine worship and service. Her eyes closed and thoughts centred on her husband's feet, she is looking forward to the path of emancipation. Considering that a heinous sin of her own rooted in some relentless Karma of old brought about a husband's separation, she blesses her co-wife that she may obtain in abundance every kind of fortune derivable from meritorious acts.
 
 The lotus eyed lady of slender limbs, is devoid of blood in both the cheeks, and resembles a creeper stricken by a thunderbolt. Constancy of devotion to her husband is her only ornament ; she the fairest and sweet has her lustre concealed by a garment of
-
-
 
 निष्क्रान्ता कञ्चुकी।
 
@@ -1895,8 +1708,6 @@ Enter Suneeti.
 **Sumati**.— They are doing well.  
 **Suneeti**.― Does my lord remember me occasionally ?
 
-
-
 ** सुमतिः**—
 
 **नेच्छामि वंचितुं भद्रे ह्यसत्यवचसानघे।  
@@ -1918,8 +1729,6 @@ monarch sleeps in dense darkness and never dreams of you.
 **Suneeti**.—To me a cottage would be a mansion, the beasts of the jungle would serve as crowding relations, the gruel of the grains even without salt would be a highly relished dish and the tree-bark would serve as a clothing of great value—a dress of silk, if only there was the husband's kind remembrance of me from a sense of my poor condition.  
 **Sumati**.— Everything is governed by Hari's will. Let the time of redemption (grace) be awaited. Sister, I have brought some presents for your use; accept (them) with pleasure.
 
-
-
 **सितं कुन्दं भ्राजत्परमसुभगं शीर्षमुकुटं  
 गृहाणेदं वेण्या वरकनकर्भ केतकसुमं।  
 फलं रंभायास्तत्तव बहुहितं पर्वतगतं  
@@ -1938,8 +1747,6 @@ Take (these) white kunda flowers of dazzling beauty forming a crown for the head
 **Suneeti**.― The Kunda flowers are beautiful when they are abundantly shared with a beloved husband in the Zest of love ; The braided hair is of enchanting beauty if there be a Lord to pull it (in sport). The plantain turns out the bitterest margosa, when the object of love is far away.  
 The mother-in-law is gratified only when a tasteful dish is served to her son-in-law, is it not ?
 
-
-
  **सुमतिः**—देवि मातुरमृताशिषा पूर्णंश्रीमन्नारायणनिवेदिततया तत्प्रसादपूर्णं चेदं न तिरस्करणीयं॥  
  **सुनीतिः** —कान्तभुक्तशेषो हि मया भोक्तव्यः नान्यः॥  
  **सुमतिः** — पत्यन्तर्गतस्यार्पयित्वेदं भुंक्ष्व तव श्रेय एव भूयात्॥  
@@ -1956,8 +1763,6 @@ The mother-in-law is gratified only when a tasteful dish is served to her son-in
 **Suneeti**.— Why will not my royal husband come here in person to eat it ?
 
 I am condemned unheard like a deer shot unseen by the hunter's arrows. I know not of any fault committed by me in my husband's house that led to his getting offended. Vain becomes this birth (of mine) if I be marched to old age a barren woman at
-
-
 
 **वृथेदं जन्म स्याद्यदि परिभवाद्वन्ध्यवनिता  
 जरां याताऽरण्ये ह्यपचितजला सर्वसुजनैः॥ ८८ ॥**
@@ -1981,10 +1786,7 @@ whose hand no orthodox persons will accept water.
 **Suneeti**.— Just as the grateful savitri that rescued her husband from the jaws of death, adored Yama, so do I bow before Sumati out of gratitude, if you, O Sumati, show me out of supreme kindness one who is of untarnished lustre, who is ever fixed in my heart, who is honoured by Devas and who is my sovereign, my Lord, and my beloved.  
 **Sumati**.— Everything will turnout satisfactory. Don't give way to grief.
 
-                                   
   \[Exuent.
-
-
 
 **॥ उपांकः ४ ॥**
 
@@ -2012,8 +1814,6 @@ one whose greatness shall be famous in all directions, who shall he heard of eve
 as to how a safe delivery will happen (how the tro lires will part).  
 **Manthara**.— The son that will be born will be of extraordinary lustre, being the result of a divine-gifted fruit.
 
-
-
  **गङ्गा** — अद्वितीयप्रभावः स्यादिति सर्वेषामाशिषः॥  
  **मन्थरा**— सुनीतिरप्यापन्नसत्वा श्रूयते॥  
  **सुरुचिः** —आः ! किमेतत्, कोऽन्ववददिममनृतवृत्तान्तं॥  
@@ -2034,8 +1834,6 @@ as to how a safe delivery will happen (how the tro lires will part).
 **Ganga**.— Daughter, you said, is it not, that only one fruit was obtained by the king by the fulfilment of austerities. How is this news probable?  
 **Suruchi**.— I don't believe the rumour.  
 **Manthara**.— I saw it with my own eyes. Her face is highly fair and shines beautifully with unusual light. The nipple is
-
-
 
 ** सुरुचिः**—
 
@@ -2059,8 +1857,6 @@ black and the slender feminine hip looks big. Food is not retained in the stomac
 **Ganga**.— There are two questions to be asked in this matter.  
 First, if it be true that the king never went
 
-
-
  (II. द्वितीयः) विना वरप्रसादं न पुत्रभाग्यं देवस्येति मौहूर्तिकानां स्थिरोक्तिः॥ अथानीतं फलमेकमेव किं भविष्यति दैवज्ञभाषितं
 
  **सुरुचिः** —(मन्थरामालोक्य) प्रतिवक्ष्येतां प्रश्नौ॥  
@@ -2079,8 +1875,6 @@ Second. It is an assertion of the astrologers that without a boon, a son is not 
 **Suruchi**— How is it known?  
 **Manthara**.— Recently I overheard a confidential talk between Suneeti and Sumati in her cottage, myself being concealed. Extremely affected, she besought Sumati that by hook,
 
-
-
 यथा कथंचिदृजुमार्गेणाथवा वंचनेन पतिरत्वरया रवान्तिकं प्रापयितव्य इति। साह्यब्रवीत्।
 
 **प्रभुर्मेनायातो मम तु च दशाऽयोग्यवचना-  
@@ -2097,8 +1891,6 @@ or crook, by fair means or deception, her husband should be brought to her witho
 "My Lord has not come, and my condition is one unfit to be disclosed; people will speak of me as loose in conduct owing to loss of virtue. Intelligent Sumati, I shall feel grateful to you for a hundred births if you bring him to me for silencing the tongue of scandal.
 
 **Ganga**.—This is news pregnant with meaning, and is enough to accomplish Suneeti's ruin. Daughter, strenuous effort should be made so that the king may not hereafter even think of that direction.
-
-
 
  **सुरुचिः** —मातः। प्रतिभूरहं।  
  **गंगा** — देवः अगमदिति पक्षेऽपि कथं गुर्विण्यभवत्फलप्रसादं विनेति संदेहोऽवशिष्यते। तस्मादेतद्वृत्तान्ताविलंबप्रकटनेन समापयितव्यं एव तस्याः विनिपातः।  
@@ -2122,8 +1914,6 @@ or crook, by fair means or deception, her husband should be brought to her witho
 **Suruchi**.— Then, I shall inform the king at once. Who is there? (Enter servant.) Sirrah, go to the king's court and find out if it be opportune to visit the king.  
 **Servant**.— As your majesty commands.  
 **Suruchi**.— My heart throbs at once from an anticipa-
-
-
 
 **बभ्राम यद्विभूतिं तदस्या भवति विनाशाय॥ ९४॥**
 
@@ -2151,12 +1941,9 @@ tion of her ruin. What I mistook for a blessing, turns out a source of ruin to h
 **Manthara**.— Undoubtedly, this is Sumati's work.  
 **Ganga**.— We will think of another course.
 
-                                   
 Exeunt.
 
 **END OF ACT II.**
-
-
 
 **तृतीयोंकः।**
 
@@ -2182,8 +1969,6 @@ Enter Suneeti & Manthara.
 **Suneeti**.— Does Suruchi remember me, unfortunate as I am?  
 **Manthara**.— Indeed, Suruchi remembers you with tearful eyes of sympathy, afflicted to see the hard-hearted monarch (so) perverse. Some-
 
-
-
 **क्वचिदपि वचनं सा कर्कशं भाषमाणा  
 नरपतिसविधे त्वां स्तौति बालं तथा ते॥ ९५ ॥**
 
@@ -2205,8 +1990,6 @@ times she even utters harsh language and praises you and your boy in the presenc
 
 In the world, God gives to man a fine intellect only in exchange for the calamity of congenital blindness. To you, he has given a son with talents like those of the immortals
 
-
-
 **तुभ्यं च सूनुममरोपमवीर्यवन्तं  
 तस्यै ह्यदात्पिशितकोशतनुं निरस्थिं॥ ९६ ॥**
 
@@ -2225,8 +2008,6 @@ and to her, He has given a son whose body is a bag of boneless flesh.
 **Manthara**.— Rare indeed is such partiality on the part of the Creator.  
 **Suneeti**. —Even so, I do not perceive an equality between us.  
 **Manthara**.— This indeed is the way of the world everywhere. To all men, what is not possessed by them or what is impossible to obtain is just what seems covetable. Suruchi deems the absence of a husband preferable to the misfortune of a worthless son. Possessed of a fine jewel of a son, you consider (however) the love of a husband preferable.
-
-
 
  देवि, द्रष्टुमिच्छामि ध्रुवं। क्वबालः।
 
@@ -2258,8 +2039,6 @@ Enter Dhruva and the nurse.
 
 **Suneeti**.— Friend, why is his body covered with dust
 
-
-
  **धात्री** —अंब, रुदंसं बालं पद्मिनीसरस्तीरमनयं, तत्र तावत्।
 
 **हंसश्वेतो व्यरमत जले निर्मले वीतचिन्तः  
@@ -2277,8 +2056,6 @@ Enter Dhruva and the nurse.
 -------------------------------------------------------------------------
 
 **Nurse**.— Madam, I took the boy when he was crying to the bank of the lotus pond; there the white swan was sporting in clear water without any concern. It danced on the lotus, with musical peals of sound and kissed the lotus leaf. Listening with attention, he heard the swan's voice echoed in the caves of the forest and asked to my surprise who was making the sound of reply. Unable to answer, I said that there resided in the cave a strange boy Krishna by name. He then starts at once to go and play with him. He sets out pacing slowly into the forest with fearlessaudacity; when pursued, he runs laughing and trips when turning round to look behind
-
-
 
 आश्वर्यं त्रिहायनस्येदृशं धैर्यं॥ इषत्पतनात्धूल्यावृतं गात्रं॥
 
@@ -2303,8 +2080,6 @@ him like a lion. When told that numerous beasts of prey resided in the woods, he
 
 Young Krishna, an ocean of grace divine, O Hari, protect my son constantly; do protect with tenderness, my son Dhruva a child that has no protector, forsaken by his own father one — that though born with
 
-
-
 **मंदभाग्यजनितं हरे सुतं  
 पूर्वजन्मसुकृतादिसत्फलं।  
 अद्वितीयकदलीप्रसूतिजं  
@@ -2325,8 +2100,6 @@ poor luck, represents to me the valued reward of good deeds done in by-gone janm
 **Manthara.**— (taking the boy) Darling, come; I willgive flowers and fruits to you. Here are toys; your majesty, see the things sent by Suruchi. Fruits viz. wood apples, ebony rose apples, Amalakas![](../books_images/U-IMG-1721189312Screenshot2024-07-17093805.png)(Emblic myrobalan) Pomegranate, Mangoes and plantains; similarly, this painted peacock for the boy; this image of Vencatasa.  
 **Boy.**— (Taking theme) whence were these brought?  
 **Manthara.**— From your father's house.
-
-
 
 ** बालः—** अंब, कोऽयं पिता योम ईदृशानि सुन्दरवस्तूनि संप्रेषयति।  
 ** मन्थरा—** तत्र भवान् महैश्वर्यसंपन्नो राजा ते जनकः।  
@@ -2351,8 +2124,6 @@ Mamma, why are your eyes suffused with tears?
 **Suneeti.—**Darling, the recollection of your father produced a slight flow of tears.  
 **Boy.—**Is father a cruel person? does he rebuke you, now that a mere recollection of him produces tears in you.
 
-
-
 ** सुनीतिः—** सर्वथा न तथा नाथः। परमसौम्यो हि तातः॥
 
 **तव जनकसुखं हा चन्द्रबिंबातिशान्तं  
@@ -2372,8 +2143,6 @@ Alas! your father's countenance is a refreshing disc of the moon. That pair of e
 **Boy.—**I wish to go for seeing him.  
 **Suneeti.—**Let it be in proper time.  
 **Manthara.—**The boy may be affected by evil eyes. Taking the boy inside the house, let your majesty perform the rite for averting the evil influence of wicked eyes. I go to Suruchi's quarters.
-
-
 
 ** सुनीतिः**— निवेदय तस्यै मदनारतस्मरणं।
 
@@ -2408,8 +2177,6 @@ Alas! your father's countenance is a refreshing disc of the moon. That pair of e
 
 **Nurse.**— Even the ants don't rush at the sweet sugar, though they go about close by. They are in-
 
-
-
 **विचित्रभक्ष्याणि हि तानि सन्ति  
 यतो निवृत्तास्सकला हि नीलाः॥१०३॥**
 
@@ -2442,8 +2209,6 @@ deed strange edibles, from which even flies remain scared away.
 
 **Servant.**— Manthara being a stranger-woman, (unseen before) the watch-dogs of the sheep-pen seeing her on the road, barked at her; she fled with speed afraid of being bitten; and they did bite off a piece of flesh with sharp-edged teeth.
 
-
-
 ** सुनीतिः**— आः! रे सेवक, कथमिदं नाम मगहमागतायाश्वानदष्ठत्वे मे हि निन्दा भवति न जाने जीवति वा न वा मे अकुटिला विश्वसनीया चेटी। यूयं खल्वजाग्रताः मत्सखीमहत।
 
 ** सेवकः**— अस्ति श्रोतव्यं। शृणोतु देवी।
@@ -2469,8 +2234,6 @@ If a visitor of my house, be bitten by dogs, the censure falls only on me. I don
 **Servant.**— Then it happened, that the woman dropped this cake on the floor. By devouring it, all the dogs quickly met with death.
 
 **Nurse.**— Queen, my suspicion has been confirmed. This verily is the same as the one given to the boy.
-
-
 
 ** सुनीतिः**— भगवता कृष्णेन दीनबन्धुना कृपापारावारेण निवर्तिता विपन्मे दारकवरात्। नामन्ये गोमुखव्याघ्रीं मन्थरां। सेवक प्रक्षिप्यन्तामाशु निश्शेषतः पुष्पाणि फलानि क्रीडनकानि।
 
@@ -2498,8 +2261,6 @@ If a visitor of my house, be bitten by dogs, the censure falls only on me. I don
 
 In the palace, Enter King, Suruchi and servant.
 
-
-
 ** राजा—** ततस्ततः।  
 ** सुरुचिः**— श्वानदष्टतया शय्यागता बभूव द्वौ वत्सरौ।  
 **राजा**— नूनं दुष्टेत्यवगम्यते सुनीतिः। संरक्षकविधुरतादशायां समयनिरीक्षणपूर्वकमेकाकिनीं निरपराधिनीं सैरन्ध्रीमेवं श्वानेनदंशयन्ती स्त्री परमदारुणा स्यात्। कथमेतन्मया नाकर्णितं वर्षद्वयं।  
@@ -2521,8 +2282,6 @@ In the palace, Enter King, Suruchi and servant.
 **King.**— This causes uneasiness; why did she go there?
 
 **Suruchi.**—I do not know, she should herself be questioned,
-
-
 
 ** राजा**—क्व चेटी? रे सेवक आयात्विह चेटी।
 
@@ -2555,8 +2314,6 @@ Enter toilette-servant limping.
 
 **Manthara.**— As God is my witness, I swear that the dogs were set on by Suneeti.
 
-
-
 ** राजा**— भद्रे मा बिभिहि न विस्मरामि तव चिरंतननिष्कपटताश्रयं। अनुशास्मि पारितोषिकं वेतनं तव श्रमायास्मत्सेवायां। किमर्थमपद्यथास्त्वं तत्र?
 
 ** मन्थरा**— मे देव्या दर्शनाय तथा द्रष्टुं तस्या बालचूडामणिं॥स्नेहमात्रप्रेरिता।
@@ -2586,8 +2343,6 @@ Enter toilette-servant limping.
 **King.—**Cause them to enter.
 
 **Doorkeeper.**—As your majesty commmands.
-
-
 
 (ततः प्रविशन्ति ध्रुवधात्रीपुरोगमाः)
 
@@ -2620,8 +2375,6 @@ Enter toilette-servant limping.
 
 **Boy.**— I amthe son of the king on the throne.
 
-
-
 ** सुरुचिः**—किं सुनीतिपुत्रः?  
 ** बालः**— सुनीतिपुत्रश्च।  
 ** सुरुचिः**— अर्भक, किं तेऽभिलषितं।   
@@ -2647,8 +2400,6 @@ Enter toilette-servant limping.
 **Suruchi.**— Because you were born of my co-wife in stead of from my womb.   
 **Boy.**— O king, is not my mother your lawful wife?   
 **King.**— Yes, what of it?
-
-
 
 ** बालः—** तर्हि पुत्रोऽहं सिंहासनारोहयोग्यः\।
 
@@ -2681,8 +2432,6 @@ Enter toilette-servant limping.
 
 **Boy.** — Her majesty, the anointed queen, my chaste mother, of virtues honoured by the Gods is a devout worshipper of Hari. There exits not on the face of the Earth another virtuous woman equal or superior to her.
 
-
-
 ** सुरुचिः**—रे बालिश, जानात्यार्यपुत्रस्तव मातुश्चरितं।
 
 ** बालः**— (नेत्रांबुभिः) तात किं संमतं ते विमातुर्वचनं ?
@@ -2705,8 +2454,6 @@ Enter toilette-servant limping.
 **Boy.**— (With tears in his eyes) father, is the step-mother's language approved by you?
 
 **King.**— (To himself) The sudden outburst of words ringing deep like a bell and the eyebrows knit together in vindication of a mother, creates in me an unbounded trust in, and affection for, him. This boy of mine must be the one born out of the boon—gifted fruit. (aloud) Boy, let the discussion alone; go to your mother,
-
-
 
 ** बालः**—न मातरं किं तु वनगतं दीनशरण्यं गच्छामि
 
@@ -2744,8 +2491,6 @@ In the forest. Dhrura
 
 O joy, the music of a great sage is heard!
 
-
-
  (समाकर्ण्य दृष्ट्वा) आयास्यति मुनिवरो मद्भाग्यदैवं॥
 
 (ततः प्रविशति नारदः)
@@ -2775,18 +2520,14 @@ O joy, the music of a great sage is heard!
 
 Enter Narada.  
 
-
 **Narada.**— Dear boy, whither do you go alone into the woods weeping bitterly;-- a forest where no human beings dwell, and which is impossible even for the hunters to pass through.
 
 **Boy.~~ ~~** The wordy arrows of a stepmother having pierced through my sides, I am running away, O ! sage, into the jungle like a deer writhing from a (hunter's) dart.
 
 **Narada.~~ ~~**Is your journey approved of by parents
 
-
-
 **जननीस्तन्यचिन्हं ते  
 बिंबोष्ठेनैव शोषितं॥**  
-      
 
 ** बालः—**
 
@@ -2817,8 +2558,6 @@ or do you wander at your own will. Truly the traces of the mother's milk are not
 
 **Boy.~~ ~~** Enjoying as you do the bliss of universal
 
-
-
 **सर्वदा जैंह्मचापल्यं  
 जेतुं मां शिक्षय प्रभो॥**
 
@@ -2847,8 +2586,6 @@ renunciation, why do you, O sage, lead me back to carnal life. Teach me, honoure
 **Narada.**— For what purpose, were you crying? What was it, the words you uttered. Tell me what is desired; I will grant (it) matchless boy.  
 **Boy.~~~~** I went straight to the left thigh of my father Uttanapada; then was I suddenly obstructed; I am such an unfortunate fellow.  
 **Narada.**— I know your father; my Words command
-
-
 
 **स्थापयाम्यङ्कयोस्तस्य  
 प्रतियाहि ततो गृहम्॥**
@@ -2886,8 +2623,6 @@ his regard. On both his thighs I will seat you with firmness and hence do return
 
 (Then aloud.)
 
-
-
 **नृपतनयशरीरं  
 न त्वं ध्रवोऽपि तु विद्यते ह्यंतः।  
 जीवस्तु नित्य आत्मा  
@@ -2914,8 +2649,6 @@ This is not an only body. There are several sheaths encasing you.From this bonda
 
 If you be one inherently fit to attain Heaven,
 
-
-
 **नारायणमीमांसा  
 साधनमेकं हरिं द्रष्टुम्॥**
 
@@ -2934,8 +2667,6 @@ Your bliss is preordained and limited. You will get it in Moksha in the proximit
 
 Persons who after realising the properties of things viz. whether they be transient, eternal and so forth, by the instrumentality of knowledge-sources such as perception, inference, and revelation, (1) become disattached to the objects of senses (2) acquire equanimity, control of mind and so on (3) look forward to liberation as the goal; (4) rely on Vasudeva
 
-
-
 ड्योत्क्रमणेन वा शरीरादुत्क्रांताःस्वोचितेन अर्चिरादिमार्गेण वा वैकुण्ठस्थं भगवन्तं हिरण्यगर्भेण सहप्राप्ताः निवृत्तात्यंत समस्तानिष्टाः भगवत्समीप एव तमुपासीनाः स्वरूपेण लीलागृहीतविग्रहैर्वा संकल्पमात्रसाध्यान् दिव्यभोगांस्तारतम्येनानुभवन्तो न कदाचन पुनरावर्तन्त इति सिद्धान्त निष्कर्षः॥ ओं तत्सत्॥
 
 ॥साधयामस्तावत्॥
@@ -2947,8 +2678,6 @@ Persons who after realising the properties of things viz. whether they be transi
 as the sole refuge (5) practice study, reflec- tion and concentration, for a long time with uninterrupted fervour in respect to Him (6) obtain a vision of the Lord (7) exhaust their karma in the plenitude of overflowing devotion, either by working it out or by the force of divine knowledge, with the help of His grace, (8) merge into higher forms or fly up from the mortal frame through the Bramha nerve (9) reach the Lord at Vaikunta along with Hiranyagarbha by routs suitable to them or by the paths of such as Archi (10) and freed altogether from unhappiness, enjoy in the vicinity of His personal presence and according to their rank, a bliss divine, by means of their spiritual essence or forms created for the time by mere volition —— these do not incarnate again: such is the condensed essence of the sastras. Om Tat Sat.
 
 (Narada retires.)
-
-
 
 ** ध्रुवः—**(स्वगतं।)
 
@@ -2977,8 +2706,6 @@ O Madhava, I had no wish to form the acquaintance of a father and mother; bound 
 
 A nurse and a mother strangled me by an abundance of ill-timed sleep and food. I suffered immeasurable pain, by swallowing doses of oil, with abundant weepings. (cries).
 
-
-
 **मातुः क्षीरं चूषणपीतं  
 जन्मनि जन्मनि पतितं मे।  
 भूमौ तावत्क्षीराब्धिस्स्या  
@@ -3002,8 +2729,6 @@ So incalculable have been the births I have undergone.
 
 The drops of tears I have shed, will if collected together, make up a sea. O, Madhava in the course of births beyond all calculation I have undergone sufferings of every kind of description. (At last) deeming the monarch's lap as heaven, I was distracted by the failure to attain it. O, Madhava let no desire be directed towards transient fruits that only rivet bondage.
 
-
-
 **मोचय बाल क्रीडासक्तं  
 रोदनहासैरनिमित्तैः।  
 मानुषजननं कुरु सफलं मे  
@@ -3025,8 +2750,6 @@ To thee the lord Purusha, who being the reservoir of every force, by His greatne
 
 The exquisite pleasure derivable by men from a meditation of Thy lotus feet and a study of the biography of Thy devotees, cannot be attained even in heaven, in the enjoyment of one's own spiritual greatness.
 
-
-
 **सा ब्रह्मणि स्वमहिमम्यपि नाथ माभूत्  
 किम्वन्तकासिलुलितात्पततां विमानात्॥**
 
@@ -3043,8 +2766,6 @@ Need it be said that it is unattainable by those who occupy positions from which
 **The end of Act III.**
 
 **![\#](../books_images/U-IMG-1721221125Screenshot2024-07-17182835.png)**
-
-
 
 **॥अथ चतुर्थोंकः॥**
 
@@ -3069,8 +2790,6 @@ In palace. (Enter Sumati and the king).
 
 The senior wife is a lover of quarrels, and is enjoying herself without any concern, her thoughts bent on pleasure. The other is so mean as to be ever prepared with girded loins to wage war with a child. This son of mine born of Suruchi is virtually a corpse, and deserves not the name 'Uttama': above all, (my son)**the genius has gone to the jungle. Who is there so miserable in misfortune as myself?
 
-
-
 ** सुमतिः—**सुनीतिभ्रातृत्वेन पक्षपातशंकास्पदोऽहं। तथापि तथ्यभाषणं मे धर्मः।
 
 **सततहरिसुचिंता भर्तृपादावलंबा  
@@ -3092,8 +2811,6 @@ The senior wife is a lover of quarrels, and is enjoying herself without any conc
 Ever devoted to Hari and trustful in the lead of a husband's footstep, Suneeti is pining away emaciated by the fire of a lover's longing. The word of tale-bearers should not be listened to with trust. The propensity for mischief attributed to her is as false as the horn of a hare.
 
 **King.—**What say you, Sumati, in the matter of Man- thara? Is she a good-natured woman who thus instigates the biting by dogs. No, my wives are neither of them deserving of praise. An exile into the forest or suicide is the only course to be thought of by me.
-
-
 
 ** सुमतिः—**
 
@@ -3124,8 +2841,6 @@ Ever devoted to Hari and trustful in the lead of a husband's footstep, Suneeti i
 
 **Sumati.—**Your excellent boy will surely return, with the aid of Narayana's grace. Verily intelligence of that order must have originated only from the supreme grace of Vishnu.
 
-
-
 ** राजा—**
 
 **मनांसि मुष्णात्यतिमन्मथो बलात्  
@@ -3148,8 +2863,6 @@ Ever devoted to Hari and trustful in the lead of a husband's footstep, Suneeti i
 **King.—**Not so; only a single fruit was brought and wholly eaten away by Suruchi. How then can Dhruva be the result of a boon?
 
 **Sumati.—**My lord, he is really the result of a boon. I wonder how it is still unknown to your majesty. I pray your majesty will listen.
-
-
 
 **प्रौढा राशी सुरुचिः  
 बुभुजे बीजं विहाय रसमात्रम्।  
@@ -3179,8 +2892,6 @@ Gone is he my excellent boy into the dense jungle. What is the right course to b
 
 **Sumati.** — Do not be broken hearted Omaster. I am
 
-
-
 **यद्याज्ञाकारयाम्यद्य  
 मार्गणं क्षितिमण्डले॥**
 
@@ -3208,8 +2919,6 @@ In the whole world, where is the boy Ofriend, shining with an equal figure or wh
 **Sumati.**— Every human endeavour shall be made to find Dhruva.
 
 **King**.— Friend, see there the anklet of the child. (To himself)
-
-
 
 **मंजीरं तवतनु गुल्फ शोभितंहा  
 संगीतं मृदुसहजं विहाय शेते।  
@@ -3244,8 +2953,6 @@ Suruchi falls at feet.
 
 **Suruchi.—**O; sovereign, pardon one who is guilty of heinous crimes, who with ignorance and un- provoked animosity hated and wronged the chaste lady as well as Dhruva, at the instiga-
 
-
-
 **येते नीचधिया हि तं सुरसमं सूनुं च विध्वंसितुं  
 भूपालं शरणागताहमधुना याचेऽपराधक्षमाम्॥**
 
@@ -3268,8 +2975,6 @@ tion of Manthara. With a despicable intent, I even attempted to murder that son 
 
 **Suruchi.**— I am a sinner.  
 Like a frog at the fire of a great cobra's eyes, have I been hypnotised by the look of Dhruva. My mind has been altogether paralysed by the brilliancy; I am lost, my mind converted into a fly that hovers round a lamp-light (and ultimately dies in the flame). No doubt I obstruted the boy and spoke to him like one possessed. When the boy's feet disappeared from view my limbs shook and I was seized with dread. I spent a
-
-
 
 मदुद्बोधिनीं मन्थरां दुष्टां। अस्ति सा शय्यागता आसन्नकाला। इयमस्याः प्रभवे विज्ञप्तिः।
 
@@ -3294,8 +2999,6 @@ sleepless night. At dawn I went to my instigator, the wicked Manthara. She lies 
 (So hands the paper). (The King reads)
 
 Manthara, being on the point of death, confesses her crimes through fear. Although Lord Vishnu may be a mine of forgiveness, he will surely send me to the pitch-dark hell. As I lived by tale-telling, my falsehoods have been beyond calculation. I hated the lady Suneeti as I, by nature, hated all good people. That eminent boy of boys I tried to kill with poisoned food, wicked woman that I
-
-
 
 **बालानां बालवरम्  
 हंतुंयते विषान्नेन दुष्टाहं।  
@@ -3325,8 +3028,6 @@ was. Accidentally (or by God's will) I happened to be bitten by dogs and was pun
 (Behind scenes.) “Help, help. We wish to see the king.”
 
 Enter servant.
-
-
 
 ** सेवकः**—देव कतिपयवनचराः प्रार्थयन्ते दर्शनं।
 
@@ -3360,8 +3061,6 @@ Enter subjects.
 
 A fire suddenly sprang up from the ground. upward into the sky, a pillar-like collection of flames. The birds travelling in numbers fell from the sky to the Earth consumed by the unendurable heat.
 
-
-
 ** द्वितीयः—**
 
 **नवकुसुमभरा तमालवल्ली  
@@ -3389,8 +3088,6 @@ A fire suddenly sprang up from the ground. upward into the sky, a pillar-like co
 **King**.— Subjects, you may take leave; we will inquire into this matter.
 
 (Exeunt subjects)
-
-
 
  \[आकाशे\]
 
@@ -3425,8 +3122,6 @@ Exeunt.
 
 In the palace. Enter Suneeti and Suruchi.
 
-
-
 ** सुरुचिः**—
 
 **स्वागतं देवि शुद्धान्ते  
@@ -3448,8 +3143,6 @@ In the palace. Enter Suneeti and Suruchi.
 **Suneeti.**— Alas! when my dearest darling went away into the forest, god alone knows the anguish of my unfortunate self. I roamed about, searching for my darling, day after day into the jungle without food. At this juncture, your letter was received containing news. What says his majesty !
 
 **Suruchi.**— From mental disorder, he cries aloud for you as well as Dhruva that princely boy. After howling aloud, he desists only when
-
-
 
 **चित्तोद्वेगात् रदनरणितैर्दर्शने मे भृशार्तो  
 मन्नामापि श्रुतिविवरगं सोढुमीशो न देवः॥१५९॥**  
@@ -3478,9 +3171,6 @@ as an invalid, he becomes quite exhausted. At sight of me, he rattles his teeth,
 
 Exit Suruchi.  
 
-
-
-
 (पटारोहे शय्यागतो राजा वैद्यश्व।)
 
 ** सुनीतिः—** (दृष्ट्वा) (स्वगतं) हंत विकृतिरस्य प्रभोः लज्जीकुर्वत्सुरेशतेजाः शेते तत्र विगतपललः मलिनीकृतशोभः गर्तांतरगतनेत्रगल्लः। आर्यपुत्र इत्यत्रप्रतिपत्तिमपि प्रतिरुणद्धि इदं वपुः॥
@@ -3504,8 +3194,6 @@ Exit Suruchi.
 **Suneeti.—**Let the doctor command.
 
 **Physician.—**Hereafter the cure is easy.See how, without delay, I dislodge the diseaseby the root. The phlegm superad-
-
-
 
 **पित्त वातोत्तरं श्लेष्म  
 वैद्यकं हि परीक्षते॥१६०॥**
@@ -3541,12 +3229,8 @@ ded to bile and wind indeed trying to thephysician.
 
 **Physician.—**See again,he laughs gently in sleep.With eyes closed,he feels a recognition of  
 
-
-
-
 **अभिमतजनलाभे मोदते साक्षिचिद्वै  
 वदति मुदितभाषां स्वप्नतुष्टो यथायं॥१६१॥**  
-
 
 ** सुनीतिः**—शीघ्रं उपशमो भूयात् भवतां नैपुण्यात्॥
 
@@ -3560,15 +3244,12 @@ ded to bile and wind indeed trying to thephysician.
 सीदत्वत्रदेवी शय्यान्ते,गायतु मंदमंदं। तदेवौषधमितः परम्।
 
 --------------------------------------------------------------------------------------------------
-   
 
 you; and smiles gently moving his lips; The perceptive consciousness of the soul rejoices at the finding of longed-for persons. He utters words of joy,as if delighted by a dream.
 
 **Suneeti.**—May his cure be accomplished quickly by your skill.
 
 **Physician.**—(Feeling the hand.) The body is lukewarm. The pulse of the hand beats regulated as it should. He sleepsmotionless in bed,without any distortion of countenance. This disease was born in the brain from a rush ofblood into the head. Let everybody avoid all topics of sorrowful memory as well as reference to Dhruva~~ ~~Let the queen sit here at the edge of the bed and sing gently and slowly. That is the medicine hereafter.
-
-
 
 निष्क्रान्तो वैद्यः॥
 
@@ -3579,7 +3260,6 @@ you; and smiles gently moving his lips; The perceptive consciousness of the soul
 
 **नवमासभरामारं ह्यसुवीमं सुरोपमं।  
 दुराशा मंदभाग्याया दैवसंकल्पभंजिता॥१६४॥**  
-
 
 ** राजा**—(ईषदुन्मील्यनयने)। अहो शीतलमृदुगंभीरकर्णामृतं गीतम् कोऽसौ गायति॥ (इति शयनोत्थितः)॥
 
@@ -3595,8 +3275,6 @@ Exit Physician.
 
 **Suneeti.—**(Standing up,) your majesty, I prostrate. I am Suneeti, at your service, whose banishment has been cancelled.
 
-
-
 ** राजा**— मम धर्मपत्नी ध्रुवस्य माता?॥
 
 ** सुनीतिः**— प्रत्यभिजानाति मां खल्वार्यपुत्रः॥
@@ -3607,7 +3285,6 @@ Exit Physician.
 पिशुनकलुषभाषाप्रेरितं मर्षयालं।  
 मदकरुणजनिकोपस्तेनुचित्तादपैतु  
 प्रियतममहिलेमां मात्यजत्वं गदार्तं॥१६५॥**  
-
 
 ** सुनीतिः—**प्रभो,
 
@@ -3625,8 +3302,6 @@ Exit Physician.
 **King**~~~~Lovely woman, one shaft imbedded in my heart has now been extracted; forgive completely what was done atthe instigation of wicked tales. Let every trace of offence due to my heartless action vanish from your mind; O best beloved woman, Do not forsake me an invalid.
 
 **Suneeti.—**Lord, being prompted by the will of Hari, my royal husband did it all. By nature kind to humanity, he certainly would not otherwisehave been unkind. This is my constant prayer to Srinivasa that my mind should always feelsatisfied in my lord.
-
-
 
 ** राजा—** क्व ध्रुवः।
 
@@ -3666,8 +3341,6 @@ Exit Physician.
 
 **King.~~ ~~**The son suffers in the woods! And I am enjoying all the luxury of beds made of silk and down; what was it, said“This old man
 
-
-
 किं तदुक्तं, “जीनोसौ रमते किलाङ्गनाभिः" इति। इतः परं नाङ्गनाभिः। एकवचनेन पठितव्यं। दुष्टायास्सुरुचेर्मृतप्रायत्वात्॥
 
 ** सुनीतिः—** देव वर्धते व्याधिरनेनोत्तेजनेन, निद्रात्वायुष्मान्।
@@ -3696,8 +3369,6 @@ gambols with damsels". Hereafter, not with "damsels." It should be read in the s
 **King. —** Sirrah, peon, stop there. Dear, I will desist. There is no need for the physician. I will talk of other matters. Dear, why did you delay your return?
 
 **Suneeti.—** I did not know of your majesty's illness.Only yesterday, came the news along with
-
-
 
 ** राजा**— मासत्त्रयमतीतं मद्धस्ताक्षरलेखनात्।
 
@@ -3732,8 +3403,6 @@ the despatch cancelling my exile.
 
 **Suneeti.—** Suruchi, the dear wife, is worthy of compassion. She a queen shall not be subjected to punishment.I knowthe sufferings of separation: Let bygones be bygones and all forgotten.
 
-
-
 ** राजा**— (आश्चर्यस्तब्धः) प्रिये किमेतत्। मूढोऽहं दत्तप्रतिज्ञः।नावलोकयामि तस्याः मुखं॥
 
 ** सुनीतिः**— दत्ताहि क्षात्रा वाणी। अद्यैव सा मर्षयितव्या॥
@@ -3758,14 +3427,11 @@ the despatch cancelling my exile.
 
 **![](../books_images/U-IMG-1721217538Screenshot2024-07-17172839.png)**
 
-
-
 **॥ पञ्चमोंकः ॥**
 
 **॥ उपांकः १ ॥**
 
 वनांतरे। प्रविशति मातलिः सनन्दिः।  
-
 
 ** मातलिः—**अपि स्यादिष्टापूर्तिर्बिडौजसो भगवतः। महाप्रभावं वदन्ति दिवौकसो बालतापसं।
 
@@ -3783,7 +3449,6 @@ the despatch cancelling my exile.
 
 In the forest. Enter Mátali with Nandi.  
 
-
 **Matali:~~ ~~**Will the object of Lord Indra be attained? The residents of Swarya speak of the boy-sage as one possessing very great power.
 
 **Nandi:~~~~** Such is the talk in Kailas also. Honoured Sadasiva is greatly pleased with his penance.
@@ -3791,8 +3456,6 @@ In the forest. Enter Mátali with Nandi.
 (Proceed onward)
 
 **Matali:**— See, here is the burning flame in the north.The figure of the boy is also visible covered with dung-hill from which an unceasingcolumn of smoke is ascending.
-
-
 
 ** नन्दिः**– नास्माभिरतिसमीपं गन्तव्यं। तपोज्वाला दूरतो व्याप्ता दृश्यते।
 
@@ -3828,8 +3491,6 @@ In the forest. Enter Mátali with Nandi.
 
 **Matali:**— I am Matali, the charioteer of Indra.
 
-
-
 ** ध्रुवः**— किं तावदपेक्षितं भवता शुष्कतापसकर्मन्दिनः।
 
 ** मातलिः** —
@@ -3863,8 +3524,6 @@ In the forest. Enter Mátali with Nandi.
 
 **Matali:~~ ~~** Kamadhenu, the liberal grantor of every wish and the Kalpa tree are (both) at your
 
-
-
 **किं फलं घोरसंतापात्  
 शृणु वत्स सुरोदितम्॥**
 
@@ -3892,8 +3551,6 @@ service. What is the use of severe penances? Listen, dear boy, to the words of D
 **Dhruva:~~ ~~** What is the message of the Honoured lord of Kailasa.  
 **Nandi:**— Siva praises you very much in Kailas;being greatly pleased at your penance, he has sent me (his) servant to ascertain your wishes. What, sir, is the cause of these
 
-
-
 **किं भो कारणमस्य वीर्यतपसः का वा तवेच्छाथवा  
 कामं त्वं वटुरेव राजसुत ते लोकोयमैर्वेपते॥१७२॥**
 
@@ -3917,8 +3574,6 @@ austerities or what is your object? Though you are but a boy, Oprince,the world 
 **Matali:**— If Vayu comes, will you desist from austerities?
 
 **Dhruva:**― I will do so.
-
-
 
 (ततः सर्वे सुराः प्रार्थयन्ते प्राणेशं नेपथ्ये)
 
@@ -3951,8 +3606,6 @@ Blessed indeed is the prince, for whose salvation Vayu is coming apace. With the
 
 (All prostrate and say )
 
-
-
 **नमस्ते प्राणेश प्रणतविभवायावनिमगाः  
 नमस्वामिन् रामप्रियतम हनूमन् गुरुगुण।  
 नमस्तुभ्यं भीमप्रबलतम कृष्णेष्ट भगवन्  
@@ -3975,8 +3628,6 @@ Blessed indeed is the prince, for whose salvation Vayu is coming apace. With the
 **Dhruva~~ ~~** My good fortune has exceeded the limits of speech. I am immensely obliged, by this favour.
 
 **Vayu**— Dear boy! is the penance finished ?
-
-
 
 ** ध्रुवः**— ऋते भवतां प्रसादं कथमेतत्स्यात्।
 
@@ -4005,8 +3656,6 @@ Blessed indeed is the prince, for whose salvation Vayu is coming apace. With the
 
 **Dhruva:~~ ~~**Withdrawing into the inner cave the sense of hearing imbedded in the gross body from its external objects, I heard a wonderfully musical Om, the hymn of Hari's glorification. At that time, the pair of lotusblossoms constituting Hari's feet expanded with unusual brilliancy and shone in the
 
-
-
 ** वायुः~~~~** किं स्थितं वा भगवद्रूपं तव स्वान्ते।
 
 ** ध्रुवः** — तत्र तावन्मनोहतो बभूवाऽहं। मुहुर्मुहुररुदं प्रार्थयामास भगवन्तम्॥
@@ -4028,8 +3677,6 @@ melodious music in response to such attributes of glory as were denoted by the r
 **Dhruva:**— In that I was however disappointed. I wept repeatedly and begged of the Lord. “My eyes quiver, shaken by your illusion; Your form moves away just when the dart should hit the aim. Enough of it? I am unable to fix the mind on (you) the Lord. Do not impose a severe test, as I am but a norice in archery".
 
 "Neither the target shot at by the bow of Arjuna at his marriage, nor Siva's bow snapped by Ramachandra, blinded the eyes in this
-
-
 
 **अमितशतसहस्रप्रज्वलद्भानुदीप्त्या  
 नयनयुगलमेवं ह्यंधयामास विष्णो॥१७८॥**
@@ -4057,8 +3704,6 @@ manner with the light of innumerable hundreds of thousands of incandescent suns.
 
 **Dhruva:**— I pray with your aid, for a faith in Narayana firmly established by a realization of His greatness, -in fact, what is conveyed by the expression Bhakti. Beloved messenger of Sri Rama, tower of strength to Vaishnavas, Lord of the Pranas, Hanuman the son of Anjana, I prostrate to you, the saviour that is coine here by my luck: convey my message gently, as of
 
-
-
 **सीतानाथपदारविन्दसुतले मन्दं मदीयां गिरं  
 वैदेह्या इव देहि शुद्धममितं स्नेहं रमेशे हरौ॥१७९॥**
 
@@ -4075,8 +3720,6 @@ manner with the light of innumerable hundreds of thousands of incandescent suns.
 Videha's daughter unto the foot-lotus of Seetha's Lord and grant me a boundless faith in Hari. O Bhima, Kunti's son, an avatar of strength, O Lord, the destroyer of Duryodhana, be pleased to destroy with the maceblows struck by your victorious arms, the host of foes consisting of lust, anger, conceit and the rest that are preying on the vitals of the heart and render strong my faith in Krishna.
 
 I prostrate before you, august Madhwa, an avatar of spiritual lore, devoted to the service of Satyavati's son, and basking in the sunshine of knowledge emanating from the great preceptor on the Himalayan peak. The enduring faith in Hari, conferred on me by your incarnation as Hanuman and rendered
-
-
 
 **यद्दत्तं भवताञ्जनेय वपुषा स्नेहं हरौ दीर्घकं  
 भीमेनारचितं दृढं तममलं ज्ञानेन निर्देशय॥१८१॥**
@@ -4103,8 +3746,6 @@ strong by Bheema, do you please render flawless by means of true knowledge.
 Descendant of Yadu, joy of Yadu's race, OLord, O Madhava, destroyer of Madhu, do thou come to me. Save me O vanquisher of the maternal uncle in the city of Muttra— offspring of Nanda's virtuous wife.
 
 With jewels of gold sounding sweet melody and the tinkling flute playing airs, with ballsports, dance, and amusements, in the midst of many tiny calves, do thou protect me. With the conchshells and wheels resplendent
-
-
 
 **कन्दुक लीलानाट्यविनोदै  
 रणुतनुगोभिस्सह पाहि॥१८६॥  
@@ -4137,8 +3778,6 @@ O rider of the bird, O King of smiling face, do Thou come with flashes of manifo
 
 All prostrate, saying, Jaya, Jaya. Glory, glory.
 
-
-
 ** ध्रुवः—**
 
 **यतो वाचो वातप्रहतगतिकार्पाससदृशा  
@@ -4157,8 +3796,6 @@ All prostrate, saying, Jaya, Jaya. Glory, glory.
 
 This poor individual, torn by the arrows of an enemy, approaches with awe, in quest of a ship, the great bliss-bodied Fish, that shone as a sun, destroyed the Asura, and was adored by the Solar king (Satyavrata). May the Fishgod swimming in the world-destroying waters of the deluge, protect me, a cripple whose thoughts are imprisoned in the meshes of the wicked fisherman Kali, in the flooding waves of birth.
 
-
-
 **धर्मात्म सत्रिदशदुर्मानिदैत्यगणघर्माधिकार्तिमथितं  
 कर्मेन्द्रियप्रहतदुर्मेधसां हृदिव भर्मात्ममन्दरगिरिम्।  
 ऊर्मिमवातचलकर्मावसन्नमथ नर्माकृतिस्सुकृपया  
@@ -4174,8 +3811,6 @@ This poor individual, torn by the arrows of an enemy, approaches with awe, in qu
 Thy illusory tortoise-form was pleased to upheave Mandara, the mountain of Gold, when, being churned hard with an excess of sweating fatigue by the combined hosts of righteous Devas and jealous Daityas, and tossed by waves and winds, it was about to founder, like the mind of the wicked overpowered by the organs of sense. To that Tortoise bestowing bliss on the Devas, be this prostration of mine.
 
 I bow here before this adored and universally adorable Boar-form God who feigned a slow and doubtful fight at first, and, being appealed to by the entreaty of Suras, killed the wicked and low son of Diti who was the arch-enemy of the most righteous of mankind and was elated by the pride of an immense prowess such as terrorised the vast hosts of Devas' leaders.
-
-
 
 **कालानलं दनुजबालेडितं प्रविश खेलारतं मम मनो  
 व्यालाग्निघोरतमहालाहलाशनकशैलान्तपातविपदः।  
@@ -4195,8 +3830,6 @@ To thee, the boy of liliputian guise, who saved Indra and humiliated Bali (the D
 
 To thee, the Bramhan avatar (1) that was an ornament of the Bhrigu race, (2) that destroyed an unrighteous clan of kings (3),
 
-
-
 **वागीशतातमिह योगीशवर्गरिपुपूगार्तनाकिवरदं  
 यागाशसन्नसवगाधीशसूनुसवपालाशुगं भज हरिं।  
 वागाविहीनबहुरागासुरेड्यभगवागार्यजाऽजगवदं  
@@ -4214,8 +3847,6 @@ that was a ferocious cobra or spear in the heart of the wicked, and (4) that gua
 Adore here that Hari (1) who is the father of Bramha (Sarasvati's Lord), (2) who saved the Devas by boons, from the sufferings caused by Rakshasas the enemies of all sages, (3) who guarded the sacrifice of Visvamitra and of the Rishis with his fleet arrows, who snapped the bow of Siva the offspring of Bramha, a deity adored by Asuras of intense unbridled passions (4) who was the hero of the prayers (a) of the lady consigned to the forest by Mathanga's curse and (b) of Sarabhanga the prince of ascetics and (c) of garuda (the God of birds).
 
 I prostrate here before Damodara of a dark cloudy hue, the refuge of the suffering humanity, who, adorned in jewelry of gold, and clad in saphired robes, appeared and carried away the clothes of damsels,— who
-
-
 
 **भूमीन्द्रदैत्यवरगोमायुपञ्चमुखधामानमानतसुरं  
 गोमीश्वरं रुचिरयामीरसद्वदनमाम्नायवेद्यमनघं॥१९३॥**
@@ -4236,8 +3867,6 @@ O Buddha, who created delusion in the descendants of Diti by a system of Buddhis
 
 May He protect me, -- who saved the great elephant, huge as a hill, from the effects of
 
-
-
 **संगूढनक्रवरसंग्रामसन्दशजभंगार्तिसन्नतिगिरं  
 शृंगीशवृद्धमरिभंगाद्विमोच्यमुनिशापादपादवतु मां॥१९५॥**
 
@@ -4253,8 +3882,6 @@ a sage's curse and from the onslaught of a foe, when, surrounded by herds of ele
 O Vyasa, liberal fountain of boons, make me ardent in the pursuit of a wealth which consists in relishing the honeyed essence of Vedanta as elucidated by the shastras of Vayu.
 
 Make me eminent with the lore esteemed by the sage Jaya the follower of the footsteps of Sri Madhwa the master of the Vedas. By means of the shastras codifying the vedic teachings and of holy water flowing from Hari's feet, ordain me pure, standing as I do in supplication, with hands folded over the head.
-
-
 
 **नित्यं निधेहि निजशीर्ष्णिनिरंजनं ते  
 पादांबुजं प्रणतपावनपावनाग्र्यं।  
@@ -4277,8 +3904,6 @@ O Thou Lakshmi's lord, source of the holiest stream, sovereign of all whose foot
 
 The same soft (lotus) flower of Vishnu which sat lightly on the shoulders of devoted Hanuman like a piece of cotton— the same
 
-
-
 **वज्रोपमं शकटसंहनने मुरारेः  
 पीयूषपात्रसदृशं गरुडमहस्ते॥१९९॥**
 
@@ -4300,8 +3925,6 @@ Let Thy foot which blessed Bali who bore it on his head, rest and dance upon my 
 
 I bow before that tender foot which glanced bright on the kunkuma in the bosoms of Vraja's lovely maids when Thou wert an infant form, and which measured the three worlds in three paces in the subjugation of a Danava.
 
-
-
 **पादांबुजं ह्यवतु यन्नबभूव नीरैः  
 नीरौघमेव विमलं जनयच्चकास्ति।  
 नापेक्षते रविकरान् स्वविलासभूते  
@@ -4321,8 +3944,6 @@ May that foot-lotus save me, which, instead of being water-born (as its Sanskrit
 
 May that all-protecting lotus of foot, be glorious, which expands myriads of petals at the prayer-ful music of devotees, which is always full-blown (never being a bud ) because of a perpetual vedic sun-shine — which wafts a fragrance consisting of final felicity, — which is filled with the honey of Grace, and which is adored by Padma (the lotus deity) herself. May that tender and beautiful pair of feet, a spirit dense of bliss — that priceless and
 
-
-
 **यन्म्लानिहीनममलं भवतु प्रभो मे  
 शीर्षस्य भूषणममेयमहाप्रसूनं॥२०४॥**
 
@@ -4341,8 +3962,6 @@ May that all-protecting lotus of foot, be glorious, which expands myriads of pet
 magnificent blossom, unique lotus of the blood-red kind, pure and unfading, be the ornament of my head, whose contemplation alone renders devotees joyful and mad with the drinks of honey, so that withintellects dizzied by delirium they wander in the world renouncing all attachment to household concerns going by the name of wife and children, and looking in the eyes of men sometimes mute and sometimes deaf.
 
 My lord, be Thou pleased out of affection to bathe this heated head of mine, consumed by the fires of Junma, with ambrosial showers of Thy pre-eminent grace, flowing from Thy 'Foot lotus' fragrant with cool and agreeable perfume.
-
-
 
 ॥ इति ध्यायन्मूर्च्छितः॥
 
@@ -4371,8 +3990,6 @@ My lord, be Thou pleased out of affection to bathe this heated head of mine, con
 **Sri Krishna.—** (raising by both hands) Boy, I am immensely pleased at your penances and prayers. Say quickly what is in your heart. I will soon grant your desire.
 
 **Dhruva.—** (Thinking, and stunned as if mad, with tremor of voice) Indeed the cherished desire of my heart is suddenly forgotten, O Lord. It may be that I aimed at what I was unworthy to get. Save me — one who seeksshelter.
-
-
 
 ** कृष्णः—**
 
@@ -4408,8 +4025,6 @@ My lord, be Thou pleased out of affection to bathe this heated head of mine, con
 *The Drum of Devas is heard.  
 Shower of flowers on Hari's head.  
                        Exeunt.*
-
-
 
 **॥पञ्चमे द्वितीयोपाङ्कः॥**
 
@@ -4447,8 +4062,6 @@ Shower of flowers on Hari's head.
 
 **Forester.—** Turn back to the city.
 
-
-
 ** सुमतिः—**(क्रोधं निरूप्य) विना ध्रुवं नगरगमनाय किल वनाद्वनमटितं एतावन्तमनेहसं अहोरात्रं, पश्य रे वञ्चक काराग्रहं प्रवेशयिष्यामि त्वां माचिरं॥
 
 ** वनचरः—**
@@ -4482,8 +4095,6 @@ By my luck, it is perceived that there is a hermitage close by, which has boys.
 **Sumati.—**How is this gathered ?  
 **Forester.—** In this expansive Aswatha tree, low-ly-
 
-
-
 **भूमौ चिन्हं कणानां पिशुनयति पटान् बालकानां तु योग्यान्  
 किं चाहो वालुकायां प्रतनुचरणजं चिन्हमद्धानुदृश्यं॥२१२॥**
 
@@ -4508,8 +4119,6 @@ Moreover, sir, on the sand, the mark of diminutive foot-prints is in fact clearl
 *Enters a hermit.*
 
 **Sumati.—** O Hermit, I salute.
-
-
 
 ** तापसः—**ओं, भूयात्तेऽभीष्टसिद्धिः॥  
 ** सुमतिः—**यदीयमाशीः पूर्यते तर्हि धन्योऽस्मि॥  
@@ -4544,8 +4153,6 @@ Moreover, sir, on the sand, the mark of diminutive foot-prints is in fact clearl
 
 **Hermit.—**There is a certain boy-sage here, who does not however seem to have lost his way—
 
-
-
 **वैराग्यभाग्यसाम्राज्यो  
 मेधावी मोक्षमार्गधीः॥२१५॥**
 
@@ -4579,8 +4186,6 @@ who is a master in blissful Renunciation, and who is a genius, with thoughts dir
 
 *(Enter Soumya, Meenanka, Krishnadasa, plucking flowers).*
 
-
-
 ** सुमतिः** —(परिक्रम्यावलोक्य) स्वगतं।
 
 **ईदृशानामपूर्वं हा  
@@ -4603,8 +4208,6 @@ O joy, rare indeed is the sight of juvenile ascetics like these, shining like in
 **Krishnadasa—**Well, Soumya, hasten the collection of flowers. My basket is nearly full of Tulasi leaves.
 
 **Soumya—**It is easier to gather Tulasi leaves than flowers, because Tulasi leaves remain crowding thick on the branches of the plant. Hence your basket is full and not ours of Kunda blossoms.
-
-
 
 ** मीनांकः—**न तत्कारणं मन्ये। तुलसीदलसंचये तावद्विशेषनैपुण्यमस्त्यस्य सख्युः॥
 
@@ -4636,8 +4239,6 @@ O joy, rare indeed is the sight of juvenile ascetics like these, shining like in
 
 **Soumya**.— Your promise was to accompany us.
 
-
-
 ** सुमतिः—** (जनांतिकं) रे वनचर। कोऽयं तुलसीसंग्रहको बालः तस्य वपुषि नेत्रयोः गतौ वचने चास्ति विशेषः॥
 
 ** वनचरः—**न जानामि॥ बहुदूरतो दर्शनेन तपोधूमस्याधस्तादयमासीदिति विहलं प्रतिजानामि॥
@@ -4663,8 +4264,6 @@ O joy, rare indeed is the sight of juvenile ascetics like these, shining like in
 **Krishnadasa**.— If finished, why am I walking on the Earth?
 
 **Soumya**.— A reference to penance reminds me —how strong-minded our friend was who went through the severest austerities for a long time without food and drink!
-
-
 
 ** वनचरः—** (जनांतिकं ) प्रभो अयमेव तापसो भाति॥
 
@@ -4695,8 +4294,6 @@ O joy, rare indeed is the sight of juvenile ascetics like these, shining like in
 
 **Krishnadasa.**— For a long time, the desire to eat and drink was unconquerable. It gave me constant and severe pain to control. Its pride and power abated after the vision of Vishnu, and the appetite vanished at the taste of the honeyed juice in the feet of Hari. (at the enjoyment of pleasures afforded by a contemplation of Hari).
 
-
-
 ** मीनांकः—**वयमद्याप्याम्रेडितपठनैः प्रमाणलक्षणवाक्यार्थाध्ययननिष्टाः शब्दजालमोहिताः पारोक्ष्येणापि भगवन्तं न स्मरामः। अयं तु साक्षात् दृष्ट्वा श्रीरमगमस्तुवि तत्पदांबुजं॥
 
 ** सौम्यः—** जन्मान्तरेष्वनेनाभ्यस्तानि नाम शास्त्राणि॥
@@ -4718,8 +4315,6 @@ O joy, rare indeed is the sight of juvenile ascetics like these, shining like in
 **Sumati**.— (To himself) The word 'Royal sage' is a second ground of hope.  
 **Soumya**.— It is rumoured that his father is suffer-
 
-
-
 ** कृष्णदासः**—नाधुनैव मत्पिता चित्तभ्रांतः। यदा स्वीचकार भार्याद्वयं तदैवोन्मादः स्पष्टः॥
 
 ** सुमतिः**—(स्वगतं) अयमेव बाल इत्यनेन निश्चीयते। शृणोम्युत्कण्ठाकारणं। स्वगृहगमनाय स्याच्चिन्ता॥
@@ -4738,8 +4333,6 @@ ing from a deranged mind. This news may be the cause.
 **Sumati**.— (To himself) From this it is established that this is the boy. I will listen to the cause of grief. He may be anxious to return home.  
 **Soumya**.— (To Krishnadas) Then what is the cause of your uneasiness ?  
 **Krishnadasa**.— Before I was born, my father saw Vishnu the giver of Heaven (Moksha) ; and he contented himself with praying for a son, just as I under similar circumstances got the position of Dhruva. My family appears suffering under a curse, by reason of which, neither by me nor by my father Uttana pada, was Heaven (Moksha) secured, not. withstanding a personal vision of Lakshmi's
-
-
 
 **ययाचे केवलं सूनुं  
 यथाऽहं ध्रुवमण्डलम्॥ २२० ॥**
@@ -4767,8 +4360,6 @@ Lord. This grief incessantly troubles me. We have gathered enough of flowers. Le
 joy; wiping aside my tears when the hands get steady, O Dhruva, I shall hug you, my sister's son, to my bosom.(The boys look with surprise)
 
 **Krishnadasa**.— (apart) Soumya, I understand that this is Sumati my maternal uncle. Hold the
-
-
 
 रिति ज्ञायते। धर क्षणं तुलसीपेटकं। यावदेनमभिवादये॥
 
@@ -4806,8 +4397,6 @@ Tulasi basket for a moment, while I render him obeisance: (aloud) uncle, I prost
 
 **Sumati**.— They live, but are plunged in an ocean of grief.
 
-
-
 ** ध्रुवः—**
 
 **आशापाशश्शास्ति मनीषां**  
@@ -4838,8 +4427,6 @@ Tulasi basket for a moment, while I render him obeisance: (aloud) uncle, I prost
 **Dhruva**— My separation !! It is wonderful !! Does my father remember me?
 
 **Sumati**— Not only does he remember, but thinks of
-
-
 
 पठति भवन्नाम। अयं वियोगज्वरः सर्वथाऽक्षमः कालहरणस्य॥
 
@@ -4872,8 +4459,6 @@ you incessantly, and keeps repeating your name. This fever of separation cannot 
 
 **Dhruva**.—That virtuous lady knowing the philosophy of the scriptures, and devoting herself to the service of Him who rules the husband's heart, will be happy with the consolation that chastity itself is a son.
 
-
-
 ** सुमतिः—**जनन्युदरस्नेहः इयानिति भवता नावगम्यते॥
 
 **सदा शय्यागतो भूपो  
@@ -4900,8 +4485,6 @@ The king who is bedridden, is always agitated on your account. She wants you not
 
 She sings your lovely life and ponders overyour lotus-face incessantly. The lovely woman is fading away, recalling your
 
-
-
 **म्लायति वामा स्मृत्वा गात्रं  
 पायति हित्वा बालविचित्रं॥२२५॥**
 
@@ -4924,8 +4507,6 @@ features to memory, and feels withered at theseparation from her wonderful boy. 
 She rushes forward in every direction in theboundless woods, and repeatedly questionseven the trees about her darling. She lookslongingly for you, in every direction on theroads, and pants, and faints, and despairs,for ever.
 
 (*Seeing tear-drops in the boy's eyes*) Dhruva,let us return to the city.
-
-
 
 ** ध्रुवः—** मम गुरोर्नारदस्याज्ञां लब्ध्वा तेन सहायास्यामि॥  
 ** सुमतिः —** (जनांतिकं) वनचर, गत्वाग्रतः वद राजानंसुतो दृष्टः आयास्यति माचिरमिति॥
@@ -4959,8 +4540,6 @@ and will return soon.
 
 **Prathoodara.—** No debtor repays a debt withoutdifficulty. If a suit be filed in a court of
 
-
-
 ** भानुमतिः—** धान्यवाणिज्यमपि सममेव। निषिद्यायां बहुपतितं धान्यमौल्यं। नास्ति विक्रेता, नापि क्रायिकः॥
 
 ** पृथूदरः—** तर्हि किंक्रियतेऽद्य। यस्मिन्कस्मिन्वा मां सहायभूततया समांशतया स्वीकरोत्वावुत्तः॥
@@ -4980,8 +4559,6 @@ justice, one has to guard the doorway ofpleaders for a full year. Then the judge
 **Bhanumati.—**Recently I began a new trade ingold and rubies. They say that there willbe great profit in it.
 
 **Prathoodara.—** So also, fear of king's punishment.It is only by theft of what is rubbed on thetouchstone, and by receipt of jewels producedby thieves, that profit has to be derived.
-
-
 
 **भानुमतिः—** व्यापाररहस्यं परंपराप्राप्तं। कथने किं प्रयोजनं॥ यदीछा मया युक्तो भवास्मिन्कार्ये॥
 
@@ -5009,8 +4586,6 @@ justice, one has to guard the doorway ofpleaders for a full year. Then the judge
 
 **Forester.—** I shall give it if a suitable price be got.
 
-
-
 **भानुमतिः—** पश्यामि दीयतां (इति हस्तयोर्गृहीत्वा निकषे संघर्षयति) भाव ईषत्कलुषितं भाति हाटकं। पश्य भवन्निकर्षे॥
 
 **पृथूदरः—** (तथा कृत्वा) ममापि तथैव भाति॥
@@ -5032,8 +4607,6 @@ justice, one has to guard the doorway ofpleaders for a full year. Then the judge
 **Bhanumati.—** If only there was not this dark line in the diamond, it would be simply invaluable. Sir, let this be in my box. After showing it to a few merchants, I will return it in the evening. Please call again. *(So saying he puts it in a box)*.
 
 **Forester.—** I will bring it in the evening. Let the necklace be returned.
-
-
 
 ** पृथूदरः—** भद्रमुख। न कोप्यस्ति शंकावकाशः। गच्छतु भवान्।
 
@@ -5073,8 +4646,6 @@ Then enters the town guard policeman.
 
 **Forester. —** Sir, just now I passed into his hands a
 
-
-
 ** भटः—** रे वैश्य कुत्र हारः।
 
 ** भानुमतिः—** नापश्यं कंचन हारं।
@@ -5113,8 +4684,6 @@ diamond necklace for sale. This thief denies the entrustment.
 
 **Forester.—** Not so. I brought good news to the king from his son in the forest. Being
 
-
-
 **काननगतात्कुमारात्  
 श्राव्यमुदन्तं समावहंत्वद्य।  
 स्वसुतागमनोदन्तात्  
@@ -5139,8 +4708,6 @@ pleased at the tidings that his son was returning, the king presented the neckla
 **Policeman.—**I am certain that you have both abetted this theft. So both of you should go *(to the station).*
 
 **Bhanumati.—**What is the good of going there? Let the necklace be shared by us.
-
-
 
 ** भटः—**दीयतां मेऽर्धभागः॥   
 ** भानुमतिः—** स्यादेतत् (इति ददाति).   
@@ -5173,8 +4740,6 @@ pleased at the tidings that his son was returning, the king presented the neckla
 
 **Policeman.—** Verily, a pile of hundred Rupees is what has never been heard of or seen by you. Let it be accepted quietly. *(Exent merchants and forester)*.
 
-
-
 (प्रविशति पटाक्षेपेण भटांतरः)।
 
 ** भटांतरः—** सखे त्वरय, त्वरय। युवराजा ध्रुवः पत्तनप्रवेशं करोति। सर्वे भटाः स्ववस्थानजागरूकाः अलंकृता भवत्विति राजशासनं॥
@@ -5202,8 +4767,6 @@ pleased at the tidings that his son was returning, the king presented the neckla
 *Palace. Enter King - Suruchi, Dhruva, Narada, Suneeti, and Sumati.*
 
 **Narada.—** OKing, receive the jewel of an heir-apparent, who is a prominent Bhakta of Narayana, a favourite of fortune, and a boy of great spiritual merit. Become blessed by this.
-
-
 
 **श्रीनाथपादभक्ताग्र्यं  
 श्रीमन्तं पुण्यपूरुषं।  
@@ -5234,8 +4797,6 @@ The lesson that you *(mother)* taught me by considering me unfit to set foot on 
 
 **Suruchi.—** God be thanked that you, a mere child as you are, have returned safe after a journey
 
-
-
 **निर्भाग्याहं सुमतिरहिता दुष्टवाचं बभाषे  
 पुण्यश्लोके परमतिरभूत् काकतालीयवाक्यात्॥२३१॥**
 
@@ -5261,8 +4822,6 @@ My father, pardon the boy who being easily offended, abandoned you his own fathe
 
 **King—** Darling! having wished to ascend the region of my lap, just for a moment, and failed in
 
-
-
 **धन्योऽहं तव सन्मुखं तु सुतनो बष्पाकुलाभ्यामहो  
 नेत्राभ्यामिह संददर्श विहितः पुत्राज्जयो मे पितुः॥२३३॥**
 
@@ -5284,8 +4843,6 @@ the attempt, you have soared to the exalted height of Dhruva's planet, there to 
 Mother, living with me and the King, quite easy in mind, there will be no occasion at all hereafter for you to wash your hands with tears.
 
 *(Suneeti embracing her darling over and over again*
-
-
 
 **पूर्वं काननजीवनं परिभवात्पत्युर्वियोगे तदा  
 बीजप्राशनपूर्वमस्य जननं कान्तारगत्यागतिं।  
@@ -5314,8 +4871,6 @@ At first a residence in the forest, away from the husband and neglected by him,�
 I will at once seat you on the lap of the King, as on that account, you grieved in the forest, suffering from humiliation.
 
 *(does as stated),*
-
-
 
 ** सुमतिः—**
 
@@ -5346,8 +4901,6 @@ I will at once seat you on the lap of the King, as on that account, you grieved 
 
 **Sumati.—** The world congratulates you on your fortune, O King of wonderful merit. As for me, to serve you is my duty, a servant and brother-in-law as I am.
 
-
-
 ** राजा—**
 
 **सज्जनानां क्रमाद्भूरि  
@@ -5377,17 +4930,6 @@ I will at once seat you on the lap of the King, as on that account, you grieved 
 *\[Exeunt.*
 
 *![](../books_images/U-IMG-1723309665Screenshot2024-08-10223705.png)*
-
-
-
-
-
-
-
-
-
-
-
 
 \]
 

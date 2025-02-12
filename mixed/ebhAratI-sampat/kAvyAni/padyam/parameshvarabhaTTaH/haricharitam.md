@@ -16,33 +16,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1NjU5NjMwODk
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **PREFACE**
 
 THIS edition of ***Haricarita*** is based on a single manuscript of the work in the Adyar Library; it now bears the Shelf No. 21-P-26. It was entered under ***Jyotiṣa***in the Catalogue of the Library, Part II, P. 56*b*with the Shelf No. 40-B-26, and bears the title **ज्योतिषसूत्रश्लोकाः**. When Pandit V. Krishnamachari was examining the manuscripts of the Library for preparing the Alphabetical Index of the Manuscripts, published already as No. 45 in 1944, this manuscript was identified as a ***Kāvya,*** and was there entered with the correct title on p. 152 as No. 7461.
 
  When I had the occasion to examine the manuscript of ***Sumanoramaṇī***, a commentary on the ***Meghasandeśa***, it was discovered that the author of that commentary, Parameśvara of Payyūr, was the author of a work with this title. So Pandit Krishnamachari undertook to prepare an edition of the work which, having regard to the importance of the author, I felt should be made available to scholars. I suggested to him that he may add a very brief commentary in Sanskrit on the poem. Now it appears in that form. The text is being published serially in the Adyar Library Bulletin from May 1947 (Vol. XI, part 2). It is
-
-
 
 now issued as a separate book in the Adyar Library Series.
 
@@ -52,8 +34,6 @@ now issued as a separate book in the Adyar Library Series.
  It is a palm-leaf manuscript in Malayalam script. It is about eight inches long and one and a quarter inch wide, with three quarters of an inch margin on the left and a quarter of an inch margin on the right. There are, on an average, eight lines in a page with an average of forty letters a line. There are two holes for the string in the middle of the sheets nearly three inches from the margins, and in the lines which border the holes, there are fewer letters. It is written on both the pages. There are nineteen folia, and the work ends on page 19*b*in the middle of the fourth line. The writing is inked. After the end of the text with : **हरिचरितं समश्नुते**, there is the following without any inking: **इति हरिचरितं समाप्तम् । शुभमस्तु** which brings it to the close of the line. The rest of the page is left blank.
 
  The manuscript begins : **हरिः श्रीगणपतये नमः** । **अविघ्नमस्तु**on the first page of the first folio. The handwriting is very clear, in bold, round letters. The manuscript is in a good condition of preservation. On the sixth
-
-
 
 folio, there is only one line on the second page, whichends with : **नाविद्धः पादे वा** (verse 78). Then it is continued on the first page of the seventh folio, the whole of the rest of the second page of the sixth folio being left blank; I do not know why it is so left blank. Three folios, Nos. 15, 16 and 17 are slightly injured with a tear near the left side hole, due to being eaten by white ants. This is the only injury to the manuscript, and this has not affected the text, to any great extent.
 
@@ -68,19 +48,13 @@ and then the letters **न**to **प्र**for the numbers 1 to 8 being given b
 
  There is a blank folio in the beginning and in the end. On the first page of the blank sheet in the beginning, there is written : **ज्योतिष सूत्र श्लोक** in three lines across the page, in ordinary writing ink, whichI identify as the writing of Pandit R. A. Sastri. Since the work begins with : **गीर्नः श्रेयः** which is the first of the 248 ***Vākyas*** of the moon's position, used in South India, I can understand how the mistake in the Title arose. In 1928 when I was issuing the Catalogues, I had to depend on the list then available. The mistake continued till the manuscripts were more closely examined recently.
 
-
-
  When I examined the ***Sumanoramaṇī*** and wrote a note on it in the Adyar Library Bulletin in February, 1945, I had with me only a transcript of the workfrom the Palace Library of Trivandrum, which did not mention either the name of the author specifically, or the other work of his, namely, this ***Haricarita.*** So the Alphabetical List of Manuscripts in the Adyar Library, published in 1944, did not contain the name of the author of this work. But I conjectured that Parameśvara must be the author of the ***Svaditaṅkaraṇī*** etc., and my conjecture became true. Two months later, I came across two other palm-leaf manuscripts of the ***Sumanoramaṇī*** from which I definitely found that Parameśvara the author of the ***Sumanoramaṇī*** was the author of ***Svaditaṅkaraṇī*** etc. and that he had also written a poem called ***Haricarita***. I have mentioned the name of this poem in my article on Payyūr Bhaṭṭas in the Journal of Oriental Research, Madras, in September 1945. I even started on an edition of the ***Sumanoramaṇī***, but gave up the idea when I found that the work was being undertaken for edition from Trivandrum.
 
  The author of the poem is a scholar hailing from Malabar. So he must have known the ***Vākyas*** as they were current in Malabar at his time. I do not know what amount of liberty he has taken in writing this poem taking each of the ***Vākyas*** *a*s the beginning of each of the verses. I notice some divergence in reading. The ***Vākyas*** are even now current in Malabar. They are used in determining the position of the moon
 
-
-
 day after day. I knew them when I was a little boy, studying the rudiments of astronomy along with my other preliminary studies in the field of Sanskrit according to the traditions of my Royal Family. I am giving at the end the list of the ***Vākyas*** exactly as they are now being used in Malabar. Whatever the differences, their numerical values are not altered. So I presume that the author took the liberty only to adapt the ***Vākyas*** for the poem. The ***Vākyas*** give three numbers, namely, the ***Rāśi,*** the ***Tithi*** (30th part of a ***Rāśi***) and the ***Aṁ**ś**a*** (60th part of a ***Tithi***, called***Ili*** in Malabar). The ***Vākyas*** must be read from right to left, in noting the corresponding numbers. Thus the first two syllables note the ***Ili***, which is the last (in the extreme right) in the numbers. The next two indicate the ***Tithi***; the rest, if any, indicate the***Rāśi***. Even in these, the first letter shows the unit. place and the next the place of tens. I have given the numerical values of the ***Vākyas*** in the list that is appended.
 
  When the particular ***Vākya*** for a specific day has to be ascertained, the usual method is that the***Vākya*** number for the first day of each month is given in the Malabar Almanacs, and we add the number of days that have expired, to get at the ***Vākya*** for that day. The ***Vākya*** number is generally given in the form of the local notation which follows the decimal system. So we can easily get at the day's ***Vākya*** by eliminating the hundreds and tens and then counting the units that remain. For this, we must know the
-
-
 
 ***Vākyas*** in groups of ten. I have given the beginning of the first ***V**ā**kyas*** in such grouping, which is also taught to students in Malabar. There I have added the first and the last ***V**ā**kyas***, though they are not taught. We start with the eleventh and end with the 241st. Since there is difference in the numberings of the verses and of the***V**ā**kyas*** on account of the fact that there are five ***V**ā**kyas*** for which there are two verses corresponding to each, thus bringing the total number of verses to 253 for the 248 ***V**ā**kyas***, I have given the corresponding verse number for the***V**ā**kyas*** in this second list, noting where and what the difference is.
 
@@ -89,8 +63,6 @@ day after day. I knew them when I was a little boy, studying the rudiments of as
  Much is now known about the author and his family, that have become famous among modern research scholars in recent times. The following are the places where there is information about the Payyūr Bhaṭṭa family and the various members who have contributed to Mīmāṁsā and Poetry in Sanskrit :
 
  **1.** Sphoṭasiddhi edited by Pandit S. K. Ramanatha Sastri, Madras University Sanskrit Series No. 6; Sanskrit Introduction by the editor and English Introduction by Dr. C. Kunhan Raja.
-
-
 
 ** 2.** Tattvabindu edited by Prof. V. A. Ramaswami Sastri, Annamalai University Sanskrit Series No. 3; Introduction by the editor.
 
@@ -108,8 +80,6 @@ day after day. I knew them when I was a little boy, studying the rudiments of as
 
  When I was checking up the ***Vākyas*** with the verses, I noticed that there are a few places where some revision is necessary. They relate to verses where there is a difference in the matter of the numerical values of the letters between the ***Vākyas*** and the beginnings of the verses. I am adding a note on them in the Introduction that follows. I have prepared a full list of the metres employed by the poet,
 
-
-
 and the variety of metres is something that is really striking.
 
  The poem is, naturally, a very artificial one and Pandit Krishnamachari must have had a really trying time to reconstruct the text and prepare a Sanskrit commentary, having only a single manuscript at his command. But he has done his work with admirable ability. Pandit K. Ramachandra Sarma of the staff of the Adyar Library helped him in preparing the edition and in passing it through the Press. The Vasanta Press has also done the work with their usual mastery of the technique in printing in all its aspects. I hereby express my hearty thanks for all of them on behalf of the Library.
@@ -118,8 +88,6 @@ and the variety of metres is something that is really striking.
                      *C. KUNHAN RAJA**
 
 20th February, 1948.
-
-
 
 **CONTENTS**
 
@@ -136,15 +104,11 @@ and the variety of metres is something that is really striking.
 | List of Decimal Groups of the Vākyas  |
 | List of the Rāśi Rounds in the Vākyas |
 
-
-
 **INTRODUCTION**
 
 THE ***Haricarita*** is a small poem of 253 verses dealing with the story of Śrīkṛṣṇa. Such a work was not known till veryrecent times. Even the name was not known, to say nothing of the manuscript. The manuscript was remaining unidentified in the Adyar Library for a very long time. It is not possible to say when the manuscript came into the Library. The manuscript was noted in the Classified Catalogue of the Library published by me in 1928. It was entered as a work on Astronomy. After examining the manuscript, I find that it must have been acquired through Pandit R. A. Sastri, in whose handwriting I note the entry of the name of the manuscript on the blank folio in the beginning. The name is there entered as **ज्योतिषसूत्रश्लोक**, evidently due to the fact that the work begins with **गीर्नः श्रेयः**which is the first of the ***Vākyas*** used for determining the position of the moon day after day. Now it has been identified as ***Haricarita*** and the author has also been identified as Parameśvara of Payyūr House in Malabar.
 
  It was in 1944 that a manuscript of the ***Sumanoramaṇī,***a commentary on the ***Meghasandeśa*** by Parameśvara was brought to my notice as being deposited in the Palace Library at Trivandrum (Descriptive Catalogue, Vol. VIII, pp. 3020-21, No. 1875), and I asked for a copy which was immediately supplied to me. Based on this I wrote a short note on the work in the Adyar Library Bulletin in February, 1945. When
-
-
 
 I had occasion to visit Trichur, Cochin State (Malabar) two months later, I was able to secure a palm-leaf manuscript of this work from a friend, and also a transcript of the work prepared by the late Panditaraja K. Rama Pisharoti, taken from a palm-leaf manuscript in Nareri. Mana. I examined both and I found that the palm-leaf manuscript represented a recension different from the copy I had from Trivandrum, being slightly longer and that the transcript from Nareri Mana was still another recension, being longer than the recension of the palm-leaf manuscript.
 
@@ -167,8 +131,6 @@ From this similarity I conjectured that Parameśvara, the author of the ***Suman
 **अनुदिनमभिनवरूपा सुमनोरमणीव जगति जयतितराम् ।  
 हरिचरितकाव्यसहभूर्व्याख्यासौ मेघदूतस्य ॥**
 
-
-
 **मन्त्रब्राह्मणसूत्रवित्कृतमतिः शास्त्रे च कौमारिले  
 कर्ता न्यायसमुच्चयस्य कणिकाव्याख्याप्रणेता कविः ।  
 उत्पत्तिं त्वघमर्षणप्रवरजाद्गौर्यामृषेराप्तवान्  
@@ -183,8 +145,6 @@ Thus it was found that there was a specific entry about the author of the ***Sum
 
  In the Payyūr Family in Malabar, six generations of scholars have been identified from references in their works.
 
-
-
 They were: Ṛṣi, Parameśvara, Ṛṣi, Parameśvara, Ṛṣiand Parameśvara. Of these we know nothing about the three Ṛṣis. But the three ParameśvaraS were great authors. It is the first Parameśvara, the author of ***Svaditaṅkaraṇī,*** who has written this ***Haricarita.*** His mother was Gaurī, and he had his education under one Śaṅkara and one Bhavadāsa, the latter being his uncle, as is known from the concluding verses in the ***Sumanoramaṇī*** cited above. He had a son named Vāsudeva, who is the author of the various ***Yamakakāvyas***. His grandson Parameśvara wrote the works like the commentary on the ***Sphoṭasiddi***, called the ***Gopālikā***, the commentary on the ***Tattvabindu*** of Vācaspatimiśra, and the commentary on the ***Nītitattvāvirbhāva*** of Cidānanda. His grandson Parameśvara wrote the commentary on the ***Jaiminīyasūtras***. Fuller accounts of these various members of the family and their works can be had from the sources I have already mentioned in the Preface and there is no need to deal with the points again here.
 
  I must confess that at this stage, all that we known is that Parameśvara, the author of the ***Sumanoramaṇī*** has written a work called the ***Haricarita.***There is nothing to ***prove*** that the present work is that ***Haricarita***. The last verse in this poem and the colophon give only the name of the work as ***Haricarita***. It is rather strange that there is no mention of the author, when practically in all the works of the Bhaṭṭas of Payyūr, there is some information about the author. In the fourth verse of the poem, there is the passage:
@@ -192,8 +152,6 @@ They were: Ṛṣi, Parameśvara, Ṛṣi, Parameśvara, Ṛṣiand Parameśvara
 **अमायिनैतत् परमेश्वरेण कृतं हि दृश्यं बहुशो विशुद्धम ।**
 
 as the second half, which implies also that this work was composed by Parameśvara, though such a construction has no
-
-
 
 relevancy in the context. It may be a veiled reference to the author.
 
@@ -215,8 +173,6 @@ The work ends.
 इह श्रीमत्कौमारिलपरमशास्त्रेऽथ च मया  
 व्यधायीदं दुर्गागुरुजनमहानुग्रहजुषाम् ॥**
 
-
-
 **भवेत् सुखं वर्यगुणेह गोपाल्यसौ चिरं मत्प्रभवत्वगेता ।  
 दिव्यप्यमेयर्षिवरादृता सन्नुता नमः श्रुत्यटवीशिवायै ॥**
 
@@ -230,8 +186,6 @@ The work ends.
 क्षणादृतं कर्तुमिवात्मना हरिः सुखेन चासूयत भोजकन्यया ॥**
 
  This is the fourth ***Vākya*** and, as such, it is only a very small portion that is missing. The first ***sarga*** ends with the ***Vākya* तद्वैरं प्रियायाः** (54) at the story of Kāliya. The second ***sarga*** ends with the ***Vākya* तुलासंप्रत्यया** (109) at the story of Sāndīpani. The third ***sarga*** ends with the ***Vākya***
-
-
 
 **रामा गीयते**(124) at the story of Jarāsandha. The whole poem ends as :
 
@@ -249,8 +203,6 @@ At the end of every ***sarga*** there is the colophon **इति श्री�
 
  What is striking is that just as in the case of the***Haricarita*** there is no mention of the name of the author in the body of the work and there is no reference either to the Goddess Gopālikā. In all the works by the members of the Payyūr family, Gopālikā is uniformly mentioned. This omission in both the ***Vākyāvali*** and ***Haricarita*** creates a doubt regarding their authorship, and we have to accept the identity of the authorship of the ***Haricarita*** and of the
 
-
-
 ***sumanoramaṇī*** with this limitation. In the ***Sumanoramaṇī*** also there is no reference to Gopālikā. But its relation to the Payyūr family is determind by its relation to the commentary on ***Nyāyakaṇikā.***
 
 *** ***Thus we have the following evidence at our disposal for fixing the authorship of the work. The names of the works are identical. In verse 4, there is a veiled hint of Parameśvara as the author of the work. Some member of Parameśvara'sfamily has written two works on the same model, taking the ***Vākyās*** as the beginning of the verses in the works. From these evidences, I conclude that the ***Haricarita***mentioned in the ***Sumanorama**ṇ**ī*** is the ***Haricarita*** now being issued.
@@ -258,8 +210,6 @@ At the end of every ***sarga*** there is the colophon **इति श्री�
  The Payyūr Bhaṭṭas have their home now at a place called Porkalam, about 16 miles to the North West of Trichur in the Cochin State, Malabar. Uddaṇḍa speaks of the Bhaṭṭas of Payyūr both in his ***Kokilasandeśa*** and in his ***Mallikāmāruta***, in very high terms and in the former, he definitely mentions the village as Porkalam (*Raṇakhala*). Por in Malayalam means battle.
 
  Regarding the date of the author, there is considerable room for further investigation. Uddaṇḍa is associated with one or the other of the Parameśvaras who have been identified, in the Payyūr Family. Uddaṇḍa is also associated with Chennās Nārāyaṇan Nambūdiri, the author of the ***Tantrasamuccaya.*** The ***Tantrasamuccaya*** bears the Kali Year 4529 (***Nanda-Nayana-Iṣu-Ambhodhi***). which corresponds to 1428 A.D. But there is nothing to defintely associate Uddaṇḍa with the author of the ***Tantrasamuccaya***; and if there is any evidence, it is what goes against such association; for he does not mention such a person when he describes the places nearby in his ***Kokilasandeśa***, an omission which
-
-
 
 is rather strange when he describes the Payyūr Bhaṭṭas immediately after. Even if Uddaṇḍa is associated with the author of the ***Tantrusamuccaya,*** there is again nothing to associate him with the Ṛṣis and the Parameśvaras who have been definitely identified as the authors of the various works known now to us. Uddaṇḍa simply mentions a Parameśvara, and he does not mention any special work.
 
@@ -269,8 +219,6 @@ is rather strange when he describes the Payyūr Bhaṭṭas immediately after. E
 
  The ***Sumanoramaṇī*** is essentially a criticism of Pūrṇasarasvati's***Vidyulḷatā***. Pūrṇasarasvatī has written a ***Sandeśa***called the ***Haṁsasandeśa***, published as No. 129 in the Trivandrum Sanskrit Series in 1937. Here the heroine sends a***Haṁsa*** to give a message to Śrīkṛṣṇa in the ***Vṛndāvana.***The message starts from Canjeevaram and the messenger has to take the route to the South, and turning Cape Comerin, he passes through Malabar and then to the North. Only two temples in Malabar are described in this ***Sandeśa***. There is another ***Sandeśa*** called the ***Cakorasandeśa***. Here the Heroine sends a ***Cakora*** in search of her husband, who might have gone to Vedāranya. The message starts from
 
-
-
 Chidambaram and the route is through the South, round Cape Comerin and through the whole of Malabar. Here every possible temple in Malabar is described. The verses are also very remeniscent of the verses in the ***Haṁsasandeśa.***The Deity in Vedāraṇya, the destination, is Gopālikā.
 
  Now, Gopālikā of Vedāraṇya is the family deity of the Payyūr Bhaṭṭas. Considering the relation of the ***Sumanoramaṇī*** to the ***Vidyullatā***, the relation of the ***Cakorasandeśa***to the ***Hamsasandeśa*** and the mention of Gopālikā of Vedāraṇya in the ***Cakorasandeśa***, there is a strong case to assume that the ***Cakorasandeśa*** is also a criticism rather veiled, on ***Pūrṇasarasvati's*** ***Haṁsasandeśa***, and that the author of the ***Cakorasandesā*** is also the author of the ***Sumanoramaṇī,***who is a Parameśvara of the Payyūr Bhaṭṭa Family.
@@ -279,23 +227,17 @@ Chidambaram and the route is through the South, round Cape Comerin and through t
 
  The ***Cakorasandeśa*** shows certain features that are noteworthy. Near Guruvayur (three miles to the south of it), there is a village called Palayur. There is a Christian Church in that village now. According to the local tradition, the Church was established by St. Thomas the Apostle. There are traditions about many more Churches having been established by the Apostle, in Malabar. In the ***Cakorasandeśa***, exactly in that place there is mention of a very
 
-
-
 prosperous town with a Śiva temple. According to tradition, the Brahmins of that village were converted to Christianity by St. Thomas, the Apostle; and even now the Malabar Brahimns consider themselves polluted when they step into that village, and they do not even sip water when they are in that village. The point is that the ***Cakorasandeśa*** was written before the tradition of the establishment of the Church by St. Thomas the Apostle began in Malabar.
 
  Just to the South West of Tirunavaya on the banks of the Pānani river, there is a Brahmin house called Tirumanaśśeri Koṭṭa. They belong to the Panniyūr village, about ten miles to the East of Tirunavaya. The Brahmins of this village are supposed, according to Malabar tradition, to have burnt the idol of Varāha in the village temple, and as a consequence they are held to be outside the regular Brahmin Community of Malabar, and they have certain social disabilities. In the ***Cakorasandeśa***, there is mention of this house and there is no mention of such a social disability attached to the family. This idicates that the ***Cakorasandeśa***was prior to the event of burning the Varāha idol in the temple.
 
  In a Malayalam work called ***Uṇṇ**i**yaccicaritam***, there is a mention of Dorasamudra, as a very prosperous city. Dorasamudra was the Capital of the Hoysalas, and it was sacked by Mali Kaffar early in the fourteenth century. I do not know whether the reference is to the City as it was then known or only as it was known from earlier traditions. If it is a reference to the City in its days of prosperity, then that Malayalam work must be put to earlier than the beginning of the fourteenth century. In this work, there is mention of the event of the burning of the Varāha idol in the temple of Panniyūr.
 
-
-
  Now, this is the position. The author of the ***Cakorasandesa*** lived before the burning of the Varāha idol at Panniyūr. In a work earlier than the first half of the fourteenth century, there is mention of this event. But Parameśvara quotes from lexicons, like Halāyudha and Yādavaprakāsa's ***Vaijayantī***. We do not know definitely that the author of the ***Cakorasandeśa*** is the same as the author of the ***Haricarita***, and we do not also know whether the reference to Dorasamudra in the Malayalam work is a reference to contemporary condition of the city or to what was known from tradition. There is a case to presume that the ***Haricarita*** belongs to the latter part of the thirteenth century.
 
  I am not giving final conclusions after investigation; I am only putting forward certain hypotheses for helping future investigation. We must go beyond the author of ***Tantrasamuccaya***, Uddaṇḍa, and Manavikrama and Manaveda of Calicut and other facts, for investigating the date of the Payyūr Bhaṭṭas. The various ***Yamakakāvyas*** of Vāsudeva may reveal some facts about them. But the ***Kāvyas*** are very difficult, found in extremely corrupt manuscripts without a duplicate copy or commentary for help. I am not able to say anything more on the problem of the date of the work, at present.
 
  Among the various devices resorted to by ancient poets for bringing about a novelty and attraction for their works, one was to take some definite bits from well-known works and write a new poem with such bits incorporated in appropriate places in their own verses. We have a very large number of instances for this devices. The ***Candradūta***, where the last lines of the verses in the ***Meghasandeśa*** were incorporated, had been partly published in the Adyar Library Bulletin for October, 1947 (Vol. XI, Part 3). In
-
-
 
 Meghavijayagaṇi's ***Devānandābhyudaya*** and ***Śāntinātacarita***, the beginnings of ***Śiśupālavadha*** and ***Naiṣadha*** are taken up in composing the verses.
 
@@ -304,8 +246,6 @@ Meghavijayagaṇi's ***Devānandābhyudaya*** and ***Śāntinātacarita***, the 
  The ***Vākyas***, of which the list is given at the end of the edition, are used in South India for calculating the position of the moon day after day. The ***Vākyas*** are notations of numbers according to the system current in South India. Each letter of the alphabet has a certain numerical value, and sentences are constructed according to such numerical values, to denote them.
 
  The system of notation current in South India is as follows: Every syllable stands for a number. The vowels following a consonant have no value. The letters from **क** to**झ** and from **ट** to**ध** stand for 1 to 9. Avowel not preceded by a consonant and the letter **ञ** and **न**indicate cipher. **प**to **म**stand for 1 to 5. **य**to **ह**stand for 1 to 8. In a conjunct consonant, it is the last consonant that has a value ; others do not have any value. A consonant that is not followed by a vowel too has no value. The ***Visarga*** and the ***Anusvāra*** too have no value. In the South Indian languages there is a cerebral **ल**which is assigned the value of 9; **क्ष**is a separate letter and has the value of **ष**which is 6. Though this is obvious, yet on account of the distinct nature of **क्ष**
-
-
 
 as a separate letter, and not as a mere combination of **क**and **ष**, it is assigned this value, independently. There are other letters in South Indian languages which do not find a place in Sanskrit; but they have no numerical value assigned to them in this notation scheme.
 
@@ -327,8 +267,6 @@ as a separate letter, and not as a mere combination of **क**and **ष**, it is
 
  Take again the seventh ***Vākya***: **गृह्याः सुरा राज्ञा**. Here the values will be :**गृ= 3, ह्याः=1, सु=7, रा =2, रा=2, and ज्ञा=0,**
 
-
-
 **ज्ञ**is made of **ज**and **ञ** ; the second, being **ञ,** stands for zero. The whole ***Vākya*** has the value: 022713. A zero at the end has no value at all; for making the ***Vākya*** endowed with a meaning, sometimes such a zero is added.
 
  The 22nd ***Vākya*** is : **अभवच्छ्राद्धम्**. This starts with **अ** , and this **अ** has the value of zero.So the whole ***Vākya***stands for the number: 92440
@@ -337,15 +275,11 @@ as a separate letter, and not as a mere combination of **क**and **ष**, it is
 
  These ***Vākyas***represent three separate sets of numbers. They are the ***Rāśi***, the ***Tithi*** (30th part of a ***Rāśi*** )and ***Ili*** (60th part of a ***Tithi***, so called in Malabar). The ***Vākyas*** as given in the verses are slightly different in reading from what is current in Malabar.But there are many places where the numerical values are the same . In the beginning of the commentary, the***Vākyas*** are not given as they are. When there is an extra syllable **न** added, the value does not change, in so far as its value, namely, 0 in the extreme left makes no change in the number. But if the beginning does not give the whole
 
-
-
 ***Vākya*** or gives a few more letters then the value changes. It is such cases that are indicated by an asteric at the end, in the list of ***Vākyas***. The***Vākyas*** have three to six syllables. The first two represent the ***Ili***; the next two (or one if there is only one more) represents the ***Tithā***. Whatever remains will represent the ***Rāśi***. It is the completed ***Rāśis*** that are noted. So when it is the first ***Rāśi***, there will be only zero in that place. When it is in the last ***Rāśi***, then there will be 11 in that place. There cannot be 12 in that place, since when the twelfth is completed, the whole round is also finished, and it is again the first ***Rāśi*** in the next round; so there will be only zero for ***Rāśi***, which may or may not be given in the ***Vākya***.
 
  The first ***Vākya*** is **गीर्नः श्रेयः**,which gives zero for ***Rāśi***, 12 for ***Tithi*** and 3 for ***Ili***.It shows that the position is the 3rd ***Ili*** in the 13th ***Tithi***in the first ***Rāśi***. The next is **धेनवः श्रीः** which gives zero again for ***Rāśi***, 24 for ***Tithi*** and 9 for ***Ili***. That shows that the position is the 9th ***Ili*** in the 25th ***Tithi*** in the same ***Rāśi***.The third ***Vākya*** is **रुद्रस्तु नम्यः**, which gives 1 for ***Rāśi***., 6 for ***Tithi*** and 22 for ***Ili***. That shows that the position has changed to the 22nd ***Ili*** in the 7th ***Tithi*** in the 2nd ***Rāśi***. There are some further computations needed for calculating the exact position of the moon. But this is the general scheme. I do not propose to enter into an elaborate explanation of the exact nature of such computation. It would be noted that the position changes by about 12 to 14 ***Tithis*** day by day . There are variations. And one whole round is finished in about 27 days. In two of the 9 rounds, it is 28 days. We all know that the moon finishes a round among the constellations in a little over 27 days.
 
  The exact***Vākya***for a particular day is calculated from the Kali date for that day. This can very easily be found
-
-
 
 out. There is a particular formula for that computation. It is given in the following verse.
 
@@ -360,8 +294,6 @@ It means **द्युगणं** (Number of Kali days) **अमितयवव
 
 ![](../books_images/U-IMG-1701712943l.jpg)
 
-
-
  In the Malabar Almanac, the ***Vākya*** number is given by the notation **माधुर्य**which is 195, according to the scheme already described.
 
  The following is the method of finding out the exact ***Vākya*** for a particular day, when the ***Vākyasaṅhyā*** (***Vākya***number) is given for the first day of the month. Now, on the first of Mārgaśīṣa, the ***Vākyasaṅhyā*** was **माधुर्य,** which is 195. From the decimal list we know that **जनोमान्**closes a hundred and starts 101. Then after **जनोमान्**, we start as **कवि, पाप**ect., and come to **तावत् ,** which finishes 190 and is the 191st. Then we start with **तावदत्र कुर्युः**, **ग्रामो नष्टः**etc., up to **भानुः सद्यःस्यात्** which is the 195. For subsequent days of the month, we add the number of days elapsed for that date, like 14 for the 15th and then make a similar calculation. We know thatjust as **जनोमान्** finishes the first hundred, **सलि** finishes the second hundred. This is the use of the decimal list given in the index.
@@ -369,8 +301,6 @@ It means **द्युगणं** (Number of Kali days) **अमितयवव
  Thus, on the 15th of January, 1948, which is the 1st of the Mārgaśīrṣa month in the Malabar calendar, the position of the moon has to be calculated from the 195th Vākya, which is **भानुः दद्यः स्यात्** ।This gives the ***Rāśi*** as 1, ***Tithi*** as 17 and ***Ili*** as 04. The position of the Moon had to be calculated from the first ***Vākya***, namely, **गीर्नः श्रेयः**195 days prior, *i.e*., 5-7-47 (23rd Mithuna), and it will have to be so calculated from the last ***Vākya***, **भवेत् सुखम्** 53 days after, which is 8-3-48 (25th of kumbha).
 
  It is these***Vākyas*** that have been taken up by the author as the beginnings of the various verses. By looking into the ***Vākyas*** it would be noticed that they are not at all literary in framing. And it is a real feat to construct a poem with such bad pieces to start with. One cannot get a less artistic combination of words than these ***Vākyas*** for a literary work.
-
-
 
 And I must also confess that the poem is very uninviting in the beginning. But as one proceeds, one gets into a more congenial atmosphere. The crudeness of verses disappear, the style gets more melodious and even the ideas become more poetic. I note a few as instances :
 
@@ -402,8 +332,6 @@ The sarcastic touch in the following is also quitenoteworthy :
 **कुलानां कर्मणामेतद्गोपानां किं नु युज्यते ।  
 यत्स्वभार्याजनं हित्वा पुरस्त्रीकामुको भवान् ॥ १५३ ॥**
 
-
-
 The following is an example of a very charming narration :
 
 **धाराभिः श्रममिव तोयदःप्रजानां  
@@ -419,8 +347,6 @@ The following is an example of a very charming narration :
 
  There are a few verses where the beginnings do not tally with the ***Vākyas***, and the difference affects the numerical values also. The numbers represented by the letters, now accepted in the text, are impossible in such places. I would have concluded that the author took only the first few letters of the
 
-
-
 ***Vākyas*** and that the letters where there is such a difference need not be taken as part of the ***Vākya***. Pandit Krishnamachari has adopted such a view and has given a plausible reading. The real difficulty is that in the manuscript we have the reading that is identical with what is wanted for the correct numerical values. So I am suggesting some sort of a meaning for such verses retaining the manuscript reading that suits the ***Vākya*** notation.
 
  Verse 173. Here the fifth syllable must be **स्युः,** which has the numerical value of 1. **जुः**has the numerical value of 8. Here the ***Rāśi*** that has elapsed is *°*1, and so the number 8 will not fit in. The following interpretation is offered.
@@ -433,8 +359,6 @@ The following is an example of a very charming narration :
 
  The second half is clear.
 
-
-
  Verse 249. Here the fifth and sixth letters must be **कपेः**, which have the numerical value of 11. If it is **कवेः**, the value will be 14, which is not possible in this column. In Malayalam, the letters **व**and **प**are more or less identical and they cannot be distinguished at all in manuscripts. I offer the following interpretation, accepting the manuscript reading which is the ***Vākya*** reading also, and which is the correct notation in the place.
 
  **हरिः कृष्णः।यस्य ध्वजाग्रं कपेःहनूमतः अनिधानं न । यस्य ध्वजाग्रे हनूमान् सदैव वर्तते इत्यर्थः। तेन अर्जुनेन निमित्तेन । निमित्तमात्रं भव सव्यसाचिन्—इति गीतावचनम् । क्षमाभरं हर्तुंभूमेर्भारमपनोदयितुम् । अत्र राजसूयावसरे । कल्यंशे अक्षद्यूते बीजमयोजयत् । अर्जुनस्य कौरवैःसह युद्धं साधयितुं राजसूयावसरे कृष्णःअक्षद्यूताय बीजमुवाप इति फलितोऽर्थः ॥**
@@ -446,8 +370,6 @@ The following is an example of a very charming narration :
  In 20 *c*. the MS. reading for **तु** is **च**, which can be retained.
 
  In 50 *a* The reading can be **यदामात्य** for **यदमात्य** as found in MS. There is again **यतः**which is redundant whether we accept **यत्** or **यदा**. So we must change the **यतः** at the end of the
-
-
 
 first line into **तदा**. The ***Pratīka*** in the commentary notes the word as **यदा,** though the word is not taken up in the commentary itself.
 
@@ -473,8 +395,6 @@ first line into **तदा**. The ***Pratīka*** in the commentary notes the wo
 
  In 243 the MS. reading **सवधूवरम्**at the end correct as an ***Avyaya***.
 
-
-
 **LIST OF VARIANT READINGS**
 
 THE Manuscript variants are given separately, and not as foot-notes at the bottom of the respective pages, as I have been doing in the case of many of the previous publications. Opinion has been expressed about this practice, in reviews of my publications, that it would be more convenient for readers to compare the variant readings with the text if the former are given as foot-notes below the pages. But I adopt the same practice even here for two reasons. There are many people who do not want such information. They want only a readable text. For those who can, and who want to, make use of the information, it is not a great difficulty to make the comparison when the materials are given in separate pages, with proper numberings for reference. Further, the plan that I adopt has this advantage that it gives the entire material in a single place, and, as such, any of the manuscript peculiarities can easily be traced from such a collected presentation.
@@ -495,8 +415,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **17.** *b* **कन्मषापहा**.This is Malabar spelling and also pronunciation.
 
-
-
  **20.** *c* **एनं च रोहिण्युदरं.** Folio 2*a* ends here.
 
  **21.** *c* Twoinches left blank between **वचना**and **नि**as leaf isbad for writing.
@@ -515,8 +433,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **30.** This verse is also not given here and it is a repetition of the same ***Vākya***.The next (No. 31) is what follows and what is marked 29. No. 30 comes after 29 which itself follows 31, and 30 is marked 31. So the order is as follows in the MS. :—
 
-
-
 |            |                            |              |
 |:----------:|----------------------------|:------------:|
 | No. in MS. | Beginning                  | No. in Text. |
@@ -530,8 +446,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **32.** *a* Folio 3*a* ends **नीले ने** *d* **वाहामध्यं पदद्वयं स्फुरतादिति .**
 
 ** 36.** *c* **दुन्दुभिरवास्तेन,**
-
-
 
  **37.** *a***अत्रं.** Then **त्र** deleted with a horizontal stroke above and **न्न**written below. The ***Anusvāra*** which follows, remains.
 
@@ -575,8 +489,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 ** 76.** *d* Folio 6*a* ends with the verse and the No. 76.
 
-
-
 ** 77.** *a***एवाय**. Then ***Anusvāra*** added below line after **य**. *c***धिमङ्मया**. Then **म**after **धि**scored off.
 
 ** 78.** *a***पादेवा**ends the line and the whole page is left off in 6*b*
@@ -619,8 +531,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 ** 110.** *c* After **बह**and **ए** mark of **वो**the letter वstarted and scored and is written after blank for a syllable as leaf is bad for writing.
 
-
-
 ** 111.** *d.* **स्वयंबरे.**
 
 **112.** Verse number given as 102 and the figure 10 added above later, not inked.
@@ -652,8 +562,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
  **126.** *b* **मगमन् गोपिकाजने** *d* **स्वयमूर्तिभिः** Then **ई** mark added in **स्व** later, not inked
 
  **128.** *a* **एतः.** Then **आ**marked added below line between **त** and ***Visarga***.*d* **सख्यभिवाख्यापयन्मुनिश्रेष्ठैः**This should be the reading.
-
-
 
 ** 129.** *b***महानतिबलो वृषा***d***कृष्णः कृष्णतरो**. It looks as though one loop in the ***Visarga*** is scored making it an ***Anusvāra***. There is no verse number after this.
 
@@ -693,8 +601,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 ** 153.** *a* Space blank for an inches between **मे**and **तत्**as leaf isbad for writing.
 
-
-
 ** 154.** *a* Space blank for two inches between **स्व**and **रा**as leaf is bad for writing.
 
 ** 155.** *a* Some letter started and scored before **ध***c***दृष्टवानप्सु**. This should be the reading (see com.)
@@ -729,8 +635,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 ** 175.** Folio 13*b* ends with this verse and the verse number.
 
-
-
 ** 176.** *a* What is written is **नोग्रो दारो**where **र**is written in the opposite direction, right to left. There is a small bit worm-eaten in **द** and I am not sure if it is written as **द**or **भ**. There is no number at the end.
 
  **177**. *b* **कक्षेष्वलभ्यस्य** *d* **त्युच्चैक्षिपन्तं.**
@@ -759,8 +663,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 ** 196.** *b* Folio 15*a* ends with **द्विजन्म. द्विजन्मता प्रपद्य जग्मतुर्गुरूम्**. Then ***Anusvāra*** corrected into **न्**. *c, d* **श्चतुर्दिनैः रब्धिकुक्षि**. Then the ***Visarga*** after **नै**deleted with a horizontal stroke above. *d***र्भकेस्पया.**
 
-
-
  **197.** *c* **लब्धावाप्य प्रेतनाधान् कुमारं** *d* The last part of **स्तौ** is worm-eaten.
 
 ** 198.** *a* Below **वि**thereis **व**written again. *b***सन्दैशैस्तं.** The letter **च्च**in **च्चो**partly worm-eaten. *d***द्ध** partly worm-eaten.
@@ -788,8 +690,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 ** 218.** *c***हिता**mostly worm-eaten *d***कृष्णास्वयंबरं**.
 
 ** 219.** *b* The second **ए**mark in **चै**mostly worm-eaten. **विधिवभदभि**. Then **भ**after **व**deleted with a horizontal stroke above. *d* **इ** mark in **स्त्रि**worm-eaten. **मवदतालोच्य**. Then **द** written below **त**; not inked.(The verse number to be read correctly as 219).
-
-
 
 ** 220.** *a* **स्तनुमपनृपभुक्तां**. Then **पनृ** after **नुम** deleted with horizontal strokes above and **नु**written below **नृ.** **ति**written after **कथय**below line. *b* **मि**partly worm-eaten.
 
@@ -827,8 +727,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 ** 242.** *b***नारदेतम्**.Then **रि**added below line between **दे**and **त**.
 
-
-
 ** 243.** * a* Folio 18*b* ends with this ***Pāda*** in **च्चै**and next folio begins **स्सालै** d **सवधूवरम्.**
 
  **246.** *a* **योगोज्ञानीनस्यै**. It has to be **नस्यै** which will be 0 and 1 respectively noting the figure 10. **तस्यै**will be 16 which is impossible.
@@ -863,8 +761,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **औ**is added to a consonant by an **ए** mark before and a doubled **आ**mark after; sometimes only the latter is given.
 
-
-
  In 199 there is only **सोप्यायात्रयोविंश**;one **त**is dropped; similarly **जगद्रुहां** in 45, where one **द**is dropped.
 
  In 200 there is **वशेऽभूत् छस्त्रग्रामः.**
@@ -879,11 +775,7 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 **RAJA**
 
-
-
 **विषयानुक्रमः**
-
-
 
 |                                    |            |
 |:----------------------------------:|:----------:|
@@ -908,8 +800,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 |           पूतनाया आगमनम्           |     ५६     |
 |             तस्या वधः              |     ५७     |
 |             शकटासुरवधः             |     ५९     |
-
-
 
 |                                                                                              |            |
 |:--------------------------------------------------------------------------------------------:|:----------:|
@@ -940,11 +830,7 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 |                                 सुदाम्ना रामकृष्णयोः पूजनम्                                  |    १७९     |
 |                                श्रीकृष्णेन कुब्जाया अनुग्रहः                                 |    १८०     |
 
-
-
 **DETAILED CONTENTS**
-
-
 
 |                                                           |            |
 |:---------------------------------------------------------:|:----------:|
@@ -976,8 +862,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 |                        भद्राविवाहः                        |    २२४     |
 |                     लक्ष्मणादिविवाहः                      |    २२५     |
 
-
-
 |                                                                                 |            |
 |:-------------------------------------------------------------------------------:|:----------:|
 |                                    **विषयः**                                    | **पद्यम्** |
@@ -1003,8 +887,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 |                            बलरामेण वल्वलासुरस्य वधः                             |    २५१     |
 |                                    फलश्रुतिः                                    |    २५३     |
 
-
-
 **श्रीः**
 
 **हरिचरितम्**
@@ -1026,8 +908,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **धेनवः श्रीति** ।धेनवः श्रीपतेः ईप्सिताः इष्टाः।तस्मात् तद्वपुःषु तच्छरीरभूतेषु वस्तुषु मध्ये धैनवं धेनुभावमेव आद्रिये । अन्यत् वस्तु नाद्रिये इति आत्तधीःगृहीतनिश्चया भूः तेन रूपेण गत्वा स्वयं भर्तुः पार्श्वे वर्तमानैव विधि भारखेदं दुर्जनवहनजन्यं स्वकीयं श्रमम् अब्रवीत् । **२**
 
-
-
 **रुद्रस्तु नम्यो हरिरद्य नम्यः प्राहेति दैवे विशये स्म वेधाः।  
 नम्यो हरिर्मर्त्यशरीरिणैते दैत्या हि वध्याः कृतमर्त्यभावाः॥ ३ ॥**
 
@@ -1047,8 +927,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 नरकस्तमपि स काले सुत्राम्णोक्तो हनिष्यति त्रिदशाः॥ ६ ॥**
 
  **धनवान् पुत्र इति**। हे त्रिदशाः, अमुष्याःभूमेःनरको नाम यः पुत्रः भवतां प्रसिद्धैर्मूलधनैः धनवानभूत्, भवतां धनान्यपहृत्य स्वयं धनवानभूत्, तमपि सः हरिः काले योग्यसमये सुत्राम्णा इन्द्रेण उक्तःहनिष्यति। **६**
-
-
 
 **गृह्यासुराराज्ज्ञानस्य फलं तु स्वःस्त्रियोऽञ्जसा।  
 जनित्वा मुवि लीलाभिः स्वाभिराराध्य केशवम् ॥ ७ ॥**
@@ -1070,8 +948,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **दश सूनव इति**। एकस्य पितुरात्मा हि दश सूनवः इति दृश्यते। "आत्मा वै पुत्रनामासि" इति "दशास्यां पुत्रानाधेहि"इति च श्रुतेः। तथा त्वमेक एव सन् भूतानाम् अत्मभूतः विभुः ध्रुवश्च दृश्यसे। **१०**
 
-
-
 **होमस्य स्रुवमात्रेऽपि बहु तक्षाद्यपेक्ष्यते।  
 अन्ततः खलु यज्ञार्थास्तव तास्ता विभूतयः॥ ११ ॥**
 
@@ -1088,8 +964,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 नियुङ्क्ते वेदार्थे निखिलपुरुषार्थेखलु भवान् ॥ १३ ॥**
 
  **मुखं नारीणामिति**। नारीणां मध्ये मुखं प्रधानभूता भूः, तथा जलशिखिमरुद्व्योमककुभः अप्तेजोवाय्वाकाशदिशः, तथा मनः अनेहा कालः इति यत् पदार्थजातं वेदे उदितं तत् सकलमपि सृष्ट्वा तथा स्वनिश्वासं वेदं मुनिमुखात् उद्भाव्य प्रकटीकृत्य भवान् पुरुषान् निखिलपुरुषार्थे तत्तत्कामनानुगुण्येन धर्मार्थकाममोक्षाख्ये पुरुषार्थे वेदार्थे वेदप्रतिपाद्येअर्थे नियुङ्क्ते। तव जगत्सृष्टिः वेदप्रवर्तनमित्यादिकं सर्वमपि पुंसां क्षेममुद्दिश्यैव प्रवृत्तम्, न स्वार्थमिति भावः। **१३**
-
-
 
 **भवभग्नास्ते मर्त्या भवदभिमतकर्मकरणविमुखा ये।  
 त्वय्यर्पितकर्माणस्त्वामेव तु मुक्तसंशया यान्ति ॥ १४ ॥**
@@ -1111,8 +985,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 ** श्रेष्ठा सा कथनादिति**। कथनादेव कीर्तनादेव कल्मषापहा समस्तपापनाशनी सा देवकी नाम वसुदेवपत्नी श्रेष्ठा वर्तते। तस्याम् अहं शेषेण भवता मम शेषभूतेन, मच्छन्दानुवर्तिनेत्यर्थः। शेषेण नागराजेनानन्तेन सह जनिष्ये। **१७**
 
-
-
 **सौख्यस्यानन्दनो नन्दः पदं स्यां पुत्रिणामिति।  
 सपर्यांकुरुते कार्या सापि सिद्धफलाधुना ॥ १८ ॥**
 
@@ -1133,8 +1005,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 अन्विच्छतो भगवतो वचनानि देवी  
 सर्वंव्यधात् स च बलोऽजनि रौहिणेयः ॥ २१ ॥**
 
-
-
 ** श्रुत्वास्य युद्धेति**।रिपून्कंसादीन् युद्धे हननेन अन्यांश्च अक्रूरविदुरादीन् निजाद्भुतकथाभ्यसनेन अपापान् कर्तुम् अन्विच्छतः अस्य भगवतो वचनानि श्रुत्वा देवी चण्डिका सर्वंतथैव व्यधात्। स चानन्तश्च रौहिणेयः रोहिणीपुत्रः बलःबलरामनामा अजनि। **२१**
 
 **अभावे श्राद्धमसतां जीवन्तं रोहिणीवशात्।  
@@ -1153,8 +1023,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 पशव्यं यत्र रक्षोभिर्भक्ष्यते गोपगोकुलम् ॥ २४ ॥**
 
  **द्रुमा धन्या नेयतेति**। यत्र व्रजे तृणतोयेन तृणैर्जलैश्च पावनं पशव्यं पशूनां हितं च गोपगोकुलं रक्षोभिः भक्ष्यते, तत्र द्रुमा वृक्षसंपत् इयता
-
-
 
 कंसहननमात्रेण धन्या न स्यात्। अतः कंचित्कालं व्रजे स्थित्वा द्रुमाणां धन्यतां संपाद्यानन्तरं स हन्तव्य इति भावः। **२४**
 
@@ -1175,8 +1043,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 **स्वं रक्षा राज्यस्य स्वस्य पुमान् वेदरक्षितः पुरुषः।  
 वेदाः प्रणवस्त्वं च प्रणवमयस्त्वमसि देव सर्वमिदम् ॥ २८ ॥**
-
-
 
  **स्वं रक्षा राज्यस्येति**। स्वं, धनम्, कोश इति यावत्। स्वस्य स्वकीयस्य राज्यस्य रक्षा। पुमान् रक्षिता भूपालः। तथा वेदरक्षितः पुरुषः।वेदाः,प्रणवः, प्रणवस्वरूपः त्वमिति सर्वमिदं हे देव त्वमेवासि। त्वमेवएतद्रूपेण वर्तस इत्यर्थः। **२८**
 
@@ -1200,8 +1066,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 श्रीवत्सश्रीमणिवरकृतावासमेतच्च वक्षो  
 मध्यः पादौ तव मयि विभो शश्वदेते स्फुरन्तु ॥ ३१ ॥**
 
-
-
 ** नीले नेत्रे इति**। हे विभो तव नीले नेत्रे, मकरविलसत्कुण्डलौ मकराकारविराजमानकुण्डलयुक्तौ कर्णपाशौ रमणीयौ कर्णौ, अक्षीणः उन्नतः घोणः नासिका, शितिमणिकृतादर्शदृश्यौ गारुत्मतरत्नमयादर्शवत् सुन्दरौ गण्डौ कपोलौ, श्रीवत्सस्य तन्नामकस्य लक्ष्मणः श्रिया मणिवरेण कौस्तुभेन च, अथवा श्रीवत्सेन श्रीमणिवरेण कौस्तुभेन च कृतावासम् एतत् वक्षः, मध्यः, पादौ इत्येते मयि शश्वत् अविच्छिन्नं स्फुरन्तु। **३१**
 
 **नीले नेत्रे विपुले घोणश्रवणं विकासि वदनमिदम्।  
@@ -1218,8 +1082,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 **शशिवन्द्यस्य वदने पुत्रस्य पितरौ गिरा।   
 स्मारितार्थावथामुष्य मानुष्यक्रमपश्यताम् ॥ ३४ ॥**
-
-
 
 ** शशिवन्द्यस्येति**। वदने शशिना वन्दनीयस्य चन्द्रमसमपेक्ष्याधिकसुषमवदनयुक्तस्येत्यर्थः, पुत्रस्य गिरा स्मारितार्थौस्मारितपूर्वजन्मवृत्तान्तौ पितरौ अमुष्य मानुष्यकं मनुष्यरूपम् अपश्यताम्। **३४**
 
@@ -1242,8 +1104,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 तत्रत्येषु न शेकुर्निद्रार्पितमन्धकारमपनेतुम् ॥ ३८ ॥**
 
  **रुष्टास्ते नागानामिति**। नागानां नाथस्य ते फणामणिप्रभानिकराःरुष्टाः सन्तःतत्रत्येषु व्रजे विद्यमानेषु जनेषु निद्रार्पितम् अन्धकारं बाह्यवस्तुज्ञानासमर्थ्यं तमश्च अपनेतुं न शेकुः। **३८**
-
-
 
 **धिगन्धः किल लोकोऽयं निद्रयेति स्वयं फणी।  
 फणैः सितच्छत्रविधिं व्यधान्निष्क्रामणोत्सवे ॥ ३९ ॥**
@@ -1270,8 +1130,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **बालो मे केशेति**। केशमुरार्यंशः ब्रह्मरुद्रविष्णूनामंशभूतोऽयं बालोऽपि मे अपरःन बालः इति स्मरन् क्षितिपः कंसःदूताहूतः सन् कन्याम् अश्मनि प्राक्षिपत्। असौ कन्या तु गगनमगात्; अश्मन्यपतित्वैवाकाशमगात्। **४३**
 
-
-
 **कुशधारिणामिव कुलं भवद्विधैर्व्यथतां तवापि हृदयं दयोज्झितम्।  
 धरणितले क्वचन धाम वैष्णवं भवतो वधाय समपादि दैवतैः ॥ ४४ ॥**
 
@@ -1289,8 +1147,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 **स राजा प्रीत एतस्य पितरौ तावमूमुचत्।  
 यौ विमुक्तौ भवनैतौ किं नु कंसः करिष्यति ॥ ४७ ॥**
-
-
 
 ** स राजा प्रीत इति**। स राजा कंसः प्रीतः सन् एतस्य पितरौ तौ देवकीवसुदेवौ अमूमुचत् निगलबन्धात् अमोचयत्। यौ भवेन संसारेण विमुक्तौ एतौ देवकीवसुदेवौ कंसः किं नु करिष्यति, न किमपीत्यर्थः। **४७**
 
@@ -1313,8 +1169,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 राक्षसदैत्यसमूहः प्रससार प्राणिनां हरन् प्राणान् ॥ ५१ ॥**
 
  **सेनावान् राजेति**। आशु शीघ्रमेव, अविचारितमेवेत्यर्थः। राजाज्ञां गृहीत्वा राक्षसदैत्यसमूहःसेनावान् सन् सकले भुवःतले प्राणिनां प्राणान् हरन् प्रससार। **५१**
-
-
 
 **धीराः संनद्धमतयो राज्ञे कृतकरार्पणाः।  
 नन्दादयो ययुर्घोषं नन्दनत्राणतत्पराः॥ ५२ ॥**
@@ -1339,8 +1193,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **ताः प्रजाःप्रज्ञाः स्युरिमा जनन्योऽस्य समन्ततः।  
 विषं दास्ये तथापीति ददती पूतना गता ॥ ५६ ॥**
 
-
-
  **ताःप्रजाःप्रज्ञाःस्युरिति**। ताः एता इत्यर्थः ; प्रजाःप्रज्ञाः स्युः विवेककुशलाः स्युः, अतो मम कपटकर्म जानीयुरित्यर्थः। अस्य बालसंघस्य समन्ततः इमाः जनन्यःवर्तन्ते ; अतोऽत्र न गन्तव्यम्। तथापि विषं दास्ये इति विषं ददती पूतना गता ; व्रजमिति शेषः। **५६**
 
 **अश्वानां को योग्य आभीरवर्गे व्याघ्राः प्राप्ताः किं नु सिंहाश्च गोष्ठम्।  
@@ -1363,8 +1215,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **ग्रामस्तस्येति**। तस्य रवात् व्रजोकसां ग्रामः त्रासमाससाद।
 नन्दस्तु बालकस्य शुभमाशंसमानःहरिनामानि जपन् बालकं जग्राह। **६०**
-
-
 
 **जन्मजरारहितममुं वात्यातनुरहरदथ तृणावर्तः।  
 गगनात्तमपि शिलायां निपात्य तस्योरसि स्वयं व्यहरत् ॥ ६१ ॥**
@@ -1391,8 +1241,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **प्रमोदकरतां पित्रो रक्षन्तौ रामकेशवौ।  
 क्वणत्किङ्किणिकावेतौ जातौ प्रारब्धरिङ्खणौ ॥ ६५ ॥**
 
-
-
  **प्रमोदकरेति**। पित्रोः यशोदानन्दयोः प्रमोदकरतां रक्षन्तौ; प्रमोदं जनयन्तावेवेत्यर्थः। एतौ रामकेशवौ क्वणत्किङ्किणिकौशब्दायमानाभिः कट्यां पादयोश्च बद्धाभिः क्षुद्रघण्टिकाभिः युक्तौ प्रारब्धरिङ्खणौ आरब्धचङ्क्रमणौ जातौ। **६५**
 
 **शशाङ्कानुगतां लक्ष्मीं बिभ्रतौ वदनाम्बुजे।  
@@ -1416,8 +1264,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **शीलप्रियस्त्वङ्गनानामतीवायं ततो न ताः।  
 इयतापि यदा चेलुस्तदाज्यादीन्यनाशयत् ॥ ६९ ॥**
 
-
-
  **शीलप्रिय इति**। अयम् अङ्गनानाम् अतीव शीलेन प्रियः। ततः ता इयतापि कर्मणा यदा न चेलुःकृष्णविषये चलितमनसो न बभूवुरित्यर्थः; तदा आज्यादीन्यपि अनाशयत्। **६९**
 
 **वेलातरव इवैतौ नद्येव मयार्जुनावुलूखलतः।  
@@ -1439,8 +1285,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 कर्षन्नुलूखलं तेन स बभञ्जार्जुनद्रुमौ ॥ ७३ ॥**
 
  **स व्यालो नास्तीति**। यः सः व्यालःदुष्टः अत्र नास्ति, एनं चानयामीत्युक्त्वा सा ययौ। सः कृष्णः उलूखलं कर्षन्तेन उलूखलेन अर्जुनद्रुमौ बभञ्ज। **७३**
-
-
 
 **ते बाला भ्रान्तात्मतया चुक्रुशुस्तस्य येऽनुगाः।  
 तौ कुबेरसुतौ शापकृच्छ्रादुच्छ्रायमापतुः॥ ७४ ॥**
@@ -1465,8 +1309,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **नाविद्धः पादे वा बाह्वोर्वा नूनमेष यदि जीवेत्।  
 इत्थं व्याकुलमनसा मात्रा प्रापे निरामयः पुत्रः॥ ७८ ॥**
 
-
-
  **नाविद्धःपाद इति**। एषःपादे वा बाह्वोर्वा नाविद्धःअनाविद्ध इत्यर्थः। नूनम् असंदिग्धं यदि जीवेत्, जीवेद्वा; इत्थं व्याकुलमनसा मात्रा निरामयः पुत्रः प्रापे प्राप्तः। **७८**
 
 **उत्पलं निधिरसौ दृशा श्रियामाननेन कमलं कदर्थयन्।  
@@ -1490,8 +1332,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **हीनप्रायो नटजन इति**। गोपीजनैः सह विपिने संगीतमनुतिष्ठता हरिदयेन रामकृष्णरूपेण नटजनो हीनप्रायः प्रायशो हीनोऽभवत। **८२**
 
-
-
 **धिगश्वःखिन्नोऽयमहो मृषेत्यास्फालितैर्मुहुः।  
 अश्वादिलीलां कुर्वाणैः क्वचिद् व्यहरतामुभौ ॥ ८३ ॥**
 
@@ -1511,8 +1351,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **जातु रामं विना गत्वा न्यपतत्कालियह्रदे ॥ ८६ ॥**
 
  **गर्ह्यास्यादिति**। इयं यमुना तृषार्तानां पिपासापीडितानां गोगोपकुलादीनां गर्ह्या निन्दनीयामा स्यात् मा भूदित्यात्तधीः कृतनिश्चयो हरिः श्रीकृष्णःजातु कस्मिंश्चित्समये रामं बलभद्रं विना स्वयमेक एव गत्वा कालियह्रदे कालिययुक्ते ह्रदे न्यपतत्। **८६**
-
-
 
 **मान्यो लोकेषु नः कृष्णो नीपाग्रादुग्रपन्नगे।  
 सलिले पतितो मोहादिति गोपा विचुक्रुशुः॥ ८७ ॥**
@@ -1534,8 +1372,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **लाभो धान्यस्येति**। अस्माकं यो धान्यस्य लाभःस सर्वोऽपि ; समग्रमपि लब्धं धान्यमित्यर्थः। विप्रसात्कृतःब्राह्मणाधीनः कृत, ब्राह्मणेभ्यो दत्तो भविष्यतीति निश्चित्य नन्दःआकुलः सन् गोपैः सह कालिन्द्या यमुनायाः कूलं तीरमभ्यगात्। **९०**
 
-
-
 **अङ्कूरं निरयस्यापि न परं लौकिकापदाम्।  
 शोषयिष्यति योऽस्माकं तमृते जीवनं वृथा ॥ ९१ ॥**
 
@@ -1555,8 +1391,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 शिरसि निष्ठुरपादविघट्टनैर्गलितदर्पमथाकृत दर्पकम् ॥ ९४ ॥**
 
  **गमनकालमिति**। अथ माधवःश्रीकृष्णःअमुष्य कालियस्य निजगृहात् यमुनाह्रदात् अधिवारिधि वारिधिं प्रति गमनकालं निवेदयन् शिरसि कालियफणामण्डले निष्ठुरपादविघट्टनैः कठोरैः पादताडनैः दर्पकं दृप्तं तं कालियं गलितदर्पम् अकृत। **९४**
-
-
 
 **दयावान् रोगिणममुं भर्तारं त्वं प्रयच्छ नः।  
 इति स्वीकृत्य तं पत्न्यो ययुरब्धिं विहायसा ॥ ९५ ॥**
@@ -1578,8 +1412,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **तन्मम नामेति**।रामो बलरामःअवन्यां भुवि मम तन्नाम कृत्यमिति मत्वा भुवं प्राप्य गोपैः परिवृतः सन् तालवने तालवृक्षाणामरण्ये स्थितान् धेनुकादीन् रासभदैत्यान् रासभरूपिणोऽसुरान् अवधीत्। **९८**
 
-
-
 **दानानां क्रमकर्त्रैक्यनियमेच्छा कदर्यता।  
 इति तस्यानुगान् कांश्चिद्यमायादात्स्वयं हरिः॥ ९९ ॥**
 
@@ -1600,8 +1432,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **रत्नाङ्गनार्थेत्यादि**। विवादस्य परस्परवैरस्यालम्बनभूतं रत्नाङ्गनार्थदायादि विना वध्यान्, तथा अपरैः अन्यैः अवध्यान्, तथा भुवः अपध्यानपरान् पीडनचिन्तापरान्; असुरानित्यग्रिमश्लोकस्थेनान्वयः। **१०२**
 
-
-
 **रक्ष्या सा पार्थिवी नित्यं जनतेति व्रतादिव।  
 निघ्नतोरसुरान्नित्यमद्भुतेयं प्रगल्भता ॥ १०३ ॥**
 
@@ -1621,8 +1451,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 स्वयं जितोऽवहद्रामं क्षणाद् व्योम जगाम च ॥ १०६ ॥**
 
  **स वाजिराजवदिति**। सः प्रलम्बःजितःक्रीडायां यः पराजितः सः, ......................................निकलाई अफ्रिका
-
-
 
 प्राह। अनन्तरं स्वयं जितःसन् रामं बलरामम् अवहत्। क्षणादेव व्योम आकाशं जगाम च। बलरामं स्कन्धे धृत्वोत्पत्य आकाशे जगामेत्यर्थः। **१०६**
 
@@ -1646,8 +1474,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **दम्भा नराः नष्टभया इति**। गोपालेषु मध्ये दाम्भिकाःनष्टभयाश्च बहवो वृषरूपैरसुरैः निहताः। ते वृषा अपि कृष्णेन मुष्टिभिर्निहताः। **११०**
 
-
-
 **विकलानां कार्याप्तिर्नैव बलेनेति वल्लवा जग्मुः।  
 हरिरपि नीलां कन्यामादायागात् स्वयंवरे लब्धाम् ॥ १११॥**
 
@@ -1667,8 +1493,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 इत्यमुं धर्षयामास वर्षेणामर्षितो वृषा ॥ ११४ ॥**
 
  **धिगन्ध इति**। अयं व्रजः गोकुलस्थो जनः सर्वोऽपि अन्धःदृष्टिशून्यः; युक्तायुक्तविवेकरहित इति यावत्। धिक् ; तमिति शेषः। यो व्रजस्थो जनः अस्मन्निन्दाफलं महेन्द्रस्य मम निन्दायां यत् फलं जायेत तत् न पश्यति। इति मत्वा अमर्षितःसंजातक्रोधो वृषा इन्द्रःवर्षेण वृष्ट्या अमुं व्रजं घर्षयामास पीडयामास। **११४**
-
-
 
 **कविः पुत्रोऽथ नन्दस्य सप्ताहं वामबाहुना।   
 वहन् महीधरं स्वेषां वर्षार्तिमहरत्प्रभुः॥ ११५॥**
@@ -1690,8 +1514,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **देयो हरस्येति**। पुरा क्रतौ यागे दक्षेण दक्षनाम्ना यजमानेनापि हरस्य भागो हविर्भागो देयः अभूत्। तेन हरेण तस्य दक्षस्य शिरः हृतम्। त्वया तु मे दर्पः हतः। **११८**
 
-
-
 **अशनपरः शिशुकः स्वां जननीमिव पीडयत्ययं गोपान्।  
 इति नूनं चक्रस्य क्रोधाच्चक्रे भवान्न लक्षं माम् ॥ ११९ ॥**
 
@@ -1709,8 +1531,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 **विशुद्धयोगिनामात्मा यथैव क्लेशसंक्षये।  
 घने लीने तथाकाशः स्वच्छायामभजत्पराम् ॥ १२२ ॥**
-
-
 
  **विशुद्धयोगिनामिति**। **क्लेशसंक्षये** सांसारिकजन्मजरामरणादिदुःखहेतुभूतकर्मरूपक्लेशानां संक्षये नाशे सति, संसारान्मोक्ष इत्यर्थः। यथा विशुद्धयोगिनाम्; विशुद्धे क्लेशास्पृष्टे परमात्मनि योगशीलानां महताम् आत्मा स्वच्छायां स्वाभाविकीं
 ज्ञानानन्दापहतपाप्मत्वादिगुणशोभां भजेत "परं ज्योतिरुपसंपद्य स्वेन रूपेणाभिनिष्पद्यते" इति श्रुतेः, तथैव आकाशःघने मेघे लीने अपगते सति परां स्वच्छायां स्वस्य स्वाभाविकीं नैर्मल्यगुणशोभाम् अभजत्। **१२२**
@@ -1730,8 +1550,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **पापोऽयं निशि नित्यशो निजगृहे शेते क्वचिद्वञ्चयन्  
 यो मां मारहतामसौ विधिवशादास्ते वनेऽस्यां निशि।**
 
-
-
 **याम्यद्येति मुहुः प्रणम्य शिरसा विष्णुं द्रुतायां हरे-  
 र्गीतौ तत्प्रतिशब्दवद्युवतयो यान्ति स्म तस्यान्तिकम् ॥ १२५ ॥**
 
@@ -1746,8 +1564,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 भोगानद्भुतरूपान् रासाख्यानन्वभूतकृष्णः॥ १२७ ॥**
 
  **भोगार्धं रामाभिरिति**। रामाभिः स्वस्मिन् रमणशीलाभिः गोपिकाभिः भोगार्धं कारयन् तथा कृष्णैःस्वयं परिगृहीतरूपैः बहुभिः कृष्णैःअर्धंच भोगस्यार्धभागं च कारयन् मायी एवमाश्चर्यचेष्टितः कृष्णः अद्भुतरूपान् रासाख्यान्रासक्रीडाख्यान् भोगान् अन्वभूत् "अङ्गनामङ्गनामन्तरे माधवोमाधवं माधवं चान्तरेणाङ्गना"इत्युक्तरीत्या अनुबभूव। **१२७**
-
-
 
 **रामा गीयत एताः कृष्णेन क्वेति दत्तकर्णपुटाः।  
 सततं तद्नतचित्ताः सख्यमिवाख्यापन्मुनिश्रेष्ठैः॥ १२८ ॥**
@@ -1769,8 +1585,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **लोलचक्रस्थेति**। सप्तहयस्य रवेःलोलचक्रस्थतुरगान्लोलचक्रे रथे बद्धान् तुरगान् सप्त सप्तसंख्याकान् तरसा वेगेन विजितान् कृत्वा ; सूर्याश्वापेक्षया
 
-
-
 अधिकवेगेन धावन्नित्यर्थः। अश्वः अश्वरूपधरःकेशी तन्नामा असुरःहरिं श्रीकृष्णमभिद्रुत्य आययौ। **१३१**
 
 **प्रागनिष्पदमप्येनं नरकेषु स्वकर्मभिः।  
@@ -1790,8 +1604,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 **सेनायाः क्रोधवान् भङ्गेनासुर्यस्तं न्ययुङ्क्त सः।  
 नन्दात्मजावानयेति स रथेन व्रजं ययौ ॥ १३५ ॥**
-
-
 
  **सेनायाः क्रोधवानिति।** सेनायाः अरिष्टकेश्यादिरूपसेनायाः भङ्गेन नाशेन क्रोधवान् कुपितः असुर्यःअसुरेभ्यो हितः सः कंसः तम् अक्रूरं नन्दात्मजौ रामकृष्णौ आनयेति न्ययुङ्क्त नियोजयामास। सःअक्रूरश्च रथेन व्रजं गोकुलं ययौ। **१३५**
 
@@ -1814,8 +1626,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **चक्रार्धंप्राज्ञा यस्यायूंषि ब्रह्मणां वदन्ति यतः।  
 जगदुदभूद्यस्य जगत्तादृशमन्तर्नतोऽस्मि तमनन्तम् ॥ १३८ ॥**
 
-
-
  **चक्रार्धंप्राज्ञा इति**। प्राज्ञाः यस्य चक्रार्धं ब्रह्मणामायूंषि वदन्ति। यतः जगदुदभूत्। तादृशमुद्भूतं जगत् यस्यान्तः वर्तते। तम् अनन्तं श्रीकृष्णं नतोऽस्मि। **१३८**
 
 **ता भार्याः पापोऽयं वत्सौ नयतीति मां व्रजे गोपानाम्।  
@@ -1834,8 +1644,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
  **गौर्नास्तीति**। अस्तिबुद्धेः ; अस्तीति प्रतीतेः। विषयः ; विषयभूता। गौः ; पृथिवी। इदं दृश्यप्रपञ्चस्य व्यावहारिकस्य सर्वस्याप्युपलक्षणम्।
 पञ्च भूतानि तद्विकारजातं च सर्वं किंचिदपि नास्ति; परमार्थतः सर्वाधिष्ठानभूतत्वद्भिन्नं
 
-
-
 नास्ति। एतत् सर्वसंप्रतिपन्नदृष्टान्तमुखेन द्रढयति— नभ इति। नास्तिबुद्धेर्विषयः; नास्तीति बुद्धेर्विषयः। नभःप्रसूनादि च; गगनकुसुमाद्यपि वस्तुतो नास्ति। परमार्थतो ब्रह्मभिन्नत्वेनासत्त्वे पृथिव्यादिपदार्थानां गगनकुसुमादीनां तुच्छानां चाविशेष इत्यर्थः। तथापि विश्वात्मनः प्रपञ्चरूपस्यास्य द्वितयस्यपृथिव्यादिभ्रमस्य गगनकुसुमादिभ्रमस्य च कर्त्रीं जननीम्। मायाम् ; अविद्याम्, तज्जनकप्रकृतिसंसृष्टिं वा। मयि ; विद्यमानामिति शेषः। त्वां प्रपन्ने मयि विषये इति वा, "मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते" इति भगवदुक्तेः। अद्य; अस्मिन्नेव क्षणे ; "तदैव मुष्णात्यशुभान्यशेषतः" इत्यभियुक्तोक्तेः। ध्वंसय ; अपुनरङ्कुरं यथा तथा नाशयेति प्रार्थना। **१४१**
 
 **मीनजोऽयं न मीनत्वे कूर्मत्वे नापि कूर्मजः।  
@@ -1848,8 +1656,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 कृष्णः कुर्यान्मयि प्रीतिं निमित्तानि तथा हि मे ॥ १४३ ॥**
 
  **दानानि नित्यमिति**। नित्यं दानानि यागान् वा कुर्वद्भिरपि पुरुषैः दुर्लभां प्रीतिं प्रसादं श्रीकृष्णः मयि कुर्यात्। तथा हि तदनुगुणानि निमित्तानि भाविशुभसूचकानि मे प्रादुर्भवन्ति। अत्र
-
-
 
 **“नाहं वेदैर्न तपसा न दानेन न चेज्यया।  
 शक्य एवंविधो द्रष्टुं दृष्टवानसि मां यथा ॥**
@@ -1880,8 +1686,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 विगीतवचनास्तु ते स्तुतिषु नैव ते शक्नुमः  
 प्रसीद नमसेति तौ प्रणतवानसावीश्वरौ ॥ १४६ ॥**
 
-
-
 ** क्षमास्तु नेति**। हे रमेश्वर, तव स्वरूपं प्रकाशयितुं न क्षमाः अक्षमाः सत्यः श्रुतिगिरः अञ्जसा सद्यः परं मूढतां विदधिरे। अत्र "यतो वाचो निवर्तन्ते। अप्राप्य मनसा सह" इति श्रुत्यर्थोऽभिप्रेतः। एवं सति विगीतवचनाःते वयं ते तव स्तुतिषु नैव शक्नुमः। अतो नमसा प्रसीद। इति वदन् असौ अरक्रूरः ईश्वरौ तौ रामकृष्णौ प्रणतवान्। **१४६**
 
 **लोलधीः पुत्रयोर्नन्दस्याभ्यामाश्लिष्ट एव सः।  
@@ -1893,8 +1697,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 कथितास्तेन विभाते प्रस्थितवन्तौ च तौ मधुराम् ॥ १४८ ॥**
 
  **ते रौद्रा नागाद्या इति**। राज्ञा कंसेन कल्पिताःहनने श्रीकृष्णहनने उपायभूता रौद्राःते नागाद्या कुवलयापीडाख्यगजाद्याः। आद्यपदेन चाणूरादयो गृह्यन्ते। तेन अक्रूरेण श्रीकृष्णाय कथिताः। यद्यपि सर्वशक्तेः श्रीकृष्णस्यैतत्कथनेन न कोऽपि लाभः, तथापि भगवद्विषये किंचित्कारं यथाशक्ति चिकीर्षन् विभीषणो राघवसंनिधौ रावणोदन्तमिव कंसस्यसंविधानं न्यवेदयदिति भावः। तौ च रामकृष्णौ विभाते प्रभाते मधुरां प्रस्थितवन्तौ। **१४८**
-
-
 
 **विलोमकुलमाबिभ्रदपि बाल्याद्वपुर्व्रजम्।  
 पाति स्म बहुशः कृष्ण भवान् दुःखत्रयार्दितम् ॥ १४९ ॥**
@@ -1920,8 +1722,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **कुलानां कर्मणामेतत् गोपानां किं नु युज्यते।  
 यत् स्वभार्याजनं हित्वा पुरस्त्रीकामुको भवान् ॥ १५३ ॥**
 
-
-
  **कुलानां कर्मणामिति**।स्वभार्याजनं हित्वा मधुरां गत्वा तत्रत्यपुरस्त्रीषु कामुको भवानिति यत् एतत् गोपानां कुलानां कर्मणां च किं नु युज्यते ? न युज्यत इत्यर्थः। **१५३**
 
 **श्रुत्वा स्वराणां प्रसरमिति स्त्रीणां हरिर्नरैः।  
@@ -1942,8 +1742,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **तुलार्थिनोऽर्थिनामाढ्याः कल्याणस्पर्शने नृणाम्।  
 त्वं मे सकलकल्याणं दत्तवानतुलं क्षणात् ॥ १५७ ॥**
 
-
-
  **तुलार्थिनोऽर्थिनामिति**। आढ्याःधनिनः अर्थिनां नृणां धनापेक्षिणां पुरुषाणां कल्याणस्पर्शने सुवर्णदाने तुलां तोलनायार्थिनो दृश्यन्ते। दातारःसुवर्णं तुलया तोलयित्वा तावत्परिमितमेवार्थिभ्यो ददति। हे भगवन्, त्वं तु मे क्षणादेव अतुलम् अनुपमम्, तुलयातोलनरहितं च। न तुला यस्येति विग्रहः। समस्तकल्याणं निखिलं श्रेयः काञ्चनं च मे मह्यं दत्तवान्। **१५७**
 
 **जित्वास्य रसनाद्यक्षाण्यनिशं वपुषो बुधाः।  
@@ -1960,8 +1758,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 जलेऽन्विष्य ददौ धात्रे तस्मै मत्स्याय ते नमः॥ १६० ॥**
 
  **षड्विधान्याहुरिति**। इत आरभ्य एकादशभिः श्लोकैर्भगवतो मत्स्यादिकान् दशावतारान् स्तौति। येषाम् ; त्रयीरूपाणां वचसाम् षड्विधानि शीक्षादीनि अङ्गानि आहुः।तानि त्रयीरूपाणि वचांसि यःभगवान् जले अन्विष्यप्रलयकाले जलप्लावितान् साङ्गान् वेदानन्विष्य। धात्रे ; हिरण्यगर्भाय। ददौ ;
-
-
 
 उपदिदेश। तस्मै ; तादृशं महोपकारं कृतवते। मत्स्याय ते ; मत्स्यरूपिणे तुभ्यम्।नमः अस्तु। **१६०**
 
@@ -1986,8 +1782,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **यानानि नो नय इति**। नृसिंहविषयकमेव पद्यान्तरमेतत्। यानानि नो; न संनिहितानि वर्तन्ते,। अर्थाश्च नये उपयुज्यन्ते। नाधुना। अतः मे अधुना
 
-
-
 यथाकथंचित् प्राणाःरक्ष्याः इति चिन्तयित्वा द्रवन् अरिःयेन नखैरेव हतः तं नृहरिं भजे। **१६४**
 
 **शिशिरे पानीयमिव प्रातरनार्तोऽसुराज्जगद्भिक्षाम्।  
@@ -2010,8 +1804,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **सत्येन श्रेयः स्यादिति**। नृणां सत्येन श्रेयःस्यात् इति हेतोः भूतानाम् अहितविधानमेव पापं, तेन गुरून्। "सत्यं भूतहितं प्रोक्तम्" इति भूतहिताचरणस्यैव सत्यलक्षणत्वात् भूतानामहिताचरणमसत्यमेवेति भावः। तादृशान्
 
-
-
 पापिष्ठान् मुसलपातशुद्धान् कृत्वा यः पुनः सत्ये भूतहिताचरणे न्ययुङ्क्त, अयं मुसली; बलरामःजयतु। **१६८**
 
 **मुखे श्रीर्वक्षसि च यस्यामूर्ता विग्रहिण्यपि।  
@@ -2031,8 +1823,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 **तैलजा नार्याभरणजन्या वा सुषमाखिला।  
 द्रुतं पौरैर्धृता तत्र वासुदेवदिदृक्षुभिः॥ १७२ ॥**
-
-
 
  **तैलजा नारीति**। तत्र पुरे वासुदेवदिदृक्षुभिः वासुदेवं द्रष्टुमुत्सुकैः पौरैः तैलजा सुगन्धितैलप्रसाधनजन्या नार्याभरणजन्यावा; नारीणामाभरणैर्जन्या वा या सुषमा परमा शोभा, सा अखिलापि द्रुतं शीघ्रमेव धृता। श्रीकृष्णसंदर्शनार्थं सर्वेऽपि पौराःस्वान् अलंचक्रुरित्यर्थः। **१७२**
 
@@ -2054,8 +1844,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **नोग्रो भारो राज्ञा चाणूरो योज्यतामनेन रणे।  
 इति पौरवर्णितगुणः पथि रजकमयाचताथ वसनानि ॥ १७६ ॥**
 
-
-
  **नोग्रोभार इति**। राज्ञा कंसेन रणे युद्धे अनेन सह उग्रः भारः असह्यभारवत् अत्युग्रः चाणूरः तदाख्यःमल्लः न योज्यताम्। इति पौरैः जनैर्वर्णितगुणभरितः सः श्रीकृष्णः पथि मध्येमार्गं रजकं कंसस्य वसनानि उपहरन्तं निर्णेजकं वसनानि अयाचत। **१७६**
 
 **धान्यस्य कालं नय मा वृथात्र कक्ष्येष्वलभ्यस्य कुरुष्व याच्ञाम्।  
@@ -2073,8 +1861,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **श्वानो दीनो वेति**। नः अस्माकं गृहान् गृहाणि ये श्वानः दीनो वा आर्तो वा आगताः ते प्राप्ताः सर्वेऽपि विष्णुबुद्ध्यापूज्याःइति पश्यन् सः सुदामा तौ रामकृष्णौ मालाभिः पूजयित्वा यावत्कल्पं ब्रह्मकल्पावसानपर्यन्तं तन्तुमत्तां संततिं श्रियं च लेभे। **१७९**
 
-
-
 **धवः कारवरूपाद्यैर्धन्ये त्वन्यां न यातु ते।  
 इति कुब्जां व्यधादृज्वीमथैष पथि संचरन् ॥ १८० ॥**
 
@@ -2089,8 +1875,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 स्वार्थानि कर्माणि तदागमिष्याम्युक्त्वेति तामाप स चापशालाम् ॥१८२॥**
 
  **गोशुद्धिकामा इति**। मर्त्याः जनाः गाः धेनूः गोशुद्धिकामाःगवां शुद्धिमुत्पादयितुकामाः स्पृशन्ति किमु? नैवेत्यर्थः। किं तु आत्मनां शुद्धिमुत्पादयितुमेव स्पृशन्ति। तथैव यूनां युवत्यां प्रवृत्तानि कर्माणि स्वार्थान्येव, न तु युवत्यर्थानि। अतोऽहं त्वया न प्रार्थनीय इत्यर्थः। यत एवं, तत् तस्मात् अहमेव पुनरागमिष्यामीति तां सैरन्ध्रीम् उक्त्वा सः श्रीकृष्णः चापशालाम् आप। **१८२**
-
-
 
 **दीनो वो ज्ञातिरपि श्राव्यो राज्ञेति चापरक्षिबलम्।  
 हत्वा चापच्छेदक्षुभितं तौ प्रस्थितौ हरी रथ्याम् ॥१८३ ॥**
@@ -2112,8 +1896,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **आज्ञा साध्येति।** कंसकृता सकला आज्ञा साध्या साधनीया; अस्माभिरिति शेषः। इत्येवम् आत्तनिश्चयाः कृतनिश्चया मल्ला द्वन्द्वयुद्धविशारदाः
 
-
-
 योधाः उदिते सूर्ये उदिते सति रङ्गं युद्धाय परिकल्पितं स्थानं जग्मुः। हस्ती च द्वारं जगाम। दिदृक्षवो जनाश्च मञ्चान् रङ्गस्थासनानि जग्मुः। **१८६**
 
 **नटस्यानन्दनस्याक्ष्णामिव कृष्णस्य रङ्गिणः।  
@@ -2134,8 +1916,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **नागरो युद्धमेतेन जनः पश्यत्विति प्रभुः।  
 स्वयमाहत्य भङ्क्त्वास्य प्रहारान् व्यहरच्चिरम् ॥ १९० ॥**
 
-
-
  **नागरो युद्धमिति**।नागरो जनः ; मधुरायां विद्यमानो जनः सर्वोऽपि। एतेन; गजेन सह। युद्धं पश्यतु इति मत्वा प्रभुः श्रीकृष्णः स्वयम् आहत्य; गजं प्रहृत्य। अस्य गजस्य प्रहारान् भङ्क्त्वा भग्नान् कृत्वा च चिरं व्यहरत् चिक्रीड। **१९०**
 
 **धीवशक्रोधतां चास्य भङ्क्तुंहस्ती तु नाशकत्।  
@@ -2153,8 +1933,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **धूली स्याद्राज्ञेति**। यःरङ्गः राज्ञा दृढः कठिनः कृतः, अस्मिन् रङ्गेपदा अर्दिते सति; नियुद्धसमये आवयोः पादताडनेन पीडिते सतीत्यर्थः। धूली स्यात्; प्रादुर्भवतु। इति जल्पन् चाणूरो मल्लःहरिणा हतः। इतरे; चाणूरादितरे मल्लाःमुष्टिकाद्याः आर्येण श्रीकृष्णाग्रजेन बलभद्रेण हताः। **१९३**
 
-
-
 **बाह्यवने योग्यमितो निःसारणमेतयोरिति क्षितिपे ।  
 क्रुध्यति तमपि निपात्य प्रासादाग्रादशातयत्कृष्णः॥ १९४ ॥**
 
@@ -2171,8 +1949,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 रब्धिकुक्षिमीयतुर्मृतार्भकेप्सया गुरोः ॥ १९६ ॥**
 
  **तावदत्र कुर्युग इति** । कुःभूमिः कृते युगे यथा; धर्मप्रचुरे कृतयुगे यथा अभवत्, तथा अत्र अस्मिन् युगेऽपि तावदभवत् साकल्येनाभवत् । "यावत्तावच्च साकल्ये" इति निघण्टुः। तावपि; रामकृष्णावपि। द्विजन्मताम्; जातकर्मादिसंस्कारैः द्विजत्वम्, "जन्मना जायते शूद्रः
-
-
 
 कर्मणा जायते द्विजः" इति स्मरणात्। प्रपद्य ; प्राप्य। गुरुम् ; आचार्यं सांदीपिनिम्। जग्मतुः ; गुरुकुलवासाय तत्समीपमुपसेदुः। ततः ; तस्मादाचार्यात्। सषष्टिभिः चतुर्दिनैः; चतुःषष्टिपरिमितैर्दिनैः। आत्तविद्यकौ; अवाप्तसमस्तविद्यौ। गुरोः; आचार्यस्य सांदीपिनेः
 मृतार्भकेप्सया मृतपुत्रप्रत्याजिहीर्षया अब्धिकुक्षिं समुद्रकुहरम् ईयतुः प्रापतुः। **१९६**
@@ -2192,8 +1968,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **दुःशिवा नष्टपतयः कंसदारास्तु मागधम्।  
 प्रारुदन् प्राप्य सोऽप्यायात् त्रयोविंशत्यनीकपः ॥ १९९ ॥**
 
-
-
  **दुःशिवा नष्टपतय इति**। कंसदाराः;कंसस्य पत्न्यः।नष्टपतयः, अत एव दुःस्थित्यापन्नशिवाः भूत्वा मागधं मगधदेशाधिपं जरासन्धं प्राप्य प्रारुदन्। त्रयोविंशत्यनीकपः, त्रयोविंशतिसंख्याकानामनीकानाम् अक्षौहिणीनामधिपः सोऽपि जरासन्धोऽपि आयात् युद्धार्थमाजगाम। **१९९**
 
 **भानुः सत्यस्येव शौरेर्वशेऽभूच्छस्त्रग्रामः सीरिणश्चाथ पूर्वः।  
@@ -2210,8 +1984,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 तयोः षोडशकृत्वस्ता भूयोऽप्यासन्नथो हरेः॥ २०२ ॥**
 
  **प्रभा याः पुत्रयोरिति**। नन्दस्य तयोः पुत्रयोः रामकृष्णयोः युद्धे जयश्रिया जरासन्धेन सह युद्धे संजातया जयलक्ष्म्या याः प्रभाः आसन्, ताःप्रभाःजयश्रीसंजाताःशोभाःअथो अनन्तरमपि हरेः श्रीकृष्णस्य षोडशवारं भूयः पुनःपुनःआसन्। षोडशकृत्वःजरासन्धं विजित्य शुशुभे इत्यर्थः।**२०२**
-
-
 
 **हर्यश्वश्रेष्ठगीर्वाणभयदो यवनः पुरीम्।  
 रुरोध मधुरामब्धौतदा स द्वारकां व्यधात् ॥ २०३ ॥**
@@ -2231,8 +2003,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **शाक्यज्ञो रागीति**। असौ ; शत्रुर्यवनः।शाक्यज्ञः; शको नाम यवनानां भूपतिः। तेन प्रवर्तितो मार्गःशाक्यः। तं जानाति। तद्विहिते;
 
-
-
 शाक्यमार्गविहिते प्राणिहिंसनादिरूपे असौ रागी रागवान् भवति। तस्मात् मत्तः वधं नाप्नुयात्। मया हतस्य हि सर्वकर्मक्षयपूर्वकनिःश्रेयसप्राप्तिः फलम्। तच्च फलमधुना असौ नार्हति। किं तु नरकं यातु इति मत्वा शौरिःश्रीकृष्णः अरिंयवनं तत्रैव साधुक्रोधहतं साधोर्मुचुकुन्दस्य क्रोधेन हतं भस्मसात्कृतं व्यधित। **२०५**
 
 **सलिलं नवमेघस्त्वं वहन्निव महाप्रभः।  
@@ -2250,8 +2020,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **मेनका नामेति**। अद्य अस्मिन्नहनि क्रियमाणे युद्धे मां मेनका नाम मेनकेति प्रसिद्धा सुरवनिता अथवा जयश्रीर्वा वृणोतु। अहं वा शत्रुं हनिष्यामि, अहं वा शत्रुणा हनिष्ये। उभयोरन्यतरत् निश्चितमित्यर्थः। अन्यथा ; पूर्वोक्तयोरन्यतरत् अप्राप्य न निवर्ते इति वदन् मागधःमगधाधिपतिः जरासन्धः भूयोऽपि योद्धुम् आगात् आजगाम। **२०८**
 
-
-
 **सेनामध्यमसौ गतिद्वयपरोऽध्यास्ते परं सांप्रतं  
 तत्रैका मृतिसंश्रया मृतिरमुष्यान्येन कालान्तरे।  
 नान्या मत्प्रतियोद्धुरित्युदितधीरारुह्य शैलं जवा-  
@@ -2266,8 +2034,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 सोऽप्येनामतुलमवाप्य शर्म लेभे ॥ २१० ॥**
 
  **संयुद्धक्रमनिरत इति**। संयुद्धस्य गदायुद्धस्य क्रमे निरतः व्यापृतः शुचिः त्रिकरणशुद्धिमान् वदान्यो दाता च पुरुषश्रेष्ठः अस्मात् अन्यःबलभद्रं विना इतरः नास्ति इति वैधसीं ब्रह्मणोदीरितां गिरं निशम्य श्रुत्वा ककुद्मीनाम नृपतिः रेवतीं नाम कन्यां रामाय बलरामायादिशत्। सोऽपि बलभद्रोऽपि एनां रेवतीम् अवाप्य अतुलं शर्म सुखं लेभे। **२१०**
-
-
 
 **स्वर्गलोकोऽस्ति वास्तव्यमात्रं सुत्रामसोदरे।  
 भूमिष्ठे तु वरिष्ठानि भोग्यान्यत्रैव यत्र सः॥ २११ ॥**
@@ -2287,8 +2053,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **भद्रतरोऽर्थी वाणी भद्रतमास्येति चाभिनन्द्य मुहुः।  
 श्रुत्वेत्थं दूतिगिरं श्रीपतिरतनोन्मनीषितं तस्याः॥ २१४ ॥**
 
-
-
  **भद्रतरोऽर्थीति**। इत्थं पूर्वोक्तप्रकारेणोदितां दूतिगिरं श्रुत्वा श्रीपतिः अर्थी अयं जनः भद्रतरः। अस्य जनस्य वाणी च भद्रतमा।इति मुहुःअभिनन्द्य तस्याः रुक्मिण्याः मनीषितम् अभीष्टम् अतनोत् सफलीचकार। तामुदवहदित्यर्थः। **२१४**
 
 **धू राज्ञः पादे यस्याभक्तैर्नाप्यते निजैव नृपैः।  
@@ -2306,14 +2070,10 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **मानदो निधिवर इति**। मानदः; बहुमानदः। निधिवरः; प्रतिदिनमष्टौ स्वर्णभारान् प्रयच्छन् निधिरिव भूतः यः मणिः; स्यमन्तको नाम मणिः प्रसेनतः तन्नाम्नो राज्ञः सकाशात् पुरा पूर्वं हरिवरं जाम्बवन्तं प्राप समागात्, तं मणिं तस्य प्रसेनस्य सोदरकरे सोदरस्य सत्राजितःकरे समर्पयन् उत्तमः हरिः श्रीकृष्णः तत्सुतां सत्राजितः सुतां सत्यभामाम् अलभत। अत्रेयं पौराणिकी कथा—पूर्वं सत्राजिन्नाम कश्चन नृपः सूर्यस्य सखा अवर्तत। तस्मै सूर्यः संतोषेण स्यमन्तकं नाम मणिं प्रादात्। स च मणिः प्रत्यहमष्टौ
 
-
-
 सुवर्णभारान् प्रदाय स्वस्य धारिणं पुरुषं दारिद्र्यादिरहितमकरोत्। तं मणिं कण्ठे धारयन् सत्राजित् कदाचित् द्वारकामाजगाम। तत्र श्रीकृष्णसत्राजितोः समागमे श्रीकृष्णेनार्थितोऽपि सत्राजित् तं मणिं तस्मै दातुं नैच्छत्। अथैकदा सत्राजितो भ्राता प्रसेनः तं मणिं कण्ठे बिभ्रत् हयमारुह्य मृगयां वने चचार। तत्र कश्चन सिंहः सहयं प्रसेनं हत्वा तं मणिमादाय जाम्बवताधिष्ठितां गिरिगुहां विवेश। जाम्बवांश्च मणिलोभेन तं सिंह हत्वा मणिमादाय स्वबालकस्य क्रीडनकमकरोत्। वस्तुतत्त्वे एवं स्थिते, भ्रातुः प्रसेनस्य वनात् अप्रतिनिवर्तनं श्रुत्वा सत्राजित् 'कृष्णेन मम भ्राता प्रायो निहतो भवेत्। अत एव बहून् दिवसानतीत्यापि स न प्रतिनिवृत्तः। मण्याकाङ्क्षी च कृष्णः' इति कांचन किंवदन्तीं जनपदे उत्पादयामास। भगवान् श्रीकृष्णस्तु आत्मनो दुर्यशः अपमार्ष्टुकामः मण्यन्वेषणे प्रवृत्तः प्रसेनस्य पदवीं नागरैः सहान्वद्रवत्। तत्र च वने प्रसेनं सहयं सिंहेन हतं वीक्ष्य किंचिद् दूरं गत्वा तं च सिंहं केनचित् ऋक्षेण हतं दृष्ट्वा पौराणामदर्शयत्। ततोऽपि किंचिद् दूरं गत्वा किंचन भीमं बिलं वीक्ष्यं तत्र स्वयमेकाकी प्रविवेश। तत्र बालकस्य क्रीडनकतया परिकल्पितं मणिं स्यमन्तकं वीक्ष्य तज्जिघृक्षया बालकान्तिकमुपजगाम। अत्रान्तरे विदितवृत्तान्तो जाम्बवानेत्य श्रीकृष्णेन सह अष्टाविंशतिं दिनानि द्वन्द्वयुद्धमकरोत्। एकोनत्रिंशे दिने श्रीकृष्णेन पराजितो जाम्बवान् तस्य पादयोर्निपत्य प्राणभिक्षां याचमानः श्रीकृष्णाय स्यमन्तकमणिना सह स्वसुतां जाम्बवतीं ददौ। ततः श्रीकृष्णःजाम्बवत्या स्यमन्तकेन च सह बिलान्निर्गत्य पौरान्विदिततत्त्वान् कृत्वा द्वारकायां सभामासीनः सत्राजितमाहूय पौराणां संनिधौ मणिं तस्मै प्रादात्। सत्राजित् मणेर्लाभेनातितरां प्रीतोऽपि पूर्वं स्वकृतात् मणिविषये श्रीकृष्णार्थनानिराकरणात् श्रीकृष्णविषयकापवादोत्पादनाच्च नितरां विलक्षः श्रीकृष्णं क्षमां प्रार्थयामास। स्वसुतां सत्यभामां स्यमन्तकं च श्रीकृष्णायादात्। श्रीकृष्णस्तु स्यमन्तकं तस्मै प्रतिप्रदाय सत्यभामां परं स्वीचकारेति। **२१७**
 
 **रङ्गेऽस्य श्रद्धा नो द्रुपदाहूतस्तथापि सह यदुभिः।  
 पार्थहिताय प्रायात् सबलःकृष्णास्वयंवरं शौरिः॥ २१८ ॥**
-
-
 
  रङ्गेऽस्य श्रद्धेति। अस्य श्रीकृष्णस्य रङ्गे युद्धरङ्गे श्रद्धा आस्था नासीत्। तथापि द्रुपदेनाहूतः सन् यदुभिः सह सबलःससैन्यश्च सन् पार्थानां हितं कर्तुं शौरिः श्रीकृष्णः कृष्णायाः द्रौपद्याः स्वयंवरं प्रायात्। **२१८**
 
@@ -2334,8 +2094,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **पुत्रो ज्ञानाढ्योऽयं देवक्या हरिरिहागतः सख्या।  
 इति मत्वा कालिन्दी नाम्ना प्राप्तास्मि देवमधुनेति ॥ २२१ ॥**
 
-
-
  **पुत्रो** **ज्ञानाढ्योऽयमिति**। अयं ज्ञानाढ्यः ज्ञानसंपूर्णः। ज्ञानप्रदं शक्त्यादीनामितरेषामपि गुणानामुपलक्षणम्।
 
 **"ज्ञानशक्तिबलैश्वर्यवीर्यतेजांस्यशेषतः।  
@@ -2355,8 +2113,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **धवः श्रेयः पथ्यमिति**।लोके लघुरपि पामरोऽपि धवः पतिः पुरुषः वधूभ्यः कान्ताभ्यः श्रेयः पथ्यं च प्रदिशति। हे भद्रे कल्याणि, प्रभुः सर्वेश्वरः श्रीकृष्णः तुभ्यं निःश्रेयसमपि वितरति ; न केवलमैहलौकिकं भोगं, किंतु मोक्षमपि ददाति। एवम् उक्तप्रकारेण जिष्णुःअर्जुनःतां प्रशस्य अनया यत् गदितं तत् हरये श्रीकृष्णाय आचष्ट अवदत्।सःनरपतिः ; भगवान् श्रीकृष्णः। ताम् ; कालिन्दीम्। आदाय स्वां नगरीम् अगात्। **२२२**
 
-
-
 **तेन शरैः पटुनारीन् जित्वावन्त्या तु मित्रविन्दाप्ता।  
 वृषवरनियमनलब्धा कौसल्या चारिमध्यतः सत्या ॥२२३ ॥**
 
@@ -2373,8 +2129,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 सुरार्थे हत्वासावुदवहदमेया नृपसुताः ॥ २२५ ॥**
 
  **हयो धन्य इति**। जले समधिगम्ये प्रतिबिम्बतया संलक्ष्ये उच्चैः ऊर्ध्वदेशस्थे लक्ष्ये शरव्ये विदलिते सति श्रीकृष्णेनेति शेषः। यः यः धन्यः अनर्धः हयः, रथाश्च नराश्च गजाश्च। धन्या इत्यत्रापि संबध्यते। एतदखिलं सुतां च लक्ष्मणाख्यामस्मै मद्रेशःमद्रदेशाधिपः अदात्। तदनु असौ श्रीकृष्णः सुरार्थे; देवानामर्थे प्रयोजनाय, सुरान् परिरक्षितुमित्यर्थः ; मुरभौमाद्यरिगणान् मुरनरकाद्यसुरगणान् हत्वा अमेयाःअपरिमिताःनृपसुताःउदवहत् उपयेमे। **२२५**
-
-
 
 **अप्रियोऽनयेन यः शिवस्य दग्धदेहवां-  
 स्तत्प्रसादतो हरिस्तमात्मनोंऽशमात्मना।  
@@ -2396,8 +2150,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **ग्रामार्थी नरसुरनाथ सद्गुणानां प्रद्युम्नस्तव तनुजो भवेत्समानः।  
 इत्युक्त्वा दृढमुपगुह्य शंकरस्तं प्रस्थाप्य स्वपुरमगात्स्वयं च धाम ॥**
 
-
-
  **ग्रामार्थीति**। हे नरसुरनाथ, सद्गुणानां ग्रामार्थी समूहार्थी तव समानःसदृशःप्रद्युम्नो नाम तनुजो भवेत्। इति उक्त्वा शंकरः तं श्रीकृष्णं दृढं यथा तथा उपगुह्य स्वपुरं प्रस्थाप्य च स्वयं च धाम स्थानम् अगात्।
 **२२९**
 
@@ -2413,8 +2165,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 **प्रज्ञातो योगीशः शम्बरहन्तैष ते पतिः कार्ष्णिः।  
 इति शम्बरमठिनीं तां स्माह तयोक्तोऽवधीत्स तं काले ॥ २३२ ॥**
-
-
 
 ** प्रज्ञातो योगीशइति**। कार्ष्णिःश्रीकृष्णस्यात्मजः एष ते पतिःप्रद्युम्नः शम्बरहन्ता इति प्रज्ञातःविदितचरः योगीशःशम्बरमठिनीं शम्बरस्य मठे नियुक्तां तां मायावतीम् आह स्म अवदत्। तया मायावत्या भार्यया उक्तःसःप्रद्युम्नः तं शम्बरं काले उचिते समये अवधीत्। **२३२**
 
@@ -2432,8 +2182,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 अनिरुद्धं तं लेभे कार्ष्णिर्वज्राह्वयं स यदुसिंहम् ॥ २३५ ॥**
 
  **सुरतं स्त्रीभिरिति**। स्वप्ने दृष्टस्यापि यस्य यूनः सुरतं स्त्रीभिः भृशम् अत्यन्तम् अर्थ्यते तम् अनिरुद्धं नाम तनयं कार्ष्णिः प्रद्युम्नःलेभे। सः अनिरुद्धश्च यदुसिंहं वज्राह्वयं तनयं लेभे। **२३५**
-
-
 
 **त्रिराज्ञाङ्कुशवश्यानि हरेः सप्त शतानि च।  
 त्रिपञ्चाशत्सहस्राणि चासन्नात्मजदन्तिनाम् ॥ २३६ ॥**
@@ -2454,8 +2202,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **त्रिभिर्हानिस्त इति**। अथ पौण्ड्रकनृपः पौण्ड्रकनामा करूशाधिपतिः हे कृष्ण, ते अरिदरकृपाणैःचक्रशङ्खनन्दकैरायुधैः त्रिभिः हानिः विरहः स्यात्। त्वमेतान् परित्यजेत्यर्थः। अहं यदि एतेषाम् आयुधानां समुचितोऽस्मि; भवांश्च यदि मम मदधीनः, तदा एतान् परित्यजेति पूर्वेणान्वयः। अत्र
 
-
-
 यदीति 'वेदाश्चेत्प्रमाणम्' इतिवत् असंदिग्धे संदिग्धवचनम्। एतेषामहमेव समुचितः, भवांश्च मदधीन एवेत्यर्थः। इति श्रीकृष्णं प्रति स्वयं प्रोचे। अथ हरेश्चक्रं सुदर्शनम् अचिरादेव परस्य शत्रोः पौण्ड्रकस्य अन्तः हृदयं प्रविश्य इमं संशयम् असंदिग्धत्वाभिप्रायेण तेनोक्तमपि संदिग्धमेव वस्तुत इति तं संशयं त्रुटितं छिन्नम् अतनोत्। भगवान् श्रीकृष्ण एवैतेषां समुचितः। स च न त्वदधीन इति निश्चयमुत्पादयामासेत्यर्थः। **२३८**
 
 **अनङ्गाश्रिततां हित्वा शर्वमाराध्य तत्सुतः।  
@@ -2472,8 +2218,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 जीवयन्नवसद्गूढो मूढैर्बद्धश्च शत्रुभिः॥ २४१ ॥**
 
  **तिलस्य रसवदिति**। सोऽपि अनिरुद्धोऽपि तिलस्य रसवत् तिले तैलमिव गूढःसन् दीपिकामिव तां प्रियाम् उषां जीवयन्तैलं दीपिकामिव संजीवयन् अवसत्। मूढैः शत्रुभिः बद्धश्च। **२४१**
-
-
 
 **तव मानदाद्य युधि बाणबाहुभिर्विजितस्तनूज इति नारदेरितम्।  
 वचनं निशम्य हरिसीरिमन्मथा ययुरेव शोणितपुरं परंतपाः॥ २४२ ॥**
@@ -2495,8 +2239,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
  **योग्यं संयुद्धमिति**। सः बलःबसरामःएभिः सह संयुद्धम् आस्ताम् ; दूरे तिष्ठतु। सपुरं हास्तिनपुरेण सह जनं तत्रत्यं कौरवजनं सर्वं जाह्नव्यां प्रक्षेप्तुं योग्यमिति निश्चित्य सीरेण हलेन पुरं हास्तिनं चकर्ष। **२४५**
 
-
-
 **यो गोज्ञानी तस्यैवास्त्यक्ष्णा नेक्ष्यते भवत्तत्त्वम्।  
 अद्य तु जानीमस्त्वामिति दत्वा दंपती नृपा नेमुः॥ २४६ ॥**
 
@@ -2516,8 +2258,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 **अनिधानं कवेर्यस्य न ध्वजाग्रं धराभरम्।  
 हर्तुं तेनात्र कल्यंशे हरिर्बीजमयोजयत् ॥२४९ ॥**
 
-
-
  **अनिधानं कवेर्यस्येति**। यस्य कवेःश्रीकृष्णस्य ध्वजाग्रं घराभरं हर्तुं नानिधानं, स हरिः तेन कारणेन अत्र कल्यंशे कलहे बीजमयोजयत्। यदूनां परस्परं कलहं संकल्पयन् तत्कारणतया मुनिशापं प्रवर्तयामासेत्यर्थः। **२४९**
 
 **श्रोत्रियप्रियस्य तस्य चैद्यभङ्गकोपिताः  
@@ -2531,8 +2271,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 यानि तीर्थजजलानि धरित्र्यां तानि मङ्गलतराणि वितेने ॥ २५१ ॥**
 
  **मङ्गलं परममिति**।रामःबलरामःधरित्रीं परीत्य परितो गत्वा तेन आत्मनि परमं निरतिशयं मङ्गलं भावयन्निव उत्पादयितुमिव धरित्र्यां यानितीर्थजजलानि तानि सर्वाणि मङ्गलतराणि वितेने स्वस्याभिषेकेण पुण्यतराणि चकार। तीर्थाटनमकरोदित्यर्थः। **२५१**
-
-
 
 **कवेः शक्यं त्रातुं तव परमिमं वल्वलभयात्  
 क्रतुं राम स्वामिन्निति तमृषयो नैमिशगताः।  
@@ -2560,11 +2298,7 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 **इति हरिचरितव्याख्यानं संपूर्णम्।**
 
-
-
 **पद्यानुक्रमः**
-
-
 
 |                        |        |                       |        |
 |:----------------------:|:------:|:---------------------:|:------:|
@@ -2591,8 +2325,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 |    इष्टिर्विद्यत एव    |   ४५   |  गुणोऽर्थरतिपुत्रादि  |  २१२   |
 |     उत्पलं निधिरसौ     |   ७९   |   गुरुर्वरदमुख्यस्य   |  २१६   |
 |     कविः पुत्रोऽथ      |  ११५   |    गृह्यासुरारात्     |   ७    |
-
-
 
 |                         |        |                         |        |
 |-------------------------|--------|-------------------------|:------:|
@@ -2627,8 +2359,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 | तिलस्य रसवत्            | २४१    | धनुर्भिः खलैः           |   ९    |
 | तुलार्थिनोऽर्थिनां      | १५७    | धनेशोऽयं जनः            |  १८८   |
 
-
-
 |                         |        |                      |        |
 |:-----------------------:|--------|:--------------------:|:------:|
 |                        | पद्यम् |                     | पद्यम् |
@@ -2661,8 +2391,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 |      नागरोयुद्धं       | १९०    |     मणिर्मानद एव     |   ७७   |
 |    नाविद्धःपादे वा     | ७८     | मन्त्रितं प्राज्ञाय  |  २४८   |
 |   नीले नेत्रे विपुले    | ३२     |    मानदो निधिवरः     |  २१७   |
-
-
 
 |                        |          |                         |        |
 |------------------------|----------|-------------------------|:------:|
@@ -2697,8 +2425,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 | वश्योऽसौ भक्तानां      | २२४      | श्रोत्रियप्रियस्य       |  २५०   |
 | विकलानां कार्याप्तिः   | १११      | श्वानो दीनो वा          |  १७९   |
 
-
-
 |                      |        |                       |        |
 |----------------------|--------|-----------------------|:------:|
 |                     | पद्यम् |                      | पद्यम् |
@@ -2719,8 +2445,6 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 | सापत्यनिन्दा         | १०४    | होमस्थानं वनं         |   ९६   |
 | सुखि सन्नित्यं       | ८९     | होमस्य स्रुवमात्रे    |   ११   |
 
-
-
 **वाक्यसूची**
 
 THE three columns indicate the ***Rāśi***, the ***Tithi*** ( 30th part of a ***Rāśi***) and ***Aṁs’a*** (sixtieth part of a ***Tithi***) ; this last is called ***Ili***in Malabar.
@@ -2730,8 +2454,6 @@ THE three columns indicate the ***Rāśi***, the ***Tithi*** ( 30th part of a **
  When the ***Pratīka*** of the verses noted in the beginning of the commentary of each verse is not a full ***Vākya***, it is indicated by an asterisk at the end of the ***Vākya***.
 
  When the same ***Vākya*** is represented by two verses, it is indicated by two asterisks before the ***Vākya.***
-
-
 
 |     |                       |           |      |                         |          |
 |-----|-----------------------|-----------|------|-------------------------|----------|
@@ -2749,8 +2471,6 @@ THE three columns indicate the ***Rāśi***, the ***Tithi*** ( 30th part of a **
 |    | दीनास्ते नृणाम्       | 5-06-08   |     | धन्या विद्येयं स्यात्   | 11-14-19 |
 |    | मुखं नारीणाम्         | 5-20-25   |     | \*\*त्वं रक्षा राज्यस्य | 11-26-24 |
 |    | भवभग्नास्ते           | 6-04-44   |     | \*\*क्षेत्रजः\*         | (0)-8-26 |
-
-
 
 |     |                            |           |     |                     |           |
 |-----|----------------------------|:---------:|-----|---------------------|:---------:|
@@ -2785,8 +2505,6 @@ THE three columns indicate the ***Rāśi***, the ***Tithi*** ( 30th part of a **
 |    | जन्मजरा                    | (0)-28-58 |    | अङ्कुरं नीरे\*      |  2-02-10  |
 |    | इष्टका कार्या              |  1-11-10  |    | धावद्वैद्योऽत्र\*   |  2-14-49  |
 
-
-
 |     |                       |           |      |                       |           |
 |-----|-----------------------|:---------:|------|-----------------------|:---------:|
 |    | गत्वा सुराष्ट्रम्     |  2-27-43  |     | ताराङ्गं नभः\*        |  4-03-26  |
@@ -2819,8 +2537,6 @@ THE three columns indicate the ***Rāśi***, the ***Tithi*** ( 30th part of a **
 |    | तालुलेखोऽत्र          |  2-23-36  |     | स मन्दो रागी          |  3-28-57  |
 |    | संगतो नागः\*          |  3-06-37  |     | तैलप्रियस्त्वम्\*     |  4-12-36  |
 |    | विशुद्धो योगी         |  3-19-54  |     | साम्प्रतं रविः\*      |  4-26-17  |
-
-
 
 |      |                        |           |       |                         |           |
 |------|------------------------|:---------:|-------|-------------------------|:---------:|
@@ -2855,8 +2571,6 @@ THE three columns indicate the ***Rāśi***, the ***Tithi*** ( 30th part of a **
 |     | गोशुद्धिकामः           |  5-19-53  |      | गुणार्थी रतिः\*         |  6-27-53  |
 |     | दीनो वो ज्ञातिः        |  6-04-08  |      | काव्यप्रियोऽसौ          |  7-12-11  |
 
-
-
 |        |                       |           |            |                        |           |
 |--------|-----------------------|:---------:|------------|------------------------|:---------:|
 |       | भद्रतरोऽर्थी          |  7-26-24  |           | गावः प्रिया वः         |  4-12-43  |
@@ -2880,13 +2594,9 @@ THE three columns indicate the ***Rāśi***, the ***Tithi*** ( 30th part of a **
 |       | प्रज्ञातो योगी\*      |  3-16-02  |           | कवेःशक्यम्\*          | (0)-15-41 |
 |       | मुख्यो धीरो लीनः\*    | 03-29-15  |           | भवेत् सुखम्            | (0)-27-44 |
 
-
-
 **वाक्यदशकसूची**
 
 THE first column notes the number of the ***Vākya***,and the last column notes the number of the corresponding verses.Since there are five extra verses owing to two verses representing five ***Vākyas***, the verse numbers where the repetition occurs are also noted, so that this will help as a concordance.
-
-
 
 |     |               |                                                                                               |     |              |                                                             |
 |:---:|---------------|-----------------------------------------------------------------------------------------------|:---:|--------------|-------------------------------------------------------------|
@@ -2910,13 +2620,9 @@ THE first column notes the number of the ***Vākya***,and the last column notes 
 
 [^3]: "46 is repeated and the difference becomes four."
 
-
-
 **वाक्यानां राशिचक्रपूर्तिसूची**
 
  The first column shows the ***Vākya*** numbers for each of the nine rounds in the ***Rās'is***, and the second column shows the total number of ***Vākyas*** in each round.
-
-
 
 |       |         |     |
 |:-----:|---------|-----|
@@ -2932,18 +2638,5 @@ THE first column notes the number of the ***Vākya***,and the last column notes 
 |      | 246-248 | 3   |
 |      | Total   | 248 |
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
 

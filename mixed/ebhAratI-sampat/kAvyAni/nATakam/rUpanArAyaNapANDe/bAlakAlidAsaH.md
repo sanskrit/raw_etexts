@@ -16,18 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU3OTkxMzcyNTE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
 *बालसखा पुस्तकमाला—पुस्तक २४वीं*
@@ -41,8 +29,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU3OTkxMzcyNTE
 लेखक
 
 **पण्डित रूपनारायण पाण्डैये**
-
-
 
 प्रकाशक
 
@@ -58,8 +44,6 @@ K Mittra,
 
 at The Indian Press, Ltd,  
 Allahabad
-
-
 
 Printed by
 
@@ -374,8 +358,6 @@ Benares-Branch
 अमृतं वा विषमीश्वरेच्छ्या॥४६॥**
 
  ईश्वर की इच्छा से कहीं विष भी अमृत का काम करजाता है, और कहीं अमृत भी विष बन जाता है॥४६॥
-
-
 
  अर्थात् ईश्वर की इच्छा से कहीं बुराई में भलाई औरकहीं भलाई में बुराई पैदा हो जाती है।
 
@@ -1832,14 +1814,5 @@ Benares-Branch
  तात्पर्य यह कि भ्रम या कुसंस्कार के कारण अज्ञानीलोग भलाई को भी बुराई समझकर छोड़ बैठते हैं।
 
 **इति**
-
-
-
-
-
-
-
-
-
 
 \]

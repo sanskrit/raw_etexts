@@ -17,32 +17,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc4MjA1MzI0NTc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 ![](../books_images/U-IMG-1730198062Capture.JPG)
-
-
 
 Published by Janardan Sakharam Kudalkar, M. A., LL. B., Curator of State Libraries,  
 Baroda, for the Baroda Government, and Printed by Manilal Itcharam Desai, at  
 **The Gujarati Printing Press, No. 8, Sassoon Buildings,  
 Circle, Fort, Bombay.**
-
-
 
 **मोहपराजयरूपकवस्तुसङ्क्षेपः**
 
@@ -65,8 +47,6 @@ Circle, Fort, Bombay.**
 
  तस्याऽविरतिजाया जगत्त्रयवल्लभदर्शना सुखासेव्या च। तयोः सुताः कोपाद्याः। पुत्री हिंसानाम्नीति। एवमनयोर्धर्ममोहनृपयोरनादिसिद्धो वैरिभावः कटकबन्धश्च प्रवर्तते। द्वयोरप्यनिशं युद्धोत्सवः। परं कदाचित् कस्यचिज्जयः, अपरस्य तु पराजयः। गतश्च भूयाननेहा। अत्रान्तरे श्रीचौलुक्यो युद्धवीरतयोच्छ्वासितमनोवृत्तिः प्रोचे, भगवन्! सम्यगवगम्यमानोऽयं प्रबन्धः प्रीणयति मम सभ्यानां चान्तरात्मानम्। परं द्वयोर्नृपयोरेकदा सैन्यादिस्वरूपं श्रोतुमुत्सुका मनोवृत्तिः, तत्प्रसद्य प्रभवो
 
-
-
 निवेदयन्तु इत्युक्ते सज्ञा सूरयः हे परमार्हत! विचारचतुर्मुख! श्रीकुमारपाल! सूक्ष्माभोगेन परिभावनीयमेतन्निरूप्यमाणम्। तथाहि—धर्मनरेन्द्रस्य सदागमो मन्त्री सदासद्बुद्धिदानदक्षोऽपरावर्त्यश्चापरैर्नृपान्तरैः। विवेकचन्द्रः सेनाध्यक्षो विपक्षक्षोददीक्षितः। शुभाध्यवसायः परिचारकः। सम्यक्त्वयमनियमाद्याः भटाः। किमुच्यते बहु, राजन्! धीरशान्तः श्रीधर्मभूमीन्द्रः। अथ मोहनृपतेः कदागमो मन्त्री सर्वदुर्बुद्धिमूलमन्दिरम्। अज्ञानराशिः सेनानीः। मिथ्यात्वदुरध्यवसाया भटाः। धीरोद्धतश्चायं मोहः। एवं सति संप्रति प्रोच्छलत्प्रबलदुष्टेष्टविघातककलिकालसहायिकरालविलसितैः समजनि समुज्जीवितो मोहराजः। प्रवर्तितं सर्वत्र स्वाज्ञैश्वर्यम्पराभूय निर्वासितः श्रीधर्मनृपतिः सपरिकरः। राजा— किमग्रतः?। सूरिः— भ्रामं भ्रामं सर्वत्र श्रान्तः क्वापि स्थितिमलभमानः साम्प्रतं श्रीगुर्जरनाथधरित्रीशिरोमणीयिते श्रीमति पत्तनमहास्थानेऽस्मदाश्रममाश्रित्य मनाक् स्वस्थीभवन् समयाकरोति श्रीधर्मभूभुग्। श्रीचौलुक्य! तव सौराज्याभ्युदयेन तु संजातबलोत्सर्पणः स्वं प्रौढिमानमासादयिष्यत्येवेति मन्यामहे त्वामेव शरणागतवज्रपञ्जरं राजानं‚ इति सूरीन्दुवचोऽमृतैः पुनर्नवीभवन् कृपासुन्दरीप्रौढिं श्रुत्वा संजातसहस्रगुणदृढानुरागः कदा मयेयं परिणेतव्या इति चिन्तावशितात्मा गुरून्नत्वा स्वभवनमलङ्कृतवान्। तदनु—
 
 **सा वाचि सा च हृदि सा पथि सा च धाम्नि,  
@@ -82,8 +62,6 @@ Circle, Fort, Bombay.**
  इति मतिप्रकर्षेणोक्ते श्रीधर्मभूपः प्राह, सत्यमेतद् भो मतिप्रकर्ष! किमुच्यते श्रीचौलुक्यचन्द्रस्य लोकोत्तरगुणसंपदभिरामस्य योग्यता। परमेषा पुरुषद्वेषिणी स्वभावतो दुष्पूरपणबन्धप्रतिज्ञातपाणिग्रहा, तेन मनाग् मनो दोलायते।
 
  **मतिप्रकर्षः—** कः पणबन्धः? इति श्रोतुमिच्छामि।
-
-
 
 ** धर्मः—**
 
@@ -110,8 +88,6 @@ Circle, Fort, Bombay.**
 अस्यां प्रेम महद्विधेयमनिशं खण्ड्यं च नैतद्वचो,  
 यस्मादेतदुरुप्रसङ्गवशतो भावी भृशं निर्वृतः॥३॥**
 
-
-
  ततः श्रीकुमारभूपः स्वसदनं प्राप्य विधिना कृपासुन्दरीदेव्याः पट्टबन्धं व्यधात्। तां च सर्वप्रकारैः प्रीतिकारिणींपश्यन् स्वात्मानं द्वारवन्तं तयैव मेने कृतज्ञशिरोमणिः राजर्षिः। अथैकदा प्रियमतिप्रीतं प्रेमपरवशं च ज्ञात्वोवाच धर्मनन्दिनी, हे प्रियतम! स्थापय पुनः स्वस्थाने मे जनकं, मोहं जित्वा पूरयास्मन्मनोरथांश्च। सतां हि प्रतिपन्नं मेरुचूलासहोदरम्। यतः**—**
 
 **जं जस्स कथं जं जस्स जंपियं जं च जस्स पडिवन्नम्।  
@@ -132,8 +108,6 @@ Circle, Fort, Bombay.**
 केषां मोहमतङ्गजो न तनुते वैधुर्यधुर्यं मनः॥"**
 
  भाषितः पार्श्वस्थेन मोहनृपमन्त्रिणा कदागमेन, भो दूत! कस्त्वं? केन च प्रहितः? किमर्थम्? चेत्युक्ते ज्ञानदर्पणः प्राह‚ हंहो मोहमन्त्रिन्! ज्ञानदर्पणाह्वयः श्रीचौलुक्यचक्रवर्तिनाऽभ्यमित्रीणनृपश्रेणिशिरोमणिना प्रहितोऽस्मि। ज्ञापितं च श्रीचौलुक्यसिंहेन, यदुत भो मोह! त्वयाऽद्य दुष्कलिबलावष्टम्भेन पराभूय निर्वासितः श्रीधर्मनृपतिः‚ स च न्यायनिष्ठः समाश्रितः साम्प्रतमस्माद्राजधानीम्। बहूपकृतश्च श्रीगुरुगिरा। तुष्टेन च श्रीधर्मभूभुजा गुरूपरोधप्रेरितेन दत्ता कृपासुन्दरी निजसुता श्रीकुमारभूमीभुजे। जातःसंबन्धबन्धः। सम्प्रति तु शरणागतवज्रपञ्जर आश्रितवत्सलश्च समीहते श्वशुरं स्वराज्येऽभिषेक्तुं कृतज्ञचूडामणिः श्रीचौलुक्यकुलपर्वतः।
-
-
 
 सम्प्राप्त एव त्वामभिषेणयितुं ससैन्यश्रीधर्मसहायः श्रीचौलुक्यस्त्वत्पुरासन्ने। तस्मात्तत्रागत्य तदाज्ञामाल्यसुरभितं कुरु स्वशिरः। तदनु श्रुत्वैतन्मोहमहाराजो मुखमोटिकापूर्वं प्राह‚ रे दूत! वाचाट किमेवं प्रलपसि? कोऽयं पुंष्टिट्टिभः कुमारपालः? यदेवं निर्वासितवराकधर्मनृपाधमप्रेरितो मां त्रिभुवनागञ्जेयपराक्रममभिभवितुमभिवाञ्छति। न खलु सकलत्रिभुवनाभोगाक्रमणालङ्कर्मीणप्रतापवैभवः श्रीमोहभूमीपालः परोलक्षैरपीदृशैर्नृपकीटकैर्भापयितव्यः। रे दूताधम! याहि ज्ञापय स्वराज्ञे समागत एव मोहः।
 
@@ -171,8 +145,6 @@ Circle, Fort, Bombay.**
 
 **अन्धीकरोमि भुवनं बधिरीकरोमि,  
 धीरं सचेतनमचेतनतां नयामि।**
-
-
 
 **कृत्यं न पश्यति न येन हितं शृणोति,  
 धीमानधीतमपि न प्रतिसंदधाति॥**
@@ -212,8 +184,6 @@ Circle, Fort, Bombay.**
 ** द्वेषः—** देव! मर्त्यमात्रतपस्विनि कथं महान् सम्भ्रमः?। किं न विदितमात्मसूनोर्विक्रमललितम्?। यतः**—**
 
 **दन्ताग्रपातैर्महतो महीध्रान् समूलकाषं कषति क्षितौ यः।**
-
-
 
  क्षुद्रद्रुमोन्मूलनमात्रमस्य, न पूरयेत्केलिमपि द्विपस्य॥ इत्यादिना परेष्वपि निवारयत्सु
 
@@ -261,8 +231,6 @@ Circle, Fort, Bombay.**
 
 **दृष्टः पूर्वमहं त्वया न कथमप्युच्चैरभाग्योदयात्,**
 
-
-
 **तत्किं न प्रसभं श्रुतोऽप्यरिवधूवैधव्यदीक्षागुरुः।  
 येनैवं पुरगोपुरैकसुहृदा वक्त्रेण वल्गन्नलम्  
 धत्से सुप्तमृगारिजागरविधिं स्वं हन्तुमेव स्वयम्॥**
@@ -301,8 +269,6 @@ Circle, Fort, Bombay.**
 भूयान्मे भुवने यशः शशिसखं मोहान्धकारच्छिदे॥**
 
  एवं श्रीधर्मभूपं स्वराज्ये निवेश्य धर्मशालायामागत्य वन्दिताः श्रीगुरुपादाः। विज्ञप्तः सर्वोऽपि मोहविजयश्रीधर्मस्थापनादिवृत्तान्तः। श्लाघितश्चेत्थम्। यथा—
-
-
 
 **सत्पात्रं परिचिन्त्य धर्मनृपतिस्तुभ्यं स्वपुत्रीं ददौ  
 तद्योगात्त्वमजायथास्त्रिभुवने श्लाघ्यप्रियासङ्गमः।  
@@ -343,8 +309,6 @@ Circle, Fort, Bombay.**
 
  परमत्रत्यो गूर्जरनगरवणिग्मूर्द्धन्यः कुबेरश्रेष्ठी देवपादविदितो बहुस्वर्णकोटिध्वजः समुद्रे समागच्छन् कथाशेषतया स्वामिपादानामसेवकतामगादिति तत्परिच्छदो निष्पुत्र आक्रन्दन्नस्ति। तद्गृह-
 
-
-
 द्रव्यं राजा यद्यात्मसात् कुरुते तदा तस्यौर्द्ध्वदेहिकं क्रियते। कियत्तद्धनम्? इति पृष्टेऽतिपुष्कलमित्याहुस्ते महत्तराः। ततः कृपापरिणीतो राजा स्वचेतसि चिन्तितवानेवम्**—**
 
 **आशाबन्धादहह! सुचिरं सञ्चितं क्लेशलक्षैः  
@@ -384,8 +348,6 @@ Circle, Fort, Bombay.**
 
 **पुत्तकुबेर! गुणायर! गओसि तं कत्थ देहि पडिवयणम्।**
 
-
-
 **हा वच्छ! पिच्छ लच्छी तए विणा जाइ रायहरं॥**
 
  एतत् श्रुत्वा राजा चिन्तितवानेवम्**—**
@@ -408,8 +370,6 @@ Circle, Fort, Bombay.**
 प्राया प्राप्येत शोकात्तदयमकुशलैः क्लेशमात्मा मुधैव॥**
 
  इत्युपदिश्य पृष्टा, कः समायातः?। गुणश्रीराह वामदेवनामा मित्रम्। आकारितश्च स राज्ञा पृष्टश्च समुद्रगमनादि वृत्तम्। वामदेवोऽपि नत्वा विज्ञपयति स्म। देव! श्रीचौलुक्यचन्द्र! इतः कुबेरव्यवहारी चतुर्षु महत्तरेषु गृहसारं न्यासीकृत्य भृगुपुरात् पञ्चपञ्चशतमनुष्योपेतपञ्चशतप्रवहणैः प्राप्तः परकूलम्। तत्र चतुर्दशकोटिस्वर्णलाभः। ततः प्रतिनिवृत्तानां प्रतिकूलवायुना पञ्चशतप्रवहणानि पातितानि विषमगिरिवलयसङ्कटे। पूर्वमपि तत्र कस्यचित् पञ्चशतप्रवहणानि पतितानि सन्ति। पोतानामनिर्गमेन बाढं विषण्णः सपरिवारः कुबेरस्वामी। अत्रान्तरे समागतः कश्चिन्नौवित्तो नावारूढः। भणितं च तेन, भो लोकाः! दर्शयामि निर्गमोपायम्। भणितश्च कुबेरेण, भो बान्धव! कुतः समायातः? किं नाम च? इति। ततस्तेनोक्तम्, अस्त्यत्रासन्ने पञ्चशृङ्गो द्वीपः। तत्र सत्यसागरो राजा। तेन चैकदा मृगयागतेन हता सगर्भा मृगी। मृगोऽपि तन्मरणं दृष्ट्वा स्वयं मृतः। तेन वैराग्येण सत्यसागरनृपेण स्वदेशेऽमारिपटहो दापितः। अद्य पूर्वप्रेषितकीरमुखाद्युष्मदापदं ज्ञात्वाऽहं नौतासो नाविको निर्गमोपायदर्शनाय प्रहितोऽस्मि राज्ञा। कुमारभूपः—अहो! महात्मनो महती कृपा सर्वसत्त्वसाधारिणी। ततः किम्?। वामदेवः— देव कुबेरस्वामिना निर्गमोपायं पृष्टः। प्राह नाविकः, एतस्य गिरेः कटके द्वारमस्ति। तेन प्रविश्य गिरेः परत्रपार्श्वे गम्यते। तत्र पुरमुद्वसमस्ति। तत्र च जिनचैत्ये गत्वा पटहा वाद्यन्ते। तेषां महता निस्वनेन गिरिशृङ्गसुप्ता रात्रौ भारुण्डपक्षिणः समुड्डीयन्ते। तेषां पक्षवातेन प्रवहणानि मार्गे पतिष्यन्तीति। तदनु कुबेरस्वामिना तत्र गमनाय पृष्टाः सर्वे जनाः, कोऽपि न प्रतिपद्यते। ततोऽसमसाहसी परमकृपापरवशः कुबेर एव गतः। नाविकोक्तमनुष्ठितं तत्र गत्वा। निर्गतानि सहस्रप्रवहणानि भृगुपुरे च प्राप्तानि क्षेमेणेति। अतोऽग्रतः कुबेरस्वरूपं नावगच्छामि। एवं विंशतिकोटिस्वर्णाष्टकोटिरौप्यसहस्रतुलामितरत्नादिकुबेरधनं नृपगृहानुपतिष्ठते, इत्युक्ते महत्तरैर्निरीहशिरोमणिः तद्द्रव्यं तृणवदगणय्यैवंविधासमदयासाहसधनी स पुरुषोत्तमः जीवन्नेव समागष्यतीति गुणश्रियमाश्वास्य यावता पश्चान्निर्गच्छति तावता
-
-
 
 कुबेरो विमानाधिरूढः सजायः समागात्। विमानादवतीर्य मातुः पादौ प्रणम्य राजानं प्रणनाम। राजा सर्वोऽपि महाजनः अहो! महदाश्चर्यंकुबेरः समायात इति वदन्ति।
 
@@ -442,8 +402,6 @@ Circle, Fort, Bombay.**
 
 **(From Jinamaṇdana's Kumârapâlaprabandha.)**
 
-
-
 **INTRODUCTION.**
 
 **आज्ञावर्त्तिषु मण्डलेषु विपुलेष्वष्टादशस्वादरा-  
@@ -465,11 +423,7 @@ Circle, Fort, Bombay.**
 
  **1.** Other works of this type are:**—**(1) Prabodhachandrodaya, (2) Sankalpasúryodaya by Venkaṭanâtha, (3) Mâyâvijaya by Anant Nârâyaṇa Sûri, (4) Jṅânasûryodaya by Vâdichandra, (5) Jṅânachandrodaya by Padmasundara, (6) Chaitanyachandrodaya by Kavi Karṇapûra.
 
-
-
 dialogue between the stage-manager and his wife about the representation of the present drama and its author. The prelude being over, the king Kumârapâla enters the stage with his jester. The king remembers Hemachandra with gratitude. The jester takes him to task for his religiousity. Jñânadarpaṇa, a spy sent to inquire about the return of the enemy king Moha, then comes and relates to him the news got by him. He tells him that he went to the camp of the enemy but for long he could not even get entrance, as the clever guard **प्रमाद**was on his watch incessantly day and night. He, however, at last got entrance under the guise of a sage. There he was received by the circle of heretics **(पाखण्डमण्डल)**, but could not for many days get any news about Moha, Once he saw the mobilization of the army of the enemy for an attack on the capital of **विवेकचन्द्र**. He, too, accompanied the army, which besieged **जनमनोवृत्ति**, the capital of **विवेकचन्द्र**. Vivekachandra occupied the fort named **सदाचार**. A fierce battle ensued. The enemy obstructed the great river **धर्मचिन्ता.** The city was consequently much agitated but the preceptors opened the secret wells of **सदागम‚** and the people were, as it were, given a new life. But Cupid and others of the city joined the side of Moha and gave him the news. The enemy then covered the wells with **रजः,** tied the wheels of **अविनय,** prohibited the entrance of the messengers **प्रबोध** etc., and made holes in the fort. Inside also the stock of food and fuel in the form of**यम** and **नियम** fell short. **विवेकचन्द्र**in consultation with his ministers, Vimarsha and others, requested the enemy through the messenger **काल** for giving the Dharmadvâra. The enemy granted his request and **विवेकचन्द्र** left the city with his bride **शान्ति** and his daughter **कृपासुन्दरी.** The enemy then completely occupied the capital. It was not known where Vivekachandra was at the time. Kumârapâla is delighted to hear the name of**कृपासुन्दरी.** Continuing further the spy told him that he saw a lady, who told him that she was **कीर्तिमंजरी,** the daughter of **सच्चरित्र** through his queen **नीति** and the wife of Chakravarti Kumârapâla. She complained about Kumârapâla's indifference towards her brother **प्रताप** and herself. Once she and her nurse **गुणावली** were taken by the king's man **त्याग** to the forest on the sea-shores. There she fell into the sea, but was saved, and afterwards took the vow of an ascetic and stayed in forest. Once her brother **प्रताप**came from the king and informed her that the king had become attached to the Jain Muni and he was advised by him to remove **कीर्तिमञ्जरी** far away and banish **प्रताप.कीर्तिमञ्जरी** in anger joined the army of Moha, who through her instigations made a vow that either he should not be or he should kill Kumârapâla on thebattlefield. He had adopted the means of making a split in his subjects and had won over to his side the whole court. Now he will make an invasion.**कीर्तिमञ्जरी** asked Jñânadarpaṇa of the result. Jñânadarpaṇa said that Moha himself had indicated his defeat by his words "Either I should not be or Kumârapâla should die at my hands."
-
-
 
 ** कीर्त्तिमञ्जरी‚**pained to hear this, went away and he (Jñânadarpaṇa) came there. King Kumârapâla then expresses his determination to overcome King **मोह.** Behind the stage a bard describing the mid-day Sun indicates that it is time of worship, and the king and the spy leave the stage.
 
@@ -479,8 +433,6 @@ dialogue between the stage-manager and his wife about the representation of the 
 
  *The third act*. The minister **पुण्यकेतु**manages to hide one of his servants behind the image of the goddess whom the queen **राज्यश्री**goes to worship to get the boon of making**कृपासुन्दरी** disfigured. The servant behind the deity tells herthat the marriage of**कृपासुन्दरी** with Kumârapâla should be accomplished, as through that only he would be able to overcome **मोह** and that she should personally go and request **विवेकचन्द्र** for the hand of his daughter and that **कृपासुन्दरी** being the daughter of **शान्तिकुमारी,** the sister of her mother **त्यागपताका,** she should not entertain jealousy. The queen then approaches **विवेकचन्द्र**, who, while accepting the offer, tells her about the vow of his daughter about the stopping of the practice of conflscating the property of those dying heirless, and the banishment of the seven vices. The queen consents to accomplish this and through her servant **व्यवस्था** requests the king to do these things. The king consents.
 
-
-
  At this time four merehants approach the king and request him to send some officer to take possesion of the properties of a big millionaire of the capital named Kubera, who was supposed to be dead in a sea-voyage. The king goes to his mansion and is much pleased to see his immense property consisting of gold, silver, pearls, horses, elephants etc. The king consoles Kubera's mother and issues a general order to stop the practice. Meanwhile Kubera suddenly comes with his newly married wife in an air-ship and all are delighted to see him return safely.
 
  *The Fourth Act*. **देवश्री** enters the stage longing to see her younger daughter **नगरश्री,** and meets **वनराजी,** a friend of **नगरश्री,** who takes her to **नगरश्री.देवश्री**asks her mother why she has been changed. **नगरश्री**relates how her lord Kumârapâla has adopted the Jain faith and has given up flesh-eating and hunting and thus she has also become a Jain. **नगरश्री**describes to her the nature of the Jain religion and**देवश्री** consequently adopts the Jain faith. **देवश्री**asks her why she has put on special dress and ornament. **नगरश्री**replies that the king has just returned from his pilgrimage to Mts. Śatruñjaya and Girnar and that there is a festival to celebrate his entrance in the city.
@@ -488,8 +440,6 @@ dialogue between the stage-manager and his wife about the representation of the 
  Both of them then meet**कृपासुन्दरी‚** who feels uneasy and is diverted by her friends **सोमता,** and **वनराजी.** **देशश्री** contracts friendship with **कृपासुन्दरी.** Noises of hunting and fishing are heard and disgusted at these**कृपासुन्दरी**begins to go away but is stopped. But a fresh noise of the cry of Dharmakuñjara, a police officer newly appointed by the minister **पुण्यकेतु** to search out the men of the enemy, make them able to depart. Then enters the police officer **(दाण्डपाशिक)** **धर्मकुञ्जर** with two footmen **(यम & नियम)** and some other man, who inadvertently gives his real name **संसार,** and from the pill of lac with him a letter is found. The man is taken to the king and there the letter is read. It is addressed to **कलिकन्दल** by King **मोह**, who informs him that a new man **मिथ्यात्वराशि** in the form of a **तापस** is sent to his help and he is to be utilised along with four other men **काम, गर्व, छद्म & लौल्य** sent to him and that the carrier **संसारक** is sent to hasten him in this work. The king orders**संसारक** to be chained.**धर्मकुञ्जर** tells him that**नगरश्री** has requested him to banish the vices for stopping the entrance of the men of the enemy and also for fulfilling the vow of **कृपासुन्दरी**. The king orders him to take hold of the vices Gambling, Flesh-eating, Drinking and Slaughter. Theft and Adultery have been already expelled from the city. Concubinage may, however, be overlooked as it is immaterial if it goes or stays.**धर्मकुञ्जर** goes in search of them and finds **द्यूत** with his wife **असत्यकन्दली, मद्य, जाङ्गलक, सूना** and **मारी** gathered together.
 
  All these talk about the change in the king's religion and the rumours of their banishment. **रहमाण** predicts 12 years' banishment.**धर्मकुञ्जर** siezes them all and brings them before the king. All plead their cause and tell him how the ancient kings and even his ancestors Vanarâja and others were addicted
-
-
 
 to them. They also tell him that they brought large revenues to the State. The king does not listen to them at all and orders their banishment.
 
@@ -513,8 +463,6 @@ Jinamaṇḍana's Kumârapâlaprabandha.
 जित्तिया दिया इत्तिए जिणविहारे कारावसुत्ति। अदो एदे विहारा रन्ना काराविदत्ति।
 
 ** (4)** देव गुज्जरनरेसर परक्कमक्कंतसायंबरीभूपाल! IV-p. 106
-
-
 
 who had resorted to the king of Śámbhar, has undertaken an expedition against Kumârapâla at this time of his conversion.^(**1**)The period of banishment of the vices was of 12 years showing that after Kumârapâla's death the State influence of Jainism declined.^(**2**) The Chaulukya kings lived in the same palaces as those of the Chávdá kings.^(**3**)Hemachandra's new grammar Siddha-Hema had already commenced to be studied in Gujarat.^(**4**)The Yogaśâstra and Vimśati-Vîtarâgastutis were composed by Hemachandra for Kumârapâla.^(**5**)
 
@@ -544,8 +492,6 @@ who had resorted to the king of Śámbhar, has undertaken an expedition against 
 स्त्रीर्नोयामि तथा त्यजामि मदिरां मांसं मधु म्रक्षणम्।  
 नक्तं नाद्मि परिग्रहे मम पुनः स्वर्णस्य षट् कोटय-  
 स्तारस्याष्ट तुलाशतानि च महार्हाणां मणीनां दश॥३९॥**
-
-
 
 heirless his property was confiscated to the State. The State-officers took possession of the house, a Panchakula was appointed and it was only after all the things were taken away by the State-officers, that the dead body could be removed. This gave much trouble to the people. Prostitution was not considered a great sin.^(**1**) Gambling was very common even among kings and the public. On religious occasions the people gambled freely. Five kinds of gambling are described. **1.** **अन्धय** which is daily resorted to by kings on squares with a small piece of cloth on their privities. **2. नालय** which is played by bankers with plenty of gold. **3. चतुरङ्ग** which seems to be the same as chess. **4. अक्ष** dice, with which the Kauravas won a kingdom. **5. वराड** playing with cowries common with boys.^(**2**) The description of gamblers too is given Of some, hands, feet and ears are chopped off. Of others, eyes are removed. Some are without nose and lips, of some all the limbs are cut off, while others go naked.^(**3**)
 
@@ -580,8 +526,6 @@ heirless his property was confiscated to the State. The State-officers took poss
 सेवाइ जस्स डिम्भा गयंपि कालं न याणंति॥९॥**
 
  (3) केवि कट्टियचरणकरकन्न, किवि कड्ढियनयणजुय, केवि नक्कअहरिहि विवज्जिय किवि लूणसव्वावयव केवि जेव खवणय अलज्जिय॥ IV-11
-
-
 
 king of Cutchha, 10. Sister's son of the king of Marwar, and 11 uncle of the Chaulukya King.^(**1**) They delighted so much in gambling that even if there died in their house father, mother, wife or son, they went on gambling without any sorrow.^(**2**) Śûdraka won his empire through gambling.**³**
 
@@ -624,8 +568,6 @@ king of Cutchha, 10. Sister's son of the king of Marwar, and 11 uncle of the Cha
 **(6)पौराः कुर्युर्विपणिपदवीमस्तपांशुं पयोभि-  
 र्मुक्ताहारै रुचिरवसनैर्हट्टशोभां विदध्युः।**
 
-
-
  Vanarâja was much addicted to drinking and so also were all the Châpotkaṭa kings.^(**1**) Kumârapâla was much addicted to flesh-eating in his youth and during his wanderings he maintained himself chiefly on flesh.^(**2**)
 
 ** Hemachandra, the spiritual preceptor of Kumârapâla—**Hemachandra's is a great personality in the history of Jainism. He occupies a very high place among the Jain Âchâryas and laymen, who contributed towards the spread and glorification of the Jain faith. Hemachandra was born in Samvat 1145 in the family of a leading family of Modha Bania of Dhandhukâ (in the Ahmedabad District). His name was Changadeva, and his parents' Pâhiņi and Chachcha. Once Devachandra Sûri of the Pûrṇatalla Gachchha came to Dhandhukâ. Among the Jains who came for paying their respects and hearing his lectures, there was one young lad, Changadeva, with his maternal uncle Nemichandra. Changadeva hearing the lecture requested him to initiate him. The Sûri asked who he was. His maternal uncle said that he was his sister's son. While he was in his mother's womb she saw in a dream a mango tree grown in her house. The tree, after it began to put forth flowers and fruits, was removed to a great garden, where it began to favour many persons with its shadow, sprouts, flowers, and choice fruits. The boy's heart was turned to religion. The Âchârya replied that the boy should enter the order as he would, thereby, be able to do good to the people like a Tîrthankara and asked him to take the permission of his father for initiation. Chachcha, however, refused but the boy persisted, and followed theÂchârya and took the vow at Cambay. This event occurred in Samvat 1154. His name was kept as Somadeva. He learnt in a few years all the scriptures. Devachandra Sûri, seeing the wonderful intellect of the pupil, made him a Sûri in Samvat 1162 at Nágor. As the colour of his body was like that of gold and his face delighted the people like the moon, he was called Hemachandra.
@@ -642,8 +584,6 @@ king of Cutchha, 10. Sister's son of the king of Marwar, and 11 uncle of the Cha
 
 **(2) बालत्ताउ वि तुह देव! निच्चमच्चंतवल्लहो अहयं।  
 मह साहिज्जेण तया कयाइं देसंतराइँ तए॥**
-
-
 
 ** Hemachandra and the conversion of King Kumârapâla—** Hemachandra had, however, complete sway over Siddharâja's successor, Kumârapâla. The work begun by Hemachandra in Siddharâja's time was completed in the reign of Kumârapâla. Siddharâja only favoured Jainism but it was during the reign of Kumârapâla that Jainism was adopted as the religion of the State. Kumârapâla took the twelve vows of a Jain layman and stopped the practice of the killing of animals throughout his kingdom and also the territories of his tributaries. He erected many big temples throughout his kingdom. The practice of confiscating the property of those dying heirless was also abolished and gambling, drinking, flesh-eating, stealing, and adultery were prohibited by royal edicts.
 
@@ -667,8 +607,6 @@ king of Cutchha, 10. Sister's son of the king of Marwar, and 11 uncle of the Cha
 नामापि न विदन्त्येषां मादृशा मन्दमेधसः॥**
 
 **प्रभावकचरित**
-
-
 
 and similarly the Triśashaṭiśalâkâpurushacharitra was also composed at Kumârapâla's request^(**1**). Hemachandra died in Samvat 1229, at the mature age of 84, only six months before Kumârapâla.
 
@@ -700,8 +638,6 @@ and similarly the Triśashaṭiśalâkâpurushacharitra was also composed at Kum
 **(2) स कौबेरीमातुरुष्कमैन्द्रीमात्रिदशापगाम्।  
 याम्यामाविन्ध्यमावार्धि पश्चिमां साधयिष्यति॥ IV- 52.**
 
-
-
 conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and the Silhâra king Mallikârjuna. During his reign the kingdom of Gujarat had reached its highest glory. The enemies having been subdued, he could devote himself to religious matters. Minister Bâhaḍadeva introduced to him the great Hemachandra, whose great learning gratified his religious curiosity. Daily he heard his religious sermons and the doctrine of non-injury went straight into his heart. He adopted the Jain faith and took the vows of a Jain layman. The date of this event is given by Jinamaṇḍana as Samvat 1216 the second day of the bright half of Mâgha. He was zealous in this new faith adopted by him and built many Jain temples throughout his kingdom, issued orders for the prohibition of slaughter in his kingdom and also stopped the seven vices. Two such edicts of non-injury to animals issued by Kumârapâla's feudatories of Marwad:— (1) by Pûnapâksa and (2) by Âhlaṇadeva dated Samvat 1207— have come to light (vide appendix III). He made pilgrimages to Mts. Śatruñjaya and Girnar. He died in Samvat 1229 at the mature age of 80.
 
 ** The Mss. Material.** The present edition of the Moharâjaparâjaya is based on the following three mss. designated as *A, B,* & *C*.
@@ -716,8 +652,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  This ms. seems to have been copied from the palm-leaf ms. B. Both these mss. belonged to a collection of the Kharatara Gachchha bought by Dr. Kielhorn at Pattan. They are on the whole correct and reliable. The Prâkṛta portion, too, is generally correct.
 
-
-
 **CONTENTS**
 
 |                                                                           |
@@ -730,8 +664,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 | (6) Appendices                                                            |
 | (7) Index of names of historical importance occurring in the Mohaparâjaya |
 | (8) Corrigenda                                                            |
-
-
 
 **पात्राणि**  
 ![](../books_images/U-IMG-1729445217Screenshot2024-10-20225638.png)
@@ -790,8 +722,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** पातालचन्द्रिका—** कुबेरश्रेष्ठिपरिणीता पातालकेतुविद्याधरपुत्री
 
-
-
 ** देशश्रीः— **भगिन्यौ
 
 ** नगरश्रीः— **भगिन्यौ
@@ -846,8 +776,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** कलिकन्दलादयः—** मोहराजकटकाधिपतयः
 
-
-
 ![](../books_images/U-IMG-1729446801Screenshot2024-10-20232247.png)
 
 मन्त्रियशःपालविरचितं
@@ -887,8 +815,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (१)** आज्ञापयतु आर्यपुत्रः को नियोगोऽनुष्ठीयतामिति।
 
-
-
 ** नटी—(१)**अच्छरियं[^3] अच्छरियं जं दाणि इदं पि विसुमरिदं अज्जेण णं। महीमोहणाभिहाणेण भरदहदगेण पउरपयंडपरिच्छदेण पाढपोढिमाए वसीकदो नायरजणो। तं च पराजेदुं वंछदि मे वच्छो भुवणमल्लो। नवरं दुरधीदविज्जो अणुवासिदगुरुकुलो अ। अदो सुगुरुसेवज्जियविज्जं करेमि त्ति मंतिय मए सद्धिं अज्जेव अज्जेण कइविसेसनवनिबद्धविसुद्धसिद्धहेमणामहेयवागरणपढणत्थं उवणीदो उवज्झायस्स कुमारो। पुत्तविज्जागहणमहूसवसंवुत्तसंगीदाणंदसंदाणिदाए न मुणिदो मए कालक्खेवो।
 
 [^3]: " A अच्छरीयं अच्छरीयं."
@@ -914,8 +840,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
  **(१)** आश्चर्यमाश्चर्यं यदिदानीमिदमपि विस्मृतमार्येण खलु महीमोहनाभिधानेन भरतहतकेन प्रचुरप्रचण्डपरिच्छदेन पाठप्रौढिम्नावशीकृतो नागरजनः। तं च पराजेतुं वाञ्छति मे वत्सो भुवनमल्लः। नवरं दुरधीतविद्योऽनुपासितगुरुकुलश्च। अतः सुगुरुसेवार्जितविद्यं करोमीति मन्त्रयित्वा मया सार्द्धमद्यैवार्येण कतिविशेषनवनिबद्धविशुद्धसिद्धहेमनामधेयव्याकरणपठनार्थमुपनीत उपाध्यायाय कुमारः। पुत्रविद्याग्रहणमहोत्सवसंवृत्तसङ्गीतानन्दसन्दानितया न ज्ञातो मया कालक्षेपः।
 
 ** (२)** तदिदं क्षीरे शर्करोत्करो यदुत्सवे उत्सवान्तरम्। तस्मात्कथयत्वार्यः किं खलु तत्।
-
-
 
 ** नटी—** **(१)**अज्ज! अवि अत्थिको वि तादिसो अहिणवपबंधो जस्स अहिण[^7]यरसेण भगवदो संघस्स सासणं संपाडिय कयत्थो हवसि[^8]।
 
@@ -954,8 +878,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (३)** आर्य! यद्येवं तदा एतस्य राजर्षेः परमबोधिसत्त्वस्यात्यद्भुतचरितेन विच्छायितानि चिरन्तनमहानरेन्द्रललितानि।
 
-
-
 **थारापद्रपुरं निसर्गचतुरं चैत्येषु सर्वोत्तमं  
 किञ्चैतज्जिनमन्दिरं रसमयं चौलुक्यवृत्तं स्वयम्।  
 जङ्घालः कविराजवर्त्मसु यशःपालः प्रवीणः कवि-  
@@ -986,8 +908,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 [^15]: "सुप्रसन्नचन्द्रपादस्य भवतु भद्रं वसन्तराजस्य।   भुवने लब्धप्रसरो दलितः शिशिर ऋतुर्येन॥"
 
 ** सूत्रधारः—** (श्रुत्वा सप्रमोदं) अये! कथमुपक्रान्तमेव कुशीलवैः, यदियं निस्तन्द्रचन्द्रमःकिरणधोरणीधवलितधरातलस्य लब्धप्रसरशिशिरवैरिविजयावर्जितोर्जितकीर्त्तेः ऋतुचक्रवर्त्तिनोऽवतारव्याजेनैदंयुगीनजैनसङ्घमध्यमूर्द्धन्यश्रीहेमचन्द्रगुरुपादप्रसाद-प्रादुर्भूतप्रबोधस्य जनितजगद्द्रोहमोहरिपुराजपराजयप्ररोहदसपत्नवीरव्रतस्य सकलमहीपालमौलिलीलालालितशासनस्य स्वामिनः
-
-
 
 श्रीमत्कुमारपालदेवस्य प्रावेशिकी ध्रुवा। तदेह्यावामप्यनन्तरकरणीयाय सज्जीभवावः।
 
@@ -1030,8 +950,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (३)** कथं मम वचनमनाकर्ण्य तत्रैव तस्य निर्बन्धस्ततः क उपायः। अथवा प्रकटमेव भणिष्यामि तावत्। भो वयस्य! निश्चितं छलितोऽसि एतैः पाखण्डिपिशाचैः। यतो नापेक्षसे राज्यम्,
 
-
-
 न संभावसि अवरोहं, न बहु मन्नसि संगीदरसं। अधवा मह ज्जेव इक्कस्सअपुन्नोदएण ईदिसो तं जादोऽसि। जदो जप्पभुदि तस्स सेयंबरधुत्तस्स दंसणं संवुत्तं तप्पभुदि निसाए न भुंजसि। दिवा वि अणिद्धमधुरमदिक्कंतवेलं अबहुवंजणं इदरु व्व जं वा तं वा जेमसि[^20]। ता सच्चमेदं वरस्स खलु भोयणे जन्नजत्ताए पंसु त्ति। अदो पसीद पडिवज्ज पगिदिं।
 
 [^20]: "A जेमेसि"
@@ -1064,8 +982,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 न संभावयसेऽवरोधम्, न बहु मन्यसे सङ्गीतरसम्, अथवा ममैवैकस्यापुण्योदयेनेदृशस्त्वं जातोऽसि। यतो यत्प्रभृति तस्य श्वेताम्बरधूर्त्तस्य दर्शनं संवृत्तं तत्भृति निशायां न भुङ्क्षे। दिवापि अस्निग्धमधुरमतिक्रान्तवेलमबहुव्यञ्जनमितर इव यद्वा तद्वा जेमसि। ततः सत्यमेतद् वरस्य खलु भोजने जन्ययात्रायां पांशुरिति। अतः प्रसीद प्रतिपद्यस्व प्रकृतिम्।
 
-
-
 ** विदूषकः—** (स्वगतं) **(१)** असज्झो एस वाही। ता उविक्खिस्सं। (प्रकाशं) भो वयस्स! चिरादो छुहाकरालिदोन सक्कुणोमि तए सह चडुत्तरियं कादुं।
 
 (नेपथ्ये)
@@ -1092,17 +1008,17 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^22]: "यद्देव आज्ञापयतीति।"
 
-** राजा—** (स्वगतं सावज्ञं) किमनेन। अथवा पश्यामस्तावत्। (प्रकाशं) भद्र! मदाज्ञया कर्मविवरं प्रतीहारमुक्त्वा मोचयित्वा पुरस्कृत्य चैनं प्रवेशय।
-
 [^23]: "देव! द्वारपालप्रतिस्खलितो योगीन्द्रः कोऽपि।"
+
+** राजा—** (स्वगतं सावज्ञं) किमनेन। अथवा पश्यामस्तावत्। (प्रकाशं) भद्र! मदाज्ञया कर्मविवरं प्रतीहारमुक्त्वा मोचयित्वा पुरस्कृत्य चैनं प्रवेशय।
 
 ** पुरुषः—** जं देवो आणवेदिति।[^24] (निष्क्रम्य योगिना सह पुनः प्रविश्य च) इदो इदो एदु तत्तभवं।[^25]
 
 [^24]: "यद्देव आज्ञायतीति।"
 
-** योगी—** (परिक्रामन् सविमर्शं) अहो! साधूक्तम्,
-
 [^25]: " इत इत एतु तत्रभवान्।"
+
+** योगी—** (परिक्रामन् सविमर्शं) अहो! साधूक्तम्,
 
 **तस्याजननिरेवास्तु नृपशोर्मोघजन्मनः।  
 अविद्धकर्णो यो योग इत्यक्षरशलाकया॥१४॥**
@@ -1110,8 +1026,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
  **(१)** असाध्य एष व्याधिस्तत उपेक्षिष्ये। भो वयस्य! चिरात्क्षुधाकरालितो न शक्नोमि त्वया सह चटोत्तरितं कर्त्तुम्।
-
-
 
  (पुरोऽवलोक्य च सहर्षं) स एष निःशेषधर्मवीरप्रवरो राजर्षिः कुमारपालदेवः। अस्य हि**—**
 
@@ -1142,9 +1056,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^29]: "एवं भवतु। "
 
-** योगी—**(उपसर्प्य) राजर्षे! योगेनावियुक्तो भूयाः।
-
 [^30]: "एष देवः, उपसर्पेमम्।"
+
+** योगी—**(उपसर्प्य) राजर्षे! योगेनावियुक्तो भूयाः।
 
 ** राजा—**योगिन्! इदमासनमास्यताम्। लोकाचार! त्वमपि स्वनियोगमलङ्कुरु।
 
@@ -1153,8 +1067,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
  **(२)** अथवा तव वयस्योऽस्मि ततो न भेष्ये। यदि एष मां छलयितुं धाविष्यति ततो नूनमेतेन दण्डकाष्ठेन ताडयिष्यामीति।
-
-
 
 ** राजा—** (स्वगतं) उत्तानप्रकृतिर्बटुस्तन्नैव[^31] रहस्यश्रवणार्हः भवतु तावत्। (प्रकाशं) योगिन्! कच्चिदात्यन्तिकः कोऽपि धर्मप्रत्यूहहेतुर्यदस्मानस्मार्षीः।
 
@@ -1208,8 +1120,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (५)** आश्चर्यमाश्चर्यं यदहं महाब्राह्मणोऽप्ययोग्यः।
 
-
-
 ** विदूषकः—** **(१)** अध कधं जुग्गो[^37] होमि?।
 
 [^37]: " B & C जोग्गो."
@@ -1257,8 +1167,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  **(५)** परित्रायस्व भोः! परित्रायस्व माम्। निजब्राह्मण्या विना योऽन्यस्य चरणेषु आजन्म न पतितः सोऽहं मोहयित्वा पाखण्डिना पादयोः पात्ये।
 
-
-
 ** विदूषकः— (१)** एवं[^43] पि भोदु। (पादयोः पतति।)
 
 [^43]: " B & C °वं भो.°"
@@ -1305,8 +1213,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (३)** ननु ईदृशो राज्ञो दूरेण प्रणामः क्रियते। यत्र ब्राह्मणा अपि एवं विडम्ब्यन्ते, ततो गमिष्यामि।
 
-
-
 ** राजा—** उपपन्नमेतत्, निषिद्धासंस्तुतजननिर्गमप्रवेशा हि शिबिरनिवेशाः।
 
 ** ज्ञानदर्पणः—** अथ किम्? तत्र हि दिवानिशं भ्राम्यन्न विश्राम्यति मोहनरेन्द्रनिरूपितो निपुणः प्रमादो नाम कटकारक्षकः।
@@ -1345,8 +1251,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** ज्ञानदर्पणः—** देव! किमेकमस्य वर्णयामि?। यतः**—**
 
-
-
 **दग्धं येन पुरातनं तृणमिवायत्नात्पुराणां त्रयं  
 यस्य प्रज्वलतो नभस्तलमिदं धूम्यायते सर्वतः।  
 यत्र त्रीण्यपि विष्टपान्युपययुः सान्न्याय्यलेशश्रियं  
@@ -1354,10 +1258,8 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  अपि च—  
 
-
 **बललीलायितं दृष्ट्वा तस्य मोहमहीपतेः।  
 कान्दिशीको भवत्येव कालिन्दीसोदरः प्रभो!॥२२॥**  
-
 
  अपि च—
 
@@ -1385,8 +1287,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 ** ज्ञानदर्पणः—** सहसोपस्थितं च परचक्रमालोक्य पर्याकुलोऽभवत्पौरलोकः।
 
 ** राजा—** ततः कच्चिदभ्यमित्रीणतां प्रपन्नो विवेकराजः?।
-
-
 
 ** ज्ञानदर्पणः—** नहि नहि, अपि तु सदाचारनाम्नः प्राकारस्य मध्यमध्यास्य स्थितः।
 
@@ -1419,8 +1319,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 ** राजा—** उपपद्यते तर्हि।
 
 ** ज्ञानदर्पणः—** अथ रिपुभिरुपेत्य रजसाच्छादिताः कूपाः। बद्धाश्चाविनयप्रभृतयो घट्टाः। प्रतिषिद्धाश्च प्रबोधप्रभृतिप्रणिधिसञ्चाराः। पातितानि प्रतिकलं प्राकारे छिद्राणि। अन्तरपि प्रतनूबभूवतुर्यमनियमरूपे यवसेन्धने।
-
-
 
 ** राजा—**अहो! महात्मनो मनोवचसोरगोचरः कोऽपि व्यसनोत्करः।
 
@@ -1462,8 +1360,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** राजा—**(स्वगतं) न जाने कुतोऽपि विवेकनृपतिकुलनभस्तलशशिकलां कृपासुन्दरीमुपश्रुत्यापि किमपि द्रवतीव मे चेतश्चन्द्रकान्तः। अपि च—
 
-
-
 **आजन्मनोऽप्यहह! निर्जितचन्द्रधाम्ना  
 नाम्नापि या परिचयं न जगाम नाम।  
 एनां विवेकनृपतेस्तनयां निशम्य  
@@ -1497,8 +1393,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 अथावाचि मया 'आर्ये! साधु ज्ञापितोऽस्मि। संप्रत्यस्मरं तं गूर्जरेश्वरं
 
-
-
 राजर्षिम्’। पुरस्तात्कथय। कीर्त्तिमञ्जरी प्राह, 'भगवन्! इमां गुणावलीं नाम ममैव धात्रीं विद्धि। यदङ्कलालिताहं वृद्धिमागता। अमुं च प्रतापं नाम मे भ्रातरमवेहि। अथ स भर्त्ता मूलादपि वीरश्रीविलासरसैकलालसोऽभूत्। मम तु स बाल्यादपि प्राणप्रियः समजनि। तदनेन दग्धास्मि प्रतिदिनं दर्शितप्रतिप्रेयसीर्ष्यासंपदा। अपि च—
 
 **कविभिरभितो बद्धा कण्ठे धृता बत! बन्दिभिः  
@@ -1517,8 +1411,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 निर्विषयं चाज्ञापय बन्धुममुष्याः प्रतापाख्यम्॥३१॥**
 
  तच्चाप्तबुद्ध्या परिगृह्य निर्वासितोऽहम्। तवापि दूरप्रापणार्थमनुपदमेष्यति धर्मशेखरनामा नवदण्डपाशिकः। तदेहि वरं स्वयं दूरीभवावः' इति। तच्चाकर्ण्य सरोषमुक्तं मया, 'भ्रातः! स्थिताहमियन्तं कालं कुलव्रते। अधुना पुनः पश्य यत्करोमि' इत्युक्त्वा प्राप्ता विश्वजयिनो मोहनृपतेर्निकटम्। तैस्तैश्च वचनप्रपञ्चैर्दूरं ग्राहितस्तदुपरि संरम्भं मोहमहीपतिः। कृता चानेन सर्वसमक्षमप्रतिमा प्रतिज्ञा। यथा—
-
-
 
 **अहं वा न भवाम्येष जगद्विक्रमघस्मरः।  
 न स वा भवति क्षुद्रः क्षत्रियः समराङ्गणे॥३२॥**
@@ -1553,8 +1445,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **प्रथमोऽङ्कः।**
 
 ![](../books_images/U-IMG-1729526166Screenshot2024-10-21212527.png)
-
-
 
 **द्वितीयोऽङ्कः।**
 
@@ -1594,8 +1484,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **यो निमिषमपि निशास्वपि न स्वपिति प्रभुराज्यकार्यचिन्तया।  
 एतस्य लभते को चरणरेणुकरणिलेशमपि?॥**
-
-
 
  उवसप्पामि णं दाव। (उपसृत्य) जयदु जयदु अमच्चो।
 
@@ -1642,8 +1530,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  एवं चोत्पादिता बाढं देवे दर्शनोत्कण्ठा। आनीतः स समं देव्या तनयया च चौलुक्यराज-
 
-
-
 ** पुण्यकेतुः—** (सरभसं) भद्र! किमुच्यते? चतुरोऽसि महापुरुषसंयोजनव्यवहारवर्त्मसु। यतः—
 
 **इतरेतरमुत्कण्ठितमनसोः स्वपदप्रधानयोरुभयोः।  
@@ -1683,8 +1569,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 धानीम्। स्थितो भगवतः श्रीहेमचन्द्रस्य तपोवने। राजर्षिणा सह कारितो गुरुसमीपे दर्शनम्।
 
 ** (१)** अथ किं?। अपि च, तयापि सानुरागं सुचिरं निर्वर्णितो देवः।
-
-
 
 (ततः प्रविशति राजा विदूषकश्च।)
 
@@ -1728,8 +1612,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **यत्र वा तत्र वा नूनं कामिजनो पश्यति तन्मयं सकलम्।  
 उन्मत्तकरसरसितः प्रेक्षते नान्यद्विना कनकम्॥**
-
-
 
  भोदु दाव बोधयिस्सं। (प्रकाशं) भो वयस्स! कीस तीसे रूवविवज्जिदाए इत्थिगाए कदे माइण्हियाइ व्व मिगो बाढं तम्मसि?। कहं वा तप्पिम्मगहिल्लिओ[^63] रुवनिज्जिदरदीणं देवीणं परम्मुहो होसि?। ता सव्वधा न जुत्तमिमं।
 
@@ -1775,8 +1657,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
  भवतु तावद् बोधयिष्ये। भो वयस्य! कस्मात्तस्या रूपविवर्जितायाः स्त्रियाः कृते मृगतृष्णिकाया इव मृगो बाढं ताम्यसि?। कथं वा तत्प्रेमग्रथिलको रूपनिर्जितरतिभ्यो देवीभ्यः पराङ्मुखो भवसि?। ततः सर्वथा न युक्तमिदम्।
 
 ** (१)** अतिदूरमारोपित एष दास्याः पुत्रकेन प्रेमग्रहेण। ततः किमिदानीं कर्त्तव्यम्।
-
-
 
 **एसो धम्मारामो जत्थत्थि महद्दुमो दमो नाम।  
 मुत्तावलीहिं फलिओ विडम्बए तियसतरुलच्छिं॥१८॥**
@@ -1827,8 +1707,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (२)** एवमेतत्।
 
-
-
 ** राजा—** साधु वयस्य! साधु। साप्यत्र सावधानैर्विलोकनीया। (इति सानन्दं परिक्रामति।)
 
 ** विदूषकः—**वयस्स! पिच्छ पिच्छ एस सो पायवो।[^72]
@@ -1868,8 +1746,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 [^76]: "भगवान् जानाति। पुनरपि आज्ञापयतु तत्रभवान्।"
 
  उन्मुद्रितसरस्वतीभाण्डागारस्य ज्ञानसमुद्रस्य श्रीहेमचन्द्रस्य गुरोरादेशसुधासारं मन्मुखप्रणालद्वारेण धारय मनःकुण्डे। यदस्य तरोर्निजसखीसकाशात्सेचनकं कारयेः।
-
-
 
 ** सोमता—** **(१)** भयवं! इमाए गुरुयणआणाएआणन्दरसतरंगिदं मे हिदयं[^77]। परं केण जलेण एस रुक्खो सित्तव्वु? त्ति आइससु।
 
@@ -1912,8 +1788,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (३)** कीदृशोऽयं प्रियवयस्यस्य चित्तविभ्रमो यदेवं कथयति?। ततः स्वयमपि प्रेक्षिष्ये। वयस्य! अहमपि प्रेक्षिष्ये।
 
-
-
 **(१) एसो सारयचन्दो नीहरिदो तरुवराओ संपुन्नो।  
 लायन्नसुधा[^81] पिज्जइ जस्स सुरेहिं अलिछलेण॥२९॥**
 
@@ -1954,8 +1828,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 ** (४)** सखि! मधुकरराजेन मम हृदयतोऽपहृतो ध्यानकलशस्ततः किं करोमि?।
 
 ** (५)** अयि अपहृत एवानेन मधुकरराजेन ध्यानकलशः। प्रियसखि! पुनरपि संघटय ध्यानकलशम्।
-
-
 
 **यत्कीर्त्तिजन्मेव सुधामरीचि-  
 र्जगत्तमो हन्ति महोविलासैः॥४१॥**
@@ -2001,8 +1873,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 निजजनपदसीमां मोचयेद्यश्च द्यूत-  
 प्रमुखव्यसनचक्रं स वरो मम भवतु॥**
 
-
-
 ** शुकः—** श्रद्धेयमेवेदम्।
 
 ** सोमता—** इत्थ अत्थे अस्थि सक्खी को वि?।[^89]
@@ -2011,13 +1881,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^89]: "अत्रार्थेऽस्ति साक्षी कोऽपि?।"
 
-** विदूषकः—** (श्रुत्वा उपसृत्य शुकमवलोक्य च) सत्थि रायसुयस्स।[^91]
-
 [^90]: "अस्ति राजवल्लभो द्विजवरप्रधानपुरुषः।"
 
-** शुकः—** तव महाद्विजस्य दर्शनेन।
+** विदूषकः—** (श्रुत्वा उपसृत्य शुकमवलोक्य च) सत्थि रायसुयस्स।[^91]
 
 [^91]: "स्वस्ति राजशुकस्य।"
+
+** शुकः—** तव महाद्विजस्य दर्शनेन।
 
 ** विदूषकः—** (सोमतां निरीक्ष्य) सुंदरि! सोहग्गगव्विरी होहि।[^92]
 
@@ -2031,9 +1901,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^93]: "अत्रार्थे मम महाब्राह्मणस्य वचनं प्रमाणम्।"
 
-** शुकः—** तद्गमिष्याम्यहम्। (उड्डीय गतः।)
-
 [^94]: " नूनं सिद्धमिदं प्रयोजनम्।"
+
+** शुकः—** तद्गमिष्याम्यहम्। (उड्डीय गतः।)
 
 ** सोमता—** (सविषादं) कहं गदो रायसुओ?। अज्ज वि पियसही झाणकलससिंचणादो न
 विरमदि।[^95]
@@ -2045,8 +1915,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 ** (८)** सखि सोमते! एतस्य शाखिनोऽदृष्टगुणपाशेन संयतास्मि। पदमेकं चलितुं न शक्नोमि। तत आगत्य पाशान्मोक्षं कुरु।
-
-
 
 ** सोमता—** (स्वगतं) **(१)** अदिसएण बंधे पडिस्सदि। (प्रकाशं) भोदु दाव। (समीपमुपसृत्यावलोक्य च) सहि! गाढयरो बंधो नाहं मोक्खं कादुं सक्केमि। जदि परं भट्टा करिस्सदि।
 
@@ -2071,13 +1939,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^98]: "हला रौद्रते! अपि नामावितथमेतद्यत्त्वं कथयसि?।"
 
-** राज्यश्रीः—** ता पुणो वि कधेसु एदं।[^100]
-
 [^99]: " भट्टिनि! किमन्यथा तव निवेद्यते?।"
 
-** रौद्रता— (७)** जं देवी आणवेदि। जणमणवित्तिणामनयरीनरिंदो विवेयचन्दो नाम सपदि इत्थ समागदो चिट्ठदि त्ति देवीए विदिदं ज्जेव।
+** राज्यश्रीः—** ता पुणो वि कधेसु एदं।[^100]
 
 [^100]: " तत् पुनरपि कथयैतत्।"
+
+** रौद्रता— (७)** जं देवी आणवेदि। जणमणवित्तिणामनयरीनरिंदो विवेयचन्दो नाम सपदि इत्थ समागदो चिट्ठदि त्ति देवीए विदिदं ज्जेव।
 
 ** राज्यश्रीः—** अध किं?।[^101]
 
@@ -2088,8 +1956,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
  **(१)** अतिशयेन बन्धे पतिष्यति। भवतु तावत्। सखि! गाढतरो बन्धो नाहं मोक्षं कर्तुं शक्नोमि। यदि परं भर्त्ता करिष्यति।
 
 ** (७)** यद्देवी आज्ञापयति। जनमनोवृत्तिनामनगरीनरेन्द्रो विवेकचन्द्रो नाम संप्रत्यत्र समागतस्तिष्ठतीति देव्या विदितमेव।
-
-
 
 ** \[रौद्रता\]—** **(१)** तस्स य धूया किवासुन्दरी नाम। सा य आसमपदे पिइपासनिसन्ना निव्वन्निदा भट्टिणा।
 
@@ -2133,17 +1999,15 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (८)** हले! एष स निर्लज्जो यथा कथितस्तथा दृश्यते। तत एहि प्रतिनिवृत्तास्मि। न खल्वेवं दयितं द्रष्टुं क्षमास्मि।
 
-
-
 ** रौद्रता—**भट्टिणि! तरुतिरोहिदा दाव सुणिस्सामो कि जंपंति?।[^108]
 
 ** राज्यश्रीः—**एवं भोदु।[^109]
 
 [^108]: "भट्टिनि! तरुतिरोहिते तावत् श्रोष्यावः किं कथयतः?।"
 
-(उभे तथा कुरुतः।)
-
 [^109]: "एवं भवतु।"
+
+(उभे तथा कुरुतः।)
 
 ** राजा—** प्रिये! आज्ञापय मां येन विगतपाशबन्धनां त्वां करोमि।
 
@@ -2161,17 +2025,17 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^111]: "हले! अतः परं जीवित्वा किं कर्त्तव्यम्?।"
 
-** राज्यश्रीः—**एवं पि भोदु।[^113]
-
 [^112]: "भट्टिनि! पुनरपि पश्य तावत्।"
 
-** कृपासुन्दरी—** चालुक्क! मुंच मुंच ममं गमिस्समहं दाव।[^114]
+** राज्यश्रीः—**एवं पि भोदु।[^113]
 
 [^113]: "एवमपि भवतु।"
 
-** राजा—** प्रिये! न खलु चिरात्प्राप्तां त्वामहं मोक्ष्यामि।
+** कृपासुन्दरी—** चालुक्क! मुंच मुंच ममं गमिस्समहं दाव।[^114]
 
 [^114]: " चौलुक्य! मुञ्च मुञ्च मां गमिष्याम्यहं तावत्।"
+
+** राजा—** प्रिये! न खलु चिरात्प्राप्तां त्वामहं मोक्ष्यामि।
 
 ** कृपासुन्दरी—** (सर्वतो विलोक्य सभयं) अज्जउत्त![^115] (इत्यर्धोक्ते लज्जां नाटयित्वा) महाराज! मुंच मुंच ममं। जदो एदाए तरुतिरोहिदाए आतंबलोयणाए बीहेमि।[^116] (इति राज्ञो भुजान्तरं प्रविशति।)
 
@@ -2180,8 +2044,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 [^116]: "महाराज! मुञ्च मुञ्च माम्। यत एतया तरुतिरोहितया आताम्रलोचनया बिभेमि।"
 
 ** राजा—** (अवलोक्य) अहो! परमोपकारिणी काचिदेषा। येनेदृशां श्रेयसां पात्रीकृतोऽस्मि,
-
-
 
 **नोदगमिष्यद्राहुर्यदि नभसि भयङ्करास्यकुहरोऽसौ।  
 तत्किं शशभृत्प्रतिमा मम शरणमुपैष्यदमृतमयी?॥४५॥**
@@ -2213,9 +2075,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^119]: "भट्टिनि! अतः परमहमपि श्रोतुमक्षमा। ततः का गतिः?।"
 
-** रौद्रता—**एवं भोदु।[^109]
-
 [^120]: "हले! एहि येन हारलतया बद्ध्वालीलाकमलनालेन निर्दयं ताडयामीमं शठम्।"
+
+** रौद्रता—**एवं भोदु।[^109]
 
 [^109]: "एवं भवतु।"
 
@@ -2233,8 +2095,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **अभिरमते राजहंसो बकीषु मुक्त्वा जात्यनिजहंसीम्।  
 तस्यैव स दोषो वंशविरुद्धं कुर्वाणस्य॥**
-
-
 
 ** कृपासुन्दरी—** मुंच मुंच ममं एदाए बीहेमि बाढं।[^123]
 
@@ -2274,8 +2134,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 ** (२)** रौद्रते! बधान तावदिमं प्रत्यक्षदृष्टविप्रियमनया हारलतया। यथा ताडयाम्यनेनोत्पलनालेन।
 
 ** (३)** हला रौद्रते! अथवा तिष्ठतु तावदस्मिन् बन्धनक्लेशः। त्यक्तमर्यादः खलु एषः।
-
-
 
 **मणिमुकुटशिखाग्रप्रेङ्खदंशुप्रवाहैः[^126]  
 प्रतिनिहततमिस्रैर्येऽभवन् भानुकल्पाः।  
@@ -2318,8 +2176,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (१)** अरे! अपरनारीसङ्गसंभूतं तवाङ्गगन्धं सोढुं न शक्नोमि। ततो गमिष्यामि।
 
-
-
 ** वैतालिकः—**
 
 **चक्षुर्घस्मरमोहडम्बरतमस्तोमद्रुमोच्छित्तये  
@@ -2334,8 +2190,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **द्वितीयोऽङ्कः।**
 
 ![](../books_images/U-IMG-1729403126Screenshot2024-10-20111506.png)
-
-
 
 **तृतीयोऽङ्कः।**
 
@@ -2358,9 +2212,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^131]: "कथमेष आर्यललितस्वभावः?। भवतु। उपसर्पामि।"
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
 [^132]: "आर्य! प्रणमामि"
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 ** (१)** हीही भोः! राजरहस्यभ्रश्यमानोदरो न शक्नोमि जनसंकुले निजजिह्वां नियन्त्रयितुम्। ततोऽन्यतो गमिष्यामीति। साधु अमात्यपुण्यकेतो! साधु। यत्तथादुर्घटमपि घटितमेव त्वया स्वामिकार्यम्। तथाहि, प्रियवयस्यकृपासुन्दरीसङ्गमविघटनकृते चौलुक्यचक्रवर्तिकुलदेवतामाराधयन्तीं देवीं राज्यश्रियं ज्ञात्वा भवितव्यता नाम निजप्रणयिनी भणितव्यगृहीतार्थांकृत्वा मुक्ता प्रच्छन्नं देवतापृष्ठिभागे। सा पुण समये यथोक्तं देवीं भणिष्यतीत्यनेनोपायेन सिद्धमेव समीहितमिति तर्कये। अहो! देव्या दृढानुशयत्वम्। यत्तदा प्रियवयस्येनानुनयन्त्यपि न प्रसन्ना। अथवा—
 
@@ -2369,25 +2223,23 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  यदि वा वरं देवी। मा दास्या दुहिता रौद्रता।
 
-
-
 ** विदूषकः—**सत्थि भोदीए।[^133]
 
 ** रौद्रता—**अज्ज! किं पि पुच्छामि। जदि नादिरहस्सं ता कधेसु।[^134]
 
 [^133]: "स्वस्ति भवत्यै।"
 
-** विदूषकः—**भोदी वीसत्थं पुच्छ।[^135]
-
 [^134]: "आर्य! किमपि पृच्छामि। यदि नातिरहस्यं तत्कथय।"
 
-** रौद्रता—** किं नु सचिंतु व्व अज्ज अज्जो लखीयदि?।[^136]
+** विदूषकः—**भोदी वीसत्थं पुच्छ।[^135]
 
 [^135]: " भवती विश्वस्तं पृच्छ।"
 
-** विदूषकः—** (सनिर्वेदं) **(५)** भोदी! कधं न सचिंतो भविस्सं?। जं दाणि मे पियवयस्सो अदीव[^137]दुक्खिदो वट्टदि।
+** रौद्रता—** किं नु सचिंतु व्व अज्ज अज्जो लखीयदि?।[^136]
 
 [^136]: " किं नु सचिन्त इवाद्य आर्यो लक्ष्यते?।"
+
+** विदूषकः—** (सनिर्वेदं) **(५)** भोदी! कधं न सचिंतो भविस्सं?। जं दाणि मे पियवयस्सो अदीव[^137]दुक्खिदो वट्टदि।
 
 [^137]: " B & C अतीव°"
 
@@ -2397,22 +2249,22 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^138]: "आर्य! किं तस्या अभिनवकन्यकायाः कृते उत्ताम्यति भर्त्ता?।"
 
-** रौद्रता—**ता किमन्नं दुक्खकारणं भट्टिणो!।[^140]
-
 [^139]: "नहि नहि।"
 
-** विदूषकः—** रुद्ददे! देवीअपसादो य्येव।[^141]
+** रौद्रता—**ता किमन्नं दुक्खकारणं भट्टिणो!।[^140]
 
 [^140]: " ततः किमन्यद् दुःखकारणं भर्तुः?।"
 
-** रौद्रता—** अज्ज! जदि एवं ता मा उत्तम्म। जदो सव्वं पि साहु संपन्नं संपदि।[^142]
+** विदूषकः—** रुद्ददे! देवीअपसादो य्येव।[^141]
 
 [^141]: "रौद्रते! देव्यप्रसाद एव।"
 
-** विदूषकः—** (स्वगतं) दिट्ठिया फलिममच्चनीदिलदाए।[^143] (प्रकाशं) भोदी कधेसु किं चिय संवुत्तं?।[^144]  
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+** रौद्रता—** अज्ज! जदि एवं ता मा उत्तम्म। जदो सव्वं पि साहु संपन्नं संपदि।[^142]
 
 [^142]: "आर्य! यद्येवं तदा मा उत्ताम्य। यतः सर्वमपि साधु संपन्नं संप्रति।"
+
+** विदूषकः—** (स्वगतं) दिट्ठिया फलिममच्चनीदिलदाए।[^143] (प्रकाशं) भोदी कधेसु किं चिय संवुत्तं?।[^144]  
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 [^143]: "दिष्ट्या फलितममात्यनीतिलतया।"
 
@@ -2420,17 +2272,15 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (५)** भवति! कथं न सचिन्तो भवामि?। यदिदानीं मम प्रियवयस्योऽतीवदुःखितो वर्त्तते।
 
-
-
 ** रौद्रता—**अज्ज! एवं कधीयदि। अज्ज किल कुलदेवदं भयवदिं पूइदुं गदा भट्टिणी।[^145]
 
 ** विदूषकः—** (सावहित्थं) कुदो वि देवदाराधनं करेदि देवि त्ति अत्थि जणप्पवादो।[^146]
 
 [^145]: " आर्य! एतत्कथ्यते। अद्य किल कुलदेवतां भगवतीं पूजितुं गता भट्टिनी।"
 
-** रौद्रता—(३)** विसेसपूओवयारपुव्वयं थुणिय उवजाचिदा[^147]णं भट्टिणीए भयवदी। जधा, जा एसा अज्जउत्तस्स अहिणववल्लहा इत्थिगा[^148]अत्थि सा भयवदि! तुह प्पभावादो दुब्भगा भोदु त्ति।
-
 [^146]: " कुतोऽपि देवताराधनं करोति देवीत्यस्ति जनप्रवादः।"
+
+** रौद्रता—(३)** विसेसपूओवयारपुव्वयं थुणिय उवजाचिदा[^147]णं भट्टिणीए भयवदी। जधा, जा एसा अज्जउत्तस्स अहिणववल्लहा इत्थिगा[^148]अत्थि सा भयवदि! तुह प्पभावादो दुब्भगा भोदु त्ति।
 
 [^147]: " A & C °दा भ°"
 
@@ -2470,8 +2320,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 ततो गत्वा स्वयं विवेकनृपतिं प्रार्थय निस्संशयं  
 तत्कन्यारत्नं च गूर्जरधराधीशस्य संयोजय।**
 
-
-
 अवि य—
 
 **सा संतिदेवितणया दाणपडागाइ[^153] संतिभगिणीए।  
@@ -2485,9 +2333,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^154]: "अहो! सरसः कथानिवेशः। ततः किं प्रतिपन्नं देव्या?।"
 
-** विदूषकः—** (सहर्षं) **(३)** दिट्ठिया छुहाकरालिदो चिरादो लभिस्सदि अज्ज विवाहजन्ने जहिच्छिदं ललिदसहावबंभणो भोयणं। (इत्युत्थाय नृत्यति।)
-
 [^155]: " किमन्यद्भवति?, खलु शिरसा प्रतीष्टं भगवतीशासनम्।"
+
+** विदूषकः—** (सहर्षं) **(३)** दिट्ठिया छुहाकरालिदो चिरादो लभिस्सदि अज्ज विवाहजन्ने जहिच्छिदं ललिदसहावबंभणो भोयणं। (इत्युत्थाय नृत्यति।)
 
 ** रौद्रता—(४)** अज्ज! अज्जवि सविलंबु[^156]व्व विवाहजन्नो।
 
@@ -2505,8 +2353,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^158]: "ततः किं न प्रतिपादिता तेन तनया देव्यै?।"
 
-
-
 अपि च—
 
 **सा शान्तिदेवीतनया दानपताकायाः शान्तिभगिन्याः।  
@@ -2517,8 +2363,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 ** (४)** आर्य! अद्यापि सविलम्ब इव विवाहयज्ञः।
 
 ** (६)** यतो भट्टिन्या गत्वा संबन्धप्रकटनपूर्वकं सप्रणयं पार्थितो विवेकपार्थिवः कृपासुन्दरीम्।
-
-
 
 ** रौद्रता—** **(१)** अज्ज! तेणेदमुल्लविद[^159]। जादे रज्जसिरि!,
 
@@ -2533,13 +2377,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^160]: " हा! धिग्! विषममापतितम्।"
 
-** विदूषकः—** (सौत्सुक्यं) ममेव हिदएण समं मंतिय वुत्तं देवीए।[^162]
-
 [^161]: "अथ भट्टिन्या भणितं तात! पणं ज्ञातुमिच्छामि।"
 
-** रौद्रता—** **(५)** तदो भट्टिणा विवेयचंदेण संलत्तं। पुत्ति! एस वच्छाए पणो। जधा—
+** विदूषकः—** (सौत्सुक्यं) ममेव हिदएण समं मंतिय वुत्तं देवीए।[^162]
 
 [^162]: " ममैव हृदयेन समं मन्त्रयित्वोक्तं देव्या।"
+
+** रौद्रता—** **(५)** तदो भट्टिणा विवेयचंदेण संलत्तं। पुत्ति! एस वच्छाए पणो। जधा—
 
 **इह भरहनिवाओ जं न केणावि चत्तं  
 मुयइ मयधणं जो तं पि पाविक्कमूलं।  
@@ -2552,13 +2396,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^163]: " ततः किं मन्त्रितं देव्या?।"
 
-** विदूषकः—** (सप्रमोदं) भोदी! संपन्नं य्येव एवं ति तक्केमि। अध कधिं पुण पत्थिदासि?।[^165]
-
 [^164]: "तात! इदमिदानीं कार्यते इति भणित्वोत्थिता देवी।"
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+** विदूषकः—** (सप्रमोदं) भोदी! संपन्नं य्येव एवं ति तक्केमि। अध कधिं पुण पत्थिदासि?।[^165]
 
 [^165]: "भवति! संपन्नमेवैतदिति तर्कये। अथ कुत्र पुनः प्रस्थितासि?।"
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 ** (१)** आर्य! तेनेदमुल्लपितम्। जाते राज्यश्रि !,
 
@@ -2572,17 +2416,15 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 निजजनपदसीमां मोचयेद् यश्च द्यूत-  
 प्रमुखव्यसनचक्रं स वरो मम भवतु॥**
 
-
-
 ** रौद्रता—** अज्ज! भगवदीपूओवगरणाइंआणेदुमाणत्तम्हि भट्टिणीए।[^166]
 
 ** विदूषकः—**रुद्ददे संपाडेसु देवीसासणं। अहं पि इमिणा वृत्तंतेण निव्ववेमि पियवस्सं।[^167]
 
 [^166]: "आर्य! भगवतीपूजोपकरणान्यानेतुमाज्ञप्तास्मि भट्टिन्या।"
 
-(इति निष्क्रान्तौ। )
-
 [^167]: "रौद्रते! संपादय देवीशासनम्। अहमप्यनेन वृत्तान्तेन निर्वपामि प्रियवयस्यम्।"
+
+(इति निष्क्रान्तौ। )
 
 **प्रवेशकः।**
 
@@ -2613,8 +2455,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 ** (३)** एष प्रियवयस्यः कृपासुन्दरीविरहसंधुक्षितं देव्यप्रसादसंबन्धसंवर्धितं हृदयसंतापमुद्वहन् पुर एव। तत उपसर्प्यानेनामात्यप्रपञ्चेन निर्वपामि।
-
-
 
 ** विदूषकः—**जयदु जयदु पियवयस्सो।[^168]
 
@@ -2664,8 +2504,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  ** (४)** भोः! अमात्यनीतिरहस्यं किं पुनः पुनः परावर्त्तयसे?। ननु कदापि कोऽपि श्रुत्वा व्यै कथयेत् ततो ध्मातकनकं फूत्कृत्या नाशितं भवेत्।
 
-
-
 ** राजा—** एवमेतत्।
 
 (नेपथ्ये नूपुरध्वनिः।)
@@ -2703,8 +2541,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 मम निर्घृणाया एकं तदविनयविलसितं क्षमस्व॥**
 
  अपि च, यद्व्यवस्था विज्ञपयति तदवश्यमविकल्पमविलम्बं चार्यपुत्रेण संपादयितव्यमिति।
-
-
 
 ** राजा—** किमाज्ञापयति देवी?।
 
@@ -2758,8 +2594,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  **(२)** भवती पुनरपि किमपि कथयितुकामेव लक्ष्यसे।
 
-
-
 (नेपथ्ये रुद्यते।)
 
 (उभौ सदुःखमाकर्णयतः।)
@@ -2805,8 +2639,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **कुनीतिस्त्वत्तश्चेन्न किमु शशिनोऽङ्गारपतनं?  
 भयं त्वद्गृह्येभ्यो यदि न कथमद्भ्यो हुतवहः?।**
 
-
-
 **यदि न्यायो मात्स्यस्तव भुवि विषं नो किममृते?  
 तमः किं नाऽऽलोके त्वयि तपति चेद्धर्मविलयः?॥१६॥**
 
@@ -2843,8 +2675,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 ** वणिजः—** देव! एवमेवैतत्।
 
 ** राजा—** अथ क इदानीमस्मासु महाजनस्य नियोगः?।
-
-
 
 ** वणिजः—** देव! कुबेरस्वामी निष्पुत्र इति तल्लक्ष्मीर्नरेन्द्रगृहानुपतिष्ठते। तदादिश्यतामध्यक्षः कोऽपि येन तत्परिगृहीते गृहसर्वस्वेकरोति महाजनस्तदौर्ध्व[^185]देहिकानि।
 
@@ -2884,8 +2714,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 ** राजा—** तदादेशय पन्थानम्।
 
 ** प्रतीहारः—** इत इतो देवः।
-
-
 
 (राजा परिक्रामति।)
 
@@ -2927,8 +2755,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 क्रन्दन् किञ्च कदर्थ्यते गृहजनोऽन्विष्यद्भिरन्तर्धनं  
 धिक्कष्टं यमकिङ्करैरिव नृपव्यापारिभिर्निष्कृपैः॥२१॥**
 
-
-
 ** वणिजः—** इतो गोपुरेण प्रविशतु देवः।
 
 (राजा प्रविशति।)
@@ -2966,8 +2792,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 र्दानं गुणानामिदमेकमोकः॥२५॥**
 
 ** वणिजः—**पुरः परिस्फुटस्फटिकघटिता गृहसोपानपङ्क्तिस्तदिमामारोहतु देवः।
-
-
 
 ** राजा—**सुखासनादवतीर्य प्रतीहारदत्तबाहुरारोहति।
 
@@ -3009,8 +2833,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** वणिजः—** प्राकरणिकी प्रक्लृप्ता देवेन देवतास्तुतिः।
 
-
-
 ** राजा—** (विमृश्य)
 
 **यथा मरणकातरं करुणमारटत्स्वामिना-  
@@ -3044,8 +2866,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 तद्रक्षणेषु दक्षाः कोशाध्यक्षाः परं वणिजः॥३३॥**
 
 ** वणिजः—** (स्वगतं) अहो! देवस्य हृदयङ्गमार्थगर्भिणी भणितिभङ्गिः। (प्रकाशं) देव! न क्षमते कालातिपातः, तदासनमलङ्क्रियतां गृहप्राङ्गणे प्रस्तुतप्रयोजनाय।
-
-
 
 ** राजा—** (तथा कृत्वा सर्वतो विलोक्य च सवाष्पं)
 
@@ -3084,8 +2904,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 (वणिज उद्घाट्य दर्शयन्ति।)
 
 ** राजा—** अये! किमप्यत्र पत्रकमुपरि। (गृहीत्वा वाचयति।)
-
-
 
 **गुरुपादकमलमूले गृहमेधिजनोचितानिमान्नियमान्।  
 प्रतिपद्यते कुबेरो वैराग्यतरङ्गितस्वान्तः॥३८॥**
@@ -3134,8 +2952,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **(२) हा आर्यपुत्र! युक्तं तव गन्तुं जनमिमं विमुच्य।  
 सुरलोकश्रीविलासेषु लालसोऽथवा जातोऽसि॥**
 
-
-
 ** राजा—** (श्रुत्वा सखेदमात्मगतं) नूनमयं कुररीरवानुकारी करुणः कयोरपि वनितयोः परिदेवितध्वनिः। (प्रकाशं) भद्राः! कयोः पुनर्नितम्बिन्योरयमार्त्तस्वरः श्रूयमाणः कृन्तति हृन्मर्माणि?।
 
 ** वणिजः—** देव! प्रथमा गुणश्रीर्नाम कुबेरस्वामिनः सवित्री, परा तु कमलश्रीर्नाम प्रेयसी।
@@ -3172,8 +2988,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **अविनश्वरं शरीरं येषां भुवने यशोमयं स्फुरति।  
 ते जीवन्ति मृता अपि पुण्यात्मानो न शोच्याश्च॥४६ ॥**
 
-
-
  तद्विमुच्य क्लीबतां कथय केनोपघातेनालेख्यशेषतामगादकूपारे कुबेरः?
 
 ** गुणश्रीः— (१)** पुत्त! जदि अदिनिब्बंधो ता मे सुदस्स बालमित्तं वामदेवो नाम पुच्छीयदु। सो खु तदो आगदो।
@@ -3203,9 +3017,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^191]: " कथं तदेव प्रस्तुतं देवेन?। "
 
-** राजा—** कच्चित्तस्य जलधियात्रायां सहगतोऽभूस्त्वम्?।
-
 [^192]: "देव! अथ किम्?।"
+
+** राजा—** कच्चित्तस्य जलधियात्रायां सहगतोऽभूस्त्वम्?।
 
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
@@ -3218,15 +3032,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  भवतु तावत्।
 
-
-
 ** वामदेवः—** (सातङ्कं स्वगतं) नूणं जलधिजत्ताविढत्तं मह पासे गवेसिस्सदि वित्तं देवो।[^193] (प्रकाशं) देव! एवं नेदं।[^194]
 
 [^193]: "नूनं जलधियात्रार्जितं मम पार्श्वे गवेषयिष्यति वित्तं देवः। "
 
-** राजा—**तत्कथय कथं नामासौ नामशेषतां जगाम जलराशौ कुबेरः?इति।
-
 [^194]: "देव! एवमेतत्।"
+
+** राजा—**तत्कथय कथं नामासौ नामशेषतां जगाम जलराशौ कुबेरः?इति।
 
 ** वामदेवः—**(मनाक् स्वस्थीभूय) सुणादु देवो।[^195]
 
@@ -3264,8 +3076,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (४)** निजभुजार्जितं मया सुपात्रेषु नियोजयितव्यं द्रव्यमिति कृतप्रतिज्ञेन व्यवसितमिदं तेन।
 
-
-
 ** वामदेवः—**अन्नदा भुवनपल्हत्थणपवणो सहस त्ति समुट्ठिदो दुट्ठपवणो।[^200]
 
 ** राजा—**सेयं जलधिवर्त्मनो हतकस्य दुरन्तता।
@@ -3296,8 +3106,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **(४)** कुबेरेण भणितं 'भद्र! कस्त्वम्?'। तेन भणितं 'नोत्रासो नाम निर्यामकोऽहम्'। कुबेरेण भणितं 'कुतः कथं वा इहागतोऽसि?'। तेन भणितं 'इतो नातिदूरेऽस्ति पञ्चशृङ्गो नाम महाद्वीपः। तत्र सत्यसागरो नाम नरपतिः। तेनातिक्रान्तवासरे एव मृगयागतेन मारिता पतितस्फुरद्गर्भा मृगी। तन्मरणात्स्वयमेव मृतो हरिणकः। ततः संजातप्रत्यग्रदयारसेन नृपतिना
 
-
-
 सव्वत्थ पुरिसा। वावारिदा जलहिमग्गे रायकीरा। तदो अज्ज एगेण रायकीरेण निवेदिदं निवस्स। जधा, 'देव! भुजंगकुंडलगिरिणो वलयसंकडे पडिदं पवहणसहस्सं अत्थि'। अध'जो तं पोयसहस्सं तदो कड्ढिदि तस्स कणयकोडिं देमि' त्तिघोसाविदं रन्ना। छित्तपडहओ संमाणिय पेसिदो निवदिणा पत्तु म्हि इत्थ' त्ति।
 
 ** राजा—** अहो! महात्मनस्तस्य नृपतेर्निष्कारणा सर्वसत्त्वसाधारणी करुणा।
@@ -3313,8 +3121,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 प्रवर्त्तिता निजराज्येऽमारी। नियुक्ता दुस्थितजन्तुगवेषणार्थंसर्वत्र पुरुषाः। व्यापारिता जलधिमार्गे राजकीराः। ततोऽद्यैकेन राजकीरेण निवेदितं नृपाय। यथा, 'देव! भुजङ्गकुण्डलगिरेर्वलयसङ्कटे पतितं प्रवहणसहस्रमस्ति'। अथ 'यस्तं पोतसहस्रं ततः कर्षति तस्य कनककोटिं ददामि' इति घोषितं राज्ञा। स्पृष्टपटहकः सम्मान्य प्रेषितो नृपतिना प्राप्तोऽस्म्यत्र' इति।
 
 ** (१)** कुबेरेण भणितं 'भद्र! यद्येवं ततः प्रपञ्चयास्मान् निर्गमोपायम्'। तेन भणितं 'एतस्य गिरेः पश्चिमकटकभित्तिगतास्ति गूढा द्वारिका तत्परतस्तिष्ठति महदुद्वसं नगरम्। तस्य मध्ये वर्त्तते गगनाग्रलग्नशिखरं देवतागृहम्। तत्र निशायां गत्वा ताडितव्यानि पटुप्रतिरवमुखरशैलकन्दराणि दिव्यातोद्यानि। तन्निनादजातसंत्राससमुड्डीनगिरिशिखरसंस्थितपादपनिलीनभारुण्डकुलपक्षपवनप्रक्षिप्तानि निस्सरिष्यन्ति यानपात्राणि। किन्तु तत्रगतनरस्य प्रतिनिवृत्तिर्नास्ति'। कुबेरेण भणितं 'कथं खलु?'। तेन भणितं 'तत्रस्थितस्यैव तस्य यतः प्रवहणनिर्गमो भवति। अपि च, तत्र राक्षसः श्रूयते'।
-
-
 
 ** वामदेवः—** तदो कुबेरेण वाहरिदा नियनरा।[^205]
 
@@ -3357,8 +3163,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 ** (२)** नहि नहि, किन्तु अधोमुखत्वं कृत्वा स्थिताः सर्वे।
 
 ** (५)** तदा मुहूर्त्तमात्रेणोच्छलितो निनादः। उड्डीनानि भारुण्डकुलानि। निस्सृतानि यानपात्राणि। प्राप्तानि क्रमेण भृगुकच्छम्। तत्र कुबेरसत्कं भाण्डं परदेशार्जितद्रव्यं च व्यवहारिजनस्य न्यासीकृत्येहागताः स्मः।
-
-
 
 ** राजा—** प्रतीहार! महाजनं द्रष्टुमिच्छामि।
 
@@ -3403,8 +3207,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** राजा—** किं बहुनोक्तेन?,
 
-
-
 **निष्पुत्रो म्रियते यो यस्तस्य तस्य हताशयाः।  
 पुत्रतां प्रतिपद्यन्ते नृपाः कष्टं धनाशया॥५३॥**
 
@@ -3448,8 +3250,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  **(१)** पुत्र! गृहाण गृहाणैतद् द्रव्यजातम्। यतोऽहं सस्नुषा वह्निं अनशनं प्रपत्स्ये।
 
-
-
 **आपाथोधि कुमारपालनृपतिर्देवो रुदत्या धनं  
 बिभ्राणः सदयं प्रजासु हृदयं मुञ्चत्ययं तत्स्वयम्॥५५॥**
 
@@ -3488,9 +3288,7 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** पातालचन्द्रिका—** अज्जउत्त! सुलद्धं मे जम्मं जमेरिसे नयरे तए सह निवासु त्ति।[^216]
 
-
 [^216]: "आर्यपुत्र! सुलब्धं मे जन्म यदीदृशे नगरे त्वया सह निवास इति।"
-
 
 ** कुबेरः—** प्रिये! अवतरावस्तावत्। मा मद्वियोगकातरा किञ्चिदत्याहितं करिष्यत्यम्बा।
 
@@ -3532,8 +3330,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** कुबेरः—** देव! निर्यामकोक्तनीत्या गत्वा तद्देवतागृहं कृतमातोद्यताडनम्। प्रविष्टेन चान्तश्चन्द्रकान्तमणिमयी भगवतश्चन्द्रप्रभस्य निरूपिता प्रतिमा।
 
-
-
 प्रणम्य स्तुत्वा पर्युपास्य च सुचिरमेनामशङ्कितमनास्ततो निःसृत्य रम्यप्रदेशदर्शनाशया भ्राम्यन्नितस्ततः प्राप्तोऽस्मि प्रासादमेकम्।
 
 ** राजा—** ततस्ततः?।
@@ -3559,8 +3355,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **निर्मूल्यं गणितं निजं परपरित्राणे तृणं प्राणितं  
 पाणौकृत्य नभश्चरीयमचिरात्कल्याणिनी प्रीणिता।**
 
-
-
 **प्राप्तः कौणपतां नृपो विधिवशाद्धर्म्येऽध्वनि स्थापितः  
 स्वं धामानुसृतं कुबेर! भवता किं किं कृतं नाद्भुतम्॥५९॥**
 
@@ -3582,8 +3376,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **तृतीयोऽङ्कः।**
 
 **![](../books_images/U-IMG-1729706193Screenshot2024-10-21212527.png)**
-
-
 
 **चतुर्थोऽङ्कः।**
 
@@ -3609,9 +3401,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^226]: "हला! कथयिष्याम्येतत्। नवरं का त्वम्? इति ज्ञातुमिच्छामि।"
 
-** देशश्रीः—**(सप्रमोदं) **(७)** दिट्ठिया वद्धामि। जदो सा मम कणिट्ठभगिणिका। तं ज्जेव दट्ठुमिच्छामि। ता हला वणराइ! पदंसेसु मे तं भगिणिकं।
-
 [^227]: "एतत्कथयिष्यामि। अहं खलु देव्या नगरश्रियः प्रियसखी वनराजी नाम।"
+
+** देशश्रीः—**(सप्रमोदं) **(७)** दिट्ठिया वद्धामि। जदो सा मम कणिट्ठभगिणिका। तं ज्जेव दट्ठुमिच्छामि। ता हला वणराइ! पदंसेसु मे तं भगिणिकं।
 
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
@@ -3622,8 +3414,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
  (४) अथ कुत्र गन्तव्यम्?।
 
  (७) दिष्ट्या वर्द्धे। यतः सा मम कनिष्ठभगिनिका। तामेव द्रष्टुमिच्छामि। तद् हला वनराजि! प्रदर्शय मे तां भगिनिकाम्।
-
-
 
 ** वनिता—** इदो इदो एदु पियसही।[^228] (इत्युभे परिक्रामतः।)
 
@@ -3659,15 +3449,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^236]: " भगिनिके! चिराद्दृष्टासि।"
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
 [^237]: " आर्ये! अथ किम्?।"
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
  **(३)** सबहुमानमाज्ञप्तास्मि चौलुक्यचन्द्रेण 'भद्रे नगरश्रि! या एषा विवेकदुहिता कृपासुन्दरी नाम सा मया तव न्यासीकृता तथाऽनुकूलयितव्या यथा वारं वारं मां प्रति प्रेम दृढीकरोति'। मयापि तथा तथानुप्रवर्तिता यथा साम्प्रतं राजर्षिमेव ध्यायन्ती विरहतापक्लान्ता कालं गमयति। मम प्रियसख्या वनराज्याः संसर्गेण जातविनोदा वर्तते। तद् गत्वा तां संभावयिष्यामि। दिष्ट्या वनराजीद्वितीया भगिनिका देशश्रीर्दृश्यते। स्वागतं ज्येष्ठभगिन्याः?।
 
 ** (४)** युवयोर्द्वयोर्भगिन्योर्गङ्गायमुनयोरिव रमणीयः संगमः। तत् किमत्राहं करोमि?। तद् वरं गत्वा कृपासुन्दरीं प्रत्युपेक्षिष्ये।
-
-
 
 ** देशश्रीः—** किं ति अन्नारिस व्व जादा सि?।[^238]
 
@@ -3675,13 +3463,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^238]: "किमिति अन्यादृशेव जातासि?।"
 
-** देशश्रीः—** केरिसो सामी इण्हिं? ति सोदुमिच्छामि।[^240]
-
 [^239]: "आर्ये! मम स्वाम्यप्यनीदृशः संप्रति वर्तते। तत् कथमहमन्यादृशा न भवामि?।"
 
-** नगरश्रीः— (४)** भगिणिके! किं नालिकेरदीवादो आगदा सि? जं इमं पि न मुणेसि[^241]। णं संपदं गुरूवदेसलद्धजिणधम्मापुरत्तेण देवेण चत्तं मंसं आहेडओ य। संवुत्तो परमसावगो। जहा राया तहा पय त्ति अहं पि साविगा जाय हि।
+** देशश्रीः—** केरिसो सामी इण्हिं? ति सोदुमिच्छामि।[^240]
 
 [^240]: " कीदृशः स्वामीदानीम्? इति श्रोतुमिच्छामि।"
+
+** नगरश्रीः— (४)** भगिणिके! किं नालिकेरदीवादो आगदा सि? जं इमं पि न मुणेसि[^241]। णं संपदं गुरूवदेसलद्धजिणधम्मापुरत्तेण देवेण चत्तं मंसं आहेडओ य। संवुत्तो परमसावगो। जहा राया तहा पय त्ति अहं पि साविगा जाय हि।
 
 [^241]: " B & C मुणसि."
 
@@ -3708,21 +3496,19 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (६)** आश्चर्यमाश्चर्यम्। अश्रुतपूर्व एष धर्मः। ततोऽद्यप्रभृत्यभ्युपगतो मयापि। अहमपि श्राविका जातास्मि।
 
-
-
 ** देशश्रीः—** वच्छे! अज्ज पुण कीस तुमं बिसेसभूसिद व्व दीससि?।[^245]
 
 ** नगरश्रीः—** अज्जे! अज्ज महूसवो जादो।[^246]
 
 [^245]: "वत्से! अद्य पुनः कस्मात्त्वं विशेषभूषितेव दृश्यसे?।"
 
-** देशश्रीः—** केरिसो?।[^247]
-
 [^246]: "आर्ये! अद्य महोत्सवो जातः।"
 
-** नगरश्रीः— (४)** अज्ज राएसिणो सत्तुंजयरेवयपमुहमहातित्थजत्तं कडुय पडिनियत्तस्स पवेसमंगलं संवुत्तं ति।
+** देशश्रीः—** केरिसो?।[^247]
 
 [^247]: " कीदृशः?।"
+
+** नगरश्रीः— (४)** अज्ज राएसिणो सत्तुंजयरेवयपमुहमहातित्थजत्तं कडुय पडिनियत्तस्स पवेसमंगलं संवुत्तं ति।
 
 (नेपथ्ये)
 
@@ -3742,9 +3528,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^250]: "इत इत एत्वार्या।"
 
-(ततः प्रविशति कृपासुन्दरी वनराजी सोमता च।)
-
 [^251]: "अस्मिन् प्रदेशे वर्त्तते कृपासुन्दरी।"
+
+(ततः प्रविशति कृपासुन्दरी वनराजी सोमता च।)
 
 ** कृपासुन्दरी—** (संतापमभिनीय) सहि वणराइए! इहं पि नत्थि निव्वुदी ता का गदी?।[^252]
 
@@ -3756,21 +3542,19 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  (५) हला वनराजिके! अतिशीतलेऽपि तव भवने न लभे रतिम्। हला सोमते! एष संताप एभिः कुसुमकिशलयप्रमुखोपचारैर्नोपशाम्यति।
 
-
-
 ** वनराजी—** सहि! समस्ससिहि समस्ससिहि अणुकूलं दिव्वं सव्वं संपाडइस्सदि।[^253]
 
 ** सोमता—** भट्टिणि! मा उत्तम्म।[^254]
 
 [^253]: "सखि! समाश्वसीहि समाश्वसीहि अनुकूलं दैवं सर्वं संपादयिष्यति।"
 
-** नगरश्रीः—** भगिणिके! सुदो संलावो एदाणं।[^255]
-
 [^254]: "भट्टिनि! मा उत्ताम्य।"
 
-** देशश्रीः—** अध किं?।[^101]
+** नगरश्रीः—** भगिणिके! सुदो संलावो एदाणं।[^255]
 
 [^255]: "भगिनिके! श्रुतः संलाप एतयोः।"
+
+** देशश्रीः—** अध किं?।[^101]
 
 [^101]: "अथ किम्?।"
 
@@ -3786,13 +3570,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^259]: "भगिनिके! एह्युपसर्पावः। "
 
-** कृपासुन्दरी—** (आकारसंवरं कृत्वा) इत्थ उपविसदु पियसहीजुयलं।[^261]
-
 [^260]: "सखि कृपासुन्दरि! बाढमायासितासि संतापेन।"
 
-(उभे उपविशतः।)
+** कृपासुन्दरी—** (आकारसंवरं कृत्वा) इत्थ उपविसदु पियसहीजुयलं।[^261]
 
 [^261]: "अत्रोपविशतु प्रियसखियुगलम्।"
+
+(उभे उपविशतः।)
 
 ** नगरश्रीः—**सहि किवासुंदरि! एसा मह जिट्ठ[^262]भगिणिका तुमए सह सहित्तणं गिण्हिदुमिच्छदि।
 
@@ -3804,13 +3588,11 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^263]: " सखि! नगरश्रि! प्रतिपन्नमेवैतन्मया।"
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
 [^264]: " सखि! अनेन कृतार्थास्मि।"
 
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
  (९) सखि कृपासुन्दरि! एषा मम ज्येष्ठभगिनिका त्वया सह सखित्वं ग्रहीतुमिच्छति।
-
-
 
 ** वनराजी—** (सविमर्शं) **(१)** सहीओ! एस पुन्नकेदुमंतिणा विवक्खपुरिसगवेसणत्थं निउत्तो निच्चमप्पम[^265]त्तो परिब्भमदि धम्मकुंजरो नाम दंडपासिओ[^266]। ता न जुत्तमित्थ समवेदाणं अम्ह अवत्थाणं।
 
@@ -3838,9 +3620,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^270]: "हला सोमते! आदिश पन्थानम्।"
 
-(सर्वाः परिक्रामन्ति।)
-
 [^271]: " इत इत एतु भट्टिनीयुगलम्।"
+
+(सर्वाः परिक्रामन्ति।)
 
 ** नगरश्रीः— (७)** कथं पुरदो य्येव[^130] दंडपासिओ?।
 
@@ -3875,8 +3657,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 ** ५** नाटकेऽस्मिन् 'दाण्डपाशिक' स्थाने 'दण्डपाशिक' इति क्वचित् A पुस्तके क्वचित् B & C पुस्तकयोर्दृश्यते।
-
-
 
 ** दाण्डपाशिकः—** अरे! कुदो पुण देसंतरादो परावडिदो भवं?।[^277]
 
@@ -3940,8 +3720,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  (९) भर्त्तः! हरिणकनामकोऽहम्।
 
-
-
 ** पुरुषः— (१)** भष्टके! खोभविलशिद[^290]मेदं। ता पसीतध[^291]पसीतध।
 
 [^290]: "B & C °लसिद° "
@@ -3954,13 +3732,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^292]: "किं तव कक्षायाम्?।"
 
-** दाण्डपाशिकः—** अरे! गवेसह पच्छयणं।[^294]
-
 [^293]: " भर्त्तः! प्रच्छदनस्थगिका।"
 
-(पदाती गवेषयतः।)
+** दाण्डपाशिकः—** अरे! गवेसह पच्छयणं।[^294]
 
 [^294]: " अरे! गवेषयत प्रच्छदनम्।"
+
+(पदाती गवेषयतः।)
 
 ** प्रथमः— (५)** अले! थगिकामज्झे किं पि कालवन्नं निलिखि[^295]ज्जइ।
 
@@ -3972,9 +3750,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^296]: " जतुगोलिका एषा।"
 
-(पदाती तथा कुरुतः।)
-
 [^297]: "अरे! आस्फालयतैताम्।"
+
+(पदाती तथा कुरुतः।)
 
 ** दाण्डपाशिकः—** अरे! को वि लेहो एस। ता पुरदो कडुय एवं गच्छम्ह राउलं।[^298]
 
@@ -4004,37 +3782,35 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  (११) भर्तः! स्वामिनीं नगरश्रियमपि विस्मृतवान् भवान्?। अपरा विवेकराजनन्दिनी कृपासुन्दरी, तच्चरणतामरसमधुकरी सोमता च।
 
-
-
 ** दाण्डपाशिकः—** (ससंभ्रममुपसृत्य) सामिणि! पणमामि।[^304]
 
 ** नगरश्रीः—** भद्द! सुहं ते?।[^305]
 
 [^304]: "स्वामिनि! प्रणमामि।"
 
-** दाण्डपाशिकः—** देवस्स चालुक्कससिणो पयावेण।[^306]
-
 [^305]: "भद्र! सुखं ते?।"
 
-** नगरश्रीः—** किमेयं?।[^307]
+** दाण्डपाशिकः—** देवस्स चालुक्कससिणो पयावेण।[^306]
 
 [^306]: "देवस्य चौलुक्यशशिनः प्रतापेन।"
 
-** दाण्डपाशिकः—** एस अरिसंतिओ को वि देवपादमूलं नेदव्वो।[^308]
+** नगरश्रीः—** किमेयं?।[^307]
 
 [^307]: "किमेतत्?।"
 
-** नगरश्रीः—** भद्द! मह वयणेण देवं किं पि विन्नविस्ससि?।[^309]
+** दाण्डपाशिकः—** एस अरिसंतिओ को वि देवपादमूलं नेदव्वो।[^308]
 
 [^308]: "एषोऽरिसत्कः कोऽपि देवपादमूलं नेतव्यः।"
 
-** दाण्डपाशिकः—** किमेवं नियपरियणपरमाणुम्मि जणे आदिसिज्जदि?।[^310]
+** नगरश्रीः—** भद्द! मह वयणेण देवं किं पि विन्नविस्ससि?।[^309]
 
 [^309]: "भद्र! मम वचनेन देवं किमपि विज्ञपयिष्यसि?।"
 
-(नगरश्रीः कर्णे एवमेव।)
+** दाण्डपाशिकः—** किमेवं नियपरियणपरमाणुम्मि जणे आदिसिज्जदि?।[^310]
 
 [^310]: " किमेवं निजपरिजनपरमाणौ जने आदिश्यते?।"
+
+(नगरश्रीः कर्णे एवमेव।)
 
 ** दाण्डपाशिकः—** जं सामिणी आणवेदि।[^311]
 
@@ -4063,8 +3839,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
   (९) तद्गच्छतु भवान्। अहमपि प्रियसखीं विवेकनृपपार्श्वे मोक्तुं गच्छामि।
 
  (१२) कथमेष देवः?।
-
-
 
 **जस्स सरेहिं गइंदा परूढपक्ख व्व पव्वया जाया।  
 इय मुणिय नारयाओ वज्जं सक्केण सच्चवियं॥२॥**
@@ -4097,8 +3871,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 इति ज्ञात्वा नारदाद्वज्रं शक्रेण सत्यापितम्॥**
 
  तदुपसर्पामि। देव! एष पुरुषोऽद्य भ्रमता मया लब्धः। एतस्य च पार्श्वे एष लेखः।
-
-
 
 इत्थ अरिनराणं पवेसो रक्खिदुं सक्कु[^319]‚त्ति पियसही किवासुंदरी विचारं विचारं दुब्बला भोदि। ता तीए पणपूरणत्थं पि एदं[^320] कादुमरिहदि देवो'।
 
@@ -4136,8 +3908,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  (४) कथं मयि जीवति कृतयुगावतार इव दृश्यते?। यदिदानीं नृपनिवेशितनवीनजिनायतनप्रवर्त्तमानसरसनाटकप्रेक्षणे मामवगणय्य जनो रज्यते। भवतु तावत्। अथ कथं चिरयति मे प्राणवल्लभाऽसत्यकन्दली?।
 
-
-
 (प्रविश्यासत्यकन्दली) 
 
 ** असत्यकन्दली—** (अग्रतो विलोक्य) **(१)** इदो य्येव[^324] अभिवट्टदि अज्जउत्तो।
@@ -4154,9 +3924,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^326]: "जयतु जयतु आर्यपुत्रः।"
 
-** असत्यकन्दली— (५)** अज्जउत्त! कथं थोवदिणेहिं नगरमिदमन्नारिसं संवुत्तं। न को वि तुमं मं वा गणेदि।
-
 [^327]: " सुन्दरि! किमुद्विग्ना इव दृश्यसे?।"
+
+** असत्यकन्दली— (५)** अज्जउत्त! कथं थोवदिणेहिं नगरमिदमन्नारिसं संवुत्तं। न को वि तुमं मं वा गणेदि।
 
 ** द्यूतकुमारः— (६)** पिए! मुक्करज्जधुरो कुधराहिवो संपदि वट्टदि। तेणेवं चत्तमज्जाओ उज्झियचिरमग्गो जणो अम्हारिसेसु विरत्तो। जं च मं तुमं च न बहु मन्नदि तं तस्स ज्जेय च्छेयओ, किमम्ह?। तहाहि, पिच्छ पिच्छ,
 
@@ -4184,8 +3954,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **यः सेवते एकमना मानवो मामेव देवाभ्यधिकम्।  
 सोऽनुभवति इहैवाछत्रसिंहासनं राज्यम्॥**
 
-
-
 ** असत्यकन्दली— (१)** अज्जउत्त! अध कथं[^329] पुण पुरादणदसं पाविस्सामो?।
 
 [^329]: " B & C कधं."
@@ -4196,25 +3964,25 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^330]: "सुतनु! प्राप्तपूर्वावस्थमेवात्मानं निभालय।"
 
-** द्यूतकुमारः—** विवक्खविजयादो।[^332]
-
 [^331]: "कथमिव?।"
 
-** असत्यकन्दली—** अज्जउत्त! को उण विवक्खो?।[^333]
+** द्यूतकुमारः—** विवक्खविजयादो।[^332]
 
 [^332]: " विपक्षविजयात्।"
 
-** द्यूतकुमारः—** सुमुहि! राइणो भविस्सससुरओ विवेयचंदो नाम। सो खु मूलं सव्वाणत्थाणं।[^334]
+** असत्यकन्दली—** अज्जउत्त! को उण विवक्खो?।[^333]
 
 [^333]: "आर्यपुत्र! कः पुनर्विपक्ष?।"
 
-** असत्यकन्दली—**अध कधं स जेदव्वो?।[^335]
+** द्यूतकुमारः—** सुमुहि! राइणो भविस्सससुरओ विवेयचंदो नाम। सो खु मूलं सव्वाणत्थाणं।[^334]
 
 [^334]: " सुमुखि! राज्ञो भविष्यच्छ्वशुरको विवेकचन्द्रो नाम। स खलु मूलं सर्वानर्थानाम्।"
 
-** द्यूतकुमारः— (८)** अत्थि इत्थ सामिणो मोहनरवइणो परममित्तं कलिकंदलो। तस्स साहिज्जेण सुजेओ विवक्खवग्गो।
+** असत्यकन्दली—**अध कधं स जेदव्वो?।[^335]
 
 [^335]: "अथ कथं स जेतव्यः?।"
+
+** द्यूतकुमारः— (८)** अत्थि इत्थ सामिणो मोहनरवइणो परममित्तं कलिकंदलो। तस्स साहिज्जेण सुजेओ विवक्खवग्गो।
 
 ** दाण्डपाशिकः—** (नखच्छोटिकां दत्त्वा स्वगतं) संवददि लेहत्थेण एयस्स भासिदं।[^336]
 
@@ -4222,15 +3990,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^336]: "संवदति लेखार्थेनैतस्य भाषितम्।"
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
 [^337]: "वल्लभे! अथवाऽहमेवैकः प्रभवामि प्रतिपक्षविजये।"
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
  (१) आर्यपुत्र! अथ कथं पुनः पुरातनदशां प्राप्स्यावः?।
 
  (८) अस्त्यत्र स्वामिनो मोहनरपतेः परममित्रं कलिकन्दलः। तस्य साहाय्येन सुजेयो विपक्षवर्गः।
-
-
 
 ** असत्यकन्दली— (१)** कधमिव[^338]?।
 
@@ -4296,8 +4062,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **पञ्चमकं मम रूपं वराटनामेदं निभालय।  
 सेवयायस्य डिम्भा गतमपि कालं न जानन्ति॥**
 
-
-
 ** दाण्डपाशिकः—** अहो! दुरप्पणो वग्गियमच्चग्गलं।[^348]
 
 (नेपथ्ये कलकलः।)
@@ -4348,8 +4112,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 केऽपि कृष्टनयनयुगाः,  
 केऽपि नक्राधरैर्विवर्जिताः।**
 
-
-
 **कि वि लूणसव्वावयव,  
 के वि जेव खवणय अलज्जिय॥११॥**
 
@@ -4365,13 +4127,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^355]: "आर्यपुत्र! आकारसदृशेन भवितव्यं कुलेन।"
 
-** असत्यकन्दली—** एसा सावहाण म्हि।[^357]
-
 [^356]: " प्रिये! शृण्वेषामभिजनान्।"
 
-** द्यूतकुमारः—** (अङ्गुल्या निर्दिशन्) **(५)** एस मेवाढ[^358]निवदिकुमारो। एस सुरट्ठाहिवसहोदरो। एस चंदावदीपदी। एस नडूलनरिंद[^359]नत्तुओ। एस गुद्दह[^360]रायभायनंदणो। एस धाराहिरायभागिणिज्जो। एस सायंभरीभूवाल[^361]मादुलगो। एस कुंकणाहिववेमाउगो (ओ)। एस कच्छभूमीभुयंगसालओ। एस मरुमंडलाखंडलदुहिदानंदणो। एस पुण चालुक्कनिवजणयभादुगो।
+** असत्यकन्दली—** एसा सावहाण म्हि।[^357]
 
 [^357]: "एषा सावधानास्मि।"
+
+** द्यूतकुमारः—** (अङ्गुल्या निर्दिशन्) **(५)** एस मेवाढ[^358]निवदिकुमारो। एस सुरट्ठाहिवसहोदरो। एस चंदावदीपदी। एस नडूलनरिंद[^359]नत्तुओ। एस गुद्दह[^360]रायभायनंदणो। एस धाराहिरायभागिणिज्जो। एस सायंभरीभूवाल[^361]मादुलगो। एस कुंकणाहिववेमाउगो (ओ)। एस कच्छभूमीभुयंगसालओ। एस मरुमंडलाखंडलदुहिदानंदणो। एस पुण चालुक्कनिवजणयभादुगो।
 
 [^358]: " C मेवाड. "
 
@@ -4393,8 +4155,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
  (१) प्राणप्रिये! मैवं भण। यतः पुरुषाणां पराक्रमोऽर्घति न रूपम्। अपरं च‚ एतेषां न जानासि कुलशुद्धिं तेनेदं कथयसि।
 
  (५) एष मेदपाटनृपतिकुमारः। एष सौराष्ट्राधिपसहोदरः। एष चन्द्रावतीपतिः। एष नड्डुलनरेन्द्रनप्तृकः। एष गोद्रहराजभ्रातृनन्दनः। एष धाराधिराजभागिनेयः। एष शाकम्भरीभूपालमातुलकः। एष कुङ्कणाधिपविमातृजः। एष कच्छभूमीभुजङ्गश्यालकः। एष मरुमण्डलाखण्डलदुहितृनन्दनः। एष पुनश्चौलुक्यनृपजनकभ्रातृकः।
-
-
 
 ** द्यूतकुमारः— (१)** मोहकुलनहयलचंदकले! किमेदाणमेक्कं वन्नी[^363]यदि?। तहाहि—
 
@@ -4446,8 +4206,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  (५) सुनयने! एकस्तावत्तातमोहदास्या हिंसायास्तनयो जाङ्गलको नाम। अपरश्च तातमोहदाण्डपाशिकप्रमाददारको मद्यशेखरको नाम।
 
-
-
 **(१) अट्ठ (ट्ठि) दलरइयहारो विलित्तओ रुहिरकुंकुमरसेण।  
 सोहदि सविसेसं विय जंगलओ लद्धमाहप्पो॥१४॥**
 
@@ -4494,8 +4252,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  अद्य मद्यशेखरद्वितीयोऽहं प्रियवयस्यद्यूतेन सह किमपि मन्त्ररहस्यं कर्तुकामोऽस्मि। अथ कथं चिरयति मद्यशेखरः?।
 
-
-
 **(१) जो कुणइ मज्झ सेवं मणुओ सो नाम सव्वलो[^370]यम्मि।  
 कुणइ सुराहिवलीलं होणं अप्पाउ गणइ भूवालं[^371]॥१८॥**
 
@@ -4523,9 +4279,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^376]: " प्रियमित्र! अलं संभ्रमेण।"
 
-** जाङ्गलकः— (६)** मित्त! गुज्जरनरिंदअग्गमहिसीए देवीए रज्जसिरीए सा खु दासी रुद्ददा। ता दाणि न जाणे कुदो वि ममं अभिसरंती सा देवीए पडिसिद्धा?।
-
 [^377]: "भोः प्रियवयस्य जाङ्गलक! कस्माद्रौद्रताविरहितोऽसीहागतः?।"
+
+** जाङ्गलकः— (६)** मित्त! गुज्जरनरिंदअग्गमहिसीए देवीए रज्जसिरीए सा खु दासी रुद्ददा। ता दाणि न जाणे कुदो वि ममं अभिसरंती सा देवीए पडिसिद्धा?।
 
 ** द्यूतकुमारः—** हद्धी! पियकलत्तविउत्तो दाणि जादो सि।[^378]
 
@@ -4545,8 +4301,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
  (२) कथं कार्यावक्षेपेण पार्श्वप्राप्तोऽपि न ज्ञातः प्रियवयस्यः?। तदेहि व्रजावः।
 
  (६) मित्र! गूर्जरनरेन्द्राग्रमहीष्या देव्या राज्यश्रियः सा खलु दासी रौद्रता। तदिदानीं न जाने कुतोऽपि मामभिसरन्ती सा देव्या प्रतिषिद्धा?।
-
-
 
 ** द्यूतकुमारः—** भो मज्जसेहर! तुमं पि अज्ज उम्मत्तदाए विप्पउत्तो दीससि।[^380]
 
@@ -4587,8 +4341,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  (४) क्षत्रिये! कातरासि। न खल्वहमपि मद्यशेखर इव कलत्रगोपनेनात्मानं रक्षिष्यामि। नापि च ममापि कलत्रं परायत्तम्। तदलं विषादेन।
 
-
-
 ** दाण्डपाशिकः—** अहं पि सह गच्छिस्सं। जदो न एदेसिं मारी समवेदि। तस्संगमे संगहिस्सं।[^386] (इति गूढं सह सञ्चरति।)
 
 [^386]: "अहमपि सह गमिष्यामि। यतो नैतेषां मारी समवैति। तत्संगमे संग्रहीष्यामि।"
@@ -4621,13 +4373,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^393]: "आर्यपुत्र! कस्मादेतस्य राजर्षेर्विहारकारणव्यसनमतिवृद्धिं गतम्?।"
 
-** मद्यशेखरः—** एस जंगलओ जाणदि।[^395]
-
 [^394]: "प्रिये! न जानामि।"
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+** मद्यशेखरः—** एस जंगलओ जाणदि।[^395]
 
 [^395]: " एष जाङ्गलको जानाति।"
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
  (२) आर्यपुत्र! एतद्गगनाग्रलग्नशिखरं यद्दूराद् दृश्यते देवकुलमत्र विशाले रम्यते।
 
@@ -4636,8 +4388,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
  (५) तिष्ठत्वेतत्। अन्यान्यपि बहूनि रमणीयानि देवकुलानि दृश्यन्ते।
 
  (६) प्रिये! एतान्यपि नृपतिदेवकुलानि।
-
-
 
 ** द्यूतकुमारः— (१)** वयंस जंगलय! कहेसु[^396]।
 
@@ -4659,13 +4409,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^399]: " भो मद्यशेखर! त्वं कथय।"
 
-** असत्यकन्दली—** जयपयडमेदं।[^401]
-
 [^400]: "एष किल पुरा राज्ञोऽतिवल्लभ आसीत्।"
 
-** मद्यशेखरः— (७)** अदो य्येव[^402]एदस्सिं[^403] रुद्ददा संघडिदा।
+** असत्यकन्दली—** जयपयडमेदं।[^401]
 
 [^401]: "जगत्प्रकटमेतत्।"
+
+** मद्यशेखरः— (७)** अदो य्येव[^402]एदस्सिं[^403] रुद्ददा संघडिदा।
 
 [^402]: " B & C °ज्जेव."
 
@@ -4692,8 +4442,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
  **(९)** संप्रति पुनः पाखण्डविप्रतारणाभिर्बाढं विरक्तो राजैतस्मिन्।
 
  **(१०)** विघटनशीलानि राजप्रेमाणि।
-
-
 
 ** मद्यशेखरः— (१)** इत्तिकेण न पज्जत्तं पिच्छ[^407]जं जादं। राएसिणो किल वयणभवणखंभभू[^408]दा अच्चंतनिम्मलायारा रज्जरसासायमूलहेदुणो अदीवपिया बत्तीसं दियवरा अस्थि। तेसिं जंगलओ अदिप्पिओ।
 
@@ -4736,8 +4484,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
  **(४)** एवं नामापि संभवति, इदानीं वैरीभवन्ति सुहृदः।
 
  **(५)** ततः प्रकृतिभिर्वारितो राजा। देव! नैवं युज्यते। यतस्तव प्रसादचिन्तक इत्येतैर्जाङ्गलकः पुरस्कृतः। अत एते युष्माकं समानदोषा इति न खलु निर्वासनमर्हन्ति। किन्तु गुरुसमीपे प्रायश्चित्तप्रतिपत्तिः क्रियतामिति। ततो राजा गतो गुरुपार्श्वे। तैरपि कथितं प्रायश्चित्तम्। यावन्तो द्विजा एतावतो जिनविहारान् कारयेति। अत एते विहारा राज्ञा कारिता इति।
-
-
 
 ** द्यूतकुमारः—** मित्ता! कहेह कहिं दाणि गडुय रमिदव्वं?।[^417]
 
@@ -4800,8 +4546,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (८)** सखि! कुतोऽपि स्फुरति वामेतरं नयनकम्।
 
-
-
 ** जाङ्गलकः—** (सानन्दं) **(१)** कथं[^430] पुरदो य्येव[^431]अंवा वट्टदि?।
 
 [^430]: " C कधं."
@@ -4824,9 +4568,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^435]: " C सूना."
 
-** मारिः—** (विलोक्य) **(६)** पुत्तका! चिलं जीवध[^437]। अध कुशलं तुम्ह सलीलस्स?।
-
 [^436]: "सखि! एत इतः प्रणमन्ति।"
+
+** मारिः—** (विलोक्य) **(६)** पुत्तका! चिलं जीवध[^437]। अध कुशलं तुम्ह सलीलस्स?।
 
 [^437]: "A °वह. "
 
@@ -4844,21 +4588,19 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^440]: "अम्ब! अथ किम्?।"
 
-** द्यूतकुमारः—** अम्ब! सव्वेसिमत्थि उव्वेगो। विसेसओ जंगलकस्स।[^442]
-
 [^441]: "उद्वेगकारणं ज्ञातुमिच्छामि।"
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+** द्यूतकुमारः—** अम्ब! सव्वेसिमत्थि उव्वेगो। विसेसओ जंगलकस्स।[^442]
 
 [^442]: "अम्ब! सर्वेषामस्त्युद्वेगः। विशेषतो जाङ्गलकस्य।"
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
  **(१)** कथं पुरत एवाम्बा वर्तते?।
 
 ** (६)** पुत्रकाः! चिरं जीवत। अथ कुशलं युष्माकं शरीरस्य?।
 
 ** (८)** पुत्रकाः! कथमुद्विग्ना इव दृश्यध्वे?।
-
-
 
 ** मारिः—** (सरोषं) **(१)** आ को एस कतंतक्कंतो मह पुत्तकस्स उव्वेगहेतू?। पियसखि शूने[^443]! उपनेहि किपानिकं जेन[^444]से सिलच्छेतं कलेमि।
 
@@ -4872,9 +4614,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^445]: "अम्ब! अलं संरम्भेण। श्रूयतां तावत्।"
 
-** द्यूतकुमारः— (४)** कलत्तविजोजणमिक्कं[^447] दुक्खकारणं। अवरं च सामिणो अप्पसादो।
-
 [^446]: " कथय।"
+
+** द्यूतकुमारः— (४)** कलत्तविजोजणमिक्कं[^447] दुक्खकारणं। अवरं च सामिणो अप्पसादो।
 
 [^447]: "C °मेक्कं."
 
@@ -4908,17 +4650,15 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (७)** पुत्रक! जाङ्गलकस्य कलत्रवियोजनं केन कृतम्?।
 
-
-
 ** द्यूतकुमारः—**कुदो वि देवीए रज्जसिरीए।[^451]
 
 ** मारिः—** अध सामिनो अपसातो कधं?।[^452]
 
 [^451]: " कुतोऽपि देव्या राज्यश्रिया।"
 
-** द्यूतकुमारः— (३)** रन्नो पासंडविप्पदारणत्ति[^453] मज्जसेहरो अक्खदि।
-
 [^452]: "अथ स्वामिनोऽप्रसादः कथम्।"
+
+** द्यूतकुमारः— (३)** रन्नो पासंडविप्पदारणत्ति[^453] मज्जसेहरो अक्खदि।
 
 [^453]: "B & C °रणं ति. "
 
@@ -4935,13 +4675,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^455]: "अम्ब! अलमलीकसंरम्भेण। प्रसीदत प्रसीदत, कर्त्तव्यं चिन्तयामः।"
 
-** असत्यकन्दली—** एवं नेदं। तहावि ताव चिंतीयदु किं पि।[^457]
-
 [^456]: "वत्से! देवे मोहराजे जीवति नास्ति तत्सेवकानां चिन्ता।"
 
-(मारिश्चिन्तां नाटयति)
+** असत्यकन्दली—** एवं नेदं। तहावि ताव चिंतीयदु किं पि।[^457]
 
 [^457]: " एवमेतत्। तथापि तावच्चिन्त्यतां किमपि।"
+
+(मारिश्चिन्तां नाटयति)
 
 ** असत्यकन्दली—** अध के एदे सूनाघरेगदेसनिसन्ने निव्वन्नेमि?।[^458]
 
@@ -4949,13 +4689,13 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^458]: " अथ कान् एतान् शूनागृहैकदेशनिषण्णान् निर्वर्णयामि?।"
 
-** शूना—** एदे मालीए सेवगा।[^460]
-
 [^459]: " अम्बा शूना जानाति।"
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+** शूना—** एदे मालीए सेवगा।[^460]
 
 [^460]: " एते मारेः सेवकाः।"
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
  **(३)** राज्ञः पाखण्डविप्रतारणेति मद्यशेखर आख्याति।
 
@@ -4963,8 +4703,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **निजदाराणां हतको दूरैर्दृष्ट्वा नूनं वैधव्यम्।  
 करोति पदं सरभसं दर्पान्धलविषधरशिरस्सु॥**
-
-
 
 ** असत्यकन्दली—** किं नामगा इमे?।[^461]
 
@@ -5011,8 +4749,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **(६)उत्तमपुरुषकपाले भुनक्ति यः पुरुषजाङ्गलं नित्यम्।  
 स प्राप्नोति शिवस्थानमिति नरकापालिना कथितम्॥**
-
-
 
 **(१) जह पिज्ज[^467]इगोच्छीरं पलासणे तह य नत्थि सो दोसो।  
 इत्थ[^468] य लिंगियवहणे धम्मो दिट्ठु[^469] त्तिधणिएण॥२४॥**
@@ -5068,8 +4804,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  **(७)** सुन्दरि! पाखण्डविप्रतारितो राजा मुर्खोऽसमञ्जसानि करोतीति प्रत्यक्षमेव।
 
-
-
 ** रहमाणः— (१)** धणियसासणानुवत्तिए[^475]! बारसवरिसियं पवासवसणदुहं वो दीसदि[^476]।
 
 [^475]: " A °नुरत्तिए."
@@ -5096,11 +4830,11 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^479]: " एवं भवतु ।"
 
+[^480]: " प्रियसखि शूने! त्वयाप्यप्रमत्तया स्थातव्यम्। विरुद्धं राजकुलम्।"
+
 ** शूना—** (सास्रं) **(७)** सखि! तए सह मए पि आगंतव्वं। न क्खु[^412]तुह विरहे पाने धरिउं सक्केमि।
 
 [^412]: " B & C खु. "
-
-[^480]: " प्रियसखि शूने! त्वयाप्यप्रमत्तया स्थातव्यम्। विरुद्धं राजकुलम्।"
 
 ** मारिः—** (सगद्गदं) **(८)** आचालिया! अत्थमियाइं[^482] तुज्झेहिं[^483] सद्धिं गुट्ठी[^484]विलाससुक्खाइं[^485]।
 
@@ -5121,8 +4855,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
  **(७)** सखि! त्वया सह मयाप्यागन्तव्यम्। न खलु तव विरहे प्राणान् धारयितुं शक्नोमि।
 
  **(८)** आचार्याः! अस्तमितानि युष्माभिः सार्द्धं गोष्ठीविलाससौख्यानि।
-
-
 
 ** कौलादयः— (१)** भट्टिके! सो सुसेवओ भणिओ जो विहुरे वि सामिं न मुंचइ। अओ अम्हे सह आगमिस्सामो।
 
@@ -5160,17 +4892,15 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^492]: " स्वामिन्! कोऽस्माकमपराधः? यदेवमतिनिर्घृणं समाचरत।"
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
 [^493]: "अरे! राजनियम एषः।"
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
  **(१)** भट्टिके! स सुसेवको भणितो यो विधुरेऽपि स्वामिनं न मुञ्चति। अतो वयं सहागमिष्यामः।
 
  **(४)** नयतु सिंहद्वारम्।
 
  **(६)** अत्रैतत्पेटकं पिचुमन्दपत्रमालाविभूषितमौलिकण्ठकन्दलं मशीविलिप्तवदनकं खटिकाधवलीकृतशरीरकं रासभारोपितं कृत्वा वाद्यमानविरसडिण्डिमशब्दपिशुनितदोषं त्रिकचतुष्केषु नगरमध्ये भ्रमयित्वा निर्वासयितव्यमिति शासनं देवस्य। तस्मात्तत्संपादयत।
-
-
 
 ** इतरे—** (सदैन्यं) **(१)** सामि! एगवेलं अम्ह विन्नत्तियं सुणिदुमरिहदि देवो। ता पसादं करिय[^494] विन्नवेसु
 
@@ -5182,9 +4912,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^495]: "अरे! कुत्र संप्रति गतं तच्छौण्डीरत्वम्?।"
 
-** दाण्डपाशिकः— (४)** जं निरग्गलं मिलिएहिं तुज्झेहिं[^497] वियंभियं।
-
 [^496]: "स्वामिन्! कीदृशम्?।"
+
+** दाण्डपाशिकः— (४)** जं निरग्गलं मिलिएहिं तुज्झेहिं[^497] वियंभियं।
 
 [^497]: " B & C तुब्भेहिं ."
 
@@ -5196,15 +4926,15 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^498]: " अरे! न मर्षयति देवः।"
 
+[^499]: "तथाऽप्येकां विज्ञप्तिकां श्रावयतु स्वामी।"
+
 ** दाण्डपाशिकः—** (सदयं) एवं भोदु।[^187] (इति निष्क्रामति।) एस देवो। उबसप्पामि णं।[^501]
 
 [^187]: " एवं भवतु।"
 
-[^499]: "तथाऽप्येकां विज्ञप्तिकां श्रावयतु स्वामी।"
+[^501]: " एष देवः। उपसर्पाम्येतम्।"
 
 (ततः प्रविशति राजा।)
-
-[^501]: " एष देवः। उपसर्पाम्येतम्।"
 
 ** दाण्डपाशिकः—** (उपसृत्य) जयदु जयदु देवो।[^502]
 
@@ -5219,8 +4949,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
  **(४)** यन्निरर्गलं मिलितैर्युष्माभिर्विजृम्भितम्।
 
  **(५)** हा धिक्! श्रुतं भविष्यत्येतेन। अत एवं मन्त्रयति। विस्मृताः स्मो नीतिम्। स्वामिन्! सर्वं मर्षयत मर्षयतास्माकमपराधपदम्।
-
-
 
 ** दाण्डपाशिकः—** अधइं?। देव! दुट्ठपेडयं विन्नवेदि। एगं विन्नत्तियं सुणेदु देवो।[^503]
 
@@ -5266,8 +4994,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **मम प्रसादेनैव शूद्रकदेवेन वीरप्रवरेण।  
 निर्जितरिपुचक्रेणैकच्छत्रं कृतं राज्यम्॥**
-
-
 
 **पापात्मकचौर्यरते! त्वदुपासनगलितचित्तपावित्र्यम्।  
 दृष्ट्वा पाण्डोः सूनून् राज्यश्रीरत्यजत्पुण्या॥३०॥**
@@ -5316,8 +5042,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **यदि नाम सदोषोऽहं तत्पूर्वनृपैः सेवितः कथं नु?।  
 अथापवित्रस्तत्कथं पितॄणां बहुमतो जातः?॥**
-
-
 
 **(१) जे नाम भूमिदेवा निवदीण वि अग्घिदा नियगुणेहिं।  
 ते वि मह देव! सेवं करंति[^511] अव्वाहयप्पसरं॥३५॥**
@@ -5377,8 +5101,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **बालत्वादपि तव देव! नित्यमत्यन्तवल्लभोऽहकम्।  
 मम साहाय्येन तदा कृतानि देशान्तराणि त्वया॥**
 
-
-
 ** जाङ्गलकः—** (स्वगतं) मोणमेव पत्तकालं ति।[^515]
 
 ** मद्यशेखरः— (२)** देव! सिरिवणराजसमुवज्जिदरज्जलच्छीभुयंग! पसीद। कीदिसो ममावराहो? जेणाहमेवं परिभविज्जामि।
@@ -5435,8 +5157,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **इह धवलगृहेषु चिरं चापोत्कटराजलालित उषितः।  
 एवं च स्थिते स्वामिन्! यज्जानासि तत्क्रियताम्॥**
 
-
-
 ** राजा—** अरे अलीकवाचाल! विरम विरम। भवादृशां हि परदोषोद्गारैरेव गर्वगरिमासमुज्जृम्भते। ननु त्वत्सेवयैव निखिलमपि क्षयं गतं यादवकुलं वनराजकुलं च। अथवा कस्त्वया सह उक्तिप्रत्युक्तिप्रपञ्चः?। यतो भवान् जाङ्गलकश्च जीवमयावित्यपि त्याज्यावेव धर्मात्मनाम्। उक्तं च—
 
 **मद्ये मांसे मधुनि च नवनीते तक्रतो बहिर्नीते।  
@@ -5474,9 +5194,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^529]: " यद्देव आज्ञापयति।"
 
-*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
 [^530]: " पुत्रकाः! जीवतैतद्विस्मृताऽस्मि। ननु वयं राजकुले द्रव्यं पूरयामः।"
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
  **(१)** पर्याप्तमात्रो भणितिभिः‚ यद्भवति तद्भवतु।
 
@@ -5487,8 +5207,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **दशरथनरेश्वरेण मम सेवानिश्चलेन नित्यमपि।  
 अहह! शरेण निहतः श्रवणर्षिसुतो मुहूर्त्तेन॥**
-
-
 
 ** सर्वे—** (सहर्षं) साहु अम्ब! साहु। विन्नवीयदु।[^531]
 
@@ -5539,8 +5257,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  **(२)** देव! वयं द्यूतं जाङ्गलको मद्यशेखरो राजकुले प्रभूतं द्रव्यं पूरयामः। तत्क आदेशः?।
 
-
-
 **पञ्चमोऽङ्कः।**
 
 (ततः प्रविशति विवेकचन्द्रः।)
@@ -5572,8 +5288,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 (आकाशे)
 
  किं ब्रूषे?।यत्सर्वोत्तम! अपरान्नरेन्द्रान् परित्यज्य कथं मानवेश्वरममुं द्रष्टुमीहसे?। नन्वेवं‚ यतः—
-
-
 
 **विनार्कस्यांशुसंपर्कं ध्वान्तध्वंसनचेतसः।  
 न प्राप्नोति कलावृद्धिं शिवोपासनया शशी॥५॥**
@@ -5618,8 +5332,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **उच्चण्डासिविखण्डितारिमुकुटोद्भ्रान्तैर्मणीनां गणै-  
 र्येनाकारि सपत्नदुःखमिव खे तारावलीनां रणे।**
 
-
-
 **व्यामोहक्षितिपाललोलनयनावैधव्यदानोद्यतः  
 श्रीचौलुक्यकुमारपालनृपतिर्जीयाज्जगत्यां जयी॥९॥**
 
@@ -5658,8 +5370,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 [^537]: "C धाम्नो."
 
 ** राजा—** (विलोक्य) किमयमार्यो विवेकचन्द्रः?। (इति सप्रश्रयं) इदमासनमास्यताम्। (पुनः सहर्षं)
-
-
 
 **पुण्योदयपरीपाको मामकीनो विजृम्भते।  
 यदस्मिन् समये जज्ञे विवेकस्य समागमः॥१४॥**
@@ -5703,8 +5413,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** राजा—** (श्रुत्वा सौत्सुक्यं) प्रतीहार! प्रवेशय ज्ञानदर्पणं सत्वरम्।
 
-
-
 ** प्रतीहारः—** देवादेशः प्रमाणम्। (इति निष्क्रम्य ज्ञानदर्पणेन सह प्रविश्य च) देव! अयं ज्ञानदर्पणः।
 
 ** ज्ञानदर्पणः—** जयतु जयतु देवः।
@@ -5741,8 +5449,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 हल्याजारशिरस्त्वदीयललितं सर्वैर्नमस्यं यतः।  
 त्यक्त्वा ध्यानरसं निरस्य च तपस्त्वद्बन्धुकामायुध-  
 श्रेणीपञ्जरजर्जरः पुररिपुर्गौरीमुखं वीक्षते॥१८॥**
-
-
 
 ** राजा—** (सकोपं) ज्ञानदर्पण! त्वया पुनः किमुक्तम्?।
 
@@ -5790,8 +5496,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **स्वामिकार्यमिदं देव! प्राणितं भक्तिशालिनाम्।  
 विना तेन न जीवन्ति भुवने नरसत्तमाः॥२२॥**
 
-
-
 ** राजा—** एवमेतत्। इदं हि स्वामिभक्तानां कुलव्रतम्। पुनस्तेन किमुक्तं पापेन?।
 
 ** ज्ञानदर्पणः—** तनैवं वक्रोक्त्या स्वच्छन्दमुज्जृ[^549]म्भितम्। यतः[^550]—
@@ -5837,8 +5541,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  (पुनः सजिज्ञासं) ज्ञानदर्पण! विज्ञपय तस्य बलस्वरूपं पापस्य।
 
-
-
 ** ज्ञानदर्पणः—** एष विज्ञपयामि। देव! तस्य भुवनचलनाय समुद्यतमिवात्मजयुगलं रागकेसरिद्वेषगजेन्द्रनामधेयमस्ति। तथा च—
 
 **मन्ये प्रेतपतिं विजित्य समरे हृत्वा तदीयं पदं  
@@ -5876,8 +5578,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **दानोत्तुङ्गतरङ्गजाततटिनीरङ्गद्द्विरेफावली-  
 गीतस्थामपराक्रमां गजघटां कामाङ्कुशैः पातयन्।**
-
-
 
 **गर्जाजर्जरभूधराग्रशिखरस्तावन्मृगारिर्जयी  
 यावन्नाम विजृम्भते न शरभःपाथोदसज्जक्रमः॥३१॥**
@@ -5919,8 +5619,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** राजा—** क इव?
 
-
-
 ** ज्ञानदर्पणः—** लोभसागरनामा सुभटावन्तसः शंसति निजगुणान्। तथा च—
 
 **दाक्षिण्यं शुचिता विवेकपदवी गम्भीरता सत्यता  
@@ -5955,8 +5653,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 [^554]: "A °विजय°"
 
 ** राजा—** न तेनापि किञ्चित्। अपरं कमप्याख्याहि।
-
-
 
 ** ज्ञानदर्पणः—** प्रतिपक्षपृतनाघनावलीविलयपवनापातं पापकेतुसंज्ञममात्यं विदांकरोतु स्वामी।
 
@@ -5995,8 +5691,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^558]: " B & C °नामात्येना°"
 
-
-
 'स्वामिन्! असमीक्षितकारिता हि महद्दूषणं राज्ञाम्। स नाम जयत्येव यः स्वपरयोर्बलमधिमनसं ज्ञात्वा प्रवर्तते कृत्येषु'। ततश्चो[^559]क्तं मोहराजेन 'अमात्य! मोहनृपतेरपीतरकातरनरपतिवत् प्रतिपक्षबिभीषिकाः पराक्रमस्यान्तरायतां यान्ति?'।पापकेतुना त्ववाचि 'देव! बलीयानसौ विपक्षक्षमापतिः। एनमुद्दिश्य सहसा यानं नायतिसुन्दरमुत्पश्यामि'। ततश्च मोहराजेन रागकेसरिद्वेषगजेन्द्रमदनदेवप्रभृतीन्मीलयितुमादिष्टः प्रतीहारः। स्वयं चालङ्कृतो मन्त्रमण्डपः। एवं च स्थिते समागतोऽहं देवं निकषेति।
 
 [^559]: " B & C °अतश्चो°"
@@ -6027,8 +5721,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 स्तद्भो! विद्धि मया तु मोहनृपतिः सोऽयं हतो हन्यते॥३९॥**
 
 ** विवेकचन्द्रः—** (स्वगतं) अहो! राजर्षेरस्य महानवष्टम्भो येन त्रैलोक्यमपि तृणवत्तुलयति। तदमुना कृतकृत्योऽस्मि। (प्रकाशं) महाराज! यद्येवं तर्हि पुण्यकेतुना सह सुविमृष्टं क्रियतामिदमिति।
-
-
 
 (प्रविश्य)
 
@@ -6062,8 +5754,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** ज्ञानदर्पणः—** मामपि देव! सहैव नय, यतोऽस्माकमस्ति त्रयाणामपि स्वाभाविकमन्तर्धानपाटवम्।
 
-
-
 ** राजा—** भवत्वेवम्। को दोषः?। (इति सर्वे परिक्रामन्ति।)
 
 ** ज्ञानदर्पणः—** देव! इदं विपक्षभूपतेः शिबिरम्।
@@ -6096,8 +5786,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **विलोक्यमाना एवैते हृद्याः क्षितिधरा इव।  
 कठिनाः स्पृशमानास्तु परमोद्वेगहेतवः॥४२॥**
-
-
 
 ** राजा—** ज्ञानदर्पण! अन्तस्तत्त्वममीषामवगन्तुमिच्छामि।
 
@@ -6143,8 +5831,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **अशंसयाप्यसौ स्वामिजयं प्रति मतिर्मम।  
 एनमालोक्य दुर्धर्षमहो! दोलायतेऽधुना॥४६॥**
 
-
-
 ** ज्ञानदर्पणः—** देव! अमात्यपापकेतुद्वितीयो मोहराजो मन्त्रमण्डपासीनस्तिष्ठति। तन्निभृता एव तावन्मुहूर्त्तमास्महे।
 
 ** सर्वे—** एवमस्तु। (इति तथाकुर्वन्ति।)
@@ -6180,8 +5866,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** मोहराजः—** (अपकर्णितकेन) आः! किमद्यापि चिरयन्ति रागकेसरिप्रभृतयः?।
 
-
-
 (प्रविश्य)
 
 ** प्रतीहारी—** जयदु जयदु देवो। देव! को वि चरपुरिसो दंसणमभिलसदि।[^562]
@@ -6198,9 +5882,9 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 [^563]: "यद्देव आज्ञापयति। "
 
-** कदागमः—** (स्वगतं)
-
 [^564]: "भद्र! एष देवस्तदुपसर्प।"
+
+** कदागमः—** (स्वगतं)
 
 **(३) विच्छाओ झीणसरो वियलियलायन्नओ मिलाणमुहो।  
 किं दीसइएस पहू? अहव पयावक्खओ जाओ॥५०॥**
@@ -6227,8 +5911,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 किं दृश्यत एष प्रभुः? अथवा प्रतापक्षयो जातः।**
 
  **(५)** देव! एतद्विज्ञप्यते। वैरिनगरे संप्रति धर्मकुञ्जरो नाम नवदाण्डपाशिको वर्त्तते।
-
-
 
 तओ हं बंभसावगवेसं कडुय गदो निवदिगुरुणो धम्मारामे। गुरुसेवत्थमागदेण दिट्ठो रन्ना। समाणधम्मिगु त्ति नीदो धवलहरे। ठिदो य बहुधा। परिट्ठिदो पुरोहिदपदे। तत्थ ठिदस्स अदिक्कंतो इत्तिको कालो। मुणिदमिदिवित्तमसेसं पि। संपदि संसारगवदियरे पणट्ठेसु कलिकंदलप्पभुदिसु विडंबिदेस जूदपमुहेसु अहं पि नियभएण अवक्कंतो।
 
@@ -6264,8 +5946,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 तत्प्रतिपत्त्या दुर्लभा पुरुषाणां प्रवेशाः। ततोऽहं ब्रह्मश्रावकवेषं कृत्वा गतो नृपतिगुरोर्धर्मारामे। गुरुसेवार्थमागतेन दृष्टो राज्ञा। समानधार्मिक इति नीतो धवलगृहे। स्थितश्च बहुधा। परिस्थितः पुरोहितपदे। तत्र स्थितस्यातिक्रान्त एतावान् कालः। ज्ञातमितिवृत्तमशेषमपि। संप्रति संसारकव्यतिकरे प्रनष्टेषु कलिकन्दलप्रभृतिषु विडम्बितेषु द्यूतप्रमुखेष्वहमपि निजभयेनापक्रान्तः।
 
  **(२)** विवेकदुहिता परिणीता गुर्जरनरेन्द्रेण। मृतधनमोचनद्यूतादिव्यसननिर्वासने पूरितः पणस्तस्याः।
-
-
 
 ** पापकेतुः—** भद्र कदागम! प्रष्टव्योऽसि। किं स्वानुरागात्परिणिन्ये विवेकदुहितरं नृपः? उत महानसौ नरेन्द्रः स्वाजन्यं ग्राहयितव्य इति विवेकः कन्यामदात्?।
 
@@ -6309,8 +5989,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  **(१)** निजानुरागेण पणपूरणपूर्वकं परिणीता नृपेण विवेकसुता। गुर्वादेशनामनैमित्तिकवचनप्रत्ययतश्च।
 
-
-
 ** रागकेसरिः—** (सोच्चैर्हासं)
 
 **अर्द्धाङ्गे गिरिजां बिभर्त्ति गिरिशो विष्णुर्वहत्यन्वहं  
@@ -6349,8 +6027,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** (१)** ततो गूर्जरनरेश्वरः सिद्धादेशनैमित्तिकप्रत्ययप्रहृष्टपुण्यकेतुप्रभृतिप्रकृत्युत्साहद्विगुणितरणरङ्गो देवस्योपर्यागत एवेति जानन्तु।
 
-
-
 ** रागकेसरिः—** तात! किमिदमस्थान एव संरभसे?। ननु मयैवेदं विद्धि सिद्धमरिवधप्रयोजनम्। यतः—
 
 **गर्जद्गजेन्द्रभ्रमतः पयोद-  
@@ -6384,8 +6060,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 स्माकं मध्यात्कमपि नितमामादिश स्वेष्टसिद्ध्यै॥६१॥**
 
 ** मोहराजः—** (सविलक्षं) कुमार रागकेसरिन्! वत्स द्वेषगजेन्द्र! राजन्
-
-
 
 मदनदेव! अमात्य पापकेतो! भद्राः कलिकन्दलादयः! मोहमहाराजः खल्बहं न शत्रुपक्षमक्षपयित्वा शस्त्रं प्रतिसंहरामि। किं वा बहुनोक्तेन?।
 
@@ -6429,8 +6103,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  आः! कथं प्रनष्टा एव?।
 
-
-
 ** मोहराजः—** (सक्रोधं) अरे रे मनुष्यकीट! कूटवाचाट! चिरादन्विष्यता प्राप्तोऽसि। आश्चर्यमाश्चर्यम्,
 
 **यो हन्तुमध्यवसितस्तैस्तैर्विविधैरुपकमैः सुचिरात्।  
@@ -6465,8 +6137,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 धत्से सुप्तमृगारिजागरविधिं स्वं हन्तुमेव स्वयम्॥७०॥**
 
 ** राजा—** रे रे सकलत्रिलोकसुकृतपलकवलनराक्षस मोह!,
-
-
 
 **प्रहर प्रहर प्रथमं दत्तोऽत्र मया तवावकाशोऽयम्।  
 अप्रहरत्सु प्रहरणकलासु कुशला न चौलुक्याः॥७१॥**
@@ -6507,8 +6177,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 ** राजा—** आर्य विवेकचन्द्र! त्वदनुग्रहान्निस्तीर्णप्रतिज्ञोऽस्मि। तदलंकुरु स्वराजधानीं जनमनोवृत्तिम्।
 
-
-
 ** विवेकचन्द्रः—** राजन्[^575]! किं ते भूयः प्रियं करोमि?।
 
 [^575]: " A अङ्ग राजन्! "
@@ -6538,11 +6206,7 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
  **२.** B नाटकम्॥छ॥ कल्याणमस्तु॥ मंगलं महाश्रीः॥छ॥ C नाटकम्॥छ॥ कल्याणमस्तु॥छ॥ मंगलं महाश्रीः॥ ॥संवत् १५७९ वर्षे श्री···महादुर्गे श्रीखरतरगच्छे····नसूरिसंताने श्रीजिनचंद्रसूरि-श्रीजिनसागरसूरि-श्रीजिनसुन्दरसूरि-श्रीजिनहर्षसूरि-शिष्यश्रीजिनचन्द्रसूरिशिष्येण विमललाभमुनिना श्रीमोहराजपराजयनाटकमलेखि॥
 
-
-
 ![](../books_images/U-IMG-1729772090Screenshot2024-10-24174424.png)
-
-
 
 **APPENDIX I**
 
@@ -6594,8 +6258,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 खंडियविपक्खमुंडो चंडो चामुंडरायनिवो॥**
 
 **तत्तो वल्लहराओ राया रइवल्लहो व्व रमणिज्जो।**
-
-
 
 **जेण तुरएहिँ जगझंपणुत्ति कित्ती जए पत्ता॥**
 
@@ -6650,8 +6312,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **करितुरयरहसमिद्धं नरिंदसिरिकुसुमलीढपयवीढं।  
 लंघियवसणसहस्सो संपत्तो जंअहं रज्जं॥**
-
-
 
 **तं पुव्वभवे धम्मो सुहेक्कहेऊ कओ मए को वि।  
 कज्जस्स दंसणाओ जाणंति हि कारणं निउणा॥**
@@ -6708,8 +6368,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **धन्न एए मुणिणो काउं जे सव्वसंगपरिहारं।  
 परलोयमग्गमेक्कं मुक्कभवासा पयंपंति॥**
 
-
-
 **ता एयाण मुणीणं पयपउमनमंसणेण अप्पाणं।  
 परिगलियपावपंकं पहायसमए करिस्सामि॥**
 
@@ -6759,8 +6417,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **नवमेहपिययमेणं समप्पियं जत्थ तडिलयालोयं।  
 कणयमयाभरणं पिव पयडन्ति दिसापुरन्धीओ॥**
-
-
 
 **नवपाउसनरवइरज्जघोसणाडिंडिमो व्व सव्वत्थ।  
 जग्गवियविसमबाणो वियंभिओ मेहगज्जिरवो॥**
@@ -6812,8 +6468,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **एगंतरोववासे जाजीवं अंबिलं च पारणए।**
 
-
-
 **काहं ति तेण विहिया वयगहणदिणे च्चिय पइन्ना॥**
 
 **सुयसागरपारगओ सूरिपयं पाविऊण जसभद्दो।  
@@ -6863,8 +6517,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **तस्स गुणसेणसूरी सीसो वरसंजमुज्जओ जाओ।  
 जस्स गुणच्चिय पाणा अंतररिउवग्गनिग्गहणे॥**
-
-
 
 **सीसो खमग्गलग्गो तस्सासी देवचंदसूरित्ति।  
 चंदेण व दियराएण जेण आणंदियं भुवणं॥**
@@ -6917,8 +6569,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 बहुयजणाणं एसो उवयारं काउमाढत्तो॥**
 
 **गब्भगए वि इमिस्सिं इह देसे नट्ठमसिवनामं पि।**
-
-
 
 **जं अरसमूलखयखाससासकुट्ठाइणो रोगा॥**
 
@@ -6976,8 +6626,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **बालो वि मुणइ एवं जं जीववहेण लब्भइ न सग्गे।  
 किं पन्नगमुहकुहराओ होइ पीऊसरसवुट्ठी?॥**
 
-
-
 **तो गुरुणा वागरियं नरिंद! तुह धम्मबंधुरा बुद्धी।  
 सव्वुत्तमो विवेगो अणुत्तरं तत्तदंसित्तं॥**
 
@@ -7027,8 +6675,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 गुरुणा भणियं—धन्नो सि जो परित्थीनियत्तो सि॥**
 
 **कमलाण सरं रयणाण रोहणं तारयाण जहा गयणं।**
-
-
 
  वेश्या—पररमणीपरिहारः
 
@@ -7090,8 +6736,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **जग्गंतो सुत्तो वा न लहइ सुक्खं दिणे निसाए वा।**
 
-
-
 **संकाछुरियाए छिज्जमाणहियओ धुवं चोरो॥**
 
 **जं चोरियाए दुक्खं उब्बंधणसूलरोवणप्पमुहं।  
@@ -7122,8 +6766,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 कुमारक्ष्मापाल! त्वमसि महतां मस्तकमणिः॥**
 
 **(कुमारपालप्रतिबोधात्).**
-
-
 
 **APPENDIX II**
 
@@ -7175,8 +6817,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 **मुनेस्तस्योपदेशेन जीवाजीवादितत्त्ववित्।  
 आचार्य इव सोऽन्येषामपि बोधिं प्रदास्यति॥६१॥**
 
-
-
 **येऽर्हद्धर्मद्विषः केऽपि पांडुराह्वद्विजादयः।  
 तेऽपि तस्याज्ञया गर्भश्रावका इव भाविनः॥६२॥**
 
@@ -7227,8 +6867,6 @@ conspicuous of his victories were those over the Sâmbhara king Arṇorâja, and
 
 **From Hemachandra's Mahâvîracharitra canto XII**
 
-
-
 **APPENDIX III**
 
 EDICTS OF NON-INJURY TO ANIMALS ISSUED BY  
@@ -7253,13 +6891,9 @@ KUMÂRAPÂLA'S FEUDATORIES.
 
  ॐ॥ संवत् १२०९ माघवदि १४ शनौ अद्येह श्री.................................हाराजाधिराजपरमेश्वरउमांपतिवरलब्धप्रशादप्रौढप्रताप.................................निर्जितशाकम्भरीभूपालश्रीमत्कुमार-पालदेवकल्याणविजय.........................................यश्रीमहादेवे श्रीकरणादौसमस्तमुद्राव्यापारान् परिपं................................प्रभुप्रसादावाप्तश्रीकिराटकूपलाटर्हदशिवा........................................राजश्रीआलणदेवः शिवरात्रिचतुर्दश्यां शुचिर्द............................पुण्ययशोऽभिवृद्धये प्राणिनामभयप्रदानं
 
-
-
 म.....................हाजनताम्बूलिकसमतप्रकृतीन् संबोध्य अभय..........................................मासे उभयोः पक्षयोः अष्टमी एकादशी चतुर्दशी.............................................दत्तं अतोऽनन्तरमेतासु तिथिषु नगरत्रयेऽपि जीव......................................................(जा?) च व्यतिक्रम्य जीवानां वधं कारयति करोति वा स व्यापा.............................................आचन्द्रार्कं यावत्केनापि न लोपनीयम्।अपरं पुरोहिता (अमा)................................................सर्वैरपरैश्च एषा अमारिरूढिः प्रमाणीकार्या।(यः को)........................................कालेन क्षीयते फलंएतस्याभयदानस्य क्षय............स्य प्रदत्ताऽभयदक्षिणा।....................न तु विप्रसहस्रेभ्यो.....................कोऽपि पापिष्ठतरो जीववधं कुरुते तदा स पञ्चदम्मै दंड (नीयः)।...........................दर्व्योमाहराजिकस्यैको द्रम्मोऽस्ति। स्वहस्तोऽयं महारा (जश्रीआल्हणदेवस्य).....................................................................श्रीमहाराजपुत्रकेल्हणदेवमेतत् (मतं).....................................महाराजपुत्रगजसिंहस्य (म) त.............................................सान्धिविग्रहिकठ०खेलादित्येन लिखितमिदं।..................................................श्री नदूलपुरवासी प्राक् (ग्) वाटवंशप्रभूतशुभंकराभिधानः श्रावकः। तत्पुत्रौ क्षितितल (ले) धर्मतया विख्यातौ पूतिगशालिगौ। ताभ्यामतीव कृपापराभ्यां प्राणिनामभयप्रदानशासनं विज्ञप्य कारापितमिति। उत्कीर्णं सूत्र० भाइलेन।...............................
 
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
-
 
 **INDEX OF NAMES OF HISTORICAL IMPORTANCE  
 OCCURRING IN THE MOHAPARÂJAYA.**
@@ -7268,651 +6902,10 @@ OCCURRING IN THE MOHAPARÂJAYA.**
 
 [TABLE]
 
-
-
 **CORRIGENDA  
 ![](../books_images/U-IMG-1731657057Capture.JPG)**
 
 [TABLE]
 
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^516]: " B & C होज्ज."
-
-
-[^506]: " B & C होज्ज."
-
-
-[^500]: " एवं भवतु।"
-
-
-[^486]: " एवं भवतु।"
-
-
-[^481]: " B & C खु. "
-
-
-[^434]: "अम्ब! प्रणमामः।"
-
-
-[^420]: " B & C एत्थ."
-
-
-[^379]: "अथ किम्?।"
-
-
-[^374]: " B & C कधं."
-
-
-[^372]: "C ज्जेव. "
-
-
-[^315]: "B & C कथं."
-
-
-[^313]: "एवं भवतु।"
-
-
-[^272]: " B & C ज्जेव."
-
-
-[^269]: " एवं भवतु।"
-
-
-[^256]: "अथ किम्?।"
-
-
-[^121]: "एवं भवतु।"
-
-
-[^38]: " B & C जोग्गो."
